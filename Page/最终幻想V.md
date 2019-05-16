@@ -1,7 +1,7 @@
 是由[史克威尔开发并于](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")1992年发行的中世纪奇幻[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏是[最终幻想系列的第五部作品](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。游戏于日本[超级任天堂平台首发](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，后来略作修改移植于[PlayStation和](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[Game
 Boy
 Advance平台](../Page/Game_Boy_Advance.md "wikilink")。1994年制作的[原創動畫錄影帶](../Page/原創動畫錄影帶.md "wikilink")《[最终幻想](https://zh.wikipedia.org/wiki/最终幻想_\(OVA\) "wikilink")》讲述了游戏情节的后续故事。游戏于2011年4月在日本[PlayStation
-Network发行](../Page/PlayStation_Network.md "wikilink")。使用了高分辨率图形和触摸界面的强化移植版的[iOS版于](../Page/iOS.md "wikilink")2013年3月发行，[Android版于](../Page/Android.md "wikilink")2013年9月发行。
+Network发行](../Page/PlayStation_Network.md "wikilink")。使用了高分辨率图形和触摸界面的强化移植版的[iOS版于](https://zh.wikipedia.org/wiki/iOS "wikilink")2013年3月发行，[Android版于](../Page/Android.md "wikilink")2013年9月发行。
 
 《最终幻想V》因角色定制高自由度，职业系统大幅扩展而获得称赞。虽然游戏最开始没有在日本以外发行，但超级任天堂版销量超过200万份。PlayStation版选入索尼“精选集”，并售出35万多份。
 
@@ -46,8 +46,8 @@ Advance版为26种）职业。每个角色初始职业为“佣兵”；若要�
 
 ## 开发
 
-《最终幻想V》的[总监为](https://zh.wikipedia.org/wiki/游戏总监 "wikilink")[坂口博信](../Page/坂口博信.md "wikilink")，他担任最终幻想系列创作人至《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》，坂口这是他最喜欢的最终幻想游戏\[23\]\[24\]。角色、图像和作品Logo由系列插画者与图像设计者[天野喜孝设计](../Page/天野喜孝.md "wikilink")，实际的角色子画面由涉谷员子设计\[25\]。怪兽由[野村哲也设计](../Page/野村哲也.md "wikilink")\[26\]\[27\]。喜孝曾称，他认为他最喜欢的最终幻想设计在《最终幻想V》法利斯和《最终幻想VI》泰拉的刻画之间\[28\]。剧本文字的编写由坂口和[北瀨佳範合作完成](https://zh.wikipedia.org/wiki/北瀨佳範 "wikilink")\[29\]。坂口构思并主管情节，北濑尝试为相对严肃的故事加入更多幽默来缓和\[30\]\[31\]。职业系统由[伊藤裕之设计](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")，他也和[松井聪彦一同担任战斗规划](https://zh.wikipedia.org/wiki/松井聪彦 "wikilink")\[32\]\[33\]\[34\]。飞空艇场景使用了[Mode
-7效果](https://zh.wikipedia.org/wiki/Mode_7 "wikilink")，飞空艇的移动会产生星球绕轴旋转的效果。史克威尔雇佣了45人的团队创作游戏，并使用16
+《最终幻想V》的[总监为](https://zh.wikipedia.org/wiki/游戏总监 "wikilink")[坂口博信](../Page/坂口博信.md "wikilink")，他担任最终幻想系列创作人至《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》，坂口这是他最喜欢的最终幻想游戏\[23\]\[24\]。角色、图像和作品Logo由系列插画者与图像设计者[天野喜孝设计](../Page/天野喜孝.md "wikilink")，实际的角色子画面由涉谷员子设计\[25\]。怪兽由[野村哲也设计](../Page/野村哲也.md "wikilink")\[26\]\[27\]。喜孝曾称，他认为他最喜欢的最终幻想设计在《最终幻想V》法利斯和《最终幻想VI》泰拉的刻画之间\[28\]。剧本文字的编写由坂口和[北瀨佳範合作完成](../Page/北瀨佳範.md "wikilink")\[29\]。坂口构思并主管情节，北濑尝试为相对严肃的故事加入更多幽默来缓和\[30\]\[31\]。职业系统由[伊藤裕之设计](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")，他也和[松井聪彦一同担任战斗规划](https://zh.wikipedia.org/wiki/松井聪彦 "wikilink")\[32\]\[33\]\[34\]。飞空艇场景使用了[Mode
+7效果](../Page/Mode_7.md "wikilink")，飞空艇的移动会产生星球绕轴旋转的效果。史克威尔雇佣了45人的团队创作游戏，并使用16
 MB的空间容纳子图形、动画和细节背景。《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》1993年5月刊中称，日本当局要求史克威尔不要在教学日发售游戏，否则小学生会去逃课排队购买游戏\[35\]。
 《最终幻想V》日版后发行后不久开始官方英文化。游戏在北美标题定为“最终幻想III”，但项目最终未能实现\[36\]。翻译员[泰德·伍尔西在](https://zh.wikipedia.org/wiki/泰德·伍尔西 "wikilink")1994年的访谈中解释称，《最终幻想V》“正好难以让一般玩家足够接近”\[37\]。谣言称将可能尝试第二次本地化，并将游戏定名为“最终幻想
 极致”（*Final Fantasy Extreme*），但该尝试也取消了。第三个尝试是，将游戏移植到[Microsoft
@@ -59,7 +59,7 @@ Software相同的版本还是真正的第四次尝试\[39\]。连续取消本地
 
 ## 移植与重制
 
-《最终幻想V》由[东星软件移植于索尼](https://zh.wikipedia.org/wiki/东星软件 "wikilink")[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，游戏于1998年3月19日发行；其与1999年收录于《最终幻想收藏集》中再发行，合集另外两部游戏是《最终幻想IV》和《最终幻想VI》\[41\]\[42\]。PlayStation版加入了为开场与结尾加入了新的[全动态影像过场](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")，并新增了“备忘录存档”功能，而游戏其他方面依然没有变化\[43\]\[44\]。史克威尔发行了5万份带有最终幻想主题闹钟的限量版游戏\[45\]。同年，史克威尔在北美发行了PlayStation合集《最终幻想选集》，其收录了《最终幻想V》和PlayStation版《最终幻想VI》。这标志着游戏首发七年后，首次在日本以外发行\[46\]。2002年，史克威尔在欧洲和澳大利亚发行该版本游戏但这次是和《最终幻想IV》一起发行\[47\]\[48\]。英语版游戏在原版上做了变动——最明显的是法利斯设定为凯尔特“海盗”特点，同时角色名字翻译也和日本官方罗马字不同，如“Bartz”之于“Butz”，“Gill”之于“Guido”\[49\]。2012年12月18日，移植版和其他游戏打包，在日本以《最终幻想25周年纪念极致选集》为题发行\[50\]。
+《最终幻想V》由[东星软件移植于索尼](../Page/东星软件.md "wikilink")[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，游戏于1998年3月19日发行；其与1999年收录于《最终幻想收藏集》中再发行，合集另外两部游戏是《最终幻想IV》和《最终幻想VI》\[41\]\[42\]。PlayStation版加入了为开场与结尾加入了新的[全动态影像过场](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")，并新增了“备忘录存档”功能，而游戏其他方面依然没有变化\[43\]\[44\]。史克威尔发行了5万份带有最终幻想主题闹钟的限量版游戏\[45\]。同年，史克威尔在北美发行了PlayStation合集《最终幻想选集》，其收录了《最终幻想V》和PlayStation版《最终幻想VI》。这标志着游戏首发七年后，首次在日本以外发行\[46\]。2002年，史克威尔在欧洲和澳大利亚发行该版本游戏但这次是和《最终幻想IV》一起发行\[47\]\[48\]。英语版游戏在原版上做了变动——最明显的是法利斯设定为凯尔特“海盗”特点，同时角色名字翻译也和日本官方罗马字不同，如“Bartz”之于“Butz”，“Gill”之于“Guido”\[49\]。2012年12月18日，移植版和其他游戏打包，在日本以《最终幻想25周年纪念极致选集》为题发行\[50\]。
 
 在[PlayStation
 2发行后](../Page/PlayStation_2.md "wikilink")，索尼报告称，新系统和《最终幻想选集》的《最终幻想V》部分有兼容性问题\[51\]。若玩家尝试存档游戏，游戏将会出现图形错误的bug\[52\]。史克威尔之后声明称，只是存档屏幕会崩坏，若玩家希望则仍可存档，反复进出存档屏幕将可看到正常的屏幕\[53\]。在PAL区和[Greatest
@@ -76,7 +76,7 @@ Console服务](../Page/Virtual_Console.md "wikilink")。PlayStation版作为PSon
 Classic在PlayStation
 Network上再发行，该版于2011年4月6日在日本发行，2011年4月13日在欧洲发行，2011年11月22日在北美发行。
 
-2010年4月27日，史克威尔艾尼克斯制作人[桥本真司称](https://zh.wikipedia.org/wiki/桥本真司 "wikilink")，《最终幻想V》任天堂DS重制版开发因“技术问题”至今“未决”\[60\]。然而2010年6月24日，他补充称[任天堂3DS重制已纳入考虑范围](../Page/任天堂3DS.md "wikilink")，但他将先“看一看3DS如何发展，然后再做决定”。2012年12月，史克威尔艾尼克斯宣布更新版游戏将于[iOS](../Page/iOS.md "wikilink")
+2010年4月27日，史克威尔艾尼克斯制作人[桥本真司称](../Page/桥本真司.md "wikilink")，《最终幻想V》任天堂DS重制版开发因“技术问题”至今“未决”\[60\]。然而2010年6月24日，他补充称[任天堂3DS重制已纳入考虑范围](../Page/任天堂3DS.md "wikilink")，但他将先“看一看3DS如何发展，然后再做决定”。2012年12月，史克威尔艾尼克斯宣布更新版游戏将于[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 [AppStore发行](https://zh.wikipedia.org/wiki/AppStore "wikilink")\[61\]。该强化移植版由[Matrix
 Software开发](../Page/Matrix_Software.md "wikilink")，并于2013年3月28日在iOS设备上发行，[Android版于](../Page/Android.md "wikilink")9月26日发行\[62\]。游戏使用了高分辨率画面，并使用由原版美工师涉谷员子设计的[子图形](https://zh.wikipedia.org/wiki/精灵_\(计算机图形\) "wikilink")，游戏系统加入了八方向移动和自动战斗的新功能，并沿用了Game
 Boy Advance版的封印神殿和超级头目恩诺\[63\]。
@@ -97,7 +97,7 @@ Fantasy-”的标题曲目，植松选此歌曲以表示他对全球音乐爱好
 
 ### 原创动画录影带
 
-1994年史克威尔发行了《最终幻想V》的后传[原创动画录影带](https://zh.wikipedia.org/wiki/原创动画录影带 "wikilink")（OVA），名称为简单的“最终幻想”。OVA由动画工作室[Madhouse制作](../Page/Madhouse.md "wikilink")，分为四个30分钟的日本[VHS录像带](../Page/VHS.md "wikilink")\[72\]\[73\]。动画设定于游戏情节200年后，讲述了了四名战士——其中之一为巴兹的后代\[74\]——从追求称为神的反派Deathgyunos手中保护风之水晶的故事\[75\]。OVA由[Urban
+1994年史克威尔发行了《最终幻想V》的后传[原创动画录影带](https://zh.wikipedia.org/wiki/原创动画录影带 "wikilink")（OVA），名称为简单的“最终幻想”。OVA由动画工作室[Madhouse制作](https://zh.wikipedia.org/wiki/Madhouse "wikilink")，分为四个30分钟的日本[VHS录像带](../Page/VHS.md "wikilink")\[72\]\[73\]。动画设定于游戏情节200年后，讲述了了四名战士——其中之一为巴兹的后代\[74\]——从追求称为神的反派Deathgyunos手中保护风之水晶的故事\[75\]。OVA由[Urban
 Vision于](https://zh.wikipedia.org/wiki/Urban_Vision "wikilink")1998年英文本地化，并以两卷VHS的形式，在北美发行以《最终幻想：水晶传说》为题发行\[76\]。
 
 ## 評價
@@ -110,7 +110,7 @@ Advance版售出近26萬份\[78\]。《最終幻想收藏集》在1999年售出�
 类似的，评论也给了《选集》版游戏褒贬不一的评价。[GameSpot批评游戏](../Page/GameSpot.md "wikilink")“薄如纸的角色”和陈词滥调的情节，继而在游戏引出任务时缺少角色发展。他们继续称，游戏翻译糟糕，并被之前的两个爱好者翻译夺去光彩。[IGN称](../Page/IGN.md "wikilink")《最终幻想V》的图形“过时”，但“引人入胜的”职业系统是游戏的亮点，并称赞了游戏音乐\[83\]。《电子游戏月刊》对职业系统表达了相同观点，他们还称，尽管游戏间或[加载时间长](https://zh.wikipedia.org/wiki/加载 "wikilink")，但《最终幻想V》仍是购买合集的主因\[84\]。
 
 与之相对的是，Game Boy
-Advance移植版游戏的评论大多是正面的。GameSpot的评论称赞游戏比PlayStation版更亲切，称其“好于以往”，并引称其优秀的剧本本地化和大量的特别内容。他们继续称，虽然游戏角色似乎不讨喜欢，剧情感觉“不出所料且平庸”，但他们认为游戏仍然比当时大多数游戏更为精致\[85\]。《[任天堂力量](https://zh.wikipedia.org/wiki/任天堂力量 "wikilink")》称“虽然在PlayStation上玩《最终幻想V》令人困烦，但GBA版是有趣的，因为其翻译大幅改进并有了新内容”，他们还称其为系列最佳作品的“决定性”版本之一\[86\]。IGN给游戏打了8.5分，称其为掌上系统的“必备”，并继续称其始终是“有趣且令人惊奇的深度角色扮演游戏”\[87\]。1UP.com称游戏从超级任天堂到Game
+Advance移植版游戏的评论大多是正面的。GameSpot的评论称赞游戏比PlayStation版更亲切，称其“好于以往”，并引称其优秀的剧本本地化和大量的特别内容。他们继续称，虽然游戏角色似乎不讨喜欢，剧情感觉“不出所料且平庸”，但他们认为游戏仍然比当时大多数游戏更为精致\[85\]。《[任天堂力量](../Page/任天堂力量.md "wikilink")》称“虽然在PlayStation上玩《最终幻想V》令人困烦，但GBA版是有趣的，因为其翻译大幅改进并有了新内容”，他们还称其为系列最佳作品的“决定性”版本之一\[86\]。IGN给游戏打了8.5分，称其为掌上系统的“必备”，并继续称其始终是“有趣且令人惊奇的深度角色扮演游戏”\[87\]。1UP.com称游戏从超级任天堂到Game
 Boy
 Advance的移植“稳如磐石”，并补充称虽然游戏情节一开始步伐缓慢，但却在逐步提高。评论还称赞游戏增加了内容，并除去《选集》版游戏带入的问题\[88\]。[GameDaily给游戏打了](https://zh.wikipedia.org/wiki/GameDaily "wikilink")7/10，称虽然游戏令人愉快，但高遇敌率、为通过职业系统获得能力而不得不频繁战斗，以及其他问题使得游戏有时感到重复乏味\[89\]。
 {{-}}

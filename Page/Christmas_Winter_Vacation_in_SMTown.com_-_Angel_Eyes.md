@@ -8,18 +8,16 @@ Town在](../Page/SM_Town.md "wikilink")2001年發行的第三張冬季合輯。�
 3.  White – [安七炫](../Page/安七炫.md "wikilink")
 4.  We Wish You a Merry Christmas -
     [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")
-5.  The First Noel -
-    [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(組合\) "wikilink")
+5.  The First Noel - [S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")
 6.  O' Holy Night - [Fly to the
     Sky](../Page/Fly_to_the_Sky.md "wikilink")
 7.  Feliz Navidad - [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")
 8.  Chocolate - [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")
-9.  Sad Snow - [劉英振](https://zh.wikipedia.org/wiki/劉英振 "wikilink")
+9.  Sad Snow - [劉英振](../Page/劉英振.md "wikilink")
 10. The First Noel - [安七炫](../Page/安七炫.md "wikilink")
 11. White Love -
     [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")
-12. Love Christmas -
-    [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(組合\) "wikilink")
+12. Love Christmas - [S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")
 13. Snow - [文熙俊](../Page/文熙俊.md "wikilink")
 14. All Night Long - [Fly to the
     Sky](../Page/Fly_to_the_Sky.md "wikilink")

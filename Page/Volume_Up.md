@@ -17,9 +17,9 @@ UP》，開始進行一連串的宣傳活動。
 ## 專輯風格
 
 Cube
-Entertainment表示這次4MINUTE的迷你三輯會以新嘗試的實驗性風格作為其突破，專輯收錄7首歌曲，包括Hit曲製作人[新沙洞老虎在內有名的作曲家打造屬於](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")4MINUTE的色彩。
+Entertainment表示這次4MINUTE的迷你三輯會以新嘗試的實驗性風格作為其突破，專輯收錄7首歌曲，包括Hit曲製作人[新沙洞老虎在內有名的作曲家打造屬於](../Page/新沙洞老虎.md "wikilink")4MINUTE的色彩。
 主打歌“[VOLUME UP](../Page/Volume_Up.md "wikilink")”
-是由出道以来就一直与4MINUTE合作的[新沙洞老虎和Rado](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")
+是由出道以来就一直与4MINUTE合作的[新沙洞老虎和Rado](../Page/新沙洞老虎.md "wikilink")
 Combi创作的歌曲再加以萨克斯的伴奏，让人百听不厌。歌詞是講述大众對女团的狂热和反面的影子，以用4MINUTE式坦率又破格的歌词表现。《SAY
 MY NAME》是拉丁和[hip
 hop](https://zh.wikipedia.org/wiki/hip_hop "wikilink")，《I'M

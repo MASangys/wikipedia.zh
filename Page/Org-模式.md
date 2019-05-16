@@ -162,9 +162,9 @@ Org-mode可以使用下面的软件或者组件进行扩展。有些应用需要
 ## 参见
 
   - [Emacs](../Page/Emacs.md "wikilink")
-  - [Pandoc](https://zh.wikipedia.org/wiki/Pandoc "wikilink")
+  - [Pandoc](../Page/Pandoc.md "wikilink")
   - [文档标记语言比较](../Page/文档标记语言比较.md "wikilink")
-  - [轻量级标记语言](https://zh.wikipedia.org/wiki/轻量级标记语言 "wikilink")
+  - [轻量级标记语言](../Page/轻量级标记语言.md "wikilink")
 
 ## 外部链接
 

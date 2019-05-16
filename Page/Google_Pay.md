@@ -1,5 +1,5 @@
 **Google
-Pay**是[Google的](../Page/Google.md "wikilink")[行動支付服務](https://zh.wikipedia.org/wiki/行動支付 "wikilink")，儲存於Google帳戶內的支付資訊將整合到各項Google產品服務中而更方便交易或進行非接觸式付款和網路購物。
+Pay**是[Google的](../Page/Google.md "wikilink")[行動支付服務](../Page/行動支付.md "wikilink")，儲存於Google帳戶內的支付資訊將整合到各項Google產品服務中而更方便交易或進行非接觸式付款和網路購物。
 
 截至2018年1月8日，Google Wallet 和 Android Pay 已整合為一個名為 Google Pay
 的單一行動支付服務(Pay with Google)。
@@ -278,14 +278,14 @@ Bhat在接受外國傳媒查詢時指出，支付功能是Google帳戶主要功�
 
 在日本的账户另外支持以下储值卡，但需要设备支持 Osaifu-Keitai 。
 
-  - [nanaco](../Page/nanaco.md "wikilink") （日本電子票證）
+  - [nanaco](https://zh.wikipedia.org/wiki/nanaco "wikilink") （日本電子票證）
   - [Edy](https://zh.wikipedia.org/wiki/Edy "wikilink")（日本電子票證）
   - [Suica](../Page/Suica.md "wikilink")（日本電子票證）
   - [Waon](https://zh.wikipedia.org/wiki/Waon "wikilink")（日本電子票證）
 
 ## 另見
 
-  - [行動支付](https://zh.wikipedia.org/wiki/行動支付 "wikilink")
+  - [行動支付](../Page/行動支付.md "wikilink")
   - [Apple Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")
   - [Samsung Pay](https://zh.wikipedia.org/wiki/Samsung_Pay "wikilink")
 

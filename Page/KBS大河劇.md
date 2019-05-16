@@ -55,7 +55,7 @@
 <td><p><br />
 </p></td>
 <td><p>49</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李順載" title="wikilink">李順載</a></p></td>
+<td><p><a href="../Page/李順載.md" title="wikilink">李順載</a></p></td>
 <td><p>申奉勝</p></td>
 <td><p>黃恩鎮</p></td>
 <td><p>講述朝鮮王朝大院君的故事。</p></td>
@@ -91,7 +91,7 @@
 <td><p><br />
 </p></td>
 <td><p>46</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申久" title="wikilink">申久</a>、</p></td>
+<td><p><a href="../Page/申久.md" title="wikilink">申久</a>、</p></td>
 <td><p>金夏林、吳在浩</p></td>
 <td><p>李海旭、洪成龍</p></td>
 <td></td>
@@ -139,7 +139,7 @@
 <td><p><br />
 </p></td>
 <td><p>54</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張美姬" title="wikilink">張美姬</a>、</p></td>
+<td><p><a href="../Page/張美姬.md" title="wikilink">張美姬</a>、</p></td>
 <td><p>朴秉宇</p></td>
 <td><p>李鍾秀</p></td>
 <td></td>
@@ -185,7 +185,7 @@
 <td><p><br />
 </p></td>
 <td><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申久" title="wikilink">申久</a>、</p></td>
+<td><p><a href="../Page/申久.md" title="wikilink">申久</a>、</p></td>
 <td><p>金教植</p></td>
 <td><p>李樂英</p></td>
 <td></td>
@@ -196,7 +196,7 @@
 <td><p><br />
 </p></td>
 <td><p>34</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金永哲" title="wikilink">金永哲</a></p></td>
+<td><p><a href="../Page/金永哲.md" title="wikilink">金永哲</a></p></td>
 <td><p>金亨明</p></td>
 <td><p>金在亨</p></td>
 <td></td>
@@ -218,7 +218,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/三國記" title="wikilink">三國記</a><br />
 </p></td>
 <td><p>50</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="../Page/劉東根.md" title="wikilink">劉東根</a>、<a href="https://zh.wikipedia.org/wiki/趙卿煥" title="wikilink">趙卿煥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、<a href="../Page/劉東根.md" title="wikilink">劉東根</a>、<a href="../Page/趙卿煥.md" title="wikilink">趙卿煥</a></p></td>
 <td><p>柳賢宗</p></td>
 <td><p>安英東</p></td>
 <td></td>
@@ -251,7 +251,7 @@
 <td><p><br />
 </p></td>
 <td><p>100</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李正吉" title="wikilink">李正吉</a>、<a href="../Page/金甲洙.md" title="wikilink">金甲洙</a></p></td>
+<td><p><a href="../Page/李正吉.md" title="wikilink">李正吉</a>、<a href="../Page/金甲洙.md" title="wikilink">金甲洙</a></p></td>
 <td><p>申奉勝</p></td>
 <td><p>李樂英</p></td>
 <td><p>原創：申奉勝《燦爛的黎明》</p></td>
@@ -310,7 +310,7 @@
 <td><p><a href="../Page/太祖王建.md" title="wikilink">太祖王建</a><br />
 </p></td>
 <td><p>200</p></td>
-<td><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="https://zh.wikipedia.org/wiki/金永哲" title="wikilink">金永哲</a>、<a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a></p></td>
+<td><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/金永哲.md" title="wikilink">金永哲</a>、<a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a></p></td>
 <td><p>李煥慶</p></td>
 <td><p>金鍾善、姜日洙</p></td>
 <td></td>
@@ -332,7 +332,7 @@
 <td><p><a href="../Page/武人時代_(電視劇).md" title="wikilink">武人時代</a><br />
 </p></td>
 <td><p>158</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、、<a href="https://zh.wikipedia.org/wiki/朴埇佑" title="wikilink">朴埇佑</a>、<a href="https://zh.wikipedia.org/wiki/李德華" title="wikilink">李德華</a>、<a href="../Page/金甲洙.md" title="wikilink">金甲洙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐仁錫" title="wikilink">徐仁錫</a>、、<a href="../Page/朴埇佑.md" title="wikilink">朴埇佑</a>、<a href="https://zh.wikipedia.org/wiki/李德華" title="wikilink">李德華</a>、<a href="../Page/金甲洙.md" title="wikilink">金甲洙</a></p></td>
 <td><p>劉東允</p></td>
 <td><p>申昌錫、<a href="https://zh.wikipedia.org/wiki/尹昌範" title="wikilink">尹昌範</a>、金成均</p></td>
 <td></td>
@@ -367,7 +367,7 @@
 <td><p>86</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a></p></td>
 <td><p>尹善珠、金泰熙</p></td>
-<td><p>金成均、<a href="https://zh.wikipedia.org/wiki/金元錫" title="wikilink">金元錫</a></p></td>
+<td><p>金成均、<a href="../Page/金元錫.md" title="wikilink">金元錫</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -412,7 +412,7 @@
 <td><p><a href="../Page/近肖古王_(電視劇).md" title="wikilink">近肖古王</a><br />
 </p></td>
 <td><p>60</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甘宇成" title="wikilink">甘宇成</a></p></td>
+<td><p><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a></p></td>
 <td><p>鄭成熙、劉松烈</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尹昌範" title="wikilink">尹昌範</a>、<a href="https://zh.wikipedia.org/wiki/金英兆" title="wikilink">金英兆</a></p></td>
 <td><ul>
@@ -438,10 +438,10 @@
 <tr class="even">
 <td><p>2012年9月8日－<br />
 2013年6月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大王之夢" title="wikilink">大王之夢</a><br />
+<td><p><a href="../Page/大王之夢.md" title="wikilink">大王之夢</a><br />
 </p></td>
 <td><p>70</p></td>
-<td><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/金佑錫.md" title="wikilink">金佑錫</a>、<a href="https://zh.wikipedia.org/wiki/朴珠美" title="wikilink">朴珠美</a>、<a href="https://zh.wikipedia.org/wiki/洪銀姬" title="wikilink">洪銀姬</a>、<a href="../Page/李英雅.md" title="wikilink">李英雅</a></p></td>
+<td><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/金佑錫.md" title="wikilink">金佑錫</a>、<a href="../Page/朴珠美.md" title="wikilink">朴珠美</a>、<a href="../Page/洪銀姬.md" title="wikilink">洪銀姬</a>、<a href="../Page/李英雅.md" title="wikilink">李英雅</a></p></td>
 <td><p>劉東允、金善德</p></td>
 <td><p>申昌錫、金尚偉</p></td>
 <td><ul>
@@ -455,7 +455,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭道傳_(電視劇)" title="wikilink">鄭道傳</a><br />
 </p></td>
 <td><p>50</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曹在顯" title="wikilink">曹在顯</a></p></td>
+<td><p><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a></p></td>
 <td><p><a href="../Page/鄭賢珉.md" title="wikilink">鄭賢珉</a></p></td>
 <td><p><a href="../Page/姜秉澤.md" title="wikilink">姜秉澤</a>、<a href="https://zh.wikipedia.org/wiki/李在勳" title="wikilink">李在勳</a></p></td>
 <td><ul>
@@ -466,10 +466,10 @@
 <tr class="even">
 <td><p>2015年2月14日－<br />
 2015年8月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/懲毖錄_(電視劇)" title="wikilink">懲毖錄</a><br />
+<td><p><a href="../Page/懲毖錄_(電視劇).md" title="wikilink">懲毖錄</a><br />
 </p></td>
 <td><p>50</p></td>
-<td><p><a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="https://zh.wikipedia.org/wiki/金太祐" title="wikilink">金太祐</a></p></td>
+<td><p><a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="../Page/金太祐.md" title="wikilink">金太祐</a></p></td>
 <td><p>鄭亨洙、鄭智妍</p></td>
 <td><p>金尚偉、<a href="https://zh.wikipedia.org/wiki/金英兆" title="wikilink">金英兆</a></p></td>
 <td><ul>
@@ -483,7 +483,7 @@
 <td><p><a href="../Page/蔣英實_(電視劇).md" title="wikilink">蔣英實</a><br />
 </p></td>
 <td><p>24</p></td>
-<td><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>、<a href="https://zh.wikipedia.org/wiki/金永哲" title="wikilink">金永哲</a>、<a href="../Page/朴宣暎.md" title="wikilink">朴宣暎</a></p></td>
+<td><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>、<a href="../Page/金永哲.md" title="wikilink">金永哲</a>、<a href="../Page/朴宣暎.md" title="wikilink">朴宣暎</a></p></td>
 <td><p>李明熙、馬昌俊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金英兆" title="wikilink">金英兆</a></p></td>
 <td><p>講述朝鮮時代天才科學家蔣英實的一生。</p></td>
@@ -493,13 +493,12 @@
 
 ## 相關項目
 
-  - [KBS週末特別計劃連續劇](https://zh.wikipedia.org/wiki/KBS週末特別計劃連續劇 "wikilink")
+  - [KBS週末特別計劃連續劇](../Page/KBS週末特別計劃連續劇.md "wikilink")
   - [MBC週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")
   - [SBS週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")
   - [JTBC周末特別企劃劇](https://zh.wikipedia.org/wiki/JTBC周末特別企劃劇 "wikilink")
   - [MBN周末特別企劃劇](../Page/MBN周末特別企劃劇.md "wikilink")
-  - [Channel
-    A周末特別企劃劇](https://zh.wikipedia.org/wiki/Channel_A周末特別企劃劇 "wikilink")
+  - [Channel A周末特別企劃劇](../Page/Channel_A周末特別企劃劇.md "wikilink")
 
 ## 参考资料
 

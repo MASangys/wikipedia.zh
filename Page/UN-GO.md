@@ -19,7 +19,7 @@ episode:0 因果論 '''》。
 ### 主要人物
 
   -
-    自稱「最後的[名偵探](https://zh.wikipedia.org/wiki/名偵探 "wikilink")」，雖然屢次解決懸案，但是其光芒被掌握海量政府資源的海勝麟六掩蓋，而被外界諷為「戰敗偵探」。
+    自稱「最後的[名偵探](../Page/名偵探.md "wikilink")」，雖然屢次解決懸案，但是其光芒被掌握海量政府資源的海勝麟六掩蓋，而被外界諷為「戰敗偵探」。
     雖然如此，他本人卻不甚在意，只要真相得以伸張，他並不會太在乎其他的問題。
     數年前曾被捲入過一次足以致死的案件，但被倉田由子所救，倉田後來死亡，其身體則成了因果的容器。
     原型為原作中的紳士偵探「結城新十郎」。
@@ -326,7 +326,7 @@ episode:0 因果論 '''》。
   - 監督 - [水島精二](../Page/水島精二.md "wikilink")
   - 故事・脚本 - [會川昇](../Page/會川昇.md "wikilink")
   - 角色設定 -
-    [pako](../Page/pako.md "wikilink")、[高河弓](../Page/高河弓.md "wikilink")
+    [pako](https://zh.wikipedia.org/wiki/pako "wikilink")、[高河弓](../Page/高河弓.md "wikilink")
   - 角色設計・總作畫監督 - 稲留和美、矢崎優子、やぐちひろこ
   - 美術設計 - 宮本崇、脇威志
   - 背景設計 -
@@ -604,7 +604,7 @@ DVD\&Blu-ray各卷特典CD中收录的，由會川昇短編小説所改编的广
     漫画：[山田J太](https://zh.wikipedia.org/wiki/山田J太 "wikilink")，原典：「UN-GO」制作委員会，監修：BONES、「UN-GO」製作委員会
   -
     [GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")2011年10月号连载。
-    故事脚本：會川昇，插画：[pako](../Page/pako.md "wikilink")，作画協力：
+    故事脚本：會川昇，插画：[pako](https://zh.wikipedia.org/wiki/pako "wikilink")，作画協力：
 
 ## 外部連結
 

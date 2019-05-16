@@ -1,7 +1,7 @@
 **now劇集台**（）是[now寬頻電視的一條設](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")24小時[粵語配音亞洲劇集台](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2017年8月28日前稱為**now觀星台**，此前本頻道曾是now寬頻電視旗下的娛樂新聞頻道。
 
-同台與now劇集台定位類近的頻道有[now華劇台](../Page/now華劇台.md "wikilink")，而now劇集台現在的主要競爭對手有[myTV
-SUPER的](../Page/myTV_SUPER.md "wikilink")[日劇台](https://zh.wikipedia.org/wiki/日劇台 "wikilink")、[韓劇台](../Page/韓劇台.md "wikilink")、[華語劇台以及](https://zh.wikipedia.org/wiki/華語劇台 "wikilink")[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線劇集台](https://zh.wikipedia.org/wiki/有線劇集台 "wikilink")。
+同台與now劇集台定位類近的頻道有[now華劇台](https://zh.wikipedia.org/wiki/now華劇台 "wikilink")，而now劇集台現在的主要競爭對手有[myTV
+SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[日劇台](../Page/日劇台.md "wikilink")、[韓劇台](../Page/韓劇台.md "wikilink")、[華語劇台以及](../Page/華語劇台.md "wikilink")[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線劇集台](../Page/有線劇集台.md "wikilink")。
 
 ## 內容
 
@@ -17,7 +17,7 @@ now劇集台主要播放中、日、韓、台、泰等地劇集。
 
 now觀星台曾是[now寬頻電視的一條娛樂新聞頻道兼主打頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2011年9月12日晚上八時整啟播，由[電訊盈科首席副總裁](../Page/電訊盈科.md "wikilink")，總經理（製作）[何麗全策劃](https://zh.wikipedia.org/wiki/何麗全 "wikilink")，並由[陳貝兒擔任台長](../Page/陳貝兒.md "wikilink")。now觀星台特色是結合互動功能，觀眾可透過搖控器投選娛樂新聞熱話及CEO選拔賽中的優秀參賽者。2015年9月21日起轉型為劇集頻道，而所有主持人轉投[ViuTV](../Page/ViuTV.md "wikilink")。
 
-觀星台啟播當日起，[now香港台亦於同日起取消星期一至五晚上八時至八時半與](../Page/now香港台.md "wikilink")[now新聞台聯播新聞報導的安排](../Page/now新聞台.md "wikilink")，同一時段改與now觀星台聯播；啟播時月費為港幣18元。
+觀星台啟播當日起，[now香港台亦於同日起取消星期一至五晚上八時至八時半與](https://zh.wikipedia.org/wiki/now香港台 "wikilink")[now新聞台聯播新聞報導的安排](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，同一時段改與now觀星台聯播；啟播時月費為港幣18元。
 
 開台派對於9月11日邀得郭富城亮燈，並邀請了麥玲玲、陳柏宇、吳雨霏、方大同、薛凱琪、周柏豪及謝婷婷等亮相。
 
@@ -25,9 +25,9 @@ now觀星台曾是[now寬頻電視的一條娛樂新聞頻道兼主打頻道](ht
 
 ### 劇集頻道
 
-2015年9月21日00:00起此頻道轉型為劇集頻道（並調整月費至港幣25元），首套播出劇集為《[謊言遊戲](https://zh.wikipedia.org/wiki/謊言遊戲 "wikilink")》，一氣呵成在00:00-20:00播出。而當晚起所有劇集每日播出一集。
+2015年9月21日00:00起此頻道轉型為劇集頻道（並調整月費至港幣25元），首套播出劇集為《[謊言遊戲](../Page/謊言遊戲.md "wikilink")》，一氣呵成在00:00-20:00播出。而當晚起所有劇集每日播出一集。
 
-[now香港台於](../Page/now香港台.md "wikilink")2016年3月19日凌晨1時至4月8日、12月16日凌晨1時15分至12月31日、以及2017年4月1日凌晨12時45分至5月15日期間預覽並聯播此頻道。
+[now香港台於](https://zh.wikipedia.org/wiki/now香港台 "wikilink")2016年3月19日凌晨1時至4月8日、12月16日凌晨1時15分至12月31日、以及2017年4月1日凌晨12時45分至5月15日期間預覽並聯播此頻道。
 
 2017年8月29日起，now觀星台改名為now劇集台，並設有24小時粵語配音外購劇集。
 
@@ -36,7 +36,7 @@ now觀星台曾是[now寬頻電視的一條娛樂新聞頻道兼主打頻道](ht
 now觀星台集娛樂新聞、主播選拔真人秀、綜藝節目、專題探討和藝人專訪於一身的全新娛樂綜藝頻道，分析娛樂圈最新動態及現象。該台亦會播放特備娛樂節目，如音樂會、國際盛事等。
 
 [歐洲國家盃2012](../Page/2012年欧洲足球锦标赛.md "wikilink")，now觀星台聯同now
-Sports及[now101台主持](https://zh.wikipedia.org/wiki/now101台 "wikilink")[馬啓仁一同製作部分相關節目](../Page/馬啓仁.md "wikilink")，該等節目與[now香港台作同步播放](../Page/now香港台.md "wikilink")。
+Sports及[now101台主持](https://zh.wikipedia.org/wiki/now101台 "wikilink")[馬啓仁一同製作部分相關節目](../Page/馬啓仁.md "wikilink")，該等節目與[now香港台作同步播放](https://zh.wikipedia.org/wiki/now香港台 "wikilink")。
 
 now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30首播《102觀星總部》及「娛樂九點半」節目，之後不斷重播該時段內容，直至翌日20:00。而星期六20:00至星期一20:00則不斷重播該星期「娛樂九點半」節目。
 
@@ -635,7 +635,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：2014年12月12日至2015年4月3日，逢星期五21:30至22:00
-    主持：[區永權](../Page/區永權.md "wikilink")、[黃心美](https://zh.wikipedia.org/wiki/黃心美 "wikilink")、[林志超](https://zh.wikipedia.org/wiki/林志超 "wikilink")、[鄧洢玲](https://zh.wikipedia.org/wiki/鄧洢玲 "wikilink")
+    主持：[區永權](../Page/區永權.md "wikilink")、[黃心美](../Page/黃心美.md "wikilink")、[林志超](https://zh.wikipedia.org/wiki/林志超 "wikilink")、[鄧洢玲](https://zh.wikipedia.org/wiki/鄧洢玲 "wikilink")
     節目內容：全新一輯Petgazine
     II，將會繼續發放多角度寵物資訊，誠意打造這本包羅萬有的寵物雜誌！香港有許多人飼養寵物，不過，飼養寵物需要注意的事項，卻未必知得清楚。在節目裡面，將會提供一系列實用的寵物情報，包括︰訓練小貼士、寵物好去處、感動小故事，還有與寵物相關的法例資訊！
     不管是飼養寵物多年、新手寵主，或者完全沒有飼養寵物的你，都可以透過這個節目，找到與寵物相關的有趣資訊！
@@ -648,7 +648,7 @@ now觀星台星期一至五20:00至22:00為首播時段，分別在20:00及21:30
 
   -
     播放時間：2015年4月10日至7月31日，逢星期五21:30至22:00
-    主持：[倪晨曦](../Page/倪晨曦.md "wikilink")、[趙勁皓](https://zh.wikipedia.org/wiki/趙勁皓 "wikilink")、[岑樂怡](https://zh.wikipedia.org/wiki/岑樂怡 "wikilink")、[黃奕晨](https://zh.wikipedia.org/wiki/黃奕晨 "wikilink")
+    主持：[倪晨曦](../Page/倪晨曦.md "wikilink")、[趙勁皓](../Page/趙勁皓.md "wikilink")、[岑樂怡](https://zh.wikipedia.org/wiki/岑樂怡 "wikilink")、[黃奕晨](https://zh.wikipedia.org/wiki/黃奕晨 "wikilink")
     節目內容：香港人愈來愈注重健康，運動文化亦逐漸注入港人的日常生活之中，其中健身、瑜伽大行其道。場地而不再局限於健身室進行，如在街頭利用公共設施健身在大草地聽著DJ打碟做Yoga。瑜伽的形式也趨多元化、像近期大熱的Plank平板式運動、高溫瑜伽、街頭健身(Street
     workout)等，節目將為觀衆搜羅香港最新、最潮的運動資訊，以「年輕」、「健康」為主要概念，以運動打造健康生活態度。
     節目中一眾主持都為專業的健身及瑜伽教練，他們除了會教授/拆解這些健身/瑜伽運動的技巧/場所之外，亦會和城中藝人分享他們的Keep

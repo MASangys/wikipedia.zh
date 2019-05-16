@@ -81,7 +81,7 @@ extend**》（，）是一款由世嘉開發的PSP音樂遊戲，發售日為201
 <td></td>
 <td><p>連接起來又分開的羅剎與骨骸</p></td>
 <td><p>初音未來</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米津玄師" title="wikilink">Hachi</a></p></td>
+<td><p><a href="../Page/米津玄師.md" title="wikilink">Hachi</a></p></td>
 <td></td>
 <td></td>
 </tr>

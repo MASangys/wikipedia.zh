@@ -1,4 +1,4 @@
-是由[史克威爾開發](../Page/史克威爾.md "wikilink")，並於1990年在[FC遊戲機平臺發行的](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，遊戲是[最終幻想系列的第三部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。本作是第一部使用職業轉換系統的最終幻想遊戲，也是[Final
+是由[史克威爾開發](../Page/史克威爾.md "wikilink")，並於1990年在[FC遊戲機平臺發行的](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第三部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。本作是第一部使用職業轉換系統的最終幻想遊戲，也是[Final
 Fantasy系列中第一部在最初版本即取得百萬以上銷量的作品](https://zh.wikipedia.org/wiki/Final_Fantasy系列 "wikilink")。
 
 故事主角是受光之水晶引導的四個孤兒青年。水晶将自己的力量給了他們，並指示他們恢復世界的平衡。虽然他们不知道水晶话语的含义，但仍然能意识到其重要性，四青年将他们的使命告诉了收养家庭，并动身探索，找回世界的平衡。
@@ -6,9 +6,9 @@ Fantasy系列中第一部在最初版本即取得百萬以上銷量的作品](ht
 游戏于1990年4月27日在日本首發，FC版在日本出貨140萬份。2006年發行[任天堂DS重製版](../Page/任天堂DS.md "wikilink")，該版本也是《最終幻想III》首次在日本以外發行，而這也是當時唯一沒有在西方發行的最終幻想遊戲\[1\]。任天堂DS版在國際上獲得積極評價，並在全球售出193萬份。
 
 遊戲還在其他多個系統發行。FC原版的日本[Virtual
-Console服務於](../Page/Virtual_Console.md "wikilink")2009年7月21日發行，任天堂DS版的[iOS移植版於](../Page/iOS.md "wikilink")2011年3月24日發行，Android版於2012年3月12日發行，[PlayStation
+Console服務於](../Page/Virtual_Console.md "wikilink")2009年7月21日發行，任天堂DS版的[iOS移植版於](https://zh.wikipedia.org/wiki/iOS "wikilink")2011年3月24日發行，Android版於2012年3月12日發行，[PlayStation
 Portable版於](../Page/PlayStation_Portable.md "wikilink")2012年9月下旬發行（日本以外透過[PlayStation
-Network下載](../Page/PlayStation_Network.md "wikilink")），並在2013年4月發行於修改自Android的[Ouya遊戲機](https://zh.wikipedia.org/wiki/Ouya "wikilink")。
+Network下載](../Page/PlayStation_Network.md "wikilink")），並在2013年4月發行於修改自Android的[Ouya遊戲機](../Page/Ouya.md "wikilink")。
 
 ## 遊戲玩法
 
@@ -53,7 +53,7 @@ Network下載](../Page/PlayStation_Network.md "wikilink")），並在2013年4月
 
 ## 开发
 
-前两作的主要设计人员仍然参与了《最终幻想III》的开发，他们包括：总监与故事作者[坂口博信](../Page/坂口博信.md "wikilink")、设计师[田中弘道](../Page/田中弘道.md "wikilink")、角色设计[天野喜孝](../Page/天野喜孝.md "wikilink")、剧本编写[寺田宪史](https://zh.wikipedia.org/wiki/寺田宪史 "wikilink")，以及作曲[植松伸夫](../Page/植松伸夫.md "wikilink")\[11\]\[12\]。和前两作一样，FC版《最终幻想III》的程序由[纳赛尔·吉贝利编写](https://zh.wikipedia.org/wiki/纳赛尔·吉贝利 "wikilink")。这是吉贝利最后参与的最终幻想作品\[13\]。在开发中途，吉贝利因工作签证到期，不得不从日本返回美国[加利福尼亚](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[萨克拉门托](https://zh.wikipedia.org/wiki/萨克拉门托 "wikilink")。其它开发人员带着必要的材料与设备随他到达萨克拉门托，并在此完成制作工作\[14\]。成品游戏512k的容量是最大的FC游戏之一\[15\]。和那时许多游戏机角色扮演游戏类似，《最终幻想III》获得高难度的评论\[16\]。
+前两作的主要设计人员仍然参与了《最终幻想III》的开发，他们包括：总监与故事作者[坂口博信](../Page/坂口博信.md "wikilink")、设计师[田中弘道](../Page/田中弘道.md "wikilink")、角色设计[天野喜孝](../Page/天野喜孝.md "wikilink")、剧本编写[寺田宪史](../Page/寺田宪史.md "wikilink")，以及作曲[植松伸夫](../Page/植松伸夫.md "wikilink")\[11\]\[12\]。和前两作一样，FC版《最终幻想III》的程序由[纳赛尔·吉贝利编写](https://zh.wikipedia.org/wiki/纳赛尔·吉贝利 "wikilink")。这是吉贝利最后参与的最终幻想作品\[13\]。在开发中途，吉贝利因工作签证到期，不得不从日本返回美国[加利福尼亚](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[萨克拉门托](https://zh.wikipedia.org/wiki/萨克拉门托 "wikilink")。其它开发人员带着必要的材料与设备随他到达萨克拉门托，并在此完成制作工作\[14\]。成品游戏512k的容量是最大的FC游戏之一\[15\]。和那时许多游戏机角色扮演游戏类似，《最终幻想III》获得高难度的评论\[16\]。
 
 史克威尔开发发行《最终幻想III》时，正值任天堂发行16位游戏平台[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")——8位机FC游戏机的继任机种。设计师田中弘道称，原版游戏之所以未在日本之外发行，是因为史克威尔正专注于为任天堂新机种开发。
 
@@ -110,7 +110,7 @@ Network下載](../Page/PlayStation_Network.md "wikilink")），並在2013年4月
 <tr class="even">
 <td><p>2011</p></td>
 <td><p>全球</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史克威尔" title="wikilink">史克威尔</a></p></td>
 <td><p><a href="../Page/史克威尔艾尼克斯.md" title="wikilink">史克威尔艾尼克斯</a></p></td>
 <td><p>任天堂3D版</p></td>
@@ -148,7 +148,7 @@ PAL</p></td>
 <tr class="even">
 <td><p>2013</p></td>
 <td><p>全球</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ouya" title="wikilink">Ouya</a></p></td>
+<td><p><a href="../Page/Ouya.md" title="wikilink">Ouya</a></p></td>
 <td><p><a href="../Page/史克威尔艾尼克斯.md" title="wikilink">史克威尔艾尼克斯</a></p></td>
 <td></td>
 <td><p>任天堂3D版</p></td>
@@ -226,9 +226,9 @@ Software合作开发。相场良佑担任[艺术监制](https://zh.wikipedia.org
 
 重制版利用了任天堂DS的[Wi-Fi功能](../Page/Wi-Fi.md "wikilink")，使用类似《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》邮件/莫古系统的方式通信。玩家可在游戏中以使用各种[莫古利给其它人寄送电子邮件](https://zh.wikipedia.org/wiki/莫古利 "wikilink")，也可以像寄送给其他人那样寄给多个游戏角色\[28\]。一些支线情节需要用这个系统解锁，如寻找洋葱剑士职业\[29\]。游戏使用了的中断存档功能，可让玩家关闭DS并在开机时继续游戏。但如同原版，迷宫中不能保存永久存档\[30\]。
 
-[iOS上的DS移植版于](../Page/iOS.md "wikilink")2011年3月24日在[App商店发行](https://zh.wikipedia.org/wiki/App_Store "wikilink")。该版本在游戏系统和图像上做了改进，同时也重制了声音。但和其他玩家通信的邮件/莫古系统被移除，洋葱骑士职业需要通过其他方式获得\[31\]\[32\]。[Android上的DS重制版于](../Page/Android.md "wikilink")2012年6月在[Google
+[iOS上的DS移植版于](https://zh.wikipedia.org/wiki/iOS "wikilink")2011年3月24日在[App商店发行](https://zh.wikipedia.org/wiki/App_Store "wikilink")。该版本在游戏系统和图像上做了改进，同时也重制了声音。但和其他玩家通信的邮件/莫古系统被移除，洋葱骑士职业需要通过其他方式获得\[31\]\[32\]。[Android上的DS重制版于](../Page/Android.md "wikilink")2012年6月在[Google
 Play上发行](../Page/Google_Play.md "wikilink")。[PlayStation
-Portable版于](../Page/PlayStation_Portable.md "wikilink")2012年9月20日在日本发行，其他区域在随后几天开放下载。2013年4月，史克威尔艾尼克斯[Ouya发行了重制版的](https://zh.wikipedia.org/wiki/Ouya "wikilink")[高清移植版](https://zh.wikipedia.org/wiki/高清 "wikilink")，其也是该系统的首发游戏\[33\]。2013年12月29日发行了Windows
+Portable版于](../Page/PlayStation_Portable.md "wikilink")2012年9月20日在日本发行，其他区域在随后几天开放下载。2013年4月，史克威尔艾尼克斯[Ouya发行了重制版的](../Page/Ouya.md "wikilink")[高清移植版](https://zh.wikipedia.org/wiki/高清 "wikilink")，其也是该系统的首发游戏\[33\]。2013年12月29日发行了Windows
 Phone移植版。史克威尔艾尼克斯于2014年5月27日在[Steam上发布了移植自任天堂DS的Microsoft](../Page/Steam.md "wikilink")
 Windows高清版。
 
@@ -255,12 +255,12 @@ FC版《最终幻想III》被视作当时角色扮演游戏的典型，同时其
 
 评论大多给DS重制版《最终幻想III》正面评价，游戏在[GameRankings的汇总得分为](https://zh.wikipedia.org/wiki/GameRankings "wikilink")77%\[53\]。[1UP.com称游戏是](../Page/1UP.com.md "wikilink")“专门给RPG爱好者的RPG”，并称虽然职业系统较原作有了重大改进，但总还觉得“非常有限”。然而评论称，重要的是要记住《最终幻想III》对北美玩家是“一部历史片，一个非常成功系列的缺失一角”，并称相比于其它最终幻想游戏，“狂热PRG爱好者”应该更喜欢本作。评论又称其为“迄今最好的掌上PRG游戏之一”\[54\]。[GameSpy主张道](../Page/GameSpy.md "wikilink")，和史克威尔艾尼克斯新游戏相比，对本作的乐趣“完全取决于你对游戏的渴望，以及看来原始枯燥的陈古游戏机制”。评论还称游戏“非常有挑战性”，并补充称，“游戏人渴望如此，但另一些人则会不快于游戏常不友好的本性”\[55\]。
 
-[GameTrailers认为虽然剧情简单且队员普通](https://zh.wikipedia.org/wiki/GameTrailers "wikilink")，但游戏剧本是“一流的”。它补充称，虽然玩家应该想到练一些级是必须的，但游戏中“探险区域大都太小了”\[56\]。IGN称《最终幻想III》会是那种“让当今主流最终幻想爱好者相当沮丧”的游戏，并称独特的职业系统概念在那时“绝对会让玩家震惊”，但对于今天《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》的许可盘则“简直不能比”。评论还称重制拖慢了游戏，因为战斗本应“不过是几秒中滚过”，但现在“延长到近一分钟”。评论的另一不满时游戏发行到了任天堂DS，称掌机上屏幕在“游戏75%的时间”是不活跃的，就算只显示插画都比这好。但IGN也称游戏的“图形惊人，配乐相当出色”。他们还称从2D到3D的过渡“做得不错”\[57\]。
+[GameTrailers认为虽然剧情简单且队员普通](../Page/GameTrailers.md "wikilink")，但游戏剧本是“一流的”。它补充称，虽然玩家应该想到练一些级是必须的，但游戏中“探险区域大都太小了”\[56\]。IGN称《最终幻想III》会是那种“让当今主流最终幻想爱好者相当沮丧”的游戏，并称独特的职业系统概念在那时“绝对会让玩家震惊”，但对于今天《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》的许可盘则“简直不能比”。评论还称重制拖慢了游戏，因为战斗本应“不过是几秒中滚过”，但现在“延长到近一分钟”。评论的另一不满时游戏发行到了任天堂DS，称掌机上屏幕在“游戏75%的时间”是不活跃的，就算只显示插画都比这好。但IGN也称游戏的“图形惊人，配乐相当出色”。他们还称从2D到3D的过渡“做得不错”\[57\]。
 
 ## 影響
 
 1991年至1992年，[角川書店的FC遊戲雜誌](../Page/角川書店.md "wikilink")《マル勝ファミコン》連載了衣谷游的漫畫《悠久之風傳說
-自最終幻想III》（）。漫画改编自[寺田宪史的原剧情](https://zh.wikipedia.org/wiki/寺田宪史 "wikilink")，讲述了整个游戏中发生的情节。其后来由角川书店发行了三本[单行本](https://zh.wikipedia.org/wiki/单行本 "wikilink")：《悠久之风传说1》、《2》和《3》\[58\]。
+自最終幻想III》（）。漫画改编自[寺田宪史的原剧情](../Page/寺田宪史.md "wikilink")，讲述了整个游戏中发生的情节。其后来由角川书店发行了三本[单行本](https://zh.wikipedia.org/wiki/单行本 "wikilink")：《悠久之风传说1》、《2》和《3》\[58\]。
 
 洋葱剑士和黑暗之云成为了《[最终幻想
 纷争](https://zh.wikipedia.org/wiki/最终幻想_纷争 "wikilink")》中《最终幻想III》的勇者和反派角色，日文版分别由[福山润和](https://zh.wikipedia.org/wiki/福山润 "wikilink")[池田昌子配音](../Page/池田昌子.md "wikilink")，英文版分别由亚伦·史盘和劳拉·贝利配音\[59\]。角色同样出现在其续作《[最终幻想

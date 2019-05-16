@@ -17,10 +17,10 @@ floor等等。由於學校禁止學生進行演藝活動，所以她將表演的
 
 miwa在高中三年級時跟[日本索尼音樂娛樂簽約](../Page/日本索尼音樂娛樂.md "wikilink")。\[6\]2010年，她入讀[慶應義塾大學](../Page/慶應義塾大學.md "wikilink")，亦開始了歌手的工作。她的出道單曲《[don't
 cry
-anymore](../Page/don't_cry_anymore.md "wikilink")》於同年3月3日發行，亦被起用作[富士電視台連續劇](../Page/富士電視台.md "wikilink")《[決定不哭的日子](../Page/決定不哭的日子.md "wikilink")》的主題曲。\[7\]這張單曲於[Oricon公信榜上打進頭](../Page/Oricon公信榜.md "wikilink")20位\[8\]，歌曲全曲付費下載亦被[日本唱片協會認證為累積銷量超過](../Page/日本唱片協會.md "wikilink")10萬。\[9\]此外，這首歌獲得第64屆[日劇學院賞主題曲賞](../Page/日劇學院賞.md "wikilink")。其他候選歌曲包括[嵐的](../Page/嵐.md "wikilink")《[Troublemaker](../Page/Troublemaker.md "wikilink")》和[Mr.Children的](../Page/Mr.Children.md "wikilink")《[HANABI](../Page/HANABI_\(Mr.Children單曲\).md "wikilink")》。\[10\]
+anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》於同年3月3日發行，亦被起用作[富士電視台連續劇](../Page/富士電視台.md "wikilink")《[決定不哭的日子](../Page/決定不哭的日子.md "wikilink")》的主題曲。\[7\]這張單曲於[Oricon公信榜上打進頭](../Page/Oricon公信榜.md "wikilink")20位\[8\]，歌曲全曲付費下載亦被[日本唱片協會認證為累積銷量超過](../Page/日本唱片協會.md "wikilink")10萬。\[9\]此外，這首歌獲得第64屆[日劇學院賞主題曲賞](../Page/日劇學院賞.md "wikilink")。其他候選歌曲包括[嵐的](../Page/嵐.md "wikilink")《[Troublemaker](../Page/Troublemaker.md "wikilink")》和[Mr.Children的](../Page/Mr.Children.md "wikilink")《[HANABI](../Page/HANABI_\(Mr.Children單曲\).md "wikilink")》。\[10\]
 
 第2張單曲《[Little
-Girl](../Page/Little_Girl.md "wikilink")》於同年6月發行\[11\]。第3張單曲《[chAngE](../Page/chAngE.md "wikilink")》是動漫《[BLEACH](../Page/BLEACH.md "wikilink")》的第12首主題曲\[12\]，首次成功於Oricon公信榜打進頭10位。\[13\]
+Girl](../Page/Little_Girl.md "wikilink")》於同年6月發行\[11\]。第3張單曲《[chAngE](https://zh.wikipedia.org/wiki/chAngE "wikilink")》是動漫《[BLEACH](../Page/BLEACH.md "wikilink")》的第12首主題曲\[12\]，首次成功於Oricon公信榜打進頭10位。\[13\]
 
 2010年4月開始擁有其電台節目《miwa的全夜日本R》（），節目每月播放一次，時間為凌晨3時至5時。\[14\]一年後，節目名稱改為《》，播放時間亦提早至凌晨1時至3時，每星期播放一次。\[15\]這個節目於2013年3月26日結束播映。\[16\]
 
@@ -35,7 +35,7 @@ live tour 2011
 第2張專輯《[guitarium](https://zh.wikipedia.org/wiki/guitarium "wikilink")》於3月14日發行。這張專輯於Oricon公信榜上取得第3位，令miwa兩張專輯都成功取得頭3位。專輯其中一首歌曲《不論幾歲》（）是《櫻蘭高校男公關部》的電影版的主題曲。\[23\]miwa首套音樂影片集《miwa
 clips vol.1》亦於這年的6月發行。\[24\]
 
-第9張單曲《[向着光](https://zh.wikipedia.org/wiki/向着光 "wikilink")》於同年8月15日發行，取得Oricon公信榜第4位，為miwa截至當時為止的最高排名。\[25\]《向着光》為電視劇《[RICH
+第9張單曲《[向着光](../Page/向着光.md "wikilink")》於同年8月15日發行，取得Oricon公信榜第4位，為miwa截至當時為止的最高排名。\[25\]《向着光》為電視劇《[RICH
 MAN, POOR
 WOMAN](../Page/RICH_MAN,_POOR_WOMAN.md "wikilink")》的主題曲，為她首次為[富士月九劇製作主題曲](../Page/富士電視台週一晚間九點連續劇.md "wikilink")。\[26\]
 
@@ -52,7 +52,7 @@ house演出。
 
 5月22日發行第3張專輯『Delight』，不僅取得Oricon公信榜第1位，發行當月即被[日本唱片協會認列為金唱片](../Page/日本唱片協會.md "wikilink")（銷量超過10萬張），這也是她個人首次在發行當月就取得金唱片記錄。7月〜9月舉行巡迴演唱『miwa
 concert tour 2013 "Delight"』。8月4日預定出演「ROCK IN JAPAN FESTIVAL
-2013」。12月31日，在[第64回NHK紅白歌合戰中初登場演出](https://zh.wikipedia.org/wiki/第64回NHK紅白歌合戰 "wikilink")，演唱曲目為《向著光》。
+2013」。12月31日，在[第64回NHK紅白歌合戰中初登場演出](../Page/第64回NHK紅白歌合戰.md "wikilink")，演唱曲目為《向著光》。
 
 9月4日發行第12張單曲「Faraway/Kiss you」，其中kiss you作為銀之匙的主題曲。
 
@@ -114,7 +114,7 @@ ballad collection ～graduation～」正式发售，同时举行新一轮的专�
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/don&#39;t_cry_anymore.md" title="wikilink">don't cry anymore</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/don&#39;t_cry_anymore" title="wikilink">don't cry anymore</a></p></td>
 <td><p>2010年3月3日</p></td>
 <td><p>11</p></td>
 </tr>
@@ -126,7 +126,7 @@ ballad collection ～graduation～」正式发售，同时举行新一轮的专�
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/chAngE.md" title="wikilink">chAngE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/chAngE" title="wikilink">chAngE</a></p></td>
 <td><p>2010年9月1日</p></td>
 <td><p>8</p></td>
 </tr>
@@ -162,7 +162,7 @@ ballad collection ～graduation～」正式发售，同时举行新一轮的专�
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/向着光" title="wikilink">向着光</a></p></td>
+<td><p><a href="../Page/向着光.md" title="wikilink">向着光</a></p></td>
 <td><p>2012年8月15日</p></td>
 <td><p>4</p></td>
 </tr>
@@ -263,10 +263,10 @@ ballad collection ～graduation～」正式发售，同时举行新一轮的专�
 
 |     | 名稱                                                                    | 發行日期       |
 | --- | --------------------------------------------------------------------- | ---------- |
-| 1st | [Guitarissimo](https://zh.wikipedia.org/wiki/Guitarissimo "wikilink") | 2011年4月6日  |
+| 1st | [Guitarissimo](../Page/Guitarissimo.md "wikilink")                    | 2011年4月6日  |
 | 2nd | [guitarium](https://zh.wikipedia.org/wiki/guitarium "wikilink")       | 2012年3月14日 |
-| 3rd | [Delight](https://zh.wikipedia.org/wiki/Delight "wikilink")           | 2013年5月22日 |
-| 4th | [ONENESS](https://zh.wikipedia.org/wiki/ONENESS "wikilink")           | 2015年4月8日  |
+| 3rd | [Delight](../Page/Delight.md "wikilink")                              | 2013年5月22日 |
+| 4th | [ONENESS](../Page/ONENESS.md "wikilink")                              | 2015年4月8日  |
 | 5th | [SPLASH☆WORLD](https://zh.wikipedia.org/wiki/SPLASH☆WORLD "wikilink") | 2017年2月22日 |
 
 ### 精選專輯

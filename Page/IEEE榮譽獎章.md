@@ -25,7 +25,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1921年：[范信達](https://zh.wikipedia.org/wiki/范信達 "wikilink")
   - 1922年：[李·德富雷斯特](../Page/李·德富雷斯特.md "wikilink")
   - 1923年：
-  - 1924年：[米海洛·卜平](https://zh.wikipedia.org/wiki/米海洛·卜平 "wikilink")
+  - 1924年：[米海洛·卜平](../Page/米海洛·卜平.md "wikilink")
   - 1925年：无获奖人
   - 1926年：
   - 1927年：
@@ -51,7 +51,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1947年：无获奖人
   - 1948年：
   - 1949年：
-  - 1950年：[弗雷德里克·特曼](https://zh.wikipedia.org/wiki/弗雷德里克·特曼 "wikilink")
+  - 1950年：[弗雷德里克·特曼](../Page/弗雷德里克·特曼.md "wikilink")
   - 1951年：[弗拉基米尔·佐利金](../Page/弗拉基米尔·佐利金.md "wikilink")
   - 1952年：
   - 1953年：
@@ -61,7 +61,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1957年：
   - 1958年：
   - 1959年：
-  - 1960年：[哈里·奈奎斯特](https://zh.wikipedia.org/wiki/哈里·奈奎斯特 "wikilink")
+  - 1960年：[哈里·奈奎斯特](../Page/哈里·奈奎斯特.md "wikilink")
   - 1961年：
   - 1962年：[愛德華·阿普爾頓](https://zh.wikipedia.org/wiki/愛德華·阿普爾頓 "wikilink")
     [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1947年
@@ -123,22 +123,22 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 2006年：
   - 2007年：
   - 2008年：[高登·摩爾](../Page/高登·摩爾.md "wikilink")
-  - 2009年：[羅伯特·丹納德](https://zh.wikipedia.org/wiki/羅伯特·丹納德 "wikilink")
+  - 2009年：[羅伯特·丹納德](../Page/羅伯特·丹納德.md "wikilink")
   - 2010年：[安德鲁·维特比](../Page/安德鲁·维特比.md "wikilink")
   - 2011年：[张忠谋](https://zh.wikipedia.org/wiki/张忠谋 "wikilink")
   - 2012年：[約翰·軒尼詩](../Page/約翰·軒尼詩.md "wikilink")
   - 2013年：[厄文·馬克·雅各布](../Page/厄文·馬克·雅各布.md "wikilink")
-  - 2014年：[B·賈揚特·巴利加](https://zh.wikipedia.org/wiki/B·賈揚特·巴利加 "wikilink")
-  - 2015年：[米尔德里德·德雷斯尔豪斯](https://zh.wikipedia.org/wiki/米尔德里德·德雷斯尔豪斯 "wikilink")
+  - 2014年：[B·賈揚特·巴利加](../Page/B·賈揚特·巴利加.md "wikilink")
+  - 2015年：[米尔德里德·德雷斯尔豪斯](../Page/米尔德里德·德雷斯尔豪斯.md "wikilink")
   - 2016年：[戴夫·福尼](../Page/戴夫·福尼.md "wikilink")
   - 2017年：\[1\]
   - 2018年：
 
 ## 參見
 
-  - [IEEE愛迪生獎章](https://zh.wikipedia.org/wiki/IEEE愛迪生獎章 "wikilink")
+  - [IEEE愛迪生獎章](../Page/IEEE愛迪生獎章.md "wikilink")
 
-  - [IEEE貝爾獎章](https://zh.wikipedia.org/wiki/貝爾獎 "wikilink")
+  - [IEEE貝爾獎章](../Page/貝爾獎.md "wikilink")
 
   - [IEEE/RSE詹姆斯·克拉克·馬克士威獎章](https://zh.wikipedia.org/wiki/IEEE/RSE詹姆斯·克拉克·馬克士威獎章 "wikilink")
 
@@ -147,7 +147,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - [IEEE理察·衛斯里·漢明獎章](https://zh.wikipedia.org/wiki/IEEE理察·衛斯里·漢明獎章 "wikilink")
 
   -
-  - [IEEE西澤潤一獎](https://zh.wikipedia.org/wiki/IEEE西澤潤一獎 "wikilink")
+  - [IEEE西澤潤一獎](../Page/IEEE西澤潤一獎.md "wikilink")
 
 ## 相关链接
 
@@ -160,7 +160,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - [高松宮殿下紀念世界文化獎](../Page/高松宮殿下紀念世界文化獎.md "wikilink")
   - [京都獎](../Page/京都獎.md "wikilink")
   - [邵逸夫獎](../Page/邵逸夫獎.md "wikilink")
-  - [唐獎](https://zh.wikipedia.org/wiki/唐獎 "wikilink")
+  - [唐獎](../Page/唐獎.md "wikilink")
   - [搞笑诺贝尔奖](https://zh.wikipedia.org/wiki/搞笑诺贝尔奖 "wikilink")
   - [馬可尼獎](https://zh.wikipedia.org/wiki/馬可尼獎 "wikilink")
   - [約翰·弗里茨獎章](https://zh.wikipedia.org/wiki/約翰·弗里茨獎章 "wikilink")

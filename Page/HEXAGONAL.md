@@ -73,7 +73,7 @@ Gaon Chart
 <td style="text-align: left;"><p>93</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p>"Canvas (Featuring Tiger JK, <a href="https://zh.wikipedia.org/wiki/Dynamic_Duo" title="wikilink">Dynamic Duo</a>, BIZZY"</p></td>
+<td style="text-align: left;"><p>"Canvas (Featuring Tiger JK, <a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>, BIZZY"</p></td>
 <td style="text-align: left;"><p>77</p></td>
 </tr>
 <tr class="odd">

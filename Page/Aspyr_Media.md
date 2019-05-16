@@ -2,7 +2,7 @@
 **Aspyr Media, Inc.**
 是[美国](../Page/美国.md "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奥斯汀的一家游戏开发公司](https://zh.wikipedia.org/wiki/奥斯汀 "wikilink")，专注于将[Windows游戏移植到](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。公司成立于1996年，在2003年他们占有[Mac游戏市场](../Page/Mac.md "wikilink")60%的份额，Aspyr的合作伙伴包括[派拉蒙电影公司](https://zh.wikipedia.org/wiki/派拉蒙电影公司 "wikilink")、[卢卡斯艺术公司](https://zh.wikipedia.org/wiki/卢卡斯艺术公司 "wikilink")、[美国艺电](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")、[Activision和](https://zh.wikipedia.org/wiki/Activision "wikilink")[Eidos
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。公司成立于1996年，在2003年他们占有[Mac游戏市场](https://zh.wikipedia.org/wiki/Mac "wikilink")60%的份额，Aspyr的合作伙伴包括[派拉蒙电影公司](https://zh.wikipedia.org/wiki/派拉蒙电影公司 "wikilink")、[卢卡斯艺术公司](https://zh.wikipedia.org/wiki/卢卡斯艺术公司 "wikilink")、[美国艺电](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")、[Activision和](https://zh.wikipedia.org/wiki/Activision "wikilink")[Eidos
 Interactive](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。
 
 [Aspyr-logo-old.png](https://zh.wikipedia.org/wiki/File:Aspyr-logo-old.png "fig:Aspyr-logo-old.png")

@@ -15,7 +15,7 @@ Silent**最後被[Konami解散](https://zh.wikipedia.org/wiki/Konami "wikilink")
 
 主要的成員包含：
 
-  - [伊藤暢達](https://zh.wikipedia.org/wiki/伊藤暢達 "wikilink")：
+  - [伊藤暢達](../Page/伊藤暢達.md "wikilink")：
     《[沉默之丘2](../Page/沉默之丘2.md "wikilink")》與《[沉默之丘3](https://zh.wikipedia.org/wiki/沉默之丘3 "wikilink")》的美術總編。
   - 中澤一秀（音譯）：《沉默之丘3》的設計者，後來加入了[小島工作室](https://zh.wikipedia.org/wiki/小島工作室 "wikilink")。
   - 北尾剛三： 《沉默之丘》、《沉默之丘2》與《沉默之丘3》的執行製作人。
@@ -25,10 +25,10 @@ Silent**最後被[Konami解散](https://zh.wikipedia.org/wiki/Konami "wikilink")
   - 佐藤隆喜：《沉默之丘》、《沉默之丘2》的[電腦繪圖創作者](https://zh.wikipedia.org/wiki/電腦繪圖 "wikilink")，後來加入了
     。
   - 外山圭一郎： 《沉默之丘》的設計者，後來離開並加入了 [SCE Japan
-    Studio](https://zh.wikipedia.org/wiki/索尼互動娛樂日本工作室 "wikilink")，創造了[死魂曲遊戲系列](../Page/死魂曲.md "wikilink")。
+    Studio](../Page/索尼互動娛樂日本工作室.md "wikilink")，創造了[死魂曲遊戲系列](../Page/死魂曲.md "wikilink")。
   - 村越卓：《沉默之丘2》的劇本設計者，《沉默之丘4：密室驚魂》的設計者與[劇本撰寫者](https://zh.wikipedia.org/wiki/劇本 "wikilink")，他後來也加入了小島工作室。
   - 山岡晃： 系列作的音樂負責人，《沉默之丘3》與《沉默之丘4：密室驚魂》的製作人，後來離開科樂美加入了 [Grasshopper
-    Manufacture](https://zh.wikipedia.org/wiki/草蜢工作室 "wikilink")。
+    Manufacture](../Page/草蜢工作室.md "wikilink")。
 
 ## 参考资料
 

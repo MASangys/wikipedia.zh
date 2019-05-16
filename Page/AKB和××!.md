@@ -142,7 +142,7 @@
 </ul></li>
 <li>AKB和接觸關西文化 - 在大阪尋找「A」「K」「B」!?
 <ul>
-<li>16個A=動物圖案（倉持・指原）（取景地：<a href="https://zh.wikipedia.org/wiki/天王寺動物園" title="wikilink">天王寺動物園</a>・<a href="https://zh.wikipedia.org/wiki/駒川商店街" title="wikilink">駒川商店街</a>・庄内商店街・<a href="https://zh.wikipedia.org/wiki/天神橋筋商店街" title="wikilink">天神橋筋商店街</a>）</li>
+<li>16個A=動物圖案（倉持・指原）（取景地：<a href="../Page/天王寺動物園.md" title="wikilink">天王寺動物園</a>・<a href="https://zh.wikipedia.org/wiki/駒川商店街" title="wikilink">駒川商店街</a>・庄内商店街・<a href="https://zh.wikipedia.org/wiki/天神橋筋商店街" title="wikilink">天神橋筋商店街</a>）</li>
 <li>16個K=桂（宮澤）（取景地：千日前商店街・<a href="https://zh.wikipedia.org/wiki/なんばグランド花月" title="wikilink">なんばグランド花月</a>・<a href="https://zh.wikipedia.org/wiki/天満天神繁昌亭" title="wikilink">天満天神繁昌亭</a>・尋找16個姓桂的落語家和去探險・<a href="https://zh.wikipedia.org/wiki/京橋花月" title="wikilink">京橋花月</a>・京都「京極かねよ」）</li>
 <li>16個B=裝傻（北原）（取景地:讀賣電視台本社前・<a href="../Page/大阪城公園.md" title="wikilink">大阪城公園</a>・<a href="https://zh.wikipedia.org/wiki/新世界_(大阪)" title="wikilink">新世界</a>・<a href="../Page/通天閣.md" title="wikilink">通天閣</a>・梅田東通商店街・<a href="https://zh.wikipedia.org/wiki/西中島南方駅" title="wikilink">西中島南方駅たこ焼き大吉前</a>）</li>
 </ul></li>
@@ -158,7 +158,7 @@
 <td><ul>
 <li>AKB和口號（<a href="https://zh.wikipedia.org/wiki/武蔵野美術大学" title="wikilink">武蔵野美術大学</a>）（高橋・峯岸・北原・増田・前田亞・小森）
 <ul>
-<li>有趣廣告牌巨匠拜訪之旅!（大島&amp;前田亞&lt;<a href="https://zh.wikipedia.org/wiki/難波八阪神社" title="wikilink">難波八阪神社</a>→<a href="https://zh.wikipedia.org/wiki/谷町" title="wikilink">谷町</a>2丁目→<a href="https://zh.wikipedia.org/wiki/天下茶屋" title="wikilink">天下茶屋</a>→<a href="../Page/八尾市.md" title="wikilink">八尾市</a>&gt;・宮崎&amp;峯岸&lt;<a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/此花區.md" title="wikilink">此花區四貫島</a>→<a href="../Page/西宮市.md" title="wikilink">西宮市</a><a href="https://zh.wikipedia.org/wiki/今津駅_(兵庫縣)" title="wikilink">今津駅前</a>→<a href="https://zh.wikipedia.org/wiki/天神橋筋商店街" title="wikilink">天神橋筋商店街</a>→<a href="https://zh.wikipedia.org/wiki/靱本町" title="wikilink">靱本町</a>&gt;）</li>
+<li>有趣廣告牌巨匠拜訪之旅!（大島&amp;前田亞&lt;<a href="https://zh.wikipedia.org/wiki/難波八阪神社" title="wikilink">難波八阪神社</a>→<a href="../Page/谷町.md" title="wikilink">谷町</a>2丁目→<a href="https://zh.wikipedia.org/wiki/天下茶屋" title="wikilink">天下茶屋</a>→<a href="../Page/八尾市.md" title="wikilink">八尾市</a>&gt;・宮崎&amp;峯岸&lt;<a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/此花區.md" title="wikilink">此花區四貫島</a>→<a href="../Page/西宮市.md" title="wikilink">西宮市</a><a href="https://zh.wikipedia.org/wiki/今津駅_(兵庫縣)" title="wikilink">今津駅前</a>→<a href="https://zh.wikipedia.org/wiki/天神橋筋商店街" title="wikilink">天神橋筋商店街</a>→<a href="https://zh.wikipedia.org/wiki/靱本町" title="wikilink">靱本町</a>&gt;）</li>
 </ul></li>
 <li>演技講座（LESSON1:滑舌 LESSON2:表現「笑」「怒」LESSON3:自由演技）（高橋・峯岸・北原・増田・前田亜・小森）</li>
 <li>ED主題曲「<a href="https://zh.wikipedia.org/wiki/大聲鑽石" title="wikilink">大聲鑽石</a>」</li>
@@ -312,7 +312,7 @@
 <td><p>9</p></td>
 <td><p>3月24日[7]</p></td>
 <td><ul>
-<li>in<a href="https://zh.wikipedia.org/wiki/大久保_(新宿區)" title="wikilink">新大久保</a>（高橋・片山・大家・仁藤・小森・藤江）
+<li>in<a href="../Page/大久保_(新宿區).md" title="wikilink">新大久保</a>（高橋・片山・大家・仁藤・小森・藤江）
 <ul>
 <li>一起學習“女人味”
 <ul>
@@ -753,7 +753,7 @@
 <li>SKE48成員大變身</li>
 <li>北原里英與當地Center</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/春菜愛" title="wikilink">春菜愛</a></p></td>
+<td><p><a href="../Page/春菜愛.md" title="wikilink">春菜愛</a></p></td>
 </tr>
 </tbody>
 </table>

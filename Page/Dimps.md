@@ -155,9 +155,9 @@ Advance版](../Page/Game_Boy_Advance.md "wikilink")《[音速小子大冒險](ht
 <!-- end list -->
 
   - PSVita
-    [自由戰爭](https://zh.wikipedia.org/wiki/自由戰爭 "wikilink")（[索尼電腦娛樂發行](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")）
+    [自由戰爭](../Page/自由戰爭.md "wikilink")（[索尼電腦娛樂發行](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")）
   - iOS [Brave
-    Dash](https://zh.wikipedia.org/wiki/Brave_Dash "wikilink")（[DeNA發行](https://zh.wikipedia.org/wiki/DeNA "wikilink")）
+    Dash](https://zh.wikipedia.org/wiki/Brave_Dash "wikilink")（[DeNA發行](../Page/DeNA.md "wikilink")）
   - 任天堂3DS
     [龙珠英雄：终极任务2](https://zh.wikipedia.org/wiki/龙珠英雄：终极任务2 "wikilink")（萬代南夢宮發行）
   - 任天堂3DS [魔神之骨

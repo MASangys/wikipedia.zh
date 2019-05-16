@@ -1,4 +1,4 @@
-**FAVORITE**（フェイバリット）最初是[CROSSNET有限公司旗下的](https://zh.wikipedia.org/wiki/CROSSNET "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，母公司結束營運後獨自成立FAVORITE公司繼續製作發售遊戲。
+**FAVORITE**（フェイバリット）最初是[CROSSNET有限公司旗下的](../Page/CROSSNET.md "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，母公司結束營運後獨自成立FAVORITE公司繼續製作發售遊戲。
 
 ## 概要
 
@@ -153,10 +153,9 @@
 
   - [橋本美雪](../Page/橋本美雪.md "wikilink") - 歌手。演唱『星空のメモリア -Wish upon a
     shooting star-』的主題曲。
-  - [eufonius](../Page/eufonius.md "wikilink") -
+  - [eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink") -
     歌手。演唱『いろとりどりのセカイ』『いろとりどりのヒカリ』的主題曲。
-  - [新田惠海](https://zh.wikipedia.org/wiki/新田惠海 "wikilink") -
-    歌手。演唱『アストラエアの白き永遠』的主題曲。
+  - [新田惠海](../Page/新田惠海.md "wikilink") - 歌手。演唱『アストラエアの白き永遠』的主題曲。
 
 ## 參考資料
 

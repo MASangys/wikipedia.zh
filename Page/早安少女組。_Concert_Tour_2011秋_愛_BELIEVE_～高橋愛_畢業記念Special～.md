@@ -1,5 +1,5 @@
 「**早安少女組。 Concert Tour 2011秋 愛 BELIEVE ～高橋愛
-畢業記念Special～**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。於](../Page/早安少女組。.md "wikilink")2011年12月28日推出的DVD，由[zetima發行](../Page/zetima.md "wikilink")。
+畢業記念Special～**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。於](../Page/早安少女組。.md "wikilink")2011年12月28日推出的DVD，由[zetima發行](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

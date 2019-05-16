@@ -44,9 +44,9 @@ MP412採用了比較獨特的中折式設計（附帶一提使用這種概念的
     zh-hant:火線獵殺：未來戰士;}-](../Page/火線獵殺：未來戰士.md "wikilink")》（Tom
     Clancy's Ghost Recon: Future Soldier）
   - 2013年—《[-{zh-cn:战地4;
-    zh-tw:戰地風雲4;}-](https://zh.wikipedia.org/wiki/戰地風雲4 "wikilink")》（Battlefield
+    zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：命名為「M412
-    REX」，發射[.357麥格農子彈](https://zh.wikipedia.org/wiki/.357麥格農 "wikilink")，6發彈巢，被歸類為佩槍。為單機模式中唯一可被玩家使用的手槍，並於[巴庫戰役後解鎖](https://zh.wikipedia.org/wiki/巴庫 "wikilink")，從此被設定為主角丹尼爾·雷克（Daniel
+    REX」，發射[.357麥格農子彈](../Page/.357麥格農.md "wikilink")，6發彈巢，被歸類為佩槍。為單機模式中唯一可被玩家使用的手槍，並於[巴庫戰役後解鎖](https://zh.wikipedia.org/wiki/巴庫 "wikilink")，從此被設定為主角丹尼爾·雷克（Daniel
     Recker）的預設配槍。多人聯機模式中也是在玩家完成單機模式的巴庫戰役後解鎖，為所有兵種的通用武器。
 
 ## 參考

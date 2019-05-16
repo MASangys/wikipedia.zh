@@ -11,16 +11,18 @@
 5包括了对CSS动画的支持。\[1\]CSS动画同样作为WebKit的nightly
 builds及[Google Chrome](../Page/Google_Chrome.md "wikilink"),
 [Safari](../Page/Safari.md "wikilink") 4和5和Safari for
-[iOS](../Page/iOS.md "wikilink")（iPhone, iPod
+[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（iPhone, iPod
 Touch和iPad）,[Android](../Page/Android.md "wikilink") 2.x+, RIM OS
-6网页浏览器的一个模块而可用。（需要`-webkit-`前缀）\[2\]\[3\]它同样被用于[iTunes](../Page/iTunes.md "wikilink")
-9以支持[iTunes LP文件](../Page/iTunes_LP.md "wikilink")。[Internet Explorer
+6网页浏览器的一个模块而可用。（需要`-webkit-`前缀）\[2\]\[3\]它同样被用于[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
+9以支持[iTunes
+LP文件](https://zh.wikipedia.org/wiki/iTunes_LP "wikilink")。[Internet
+Explorer
 10也提供了对CSS动画的支持](../Page/Internet_Explorer_10.md "wikilink")（需要`-ms-`前缀），但自Release
 Preview起已不再需要。\[4\]\[5\]
 
 ## 争议
 
-CSS动画吸引了偏爱以[JavaScript或者使用较少的](../Page/JavaScript.md "wikilink")[同步多媒体集成语言](../Page/同步多媒体集成语言.md "wikilink")（SMIL）实现动画者的注意；其他人则声称其为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（WebKit计划的一个主赞助商）的举动，以回避在该公司使用[Safari的移动设备的](../Page/Safari.md "wikilink")[iOS产品线上应用](../Page/iOS.md "wikilink")[Adobe
+CSS动画吸引了偏爱以[JavaScript或者使用较少的](../Page/JavaScript.md "wikilink")[同步多媒体集成语言](../Page/同步多媒体集成语言.md "wikilink")（SMIL）实现动画者的注意；其他人则声称其为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（WebKit计划的一个主赞助商）的举动，以回避在该公司使用[Safari的移动设备的](../Page/Safari.md "wikilink")[iOS产品线上应用](https://zh.wikipedia.org/wiki/iOS "wikilink")[Adobe
 Flash](../Page/Adobe_Flash.md "wikilink")（以及现有Flash动画）。
 
 ## 参考

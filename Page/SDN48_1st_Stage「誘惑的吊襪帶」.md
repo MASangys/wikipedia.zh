@@ -76,7 +76,7 @@ Stage「誘惑的吊襪帶」**』是[SDN48的第](../Page/SDN48.md "wikilink")1
   - 公演期間：2010年5月15日 -
   - 出演成員
       -
-        [相川友希](../Page/相川友希.md "wikilink")・[亞希子](../Page/亞希子.md "wikilink")・伊東愛・大山愛未・木本夕貴・[光上せあら](https://zh.wikipedia.org/wiki/光上せあら "wikilink")・[駒谷仁美](../Page/駒谷仁美.md "wikilink")・[KONAN](../Page/KONAN.md "wikilink")・[尻無浜冴美](https://zh.wikipedia.org/wiki/尻無浜冴美 "wikilink")・シヨン・たかはしゆい・谷咲伴美・[津田麻莉奈](../Page/津田麻莉奈.md "wikilink")・[戶島花](../Page/戶島花.md "wikilink")・[奈津子](../Page/奈津子.md "wikilink")・[二宮悠嘉](../Page/二宮悠嘉.md "wikilink")・[早川沙世](../Page/早川沙世.md "wikilink")・福田朱子・福山咲良・藤社優美・細田海友・松島瑠美・[miray](../Page/miray.md "wikilink")
+        [相川友希](../Page/相川友希.md "wikilink")・[亞希子](../Page/亞希子.md "wikilink")・伊東愛・大山愛未・木本夕貴・[光上せあら](https://zh.wikipedia.org/wiki/光上せあら "wikilink")・[駒谷仁美](../Page/駒谷仁美.md "wikilink")・[KONAN](../Page/KONAN.md "wikilink")・[尻無浜冴美](https://zh.wikipedia.org/wiki/尻無浜冴美 "wikilink")・シヨン・たかはしゆい・谷咲伴美・[津田麻莉奈](../Page/津田麻莉奈.md "wikilink")・[戶島花](../Page/戶島花.md "wikilink")・[奈津子](../Page/奈津子.md "wikilink")・[二宮悠嘉](../Page/二宮悠嘉.md "wikilink")・[早川沙世](../Page/早川沙世.md "wikilink")・福田朱子・福山咲良・藤社優美・細田海友・松島瑠美・[miray](https://zh.wikipedia.org/wiki/miray "wikilink")
           -
             ※公演開始当初是1期生的伊藤・大河内・小原・手束・なちゅ也作為支援成員而出演。
             ※福山在2010年10月16日畢業。二宮在2011年5月12日畢業。谷咲在同年5月29日畢業。同早川在年7月28日辞退。

@@ -5,20 +5,20 @@
 ## 歷史
 
 SR-3是在1990年代由（）以「緊湊型突擊步槍」之名研製。它是以[AS
-Val微聲自動步槍為藍本](https://zh.wikipedia.org/wiki/AS_Val微聲自動步槍 "wikilink")，但它並不使用笨重的整體式[消聲器](../Page/抑制器.md "wikilink")（甚至在設計中也完全不考慮安裝消聲器的能力）並將原來裝在消聲器上的的[準星安裝在槍管口部](https://zh.wikipedia.org/wiki/照準器 "wikilink")。這種初期試驗改裝型號的武器被命名為MA（全稱：Malogabaritnyj
+Val微聲自動步槍為藍本](../Page/AS_Val微聲自動步槍.md "wikilink")，但它並不使用笨重的整體式[消聲器](../Page/抑制器.md "wikilink")（甚至在設計中也完全不考慮安裝消聲器的能力）並將原來裝在消聲器上的的[準星安裝在槍管口部](../Page/照準器.md "wikilink")。這種初期試驗改裝型號的武器被命名為MA（全稱：Malogabaritnyj
 Avtomat，意為：小型自動步槍），其代號為“旋風”（，）。
 
 在對MA的初步測試以後證明，其基本性能上夠滿足用戶的要求，於是中央精密機械工程研究院把這個研究項目的槍械命名為RG-051，並且繼續作深入的研製及改進。為了達到對這款新型武器盡可能地緊湊和隱蔽的主要目標，原來配備的左側折疊式[槍托被上翻折疊式槍托所取代](../Page/槍托.md "wikilink")，這樣的優點是折疊後的佔用空間更小，但缺點是舒適性較為差劣。而原本裝在右側突出的被改為兩個緊貼於槍管護木上方的滑塊。為了能夠快速地從攜槍狀態轉變為戰鬥狀態，原本的保險桿也作了重新設計，使之左右兩手都能輕鬆操作。
 
 在RG-051的最初設計中，上翻式[槍托內部裝有一個強力](../Page/槍托.md "wikilink")[弹簧](../Page/弹簧.md "wikilink")，當使用者按下槍托鎖扣以後，會激活彈簧並且自動彈開到使用狀態。但這個功能設計得不設實際，因為在研究初期一次向克格勃高層人員所作的演示中，因為某名官員不清楚槍托彈開的位置，在按下槍托鎖扣以後被自動彈開的槍托打傷了臉。結果取消了槍托內部的強力彈簧並且改為手動向上折疊或展開槍托。
 
-在1991年，首批試產的RG-051正式交付給[克格勃](https://zh.wikipedia.org/wiki/克格勃 "wikilink")（，簡稱：；[俄文罗马化](https://zh.wikipedia.org/wiki/俄文罗马化 "wikilink")：，簡稱：KGB）進行測試。1996年，已經經過廣泛性實戰測試以後的RG-051被正式定型為SR-3，並繼承試作槍的代號“旋風”。SR-3被克格勃的繼任者，[俄羅斯聯邦安全局](../Page/聯邦安全局.md "wikilink")（，簡稱：ФСБ；，簡稱：FSB）和[俄羅斯聯邦警衛局](https://zh.wikipedia.org/wiki/联邦警卫局 "wikilink")（，簡稱：ФСО；，簡稱：FSO）所正式採用。
+在1991年，首批試產的RG-051正式交付給[克格勃](https://zh.wikipedia.org/wiki/克格勃 "wikilink")（，簡稱：；[俄文罗马化](https://zh.wikipedia.org/wiki/俄文罗马化 "wikilink")：，簡稱：KGB）進行測試。1996年，已經經過廣泛性實戰測試以後的RG-051被正式定型為SR-3，並繼承試作槍的代號“旋風”。SR-3被克格勃的繼任者，[俄羅斯聯邦安全局](../Page/聯邦安全局.md "wikilink")（，簡稱：ФСБ；，簡稱：FSB）和[俄羅斯聯邦警衛局](../Page/联邦警卫局.md "wikilink")（，簡稱：ФСО；，簡稱：FSO）所正式採用。
 
 雖然SR-3主要用作[要人護衛用途](../Page/重要人物.md "wikilink")，但由於SR-3也很適合對付身穿重型[避彈衣或是躲藏在](https://zh.wikipedia.org/wiki/護甲 "wikilink")[汽车和其他堅硬](../Page/汽车.md "wikilink")[掩體後方的敵人](https://zh.wikipedia.org/wiki/防御工事 "wikilink")，所以俄羅斯的一些精銳反恐部隊也採用了一些SR-3，把這種小巧輕便而威力強大的小型步槍在[近身距離作戰時使用](../Page/近身距離作戰.md "wikilink")。
 
 在俄羅斯聯邦安全局正式採用SR-3以後，他們又反饋了新的操作要求，其目標是把SR-3、[AS
-Val以及](https://zh.wikipedia.org/wiki/AS_Val微聲自動步槍 "wikilink")[VSS
-Vintorez的特質都結合起來](../Page/VSS_Vintorez狙擊步槍.md "wikilink")；加上[KBP儀器設計廠推出了與SR](https://zh.wikipedia.org/wiki/俄联邦仪器设计局 "wikilink")-3用途相近但更便宜的[9A-91](../Page/9A-91突击步枪.md "wikilink")，而事實上許多SR-3的實際用戶並不是用作保護要人用途而是用作近身距離作戰武器，都要求提升該槍的[人體工學和配件安裝能力](../Page/人因工程学.md "wikilink")。
+Val以及](../Page/AS_Val微聲自動步槍.md "wikilink")[VSS
+Vintorez的特質都結合起來](../Page/VSS_Vintorez狙擊步槍.md "wikilink")；加上[KBP儀器設計廠推出了與SR](../Page/俄联邦仪器设计局.md "wikilink")-3用途相近但更便宜的[9A-91](../Page/9A-91突击步枪.md "wikilink")，而事實上許多SR-3的實際用戶並不是用作保護要人用途而是用作近身距離作戰武器，都要求提升該槍的[人體工學和配件安裝能力](../Page/人因工程学.md "wikilink")。
 
 在21世纪初，中央精密機械工程研究院便以SR-3為藍本，開始研製類似9A-91的武器。這種衍生型被命名為SR-3M（），目前亦已經被俄羅斯各地的聯邦安全局和[特警隊少量使用](https://zh.wikipedia.org/wiki/特種警察 "wikilink")。
 
@@ -28,25 +28,24 @@ Val型可拆卸式底部折疊式[槍托](../Page/槍托.md "wikilink")（折疊
 ## 設計細節
 
 由於SR-3是由[AS
-Val改進而成](https://zh.wikipedia.org/wiki/AS_Val微聲自動步槍 "wikilink")，因此自動原理和擊發結構都一樣。SR-3採用了[氣動式操作原理](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，位於槍管上方的長行程氣動活塞與槍機機框以剛性連接，[滾轉式槍機機頭具有六個鎖耳](../Page/滾轉式槍機.md "wikilink")（）。其[機匣採用鍛壓](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢加工](../Page/钢.md "wikilink")，以提高強度和耐用性。
+Val改進而成](../Page/AS_Val微聲自動步槍.md "wikilink")，因此自動原理和擊發結構都一樣。SR-3採用了[氣動式操作原理](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，位於槍管上方的長行程氣動活塞與槍機機框以剛性連接，[滾轉式槍機機頭具有六個鎖耳](../Page/滾轉式槍機.md "wikilink")（）。其[機匣採用鍛壓](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢加工](../Page/钢.md "wikilink")，以提高強度和耐用性。
 
 SR-3在耐衝擊的[聚合物](../Page/聚合物.md "wikilink")[护木前上方設有一對左右對稱的滑塊狀](https://zh.wikipedia.org/wiki/护木 "wikilink")，讓握護木的手的拇指和食指抓住拉機柄兩側並向後拉動至後方就能拉動槍機，然後鬆開拉機柄即可以完成推彈上膛的動作。拉機柄在發射時不會跟隨著槍機一起運動。在槍機機框右側具有一個水滴形狀的凹坑，內部具有鋸齒型防滑紋。如果發生閉鎖不完全或是需要手動閉膛時，使用者可以把用手指藉由水滴狀凹坑強行推槍機向前以完成閉鎖。
 
-SR-3的扳機和擊發機構與[AS
-Val](https://zh.wikipedia.org/wiki/AS_Val微聲自動步槍 "wikilink")、[VSS
+SR-3的扳機和擊發機構與[AS Val](../Page/AS_Val微聲自動步槍.md "wikilink")、[VSS
 Vintorez和](../Page/VSS_Vintorez狙擊步槍.md "wikilink")[捷克](../Page/捷克.md "wikilink")[Vz.58相同的是都採用了](https://zh.wikipedia.org/wiki/Vz.58突擊步槍 "wikilink")[平移式擊錘](https://zh.wikipedia.org/wiki/平移式擊錘 "wikilink")。擊錘簧位於槍機復進簧的下方，兩個彈簧組的彈簧導桿和聚合物槍機緩衝器一起安裝在槍尾。SR-3亦把AK樣式保險柄改為塑料握把上方兩側設置的槓桿，方便左右兩手都可以由[拇指輕鬆地激活操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。[快慢機的位置是在](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[扳機護圈內](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，位於板機後面。
 
-SR-3配備了一個緊湊型[槍口制退器](../Page/砲口制動器.md "wikilink")，但不能安裝[消聲器](../Page/抑制器.md "wikilink")。SR-3裝有全新設計、由鋼板[衝壓件所製造的上翻折疊式](../Page/衝壓.md "wikilink")[槍托](../Page/槍托.md "wikilink")，不使用時可以向上翻折疊。配合SR-3採用了更簡單的小型[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，便於。
+SR-3配備了一個緊湊型[槍口制退器](../Page/砲口制動器.md "wikilink")，但不能安裝[消聲器](../Page/抑制器.md "wikilink")。SR-3裝有全新設計、由鋼板[衝壓件所製造的上翻折疊式](../Page/衝壓.md "wikilink")[槍托](../Page/槍托.md "wikilink")，不使用時可以向上翻折疊。配合SR-3採用了更簡單的小型[機械瞄具](../Page/機械瞄具.md "wikilink")，便於。
 
 而從SR-3改進而成的SR-3M事實上是混合了SR-3和AS Val的特點的武器。它使用了AS
-Val的槍管，但取消了泄氣孔。[護木下方具有一個事實上裝在槍管](https://zh.wikipedia.org/wiki/護木 "wikilink")[準星座以下的可折疊式](https://zh.wikipedia.org/wiki/照準器 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。槍口裝置可以用以裝上可快速拆卸式新型消聲器。[照門也被轉移到位於前護木上方與消聲器相反位置](https://zh.wikipedia.org/wiki/照門 "wikilink")，在沒有裝上消聲器的時候才突顯其瞄準用途，並且新增了夜間瞄準功能。折疊式槍托由上翻式折疊改成AS
+Val的槍管，但取消了泄氣孔。[護木下方具有一個事實上裝在槍管](https://zh.wikipedia.org/wiki/護木 "wikilink")[準星座以下的可折疊式](../Page/照準器.md "wikilink")[前握把](../Page/輔助握把.md "wikilink")。槍口裝置可以用以裝上可快速拆卸式新型消聲器。[照門也被轉移到位於前護木上方與消聲器相反位置](https://zh.wikipedia.org/wiki/照門 "wikilink")，在沒有裝上消聲器的時候才突顯其瞄準用途，並且新增了夜間瞄準功能。折疊式槍托由上翻式折疊改成AS
 Val的[機匣左邊折疊式槍托](https://zh.wikipedia.org/wiki/機匣 "wikilink")。另外亦根據用戶的要求，為這件武器研製了一個更大容量的新型30發[聚合物製或](../Page/聚合物.md "wikilink")[钢製可拆卸式](../Page/钢.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，以取代AS
 Val、VSS
 Vintorez和SR-3原來配備的10發和20發可拆卸式[彈匣](../Page/彈匣.md "wikilink")。這個彈匣也可以給AS
 Val和VSS
 Vintorez使用。SR-3M亦在機匣左側整合了一條屬於俄羅斯標準的[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，用以裝上各種瞄準裝置，例如[PSO-1快拆式](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/望远镜 "wikilink")。
 
-SR-3和SR-3M均採用上翻式調節的[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，射程裝定分別為攻擊100公尺（109.36码，328.08英尺）和200公尺（218.72碼，656.16英尺）以內的目標，準星和照門都裝有護翼以防損壞。但由於[瞄準基线實在過短](https://zh.wikipedia.org/wiki/瞄準基线 "wikilink")、亞音速子彈本身的飛行軌跡實在彎曲和本身用途和[冲锋枪相近](../Page/冲锋枪.md "wikilink")，令其實際有效射程僅僅是100公尺。但是對於[9×39毫米蘇聯](https://zh.wikipedia.org/wiki/9×39mm "wikilink")[口徑亞音速步槍子彈仍然有著比起使用](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手槍子彈的冲锋枪和短](../Page/手槍子彈列表.md "wikilink")[槍管](../Page/槍管.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（例如[AKS-74U和](../Page/AKS-74U卡宾枪.md "wikilink")[HK-53](https://zh.wikipedia.org/wiki/HK33突擊步槍#型號 "wikilink")）更大的貫穿力（使用特別為其開發的SP-6型穿甲子彈的話，可以在200公尺距離貫穿8毫米的鋼板，貫穿具有三級(俄國分類，相當NIJ
+SR-3和SR-3M均採用上翻式調節的[機械瞄具](../Page/機械瞄具.md "wikilink")，射程裝定分別為攻擊100公尺（109.36码，328.08英尺）和200公尺（218.72碼，656.16英尺）以內的目標，準星和照門都裝有護翼以防損壞。但由於[瞄準基线實在過短](https://zh.wikipedia.org/wiki/瞄準基线 "wikilink")、亞音速子彈本身的飛行軌跡實在彎曲和本身用途和[冲锋枪相近](../Page/冲锋枪.md "wikilink")，令其實際有效射程僅僅是100公尺。但是對於[9×39毫米蘇聯](https://zh.wikipedia.org/wiki/9×39mm "wikilink")[口徑亞音速步槍子彈仍然有著比起使用](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手槍子彈的冲锋枪和短](../Page/手槍子彈列表.md "wikilink")[槍管](../Page/槍管.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（例如[AKS-74U和](../Page/AKS-74U卡宾枪.md "wikilink")[HK-53](https://zh.wikipedia.org/wiki/HK33突擊步槍#型號 "wikilink")）更大的貫穿力（使用特別為其開發的SP-6型穿甲子彈的話，可以在200公尺距離貫穿8毫米的鋼板，貫穿具有三級(俄國分類，相當NIJ
 IIIA)個人防護能力的[頭盔和](https://zh.wikipedia.org/wiki/盔 "wikilink")[避彈衣](https://zh.wikipedia.org/wiki/護甲 "wikilink")）和破壞力這種優勢來說，令其有著遠比冲锋枪和卡賓槍更高的作戰優勢。
 
 ## 使用國
@@ -139,7 +138,7 @@ Engineering technologies international forum - 2012 04.jpg|
   - [VSK-94](../Page/VSK-94狙擊步槍.md "wikilink")
   - [VSS Vintorez](../Page/VSS_Vintorez狙擊步槍.md "wikilink")
   - [AK-9](../Page/AK-9突击步枪.md "wikilink")
-  - [SR-2](https://zh.wikipedia.org/wiki/SR-2希瑟衝鋒槍 "wikilink")
+  - [SR-2](../Page/SR-2希瑟衝鋒槍.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 
 ## 資料來源

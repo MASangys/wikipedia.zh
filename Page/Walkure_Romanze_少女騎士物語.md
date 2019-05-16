@@ -155,7 +155,7 @@ Tous Les Jours**》。\[5\]
 <!-- end list -->
 
   -
-    聲：[三代真子](https://zh.wikipedia.org/wiki/三代真子 "wikilink")／[米澤圓](../Page/米澤圓.md "wikilink")
+    聲：[三代真子](../Page/三代真子.md "wikilink")／[米澤圓](../Page/米澤圓.md "wikilink")
     Winford學園一年級生。會在馬上長矛比武大會時進行貼身取材與實況報導。
 
 <!-- end list -->
@@ -230,8 +230,7 @@ Tous Les Jours**》。\[5\]
   - 片頭曲「本-{当}-の勇気に変わるまで」
     作曲・編曲：東タカゴー / 作詞・歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
   - 插入曲1「Shooting the future」
-    作曲・編曲：東タカゴー /
-    作詞・歌：[佐咲紗花](https://zh.wikipedia.org/wiki/佐咲紗花 "wikilink")
+    作曲・編曲：東タカゴー / 作詞・歌：[佐咲紗花](../Page/佐咲紗花.md "wikilink")
   - 插入曲2「Mind Squall」
     作曲・編曲： / 作詞・歌：佐咲紗花
   - 片尾曲「希望の星〜HERO〜」
@@ -273,7 +272,7 @@ Tous Les Jours**》。\[5\]
   - 美術設定：金城沙綾
   - 色彩設計：藤木由香里
   - 音樂：[Lantis](../Page/Lantis.md "wikilink")
-  - 動畫製作：[8bit](https://zh.wikipedia.org/wiki/8bit "wikilink")
+  - 動畫製作：[8bit](../Page/8bit.md "wikilink")
   - 製作：Walkure Romanze製作委員會
 
 ### 主題曲

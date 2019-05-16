@@ -1,0 +1,35 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|飲食主题|Portal:飲食/简介|}}  {{/box-footer|}}
+
+<div style="text-align: center;">
+
+[Fairytale_key_enter-2.png](https://zh.wikipedia.org/wiki/File:Fairytale_key_enter-2.png "fig:Fairytale_key_enter-2.png")<span class="plainlinks noarchive">\[
+-{zh-hans:刷新缓存; zh-hant:清除快取;}-\]<span>
+
+</div>
+
+<div style="float:left; width:60%;">
+
+{{/box-header|你知道嗎|Portal:飲食/你知道嗎|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|分类|Portal:飲食/分类|}}  {{/box-footer|}}
+{{/box-header|相關主題|Portal:飲食/相關主題|}}  {{/box-footer|}}
+{{/box-header|维基专题|Portal:飲食/维基专题|}}  {{/box-footer|}}
+{{/box-header|维基媒体计划|Portal:飲食/维基媒体计划|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

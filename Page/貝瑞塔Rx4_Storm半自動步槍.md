@@ -86,10 +86,10 @@ Storm卡賓槍。裝有可拆卸式[槍口制退器的](../Page/砲口制動器.
   - [MSAR
     STG-556半自動步槍](https://zh.wikipedia.org/wiki/MSAR_STG-556半自動步槍 "wikilink")
   - [羅賓遜M96半自動步槍](../Page/羅賓遜M96半自動步槍.md "wikilink")
-  - [儒格Mini-14半自動步槍](https://zh.wikipedia.org/wiki/儒格Mini-14半自動步槍 "wikilink")
+  - [儒格Mini-14半自動步槍](../Page/儒格Mini-14半自動步槍.md "wikilink")
   - [儒格SR-556半自動步槍](https://zh.wikipedia.org/wiki/儒格SR-556半自動步槍 "wikilink")
   - [Saiga半自動步槍](https://zh.wikipedia.org/wiki/Saiga半自動步槍 "wikilink")
-  - [史密斯威森軍警型M\&P15半自動步槍](https://zh.wikipedia.org/wiki/史密斯威森軍警型M&P15半自動步槍 "wikilink")
+  - [史密斯威森軍警型M\&P15半自動步槍](../Page/史密斯威森軍警型M&P15半自動步槍.md "wikilink")
 
 ## 外部連結
 

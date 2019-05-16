@@ -819,7 +819,7 @@ Dash文庫於](../Page/Super_Dash文庫.md "wikilink")2008年5月出版發行，
 
   - 片頭曲「BRAVE BLADE\!」
     作詞：松井洋平，作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")），歌：[櫻川惠](https://zh.wikipedia.org/wiki/櫻川惠 "wikilink")\[4\]
+    Garden](../Page/Elements_Garden.md "wikilink")），歌：[櫻川惠](../Page/櫻川惠.md "wikilink")\[4\]
 
 <!-- end list -->
 

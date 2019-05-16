@@ -35,7 +35,7 @@ Design网站上提供\[12\]。在字形中有着最明显的改变的字有B（�
 
 Roboto
 Slab是一个以Roboto为基础的[粗衬线体字型](../Page/粗衬线体.md "wikilink")。它是在2013年3月时引进作为Google的笔记服务[Google
-Keep的预设字型](https://zh.wikipedia.org/wiki/Google_Keep "wikilink")。\[13\]
+Keep的预设字型](../Page/Google_Keep.md "wikilink")。\[13\]
 
 ### Roboto Mono
 
@@ -44,7 +44,7 @@ Mono是一个以Roboto为基础的[等宽字体](../Page/等宽字体.md "wikili
 
 ## 另见
 
-  - [Droid](https://zh.wikipedia.org/wiki/Droid "wikilink")，旧版Android的默认字型
+  - [Droid](../Page/Droid.md "wikilink")，旧版Android的默认字型
 
 ## 参考
 

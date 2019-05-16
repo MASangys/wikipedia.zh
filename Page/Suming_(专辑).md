@@ -20,7 +20,7 @@
 
   - [第22屆金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink") 最佳原住民專輯獎
   - 專輯入圍[第22屆金曲獎最佳原住民歌手](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")、專輯及專輯製作三項大獎
-  - 專輯獲[中華音樂人交流協會推薦](https://zh.wikipedia.org/wiki/中華音樂人交流協會 "wikilink")2010十大專輯\[4\]
+  - 專輯獲[中華音樂人交流協會推薦](../Page/中華音樂人交流協會.md "wikilink")2010十大專輯\[4\]
   - 專輯獲[KKBOX編輯室嚴選](../Page/KKBOX.md "wikilink")2010十大華語必聽專輯\[5\]
   - 專輯獲[Hitfm](https://zh.wikipedia.org/wiki/Hitfm "wikilink")2010年度十大專輯\[6\]
   - [第1屆金音獎](https://zh.wikipedia.org/wiki/第1屆金音獎 "wikilink")

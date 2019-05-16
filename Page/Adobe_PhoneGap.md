@@ -1,4 +1,4 @@
-**PhoneGap**是一款[開放原始碼的行動裝置開發框架](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，旨在讓開發者使用[HTML](../Page/HTML.md "wikilink")、[Javascript](../Page/Javascript.md "wikilink")、[CSS等Web](https://zh.wikipedia.org/wiki/CSS "wikilink")
+**PhoneGap**是一款[開放原始碼的行動裝置開發框架](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，旨在讓開發者使用[HTML](../Page/HTML.md "wikilink")、[Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink")、[CSS等Web](https://zh.wikipedia.org/wiki/CSS "wikilink")
 APIs開發跨平臺的行動裝置應用程式\[1\]。原本由Nitobi公司開發，現在由[Adobe
 Systems擁有](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")\[2\]\[3\]。
 
@@ -6,7 +6,7 @@ Systems擁有](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")\[2\]\[3\]
 
 最早的PhoneGap起步于2009年在舊金山召開的iPhoneDevCamp大會\[4\]，Nitobi的工程师Brock
 Whitten、Rob Ellis和Andre
-Charland在[iOS系統內架設起Web介面和](../Page/iOS.md "wikilink")[Objective-C之間的橋樑](../Page/Objective-C.md "wikilink")，讓開發人員得以使用HTML5、JavaScript、CSS等web標準技術便捷開發原生程式，實現一次編譯到處執行。其“橋接Web與iPhone
+Charland在[iOS系統內架設起Web介面和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Objective-C之間的橋樑](../Page/Objective-C.md "wikilink")，讓開發人員得以使用HTML5、JavaScript、CSS等web標準技術便捷開發原生程式，實現一次編譯到處執行。其“橋接Web與iPhone
 SDK之間縫隙”的理念得到歡迎\[5\]。
 
 2011年10月4日，Adobe正式宣布收購Nitobi軟件\[6\]。PhoneGap的代碼貢獻給了Apache軟件基金會，但保留了PhoneGap的商标所有权，並命名为Apache
@@ -33,10 +33,10 @@ Worklight、\[11\]\[12\]Convertigo\[13\]\[14\]、Tiggr和appMobi\[15\]
 
 ## 支援平台
 
-PhoneGap目前支援的作業系統包含蘋果的[iOS](../Page/iOS.md "wikilink")、Google的[Android](../Page/Android.md "wikilink")\[19\]、[Blackberry](https://zh.wikipedia.org/wiki/Blackberry "wikilink")、LG的[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")、微軟的[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、Nokia的[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、三星的[Tizen和](../Page/Tizen.md "wikilink")[bada](../Page/bada.md "wikilink")、[Firefox
+PhoneGap目前支援的作業系統包含蘋果的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、Google的[Android](../Page/Android.md "wikilink")\[19\]、[Blackberry](https://zh.wikipedia.org/wiki/Blackberry "wikilink")、LG的[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")、微軟的[Windows
+Phone](../Page/Windows_Phone.md "wikilink")、Nokia的[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、三星的[Tizen和](../Page/Tizen.md "wikilink")[bada](https://zh.wikipedia.org/wiki/bada "wikilink")、[Firefox
 OS](../Page/Firefox_OS.md "wikilink")\[20\]和[Ubuntu
-Touch](https://zh.wikipedia.org/wiki/Ubuntu_Touch "wikilink")。\[21\]\[22\]\[23\]
+Touch](../Page/Ubuntu_Touch.md "wikilink")。\[21\]\[22\]\[23\]
 
 <table>
 <thead>
@@ -53,7 +53,7 @@ Touch](https://zh.wikipedia.org/wiki/Ubuntu_Touch "wikilink")。\[21\]\[22\]\[23
 <th><p><a href="https://zh.wikipedia.org/wiki/Symbian" title="wikilink">Symbian</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/webOS" title="wikilink">webOS</a></p></th>
 <th><p><a href="../Page/Tizen.md" title="wikilink">Tizen</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/Ubuntu_Touch" title="wikilink">Ubuntu Touch</a></p></th>
+<th><p><a href="../Page/Ubuntu_Touch.md" title="wikilink">Ubuntu Touch</a></p></th>
 <th><p><a href="../Page/Firefox_OS.md" title="wikilink">Firefox OS</a></p></th>
 </tr>
 </thead>
@@ -223,7 +223,7 @@ Touch](https://zh.wikipedia.org/wiki/Ubuntu_Touch "wikilink")。\[21\]\[22\]\[23
 
 ## 參見
 
-  - [多樣化網際網路應用程式開發框架列表](https://zh.wikipedia.org/wiki/多樣化網際網路應用程式開發框架列表 "wikilink")
+  - [多樣化網際網路應用程式開發框架列表](../Page/多樣化網際網路應用程式開發框架列表.md "wikilink")
 
 ## 注釋
 

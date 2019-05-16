@@ -1,12 +1,12 @@
 為[史克威爾艾尼克斯開發發行的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，本作是[王國之心系列第](../Page/王國之心系列.md "wikilink")12部作品，遊戲已在2019年1月25日於日本發售，國際版於2019年1月29日發售\[1\]，登陸平台為[PlayStation
-4與](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")[Xbox
-One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")。
+4與](../Page/PlayStation_4.md "wikilink")[Xbox
+One](../Page/Xbox_One.md "wikilink")。
 
 ## 發展
 
 製作團隊於2013年6月11日的E3發布展中發布了有關《王國之心III》的預告片，在預告片末，有「正在製作中」的字眼，卻未有任何與發售日期的消息，但可知《王國之心III》確實在製作中，平台為[PlayStation
-4和](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")[Xbox
-One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")。
+4和](../Page/PlayStation_4.md "wikilink")[Xbox
+One](../Page/Xbox_One.md "wikilink")。
 
 在一次訪問中，野村哲也指出他的團隊正忙於其他遊戲設計如《[最終幻想XV](../Page/最終幻想XV.md "wikilink")》，而無暇理會《王國之心
 III》。他亦指出他的團隊正在研究提高遊戲的解析度和遊戲的平台技術要求，並相信王國之心
@@ -28,13 +28,13 @@ Fears》，由宇多田光、[Skrillex和](https://zh.wikipedia.org/wiki/Skrille
 
 ### 配音
 
-索拉一行人的英文配音照舊，這次新加入的《[超能陆战队](https://zh.wikipedia.org/wiki/超能陆战队 "wikilink")》、《[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")》、《[魔髮奇缘](https://zh.wikipedia.org/wiki/魔髮奇缘 "wikilink")》、《[冰雪奇缘](https://zh.wikipedia.org/wiki/冰雪奇缘 "wikilink")》皆為原班人馬\[8\]\[9\]。
+索拉一行人的英文配音照舊，這次新加入的《[超能陆战队](https://zh.wikipedia.org/wiki/超能陆战队 "wikilink")》、《[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")》、《[魔髮奇缘](https://zh.wikipedia.org/wiki/魔髮奇缘 "wikilink")》、《[冰雪奇缘](../Page/冰雪奇缘.md "wikilink")》皆為原班人馬\[8\]\[9\]。
 
 ## 發行
 
 遊戲首次於2013年[E3展上公布首支預告片](https://zh.wikipedia.org/wiki/E3 "wikilink")\[10\]，除了一開始宣布預計於[PlayStation
-4平台上發售](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")，[史克威爾艾尼克斯也在E](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")3展媒體發表會宣布，《王國之心III》與《[最終幻想XV](../Page/最終幻想XV.md "wikilink")》將於在[Xbox
-One平台發售](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")\[11\]。
+4平台上發售](../Page/PlayStation_4.md "wikilink")，[史克威爾艾尼克斯也在E](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")3展媒體發表會宣布，《王國之心III》與《[最終幻想XV](../Page/最終幻想XV.md "wikilink")》將於在[Xbox
+One平台發售](../Page/Xbox_One.md "wikilink")\[11\]。
 
 2018年，[史克威爾艾尼克斯於美國洛杉磯舉行的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《王國之心》演奏會「KINGDOM
 HEARTS Orchestra -World
@@ -88,7 +88,7 @@ One平台發售，但[野村哲也在接受](../Page/野村哲也.md "wikilink")
 <td><p>[19]</p></td>
 </tr>
 <tr class="even">
-<td><p>最佳<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4遊戲</a></p></td>
+<td><p>最佳<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4遊戲</a></p></td>
 <td><p>《王國之心III》</p></td>
 <td></td>
 <td></td>
@@ -96,7 +96,7 @@ One平台發售，但[野村哲也在接受](../Page/野村哲也.md "wikilink")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>最佳<a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One遊戲</a></p></td>
+<td><p>最佳<a href="../Page/Xbox_One.md" title="wikilink">Xbox One遊戲</a></p></td>
 <td><p>《王國之心III》</p></td>
 <td></td>
 <td></td>

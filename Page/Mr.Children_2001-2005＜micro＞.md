@@ -17,7 +17,7 @@ ASIA](https://zh.wikipedia.org/wiki/LAND_IN_ASIA "wikilink")》計算在內的�
 收錄自2001年的單曲《[溫柔的歌](../Page/溫柔的歌.md "wikilink")》起至2005年的單曲《[四次元 Four
 Dimensions](../Page/四次元_Four_Dimensions.md "wikilink")》期間發行的所有單曲A面曲（除了《Yoidon》）以及部分專輯曲。與《Mr.Children
 2005-2010 <macro>》一樣收錄歌曲於發行前追加新的商業搭配，其中《[youthful
-days](../Page/youthful_days.md "wikilink")》新成為麒麟飲料「大人的麒麟檸檬」廣告歌，《[蘇生](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")》新成為電影「One
+days](https://zh.wikipedia.org/wiki/youthful_days "wikilink")》新成為麒麟飲料「大人的麒麟檸檬」廣告歌，《[蘇生](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")》新成為電影「One
 Life」主題曲，《[Sign](../Page/Sign_\(Mr.Children單曲\).md "wikilink")》新成為[住友生命保險的廣告歌](../Page/住友生命保險.md "wikilink")。
 
 封面的設計概念為「[水](../Page/水.md "wikilink")」與「[精子](../Page/精子.md "wikilink")」，有著與《Mr.Children

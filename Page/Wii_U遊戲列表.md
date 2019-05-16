@@ -37,7 +37,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <td><p>2012年11月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/刺客教條IV：黑旗" title="wikilink">刺客教條IV：黑旗</a>》</p></td>
+<td><p>《<a href="../Page/刺客教條IV：黑旗.md" title="wikilink">刺客教條IV：黑旗</a>》</p></td>
 <td><p><em>Assassin's Creed IV: Black Flag</em></p></td>
 <td><p><a href="../Page/育碧魁北克.md" title="wikilink">Ubisoft Quebec</a></p></td>
 <td><p>Ubisoft</p></td>
@@ -48,7 +48,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <tr class="even">
 <td><p>《<a href="../Page/蝙蝠侠：阿卡姆之城.md" title="wikilink">蝙蝠俠：阿卡漢城市 全副武装版</a>》[1]</p></td>
 <td><p><em>Batman: Arkham City Armored Edition</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rocksteady_Studios" title="wikilink">Rocksteady Studios</a></p></td>
+<td><p><a href="../Page/Rocksteady_Studios.md" title="wikilink">Rocksteady Studios</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟互動" title="wikilink">華納兄弟互動</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
@@ -73,7 +73,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <td><p>2012年11月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/勇者斗恶龙X_觉醒的五种族_Online" title="wikilink">勇者鬥惡龍X 覺醒的五個種族 Online</a>》[3]</p></td>
+<td><p>《<a href="../Page/勇者斗恶龙X_觉醒的五种族_Online.md" title="wikilink">勇者鬥惡龍X 覺醒的五個種族 Online</a>》[3]</p></td>
 <td><p>ドラゴンクエストX 目覚めし五つの種族 オンライン</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></td>
 <td><p>史克威尔艾尼克斯</p></td>
@@ -91,7 +91,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <td><p>2012年11月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/樂高小城：臥底密探" title="wikilink">樂高都市：无间行者</a>》[4]</p></td>
+<td><p>《<a href="../Page/樂高小城：臥底密探.md" title="wikilink">樂高都市：无间行者</a>》[4]</p></td>
 <td><p><em>Lego City: Undercover</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TT_Fusion" title="wikilink">TT Fusion</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -253,7 +253,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <td><p>2012年11月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/怪物猎人3G" title="wikilink">怪物猎人3G HD/怪物猎人3 终极版</a>》[13]</p></td>
+<td><p>《<a href="../Page/怪物猎人3G.md" title="wikilink">怪物猎人3G HD/怪物猎人3 终极版</a>》[13]</p></td>
 <td><p><em>Monster Hunter 3 tri-G HD ver./Monster Hunter 3 Ultimate</em></p></td>
 <td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a></p></td>
 <td><p>卡普空</p></td>
@@ -291,8 +291,8 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 <tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/NBA_2K13" title="wikilink">NBA 2K13</a>》</p></td>
 <td><p><em>NBA 2K13</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Visual_Concepts" title="wikilink">Visual Concepts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2K_Sports" title="wikilink">2K Sports</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
+<td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
 <td><p>无发售</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年12月28日</p></td>
@@ -384,8 +384,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 
 ### 當前遊戲主機世代
 
-  - [Xbox
-    One遊戲列表](https://zh.wikipedia.org/wiki/Xbox_One遊戲列表 "wikilink")
+  - [Xbox One遊戲列表](../Page/Xbox_One遊戲列表.md "wikilink")
   - [PlayStation
     4遊戲列表](https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表 "wikilink")
   - [任天堂Switch遊戲列表](https://zh.wikipedia.org/wiki/任天堂Switch遊戲列表 "wikilink")

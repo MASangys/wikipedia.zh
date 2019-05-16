@@ -9,7 +9,7 @@ Moment》在乐评界反响不一，有人认为该曲同之前单曲相比大�
 ## 背景
 
 2011年7月11日，有消息称布莱克将发布名为《My
-Moment》的新单曲。\[1\]消息还透露说，布莱克将在8月发行包含五首歌曲的[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。\[2\]2011年7月13日，布莱克通过她的[Twitter帐号透露了自己的单曲作品](../Page/Twitter.md "wikilink")。\[3\]7月18日，该曲的音乐录音带被上传到[Youtube上布莱克的个人频道中](../Page/Youtube.md "wikilink")，\[4\]单曲则在次日通过[iTunes
+Moment》的新单曲。\[1\]消息还透露说，布莱克将在8月发行包含五首歌曲的[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。\[2\]2011年7月13日，布莱克通过她的[Twitter帐号透露了自己的单曲作品](../Page/Twitter.md "wikilink")。\[3\]7月18日，该曲的音乐录音带被上传到[Youtube上布莱克的个人频道中](https://zh.wikipedia.org/wiki/Youtube "wikilink")，\[4\]单曲则在次日通过[iTunes
 Store数字发行](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")。\[5\]当被[哥伦比亚广播公司新闻采访中询问有关](https://zh.wikipedia.org/wiki/哥伦比亚广播公司 "wikilink")《My
 Moment》的情况时，布莱克回答道，在《Friday》之后，她需要“找到一首合适的歌曲来回敬一下厌恶她的人，但还要在同时展现出她是一个严肃的艺人。这很难。”\[6\]
 

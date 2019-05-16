@@ -47,7 +47,7 @@ DuckDuckGo以顯示來自Yahoo－Bing搜尋網絡的廣告，以及跟亞馬遜�
 ## 歷史
 
 2008年2月29日，蓋布瑞·溫伯格在[宾夕法尼亚州福吉谷推出DuckDuckGo](../Page/宾夕法尼亚州.md "wikilink")\[25\]\[26\]。溫伯格是一名實業家\[27\]，曾經建立社交網站Names
-Database，但其現已關站\[28\]。DuckDuckGo在剛剛創建時的支出完全由溫伯格個人負擔，現在則由一些網頁廣告收入來分擔費用，不過用戶也可以選擇停止顯示廣告\[29\]。它的搜索引擎是由[Perl寫成的](../Page/Perl.md "wikilink")\[30\]，並在[nginx](../Page/nginx.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Linux上運行](../Page/Linux.md "wikilink")\[31\]\[32\]\[33\]。DuckDuckGo是一款以各大型搜索服务商（比如Yahoo\!
+Database，但其現已關站\[28\]。DuckDuckGo在剛剛創建時的支出完全由溫伯格個人負擔，現在則由一些網頁廣告收入來分擔費用，不過用戶也可以選擇停止顯示廣告\[29\]。它的搜索引擎是由[Perl寫成的](../Page/Perl.md "wikilink")\[30\]，並在[nginx](https://zh.wikipedia.org/wiki/nginx "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Linux上運行](../Page/Linux.md "wikilink")\[31\]\[32\]\[33\]。DuckDuckGo是一款以各大型搜索服务商（比如Yahoo\!
 Search
 BOSS）為基的[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")，因此[TechCrunch上有報導指它是一个](../Page/TechCrunch.md "wikilink")「混合的」搜索引擎\[34\]\[35\]。當被問及為什麼取這個被認為可笑的網站名稱時\[36\]，溫伯格如此解釋：「說實話，它就是某天突然靈光一現地出現在腦海，而且我很中意。它當然是源自，或說受到「Duck
 duck
@@ -67,7 +67,7 @@ Web](../Page/GNOME_Web.md "wikilink")3.10中把DuckDuckGo設為預設搜尋引�
 
 2014年6月，DuckDuckGo成为[iOS
 8和](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")[OS X
-Yosemite的](https://zh.wikipedia.org/wiki/OS_X_Yosemite "wikilink")[Safari的搜尋引擎選項之一](../Page/Safari.md "wikilink")\[52\]\[53\]\[54\]。[苍月浏览器自](../Page/苍月浏览器.md "wikilink")24.4.0版起（3月10日釋出）把DuckDuckGo設為預設搜尋引擎，並把其顯示於起始頁內\[55\]。2014年5月，DuckDuckGo透過DuckDuckHack對測試版用戶釋出了重新設計的改版\[56\]。該改版於2014年5月21日正式釋出，並以更智能的答案和更優雅的外觀為改變重心。它增設了詳多新的功能，包括圖像搜尋、在地化搜尋、搜尋建議、天氣、食譜\[57\]。
+Yosemite的](../Page/OS_X_Yosemite.md "wikilink")[Safari的搜尋引擎選項之一](../Page/Safari.md "wikilink")\[52\]\[53\]\[54\]。[苍月浏览器自](../Page/苍月浏览器.md "wikilink")24.4.0版起（3月10日釋出）把DuckDuckGo設為預設搜尋引擎，並把其顯示於起始頁內\[55\]。2014年5月，DuckDuckGo透過DuckDuckHack對測試版用戶釋出了重新設計的改版\[56\]。該改版於2014年5月21日正式釋出，並以更智能的答案和更優雅的外觀為改變重心。它增設了詳多新的功能，包括圖像搜尋、在地化搜尋、搜尋建議、天氣、食譜\[57\]。
 
 2014年9月3日，DuckDuckGo在中国大陆被[防火長城](https://zh.wikipedia.org/wiki/防火長城 "wikilink")[域名污染](https://zh.wikipedia.org/wiki/域名污染 "wikilink")，通过修改[Hosts文件可以直接访问](../Page/Hosts文件.md "wikilink")\[58\]。
 
@@ -101,7 +101,7 @@ Camp）创始人昆西·拉森说“如果有人对[谷歌极度不放心](https
 
 ## 流量
 
-DuckDuckGo官方表示其流量在2013年6月有顯著的上升趨勢。2013年6月17日，DuckDuckGo在其[Twitter頁面上發文指其每天平均處理的直接搜尋量達](../Page/Twitter.md "wikilink")300萬宗；相比之下5月每天平均只有180萬宗。一些來源稱此一趨勢跟[稜鏡計畫的披露有關](https://zh.wikipedia.org/wiki/稜鏡計畫 "wikilink")\[74\]。技術專家丹尼·沙利文（Danny
+DuckDuckGo官方表示其流量在2013年6月有顯著的上升趨勢。2013年6月17日，DuckDuckGo在其[Twitter頁面上發文指其每天平均處理的直接搜尋量達](../Page/Twitter.md "wikilink")300萬宗；相比之下5月每天平均只有180萬宗。一些來源稱此一趨勢跟[稜鏡計畫的披露有關](../Page/稜鏡計畫.md "wikilink")\[74\]。技術專家丹尼·沙利文（Danny
 Sullivan）在搜尋引擎行銷教學網站Search Engine
 Land上稱，儘管相關數字的確有所增長，但「其還不能夠顯著地反映用戶因私隱原因，而作的任何實質性改變，甚至些微的改變也不能從中看出……沒有人會關注『具有私隱性的』搜尋」\[75\]
 。《[旧金山纪事报](../Page/旧金山纪事报.md "wikilink")》的迦勒·耶林（Caleb

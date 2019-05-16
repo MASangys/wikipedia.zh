@@ -1,51 +1,48 @@
 **GENERATIONS from EXILE TRIBE**（放浪新世代 from
-放浪一族）是日本7人男子組合，所屬的演藝公司為[LDH](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")，唱片公司為rhythm
+放浪一族）是日本7人男子組合，所屬的演藝公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，唱片公司為rhythm
 zone，於2011年結成。
 
 ## 组合简历
 
 ### 2011年 - 2012年: 結成、夢者修行、出道
 
-  - 2011年，[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO正式宣佈新組合結成](https://zh.wikipedia.org/wiki/五十嵐廣行 "wikilink")，取名GENERATIONS（放浪新世代）。GENERATIONS為「EXILE
+  - 2011年，[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO正式宣佈新組合結成](../Page/五十嵐廣行.md "wikilink")，取名GENERATIONS（放浪新世代）。GENERATIONS為「EXILE
     Pyramid」([EXILE於](https://zh.wikipedia.org/wiki/EXILE "wikilink")2011年的重大提案)的其中一個所屬部份。而成員均是「有夢想的年輕的挑戰者」，同時亦被認同為「承繼EXILE之信念的人」，而有能力者將成為「EXILE
     TRIBE(EXILE一族)」之一。\[1\]
-  - GENERATIONS的成員包括來自[EXPG的學生](https://zh.wikipedia.org/wiki/EXPG "wikilink")
-    -
-    [小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](https://zh.wikipedia.org/wiki/佐野玲於 "wikilink")、[關口Mandy](../Page/關口Mandy.md "wikilink")；[劇團EXILE成員](https://zh.wikipedia.org/wiki/劇團EXILE "wikilink")[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[町田啟太](../Page/町田啟太.md "wikilink")；和「」的三次審查通過者
+  - GENERATIONS的成員包括來自[EXPG的學生](../Page/EXPG.md "wikilink") -
+    [小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](../Page/佐野玲於.md "wikilink")、[關口Mandy](../Page/關口Mandy.md "wikilink")；[劇團EXILE成員](../Page/劇團EXILE.md "wikilink")[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[町田啟太](../Page/町田啟太.md "wikilink")；和「」的三次審查通過者
     -
     [數原龍友和](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")\[2\]。在正式出道前，成員以「GENERATIONS候補生」身份進行「夢者修行」，取得正式出道的資格。
   - 2011年下旬，五位伴舞成員 -
-    [中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")、[岩谷翔吾](https://zh.wikipedia.org/wiki/岩谷翔吾 "wikilink")、[藤原樹](https://zh.wikipedia.org/wiki/藤原樹 "wikilink")、[浦川翔平](https://zh.wikipedia.org/wiki/浦川翔平 "wikilink")、[佐藤大樹陸續加入GENERATIONS](../Page/佐藤大樹.md "wikilink")。[HIRO表示](https://zh.wikipedia.org/wiki/五十嵐廣行 "wikilink")、今後可能會加入更多的伴舞成員；而有才華的新人將有機會成為GENERATIONS的新候選者。\[3\]
-  - 2012年2月14日，[町田啟太宣佈退團](../Page/町田啟太.md "wikilink")，並專注[劇團EXILE的演出](https://zh.wikipedia.org/wiki/劇團EXILE "wikilink")\[4\]。
-  - 2012年4月17日，[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")、[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於和](https://zh.wikipedia.org/wiki/佐野玲於 "wikilink")[關口Mandy六位候選者成為GENERATIONS正式成員](../Page/關口Mandy.md "wikilink")。而且[長谷川慎和](https://zh.wikipedia.org/wiki/長谷川慎 "wikilink")[森田力斗加入為GENERATIONS伴舞成員](https://zh.wikipedia.org/wiki/森田力斗 "wikilink")。以主要出道作品為目標的前題下，GENERATIONS六位成員及其七位伴舞成員進行「夢者修行〜第二章〜」之活動\[5\]。
+    [中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")、[岩谷翔吾](https://zh.wikipedia.org/wiki/岩谷翔吾 "wikilink")、[藤原樹](https://zh.wikipedia.org/wiki/藤原樹 "wikilink")、[浦川翔平](https://zh.wikipedia.org/wiki/浦川翔平 "wikilink")、[佐藤大樹陸續加入GENERATIONS](../Page/佐藤大樹.md "wikilink")。[HIRO表示](../Page/五十嵐廣行.md "wikilink")、今後可能會加入更多的伴舞成員；而有才華的新人將有機會成為GENERATIONS的新候選者。\[3\]
+  - 2012年2月14日，[町田啟太宣佈退團](../Page/町田啟太.md "wikilink")，並專注[劇團EXILE的演出](../Page/劇團EXILE.md "wikilink")\[4\]。
+  - 2012年4月17日，[白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")、[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於和](../Page/佐野玲於.md "wikilink")[關口Mandy六位候選者成為GENERATIONS正式成員](../Page/關口Mandy.md "wikilink")。而且[長谷川慎和](https://zh.wikipedia.org/wiki/長谷川慎 "wikilink")[森田力斗加入為GENERATIONS伴舞成員](https://zh.wikipedia.org/wiki/森田力斗 "wikilink")。以主要出道作品為目標的前題下，GENERATIONS六位成員及其七位伴舞成員進行「夢者修行〜第二章〜」之活動\[5\]。
   - 2012年9月11日，伴舞成員[中務裕太昇格為GENERATIONS正式成員](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")。
   - 2012年11月21日，出道單曲《[BRAVE IT
-    OUT](https://zh.wikipedia.org/wiki/BRAVE_IT_OUT "wikilink")》發行，《[BRAVE
-    IT
-    OUT](https://zh.wikipedia.org/wiki/BRAVE_IT_OUT "wikilink")》是成員白濱亞嵐和佐野玲於主演，日本電視台電視劇《Sugarless》的主題曲。
+    OUT](../Page/BRAVE_IT_OUT.md "wikilink")》發行，《[BRAVE IT
+    OUT](../Page/BRAVE_IT_OUT.md "wikilink")》是成員白濱亞嵐和佐野玲於主演，日本電視台電視劇《Sugarless》的主題曲。
 
 ### 2013年: GENERATIONS
 
   - 2013年1月，組合名字改為「GENERATIONS from EXILE
-    TRIBE」，並於1月30日發行第2張單曲《[ANIMAL](https://zh.wikipedia.org/wiki/ANIMAL "wikilink")》。
-  - 5月15日，第3張單曲《[Love You
-    More](https://zh.wikipedia.org/wiki/Love_You_More "wikilink")》發行。
+    TRIBE」，並於1月30日發行第2張單曲《[ANIMAL](../Page/ANIMAL.md "wikilink")》。
+  - 5月15日，第3張單曲《[Love You More](../Page/Love_You_More.md "wikilink")》發行。
   - 7月，GENERATIONS與[第三代J Soul
     Brothers以](../Page/J_Soul_Brothers.md "wikilink")「[EXILE
-    TRIBE](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")」名義發行的單曲《[BURNING
+    TRIBE](../Page/EXILE_TRIBE.md "wikilink")」名義發行的單曲《[BURNING
     UP](../Page/BURNING_UP.md "wikilink")》，並獲得[Oricon公信榜每周銷量排名第](../Page/Oricon公信榜.md "wikilink")1名。
   - 10月9日，第4張單曲《[HOT
-    SHOT](https://zh.wikipedia.org/wiki/HOT_SHOT "wikilink")》發行，亦是首張專輯的先行單曲。
-  - 11月13日，首張原創專輯『[GENERATIONS](https://zh.wikipedia.org/wiki/GENERATIONS_\(GENERATIONS專輯\) "wikilink")』發行，這張專輯成為他們首張獲得Oricon公信榜每周銷量排名第1的專輯。
+    SHOT](../Page/HOT_SHOT.md "wikilink")》發行，亦是首張專輯的先行單曲。
+  - 11月13日，首張原創專輯『[GENERATIONS](../Page/GENERATIONS_\(GENERATIONS專輯\).md "wikilink")』發行，這張專輯成為他們首張獲得Oricon公信榜每周銷量排名第1的專輯。
 
 ### 2014年: EXILE TRIBE Perfect Year
 
-  - 2014年年初，GENERATIONS的制作人、[EXILE成員](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO任命成員](https://zh.wikipedia.org/wiki/五十嵐廣行 "wikilink")[白濱亞嵐作為GENERATIONS的隊長](../Page/白濱亞嵐.md "wikilink")。
+  - 2014年年初，GENERATIONS的制作人、[EXILE成員](https://zh.wikipedia.org/wiki/EXILE "wikilink")[HIRO任命成員](../Page/五十嵐廣行.md "wikilink")[白濱亞嵐作為GENERATIONS的隊長](../Page/白濱亞嵐.md "wikilink")。
   - 2014年上旬，GENERATIONS五位表演者獲邀參加『EXILE PERFORMER BATTLE
     AUDITION』，並全員進級最終決戰。
   - 4月23日，第5張單曲《[NEVER LET YOU
-    GO](https://zh.wikipedia.org/wiki/NEVER_LET_YOU_GO "wikilink")》發行，亦是EXILE
-    TRIBE Perfect Year 2014其中一環《EXILE Presents VOCAL BATTLE AUDITON 4
+    GO](../Page/NEVER_LET_YOU_GO.md "wikilink")》發行，亦是EXILE TRIBE Perfect
+    Year 2014其中一環《EXILE Presents VOCAL BATTLE AUDITON 4
     〜給懷抱夢想的年輕人們〜》第二審查的課題曲。
   - 4月27日在[日本武道館舉辦的](../Page/日本武道館.md "wikilink")『EXILE PERFORMER BATTLE
     AUDITION』最終決戰，最終成員[白濱亞嵐和](../Page/白濱亞嵐.md "wikilink")[關口Mandy](../Page/關口Mandy.md "wikilink")，以及[山本世界](https://zh.wikipedia.org/wiki/山本世界 "wikilink")、[第三代J
@@ -60,25 +57,24 @@ zone，於2011年結成。
     TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN SAITAMA
     SUPER ARENA 10DAYS》，亦是EXILE TRIBE Perfect Year 2014其中一環。
   - 7月至8月，GENERATIONS以[EXILE
-    TRIBE其中一員身份發行及宣傳單曲](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")《[THE
+    TRIBE其中一員身份發行及宣傳單曲](../Page/EXILE_TRIBE.md "wikilink")《[THE
     REVOLUTION](https://zh.wikipedia.org/wiki/THE_REVOLUTION "wikilink")》及專輯《[EXILE
     TRIBE
     REVOLUTION](https://zh.wikipedia.org/wiki/EXILE_TRIBE_REVOLUTION "wikilink")》
   - 9月3日，第6張單曲《[Always with
-    you](https://zh.wikipedia.org/wiki/Always_with_you "wikilink")》發行。
+    you](../Page/Always_with_you.md "wikilink")》發行。
   - 9月起以[EXILE
-    TRIBE其中一員身份參與巡迴演唱會](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")『[TOWER
+    TRIBE其中一員身份參與巡迴演唱會](../Page/EXILE_TRIBE.md "wikilink")『[TOWER
     OF WISH 2014 ～THE
     REVOLUTION～](https://zh.wikipedia.org/wiki/EXILE_TRIBE_PERFECT_YEAR_LIVE_TOUR_TOWER_OF_WISH_2014_～THE_REVOLUTION～ "wikilink")』
   - 11月29日，於[東京巨蛋](../Page/東京巨蛋.md "wikilink")『TOWER OF WISH 2014 ～THE
     REVOLUTION～』公演上宣佈於2015年1月發行新單曲，待望的第2張原創專輯《[GENERATIONS
-    EX](https://zh.wikipedia.org/wiki/GENERATIONS_EX "wikilink")》於2015年2月發行；並於2015年春天舉行組合首次的全國HALL巡迴演唱會及世界巡迴演唱會。
+    EX](../Page/GENERATIONS_EX.md "wikilink")》於2015年2月發行；並於2015年春天舉行組合首次的全國HALL巡迴演唱會及世界巡迴演唱會。
 
 ### 2015年: GENERATIONS EX、世巡
 
   - 1月26日，被香港旅遊發展局任命為「2015年香港觀光親善大使」\[6\]。
-  - 1月28日，第7張單曲《[Sing it
-    Loud](https://zh.wikipedia.org/wiki/Sing_it_Loud "wikilink")》發行。
+  - 1月28日，第7張單曲《[Sing it Loud](../Page/Sing_it_Loud.md "wikilink")》發行。
   - 4月展開出道以來首次全國HALL巡迴及世界巡迴演唱會「GENERATIONS WORLD TOUR 2015 "GENERATION
     EX"」，一共30場公演。
   - 3月30日，GENERATIONS被[富士電視台委任演唱動畫](../Page/富士電視台.md "wikilink")「[ONE
@@ -127,7 +123,7 @@ zone，於2011年結成。
 | **[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")** |
 | **[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")** |
 | **[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")**   |
-| **[佐野玲於](https://zh.wikipedia.org/wiki/佐野玲於 "wikilink")** |
+| **[佐野玲於](../Page/佐野玲於.md "wikilink")**                    |
 | **[關口Mandy](../Page/關口Mandy.md "wikilink")**              |
 | **[中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")** |
 | **過往候補生&伴舞成員**                                            |
@@ -146,13 +142,13 @@ zone，於2011年結成。
 
 |      | 發行日         | 單曲                                                                                            | 週間單曲榜 | 所屬原創專輯                                                                                  | 所屬精選專輯                                                                      |
 | ---- | ----------- | --------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1st  | 2012年11月21日 | [BRAVE IT OUT](https://zh.wikipedia.org/wiki/BRAVE_IT_OUT "wikilink")                         | 3     | [GENERATIONS](https://zh.wikipedia.org/wiki/GENERATIONS_\(GENERATIONS專輯\) "wikilink")   | [BEST GENERATION](https://zh.wikipedia.org/wiki/BEST_GENERATION "wikilink") |
-| 2nd  | 2013年1月30日  | [ANIMAL](https://zh.wikipedia.org/wiki/ANIMAL "wikilink")                                     | 2     |                                                                                         |                                                                             |
-| 3rd  | 2013年5月15日  | [Love You More](https://zh.wikipedia.org/wiki/Love_You_More "wikilink")                       | 3     |                                                                                         |                                                                             |
-| 4th  | 2013年10月9日  | [HOT SHOT](https://zh.wikipedia.org/wiki/HOT_SHOT "wikilink")                                 | 2     |                                                                                         |                                                                             |
-| 5th  | 2014年4月23日  | [NEVER LET YOU GO](https://zh.wikipedia.org/wiki/NEVER_LET_YOU_GO "wikilink")                 | 2     | [GENERATIONS EX](https://zh.wikipedia.org/wiki/GENERATIONS_EX "wikilink")               |                                                                             |
-| 6th  | 2014年9月3日   | [Always with you](https://zh.wikipedia.org/wiki/Always_with_you "wikilink")                   | 3     |                                                                                         |                                                                             |
-| 7th  | 2015年1月28日  | [Sing it Loud](https://zh.wikipedia.org/wiki/Sing_it_Loud "wikilink")                         | 3     |                                                                                         |                                                                             |
+| 1st  | 2012年11月21日 | [BRAVE IT OUT](../Page/BRAVE_IT_OUT.md "wikilink")                                            | 3     | [GENERATIONS](../Page/GENERATIONS_\(GENERATIONS專輯\).md "wikilink")                      | [BEST GENERATION](https://zh.wikipedia.org/wiki/BEST_GENERATION "wikilink") |
+| 2nd  | 2013年1月30日  | [ANIMAL](../Page/ANIMAL.md "wikilink")                                                        | 2     |                                                                                         |                                                                             |
+| 3rd  | 2013年5月15日  | [Love You More](../Page/Love_You_More.md "wikilink")                                          | 3     |                                                                                         |                                                                             |
+| 4th  | 2013年10月9日  | [HOT SHOT](../Page/HOT_SHOT.md "wikilink")                                                    | 2     |                                                                                         |                                                                             |
+| 5th  | 2014年4月23日  | [NEVER LET YOU GO](../Page/NEVER_LET_YOU_GO.md "wikilink")                                    | 2     | [GENERATIONS EX](../Page/GENERATIONS_EX.md "wikilink")                                  |                                                                             |
+| 6th  | 2014年9月3日   | [Always with you](../Page/Always_with_you.md "wikilink")                                      | 3     |                                                                                         |                                                                             |
+| 7th  | 2015年1月28日  | [Sing it Loud](../Page/Sing_it_Loud.md "wikilink")                                            | 3     |                                                                                         |                                                                             |
 | 8th  | 2015年5月13日  | [Evergreen](../Page/Evergreen_\(GENERATIONS單曲\).md "wikilink")                                | 2     | [SPEEDSTER](../Page/SPEEDSTER.md "wikilink")                                            |                                                                             |
 | 9th  | 2015年8月12日  | [Hard Knock Days](../Page/Hard_Knock_Days.md "wikilink")                                      | 2     |                                                                                         |                                                                             |
 | 10th | 2015年9月16日  | [ALL FOR YOU](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")                            | 1     |                                                                                         |                                                                             |
@@ -185,14 +181,14 @@ zone，於2011年結成。
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2013年11月13日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/GENERATIONS_(GENERATIONS專輯)" title="wikilink">GENERATIONS</a></strong><br />
+<td><p><strong><a href="../Page/GENERATIONS_(GENERATIONS專輯).md" title="wikilink">GENERATIONS</a></strong><br />
 （放浪新世代）</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2015年2月18日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/GENERATIONS_EX" title="wikilink">GENERATIONS EX</a></strong><br />
+<td><p><strong><a href="../Page/GENERATIONS_EX.md" title="wikilink">GENERATIONS EX</a></strong><br />
 （放浪新世代 EX）</p></td>
 <td><p>1</p></td>
 </tr>
@@ -252,10 +248,10 @@ zone，於2011年結成。
 | 發售日期       | 曲名             | 收錄的單曲/專輯                                                                                                                                                                                   |
 | ---------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2012年12月5日 | Bloom          | [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")**『[EXILE BEST HITS -LOVE SIDE-](https://zh.wikipedia.org/wiki/:ja:EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE-#LOVE_SIDE "wikilink")』** |
-| 2013年7月10日 | BURNING UP     | [EXILE TRIBE](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")「[BURNING UP](../Page/BURNING_UP.md "wikilink")」                                                                        |
+| 2013年7月10日 | BURNING UP     | [EXILE TRIBE](../Page/EXILE_TRIBE.md "wikilink")「[BURNING UP](../Page/BURNING_UP.md "wikilink")」                                                                                           |
 | Go On      |                |                                                                                                                                                                                            |
-| 2014年8月20日 | THE REVOLUTION | [EXILE TRIBE](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")「[THE REVOLUTION](https://zh.wikipedia.org/wiki/THE_REVOLUTION "wikilink")」                                             |
-| 2016年6月15日 | RUN THIS TOWN  | [EXILE TRIBE](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")「[HiGH & LOW ORIGINAL BEST ALBUM](https://zh.wikipedia.org/wiki/HiGH_&_LOW_ORIGINAL_BEST_ALBUM "wikilink")」             |
+| 2014年8月20日 | THE REVOLUTION | [EXILE TRIBE](../Page/EXILE_TRIBE.md "wikilink")「[THE REVOLUTION](https://zh.wikipedia.org/wiki/THE_REVOLUTION "wikilink")」                                                                |
+| 2016年6月15日 | RUN THIS TOWN  | [EXILE TRIBE](../Page/EXILE_TRIBE.md "wikilink")「[HiGH & LOW ORIGINAL BEST ALBUM](https://zh.wikipedia.org/wiki/HiGH_&_LOW_ORIGINAL_BEST_ALBUM "wikilink")」                                |
 |            |                |                                                                                                                                                                                            |
 
 ## 公演、夢者修行
@@ -270,7 +266,7 @@ Soul Brothers的](../Page/J_Soul_Brothers.md "wikilink")「GENERATION」；[三�
 Soul
 Brothers](../Page/J_Soul_Brothers.md "wikilink")、同時亦為「」3次審查的課題曲「[Best
 Friend's
-Girl](https://zh.wikipedia.org/wiki/Best_Friend's_Girl "wikilink")」；另包括一首新歌「片想い」。\[11\]\[12\]\[13\]
+Girl](../Page/Best_Friend's_Girl.md "wikilink")」；另包括一首新歌「片想い」。\[11\]\[12\]\[13\]
 
 在表演場地範圍裡，成員同時會在表演時間外親自派發組合宣傳單張，還有在表演後與觀眾進行拍手會、發售組合紀念品的工作。\[14\]\[15\]
 
@@ -1028,20 +1024,20 @@ Girl](https://zh.wikipedia.org/wiki/Best_Friend's_Girl "wikilink")」；另包�
   - EXILE
     「[Bloom](https://zh.wikipedia.org/wiki/:ja:EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
   - EXILE 「[放浪榮耀
-    ～因為如此深愛這世界～](https://zh.wikipedia.org/wiki/放浪榮耀_～因為如此深愛這世界～ "wikilink")」（2013年）
+    ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")」（2013年）
 
 ## 關聯項目
 
   - [Rhythm zone](../Page/Rhythm_zone.md "wikilink")
 
-  - [LDH](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")
+  - [LDH](../Page/LDH_\(藝能事務所\).md "wikilink")
 
   - [放浪兄弟](../Page/放浪兄弟.md "wikilink")(EXILE)
 
   -
-  - [劇團EXILE](https://zh.wikipedia.org/wiki/劇團EXILE "wikilink")
+  - [劇團EXILE](../Page/劇團EXILE.md "wikilink")
 
-  - [EXPG](https://zh.wikipedia.org/wiki/EXPG "wikilink")
+  - [EXPG](../Page/EXPG.md "wikilink")
 
 ## 外部連結
 

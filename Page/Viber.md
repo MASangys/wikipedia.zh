@@ -1,7 +1,7 @@
-**Viber**，是一種[智能手機用的](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網絡電話及](https://zh.wikipedia.org/wiki/網絡電話 "wikilink")[即時通訊軟件](../Page/即時通訊.md "wikilink")，能在[3G和](../Page/3G.md "wikilink")[WiFi網絡上運作](https://zh.wikipedia.org/wiki/WiFi "wikilink")。作業系統為[iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[BlackBerry
+**Viber**，是一種[智能手機用的](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網絡電話及](https://zh.wikipedia.org/wiki/網絡電話 "wikilink")[即時通訊軟件](../Page/即時通訊.md "wikilink")，能在[3G和](../Page/3G.md "wikilink")[WiFi網絡上運作](https://zh.wikipedia.org/wiki/WiFi "wikilink")。作業系統為[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[BlackBerry
 OS](../Page/BlackBerry_OS.md "wikilink")、[Series
 40](../Page/Series_40.md "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、[Bada](../Page/Bada.md "wikilink")、[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux或](../Page/Linux.md "wikilink")[Mac](../Page/Mac.md "wikilink")\[1\]。其用戶無需註冊或付款，只要雙方都有安裝這套軟件就能彼此免費通訊。用戶可以通過[無線網絡或](https://zh.wikipedia.org/wiki/無線網絡 "wikilink")[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")，與其他用戶免費通話及傳送短訊、圖片、视频和音频媒體等。
+Phone](../Page/Windows_Phone.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux或](../Page/Linux.md "wikilink")[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")\[1\]。其用戶無需註冊或付款，只要雙方都有安裝這套軟件就能彼此免費通訊。用戶可以通過[無線網絡或](https://zh.wikipedia.org/wiki/無線網絡 "wikilink")[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")，與其他用戶免費通話及傳送短訊、圖片、视频和音频媒體等。
 
 ## 公司
 
@@ -10,13 +10,13 @@ Media是[塞浦路斯的一所公司](https://zh.wikipedia.org/wiki/塞浦路斯
 
 ## 歷史
 
-  - Viber於2010年12月2日首次推出，但只有在[iPhone上運行版本](../Page/iPhone.md "wikilink")。
+  - Viber於2010年12月2日首次推出，但只有在[iPhone上運行版本](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
   - 2011年5月，開發商釋出了[Android的測試版](../Page/Android.md "wikilink")，但是限制用戶至50,000人，並於同年7月19日推出正式版本\[7\]。
   - 2012年9月22日，高質量的通話和群組訊息在[諾基亞的](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Windows
     Phone上可用](../Page/Windows_Phone.md "wikilink")\[8\]。
   - 2013年4月17日，免費通話功能在[Windows
     Phone上可用](../Page/Windows_Phone.md "wikilink")。
-  - 2013年5月7日，開發商釋出[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac的首個桌面版](../Page/Mac.md "wikilink")\[9\]。
+  - 2013年5月7日，開發商釋出[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac的首個桌面版](https://zh.wikipedia.org/wiki/Mac "wikilink")\[9\]。
   - 直至2013年5月8日，Viber已擁有超過2億名用戶\[10\]。
   - 2014年2月14日，[樂天株式會社斥資九億](https://zh.wikipedia.org/wiki/樂天株式會社 "wikilink")[美元併購Viber](../Page/美元.md "wikilink")。
 
@@ -33,7 +33,7 @@ Media是[塞浦路斯的一所公司](https://zh.wikipedia.org/wiki/塞浦路斯
 ### 桌面版
 
 Viber
-桌面應用可與手機應用同步，並擁有手機版大部分的功能和視頻通話功能。桌面版可執行於[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac](../Page/Mac.md "wikilink")\[11\]。
+桌面應用可與手機應用同步，並擁有手機版大部分的功能和視頻通話功能。桌面版可執行於[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")\[11\]。
 
 ## 相关
 

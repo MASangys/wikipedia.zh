@@ -72,7 +72,7 @@ Patrick Delay</p></td>
 <td><p>一生放暑假</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/井上能征" title="wikilink">井上能征</a><br />
 <a href="https://zh.wikipedia.org/wiki/佐伯健三" title="wikilink">佐伯健三</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/因葵" title="wikilink">因葵</a></p></td>
+<td><p><a href="../Page/因葵.md" title="wikilink">因葵</a></p></td>
 <td><p>C.Y.Kong</p></td>
 <td><p>國語版本為《偷偷想一個人》</p></td>
 </tr>

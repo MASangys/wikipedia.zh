@@ -39,7 +39,7 @@
 
 ## 參見
 
-  - [法國同性婚姻](https://zh.wikipedia.org/wiki/法國同性婚姻 "wikilink")
+  - [法國同性婚姻](../Page/法國同性婚姻.md "wikilink")
   - [歐洲LGBT權益](../Page/歐洲LGBT權益.md "wikilink")
 
 ## 參考資料

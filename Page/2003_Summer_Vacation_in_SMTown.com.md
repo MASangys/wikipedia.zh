@@ -9,10 +9,10 @@ Pray 4 U*是在之前已經完成錄製，因此並不受影響。
 2.  Paradise – [Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink"),
     [李志勳](https://zh.wikipedia.org/wiki/李志勳 "wikilink"), Ji Yeon,
     [玄振](../Page/徐玄振.md "wikilink")
-3.  연인처럼  – [Shoo](https://zh.wikipedia.org/wiki/Shoo "wikilink")
+3.  연인처럼  – [Shoo](../Page/Shoo.md "wikilink")
 4.  Destiny – [Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink")
 5.  Summer in Dream – [文熙俊](../Page/文熙俊.md "wikilink"),
-    [Shoo](https://zh.wikipedia.org/wiki/Shoo "wikilink"),
+    [Shoo](../Page/Shoo.md "wikilink"),
     [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink"), Jae Won,
     [玄振](../Page/徐玄振.md "wikilink"),
     [在英](https://zh.wikipedia.org/wiki/朴喜本 "wikilink")
@@ -20,7 +20,7 @@ Pray 4 U*是在之前已經完成錄製，因此並不受影響。
 7.  I Pray 4 U (Remix) –
     [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")
 8.  연가 – [安七炫](../Page/安七炫.md "wikilink")
-9.  오직 좋은 사랑뿐 – [劉英振](https://zh.wikipedia.org/wiki/劉英振 "wikilink")
+9.  오직 좋은 사랑뿐 – [劉英振](../Page/劉英振.md "wikilink")
 10. 그림으로 떠나는 여행 – [安七炫](../Page/安七炫.md "wikilink"),
     [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink"),
     [李志勳](https://zh.wikipedia.org/wiki/李志勳 "wikilink"), Jin

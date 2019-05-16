@@ -10,8 +10,8 @@ Server或](../Page/Apache_HTTP_Server.md "wikilink")[IIS](https://zh.wikipedia.o
 
 Node.js允许通过[JavaScript和一系列模块来编写](../Page/JavaScript.md "wikilink")[服务器端应用和网络相关的应用](../Page/服务器.md "wikilink")。\[16\]\[17\]\[18\]核心模块包括[文件系统I](../Page/文件系统.md "wikilink")/O、网络（[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[TCP](../Page/传输控制协议.md "wikilink")、[UDP](../Page/用户数据报协议.md "wikilink")、[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")、[TLS/SSL等](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")）、[二进制数据流](https://zh.wikipedia.org/wiki/二进制 "wikilink")、[加密算法](https://zh.wikipedia.org/wiki/加密 "wikilink")、[数据流等等](https://zh.wikipedia.org/wiki/数据流 "wikilink")。\[19\]\[20\]Node模块的API形式简单，降低了编程的复杂度。\[21\]
 
-使用框架可以加速开发。常用的框架有、[Socket.IO和Connect等](https://zh.wikipedia.org/wiki/Socket.IO "wikilink")。\[22\]Node.js的程序可以在[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix](../Page/Unix.md "wikilink")、[Mac
+使用框架可以加速开发。常用的框架有、[Socket.IO和Connect等](../Page/Socket.IO.md "wikilink")。\[22\]Node.js的程序可以在[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Mac
 OS
 X等服务器上运行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。Node.js也可以使用[CoffeeScript](../Page/CoffeeScript.md "wikilink")（一种旨在简化JavaScript的替代语言，其代码可按照一定规则转化为合法的JavaScript代码）、[TypeScript](../Page/TypeScript.md "wikilink")（微软开发的强化了数据类型的JavaScript变体）、[Dart语言](../Page/Dart.md "wikilink")，以及其他能够编译成JavaScript的语言编程。\[23\]\[24\]
 
@@ -26,7 +26,7 @@ JavaScript引擎](../Page/V8_\(JavaScript引擎\).md "wikilink")，因为：
   - V8速度非常快
   - V8专注于网络功能，在HTTP、DNS、TCP等方面更加成熟
 
-Node.js已经有数十万模块，它们可以通过一个名为[npm的管理器免费下载](../Page/npm.md "wikilink")。Node.js开发社区主要有两个邮件列表、一个在[freenode的名为](../Page/freenode.md "wikilink")\#node.js的[IRC频道](../Page/IRC.md "wikilink")。社区集中在[NodeConf](http://nodeconf.com/)。\[27\]
+Node.js已经有数十万模块，它们可以通过一个名为[npm的管理器免费下载](https://zh.wikipedia.org/wiki/npm "wikilink")。Node.js开发社区主要有两个邮件列表、一个在[freenode的名为](https://zh.wikipedia.org/wiki/freenode "wikilink")\#node.js的[IRC频道](../Page/IRC.md "wikilink")。社区集中在[NodeConf](http://nodeconf.com/)。\[27\]
 
 ## 歷史
 
@@ -37,7 +37,7 @@ Dahl），\[28\]。Node.js结合了[Google的](../Page/Google.md "wikilink")[V8]
 HTTP
 Server和顺序编程方式提出了批评](../Page/Apache_HTTP_Server.md "wikilink")，认为Apache处理大量并发连接（10,000甚至更多）的可能性有限，而且顺序编程方式在多连接情况下会造成阻塞，或者消耗更多资源；而Node.js提供了基于事件驱动和非阻塞的接口，可用于编写高并发状态下的程序，而且JavaScript的匿名函数、闭包、回调函数等特性就是为事件驱动而设计的\[36\]。
 
-2010年1月，一款名为“[npm](../Page/npm.md "wikilink")”的[软件包管理系统诞生](../Page/软件包管理系统.md "wikilink")\[37\]。npm使程序员能够更方便地发布和分享Node.js类库及源代码，而且简化了类库安装、升级与卸载的过程\[38\]。Node.js最初只支持Linux和Mac
+2010年1月，一款名为“[npm](https://zh.wikipedia.org/wiki/npm "wikilink")”的[软件包管理系统诞生](../Page/软件包管理系统.md "wikilink")\[37\]。npm使程序员能够更方便地发布和分享Node.js类库及源代码，而且简化了类库安装、升级与卸载的过程\[38\]。Node.js最初只支持Linux和Mac
 OS
 X操作系统。2011年6月，微软和Joyent共同合作，把Node.js移植到了Windows系统上面\[39\]，并且在7月发布了第一个正式支持Windows系统的版本。
 
@@ -99,7 +99,7 @@ Node.js的核心功能被包含进一个JavaScript库，并通过C++将各部分
 
 ### npm
 
-[npm是Node](../Page/npm.md "wikilink").js附带的包管理器。npm是一个命令行工具，用于从NPM
+[npm是Node](https://zh.wikipedia.org/wiki/npm "wikilink").js附带的包管理器。npm是一个命令行工具，用于从NPM
 Registry中下载、安装Node.js程序，同时解决依赖问题。npm提高了开发的速度，因为它能够负责第三方Node.js程序的安装与管理。
 
 ### 统一API
@@ -117,7 +117,7 @@ Node.js将其注册到操作系统中，这样可以及时注意到新连接的�
 <!-- end list -->
 
   - [Atom](https://zh.wikipedia.org/wiki/Atom_\(文字编辑器\) "wikilink")（免费、开源软件）
-  - [Brackets](https://zh.wikipedia.org/wiki/Adobe_Brackets "wikilink")（免费、开源软件）
+  - [Brackets](../Page/Adobe_Brackets.md "wikilink")（免费、开源软件）
   - [Sublime Text](../Page/Sublime_Text.md "wikilink")（商业软件）
   - [JetBrains](https://zh.wikipedia.org/wiki/JetBrains_MPS "wikilink")
     [IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink")（商业软件）
@@ -166,7 +166,7 @@ Node.js将其注册到操作系统中，这样可以及时注意到新连接的�
 <!-- end list -->
 
   - 服务器端框架：[Express.js](https://zh.wikipedia.org/wiki/Express.js "wikilink"),
-    [Socket.IO](https://zh.wikipedia.org/wiki/Socket.IO "wikilink"),
+    [Socket.IO](../Page/Socket.IO.md "wikilink"),
     [Koa.js](http://koajs.com/), [Hapi.js](http://hapijs.com/),
     Total.js\[53\]\[54\]
   - MVC框架：[Meteor](http://www.meteor.com), [Derby](http://derbyjs.com/),
@@ -184,7 +184,7 @@ JXcore是一个开放源代码的Node.js的分支，旨在支持移动设备和�
 [repository](https://github.com/jxcore/jxcore)获得。JXcore同时使用[Google
 V8和](../Page/V8_\(JavaScript引擎\).md "wikilink")[Mozilla
 SpiderMonkey两个引擎](../Page/SpiderMonkey.md "wikilink")。因此JXcore可以通过Mozilla
-SpiderMonkey在[iOS设备上运行Node应用程序](../Page/iOS.md "wikilink")。
+SpiderMonkey在[iOS设备上运行Node应用程序](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ### 其他语言
 
@@ -193,7 +193,7 @@ SpiderMonkey在[iOS设备上运行Node应用程序](../Page/iOS.md "wikilink")�
   - [Python](../Page/Python.md "wikilink")：[Tornado和](../Page/Tornado.md "wikilink")[Twisted](https://zh.wikipedia.org/wiki/Twisted "wikilink")
   - [Perl](../Page/Perl.md "wikilink")：[Perl Object
     Environment](https://zh.wikipedia.org/wiki/Perl_Object_Environment "wikilink")
-  - [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")：[libevent](../Page/libevent.md "wikilink")
+  - [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")：[libevent](https://zh.wikipedia.org/wiki/libevent "wikilink")
   - Java、JavaScript、[Groovy](https://zh.wikipedia.org/wiki/Groovy_\(programming_language\) "wikilink")、Python、Scala、Clojure、Ruby、[Ceylon等](https://zh.wikipedia.org/wiki/Ceylon_\(programming_language\) "wikilink")：[Vert.x](https://zh.wikipedia.org/wiki/Vert.x "wikilink")
   - Java和Scala：[Akka](https://zh.wikipedia.org/wiki/Akka "wikilink")
   - Ruby：[EventMachine](https://zh.wikipedia.org/wiki/EventMachine "wikilink")
@@ -204,8 +204,8 @@ SpiderMonkey在[iOS设备上运行Node应用程序](../Page/iOS.md "wikilink")�
 ## 参见
 
   - [Rhino (JavaScript引擎)](../Page/Rhino_\(JavaScript引擎\).md "wikilink")
-  - [npm](../Page/npm.md "wikilink")：广泛使用的Node.js安装包管理器
-  - [MEAN](https://zh.wikipedia.org/wiki/MEAN "wikilink")
+  - [npm](https://zh.wikipedia.org/wiki/npm "wikilink")：广泛使用的Node.js安装包管理器
+  - [MEAN](../Page/MEAN.md "wikilink")
   - [JSAN](https://zh.wikipedia.org/wiki/JSAN "wikilink")（JavaScript
     Archive Network），一个不太常用的JavaScript安装包管理器
 

@@ -67,7 +67,7 @@ The MOVIE
   - 艾莉希亚·泰斯塔罗莎：[水树奈奈](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")
   - 莉妮丝：[浅野真澄](../Page/浅野真澄.md "wikilink")
   - 天使之翼II：[尤加奈](../Page/尤加奈.md "wikilink")
-  - 担任教師：[中村知子](https://zh.wikipedia.org/wiki/中村知子 "wikilink")
+  - 担任教師：[中村知子](../Page/中村知子.md "wikilink")
   - 旭日之心：
   - 雷光之斧：Kevin J.England
   - 闇之書（ナハトヴァール）、清新聖風：Alexandra Haefelin

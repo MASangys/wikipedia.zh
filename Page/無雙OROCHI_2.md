@@ -1,11 +1,11 @@
 是由[光榮特庫摩和ω](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")-force開發，於2011年12月22日發行的動作遊戲，對應機種最初包括[Playstation
-3](../Page/Playstation_3.md "wikilink")、[Xbox
+3](https://zh.wikipedia.org/wiki/Playstation_3 "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")，两個平台版本都對應3D顯示功能。並於2012年7月19日發行對應PSP平台的《無雙OROCHI
 2 Special》，随後陆续登陆[PlayStation
 Vita](../Page/PlayStation_Vita.md "wikilink")、[Wii
 U](../Page/Wii_U.md "wikilink")、[Xbox
-One和](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")[PlayStation
-4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")。這是[無雙OROCHI系列的第四款作品](../Page/無雙OROCHI系列.md "wikilink")（主要由《[真三國無雙6](https://zh.wikipedia.org/wiki/真三國無雙6 "wikilink")》和《[戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")》的人物融合），亦是《[無雙OROCHI
+One和](../Page/Xbox_One.md "wikilink")[PlayStation
+4](../Page/PlayStation_4.md "wikilink")。這是[無雙OROCHI系列的第四款作品](../Page/無雙OROCHI系列.md "wikilink")（主要由《[真三國無雙6](https://zh.wikipedia.org/wiki/真三國無雙6 "wikilink")》和《[戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")》的人物融合），亦是《[無雙OROCHI
 蛇魔再臨](../Page/無雙OROCHI_蛇魔再臨.md "wikilink")》的正式續作。
 
 ## 劇情
@@ -25,7 +25,7 @@ Z](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")》及本作的原創
 
   - [輝夜姬](https://zh.wikipedia.org/wiki/輝夜姬 "wikilink")（かぐや）（声：[牧島有希](../Page/牧島有希.md "wikilink")），日本[神話](https://zh.wikipedia.org/wiki/神話 "wikilink")[竹取物語的月亮公主](../Page/竹取物語.md "wikilink")。
   - [酒吞童子](../Page/酒吞童子.md "wikilink")（声：[小西克幸](../Page/小西克幸.md "wikilink")），日本神話中的三大[妖怪之一](../Page/妖怪.md "wikilink")。
-  - [哪吒](../Page/哪吒.md "wikilink")（声：[宮坂俊藏](https://zh.wikipedia.org/wiki/宮坂俊藏 "wikilink")），中國神話中的角色，在過去的大戰因身體受重創，被素戔嗚改造後再度重生。
+  - [哪吒](../Page/哪吒.md "wikilink")（声：[宮坂俊藏](../Page/宮坂俊藏.md "wikilink")），中國神話中的角色，在過去的大戰因身體受重創，被素戔嗚改造後再度重生。
   - [素戔嗚](https://zh.wikipedia.org/wiki/素戔嗚尊 "wikilink")（声：[濱田賢二](../Page/濱田賢二.md "wikilink")），日本神話中的神祇。
 
 另外有與光榮特庫摩旗下的五款遊戲進行合作，各自加入一位代表角色進入故事中的異世界：
@@ -78,14 +78,14 @@ Z](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")》及本作的原創
   - 新增攻擊招式「空中類型攻擊」。
   - 新增聯合招式「真‧無雙爆發」。
   - 新增三位一體連續攻擊的「三重突擊」。
-  - 新增《[真·三國無雙7](https://zh.wikipedia.org/wiki/真·三國無雙7 "wikilink")》的移動中騎馬功能。
+  - 新增《[真·三國無雙7](../Page/真·三國無雙7.md "wikilink")》的移動中騎馬功能。
   - 提升「真‧無雙戰場」的自由度。
   - 透過滿足特定的關卡条件，每位角色可獲得一把五级的「仙界武器」。
   - 本作將加入九位新角色（角色總數達145名；玉藻前、應龍、哪吒（改造前）、九尾狐及渾沌的角色造型由[山田章博設計](../Page/山田章博.md "wikilink")）：
-      - [應龍](../Page/應龍.md "wikilink")（声：[真殿光昭](https://zh.wikipedia.org/wiki/真殿光昭 "wikilink")），中國神話中的角色，與伏犠等人並列為猛將，討伐仙界魔物有功。
-      - [哪吒](../Page/哪吒.md "wikilink")（人型）（声：[宮坂俊藏](https://zh.wikipedia.org/wiki/宮坂俊藏 "wikilink")），中國神話中的角色，生於人間和仙界之間，因出眾的戰鬥能力而被仙界軍招至麾下。
-      - [玉藻前](../Page/玉藻前.md "wikilink")（たまものまえ）（声：[小松由佳](https://zh.wikipedia.org/wiki/小松由佳_\(声优\) "wikilink")），日本神話中的三大[妖怪之一](../Page/妖怪.md "wikilink")，在妖蛇死后出現的妖艷美女，對人類抱懷著強烈恨意，以戰場上所散發出的怨念為糧食，與魔王遠呂智的心腹妲己是一起策劃事件的同謀。
-      - [九尾狐](../Page/九尾狐.md "wikilink")（声：[小松由佳](https://zh.wikipedia.org/wiki/小松由佳_\(声优\) "wikilink")）擁有人類容貌及狐狸耳朵與尾巴的妖魔，從腰部長出的九條尾巴可當成武器任意操作，成為戰場上的利器，經常讓尾巴幻化成人類的姿態，將敵人翻弄於鼓掌之間。
+      - [應龍](../Page/應龍.md "wikilink")（声：[真殿光昭](../Page/真殿光昭.md "wikilink")），中國神話中的角色，與伏犠等人並列為猛將，討伐仙界魔物有功。
+      - [哪吒](../Page/哪吒.md "wikilink")（人型）（声：[宮坂俊藏](../Page/宮坂俊藏.md "wikilink")），中國神話中的角色，生於人間和仙界之間，因出眾的戰鬥能力而被仙界軍招至麾下。
+      - [玉藻前](../Page/玉藻前.md "wikilink")（たまものまえ）（声：[小松由佳](../Page/小松由佳_\(声优\).md "wikilink")），日本神話中的三大[妖怪之一](../Page/妖怪.md "wikilink")，在妖蛇死后出現的妖艷美女，對人類抱懷著強烈恨意，以戰場上所散發出的怨念為糧食，與魔王遠呂智的心腹妲己是一起策劃事件的同謀。
+      - [九尾狐](../Page/九尾狐.md "wikilink")（声：[小松由佳](../Page/小松由佳_\(声优\).md "wikilink")）擁有人類容貌及狐狸耳朵與尾巴的妖魔，從腰部長出的九條尾巴可當成武器任意操作，成為戰場上的利器，經常讓尾巴幻化成人類的姿態，將敵人翻弄於鼓掌之間。
       - [渾沌](https://zh.wikipedia.org/wiki/渾沌 "wikilink")（声：[大場真人](../Page/大場真人.md "wikilink")）一名憧憬著沒有秩序的世界的妖魔，居住在與本作的舞臺“異世界”不同的世界中，以不可一世的態度消滅維持秩序的對手。
       - [徐庶](../Page/徐庶.md "wikilink")（声：[私市淳](../Page/私市淳.md "wikilink")），[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")
         帝王傳裡新登場的角色，是劉備的優秀軍師之一，在妖蛇出現后與馬超等人一起踏上征途。

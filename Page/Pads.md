@@ -27,7 +27,7 @@ Designer](https://zh.wikipedia.org/wiki/Altium_Designer "wikilink")，也即Prot
 
 ## 參見
 
-  - [Mentor Graphics](https://zh.wikipedia.org/wiki/明導國際 "wikilink")
+  - [Mentor Graphics](../Page/明導國際.md "wikilink")
   - [Cadence](../Page/Cadence.md "wikilink")
   - [OrCAD](../Page/OrCAD.md "wikilink")
   - [Altium

@@ -1,8 +1,8 @@
-《**Hazy**》是[日本女性](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")[sphere的第](../Page/sphere_\(聲優團體\).md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年5月11日由[GloryHeaven（Lantis）發行](../Page/Lantis.md "wikilink")。
+《**Hazy**》是[日本女性](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年5月11日由[GloryHeaven（Lantis）發行](../Page/Lantis.md "wikilink")。
 
 ## 簡介
 
-《Hazy》是聲優組合[sphere自從上一張單曲](../Page/sphere_\(聲優團體\).md "wikilink")《[MOON
+《Hazy》是聲優組合[sphere自從上一張單曲](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")《[MOON
 SIGNAL](../Page/MOON_SIGNAL.md "wikilink")》以來，相隔7個月發行的最新單曲，也是2011年單曲的第1彈。
 
 販售形式有初回限定盤、通常盤共兩種，[初回限定盤附有](../Page/限定版.md "wikilink")「Hazy」的[PV收錄的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
@@ -35,10 +35,10 @@ hotexpress所屬的平賀哲雄對這首歌曲以「在充滿溫和陽光下的�
 
 ## 收錄專輯
 
-| 曲名       | 專輯                                                       | 發行日期       | 備註                                                                                                        |
-| -------- | -------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------- |
-| Hazy     | 『**[Third Planet](../Page/Third_Planet.md "wikilink")**』 | 2012年7月11日 | [sphere的第](../Page/sphere_\(聲優團體\).md "wikilink")3張[獨立專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink") |
-| Neo Eden |                                                          |            |                                                                                                           |
+| 曲名       | 專輯                                                       | 發行日期       | 備註                                                                                                                           |
+| -------- | -------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Hazy     | 『**[Third Planet](../Page/Third_Planet.md "wikilink")**』 | 2012年7月11日 | [sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")3張[獨立專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink") |
+| Neo Eden |                                                          |            |                                                                                                                              |
 
 ## 腳註
 

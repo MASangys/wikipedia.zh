@@ -39,14 +39,15 @@ Skylit
 Drive的巡演](https://zh.wikipedia.org/wiki/A_Skylit_Drive "wikilink")《Average
 Guys with Exceptional Hair Tour》暖場，一同暖場的團還有[Scarlett
 O'Hara和](https://zh.wikipedia.org/wiki/Scarlett_O'Hara "wikilink")[Motionless
-in White](../Page/Motionless_in_White.md "wikilink")。MV《\[&\]
+in
+White](https://zh.wikipedia.org/wiki/Motionless_in_White "wikilink")。MV《\[&\]
 Delinquents》在十二月初發佈。\[14\]
 
 ### 許多成員的離去與"Vengeance"單曲."Genesi\[s\]"專輯 (2010–2013)
 
 2010年十二月末，吉他手Tim Sherrill離開W\[15\] 樂團請來亞特蘭大的地方樂手Jack
 Langdell暫時取代這個缺空。2010年三月，Geoffrey
-Higgins宣布成為正式成員。\[16\]樂團三月，透過[iTunes發表單曲](../Page/iTunes.md "wikilink")《Fame
+Higgins宣布成為正式成員。\[16\]樂團三月，透過[iTunes發表單曲](https://zh.wikipedia.org/wiki/iTunes "wikilink")《Fame
 \> Demise》
 。\[17\]這支單曲是吉他手Sherrill最後錄製的單曲。訪談裡，Carter說這首歌只會以單曲出現，不會收在樂團的第二張專輯。\[18\]
 其後該曲的未插電版也隨後發表。\[19\]

@@ -4,7 +4,7 @@ VOL.1**》是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md
 ## 簡介
 
   - 安室於本作發售後移籍[avex
-    trax繼續藝人活動](../Page/avex_trax.md "wikilink")，本作的製作班底都是來自avex的陣容。
+    trax繼續藝人活動](https://zh.wikipedia.org/wiki/avex_trax "wikilink")，本作的製作班底都是來自avex的陣容。
   - 以「安室奈美惠」個人單獨名義發售的專輯，收錄曲為Super Monkey's時期的樂曲。封底及歌詞本則載有Super
     Monkey's其他活動中的成員 (即現今[MAX
     (樂團)的成員](../Page/MAX_\(樂團\).md "wikilink")：澤詩奈奈子、天久美奈子、松田律子及宮內玲奈)的照片。

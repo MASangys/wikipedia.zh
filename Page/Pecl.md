@@ -1,7 +1,7 @@
 ## 序言
 
 PECL是一个[PHP扩展库](../Page/PHP.md "wikilink")，提供了一个PHP所有已知扩展的下载和托管目录。
-PECL通过[pear进行打包和安装](../Page/pear.md "wikilink")。
+PECL通过[pear进行打包和安装](https://zh.wikipedia.org/wiki/pear "wikilink")。
 
 ## 所有的Pecl安装包
 

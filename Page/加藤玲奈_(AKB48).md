@@ -55,7 +55,7 @@ A成員，暱稱為「Renacchi」（），[千葉縣出身](../Page/千葉縣.md
 
 **2017**
 
-  - 9月5日，與同為AKB48成員的[向井地美音在前AKB](https://zh.wikipedia.org/wiki/向井地美音 "wikilink")48成員[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋南於網路串流網站](../Page/高橋南.md "wikilink")[SHOWROOM主持的特別節目上](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")，宣布轉移所屬經紀公司至[Mama
+  - 9月5日，與同為AKB48成員的[向井地美音在前AKB](../Page/向井地美音.md "wikilink")48成員[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[高橋南於網路串流網站](../Page/高橋南.md "wikilink")[SHOWROOM主持的特別節目上](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")，宣布轉移所屬經紀公司至[Mama
     &
     Son](https://zh.wikipedia.org/wiki/Mama_&_Son "wikilink")，該公司亦與小嶋、高橋兩人有合作關係\[2\]\[3\]。
 
@@ -72,11 +72,10 @@ with
 加藤玲奈在AKB48劇場表演時的自我介紹招呼語是「唉呀？有看到在哪裡嗎？那裡？這裡？（Renacchi！！）我是暱稱Renacchi的加藤玲奈」（）。雖然官方暱稱為「Renacchi」，但因為加藤的姓名以日本人名的發音來說，屬於較簡短的四個音節，因此AKB48的成員也經常直接以「Katorena」（\[4\]）稱呼她。
 
 加藤無論是在公開還是私下場合，都經常提及加入AKB48是因為希望未來能成為一名服裝[模特兒](../Page/模特兒.md "wikilink")，並且曾在AKB48的冠名綜藝節目《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》所舉辦的成員日常私服比賽中，獲得評審高度好評。除此之外，加藤也對於戲劇表演抱持興趣，並獲得曾與她在Team
-B專屬綜藝節目《[週六夜兒童機器](https://zh.wikipedia.org/wiki/週六夜兒童機器 "wikilink")》（Saturday
-Night Child
-Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedia.org/wiki/福田雄一 "wikilink")，認為她雖然看似個性迷糊，但在表演方面卻頗有潛力。
+B專屬綜藝節目《[週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")》（Saturday Night Child
+Machine）合作過的導演、編劇家[福田雄一好評](../Page/福田雄一.md "wikilink")，認為她雖然看似個性迷糊，但在表演方面卻頗有潛力。
 
-以10期生身份加入AKB48的加藤玲奈，曾在電視節目《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》中提及她與13期生[北澤早紀是同一所小學與中學的同年級同學](https://zh.wikipedia.org/wiki/北澤早紀 "wikilink")，並且曾在小學1年級至4年級間同班。節目主持人[有吉弘行也打趣問到加藤與北澤身為演藝界的前輩與後輩](../Page/有吉弘行.md "wikilink")，在學校相見時是否會覺得尷尬等人際關係問題。
+以10期生身份加入AKB48的加藤玲奈，曾在電視節目《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》中提及她與13期生[北澤早紀是同一所小學與中學的同年級同學](../Page/北澤早紀.md "wikilink")，並且曾在小學1年級至4年級間同班。節目主持人[有吉弘行也打趣問到加藤與北澤身為演藝界的前輩與後輩](../Page/有吉弘行.md "wikilink")，在學校相見時是否會覺得尷尬等人際關係問題。
 
 ## 歌曲作品
 
@@ -210,7 +209,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <tr class="even">
 <td><p>29th</p></td>
 <td><p>2012年12月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永遠的壓力" title="wikilink">永遠的壓力</a></p></td>
+<td><p><a href="../Page/永遠的壓力.md" title="wikilink">永遠的壓力</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/比永遠更長久" title="wikilink">比永遠更長久</a></p></td>
 <td><p>OKL48</p></td>
 <td><p>Type-D</p></td>
@@ -220,7 +219,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <tr class="odd">
 <td><p>30th</p></td>
 <td><p>2013年2月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/So_long!" title="wikilink">So long!</a></p></td>
+<td><p><a href="../Page/So_long!.md" title="wikilink">So long!</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/So_long!#Waiting_room" title="wikilink">Waiting room</a></p></td>
 <td><p>Under Girls</p></td>
 <td><p>全版本</p></td>
@@ -240,7 +239,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <tr class="odd">
 <td><p>31st</p></td>
 <td><p>2013年5月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/再見自由式" title="wikilink">再見自由式</a></p></td>
+<td><p><a href="../Page/再見自由式.md" title="wikilink">再見自由式</a></p></td>
 <td><p>再見自由式</p></td>
 <td><p>A面曲</p></td>
 <td><p>全版本</p></td>
@@ -300,7 +299,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <tr class="odd">
 <td><p>35th</p></td>
 <td><p>2014年2月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勇往直前_(AKB48單曲)" title="wikilink">勇往直前</a></p></td>
+<td><p><a href="../Page/勇往直前_(AKB48單曲).md" title="wikilink">勇往直前</a></p></td>
 <td><p>比起昨天更喜歡你</p></td>
 <td><p>Smiling Lions</p></td>
 <td><p>全版本</p></td>
@@ -310,7 +309,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <tr class="even">
 <td><p>36th</p></td>
 <td><p>2014年5月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉布拉多獵犬_(AKB48單曲)" title="wikilink">拉布拉多獵犬</a></p></td>
+<td><p><a href="../Page/拉布拉多獵犬_(AKB48單曲).md" title="wikilink">拉布拉多獵犬</a></p></td>
 <td><p>拉布拉多獵犬</p></td>
 <td></td>
 <td><p>全版本</p></td>
@@ -340,7 +339,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <tr class="odd">
 <td><p>38th</p></td>
 <td><p>2014年11月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a></p></td>
+<td><p><a href="../Page/希望無限.md" title="wikilink">希望無限</a></p></td>
 <td><p>希望無限</p></td>
 <td></td>
 <td><p>Type-A</p></td>
@@ -360,7 +359,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <tr class="odd">
 <td><p>39th</p></td>
 <td><p>2015年3月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Green_Flash_(AKB48單曲)" title="wikilink">Green Flash</a></p></td>
+<td><p><a href="../Page/Green_Flash_(AKB48單曲).md" title="wikilink">Green Flash</a></p></td>
 <td><p>春光 靠近的夏日</p></td>
 <td></td>
 <td><p>Type-A</p></td>
@@ -678,26 +677,26 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 
 ### AKB48專輯CD
 
-|               | 發行日期                                                                                                                       | 專輯名稱                                                                      | 參與歌曲名稱           | 名義       | 收錄於             | 備註 |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------- | -------- | --------------- | -- |
-| 3rd           | 2011年6月8日                                                                                                                  | [就是在這裡](../Page/就是在這裡.md "wikilink")                                      | High school days | Team 研究生 | 全版本             |    |
-| 就是在這裡         | AKB48+[SKE48](../Page/SKE48.md "wikilink")+[SDN48](../Page/SDN48.md "wikilink")+[NMB48](../Page/NMB48.md "wikilink")\[10\] | 全版本                                                                       |                  |          |                 |    |
-| 4th           | 2012年8月15日                                                                                                                 | [1830m](../Page/1830m.md "wikilink")                                      | 直角Sunshine       | Team 4   | 全版本             |    |
-| 在曾經看見的海底      | Up-and-coming girls                                                                                                        | 全版本                                                                       |                  |          |                 |    |
-| 溫柔的地圖         |                                                                                                                            | 通常盤                                                                       |                  |          |                 |    |
-| 藍天 不會寂寞嗎？     | AKB48+SKE48+NMB48+[HKT48](../Page/HKT48.md "wikilink")                                                                     | 全版本                                                                       |                  |          |                 |    |
-| 5th           | 2014年1月22日                                                                                                                 | [未来轨迹](https://zh.wikipedia.org/wiki/未来轨迹 "wikilink")                     | 我 像一片叶子          |          | Type-B          |    |
-| 破烂蓝调          |                                                                                                                            | Type-B                                                                    |                  |          |                 |    |
-| 悲伤的近距离恋爱      | Team B                                                                                                                     | Type-B                                                                    |                  |          |                 |    |
-| 6th           | 2015年1月21日                                                                                                                 | [這裡是羅德斯島、在這裡跳吧！](https://zh.wikipedia.org/wiki/這裡是羅德斯島、在這裡跳吧！ "wikilink") | 這裡是羅德斯島、在這裡跳吧！   |          |                 |    |
-| 眼泪等一下再说       | Team 4                                                                                                                     |                                                                           |                  |          |                 |    |
-| 7th           | 2015年11月18日                                                                                                                | [0與1之間](../Page/0與1之間.md "wikilink")                                      | 爱乐成瘾             | Team B   | MILLION SINGLES |    |
-| 玫瑰念珠          |                                                                                                                            | COMPLETE SINGLES                                                          |                  |          |                 |    |
-| 8th           | 2017年1月25日                                                                                                                 | [點時成菁](https://zh.wikipedia.org/wiki/點時成菁 "wikilink")                     | 那天的自己            |          | 全版本             |    |
-| 生日TANGO       |                                                                                                                            | Type-A                                                                    |                  |          |                 |    |
-| 9th           | 2018年1月24日                                                                                                                 | [那個黎明，我們都知道](https://zh.wikipedia.org/wiki/那個黎明，我們都知道 "wikilink")         | 鞋帶的綁法            |          | Type-A/B        |    |
-| Kiss Campaign |                                                                                                                            | Type-B                                                                    |                  |          |                 |    |
-|               |                                                                                                                            |                                                                           |                  |          |                 |    |
+|               | 發行日期                                                                                                                       | 專輯名稱                                                              | 參與歌曲名稱           | 名義       | 收錄於             | 備註 |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- | -------- | --------------- | -- |
+| 3rd           | 2011年6月8日                                                                                                                  | [就是在這裡](../Page/就是在這裡.md "wikilink")                              | High school days | Team 研究生 | 全版本             |    |
+| 就是在這裡         | AKB48+[SKE48](../Page/SKE48.md "wikilink")+[SDN48](../Page/SDN48.md "wikilink")+[NMB48](../Page/NMB48.md "wikilink")\[10\] | 全版本                                                               |                  |          |                 |    |
+| 4th           | 2012年8月15日                                                                                                                 | [1830m](../Page/1830m.md "wikilink")                              | 直角Sunshine       | Team 4   | 全版本             |    |
+| 在曾經看見的海底      | Up-and-coming girls                                                                                                        | 全版本                                                               |                  |          |                 |    |
+| 溫柔的地圖         |                                                                                                                            | 通常盤                                                               |                  |          |                 |    |
+| 藍天 不會寂寞嗎？     | AKB48+SKE48+NMB48+[HKT48](../Page/HKT48.md "wikilink")                                                                     | 全版本                                                               |                  |          |                 |    |
+| 5th           | 2014年1月22日                                                                                                                 | [未来轨迹](https://zh.wikipedia.org/wiki/未来轨迹 "wikilink")             | 我 像一片叶子          |          | Type-B          |    |
+| 破烂蓝调          |                                                                                                                            | Type-B                                                            |                  |          |                 |    |
+| 悲伤的近距离恋爱      | Team B                                                                                                                     | Type-B                                                            |                  |          |                 |    |
+| 6th           | 2015年1月21日                                                                                                                 | [這裡是羅德斯島、在這裡跳吧！](../Page/這裡是羅德斯島、在這裡跳吧！.md "wikilink")            | 這裡是羅德斯島、在這裡跳吧！   |          |                 |    |
+| 眼泪等一下再说       | Team 4                                                                                                                     |                                                                   |                  |          |                 |    |
+| 7th           | 2015年11月18日                                                                                                                | [0與1之間](../Page/0與1之間.md "wikilink")                              | 爱乐成瘾             | Team B   | MILLION SINGLES |    |
+| 玫瑰念珠          |                                                                                                                            | COMPLETE SINGLES                                                  |                  |          |                 |    |
+| 8th           | 2017年1月25日                                                                                                                 | [點時成菁](https://zh.wikipedia.org/wiki/點時成菁 "wikilink")             | 那天的自己            |          | 全版本             |    |
+| 生日TANGO       |                                                                                                                            | Type-A                                                            |                  |          |                 |    |
+| 9th           | 2018年1月24日                                                                                                                 | [那個黎明，我們都知道](https://zh.wikipedia.org/wiki/那個黎明，我們都知道 "wikilink") | 鞋帶的綁法            |          | Type-A/B        |    |
+| Kiss Campaign |                                                                                                                            | Type-B                                                            |                  |          |                 |    |
+|               |                                                                                                                            |                                                                   |                  |          |                 |    |
 
 ### 音樂合作
 
@@ -733,7 +732,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 </tr>
 <tr class="odd">
 <td><p>2012年10月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/懦弱的化妝舞會" title="wikilink">懦弱的化妝舞會</a></p></td>
+<td><p><a href="../Page/懦弱的化妝舞會.md" title="wikilink">懦弱的化妝舞會</a></p></td>
 <td><p>懦弱的化妝舞會<br />
 （）</p></td>
 <td><p>指原莉乃 with 杏李玲</p></td>
@@ -862,7 +861,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/岩本輝雄" title="wikilink">岩本輝雄</a>「<a href="https://zh.wikipedia.org/wiki/青春尚未结束" title="wikilink">青春尚未结束</a>」</p></td>
+<td><p><a href="../Page/岩本輝雄.md" title="wikilink">岩本輝雄</a>「<a href="https://zh.wikipedia.org/wiki/青春尚未结束" title="wikilink">青春尚未结束</a>」</p></td>
 <td><p>傲娇女孩</p></td>
 <td></td>
 </tr>
@@ -939,13 +938,13 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
   - [AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")（，2012年10月22日
     -，不定期出演，[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）
 
-  - [AKB子兔道場](https://zh.wikipedia.org/wiki/AKB子兔道場 "wikilink")（2012年12月14日
-    - 2014年3月14日，不定期出演，東京電視台）
+  - [AKB子兔道場](../Page/AKB子兔道場.md "wikilink")（2012年12月14日 -
+    2014年3月14日，不定期出演，東京電視台）
 
   - （2014年5月29日 - 8月7日、8月21日，[富士電視台](../Page/富士電視台.md "wikilink")）
 
-  - [AKB大調查](https://zh.wikipedia.org/wiki/AKB大調查 "wikilink")（2014年12月4日
-    - 2015年3月26日，不定期出演，[富士電視台](../Page/富士電視台.md "wikilink")）
+  - [AKB大調查](../Page/AKB大調查.md "wikilink")（2014年12月4日 -
+    2015年3月26日，不定期出演，[富士電視台](../Page/富士電視台.md "wikilink")）
 
 ## 廣播節目
 
@@ -954,7 +953,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
   - 「柱NIGHT\! with
     AKB48」單元（2012年5月21日，[bayfm](https://zh.wikipedia.org/wiki/bayfm "wikilink")）：以留言錄音的方式參與廣播演出。
 
-  - [AKB48的「我們的故事」](https://zh.wikipedia.org/wiki/AKB48的「我們的故事」 "wikilink")（，[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM "wikilink")）：AKB48在NHK-FM電台的常態性[廣播劇節目](../Page/廣播劇.md "wikilink")。加藤曾參與過第38集「Blue
+  - [AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")（，[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM "wikilink")）：AKB48在NHK-FM電台的常態性[廣播劇節目](../Page/廣播劇.md "wikilink")。加藤曾參與過第38集「Blue
     Blue Blue」（，2012年8月3日播出）與第40集「不會游泳的企鵝」（）的廣播演出。
 
   - [AKB廣播劇劇場](../Page/AKB廣播劇劇場.md "wikilink")（，[日本放送](../Page/日本放送.md "wikilink")）：AKB48在[日本全國廣播網](https://zh.wikipedia.org/wiki/日本全國廣播網 "wikilink")（NRN）的常態性廣播劇節目。加藤自2012年10月底開始，就不定期地多次參與過節目播出。
@@ -992,7 +991,7 @@ Machine）合作過的導演、編劇家[福田雄一好評](https://zh.wikipedi
 <td><p>2012年3月19日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NTT_Docomo.md" title="wikilink">NTT docomo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_Docomo" title="wikilink">NTT docomo</a></p></td>
 <td><p>「各種各樣的、第一次」篇<br />
 （篇）</p></td>
 <td><p>2012年3月30日</p></td>

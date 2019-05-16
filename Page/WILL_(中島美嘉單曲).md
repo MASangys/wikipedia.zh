@@ -2,8 +2,7 @@
 
 ## 概述
 
-  - 與前作「[Helpless
-    Rain](https://zh.wikipedia.org/wiki/Helpless_Rain "wikilink")」相隔約3個月的新作。
+  - 與前作「[Helpless Rain](../Page/Helpless_Rain.md "wikilink")」相隔約3個月的新作。
   - 出道專輯「**[TRUE
     唯美生存](../Page/TRUE_唯美生存.md "wikilink")**」的先行單曲，專輯內收錄的是album
     version。

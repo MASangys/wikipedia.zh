@@ -15,7 +15,7 @@ MHz) | lifespan = | unitssold = | media = | os = [iOS
 cameras = **Front:**, VGA-quality still camera
 **Back:** Video recording, Full HD（1080p）, HD still camera with 5x
 digital zoom | power =
-内置不可拆卸的可充电[鋰離子聚合物電池](https://zh.wikipedia.org/wiki/鋰離子聚合物電池 "wikilink")
+内置不可拆卸的可充电[鋰離子聚合物電池](../Page/鋰離子聚合物電池.md "wikilink")
 | cpu = 双核[A5X](../Page/Apple_A5X.md "wikilink") | graphics = | storage
 =
 16 GB、32 GB或64 GB版本（不能使用[記憶卡](../Page/記憶卡.md "wikilink")） | memory = 1GB
@@ -25,15 +25,15 @@ DDR2 RAM | display = 9.7吋 Retina
 [iTunes
 Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[App
 Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")、[MobileMe](../Page/MobileMe.md "wikilink")、[iBookstore](https://zh.wikipedia.org/wiki/iBooks "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Game
-Center](https://zh.wikipedia.org/wiki/Game_Center "wikilink")、[Photo
+Center](../Page/Game_Center.md "wikilink")、[Photo
 Booth](../Page/Photo_Booth.md "wikilink")\* | dimensions = | weight =
 652g (WIFI)/ 662g (WIFI+4G) | predecessor = [iPad
 (第二代)](https://zh.wikipedia.org/wiki/iPad_\(第二代\) "wikilink") |
 successor = [iPad
 (第四代)](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")
-| related = [IOS設備清單](../Page/iOS设备列表.md "wikilink") }}
-**第三代iPad**或**iPad
-3**，是指[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年3月7日發表的**新iPad**（銷售期間的官方正式名稱）\[1\]，是繼[第一代iPad和](../Page/iPad_\(第一代\).md "wikilink")[第二代iPad之後的](https://zh.wikipedia.org/wiki/iPad_\(第二代\) "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。此机型配备[Retina显示屏](../Page/Retina显示屏.md "wikilink")，能提供比前两代iPad更清晰、比擬高清電視的圖文解像度。在網絡連接方式上，能選擇可由指定網絡供應商供應[4G
+| related = [IOS設備清單](https://zh.wikipedia.org/wiki/iOS设备列表 "wikilink")
+}}   **第三代iPad**或**iPad
+3**，是指[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年3月7日發表的**新iPad**（銷售期間的官方正式名稱）\[1\]，是繼[第一代iPad和](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink")[第二代iPad之後的](https://zh.wikipedia.org/wiki/iPad_\(第二代\) "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。此机型配备[Retina显示屏](../Page/Retina显示屏.md "wikilink")，能提供比前两代iPad更清晰、比擬高清電視的圖文解像度。在網絡連接方式上，能選擇可由指定網絡供應商供應[4G
 LTE網絡連接上互聯網](https://zh.wikipedia.org/wiki/4G_LTE "wikilink")（Wi-Fi+Cellular）的机型，或僅由Wi-Fi上網的机型。
 
 2012年3月16日起，此iPad机型在[香港](../Page/香港.md "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[日本](../Page/日本.md "wikilink")、[澳洲等地發售](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。同年3月23日起，在[意大利等](../Page/意大利.md "wikilink")25個國家發售，7月20日起在[中国大陆发售](../Page/中国大陆.md "wikilink")。
@@ -56,19 +56,21 @@ world），在這個世界中，個人電腦已不再是個人數码生活的中
 
 [Ipad3_retina.jpg](https://zh.wikipedia.org/wiki/File:Ipad3_retina.jpg "fig:Ipad3_retina.jpg")
 第三代iPad的[Retina顯示屏的像素是](https://zh.wikipedia.org/wiki/Retina顯示屏 "wikilink")[iPad
-2的](../Page/iPad_2.md "wikilink")4倍多，比高清電視（1080p）還要高一百萬像素。第三代iPad使用了全新的[A5X](../Page/Apple_A5X.md "wikilink")[系統單晶片處理器](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")。摄像头方面，则配备了500萬像素自動對焦的iSight相机。它也可以拍攝HD（1080p）的影片，并配备了数字防抖动功能。前置相机可拍攝VGA级别的照片和最高每秒30格的有聲短片。第三代iPad的网络连接方式则只有Wi-Fi或由网络供應商供應4G
-LTE/3G網絡。当iPad使用[iOS 6作業系統时会配备Siri智能助理](../Page/iOS.md "wikilink")。
+2的](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")4倍多，比高清電視（1080p）還要高一百萬像素。第三代iPad使用了全新的[A5X](../Page/Apple_A5X.md "wikilink")[系統單晶片處理器](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")。摄像头方面，则配备了500萬像素自動對焦的iSight相机。它也可以拍攝HD（1080p）的影片，并配备了数字防抖动功能。前置相机可拍攝VGA级别的照片和最高每秒30格的有聲短片。第三代iPad的网络连接方式则只有Wi-Fi或由网络供應商供應4G
+LTE/3G網絡。当iPad使用[iOS
+6作業系統时会配备Siri智能助理](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 在iOS
-10发布前，第三代iPad支持全套iLife，包括[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")、[iMovie](../Page/iMovie.md "wikilink")、[iPhoto以及iWork](../Page/iPhoto.md "wikilink")，包括[Pages](../Page/Pages.md "wikilink")、[keynote和](../Page/keynote.md "wikilink")[Numbers](../Page/Numbers.md "wikilink")。這些應用程序不是內置的，但可以在[App
+10发布前，第三代iPad支持全套iLife，包括[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")、[iMovie](https://zh.wikipedia.org/wiki/iMovie "wikilink")、[iPhoto以及iWork](https://zh.wikipedia.org/wiki/iPhoto "wikilink")，包括[Pages](../Page/Pages.md "wikilink")、[keynote和](https://zh.wikipedia.org/wiki/keynote "wikilink")[Numbers](../Page/Numbers.md "wikilink")。這些應用程序不是內置的，但可以在[App
 Store購買](https://zh.wikipedia.org/wiki/App_Store "wikilink")。第三代iPad也加入了个人熱點功能来共享該部iPad的網絡到藍牙，[USB或Wi](../Page/USB.md "wikilink")-Fi。
 
-早在2011年3月就已與[iPad 2一起推出的](../Page/iPad_2.md "wikilink")[Smart
+早在2011年3月就已與[iPad
+2一起推出的](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")[Smart
 Cover仍可用于第三代iPad](https://zh.wikipedia.org/wiki/Smart_Cover "wikilink")。2013年6月，苹果又发布了“Smart
 Case”，他们都可以令iPad更方便地放在桌面使用。保护套可將iPad喚醒，也可折叠成支架，將 iPad
 直立起來。它们还可以將iPad放成適合打字的角度。这两种保护套備有多種不同的顏色，並可選擇由[聚氨酯或](../Page/聚氨酯.md "wikilink")[皮革製造](../Page/皮革.md "wikilink")。
 
-第三代iPad配備多個內置應用程式，包括[Safari](../Page/Safari.md "wikilink")、Mail、圖片、視訊、[YouTube](../Page/YouTube.md "wikilink")、[iPod](../Page/iPod.md "wikilink")、[iTunes](../Page/iTunes.md "wikilink")、[App
+第三代iPad配備多個內置應用程式，包括[Safari](../Page/Safari.md "wikilink")、Mail、圖片、視訊、[YouTube](../Page/YouTube.md "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[App
 Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")、iBook、地圖、備忘錄、日曆、Game
 Center、Photo
 Booth、聯絡資訊，时钟。与所有iOS設備一样，第三代iPad與Mac或PC同步时使用iTunes，亦可以脱离电脑独立激活和工作。
@@ -79,7 +81,7 @@ Booth、聯絡資訊，时钟。与所有iOS設備一样，第三代iPad與Mac�
 <thead>
 <tr class="header">
 <th><p>型号</p></th>
-<th><p><a href="../Page/iPad_2.md" title="wikilink">iPad 2</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad 2</a></p></th>
 <th><p>iPad（第三代）</p></th>
 </tr>
 </thead>
@@ -199,9 +201,9 @@ Booth、聯絡資訊，时钟。与所有iOS設備一样，第三代iPad與Mac�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/操作系统.md" title="wikilink">操作系统</a></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 4.3<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 4.3<br />
 可升級至<a href="https://zh.wikipedia.org/wiki/iOS_9.3.5" title="wikilink">iOS 9.3.5</a></p></td>
-<td><p><a href="../Page/iOS_5.md" title="wikilink">iOS 5</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_5" title="wikilink">iOS 5</a><br />
 可升級至<a href="https://zh.wikipedia.org/wiki/iOS_9.3.5" title="wikilink">iOS 9.3.5</a></p></td>
 </tr>
 <tr class="odd">
@@ -215,7 +217,7 @@ Booth、聯絡資訊，时钟。与所有iOS設備一样，第三代iPad與Mac�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>colspan=2 rowspan=3 |内置不可拆卸的可充电<a href="https://zh.wikipedia.org/wiki/鋰離子聚合物電池" title="wikilink">鋰離子聚合物電池</a></p></td>
+<td><p>colspan=2 rowspan=3 |内置不可拆卸的可充电<a href="../Page/鋰離子聚合物電池.md" title="wikilink">鋰離子聚合物電池</a></p></td>
 <td><p>（25 W·h (90 kJ)）</p></td>
 <td><p>42.5Whr</p></td>
 </tr>
@@ -270,7 +272,7 @@ Booth、聯絡資訊，时钟。与所有iOS設備一样，第三代iPad與Mac�
 </tr>
 <tr class="odd">
 <td><p>机械按键</p></td>
-<td><p>Home键、锁定键、音量调节键和侧边自定义开关（在<a href="../Page/iOS.md" title="wikilink">iOS</a>4.3後可自定义为锁定屏幕转动或实现静音）</p></td>
+<td><p>Home键、锁定键、音量调节键和侧边自定义开关（在<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>4.3後可自定义为锁定屏幕转动或实现静音）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -286,7 +288,7 @@ Booth、聯絡資訊，时钟。与所有iOS設備一样，第三代iPad與Mac�
 <tr class="odd">
 <td><p>后置</p></td>
 <td><p>960 x 720 <a href="../Page/分辨率.md" title="wikilink">-{zh-cn:分辨率;zh-hk:解像度;zh-tw:解析度;}-照片</a>；自動對焦（5倍数位变焦）；HDR 照片</p></td>
-<td><p><a href="../Page/iSight.md" title="wikilink">iSight</a>-{zh-cn:摄像头;zh-hk:鏡頭;zh-tw:攝錄鏡頭;}-：</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight</a>-{zh-cn:摄像头;zh-hk:鏡頭;zh-tw:攝錄鏡頭;}-：</p>
 <dl>
 <dt></dt>
 <dd>500萬像素照片、自動對焦、-{zh-cn:面部检测;zh-hk:面孔識別功能;zh-tw:臉孔偵測功能;}-、-{zh-cn:背照式感光;zh-hk:背置式光線感應;zh-tw:背照式技術;}-、
@@ -419,7 +421,7 @@ Store外排隊等待購買第三代iPad](../Page/Apple_Store.md "wikilink")。\]
 Stevens）認為「如果你對於蘋果在新iPad上推出的改變不夠多而到失望，那可能是因為你還沒親眼看過新的Retina顯示器」。\[16\]
 
 [All Things
-Digital的](https://zh.wikipedia.org/wiki/All_Things_Digital "wikilink")[華特·莫思柏](https://zh.wikipedia.org/wiki/華特·莫思柏 "wikilink")（Walt
+Digital的](../Page/All_Things_Digital.md "wikilink")[華特·莫思柏](https://zh.wikipedia.org/wiki/華特·莫思柏 "wikilink")（Walt
 Mossberg）表示第三代的iPad「有著目前為止我在行動裝置上看過最令人震撼的螢幕」、「從2010年首次推出以來，iPad就是地球上最棒的平板電腦。而這部全新、第三代的款式，iPad依然穩坐王位」。\[17\]
 
 雖然第三代iPad在推出時獲得了普遍正面的評價，但海外市場的消費者卻很快地發現，新款iPad在支援Verizon和AT\&T（700MHz、1.7GHz）以外的LTE頻率上出現問題。除了美國以外，其他國家都是使用800MHz、1.8GHz和2.6GHz的頻率，新款iPad將無法連接上美國以外的LTE網路。\[18\]\[19\]
@@ -440,7 +442,7 @@ iOS 5 至 iOS 9.3.5
 
 ## 参见
 
-  - [iPad 2](../Page/iPad_2.md "wikilink")
+  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
   - [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
 
 ## 外部連結

@@ -14,7 +14,7 @@ Busters**》（原題：）是日本[東映公司在](../Page/東映.md "wikilin
 ## 特色
 
   - 本作是東映首支採用《[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")》作為主題的戰隊。
-  - 本作的最初編組成員和1988年的《[超獸戰隊生命人](../Page/超獸戰隊生命人.md "wikilink")》、2002年的《[忍風戰隊破裏劍者](https://zh.wikipedia.org/wiki/忍風戰隊破裏劍者 "wikilink")》、2003年的《[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")》及2007年的《[獸拳戰隊激氣連者](../Page/獸拳戰隊激氣連者.md "wikilink")》一樣採用二男一女組合。
+  - 本作的最初編組成員和1988年的《[超獸戰隊生命人](../Page/超獸戰隊生命人.md "wikilink")》、2002年的《[忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")》、2003年的《[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")》及2007年的《[獸拳戰隊激氣連者](../Page/獸拳戰隊激氣連者.md "wikilink")》一樣採用二男一女組合。
   - 本作最大的特色是取消了使用每集同樣固定鏡頭的**變身特寫**和**依序唱名**這兩種近代戰隊特有的必備畫面，改用每回不固定模式，且不强求全員到齊\[4\]。本作與前作《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》做出了區分，也就是與過去的戰隊系列風格完全不同，同時取消了“怪人被打爆並巨大化”的設定（第32話除外），在新世紀以來相當少見\[5\]，使等身戰與巨大戰同時進行\[6\]。
   - 本作是繼《[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")》後，第二次出現非實際獲得力量的戰士。
   - 本作自《[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")》以來連續七次出現女性黃色戰士成員。
@@ -138,8 +138,8 @@ Busters的得力夥伴。
 <td><p>岩崎龍司</p></td>
 <td><p>Blue Buster</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/竹內康博" title="wikilink"><font color="white">竹內康博</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王辰驊" title="wikilink"><font color="white">王辰驊</font></a>（本篇）<br />
-<a href="https://zh.wikipedia.org/wiki/宋昱璁" title="wikilink"><font color="White">宋昱璁</font></a>（VS豪快者）<br />
+<td><p><a href="../Page/王辰驊.md" title="wikilink"><font color="white">王辰驊</font></a>（本篇）<br />
+<a href="../Page/宋昱璁.md" title="wikilink"><font color="White">宋昱璁</font></a>（VS豪快者）<br />
 <a href="../Page/于正昌.md" title="wikilink"><font color="White">于正昌</font></a>（VS強龍者）<br />
 <a href="../Page/陳彥鈞.md" title="wikilink"><font color="White">陳彥鈞</font></a>（超級英雄大戰、超級英雄大戰Z）</p></td>
 <td><p><a href="../Page/梁偉德.md" title="wikilink"><font color="white">梁偉德</font></a></p></td>
@@ -152,7 +152,7 @@ Busters的得力夥伴。
 <p>在弘加入後則經常調解弘和陽子之間的爭執。</p>
 <p>其後當陣雅人出現其間不斷給予教導，並推薦技術書（但是要自己付款）。</p>
 <p>於Final Mission於能源管理局擔任的工程師。</p>
-<p>馬場良馬後參演2015年第39作「<a href="https://zh.wikipedia.org/wiki/手裏劍戰隊忍忍者" title="wikilink">手裏劍戰隊忍忍者</a>」第30話飾演<strong>伊勢喜六</strong>。</p></td>
+<p>馬場良馬後參演2015年第39作「<a href="../Page/手裏劍戰隊忍忍者.md" title="wikilink">手裏劍戰隊忍忍者</a>」第30話飾演<strong>伊勢喜六</strong>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -191,8 +191,8 @@ Busters的得力夥伴。
 <a href="https://zh.wikipedia.org/wiki/内川仁朗" title="wikilink"><font color="black">内川仁朗</font></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/薛晴" title="wikilink"><font color="black">薛晴</font></a>（本篇）<br />
 <a href="../Page/傅其慧.md" title="wikilink"><font color="black">傅其慧</font></a>（VS豪快者、VS強龍者）<br />
-<a href="https://zh.wikipedia.org/wiki/連思宇" title="wikilink"><font color="black">連思宇</font></a>（超級英雄大戰、超級英雄大戰Z）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何寶珊" title="wikilink"><font color="black">何寶珊</font></a></p></td>
+<a href="../Page/連思宇.md" title="wikilink"><font color="black">連思宇</font></a>（超級英雄大戰、超級英雄大戰Z）</p></td>
+<td><p><a href="../Page/何寶珊.md" title="wikilink"><font color="black">何寶珊</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>第一人稱為「<strong>私</strong>」。在特命部的ID為<strong>777・117・464</strong>。</p>
@@ -242,7 +242,7 @@ Busters的得力夥伴。
 <td><p><a href="https://zh.wikipedia.org/wiki/清家利一" title="wikilink"><font color="black">清家利一</font></a></p></td>
 <td><p><a href="../Page/李勇_(配音員).md" title="wikilink"><font color="black">李勇</font></a>（本篇）<br />
 <a href="https://zh.wikipedia.org/wiki/孟慶府" title="wikilink"><font color="black">孟慶府</font></a>（VS豪快者、VS強龍者）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾見麟" title="wikilink"><font color="black">鍾見麟</font></a></p></td>
+<td><p><a href="../Page/鍾見麟.md" title="wikilink"><font color="black">鍾見麟</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>第一人稱為「<strong>俺</strong>」。在特命部的ID為<strong>198・662・125</strong>[13]。</p>
@@ -256,7 +256,7 @@ Busters的得力夥伴。
 <p>在13年前的傳輸研究中心事件因為還在工作而無法確定其他人是否還生存，但實際上一直都與他們聯絡著。</p>
 <p>在Final Mission因幫Red Buster取出Messiah Card13而無法承受巨大的數據資料導致肉體消失，打敗Enter後分身消失，之後以數據形態提醒Go Busters立即離開亞空間。</p>
 <p>變身而成的Beet Buster配色偏向金黃色而不是純金色，部分Buster Suit零件來自於彼得·J·阿角，所以，當彼得·J·阿角不在身邊就無法變身[15]。</p>
-<p>在劇場版《<a href="https://zh.wikipedia.org/wiki/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊" title="wikilink">獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊</a>》，在彼得的體內殘留的程序再度以數據製成的分身（Avatar）短時間復活一次，在擊退敵人和傳送Go Busters獸電池後消失。</p>
+<p>在劇場版《<a href="../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md" title="wikilink">獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊</a>》，在彼得的體內殘留的程序再度以數據製成的分身（Avatar）短時間復活一次，在擊退敵人和傳送Go Busters獸電池後消失。</p>
 <p>其他登場作品：動物戰隊獸王者 超級動物大戰。</p>
 <p>松本寬也曾飾演2005年第29支<a href="../Page/魔法戰隊魔法連者.md" title="wikilink">魔法戰隊魔法連者的</a><strong>魔法黃-小津翼</strong>[16]及於2017年第41支<a href="https://zh.wikipedia.org/wiki/宇宙戰隊九連者" title="wikilink">宇宙戰隊九連者以友情客串的方式飾演</a><strong>Hoshi★Minato</strong>。</p></td>
 <td></td>
@@ -349,7 +349,7 @@ Busters的得力夥伴。
 <td><p>Pink Buster</p></td>
 <td><p><a href="../Page/無.md" title="wikilink"><font color="black">無</font></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/薛晴" title="wikilink"><font color="black">薛晴</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何寶珊" title="wikilink"><font color="black">何寶珊</font></a></p></td>
+<td><p><a href="../Page/何寶珊.md" title="wikilink"><font color="black">何寶珊</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>第一人稱為「<strong>私</strong>」。</p>
@@ -393,7 +393,7 @@ Busters的得力夥伴。
 <!-- end list -->
 
   - **森下徹／**（[高橋直人](https://zh.wikipedia.org/wiki/高橋直人 "wikilink")
-    飾／台：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（本篇）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（VS豪快者）／港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")）
+    飾／台：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（本篇）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（VS豪快者）／港：[黃積權](../Page/黃積權.md "wikilink")）
 
 <!-- end list -->
 
@@ -521,7 +521,7 @@ Busters的得力夥伴。
     在Mission 49中利用Red Buster的複製資料變身成邪惡的Dark Buster。
     在Final Mission中被Go Busters使用**Volcanic All Busters Attack**合力徹底刪除。
     在劇場版《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！
-    再見永遠的朋友啊](https://zh.wikipedia.org/wiki/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊 "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](https://zh.wikipedia.org/wiki/獸電戰隊強龍者 "wikilink")**打倒消失。
+    再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**打倒消失。
 
 <!-- end list -->
 
@@ -567,7 +567,7 @@ Busters的得力夥伴。
     在Mission 48中再次被Enter製造，并拥有与动物融合的能力，但不能融合人类。被Go
     Busters击中后巨大化再被击中，最后消失。
     在劇場版《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！
-    再見永遠的朋友啊](https://zh.wikipedia.org/wiki/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊 "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](https://zh.wikipedia.org/wiki/獸電戰隊強龍者 "wikilink")**打倒消失。
+    再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》，在地球內殘留的程序再度以數據製成的分身（Avatar）復活一次，要將恐龍超級戰隊殲滅，但最後被**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**打倒消失。
 
 <!-- end list -->
 
@@ -1073,7 +1073,7 @@ Busters的得力夥伴。
         **素體ω(Omega)**
         最終毀滅型Megazords。
         於電影[特命戰隊Go Busters VS 海賊戰隊豪快者 THE
-        MOVIE中出現的Megazords](https://zh.wikipedia.org/wiki/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE "wikilink")，在本篇則在Mission
+        MOVIE中出現的Megazords](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")，在本篇則在Mission
         49出現。
         駕駛員為Enter。
         內置武裝為大量的火神砲、大量的光束砲、雙手臂4連自動3000毫米發射器、肩部三連光束砲與胸口的主砲「Vaglar
@@ -1335,7 +1335,7 @@ Busters的得力夥伴。
 <td><p><a href="https://zh.wikipedia.org/wiki/岡元次郎" title="wikilink"><font color="white">岡元次郎</font></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鈕凱暘" title="wikilink"><font color="white">鈕凱暘</font></a>(本篇)<br />
 <a href="../Page/陳彥鈞.md" title="wikilink"><font color="white">陳彥鈞</font></a>(VS豪快者)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧港文" title="wikilink"><font color="white">鄧港文</font></a></p></td>
+<td><p><a href="../Page/鄧港文.md" title="wikilink"><font color="white">鄧港文</font></a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1361,7 +1361,7 @@ Busters的得力夥伴。
 <tr class="odd">
 <td><p>獵兔‧生菜（港譯）／兔田‧萵苣（台譯）／Usada Lettuce／</p></td>
 <td><p><a href="../Page/鈴木達央.md" title="wikilink"><font color="black">鈴木達央</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王辰驊" title="wikilink"><font color="black">王辰驊</font></a>(本篇)<br />
+<td><p><a href="../Page/王辰驊.md" title="wikilink"><font color="black">王辰驊</font></a>(本篇)<br />
 <a href="../Page/梁興昌.md" title="wikilink"><font color="black">梁興昌</font></a>(VS豪快者)<br />
 <a href="../Page/陳彥鈞.md" title="wikilink"><font color="black">陳彥鈞</font></a>（超級英雄大戰、超級英雄大戰Z）</p></td>
 <td><p><a href="../Page/胡家豪.md" title="wikilink"><font color="black">胡家豪</font></a></p></td>
@@ -2018,7 +2018,7 @@ Busters的得力夥伴。
 **Meta Virus／米達病毒（港譯）**
 
   -
-    儲存在Enter手持的卡片裡的電腦病毒，與Escape比較不同是直接儲存類似[IPad裝置裡面](https://zh.wikipedia.org/wiki/IPad "wikilink")。
+    儲存在Enter手持的卡片裡的電腦病毒，與Escape比較不同是直接儲存類似[IPad裝置裡面](../Page/IPad.md "wikilink")。
     基於其行為而命名為“燃燒”，“噬咬”等名稱。
     只要把這注入到無機物上，便能令其變成Metaloids。
 
@@ -2234,7 +2234,7 @@ Busters的得力夥伴。
 <td><p>狙われたウィークポイント</p></td>
 <td><p>被盯上的弱點</p></td>
 <td><ul>
-<li>【 米達電風扇】（<a href="https://zh.wikipedia.org/wiki/陶山章央" title="wikilink">陶山章央</a>／<a href="../Page/李凱傑.md" title="wikilink">李凱傑</a>）
+<li>【 米達電風扇】（<a href="../Page/陶山章央.md" title="wikilink">陶山章央</a>／<a href="../Page/李凱傑.md" title="wikilink">李凱傑</a>）
 <ul>
 <li>ファンゾード</li>
 </ul></li>
@@ -2392,7 +2392,7 @@ Busters的得力夥伴。
 <td><p>5体結集！グレートゴーバスター</p></td>
 <td><p>5體集結！Great Go Buster</p></td>
 <td><ul>
-<li>【米達電影放映機】（<a href="../Page/鈴村健一.md" title="wikilink">鈴村健一</a>／<a href="https://zh.wikipedia.org/wiki/李震權" title="wikilink">李震權</a>）
+<li>【米達電影放映機】（<a href="../Page/鈴村健一.md" title="wikilink">鈴村健一</a>／<a href="../Page/李震權.md" title="wikilink">李震權</a>）
 <ul>
 <li>フィルムゾード</li>
 </ul></li>
@@ -2937,7 +2937,7 @@ Busters的得力夥伴。
 <td><p>東京エネタワーを守れ!</p></td>
 <td><p><a href="../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md" title="wikilink">特命戰隊Go Busters THE MOVIE 保護東京Enetower!</a>！</p></td>
 <td><ul>
-<li>【米達工廠】（<a href="https://zh.wikipedia.org/wiki/楠大典" title="wikilink">楠大典</a>）
+<li>【米達工廠】（<a href="../Page/楠大典.md" title="wikilink">楠大典</a>）
 <ul>
 <li>メガゾードɑ</li>
 <li>メガゾードβ</li>
@@ -3155,7 +3155,7 @@ Busters的得力夥伴。
 <!-- end list -->
 
   - **《[特命戰隊Go Busters VS 海賊戰隊豪快者 THE
-    MOVIE](https://zh.wikipedia.org/wiki/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE "wikilink")》**
+    MOVIE](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")》**
 
 <!-- end list -->
 
@@ -3175,7 +3175,7 @@ Busters的得力夥伴。
 <!-- end list -->
 
   - **《[獸電戰隊強龍者 VS Go Busters 恐龍大決戰！
-    再見永遠的朋友啊](https://zh.wikipedia.org/wiki/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊 "wikilink")》**
+    再見永遠的朋友啊](../Page/獸電戰隊強龍者_VS_Go_Busters_恐龍大決戰！_再見永遠的朋友啊.md "wikilink")》**
 
 <!-- end list -->
 
@@ -3222,11 +3222,11 @@ Busters的得力夥伴。
 13. 但這ID應該是能源管理局時期的。
 14. 性格輕率這一點跟同樣是由小林靖子擔任劇本的[假面騎士電王的櫻井侑斗相似](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")。
 15. 因此Mission 16在他獨自變身的那段，彼得·J·阿角應該在其附近。
-16. 該角色在超級戰隊系列30週年紀念劇場版「[轟轟戰隊冒險者VS超級戰隊](../Page/轟轟戰隊冒險者VS超級戰隊.md "wikilink")」、2015年第39支[手裏劍戰隊忍忍者的第](https://zh.wikipedia.org/wiki/手裏劍戰隊忍忍者 "wikilink")38集出場，及於2018年客串「[英雄媽媽★聯盟](https://zh.wikipedia.org/wiki/英雄媽媽★聯盟 "wikilink")」。
+16. 該角色在超級戰隊系列30週年紀念劇場版「[轟轟戰隊冒險者VS超級戰隊](../Page/轟轟戰隊冒險者VS超級戰隊.md "wikilink")」、2015年第39支[手裏劍戰隊忍忍者的第](../Page/手裏劍戰隊忍忍者.md "wikilink")38集出場，及於2018年客串「[英雄媽媽★聯盟](https://zh.wikipedia.org/wiki/英雄媽媽★聯盟 "wikilink")」。
 17. 該名稱於Mission 30出現。
 18. 駕駛員有Red Buster、Beet Buster（Mission 38、43）、Blue Buster（Mission
     48）和豪快紅（[特命戰隊Go Busters VS 海賊戰隊豪快者 THE
-    MOVIE](https://zh.wikipedia.org/wiki/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE "wikilink")）
+    MOVIE](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")）
 19. 在Mission 45時
 20. 任務
 21. 12月30日停播一次。

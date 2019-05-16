@@ -11,7 +11,7 @@ X也後續延伸出One X+、One XL、One XL+、One XC、One XT等不同的版本
 
 而**HTC One X**的頭號對手是[Galaxy S
 III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
-[iPhone 4S](../Page/iPhone_4S.md "wikilink")。
+[iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")。
 
 ## 詳細規格
 
@@ -752,8 +752,7 @@ III](https://zh.wikipedia.org/wiki/Galaxy_S_III "wikilink")、[Apple](https://zh
     XC](https://web.archive.org/web/20121018141803/http://www.htc.com/cn/smartphones/htc-one-xc/)
   - [HTC One
     XT](https://web.archive.org/web/20120520035417/http://www.htc.com/cn/smartphones/htc-one-xt/)
-  - [HTC One
-    (M7)](https://zh.wikipedia.org/wiki/HTC_One_\(M7\) "wikilink"):
+  - [HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink"):
     2013年2月19日於美國紐約、英國倫敦兩地同步發表。
   - [HTC One
     (M8)](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")

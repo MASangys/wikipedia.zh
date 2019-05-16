@@ -151,7 +151,7 @@ Cherry](../Page/Black_Cherry_\(倖田來未專輯\).md "wikilink")》（4週）�
 </tr>
 <tr class="odd">
 <td><p>4月30日</p></td>
-<td><p><a href="../Page/cartoon_KAT-TUN_II_You.md" title="wikilink">cartoon KAT-TUN II You</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/cartoon_KAT-TUN_II_You" title="wikilink">cartoon KAT-TUN II You</a></p></td>
 <td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
 <td><p>原創</p></td>
 <td><p>27.0</p></td>
@@ -383,7 +383,7 @@ Cherry](../Page/Black_Cherry_\(倖田來未專輯\).md "wikilink")》（4週）�
 </tr>
 <tr class="even">
 <td><p>11月19日</p></td>
-<td><p><a href="../Page/pacific.md" title="wikilink">pacific</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/pacific" title="wikilink">pacific</a></p></td>
 <td><p><a href="../Page/NEWS.md" title="wikilink">NEWS</a></p></td>
 <td><p>原創</p></td>
 <td><p>19.5</p></td>

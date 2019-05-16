@@ -42,7 +42,7 @@ PC\[1\]。
 <!-- end list -->
 
   - 版本 1.5，2010年6月28日发布，新增支持索尼爱立信的一些新设备：[Xperia™ X10 mini
-    ("E10i")](../Page/Sony_Ericsson_Xperia_X10_Mini.md "wikilink")、Xperia™
+    ("E10i")](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_X10_Mini "wikilink")、Xperia™
     X10 mini Pro("U20i")以及Zylo\[2\]。
 
 <!-- end list -->
@@ -55,7 +55,7 @@ PC\[1\]。
       - 新增支持索尼爱立信的新设备：Xperia™ X8、Xperia™ X10、Xperia™ (SO-01B)、Xperia™
         X10 mini和Xperia™ X10 mini pro。
       - 支持从桌面、[Internet
-        Explorer以及](../Page/Internet_Explorer.md "wikilink")[iTunes直接拖拽至设备及媒体库](../Page/iTunes.md "wikilink")。
+        Explorer以及](../Page/Internet_Explorer.md "wikilink")[iTunes直接拖拽至设备及媒体库](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
       - 支持裁切照片、调整照片颜色并修复照片中的红眼，然后将其导出，并通过电子邮件或网络实现共享。
       - 更好的设备交互效果，包括在各种连接模式间保持设备首选项，以及让下载和安装PSP™系统更新变得更轻松。
       - 如果播放处于停止状态或Media Go已关闭，则从上次的播放位置继续播放视频和播客。

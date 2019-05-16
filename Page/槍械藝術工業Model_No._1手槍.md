@@ -50,7 +50,7 @@ ACP的彈匣容量為8+1發。
 ## 參見
 
   - [M1911](../Page/M1911手槍.md "wikilink")
-  - [白朗寧大威力手槍](https://zh.wikipedia.org/wiki/白朗寧大威力手槍 "wikilink")
+  - [白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")
   - [.50 GI](https://zh.wikipedia.org/wiki/.50_GI "wikilink")
   - [格洛克.50 GI手槍](https://zh.wikipedia.org/wiki/格洛克.50_GI手槍 "wikilink")
   - [手槍列表](https://zh.wikipedia.org/wiki/手槍列表 "wikilink")

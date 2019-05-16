@@ -1,4 +1,4 @@
-**Lily**（）是[m.o.v.e乐队主唱](../Page/m.o.v.e.md "wikilink")的形象化角色，出现在她乐队的系列专辑《anim.o.v.e》中，后[Internet为此角色推出了一套采用](https://zh.wikipedia.org/wiki/Internet_\(公司\) "wikilink")[Vocaloid](../Page/Vocaloid.md "wikilink")[语音合成技术的](../Page/语音合成.md "wikilink")[数据库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")。
+**Lily**（）是[m.o.v.e乐队主唱](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")的形象化角色，出现在她乐队的系列专辑《anim.o.v.e》中，后[Internet为此角色推出了一套采用](../Page/Internet_\(公司\).md "wikilink")[Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[语音合成技术的](../Page/语音合成.md "wikilink")[数据库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")。
 
 ## 人物设定
 
@@ -37,7 +37,7 @@ Lily》**是以m.o.v.e乐队的歌手yuri为基础打造，通过输入旋律和
 
 #### 试听曲
 
-在发售前期，[Internet公开了两首翻唱m](https://zh.wikipedia.org/wiki/Internet_\(公司\) "wikilink").o.v.e.歌曲的试听曲。\[1\]饶舌部分则使用了Gackpoid。
+在发售前期，[Internet公开了两首翻唱m](../Page/Internet_\(公司\).md "wikilink").o.v.e.歌曲的试听曲。\[1\]饶舌部分则使用了Gackpoid。
 
 | 名称                                                                                            | 艺术家      | 演唱者                                              |
 | --------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------ |
@@ -56,7 +56,7 @@ Native」数据库。
 | Lily_Native | 90\~180                                                               | D2\~D4 | Lily/INTERNET |
 | Lily_V3     | 90\~180                                                               | D2\~G4 | Lily/INTERNET |
 
-2013年4月，[Internet发布了适用于](https://zh.wikipedia.org/wiki/Internet_\(公司\) "wikilink")[Mac的Vocaloid](../Page/Mac.md "wikilink")
+2013年4月，[Internet发布了适用于](../Page/Internet_\(公司\).md "wikilink")[Mac的Vocaloid](https://zh.wikipedia.org/wiki/Mac "wikilink")
 Neo引擎版本。
 
 #### 试听曲
@@ -71,7 +71,7 @@ Neo引擎版本。
 
 ## 相關作品
 
-### [niconico動畫配信單曲](../Page/niconico動畫.md "wikilink")
+### [niconico動畫配信單曲](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")
 
 
 

@@ -1,4 +1,4 @@
-**DC滑板鞋**（）於1994年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[卡爾斯巴德成立](https://zh.wikipedia.org/wiki/卡爾斯巴德_\(加利福尼亞州\) "wikilink")，由[拉力賽車手](../Page/拉力赛.md "wikilink")[肯·布洛克和Damon](https://zh.wikipedia.org/wiki/肯·布洛克 "wikilink")
+**DC滑板鞋**（）於1994年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[卡爾斯巴德成立](https://zh.wikipedia.org/wiki/卡爾斯巴德_\(加利福尼亞州\) "wikilink")，由[拉力賽車手](../Page/拉力赛.md "wikilink")[肯·布洛克和Damon](../Page/肯·布洛克.md "wikilink")
 Way所創辦\[1\]，是一家以製造特別為[極限運動](../Page/極限運動.md "wikilink")、[滑板活動和](../Page/滑板.md "wikilink")[單板滑雪設計的鞋子為業務的衣服品牌](../Page/單板滑雪.md "wikilink")。在最初公司只有製造鞋產品，後來擴大產品線至製造[滑雪板](https://zh.wikipedia.org/wiki/滑雪板 "wikilink")、服裝、牛仔褲、帽子以及外套\[2\]。
 
 ## 公司歷史

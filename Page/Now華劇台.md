@@ -1,7 +1,7 @@
 **now華劇台**（）是[now寬頻電視一條播放華語電視劇的頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2016年6月14日前稱為now海潤台。\[1\]now華劇台主要播放來自外購中國及台灣華語最新独家首播劇集。
 
-同台與華劇台定位類近的頻道有2017年定位改變後的[now劇集台](../Page/now劇集台.md "wikilink")，而其他香港公司與now華劇台定位相近的頻道有[myTV
-SUPER的](../Page/myTV_SUPER.md "wikilink")[華語劇台](https://zh.wikipedia.org/wiki/華語劇台 "wikilink")。
+同台與華劇台定位類近的頻道有2017年定位改變後的[now劇集台](https://zh.wikipedia.org/wiki/now劇集台 "wikilink")，而其他香港公司與now華劇台定位相近的頻道有[myTV
+SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[華語劇台](../Page/華語劇台.md "wikilink")。
 
 ## 歷史
 

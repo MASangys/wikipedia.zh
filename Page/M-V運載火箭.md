@@ -85,7 +85,7 @@ M-V火箭運載的2號機及9號機原先預定發射[LUNAR-A及](https://zh.wik
 
 ## 接續計畫
 
-繼M-V運載火箭後，日本開發成本較低且能迅速裝配的固態運載火箭，稱[Epsilon運載火箭](https://zh.wikipedia.org/wiki/艾普斯龙运载火箭 "wikilink")\[6\]，該火箭將運用[H-IIA運載火箭的固態輔助火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")(SRB-A)作為第一級。\[7\]\[8\]\[9\]
+繼M-V運載火箭後，日本開發成本較低且能迅速裝配的固態運載火箭，稱[Epsilon運載火箭](../Page/艾普斯龙运载火箭.md "wikilink")\[6\]，該火箭將運用[H-IIA運載火箭的固態輔助火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")(SRB-A)作為第一級。\[7\]\[8\]\[9\]
 
 ## 相關圖片
 

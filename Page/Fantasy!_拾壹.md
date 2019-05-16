@@ -1,5 +1,5 @@
 「**Fantasy\!
-拾壹**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")11枚原創專輯。於2010年12月1日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+拾壹**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")11枚原創專輯。於2010年12月1日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -49,8 +49,7 @@
       -
         以[龜井繪里為中心](../Page/龜井繪里.md "wikilink")
 10. **在手機上，對嗎？** (電話でね）
-    （作詞・作曲：淳君
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    （作詞・作曲：淳君 編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         [高橋愛主唱](../Page/高橋愛.md "wikilink")
 11. **[青春選輯](../Page/青春選輯.md "wikilink")** （青春コレクション）

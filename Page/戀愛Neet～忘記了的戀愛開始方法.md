@@ -98,8 +98,7 @@
 
 ### 木下家
 
-  - **木下結衣**（17歳） -
-    **[本田翼](https://zh.wikipedia.org/wiki/本田翼 "wikilink")**
+  - **木下結衣**（17歳） - **[本田翼](../Page/本田翼.md "wikilink")**
 
 <!-- end list -->
 
@@ -128,8 +127,7 @@
 
 <!-- end list -->
 
-  - **山田拓也**（17歳） -
-    **[永瀨匡](https://zh.wikipedia.org/wiki/永瀨匡 "wikilink")**
+  - **山田拓也**（17歳） - **[永瀨匡](../Page/永瀨匡.md "wikilink")**
 
 <!-- end list -->
 

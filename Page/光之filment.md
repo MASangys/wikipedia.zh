@@ -9,7 +9,7 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 1.  **光のフィルメント** \[4:48\]
       -
-        作詞：[riya](../Page/riya.md "wikilink")、作曲・編曲：[菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")
+        作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")、作曲・編曲：[菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")
     <!-- end list -->
       - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[傳說的勇者的傳說](../Page/傳說的勇者的傳說.md "wikilink")』後期[片尾曲](../Page/主題曲.md "wikilink")
 2.  **Be with you** \[4:27\]

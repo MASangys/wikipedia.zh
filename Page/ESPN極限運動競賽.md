@@ -21,7 +21,7 @@ Kolber為遊戲中的旁術配音](https://zh.wikipedia.org/wiki/:en:Suzy_Kolber
 
   - 《[ESPN極限運動競賽](http://au.psx.ign.com/objects/000/000547.html)》在[IGN上的資料](../Page/IGN.md "wikilink")
 
-  - 《[ESPN極限運動競賽](http://au.gamespot.com/espn-extreme-games/)》在[Gamespot上的資料](../Page/Gamespot.md "wikilink")
+  - 《[ESPN極限運動競賽](http://au.gamespot.com/espn-extreme-games/)》在[Gamespot上的資料](https://zh.wikipedia.org/wiki/Gamespot "wikilink")
 
   - 《[ESPN極限運動競賽](http://www.mobygames.com/game/espn-extreme-games)》在MobyGames上的資料
 

@@ -38,7 +38,7 @@ Zone**”。\[3\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/佐藤勝利" title="wikilink">佐藤勝利</a></strong></p></td>
+<td><p><strong><a href="../Page/佐藤勝利.md" title="wikilink">佐藤勝利</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p>A型</p></td>
@@ -237,7 +237,7 @@ Girls，並稱大家是一個Sexy Family。
 <td><p>2013年10月9日</p></td>
 <td><p><strong>Bye Bye 杜拜 ～See you again～/A MY GIRL FRIEND</strong>（バィバィDuバィ〜See you again〜/A MY GIRL FRIEND）</p></td>
 <td><p>1位</p></td>
-<td><p>歌曲《A MY GIRL FRIEND》為<a href="https://zh.wikipedia.org/wiki/佐藤勝利" title="wikilink">佐藤勝利主演的</a><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視劇</a>「<a href="https://zh.wikipedia.org/wiki/49_(電視劇)" title="wikilink">49</a>」的主題曲，由中島、菊池和佐藤三人演唱</p></td>
+<td><p>歌曲《A MY GIRL FRIEND》為<a href="../Page/佐藤勝利.md" title="wikilink">佐藤勝利主演的</a><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視劇</a>「<a href="../Page/49_(電視劇).md" title="wikilink">49</a>」的主題曲，由中島、菊池和佐藤三人演唱</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -267,7 +267,7 @@ Girls，並稱大家是一個Sexy Family。
 <td><p><strong>Cha-Cha-Cha Champion</strong>（Cha-Cha-Cha チャンピオン）</p></td>
 <td><p>1位</p></td>
 <td><p>中島、菊池、佐藤的三人體制單曲。<br />
-《Cha-Cha-Cha チャンピオン》一曲被<a href="https://zh.wikipedia.org/wiki/世界盃排球賽" title="wikilink">世界盃排球賽大會組織委員會任命為</a><a href="https://zh.wikipedia.org/wiki/2015年世界盃女子排球賽" title="wikilink">2015年世界盃女子排球賽日方主題曲</a>，由Sexy Zone與Sexy Family合唱</p></td>
+《Cha-Cha-Cha チャンピオン》一曲被<a href="https://zh.wikipedia.org/wiki/世界盃排球賽" title="wikilink">世界盃排球賽大會組織委員會任命為</a><a href="../Page/2015年世界盃女子排球賽.md" title="wikilink">2015年世界盃女子排球賽日方主題曲</a>，由Sexy Zone與Sexy Family合唱</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -311,7 +311,7 @@ Girls，並稱大家是一個Sexy Family。
 <td><p>2018年6月6日</p></td>
 <td><p><strong>Innocent Days</strong>（イノセントデイズ）</p></td>
 <td><p>1位</p></td>
-<td><p>歌曲《イノセントデイズ》為成員<a href="https://zh.wikipedia.org/wiki/佐藤勝利" title="wikilink">佐藤勝利出演的</a><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視連續劇</a>「<a href="https://zh.wikipedia.org/wiki/Miss_Devil_人事惡魔·椿真子" title="wikilink">Miss Devil 人事惡魔·椿真子</a>」（）的插入曲。</p></td>
+<td><p>歌曲《イノセントデイズ》為成員<a href="../Page/佐藤勝利.md" title="wikilink">佐藤勝利出演的</a><a href="../Page/日本電視台.md" title="wikilink">日本電視台電視連續劇</a>「<a href="https://zh.wikipedia.org/wiki/Miss_Devil_人事惡魔·椿真子" title="wikilink">Miss Devil 人事惡魔·椿真子</a>」（）的插入曲。</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -332,7 +332,7 @@ Girls，並稱大家是一個Sexy Family。
 | 3  | 2015年3月11日  | **[Sexy Power3](https://zh.wikipedia.org/wiki/Sexy_Power3 "wikilink")**                   | 1位\[21\] |
 | 4  | 2016年2月24日  | **[Welcome to Sexy Zone](https://zh.wikipedia.org/wiki/Welcome_to_Sexy_Zone "wikilink")** | 1位       |
 | 5  | 2018年2月14日  | **[XYZ=repainting](https://zh.wikipedia.org/wiki/XYZ=repainting "wikilink")**             | 1位\[22\] |
-| 6  | 2019年3月13日  | **[PAGES](../Page/PAGES.md "wikilink")**                                                  |          |
+| 6  | 2019年3月13日  | **[PAGES](https://zh.wikipedia.org/wiki/PAGES "wikilink")**                               |          |
 
 ### 精選專輯
 
@@ -495,8 +495,8 @@ Girls，並稱大家是一個Sexy Family。
   - 2014年世界排球大獎賽（2014年8月20日 -
     8月24日、[富士電視台](../Page/富士電視台.md "wikilink")）——特别應援者
   - 第67届全日本高中生排球錦標賽（2015年1月4日 ‐ 1月11日、富士電台）——熱情支持者（中島、菊池、佐藤）
-  - [2015年世界盃女子排球賽](https://zh.wikipedia.org/wiki/2015年世界盃女子排球賽 "wikilink")（2015年8月22日
-    ‐ 9月23日、[富士電視台](../Page/富士電視台.md "wikilink")）——特别應援者（中島、菊池、佐藤）
+  - [2015年世界盃女子排球賽](../Page/2015年世界盃女子排球賽.md "wikilink")（2015年8月22日 ‐
+    9月23日、[富士電視台](../Page/富士電視台.md "wikilink")）——特别應援者（中島、菊池、佐藤）
   - 第68届全日本高中生排球錦標賽（2016年1月5日 ‐
     1月10日、[富士電視台](../Page/富士電視台.md "wikilink")）——應援支持者
   - 里約熱內盧奧運會女排世界最後的排位賽和亞洲區預選賽（2016年5月14日 -

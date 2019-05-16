@@ -1,4 +1,4 @@
-是一款由[史克威爾](../Page/史克威爾.md "wikilink")（現[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）開發，於1994年在[超级任天堂平台发行的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，为[最终幻想系列的第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")6部本传遊戲。故事設定在一個幻想的世界，科技水準相當於[第二次工業革命](https://zh.wikipedia.org/wiki/第二次工業革命 "wikilink")，講述了一個反抗組織試圖推翻帝國獨裁統治的過程點滴。遊戲有14位[玩家角色](https://zh.wikipedia.org/wiki/玩家角色 "wikilink")，是最终幻想本傳系列作中可供玩家操控角色最多的。
+是一款由[史克威爾](../Page/史克威爾.md "wikilink")（現[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）開發，於1994年在[超级任天堂平台发行的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，为[最终幻想系列的第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")6部本传遊戲。故事設定在一個幻想的世界，科技水準相當於[第二次工業革命](https://zh.wikipedia.org/wiki/第二次工業革命 "wikilink")，講述了一個反抗組織試圖推翻帝國獨裁統治的過程點滴。遊戲有14位[玩家角色](https://zh.wikipedia.org/wiki/玩家角色 "wikilink")，是最终幻想本傳系列作中可供玩家操控角色最多的。
 
 1994年在北美首次發布時標題为「Final Fantasy
 III」，盖因當時日版《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》並未在日本以外的地區發行，因此有美國的老玩家視本作為FF3，但後來的北美本地化版本已改隨日版使用標題「VI」。[PlayStation移植版于](https://zh.wikipedia.org/wiki/PlayStation "wikilink")1999年发行，[Game
@@ -7,7 +7,7 @@ Advance移植版于](../Page/Game_Boy_Advance.md "wikilink")2006年发行，两�
 [Virtual
 Console的線上服务上架](../Page/Virtual_Console.md "wikilink")，隨後在[PAL區](https://zh.wikipedia.org/wiki/PAL區 "wikilink")（2011年3月18日）和北美地區（2011年6月30日）发行。
 
-《最終幻想VI》是系列第一款非[坂口博信](../Page/坂口博信.md "wikilink")——系列制作人和創造者——监督的作品，该职务由[北瀨佳範和伊藤裕之担当](https://zh.wikipedia.org/wiki/北瀨佳範 "wikilink")。长期負責系列美術概念的[天野喜孝继续圖像和人物的設計](../Page/天野喜孝.md "wikilink")，作曲家[植松伸夫为本作配樂](../Page/植松伸夫.md "wikilink")，發布後獲得好評，成為日式角色扮演遊戲的里程碑之一。随游戏發布的还有数张[原聲音樂專輯](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。本作的超级任天堂版和Playststion單作移植版在全球销量已逾350萬套\[1\]\[2\]。
+《最終幻想VI》是系列第一款非[坂口博信](../Page/坂口博信.md "wikilink")——系列制作人和創造者——监督的作品，该职务由[北瀨佳範和伊藤裕之担当](../Page/北瀨佳範.md "wikilink")。长期負責系列美術概念的[天野喜孝继续圖像和人物的設計](../Page/天野喜孝.md "wikilink")，作曲家[植松伸夫为本作配樂](../Page/植松伸夫.md "wikilink")，發布後獲得好評，成為日式角色扮演遊戲的里程碑之一。随游戏發布的还有数张[原聲音樂專輯](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。本作的超级任天堂版和Playststion單作移植版在全球销量已逾350萬套\[1\]\[2\]。
 
 ## 游戏玩法
 
@@ -35,13 +35,13 @@ Console的線上服务上架](../Page/Virtual_Console.md "wikilink")，隨後在
 
 《最终幻想VI》和之前最终幻想作品[中世纪的设定有所差异](../Page/中世纪.md "wikilink")，游戏设定与[蒸汽朋克环境](../Page/蒸汽朋克.md "wikilink")。社会结构和19世纪后期相似，[歌剧和](../Page/歌剧.md "wikilink")[美术在游戏中反复出现](https://zh.wikipedia.org/wiki/美术 "wikilink")\[10\]，技术水平相当于[第二次工业革命](../Page/第二次工业革命.md "wikilink")。游戏中出现[铁路和](https://zh.wikipedia.org/wiki/铁路 "wikilink")[轮船](https://zh.wikipedia.org/wiki/轮船 "wikilink")，游戏世界北部的那鲁雪还运行[采矿业](https://zh.wikipedia.org/wiki/采矿 "wikilink")\[11\]。此外，游戏还出现一些由费加罗王国开发的现代工程业和武器（如[链锯](https://zh.wikipedia.org/wiki/链锯 "wikilink")、[電鑽和自动](https://zh.wikipedia.org/wiki/電鑽 "wikilink")[弩](../Page/弩.md "wikilink")）。然而，通讯系统水平还没有显著发展，长途交流最常用的方式是由[信鸽传信](https://zh.wikipedia.org/wiki/信鸽 "wikilink")。
 
-在游戏世界开始很久以前，被称作三鬥神的三个实体发生战争，这场战争被称为魔大战。战争发展成了灾难，释放的魔法能量将人类变成了魔法幻兽，他们成为了战争机器。最终三鬥神意识到自己造成了可怕的灾难，他们给了幻兽自由的意志，并封印了自己的力量，变成了石像。他们唯一的要求是让幻兽保证他们的力量被封印而不再重现\[12\]。幻兽将石像神搬入隐蔽的世界，并将连同自己将雕像封印于人类世界之外。魔法的概念逐渐消失，变成了传说与神话，而人类建立了崇尚科学与技术的社会\[13\]。在游戏的序幕，最先进的国家是帝国——一个由[加斯特拉皇帝和其将军](https://zh.wikipedia.org/wiki/最终幻想VI角色列表 "wikilink")[凯夫卡领导](https://zh.wikipedia.org/wiki/凯夫卡·帕拉佐 "wikilink")，残忍而走独裁扩张的国度。大约在游戏事件开始的18年前，幻兽世界和外界的屏障变弱。不久，加斯特拉利用这点进攻幻兽国度，并抓走了几个幻兽。
+在游戏世界开始很久以前，被称作三鬥神的三个实体发生战争，这场战争被称为魔大战。战争发展成了灾难，释放的魔法能量将人类变成了魔法幻兽，他们成为了战争机器。最终三鬥神意识到自己造成了可怕的灾难，他们给了幻兽自由的意志，并封印了自己的力量，变成了石像。他们唯一的要求是让幻兽保证他们的力量被封印而不再重现\[12\]。幻兽将石像神搬入隐蔽的世界，并将连同自己将雕像封印于人类世界之外。魔法的概念逐渐消失，变成了传说与神话，而人类建立了崇尚科学与技术的社会\[13\]。在游戏的序幕，最先进的国家是帝国——一个由[加斯特拉皇帝和其将军](../Page/最终幻想VI角色列表.md "wikilink")[凯夫卡领导](https://zh.wikipedia.org/wiki/凯夫卡·帕拉佐 "wikilink")，残忍而走独裁扩张的国度。大约在游戏事件开始的18年前，幻兽世界和外界的屏障变弱。不久，加斯特拉利用这点进攻幻兽国度，并抓走了几个幻兽。
 
 通过幻兽的力量能源，加斯特拉开始研究设计将魔法和机械结合，以及将魔法力量注入人类；最终一种被称作“魔导甲”的技术诞生。凯夫卡是最早被注入魔法成为“魔法骑士”的士兵，而这彻底损坏了他的心智\[14\]。在游戏的开始，帝国正设法重新找到通往幻兽世界的大门，以重新发现全部魔法潜力。然而加斯特拉的军队正受到回归者——一个推翻帝国统治追求自由的反抗者组织——的对抗。
 
 ### 角色
 
-《最终幻想VI》有14个永久玩家角色，是系列本传中人数最多的作品，此外玩家在游戏还可以短暂操作数个次要角色。游戏中最先出现的角色[蒂娜·布蘭佛德是一名人和幻兽的混血女孩](https://zh.wikipedia.org/wiki/蒂娜·布蘭佛德 "wikilink")，帝国用精神控制设备操控她很长时间，因而她不了解什么是爱\[15\]。其它主要角色还有：[洛克·柯爾](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#洛克·柯爾 "wikilink")，隶属于反帝国组织“回归者”的财宝猎人，有着保护女性的强烈意念；[莎莉絲·謝兒](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#莎莉絲·謝兒 "wikilink")，原帝国女将军，在被帝国审问后加入了回归者；[艾德加·費加洛](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#艾德加·羅尼·費加洛 "wikilink")，费加罗国王，非常沉溺于女色，自称忠于帝国但暗地里给回归者提供帮助\[16\]；[馬修·羅尼·費加洛是艾德加的弟弟](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#馬修·羅尼·費加洛 "wikilink")，为了追求自己的道路而离开王室，并练习武术磨练能力；[加源·加雷莫德是多玛国的忠诚剑士](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#加源·加雷莫德 "wikilink")，因凯夫卡往王国的水源下毒而失去家人和朋友；[西杰亚·希吉尔斯是一个积久的赌徒与追求刺激的探险者](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#賽法·希吉爾斯 "wikilink")；[影是一名雇用忍者](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#暗影 "wikilink")，在游戏不同阶段为帝国和回归者都提供过服务；[麗姆·艾利娃是擅长绘画的少女](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#麗姆·艾利娃 "wikilink")，具有魔法力量；[斯特拉格斯·馬吉斯是丽姆的爷爷](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#斯特拉格斯·馬吉斯 "wikilink")，一名青魔法师；[嘎呜是从婴儿起就在兽之源长大的野孩子](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#嘎呜 "wikilink")；[莫古是那鲁雪矿山中的一支](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#莫古 "wikilink")[莫古利](https://zh.wikipedia.org/wiki/莫古利 "wikilink")；[烏瑪是那鲁雪野蛮但忠诚的](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#烏瑪 "wikilink")[雪人](../Page/雪人_\(傳說生物\).md "wikilink")；[格格是神秘的模仿师喔](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#高星 "wikilink")。
+《最终幻想VI》有14个永久玩家角色，是系列本传中人数最多的作品，此外玩家在游戏还可以短暂操作数个次要角色。游戏中最先出现的角色[蒂娜·布蘭佛德是一名人和幻兽的混血女孩](../Page/蒂娜·布蘭佛德.md "wikilink")，帝国用精神控制设备操控她很长时间，因而她不了解什么是爱\[15\]。其它主要角色还有：[洛克·柯爾](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#洛克·柯爾 "wikilink")，隶属于反帝国组织“回归者”的财宝猎人，有着保护女性的强烈意念；[莎莉絲·謝兒](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#莎莉絲·謝兒 "wikilink")，原帝国女将军，在被帝国审问后加入了回归者；[艾德加·費加洛](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#艾德加·羅尼·費加洛 "wikilink")，费加罗国王，非常沉溺于女色，自称忠于帝国但暗地里给回归者提供帮助\[16\]；[馬修·羅尼·費加洛是艾德加的弟弟](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#馬修·羅尼·費加洛 "wikilink")，为了追求自己的道路而离开王室，并练习武术磨练能力；[加源·加雷莫德是多玛国的忠诚剑士](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#加源·加雷莫德 "wikilink")，因凯夫卡往王国的水源下毒而失去家人和朋友；[西杰亚·希吉尔斯是一个积久的赌徒与追求刺激的探险者](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#賽法·希吉爾斯 "wikilink")；[影是一名雇用忍者](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#暗影 "wikilink")，在游戏不同阶段为帝国和回归者都提供过服务；[麗姆·艾利娃是擅长绘画的少女](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#麗姆·艾利娃 "wikilink")，具有魔法力量；[斯特拉格斯·馬吉斯是丽姆的爷爷](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#斯特拉格斯·馬吉斯 "wikilink")，一名青魔法师；[嘎呜是从婴儿起就在兽之源长大的野孩子](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#嘎呜 "wikilink")；[莫古是那鲁雪矿山中的一支](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#莫古 "wikilink")[莫古利](https://zh.wikipedia.org/wiki/莫古利 "wikilink")；[烏瑪是那鲁雪野蛮但忠诚的](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#烏瑪 "wikilink")[雪人](../Page/雪人_\(傳說生物\).md "wikilink")；[格格是神秘的模仿师喔](https://zh.wikipedia.org/wiki/最终幻想VI角色列表#高星 "wikilink")。
 
 游戏中多数的主角对帝国有重大仇恨，特别是游戏主要反派凯夫卡和加斯特拉皇帝。配角反派乌托洛斯在游戏中多次作为[喜剧穿插出现](https://zh.wikipedia.org/wiki/喜剧穿插 "wikilink")。少数《最终幻想VI》角色还在后来《[艾薇莫的秘密](https://zh.wikipedia.org/wiki/艾薇莫的秘密 "wikilink")》等游戏中出现。此外在史克威爾採用[視算科技的Onyx工作站制作的](https://zh.wikipedia.org/wiki/視算科技 "wikilink")3D試作版《最终幻想SGI》中，使用3D建模展示了洛克、蒂娜和影\[17\]。
 
@@ -63,10 +63,10 @@ Console的線上服务上架](../Page/Virtual_Console.md "wikilink")，隨後在
 
 ### 创作
 
-《最终幻想VI》在1992年12月前作《[最终幻想V](../Page/最终幻想V.md "wikilink")》发行之后进入开发\[32\]。开发只用了一年便完成\[33\]。系列创作人与总监[坂口博信因为其它项目](../Page/坂口博信.md "wikilink")，并于1991年升任公司执行副总裁，不能像前作那样密切参与游戏\[34\]\[35\]\[36\]。因此他担任制作人，并将《最终幻想VI》总监分任给[北瀨佳範和](https://zh.wikipedia.org/wiki/北瀨佳範 "wikilink")[伊藤裕之](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")：北濑负责事件制作与剧本，而伊藤掌管全部战斗方面\[37\]\[38\]。坂口监督北濑的场景监督工作，并确保项目能结合为一个整体。《最终幻想VI》剧情背后的理念是每个角色都是主角。开发团队各成员为角色，及角色在整个剧情中的“章节”提出想法，北濑将其谓之“杂化流程”\[39\]。因此，蒂娜和洛克由坂口构思；莎莉丝和嘎由北濑构思；影和西杰亚由图形总监[野村哲也构思](../Page/野村哲也.md "wikilink")；艾德与马修由场景图形设计师[田中香构思](https://zh.wikipedia.org/wiki/田中香 "wikilink")\[40\]\[41\]。然后北濑的任务是将坂口的故事前提与各角色章节统一，创作一个紧密结合的故事\[42\]\[43\]。《最终幻想VI》的剧本由四五人的小组编写，其中北濑准备了故事的关键元素，如歌剧情节和莎莉丝的自杀未遂，以及杰夫卡的登场\[44\]\[45\]\[46\]。
+《最终幻想VI》在1992年12月前作《[最终幻想V](../Page/最终幻想V.md "wikilink")》发行之后进入开发\[32\]。开发只用了一年便完成\[33\]。系列创作人与总监[坂口博信因为其它项目](../Page/坂口博信.md "wikilink")，并于1991年升任公司执行副总裁，不能像前作那样密切参与游戏\[34\]\[35\]\[36\]。因此他担任制作人，并将《最终幻想VI》总监分任给[北瀨佳範和](../Page/北瀨佳範.md "wikilink")[伊藤裕之](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")：北濑负责事件制作与剧本，而伊藤掌管全部战斗方面\[37\]\[38\]。坂口监督北濑的场景监督工作，并确保项目能结合为一个整体。《最终幻想VI》剧情背后的理念是每个角色都是主角。开发团队各成员为角色，及角色在整个剧情中的“章节”提出想法，北濑将其谓之“杂化流程”\[39\]。因此，蒂娜和洛克由坂口构思；莎莉丝和嘎由北濑构思；影和西杰亚由图形总监[野村哲也构思](../Page/野村哲也.md "wikilink")；艾德与马修由场景图形设计师[田中香构思](https://zh.wikipedia.org/wiki/田中香 "wikilink")\[40\]\[41\]。然后北濑的任务是将坂口的故事前提与各角色章节统一，创作一个紧密结合的故事\[42\]\[43\]。《最终幻想VI》的剧本由四五人的小组编写，其中北濑准备了故事的关键元素，如歌剧情节和莎莉丝的自杀未遂，以及杰夫卡的登场\[44\]\[45\]\[46\]。
 
 最终幻想系列长期贡献者[天野喜孝担任肖像与角色设计师](../Page/天野喜孝.md "wikilink")，继续参与设计。他的概念创作图成为PlayStation重制版[全动态影像的基础模型](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")\[47\]。图形总监之一[高桥哲哉绘制了出现在游戏开场的帝国机械装甲](https://zh.wikipedia.org/wiki/高桥哲哉 "wikilink")；因此他忽略了坂口想重用游戏其它普通设计图的打算\[48\]\[49\]。游戏中出现的角色[图标由涩谷员子所绘](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")\[50\]。在系列早期作品中，地图上的角色图标不如战斗中的精细，但《最终幻想VI》不顾屏幕而使用同样高清晰的图形。这得以让游戏通过动画来描绘各种动作和面部表情\[51\]。虽然《最终幻想VI》并非首个使用超级任天堂[Mode
-7图形的游戏](https://zh.wikipedia.org/wiki/Mode_7 "wikilink")，但该技术的应用却比前作更加广泛。比如，游戏和《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》与《最终幻想V》皆不同，使用Mode
+7图形的游戏](../Page/Mode_7.md "wikilink")，但该技术的应用却比前作更加广泛。比如，游戏和《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》与《最终幻想V》皆不同，使用Mode
 7渲染的世界地图，使一个本为[二维的游戏有了些许](../Page/二维计算机图形.md "wikilink")[三维效果](../Page/三维计算机图形.md "wikilink")\[52\]。
 
 ### 英文本地化
@@ -80,7 +80,7 @@ Play](https://zh.wikipedia.org/wiki/Super_Play "wikilink")》杂志的访谈中�
 
 PlayStation移植版的英文本地化在原版基础上略作修改。为了和之前日美都发行的《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》保持序数一致，游戏标题又从“最终幻想III”改回“最终幻想VI”。移植版少量道具和角色名称作了调整，如“Fenix
 Town”展开为“Phoenix
-Town”。和后来收录于《[最终幻想编年史](https://zh.wikipedia.org/wiki/最终幻想编年史 "wikilink")》合辑的《最终幻想IV》不同，本作的脚本基本没有修改\[59\]。Game
+Town”。和后来收录于《[最终幻想编年史](../Page/最终幻想编年史.md "wikilink")》合辑的《最终幻想IV》不同，本作的脚本基本没有修改\[59\]。Game
 Boy
 Advance再发行版使用了另一名译者汤姆·斯拉特瑞的新翻译\[60\]。该版本保留了伍尔西译本的大多数角色名、地名和术语，但其按照系列最新作品的惯例，重新翻译了道具和魔法名\[61\]。修订的脚本保留了原版的某些古怪台词，但其它内容则被修改或编辑，并清理了原版译文的某些令人困惑的地方\[62\]。[Wii](../Page/Wii.md "wikilink")
 [Virtual
@@ -109,7 +109,7 @@ Supremacy演奏了](https://zh.wikipedia.org/wiki/Machinae_Supremacy "wikilink")
 
 ### PlayStation
 
-《最终幻想VI》由[东星软件移植于索尼](https://zh.wikipedia.org/wiki/东星软件 "wikilink")[PlayStation平台](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，并由史克威尔于1999年在日本和北美发行。在日本，游戏以单独发售和收录于4—6代合輯《Final
+《最终幻想VI》由[东星软件移植于索尼](../Page/东星软件.md "wikilink")[PlayStation平台](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，并由史克威尔于1999年在日本和北美发行。在日本，游戏以单独发售和收录于4—6代合輯《Final
 Fantasy Collection》两种形式发行，而北美版只以收录于5、6代合輯《Final Fantasy
 Anthology》的形式发行。游戏在欧洲以单独形式发售。公司在日本还发行了50,000份限量版游戏，其中附随最终幻想主题闹钟\[72\]。《最终幻想VI》PlayStation版和日本[超级任天堂非常相似](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。除了加入开场和结尾的两个全动态影像，以及战斗开始和结束的新效果外，图形、音乐和音效与原版无异。在游戏系统方面，最明显的变化是修正了原版的少量[软件错误](https://zh.wikipedia.org/wiki/软件错误 "wikilink")（除了PlayStation版出现载入时间外），以及新增可供玩家通过PlayStation
 [RAM快速储存进度的](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")“笔记储存”功能\[73\]。移植版还增加了[怪兽图鉴和插画画廊等功能](https://zh.wikipedia.org/wiki/怪兽图鉴 "wikilink")\[74\]。2012年12月18日在日本发行的合辑《最终幻想25周年纪念终极包》收录了游戏PlayStation移植版\[75\]。
@@ -135,7 +135,7 @@ Network服务下载游戏](../Page/PlayStation_Network.md "wikilink")。
 
 ### Android和iOS
 
-史克威尔艾尼克斯总监兼制作人[时田贵司于](https://zh.wikipedia.org/wiki/时田贵司 "wikilink")2013年10月10日宣布，2013年冬季将为iOS和Android系统发行手机定制版的《最终幻想VI》\[84\]。该版本是本作首次中文化。\[85\]
+史克威尔艾尼克斯总监兼制作人[时田贵司于](../Page/时田贵司.md "wikilink")2013年10月10日宣布，2013年冬季将为iOS和Android系统发行手机定制版的《最终幻想VI》\[84\]。该版本是本作首次中文化。\[85\]
 
 ## 评价
 
@@ -145,12 +145,12 @@ Collection》于1999年售出40万，成为日本当年第31畅销游戏\[89\]�
 Fantasy Collection》与美版5、6代合辑《Final Fantasy
 Anthology》累計售出約125萬套\[91\]\[92\]。
 
-游戏从原版发售起便获得赞扬，《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》为游戏打出了5/5，称“人物、情节和多选择剧本全部交织成一款极好的游戏”\[93\]。《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》给游戏打了9/10并将其列为月度游戏，他们认为“具有如此深度和现实主义的RPG千载难逢”\[94\]。游戏获得《电子游戏月刊》1994年电子游戏奖中的数项，其中包括最佳电子游戏、最佳日本角色扮演游戏，和最佳卡带游戏音乐\[95\]。在《电子游戏月刊》1997年的“史上最伟大的100个游戏机游戏”名单中，游戏位列第9\[96\]。《[任天堂力量](https://zh.wikipedia.org/wiki/任天堂力量 "wikilink")》则称游戏为“这十年RPG的成功”，并认为其改进的音效和画面超越了前作，同时游戏拓宽了主题范围\[97\]。此外，他们还提出“有这么多故事和玩法的变化，爱好者有时可能迷失于这个世界几个月”\[98\]。它们在1997年将游戏列为第8大任天堂游戏，称其“有你可能想要的一切——勇士、世界崩裂事件、魔法、无心的罪恶——外加非凡的狗拦截者！”\[99\]2008年，[ScrewAttack将游戏列为第三大超级任天堂游戏](https://zh.wikipedia.org/wiki/ScrewAttack "wikilink")，仅次于《[塞尔达传说
+游戏从原版发售起便获得赞扬，《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》为游戏打出了5/5，称“人物、情节和多选择剧本全部交织成一款极好的游戏”\[93\]。《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》给游戏打了9/10并将其列为月度游戏，他们认为“具有如此深度和现实主义的RPG千载难逢”\[94\]。游戏获得《电子游戏月刊》1994年电子游戏奖中的数项，其中包括最佳电子游戏、最佳日本角色扮演游戏，和最佳卡带游戏音乐\[95\]。在《电子游戏月刊》1997年的“史上最伟大的100个游戏机游戏”名单中，游戏位列第9\[96\]。《[任天堂力量](../Page/任天堂力量.md "wikilink")》则称游戏为“这十年RPG的成功”，并认为其改进的音效和画面超越了前作，同时游戏拓宽了主题范围\[97\]。此外，他们还提出“有这么多故事和玩法的变化，爱好者有时可能迷失于这个世界几个月”\[98\]。它们在1997年将游戏列为第8大任天堂游戏，称其“有你可能想要的一切——勇士、世界崩裂事件、魔法、无心的罪恶——外加非凡的狗拦截者！”\[99\]2008年，[ScrewAttack将游戏列为第三大超级任天堂游戏](https://zh.wikipedia.org/wiki/ScrewAttack "wikilink")，仅次于《[塞尔达传说
 众神的三角之力](https://zh.wikipedia.org/wiki/塞尔达传说_众神的三角之力 "wikilink")》和《[超级银河战士](../Page/超级银河战士.md "wikilink")》\[100\]。《任天堂力量》将《最终幻想VI》的结局列为最佳结局之一，称以深刻印象的角色瞬间，巩固他们成为史上几个最难忘的最终幻想主角。他们还将歌剧场景列为角色扮演游戏表现感动和情感的证明\[101\]。
 
 游戏在PlayStation版发行后继续获得评论赞扬，《GamePro》和《电子游戏月刊》分别为游戏打了4.5/5和9.5/10\[102\]。《任天堂力量》2006年再度将游戏列为最佳任天堂游戏之一，将其置于“任天堂平台最佳200游戏”的第13位，称其可能是史上“最棒的”最终幻想\[103\]。2005年，多媒体新闻网站[IGN将](../Page/IGN.md "wikilink")《最终幻想VI》列为最佳100游戏的第56位，在最终幻想作品中位次《最终幻想IV》名列第二\[104\]。IGN称PlayStation移植版的图形“美丽而令人震惊”，并称在发布当时“《最终幻想III》代表RPG应有的一切”，状态值成长系统的灵感后来影响了《[荒野兵器](https://zh.wikipedia.org/wiki/荒野兵器 "wikilink")》和《[幻想水浒传](https://zh.wikipedia.org/wiki/幻想水浒传 "wikilink")》等游戏。此外他们还称赞了游戏系统和情节，称这些方面吸纳了“先前全部的RPG理念，并且要么想出了一些全新的东西，要么充分将其精炼为自己的”，并创立了一个玩家“不会觉得闯过简单图形很苦难，或是游戏规则看着过时，并开始参与”游戏的氛围\[105\]。在IGN
 2007年新版的“最佳100”榜单中，《最终幻想VI》位列第9，排在全部最终幻想游戏之首。他们继续提到游戏的角色发展，并特别称杰夫卡是“RPG史上最难忘的恶棍之一”\[106\]。2009年，《[Game
-Informer](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")》将超级任天堂版《最终幻想III》列为“史上最佳200游戏”的第8位，称其为“完美的2D角色扮演游戏”\[107\]。游戏在2001年的榜单中排名第7位\[108\]。
+Informer](../Page/Game_Informer.md "wikilink")》将超级任天堂版《最终幻想III》列为“史上最佳200游戏”的第8位，称其为“完美的2D角色扮演游戏”\[107\]。游戏在2001年的榜单中排名第7位\[108\]。
 
 在2006年上半年日本杂志《[Fami通](../Page/Fami通.md "wikilink")》举办的读者票选中，游戏位列第25名\[109\]。[RPGamer为原版和PlayStation移植版游戏皆打了满分](https://zh.wikipedia.org/wiki/RPGamer "wikilink")，称其游戏系统“足够自明，几乎全部玩家都能上手游戏并定制角色的装备”，他们同时称赞游戏音乐是“16位的杰作”。代之的是，他们称游戏音效有限，游戏自身因“单一结局，剧情一条（主）线及（强制）支线”而缺少重玩价值。此外他们认为游戏英文翻译“平平常常”，“比一些好但比另一些差”，并对游戏难度提出了类似意见。然而他们称剧情是游戏“最独特的方面”，并称其庞大角色阵容“几乎全部都有大量发展”，并有“出人意料的现实世界问题，从青少年怀孕到自杀，这些大多在RPG中空前绝后”。总的来说，RPGamer称赞游戏为“伟大的杰作”和“史上真正最伟大的游戏之一”\[110\]\[111\]。
 
@@ -164,7 +164,7 @@ TV最佳必备RPG榜单中位列第1\[114\]。
 《Final Fantasy VI: 互動CG游戏》（，又称“最终幻想SGI示範”，是在《Final Fantasy
 VII》尚未發表時，由史克威尔使用《最终幻想VI》角色与设定制作的短篇遊戲試作版。制作硬體選用了[視算科技](https://zh.wikipedia.org/wiki/視算科技 "wikilink")（SGI）的Onyx工作站，本次嘗試是史克威尔首次进入[3D图形领域](../Page/三维计算机图形.md "wikilink")；多方猜测这是为同样使用SGI硬件的[任天堂64开发下一部](../Page/任天堂64.md "wikilink")[最终幻想作品的先兆](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")\[115\]，但最終系列作轉投了PlayStation平台。而試作版中的技术随后用于渲染《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的[全动态影像和之后的](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")[PlayStation游戏](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。遊戲展示了一場战斗中的蒂娜·布蘭佛德、洛克·柯爾和影。游戏主要通过滑鼠控制也加入了手勢操作：例如以星形状移动鼠標会召唤一条龙来攻击\[116\]。
 
-2010年4月27日，史克威尔艾尼克斯制作人[桥本真司称](https://zh.wikipedia.org/wiki/桥本真司 "wikilink")，《最终幻想VI》的[任天堂DS重制版开发因](../Page/任天堂DS.md "wikilink")“技术问题”而“未决”\[117\]。但随后史克威尔艾尼克斯讨论《VI》和《V》将重制于[任天堂3DS](../Page/任天堂3DS.md "wikilink")\[118\]；不过最终并没有实践。
+2010年4月27日，史克威尔艾尼克斯制作人[桥本真司称](../Page/桥本真司.md "wikilink")，《最终幻想VI》的[任天堂DS重制版开发因](../Page/任天堂DS.md "wikilink")“技术问题”而“未决”\[117\]。但随后史克威尔艾尼克斯讨论《VI》和《V》将重制于[任天堂3DS](../Page/任天堂3DS.md "wikilink")\[118\]；不过最终并没有实践。
 
 ## 参考文献
 

@@ -3,7 +3,7 @@ Brummel所成立的一間唱片公司，設立於[美國芝加哥](../Page/芝�
 Victory唱片和許多唱片經銷商合作，如Best
 Buy、[亞馬遜公司](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")、Trans
 World娛樂公司、Hot
-Topic等等，獲得該唱片簽約的樂團，通常能在[iTunes上購買的到](../Page/iTunes.md "wikilink")。
+Topic等等，獲得該唱片簽約的樂團，通常能在[iTunes上購買的到](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
 ## 公司歷史
 

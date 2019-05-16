@@ -7,7 +7,7 @@
   - 因急性上氣管炎中止了原於11月6日於[橫濱體育館的演出](../Page/橫濱體育館.md "wikilink")\[3\]，另於12月27日進行轉帳公演。
   - 11月27日於[國立代代木競技場的演出結束後](../Page/國立代代木競技場.md "wikilink")，進行[月9連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")「[我無法戀愛的理由](../Page/我無法戀愛的理由.md "wikilink")」第9集的拍攝。安室本人再度上台，並唱出主題曲「[Love
     Story](https://zh.wikipedia.org/wiki/Sit!_Stay!_Wait!_Down!/Love_Story "wikilink")」進行拍攝。
-  - DVD、藍光光碟發售前，「arigatou」的映像於安室本人的[Youtube主頁率先曝光](../Page/Youtube.md "wikilink")。
+  - DVD、藍光光碟發售前，「arigatou」的映像於安室本人的[Youtube主頁率先曝光](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
   - DVD、藍光光碟初回盤皆附有「特殊金箔字體」與八折海報A，通常盤則附有八折海報B。先行購入特典則再附送安室奈美惠新年賀卡。
   - 為紀錄DVD、藍光光碟發行，「TOWER RECORDS」涉谷店於12月20日至12月26日舉行限定未公開的相片展。
 

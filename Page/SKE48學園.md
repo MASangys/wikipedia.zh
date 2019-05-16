@@ -1,5 +1,5 @@
 **SKE48学園**（）是由2009年10月3日開始在[Sky
-PerfecTV\!的](../Page/Sky_PerfecTV!.md "wikilink")[エンタ\!371播放的](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+PerfecTV\!的](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")[エンタ\!371播放的](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 概要
 

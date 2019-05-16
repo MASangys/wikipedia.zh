@@ -118,7 +118,7 @@ A》、《CD+DVD B》、《CD ONLY》三種形態發售。
         作词：Kim Boomin、日本语词：Luna、作曲・编曲：Hitchhiker
         32nd单曲B面
         组合在2012年发行的第6张韩语专辑《[CATCH
-        ME](https://zh.wikipedia.org/wiki/CATCH_ME "wikilink")》中有收录这首歌的韩语版本
+        ME](../Page/CATCH_ME.md "wikilink")》中有收录这首歌的韩语版本
 11. Superstar
       -
         作词：Luna / Lars Halvor Jensen / Johannes Joergensen / Drew Ryan

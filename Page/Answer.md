@@ -4,7 +4,7 @@ Japan發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
 
 ## 概要
 
-與前作《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》夾著與專輯《[no3b](../Page/no3b_\(專輯\).md "wikilink")》相隔約7個月發售。表題曲「Answer」是[讀賣電視台和](../Page/讀賣電視台.md "wikilink")[日本電視台系](../Page/日本電視台.md "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")『[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")』的[主題曲和](../Page/主題曲.md "wikilink")[TBS系](../Page/TBS.md "wikilink")《[有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")》片尾曲作使用。
+與前作《[只有你](../Page/只有你_\(no3b單曲\).md "wikilink")》夾著與專輯《[no3b](https://zh.wikipedia.org/wiki/no3b_\(專輯\) "wikilink")》相隔約7個月發售。表題曲「Answer」是[讀賣電視台和](../Page/讀賣電視台.md "wikilink")[日本電視台系](../Page/日本電視台.md "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")『[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")』的[主題曲和](../Page/主題曲.md "wikilink")[TBS系](../Page/TBS.md "wikilink")《[有吉AKB共和国](https://zh.wikipedia.org/wiki/有吉AKB共和国 "wikilink")》片尾曲作使用。
 
 ## 收錄曲
 

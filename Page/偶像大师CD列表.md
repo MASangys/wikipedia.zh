@@ -151,8 +151,7 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 
 #### MASTER LIVE 系列
 
-收錄《[偶像大師
-為你而唱！](https://zh.wikipedia.org/wiki/偶像大師_為你而唱！ "wikilink")》初出的新歌的完整版。
+收錄《[偶像大師 為你而唱！](../Page/偶像大師_為你而唱！.md "wikilink")》初出的新歌的完整版。
 
   - THE IDOLM@STER Christmas for you\!
     2007年12月19日發售。
@@ -673,7 +672,7 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 ### CINDERELLA MASTER 系列
 
 本系列分为主题单曲、角色Solo曲、属性小组曲三部分，是[《偶像大师
-灰姑娘女孩》的主打CD系列](https://zh.wikipedia.org/wiki/偶像大师_灰姑娘女孩 "wikilink")。歌曲的演唱者与游戏中举办的“灰姑娘总选举”结果密切相关，一定程度上反映着角色的人气。
+灰姑娘女孩》的主打CD系列](../Page/偶像大师_灰姑娘女孩.md "wikilink")。歌曲的演唱者与游戏中举办的“灰姑娘总选举”结果密切相关，一定程度上反映着角色的人气。
 
 #### 主题单曲
 
@@ -693,31 +692,31 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 <td></td>
 <td><p>《偶像大师 灰姑娘女孩》主題曲</p></td>
 <td><p>2013.04.10</p></td>
-<td><p>岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）／小日向美穂（<a href="../Page/津田美波.md" title="wikilink">津田美波</a>）／三村加奈子（<a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a>）／涩谷凛（<a href="https://zh.wikipedia.org/wiki/福原綾香" title="wikilink">福原绫香</a>）／多田李衣菜（<a href="../Page/青木瑠璃子.md" title="wikilink">青木瑠璃子</a>）／神崎兰子（<a href="../Page/內田真禮.md" title="wikilink">内田真礼</a>）／本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）／城崎美嘉（<a href="https://zh.wikipedia.org/wiki/佳村遙" title="wikilink">佳村遥</a>）／城崎莉嘉（<a href="https://zh.wikipedia.org/wiki/山本希望" title="wikilink">山本希望</a>）／诸星琪拉莉（<a href="https://zh.wikipedia.org/wiki/松嵜麗" title="wikilink">松嵜麗</a>）／双叶杏（<a href="../Page/五十嵐裕美.md" title="wikilink">五十岚裕美</a>）</p></td>
+<td><p>岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／小日向美穂（<a href="../Page/津田美波.md" title="wikilink">津田美波</a>）／三村加奈子（<a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a>）／涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／多田李衣菜（<a href="../Page/青木瑠璃子.md" title="wikilink">青木瑠璃子</a>）／神崎兰子（<a href="../Page/內田真禮.md" title="wikilink">内田真礼</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／城崎美嘉（<a href="../Page/佳村遙.md" title="wikilink">佳村遥</a>）／城崎莉嘉（<a href="../Page/山本希望.md" title="wikilink">山本希望</a>）／诸星琪拉莉（<a href="../Page/松嵜麗.md" title="wikilink">松嵜麗</a>）／双叶杏（<a href="../Page/五十嵐裕美.md" title="wikilink">五十岚裕美</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>第二次灰姑娘总选举前五名</p></td>
 <td><p>2013.08.14</p></td>
-<td><p>神崎兰子（<a href="../Page/內田真禮.md" title="wikilink">内田真礼</a>）／安娜斯塔西娅（<a href="../Page/上坂堇.md" title="wikilink">上坂堇</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／舆水幸子（<a href="../Page/竹達彩奈.md" title="wikilink">竹达彩奈</a>）／涩谷凛（<a href="https://zh.wikipedia.org/wiki/福原綾香" title="wikilink">福原绫香</a>）／岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）／本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）</p></td>
+<td><p>神崎兰子（<a href="../Page/內田真禮.md" title="wikilink">内田真礼</a>）／安娜斯塔西娅（<a href="../Page/上坂堇.md" title="wikilink">上坂堇</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／舆水幸子（<a href="../Page/竹達彩奈.md" title="wikilink">竹达彩奈</a>）／涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>We're the friends!</p></td>
 <td><p>第三次灰姑娘总选举分属性前三名</p></td>
 <td><p>2014.07.30</p></td>
-<td><p>涩谷凛（<a href="https://zh.wikipedia.org/wiki/福原綾香" title="wikilink">福原绫香</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理恵</a>）／绪方智绘里（<a href="https://zh.wikipedia.org/wiki/大空直美" title="wikilink">大空直美</a>）／岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）／本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）／鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M･A･O</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／姬川友纪（）／高森蓝子（<a href="https://zh.wikipedia.org/wiki/金子有希" title="wikilink">金子有希</a>）</p></td>
+<td><p>涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理恵</a>）／绪方智绘里（<a href="../Page/大空直美.md" title="wikilink">大空直美</a>）／岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M･A･O</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／姬川友纪（）／高森蓝子（<a href="../Page/金子有希.md" title="wikilink">金子有希</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>Absolute NIne</p></td>
 <td><p>第四次灰姑娘总选举分属性前三名</p></td>
 <td><p>2015.07.29</p></td>
-<td><p>盐见周子（<a href="https://zh.wikipedia.org/wiki/卢婷" title="wikilink">卢婷</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／涩谷凛（<a href="https://zh.wikipedia.org/wiki/福原綾香" title="wikilink">福原绫香</a>）／前川未来（<a href="../Page/高森奈津美.md" title="wikilink">高森奈津美</a>）／一之濑志希（<a href="https://zh.wikipedia.org/wiki/藍原琴美" title="wikilink">蓝原琴美</a>）／岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）／相叶夕美（<a href="https://zh.wikipedia.org/wiki/木村珠莉" title="wikilink">木村珠莉</a>）／城崎美嘉（<a href="https://zh.wikipedia.org/wiki/佳村遙" title="wikilink">佳村遥</a>）／向井拓海（<a href="../Page/原優子.md" title="wikilink">原优子</a>）</p></td>
+<td><p>盐见周子（<a href="https://zh.wikipedia.org/wiki/卢婷" title="wikilink">卢婷</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／前川未来（<a href="../Page/高森奈津美.md" title="wikilink">高森奈津美</a>）／一之濑志希（<a href="https://zh.wikipedia.org/wiki/藍原琴美" title="wikilink">蓝原琴美</a>）／岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／相叶夕美（<a href="../Page/木村珠莉.md" title="wikilink">木村珠莉</a>）／城崎美嘉（<a href="../Page/佳村遙.md" title="wikilink">佳村遥</a>）／向井拓海（<a href="../Page/原優子.md" title="wikilink">原优子</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Take me☆Take you</p></td>
 <td><p>第五次灰姑娘总选举分属性前三名</p></td>
 <td><p>2016.11.16</p></td>
-<td><p>岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／三船美优（<a href="https://zh.wikipedia.org/wiki/原田彩楓" title="wikilink">原田彩枫</a>）／森久保乃乃（<a href="../Page/高橋花林.md" title="wikilink">高桥花林</a>）／依田芳乃（<a href="https://zh.wikipedia.org/wiki/高田忧希" title="wikilink">高田忧希</a>）／本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理恵</a>）／前川未来（<a href="../Page/高森奈津美.md" title="wikilink">高森奈津美</a>）／佐藤心（<a href="../Page/花守由美里.md" title="wikilink">花守由美里</a>）</p></td>
+<td><p>岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／三船美优（<a href="https://zh.wikipedia.org/wiki/原田彩楓" title="wikilink">原田彩枫</a>）／森久保乃乃（<a href="../Page/高橋花林.md" title="wikilink">高桥花林</a>）／依田芳乃（<a href="https://zh.wikipedia.org/wiki/高田忧希" title="wikilink">高田忧希</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理恵</a>）／前川未来（<a href="../Page/高森奈津美.md" title="wikilink">高森奈津美</a>）／佐藤心（<a href="../Page/花守由美里.md" title="wikilink">花守由美里</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>EVERMORE</p></td>
@@ -729,13 +728,13 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 <td><p>Treasure☆</p></td>
 <td><p>デレラジ和CINDERELLA PARTY!两个广播节目的合作曲</p></td>
 <td><p>2017.03.22</p></td>
-<td><p>岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）／涩谷凛（<a href="https://zh.wikipedia.org/wiki/福原綾香" title="wikilink">福原绫香</a>）／城崎美嘉（<a href="https://zh.wikipedia.org/wiki/佳村遙" title="wikilink">佳村遥</a>）／本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）／多田李衣菜（<a href="../Page/青木瑠璃子.md" title="wikilink">青木瑠璃子</a>）／绪方智绘里（<a href="https://zh.wikipedia.org/wiki/大空直美" title="wikilink">大空直美</a>）／城崎莉嘉（<a href="https://zh.wikipedia.org/wiki/山本希望" title="wikilink">山本希望</a>）</p></td>
+<td><p>岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／城崎美嘉（<a href="../Page/佳村遙.md" title="wikilink">佳村遥</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／多田李衣菜（<a href="../Page/青木瑠璃子.md" title="wikilink">青木瑠璃子</a>）／绪方智绘里（<a href="../Page/大空直美.md" title="wikilink">大空直美</a>）／城崎莉嘉（<a href="../Page/山本希望.md" title="wikilink">山本希望</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>第六次灰姑娘总选举分属性前三名</p></td>
 <td><p>2017.12.13</p></td>
-<td><p>高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）／藤原肇（<a href="https://zh.wikipedia.org/wiki/鈴木實里" title="wikilink">铃木实里</a>）／荒木比奈（<a href="https://zh.wikipedia.org/wiki/田邊留依" title="wikilink">田边留依</a>）／喜多见柚（<a href="https://zh.wikipedia.org/wiki/武田羅梨沙多胡" title="wikilink">武田罗梨沙多胡</a>）／佐久间麻由（<a href="../Page/牧野由依.md" title="wikilink">牧野由依</a>）／村上巴（<a href="https://zh.wikipedia.org/wiki/花井美春" title="wikilink">花井美春</a>）／关裕美（<a href="https://zh.wikipedia.org/wiki/會澤紗彌" title="wikilink">会泽纱弥</a>）／绪方智绘里（<a href="https://zh.wikipedia.org/wiki/大空直美" title="wikilink">大空直美</a>）</p></td>
+<td><p>高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／藤原肇（<a href="https://zh.wikipedia.org/wiki/鈴木實里" title="wikilink">铃木实里</a>）／荒木比奈（<a href="../Page/田邊留依.md" title="wikilink">田边留依</a>）／喜多见柚（<a href="https://zh.wikipedia.org/wiki/武田羅梨沙多胡" title="wikilink">武田罗梨沙多胡</a>）／佐久间麻由（<a href="../Page/牧野由依.md" title="wikilink">牧野由依</a>）／村上巴（<a href="https://zh.wikipedia.org/wiki/花井美春" title="wikilink">花井美春</a>）／关裕美（<a href="https://zh.wikipedia.org/wiki/會澤紗彌" title="wikilink">会泽纱弥</a>）／绪方智绘里（<a href="../Page/大空直美.md" title="wikilink">大空直美</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -748,7 +747,7 @@ IM@S）所推出的CD的列表，包括偶像大师、偶像大师 灰姑娘女�
 <td><p>《偶像大师 灰姑娘女孩 星光舞台》二周年纪念曲[4]<br />
 2017年代表歌曲[5]</p></td>
 <td><p>2018.03.07</p></td>
-<td><p>本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）／佐久间麻由（<a href="../Page/牧野由依.md" title="wikilink">牧野由依</a>）／鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M･A･O</a>）／舆水幸子（<a href="../Page/竹達彩奈.md" title="wikilink">竹达彩奈</a>）／新田美波（<a href="https://zh.wikipedia.org/wiki/洲崎綾" title="wikilink">洲崎绫</a>）／ 佐佐木千枝（<a href="../Page/今井麻夏.md" title="wikilink">今井麻夏</a>）／龙崎薫（<a href="https://zh.wikipedia.org/wiki/春瀨夏實" title="wikilink">春濑夏实</a>）／樱井桃华（<a href="https://zh.wikipedia.org/wiki/照井春佳" title="wikilink">照井春佳</a>）／赤城米利亚（<a href="https://zh.wikipedia.org/wiki/黑澤朋世" title="wikilink">黑泽朋世</a>）／市原仁奈（<a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a>）</p></td>
+<td><p>本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／佐久间麻由（<a href="../Page/牧野由依.md" title="wikilink">牧野由依</a>）／鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M･A･O</a>）／舆水幸子（<a href="../Page/竹達彩奈.md" title="wikilink">竹达彩奈</a>）／新田美波（<a href="../Page/洲崎綾.md" title="wikilink">洲崎绫</a>）／ 佐佐木千枝（<a href="../Page/今井麻夏.md" title="wikilink">今井麻夏</a>）／龙崎薫（<a href="https://zh.wikipedia.org/wiki/春瀨夏實" title="wikilink">春濑夏实</a>）／樱井桃华（<a href="https://zh.wikipedia.org/wiki/照井春佳" title="wikilink">照井春佳</a>）／赤城米利亚（<a href="../Page/黑澤朋世.md" title="wikilink">黑泽朋世</a>）／市原仁奈（<a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -788,9 +787,9 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 <td><p>第1弹</p></td>
 <td><p>2012年4月18日</p></td>
 <td><p>001</p></td>
-<td><p>涩谷凛（<a href="https://zh.wikipedia.org/wiki/福原綾香" title="wikilink">福原绫香</a>）</p></td>
+<td><p>涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）</p></td>
 <td><p>Never say never</p></td>
-<td><p>远山明孝、八城雄太（<a href="https://zh.wikipedia.org/wiki/万代南梦宫娱乐" title="wikilink">NBGI</a>）</p></td>
+<td><p>远山明孝、八城雄太（<a href="../Page/万代南梦宫娱乐.md" title="wikilink">NBGI</a>）</p></td>
 <td><p>远山明孝（NBGI）</p></td>
 <td><p>关淳二郎</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a> 周榜初始上位第6名</p></td>
@@ -822,7 +821,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 <td><p>高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）</p></td>
 <td></td>
 <td><p>贝田由里子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/椎名豪" title="wikilink">椎名豪</a> （NBGI）</p></td>
+<td><p><a href="../Page/椎名豪.md" title="wikilink">椎名豪</a> （NBGI）</p></td>
 <td><p>Oricon公信榜 周榜初始上位第7名</p></td>
 <td></td>
 <td></td>
@@ -830,7 +829,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>005</p></td>
-<td><p>城崎莉嘉（<a href="https://zh.wikipedia.org/wiki/山本希望" title="wikilink">山本希望</a>）</p></td>
+<td><p>城崎莉嘉（<a href="../Page/山本希望.md" title="wikilink">山本希望</a>）</p></td>
 <td></td>
 <td><p>佐藤贵文（NBGI）</p></td>
 <td><p>Oricon公信榜 周榜初始上位第9名</p></td>
@@ -863,7 +862,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="even">
 <td><p>008</p></td>
-<td><p>诸星琪拉莉（<a href="https://zh.wikipedia.org/wiki/松嵜麗" title="wikilink">松嵜丽</a>）</p></td>
+<td><p>诸星琪拉莉（<a href="../Page/松嵜麗.md" title="wikilink">松嵜丽</a>）</p></td>
 <td></td>
 <td><p>（NBSI）</p></td>
 <td><p>Oricon公信榜 周榜初始上位第10名</p></td>
@@ -874,7 +873,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>009</p></td>
-<td><p>城崎美嘉（<a href="https://zh.wikipedia.org/wiki/佳村遙" title="wikilink">佳村遥</a>）</p></td>
+<td><p>城崎美嘉（<a href="../Page/佳村遙.md" title="wikilink">佳村遥</a>）</p></td>
 <td></td>
 <td><p>marhy</p></td>
 <td><p>内田哲也（NBSI）</p></td>
@@ -885,7 +884,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="even">
 <td><p>010</p></td>
-<td><p>岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）</p></td>
+<td><p>岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）</p></td>
 <td><p>S(mile)ING!</p></td>
 <td><p>八城雄太（NBSI）</p></td>
 <td><p>Yoshi（NBSI）</p></td>
@@ -940,7 +939,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>015</p></td>
-<td><p>本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）</p></td>
+<td><p>本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）</p></td>
 <td></td>
 <td><p>八城雄太（NBSI）</p></td>
 <td><p>kyo（NBSI）</p></td>
@@ -962,7 +961,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>017</p></td>
-<td><p>赤城米利亚（<a href="https://zh.wikipedia.org/wiki/黑澤朋世" title="wikilink">黑泽朋世</a>）</p></td>
+<td><p>赤城米利亚（<a href="../Page/黑澤朋世.md" title="wikilink">黑泽朋世</a>）</p></td>
 <td><p>Romantic Now</p></td>
 <td><p>MC TC（NBSI）</p></td>
 <td><p>Taku Inoue（NBSI）</p></td>
@@ -984,7 +983,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>019</p></td>
-<td><p>新田美波（<a href="https://zh.wikipedia.org/wiki/洲崎綾" title="wikilink">洲崎绫</a>）</p></td>
+<td><p>新田美波（<a href="../Page/洲崎綾.md" title="wikilink">洲崎绫</a>）</p></td>
 <td></td>
 <td><p>古谷真</p></td>
 <td><p>kyo（NBSI）</p></td>
@@ -1017,7 +1016,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="even">
 <td><p>022</p></td>
-<td><p>白坂小梅（<a href="https://zh.wikipedia.org/wiki/櫻咲千依" title="wikilink">樱咲千依</a>）</p></td>
+<td><p>白坂小梅（<a href="../Page/櫻咲千依.md" title="wikilink">樱咲千依</a>）</p></td>
 <td></td>
 <td><p>八城雄太（NBGI）、佐藤贵文（NBSI）</p></td>
 <td><p>佐藤贵文（NBSI）</p></td>
@@ -1028,7 +1027,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>023</p></td>
-<td><p>绪方智绘里（<a href="https://zh.wikipedia.org/wiki/大空直美" title="wikilink">大空直美</a>）</p></td>
+<td><p>绪方智绘里（<a href="../Page/大空直美.md" title="wikilink">大空直美</a>）</p></td>
 <td></td>
 <td><p>（NBSI）</p></td>
 <td><p>Oricon公信榜 周榜初始上位第15名</p></td>
@@ -1050,7 +1049,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>025</p></td>
-<td><p>高森蓝子（<a href="https://zh.wikipedia.org/wiki/金子有希" title="wikilink">金子有希</a>）</p></td>
+<td><p>高森蓝子（<a href="../Page/金子有希.md" title="wikilink">金子有希</a>）</p></td>
 <td><td colspan="2">
 </td></td>
 <td><p>今泉洋</p></td>
@@ -1073,7 +1072,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="odd">
 <td><p>027</p></td>
-<td><p>神谷奈緒（<a href="https://zh.wikipedia.org/wiki/松井惠理子" title="wikilink">松井惠理子</a>）</p></td>
+<td><p>神谷奈緒（<a href="../Page/松井惠理子.md" title="wikilink">松井惠理子</a>）</p></td>
 <td><p>2nd SIDE</p></td>
 <td><p>ESTi</p></td>
 <td><p>Oricon公信榜 周榜初始上位第7名</p></td>
@@ -1106,7 +1105,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="even">
 <td><p>030</p></td>
-<td><p>堀裕子（<a href="https://zh.wikipedia.org/wiki/鈴木繪理" title="wikilink">铃木绘理</a>）</p></td>
+<td><p>堀裕子（<a href="../Page/鈴木繪理.md" title="wikilink">铃木绘理</a>）</p></td>
 <td></td>
 <td><p>日暮裕纪</p></td>
 <td><p>Oricon公信榜 周榜初始上位第12名</p></td>
@@ -1150,7 +1149,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="even">
 <td><p>034</p></td>
-<td><p>速水奏（<a href="https://zh.wikipedia.org/wiki/飯田友子" title="wikilink">饭田友子</a>）</p></td>
+<td><p>速水奏（<a href="../Page/飯田友子.md" title="wikilink">饭田友子</a>）</p></td>
 <td><p>Hotel Moonside</p></td>
 <td><p>MC TC（BNSI）</p></td>
 <td><p>Taku Inoue（BNSI）</p></td>
@@ -1295,7 +1294,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 <tr class="odd">
 <td><p>044</p>
 <td xml:lang="ja">
-<p>相叶夕美（<a href="https://zh.wikipedia.org/wiki/木村珠莉" title="wikilink">木村珠莉</a>）</p>
+<p>相叶夕美（<a href="../Page/木村珠莉.md" title="wikilink">木村珠莉</a>）</p>
 </td></td>
 <td><p>lilac time</p>
 <td colspan="3" xml:lang="ja">
@@ -1410,20 +1409,20 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 <td><p>001</p></td>
 <td><p>Nation Blue</p></td>
 <td><p>2013.09.25</p></td>
-<td><p>涩谷凛（<a href="https://zh.wikipedia.org/wiki/福原綾香" title="wikilink">福原绫香</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／神崎兰子（<a href="../Page/內田真禮.md" title="wikilink">内田真礼</a>）／多田李衣菜（<a href="../Page/青木瑠璃子.md" title="wikilink">青木瑠璃子</a>）／新田美波（<a href="https://zh.wikipedia.org/wiki/洲崎綾" title="wikilink">洲崎绫</a>）</p></td>
+<td><p>涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／神崎兰子（<a href="../Page/內田真禮.md" title="wikilink">内田真礼</a>）／多田李衣菜（<a href="../Page/青木瑠璃子.md" title="wikilink">青木瑠璃子</a>）／新田美波（<a href="../Page/洲崎綾.md" title="wikilink">洲崎绫</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>002</p></td>
 <td></td>
 <td><p>2014.12.17</p></td>
-<td><p>川岛瑞树（<a href="../Page/東山奈央.md" title="wikilink">东山奈央</a>）／白坂小梅（<a href="https://zh.wikipedia.org/wiki/櫻咲千依" title="wikilink">樱咲千依</a>）／安娜斯塔西娅（<a href="../Page/上坂堇.md" title="wikilink">上坂堇</a>）／神谷奈绪（<a href="https://zh.wikipedia.org/wiki/松井惠理子" title="wikilink">松井惠理子</a>）／北条加莲（<a href="https://zh.wikipedia.org/wiki/淵上舞_(聲優)" title="wikilink">渕上舞</a>）</p></td>
+<td><p>川岛瑞树（<a href="../Page/東山奈央.md" title="wikilink">东山奈央</a>）／白坂小梅（<a href="../Page/櫻咲千依.md" title="wikilink">樱咲千依</a>）／安娜斯塔西娅（<a href="../Page/上坂堇.md" title="wikilink">上坂堇</a>）／神谷奈绪（<a href="../Page/松井惠理子.md" title="wikilink">松井惠理子</a>）／北条加莲（<a href="https://zh.wikipedia.org/wiki/淵上舞_(聲優)" title="wikilink">渕上舞</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>003</p></td>
 <td></td>
 <td><p>2016.06.29</p></td>
-<td><p>鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M・A・O</a>）／速水奏（<a href="https://zh.wikipedia.org/wiki/飯田友子" title="wikilink">饭田友子</a>）／橘爱丽丝（<a href="../Page/佐藤亞美菜.md" title="wikilink">佐藤亚美菜</a>）／盐见周子（<a href="https://zh.wikipedia.org/wiki/卢婷" title="wikilink">卢婷</a>）／二宫飞鸟（<a href="https://zh.wikipedia.org/wiki/青木志貴" title="wikilink">青木志贵</a>）</p></td>
+<td><p>鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M・A・O</a>）／速水奏（<a href="../Page/飯田友子.md" title="wikilink">饭田友子</a>）／橘爱丽丝（<a href="../Page/佐藤亞美菜.md" title="wikilink">佐藤亚美菜</a>）／盐见周子（<a href="https://zh.wikipedia.org/wiki/卢婷" title="wikilink">卢婷</a>）／二宫飞鸟（<a href="https://zh.wikipedia.org/wiki/青木志貴" title="wikilink">青木志贵</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1431,13 +1430,13 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 <td><p>001</p></td>
 <td></td>
 <td><p>2013.10.09</p></td>
-<td><p>双叶杏（<a href="../Page/五十嵐裕美.md" title="wikilink">五十岚裕美</a>）／前川未来（<a href="../Page/高森奈津美.md" title="wikilink">高森奈津美</a>）／岛村卯月（<a href="https://zh.wikipedia.org/wiki/大橋彩香" title="wikilink">大桥彩香</a>）／小日向美穗（<a href="../Page/津田美波.md" title="wikilink">津田美波</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理惠</a>）</p></td>
+<td><p>双叶杏（<a href="../Page/五十嵐裕美.md" title="wikilink">五十岚裕美</a>）／前川未来（<a href="../Page/高森奈津美.md" title="wikilink">高森奈津美</a>）／岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／小日向美穗（<a href="../Page/津田美波.md" title="wikilink">津田美波</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理惠</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>002</p></td>
 <td></td>
 <td><p>2014.12.31</p></td>
-<td><p>三村加奈子（<a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a>）／舆水幸子（<a href="../Page/竹達彩奈.md" title="wikilink">竹达彩奈</a>）／佐久间麻由（<a href="../Page/牧野由依.md" title="wikilink">牧野由依</a>）／绪方智绘里（<a href="https://zh.wikipedia.org/wiki/大空直美" title="wikilink">大空直美</a>）／小早川纱枝（<a href="../Page/立花理香.md" title="wikilink">立花理香</a>）</p></td>
+<td><p>三村加奈子（<a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a>）／舆水幸子（<a href="../Page/竹達彩奈.md" title="wikilink">竹达彩奈</a>）／佐久间麻由（<a href="../Page/牧野由依.md" title="wikilink">牧野由依</a>）／绪方智绘里（<a href="../Page/大空直美.md" title="wikilink">大空直美</a>）／小早川纱枝（<a href="../Page/立花理香.md" title="wikilink">立花理香</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1452,20 +1451,20 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 <td><p>001</p></td>
 <td><p>Orange Sapphire</p></td>
 <td><p>2013.10.02</p></td>
-<td><p>城崎莉嘉（<a href="https://zh.wikipedia.org/wiki/山本希望" title="wikilink">山本希望</a>）／诸星琪拉莉（<a href="https://zh.wikipedia.org/wiki/松嵜麗" title="wikilink">松嵜丽</a>）／城崎美嘉（<a href="https://zh.wikipedia.org/wiki/佳村遙" title="wikilink">佳村遥</a>）／本田未央（<a href="https://zh.wikipedia.org/wiki/原紗友里" title="wikilink">原纱友里</a>）／赤城米利亚（<a href="https://zh.wikipedia.org/wiki/黑澤朋世" title="wikilink">黑泽朋世</a>）</p></td>
+<td><p>城崎莉嘉（<a href="../Page/山本希望.md" title="wikilink">山本希望</a>）／诸星琪拉莉（<a href="../Page/松嵜麗.md" title="wikilink">松嵜丽</a>）／城崎美嘉（<a href="../Page/佳村遙.md" title="wikilink">佳村遥</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／赤城米利亚（<a href="../Page/黑澤朋世.md" title="wikilink">黑泽朋世</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>002</p></td>
 <td></td>
 <td><p>2014.12.24</p></td>
-<td><p>十时爱梨（<a href="../Page/原田瞳.md" title="wikilink">原田瞳</a>）／日野茜（<a href="../Page/赤崎千夏.md" title="wikilink">赤崎千夏</a>）／高森蓝子（<a href="https://zh.wikipedia.org/wiki/金子有希" title="wikilink">金子有希</a>）／星辉子（<a href="../Page/松田颯水.md" title="wikilink">松田飒水</a>）／堀裕子（<a href="https://zh.wikipedia.org/wiki/鈴木繪理" title="wikilink">铃木绘理</a>）</p></td>
+<td><p>十时爱梨（<a href="../Page/原田瞳.md" title="wikilink">原田瞳</a>）／日野茜（<a href="../Page/赤崎千夏.md" title="wikilink">赤崎千夏</a>）／高森蓝子（<a href="../Page/金子有希.md" title="wikilink">金子有希</a>）／星辉子（<a href="../Page/松田颯水.md" title="wikilink">松田飒水</a>）／堀裕子（<a href="../Page/鈴木繪理.md" title="wikilink">铃木绘理</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>003</p></td>
 <td></td>
 <td><p>2016.06.15</p></td>
-<td><p>姬川友纪（）／市原仁奈（<a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a>）／片桐早苗（<a href="../Page/和氣杏未.md" title="wikilink">和气杏未</a>）／大槻唯（<a href="https://zh.wikipedia.org/wiki/山下七海" title="wikilink">山下七海</a>）／相叶夕美（<a href="https://zh.wikipedia.org/wiki/木村珠莉" title="wikilink">木村珠莉</a>）</p></td>
+<td><p>姬川友纪（）／市原仁奈（<a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a>）／片桐早苗（<a href="../Page/和氣杏未.md" title="wikilink">和气杏未</a>）／大槻唯（<a href="https://zh.wikipedia.org/wiki/山下七海" title="wikilink">山下七海</a>）／相叶夕美（<a href="../Page/木村珠莉.md" title="wikilink">木村珠莉</a>）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1474,7 +1473,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 ### ANIMATION PROJECT 系列
 
 本系列收录电视动画[《偶像大师
-灰姑娘女孩》第一期中所出现的歌曲](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩_\(動畫\) "wikilink")。包含动画两期背景音乐的原声带专辑因命名原因亦被归于此系列中。
+灰姑娘女孩》第一期中所出现的歌曲](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")。包含动画两期背景音乐的原声带专辑因命名原因亦被归于此系列中。
 
 <table>
 <thead>
@@ -1563,7 +1562,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 ### ANIMATION PROJECT 2nd Season 系列
 
 本系列收录电视动画[《偶像大师
-灰姑娘女孩》第二期中所出现的歌曲](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩_\(動畫\) "wikilink")。
+灰姑娘女孩》第二期中所出现的歌曲](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")。
 
 <table>
 <thead>

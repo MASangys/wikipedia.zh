@@ -1,5 +1,5 @@
 「**depArture**」（啟程）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")4枚原創專輯。於2009年2月11日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

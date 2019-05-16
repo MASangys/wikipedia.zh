@@ -1,7 +1,7 @@
 **Menlo**是一個[无衬线](../Page/无衬线体.md "wikilink")[等宽字体](../Page/等宽字体.md "wikilink")，由设计，首次出现於2009年8月上市的[Mac
 OS X Snow
 Leopard系统内建字体之一](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")。基於[开源字体](https://zh.wikipedia.org/wiki/开源 "wikilink")[Bitstream
-Vera与](https://zh.wikipedia.org/wiki/Bitstream_Vera "wikilink")[自由版權字体](../Page/自由內容.md "wikilink")[DejaVu字体改良而来](../Page/DejaVu字体.md "wikilink")\[1\]。
+Vera与](../Page/Bitstream_Vera.md "wikilink")[自由版權字体](../Page/自由內容.md "wikilink")[DejaVu字体改良而来](../Page/DejaVu字体.md "wikilink")\[1\]。
 
 继[Monaco字体之後](../Page/Monaco.md "wikilink")，Menlo作为Terminal的預設字體\[2\]。
 

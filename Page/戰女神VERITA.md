@@ -1,4 +1,4 @@
-為[Eushully社於](../Page/Eushully.md "wikilink")2010年4月23日發售之[角色扮演類型](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]其背景設定為[Eushully社旗下兩大系列作品](../Page/Eushully.md "wikilink")「[戰女神](../Page/戰女神.md "wikilink")」與「[幻燐的姫将軍](https://zh.wikipedia.org/wiki/幻燐的姬將軍 "wikilink")」的延伸，填補了兩個在同塊大陸交會交織的空白歷史。2010年獲得「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2010」的銀賞\[2\]。
+為[Eushully社於](../Page/Eushully.md "wikilink")2010年4月23日發售之[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]其背景設定為[Eushully社旗下兩大系列作品](../Page/Eushully.md "wikilink")「[戰女神](../Page/戰女神.md "wikilink")」與「[幻燐的姫将軍](https://zh.wikipedia.org/wiki/幻燐的姬將軍 "wikilink")」的延伸，填補了兩個在同塊大陸交會交織的空白歷史。2010年獲得「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2010」的銀賞\[2\]。
 
 ## 故事
 

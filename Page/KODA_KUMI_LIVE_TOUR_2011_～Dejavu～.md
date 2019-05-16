@@ -76,7 +76,7 @@
 
   - CD ONLY
       - 為FC（粉絲俱樂部）限定發行，對外則為租借盤
-  - [Itunes](../Page/Itunes.md "wikilink")
+  - [Itunes](https://zh.wikipedia.org/wiki/Itunes "wikilink")
 
 ### 曲目
 

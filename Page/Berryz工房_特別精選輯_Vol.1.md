@@ -29,8 +29,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[山崎淳](https://zh.wikipedia.org/wiki/山崎淳 "wikilink")）
 2.  **[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")**（あなたなしでは生きてゆけない）
-    （作詞・作曲：淳君
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    （作詞・作曲：淳君 編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         1st單曲
 3.  **[活力上路\!](https://zh.wikipedia.org/wiki/活力上路! "wikilink")**
@@ -62,7 +61,8 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     編曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")）
       -
         6th單曲
-9.  **[這是怎樣的戀愛 YOU KNOW?](../Page/這是怎樣的戀愛_YOU_KNOW?.md "wikilink")**
+9.  **[這是怎樣的戀愛 YOU
+    KNOW?](https://zh.wikipedia.org/wiki/這是怎樣的戀愛_YOU_KNOW? "wikilink")**
     ()
     （作詞・作曲：淳君 編曲：平田祥一郎）
       -

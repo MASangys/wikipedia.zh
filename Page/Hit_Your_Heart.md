@@ -10,7 +10,7 @@ MINE](../Page/I_My_Me_Mine.md "wikilink")》的宣傳，更在活動後發行同
 4MINUTE以更强烈的的面貌归来，第2张迷你专辑《HIT YOUR HEART》比《HOT ISSUE》和《MUZIK》有更強Counter
 Funch，以顯出更强烈的4minute風格。第一首歌曲《WHO'S NEXT? (Feat. BEAST)》就是與同為[Cube
 Entertainment旗下藝人的男团](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[BEAST合作](https://zh.wikipedia.org/wiki/BEAST "wikilink")，並在2010年5月17日首先公开MV
-teaser。视频一起，歌曲擁有强烈的beat和力动的hook，让人感觉到了不平凡的抱负，表现了4MINUTE的自信感。主打歌《HUH》是通过4MINUTE和BEAST得到海外市场肯定的作曲家[新沙洞老虎的作品](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")，用日常话说就是和哼的意思差不多，4MINUTE唱着'HUH'对打断自己的梦的世界说'NO\!'！不要期待我们和其他人有相同的东西，变身为rapper的权昭贤的新的面貌和高水准的歌强烈地洗练的sound发表之后真的会让所有人吃惊。除了强烈的主打歌《HUH》之外，还有新鲜的hip
+teaser。视频一起，歌曲擁有强烈的beat和力动的hook，让人感觉到了不平凡的抱负，表现了4MINUTE的自信感。主打歌《HUH》是通过4MINUTE和BEAST得到海外市场肯定的作曲家[新沙洞老虎的作品](../Page/新沙洞老虎.md "wikilink")，用日常话说就是和哼的意思差不多，4MINUTE唱着'HUH'对打断自己的梦的世界说'NO\!'！不要期待我们和其他人有相同的东西，变身为rapper的权昭贤的新的面貌和高水准的歌强烈地洗练的sound发表之后真的会让所有人吃惊。除了强烈的主打歌《HUH》之外，还有新鲜的hip
 hop歌《INVITATION》，中毒性的旋律明确表现4minute个性的《I MY ME
 MINE》和《HIGHLIGHT》，与其他收录取相反风格的《BABABA》，出道后初次尝试的甜美的慢歌《태연하게
 당연하게》等将最大地体现专辑全部的价值所长。向世界宣告：4MINUTE On The Top！

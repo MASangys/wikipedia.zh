@@ -1,4 +1,4 @@
-**角川Beans文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA旗下](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")[角川書店出版的](../Page/角川書店.md "wikilink")[輕小說文庫](../Page/輕小說.md "wikilink")，內容以少女向作品為主。
+**角川Beans文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA旗下](../Page/KADOKAWA.md "wikilink")[角川書店出版的](../Page/角川書店.md "wikilink")[輕小說文庫](../Page/輕小說.md "wikilink")，內容以少女向作品為主。
 
 ## 概要
 

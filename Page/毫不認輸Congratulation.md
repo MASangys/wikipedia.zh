@@ -125,7 +125,7 @@ A面曲《毫不認輸Congratulation》的[PV中](https://zh.wikipedia.org/wiki/
 
   - 1期生：今吉めぐみ、[大河内美紗](https://zh.wikipedia.org/wiki/大河内美紗 "wikilink")、**[甲斐田樹里](../Page/甲斐田樹里.md "wikilink")**、[手束真知子](../Page/手束真知子.md "wikilink")、[なちゅ](https://zh.wikipedia.org/wiki/なちゅ "wikilink")、[西国原礼子](https://zh.wikipedia.org/wiki/西国原礼子 "wikilink")、三ツ井裕美
   - 2期生：大山愛未、[奈津子](../Page/奈津子.md "wikilink")、細田海友、松島瑠美
-  - 3期生：[駒谷仁美](../Page/駒谷仁美.md "wikilink")、[尻無浜冴美](https://zh.wikipedia.org/wiki/尻無浜冴美 "wikilink")、シヨン、[miray](../Page/miray.md "wikilink")
+  - 3期生：[駒谷仁美](../Page/駒谷仁美.md "wikilink")、[尻無浜冴美](https://zh.wikipedia.org/wiki/尻無浜冴美 "wikilink")、シヨン、[miray](https://zh.wikipedia.org/wiki/miray "wikilink")
 
 ### 安可並沒有結束
 

@@ -1,4 +1,4 @@
-《**W的悲劇**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[夏樹靜子](https://zh.wikipedia.org/wiki/夏樹靜子 "wikilink")1982年發行的[推理小說](../Page/推理小說.md "wikilink")。
+《**W的悲劇**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[夏樹靜子](../Page/夏樹靜子.md "wikilink")1982年發行的[推理小說](../Page/推理小說.md "wikilink")。
 
 ## 簡介
 
@@ -43,7 +43,7 @@
   - 和辻峰：[高峰三枝子](https://zh.wikipedia.org/wiki/高峰三枝子 "wikilink")
   - 和辻淑枝：[松尾嘉代](https://zh.wikipedia.org/wiki/松尾嘉代 "wikilink")
   - 和辻摩子：[川上麻衣子](https://zh.wikipedia.org/wiki/川上麻衣子 "wikilink")
-  - 和辻道彦：[江原真二郎](https://zh.wikipedia.org/wiki/江原真二郎 "wikilink")
+  - 和辻道彦：[江原真二郎](../Page/江原真二郎.md "wikilink")
   - 和辻繁：[攏田裕介](https://zh.wikipedia.org/wiki/攏田裕介 "wikilink")
   - 和辻與兵衛：[高野真二](https://zh.wikipedia.org/wiki/高野真二 "wikilink")
   - 間崎鐘平：[藤木孝](https://zh.wikipedia.org/wiki/藤木孝 "wikilink")
@@ -187,7 +187,7 @@
 
 <!-- end list -->
 
-  - **和辻峰（62）**（緯來日本台將名字譯為「美音」）：[野際陽子](https://zh.wikipedia.org/wiki/野際陽子 "wikilink")
+  - **和辻峰（62）**（緯來日本台將名字譯為「美音」）：[野際陽子](../Page/野際陽子.md "wikilink")
 
 <!-- end list -->
 

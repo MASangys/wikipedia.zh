@@ -16,7 +16,7 @@ Cry**》是[SBS由](https://zh.wikipedia.org/wiki/SBS "wikilink")2011年5月22�
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/申東燁" title="wikilink">申東燁</a></li>
+<li><a href="../Page/申東燁.md" title="wikilink">申東燁</a></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/金妍兒.md" title="wikilink">金妍兒</a></li>
@@ -33,7 +33,7 @@ Cry**》是[SBS由](https://zh.wikipedia.org/wiki/SBS "wikilink")2011年5月22�
 
 #### 其他評審
 
-  - [大衛·威爾森](https://zh.wikipedia.org/wiki/大衛·威爾森 "wikilink")
+  - [大衛·威爾森](../Page/大衛·威爾森.md "wikilink")
   - [朴海美](../Page/朴海美.md "wikilink")
   - [崔正媛](https://zh.wikipedia.org/wiki/崔正媛 "wikilink")
   - [方成雅](https://zh.wikipedia.org/wiki/方成雅 "wikilink")
@@ -67,7 +67,7 @@ Cry**》是[SBS由](https://zh.wikipedia.org/wiki/SBS "wikilink")2011年5月22�
 <li><a href="../Page/李雅賢.md" title="wikilink">李雅賢</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/陳智熙" title="wikilink">陳智熙</a></li>
+<li><a href="../Page/陳智熙.md" title="wikilink">陳智熙</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/徐智碩" title="wikilink">徐智碩</a></li>
@@ -487,7 +487,7 @@ Tik Tok <small>by <a href="https://zh.wikipedia.org/wiki/Ke$ha" title="wikilink"
 <small>by 林亨柱</small></p></td>
 <td><p>Lesiem<br />
 Jai ho<small>by <a href="https://zh.wikipedia.org/wiki/小野貓" title="wikilink">小野貓</a></small></p></td>
-<td><p>愛情雨 <small>by <a href="https://zh.wikipedia.org/wiki/金泰宇" title="wikilink">金泰宇</a></small></p></td>
+<td><p>愛情雨 <small>by <a href="../Page/金泰宇.md" title="wikilink">金泰宇</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>分數</p></td>

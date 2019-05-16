@@ -38,7 +38,7 @@ Medina Estévez在2005年4月19日宣布。这也是有史以来第一次宣报�
 
 ## 宣告的拉丁文法
 
-通常，以拉丁文的[宾格说出教宗的教名](../Page/宾格.md "wikilink")，例如从现任起最近七任教宗——[方濟各](https://zh.wikipedia.org/wiki/方濟各_\(教宗\) "wikilink")、[本笃十六世](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")\[6\]、[若望保禄二世](https://zh.wikipedia.org/wiki/若望保禄二世 "wikilink")\[7\]、[若望·保禄一世](../Page/若望·保禄一世.md "wikilink")\[8\]、[保禄六世](https://zh.wikipedia.org/wiki/保禄六世 "wikilink")\[9\]、[若望二十三世](../Page/若望二十三世.md "wikilink")\[10\]、[庇护十二世](https://zh.wikipedia.org/wiki/庇护十二世 "wikilink")\[11\]的教名Georgium
+通常，以拉丁文的[宾格说出教宗的教名](../Page/宾格.md "wikilink")，例如从现任起最近七任教宗——[方濟各](../Page/方濟各_\(教宗\).md "wikilink")、[本笃十六世](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")\[6\]、[若望保禄二世](https://zh.wikipedia.org/wiki/若望保禄二世 "wikilink")\[7\]、[若望·保禄一世](../Page/若望·保禄一世.md "wikilink")\[8\]、[保禄六世](https://zh.wikipedia.org/wiki/保禄六世 "wikilink")\[9\]、[若望二十三世](../Page/若望二十三世.md "wikilink")\[10\]、[庇护十二世](https://zh.wikipedia.org/wiki/庇护十二世 "wikilink")\[11\]的教名Georgium
 Marium、Iosephum、Carolum、Albinum、Ioannem Baptistam、Angelum
 Iosephum、Eugenium；再以原语言说出教宗的[姓](https://zh.wikipedia.org/wiki/姓 "wikilink")，上述六任教宗的姓分别是西班牙文、德文、波兰文、意大利文（后四位），即Bergoglio、Ratzinger、Wojtyła、Luciani、Montini、Roncalli、Pacelli；教宗的则由[属格说出](../Page/属格.md "wikilink")，本笃十六世的Benedicti
 decimi sexti、若望·保禄一世的Ioannis Pauli primi、若望二十三世的Ioannis vigesimi
@@ -96,7 +96,7 @@ Pauli"\[14\]。
 
   - 在2005年宣告了[本笃十六世的当选](https://zh.wikipedia.org/wiki/本笃十六世 "wikilink")
 
-  - [珍-路易·托朗在](https://zh.wikipedia.org/wiki/讓-路易·托朗 "wikilink")2013年宣告了[方濟各的当选](https://zh.wikipedia.org/wiki/方濟各_\(教宗\) "wikilink")
+  - [珍-路易·托朗在](https://zh.wikipedia.org/wiki/讓-路易·托朗 "wikilink")2013年宣告了[方濟各的当选](../Page/方濟各_\(教宗\).md "wikilink")
 
 ## 参考文献
 
@@ -122,13 +122,13 @@ Pauli"\[14\]。
 4.  [Benedict
     XVI](http://www.bbc.co.uk/religion/religions/christianity/pope/benedictxvi_1.shtml)，[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")，Tara
     Holmes, Last updated 2009年8月6日
-5.  [宣告本笃十六世，美国NBC电视台转播（英语解说）](http://www.youtube.com/watch?v=-ws0AmufB8g)，[Youtube](../Page/Youtube.md "wikilink")
-6.  [宣告本笃十六世，美国NBC电视台转播（英语解说）](http://www.youtube.com/watch?v=-ws0AmufB8g)，[Youtube](../Page/Youtube.md "wikilink")
-7.  [宣告若望·保禄二世，美国ABC电视台转播（英语解说）](http://www.youtube.com/watch?v=cSmOp-ns6Yw)，[Youtube](../Page/Youtube.md "wikilink")
-8.  [宣告若望·保禄一世，美国NBC电视台转播（意大利语解说）](http://www.youtube.com/watch?v=X8umNO-Dsaw)，[Youtube](../Page/Youtube.md "wikilink")
-9.  [宣告保禄六世（意大利语解说）](http://www.youtube.com/watch?v=PhIh7xYEy_0)，[Youtube](../Page/Youtube.md "wikilink")
-10. [宣告若望二十三世（意大利语解说）](http://www.youtube.com/watch?v=ZSPqIAlZK8g)，[Youtube](../Page/Youtube.md "wikilink")
-11. [宣告庇护十二世（意大利语解说）](http://www.youtube.com/watch?v=YcpPYyEtcA0)，[Youtube](../Page/Youtube.md "wikilink")
-12. [宣告庇护十二世（意大利语解说）](http://www.youtube.com/watch?v=YcpPYyEtcA0)，[Youtube](../Page/Youtube.md "wikilink")
-13. [宣告保禄六世（意大利语解说）](http://www.youtube.com/watch?v=PhIh7xYEy_0)，[Youtube](../Page/Youtube.md "wikilink")
-14. [宣告若望·保禄二世，美国ABC电视台转播（英语解说）](http://www.youtube.com/watch?v=cSmOp-ns6Yw)，[Youtube](../Page/Youtube.md "wikilink")
+5.  [宣告本笃十六世，美国NBC电视台转播（英语解说）](http://www.youtube.com/watch?v=-ws0AmufB8g)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+6.  [宣告本笃十六世，美国NBC电视台转播（英语解说）](http://www.youtube.com/watch?v=-ws0AmufB8g)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+7.  [宣告若望·保禄二世，美国ABC电视台转播（英语解说）](http://www.youtube.com/watch?v=cSmOp-ns6Yw)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+8.  [宣告若望·保禄一世，美国NBC电视台转播（意大利语解说）](http://www.youtube.com/watch?v=X8umNO-Dsaw)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+9.  [宣告保禄六世（意大利语解说）](http://www.youtube.com/watch?v=PhIh7xYEy_0)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+10. [宣告若望二十三世（意大利语解说）](http://www.youtube.com/watch?v=ZSPqIAlZK8g)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+11. [宣告庇护十二世（意大利语解说）](http://www.youtube.com/watch?v=YcpPYyEtcA0)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+12. [宣告庇护十二世（意大利语解说）](http://www.youtube.com/watch?v=YcpPYyEtcA0)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+13. [宣告保禄六世（意大利语解说）](http://www.youtube.com/watch?v=PhIh7xYEy_0)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+14. [宣告若望·保禄二世，美国ABC电视台转播（英语解说）](http://www.youtube.com/watch?v=cSmOp-ns6Yw)，[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")

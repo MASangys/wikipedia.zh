@@ -8,11 +8,11 @@ Roth）以C++重制，并发布于[Humble Indie Bundle
 Pandora平台\[1\]，需要Windows、Mac OS X或Linux版的数据文件即可运行。
 
 在《VVVVVV》中，玩家将扮演异次元空间中寻找全体走失飞船船员的船长Viridian。和一般游戏的跳跃操作不同，玩家可通过控制重力的方向使角色飞行于地面和顶板之间。《VVVVVV》的画面风格深受[Commodore
-64的的影响](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")；游戏的音乐则同样完全是[芯片音乐](https://zh.wikipedia.org/wiki/芯片音乐 "wikilink")。马格努斯·保尔松为《VVVVVV》所做的音乐名为《PPPPPP》。
+64的的影响](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")；游戏的音乐则同样完全是[芯片音乐](../Page/芯片音乐.md "wikilink")。马格努斯·保尔松为《VVVVVV》所做的音乐名为《PPPPPP》。
 
 游戏通常获得正面评价，遊戲PC版和任天堂3DS版在[GameRankings上的匯總得分分別爲](https://zh.wikipedia.org/wiki/GameRankings "wikilink")78.78%分和81.70%。[Rock,
 Paper,
-Shotgun的](https://zh.wikipedia.org/wiki/Rock,_Paper,_Shotgun "wikilink")[基隆·吉伦称遊戲为](https://zh.wikipedia.org/wiki/基隆·吉伦 "wikilink")“年度最佳独立游戏”\[2\]。評論一般提到了遊戲的高難度。
+Shotgun的](../Page/Rock,_Paper,_Shotgun.md "wikilink")[基隆·吉伦称遊戲为](https://zh.wikipedia.org/wiki/基隆·吉伦 "wikilink")“年度最佳独立游戏”\[2\]。評論一般提到了遊戲的高難度。
 
 ## 设定
 
@@ -43,7 +43,7 @@ Indie Bundle
 
 2011年10月7日公布了Nicalis将游戏重制于任天堂3DS平臺的信息。任天堂3DS版于2011年12月29日在北美發行\[18\]，2012年5月10日在歐洲發行\[19\]\[20\]，2012年10月4日在澳大利亚發行\[21\]。
 
-游戏[Android](../Page/Android.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Ouya和](https://zh.wikipedia.org/wiki/Ouya "wikilink")[PlayStation
+游戏[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Ouya和](../Page/Ouya.md "wikilink")[PlayStation
 Vita移植版预定于](../Page/PlayStation_Vita.md "wikilink")2014年发行\[22\]。
 
 ## 音乐
@@ -56,7 +56,7 @@ Vita移植版预定于](../Page/PlayStation_Vita.md "wikilink")2014年发行\[22
 
 《VVVVVV》普遍獲得了正面评价，PC版和任天堂3DS版在评价汇总网站[GameRankings上的匯總得分分別爲](https://zh.wikipedia.org/wiki/GameRankings "wikilink")78.78%分（9个评价）\[25\]和81.70%（15个评价）\[26\]。评论称游戏是2010年最重要的独立发布游戏\[27\]\[28\]；[Rock,
 Paper,
-Shotgun的](https://zh.wikipedia.org/wiki/Rock,_Paper,_Shotgun "wikilink")[基隆·吉伦称其为](https://zh.wikipedia.org/wiki/基隆·吉伦 "wikilink")“年度最佳独立游戏”\[29\]，但米歇尔·罗斯在IndileGames.com的评论中却称这年发布的《VVVVVV》“有些人也许会发现……独立开发者的主流即是商业，而不是发布一款优秀的而纯正独立作品”\[30\]。评论称赞了《VVVVVV》的设计水平\[31\]\[32\]\[33\]：罗斯认为游戏“做的最好的一点”就是“没什么可扩充的了”，游戏新闻博客[Kotaku的Michael](../Page/Kotaku.md "wikilink")
+Shotgun的](../Page/Rock,_Paper,_Shotgun.md "wikilink")[基隆·吉伦称其为](https://zh.wikipedia.org/wiki/基隆·吉伦 "wikilink")“年度最佳独立游戏”\[29\]，但米歇尔·罗斯在IndileGames.com的评论中却称这年发布的《VVVVVV》“有些人也许会发现……独立开发者的主流即是商业，而不是发布一款优秀的而纯正独立作品”\[30\]。评论称赞了《VVVVVV》的设计水平\[31\]\[32\]\[33\]：罗斯认为游戏“做的最好的一点”就是“没什么可扩充的了”，游戏新闻博客[Kotaku的Michael](../Page/Kotaku.md "wikilink")
 McWhertor写道游戏在领域中可谓是“是翻天覆地的变化，并能确信设计师成功的发掘了游戏的潜力”\[34\]。
 
 大多数评论都写到了《VVVVVV》的高难度\[35\]\[36\]\[37\]\[38\]\[39\]。McWhertor认为“游戏的考验和错误的瞬间能试炼玩家的耐心”\[40\]。然而，一些评论者指出，由于游戏诸多的存档处及玩家死亡后可以继续闯关，故难以使玩家感到困难丧气\[41\]\[42\]。IGN笔者Samuel

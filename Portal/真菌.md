@@ -1,0 +1,74 @@
+__NOTOC__
+
+<div style="float:right; width:100%;">
+
+{{/box-header|<big>真菌首頁</big>|Portal:真菌/歡迎|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%;">
+
+{{/box-header|<big>真菌</big>|Portal:真菌/真菌|}}
+{{/box-footer|[進一步了解真菌](https://zh.wikipedia.org/wiki/真菌 "wikilink")}}
+
+</div>
+
+<div style="float:right; width:100%;">
+
+{{/box-header|<big>精選物種</big>|Portal:真菌/精選物種|}}
+{{/box-footer|[更多精選物種](https://zh.wikipedia.org/wiki/Portal:真菌/精選物種存檔 "wikilink")}}
+
+</div>
+
+<div style="float:left; width:60%;">
+
+{{/box-header|精選條目|Portal:真菌/精選條目|}}
+{{/box-footer|[精選條目存檔](https://zh.wikipedia.org/wiki/Portal:真菌/精選條目推薦 "wikilink")}}
+
+{{/box-header|精選圖片|Portal:真菌/精選圖片|}}
+{{/box-footer|[更多精選圖片…](https://zh.wikipedia.org/wiki/Portal:真菌/精選圖片存檔 "wikilink")}}
+
+{{/box-header|需要幫助？|Portal:真菌/HELP|}}  {{/box-footer|}}
+
+{{/box-header|最新條目|Portal:真菌/最新條目|}}
+
+<div style="font-size:100%; padding:10px; overflow:scroll; width:full; height:880px;">
+
+</div>
+
+{{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|真菌小問題|Portal:真菌/達標條目|}}
+{{/box-footer|[創建新條目](https://zh.wikipedia.org/wiki/Help:如何創建新页面 "wikilink")
+- [更多…](https://zh.wikipedia.org/wiki/Portal:真菌/更多達標條目 "wikilink")}}
+
+{{/box-header|分类|Portal:真菌/分类|}}  {{/box-footer|}}
+
+{{/box-header|你能做的任務|Portal:真菌/你能做的任務|}}
+{{/box-footer|[貢獻...](https://zh.wikipedia.org/wiki/Portal:真菌/貢獻 "wikilink")}}
+
+{{/box-header|模板|Portal:真菌/用戶框}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%;">
+
+{{/box-header|範疇|Portal:真菌/範疇|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|其他生物主題|Portal:真菌/其他生物主題|}}
+
+</div>
+
+{{/box-header|其他主題首頁|Template:Portals}}  {{/box-footer|}}
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

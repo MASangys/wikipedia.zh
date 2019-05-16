@@ -1,4 +1,4 @@
-**Bullet**是一个[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")，支持三维[碰撞检测](../Page/碰撞偵測.md "wikilink")、[柔体动力学和](https://zh.wikipedia.org/wiki/柔体动力学 "wikilink")[刚体动力学](https://zh.wikipedia.org/wiki/刚体动力学 "wikilink")，多用于游戏开发和电影制作中。Bullet物理库在[zlib协议下发布](../Page/zlib.md "wikilink")。
+**Bullet**是一个[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")，支持三维[碰撞检测](../Page/碰撞偵測.md "wikilink")、[柔体动力学和](https://zh.wikipedia.org/wiki/柔体动力学 "wikilink")[刚体动力学](https://zh.wikipedia.org/wiki/刚体动力学 "wikilink")，多用于游戏开发和电影制作中。Bullet物理库在[zlib协议下发布](https://zh.wikipedia.org/wiki/zlib "wikilink")。
 
 Bullet的主要作者为Erwin
 Coumans，曾經就職於[索尼電腦娛樂美國研發職務](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2003到2010年，就职于[AMD公司到](https://zh.wikipedia.org/wiki/AMD "wikilink")2014年，現就职于[Google公司](../Page/Google.md "wikilink")。

@@ -1,10 +1,10 @@
 [Ptrs003.jpg](https://zh.wikipedia.org/wiki/File:Ptrs003.jpg "fig:Ptrs003.jpg")
 
-**PTRS-41**（，意為：**西蒙諾夫系統半自動反坦克步槍1941年型**）是一款[蘇聯研製的半自動](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[反坦克步槍](../Page/反坦克步槍.md "wikilink")，發射[14.5×114毫米口徑槍彈](../Page/14.5×114mm.md "wikilink")，該槍與[PTRD-41在同一年面世](https://zh.wikipedia.org/wiki/PTRD-41反坦克步槍 "wikilink")。
+**PTRS-41**（，意為：**西蒙諾夫系統半自動反坦克步槍1941年型**）是一款[蘇聯研製的半自動](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[反坦克步槍](../Page/反坦克步槍.md "wikilink")，發射[14.5×114毫米口徑槍彈](../Page/14.5×114mm.md "wikilink")，該槍與[PTRD-41在同一年面世](../Page/PTRD-41反坦克步槍.md "wikilink")。
 
 ## 歷史
 
-在大戰期間，蘇聯开始研究不同類型的反坦克[穿甲弹](../Page/穿甲弹.md "wikilink")，在發現[12.7×108毫米槍彈的不足後](../Page/12.7×108mm.md "wikilink")，他們開始研製更大口俓的[穿甲弹](../Page/穿甲弹.md "wikilink")，最終得出的結果為[14.5×114毫米槍彈](../Page/14.5×114mm.md "wikilink")。此後，著名的蘇聯槍械設計師[瓦西里·捷格加廖夫和](https://zh.wikipedia.org/wiki/瓦西里·捷格加廖夫 "wikilink")開始著手研製出符合該口徑的[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")。在1938年，西蒙洛夫和捷格加廖夫各自研發出自己的步槍。由於當時[蘇聯紅軍急切地需要一種成本低廉](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")，且適合步兵使用的反坦克步槍，因此在步槍設計完成之後便立即被軍方測試，在通過測試後此槍隨即投入大規模生產，並在1941年正式投入服役，被命名為PTRS-41。同時，捷格加廖夫研製的步槍也獲軍方採用，並被命名為[PTRD-41](https://zh.wikipedia.org/wiki/PTRD-41反坦克步槍 "wikilink")。除了是蘇軍的制式裝備之外，PTRS-41在[東線中也廣泛地被多個陣營繳獲使用](../Page/苏德战争.md "wikilink")，當中包括：芬蘭軍、波蘭軍，甚至是[納粹德軍](https://zh.wikipedia.org/wiki/納粹德軍 "wikilink")。
+在大戰期間，蘇聯开始研究不同類型的反坦克[穿甲弹](../Page/穿甲弹.md "wikilink")，在發現[12.7×108毫米槍彈的不足後](../Page/12.7×108mm.md "wikilink")，他們開始研製更大口俓的[穿甲弹](../Page/穿甲弹.md "wikilink")，最終得出的結果為[14.5×114毫米槍彈](../Page/14.5×114mm.md "wikilink")。此後，著名的蘇聯槍械設計師[瓦西里·捷格加廖夫和](../Page/瓦西里·捷格加廖夫.md "wikilink")開始著手研製出符合該口徑的[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")。在1938年，西蒙洛夫和捷格加廖夫各自研發出自己的步槍。由於當時[蘇聯紅軍急切地需要一種成本低廉](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")，且適合步兵使用的反坦克步槍，因此在步槍設計完成之後便立即被軍方測試，在通過測試後此槍隨即投入大規模生產，並在1941年正式投入服役，被命名為PTRS-41。同時，捷格加廖夫研製的步槍也獲軍方採用，並被命名為[PTRD-41](../Page/PTRD-41反坦克步槍.md "wikilink")。除了是蘇軍的制式裝備之外，PTRS-41在[東線中也廣泛地被多個陣營繳獲使用](../Page/苏德战争.md "wikilink")，當中包括：芬蘭軍、波蘭軍，甚至是[納粹德軍](https://zh.wikipedia.org/wiki/納粹德軍 "wikilink")。
 
 後來在更先進的[坦克面世後](../Page/坦克.md "wikilink")，反坦克步槍便開始變得更加過時了。在[二戰結束後](../Page/第二次世界大战.md "wikilink")，在[朝鮮戰爭當中](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，PTRS-41更被[中國人民志願軍及](https://zh.wikipedia.org/wiki/中國人民志願軍 "wikilink")[朝鮮人民軍所使用](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")。
 

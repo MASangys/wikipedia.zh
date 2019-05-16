@@ -7,13 +7,13 @@ Records公司、過去旗下藝人的一覽記錄。
 ### King Records
 
   - [rain](https://zh.wikipedia.org/wiki/Rain_\(韓國藝人\) "wikilink")
-  - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")
+  - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [Block B](../Page/Block_B.md "wikilink")
   - [臉紅的思春期](https://zh.wikipedia.org/wiki/臉紅的思春期 "wikilink")
 
 #### J-POP部門
 
-  - [天月](https://zh.wikipedia.org/wiki/天月 "wikilink")
+  - [天月](../Page/天月.md "wikilink")
   - [摩天樓オペラ](https://zh.wikipedia.org/wiki/摩天樓オペラ "wikilink")
   - [INORAN](https://zh.wikipedia.org/wiki/INORAN "wikilink")
   - [植村花菜](../Page/植村花菜.md "wikilink")
@@ -25,7 +25,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [中山美穗](../Page/中山美穗.md "wikilink")
   - [森口博子](../Page/森口博子.md "wikilink")
   - 悠木子
-  - [every♥ing\!](../Page/every♥ing!.md "wikilink")
+  - [every♥ing\!](https://zh.wikipedia.org/wiki/every♥ing! "wikilink")
 
 #### [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")
 
@@ -52,7 +52,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [原田悠里](https://zh.wikipedia.org/wiki/原田悠里 "wikilink")（演歌歌手・北島三郎の門下生）
   - [ペギー葉山](https://zh.wikipedia.org/wiki/ペギー葉山 "wikilink")
   - 真木柚布子
-  - [水田龍子](https://zh.wikipedia.org/wiki/水田龍子 "wikilink")（前・[Gパン娘](https://zh.wikipedia.org/wiki/Gパン娘 "wikilink")）
+  - [水田龍子](../Page/水田龍子.md "wikilink")（前・[Gパン娘](https://zh.wikipedia.org/wiki/Gパン娘 "wikilink")）
 
 **2000年以後流行演歌歌手**
 
@@ -83,7 +83,7 @@ Records公司、過去旗下藝人的一覽記錄。
   - [宮野真守](../Page/宮野真守.md "wikilink")
   - [唯夏織](../Page/唯夏織.md "wikilink")\[2\]
   - [上坂堇](../Page/上坂堇.md "wikilink")
-  - [水瀨祈](https://zh.wikipedia.org/wiki/水瀨祈 "wikilink")
+  - [水瀨祈](../Page/水瀨祈.md "wikilink")
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")(在2013年改名為蒼井翔太，舊藝名為SHOWTA.)
   - [內田雄馬](../Page/內田雄馬.md "wikilink")
 
@@ -131,7 +131,7 @@ Records公司、過去旗下藝人的一覽記錄。
 
 <!-- end list -->
 
-  - [angela](../Page/angela.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
   - [喜多村英梨](../Page/喜多村英梨.md "wikilink")（2011年從[Lantis移籍](../Page/Lantis.md "wikilink")）
   - [榊原由依](../Page/榊原由依.md "wikilink")（[b-fairy
     records](https://zh.wikipedia.org/wiki/b-fairy_records "wikilink")・[5pb.也發行](../Page/5pb..md "wikilink")）
@@ -169,7 +169,7 @@ Records公司、過去旗下藝人的一覽記錄。
 
 :\*:[田村ゆかり](https://zh.wikipedia.org/wiki/田村ゆかり "wikilink")、堀江由衣
 
-:\*[eufonius](../Page/eufonius.md "wikilink")
+:\*[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")
 
 :\*[神田朱未](../Page/神田朱未.md "wikilink")
 
@@ -294,14 +294,14 @@ Records公司、過去旗下藝人的一覽記錄。
   - [はっぴいえんど](https://zh.wikipedia.org/wiki/はっぴいえんど "wikilink")（1972年解散）
   - [ハナ肇とクレージーキャッツ](https://zh.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")
   - [林伊佐緒](https://zh.wikipedia.org/wiki/林伊佐緒 "wikilink")（1995年没）
-  - [PRESENCE](../Page/PRESENCE.md "wikilink")（1989年解散）
+  - [PRESENCE](https://zh.wikipedia.org/wiki/PRESENCE "wikilink")（1989年解散）
   - ベイビー・ブラザーズ
   - [ザ・ピーナッツ](https://zh.wikipedia.org/wiki/ザ・ピーナッツ "wikilink")（引退）
   - [樋浦一帆](https://zh.wikipedia.org/wiki/樋浦一帆 "wikilink")
   - [美狂乱](https://zh.wikipedia.org/wiki/美狂乱 "wikilink")
   - [日之内エミ](https://zh.wikipedia.org/wiki/日之内エミ "wikilink")（→移籍到EXIT
     LINE）
-  - [the pillows](../Page/the_pillows.md "wikilink")
+  - [the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
   - [ピンキーとキラーズ](https://zh.wikipedia.org/wiki/ピンキーとキラーズ "wikilink")
   - [ビリー・バンバン](https://zh.wikipedia.org/wiki/ビリー・バンバン "wikilink")
   - [ひろえ純](https://zh.wikipedia.org/wiki/ひろえ純 "wikilink")（引退）

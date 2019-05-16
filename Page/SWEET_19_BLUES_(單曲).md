@@ -15,7 +15,7 @@ BLUES**》是[安室奈美惠以個人名義在](../Page/安室奈美惠.md "wik
   - 於上述演唱會中的安可部分唱出了標題曲《SWEET 19
     BLUES》，小室哲哉本人亦登場並彈奏了鍵盤樂器。安室當唱到本曲「誰都沒有印象的臉或許無意中被看見了」的時候更哭了。
   - 累計出貨量65萬張。
-  - 本作的原版PV，時隔18年首次收錄在她最新個人抒情精選集《[Ballada](https://zh.wikipedia.org/wiki/Ballada "wikilink")》中。
+  - 本作的原版PV，時隔18年首次收錄在她最新個人抒情精選集《[Ballada](../Page/Ballada.md "wikilink")》中。
   - 安室為抒情精選集《Ballada》重新錄製了《SWEET 19 BLUES》的全新New Vocal版本，并拍攝了新版MV。
 
 ## 收錄曲

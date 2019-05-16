@@ -2827,7 +2827,7 @@
 <tr class="odd">
 <td><p>ZV</p></td>
 <td><p>VAX</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/威航" title="wikilink">威航</a></p></td>
+<td><p><a href="../Page/威航.md" title="wikilink">威航</a></p></td>
 <td><p>V Air</p></td>
 <td><p>台灣</p></td>
 <td></td>
@@ -4323,7 +4323,7 @@
 <tr class="even">
 <td><p>ZT</p></td>
 <td><p>AWC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/泰坦航空" title="wikilink">泰坦航空</a></p></td>
+<td><p><a href="../Page/泰坦航空.md" title="wikilink">泰坦航空</a></p></td>
 <td><p>ZAP</p></td>
 <td><p>英國</p></td>
 <td></td>

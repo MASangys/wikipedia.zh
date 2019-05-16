@@ -5,7 +5,7 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 ## 概要
 
 4月16日，在[大阪巨蛋舉行的](../Page/大阪巨蛋.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》全國握手會中宣佈推出歌曲，部分收益撥捐給[東日本大震災的災民](../Page/東日本大震災.md "wikilink")\[1\]。5月11日，歌曲在[RecoChoku開始先行音樂下載](../Page/RecoChoku.md "wikilink")，其後在[iTunes
-Store和](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[mora亦有音樂下載](../Page/mora.md "wikilink")\[2\]。7月8日，板野在東京都的[Shibuya
+Store和](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[mora亦有音樂下載](https://zh.wikipedia.org/wiki/mora "wikilink")\[2\]。7月8日，板野在東京都的[Shibuya
 O-EAST舉行歌曲發售的慶祝活動](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")\[3\]。歌曲是的廣告歌\[4\]。
 
 ## 歌曲列表

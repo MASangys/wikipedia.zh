@@ -26,7 +26,8 @@ J型”。更新时请勿关闭主机电源或切断无线网络，另外更新�
   - 2009年7月30日，区域为：日版/美版/欧版，版本编号为 “Ver 1.4 J / Ver 1.4 U / Ver 1.4
     E”,主要更新如下：
 
-:\* 支持玩家将摄像头拍摄下来的照片传送到[FACEBOOK进行照片共享](../Page/FACEBOOK.md "wikilink")。
+:\*
+支持玩家将摄像头拍摄下来的照片传送到[FACEBOOK进行照片共享](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")。
 
   - 2009年12月19日，区域为：神游版，版本编号为“Ver 1.4.1 C”，主要更新如下：
 

@@ -5,13 +5,13 @@ Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon环球娱乐 "wik
 ## 概要
 
   - 前作[future
-    gazer发售](../Page/future_gazer.md "wikilink")10个月之后的新单曲，初回限定盤（GNCA-0187）及通常盤（GNCA-0188）2種版本。初回限定盤附收錄有《Heaven
+    gazer发售](https://zh.wikipedia.org/wiki/future_gazer "wikilink")10个月之后的新单曲，初回限定盤（GNCA-0187）及通常盤（GNCA-0188）2種版本。初回限定盤附收錄有《Heaven
     is a Place on Earth》PV的DVD。
   - 「Heaven is a Place on Earth」是劇場版《[旋風管家 HEAVEN IS A PLACE ON
     EARTH](https://zh.wikipedia.org/wiki/劇場版_爆笑管家工作日誌_HEAVEN_IS_A_PLACE_ON_EARTH "wikilink")》的主題歌，這次封面印有[綾崎颯與](../Page/綾崎颯.md "wikilink")[三千院凪在向日葵田的彩圖](../Page/三千院凪.md "wikilink")。
   - 第二期自单曲[only my
-    railgun至前作](../Page/only_my_railgun.md "wikilink")[future
-    gazer连续三张单曲进入Oricon排行榜Top](../Page/future_gazer.md "wikilink")10，算上第一期的单曲[flower
+    railgun至前作](https://zh.wikipedia.org/wiki/only_my_railgun "wikilink")[future
+    gazer连续三张单曲进入Oricon排行榜Top](https://zh.wikipedia.org/wiki/future_gazer "wikilink")10，算上第一期的单曲[flower
     of
     bravery则是连续有四张单曲进入Top](https://zh.wikipedia.org/wiki/flower_of_bravery "wikilink")10。
 

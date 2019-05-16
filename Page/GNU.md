@@ -1,4 +1,4 @@
-**GNU**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其內容軟體完全以[GPL方式釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。這個作業系統是[GNU計劃的主要目標](../Page/GNU計劃.md "wikilink")，名稱來自的[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")，因為GNU的設計類似[Unix](../Page/Unix.md "wikilink")，但它不包含具著作權的Unix代碼。GNU的創始人，[理察·馬修·斯托曼](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")，將GNU視為「達成社會目的技術方法」。
+**GNU**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其內容軟體完全以[GPL方式釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。這個作業系統是[GNU計劃的主要目標](../Page/GNU計劃.md "wikilink")，名稱來自的[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")，因為GNU的設計類似[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")，但它不包含具著作權的Unix代碼。GNU的創始人，[理察·馬修·斯托曼](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")，將GNU視為「達成社會目的技術方法」。
 
 作為作業系統，GNU的發展仍未完成，其中最大的問題是具有完備功能的內核尚未被開發成功。GNU的內核，稱為[Hurd](../Page/GNU_Hurd.md "wikilink")，是[自由軟體基金會發展的重點](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")，但是其發展尚未成熟。在實際使用上，多半使用[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")、[FreeBSD等替代方案](../Page/FreeBSD.md "wikilink")，作為系統核心，其中主要的操作系统是Linux的發行版。[Linux作業系統包涵了](../Page/Linux.md "wikilink")[Linux內核與其他自由軟體計畫中的GNU組件和軟體](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，可以被稱為[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")（見[GNU/Linux命名爭議](https://zh.wikipedia.org/wiki/GNU/Linux命名爭議 "wikilink")）。
 
@@ -19,7 +19,7 @@ net.usoft[新聞群組中公布這項計劃](https://zh.wikipedia.org/wiki/新�
 (ITS)\[6\]（一種早期的作業系統，使用[彙編語言撰寫](https://zh.wikipedia.org/wiki/彙編語言 "wikilink")，因其所運行的稱爲
 [PDP-10的電腦系統架構停止發展而變得過時](https://zh.wikipedia.org/wiki/PDP-10 "wikilink")）的經驗，導致了需要一种可移植系統的决定。\[7\]\[8\]因此，會議決定，將開發新的系統，並使用
 [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
-和[Lisp作為系統編程語言](../Page/Lisp.md "wikilink")。\[9\]
+和[Lisp作為系統編程語言](https://zh.wikipedia.org/wiki/Lisp "wikilink")。\[9\]
 且GNU將與UNIX兼容。\[10\]
 當時，UNIX已經是一個流行的專有操作系统。而Unix的設計是模塊化的，所以它可以被逐步分塊的實現。\[11\]
 
@@ -55,14 +55,14 @@ GNU軟件包（包括退役，但不包括383 ）主辦的官方GNU開發的網�
 ## GNU 變種
 
 GNU項目的官方核心是[GNU
-Hurd](../Page/GNU_Hurd.md "wikilink")；然而，截至2012年，[Linux核心正式以](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")[Linux-libre為名成為GNU計畫中的一部份](https://zh.wikipedia.org/wiki/Linux-libre "wikilink")，並刪除了所有專有組件的變種。\[27\]
+Hurd](../Page/GNU_Hurd.md "wikilink")；然而，截至2012年，[Linux核心正式以](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")[Linux-libre為名成為GNU計畫中的一部份](../Page/Linux-libre.md "wikilink")，並刪除了所有專有組件的變種。\[27\]
 
 像FreeBSD內核其他核心依然和GNU軟件合作，形成一個工作的作業系統。\[28\]
 FSF認為[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，與GNU工具和實用程序使用時，應承認自己為[GNU變種](../Page/GNU_variants.md "wikilink")，並促進改成
 *GNU/Linux*
 的這類系統名稱（導致[GNU/Linux命名爭議](https://zh.wikipedia.org/wiki/GNU/Linux命名爭議 "wikilink")）
 。\[29\]\[30\]\[31\]
-GNU工程已認可的Linux發行版，如[gNewSense](../Page/gNewSense.md "wikilink")
+GNU工程已認可的Linux發行版，如[gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink")
 ，
 [TRISQUEL和](https://zh.wikipedia.org/wiki/Trisquel "wikilink")[Parabola
 GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink")。\[32\]
@@ -70,8 +70,8 @@ GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilin
 NetBSD的，將得以對BSD的核心實現GNU的早期計劃。
 
 <File:GNewSense>
-screenshot.png|[gNewSense](../Page/gNewSense.md "wikilink"), an example
-of an [FSF approved
+screenshot.png|[gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink"),
+an example of an [FSF approved
 distribution](https://zh.wikipedia.org/wiki/List_of_GNU/Linux_distributions_endorsed_by_the_Free_Software_Foundation "wikilink")
 <File:Parabola12.png>|[Parabola
 GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink"),
@@ -104,7 +104,7 @@ GNU商標出現在GNU的電子文件中，也是[自由軟體基金會的元素]
   - [創用CC](https://zh.wikipedia.org/wiki/創用CC "wikilink")
   - [自由软件运动](../Page/自由软件运动.md "wikilink")
   - [自由软件历史](https://zh.wikipedia.org/wiki/自由软件历史 "wikilink")
-  - [GNU软件包列表](https://zh.wikipedia.org/wiki/GNU软件包列表 "wikilink")
+  - [GNU软件包列表](../Page/GNU软件包列表.md "wikilink")
 
 {{-}}
 

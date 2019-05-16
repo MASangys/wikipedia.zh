@@ -61,7 +61,7 @@ Yolinda**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 <td><p>笑一笑</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馮鏡輝" title="wikilink">馮鏡輝</a></p></td>
 <td><p><a href="../Page/潘偉源.md" title="wikilink">潘偉源</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧東尼" title="wikilink">盧東尼</a></p></td>
+<td><p><a href="../Page/盧東尼.md" title="wikilink">盧東尼</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -75,7 +75,7 @@ Yolinda**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 <tr class="odd">
 <td><p>08</p></td>
 <td><p>情場浪子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃尚偉" title="wikilink">黃尚偉</a></p></td>
+<td><p><a href="../Page/黃尚偉.md" title="wikilink">黃尚偉</a></p></td>
 <td><p>潘偉源</p></td>
 <td><p>黃尚偉</p></td>
 <td></td>
@@ -86,7 +86,7 @@ Yolinda**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 <td><p><a href="https://zh.wikipedia.org/wiki/Gary_Dee" title="wikilink">Gary Dee</a><br />
 <a href="https://zh.wikipedia.org/wiki/Johnny_Five" title="wikilink">Johnny Five</a><br />
 <a href="https://zh.wikipedia.org/wiki/Danny_Garcia" title="wikilink">Danny Garcia</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/因葵" title="wikilink">因葵</a></p></td>
+<td><p><a href="../Page/因葵.md" title="wikilink">因葵</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/C.Y.Kong" title="wikilink">C.Y.Kong</a></p></td>
 <td><p>Rap：<a href="../Page/陳輝虹.md" title="wikilink">陳輝虹</a></p></td>
 </tr>

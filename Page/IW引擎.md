@@ -4,15 +4,16 @@
 
 **IW引擎**是一个游戏引擎 ，由[Infinity
 Ward工作室开发用于](../Page/Infinity_Ward.md "wikilink")[使命召唤系列](https://zh.wikipedia.org/wiki/使命召唤 "wikilink")，并作为[詹姆斯·邦德游戏的主要引擎](https://zh.wikipedia.org/wiki/詹姆斯·邦德 "wikilink")。引擎包含了[id
-Software开发的](../Page/id_Software.md "wikilink")[GtkRadiant关卡开发软件](../Page/GtkRadiant.md "wikilink")。它已被用于由[Infinity
-Ward](../Page/Infinity_Ward.md "wikilink")，[Treyarch](https://zh.wikipedia.org/wiki/Treyarch "wikilink")，[Raven
+Software开发的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[GtkRadiant关卡开发软件](../Page/GtkRadiant.md "wikilink")。它已被用于由[Infinity
+Ward](../Page/Infinity_Ward.md "wikilink")，[Treyarch](../Page/Treyarch.md "wikilink")，[Raven
 Software和](../Page/Raven_Software.md "wikilink")[Sledgehammer
 Games开发的游戏中](https://zh.wikipedia.org/wiki/Sledgehammer_Games "wikilink")。
 
 ## 历史
 
 引擎首次在2005年的[使命召唤2中使用](https://zh.wikipedia.org/wiki/使命召唤2 "wikilink")，由[id
-Software公司](../Page/id_Software.md "wikilink")1999年开发的[id Tech
+Software公司](https://zh.wikipedia.org/wiki/id_Software "wikilink")1999年开发的[id
+Tech
 3引擎发展而来](https://zh.wikipedia.org/wiki/id_Tech_3 "wikilink")，是[雷神之锤III引擎大加修改后的版本](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")。当时引擎还没有一个正式的名称，直到工作室在2009年[E3游戏展时向](https://zh.wikipedia.org/wiki/E3 "wikilink")[IGN透露](../Page/IGN.md "wikilink")*[使命召唤：现代战争2](https://zh.wikipedia.org/wiki/使命召唤：现代战争2 "wikilink")*将会运行在“IW
 4.0引擎”上。\[1\]
 
@@ -48,8 +49,8 @@ Software公司](../Page/id_Software.md "wikilink")1999年开发的[id Tech
     引擎(IW 5.0）
   - *[使命召唤：黑色行动2](https://zh.wikipedia.org/wiki/使命召唤：黑色行动2 "wikilink")*（2012）BO2
     引擎 IW 5.0 (改进)
-  - *[使命召唤Online](https://zh.wikipedia.org/wiki/使命召唤Online "wikilink")*（2012）OL
-    引擎 IW 5.0 (改进)
+  - *[使命召唤Online](../Page/使命召唤Online.md "wikilink")*（2012）OL 引擎 IW 5.0
+    (改进)
   - *[使命召唤：幽灵](https://zh.wikipedia.org/wiki/使命召唤：幽灵 "wikilink")*（2013）GHOSTS
     引擎 (IW 6.0）
 

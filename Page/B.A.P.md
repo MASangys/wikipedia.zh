@@ -164,13 +164,13 @@ LineData =
 
 [方容國曾以Jepp](https://zh.wikipedia.org/wiki/方容國 "wikilink")
 Blackman為名，作為的成員，於地下Hip
-Hop界活動。鐘業是繼[方容國之後](https://zh.wikipedia.org/wiki/方容國 "wikilink")，第二個成為[TS娛樂旗下練習生的成員](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")。力燦和[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[安宰孝](https://zh.wikipedia.org/wiki/宰孝 "wikilink")、[李準皆為Best](https://zh.wikipedia.org/wiki/李準_\(歌手\) "wikilink")
+Hop界活動。鐘業是繼[方容國之後](https://zh.wikipedia.org/wiki/方容國 "wikilink")，第二個成為[TS娛樂旗下練習生的成員](../Page/TS娛樂.md "wikilink")。力燦和[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[安宰孝](../Page/宰孝.md "wikilink")、[李準皆為Best](../Page/李準_\(歌手\).md "wikilink")
 Nine School
-Ulzzang。永才曾參加JYP第六期公開選秀，獲得第一名，並在[JYP娛樂旗下練習一年](../Page/JYP娛樂.md "wikilink")。大賢與Zelo在進[TS娛樂之前](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，分別於Nataraja
+Ulzzang。永才曾參加JYP第六期公開選秀，獲得第一名，並在[JYP娛樂旗下練習一年](../Page/JYP娛樂.md "wikilink")。大賢與Zelo在進[TS娛樂之前](../Page/TS娛樂.md "wikilink")，分別於Nataraja
 Academy和Joy Dance & Plug in Music
-Academy接受練習。起初[TS娛樂以淘汰制從三十名練習生中選定五位成員出道](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，但最後決定加入大賢，以六人團體正式出道。
+Academy接受練習。起初[TS娛樂以淘汰制從三十名練習生中選定五位成員出道](../Page/TS娛樂.md "wikilink")，但最後決定加入大賢，以六人團體正式出道。
 
-3月3日，[方容國參與](https://zh.wikipedia.org/wiki/方容國 "wikilink")[宋枝恩個人數位單曲](https://zh.wikipedia.org/wiki/宋枝恩 "wikilink")《Going
+3月3日，[方容國參與](https://zh.wikipedia.org/wiki/方容國 "wikilink")[宋枝恩個人數位單曲](../Page/宋枝恩.md "wikilink")《Going
 Crazy》，並一同於Mnet《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式亮相。8月12日，[方容國與](https://zh.wikipedia.org/wiki/方容國 "wikilink")[梁耀燮合作推出個人數位單曲](../Page/梁耀燮.md "wikilink")《I
 Remember》。8月23日，力燦於SBS MTV《The Show：Play with
@@ -180,9 +180,9 @@ Zelo數位單曲](../Page/Bang_&_Zelo.md "wikilink")《Never Give
 Up》音源和主打歌〈Never Give Up〉MV公開。12月4日，[Bang &
 Zelo於SBS](../Page/Bang_&_Zelo.md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》正式亮相。成為韓國第一個先以子團活動的團體。
 
-12月19日，[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、Zelo、力燦所屬團體名稱「**B.A.P**」正式公開，並預計在明年1月正式出道。12月20日，[TS娛樂宣布B](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink").A.P將在明年1月28日，於能容納三千位觀眾的獎忠體育館，舉行大型出道Showcase。12月29日，[Bang
+12月19日，[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、Zelo、力燦所屬團體名稱「**B.A.P**」正式公開，並預計在明年1月正式出道。12月20日，[TS娛樂宣布B](../Page/TS娛樂.md "wikilink").A.P將在明年1月28日，於能容納三千位觀眾的獎忠體育館，舉行大型出道Showcase。12月29日，[Bang
 & Zelo於SBS](../Page/Bang_&_Zelo.md "wikilink")《Korean Music Festival
-2011》，做紅毯開場表演。同日，「**B.A.P**」出道預告公開。12月31日，[方容國與](https://zh.wikipedia.org/wiki/方容國 "wikilink")[宋枝恩於MBC](https://zh.wikipedia.org/wiki/宋枝恩 "wikilink")《Korean
+2011》，做紅毯開場表演。同日，「**B.A.P**」出道預告公開。12月31日，[方容國與](https://zh.wikipedia.org/wiki/方容國 "wikilink")[宋枝恩於MBC](../Page/宋枝恩.md "wikilink")《Korean
 Music Festival 2011》，演唱〈Going Crazy〉Remix版。
 
 ### 2012年：出道單曲《Warrior》，單曲二輯《Power》，迷你一輯《No Mercy》，迷你一輯改版《Crash》，單曲三輯《Stop It》
@@ -209,14 +209,14 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式亮相。
 
 1月11日，先行曲〈Rain Sound〉預告公開。1月15日，先行曲〈Rain Sound〉音源和MV公開。2月8日，迷你二輯《One
 Shot》預告公開。2月12日，迷你二輯《One Shot》音源和主打歌〈One
-Shot〉MV公開。2月13日，[TS娛樂表示力燦因滑倒導致右手無名指及小指骨折](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，將不參與《One
+Shot〉MV公開。2月13日，[TS娛樂表示力燦因滑倒導致右手無名指及小指骨折](../Page/TS娛樂.md "wikilink")，將不參與《One
 Shot》的宣傳活動\[15\]。2月15日，以五人形式於KBS《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式回歸，演唱〈Rain
 Sound〉和〈One Shot〉。2月23日至24日，舉行首場單獨演唱會《B.A.P Live On Earth
 Seoul》。兩天共八千張的門票，在開賣後十分鐘內售罄\[16\]。
 
 3月18日，透過Matoki官方Facebook，公開右手纏著繃帶的TATSMATO，用左手抓著蠟筆在地上寫著：「I'll be
-back」，預告力燦即將回歸。4月13日，於第一屆「音悅V榜年度盛典」，六位成員齊聚亮相。5月2日，[TS娛樂宣布力燦將在](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")5月7日，於《B.A.P
+back」，預告力燦即將回歸。4月13日，於第一屆「音悅V榜年度盛典」，六位成員齊聚亮相。5月2日，[TS娛樂宣布力燦將在](../Page/TS娛樂.md "wikilink")5月7日，於《B.A.P
 Live On Earth Pacific
 Tour》正式回歸\[17\]。5月7日、10日、14日、17日，於洛杉磯、舊金山、華盛頓、紐約舉行演唱會《B.A.P
 Live On Earth Pacific
@@ -245,7 +245,7 @@ BABY」，名義上是與某位BABY進行現場通電話的活動，實則上是
 Medley公開。1月29日，主打歌〈1004(Angel)〉CF預告公開。2月3日，韓國時間上午11點，成員們透過個人Twitter，與BABY們進行為期一小時的「Mention
 Party」。同日，中午12點，正規一輯《First
 Sensibility》音源和主打歌〈1004(Angel)〉MV公開。鐘業透過個人Twitter，許下生日承諾：「若2月6日韓國時間凌晨12點，〈1004(Angel)〉MV的觀看次數超過300萬，將會公開〈B.A.B.Y〉Fan
-Meeting實錄」。2月6日，雖沒有達到鐘業的期許，[TS娛樂還是公開Fan](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")
+Meeting實錄」。2月6日，雖沒有達到鐘業的期許，[TS娛樂還是公開Fan](../Page/TS娛樂.md "wikilink")
 Meeting實錄〈Be My BABY Footage - B.A.B.Y〉。2月7日至9日，於KBS《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、MBC《[Show\!
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》及SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》回歸舞台，除了演唱〈1004(Angel)〉之外，亦分別帶來〈With
@@ -275,29 +275,29 @@ Party」。同日，中午12點，單曲四輯《Unplugged 2014》音源和主�
 You?〉MV公開。8月11日，日語單曲四輯主打歌〈Excuse
 Me〉MV公開。9月3日，日語單曲四輯《Excuse Me》發行。9月5日，於[TV
 Asahi](../Page/朝日電視台.md "wikilink")《[Music
-Station](../Page/Music_Station.md "wikilink")》的「CD Single Ranking Best
-10」，以〈Excuse Me〉位列第4名\[24\]。
+Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")》的「CD
+Single Ranking Best 10」，以〈Excuse Me〉位列第4名\[24\]。
 
 9月22日，SBS《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") in
 哥斯大黎加》演出陣容揭曉，其中包含[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")\[25\]\[26\]。10月5日，[方容國因行程問題確定退出參演SBS](https://zh.wikipedia.org/wiki/方容國 "wikilink")《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")
 in 哥斯大黎加》\[27\]\[28\]。10月19日，力燦無預警缺席於昌原綜合運動場舉行的《2014 K-pop World
 Festival in
-Changwon》。當晚，大賢和力燦透過個人Twitter，向BABY們傳達歉意。隨後，[TS娛樂表示力燦因私人事情而無法上台一事](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，為尊重藝人希望親自轉達的意願才決定延後公告。10月28日，[TS娛樂宣布B](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink").A.P將於《Music
+Changwon》。當晚，大賢和力燦透過個人Twitter，向BABY們傳達歉意。隨後，[TS娛樂表示力燦因私人事情而無法上台一事](../Page/TS娛樂.md "wikilink")，為尊重藝人希望親自轉達的意願才決定延後公告。10月28日，[TS娛樂宣布B](../Page/TS娛樂.md "wikilink").A.P將於《Music
 Bank in Mexico》後暫停活動，並取消原訂11月舉行的《B.A.P Live On Earth 2014 South America
 Attack》\[29\]\[30\]。11月27日，韓國媒體X
-Sports報導，B.A.P六位成員在11月26日以[TS娛樂為對象](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，向首爾西部地方法院提出「專屬合約無效確認」訴訟\[31\]。同日，[TS娛樂發表官方立場](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")：「關於訴訟的具體事項，還在確認當中」，並否認『不公平合約條款』或『[奴隸契約](https://zh.wikipedia.org/wiki/奴隸契約 "wikilink")』等，藝人單方面受到不當待遇的情形\[32\]\[33\]。B.A.P與[TS娛樂的解約訴訟消息一出](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，證實了韓國媒體世界日報在5月16日，關於「某組備受矚目的新興團體，打算向經紀公司提出解約訴訟」的報導\[34\]\[35\]。
+Sports報導，B.A.P六位成員在11月26日以[TS娛樂為對象](../Page/TS娛樂.md "wikilink")，向首爾西部地方法院提出「專屬合約無效確認」訴訟\[31\]。同日，[TS娛樂發表官方立場](../Page/TS娛樂.md "wikilink")：「關於訴訟的具體事項，還在確認當中」，並否認『不公平合約條款』或『[奴隸契約](https://zh.wikipedia.org/wiki/奴隸契約 "wikilink")』等，藝人單方面受到不當待遇的情形\[32\]\[33\]。B.A.P與[TS娛樂的解約訴訟消息一出](../Page/TS娛樂.md "wikilink")，證實了韓國媒體世界日報在5月16日，關於「某組備受矚目的新興團體，打算向經紀公司提出解約訴訟」的報導\[34\]\[35\]。
 
-11月29日，大賢的歌唱老師透過個人Twitter，揭露B.A.P六位成員提出「專屬合約無效確認」訴訟的背後故事，並表明：「為了大賢已經做好戰鬥的準備了」\[36\]\[37\]。12月5日，[TS娛樂透過B](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink").A.P官方Facebook，放上B.A.P自2011年至今的支出與收入長條圖，並預估2015年的收支，更對成員們所提出的項目一一發表回應\[38\]\[39\]。同日，B.A.P的[訴訟代理人發表正式聲明](https://zh.wikipedia.org/wiki/訴訟代理人 "wikilink")：「成員們唯一的要求是資料透明化，卻屢遭無視，若該費用支出合法，就算拿到0韓元也沒關係」，而對於『存在背後勢力』的不實指控，將考慮是否提出名譽毀損訴訟\[40\]\[41\]。12月22日，韓國媒體OBS報導，B.A.P與[TS娛樂的](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")「專屬合約無效確認」訴訟，預計在明年2月至3月進行首次調解\[42\]\[43\]。12月26日，大賢透過個人Instagram，分享他與永才、鐘業的合照，並寫著：「我們六人全部都很想念各位，謝謝。
+11月29日，大賢的歌唱老師透過個人Twitter，揭露B.A.P六位成員提出「專屬合約無效確認」訴訟的背後故事，並表明：「為了大賢已經做好戰鬥的準備了」\[36\]\[37\]。12月5日，[TS娛樂透過B](../Page/TS娛樂.md "wikilink").A.P官方Facebook，放上B.A.P自2011年至今的支出與收入長條圖，並預估2015年的收支，更對成員們所提出的項目一一發表回應\[38\]\[39\]。同日，B.A.P的[訴訟代理人發表正式聲明](https://zh.wikipedia.org/wiki/訴訟代理人 "wikilink")：「成員們唯一的要求是資料透明化，卻屢遭無視，若該費用支出合法，就算拿到0韓元也沒關係」，而對於『存在背後勢力』的不實指控，將考慮是否提出名譽毀損訴訟\[40\]\[41\]。12月22日，韓國媒體OBS報導，B.A.P與[TS娛樂的](../Page/TS娛樂.md "wikilink")「專屬合約無效確認」訴訟，預計在明年2月至3月進行首次調解\[42\]\[43\]。12月26日，大賢透過個人Instagram，分享他與永才、鐘業的合照，並寫著：「我們六人全部都很想念各位，謝謝。
 \#bangstergram \#strong_chan \#yjayo \#m_jup
 \#byzelo」\[44\]。隨後，永才和鐘業也透過個人Twitter，轉推大賢的推文，並回覆：「一定會遵守約定的。好好的結束今年吧，我愛你們」、「謝謝」。12月29日，大賢親自設立B.A.P的Naver
 Cafe，並留言給BABY們。除此之外，永才也連兩天給BABY們留言\[45\]。12月31日，力燦透過個人Twitter，向BABY們表達感謝及歉意\[46\]。
 
 ### 2015年：全面暫停演藝活動，解約訴訟落幕→重返TS娛樂，時隔一年九個月回歸～迷你四輯《MATRIX》
 
-2月4日，韓國媒體OBS報導，B.A.P與[TS娛樂的](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")「專屬合約無效確認」訴訟，[TS娛樂雖然提交了答辯狀](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，但僅是形式上的否認，並未提交相關證據與說明資料，需要一段時間來備妥相關資料，預計在3月至4月首次開庭\[47\]\[48\]。2月22日，韓國媒體StarNews報導，B.A.P與[TS娛樂的](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")「專屬合約無效確認」訴訟，預計在3月13日首次開庭\[49\]\[50\]。3月2日，[方容國入選第七屆](https://zh.wikipedia.org/wiki/方容國 "wikilink")「」之「Musician」最終候補\[51\]。3月5日，B.A.P的[訴訟代理人公布訴訟過程](https://zh.wikipedia.org/wiki/訴訟代理人 "wikilink")：「[TS娛樂在](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")1月15日提交了答辯狀，但對於如擅自使用專輯宣傳費15.5億韓元一事，並未作出正面回應，直至3月4日亦沒有提出實質上的答辯」。[訴訟代理人亦向法院提交了申請書](https://zh.wikipedia.org/wiki/訴訟代理人 "wikilink")，要求[TS娛樂出示合約等相關文件](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，及要求調查公司和公司代表的帳戶。除此之外，首次開庭日期因法院的人事調動而改為3月16日\[52\]。4月4日，[方容國透過個人YouTube和SoundCloud](https://zh.wikipedia.org/wiki/方容國 "wikilink")，發布自創曲〈AM
+2月4日，韓國媒體OBS報導，B.A.P與[TS娛樂的](../Page/TS娛樂.md "wikilink")「專屬合約無效確認」訴訟，[TS娛樂雖然提交了答辯狀](../Page/TS娛樂.md "wikilink")，但僅是形式上的否認，並未提交相關證據與說明資料，需要一段時間來備妥相關資料，預計在3月至4月首次開庭\[47\]\[48\]。2月22日，韓國媒體StarNews報導，B.A.P與[TS娛樂的](../Page/TS娛樂.md "wikilink")「專屬合約無效確認」訴訟，預計在3月13日首次開庭\[49\]\[50\]。3月2日，[方容國入選第七屆](https://zh.wikipedia.org/wiki/方容國 "wikilink")「」之「Musician」最終候補\[51\]。3月5日，B.A.P的[訴訟代理人公布訴訟過程](https://zh.wikipedia.org/wiki/訴訟代理人 "wikilink")：「[TS娛樂在](../Page/TS娛樂.md "wikilink")1月15日提交了答辯狀，但對於如擅自使用專輯宣傳費15.5億韓元一事，並未作出正面回應，直至3月4日亦沒有提出實質上的答辯」。[訴訟代理人亦向法院提交了申請書](https://zh.wikipedia.org/wiki/訴訟代理人 "wikilink")，要求[TS娛樂出示合約等相關文件](../Page/TS娛樂.md "wikilink")，及要求調查公司和公司代表的帳戶。除此之外，首次開庭日期因法院的人事調動而改為3月16日\[52\]。4月4日，[方容國透過個人YouTube和SoundCloud](https://zh.wikipedia.org/wiki/方容國 "wikilink")，發布自創曲〈AM
 4:44〉MV和音源。5月21日，Zelo透過個人SoundCloud，發布自創曲〈No-Title〉音源。
 
-8月3日，[TS娛樂發表正式聲明](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")：「自2014年11月26日事情發生以來，為了解除誤會我們盡全力跟B.A.P溝通，交流。結果恢復了彼此的信任，2015年8月1日起B.A.P重返了本公司」\[53\]。B.A.P與[TS娛樂長達八個月的](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")「專屬合約無效確認」訴訟正式宣告落幕。8月11日，[方容國透過個人Twitter](https://zh.wikipedia.org/wiki/方容國 "wikilink")，向愛護和喜愛並等待著B.A.P的BABY們表達感謝、愛意及尊敬，並承諾：「會成為再次把期待轉換成歡呼聲、前進的B.A.P」，最後寫下：「我們六個人會一直在一起，期待與大家笑著見面的日子」\[54\]\[55\]。9月2日，韓國媒體TopStarNews報導，[TS娛樂的相關人員透露](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")：「B.A.P正在準備新專輯中，預計在年末或明年初回歸」\[56\]\[57\]。10月3日，[TS娛樂透過官方Twitter](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，證實B.A.P即將回歸。10月4日，六位成員透過個人Instagram，齊發「WE
+8月3日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「自2014年11月26日事情發生以來，為了解除誤會我們盡全力跟B.A.P溝通，交流。結果恢復了彼此的信任，2015年8月1日起B.A.P重返了本公司」\[53\]。B.A.P與[TS娛樂長達八個月的](../Page/TS娛樂.md "wikilink")「專屬合約無效確認」訴訟正式宣告落幕。8月11日，[方容國透過個人Twitter](https://zh.wikipedia.org/wiki/方容國 "wikilink")，向愛護和喜愛並等待著B.A.P的BABY們表達感謝、愛意及尊敬，並承諾：「會成為再次把期待轉換成歡呼聲、前進的B.A.P」，最後寫下：「我們六個人會一直在一起，期待與大家笑著見面的日子」\[54\]\[55\]。9月2日，韓國媒體TopStarNews報導，[TS娛樂的相關人員透露](../Page/TS娛樂.md "wikilink")：「B.A.P正在準備新專輯中，預計在年末或明年初回歸」\[56\]\[57\]。10月3日，[TS娛樂透過官方Twitter](../Page/TS娛樂.md "wikilink")，證實B.A.P即將回歸。10月4日，六位成員透過個人Instagram，齊發「WE
 ARE B.A.P」九宮格圖片。10月5日，韓國時間凌晨12點，公開「WE ARE
 B.A.P」完整版圖片。同日，亦宣布B.A.P將在11月15日，於東大門設計廣場的藝術二號館，舉行回歸Showcase《B.A.P
 151115》。
@@ -315,8 +315,8 @@ Medley公開。11月11日，迷你四輯《MATRIX》主打歌〈Young, Wild & Fr
 Live，進行為期約一小時的「B.A.P Countdown for
 MATRIX」。11月16日，韓國時間凌晨12點，迷你四輯《MATRIX》音源和主打歌〈Young,
 Wild & Free〉MV公開。11月17日，於SBS MTV《[The
-Show](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》正式回歸，演唱〈Take
-You There〉和〈Young, Wild &
+Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》正式回歸，演唱〈Take You
+There〉和〈Young, Wild &
 Free〉。11月19日，韓國時間晚上11點15分，成員們透過個人Twitter，與BABY們進行為期一小時的「Mention
 Party」。11月25日，遵守若〈Young, Wild & Free〉MV的觀看次數超過300萬，將會公開練習室版的約定，透過官方V
 Live，率先公開〈Young, Wild &
@@ -324,8 +324,8 @@ Free〉搞笑版練習室。並立下另一約定，若MV的觀看次數超過47
 TVCast，公開〈Young, Wild & Free〉正式版練習室。同日，於KBS《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》，獲得〈Young,
 Wild & Free〉的首個一位。12月1日，於SBS MTV《[The
-Show](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》，獲得〈Young,
-Wild & Free〉的第二個一位。12月17日至20日，演唱〈Be
+Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》，獲得〈Young, Wild
+& Free〉的第二個一位。12月17日至20日，演唱〈Be
 Happy〉作為離別舞台，正式結束《MATRIX》的宣傳活動。12月24日，透過官方Naver
 TVCast，公開〈Be Happy〉聖誕版練習室。
 
@@ -358,9 +358,8 @@ Live，進行為期約一小時的「Countdown Live」。2月22日，韓國時�
 So Good〉MV公開。2月25日，於Mnet《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式回歸，演唱〈Carnival〉和〈Feel
 So Good〉。3月4日，日語正規一輯《Best. Absolute. Perfect》主打歌〈Kingdom〉MV公開。3月8日，於SBS
-MTV《[The
-Show](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》，獲得〈Feel
-So Good〉的首個一位。3月15日至20日，進行離別舞台，正式結束《Carnival》的宣傳活動。3月30日，日語正規一輯《Best.
+MTV《[The Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》，獲得〈Feel So
+Good〉的首個一位。3月15日至20日，進行離別舞台，正式結束《Carnival》的宣傳活動。3月30日，日語正規一輯《Best.
 Absolute. Perfect》發行。4月11日，遵守若〈Feel So
 Good〉MV的觀看次數超過300萬，將會公開練習室版的約定，透過官方YouTube、Naver
 TVCast和V Live，公開〈Feel So Good〉練習室。4月14日，於舊金山舉行演唱會《B.A.P Live On Earth
@@ -375,7 +374,7 @@ Baag為名，參與[VIXX單曲六輯](../Page/VIXX.md "wikilink")《[Hades](http
 Me Do〉的作詞、作曲、編曲\[63\]。
 
 10月18日，公開《Noir》的預告海報「WHO IS
-X?」，預告B.A.P即將回歸。10月21日，正規二輯《Noir》行程表公開\[64\]。10月25日，[TS娛樂表示](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")[方容國因診斷出患有](https://zh.wikipedia.org/wiki/方容國 "wikilink")[恐慌症](../Page/恐慌症.md "wikilink")，將不參與《Noir》的宣傳活動\[65\]\[66\]。同日，[方容國透過個人Twitter](https://zh.wikipedia.org/wiki/方容國 "wikilink")，向BABY們傳達歉意：「無法和成員及粉絲們一起，身為隊長只有感到可惜與抱歉」、「為了以健康的樣子回來，會盡最大的努力」，並希望BABY們多多給予成員們關心和應援。隨後，成員們也透過個人Twitter，表示會陪伴[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、成為他的力量，並努力填滿舞台上的空缺\[67\]。當晚，[方容國的雙胞胎哥哥透過個人Instagram](https://zh.wikipedia.org/wiki/方容國 "wikilink")，透露：「[方容國從開始歌手生涯](https://zh.wikipedia.org/wiki/方容國 "wikilink")、及持續從事音樂活動中患上[憂鬱症](https://zh.wikipedia.org/wiki/憂鬱症 "wikilink")，自今年起因併發[恐慌症而變得十分辛苦](../Page/恐慌症.md "wikilink")」，並提到：「會為11月7日以正規專輯回歸的另一個家族B.A.P成員們應援」，文末更以「Everything's
+X?」，預告B.A.P即將回歸。10月21日，正規二輯《Noir》行程表公開\[64\]。10月25日，[TS娛樂表示](../Page/TS娛樂.md "wikilink")[方容國因診斷出患有](https://zh.wikipedia.org/wiki/方容國 "wikilink")[恐慌症](../Page/恐慌症.md "wikilink")，將不參與《Noir》的宣傳活動\[65\]\[66\]。同日，[方容國透過個人Twitter](https://zh.wikipedia.org/wiki/方容國 "wikilink")，向BABY們傳達歉意：「無法和成員及粉絲們一起，身為隊長只有感到可惜與抱歉」、「為了以健康的樣子回來，會盡最大的努力」，並希望BABY們多多給予成員們關心和應援。隨後，成員們也透過個人Twitter，表示會陪伴[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")、成為他的力量，並努力填滿舞台上的空缺\[67\]。當晚，[方容國的雙胞胎哥哥透過個人Instagram](https://zh.wikipedia.org/wiki/方容國 "wikilink")，透露：「[方容國從開始歌手生涯](https://zh.wikipedia.org/wiki/方容國 "wikilink")、及持續從事音樂活動中患上[憂鬱症](https://zh.wikipedia.org/wiki/憂鬱症 "wikilink")，自今年起因併發[恐慌症而變得十分辛苦](../Page/恐慌症.md "wikilink")」，並提到：「會為11月7日以正規專輯回歸的另一個家族B.A.P成員們應援」，文末更以「Everything's
 gonna be alright」作結\[68\]。10月26日，[King
 Records表示](https://zh.wikipedia.org/wiki/King_Records "wikilink")[方容國已完成日語單曲六輯](https://zh.wikipedia.org/wiki/方容國 "wikilink")《Fly
 High》的錄音和拍攝，但以恢復健康為優先，將不參與日本的宣傳活動\[69\]。
@@ -387,7 +386,7 @@ Chart）」的第12名\[71\]\[72\]。11月15日，登上「Billboard世界專輯
 World Albums Chart）」的一位，是繼2013年的《One Shot》、《Badman》及2014年的《First
 Sensibility》之後，第四次獲得一位。與此同時，B.A.P亦成為排行榜上獲得最多一位的韓流歌手\[73\]\[74\]。11月22日，於SBS
 MTV《[The
-Show](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》，獲得〈Skydive〉的首個一位。隨後，BABY們以「\#SKYDIVE1stwin」將B.A.P推上Twitter全球趨勢第三名。11月30日，根據韓國音源網站"MelOn"，[方容國參與了](https://zh.wikipedia.org/wiki/方容國 "wikilink")[黃致列和](../Page/黃致列.md "wikilink")[頌樂所演唱的](https://zh.wikipedia.org/wiki/金容仙 "wikilink")〈꿀이
+Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》，獲得〈Skydive〉的首個一位。隨後，BABY們以「\#SKYDIVE1stwin」將B.A.P推上Twitter全球趨勢第三名。11月30日，根據韓國音源網站"MelOn"，[方容國參與了](https://zh.wikipedia.org/wiki/方容國 "wikilink")[黃致列和](../Page/黃致列.md "wikilink")[頌樂所演唱的](https://zh.wikipedia.org/wiki/金容仙 "wikilink")〈꿀이
 떨어져 (Mellow)〉(收錄在《Fall, in girl
 Vol.2》這張專輯中)的作曲。12月24日，大賢透過SoundCloud公開和朋友共同創作的歌曲〈넌
 어때(How about you)〉。
@@ -395,19 +394,18 @@ Vol.2》這張專輯中)的作曲。12月24日，大賢透過SoundCloud公開和
 ### 2017年：日本巡演「Be. Act. Play」，單曲六輯《Rose》，世界巡演「Party Baby\!」，Project專輯《Party Baby》，日本二輯《Unlimited》，單曲七輯《Blue》
 
 2月6日，公開神秘預告照「\#FF0000」，預告B.A.P即將回歸\[75\]。2月9日，〈FROM
-NOIR〉神秘預告公開\[76\]。2月14日，暗示新專輯概念的拼圖預告照公開\[77\]。2月16日，單曲六輯《Rose》行程表公開\[78\]。2月23日，[TS娛樂表示因](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")[恐慌症而暫停活動的](../Page/恐慌症.md "wikilink")[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")，經持續治療和集中穩定心神之後，身體狀況已有所好轉，將於《Rose》的宣傳活動正式回歸\[79\]\[80\]。3月7日，韓國時間中午12點，單曲六輯《Rose》音源和主打歌〈Wake
+NOIR〉神秘預告公開\[76\]。2月14日，暗示新專輯概念的拼圖預告照公開\[77\]。2月16日，單曲六輯《Rose》行程表公開\[78\]。2月23日，[TS娛樂表示因](../Page/TS娛樂.md "wikilink")[恐慌症而暫停活動的](../Page/恐慌症.md "wikilink")[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")，經持續治療和集中穩定心神之後，身體狀況已有所好轉，將於《Rose》的宣傳活動正式回歸\[79\]\[80\]。3月7日，韓國時間中午12點，單曲六輯《Rose》音源和主打歌〈Wake
 Me Up〉MV公開。同日，晚上9點，透過官方V Live，進行為期一小時的「B.A.P Comeback Vring U, B.A.P
 with Flowers」，並率先公開〈Wake Me Up〉的編舞。專輯發行隔天，即登上「全球iTunes專輯榜（Worldwide
 iTunes Album Chart）」的第6名\[81\]。
 
-3月15日，[TS娛樂表示Him](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")
-Chan在14日的SBS MTV《[The
-Show](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》直播結束後，因感到胸口疼痛而前往醫院就診，診斷結果為[疲勞性骨折](https://zh.wikipedia.org/wiki/疲勞性骨折 "wikilink")。據醫師說法，並非外力撞擊受傷，而是突然劇烈減重、及準備回歸的過量練習導致肋骨出現裂痕。為尊重藝人希望繼續久違的完整體活動的意願，後續舞台將以不參與舞蹈的形式進行\[82\]\[83\]。3月16日，[TS娛樂表示Him](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")
+3月15日，[TS娛樂表示Him](../Page/TS娛樂.md "wikilink") Chan在14日的SBS MTV《[The
+Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》直播結束後，因感到胸口疼痛而前往醫院就診，診斷結果為[疲勞性骨折](https://zh.wikipedia.org/wiki/疲勞性骨折 "wikilink")。據醫師說法，並非外力撞擊受傷，而是突然劇烈減重、及準備回歸的過量練習導致肋骨出現裂痕。為尊重藝人希望繼續久違的完整體活動的意願，後續舞台將以不參與舞蹈的形式進行\[82\]\[83\]。3月16日，[TS娛樂表示Him](../Page/TS娛樂.md "wikilink")
 Chan雖診斷出肋骨疲勞性骨折，然尊重其希望繼續活動的意願，以不參與舞蹈的形式上台。但在15日的MBC Music《[Show
 Champion](../Page/Show_Champion.md "wikilink")》結束後，與Him
 Chan討論的結果，決定以恢復健康為優先，將不參與後續的宣傳活動\[84\]\[85\]。3月24日至26日，舉行單獨演唱會《B.A.P
 2017 World Tour 'Party Baby\!' – Seoul Boom》，先前因肋骨疲勞性骨折而暫停活動的Him
-Chan正式回歸。4月1日至2日，[TS娛樂表示鐘業因確診](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")[腸炎](../Page/腸胃炎.md "wikilink")，將缺席1日的漢陽大學簽名會，及2日的蠶室簽名會和電台行程\[86\]\[87\]。
+Chan正式回歸。4月1日至2日，[TS娛樂表示鐘業因確診](../Page/TS娛樂.md "wikilink")[腸炎](../Page/腸胃炎.md "wikilink")，將缺席1日的漢陽大學簽名會，及2日的蠶室簽名會和電台行程\[86\]\[87\]。
 
 5月22日，音樂劇《拿破崙》演出陣容揭曉，[大賢將飾演拿破崙的弟弟呂西安](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")，亦是首次挑戰音樂劇\[88\]。5月26日，音樂劇《拿破崙》第一波演出日程表公開，[大賢將演出](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")7月16日、7月19日、7月28日、7月30日、8月1日共七場次\[89\]。6月7日，根據KBS歌謠審議的結果，鐘業的〈Try
 My Luck〉因使用日語（Chotto mateyo onaka suita nanka tabeyo）、及19禁歌詞（I need your
@@ -423,18 +421,18 @@ B.A.P」，預告B.A.P即將回歸\[96\]。8月22日，單曲七輯《Blue》行
 
 ### 2018年：巡演「Limited」，演唱會Solo《The Recollection》，北美巡演「Forever」，歐洲巡演「Forever With BABYz」，大賢Solo《BABY》
 
-8月23日，[TS娛樂發表正式聲明](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")：「自2011年8月12日起與[TS娛樂攜手同行的](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")，專屬合約在2018年8月19日正式到期，與本人和成員們長時間討論後，決定尊重本人意願，不再續約」。B.A.P將以五人形式繼續完成既定行程\[98\]。10月8日，因力燦涉嫌性騷擾20代女性而推遲播出的團綜《B.A.P的Traince》，由於警察結束調查後，以起訴意見移交議政府支檢，因此在節目中，力燦部分將被剪輯而不露面\[99\]。11月4日，演唱會Solo特別專輯《The
+8月23日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「自2011年8月12日起與[TS娛樂攜手同行的](../Page/TS娛樂.md "wikilink")[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")，專屬合約在2018年8月19日正式到期，與本人和成員們長時間討論後，決定尊重本人意願，不再續約」。B.A.P將以五人形式繼續完成既定行程\[98\]。10月8日，因力燦涉嫌性騷擾20代女性而推遲播出的團綜《B.A.P的Traince》，由於警察結束調查後，以起訴意見移交議政府支檢，因此在節目中，力燦部分將被剪輯而不露面\[99\]。11月4日，演唱會Solo特別專輯《The
 Recollection》音源公開，收錄了永才的〈Stay With Me (ft.
 Zelo)〉和〈Farewell…〉、鐘業的〈Annoying (ft.
 Zelo)〉、Zelo的〈Howler〉。11月8日起至11月25日，於美國柏克萊、印第奧、達拉斯、芝加哥、費城、亞特蘭大、羅德岱堡、洛杉磯、及加拿大多倫多舉行演唱會《B.A.P
 2018 North America Tour
 "Forever"》。11月30日起至12月9日，於西班牙馬德里、法國巴黎、英國倫敦、德國柏林和杜塞道夫舉行演唱會《B.A.P
 2018 Europe Tour "Forever With
-BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")《BABY》音源和主打歌〈Baby〉MV公開。12月24日，[TS娛樂發表正式聲明](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")：「自2011年12月2日起與[TS娛樂攜手同行的Zelo](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，在合約到期之前，與本人長時間討論後，決定在2018年12月2日正式結束專屬合約」\[100\]。
+BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")《BABY》音源和主打歌〈Baby〉MV公開。12月24日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「自2011年12月2日起與[TS娛樂攜手同行的Zelo](../Page/TS娛樂.md "wikilink")，在合約到期之前，與本人長時間討論後，決定在2018年12月2日正式結束專屬合約」\[100\]。
 
 ### 2019年：繼方容國、Zelo之後→全員不續約
 
-2月18日，[TS娛樂發表正式聲明](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")：「力燦、[大賢](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")、永才、鐘業與[TS娛樂的專屬合約正式到期](https://zh.wikipedia.org/wiki/TS娛樂 "wikilink")，不再續約」\[101\]。同日，鐘業接受韓國媒體News1的電話採訪，表示：「雖因各自的情況和不同的未來規劃，而暫時無法實現，但我相信總有一天會再次重聚」，並提到：「從未說過『解散』一詞。因有成員想試著自己闖一闖，形成了無法再在一起的情況，所以我們決定互相為彼此應援」，此外亦向一直以來給予應援的BABY們表達感謝\[102\]\[103\]。
+2月18日，[TS娛樂發表正式聲明](../Page/TS娛樂.md "wikilink")：「力燦、[大賢](https://zh.wikipedia.org/wiki/鄭大賢 "wikilink")、永才、鐘業與[TS娛樂的專屬合約正式到期](../Page/TS娛樂.md "wikilink")，不再續約」\[101\]。同日，鐘業接受韓國媒體News1的電話採訪，表示：「雖因各自的情況和不同的未來規劃，而暫時無法實現，但我相信總有一天會再次重聚」，並提到：「從未說過『解散』一詞。因有成員想試著自己闖一闖，形成了無法再在一起的情況，所以我們決定互相為彼此應援」，此外亦向一直以來給予應援的BABY們表達感謝\[102\]\[103\]。
 
 ## 音樂作品
 
@@ -443,7 +441,7 @@ BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki
 #### 正規專輯
 
   - 《[First
-    Sensibility](https://zh.wikipedia.org/wiki/First_Sensibility "wikilink")》（2014年）
+    Sensibility](../Page/First_Sensibility.md "wikilink")》（2014年）
   - 《[NOIR](https://zh.wikipedia.org/wiki/Noir_\(B.A.P專輯\) "wikilink")》（2016年）
 
 #### 迷你專輯
@@ -472,13 +470,13 @@ BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki
 
   - 廣告代言
 
-| 日期          | 廣告名稱                                | 參與成員    | 備註                                                                                  |
-| ----------- | ----------------------------------- | ------- | ----------------------------------------------------------------------------------- |
-| 2011年9月1日   | 《Kellan 滑雪服》2011-2012季              | 容國、力燦   | 與[烋星](https://zh.wikipedia.org/wiki/全烋星 "wikilink")、[善伙](../Page/韓善伙.md "wikilink") |
-| 2012年11月    | MTV K《B.A.P, Boys of Dogtown》       | B.A.P全體 |                                                                                     |
-| 2012年12月12日 | Nike《Air Force 1 30週年》The Style One | B.A.P全體 |                                                                                     |
-| 2013年8月23日  | 《Skoolooks 校服》2014年                 | B.A.P全體 | 與[Apink](../Page/Apink.md "wikilink")                                               |
-| 2016年～2017年 | 《釜山樂天酒店》                            | B.A.P全體 |                                                                                     |
+| 日期          | 廣告名稱                                | 參與成員    | 備註                                                               |
+| ----------- | ----------------------------------- | ------- | ---------------------------------------------------------------- |
+| 2011年9月1日   | 《Kellan 滑雪服》2011-2012季              | 容國、力燦   | 與[烋星](../Page/全烋星.md "wikilink")、[善伙](../Page/韓善伙.md "wikilink") |
+| 2012年11月    | MTV K《B.A.P, Boys of Dogtown》       | B.A.P全體 |                                                                  |
+| 2012年12月12日 | Nike《Air Force 1 30週年》The Style One | B.A.P全體 |                                                                  |
+| 2013年8月23日  | 《Skoolooks 校服》2014年                 | B.A.P全體 | 與[Apink](../Page/Apink.md "wikilink")                            |
+| 2016年～2017年 | 《釜山樂天酒店》                            | B.A.P全體 |                                                                  |
 
   - 宣傳大使
 
@@ -845,7 +843,7 @@ BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki
 <th><p><br />
 <small>《<a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a>》</small></p></th>
 <th><p><br />
-<small>《<a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">The Show</a>》</small></p></th>
+<small>《<a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">The Show</a>》</small></p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -1006,7 +1004,7 @@ BABYz"》。12月1日，[大賢個人數位單曲](https://zh.wikipedia.org/wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/First_Sensibility" title="wikilink">First Sensibility</a></p></td>
+<td><p><a href="../Page/First_Sensibility.md" title="wikilink">First Sensibility</a></p></td>
 <td><p>1004（Angel）</p></td>
 <td><p>4</p></td>
 <td><p><strong>1</strong></p></td>

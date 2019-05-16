@@ -6,7 +6,7 @@ PDFtk可以視作[iText程式庫的的客戶端](https://zh.wikipedia.org/wiki/i
 
 ## 功能
 
-下列為根據本軟件在[unix](../Page/unix.md "wikilink") [man
+下列為根據本軟件在[unix](https://zh.wikipedia.org/wiki/unix "wikilink") [man
 page羅列的部分功能](https://zh.wikipedia.org/wiki/man_page "wikilink")：
 
   - 可分割、混合及重新排序PDF頁面。

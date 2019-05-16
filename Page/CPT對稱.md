@@ -56,7 +56,7 @@ CPT 破壞的研究都包含勞侖茲破壞。然而，Chaichian 等人於 2011 
 ## 外部連結
 
   - [物理中的Pin群：C、P及T](http://www.arxiv.org/abs/math-ph/0012006)
-    [arXiv](../Page/arXiv.md "wikilink")
+    [arXiv](https://zh.wikipedia.org/wiki/arXiv "wikilink")
   - [電荷、宇稱及時間反轉（CPT）對稱](http://www.lbl.gov/abc/wallchart/chapters/05/2.html)
     [勞倫斯伯克利國家實驗室](https://zh.wikipedia.org/wiki/勞倫斯伯克利國家實驗室 "wikilink")
   - [用K介子衰變驗證CPT不變性](http://pdg.lbl.gov/2006/reviews/cpt_s011254.pdf)

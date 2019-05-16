@@ -25,7 +25,7 @@ Furie執導的[超級英雄電影](../Page/超級英雄電影.md "wikilink")。�
 
   - [馬克·皮爾洛飾核能超人](https://zh.wikipedia.org/wiki/馬克·皮爾洛 "wikilink")
 
-  - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](https://zh.wikipedia.org/wiki/露薏絲·蓮恩 "wikilink")
+  - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](../Page/露薏絲·蓮恩.md "wikilink")
 
   - 飾[派瑞·懷特](https://zh.wikipedia.org/wiki/派瑞·懷特 "wikilink")
 

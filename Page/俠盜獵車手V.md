@@ -1,4 +1,4 @@
-是一款[開放世界](https://zh.wikipedia.org/wiki/開放世界 "wikilink")[動作冒險](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[Rockstar
+是一款[開放世界](../Page/開放世界.md "wikilink")[動作冒險](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[Rockstar
 North製作](../Page/Rockstar_North.md "wikilink")，[Rockstar
 Games發行](../Page/Rockstar_Games.md "wikilink")。本作在2013年9月17日於[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[Xbox
@@ -6,19 +6,19 @@ Games發行](../Page/Rockstar_Games.md "wikilink")。本作在2013年9月17日�
 
 《俠盜獵車手V》是在開放世界環境中以[第三人稱](https://zh.wikipedia.org/wiki/第三人稱 "wikilink")、[第一人稱遊玩](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")，可讓玩者自由的與遊戲世界互動。遊戲背景設定在虛構的美國聖安地列斯州（San
 Andreas，以[南加州為範本](https://zh.wikipedia.org/wiki/南加州 "wikilink")），玩者可隨意地在荒漠間和虛構的城市[洛聖都](../Page/洛聖都.md "wikilink")（Los
-Santos，以[洛杉磯為範本](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")）中漫遊。本作[故事模式中有三位主角](https://zh.wikipedia.org/wiki/單人電子遊戲 "wikilink")，玩者可在三人之間自由切換操控，而故事劇情則以三人策劃並執行六次大型[搶劫行動](https://zh.wikipedia.org/wiki/搶劫 "wikilink")。遊戲中也包含了[線上多人模式](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")，名為[俠盜獵車手Online](https://zh.wikipedia.org/wiki/俠盜獵車手Online "wikilink")，已於同年10月1日開放，最多可容納30-{}-位玩家（PS4,Xbox
+Santos，以[洛杉磯為範本](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")）中漫遊。本作[故事模式中有三位主角](https://zh.wikipedia.org/wiki/單人電子遊戲 "wikilink")，玩者可在三人之間自由切換操控，而故事劇情則以三人策劃並執行六次大型[搶劫行動](https://zh.wikipedia.org/wiki/搶劫 "wikilink")。遊戲中也包含了[線上多人模式](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")，名為[俠盜獵車手Online](../Page/俠盜獵車手Online.md "wikilink")，已於同年10月1日開放，最多可容納30-{}-位玩家（PS4,Xbox
 One及PC版最多可容納30位玩家\[2\]）在遊戲世界中互相競爭或合作。
 
 開發商將《俠盜獵車手V》視為能延續該公司過往多款作品精神的遊戲，例如《[碧血狂殺](https://zh.wikipedia.org/wiki/碧血狂殺 "wikilink")》和《[江湖本色3](https://zh.wikipedia.org/wiki/江湖本色3 "wikilink")》。本作的開發在《俠盜獵車手IV》推出後隨即展開，主要著重在系列遊戲核心架構上的創新，提供三名主角讓玩者操控。《俠盜獵車手V》一推出就獲得許多評論的讚賞，特別是針對遊戲的故事劇情、表現手法和開放自由的遊玩方式。《俠盜獵車手V》也在商業上獲得極大成功，上市後24小時之內就創下突破遊戲業界紀錄的8億美金銷售額，三天內總銷售額達到10億美元，成為歷史上銷售速度最快的娛樂性產品。\[3\]\[4\]\[5\]
 
 在次世代方面，[Rockstar
 Games曾暗示將發布至其他最新平台](../Page/Rockstar_Games.md "wikilink")，并于2014年索尼的E3游戏展前发布会上宣布本作将在2014年秋季登陆[PlayStation
-4遊戲平台](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")；并在稍后公布了也将同步登陆[Xbox
-One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")，最後將是集結所有技術的PC版本，但也因為在新平台開發，電腦版隨著主機因素一同順延後又因為技術問題二度跳票，遊戲上市比起前一部作品慢了一年之久。
+4遊戲平台](../Page/PlayStation_4.md "wikilink")；并在稍后公布了也将同步登陆[Xbox
+One](../Page/Xbox_One.md "wikilink")，最後將是集結所有技術的PC版本，但也因為在新平台開發，電腦版隨著主機因素一同順延後又因為技術問題二度跳票，遊戲上市比起前一部作品慢了一年之久。
 
 ## 遊戲內容
 
-《俠盜獵車手V》是一款[第三人稱](https://zh.wikipedia.org/wiki/第三人稱 "wikilink")[開放世界](https://zh.wikipedia.org/wiki/開放世界 "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")。玩者可通过完成带设定目标的任务场景，使故事取得进展\[6\]。除了做任务，玩家可自由徜徉开放世界里——从开阔乡村地区，到虚构城市[洛圣都](https://zh.wikipedia.org/wiki/洛圣都 "wikilink")。《侠盗猎车手V》的地图比系列的任一早期作品都大\[7\]。地图从一开始就可不受限制地探索，但随着剧情的发展，会有更多的游戏内容解锁\[8\]。玩者使用拳腳近身攻擊、槍械、武器和炸彈等來與敵人戰鬥，並能夠以跑步、跳躍、游泳和駕駛各種載具等方式浏览地图。为适应地图的大小，本作引入了《[侠盗猎车手IV](https://zh.wikipedia.org/wiki/侠盗猎车手IV "wikilink")》中缺席的[固定翼飞机](https://zh.wikipedia.org/wiki/固定翼飞机 "wikilink")。遊戲提供了[自動瞄準和](https://zh.wikipedia.org/wiki/自動瞄準 "wikilink")來幫助玩家與敵人戰鬥。\[9\]若主角受伤，其健康值将恢复到中间点。玩者透過完成一連串的任務來推進遊戲的故事內容，與大多數的開放世界類型的遊戲相同，玩者可自由選擇在任何時間去執行這些任務。如果玩者在遊戲中進行了任何違法行為，遊戲中的警察機構可能會採取行動，遊戲右上角將會顯示玩者被「通緝」的程度\[10\]。當玩者持續進行違法行為時，用來代表通緝程度的星號將會增加，警察對於玩者的追緝也會隨之變得更加激烈。在玩者逃離警方的視線範圍後，右上角的通緝星星會開始閃爍，閃爍一段時間並沒被警察發現後即會取消通緝(警察的視線範圍是小地圖上的藍色區域)。\[11\]
+《俠盜獵車手V》是一款[第三人稱](https://zh.wikipedia.org/wiki/第三人稱 "wikilink")[開放世界](../Page/開放世界.md "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")。玩者可通过完成带设定目标的任务场景，使故事取得进展\[6\]。除了做任务，玩家可自由徜徉开放世界里——从开阔乡村地区，到虚构城市[洛圣都](https://zh.wikipedia.org/wiki/洛圣都 "wikilink")。《侠盗猎车手V》的地图比系列的任一早期作品都大\[7\]。地图从一开始就可不受限制地探索，但随着剧情的发展，会有更多的游戏内容解锁\[8\]。玩者使用拳腳近身攻擊、槍械、武器和炸彈等來與敵人戰鬥，並能夠以跑步、跳躍、游泳和駕駛各種載具等方式浏览地图。为适应地图的大小，本作引入了《[侠盗猎车手IV](https://zh.wikipedia.org/wiki/侠盗猎车手IV "wikilink")》中缺席的[固定翼飞机](https://zh.wikipedia.org/wiki/固定翼飞机 "wikilink")。遊戲提供了[自動瞄準和](https://zh.wikipedia.org/wiki/自動瞄準 "wikilink")來幫助玩家與敵人戰鬥。\[9\]若主角受伤，其健康值将恢复到中间点。玩者透過完成一連串的任務來推進遊戲的故事內容，與大多數的開放世界類型的遊戲相同，玩者可自由選擇在任何時間去執行這些任務。如果玩者在遊戲中進行了任何違法行為，遊戲中的警察機構可能會採取行動，遊戲右上角將會顯示玩者被「通緝」的程度\[10\]。當玩者持續進行違法行為時，用來代表通緝程度的星號將會增加，警察對於玩者的追緝也會隨之變得更加激烈。在玩者逃離警方的視線範圍後，右上角的通緝星星會開始閃爍，閃爍一段時間並沒被警察發現後即會取消通緝(警察的視線範圍是小地圖上的藍色區域)。\[11\]
 
 在單人模式中，玩者扮演《俠盜獵車手V》中的三個主要角色，分別是[麥可·迪圣塔](https://zh.wikipedia.org/wiki/麥可·迪圣塔 "wikilink")（Michael
 De
@@ -102,7 +102,7 @@ Games正式公布了此遊戲的第一張藝術圖，該圖片名為病蟲害防
 2012年10月30日，Rockstar Games正式宣佈此遊戲將於2013年第一季登录[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[Xbox
 360平台](../Page/Xbox_360.md "wikilink")\[69\]，但就表示暫時還沒有關於[個人電腦版本的相關資訊](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。这与在網路上流傳的一些零售商洩漏的海報上的内容相同。\[70\]於11月5日，遊戲正式預售\[71\]，五小時後宣布第二部預告片的公开时间。为刺激预售量，Rockstar与多家零售网点合作，特供有额外游戏功能的特别版\[72\]。Rockstar还用上[病毒营销策略](../Page/病毒营销.md "wikilink")，运行一个虚构的宗教崇拜网站“艾普西龙计划”，提供用户给游戏设置邪教组织成员的机会\[73\]。同月14日，Rockstar
-Games正式公布了因[颶風桑迪來襲而延遲發佈的第二部預告片](https://zh.wikipedia.org/wiki/颶風桑迪 "wikilink")。\[74\]\[75\]
+Games正式公布了因[颶風桑迪來襲而延遲發佈的第二部預告片](../Page/颶風桑迪.md "wikilink")。\[74\]\[75\]
 
 2013年2月1日，因開發工程被延遲，Rockstar
 Games宣佈遊戲發佈日期順延至2013年9月17日，\[76\]於4月30日，Rockstar
@@ -116,7 +116,7 @@ Games的母公司Take-Two Interactive宣布GTA V在發佈三日後，其销售�
 
 ### 背景設定
 
-《俠盜獵車手V》中的[開放世界設定在虛構的聖安地列斯州](https://zh.wikipedia.org/wiki/開放世界 "wikilink")（San
+《俠盜獵車手V》中的[開放世界設定在虛構的聖安地列斯州](../Page/開放世界.md "wikilink")（San
 Andreas），其背景以[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[南加州為範本](https://zh.wikipedia.org/wiki/南加州 "wikilink")。系列作品中的《俠盜獵車手：聖安地列斯》同樣也是以聖安地列斯州為作為遊戲背景，其中包含了三個城市和鄉村區域。然而《俠盜獵車手V》的世界中只有「洛聖都」（Los
 Santos）一座城市。\[85\]這樣的設定讓製作團隊能更加專注地建構出更高品質、更壯觀的城市場景。\[86\]在這兩款遊戲中的洛聖都都是以[洛杉磯作為設計藍本](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，\[87\]製作團隊認為《俠盜獵車手：聖安地列斯》中充滿野心的三座城市設定太過龐大，且造成遊戲無法真實反應他們心目中理想的城市設計。製作人丹·浩瑟（Dan
 Houser）解釋道「為了適當的重現洛杉磯，⋯⋯在無法完全複製的情況下，遊戲必須要讓你有一種開闊延展的感受」，此外將製作預算和人力分配給三座城市可能導致無法準確捕捉洛杉磯的真實樣貌。\[88\]藝術監製亞倫·蓋博特（Aaron
@@ -129,8 +129,8 @@ Garbut）認為在[PlayStation
 
 2014年[E3大展上](https://zh.wikipedia.org/wiki/E3 "wikilink")，游戏重制版宣布于2014年下半年登录[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
-4和](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")[Xbox
-One平台](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")。增强版增加绘制距离、更精细的纹理细节、更密集的交通及增强的[分辨率](../Page/分辨率.md "wikilink")，还有新的野生动物、动物和升级的天气效果。玩家可透过现有平台的网络版，向新平台传输角色和进度。此外，Windows还设有回放编辑器，让玩家自创游戏视频剪辑\[93\]。而[PC因二度延期到了](../Page/PC.md "wikilink")2015年4月14日上市，它比起前作，PC移植工作慢了約一年之久，跟據遊戲工作室表示電腦版本的開發不是基於PS3的架構移植，而是基於PS4與XBOX
+4和](../Page/PlayStation_4.md "wikilink")[Xbox
+One平台](../Page/Xbox_One.md "wikilink")。增强版增加绘制距离、更精细的纹理细节、更密集的交通及增强的[分辨率](../Page/分辨率.md "wikilink")，还有新的野生动物、动物和升级的天气效果。玩家可透过现有平台的网络版，向新平台传输角色和进度。此外，Windows还设有回放编辑器，让玩家自创游戏视频剪辑\[93\]。而[PC因二度延期到了](../Page/PC.md "wikilink")2015年4月14日上市，它比起前作，PC移植工作慢了約一年之久，跟據遊戲工作室表示電腦版本的開發不是基於PS3的架構移植，而是基於PS4與XBOX
 ONE全新開發，所以跟著主機花費了一年，又在後來加入新技術試驗（據稱是為了GTA online與模組功能），研發進度才比較吃緊。
 
 ## 人物
@@ -158,7 +158,7 @@ ONE全新開發，所以跟著主機花費了一年，又在後來加入新技�
 Two帶來了超過8億美元的收入，相當於賣出約1,300萬套，打破了《[決勝時刻：黑色行動2](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》5億美元的首日銷售額記錄。這個銷售數字超過了之前許多分析家預測的一倍以上。\[103\]\[104\]發佈後三天，《俠盜獵車手V》已創下10億美元的銷售額記錄，\[105\]也打破了《決勝時刻：黑色行動2》過了15日就超越10億美元銷售額的銷售記錄。\[106\]
 
 大多數的評論讚揚遊戲中在角色之間切換的要素成功擴大了動作場面的規模，並能讓玩者更自由的探索遊戲世界。《[Game
-Informer](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")》雜誌的麥特·柏茲（Matt
+Informer](../Page/Game_Informer.md "wikilink")》雜誌的麥特·柏茲（Matt
 Bertz）認為許多任務中可切換操縱不同角色的設計讓槍戰過程的節奏更快，能讓玩者持續「處於動作場面中最刺激的部分」。\[107\][Eurogamer的湯姆](../Page/Eurogamer.md "wikilink")·布藍威爾（Tom
 Bramwell）則指出角色切換能讓玩者將不同主角安排在不同的戰略位置，採取更具戰略性的方式來完成任務，與過往的《俠盜獵車手》遊戲相比「標準射擊位置大幅減少了」。\[108\][IGN的克薩](../Page/IGN.md "wikilink")·麥唐諾（Keza
 McDonald）同意布藍威爾的觀點，她也認為向玩者提供多位角色能避免任務過程變的「公式化」，讓玩者能自行選擇如何進行動作場面。\[109\]《[Edge](../Page/Edge_\(杂志\).md "wikilink")》雜誌的編輯更進一步讚揚角色切換功能讓玩者無需花費長時間來駕駛至任務的起始點，可直接切換至離起始點較近的角色來執行任務。\[110\]
@@ -170,7 +170,7 @@ de Matos）认为创造性和有条不紊的方式是值得鼓励的。Polygon�
 Plante）将抢劫任务中角色的快速切换，比作“玩机担任剪辑师的电影编辑，要在任何时候快速切换至有趣的视角\[114\]。”《[电脑与电子游戏](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》的安迪·凯利（Andy
 Kelly）认为游戏任务的总体设计，比前作的护送跑腿更为多样化\[115\]。
 
-开放世界设计亦是一大优点，有人还称赞游戏将洛杉矶的地理，精简成精心设计的城市空间\[116\]\[117\]。[GameTrailers的布兰登](https://zh.wikipedia.org/wiki/GameTrailers "wikilink")·琼斯（Brandon
+开放世界设计亦是一大优点，有人还称赞游戏将洛杉矶的地理，精简成精心设计的城市空间\[116\]\[117\]。[GameTrailers的布兰登](../Page/GameTrailers.md "wikilink")·琼斯（Brandon
 Jones）认为对洛杉矶的模拟真实，感受到开放世界“充满发言权和个性”。《Edge》则直接赞扬图像的逼真和无加载屏幕\[118\]。《Play》还赞扬了描绘距离、天气系统和照明系统\[119\]。IGN和PlayStation官方杂志认为洛圣都比《侠盗猎车手IV》[自由城更优秀](https://zh.wikipedia.org/wiki/自由城 "wikilink")\[120\]\[121\]。Xbox官方杂志的米克尔·里帕雷斯（Mikel
 Reparez）认为洛圣都超越“灰暗且粗糙”的自由城\[122\]。许多人将地图视作对当地美国文化的讽刺\[123\]\[124\]\[125\]\[126\]\[127\]。OPM的乔尔·格雷戈里（Joel
 Gregory）认为“社会的严厉评论，当然是前沿和正确的\[128\]。”
@@ -191,7 +191,7 @@ Tito）难以将角色的情绪联系到一起，皆因她们行事贪婪，缺�
 游戏上市两周后，《侠盗猎车手Online》于2013年10月1日正式上线\[156\]。有许多玩家称伺服器和社交俱乐部网页服务难以连接，玩早期任务读档时会卡住\[157\]\[158\]。10月5日，Rockstar就相关问题发布技术补丁\[159\]。玩家用真实货币购买游戏内容的[微收费系统](https://zh.wikipedia.org/wiki/微收费 "wikilink")，因安全故障暂停服务\[160\]。上线第二周，问题依然存在，有些玩家称角色进度条消失了\[161\]。10月10日，第二个技术补丁发布，玩家遇到多人游戏头像不能更换的问题\[162\]。为补偿玩家，Rockstar共向全部线上玩家提供50万美元（GTA币）\[163\]。Rockstar母公司[Take-Two
 Interactive表示](../Page/Take-Two_Interactive.md "wikilink")，截至2014年2月，70%的网上登录玩家玩《侠盗猎车手Online》，而游戏中的微收费系统，是自游戏上线以来，公司数字收入的最大贡献者\[164\]。
 
-一上线就问题多多，许多评论家哀叹自己的游戏体验\[165\]\[166\]。《Destructoid》的克里斯·卡特批评“上线乱来”，认为Rockstar应延迟游戏上线\[167\]。[IGN的麦克唐纳认为她起初在](../Page/IGN.md "wikilink")《Online》的游玩是“灾难性的\[168\]”。《数字间谍》的利亚姆·马丁则通报了角色数据丢失的故障。尽管普遍称赞体验范畴，但他认为在线版上线前的期望，被技术问题所辜负，从而给人留下深刻印象\[169\]。角色创造系统遭到评论家们的吐槽，他们认为该系统只会制造没有吸引力的头像\[170\]\[171\]\[172\]\[173\]。IGN的麦克唐纳称角色进度是“上瘾的节奏”，热衷于某些工作任务，最终变得乏味。[Gamespot的佩蒂特同意麦克唐纳的观点](../Page/Gamespot.md "wikilink")：“起初，你的任务选项以死亡赛中平淡的最后一支队伍为主。”然而，评论家普遍认可在线版在开放式探索和动态内容上的实力\[174\]\[175\]\[176\]。VldeoGamer.com的乔恩·丹顿极为狂热的写道，“无穷”的游戏弥补了技术问题\[177\]。
+一上线就问题多多，许多评论家哀叹自己的游戏体验\[165\]\[166\]。《Destructoid》的克里斯·卡特批评“上线乱来”，认为Rockstar应延迟游戏上线\[167\]。[IGN的麦克唐纳认为她起初在](../Page/IGN.md "wikilink")《Online》的游玩是“灾难性的\[168\]”。《数字间谍》的利亚姆·马丁则通报了角色数据丢失的故障。尽管普遍称赞体验范畴，但他认为在线版上线前的期望，被技术问题所辜负，从而给人留下深刻印象\[169\]。角色创造系统遭到评论家们的吐槽，他们认为该系统只会制造没有吸引力的头像\[170\]\[171\]\[172\]\[173\]。IGN的麦克唐纳称角色进度是“上瘾的节奏”，热衷于某些工作任务，最终变得乏味。[Gamespot的佩蒂特同意麦克唐纳的观点](https://zh.wikipedia.org/wiki/Gamespot "wikilink")：“起初，你的任务选项以死亡赛中平淡的最后一支队伍为主。”然而，评论家普遍认可在线版在开放式探索和动态内容上的实力\[174\]\[175\]\[176\]。VldeoGamer.com的乔恩·丹顿极为狂热的写道，“无穷”的游戏弥补了技术问题\[177\]。
 
 線上模式在1.14更新便開始了不少破壞遊戲公平性的問題，例如無敵狀態，每一次更新將問題解決後，又會有其他問題出現\[178\]。
 
@@ -244,7 +244,7 @@ Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金摇杆奖" title="wikilink">2013年金摇杆奖</a></p></td>
+<td><p><a href="../Page/金摇杆奖.md" title="wikilink">2013年金摇杆奖</a></p></td>
 <td><p>年度游戏</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/侠盗猎车手V" title="wikilink">侠盗猎车手V</a></p></td>
 <td></td>
@@ -740,7 +740,7 @@ Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ars_Technica" title="wikilink">Ars Technica</a>'s 20 best (and three most disappointing) video games of 2013</p></td>
+<td><p><a href="../Page/Ars_Technica.md" title="wikilink">Ars Technica</a>'s 20 best (and three most disappointing) video games of 2013</p></td>
 <td><p>Best Game</p></td>
 <td><p><em>Grand Theft Auto V</em></p></td>
 <td></td>
@@ -820,7 +820,7 @@ Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GameTrailers" title="wikilink">GameTrailers</a> Game of the Year Awards 2013</p></td>
+<td><p><a href="../Page/GameTrailers.md" title="wikilink">GameTrailers</a> Game of the Year Awards 2013</p></td>
 <td><p>Best Multiplayer</p></td>
 <td><p><em>Grand Theft Auto Online</em></p></td>
 <td></td>
@@ -996,7 +996,7 @@ Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GameTrailers" title="wikilink">GameTrailers</a>' Game of the Year Awards</p></td>
+<td><p><a href="../Page/GameTrailers.md" title="wikilink">GameTrailers</a>' Game of the Year Awards</p></td>
 <td><p>Game of the Year</p></td>
 <td><p><em>Grand Theft Auto V</em></p></td>
 <td></td>
@@ -1146,7 +1146,7 @@ the Book”中酷刑的基本政治评论必定需要暴力内容\[314\]。
 
 ### 性别歧视
 
-有些评论家得出游戏将女性描述得招人厌。佩蒂特在Gamespot写道，“跳脱衣舞、卖淫、折磨妻子、有幽默感的[女友](https://zh.wikipedia.org/wiki/女友 "wikilink")，愚蠢的新时代[女权主义者](https://zh.wikipedia.org/wiki/女权主义 "wikilink")”有厌恶女性的气息，并讽刺地表示[厌女症已合法化](../Page/厌女症.md "wikilink")\[315\]。她的评论遭到2万名玩家的口诛笔伐，[Change.org甚至要求其引咎辞职](https://zh.wikipedia.org/wiki/Change.org "wikilink")\[316\]。同样，Polygon的普兰特认为，花边女性角色被塑造得带成见，“女性在游戏中的待遇是当代人的遗毒\[317\]。”《[洛杉矶时报](https://zh.wikipedia.org/wiki/洛杉矶时报 "wikilink")》的托德·马丁认为对女性的讽刺性描写，缺乏创造性，认为暴力和性别歧视等主题，伤害到游戏体验\[318\]。《Edge》指出，“游戏中的每一位女性的存在，或是被讥笑，或是被斜眼一瞥，或是被嘲讽，就像所有男性角色被处理得有暴力的刻板倾向\[319\]。《[VG247](../Page/VG247.md "wikilink")》的戴夫·库克在一篇评论中，加深了女性角色以刻板印象塑造的气氛：“她们待救助，满嘴脏话，容忍，被害，购物或打电话时聊八卦\[320\]。”
+有些评论家得出游戏将女性描述得招人厌。佩蒂特在Gamespot写道，“跳脱衣舞、卖淫、折磨妻子、有幽默感的[女友](https://zh.wikipedia.org/wiki/女友 "wikilink")，愚蠢的新时代[女权主义者](https://zh.wikipedia.org/wiki/女权主义 "wikilink")”有厌恶女性的气息，并讽刺地表示[厌女症已合法化](../Page/厌女症.md "wikilink")\[315\]。她的评论遭到2万名玩家的口诛笔伐，[Change.org甚至要求其引咎辞职](../Page/Change.org.md "wikilink")\[316\]。同样，Polygon的普兰特认为，花边女性角色被塑造得带成见，“女性在游戏中的待遇是当代人的遗毒\[317\]。”《[洛杉矶时报](https://zh.wikipedia.org/wiki/洛杉矶时报 "wikilink")》的托德·马丁认为对女性的讽刺性描写，缺乏创造性，认为暴力和性别歧视等主题，伤害到游戏体验\[318\]。《Edge》指出，“游戏中的每一位女性的存在，或是被讥笑，或是被斜眼一瞥，或是被嘲讽，就像所有男性角色被处理得有暴力的刻板倾向\[319\]。《[VG247](../Page/VG247.md "wikilink")》的戴夫·库克在一篇评论中，加深了女性角色以刻板印象塑造的气氛：“她们待救助，满嘴脏话，容忍，被害，购物或打电话时聊八卦\[320\]。”
 
 佩蒂特的评论，引发对游戏中女性角色和批评游戏社区的防御性的广泛讨论\[321\]\[322\]。[Eurogamer的罗布](https://zh.wikipedia.org/wiki/GamesIndustry.biz "wikilink")·费伊担心游戏的专题讨论会变得污名化，一旦玩家驳斥批评，称“游戏不仅关于女性，还事关每个人有机会去抢劫的智慧，我们该如何中立地看待这有趣的辩论······问题复杂······这彻头彻尾的无聊得让人沮丧，这种风险使得我们的游戏愚蠢且过于无聊\[323\]。”记者汤姆·比塞尔同意佩蒂特“防御性的地位”，认为玩家对批评游戏的反应，比其他娱乐媒体的粉丝们更积极\[324\]。Rockstar
 Games的联合创始人萨姆·豪泽表示开发团队有时会忽略女性在游戏中的写照，但男性角色的戏份“适合我们所讲的故事\[325\]”。
@@ -1165,7 +1165,7 @@ Hit”两支单曲而被告上法庭。\[326\]美国真人电视节目《[暴徒
 Gamer](https://zh.wikipedia.org/wiki/Hardcore_Gamer "wikilink")》在“当代百大游戏”榜单中将本作位列第三。他们指出游戏对设计和驾驶机制改进，超出前作。他们还认为，多主角设计“是节奏上的可喜变化”，并可能是第八代游戏的标杆\[336\]。2013年12月，《[每日电讯报](../Page/每日电讯报.md "wikilink")》将本作列入“当代游戏机的50大最佳游戏”，称其为“文化巨兽”，将是“Rockstar的永恒遗产\[337\]。”
 
 2014年1月，本作在《[电脑与电子游戏](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》“20-1年代游戏”榜单中位列第四。编辑罗布·克罗斯利表示，[Rockstar首次创造了](../Page/Rockstar_Games.md "wikilink")“臻至完美”的开放世界。他指出，游戏废除《[侠盗猎车手IV](https://zh.wikipedia.org/wiki/侠盗猎车手IV "wikilink")》的重复性人物设计，而专注于游戏的乐趣\[338\]。5月，IGN在“当代百大游戏”榜单将其列入第八，称其是“通往第八代游戏机的一座庞大、喧闹且野心慢慢的桥梁\[339\]”。随后一个月，本作被IGN读者评委“你的当代心水百佳游戏\[340\]”。8月，[Game
-Informer将本作列入](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")“当代十大动作游戏”榜单第三。他们将本作的质量与前作比较，认为它角色设置的糅合、任务的多样性和多人游戏，取代了《侠盗猎车手IV》在榜单中的位置，指出剧情是荒诞的戏剧，展现开放世界的浩瀚，花在玩游戏的时间上不会“有一秒钟的后悔\[341\]”。
+Informer将本作列入](../Page/Game_Informer.md "wikilink")“当代十大动作游戏”榜单第三。他们将本作的质量与前作比较，认为它角色设置的糅合、任务的多样性和多人游戏，取代了《侠盗猎车手IV》在榜单中的位置，指出剧情是荒诞的戏剧，展现开放世界的浩瀚，花在玩游戏的时间上不会“有一秒钟的后悔\[341\]”。
 
 2015年8月母公司Take-Two公布銷售全平台達到5400萬套，超越了《[超級瑪利歐兄弟](https://zh.wikipedia.org/wiki/超級瑪利歐兄弟 "wikilink")》\[342\]。
 

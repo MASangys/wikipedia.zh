@@ -1,4 +1,4 @@
-《Unix编程艺术》（）是系统介绍[Unix系统领域中的历史](../Page/Unix.md "wikilink")、设计和开发哲学、思想文化体系、原则与经验方面的书籍，作者[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")。
+《Unix编程艺术》（）是系统介绍[Unix系统领域中的历史](https://zh.wikipedia.org/wiki/Unix "wikilink")、设计和开发哲学、思想文化体系、原则与经验方面的书籍，作者[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")。
 
 ## 内容简介
 

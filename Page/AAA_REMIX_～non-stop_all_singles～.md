@@ -1,10 +1,10 @@
 「**AAA REMIX ～non-stop all
 singles～**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")2枚混音專輯。於2009年3月4日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張專輯「[depArture](../Page/depArture.md "wikilink")」相距約1個月。與上一張混音專輯「[REMIX
+  - 與上一張專輯「[depArture](https://zh.wikipedia.org/wiki/depArture "wikilink")」相距約1個月。與上一張混音專輯「[REMIX
     ATTACK](../Page/REMIX_ATTACK.md "wikilink")」相距約3年。
   - 收錄第1張單曲「[BLOOD on
     FIRE](../Page/BLOOD_on_FIRE.md "wikilink")」至第20張單曲「[啟程之歌](../Page/啟程之歌_\(AAA單曲\).md "wikilink")」共27首A面曲的Remix版本。

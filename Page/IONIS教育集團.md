@@ -4,8 +4,7 @@
 
 ### IONIS工商學院
 
-  - [Institut supérieur de
-    gestion](https://zh.wikipedia.org/wiki/ISG商学院 "wikilink")
+  - [Institut supérieur de gestion](../Page/ISG商学院.md "wikilink")
   - ISG Luxury Management
   - [ISEG business and finance
     school](https://zh.wikipedia.org/wiki/欧洲高等管理学院 "wikilink")
@@ -23,7 +22,7 @@
     avancées](../Page/Epita.md "wikilink")
   - École spéciale de mécanique et d'électricité
   - [École pour l'informatique et les nouvelles
-    technologies](https://zh.wikipedia.org/wiki/Epitech "wikilink")
+    technologies](../Page/Epitech.md "wikilink")
   - [Institut polytechnique des sciences
     avancées](../Page/高等科学技术学院.md "wikilink")
   - Sup'biotech

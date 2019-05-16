@@ -1,10 +1,10 @@
-**蘆屋站**（）是一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[蘆屋市船戶町](../Page/蘆屋市.md "wikilink")，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線的](../Page/東海道本線.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。「[JR神戶線](https://zh.wikipedia.org/wiki/JR神戶線 "wikilink")」的愛稱路段內。新快速的停靠站。
+**蘆屋站**（）是一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[蘆屋市船戶町](../Page/蘆屋市.md "wikilink")，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線的](../Page/東海道本線.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。「[JR神戶線](../Page/JR神戶線.md "wikilink")」的愛稱路段內。新快速的停靠站。
 
 1996年10月1日啟用的與2007年3月18日啟用的，兩個相鄰車站皆為JR化後的車站。
 
 ## 車站結構
 
-[島式月台](../Page/島式月台.md "wikilink")2面4線（可對應12節編組），並設有1條通過線的2面6線[地面車站](https://zh.wikipedia.org/wiki/地面車站 "wikilink")，設有[跨站式站房](../Page/跨站式站房.md "wikilink")。
+[島式月台](../Page/島式月台.md "wikilink")2面4線（可對應12節編組），並設有1條通過線的2面6線[地面車站](../Page/地面車站.md "wikilink")，設有[跨站式站房](../Page/跨站式站房.md "wikilink")。
 
 ### 月台配置
 
@@ -20,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/JR神戶線" title="wikilink">JR神戶線</a></p></td>
+<td><p><a href="../Page/JR神戶線.md" title="wikilink">JR神戶線</a></p></td>
 <td><p><a href="../Page/尼崎站_(JR西日本).md" title="wikilink">尼崎</a>、<a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>、<a href="https://zh.wikipedia.org/wiki/京都站" title="wikilink">京都方向</a></p></td>
 <td><p>新快速、普通、部分快速列車</p></td>
 </tr>

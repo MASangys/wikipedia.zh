@@ -8,7 +8,7 @@ Brandenburg Pfalz e.V.是单一股东。
 [TÜV-Rheinland-Hochhaus_Köln-Poll_2011.jpg](https://zh.wikipedia.org/wiki/File:TÜV-Rheinland-Hochhaus_Köln-Poll_2011.jpg "fig:TÜV-Rheinland-Hochhaus_Köln-Poll_2011.jpg")
 德国莱茵TÜV集团提供约2,500种服务，业务集中在39个领域，共涉及6大服务范畴：[工业服务](https://zh.wikipedia.org/wiki/工业 "wikilink")、[交通服务](../Page/交通.md "wikilink")、[产品服务](https://zh.wikipedia.org/wiki/产品 "wikilink")、[生命科学服务](https://zh.wikipedia.org/wiki/生命科学 "wikilink")、[教育与](../Page/教育.md "wikilink")[咨询服务](https://zh.wikipedia.org/wiki/咨询 "wikilink")、[管理体系服务](https://zh.wikipedia.org/wiki/管理体系 "wikilink")。
 
-  - 工业服务：[土木工程](../Page/土木工程.md "wikilink")、工业和[建筑项目咨询管理](../Page/建筑.md "wikilink")、[电子工程及建筑技术](../Page/电子工程.md "wikilink")、升降运输[机械技术](../Page/机械.md "wikilink")、[能源及](../Page/能源.md "wikilink")[环境保护](../Page/环境保护.md "wikilink")、[工厂](https://zh.wikipedia.org/wiki/工厂 "wikilink")[安全](https://zh.wikipedia.org/wiki/安全 "wikilink")、承压设备和[材料工程](https://zh.wikipedia.org/wiki/材料工程 "wikilink")。
+  - 工业服务：[土木工程](../Page/土木工程.md "wikilink")、工业和[建筑项目咨询管理](../Page/建筑.md "wikilink")、[电子工程及建筑技术](../Page/电子工程.md "wikilink")、升降运输[机械技术](../Page/机械.md "wikilink")、[能源及](../Page/能源.md "wikilink")[环境保护](../Page/环境保护.md "wikilink")、[工厂](https://zh.wikipedia.org/wiki/工厂 "wikilink")[安全](../Page/安全.md "wikilink")、承压设备和[材料工程](https://zh.wikipedia.org/wiki/材料工程 "wikilink")。
 
 <!-- end list -->
 

@@ -8,19 +8,19 @@ Were Meant For Me》，而本唱片亦收錄了上一張唱片《886》的兩首
 
 ## 收錄歌曲
 
-| 次序   | 歌名                      | 作曲                                                  | 填詞                                                  | 編曲                                                       | 監製                      |
-| ---- | ----------------------- | --------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- | ----------------------- |
-| 1\.  | 前菜                      | [英師傅](https://zh.wikipedia.org/wiki/英師傅 "wikilink") | [周耀輝](../Page/周耀輝.md "wikilink")                    | 英師傅                                                      | James Ting、Evi Yang     |
-| 2\.  | 小黑與我                    | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") | [林夕](../Page/林夕.md "wikilink")                      | Billy Chan                                               | 崔炎德                     |
-| 3\.  | 男孩像你                    | [徐繼宗](https://zh.wikipedia.org/wiki/徐繼宗 "wikilink") | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | Billy Chan                                               | James Ting、崔炎德、Evi Yang |
-| 4\.  | 拒絕畢彼特                   | [張家誠](../Page/張家誠.md "wikilink")                    | 黃偉文                                                 | Goro Wong                                                | 崔炎德、Evi Yang            |
-| 5\.  | 快樂到天亮                   | [方樹樑](../Page/方樹樑.md "wikilink")、George Michael     | 林夕、George Michael                                   | 方樹樑                                                      | James Ting、Evi Yang     |
-| 6\.  | 我想留低                    | Guiseppi Carella、Cheope                             | 黃偉文                                                 | [蔡德才](https://zh.wikipedia.org/wiki/蔡德才 "wikilink")＠人山人海 | James Ting、Evi Yang     |
-| 7\.  | 瞬間轉移                    | [周國賢](../Page/周國賢.md "wikilink")                    | [游思行](../Page/游思行.md "wikilink")                    | 周國賢                                                      | James Ting / Evi Yang   |
-| 8\.  | 未約定                     | [伍仲衡](../Page/伍仲衡.md "wikilink")                    | 林夕                                                  | 伍仲衡                                                      | James Ting、Evi Yang     |
-| 9\.  | Zentrix\[1\]            | James Ting                                          | 游思行                                                 | James Ting                                               | James Ting              |
-| 10\. | Si j'etais Carla....... | Guiseppi Carella、Cheope                             | David Santandreu Calonge                            | \-                                                       | \-                      |
-| 11\. | You Were Meant For Me   | Jewel、Steven Joseph Poltz                           | Jewel、Steven Joseph Poltz                           | \-                                                       | \-                      |
+| 次序   | 歌名                      | 作曲                                                  | 填詞                                                  | 編曲                                    | 監製                      |
+| ---- | ----------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------------------- | ----------------------- |
+| 1\.  | 前菜                      | [英師傅](https://zh.wikipedia.org/wiki/英師傅 "wikilink") | [周耀輝](../Page/周耀輝.md "wikilink")                    | 英師傅                                   | James Ting、Evi Yang     |
+| 2\.  | 小黑與我                    | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") | [林夕](../Page/林夕.md "wikilink")                      | Billy Chan                            | 崔炎德                     |
+| 3\.  | 男孩像你                    | [徐繼宗](https://zh.wikipedia.org/wiki/徐繼宗 "wikilink") | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | Billy Chan                            | James Ting、崔炎德、Evi Yang |
+| 4\.  | 拒絕畢彼特                   | [張家誠](../Page/張家誠.md "wikilink")                    | 黃偉文                                                 | Goro Wong                             | 崔炎德、Evi Yang            |
+| 5\.  | 快樂到天亮                   | [方樹樑](../Page/方樹樑.md "wikilink")、George Michael     | 林夕、George Michael                                   | 方樹樑                                   | James Ting、Evi Yang     |
+| 6\.  | 我想留低                    | Guiseppi Carella、Cheope                             | 黃偉文                                                 | [蔡德才](../Page/蔡德才.md "wikilink")＠人山人海 | James Ting、Evi Yang     |
+| 7\.  | 瞬間轉移                    | [周國賢](../Page/周國賢.md "wikilink")                    | [游思行](../Page/游思行.md "wikilink")                    | 周國賢                                   | James Ting / Evi Yang   |
+| 8\.  | 未約定                     | [伍仲衡](../Page/伍仲衡.md "wikilink")                    | 林夕                                                  | 伍仲衡                                   | James Ting、Evi Yang     |
+| 9\.  | Zentrix\[1\]            | James Ting                                          | 游思行                                                 | James Ting                            | James Ting              |
+| 10\. | Si j'etais Carla....... | Guiseppi Carella、Cheope                             | David Santandreu Calonge                            | \-                                    | \-                      |
+| 11\. | You Were Meant For Me   | Jewel、Steven Joseph Poltz                           | Jewel、Steven Joseph Poltz                           | \-                                    | \-                      |
 
 ## 派台歌曲成績
 

@@ -16,12 +16,12 @@ SOLID所包含的原则是通过引发编程者进行软件[源代码的](../Pag
 <tbody>
 <tr class="odd">
 <td><p>S</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/单一功能原则" title="wikilink">单一功能原则</a></p></td>
+<td><p><a href="../Page/单一功能原则.md" title="wikilink">单一功能原则</a></p></td>
 <td><p>认为<a href="https://zh.wikipedia.org/wiki/对象_(计算机科学)" title="wikilink">对象应该仅具有一种单一功能的概念</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>O</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/开闭原则" title="wikilink">开闭原则</a></p></td>
+<td><p><a href="../Page/开闭原则.md" title="wikilink">开闭原则</a></p></td>
 <td><p>认为“软件体应该是对于扩展开放的，但是对于修改封闭的”的概念。</p></td>
 </tr>
 <tr class="odd">
@@ -36,7 +36,7 @@ SOLID所包含的原则是通过引发编程者进行软件[源代码的](../Pag
 </tr>
 <tr class="odd">
 <td><p>D</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/依赖反转原则" title="wikilink">依赖反转原则</a></p></td>
+<td><p><a href="../Page/依赖反转原则.md" title="wikilink">依赖反转原则</a></p></td>
 <td><p>认为一个方法应该遵从“依赖于抽象而不是一个实例”[8] 的概念。<br />
 <a href="../Page/依赖注入.md" title="wikilink">依赖注入是该原则的一种实现方式</a>。</p></td>
 </tr>

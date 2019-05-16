@@ -37,7 +37,7 @@ Queen》鋪陳，三首電子音樂的序幕，她大量運用警笛聲、酒杯
 《Party
 Queen》除了展現濱崎步個人的心情，她亦在專輯中對於另外的議題表達關心。先前於2011年《[烏干達反同性戀法案](../Page/烏干達反同性戀法案.md "wikilink")》引發議論時，濱崎步亦在網誌上發表她對各種性傾向支持的留言，她認為喜歡或愛，不是任何人可以評斷且剝奪的權利。而她在本作中的《[how
 beautiful you
-are](../Page/how_beautiful_you_are.md "wikilink")》歌曲中更進一步完整呈現了她的想法，傳達她對[性傾向平等](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、[種族議題](https://zh.wikipedia.org/wiki/種族主義 "wikilink")、[身心障礙歧視以及](../Page/歧視.md "wikilink")[性別平等的關注](../Page/性別平等.md "wikilink")\[4\]。她單純以黑白影像表現本作的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，並且請來了日本知名[㚻片演員](https://zh.wikipedia.org/wiki/㚻片演員 "wikilink")[真崎航與男友出演](https://zh.wikipedia.org/wiki/真崎航 "wikilink")\[5\]，片中用大風阻擋前進的意象表達「不論有缺陷或不完美，即便生命遭受困難或痛苦，所有人都是最美麗的」的中心思想，這和她在網誌上說的一段話不謀而合：
+are](https://zh.wikipedia.org/wiki/how_beautiful_you_are "wikilink")》歌曲中更進一步完整呈現了她的想法，傳達她對[性傾向平等](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、[種族議題](https://zh.wikipedia.org/wiki/種族主義 "wikilink")、[身心障礙歧視以及](../Page/歧視.md "wikilink")[性別平等的關注](../Page/性別平等.md "wikilink")\[4\]。她單純以黑白影像表現本作的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，並且請來了日本知名[㚻片演員](https://zh.wikipedia.org/wiki/㚻片演員 "wikilink")[真崎航與男友出演](../Page/真崎航.md "wikilink")\[5\]，片中用大風阻擋前進的意象表達「不論有缺陷或不完美，即便生命遭受困難或痛苦，所有人都是最美麗的」的中心思想，這和她在網誌上說的一段話不謀而合：
 
 ## 發行及銷售
 

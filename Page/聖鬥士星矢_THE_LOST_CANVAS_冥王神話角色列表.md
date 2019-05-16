@@ -1405,7 +1405,7 @@ CANVAS」上的「星之時鐘」的指針走過一圈時，「LOST CANVAS」就
     -{zh-cn:地獄豺狼;zh-tw:地獄豺狼;zh-hk:狼人}-
     -{zh-cn:弗列基亞斯;zh-tw:弗列基亞斯;zh-hk:費烈基斯}-
 
-:\*聲優：[加藤將之](https://zh.wikipedia.org/wiki/加藤將之 "wikilink")／港：[胡家豪](../Page/胡家豪.md "wikilink")
+:\*聲優：[加藤將之](../Page/加藤將之.md "wikilink")／港：[胡家豪](../Page/胡家豪.md "wikilink")
 
   -
     天罪星被稱為「-{zh-cn:地獄豺狼;zh-tw:地獄豺狼;zh-hk:狼人}-」的冥鬥士，使用「暗」作戰。
@@ -1570,7 +1570,7 @@ CANVAS」上的「星之時鐘」的指針走過一圈時，「LOST CANVAS」就
   - [地伏星](https://zh.wikipedia.org/wiki/地伏星 "wikilink")
     [蚯蚓](../Page/蚯蚓.md "wikilink") 拉米
 
-:\*聲優：[伊丸岡篤](https://zh.wikipedia.org/wiki/伊丸岡篤 "wikilink")／港：[劉昭文](../Page/劉昭文.md "wikilink")
+:\*聲優：[伊丸岡篤](../Page/伊丸岡篤.md "wikilink")／港：[劉昭文](../Page/劉昭文.md "wikilink")
 
 :\*武器: 蚯蚓觸手
 

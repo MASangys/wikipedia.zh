@@ -1,5 +1,5 @@
 《**單戀Finally**》（）是[SKE48的第](../Page/SKE48.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年1月25日由[avex
-trax發售](../Page/avex_trax.md "wikilink")。
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

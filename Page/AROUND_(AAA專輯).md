@@ -1,9 +1,9 @@
 「**AROUND**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")3枚原創專輯。於2007年9月19日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張迷你專輯「[alohAAA\!](../Page/alohAAA!.md "wikilink")」相距約6個月。與上一張原創專輯「[ALL](../Page/ALL_\(AAA專輯\).md "wikilink")」相距約9個月。
+  - 與上一張迷你專輯「[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」相距約6個月。與上一張原創專輯「[ALL](../Page/ALL_\(AAA專輯\).md "wikilink")」相距約9個月。
   - 收錄第13張單曲「[Get 啾\! /
     SHE的真相](https://zh.wikipedia.org/wiki/Get_啾!_/_SHE的真相 "wikilink")」至第16張單曲「[Red
     Soul](../Page/Red_Soul.md "wikilink")」的8首A面曲，以及新曲「Paradise

@@ -1,13 +1,13 @@
 **Roomie**為[臺灣](../Page/臺灣.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，團名為室友英文Roommates的暱稱，象徵全部團員相親相愛，感情就像室友一樣親密沒有距離，2011年發布出道單曲《so
 long》舞蹈影片，專業舞蹈歌唱實力，被網友認為「這才是台灣女團應有的水準」。但2013年因經紀公司[藝墨文化改組縮編而解散](https://zh.wikipedia.org/wiki/藝墨文化 "wikilink")。
 
-現在[米非為](https://zh.wikipedia.org/wiki/米非 "wikilink")[小男孩樂團主唱](../Page/小男孩樂團.md "wikilink")，[林采欣為solo歌手](https://zh.wikipedia.org/wiki/林采欣 "wikilink")，[安柏兒為前音樂組合](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")[AMYO主唱](https://zh.wikipedia.org/wiki/AMYO "wikilink")，[林珈安為演員](https://zh.wikipedia.org/wiki/林珈安 "wikilink")，[凱悌已退出演藝圈](https://zh.wikipedia.org/wiki/凱悌 "wikilink")。
+現在[米非為](../Page/米非.md "wikilink")[小男孩樂團主唱](../Page/小男孩樂團.md "wikilink")，[林采欣為solo歌手](../Page/林采欣.md "wikilink")，[安柏兒為前音樂組合](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")[AMYO主唱](https://zh.wikipedia.org/wiki/AMYO "wikilink")，[林珈安為演員](../Page/林珈安.md "wikilink")，[凱悌已退出演藝圈](https://zh.wikipedia.org/wiki/凱悌 "wikilink")。
 
 ## 介紹
 
 Roomie為台灣首支「自創品牌概念團體」，公司讓他們主導團名、尋找團員及企劃，並參與編舞及創作。凱悌與安柏兒為原始團員，於2008年組隊參加[AVEX於日本舉辦的](https://zh.wikipedia.org/wiki/AVEX "wikilink")「avex
 world
-audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自此她們便開始尋找團員，幾經磨合更換，最終確定為[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[林采欣](https://zh.wikipedia.org/wiki/林采欣 "wikilink")、[林珈安](https://zh.wikipedia.org/wiki/林珈安 "wikilink")。
+audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自此她們便開始尋找團員，幾經磨合更換，最終確定為[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[林采欣](../Page/林采欣.md "wikilink")、[林珈安](../Page/林珈安.md "wikilink")。
 
 2011年底，[AVEX中國分公司解散](../Page/愛貝克思_\(台灣\).md "wikilink")，台灣分公司也進行改組，Roomie與[AVEX解約](../Page/愛貝克思_\(台灣\).md "wikilink")。\[2\]
 
@@ -42,8 +42,7 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
     2012年1月演唱〈[華麗的挑戰電視原聲帶](https://zh.wikipedia.org/wiki/華麗的挑戰 "wikilink")〉─《愛你沒有太多理由》
     2012年擔任[Panasonic
     Beauty攜帶美容系列](https://zh.wikipedia.org/wiki/Panasonic_Beauty "wikilink")─音波電動牙刷代言人
-    2013年在三立都會台[美味的想念飾演](https://zh.wikipedia.org/wiki/美味的想念 "wikilink")
-    陸貝貝
+    2013年在三立都會台[美味的想念飾演](../Page/美味的想念.md "wikilink") 陸貝貝
     2013年5月參加中國大陸[東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")《[中國夢之聲](https://zh.wikipedia.org/wiki/中國夢之聲 "wikilink")》，通過上海終極試音會。
     2013年7月7日，晉級12強失利，但雖敗由榮，一曲《心牆》唱出年輕世代的回憶，當場創下該時段CSM
     46城收視率1.738％的最高峰，市場佔有率為8.46%。
@@ -63,25 +62,25 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
 
 #### 林采欣個人音樂作品
 
-|          |                                                                                                                                                                                                                     |                                                                                                                                                           |                                                            |                                                       |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
-| **年份**   | **曲名**                                                                                                                                                                                                              | **作詞**                                                                                                                                                    | **作曲**                                                     | **發行公司**                                              |
-| **2004** | 堅持〈火線任務電視原聲帶〉                                                                                                                                                                                                       | 黃慧儀                                                                                                                                                       | Audio Mok                                                  | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
-| **2004** | 為了你feat.阿龐〈火線任務電視原聲帶〉                                                                                                                                                                                               | 瑞業                                                                                                                                                        | 余永錦                                                        | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
-| **2004** | 你的好〈家有菲菲電視原聲帶〉                                                                                                                                                                                                      | 何厚華                                                                                                                                                       | The Saddest World                                          | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
-| **2005** | 心牆〈海豚愛上貓電視原聲帶〉                                                                                                                                                                                                      | 姚若龍                                                                                                                                                       | 林俊傑                                                        | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
-| **2009** | She is a model                                                                                                                                                                                                      | [貝芳](https://zh.wikipedia.org/wiki/林采欣 "wikilink")                                                                                                        | guess                                                      |                                                       |
-| **2009** | 晴天的雨滴                                                                                                                                                                                                               | [貝芳](https://zh.wikipedia.org/wiki/林采欣 "wikilink")                                                                                                        | [貝芳](https://zh.wikipedia.org/wiki/林采欣 "wikilink") 、G-WAVE |                                                       |
-| **2012** | 愛你沒有太多理由〈[華麗的挑戰電視原聲帶](https://zh.wikipedia.org/wiki/華麗的挑戰 "wikilink")〉                                                                                                                                              | Michie、劉源、游政豪、張簡君偉、Jerry Feng                                                                                                                             | 游政豪、張簡君偉                                                   | [avex](https://zh.wikipedia.org/wiki/avex "wikilink") |
-| **2013** | 傾城之雨〈收錄在[我欣中的羅大佑專輯](https://zh.wikipedia.org/wiki/我欣中的羅大佑 "wikilink")〉                                                                                                                                              | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                          | [羅大佑](../Page/羅大佑.md "wikilink")                           | [海蝶音樂](https://zh.wikipedia.org/wiki/海蝶音樂 "wikilink") |
-| **2013** | 暗戀〈收錄在[我欣中的羅大佑專輯](https://zh.wikipedia.org/wiki/我欣中的羅大佑 "wikilink")〉                                                                                                                                                | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                          | [羅大佑](../Page/羅大佑.md "wikilink")                           | [海蝶音樂](https://zh.wikipedia.org/wiki/海蝶音樂 "wikilink") |
-| **2013** | 如今才是唯一feat.[孫自佑](../Page/孫自佑.md "wikilink")〈收錄在[我欣中的羅大佑專輯](https://zh.wikipedia.org/wiki/我欣中的羅大佑 "wikilink")〉                                                                                                       | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                          | [羅大佑](../Page/羅大佑.md "wikilink")                           | [海蝶音樂](https://zh.wikipedia.org/wiki/海蝶音樂 "wikilink") |
-| **2013** | 愛上你不奇怪feat.[唐從聖](../Page/唐從聖.md "wikilink")                                                                                                                                                                         | [唐從聖](../Page/唐從聖.md "wikilink")                                                                                                                          | [唐從聖](../Page/唐從聖.md "wikilink")                           | [滾石唱片](../Page/滾石唱片.md "wikilink")                    |
-| **2015** | 不遇見feat.[梁心頤](../Page/梁心頤.md "wikilink"),[劉思涵](https://zh.wikipedia.org/wiki/劉思涵 "wikilink"),[潘辰](../Page/潘辰.md "wikilink")〈[小時代](https://zh.wikipedia.org/wiki/小時代 "wikilink")[音樂劇主題曲](../Page/音樂劇.md "wikilink")〉 | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")、[唐漢霄](https://zh.wikipedia.org/wiki/唐漢霄 "wikilink")、[段思思](https://zh.wikipedia.org/wiki/段思思 "wikilink") | [唐漢霄](https://zh.wikipedia.org/wiki/唐漢霄 "wikilink")        | [華春演藝](https://zh.wikipedia.org/wiki/華春演藝 "wikilink") |
-| **2016** | 一秒時光《[是！尚先生](../Page/是！尚先生.md "wikilink")》片尾曲                                                                                                                                                                       | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")                                                                                                         | [霍尊](https://zh.wikipedia.org/wiki/霍尊 "wikilink")          | [種子音樂](../Page/種子音樂.md "wikilink")                    |
-| **2016** | 就是這樣《[是！尚先生](../Page/是！尚先生.md "wikilink")》插曲                                                                                                                                                                        | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")                                                                                                         | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")          |                                                       |
-| **2016** | 來不及再見〈[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")「[精靈王座](https://zh.wikipedia.org/wiki/精靈王座 "wikilink")」推廣曲〉                                                 | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")                                                                                                         | [林昀辰](https://zh.wikipedia.org/wiki/林昀辰 "wikilink")        | [米粒影業](https://zh.wikipedia.org/wiki/米粒影業 "wikilink") |
-|          |                                                                                                                                                                                                                     |                                                                                                                                                           |                                                            |                                                       |
+|          |                                                                                                                                                                                                                     |                                                                                                                                                           |                                                     |                                                       |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
+| **年份**   | **曲名**                                                                                                                                                                                                              | **作詞**                                                                                                                                                    | **作曲**                                              | **發行公司**                                              |
+| **2004** | 堅持〈火線任務電視原聲帶〉                                                                                                                                                                                                       | 黃慧儀                                                                                                                                                       | Audio Mok                                           | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
+| **2004** | 為了你feat.阿龐〈火線任務電視原聲帶〉                                                                                                                                                                                               | 瑞業                                                                                                                                                        | 余永錦                                                 | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
+| **2004** | 你的好〈家有菲菲電視原聲帶〉                                                                                                                                                                                                      | 何厚華                                                                                                                                                       | The Saddest World                                   | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
+| **2005** | 心牆〈海豚愛上貓電視原聲帶〉                                                                                                                                                                                                      | 姚若龍                                                                                                                                                       | 林俊傑                                                 | [福茂唱片](../Page/福茂唱片.md "wikilink")                    |
+| **2009** | She is a model                                                                                                                                                                                                      | [貝芳](../Page/林采欣.md "wikilink")                                                                                                                           | guess                                               |                                                       |
+| **2009** | 晴天的雨滴                                                                                                                                                                                                               | [貝芳](../Page/林采欣.md "wikilink")                                                                                                                           | [貝芳](../Page/林采欣.md "wikilink") 、G-WAVE             |                                                       |
+| **2012** | 愛你沒有太多理由〈[華麗的挑戰電視原聲帶](https://zh.wikipedia.org/wiki/華麗的挑戰 "wikilink")〉                                                                                                                                              | Michie、劉源、游政豪、張簡君偉、Jerry Feng                                                                                                                             | 游政豪、張簡君偉                                            | [avex](https://zh.wikipedia.org/wiki/avex "wikilink") |
+| **2013** | 傾城之雨〈收錄在[我欣中的羅大佑專輯](https://zh.wikipedia.org/wiki/我欣中的羅大佑 "wikilink")〉                                                                                                                                              | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                          | [羅大佑](../Page/羅大佑.md "wikilink")                    | [海蝶音樂](../Page/海蝶音樂.md "wikilink")                    |
+| **2013** | 暗戀〈收錄在[我欣中的羅大佑專輯](https://zh.wikipedia.org/wiki/我欣中的羅大佑 "wikilink")〉                                                                                                                                                | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                          | [羅大佑](../Page/羅大佑.md "wikilink")                    | [海蝶音樂](../Page/海蝶音樂.md "wikilink")                    |
+| **2013** | 如今才是唯一feat.[孫自佑](../Page/孫自佑.md "wikilink")〈收錄在[我欣中的羅大佑專輯](https://zh.wikipedia.org/wiki/我欣中的羅大佑 "wikilink")〉                                                                                                       | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                          | [羅大佑](../Page/羅大佑.md "wikilink")                    | [海蝶音樂](../Page/海蝶音樂.md "wikilink")                    |
+| **2013** | 愛上你不奇怪feat.[唐從聖](../Page/唐從聖.md "wikilink")                                                                                                                                                                         | [唐從聖](../Page/唐從聖.md "wikilink")                                                                                                                          | [唐從聖](../Page/唐從聖.md "wikilink")                    | [滾石唱片](../Page/滾石唱片.md "wikilink")                    |
+| **2015** | 不遇見feat.[梁心頤](../Page/梁心頤.md "wikilink"),[劉思涵](https://zh.wikipedia.org/wiki/劉思涵 "wikilink"),[潘辰](../Page/潘辰.md "wikilink")〈[小時代](https://zh.wikipedia.org/wiki/小時代 "wikilink")[音樂劇主題曲](../Page/音樂劇.md "wikilink")〉 | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")、[唐漢霄](https://zh.wikipedia.org/wiki/唐漢霄 "wikilink")、[段思思](https://zh.wikipedia.org/wiki/段思思 "wikilink") | [唐漢霄](https://zh.wikipedia.org/wiki/唐漢霄 "wikilink") | [華春演藝](https://zh.wikipedia.org/wiki/華春演藝 "wikilink") |
+| **2016** | 一秒時光《[是！尚先生](../Page/是！尚先生.md "wikilink")》片尾曲                                                                                                                                                                       | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")                                                                                                         | [霍尊](https://zh.wikipedia.org/wiki/霍尊 "wikilink")   | [種子音樂](../Page/種子音樂.md "wikilink")                    |
+| **2016** | 就是這樣《[是！尚先生](../Page/是！尚先生.md "wikilink")》插曲                                                                                                                                                                        | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")                                                                                                         | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")   |                                                       |
+| **2016** | 來不及再見〈[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")「[精靈王座](https://zh.wikipedia.org/wiki/精靈王座 "wikilink")」推廣曲〉                                                 | [吳斌](https://zh.wikipedia.org/wiki/吳斌 "wikilink")                                                                                                         | [林昀辰](https://zh.wikipedia.org/wiki/林昀辰 "wikilink") | [米粒影業](https://zh.wikipedia.org/wiki/米粒影業 "wikilink") |
+|          |                                                                                                                                                                                                                     |                                                                                                                                                           |                                                     |                                                       |
 
 ### 米非 Mify／陳玫希
 
@@ -97,7 +96,7 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
     Band擔任Lead](https://zh.wikipedia.org/wiki/MEC_Band "wikilink") vocal
     2013年8月7日到8月9號**陳玫希**和[媒關係樂團](https://zh.wikipedia.org/wiki/媒關係樂團 "wikilink")[MEC
     Band台北圓環連續舉辦三場小型live](https://zh.wikipedia.org/wiki/MEC_Band "wikilink")
-    band演唱，並邀請特別嘉賓[安柏兒](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")、[林采欣同台演唱Roomie出道曲](https://zh.wikipedia.org/wiki/林采欣 "wikilink")《So
+    band演唱，並邀請特別嘉賓[安柏兒](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")、[林采欣同台演唱Roomie出道曲](../Page/林采欣.md "wikilink")《So
     Long》。
     2013年9月和[媒關係樂團](https://zh.wikipedia.org/wiki/媒關係樂團 "wikilink")[MEC
     band參加](https://zh.wikipedia.org/wiki/MEC_band "wikilink")「[音樂無界
@@ -112,7 +111,7 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
 
 <!-- end list -->
 
-  - 詳細請見[米非](https://zh.wikipedia.org/wiki/米非 "wikilink")
+  - 詳細請見[米非](../Page/米非.md "wikilink")
 
 #### 米非個人音樂作品
 
@@ -178,7 +177,7 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
     2008年擔任少女流行雜誌〈[NANA娜娜](https://zh.wikipedia.org/wiki/NANA娜娜 "wikilink")〉平面模特兒
     2012年擔任[Panasonic
     Beauty攜帶美容系列](https://zh.wikipedia.org/wiki/Panasonic_Beauty "wikilink")─睫毛捲翹梳代言人
-    2013年演出[就是要你愛上我](https://zh.wikipedia.org/wiki/就是要你愛上我 "wikilink")，飾演丁嘉愉
+    2013年演出[就是要你愛上我](../Page/就是要你愛上我.md "wikilink")，飾演丁嘉愉
     2015年演出[張清峰導演執導電影](https://zh.wikipedia.org/wiki/張清峰 "wikilink")[風雲高手](https://zh.wikipedia.org/wiki/風雲高手 "wikilink")，和[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink"),[王心凌](../Page/王心凌.md "wikilink"),[藤岡靛](../Page/藤岡靛.md "wikilink"),[馬如龍](https://zh.wikipedia.org/wiki/馬如龍 "wikilink"),[廖峻](../Page/廖峻.md "wikilink"),[王樂妍等藝人一同演出](../Page/王樂妍.md "wikilink")。
     2015年[三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")[軍官·情人飾演](../Page/軍官·情人.md "wikilink")
     艾美心
@@ -211,7 +210,7 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
     \[15\]\[16\]。
     2012年擔任[Panasonic
     Beauty攜帶美容系列](https://zh.wikipedia.org/wiki/Panasonic_Beauty "wikilink")─修容刀代言人。
-    2013年5月18日參加[超級模王大道2踢館選手](https://zh.wikipedia.org/wiki/超級模王大道2 "wikilink")，模仿韓國歌手[李孝利](../Page/李孝利.md "wikilink")。
+    2013年5月18日參加[超級模王大道2踢館選手](../Page/超級模王大道2.md "wikilink")，模仿韓國歌手[李孝利](../Page/李孝利.md "wikilink")。
     2013年加入[八大綜合台](../Page/八大綜合台.md "wikilink")
     [娛樂百分百的單元通告](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")。
     2014年7月和友人一同成立「[Kfree
@@ -296,7 +295,7 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Super_Lover" title="wikilink">Super Lover</a></strong>》</p>
+<td><p>首張迷你專輯《<strong><a href="../Page/Super_Lover.md" title="wikilink">Super Lover</a></strong>》</p>
 <ul>
 <li>發行日期：2012年5月3日</li>
 </ul></td>
@@ -335,11 +334,11 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/民視" title="wikilink">民視</a>、<a href="../Page/八大綜合台.md" title="wikilink">八大綜合台製播</a></li>
 <li>發行日期：2012年2月24日</li>
-<li>其他參與歌手：<a href="../Page/A-lin.md" title="wikilink">A-lin</a>、<a href="../Page/Super_Junior-M.md" title="wikilink">Super Junior-M</a></li>
+<li>其他參與歌手：<a href="https://zh.wikipedia.org/wiki/A-lin" title="wikilink">A-lin</a>、<a href="../Page/Super_Junior-M.md" title="wikilink">Super Junior-M</a></li>
 </ul></td>
 <td><ul>
 <li>05.未來（Future）- <a href="https://zh.wikipedia.org/wiki/陳玫希" title="wikilink">陳玫希</a></li>
-<li>06.愛你沒有太多理由（No Reason）- <a href="https://zh.wikipedia.org/wiki/林采欣" title="wikilink">林采欣</a></li>
+<li>06.愛你沒有太多理由（No Reason）- <a href="../Page/林采欣.md" title="wikilink">林采欣</a></li>
 <li>07.一場微醺（One））- <strong>Roomie</strong></li>
 </ul></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Avex" title="wikilink">Avex</a></p></td>
@@ -370,14 +369,13 @@ audition」舞蹈大賽，獲得亞軍\[1\]及公司賞識，與其簽約。自�
 ## MV
 
 2011年首支數位單曲《So
-Long》：[張舜寧](https://zh.wikipedia.org/wiki/張舜寧 "wikilink")、[林采欣](https://zh.wikipedia.org/wiki/林采欣 "wikilink")、[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[安柏兒](https://zh.wikipedia.org/wiki/游心惠 "wikilink")、[林珈安](https://zh.wikipedia.org/wiki/林珈安 "wikilink")
-2011年數位單曲《**妳懂**》：[凱悌](https://zh.wikipedia.org/wiki/張舜寧 "wikilink")、[林采欣](https://zh.wikipedia.org/wiki/林采欣 "wikilink")、[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[安柏兒](https://zh.wikipedia.org/wiki/游心惠 "wikilink")、[林珈安](https://zh.wikipedia.org/wiki/林珈安 "wikilink")
+Long》：[張舜寧](https://zh.wikipedia.org/wiki/張舜寧 "wikilink")、[林采欣](../Page/林采欣.md "wikilink")、[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[安柏兒](https://zh.wikipedia.org/wiki/游心惠 "wikilink")、[林珈安](../Page/林珈安.md "wikilink")
+2011年數位單曲《**妳懂**》：[凱悌](https://zh.wikipedia.org/wiki/張舜寧 "wikilink")、[林采欣](../Page/林采欣.md "wikilink")、[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[安柏兒](https://zh.wikipedia.org/wiki/游心惠 "wikilink")、[林珈安](../Page/林珈安.md "wikilink")
 2012年首張迷你專輯《**Super Lover**》Super
-Lover：[凱悌](https://zh.wikipedia.org/wiki/張舜寧 "wikilink")、[林采欣](https://zh.wikipedia.org/wiki/林采欣 "wikilink")、[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[安柏兒](https://zh.wikipedia.org/wiki/游心惠 "wikilink")、[林珈安](https://zh.wikipedia.org/wiki/林珈安 "wikilink")
-2012年首張迷你專輯《**Super
-Lover**》愛我像從前一樣：[林珈安](https://zh.wikipedia.org/wiki/林珈安 "wikilink")
+Lover：[凱悌](https://zh.wikipedia.org/wiki/張舜寧 "wikilink")、[林采欣](../Page/林采欣.md "wikilink")、[陳玫希](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")、[安柏兒](https://zh.wikipedia.org/wiki/游心惠 "wikilink")、[林珈安](../Page/林珈安.md "wikilink")
+2012年首張迷你專輯《**Super Lover**》愛我像從前一樣：[林珈安](../Page/林珈安.md "wikilink")
 2013年[李玟能不能](../Page/李玟.md "wikilink")
-[林珈安](https://zh.wikipedia.org/wiki/林珈安 "wikilink")
+[林珈安](../Page/林珈安.md "wikilink")
 
 ## 戲劇
 
@@ -387,12 +385,12 @@ Lover**》愛我像從前一樣：[林珈安](https://zh.wikipedia.org/wiki/林�
 
 ### 林采欣
 
-  - 2013年三立電視台[美味的想念飾演陸貝貝](https://zh.wikipedia.org/wiki/美味的想念 "wikilink")
+  - 2013年三立電視台[美味的想念飾演陸貝貝](../Page/美味的想念.md "wikilink")
 
 ### 林珈安
 
   - 2013年[三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")
-    [就是要你愛上我飾演丁嘉愉](https://zh.wikipedia.org/wiki/就是要你愛上我 "wikilink")
+    [就是要你愛上我飾演丁嘉愉](../Page/就是要你愛上我.md "wikilink")
   - 2015年[三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")
     [軍官·情人飾演](../Page/軍官·情人.md "wikilink") 艾美心
 

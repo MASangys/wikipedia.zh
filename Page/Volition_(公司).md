@@ -16,8 +16,8 @@ Punisher和[黑街聖徒系列](../Page/黑街聖徒系列.md "wikilink")。
     (2011)
   - 《[紅色派系：游擊隊](https://zh.wikipedia.org/wiki/紅色派系：游擊隊 "wikilink")》
     (2009)
-  - 《[黑街聖徒2](https://zh.wikipedia.org/wiki/黑街聖徒2 "wikilink")》 (2008)
-  - 《[黑街聖徒](https://zh.wikipedia.org/wiki/黑街聖徒 "wikilink")》 (2006)
+  - 《[黑街聖徒2](../Page/黑街聖徒2.md "wikilink")》 (2008)
+  - 《[黑街聖徒](../Page/黑街聖徒.md "wikilink")》 (2006)
   - 《[紅色派系II](https://zh.wikipedia.org/wiki/紅色派系II "wikilink")》 (2002)
   - 《[紅色派系](https://zh.wikipedia.org/wiki/紅色派系 "wikilink")》 (2001)
 

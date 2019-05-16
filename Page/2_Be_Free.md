@@ -4,14 +4,14 @@
 ## 簡介
 
 時隔上張粵語大碟4年後，這張寓意十週年的粵語專輯整體基調趨於安靜平淡，但亦不失新嘗試的曲風。Twins自上兩張專輯《[Ho Hoo
-Tan](https://zh.wikipedia.org/wiki/Ho_Hoo_Tan "wikilink")》及《[Twins
+Tan](../Page/Ho_Hoo_Tan.md "wikilink")》及《[Twins
 Party](../Page/Twins_Party.md "wikilink")》起，伍樂城的直接創作開始大大減少，這張也是如此，大碟僅作了兩首大路k歌「綁架」及「Let
 Me Fly Away」。
 
 大碟亦與不少新的班底合作，[周博賢第一次為Twins寫了](../Page/周博賢.md "wikilink")「旅遊書」及社會性的「素顏」。[側田和](../Page/側田.md "wikilink")[林夕貢獻了](../Page/林夕.md "wikilink")「大過天」，為「戀愛大過天」的延續。藝琛寫了「交叉感染」，Twins再次用二重唱的方式演繹。[王雙駿則寫了華麗搖滾味道的](../Page/王雙駿.md "wikilink")「上陣」，亦是2011年[亞洲遊戲展的主題曲及快歌](../Page/亞洲遊戲展.md "wikilink")「花生騷」。
 
 舊班底中，[Eric
-Kwok十年後再次為Twins寫歌](../Page/郭偉亮.md "wikilink")，「金不換」為「千金」的續集。新班底[侯光武則寫了](https://zh.wikipedia.org/wiki/侯光武 "wikilink")「本小姐」。大碟只有「本小姐」及「花生騷」兩首快歌，其餘歌曲都延續著大碟靜謐淡然的氛圍。
+Kwok十年後再次為Twins寫歌](../Page/郭偉亮.md "wikilink")，「金不換」為「千金」的續集。新班底[侯光武則寫了](../Page/侯光武.md "wikilink")「本小姐」。大碟只有「本小姐」及「花生騷」兩首快歌，其餘歌曲都延續著大碟靜謐淡然的氛圍。
 
 ## 曲目
 

@@ -60,7 +60,7 @@ HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映�
   - 20　[長瀨楓](https://zh.wikipedia.org/wiki/長瀨楓 "wikilink")：[白石涼子](../Page/白石涼子.md "wikilink")
   - 21　[那波千鶴](https://zh.wikipedia.org/wiki/魔法老師角色列表#那波千鶴 "wikilink")：[小林美佐](https://zh.wikipedia.org/wiki/小林美佐 "wikilink")
   - 22　[鳴瀧風香](https://zh.wikipedia.org/wiki/鳴瀧風香 "wikilink")：[古山貴實子](../Page/古山貴實子.md "wikilink")
-  - 23　[鳴瀧史伽](https://zh.wikipedia.org/wiki/魔法老師角色列表#鳴瀧史伽 "wikilink")：[狩野茉莉](https://zh.wikipedia.org/wiki/狩野茉莉 "wikilink")
+  - 23　[鳴瀧史伽](https://zh.wikipedia.org/wiki/魔法老師角色列表#鳴瀧史伽 "wikilink")：[狩野茉莉](../Page/狩野茉莉.md "wikilink")
   - 24　[葉加瀨聰美](https://zh.wikipedia.org/wiki/魔法老師角色列表#葉加瀨聰美 "wikilink")：[門脇舞以](../Page/門脇舞以.md "wikilink")
   - 25　[長谷川千雨](https://zh.wikipedia.org/wiki/長谷川千雨 "wikilink")：[志村由美](../Page/志村由美.md "wikilink")
   - 26　[依文潔琳](https://zh.wikipedia.org/wiki/依文潔琳 "wikilink")：[松岡由貴](../Page/松岡由貴.md "wikilink")
@@ -135,7 +135,8 @@ HEAVEN IS A PLACE ON EARTH](../Page/旋風管家.md "wikilink")》一同放映�
   - 製作人：立石謙介、大野昇、林玄規
   - 動畫製作人：菅野雄二、久保田光俊
   - 製作協力：[ZEXCS](../Page/ZEXCS.md "wikilink")、[XEBEC](../Page/XEBEC.md "wikilink")
-  - 作畫協力：、GoHands、[feel.](../Page/feel..md "wikilink")、、Magic Bus
+  - 作畫協力：、GoHands、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")、、Magic
+    Bus
   - 動畫製作：Studio Pastoral、[SHAFT](../Page/SHAFT.md "wikilink")
   - 製作：[新涅吉部](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
   - 發行：[King

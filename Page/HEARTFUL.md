@@ -1,9 +1,9 @@
 「**HEARTFUL**」（全心全意）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")5枚原創專輯。於2010年2月17日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張專輯「[depArture](../Page/depArture.md "wikilink")」相距約1年。
+  - 與上一張專輯「[depArture](https://zh.wikipedia.org/wiki/depArture "wikilink")」相距約1年。
   - 收錄第21張單曲「[Break Down / Break your name / Summer
     Revolution](https://zh.wikipedia.org/wiki/Break_Down_/_Break_your_name_/_Summer_Revolution "wikilink")」至第23張單曲「[Heart
     and

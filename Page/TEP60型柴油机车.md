@@ -6,7 +6,7 @@ TEP60型机车是苏联的第二代柴油机车车型之一，也是苏联第一
 
 ### 研制
 
-1955年，[哈尔科夫运输机械制造厂在](https://zh.wikipedia.org/wiki/哈尔科夫运输机械制造厂 "wikilink")[TE3型柴油机车的基础上](../Page/TE3型柴油机车.md "wikilink")，开发研制了用于干线客运的[TE7型柴油机车](https://zh.wikipedia.org/wiki/TE7型柴油机车 "wikilink")，除了更改牵引齿轮传动比外，机车总体结构并没有较大变化。然而，由于TE7型机车的最高运行速度仍为100公里/小时，已经不能满足苏联铁路干线旅客列车提速的需要。因此[苏联铁道部于](https://zh.wikipedia.org/wiki/苏联铁道部 "wikilink")1956年指示[科洛姆纳内燃机车制造厂开发新一代的干线客运柴油机车](../Page/科洛姆纳工厂.md "wikilink")，主要技术指标为：[轴式](../Page/机车轴式.md "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，整备重量126吨，燃油储备量3000升，采用直流电力传动及架悬式全悬挂转向架，最高运行速度为140公里/小时；此外，在技术条件允许的情况下，也可以采用轴式Bo-Bo、整备重量84吨的方案。
+1955年，[哈尔科夫运输机械制造厂在](https://zh.wikipedia.org/wiki/哈尔科夫运输机械制造厂 "wikilink")[TE3型柴油机车的基础上](../Page/TE3型柴油机车.md "wikilink")，开发研制了用于干线客运的[TE7型柴油机车](../Page/TE7型柴油机车.md "wikilink")，除了更改牵引齿轮传动比外，机车总体结构并没有较大变化。然而，由于TE7型机车的最高运行速度仍为100公里/小时，已经不能满足苏联铁路干线旅客列车提速的需要。因此[苏联铁道部于](https://zh.wikipedia.org/wiki/苏联铁道部 "wikilink")1956年指示[科洛姆纳内燃机车制造厂开发新一代的干线客运柴油机车](../Page/科洛姆纳工厂.md "wikilink")，主要技术指标为：[轴式](../Page/机车轴式.md "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，整备重量126吨，燃油储备量3000升，采用直流电力传动及架悬式全悬挂转向架，最高运行速度为140公里/小时；此外，在技术条件允许的情况下，也可以采用轴式Bo-Bo、整备重量84吨的方案。
 
 1959年5月，科洛姆纳工厂上报了三种不同的设计方案。第一种方案是在[TE50型柴油机车的基础上改进而成](../Page/TE50型柴油机车.md "wikilink")，机车装用一台3000马力的Д45型[二冲程](https://zh.wikipedia.org/wiki/二冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，采用单节六轴、双端司机室的布置。第二、第三种方案均与第一种方案相似，但分别改为单节四轴及单端司机室的布置方式。由于科洛姆纳工厂已经完成了第一种方案的初步施工设计，最终苏联铁道部批准工厂以第一种方案试制原型车。1960年4月，首台原型车在科洛姆纳工厂完成总组装，并于同年10月开始上线试运行。新型机车被定型为TEP60型（ТЭП60），“Т”代表柴油机车（Тепловоз），“Э”代表电力传动（Электрической
 тяговой передачей），“П”代表客运用途（Пассажирский），“60”代表机车于1960年研制成功\[1\]。
@@ -16,7 +16,7 @@ TEP60型机车是苏联的第二代柴油机车车型之一，也是苏联第一
 ### 运用
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Тепловоз_ТЭП60-1236.jpg "fig:缩略图")
-TEP60型机车于1961年投入批量生产，至1985年停产，共计生产了1241台。TEP60型机车被广泛运用于苏联各地非电气化铁路干线，担当快速旅客列车的牵引任务，早期主要配属到[斯维尔德洛夫斯克铁路局](https://zh.wikipedia.org/wiki/斯维尔德洛夫斯克铁路局 "wikilink")[秋明机务段](../Page/秋明.md "wikilink")，[波罗的海铁路局扎苏洛克机务段](https://zh.wikipedia.org/wiki/波罗的海铁路局 "wikilink")，[白俄罗斯铁路局的](https://zh.wikipedia.org/wiki/白俄罗斯铁路局 "wikilink")[维捷布斯克](../Page/维捷布斯克.md "wikilink")、[奥尔沙](../Page/奥尔沙.md "wikilink")、[明斯克机务段](../Page/明斯克.md "wikilink")，[莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")[斯摩棱斯克机务段](../Page/斯摩棱斯克.md "wikilink")，[十月铁路局列宁格勒](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")-芬兰、列宁格勒-莫斯科、[沃尔霍夫](https://zh.wikipedia.org/wiki/沃尔霍夫 "wikilink")、[博洛戈耶机务段](https://zh.wikipedia.org/wiki/博洛戈耶 "wikilink")，[西西伯利亚铁路局](https://zh.wikipedia.org/wiki/西西伯利亚铁路局 "wikilink")[巴尔瑙尔机务段](../Page/巴尔瑙尔.md "wikilink")，[伏尔加河沿岸铁路局](https://zh.wikipedia.org/wiki/伏尔加河沿岸铁路局 "wikilink")[伏尔加格勒](../Page/伏尔加格勒.md "wikilink")、[萨拉托夫机务段](https://zh.wikipedia.org/wiki/萨拉托夫 "wikilink")，[第聂伯河沿岸铁路局](https://zh.wikipedia.org/wiki/第聂伯河沿岸铁路局 "wikilink")[梅利托波尔](https://zh.wikipedia.org/wiki/梅利托波尔 "wikilink")、[阿波斯托洛韋](https://zh.wikipedia.org/wiki/阿波斯托洛韋 "wikilink")、[波洛吉](https://zh.wikipedia.org/wiki/波洛吉 "wikilink")、[派特科哈特](https://zh.wikipedia.org/wiki/派特科哈特 "wikilink")、[克里沃罗格](https://zh.wikipedia.org/wiki/克里沃罗格 "wikilink")、[刻赤](../Page/刻赤.md "wikilink")、[第聂伯罗彼得罗夫斯克机务段](https://zh.wikipedia.org/wiki/第聂伯罗彼得罗夫斯克 "wikilink")，[南方铁路局](https://zh.wikipedia.org/wiki/南方铁路局 "wikilink")[波尔塔瓦机务段](https://zh.wikipedia.org/wiki/波尔塔瓦 "wikilink")，投入莫斯科—列宁格勒、列宁格勒—塔林、洛佐瓦亚—梅利托波尔。
+TEP60型机车于1961年投入批量生产，至1985年停产，共计生产了1241台。TEP60型机车被广泛运用于苏联各地非电气化铁路干线，担当快速旅客列车的牵引任务，早期主要配属到[斯维尔德洛夫斯克铁路局](../Page/斯维尔德洛夫斯克铁路局.md "wikilink")[秋明机务段](../Page/秋明.md "wikilink")，[波罗的海铁路局扎苏洛克机务段](https://zh.wikipedia.org/wiki/波罗的海铁路局 "wikilink")，[白俄罗斯铁路局的](https://zh.wikipedia.org/wiki/白俄罗斯铁路局 "wikilink")[维捷布斯克](../Page/维捷布斯克.md "wikilink")、[奥尔沙](../Page/奥尔沙.md "wikilink")、[明斯克机务段](../Page/明斯克.md "wikilink")，[莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")[斯摩棱斯克机务段](../Page/斯摩棱斯克.md "wikilink")，[十月铁路局列宁格勒](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")-芬兰、列宁格勒-莫斯科、[沃尔霍夫](https://zh.wikipedia.org/wiki/沃尔霍夫 "wikilink")、[博洛戈耶机务段](https://zh.wikipedia.org/wiki/博洛戈耶 "wikilink")，[西西伯利亚铁路局](https://zh.wikipedia.org/wiki/西西伯利亚铁路局 "wikilink")[巴尔瑙尔机务段](../Page/巴尔瑙尔.md "wikilink")，[伏尔加河沿岸铁路局](https://zh.wikipedia.org/wiki/伏尔加河沿岸铁路局 "wikilink")[伏尔加格勒](../Page/伏尔加格勒.md "wikilink")、[萨拉托夫机务段](https://zh.wikipedia.org/wiki/萨拉托夫 "wikilink")，[第聂伯河沿岸铁路局](https://zh.wikipedia.org/wiki/第聂伯河沿岸铁路局 "wikilink")[梅利托波尔](https://zh.wikipedia.org/wiki/梅利托波尔 "wikilink")、[阿波斯托洛韋](https://zh.wikipedia.org/wiki/阿波斯托洛韋 "wikilink")、[波洛吉](https://zh.wikipedia.org/wiki/波洛吉 "wikilink")、[派特科哈特](https://zh.wikipedia.org/wiki/派特科哈特 "wikilink")、[克里沃罗格](https://zh.wikipedia.org/wiki/克里沃罗格 "wikilink")、[刻赤](../Page/刻赤.md "wikilink")、[第聂伯罗彼得罗夫斯克机务段](https://zh.wikipedia.org/wiki/第聂伯罗彼得罗夫斯克 "wikilink")，[南方铁路局](https://zh.wikipedia.org/wiki/南方铁路局 "wikilink")[波尔塔瓦机务段](https://zh.wikipedia.org/wiki/波尔塔瓦 "wikilink")，投入莫斯科—列宁格勒、列宁格勒—塔林、洛佐瓦亚—梅利托波尔。
 
 ### 衍生车型
 
@@ -54,7 +54,7 @@ TEP60型机车的冷却系统分为高温冷却水系统及低温冷却水系统
 ## 参看
 
   - [TE50型柴油机车](../Page/TE50型柴油机车.md "wikilink")
-  - [TEP10型柴油机车](https://zh.wikipedia.org/wiki/TEP10型柴油机车 "wikilink")
+  - [TEP10型柴油机车](../Page/TEP10型柴油机车.md "wikilink")
   - [TEP70型柴油机车](../Page/TEP70型柴油机车.md "wikilink")
 
 ## 参考文献

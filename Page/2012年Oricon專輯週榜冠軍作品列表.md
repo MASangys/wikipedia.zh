@@ -232,8 +232,8 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 </tr>
 <tr class="odd">
 <td><p>7月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/時光剪影" title="wikilink">時光剪影</a></p></td>
-<td><p><a href="../Page/aiko.md" title="wikilink">aiko</a></p></td>
+<td><p><a href="../Page/時光剪影.md" title="wikilink">時光剪影</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 <td><p>原創</p></td>
 <td><p>10.2</p></td>
 <td><p>1</p></td>
@@ -288,7 +288,7 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 </tr>
 <tr class="even">
 <td><p>8月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GIFT_of_SMAP" title="wikilink">GIFT of SMAP</a></p></td>
+<td><p><a href="../Page/GIFT_of_SMAP.md" title="wikilink">GIFT of SMAP</a></p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>原創</p></td>
 <td><p>21.0</p></td>
@@ -336,7 +336,7 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 </tr>
 <tr class="even">
 <td><p>10月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Force_(Superfly專輯)" title="wikilink">Force</a></p></td>
+<td><p><a href="../Page/Force_(Superfly專輯).md" title="wikilink">Force</a></p></td>
 <td><p><a href="../Page/Superfly.md" title="wikilink">Superfly</a></p></td>
 <td><p>原創</p></td>
 <td><p>11.9</p></td>
@@ -368,7 +368,7 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 </tr>
 <tr class="even">
 <td><p>10月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/8EST" title="wikilink">8EST</a></p></td>
+<td><p><a href="../Page/8EST.md" title="wikilink">8EST</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>精選</p></td>
 <td><p>29.8</p></td>
@@ -416,7 +416,7 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 </tr>
 <tr class="even">
 <td><p>12月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/［(an_imitation)_blood_orange］" title="wikilink">[(an imitation) blood orange</a>]</p></td>
+<td><p><a href="../Page/［(an_imitation)_blood_orange］.md" title="wikilink">[(an imitation) blood orange</a>]</p></td>
 <td><p><a href="../Page/Mr.Children.md" title="wikilink">Mr.Children</a></p></td>
 <td><p>原創</p></td>
 <td><p>53.0</p></td>
@@ -440,7 +440,7 @@ JAPAN／Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》、[M
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/抒情套餐" title="wikilink">抒情套餐</a></p></td>
+<td><p><a href="../Page/抒情套餐.md" title="wikilink">抒情套餐</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 <td><p>精選</p></td>
 <td><p>10.8</p></td>

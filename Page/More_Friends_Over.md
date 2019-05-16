@@ -6,7 +6,7 @@ Over**」是[日本的女子偶像歌手](../Page/日本.md "wikilink")[真野�
   - 與上一張原創專輯「[MORE
     FRIENDS](../Page/MORE_FRIENDS.md "wikilink")」相距約1年4個月。
   - 收錄第9張單曲「[青春的戀曲](../Page/青春的戀曲.md "wikilink")」和第10張單曲「[My Days for
-    You](../Page/My_Days_for_You.md "wikilink")」，以及2012年初於[Youtube披露的歌曲](../Page/Youtube.md "wikilink")「Glory
+    You](../Page/My_Days_for_You.md "wikilink")」，以及2012年初於[Youtube披露的歌曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")「Glory
     days」和新曲等，共15首曲目
   - 新曲「永遠 ～黃昏交差點 time goes by～」是第11張單曲「[心如鹿撞 Baby /
     黃昏交差點](https://zh.wikipedia.org/wiki/心如鹿撞_Baby_/_黃昏交差點 "wikilink")」的主打曲目「黃昏交差點」的另一個版本

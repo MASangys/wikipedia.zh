@@ -22,7 +22,7 @@ JabRef最初的版本發佈於2003年11月29日。 \[1\]
     PubMed](https://zh.wikipedia.org/wiki/Medline_PubMed "wikilink"),
     [MathSciNet](https://zh.wikipedia.org/wiki/MathSciNet "wikilink"),
     [Springer](https://zh.wikipedia.org/wiki/Springer "wikilink"),
-    [arXiv](../Page/arXiv.md "wikilink"), 和
+    [arXiv](https://zh.wikipedia.org/wiki/arXiv "wikilink"), 和
     [zbMATH](https://zh.wikipedia.org/wiki/zbMATH "wikilink")。
   - 导入超过15种参考格式的选项
   - 轻松检索和链接全文文章
@@ -45,7 +45,7 @@ JabRef最初的版本發佈於2003年11月29日。 \[1\]
 #### 引用
 
   - 原生[BibTeX和](../Page/BibTeX.md "wikilink")[Biblatex支持](https://zh.wikipedia.org/wiki/Biblatex "wikilink")
-  - 为[Emacs](../Page/Emacs.md "wikilink")，[Kile](../Page/Kile.md "wikilink")，[LyX](../Page/LyX.md "wikilink")，[Texmaker](https://zh.wikipedia.org/wiki/Texmaker "wikilink")，[TeXstudio](https://zh.wikipedia.org/wiki/TeXstudio "wikilink")，[Vim和](../Page/Vim.md "wikilink")[WinEdt等外部应用程序提供](https://zh.wikipedia.org/wiki/WinEdt "wikilink")“一键编写”功能。
+  - 为[Emacs](../Page/Emacs.md "wikilink")，[Kile](../Page/Kile.md "wikilink")，[LyX](../Page/LyX.md "wikilink")，[Texmaker](../Page/Texmaker.md "wikilink")，[TeXstudio](../Page/TeXstudio.md "wikilink")，[Vim和](../Page/Vim.md "wikilink")[WinEdt等外部应用程序提供](https://zh.wikipedia.org/wiki/WinEdt "wikilink")“一键编写”功能。
   - 在数千种内置引文样式之一中格式化引用或创建自己的样式
   - 支持Word和LibreOffice / OpenOffice以插入和格式化引文
 

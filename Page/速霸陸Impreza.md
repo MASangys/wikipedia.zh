@@ -1,4 +1,4 @@
-**速霸陸Impreza**（）為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1992年起製造、販售的[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")，[中國的官方翻譯名稱為](../Page/中國.md "wikilink")**翼豹**，[臺灣的車迷則習稱](../Page/臺灣.md "wikilink")**硬皮鯊**。自1992年推出以來即為[速霸陸汽車的主力車種之一](../Page/速霸陸.md "wikilink")，搭載了該公司向來標榜的[水平對臥引擎及全時](https://zh.wikipedia.org/wiki/水平對臥引擎 "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，並衍生出[速霸陸Forester](https://zh.wikipedia.org/wiki/速霸陸Forester "wikilink")、[速霸陸XV](https://zh.wikipedia.org/wiki/速霸陸XV "wikilink")、[速霸陸WRX等車款](https://zh.wikipedia.org/wiki/速霸陸WRX "wikilink")。車名「Impreza」乃為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「impresa（箴言、徽章）」的造詞。
+**速霸陸Impreza**（）為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1992年起製造、販售的[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")，[中國的官方翻譯名稱為](../Page/中國.md "wikilink")**翼豹**，[臺灣的車迷則習稱](../Page/臺灣.md "wikilink")**硬皮鯊**。自1992年推出以來即為[速霸陸汽車的主力車種之一](../Page/速霸陸.md "wikilink")，搭載了該公司向來標榜的[水平對臥引擎及全時](../Page/水平對臥引擎.md "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，並衍生出[速霸陸Forester](../Page/速霸陸Forester.md "wikilink")、[速霸陸XV](../Page/速霸陸XV.md "wikilink")、[速霸陸WRX等車款](https://zh.wikipedia.org/wiki/速霸陸WRX "wikilink")。車名「Impreza」乃為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「impresa（箴言、徽章）」的造詞。
 
 ## 歷史與概要
 
@@ -7,14 +7,13 @@
 1.  四門轎車型：Sedan WRX、Anesis、B4。
 2.  五門旅行車型：Sports Wagon、Sports Wagon WRX。
 3.  五門掀背車型：Gravel
-    EX、Sports、XV（另請參照[速霸陸XV](https://zh.wikipedia.org/wiki/速霸陸XV "wikilink")）。
+    EX、Sports、XV（另請參照[速霸陸XV](../Page/速霸陸XV.md "wikilink")）。
 4.  雙門轎跑車型。
 
 身為[緊湊型轎車級的](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")「世界戰略車」而推出，目標特別鎖定[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。不過真正打響Impreza名號的卻是其性能表現，以及自1995年至1997年連續三年在[世界拉力錦標賽](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")（World
 Rally Championship，以下簡稱WRC）賽場上奪得車隊冠軍。尤其這部車和對手[三菱Lancer
 Evolution不論在賽場上的過招](../Page/三菱Lancer_Evolution.md "wikilink")，抑或是現實生活中銷售的競爭，一直都是車迷們津津樂道的話題。「Impreza
-WRX
-STI」乃由[速霸陸技術國際以Impreza](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")
+WRX STI」乃由[速霸陸技術國際以Impreza](../Page/速霸陸技術國際.md "wikilink")
 WRX車型為藍本，加以改裝調校出的高性能四門跑車。速霸陸車隊使用此車的賽車版來參加[世界拉力錦標賽](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")，並且在賽車手[科林·麥克雷](https://zh.wikipedia.org/wiki/科林·麥克雷 "wikilink")、[理查德·伯恩斯](../Page/理查德·伯恩斯.md "wikilink")、等人的努力下連續3屆蟬聯車隊冠軍。
 
 1992年第一輛速霸陸Impreza WRX
@@ -28,10 +27,10 @@ STI問世後，原本只限日本國內市場；因同為右駕，另有代理�
 
 1992年 - 11月2日正式發售四門轎車、五門旅行車與WRX等三種車型，其中旅行車（station wagon）刻意命名為「sports
 wagon」，乃為了強調其運動化性能。而「WRX」之名來自先前運動化設定的[Leone
-RX](https://zh.wikipedia.org/wiki/速霸陸Leone "wikilink")，故WRX車型也搭載[馬力達](../Page/馬力.md "wikilink")240ps的2.0L水平對臥四缸DOHC
+RX](../Page/速霸陸Leone.md "wikilink")，故WRX車型也搭載[馬力達](../Page/馬力.md "wikilink")240ps的2.0L水平對臥四缸DOHC
 [EJ20G型](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ20G型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")。[底盤以](https://zh.wikipedia.org/wiki/底盤 "wikilink")[第一代Legacy的底盤作基礎](https://zh.wikipedia.org/wiki/速霸陸Legacy#第一代BC/BF系（1989年-1993年） "wikilink")，全長200mm、[軸距縮短](https://zh.wikipedia.org/wiki/軸距 "wikilink")60mm、高度增加10mm，故車身[重量比第一代Legacy減輕](../Page/重量.md "wikilink")80[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。
 
-關於動力來源，此代車款全部採用[水平對臥四缸構造的](https://zh.wikipedia.org/wiki/水平對臥四缸引擎 "wikilink")|[EJ族引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎 "wikilink")，日本市場計有1.5L、1.6L、1.8L、2.0L等四種[排氣量選擇](https://zh.wikipedia.org/wiki/排氣量 "wikilink")；其他[國家則隨著市場特性與道路環境的不同](https://zh.wikipedia.org/wiki/國家 "wikilink")，另有2.2L和2.5L可供選擇；共同搭配的[變速箱則有四速自動排檔](../Page/变速器.md "wikilink")、五速手動排檔等二種。前輪的懸吊為L型下臂式[麥花臣懸吊](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，後輪則為六連桿式麥花臣懸吊。此外WRX車型的手排版為了輕量化，前輪懸吊的下臂改用鋁合金鍛造材質。
+關於動力來源，此代車款全部採用[水平對臥四缸構造的](../Page/水平對臥四缸引擎.md "wikilink")|[EJ族引擎](../Page/速霸陸EJ族引擎.md "wikilink")，日本市場計有1.5L、1.6L、1.8L、2.0L等四種[排氣量選擇](https://zh.wikipedia.org/wiki/排氣量 "wikilink")；其他[國家則隨著市場特性與道路環境的不同](https://zh.wikipedia.org/wiki/國家 "wikilink")，另有2.2L和2.5L可供選擇；共同搭配的[變速箱則有四速自動排檔](../Page/变速器.md "wikilink")、五速手動排檔等二種。前輪的懸吊為L型下臂式[麥花臣懸吊](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，後輪則為六連桿式麥花臣懸吊。此外WRX車型的手排版為了輕量化，前輪懸吊的下臂改用鋁合金鍛造材質。
 
 1993年 - 9月改良某些缺失，並追加WRX車型的五門旅行車。本來WRX車型僅有五速手排之設定，現追加四速自排。
 
@@ -39,9 +38,9 @@ RX](https://zh.wikipedia.org/wiki/速霸陸Leone "wikilink")，故WRX車型也�
 1994年 - 1月推出原廠代號「GC8A/B」的「WRX
 STi」性能車，所搭載的[EJ20G型單渦輪增壓引擎可輸出最大馬力](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ20G型 "wikilink")250ps
 / 6,500rpm、最大扭力31.5kg·m /
-3,500rpm。屬於第一版的該款車車重為1,230[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")，先由太田工廠生產出WRX車型後再讓[STI升級換裝](https://zh.wikipedia.org/wiki/速霸陸技術國際 "wikilink")，不過自第二版起改由STI之獨立[生產線負責製造](../Page/大量生產.md "wikilink")。10月「WRX
+3,500rpm。屬於第一版的該款車車重為1,230[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")，先由太田工廠生產出WRX車型後再讓[STI升級換裝](../Page/速霸陸技術國際.md "wikilink")，不過自第二版起改由STI之獨立[生產線負責製造](../Page/大量生產.md "wikilink")。10月「WRX
 RA STi」上市，最大馬力達270ps /
-6,500rpm，並具備DCCD[駕駛者可控式中央差速器](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")。該款接單生產的限量車大量使用賽車部件，且不裝備空調、音響等，主要針對各拉力賽車隊發售，而非個人[消費者](https://zh.wikipedia.org/wiki/消費者 "wikilink")。
+6,500rpm，並具備DCCD[駕駛者可控式中央差速器](../Page/駕駛者可控式中央差速器.md "wikilink")。該款接單生產的限量車大量使用賽車部件，且不裝備空調、音響等，主要針對各拉力賽車隊發售，而非個人[消費者](https://zh.wikipedia.org/wiki/消費者 "wikilink")。
 
 [1st-Subaru-Outback-Sport.jpg](https://zh.wikipedia.org/wiki/File:1st-Subaru-Outback-Sport.jpg "fig:1st-Subaru-Outback-Sport.jpg")
 原廠另針對[北美洲市場推出名為](../Page/北美洲.md "wikilink")「Impreza Outback
@@ -49,12 +48,12 @@ Sport」的衍生車款，以五門旅行車為基礎，搭載2.2L水平對臥�
 [EJ221/EJ222型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ221型及EJ222型 "wikilink")，車身塗裝採上下雙色之方式，並配置車頂行李架等具有休旅風味的部件。
 
 1995年 - 1月原本只有外銷的雙門[轎跑車車型以](../Page/轎跑車.md "wikilink")「Impreza
-Retna」（インプレッサリトナ）之名回鍋日本市場\[2\]，共有1.5L[水平對臥四缸SOHC](https://zh.wikipedia.org/wiki/水平對臥四缸引擎 "wikilink")
+Retna」（インプレッサリトナ）之名回鍋日本市場\[2\]，共有1.5L[水平對臥四缸SOHC](../Page/水平對臥四缸引擎.md "wikilink")
 [EJ15型](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ15型 "wikilink")、1.6L水平對臥四缸SOHC
 [EJ16型兩種引擎動力可選購](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ16型 "wikilink")。10月日本市場推出具有濃厚休旅味道的「Gravel
 EX」車型，配置防撞桿和車尾備胎（備胎殼罩寫有「Gravel Express」字樣）。此款車即為美規版的「Impreza Outback
 Sport」，但是換裝成2.5L水平對臥四缸DOHC
-[EJ25D型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ25D型 "wikilink")。雖然總生產數量僅有1,313部，卻是[速霸陸Forester的濫觴](https://zh.wikipedia.org/wiki/速霸陸Forester "wikilink")。隨後原廠代號「GC8C」的「STi
+[EJ25D型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ25D型 "wikilink")。雖然總生產數量僅有1,313部，卻是[速霸陸Forester的濫觴](../Page/速霸陸Forester.md "wikilink")。隨後原廠代號「GC8C」的「STi
 Version2
 555」上市，車身塗裝同為馳騁WRC比賽用車的寶藍色、輪轂為金色，其中四門轎車限量555部、五門旅行車限量100部。自此版起，STI將進氣岐管漆成紅色，車迷俗稱為紅頭引擎。
 
@@ -67,7 +66,7 @@ Version2
 6,500rpm的[EJ20K型](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ20K型 "wikilink")；而EJ15型和EJ18型也經過重新調校。雙門轎跑車在日本市場不受歡迎，故停止發售，但外銷版仍可見到。原廠代號「GC8D」的第三版WRX
 STi除了EJ20K型引擎外，前輪剎車系統升級成對向四活塞卡鉗，車重比前一版再增加10公斤，達到1,250公斤。同時也增加了「WRX STI
 Type
-R」雙門車型，由於1,190公斤的車重比四門車型輕盈，被[英國著名賽車改裝團隊Prodrive選用參加WRC](https://zh.wikipedia.org/wiki/英國 "wikilink")。除了DCCD[駕駛者可控式中央差速器之外](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")，並配備新開發的密齒比變速箱，加大的中冷器更增加水霧噴嘴，以強化其工作效率。
+R」雙門車型，由於1,190公斤的車重比四門車型輕盈，被[英國著名賽車改裝團隊Prodrive選用參加WRC](https://zh.wikipedia.org/wiki/英國 "wikilink")。除了DCCD[駕駛者可控式中央差速器之外](../Page/駕駛者可控式中央差速器.md "wikilink")，並配備新開發的密齒比變速箱，加大的中冷器更增加水霧噴嘴，以強化其工作效率。
 
 1997年 -
 9月將駕駛座[安全氣囊列為標準配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，助手席氣囊則為選配；內裝大幅變更成與[第一代Forester共用](https://zh.wikipedia.org/wiki/速霸陸Forester#第一代SF系（1997年-2002年） "wikilink")。原廠代號「GC8E」的第四版WRX
@@ -77,14 +76,14 @@ Blanca（カサブランカ）」。
 
 [Subaru_Impreza_22B_STi-Version.jpg](https://zh.wikipedia.org/wiki/File:Subaru_Impreza_22B_STi-Version.jpg "fig:Subaru_Impreza_22B_STi-Version.jpg")
 1998年 - 3月原廠為了紀念成立40週年及連續蟬聯三屆WRC車隊冠軍，在日本市場推出寬車體、雙門的「22B-STi
-Version」\[3\]，限量399部，且[車輛識別號碼含有](../Page/車輛識別號碼.md "wikilink")「GC8E2SD」的字樣。此限定車款搭載[EJ22G型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ22G型 "wikilink")，搭配[石川島播磨重工業的VF](https://zh.wikipedia.org/wiki/IHI "wikilink")23型滾珠軸承渦輪增壓器，可分別輸出280ps
+Version」\[3\]，限量399部，且[車輛識別號碼含有](../Page/車輛識別號碼.md "wikilink")「GC8E2SD」的字樣。此限定車款搭載[EJ22G型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ22G型 "wikilink")，搭配[石川島播磨重工業的VF](../Page/IHI.md "wikilink")23型滾珠軸承渦輪增壓器，可分別輸出280ps
 / 6,000rpm、37.0kg·m /
 3,200rpm的馬力和扭力。車體特別加寬至1,770mm，車重則為1,270公斤。避震系統由倍適登（Bilstein）承製，輪轂則為BBS製17吋鋁合金輪圈，[輪胎升級成](../Page/輪胎.md "wikilink")[倍耐力的](../Page/倍耐力.md "wikilink")235/40
 ZR17 P
 Zeros，[離合器也升級為雙盤式並配備陶瓷離合片](../Page/離合器.md "wikilink")，前後剎車卡鉗均為[白色](../Page/白色.md "wikilink")，並加上[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")「Subaru」字樣。關於「22B」的命名緣由一直眾說紛紜：有人認為22代表2.2L的[排氣量](https://zh.wikipedia.org/wiki/排氣量 "wikilink")，而B代表配備了Bilstein避震器；有人則認為555（速霸陸車隊的主要贊助商）的[十六進制剛好是](https://zh.wikipedia.org/wiki/十六進制 "wikilink")22B；更有人認為22B代表2.2
 Boxer。
 
-同年9月進行後期型（「F」型）的小改款，全車系的[車頭燈改為多折射式](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")，WRX車型的前保桿造型也再度變更；另外新增搭載自然進氣[EJ204型引擎的](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ204型 "wikilink")「SRX」車型，附有[AVCS主動閥門控制系統](https://zh.wikipedia.org/wiki/AVCS主動閥門控制系統 "wikilink")。原廠代號「GC8F」的第五版WRX
+同年9月進行後期型（「F」型）的小改款，全車系的[車頭燈改為多折射式](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")，WRX車型的前保桿造型也再度變更；另外新增搭載自然進氣[EJ204型引擎的](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ204型 "wikilink")「SRX」車型，附有[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")。原廠代號「GC8F」的第五版WRX
 STi改搭載全新研發的[EJ207型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ207型 "wikilink")，雖然最大馬力280ps
 / 6,500rpm、最大扭力36.0kg·m /
 4,000rpm，但其工作效率及排放標準相對提高，且改善低轉速域扭矩的輸出表現，使其爆發更加線性。此版之內裝重新設計過，包括賽車座椅、[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、KYB工業製倒立式麥花臣懸吊系統等\[4\]。12月則正式推出復古外觀的「Casa
@@ -107,12 +106,12 @@ R」雙門轎跑車則為1千輛、「Type RA」發售2千輛。
 RB5」特仕車，這批車具有專屬的鐵灰色塗裝，並可加價選購專用[ECU](../Page/发动机控制器.md "wikilink")、排氣系統，以及Prodrive打造的懸吊系統。
 
 2000年 - STI限量發售300輛「S201 STi
-Version」\[6\]，引擎搭配[石川島播磨重工業的VF](https://zh.wikipedia.org/wiki/IHI "wikilink")28型渦輪增壓器，最高增壓值可達到1.2[bar](../Page/巴.md "wikilink")，搭配STI調校的[ECU](../Page/发动机控制器.md "wikilink")、大口徑強化進氣導管、強化進氣歧管、120mm大口徑排氣尾管等，最大馬力達300ps
+Version」\[6\]，引擎搭配[石川島播磨重工業的VF](../Page/IHI.md "wikilink")28型渦輪增壓器，最高增壓值可達到1.2[bar](../Page/巴.md "wikilink")，搭配STI調校的[ECU](../Page/发动机控制器.md "wikilink")、大口徑強化進氣導管、強化進氣歧管、120mm大口徑排氣尾管等，最大馬力達300ps
 / 6,500rpm（已超越日本車廠自主馬力280ps上限），最大扭力則是36.0kg·m /
 4,000rpm。全車大量使用STI自行研發生產的改裝部件，並移除了大型尾翼，改用平板小尾翼。
 
 同年3月速霸陸英國分公司同樣委託Prodrive改造一批特仕車「Impreza P1」，以便適合當地的道路環境。「Impreza
-P1」外觀為雙門[轎跑車](../Page/轎跑車.md "wikilink")，取消日規的DCCD[駕駛者可控式中央差速器系統](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")，加裝Hella
+P1」外觀為雙門[轎跑車](../Page/轎跑車.md "wikilink")，取消日規的DCCD[駕駛者可控式中央差速器系統](../Page/駕駛者可控式中央差速器.md "wikilink")，加裝Hella
 H4頭燈組、Recaro賽車桶椅、OZ製10幅式18吋輪轂等配備\[7\]。
 
 Image:'93-'01 Subaru Impreza Wagon.jpg|五門旅行車車尾 Image:1995 Subaru Impreza
@@ -145,20 +144,20 @@ Image:1999-Subaru-Casa-Blanca-(GF)-Taiwan-Rear 02.jpg|Casa Blanca車尾
 
 2000年 -
 8月23日日本市場率先發表大改款的第二代Impreza，區分成四門轎車（此代起統一名稱為「WRX」）和五門旅行車二種外型，前者搭載2.0L水平對臥四缸DOHC
-[EJ204型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ204型 "wikilink")，配合[四輪傳動](https://zh.wikipedia.org/wiki/四輪傳動 "wikilink")；後者則搭載1.5L[水平對臥四缸SOHC](https://zh.wikipedia.org/wiki/水平對臥四缸引擎 "wikilink")
+[EJ204型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ204型 "wikilink")，配合[四輪傳動](https://zh.wikipedia.org/wiki/四輪傳動 "wikilink")；後者則搭載1.5L[水平對臥四缸SOHC](../Page/水平對臥四缸引擎.md "wikilink")
 [EJ15型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ15型 "wikilink")，為[前置前驅之方式](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")。2000年代車壇興起一股「車體撞擊安全」的概念，此款車亦強調「新環狀力骨車體」\[10\]，在車體前方加設副車架以吸收迎面而來的衝擊力道。也因為此點，雖然[底盤剛性比起前一代提升](https://zh.wikipedia.org/wiki/底盤 "wikilink")148%，車重卻多了近200[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。
 
 關於動力心臟部分，四門轎車「WRX」車型搭載2.0L[自然進氣版與渦輪增壓版](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")，其中[EJ205型渦輪增壓引擎導入TGV進氣控制系統](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ205型 "wikilink")（Tumble
 Generated
-Valve），提升燃燒效率、降低廢氣含碳量；且在進氣側加裝[AVCS主動閥門控制系統](https://zh.wikipedia.org/wiki/AVCS主動閥門控制系統 "wikilink")，加強馬力輸出。五門旅行車（原廠稱「Sport
-Wagon」）除了前述二種2.0L引擎外，另有1.5L[水平對臥四缸SOHC](https://zh.wikipedia.org/wiki/水平對臥四缸引擎 "wikilink")
+Valve），提升燃燒效率、降低廢氣含碳量；且在進氣側加裝[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")，加強馬力輸出。五門旅行車（原廠稱「Sport
+Wagon」）除了前述二種2.0L引擎外，另有1.5L[水平對臥四缸SOHC](../Page/水平對臥四缸引擎.md "wikilink")
 [EJ15型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ15型 "wikilink")，可選擇[FF或](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")[4WD](https://zh.wikipedia.org/wiki/四輪傳動 "wikilink")。不論四門或五門，變速系統皆為四速自排、五速手排兩種設定。在外觀設計上，改為圓形的[車頭燈和強調性能表現的WRX及STi特仕車相互組合下](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")，顯得相當突兀。非但引起車迷[愛好者的反彈](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，也連帶影響到銷售成績與人氣\[11\]。
 
 同年10月24日推出「WRX STi」（原廠代號GD Rev.
 A）特仕車\[12\]，且改用[英文字母來區分出產年份](../Page/英文字母.md "wikilink")。由於這種官方命名方式不易區別版本，眾多車迷改以車頭燈樣式來命名：2000年至2003年的被稱為「蟲眼（臺灣則稱作圓燈）」、2004年至2005年的被稱為「淚眼」、2006年至2007年的則被稱為「鷹眼」。比起上一代的WRX
 STi，此代GD平台的[底盤增加了](https://zh.wikipedia.org/wiki/底盤 "wikilink")120%的抗扭剛性，輪轂尺寸升級至17"
 x
-7.5"，五速手排變速箱也升級為六速手排。在內裝方面，座椅及[方向盤等處加上了STi標誌](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，轉速表新設紅色換檔提示燈；剎車制動系統改良成Brembo製前四活塞、後對向活塞的卡鉗。除了加大引擎蓋進氣口外，DCCD[駕駛者可控式中央差速器亦改成可以在ABS](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")[防鎖死煞車系統作動時自動切換成解鎖模式](../Page/防鎖死煞車系統.md "wikilink")。此版五門旅行車型的引擎輸出較小，峰值馬力下調為275ps。雖然2000年起WRX
+7.5"，五速手排變速箱也升級為六速手排。在內裝方面，座椅及[方向盤等處加上了STi標誌](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，轉速表新設紅色換檔提示燈；剎車制動系統改良成Brembo製前四活塞、後對向活塞的卡鉗。除了加大引擎蓋進氣口外，DCCD[駕駛者可控式中央差速器亦改成可以在ABS](../Page/駕駛者可控式中央差速器.md "wikilink")[防鎖死煞車系統作動時自動切換成解鎖模式](../Page/防鎖死煞車系統.md "wikilink")。此版五門旅行車型的引擎輸出較小，峰值馬力下調為275ps。雖然2000年起WRX
 STi開始陸續投放至[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[大洋洲及](../Page/大洋洲.md "wikilink")[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，雖搭載2.0L
 [EJ207型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ207型 "wikilink")，但動力輸出略有所調降，以符合各國的廢氣排放標準，最大馬力從261ps至280ps不等。
 
@@ -201,7 +200,7 @@ EJ207型渦輪增壓引擎，最大馬力在6,000轉時達到300ps，最大扭�
 
 [Subaru-WRX-wagon.jpg](https://zh.wikipedia.org/wiki/File:Subaru-WRX-wagon.jpg "fig:Subaru-WRX-wagon.jpg")
 同年6月日本市場發售再度小改款的「E」型\[22\]，內裝飾板改成和[紳寶9-2X一致](../Page/紳寶9-2X.md "wikilink")，Impreza
-STi的輪圈PCD從100mm擴大成114.3mm，DCCD[駕駛者可控式中央差速器新增可調整前](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")、後輪驅動比例之功能。10月20日發布限量300輛的「WRX
+STi的輪圈PCD從100mm擴大成114.3mm，DCCD[駕駛者可控式中央差速器新增可調整前](../Page/駕駛者可控式中央差速器.md "wikilink")、後輪驅動比例之功能。10月20日發布限量300輛的「WRX
 STi Spec C Type
 RA」特仕車，包含前下擾流板、前保險桿雙側多了增加下壓力的小翼、大型碳纖維尾翼、STi製12幅17吋鋁圈等配備。引擎可輸出280hp
 / 6,400rpm之最大馬力與42.0kg·m /
@@ -223,9 +222,9 @@ Club Spec Evo
 同年5月英國市場發行限量300部的「WRX300」特仕車\[28\]，具有Prodrive提供的動力升級套件，最大馬力提升到265hp，峰值扭力也達到35.53kg·m，原廠表示這部車的起步加速0-100km/hr僅需4.8秒，安全極速更可達233km/hr\[29\]。其專屬塗裝為藍色，標準配備有17吋鋁合金鍛造輪圈、長毛地毯、RAC
 Trackstar防盜系統、運動化懸吊系統等。
 
-2005年6月16日日本當地發表第二度小改款的「F」型\[30\]，最大的改變是車頭燈，從「淚眼」造型改成「鷹眼」。其次是水箱罩造型沿用[速霸陸R1](https://zh.wikipedia.org/wiki/速霸陸R1 "wikilink")、[速霸陸R2](https://zh.wikipedia.org/wiki/速霸陸R2 "wikilink")、[速霸陸Tribeca等的](https://zh.wikipedia.org/wiki/速霸陸Tribeca "wikilink")[梯形設計](../Page/梯形.md "wikilink")，尾燈組也改成柱狀。最受矚目的WRX
+2005年6月16日日本當地發表第二度小改款的「F」型\[30\]，最大的改變是車頭燈，從「淚眼」造型改成「鷹眼」。其次是水箱罩造型沿用[速霸陸R1](../Page/速霸陸R1.md "wikilink")、[速霸陸R2](../Page/速霸陸R2.md "wikilink")、[速霸陸Tribeca等的](../Page/速霸陸Tribeca.md "wikilink")[梯形設計](../Page/梯形.md "wikilink")，尾燈組也改成柱狀。最受矚目的WRX
 STi Spec C（原廠代號GD Rev.
-F）除全車空力套件外，後窗玻璃更增加一片能增加下壓力的擾流翼；此外速度表從180km/hr改成260km/hr。車底新增一片能導流的防護板，保護油箱和變速箱。引擎蓋進氣口墊高，有助於提升中冷器的效率。避震系統重新調校，後避震器改設可調式塔頂（俗稱波子塔頂）以取代橡膠塔頂，新裝[直徑](https://zh.wikipedia.org/wiki/直徑 "wikilink")21mm的前防傾桿，先前的金屬引擎腳更換成液壓塑膠引擎腳。DCCD[駕駛者可控式中央差速器經過升級](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")，預設（中央差速器未作動）的傳動比例改為前軸41%、後軸59%（原為前軸35%、後軸65%）。為了小改款的鷹眼Impreza，原廠找來著名[歌舞伎](../Page/歌舞伎.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[中村獅童擔任產品代言人](../Page/中村獅童_\(二代目\).md "wikilink")。
+F）除全車空力套件外，後窗玻璃更增加一片能增加下壓力的擾流翼；此外速度表從180km/hr改成260km/hr。車底新增一片能導流的防護板，保護油箱和變速箱。引擎蓋進氣口墊高，有助於提升中冷器的效率。避震系統重新調校，後避震器改設可調式塔頂（俗稱波子塔頂）以取代橡膠塔頂，新裝[直徑](https://zh.wikipedia.org/wiki/直徑 "wikilink")21mm的前防傾桿，先前的金屬引擎腳更換成液壓塑膠引擎腳。DCCD[駕駛者可控式中央差速器經過升級](../Page/駕駛者可控式中央差速器.md "wikilink")，預設（中央差速器未作動）的傳動比例改為前軸41%、後軸59%（原為前軸35%、後軸65%）。為了小改款的鷹眼Impreza，原廠找來著名[歌舞伎](../Page/歌舞伎.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[中村獅童擔任產品代言人](../Page/中村獅童_\(二代目\).md "wikilink")。
 
 同年7月小改款的美規版Impreza也上市，與日規版的外觀一致，但最大的差異在於採用EJ25型水平對臥引擎。自然進氣版的[EJ253型新增](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ253型 "wikilink")[i-AVLS智慧氣門提升系統](https://zh.wikipedia.org/wiki/i-AVLS智慧氣門提升系統 "wikilink")，最大馬力從165hp小幅度升至173hp，最大扭力仍維持22.95kg·m
 /
@@ -238,12 +237,12 @@ RA」特仕車，限量350輛，配備了[不鏽鋼排氣尾管](../Page/不鏽�
 [Subaru_STI204_019x.JPG](https://zh.wikipedia.org/wiki/File:Subaru_STI204_019x.JPG "fig:Subaru_STI204_019x.JPG")
 2006年 -
 1月發售STI精製的「S204」特仕車\[31\]，強化減震筒和賽車化懸吊系統乃與[YAHAMA共同開發](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")，配以[倍耐力P](../Page/倍耐力.md "wikilink")
-Zero輪胎及BBS製18吋鍛造輪圈。空力套件、前後保險桿擾流翼、車身側裙、後尾翼等皆以輕量化的碳纖維材質構成，Recaro出品的桶型賽車座椅也以碳纖維材質，加寬肩部支撐部位以提供更好的包覆性及支撐力。S204限量發售600輛，但[紐西蘭發現有](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")5輛S204並無數字銘牌，一度招致外界懷疑其真實產量。同時原廠針對搭載1.5L[水平對臥四缸SOHC](https://zh.wikipedia.org/wiki/水平對臥四缸引擎 "wikilink")
+Zero輪胎及BBS製18吋鍛造輪圈。空力套件、前後保險桿擾流翼、車身側裙、後尾翼等皆以輕量化的碳纖維材質構成，Recaro出品的桶型賽車座椅也以碳纖維材質，加寬肩部支撐部位以提供更好的包覆性及支撐力。S204限量發售600輛，但[紐西蘭發現有](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")5輛S204並無數字銘牌，一度招致外界懷疑其真實產量。同時原廠針對搭載1.5L[水平對臥四缸SOHC](../Page/水平對臥四缸引擎.md "wikilink")
 [EJ15型引擎的車型推出](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ15型 "wikilink")「Delight
 Selection」特仕車，車室內裝改為米色、黑色，而方向盤、排檔桿與手煞車拉桿皆以真皮包覆，車內車門把手亦以鍍鉻修飾。額外增加的配備含有[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、車頂短天線、搖控鑰匙、後窗抗[紫外線染色玻璃](https://zh.wikipedia.org/wiki/紫外線 "wikilink")、車內鑰匙孔照明功能等，另外五門旅行車車型的後行李廂新增置物盒。
 
 同年1月16日英國速霸陸發售「WRX STi spec
-D」特仕車，售價訂為28,450[英鎊](https://zh.wikipedia.org/wiki/英鎊 "wikilink")。具備專用金屬灰車色、Prodrive全車空力套件、17吋多輻式鋁圈、真皮座椅及[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、觸控式液晶螢幕的SmartNav[衛星導航系統](https://zh.wikipedia.org/wiki/衛星導航系統 "wikilink")、可播放[MP3格式](../Page/MP3.md "wikilink")[CD](../Page/CD.md "wikilink")、[藍牙通訊](../Page/藍牙.md "wikilink")、[iPod等多媒體影音系統等配備](../Page/iPod.md "wikilink")\[32\]。2月15日小改款Impreza正式進入臺灣市場，不論四門轎車或五門旅行車皆和美規版同樣搭載EJ25型引擎，含有真皮座椅、HID頭燈組、隱藏頭燈清洗器、頭燈角度自動調整、電動天窗、六顆SRS[安全氣囊等配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")\[33\]。4月5日英國速霸陸又發售「Prodrive-developed
+D」特仕車，售價訂為28,450[英鎊](https://zh.wikipedia.org/wiki/英鎊 "wikilink")。具備專用金屬灰車色、Prodrive全車空力套件、17吋多輻式鋁圈、真皮座椅及[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、觸控式液晶螢幕的SmartNav[衛星導航系統](https://zh.wikipedia.org/wiki/衛星導航系統 "wikilink")、可播放[MP3格式](../Page/MP3.md "wikilink")[CD](../Page/CD.md "wikilink")、[藍牙通訊](../Page/藍牙.md "wikilink")、[iPod等多媒體影音系統等配備](https://zh.wikipedia.org/wiki/iPod "wikilink")\[32\]。2月15日小改款Impreza正式進入臺灣市場，不論四門轎車或五門旅行車皆和美規版同樣搭載EJ25型引擎，含有真皮座椅、HID頭燈組、隱藏頭燈清洗器、頭燈角度自動調整、電動天窗、六顆SRS[安全氣囊等配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")\[33\]。4月5日英國速霸陸又發售「Prodrive-developed
 Performance Packs」動力升級套件，主要針對中轉速的馬力與扭力再作提昇，使得轉速拉升得更為敏捷。Impreza 2.5 WRX
 STI之最大馬力提升至316hp / 6,000rpm，其出現時間較原先的5,600rpm延遲，而峰值扭力則從原來的40.0kg·m /
 4,000rpm提升至45.9kg·m /
@@ -255,12 +254,12 @@ STI之最大馬力提升至316hp / 6,000rpm，其出現時間較原先的5,600rp
 WRX STI
 Limited」，其中400輛為珍珠白、另400輛為金屬灰，共計800輛只限[北美洲市場](../Page/北美洲.md "wikilink")。外觀方面具有全新設計之空力套件、Enkei（エンケイ株式会社）製17吋鍛造鋁圈、[普利司通Potenza](../Page/普利司通.md "wikilink")
 RE070 225/45
-ZR17輪胎、Brembo煞車系統、6片式[CD音響系統等](../Page/CD.md "wikilink")，動力心臟則為具有[AVCS主動閥門控制系統的EJ](https://zh.wikipedia.org/wiki/AVCS主動閥門控制系統 "wikilink")257型引擎，最大馬力293hp
+ZR17輪胎、Brembo煞車系統、6片式[CD音響系統等](../Page/CD.md "wikilink")，動力心臟則為具有[AVCS主動閥門控制系統的EJ](../Page/AVCS主動閥門控制系統.md "wikilink")257型引擎，最大馬力293hp
 / 6,000rpm，最大扭力40.09kg·m / 4,400rpm，搭配六速手排變速系統。
 
 [Subaru_Impreza_WRX_STI_2006_front.jpg](https://zh.wikipedia.org/wiki/File:Subaru_Impreza_WRX_STI_2006_front.jpg "fig:Subaru_Impreza_WRX_STI_2006_front.jpg")
 6月19日改良成「G」型，新設「1.5R」車型\[35\]，搭載全新開發的1.5L水平對臥四缸DOHC
-[EL15型引擎](https://zh.wikipedia.org/wiki/速霸陸EL族引擎#EL15型 "wikilink")。由於改為雙凸輪軸構造，並附有[AVCS主動閥門控制系統](https://zh.wikipedia.org/wiki/AVCS主動閥門控制系統 "wikilink")，馬力輸出由原本的100hp
+[EL15型引擎](https://zh.wikipedia.org/wiki/速霸陸EL族引擎#EL15型 "wikilink")。由於改為雙凸輪軸構造，並附有[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")，馬力輸出由原本的100hp
 / 5,200rpm提升至110hp / 6,400rpm，扭力表現則從14.5kg·m / 4,000rpm小增至14.7kg·m /
 3,200rpm。原廠代號「GD Rev. G」的WRX
 STI車型中，噴油嘴從側置式改為頂置式，另渦輪增壓器更換為石川島播磨重工業的VF43型，以符合日趨嚴格的排放標準。同時販售「WRX
@@ -284,7 +283,7 @@ Type-25」\[38\]，依然使用美規EJ257型引擎，並使用[考斯沃斯](..
 Litchfield Type−25 Spec C」，改裝項目包含加大型中冷器、輕量化引擎蓋、引擎機油冷卻器、變速箱冷卻器、後上拉桿等元件。
 
 2007年 - 雖然大改款的第三代Impreza業已於4月推出，但7月5日英國速霸陸臨去秋波，推出限量的「Impreza
-GB270」特仕車。動力心臟在Prodrive性能套件的加持下，最大馬力從230hp提升至270hp（也就是「GB270」的代表意義），最大扭力也達42.9kg·m。因此由0加速至60[英哩費時](https://zh.wikipedia.org/wiki/英哩 "wikilink")5.3秒，進步了0.6秒；由0加速至100英哩也只要13.9秒。其他配備包含運動化懸吊系統、MOMO排檔桿及快排系統、18x7.5吋GT1鋁合金輪圈、全車空力套件；此外可以選購含有[衛星導航](https://zh.wikipedia.org/wiki/衛星導航 "wikilink")、[iPod輸入端子和](../Page/iPod.md "wikilink")[藍牙通訊等功能的ICE整合式影音通訊系統](../Page/藍牙.md "wikilink")\[39\]。
+GB270」特仕車。動力心臟在Prodrive性能套件的加持下，最大馬力從230hp提升至270hp（也就是「GB270」的代表意義），最大扭力也達42.9kg·m。因此由0加速至60[英哩費時](https://zh.wikipedia.org/wiki/英哩 "wikilink")5.3秒，進步了0.6秒；由0加速至100英哩也只要13.9秒。其他配備包含運動化懸吊系統、MOMO排檔桿及快排系統、18x7.5吋GT1鋁合金輪圈、全車空力套件；此外可以選購含有[衛星導航](https://zh.wikipedia.org/wiki/衛星導航 "wikilink")、[iPod輸入端子和](https://zh.wikipedia.org/wiki/iPod "wikilink")[藍牙通訊等功能的ICE整合式影音通訊系統](../Page/藍牙.md "wikilink")\[39\]。
 
 Image:Japanese SUBARU IMPREZA WRX STi police
 car.jpg|日本[琦玉縣](https://zh.wikipedia.org/wiki/琦玉縣 "wikilink")[警察](../Page/警察.md "wikilink")[巡邏車](../Page/警察車輛.md "wikilink")
@@ -311,21 +310,21 @@ Image:RB320.jpg|英國Impreza WRX STI RB320特仕車 Image:Subaru Impreza WRX ST
 E-4AT四速手自排，另外渦輪增壓版可配六速手排變速系統。1.5L為[前置前驅](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")，其餘排氣量之引擎則搭配全時[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。美規版則以2.5L水平對臥四缸DOHC
 [EJ254型和](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ254型 "wikilink")2.5L水平對臥四缸DOHC
 [EJ255型渦輪增壓等兩種引擎為主](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ255型 "wikilink")，另外[歐洲市場還有一具](https://zh.wikipedia.org/wiki/歐洲 "wikilink")2.0L水平對臥四缸DOHC
-[EE20型渦輪增壓](https://zh.wikipedia.org/wiki/速霸陸EE20型引擎 "wikilink")[柴油引擎可供選擇](../Page/柴油引擎.md "wikilink")。底盤懸吊為全新開發的SI
+[EE20型渦輪增壓](../Page/速霸陸EE20型引擎.md "wikilink")[柴油引擎可供選擇](../Page/柴油引擎.md "wikilink")。底盤懸吊為全新開發的SI
 Chassis（Subaru Intelligent
 Chassis）結構，除了更輕量化，也比前一代更為靜肅。為了提升操控性和乘坐舒適性，首度在後輪懸吊系統採用[雙A臂懸吊系統](https://zh.wikipedia.org/wiki/雙橫臂懸架 "wikilink")。自9月份起，陸續在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[西班牙等地開賣](../Page/西班牙.md "wikilink")。
 
 [3rd_generation_Subaru_Impreza_WRX_STI_rear.jpg](https://zh.wikipedia.org/wiki/File:3rd_generation_Subaru_Impreza_WRX_STI_rear.jpg "fig:3rd_generation_Subaru_Impreza_WRX_STI_rear.jpg")
 同年10月24日日本地區發售「WRX
-STI」特仕車\[41\]，一掃前兩代的四門轎車車型，改以五門掀背車車型為主，[EJ207型搭配雙渦流渦輪增壓器](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ207型 "wikilink")、增大的置頂式中冷器、[雙AVCS主動閥門控制系統](https://zh.wikipedia.org/wiki/AVCS主動閥門控制系統 "wikilink")，配合六速手排變速箱可輸出最大[馬力](../Page/馬力.md "wikilink")308hp
+STI」特仕車\[41\]，一掃前兩代的四門轎車車型，改以五門掀背車車型為主，[EJ207型搭配雙渦流渦輪增壓器](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ207型 "wikilink")、增大的置頂式中冷器、[雙AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")，配合六速手排變速箱可輸出最大[馬力](../Page/馬力.md "wikilink")308hp
 / 6,400rpm、扭力峰值43.0kg·m / 4,400rpm。其他配備尚包含對稱式全時四輪驅動系統（Symmetrical
-AWD）、新增「自動+」和「自動-」功能的DCCD[駕駛者可控式中央差速器](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")、提供「智能」、「運動」及「超級運動」三種模式的[SI-DRIVE智能駕駛提升系統](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")、前四後二活塞卡鉗的Brembo製17吋煞車碟盤、BBS製18吋五輻式鍛造鋁圈等；內裝則有三環式儀表板、三輻式真皮方向盤、STi字樣的中控台金屬飾板、紅色LED底板指示燈等，可惜Recaro桶型賽車座椅必須額外加價選配。11月14日發售與服裝雜貨業者Beams（株式会社ビームス）共同企劃的特別仕樣車「BEAMS
+AWD）、新增「自動+」和「自動-」功能的DCCD[駕駛者可控式中央差速器](../Page/駕駛者可控式中央差速器.md "wikilink")、提供「智能」、「運動」及「超級運動」三種模式的[SI-DRIVE智能駕駛提升系統](../Page/SI-DRIVE.md "wikilink")、前四後二活塞卡鉗的Brembo製17吋煞車碟盤、BBS製18吋五輻式鍛造鋁圈等；內裝則有三環式儀表板、三輻式真皮方向盤、STi字樣的中控台金屬飾板、紅色LED底板指示燈等，可惜Recaro桶型賽車座椅必須額外加價選配。11月14日發售與服裝雜貨業者Beams（株式会社ビームス）共同企劃的特別仕樣車「BEAMS
 Edition」\[42\]，車身塗裝以亮[橘色為主](https://zh.wikipedia.org/wiki/橘色 "wikilink")，內裝則以[黑色為基調](../Page/黑色.md "wikilink")，座椅與[方向盤用橘色縫線滾邊處理](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，而且座椅與門內飾板均具有撥水與抗菌之功能。至於機械結構和動力心臟方面，都和1.5L、2.0L自然進氣版的車型相同。除此之外，速霸陸在日本境內指定的展示中心內設置Beams專區，Beams則在全國43家門市裡將Impreza
 BEAMS變成店內裝飾的一部份，成為最新的異業結盟行銷手法\[43\]。「WRX
 STI」的美規版則於同年11月15日開幕的[洛杉磯國際車展上開放預訂](https://zh.wikipedia.org/wiki/洛杉磯國際車展 "wikilink")，同樣搭載的[EJ257型雖然也重新調校](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ257型 "wikilink")，但馬力、扭力比起日規版仍大幅縮水，分別為305hp、40.1kg·m。
 
 2008年 - 1月「WRX
-STI」車型亦正式於[歐洲發售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，其中頂級車款包含VDC車身動態控制系統、[SI-DRIVE智能駕駛提升系統](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")、BBS製鍛造鋁圈、Recaro製桶型賽車座椅、全車空力套件等裝備。2月該車型亦趁著臺北國際車展的機會正式引進[臺灣市場](../Page/臺灣.md "wikilink")，大部分的規格配備向日規版看齊，首批12輛不到一星期便售罄\[44\]，使得臺灣總代理緊急向日本母廠下單調貨。5月15日日本原廠為了慶祝成立50周年，推出「15S
+STI」車型亦正式於[歐洲發售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，其中頂級車款包含VDC車身動態控制系統、[SI-DRIVE智能駕駛提升系統](../Page/SI-DRIVE.md "wikilink")、BBS製鍛造鋁圈、Recaro製桶型賽車座椅、全車空力套件等裝備。2月該車型亦趁著臺北國際車展的機會正式引進[臺灣市場](../Page/臺灣.md "wikilink")，大部分的規格配備向日規版看齊，首批12輛不到一星期便售罄\[44\]，使得臺灣總代理緊急向日本母廠下單調貨。5月15日日本原廠為了慶祝成立50周年，推出「15S
 Comfort
 Selection」特仕車\[45\]，配備了除臭天花板、抗[紫外線車窗玻璃](https://zh.wikipedia.org/wiki/紫外線 "wikilink")、抗菌過濾空調系統及寶藍色車身塗裝等。
 
@@ -335,7 +334,7 @@ Selection」特仕車\[45\]，配備了除臭天花板、抗[紫外線車窗玻�
 
 本來日本市場僅發售五門掀背車型，為了回應[消費者的強力要求](https://zh.wikipedia.org/wiki/消費者 "wikilink")，原廠在10月8日推出四門轎車型，並冠上「Anesis（アネシス）」之副名\[46\]。多了一截的車尾不但配置後窗[雨刷](../Page/雨刷.md "wikilink")，且附有[LED煞車燈組的尾翼](https://zh.wikipedia.org/wiki/LED "wikilink")。原先「S-GT」等級更名為「2.0GT」，2.0L自然進氣版新增[前置前驅車型](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")，並取消[紫色](../Page/紫色.md "wikilink")、[銀色等車色](https://zh.wikipedia.org/wiki/銀色 "wikilink")。同月28日為了慶祝WRX
 STI車型發行20週年，發售限量300部的「WRX STI 20th Anniversary」特仕車\[47\]。除了車側鑲有STI
-20週年銘牌外，特製避震器、18吋鋁圈、前後下巴擾流板、櫻桃紅縫線的Recaro製皮革賽車座椅及排檔桿、櫻桃紅色晶片鑰匙皮套等皆列為標準式樣。同年11月11日[台灣意美汽車正式引進打改款的第三代Impreza](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")，動力心臟有1.5L和2.0L兩種選擇，售價則依配備多寡自[新臺幣](../Page/新臺幣.md "wikilink")74.8至92.8萬元不等。
+20週年銘牌外，特製避震器、18吋鋁圈、前後下巴擾流板、櫻桃紅縫線的Recaro製皮革賽車座椅及排檔桿、櫻桃紅色晶片鑰匙皮套等皆列為標準式樣。同年11月11日[台灣意美汽車正式引進打改款的第三代Impreza](../Page/台灣意美汽車.md "wikilink")，動力心臟有1.5L和2.0L兩種選擇，售價則依配備多寡自[新臺幣](../Page/新臺幣.md "wikilink")74.8至92.8萬元不等。
 
 無獨有偶地，2008年11月17日英國進口車商李治菲貿易公司（Litchfield Imports）再次推出非官方版的「Impreza
 Litchfield Type-20」\[48\]，以「WRX
@@ -349,7 +348,7 @@ E-5AT五速手自排變速箱的「WRX STI
 A-Line」特仕車\[49\]。八向電動駕駛座椅被列為「WRX
 STI」的標準配備，新增白色車身塗裝，VDC車輛動態控制系統的操作模式切換也做了小更動。至於「WRX STI
 A-Line」搭載[EJ257型和Sportshift](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ257型 "wikilink")
-E-5AT五速手自排變速系統，另有方向盤換檔撥片、[SI-DRIVE](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")、前17吋雙活塞及後16吋碟煞煞車系統、八向電動可調加熱桶型賽車座椅、類金屬車門扶手、真皮包覆加金屬飾板排檔桿頭、類金屬飾板排檔座、定速巡航系統、VDC車輛動態控制系統、金屬踏板等標準配備。為了刺激買氣，日本市場在4月16日針對1.5L和2.0L兩種動力版本推出「Comfort
+E-5AT五速手自排變速系統，另有方向盤換檔撥片、[SI-DRIVE](../Page/SI-DRIVE.md "wikilink")、前17吋雙活塞及後16吋碟煞煞車系統、八向電動可調加熱桶型賽車座椅、類金屬車門扶手、真皮包覆加金屬飾板排檔桿頭、類金屬飾板排檔座、定速巡航系統、VDC車輛動態控制系統、金屬踏板等標準配備。為了刺激買氣，日本市場在4月16日針對1.5L和2.0L兩種動力版本推出「Comfort
 SelectionⅡ」特仕車，具有抗紫外線玻璃、粉塵過濾恆溫空調、後座隱藏式置杯座、免鑰匙感應門鎖系統（keyless entry
 system）與引擎啟動按鈕（push start system）、防盜器、前霧燈、藍色或白色儀表、四支揚聲器、真皮方向盤及排檔桿頭等配備。
 
@@ -377,14 +376,14 @@ CS400」\[57\]，售價為49,995[英鎊](https://zh.wikipedia.org/wiki/英鎊 "w
 Racing製前六活塞/後四活塞剎車卡鉗等配備。最大輸出馬力提高了33%，飆升至400ps，更可在3.7秒內完成0至100公里的加速。
 
 7月1日「WRX STI」進行小改款，並新增四門轎車車型\[58\]。四門轎車以美規Impreza
-WRX四門版為基礎，具有大型擾流尾翼、18吋BBS製鍛造鋁合金輪圈、Brembo對向四活塞煞車卡鉗、STI桶型賽車座椅、四出排氣尾管、[SI-DRIVE系統](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")、VSC車身動態控制系統、DCCD[駕駛者可控式中央差速器](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")、等長排氣頭段等均為標準配備；另外「WRX
+WRX四門版為基礎，具有大型擾流尾翼、18吋BBS製鍛造鋁合金輪圈、Brembo對向四活塞煞車卡鉗、STI桶型賽車座椅、四出排氣尾管、[SI-DRIVE系統](../Page/SI-DRIVE.md "wikilink")、VSC車身動態控制系統、DCCD[駕駛者可控式中央差速器](../Page/駕駛者可控式中央差速器.md "wikilink")、等長排氣頭段等均為標準配備；另外「WRX
 STI
 A-Line」則含有天窗、前座加熱系統、整合式多媒體影音系統、全車10支立體聲喇叭、黑色或米色內裝等配備。動力方面搭載2.0L水平對臥四缸[EJ207型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ207型 "wikilink")，搭配六速手排變速箱的最大馬力為308ps
 / 6,400rpm、最大扭力43.0kg·m / 4,400rpm；另外「WRX STI
 A-Line」搭載2.5L水平對臥四缸[EJ257型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ257型 "wikilink")，可發揮300ps
 / 6,200rpm及35.7kg·m /
 2,800\~6,000rpm的最大動力。後者的低轉速域扭力較為飽滿，渦輪遲滯的情況較不明顯，且轉速紅線區訂在6,300rpm。9月在中國[成都舉辦的](https://zh.wikipedia.org/wiki/成都 "wikilink")2010年成都國際車展會場上，中國速霸陸宣布四門版「WRX
-STI」正式在該地發售。至於[臺灣市場](../Page/臺灣.md "wikilink")，則在10月底由[台灣意美汽車引進](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")。
+STI」正式在該地發售。至於[臺灣市場](../Page/臺灣.md "wikilink")，則在10月底由[台灣意美汽車引進](../Page/台灣意美汽車.md "wikilink")。
 
 同年12月21日推出「WRX STI spec
 C」，不再採限量發售的策略。這款車仍採五門掀背車之設定，針對引擎、車身底盤等全面強化，並使用更多[鋁合金材質以達到輕量化效果](../Page/鋁合金.md "wikilink")。在動力方面，升級了ECU行車電腦，雙渦流渦輪增壓器換上滾珠軸承，搭配中冷器噴水裝置與效率更佳的供油泵浦，讓2.0L水平對臥四缸EJ207型渦輪增壓汽油引擎從原本的308ps
@@ -439,14 +438,14 @@ Concept」\[63\]，翌日開幕的[紐約國際車展正式發表第四代大改
 [FB16型引擎及](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB16型 "wikilink")2.0L水平對臥四缸DOHC
 [FB20型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")，各有115ps
 / 5,600rpm、15.1kg·m / 4,000rpm以及150ps / 6,200rpm、20.0kg·m /
-4,200rpm的輸出表現。搭配[AVCS主動閥門控制系統](https://zh.wikipedia.org/wiki/AVCS主動閥門控制系統 "wikilink")、[Lineartronic
+4,200rpm的輸出表現。搭配[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")、[Lineartronic
 CVT無段自動變速系統](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")、TGV進氣控制系統（Tumble
 Generated Valve）、EGR[排氣再循環系統](../Page/排氣再循環.md "wikilink")（Exhaust Gas
 Recirculation）等，經日本測試，FB16型的油耗表現為17.6km/L，FB20型則為17.2km/L。和前一代的底盤懸吊系統同樣採用前麥花臣、後雙A臂之設計，輔以Symmetrical
-AWD全時[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")、VDC[車輛動態控制系統](../Page/电子稳定程序.md "wikilink")、[ABS](../Page/防鎖死煞車系統.md "wikilink")+[EBD](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")+BA煞車輔助系統等。此外，2.0L車型追加[EyeSight行車安全輔助系統](https://zh.wikipedia.org/wiki/EyeSight "wikilink")，提升駕駛安全性。
+AWD全時[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")、VDC[車輛動態控制系統](../Page/电子稳定程序.md "wikilink")、[ABS](../Page/防鎖死煞車系統.md "wikilink")+[EBD](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")+BA煞車輔助系統等。此外，2.0L車型追加[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，提升駕駛安全性。
 
 2012年 -
-雖然4月20日XV先行在[臺灣開賣](../Page/臺灣.md "wikilink")，6月19日日本才宣告衍生車款[XV將自成一格](https://zh.wikipedia.org/wiki/速霸陸XV "wikilink")，10月5日正式上市。9月25日宣布Sports、G4兩種車型小改良（「B」型），將HAC上坡行車輔助系統（Hill-start
+雖然4月20日XV先行在[臺灣開賣](../Page/臺灣.md "wikilink")，6月19日日本才宣告衍生車款[XV將自成一格](../Page/速霸陸XV.md "wikilink")，10月5日正式上市。9月25日宣布Sports、G4兩種車型小改良（「B」型），將HAC上坡行車輔助系統（Hill-start
 Assist
 Control）列為標準配備，以及新增車色；同年10月1日四門及五門兩種車型同時獲得[好設計獎](../Page/好設計獎.md "wikilink")。
 
@@ -467,7 +466,7 @@ STI Launch
 Edition特仕車上。內裝部分除了專屬紅黑配色麂皮座椅、D形平底式方向盤、STI飾板等，且配上了軟質材料和黑色頂篷，以便與WRX區隔。動力方面仍使用2.5L水平對臥四缸DOHC
 [EJ257型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ257型 "wikilink")，可輸出最大馬力305hp
 / 6,000rpm、最大扭力290lb-ft / 4,000rpm。除了搭配6速手排變速箱、對稱式全時四輪驅動系統（Symmetrical
-AWD）、DCCD[駕駛者可控式中央差速器](https://zh.wikipedia.org/wiki/駕駛者可控式中央差速器 "wikilink")、[SI-DRIVE駕駛輔助系統等](https://zh.wikipedia.org/wiki/SI-DRIVE "wikilink")，更具有主動式扭力引導系統（Active
+AWD）、DCCD[駕駛者可控式中央差速器](../Page/駕駛者可控式中央差速器.md "wikilink")、[SI-DRIVE駕駛輔助系統等](../Page/SI-DRIVE.md "wikilink")，更具有主動式扭力引導系統（Active
 Torque Vectoring），可在車輛轉彎時對內側輪胎施以剎車力道，調整轉向反應。WRX
 STI採用了13.0:1的轉向比例，使得其左右死點僅有2.5圈；比起WRX的轉向比例14.5:1、左右死點2.8圈還要少。
 
@@ -479,20 +478,20 @@ STI為2.5L水平對臥四缸DOHC
 [EJ257型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ257型 "wikilink")。
 
 2015年 -
-繼[速霸陸XV之後](https://zh.wikipedia.org/wiki/速霸陸XV "wikilink")，原廠於6月19日發表[油電複合動力車型](https://zh.wikipedia.org/wiki/油電複合動力系統 "wikilink")**Impreza
+繼[速霸陸XV之後](../Page/速霸陸XV.md "wikilink")，原廠於6月19日發表[油電複合動力車型](https://zh.wikipedia.org/wiki/油電複合動力系統 "wikilink")**Impreza
 Sport Hybrid**\[69\]，動力來源為2.0L水平對臥四缸DOHC
 [FB20型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")，配合可輸出10kW（約13.6hp）
 /
-6.6kgf·m功率之MA1型[電動馬達與](../Page/电动机.md "wikilink")[鎳氫電池模組](https://zh.wikipedia.org/wiki/鎳氫電池 "wikilink")，經日本測試平均油耗為20.4km/L。車型分成二種等級，皆將[EyeSight行車安全輔助系統列入標準配備](https://zh.wikipedia.org/wiki/EyeSight "wikilink")，且針對Hybrid動力做調整。新增ECO巡航控制機能，在啟用主動式定速巡航時能盡量以電能動力優先，長途駕駛時可省下可觀的燃油。
+6.6kgf·m功率之MA1型[電動馬達與](../Page/电动机.md "wikilink")[鎳氫電池模組](https://zh.wikipedia.org/wiki/鎳氫電池 "wikilink")，經日本測試平均油耗為20.4km/L。車型分成二種等級，皆將[EyeSight行車安全輔助系統列入標準配備](../Page/EyeSight.md "wikilink")，且針對Hybrid動力做調整。新增ECO巡航控制機能，在啟用主動式定速巡航時能盡量以電能動力優先，長途駕駛時可省下可觀的燃油。
 
-同年10月6日部分改良\[70\]，[EyeSight行車安全輔助系統擴及至](https://zh.wikipedia.org/wiki/EyeSight "wikilink")「1.6i-L
+同年10月6日部分改良\[70\]，[EyeSight行車安全輔助系統擴及至](../Page/EyeSight.md "wikilink")「1.6i-L
 EyeSight」、「1.6i-S EyeSight」等車型，另改換[紫色車色](../Page/紫色.md "wikilink")。
 
 2016年 - 日本市場於7月24日停產。
 
 #### 安全性召回
 
-2015年7月15日美國速霸陸宣佈召回32,400輛在2011年4月21日至2012年2月16日之間生產的四門轎車與五門掀背車\[71\]，由於設定在助手席的感應器可在無人時自動關閉其[安全氣囊系統](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，可是[美國國家公路交通安全管理局卻收到](https://zh.wikipedia.org/wiki/美國國家公路交通安全管理局 "wikilink")26件報告指出，當助手席的乘客使用[USB裝置或碰觸到座椅調整手把等金屬物件](../Page/USB.md "wikilink")，形成接地狀態時，偵測系統會誤判助手席沒有坐人。此時若發生交通事故，助手席之安全氣囊並不會作動而造成危險。美國速霸陸將通知車主回廠處理，以更換助手席的控制元件。此外[台灣意美汽車也表示臺灣地區有](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")144輛車包含在這波召回行動中，該公司將主動通知車主回廠更換感應器。
+2015年7月15日美國速霸陸宣佈召回32,400輛在2011年4月21日至2012年2月16日之間生產的四門轎車與五門掀背車\[71\]，由於設定在助手席的感應器可在無人時自動關閉其[安全氣囊系統](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，可是[美國國家公路交通安全管理局卻收到](https://zh.wikipedia.org/wiki/美國國家公路交通安全管理局 "wikilink")26件報告指出，當助手席的乘客使用[USB裝置或碰觸到座椅調整手把等金屬物件](../Page/USB.md "wikilink")，形成接地狀態時，偵測系統會誤判助手席沒有坐人。此時若發生交通事故，助手席之安全氣囊並不會作動而造成危險。美國速霸陸將通知車主回廠處理，以更換助手席的控制元件。此外[台灣意美汽車也表示臺灣地區有](../Page/台灣意美汽車.md "wikilink")144輛車包含在這波召回行動中，該公司將主動通知車主回廠更換感應器。
 
 Image:2012 Subaru Impreza Sport -- 02-29-2012 rear.JPG|五門掀背車車尾（美規）
 Image:2012 Subaru Impreza sedan -- 2012 DC rear.JPG|四門轎車車尾（美規）
@@ -508,7 +507,7 @@ Impreza Hatchback (MIAS '12).JPG|蒙特婁車展
 2016年 -
 3月舉辦的[紐約國際車展上](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")，原廠公佈第五代Impreza之全貌。10月13日率先於日本開賣，該車款首搭SGP（Subaru
 Global
-Platform）全球模組化底盤平台，並將行人防護氣囊系統列為標準配備，這在當地市場相當罕見。其他標準配備還有七具安全氣囊、[EyeSight](https://zh.wikipedia.org/wiki/EyeSight "wikilink")、HBA遠燈輔助系統、AFS主動轉向式頭燈、ACC主動式車距維持系統、AEB自動煞停系統、[LKA車道偏移輔助系統等](../Page/車道偏離警示.md "wikilink")。動力心臟區分成1.6L水平對臥四缸DOHC
+Platform）全球模組化底盤平台，並將行人防護氣囊系統列為標準配備，這在當地市場相當罕見。其他標準配備還有七具安全氣囊、[EyeSight](../Page/EyeSight.md "wikilink")、HBA遠燈輔助系統、AFS主動轉向式頭燈、ACC主動式車距維持系統、AEB自動煞停系統、[LKA車道偏移輔助系統等](../Page/車道偏離警示.md "wikilink")。動力心臟區分成1.6L水平對臥四缸DOHC
 [FB16型和](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB16型 "wikilink")2.0L水平對臥四缸DOHC
 [FB20型等二種引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")，前者延續第四代的單元配置，維持岐管噴射系統，最大馬力115ps
 / 5,600rpm、扭力峰值15.1kgf·m / 4,000rpm；後者則是導入缸內直噴技術，最大馬力156ps /
@@ -517,9 +516,9 @@ Platform）全球模組化底盤平台，並將行人防護氣囊系統列為標
 CVT無段自動變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")。同年12月9日獲得第37屆[日本年度風雲車獎項](../Page/日本年度風雲車.md "wikilink")，距離上次2003年第四代Legacy獲獎已達13年之久。
 
 2017年 -
-2月15日[台灣意美汽車宣布引進大改款的Impreza](https://zh.wikipedia.org/wiki/台灣意美汽車 "wikilink")\[72\]，共推出兩款四門房車、兩款五門掀背車型。動力方面僅有1.6L水平對臥四缸DOHC
+2月15日[台灣意美汽車宣布引進大改款的Impreza](../Page/台灣意美汽車.md "wikilink")\[72\]，共推出兩款四門房車、兩款五門掀背車型。動力方面僅有1.6L水平對臥四缸DOHC
 [FB16型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB16型 "wikilink")，搭配[Lineartronic
-CVT無段自動變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")。全車系標配ABS/BAS/EBD剎車輔助系統、7具SRS輔助安全氣囊、VDC車身穩定系統、TPMS胎壓偵測系統、上坡起步輔助系統等，但可惜的是[EyeSight主動式安全配備系統並未搭載](https://zh.wikipedia.org/wiki/EyeSight "wikilink")。
+CVT無段自動變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")。全車系標配ABS/BAS/EBD剎車輔助系統、7具SRS輔助安全氣囊、VDC車身穩定系統、TPMS胎壓偵測系統、上坡起步輔助系統等，但可惜的是[EyeSight主動式安全配備系統並未搭載](../Page/EyeSight.md "wikilink")。
 
 Image:Subaru IMPREZA G4 (5th generation prototype) rear.jpg|G4四門轎車車尾
 Image:Subaru IMPREZA G4 1.6i-L EyeSight (DBA-GK2).jpg Image:Subaru
@@ -578,9 +577,9 @@ STI於2008年賽季的出色表現，超級GT賽委員會決定四門賽車可�
 
 ## 內部連結
 
-  - [速霸陸XV](https://zh.wikipedia.org/wiki/速霸陸XV "wikilink")
+  - [速霸陸XV](../Page/速霸陸XV.md "wikilink")
 
-  - [速霸陸Forester](https://zh.wikipedia.org/wiki/速霸陸Forester "wikilink")
+  - [速霸陸Forester](../Page/速霸陸Forester.md "wikilink")
 
   - [三菱Lancer Evolution](../Page/三菱Lancer_Evolution.md "wikilink")
 

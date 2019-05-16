@@ -18,7 +18,7 @@
 ### 賞金獵人團隊
 
   - 井坂黎（35）：[米倉涼子](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")（少女時代：淺田帆香
-    / 高中時代：[工藤綾乃](https://zh.wikipedia.org/wiki/工藤綾乃 "wikilink")）
+    / 高中時代：[工藤綾乃](../Page/工藤綾乃.md "wikilink")）
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 ### 井坂家
 
   - 井坂茜（32）：[山口紗弥加](https://zh.wikipedia.org/wiki/山口紗弥加 "wikilink")（幼年時代：信太真妃
-    / 高中時代：[伊藤梨沙子](https://zh.wikipedia.org/wiki/伊藤梨沙子 "wikilink")）
+    / 高中時代：[伊藤梨沙子](../Page/伊藤梨沙子.md "wikilink")）
 
 <!-- end list -->
 

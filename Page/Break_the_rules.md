@@ -13,7 +13,7 @@ rules**》（不安於室）是[日本女](../Page/日本.md "wikilink")[歌手]
   - 此專輯在商業上不算成功，首次未能奪得Oricon銷量榜冠軍，銷量僅33.5萬，不及上張專輯一半。
   - 安室本人透露錄製《HimAWArI》時患上了重感冒，以致錄音效果不太理想，故此她決定在錄製《[LOVE ENHANCED ♥
     single
-    collection](../Page/LOVE_ENHANCED_♥_single_collection.md "wikilink")》的時候重錄此曲。及後，安室在2014年發行的情歌精選專輯《[Ballada](https://zh.wikipedia.org/wiki/Ballada "wikilink")》中補拍了此曲的MV。
+    collection](../Page/LOVE_ENHANCED_♥_single_collection.md "wikilink")》的時候重錄此曲。及後，安室在2014年發行的情歌精選專輯《[Ballada](../Page/Ballada.md "wikilink")》中補拍了此曲的MV。
 
 ## 收錄歌曲
 

@@ -15,7 +15,7 @@ Blimey\! Games
     Portable](../Page/PlayStation_Portable.md "wikilink")）
 
   - – 《[-{zh-hans:变速2：释放;
-    zh-hant:進化世代2：全面解放;}-](https://zh.wikipedia.org/wiki/变速2：释放 "wikilink")》（[Microsoft
+    zh-hant:進化世代2：全面解放;}-](../Page/变速2：释放.md "wikilink")》（[Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
     [PlayStation 3](../Page/PlayStation_3.md "wikilink"), [Xbox
     360](../Page/Xbox_360.md "wikilink")）
@@ -29,13 +29,11 @@ Blimey\! Games
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
 
   - [2015](https://zh.wikipedia.org/wiki/2015年電子遊戲界 "wikilink") –
-    《[Project
-    C.A.R.S](https://zh.wikipedia.org/wiki/賽車計劃 "wikilink")(賽車計劃)》（[Microsoft
+    《[Project C.A.R.S](../Page/賽車計劃.md "wikilink")(賽車計劃)》（[Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-    [PlayStation
-    4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink"), [Xbox
-    One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink"),
-    [SteamOS](https://zh.wikipedia.org/wiki/SteamOS "wikilink")）
+    [PlayStation 4](../Page/PlayStation_4.md "wikilink"), [Xbox
+    One](../Page/Xbox_One.md "wikilink"),
+    [SteamOS](../Page/SteamOS.md "wikilink")）
 
   - [2016](https://zh.wikipedia.org/wiki/2016年电子游戏界 "wikilink") – 《Red
     Bull Air Race: The Game (红牛特技飞行世界锦标赛: 官方游戏)》 （TBA）
@@ -44,10 +42,9 @@ Blimey\! Games
     《[Project C.A.R.S
     2](https://zh.wikipedia.org/wiki/賽車計劃2 "wikilink")(賽車計劃2)》（[Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
-    [PlayStation
-    4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink"), [Xbox
-    One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink"),
-    [SteamOS](https://zh.wikipedia.org/wiki/SteamOS "wikilink")）
+    [PlayStation 4](../Page/PlayStation_4.md "wikilink"), [Xbox
+    One](../Page/Xbox_One.md "wikilink"),
+    [SteamOS](../Page/SteamOS.md "wikilink")）
 
 ## 參考資料
 

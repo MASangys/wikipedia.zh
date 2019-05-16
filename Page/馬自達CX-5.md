@@ -19,7 +19,7 @@
 / 4,500rpm，扭力峰值42.8kg·m /
 2,000rpm；後者之最大馬力155ps（[FF車型](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")）或154ps（[4WD車型](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")）/
 6,000rpm，最大扭力20.0kg·m（[FF車型](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")）或19.9kg·m（[4WD車型](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")）/
-4,000rpm。全車型搭載六速自排變速箱，若以日本做測試，2.2L柴油引擎、[FWD的配置可達每公升](../Page/前轮驱动.md "wikilink")18.6公里的平均油耗；2.2L柴油引擎、[4WD的配置則可達每公升](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")18.0公里的平均油耗；2.0L汽油引擎、[FWD的配置可達每公升](../Page/前轮驱动.md "wikilink")16.0公里的平均油耗；2.0L汽油引擎、[4WD的配置則可達每公升](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")15.6公里的平均油耗。此外，全車型也可選購[i-Stop怠速熄火系統](../Page/i-Stop怠速熄火系統.md "wikilink")，能於0.4秒內重新啟動引擎\[5\]。
+4,000rpm。全車型搭載六速自排變速箱，若以日本做測試，2.2L柴油引擎、[FWD的配置可達每公升](../Page/前轮驱动.md "wikilink")18.6公里的平均油耗；2.2L柴油引擎、[4WD的配置則可達每公升](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")18.0公里的平均油耗；2.0L汽油引擎、[FWD的配置可達每公升](../Page/前轮驱动.md "wikilink")16.0公里的平均油耗；2.0L汽油引擎、[4WD的配置則可達每公升](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")15.6公里的平均油耗。此外，全車型也可選購[i-Stop怠速熄火系統](https://zh.wikipedia.org/wiki/i-Stop怠速熄火系統 "wikilink")，能於0.4秒內重新啟動引擎\[5\]。
 
 在主動式安全方面，雙前座[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、前後座簾式頭部氣囊、TCS[循跡控制系統](../Page/电子稳定程序.md "wikilink")（Traction
 Control System）等乃全車型之標準配備，另可選購SCBC主動式煞車系統（Smart City Brake
@@ -37,7 +37,7 @@ Monitoring之縮寫），此裝置在低速時啟動，方便駕駛者觀察車�
 [PY-VPR型兩種動力來源](https://zh.wikipedia.org/wiki/馬自達P族引擎#2.5L（PY-VPR型） "wikilink")。其中入門級車型搭配六速手動排檔變速系統，其餘中高階車型則配備六速手自排變速系統。全車系將整合音響及[巡航定速控制鍵的](../Page/巡航定速.md "wikilink")[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、7吋觸控螢幕（具影音播放、倒車顯影、[GPS衛星導航等功能](../Page/全球定位系统.md "wikilink")）、六具[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、[ABS及](https://zh.wikipedia.org/wiki/防鎖死煞車系统 "wikilink")[EBD整合煞車系統](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")、TCS循跡防滑系統、[ESP動態車身穩定控制系統](../Page/电子稳定程序.md "wikilink")、上坡輔助裝置等列為標準配備，中高階車型更加裝免鑰匙感應門鎖系統（keyless
 entry system）、真皮座椅、駕駛座10向電動調整裝置、前排座椅加熱裝置等。
 
-同年9月3日臺灣馬自達引進2.2L直列四缸[SH-VPTS型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#SH-VPTS型 "wikilink")[柴油引擎之車型](../Page/柴油引擎.md "wikilink")，同時增加汽油引擎前驅之車型，[i-Stop怠速熄火系統亦列入全車系標準配備](../Page/i-Stop怠速熄火系統.md "wikilink")。柴油引擎車型較汽油四驅版多出LDWS[車道偏離警示系統](../Page/車道偏離警示.md "wikilink")、遠近光燈自動調節、深色玻璃、19吋鋁圈等配備；汽油二驅版則比四驅版減少全時四驅系統、電動天窗、免持鑰匙、RVM車後[盲點偵測系統等](../Page/盲點偵測系統.md "wikilink")\[8\]。同年9月19日，日本市場推出限量999部的「CX-5
+同年9月3日臺灣馬自達引進2.2L直列四缸[SH-VPTS型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#SH-VPTS型 "wikilink")[柴油引擎之車型](../Page/柴油引擎.md "wikilink")，同時增加汽油引擎前驅之車型，[i-Stop怠速熄火系統亦列入全車系標準配備](https://zh.wikipedia.org/wiki/i-Stop怠速熄火系統 "wikilink")。柴油引擎車型較汽油四驅版多出LDWS[車道偏離警示系統](../Page/車道偏離警示.md "wikilink")、遠近光燈自動調節、深色玻璃、19吋鋁圈等配備；汽油二驅版則比四驅版減少全時四驅系統、電動天窗、免持鑰匙、RVM車後[盲點偵測系統等](../Page/盲點偵測系統.md "wikilink")\[8\]。同年9月19日，日本市場推出限量999部的「CX-5
 2013
 Anniversary」特仕車\[9\]，提供專屬的紅、藍、黑三種塗裝顏色、19吋鋁合金輪圈、米白色皮椅、雙前座電動椅等配備，排檔桿前方亦有編號銘牌。
 

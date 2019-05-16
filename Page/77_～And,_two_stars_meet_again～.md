@@ -1,7 +1,7 @@
 《**77 ～And, two stars meet
 again～**》為[Whirlpool製作並於](../Page/Whirlpool.md "wikilink")2009年7月31日發行的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，為該公司的第六款作品。
 
-遊戲標題的77意思是7月7日也就是所謂的[七夕](https://zh.wikipedia.org/wiki/七夕 "wikilink")，依據七夕傳說這是牛郎星與織女星相會的日子。\[1\]
+遊戲標題的77意思是7月7日也就是所謂的[七夕](../Page/七夕.md "wikilink")，依據七夕傳說這是牛郎星與織女星相會的日子。\[1\]
 
 2010年12月22日，由[GN
 Software發行](../Page/GN_Software.md "wikilink")[PlayStation

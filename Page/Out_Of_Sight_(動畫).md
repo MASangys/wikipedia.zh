@@ -1,5 +1,5 @@
 《**Out Of
-Sight**》，官方中文名稱為《**敲敲**》，並簡稱為**OOS**\[1\]，英文標題意思為**視線之外**\[2\]，是由[臺灣藝術大學](https://zh.wikipedia.org/wiki/臺灣藝術大學 "wikilink")[多媒體動畫藝術學系的三位](https://zh.wikipedia.org/wiki/多媒體動畫藝術學系 "wikilink")95級畢業生，一起製作的畢業專題[動畫短片作品](https://zh.wikipedia.org/wiki/動畫短片 "wikilink")，以清淡水彩的童話故事書畫風（形似於[宮崎駿的動畫電影](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")），描述著一位小女孩，走入內心世界的奇幻旅程；於2010年7月31日上傳至[Youtube影音網站](../Page/Youtube.md "wikilink")，片長5分28秒，因感人的故事內容，獲得網友好評。
+Sight**》，官方中文名稱為《**敲敲**》，並簡稱為**OOS**\[1\]，英文標題意思為**視線之外**\[2\]，是由[臺灣藝術大學](https://zh.wikipedia.org/wiki/臺灣藝術大學 "wikilink")[多媒體動畫藝術學系的三位](https://zh.wikipedia.org/wiki/多媒體動畫藝術學系 "wikilink")95級畢業生，一起製作的畢業專題[動畫短片作品](https://zh.wikipedia.org/wiki/動畫短片 "wikilink")，以清淡水彩的童話故事書畫風（形似於[宮崎駿的動畫電影](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")），描述著一位小女孩，走入內心世界的奇幻旅程；於2010年7月31日上傳至[Youtube影音網站](https://zh.wikipedia.org/wiki/Youtube "wikilink")，片長5分28秒，因感人的故事內容，獲得網友好評。
 
 ## 故事
 

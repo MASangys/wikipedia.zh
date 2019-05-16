@@ -4,7 +4,7 @@ Sense](../Page/HTC_Sense.md "wikilink") 3.0觸控界面的HTC手機。
 
 而**HTC Sensation**的頭號對手是[Samsung Galaxy S
 II](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")、[iPhone
-4](../Page/iPhone_4.md "wikilink")。
+4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")。
 
 ## 軟件
 

@@ -20,7 +20,7 @@ Storm半自動霰彈槍採用[氣動式活塞傳動](../Page/氣動式_\(槍械\
 ### 槍管組件
 
 貝瑞塔Tx4
-Storm的槍管在[意大利製造](../Page/意大利.md "wikilink")，有著高品質的保證，鋼製的冷鍛槍管內部進行了鍍鉻處理。槍口安裝有內置式[喉缩](https://zh.wikipedia.org/wiki/喉缩 "wikilink")，也可改用原廠提供的其他戰術收束器。槍管表面刻有貝瑞塔公司、意大利製造、口徑等信息的銘文。槍管前部下方設有導氣箍，並將其設計為隱藏於[護木組件裡](https://zh.wikipedia.org/wiki/護木 "wikilink")。[槍管前方設有後方帶有白色氚光管的片狀](../Page/槍管.md "wikilink")[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")，兩側設有護翼用於保護準星。[機匣頂部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌上安裝有LPA](../Page/皮卡汀尼導軌.md "wikilink")[鬼環](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")（）式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，其​​後方兩側也裝有氚光管，便於射手在光線昏暗的條件下進行瞄準射擊。使用並可利用該戰術導軌作為瞄準鏡導軌以裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。
+Storm的槍管在[意大利製造](../Page/意大利.md "wikilink")，有著高品質的保證，鋼製的冷鍛槍管內部進行了鍍鉻處理。槍口安裝有內置式[喉缩](https://zh.wikipedia.org/wiki/喉缩 "wikilink")，也可改用原廠提供的其他戰術收束器。槍管表面刻有貝瑞塔公司、意大利製造、口徑等信息的銘文。槍管前部下方設有導氣箍，並將其設計為隱藏於[護木組件裡](https://zh.wikipedia.org/wiki/護木 "wikilink")。[槍管前方設有後方帶有白色氚光管的片狀](../Page/槍管.md "wikilink")[準星](../Page/照準器.md "wikilink")，兩側設有護翼用於保護準星。[機匣頂部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌上安裝有LPA](../Page/皮卡汀尼導軌.md "wikilink")[鬼環](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")（）式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，其​​後方兩側也裝有氚光管，便於射手在光線昏暗的條件下進行瞄準射擊。使用並可利用該戰術導軌作為瞄準鏡導軌以裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。
 
 ### 護木組件
 
@@ -89,7 +89,7 @@ Storm[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[�
   - [貝瑞塔Xtrema
     2](https://zh.wikipedia.org/wiki/貝瑞塔Xtrema_2半自動霰彈槍 "wikilink")
   - [貝瑞塔1301](https://zh.wikipedia.org/wiki/貝瑞塔1301半自動霰彈槍 "wikilink")
-  - [09式军用霰弹枪](https://zh.wikipedia.org/wiki/09式军用霰弹枪 "wikilink")
+  - [09式军用霰弹枪](../Page/09式军用霰弹枪.md "wikilink")
   - [Akdal MKA 1919](../Page/Akdal_MKA_1919半自動霰彈槍.md "wikilink")
   - [伯奈利M1](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")
   - [伯奈利M2](../Page/伯奈利M2_Super_90半自動霰彈槍.md "wikilink")
@@ -97,13 +97,13 @@ Storm[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[�
   - [伯奈利M4](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")
   - [白朗寧Auto-5](../Page/白朗寧Auto-5半自動霰彈槍.md "wikilink")
   - [CS/LA2型半自动霰弹枪](https://zh.wikipedia.org/wiki/CS/LA2型半自动霰弹枪 "wikilink")
-  - [FN SLP](https://zh.wikipedia.org/wiki/FN_SLP半自動霰彈槍 "wikilink")
+  - [FN SLP](../Page/FN_SLP半自動霰彈槍.md "wikilink")
   - [弗蘭基mod
     .410](https://zh.wikipedia.org/wiki/弗蘭基mod_.410自動霰彈槍 "wikilink")
   - [弗蘭基SPAS-12](../Page/弗蘭基SPAS-12戰鬥霰彈槍.md "wikilink")
   - [弗蘭基SPAS-15](../Page/弗蘭基SPAS-15戰鬥霰彈槍.md "wikilink")
   - [HK512](https://zh.wikipedia.org/wiki/HK512半自動霰彈槍 "wikilink")
-  - [高標10型](https://zh.wikipedia.org/wiki/高標10型半自動霰彈槍 "wikilink")
+  - [高標10型](../Page/高標10型半自動霰彈槍.md "wikilink")
   - [KSK](https://zh.wikipedia.org/wiki/KSK半自動霰彈槍 "wikilink")
   - [Molot Vepr-12](../Page/莫洛Vepr-12半自動霰彈槍.md "wikilink")
   - [莫斯伯格930](https://zh.wikipedia.org/wiki/莫斯伯格930半自動霰彈槍 "wikilink")
@@ -111,11 +111,9 @@ Storm[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[�
   - [雷明登1100](../Page/雷明登1100半自動霰彈槍.md "wikilink")
   - [雷明登11-48](../Page/雷明登11-48半自動霰彈槍.md "wikilink")
   - [雷明登11-87](../Page/雷明登11-87半自動霰彈槍.md "wikilink")
-  - [雷明登Versa
-    Max／R12](https://zh.wikipedia.org/wiki/雷明登維爾薩—馬科斯半自動霰彈槍 "wikilink")
+  - [雷明登Versa Max／R12](../Page/雷明登維爾薩—馬科斯半自動霰彈槍.md "wikilink")
   - [Saiga-12](../Page/Saiga-12半自動霰彈槍.md "wikilink")
-  - [SRM
-    M1216](https://zh.wikipedia.org/wiki/SRM_M1216半自動霰彈槍 "wikilink")
+  - [SRM M1216](../Page/SRM_M1216半自動霰彈槍.md "wikilink")
   - [威瑟比SA-459](../Page/威瑟比SA-459半自動霰彈槍.md "wikilink")
   - [溫徹斯特SX3](https://zh.wikipedia.org/wiki/溫徹斯特SX3半自動霰彈槍 "wikilink")
 

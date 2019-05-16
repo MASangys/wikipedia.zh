@@ -1,5 +1,5 @@
 ****
-是在[Unix或](../Page/Unix.md "wikilink")[類Unix操作系統中用作以文字形式列印](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")[月曆的](https://zh.wikipedia.org/wiki/月曆 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")，可以按命令行選項印出一個月、幾個月甚至整年的月曆。若果使用者不在指令中給予[參數](https://zh.wikipedia.org/wiki/參數 "wikilink")，`cal`就會印出該月的月曆。
+是在[Unix或](https://zh.wikipedia.org/wiki/Unix "wikilink")[類Unix操作系統中用作以文字形式列印](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")[月曆的](https://zh.wikipedia.org/wiki/月曆 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")，可以按命令行選項印出一個月、幾個月甚至整年的月曆。若果使用者不在指令中給予[參數](https://zh.wikipedia.org/wiki/參數 "wikilink")，`cal`就會印出該月的月曆。
 
 ## 例子
 

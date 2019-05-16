@@ -1,7 +1,7 @@
 **Synthesia**是一个由[Nicholas
 Piegdon软件製造商编写的](https://zh.wikipedia.org/wiki/Nicholas_Piegdon "wikilink")，能在[Windows平台和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
 OS
-X平台运行的音乐游戏](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（在借助[wine的情况下](../Page/wine.md "wikilink")，也可於[Linux运行](../Page/Linux.md "wikilink")），通过导入一个[MIDI文件](../Page/MIDI.md "wikilink")，利用电脑键盘或外接的MIDI钢琴键盘，根据屏幕指示弹奏并获得成绩。游戏模式和、[Guitar
+X平台运行的音乐游戏](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（在借助[wine的情况下](https://zh.wikipedia.org/wiki/wine "wikilink")，也可於[Linux运行](../Page/Linux.md "wikilink")），通过导入一个[MIDI文件](../Page/MIDI.md "wikilink")，利用电脑键盘或外接的MIDI钢琴键盘，根据屏幕指示弹奏并获得成绩。游戏模式和、[Guitar
 Hero或](https://zh.wikipedia.org/wiki/Guitar_Hero_\(video_game\) "wikilink")[太鼓达人等相似](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")。曾经仿照[Guitar
 Hero的命名方法](https://zh.wikipedia.org/wiki/Guitar_Hero_\(video_game\) "wikilink")，命名为**Piano
 Hero**，但后来Guitar
@@ -22,7 +22,7 @@ Piegdon停止发放v0.6.2源代码，但仍提供最新的版本下载。虽然�
 2.  其下落的彩条因对应的乐器不同而对应不同的颜色，其下落和击中键盘的场景非常壮观和夺目，尤其在演示具有多声部和节奏结构复杂，变化明显的MIDI文件。
 3.  颇为重要的一点，支持自动弹奏——原为一种演示功能，用于教导按键顺序，现在能让软件自动运行而无需自己动手弹奏。
 
-基于以上原因，结合屏幕录像软件，本软件反而成为人们用于音乐编写或视觉化演奏的自动弹奏器而广为传播，在一些视频分享网站，如[youtube](../Page/youtube.md "wikilink")，[niconico等](https://zh.wikipedia.org/wiki/niconico "wikilink")，有大量类似的音乐演示视频。
+基于以上原因，结合屏幕录像软件，本软件反而成为人们用于音乐编写或视觉化演奏的自动弹奏器而广为传播，在一些视频分享网站，如[youtube](https://zh.wikipedia.org/wiki/youtube "wikilink")，[niconico等](https://zh.wikipedia.org/wiki/niconico "wikilink")，有大量类似的音乐演示视频。
 
 ## 注脚
 

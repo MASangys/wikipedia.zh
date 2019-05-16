@@ -1,5 +1,5 @@
 「**SAILING**」（啟航出發）是[日本的](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")31张[单曲](../Page/单曲.md "wikilink")。2012年2月22日由[avex
-trax发售](../Page/avex_trax.md "wikilink")。\[1\]
+trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。\[1\]
 
 ## 概要
 

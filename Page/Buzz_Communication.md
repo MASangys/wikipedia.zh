@@ -1,6 +1,6 @@
 「**Buzz
 Communication**」（引領風潮）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")6枚原創專輯。於2011年2月16日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

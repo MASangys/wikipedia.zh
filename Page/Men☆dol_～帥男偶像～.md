@@ -18,7 +18,7 @@
     不思議系、喜歡[羅莉塔時裝外觀的女高中生](https://zh.wikipedia.org/wiki/羅莉塔時裝 "wikilink")。天然呆、装纯。
   - Ray（）：[多岐川華子](../Page/多岐川華子.md "wikilink")
     「Monkey制作」所属當紅歌手。自私的性格，迷戀對責罵了自己的海，有時想獨占他。
-  - 瑪麗琳（）：[垠凌](https://zh.wikipedia.org/wiki/垠凌 "wikilink")
+  - 瑪麗琳（）：[垠凌](../Page/垠凌.md "wikilink")
     「鴨嘴藝能社」社長秘書。是[女同性戀的](../Page/女同性戀.md "wikilink")[M](https://zh.wikipedia.org/wiki/受虐癖 "wikilink")。常穿[網襪](https://zh.wikipedia.org/wiki/網襪 "wikilink")、性感的衣服。
   - 葉村次郎：[川野直輝](https://zh.wikipedia.org/wiki/川野直輝 "wikilink")
     朝日的青梅竹馬新手攝影師。希望得到[普立茲獎](https://zh.wikipedia.org/wiki/普立茲獎 "wikilink")，與朝日結婚。
@@ -39,7 +39,7 @@
     藝能事務所「Monkey制作」社長。年輕的時候是3人組的視覺系樂隊「動物抵觸」的隊長。
   - 黑田：[白龍](https://zh.wikipedia.org/wiki/白龍_\(俳優\) "wikilink")（[友情客串](../Page/友情客串.md "wikilink")）
     把朝日和娜美作目標的謎之男子。被藏在朝日的皮帶的裏面的[SD卡為目標](../Page/SD卡.md "wikilink")。從意想不到被雛田迷戀，被稱為「クロにゃん」。
-  - 鴨嘴（）冴子：[廣田玲央名](https://zh.wikipedia.org/wiki/廣田玲央名 "wikilink")
+  - 鴨嘴（）冴子：[廣田玲央名](../Page/廣田玲央名.md "wikilink")
     「鴨嘴藝能社」社長。以喬裝朝日她們使帥男偶像團體「假面」出道。經常持著鞭子對朝日等3人和瑪麗琳進行「懲罰」的[S](https://zh.wikipedia.org/wiki/施虐癖 "wikilink")。雖然是巨乳但以前是男子，「動物抵觸」的成員，是「犬山」。
 
 ### 嘉賓

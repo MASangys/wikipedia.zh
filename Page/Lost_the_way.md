@@ -1,6 +1,6 @@
 《**Lost the
 way**》是[日本的女子音樂組合](../Page/日本.md "wikilink")[DiVA的第](../Page/DiVA.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年3月21日由[avex
-trax發售](../Page/avex_trax.md "wikilink")。
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

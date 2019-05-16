@@ -13,7 +13,7 @@ Cyndi**》为[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[歌手](.
 
 ## 市场反响
 
-在发行上张新歌+精选《[相见太晚](https://zh.wikipedia.org/wiki/相见太晚 "wikilink")》后，[滚石一度想把赵咏华留下](https://zh.wikipedia.org/wiki/滚石 "wikilink")，但遭到了拒绝，也许是因为当时滚石的音乐总监是[李正帆](https://zh.wikipedia.org/wiki/李正帆 "wikilink")。这张专辑的销量十分不佳，促使新力立即与赵咏华解约，这张唱片在内地因故没有引进，赵咏华也自此隐退歌坛，直到2013年才回到滚石发行专辑《[简单的幸福](https://zh.wikipedia.org/wiki/簡單的幸福 "wikilink")》。[小虫曾遗憾地说](https://zh.wikipedia.org/wiki/小蟲 "wikilink")，如果留在滚石，咏华定能稳坐一姐之位。\[3\]
+在发行上张新歌+精选《[相见太晚](https://zh.wikipedia.org/wiki/相见太晚 "wikilink")》后，[滚石一度想把赵咏华留下](https://zh.wikipedia.org/wiki/滚石 "wikilink")，但遭到了拒绝，也许是因为当时滚石的音乐总监是[李正帆](https://zh.wikipedia.org/wiki/李正帆 "wikilink")。这张专辑的销量十分不佳，促使新力立即与赵咏华解约，这张唱片在内地因故没有引进，赵咏华也自此隐退歌坛，直到2013年才回到滚石发行专辑《[简单的幸福](../Page/簡單的幸福.md "wikilink")》。[小虫曾遗憾地说](https://zh.wikipedia.org/wiki/小蟲 "wikilink")，如果留在滚石，咏华定能稳坐一姐之位。\[3\]
 
 ## 音乐录影带
 

@@ -112,7 +112,7 @@ CD+DVD<br />
 CD</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -194,7 +194,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2013年1月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/巧克力的奴隶" title="wikilink">巧克力的奴隶</a></strong><br />
+<td><p><strong><a href="../Page/巧克力的奴隶.md" title="wikilink">巧克力的奴隶</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>538,914張</p></td>
@@ -211,7 +211,7 @@ CD</p></td>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>2013年7月17日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/美麗的閃電" title="wikilink">美麗的閃電</a></strong><br />
+<td><p><strong><a href="../Page/美麗的閃電.md" title="wikilink">美麗的閃電</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>510,673張</p></td>
@@ -228,7 +228,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2013年11月20日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/赞成卡哇伊！" title="wikilink">赞成卡哇伊！</a></strong><br />
+<td><p><strong><a href="../Page/赞成卡哇伊！.md" title="wikilink">赞成卡哇伊！</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>449,003張</p></td>
@@ -267,7 +267,7 @@ Music Card</p></td>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2014年7月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/笨拙的太陽" title="wikilink">笨拙的太陽</a></strong><br />
+<td><p><strong><a href="../Page/笨拙的太陽.md" title="wikilink">笨拙的太陽</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>324,076張</p></td>
@@ -286,7 +286,7 @@ CD</p></td>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2014年12月10日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/12月的袋鼠" title="wikilink">12月的袋鼠</a></strong><br />
+<td><p><strong><a href="../Page/12月的袋鼠.md" title="wikilink">12月的袋鼠</a></strong><br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>386,495張</p></td>
@@ -994,7 +994,7 @@ Blu-ray</p></td>
 <td><p>1</p></td>
 <td><p>2016年12月21日</p></td>
 <td><p>SKE48 MV COLLECTION ～箱推的内部～</p></td>
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p>AVBD-92436-9<br />
 AVXD-92440-2<br />
 AVBD-92443-4<br />
@@ -1366,7 +1366,7 @@ DVD-BOX 通常版</p></td>
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2014年8月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SKE48的炸蝦週五夜" title="wikilink">SKE48的炸蝦週五夜</a></p></td>
+<td><p><a href="../Page/SKE48的炸蝦週五夜.md" title="wikilink">SKE48的炸蝦週五夜</a></p></td>
 <td><p>VAP</p></td>
 <td><p>VPBF-10990<br />
 VPBF-10991</p></td>
@@ -1386,7 +1386,7 @@ Blu-ray BOX</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2015年9月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場！" title="wikilink">SKE48 炸蝦賭場！</a></p></td>
+<td><p><a href="../Page/SKE48_炸蝦賭場！.md" title="wikilink">SKE48 炸蝦賭場！</a></p></td>
 <td><p>VAP</p></td>
 <td><p>VPBF-29931<br />
 VPXF-72968</p></td>
@@ -1461,7 +1461,7 @@ Blu-ray BOX</p></td>
     Discography](http://www.ske48.co.jp/discography/list.php)（SKE48官方网站
     Discography页面）
   - [SKE48 Discography](http://avexnet.or.jp/ske48/discography/)（[avex
-    trax](../Page/avex_trax.md "wikilink")）
+    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
   - [SKE48
     Discography](http://www.crownrecord.co.jp/artist/ske48/discography.html)（日本皇冠）
   - [SKE48

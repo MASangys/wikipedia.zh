@@ -1,5 +1,5 @@
 **歌手音PIKO**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****）是[索尼音樂娛樂於所推出第一款以](../Page/索尼音樂娛樂.md "wikilink")[VOCALOID2](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")[語音合成引擎為基礎所開發](https://zh.wikipedia.org/wiki/語音合成 "wikilink")、並在2010年12月8日正式贩售的虛擬男性[歌手軟體](../Page/歌手.md "wikilink")，其全名則命名為「VOCALOID2
-歌手音PIKO」。在當前VOCALOID音樂軟體之中，歌手音PIKO是最容易能夠簡單創作出可辨認的男女語音。其中在姓氏「歌手音」中包含著「歌手的聲音」之意，而「PIKO」這個名字則是取自於在[NICONICO動畫中廣受歡迎的歌手](../Page/NICONICO動畫.md "wikilink")[Piko](../Page/Piko.md "wikilink")\[1\]。而如果將兩者合為一起，則可以就字面上解釋為「歌手Piko的聲音」。
+歌手音PIKO」。在當前VOCALOID音樂軟體之中，歌手音PIKO是最容易能夠簡單創作出可辨認的男女語音。其中在姓氏「歌手音」中包含著「歌手的聲音」之意，而「PIKO」這個名字則是取自於在[NICONICO動畫中廣受歡迎的歌手](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[Piko](../Page/Piko.md "wikilink")\[1\]。而如果將兩者合為一起，則可以就字面上解釋為「歌手Piko的聲音」。
 
 ## 軟體
 

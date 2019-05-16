@@ -19,7 +19,7 @@
 
 ## IC周邊
 
-  - [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[常磐線](../Page/常磐線.md "wikilink")[濱吉田車站](https://zh.wikipedia.org/wiki/濱吉田車站 "wikilink")、[山下車站](https://zh.wikipedia.org/wiki/山下車站 "wikilink")
+  - [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[常磐線](../Page/常磐線.md "wikilink")[濱吉田車站](../Page/濱吉田車站.md "wikilink")、[山下車站](https://zh.wikipedia.org/wiki/山下車站 "wikilink")
   - 山元町政廳
   - 牛橋海灘
 

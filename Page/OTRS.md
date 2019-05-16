@@ -153,7 +153,7 @@ Web界面本身使用自己的模板机制，称为DTL（Dynamic Template Langua
 
 最初的OTRS只能搭配[MySQL数据库](../Page/MySQL.md "wikilink")。后续的版本已可以很好的支持[PostgreSQL](../Page/PostgreSQL.md "wikilink")，[甲骨文](../Page/Oracle数据库.md "wikilink")，[DB2和](../Page/IBM_DB2.md "wikilink")[MS
 SQL
-Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。OTRS可以安装计在[UNIX系统或](../Page/UNIX.md "wikilink")[类UNIX系统](../Page/类UNIX系统.md "wikilink")
+Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。OTRS可以安装计在[UNIX系统或](../Page/UNIX.md "wikilink")[类UNIX系统](https://zh.wikipedia.org/wiki/类UNIX系统 "wikilink")
 (如[Linux](../Page/Linux.md "wikilink")、[Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[FreeBSD等](../Page/FreeBSD.md "wikilink"))，甚至安装在[Microsoft
 Windows也可以工作得很好](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。

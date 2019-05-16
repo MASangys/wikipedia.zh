@@ -734,7 +734,7 @@ Airando-Sentaa-Eki</p></td>
 <td><p>Akagi-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/赤倉溫泉車站" title="wikilink">赤倉溫泉車站</a></p></td>
+<td><p><a href="../Page/赤倉溫泉車站.md" title="wikilink">赤倉溫泉車站</a></p></td>
 <td></td>
 <td><p>Akakura-Onsen-Eki</p></td>
 </tr>

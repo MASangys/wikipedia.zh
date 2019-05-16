@@ -7,7 +7,7 @@ Town）擁有專屬表演劇場\[4\]（已於2016年3月停業），目前主要
 
 HKT48是繼以[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市的](../Page/名古屋市.md "wikilink")[榮為據點的](../Page/榮_\(名古屋市\).md "wikilink")[SKE48](../Page/SKE48.md "wikilink")、以及以[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市的](../Page/大阪市.md "wikilink")[難波為據點的](../Page/難波.md "wikilink")[NMB48之後](../Page/NMB48.md "wikilink")，[AKB48在日本國內的第三個姊妹組合](../Page/AKB48.md "wikilink")，以[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市的](../Page/福岡市.md "wikilink")[博多為據點](https://zh.wikipedia.org/wiki/博多 "wikilink")。組合成立時的平均年齡是13.8歳，是AKB48姊妹組合中最年輕的。組合名稱雖以福岡市的古稱「博多」命名，不過HKT48的公演場所並不位於[博多區](../Page/博多區.md "wikilink")，而是位於[中央區](../Page/中央區_\(福岡市\).md "wikilink")。
 
-HKT48原與[AKB48集團其他團體一樣擁有專屬的劇場公演場地](https://zh.wikipedia.org/wiki/AKB48集團 "wikilink")「HKT48劇場」\[5\]，該劇場位於购物中心，在2011年11月26日開業，有300個席次，是AKB48集團的專屬劇場中容納人數最多者\[6\]。但隨著福岡海鷹城在2016年3月結束營業，HKT48劇場亦同步停業；而HKT48公演的場地則轉移至位於福岡[天神的商場](https://zh.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")「」內的「西鐵表演廳」（）\[7\]。現除西铁表演厅之外，也同时使用位於福岡市博多區千代的「Papillon
+HKT48原與[AKB48集團其他團體一樣擁有專屬的劇場公演場地](../Page/AKB48集團.md "wikilink")「HKT48劇場」\[5\]，該劇場位於购物中心，在2011年11月26日開業，有300個席次，是AKB48集團的專屬劇場中容納人數最多者\[6\]。但隨著福岡海鷹城在2016年3月結束營業，HKT48劇場亦同步停業；而HKT48公演的場地則轉移至位於福岡[天神的商場](https://zh.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")「」內的「西鐵表演廳」（）\[7\]。現除西铁表演厅之外，也同时使用位於福岡市博多區千代的「Papillon
 24 gas hall」（）及中央区渡辺通的“Skala
 Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於[福岡巨蛋旁](../Page/福岡巨蛋.md "wikilink")、靠近劇場原址的新建大樓1樓啟用\[8\]。
 
@@ -23,10 +23,10 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
 
 ### 2011年
 
-  - 5月1日，[AKS於](../Page/AKS.md "wikilink")[AKB48單曲](../Page/AKB48.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》劇場盤發行紀念[握手會中](https://zh.wikipedia.org/wiki/握手會 "wikilink")，宣布於[福岡成立](https://zh.wikipedia.org/wiki/福岡 "wikilink")「HKT48」，並公布第1期生甄選會的相關訊息，於該月31日截止報名。甄選會的對象為11歲至22歲的女性\[11\]。
+  - 5月1日，[AKS於](../Page/AKS.md "wikilink")[AKB48單曲](../Page/AKB48.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》劇場盤發行紀念[握手會中](../Page/握手會.md "wikilink")，宣布於[福岡成立](https://zh.wikipedia.org/wiki/福岡 "wikilink")「HKT48」，並公布第1期生甄選會的相關訊息，於該月31日截止報名。甄選會的對象為11歲至22歲的女性\[11\]。
   - 7月10日，甄選會的最終審查於Hilton Fukuoka Sea
     Hawk舉行，共有24人合格，年齡從小學5年級生至高中2年級生都有\[12\]，分別出身於[福岡](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")、[大分](https://zh.wikipedia.org/wiki/大分縣 "wikilink")、[長崎](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")、[熊本](../Page/熊本縣.md "wikilink")、[鹿兒島等](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")[九州](../Page/九州_\(日本\).md "wikilink")5縣\[13\]、以及[本州西部的](../Page/本州.md "wikilink")[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")\[14\]。
-  - 10月23日，21名第1期生於[西武巨蛋舉行的AKB](../Page/西武巨蛋.md "wikilink")48單曲《[飛翔入手](../Page/飛翔入手.md "wikilink")》全國握手會活動中首次亮相。首批成員的平均年齡為13.8歲，最年輕是11歲的[田中菜津美](https://zh.wikipedia.org/wiki/田中菜津美 "wikilink")、最年長是17歲的[菅本裕子](../Page/菅本裕子.md "wikilink")\[15\]，21名成員中有17人是初中生或以下，其中2人是小學生。\[16\]
+  - 10月23日，21名第1期生於[西武巨蛋舉行的AKB](../Page/西武巨蛋.md "wikilink")48單曲《[飛翔入手](../Page/飛翔入手.md "wikilink")》全國握手會活動中首次亮相。首批成員的平均年齡為13.8歲，最年輕是11歲的[田中菜津美](../Page/田中菜津美.md "wikilink")、最年長是17歲的[菅本裕子](../Page/菅本裕子.md "wikilink")\[15\]，21名成員中有17人是初中生或以下，其中2人是小學生。\[16\]
     並於場上表演了《[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")》一曲。\[17\]。
   - 11月6日，HKT48於[福岡舉行的全國握手會活動上首次在故鄉表演](https://zh.wikipedia.org/wiki/福岡 "wikilink")\[18\]
   - 11月26日, 1期生以SKE48 TeamS
@@ -56,11 +56,11 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
     將於2月17日進行[「手牽手」的千秋楽公演的消息](https://zh.wikipedia.org/wiki/TeamS_2nd_Stage「手牽手」#HKT48_teamH_1st_Stage「手牽手」公演 "wikilink")。
   - 2月17日，在Team H 「手牽手」的千秋楽公演上，發表了將於3月1日進行「博多傳奇」的初日公演的消息。
   - 3月1日，Team H
-    進行[「博多傳奇」的初日公演](https://zh.wikipedia.org/wiki/Team_H「博多傳奇」 "wikilink")（）\[27\]。
-  - 3月20日，發行第1張單曲《[喜歡！喜歡！小跳步！](https://zh.wikipedia.org/wiki/喜歡！喜歡！小跳步！ "wikilink")》\[28\]。
+    進行[「博多傳奇」的初日公演](../Page/Team_H「博多傳奇」.md "wikilink")（）\[27\]。
+  - 3月20日，發行第1張單曲《[喜歡！喜歡！小跳步！](../Page/喜歡！喜歡！小跳步！.md "wikilink")》\[28\]。
   - 4月1日，《喜歡！喜歡！小跳步！》以250,147张的销量排列[Oricon公信榜單曲銷量周榜的榜首](../Page/Oricon公信榜.md "wikilink")，刷新日本女性藝人出道單曲的最高首週銷量，並成為48系出道單曲的最高銷量。
   - 4月5日，Team H
-    於[AKB48劇場進行](../Page/AKB48劇場.md "wikilink")[「博多傳奇」的出張公演](https://zh.wikipedia.org/wiki/Team_H「博多傳奇」 "wikilink")。
+    於[AKB48劇場進行](../Page/AKB48劇場.md "wikilink")[「博多傳奇」的出張公演](../Page/Team_H「博多傳奇」.md "wikilink")。
   - 4月7日，「[AKB48第32張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")」截止進行報名，HKT48全員39名成員均有報名。
   - 4月13日，[兒玉遙](../Page/兒玉遙.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[坂口理子等](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")3名成員前往[韓國參加](https://zh.wikipedia.org/wiki/韓國 "wikilink")「慶州櫻花馬拉松」。
 
@@ -68,11 +68,11 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
   - 4月28日，在「[AKB48團臨時總會～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48團臨時總會～黑白分明！～ "wikilink")」的最終場公演，發表了兒玉兼任AKB48
     Team
     A的消息，實施日期未定，是首次有HKT48成員兼任AKB48。同時亦發表了指原兼任HKT48劇場經理的消息，實施日期同樣未定，也是48系首次有成員兼任劇場經理。
-  - 5月3日，在[Youtube公開所有參加](../Page/Youtube.md "wikilink")『[AKB48第32張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")』成員的總選政見。
+  - 5月3日，在[Youtube公開所有參加](https://zh.wikipedia.org/wiki/Youtube "wikilink")『[AKB48第32張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")』成員的總選政見。
   - 5月11日，Team H 於[TOKYO DOME CITY
-    HALL進行兩場](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")[「博多傳奇」公演](https://zh.wikipedia.org/wiki/Team_H「博多傳奇」 "wikilink")。
+    HALL進行兩場](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")[「博多傳奇」公演](../Page/Team_H「博多傳奇」.md "wikilink")。
   - 5月17日，在「[AKB48第32張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")」的官網裏公開所有參選成員的宣傳海報。
-  - 5月22日，AKB48的第31張單曲《[再見自由式](https://zh.wikipedia.org/wiki/再見自由式 "wikilink")》發售。Team
+  - 5月22日，AKB48的第31張單曲《[再見自由式](../Page/再見自由式.md "wikilink")》發售。Team
     H的指原、兒玉、宮脇以及研究生的田島、朝長成為主打曲的選拔成員；Team
     H的松岡、森保以及研究生的谷則成為B面曲「薔薇的果實」的Under
     Girls選拔成員。當中Team H的指原亦成為Type B收錄的「Haste和waste」的BKA48選拔成員。
@@ -85,35 +85,35 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
     Girls的兒玉（37位，18,145票）、多田（43位，16,401票）、入選Under
     Girls的宮脇（26位，25,760票）以及創造歷史地以姊妹團體成員身分登上第1位而成為AKB48單曲Center（中央位置成員）的指原（150,570票）。當中兒玉、田島、朝長均是首次入選的，而指原、多田則是首次以HKT48成員身份入選的。
   - 6月13日，指原在Team
-    H的[博多傳奇公演](https://zh.wikipedia.org/wiki/Team_H「博多傳奇」 "wikilink")（指原獲得總選第一後的首次公演）上，突然發表將於9日4日發行第2張單曲的消息。當時因多田曾於後台向其他成員表示指原可能會畢業的消息，所以當指原說有事宣佈時，令成員誤以為是指原發表畢業而不捨流淚，後來多田澄清只是說笑才令成員們安心下來。
+    H的[博多傳奇公演](../Page/Team_H「博多傳奇」.md "wikilink")（指原獲得總選第一後的首次公演）上，突然發表將於9日4日發行第2張單曲的消息。當時因多田曾於後台向其他成員表示指原可能會畢業的消息，所以當指原說有事宣佈時，令成員誤以為是指原發表畢業而不捨流淚，後來多田澄清只是說笑才令成員們安心下來。
   - 6月19日，Team H 的兒玉進行自兼任以來的首場Team A公演。
   - 6月21日，[AKB48的](../Page/AKB48.md "wikilink")[單曲選拔組到了](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")[福岡進行](https://zh.wikipedia.org/wiki/福岡 "wikilink")[PV拍攝工作](https://zh.wikipedia.org/wiki/戀愛幸運餅 "wikilink")。因此[AKB48的](../Page/AKB48.md "wikilink")[渡邊麻友作特別嘉賓出演當天Team](../Page/渡邊麻友.md "wikilink")
-    H的[博多傳奇公演的前座Girl](https://zh.wikipedia.org/wiki/Team_H「博多傳奇」 "wikilink")\[30\]
+    H的[博多傳奇公演的前座Girl](../Page/Team_H「博多傳奇」.md "wikilink")\[30\]
     ，與熊澤世莉奈、田中菜津美共同演唱《[遺憾少女](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")》（），除了渡邊外，還有多名單曲選拔組成員現身HKT劇場，包括在台下帶領觀眾呼喊[安可曲口號](../Page/安可.md "wikilink")、[SKE48的](../Page/SKE48.md "wikilink")[須田亞香里](../Page/須田亞香里.md "wikilink")，與同場觀賞公演的[松井玲奈](../Page/松井玲奈.md "wikilink")（SKE48）和[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（NMB48）。
   - 7月2日，於首都圈主要電視網播放的第三個冠名電視節目《[HKT48豚骨魔法少女學院](https://zh.wikipedia.org/wiki/HKT48豚骨魔法少女學院 "wikilink")》開播，該節目是與姊妹團體[乃木坂46合作的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《乃木坂46×HKT48
     冠名節目對決！》之一部分。
-  - 7月10日，「[AKB48第34張單曲選拔猜拳大會](https://zh.wikipedia.org/wiki/AKB48第34張單曲選拔猜拳大會 "wikilink")」HKT48預選戰於HKT48劇場舉行。研究生預備戰由上野、田島、草場和朝長勝出。HKT48預選戰最後由研究生的朝長、Team
+  - 7月10日，「[AKB48第34張單曲選拔猜拳大會](../Page/AKB48第34張單曲選拔猜拳大會.md "wikilink")」HKT48預選戰於HKT48劇場舉行。研究生預備戰由上野、田島、草場和朝長勝出。HKT48預選戰最後由研究生的朝長、Team
     H的田中菜、宮脇勝出，連同兼任AKB48 Team A的兒玉遙一同進入AKB本戰。
   - 7月20日，在“[AKB48 2013盛夏的巨蛋巡回〜还有许多
-    不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡回〜还有许多_不得不做的事情〜 "wikilink")”演唱会上公布了即将发行的第二张单曲名为《[甜瓜汁](https://zh.wikipedia.org/wiki/甜瓜汁_\(HKT48單曲\) "wikilink")》并首次表演该曲，同时也公布了选拔成员名单，朝长也与田岛两人共同担任center位置。
-  - 9月4日，發行第2張單曲《[甜瓜汁](https://zh.wikipedia.org/wiki/甜瓜汁_\(HKT48單曲\) "wikilink")》。
+    不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡回〜还有许多_不得不做的事情〜 "wikilink")”演唱会上公布了即将发行的第二张单曲名为《[甜瓜汁](../Page/甜瓜汁_\(HKT48單曲\).md "wikilink")》并首次表演该曲，同时也公布了选拔成员名单，朝长也与田岛两人共同担任center位置。
+  - 9月4日，發行第2張單曲《[甜瓜汁](../Page/甜瓜汁_\(HKT48單曲\).md "wikilink")》。
   - 11月2日，由1期生與2期生合編成的向日葵组（）举行首场“[睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#HKT48向日葵组公演“睡衣兜风” "wikilink")”（）公演的演出，在公演中同时公佈九名第3期研究生。
 
 ### 2014年
 
-  - 1月11日，在于大分县（）“[HKT48九州7县巡演～和可爱的孩子们一起旅行～](https://zh.wikipedia.org/wiki/HKT48九州7县巡演～和可爱的孩子们一起旅行～ "wikilink")”（）的首日夜公演上，發表了被称为「轉班」（）的队伍重组的消息。Team
+  - 1月11日，在于大分县（）“[HKT48九州7县巡演～和可爱的孩子们一起旅行～](../Page/HKT48九州7县巡演～和可爱的孩子们一起旅行～.md "wikilink")”（）的首日夜公演上，發表了被称为「轉班」（）的队伍重组的消息。Team
     H原有成員將被打散，連同升格的17位研究生，将被分配到Team H及新成立的Team KIV。穴井千尋繼續担任新Team
     H隊長，而新Team KIV隊長則為多田愛佳\[31\]。
   - 1月26日，於TOKYO DOME CITY HALL舉辦的「[AKB48 重溫時間 最佳曲目200
-    2014（200位-101位）](https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目200_2014 "wikilink")」第四日演唱會中，宣布將於2月24日舉辦「AKB48集團大組閣祭」，新制將以大組閣新公布之隊伍分布內容為準\[32\]。
+    2014（200位-101位）](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")」第四日演唱會中，宣布將於2月24日舉辦「AKB48集團大組閣祭」，新制將以大組閣新公布之隊伍分布內容為準\[32\]。
   - 2月24日，於舉辦的「[AKB48集團大組閣祭](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")」中，宣布指原莉乃續任HKT48劇場經理，新Team
     H與新Team KIV隊長人選與轉班相同，同時新增副隊長職位，新Team H為松岡菜摘，新Team
     KIV為宮脇咲良，此外亦發表了成員之兼任與移籍，還有研究生升格\[33\]。
   - 3月12日，發行第3張單曲《[櫻花，大家一起來品嚐](https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐 "wikilink")》\[34\]，此也成為HKT48隊伍重組前的最後一支單曲。
-  - 4月5日，於「[AKB48集團埼玉超級競技場春季演唱會](https://zh.wikipedia.org/wiki/AKB48集團埼玉超級競技場春季演唱會 "wikilink")」的HKT48單獨演出場次中宣布各隊千秋樂與初日的時間表\[35\]。
+  - 4月5日，於「[AKB48集團埼玉超級競技場春季演唱會](../Page/AKB48集團埼玉超級競技場春季演唱會.md "wikilink")」的HKT48單獨演出場次中宣布各隊千秋樂與初日的時間表\[35\]。
   - 8月25日，在[台北](../Page/臺北市.md "wikilink")[青少年育樂中心舉行首次](https://zh.wikipedia.org/wiki/臺北市青少年育樂中心 "wikilink")[台灣歌迷見面活動](https://zh.wikipedia.org/wiki/台灣 "wikilink")，由[穴井千尋](../Page/穴井千尋.md "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[森保圓等](../Page/森保圓.md "wikilink")3名成員出席\[36\]。活動中同時發表將於同年12月7日在台北[ATT
     SHOW
-    BOX舉行首次台灣公演](../Page/ATT_4_FUN.md "wikilink")\[37\]；隔日則在香港的歌迷見面活動上宣布將於2015年1月17日在[麥花臣場館舉行首次香港公演](https://zh.wikipedia.org/wiki/麥花臣匯 "wikilink")\[38\]。這兩場公演不但是HKT48首次的海外公演，也是AKB48集團在台港兩地首次舉行演唱會。
+    BOX舉行首次台灣公演](../Page/ATT_4_FUN.md "wikilink")\[37\]；隔日則在香港的歌迷見面活動上宣布將於2015年1月17日在[麥花臣場館舉行首次香港公演](../Page/麥花臣匯.md "wikilink")\[38\]。這兩場公演不但是HKT48首次的海外公演，也是AKB48集團在台港兩地首次舉行演唱會。
   - 9月24日，發行第4張單曲《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》\[39\]。
   - 12月7日，於台北ATT SHOW
     BOX舉行首次台灣公演「HKT48日本巡迴演唱會～日本統一還沒結束耶～番外篇in台北」，並出現HKT48演唱會首次的W安可（兩次[安可](../Page/安可.md "wikilink")）\[40\]。此外，並先行在前一天（12月6日）晚間於[台北101的](../Page/台北101.md "wikilink")91樓戶外觀景台舉辦「前夜祭」為公演暖身\[41\]。全員47人皆參與兩場活動的演出\[42\]。
@@ -267,7 +267,7 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td><p>37</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/田島芽瑠" title="wikilink">田島芽-{瑠}-</a></p></td>
+<td><p><a href="../Page/田島芽瑠.md" title="wikilink">田島芽-{瑠}-</a></p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
@@ -278,7 +278,7 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td><p>26</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/田中菜津美" title="wikilink">田中菜津美</a></p></td>
+<td><p><a href="../Page/田中菜津美.md" title="wikilink">田中菜津美</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -373,7 +373,7 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/植木南央" title="wikilink">植木南央</a></p></td>
+<td><p><a href="../Page/植木南央.md" title="wikilink">植木南央</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -406,7 +406,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/下野由貴" title="wikilink">下野由貴</a></p></td>
+<td><p><a href="../Page/下野由貴.md" title="wikilink">下野由貴</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -426,7 +426,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>117</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朝長美櫻" title="wikilink">朝長美櫻</a></p></td>
+<td><p><a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a></p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
@@ -479,7 +479,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>67</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/本村碧唯" title="wikilink">本村碧唯</a></strong></p></td>
+<td><p><strong><a href="../Page/本村碧唯.md" title="wikilink">本村碧唯</a></strong></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
 <td><p>1期</p></td>
@@ -977,7 +977,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/谷真理佳" title="wikilink">谷真理佳</a></p></td>
+<td><p><a href="../Page/谷真理佳.md" title="wikilink">谷真理佳</a></p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
@@ -988,7 +988,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/中西智代梨" title="wikilink">中西智代梨</a></p></td>
+<td><p><a href="../Page/中西智代梨.md" title="wikilink">中西智代梨</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -1293,7 +1293,7 @@ DANCE SCHOOL S.S.M出身[68]</p></td>
 <td><p>2016年7月21日</p></td>
 <td><p>-</p></td>
 <td><p>因違反招募規定被取消資格<br />
-曾為<a href="../Page/iDOL_Street.md" title="wikilink">iDOL Street的候補生</a><br />
+曾為<a href="https://zh.wikipedia.org/wiki/iDOL_Street" title="wikilink">iDOL Street的候補生</a><br />
 現為指原莉乃擔任製作人的聲優偶像團體<a href="https://zh.wikipedia.org/wiki/=LOVE" title="wikilink">=LOVE的成員</a></p></td>
 </tr>
 </tbody>
@@ -2340,7 +2340,7 @@ JAPAN<br />
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2013年3月20日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/喜歡！喜歡！小跳步！" title="wikilink">喜歡！喜歡！小跳步！</a>》<br />
+<td><p>《<a href="../Page/喜歡！喜歡！小跳步！.md" title="wikilink">喜歡！喜歡！小跳步！</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>26</p></td>
@@ -2351,7 +2351,7 @@ JAPAN<br />
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2013年9月4日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/甜瓜汁_(HKT48單曲)" title="wikilink">甜瓜汁</a>》<br />
+<td><p>《<a href="../Page/甜瓜汁_(HKT48單曲).md" title="wikilink">甜瓜汁</a>》<br />
 （）</p></td>
 <td><p>1</p></td>
 <td><p>22</p></td>
@@ -2658,7 +2658,7 @@ JAPAN<br />
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2014年7月25日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/HKT48九州7县巡演～和可爱的孩子们一起旅行～" title="wikilink">HKT48九州7县巡演～和可爱的孩子们一起旅行～</a>》<br />
+<td><p>《<a href="../Page/HKT48九州7县巡演～和可爱的孩子们一起旅行～.md" title="wikilink">HKT48九州7县巡演～和可爱的孩子们一起旅行～</a>》<br />
 （）</p></td>
 <td><p>HKT-D0004<br />
 HKT-D0005<br />
@@ -2674,7 +2674,7 @@ Special BOX（Blu-ray）<br />
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2014年11月12日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/HKT48竞技场巡演～和可爱的孩子们继续旅行～" title="wikilink">HKT48竞技场巡演～和可爱的孩子们继续旅行～海之中道海濱公園</a>》<br />
+<td><p>《<a href="../Page/HKT48竞技场巡演～和可爱的孩子们继续旅行～.md" title="wikilink">HKT48竞技场巡演～和可爱的孩子们继续旅行～海之中道海濱公園</a>》<br />
 (）</p></td>
 <td><p>HKT-D0009<br />
 HKT-D0010</p></td>
@@ -2827,7 +2827,7 @@ VPBF-10974</p></td>
 <td><p><a href="../Page/TBS.md" title="wikilink">TBS</a>「<a href="https://zh.wikipedia.org/wiki/HKT48的御出掛！" title="wikilink">HKT48的御出掛！</a>」主题曲<br />
 電視廣告曲：<a href="https://zh.wikipedia.org/wiki/西日本城市银行" title="wikilink">西日本城市银行</a><br />
 電視廣告曲：<a href="../Page/壹番屋.md" title="wikilink">CoCo壹番屋咖哩</a></p></td>
-<td><p>首張单曲《<a href="https://zh.wikipedia.org/wiki/喜歡！喜歡！小跳步！" title="wikilink">喜歡！喜歡！小跳步！</a>》</p></td>
+<td><p>首張单曲《<a href="../Page/喜歡！喜歡！小跳步！.md" title="wikilink">喜歡！喜歡！小跳步！</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>《求求你華倫亭》<br />
@@ -2852,7 +2852,7 @@ VPBF-10974</p></td>
 （）</p></td>
 <td><p>電視廣告曲：《I-SKY“HKT48 荣誉的迷宫”》（）篇<br />
 電視廣告曲：<a href="https://zh.wikipedia.org/wiki/乐天集团" title="wikilink">乐天</a>《Crazy Gum电台》“博多Fusen姐妹”（）篇</p></td>
-<td><p>第二张单曲《<a href="https://zh.wikipedia.org/wiki/甜瓜汁_(HKT48單曲)" title="wikilink">甜瓜汁</a>》</p></td>
+<td><p>第二张单曲《<a href="../Page/甜瓜汁_(HKT48單曲).md" title="wikilink">甜瓜汁</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>《在那里思考些什么？》<br />
@@ -2903,8 +2903,8 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
 
 1.  [手牽手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牽手」#HKT48_Team_H_1st_Stage「手牽手」公演 "wikilink")（）:
     2012年3月4日 - 2013年2月17日（200公演）
-2.  [博多傳奇](https://zh.wikipedia.org/wiki/Team_H「博多傳奇」 "wikilink")（）：2013年3月1日
-    - 2014年4月17日（110公演）
+2.  [博多傳奇](../Page/Team_H「博多傳奇」.md "wikilink")（）：2013年3月1日 -
+    2014年4月17日（110公演）
 3.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#HKT48_Team_H_2nd_Stage「青春女孩」公演 "wikilink")（）：2014年4月23日
     - 2014年10月30日（48公演）
 4.  [最終鍾聲鳴響](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最终钟声鸣响」#HKT48_Team_H_3rd_Stage「最終鍾聲鳴響」公演 "wikilink")（）：2014年11月9日
@@ -2965,11 +2965,11 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
 <!-- end list -->
 
   - 《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》（[日本電視台](../Page/日本電視台.md "wikilink")）：AKB48的主要冠名節目，包括HKT48在內的其他姊妹團體成員都會不定期參與。HKT48的成員是在2012年1月4日在該節目中首度登場。
-  - 《[HKT綜藝48](https://zh.wikipedia.org/wiki/HKT綜藝48 "wikilink")》（，九州朝日放送）：2012年6月24日首播，是HKT48第一個冠名節目，每月最後一個星期日播出。
+  - 《[HKT綜藝48](../Page/HKT綜藝48.md "wikilink")》（，九州朝日放送）：2012年6月24日首播，是HKT48第一個冠名節目，每月最後一個星期日播出。
   - 《[AKB48
-    SHOW\!](https://zh.wikipedia.org/wiki/AKB48_SHOW! "wikilink")》（[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")）：AKB48的主要冠名節目，包括HKT48在內的其他姊妹團體成員都會不定期參與。HKT48的成員是在2013年10月5日在該節目中首度登場。
+    SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》（[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")）：AKB48的主要冠名節目，包括HKT48在內的其他姊妹團體成員都會不定期參與。HKT48的成員是在2013年10月5日在該節目中首度登場。
   - 《[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》（韩国）：参与成员有[松冈菜摘](https://zh.wikipedia.org/wiki/松冈菜摘 "wikilink")、[本村碧唯](https://zh.wikipedia.org/wiki/本村碧唯 "wikilink")、[村川绯杏](https://zh.wikipedia.org/wiki/村川绯杏 "wikilink")、[宫脇咲良](https://zh.wikipedia.org/wiki/宫脇咲良 "wikilink")、[荒卷美咲](https://zh.wikipedia.org/wiki/荒卷美咲 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")、[月足天音](https://zh.wikipedia.org/wiki/月足天音 "wikilink")、[栗原纱英](https://zh.wikipedia.org/wiki/栗原纱英 "wikilink")、[田中美久等](../Page/田中美久_\(HKT48\).md "wikilink")10人。
+    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》（韩国）：参与成员有[松冈菜摘](https://zh.wikipedia.org/wiki/松冈菜摘 "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[村川绯杏](https://zh.wikipedia.org/wiki/村川绯杏 "wikilink")、[宫脇咲良](https://zh.wikipedia.org/wiki/宫脇咲良 "wikilink")、[荒卷美咲](https://zh.wikipedia.org/wiki/荒卷美咲 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")、[月足天音](https://zh.wikipedia.org/wiki/月足天音 "wikilink")、[栗原纱英](https://zh.wikipedia.org/wiki/栗原纱英 "wikilink")、[田中美久等](../Page/田中美久_\(HKT48\).md "wikilink")10人。
   - 《》（，日本電視台）：自2018年7月16日起，於每週一深夜播出，是HKT48在日本電視台的第四檔冠名節目。
 
 <!-- end list -->
@@ -2992,13 +2992,13 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
       - 《HaKaTa百貨店 2號館》（2013年1月26日－3月30日，日本電視台）
   - 《[HKT48的御出掛！](https://zh.wikipedia.org/wiki/HKT48的御出掛！ "wikilink")》（，[TBS電視台](../Page/TBS電視台.md "wikilink")）：從2013年1月25日至2017年6月29日，於每週三深夜播出（初期為每週五深夜），也是面向日本全國播出的冠名節目。
   - 《[HKT48豚骨魔法少女學院](https://zh.wikipedia.org/wiki/HKT48豚骨魔法少女學院 "wikilink")》（），2013年7月2日－9月18日，日本電視台）：HKT48與[乃木坂46的共同合作企畫節目](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《[乃木坂46×HKT48
-    冠名節目對決！](https://zh.wikipedia.org/wiki/乃木坂46×HKT48_冠名節目對決！ "wikilink")》（）之一部分，與乃木坂46的《[NOGIBINGO\!](https://zh.wikipedia.org/wiki/NOGIBINGO! "wikilink")》是在同一個時段內播出，但兩節目播放順序不定，將依照當週的節目表現由特別來賓選出其認為較有趣的一方，得勝方的節目會在下一週獲得先播資格。
+    冠名節目對決！](../Page/乃木坂46×HKT48_冠名節目對決！.md "wikilink")》（）之一部分，與乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》是在同一個時段內播出，但兩節目播放順序不定，將依照當週的節目表現由特別來賓選出其認為較有趣的一方，得勝方的節目會在下一週獲得先播資格。
   - 《》（，[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）：2014年5月20日開始於隔週二播出。
   - 《[AKB48的你、是誰？](https://zh.wikipedia.org/wiki/AKB48的你、是誰？ "wikilink")》（[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）：AKB48的主要冠名節目，包括HKT48在內的其他姊妹團體成員都會不定期參與。HKT48的成員是在2013年1月30日在該節目中首度登場。
-  - 《[HKT48的炸牛蒡！](https://zh.wikipedia.org/wiki/HKT48的炸牛蒡！ "wikilink")》（，西日本電視台）：從2014年5月24日到2016年3月27日，於每週六中午播出。
+  - 《[HKT48的炸牛蒡！](../Page/HKT48的炸牛蒡！.md "wikilink")》（，西日本電視台）：從2014年5月24日到2016年3月27日，於每週六中午播出。
   - 《》（，九州朝日放送）：2014年7月4日開始於每週五播出。
   - 《[HKT48 vs NGT48
-    指北合戰](../Page/HKT48_vs_NGT48_指北合戰.md "wikilink")》（，日本電視台）：從2016年1月11日至3月28日，於每周一深夜播出，為HKT48與[NGT48共同演出的團體對抗型綜藝節目](https://zh.wikipedia.org/wiki/NGT48 "wikilink")。
+    指北合戰](../Page/HKT48_vs_NGT48_指北合戰.md "wikilink")》（，日本電視台）：從2016年1月11日至3月28日，於每周一深夜播出，為HKT48與[NGT48共同演出的團體對抗型綜藝節目](../Page/NGT48.md "wikilink")。
 
 ### 廣播節目
 
@@ -3024,10 +3024,10 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
 
 **単独**
 
-  - [HKT48九州7县巡演～和可爱的孩子们一起旅行～](https://zh.wikipedia.org/wiki/HKT48九州7县巡演～和可爱的孩子们一起旅行～ "wikilink")（2014年1月11日、[大分市](../Page/大分市.md "wikilink")
+  - [HKT48九州7县巡演～和可爱的孩子们一起旅行～](../Page/HKT48九州7县巡演～和可爱的孩子们一起旅行～.md "wikilink")（2014年1月11日、[大分市](../Page/大分市.md "wikilink")
     -
     2014年3月21日、[福冈市](https://zh.wikipedia.org/wiki/福冈市 "wikilink")[福冈太阳宫](https://zh.wikipedia.org/wiki/福冈太阳宫 "wikilink")。九州7县各县政府所在地举办）
-  - [HKT48竞技场巡演～和可爱的孩子们继续旅行～](https://zh.wikipedia.org/wiki/HKT48竞技场巡演～和可爱的孩子们继续旅行～ "wikilink")（2014年4月29日、[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")
+  - [HKT48竞技场巡演～和可爱的孩子们继续旅行～](../Page/HKT48竞技场巡演～和可爱的孩子们继续旅行～.md "wikilink")（2014年4月29日、[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")
     -
     2014年7月11日、[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[海之中道海浜公園](https://zh.wikipedia.org/wiki/海之中道海浜公園 "wikilink")）
 
@@ -3059,7 +3059,7 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
   - [AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")（2013年4月27日昼（HKT48単独公演）、28日（2回公演）、[日本武道館](../Page/日本武道館.md "wikilink")）
   - [“献给追忆的你们”～AKB48全体总动员公演～](https://zh.wikipedia.org/wiki/“献给追忆的你们”～AKB48全体总动员公演～ "wikilink")「博多传奇」公演（2013年5月11日（2回公演）、TOKYO
     DOME CITY HALL） - Team H、朝長
-  - [AKB48团研究生演唱会“早推得胜”](https://zh.wikipedia.org/wiki/AKB48团研究生演唱会“早推得胜” "wikilink")（2013年6月5日、日本武道館）
+  - [AKB48团研究生演唱会“早推得胜”](../Page/AKB48团研究生演唱会“早推得胜”.md "wikilink")（2013年6月5日、日本武道館）
     - 研究生
   - [AKB48 2013盛夏的巨蛋巡回〜还有许多
     不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡回〜还有许多_不得不做的事情〜 "wikilink")（2013年7月20日
@@ -3068,14 +3068,14 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
     - 8日、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")、2013年8月16日 -
     17日、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、2013年8月22日 -
     25日、東京巨蛋）
-  - [第3届AKB48红白对抗歌合战](https://zh.wikipedia.org/wiki/第3届AKB48红白对抗歌合战 "wikilink")（2013年12月17日、TOKYO
+  - [第3届AKB48红白对抗歌合战](../Page/第3届AKB48红白对抗歌合战.md "wikilink")（2013年12月17日、TOKYO
     DOME CITY HALL）
   - [AKB48 重温时间 最佳曲目200
     2014](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目200_2014 "wikilink")（2014年1月23日
     - 26日、TOKYO DOME CITY HALL、4月6日、埼玉超級競技場）
   - [AKB48 Group 大組閣祭〜时代在改变
     我们仍要向前〜](https://zh.wikipedia.org/wiki/AKB48_Group_大組閣祭〜时代在改变_我们仍要向前〜 "wikilink")（2014年2月24日、）
-  - [AKB48單獨與集團國立競技場春季演唱會](https://zh.wikipedia.org/wiki/AKB48單獨與集團國立競技場春季演唱會 "wikilink")（2014年3月29日、[國立霞丘陸上競技場](../Page/國立霞丘陸上競技場.md "wikilink")）
+  - [AKB48單獨與集團國立競技場春季演唱會](../Page/AKB48單獨與集團國立競技場春季演唱會.md "wikilink")（2014年3月29日、[國立霞丘陸上競技場](../Page/國立霞丘陸上競技場.md "wikilink")）
   - [AKB48集团埼玉超级竞技场春季演唱会](https://zh.wikipedia.org/wiki/AKB48集团埼玉超级竞技场春季演唱会 "wikilink")（2014年4月5日昼、埼玉超級競技場）
 
 ### 現場活動
@@ -3382,7 +3382,7 @@ TII，並直接昇格為正式成員\[126\]。
     H的指原莉乃（[大分縣出身](https://zh.wikipedia.org/wiki/大分縣 "wikilink")）、田中美久（[熊本縣出身](../Page/熊本縣.md "wikilink")）、駒田京伽，以及Team
     KIV的冨吉明日香（均為[宮崎縣出身](../Page/宮崎縣.md "wikilink")）、宮脇咲良（[鹿兒島縣出身](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")）、森保圓（[長崎縣出身](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")）、3期研究生筒井莉子（[佐賀縣出身](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")）等7名。
 
-10. AKB48當初也是全部成員隸屬於[office48](../Page/office48.md "wikilink")。
+10. AKB48當初也是全部成員隸屬於[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")。
 
 11.
 12. [はかたのアイドル　HKT48

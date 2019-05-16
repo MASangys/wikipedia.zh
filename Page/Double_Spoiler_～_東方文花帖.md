@@ -193,7 +193,7 @@ Bullet.一样的游戏模式](../Page/東方文花帖_～_Shoot_the_Bullet..md "
 ## 相关条目
 
   - [东方文花帖 ～ Bohemian Archive in Japanese
-    Red.](https://zh.wikipedia.org/wiki/东方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")
+    Red.](../Page/东方文花帖_～_Bohemian_Archive_in_Japanese_Red..md "wikilink")
     - 一迅社出版的书籍
   - [東方文花帖 ～ Shoot the
     Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")

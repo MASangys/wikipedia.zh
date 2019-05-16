@@ -19,7 +19,7 @@ widget資料库和[Safari擴充資料库仍然以線上网页形式存在](../Pa
 
 ## 指引
 
-类似于[iOS](../Page/iOS.md "wikilink") [App
+类似于[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") [App
 Store](../Page/App_Store_\(iOS\).md "wikilink")，Mac App Store由苹果监管。
 透过Mac App Store销售的应用程式在上架之前必须通过苹果的审核。从2012年6月1日起，所有新提交到App
 Store的程序必须使用沙盒，否则不能上架。此举旨在提高Mac的安全性，但也限制了一些應用程式的重要功能。\[8\]\[9\]
@@ -30,7 +30,7 @@ Store的程序必须使用沙盒，否则不能上架。此举旨在提高Mac的
   - 不符合苹果Mac OS
     X[人机界面指南的软件](https://zh.wikipedia.org/wiki/人机界面指南 "wikilink")；
   - 与目前苹果产品（例如Mac App
-    Store、[Finder](https://zh.wikipedia.org/wiki/Finder_\(software\) "wikilink")、[iTunes](../Page/iTunes.md "wikilink")、[iChat等](../Page/iChat.md "wikilink")）界面或功能相似的软件；
+    Store、[Finder](https://zh.wikipedia.org/wiki/Finder_\(software\) "wikilink")、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[iChat等](https://zh.wikipedia.org/wiki/iChat "wikilink")）界面或功能相似的软件；
   - 包含或显示色情内容的软件；
   - 本身是或安装共享组件的软件；
   - 提供会过期的内容或服务的软件；
@@ -58,7 +58,7 @@ App Store中移除。\[12\]
 ## 影响
 
 Mac App
-Store携超过1000个程序上线，包括[iWork](../Page/iWork.md "wikilink")、[iLife](../Page/iLife.md "wikilink")、[Aperture和移植自](../Page/Aperture.md "wikilink")[iOS的第三方应用程序](../Page/iOS.md "wikilink")[Angry
+Store携超过1000个程序上线，包括[iWork](https://zh.wikipedia.org/wiki/iWork "wikilink")、[iLife](https://zh.wikipedia.org/wiki/iLife "wikilink")、[Aperture和移植自](../Page/Aperture.md "wikilink")[iOS的第三方应用程序](https://zh.wikipedia.org/wiki/iOS "wikilink")[Angry
 Birds](https://zh.wikipedia.org/wiki/Angry_Birds "wikilink")、[Flight
 Control和](https://zh.wikipedia.org/wiki/Flight_Control "wikilink")[Twitter](https://zh.wikipedia.org/wiki/Tweetie "wikilink")。\[14\]\[15\]\[16\]\[17\]最常见的定价在20到50美元区间内。\[18\]
 在iOS [App

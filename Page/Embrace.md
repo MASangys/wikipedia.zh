@@ -1,4 +1,4 @@
-**Embrace**是一個後硬蕊樂團，成立於華頓特區。這個樂團1985夏天到1986春天，只維持不到一年時，是頭個被稱為[情緒硬蕊](../Page/emo.md "wikilink")([Emotional
+**Embrace**是一個後硬蕊樂團，成立於華頓特區。這個樂團1985夏天到1986春天，只維持不到一年時，是頭個被稱為[情緒硬蕊](https://zh.wikipedia.org/wiki/emo "wikilink")([Emotional
 Hardcore](../Page/Emo.md "wikilink"))的樂團，但打從這個詞出現，樂團就極力與這個詞撇凊。\[1\]\[2\]樂團的成員有[Minor
 Threat的Ian](../Page/Minor_Threat.md "wikilink") MacKaye與來自他弟Alec
 MacKaye樂團The Faith的三位成員：吉他手Michael Hampton、鼓手Ivor Hanson和貝斯手Chris

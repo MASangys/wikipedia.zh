@@ -19,8 +19,7 @@ Problems**"，其內證明了21個不同的，均因為其難解而惡名昭彰�
             packing）
           - [最小顶点覆盖问题](https://zh.wikipedia.org/wiki/覆蓋_\(圖論\) "wikilink")（Vertex
             cover）
-              - [集合覆盖问题](https://zh.wikipedia.org/wiki/集合覆盖问题 "wikilink")（Set
-                covering）
+              - [集合覆盖问题](../Page/集合覆盖问题.md "wikilink")（Set covering）
               - [Feedback node
                 set](https://zh.wikipedia.org/wiki/Feedback_vertex_set "wikilink")（Feedback
                 node set）

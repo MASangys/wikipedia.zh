@@ -68,7 +68,7 @@ Tomato及Beard PaPa's & coco frans及Pig Pig Candy。
 [V_City_MTR_Level_View1_201311.jpg](https://zh.wikipedia.org/wiki/File:V_City_MTR_Level_View1_201311.jpg "fig:V_City_MTR_Level_View1_201311.jpg")店面採用高樓底設計\]\]
 [V_City_MTR_level_South_View1_20130801.jpg](https://zh.wikipedia.org/wiki/File:V_City_MTR_level_South_View1_20130801.jpg "fig:V_City_MTR_level_South_View1_20130801.jpg")
 [V_City_MTR_level_Shops_201308.jpg](https://zh.wikipedia.org/wiki/File:V_City_MTR_level_Shops_201308.jpg "fig:V_City_MTR_level_Shops_201308.jpg")
-MTR層設多元化租戶，鐘錶珠寶主要集中於商場MTR層，鐘錶珠寶配飾店有16間（佔整體18%），比例接近兩成；面積最大的[太子珠寶鐘錶鋪位面積更達](https://zh.wikipedia.org/wiki/太子珠寶鐘錶 "wikilink")3500平方呎。主要租戶包括City
+MTR層設多元化租戶，鐘錶珠寶主要集中於商場MTR層，鐘錶珠寶配飾店有16間（佔整體18%），比例接近兩成；面積最大的[太子珠寶鐘錶鋪位面積更達](../Page/太子珠寶鐘錶.md "wikilink")3500平方呎。主要租戶包括City
 Chain
 Primo、[周生生](../Page/周生生.md "wikilink")、[周大福](https://zh.wikipedia.org/wiki/周大福 "wikilink")、[六福珠寶](https://zh.wikipedia.org/wiki/六福珠寶 "wikilink")、鎮金店、SOLVIL
 ET TITUS、Galtiscopio（卡比奧）、日本飾品店THE KISS等。化妝品及美容產品店有23間，比例達四分之一。
@@ -93,8 +93,8 @@ OFF Tokyo、[謝瑞麟](../Page/謝瑞麟.md "wikilink")、Porter International�
 Rose、URBAN HYMNS；時裝店Melani di moda、Bread n Butter、AT-20 & G2000
 WOMAN及STAGE OF PLAYLORD。
 
-商場近往新墟天橋位置以珠寶鐘錶店為主，租戶包括[太子珠寶鐘錶](https://zh.wikipedia.org/wiki/太子珠寶鐘錶 "wikilink")、SOLVIL
-ET TITUS、Galtiscopio（卡比奧）、MaBelle及施華洛世奇。其他租戶包括[Cotton
+商場近往新墟天橋位置以珠寶鐘錶店為主，租戶包括[太子珠寶鐘錶](../Page/太子珠寶鐘錶.md "wikilink")、SOLVIL ET
+TITUS、Galtiscopio（卡比奧）、MaBelle及施華洛世奇。其他租戶包括[Cotton
 On](https://zh.wikipedia.org/wiki/Cotton_On "wikilink")、Melvita、曲奇四重奏、居食屋「和民」及利小館。
 
 主中庭位置以鞋店為主，租戶包括[Clarks](https://zh.wikipedia.org/wiki/Clarks "wikilink")、[ecco](https://zh.wikipedia.org/wiki/ecco "wikilink")、[New
@@ -104,9 +104,9 @@ by wan
 kee、[adidas](https://zh.wikipedia.org/wiki/adidas "wikilink")；女士服飾Salad、Rococo；潮流服飾Tough
 Jeansmith。其他租戶包括[無印良品](../Page/無印良品.md "wikilink")、韓國美容護理店too cool for
 school及Häagen-Dazs。近E出口以電器店為主，包括[豐澤及](https://zh.wikipedia.org/wiki/豐澤 "wikilink")[衛訊](https://zh.wikipedia.org/wiki/衛訊 "wikilink")。其他租戶包括CD
-Warehouse及[美心食品旗下的中式食肆](../Page/美心食品.md "wikilink")[八月](../Page/jade_concepts.md "wikilink")。
+Warehouse及[美心食品旗下的中式食肆](../Page/美心食品.md "wikilink")[八月](https://zh.wikipedia.org/wiki/jade_concepts "wikilink")。
 
-商場近新墟方向盡頭以本地品牌為主，租戶包括[adlib](../Page/adlib.md "wikilink")、[BSX](https://zh.wikipedia.org/wiki/BSX "wikilink")、Double
+商場近新墟方向盡頭以本地品牌為主，租戶包括[adlib](https://zh.wikipedia.org/wiki/adlib "wikilink")、[BSX](https://zh.wikipedia.org/wiki/BSX "wikilink")、Double
 Step、[Giordano](https://zh.wikipedia.org/wiki/Giordano "wikilink")、PIT、pe:tite、mastermind
 production、DR. KONG健康鞋專門店、SILVER'N
 GRACE首飾店、YMK。其他租戶包括[亮視點](../Page/亮視點.md "wikilink")、Kipling、Lee、[Timberland及](https://zh.wikipedia.org/wiki/Timberland "wikilink")[GODIVA巧克力店](https://zh.wikipedia.org/wiki/GODIVA "wikilink")。食肆為峰壽司及首次進駐香港的沖繩馳名居酒屋「目利きの銀次」。

@@ -1,4 +1,4 @@
-**E通卡**為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高速公路電子收費系統車上機所使用的接觸式與非接觸式](https://zh.wikipedia.org/wiki/高速公路電子收費系統_\(台灣\) "wikilink")[交通](../Page/交通.md "wikilink")[電子票證系統](https://zh.wikipedia.org/wiki/電子收費系統 "wikilink")[智慧卡](../Page/智慧卡.md "wikilink")，由[遠通電收發行之電子票證](https://zh.wikipedia.org/wiki/遠通電收 "wikilink")，亦被稱為ETC卡。配合高速公路計程收費暫停發卡；此外，e通卡自2014年7月23日停止加值服務，並於2015年12月31日停止使用。\[1\]
+**E通卡**為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高速公路電子收費系統車上機所使用的接觸式與非接觸式](https://zh.wikipedia.org/wiki/高速公路電子收費系統_\(台灣\) "wikilink")[交通](../Page/交通.md "wikilink")[電子票證系統](https://zh.wikipedia.org/wiki/電子收費系統 "wikilink")[智慧卡](../Page/智慧卡.md "wikilink")，由[遠通電收發行之電子票證](../Page/遠通電收.md "wikilink")，亦被稱為ETC卡。配合高速公路計程收費暫停發卡；此外，e通卡自2014年7月23日停止加值服務，並於2015年12月31日停止使用。\[1\]
 
 ## 使用方法
 

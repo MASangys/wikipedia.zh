@@ -1216,7 +1216,7 @@
 <p>2018-04-09 WTO姐妹會 外國來的就是好貨?! 各國人就愛這個...(YouTube 約38:03)，Yuki在節目上說:「我男朋友（台灣人）現在到日本工作」。所以Yuki現在與男朋友一同移居日本。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/西田惠里奈" title="wikilink">西田惠里奈</a>（曾改名︰曉金鳳）</p></td>
+<td><p><a href="../Page/西田惠里奈.md" title="wikilink">西田惠里奈</a>（曾改名︰曉金鳳）</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://instagram.com/erina_nishida?utm_source=ig_profile_share&amp;igshid=2oqh1zklvpx5">Instagram</a><br />
@@ -2780,7 +2780,7 @@
 <td></td>
 <td><p><a href="http://taiwan-shokutsu.blogspot.com">個人網站</a><br />
 <a href="https://www.facebook.com/profile.php?id=100004592081196">Facebook</a></p></td>
-<td><p>京都人，來台發展藝人，曾參予多部電影演出，包括<a href="https://zh.wikipedia.org/wiki/大稻埕_(電影)" title="wikilink">大稻埕 (電影)和</a><a href="https://zh.wikipedia.org/wiki/KANO" title="wikilink">KANO等</a>。演藝事業之餘，於台北通化臨江夜市開設《<a href="http://www.ettoday.net/news/20140221/327251.htm">富士山溶岩燒</a>》經營日式串燒生意。</p></td>
+<td><p>京都人，來台發展藝人，曾參予多部電影演出，包括<a href="../Page/大稻埕_(電影).md" title="wikilink">大稻埕 (電影)和</a><a href="../Page/KANO.md" title="wikilink">KANO等</a>。演藝事業之餘，於台北通化臨江夜市開設《<a href="http://www.ettoday.net/news/20140221/327251.htm">富士山溶岩燒</a>》經營日式串燒生意。</p></td>
 </tr>
 <tr class="even">
 <td><p>阿松</p></td>
@@ -2834,13 +2834,13 @@
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山縣人</a>。2017-07-19</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/風田" title="wikilink">風田</a></p></td>
+<td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p>|<a href="https://www.facebook.com/officialspexialwin/">Facebook</a><br />
 <a href="https://www.instagram.com/spexialwin/">Instagram</a><br />
 <a href="https://www.weibo.com/spexialwin">微博</a></p></td>
-<td><p><a href="../Page/青森縣.md" title="wikilink">青森縣人</a>。粉絲名為「小風車」。模特兒出身，曾走過不少國際時裝秀。後為台灣男子團體<a href="https://zh.wikipedia.org/wiki/SpeXial" title="wikilink">SpeXial第三期成員</a>。</p></td>
+<td><p><a href="../Page/青森縣.md" title="wikilink">青森縣人</a>。粉絲名為「小風車」。模特兒出身，曾走過不少國際時裝秀。後為台灣男子團體<a href="../Page/SpeXial.md" title="wikilink">SpeXial第三期成員</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Hiroto</p></td>
@@ -3629,7 +3629,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊子玄" title="wikilink">楊子玄</a></p></td>
+<td><p><a href="../Page/楊子玄.md" title="wikilink">楊子玄</a></p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/jkd.kali.5?fref=ts">Facebook</a></p></td>

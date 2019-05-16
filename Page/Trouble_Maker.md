@@ -1,7 +1,7 @@
 **Trouble
 Maker**（）是由[賢勝和](../Page/張賢勝.md "wikilink")[泫雅組成的企劃組合](../Page/金泫雅.md "wikilink")，賢勝起用藝名JS出席活動，JS是Jay
 Stomp的縮寫，擁有Stomp的意思。首張迷你同名專輯 《[Trouble
-Maker](https://zh.wikipedia.org/wiki/Trouble_Maker_\(EP\) "wikilink")》則在2011年12月1日發行。2013年10月28日推出迷你二輯《[Chemistry](https://zh.wikipedia.org/wiki/Chemistry_\(EP\) "wikilink")》，主打歌為「沒有明天」，此曲拿下回歸多項音樂節目冠軍。
+Maker](../Page/Trouble_Maker_\(EP\).md "wikilink")》則在2011年12月1日發行。2013年10月28日推出迷你二輯《[Chemistry](../Page/Chemistry_\(EP\).md "wikilink")》，主打歌為「沒有明天」，此曲拿下回歸多項音樂節目冠軍。
 
 ## 成員
 
@@ -101,7 +101,7 @@ Maker的娛樂公司表示：「那張襯衫上面的圖案並非旭日升天旗
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Trouble_Maker_(EP)" title="wikilink">Trouble Maker</a></strong>》</p>
+<td><p>首張迷你專輯《<strong><a href="../Page/Trouble_Maker_(EP).md" title="wikilink">Trouble Maker</a></strong>》</p>
 <ul>
 <li>發行日：2011年12月1日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -111,7 +111,7 @@ Maker的娛樂公司表示：「那張襯衫上面的圖案並非旭日升天旗
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>第二張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Chemistry_(EP)" title="wikilink">CHEMISTRY</a></strong>》</p>
+<td><p>第二張迷你專輯《<strong><a href="../Page/Chemistry_(EP).md" title="wikilink">CHEMISTRY</a></strong>》</p>
 <ul>
 <li>發行日：2013年10月28日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -184,13 +184,13 @@ Maker的娛樂公司表示：「那張襯衫上面的圖案並非旭日升天旗
 <td><p>2011年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Trouble_Maker_(EP)" title="wikilink">Trouble Maker</a></p></td>
+<td><p><a href="../Page/Trouble_Maker_(EP).md" title="wikilink">Trouble Maker</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Chemistry_(EP)" title="wikilink">Chemistry</a></p></td>
+<td><p><a href="../Page/Chemistry_(EP).md" title="wikilink">Chemistry</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

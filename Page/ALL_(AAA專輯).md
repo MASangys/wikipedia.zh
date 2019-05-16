@@ -1,5 +1,5 @@
 「**ALL**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")2枚原創專輯。於2007年1月1日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@ trax](../Page/avex_trax.md "wikilink")。
   - 本作分「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了單曲「颶風·莉莉，波士頓·瑪麗」的PV和歌曲「未完成」的PV和PV
     making。
   - 與DVD「[1st Anniversary Live -3rd ATTACK 060913- at
-    日本武道館](https://zh.wikipedia.org/wiki/1st_Anniversary_Live_-3rd_ATTACK_060913-_at_日本武道館 "wikilink")」同時發行。
+    日本武道館](../Page/1st_Anniversary_Live_-3rd_ATTACK_060913-_at_日本武道館.md "wikilink")」同時發行。
   - 在1月15日於公信榜專輯週排行榜取得第24位。
 
 ## 收錄內容

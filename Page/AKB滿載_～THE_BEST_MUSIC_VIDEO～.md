@@ -11,7 +11,7 @@ RECORDS](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")、[HMV](../Page
 
 音樂影片集在發售首週登上Oricon公信榜DVD第一位，以20.9萬銷量取代[安室奈美惠的](../Page/安室奈美惠.md "wikilink")《[namie
 amuro BEST FICTION TOUR
-2008-2009](../Page/namie_amuro_BEST_FICTION_TOUR_2008-2009.md "wikilink")》成為女藝人首週銷量最高的音樂影片集，在藍光公信榜也憑9.3萬銷量成為冠軍，成為歷來首週銷量最高的藍光\[4\]。音樂影片集在緊接的一週也取得週榜冠軍，以6.6萬銷量達成兩連冠，累績銷量超過27.5萬張，取代[倉木麻衣的](../Page/倉木麻衣.md "wikilink")《》成為歷來女藝人銷量最高的DVD\[5\]。音樂影片集在發售三週後，在Oricon公信榜銷量突破30萬，這是歷來首次有女藝人的音樂影片集能夠賣出超過30萬張\[6\]。7月27日，音樂影片集的累積銷量達32.4萬張，取代[倖田來未的](../Page/倖田來未.md "wikilink")《secret～FIRST
+2008-2009](https://zh.wikipedia.org/wiki/namie_amuro_BEST_FICTION_TOUR_2008-2009 "wikilink")》成為女藝人首週銷量最高的音樂影片集，在藍光公信榜也憑9.3萬銷量成為冠軍，成為歷來首週銷量最高的藍光\[4\]。音樂影片集在緊接的一週也取得週榜冠軍，以6.6萬銷量達成兩連冠，累績銷量超過27.5萬張，取代[倉木麻衣的](../Page/倉木麻衣.md "wikilink")《》成為歷來女藝人銷量最高的DVD\[5\]。音樂影片集在發售三週後，在Oricon公信榜銷量突破30萬，這是歷來首次有女藝人的音樂影片集能夠賣出超過30萬張\[6\]。7月27日，音樂影片集的累積銷量達32.4萬張，取代[倖田來未的](../Page/倖田來未.md "wikilink")《secret～FIRST
 CLASS LIMITED LIVE～》成為女藝人銷量最高的DVD\[7\]。
 
 ## 音樂影片

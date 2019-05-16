@@ -92,7 +92,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林偉_(演員)" title="wikilink">林　偉</a></p></td>
+<td><p><a href="../Page/林偉_(演員).md" title="wikilink">林　偉</a></p></td>
 <td><p>王向華</p></td>
 <td><p>荔景消防局高級消防隊長</p></td>
 <td><p>華Sir</p></td>
@@ -131,7 +131,7 @@
 <td><p>馬仔</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/王志安" title="wikilink">王志安</a>（Otto@<a href="../Page/EO2.md" title="wikilink">EO2</a>）</p></td>
+<td><p><a href="../Page/王志安.md" title="wikilink">王志安</a>（Otto@<a href="../Page/EO2.md" title="wikilink">EO2</a>）</p></td>
 <td><p>吳力宏</p></td>
 <td><p>荔景消防局消防隊目<br />
 任務期間觸發腰部舊患而送院</p></td>
@@ -230,7 +230,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林耀聲" title="wikilink">林耀聲</a></p></td>
+<td><p><a href="../Page/林耀聲.md" title="wikilink">林耀聲</a></p></td>
 <td><p>阿　峰</p></td>
 <td><p>豪弟弟<br />
 1999年空難中腿部受傷而殘廢</p></td>
@@ -374,7 +374,7 @@
 <td><p>李Sir</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/伍允龍" title="wikilink">伍允龍</a></p></td>
+<td><p><a href="../Page/伍允龍.md" title="wikilink">伍允龍</a></p></td>
 <td><p>戴偉軒</p></td>
 <td><p>尖沙咀消防局消防員<br />
 阿玲男友</p></td>
@@ -420,7 +420,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/蔣祖曼" title="wikilink">蔣祖曼</a></p></td>
+<td><p><a href="../Page/蔣祖曼.md" title="wikilink">蔣祖曼</a></p></td>
 <td><p>黃　太</p></td>
 <td></td>
 <td></td>
@@ -497,7 +497,7 @@ Jackie</p></td>
 <td><p>鬼仔</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張建聲" title="wikilink">張建聲</a></p></td>
+<td><p><a href="../Page/張建聲.md" title="wikilink">張建聲</a></p></td>
 <td><p>余卓希</p></td>
 <td><p>唱K</p></td>
 <td></td>

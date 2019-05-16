@@ -2,7 +2,7 @@
 
 ## 主題歌
 
-  - 片頭曲『****』（作詞：[保富康午](https://zh.wikipedia.org/wiki/保富康午 "wikilink")／作曲：[椙山浩一](https://zh.wikipedia.org/wiki/椙山浩一 "wikilink")／演唱：[佐佐木功](../Page/佐佐木功.md "wikilink")、[哥倫比亞搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")）
+  - 片頭曲『****』（作詞：[保富康午](https://zh.wikipedia.org/wiki/保富康午 "wikilink")／作曲：[椙山浩一](../Page/椙山浩一.md "wikilink")／演唱：[佐佐木功](../Page/佐佐木功.md "wikilink")、[哥倫比亞搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")）
   - 片尾曲『****』（作詞：保富康午／作曲：椙山浩一／演唱：佐佐木功、[堀江美都子](../Page/堀江美都子.md "wikilink")）
 
 ## 各話列表
@@ -69,7 +69,7 @@
     製作：[吉田健二](https://zh.wikipedia.org/wiki/吉田健二 "wikilink")
     企劃：[吉田健二](https://zh.wikipedia.org/wiki/吉田健二 "wikilink")、鳥海尽三
     原作：[吉田龍夫](https://zh.wikipedia.org/wiki/吉田龍夫 "wikilink")
-    人物設定：[九里一平](https://zh.wikipedia.org/wiki/九里一平 "wikilink")、[天野嘉孝](https://zh.wikipedia.org/wiki/天野嘉孝 "wikilink")（現‧喜孝）、[高田明美](https://zh.wikipedia.org/wiki/高田明美 "wikilink")
+    人物設定：[九里一平](https://zh.wikipedia.org/wiki/九里一平 "wikilink")、[天野嘉孝](https://zh.wikipedia.org/wiki/天野嘉孝 "wikilink")（現‧喜孝）、[高田明美](../Page/高田明美.md "wikilink")
     美術設定：[中村光毅](https://zh.wikipedia.org/wiki/中村光毅 "wikilink")
     機械設定：[大河原邦男](../Page/大河原邦男.md "wikilink")
     作畫監修：宮本貞雄
@@ -106,7 +106,7 @@
 ## 相關條目
 
   - [科學小飛俠](../Page/科學小飛俠.md "wikilink")
-  - [科學小飛俠Crowds](https://zh.wikipedia.org/wiki/科學小飛俠Crowds "wikilink")
+  - [科學小飛俠Crowds](../Page/科學小飛俠Crowds.md "wikilink")
 
 [Category:1978年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1978年日本電視動畫 "wikilink")
 [Category:忍者動畫](https://zh.wikipedia.org/wiki/Category:忍者動畫 "wikilink")

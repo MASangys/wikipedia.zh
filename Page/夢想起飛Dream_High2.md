@@ -1,6 +1,6 @@
 《**Dream High
 2**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2012年1月30日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，2011年大熱作品《-{[Dream
-High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")}-》的第二部。由[姜素拉](../Page/姜素拉.md "wikilink")、[朴敘俊](https://zh.wikipedia.org/wiki/朴敘俊 "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[JB](../Page/林在範.md "wikilink")（[GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")）、[芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")）、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")）、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")、[朴軫永](../Page/朴軫永.md "wikilink")\[1\]、[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")（[After
+High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")}-》的第二部。由[姜素拉](../Page/姜素拉.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[JB](../Page/林在範.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")）、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")、[朴軫永](../Page/朴軫永.md "wikilink")\[1\]、[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")（[After
 School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 
 ## 演員陣容
@@ -58,7 +58,7 @@ School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 <td><p><a href="../Page/楊凱凱.md" title="wikilink">楊凱凱</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴敘俊" title="wikilink">朴敘俊</a></p></td>
+<td><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a></p></td>
 <td><p>李時宇</p></td>
 <td><p>19歲。組合I:dn的主唱，壞男人，反抗意識很強悍的孩子。鬧緋聞，那麼毫無疑問就是時宇。有傳聞說他的手機中存著超過500個女人的電話號碼，而事實，卻是更多。天生的花花公子。不知不覺就連毫無關係的人都要勾引一番。如果說跟女人要電話是一種興趣，那一定是他的興趣，而自拍則是他的另一個習慣。喜歡Nana。</p>
 <p>即使不在舞臺上，他喜歡的東西也很多，正因為這些他才能自由享受。否定的來講的話，那就是他對於勝負的慾望不足。甚至不知道是否有熱情。但即使這樣，也是天生就有實力，OZ演藝公司的搶手人物。因為是經常拿來與JB比較的人物，所以也成為了JB身邊可以幫助其抓平穩的朋友。</p></td>
@@ -78,22 +78,22 @@ School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 
 ### 麒麟藝高老師
 
-|                                                     |        |                                                                                                       |                                                     |                                  |
-| --------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------- |
-| **演員**                                              | **角色** | **介紹**                                                                                                | **粵語配音**                                            | **国語配音**                         |
-| [金正泰](https://zh.wikipedia.org/wiki/金正泰 "wikilink") | 李江哲    | 奧茲娛樂老闆兼任麒麟藝高理事長，抱著天生直覺和經驗，過去發展一路成功，對自己的決策從未有過懷疑，也得到冷血的評價，把自己嚴厲的個性化為幽默很少斥責，卻總是笑裡藏刀，野心是把麒麟藝高變成奧茲娛樂的訓練所。 | [潘文柏](../Page/潘文柏.md "wikilink")                    | [于正昌](../Page/于正昌.md "wikilink") |
-| [權海驍](https://zh.wikipedia.org/wiki/權海驍 "wikilink") | 朱正烷    | 遊手好閒的老師，偷偷經營炸雞店債台高築，以前玩BAND時代有過交手的李江哲入主學校之後也威脅其校長地位。                                                  | [張炳強](../Page/張炳強.md "wikilink")                    | [李世揚](../Page/李世揚.md "wikilink") |
-| [嘉熙](https://zh.wikipedia.org/wiki/朴祉映 "wikilink")  | 玄智秀    | 麒麟藝高新任舞蹈老師，奧茲舞蹈總監，前女子團體的中心代表出身，曾經說過「根本沒有女舞者」這樣的話，獨具一格。                                                | [朱妙蘭](../Page/朱妙蘭.md "wikilink")                    | [許淑嬪](../Page/許淑嬪.md "wikilink") |
-| [朴軫永](../Page/朴軫永.md "wikilink")                    | 楊真萬    | 麒麟藝高英文老師。原擔任舍監但已被解除職務，目前仍對當歌手懷抱夢想，雖然是英文老師卻會插手指導學生的舞蹈和唱歌。                                              | [葉振聲](../Page/葉振聲.md "wikilink")                    | [梁興昌](../Page/梁興昌.md "wikilink") |
-| [崔汝珍](../Page/崔汝珍.md "wikilink")                    | 安泰妍    | 麒麟藝高VOCAL教師，本身雖不至於有卓越的歌唱能力，但抱著補習班教師也都不見得通過司法考試的信念，對自身的歌唱實力也並不羞愧，對時尚有高度關心，甚至會因為外表歧視學生。                 | [曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink") | [楊凱凱](../Page/楊凱凱.md "wikilink") |
-| [尹熙錫](https://zh.wikipedia.org/wiki/尹熙錫 "wikilink") | 申在仁    |                                                                                                       | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink") | [李景唐](../Page/李景唐.md "wikilink") |
+|                                                    |        |                                                                                                       |                                                     |                                  |
+| -------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------- |
+| **演員**                                             | **角色** | **介紹**                                                                                                | **粵語配音**                                            | **国語配音**                         |
+| [金正泰](../Page/金正泰.md "wikilink")                   | 李江哲    | 奧茲娛樂老闆兼任麒麟藝高理事長，抱著天生直覺和經驗，過去發展一路成功，對自己的決策從未有過懷疑，也得到冷血的評價，把自己嚴厲的個性化為幽默很少斥責，卻總是笑裡藏刀，野心是把麒麟藝高變成奧茲娛樂的訓練所。 | [潘文柏](../Page/潘文柏.md "wikilink")                    | [于正昌](../Page/于正昌.md "wikilink") |
+| [權海驍](../Page/權海驍.md "wikilink")                   | 朱正烷    | 遊手好閒的老師，偷偷經營炸雞店債台高築，以前玩BAND時代有過交手的李江哲入主學校之後也威脅其校長地位。                                                  | [張炳強](../Page/張炳強.md "wikilink")                    | [李世揚](../Page/李世揚.md "wikilink") |
+| [嘉熙](https://zh.wikipedia.org/wiki/朴祉映 "wikilink") | 玄智秀    | 麒麟藝高新任舞蹈老師，奧茲舞蹈總監，前女子團體的中心代表出身，曾經說過「根本沒有女舞者」這樣的話，獨具一格。                                                | [朱妙蘭](../Page/朱妙蘭.md "wikilink")                    | [許淑嬪](../Page/許淑嬪.md "wikilink") |
+| [朴軫永](../Page/朴軫永.md "wikilink")                   | 楊真萬    | 麒麟藝高英文老師。原擔任舍監但已被解除職務，目前仍對當歌手懷抱夢想，雖然是英文老師卻會插手指導學生的舞蹈和唱歌。                                              | [葉振聲](../Page/葉振聲.md "wikilink")                    | [梁興昌](../Page/梁興昌.md "wikilink") |
+| [崔汝珍](../Page/崔汝珍.md "wikilink")                   | 安泰妍    | 麒麟藝高VOCAL教師，本身雖不至於有卓越的歌唱能力，但抱著補習班教師也都不見得通過司法考試的信念，對自身的歌唱實力也並不羞愧，對時尚有高度關心，甚至會因為外表歧視學生。                 | [曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink") | [楊凱凱](../Page/楊凱凱.md "wikilink") |
+| [尹熙錫](../Page/尹熙錫.md "wikilink")                   | 申在仁    |                                                                                                       | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink") | [李景唐](../Page/李景唐.md "wikilink") |
 
 ### 麒麟藝高學生
 
 |                                                         |                                                                                                                                                                                      |                                                                          |                                                     |                                                     |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------- |
 | **演員**                                                  | **角色**                                                                                                                                                                               | **介紹**                                                                   | **粵語配音**                                            | **国語配音**                                            |
-| [劉小英](https://zh.wikipedia.org/wiki/劉小英 "wikilink")     | 朴順童                                                                                                                                                                                  | 很有通靈性，自己很愛誇耀雖看不見鬼卻能聽到鬼說話，她所說的占卜之言雖不能信，卻因為聲音表情很有張力而吸引人，不過目前相信的人只有室友申海星一人。 | [林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink")                    |
+| [劉小英](../Page/劉小英.md "wikilink")                        | 朴順童                                                                                                                                                                                  | 很有通靈性，自己很愛誇耀雖看不見鬼卻能聽到鬼說話，她所說的占卜之言雖不能信，卻因為聲音表情很有張力而吸引人，不過目前相信的人只有室友申海星一人。 | [林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink") | [許淑嬪](../Page/許淑嬪.md "wikilink")                    |
 | [金志秀](../Page/金志秀.md "wikilink")                        | 朴弘洙                                                                                                                                                                                  | 綽號BGM。有高度親和力和幽默感和任何人都處得很好，雖想成為走遍各地的民謠歌手，卻很可惜被諧星般的外貌掩蓋住才能。                | [伍博民](../Page/伍博民.md "wikilink")                    | [李景唐](../Page/李景唐.md "wikilink")                    |
 | [珍榮](../Page/朴珍榮.md "wikilink")                         | 鄭義峰                                                                                                                                                                                  | 單純無知、易衝動，外表雖像不良少年內心卻很善良，特別是在女生就會不知所措，個性質樸到哪裡都睡得好。對李瑟有好感。                 | [關令翹](../Page/關令翹.md "wikilink")                    | [于正昌](../Page/于正昌.md "wikilink")                    |
 | [鄭妍珠](https://zh.wikipedia.org/wiki/鄭妍珠 "wikilink")     | 李瑟                                                                                                                                                                                   | 和外表單純比起來，是個笑也好哭也好都很擅長的女生，不善與人來往，從小被欺負到大，有著誰都不知道的祕密。                      | [成瑤孆](../Page/成瑤孆.md "wikilink")                    | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
@@ -111,7 +111,7 @@ School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 <td><p><strong>国語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/段宜恩" title="wikilink">Mark</a>（<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/段宜恩" title="wikilink">Mark</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
 <td><p>舞者</p></td>
 <td><p>第1集</p></td>
 <td></td>

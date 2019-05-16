@@ -189,7 +189,7 @@
 <li>#147 Akiho 西村アキホ</li>
 <li>#148 Iori みづき伊織</li>
 <li>#149 Sion 詩音</li>
-<li>#150 Eco <a href="../Page/eco_(AV女優).md" title="wikilink">eco</a></li>
+<li>#150 Eco <a href="https://zh.wikipedia.org/wiki/eco_(AV女優)" title="wikilink">eco</a></li>
 </ul>
 <ul>
 <li>#151 Kokomi <a href="../Page/成瀨心美.md" title="wikilink">成瀨心美</a></li>
@@ -326,12 +326,12 @@
 <ul>
 <li>#261 Saya 愛花沙也</li>
 <li>#262 Miu 彩乃みう</li>
-<li>#263 Haruki <a href="https://zh.wikipedia.org/wiki/佐藤遥希" title="wikilink">さとう遥希</a></li>
+<li>#263 Haruki <a href="../Page/佐藤遥希.md" title="wikilink">さとう遥希</a></li>
 <li>#264 Ai <a href="https://zh.wikipedia.org/wiki/上原亜衣" title="wikilink">上原亜衣</a></li>
 <li>#265 Sae 愛原さえ</li>
 <li>#266 Chisato 鮎川千里</li>
 <li>#267 Tsuna <a href="https://zh.wikipedia.org/wiki/木村都那" title="wikilink">木村つな</a></li>
-<li>#268 Yuuki <a href="https://zh.wikipedia.org/wiki/夏目優希" title="wikilink">夏目優希</a></li>
+<li>#268 Yuuki <a href="../Page/夏目優希.md" title="wikilink">夏目優希</a></li>
 <li>#269 Hirono 今井ひろの</li>
 <li>#270 Ayumi 岩佐あゆみ</li>
 </ul>

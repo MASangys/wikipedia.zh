@@ -1,7 +1,7 @@
 **Nomico**（，）是[日本的](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")、女演员。出生于[德岛县](../Page/德岛县.md "wikilink")。因翻唱[東方系列遊戲](../Page/東方.md "wikilink")[東方幻想鄉
 ～ Lotus Land
 Story.的](../Page/東方幻想鄉_～_Lotus_Land_Story..md "wikilink")[Bad
-Apple\!\!意外走紅](../Page/Bad_Apple!!.md "wikilink")，之後與唱片公司簽約。
+Apple\!\!意外走紅](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")，之後與唱片公司簽約。
 
 ## 人物
 
@@ -18,7 +18,7 @@ Apple\!\!意外走紅](../Page/Bad_Apple!!.md "wikilink")，之後與唱片公�
 
 ### 以nomico名义发布
 
-[minori](../Page/minori.md "wikilink")
+[minori](https://zh.wikipedia.org/wiki/minori "wikilink")
 
   - 想い出ダイアリー イメージソング《hollyhock》
   - morning glory and sunflower. イメージソング《Spiral Spring》
@@ -77,7 +77,8 @@ Apple\!\!意外走紅](../Page/Bad_Apple!!.md "wikilink")，之後與唱片公�
   - The Last Judgement
       - 09 The Last Judgement
   - Lovelight
-      - 02 [Bad Apple\!\!](../Page/Bad_Apple!!.md "wikilink")
+      - 02 [Bad
+        Apple\!\!](https://zh.wikipedia.org/wiki/Bad_Apple!! "wikilink")
         feat.nomico
   - Dolls
       - 03 Dreaming

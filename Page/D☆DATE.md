@@ -79,7 +79,7 @@ Entertainment。由日本男演員集團[D-BOYS中四位團員所組成](../Page
 ### 2013年
 
   - 1月1日、演唱會DVD『D☆DATE TOUR 2012 ～DATE A LIVE～7net限定版』發售。
-  - 1月6日、舉行新年大[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")，隊長荒木公佈新單曲將在海外拍攝PV。
+  - 1月6日、舉行新年大[握手會](../Page/握手會.md "wikilink")，隊長荒木公佈新單曲將在海外拍攝PV。
   - 1月30日、演唱會DVD『D☆DATE TOUR 2012 ～DATE A LIVE～通常版』發售。
   - 3月22日、發表第六張單曲［GLORY DAYS」共六個版本 預定在6月12日發售。
 

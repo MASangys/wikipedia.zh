@@ -1,4 +1,4 @@
-《**致命ID**》（），2003年美國[惊悚](https://zh.wikipedia.org/wiki/惊悚_\(类型\) "wikilink")[電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")，由[詹姆斯·曼高德执导](https://zh.wikipedia.org/wiki/詹姆斯·曼高德 "wikilink")，[约翰·库萨克](https://zh.wikipedia.org/wiki/约翰·库萨克 "wikilink")、[雷·利奥塔](https://zh.wikipedia.org/wiki/雷·利奥塔 "wikilink")、[阿曼达·皮特等主演](../Page/阿曼达·皮特.md "wikilink")。影片故事情节的灵感来自[阿加莎·克里斯蒂的小说](../Page/阿加莎·克里斯蒂.md "wikilink")《[无人生还](https://zh.wikipedia.org/wiki/无人生还 "wikilink")》。
+《**致命ID**》（），2003年美國[惊悚](https://zh.wikipedia.org/wiki/惊悚_\(类型\) "wikilink")[電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")，由[詹姆斯·曼高德执导](../Page/詹姆斯·曼高德.md "wikilink")，[约翰·库萨克](https://zh.wikipedia.org/wiki/约翰·库萨克 "wikilink")、[雷·利奥塔](https://zh.wikipedia.org/wiki/雷·利奥塔 "wikilink")、[阿曼达·皮特等主演](../Page/阿曼达·皮特.md "wikilink")。影片故事情节的灵感来自[阿加莎·克里斯蒂的小说](../Page/阿加莎·克里斯蒂.md "wikilink")《[无人生还](https://zh.wikipedia.org/wiki/无人生还 "wikilink")》。
 
 ## 劇情
 

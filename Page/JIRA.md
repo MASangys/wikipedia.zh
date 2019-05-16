@@ -50,7 +50,7 @@ Atlassian 宣称 JIRA 在全世界超过 122 个国家的 14,500 个项目中使
 Lab](https://zh.wikipedia.org/wiki/Linden_Lab "wikilink"),\[11\]
 [JBoss](https://zh.wikipedia.org/wiki/JBoss "wikilink"),\[12\] [Spring
 Framework](../Page/Spring_Framework.md "wikilink"),\[13\] [Zend
-Framework](../Page/Zend_Framework.md "wikilink"),\[14\]
+Framework](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink"),\[14\]
 [Hibernate](../Page/Hibernate.md "wikilink"),\[15\]
 [OpenSymphony](https://zh.wikipedia.org/wiki/OpenSymphony "wikilink"),\[16\]
 [Fedora Commons](../Page/Fedora.md "wikilink"),\[17\] [Codehaus

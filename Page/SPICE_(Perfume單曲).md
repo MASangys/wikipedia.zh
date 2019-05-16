@@ -1,5 +1,5 @@
 「**SPICE**」（）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第十四張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年11月2日發行。唱片公司為[Tokuma
-Japan Communications](https://zh.wikipedia.org/wiki/德間日本傳播 "wikilink")。
+Japan Communications](../Page/德間日本傳播.md "wikilink")。
 
 ## 解說
 

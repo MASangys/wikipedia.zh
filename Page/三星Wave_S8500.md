@@ -1,6 +1,6 @@
 **Samsung Wave
 S8500**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子於](../Page/三星電子.md "wikilink")2010年推出的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。該機為全球第一支使用[Samsung
-bada](../Page/bada.md "wikilink")、[Super
+bada](https://zh.wikipedia.org/wiki/bada "wikilink")、[Super
 AMOLED的手機](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")。\[1\]\[2\]\[3\]
 
 該手機搭載三星的Hummingbird處理器（S5PC110），其中包括1 GHz

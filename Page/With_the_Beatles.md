@@ -1,7 +1,7 @@
 《**With the
 Beatles**》是[英國搖滾樂](https://zh.wikipedia.org/wiki/英國 "wikilink")[披头四乐队的第二張](https://zh.wikipedia.org/wiki/披头四乐队 "wikilink")[錄音室專輯](../Page/音樂專輯.md "wikilink")。在樂隊灌錄首張大碟《[Please
 Please
-Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》四個月之後的1963年11月22日，由[Parlophone唱片公司發行](https://zh.wikipedia.org/wiki/Parlophone "wikilink")\[1\]。這張專輯有八首原創歌曲（[連儂/麥卡尼合作的佔七首](https://zh.wikipedia.org/wiki/列侬–麦卡特尼 "wikilink")；《*Don't
+Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》四個月之後的1963年11月22日，由[Parlophone唱片公司發行](https://zh.wikipedia.org/wiki/Parlophone "wikilink")\[1\]。這張專輯有八首原創歌曲（[連儂/麥卡尼合作的佔七首](../Page/列侬–麦卡特尼.md "wikilink")；《*Don't
 Bother
 Me*》是[佐治·夏里遜的第一首個人錄音作品](https://zh.wikipedia.org/wiki/佐治·夏里遜 "wikilink")，也是第一次發行在披頭四專輯的歌曲），和六首[翻唱作品](https://zh.wikipedia.org/wiki/翻唱 "wikilink")（大多是[摩城音樂](https://zh.wikipedia.org/wiki/摩城唱片 "wikilink")，[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")，和[藍調節奏的歌曲](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")）\[2\]。唱片封套由時尚攝影師[羅伯特·弗里曼拍攝](https://zh.wikipedia.org/wiki/羅伯特·弗里曼 "wikilink")，多年來是其他樂隊的模仿對象。1964年1月20日，專輯中大多數的歌曲由[Capitol唱片公司於美國發行](https://zh.wikipedia.org/wiki/Capitol唱片 "wikilink")，專輯名為《Meet
 the Beatles\!》\[3\]。
@@ -29,7 +29,7 @@ Beatles》專輯在《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 
 
 ## 唱片曲目
 
-  - 曲詞作者「[列侬–麦卡特尼](https://zh.wikipedia.org/wiki/列侬–麦卡特尼 "wikilink")」及[乔治·哈里森為披頭四作品](../Page/乔治·哈里森.md "wikilink")，其他為翻唱歌曲。
+  - 曲詞作者「[列侬–麦卡特尼](../Page/列侬–麦卡特尼.md "wikilink")」及[乔治·哈里森為披頭四作品](../Page/乔治·哈里森.md "wikilink")，其他為翻唱歌曲。
 
 <table>
 <thead>

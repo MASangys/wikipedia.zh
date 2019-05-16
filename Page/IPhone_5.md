@@ -1,9 +1,9 @@
 **iPhone
-5**是由[蘋果公司開發的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是第六代的[iPhone並繼承前一代的](../Page/iPhone.md "wikilink")[iPhone
-4S](../Page/iPhone_4S.md "wikilink")。
+5**是由[蘋果公司開發的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是第六代的[iPhone並繼承前一代的](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPhone
+4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")。
 
 外觀設計被重新塑造為半金屬的三段式機身，比較以前的產品，更薄、更輕，及擁有更高解析度及更廣闊的4英寸觸控式螢幕，加長但不加寬確保了單手操作的握感，支持[16:9寬屏幕格式](https://zh.wikipedia.org/wiki/16:9 "wikilink")。這款手機包括了一個自定義設計的ARMv7處理器的[蘋果A6的更新](https://zh.wikipedia.org/wiki/蘋果A6 "wikilink")、[iOS
-6操作系统](../Page/iOS_6.md "wikilink")，並且支持3.9G級別的[LTE高速行動網路](https://zh.wikipedia.org/wiki/LTE "wikilink")。
+6操作系统](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")，並且支持3.9G級別的[LTE高速行動網路](https://zh.wikipedia.org/wiki/LTE "wikilink")。
 
 蘋果於2012年9月12日正式推出iPhone
 5，於9月14日開始接受訂單的24小時內，總共收到逾200萬的預購數量，預購售罄的速度比較前一代快速了20倍。於2012年9月21日正式發售。
@@ -11,12 +11,13 @@
 ## 历史
 
 在[苹果公司发布](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone
-4S后](../Page/iPhone_4S.md "wikilink")，就有关于iPhone
+4S后](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")，就有关于iPhone
 5的傳言，直到2012年5月，才有具体的参数流出\[1\]。7月，一些网站放出了iPhone
 5的具体参数，聲称[苹果公司将会在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")9月发布iPhone
 5\[2\]。9月4日，苹果公司向[媒体寄出了定于](https://zh.wikipedia.org/wiki/媒介 "wikilink")9月12日的[苹果发布会邀请函在揭幕儀式上](https://zh.wikipedia.org/wiki/苹果发布会邀请函 "wikilink")，蘋果公司宣布推出iPhone
-5\[3\]的同時還推出了新的[iPod Nano和](../Page/iPod_Nano.md "wikilink")[iPod
-touch機型](../Page/iPod_touch.md "wikilink")。他們還指出，前期訂單將會於2012年9月14日開始接受。新手機的需求遠超其前身的所有產品，在24小時內收到逾200萬的預購訂單，iPhone5還創下前3日​銷售逾500萬部的記錄。\[4\]。
+5\[3\]的同時還推出了新的[iPod
+Nano和](https://zh.wikipedia.org/wiki/iPod_Nano "wikilink")[iPod
+touch機型](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。他們還指出，前期訂單將會於2012年9月14日開始接受。新手機的需求遠超其前身的所有產品，在24小時內收到逾200萬的預購訂單，iPhone5還創下前3日​銷售逾500萬部的記錄。\[4\]。
 
 2013年9月10日，蘋果在推出[iPhone
 5s和](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")[iPhone
@@ -36,14 +37,14 @@ SGX543MP4。運算速度為前代[A5的兩倍](../Page/Apple_A5.md "wikilink")�
 5能夠支援8小時通話或者8小時[3G上網](../Page/3G.md "wikilink")、8小時[LTE上網](https://zh.wikipedia.org/wiki/LTE "wikilink")、10小時WiFi上網、10小時影片播放，待機時間達到225小時，比較以往型號長久。
 
 同時，支援[LTE網絡](https://zh.wikipedia.org/wiki/LTE "wikilink")，使得仰賴行動寬頻與高速聯網的雲端、串流、影視等得以实现，內建[iOS
-6作業系統](../Page/iOS_6.md "wikilink")，首次內建[蘋果地圖](https://zh.wikipedia.org/wiki/蘋果地圖 "wikilink")。
+6作業系統](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")，首次內建[蘋果地圖](../Page/蘋果地圖.md "wikilink")。
 
 iPhone
 5採用了全新設計[Lightning的双面](../Page/Lightning接头.md "wikilink")8針介面，取代了以往的30針介面。Lightning接头不需區分正反面，可以随意插入设备中。
 
 外形方面除了金屬機身之外，iPhone
 5的厚度為7.6mm，仍然採用800萬[像素](../Page/像素.md "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")，前置鏡頭由30萬[像素提升至](../Page/像素.md "wikilink")120萬[像素](../Page/像素.md "wikilink")，同時包含黑色和白色兩種機身顏色。重量較[iPhone
-4S輕](../Page/iPhone_4S.md "wikilink")20%，薄18%。
+4S輕](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")20%，薄18%。
 
 ## 销售
 
@@ -70,7 +71,7 @@ Gross的文章，列舉了包括黑色版掉漆、白色版漏光在内的iPhone
 
 ## 相关条目
 
-  - [iPhone](../Page/iPhone.md "wikilink")
+  - [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
 
 ## 引用参考
 

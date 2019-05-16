@@ -159,7 +159,7 @@
 <td><p>1.09</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/瑞典商业银行" title="wikilink">瑞典商业银行</a></p></td>
+<td><p><a href="../Page/瑞典商业银行.md" title="wikilink">瑞典商业银行</a></p></td>
 <td><p>银行</p></td>
 <td></td>
 <td><p>4.48</p></td>

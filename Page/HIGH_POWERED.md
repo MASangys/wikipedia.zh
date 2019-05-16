@@ -1,5 +1,5 @@
 「**HIGH
-POWERED**」是[sphere的第](../Page/sphere_\(聲優團體\).md "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年10月26日由[GloryHeaven發售](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")。
+POWERED**」是[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年10月26日由[GloryHeaven發售](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")。
 
 ## 概要
 

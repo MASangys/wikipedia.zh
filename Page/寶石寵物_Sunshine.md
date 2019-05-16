@@ -34,7 +34,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的後作，但是�
   - [生產者](https://zh.wikipedia.org/wiki/生產者 "wikilink")：奈良初男、可知秀幸、大野亮介
   - [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[生產者](https://zh.wikipedia.org/wiki/生產者 "wikilink")：關山晃弘
   - [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[製作](../Page/製作.md "wikilink")：[STUDIO
-    COMET](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")
+    COMET](../Page/STUDIO_COMET.md "wikilink")
   - [製作](../Page/製作.md "wikilink")：[東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、We've
 
 ## 主題曲

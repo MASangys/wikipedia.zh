@@ -13,8 +13,8 @@ Pyramid**是[日本的藝能事務所](../Page/日本.md "wikilink")。1987年�
   - [鈴木紗理奈](https://zh.wikipedia.org/wiki/鈴木紗理奈 "wikilink")
   - [瀨尾秋子](https://zh.wikipedia.org/wiki/瀨尾秋子 "wikilink")
   - [富樫梓](../Page/富樫梓.md "wikilink")
-  - [夏川純](https://zh.wikipedia.org/wiki/夏川純 "wikilink")
-  - [安田美沙子](https://zh.wikipedia.org/wiki/安田美沙子 "wikilink")
+  - [夏川純](../Page/夏川純.md "wikilink")
+  - [安田美沙子](../Page/安田美沙子.md "wikilink")
   - [米澤瑠美](../Page/米澤瑠美.md "wikilink")（前AKB48）
   - [和田繪莉](https://zh.wikipedia.org/wiki/和田繪莉 "wikilink")
 

@@ -146,7 +146,7 @@ The Voice of China </p></td>
  <a href="https://zh.wikipedia.org/wiki/中天电视台" title="wikilink">中天电视台</a><small>（第2季）</small><br />
  <a href="https://zh.wikipedia.org/wiki/新传媒8频道" title="wikilink">新传媒8频道</a><small>（第3季）</small><br />
  <a href="https://zh.wikipedia.org/wiki/八度空间" title="wikilink">八度空间</a><small>（第3季）<br />
- <a href="../Page/now香港台.md" title="wikilink">now香港台</a><small>（第3-4季）</p></td>
+ <a href="https://zh.wikipedia.org/wiki/now香港台" title="wikilink">now香港台</a><small>（第3-4季）</p></td>
 <td><p>第一季 2012年7月13日：</small><br />
  梁博[3]<br />
 第二季 2013年7月12日:</small><br />
@@ -165,7 +165,7 @@ The Voice of China </p></td>
  <a href="https://zh.wikipedia.org/wiki/齐秦" title="wikilink">齐秦</a><small>（第3季）</small><br />
  <a href="../Page/周杰倫.md" title="wikilink">周杰倫</a><small>（第4季）</small></p></td>
 <td><p></small><br />
- <a href="https://zh.wikipedia.org/wiki/华少" title="wikilink">华少</a><br />
+ <a href="../Page/华少.md" title="wikilink">华少</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、后台主持）</small></p></td>
 </tr>
 <tr class="odd">
@@ -241,7 +241,7 @@ Florent Pagny (2012 - 2018)<br />
 <td></td>
 <td><p>The Voice of Germany</p></td>
 <td><p>ProSieben<br />
-<a href="https://zh.wikipedia.org/wiki/Sat.1" title="wikilink">Sat.1</a></p></td>
+<a href="../Page/Sat.1.md" title="wikilink">Sat.1</a></p></td>
 <td><p>第一季 2011-2012：Ivy Quainoo</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Xavier_Naidoo" title="wikilink">Xavier Naidoo</a><br />
 <a href="https://zh.wikipedia.org/wiki/Lena" title="wikilink">Lena</a><br />
@@ -463,7 +463,7 @@ Gill</p></td>
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Giọng_hát_Việt" title="wikilink">Giọng hát Việt</a> – <a href="https://zh.wikipedia.org/wiki/The_Voice_of_Vietnam" title="wikilink">The Voice of Vietnam</a><br />
-<small>（，<a href="https://zh.wikipedia.org/wiki/越南之聲_(真人秀)" title="wikilink">越南之聲</a>）</small><br />
+<small>（，<a href="../Page/越南之聲_(真人秀).md" title="wikilink">越南之聲</a>）</small><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/越南电视台" title="wikilink">VTV</a></p></td>
 <td><p>第一季 2012-2013：范氏香槛<br />

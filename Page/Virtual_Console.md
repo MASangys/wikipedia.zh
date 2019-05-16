@@ -7,7 +7,7 @@ FC）、[超級任天堂](../Page/超級任天堂.md "wikilink")（簡稱 SFC）
 64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink")（簡稱 N64）、[Mega
 Drive](../Page/Mega_Drive.md "wikilink")（簡稱
 MD）、[PC-Engine](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")（簡稱
-PCE）、[MSX](https://zh.wikipedia.org/wiki/MSX "wikilink")、[NEOGEO等數種懷舊主機的部份遊戲軟體](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")。Virtual
+PCE）、[MSX](../Page/MSX.md "wikilink")、[NEOGEO等數種懷舊主機的部份遊戲軟體](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")。Virtual
 Console的遊戲取得方式是經由[網際網路下載](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，大部分需要付費。目前預定有諸如
 [CAPCOM](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")、[KONAMI](https://zh.wikipedia.org/wiki/KONAMI "wikilink")
 等24家軟體公司已決定提供軟體。
@@ -48,10 +48,10 @@ Console在Wii U和任天堂3DS平台繼續營運中。
 | [FC](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")                    | ○          | ○     | ○           |
 | [SFC](https://zh.wikipedia.org/wiki/SFC "wikilink")                     | ×          | ○     | ▲           |
 | [NINTENDO64](https://zh.wikipedia.org/wiki/NINTENDO64 "wikilink")       | ×          | ○     | ○           |
-| [MEGA DRIVE](../Page/MEGA_DRIVE.md "wikilink")                          | ▲          | ○     | ○           |
+| [MEGA DRIVE](https://zh.wikipedia.org/wiki/MEGA_DRIVE "wikilink")       | ▲          | ○     | ○           |
 | [PC Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")         | ▲          | ○     | ○           |
 | [NEOGEO](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")               | ▲          | ○     | ○           |
-| [MSX](https://zh.wikipedia.org/wiki/MSX "wikilink")                     | *依遊戲不同而支援* |       |             |
+| [MSX](../Page/MSX.md "wikilink")                                        | *依遊戲不同而支援* |       |             |
 | [Master System](https://zh.wikipedia.org/wiki/Master_System "wikilink") | ○          | ○     | ○           |
 
 【記號說明】

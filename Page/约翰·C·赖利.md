@@ -368,7 +368,7 @@ Also Writer/Producer</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/无敌破坏王" title="wikilink">无敌破坏王</a></p></td>
+<td><p><a href="../Page/无敌破坏王.md" title="wikilink">无敌破坏王</a></p></td>
 <td><p>Wreck-it Ralph</p></td>
 <td><p>配音</p></td>
 <td></td>

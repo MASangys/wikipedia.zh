@@ -40,7 +40,7 @@ LIVE\!\! 「 We are the ONE in TAIWAN」\[2\]。
 → Mist of Rouge(皐姫) → ソロ(幸樹) → D=OUT
 
   -   - 10月21日出生、[兵庫県](https://zh.wikipedia.org/wiki/兵庫県 "wikilink")[神戸市出身](https://zh.wikipedia.org/wiki/神戸市 "wikilink")、天秤座、AB型、身高183cm、體重63kg。
-      - 愛讀刊物是[週刊少年JUMP](../Page/週刊少年JUMP.md "wikilink")。
+      - 愛讀刊物是[週刊少年JUMP](https://zh.wikipedia.org/wiki/週刊少年JUMP "wikilink")。
       - [12012的塩谷朋之是高中時代的同學](../Page/12012.md "wikilink")、也是Mist of
         Rouge時期的成員。
       - 喜歡的品牌：Louis Vuitton、Justin Davis 、L.H.P.、B'2nd、adidas
@@ -103,7 +103,7 @@ LIVE\!\! 「 We are the ONE in TAIWAN」\[2\]。
       - 喜歡的品牌：And A　SCHLUSSE。
       - 香菸品牌：Marlboro Light。
       - 使用的香水：Dolce Light Blue。
-      - 尊敬的人：[美輪明宏](https://zh.wikipedia.org/wiki/美輪明宏 "wikilink")。
+      - 尊敬的人：[美輪明宏](../Page/美輪明宏.md "wikilink")。
 
 ## 音樂作品
 

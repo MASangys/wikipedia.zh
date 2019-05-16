@@ -733,8 +733,7 @@ Girls的「暗殺部隊」。實際上除了剎那一隊是作為戰鬥部隊外
 ## 參見
 
   - [NEEDLESS原著漫畫](https://zh.wikipedia.org/wiki/NEEDLESS "wikilink")
-  - [NEEDLESS
-    (動畫)](https://zh.wikipedia.org/wiki/NEEDLESS_\(動畫\) "wikilink")
+  - [NEEDLESS (動畫)](../Page/NEEDLESS_\(動畫\).md "wikilink")
   - [NEEDLESS能力列表](https://zh.wikipedia.org/wiki/NEEDLESS能力列表 "wikilink")
 
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

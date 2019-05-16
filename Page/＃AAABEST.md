@@ -1,5 +1,5 @@
 《**\#AAABEST**》（《\#AAA極精選》）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")2枚精選專輯。於2011年9月14日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

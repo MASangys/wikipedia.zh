@@ -19,7 +19,7 @@ Roomba利用一對旋轉方向相反的電刷從地上撿起灰塵，灰塵隨�
 
 ## 参见
 
-  - [自動吸塵機](https://zh.wikipedia.org/wiki/機器人吸塵器 "wikilink")
+  - [自動吸塵機](../Page/機器人吸塵器.md "wikilink")
   - [ASIMO](../Page/ASIMO.md "wikilink")
   - [AIBO](../Page/AIBO.md "wikilink")
 

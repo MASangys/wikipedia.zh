@@ -41,9 +41,8 @@ Children。隆威在樂隊中負責低音結他、二胡、小提琴、鍵琴等
 的[小提琴手Winnie](../Page/小提琴.md "wikilink") Lau 隨Modern
 Children到[日本](../Page/日本.md "wikilink")[小豆島的](../Page/小豆島.md "wikilink")《瀬戸內國際芸術祭》中作嘉賓表演。到2010年尾，她決定加入樂隊，並負責[小提琴及和唱等崗位](../Page/小提琴.md "wikilink")。2011年1月，樂隊為由袁智聰舉辦的《公園好聲》表演，是次也是首次以六人組合作第一次的演出。
 
-2011年11月27日，樂隊以[iPhone](../Page/iPhone.md "wikilink")
-App形式推出首張同名大碟，免費供聽眾們下載。\[3\]
-12月17日，單曲《Mongolia》成為RTHK環球榜Hong Kong Top
+2011年11月27日，樂隊以[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
+App形式推出首張同名大碟，免費供聽眾們下載。\[3\] 12月17日，單曲《Mongolia》成為RTHK環球榜Hong Kong Top
 Ten第十位。直到2012年1月7日，成為環球榜第一位。
 
 2012年1月14日，舉辦Come Come Come Sun 演歌會，同場更推出首張實體CD。同日，《Tree Of

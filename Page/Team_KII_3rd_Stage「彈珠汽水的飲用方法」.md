@@ -101,7 +101,7 @@ KII的歌迷轉述一句話。請讓我們做（自己的原創）公演！」\[
 <td><p>8</p></td>
 <td><p><strong>撒謊的駝鳥</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河原嶺旭" title="wikilink">河原嶺旭</a></p></td>
+<td><p><a href="../Page/河原嶺旭.md" title="wikilink">河原嶺旭</a></p></td>
 <td><p>Tak Miyazawa</p></td>
 <td></td>
 </tr>
@@ -217,7 +217,7 @@ KII的歌迷轉述一句話。請讓我們做（自己的原創）公演！」\[
   - 在「AKB48集團大組閣祭」後，由新隊長古川愛李帶領的Team KII再次演出這台公演。
   - 公演期間︰2014年4月30日至2016年5月24日
   - 出演成員
-      - [阿比留李帆](../Page/阿比留李帆.md "wikilink")、[荒井優希](https://zh.wikipedia.org/wiki/荒井優希 "wikilink")、[石田安奈](../Page/石田安奈.md "wikilink")、[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[江籠裕奈](https://zh.wikipedia.org/wiki/江籠裕奈 "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[加藤智子](https://zh.wikipedia.org/wiki/加藤智子 "wikilink")、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[古畑奈和](https://zh.wikipedia.org/wiki/古畑奈和 "wikilink")、[水埜帆乃香](https://zh.wikipedia.org/wiki/水埜帆乃香 "wikilink")、[山下由加里](https://zh.wikipedia.org/wiki/山下由加里 "wikilink")（）、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")（）
+      - [阿比留李帆](../Page/阿比留李帆.md "wikilink")、[荒井優希](https://zh.wikipedia.org/wiki/荒井優希 "wikilink")、[石田安奈](../Page/石田安奈.md "wikilink")、[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[加藤智子](https://zh.wikipedia.org/wiki/加藤智子 "wikilink")、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[水埜帆乃香](https://zh.wikipedia.org/wiki/水埜帆乃香 "wikilink")、[山下由加里](https://zh.wikipedia.org/wiki/山下由加里 "wikilink")（）、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")（）
 
 <!-- end list -->
 
@@ -237,7 +237,7 @@ KII的歌迷轉述一句話。請讓我們做（自己的原創）公演！」\[
 
 《**彈珠汽水的飲用方法**》（）是[SKE48](../Page/SKE48.md "wikilink") Team
 KII的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2012年3月14日由[avex
-trax發售](../Page/avex_trax.md "wikilink")。\[14\]專輯發售首週以約2.1萬張的銷量獲得[Oricon公信榜周榜第](../Page/Oricon公信榜.md "wikilink")6位。\[15\]
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。\[14\]專輯發售首週以約2.1萬張的銷量獲得[Oricon公信榜周榜第](../Page/Oricon公信榜.md "wikilink")6位。\[15\]
 
   - 收录成员
       -

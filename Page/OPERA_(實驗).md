@@ -1,10 +1,10 @@
 **OPERA**（）是一項旨在檢測[中微子振蕩現象的實驗](https://zh.wikipedia.org/wiki/中微子振蕩 "wikilink")。此項實驗運用位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[日內瓦的](https://zh.wikipedia.org/wiki/日內瓦 "wikilink")[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")[超級質子同步加速器產生的高強度](../Page/超級質子同步加速器.md "wikilink")、高能量的CNGS（CERN
 Neutrinos to Gran
-Sasso）[μ中微子束向](../Page/μ中微子.md "wikilink")730公里之外、位於意大利中部山区的的地下實驗室傳送。
+Sasso）[μ中微子束向](https://zh.wikipedia.org/wiki/μ中微子 "wikilink")730公里之外、位於意大利中部山区的的地下實驗室傳送。
 
 ## 實驗項目
 
-2010年5月31日，OPERA公布了首例從μ中微子束中觀測到的[τ中微子現象](../Page/τ中微子.md "wikilink")\[1\]。
+2010年5月31日，OPERA公布了首例從μ中微子束中觀測到的[τ中微子現象](https://zh.wikipedia.org/wiki/τ中微子 "wikilink")\[1\]。
 
 ## 超光速檢測
 

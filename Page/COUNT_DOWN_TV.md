@@ -100,7 +100,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 </tr>
 <tr class="odd">
 <td><p>年間</p></td>
-<td><p><a href="../Page/innocent_world.md" title="wikilink">innocent world</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/innocent_world" title="wikilink">innocent world</a></p></td>
 <td><p><a href="../Page/Mr.Children.md" title="wikilink">Mr.Children</a></p></td>
 <td></td>
 </tr>
@@ -155,7 +155,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <td><p>2001年</p></td>
 <td><p>上半期<br />
 年間</p></td>
-<td><p><a href="../Page/Can_You_Keep_A_Secret?.md" title="wikilink">Can You Keep A Secret?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret?" title="wikilink">Can You Keep A Secret?</a></p></td>
 <td><p>宇多田光</p></td>
 </tr>
 <tr class="even">
@@ -213,7 +213,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="even">
 <td><p>2008年</p></td>
 <td><p>上半期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/留在我身邊" title="wikilink">留在我身邊</a></p></td>
+<td><p><a href="../Page/留在我身邊.md" title="wikilink">留在我身邊</a></p></td>
 <td><p><a href="../Page/青山黛瑪.md" title="wikilink">青山黛瑪</a> feat. <a href="../Page/SoulJa.md" title="wikilink">SoulJa</a></p></td>
 </tr>
 <tr class="odd">
@@ -268,7 +268,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p>上半期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/再見自由式" title="wikilink">再見自由式</a></p></td>
+<td><p><a href="../Page/再見自由式.md" title="wikilink">再見自由式</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -280,7 +280,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>上半期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉布拉多獵犬_(AKB48單曲)" title="wikilink">拉布拉多獵犬</a></p></td>
+<td><p><a href="../Page/拉布拉多獵犬_(AKB48單曲).md" title="wikilink">拉布拉多獵犬</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -329,7 +329,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <td><p>2018年</p></td>
 <td><p>上半期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lemon_(米津玄師歌曲)" title="wikilink">Lemon</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米津玄師" title="wikilink">米津玄師</a></p></td>
+<td><p><a href="../Page/米津玄師.md" title="wikilink">米津玄師</a></p></td>
 </tr>
 <tr class="even">
 <td><p>年間</p></td>
@@ -418,7 +418,7 @@ TV**》（）是1993年4月8日（4月7日深夜）開始在[TBS](../Page/TBS電
 <tr class="even">
 <td><p>5週年</p></td>
 <td><p>1998年<a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DIVE_TO_BLUE" title="wikilink">DIVE TO BLUE</a></p></td>
+<td><p><a href="../Page/DIVE_TO_BLUE.md" title="wikilink">DIVE TO BLUE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/L&#39;Arc〜en〜Ciel" title="wikilink">L'Arc〜en〜Ciel</a></p></td>
 </tr>
 <tr class="odd">
@@ -577,7 +577,7 @@ V6</p></td>
 <tr class="even">
 <td><p>1000</p></td>
 <td><p>2013年<a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真心電流" title="wikilink">ハート・エレキ</a></p></td>
+<td><p><a href="../Page/真心電流.md" title="wikilink">ハート・エレキ</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 </tr>
 <tr class="odd">

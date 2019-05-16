@@ -1,6 +1,6 @@
 《**Another side of
 \#AAABEST**》（《\#AAA極B面精選》）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")3枚精選專輯。於2012年3月21日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -13,14 +13,14 @@ trax](../Page/avex_trax.md "wikilink")。
     /
     I4U](https://zh.wikipedia.org/wiki/CALL_/_I4U "wikilink")」的「I4U」，以及於2011年3月時以TanoCa配信形式發售的「[Thank
     you](https://zh.wikipedia.org/wiki/Thank_you "wikilink")」。
-  - 除了單曲，此專輯更收錄第4張專輯「[depArture](../Page/depArture.md "wikilink")」的「HORIZON」、「Jamboree\!\!」和「邂逅的力量Ⅲ」；第5張專輯「[HEARTFUL](../Page/HEARTFUL.md "wikilink")」的「Believe
+  - 除了單曲，此專輯更收錄第4張專輯「[depArture](https://zh.wikipedia.org/wiki/depArture "wikilink")」的「HORIZON」、「Jamboree\!\!」和「邂逅的力量Ⅲ」；第5張專輯「[HEARTFUL](../Page/HEARTFUL.md "wikilink")」的「Believe
     own way」和「As I am」、第6張專輯「[Buzz
     Communication](../Page/Buzz_Communication.md "wikilink")」的「Love@1st
     Sight」、「one more tomorrow」和「STEP」。
   - 本作分「初回限定盤（Jacket A 2CDs+DVD）」、「Jacket B CD+DVD」、「Jacket C
     CD盤」和「mu-mo shop限定盤」4種版本。
   - 「初回限定盤（Jacket A 2CDs+DVD）」追加收錄7首成員獨唱歌曲。
-  - 此專輯的DVD收錄了第18張單曲「BEYOND～超越極限」至第31張單曲「[SAILING](../Page/SAILING.md "wikilink")」，以及第4張專輯「[depArture](../Page/depArture.md "wikilink")」至第6張專輯「[Buzz
+  - 此專輯的DVD收錄了第18張單曲「BEYOND～超越極限」至第31張單曲「[SAILING](../Page/SAILING.md "wikilink")」，以及第4張專輯「[depArture](https://zh.wikipedia.org/wiki/depArture "wikilink")」至第6張專輯「[Buzz
     Communication](../Page/Buzz_Communication.md "wikilink")」，共9首非主打曲、B面曲和專輯收錄曲的PV。
   - 在4月2日於公信榜專輯週排行榜取得第4位。
 
@@ -40,15 +40,15 @@ trax](../Page/avex_trax.md "wikilink")。
       -
         20th單曲・[關西電視台電視劇](../Page/關西電視台.md "wikilink")「新世紀莎士比亞」主題曲
         「啟程之歌」的B面曲
-3.  **[HORIZON](../Page/depArture.md "wikilink")**
+3.  **[HORIZON](https://zh.wikipedia.org/wiki/depArture "wikilink")**
     （作詞：カミカオル 作曲：カミカオル、Tomokazu Matsuzawa Rap詞：日高光啓）
       -
         4th專輯「depArture」曲目
-4.  **[Jamboree\!\!](../Page/depArture.md "wikilink")**
+4.  **[Jamboree\!\!](https://zh.wikipedia.org/wiki/depArture "wikilink")**
     （作詞：leonn 作曲・編曲：日比野裕史）
       -
         4th專輯「depArture」曲目
-5.  **[邂逅的力量Ⅲ](../Page/depArture.md "wikilink")**（出逢いのチカラⅢ）
+5.  **[邂逅的力量Ⅲ](https://zh.wikipedia.org/wiki/depArture "wikilink")**（出逢いのチカラⅢ）
     （作詞：Kenn Kato 作曲：BOUNCEBACK 編曲：土肥真生）
       -
         4th專輯「depArture」曲目

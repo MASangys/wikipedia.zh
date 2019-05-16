@@ -68,7 +68,7 @@ Cube所屬的](https://zh.wikipedia.org/wiki/Style_Cube "wikilink")[女性](../P
     CELEBRATION](https://zh.wikipedia.org/wiki/THE_LIGHTNING_CELEBRATION "wikilink")」發售。
   - 4月24日、成員[小倉唯](../Page/小倉唯.md "wikilink")、[石原夏織宣布將從StylipS畢業](../Page/石原夏織.md "wikilink")。
   - 4月27日、Style
-    Cube研修生[豐田萌繪](https://zh.wikipedia.org/wiki/豐田萌繪 "wikilink")、[伊藤美來正式加入](https://zh.wikipedia.org/wiki/伊藤美來 "wikilink")。
+    Cube研修生[豐田萌繪](../Page/豐田萌繪.md "wikilink")、[伊藤美來正式加入](../Page/伊藤美來.md "wikilink")。
   - 7月24日、新生StylipS的4th單曲「Prism Sympathy」發售。
 
 ## 唱片
@@ -239,7 +239,7 @@ LACM-34196（DVD附）</p></td>
 </tr>
 <tr class="even">
 <td><p>Resonant world</p></td>
-<td><p>PS3遊戲『<a href="https://zh.wikipedia.org/wiki/妖精劍士f" title="wikilink">妖精劍士f</a>』片頭曲</p></td>
+<td><p>PS3遊戲『<a href="../Page/妖精劍士f.md" title="wikilink">妖精劍士f</a>』片頭曲</p></td>
 </tr>
 </tbody>
 </table>

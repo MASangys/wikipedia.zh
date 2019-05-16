@@ -10,7 +10,7 @@ NAKASHIMA」名義發行的第16張[單曲和代表作之一](https://zh.wikiped
     END](../Page/THE_END.md "wikilink")**」中。
   - 作曲人為知名樂團「[L'Arc\~en\~Ciel](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")」的主唱[HYDE](https://zh.wikipedia.org/wiki/hyde "wikilink")，填詞人則為「[NANA](../Page/NANA.md "wikilink")」的原作者[矢澤愛](../Page/矢澤愛.md "wikilink")。
   - Original Version的電視披露是於「[Music
-    Station](../Page/Music_Station.md "wikilink")」，當時HYDE亦作為吉他手出席。而在年末所有音樂節目時都只演唱了Acoustic
+    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」，當時HYDE亦作為吉他手出席。而在年末所有音樂節目時都只演唱了Acoustic
     Version。
   - 四年後，作曲人HYDE的精選輯「**HYDE**」中翻唱了「GLAMOROUS SKY」的英文版本。
   - 由於新曲眾多，日本唱片協會認證本作為專輯而非單曲。

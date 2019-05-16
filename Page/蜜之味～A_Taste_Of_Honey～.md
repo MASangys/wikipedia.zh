@@ -22,7 +22,7 @@ Honey～**》（），[日本](../Page/日本.md "wikilink")[富士電視台於]
 
   - 則杉康志：[溝端淳平](../Page/溝端淳平.md "wikilink")
   - 栗山和氣：[市川知宏](https://zh.wikipedia.org/wiki/市川知宏 "wikilink")
-  - 賴陽華：[木村文乃](https://zh.wikipedia.org/wiki/木村文乃 "wikilink")
+  - 賴陽華：[木村文乃](../Page/木村文乃.md "wikilink")
   - 瀧之原幸一：[森廉](https://zh.wikipedia.org/wiki/森廉 "wikilink")
   - 蓑屋進：[近藤公園](https://zh.wikipedia.org/wiki/近藤公園 "wikilink")
 
@@ -48,8 +48,8 @@ Honey～**》（），[日本](../Page/日本.md "wikilink")[富士電視台於]
 
 ## 主題曲
 
-  - [aiko](../Page/aiko.md "wikilink")
-    《[一直](https://zh.wikipedia.org/wiki/一直_\(aiko單曲\) "wikilink")》（）\[2\]
+  - [aiko](https://zh.wikipedia.org/wiki/aiko "wikilink")
+    《[一直](../Page/一直_\(aiko單曲\).md "wikilink")》（）\[2\]
 
 ## 收視率
 

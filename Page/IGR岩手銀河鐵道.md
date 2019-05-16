@@ -2,7 +2,7 @@
 
 ## 歷史
 
-IGR的成立理由，可以追溯到東北新幹線盛岡至[八戶間路段的通車](https://zh.wikipedia.org/wiki/八戶車站 "wikilink")。根據日本的[新幹線相關法規](../Page/新幹線.md "wikilink")，新設的新幹線路線在通車之後，原本與其平行的[在來線路線](../Page/在來線.md "wikilink")（稱為「並行在來線」）不可因此而廢線，而是必須轉移給地方政府以第三部門企業的型態持續經營，以確保當地居民的交通便利。東北新幹線盛岡與八戶間路段通車之後，對應的[東北本線部分路段即由原本經營的JR東日本釋放而出](../Page/東北本線.md "wikilink")，轉移給沿途的岩手與[青森兩縣經營](../Page/青森縣.md "wikilink")。其中位在岩手縣境內的盛岡至目時之間路段，由岩手縣所成立的IGR接手經營，並改名為「[岩手銀河鐵道線](https://zh.wikipedia.org/wiki/岩手銀河鐵道線 "wikilink")」。而目時到[青森間](https://zh.wikipedia.org/wiki/青森車站 "wikilink")、位於青森縣境內的路段，則是由青森縣成立的[青森鐵道](../Page/青森鐵道.md "wikilink")（）負責，並改名為「[青森鐵道線](https://zh.wikipedia.org/wiki/青森鐵道線 "wikilink")」。由於距離兩縣邊界最近的目時實際上是位於青森縣境內而歸屬青森鐵道，因此IGR擁有的路段，嚴格來說只有到目時車站的站區南方之兩縣分界點而已。
+IGR的成立理由，可以追溯到東北新幹線盛岡至[八戶間路段的通車](https://zh.wikipedia.org/wiki/八戶車站 "wikilink")。根據日本的[新幹線相關法規](../Page/新幹線.md "wikilink")，新設的新幹線路線在通車之後，原本與其平行的[在來線路線](../Page/在來線.md "wikilink")（稱為「並行在來線」）不可因此而廢線，而是必須轉移給地方政府以第三部門企業的型態持續經營，以確保當地居民的交通便利。東北新幹線盛岡與八戶間路段通車之後，對應的[東北本線部分路段即由原本經營的JR東日本釋放而出](../Page/東北本線.md "wikilink")，轉移給沿途的岩手與[青森兩縣經營](../Page/青森縣.md "wikilink")。其中位在岩手縣境內的盛岡至目時之間路段，由岩手縣所成立的IGR接手經營，並改名為「[岩手銀河鐵道線](https://zh.wikipedia.org/wiki/岩手銀河鐵道線 "wikilink")」。而目時到[青森間](https://zh.wikipedia.org/wiki/青森車站 "wikilink")、位於青森縣境內的路段，則是由青森縣成立的[青森鐵道](../Page/青森鐵道.md "wikilink")（）負責，並改名為「[青森鐵道線](../Page/青森鐵道線.md "wikilink")」。由於距離兩縣邊界最近的目時實際上是位於青森縣境內而歸屬青森鐵道，因此IGR擁有的路段，嚴格來說只有到目時車站的站區南方之兩縣分界點而已。
 
 2002年12月1日東北新幹線盛岡至八戶間路段正式通車，岩手銀河鐵道線也伴隨正式啟用。雖然路線只包含原東北本線岩手縣境內的路段，但所有行駛在該路線上的列車，一律是與青森鐵道線上的列車採互相駛入對方路線的直通方式運作，往返於盛岡與八戶之間。
 
@@ -33,7 +33,7 @@ Railway，也就是「岩手銀河鐵道」的英文直譯之縮寫）的字樣�
 <td><p><a href="https://zh.wikipedia.org/wiki/岩手銀河鐵道線" title="wikilink">岩手銀河鐵道線</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/盛岡站" title="wikilink">盛岡</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/目時站" title="wikilink">目時</a></p></td>
+<td><p><a href="../Page/目時站.md" title="wikilink">目時</a></p></td>
 <td><p>82</p></td>
 </tr>
 </tbody>

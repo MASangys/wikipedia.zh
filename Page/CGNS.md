@@ -5,7 +5,7 @@ CGNS项目包含两个部分：（1）一个记录数据的标准格式，称为
 Structure），简称SIDS；（2）用来读取、输出和修改这种格式的数据的软件。这种格式是由文档所建立的概念上的实体，软件则是提供给开发者们用来获取和产生用那种格式记录的数据的物理上的产品。
 
 CGNS系统被设计成有助于网站与网站之间、应用与应用之间数据的交换，并且有助于空气动力学数据的归档。数据被存储成一种紧致的二进制的格式，并且通过一整套完整的可扩展的函数库来读取。[应用程序接口](../Page/应用程序接口.md "wikilink")（API）是跨平台的，可以被轻易地应用于[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Fortran和](../Page/Fortran.md "wikilink")[Fortran
-90项目](https://zh.wikipedia.org/wiki/Fortran#Fortran_90 "wikilink")。还存在一个MEX接口[mexCGNS](http://code.google.com/p/mexcgns)，使得可以在[高级编程语言比如](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[matlab和](../Page/matlab.md "wikilink")[GNU
+90项目](https://zh.wikipedia.org/wiki/Fortran#Fortran_90 "wikilink")。还存在一个MEX接口[mexCGNS](http://code.google.com/p/mexcgns)，使得可以在[高级编程语言比如](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[matlab和](https://zh.wikipedia.org/wiki/matlab "wikilink")[GNU
 Octave中调用CGNS的API](../Page/GNU_Octave.md "wikilink")。还存在一个[面向对象的接口](../Page/面向对象程序设计.md "wikilink")[CGNS++](http://cgnspp.sourceforge.net/)以及[Python模块](../Page/Python.md "wikilink")[pyCGNS](https://pycgns.github.io/)，但是它们并没有被维护。
 
 CGNS的主要目标是和[可压缩](https://zh.wikipedia.org/wiki/壓縮性 "wikilink")[粘性流体](https://zh.wikipedia.org/wiki/粘度 "wikilink")（即[NS方程](https://zh.wikipedia.org/wiki/纳维－斯托克斯方程 "wikilink")）有关的数据，但是标准也适用于它的子集，比如[欧拉方程和势流](../Page/欧拉方程_\(流体动力学\).md "wikilink")。CGNS标准包含如下几种形式的数据。

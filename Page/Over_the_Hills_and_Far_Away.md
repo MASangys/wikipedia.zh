@@ -12,7 +12,7 @@ EP一经亮相就获得了的第一名，并连续十二周跻身前三，其中
 the Hills and Far Away》也登上了欧洲各国的榜单，在德国、比利时、奥地利、荷兰和瑞士皆跻进前100。
 
 专辑包括两首新歌，一首重制由自专辑《[Angels Fall
-First](https://zh.wikipedia.org/wiki/Angels_Fall_First "wikilink")》的《Astral
+First](../Page/Angels_Fall_First.md "wikilink")》的《Astral
 Romance》，该曲由[Tony
 Kakko和](https://zh.wikipedia.org/wiki/Tony_Kakko "wikilink")[塔雅·图伦尼演唱](../Page/塔雅·图伦尼.md "wikilink")。而第一首曲目《Over
 the Hills and Far

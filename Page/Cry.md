@@ -1,5 +1,5 @@
 《**Cry**》是[AKB48子團體](../Page/AKB48.md "wikilink")[DiVA的第](../Page/DiVA.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年8月10日由[avex
-trax發行](../Page/avex_trax.md "wikilink")。
+trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

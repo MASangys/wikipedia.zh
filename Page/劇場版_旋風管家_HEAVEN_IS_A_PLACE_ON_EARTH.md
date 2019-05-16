@@ -64,7 +64,7 @@ FINAL](../Page/魔法老師_\(動畫\).md "wikilink")》一同放映。\[2\]\[3\
 
   - 片頭曲：「****」（我們，奔向天空）
       -
-        主唱：水蓮寺琉加（CV：山崎），作詞：[KOTOKO](../Page/KOTOKO.md "wikilink")
+        主唱：水蓮寺琉加（CV：山崎），作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
 
 <!-- end list -->
 

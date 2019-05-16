@@ -36,9 +36,9 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 
 ### 台灣動畫電影
 
-| 播映年份 | 作品名稱                                              | 配演角色   | 備註 |
-| ---- | ------------------------------------------------- | ------ | -- |
-| 2013 | [夢見](https://zh.wikipedia.org/wiki/夢見 "wikilink") | **東東** |    |
+| 播映年份 | 作品名稱                           | 配演角色   | 備註 |
+| ---- | ------------------------------ | ------ | -- |
+| 2013 | [夢見](../Page/夢見.md "wikilink") | **東東** |    |
 
 ### 有聲書
 
@@ -67,7 +67,7 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">Re:從零開始的異世界生活</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活" title="wikilink">Re:從零開始的異世界生活</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/菜月昴" title="wikilink">菜月昴</a></strong></p></td>
 <td></td>
 <td></td>
@@ -89,7 +89,7 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/見習神仙精靈" title="wikilink">見習神仙精靈</a></p></td>
 <td><p>櫻井勇次郎</p></td>
-<td><p><a href="../Page/momo親子台.md" title="wikilink">momo親子台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/momo親子台" title="wikilink">momo親子台</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -152,7 +152,7 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
     MOVIE大戰2010](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_W&DECADE_MOVIE大戰2010 "wikilink")》：真倉俊
   - 《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》：**東·多格伊亞**、星野吾郎、巴獅王、齋延、殺戮
   - 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》：**大文字隼**
-  - 《[假面騎士鎧武](https://zh.wikipedia.org/wiki/假面騎士鎧武 "wikilink")》：凰蓮・皮耶爾・阿爾馮斯、戰極凌馬、Zack
+  - 《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》：凰蓮・皮耶爾・阿爾馮斯、戰極凌馬、Zack
   - 《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》：花家大我、帕拉德
 
 ### 歐美劇
@@ -162,7 +162,7 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 
 ### 歐美動畫電影
 
-  - 《[冰雪奇缘](https://zh.wikipedia.org/wiki/冰雪奇缘 "wikilink")》
+  - 《[冰雪奇缘](../Page/冰雪奇缘.md "wikilink")》
   - 《[勇敢傳說](../Page/勇敢傳說.md "wikilink")》
 
 ### 海外電影

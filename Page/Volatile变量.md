@@ -13,7 +13,7 @@
 根据相关的标准（C,C++,POSIX,WIN32)和目前绝大多数实现，对volatile变量的操作并不是原子的，也不能用来为线程建立严格的happens-before关系。`volatile`关键字就像便携式线程构建一样基本没什么用处\[2\]\[3\]\[4\]\[5\]\[6\]。
 
 [Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink") 2005
-保证volatile变量是一种[内存屏障](https://zh.wikipedia.org/wiki/内存屏障 "wikilink")，阻止编译器和CPU重新安排读入和写出语义。\[7\]
+保证volatile变量是一种[内存屏障](../Page/内存屏障.md "wikilink")，阻止编译器和CPU重新安排读入和写出语义。\[7\]
 在先前版本的Visual
 C++则没有此类保证。在其他方面将指针定义为volatile可能会影响程序的性能。例如，如果指针定义对代码的其他地方可见，强制编译器将指针视为屏障，就会降低程序的性能，这是完全不必要的。
 

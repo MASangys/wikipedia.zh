@@ -53,10 +53,11 @@
     arrangement)**
       -
         12th單曲
-10. **[HimAWArI](../Page/break_the_rules.md "wikilink") (new vocal)**
+10. **[HimAWArI](https://zh.wikipedia.org/wiki/break_the_rules "wikilink")
+    (new vocal)**
       -
         5th專輯《[break the
-        rules](../Page/break_the_rules.md "wikilink")》收錄曲。
+        rules](https://zh.wikipedia.org/wiki/break_the_rules "wikilink")》收錄曲。
 11. **[no more
     tears](https://zh.wikipedia.org/wiki/Think_of_me/no_more_tears "wikilink")
     (new mix)**

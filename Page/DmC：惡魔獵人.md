@@ -5,8 +5,8 @@ Theory公司開發](https://zh.wikipedia.org/wiki/Ninja_Theory "wikilink")、[CA
 Theory負責](https://zh.wikipedia.org/wiki/Ninja_Theory "wikilink")。
 
 2014年12月，卡普空宣布本作与《[鬼泣4](https://zh.wikipedia.org/wiki/鬼泣4 "wikilink")》将陆续在[PlayStation
-4和](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")[Xbox
-One上发行高清复刻版](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")，复刻版将包含所有游戏的追加下载内容以及若干新内容并以1080P的全高清分辨率和每秒60帧的速率运行；《DmC：鬼泣
+4和](../Page/PlayStation_4.md "wikilink")[Xbox
+One上发行高清复刻版](../Page/Xbox_One.md "wikilink")，复刻版将包含所有游戏的追加下载内容以及若干新内容并以1080P的全高清分辨率和每秒60帧的速率运行；《DmC：鬼泣
 决定版》将于2015年3月17日发售。\[3\]
 
 ## 游戏故事
@@ -19,9 +19,9 @@ One上发行高清复刻版](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")�
 
 2010年9月，《DmC：惡魔獵人》由Capcom在[東京電玩展的新聞發布會上正式公布](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")，全新一代鬼泣遊戲將由英国游戏工作室[Ninja
 Theory開發](https://zh.wikipedia.org/wiki/Ninja_Theory "wikilink")。遊戲將放弃Capcom自家开发并用于前作《[惡魔獵人4](../Page/惡魔獵人4.md "wikilink")》上的[MT
-Framework引擎转而采用](https://zh.wikipedia.org/wiki/MT_Framework "wikilink")[虛幻引擎3](https://zh.wikipedia.org/wiki/虛幻引擎3 "wikilink")(Unreal
+Framework引擎转而采用](../Page/MT_Framework.md "wikilink")[虛幻引擎3](https://zh.wikipedia.org/wiki/虛幻引擎3 "wikilink")(Unreal
 Engine 3)。这也证实了此前游戏杂志《[Game
-Informer](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")》5月时曾刊登过的一条流言：第5款《惡魔獵人》系列作品将交由Ninja
+Informer](../Page/Game_Informer.md "wikilink")》5月时曾刊登过的一条流言：第5款《惡魔獵人》系列作品将交由Ninja
 Theory開發。\[5\]\[6\]
 
 2011年在[E3电玩展中](https://zh.wikipedia.org/wiki/E3 "wikilink")，Ninja

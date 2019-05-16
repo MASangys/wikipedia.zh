@@ -11,14 +11,15 @@
 5.  **[LOVE](../Page/Versus_\(Mr.Children專輯\).md "wikilink")**
 6.  **[my life](../Page/Versus_\(Mr.Children專輯\).md "wikilink")**
 7.  **[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Children單曲\).md "wikilink")**
-8.  **[innocent world](../Page/innocent_world.md "wikilink")**
+8.  **[innocent
+    world](https://zh.wikipedia.org/wiki/innocent_world "wikilink")**
 9.  **[Dance Dance Dance](../Page/Atomic_Heart.md "wikilink")**
 10. **[雨過天晴](../Page/Atomic_Heart.md "wikilink")**（）
 11. **[Over](../Page/Atomic_Heart.md "wikilink")**
 12. **[Tomorrow never
     knows](../Page/Tomorrow_never_knows_\(Mr.Children單曲\).md "wikilink")**
 13. **[everybody goes 向沒有秩序的現代Drop
-    Kick](../Page/everybody_goes_-向沒有秩序的現代Drop_Kick-.md "wikilink")**（）
+    Kick](https://zh.wikipedia.org/wiki/everybody_goes_-向沒有秩序的現代Drop_Kick- "wikilink")**（）
 14. **[【es】 ～Theme of es～](../Page/【es】_～Theme_of_es～.md "wikilink")**
 15. **[See-Saw Game
     ～勇敢的戀曲～](../Page/See-Saw_Game_～勇敢的戀曲～.md "wikilink")**（）

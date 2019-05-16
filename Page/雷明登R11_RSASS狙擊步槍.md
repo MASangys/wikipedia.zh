@@ -1,5 +1,5 @@
 **雷明登R11
-RSASS狙擊步槍**（，簡稱：RSASS，前稱：SASS；RSASS，全稱：，意為：雷明登半自動狙擊手系統）是一款由[美国槍械製造商](../Page/美国.md "wikilink")[雷明登軍品分公司](https://zh.wikipedia.org/wiki/雷明登武器公司 "wikilink")（，雷明登武器公司的分部門）所研製、生產及銷售的Ｒ系列[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[精確射手步槍](https://zh.wikipedia.org/wiki/精確射手步槍 "wikilink")），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／民用型[.308
+RSASS狙擊步槍**（，簡稱：RSASS，前稱：SASS；RSASS，全稱：，意為：雷明登半自動狙擊手系統）是一款由[美国槍械製造商](../Page/美国.md "wikilink")[雷明登軍品分公司](../Page/雷明登武器公司.md "wikilink")（，雷明登武器公司的分部門）所研製、生產及銷售的Ｒ系列[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[精確射手步槍](../Page/精確射手步槍.md "wikilink")），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／民用型[.308
 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節
@@ -55,7 +55,7 @@ RSASS的[槍托是出產自](../Page/槍托.md "wikilink")[馬格普工業公司
 ### 附件
 
 [機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、前托以至導氣組件前端的導氣箍頂部（12點位置）整合了全長的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，雷明登R11
-RSASS沒有內置其[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，必須利用其機匣頂部所設有的一條全長式[MIL-STD-1913戰術導軌安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪和](../Page/热成像仪.md "wikilink")／或以戰術導軌安裝的[機械瞄具作為雷明登R](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")11
+RSASS沒有內置其[機械瞄具](../Page/機械瞄具.md "wikilink")，必須利用其機匣頂部所設有的一條全長式[MIL-STD-1913戰術導軌安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪和](../Page/热成像仪.md "wikilink")／或以戰術導軌安裝的[機械瞄具作為雷明登R](../Page/機械瞄具.md "wikilink")11
 RSASS的瞄準具，亦可以使用流行的前後串連式安裝配置模式擴大瞄準具附件的加裝應用模式。雷明登R11
 RSASS可以JP企業的單件式[雙瞄準鏡安裝環式瞄準鏡座固定狙擊鏡](https://zh.wikipedia.org/wiki/瞄準鏡環 "wikilink")，還預留了帶[彈道計算軟件的](../Page/弹道学.md "wikilink")[个人数码助理或小型](../Page/个人数码助理.md "wikilink")[紅點鏡的連接點](../Page/紅點鏡.md "wikilink")。
 
@@ -87,7 +87,7 @@ RSASS的主要市場是[執法機關和](../Page/警察.md "wikilink")[軍隊的
     發[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長匣增至30
     發），最高攜彈量為80 發（故事模式）和100
     發（聯機模式），具有其預設狙擊鏡。故事模式之中被141特遣部隊和[前俄羅斯抵抗力量所使用](../Page/保皇黨.md "wikilink")，並可以使用红点瞄准镜（在「風暴之眼」關卡中出現，安裝在左側槍身上，使該槍可在狙擊／半自動模式之間切換，但此关卡中玩家只有60发弹药；并且在“患难兄弟”关卡中有一个关于此枪的漏洞：玩家扮演的尤里在游戏开始时只往弹匣中塞了一发子弹，但在行动开始后玩家无论如何都无法打空弹夹；此枪在“固若金汤”关卡中也出现过，无消音器及枪身瞄准镜，备弹80发）；聯機模式時於等級44解鎖，並可以使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[心跳探測器](https://zh.wikipedia.org/wiki/心跳探測器 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[熱能探測式瞄準鏡](../Page/热成像仪.md "wikilink")、[可變倍率式瞄準鏡](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")（狙擊鏡）；生存模式時於等級29解鎖，價格為$2,000。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：命名為「Remington
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名為「Remington
     R11 RSASS」，20
     發[彈匣](../Page/彈匣.md "wikilink")，银灰色枪身，枪口装有类似于反器材步枪的横柱型枪口制动器，为狙击手专用武器。只能通过抽奖获得，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器、[狙击枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜）。拥有黄金版本，强化射程，威力和载弹量
 
@@ -103,8 +103,7 @@ RSASS的主要市場是[執法機關和](../Page/警察.md "wikilink")[軍隊的
   - [FAMAE
     FD-200](https://zh.wikipedia.org/wiki/FAMAE_FD-200狙擊步槍 "wikilink")
   - [FN FNAR](https://zh.wikipedia.org/wiki/FN_FNAR狙擊步槍 "wikilink")
-  - [FN SCAR-H
-    PR／TPR](https://zh.wikipedia.org/wiki/Mk_20狙擊支援步槍 "wikilink")
+  - [FN SCAR-H PR／TPR](../Page/Mk_20狙擊支援步槍.md "wikilink")
   - [FN CSR-20](https://zh.wikipedia.org/wiki/FN_CSR-20狙擊步槍 "wikilink")
   - [HK G3SG/1](https://zh.wikipedia.org/wiki/HK_G3SG/1狙擊步槍 "wikilink")
   - [HK PSG1](../Page/HK_PSG1狙擊步槍.md "wikilink")
@@ -121,18 +120,18 @@ RSASS的主要市場是[執法機關和](../Page/警察.md "wikilink")[軍隊的
   - [M25狙擊手武器系統](../Page/M25狙擊手武器系統.md "wikilink")
   - [M39 EMR](../Page/M39增強型精確射手步槍.md "wikilink")
   - [諾琳壞消息](../Page/諾琳壞消息狙擊步槍.md "wikilink")
-  - [PSL狙擊步槍](https://zh.wikipedia.org/wiki/PSL狙擊步槍 "wikilink")
+  - [PSL狙擊步槍](../Page/PSL狙擊步槍.md "wikilink")
   - [SR-25](../Page/SR-25狙擊步槍.md "wikilink")
   - [SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")
-  - [SVDK狙擊步槍](https://zh.wikipedia.org/wiki/SVDK狙擊步槍 "wikilink")
-  - [SVU狙擊步槍](https://zh.wikipedia.org/wiki/SVU狙擊步槍 "wikilink")
-  - [TCI M89SR](https://zh.wikipedia.org/wiki/TCI_M89SR狙撀步槍 "wikilink")
+  - [SVDK狙擊步槍](../Page/SVDK狙擊步槍.md "wikilink")
+  - [SVU狙擊步槍](../Page/SVU狙擊步槍.md "wikilink")
+  - [TCI M89SR](../Page/TCI_M89SR狙撀步槍.md "wikilink")
   - [Walther WA 2000](../Page/瓦爾特WA_2000狙擊步槍.md "wikilink")
   - [VS-121](https://zh.wikipedia.org/wiki/VS-121狙擊步槍 "wikilink")
   - [VSK-94](../Page/VSK-94狙擊步槍.md "wikilink")
   - [VSS Vintorez](../Page/VSS_Vintorez狙擊步槍.md "wikilink")
   - [扎斯塔瓦M76](../Page/扎斯塔瓦M76狙擊步槍.md "wikilink")
-  - [扎斯塔瓦M91](https://zh.wikipedia.org/wiki/扎斯塔瓦M91狙擊步槍 "wikilink")
+  - [扎斯塔瓦M91](../Page/扎斯塔瓦M91狙擊步槍.md "wikilink")
 
 ## 資料來源
 

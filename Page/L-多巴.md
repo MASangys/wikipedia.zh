@@ -1,5 +1,5 @@
 [Catecholamines_biosynthesis_(zh-cn).svg](https://zh.wikipedia.org/wiki/File:Catecholamines_biosynthesis_\(zh-cn\).svg "fig:Catecholamines_biosynthesis_(zh-cn).svg")
-**<small>L</small>-多巴\[1\]**（，全称**3,4-二羟苯丙氨酸**）是[酪氨酸经](../Page/酪氨酸.md "wikilink")[酪氨酸羟化酶的作用下羟化产生的一种氧化产物](../Page/酪氨酸羟化酶.md "wikilink")，具有[儿茶酚羟基](https://zh.wikipedia.org/wiki/儿茶酚 "wikilink")，可进一步生成另外一些有生物活性的物质：<small>L</small>-多巴在[酪氨酸酶的作用下生成](https://zh.wikipedia.org/wiki/酪氨酸酶 "wikilink")[多巴醌继而自发转变为](https://zh.wikipedia.org/wiki/多巴醌 "wikilink")[黑色素](../Page/黑色素.md "wikilink")，或在[芳香族氨基酸脱羧酶的作用下生成](https://zh.wikipedia.org/wiki/芳香族氨基酸脱羧酶 "wikilink")[多巴胺](../Page/多巴胺.md "wikilink")，继而形成[去甲肾上腺素与](../Page/去甲肾上腺素.md "wikilink")[肾上腺素等](../Page/肾上腺素.md "wikilink")。
+**<small>L</small>-多巴\[1\]**（，全称**3,4-二羟苯丙氨酸**）是[酪氨酸经](../Page/酪氨酸.md "wikilink")[酪氨酸羟化酶的作用下羟化产生的一种氧化产物](../Page/酪氨酸羟化酶.md "wikilink")，具有[儿茶酚羟基](https://zh.wikipedia.org/wiki/儿茶酚 "wikilink")，可进一步生成另外一些有生物活性的物质：<small>L</small>-多巴在[酪氨酸酶的作用下生成](../Page/酪氨酸酶.md "wikilink")[多巴醌继而自发转变为](https://zh.wikipedia.org/wiki/多巴醌 "wikilink")[黑色素](../Page/黑色素.md "wikilink")，或在[芳香族氨基酸脱羧酶的作用下生成](https://zh.wikipedia.org/wiki/芳香族氨基酸脱羧酶 "wikilink")[多巴胺](../Page/多巴胺.md "wikilink")，继而形成[去甲肾上腺素与](../Page/去甲肾上腺素.md "wikilink")[肾上腺素等](../Page/肾上腺素.md "wikilink")。
 
 ## 参考文献
 

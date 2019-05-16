@@ -1,4 +1,4 @@
-**FromSoftware**是[日本電子遊戲](../Page/日本.md "wikilink")[公司](../Page/公司.md "wikilink")。代表作為[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")、[合金獵犬](../Page/合金獵犬.md "wikilink")、[鋼鐵蒼狼：渾沌之戰等機器人動作遊戲及](https://zh.wikipedia.org/wiki/鋼鐵蒼狼：渾沌之戰 "wikilink")[國王密令](https://zh.wikipedia.org/wiki/國王密令 "wikilink")、[惡魔靈魂](https://zh.wikipedia.org/wiki/惡魔靈魂 "wikilink")、[黑暗靈魂等](https://zh.wikipedia.org/wiki/黑暗靈魂 "wikilink")[3D動作](https://zh.wikipedia.org/wiki/3D "wikilink")[RPG](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")。
+**FromSoftware**是[日本電子遊戲](../Page/日本.md "wikilink")[公司](../Page/公司.md "wikilink")。代表作為[機戰傭兵](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")、[合金獵犬](../Page/合金獵犬.md "wikilink")、[鋼鐵蒼狼：渾沌之戰等機器人動作遊戲及](https://zh.wikipedia.org/wiki/鋼鐵蒼狼：渾沌之戰 "wikilink")[國王密令](https://zh.wikipedia.org/wiki/國王密令 "wikilink")、[惡魔靈魂](https://zh.wikipedia.org/wiki/惡魔靈魂 "wikilink")、[黑暗靈魂等](https://zh.wikipedia.org/wiki/黑暗靈魂 "wikilink")[3D動作](https://zh.wikipedia.org/wiki/3D "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。
 
 FromSoftware已於2014年被[角川集團收购](../Page/角川集團.md "wikilink")，成为其子公司。
 
@@ -8,7 +8,7 @@ FromSoftware已於2014年被[角川集團收购](../Page/角川集團.md "wikili
 
 ## 轉型
 
-20世紀90年代初，[日本](../Page/日本.md "wikilink")[泡沫經濟崩壞](https://zh.wikipedia.org/wiki/泡沫經濟 "wikilink")，原[業務萎縮](https://zh.wikipedia.org/wiki/業務 "wikilink")。此時**FromSoftware**就有投入遊戲開發之意，起因為[公司成員於午休期間利用公司](../Page/公司.md "wikilink")[工作站做出了操作](../Page/工作站.md "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，社長神直利對[遊戲也有熱情](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，認為有[商業潛力](https://zh.wikipedia.org/wiki/商業 "wikilink")。但礙於當時[個人電腦性能有限](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、家用[電玩主機開發工具規格特殊等原因](https://zh.wikipedia.org/wiki/電玩主機 "wikilink")，直至1994年才加入開發容易又特化[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形演算的](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[PlayStation陣營](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。並於同年12月推出處女作《[國王密令](https://zh.wikipedia.org/wiki/國王密令 "wikilink")》這款[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")[RPG](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")。\[4\]
+20世紀90年代初，[日本](../Page/日本.md "wikilink")[泡沫經濟崩壞](https://zh.wikipedia.org/wiki/泡沫經濟 "wikilink")，原[業務萎縮](https://zh.wikipedia.org/wiki/業務 "wikilink")。此時**FromSoftware**就有投入遊戲開發之意，起因為[公司成員於午休期間利用公司](../Page/公司.md "wikilink")[工作站做出了操作](../Page/工作站.md "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，社長神直利對[遊戲也有熱情](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，認為有[商業潛力](https://zh.wikipedia.org/wiki/商業 "wikilink")。但礙於當時[個人電腦性能有限](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、家用[電玩主機開發工具規格特殊等原因](https://zh.wikipedia.org/wiki/電玩主機 "wikilink")，直至1994年才加入開發容易又特化[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[多邊形演算的](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[PlayStation陣營](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。並於同年12月推出處女作《[國王密令](https://zh.wikipedia.org/wiki/國王密令 "wikilink")》這款[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。\[4\]
 
 ## 作風
 
@@ -852,7 +852,7 @@ Agetec（北美）<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -862,7 +862,7 @@ Agetec（北美）<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a></p></td>
+<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -883,7 +883,7 @@ Agetec（北美）<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/血源詛咒" title="wikilink">血源詛咒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼电脑娱乐" title="wikilink">索尼电脑娱乐</a></p></td>
 <td></td>
 <td></td>
@@ -903,7 +903,7 @@ Agetec（北美）<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黑暗之魂III.md" title="wikilink">黑暗之魂 III</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td><p>FromSoftware（日本）<br />
 万代南梦宫（全球）</p></td>
 <td><p>2016年3月24日</p></td>
@@ -913,7 +913,7 @@ Agetec（北美）<br />
 <td><p>rowspan=3 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a></p></td>
+<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -934,7 +934,7 @@ Agetec（北美）<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a><br />
+<td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a><br />
 （<a href="../Page/PlayStation_VR.md" title="wikilink">PlayStation VR</a>）</p></td>
 <td><p><a href="../Page/索尼互動娛樂.md" title="wikilink">索尼互動娛樂</a></p></td>
 <td></td>
@@ -946,7 +946,7 @@ Agetec（北美）<br />
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/隻狼：暗影雙死" title="wikilink">隻狼：暗影雙死</a><br />
 <em>Sekiro: Shadows Die Twice</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td><p><a href="../Page/动视.md" title="wikilink">动视</a></p></td>
 <td><p>2019年3月22日</p></td>
 <td><p>rowspan=3 </p></td>
@@ -955,7 +955,7 @@ Agetec（北美）<br />
 <td><p>rowspan=3 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a></p></td>
+<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -54,7 +54,7 @@ roof）設計\[1\]。此具引擎不同的國家地區發展出一些亞型：
 ## KJ-ZEM型
 
 **同時參看：[米勒循環引擎](../Page/米勒循環引擎.md "wikilink")**。
-代號**KJ-ZEM型**之引擎排氣量2,255c.c.，缸徑80.3mm、衝程74.2mm，壓縮比10.0:1。一般[米勒循環引擎在低](../Page/米勒循環引擎.md "wikilink")[轉速時進氣不足](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")，故加裝了一具由日本[石川島播磨重工業製造](https://zh.wikipedia.org/wiki/IHI "wikilink")、附有電子增壓控制器的雙螺管機械增壓器（Lysholm
+代號**KJ-ZEM型**之引擎排氣量2,255c.c.，缸徑80.3mm、衝程74.2mm，壓縮比10.0:1。一般[米勒循環引擎在低](../Page/米勒循環引擎.md "wikilink")[轉速時進氣不足](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")，故加裝了一具由日本[石川島播磨重工業製造](../Page/IHI.md "wikilink")、附有電子增壓控制器的雙螺管機械增壓器（Lysholm
 supercharger），最高增壓值1.5[bar](../Page/巴.md "wikilink")。\[2\]利用機械增壓的內壓及[活塞向上運動的外壓對沖](https://zh.wikipedia.org/wiki/活塞 "wikilink")，比單純的活塞做[功提高了](../Page/功.md "wikilink")15%的效率。也因此這具引擎能以2.3L的排氣量達到3.0L的[馬力輸出](../Page/馬力.md "wikilink")，而且達到高[轉速時](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")，增壓效率更是驚人。
 
 此具引擎之最大馬力220ps / 5,500rpm，最大扭力30.0kg·m /

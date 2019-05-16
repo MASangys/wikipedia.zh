@@ -1,7 +1,6 @@
 **儒格马克3型**（**Ruger Mark III**）是一种[.22
 LR](../Page/.22_LR.md "wikilink")[半自动手枪](https://zh.wikipedia.org/wiki/半自动手枪 "wikilink")，由儒格-斯特姆公司生产。它是马克2型（[Ruger
-Mark
-II](https://zh.wikipedia.org/wiki/儒格MK_II手槍 "wikilink")）的后续型，并有少量改进。
+Mark II](../Page/儒格MK_II手槍.md "wikilink")）的后续型，并有少量改进。
 
 ## 自马克2型的改进
 

@@ -29,8 +29,7 @@ Kink.com的所有作品都不适合未成年人观看，故Kink.com及其所有�
 ### 恋物
 
   - Everything Butt：以女性為主的肛门調教
-  - [Fucking
-    Machines](https://zh.wikipedia.org/wiki/Fucking_Machines "wikilink")：使用机器自慰
+  - [Fucking Machines](../Page/Fucking_Machines.md "wikilink")：使用机器自慰
   - TS Seduction：跨性别主人給予調教
   - Ultimate Surrender：女子裸体摔跤
   - Pissing：尿液相关

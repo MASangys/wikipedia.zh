@@ -12,10 +12,9 @@ Town首次發行的家族合輯](../Page/SM_Town.md "wikilink")，於1999年發�
 6.  사랑을 닮은 노래 (A Song For Love) - [Fly to the
     Sky](../Page/Fly_to_the_Sky.md "wikilink")
 7.  First Noel - Yoo Young Jin
-8.  Snow in Eyes -
-    [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(組合\) "wikilink")
+8.  Snow in Eyes - [S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")
 9.  Snow Christmas (Remix) -
-    [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(組合\) "wikilink")
+    [S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")
 10. Merry Christmas -
     [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")
 11. Jingle Bell - [H.O.T.](../Page/H.O.T..md "wikilink")

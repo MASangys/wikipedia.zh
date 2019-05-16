@@ -5,7 +5,7 @@ Unix
 操作系统上都可以找到](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")。它是英文“Who
 am
 I？”（我是谁？）的拼接结果。当被调用时，打印当前用户的[有效用户名](https://zh.wikipedia.org/wiki/用户ID#有效用户ID "wikilink")。它与
-[Unix](../Page/Unix.md "wikilink") 命令`id -un`具有相同的效果。
+[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 命令`id -un`具有相同的效果。
 
 在类Unix操作系统上，命令的输出与`$USER`稍有不同，因为`whoami`输出用户正在使用的用户名，而`$USER`输出用于登录的用户名。例如，例如，假使用户以用户名John登录并使用命令`su`（su默认不调用login
 shell）获得了root权限，此时若使用`whoami`命令会输出root，而`echo $USER`对应的输出则是John。

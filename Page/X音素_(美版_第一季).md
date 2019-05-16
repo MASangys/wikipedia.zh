@@ -23,10 +23,10 @@
 2012 |this = **X音素 (美版 第一季)**
 2011 }}
 
-**[美版X音素](../Page/X音素_\(美国真人秀\).md "wikilink")**（）是一檔美國歌唱比賽的[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")。冠軍將獲得500萬美元的獎勵以及同[索尼音樂娛樂旗下的](../Page/索尼音樂娛樂.md "wikilink")[Epic唱片簽訂唱片合約](https://zh.wikipedia.org/wiki/史诗唱片 "wikilink")。\[1\]
+**[美版X音素](../Page/X音素_\(美国真人秀\).md "wikilink")**（）是一檔美國歌唱比賽的[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")。冠軍將獲得500萬美元的獎勵以及同[索尼音樂娛樂旗下的](../Page/索尼音樂娛樂.md "wikilink")[Epic唱片簽訂唱片合約](../Page/史诗唱片.md "wikilink")。\[1\]
 第一季於2011年9月21日至12月22日在[福克斯電視臺首播](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")。[梅拉尼·阿瑪羅為本季冠軍](https://zh.wikipedia.org/wiki/梅拉尼·阿瑪羅 "wikilink")，而[西蒙·考威尔則是她的導師](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")。
 
-與《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》模式一樣的是，所有參賽選手需要經過製作人面試、評委海選、訓練營、評委之家、直播賽等環節。本賽季X音素於2011年3月到6月展開海選環節。\[2\]
+與《[英國版X音素](../Page/英國版X音素.md "wikilink")》模式一樣的是，所有參賽選手需要經過製作人面試、評委海選、訓練營、評委之家、直播賽等環節。本賽季X音素於2011年3月到6月展開海選環節。\[2\]
 節目由[威爾士主持人斯蒂夫](../Page/威爾士.md "wikilink")·瓊斯（）主持，而評委團則有
 [西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")、[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")、[妮可·舒辛格和](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")。此外，[雪莉·柯爾擔任了](../Page/雪莉·柯爾.md "wikilink")[洛杉磯和](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[芝加哥地區海選評委](../Page/芝加哥.md "wikilink")。
 
@@ -42,18 +42,18 @@
 [妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")、\[7\]
 [蕾哈娜](../Page/蕾哈娜.md "wikilink")、[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[埃爾頓·約翰](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")、[瑪麗亞·凱莉和](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")[潔西卡·辛普森](../Page/潔西卡·辛普森.md "wikilink")，但是[西蒙·考威尔很快便否認了](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")[凱蒂·佩芮和](../Page/凱蒂·佩芮.md "wikilink")[埃爾頓·約翰會加入評委團](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")。\[8\]
 最後，[格萊美獎最佳唱片製作](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")、詞曲作者、唱片製作人，\[9\]\[10\]
-前任《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》評委[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")\[11\]\[12\]
+前任《[英國版X音素](../Page/英國版X音素.md "wikilink")》評委[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")\[11\]\[12\]
 和[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《[美國偶像](../Page/美國偶像.md "wikilink")》里的搭檔及評委[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")\[13\]
 確認為評委。
 
 [西蒙·考威尔曾經表示節目將會有兩個主持人](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")。\[14\]\[15\]
-許多人猜測這兩個主持人的人選是《[歌舞青春](../Page/歌舞青春.md "wikilink")》中的[柯賓·布魯和](../Page/柯賓·布魯.md "wikilink")《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》的主持人德莫特·奧利（）。\[16\]\[17\]
+許多人猜測這兩個主持人的人選是《[歌舞青春](../Page/歌舞青春.md "wikilink")》中的[柯賓·布魯和](../Page/柯賓·布魯.md "wikilink")《[英國版X音素](../Page/英國版X音素.md "wikilink")》的主持人德莫特·奧利（）。\[16\]\[17\]
 還有一種傳聞表示[女神卡卡將在節目中以非評委的角色出現](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")。\[18\]
 最初，[妮可·舒辛格將和](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")[威爾士籍主持人斯蒂夫](../Page/威爾士.md "wikilink")·瓊斯（）共同主持本節目。
 
 據報導，[雪莉·柯爾的名單於](../Page/雪莉·柯爾.md "wikilink")2011年5月26日從節目的演職員表中刪除了。媒體猜測節目組已經解雇了她，但是關於她的解雇理由眾說紛紜，有認為是她的英國口音會造成美國觀眾無法理解，有認為是她與寶拉·阿巴杜之間並沒有產生火花，還有認為是她思鄉心切而主動離開。\[19\]\[20\]
 [福克斯廣播公司在](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")6月6日確認了[雪莉·柯爾的離職](../Page/雪莉·柯爾.md "wikilink")，同時也確定了將由[妮可·舒辛格取代她的位置](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")。因此斯蒂夫·瓊斯將成為本節目唯一的主持人。\[21\]
-[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")8月5日宣佈[雪莉·柯爾的離職原因是她要返回到](../Page/雪莉·柯爾.md "wikilink")《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》的工作中去，而在那裡他認為[雪莉·柯爾會更加自在一些](../Page/雪莉·柯爾.md "wikilink")。他說如果[雪莉·柯爾的離職原因真的是因為與](../Page/雪莉·柯爾.md "wikilink")[寶拉·阿巴杜不合的話](../Page/寶拉·阿巴杜.md "wikilink")，那麼他也不會再繼續擔任評委工作了。\[22\]
+[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")8月5日宣佈[雪莉·柯爾的離職原因是她要返回到](../Page/雪莉·柯爾.md "wikilink")《[英國版X音素](../Page/英國版X音素.md "wikilink")》的工作中去，而在那裡他認為[雪莉·柯爾會更加自在一些](../Page/雪莉·柯爾.md "wikilink")。他說如果[雪莉·柯爾的離職原因真的是因為與](../Page/雪莉·柯爾.md "wikilink")[寶拉·阿巴杜不合的話](../Page/寶拉·阿巴杜.md "wikilink")，那麼他也不會再繼續擔任評委工作了。\[22\]
 
 ## 選拔賽階段
 
@@ -1171,7 +1171,7 @@
 
   - [美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")
   - [X音素](../Page/X音素.md "wikilink")
-  - [英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")
+  - [英國版X音素](../Page/英國版X音素.md "wikilink")
 
 ## 參考資料
 

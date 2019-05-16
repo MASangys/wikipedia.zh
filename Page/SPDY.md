@@ -9,7 +9,7 @@ Chrome淘汰對SPDY的支援，全面改為採用HTTP/2。
 
 ## 设计
 
-设计SPDY的目的在于降低网页的加载时间\[8\]。通过优先级和[多路复用](../Page/多路复用.md "wikilink")，SPDY使得只需要建立一个[TCP连接即可传送网页内容及图片等资源](../Page/传输控制协议.md "wikilink")\[9\]\[10\]。SPDY中广泛应用了[TLS加密](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")，传输内容也均以[gzip或](../Page/gzip.md "wikilink")[DEFLATE格式压缩](../Page/DEFLATE.md "wikilink")（与HTTP不同，HTTP的头部并不会被压缩）。另外，除了像HTTP的网页服务器被动的等待浏览器发起请求外，SPDY的网页服务器还可以主动推送内容\[11\]。
+设计SPDY的目的在于降低网页的加载时间\[8\]。通过优先级和[多路复用](../Page/多路复用.md "wikilink")，SPDY使得只需要建立一个[TCP连接即可传送网页内容及图片等资源](../Page/传输控制协议.md "wikilink")\[9\]\[10\]。SPDY中广泛应用了[TLS加密](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")，传输内容也均以[gzip或](https://zh.wikipedia.org/wiki/gzip "wikilink")[DEFLATE格式压缩](../Page/DEFLATE.md "wikilink")（与HTTP不同，HTTP的头部并不会被压缩）。另外，除了像HTTP的网页服务器被动的等待浏览器发起请求外，SPDY的网页服务器还可以主动推送内容\[11\]。
 
 ## 与HTTP的关系
 
@@ -27,7 +27,7 @@ SPDY并不用于取代HTTP，它只是修改了HTTP的请求与应答在网络�
   - [Internet Explorer从](../Page/Internet_Explorer.md "wikilink")[IE
     11开始支持SPDY](https://zh.wikipedia.org/wiki/IE_11 "wikilink")\[21\]。
   - [Safari從](../Page/Safari.md "wikilink")8.0（[OS X
-    Yosemite及](https://zh.wikipedia.org/wiki/OS_X_Yosemite "wikilink")[iOS
+    Yosemite及](../Page/OS_X_Yosemite.md "wikilink")[iOS
     8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")）開始支援SPDY。
 
 ### Chrome 移除 SPDY

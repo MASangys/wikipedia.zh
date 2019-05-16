@@ -14,7 +14,7 @@ sativa**是[大麻属植物的](../Page/大麻属.md "wikilink")[物种之一](.
 
 广义上讲，目前大致有三类Sativa[栽培品种](../Page/栽培品种.md "wikilink")：
 
-  - 制作[麻纤维的](https://zh.wikipedia.org/wiki/麻纤维 "wikilink")[火麻](../Page/火麻.md "wikilink")，其特征是[茎长](https://zh.wikipedia.org/wiki/茎 "wikilink")、[分枝少](https://zh.wikipedia.org/wiki/分枝 "wikilink")。
+  - 制作[麻纤维的](../Page/麻纤维.md "wikilink")[火麻](../Page/火麻.md "wikilink")，其特征是[茎长](https://zh.wikipedia.org/wiki/茎 "wikilink")、[分枝少](https://zh.wikipedia.org/wiki/分枝 "wikilink")。
   - 生产中药[火麻仁的](https://zh.wikipedia.org/wiki/火麻仁 "wikilink")[火麻](../Page/火麻.md "wikilink")，可生吃。
   - 作为[医疗用或](https://zh.wikipedia.org/wiki/药用大麻 "wikilink")[娱乐用的](https://zh.wikipedia.org/wiki/娱乐性用药 "wikilink")[大麻](../Page/大麻.md "wikilink")，多数国家属[毒品的一种](../Page/毒品.md "wikilink")。
 

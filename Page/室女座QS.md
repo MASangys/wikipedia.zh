@@ -10,9 +10,9 @@ Vir**）是一個距離地球157光年的[食聯星系統](https://zh.wikipedia.
 ## 參見
 
   - [大陵五](https://zh.wikipedia.org/wiki/大陵五 "wikilink")
-  - [室女座HW](https://zh.wikipedia.org/wiki/室女座HW "wikilink")
+  - [室女座HW](../Page/室女座HW.md "wikilink")
   - [巨蛇座NN](../Page/巨蛇座NN.md "wikilink")
-  - [天龍座CM](https://zh.wikipedia.org/wiki/天龍座CM "wikilink")
+  - [天龍座CM](../Page/天龍座CM.md "wikilink")
   - [獅子座DP](../Page/獅子座DP.md "wikilink")
   - [確定存在的太陽系外行星列表](https://zh.wikipedia.org/wiki/確定存在的太陽系外行星列表 "wikilink")
 

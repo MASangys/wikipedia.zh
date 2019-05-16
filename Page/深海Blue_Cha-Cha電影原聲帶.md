@@ -26,7 +26,7 @@ Cha-cha）是[台灣電影](../Page/台灣電影.md "wikilink")《深海》的[�
 <td><p>木吉他：董運昌<br />
 尼龍吉他：柯智豪<br />
 電吉他：董運昌、柯智豪<br />
-手風琴：<a href="https://zh.wikipedia.org/wiki/王雁盟" title="wikilink">王雁盟</a><br />
+手風琴：<a href="../Page/王雁盟.md" title="wikilink">王雁盟</a><br />
 鍵盤：李欣芸<br />
 豎笛：黃荻<br />
 大提琴：連亦先<br />

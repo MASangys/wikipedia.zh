@@ -17,64 +17,61 @@
 
 ## 活動經歷
 
-### 2011年：[Message](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\) "wikilink")
+### 2011年：[Message](../Page/Message_\(MYNAME單曲\).md "wikilink")
 
 MYNAME是由R\&B組合[Fly to the
 Sky成員](../Page/Fly_to_the_Sky.md "wikilink")[煥熙](https://zh.wikipedia.org/wiki/煥熙 "wikilink")（Fany）培養的新人偶像組合。\[3\]
 正式出道前，出演試播節目《Ta-Dah It's MYNAME》。\[4\]\[5\]
-10月27日，發行出道作《[Message](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\) "wikilink")》，同日在韓國M-NET電視台《[M\!
+10月27日，發行出道作《[Message](../Page/Message_\(MYNAME單曲\).md "wikilink")》，同日在韓國M-NET電視台《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。\[6\]\[7\]\[8\]
 
-### 2012年：[Hello & Goodbye](https://zh.wikipedia.org/wiki/MYNAME_the_1st_single "wikilink")、日本出道
+### 2012年：[Hello & Goodbye](../Page/MYNAME_the_1st_single.md "wikilink")、日本出道
 
 2012年5月，發行首張韓語實體單曲《[MYNAME the 1st
-single](https://zh.wikipedia.org/wiki/MYNAME_the_1st_single "wikilink")》，主打曲《Hello
-& Goodbye》。\[9\]\[10\]
+single](../Page/MYNAME_the_1st_single.md "wikilink")》，主打曲《Hello &
+Goodbye》。\[9\]\[10\]
 2012年7月，於日本正式出道，首張日語單曲《[Message](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\)#日語單曲 "wikilink")》於公信榜單曲週排行榜取得第14位。\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]
 原定於下半年回歸，主打曲《那算什麼（Just That Little Thing）》已製作完成，但因某些原因而取消。
 2012年11月，發行首張原創日語單曲《[What's
-Up](https://zh.wikipedia.org/wiki/What's_Up_\(MYNAME單曲\) "wikilink")》，舉行首個演唱會《[MYNAME
-1st LIVE ～What's
+Up](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")》，舉行首個演唱會《[MYNAME 1st
+LIVE ～What's
 Up～](https://zh.wikipedia.org/wiki/MYNAME_1st_LIVE_～What's_Up～ "wikilink")》。\[18\]\[19\]
 
-### 2013年：[那算什麼](https://zh.wikipedia.org/wiki/MYNAME_the_2nd_single "wikilink")、[Baby I'm Sorry](https://zh.wikipedia.org/wiki/MYNAME_1st_Mini_Album "wikilink")、[Day by Day](https://zh.wikipedia.org/wiki/MYNAME_the_3rd_single "wikilink")、[WE ARE MYNAME](https://zh.wikipedia.org/wiki/WE_ARE_MYNAME "wikilink")
+### 2013年：[那算什麼](../Page/MYNAME_the_2nd_single.md "wikilink")、[Baby I'm Sorry](../Page/MYNAME_1st_Mini_Album.md "wikilink")、[Day by Day](../Page/MYNAME_the_3rd_single.md "wikilink")、[WE ARE MYNAME](../Page/WE_ARE_MYNAME.md "wikilink")
 
 1月，發行第二張韓語實體單曲《[MYNAME the 2nd
-single](https://zh.wikipedia.org/wiki/MYNAME_the_2nd_single "wikilink")》，主打曲《那算什麼（Just
-That Little Thing）》，舉行韓國首個單獨演唱會《MYNAME 1st Concert "The
-Beginning"》。\[20\] 3月，發行首張原創日本正規專輯《[WE ARE
-MYNAME](https://zh.wikipedia.org/wiki/WE_ARE_MYNAME "wikilink")》，主打歌《We
-Are The Night》，於公信榜週排行榜取下佳績（第3位）。\[21\] 5月，舉行日本巡迴演唱會《MYNAME LIVE TOUR
+single](../Page/MYNAME_the_2nd_single.md "wikilink")》，主打曲《那算什麼（Just That
+Little Thing）》，舉行韓國首個單獨演唱會《MYNAME 1st Concert "The Beginning"》。\[20\]
+3月，發行首張原創日本正規專輯《[WE ARE
+MYNAME](../Page/WE_ARE_MYNAME.md "wikilink")》，主打歌《We Are The
+Night》，於公信榜週排行榜取下佳績（第3位）。\[21\] 5月，舉行日本巡迴演唱會《MYNAME LIVE TOUR
 2013 ～THE DEPARTURE～》。\[22\] 7月4日，發行首張韓語迷你專輯《[MYNAME 1st Mini
-Album](https://zh.wikipedia.org/wiki/MYNAME_1st_Mini_Album "wikilink")》，主打曲《Baby
-I'm Sorry》，同日於《[M\!
+Album](../Page/MYNAME_1st_Mini_Album.md "wikilink")》，主打曲《Baby I'm
+Sorry》，同日於《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》回歸，MV半天內突破100萬觀看次，Hanteo榜拿下即時榜、日榜、週榜的冠軍，銷量共達兩萬張以上，亦於音樂節目取得滿意排名。\[23\]\[24\]\[25\]\[26\]
 7月5日，日方官網公佈「第95屆全國高中棒球錦標賽 東・西東京大會2013」，MYNAME演唱主題曲《[Sha la
-la](https://zh.wikipedia.org/wiki/Shirayuki "wikilink")》。
-10月11日，發行第三張韓語實體單曲《[MYNAME the 3rd
-single](https://zh.wikipedia.org/wiki/MYNAME_the_3rd_single "wikilink")》，主打曲目為《Day
-by Day》。\[27\]\[28\]
-11月20日，發行第三張日語單曲《[Shirayuki](https://zh.wikipedia.org/wiki/Shirayuki "wikilink")》，主打曲目《Shirayuki》和B面曲《Sha
+la](../Page/Shirayuki.md "wikilink")》。 10月11日，發行第三張韓語實體單曲《[MYNAME the
+3rd single](../Page/MYNAME_the_3rd_single.md "wikilink")》，主打曲目為《Day by
+Day》。\[27\]\[28\]
+11月20日，發行第三張日語單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》，主打曲目《Shirayuki》和B面曲《Sha
 la
 la》為初主演電影《[新大久保物語](https://zh.wikipedia.org/wiki/新大久保物語 "wikilink")》的主題曲和插曲。\[29\]
 
-### 2014年：[FIVE STARS](https://zh.wikipedia.org/wiki/FIVE_STARS_\(MYNAME專輯\) "wikilink")
+### 2014年：[FIVE STARS](../Page/FIVE_STARS_\(MYNAME專輯\).md "wikilink")
 
 2014年1月，舉行演唱會《MYNAME JAPAN HALL TOUR 2014 ～HANDS UP～》。\[30\]
 3月，發行第二張原創日語專輯《[FIVE
-STARS](https://zh.wikipedia.org/wiki/FIVE_STARS_\(MYNAME專輯\) "wikilink")》，主打歌《F.F.Y
-(Fight for You)》 。\[31\] 2014年年中至下半年，專注日本的音樂活動，並舉行多場不同規模的演唱會 - 《MYNAME
-LIVE HOUSE TOUR 2014 "WOW\!"》、《MYNAME JAPAN 2nd HALL TOUR 2014》
+STARS](../Page/FIVE_STARS_\(MYNAME專輯\).md "wikilink")》，主打歌《F.F.Y (Fight
+for You)》 。\[31\] 2014年年中至下半年，專注日本的音樂活動，並舉行多場不同規模的演唱會 - 《MYNAME LIVE
+HOUSE TOUR 2014 "WOW\!"》、《MYNAME JAPAN 2nd HALL TOUR 2014》
 
-### 2015年：[非常Very一下子](https://zh.wikipedia.org/wiki/MYNAME_2nd_Mini_Album "wikilink")、[直說吧](../Page/MYNAME_the_4th_single.md "wikilink")、[I.M.G. without you](https://zh.wikipedia.org/wiki/I.M.G._～without_you～ "wikilink")
+### 2015年：[非常Very一下子](../Page/MYNAME_2nd_Mini_Album.md "wikilink")、[直說吧](../Page/MYNAME_the_4th_single.md "wikilink")、[I.M.G. without you](../Page/I.M.G._～without_you～.md "wikilink")
 
 2015年1月，舉行演唱會《MYNAME LIVE HOUSE TOUR 2015 "WOW！" vol.3》，在演唱會中公開新曲《[Stop
-the
-time](https://zh.wikipedia.org/wiki/I.M.G._～without_you～ "wikilink")》。《Stop
-the
+the time](../Page/I.M.G._～without_you～.md "wikilink")》。《Stop the
 time》亦是[日本電視台週四劇](../Page/日本電視台.md "wikilink")《五つ星ツーリスト～最高の旅、ご案內します\!\!》的主題曲。
 2月12日，發行第二張韓語迷你專輯《[MYNAME 2nd Mini
-Album](https://zh.wikipedia.org/wiki/MYNAME_2nd_Mini_Album "wikilink")》，相隔約1年零4個月，主打曲《非常Very一下子》。\[32\]
+Album](../Page/MYNAME_2nd_Mini_Album.md "wikilink")》，相隔約1年零4個月，主打曲《非常Very一下子》。\[32\]
 3月，發行第三張原創日語專輯《[I.M.G. without
 you](https://zh.wikipedia.org/wiki/I.M.G._without_you "wikilink")》，發行首日取得[Oricon公信榜專輯日榜第](../Page/Oricon公信榜.md "wikilink")1位。\[33\]\[34\]
 5月13日，發行第四張韓語實體單曲《[MYNAME the 4th
@@ -632,31 +629,31 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
 <td><p>2011年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Message_(MYNAME單曲)" title="wikilink">Message</a></p></td>
+<td><p><a href="../Page/Message_(MYNAME單曲).md" title="wikilink">Message</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MYNAME_the_1st_single" title="wikilink">MYNAME the 1st single</a></p></td>
+<td><p><a href="../Page/MYNAME_the_1st_single.md" title="wikilink">MYNAME the 1st single</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MYNAME_the_2nd_single" title="wikilink">MYNAME the 2nd single</a></p></td>
+<td><p><a href="../Page/MYNAME_the_2nd_single.md" title="wikilink">MYNAME the 2nd single</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/MYNAME_1st_Mini_Album" title="wikilink">MYNAME 1st Mini Album</a></p></td>
+<td><p><a href="../Page/MYNAME_1st_Mini_Album.md" title="wikilink">MYNAME 1st Mini Album</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MYNAME_the_3rd_single" title="wikilink">MYNAME the 3rd single</a></p></td>
+<td><p><a href="../Page/MYNAME_the_3rd_single.md" title="wikilink">MYNAME the 3rd single</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MYNAME_2nd_Mini_Album" title="wikilink">MYNAME 2nd Mini Album</a></p></td>
+<td><p><a href="../Page/MYNAME_2nd_Mini_Album.md" title="wikilink">MYNAME 2nd Mini Album</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MYNAME_the_4th_single.md" title="wikilink">MYNAME the 4th single</a></p></td>

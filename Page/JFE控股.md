@@ -8,7 +8,7 @@ Future Enterprise）的含意\[2\]。
   - 2001年12月21日，兩家鋼鐵公司簽署統合意向書，組成**JFE集團**。
   - 2002年9月26日，川崎製鐵與日本鋼管共同成立**JFE控股**，成為JFE集團的[母公司](https://zh.wikipedia.org/wiki/母公司 "wikilink")。
   - 2003年4月1日，JFE集團進行旗下企業[分拆](https://zh.wikipedia.org/wiki/分拆 "wikilink")，其中川崎製鐵改名為[JFE鋼鐵](https://zh.wikipedia.org/wiki/JFE鋼鐵 "wikilink")（負責鋼鐵事業）、NKK改名為[JFE工程](https://zh.wikipedia.org/wiki/JFE工程 "wikilink")（負責工程事業）。
-  - 2012年3月27日，與[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[義联集團就](https://zh.wikipedia.org/wiki/義联集團 "wikilink")「可行性研究」的實施簽署意向書。雙方將就粗鋼年產量350萬公噸高爐廠，將攜手開發[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[煉鋼廠](https://zh.wikipedia.org/wiki/煉鋼廠 "wikilink")，預計在2016年投入生產。\[3\]
+  - 2012年3月27日，與[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[義联集團就](../Page/義联集團.md "wikilink")「可行性研究」的實施簽署意向書。雙方將就粗鋼年產量350萬公噸高爐廠，將攜手開發[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[煉鋼廠](https://zh.wikipedia.org/wiki/煉鋼廠 "wikilink")，預計在2016年投入生產。\[3\]
   - 2017年5月29日，與台灣的[台塑集團](https://zh.wikipedia.org/wiki/台塑集團 "wikilink")、[中國鋼鐵合資在](../Page/中國鋼鐵.md "wikilink")[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[河靜省興建的](../Page/河靜省.md "wikilink")[台塑河靜鋼鐵一號高爐正式點火](../Page/台塑河靜鋼鐵.md "wikilink")，30日產出第一批鐵水\[4\]。
 
 Fukuyama city industrial area.JPG|旗下西日本製鐵 Toyohira Steel in

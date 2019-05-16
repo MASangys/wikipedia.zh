@@ -1,4 +1,4 @@
-[姜大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink"){{、w}}[林珠銀](../Page/林珠銀.md "wikilink"){{、w}}[金智媛](https://zh.wikipedia.org/wiki/金智媛 "wikilink")
+[姜大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink"){{、w}}[林珠銀](../Page/林珠銀.md "wikilink"){{、w}}[金智媛](../Page/金智媛.md "wikilink")
 | slogan = | judges = | voices = | narrated = | theme_music_composer =
 | opentheme = | endtheme = | composer = | country =  | language =
 [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
@@ -23,26 +23,26 @@ up**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBN自
     **河道成／HADES**（兒時：[盧俊赫](https://zh.wikipedia.org/wiki/盧俊赫 "wikilink")）
   - [林珠銀](../Page/林珠銀.md "wikilink") 飾演
     **吳杜莉**（兒時：[安瑞賢](../Page/安瑞賢.md "wikilink")）
-  - [金智媛](https://zh.wikipedia.org/wiki/金智媛 "wikilink") 飾演 **朴泰熙**
+  - [金智媛](../Page/金智媛.md "wikilink") 飾演 **朴泰熙**
   - [吳萬石](../Page/吳萬石.md "wikilink") 飾演 **鮮-{于}-榮**
   - [張熙軫](../Page/張熙軫.md "wikilink") 飾演 **殷彩英**
   - [李洙赫](../Page/李洙赫.md "wikilink") 飾演 **李秀彬**
-  - [曹政奭](https://zh.wikipedia.org/wiki/曹政奭 "wikilink") 飾演 **金秉建**
-  - [金美京](https://zh.wikipedia.org/wiki/金美京 "wikilink") 飾演 **楊秀靜**
+  - [曹政奭](../Page/曹政奭.md "wikilink") 飾演 **金秉建**
+  - [金美京](../Page/金美京.md "wikilink") 飾演 **楊秀靜**
 
 ### 其他人物
 
   - [宋鈺宿](../Page/宋鈺宿.md "wikilink") 飾演 **在憲母**
-  - [金成鈴](https://zh.wikipedia.org/wiki/金成鈴 "wikilink") 飾演 **夏仁英**
-  - [楊姬瓊](https://zh.wikipedia.org/wiki/楊姬瓊 "wikilink") 飾演 **杜莉母**
+  - [金成鈴](../Page/金成鈴.md "wikilink") 飾演 **夏仁英**
+  - [楊姬瓊](../Page/楊姬瓊.md "wikilink") 飾演 **杜莉母**
   - [陳正勳](https://zh.wikipedia.org/wiki/陳正勳 "wikilink") 飾演 **鄭明夏**
   - [楊知元](../Page/楊知元.md "wikilink") 飾演 **楊智恩**
-  - [金佳恩](https://zh.wikipedia.org/wiki/金佳恩 "wikilink") 飾演 **金佳英**
+  - [金佳恩](../Page/金佳恩.md "wikilink") 飾演 **金佳英**
   - [韓藝媛](https://zh.wikipedia.org/wiki/韓藝媛 "wikilink") 飾演 **妍珠**
   - [權寧敦](https://zh.wikipedia.org/wiki/權寧敦 "wikilink") 飾演 **權寧敦**
   - [權寧得](https://zh.wikipedia.org/wiki/權寧得 "wikilink") 飾演 **權寧得**
   - [真理翰](../Page/真理翰.md "wikilink") 飾演 殷彩英經紀公司社長 **강만우江珉宇**
-  - [權律](https://zh.wikipedia.org/wiki/權律 "wikilink") 飾演 殷彩英經紀公司秘書
+  - [權律](../Page/權律.md "wikilink") 飾演 殷彩英經紀公司秘書
   - [河拉拉](https://zh.wikipedia.org/wiki/河拉拉 "wikilink") 飾演 **河拉拉**
   - [金城一](https://zh.wikipedia.org/wiki/金城一 "wikilink") 飾演 **金城才**
   - [金鐘炆](https://zh.wikipedia.org/wiki/金鐘炆 "wikilink") 飾演 **金鐘太**

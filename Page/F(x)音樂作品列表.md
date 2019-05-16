@@ -1,4 +1,4 @@
-**f(x)音樂作品列表**主要列舉[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[f(x)](../Page/f\(x\)_\(組合\).md "wikilink")**歷年發行的各類音樂專輯、影視歌曲和廣告歌曲。
+**f(x)音樂作品列表**主要列舉[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")**歷年發行的各類音樂專輯、影視歌曲和廣告歌曲。
 
 ## 韓語
 
@@ -58,7 +58,7 @@ Repackage</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Pink_Tape" title="wikilink">Pink Tape</a>》</strong></p>
+<td><p><strong>《<a href="../Page/Pink_Tape.md" title="wikilink">Pink Tape</a>》</strong></p>
 <ul>
 <li>發行日期: 2013年7月29日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
@@ -70,7 +70,7 @@ Repackage</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Red_Light" title="wikilink">Red Light</a>》</strong></p>
+<td><p><strong>《<a href="../Page/Red_Light.md" title="wikilink">Red Light</a>》</strong></p>
 <ul>
 <li>發行日期: 2014年7月7日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
@@ -850,9 +850,9 @@ Repackage</p></td>
 | 3月17日                          | 電視劇《饑餓的羅密歐，奢華的朱麗葉》                                                                       | Thrill Love                                                                                                                           | o                                                          | o                                | o    |
 | 3月22日                          | 電視劇《[越看越可愛](../Page/越看越可愛.md "wikilink")》                                                | 我愛你，我愛你                                                                                                                               | o                                                          | o                                | o    |
 | 4月23日                          | 電視劇《[灰姑娘的姐姐](../Page/灰姑娘的姐姐.md "wikilink")》                                              | 呼喚                                                                                                                                    |                                                            |                                  | o    |
-| 5月25日                          | 動畫片《[動物偵探奇魯米](https://zh.wikipedia.org/wiki/動物偵探奇魯米 "wikilink")》                         | 是真的(噓\!)                                                                                                                              | o                                                          | o                                | o    |
+| 5月25日                          | 動畫片《[動物偵探奇魯米](../Page/動物偵探奇魯米.md "wikilink")》                                            | 是真的(噓\!)                                                                                                                              | o                                                          | o                                | o    |
 | 5月28日                          | Music Drama《Melody Project》                                                              | Melody（Moderato）                                                                                                                      |                                                            |                                  |      |
-| 7月28日                          | 電影 《[舞出真我](../Page/舞出真我.md "wikilink")》                                                  | [Mr. Boogie](../Page/NU_ABO.md "wikilink")                                                                                            | o                                                          | o                                | o    |
+| 7月28日                          | 電影 《[舞出真我](../Page/舞出真我.md "wikilink")》                                                  | [Mr. Boogie](https://zh.wikipedia.org/wiki/NU_ABO "wikilink")                                                                         | o                                                          | o                                | o    |
 | 7月29日                          | 電視劇《請與我結婚》                                                                               | 美麗的日子                                                                                                                                 |                                                            |                                  | o    |
 | 12月30日                         | 電視劇《[總統](../Page/總統_\(韓國電視劇\).md "wikilink")》                                            | 愛你                                                                                                                                    |                                                            |                                  | o    |
 | 2011年                          | 1月26日                                                                                    | 電視劇《[天堂牧場](../Page/天堂牧場.md "wikilink")》                                                                                               | [喜歡你也可以嗎?](../Page/Hot_Summer_\(Repackage\).md "wikilink") | o                                | o    |
@@ -867,9 +867,9 @@ Repackage</p></td>
 | 6月19日                          | 音樂劇《[High School Musical](https://zh.wikipedia.org/wiki/High_School_Musical "wikilink")》 | Start Of Something New                                                                                                                |                                                            |                                  | o    |
 | 2014年                          | 4月7日                                                                                     | 電影《[Make Your Move 3D](https://zh.wikipedia.org/wiki/鬥舞幫 "wikilink")》                                                                 | Say Yes                                                    |                                  |      |
 | 7月25日                          | 電視劇《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》                       | 嗚咽                                                                                                                                    |                                                            |                                  |      |
-| 2015年                          | 1月28日                                                                                    | 電視劇《[Kill Me Heal Me](https://zh.wikipedia.org/wiki/Kill_Me_Heal_Me "wikilink")》                                                      | Healing Love                                               |                                  |      |
+| 2015年                          | 1月28日                                                                                    | 電視劇《[Kill Me Heal Me](../Page/Kill_Me_Heal_Me.md "wikilink")》                                                                         | Healing Love                                               |                                  |      |
 | 12月3日                          | 電視劇《[生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink")》                                    | 只為你而生                                                                                                                                 |                                                            |                                  | o    |
-| 12月11日                         | 電視劇《[美麗的秘密](https://zh.wikipedia.org/wiki/美麗的秘密 "wikilink")》                             | 星星淚                                                                                                                                   | o                                                          |                                  |      |
+| 12月11日                         | 電視劇《[美麗的秘密](../Page/美麗的秘密.md "wikilink")》                                                | 星星淚                                                                                                                                   | o                                                          |                                  |      |
 | 12月30日                         | 親愛的小孩                                                                                    | o                                                                                                                                     |                                                            |                                  |      |
 | 2016年                          | 2月11日                                                                                    | 電影《閃電人的秘密》                                                                                                                            | Dream                                                      |                                  |      |
 | 4月12日                          | 電影《[我的新野蠻女友](https://zh.wikipedia.org/wiki/我的新野蠻女友 "wikilink")》                          | I believe                                                                                                                             | o                                                          |                                  |      |
@@ -1113,9 +1113,9 @@ Repackage</p></td>
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>2月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Super_Junior_Donghae_&amp;_Eunhyuk" title="wikilink">Super Junior<br />
+<td><p><a href="../Page/Super_Junior_Donghae_&amp;_Eunhyuk.md" title="wikilink">Super Junior<br />
 Donghae &amp; Eunhyuk</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ride_Me" title="wikilink">正规日辑《Ride Me》</a></p></td>
+<td><p><a href="../Page/Ride_Me.md" title="wikilink">正规日辑《Ride Me》</a></p></td>
 <td><p>Ten Years</p></td>
 <td></td>
 </tr>
@@ -1167,7 +1167,7 @@ Donghae &amp; Eunhyuk</a></p></td>
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>10月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Bernard_Park" title="wikilink">NakJoon</a></p></td>
+<td><p><a href="../Page/Bernard_Park.md" title="wikilink">NakJoon</a></p></td>
 <td><p>首張数码单曲 《Still》</p></td>
 <td><p>Still<br />
 <small></p></td>
@@ -1197,7 +1197,7 @@ Donghae &amp; Eunhyuk</a></p></td>
 <tbody>
 <tr class="odd">
 <td><p><strong>2010年</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Girls&#39;_Generation_The_1st_Asia_Tour_-_Into_The_New_World" title="wikilink">少女時代首次亞洲巡迴演唱會 - Into The New World</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Girls&#39;_Generation_The_1st_Asia_Tour_-_Into_The_New_World.md" title="wikilink">少女時代首次亞洲巡迴演唱會 - Into The New World</a></strong>》</p>
 <ul>
 <li>發行日期: 12月30日</li>
 <li>格式：CD</li>
@@ -1218,7 +1218,7 @@ Track 8：1, 2 Step (<a href="../Page/俞利.md" title="wikilink">Yuri</a> feat.
 </tr>
 <tr class="odd">
 <td><p><strong>2011年</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Girls&#39;_Generation_The_1st_Asia_Tour_-_Into_The_New_World" title="wikilink">少女時代首次亞洲巡迴演唱會 - Into The New World</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Girls&#39;_Generation_The_1st_Asia_Tour_-_Into_The_New_World.md" title="wikilink">少女時代首次亞洲巡迴演唱會 - Into The New World</a></strong>》</p>
 <ul>
 <li>發行日期: 8月17日</li>
 <li>格式：DVD</li>
@@ -1355,7 +1355,7 @@ Track 7：1, 2 Step (<a href="../Page/俞利.md" title="wikilink">Yuri</a> feat.
 <td><p><strong>2013年</strong></p></td>
 <td><p>7月29日</p></td>
 <td><p>Goodbye Summer</p></td>
-<td><p>f(x)第二张正规专辑《<a href="https://zh.wikipedia.org/wiki/Pink_Tape" title="wikilink">Pink Tape</a>》</p></td>
+<td><p>f(x)第二张正规专辑《<a href="../Page/Pink_Tape.md" title="wikilink">Pink Tape</a>》</p></td>
 <td><p>Amber</p></td>
 <td></td>
 </tr>
@@ -1363,7 +1363,7 @@ Track 7：1, 2 Step (<a href="../Page/俞利.md" title="wikilink">Yuri</a> feat.
 <td><p><strong>2014年</strong></p></td>
 <td><p>7月7日</p></td>
 <td><p>Summer Lover</p></td>
-<td><p>f(x)第三张正规专辑《<a href="https://zh.wikipedia.org/wiki/Red_Light" title="wikilink">Red Light</a>》</p></td>
+<td><p>f(x)第三张正规专辑《<a href="../Page/Red_Light.md" title="wikilink">Red Light</a>》</p></td>
 <td></td>
 <td></td>
 </tr>

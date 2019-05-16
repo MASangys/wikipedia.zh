@@ -6,7 +6,7 @@
 在SD
 3.0規格下，低容量記憶卡仍使用[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")，SD
 3.0規定之最高速度為104MB/s\[1\]；而高容量則於[SD
-4.0中規範最大容量可高達](https://zh.wikipedia.org/wiki/SD_4.0 "wikilink")2[TB](https://zh.wikipedia.org/wiki/TB "wikilink")，採用的檔案系統是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[專利的](https://zh.wikipedia.org/wiki/專利 "wikilink")[exFAT規格](../Page/exFAT.md "wikilink")。SD
+4.0中規範最大容量可高達](https://zh.wikipedia.org/wiki/SD_4.0 "wikilink")2[TB](https://zh.wikipedia.org/wiki/TB "wikilink")，採用的檔案系統是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[專利的](https://zh.wikipedia.org/wiki/專利 "wikilink")[exFAT規格](https://zh.wikipedia.org/wiki/exFAT "wikilink")。SD
 4.0規範將最高速度提升至312MB/s。[SDHC所採用的](../Page/SDHC.md "wikilink")[FAT](../Page/FAT.md "wikilink")、[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")、[Ext2於SDXC仍可使用](../Page/Ext2.md "wikilink")，SDXC電子介面規格仍與SDHC相容。
 
 ## 限制

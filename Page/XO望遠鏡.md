@@ -6,7 +6,7 @@ Exoplanet Survey, TrES）。硬體花費為六萬美金，相關軟體花費則�
 ## 發現的行星
 
 XO望遠鏡已經發現五顆行星，其中四顆是[熱木星](../Page/熱木星.md "wikilink")，另一顆
-[XO-3b](https://zh.wikipedia.org/wiki/XO-3b "wikilink")
+[XO-3b](../Page/XO-3b.md "wikilink")
 則可能是[棕矮星](../Page/棕矮星.md "wikilink")。所有系外行星都以凌日法發現。
 
 <table>
@@ -77,7 +77,7 @@ XO望遠鏡已經發現五顆行星，其中四顆是[熱木星](../Page/熱木�
 <td><p>9.91</p></td>
 <td><p>850</p></td>
 <td><p>F5V</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/XO-3b" title="wikilink">XO-3b</a></p></td>
+<td><p><a href="../Page/XO-3b.md" title="wikilink">XO-3b</a></p></td>
 <td><p>11.79</p></td>
 <td><p>1.217</p></td>
 <td><p>3.1915239</p></td>

@@ -21,16 +21,14 @@ TEBY，現任CEO為Cho Sun Oh. \[3\] \[4\] \[5\] \[6\]
 
   - [Paloalto](https://zh.wikipedia.org/wiki/Paloalto_\(藝人\) "wikilink")
   - [MC K](https://zh.wikipedia.org/wiki/MC_K "wikilink")
-  - [M.I.B](https://zh.wikipedia.org/wiki/M.I.B "wikilink") (Most
-    Incredible Busters) \[11\]
+  - [M.I.B](../Page/M.I.B.md "wikilink") (Most Incredible Busters)
+    \[11\]
   - [鄭仁](../Page/鄭仁.md "wikilink")
 
 ## 參見
 
-  - [Brave
-    Entertainment](https://zh.wikipedia.org/wiki/Brave娛樂 "wikilink")
-  - [Star Empire
-    Entertainment](https://zh.wikipedia.org/wiki/明星帝國娛樂 "wikilink")
+  - [Brave Entertainment](../Page/Brave娛樂.md "wikilink")
+  - [Star Empire Entertainment](../Page/明星帝國娛樂.md "wikilink")
   - [YG
     Entertainment](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")
 

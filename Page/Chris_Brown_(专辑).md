@@ -1,5 +1,5 @@
 《**Chris
-Brown**》是美国[节奏布鲁斯歌手](../Page/节奏布鲁斯.md "wikilink")[克里斯·布朗的同名出道专辑](../Page/克里斯·布朗.md "wikilink")，由Jive唱片公司于2005年11月29日在全美发布。该专辑在商业上十分成功，在全美发售超过二百万张，获得[美国唱片业协会颁发的双白金](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")[销售证明](https://zh.wikipedia.org/wiki/音乐唱片销售认证 "wikilink")，\[1\]在海外发行量也突破一百万。该专辑还为布朗获得了最佳新人和最佳节奏布鲁斯专辑两项[格莱美奖提名](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")。
+Brown**》是美国[节奏布鲁斯歌手](../Page/节奏布鲁斯.md "wikilink")[克里斯·布朗的同名出道专辑](../Page/克里斯·布朗.md "wikilink")，由Jive唱片公司于2005年11月29日在全美发布。该专辑在商业上十分成功，在全美发售超过二百万张，获得[美国唱片业协会颁发的双白金](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")[销售证明](../Page/音乐唱片销售认证.md "wikilink")，\[1\]在海外发行量也突破一百万。该专辑还为布朗获得了最佳新人和最佳节奏布鲁斯专辑两项[格莱美奖提名](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")。
 
 ## 概念
 

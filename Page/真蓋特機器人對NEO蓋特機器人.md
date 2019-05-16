@@ -137,8 +137,7 @@
   - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - 製作人 -
     南喜長、小林辰-{与}-、[森本浩二](https://zh.wikipedia.org/wiki/森本浩二 "wikilink")、徳原八州、水野さつき、田中渉
-  - 製作 -
-    早乙女研究所（[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")、DYNAMIC
+  - 製作 - 早乙女研究所（[萬代影視](../Page/萬代影視.md "wikilink")、DYNAMIC
     AUDIO企畫、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
 
 ## 主題歌

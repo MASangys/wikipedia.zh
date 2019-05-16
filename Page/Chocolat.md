@@ -162,8 +162,7 @@ Countdown節目正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilin
   - [歌手與練習生](https://zh.wikipedia.org/wiki/歌手與練習生 "wikilink") -
     中秋特輯　（2011年8月13日）
   - [改變世界的Quiz](https://zh.wikipedia.org/wiki/改變世界的Quiz "wikilink")　（2011年10月29日），Tia
-  - [Heart to
-    Heart](https://zh.wikipedia.org/wiki/Heart_to_Heart "wikilink")　（2011年11月9日）
+  - [Heart to Heart](../Page/Heart_to_Heart.md "wikilink")　（2011年11月9日）
 
 <!-- end list -->
 
@@ -196,10 +195,10 @@ Countdown節目正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilin
 
 ## 廣告
 
-|      |                                                                |
-| ---- | -------------------------------------------------------------- |
-| 2011 | Lioele化妆品([Tia](https://zh.wikipedia.org/wiki/Tia "wikilink")) |
-| 2012 | NBA korea体育品牌                                                  |
+|      |                                             |
+| ---- | ------------------------------------------- |
+| 2011 | Lioele化妆品([Tia](../Page/Tia.md "wikilink")) |
+| 2012 | NBA korea体育品牌                               |
 
 ## 參考資料
 

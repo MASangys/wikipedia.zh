@@ -1,6 +1,6 @@
 《**W的悲劇**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），1984年[角川春樹事務所製作的](https://zh.wikipedia.org/wiki/角川春樹事務所 "wikilink")[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。由[藥師丸博子主演](../Page/藥師丸博子.md "wikilink")。
 
-雖然是改編自[夏樹靜子的同名](https://zh.wikipedia.org/wiki/夏樹靜子 "wikilink")[推理小說](../Page/推理小說.md "wikilink")《[W的悲劇](../Page/W的悲劇.md "wikilink")》，但是題材和故事情節都不相同。小說《W的悲劇》作為影片中人物演出的一部[舞台劇存在](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")。
+雖然是改編自[夏樹靜子的同名](../Page/夏樹靜子.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")《[W的悲劇](../Page/W的悲劇.md "wikilink")》，但是題材和故事情節都不相同。小說《W的悲劇》作為影片中人物演出的一部[舞台劇存在](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")。
 
 ## 情節
 
@@ -39,7 +39,7 @@
 
   - 製作：[角川春樹](../Page/角川春樹.md "wikilink")
   - 導演：[澤井信一郎](https://zh.wikipedia.org/wiki/澤井信一郎 "wikilink")
-  - 原作：[夏樹靜子](https://zh.wikipedia.org/wiki/夏樹靜子 "wikilink")
+  - 原作：[夏樹靜子](../Page/夏樹靜子.md "wikilink")
   - 編劇：[荒井晴彦](https://zh.wikipedia.org/wiki/荒井晴彦 "wikilink")、澤井信一郎
   - 音樂：[久石讓](https://zh.wikipedia.org/wiki/久石讓 "wikilink")
   - 主題曲：「[Woman

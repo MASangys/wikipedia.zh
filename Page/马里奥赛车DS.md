@@ -1,4 +1,4 @@
-是由[任天堂情報開發本部開發的一款](../Page/任天堂情報開發本部.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")[賽車遊戲](https://zh.wikipedia.org/wiki/賽車遊戲 "wikilink")。本作是[瑪利歐賽車系列的第五作](../Page/瑪利歐賽車系列.md "wikilink")，也是第一款可以通过[任天堂官方架设的免费网络平台](../Page/任天堂.md "wikilink")[任天堂Wi-Fi连接进行网络联机对战的游戏](https://zh.wikipedia.org/wiki/任天堂Wi-Fi连接 "wikilink")。《瑪利歐賽車DS》于2005年11月14日在北美發售，2005年11月25日在欧洲发售，2005年12月8日在日本发售，2007年4月5日在南韩发售。如同系列其他作品，游戏采用[马里奥系列的角色](https://zh.wikipedia.org/wiki/马里奥系列 "wikilink")，在马里奥系列主题赛道上驾驶[卡丁车竞速](https://zh.wikipedia.org/wiki/卡丁车 "wikilink")。
+是由[任天堂情報開發本部開發的一款](../Page/任天堂情報開發本部.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")[賽車遊戲](https://zh.wikipedia.org/wiki/賽車遊戲 "wikilink")。本作是[瑪利歐賽車系列的第五作](../Page/瑪利歐賽車系列.md "wikilink")，也是第一款可以通过[任天堂官方架设的免费网络平台](../Page/任天堂.md "wikilink")[任天堂Wi-Fi连接进行网络联机对战的游戏](../Page/任天堂Wi-Fi连接.md "wikilink")。《瑪利歐賽車DS》于2005年11月14日在北美發售，2005年11月25日在欧洲发售，2005年12月8日在日本发售，2007年4月5日在南韩发售。如同系列其他作品，游戏采用[马里奥系列的角色](https://zh.wikipedia.org/wiki/马里奥系列 "wikilink")，在马里奥系列主题赛道上驾驶[卡丁车竞速](https://zh.wikipedia.org/wiki/卡丁车 "wikilink")。
 
 《马力欧卡丁车DS》获得好评，在[Metacritic上的汇总得分为](../Page/Metacritic.md "wikilink")91%。称赞围绕游戏的图形和游戏性，批评之处主要为单调的单人模式。游戏获得[GameSpot](../Page/GameSpot.md "wikilink")、[IGN和](../Page/IGN.md "wikilink")《[G-Phoria](https://zh.wikipedia.org/wiki/G-Phoria "wikilink")》颁发的数项奖项。游戏在2013年时第三畅销的任天堂DS游戏，到2014年6月时全球销量2356万。
 
@@ -19,11 +19,11 @@ cc赛道的水平翻转，需要解锁。在大奖赛模式中，玩家和7名[�
 
 任务模式要求玩家完成任务，任务从收集硬币到攻击敌人不尽相同。在任务中玩家控制指定角色。任务有7个等级，每个下面有8个任务。在完成任务后玩家会得到分级，范围从E到A再到1、2、3星。在8个任务完成后就会完成此等级，在完成[头目任务后才能进入下一级](https://zh.wikipedia.org/wiki/头目_\(游戏\) "wikilink")。前六个任务完成且所有任务至少1星时，第7等级才会解锁。
 
-游戏还支持多人模式，8名玩家赛手可使用[DS下载游玩功能或多卡](https://zh.wikipedia.org/wiki/DS下载游玩 "wikilink")[无线局域网连接](../Page/无线局域网.md "wikilink")。在2014年5月20日前，《马力欧卡丁车DS》还通过[任天堂Wi-Fi连接](https://zh.wikipedia.org/wiki/任天堂Wi-Fi连接 "wikilink")，支持至多四人同时在线游戏\[3\]。在线游戏时，参与者只能互相竞速，在线连接不支持决斗模式\[4\]。
+游戏还支持多人模式，8名玩家赛手可使用[DS下载游玩功能或多卡](https://zh.wikipedia.org/wiki/DS下载游玩 "wikilink")[无线局域网连接](../Page/无线局域网.md "wikilink")。在2014年5月20日前，《马力欧卡丁车DS》还通过[任天堂Wi-Fi连接](../Page/任天堂Wi-Fi连接.md "wikilink")，支持至多四人同时在线游戏\[3\]。在线游戏时，参与者只能互相竞速，在线连接不支持决斗模式\[4\]。
 
 ## 开发
 
-任天堂在2005年5月11日首度公开[任天堂DS马里奥赛车作品发售计划](../Page/任天堂DS.md "wikilink")，同时公布了一些游戏性视频镜头\[5\]。公司在2005年[游戏开发者大会首次公开提供游戏试玩](https://zh.wikipedia.org/wiki/游戏开发者大会 "wikilink")，并展示了游戏无线功能\[6\]。《马里奥赛车DS》由2005年《[任天堂](../Page/任天堂.md "wikilink")》制作人[绀野秀树制作](https://zh.wikipedia.org/wiki/绀野秀树 "wikilink")\[7\]。游戏以恒60[帧每秒显示全](https://zh.wikipedia.org/wiki/帧每秒 "wikilink")3D角色和环境\[8\]。
+任天堂在2005年5月11日首度公开[任天堂DS马里奥赛车作品发售计划](../Page/任天堂DS.md "wikilink")，同时公布了一些游戏性视频镜头\[5\]。公司在2005年[游戏开发者大会首次公开提供游戏试玩](../Page/游戏开发者大会.md "wikilink")，并展示了游戏无线功能\[6\]。《马里奥赛车DS》由2005年《[任天堂](../Page/任天堂.md "wikilink")》制作人[绀野秀树制作](https://zh.wikipedia.org/wiki/绀野秀树 "wikilink")\[7\]。游戏以恒60[帧每秒显示全](https://zh.wikipedia.org/wiki/帧每秒 "wikilink")3D角色和环境\[8\]。
 
 《马力欧卡丁车DS》是首部支持在线游戏的马里奥赛车的作品。绀野称虽然《马里奥赛车DS》和[光环系列都支持在线游戏](https://zh.wikipedia.org/wiki/光环系列 "wikilink")，但使用光环在线功能多为[硬核玩家](https://zh.wikipedia.org/wiki/硬核玩家 "wikilink")。对于《马力欧卡丁车》，绀野“希望所有人都上线，而这正是实现这一点的正确技术和时间”。每部马里奥赛车都承袭传统且引入新机制，《马力欧卡丁车DS》是首部以一卡带支持8玩家同时游戏的作品。游戏还引入无需多人参与的单人对战模式。作为任天堂DS上的首部马里奥赛车，开发者尝试多种利用设备下[触屏的方式](https://zh.wikipedia.org/wiki/触屏 "wikilink")。他们考虑过让玩家将道具投掷到赛道任意地方，而非只能扔在卡丁车后。然而他们发现这回让玩家太过分心，在赛车时难以控制放置地点\[9\]。
 

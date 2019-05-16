@@ -11,8 +11,7 @@
 ## 流行文化
 
 BMW R1200RT在2015年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans:
-战地：硬仗;zh-hant:
-戰地風雲：強硬路線}-](https://zh.wikipedia.org/wiki/战地：硬仗 "wikilink")》（Battlefield:
+战地：硬仗;zh-hant: 戰地風雲：強硬路線}-](../Page/战地：硬仗.md "wikilink")》（Battlefield:
 Hardline）中以警用摩托車之姿出現。
 
 ## 参考文献

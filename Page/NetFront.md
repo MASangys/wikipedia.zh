@@ -3,7 +3,7 @@
 ## 概況
 
 NetFront是為了日本[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")（[NTT
-DoCoMo](../Page/NTT_DoCoMo.md "wikilink")、[軟體銀行行動](https://zh.wikipedia.org/wiki/軟體銀行行動 "wikilink")）、[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")、[遊樂器和](https://zh.wikipedia.org/wiki/遊樂器 "wikilink")[机顶盒的網路瀏覽需求](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")，由愛可信和[Adobe共同開發而成](../Page/Adobe.md "wikilink")，採用[模組化的方式](https://zh.wikipedia.org/wiki/模組化 "wikilink")，只安裝最必要的功能，同時也將[Adobe
+DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")、[軟體銀行行動](https://zh.wikipedia.org/wiki/軟體銀行行動 "wikilink")）、[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")、[遊樂器和](https://zh.wikipedia.org/wiki/遊樂器 "wikilink")[机顶盒的網路瀏覽需求](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")，由愛可信和[Adobe共同開發而成](../Page/Adobe.md "wikilink")，採用[模組化的方式](https://zh.wikipedia.org/wiki/模組化 "wikilink")，只安裝最必要的功能，同時也將[Adobe
 Reader LE和](../Page/Adobe_Acrobat.md "wikilink")[Adobe
 Flash](../Page/Adobe_Flash.md "wikilink") Player移植於其上。
 
@@ -28,7 +28,7 @@ NX。這兩種瀏覽器是以[WebKit](../Page/WebKit.md "wikilink")[排版引擎
     Edition（功能上等同[JavaScript](../Page/JavaScript.md "wikilink")
     1.5）
   - [DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")
-    Level1、Level2、[動態HTML](../Page/動態HTML.md "wikilink")、[Ajax](../Page/Ajax.md "wikilink")（XMLHttpRequest）
+    Level1、Level2、[動態HTML](../Page/動態HTML.md "wikilink")、[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink")（XMLHttpRequest）
   - [HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")
     [Cache](https://zh.wikipedia.org/wiki/Cache "wikilink")
   - HTTP 1.1
@@ -42,10 +42,9 @@ NX。這兩種瀏覽器是以[WebKit](../Page/WebKit.md "wikilink")[排版引擎
 
   - [索尼的家用](../Page/索尼.md "wikilink")[遊樂器](https://zh.wikipedia.org/wiki/遊樂器 "wikilink")[PlayStation
     3](../Page/PlayStation_3.md "wikilink")\[3\]
-  - 索尼的家用遊樂器[PlayStation
-    4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")
+  - 索尼的家用遊樂器[PlayStation 4](../Page/PlayStation_4.md "wikilink")
   - 索尼的家用遊樂器[PlayStation Vita
-    TV](https://zh.wikipedia.org/wiki/PlayStation_Vita_TV "wikilink")
+    TV](../Page/PlayStation_Vita_TV.md "wikilink")
   - 索尼的掌上型遊樂器[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")
   - 索尼的掌上型遊樂器[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")
   - [任天堂的](../Page/任天堂.md "wikilink")[Wii

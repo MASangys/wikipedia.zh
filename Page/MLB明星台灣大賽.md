@@ -12,7 +12,7 @@
 ### MLB明星隊
 
   -
-    總教練：[布魯斯·波奇](https://zh.wikipedia.org/wiki/布魯斯·波奇 "wikilink")
+    總教練：[布魯斯·波奇](../Page/布魯斯·波奇.md "wikilink")
     教練團：[Rick
     Honeycutt](https://zh.wikipedia.org/wiki/Rick_Honeycutt "wikilink")、Derek
     Shelton、Ron Wotus、Billy Hayes、Ali Modami
@@ -49,8 +49,8 @@
   -
     總教練: [陳威成](../Page/陳威成.md "wikilink")
     投　手：[王建民](https://zh.wikipedia.org/wiki/王建民_\(棒球選手\) "wikilink")、[倪福德](../Page/倪福德.md "wikilink")、[陽耀勳](../Page/陽耀勳.md "wikilink")、[鄭凱文](../Page/鄭凱文.md "wikilink")、[林羿豪](../Page/林羿豪.md "wikilink")、[羅錦龍](../Page/羅錦龍.md "wikilink")、[林煜清](../Page/林煜清.md "wikilink")、[林晨樺](../Page/林晨樺.md "wikilink")、
-    　　　　[林柏佑](../Page/林柏佑.md "wikilink")、[王躍霖](https://zh.wikipedia.org/wiki/王躍霖 "wikilink")、[陳冠儒](https://zh.wikipedia.org/wiki/陳冠儒 "wikilink")、[郭俊麟](https://zh.wikipedia.org/wiki/郭俊麟 "wikilink")、[邱浩鈞](../Page/邱浩鈞.md "wikilink")、[陳禹勳](https://zh.wikipedia.org/wiki/陳禹勳 "wikilink")、[鄭文豪](https://zh.wikipedia.org/wiki/鄭文豪 "wikilink")
-    捕　手：[陳俊秀](../Page/陳俊秀.md "wikilink")、[王峻杰](https://zh.wikipedia.org/wiki/王峻杰 "wikilink")、[陽冠威](https://zh.wikipedia.org/wiki/陽冠威 "wikilink")
+    　　　　[林柏佑](../Page/林柏佑.md "wikilink")、[王躍霖](../Page/王躍霖.md "wikilink")、[陳冠儒](https://zh.wikipedia.org/wiki/陳冠儒 "wikilink")、[郭俊麟](../Page/郭俊麟.md "wikilink")、[邱浩鈞](../Page/邱浩鈞.md "wikilink")、[陳禹勳](https://zh.wikipedia.org/wiki/陳禹勳 "wikilink")、[鄭文豪](https://zh.wikipedia.org/wiki/鄭文豪 "wikilink")
+    捕　手：[陳俊秀](../Page/陳俊秀.md "wikilink")、[王峻杰](https://zh.wikipedia.org/wiki/王峻杰 "wikilink")、[陽冠威](../Page/陽冠威.md "wikilink")
     內野手：[黃智培](../Page/黃智培.md "wikilink")、[林　瀚](https://zh.wikipedia.org/wiki/林瀚 "wikilink")、[蕭帛庭](https://zh.wikipedia.org/wiki/蕭帛庭 "wikilink")、[潘志芳](../Page/潘志芳.md "wikilink")、[陳品捷](../Page/陳品捷.md "wikilink")、[郭阜林](../Page/郭阜林.md "wikilink")、[陳偉志](https://zh.wikipedia.org/wiki/陳偉志 "wikilink")、[林威廷](https://zh.wikipedia.org/wiki/林威廷 "wikilink")、
     　　　　[林志賢](https://zh.wikipedia.org/wiki/林志賢\(1992\) "wikilink")
     外野手：[林哲瑄](../Page/林哲瑄.md "wikilink")、[羅國輝](https://zh.wikipedia.org/wiki/羅國輝 "wikilink")、[林旺衛](../Page/林旺衛.md "wikilink")、[黃義坤](https://zh.wikipedia.org/wiki/黃義坤 "wikilink")、[藍寅倫](https://zh.wikipedia.org/wiki/藍寅倫 "wikilink")、[林加祐](https://zh.wikipedia.org/wiki/林加祐 "wikilink")

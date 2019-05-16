@@ -3,7 +3,7 @@
 作为[麻枝准](../Page/麻枝准.md "wikilink")、[折户伸治](https://zh.wikipedia.org/wiki/折户伸治 "wikilink")、[樋上至等现在](../Page/樋上至.md "wikilink")[Key的主要成员首次共同制作的作品](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")，此作经常被称作“Key的原点”、“事实上的第1作”，一般被视为Key系游戏\[2\]。根據Peaks曾發行的[PC
 NEWS所公佈的日本全國美少女遊戲銷售量排行榜](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")，MOON.DVD在2002年7月的日本全國美少女游戏销售排行榜排行第44位。\[3\]MOON.Limited在2002年9月的日本全國美少女游戏销售排行榜排行第48位。\[4\]
 
-本作以封闭的宗教团体为舞台，并且有[陵辱描写](https://zh.wikipedia.org/wiki/强奸 "wikilink")，这些都与以后Key的作品有很大的不同。但是，本作中也有许多和家人之间有各种各样的矛盾的角色，剧本创作的重点是各个角色的心理刻画。MOON.的音乐的评价也很高。从这些点来看，之后[Kanon](../Page/Kanon.md "wikilink")、[AIR](https://zh.wikipedia.org/wiki/AIR_\(游戏\) "wikilink")、[CLANNAD等游戏中的Key的特点已经在本作中出现](../Page/CLANNAD.md "wikilink")。
+本作以封闭的宗教团体为舞台，并且有[陵辱描写](../Page/强奸.md "wikilink")，这些都与以后Key的作品有很大的不同。但是，本作中也有许多和家人之间有各种各样的矛盾的角色，剧本创作的重点是各个角色的心理刻画。MOON.的音乐的评价也很高。从这些点来看，之后[Kanon](../Page/Kanon.md "wikilink")、[AIR](https://zh.wikipedia.org/wiki/AIR_\(游戏\) "wikilink")、[CLANNAD等游戏中的Key的特点已经在本作中出现](../Page/CLANNAD.md "wikilink")。
 
 另外，一般来说[恋爱冒险游戏的主人公都是男性](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")，本作的主人公却是女性，这也是MOON.的一个特点。
 

@@ -74,7 +74,7 @@ BEST**（放浪抒情精選）是[EXILE第](https://zh.wikipedia.org/wiki/EXILE 
       - 作詞：ATSUSHI / 作曲・編曲：春川仁志 / ストリングスアレンジ：門脇大輔&春川仁志
 11. '''[不變的心意](../Page/EXILE_LOVE.md "wikilink") '''（変わらないモノ）
       - 作詞：ATSUSHI / 作曲：宅見将典 / 編曲：中野雄太
-12. **[道](https://zh.wikipedia.org/wiki/道路_\(EXILE單曲\) "wikilink")**
+12. **[道](../Page/道路_\(EXILE單曲\).md "wikilink")**
       - 作詞：樫田正剛 / 作曲：miwa furuse / 編曲：華原大輔 /
         ストリングスアレンジ：[前嶋康明](https://zh.wikipedia.org/wiki/前嶋康明 "wikilink")
 13. **[One love](../Page/EXILE_EVOLUTION.md "wikilink") -Piano

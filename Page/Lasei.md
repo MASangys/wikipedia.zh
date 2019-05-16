@@ -78,7 +78,7 @@ LLC.發行，是[ELISA的第](../Page/ELISA_\(歌手\).md "wikilink")3張專輯�
 ### DVD
 
 1.  **[ebullient
-    future](../Page/ebullient_future.md "wikilink")**（English）
+    future](https://zh.wikipedia.org/wiki/ebullient_future "wikilink")**（English）
       -
         作詞：酒井伸和・西田恵美、作曲・編曲：天門
 2.  **HIKARI**

@@ -16,7 +16,7 @@ Communications](https://zh.wikipedia.org/wiki/Tokuma_Japan_Communications "wikil
   - 專輯以首週約22.7萬的銷量取得[Oricon週榜冠軍](../Page/Oricon.md "wikilink")，連續三張專輯登上冠軍位置，是自[SPEED在](../Page/SPEED_\(日本音樂團體\).md "wikilink")1999年發行的專輯『[Carry
     On my
     way](../Page/Carry_On_my_way.md "wikilink")』11年11個月後再有女子團體獲得此記錄。另外，這次作品是自2005年9月主流出道以來，自身的最高首週銷量記錄\[2\]。
-  - 於Perfume加盟環球唱片後，專輯在全球[iTunes開賣](../Page/iTunes.md "wikilink")（日本以外），另外在亞洲地區提供實體CD發售，在2012年4月13日發行台壓版及港壓版。
+  - 於Perfume加盟環球唱片後，專輯在全球[iTunes開賣](https://zh.wikipedia.org/wiki/iTunes "wikilink")（日本以外），另外在亞洲地區提供實體CD發售，在2012年4月13日發行台壓版及港壓版。
 
 ## 收錄曲
 

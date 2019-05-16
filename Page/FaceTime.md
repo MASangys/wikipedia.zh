@@ -1,23 +1,23 @@
-**FaceTime**是[蘋果公司的一種](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[視訊通話應用軟體](https://zh.wikipedia.org/wiki/視訊電話 "wikilink")，使用該公司自訂的通信協議，支援[iOS作業系統的](../Page/iOS.md "wikilink")[iPhone
-4、](../Page/iPhone_4.md "wikilink")[iPhone
-4S](../Page/iPhone_4S.md "wikilink")、[iPhone
-5](../Page/iPhone_5.md "wikilink")、[iPhone
+**FaceTime**是[蘋果公司的一種](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[視訊通話應用軟體](https://zh.wikipedia.org/wiki/視訊電話 "wikilink")，使用該公司自訂的通信協議，支援[iOS作業系統的](https://zh.wikipedia.org/wiki/iOS "wikilink")[iPhone
+4、](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[iPhone
+4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")、[iPhone
+5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPhone
 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")、[iPhone
 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")、[iPad
 Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad
 mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")、[iPad
-2](../Page/iPad_2.md "wikilink")、[iPad
-(第三代)](../Page/iPad_\(第三代\).md "wikilink")、[iPad
+2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")、[iPad
+(第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")、[iPad
 (第四代)和](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")[iPod
-Touch第四代與](../Page/iPod_Touch.md "wikilink")[Mac OS
+Touch第四代與](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（版本10.6.6以上）作業系統並具有前置攝影機的[Mac
 電腦](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")。
 
 ## 歷史
 
-FaceTime是由蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[賈伯斯在](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")2010年6月7日在[蘋果全球研發者大會上發表的](https://zh.wikipedia.org/wiki/WWDC "wikilink")，首先支援的是新推出的[iPhone 4](../Page/iPhone_4.md "wikilink")。
+FaceTime是由蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[賈伯斯在](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")2010年6月7日在[蘋果全球研發者大會上發表的](https://zh.wikipedia.org/wiki/WWDC "wikilink")，首先支援的是新推出的[iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")。
 隨著附有攝影機的第四代[iPod
-Touch在](../Page/iPod_Touch.md "wikilink")2010年9月8日推出，FaceTime也加入對該裝置的支援。
+Touch在](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")2010年9月8日推出，FaceTime也加入對該裝置的支援。
 
 軟體名稱「FaceTime」是蘋果公司向-{zh-hans:FaceTime;zh-hant:FaceTime}-
 Communications買來的，該公司售出此名稱後改名為 Actiance, Inc.\[1\]
@@ -29,7 +29,7 @@ Store以](../Page/Mac_App_Store.md "wikilink")0.99 美元（或0.69
 。蘋果伺服器用的beta版仍屬免費\[3\]。到了[Mac OS X
 Lion](../Page/Mac_OS_X_Lion.md "wikilink")(10.7)
 版本中則已內建無需額外費用。2011年3月2日宣佈FaceTime也支援新的[iPad
-2](../Page/iPad_2.md "wikilink")，並可使用前置或後置攝影鏡頭。
+2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")，並可使用前置或後置攝影鏡頭。
 
 ## 實作
 
@@ -51,7 +51,7 @@ Mbps下載頻寬。
 破解](https://zh.wikipedia.org/wiki/IOS越狱 "wikilink")。\[6\]
 2012年6月11日举行的[蘋果全球研發者大會上](https://zh.wikipedia.org/wiki/WWDC "wikilink")，[苹果公司iOS软件高级副总裁](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Scott
 Forstall表示](https://zh.wikipedia.org/wiki/Scott_Forstall "wikilink")，Facetime在[iOS
-6中将可用于蜂窝网络中](../Page/iOS_6.md "wikilink")。iOS6正式推出后，FaceTime在iPhone
+6中将可用于蜂窝网络中](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")。iOS6正式推出后，FaceTime在iPhone
 4S、iPhone 5和具有蜂窝网络功能的第三代iPad上開始支持蜂窝网络。
 
 ## 費用

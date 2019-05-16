@@ -102,7 +102,7 @@
 <td><p>木﨑ゆりあ、<a href="https://zh.wikipedia.org/wiki/小木曽汐莉" title="wikilink">小木曽汐莉</a>、<strong>矢方美紀</strong>、今出舞、内山命</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/パレオはエメラルド" title="wikilink">パレオはエメラルド</a><br />
 （アニメVer）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松村香織" title="wikilink">松村香織</a></p></td>
+<td><p><a href="../Page/松村香織.md" title="wikilink">松村香織</a></p></td>
 <td><p>－</p></td>
 <td><p>－－－</p></td>
 </tr>

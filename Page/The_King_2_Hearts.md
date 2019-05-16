@@ -1,5 +1,5 @@
 《**The King 2
-Hearts**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年3月21日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，是由《[茶母](../Page/茶母_\(電視劇\).md "wikilink")》、《[貝多芬病毒](../Page/貝多芬病毒.md "wikilink")》等電視劇的[李在奎導演和洪氏姐妹編劇之](https://zh.wikipedia.org/wiki/李在奎 "wikilink")[洪珍兒作家再度攜手的作品](https://zh.wikipedia.org/wiki/洪氏姊妹#洪珍兒、洪紫蘭 "wikilink")。
+Hearts**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年3月21日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，是由《[茶母](../Page/茶母_\(電視劇\).md "wikilink")》、《[貝多芬病毒](../Page/貝多芬病毒.md "wikilink")》等電視劇的[李在奎導演和洪氏姐妹編劇之](../Page/李在奎.md "wikilink")[洪珍兒作家再度攜手的作品](https://zh.wikipedia.org/wiki/洪氏姊妹#洪珍兒、洪紫蘭 "wikilink")。
 
 ## 故事大綱
 
@@ -56,7 +56,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹帝文" title="wikilink">尹帝文</a></p></td>
+<p><a href="../Page/尹帝文.md" title="wikilink">尹帝文</a></p></td>
 <td><center>
 <p>金峰九</p></td>
 <td><p>Club M會長</p>
@@ -80,7 +80,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/曹政奭" title="wikilink">曹政奭</a></p></td>
+<p><a href="../Page/曹政奭.md" title="wikilink">曹政奭</a></p></td>
 <td><center>
 <p>殷始慶</p></td>
 <td><p>王室近衛中隊長</p>
@@ -120,7 +120,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/崔日和" title="wikilink">崔日和</a></p></td>
+<p><a href="../Page/崔日和.md" title="wikilink">崔日和</a></p></td>
 <td><center>
 <p>李銘</p></td>
 <td><p>大韓民國第二任國王，李在江、在河、在信的父王。</p></td>
@@ -140,8 +140,8 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李聖旻" title="wikilink">李聖旻</a><br />
-<small>少年：<a href="https://zh.wikipedia.org/wiki/朴健泰" title="wikilink">朴健泰</a></small></p></td>
+<p><a href="../Page/李聖旻.md" title="wikilink">李聖旻</a><br />
+<small>少年：<a href="../Page/朴健泰.md" title="wikilink">朴健泰</a></small></p></td>
 <td><center>
 <p>李在江</p></td>
 <td><p>大韓民國第三任國王，在河與在信的哥哥。</p></td>
@@ -163,7 +163,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李順載" title="wikilink">李順載</a></p></td>
+<p><a href="../Page/李順載.md" title="wikilink">李順載</a></p></td>
 <td><center>
 <p>殷奎泰</p></td>
 <td><p>大韓民國王室秘書室長，殷始慶的父親。</p></td>
@@ -174,7 +174,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/羅美蘭" title="wikilink">羅美蘭</a></p></td>
+<p><a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a></p></td>
 <td><center></td>
 <td><p>大韓民國王室宮廷室長。</p></td>
 <td></td>
@@ -210,7 +210,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄭滿植" title="wikilink">鄭滿植</a></p></td>
+<p><a href="../Page/鄭滿植.md" title="wikilink">鄭滿植</a></p></td>
 <td><center>
 <p>李鋼石</p></td>
 <td><p>北韓成員，朝鮮人民軍護衛司令部陸軍中尉。</p></td>
@@ -220,7 +220,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/權賢尚" title="wikilink">權賢尚</a></p></td>
+<p><a href="../Page/權賢尚.md" title="wikilink">權賢尚</a></p></td>
 <td><center>
 <p>廉東夏</p></td>
 <td><p>南韓成員，7團搜查大隊出身。</p></td>
@@ -288,7 +288,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/全國煥" title="wikilink">全國煥</a></p></td>
+<p><a href="../Page/全國煥.md" title="wikilink">全國煥</a></p></td>
 <td><center>
 <p>玄明浩</p></td>
 <td><p>北韓最高人民委員長</p></td>
@@ -309,7 +309,7 @@ Championship，簡稱WOC）相遇，經歷迂迴曲折的兩人終於墜入愛�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李施彥" title="wikilink">李施彥</a></p></td>
+<p><a href="../Page/李施彥.md" title="wikilink">李施彥</a></p></td>
 <td><center>
 <p>基雲</p></td>
 <td><p>恒兒的初戀</p></td>

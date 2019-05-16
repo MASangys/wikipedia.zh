@@ -45,7 +45,7 @@ Larami一直持有SuperSoaker的銷售版權，同時也是廣受歡迎的水槍
 
 ### Nerf Rebelle 蕊貝兒
 
-隨著堅強、勇敢的女孩愈來愈多，2013年NERF開始發售女孩版的NERF玩具槍枝和玩具弓箭，名稱Rebelle是結合了rebel(反叛)和belle(美人)之意，廣告主題曲為**新血霍克樂團**的[iTunes當週最佳單曲](../Page/iTunes.md "wikilink")
+隨著堅強、勇敢的女孩愈來愈多，2013年NERF開始發售女孩版的NERF玩具槍枝和玩具弓箭，名稱Rebelle是結合了rebel(反叛)和belle(美人)之意，廣告主題曲為**新血霍克樂團**的[iTunes當週最佳單曲](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 We Come
 Running。這系列連同小馬國女孩成為同年孩之寶女童玩具收入大增的功臣。2016年與分歧者電影合作推出[赤誠者玩具系列](../Page/分歧者3：赤誠者.md "wikilink")\[1\]。
 
@@ -61,7 +61,7 @@ N - Strike和其2009年的續集Nerf N -strike Elite。這兩款遊戲附送NERF
 
 ### 影片
 
-自從影片分享網站[Youtube](../Page/Youtube.md "wikilink")，開始有人實拍玩Nerf玩具槍槍戰，部分還加了真槍的聲音，增加收視度和增加觀看者的刺激感。在Youtube比較有名的頻道有
+自從影片分享網站[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")，開始有人實拍玩Nerf玩具槍槍戰，部分還加了真槍的聲音，增加收視度和增加觀看者的刺激感。在Youtube比較有名的頻道有
 Gun vs Gun 及 PDK Films。
 
 ## 參考

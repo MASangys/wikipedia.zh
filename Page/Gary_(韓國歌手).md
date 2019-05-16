@@ -212,7 +212,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <!-- end list -->
 
   - 「0영역의 배틀」- 디기리（feat. Gary, [Dynamic
-    Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink"), [Drunken
+    Duo](../Page/Dynamic_Duo.md "wikilink"), [Drunken
     Tiger](https://zh.wikipedia.org/wiki/Drunken_Tiger "wikilink")）
 
 <!-- end list -->
@@ -224,8 +224,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
   - 「Rainbow」- BMK（feat. Gary of
     [Leessang](../Page/Leessang.md "wikilink")）
   - 「It's Alright」- [Dynamic
-    Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")（Feat.[Brown
-    Eyed Soul
+    Duo](../Page/Dynamic_Duo.md "wikilink")（Feat.[Brown Eyed Soul
     (band)](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul_\(band\) "wikilink"),Gary,전제덕）
 
 <!-- end list -->
@@ -235,7 +234,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <!-- end list -->
 
   - 「불꽃」- 장혜진（Feat. Gary of Leessang）
-  - 「애주가」- [Psy](../Page/Psy.md "wikilink")（feat.
+  - 「애주가」- [Psy](https://zh.wikipedia.org/wiki/Psy "wikilink")（feat.
     [Leessang](../Page/Leessang.md "wikilink"))
 
 <!-- end list -->
@@ -270,10 +269,9 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
   - 「서로가 서로가 아니면 안될 때」 - 이수영（Feat.
     [Leessang](../Page/Leessang.md "wikilink")）
   - 「Keep the Change (잔돈은 됐어요)」- [Dynamic
-    Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")（Feat.
-    Gary, [Bumkey](https://zh.wikipedia.org/wiki/Bumkey "wikilink")
-  - 「혼자가 아닌 걸」-
-    [任昌丁](https://zh.wikipedia.org/wiki/任昌丁 "wikilink")（Feat.
+    Duo](../Page/Dynamic_Duo.md "wikilink")（Feat. Gary,
+    [Bumkey](https://zh.wikipedia.org/wiki/Bumkey "wikilink")
+  - 「혼자가 아닌 걸」- [任昌丁](../Page/任昌丁.md "wikilink")（Feat.
     [Leessang](../Page/Leessang.md "wikilink")）
 
 <!-- end list -->
@@ -439,7 +437,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a></p></td>
 <td><p>258</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">珍雲</a>(<a href="../Page/2AM.md" title="wikilink">2AM</a>)、<a href="https://zh.wikipedia.org/wiki/Defconn" title="wikilink">Defconn</a>、<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a> (賽艇特輯)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">珍雲</a>(<a href="../Page/2AM.md" title="wikilink">2AM</a>)、<a href="../Page/Defconn.md" title="wikilink">Defconn</a>、<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a> (賽艇特輯)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -461,7 +459,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <tr class="even">
 <td><p>8月13日</p></td>
 <td><p>262</p></td>
-<td><p><a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a>、<a href="https://zh.wikipedia.org/wiki/Defconn" title="wikilink">Defconn</a> (雨天取消特輯)</p></td>
+<td><p><a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a>、<a href="../Page/Defconn.md" title="wikilink">Defconn</a> (雨天取消特輯)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -495,7 +493,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/強心臟" title="wikilink">強心臟</a></p></td>
 <td><p>98</p></td>
-<td><p>玄振英、金寶美、崔蘭、<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>【<a href="https://zh.wikipedia.org/wiki/Miryo" title="wikilink">Miryo</a>、<a href="https://zh.wikipedia.org/wiki/Narsha" title="wikilink">Narsha</a>】、<a href="https://zh.wikipedia.org/wiki/崔秀琳" title="wikilink">崔秀琳</a>、洋白菜、<a href="https://zh.wikipedia.org/wiki/李載允" title="wikilink">李載允</a>、<br />
+<td><p>玄振英、金寶美、崔蘭、<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>【<a href="https://zh.wikipedia.org/wiki/Miryo" title="wikilink">Miryo</a>、<a href="https://zh.wikipedia.org/wiki/Narsha" title="wikilink">Narsha</a>】、<a href="../Page/崔秀琳.md" title="wikilink">崔秀琳</a>、洋白菜、<a href="../Page/李載允.md" title="wikilink">李載允</a>、<br />
 <a href="../Page/柳惠利.md" title="wikilink">柳惠利</a>、鄭朱莉、<a href="../Page/金孝珍.md" title="wikilink">金孝珍</a>、金永哲、趙靜林、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a>、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a> (hip-hop特輯)</p></td>
 <td></td>
 </tr>
@@ -520,7 +518,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a></p></td>
 <td><p>282</p></td>
-<td><p><a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a>、<a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/鄭仁.md" title="wikilink">鄭仁</a>、<a href="https://zh.wikipedia.org/wiki/Dynamic_Duo" title="wikilink">Dynamic Duo</a>、、<a href="https://zh.wikipedia.org/wiki/Skull" title="wikilink">Skull</a>、<a href="https://zh.wikipedia.org/wiki/金淑" title="wikilink">金淑</a>、<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>（咱們也算是歌手）</p></td>
+<td><p><a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a>、<a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/鄭仁.md" title="wikilink">鄭仁</a>、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、、<a href="https://zh.wikipedia.org/wiki/Skull" title="wikilink">Skull</a>、<a href="../Page/金淑.md" title="wikilink">金淑</a>、<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>（咱們也算是歌手）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -704,7 +702,7 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 <td><p><a href="https://zh.wikipedia.org/wiki/天津衛視" title="wikilink">天津衛視</a></p></td>
 <td><p>冰雪奇蹟</p></td>
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/沈炯美" title="wikilink">沈炯美</a> (<a href="https://zh.wikipedia.org/wiki/Swing_Girls" title="wikilink">Swing Girls</a>)、<a href="https://zh.wikipedia.org/wiki/權宰煥" title="wikilink">權宰煥</a> (<a href="https://zh.wikipedia.org/wiki/N-SONIC" title="wikilink">N-SONIC</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/沈炯美" title="wikilink">沈炯美</a> (<a href="https://zh.wikipedia.org/wiki/Swing_Girls" title="wikilink">Swing Girls</a>)、<a href="https://zh.wikipedia.org/wiki/權宰煥" title="wikilink">權宰煥</a> (<a href="../Page/N-SONIC.md" title="wikilink">N-SONIC</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -745,15 +743,15 @@ Man》與《無限挑戰》均取消節目錄製而非在兩人缺席的情況�
 ### 電視劇
 
   - 2014年2月8日
-    [tvN](https://zh.wikipedia.org/wiki/TVN "wikilink")《[急診男女](https://zh.wikipedia.org/wiki/急診男女 "wikilink")》飾演
+    [tvN](../Page/TVN.md "wikilink")《[急診男女](../Page/急診男女.md "wikilink")》飾演
     代理駕駛（客串第六集）
-  - 2015年4月1日：SBS《[看見味道的少女](https://zh.wikipedia.org/wiki/看見味道的少女 "wikilink")》飾演
-    [Running Man](../Page/Running_Man.md "wikilink") 主持人（客串第一集）
+  - 2015年4月1日：SBS《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》飾演 [Running
+    Man](../Page/Running_Man.md "wikilink") 主持人（客串第一集）
 
 ### 電影
 
   - 1995年：《爸爸是保鏢》(客串)
-  - 2005年：《[外出](https://zh.wikipedia.org/wiki/四月的雪 "wikilink")》（客串，與[Leessang成員](../Page/Leessang.md "wikilink")[吉](../Page/吉成俊.md "wikilink")）
+  - 2005年：《[外出](../Page/四月的雪.md "wikilink")》（客串，與[Leessang成員](../Page/Leessang.md "wikilink")[吉](../Page/吉成俊.md "wikilink")）
   - 2008年：《》（飾演
     假裝日本間諜的韓國獨立軍，與[Leessang成員](../Page/Leessang.md "wikilink")[吉](../Page/吉成俊.md "wikilink")）
   - 2012年：《》（飾演

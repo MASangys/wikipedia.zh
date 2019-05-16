@@ -42,7 +42,7 @@ LuLuLu文庫亦有出版英文翻譯奇幻小說\[2\]。
   - [絕對達令](https://zh.wikipedia.org/wiki/絕對達令 "wikilink") 番外篇
     感謝（小說片瀨由良、[たちばなかをる](https://zh.wikipedia.org/wiki/たちばなかをる "wikilink")·原作/插畫
     [渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")，[長鴻出版社出版漫畫版](../Page/長鴻出版社.md "wikilink")）
-  - [今天開始談戀愛系列](https://zh.wikipedia.org/wiki/今天開始談戀愛 "wikilink")（小說[高瀬ゆのか](https://zh.wikipedia.org/wiki/高瀬ゆのか "wikilink")·原作/插畫
+  - [今天開始談戀愛系列](../Page/今天開始談戀愛.md "wikilink")（小說[高瀬ゆのか](https://zh.wikipedia.org/wiki/高瀬ゆのか "wikilink")·原作/插畫
     [水波風南](https://zh.wikipedia.org/wiki/水波風南 "wikilink")，長鴻出版社出版漫畫版）
   - [我們的存在](../Page/我們的存在.md "wikilink") -你存在的季節-（小說 高瀬ゆのか·原作/插畫
     [小畑友紀](https://zh.wikipedia.org/wiki/小畑友紀 "wikilink")，東立出版社出版原作漫畫）

@@ -22,8 +22,8 @@ Ser**）是一個距離地球1670光年的食聯星，可能是[激變變星](..
 ## 參見
 
   - [大陵五](https://zh.wikipedia.org/wiki/大陵五 "wikilink")
-  - [室女座HW](https://zh.wikipedia.org/wiki/室女座HW "wikilink")
-  - [天龍座CM](https://zh.wikipedia.org/wiki/天龍座CM "wikilink")
+  - [室女座HW](../Page/室女座HW.md "wikilink")
+  - [天龍座CM](../Page/天龍座CM.md "wikilink")
   - [開普勒16](../Page/開普勒16.md "wikilink")
 
 [Category:食雙星](https://zh.wikipedia.org/wiki/Category:食雙星 "wikilink")

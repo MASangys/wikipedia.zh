@@ -14,7 +14,7 @@ hp，當前已有不少例子，在[台灣](https://zh.wikipedia.org/wiki/台灣
 ### 第一代（1978-1981）
 
 [1979_Toyota_Celica_XX_2000G.jpg](https://zh.wikipedia.org/wiki/File:1979_Toyota_Celica_XX_2000G.jpg "fig:1979_Toyota_Celica_XX_2000G.jpg")
-第一代Supra基于Celica斜背版但稍长129.5毫米，车门和后半部分与Celica一致。丰田公司设计Supra的初衷是与当时大受欢迎的[達特桑](https://zh.wikipedia.org/wiki/達特桑 "wikilink")（现[日产汽車](https://zh.wikipedia.org/wiki/日产汽車 "wikilink")）公司的Z系列车型竞争。
+第一代Supra基于Celica斜背版但稍长129.5毫米，车门和后半部分与Celica一致。丰田公司设计Supra的初衷是与当时大受欢迎的[達特桑](../Page/達特桑.md "wikilink")（现[日产汽車](https://zh.wikipedia.org/wiki/日产汽車 "wikilink")）公司的Z系列车型竞争。
 
 1978年4月，丰田公司开始在[日本生产第一代Supra](../Page/日本.md "wikilink")，车架代号MA45，使用了排量2.5L，功率为110[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")（82[千瓦](https://zh.wikipedia.org/wiki/千瓦 "wikilink")）的12气门SOHC[直列6缸发动机M](https://zh.wikipedia.org/wiki/直列6缸发动机 "wikilink")-EU。1979年1月Supra引入[美国市场](../Page/美国.md "wikilink")，车架代号MA46，使用排量为2.563L，功率为110马力（82千瓦）的12气门SOHC直列6缸发动机4M-E。日規和美規Supra使用的发动机都使用了[电子燃油喷射技术](https://zh.wikipedia.org/wiki/电子燃油喷射 "wikilink")。
 

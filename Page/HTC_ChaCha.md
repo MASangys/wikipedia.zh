@@ -13,7 +13,8 @@ Facebook 上，用户只需轻轻一点就可完成分享。\[2\]
 
   - [处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")：800 MHz 处理器
   - [内存](https://zh.wikipedia.org/wiki/内存 "wikilink")：512MB +
-    [microSD](../Page/microSD.md "wikilink") (最大支持扩展到 32GB)
+    [microSD](https://zh.wikipedia.org/wiki/microSD "wikilink") (最大支持扩展到
+    32GB)
   - [显示屏](https://zh.wikipedia.org/wiki/显示屏 "wikilink")：66 mm
     (2.6")英寸触摸屏
   - [摄像头](../Page/摄像头.md "wikilink")：一颗 500万像素VGA级别摄像头， 并带有闪光灯

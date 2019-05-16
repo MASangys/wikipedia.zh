@@ -5,7 +5,7 @@ Almquist）在[SVR4上建立了這個分支](https://zh.wikipedia.org/wiki/SVR4 
 shell](../Page/Bourne_shell.md "wikilink")。
 
 在[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[DragonFly
-BSD](../Page/DragonFly_BSD.md "wikilink")、[Minix上](../Page/Minix.md "wikilink")，預設安裝的shell(/bin/sh)
+BSD](../Page/DragonFly_BSD.md "wikilink")、[Minix上](https://zh.wikipedia.org/wiki/Minix "wikilink")，預設安裝的shell(/bin/sh)
 ，都是衍生自 ash。在Linux上，發展出了 [Debian Almquist
 shell](https://zh.wikipedia.org/wiki/Debian_Almquist_shell "wikilink")。
 

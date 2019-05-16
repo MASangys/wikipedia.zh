@@ -1,4 +1,4 @@
-「**悲傷的Twilight**」（悲しみトワイライト）是[日本女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第33张[单曲](../Page/单曲.md "wikilink")。2007年4月25日由[zetima发售](../Page/zetima.md "wikilink")。
+「**悲傷的Twilight**」（悲しみトワイライト）是[日本女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第33张[单曲](../Page/单曲.md "wikilink")。2007年4月25日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

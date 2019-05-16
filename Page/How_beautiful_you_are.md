@@ -7,7 +7,7 @@ Queen](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")》的單曲。
 
 ## 音樂錄影帶
 
-日本知名[㚻片演員](https://zh.wikipedia.org/wiki/㚻片演員 "wikilink")[真崎航與男友以情侶身份出演了濱崎步的歌曲](https://zh.wikipedia.org/wiki/真崎航 "wikilink")《how
+日本知名[㚻片演員](https://zh.wikipedia.org/wiki/㚻片演員 "wikilink")[真崎航與男友以情侶身份出演了濱崎步的歌曲](../Page/真崎航.md "wikilink")《how
 beautiful you are》音樂錄影帶，並在片中表演激情熱吻，引起媒體爭相報導。\[1\]
 
 ## 收錄歌曲

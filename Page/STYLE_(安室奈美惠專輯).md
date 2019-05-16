@@ -3,12 +3,12 @@
 ## 簡介
 
   - 精選輯後第一張專輯，距離前作《[break the
-    rules](../Page/break_the_rules.md "wikilink")》約3年。韓國同時發售。
+    rules](https://zh.wikipedia.org/wiki/break_the_rules "wikilink")》約3年。韓國同時發售。
   - 安室唯一一張以CCCD形式發售的專輯。
   - 收錄單曲《[Wishing On The Same
     Star](../Page/Wishing_On_The_Same_Star.md "wikilink")》、《[shine
-    more](../Page/shine_more.md "wikilink")》、《[Put 'Em
-    Up](../Page/Put_'Em_Up.md "wikilink")》、《[SO
+    more](https://zh.wikipedia.org/wiki/shine_more "wikilink")》、《[Put
+    'Em Up](../Page/Put_'Em_Up.md "wikilink")》、《[SO
     CRAZY／Come](https://zh.wikipedia.org/wiki/SO_CRAZY/Come "wikilink")》。
   - 初回盤額外曲目收錄《SO CRAZY (MAD BEAR MIX)》以及《Wishing On The Same Star (Movie
     Version)》。此版本現時入手非常困難。
@@ -18,7 +18,7 @@
     more》獻詞。
   - 原創歌曲製作班底強勁，包括曾為[麥可·傑克森製作歌曲的Teddy](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")
     Riley獻曲《Indy
-    Lady》，樂隊[Glay吉他手](../Page/Glay.md "wikilink")[TAKURO亦獻曲](../Page/TAKURO.md "wikilink")《LOVEBITE》。
+    Lady》，樂隊[Glay吉他手](https://zh.wikipedia.org/wiki/Glay "wikilink")[TAKURO亦獻曲](https://zh.wikipedia.org/wiki/TAKURO "wikilink")《LOVEBITE》。
   - 同年11月至翌年4月，舉行「namie amuro SO CRAZY tour featuring BEST singles
     2003-2004」演唱會。
 
@@ -37,7 +37,8 @@
 8.  **Fish feat. VERBAL & Arkitec(MICBANDITZ)**
 9.  **gimme more**
 10. **As Good As**
-11. **[shine more](../Page/shine_more.md "wikilink")**
+11. **[shine
+    more](https://zh.wikipedia.org/wiki/shine_more "wikilink")**
 12. **[Come](https://zh.wikipedia.org/wiki/SO_CRAZY/Come "wikilink")**
 13. '''[Wishing On The Same
     Star](../Page/Wishing_On_The_Same_Star.md "wikilink")
@@ -52,7 +53,7 @@
 | 日期          | 歌曲                                                                         | 最高排名 | 上榜週數 | 銷量     |
 | :---------- | :------------------------------------------------------------------------- | :--- | :--- | :----- |
 | 2002年9月11日  | [Wishing On The Same Star](../Page/Wishing_On_The_Same_Star.md "wikilink") | \#2  | 12   | 97,253 |
-| 2003年3月5日   | [shine more](../Page/shine_more.md "wikilink")                             | \#8  | 9    | 52,268 |
+| 2003年3月5日   | [shine more](https://zh.wikipedia.org/wiki/shine_more "wikilink")          | \#8  | 9    | 52,268 |
 | 2003年7月16日  | [Put 'Em Up](../Page/Put_'Em_Up.md "wikilink")                             | \#7  | 6    | 41,149 |
 | 2003年10月16日 | [SO CRAZY／Come](https://zh.wikipedia.org/wiki/SO_CRAZY/Come "wikilink")    | \#8  | 13   | 48,969 |
 |             |                                                                            |      |      |        |

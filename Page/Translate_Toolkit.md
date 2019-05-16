@@ -54,8 +54,7 @@ Format为XLIFF和管理占位符](../Page/开放文档格式.md "wikilink")（�
         and PO representations)
   - 其他相关的本地化格式
       - [TBX](https://zh.wikipedia.org/wiki/TBX "wikilink")
-      - Java
-        [.properties](https://zh.wikipedia.org/wiki/.properties "wikilink")
+      - Java [.properties](../Page/.properties.md "wikilink")
       - [Qt](../Page/Qt.md "wikilink") .ts, .qm and .qph (Qt Phrase
         Book)
       - [Gettext](../Page/Gettext.md "wikilink") .mo
@@ -75,7 +74,7 @@ Format为XLIFF和管理占位符](../Page/开放文档格式.md "wikilink")（�
         Flex](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink") files
       - [INI file](https://zh.wikipedia.org/wiki/INI檔案 "wikilink")
       - Windows / Wine .rc files
-      - [iCalendar](../Page/iCalendar.md "wikilink")
+      - [iCalendar](https://zh.wikipedia.org/wiki/iCalendar "wikilink")
       - [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
         localization files
       - Subtitles

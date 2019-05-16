@@ -2,7 +2,7 @@
 是一款[索尼爱立信开发制造的旗艦級](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。2011年4月1日于欧洲首先上市。Xperia
 arc有一块触摸屏，由移动版[BRAVIA引擎提供](../Page/BRAVIA.md "wikilink")854×480像素分辨率屏幕的图像处理优化，1
 GHz[高通](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[Snapdragon处理器](https://zh.wikipedia.org/wiki/Snapdragon "wikilink"),
-一枚810万像素后置摄像头，[HDMI输出](../Page/HDMI.md "wikilink")，512 MB的RAM，附带8 GB[microSD存储卡](../Page/microSD.md "wikilink")
+一枚810万像素后置摄像头，[HDMI输出](../Page/HDMI.md "wikilink")，512 MB的RAM，附带8 GB[microSD存储卡](https://zh.wikipedia.org/wiki/microSD "wikilink")
 （最高可扩展至32 GB）。（韩国地区发货产品附带16 GB microSD存储卡）
 
 日本地区的发货型号为NTT SO-01C，中国地区的发货型号为索尼爱立信LT18i，標語為「智視非凡」。
@@ -12,14 +12,14 @@ GHz[高通](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[Snapdragon处
 屏幕为一块4.2英寸分辨率为854 ×
 480的[电容式触摸屏](https://zh.wikipedia.org/wiki/电容式触摸屏 "wikilink")，支持[多点触摸](https://zh.wikipedia.org/wiki/多点触摸 "wikilink"),
 is scratch resistant and features the mobile
-[bravia](../Page/bravia.md "wikilink") engine from
+[bravia](https://zh.wikipedia.org/wiki/bravia "wikilink") engine from
 [Sony](https://zh.wikipedia.org/wiki/Sony "wikilink") and is capable of
 displaying 16,777,216 colours.
 
 相機像素達810萬，Exmor R用于低光照拍摄。支持拍攝720p的高清短片。
 
 设备内置存储空间为 1 GB
-其中320 MB空余为用户空间，外置存储卡槽最高支持32 GB[microSD存储卡](../Page/microSD.md "wikilink")。
+其中320 MB空余为用户空间，外置存储卡槽最高支持32 GB[microSD存储卡](https://zh.wikipedia.org/wiki/microSD "wikilink")。
 
 ## 顏色
 

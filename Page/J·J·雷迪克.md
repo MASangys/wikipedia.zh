@@ -83,21 +83,20 @@ style="text-align:left;"|
 [奧蘭多魔術](https://zh.wikipedia.org/wiki/奧蘭多魔術 "wikilink")
 | 5 || 0 || 24.6 || .432 || .211 || .857 || 1.0 || **3.2** || .2 || .0
 || 10.8 |- | style="text-align:left;"|
-[2013](https://zh.wikipedia.org/wiki/2013年NBA季後賽 "wikilink") |
+[2013](../Page/2013年NBA季後賽.md "wikilink") |
 style="text-align:left;"|
 [密爾瓦基公鹿](https://zh.wikipedia.org/wiki/密爾瓦基公鹿 "wikilink")
 | 4 || 0 || 17.3 || .440 || .333 || **1.000** || .8 || 1.3 || .3 || .0
 || 7.3 |- | style="text-align:left;"|
-[2014](https://zh.wikipedia.org/wiki/2014年NBA季後賽 "wikilink") |
+[2014](../Page/2014年NBA季後賽.md "wikilink") |
 style="text-align:left;"|
 [洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")
 | 13 || **13** || **27.0** || .459 || .400 || .962 || 1.7 || 1.5 ||
 **.8** || .0 || **13.3** |- | style="text-align:left;"|
-[2015](https://zh.wikipedia.org/wiki/2015年NBA季後賽 "wikilink") |
-style="text-align:left;"|
-[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")
-| 14 || **14** || **38.6** || .435 || .398 || .943 || 2.1 || 1.7 ||
-**.7** || .3 || **14.9** |- | style="text-align:left;"| 生涯 |
+[2015](../Page/2015年NBA季後賽.md "wikilink") | style="text-align:left;"|
+[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") | 14 ||
+**14** || **38.6** || .435 || .398 || .943 || 2.1 || 1.7 || **.7** || .3
+|| **14.9** |- | style="text-align:left;"| 生涯 |
 style="text-align:left;"| | 61 || 21 || 21.0 || .416 || .356 || .885 ||
 1.4 || 1.6 || .5 || .0 || 8.2
 

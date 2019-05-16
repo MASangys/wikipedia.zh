@@ -1,4 +1,4 @@
-**MOONSTONE**（**ムーンストーン**）是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")。最初是從另一家成人遊戲公司[CIRCUS的一部份工作人員另外獨自成立的公司](../Page/CIRCUS_\(遊戲品牌\).md "wikilink")。\[1\]
+**MOONSTONE**（**ムーンストーン**）是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")。最初是從另一家成人遊戲公司[CIRCUS的一部份工作人員另外獨自成立的公司](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")。\[1\]
 
 ## 作品列表
 
@@ -19,9 +19,9 @@
   - 2010年6月25日 - [Angel Ring
     〜エンジェルリング〜](https://zh.wikipedia.org/wiki/Angel_Ring "wikilink")
   - 2011年7月29日 - [Princess Evangile 〜プリンセス
-    エヴァンジール〜](https://zh.wikipedia.org/wiki/Princess_Evangile "wikilink")
+    エヴァンジール〜](../Page/Princess_Evangile.md "wikilink")
       - 2012年6月29日 - [Princess Evangile〜W
-        Happiness〜](https://zh.wikipedia.org/wiki/Princess_Evangile "wikilink")
+        Happiness〜](../Page/Princess_Evangile.md "wikilink")
   - 2013年9月27日 - [Magical Marriage Lunatics\!\! 〜マジカル マリッジ
     ルナティクス〜](https://zh.wikipedia.org/wiki/Magical_Marriage_Lunatics!! "wikilink")
   - 2014年4月25日 - [Love

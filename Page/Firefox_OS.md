@@ -11,7 +11,7 @@ OS](https://zh.wikipedia.org/wiki/Google_Chrome_OS "wikilink")，它是一種，
 OS的研發，目標在於建立一個獨立且完整的作業系統，用以推動網路開放，並使開發人員能夠在不同手機平台上開發[跨平台應用程式](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。並確立了一些工作方向：建立新的WebAPI來驅動裝置和作業系統的功能，例如：電話和相機；建立權限模型來保證系統的安全，以及底層驅動[Android設備的低階程式碼](../Page/Android.md "wikilink")\[4\]。2012年正式發布了Firefox
 OS。
 
-Mozilla研發總監[安德里亞斯·加爾](https://zh.wikipedia.org/wiki/安德里亞斯·加爾 "wikilink")（Andreas
+Mozilla研發總監[安德里亞斯·加爾](../Page/安德里亞斯·加爾.md "wikilink")（Andreas
 Gal）形容目前已存在的行動裝置平台猶如「[圍牆花園](../Page/封閉平臺.md "wikilink")」\[5\]，Firefox
 OS將完全使用開放的HTML5[網頁標準技術](../Page/網頁標準.md "wikilink")，不涉及專利軟體及技術。Firefox
 OS希望建立起一個平台，讓符合網頁標準的網頁瀏覽器便能夠執行軟體，讓程式開發者統一在同一套標準下開發可以共通使用的應用程式，不需再為各平台各別開發專用的應用程式。
@@ -21,7 +21,7 @@ OS希望建立起一個平台，讓符合網頁標準的網頁瀏覽器便能夠
 2011年7月25日，Mozilla研發總監安德里亞斯·加爾（Andreas Gal）於討論群組上宣佈「Boot to
 Gecko」專案（簡稱*B2G*）\[6\]。這項-{zh-hans:信息;
 zh-tw:消息}-引發了許多科技媒體關注\[7\]\[8\]。其中根據[Ars
-Technica引述](https://zh.wikipedia.org/wiki/Ars_Technica "wikilink")：“Mozilla表示，B2G基於標準的開放網路有潛力成為一個具有競爭力的替代品，取代由主流行動作業系統提供的現有單一供應商應用程式開發環境。”\[9\]。
+Technica引述](../Page/Ars_Technica.md "wikilink")：“Mozilla表示，B2G基於標準的開放網路有潛力成為一個具有競爭力的替代品，取代由主流行動作業系統提供的現有單一供應商應用程式開發環境。”\[9\]。
 
 2012年2月28日，在執行於Android型號的智慧型手機上，首次公開展示Firefox OS\[10\]\[11\]。7月2日，Boot
 to Gecko正式被命名為Firefox OS\[12\]，並於8月展示部份系統截圖\[13\]。
@@ -31,7 +31,7 @@ to Gecko正式被命名為Firefox OS\[12\]，並於8月展示部份系統截圖\
 2013年1月10日，[中興通訊於](https://zh.wikipedia.org/wiki/中興通訊 "wikilink")[國際消費電子展上證實將推出Firefox](https://zh.wikipedia.org/wiki/國際消費電子展 "wikilink")
 OS智慧型手機\[15\]，並在2013年7月2日，[西班牙電信推出首款商用Firefox](../Page/西班牙電信.md "wikilink")
 OS手機[ZTE
-Open](https://zh.wikipedia.org/wiki/ZTE_Open "wikilink")\[16\]。西班牙GeeksPhone公司接著也推出[GeeksPhone
+Open](../Page/ZTE_Open.md "wikilink")\[16\]。西班牙GeeksPhone公司接著也推出[GeeksPhone
 Keon和](https://zh.wikipedia.org/wiki/Geeksphone_Keon "wikilink")[Peak](https://zh.wikipedia.org/wiki/Geeksphone_Peak "wikilink")。2月24日，Firefox
 OS商業計劃正式擴大\[17\]。Mozilla於[巴塞羅那](https://zh.wikipedia.org/wiki/巴塞羅那 "wikilink")[世界行動通訊大會記者會上宣佈](../Page/世界行動通訊大會.md "wikilink")，第一波Firefox
 OS手機將提供給[巴西](../Page/巴西.md "wikilink")、[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[蒙特尼哥羅](https://zh.wikipedia.org/wiki/蒙特尼哥羅 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[塞爾維亞](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")、[西班牙與](../Page/西班牙.md "wikilink")[委內瑞拉的消費者](../Page/委內瑞拉.md "wikilink")；[LG集團](https://zh.wikipedia.org/wiki/LG集團 "wikilink")、[中興通訊](https://zh.wikipedia.org/wiki/中興通訊 "wikilink")、[華為和](https://zh.wikipedia.org/wiki/華為 "wikilink")[TCL集團將承諾生產Firefox](https://zh.wikipedia.org/wiki/TCL集團 "wikilink")
@@ -74,7 +74,7 @@ Firefox OS可支援裝置包含[Nexus S](../Page/Nexus_S.md "wikilink")、[Nexus
 4G](../Page/Nexus_S.md "wikilink")、[Galaxy
 S2](https://zh.wikipedia.org/wiki/Galaxy_S2 "wikilink")、[Galaxy
 Nexus](../Page/Galaxy_Nexus.md "wikilink")、[Nexus
-4](https://zh.wikipedia.org/wiki/Nexus_4 "wikilink")、Otoro、PandaBoard和[桌上型電腦](../Page/桌上型電腦.md "wikilink")\[30\]。
+4](../Page/Nexus_4.md "wikilink")、Otoro、PandaBoard和[桌上型電腦](../Page/桌上型電腦.md "wikilink")\[30\]。
 
 Mozilla於2014年世界行動通訊大會上聯合[展訊通訊](https://zh.wikipedia.org/wiki/展訊通訊 "wikilink")（Spreadtrum）展示25美元Firefox
 OS智慧型手機\[31\]。至今Mozilla已聯合4家手機製造商和5家營運商於歐洲和拉丁美洲推出Firefox
@@ -158,11 +158,9 @@ Firefox OS被移植到下列设备：
   - Huawei Ascend Y300\[54\]
   - Huawei Ascend G510\[55\]
   - [HTC Pico](https://zh.wikipedia.org/wiki/HTC_Pico "wikilink")\[56\]
-  - [Nexus 4](https://zh.wikipedia.org/wiki/Nexus_4 "wikilink") \[57\]
-  - [Nexus 5](https://zh.wikipedia.org/wiki/Nexus_5 "wikilink")\[58\]
-  - [Nexus 7
-    (2013)](https://zh.wikipedia.org/wiki/Nexus_7_\(2013\) "wikilink")
-    \[59\]
+  - [Nexus 4](../Page/Nexus_4.md "wikilink") \[57\]
+  - [Nexus 5](../Page/Nexus_5.md "wikilink")\[58\]
+  - [Nexus 7 (2013)](../Page/Nexus_7_\(2013\).md "wikilink") \[59\]
   - Moto G\[60\]
   - [Sony Xperia
     Z3](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3 "wikilink")\[61\]

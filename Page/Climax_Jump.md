@@ -21,7 +21,7 @@ trax以**AAA DEN-O form**的名义发售。
   - 在CD的封面・歌词中完全没有AAA成员的形象，并且也是AAA首次没有拍摄PV的作品。
   - 在DVD作品「4th ATTACK at SHIBUYA-AX on 4th of April」「2nd Anniversary
     Live -5th ATTACK 070922- at 日本武道館」中收录了唱这首歌的情况。
-  - AAA同时发售了此曲和迷你专辑《[alohAAA\!](../Page/alohAAA!.md "wikilink")》、单曲《いざゆけ若鷹軍団2007》、DVD《[Channel@×AAA](https://zh.wikipedia.org/wiki/Channel@×AAA "wikilink")》，共计四种版本。
+  - AAA同时发售了此曲和迷你专辑《[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")》、单曲《いざゆけ若鷹軍団2007》、DVD《[Channel@×AAA](https://zh.wikipedia.org/wiki/Channel@×AAA "wikilink")》，共计四种版本。
 
 ### 收录曲
 

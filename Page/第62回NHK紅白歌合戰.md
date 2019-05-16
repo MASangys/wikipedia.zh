@@ -149,7 +149,7 @@ Gaga确定以录像的形式登场](../Page/Lady_Gaga.md "wikilink")，[成龙�
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><strong><a href="../Page/KARA.md" title="wikilink">KARA</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
@@ -161,7 +161,7 @@ Gaga确定以录像的形式登场](../Page/Lady_Gaga.md "wikilink")，[成龙�
 </tr>
 <tr class="even">
 <td><p>27</p></td>
-<td><p><a href="../Page/aiko.md" title="wikilink">aiko</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
@@ -206,7 +206,7 @@ Gaga确定以录像的形式登场](../Page/Lady_Gaga.md "wikilink")，[成龙�
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂本冬美" title="wikilink">坂本冬美</a></p></td>
+<td><p><a href="../Page/坂本冬美.md" title="wikilink">坂本冬美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>45</p></td>
@@ -247,11 +247,11 @@ Gaga确定以录像的形式登场](../Page/Lady_Gaga.md "wikilink")，[成龙�
 ### 乐队演奏等
 
   - [東京事變](../Page/東京事變.md "wikilink")：椎名林檎演出時的伴奏
-  - [平尾昌晃](https://zh.wikipedia.org/wiki/平尾昌晃 "wikilink")：结束曲「蛍の光」的指挥
+  - [平尾昌晃](../Page/平尾昌晃.md "wikilink")：结束曲「蛍の光」的指挥
 
 ### 应援人员
 
-  - [澤穗希](https://zh.wikipedia.org/wiki/澤穗希 "wikilink")、[川澄奈穗美](https://zh.wikipedia.org/wiki/川澄奈穗美 "wikilink")、[大野忍](https://zh.wikipedia.org/wiki/大野忍 "wikilink")、[海堀步](https://zh.wikipedia.org/wiki/海堀步 "wikilink")、[近賀由香里](https://zh.wikipedia.org/wiki/近賀由香里 "wikilink")、[田中明日菜](../Page/田中明日菜.md "wikilink")、[高瀨愛實](../Page/高瀨愛實.md "wikilink")（日本女足运动员代表、来自“INAC神戸”俱乐部）：开幕登场。
+  - [澤穗希](https://zh.wikipedia.org/wiki/澤穗希 "wikilink")、[川澄奈穗美](../Page/川澄奈穗美.md "wikilink")、[大野忍](../Page/大野忍.md "wikilink")、[海堀步](../Page/海堀步.md "wikilink")、[近賀由香里](../Page/近賀由香里.md "wikilink")、[田中明日菜](../Page/田中明日菜.md "wikilink")、[高瀨愛實](../Page/高瀨愛實.md "wikilink")（日本女足运动员代表、来自“INAC神戸”俱乐部）：开幕登场。
   - [SKE48](../Page/SKE48.md "wikilink")、[SDN48](../Page/SDN48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[JKT48](../Page/JKT48.md "wikilink")：AKB48演唱和组成颜文字时加入其中，并非全部成員登场。
   - [長谷部誠](../Page/長谷部誠.md "wikilink")（[沃尔夫斯堡足球俱乐部球员](../Page/沃尔夫斯堡足球俱乐部.md "wikilink")）：**歌唱明天，来自世界的消息**中登场。
   - [成龙](https://zh.wikipedia.org/wiki/成龙 "wikilink")：同上，通过录像登场。

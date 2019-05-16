@@ -34,7 +34,7 @@ Abby Miller</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/田川洋行" title="wikilink">田川洋行</a></p></td>
+<td><p><a href="../Page/田川洋行.md" title="wikilink">田川洋行</a></p></td>
 <td><p>「魔掌派」總舵</p></td>
 <td><p>為殺手集團「魔掌派」的總舵及鬼蟀的父親。</p></td>
 </tr>

@@ -14,7 +14,7 @@
 
   - \-{zh-hans:[潘多拉](https://zh.wikipedia.org/wiki/潘多拉_\(游戏\) "wikilink");zh-hant:[潘朵拉傳奇](https://zh.wikipedia.org/wiki/潘朵拉傳奇 "wikilink")}-
 
-  - [ai sp@ce](../Page/ai_sp@ce.md "wikilink")（已停运）
+  - [ai sp@ce](https://zh.wikipedia.org/wiki/ai_sp@ce "wikilink")（已停运）
 
   - [Arcadia
     Saga](https://zh.wikipedia.org/wiki/Arcadia_Saga "wikilink")

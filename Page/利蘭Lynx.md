@@ -7,7 +7,7 @@
 自利蘭Lynx推出以來，取代[利蘭National](../Page/利蘭National.md "wikilink")\[1\]，同樣縱置式後置引擎設計，可把底盤與車身-{}-分開，不再是利蘭National的一體化設計。利蘭車廠於1990年推出**Lynx
 II**，最明顯轉變是車嘴部分凸起。
 
-利蘭Lynx推出初期可配利蘭TL11H、[吉拿](https://zh.wikipedia.org/wiki/吉拿 "wikilink")6HLXB或吉拿6HLXCT引擎，不久可配[康明斯L](../Page/康明斯.md "wikilink")10H引擎，有些後期的車款可配[富豪THD](https://zh.wikipedia.org/wiki/富豪集團 "wikilink")102引擎。波箱方面，初期可配利蘭Hydracyclic，後來被ZF
+利蘭Lynx推出初期可配利蘭TL11H、[吉拿](../Page/吉拿.md "wikilink")6HLXB或吉拿6HLXCT引擎，不久可配[康明斯L](../Page/康明斯.md "wikilink")10H引擎，有些後期的車款可配[富豪THD](https://zh.wikipedia.org/wiki/富豪集團 "wikilink")102引擎。波箱方面，初期可配利蘭Hydracyclic，後來被ZF
 Ecomat取代。
 
 於英國本土（不包括[北愛爾蘭](https://zh.wikipedia.org/wiki/北愛爾蘭 "wikilink")）出售的利蘭Lynx只有配原廠車身，有少部分出口版配不同車身。

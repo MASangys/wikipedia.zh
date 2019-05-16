@@ -19,7 +19,7 @@ decriptor也會導致系統資源忙碌，使可移除裝置無法被[移除](ht
 由於dnotify只能讓程式設計師監控目錄層級的變化，「精細度」亦是“dnotify”的劣勢之一。為此，程式設計師必須付出額外的心力，自行撰寫程式碼以期追蹤更細微的檔案系統事件。
 
 inotify相較之下使用較少的file
-descriptor，亦允許select()與poll()介面，優於[dnotify使用的](https://zh.wikipedia.org/wiki/dnotify "wikilink")[信號系統](https://zh.wikipedia.org/wiki/signal_notification_system "wikilink")。這也使得inotify與既有以select()或poll()為基礎之函式庫(如：[Glib](../Page/Glib.md "wikilink"))整合更加便利。
+descriptor，亦允許select()與poll()介面，優於[dnotify使用的](https://zh.wikipedia.org/wiki/dnotify "wikilink")[信號系統](https://zh.wikipedia.org/wiki/signal_notification_system "wikilink")。這也使得inotify與既有以select()或poll()為基礎之函式庫(如：[Glib](https://zh.wikipedia.org/wiki/Glib "wikilink"))整合更加便利。
 
 ## 運作方式
 
@@ -42,7 +42,7 @@ descriptor，此檔案描述子可供讀取檔案事件。隨後，可透過read
  int inotify_add_watch(int fd, const char* pathname, int mask)
 ```
 
-透過路徑名稱(pathname)並選定遮罩(mask)以監控[inode](../Page/inode.md "wikilink")。inotify_add_watch()會回傳一個監控器（watch
+透過路徑名稱(pathname)並選定遮罩(mask)以監控[inode](https://zh.wikipedia.org/wiki/inode "wikilink")。inotify_add_watch()會回傳一個監控器（watch
 descriptor），它代表pathname指向的inode(不同的pathname有可能指向相同的inode)。
 
 ``` c

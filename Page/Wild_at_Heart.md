@@ -10,8 +10,8 @@ Storm](../Page/J_Storm.md "wikilink")。
   - 主打曲《Wild at
     Heart》是嵐成員[松本潤主演的](https://zh.wikipedia.org/wiki/松本潤 "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[Lucky
     Seven](https://zh.wikipedia.org/wiki/Lucky_Seven "wikilink")》之主題曲。
-  - 在[第63回NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰 "wikilink")（**Wild
-    at Heart** + [Face Down](../Page/Face_Down.md "wikilink")）
+  - 在[第63回NHK紅白歌合戰以組曲形式演唱](../Page/第63回NHK紅白歌合戰.md "wikilink")（**Wild at
+    Heart** + [Face Down](../Page/Face_Down.md "wikilink")）
 
 ## 主要紀錄
 

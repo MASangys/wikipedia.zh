@@ -26,7 +26,7 @@ end HELLO;
 
 ### [-{zh-hans:汇编; zh-hant:組合;}-语言](https://zh.wikipedia.org/wiki/汇编 "wikilink")
 
-#### [x86](../Page/x86.md "wikilink") CPU，[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")，NASM
+#### [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") CPU，[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")，NASM
 
 ``` asm
      section .data
@@ -47,7 +47,7 @@ end HELLO;
          int     0x80
 ```
 
-#### [x86](../Page/x86.md "wikilink") AT\&T、[Gas](https://zh.wikipedia.org/wiki/Gas "wikilink")
+#### [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") AT\&T、[Gas](https://zh.wikipedia.org/wiki/Gas "wikilink")
 
     .data
             msg : .string "Hello, world!\n"
@@ -68,7 +68,7 @@ end HELLO;
 
 \[3\]
 
-#### [x86](../Page/x86.md "wikilink") [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[MASM32](../Page/MASM.md "wikilink")
+#### [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[MASM32](../Page/MASM.md "wikilink")
 
 ``` ASM
  .386
@@ -563,7 +563,7 @@ public class hello extends AbstractApplication {
 <%="Hello, world!"%>
 ```
 
-### [Lisp](../Page/Lisp.md "wikilink")
+### [Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")
 
 ``` lisp
 ;直接输出
@@ -588,7 +588,7 @@ print "Hello, world!"
 ` ('&%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@>}=<M:9wv6WsU2T|nm-,jcL(I&%$#"`
 `` `CB]V?Tx<uVtT`Rpo3NlF.Jh++FdbCBA@?]!~|4XzyTT43Qsqq(Lnmkj"Fhg${z@>``</code>
 
-### [Matlab](../Page/Matlab.md "wikilink")
+### [Matlab](https://zh.wikipedia.org/wiki/Matlab "wikilink")
 
 ``` matlab
 disp('hello world!')
@@ -601,7 +601,7 @@ disp('hello world!')
 
 \[20\]
 
-### [Metapost](../Page/Metapost.md "wikilink")
+### [Metapost](https://zh.wikipedia.org/wiki/Metapost "wikilink")
 
 ``` text
 beginfig(1);
@@ -802,7 +802,7 @@ Om:"Hello, world!"
 <small></small>[<File:Scratch>`   ``Hello``   ``World``   ``zh``
  ``hant.png`](https://zh.wikipedia.org/wiki/File:Scratch_Hello_World_zh_hant.png "fig:File:Scratch Hello World zh hant.png")
 
-### [sed](../Page/sed.md "wikilink")
+### [sed](https://zh.wikipedia.org/wiki/sed "wikilink")
 
 （需要至少一行输入）
 
@@ -861,7 +861,7 @@ select 'hello, world';
 print 'hello,world!'
 ```
 
-### [Swift](https://zh.wikipedia.org/wiki/Swift_\(程式語言\) "wikilink")
+### [Swift](../Page/Swift_\(程式語言\).md "wikilink")
 
 適用於Swift 1.x：
 
@@ -1089,10 +1089,10 @@ public class HelloFrame extends Frame
 }
 ```
 
-### [Java Applet](../Page/Java_Applet.md "wikilink")
+### [Java Applet](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")
 
 [Java
-Applet用于](../Page/Java_Applet.md "wikilink")[HTML文件](../Page/HTML.md "wikilink")。
+Applet用于](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")[HTML文件](../Page/HTML.md "wikilink")。
 
 HTML代码：
 

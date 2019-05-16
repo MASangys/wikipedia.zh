@@ -20,7 +20,7 @@
 因為根據他和《美國偶像》的合同，[西蒙·考威尔是不被允許參與到](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《X音素》在美國的計劃中去的。\[7\]
 9月，作為《美國偶像》的播出機構——[福克斯廣播公司宣佈已經達成協議](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")，將引進《X音素》。
 
-2010年1月11日，根據[福克斯新闻频道和](https://zh.wikipedia.org/wiki/福克斯新闻频道 "wikilink")《[泰晤士報](https://zh.wikipedia.org/wiki/泰晤士報 "wikilink")》的報導，[新闻集团正式宣佈](https://zh.wikipedia.org/wiki/新闻集团 "wikilink")[西蒙·考威尔將在第九季之後離開](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《[美國偶像](../Page/美國偶像.md "wikilink")》，以便於他製作美國版的《X音素》。他告訴[美國電視評論人協會](https://zh.wikipedia.org/wiki/电视评论家协会 "wikilink")（），他離開《美國偶像》是為了更好地參與到《美國版X音素》的執行製作人和評委中來。\[8\]
+2010年1月11日，根據[福克斯新闻频道和](https://zh.wikipedia.org/wiki/福克斯新闻频道 "wikilink")《[泰晤士報](https://zh.wikipedia.org/wiki/泰晤士報 "wikilink")》的報導，[新闻集团正式宣佈](../Page/新闻集团.md "wikilink")[西蒙·考威尔將在第九季之後離開](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《[美國偶像](../Page/美國偶像.md "wikilink")》，以便於他製作美國版的《X音素》。他告訴[美國電視評論人協會](https://zh.wikipedia.org/wiki/电视评论家协会 "wikilink")（），他離開《美國偶像》是為了更好地參與到《美國版X音素》的執行製作人和評委中來。\[8\]
 此外，考威爾還與[索尼音樂娛樂達成一項長期合作協議](../Page/索尼音樂娛樂.md "wikilink")，作為回報索尼音樂娛樂在英國對的支持，索尼音樂娛樂將取得《美國版X音素》選拔出來藝人的唱片合約。\[9\]
 
 從2010年11月開始，[福克斯廣播公司開始在本節目中插播](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")“2011年秋季回歸美國”的廣告短片。.\[10\]\[11\]
@@ -30,7 +30,7 @@
 
 《美國版X音素》於2011年9月21日在美加地區開始首映，次日開始在英國等少數國家播映。
 
-2014年2月7日，據福斯宣告西蒙·高維爾回歸[英國版擔任評審而使](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")《美國版X音素》中斷，因此第四季迄今尚未舉辦。
+2014年2月7日，據福斯宣告西蒙·高維爾回歸[英國版擔任評審而使](../Page/英國版X音素.md "wikilink")《美國版X音素》中斷，因此第四季迄今尚未舉辦。
 
 ## 賽季概況
 
@@ -134,17 +134,17 @@
 [妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")、\[24\]
 [蕾哈娜](../Page/蕾哈娜.md "wikilink")、[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")、[埃爾頓·約翰](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")、[瑪麗亞·凱莉和](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")[潔西卡·辛普森](../Page/潔西卡·辛普森.md "wikilink")，但是[西蒙·考威尔很快便否認了](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")[凱蒂·佩芮和](../Page/凱蒂·佩芮.md "wikilink")[埃爾頓·約翰會加入評委團](https://zh.wikipedia.org/wiki/埃爾頓·約翰 "wikilink")。\[25\]
 最後，[格萊美獎最佳唱片製作](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")、詞曲作者、唱片製作人，\[26\]\[27\]
-前任《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》評委[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")\[28\]\[29\]和[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《[美國偶像](../Page/美國偶像.md "wikilink")》里的搭檔及評委[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")\[30\]
+前任《[英國版X音素](../Page/英國版X音素.md "wikilink")》評委[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")\[28\]\[29\]和[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")《[美國偶像](../Page/美國偶像.md "wikilink")》里的搭檔及評委[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")\[30\]
 確認為評委。
 
 [西蒙·考威尔曾經表示節目將會有兩個主持人](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")。\[31\]\[32\]
-許多人猜測這兩個主持人的人選是《[歌舞青春](../Page/歌舞青春.md "wikilink")》中的[柯賓·布魯和](../Page/柯賓·布魯.md "wikilink")《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》的主持人德莫特·奧利（）。\[33\]\[34\]
+許多人猜測這兩個主持人的人選是《[歌舞青春](../Page/歌舞青春.md "wikilink")》中的[柯賓·布魯和](../Page/柯賓·布魯.md "wikilink")《[英國版X音素](../Page/英國版X音素.md "wikilink")》的主持人德莫特·奧利（）。\[33\]\[34\]
 還有一種傳聞表示[女神卡卡將在節目中以非評委的角色出現](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")。\[35\]
 最初，[妮可·舒辛格將和](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")[威爾士籍主持人斯蒂夫](../Page/威爾士.md "wikilink")·瓊斯（）共同主持本節目。
 
 據報導，[雪莉·柯爾的名單於](../Page/雪莉·柯爾.md "wikilink")2011年5月26日從節目的演職員表中刪除了。媒體猜測節目組已經解雇了她，但是關於她的解雇理由眾說紛紜，有認為是她的英國口音會造成美國觀眾無法理解，有認為是她與寶拉·阿巴杜之間並沒有產生火花，還有認為是她思鄉心切而主動離開。\[36\]\[37\]
 [福克斯廣播公司在](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")6月6日確認了[雪莉·柯爾的離職](../Page/雪莉·柯爾.md "wikilink")，同時也確定了將由[妮可·舒辛格取代她的位置](https://zh.wikipedia.org/wiki/妮可·舒辛格 "wikilink")。因此斯蒂夫·瓊斯將成為本節目唯一的主持人。\[38\]
-[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")8月5日宣佈[雪莉·柯爾的離職原因是她要返回到](../Page/雪莉·柯爾.md "wikilink")《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》的工作中去，而在那裡他認為[雪莉·柯爾會更加自在一些](../Page/雪莉·柯爾.md "wikilink")。他說如果[雪莉·柯爾的離職原因真的是因為與](../Page/雪莉·柯爾.md "wikilink")[寶拉·阿巴杜不合的話](../Page/寶拉·阿巴杜.md "wikilink")，那麼他也不會再繼續擔任評委工作了。\[39\]
+[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")8月5日宣佈[雪莉·柯爾的離職原因是她要返回到](../Page/雪莉·柯爾.md "wikilink")《[英國版X音素](../Page/英國版X音素.md "wikilink")》的工作中去，而在那裡他認為[雪莉·柯爾會更加自在一些](../Page/雪莉·柯爾.md "wikilink")。他說如果[雪莉·柯爾的離職原因真的是因為與](../Page/雪莉·柯爾.md "wikilink")[寶拉·阿巴杜不合的話](../Page/寶拉·阿巴杜.md "wikilink")，那麼他也不會再繼續擔任評委工作了。\[39\]
 
 ### 評委所指導的選手組
 
@@ -232,7 +232,7 @@
 
 比賽冠軍將同和[索尼音樂娛樂簽約](../Page/索尼音樂娛樂.md "wikilink")，并獲得500萬美元現金的合同簽約金。\[43\]\[44\]
 在2011年2月7日發出的一份新聞稿中聲稱“這是電視史上最大的一筆獎勵”。\[45\]
-跟《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》不同的是，《英國版X音素》冠軍的100萬英鎊獎金將絕大部份用於冠軍唱片的錄製和市場營銷費用，\[46\]
+跟《[英國版X音素](../Page/英國版X音素.md "wikilink")》不同的是，《英國版X音素》冠軍的100萬英鎊獎金將絕大部份用於冠軍唱片的錄製和市場營銷費用，\[46\]
 而《美國版X音素》冠軍的500萬獎金將全部歸冠軍所有，但是將分成五次按年分期付款。[西蒙·考威尔在](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")2011年2月7日的新聞發佈會上對記者說：“這500萬美元的獎勵足以改變一個人的生活。並且這500萬美元的獎金並不是‘號稱’，而是實實在在的。冠軍單曲的錄製、宣傳費用以及拍攝[音樂錄影帶的費用都不會包含在筆獎金里](../Page/音樂錄影帶.md "wikilink")。我們將在未來5年內，每年支付給冠軍100萬獎金。”\[47\]
 
 在同一個發佈會上，[西蒙·考威尔說冠軍具體和](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")[索尼音樂娛樂旗下哪個唱片公司簽訂合約](../Page/索尼音樂娛樂.md "wikilink")，將視冠軍的曲風而定。節目組將保證給冠軍在新唱片公司獲得最好的支持。\[48\]

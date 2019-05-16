@@ -1,4 +1,4 @@
-`stdio.h`是[C语言为输入输出提供的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[标准库](https://zh.wikipedia.org/wiki/C标准库 "wikilink")[头文件](../Page/头文件.md "wikilink")，其前身是[迈克·莱斯克](https://zh.wikipedia.org/wiki/迈克·莱斯克 "wikilink")20世纪70年代编写的“可移植输入输出程序库”\[1\]。
+`stdio.h`是[C语言为输入输出提供的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[标准库](https://zh.wikipedia.org/wiki/C标准库 "wikilink")[头文件](../Page/头文件.md "wikilink")，其前身是[迈克·莱斯克](../Page/迈克·莱斯克.md "wikilink")20世纪70年代编写的“可移植输入输出程序库”\[1\]。
 
 C语言中的所有输入和输出都由抽象的字节流来完成，对文件的访问也通过关联的输入或输出流进行。这一模式随UNIX操作系统而普及，在现代操作系统和编程语言中仍被广泛应用。
 

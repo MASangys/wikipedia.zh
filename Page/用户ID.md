@@ -1,5 +1,5 @@
 **用户ID**（，一般缩写为**User
-ID**或**UID**），全称**用户标识符**，在[类UNIX系统中是](../Page/类UNIX系统.md "wikilink")[内核用来辨识用户的一个无符号](../Page/内核.md "wikilink")[整型数值](https://zh.wikipedia.org/wiki/整型 "wikilink")，亦是[UNIX](../Page/UNIX.md "wikilink")[文件系统与](../Page/文件系统.md "wikilink")[进程的必要组成部分之一](https://zh.wikipedia.org/wiki/进程 "wikilink")。
+ID**或**UID**），全称**用户标识符**，在[类UNIX系统中是](https://zh.wikipedia.org/wiki/类UNIX系统 "wikilink")[内核用来辨识用户的一个无符号](../Page/内核.md "wikilink")[整型数值](https://zh.wikipedia.org/wiki/整型 "wikilink")，亦是[UNIX](../Page/UNIX.md "wikilink")[文件系统与](../Page/文件系统.md "wikilink")[进程的必要组成部分之一](https://zh.wikipedia.org/wiki/进程 "wikilink")。
 
 ## 数值范围
 
@@ -27,7 +27,7 @@ ID*，即EGID）在创建与访问[文件的时候发挥作用](https://zh.wikip
 ### 真实用户ID
 
 **真实用户ID**（*Real UID*,即RUID）与**真实用户组ID**（*Real
-GID*，即RGID）用于辨识进程的真正所有者，且会影响到进程发送[信号的权限](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。没有超级用户权限的进程仅在其RUID与目标进程的RUID相匹配时才能向目标进程发送信号，例如在父子进程间，[子进程从](https://zh.wikipedia.org/wiki/子进程 "wikilink")[父进程处继承了认证信息](../Page/父进程.md "wikilink")，使得父子进程间可以互相发送信号。
+GID*，即RGID）用于辨识进程的真正所有者，且会影响到进程发送[信号的权限](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。没有超级用户权限的进程仅在其RUID与目标进程的RUID相匹配时才能向目标进程发送信号，例如在父子进程间，[子进程从](../Page/子进程.md "wikilink")[父进程处继承了认证信息](../Page/父进程.md "wikilink")，使得父子进程间可以互相发送信号。
 
 ### 暂存用户ID
 

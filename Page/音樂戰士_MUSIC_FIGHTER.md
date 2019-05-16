@@ -36,7 +36,7 @@ MUSIC-TV](https://zh.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』的後繼節�
 
 :\*[安藤亮司](https://zh.wikipedia.org/wiki/安藤亮司 "wikilink")
 
-:\*[和田正人](https://zh.wikipedia.org/wiki/和田正人 "wikilink")
+:\*[和田正人](../Page/和田正人.md "wikilink")
 
 :\*[野久保直樹](https://zh.wikipedia.org/wiki/野久保直樹 "wikilink")
 

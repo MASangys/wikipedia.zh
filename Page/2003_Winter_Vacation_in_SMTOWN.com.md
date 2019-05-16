@@ -12,8 +12,8 @@ Town在](../Page/SM_Town.md "wikilink")2003年發表的第五張冬季合輯。
 6.  Silent Night Holy Night – [Fly to the
     Sky](../Page/Fly_to_the_Sky.md "wikilink")
 7.  I Dream of you – Jiyeon
-8.  겨울로의 초대 – [劉英振](https://zh.wikipedia.org/wiki/劉英振 "wikilink")
-9.  White – [Shoo](https://zh.wikipedia.org/wiki/Shoo "wikilink")
+8.  겨울로의 초대 – [劉英振](../Page/劉英振.md "wikilink")
+9.  White – [Shoo](../Page/Shoo.md "wikilink")
 10. Choice – Black Beat
 11. Be My Love – [Dana](https://zh.wikipedia.org/wiki/喜悅Dana "wikilink")
 

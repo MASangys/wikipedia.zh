@@ -16,7 +16,7 @@
 
 #### 男性聲優
 
-  - [上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")
+  - [上田燿司](../Page/上田燿司.md "wikilink")
 
   - [大河元氣](../Page/大河元氣.md "wikilink")
 
@@ -24,7 +24,7 @@
 
   -
 
-  - [楠大典](https://zh.wikipedia.org/wiki/楠大典 "wikilink")
+  - [楠大典](../Page/楠大典.md "wikilink")
 
   -
 
@@ -108,7 +108,7 @@
 
   - [山本彩乃](../Page/山本彩乃.md "wikilink")
 
-  - [吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")
+  - [吉田仁美](../Page/吉田仁美.md "wikilink")
 
 ### 預留
 
@@ -203,7 +203,7 @@
 
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
 
-  - [鈴木KONOMI](https://zh.wikipedia.org/wiki/鈴木KONOMI "wikilink")
+  - [鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
 
   -
 

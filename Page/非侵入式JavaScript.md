@@ -1,4 +1,4 @@
-**非侵入式JavaScript**\[1\]是一種將[Javascript從](../Page/Javascript.md "wikilink")[HTML結構抽離的設計概念](../Page/HTML.md "wikilink")，避免在HTML標籤中夾雜一堆onchange、onclick等屬性去掛載Javascript事件，讓HTML與Javascript分離，依[模型-视图-控制器的原則將功能權責清楚區分](../Page/MVC.md "wikilink")，使HTML也變得結構化容易閱讀。這個名称并不是正式定义，它的基本原则包括：
+**非侵入式JavaScript**\[1\]是一種將[Javascript從](https://zh.wikipedia.org/wiki/Javascript "wikilink")[HTML結構抽離的設計概念](../Page/HTML.md "wikilink")，避免在HTML標籤中夾雜一堆onchange、onclick等屬性去掛載Javascript事件，讓HTML與Javascript分離，依[模型-视图-控制器的原則將功能權責清楚區分](../Page/MVC.md "wikilink")，使HTML也變得結構化容易閱讀。這個名称并不是正式定义，它的基本原则包括：
 
   - 將网页的[行为层和](../Page/置标语言.md "wikilink")[表现层](../Page/样式表.md "wikilink")[分离开](../Page/关注点分离.md "wikilink")\[2\]；
   - 是解决传统JavaScript编程问题（浏览器呈现不一致，缺乏扩展性）的最佳实践；

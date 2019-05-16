@@ -1,5 +1,5 @@
 「**COVER
-YOU**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")1枚翻唱專輯。於2008年11月26日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+YOU**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")1枚翻唱專輯。於2008年11月26日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -49,10 +49,10 @@ YOU**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><strong><a href="../Page/居酒屋.md" title="wikilink">居酒屋</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木之實奈奈" title="wikilink">木之實奈奈</a>・<a href="https://zh.wikipedia.org/wiki/五木宏" title="wikilink">五木宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木之實奈奈" title="wikilink">木之實奈奈</a>・<a href="../Page/五木宏.md" title="wikilink">五木宏</a></p></td>
 <td><p><a href="../Page/大野克夫.md" title="wikilink">大野克夫</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/周訪泰臣" title="wikilink">周訪泰臣</a></p></td>
-<td><p><a href="../Page/高橋愛.md" title="wikilink">高橋愛</a>・<a href="https://zh.wikipedia.org/wiki/五木宏" title="wikilink">五木宏主唱</a></p></td>
+<td><p><a href="../Page/高橋愛.md" title="wikilink">高橋愛</a>・<a href="../Page/五木宏.md" title="wikilink">五木宏主唱</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -88,7 +88,7 @@ YOU**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少
 <td><p>7</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/蘋果殺人事件" title="wikilink">蘋果殺人事件</a></strong><br />
 （林檎殺人事件）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄉廣美" title="wikilink">鄉廣美</a>・<a href="https://zh.wikipedia.org/wiki/樹木希林" title="wikilink">樹木希林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄉廣美" title="wikilink">鄉廣美</a>・<a href="../Page/樹木希林.md" title="wikilink">樹木希林</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/穂口雄右" title="wikilink">穂口雄右</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/土肥真生" title="wikilink">土肥真生</a></p></td>
 <td></td>

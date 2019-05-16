@@ -1,4 +1,4 @@
-《**福音戰士新劇場版：Q**》（）是2012年上映的[日本](../Page/日本.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。是[福音戰士新劇場版系列的第三部](../Page/福音戰士新劇場版.md "wikilink")。与[吉卜力工作室特摄短編电影](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")《[巨神兵现身东京](https://zh.wikipedia.org/wiki/巨神兵现身东京 "wikilink")
+《**福音戰士新劇場版：Q**》（）是2012年上映的[日本](../Page/日本.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。是[福音戰士新劇場版系列的第三部](../Page/福音戰士新劇場版.md "wikilink")。与[吉卜力工作室特摄短編电影](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")《[巨神兵现身东京](../Page/巨神兵现身东京.md "wikilink")
 劇場版》同時上映\[1\]。
 
 ## 概要
@@ -14,7 +14,7 @@
 
 ### US作战
 
-[葛城美里領導部分前NERV成员组成反NERV组织](../Page/葛城美里.md "wikilink")「WILLE」，对NERV的EVA进行歼灭行动。WILLE所属EVA改2号機（搭乗者：[式波·明日香·蘭格雷](https://zh.wikipedia.org/wiki/式波·明日香·蘭格雷 "wikilink")）和8号機（搭乗者：[真希波·真理·伊拉絲多莉亞斯](https://zh.wikipedia.org/wiki/真希波·真理·伊拉絲多莉亞斯 "wikilink")）在衛星軌道上对被NERV封印的初号機进行夺回作战「US作战」。
+[葛城美里領導部分前NERV成员组成反NERV组织](../Page/葛城美里.md "wikilink")「WILLE」，对NERV的EVA进行歼灭行动。WILLE所属EVA改2号機（搭乗者：[式波·明日香·蘭格雷](https://zh.wikipedia.org/wiki/式波·明日香·蘭格雷 "wikilink")）和8号機（搭乗者：[真希波·真理·伊拉絲多莉亞斯](../Page/真希波·真理·伊拉絲多莉亞斯.md "wikilink")）在衛星軌道上对被NERV封印的初号機进行夺回作战「US作战」。
 
 改2号機受到自動防衛系统「Mk.04A」的攻击，在8号機的援護射撃下进行突破。接着遭到与初号机收容在一起的「Mk.04B」的阻击而面临坠入大气层烧毁的危险，明日香向真希波求救，暂时觉醒的初号机將Mk.04B消滅，2号機和初号機一同返回地球。作战成功。
 
@@ -95,7 +95,7 @@ NERV最高司令官（沿用前作的設定）。真嗣之父。
 - 驾驶改2号機，WILLE所属驾驶员。“第2少女”。作战服为红色、编号为02（背号为2）。
 
 :\*
-[真希波·真理·伊拉絲多莉亞斯](https://zh.wikipedia.org/wiki/真希波·真理·伊拉絲多莉亞斯 "wikilink")（聲優：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")）
+[真希波·真理·伊拉絲多莉亞斯](../Page/真希波·真理·伊拉絲多莉亞斯.md "wikilink")（聲優：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")）
 - 驾驶8号機，WILLE所属驾驶员。作战服为粉色、编号为08（背号为8）。
 
 :\*
@@ -119,8 +119,7 @@ Wunder整備長。
 :\* 長良澄（聲優：[大原沙耶香](../Page/大原沙耶香.md "wikilink")）- AAA
 Wunder操作员。（另外，大原也曾在《序》和《破》中参加操作员的配音演出）
 
-:\* 多摩秀树（聲優：[勝杏里](https://zh.wikipedia.org/wiki/勝杏里 "wikilink")）- AAA
-Wunder操作员。
+:\* 多摩秀树（聲優：[勝杏里](../Page/勝杏里.md "wikilink")）- AAA Wunder操作员。
 
 :\* 北上绿（聲優：[伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink")）- AAA Wunder操作员。
 
@@ -182,7 +181,7 @@ Mark.04、8号機、Mark.09、第13号機等。
   - 主・机械设定：[山下育人](https://zh.wikipedia.org/wiki/山下育人 "wikilink")
   - 分镜：鶴卷和哉、[樋口真嗣](../Page/樋口真嗣.md "wikilink")、摩砂雪、前田真宏、小松田大全、[轟木一騎](https://zh.wikipedia.org/wiki/轟木一騎 "wikilink")、庵野秀明
   - 总作画监督：[本田雄](../Page/本田雄.md "wikilink")
-  - 作画监督：[林明美](https://zh.wikipedia.org/wiki/林明美_\(动画师\) "wikilink")、[井上俊之](https://zh.wikipedia.org/wiki/井上俊之 "wikilink")
+  - 作画监督：[林明美](https://zh.wikipedia.org/wiki/林明美_\(动画师\) "wikilink")、[井上俊之](../Page/井上俊之.md "wikilink")
   - 特技监督：[增尾昭一](https://zh.wikipedia.org/wiki/增尾昭一 "wikilink")
   - 副监督：[中山胜一](https://zh.wikipedia.org/wiki/中山胜一 "wikilink")、小松田大全
   - 设计工作：[本田雄](../Page/本田雄.md "wikilink")、高倉武史、[渡部隆](https://zh.wikipedia.org/wiki/渡部隆 "wikilink")、コヤマシゲト、小松田大全、渭原敏明、小林浩康、吉崎響、[浅井真紀](https://zh.wikipedia.org/wiki/浅井真紀 "wikilink")、前田真宏、鶴卷和哉、[樋口真嗣](../Page/樋口真嗣.md "wikilink")、[出渕裕](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")、庵野秀明
@@ -197,15 +196,15 @@ Mark.04、8号機、Mark.09、第13号機等。
   - 总監督助手：轟木一騎
   - 脚本協力：[榎戶洋司](../Page/榎戶洋司.md "wikilink")、鶴巻和哉、前田真宏
   - 动画制作：[khara工作室](https://zh.wikipedia.org/wiki/khara工作室 "wikilink")
-  - 共同配給：、[khara](../Page/khara.md "wikilink")
-  - 宣传・制作：[khara](../Page/khara.md "wikilink")
+  - 共同配給：、[khara](https://zh.wikipedia.org/wiki/khara "wikilink")
+  - 宣传・制作：[khara](https://zh.wikipedia.org/wiki/khara "wikilink")
   - 执行制片人：[大月俊倫](../Page/大月俊倫.md "wikilink")、[庵野秀明](../Page/庵野秀明.md "wikilink")
 
 ## 音乐
 
 ### 主题曲
 
-  - 《[櫻花紛飛](https://zh.wikipedia.org/wiki/櫻花紛飛 "wikilink")》
+  - 《[櫻花紛飛](../Page/櫻花紛飛.md "wikilink")》
       - 主唱：[宇多田光](../Page/宇多田光.md "wikilink")
       - 作词：宇多田光
       - 作曲：宇多田光，
@@ -219,7 +218,7 @@ REDO.》于2012年11月28日由[King
 Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")，内含两张[CD](../Page/CD.md "wikilink")\[6\]。
 电影[原声音乐专辑包含在](../Page/原声音乐.md "wikilink")2013年4月24日发售的Blu-ray和DVD版本《福音戰士新劇場版：Q
 EVANGELION:3.33 YOU CAN (NOT)
-REDO.》的初回特典CD中，未单独发售。原声音乐专辑将剧中使用的所有音乐，以劇中剪辑后使用的长度和编曲方式进行收录。另外还收录有主题曲《[櫻花紛飛](https://zh.wikipedia.org/wiki/櫻花紛飛 "wikilink")》。\[7\]
+REDO.》的初回特典CD中，未单独发售。原声音乐专辑将剧中使用的所有音乐，以劇中剪辑后使用的长度和编曲方式进行收录。另外还收录有主题曲《[櫻花紛飛](../Page/櫻花紛飛.md "wikilink")》。\[7\]
 
 ## 发行
 
@@ -248,7 +247,7 @@ REDO.》的初回特典CD中，未单独发售。原声音乐专辑将剧中使�
 ### 电影上映
 
 2012年11月17日0时
-([JST](https://zh.wikipedia.org/wiki/日本标准时间 "wikilink"))，新宿Wald9电影院全场（9块屏幕、共计1825个座位）先行放映本作\[13\]。当天，本作于日本47[都道府县的](https://zh.wikipedia.org/wiki/日本行政区划 "wikilink")223家影院\[14\]公映。（注：序的上映影院数为85家，破为120家）同日、[主題曲由](../Page/主題曲.md "wikilink")[宇多田光所演唱的新曲](../Page/宇多田光.md "wikilink")《[櫻花紛飛](https://zh.wikipedia.org/wiki/櫻花紛飛 "wikilink")》發表、同時開始提供下载\[15\]、音樂官方網站開設\[16\]。
+([JST](https://zh.wikipedia.org/wiki/日本标准时间 "wikilink"))，新宿Wald9电影院全场（9块屏幕、共计1825个座位）先行放映本作\[13\]。当天，本作于日本47[都道府县的](https://zh.wikipedia.org/wiki/日本行政区划 "wikilink")223家影院\[14\]公映。（注：序的上映影院数为85家，破为120家）同日、[主題曲由](../Page/主題曲.md "wikilink")[宇多田光所演唱的新曲](../Page/宇多田光.md "wikilink")《[櫻花紛飛](../Page/櫻花紛飛.md "wikilink")》發表、同時開始提供下载\[15\]、音樂官方網站開設\[16\]。
 
 1月26日，隨著票房突破50億圓大關本片在日本全国扩大了94块银幕的上映范围（新加入85块屏幕）\[17\]。
 
@@ -268,12 +267,12 @@ REDO.》[蓝光光碟版](https://zh.wikipedia.org/wiki/蓝光光碟 "wikilink")
 <!-- end list -->
 
   - 2014年9月5日、新劇場版3週连续放送「EVA祭」的一環、同档节目（金曜劇場）放映《Q
-    TV版》以及《[巨神兵现身东京劇場版](https://zh.wikipedia.org/wiki/巨神兵现身东京 "wikilink")
+    TV版》以及《[巨神兵现身东京劇場版](../Page/巨神兵现身东京.md "wikilink")
     TV版》。版本表記为：**3.03'**。次回予告改为「NEXT　EVANGELION:3.0+1.0」。关东地区收视率録得10.0%\[20\]。
 
 ## 评价
 
-本作入圍[第36回日本電影金像獎的](https://zh.wikipedia.org/wiki/第36回日本電影金像獎 "wikilink")[最佳動畫片獎](https://zh.wikipedia.org/wiki/日本電影金像獎最佳動畫片獎 "wikilink")\[21\]。并获得第17回[文化廳媒體藝術祭動畫部門優秀賞](../Page/文化廳媒體藝術祭.md "wikilink")\[22\]。庵野秀明因本作获得第22回[日本電影影評人大獎動畫監督賞](https://zh.wikipedia.org/wiki/日本電影影評人大獎 "wikilink")。
+本作入圍[第36回日本電影金像獎的](https://zh.wikipedia.org/wiki/第36回日本電影金像獎 "wikilink")[最佳動畫片獎](https://zh.wikipedia.org/wiki/日本電影金像獎最佳動畫片獎 "wikilink")\[21\]。并获得第17回[文化廳媒體藝術祭動畫部門優秀賞](../Page/文化廳媒體藝術祭.md "wikilink")\[22\]。庵野秀明因本作获得第22回[日本電影影評人大獎動畫監督賞](../Page/日本電影影評人大獎.md "wikilink")。
 
 ## 票房
 

@@ -331,7 +331,7 @@ Interactive](../Page/Paradox_Interactive.md "wikilink")**相關游戏列表。
 </tr>
 <tr class="even">
 <td><p>Europa Universalis Ⅳ</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/歐陸風雲IV" title="wikilink">欧陆风云Ⅳ</a></p></td>
+<td><p><a href="../Page/歐陸風雲IV.md" title="wikilink">欧陆风云Ⅳ</a></p></td>
 <td><p>Clausewitz 2.5 Engine</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -612,7 +612,7 @@ Interactive](../Page/Paradox_Interactive.md "wikilink")**相關游戏列表。
 </tr>
 <tr class="even">
 <td><p>Mount &amp; Blade: Warband</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/骑马与砍杀：战团" title="wikilink">骑马与砍杀：战团</a></p></td>
+<td><p><a href="../Page/骑马与砍杀：战团.md" title="wikilink">骑马与砍杀：战团</a></p></td>
 <td><p>2010</p></td>
 <td><p>獨立資料片</p></td>
 <td></td>

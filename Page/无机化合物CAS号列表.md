@@ -13,7 +13,7 @@
 <tbody>
 <tr class="odd">
 <td><p>Ac<sub>2</sub>O<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氧化锕" title="wikilink">氧化锕</a></p></td>
+<td><p><a href="../Page/氧化锕.md" title="wikilink">氧化锕</a></p></td>
 <td><p>12002-61-8</p></td>
 </tr>
 <tr class="even">
@@ -33,12 +33,12 @@
 </tr>
 <tr class="odd">
 <td><p>AgCN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氰化银" title="wikilink">氰化银</a></p></td>
+<td><p><a href="../Page/氰化银.md" title="wikilink">氰化银</a></p></td>
 <td><p>506-64-9</p></td>
 </tr>
 <tr class="even">
 <td><p>AgC<sub>2</sub>H<sub>3</sub>O<sub>2</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/乙酸银" title="wikilink">乙酸银</a></p></td>
+<td><p><a href="../Page/乙酸银.md" title="wikilink">乙酸银</a></p></td>
 <td><p>563-63-3</p></td>
 </tr>
 <tr class="odd">
@@ -48,7 +48,7 @@
 </tr>
 <tr class="even">
 <td><p>AgClO<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氯酸银" title="wikilink">氯酸银</a></p></td>
+<td><p><a href="../Page/氯酸银.md" title="wikilink">氯酸银</a></p></td>
 <td><p>7783-92-8</p></td>
 </tr>
 <tr class="odd">
@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p>AgIO<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/碘酸银" title="wikilink">碘酸银</a></p></td>
+<td><p><a href="../Page/碘酸银.md" title="wikilink">碘酸银</a></p></td>
 <td><p>7783-97-3</p></td>
 </tr>
 <tr class="even">
@@ -98,22 +98,22 @@
 </tr>
 <tr class="even">
 <td><p>AgONC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雷酸银" title="wikilink">雷酸银</a></p></td>
+<td><p><a href="../Page/雷酸银.md" title="wikilink">雷酸银</a></p></td>
 <td><p>5610-59-3</p></td>
 </tr>
 <tr class="odd">
 <td><p>AgReO<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高铼酸银" title="wikilink">高铼酸银</a></p></td>
+<td><p><a href="../Page/高铼酸银.md" title="wikilink">高铼酸银</a></p></td>
 <td><p>7784-00-1</p></td>
 </tr>
 <tr class="even">
 <td><p>AgSNC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/硫氰酸银" title="wikilink">硫氰酸银</a></p></td>
+<td><p><a href="../Page/硫氰酸银.md" title="wikilink">硫氰酸银</a></p></td>
 <td><p>1701-93-5</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ag<sub>2</sub>C<sub>2</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/乙炔银" title="wikilink">乙炔银</a></p></td>
+<td><p><a href="../Page/乙炔银.md" title="wikilink">乙炔银</a></p></td>
 <td><p>7659-31-6</p></td>
 </tr>
 <tr class="even">
@@ -123,7 +123,7 @@
 </tr>
 <tr class="odd">
 <td><p>Ag<sub>2</sub>C<sub>2</sub>O<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草酸银" title="wikilink">草酸银</a></p></td>
+<td><p><a href="../Page/草酸银.md" title="wikilink">草酸银</a></p></td>
 <td><p>533-51-7</p></td>
 </tr>
 <tr class="even">
@@ -138,7 +138,7 @@
 </tr>
 <tr class="even">
 <td><p>Ag<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/重铬酸银" title="wikilink">重铬酸银</a></p></td>
+<td><p><a href="../Page/重铬酸银.md" title="wikilink">重铬酸银</a></p></td>
 <td><p>7784-02-3</p></td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p>Ag<sub>2</sub>MoO<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/钼酸银" title="wikilink">钼酸银</a></p></td>
+<td><p><a href="../Page/钼酸银.md" title="wikilink">钼酸银</a></p></td>
 <td><p>13765-74-7</p></td>
 </tr>
 <tr class="odd">
@@ -163,7 +163,7 @@
 </tr>
 <tr class="odd">
 <td><p>Ag<sub>2</sub>SO<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/硫酸银" title="wikilink">硫酸银</a></p></td>
+<td><p><a href="../Page/硫酸银.md" title="wikilink">硫酸银</a></p></td>
 <td><p>10294-26-5</p></td>
 </tr>
 <tr class="even">
@@ -173,12 +173,12 @@
 </tr>
 <tr class="odd">
 <td><p>Ag<sub>2</sub>SeO<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亚硒酸银" title="wikilink">亚硒酸银</a></p></td>
+<td><p><a href="../Page/亚硒酸银.md" title="wikilink">亚硒酸银</a></p></td>
 <td><p>7784-05-6</p></td>
 </tr>
 <tr class="even">
 <td><p>Ag<sub>2</sub>SeO<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/硒酸银" title="wikilink">硒酸银</a></p></td>
+<td><p><a href="../Page/硒酸银.md" title="wikilink">硒酸银</a></p></td>
 <td><p>7784-07-8</p></td>
 </tr>
 <tr class="odd">
@@ -208,7 +208,7 @@
 </tr>
 <tr class="even">
 <td><p>Ag<sub>3</sub>PO<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/磷酸银" title="wikilink">磷酸银</a></p></td>
+<td><p><a href="../Page/磷酸银.md" title="wikilink">磷酸银</a></p></td>
 <td><p>7784-09-0</p></td>
 </tr>
 <tr class="odd">
@@ -233,7 +233,7 @@
 </tr>
 <tr class="odd">
 <td><p>AlBr<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/溴化铝" title="wikilink">溴化铝</a></p></td>
+<td><p><a href="../Page/溴化铝.md" title="wikilink">溴化铝</a></p></td>
 <td><p>7727-15-3</p></td>
 </tr>
 <tr class="even">
@@ -243,7 +243,7 @@
 </tr>
 <tr class="odd">
 <td><p>Al(CHO<sub>2</sub>)<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甲酸铝" title="wikilink">甲酸铝</a></p></td>
+<td><p><a href="../Page/甲酸铝.md" title="wikilink">甲酸铝</a></p></td>
 <td><p>7360-53-4</p></td>
 </tr>
 <tr class="even">
@@ -428,7 +428,7 @@
 </tr>
 <tr class="even">
 <td><p>As<sub>2</sub>Se<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三硒化二砷" title="wikilink">三硒化二砷</a></p></td>
+<td><p><a href="../Page/三硒化二砷.md" title="wikilink">三硒化二砷</a></p></td>
 <td><p>1303-36-2</p></td>
 </tr>
 <tr class="odd">
@@ -438,7 +438,7 @@
 </tr>
 <tr class="even">
 <td><p>As<sub>2</sub>Te<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三碲化二砷" title="wikilink">三碲化二砷</a></p></td>
+<td><p><a href="../Page/三碲化二砷.md" title="wikilink">三碲化二砷</a></p></td>
 <td><p>12044-54-1</p></td>
 </tr>
 <tr class="odd">
@@ -533,7 +533,7 @@
 </tr>
 <tr class="odd">
 <td><p>Au<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/硒酸金" title="wikilink">硒酸金</a></p></td>
+<td><p><a href="../Page/硒酸金.md" title="wikilink">硒酸金</a></p></td>
 <td><p>10294-32-3</p></td>
 </tr>
 <tr class="even">
@@ -593,7 +593,7 @@
 | BaC<sub>2</sub>O<sub>4</sub>                                | [草酸钡](../Page/草酸钡.md "wikilink")                                  | 516-02-9    |
 | BaC<sub>4</sub>H<sub>4</sub>O<sub>6</sub>                   | [酒石酸钡](https://zh.wikipedia.org/wiki/酒石酸钡 "wikilink")             | 5908-81-6   |
 | Ba(C<sub>18</sub>H<sub>35</sub>O<sub>2</sub>)<sub>2</sub>   | [硬脂酸钡](https://zh.wikipedia.org/wiki/硬脂酸钡 "wikilink")             | 6865-35-6   |
-| Ba(ClO<sub>3</sub>)<sub>2</sub>                             | [氯酸钡](https://zh.wikipedia.org/wiki/氯酸钡 "wikilink")               | 13477-00-4  |
+| Ba(ClO<sub>3</sub>)<sub>2</sub>                             | [氯酸钡](../Page/氯酸钡.md "wikilink")                                  | 13477-00-4  |
 | Ba(ClO<sub>4</sub>)<sub>2</sub>                             | [高氯酸钡](../Page/高氯酸钡.md "wikilink")                                | 13465-95-7  |
 | BaCl<sub>2</sub>                                            | [氯化鋇](../Page/氯化鋇.md "wikilink")                                  | 10361-37-2  |
 | BaCl<sub>2</sub>·2H<sub>2</sub>O                            | [氯化钡二水合物](https://zh.wikipedia.org/wiki/氯化钡 "wikilink")           | 10326-27-9  |
@@ -609,7 +609,7 @@
 | BaMoO<sub>4</sub>                                           | [钼酸钡](../Page/钼酸钡.md "wikilink")                                  | 7787-37-3   |
 | Ba(NO<sub>2</sub>)<sub>2</sub>                              | [亚硝酸钡](https://zh.wikipedia.org/wiki/亚硝酸钡 "wikilink")             | 13465-94-6  |
 | Ba(NO<sub>3</sub>)<sub>2</sub>                              | [硝酸钡](../Page/硝酸钡.md "wikilink")                                  | 10022-31-8  |
-| BaN<sub>6</sub>                                             | [叠氮化钡](https://zh.wikipedia.org/wiki/叠氮化钡 "wikilink")             | 18810-58-7  |
+| BaN<sub>6</sub>                                             | [叠氮化钡](../Page/叠氮化钡.md "wikilink")                                | 18810-58-7  |
 | Ba(NbO<sub>3</sub>)<sub>2</sub>                             | [铌酸钡](https://zh.wikipedia.org/wiki/铌酸钡 "wikilink")               | 12009-14-2  |
 | BaO                                                         | [氧化钡](../Page/氧化钡.md "wikilink")                                  | 1304-28-5   |
 | Ba(OH)<sub>2</sub>                                          | [氢氧化钡](../Page/氢氧化钡.md "wikilink")                                | 17194-00-2  |
@@ -669,7 +669,7 @@
 | BiF<sub>3</sub>                                             | [三氟化铋](../Page/三氟化铋.md "wikilink")                                | 7787-61-3   |
 | BiF<sub>5</sub>                                             | [五氟化铋](../Page/五氟化铋.md "wikilink")                                | 7787-62-4   |
 | BiH<sub>3</sub>                                             | [铋化氢](../Page/铋化氢.md "wikilink")                                  | 18288-22-7  |
-| BiI<sub>3</sub>                                             | [碘化铋](https://zh.wikipedia.org/wiki/碘化铋 "wikilink")               | 7787-64-6   |
+| BiI<sub>3</sub>                                             | [碘化铋](../Page/碘化铋.md "wikilink")                                  | 7787-64-6   |
 | BiNbO<sub>4</sub>                                           | [正铌酸铋](https://zh.wikipedia.org/wiki/正铌酸铋 "wikilink")             | 12272-28-5  |
 | BiOBr                                                       | [次溴酸铋](https://zh.wikipedia.org/wiki/次溴酸铋 "wikilink")             | 7787-57-7   |
 | BiOCl                                                       | [次氯酸铋](https://zh.wikipedia.org/wiki/次氯酸铋 "wikilink")             | 7787-59-9   |
@@ -679,19 +679,19 @@
 | (BiO)<sub>2</sub>CO<sub>3</sub>                             | [碳酸铋(III)](https://zh.wikipedia.org/wiki/碳酸铋\(III\) "wikilink")   | 5892-10-4   |
 | BiPO<sub>4</sub>                                            | [磷酸铋](https://zh.wikipedia.org/wiki/磷酸铋 "wikilink")               | 10049-01-1  |
 | BiTaO<sub>4</sub>                                           | [正钽酸铋](https://zh.wikipedia.org/wiki/正钽酸铋 "wikilink")             | 12272-29-6  |
-| BiVO<sub>4</sub>                                            | [钒酸铋](https://zh.wikipedia.org/wiki/钒酸铋 "wikilink")               | 14059-33-7  |
+| BiVO<sub>4</sub>                                            | [钒酸铋](../Page/钒酸铋.md "wikilink")                                  | 14059-33-7  |
 | Bi<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>      | [草酸铋(III)](https://zh.wikipedia.org/wiki/草酸铋\(III\) "wikilink")   | 6591-55-5   |
 | Bi<sub>2</sub>(MoO<sub>4</sub>)<sub>3</sub>                 | [钼酸铋](../Page/钼酸铋.md "wikilink")(III)                             | 51898-99-8  |
 | Bi<sub>2</sub>O<sub>3</sub>                                 | [三氧化二铋](../Page/三氧化二铋.md "wikilink")                              | 1304-76-3   |
 | Bi<sub>2</sub>O<sub>4</sub>                                 | [四氧化二铋](https://zh.wikipedia.org/wiki/四氧化二铋 "wikilink")           | 12048-50-9  |
-| Bi<sub>2</sub>S<sub>3</sub>                                 | [硫化铋](https://zh.wikipedia.org/wiki/硫化铋 "wikilink")               | 1345-07-9   |
+| Bi<sub>2</sub>S<sub>3</sub>                                 | [硫化铋](../Page/硫化铋.md "wikilink")                                  | 1345-07-9   |
 | Bi<sub>2</sub>Se<sub>3</sub>                                | [硒化铋](https://zh.wikipedia.org/wiki/硒化铋 "wikilink")               | 12068-69-8  |
 | Bi<sub>2</sub>(SnO<sub>4</sub>)<sub>3</sub>                 | [锡酸铋(III)](https://zh.wikipedia.org/wiki/锡酸铋\(III\) "wikilink")   | 7787-68-0   |
 | Bi<sub>2</sub>Te<sub>3</sub>                                | [碲化铋](https://zh.wikipedia.org/wiki/碲化铋 "wikilink")               | 1304-82-1   |
 | Bi<sub>4</sub>(TiO<sub>4</sub>)<sub>3</sub>                 | [钛酸铋](https://zh.wikipedia.org/wiki/钛酸铋 "wikilink")               | 12048-51-0  |
 | Bi<sub>5</sub>O(OH)<sub>9</sub>(NO<sub>3</sub>)<sub>4</sub> | [碱式硝酸铋](https://zh.wikipedia.org/wiki/碱式硝酸铋 "wikilink")           | 1304-85-4   |
 | BkBr<sub>3</sub>                                            | [三溴化锫](https://zh.wikipedia.org/wiki/三溴化锫 "wikilink")             | 22787-71-9  |
-| BkCl<sub>3</sub>                                            | [氯化锫](https://zh.wikipedia.org/wiki/氯化锫 "wikilink")               | 13536-46-4  |
+| BkCl<sub>3</sub>                                            | [氯化锫](../Page/氯化锫.md "wikilink")                                  | 13536-46-4  |
 | BkF<sub>3</sub>                                             | [三氟化锫](https://zh.wikipedia.org/wiki/三氟化锫 "wikilink")             | 20716-88-5  |
 | BkF<sub>4</sub>                                             | [四氟化锫](https://zh.wikipedia.org/wiki/四氟化锫 "wikilink")             | 22422-27-1  |
 | BkI<sub>3</sub>                                             | [三碘化锫](https://zh.wikipedia.org/wiki/三碘化锫 "wikilink")             | 23171-53-1  |
@@ -702,7 +702,7 @@
 | BrF                                                         | [一氟化溴](../Page/一氟化溴.md "wikilink")                                | 13863-59-7  |
 | BrF<sub>3</sub>                                             | [三氟化溴](../Page/三氟化溴.md "wikilink")                                | 7787-71-5   |
 | BrF<sub>5</sub>                                             | [五氟化溴](../Page/五氟化溴.md "wikilink")                                | 7789-30-2   |
-| BrN<sub>3</sub>                                             | [叠氮化溴](https://zh.wikipedia.org/wiki/叠氮化溴 "wikilink")             | 13973-87-0  |
+| BrN<sub>3</sub>                                             | [叠氮化溴](../Page/叠氮化溴.md "wikilink")                                | 13973-87-0  |
 | BrO<sub>2</sub>                                             | [二氧化溴](https://zh.wikipedia.org/wiki/二氧化溴 "wikilink")             | 21255-83-4  |
 | Br<sub>2</sub>O                                             | [一氧化二溴](https://zh.wikipedia.org/wiki/一氧化二溴 "wikilink")           | 21308-80-5  |
 |                                                             |                                                                   |             |
@@ -723,7 +723,7 @@
 | Ca(C<sub>2</sub>HO<sub>2</sub>)<sub>2</sub>                             | [富马酸钙](https://zh.wikipedia.org/wiki/富马酸钙 "wikilink")                                                                | 19855-56-2                |
 | Ca(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>                 | [乙酸钙](../Page/乙酸钙.md "wikilink")                                                                                     | 62-54-4                   |
 | CaC<sub>2</sub>O<sub>4</sub>                                            | [草酸钙](../Page/草酸钙.md "wikilink")                                                                                     | 563-72-4                  |
-| Ca(C<sub>3</sub>H<sub>5</sub>O<sub>2</sub>)<sub>2</sub>                 | [丙酸钙](https://zh.wikipedia.org/wiki/丙酸钙 "wikilink")                                                                  | 4075-81-4                 |
+| Ca(C<sub>3</sub>H<sub>5</sub>O<sub>2</sub>)<sub>2</sub>                 | [丙酸钙](../Page/丙酸钙.md "wikilink")                                                                                     | 4075-81-4                 |
 | Ca(ClO<sub>3</sub>)<sub>2</sub>                                         | [氯酸钙](../Page/氯酸钙.md "wikilink")                                                                                     | 10137-74-3                |
 | Ca(ClO<sub>4</sub>)<sub>2</sub>                                         | [高氯酸钙](../Page/高氯酸钙.md "wikilink")                                                                                   | 13477-36-6                |
 | CaCl<sub>2</sub>                                                        | [氯化鈣](../Page/氯化鈣.md "wikilink")                                                                                     | 10043-52-4                |
@@ -751,17 +751,17 @@
 | CaSiO<sub>3</sub>                                                       | 偏[硅酸钙](https://zh.wikipedia.org/wiki/硅酸钙 "wikilink")                                                                 | 1344-95-2                 |
 | CaSi<sub>2</sub>                                                        | [二硅化钙](https://zh.wikipedia.org/wiki/二硅化钙 "wikilink")、[硅化钙](../Page/硅化钙.md "wikilink")                               | 12013-56-8                |
 | CaTe                                                                    | [碲化钙](https://zh.wikipedia.org/wiki/碲化钙 "wikilink")                                                                  | 12013-57-9                |
-| CaTiO<sub>3</sub>                                                       | [钛酸钙](https://zh.wikipedia.org/wiki/钛酸钙 "wikilink")                                                                  | 12049-50-2                |
+| CaTiO<sub>3</sub>                                                       | [钛酸钙](../Page/钛酸钙.md "wikilink")                                                                                     | 12049-50-2                |
 | CaWO<sub>4</sub>                                                        | [钨酸钙](https://zh.wikipedia.org/wiki/钨酸钙 "wikilink")                                                                  | 7790-75-2                 |
 | Ca<sub>2</sub>P<sub>2</sub>O<sub>7</sub>                                | [焦磷酸钙](../Page/焦磷酸钙.md "wikilink")                                                                                   | 7790-76-3                 |
 | Ca<sub>2</sub>SiO<sub>4</sub>                                           | [矽酸鈣](../Page/矽酸鈣.md "wikilink")                                                                                     | 1344-95-2                 |
 | Ca<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>                             | [砷酸钙](https://zh.wikipedia.org/wiki/砷酸钙 "wikilink")                                                                  | 7778-44-1                 |
-| Ca<sub>3</sub>(C<sub>6</sub>H<sub>15</sub>O<sub>7</sub>)<sub>2</sub>    | [柠檬酸钙](https://zh.wikipedia.org/wiki/柠檬酸钙 "wikilink")                                                                | 5785-44-4                 |
+| Ca<sub>3</sub>(C<sub>6</sub>H<sub>15</sub>O<sub>7</sub>)<sub>2</sub>    | [柠檬酸钙](../Page/柠檬酸钙.md "wikilink")                                                                                   | 5785-44-4                 |
 | Ca<sub>3</sub>N<sub>2</sub>                                             | [氮化钙](../Page/氮化钙.md "wikilink")                                                                                     | 12013-82-0                |
 | Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>                              | [磷酸钙](../Page/磷酸钙.md "wikilink")                                                                                     | 7758-87-4                 |
 | Ca<sub>3</sub>P<sub>2</sub>                                             | [磷化钙](../Page/磷化钙.md "wikilink")                                                                                     | 1305-99-3                 |
 | CdBr<sub>2</sub>                                                        | [溴化鎘](../Page/溴化鎘.md "wikilink")                                                                                     | 7789-42-6                 |
-| Cd(CN)<sub>2</sub>                                                      | [氰化镉](https://zh.wikipedia.org/wiki/氰化镉 "wikilink")                                                                  | 542-83-6                  |
+| Cd(CN)<sub>2</sub>                                                      | [氰化镉](../Page/氰化镉.md "wikilink")                                                                                     | 542-83-6                  |
 | CdCO<sub>3</sub>                                                        | [碳酸镉](https://zh.wikipedia.org/wiki/碳酸镉 "wikilink")                                                                  | 513-78-0                  |
 | Cd(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>                 | [乙酸镉](../Page/乙酸镉.md "wikilink")                                                                                     | 543-90-8                  |
 | CdC<sub>2</sub>O<sub>4</sub>                                            | [草酸镉](https://zh.wikipedia.org/wiki/草酸镉 "wikilink")                                                                  | 814-88-0                  |
@@ -795,7 +795,7 @@
 | CeF<sub>4</sub>                                                         | [四氟化铈](https://zh.wikipedia.org/wiki/四氟化铈 "wikilink")                                                                | 10060-10-3                |
 | CeH<sub>2</sub>                                                         | [二氢化铈](https://zh.wikipedia.org/wiki/二氢化铈 "wikilink")                                                                | 13569-50-1                |
 | CeI<sub>2</sub>                                                         | [二碘化铈](https://zh.wikipedia.org/wiki/二碘化铈 "wikilink")                                                                | 19139-47-0                |
-| CeI<sub>3</sub>                                                         | [碘化铈](https://zh.wikipedia.org/wiki/碘化铈 "wikilink")                                                                  | 7790-87-6                 |
+| CeI<sub>3</sub>                                                         | [碘化铈](../Page/碘化铈.md "wikilink")                                                                                     | 7790-87-6                 |
 | CeN                                                                     | [氮化铈](https://zh.wikipedia.org/wiki/氮化铈 "wikilink")                                                                  | 25764-08-3                |
 | CeO<sub>2</sub>                                                         | [二氧化铈](../Page/二氧化铈.md "wikilink")                                                                                   | 1306-38-3                 |
 | CeS                                                                     | [一硫化铈](https://zh.wikipedia.org/wiki/一硫化铈 "wikilink")                                                                | 12014-82-3                |
@@ -832,7 +832,7 @@
 | Cm<sub>2</sub>O<sub>3</sub>                                             | [三氧化二锔](../Page/三氧化二锔.md "wikilink")                                                                                 | 12371-27-6                |
 | CoAl<sub>2</sub>O<sub>4</sub>                                           | [铝酸钴](https://zh.wikipedia.org/wiki/铝酸钴 "wikilink")                                                                  | 13820-62-7                |
 | CoBr<sub>2</sub>                                                        | [溴化钴](https://zh.wikipedia.org/wiki/溴化钴 "wikilink")                                                                  | 7789-43-7                 |
-| Co(CN)<sub>2</sub>                                                      | [氰化钴](https://zh.wikipedia.org/wiki/氰化钴 "wikilink")                                                                  | 542-84-7                  |
+| Co(CN)<sub>2</sub>                                                      | [氰化钴](../Page/氰化钴.md "wikilink")                                                                                     | 542-84-7                  |
 | Co(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>                 | [乙酸钴](../Page/乙酸钴.md "wikilink")                                                                                     | 71-48-7                   |
 | Co(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O | [乙酸钴四水合物](../Page/乙酸钴.md "wikilink")                                                                                 | 6147-53-1                 |
 | CoC<sub>2</sub>O<sub>4</sub>                                            | [草酸钴](https://zh.wikipedia.org/wiki/草酸钴 "wikilink")                                                                  | 814-89-1                  |
@@ -853,7 +853,7 @@
 | CoMoO<sub>4</sub>                                                       | [钼酸钴](https://zh.wikipedia.org/wiki/钼酸钴 "wikilink")                                                                  | 13762-14-6                |
 | Co(NO<sub>3</sub>)<sub>2</sub>                                          | [硝酸钴](../Page/硝酸钴.md "wikilink")                                                                                     | 10141-05-6                |
 | Co(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O                          | [硝酸钴六水合物](../Page/硝酸钴.md "wikilink")                                                                                 | 10026-22-9                |
-| Co(NO<sub>3</sub>)<sub>3</sub>                                          | [三硝酸钴](https://zh.wikipedia.org/wiki/三硝酸钴 "wikilink")                                                                | 15520-84-0                |
+| Co(NO<sub>3</sub>)<sub>3</sub>                                          | [三硝酸钴](../Page/三硝酸钴.md "wikilink")                                                                                   | 15520-84-0                |
 | CoO                                                                     | [氧化亚钴](../Page/氧化亚钴.md "wikilink")                                                                                   | 1307-96-6                 |
 | Co(OH)<sub>2</sub>                                                      | [氢氧化钴](../Page/氢氧化钴.md "wikilink")                                                                                   | 21041-93-0                |
 | Co(OH)<sub>3</sub>                                                      | [氢氧化钴(III)](https://zh.wikipedia.org/wiki/氢氧化钴\(III\) "wikilink")                                                    | 1307-86-4                 |
@@ -875,7 +875,7 @@
 | CrBr<sub>3</sub>                                                        | [三溴化铬](https://zh.wikipedia.org/wiki/三溴化铬 "wikilink")                                                                | 10031-25-1                |
 | CrBr<sub>4</sub>                                                        | [四溴化铬](https://zh.wikipedia.org/wiki/四溴化铬 "wikilink")                                                                | 23098-84-2                |
 | Cr(C<sub>6</sub>H<sub>4</sub>NO<sub>2</sub>)<sub>3</sub>                | [吡啶羧酸铬(III)](https://zh.wikipedia.org/wiki/吡啶羧酸铬\(III\) "wikilink")                                                  | 14639-25-9                |
-| Cr(CO)<sub>6</sub>                                                      | [六羰基铬](https://zh.wikipedia.org/wiki/六羰基铬 "wikilink")                                                                | 13007-92-6                |
+| Cr(CO)<sub>6</sub>                                                      | [六羰基铬](../Page/六羰基铬.md "wikilink")                                                                                   | 13007-92-6                |
 | CrCl<sub>2</sub>                                                        | [氯化亚铬](https://zh.wikipedia.org/wiki/氯化亚铬 "wikilink")                                                                | 10049-05-5                |
 | CrCl<sub>3</sub>                                                        | [氯化铬](../Page/氯化铬.md "wikilink")                                                                                     | 10025-73-7                |
 | CrCl<sub>4</sub>                                                        | [四氯化铬](../Page/四氯化铬.md "wikilink")                                                                                   | 15597-88-3                |
@@ -894,7 +894,7 @@
 | CrPO<sub>4</sub>                                                        | [磷酸铬(III)](https://zh.wikipedia.org/wiki/磷酸铬\(III\) "wikilink")                                                      | 7789-04-0                 |
 | CrSe                                                                    | [一硒化铬](https://zh.wikipedia.org/wiki/一硒化铬 "wikilink")（[硒化铬(II)](https://zh.wikipedia.org/wiki/硒化铬\(II\) "wikilink")） | 12053-13-3                |
 | Cr<sub>2</sub>O<sub>3</sub>                                             | [三氧化二铬](../Page/三氧化二铬.md "wikilink")                                                                                 | 1308-38-9                 |
-| Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>                              | [碱式硫酸铬](https://zh.wikipedia.org/wiki/碱式硫酸铬 "wikilink")                                                              | 10101-53-8                |
+| Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>                              | [碱式硫酸铬](../Page/碱式硫酸铬.md "wikilink")                                                                                 | 10101-53-8                |
 | Cr<sub>2</sub>S<sub>3</sub>                                             | [硫化铬(III)](https://zh.wikipedia.org/wiki/硫化铬\(III\) "wikilink")                                                      | 12018-22-3                |
 | Cr<sub>2</sub>Te<sub>3</sub>                                            | [碲化铬(III)](https://zh.wikipedia.org/wiki/碲化铬\(III\) "wikilink")                                                      | 12053-39-3                |
 | Cr<sub>3</sub>C<sub>2</sub>                                             | [二碳化三铬](https://zh.wikipedia.org/wiki/二碳化三铬 "wikilink")（碳化铬）                                                         | 12012-35-0                |
@@ -933,14 +933,14 @@
 | Cs<sub>2</sub>Te                                                        | [碲化铯](https://zh.wikipedia.org/wiki/碲化铯 "wikilink")                                                                  | 12191-06-9                |
 | Cs<sub>2</sub>WO<sub>4</sub>                                            | [钨酸铯](https://zh.wikipedia.org/wiki/钨酸铯 "wikilink")                                                                  | 13587-19-4                |
 | Cs<sub>2</sub>ZnI<sub>4</sub>                                           | [四碘合锌酸铯](https://zh.wikipedia.org/wiki/四碘合锌酸铯 "wikilink")                                                            | 15158-68-6                |
-| Cu(BF<sub>4</sub>)<sub>2</sub>                                          | [氟硼酸铜](https://zh.wikipedia.org/wiki/氟硼酸铜 "wikilink")                                                                | 14735-84-3                |
+| Cu(BF<sub>4</sub>)<sub>2</sub>                                          | [氟硼酸铜](../Page/氟硼酸铜.md "wikilink")                                                                                   | 14735-84-3                |
 | Cu(BO<sub>2</sub>)<sub>2</sub>                                          | [硼酸铜(II)](https://zh.wikipedia.org/wiki/硼酸铜\(II\) "wikilink")                                                        | 393290-85-2               |
 | CuBr                                                                    | [溴化亚铜](../Page/溴化亚铜.md "wikilink")                                                                                   | 7787-70-4                 |
 | CuBr<sub>2</sub>                                                        | [溴化銅](../Page/溴化銅.md "wikilink")                                                                                     | 7789-45-9                 |
 | Cu(CHO<sub>2</sub>)<sub>2</sub>·4H<sub>2</sub>O                         | [甲酸铜四水合物](https://zh.wikipedia.org/wiki/甲酸铜 "wikilink")                                                              | 544-19-4                  |
 | CuCN                                                                    | [氰化亚铜](../Page/氰化亚铜.md "wikilink")                                                                                   | 544-92-3                  |
 | Cu(CN)<sub>2</sub>                                                      | [氰化铜](https://zh.wikipedia.org/wiki/氰化铜 "wikilink")                                                                  | 14763-77-0                |
-| CuC<sub>2</sub>                                                         | [乙炔铜](https://zh.wikipedia.org/wiki/乙炔铜 "wikilink")                                                                  | 1117-94-8                 |
+| CuC<sub>2</sub>                                                         | [乙炔铜](../Page/乙炔铜.md "wikilink")                                                                                     | 1117-94-8                 |
 | CuC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>                               | [乙酸亚铜](../Page/乙酸亚铜.md "wikilink")                                                                                   | 598-54-9                  |
 | Cu(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>                 | [乙酸铜](../Page/乙酸铜.md "wikilink")                                                                                     | 142-71-2                  |
 | CuC<sub>2</sub>O<sub>4</sub>                                            | [草酸铜](https://zh.wikipedia.org/wiki/草酸铜 "wikilink")                                                                  | 814-91-5                  |
@@ -998,10 +998,10 @@
 | Dy<sub>2</sub>S<sub>3</sub>                                 | [硫化镝](https://zh.wikipedia.org/wiki/硫化镝 "wikilink")           | 12133-10-7 |
 | Dy<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>                  | [硫酸镝](https://zh.wikipedia.org/wiki/硫酸镝 "wikilink")           | 14373-91-2 |
 | Dy<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>·8H<sub>2</sub>O  | [硫酸镝八水合物](https://zh.wikipedia.org/wiki/硫酸镝 "wikilink")       | 10031-50-2 |
-| Dy<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>                 | [硒酸镝](https://zh.wikipedia.org/wiki/硒酸镝 "wikilink")           | 20148-58-7 |
-| Dy<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>·8H<sub>2</sub>O | [硒酸镝八水合物](https://zh.wikipedia.org/wiki/硒酸镝 "wikilink")       | 13476-03-4 |
-| Dy(NO<sub>3</sub>)<sub>3</sub>                              | [硝酸镝](https://zh.wikipedia.org/wiki/硝酸镝 "wikilink")           | 10143-38-1 |
-| Dy(NO<sub>3</sub>)<sub>3</sub>·6H<sub>2</sub>O              | [硝酸镝六水合物](https://zh.wikipedia.org/wiki/硝酸镝 "wikilink")       | 35725-30-5 |
+| Dy<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>                 | [硒酸镝](../Page/硒酸镝.md "wikilink")                              | 20148-58-7 |
+| Dy<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>·8H<sub>2</sub>O | [硒酸镝八水合物](../Page/硒酸镝.md "wikilink")                          | 13476-03-4 |
+| Dy(NO<sub>3</sub>)<sub>3</sub>                              | [硝酸镝](../Page/硝酸镝.md "wikilink")                              | 10143-38-1 |
+| Dy(NO<sub>3</sub>)<sub>3</sub>·6H<sub>2</sub>O              | [硝酸镝六水合物](../Page/硝酸镝.md "wikilink")                          | 35725-30-5 |
 |                                                             |                                                               |            |
 
 ## E
@@ -1141,7 +1141,7 @@
 </tr>
 <tr class="even">
 <td><p>FeCr<sub>2</sub>O<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亚铬酸亚铁" title="wikilink">亚铬酸亚铁</a></p></td>
+<td><p><a href="../Page/亚铬酸亚铁.md" title="wikilink">亚铬酸亚铁</a></p></td>
 <td><p>1308-31-2</p></td>
 </tr>
 <tr class="odd">
@@ -1171,12 +1171,12 @@
 </tr>
 <tr class="even">
 <td><p>FeI<sub>2</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/碘化亚铁" title="wikilink">碘化亚铁</a></p></td>
+<td><p><a href="../Page/碘化亚铁.md" title="wikilink">碘化亚铁</a></p></td>
 <td><p>7783-86-0</p></td>
 </tr>
 <tr class="odd">
 <td><p>FeI<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/碘化铁" title="wikilink">碘化铁</a></p></td>
+<td><p><a href="../Page/碘化铁.md" title="wikilink">碘化铁</a></p></td>
 <td><p>15600-49-4</p></td>
 </tr>
 <tr class="even">
@@ -1206,7 +1206,7 @@
 </tr>
 <tr class="odd">
 <td><p>FePO<sub>4</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/磷酸铁" title="wikilink">磷酸铁</a></p></td>
+<td><p><a href="../Page/磷酸铁.md" title="wikilink">磷酸铁</a></p></td>
 <td><p>10045-86-0</p></td>
 </tr>
 <tr class="even">
@@ -1221,7 +1221,7 @@
 </tr>
 <tr class="even">
 <td><p>FeSe</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/硒化亚铁" title="wikilink">硒化亚铁</a></p></td>
+<td><p><a href="../Page/硒化亚铁.md" title="wikilink">硒化亚铁</a></p></td>
 <td><p>1310-32-3</p></td>
 </tr>
 <tr class="odd">
@@ -1282,7 +1282,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="even">
 <td><p>Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/磷酸亚铁" title="wikilink">磷酸亚铁</a></p></td>
+<td><p><a href="../Page/磷酸亚铁.md" title="wikilink">磷酸亚铁</a></p></td>
 <td><p>14940-41-1</p></td>
 </tr>
 <tr class="odd">
@@ -1371,8 +1371,8 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | H<sub>2</sub>SO<sub>4</sub>                             | [硫酸](../Page/硫酸.md "wikilink")                        | 7664-93-9  |
 | HfB<sub>2</sub>                                         | [二硼化铪](https://zh.wikipedia.org/wiki/二硼化铪 "wikilink") | 12007-23-7 |
 | HfBr<sub>4</sub>                                        | [四溴化铪](https://zh.wikipedia.org/wiki/四溴化铪 "wikilink") | 13777-22-5 |
-| HfC                                                     | [碳化铪](https://zh.wikipedia.org/wiki/碳化铪 "wikilink")   | 12069-85-1 |
-| HfCl<sub>4</sub>                                        | [四氯化铪](https://zh.wikipedia.org/wiki/四氯化铪 "wikilink") | 13499-05-3 |
+| HfC                                                     | [碳化铪](../Page/碳化铪.md "wikilink")                      | 12069-85-1 |
+| HfCl<sub>4</sub>                                        | [四氯化铪](../Page/四氯化铪.md "wikilink")                    | 13499-05-3 |
 | HfF<sub>4</sub>                                         | [四氟化铪](https://zh.wikipedia.org/wiki/四氟化铪 "wikilink") | 13709-52-9 |
 | HfH<sub>2</sub>                                         | [氢化铪](https://zh.wikipedia.org/wiki/氢化铪 "wikilink")   | 12770-26-2 |
 | HfI<sub>3</sub>                                         | [三碘化铪](https://zh.wikipedia.org/wiki/三碘化铪 "wikilink") | 13779-73-2 |
@@ -1400,11 +1400,11 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | Hg(SCN)<sub>2</sub>                                     | [硫氰化汞](https://zh.wikipedia.org/wiki/硫氰化汞 "wikilink") | 592-85-8   |
 | HgSO<sub>4</sub>                                        | [硫酸汞](../Page/硫酸汞.md "wikilink")                      | 7783-35-9  |
 | HgSe                                                    | [硒化汞](../Page/硒化汞.md "wikilink")                      | 20601-83-6 |
-| HgTe                                                    | [碲化汞](https://zh.wikipedia.org/wiki/碲化汞 "wikilink")   | 12068-90-5 |
+| HgTe                                                    | [碲化汞](../Page/碲化汞.md "wikilink")                      | 12068-90-5 |
 | Hg<sub>2</sub>Br<sub>2</sub>                            | [溴化亚汞](https://zh.wikipedia.org/wiki/溴化亚汞 "wikilink") | 15385-58-7 |
 | Hg<sub>2</sub>Cl<sub>2</sub>                            | [氯化亚汞](../Page/氯化亚汞.md "wikilink")                    | 10112-91-1 |
 | Hg<sub>2</sub>F<sub>2</sub>                             | [氟化亚汞](../Page/氟化亚汞.md "wikilink")                    | 1396-75-4  |
-| Hg<sub>2</sub>I<sub>2</sub>                             | [碘化亚汞](https://zh.wikipedia.org/wiki/碘化亚汞 "wikilink") | 15385-57-6 |
+| Hg<sub>2</sub>I<sub>2</sub>                             | [碘化亚汞](../Page/碘化亚汞.md "wikilink")                    | 15385-57-6 |
 | Hg<sub>2</sub>O                                         | [氧化亚汞](https://zh.wikipedia.org/wiki/氧化亚汞 "wikilink") | 15829-53-5 |
 | HoBr<sub>3</sub>                                        | [溴化钬](https://zh.wikipedia.org/wiki/溴化钬 "wikilink")   | 13825-76-8 |
 | Ho(CHO<sub>2</sub>)<sub>3</sub>                         | [甲酸钬](https://zh.wikipedia.org/wiki/甲酸钬 "wikilink")   | 3252-59-3  |
@@ -1434,7 +1434,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | IN<sub>3</sub>                                          | [叠氮化钾](https://zh.wikipedia.org/wiki/叠氮化钾 "wikilink")      | 14696-82-3 |
 | I<sub>2</sub>O<sub>4</sub>                              | [四氧化二碘](https://zh.wikipedia.org/wiki/四氧化二碘 "wikilink")    | 12399-08-5 |
 | I<sub>2</sub>O<sub>5</sub>                              | [五氧化二碘](../Page/五氧化二碘.md "wikilink")                       | 12029-98-0 |
-| InAs                                                    | [砷化铟](https://zh.wikipedia.org/wiki/砷化铟 "wikilink")        | 1303-11-3  |
+| InAs                                                    | [砷化铟](../Page/砷化铟.md "wikilink")                           | 1303-11-3  |
 | InBr                                                    | [一溴化铟](https://zh.wikipedia.org/wiki/一溴化铟 "wikilink")      | 14280-53-6 |
 | InBr<sub>2</sub>                                        | [二溴化铟](https://zh.wikipedia.org/wiki/二溴化铟 "wikilink")      | 21264-43-7 |
 | InBr<sub>3</sub>                                        | [三溴化铟](https://zh.wikipedia.org/wiki/三溴化铟 "wikilink")（溴化铟） | 13465-09-3 |
@@ -1487,83 +1487,83 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 
 ## K
 
-| 化学式                                                  | 名称                                                                                                        | CAS号       |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------- |
-| KAlF<sub>4</sub>                                     | [四氟铝酸钾](https://zh.wikipedia.org/wiki/四氟铝酸钾 "wikilink")                                                   | 14484-69-6 |
-| KAlO<sub>2</sub>                                     | [铝酸钾](https://zh.wikipedia.org/wiki/铝酸钾 "wikilink")、[偏铝酸钾](https://zh.wikipedia.org/wiki/偏铝酸钾 "wikilink") | 12003-63-3 |
-| KBF<sub>4</sub>                                      | [氟硼酸钾](https://zh.wikipedia.org/wiki/氟硼酸钾 "wikilink")                                                     | 14075-53-7 |
-| KBr                                                  | [溴化钾](../Page/溴化钾.md "wikilink")                                                                          | 7758-02-3  |
-| KBrO<sub>3</sub>                                     | [溴酸钾](../Page/溴酸钾.md "wikilink")                                                                          | 7758-01-2  |
-| KCHF<sub>3</sub>O<sub>3</sub>S                       | [三氟甲磺酸钾](https://zh.wikipedia.org/wiki/三氟甲磺酸钾 "wikilink")                                                 | 2926-27-4  |
-| KCHO<sub>2</sub>                                     | [甲酸钾](https://zh.wikipedia.org/wiki/甲酸钾 "wikilink")                                                       | 590-29-4   |
-| KCH<sub>3</sub>O                                     | [甲醇钾](https://zh.wikipedia.org/wiki/甲醇钾 "wikilink")                                                       | 865-33-8   |
-| KCN                                                  | [氰化钾](../Page/氰化钾.md "wikilink")                                                                          | 151-50-8   |
-| KCNO                                                 | [氰酸钾](../Page/氰酸钾.md "wikilink")                                                                          | 590-28-3   |
-| KC<sub>2</sub>HO<sub>4</sub>                         | [草酸氢钾](https://zh.wikipedia.org/wiki/草酸氢钾 "wikilink")                                                     | 127-95-7   |
-| KC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>             | [乙酸钾](../Page/乙酸钾.md "wikilink")                                                                          | 127-08-2   |
-| KC<sub>2</sub>H<sub>5</sub>O                         | [乙醇钾](https://zh.wikipedia.org/wiki/乙醇钾 "wikilink")                                                       | 917-58-8   |
-| KC<sub>3</sub>H<sub>5</sub>O<sub>2</sub>             | [丙酸钾](https://zh.wikipedia.org/wiki/丙酸钾 "wikilink")                                                       | 327-62-8   |
-| KC<sub>3</sub>H<sub>5</sub>S<sub>2</sub>O            | [黄原酸钾](https://zh.wikipedia.org/wiki/黄原酸钾 "wikilink")                                                     | 140-89-6   |
-| KC<sub>3</sub>H<sub>7</sub>NS<sub>2</sub>            | [二甲基二硫代氨基甲酸钾](https://zh.wikipedia.org/wiki/二甲基二硫代氨基甲酸钾 "wikilink")                                       | 128-03-0   |
-| KC<sub>4</sub>H<sub>5</sub>O<sub>6</sub>             | [酒石酸氢钾](../Page/酒石酸氢钾.md "wikilink")                                                                      | 868-14-4   |
-| KC<sub>7</sub>H<sub>5</sub>O<sub>2</sub>             | [苯甲酸钾](https://zh.wikipedia.org/wiki/苯甲酸钾 "wikilink")                                                     | 582-25-2   |
-| KCl                                                  | [氯化钾](../Page/氯化钾.md "wikilink")                                                                          | 7447-40-7  |
-| KClO<sub>3</sub>                                     | [氯酸钾](../Page/氯酸钾.md "wikilink")                                                                          | 3811-04-9  |
-| KClO<sub>4</sub>                                     | [高氯酸钾](../Page/高氯酸钾.md "wikilink")                                                                        | 7778-74-7  |
-| K<sub>2</sub>CuCl<sub>4</sub>                        | [四氯合铜酸钾](https://zh.wikipedia.org/wiki/四氯合铜酸钾 "wikilink")                                                 | 13877-24-2 |
-| KF                                                   | [氟化钾](../Page/氟化钾.md "wikilink")                                                                          | 7789-23-3  |
-| KH                                                   | [氢化钾](../Page/氢化钾.md "wikilink")                                                                          | 7693-26-7  |
-| KHCO<sub>3</sub>                                     | [碳酸氢钾](../Page/碳酸氢钾.md "wikilink")                                                                        | 298-14-6   |
-| K(HF<sub>2</sub>)                                    | [氟化氢钾](../Page/氟化氢钾.md "wikilink")                                                                        | 7789-29-9  |
-| KHSO<sub>4</sub>                                     | [硫酸氢钾](../Page/硫酸氢钾.md "wikilink")                                                                        | 7646-93-7  |
-| KH<sub>2</sub>PO<sub>4</sub>                         | [亚磷酸氢钾](https://zh.wikipedia.org/wiki/亚磷酸氢钾 "wikilink")                                                   | 7778-77-0  |
-| KH<sub>4</sub>B                                      | [硼氢化钾](../Page/硼氢化钾.md "wikilink")                                                                        | 13762-51-1 |
-| KI                                                   | [碘化钾](../Page/碘化钾.md "wikilink")                                                                          | 7681-11-0  |
-| KIO<sub>3</sub>                                      | [碘酸钾](../Page/碘酸钾.md "wikilink")                                                                          | 7758-05-6  |
-| KIO<sub>4</sub>                                      | [高碘酸鉀](../Page/高碘酸鉀.md "wikilink")                                                                        | 7790-21-8  |
-| KMnO<sub>4</sub>                                     | [高锰酸钾](../Page/高锰酸钾.md "wikilink")                                                                        | 7722-64-7  |
-| KNO<sub>2</sub>                                      | [亚硝酸钾](../Page/亚硝酸钾.md "wikilink")                                                                        | 7758-09-0  |
-| KNO<sub>3</sub>                                      | [硝酸钾](../Page/硝酸钾.md "wikilink")                                                                          | 7757-79-1  |
-| KN<sub>3</sub>                                       | [疊氮化鉀](../Page/疊氮化鉀.md "wikilink")                                                                        | 20762-60-1 |
-| KNbO<sub>3</sub>                                     | [铌酸钾](https://zh.wikipedia.org/wiki/铌酸钾 "wikilink")                                                       | 12030-85-2 |
-| KOH                                                  | [氢氧化钾](../Page/氢氧化钾.md "wikilink")                                                                        | 1310-58-3  |
-| KO<sub>2</sub>                                       | [超氧化钾](../Page/超氧化钾.md "wikilink")                                                                        | 12030-88-5 |
-| KPF<sub>6</sub>                                      | [六氟磷酸钾](https://zh.wikipedia.org/wiki/六氟磷酸钾 "wikilink")                                                   | 17084-13-8 |
-| KPO<sub>3</sub>                                      | [偏磷酸钾](https://zh.wikipedia.org/wiki/偏磷酸钾 "wikilink")                                                     | 7790-53-6  |
-| KReO<sub>4</sub>                                     | [高铼酸钾](https://zh.wikipedia.org/wiki/高铼酸钾 "wikilink")                                                     | 10466-65-6 |
-| KRuO<sub>4</sub>                                     | [高钌酸钾](https://zh.wikipedia.org/wiki/高钌酸钾 "wikilink")                                                     | 10378-50-4 |
-| KSCN                                                 | [硫氰酸钾](../Page/硫氰酸钾.md "wikilink")                                                                        | 333-20-0   |
-| KVO<sub>3</sub>                                      | [偏钒酸钾](https://zh.wikipedia.org/wiki/偏钒酸钾 "wikilink")                                                     | 13769-43-2 |
-| K<sub>2</sub>CO<sub>3</sub>                          | [碳酸钾](../Page/碳酸钾.md "wikilink")                                                                          | 584-08-7   |
-| K<sub>2</sub>C<sub>2</sub>O<sub>4</sub>              | [草酸钾](https://zh.wikipedia.org/wiki/草酸钾 "wikilink")                                                       | 583-52-8   |
-| K<sub>2</sub>C<sub>4</sub>H<sub>6</sub>O<sub>6</sub> | [酒石酸钾](https://zh.wikipedia.org/wiki/酒石酸钾 "wikilink")                                                     | 921-53-9   |
-| K<sub>2</sub>C<sub>6</sub>H<sub>8</sub>O<sub>4</sub> | [己二酸钾](https://zh.wikipedia.org/wiki/己二酸钾 "wikilink")                                                     | 19147-16-1 |
-| K<sub>2</sub>CrO<sub>4</sub>                         | [铬酸钾](../Page/铬酸钾.md "wikilink")                                                                          | 7789-00-6  |
-| K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>             | [重铬酸钾](../Page/重铬酸钾.md "wikilink")                                                                        | 7778-50-9  |
-| K<sub>2</sub>FeO<sub>4</sub>                         | [高铁酸钾](../Page/高铁酸钾.md "wikilink")                                                                        | 39469-86-8 |
-| K<sub>2</sub>S<sub>2</sub>O<sub>3</sub>              | [硫代硫酸钾](https://zh.wikipedia.org/wiki/硫代硫酸钾 "wikilink")                                                   | 10294-66-3 |
-| K<sub>2</sub>O                                       | [氧化鉀](../Page/氧化鉀.md "wikilink")                                                                          | 12136-45-7 |
-| K<sub>2</sub>O<sub>2</sub>                           | [过氧化钾](../Page/过氧化钾.md "wikilink")                                                                        | 17014-71-0 |
-| K<sub>2</sub>PdCl<sub>4</sub>                        | [四氯钯酸钾](https://zh.wikipedia.org/wiki/四氯钯酸钾 "wikilink")                                                   | 10025-98-6 |
-| K<sub>2</sub>RuCl<sub>6</sub>                        | [六氯钌酸钾](https://zh.wikipedia.org/wiki/六氯钌酸钾 "wikilink")                                                   | 18746-63-9 |
-| K<sub>2</sub>S                                       | [硫化钾](../Page/硫化钾.md "wikilink")                                                                          | 1312-73-8  |
-| K<sub>2</sub>SO<sub>4</sub>                          | [硫酸钾](../Page/硫酸钾.md "wikilink")                                                                          | 7778-80-5  |
-| K<sub>2</sub>S<sub>2</sub>O<sub>5</sub>              | [焦亚硫酸钾](https://zh.wikipedia.org/wiki/焦亚硫酸钾 "wikilink")                                                   | 16731-55-8 |
-| K<sub>2</sub>S<sub>2</sub>O<sub>7</sub>              | [过一硫酸钾](https://zh.wikipedia.org/wiki/过一硫酸钾 "wikilink")                                                   | 7790-62-7  |
-| K<sub>2</sub>S<sub>2</sub>O<sub>8</sub>              | [过硫酸钾](../Page/过硫酸钾.md "wikilink")（[过二硫酸钾](https://zh.wikipedia.org/wiki/过二硫酸钾 "wikilink")）               | 7727-21-1  |
-| K<sub>2</sub>Se                                      | [硒化钾](https://zh.wikipedia.org/wiki/硒化钾 "wikilink")                                                       | 1312-74-9  |
-| K<sub>2</sub>SiF<sub>6</sub>                         | [六氟化硅钾](https://zh.wikipedia.org/wiki/六氟化硅钾 "wikilink")                                                   | 16871-90-2 |
-| K<sub>2</sub>SiO<sub>4</sub>                         | [硅酸钾](../Page/硅酸钾.md "wikilink")                                                                          | 10006-28-7 |
-| K<sub>2</sub>Te                                      | [碲化钾](https://zh.wikipedia.org/wiki/碲化钾 "wikilink")                                                       | 12142-40-4 |
-| K<sub>2</sub>TeO<sub>3</sub>                         | [碲酸钾](https://zh.wikipedia.org/wiki/碲酸钾 "wikilink")                                                       | 15571-91-2 |
-| K<sub>2</sub>TiF<sub>6</sub>                         | [六氟化钛钾](https://zh.wikipedia.org/wiki/六氟化钛钾 "wikilink")                                                   | 16919-27-0 |
-| K<sub>2</sub>ZrF<sub>6</sub>                         | [六氟化锆钾](https://zh.wikipedia.org/wiki/六氟化锆钾 "wikilink")                                                   | 16923-95-8 |
-| K<sub>3</sub>AlF<sub>6</sub>                         | [六氟化铝钾](https://zh.wikipedia.org/wiki/六氟化铝钾 "wikilink")                                                   | 13775-52-5 |
-| K<sub>3</sub>(Fe(CN)<sub>6</sub>)                    | [铁氰化钾](../Page/铁氰化钾.md "wikilink")                                                                        | 13746-66-2 |
-| K<sub>3</sub>PO<sub>4</sub>                          | [磷酸钾](https://zh.wikipedia.org/wiki/磷酸钾 "wikilink")                                                       | 7778-53-2  |
-| K<sub>4</sub>P<sub>2</sub>O<sub>7</sub>              | [焦磷酸钾](https://zh.wikipedia.org/wiki/焦磷酸钾 "wikilink")                                                     | 7320-34-5  |
-| KrF<sub>2</sub>                                      | [二氟化氪](../Page/二氟化氪.md "wikilink")                                                                        | 13773-81-4 |
-|                                                      |                                                                                                           |            |
+| 化学式                                                  | 名称                                                                                          | CAS号       |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------- |
+| KAlF<sub>4</sub>                                     | [四氟铝酸钾](https://zh.wikipedia.org/wiki/四氟铝酸钾 "wikilink")                                     | 14484-69-6 |
+| KAlO<sub>2</sub>                                     | [铝酸钾](../Page/铝酸钾.md "wikilink")、[偏铝酸钾](https://zh.wikipedia.org/wiki/偏铝酸钾 "wikilink")      | 12003-63-3 |
+| KBF<sub>4</sub>                                      | [氟硼酸钾](https://zh.wikipedia.org/wiki/氟硼酸钾 "wikilink")                                       | 14075-53-7 |
+| KBr                                                  | [溴化钾](../Page/溴化钾.md "wikilink")                                                            | 7758-02-3  |
+| KBrO<sub>3</sub>                                     | [溴酸钾](../Page/溴酸钾.md "wikilink")                                                            | 7758-01-2  |
+| KCHF<sub>3</sub>O<sub>3</sub>S                       | [三氟甲磺酸钾](https://zh.wikipedia.org/wiki/三氟甲磺酸钾 "wikilink")                                   | 2926-27-4  |
+| KCHO<sub>2</sub>                                     | [甲酸钾](https://zh.wikipedia.org/wiki/甲酸钾 "wikilink")                                         | 590-29-4   |
+| KCH<sub>3</sub>O                                     | [甲醇钾](https://zh.wikipedia.org/wiki/甲醇钾 "wikilink")                                         | 865-33-8   |
+| KCN                                                  | [氰化钾](../Page/氰化钾.md "wikilink")                                                            | 151-50-8   |
+| KCNO                                                 | [氰酸钾](../Page/氰酸钾.md "wikilink")                                                            | 590-28-3   |
+| KC<sub>2</sub>HO<sub>4</sub>                         | [草酸氢钾](https://zh.wikipedia.org/wiki/草酸氢钾 "wikilink")                                       | 127-95-7   |
+| KC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>             | [乙酸钾](../Page/乙酸钾.md "wikilink")                                                            | 127-08-2   |
+| KC<sub>2</sub>H<sub>5</sub>O                         | [乙醇钾](https://zh.wikipedia.org/wiki/乙醇钾 "wikilink")                                         | 917-58-8   |
+| KC<sub>3</sub>H<sub>5</sub>O<sub>2</sub>             | [丙酸钾](https://zh.wikipedia.org/wiki/丙酸钾 "wikilink")                                         | 327-62-8   |
+| KC<sub>3</sub>H<sub>5</sub>S<sub>2</sub>O            | [黄原酸钾](https://zh.wikipedia.org/wiki/黄原酸钾 "wikilink")                                       | 140-89-6   |
+| KC<sub>3</sub>H<sub>7</sub>NS<sub>2</sub>            | [二甲基二硫代氨基甲酸钾](https://zh.wikipedia.org/wiki/二甲基二硫代氨基甲酸钾 "wikilink")                         | 128-03-0   |
+| KC<sub>4</sub>H<sub>5</sub>O<sub>6</sub>             | [酒石酸氢钾](../Page/酒石酸氢钾.md "wikilink")                                                        | 868-14-4   |
+| KC<sub>7</sub>H<sub>5</sub>O<sub>2</sub>             | [苯甲酸钾](https://zh.wikipedia.org/wiki/苯甲酸钾 "wikilink")                                       | 582-25-2   |
+| KCl                                                  | [氯化钾](../Page/氯化钾.md "wikilink")                                                            | 7447-40-7  |
+| KClO<sub>3</sub>                                     | [氯酸钾](../Page/氯酸钾.md "wikilink")                                                            | 3811-04-9  |
+| KClO<sub>4</sub>                                     | [高氯酸钾](../Page/高氯酸钾.md "wikilink")                                                          | 7778-74-7  |
+| K<sub>2</sub>CuCl<sub>4</sub>                        | [四氯合铜酸钾](https://zh.wikipedia.org/wiki/四氯合铜酸钾 "wikilink")                                   | 13877-24-2 |
+| KF                                                   | [氟化钾](../Page/氟化钾.md "wikilink")                                                            | 7789-23-3  |
+| KH                                                   | [氢化钾](../Page/氢化钾.md "wikilink")                                                            | 7693-26-7  |
+| KHCO<sub>3</sub>                                     | [碳酸氢钾](../Page/碳酸氢钾.md "wikilink")                                                          | 298-14-6   |
+| K(HF<sub>2</sub>)                                    | [氟化氢钾](../Page/氟化氢钾.md "wikilink")                                                          | 7789-29-9  |
+| KHSO<sub>4</sub>                                     | [硫酸氢钾](../Page/硫酸氢钾.md "wikilink")                                                          | 7646-93-7  |
+| KH<sub>2</sub>PO<sub>4</sub>                         | [亚磷酸氢钾](https://zh.wikipedia.org/wiki/亚磷酸氢钾 "wikilink")                                     | 7778-77-0  |
+| KH<sub>4</sub>B                                      | [硼氢化钾](../Page/硼氢化钾.md "wikilink")                                                          | 13762-51-1 |
+| KI                                                   | [碘化钾](../Page/碘化钾.md "wikilink")                                                            | 7681-11-0  |
+| KIO<sub>3</sub>                                      | [碘酸钾](../Page/碘酸钾.md "wikilink")                                                            | 7758-05-6  |
+| KIO<sub>4</sub>                                      | [高碘酸鉀](../Page/高碘酸鉀.md "wikilink")                                                          | 7790-21-8  |
+| KMnO<sub>4</sub>                                     | [高锰酸钾](../Page/高锰酸钾.md "wikilink")                                                          | 7722-64-7  |
+| KNO<sub>2</sub>                                      | [亚硝酸钾](../Page/亚硝酸钾.md "wikilink")                                                          | 7758-09-0  |
+| KNO<sub>3</sub>                                      | [硝酸钾](../Page/硝酸钾.md "wikilink")                                                            | 7757-79-1  |
+| KN<sub>3</sub>                                       | [疊氮化鉀](../Page/疊氮化鉀.md "wikilink")                                                          | 20762-60-1 |
+| KNbO<sub>3</sub>                                     | [铌酸钾](https://zh.wikipedia.org/wiki/铌酸钾 "wikilink")                                         | 12030-85-2 |
+| KOH                                                  | [氢氧化钾](../Page/氢氧化钾.md "wikilink")                                                          | 1310-58-3  |
+| KO<sub>2</sub>                                       | [超氧化钾](../Page/超氧化钾.md "wikilink")                                                          | 12030-88-5 |
+| KPF<sub>6</sub>                                      | [六氟磷酸钾](../Page/六氟磷酸钾.md "wikilink")                                                        | 17084-13-8 |
+| KPO<sub>3</sub>                                      | [偏磷酸钾](https://zh.wikipedia.org/wiki/偏磷酸钾 "wikilink")                                       | 7790-53-6  |
+| KReO<sub>4</sub>                                     | [高铼酸钾](https://zh.wikipedia.org/wiki/高铼酸钾 "wikilink")                                       | 10466-65-6 |
+| KRuO<sub>4</sub>                                     | [高钌酸钾](https://zh.wikipedia.org/wiki/高钌酸钾 "wikilink")                                       | 10378-50-4 |
+| KSCN                                                 | [硫氰酸钾](../Page/硫氰酸钾.md "wikilink")                                                          | 333-20-0   |
+| KVO<sub>3</sub>                                      | [偏钒酸钾](https://zh.wikipedia.org/wiki/偏钒酸钾 "wikilink")                                       | 13769-43-2 |
+| K<sub>2</sub>CO<sub>3</sub>                          | [碳酸钾](../Page/碳酸钾.md "wikilink")                                                            | 584-08-7   |
+| K<sub>2</sub>C<sub>2</sub>O<sub>4</sub>              | [草酸钾](https://zh.wikipedia.org/wiki/草酸钾 "wikilink")                                         | 583-52-8   |
+| K<sub>2</sub>C<sub>4</sub>H<sub>6</sub>O<sub>6</sub> | [酒石酸钾](https://zh.wikipedia.org/wiki/酒石酸钾 "wikilink")                                       | 921-53-9   |
+| K<sub>2</sub>C<sub>6</sub>H<sub>8</sub>O<sub>4</sub> | [己二酸钾](https://zh.wikipedia.org/wiki/己二酸钾 "wikilink")                                       | 19147-16-1 |
+| K<sub>2</sub>CrO<sub>4</sub>                         | [铬酸钾](../Page/铬酸钾.md "wikilink")                                                            | 7789-00-6  |
+| K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>             | [重铬酸钾](../Page/重铬酸钾.md "wikilink")                                                          | 7778-50-9  |
+| K<sub>2</sub>FeO<sub>4</sub>                         | [高铁酸钾](../Page/高铁酸钾.md "wikilink")                                                          | 39469-86-8 |
+| K<sub>2</sub>S<sub>2</sub>O<sub>3</sub>              | [硫代硫酸钾](https://zh.wikipedia.org/wiki/硫代硫酸钾 "wikilink")                                     | 10294-66-3 |
+| K<sub>2</sub>O                                       | [氧化鉀](../Page/氧化鉀.md "wikilink")                                                            | 12136-45-7 |
+| K<sub>2</sub>O<sub>2</sub>                           | [过氧化钾](../Page/过氧化钾.md "wikilink")                                                          | 17014-71-0 |
+| K<sub>2</sub>PdCl<sub>4</sub>                        | [四氯钯酸钾](https://zh.wikipedia.org/wiki/四氯钯酸钾 "wikilink")                                     | 10025-98-6 |
+| K<sub>2</sub>RuCl<sub>6</sub>                        | [六氯钌酸钾](https://zh.wikipedia.org/wiki/六氯钌酸钾 "wikilink")                                     | 18746-63-9 |
+| K<sub>2</sub>S                                       | [硫化钾](../Page/硫化钾.md "wikilink")                                                            | 1312-73-8  |
+| K<sub>2</sub>SO<sub>4</sub>                          | [硫酸钾](../Page/硫酸钾.md "wikilink")                                                            | 7778-80-5  |
+| K<sub>2</sub>S<sub>2</sub>O<sub>5</sub>              | [焦亚硫酸钾](https://zh.wikipedia.org/wiki/焦亚硫酸钾 "wikilink")                                     | 16731-55-8 |
+| K<sub>2</sub>S<sub>2</sub>O<sub>7</sub>              | [过一硫酸钾](https://zh.wikipedia.org/wiki/过一硫酸钾 "wikilink")                                     | 7790-62-7  |
+| K<sub>2</sub>S<sub>2</sub>O<sub>8</sub>              | [过硫酸钾](../Page/过硫酸钾.md "wikilink")（[过二硫酸钾](https://zh.wikipedia.org/wiki/过二硫酸钾 "wikilink")） | 7727-21-1  |
+| K<sub>2</sub>Se                                      | [硒化钾](https://zh.wikipedia.org/wiki/硒化钾 "wikilink")                                         | 1312-74-9  |
+| K<sub>2</sub>SiF<sub>6</sub>                         | [六氟化硅钾](https://zh.wikipedia.org/wiki/六氟化硅钾 "wikilink")                                     | 16871-90-2 |
+| K<sub>2</sub>SiO<sub>4</sub>                         | [硅酸钾](../Page/硅酸钾.md "wikilink")                                                            | 10006-28-7 |
+| K<sub>2</sub>Te                                      | [碲化钾](https://zh.wikipedia.org/wiki/碲化钾 "wikilink")                                         | 12142-40-4 |
+| K<sub>2</sub>TeO<sub>3</sub>                         | [碲酸钾](https://zh.wikipedia.org/wiki/碲酸钾 "wikilink")                                         | 15571-91-2 |
+| K<sub>2</sub>TiF<sub>6</sub>                         | [六氟化钛钾](https://zh.wikipedia.org/wiki/六氟化钛钾 "wikilink")                                     | 16919-27-0 |
+| K<sub>2</sub>ZrF<sub>6</sub>                         | [六氟化锆钾](https://zh.wikipedia.org/wiki/六氟化锆钾 "wikilink")                                     | 16923-95-8 |
+| K<sub>3</sub>AlF<sub>6</sub>                         | [六氟化铝钾](https://zh.wikipedia.org/wiki/六氟化铝钾 "wikilink")                                     | 13775-52-5 |
+| K<sub>3</sub>(Fe(CN)<sub>6</sub>)                    | [铁氰化钾](../Page/铁氰化钾.md "wikilink")                                                          | 13746-66-2 |
+| K<sub>3</sub>PO<sub>4</sub>                          | [磷酸钾](https://zh.wikipedia.org/wiki/磷酸钾 "wikilink")                                         | 7778-53-2  |
+| K<sub>4</sub>P<sub>2</sub>O<sub>7</sub>              | [焦磷酸钾](https://zh.wikipedia.org/wiki/焦磷酸钾 "wikilink")                                       | 7320-34-5  |
+| KrF<sub>2</sub>                                      | [二氟化氪](../Page/二氟化氪.md "wikilink")                                                          | 13773-81-4 |
+|                                                      |                                                                                             |            |
 
 ## L
 
@@ -1579,7 +1579,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | LaCl<sub>3</sub>·7H<sub>2</sub>O                      | [氯化镧六水合物](../Page/氯化镧.md "wikilink")                    | 10025-84-0 |
 | LaF<sub>3</sub>                                       | [氟化镧](https://zh.wikipedia.org/wiki/氟化镧 "wikilink")     | 13709-38-1 |
 | LaH<sub>3</sub>                                       | [氢化镧](https://zh.wikipedia.org/wiki/氢化镧 "wikilink")     | 13864-01-2 |
-| LaI<sub>3</sub>                                       | [碘化镧](https://zh.wikipedia.org/wiki/碘化镧 "wikilink")     | 13813-22-4 |
+| LaI<sub>3</sub>                                       | [碘化镧](../Page/碘化镧.md "wikilink")                        | 13813-22-4 |
 | LaN                                                   | [氮化镧](https://zh.wikipedia.org/wiki/氮化镧 "wikilink")     | 25764-10-7 |
 | LaNbO<sub>4</sub>                                     | [铌酸镧](https://zh.wikipedia.org/wiki/铌酸镧 "wikilink")     | 12031-17-3 |
 | LaSi<sub>2</sub>                                      | [二硅化镧](https://zh.wikipedia.org/wiki/二硅化镧 "wikilink")   | 12056-90-5 |
@@ -1620,7 +1620,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | Li<sub>2</sub>O                                       | [氧化锂](../Page/氧化锂.md "wikilink")                        | 12057-24-8 |
 | Li<sub>2</sub>O<sub>2</sub>                           | [过氧化锂](../Page/过氧化锂.md "wikilink")                      | 12031-80-0 |
 | Li<sub>2</sub>S                                       | [硫化锂](../Page/硫化锂.md "wikilink")                        | 12136-58-2 |
-| Li<sub>2</sub>SO<sub>4</sub>                          | [硫酸锂](https://zh.wikipedia.org/wiki/硫酸锂 "wikilink")     | 10377-48-7 |
+| Li<sub>2</sub>SO<sub>4</sub>                          | [硫酸锂](../Page/硫酸锂.md "wikilink")                        | 10377-48-7 |
 | Li<sub>2</sub>Se                                      | [硒化锂](https://zh.wikipedia.org/wiki/硒化锂 "wikilink")     | 12136-60-6 |
 | Li<sub>2</sub>SiO<sub>3</sub>                         | [偏硅酸锂](https://zh.wikipedia.org/wiki/偏硅酸锂 "wikilink")   | 10102-24-6 |
 | Li<sub>2</sub>Te                                      | [碲化锂](https://zh.wikipedia.org/wiki/碲化锂 "wikilink")     | 12136-59-3 |
@@ -1639,7 +1639,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | LuF<sub>3</sub>                                       | [氟化镥](https://zh.wikipedia.org/wiki/氟化镥 "wikilink")     | 13760-81-1 |
 | LuI<sub>3</sub>                                       | [碘化镥](https://zh.wikipedia.org/wiki/碘化镥 "wikilink")     | 13813-45-1 |
 | LuN                                                   | [氮化镥](https://zh.wikipedia.org/wiki/氮化镥 "wikilink")     | 12125-25-6 |
-| Lu(NO<sub>3</sub>)<sub>3</sub>                        | [硝酸镥](https://zh.wikipedia.org/wiki/硝酸镥 "wikilink")     | 36549-50-5 |
+| Lu(NO<sub>3</sub>)<sub>3</sub>                        | [硝酸镥](../Page/硝酸镥.md "wikilink")                        | 36549-50-5 |
 | Lu<sub>2</sub>O<sub>3</sub>                           | [氧化镥](https://zh.wikipedia.org/wiki/氧化镥 "wikilink")     | 12032-20-1 |
 | Lu<sub>2</sub>S<sub>3</sub>                           | [硫化镥](https://zh.wikipedia.org/wiki/硫化镥 "wikilink")     | 12163-20-1 |
 | Lu<sub>2</sub>Te<sub>3</sub>                          | [碲化镥](https://zh.wikipedia.org/wiki/碲化镥 "wikilink")     | 12163-22-3 |
@@ -1647,87 +1647,87 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 
 ## M
 
-| 化学式                                                                               | 名称                                                          | CAS号       |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
-| MgBr<sub>2</sub>                                                                  | [溴化镁](../Page/溴化镁.md "wikilink")                            | 7789-48-2  |
-| MgBr<sub>2</sub>·6H<sub>2</sub>O                                                  | [溴化镁六水合物](../Page/溴化镁.md "wikilink")                        | 13446-53-2 |
-| MgCO<sub>3</sub>                                                                  | [碳酸镁](https://zh.wikipedia.org/wiki/碳酸镁 "wikilink")         | 546-93-0   |
-| Mg(C<sub>2</sub>H<sub>2</sub>O<sub>2</sub>)<sub>2</sub>H<sub>8</sub>O<sub>4</sub> | [琥珀酸镁四水合物](https://zh.wikipedia.org/wiki/琥珀酸镁 "wikilink")   | 556-32-1   |
-| MgC<sub>3</sub>H<sub>9</sub>O<sub>6</sub>P                                        | 甘油磷酸镁                                                       | 927-20-8   |
-| MgC<sub>36</sub>H<sub>70</sub>O<sub>4</sub>                                       | [硬脂酸镁](../Page/硬脂酸镁.md "wikilink")                          | 557-04-0   |
-| Mg(ClO<sub>4</sub>)<sub>2</sub>                                                   | [高氯酸镁](../Page/高氯酸镁.md "wikilink")                          | 10034-81-8 |
-| MgCl<sub>2</sub>                                                                  | [氯化镁](../Page/氯化镁.md "wikilink")                            | 7786-30-3  |
-| MgF<sub>2</sub>                                                                   | [氟化镁](../Page/氟化镁.md "wikilink")                            | 7783-40-6  |
-| MgH<sub>2</sub>                                                                   | [氫化鎂](../Page/氫化鎂.md "wikilink")                            | 7693-27-8  |
-| MgI<sub>2</sub>                                                                   | [碘化镁](../Page/碘化镁.md "wikilink")                            | 10377-58-9 |
-| Mg(NO<sub>3</sub>)<sub>2</sub>                                                    | [硝酸鎂](../Page/硝酸鎂.md "wikilink")                            | 10377-60-3 |
-| MgO                                                                               | [氧化镁](../Page/氧化镁.md "wikilink")                            | 1309-48-4  |
-| Mg(OH)<sub>2</sub>                                                                | [氢氧化镁](../Page/氢氧化镁.md "wikilink")                          | 1309-42-8  |
-| MgO<sub>2</sub>                                                                   | [过氧化镁](https://zh.wikipedia.org/wiki/过氧化镁 "wikilink")       | 1335-26-8  |
-| MgS                                                                               | [硫化镁](../Page/硫化镁.md "wikilink")                            | 12032-36-9 |
-| MgSO<sub>4</sub>                                                                  | [硫酸镁](../Page/硫酸镁.md "wikilink")                            | 7487-88-9  |
-| MgSe                                                                              | [硒化镁](https://zh.wikipedia.org/wiki/硒化镁 "wikilink")         | 1313-04-8  |
-| MgSiO<sub>3</sub>                                                                 | [硅酸镁](https://zh.wikipedia.org/wiki/硅酸镁 "wikilink")         | 14654-06-9 |
-| Mg(TcO<sub>4</sub>)<sub>2</sub>                                                   | [高锝酸镁](https://zh.wikipedia.org/wiki/高锝酸镁 "wikilink")       | 71683-38-0 |
-| MgTe                                                                              | [碲化镁](https://zh.wikipedia.org/wiki/碲化镁 "wikilink")         | 12032-44-9 |
-| MgTiO<sub>3</sub>                                                                 | [钛酸镁](https://zh.wikipedia.org/wiki/钛酸镁 "wikilink")         | 12032-30-3 |
-| Mg<sub>2</sub>Si                                                                  | [硅化镁](https://zh.wikipedia.org/wiki/硅化镁 "wikilink")         | 22831-39-6 |
-| Mg<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>                                       | [砷酸镁](https://zh.wikipedia.org/wiki/砷酸镁 "wikilink")         | 10103-50-1 |
-| Mg<sub>3</sub>N<sub>2</sub>                                                       | [氮化鎂](../Page/氮化鎂.md "wikilink")                            | 12057-71-5 |
-| Mg<sub>3</sub>Sb<sub>2</sub>                                                      | [锑化镁](https://zh.wikipedia.org/wiki/锑化镁 "wikilink")         | 12057-75-9 |
-| MnBr<sub>2</sub>                                                                  | [溴化锰](../Page/溴化锰.md "wikilink")                            | 13446-03-2 |
-| Mn(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>                           | [乙酸锰(II)](../Page/乙酸锰\(II\).md "wikilink")                  | 638-38-0   |
-| MnCO<sub>3</sub>                                                                  | [碳酸锰](../Page/碳酸锰.md "wikilink")                            | 598-62-9   |
-| MnCl<sub>2</sub>                                                                  | [氯化锰](../Page/氯化锰.md "wikilink")                            | 7773-01-5  |
-| MnCl<sub>2</sub>·4H<sub>2</sub>O                                                  | [二氯化锰四水合物](https://zh.wikipedia.org/wiki/二氯化锰 "wikilink")   | 13446-34-9 |
-| MnCl<sub>3</sub>                                                                  | [三氯化锰](https://zh.wikipedia.org/wiki/三氯化锰 "wikilink")       | 14690-66-5 |
-| MnF<sub>2</sub>                                                                   | [二氟化锰](https://zh.wikipedia.org/wiki/二氟化锰 "wikilink")       | 7782-64-1  |
-| MnF<sub>3</sub>                                                                   | [三氟化錳](../Page/三氟化錳.md "wikilink")                          | 7783-53-1  |
-| MnF<sub>4</sub>                                                                   | [四氟化錳](../Page/四氟化錳.md "wikilink")                          | 15195-58-1 |
-| MnI<sub>2</sub>                                                                   | [溴化锰](../Page/溴化锰.md "wikilink")                            | 7790-33-2  |
-| MnI<sub>2</sub>·4H<sub>2</sub>O                                                   | [碘化锰四水合物](https://zh.wikipedia.org/wiki/碘化锰 "wikilink")     | 98716-23-5 |
-| Mn(NO<sub>3</sub>)<sub>2</sub>                                                    | [硝酸锰](../Page/硝酸锰.md "wikilink")                            | 10377-66-9 |
-| MnO                                                                               | [一氧化锰](../Page/一氧化锰.md "wikilink")                          | 1344-43-0  |
-| MnO<sub>2</sub>                                                                   | [二氧化锰](../Page/二氧化锰.md "wikilink")                          | 1313-13-9  |
-| MnS                                                                               | [硫化锰](../Page/硫化锰.md "wikilink")                            | 18820-29-6 |
-| MnSO<sub>4</sub>                                                                  | [硫酸锰](../Page/硫酸锰.md "wikilink")                            | 10034-96-5 |
-| MnSb                                                                              | [一锑化锰](https://zh.wikipedia.org/wiki/一锑化锰 "wikilink")       | 12032-82-5 |
-| MnSe                                                                              | [硒化锰](https://zh.wikipedia.org/wiki/硒化锰 "wikilink")         | 1313-22-0  |
-| MnSe<sub>2</sub>                                                                  | [二硒化锰](https://zh.wikipedia.org/wiki/二硒化锰 "wikilink")、二硒化亚锰 | 12299-98-8 |
-| MnTe                                                                              | [碲化锰](https://zh.wikipedia.org/wiki/碲化锰 "wikilink")         | 12032-88-1 |
-| MnTe<sub>2</sub>                                                                  | [二碲化锰](https://zh.wikipedia.org/wiki/二碲化锰 "wikilink")       | 12032-89-2 |
-| Mn<sub>2</sub>O<sub>3</sub>                                                       | [三氧化二锰](../Page/三氧化二锰.md "wikilink")                        | 1317-34-6  |
-| Mn<sub>2</sub>O<sub>7</sub>                                                       | [七氧化二锰](../Page/七氧化二锰.md "wikilink")                        | 12057-92-0 |
-| Mn<sub>3</sub>O<sub>4</sub>                                                       | [四氧化三锰](../Page/四氧化三锰.md "wikilink")                        | 1317-35-7  |
-| Mn<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>                                        | [磷酸锰](https://zh.wikipedia.org/wiki/磷酸锰 "wikilink")         | 14154-09-7 |
-| MoBr<sub>2</sub>                                                                  | [二溴化钼](https://zh.wikipedia.org/wiki/二溴化钼 "wikilink")       | 13446-56-5 |
-| MoBr<sub>3</sub>                                                                  | [三溴化钼](https://zh.wikipedia.org/wiki/三溴化钼 "wikilink")       | 13446-57-6 |
-| MoBr<sub>4</sub>                                                                  | [四溴化钼](https://zh.wikipedia.org/wiki/四溴化钼 "wikilink")       | 13520-59-7 |
-| MoC<sub>6</sub>O<sub>6</sub>                                                      | [六羰基鉬](https://zh.wikipedia.org/wiki/六羰基鉬 "wikilink")       | 13939-06-5 |
-| MoCl<sub>2</sub>                                                                  | [二氯化钼](https://zh.wikipedia.org/wiki/二氯化钼 "wikilink")       | 13478-17-6 |
-| MoCl<sub>3</sub>                                                                  | [三氯化钼](https://zh.wikipedia.org/wiki/三氯化钼 "wikilink")       | 13478-18-7 |
-| MoCl<sub>4</sub>                                                                  | [四氯化钼](https://zh.wikipedia.org/wiki/四氯化钼 "wikilink")       | 13478-18-7 |
-| MoCl<sub>5</sub>                                                                  | [五氯化钼](https://zh.wikipedia.org/wiki/五氯化钼 "wikilink")       | 10241-05-1 |
-| MoCl<sub>6</sub>                                                                  | [六氯化钼](https://zh.wikipedia.org/wiki/六氯化钼 "wikilink")       | 13706-19-9 |
-| MoF<sub>3</sub>                                                                   | [三氟化钼](https://zh.wikipedia.org/wiki/三氟化钼 "wikilink")       | 20193-58-2 |
-| MoF<sub>4</sub>                                                                   | [四氟化钼](https://zh.wikipedia.org/wiki/四氟化钼 "wikilink")       | 23412-45-5 |
-| MoF<sub>5</sub>                                                                   | [五氟化钼](https://zh.wikipedia.org/wiki/五氟化钼 "wikilink")       | 13819-84-6 |
-| MoF<sub>6</sub>                                                                   | [六氟化钼](https://zh.wikipedia.org/wiki/六氟化钼 "wikilink")       | 7783-77-9  |
-| MoI<sub>2</sub>                                                                   | [二碘化钼](https://zh.wikipedia.org/wiki/二碘化钼 "wikilink")       | 14055-74-4 |
-| MoI<sub>3</sub>                                                                   | [三碘化钼](https://zh.wikipedia.org/wiki/三碘化钼 "wikilink")       | 14055-75-5 |
-| MoI<sub>4</sub>                                                                   | [四碘化钼](https://zh.wikipedia.org/wiki/四碘化钼 "wikilink")       | 14055-76-6 |
-| MoN                                                                               | [氮化钼](https://zh.wikipedia.org/wiki/氮化钼 "wikilink")         | 12033-19-1 |
-| MoO                                                                               | [一氧化钼](https://zh.wikipedia.org/wiki/一氧化钼 "wikilink")       | 12058-07-0 |
-| MoO<sub>2</sub>                                                                   | [二氧化钼](https://zh.wikipedia.org/wiki/二氧化钼 "wikilink")       | 18868-43-4 |
-| MoO<sub>3</sub>                                                                   | [三氧化钼](../Page/三氧化钼.md "wikilink")                          | 1313-27-5  |
-| MoS<sub>2</sub>                                                                   | [二硫化钼](../Page/二硫化钼.md "wikilink")                          | 1317-33-5  |
-| MoSe<sub>2</sub>                                                                  | [硒化钼](https://zh.wikipedia.org/wiki/硒化钼 "wikilink")         | 12058-18-3 |
-| MoSi<sub>2</sub>                                                                  | [硅化钼](https://zh.wikipedia.org/wiki/硅化钼 "wikilink")         | 12136-78-6 |
-| MoTe<sub>2</sub>                                                                  | [碲化钼](https://zh.wikipedia.org/wiki/碲化钼 "wikilink")         | 12058-20-7 |
-| Mo<sub>2</sub>O<sub>3</sub>                                                       | [三氧化二钼](https://zh.wikipedia.org/wiki/三氧化二钼 "wikilink")     | 1313-29-7  |
-| Mo<sub>2</sub>O<sub>5</sub>                                                       | [五氧化二钼](https://zh.wikipedia.org/wiki/五氧化二钼 "wikilink")     | 12163-73-4 |
-| Mo<sub>2</sub>S<sub>3</sub>                                                       | [三硫化二钼](https://zh.wikipedia.org/wiki/三硫化二钼 "wikilink")     | 12033-33-9 |
-|                                                                                   |                                                             |            |
+| 化学式                                                                               | 名称                                                        | CAS号       |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
+| MgBr<sub>2</sub>                                                                  | [溴化镁](../Page/溴化镁.md "wikilink")                          | 7789-48-2  |
+| MgBr<sub>2</sub>·6H<sub>2</sub>O                                                  | [溴化镁六水合物](../Page/溴化镁.md "wikilink")                      | 13446-53-2 |
+| MgCO<sub>3</sub>                                                                  | [碳酸镁](https://zh.wikipedia.org/wiki/碳酸镁 "wikilink")       | 546-93-0   |
+| Mg(C<sub>2</sub>H<sub>2</sub>O<sub>2</sub>)<sub>2</sub>H<sub>8</sub>O<sub>4</sub> | [琥珀酸镁四水合物](https://zh.wikipedia.org/wiki/琥珀酸镁 "wikilink") | 556-32-1   |
+| MgC<sub>3</sub>H<sub>9</sub>O<sub>6</sub>P                                        | 甘油磷酸镁                                                     | 927-20-8   |
+| MgC<sub>36</sub>H<sub>70</sub>O<sub>4</sub>                                       | [硬脂酸镁](../Page/硬脂酸镁.md "wikilink")                        | 557-04-0   |
+| Mg(ClO<sub>4</sub>)<sub>2</sub>                                                   | [高氯酸镁](../Page/高氯酸镁.md "wikilink")                        | 10034-81-8 |
+| MgCl<sub>2</sub>                                                                  | [氯化镁](../Page/氯化镁.md "wikilink")                          | 7786-30-3  |
+| MgF<sub>2</sub>                                                                   | [氟化镁](../Page/氟化镁.md "wikilink")                          | 7783-40-6  |
+| MgH<sub>2</sub>                                                                   | [氫化鎂](../Page/氫化鎂.md "wikilink")                          | 7693-27-8  |
+| MgI<sub>2</sub>                                                                   | [碘化镁](../Page/碘化镁.md "wikilink")                          | 10377-58-9 |
+| Mg(NO<sub>3</sub>)<sub>2</sub>                                                    | [硝酸鎂](../Page/硝酸鎂.md "wikilink")                          | 10377-60-3 |
+| MgO                                                                               | [氧化镁](../Page/氧化镁.md "wikilink")                          | 1309-48-4  |
+| Mg(OH)<sub>2</sub>                                                                | [氢氧化镁](../Page/氢氧化镁.md "wikilink")                        | 1309-42-8  |
+| MgO<sub>2</sub>                                                                   | [过氧化镁](../Page/过氧化镁.md "wikilink")                        | 1335-26-8  |
+| MgS                                                                               | [硫化镁](../Page/硫化镁.md "wikilink")                          | 12032-36-9 |
+| MgSO<sub>4</sub>                                                                  | [硫酸镁](../Page/硫酸镁.md "wikilink")                          | 7487-88-9  |
+| MgSe                                                                              | [硒化镁](https://zh.wikipedia.org/wiki/硒化镁 "wikilink")       | 1313-04-8  |
+| MgSiO<sub>3</sub>                                                                 | [硅酸镁](https://zh.wikipedia.org/wiki/硅酸镁 "wikilink")       | 14654-06-9 |
+| Mg(TcO<sub>4</sub>)<sub>2</sub>                                                   | [高锝酸镁](https://zh.wikipedia.org/wiki/高锝酸镁 "wikilink")     | 71683-38-0 |
+| MgTe                                                                              | [碲化镁](https://zh.wikipedia.org/wiki/碲化镁 "wikilink")       | 12032-44-9 |
+| MgTiO<sub>3</sub>                                                                 | [钛酸镁](https://zh.wikipedia.org/wiki/钛酸镁 "wikilink")       | 12032-30-3 |
+| Mg<sub>2</sub>Si                                                                  | [硅化镁](https://zh.wikipedia.org/wiki/硅化镁 "wikilink")       | 22831-39-6 |
+| Mg<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>                                       | [砷酸镁](https://zh.wikipedia.org/wiki/砷酸镁 "wikilink")       | 10103-50-1 |
+| Mg<sub>3</sub>N<sub>2</sub>                                                       | [氮化鎂](../Page/氮化鎂.md "wikilink")                          | 12057-71-5 |
+| Mg<sub>3</sub>Sb<sub>2</sub>                                                      | [锑化镁](https://zh.wikipedia.org/wiki/锑化镁 "wikilink")       | 12057-75-9 |
+| MnBr<sub>2</sub>                                                                  | [溴化锰](../Page/溴化锰.md "wikilink")                          | 13446-03-2 |
+| Mn(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub>                           | [乙酸锰(II)](../Page/乙酸锰\(II\).md "wikilink")                | 638-38-0   |
+| MnCO<sub>3</sub>                                                                  | [碳酸锰](../Page/碳酸锰.md "wikilink")                          | 598-62-9   |
+| MnCl<sub>2</sub>                                                                  | [氯化锰](../Page/氯化锰.md "wikilink")                          | 7773-01-5  |
+| MnCl<sub>2</sub>·4H<sub>2</sub>O                                                  | [二氯化锰四水合物](https://zh.wikipedia.org/wiki/二氯化锰 "wikilink") | 13446-34-9 |
+| MnCl<sub>3</sub>                                                                  | [三氯化锰](https://zh.wikipedia.org/wiki/三氯化锰 "wikilink")     | 14690-66-5 |
+| MnF<sub>2</sub>                                                                   | [二氟化锰](https://zh.wikipedia.org/wiki/二氟化锰 "wikilink")     | 7782-64-1  |
+| MnF<sub>3</sub>                                                                   | [三氟化錳](../Page/三氟化錳.md "wikilink")                        | 7783-53-1  |
+| MnF<sub>4</sub>                                                                   | [四氟化錳](../Page/四氟化錳.md "wikilink")                        | 15195-58-1 |
+| MnI<sub>2</sub>                                                                   | [溴化锰](../Page/溴化锰.md "wikilink")                          | 7790-33-2  |
+| MnI<sub>2</sub>·4H<sub>2</sub>O                                                   | [碘化锰四水合物](../Page/碘化锰.md "wikilink")                      | 98716-23-5 |
+| Mn(NO<sub>3</sub>)<sub>2</sub>                                                    | [硝酸锰](../Page/硝酸锰.md "wikilink")                          | 10377-66-9 |
+| MnO                                                                               | [一氧化锰](../Page/一氧化锰.md "wikilink")                        | 1344-43-0  |
+| MnO<sub>2</sub>                                                                   | [二氧化锰](../Page/二氧化锰.md "wikilink")                        | 1313-13-9  |
+| MnS                                                                               | [硫化锰](../Page/硫化锰.md "wikilink")                          | 18820-29-6 |
+| MnSO<sub>4</sub>                                                                  | [硫酸锰](../Page/硫酸锰.md "wikilink")                          | 10034-96-5 |
+| MnSb                                                                              | [一锑化锰](https://zh.wikipedia.org/wiki/一锑化锰 "wikilink")     | 12032-82-5 |
+| MnSe                                                                              | [硒化锰](../Page/硒化锰.md "wikilink")                          | 1313-22-0  |
+| MnSe<sub>2</sub>                                                                  | [二硒化锰](../Page/二硒化锰.md "wikilink")、二硒化亚锰                  | 12299-98-8 |
+| MnTe                                                                              | [碲化锰](../Page/碲化锰.md "wikilink")                          | 12032-88-1 |
+| MnTe<sub>2</sub>                                                                  | [二碲化锰](../Page/二碲化锰.md "wikilink")                        | 12032-89-2 |
+| Mn<sub>2</sub>O<sub>3</sub>                                                       | [三氧化二锰](../Page/三氧化二锰.md "wikilink")                      | 1317-34-6  |
+| Mn<sub>2</sub>O<sub>7</sub>                                                       | [七氧化二锰](../Page/七氧化二锰.md "wikilink")                      | 12057-92-0 |
+| Mn<sub>3</sub>O<sub>4</sub>                                                       | [四氧化三锰](../Page/四氧化三锰.md "wikilink")                      | 1317-35-7  |
+| Mn<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>                                        | [磷酸锰](https://zh.wikipedia.org/wiki/磷酸锰 "wikilink")       | 14154-09-7 |
+| MoBr<sub>2</sub>                                                                  | [二溴化钼](https://zh.wikipedia.org/wiki/二溴化钼 "wikilink")     | 13446-56-5 |
+| MoBr<sub>3</sub>                                                                  | [三溴化钼](https://zh.wikipedia.org/wiki/三溴化钼 "wikilink")     | 13446-57-6 |
+| MoBr<sub>4</sub>                                                                  | [四溴化钼](https://zh.wikipedia.org/wiki/四溴化钼 "wikilink")     | 13520-59-7 |
+| MoC<sub>6</sub>O<sub>6</sub>                                                      | [六羰基鉬](https://zh.wikipedia.org/wiki/六羰基鉬 "wikilink")     | 13939-06-5 |
+| MoCl<sub>2</sub>                                                                  | [二氯化钼](https://zh.wikipedia.org/wiki/二氯化钼 "wikilink")     | 13478-17-6 |
+| MoCl<sub>3</sub>                                                                  | [三氯化钼](https://zh.wikipedia.org/wiki/三氯化钼 "wikilink")     | 13478-18-7 |
+| MoCl<sub>4</sub>                                                                  | [四氯化钼](https://zh.wikipedia.org/wiki/四氯化钼 "wikilink")     | 13478-18-7 |
+| MoCl<sub>5</sub>                                                                  | [五氯化钼](https://zh.wikipedia.org/wiki/五氯化钼 "wikilink")     | 10241-05-1 |
+| MoCl<sub>6</sub>                                                                  | [六氯化钼](https://zh.wikipedia.org/wiki/六氯化钼 "wikilink")     | 13706-19-9 |
+| MoF<sub>3</sub>                                                                   | [三氟化钼](https://zh.wikipedia.org/wiki/三氟化钼 "wikilink")     | 20193-58-2 |
+| MoF<sub>4</sub>                                                                   | [四氟化钼](https://zh.wikipedia.org/wiki/四氟化钼 "wikilink")     | 23412-45-5 |
+| MoF<sub>5</sub>                                                                   | [五氟化钼](https://zh.wikipedia.org/wiki/五氟化钼 "wikilink")     | 13819-84-6 |
+| MoF<sub>6</sub>                                                                   | [六氟化钼](https://zh.wikipedia.org/wiki/六氟化钼 "wikilink")     | 7783-77-9  |
+| MoI<sub>2</sub>                                                                   | [二碘化钼](https://zh.wikipedia.org/wiki/二碘化钼 "wikilink")     | 14055-74-4 |
+| MoI<sub>3</sub>                                                                   | [三碘化钼](https://zh.wikipedia.org/wiki/三碘化钼 "wikilink")     | 14055-75-5 |
+| MoI<sub>4</sub>                                                                   | [四碘化钼](https://zh.wikipedia.org/wiki/四碘化钼 "wikilink")     | 14055-76-6 |
+| MoN                                                                               | [氮化钼](https://zh.wikipedia.org/wiki/氮化钼 "wikilink")       | 12033-19-1 |
+| MoO                                                                               | [一氧化钼](https://zh.wikipedia.org/wiki/一氧化钼 "wikilink")     | 12058-07-0 |
+| MoO<sub>2</sub>                                                                   | [二氧化钼](https://zh.wikipedia.org/wiki/二氧化钼 "wikilink")     | 18868-43-4 |
+| MoO<sub>3</sub>                                                                   | [三氧化钼](../Page/三氧化钼.md "wikilink")                        | 1313-27-5  |
+| MoS<sub>2</sub>                                                                   | [二硫化钼](../Page/二硫化钼.md "wikilink")                        | 1317-33-5  |
+| MoSe<sub>2</sub>                                                                  | [硒化钼](https://zh.wikipedia.org/wiki/硒化钼 "wikilink")       | 12058-18-3 |
+| MoSi<sub>2</sub>                                                                  | [硅化钼](https://zh.wikipedia.org/wiki/硅化钼 "wikilink")       | 12136-78-6 |
+| MoTe<sub>2</sub>                                                                  | [碲化钼](https://zh.wikipedia.org/wiki/碲化钼 "wikilink")       | 12058-20-7 |
+| Mo<sub>2</sub>O<sub>3</sub>                                                       | [三氧化二钼](https://zh.wikipedia.org/wiki/三氧化二钼 "wikilink")   | 1313-29-7  |
+| Mo<sub>2</sub>O<sub>5</sub>                                                       | [五氧化二钼](https://zh.wikipedia.org/wiki/五氧化二钼 "wikilink")   | 12163-73-4 |
+| Mo<sub>2</sub>S<sub>3</sub>                                                       | [三硫化二钼](https://zh.wikipedia.org/wiki/三硫化二钼 "wikilink")   | 12033-33-9 |
+|                                                                                   |                                                           |            |
 
 ## N
 
@@ -2482,7 +2482,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="odd">
 <td><p>Nd(NO<sub>3</sub>)<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/硝酸钕" title="wikilink">硝酸钕</a></p></td>
+<td><p><a href="../Page/硝酸钕.md" title="wikilink">硝酸钕</a></p></td>
 <td><p>10045-95-1</p></td>
 </tr>
 <tr class="even">
@@ -2717,12 +2717,12 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="even">
 <td><p>NpO<sub>2</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/二氧化镎" title="wikilink">二氧化镎</a></p></td>
+<td><p><a href="../Page/二氧化镎.md" title="wikilink">二氧化镎</a></p></td>
 <td><p>12035-79-9</p></td>
 </tr>
 <tr class="odd">
 <td><p>Np<sub>2</sub>O<sub>5</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/五氧化二镎" title="wikilink">五氧化二镎</a></p></td>
+<td><p><a href="../Page/五氧化二镎.md" title="wikilink">五氧化二镎</a></p></td>
 <td><p>121433-01-0</p></td>
 </tr>
 <tr class="even">
@@ -2777,7 +2777,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | PF<sub>3</sub>                                            | [三氟化磷](https://zh.wikipedia.org/wiki/三氟化磷 "wikilink")                                                               | 7783-55-3   |
 | PF<sub>5</sub>                                            | [五氟化磷](../Page/五氟化磷.md "wikilink")                                                                                  | 7647-19-0   |
 | PH<sub>3</sub>                                            | [磷化氢](../Page/磷化氢.md "wikilink")                                                                                    | 7803-51-2   |
-| PI<sub>3</sub>                                            | [三碘化磷](https://zh.wikipedia.org/wiki/三碘化磷 "wikilink")                                                               | 13455-01-1  |
+| PI<sub>3</sub>                                            | [三碘化磷](../Page/三碘化磷.md "wikilink")                                                                                  | 13455-01-1  |
 | POBr<sub>3</sub>                                          | [三溴氧磷](https://zh.wikipedia.org/wiki/三溴氧磷 "wikilink")                                                               | 7789-59-5   |
 | POCl<sub>3</sub>                                          | [三氯氧磷](../Page/三氯氧磷.md "wikilink")                                                                                  | 10025-87-3  |
 | PSCl<sub>3</sub>                                          | [三氯硫磷](../Page/三氯硫磷.md "wikilink")                                                                                  | 3982-91-0   |
@@ -2822,12 +2822,12 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | Pb(C<sub>4</sub>H<sub>7</sub>O<sub>2</sub>)<sub>2</sub>   | [lead(II) butanoate](https://zh.wikipedia.org/wiki/lead\(II\)_butanoate "wikilink")                                 | 819-73-8    |
 | Pb(C<sub>18</sub>H<sub>33</sub>O<sub>2</sub>)<sub>2</sub> | [lead(II) oleate](https://zh.wikipedia.org/wiki/lead\(II\)_oleate "wikilink")                                       | 1120-46-3   |
 | Pb(C<sub>18</sub>H<sub>35</sub>O<sub>2</sub>)<sub>2</sub> | [lead(II) stearate](https://zh.wikipedia.org/wiki/lead\(II\)_stearate "wikilink")                                   | 1072-35-1   |
-| Pb(ClO<sub>3</sub>)<sub>2</sub>                           | [氯酸铅](https://zh.wikipedia.org/wiki/氯酸铅 "wikilink")                                                                 | 10294-47-0  |
+| Pb(ClO<sub>3</sub>)<sub>2</sub>                           | [氯酸铅](../Page/氯酸铅.md "wikilink")                                                                                    | 10294-47-0  |
 | Pb(ClO<sub>4</sub>)<sub>2</sub>                           | [高氯酸铅](https://zh.wikipedia.org/wiki/高氯酸铅 "wikilink")                                                               | 13453-62-8  |
 | PbCl<sub>2</sub>                                          | [氯化铅](https://zh.wikipedia.org/wiki/氯化铅 "wikilink")                                                                 | 7758-95-4   |
 | PbCl<sub>4</sub>                                          | [四氯化铅](https://zh.wikipedia.org/wiki/四氯化铅 "wikilink")                                                               | 13463-30-4  |
 | PbCrO<sub>4</sub>                                         | [鉻酸鉛](../Page/鉻酸鉛.md "wikilink")                                                                                    | 7758-97-6   |
-| PbF<sub>2</sub>                                           | [氟化铅](https://zh.wikipedia.org/wiki/氟化铅 "wikilink")                                                                 | 7783-46-2   |
+| PbF<sub>2</sub>                                           | [氟化铅](../Page/氟化铅.md "wikilink")                                                                                    | 7783-46-2   |
 | PbF<sub>4</sub>                                           | [四氟化铅](https://zh.wikipedia.org/wiki/四氟化铅 "wikilink")                                                               | 7783-59-7   |
 | Pb(H<sub>2</sub>PO<sub>2</sub>)<sub>2</sub>               | [lead(II) hypophosphite](https://zh.wikipedia.org/wiki/lead\(II\)_hypophosphite "wikilink")                         | 10294-58-3  |
 | PbH<sub>4</sub>                                           | [四氢化铅](https://zh.wikipedia.org/wiki/四氢化铅 "wikilink")（[铅烷](../Page/铅烷.md "wikilink")）                               | 15875-18-0  |
@@ -2840,7 +2840,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | Pb(OH)<sub>2</sub>                                        | [氫氧化鉛](../Page/氫氧化鉛.md "wikilink")                                                                                  | 19783-14-3  |
 | PbO<sub>2</sub>                                           | [二氧化铅](https://zh.wikipedia.org/wiki/二氧化铅 "wikilink")                                                               | 1309-60-0   |
 | PbS                                                       | [lead(II) sulfide](https://zh.wikipedia.org/wiki/lead\(II\)_sulfide "wikilink")                                     | 1314-87-0   |
-| Pb(SCN)<sub>2</sub>                                       | [硫氰酸铅](https://zh.wikipedia.org/wiki/硫氰酸铅 "wikilink")                                                               | 592-87-0    |
+| Pb(SCN)<sub>2</sub>                                       | [硫氰酸铅](../Page/硫氰酸铅.md "wikilink")                                                                                  | 592-87-0    |
 | PbSO<sub>3</sub>                                          | [lead(II) sulfite](https://zh.wikipedia.org/wiki/lead\(II\)_sulfite "wikilink")                                     | 7446-10-8   |
 | PbSO<sub>4</sub>                                          | [硫酸铅](../Page/硫酸铅.md "wikilink")                                                                                    | 7446-14-2   |
 | PbSe                                                      | [lead(II) selenide](https://zh.wikipedia.org/wiki/lead\(II\)_selenide "wikilink")                                   | 12069-00-0  |
@@ -2989,7 +2989,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | Re<sub>2</sub>O<sub>3</sub>                 | [rhenium(III) oxide](https://zh.wikipedia.org/wiki/rhenium\(III\)_oxide "wikilink")       | 12060-05-8 |
 | Re<sub>2</sub>O<sub>7</sub>                 | [七氧化二铼](../Page/七氧化二铼.md "wikilink")                                                      | 1314-68-7  |
 | Re<sub>2</sub>S<sub>7</sub>                 | [七硫化二铼](https://zh.wikipedia.org/wiki/七硫化二铼 "wikilink")                                   | 12038-67-4 |
-| RhBr<sub>3</sub>                            | [三溴化铑](https://zh.wikipedia.org/wiki/三溴化铑 "wikilink")                                     | 15608-29-4 |
+| RhBr<sub>3</sub>                            | [三溴化铑](../Page/三溴化铑.md "wikilink")                                                        | 15608-29-4 |
 | RhCl<sub>3</sub>                            | [三氯化铑](../Page/三氯化铑.md "wikilink")                                                        | 10049-07-7 |
 | RhF<sub>3</sub>                             | [三氟化铑](https://zh.wikipedia.org/wiki/三氟化铑 "wikilink")                                     | 60804-25-3 |
 | RhF<sub>4</sub>                             | [四氟化铑](https://zh.wikipedia.org/wiki/四氟化铑 "wikilink")                                     | 60617-65-4 |
@@ -3059,7 +3059,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | Sb<sub>2</sub>S<sub>3</sub>                             | [antimony trisulfide](https://zh.wikipedia.org/wiki/antimony_trisulfide "wikilink")                                           | 1345-04-6       |
 | Sb<sub>2</sub>S<sub>5</sub>                             | [五硫化二锑](../Page/五硫化二锑.md "wikilink")                                                                                          | 1315-04-4       |
 | Sb<sub>2</sub>Se<sub>3</sub>                            | [三硒化二锑](../Page/三硒化二锑.md "wikilink")                                                                                          | 1315-05-5       |
-| Sb<sub>2</sub>Te<sub>3</sub>                            | [三碲化二锑](https://zh.wikipedia.org/wiki/三碲化二锑 "wikilink")                                                                       | 1327-50-0       |
+| Sb<sub>2</sub>Te<sub>3</sub>                            | [三碲化二锑](../Page/三碲化二锑.md "wikilink")                                                                                          | 1327-50-0       |
 | ScBr<sub>3</sub>                                        | [三溴化钪](https://zh.wikipedia.org/wiki/三溴化钪 "wikilink")                                                                         | 13465-59-3      |
 | Sc(CF<sub>3</sub>SO<sub>3</sub>)<sub>3</sub>            | [scandium(III) trifluoromethanesulfonate](https://zh.wikipedia.org/wiki/scandium\(III\)_trifluoromethanesulfonate "wikilink") | 144026-79-9     |
 | Sc(CHO<sub>2</sub>)<sub>3</sub>                         | [甲酸钪](https://zh.wikipedia.org/wiki/甲酸钪 "wikilink")                                                                           | 23405-01-8      |
@@ -3093,7 +3093,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | SiCl<sub>4</sub>                                        | [silicon chloride](https://zh.wikipedia.org/wiki/silicon_chloride "wikilink")                                                 | 10026-04-7      |
 | SiF<sub>4</sub>                                         | [四氟化硅](../Page/四氟化硅.md "wikilink")                                                                                            | 7783-61-1       |
 | SiH<sub>4</sub>                                         | [甲硅烷](../Page/甲硅烷.md "wikilink")                                                                                              | 7803-62-5       |
-| SiI<sub>4</sub>                                         | [四碘化硅](https://zh.wikipedia.org/wiki/四碘化硅 "wikilink")                                                                         | 13465-84-4      |
+| SiI<sub>4</sub>                                         | [四碘化硅](../Page/四碘化硅.md "wikilink")                                                                                            | 13465-84-4      |
 | SiO<sub>2</sub>                                         | [二氧化硅](../Page/二氧化硅.md "wikilink")                                                                                            | 14808-60-7      |
 | SiS<sub>2</sub>                                         | [二硫化硅](../Page/二硫化硅.md "wikilink")                                                                                            | 13759-10-9      |
 | Si<sub>3</sub>N<sub>4</sub>                             | [氮化矽](../Page/氮化矽.md "wikilink")                                                                                              | 12033-89-5      |
@@ -3197,7 +3197,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | TbF<sub>4</sub>                             | [四氟化铽](https://zh.wikipedia.org/wiki/四氟化铽 "wikilink")                                                                | 36781-15-4  |
 | TbI<sub>3</sub>                             | [三碘化铽](https://zh.wikipedia.org/wiki/三碘化铽 "wikilink")                                                                | 13813-40-6  |
 | TbN                                         | [氮化铽](https://zh.wikipedia.org/wiki/氮化铽 "wikilink")                                                                  | 12033-64-6  |
-| TbO<sub>2</sub>                             | [二氧化铽](https://zh.wikipedia.org/wiki/二氧化铽 "wikilink")                                                                | 12036-15-6  |
+| TbO<sub>2</sub>                             | [二氧化铽](../Page/二氧化铽.md "wikilink")                                                                                   | 12036-15-6  |
 | TbSi<sub>2</sub>                            | [二硅化铽](https://zh.wikipedia.org/wiki/二硅化铽 "wikilink")(IV)                                                            | 12039-80-4  |
 | Tb<sub>2</sub>O<sub>3</sub>                 | [三氧化二铽](../Page/三氧化二铽.md "wikilink")                                                                                 | 12036-41-8  |
 | Tb<sub>2</sub>S<sub>3</sub>                 | [硫化铽](https://zh.wikipedia.org/wiki/硫化铽 "wikilink")                                                                  | 12138-11-3  |
@@ -3219,7 +3219,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | TeI                                         | [一碘化碲](https://zh.wikipedia.org/wiki/一碘化碲 "wikilink")                                                                | 12600-42-9  |
 | TeI<sub>4</sub>                             | [四碘化碲](https://zh.wikipedia.org/wiki/四碘化碲 "wikilink")                                                                | 7790-48-9   |
 | TeO                                         | [一氧化碲](https://zh.wikipedia.org/wiki/一氧化碲 "wikilink")                                                                | 13451-17-7  |
-| TeO<sub>2</sub>                             | [二氧化碲](https://zh.wikipedia.org/wiki/二氧化碲 "wikilink")                                                                | 7446-07-3   |
+| TeO<sub>2</sub>                             | [二氧化碲](../Page/二氧化碲.md "wikilink")                                                                                   | 7446-07-3   |
 | TeO<sub>3</sub>                             | [三氧化碲](../Page/三氧化碲.md "wikilink")                                                                                   | 13451-18-8  |
 | TeS<sub>2</sub>                             | [二硫化碲](https://zh.wikipedia.org/wiki/二硫化碲 "wikilink")                                                                | 7446-07-3   |
 | ThBr<sub>4</sub>                            | [四溴化钍](https://zh.wikipedia.org/wiki/四溴化钍 "wikilink")                                                                | 13453-49-1  |
@@ -3279,7 +3279,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | TlC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>   | [乙酸亚铊](https://zh.wikipedia.org/wiki/乙酸亚铊 "wikilink")                                                                | 563-68-8    |
 | TlC<sub>2</sub>H<sub>5</sub>O               | [乙醇亚铊](https://zh.wikipedia.org/wiki/乙醇亚铊 "wikilink")                                                                | 20398-06-5  |
 | TlCl                                        | [氯化亚铊](../Page/氯化亚铊.md "wikilink")                                                                                   | 7791-12-0   |
-| TlClO<sub>3</sub>                           | [氯酸亚铊](https://zh.wikipedia.org/wiki/氯酸亚铊 "wikilink")                                                                | 13453-30-0  |
+| TlClO<sub>3</sub>                           | [氯酸亚铊](../Page/氯酸亚铊.md "wikilink")                                                                                   | 13453-30-0  |
 | TlClO<sub>4</sub>                           | [高氯酸亚铊](https://zh.wikipedia.org/wiki/高氯酸亚铊 "wikilink")                                                              | 13453-40-2  |
 | TlCl<sub>2</sub>                            | [thallium(II) chloride](https://zh.wikipedia.org/wiki/thallium\(II\)_chloride "wikilink")                            | 15230-71-4  |
 | TlCl<sub>3</sub>                            | [thallium(III) chloride](https://zh.wikipedia.org/wiki/thallium\(III\)_chloride "wikilink")                          | 13453-32-2  |
@@ -3376,7 +3376,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | VF<sub>5</sub>                            | [五氟化钒](../Page/五氟化钒.md "wikilink")                       | 7783-72-4  |
 | VH                                        | [一氢化钒](https://zh.wikipedia.org/wiki/一氢化钒 "wikilink")    | 13966-93-3 |
 | VI<sub>2</sub>                            | [二碘化钒](https://zh.wikipedia.org/wiki/二碘化钒 "wikilink")    | 15513-84-5 |
-| VI<sub>3</sub>                            | [三碘化钒](https://zh.wikipedia.org/wiki/三碘化钒 "wikilink")    | 15513-94-7 |
+| VI<sub>3</sub>                            | [三碘化钒](../Page/三碘化钒.md "wikilink")                       | 15513-94-7 |
 | VI<sub>4</sub>                            | [四碘化钒](https://zh.wikipedia.org/wiki/四碘化钒 "wikilink")    | 15831-18-2 |
 | VN                                        | [氮化钒](../Page/氮化钒.md "wikilink")                         | 24646-85-3 |
 | VO                                        | [一氧化钒](https://zh.wikipedia.org/wiki/一氧化钒 "wikilink")    | 12035-98-2 |
@@ -3495,7 +3495,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="even">
 <td><p>YCl<sub>3</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氯化钇" title="wikilink">氯化钇</a></p></td>
+<td><p><a href="../Page/氯化钇.md" title="wikilink">氯化钇</a></p></td>
 <td><p>10361-92-9</p></td>
 </tr>
 <tr class="odd">
@@ -3734,7 +3734,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="odd">
 <td><p>Zn(ClO<sub>3</sub>)<sub>2</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氯酸锌" title="wikilink">氯酸锌</a></p></td>
+<td><p><a href="../Page/氯酸锌.md" title="wikilink">氯酸锌</a></p></td>
 <td><p>10361-95-2</p></td>
 </tr>
 <tr class="even">
@@ -3834,12 +3834,12 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="odd">
 <td><p>ZnSb</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/锑化锌" title="wikilink">锑化锌</a></p></td>
+<td><p><a href="../Page/锑化锌.md" title="wikilink">锑化锌</a></p></td>
 <td><p>12039-35-9</p></td>
 </tr>
 <tr class="even">
 <td><p>ZnSe</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/硒化锌" title="wikilink">硒化锌</a></p></td>
+<td><p><a href="../Page/硒化锌.md" title="wikilink">硒化锌</a></p></td>
 <td><p>1315-09-9</p></td>
 </tr>
 <tr class="odd">
@@ -3849,7 +3849,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="even">
 <td><p>ZnTe</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/碲化锌" title="wikilink">碲化锌</a></p></td>
+<td><p><a href="../Page/碲化锌.md" title="wikilink">碲化锌</a></p></td>
 <td><p>1315-11-3</p></td>
 </tr>
 <tr class="odd">
@@ -3889,7 +3889,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 </tr>
 <tr class="even">
 <td><p>Zn<sub>3</sub>N<sub>2</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氮化锌" title="wikilink">氮化锌</a></p></td>
+<td><p><a href="../Page/氮化锌.md" title="wikilink">氮化锌</a></p></td>
 <td><p>1313-49-1</p></td>
 </tr>
 <tr class="odd">

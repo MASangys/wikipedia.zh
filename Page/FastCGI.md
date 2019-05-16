@@ -25,8 +25,8 @@ farm](https://zh.wikipedia.org/wiki/server_farm "wikilink")）传递给FastCGI�
   - [Cherokee HTTP Server](../Page/Cherokee_\(Web服务器\).md "wikilink")
 
   -   - 支持FastCGI的負載平衡
-      - 支持[chrooted](../Page/chroot.md "wikilink") FastCGI
-        [伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
+      - 支持[chrooted](https://zh.wikipedia.org/wiki/chroot "wikilink")
+        FastCGI [伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
 
   - [Lighttpd](../Page/Lighttpd.md "wikilink")
 

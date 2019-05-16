@@ -39,7 +39,7 @@ SG每年都会在新加坡的](https://zh.wikipedia.org/wiki/Pink_Dot_SG "wikili
 
 ## 参见
 
-  - [亚洲LGBT权益](https://zh.wikipedia.org/wiki/亚洲LGBT权益 "wikilink")
+  - [亚洲LGBT权益](../Page/亚洲LGBT权益.md "wikilink")
   - [马来西亚LGBT权益](https://zh.wikipedia.org/wiki/马来西亚LGBT权益 "wikilink")
 
 ## 參考來源

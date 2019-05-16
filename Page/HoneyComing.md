@@ -89,7 +89,7 @@ Mode）。
 
 ## 工作人員
 
-該遊戲的[製作人由亞佐美晶負責](https://zh.wikipedia.org/wiki/電子遊戲製作人 "wikilink")。[導演和](https://zh.wikipedia.org/wiki/導演 "wikilink")[劇本統籌由川波無人負責](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")。[美術監督雖由](https://zh.wikipedia.org/wiki/美術監督 "wikilink")負責，但[原畫由](https://zh.wikipedia.org/wiki/原畫 "wikilink")和負責。[音樂由松浦貴雄負責](https://zh.wikipedia.org/wiki/音樂 "wikilink")。[音響由V](../Page/音響.md "wikilink")Ⅱ負責。\[8\]
+該遊戲的[製作人由亞佐美晶負責](../Page/電子遊戲製作人.md "wikilink")。[導演和](https://zh.wikipedia.org/wiki/導演 "wikilink")[劇本統籌由川波無人負責](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")。[美術監督雖由](https://zh.wikipedia.org/wiki/美術監督 "wikilink")負責，但[原畫由](https://zh.wikipedia.org/wiki/原畫 "wikilink")和負責。[音樂由松浦貴雄負責](https://zh.wikipedia.org/wiki/音樂 "wikilink")。[音響由V](../Page/音響.md "wikilink")Ⅱ負責。\[8\]
 
 ## 漫畫
 

@@ -1151,7 +1151,7 @@ PlayStation
   - [AVCHD](../Page/AVCHD.md "wikilink")（.m2ts / .mts）
   - [AVI](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")\[70\]
   - [DivX](../Page/DivX.md "wikilink"), DivX VOD
-  - [XviD](../Page/XviD.md "wikilink")
+  - [XviD](https://zh.wikipedia.org/wiki/XviD "wikilink")
   - [Motion JPEG](../Page/Motion_JPEG.md "wikilink") (Linear PCM)
   - [Motion JPEG](../Page/Motion_JPEG.md "wikilink") (μ-Law)
   - [MP4视频](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink")
@@ -1183,7 +1183,7 @@ PlayStation
   - **d** SACD仅20 GB、60GB、摩托风暴版80GB和MGS4版80 GB等版本主机支持。
 
   - **e** [DivX](../Page/DivX.md "wikilink"),
-    [XviD](../Page/XviD.md "wikilink"),
+    [XviD](https://zh.wikipedia.org/wiki/XviD "wikilink"),
     [3ivx](https://zh.wikipedia.org/wiki/3ivx "wikilink") and other
     [MPEG-4 Part
     2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink") codec
@@ -1225,8 +1225,7 @@ PlayStation
   - [PlayStation
     Portable系统软件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统软件 "wikilink")
   - [PlayStation Vita系统软件](../Page/PlayStation_Vita系统软件.md "wikilink")
-  - [PlayStation
-    4系统软件](https://zh.wikipedia.org/wiki/PlayStation_4系统软件 "wikilink")
+  - [PlayStation 4系统软件](../Page/PlayStation_4系统软件.md "wikilink")
 
 **本[世代其他游戏平台](https://zh.wikipedia.org/wiki/电子游戏历史（第七世代） "wikilink")：**
 

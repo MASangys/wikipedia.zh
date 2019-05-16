@@ -272,7 +272,7 @@ Arts」、「反抗打击」、「援护攻击」和「援护防御」。
         声：[茂吕田薰](https://zh.wikipedia.org/wiki/茂吕田薰 "wikilink")
         Version1.5A版的新增角色。
         在关西地区享有盛名，准备向东京发展的优秀同人漫画家。
-        援护模式为“跟随”、“打击”。使用[吐槽用的](https://zh.wikipedia.org/wiki/吐槽 "wikilink")[纸折扇和绘制漫画的](https://zh.wikipedia.org/wiki/纸折扇 "wikilink")[G笔来攻击对手](https://zh.wikipedia.org/wiki/沾水笔 "wikilink")。
+        援护模式为“跟随”、“打击”。使用[吐槽用的](../Page/吐槽.md "wikilink")[纸折扇和绘制漫画的](https://zh.wikipedia.org/wiki/纸折扇 "wikilink")[G笔来攻击对手](https://zh.wikipedia.org/wiki/沾水笔 "wikilink")。
 
 <!-- end list -->
 

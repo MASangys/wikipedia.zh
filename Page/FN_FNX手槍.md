@@ -6,13 +6,13 @@ ACP口徑的衍生型](../Page/.45_ACP.md "wikilink")。
 
 ## 歷史
 
-自[白朗寧大威力手槍誕生後](https://zh.wikipedia.org/wiki/白朗寧大威力手槍 "wikilink")，[國營赫斯塔爾不斷研發出該槍的衍生型](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，憑藉著“白朗寧的遺產”打拼手槍市場。但到了1990年代，現代手槍的迅速發展已經讓白朗寧大威力手槍顯得黯然失色。意識到白朗寧大威力手槍不能成為永久依賴的產品的國營赫斯塔爾開始積極致力於推出新型現代手槍。
+自[白朗寧大威力手槍誕生後](../Page/白朗寧大威力手槍.md "wikilink")，[國營赫斯塔爾不斷研發出該槍的衍生型](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，憑藉著“白朗寧的遺產”打拼手槍市場。但到了1990年代，現代手槍的迅速發展已經讓白朗寧大威力手槍顯得黯然失色。意識到白朗寧大威力手槍不能成為永久依賴的產品的國營赫斯塔爾開始積極致力於推出新型現代手槍。
 
 2003年，國營赫斯塔爾推出了[FNP系列聚合物](../Page/FN_FNP手槍.md "wikilink")[套筒座手槍](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。但FNP系列中規中矩沒有特色，在手槍市場上還是不溫不火。後來，國營赫斯塔爾決定下大力量改進設計，打造一款完美手槍，這就是2010年推出的FNX系列手槍。該系列手槍在2010年（美國著名槍展）上首次亮相。
 
 ## 標準功能
 
-所有的FNX手槍衍生型都具有[能左右手操作操作的大型](../Page/两手同利.md "wikilink")[保險／待擊解脫桿](../Page/杠杆.md "wikilink")、[彈匣釋放按鈕和](../Page/彈匣.md "wikilink")[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（套筒釋放裝置、[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）。\[2\]所有的衍生型亦具有凸出方格表面紋理和[生產商標誌的握把](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，套筒前後用以向後拉動的鋸齒型防滑紋，設有一條整合在套筒下、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")用以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913綜合戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")、固定三點式大型戰鬥[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，和套筒右側的[上膛顯示桿](https://zh.wikipedia.org/wiki/上膛顯示桿 "wikilink")。\[3\]新型號在銷售時會裝在一個[塑料製造的硬式攜帶盒內](../Page/塑料.md "wikilink")，連3
+所有的FNX手槍衍生型都具有[能左右手操作操作的大型](../Page/两手同利.md "wikilink")[保險／待擊解脫桿](../Page/杠杆.md "wikilink")、[彈匣釋放按鈕和](../Page/彈匣.md "wikilink")[套筒鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（套筒釋放裝置、[空槍掛機桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")）。\[2\]所有的衍生型亦具有凸出方格表面紋理和[生產商標誌的握把](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，套筒前後用以向後拉動的鋸齒型防滑紋，設有一條整合在套筒下、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")用以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913綜合戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")、固定三點式大型戰鬥[機械瞄具](../Page/機械瞄具.md "wikilink")，和套筒右側的[上膛顯示桿](https://zh.wikipedia.org/wiki/上膛顯示桿 "wikilink")。\[3\]新型號在銷售時會裝在一個[塑料製造的硬式攜帶盒內](../Page/塑料.md "wikilink")，連3
 個專用的可拆卸式[彈匣](../Page/彈匣.md "wikilink")，以及四個可更換式後方握把片。\[4\]\[5\]\[6\]
 
 [FNX-40_field_strip.jpg](https://zh.wikipedia.org/wiki/File:FNX-40_field_strip.jpg "fig:FNX-40_field_strip.jpg")[套筒型FNX](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")-40的[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")
@@ -40,7 +40,7 @@ FNX-45的彈匣後方開了12
 
 ## 設計及操作
 
-FNX系列手槍與許多市場上的其他[中央式底火手槍一樣](../Page/中央式底火.md "wikilink")，都是使用[槍管短行程後座作用的手槍系統](../Page/後座作用.md "wikilink")。它最主要的不同之處在是於槍管後退和開鎖以及以後的槍管和[套筒行程](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。以分離前計算，FNX的槍管和套筒行程的距離是其他的半自動手槍，例如[春田XDM](https://zh.wikipedia.org/wiki/春田XDM手槍 "wikilink")（[HS2000](../Page/HS2000手槍.md "wikilink")）的兩倍。這將有助於減少從手槍感受到的[後座力](../Page/後座力.md "wikilink")。
+FNX系列手槍與許多市場上的其他[中央式底火手槍一樣](../Page/中央式底火.md "wikilink")，都是使用[槍管短行程後座作用的手槍系統](../Page/後座作用.md "wikilink")。它最主要的不同之處在是於槍管後退和開鎖以及以後的槍管和[套筒行程](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。以分離前計算，FNX的槍管和套筒行程的距離是其他的半自動手槍，例如[春田XDM](../Page/春田XDM手槍.md "wikilink")（[HS2000](../Page/HS2000手槍.md "wikilink")）的兩倍。這將有助於減少從手槍感受到的[後座力](../Page/後座力.md "wikilink")。
 
 FNX系列手槍需要使用射擊，而非主動型[撞針射擊](../Page/撞針.md "wikilink")。這種手槍可以[單／雙動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")（SA／DA）射擊。
 
@@ -70,13 +70,13 @@ Breed、Safariland和Fobus。可惜一些買家認為缺乏修改及配件的空
   - [FN M1903](../Page/FN_M1903手槍.md "wikilink")
   - [FN M1905](https://zh.wikipedia.org/wiki/FN_M1905手槍 "wikilink")
   - [FN M1910](https://zh.wikipedia.org/wiki/FN_M1910手槍 "wikilink")
-  - [白朗寧大威力手槍](https://zh.wikipedia.org/wiki/白朗寧大威力手槍 "wikilink")
+  - [白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")
   - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動手槍 "wikilink")
   - [FN
     Forty-Nine](https://zh.wikipedia.org/wiki/FN_Forty-Nine手槍 "wikilink")
   - [FN Five-seveN](../Page/FN_Five-seveN手槍.md "wikilink")
   - [FN FNP](../Page/FN_FNP手槍.md "wikilink")
-  - [FN FNS](https://zh.wikipedia.org/wiki/FN_FNS手槍 "wikilink")
+  - [FN FNS](../Page/FN_FNS手槍.md "wikilink")
 
 ## 資料來源
 

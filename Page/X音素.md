@@ -1,9 +1,9 @@
 [The_X_Factor_world_map.png](https://zh.wikipedia.org/wiki/File:The_X_Factor_world_map.png "fig:The_X_Factor_world_map.png")
 《**X音素**》（）是一個在英國開始舉辦的真人選秀節目，它最初是作為《流行偶像》的替代節目而出現。這是一個歌唱節目，目前在全球許多國家都有自己的版本。這個節目將參賽選手分組，并互相對抗來決出最後的冠軍。參賽者大多是抱著成為流行歌手的目的參與節目的選拔。該節目由執行製作人[西蒙·考威尔和他的公司](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")製作而成。“X音素”的含義是代表某種明星具備的氣質。該節目的獎勵通常是一份唱片合約，此外還包括後期的一系列的宣傳推廣活動。該獎勵並不只針對冠軍一人，有時也包括其他獲得較高排名的選手。
 
-這種選秀模式的原創者是[西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")，他同時也是《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》和《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的評委和導師。“X音素”系列節目迄今最成功的選手是《英國版X音素》第三季冠軍[利昂娜·刘易斯](../Page/利昂娜·刘易斯.md "wikilink")。截止到2011年12月，全球“X音素”系列節目合計推出了59名冠軍。最近的一個冠軍是《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的[梅拉尼·阿瑪羅](https://zh.wikipedia.org/wiki/梅拉尼·阿瑪羅 "wikilink")。
+這種選秀模式的原創者是[西蒙·考威尔](https://zh.wikipedia.org/wiki/西蒙·考威尔 "wikilink")，他同時也是《[英國版X音素](../Page/英國版X音素.md "wikilink")》和《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的評委和導師。“X音素”系列節目迄今最成功的選手是《英國版X音素》第三季冠軍[利昂娜·刘易斯](../Page/利昂娜·刘易斯.md "wikilink")。截止到2011年12月，全球“X音素”系列節目合計推出了59名冠軍。最近的一個冠軍是《[美國版X音素](https://zh.wikipedia.org/wiki/美國版X音素 "wikilink")》的[梅拉尼·阿瑪羅](https://zh.wikipedia.org/wiki/梅拉尼·阿瑪羅 "wikilink")。
 
-許多國家的電視臺，特別是[斯堪的納維亞地區的電視臺對](https://zh.wikipedia.org/wiki/斯堪的納維亞 "wikilink")《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》都十分有興趣，希望能購買播映權。但是根據英國的法律規定，《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》僅能在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[愛爾蘭播出](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")。目前《[英國版X音素](https://zh.wikipedia.org/wiki/英國版X音素 "wikilink")》已經完成第八季的選秀。
+許多國家的電視臺，特別是[斯堪的納維亞地區的電視臺對](https://zh.wikipedia.org/wiki/斯堪的納維亞 "wikilink")《[英國版X音素](../Page/英國版X音素.md "wikilink")》都十分有興趣，希望能購買播映權。但是根據英國的法律規定，《[英國版X音素](../Page/英國版X音素.md "wikilink")》僅能在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[愛爾蘭播出](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")。目前《[英國版X音素](../Page/英國版X音素.md "wikilink")》已經完成第八季的選秀。
 
 與“偶像”系列節目不同的是，“X音素”系列節目的評委不僅僅是評委，他們同時還是某一個特定組別選手的導師，負責該組選手的選歌、造型和舞蹈設計。
 
@@ -169,14 +169,14 @@ Mon Laferte<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a></p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/激情唱响" title="wikilink">激情唱响</a></em></p></td>
+<td><p><em><a href="../Page/激情唱响.md" title="wikilink">激情唱响</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/辽宁电视台" title="wikilink">辽宁卫视</a><br />
 <a href="https://web.archive.org/web/20110504230911/http://www.xfactor.com.cn/">節目官方網站</a></p></td>
-<td><p>第1季（2011年）：<a href="https://zh.wikipedia.org/wiki/李尚尚" title="wikilink">李尚尚</a><br />
-第2季（2012年）：<a href="https://zh.wikipedia.org/wiki/陈禹蒙" title="wikilink">陈禹蒙</a></p></td>
+<td><p>第1季（2011年）：<a href="../Page/李尚尚.md" title="wikilink">李尚尚</a><br />
+第2季（2012年）：<a href="../Page/陈禹蒙.md" title="wikilink">陈禹蒙</a></p></td>
 <td><p><a href="../Page/柴智屏.md" title="wikilink">柴智屏</a><br />
 <a href="../Page/阿朵.md" title="wikilink">阿朵</a><br />
-<a href="https://zh.wikipedia.org/wiki/陈羽凡" title="wikilink">陈羽凡</a></p></td>
+<a href="../Page/陈羽凡.md" title="wikilink">陈羽凡</a></p></td>
 <td><p>大左<br />
 文杰</p></td>
 </tr>
@@ -184,7 +184,7 @@ Mon Laferte<br />
 <td><p><em><a href="https://zh.wikipedia.org/wiki/中国最强音" title="wikilink">中国最强音</a></em></p></td>
 <td><p><a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a><br />
 <a href="https://web.archive.org/web/20130404000355/http://data.hunantv.com/show_s_788.html#1">节目官方网站</a></p></td>
-<td><p>第1季（2013年）：<a href="https://zh.wikipedia.org/wiki/曾一鸣" title="wikilink">曾一鸣</a></p></td>
+<td><p>第1季（2013年）：<a href="../Page/曾一鸣.md" title="wikilink">曾一鸣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罗大佑" title="wikilink">罗大佑</a><br />
 <a href="https://zh.wikipedia.org/wiki/陈奕迅" title="wikilink">陈奕迅</a><br />
 <a href="../Page/郑钧.md" title="wikilink">郑钧</a><br />
@@ -421,7 +421,7 @@ Season 3, 2012: 即將播出</p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/X_Factor_(Italy)" title="wikilink">X Factor</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rai_2" title="wikilink">Rai 2</a> (2008-2010)<br />
+<td><p><a href="../Page/Rai_2.md" title="wikilink">Rai 2</a> (2008-2010)<br />
 <a href="https://zh.wikipedia.org/wiki/Rai_4" title="wikilink">Rai 4</a> (2009-2010)<br />
 <a href="https://web.archive.org/web/20111219071854/http://www.xfactor.rai.it/">節目官方網站</a><br />
 <a href="https://zh.wikipedia.org/wiki/Sky_Uno" title="wikilink">Sky Uno</a> (2011)<br />
@@ -643,7 +643,7 @@ Yolka<br />
 </tr>
 <tr class="odd">
 <td><p>[3]</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/英國版X音素" title="wikilink">The X Factor</a></em></p></td>
+<td><p><em><a href="../Page/英國版X音素.md" title="wikilink">The X Factor</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ITV" title="wikilink">ITV</a>, <a href="https://zh.wikipedia.org/wiki/ITV1_HD" title="wikilink">ITV1 HD</a> <small>(UK)</small><br />
 <a href="https://zh.wikipedia.org/wiki/TV3_(Ireland)" title="wikilink">TV3</a> <small>(Republic of Ireland)</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_X_Factor_(UK_series_1)" title="wikilink">Series 1, 2004</a>: <a href="https://zh.wikipedia.org/wiki/Steve_Brookstein" title="wikilink">Steve Brookstein</a><br />

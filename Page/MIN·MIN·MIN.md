@@ -38,7 +38,7 @@ ver.）也是SDN的單曲中首次收錄的與AKB的曲目相同的歌曲
 
   - 1期生：今吉めぐみ、[大河内美紗](https://zh.wikipedia.org/wiki/大河内美紗 "wikilink")、**[手束真知子](../Page/手束真知子.md "wikilink")**、[なちゅ](https://zh.wikipedia.org/wiki/なちゅ "wikilink")、[西国原礼子](https://zh.wikipedia.org/wiki/西国原礼子 "wikilink")、三ツ井裕美
   - 2期生：**大山愛未**、細田海友、松島瑠美
-  - 3期生：[光上せあら](https://zh.wikipedia.org/wiki/光上せあら "wikilink")、[駒谷仁美](../Page/駒谷仁美.md "wikilink")、[尻無浜冴美](https://zh.wikipedia.org/wiki/尻無浜冴美 "wikilink")、[シヨン](https://zh.wikipedia.org/wiki/シヨン "wikilink")、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[早川沙世](../Page/早川沙世.md "wikilink")、[miray](../Page/miray.md "wikilink")
+  - 3期生：[光上せあら](https://zh.wikipedia.org/wiki/光上せあら "wikilink")、[駒谷仁美](../Page/駒谷仁美.md "wikilink")、[尻無浜冴美](https://zh.wikipedia.org/wiki/尻無浜冴美 "wikilink")、[シヨン](https://zh.wikipedia.org/wiki/シヨン "wikilink")、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[早川沙世](../Page/早川沙世.md "wikilink")、[miray](https://zh.wikipedia.org/wiki/miray "wikilink")
       - 松島從A調到B。這也是3期生首次參與單曲錄制
 
 ### Everyday、髮箍（SDN48 ver.）

@@ -5,7 +5,7 @@ Vocalostar](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalostar "wikili
 ## 樂曲
 
 歌詞講述機械少女與孤獨的科學家的故事，「心」指的是科學家開發的一個能讓[機械人理解](https://zh.wikipedia.org/wiki/機械人 "wikilink")[感情的](https://zh.wikipedia.org/wiki/感情 "wikilink")-{zh-cn:程序;
-zh-tw:程式;}-。故事感人，衍生了不少[二次創作作品](https://zh.wikipedia.org/wiki/二次創作 "wikilink")。
+zh-tw:程式;}-。故事感人，衍生了不少[二次創作作品](../Page/二次創作.md "wikilink")。
 
 ## 衍生作品
 

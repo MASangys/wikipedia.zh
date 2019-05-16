@@ -117,7 +117,7 @@
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/生死格斗_(电影)" title="wikilink">生死格斗</a>》</p></td>
+<td><p>《<a href="../Page/生死格斗_(电影).md" title="wikilink">生死格斗</a>》</p></td>
 <td><p><em>DOA: Dead or Alive</em></p></td>
 <td></td>
 <td></td>
@@ -144,7 +144,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/深空失忆" title="wikilink">深空失忆</a>》</p></td>
+<td><p>《<a href="../Page/深空失忆.md" title="wikilink">深空失忆</a>》</p></td>
 <td><p><em>Pandorum</em></p></td>
 <td></td>
 <td></td>

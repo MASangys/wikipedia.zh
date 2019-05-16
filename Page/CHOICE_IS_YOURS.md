@@ -1,11 +1,11 @@
 「**CHOICE IS
 YOURS**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")4枚迷你專輯。於2008年6月18日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 與上一張專輯「[ATTACK ALL
-    AROUND](../Page/ATTACK_ALL_AROUND_\(AAA專輯\).md "wikilink")」相距約4個月。與上一張迷你專輯「[alohAAA\!](../Page/alohAAA!.md "wikilink")」相距約1年3個月。
+    AROUND](../Page/ATTACK_ALL_AROUND_\(AAA專輯\).md "wikilink")」相距約4個月。與上一張迷你專輯「[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」相距約1年3個月。
   - 「CHOICE IS YOURS」是由男子組成員擔任主唱，女子組成員並沒有參與其中。
   - 此作收錄了2007年開始配信的4首曲目「Crash」、「Hasta la vista
     ～再見～」、「BET」和「我所驚覺的任性自由」和新曲「ZAPPER」、「Crying

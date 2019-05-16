@@ -48,7 +48,7 @@ Schweitzer更崇拜音樂劇演員裴江熙。雖然去參加過音樂劇選拔�
 
 原 劇團代表 康熙丈夫
 
-  - [吳正世](https://zh.wikipedia.org/wiki/吳正世 "wikilink") 飾　**邱佐**
+  - [吳正世](../Page/吳正世.md "wikilink") 飾　**邱佐**
 
 音樂劇作家，演員洪宰宜的朋友。
 

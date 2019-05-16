@@ -71,7 +71,7 @@ Group）達成合作夥伴關係，後者是尚未與Google Play達成協議的�
 最後，音樂商店於11月13日在法國，德國，意大利，西班牙和英國上線。\[18\]
 
 **Google Play音樂**是與[Google Chromecast
-數位媒體播放器兼容的前四個應用程序之一](https://zh.wikipedia.org/wiki/Chromecast "wikilink")，後者於2013年7月推出。\[19\]
+數位媒體播放器兼容的前四個應用程序之一](../Page/Chromecast.md "wikilink")，後者於2013年7月推出。\[19\]
 
 在2014年10月，推出了一個新的「立即收聽」功能，提供與活動內容相關或預先編排的播放列表。
 該功能源自Songza在該年度季初推出的技術。\[20\]

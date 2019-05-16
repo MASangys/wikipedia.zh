@@ -130,7 +130,7 @@ Gross-Pitaevskii方程的形式类似于一般薛定谔方程，但是多出一�
 \[\epsilon_\boldsymbol{q} = s\hbar q\]
 
 其中\(s=\sqrt{ng/m}\)为凝聚态中的声速。
-\(\epsilon_\boldsymbol{q}/(\hbar q)>s\)表明，根据[Landau的判则](https://zh.wikipedia.org/wiki/Landau "wikilink")，该凝聚态为[超流体](../Page/超流体.md "wikilink")，意味着如果一个物体在凝聚态中以小于\(s\)的速度运动，它不会形成激子，运动无[耗散](https://zh.wikipedia.org/wiki/耗散 "wikilink")，此为超流体的特征。实验上，采用高度聚焦激光，激光频率较共振频率小，已经证明了凝聚态的超流性\[4\]。采用[二次量子化公式](https://zh.wikipedia.org/wiki/二次量子化 "wikilink")，微观方法可以描述凝聚态同样的色散关系。
+\(\epsilon_\boldsymbol{q}/(\hbar q)>s\)表明，根据[Landau的判则](https://zh.wikipedia.org/wiki/Landau "wikilink")，该凝聚态为[超流体](../Page/超流体.md "wikilink")，意味着如果一个物体在凝聚态中以小于\(s\)的速度运动，它不会形成激子，运动无[耗散](../Page/耗散.md "wikilink")，此为超流体的特征。实验上，采用高度聚焦激光，激光频率较共振频率小，已经证明了凝聚态的超流性\[4\]。采用[二次量子化公式](https://zh.wikipedia.org/wiki/二次量子化 "wikilink")，微观方法可以描述凝聚态同样的色散关系。
 
 ## 参考文献
 

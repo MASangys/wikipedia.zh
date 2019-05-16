@@ -68,7 +68,7 @@ Man Chocolate》。
 2010年，Attack Attack\!成為《Artery Across the Nation巡迴》的主秀，與樂團[Asking
 Alexandria](../Page/Asking_Alexandria.md "wikilink")、[I See
 Stars](../Page/I_See_Stars.md "wikilink")、[Breathe
-Carolina與](https://zh.wikipedia.org/wiki/Breathe_Carolina "wikilink")[Bury
+Carolina與](../Page/Breathe_Carolina.md "wikilink")[Bury
 Tomorrow在年初同台演出](https://zh.wikipedia.org/wiki/Bury_Tomorrow "wikilink")。在發片前夕，他們更進一步演奏了三首來自《Attack
 Attack\!》的歌曲。分別是《Sexual Man Chocolate》、《AC-130》和《A For
 Andrew》。\[13\]2010年六月8日發行了同名專輯。
@@ -82,7 +82,7 @@ Shomo包辦清腔與吼腔的歌曲。\[17\]來自樂團[My Ticket
 Home的主唱Sean](https://zh.wikipedia.org/wiki/My_Ticket_Home "wikilink")
 Mackowski暫時遞補這個空職。而MV*Smokahontas*在隔年的一月21日發布。\[18\]其中，My Ticket
 Home的主唱Sean Mackowski和[In Fear and
-Faith的前主唱Cody](../Page/In_Fear_and_Faith.md "wikilink")
+Faith的前主唱Cody](https://zh.wikipedia.org/wiki/In_Fear_and_Faith "wikilink")
 Anderson都參與了MV的拍攝。\[19\]終於在2011年，Attack Attack\!在[Warped
 Tour的主場舞台上表演](https://zh.wikipedia.org/wiki/Warped_Tour "wikilink")。
 

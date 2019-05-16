@@ -9,7 +9,7 @@ Data在星际旅行系列中被星迷们认为是[斯波克的继任者](https:/
 
 ## 人物特性
 
-《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》之父[吉恩·罗登伯里曾说过](https://zh.wikipedia.org/wiki/吉恩·罗登伯里 "wikilink")，“Data这一角色将会越来越人性，但却成不了完完全全的人类，始终会差那么一点。”Data的扮演者[布伦特·斯派尔则认为Data有点类似于](../Page/布伦特·斯派尔.md "wikilink")[卓别林所饰演的那种带一点悲伤的](https://zh.wikipedia.org/wiki/卓别林 "wikilink")[小丑](../Page/小丑.md "wikilink")。\[7\]为了演好Data这一角色，斯派尔曾借鉴过[禁忌星球](https://zh.wikipedia.org/wiki/禁忌星球 "wikilink")（Forbidden
+《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》之父[吉恩·罗登伯里曾说过](https://zh.wikipedia.org/wiki/吉恩·罗登伯里 "wikilink")，“Data这一角色将会越来越人性，但却成不了完完全全的人类，始终会差那么一点。”Data的扮演者[布伦特·斯派尔则认为Data有点类似于](../Page/布伦特·斯派尔.md "wikilink")[卓别林所饰演的那种带一点悲伤的](https://zh.wikipedia.org/wiki/卓别林 "wikilink")[小丑](../Page/小丑.md "wikilink")。\[7\]为了演好Data这一角色，斯派尔曾借鉴过[禁忌星球](../Page/禁忌星球.md "wikilink")（Forbidden
 Planet）中机器人罗比的表演方式。\[8\]
 Data在剧中的形象有些机械化，面部十分白，体现了Data由金属制成的特性。斯派尔曾回忆称“我有时要花上大半天的时间来化妆，就为了表现出Data机器人的特性。”\[9\]
 
@@ -45,7 +45,7 @@ Tripoli星舰上服役\[14\]。
 
 ### 全息影像
 
-Data酷爱[夏洛特·福尔摩斯](https://zh.wikipedia.org/wiki/夏洛特·福尔摩斯 "wikilink")，他也十分喜爱阅读用[全息技术做成的福尔摩斯侦探小说](https://zh.wikipedia.org/wiki/全息技术 "wikilink")。Data还有打[扑克牌的爱好](https://zh.wikipedia.org/wiki/扑克牌 "wikilink")。在星际旅行系列中，Data曾在全息影像甲板上与[霍金](https://zh.wikipedia.org/wiki/霍金 "wikilink")（由史蒂芬·霍金亲自扮演）、[爱因斯坦和](https://zh.wikipedia.org/wiki/爱因斯坦 "wikilink")[牛顿这三位不同时期的物理学家一起玩过扑克牌](https://zh.wikipedia.org/wiki/牛顿 "wikilink")\[19\]。
+Data酷爱[夏洛特·福尔摩斯](https://zh.wikipedia.org/wiki/夏洛特·福尔摩斯 "wikilink")，他也十分喜爱阅读用[全息技术做成的福尔摩斯侦探小说](https://zh.wikipedia.org/wiki/全息技术 "wikilink")。Data还有打[扑克牌的爱好](../Page/扑克牌.md "wikilink")。在星际旅行系列中，Data曾在全息影像甲板上与[霍金](https://zh.wikipedia.org/wiki/霍金 "wikilink")（由史蒂芬·霍金亲自扮演）、[爱因斯坦和](https://zh.wikipedia.org/wiki/爱因斯坦 "wikilink")[牛顿这三位不同时期的物理学家一起玩过扑克牌](https://zh.wikipedia.org/wiki/牛顿 "wikilink")\[19\]。
 
 ### 艺术和宠物
 

@@ -1,11 +1,11 @@
 **SPICA**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B2M娛樂](../Page/B2M娛樂.md "wikilink")
-公司於2012年1月10日所推出的女子五人團體\[1\]。成員由[金甫娥](../Page/金甫娥.md "wikilink")、[朴是炫](https://zh.wikipedia.org/wiki/朴是炫 "wikilink")、[朴娜萊](../Page/朴娜萊.md "wikilink")、[楊知元](../Page/楊知元.md "wikilink")、[金保亨組成](../Page/金保亨.md "wikilink")。
+公司於2012年1月10日所推出的女子五人團體\[1\]。成員由[金甫娥](../Page/金甫娥.md "wikilink")、[朴是炫](../Page/朴是炫.md "wikilink")、[朴娜萊](../Page/朴娜萊.md "wikilink")、[楊知元](../Page/楊知元.md "wikilink")、[金保亨組成](../Page/金保亨.md "wikilink")。
 
-組合名稱由來是[室女座中最明亮的](../Page/室女座.md "wikilink")[角宿一](../Page/角宿一.md "wikilink")，為秋季作物收穫的象徵星，意欲SPICA成為歌謠界最閃耀的星星。未出道便被韓國各大媒體給予厚望，稱其為“第二個[FIN.K.L](https://zh.wikipedia.org/wiki/FIN.K.L "wikilink")”、“第二個[Kara](../Page/Kara.md "wikilink")”、“[李孝利的女子組合](../Page/李孝利.md "wikilink")”。
+組合名稱由來是[室女座中最明亮的](../Page/室女座.md "wikilink")[角宿一](../Page/角宿一.md "wikilink")，為秋季作物收穫的象徵星，意欲SPICA成為歌謠界最閃耀的星星。未出道便被韓國各大媒體給予厚望，稱其為“第二個[FIN.K.L](../Page/FIN.K.L.md "wikilink")”、“第二個[Kara](../Page/Kara.md "wikilink")”、“[李孝利的女子組合](../Page/李孝利.md "wikilink")”。
 
 首張數位單曲《狠毒地》於2012年1月10日公開，同年2月9日以迷你一輯《Russian Roulette》正式出道。
 
-SPICA**全員亦為主唱**，多張專輯製作成員均參與其中。其中[金甫娥為隊長](../Page/金甫娥.md "wikilink")，[朴是炫則兼任Rapper](https://zh.wikipedia.org/wiki/朴是炫 "wikilink")。
+SPICA**全員亦為主唱**，多張專輯製作成員均參與其中。其中[金甫娥為隊長](../Page/金甫娥.md "wikilink")，[朴是炫則兼任Rapper](../Page/朴是炫.md "wikilink")。
 
 官方應援物為紫色毛巾。官方FAN
 CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")」。角宿一是處女座中最明亮的星星，而處女座的守護星是水星，寓意歌迷會永遠守護SPICA。
@@ -32,8 +32,8 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
     Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」進行出道舞台，當晚錄製出道後第一個通告行程[MBC標準FM](https://zh.wikipedia.org/wiki/MBC "wikilink")《神童的深深打破》。
   - 2月14日，宣布代言MK流行運動休閒品牌〔NBA〕，畫報拍攝早於2月1日結束\[10\]。
   - 2月19日，隊長[金甫娥公開出席](../Page/金甫娥.md "wikilink")
-    [KARA](../Page/KARA.md "wikilink") 1st亞洲巡迴演唱會（KARA The Asia
-    Tour－KARASIA）。
+    [KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")
+    1st亞洲巡迴演唱會（KARA The Asia Tour－KARASIA）。
   - 2月26日，結束[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》音樂現場後舉行首場迷你FANS見面會。
   - 3月24日，[B2M娛樂官方Youtube頻道公開於改版迷你一輯](../Page/B2M娛樂.md "wikilink")《[Painkiller](https://zh.wikipedia.org/wiki/Painkiller "wikilink")》MV預告。
   - 3月29日，線上音源與實體CD同步發售，官方完整版MV亦同時公開。
@@ -49,7 +49,7 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
     MUSIC及[B2M娛樂官方Youtube頻道公開](../Page/B2M娛樂.md "wikilink")。
   - 9月19日，線上音源及官方完整版MV同步於當日正午公開，當周發行Gaon數位音源排名第45位，統計銷售數6,471,127\[11\]。
   - 11月9日，甫結束《[I'll Be
-    There](../Page/I'll_Be_There.md "wikilink")》的宣傳活動後，旋即在官方Twitter公開成員們新曲的回歸概念照，並宣布於11月21日發行名為《[Lonely](https://zh.wikipedia.org/wiki/Lonely "wikilink")》的第二張迷你專輯。此專輯由Sweetune音樂團隊製作並創作主打歌曲《[Lonely](https://zh.wikipedia.org/wiki/Lonely "wikilink")》：講述與男友分手的女生獨自走在以前與戀人約會的路上，對男友無限思念的細膩感情。專輯其他收錄曲包含了成員金甫娥親自填詞作曲的《with
+    There](../Page/I'll_Be_There.md "wikilink")》的宣傳活動後，旋即在官方Twitter公開成員們新曲的回歸概念照，並宣布於11月21日發行名為《[Lonely](../Page/Lonely.md "wikilink")》的第二張迷你專輯。此專輯由Sweetune音樂團隊製作並創作主打歌曲《[Lonely](../Page/Lonely.md "wikilink")》：講述與男友分手的女生獨自走在以前與戀人約會的路上，對男友無限思念的細膩感情。專輯其他收錄曲包含了成員金甫娥親自填詞作曲的《with
     you》與金保亨作詞／曲的《那晚》，成員們通過此張專輯展現專業的音樂人實力。
   - 12月1日，為紀念其代言的品牌Doly\&Moly駐店首爾明洞樂天百貨而於百貨青年廣場舉行首場粉絲簽名會。
 
@@ -121,15 +121,15 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
   -
     <small>詳細資料請參閱各成員頁面，成員已正名。나래為純韓文名。\[26\]</small>
 
-|                                                           |      |              |         |
-| --------------------------------------------------------- | ---- | ------------ | ------- |
-| 姓名                                                        | 出生日期 | 資料           | 學歷      |
-| 漢字                                                        | 韓字   | 羅馬拼音         | 日文      |
-| [朴是炫](https://zh.wikipedia.org/wiki/朴是炫 "wikilink")\[27\] | 박시현  | Park Si Hyun | パク·シヒョン |
-| [金甫娥](../Page/金甫娥.md "wikilink")                          | 김보아  | Kim Bo A     | キム・ボア   |
-| [朴娜萊](../Page/朴娜萊.md "wikilink")                          | 박나래  | Park Na Rae  | パク・ナレ   |
-| [楊知元](../Page/楊知元.md "wikilink")                          | 양지원  | Yang Ji Won  | ヤン・ジウォン |
-| [金保亨](../Page/金保亨.md "wikilink")                          | 김보형  | Kim Bo Hyung | キム・ボヒョン |
+|                                        |      |              |         |
+| -------------------------------------- | ---- | ------------ | ------- |
+| 姓名                                     | 出生日期 | 資料           | 學歷      |
+| 漢字                                     | 韓字   | 羅馬拼音         | 日文      |
+| [朴是炫](../Page/朴是炫.md "wikilink")\[27\] | 박시현  | Park Si Hyun | パク·シヒョン |
+| [金甫娥](../Page/金甫娥.md "wikilink")       | 김보아  | Kim Bo A     | キム・ボア   |
+| [朴娜萊](../Page/朴娜萊.md "wikilink")       | 박나래  | Park Na Rae  | パク・ナレ   |
+| [楊知元](../Page/楊知元.md "wikilink")       | 양지원  | Yang Ji Won  | ヤン・ジウォン |
+| [金保亨](../Page/金保亨.md "wikilink")       | 김보형  | Kim Bo Hyung | キム・ボヒョン |
 
 ## SPICA Project
 
@@ -153,7 +153,7 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
 
   - 2012年：[Russian Roulette](../Page/Russian_Roulette.md "wikilink")
   - 2012年：Painkiller
-  - 2012年：[Lonely](https://zh.wikipedia.org/wiki/Lonely "wikilink")
+  - 2012年：[Lonely](../Page/Lonely.md "wikilink")
 
 ## 影視作品
 
@@ -174,7 +174,7 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
 | ----------------------------------------------------- | -------------------------- | --- | ------------------------------------------------------- | ------ |
 | 年份                                                    | 廣告名稱                       | 成員  | 合作藝人                                                    | 附註     |
 | 2010年                                                 | Chapstick潤唇膏               | 楊知元 | [MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink") |        |
-| 2012年                                                 | MK流行運動休閒品牌〔NBA〕            | 全體  | [朴敏雨](https://zh.wikipedia.org/wiki/朴敏雨 "wikilink")     |        |
+| 2012年                                                 | MK流行運動休閒品牌〔NBA〕            | 全體  | [朴敏雨](../Page/朴敏雨.md "wikilink")                        |        |
 | 2012年                                                 | 流行休閒品牌 Dolly & Molly\[28\] | 全體  |                                                         |        |
 | 2013年                                                 | 大韓民國e-Sports（電子競技）宣傳大使     | 全體  |                                                         |        |
 | 2015年                                                 | Welcome 儲蓄銀行               | 朴娜萊 |                                                         | 僅為品牌模特 |
@@ -239,7 +239,7 @@ CLUB名稱為**Mercury**，即是中文「[水星](../Page/水星.md "wikilink")
 | [Russian Roulette](../Page/Russian_Roulette.md "wikilink")                         |
 | [Painkiller](https://zh.wikipedia.org/wiki/Painkiller "wikilink")                  |
 | [I'll Be There](../Page/I'll_Be_There.md "wikilink")                               |
-| [Lonely](https://zh.wikipedia.org/wiki/Lonely "wikilink")                          |
+| [Lonely](../Page/Lonely.md "wikilink")                                             |
 | 2013年                                                                              |
 | [Tonight](https://zh.wikipedia.org/wiki/Tonight_\(SPICA_EP\) "wikilink")           |
 | 2014年                                                                              |

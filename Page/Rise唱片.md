@@ -16,8 +16,7 @@ Vision唱片](../Page/Equal_Vision唱片.md "wikilink")。
 
 接下來所簽約的樂團[Drop Dead,
 Gorgeous](https://zh.wikipedia.org/wiki/Drop_Dead,_Gorgeous "wikilink")、[Breathe
-Carolina](https://zh.wikipedia.org/wiki/Breathe_Carolina "wikilink")、[The
-Devil Wears
+Carolina](../Page/Breathe_Carolina.md "wikilink")、[The Devil Wears
 Prada在Rise簽約時期獲得廣大迴響](https://zh.wikipedia.org/wiki/The_Devil_Wears_Prada "wikilink")，使他們進一步到更大間的唱片公司如[Suretone唱片](https://zh.wikipedia.org/wiki/Suretone唱片 "wikilink")、[Fearless唱片與](../Page/Fearless唱片.md "wikilink")[Ferret唱片](https://zh.wikipedia.org/wiki/Ferret唱片 "wikilink")，同時Rise也簽了一些頗有名氣的樂團像是
 [The Bled](https://zh.wikipedia.org/wiki/The_Bled "wikilink"), [Bleeding
 Through](https://zh.wikipedia.org/wiki/Bleeding_Through "wikilink")、[This
@@ -56,7 +55,8 @@ Sunrise的前鼓手](https://zh.wikipedia.org/wiki/Cinematic_Sunrise "wikilink")
     Dreams](https://zh.wikipedia.org/wiki/For_the_Fallen_Dreams "wikilink")\[10\]
   - [Hot Water
     Music](https://zh.wikipedia.org/wiki/Hot_Water_Music "wikilink")\[11\]
-  - [In Fear and Faith](../Page/In_Fear_and_Faith.md "wikilink")\[12\]
+  - [In Fear and
+    Faith](https://zh.wikipedia.org/wiki/In_Fear_and_Faith "wikilink")\[12\]
   - Legend\[13\]
   - [Like Moths to
     Flames](https://zh.wikipedia.org/wiki/Like_Moths_to_Flames "wikilink")\[14\]
@@ -112,8 +112,7 @@ Sunrise的前鼓手](https://zh.wikipedia.org/wiki/Cinematic_Sunrise "wikilink")
   - [Before Their
     Eyes](https://zh.wikipedia.org/wiki/Before_Their_Eyes "wikilink")
     (活動中，於[inVogue唱片](https://zh.wikipedia.org/wiki/inVogue唱片 "wikilink"))
-  - [Breathe
-    Carolina](https://zh.wikipedia.org/wiki/Breathe_Carolina "wikilink")
+  - [Breathe Carolina](../Page/Breathe_Carolina.md "wikilink")
     (活動中，於[Fearless唱片](../Page/Fearless唱片.md "wikilink"))
   - [Dead and
     Divine](https://zh.wikipedia.org/wiki/Dead_and_Divine "wikilink")

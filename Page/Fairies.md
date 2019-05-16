@@ -149,7 +149,7 @@ PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
 </table>
 
   - 全員平均跳舞年資大約等於2006年至今，即平均高達6年的豐富舞蹈經驗。
-  - 全員被安排就讀[東京同一所中學](https://zh.wikipedia.org/wiki/東京 "wikilink")，並在同一間宿舍共同生活，關係密切。[土田晃之曾問她們所就讀的學校名稱是否叫](https://zh.wikipedia.org/wiki/土田晃之 "wikilink")「Fairies中學」。\[7\]
+  - 全員被安排就讀[東京同一所中學](https://zh.wikipedia.org/wiki/東京 "wikilink")，並在同一間宿舍共同生活，關係密切。[土田晃之曾問她們所就讀的學校名稱是否叫](../Page/土田晃之.md "wikilink")「Fairies中學」。\[7\]
 
 ## 簡歷
 
@@ -225,7 +225,7 @@ PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2012年11月14日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/White_Angel" title="wikilink">White Angel</a></strong></p></td>
+<td><p><strong><a href="../Page/White_Angel.md" title="wikilink">White Angel</a></strong></p></td>
 <td><p>5位</p></td>
 <td><p><strong>White Angel</strong>是<a href="https://zh.wikipedia.org/wiki/TBS系" title="wikilink">TBS</a>「<a href="https://zh.wikipedia.org/wiki/イカさま☆タコさま" title="wikilink">イカさま☆タコさま</a>」片尾曲</p></td>
 </tr>
@@ -249,7 +249,7 @@ PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
 </dl>
 <p>光の果てに（MUSIC VIDEO） ＋ 特典映像</p></td>
 <td><p>6位</p></td>
-<td><p><strong>光の果てに</strong>是「<a href="https://zh.wikipedia.org/wiki/寶石寵物_Happiness" title="wikilink">寶石寵物 Happiness</a> 」片頭曲（第1話 - 第39話）、片尾曲</p></td>
+<td><p><strong>光の果てに</strong>是「<a href="../Page/寶石寵物_Happiness.md" title="wikilink">寶石寵物 Happiness</a> 」片頭曲（第1話 - 第39話）、片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -273,7 +273,7 @@ PUMP等衆多明星](../Page/DA_PUMP.md "wikilink")。
 Run With U　-MAKING-<br />
 Run With U -TV size Dance Edition-</p></td>
 <td><p>8位</p></td>
-<td><p><strong>Run With U</strong>是「<a href="https://zh.wikipedia.org/wiki/寶石寵物_Happiness" title="wikilink">寶石寵物 Happiness</a> 」片頭曲（第40話 - 第52話）</p></td>
+<td><p><strong>Run With U</strong>是「<a href="../Page/寶石寵物_Happiness.md" title="wikilink">寶石寵物 Happiness</a> 」片頭曲（第40話 - 第52話）</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>

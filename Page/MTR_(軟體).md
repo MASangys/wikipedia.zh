@@ -1,5 +1,5 @@
 **MTR**（My traceroute，原名Matt's
-traceroute）是一套網路診斷工具，包含了[traceroute與](../Page/traceroute.md "wikilink")[ping的功能](../Page/ping.md "wikilink")。
+traceroute）是一套網路診斷工具，包含了[traceroute與](https://zh.wikipedia.org/wiki/traceroute "wikilink")[ping的功能](https://zh.wikipedia.org/wiki/ping "wikilink")。
 
 ## 歷史
 
@@ -33,8 +33,8 @@ Hostname                            %Loss  Rcv  Snt  Last Best  Avg  Worst
 
 ## 參考
 
-  - [traceroute](../Page/traceroute.md "wikilink")
-  - [ping](../Page/ping.md "wikilink")
+  - [traceroute](https://zh.wikipedia.org/wiki/traceroute "wikilink")
+  - [ping](https://zh.wikipedia.org/wiki/ping "wikilink")
 
 ## 外部連結
 

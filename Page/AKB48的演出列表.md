@@ -30,9 +30,8 @@
   - [馬路須加學園3](https://zh.wikipedia.org/wiki/馬路須加學園#馬路須加學園3 "wikilink")（2012年7月13日
     - 10月5日、東京電視台） -
     島崎（主演）・北原・[阿部マリア](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")・[市川美織](../Page/市川美織.md "wikilink")・[入山杏奈](../Page/入山杏奈.md "wikilink")・[岩田華怜](../Page/岩田華怜.md "wikilink")・大場・[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")・[川榮李奈](../Page/川榮李奈.md "wikilink")・島田・[高橋朱里](../Page/高橋朱里.md "wikilink")・[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")・田野優花・[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")・永尾・中村・[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")+SKE48（[木﨑ゆりあ](https://zh.wikipedia.org/wiki/木﨑ゆりあ "wikilink")・松井珠・矢神・[高柳明音](../Page/高柳明音.md "wikilink")・木本）+[HKT48](../Page/HKT48.md "wikilink")（[村重杏奈](../Page/村重杏奈.md "wikilink")）
-  - [So long
-    \!](https://zh.wikipedia.org/wiki/So_long_!_\(日本電視劇\) "wikilink")（2013年2月11日
-    - 13日、日本電視台）
+  - [So long \!](../Page/So_long_!_\(日本電視劇\).md "wikilink")（2013年2月11日 -
+    13日、日本電視台）
       - 第1夜（2013年2月11日）：篠田TeamA（主演・[渡辺麻友](https://zh.wikipedia.org/wiki/渡辺麻友 "wikilink")）
       - 第2夜（2013年2月12日）：大島TeamK（主演・大島優子）
       - 第3夜（2013年2月13日）：梅田TeamB（主演・島崎遥香）
@@ -45,16 +44,13 @@
 
   - [NHK綜合](../Page/NHK綜合頻道.md "wikilink")
       - [Shibuya Deep
-        A](https://zh.wikipedia.org/wiki/Shibuya_Deep_A "wikilink")（2007年2月9日－）
-        -
+        A](../Page/Shibuya_Deep_A.md "wikilink")（2007年2月9日－） -
         不定期出演（深夜直播，18歳以上的成員出演。[SKE48](../Page/SKE48.md "wikilink")、[NMB48亦有出演](../Page/NMB48.md "wikilink")）
       - [コロッケぱらだいす
         ごきげん歌謡笑劇団](https://zh.wikipedia.org/wiki/ごきげん歌謡笑劇団 "wikilink")（2012年4月14日
         - ） -
-        每回替換1名（主要是[office48](../Page/office48.md "wikilink")、[堀製作所屬成員](https://zh.wikipedia.org/wiki/堀製作 "wikilink")）
-      - [AKB48
-        SHOW\!](https://zh.wikipedia.org/wiki/AKB48_SHOW! "wikilink")（2013年10月5日
-        - ）
+        每回替換1名（主要是[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")、[堀製作所屬成員](https://zh.wikipedia.org/wiki/堀製作 "wikilink")）
+      - [AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")（2013年10月5日 - ）
   - [NHK教育→NHK E頻道](../Page/NHK教育頻道.md "wikilink")
       - [R的法則](../Page/R的法則.md "wikilink")（2011年2月23日・3月30日 - ） -
         [多田愛佳](../Page/多田愛佳.md "wikilink")・[前田亞美](../Page/前田亞美.md "wikilink")・[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")\[1\]・[宮崎美穗](../Page/宮崎美穗.md "wikilink")\[2\]・[小森美果](../Page/小森美果.md "wikilink")\[3\]
@@ -87,7 +83,7 @@
       - [スクール Live
         Show](https://zh.wikipedia.org/wiki/スクールライブショー "wikilink")（2011年4月15日
         - 2012年3月） -
-        不定期出演（[office48所屬成員](../Page/office48.md "wikilink")、for
+        不定期出演（[office48所屬成員](https://zh.wikipedia.org/wiki/office48 "wikilink")、for
         TEENS的環節担当由1名出演。與for KIDS 2個節目2週播放、主要是for TEENS出演）
   - 日本電視台
       - [AKB1時59分！](../Page/AKB1時59分！.md "wikilink")（2008年1月24日－3月27日）：首個[地面電視正規節目](../Page/地面電視.md "wikilink")
@@ -102,8 +98,8 @@
         2013年3月30日） - HKT48定期出演，由48團體1名成員以嘉賓出演。
       - [SKE48的魔法廣播3](../Page/SKE48的魔法廣播.md "wikilink")（2013年1月20日 -
         4月7日）- 北原・松井珠
-      - [週六夜兒童機器](https://zh.wikipedia.org/wiki/週六夜兒童機器 "wikilink")（，2013年4月13日
-        - 6月29日）：Team B專屬的冠名節目。
+      - [週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")（，2013年4月13日 -
+        6月29日）：Team B專屬的冠名節目。
   - TBS
       - （2010年4月19日－9月20日）：成員中會有2人會參與節目。
 
@@ -112,11 +108,11 @@
       - [AKB自動車部](https://zh.wikipedia.org/wiki/AKB自動車部 "wikilink")（2012年4月28日
         - 9月29日） -
         AKB自動車部所屬成員（AKB48成員19名、SKE48成員2名、NMB48成員1名）+畢業生（前田敦）其他
-      - [快餐咖啡店伊甸園](https://zh.wikipedia.org/wiki/快餐咖啡店伊甸園 "wikilink")（2012年10月21日
-        - 2013年3月） -
+      - [快餐咖啡店伊甸園](../Page/快餐咖啡店伊甸園.md "wikilink")（2012年10月21日 -
+        2013年3月） -
         [no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")（每月1回星期日、全6回）
-      - [AKB映像中心](https://zh.wikipedia.org/wiki/AKB映像中心 "wikilink")（2013年4月21日
-        - 2013年9月29日 ）（指原莉乃、AKB48 group 每週3－4名成員)
+      - [AKB映像中心](../Page/AKB映像中心.md "wikilink")（2013年4月21日 - 2013年9月29日
+        ）（指原莉乃、AKB48 group 每週3－4名成員)
   - 朝日電視台
       - 三竹占卜（2006年4月－9月）：「做角」告知擔當。
       - 三竹天狗（2006年10月－2007年3月）：「來自秋元大天狗的刺客」與其餘3名成員出演。
@@ -130,14 +126,13 @@
       - [週刊AKB](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")（2009年7月10日
         - 2012年11月30日）
 
-      - [AKB子兔道場](https://zh.wikipedia.org/wiki/AKB子兔道場 "wikilink")（2012年12月7日
-        -2014年3月28日
+      - [AKB子兔道場](../Page/AKB子兔道場.md "wikilink")（2012年12月7日 -2014年3月28日
         ）：全66回《[周刊AKB](https://zh.wikipedia.org/wiki/周刊AKB "wikilink")》的後續節目
   - 地方局
       - [熱血BO-SO
         TV](https://zh.wikipedia.org/wiki/熱血BO-SO_TV "wikilink")（2010年4月3日
         -
-        2011年6月18日；[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")）：主要是隸屬於[office48的成員](../Page/office48.md "wikilink")，以及跟千葉縣有关的成員
+        2011年6月18日；[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")）：主要是隸屬於[office48的成員](https://zh.wikipedia.org/wiki/office48 "wikilink")，以及跟千葉縣有关的成員
 
       - （2010年－2011年；[SUN電視台他独立UHF局等播放](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")）
   - CS
@@ -146,7 +141,7 @@
       - [AKB48+10\!](../Page/AKB48+10!.md "wikilink")（2007年10月－2009年9月；エンタ\!371）：主要是Team
         B成員出演。
       - [AKB1/48](https://zh.wikipedia.org/wiki/AKB1/48 "wikilink")（2009年11月18日－2010年6月；エンタ\!371）
-      - [AKB-級美食家運動場](https://zh.wikipedia.org/wiki/AKB-級美食家運動場 "wikilink")（・）
+      - [AKB-級美食家運動場](../Page/AKB-級美食家運動場.md "wikilink")（・）
           - AKB-級美食家運動場（2010年6月27日 - 8月15日）
           - AKB-級美食家運動場 Season2（2010年12月5日 - 2011年2月13日；）
       - [AKB48神TV系列](../Page/AKB48神TV.md "wikilink")（家庭劇場）
@@ -193,7 +188,7 @@
       - [PRODUCE
         48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")（2018年6月15日
         -
-        ）：韩国选秀节目，参与成员[后藤萌咲](https://zh.wikipedia.org/wiki/后藤萌咲 "wikilink")、[永野芹佳](https://zh.wikipedia.org/wiki/永野芹佳 "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")、[中西智代梨](https://zh.wikipedia.org/wiki/中西智代梨 "wikilink")、[茂木忍](https://zh.wikipedia.org/wiki/茂木忍 "wikilink")、[武藤十梦](../Page/武藤十梦.md "wikilink")、[宫崎美穗](https://zh.wikipedia.org/wiki/宫崎美穗 "wikilink")、[佐藤美波](https://zh.wikipedia.org/wiki/佐藤美波 "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[下尾美羽](https://zh.wikipedia.org/wiki/下尾美羽 "wikilink")、[浅井七海](https://zh.wikipedia.org/wiki/浅井七海 "wikilink")、[小田绘里奈](https://zh.wikipedia.org/wiki/小田绘里奈 "wikilink")、[岩立沙穗](https://zh.wikipedia.org/wiki/岩立沙穗 "wikilink")、[市川爱美](https://zh.wikipedia.org/wiki/市川爱美 "wikilink")、[千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")、[小嶋真子](https://zh.wikipedia.org/wiki/小嶋真子 "wikilink")、[高桥朱里](https://zh.wikipedia.org/wiki/高桥朱里 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[本田仁美及其他AKB](https://zh.wikipedia.org/wiki/本田仁美 "wikilink")48集团成员共39名
+        ）：韩国选秀节目，参与成员[后藤萌咲](https://zh.wikipedia.org/wiki/后藤萌咲 "wikilink")、[永野芹佳](https://zh.wikipedia.org/wiki/永野芹佳 "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")、[中西智代梨](../Page/中西智代梨.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")、[武藤十梦](../Page/武藤十梦.md "wikilink")、[宫崎美穗](https://zh.wikipedia.org/wiki/宫崎美穗 "wikilink")、[佐藤美波](https://zh.wikipedia.org/wiki/佐藤美波 "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[下尾美羽](https://zh.wikipedia.org/wiki/下尾美羽 "wikilink")、[浅井七海](https://zh.wikipedia.org/wiki/浅井七海 "wikilink")、[小田绘里奈](https://zh.wikipedia.org/wiki/小田绘里奈 "wikilink")、[岩立沙穗](../Page/岩立沙穗.md "wikilink")、[市川爱美](https://zh.wikipedia.org/wiki/市川爱美 "wikilink")、[千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[高桥朱里](https://zh.wikipedia.org/wiki/高桥朱里 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[本田仁美及其他AKB](https://zh.wikipedia.org/wiki/本田仁美 "wikilink")48集团成员共39名
 
 ### 特別節目
 
@@ -288,7 +283,7 @@
     小嶋陽・市川・大場・加藤・川栄・島崎・島田・高橋朱・竹内・永尾・中村・小林茉・光宗
 
   - [AKB48
-    笑淚交織](https://zh.wikipedia.org/wiki/AKB48_笑淚交織 "wikilink")（東寶映像事業部發行，2013年2月1日上映）：以AKB48為主題的紀錄電影。
+    笑淚交織](../Page/AKB48_笑淚交織.md "wikilink")（東寶映像事業部發行，2013年2月1日上映）：以AKB48為主題的紀錄電影。
 
   - [AKB48
     光荣时刻](https://zh.wikipedia.org/wiki/AKB48_光荣时刻 "wikilink")\[15\]（2014.7.4上映，东宝株式会社发行）：主要内容包括在成员和歌迷中引起巨大骚动的大组阁、一直带领团体前进的大岛优子的毕业、5·25AKB48握手会伤人事件，以及在6月举办的「AKB48

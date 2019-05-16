@@ -6,7 +6,7 @@
 
 主人公在一天又一天的学园生活之中，由于怀疑自己终将失去这平淡的日常，而被逐渐吸引到被称作“永恒的世界”的另一个精神世界中去。本作是一部以已经逝去的思念和为了生存下去的羁绊为主题的寓言式的作品。用朦胧的恋爱场景吸引玩家的感情，之后用戏剧性的离别和再会的场景将玩家感动得热泪盈眶，本作的这种套路成为之后恋爱冒险游戏的一种模式。正因为如此，本作也被认为是开创“泣系”GAL的作品之一\[3\]。元长征木曾评论说，ONE的存在自身就是个奇迹，没有可以代替ONE的作品\[4\]。另外，NEXTON的另一品牌[BaseSon发售继承](../Page/BaseSon.md "wikilink")“永恒的世界”的设定的姐妹作[ONE2～永远的约定～](https://zh.wikipedia.org/wiki/ONE2～永远的约定～ "wikilink")。
 
-由于ONE的前作[MOON.短期的销售额不如Tactics的处女作](../Page/MOON..md "wikilink")[同棲](https://zh.wikipedia.org/wiki/同棲 "wikilink")，所以ONE的企划是比较容易确保销售额的学园恋爱游戏（[MOON.是长期销售的类型](../Page/MOON..md "wikilink")）。制作的时候社长的命令是“制作像（[Leaf的](../Page/Leaf.md "wikilink")）[To
+由于ONE的前作[MOON.短期的销售额不如Tactics的处女作](../Page/MOON..md "wikilink")[同棲](../Page/同棲.md "wikilink")，所以ONE的企划是比较容易确保销售额的学园恋爱游戏（[MOON.是长期销售的类型](../Page/MOON..md "wikilink")）。制作的时候社长的命令是“制作像（[Leaf的](../Page/Leaf.md "wikilink")）[To
 Heart那样的游戏](../Page/To_Heart.md "wikilink")！”，所以序章里主人公同青梅竹马的对话和[To
 Heart非常相似](../Page/To_Heart.md "wikilink")。本作的核心“永恒的世界”在Visual Art Fun
 Book中的企划书里只不过被称作“不过是为了演出离别场景的舞台道具”而已。

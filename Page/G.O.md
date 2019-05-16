@@ -26,16 +26,16 @@ CAMP。
 
 ### 影視原聲帶
 
-|      |                                                              |                                                                               |                            |
-| ---- | ------------------------------------------------------------ | ----------------------------------------------------------------------------- | -------------------------- |
-| 年份   | 發佈日期                                                         | 影視名稱                                                                          | 歌曲名稱                       |
-| 2011 | 10月25日                                                       | 韓影《Mr.Idol》                                                                   | Believe                    |
-| 2012 | 3月19日                                                        | 韓劇《[K-POP最強生死戰](https://zh.wikipedia.org/wiki/K-POP最強生死戰 "wikilink")》         | I Already Knew (feat. Mir) |
-| 2013 | 3月20日                                                        | 韓劇《[IRIS 2](../Page/IRIS_2.md "wikilink")》                                    | 像傻瓜一樣的我 (feat. Mir)\[8\]   |
-| 2014 | 1月27日                                                        | 韓劇《[需要浪漫3](https://zh.wikipedia.org/wiki/需要浪漫3 "wikilink")》                   | You                        |
-| 6月3日 | 韓劇《[Dr.異鄉人](https://zh.wikipedia.org/wiki/異鄉人醫生 "wikilink")》 | 就像明天不會到來一樣                                                                    |                            |
-| 2016 | 2月13日                                                        | 韓劇《[Madame Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink")》 | 愛情無感症                      |
-|      |                                                              |                                                                               |                            |
+|      |                                           |                                                                               |                            |
+| ---- | ----------------------------------------- | ----------------------------------------------------------------------------- | -------------------------- |
+| 年份   | 發佈日期                                      | 影視名稱                                                                          | 歌曲名稱                       |
+| 2011 | 10月25日                                    | 韓影《Mr.Idol》                                                                   | Believe                    |
+| 2012 | 3月19日                                     | 韓劇《[K-POP最強生死戰](../Page/K-POP最強生死戰.md "wikilink")》                            | I Already Knew (feat. Mir) |
+| 2013 | 3月20日                                     | 韓劇《[IRIS 2](../Page/IRIS_2.md "wikilink")》                                    | 像傻瓜一樣的我 (feat. Mir)\[8\]   |
+| 2014 | 1月27日                                     | 韓劇《[需要浪漫3](../Page/需要浪漫3.md "wikilink")》                                      | You                        |
+| 6月3日 | 韓劇《[Dr.異鄉人](../Page/異鄉人醫生.md "wikilink")》 | 就像明天不會到來一樣                                                                    |                            |
+| 2016 | 2月13日                                     | 韓劇《[Madame Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink")》 | 愛情無感症                      |
+|      |                                           |                                                                               |                            |
 
 ### G.O & MIR Unit
 
@@ -135,26 +135,26 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 
 (登記編號：W0700300)\[11\]\[12\]
 
-|                          |                                                               |                              |                                       |                                  |
-| ------------------------ | ------------------------------------------------------------- | ---------------------------- | ------------------------------------- | -------------------------------- |
-| 演唱者                      | 專輯名稱                                                          | 曲目                           | 作詞                                    | 作曲、編曲                            |
-| Tykeys                   | 《TY PROJECT NO.1》                                             | 07.Just Once                 | **Jang Goon**                         | Jeon Sang                        |
-| MBLAQ                    | 《BLAQ Style 3D Edition Repackage》                             | 03.Can't Come Back(NO NO NO) | Mir, **G.O**                          | **G.O**                          |
-| G.O & Mir                | 《即使在我夢裡》                                                      | 01.Even In My Dreams         | Mir, **G.O**                          | **G.O**,Park Soo Suk, Kim Gi Bum |
-| 《K-POP最強生死戰》OST          | 01.I Already Knew                                             | Mir, **G.O**                 | Weon Thaig, **G.O**                   |                                  |
-| 《THE BLAQ% TOUR》         | 01.Wild                                                       | Mir, **G.O**, Weon Thaig     | Weon Thaig                            |                                  |
-| A-Prince                 | 《You're The Only One》                                         | 01.You're The Only One       | Mir, **G.O**                          | Weon Thaig, **G.O**              |
-| G.O & Mir                | 《[IRIS 2](../Page/IRIS_2.md "wikilink")》OST                   | 05.Foolish Me                | Mir, Avengers, Hyun Jin Choi, **G.O** | Avengers, Hyun Jin Choi, **G.O** |
-| MBLAQ                    | 《Sexy Beat》                                                   | 03.R U OK                    | Mir, **G.O**                          | Primary, **G.O**                 |
-| Outsider, G.O            | 《Rebirth Outsider》                                            | 02.Bye U                     | **G.O**, Outsider                     | Jung Chang Wook                  |
-| MBLAQ                    | 《Love Beat》                                                   | 03.Prayer                    | Mir, **G.O**, Bug Geug Gom            | **G.O**, Bug Geug Gom            |
-| 《Broken》                 | 06.Because There are Two                                      | Mir, **G.O**, Avengers       | **G.O**, Radio Galaxy, Avengers       |                                  |
-| 07.Still With You Outro. | **G.O**, Avengers                                             | **G.O**, Avengers            |                                       |                                  |
-| G.O                      | 《[Dr.異鄉人](https://zh.wikipedia.org/wiki/異鄉人醫生 "wikilink")》OST | 04.就像明天不會到來一樣                | 金元 (김원)                               | 金元 (김원),**G.O**, 별나라언니           |
-| MBLAQ                    | 《少女怪談》OST                                                     | 你離開的那個位置                     | **G.O**,Avengers , 최현준 ,Mir           | **G.O**, Avengers , 최현준 , 차민영    |
-| ROO                      | 《[壞小子們](https://zh.wikipedia.org/wiki/壞小子們 "wikilink")》OST    | 02.Reason                    | Bizniz                                | Bizniz,**G.O**                   |
-| MBLAQ                    | 《冬天》                                                          | 02.春夏秋，還有…                   | **G.O**,Mir,Retro Funky               | **G.O**,Retro Funky              |
-|                          |                                                               |                              |                                       |                                  |
+|                          |                                                            |                              |                                       |                                  |
+| ------------------------ | ---------------------------------------------------------- | ---------------------------- | ------------------------------------- | -------------------------------- |
+| 演唱者                      | 專輯名稱                                                       | 曲目                           | 作詞                                    | 作曲、編曲                            |
+| Tykeys                   | 《TY PROJECT NO.1》                                          | 07.Just Once                 | **Jang Goon**                         | Jeon Sang                        |
+| MBLAQ                    | 《BLAQ Style 3D Edition Repackage》                          | 03.Can't Come Back(NO NO NO) | Mir, **G.O**                          | **G.O**                          |
+| G.O & Mir                | 《即使在我夢裡》                                                   | 01.Even In My Dreams         | Mir, **G.O**                          | **G.O**,Park Soo Suk, Kim Gi Bum |
+| 《K-POP最強生死戰》OST          | 01.I Already Knew                                          | Mir, **G.O**                 | Weon Thaig, **G.O**                   |                                  |
+| 《THE BLAQ% TOUR》         | 01.Wild                                                    | Mir, **G.O**, Weon Thaig     | Weon Thaig                            |                                  |
+| A-Prince                 | 《You're The Only One》                                      | 01.You're The Only One       | Mir, **G.O**                          | Weon Thaig, **G.O**              |
+| G.O & Mir                | 《[IRIS 2](../Page/IRIS_2.md "wikilink")》OST                | 05.Foolish Me                | Mir, Avengers, Hyun Jin Choi, **G.O** | Avengers, Hyun Jin Choi, **G.O** |
+| MBLAQ                    | 《Sexy Beat》                                                | 03.R U OK                    | Mir, **G.O**                          | Primary, **G.O**                 |
+| Outsider, G.O            | 《Rebirth Outsider》                                         | 02.Bye U                     | **G.O**, Outsider                     | Jung Chang Wook                  |
+| MBLAQ                    | 《Love Beat》                                                | 03.Prayer                    | Mir, **G.O**, Bug Geug Gom            | **G.O**, Bug Geug Gom            |
+| 《Broken》                 | 06.Because There are Two                                   | Mir, **G.O**, Avengers       | **G.O**, Radio Galaxy, Avengers       |                                  |
+| 07.Still With You Outro. | **G.O**, Avengers                                          | **G.O**, Avengers            |                                       |                                  |
+| G.O                      | 《[Dr.異鄉人](../Page/異鄉人醫生.md "wikilink")》OST                 | 04.就像明天不會到來一樣                | 金元 (김원)                               | 金元 (김원),**G.O**, 별나라언니           |
+| MBLAQ                    | 《少女怪談》OST                                                  | 你離開的那個位置                     | **G.O**,Avengers , 최현준 ,Mir           | **G.O**, Avengers , 최현준 , 차민영    |
+| ROO                      | 《[壞小子們](https://zh.wikipedia.org/wiki/壞小子們 "wikilink")》OST | 02.Reason                    | Bizniz                                | Bizniz,**G.O**                   |
+| MBLAQ                    | 《冬天》                                                       | 02.春夏秋，還有…                   | **G.O**,Mir,Retro Funky               | **G.O**,Retro Funky              |
+|                          |                                                            |                              |                                       |                                  |
 
   - '''121231 MBC《KMF》─It's War(Remix Ver.)\[13\]舞台由G.O & Avengers
     Team編曲。
@@ -165,15 +165,15 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 
 ### 電視劇
 
-|                                                     |                                                                     |                                                                           |                        |
-| --------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------- |
-| 年份                                                  | 頻道                                                                  | 劇名                                                                        | 備註                     |
-| 2012                                                | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                 | 《[蠑螈道士和影子操作團](https://zh.wikipedia.org/wiki/蠑螈道士和影子操作團 "wikilink")\[14\]》 | 客串 第八集， 飾演：李民植         |
-| [Channel A](../Page/Channel_A.md "wikilink")        | 《[K-POP最強生死戰](https://zh.wikipedia.org/wiki/K-POP最強生死戰 "wikilink")》 | 客串 第一集                                                                    |                        |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[幽靈 (韓國電視劇)](../Page/幽靈_\(韓國電視劇\).md "wikilink")\[15\]》            | 飾演：李泰均，共二十集。                                                              |                        |
-| 2013                                                | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")               | 《[一絲的純情](https://zh.wikipedia.org/wiki/一絲的純情 "wikilink")\[16\]》           | 飾演：李在龍(學生時期)，全劇一百二十五集。 |
-| 《夫婦診所:愛情與戰爭2\[17\]》                                 | 飾演：李周元，單篇故事。                                                        |                                                                           |                        |
-|                                                     |                                                                     |                                                                           |                        |
+|                                                     |                                                          |                                                                           |                        |
+| --------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------- |
+| 年份                                                  | 頻道                                                       | 劇名                                                                        | 備註                     |
+| 2012                                                | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")      | 《[蠑螈道士和影子操作團](https://zh.wikipedia.org/wiki/蠑螈道士和影子操作團 "wikilink")\[14\]》 | 客串 第八集， 飾演：李民植         |
+| [Channel A](../Page/Channel_A.md "wikilink")        | 《[K-POP最強生死戰](../Page/K-POP最強生死戰.md "wikilink")》         | 客串 第一集                                                                    |                        |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[幽靈 (韓國電視劇)](../Page/幽靈_\(韓國電視劇\).md "wikilink")\[15\]》 | 飾演：李泰均，共二十集。                                                              |                        |
+| 2013                                                | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")    | 《[一絲的純情](../Page/一絲的純情.md "wikilink")\[16\]》                              | 飾演：李在龍(學生時期)，全劇一百二十五集。 |
+| 《夫婦診所:愛情與戰爭2\[17\]》                                 | 飾演：李周元，單篇故事。                                             |                                                                           |                        |
+|                                                     |                                                          |                                                                           |                        |
 
 ### 音樂劇
 
@@ -352,7 +352,7 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 | 8月7日      | SBS            | 挑戰千曲                                                                      |
 | 8月9日、16日  | SBS            | [強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")                       |
 | 8月9日      | MNET           | 尹道賢 MUST                                                                  |
-| 8月20日     | MBC            | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")       |
+| 8月20日     | MBC            | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                          |
 | 8月29日     | 日本テレビ東京        | Made in BS Japan                                                          |
 | 9月9日      | KBS            | [Hello Baby](https://zh.wikipedia.org/wiki/Hello_Baby "wikilink")         |
 | 9月13日、20日 | MBC            | [第三屆偶像明星田徑錦標賽](https://zh.wikipedia.org/wiki/第三屆偶像明星田徑錦標賽 "wikilink")     |
@@ -373,7 +373,7 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 | 2月9日      | SBS      | Studio C                                                                  |
 | 2月9日、16日  | SBS      | Cultwo Show                                                               |
 | 2月10日     | SBS      | 一億quiz show                                                               |
-| 2月11日     | MBC      | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")       |
+| 2月11日     | MBC      | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                          |
 | 2月13日     | YTN      | 24小時新聞                                                                    |
 | 2月23日     | SBS      | Studio C                                                                  |
 | 3月2日      | JTBC     | 偶像試映會                                                                     |
@@ -411,7 +411,7 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 | 6月10日         | Mnet     | Beatles Code 2                                                          |
 | 6月19日         | Arirang  | After School Club                                                       |
 | 6月19日         | KBS      | 維他命                                                                     |
-| 7月3日          | MBC      | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")     |
+| 7月3日          | MBC      | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                        |
 | 7月8日          | MBC      | Picnic Live 聲音風景                                                        |
 | 7月14日         | MBC      | Blind Test 180º                                                         |
 | 7月16日、23日     | MBC      | [All The K-pop](https://zh.wikipedia.org/wiki/All_The_K-pop "wikilink") |

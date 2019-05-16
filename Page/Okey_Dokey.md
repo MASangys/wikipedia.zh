@@ -1,6 +1,6 @@
 《**Okey
 Dokey**》（）是[SKE48的第](../Page/SKE48.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年11月9日由[avex
-trax發售](../Page/avex_trax.md "wikilink")。歌名「Okey
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。歌名「Okey
 Dokey」是「[OK](../Page/OK.md "wikilink")」的意思。\[1\]
 
 ## 概要

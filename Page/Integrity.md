@@ -113,7 +113,7 @@
   - [Free
     albums](https://web.archive.org/web/20120115023321/http://www.holyterror.com/downloads/)
   - [Integrity](http://www.facebook.com/integrityhc) at
-    [facebook](../Page/facebook.md "wikilink")
+    [facebook](https://zh.wikipedia.org/wiki/facebook "wikilink")
 
 [分類:硬蕊龐克樂團](https://zh.wikipedia.org/wiki/分類:硬蕊龐克樂團 "wikilink")
 

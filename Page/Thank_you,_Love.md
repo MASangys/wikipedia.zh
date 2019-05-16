@@ -5,8 +5,9 @@ Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要
 
-  - 與上一張專輯「[to LOVE](../Page/to_LOVE.md "wikilink")」相距約1年。
-  - 收錄第11張單曲「[if](../Page/if_\(西野加奈單曲\).md "wikilink")」至第14張單曲「[Esperanza](../Page/Esperanza.md "wikilink")」的4首A面曲，以及「[if](../Page/if_\(西野加奈單曲\).md "wikilink")」B面曲「I'll
+  - 與上一張專輯「[to
+    LOVE](https://zh.wikipedia.org/wiki/to_LOVE "wikilink")」相距約1年。
+  - 收錄第11張單曲「[if](https://zh.wikipedia.org/wiki/if_\(西野加奈單曲\) "wikilink")」至第14張單曲「[Esperanza](../Page/Esperanza.md "wikilink")」的4首A面曲，以及「[if](https://zh.wikipedia.org/wiki/if_\(西野加奈單曲\) "wikilink")」B面曲「I'll
     be there」，共5首曲目。
   - 新曲「Alright」為此專輯的先行及主打曲目。
   - 新曲「Clap Clap」是[富士電視台](../Page/富士電視台.md "wikilink")「週六鬧鐘新聞」的主題曲。

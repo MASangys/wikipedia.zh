@@ -1,4 +1,4 @@
-是一個於2005年由[AlphaDream開發及由](https://zh.wikipedia.org/wiki/AlphaDream "wikilink")[任天堂發佈的](../Page/任天堂.md "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")
+是一個於2005年由[AlphaDream開發及由](https://zh.wikipedia.org/wiki/AlphaDream "wikilink")[任天堂發佈的](../Page/任天堂.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")
 。它是[瑪利歐與路易RPG系列的第二個遊戲](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG系列 "wikilink")，並是《[瑪利歐與路易RPG](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG "wikilink")》的續集。而其續集，《[瑪利歐與路易RPG3](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG3 "wikilink")》，則是於2009年2月11日在[日本發佈及於](../Page/日本.md "wikilink")2009年9月14日在[北美發佈](https://zh.wikipedia.org/wiki/北美 "wikilink")。
 
 雖然這個遊戲是瑪利歐&路易RPG的續集，遊戲的劇情和上集幾乎無關，而且主題是圍繞著[時間旅行](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")，穿插於現代和古代的[蘑菇王國](https://zh.wikipedia.org/wiki/蘑菇王國 "wikilink")。\[1\]遊戲圍繞著主角[瑪利歐](https://zh.wikipedia.org/wiki/瑪利歐 "wikilink")、[路易與嬰兒時期的瑪利歐和路易](https://zh.wikipedia.org/wiki/路易_\(遊戲角色\) "wikilink")，和他們一起尋找被毒菇外星人綁架的[桃子公主](https://zh.wikipedia.org/wiki/桃子公主 "wikilink")。\[2\]遊戲集中於瑪利歐兄弟及其過去這個四人組合的合作，並靠各人的特技去解決難關並完成遊戲。雖然瑪利歐&路易RPG2結合了很多不同的角色扮演遊戲元素，但仍然基於回合制戰鬥模式行戰鬥。\[3\]這個遊戲和上集類似，但背景比較黑暗。

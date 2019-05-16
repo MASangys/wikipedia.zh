@@ -8,7 +8,7 @@ Portable用软件](../Page/PlayStation_Portable.md "wikilink")。
 Schwarz](../Page/Weiß_Schwarz.md "wikilink")」为題材，享受交換卡片遊戲的[模拟乐趣的](https://zh.wikipedia.org/wiki/模拟 "wikilink")[游戏](../Page/游戏.md "wikilink")。
 
 本作的标题「Weiß
-Schwarz」的由来是[德语](../Page/德语.md "wikilink")\[1\]\[2\]。「Weiß」代表「[白](https://zh.wikipedia.org/wiki/白 "wikilink")」，「Schwarz」代表「[黒](https://zh.wikipedia.org/wiki/黒 "wikilink")」。\[3\]\[4\]\[5\]。是由在开发、贩卖交換卡片遊戲版的[Bushiroad中的](https://zh.wikipedia.org/wiki/Bushiroad "wikilink")[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")[木谷高明命名的](https://zh.wikipedia.org/wiki/木谷高明 "wikilink")。\[6\]。另外，「Portable」的由来是本作的[平台](https://zh.wikipedia.org/wiki/平台 "wikilink")。本作的平台是[PlayStation
+Schwarz」的由来是[德语](../Page/德语.md "wikilink")\[1\]\[2\]。「Weiß」代表「[白](https://zh.wikipedia.org/wiki/白 "wikilink")」，「Schwarz」代表「[黒](https://zh.wikipedia.org/wiki/黒 "wikilink")」。\[3\]\[4\]\[5\]。是由在开发、贩卖交換卡片遊戲版的[Bushiroad中的](https://zh.wikipedia.org/wiki/Bushiroad "wikilink")[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")[木谷高明命名的](https://zh.wikipedia.org/wiki/木谷高明 "wikilink")。\[6\]。另外，「Portable」的由来是本作的[平台](../Page/平台.md "wikilink")。本作的平台是[PlayStation
 Portable](../Page/PlayStation_Portable.md "wikilink")，由于这个名称，所以在末尾加上了「Portable」。应该指出，作为德语的语顺「Schwarz
 Weiß」更自然，为了重视[日语](../Page/日语.md "wikilink")[音读时的語感所以使用](https://zh.wikipedia.org/wiki/音读 "wikilink")「Weiß
 Schwarz」\[7\]。
@@ -159,7 +159,7 @@ Schwarz Portable 矢作紗友里・南條愛乃的白黒学園放送部**』播�
     [佐藤利奈](../Page/佐藤利奈.md "wikilink")（[とある科学の超電磁砲](https://zh.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")
     - 御坂美琴 役）
   - \#9
-    [鈴田美夜子](https://zh.wikipedia.org/wiki/鈴田美夜子 "wikilink")（[クドわふたー](https://zh.wikipedia.org/wiki/クドわふたー "wikilink")
+    [鈴田美夜子](../Page/鈴田美夜子.md "wikilink")（[クドわふたー](https://zh.wikipedia.org/wiki/クドわふたー "wikilink")
     - 能美クドリャフカ 役）
   - \#10
     [愛美](https://zh.wikipedia.org/wiki/寺川愛美 "wikilink")（エンディングテーマ歌手）

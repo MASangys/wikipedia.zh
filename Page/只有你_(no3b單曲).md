@@ -18,7 +18,7 @@
         （作詞：[秋元康](../Page/秋元康.md "wikilink")　作曲：[前山田健一](../Page/前山田健一.md "wikilink")　編曲：[宅見将典](https://zh.wikipedia.org/wiki/宅見将典 "wikilink")）
     <!-- end list -->
       - [KDDI](../Page/KDDI.md "wikilink")
-        [au](../Page/au_\(行動電話\).md "wikilink")
+        [au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")
         [LISMO原創戲劇](https://zh.wikipedia.org/wiki/au_LISTEN_MOBILE_SERVICE "wikilink")『[言霊の女たち。](https://zh.wikipedia.org/wiki/言霊の女たち。 "wikilink")』主題曲
       - 『[汐留博覧会2010](https://zh.wikipedia.org/wiki/汐博 "wikilink")』主題曲
       - [日本電視台系](../Page/日本電視台.md "wikilink")『[ジャック10](https://zh.wikipedia.org/wiki/ジャック10 "wikilink")』8月度片尾曲

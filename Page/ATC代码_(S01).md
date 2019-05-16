@@ -80,8 +80,7 @@
     S01AX15 丙烷脒（）
     S01AX16 哌氯定（）
     S01AX17 洛美沙星（）
-    S01AX18
-    聚乙烯吡咯酮碘（[Povidone-iodine](https://zh.wikipedia.org/wiki/聚维酮碘 "wikilink")）
+    S01AX18 聚乙烯吡咯酮碘（[Povidone-iodine](../Page/聚维酮碘.md "wikilink")）
     S01AX19 左氧氟沙星（[Levofloxacin](../Page/左氧氟沙星.md "wikilink")）
     S01AX21 加替沙星（）
     S01AX22 莫西沙星（[Moxifloxacin](../Page/莫西沙星.md "wikilink")）
@@ -183,8 +182,7 @@
     S01EB02 卡巴可（）
     S01EB03 碘依可酯（）
     S01EB04 地美溴铵（）
-    S01EB05
-    毒扁豆碱（[Physostigmine](https://zh.wikipedia.org/wiki/毒扁豆碱 "wikilink")）
+    S01EB05 毒扁豆碱（[Physostigmine](../Page/毒扁豆碱.md "wikilink")）
     S01EB06 [新斯的明](../Page/新斯的明.md "wikilink")（Neostigmine）
     S01EB07 异氟磷（）
     S01EB08 醋克利定（）

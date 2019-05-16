@@ -1,5 +1,5 @@
 [李奈映](../Page/李奈映.md "wikilink"){{、w}}[李廷鎮](../Page/李廷鎮.md "wikilink"){{、w}}
-[丹尼爾·海尼](../Page/丹尼爾·海尼.md "wikilink"){{、w}}[尹珍序](https://zh.wikipedia.org/wiki/尹珍序 "wikilink")
+[丹尼爾·海尼](../Page/丹尼爾·海尼.md "wikilink"){{、w}}[尹珍序](../Page/尹珍序.md "wikilink")
 | theme_music_composer = | opentheme = | endtheme = | composer = |
 country =  | language =
 [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") |
@@ -41,7 +41,7 @@ preceded_by = [麵包王金卓求](../Page/麵包王金卓求.md "wikilink") | f
 屠囚班長和男主角可謂：「不打不相識」！剛開始認為偵探智愚是殺死夥伴的兇手，接連在韓國緝捕智愚失敗，於是緊跟著到日本、上海、北京、澳門追拿他。後來在澳門逮捕到智愚，偵訊過程中發現這樁案件疑點重重，又因為智愚逃跑，必須繼續追蹤。\[4\]
 
   - [丹尼爾·海尼](../Page/丹尼爾·海尼.md "wikilink") 飾 Kai
-  - [尹珍序](https://zh.wikipedia.org/wiki/尹珍序 "wikilink") 飾 尹刑警（小蘭）
+  - [尹珍序](../Page/尹珍序.md "wikilink") 飾 尹刑警（小蘭）
 
 ### 道秀周圍人物
 
@@ -51,7 +51,7 @@ preceded_by = [麵包王金卓求](../Page/麵包王金卓求.md "wikilink") | f
   - [金秀玄](https://zh.wikipedia.org/wiki/金秀玄 "wikilink") 飾 朴刑警
   - [宋智恩](../Page/宋智恩.md "wikilink") 飾 呂刑警
   - [南閔哲](https://zh.wikipedia.org/wiki/南閔哲 "wikilink") 飾
-    [首爾地方警察廳局長](https://zh.wikipedia.org/wiki/首爾地方警察廳 "wikilink")
+    [首爾地方警察廳局長](../Page/首爾地方警察廳.md "wikilink")
 
 ### Kai周圍人物
 
@@ -68,19 +68,19 @@ preceded_by = [麵包王金卓求](../Page/麵包王金卓求.md "wikilink") | f
 ### 其他人物
 
   - [宋在浩](https://zh.wikipedia.org/wiki/宋在浩 "wikilink") 飾 楊斗希
-  - [金應洙](https://zh.wikipedia.org/wiki/金應洙 "wikilink") 飾 楊永准
+  - [金應洙](../Page/金應洙.md "wikilink") 飾 楊永准
   - [金俊裴](https://zh.wikipedia.org/wiki/金俊裴 "wikilink")
   - [李鐘赫](../Page/李鐘赫.md "wikilink") （第2集）
   - [MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")
   - [鄭斗洪](https://zh.wikipedia.org/wiki/鄭斗洪 "wikilink")（第2集）
   - [趙相紀](../Page/趙相紀.md "wikilink")（第2集）
   - [金允泰](https://zh.wikipedia.org/wiki/金允泰 "wikilink")
-  - [尹孫河](https://zh.wikipedia.org/wiki/尹孫河 "wikilink") 飾 黃美珍
-  - [成東鎰](https://zh.wikipedia.org/wiki/成東鎰 "wikilink") 飾 中村黃
+  - [尹孫河](../Page/尹孫河.md "wikilink") 飾 黃美珍
+  - [成東鎰](../Page/成東鎰.md "wikilink") 飾 中村黃
   - [竹中直人](../Page/竹中直人.md "wikilink") 飾 浩紀（第2集）
   - [上原多香子](../Page/上原多香子.md "wikilink") 飾 溪子（第2集）
   - [宋詩妍](https://zh.wikipedia.org/wiki/宋詩妍 "wikilink") 飾 中村黃的秘書
-  - [曹熙奉](https://zh.wikipedia.org/wiki/曹熙奉 "wikilink") 飾 詹姆斯 奉
+  - [曹熙奉](../Page/曹熙奉.md "wikilink") 飾 詹姆斯 奉
   - [孔炯軫](../Page/孔炯軫.md "wikilink") 飾 張師傅
   - [何超儀](../Page/何超儀.md "wikilink") 飾 華億
   - [安奭奐](../Page/安奭奐.md "wikilink")

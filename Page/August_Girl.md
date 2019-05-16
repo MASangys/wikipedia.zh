@@ -111,7 +111,7 @@ Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲�
 ### 專輯《August Girl》
 
   - 香港：[2011年度SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單 "wikilink")－SINA
+    Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA
     Music 全碟試聽 –最高收聽率大碟
 
 ### 歌曲《字花》
@@ -127,7 +127,7 @@ Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲�
 ### 歌曲《唇印》
 
   - 香港：[2011年度SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單 "wikilink")－SINA
+    Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA
     Music 最高收聽率二十大歌曲
 
 ## 外部連結

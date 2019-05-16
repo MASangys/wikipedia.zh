@@ -561,7 +561,7 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 
 ## 電視動畫
 
-该作品于2012年末從海外流出動畫化消息\[45\]。在2013年1月16日發售的《週刊少年》2013年7月號正式宣佈電視動畫化。2013年7月至9月於[富士電視台的](../Page/富士電視台.md "wikilink")「[noitaminA](../Page/noitaminA.md "wikilink")」時段播出播出第1季\[46\]\[47\]，第2季於2014年1月至3月播出。
+该作品于2012年末從海外流出動畫化消息\[45\]。在2013年1月16日發售的《週刊少年》2013年7月號正式宣佈電視動畫化。2013年7月至9月於[富士電視台的](../Page/富士電視台.md "wikilink")「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」時段播出播出第1季\[46\]\[47\]，第2季於2014年1月至3月播出。
 
 ### 製作人員
 
@@ -591,7 +591,8 @@ Spoon**》（）是[荒川弘的](../Page/荒川弘.md "wikilink")[日本](../Pa
 :; 片頭曲「[kiss
 you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
 
-:: 作詞、作曲、主唱：[miwa](../Page/miwa.md "wikilink")，編曲：Naoki-T
+::
+作詞、作曲、主唱：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")，編曲：Naoki-T
 
 :; 片尾曲「[Hello
 Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
@@ -928,7 +929,7 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
 #### 日本国外
 
   - 香港
-    由[J2播放](../Page/J2.md "wikilink")。于2014年7月23日至8月22日，星期一至五的18時25分－19時00分两期连播。均提供雙語廣播和中文字幕，有重播和[myTV](../Page/myTV.md "wikilink")14天重溫。
+    由[J2播放](../Page/J2.md "wikilink")。于2014年7月23日至8月22日，星期一至五的18時25分－19時00分两期连播。均提供雙語廣播和中文字幕，有重播和[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")14天重溫。
   - 台湾
     由[衛視電影台](../Page/衛視電影台.md "wikilink")，于2014年7月21日－8月4日，星期一至五的19:00－20:00两期连播。
     由[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")，于2016年2月10日起，星期一至五，下午18:00-18:30，兩期連播。
@@ -942,11 +943,11 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
 ### 演員
 
   - 八軒勇吾：[中島健人](../Page/中島健人.md "wikilink")<small>（香港配音：[巫哲棋](../Page/巫哲棋.md "wikilink")）</small>
-  - 御影亞紀：[廣瀨愛麗絲](https://zh.wikipedia.org/wiki/廣瀨愛麗絲 "wikilink")<small>（香港配音：[黃昕瑜](https://zh.wikipedia.org/wiki/黃昕瑜 "wikilink")）</small>
+  - 御影亞紀：[廣瀨愛麗絲](../Page/廣瀨愛麗絲.md "wikilink")<small>（香港配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）</small>
   - 駒場一郎：<small>（香港配音：[李致林](../Page/李致林.md "wikilink")）</small>
   - 南九条菖蒲：[黑木華](https://zh.wikipedia.org/wiki/黑木華 "wikilink")<small>（香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）</small>
   - 中島老師：[中村獅童](../Page/中村獅童_\(二代目\).md "wikilink")<small>（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）</small>
-  - 常盤惠次：[矢本悠馬](https://zh.wikipedia.org/wiki/矢本悠馬 "wikilink")<small>（香港配音：[陳成港](../Page/陳成港.md "wikilink")）</small>
+  - 常盤惠次：[矢本悠馬](../Page/矢本悠馬.md "wikilink")<small>（香港配音：[陳成港](../Page/陳成港.md "wikilink")）</small>
   - 稻田多摩子：安田加奈<small>（香港配音：[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")）</small>
   - 吉野真由：<small>（香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）</small>
   - 別府太郎：河野將也<small>（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）</small>
@@ -955,7 +956,7 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
   - 豐西美香：龜田梨紗<small>（香港配音：）</small>
   - 依田勉：鈴木龍之介<small>（香港配音：）</small>
   - 榮真奈美：[北浦愛](https://zh.wikipedia.org/wiki/北浦愛 "wikilink")<small>（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）</small>
-  - 木野廣行：[田村健太郎](https://zh.wikipedia.org/wiki/田村健太郎 "wikilink")<small>（香港配音：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")）</small>
+  - 木野廣行：[田村健太郎](https://zh.wikipedia.org/wiki/田村健太郎 "wikilink")<small>（香港配音：[鄧港文](../Page/鄧港文.md "wikilink")）</small>
   - 南正隆：福吉壽雄<small>（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）</small>
   - 富士老師：[吹石一惠](../Page/吹石一惠.md "wikilink")<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
   - 校長：（[鴕鳥俱樂部](../Page/鴕鳥俱樂部.md "wikilink")）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
@@ -967,8 +968,8 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
   - 御影サト：稲川美代子<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
   - 御影優志：哀川翔<small>（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）</small>
   - 駒場菜實：[西田尚美](https://zh.wikipedia.org/wiki/西田尚美 "wikilink")<small>（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）</small>
-  - 駒場二野：高城樹里<small>（香港配音：[凌晞](https://zh.wikipedia.org/wiki/凌晞 "wikilink")）</small>
-  - 駒場三空：高城紅里<small>（香港配音：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")）</small>
+  - 駒場二野：高城樹里<small>（香港配音：[凌晞](../Page/凌晞.md "wikilink")）</small>
+  - 駒場三空：高城紅里<small>（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）</small>
 
 ### 工作人員
 
@@ -976,7 +977,7 @@ Especially](https://zh.wikipedia.org/wiki/Hello_Especially "wikilink")」
     Spoon》（[小學館](../Page/小學館.md "wikilink")「[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")」連載）
   - 导演：
   - 编剧：吉田惠輔、高田亮
-  - 音樂：[羽毛田丈史](https://zh.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - 音樂：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
   - 主題歌：[柚子](../Page/柚子_\(組合\).md "wikilink")「[向阳](../Page/新世界_\(柚子专辑\).md "wikilink")」
   - 企劃、製作人：
   - 執行製作人：田代秀樹

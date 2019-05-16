@@ -1,8 +1,8 @@
 **PlayStation Vita系统软件**是指官方发布的[PlayStation
 Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation Vita
-TV可升级](https://zh.wikipedia.org/wiki/PlayStation_Vita_TV "wikilink")[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")。
+TV可升级](../Page/PlayStation_Vita_TV.md "wikilink")[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")。
 
-该系统软件的升级方式与[PSP](../Page/PlayStation_Portable.md "wikilink")、[PS3以及](../Page/PlayStation_3.md "wikilink")[PS4等几乎一样](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")。该系统软件可以通过在PS
+该系统软件的升级方式与[PSP](../Page/PlayStation_Portable.md "wikilink")、[PS3以及](../Page/PlayStation_3.md "wikilink")[PS4等几乎一样](../Page/PlayStation_4.md "wikilink")。该系统软件可以通过在PS
 Vita连接[Wi-Fi的情况下下载升级文件](../Page/Wi-Fi.md "wikilink")\[1\]、通过PS3下载升级文件\[2\]、通过PC下载升级文件\[3\]、或者通过附有升级文件的PS
 Vita游戏卡来安装升级\[4\]。PlayStation
 TV系统也可以通过连接[因特网升级](https://zh.wikipedia.org/wiki/因特网 "wikilink")。PlayStation
@@ -358,7 +358,7 @@ Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系�
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/PS_Vita_TV" title="wikilink">PS Vita TV已新增</a>[PS4连动]，可从主画面启动。</li>
 </ul>
-<p>此为可使用本主机在远处远程操作<a href="https://zh.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4的应用程序</a>。使用PS Vita TV遥控操作时，最多可两人同时登录<a href="https://zh.wikipedia.org/wiki/PS4" title="wikilink">PS4</a>。</p>
+<p>此为可使用本主机在远处远程操作<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4的应用程序</a>。使用PS Vita TV遥控操作时，最多可两人同时登录<a href="https://zh.wikipedia.org/wiki/PS4" title="wikilink">PS4</a>。</p>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/PS_Vita_TV" title="wikilink">PS Vita TV不支持第二屏幕</a>。</li>
 </ul>
@@ -865,10 +865,8 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
   - [Wii U系统软件](https://zh.wikipedia.org/wiki/Wii_U系统软件 "wikilink")
   - [任天堂3DS](../Page/任天堂3DS.md "wikilink")
   - [任天堂3DS系统软件](../Page/任天堂3DS系统软件.md "wikilink")
-  - [PlayStation
-    4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")
-  - [PlayStation
-    4系统软件](https://zh.wikipedia.org/wiki/PlayStation_4系统软件 "wikilink")
+  - [PlayStation 4](../Page/PlayStation_4.md "wikilink")
+  - [PlayStation 4系统软件](../Page/PlayStation_4系统软件.md "wikilink")
 
 **前[世代其他游戏平台](https://zh.wikipedia.org/wiki/视频游戏历史（第七世代） "wikilink")：**
 

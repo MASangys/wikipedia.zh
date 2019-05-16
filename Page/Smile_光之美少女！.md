@@ -723,7 +723,7 @@ Decor），好讓女王恢復並對抗敵人。
 <td><p>屬於我們的秘密基地在哪裡？</p></td>
 <td><p>山田由香</p></td>
 <td><p>池田洋子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻上晃" title="wikilink">稻上晃</a></p></td>
+<td><p><a href="../Page/稻上晃.md" title="wikilink">稻上晃</a></p></td>
 <td><p>田中美紀</p></td>
 <td><p>戒指</p></td>
 <td><p>3月18日</p></td>
@@ -1332,14 +1332,14 @@ Decor），好讓女王恢復並對抗敵人。
   -
 
       -
-        作詞：實之里，作曲：高取秀明，編曲：齋藤悠彌，主唱：[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")
+        作詞：實之里，作曲：高取秀明，編曲：齋藤悠彌，主唱：[吉田仁美](../Page/吉田仁美.md "wikilink")
 
 :;「」（第25話～第48話）
 
   -
 
       -
-        作詞：六之見純代，作曲：高取秀明，編曲：籠島裕昌，主唱：[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")
+        作詞：六之見純代，作曲：高取秀明，編曲：籠島裕昌，主唱：[吉田仁美](../Page/吉田仁美.md "wikilink")
 
 <!-- end list -->
 
@@ -1457,11 +1457,11 @@ Decor），好讓女王恢復並對抗敵人。
     [光之美少女 All Stars New Stage
     未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
     [光之美少女 All Stars New Stage2
-    心之朋友](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_New_Stage2_心之朋友 "wikilink")
+    心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
     [光之美少女 All Stars New Stage3
-    永遠的朋友](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_New_Stage3_永遠的朋友 "wikilink")
+    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
     [光之美少女 All Stars
-    春之嘉年華♪](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪ "wikilink")
+    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars

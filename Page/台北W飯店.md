@@ -1,5 +1,5 @@
 **台北W飯店**（）與[統一時代百貨台北店共構於](../Page/統一時代百貨台北店.md "wikilink")[市府轉運站上](https://zh.wikipedia.org/wiki/市府轉運站 "wikilink")，公司登記名稱為「時代國際飯店股份有限公司」，與[喜達屋](https://zh.wikipedia.org/wiki/喜達屋 "wikilink")[W飯店品牌授權經營管理合作](../Page/W飯店.md "wikilink")，標榜以「自然大放電」（Natural
-Electrified）為主要設計理念。時代國際飯店股份有限公司[董事長為](../Page/董事長.md "wikilink")[羅智先](../Page/羅智先.md "wikilink")，同為[太子建設董事長](https://zh.wikipedia.org/wiki/太子建設 "wikilink")。台北W飯店中的紫艷YEN中餐廳為全球[W飯店第一家中餐廳](../Page/W飯店.md "wikilink")。
+Electrified）為主要設計理念。時代國際飯店股份有限公司[董事長為](../Page/董事長.md "wikilink")[羅智先](../Page/羅智先.md "wikilink")，同為[太子建設董事長](../Page/太子建設.md "wikilink")。台北W飯店中的紫艷YEN中餐廳為全球[W飯店第一家中餐廳](../Page/W飯店.md "wikilink")。
 
 ## 所屬集團
 

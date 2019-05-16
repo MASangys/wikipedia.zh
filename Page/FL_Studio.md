@@ -33,7 +33,8 @@ Image-Line FL STUDIO Fruity Express版（在FL Studio 10后停止更新）
 Image-Line FL STUDIO Fruity Edition基礎版
 Image-Line FL STUDIO Producer 進階版
 Image-Line FL STUDIO Signature Bundle 旗艦版
-Image-Line FL Studio Mobile版：支持[iOS](../Page/iOS.md "wikilink"),
+Image-Line FL Studio
+Mobile版：支持[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink"),
 [Android和](../Page/Android.md "wikilink")[Windows
 Phone平台](../Page/Windows_Phone.md "wikilink")。
 

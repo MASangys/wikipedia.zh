@@ -384,7 +384,7 @@
 <td><p>Ikedaen-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/池月車站" title="wikilink">池月車站</a></p></td>
+<td><p><a href="../Page/池月車站.md" title="wikilink">池月車站</a></p></td>
 <td></td>
 <td><p>Ikezuki-Eki</p></td>
 </tr>

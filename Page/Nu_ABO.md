@@ -1,5 +1,5 @@
 ***Nu ABO*** (; *Nu Yeppioh*)
-是[南韓女子團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[f(x)首張EP](../Page/f\(x\)_\(組合\).md "wikilink"),
+是[南韓女子團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[f(x)首張EP](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink"),
 於2010年5月4日正式發售。而f(x)通過在5月7號的《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》給觀眾展現精彩的回歸舞台，在宣傳期期間，成員Amber因腳踝受傷的影響，回到美國洛杉磯進行休養。f(x)以四人活動形式繼續其他的宣傳行程。
 
@@ -69,7 +69,7 @@ plus销量统计中排在了首位，此次获得的冠军头衔是f(x)自正式
 <p>2010年5月18日[2]</p>
 </center></td>
 <td><center>
-<p><a href="../Page/Avex_Trax.md" title="wikilink">愛貝克思</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/Avex_Trax" title="wikilink">愛貝克思</a></p>
 </center></td>
 <td></td>
 </tr>

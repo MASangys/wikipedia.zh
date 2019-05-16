@@ -1,5 +1,5 @@
 「**partenza
-出發**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!的第](../Page/Buono!.md "wikilink")1枚迷你專輯。於2011年8月10日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+出發**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!的第](../Page/Buono!.md "wikilink")1枚迷你專輯。於2011年8月10日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

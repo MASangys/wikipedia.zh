@@ -1,4 +1,4 @@
-**Jslinux**是由程序员[法布里斯·贝拉于](../Page/法布里斯·贝拉.md "wikilink")2011年5月开始开发的一款能够在浏览器中运行的[x86模拟器](../Page/x86.md "wikilink")。该模拟器使用[JavaScript语言编写](../Page/JavaScript.md "wikilink")，用到了[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink")
+**Jslinux**是由程序员[法布里斯·贝拉于](../Page/法布里斯·贝拉.md "wikilink")2011年5月开始开发的一款能够在浏览器中运行的[x86模拟器](https://zh.wikipedia.org/wiki/x86 "wikilink")。该模拟器使用[JavaScript语言编写](../Page/JavaScript.md "wikilink")，用到了[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink")
 Typed Arrays，提供了一个剪贴板位于/dev/clipboard处用于与宿主机交换数据。
 
 最新版本已于2011年8月20日发布，MIT授权。

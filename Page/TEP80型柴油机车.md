@@ -1,10 +1,10 @@
-**TEP80型柴油机车**（）是[苏联铁路的大功率准高速干线客运](https://zh.wikipedia.org/wiki/苏联铁路运输 "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[科洛姆纳内燃机车制造厂设计制造](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")，于1988年研制成功，仅试制了两台并未投入批量生产。TEP80型柴油机车是单节八轴的6000马力干线客运柴油机车，设计用于牵引大编组旅客列车，走行部为两台四轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，动力装置为一台1Д49型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，传动方式为交—直流电力传动。1993年10月5日，TEP80-0002号机车在[莫斯科-聖彼得堡鐵路上创造了](https://zh.wikipedia.org/wiki/莫斯科-聖彼得堡鐵路 "wikilink")271公里/小时的速度纪录，至今仍然是柴油机车的[速度记录保持者](../Page/軌道車輛速度紀錄.md "wikilink")。目前，两台机车分别保存在[新西伯利亚和](../Page/新西伯利亚.md "wikilink")[圣彼得堡的铁路博物馆](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")。
+**TEP80型柴油机车**（）是[苏联铁路的大功率准高速干线客运](../Page/苏联铁路运输.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[科洛姆纳内燃机车制造厂设计制造](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")，于1988年研制成功，仅试制了两台并未投入批量生产。TEP80型柴油机车是单节八轴的6000马力干线客运柴油机车，设计用于牵引大编组旅客列车，走行部为两台四轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，动力装置为一台1Д49型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，传动方式为交—直流电力传动。1993年10月5日，TEP80-0002号机车在[莫斯科-聖彼得堡鐵路上创造了](https://zh.wikipedia.org/wiki/莫斯科-聖彼得堡鐵路 "wikilink")271公里/小时的速度纪录，至今仍然是柴油机车的[速度记录保持者](../Page/軌道車輛速度紀錄.md "wikilink")。目前，两台机车分别保存在[新西伯利亚和](../Page/新西伯利亚.md "wikilink")[圣彼得堡的铁路博物馆](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")。
 
 ## 发展历史
 
 ### 背景
 
-1970年代初期，为了满足[苏联铁路客运的发展需要](https://zh.wikipedia.org/wiki/苏联铁路运输 "wikilink")，[科洛姆纳内燃机车制造厂按照](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")[苏联交通部的要求](https://zh.wikipedia.org/wiki/苏联交通部 "wikilink")，先后开发研制了[TEP70](../Page/TEP70型柴油机车.md "wikilink")、[TEP75型快速客运柴油机车](../Page/TEP75型柴油机车.md "wikilink")。其中TEP70型机车是苏联第一种单机功率达到4000马力并投入批量生产的柴油机车，而TEP75型机车也是苏联第一种单机功率6000马力的客运柴油机车。由于同时要研制功率等级分别为4000马力和6000马力、[持续牵引力分别为](../Page/牵引力.md "wikilink")17000公斤和18000公斤、构造速度均为160公里/小时的两种六轴客运柴油机车，两者在结构上均具有最大程度的统一化。然而，由于TEP75型机车装用一台20气缸的1Д49型柴油机，轴重达到24.5吨，高速运行时轮轨作用力过大，因而未批准投入批量生产。
+1970年代初期，为了满足[苏联铁路客运的发展需要](../Page/苏联铁路运输.md "wikilink")，[科洛姆纳内燃机车制造厂按照](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")[苏联交通部的要求](https://zh.wikipedia.org/wiki/苏联交通部 "wikilink")，先后开发研制了[TEP70](../Page/TEP70型柴油机车.md "wikilink")、[TEP75型快速客运柴油机车](../Page/TEP75型柴油机车.md "wikilink")。其中TEP70型机车是苏联第一种单机功率达到4000马力并投入批量生产的柴油机车，而TEP75型机车也是苏联第一种单机功率6000马力的客运柴油机车。由于同时要研制功率等级分别为4000马力和6000马力、[持续牵引力分别为](../Page/牵引力.md "wikilink")17000公斤和18000公斤、构造速度均为160公里/小时的两种六轴客运柴油机车，两者在结构上均具有最大程度的统一化。然而，由于TEP75型机车装用一台20气缸的1Д49型柴油机，轴重达到24.5吨，高速运行时轮轨作用力过大，因而未批准投入批量生产。
 
 ### 研制
 
@@ -23,9 +23,9 @@
 | video3 =
 [TEP80-0002号机车的试验过程（二）](http://www.youtube.com/watch?v=DWDdNe_zx5A)
 }}
-1988年至1989年间，科洛姆纳工厂先后制成了两台TEP80型柴油机车。1989年，两台机车被送往[全苏铁道运输科学研究院位于](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")[莫斯科州](../Page/莫斯科州.md "wikilink")[谢尔宾卡的环形铁道试验基地开始进行性能试验](https://zh.wikipedia.org/wiki/谢尔宾卡 "wikilink")，其中TEP80-0001号机车并在环形铁道举行的1989年国际铁路运输展览会上首次对外展出。1990年秋季，TEP80型机车在[北高加索铁路局管内](https://zh.wikipedia.org/wiki/北高加索铁路局 "wikilink")[别洛列琴斯克至](https://zh.wikipedia.org/wiki/别洛列琴斯克 "wikilink")[迈科普之间的高速试验区段](https://zh.wikipedia.org/wiki/迈科普 "wikilink")，进行了对线路及[道岔动力作用在内的综合动力学试验](../Page/道岔.md "wikilink")，同时并和TEP70型机车进行了对比试验，最高试验速度达到196公里/小时。试验结果显示，TEP80型机车能完全满足运行时速160公里/小时的动力性能技术条件，而且对线路及道岔的作用力比较小\[3\]。
+1988年至1989年间，科洛姆纳工厂先后制成了两台TEP80型柴油机车。1989年，两台机车被送往[全苏铁道运输科学研究院位于](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")[莫斯科州](../Page/莫斯科州.md "wikilink")[谢尔宾卡的环形铁道试验基地开始进行性能试验](https://zh.wikipedia.org/wiki/谢尔宾卡 "wikilink")，其中TEP80-0001号机车并在环形铁道举行的1989年国际铁路运输展览会上首次对外展出。1990年秋季，TEP80型机车在[北高加索铁路局管内](../Page/北高加索铁路局.md "wikilink")[别洛列琴斯克至](https://zh.wikipedia.org/wiki/别洛列琴斯克 "wikilink")[迈科普之间的高速试验区段](https://zh.wikipedia.org/wiki/迈科普 "wikilink")，进行了对线路及[道岔动力作用在内的综合动力学试验](../Page/道岔.md "wikilink")，同时并和TEP70型机车进行了对比试验，最高试验速度达到196公里/小时。试验结果显示，TEP80型机车能完全满足运行时速160公里/小时的动力性能技术条件，而且对线路及道岔的作用力比较小\[3\]。
 
-然而在不久之后，随着突如其来的[苏联解体](../Page/苏联解体.md "wikilink")，[独联体国家的铁路运输生产均面临严重滑坡](https://zh.wikipedia.org/wiki/独联体 "wikilink")，亦对铁路科研工作造成很大困难。尽管如此，由于[俄罗斯当时正筹备兴建国内第一条](../Page/俄罗斯.md "wikilink")[高速铁路客运专线](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")——圣彼得堡—莫斯科高速铁路，TEP80型柴油机车的命运远较其他大功率货运柴油机车幸运，并没有像[TE136](https://zh.wikipedia.org/wiki/TE136型柴油机车 "wikilink")、[2TE126型货运机车那样被废弃](https://zh.wikipedia.org/wiki/2TE126型柴油机车 "wikilink")，而是继续用于进行关于高速铁路机车车辆的技术研究。
+然而在不久之后，随着突如其来的[苏联解体](../Page/苏联解体.md "wikilink")，[独联体国家的铁路运输生产均面临严重滑坡](https://zh.wikipedia.org/wiki/独联体 "wikilink")，亦对铁路科研工作造成很大困难。尽管如此，由于[俄罗斯当时正筹备兴建国内第一条](../Page/俄罗斯.md "wikilink")[高速铁路客运专线](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")——圣彼得堡—莫斯科高速铁路，TEP80型柴油机车的命运远较其他大功率货运柴油机车幸运，并没有像[TE136](../Page/TE136型柴油机车.md "wikilink")、[2TE126型货运机车那样被废弃](../Page/2TE126型柴油机车.md "wikilink")，而是继续用于进行关于高速铁路机车车辆的技术研究。
 
 1993年，在全俄铁道运输科学研究院的组织下，TEP80型机车在[十月铁路局进行了高速动力学试验](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")。试验区段选定在[莫斯科-聖彼得堡鐵路的什柳兹站](https://zh.wikipedia.org/wiki/莫斯科-聖彼得堡鐵路 "wikilink")（Шлюз）至多罗希哈站（Дорошиха）之间，区段全长42公里。负责进行试验的TEP80-0002号机车在科洛姆纳机车厂接受改造，将牵引齿轮传动比由3.12改为2.03，使机车构造速度由160公里/小时大幅提高到250公里/小时。试验分为三个阶段，第一、二阶段试验是机车车轮分别在无磨耗及2毫米磨耗的情况下，进行时速160～260公里/小时的运行试验，第三阶段试验是机车转向架加装横向减振器后进行时速260公里/小时的运行试验\[4\]。1993年10月5日，TEP80-0002号机车的最高试验速度达到了271公里/小时，打破了由[英国铁路](https://zh.wikipedia.org/wiki/英国铁路公司 "wikilink")[43型柴油机车在](https://zh.wikipedia.org/wiki/英铁43型柴油机车 "wikilink")1987年所创造的纪录（238公里/小时），成为世界上速度最高的柴油机车并保持至今\[5\]。
 
@@ -61,7 +61,7 @@ TEP80型柴油机车采用[微机控制](https://zh.wikipedia.org/wiki/微机 "w
 ### 转向架
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Тепловоз_ТЭП80_002_\(9\).jpg "fig:缩略图")
-机车走行部采用两台四轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，TEP80型柴油机车既没有采用[TEM7](../Page/TEM7型柴油机车.md "wikilink")、[ChME5型调车机车的中间构架式四轴转向架](../Page/ChME5型柴油机车.md "wikilink")，也没有沿用[TE136](https://zh.wikipedia.org/wiki/TE136型柴油机车 "wikilink")、[2TE126型货运机车的下纵向牵引梁式四轴转向架](https://zh.wikipedia.org/wiki/2TE126型柴油机车 "wikilink")，而是采用了新颖的均衡梁式四轴转向架（苏联专利证书号：СССР
+机车走行部采用两台四轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，TEP80型柴油机车既没有采用[TEM7](../Page/TEM7型柴油机车.md "wikilink")、[ChME5型调车机车的中间构架式四轴转向架](../Page/ChME5型柴油机车.md "wikilink")，也没有沿用[TE136](../Page/TE136型柴油机车.md "wikilink")、[2TE126型货运机车的下纵向牵引梁式四轴转向架](../Page/2TE126型柴油机车.md "wikilink")，而是采用了新颖的均衡梁式四轴转向架（苏联专利证书号：СССР
 N 1664634, кл. 61 F 5/00,
 1991.）\[13\]。每台四轴转向架均以两台二轴转向架为基础，车轮直径为1220毫米。在每台二轴转向架中，两个轮对采用带球面轴箱轴承的纵向均衡梁联结，两轴距离为1.85米，均衡梁的中部通过弹簧支柱与四轴侧架相连，从而取消了二轴转向架构架。来自车体的垂直载荷直接传到均衡梁上，侧向负荷是经过弹簧支柱传递。两台无构架式二轴转向架采用带弹簧支柱的大型侧架连接起来，从而构成一台四轴转向架。在这种结构中，轮对实际上只能沿转向架的纵轴相对于转向架侧架垂向移动，转向架固定轴距达到6.2米，二轴转向架的均衡梁连接可以使机车通过曲线时所产生的横向作用力进行重新分配，同时也使各个轮对之间的垂直载荷作均衡分配，以减少轴重转移\[14\]。
 
@@ -80,7 +80,7 @@ N 1664634, кл. 61 F 5/00,
   - [TEP70型柴油机车](../Page/TEP70型柴油机车.md "wikilink")
   - [TEP75型柴油机车](../Page/TEP75型柴油机车.md "wikilink")
   - [EP200型电力机车](../Page/EP200型电力机车.md "wikilink")
-  - [TE136型柴油机车](https://zh.wikipedia.org/wiki/TE136型柴油机车 "wikilink")
+  - [TE136型柴油机车](../Page/TE136型柴油机车.md "wikilink")
 
 ## 参考文献
 

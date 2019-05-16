@@ -8,7 +8,7 @@ Baby\! Baby\! Baby\!**》，是此單曲第一次以實體唱片的方式推出�
 Baby\! 錄影片段收藏集DVD**》（）也一同於本條目中介紹。
 
 [NTT
-DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode和](../Page/i-mode.md "wikilink")[Napster的限定配信曲](https://zh.wikipedia.org/wiki/Napster_Japan "wikilink")。
+DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode和](https://zh.wikipedia.org/wiki/i-mode "wikilink")[Napster的限定配信曲](https://zh.wikipedia.org/wiki/Napster_Japan "wikilink")。
 
 到第8張單曲為止發售AKB48主要的唱片由[DefSTAR
 Records](../Page/DefSTAR_Records.md "wikilink")，本作是影音獨立製作人從第2張單曲《[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")》以來由[AKS發售的作品](../Page/AKS.md "wikilink")（配信）。
@@ -28,7 +28,7 @@ Records](../Page/DefSTAR_Records.md "wikilink")，本作是影音獨立製作人
     作曲：[上杉洋史](https://zh.wikipedia.org/wiki/上杉洋史 "wikilink")
     編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")）
       -
-        [PV的創意總監為小山田彰男](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，導演為森祐樹。服裝（攝影棚內片段）的概念，是源自1960年代的復古服裝風格\[2\]。至於游泳池畔的室外片段，是在[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[東陽的](https://zh.wikipedia.org/wiki/東陽_\(江東區\) "wikilink")「東京East
+        [PV的創意總監為小山田彰男](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，導演為森祐樹。服裝（攝影棚內片段）的概念，是源自1960年代的復古服裝風格\[2\]。至於游泳池畔的室外片段，是在[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[東陽的](../Page/東陽_\(江東區\).md "wikilink")「東京East
         21」花園游泳池實地取景。
 2.  **《Baby\! Baby\! Baby\!》（主奏橋段版）**（）
 3.  **《Baby\! Baby\! Baby\!》（間奏版）**（）

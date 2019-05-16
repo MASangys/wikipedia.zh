@@ -5,7 +5,8 @@
 ### DISC 1
 
 1.  **[除了你的事情其它什麼也沒法思考](../Page/想擁抱你_\(Mr.Children單曲\).md "wikilink")**（）
-2.  **[my confidence song](../Page/innocent_world.md "wikilink")**
+2.  **[my confidence
+    song](https://zh.wikipedia.org/wiki/innocent_world "wikilink")**
 3.  **[雨過天晴 remix version](../Page/【es】_～Theme_of_es～.md "wikilink")**（）
 4.  **[Fragile](../Page/See-Saw_Game_～勇敢的戀曲～.md "wikilink")**（）
 5.  **[還會再見面吧](../Page/無名的詩.md "wikilink")**（）

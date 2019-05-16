@@ -200,7 +200,7 @@
 <td><p><a href="../Page/竹中直人.md" title="wikilink">竹中直人</a>（阿南英一／シガレイン人間体）<br />
 （越村）<br />
 （片桐）<br />
-<a href="https://zh.wikipedia.org/wiki/沖田杏梨" title="wikilink">沖田杏梨</a>（片桐愛人）<br />
+<a href="../Page/沖田杏梨.md" title="wikilink">沖田杏梨</a>（片桐愛人）<br />
 （借火女）</p></td>
 </tr>
 <tr class="odd">
@@ -208,7 +208,7 @@
 <td><p>第二話</p></td>
 <td><p><strong>街燈</strong><br />
 （街灯）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣田玲央名" title="wikilink">廣田玲央名</a>（一貝志乃／ルーザギン人間体）<br />
+<td><p><a href="../Page/廣田玲央名.md" title="wikilink">廣田玲央名</a>（一貝志乃／ルーザギン人間体）<br />
 （忍田諒一）</p></td>
 </tr>
 <tr class="even">

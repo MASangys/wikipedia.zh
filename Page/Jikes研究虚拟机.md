@@ -1,5 +1,5 @@
 **Jikes研究虚拟机**（Jikes Research Virtual Machine,简称Jikes
-RVM)是一种成熟的用于执行[Java](../Page/Java.md "wikilink")[程序的](https://zh.wikipedia.org/wiki/程序 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，其早期版本与当前版本分别在（CPL）与[Eclipse公共许可证](https://zh.wikipedia.org/wiki/Eclipse公共许可证 "wikilink")（EPL）下开放代码。与其他以Java编写的虚拟机不同的是，Jikes
+RVM)是一种成熟的用于执行[Java](../Page/Java.md "wikilink")[程序的](https://zh.wikipedia.org/wiki/程序 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，其早期版本与当前版本分别在（CPL）与[Eclipse公共许可证](../Page/Eclipse公共许可证.md "wikilink")（EPL）下开放代码。与其他以Java编写的虚拟机不同的是，Jikes
 RVM采用了[元循环技术](https://zh.wikipedia.org/wiki/元循环求值器 "wikilink")。
 
 ## 历史
@@ -74,7 +74,7 @@ RVM的运行时有着许多新颖的特性，例如快速锁定机构，[协作�
   - 处理器支持
 
 Jikes RVM可以支持使用[Power
-PC](https://zh.wikipedia.org/wiki/Power_PC "wikilink")（即ppc）与[IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink")（即[x86](../Page/x86.md "wikilink")）指令集的[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")。
+PC](https://zh.wikipedia.org/wiki/Power_PC "wikilink")（即ppc）与[IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink")（即[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")）指令集的[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")。
 
   - 研究
 

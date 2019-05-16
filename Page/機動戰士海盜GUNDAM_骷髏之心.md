@@ -1,6 +1,6 @@
 《**機動戰士海盜GUNDAM
 骷髏之心**》（、）是[富野由悠季及](../Page/富野由悠季.md "wikilink")[矢立肇原作](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[長谷川裕一作畫的日本](../Page/長谷川裕一.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於[高達ACE](../Page/GUNDAM_ACE.md "wikilink")
-2002年11月號至2004年10月號及[月刊少年ACE](../Page/月刊少年ACE.md "wikilink")2003年10月號連載。連載時以《機動戰士海盜GUNDAM外傳》（）為名，在單行本時則改稱為《機動戰士海盜GUNDAM
+2002年11月號至2004年10月號及[月刊少年ACE](https://zh.wikipedia.org/wiki/月刊少年ACE "wikilink")2003年10月號連載。連載時以《機動戰士海盜GUNDAM外傳》（）為名，在單行本時則改稱為《機動戰士海盜GUNDAM
 骷髏之心》（）日文單行本由[角川書店發行](../Page/角川書店.md "wikilink")，未有中文代理。本作是《[機動戰士海盜鋼彈](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈 "wikilink")》的外傳故事。
 
 ## 故事簡介

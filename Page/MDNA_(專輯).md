@@ -109,8 +109,7 @@ Erlewine就覺得專輯製作得“強硬”及“過度簡單”只不過是“
 [每日電訊報](https://zh.wikipedia.org/wiki/每日電訊報 "wikilink")（*The Daily
 Telegraph*）的Helen
 Brown批評歌曲的歌詞“很糟糕的老套”並表示不喜歡麥當娜的音樂方向，“一個女人投放精力，努力讓自己看上來和聽上來都非常年輕，這不是流行音樂的精神”。\[42\]
-[Pitchfork
-Media的Matthew](https://zh.wikipedia.org/wiki/Pitchfork_Media "wikilink")
+[Pitchfork Media的Matthew](../Page/Pitchfork_Media.md "wikilink")
 Perpetua認為專輯大多歌曲都“難以置信地平凡”，並認為麥當娜的“義務、事務期限和利益衡量等都使她的情感空洞，令她創作的歌曲亦非常空洞”。\[43\]
 *The Village Voice*編者Maura
 Johnston認為麥當娜“缺乏製作電子舞蹈音樂的能力”並感到她的聲線“很弱”。\[44\]
@@ -196,11 +195,11 @@ Project)所贊助的比賽中勝利。她的畫作最終從十名決賽者中被
 ### 超級盃
 
 [Madonna_Super_Bowl_2012.1.jpg](https://zh.wikipedia.org/wiki/File:Madonna_Super_Bowl_2012.1.jpg "fig:Madonna_Super_Bowl_2012.1.jpg")
-2011年12月，麥當娜宣佈將於在[印第安納波利斯市的](../Page/印第安納波利斯.md "wikilink")[魯卡斯石油體育場裏為](https://zh.wikipedia.org/wiki/魯卡斯石油體育場 "wikilink")[第四十六届超级盃作中場表演](https://zh.wikipedia.org/wiki/第四十六届超级盃 "wikilink")。官方選擇了麥當娜作表演嘉賓，以代替未能作表演的美國藝人[Lady
+2011年12月，麥當娜宣佈將於在[印第安納波利斯市的](../Page/印第安納波利斯.md "wikilink")[魯卡斯石油體育場裏為](../Page/魯卡斯石油體育場.md "wikilink")[第四十六届超级盃作中場表演](https://zh.wikipedia.org/wiki/第四十六届超级盃 "wikilink")。官方選擇了麥當娜作表演嘉賓，以代替未能作表演的美國藝人[Lady
 Gaga](../Page/Lady_Gaga.md "wikilink")。麥當娜與[太陽劇團合作演出](../Page/太陽劇團.md "wikilink")。\[89\]
 消息指排練預演的時間達320小時。\[90\] 表演的視覺效果由太陽劇團和Jamie King製作。\[91\]\[92\]
 
-麥當娜在[印第安納波利斯市的](../Page/印第安納波利斯.md "wikilink")[魯卡斯石油體育場裏為](https://zh.wikipedia.org/wiki/魯卡斯石油體育場 "wikilink")[第四十六届超级盃作的中場表演在](https://zh.wikipedia.org/wiki/第四十六届超级盃 "wikilink")2012年2月5日於[NBC直播](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")。表演人員包括20名女舞員、7位主舞蹈員、200位教堂唱詩班成員以及100名鼓手。\[93\]
+麥當娜在[印第安納波利斯市的](../Page/印第安納波利斯.md "wikilink")[魯卡斯石油體育場裏為](../Page/魯卡斯石油體育場.md "wikilink")[第四十六届超级盃作的中場表演在](https://zh.wikipedia.org/wiki/第四十六届超级盃 "wikilink")2012年2月5日於[NBC直播](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")。表演人員包括20名女舞員、7位主舞蹈員、200位教堂唱詩班成員以及100名鼓手。\[93\]
 表演動用了36部投影機投射背景屏幕。麥當娜自己戴上了共120條的假眼睫毛。\[94\]
 表演開始時，麥當娜被150名[男搬手抬至舞台上](https://zh.wikipedia.org/wiki/搬運工 "wikilink")，他們的內褲是由[卡爾文·克雷恩](../Page/卡爾文·克雷恩.md "wikilink")
 (Calvin Klein)設計的。\[95\] 麥當娜戴著一頂金色的皇冠，重量達1,200磅。\[96\]

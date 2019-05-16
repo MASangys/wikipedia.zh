@@ -21,7 +21,7 @@
 
   - [栗駒山](https://zh.wikipedia.org/wiki/栗駒山 "wikilink")（[須川溫泉](https://zh.wikipedia.org/wiki/須川溫泉 "wikilink")）
   - [嚴美溪](https://zh.wikipedia.org/wiki/嚴美溪 "wikilink")
-  - [猊鼻溪](https://zh.wikipedia.org/wiki/猊鼻溪 "wikilink")
+  - [猊鼻溪](../Page/猊鼻溪.md "wikilink")
   - [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[一之關車站](https://zh.wikipedia.org/wiki/一之關車站 "wikilink")
   - [SATY一關店](https://zh.wikipedia.org/wiki/SATY一關店 "wikilink")
 

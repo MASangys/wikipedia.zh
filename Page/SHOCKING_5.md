@@ -1,5 +1,5 @@
 「**SHOCKING
-5**」（ショッキング5）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")4枚原創專輯。於2010年2月24日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+5**」（ショッキング5）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")4枚原創專輯。於2010年2月24日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -30,7 +30,7 @@
         10th單曲・成員[梅田繪里香的畢業單曲](https://zh.wikipedia.org/wiki/梅田繪里香 "wikilink")
 2.  **The Party\!**
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
 3.  **啊 戀愛**（）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[山崎淳](https://zh.wikipedia.org/wiki/山崎淳 "wikilink")）

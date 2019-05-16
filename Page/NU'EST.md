@@ -1,4 +1,4 @@
-**NU'EST**（），韓國[Pledis娛樂於](../Page/Pledis娛樂.md "wikilink")2012年推出的首組男子團體，成員有[Aron](../Page/郭英敏.md "wikilink")、[JR](https://zh.wikipedia.org/wiki/JR_\(NU'EST\) "wikilink")、[白虎](../Page/姜東昊.md "wikilink")、[旼炫及](../Page/黃旼炫.md "wikilink")[Ren](https://zh.wikipedia.org/wiki/崔珉起 "wikilink")，出道曲《FACE》為韓國男團出道曲YouTube最高觀看數記錄保持者，但後續發展不順，在瀕臨解散的2017年初四名成員參加《[PRODUCE
+**NU'EST**（），韓國[Pledis娛樂於](../Page/Pledis娛樂.md "wikilink")2012年推出的首組男子團體，成員有[Aron](../Page/郭英敏.md "wikilink")、[JR](../Page/JR_\(NU'EST\).md "wikilink")、[白虎](../Page/姜東昊.md "wikilink")、[旼炫及](../Page/黃旼炫.md "wikilink")[Ren](../Page/崔珉起.md "wikilink")，出道曲《FACE》為韓國男團出道曲YouTube最高觀看數記錄保持者，但後續發展不順，在瀕臨解散的2017年初四名成員參加《[PRODUCE
 101
 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》，節目中的出色表現使NU'EST重新獲得大眾矚目，被譽為逆行icon之一。
 
@@ -26,16 +26,16 @@ Band（Aron），我們是NU'EST！（全體）」
 
 ## 成員資料
 
-| 成員列表                                                         |
-| ------------------------------------------------------------ |
-| 藝名                                                           |
-| 漢字                                                           |
-| [Aron](../Page/郭英敏.md "wikilink")                            |
-| 아론 곽                                                         |
-| [JR](https://zh.wikipedia.org/wiki/JR_\(NU'EST\) "wikilink") |
-| [白虎](../Page/姜東昊.md "wikilink")                              |
-| [旼炫](../Page/黃旼炫.md "wikilink")                              |
-| [Ren](https://zh.wikipedia.org/wiki/崔珉起 "wikilink")          |
+| 成員列表                                      |
+| ----------------------------------------- |
+| 藝名                                        |
+| 漢字                                        |
+| [Aron](../Page/郭英敏.md "wikilink")         |
+| 아론 곽                                      |
+| [JR](../Page/JR_\(NU'EST\).md "wikilink") |
+| [白虎](../Page/姜東昊.md "wikilink")           |
+| [旼炫](../Page/黃旼炫.md "wikilink")           |
+| [Ren](../Page/崔珉起.md "wikilink")          |
 
 ## 經歷
 
@@ -47,7 +47,7 @@ School等女性歌手，第一次推出了男生團體。Pledis
 boys隨即得到了歌迷的火熱關注，立志成為與眾不同的男子團體\[4\]。2011年，Pledis
 boys透過Pledis家族專輯《2011 HAPPY PLEDIS》首次亮相\[5\]。
 
-在NU'EST出道前，成員們已經參與了許多前輩的舞台。2011年，NU'EST與[S.COUPS出演了](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")[A.S.
+在NU'EST出道前，成員們已經參與了許多前輩的舞台。2011年，NU'EST與[S.COUPS出演了](../Page/Seventeen_\(組合\).md "wikilink")[A.S.
 BLUE的出道曲](https://zh.wikipedia.org/wiki/After_School_Blue "wikilink")《Wonder
 Boy》的MV和現場演出<ref>**<big>現場舞台及MV影片總整理：</big>**NU'EST, S.COUPS 出演 A.S.
 BLUE - WONDER BOY
@@ -135,7 +135,7 @@ is](https://zh.wikipedia.org/wiki/Q_is "wikilink").》回歸，主打歌〈Overc
 Paint（Every
 Afternoon）〉適合在每天下午欣賞，歌詞描述男人遇見真命天女後的心情，彷彿是在黑白的畫布上注入了多樣的色彩，並漸漸形成一幅協調的畫作
 \[44\]。回歸後在SBS MTV 音樂節目[THE
-SHOW首次成為一位侯補](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")，最終遺憾地得第二名\[45\]。此張專輯的整體市場反應卻是所有專輯中最差
+SHOW首次成為一位侯補](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")，最終遺憾地得第二名\[45\]。此張專輯的整體市場反應卻是所有專輯中最差
 ，僅售出6,359張，NU'EST整體陷入低迷。
 
 ### 2017上半年：JR、白虎、旼炫、Ren參加《PRODUCE 101 第二季》
@@ -187,13 +187,13 @@ Countdown》奪得出道六年以來第一個在音樂節目上的一位\[81\]�
 Youth活動始於2016年，目的在於發揚勇於挑戰的精神。NU'EST W通過出演Produce
 101迎來第二次機會，展現了朝着目標的熱情與團隊精神，詮釋了「Fear
 Nothing，燦爛的青春，開始總是美好」的概念\[83\]。而原本只有選擇JR和Ren為代言人的LABIOTTE因銷量大增，於11月與NU'EST
-W簽訂2018年全年度全品牌代言合約\[84\]。12月23日發行首次電視劇原聲帶作品[tvN](https://zh.wikipedia.org/wiki/TVN "wikilink")《[花遊記](https://zh.wikipedia.org/wiki/和遊記 "wikilink")》OST〈Let
+W簽訂2018年全年度全品牌代言合約\[84\]。12月23日發行首次電視劇原聲帶作品[tvN](../Page/TVN.md "wikilink")《[花遊記](https://zh.wikipedia.org/wiki/和遊記 "wikilink")》OST〈Let
 Me Out〉，廣受各界好評。
 
 2017年末頒獎，出道第六年的NU'EST W成員憑著《W,
 HERE》專輯年度銷量308,108張的成績，首次踏上表演舞台與頒獎台，於[亞洲明星盛典獲得歌手部門最佳演藝人獎](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")、[Mnet亞洲音樂大獎取得年度發現獎](../Page/Mnet亞洲音樂大獎.md "wikilink")，並繼2012年入圍[金唱片獎新人獎後](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，再次入圍金唱片獎並贏得本賞，以及[首爾歌謠大賞獲頒本賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")，[Gaon
 Chart
-K-POP大獎提名](https://zh.wikipedia.org/wiki/Gaon_Chart_K-POP大獎 "wikilink")7月、10月音源部門年度歌手與第四季專輯部門年度歌手，並取得火熱表演獎。
+K-POP大獎提名](../Page/Gaon_Chart_K-POP大獎.md "wikilink")7月、10月音源部門年度歌手與第四季專輯部門年度歌手，並取得火熱表演獎。
 
 整年度的戲劇性轉折，NU'EST與[EXID被並列為韓國男團與女團的逆行icon](https://zh.wikipedia.org/wiki/EXID "wikilink")\[85\]\[86\]\[87\]。
 
@@ -235,7 +235,7 @@ W的L.O.Λ.E便當](https://zh.wikipedia.org/wiki/NU'EST_W的L.O.Λ.E便當 "wik
 廣告及代言活動不斷的NU'EST
 W，自10月1日起成為[NCsoft旗下角色品牌Spoonz的代言人](../Page/NCsoft.md "wikilink")\[109\]，當日發行合作單曲〈[I
 Don't Care（with
-Spoonz）](https://zh.wikipedia.org/wiki/I_Don't_Care（with_Spoonz） "wikilink")〉及MV，並且參與快閃店活動，此次代言合作得到熱烈迴響。11月1日開始則因其親切陽光的形象受到大眾喜愛，與同公司的[SEVENTEEN共同代言知名韓式速食品牌](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")\[110\]\[111\]。活躍在各領域中的NU'EST
+Spoonz）](https://zh.wikipedia.org/wiki/I_Don't_Care（with_Spoonz） "wikilink")〉及MV，並且參與快閃店活動，此次代言合作得到熱烈迴響。11月1日開始則因其親切陽光的形象受到大眾喜愛，與同公司的[SEVENTEEN共同代言知名韓式速食品牌](../Page/Seventeen_\(組合\).md "wikilink")\[110\]\[111\]。活躍在各領域中的NU'EST
 W，正積極展現出大勢偶像的不凡魅力。
 
 在歌迷們處於被各種活動、廣告代言與綜藝節目填滿的豐足時光中，11月1日由PLEDIS娛樂正式確認，以等待成員黃旼炫為意義的子團NU'EST
@@ -472,7 +472,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第7屆 <a href="https://zh.wikipedia.org/wiki/Gaon_Chart_K-POP大獎" title="wikilink">Gaon Chart K-POP大獎</a></p></td>
+<td><p>第7屆 <a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a></p></td>
 <td><p>年度歌手音源部門 10月</p></td>
 <td><p>WHERE YOU AT</p></td>
 <td></td>
@@ -521,7 +521,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018 <a href="https://zh.wikipedia.org/wiki/APAN_Star_Awards" title="wikilink">APAN STAR AWARDS</a></p></td>
+<td><p>2018 <a href="../Page/APAN_Star_Awards.md" title="wikilink">APAN STAR AWARDS</a></p></td>
 <td><p>Makestar OST獎</p></td>
 <td><p>AND I</p></td>
 <td></td>

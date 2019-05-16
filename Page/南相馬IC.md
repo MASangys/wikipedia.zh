@@ -23,7 +23,7 @@
 ## 交流道周邊
 
   - [南相馬市政廳](../Page/南相馬市.md "wikilink")
-  - [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[常磐線](../Page/常磐線.md "wikilink")[相馬車站](https://zh.wikipedia.org/wiki/相馬車站 "wikilink")
+  - [JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[常磐線](../Page/常磐線.md "wikilink")[相馬車站](../Page/相馬車站.md "wikilink")
   - 南相馬市馬事公苑
   - 福島縣立原町高等學校
   - 雲雀原祭場地

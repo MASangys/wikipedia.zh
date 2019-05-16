@@ -9,7 +9,7 @@
 
 ### 間接連接
 
-  - [國道153號](https://zh.wikipedia.org/wiki/國道153號 "wikilink")
+  - [國道153號](../Page/國道153號.md "wikilink")
   - [國道152號](https://zh.wikipedia.org/wiki/國道152號 "wikilink")
 
 ## 歷史

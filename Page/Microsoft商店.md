@@ -29,7 +29,7 @@ UI型應用程式](https://zh.wikipedia.org/wiki/Metro_UI "wikilink")、現代�
 ### 傳統應用程式
 
 傳統桌面應用程式，在Windows 8後的版本中無改變。Windows
-8讓大多數軟體與以前版本的[x86](../Page/x86.md "wikilink")/[x64](https://zh.wikipedia.org/wiki/x64 "wikilink")
+8讓大多數軟體與以前版本的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")/[x64](https://zh.wikipedia.org/wiki/x64 "wikilink")
 [Windows軟體相容](https://zh.wikipedia.org/wiki/Windows "wikilink")，和[Windows
 7的限制相同](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")：
 

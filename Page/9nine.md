@@ -1,21 +1,21 @@
 [9nine_logo.jpg](https://zh.wikipedia.org/wiki/File:9nine_logo.jpg "fig:9nine_logo.jpg")
-**9nine**是[LesPros娛樂旗下的一個](https://zh.wikipedia.org/wiki/LesPros娛樂 "wikilink")[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，成員全部由事務所屬下的[藝人選出而成](https://zh.wikipedia.org/wiki/藝人 "wikilink")，成立于2005年。團體組成初期擁有9名成員，因而取名「9nine」，不過在經過數次成員變動後，最终在2010年確立了當中5個人的成員地位，並以5人組合身分繼續活動，但保留「9nine」的名字\[1\]，2016年7月23日，川島海荷退團，以4人組持續活動。2019年4月6日「9nine
+**9nine**是[LesPros娛樂旗下的一個](../Page/LesPros娛樂.md "wikilink")[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，成員全部由事務所屬下的[藝人選出而成](https://zh.wikipedia.org/wiki/藝人 "wikilink")，成立于2005年。團體組成初期擁有9名成員，因而取名「9nine」，不過在經過數次成員變動後，最终在2010年確立了當中5個人的成員地位，並以5人組合身分繼續活動，但保留「9nine」的名字\[1\]，2016年7月23日，川島海荷退團，以4人組持續活動。2019年4月6日「9nine
 one man live 2019 Forever 9nine」活動結束活動休止。
 
 ## 歷史
 
 ### 2005年－2010年：起步階段
 
-2005年，[LesPros娛樂事務所選出旗下](https://zh.wikipedia.org/wiki/LesPros娛樂 "wikilink")9人組成組合，初始成員包括松澤梓、我妻三輪子、加藤瑠美、芦田万莉惠、吉田茉以、山岡美鳥、佐武宇綺、西脇彩華及三浦萌。翌年2月5日，9人在進行團體組成後首個活動，並在2月14日[情人節發佈出道](https://zh.wikipedia.org/wiki/情人節 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》，開始在都内各地進行[Live和各種現場演出活動](https://zh.wikipedia.org/wiki/Live "wikilink")。
+2005年，[LesPros娛樂事務所選出旗下](../Page/LesPros娛樂.md "wikilink")9人組成組合，初始成員包括松澤梓、我妻三輪子、加藤瑠美、芦田万莉惠、吉田茉以、山岡美鳥、佐武宇綺、西脇彩華及三浦萌。翌年2月5日，9人在進行團體組成後首個活動，並在2月14日[情人節發佈出道](https://zh.wikipedia.org/wiki/情人節 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》，開始在都内各地進行[Live和各種現場演出活動](https://zh.wikipedia.org/wiki/Live "wikilink")。
 
-2007年1月，成員松澤梓和我妻三輪子在團體組成後2年宣布畢業退出團體，但同時加入了下垣真香、[川島海荷兩位新成員補上空位](../Page/川島海荷.md "wikilink")。9nine在出道一週年，即2月14日發佈了第四首[數位單曲](../Page/數位音樂下載.md "wikilink")《白色花瓣》，隨後在3月21日發佈首張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")《》。12月，加藤瑠美畢業退出，9nine以8人組合繼續活動，但團名保持不變。6月4日，9nine首張由[勝利娛樂發行的單曲](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")《Show
+2007年1月，成員松澤梓和我妻三輪子在團體組成後2年宣布畢業退出團體，但同時加入了下垣真香、[川島海荷兩位新成員補上空位](../Page/川島海荷.md "wikilink")。9nine在出道一週年，即2月14日發佈了第四首[數位單曲](../Page/數位音樂下載.md "wikilink")《白色花瓣》，隨後在3月21日發佈首張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")《》。12月，加藤瑠美畢業退出，9nine以8人組合繼續活動，但團名保持不變。6月4日，9nine首張由[勝利娛樂發行的單曲](../Page/勝利娛樂.md "wikilink")《Show
 TIME》開售，並且只限於[TOWER
 RECORDS發售](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。單曲首次登上Oricon公信榜，排名第162位。7月9日，第二張專輯《》發售。
 
 2009年4月4日，9nine首個專屬[電台節目](https://zh.wikipedia.org/wiki/電台 "wikilink")「」開始，並於9月26日完成廣播。5月20日，[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")「It's
 SHOW TIME\!\! Ver:SAKURA '09」Part.1、2 和數位單曲《》同時發售。DVD「It's SHOW TIME
 Ver:SAKURA」的發售紀念握手会於5月24日在[TOWER
-RECORDS新宿店舉行](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。10月21日，第三張單曲《》發售。2010年1月5日，第二個專屬兼冠名電台節目「」開播。1月20日，9nine發售最後一張經[勝利娛樂發行的單曲](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")《》（），此曲同時成為下垣真香和三浦萌在畢業前的最後一張作品。
+RECORDS新宿店舉行](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。10月21日，第三張單曲《》發售。2010年1月5日，第二個專屬兼冠名電台節目「」開播。1月20日，9nine發售最後一張經[勝利娛樂發行的單曲](../Page/勝利娛樂.md "wikilink")《》（），此曲同時成為下垣真香和三浦萌在畢業前的最後一張作品。
 
 ### 2010年至2012年：重組和成名
 
@@ -31,17 +31,17 @@ DRIVER」進行了[音樂合作](../Page/商業搭配.md "wikilink")，因此其
 
 2011年3月9日，9nine在第六張單曲《SHINING☆STAR》發售的同時在社交網站[GREE和](https://zh.wikipedia.org/wiki/GREE "wikilink")[Myspace開設了官方專頁](../Page/Myspace.md "wikilink")\[6\]。7月20日，第七張單曲《[夏
 wanna say love
-U](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")》發售，A面曲被選為GREE社交遊戲「」[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[廣告歌曲](https://zh.wikipedia.org/wiki/廣告歌曲 "wikilink")。12月21日發售的第八張單曲《[滴答☆2NITE](https://zh.wikipedia.org/wiki/滴答☆2NITE "wikilink")》，A面曲也成了[新垣結衣主演](../Page/新垣結衣.md "wikilink")[日本電視台系劇集](../Page/日本電視台.md "wikilink")「[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")」主題曲\[7\]。
+U](../Page/夏_wanna_say_love_U.md "wikilink")》發售，A面曲被選為GREE社交遊戲「」[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[廣告歌曲](https://zh.wikipedia.org/wiki/廣告歌曲 "wikilink")。12月21日發售的第八張單曲《[滴答☆2NITE](../Page/滴答☆2NITE.md "wikilink")》，A面曲也成了[新垣結衣主演](../Page/新垣結衣.md "wikilink")[日本電視台系劇集](../Page/日本電視台.md "wikilink")「[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")」主題曲\[7\]。
 
-2012年1月11日，首個在[核心局播放的冠名節目](../Page/核心局.md "wikilink")「」在[日本電視台開始播放](../Page/日本電視台.md "wikilink")\[8\]。1月25日，第九張單曲《[少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink")》發售\[9\]，首次成功登上[Oricon公信榜週間頭](../Page/Oricon公信榜.md "wikilink")10位（第9位）\[10\]。3月7日，發佈第三張專輯《[9nine](https://zh.wikipedia.org/wiki/9nine_\(專輯\) "wikilink")》\[11\]。9nine在同日開設[Youtube官方頻道](../Page/Youtube.md "wikilink")。3月10日，持續長達一年半的電台節目「」結束。6月20日，第十張單曲《[流星之吻](../Page/流星之吻_\(9nine單曲\).md "wikilink")》發售。
+2012年1月11日，首個在[核心局播放的冠名節目](../Page/核心局.md "wikilink")「」在[日本電視台開始播放](../Page/日本電視台.md "wikilink")\[8\]。1月25日，第九張單曲《[少女旅行者](../Page/少女旅行者.md "wikilink")》發售\[9\]，首次成功登上[Oricon公信榜週間頭](../Page/Oricon公信榜.md "wikilink")10位（第9位）\[10\]。3月7日，發佈第三張專輯《[9nine](../Page/9nine_\(專輯\).md "wikilink")》\[11\]。9nine在同日開設[Youtube官方頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")。3月10日，持續長達一年半的電台節目「」結束。6月20日，第十張單曲《[流星之吻](../Page/流星之吻_\(9nine單曲\).md "wikilink")》發售。
 
 2012年8月4至5日，9nine出席了一年一度的，與[SKE48](../Page/SKE48.md "wikilink")、[櫻花學院等知名組合在](../Page/櫻花學院.md "wikilink")[台場演出](https://zh.wikipedia.org/wiki/台場 "wikilink")\[12\]。11月14日，第11張單曲《》發售。該單曲是為電視劇「[好好\!殭屍女孩〜東京電視台戰記〜](https://zh.wikipedia.org/wiki/好好!殭屍女孩〜東京電視台戰記〜 "wikilink")」而編寫的主題曲，而9nine全體成員均出演了該劇\[13\]。9nine在11月18日至12月9日舉行了首個LIVE
 HOUSE巡迴演唱會「出張\!全国LIVE HOUSE好好\!巡迴
 2012」（）。相隔不足一個月後，第12張單曲《》在12月12日發行，此曲亦同樣是一首電視劇主題曲（[鄰座的怪同學的片尾曲](../Page/鄰座的怪同學.md "wikilink")）\[14\]。
 
 [Re_9nine.jpg](https://zh.wikipedia.org/wiki/File:Re_9nine.jpg "fig:Re_9nine.jpg")》被選為[堺雅人主演的連續劇](../Page/堺雅人.md "wikilink")[Legal
-high主題曲](../Page/Legal_high.md "wikilink")。\]\]
-2013年2月6日，第13張單曲《[colorful](https://zh.wikipedia.org/wiki/Colorful_\(9nine單曲\) "wikilink")》發售。本曲為9nine與「STAR
+high主題曲](https://zh.wikipedia.org/wiki/Legal_high "wikilink")。\]\]
+2013年2月6日，第13張單曲《[colorful](../Page/Colorful_\(9nine單曲\).md "wikilink")》發售。本曲為9nine與「STAR
 DRIVER」進行[音樂合作的一部分](../Page/商業搭配.md "wikilink")，因此成為了「STAR
 DRIVER」劇場版的主题曲\[15\]。第四張專輯《》在3月13日發佈，當中收錄的13首歌曲中包含了第10至14張單曲的A面曲。9nine於短期內兩次舉行了巡迴演唱會，分別是3月15日至3月30日與[東京女子流](../Page/東京女子流.md "wikilink")、[Cheeky
 Parade一同進行的全国](../Page/Cheeky_Parade.md "wikilink")7地巡迴演唱會「」（[北海道](../Page/北海道.md "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")、[宮城](https://zh.wikipedia.org/wiki/宮城 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）；以及5月6日至6月30日於[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、東京、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、大阪、廣島和福岡舉行的第二次LIVE
@@ -49,16 +49,16 @@ HOUSE巡迴演唱會「CUE唱片出發\! 9nine全国 百聞\<一見TOUR
 2013」\[16\]。在此之間，9nine亦在5月17日於[香港](../Page/香港.md "wikilink")[西九龍中心參與首次海外活動](../Page/西九龍中心.md "wikilink")「Kawaii
 POP Fest -supported by
 @JAM-」，並且演唱了歌曲和與歌迷舉行握手會\[17\]，5名成員的媽媽更隨團到場觀看演出\[18\]。成員在[香港時也接受了](../Page/香港.md "wikilink")[亞洲電視的電視專訪](../Page/亞洲電視.md "wikilink")\[19\]。6月12日，第14張單曲《[Evolution
-No.9](https://zh.wikipedia.org/wiki/Evolution_No.9 "wikilink")》發售。在「9nine之日」（9月9日）的前一日（9月8日），9nine為歌迷舉辦了「F9GBP」（Fan
+No.9](../Page/Evolution_No.9.md "wikilink")》發售。在「9nine之日」（9月9日）的前一日（9月8日），9nine為歌迷舉辦了「F9GBP」（Fan
 9 Global Broadcasting Party）和「9nine's Day COUNTDOWN PARTY」。
 
 ### 2013年2016年4月：武道館公演、專輯《MAGI9 PLAYLAND》
 
 [MAGI9PLAYLAND_Limited_B.jpg](https://zh.wikipedia.org/wiki/File:MAGI9PLAYLAND_Limited_B.jpg "fig:MAGI9PLAYLAND_Limited_B.jpg")
-2013年11月20日發售的第15張單曲《[Re:](https://zh.wikipedia.org/wiki/Re:_\(9nine單曲\) "wikilink")》被[富士電視台採用為由](../Page/富士電視台.md "wikilink")[堺雅人主演的連續劇](../Page/堺雅人.md "wikilink")《[Legal
-high](../Page/Legal_high.md "wikilink")》主題曲\[20\]，並在[Oricon公信榜週榜獲得第六名](../Page/Oricon公信榜.md "wikilink")，是組團以來最高的排名\[21\]。單曲發賣當日，9nine宣布將於2014年8月21日在日本武道館舉辦單獨演唱會「9nine
+2013年11月20日發售的第15張單曲《[Re:](../Page/Re:_\(9nine單曲\).md "wikilink")》被[富士電視台採用為由](../Page/富士電視台.md "wikilink")[堺雅人主演的連續劇](../Page/堺雅人.md "wikilink")《[Legal
+high](https://zh.wikipedia.org/wiki/Legal_high "wikilink")》主題曲\[20\]，並在[Oricon公信榜週榜獲得第六名](../Page/Oricon公信榜.md "wikilink")，是組團以來最高的排名\[21\]。單曲發賣當日，9nine宣布將於2014年8月21日在日本武道館舉辦單獨演唱會「9nine
 Dream Live in
-武道館」，是團體組成9年來首次在武道館舉行公演\[22\]。12月4日，9nine開始發售下年4月26日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[中野太陽廣場舉辦的獨家演唱會](https://zh.wikipedia.org/wiki/中野太陽廣場 "wikilink")「9nine
+武道館」，是團體組成9年來首次在武道館舉行公演\[22\]。12月4日，9nine開始發售下年4月26日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[中野太陽廣場舉辦的獨家演唱會](../Page/中野太陽廣場.md "wikilink")「9nine
 Wonder Live in Sun Plaza」，門票在開賣後迅速售罄\[23\]。
 
 2014年3月12日，第16張單曲《[With You/With
@@ -67,8 +67,8 @@ Me](https://zh.wikipedia.org/wiki/With_You/With_Me "wikilink")》發售，並再
 FES\!\!2014」，是西脇彩華首次與姐姐西脇綾香在同一舞台演出\[27\]，兩人在最後互相穿上對方團體的服裝，分別演出歌曲《[SPICE](../Page/SPICE_\(Perfume單曲\).md "wikilink")》、《[SHINING☆STAR](../Page/SHINING☆STAR.md "wikilink")》和《[Puppy
 love](../Page/GAME_\(Perfume專輯\).md "wikilink")》，引起傳媒廣泛報道\[28\]\[29\]\[30\]。5月10日，9nine在[幕張展覽館與](../Page/幕張展覽館.md "wikilink")[PASSPO☆](../Page/PASSPO☆.md "wikilink")、[babyraids](https://zh.wikipedia.org/wiki/babyraids "wikilink")、[東京女子流等團體一同出席一年一度的](../Page/東京女子流.md "wikilink")「KAWAii\!\!
 NiPPON EXPO 2014」\[31\]。6月18日，9nine發行其第三張原創專輯《[MAGI9
-PLAYLAND](https://zh.wikipedia.org/wiki/MAGI9_PLAYLAND "wikilink")》\[32\]，當中的「初回生產限定盤A」版本與[Perfume在翌月推出的單曲](https://zh.wikipedia.org/wiki/Perfume "wikilink")《[Cling
-Cling](https://zh.wikipedia.org/wiki/Cling_Cling "wikilink")》同樣附帶收錄了[西脇彩華在](https://zh.wikipedia.org/wiki/西脇彩華 "wikilink")3月與姊姊西脇綾香首次合演「Perfume
+PLAYLAND](../Page/MAGI9_PLAYLAND.md "wikilink")》\[32\]，當中的「初回生產限定盤A」版本與[Perfume在翌月推出的單曲](https://zh.wikipedia.org/wiki/Perfume "wikilink")《[Cling
+Cling](../Page/Cling_Cling.md "wikilink")》同樣附帶收錄了[西脇彩華在](../Page/西脇彩華.md "wikilink")3月與姊姊西脇綾香首次合演「Perfume
 FES\!\!
 2014」特典影片的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[33\]。8月21日，9nine在[日本武道館舉行首次單獨演唱會](../Page/日本武道館.md "wikilink")，入場人數達一萬\[34\]，其後於12月在東京、[名古屋及](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[大阪三地舉行巡迴演唱會](https://zh.wikipedia.org/wiki/大阪 "wikilink")「9nine
 MAGICAL TOUR
@@ -118,7 +118,7 @@ MAGICAL TOUR 2014 COUNTDOWN」\[35\]。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西脇彩華" title="wikilink">西脇彩華</a><br />
+<td><p><a href="../Page/西脇彩華.md" title="wikilink">西脇彩華</a><br />
 （）</p></td>
 <td><p>（Chapon）</p></td>
 <td></td>
@@ -283,7 +283,7 @@ CD</small></p></td>
 <td><p>－</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/勝利娛樂" title="wikilink">勝利娛樂</a></p></td>
+<td><p><a href="../Page/勝利娛樂.md" title="wikilink">勝利娛樂</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -335,7 +335,7 @@ CD</small></p></td>
 <td><p><small>初回生產限定盤（CD+DVD）<br />
 期間限定生產盤（CD）<br />
 通常盤（CD）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/9nine_(專輯)" title="wikilink">9nine</a></p></td>
+<td><p><a href="../Page/9nine_(專輯).md" title="wikilink">9nine</a></p></td>
 <td><p>25位</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=nx5Kwxb3MiY">完整版</a> </p></td>
 </tr>
@@ -351,7 +351,7 @@ CD</small></p></td>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2011年7月20日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/夏_wanna_say_love_U" title="wikilink">夏 wanna say love U</a></strong></p></td>
+<td><p><strong><a href="../Page/夏_wanna_say_love_U.md" title="wikilink">夏 wanna say love U</a></strong></p></td>
 <td><p><small>初回生產限定盤A（CD+DVD）<br />
 初回生產限定盤B（CD+DVD）<br />
 通常盤（CD）</small></p></td>
@@ -362,7 +362,7 @@ CD</small></p></td>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2011年12月21日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/滴答☆2NITE" title="wikilink">滴答☆2NITE</a></strong></p></td>
+<td><p><strong><a href="../Page/滴答☆2NITE.md" title="wikilink">滴答☆2NITE</a></strong></p></td>
 <td><p><small>初回生產限定盤A（CD+DVD）<br />
 初回生產限定盤B（CD+DVD）<br />
 初回生產限定盤C（CD+DVD）<br />
@@ -374,7 +374,7 @@ CD</small></p></td>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2012年1月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/少女旅行者" title="wikilink">少女旅行者</a></strong></p></td>
+<td><p><strong><a href="../Page/少女旅行者.md" title="wikilink">少女旅行者</a></strong></p></td>
 <td><p>9位</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=lyxwjgG_Vd0">完整版</a> </p></td>
 <td></td>
@@ -430,11 +430,11 @@ CD</small></p></td>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2013年6月12日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Evolution_No.9" title="wikilink">Evolution No.9</a></strong></p></td>
+<td><p><strong><a href="../Page/Evolution_No.9.md" title="wikilink">Evolution No.9</a></strong></p></td>
 <td><p><small>初回生產限定盤A（CD+DVD）<br />
 初回生產限定盤B（CD+12P相片集）<br />
 通常盤（CD）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MAGI9_PLAYLAND" title="wikilink">MAGI9 PLAYLAND</a></p></td>
+<td><p><a href="../Page/MAGI9_PLAYLAND.md" title="wikilink">MAGI9 PLAYLAND</a></p></td>
 <td><p>11位</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=D9d3fcN4lkg">完整版</a> <br />
 <a href="http://www.youtube.com/watch?v=vHs4gCgW5f0">舞蹈版</a> </p></td>
@@ -442,7 +442,7 @@ CD</small></p></td>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2013年11月20日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Re:_(9nine單曲)" title="wikilink">Re:</a></strong></p></td>
+<td><p><strong><a href="../Page/Re:_(9nine單曲).md" title="wikilink">Re:</a></strong></p></td>
 <td><p><small>初回生產限定盤A（CD+DVD）<br />
 初回生產限定盤B（CD+DVD）<br />
 初回生產限定盤C（CD+DVD）<br />
@@ -525,7 +525,7 @@ CD</small></p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2012年3月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/9nine_(專輯)" title="wikilink">9nine</a></strong></p></td>
+<td><p><strong><a href="../Page/9nine_(專輯).md" title="wikilink">9nine</a></strong></p></td>
 <td><p><small>CD+DVD<br />
 CD+相片集<br />
 CD</small></p></td>
@@ -543,7 +543,7 @@ CD</small></p></td>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2014年6月18日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MAGI9_PLAYLAND" title="wikilink">MAGI9 PLAYLAND</a></strong></p></td>
+<td><p><strong><a href="../Page/MAGI9_PLAYLAND.md" title="wikilink">MAGI9 PLAYLAND</a></strong></p></td>
 <td><p><small>初回生產限定盤A（CD+DVD）<br />
 初回生產限定盤B（CD+24頁相片集）<br />
 通常盤（CD）</small></p></td>
@@ -721,9 +721,9 @@ CD</small></p></td>
     CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")
 
       - （2011年9月26日、[富士電視台](../Page/富士電視台.md "wikilink")）嘉賓出演、演出《[too
-        blue](https://zh.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")》。
+        blue](../Page/夏_wanna_say_love_U.md "wikilink")》。
 
-      - （2012年1月9日、富士電視台）嘉賓出演、首次在電視上演出《[少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink")》。
+      - （2012年1月9日、富士電視台）嘉賓出演、首次在電視上演出《[少女旅行者](../Page/少女旅行者.md "wikilink")》。
 
   - （2012年1月25日、日本電視台）嘉賓出演，演出成員包括川島、佐武和西脇。
 
@@ -739,7 +739,7 @@ CD</small></p></td>
   - [閒聊007](../Page/閒聊007.md "wikilink")（2012年1月30日、日本電視台）嘉賓出演。
 
   - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2012年2月5日、NHK）嘉賓出演，演出《[少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink")》。
+    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2012年2月5日、NHK）嘉賓出演，演出《[少女旅行者](../Page/少女旅行者.md "wikilink")》。
 
   - （2012年2月18日、日本電視台）嘉賓出演，演出《少女旅行者》。
 
@@ -754,26 +754,26 @@ CD</small></p></td>
   - 月刊MelodiX\!（2012年11月24日、東京電視台）嘉賓出演，演出《》。
 
   - HAPPY
-    MUSIC（2013年3月23日、日本電視台）嘉賓出演，演出《[colorful](https://zh.wikipedia.org/wiki/Colorful_\(9nine單曲\) "wikilink")》。
+    MUSIC（2013年3月23日、日本電視台）嘉賓出演，演出《[colorful](../Page/Colorful_\(9nine單曲\).md "wikilink")》。
 
   - MUSIC JAPAN（2013年6月13日、NHK）嘉賓出演，演出《[Evolution
-    No.9](https://zh.wikipedia.org/wiki/Evolution_No.9 "wikilink")》。
+    No.9](../Page/Evolution_No.9.md "wikilink")》。
 
   - （2013年6月28日、日本電視台）嘉賓出演，演出《Evolution No.9》。
 
-  - [音樂日](https://zh.wikipedia.org/wiki/音樂日 "wikilink")（2013年6月29日、TBS）嘉賓出演，演出《Evolution
+  - [音樂日](../Page/音樂日.md "wikilink")（2013年6月29日、TBS）嘉賓出演，演出《Evolution
     No.9》。
 
   - （2013年11月、[富士電視台](../Page/富士電視台.md "wikilink")）擔任每月嘉賓。
 
   - MUSIC
-    JAPAN（2013年12月5日、NHK）嘉賓出演，演出《[Re:](https://zh.wikipedia.org/wiki/Re:_\(9nine單曲\) "wikilink")》。
+    JAPAN（2013年12月5日、NHK）嘉賓出演，演出《[Re:](../Page/Re:_\(9nine單曲\).md "wikilink")》。
 
   - 音樂龍（2013年12月13日、日本電視台）嘉賓出演，演出《Re:》。
 
 ### 廣告
 
-  - [NEXON日本](../Page/NEXON.md "wikilink")：線上RPG遊戲「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")」（2008年）
+  - [NEXON日本](https://zh.wikipedia.org/wiki/NEXON "wikilink")：線上RPG遊戲「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")」（2008年）
   - [GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")「我是精明的經理」（）（2011年）
 
 ### 電台節目

@@ -1,5 +1,5 @@
 ***2011 Winter SMTown – The Warmest Gift*** 是[SM
-Town第八張冬季合輯](../Page/SM_Town.md "wikilink")─同時除了是第一張英文專輯外，還是新成員[f(x)第一次參與錄制](../Page/f\(x\)_\(組合\).md "wikilink")。
+Town第八張冬季合輯](../Page/SM_Town.md "wikilink")─同時除了是第一張英文專輯外，還是新成員[f(x)第一次參與錄制](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")。
 
 ## 曲目列表
 

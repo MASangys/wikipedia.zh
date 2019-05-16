@@ -9,7 +9,7 @@ TIMES](../Page/4_TIMES.md "wikilink")》、《[不要停止愛我](../Page/不�
   - 原本將收錄12首歌，最後增加新曲至11首，共收錄17首歌曲，本次的全曲全附[音樂錄影帶是繼](../Page/音樂錄影帶.md "wikilink")《[Kingdom
     <small>倖感王國</small>](../Page/Kingdom_\(倖田來未專輯\).md "wikilink")》再次收錄的豪華內容\[2\]，也是史前無例收錄11首新歌音樂錄影帶。
   - 原訂於春天的巡迴演唱會「[KODA KUMI LIVE TOUR 2013
-    ～JAPONESOUE～](https://zh.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2013_～JAPONESOUE～ "wikilink")」因懷孕而延期至2013年3月16日展開\[3\]。
+    ～JAPONESOUE～](../Page/KODA_KUMI_LIVE_TOUR_2013_～JAPONESOUE～.md "wikilink")」因懷孕而延期至2013年3月16日展開\[3\]。
   - 本作於發行首週獲得[公信榜](https://zh.wikipedia.org/wiki/公信榜 "wikilink")[專輯週榜冠軍](../Page/2012年Oricon專輯週榜冠軍作品列表.md "wikilink")，為連續第8張冠軍專輯（含精選輯2張）\[4\]。
 
 ## 發行版本

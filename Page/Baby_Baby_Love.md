@@ -39,4 +39,4 @@ STAR](../Page/渚之SHOOTING_STAR.md "wikilink")」相隔約3個月時間發售�
 [Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink")
 
 1.  2010年11月は戸松が所属する[sphere
-    (聲優團體)のメンバーソロシングルの連続週リリースであり](../Page/sphere_\(聲優團體\).md "wikilink")、本作是第1週目にリリースされた
+    (聲優團體)のメンバーソロシングルの連続週リリースであり](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")、本作是第1週目にリリースされた

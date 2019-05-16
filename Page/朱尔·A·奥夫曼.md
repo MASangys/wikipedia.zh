@@ -29,7 +29,7 @@ Europaea、欧洲分子生物组织(EMBO)、[美国文理科学院以及](../Pag
   - 2010 [庆应医学奖](https://zh.wikipedia.org/wiki/庆应医学奖 "wikilink")
   - 2011 [Gairdner Foundation International
     Award](https://zh.wikipedia.org/wiki/Gairdner_Foundation_International_Award "wikilink")
-    (与[審良靜男分享](https://zh.wikipedia.org/wiki/審良靜男 "wikilink"))
+    (与[審良靜男分享](../Page/審良靜男.md "wikilink"))
   - 2011 [邵逸夫生命科學與醫學獎](../Page/邵逸夫獎.md "wikilink")
     (与[布鲁斯·博伊特勒和Ruslan](../Page/布鲁斯·博伊特勒.md "wikilink")
     M. Medzhitov分享)

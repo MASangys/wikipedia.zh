@@ -14,7 +14,8 @@
     \[Electlixxx vs. HEAVENS WiRE D'n'B Remix\]
 3.  [Love Me Back](../Page/Love_Me_Back.md "wikilink") \[Sunset In Ibiza
     Dubstep Remix\]
-4.  [Teaser feat. Clench＆Blistah](../Page/grow_into_one.md "wikilink")
+4.  [Teaser feat.
+    Clench＆Blistah](https://zh.wikipedia.org/wiki/grow_into_one "wikilink")
     \[Caramel Pod Dubstep Remix\]
 5.  [Melting](../Page/Dejavu_\(倖田來未專輯\).md "wikilink") \[DJ OMKT & MJ
     Remix\]
@@ -36,7 +37,8 @@
     Remix\]
 15. [Butterfly](../Page/Butterfly_\(倖田來未單曲\).md "wikilink") \[TeddyLoid
     Remix\]
-16. [you](../Page/you_\(倖田來未單曲\).md "wikilink") \[KOZMR Remix\]
+16. [you](https://zh.wikipedia.org/wiki/you_\(倖田來未單曲\) "wikilink")
+    \[KOZMR Remix\]
 17. [喜歡，喜歡，喜歡。](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")
     \[AILI's Warmy Remix\]
 18. Love Me Back \[The Young Punx\! Remix\] 【Bonus Track】

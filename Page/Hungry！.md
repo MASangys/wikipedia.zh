@@ -109,8 +109,7 @@ chou」。但沒想到餐廳已經被企業家麻生時男（[稲垣吾郎飾](h
   - **山手華子(享年56)** - [片平渚](https://zh.wikipedia.org/wiki/片平渚 "wikilink")
   - **山手太朗(57)** - [大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
   - **大楠義明(52)** - [橋本潤](https://zh.wikipedia.org/wiki/橋本潤 "wikilink")
-  - **大楠佐助(14)** -
-    [佐藤勝利](https://zh.wikipedia.org/wiki/佐藤勝利 "wikilink")（[Sexy
+  - **大楠佐助(14)** - [佐藤勝利](../Page/佐藤勝利.md "wikilink")（[Sexy
     Zone](../Page/Sexy_Zone.md "wikilink")）
   - **白山祐希(37)** - [鈴木砂羽](https://zh.wikipedia.org/wiki/鈴木砂羽 "wikilink")
 

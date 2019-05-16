@@ -23,7 +23,7 @@ B和劇場盤3種形式發售。標題曲是與[みのもんた的](https://zh.w
 
   - 1期生:[大河内美紗](https://zh.wikipedia.org/wiki/大河内美紗 "wikilink")、河内麻沙美、[手束真知子](../Page/手束真知子.md "wikilink")
   - 2期生:[相川友希](../Page/相川友希.md "wikilink")、[奈津子](../Page/奈津子.md "wikilink")、福田朱子、藤社優美、細田海友、松島瑠美
-  - 3期生:シヨン、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[miray](../Page/miray.md "wikilink")
+  - 3期生:シヨン、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[miray](https://zh.wikipedia.org/wiki/miray "wikilink")
       -
         河内・相川・奈津子從A調到G。大河内・手束・細田・松島・シヨン・戶島・miray從B調到G。
 

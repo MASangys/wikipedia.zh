@@ -14,7 +14,7 @@ PC-98平台的[射擊遊戲第四作](https://zh.wikipedia.org/wiki/射擊遊戲
 Story.](../Page/東方幻想鄉_～_Lotus_Land_Story..md "wikilink")》，《Bad
 apple\!\!》是该游戏中第3關的背景音樂\[1\]。2007年，同人音乐组织[Alstroemeria
 Records根据](https://zh.wikipedia.org/wiki/Alstroemeria_Records "wikilink")《Bad
-apple\!\!》原曲的其中一段主旋律重编了本曲，由于是[nomico演唱](../Page/nomico.md "wikilink")，故将该曲命名为《Bad
+apple\!\!》原曲的其中一段主旋律重编了本曲，由于是[nomico演唱](https://zh.wikipedia.org/wiki/nomico "wikilink")，故将该曲命名为《Bad
 Apple\!\!
 feat.nomico》，收录于專輯《Lovelight》，发布于第4次[博丽神社例大祭](https://zh.wikipedia.org/wiki/博麗神社例大祭 "wikilink")，并于2008年1月首次出现在[niconico上](https://zh.wikipedia.org/wiki/niconico "wikilink")\[2\]。
 
@@ -25,7 +25,7 @@ Apple\!\!　ＰＶ【影絵】》影片才初步结束了该轮比拼\[4\]。截
 
 《Bad
 apple\!\!》被多个[音乐游戏收录为游戏曲目](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。2013年，《Bad
-apple\!\!》被《[节奏大师](https://zh.wikipedia.org/wiki/节奏大师 "wikilink")》收录为游戏曲目\[7\]。2018年，《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》（[任天堂Switch版](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）宣布将《Bad
+apple\!\!》被《[节奏大师](../Page/节奏大师.md "wikilink")》收录为游戏曲目\[7\]。2018年，《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》（[任天堂Switch版](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）宣布将《Bad
 apple\!\!》列入游戏收录曲目中\[8\]。
 
 ## 影响

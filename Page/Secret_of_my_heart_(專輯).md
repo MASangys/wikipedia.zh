@@ -38,33 +38,39 @@ heart**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "w
       -
         第2張單曲的英文版本
 6.  **[Can't get enough 〜gimme your
-    love〜](../Page/delicious_way.md "wikilink")**
+    love〜](https://zh.wikipedia.org/wiki/delicious_way "wikilink")**
       - 作詞・作曲：Yoko B. Stone　編曲：Cybersound
     <!-- end list -->
       -
-        第1張專輯「[delicious way](../Page/delicious_way.md "wikilink")」收錄歌曲
-7.  **[Delicious Way](../Page/delicious_way.md "wikilink")**
+        第1張專輯「[delicious
+        way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」收錄歌曲
+7.  **[Delicious
+    Way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")**
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：ZOD
     <!-- end list -->
       -
         第1張專輯「[delicious
-        way](../Page/delicious_way.md "wikilink")」收錄歌曲的英文版本
+        way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」收錄歌曲的英文版本
 8.  **[Love, Day After
     Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")**
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：ZOD
     <!-- end list -->
       -
         日本出道單曲的英文版本
-9.  **[Stepping ∞ Out](../Page/delicious_way.md "wikilink")**
+9.  **[Stepping ∞
+    Out](https://zh.wikipedia.org/wiki/delicious_way "wikilink")**
       - 作詞：倉木麻衣　作・編曲： Yoko B. Stone
     <!-- end list -->
       -
-        第1張專輯「[delicious way](../Page/delicious_way.md "wikilink")」收錄歌曲。
-10. **[Baby Tonight 〜You & Me〜](../Page/delicious_way.md "wikilink")**
+        第1張專輯「[delicious
+        way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」收錄歌曲。
+10. **[Baby Tonight 〜You &
+    Me〜](https://zh.wikipedia.org/wiki/delicious_way "wikilink")**
       - 作詞：倉木麻衣・M. Africk　作曲：Yoko B. Stone・笠原智緒　編曲：Yoko B. Stone
     <!-- end list -->
       -
-        第1張專輯「[delicious way](../Page/delicious_way.md "wikilink")」收錄歌曲
+        第1張專輯「[delicious
+        way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」收錄歌曲
 11. **Baby I Like 〜Extacy Vocal Mix〜**
       - 作詞：Yoko B. Stone　作曲：Yoko B. Stone　編曲：[Justin
         Strauss](https://zh.wikipedia.org/wiki/Justin_Strauss "wikilink")

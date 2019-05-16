@@ -173,8 +173,7 @@ manipulation</p></td>
   - for source code syntax, including backslash escape sequences.
 
   -
-  - [Null-terminated
-    string](https://zh.wikipedia.org/wiki/C风格字符串 "wikilink")
+  - [Null-terminated string](../Page/C风格字符串.md "wikilink")
 
 [Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
 [Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink")

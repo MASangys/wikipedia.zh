@@ -1,4 +1,4 @@
-[鄭進永](https://zh.wikipedia.org/wiki/鄭進永 "wikilink"){{、w}}[崔貞媛](../Page/崔貞媛.md "wikilink"){{、w}}[趙東赫](../Page/趙東赫.md "wikilink")
+[鄭進永](../Page/鄭進永.md "wikilink"){{、w}}[崔貞媛](../Page/崔貞媛.md "wikilink"){{、w}}[趙東赫](../Page/趙東赫.md "wikilink")
 | slogan = | judges = | voices = | narrated = | theme_music_composer =
 | opentheme = | endtheme = | composer = | country =  | language =
 [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
@@ -21,13 +21,13 @@ website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
 ### 主要角色
 
   - [申河均](../Page/申河均.md "wikilink") 飾演 李江勛
-  - [鄭進永](https://zh.wikipedia.org/wiki/鄭進永 "wikilink") 飾演 金尚哲
+  - [鄭進永](../Page/鄭進永.md "wikilink") 飾演 金尚哲
   - [崔貞媛](../Page/崔貞媛.md "wikilink") 飾演 尹智慧
   - [趙東赫](../Page/趙東赫.md "wikilink") 飾演 徐俊錫
 
 ### 天下大學醫院
 
-  - [李聖旻](https://zh.wikipedia.org/wiki/李聖旻 "wikilink") 飾演 高宰赫
+  - [李聖旻](../Page/李聖旻.md "wikilink") 飾演 高宰赫
   - [潘曉靜](../Page/潘曉靜.md "wikilink") 飾演 黃英善
   - [朴哲鎬](https://zh.wikipedia.org/wiki/朴哲鎬 "wikilink") 飾演 朴任範
   - [林志恩](../Page/林志恩.md "wikilink") 飾演 洪恩淑
@@ -36,9 +36,9 @@ website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
 ### 神經外科
 
   - [郭勝南](https://zh.wikipedia.org/wiki/郭勝南 "wikilink") 飾演 楊范俊
-  - [沈亨倬](https://zh.wikipedia.org/wiki/沈亨倬 "wikilink") 飾演 趙代植
+  - [沈亨倬](../Page/沈亨倬.md "wikilink") 飾演 趙代植
   - [李承朱](https://zh.wikipedia.org/wiki/李承朱 "wikilink") 飾演 董勝萬
-  - [權律](https://zh.wikipedia.org/wiki/權律 "wikilink") 飾演 余奉久
+  - [權律](../Page/權律.md "wikilink") 飾演 余奉久
 
 ### 美容診所
 
@@ -48,7 +48,7 @@ website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
 ### 江勛家
 
   - [宋鈺宿](../Page/宋鈺宿.md "wikilink") 飾演 金順任
-  - [金佳恩](https://zh.wikipedia.org/wiki/金佳恩 "wikilink") 飾演 李河英
+  - [金佳恩](../Page/金佳恩.md "wikilink") 飾演 李河英
 
 ### 俊錫家
 
@@ -57,9 +57,9 @@ website = <http://www.kbs.co.kr/drama/brain/> | production_website = |
 
 ### 其他人物
 
-  - [高仁範](https://zh.wikipedia.org/wiki/高仁範 "wikilink") 飾演 張會長
+  - [高仁範](../Page/高仁範.md "wikilink") 飾演 張會長
   - [洪日權](https://zh.wikipedia.org/wiki/洪日權 "wikilink") 飾演 黃泰成
-  - [崔日和](https://zh.wikipedia.org/wiki/崔日和 "wikilink") 飾演 安東錫
+  - [崔日和](../Page/崔日和.md "wikilink") 飾演 安東錫
   - [全茂松](https://zh.wikipedia.org/wiki/全茂松 "wikilink") 飾演 金申佑
 
 ### 客串出演

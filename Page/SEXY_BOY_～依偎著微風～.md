@@ -1,5 +1,5 @@
 《**SEXY BOY ～依偎著微風～**》（**SEXY BOY
-\~そよ風に寄り添って\~**）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第29张[单曲](../Page/单曲.md "wikilink")，於2006年3月15日由[zetima发售](../Page/zetima.md "wikilink")。
+\~そよ風に寄り添って\~**）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第29张[单曲](../Page/单曲.md "wikilink")，於2006年3月15日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

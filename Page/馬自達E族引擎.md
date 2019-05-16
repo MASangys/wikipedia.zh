@@ -46,7 +46,7 @@
 ### E5T型
 
 [Mazda_E5T_engine_of_a_1986_Mazda_Familia_(BF5P)_XG_turbo_sedan_01.jpg](https://zh.wikipedia.org/wiki/File:Mazda_E5T_engine_of_a_1986_Mazda_Familia_\(BF5P\)_XG_turbo_sedan_01.jpg "fig:Mazda_E5T_engine_of_a_1986_Mazda_Familia_(BF5P)_XG_turbo_sedan_01.jpg")
-在E5型的基礎加上EGI燃油噴射系統及[渦輪增壓系統](../Page/渦輪增壓器.md "wikilink")（未含中冷器）就成了**E5T型**引擎，這具引擎於1983年起正式供應日本當地市場。它採用了日本[石川島播磨重工業製造的VJ](https://zh.wikipedia.org/wiki/IHI "wikilink")1型渦輪，可榨出115ps
+在E5型的基礎加上EGI燃油噴射系統及[渦輪增壓系統](../Page/渦輪增壓器.md "wikilink")（未含中冷器）就成了**E5T型**引擎，這具引擎於1983年起正式供應日本當地市場。它採用了日本[石川島播磨重工業製造的VJ](../Page/IHI.md "wikilink")1型渦輪，可榨出115ps
 / 5,800rpm的最大馬力、16.5kg·m /
 3,500rpm的最大扭力。其他值得注意的地方包括安裝由[三菱汽車供應的綜合](https://zh.wikipedia.org/wiki/三菱汽車 "wikilink")[爆震感知器](../Page/爆震.md "wikilink")，以及[多點燃油噴射系統](../Page/燃料噴射裝置.md "wikilink")。
 

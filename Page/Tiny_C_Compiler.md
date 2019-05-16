@@ -1,6 +1,6 @@
 **Tiny C
-Compiler**（縮寫為TCC、tCc或TinyCC）是一个用於[x86](../Page/x86.md "wikilink")（16/32位元）或[x86-64](../Page/x86-64.md "wikilink")（64位元）系統的[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，開發者為[Fabrice
-Bellard](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")。軟體是設計用於低階電腦環境，或是於磁碟容量有限的空間中（1.44磁片或是硬碟）。軟體可以適用於[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix作業系統](../Page/Unix.md "wikilink")，而最新版本為0.9.27（2017年12月17日）。TCC是在[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")（LGPL）協定規範下發布。
+Compiler**（縮寫為TCC、tCc或TinyCC）是一个用於[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")（16/32位元）或[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")（64位元）系統的[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，開發者為[Fabrice
+Bellard](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")。軟體是設計用於低階電腦環境，或是於磁碟容量有限的空間中（1.44磁片或是硬碟）。軟體可以適用於[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix作業系統](https://zh.wikipedia.org/wiki/Unix "wikilink")，而最新版本為0.9.27（2017年12月17日）。TCC是在[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")（LGPL）協定規範下發布。
 
 TCC符合[ANSI C](../Page/ANSI_C.md "wikilink")（C89/C90）規範\[1\]亦符合新版的ISO
 [C99標準規範](https://zh.wikipedia.org/wiki/C99 "wikilink")，與GNU
@@ -11,7 +11,7 @@ assembler](https://zh.wikipedia.org/wiki/內聯彙編 "wikilink")）功能[汇�
 
   - 支援C99 VLA規範
   - 可產生make的dependencies（-MD/-MF）
-  - 支援多種平台的程式編寫，例：[x86-64](../Page/x86-64.md "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")、[OSX](https://zh.wikipedia.org/wiki/OSX "wikilink")、[WinCE](https://zh.wikipedia.org/wiki/WinCE "wikilink")、[kFreeBSD](https://zh.wikipedia.org/wiki/kFreeBSD "wikilink")、[Hurd](https://zh.wikipedia.org/wiki/Hurd "wikilink")
+  - 支援多種平台的程式編寫，例：[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")、[OSX](https://zh.wikipedia.org/wiki/OSX "wikilink")、[WinCE](https://zh.wikipedia.org/wiki/WinCE "wikilink")、[kFreeBSD](https://zh.wikipedia.org/wiki/kFreeBSD "wikilink")、[Hurd](https://zh.wikipedia.org/wiki/Hurd "wikilink")
   - 修正一些已知的bug
 
 ## 特色功能

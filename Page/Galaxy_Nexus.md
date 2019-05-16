@@ -7,7 +7,7 @@ Nexus于12月8日推出，此后陸續在美國、日本、韓國及香港上市
 Play商店中也有在线销售](../Page/Google_Play.md "wikilink")。
 
 在2012年10月29日公布其继任者，[LG的](https://zh.wikipedia.org/wiki/LG "wikilink")[Nexus
-4](https://zh.wikipedia.org/wiki/Nexus_4 "wikilink")，而在[Google
+4](../Page/Nexus_4.md "wikilink")，而在[Google
 Play商店Galaxy](../Page/Google_Play.md "wikilink") Nexus不再出售。\[2\]
 
 ## 硬件

@@ -2,7 +2,7 @@
 
 ## 与dsp<sup>3</sup>杂化间的转换
 
-因为d<sup>3</sup>sp杂化轨道与[dsp<sup>3</sup>杂化轨道相似](https://zh.wikipedia.org/wiki/dsp3杂化轨道 "wikilink")，两者常被等同看待。\[2\]d<sup>3</sup>sp杂化轨道的能量比较低，因此较为稳定。所以[dsp<sup>3</sup>杂化可以转变为d](../Page/dsp3杂化.md "wikilink")<sup>3</sup>sp杂化。\[3\]
+因为d<sup>3</sup>sp杂化轨道与[dsp<sup>3</sup>杂化轨道相似](https://zh.wikipedia.org/wiki/dsp3杂化轨道 "wikilink")，两者常被等同看待。\[2\]d<sup>3</sup>sp杂化轨道的能量比较低，因此较为稳定。所以[dsp<sup>3</sup>杂化可以转变为d](https://zh.wikipedia.org/wiki/dsp3杂化 "wikilink")<sup>3</sup>sp杂化。\[3\]
 
 ## 参考文献
 

@@ -34,9 +34,8 @@ int epoll_wait(int epfd, struct epoll_event *events, int maxevents, int timeout)
 ## 相關條目
 
   - [kqueue](https://zh.wikipedia.org/wiki/kqueue "wikilink")
-  - [libevent](../Page/libevent.md "wikilink")
-  - [I/O Completion
-    Ports](https://zh.wikipedia.org/wiki/IOCP "wikilink")
+  - [libevent](https://zh.wikipedia.org/wiki/libevent "wikilink")
+  - [I/O Completion Ports](../Page/IOCP.md "wikilink")
 
 ## 參考資料
 

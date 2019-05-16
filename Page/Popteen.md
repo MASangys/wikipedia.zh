@@ -19,8 +19,8 @@
 
 ## 已畢業的Popteen模特兒
 
-  - [益若翼](https://zh.wikipedia.org/wiki/益若翼 "wikilink")
-  - [舞川亞郁](https://zh.wikipedia.org/wiki/舞川亞郁 "wikilink")
+  - [益若翼](../Page/益若翼.md "wikilink")
+  - [舞川亞郁](../Page/舞川亞郁.md "wikilink")
   - [樋口智子](https://zh.wikipedia.org/wiki/樋口智子 "wikilink")
   - [小森純](https://zh.wikipedia.org/wiki/小森純 "wikilink")
   - [菅野結以](../Page/菅野結以.md "wikilink")
@@ -41,7 +41,7 @@
   - [松本愛](https://zh.wikipedia.org/wiki/松本愛 "wikilink")
   - [奧脇晴梨夏](https://zh.wikipedia.org/wiki/奧脇晴梨夏 "wikilink")
   - [武田玲奈](../Page/武田玲奈.md "wikilink")
-  - [椎名光](https://zh.wikipedia.org/wiki/椎名光 "wikilink")（Pikari）
+  - [椎名光](../Page/椎名光.md "wikilink")（Pikari）
   - [藤田ニコル](https://zh.wikipedia.org/wiki/藤田ニコル "wikilink")
   - [川後陽菜](../Page/川後陽菜.md "wikilink")([乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink"))
   - [池田美優](https://zh.wikipedia.org/wiki/池田美優 "wikilink")

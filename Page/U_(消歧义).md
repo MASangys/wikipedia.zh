@@ -84,8 +84,7 @@
 ## 其他用法
 
   - U，[大學的縮寫](../Page/大學.md "wikilink")
-  - [U
-    Mobile](https://zh.wikipedia.org/wiki/U_Mobile "wikilink")，馬來西亞的電信商
+  - [U Mobile](../Page/U_Mobile.md "wikilink")，馬來西亞的電信商
   - Ⓤ，經過[猶太教認證過後所用的符號](https://zh.wikipedia.org/wiki/猶太教 "wikilink")
   - U，[克盧日大學足球俱樂部的縮寫](https://zh.wikipedia.org/wiki/克盧日大學足球俱樂部 "wikilink")
   - U，[魔法風雲會中藍色的卡牌](https://zh.wikipedia.org/wiki/魔法風雲會 "wikilink")

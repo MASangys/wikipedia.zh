@@ -31,7 +31,7 @@
 </table>
 
 **KV4**是[埃及](../Page/埃及.md "wikilink")[帝王谷之中的一个坟墓](../Page/帝王谷.md "wikilink")。这座坟墓一开始是为[拉美西斯十一世制作的](../Page/拉美西斯十一世.md "wikilink")，但是它的建筑进程被中断，拉美西斯自然也没有下葬。[第二十一王朝的大祭司](https://zh.wikipedia.org/wiki/埃及第二十一王朝 "wikilink")[Pinedjem
-I似乎也打算使用这座陵墓](https://zh.wikipedia.org/wiki/Pinedjem_I "wikilink")，但他最终也中断了这个计划。KV4之所以有名，在於它是帝王谷裏被開採的最後一個王室陵墓，另一點就是它被視為在[第三中間時期早期的一個用作正式拆除王室墓地的工作坊](https://zh.wikipedia.org/wiki/第三中間時期 "wikilink")。
+I似乎也打算使用这座陵墓](https://zh.wikipedia.org/wiki/Pinedjem_I "wikilink")，但他最终也中断了这个计划。KV4之所以有名，在於它是帝王谷裏被開採的最後一個王室陵墓，另一點就是它被視為在[第三中間時期早期的一個用作正式拆除王室墓地的工作坊](../Page/第三中間時期.md "wikilink")。
 
 ## 挖掘与发现
 

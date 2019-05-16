@@ -72,7 +72,7 @@
   - 企画 - DYNAMIC企畫
   - 構成・脚本 - [早川正](https://zh.wikipedia.org/wiki/早川正 "wikilink")
   - 魔神皇帝SKL、威因古設計 -
-    [野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")（[PLEX](../Page/PLEX.md "wikilink")）
+    [野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")（[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")）
   - 人物設定 - 伊藤岳史
   - 機械設定 -
     [阿部宗孝](https://zh.wikipedia.org/wiki/阿部宗孝 "wikilink")、堀井敏之、小川浩
@@ -195,7 +195,7 @@
 
 <!-- end list -->
 
-  - [超級機器人大戰UX](https://zh.wikipedia.org/wiki/超級機器人大戰UX "wikilink")
+  - [超級機器人大戰UX](../Page/超級機器人大戰UX.md "wikilink")
 
 《[無敵鐵金剛](../Page/無敵鐵金剛.md "wikilink")》系列的主角兜甲兒第一次缺席《[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")》版權作，由海動劍及真上遼代表《無敵鐵金剛》系列參戰。
 

@@ -1,4 +1,4 @@
-《**初音島III**》（，簡稱D.C.III）是一隻由[日本](../Page/日本.md "wikilink")[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS製作和發行的](../Page/CIRCUS_\(遊戲品牌\).md "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》系列的續作。全年龄版本於2012年4月27日發售\[1\]。7月7日在TOKYO
+《**初音島III**》（，簡稱D.C.III）是一隻由[日本](../Page/日本.md "wikilink")[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS製作和發行的](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》系列的續作。全年龄版本於2012年4月27日發售\[1\]。7月7日在TOKYO
 MX電視台播出的特別節目「初音島3」中宣布TV動畫化，並於2013年1月開始播放。18禁版本《R
 x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
@@ -94,8 +94,10 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
     ; 「」
 
       -
-        歌 - [yozuca\*](../Page/yozuca*.md "wikilink")、作詞・作曲 - tororo、編曲
-        - [黑須克彦](https://zh.wikipedia.org/wiki/黑須克彦 "wikilink")
+        歌 -
+        [yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")、作詞・作曲
+        - tororo、編曲 -
+        [黑須克彦](https://zh.wikipedia.org/wiki/黑須克彦 "wikilink")
 
   - 風見鷄編片頭曲
     ; 「」
@@ -109,7 +111,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
       -
         歌 -
-        [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[愛美](https://zh.wikipedia.org/wiki/愛美 "wikilink")、作詞・作曲
+        [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[愛美](../Page/愛美.md "wikilink")、作詞・作曲
         - tororo\&No Life Negotiator、編曲 - No Life Negotiator
 
   - Da Capo線片頭曲
@@ -132,13 +134,13 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
     ;「millions of thanks」（D.C.III DASH 〜ダ・カーポIII Ver.1.3〜 USBメモリ版）
 
       -
-        歌 - [mao](../Page/mao.md "wikilink")、作詞・作曲・編曲 - No Life
-        Negotiator
+        歌 - [mao](https://zh.wikipedia.org/wiki/mao "wikilink")、作詞・作曲・編曲
+        - No Life Negotiator
 
   - 片頭曲
     ;「[endless memory 〜refrain as Da
-    Capo〜](https://zh.wikipedia.org/wiki/Decade "wikilink")」（D.C.III R
-    〜ダ・カーポIII アール〜、D.C.III R 〜ダ・カーポIII アール〜X-rated）
+    Capo〜](../Page/Decade.md "wikilink")」（D.C.III R 〜ダ・カーポIII
+    アール〜、D.C.III R 〜ダ・カーポIII アール〜X-rated）
 
       -
         歌 -
@@ -196,7 +198,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
   - 原作：[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(公司\) "wikilink")
   - 監督、系列構成：石倉賢一
-  - 角色原案：[谷原菜月](https://zh.wikipedia.org/wiki/谷原菜月 "wikilink")、[鷹乃ゆき](https://zh.wikipedia.org/wiki/鷹乃ゆき "wikilink")
+  - 角色原案：[谷原菜月](../Page/谷原菜月.md "wikilink")、[鷹乃ゆき](https://zh.wikipedia.org/wiki/鷹乃ゆき "wikilink")
   - 角色設計、總作畫監督：西尾公伯
   - 音樂：[中西亮輔](https://zh.wikipedia.org/wiki/中西亮輔 "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
@@ -216,7 +218,8 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
 :; 「」（第1、10－13話）
 
-:: 作詞、作曲、歌：[yozuca\*](../Page/yozuca*.md "wikilink")，編曲：lotta
+::
+作詞、作曲、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，編曲：lotta
 
 :; 「」（第2－5、7－9話）
 
@@ -460,7 +463,7 @@ x-rated》原定2013年4月26日发售，改為5月31日發售\[2\]。
 
 ## 漫畫
 
-同名[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《初音島III》（）於2012年5月號起在[角川書店發行的](../Page/角川書店.md "wikilink")《[Comptiq](https://zh.wikipedia.org/wiki/Comptiq "wikilink")》進行發表\[4\]，漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年12月6日首次發售\[5\]，於2014年2月26日推出第3本\[6\]。2012年9月號開始，在[ASCII
+同名[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《初音島III》（）於2012年5月號起在[角川書店發行的](../Page/角川書店.md "wikilink")《[Comptiq](../Page/Comptiq.md "wikilink")》進行發表\[4\]，漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年12月6日首次發售\[5\]，於2014年2月26日推出第3本\[6\]。2012年9月號開始，在[ASCII
 Media Works發行的](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's
 magazine](../Page/電擊G's_magazine.md "wikilink")》進行發表，漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年12月15日至2013年9月27日發售\[7\]\[8\]。
 

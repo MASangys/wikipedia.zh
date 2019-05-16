@@ -124,10 +124,10 @@ Dr.Moon</p></td>
 |width=14.2% align=center|**第四張專輯
 **90'鬧Now***'
 |width=14.2% align=center|**第五個作品
-[2020愛你愛妳](https://zh.wikipedia.org/wiki/2020愛你愛妳 "wikilink")
+[2020愛你愛妳](../Page/2020愛你愛妳.md "wikilink")
 寫真 + EP**
 |width=14.2% align=center|**第五張專輯
-[MY.遊樂園](https://zh.wikipedia.org/wiki/MY.遊樂園 "wikilink")**
+[MY.遊樂園](../Page/MY.遊樂園.md "wikilink")**
 |width=14.2% align=center|**第六張專輯
 [Cat and Mouse](../Page/Cat_and_Mouse.md "wikilink")*'
 

@@ -65,7 +65,7 @@ LGBT权益在日本很少被公开讨论，多数政党也没有发表任何正�
 ## 参见
 
   - [日本同性婚姻](../Page/日本同性婚姻.md "wikilink")
-  - [亚洲LGBT权益](https://zh.wikipedia.org/wiki/亚洲LGBT权益 "wikilink")
+  - [亚洲LGBT权益](../Page/亚洲LGBT权益.md "wikilink")
   - [韓國LGBT权益](https://zh.wikipedia.org/wiki/韓國LGBT权益 "wikilink")
   - [朝鮮LGBT权益](https://zh.wikipedia.org/wiki/朝鮮LGBT权益 "wikilink")
   - [中華民國LGBT权益](https://zh.wikipedia.org/wiki/中華民國LGBT权益 "wikilink")

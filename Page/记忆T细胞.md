@@ -16,7 +16,7 @@
 
 ## 功能
 
-针对特定抗原的记忆T细胞在T<sub>CM</sub>和T<sub>EM</sub>子类中都存在。尽管目前多数信息都是以对[细胞毒性T细胞](https://zh.wikipedia.org/wiki/细胞毒性T细胞 "wikilink")（[CD8阳性](https://zh.wikipedia.org/wiki/CD8 "wikilink")）的观察得来的，但是相似的性质在[辅助型T细胞](https://zh.wikipedia.org/wiki/辅助型T细胞 "wikilink")（[CD4阳性](https://zh.wikipedia.org/wiki/CD4 "wikilink")）和细胞毒T细胞上都有出现。
+针对特定抗原的记忆T细胞在T<sub>CM</sub>和T<sub>EM</sub>子类中都存在。尽管目前多数信息都是以对[细胞毒性T细胞](../Page/细胞毒性T细胞.md "wikilink")（[CD8阳性](https://zh.wikipedia.org/wiki/CD8 "wikilink")）的观察得来的，但是相似的性质在[辅助型T细胞](https://zh.wikipedia.org/wiki/辅助型T细胞 "wikilink")（[CD4阳性](https://zh.wikipedia.org/wiki/CD4 "wikilink")）和细胞毒T细胞上都有出现。
 
 T<sub>CM</sub>细胞被认为与[干细胞拥有一些相似的性质](https://zh.wikipedia.org/wiki/干细胞 "wikilink")。T<sub>CM</sub>细胞显示出一种自我更新的能力，因为他的一种关键的[转录因子](../Page/转录因子.md "wikilink")[STAT5拥有很高的](https://zh.wikipedia.org/wiki/STAT5 "wikilink")[磷酸化成程度](../Page/磷酸化.md "wikilink")。\[3\]在老鼠身上做的实验发现，T<sub>CM</sub>细胞相对T<sub>EM</sub>而言，对病毒\[4\]、细菌\[5\]和癌症\[6\]侵蚀的抵抗能力更强。
 

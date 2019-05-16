@@ -78,7 +78,7 @@ Area 51是Alienware中的頂級產品，外型上與大部分的四方型機箱�
 
 #### Alpha
 
-Alpha是Alienware中最小的机型，在2015年与世界最大的网络游戏商店[steam合作推出了](../Page/steam.md "wikilink")[Steam系統的版本](../Page/Steam.md "wikilink")。
+Alpha是Alienware中最小的机型，在2015年与世界最大的网络游戏商店[steam合作推出了](https://zh.wikipedia.org/wiki/steam "wikilink")[Steam系統的版本](../Page/Steam.md "wikilink")。
 
 ## 参考文献
 

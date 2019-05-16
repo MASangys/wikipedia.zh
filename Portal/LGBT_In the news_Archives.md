@@ -1,0 +1,29 @@
+## 2009年
+
+  - [2009年](../Page/2009年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")，英国首相[戈登·布朗代表英国政府向](../Page/戈登·布朗.md "wikilink")[计算机科学奠基人](../Page/计算机科学.md "wikilink")、同性恋者[艾伦·图灵道歉](../Page/艾伦·图灵.md "wikilink")。当年，艾伦·图灵因身为同性恋而受到迫害并自杀身亡。
+  - [2009年](../Page/2009年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")，[瑞典教会投票通过允许该教会主持](https://zh.wikipedia.org/wiki/瑞典教会 "wikilink")[同性婚礼的决议](../Page/瑞典同性婚姻.md "wikilink")，成为世界上首个为同性恋者办理宗教婚礼的一个国家的主要教会机构。
+  - [2009年](../Page/2009年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")，[瑞典国家健康与福利委员会裁定](https://zh.wikipedia.org/wiki/瑞典国家健康与福利委员会 "wikilink")，有关永久禁止男同性恋者[献血的禁令将于](../Page/献血.md "wikilink")[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[3月1日正式废除](../Page/3月1日.md "wikilink")。
+  - [2009年](../Page/2009年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")，[安妮絲‧帕克當選](https://zh.wikipedia.org/wiki/安妮絲‧帕克 "wikilink")[美國第四大城](https://zh.wikipedia.org/wiki/美國 "wikilink")[休士頓市長](https://zh.wikipedia.org/wiki/休士頓 "wikilink")，令休士頓成為由同性戀者領導的[美國最大城市](https://zh.wikipedia.org/wiki/美國城市列表_\(按人口排列\) "wikilink")。
+  - [2009年](../Page/2009年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")，[墨西哥首都](../Page/墨西哥.md "wikilink")[墨西哥城地方议会通过](../Page/墨西哥城.md "wikilink")[同性婚姻合法化的法案](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，使墨西哥城成为[拉丁美洲首个允许同性恋者结婚的城市](../Page/拉丁美洲.md "wikilink")。
+  - [2009年](../Page/2009年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")，[巴基斯坦最高法院裁定](../Page/巴基斯坦.md "wikilink")，准许主要为[双性人和](https://zh.wikipedia.org/wiki/双性人 "wikilink")[变性人的](https://zh.wikipedia.org/wiki/变性人 "wikilink")[海基拉将自己定义为一个独特的性别](https://zh.wikipedia.org/wiki/海基拉 "wikilink")。
+  - [2009年](../Page/2009年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")，[拉丁美洲第一次同性婚禮在](../Page/拉丁美洲.md "wikilink")[阿根廷南部](../Page/阿根廷.md "wikilink")[烏斯懷亞舉行](https://zh.wikipedia.org/wiki/烏斯懷亞 "wikilink")。
+
+## 2010年
+
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")，[奥地利国会有关允许相恋的同性恋者登记为](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[注册伴侣的法案正式生效](https://zh.wikipedia.org/wiki/注册伴侣 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[1月8日](../Page/1月8日.md "wikilink")，[葡萄牙议会通过](../Page/葡萄牙.md "wikilink")[同性婚姻合法化的法案](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，使葡萄牙成为[欧洲第](../Page/欧洲.md "wikilink")6个允许同性恋者结婚的国家。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")，[法国卫生部正式宣告不再将](https://zh.wikipedia.org/wiki/法国 "wikilink")[希望改变自己的性别视为精神疾病](https://zh.wikipedia.org/wiki/易性 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")，美国首都[华盛顿的](../Page/华盛顿哥伦比亚特区.md "wikilink")[同性婚姻合法化法案正式生效](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，使美国首都华盛顿成为美国第6个允许同性恋者结婚的州级地区。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")，[波多黎各歌手](../Page/波多黎各.md "wikilink")[瑞奇馬丁在微型博客](https://zh.wikipedia.org/wiki/瑞奇馬丁 "wikilink")[推特](https://zh.wikipedia.org/wiki/推特 "wikilink")[承認自己是](../Page/出櫃.md "wikilink")[同性戀者](https://zh.wikipedia.org/wiki/同性戀者 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")，菲律宾最高法院裁定同性恋政党[出柜党可以参加五月举行的菲律宾国会大选](https://zh.wikipedia.org/wiki/出柜党 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")，阿根廷下议院通过[同性婚姻法案](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。该法案已提交阿根廷上议院审议。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")，葡萄牙总统[阿尼巴尔·卡瓦科·席尔瓦签署法令](../Page/阿尼巴尔·卡瓦科·席尔瓦.md "wikilink")，正式批准[同性婚姻法案](https://zh.wikipedia.org/wiki/葡萄牙同性婚姻 "wikilink")。[葡萄牙成为欧洲第六个](../Page/葡萄牙.md "wikilink")、世界上第八个在全国范围内承认同性婚姻的国家。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")，[美国众议院通过废除军队](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")“[不问不说](https://zh.wikipedia.org/wiki/不问不说 "wikilink")”政策法案。该法案于同年6月提交[参议院全体投票](../Page/美国参议院.md "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")，美国总统[奥巴马发布公告](https://zh.wikipedia.org/wiki/奥巴马 "wikilink")，宣布2010年6月为LGBT自豪月。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")，[冰岛的同性婚姻法案正式生效](../Page/冰岛同性婚姻.md "wikilink")，冰岛成为世界上第九个在全国范围内承认同性婚姻的国家。同日，时任冰岛总理的[约翰娜·西于尔扎多蒂与同性恋人正式结婚](../Page/约翰娜·西于尔扎多蒂.md "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[7月7日](https://zh.wikipedia.org/wiki/7月7日 "wikilink")，[英国最高法院裁定那些从迫害同性恋者的国家逃亡出来的同性恋者有权获得英国的](../Page/英国最高法院.md "wikilink")[政治庇护](https://zh.wikipedia.org/wiki/政治庇护 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[7月15日](https://zh.wikipedia.org/wiki/7月15日 "wikilink")，阿根廷上议院以33票赞成、27票反对，通过[承认同性婚姻合法的法案](../Page/阿根廷同性婚姻.md "wikilink")，使之成为全球第十个、拉丁美洲第一个承认[同性婚姻的国家](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[8月4日](../Page/8月4日.md "wikilink")，美国加州[联邦地方法院法官宣布禁止同性婚姻的](../Page/美国联邦法院.md "wikilink")[8号提案](https://zh.wikipedia.org/wiki/8号提案 "wikilink")[违宪](https://zh.wikipedia.org/wiki/违宪 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")，[墨西哥最高法院裁定墨西哥国内其它地区必须承认在首都墨西哥城依法登记的同性婚姻](https://zh.wikipedia.org/wiki/墨西哥最高法院 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")，[美国共和党全国委员会前主席](https://zh.wikipedia.org/wiki/美国共和党 "wikilink")公开[出柜](https://zh.wikipedia.org/wiki/出柜 "wikilink")。
+  - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")，[美國參議院以](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")250-175票宣布廢除變相限制[出櫃同性戀者不得從軍的](../Page/出櫃.md "wikilink")「[不問，不說](https://zh.wikipedia.org/wiki/不問，不說 "wikilink")」法案。

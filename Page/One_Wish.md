@@ -4,7 +4,7 @@ Wish**」為[日本團體](../Page/日本.md "wikilink")[EXILE於](https://zh.wi
 ## 解說
 
   - 與配信單曲「[THE NEXT
-    DOOR](https://zh.wikipedia.org/wiki/THE_NEXT_DOOR "wikilink")」相隔約1年4個月，計算實體單曲便跟前作「[FANTASY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")」相隔短短一星期。
+    DOOR](../Page/THE_NEXT_DOOR.md "wikilink")」相隔約1年4個月，計算實體單曲便跟前作「[FANTASY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")」相隔短短一星期。
   - Vocal為ATSUSHI、TAKAHIRO、NESMITH、SHOKICHI，並於EXILE的節目「EXE」多次唱出本作。
   - 本作配信所得收益全數撥捐日本紅十字會作[海地大地震的復興費用](https://zh.wikipedia.org/wiki/海地大地震 "wikilink")\[1\]。
   - 現場披露於「EXILE LIVE TOUR 2010 FANTASY」的安哥環節。

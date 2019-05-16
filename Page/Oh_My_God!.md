@@ -1,6 +1,6 @@
 《**Oh My
 God\!**》（）是[NMB48的第](../Page/NMB48.md "wikilink")2張單曲，於2011年10月19日由[YOSHIMOTO
-R and C發售](https://zh.wikipedia.org/wiki/YOSHIMOTO_R_and_C "wikilink")。
+R and C發售](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
 
 ## 概要
 
@@ -10,7 +10,7 @@ R and C發售](https://zh.wikipedia.org/wiki/YOSHIMOTO_R_and_C "wikilink")。
 corporation限定發售的劇場盤](https://zh.wikipedia.org/wiki/chara-ani_corporation "wikilink")，總共以4種形式發行。Type-A、Type-B和Type-C的3首收錄歌曲是不同的。其中通常盤Type-A、通常盤Type-B和通常盤Type-C初回生産分有全国握手会參加券和原作收集用卡片（全16種）隨機1枚封入，劇場盤有個別握手会參加券。
 
 《Oh My
-God\!》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（PV）是[平川雄一朗負責](https://zh.wikipedia.org/wiki/平川雄一朗 "wikilink")。其中[次長課長的](https://zh.wikipedia.org/wiki/次長課長 "wikilink")[河本準一有參與PV演出](https://zh.wikipedia.org/wiki/河本準一 "wikilink")，飾演女子足球部顧問。
+God\!》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（PV）是[平川雄一朗負責](../Page/平川雄一朗.md "wikilink")。其中[次長課長的](https://zh.wikipedia.org/wiki/次長課長 "wikilink")[河本準一有參與PV演出](https://zh.wikipedia.org/wiki/河本準一 "wikilink")，飾演女子足球部顧問。
 
 ## 主要記錄
 
@@ -165,7 +165,7 @@ God\!》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")
 
   - Team
     N：小笠原茉由、門脇佳奈子、岸野里香、木下春奈、小谷里歩、[近藤里奈](../Page/近藤里奈.md "wikilink")、篠原栞那、上西恵、白間美瑠、福本愛菜、山口夕輝、山田菜々、山本彩、[渡辺美優紀](https://zh.wikipedia.org/wiki/渡辺美優紀 "wikilink")
-  - 1期研究生：[太田里織菜](../Page/太田里織菜.md "wikilink")、沖田彩華、川上礼奈、[木下百花](../Page/木下百花.md "wikilink")、小柳有沙、原みづき、[肥川彩愛](https://zh.wikipedia.org/wiki/肥川彩愛 "wikilink")、山岸奈津美
+  - 1期研究生：[太田里織菜](../Page/太田里織菜.md "wikilink")、沖田彩華、川上礼奈、[木下百花](../Page/木下百花.md "wikilink")、小柳有沙、原みづき、[肥川彩愛](../Page/肥川彩愛.md "wikilink")、山岸奈津美
   - 2期研究生：東由樹、石田優美、鵜野みずき、大谷莉子、岡田梨紗子、古賀成美、小鷹狩佑香、佐藤天彩、城恵理子、高野祐衣、瀧山あかね、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、中川紘美、西澤瑠莉奈、林萌々香、藤田留奈、[三田麻央](../Page/三田麻央.md "wikilink")、村上文香、村瀬紗英、矢倉楓子、山本ひとみ、與儀ケイラ
       -
         参加CD收錄的全部成員。

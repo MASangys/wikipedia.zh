@@ -520,7 +520,7 @@ Zero」。當年從蘇聯珊瑚岩遺跡發現的原型，但多年來未發現�
     FLOW，主唱：[FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink")
   - 片尾曲1「stand by me」
     作詞、作曲：AIMI，編曲：stereopony&
-    BOND，主唱：[stereopony](../Page/stereopony.md "wikilink")
+    BOND，主唱：[stereopony](https://zh.wikipedia.org/wiki/stereopony "wikilink")
   - 片尾曲2「」
     作詞、作曲：天田優子，主唱、編曲：joy
 
@@ -1031,7 +1031,7 @@ one more time</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
 <td><p>2012年5月8日 - 10月3日</p></td>
 <td><p>星期三 22時00分－22時30分</p></td>
 <td><p>衛星電視</p></td>
@@ -1091,7 +1091,7 @@ one more time</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX台灣</a></p></td>
 <td><p>2013年3月1日、3月2日</p></td>
 <td><p>每天 22時30分－23時00分</p></td>
 <td><p>有線電視</p></td>

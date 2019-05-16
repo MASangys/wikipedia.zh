@@ -1,0 +1,96 @@
+  - 1909年，[臺灣](../Page/臺灣.md "wikilink")[鹽水港廳爆發](../Page/鹽水港廳.md "wikilink")[鼠疫](../Page/鼠疫.md "wikilink")，**[哪位小學校長](../Page/森榮.md "wikilink")**為搶救師生而殉職，後來於1967年在[鹽水國小神社旁立碑紀念](../Page/鹽水國小神社.md "wikilink")？
+  - 臺灣臺南市**[哪一間保生大帝廟](../Page/歸仁仁壽宮.md "wikilink")**有「[歸仁大廟](https://zh.wikipedia.org/wiki/歸仁區 "wikilink")」之稱，而且與[保西代天府](../Page/保西代天府.md "wikilink")、[關廟山西宮合稱](https://zh.wikipedia.org/wiki/關廟山西宮 "wikilink")「[府城東郊三大廟](../Page/臺灣府城.md "wikilink")」（[東門城外三大廟](https://zh.wikipedia.org/wiki/迎春門_\(臺南市\) "wikilink")）？
+  - 臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[歸仁區](https://zh.wikipedia.org/wiki/歸仁區 "wikilink")**[哪一間玄天上帝廟](../Page/武當山上帝廟.md "wikilink")**與附近的[童子軍廟有一段爭地的傳說故事](../Page/童子軍廟.md "wikilink")？
+  - **[哪一間保生大帝廟](../Page/大甲慈濟宮.md "wikilink")**據說是臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[仁德區歷史最久的廟宇](https://zh.wikipedia.org/wiki/仁德區 "wikilink")，而且與臺南南區的[灣裡有一個故事](../Page/灣裡_\(臺南市\).md "wikilink")？
+  - **[哪一間廟宇](../Page/大灣廣護宮.md "wikilink")**是臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[永康區](https://zh.wikipedia.org/wiki/永康區 "wikilink")[大灣的境主廟](https://zh.wikipedia.org/wiki/大灣_\(臺南市永康區\) "wikilink")，廟中神明與東晉的[淝水之戰有關](../Page/淝水之戰.md "wikilink")？
+  - 中華民國前立委[謝錦川之父](../Page/謝錦川.md "wikilink")[謝水藍在臺灣](../Page/謝水藍.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[永康區的](https://zh.wikipedia.org/wiki/永康區 "wikilink")**[哪一間廟宇](../Page/大灣國聖宮.md "wikilink")**被供奉為「謝府千歲」？
+
+<noinclude>
+
+## 存檔
+
+  - [臺灣](../Page/臺灣.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[水林鄉蕃薯厝在](https://zh.wikipedia.org/wiki/水林鄉 "wikilink")[上元節](https://zh.wikipedia.org/wiki/上元節 "wikilink")、或是[台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")[後壁區崁頂里在農曆六月十七日](https://zh.wikipedia.org/wiki/後壁區 "wikilink")，會舉行**[哪種民俗科儀](../Page/謝火馬.md "wikilink")**，燃燒紙紮的馬隻？
+  - 臺灣臺南市[安平區](https://zh.wikipedia.org/wiki/安平區 "wikilink")**[哪一間歷史悠久的重要廟宇](../Page/安平開臺天后宮.md "wikilink")**在日治時期被官方長期佔用後遭到拆毀，神像分散到安平六社各廟宇中，直到二次大戰後才重建？
+  - 過去傳說在臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[永康區洲仔尾](https://zh.wikipedia.org/wiki/永康區 "wikilink")、鹽行一帶作怪的一對石馬，現在分別安置在[赤嵌樓與](https://zh.wikipedia.org/wiki/赤嵌樓 "wikilink")**[哪一座廟宇](../Page/鹽行天后宮.md "wikilink")**？
+  - **[哪一座臺灣臺南市廟宇](../Page/二王廟_\(臺灣\).md "wikilink")**的主神據說是[鄭經](../Page/鄭經.md "wikilink")？
+  - **[哪一座廟宇](../Page/鹽水護庇宮.md "wikilink")**是臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[鹽水區的公廟](https://zh.wikipedia.org/wiki/鹽水區 "wikilink")，其北巡與南巡的範圍涵蓋嘉義縣義竹鄉、鹿草鄉與臺南市的鹽水區、新營區等地？
+  - **[哪一間廟宇](../Page/鹽水武廟.md "wikilink")**與臺灣[臺南市著名民俗活動](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[鹽水蜂炮的由來有關](../Page/鹽水蜂炮.md "wikilink")？
+  - **[哪一間位在臺灣臺南市山上區的廟宇](../Page/南洲開靈宮.md "wikilink")**與[阿勃勒這種樹有密切的關係](../Page/阿勃勒.md "wikilink")？
+  - **[哪座在臺灣台南柳營區太康里的廟](../Page/七十二聖人廟.md "wikilink")**是祭祀1968年6月3日在當地空難身亡的中華民國空軍官兵與軍眷？
+  - 臺灣臺南市鹽水區[**哪一座古蹟廟宇**內有一座](../Page/鹽水大眾廟.md "wikilink")[麻將牌蓋成的小廟](https://zh.wikipedia.org/wiki/麻將牌 "wikilink")？
+  - **[哪一位盲人](../Page/廖旺.md "wikilink")**在二十世紀初的臺灣[臺南向盲人傳授職業技能](https://zh.wikipedia.org/wiki/臺南 "wikilink")、傳播[基督新教](https://zh.wikipedia.org/wiki/基督新教 "wikilink")，並創立盲人專屬的[教會](https://zh.wikipedia.org/wiki/教會 "wikilink")？
+  - 臺灣臺南市**[哪一座列為古蹟，曾供奉有「六文昌」的媽祖廟](../Page/善化慶安宮.md "wikilink")**在1942年因為官方要紀念[北白川宮能久親王而將之拆毀](../Page/北白川宮能久親王.md "wikilink")，直到1947年才利用保存下來的舊建材予以重建？
+  - 2001年12月，森霸電力公司在[臺灣](../Page/臺灣.md "wikilink")[臺南縣](https://zh.wikipedia.org/wiki/臺南縣 "wikilink")[山上鄉投資興建](https://zh.wikipedia.org/wiki/山上鄉 "wikilink")**[哪座天然氣火力發電廠](../Page/豐德發電廠.md "wikilink")**？
+  - **[臺灣哪一座廟宇](../Page/安平靈濟殿.md "wikilink")**位於[臺南運河附近](../Page/臺南運河.md "wikilink")，且有「孤棚祭」的中元普渡儀式來普度運河中的孤魂？
+  - **[臺灣哪一間保生大帝廟](../Page/新化保生大帝宮.md "wikilink")**於清代方-{志}-明文記載是在[荷蘭統治時期興建](../Page/臺灣荷蘭統治時期.md "wikilink")，因而有學者認為是臺灣最早的保生大帝廟？
+  - **[哪一座臺灣臺南市的保生大帝廟](../Page/開基開山宮.md "wikilink")**除了供奉保生大帝外，還在正殿供奉到過[流求的隋朝虎賁中郎將](https://zh.wikipedia.org/wiki/流求 "wikilink")[陳稜](../Page/陳稜.md "wikilink")？
+  - **[哪一間座落在臺灣臺南沿海鹽田的廟](../Page/鎮海將軍廟_\(北門區\).md "wikilink")**祭拜一隻母豬？
+  - **[哪位臺灣臺南市的足球後衛](../Page/陳威全_\(足球運動員\).md "wikilink")**曾在2015年加盟[中甲](https://zh.wikipedia.org/wiki/中甲 "wikilink")[湖南湘濤俱樂部](https://zh.wikipedia.org/wiki/湖南湘濤 "wikilink")，卻因為2016年初球隊陣容調整提前解約而返回[臺灣](../Page/臺灣.md "wikilink")？
+  - **[哪一間媽祖廟](../Page/白河福安宮.md "wikilink")**是臺灣臺南市[白河區的重要公廟](https://zh.wikipedia.org/wiki/白河區 "wikilink")，且有著「十三街-{庄}-香」的遶境活動？
+  - **[哪座臺南府城廟宇](../Page/開基三官廟.md "wikilink")**原先是[臺灣府知府](../Page/臺灣府知府.md "wikilink")[蔣元樞祠](../Page/蔣元樞.md "wikilink")，在農曆三月十九——[崇禎帝殉國之日](../Page/崇禎帝.md "wikilink")，會以「九豬十六羊」糕點祭拜[明朝皇帝](https://zh.wikipedia.org/wiki/明朝皇帝 "wikilink")？
+  - **[哪一座臺灣臺南中西區廟宇](../Page/廣慈院.md "wikilink")**，文獻紀錄供奉著清朝福建省[台灣府](https://zh.wikipedia.org/wiki/台灣府 "wikilink")[諸羅縣](../Page/諸羅縣.md "wikilink")[知縣](https://zh.wikipedia.org/wiki/知縣 "wikilink")[張{{僻字](https://zh.wikipedia.org/wiki/張尹 "wikilink")？
+  - **[哪一名來自廣東潮安、在臺灣臺南白手起家的企業家](../Page/劉來欽.md "wikilink")**被譽為「台灣沙茶醬之父」？
+  - 牛頭牌[沙茶醬的創始人](https://zh.wikipedia.org/wiki/沙茶醬 "wikilink")[劉來欽曾擔任臺灣](../Page/劉來欽.md "wikilink")**[哪一座臺南佛寺](../Page/慈蔭亭.md "wikilink")**的主委，並重建此廟，完工慶成不久他就去世？
+  - **[哪一座廟](../Page/昆沙宮.md "wikilink")**是臺灣[臺南府城兩座](https://zh.wikipedia.org/wiki/臺南府城 "wikilink")[哪吒廟之一](https://zh.wikipedia.org/wiki/哪吒廟 "wikilink")，在[五都改制時](https://zh.wikipedia.org/wiki/五都改制 "wikilink")，當地團體到此筊杯，詢問是否能幫臺南縣市升格？
+  - **[哪一座廟](../Page/沙淘宮.md "wikilink")**是臺灣[臺南府城兩座](https://zh.wikipedia.org/wiki/臺南府城 "wikilink")[哪吒廟之一](https://zh.wikipedia.org/wiki/哪吒廟 "wikilink")，裡面供奉一尊名為「沙淘太子」的神明，被認為是死於[東寧之變的](../Page/東寧之變.md "wikilink")[鄭克{{僻字](../Page/鄭克𡒉.md "wikilink")？
+  - **[哪座計畫於2016年完工商轉的水力發電廠](../Page/八田水力發電廠.md "wikilink")**其名稱由來為紀念[臺灣日治時期規畫興建](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")[烏山頭水庫與](../Page/烏山頭水庫.md "wikilink")[嘉南大圳的](../Page/嘉南大圳.md "wikilink")[工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink")[八田與一而得名](../Page/八田與一.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺南](https://zh.wikipedia.org/wiki/臺南 "wikilink")**[何座廟宇](../Page/東門大人廟.md "wikilink")**在[臺灣清治時期曾是前後三殿的](../Page/臺灣清治時期.md "wikilink")[府城大廟](https://zh.wikipedia.org/wiki/臺南府城 "wikilink")，後多次拆遷後成為委身於路橋、廟前擺設香腸小販的小廟？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺南](https://zh.wikipedia.org/wiki/臺南 "wikilink")**[何座廟宇](../Page/南廠保安宮.md "wikilink")**祭拜[乾隆特賜的](../Page/乾隆.md "wikilink")[贔屭石碑座](../Page/贔屭.md "wikilink")？
+  - **[哪座垃圾焚化廠](../Page/城西垃圾焚化廠.md "wikilink")**位於[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[安南區](https://zh.wikipedia.org/wiki/安南區 "wikilink")？
+  - 清末時的[臺灣府城商港](../Page/臺灣府城.md "wikilink")，當地人會在[**哪一座廟**協調商務](../Page/老古石集福宮.md "wikilink")、士地等各種糾紛，廟內還曾有一座石獅子讓信徒祭拜？
+  - 臺灣[臺南市的](https://zh.wikipedia.org/wiki/臺南市 "wikilink")**[哪座書院](../Page/奎樓書院.md "wikilink")**舊稱「中社書院」，曾是[臺灣府城四大書院之一](../Page/臺灣府城.md "wikilink")？
+  - **[哪座垃圾焚化廠](../Page/永康垃圾焚化廠.md "wikilink")**位在[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[永康區](https://zh.wikipedia.org/wiki/永康區 "wikilink")？
+  - **[哪一座臺灣廟宇](../Page/普濟殿.md "wikilink")**是[臺南府城最早的](https://zh.wikipedia.org/wiki/臺南府城 "wikilink")[王爺廟](../Page/王爺廟.md "wikilink")，曾因鞭炮噪音問題和[台南市市長](https://zh.wikipedia.org/wiki/台南市市長 "wikilink")[賴清德發生衝突](../Page/賴清德.md "wikilink")？
+  - **[哪一位在白色恐怖被冤殺的臺灣女子](../Page/丁窈窕.md "wikilink")**被槍斃前其女兒曾大喊：「我媽媽不是壞人，你們不要槍斃她。」，事後其頭髮被埋在[台南女中操場邊的一棵於](https://zh.wikipedia.org/wiki/台南女中 "wikilink")2015年被[-{zh:颱風蘇迪羅;
+    zh-cn:超强台风苏迪罗; zh-hk:超強颱風蘇迪羅; zh-tw:強烈颱風蘇迪勒;
+    zh-mo:颱風蘇迪羅}-吹塌的金龜樹下](../Page/颱風蘇迪羅_\(2015年\).md "wikilink")？
+  - **[哪一位在1933年出生於台南的臺灣女子](../Page/辛永清.md "wikilink")**曾在[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")、[富士電視台擔任烹飪節目講師以推廣](../Page/富士電視台.md "wikilink")[中華料理](https://zh.wikipedia.org/wiki/中華料理 "wikilink")，又出回憶錄介紹她家鄉的[臺灣料理](https://zh.wikipedia.org/wiki/臺灣料理 "wikilink")？
+  - 2015年4月初，臺灣[臺南機場因為發生](../Page/臺南機場.md "wikilink")**[哪起外國軍機降落事件](https://zh.wikipedia.org/wiki/2015年美軍F-18戰機降落臺南機場事件 "wikilink")**而引發各界討論？
+  - 1987年12月底[台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")**[究竟有沒有出現過一隻「熊貓」](../Page/台南真假熊貓事件.md "wikilink")**？
+  - 臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")**[哪一間媽祖廟](../Page/茅港尾天后宮.md "wikilink")**的媽祖在清朝時到[臺灣府城有](../Page/臺灣府城.md "wikilink")「[大北門進](https://zh.wikipedia.org/wiki/拱辰門_\(臺南市\) "wikilink")，大北門出」的特權，且有因為洩漏天機而被禁錮百年的傳說？
+  - **[臺灣哪間電影院](../Page/全美戲院.md "wikilink")**是電影導演[李安就讀](../Page/李安.md "wikilink")[臺南一中時最常造訪的電影院](https://zh.wikipedia.org/wiki/臺南一中 "wikilink")，且至今仍使用手繪的電影看板？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[東區在](https://zh.wikipedia.org/wiki/東區_\(臺南市\) "wikilink")[東門路以南的](https://zh.wikipedia.org/wiki/東門路_\(臺南市\) "wikilink")「竹篙厝」地區過去在乾隆年間的地名是**[什麼](../Page/德高厝.md "wikilink")**？
+  - 臺灣**[哪一座與明朝宗室有關的媽祖廟](../Page/大天后宮.md "wikilink")**在[日治時期曾經差點被改成佛寺和面臨標售拆毀的危機](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")？
+  - 臺灣臺南市的**[哪一間媽祖廟](https://zh.wikipedia.org/wiki/海安宮_\(臺南市\) "wikilink")**其廟史與[福康安有關](../Page/福康安.md "wikilink")，且曾為[鹿耳門媽祖廟神像的寄祀之處](../Page/鹿耳門媽祖廟.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺南市的](https://zh.wikipedia.org/wiki/臺南市 "wikilink")**[哪一間廟宇](../Page/鹽埕天后宮.md "wikilink")**除了供奉[天上聖母外](https://zh.wikipedia.org/wiki/天上聖母 "wikilink")，還供奉了一座清代所刻的「重脩瀨北場碑記」碑？
+  - **[哪一座廟宇](https://zh.wikipedia.org/wiki/台南臨水夫人媽廟 "wikilink")**是[台灣唯一主祀](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臨水夫人的廟宇](../Page/臨水夫人.md "wikilink")?
+  - 臺灣的[南部科學工業園區臺南園區在開發過程中](../Page/南部科學工業園區.md "wikilink")，因為**[什麼事物](../Page/南科考古遺址.md "wikilink")**的陸續發現而使得工程時而需要停工甚至變更設計？
+  - **[哪一位曾擔任公務員的地方文史工作者](../Page/陳春木.md "wikilink")**除長期研究左鎮地方文史外，並在菜寮溪採集化石多年且擔任過菜寮化石館管理員，有「化石爺爺」之稱？
+  - **[哪間不屬於臺灣糖業公司的糖廠](../Page/新南糖廠.md "wikilink")**是[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[南化區唯一的工廠](https://zh.wikipedia.org/wiki/南化區 "wikilink")，且糖廠名稱跟「新竹」有關？
+  - **[哪一種臺灣史前人類](../Page/左鎮人.md "wikilink")**的化石是目前在[臺灣所發現之年代最久遠的人類化石](../Page/臺灣.md "wikilink")，並且以其在[臺南的發現地為名](https://zh.wikipedia.org/wiki/臺南 "wikilink")？
+  - 在[臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[安平區有](https://zh.wikipedia.org/wiki/安平區 "wikilink")[**什麼與中日戰爭（八年抗戰）相關的史蹟**](https://zh.wikipedia.org/wiki/安平十二軍夫墓 "wikilink")，見證臺灣人為日本在華當軍夫的歷史？
+  - 臺灣[**哪一座軍民合用機場**在歷史上曾經被日本海軍航空隊](../Page/臺南機場.md "wikilink")、中華民國空軍與美國空軍所使用，並在1960年到1974年間佈署過美軍的[核彈](https://zh.wikipedia.org/wiki/核彈 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[南區的](https://zh.wikipedia.org/wiki/南區_\(臺南市\) "wikilink")**[哪一個地名](../Page/水交社_\(臺南市\).md "wikilink")**來自[日本海軍引用](https://zh.wikipedia.org/wiki/日本海軍 "wikilink")《[莊子](../Page/莊子_\(書\).md "wikilink")》典故而取的[交誼團體名稱](https://zh.wikipedia.org/wiki/水交社 "wikilink")？
+  - 臺灣的[臺南市是](https://zh.wikipedia.org/wiki/臺南市 "wikilink")**[怎麼從荷蘭東印度公司的北部地方會議區逐漸演變而來的？](https://zh.wikipedia.org/wiki/台南市行政區劃 "wikilink")**
+  - **[哪一條臺灣糖業鐵路路線](../Page/學甲線.md "wikilink")**舊稱「下營庄線」，且與臺灣第一條定期客運糖鐵路線[布袋線同一年停駛](../Page/布袋線.md "wikilink")？
+  - **[哪一位任期正值二戰的臺南市長](../Page/羽鳥又男.md "wikilink")**相當重視[臺南的](https://zh.wikipedia.org/wiki/臺南市_\(州轄市\) "wikilink")「文化財」，主持了[赤崁樓的重修](https://zh.wikipedia.org/wiki/赤崁樓 "wikilink")？
+  - **[哪位企業家](../Page/王雪農.md "wikilink")**是[臺灣日治時期四大製糖會社之一的](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")[鹽水港製糖的首任社長與](../Page/鹽水港製糖.md "wikilink")[臺南三郊組合的第二任組合長](../Page/府城三郊.md "wikilink")？
+  - 臺灣[臺南市直轄市定古蹟](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[通濟宮位在該市](../Page/鐵線橋通濟宮.md "wikilink")[新營區的](https://zh.wikipedia.org/wiki/新營區 "wikilink")**[哪一個里](../Page/鐵線里_\(臺南市\).md "wikilink")**？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[鐵路地下化計畫](../Page/臺南市區鐵路地下化計畫.md "wikilink")，由於**[哪個組織](https://zh.wikipedia.org/wiki/反台南鐵路地下化東移自救會 "wikilink")**抗爭，使得主體工程已告停止？
+  - 臺灣第一所幼稚園是**[哪一所](https://zh.wikipedia.org/wiki/關帝廟幼稚園 "wikilink")**？
+  - 在臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[官田區](https://zh.wikipedia.org/wiki/官田區 "wikilink")[拔林車站與](../Page/拔林車站.md "wikilink")[善化區](https://zh.wikipedia.org/wiki/善化區 "wikilink")[善化車站之間有](https://zh.wikipedia.org/wiki/善化車站 "wikilink")**[什麼可說是三代同堂的歷史建築](../Page/臺鐵曾文溪橋.md "wikilink")**？
+  - **[臺南市哪一棟建築物](../Page/鶯料理.md "wikilink")**位在古蹟[天壇與](../Page/臺灣首廟天壇.md "wikilink")[臺南測候所之間](https://zh.wikipedia.org/wiki/原臺南測候所 "wikilink")，長期引發保存爭議，並在2008年時被颱風摧毀了建築主體？
+  - [**哪一間**位於台南市](../Page/鹽水天主聖神堂.md "wikilink")[鹽水區的天主教教堂結合了中式建築的特色](https://zh.wikipedia.org/wiki/鹽水區 "wikilink")？
+  - 臺灣[臺南市境內](https://zh.wikipedia.org/wiki/臺南市 "wikilink")**[哪一座糖廠](../Page/仁德糖廠.md "wikilink")**在興建時曾使得[保安車站遷移到今址](https://zh.wikipedia.org/wiki/保安車站 "wikilink")，且其廠區在停止製糖後轉型成「十鼓文化村」？
+  - [台灣夜市常見的](../Page/台灣夜市.md "wikilink")[東山鴨頭源自臺南市的](https://zh.wikipedia.org/wiki/東山鴨頭 "wikilink")**[哪個區](https://zh.wikipedia.org/wiki/東山區_\(台南市\) "wikilink")**？
+  - **[哪一位台灣身心障礙畫家](../Page/陳姿蓉.md "wikilink")**曾被[上海世博邀請到陽光生命館展出](https://zh.wikipedia.org/wiki/上海世博 "wikilink")？
+  - **[哪一個文化資產](../Page/鹽水歡雅國小原大禮堂及時鐘座.md "wikilink")**位於臺灣[臺南市鹽水區歡雅國民小學的裡面](../Page/臺南市鹽水區歡雅國民小學.md "wikilink")？
+  - [**哪一座臺南市後壁區的歷史建築**實際上包含了](../Page/菁寮國小木造禮堂、辦公室暨日治時期升旗臺.md "wikilink")[臺灣日治時期與民國時期的建築](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")？
+  - [**哪一間學校**是](../Page/臺南市後壁區菁寮國民小學.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[後壁區最早設立的學校](https://zh.wikipedia.org/wiki/後壁區 "wikilink")，而該校又分出了四間[國民小學](https://zh.wikipedia.org/wiki/國民小學 "wikilink")？
+  - [**哪一座臺南市白河區的歷史建築**多次歷經地震破壞](../Page/白河沈氏宗祠.md "wikilink")，並於2004-2005年時修復主要結構？
+  - [**哪一座臺南市的歷史建築**位在](../Page/後壁安溪國小原辦公廳及禮堂.md "wikilink")[後壁區](https://zh.wikipedia.org/wiki/後壁區 "wikilink")[安溪寮](https://zh.wikipedia.org/wiki/安溪寮_\(後壁區\) "wikilink")，並於1945年之後才興建？
+  - [**哪一座臺南市佳里區的歷史建築**原本是家廟](../Page/佳里北極玄天宮.md "wikilink")，但後來演變成地方上的角頭廟？
+  - [**哪一座臺灣的歷史建築**位於臺南](../Page/臺鹽隆田儲運站.md "wikilink")[隆田車站附近且與](https://zh.wikipedia.org/wiki/隆田車站 "wikilink")[臺灣鹽業有關](../Page/臺灣鹽業史.md "wikilink")，2006年時更轉為考古工作站使用？
+  - **[哪一座位在臺南的歷史建築](../Page/歸仁潁川家廟.md "wikilink")**又曾稱為「大學陳家祖厝」？
+  - **[哪一座位在臺南鹽水的古蹟](../Page/鹽水八角樓.md "wikilink")**在[臺灣日治時期曾作為](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")「[伏見宮貞愛親王紀念館](../Page/伏見宮貞愛親王.md "wikilink")」使用？
+  - **[哪一座臺南的歷史建築](../Page/鹽水國小神社.md "wikilink")**在其歷史上曾經做為[神社與](../Page/神社.md "wikilink")[孔廟使用](https://zh.wikipedia.org/wiki/孔廟 "wikilink")？
+  - **[哪一個臺南市仁德區的眷村](../Page/二空新村.md "wikilink")**其戶數是臺灣地區第六多的？
+  - 臺灣[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink")[新營區](https://zh.wikipedia.org/wiki/新營區 "wikilink")[鐵線里裡有](https://zh.wikipedia.org/wiki/鐵線里 "wikilink")**[哪一座被列為古蹟的媽祖廟](../Page/鐵線橋通濟宮.md "wikilink")**？
+  - 昔日[布袋鹽場與](../Page/布袋鹽場.md "wikilink")[七股鹽場所生產的鹽以](../Page/七股鹽場.md "wikilink")[鹽鐵集中後會經由](../Page/臺灣鹽業鐵路.md "wikilink")[糖鐵運到](https://zh.wikipedia.org/wiki/台灣糖業鐵路 "wikilink")**[哪個地方](../Page/東太子宮鹽運聯合轉運臺.md "wikilink")**再轉由[臺鐵運送到](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")[高雄港出口](../Page/高雄港.md "wikilink")？
+  - 臺灣僅存的兩座[奉安殿中](../Page/奉安殿.md "wikilink")，**[哪一座](../Page/原新化尋常小學校御真影奉安殿.md "wikilink")**是位於南臺灣的？
+  - 臺灣**[哪一歷史建築](../Page/原新化街役場.md "wikilink")**曾因其地下工程而一度被遷走並在[歷史建築百景徵選中獲選為第四名](https://zh.wikipedia.org/wiki/臺灣歷史建築百景列表 "wikilink")？
+  - **[哪座台灣廟宇](../Page/學甲慈濟宮.md "wikilink")**所奉祀[保生大帝神像](../Page/保生大帝.md "wikilink")，相傳起源自[南宋時期](../Page/南宋.md "wikilink")？
+  - **[哪一座公園](https://zh.wikipedia.org/wiki/林默娘公園 "wikilink")**內置以少女面貌呈現的媽祖雕像，以發揚孝女精神，藉以闡述飲水思源的美德？
+  - **[哪一位臺灣彩繪匠師](../Page/陳玉峰_\(彩繪匠師\).md "wikilink")**繪製了[嘉義城隍廟的門神](../Page/嘉義城隍廟.md "wikilink")，被稱為「祿仔司」、「祿仔仙」或「陳畫師」？
+
+</noinclude>

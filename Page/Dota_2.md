@@ -33,7 +33,7 @@ Dota
 
 ### 遊戲特色
 
-  - 採用即時戰略遊戲常用的俯瞰視角，並融入[角色扮演遊戲中英雄的升級系統與物品系統](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")。
+  - 採用即時戰略遊戲常用的俯瞰視角，並融入[角色扮演遊戲中英雄的升級系統與物品系統](../Page/電子角色扮演遊戲.md "wikilink")。
   - 使用Source引擎的Dota
     2可以避免舊有的《[魔獸爭霸III](https://zh.wikipedia.org/wiki/魔獸爭霸III "wikilink")》帶來的限制，但只有部份的英雄、物品、地形與建築會保持原樣地轉移到Dota
     2上。
@@ -156,7 +156,7 @@ Store」是[Valve展示各項創作物品的集散地](https://zh.wikipedia.org/
 2013年7月9日，[Valve宣布Dota](https://zh.wikipedia.org/wiki/Valve "wikilink")
 2結束長達兩年的測試，現在所有玩家（除了由第三方運營商代理的中國大陸和韓國地區）都可以免費進入遊戲。
 
-2015年12月31日，[NEXON宣布不再与](../Page/NEXON.md "wikilink")[Valve续约](https://zh.wikipedia.org/wiki/Valve "wikilink")，Dota
+2015年12月31日，[NEXON宣布不再与](https://zh.wikipedia.org/wiki/NEXON "wikilink")[Valve续约](https://zh.wikipedia.org/wiki/Valve "wikilink")，Dota
 2韩国服务器正式停运。
 
 ### 中國大陆運營概況
@@ -188,7 +188,7 @@ Choice Award）。\[55\] 2012年的12月，Dota 2获得*[PC
 Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")*颁发的最佳电子竞技的称号（the
 best eSports）和年度游戏（Game of the Year）的提名。\[56\] 2013年，也是游戏正式发布的那年，Dota
 2获得*PC Gamer*\[57\]和 *onGamers*颁发的年度电子竞技奖（ the eSport of the year
-awards）\[58\]，[GameTrailers颁发的](https://zh.wikipedia.org/wiki/GameTrailers "wikilink")2013年最佳电子游戏奖（the
+awards）\[58\]，[GameTrailers颁发的](../Page/GameTrailers.md "wikilink")2013年最佳电子游戏奖（the
 game the award for Best PC Game of 2013）\[59\]，IGN颁发的最佳策略类电子游戏奖（the Best
 PC Strategy & Tactics Game）、最佳多人游戏奖（Best PC Multiplayer
 Game）、人民选择奖（People's Choice Award），\[60\]\[61\]和“Game

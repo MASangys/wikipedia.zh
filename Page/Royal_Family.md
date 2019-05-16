@@ -82,7 +82,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/全美善" title="wikilink">全美善</a></p></td>
+<p><a href="../Page/全美善.md" title="wikilink">全美善</a></p></td>
 <td><center>
 <p>林允書</p></td>
 <td><p>大媳婦，具盛集團長女。</p></td>
@@ -116,7 +116,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/獨孤永宰" title="wikilink">獨孤永宰</a></p></td>
+<p><a href="../Page/獨孤永宰.md" title="wikilink">獨孤永宰</a></p></td>
 <td><center>
 <p>金泰和</p></td>
 <td><p>JK集團顧問律師</p></td>
@@ -130,7 +130,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/U-Kiss.md" title="wikilink">東澔</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/U-Kiss" title="wikilink">東澔</a></p></td>
 <td><center>
 <p>趙秉俊</p></td>
 <td><p>仁淑與東浩的兒子，大學生。</p></td>
@@ -182,7 +182,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金釉利" title="wikilink">金釉利</a></p></td>
+<p><a href="../Page/金釉利.md" title="wikilink">金釉利</a></p></td>
 <td><center>
 <p>高恩</p></td>
 <td><p>詹姆士狄恩的女友</p></td>
@@ -207,7 +207,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 <tr class="even">
 <td><center>
 <p><a href="../Page/金惠鈺.md" title="wikilink">金惠鈺</a><br />
-<small>青年：<a href="https://zh.wikipedia.org/wiki/全昭旻" title="wikilink">全昭旻</a></small></p></td>
+<small>青年：<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></small></p></td>
 <td><center>
 <p>徐順愛</p></td>
 <td><p>療養院患者</p></td>
@@ -270,7 +270,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/崔允素" title="wikilink">崔允素</a></p></td>
+<p><a href="../Page/崔允素.md" title="wikilink">崔允素</a></p></td>
 <td><center>
 <p>柳信雅</p></td>
 <td></td>
@@ -313,7 +313,7 @@ Family**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 
 ## 獲獎
 
-  - 2011年 [第4屆 韓國電視劇大賞](https://zh.wikipedia.org/wiki/韓國電視劇節 "wikilink")
+  - 2011年 [第4屆 韓國電視劇大賞](../Page/韓國電視劇節.md "wikilink")
       - 女子 最優秀演技賞－[廉晶雅](../Page/廉晶雅.md "wikilink")
   - 2011年 MBC演技大賞
       - PD賞－[金姈愛](../Page/金姈愛.md "wikilink")

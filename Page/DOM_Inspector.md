@@ -1,6 +1,6 @@
 [DOM_Inspector.png](https://zh.wikipedia.org/wiki/File:DOM_Inspector.png "fig:DOM_Inspector.png")
 **DOM
-Inspector**是[Mozilla基金會旗下的](../Page/Mozilla基金會.md "wikilink")[文档对象模型调试工具](../Page/文档对象模型.md "wikilink")，最初由[喬·休伊特](https://zh.wikipedia.org/wiki/喬·休伊特 "wikilink")（Joe
+Inspector**是[Mozilla基金會旗下的](../Page/Mozilla基金會.md "wikilink")[文档对象模型调试工具](../Page/文档对象模型.md "wikilink")，最初由[喬·休伊特](../Page/喬·休伊特.md "wikilink")（Joe
 Hewitt）创建。从[Mozilla Application
 Suite中獨立出来后](../Page/Mozilla_Application_Suite.md "wikilink")，主要以擴充套件形式存在，支援[Mozilla
 Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Mozilla

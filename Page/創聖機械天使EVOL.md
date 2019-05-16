@@ -439,7 +439,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
   - 總監督、Aquarion設計：[河森正治](../Page/河森正治.md "wikilink")
   - 監督：山本裕介
   - 系列構成：[岡田麿里](../Page/岡田麿里.md "wikilink")
-  - 角色原案：倉花千夏、[石田可奈](https://zh.wikipedia.org/wiki/石田可奈 "wikilink")
+  - 角色原案：倉花千夏、[石田可奈](../Page/石田可奈.md "wikilink")
   - 角色設計、總作畫監督：石田可奈、丸藤廣貴
   - 概念設計：Thomas Romain
   - 大型機械設計：Stanislas Brunet、高倉武史
@@ -455,7 +455,8 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
   - 音響監督：三間雅文
   - 音響效果：倉橋靜男
   - 音樂製作人：佐佐木史朗
-  - 音樂製作：[flying DOG](../Page/flying_DOG.md "wikilink")
+  - 音樂製作：[flying
+    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
   - 音樂導演：井上裕香子
   - 動畫製作人：葛西勵、高橋
   - 動畫製作：[SATELIGHT](../Page/SATELIGHT.md "wikilink")×8bit
@@ -476,7 +477,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
         作詞：Gabriela Robin
         作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
         歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](../Page/bless4.md "wikilink")
+        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「ZOO」（第16話－第26話）
 
@@ -486,7 +487,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
         作詞：Gabriela Robin、岩里祐穂
         作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
         歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](../Page/bless4.md "wikilink")
+        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 <!-- end list -->
 
@@ -500,7 +501,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
         作詞：Gabriela Robin
         作曲、編曲：菅野洋子
         歌：[AKINO](../Page/AKINO.md "wikilink")＆AIKI from
-        [bless4](../Page/bless4.md "wikilink")
+        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「」（第15話－第22話、第25話）
 
@@ -523,7 +524,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
         作詞：Gabriela Robin
         作曲、編曲：菅野洋子
         歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](../Page/bless4.md "wikilink")
+        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「Go Tight\!」（第8話）
 
@@ -533,7 +534,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
         作詞：岩里祐穂
         作曲、編曲：菅野洋子
         歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](../Page/bless4.md "wikilink")
+        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「」（驕傲～嘆息的旅途）（第10話、第18話、第24話）
 
@@ -543,7 +544,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
         作詞：岩里祐穂
         作曲、編曲：菅野洋子
         歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](../Page/bless4.md "wikilink")
+        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「」（Aquaria舞動於空）（第12話、第15話、第19話、第24話）
 
@@ -562,7 +563,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
         作詞：岩里祐穂
         作曲、編曲：菅野洋子
         歌：[AKINO](../Page/AKINO.md "wikilink") with
-        [bless4](../Page/bless4.md "wikilink")
+        [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 「Genesis of Aquarion」（第14話、第26話）
 
@@ -654,7 +655,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 <td><p>心跳指數☆急上昇</p></td>
 <td><p>米田和博</p></td>
 <td><p>吉川真帆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石田可奈" title="wikilink">石田可奈</a></p></td>
+<td><p><a href="../Page/石田可奈.md" title="wikilink">石田可奈</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -662,7 +663,7 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 <td><p>第4話</p></td>
 <td><p>〜conquer oneself〜</p></td>
 <td><p>牆〜征服自己〜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/菊地康仁" title="wikilink">菊地康仁</a></p></td>
+<td><p><a href="../Page/菊地康仁.md" title="wikilink">菊地康仁</a></p></td>
 <td><p>吉澤俊一</p></td>
 <td><p>丸藤廣貴<br />
 町田真一</p></td>
@@ -927,8 +928,8 @@ zh-sg:剪刀}-（GUARD）形狀的手打向敵方](../Page/石头、剪子、布
 | [愛知縣](../Page/愛知縣.md "wikilink")                                                     | [愛知電視台](../Page/愛知電視台.md "wikilink")     | 2012年1月13日 － 6月29日 | 星期五 26:30 － 27:00                                     |                                                       |        |
 | [岡山縣](../Page/岡山縣.md "wikilink")、[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")   | 2012年1月14日 － 6月30日 | 星期六 26:35 － 27:05                                     |                                                       |        |
 | [日本全域](../Page/日本.md "wikilink")                                                     | ファミリー劇場                                  | |2012年1月15日 － 7月1日 | 星期日 18:30 － 19:00                                     | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink") | 另有重播時段 |
-| [NICONICO頻道](../Page/NICONICO動畫.md "wikilink")                                       | 2012年1月16日 － 7月2日                        | 星期一 24:00 更新       | [網絡配信](https://zh.wikipedia.org/wiki/網絡配信 "wikilink") |                                                       |        |
-| [萬代頻道](https://zh.wikipedia.org/wiki/萬代頻道 "wikilink")                                | 2012年1月30日 － 7月16日                       | 星期一 12:00 更新       |                                                       |                                                       |        |
+| [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")                    | 2012年1月16日 － 7月2日                        | 星期一 24:00 更新       | [網絡配信](https://zh.wikipedia.org/wiki/網絡配信 "wikilink") |                                                       |        |
+| [萬代頻道](../Page/萬代頻道.md "wikilink")                                                   | 2012年1月30日 － 7月16日                       | 星期一 12:00 更新       |                                                       |                                                       |        |
 
 ## 關聯項目
 

@@ -28,9 +28,9 @@
   - [鄧剛](https://zh.wikipedia.org/wiki/鄧剛 "wikilink")（Dennis Gong Dun）
   - [聖丹尼斯](https://zh.wikipedia.org/wiki/聖丹尼斯 "wikilink")，基督教聖徒與殉教者
   - [露絲·聖·丹尼斯](https://zh.wikipedia.org/wiki/露絲·聖·丹尼斯 "wikilink")，美国舞蹈家
-  - [罗恩·丹尼斯](https://zh.wikipedia.org/wiki/罗恩·丹尼斯 "wikilink")，英国企业家
+  - [罗恩·丹尼斯](../Page/罗恩·丹尼斯.md "wikilink")，英国企业家
   - [赫尔曼·丹尼斯](../Page/赫尔曼·丹尼斯.md "wikilink")，阿根廷足球运动员
-  - [埃德加·丹尼斯](https://zh.wikipedia.org/wiki/埃德加·丹尼斯 "wikilink")，巴拉圭足球运动员
+  - [埃德加·丹尼斯](../Page/埃德加·丹尼斯.md "wikilink")，巴拉圭足球运动员
   - [卡塔利娜·丹尼斯](https://zh.wikipedia.org/wiki/卡塔利娜·丹尼斯 "wikilink")，哥伦比亚演员和模特
 
 ## 其他

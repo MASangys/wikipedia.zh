@@ -14,7 +14,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | [Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")     | 수호 | **金俊勉**  | 김준면         | Kim Jun Myun   |
 | [Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")  | 백현 | 邊伯賢      | 변백현         | Byun Baek Hyun |
 | [Chanyeol](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink") | 찬열 | 朴燦烈      | 박찬열         | Park Chan Yeol |
-| [D.O.](https://zh.wikipedia.org/wiki/都敬秀 "wikilink")     | 디오 | 都敬秀\[5\] | 도경수         | Doh Kyung Soo  |
+| [D.O.](../Page/都敬秀.md "wikilink")                        | 디오 | 都敬秀\[5\] | 도경수         | Doh Kyung Soo  |
 | [Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")      | 카이 | 金鍾仁      | 김종인         | Kim Jong In    |
 | [Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")  | 세훈 | 吳世勳      | 오세훈         | Oh Se Hun      |
 
@@ -99,7 +99,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張正規專輯《'''<a href="https://zh.wikipedia.org/wiki/XOXO_(Kiss&amp;Hug)" title="wikilink">XOXO (Kiss&amp;Hug)</a> '''》</p>
+<td><p>首張正規專輯《'''<a href="../Page/XOXO_(Kiss&amp;Hug).md" title="wikilink">XOXO (Kiss&amp;Hug)</a> '''》</p>
 <ul>
 <li>發行日期：2013年6月3日</li>
 <li>語言：韓語、國語</li>
@@ -108,7 +108,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 </tr>
 <tr class="odd">
 <td><p><strong>Repackage</strong></p></td>
-<td><p>首張正規Repackage專輯《<strong><a href="https://zh.wikipedia.org/wiki/XOXO_(Kiss&amp;Hug)" title="wikilink">GROWL</a></strong>》</p>
+<td><p>首張正規Repackage專輯《<strong><a href="../Page/XOXO_(Kiss&amp;Hug).md" title="wikilink">GROWL</a></strong>》</p>
 <ul>
 <li>發行日期：2013年8月5日</li>
 <li>語言：韓語、國語</li>
@@ -163,40 +163,40 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 ### 其他歌曲
 
-|                |                                                                                                                         |                                                                      |                           |                                                                                                                              |                                                                         |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 形式             | 發佈日期                                                                                                                    | 專輯名稱                                                                 | 歌曲名稱                      | 參與成員                                                                                                                         | 合作藝人                                                                    |
-| OST            | 2012年5月15日                                                                                                              | 《[I AM. - SM家族青春傳記電影](../Page/I_AM._-_SM家族青春傳記電影.md "wikilink")》     | Dear My Family            | Baekhyun、D.O.                                                                                                                | [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink")               |
-| CD             | 2012年10月31日                                                                                                             | 《PYL Younique Album Vol.1                                            | Maxstep                   | Kai                                                                                                                          | [Younique Unit](https://zh.wikipedia.org/wiki/Younique_Unit "wikilink") |
-| 2013年7月29日     | [f(x)正規二輯](../Page/F\(x\)_\(組合\).md "wikilink")《[Pink Tape](https://zh.wikipedia.org/wiki/Pink_Tape "wikilink")》        | Goodbye Summer                                                       | D.O.                      | [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink") |                                                                         |
-| OST            | 2013年12月6日                                                                                                              | 《Saving Santa Soundtrack》                                            | Prospects（韓文版）            | Suho                                                                                                                         | －                                                                       |
-| Do or Die（韓文版） | [恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）                                                   |                                                                      |                           |                                                                                                                              |                                                                         |
-| CF             | 2014年5月23日                                                                                                              | 樂天免稅店廣告                                                              | You're so Beautiful Ver.2 | [EXO](../Page/EXO.md "wikilink")                                                                                             | －                                                                       |
-| CD             | 2014年7月13日                                                                                                              | [Henry迷你二輯](https://zh.wikipedia.org/wiki/刘宪华 "wikilink")《Fantastic》 | Bad Girl                  | Chanyeol                                                                                                                     | [Henry](../Page/劉憲華.md "wikilink")                                      |
-| 2014年8月18日     | [泰民迷你一輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")《[ACE](https://zh.wikipedia.org/wiki/ACE_\(李泰民迷你專輯\) "wikilink")》 | Pretty Boy                                                           | Kai                       | [泰民](https://zh.wikipedia.org/wiki/李泰民 "wikilink")                                                                           |                                                                         |
-| 2014年11月3日     | [周覓迷你一輯](https://zh.wikipedia.org/wiki/周覓 "wikilink")《》                                                                 | Rewind (Korean Version)                                              | Chanyeol                  | [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                                                                            |                                                                         |
+|                |                                                                                                                         |                                                                      |                           |                                                                                                                              |                                                           |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 形式             | 發佈日期                                                                                                                    | 專輯名稱                                                                 | 歌曲名稱                      | 參與成員                                                                                                                         | 合作藝人                                                      |
+| OST            | 2012年5月15日                                                                                                              | 《[I AM. - SM家族青春傳記電影](../Page/I_AM._-_SM家族青春傳記電影.md "wikilink")》     | Dear My Family            | Baekhyun、D.O.                                                                                                                | [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |
+| CD             | 2012年10月31日                                                                                                             | 《PYL Younique Album Vol.1                                            | Maxstep                   | Kai                                                                                                                          | [Younique Unit](../Page/Younique_Unit.md "wikilink")      |
+| 2013年7月29日     | [f(x)正規二輯](../Page/F\(x\)_\(組合\).md "wikilink")《[Pink Tape](../Page/Pink_Tape.md "wikilink")》                           | Goodbye Summer                                                       | D.O.                      | [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink") |                                                           |
+| OST            | 2013年12月6日                                                                                                              | 《Saving Santa Soundtrack》                                            | Prospects（韓文版）            | Suho                                                                                                                         | －                                                         |
+| Do or Die（韓文版） | [恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）                                                   |                                                                      |                           |                                                                                                                              |                                                           |
+| CF             | 2014年5月23日                                                                                                              | 樂天免稅店廣告                                                              | You're so Beautiful Ver.2 | [EXO](../Page/EXO.md "wikilink")                                                                                             | －                                                         |
+| CD             | 2014年7月13日                                                                                                              | [Henry迷你二輯](https://zh.wikipedia.org/wiki/刘宪华 "wikilink")《Fantastic》 | Bad Girl                  | Chanyeol                                                                                                                     | [Henry](../Page/劉憲華.md "wikilink")                        |
+| 2014年8月18日     | [泰民迷你一輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")《[ACE](https://zh.wikipedia.org/wiki/ACE_\(李泰民迷你專輯\) "wikilink")》 | Pretty Boy                                                           | Kai                       | [泰民](https://zh.wikipedia.org/wiki/李泰民 "wikilink")                                                                           |                                                           |
+| 2014年11月3日     | [周覓迷你一輯](https://zh.wikipedia.org/wiki/周覓 "wikilink")《》                                                                 | Rewind (Korean Version)                                              | Chanyeol                  | [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                                                                            |                                                           |
 
 ## 影視作品
 
 ### 電視劇
 
-|                                         |                                                                |                                                               |                |             |      |         |
-| --------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- | -------------- | ----------- | ---- | ------- |
-| 年份                                      | 電視台                                                            | 劇集名稱                                                          | 參演成員           | 角色          | 性質   | 集數      |
-| 2012年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [致美麗的你](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink")            | EXO-K          | Party中的表演嘉賓 | 客串   | 第2集     |
-| 2013年                                   | [JTBC](../Page/JTBC.md "wikilink")                             | [皇家別墅](https://zh.wikipedia.org/wiki/皇家別墅 "wikilink")         | Chanyeol、Sehun | 大學人氣男       | 特別出演 |         |
-| 2014年                                   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | [總理與我](https://zh.wikipedia.org/wiki/總理與我 "wikilink")         | Suho           | 韓泰雄         | 客串   | 第10－12集 |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink") | [沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")  | D.O.                                                          | 韓江宇            | 配角          | 全劇   |         |
-| 2015年                                   | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | [我的鄰居是EXO](https://zh.wikipedia.org/wiki/我的鄰居是EXO "wikilink") | EXO            | —           | 主演   |         |
-| 2016年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")              | Baekhyun       | 十皇子王銀       | 主演   | ─       |
-| 2018年                                   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")            | [百日的郎君](https://zh.wikipedia.org/wiki/百日的郎君 "wikilink")       | D.O.           | 李律/願德       | 主演   | 全劇      |
+|                                         |                                                                |                                                         |                |             |      |         |
+| --------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------- | -------------- | ----------- | ---- | ------- |
+| 年份                                      | 電視台                                                            | 劇集名稱                                                    | 參演成員           | 角色          | 性質   | 集數      |
+| 2012年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [致美麗的你](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink")      | EXO-K          | Party中的表演嘉賓 | 客串   | 第2集     |
+| 2013年                                   | [JTBC](../Page/JTBC.md "wikilink")                             | [皇家別墅](../Page/皇家別墅.md "wikilink")                      | Chanyeol、Sehun | 大學人氣男       | 特別出演 |         |
+| 2014年                                   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | [總理與我](../Page/總理與我.md "wikilink")                      | Suho           | 韓泰雄         | 客串   | 第10－12集 |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink") | [沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")  | D.O.                                                    | 韓江宇            | 配角          | 全劇   |         |
+| 2015年                                   | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | [我的鄰居是EXO](../Page/我的鄰居是EXO.md "wikilink")              | EXO            | —           | 主演   |         |
+| 2016年                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")        | Baekhyun       | 十皇子王銀       | 主演   | ─       |
+| 2018年                                   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")            | [百日的郎君](https://zh.wikipedia.org/wiki/百日的郎君 "wikilink") | D.O.           | 李律/願德       | 主演   | 全劇      |
 
 ### 網絡劇
 
-|        |                                                                                      |                                                           |                                                     |                                                     |           |
-| ------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | --------- |
-| **年份** | **播放平台**                                                                             | **劇名**                                                    | 參演成員                                                | **角色**                                              | **備註**    |
-| 2016年  | [NAVER tvcast](../Page/NAVER.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink") | 《[七次的初吻](https://zh.wikipedia.org/wiki/七次的初吻 "wikilink")》 | [Kai](https://zh.wikipedia.org/wiki/Kai "wikilink") | [Kai](https://zh.wikipedia.org/wiki/Kai "wikilink") | 第五集－我們是師生 |
+|        |                                                                                      |                                                           |                                  |                                  |           |
+| ------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------- | -------------------------------- | --------- |
+| **年份** | **播放平台**                                                                             | **劇名**                                                    | 參演成員                             | **角色**                           | **備註**    |
+| 2016年  | [NAVER tvcast](../Page/NAVER.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink") | 《[七次的初吻](https://zh.wikipedia.org/wiki/七次的初吻 "wikilink")》 | [Kai](../Page/Kai.md "wikilink") | [Kai](../Page/Kai.md "wikilink") | 第五集－我們是師生 |
 
 ### 電影
 
@@ -217,27 +217,27 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 ### 音樂錄影帶
 
-|             |                                                             |                                                                         |                             |
-| ----------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------- |
-| 發佈日期        | 歌曲名稱                                                        | 歌手                                                                      | 參與成員                        |
-| 2008年12月1日  | Ha Ha Song                                                  | [東方神起](../Page/東方神起.md "wikilink")                                      | Suho、Chanyeol、Kai           |
-| 2010年9月8日   | [GENIE](../Page/Genie_\(單曲\).md "wikilink")（日文版）            | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")                   | Chanyeol                    |
-| 2012年4月30日  | [Twinkle](https://zh.wikipedia.org/wiki/Twinkle "wikilink") | [少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")                              | Baekhyun、Chanyeol、Kai、Sehun |
-| 2012年10月31日 | Maxstep                                                     | [Younique Unit](https://zh.wikipedia.org/wiki/Younique_Unit "wikilink") | Kai                         |
-| 2013年10月18日 | You Don't Know Love                                         | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")               | Chanyeol                    |
-| 2016年2月15日  | Crosswalk                                                   | [趙權](../Page/趙權.md "wikilink")                                          | Suho                        |
+|             |                                                             |                                                           |                             |
+| ----------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
+| 發佈日期        | 歌曲名稱                                                        | 歌手                                                        | 參與成員                        |
+| 2008年12月1日  | Ha Ha Song                                                  | [東方神起](../Page/東方神起.md "wikilink")                        | Suho、Chanyeol、Kai           |
+| 2010年9月8日   | [GENIE](../Page/Genie_\(單曲\).md "wikilink")（日文版）            | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")     | Chanyeol                    |
+| 2012年4月30日  | [Twinkle](https://zh.wikipedia.org/wiki/Twinkle "wikilink") | [少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")                | Baekhyun、Chanyeol、Kai、Sehun |
+| 2012年10月31日 | Maxstep                                                     | [Younique Unit](../Page/Younique_Unit.md "wikilink")      | Kai                         |
+| 2013年10月18日 | You Don't Know Love                                         | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | Chanyeol                    |
+| 2016年2月15日  | Crosswalk                                                   | [趙權](../Page/趙權.md "wikilink")                            | Suho                        |
 
 ## 綜藝作品
 
 ### 專屬電視節目
 
-|                        |                                                             |                                                                           |                                  |    |
-| ---------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------- | -- |
-| 日期                     | 電視台                                                         | 節目名稱                                                                      | 參與成員                             | 集數 |
-| 2013年11月28日－2014年2月13日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [EXO's SHOWTIME](https://zh.wikipedia.org/wiki/EXO's_SHOWTIME "wikilink") | [EXO](../Page/EXO.md "wikilink") | 12 |
-| 2014年5月9日－30日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 熾熱的瞬間 XOXO EXO                                                            | 4                                |    |
-| 2014年8月15日－10月24日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | EXO 90:2014                                                               | 11                               |    |
-|                        |                                                             |                                                                           |                                  |    |
+|                        |                                                             |                                                        |                                  |    |
+| ---------------------- | ----------------------------------------------------------- | ------------------------------------------------------ | -------------------------------- | -- |
+| 日期                     | 電視台                                                         | 節目名稱                                                   | 參與成員                             | 集數 |
+| 2013年11月28日－2014年2月13日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink") | [EXO](../Page/EXO.md "wikilink") | 12 |
+| 2014年5月9日－30日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 熾熱的瞬間 XOXO EXO                                         | 4                                |    |
+| 2014年8月15日－10月24日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | EXO 90:2014                                            | 11                               |    |
+|                        |                                                             |                                                        |                                  |    |
 
 ### 固定綜藝
 
@@ -250,26 +250,26 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 ### 主持
 
-|               |                                                                      |                                                                             |                                                         |                                                                                        |
-| ------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 播放日期          | 電視台                                                                  | 節目名稱                                                                        | 參與成員                                                    | 備註                                                                                     |
-| 2012年5月27日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Kai                                                     | Special MC                                                                             |
-| 2013年6月7日     | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | Baekhyun、Chanyeol、D.O.                                  | 待機室Special MC                                                                          |
-| 2013年7月12日    | Suho、Chanyeol、D.O.                                                   |                                                                             |                                                         |                                                                                        |
-| 2013年8月1日     | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")      | Chanyeol                                                | 與[Sulli主持](https://zh.wikipedia.org/wiki/Sulli "wikilink")                             |
-| 2013年8月11日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Kai                                                     | Special MC                                                                             |
-| 2013年8月23日    | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | Baekhyun、Chanyeol、Kai、Sehun                             | 待機室Special MC                                                                          |
-| 2013年9月6日     | Baekhyun、Chanyeol                                                    |                                                                             |                                                         |                                                                                        |
-| 2013年10月5日    | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | Chanyeol                                                | Special MC                                                                             |
-| 2013年10月6日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Baekhyun                                                |                                                                                        |
-| －             | 江南韓流音樂節                                                              | Suho、Baekhyun                                                               | [SHINee](../Page/SHINee.md "wikilink") Comeback Show MC |                                                                                        |
-| 2013年11月14日   | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | 2013 [甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")                                   | Suho、Baekhyun、Chanyeol、Kai                              | 與[李侑菲主持](https://zh.wikipedia.org/wiki/李侑菲 "wikilink")                                 |
-| 2013年12月13日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | Baekhyun                                                | 待機室Special MC                                                                          |
-| 2013年12月18日   | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                        | Suho                                                    | Special MC                                                                             |
-| 2014年1月4日     | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | Sehun                                                   |                                                                                        |
-| 2014年2月16日－現在 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Suho、Baekhyun                                           | 固定MC                                                                                   |
-| 2014年10月30日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") in Mexico | Chanyeol                                                | 與[尹斗俊](../Page/尹斗俊.md "wikilink")、[聖圭主持](https://zh.wikipedia.org/wiki/金聖圭 "wikilink") |
-|               |                                                                      |                                                                             |                                                         |                                                                                        |
+|               |                                                             |                                                                             |                                                         |                                                                     |
+| ------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------- |
+| 播放日期          | 電視台                                                         | 節目名稱                                                                        | 參與成員                                                    | 備註                                                                  |
+| 2012年5月27日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Kai                                                     | Special MC                                                          |
+| 2013年6月7日     | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | Baekhyun、Chanyeol、D.O.                                  | 待機室Special MC                                                       |
+| 2013年7月12日    | Suho、Chanyeol、D.O.                                          |                                                                             |                                                         |                                                                     |
+| 2013年8月1日     | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")      | Chanyeol                                                | 與[Sulli主持](https://zh.wikipedia.org/wiki/Sulli "wikilink")          |
+| 2013年8月11日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Kai                                                     | Special MC                                                          |
+| 2013年8月23日    | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | Baekhyun、Chanyeol、Kai、Sehun                             | 待機室Special MC                                                       |
+| 2013年9月6日     | Baekhyun、Chanyeol                                           |                                                                             |                                                         |                                                                     |
+| 2013年10月5日    | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | Chanyeol                                                | Special MC                                                          |
+| 2013年10月6日    | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Baekhyun                                                |                                                                     |
+| －             | 江南韓流音樂節                                                     | Suho、Baekhyun                                                               | [SHINee](../Page/SHINee.md "wikilink") Comeback Show MC |                                                                     |
+| 2013年11月14日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | 2013 [甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")                                   | Suho、Baekhyun、Chanyeol、Kai                              | 與[李侑菲主持](../Page/李侑菲.md "wikilink")                                 |
+| 2013年12月13日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | Baekhyun                                                | 待機室Special MC                                                       |
+| 2013年12月18日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                        | Suho                                                    | Special MC                                                          |
+| 2014年1月4日     | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | Sehun                                                   |                                                                     |
+| 2014年2月16日－現在 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | Suho、Baekhyun                                           | 固定MC                                                                |
+| 2014年10月30日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") in Mexico | Chanyeol                                                | 與[尹斗俊](../Page/尹斗俊.md "wikilink")、[聖圭主持](../Page/金聖圭.md "wikilink") |
+|               |                                                             |                                                                             |                                                         |                                                                     |
 
 ## 代言
 
@@ -387,25 +387,25 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 #### SMTOWN
 
-|                                                                                                   |                      |             |
-| ------------------------------------------------------------------------------------------------- | -------------------- | ----------- |
-| 日期                                                                                                | 演唱會站次                | 舉行地點        |
-| [SMTOWN Live World Tour III](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_III "wikilink") |                      |             |
-| 2012年5月20日                                                                                        | 洛杉磯                  | 阿納海姆本田中心    |
-| 2012年6月9日                                                                                         | 台灣                   | 新竹縣體育場      |
-| 2012年8月4－5日                                                                                       | 東京                   | 東京巨蛋        |
-| 2012年8月18日                                                                                        | 首爾                   | 首爾蠶室綜合運動場   |
-| 2012年9月22日                                                                                        | 雅加達                  | 印尼格羅拉蓬卡諾體育場 |
-| 2012年11月23日                                                                                       | 新加坡                  | 濱海灣浮動舞台     |
-| 2012年11月25日                                                                                       | 曼谷                   | 曼谷SCG體育場    |
-| 2013年10月19日                                                                                       | 北京                   | 北京國家體育場     |
-| 2013年10月26－27日 <small>(Special Edition)</small>                                                   | 東京                   | 東京巨蛋        |
-| [SMTOWN WEEK](https://zh.wikipedia.org/wiki/SMTOWN_WEEK "wikilink")                               |                      |             |
-| 2013年12月24－25日 <small>(With [f(x)](../Page/f\(x\)_\(組合\).md "wikilink"))</small>                  | Christmas Wonderland | 韓國國際展覽中心    |
-| [SMTOWN Live World Tour IV](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_IV "wikilink")   |                      |             |
-| 2014年8月15日                                                                                        | 首爾                   | 首爾世界盃競技場    |
-| 2014年10月4日－5日                                                                                     | 東京                   | 味之素體育場      |
-| 2014年10月18日                                                                                       | 上海                   | 上海體育場       |
+|                                                                                                     |                      |             |
+| --------------------------------------------------------------------------------------------------- | -------------------- | ----------- |
+| 日期                                                                                                  | 演唱會站次                | 舉行地點        |
+| [SMTOWN Live World Tour III](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_III "wikilink")   |                      |             |
+| 2012年5月20日                                                                                          | 洛杉磯                  | 阿納海姆本田中心    |
+| 2012年6月9日                                                                                           | 台灣                   | 新竹縣體育場      |
+| 2012年8月4－5日                                                                                         | 東京                   | 東京巨蛋        |
+| 2012年8月18日                                                                                          | 首爾                   | 首爾蠶室綜合運動場   |
+| 2012年9月22日                                                                                          | 雅加達                  | 印尼格羅拉蓬卡諾體育場 |
+| 2012年11月23日                                                                                         | 新加坡                  | 濱海灣浮動舞台     |
+| 2012年11月25日                                                                                         | 曼谷                   | 曼谷SCG體育場    |
+| 2013年10月19日                                                                                         | 北京                   | 北京國家體育場     |
+| 2013年10月26－27日 <small>(Special Edition)</small>                                                     | 東京                   | 東京巨蛋        |
+| [SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")                                                    |                      |             |
+| 2013年12月24－25日 <small>(With [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink"))</small> | Christmas Wonderland | 韓國國際展覽中心    |
+| [SMTOWN Live World Tour IV](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_IV "wikilink")     |                      |             |
+| 2014年8月15日                                                                                          | 首爾                   | 首爾世界盃競技場    |
+| 2014年10月4日－5日                                                                                       | 東京                   | 味之素體育場      |
+| 2014年10月18日                                                                                         | 上海                   | 上海體育場       |
 
 #### 其他大型演唱會
 
@@ -415,7 +415,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | --------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----- |
 | 日期                    | 演唱會名稱                                                                       | 舉行地點                                                                | 備註    |
 | 2012年5月10日            | KBS Open Concert                                                            | 高麗大學世宗校區                                                            | EXO-K |
-| 2012年5月12日            | 第18屆我愛你，大韓民國2012[夢想演唱會](https://zh.wikipedia.org/wiki/夢想演唱會 "wikilink")     | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                          |       |
+| 2012年5月12日            | 第18屆我愛你，大韓民國2012[夢想演唱會](../Page/夢想演唱會.md "wikilink")                        | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                          |       |
 | 2012年5月26日            | 樂天世界演唱會                                                                     | 樂天世界                                                                |       |
 | 2012年6月8日             | KBS Music Bank in 全州                                                        | [全州世界盃體育場](https://zh.wikipedia.org/wiki/全州世界盃體育場 "wikilink")       |       |
 | 2012年6月13日            | 清州KBS 建立67週年慶祝紀念 Happy Concert                                              | 清州無心川滑冰場                                                            |       |
@@ -430,7 +430,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 | 2012年9月8日             | 2012 世界自然保護聯盟紀念演唱會 K-POP Nature+                                            | 濟州島ICC戶外特設舞臺                                                        |       |
 | 2012年10月20日           | 景福高中校友會                                                                     | 景福高中大運動場                                                            |       |
 | 2012年11月1日            | SBS MTV The Show MU:CON首爾2012開幕式                                            | 首爾鸚鵡夢廣場                                                             |       |
-| 2013年1月19日            | Dream K-pop Fantasy Concert 2013                                            | 菲律賓[亞洲購物中心體育館](https://zh.wikipedia.org/wiki/亞洲購物中心體育館 "wikilink")  | EXO   |
+| 2013年1月19日            | Dream K-pop Fantasy Concert 2013                                            | 菲律賓[亞洲購物中心體育館](../Page/亞洲購物中心體育館.md "wikilink")                     | EXO   |
 | 2013年3月16日            | 2013 MBC Korean Music Wave in Bangkok                                       | 曼谷[拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")                        | EXO-K |
 | 2013年5月11日            | 第19屆我愛你，大韓民國2013夢想演唱會                                                       | 首爾世界盃競技場                                                            | EXO   |
 | 2013年5月15日            | K-POP Youth Culture Festival                                                | 新道林科技城11樓大宴會廳                                                       | EXO-K |
@@ -528,49 +528,49 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 ### 音樂節目獎項
 
-| 日期                   | 電視台                                                                  | 節目名稱                                                                   | 獲獎歌曲                 | 排名                | 備註    |
-| -------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------- | ----------------- | ----- |
-| 2013年6月14日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Wolf                 | 1位                | EXO   |
-| 2013年6月15日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
-| 2013年6月16日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
-| 2013年6月19日           | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
-| 2013年8月16日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Growl                | 1位                |       |
-| 2013年8月18日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
-| 2013年8月21日           | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
-| 2013年8月22日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
-| 2013年8月23日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
-| 2013年8月24日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
-| 2013年8月25日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
-| 2013年8月28日           | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
-| 2013年8月29日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
-| 2013年8月31日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
-| 2013年9月1日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
-| 2013年9月4日            | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
-| 2013年9月5日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
-| 2013年9月7日            | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
-| 2013年12月14日          | Miracles in December                                                 |                                                                        |                      |                   |       |
-| 2013年12月15日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
-| 2013年12月18日          | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
-| 2013年12月19日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
-| 2013年12月20日          | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Growl                | 年終結算：5位           |       |
-| Wolf                 | 年終結算：50位                                                             |                                                                        |                      |                   |       |
-| Miracles in December | 1位                                                                   |                                                                        |                      |                   |       |
-| 2013年12月21日          | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
-| 2013年12月22日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
-| 2013年12月26日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |                   |       |
-| 2013年12月27日          | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
-| 2014年1月2日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |                   |       |
-| 2014年5月14日           | [MBC Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Overdose             | 1位（Champion Song） | EXO-K |
-| 2014年5月15日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
-| 2014年5月16日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
-| 2014年5月17日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
-| 2014年5月18日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | EXO-K                |                   |       |
-| 2014年5月22日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |                   |       |
-| 2014年5月23日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
-| 2014年5月24日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")          | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
-| 2014年5月25日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                              | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
-| 2014年6月1日            |                                                                      |                                                                        |                      |                   |       |
-| 2014年6月27日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")            | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Miracles in December | 年中結算:5位           | EXO   |
+| 日期                   | 電視台                                                         | 節目名稱                                                                   | 獲獎歌曲                 | 排名                | 備註    |
+| -------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------- | ----------------- | ----- |
+| 2013年6月14日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Wolf                 | 1位                | EXO   |
+| 2013年6月15日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
+| 2013年6月16日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
+| 2013年6月19日           | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
+| 2013年8月16日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Growl                | 1位                |       |
+| 2013年8月18日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
+| 2013年8月21日           | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
+| 2013年8月22日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
+| 2013年8月23日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
+| 2013年8月24日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
+| 2013年8月25日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
+| 2013年8月28日           | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
+| 2013年8月29日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
+| 2013年8月31日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
+| 2013年9月1日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
+| 2013年9月4日            | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
+| 2013年9月5日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
+| 2013年9月7日            | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
+| 2013年12月14日          | Miracles in December                                        |                                                                        |                      |                   |       |
+| 2013年12月15日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
+| 2013年12月18日          | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |                   |       |
+| 2013年12月19日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
+| 2013年12月20日          | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Growl                | 年終結算：5位           |       |
+| Wolf                 | 年終結算：50位                                                    |                                                                        |                      |                   |       |
+| Miracles in December | 1位                                                          |                                                                        |                      |                   |       |
+| 2013年12月21日          | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
+| 2013年12月22日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
+| 2013年12月26日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |                   |       |
+| 2013年12月27日          | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
+| 2014年1月2日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |                   |       |
+| 2014年5月14日           | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Overdose             | 1位（Champion Song） | EXO-K |
+| 2014年5月15日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |                   |       |
+| 2014年5月16日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
+| 2014年5月17日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
+| 2014年5月18日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | EXO-K                |                   |       |
+| 2014年5月22日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |                   |       |
+| 2014年5月23日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |                   |       |
+| 2014年5月24日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |                   |       |
+| 2014年5月25日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |                   |       |
+| 2014年6月1日            |                                                             |                                                                        |                      |                   |       |
+| 2014年6月27日           | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Miracles in December | 年中結算:5位           | EXO   |
 
 ## 參考資料
 

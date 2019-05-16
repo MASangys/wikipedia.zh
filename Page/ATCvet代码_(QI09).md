@@ -15,9 +15,8 @@
     reproductive and respiratory syndrome (PRRS) virus）
     QI09AA06 [猪瘟病毒](../Page/猪瘟.md "wikilink")（Classical swine fever
     virus）
-    QI09AA07
-    [猪圆环病毒](https://zh.wikipedia.org/wiki/猪圆环病毒 "wikilink")（[Porcine
-    circovirus](https://zh.wikipedia.org/wiki/猪圆环病毒 "wikilink")）
+    QI09AA07 [猪圆环病毒](../Page/猪圆环病毒.md "wikilink")（[Porcine
+    circovirus](../Page/猪圆环病毒.md "wikilink")）
 
 ### QI09AB 灭活细菌疫苗（包括支原体、类毒素和衣原体）（Inactivated bacterial vaccines (including mycoplasma, toxoid and chlamydia)）
 
@@ -27,8 +26,7 @@
     QI09AB03 丹毒丝菌（）
     QI09AB04 博代氏杆菌+巴氏杆菌（ + [pasteurella](../Page/巴斯德氏菌屬.md "wikilink")）
     QI09AB05 巴氏杆菌（Pasteurella）
-    QI09AB06
-    放线杆菌+嗜血杆菌+巴氏杆菌（/[haemophilus](https://zh.wikipedia.org/wiki/嗜血杆菌属 "wikilink")
+    QI09AB06 放线杆菌+嗜血杆菌+巴氏杆菌（/[haemophilus](../Page/嗜血杆菌属.md "wikilink")
     + pasteurella）
     QI09AB07 放线杆菌/嗜血杆菌疫苗（Actinobacillus/haemophilus vaccine）
     QI09AB08

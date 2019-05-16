@@ -67,7 +67,7 @@
 
 ## 製作人員
 
-  - 原畫：[滨岛薰夫](https://zh.wikipedia.org/wiki/滨岛薰夫 "wikilink")
+  - 原畫：[滨岛薰夫](../Page/滨岛薰夫.md "wikilink")
   - 劇本：[浅生詠](https://zh.wikipedia.org/wiki/浅生詠 "wikilink")、[和泉万夜](https://zh.wikipedia.org/wiki/和泉万夜 "wikilink")
 
 ## 相關產品

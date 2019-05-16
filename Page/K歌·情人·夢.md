@@ -284,7 +284,7 @@ followed_by = | related = | website =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/周丹薇" title="wikilink">周丹薇</a></p></td>
+<p><a href="../Page/周丹薇.md" title="wikilink">周丹薇</a></p></td>
 <td><center>
 <p>皓子阿姨</p></td>
 <td><p>音樂教室負責人</p></td>
@@ -433,7 +433,7 @@ followed_by = | related = | website =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳子鴻" title="wikilink">陳子鴻</a></p></td>
+<p><a href="../Page/陳子鴻.md" title="wikilink">陳子鴻</a></p></td>
 <td><center>
 <p>陳子鴻</p></td>
 <td><p>亞洲頂尖音樂大賽評審</p></td>
@@ -835,7 +835,7 @@ followed_by = | related = | website =
 <td><p><a href="../Page/陳思函.md" title="wikilink">陳思函</a>、<a href="../Page/馬念先.md" title="wikilink">馬念先</a></p></td>
 <td><p><a href="../Page/黃舒駿.md" title="wikilink">黃舒駿</a></p></td>
 <td><p><a href="../Page/黃舒駿.md" title="wikilink">黃舒駿</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雅芳" title="wikilink">雅芳廣告歌曲</a><br />
+<td><p><a href="../Page/雅芳.md" title="wikilink">雅芳廣告歌曲</a><br />
 第6集</p></td>
 </tr>
 <tr class="even">
@@ -1057,9 +1057,9 @@ Pete Barringer、Douglas Shawe</p></td>
 
   - <small>同時段節目：[中視](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")《[白色之戀](https://zh.wikipedia.org/wiki/白色之戀_\(台灣電視劇\) "wikilink")》
     /
-    《[借用一下你的愛](https://zh.wikipedia.org/wiki/借用一下你的愛 "wikilink")》、[民視](../Page/民視無線台.md "wikilink")《[美人龍湯](../Page/美人龍湯.md "wikilink")》
+    《[借用一下你的愛](../Page/借用一下你的愛.md "wikilink")》、[民視](../Page/民視無線台.md "wikilink")《[美人龍湯](../Page/美人龍湯.md "wikilink")》
     /
-    《[原來是美男](../Page/原來是美男_\(台灣電視劇\).md "wikilink")》、[台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")《[金大花的華麗冒險](https://zh.wikipedia.org/wiki/金大花的華麗冒險 "wikilink")》
+    《[原來是美男](../Page/原來是美男_\(台灣電視劇\).md "wikilink")》、[台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")《[金大花的華麗冒險](../Page/金大花的華麗冒險.md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - 資料來源：[中時娛樂](https://web.archive.org/web/20130126141713/http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0%2C5137%2Ctv%2C00.html)</small>
 
@@ -1072,7 +1072,7 @@ Pete Barringer、Douglas Shawe</p></td>
   - 舞蹈總監：[張勝豐](https://zh.wikipedia.org/wiki/張勝豐 "wikilink")
   - 戲劇總監：[謝育秀](https://zh.wikipedia.org/wiki/謝育秀 "wikilink")
   - 導演：[林子平](https://zh.wikipedia.org/wiki/林子平 "wikilink")
-  - 編劇：[吳洛纓](../Page/吳洛纓.md "wikilink")、[張瑋庭](https://zh.wikipedia.org/wiki/張瑋庭 "wikilink")、李登雅
+  - 編劇：[吳洛纓](../Page/吳洛纓.md "wikilink")、[張瑋庭](../Page/張瑋庭.md "wikilink")、李登雅
   - 統籌：劉玲均
   - 副導演：陳毅軒
   - 場記：何佳真

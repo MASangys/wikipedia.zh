@@ -78,7 +78,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹宥善" title="wikilink">尹宥善</a></p>
+<p><a href="../Page/尹宥善.md" title="wikilink">尹宥善</a></p>
 </center></td>
 <td><center>
 <p>尹裕善</p>
@@ -151,7 +151,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金智媛" title="wikilink">金智媛</a></p>
+<p><a href="../Page/金智媛.md" title="wikilink">金智媛</a></p>
 </center></td>
 <td><center>
 <p>金智媛</p>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/白珍熙" title="wikilink">白珍熙</a></p>
+<p><a href="../Page/白珍熙.md" title="wikilink">白珍熙</a></p>
 </center></td>
 <td><center>
 <p>白珍熙</p>
@@ -257,13 +257,13 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/姜昇潤" title="wikilink">姜昇潤</a></p>
+<p><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a></p>
 </center></td>
 <td><center>
 <p>姜昇潤</p>
 </center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/宋昱璁" title="wikilink">宋昱璁</a></p>
+<p><a href="../Page/宋昱璁.md" title="wikilink">宋昱璁</a></p>
 </center></td>
 <td><p>鍾硕的朋友。認為地球是方的。慶州中藥家的兒子，講著一口道地的慶尚道方言。由於給如同乞丐般的安內相家人食物而結緣，並與鍾碩成為好友。一下子夢想成為芭蕾舞者，一下子又夢想成為總統，有著莫名其妙荒唐的一面，加上他又不聰明，所以裕善一直不是很喜歡他。雖然有點呆，但有義氣又善良，對喜歡的人會付出一切的類型。后来担任韩国总统。</p></td>
 </tr>
@@ -280,7 +280,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴真珠" title="wikilink">朴真珠</a></p>
+<p><a href="../Page/朴真珠.md" title="wikilink">朴真珠</a></p>
 </center></td>
 <td><center>
 <p>洪寶一</p>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳智熙" title="wikilink">陳智熙</a></p>
+<p><a href="../Page/陳智熙.md" title="wikilink">陳智熙</a></p>
 </center></td>
 <td><center>
 <p>海莉</p>

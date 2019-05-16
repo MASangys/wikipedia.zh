@@ -188,7 +188,7 @@ Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
 </tr>
 <tr class="even">
 <td><p>'''2nd '''</p></td>
-<td><p>第二張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Antique_Romance" title="wikilink">Antique Romance</a></strong>》</p>
+<td><p>第二張迷你專輯《<strong><a href="../Page/Antique_Romance.md" title="wikilink">Antique Romance</a></strong>》</p>
 <ul>
 <li>發行日：2012年12月14日</li>
 <li>語言：韓語</li>
@@ -227,7 +227,7 @@ Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張單曲《<strong><a href="../Page/Love_Letter.md" title="wikilink">Love Letter</a></strong>》</p>
+<td><p>首張單曲《<strong><a href="https://zh.wikipedia.org/wiki/Love_Letter" title="wikilink">Love Letter</a></strong>》</p>
 <ul>
 <li>發行日：2007年10月4日</li>
 <li>語言：韓語</li>
@@ -247,7 +247,7 @@ Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
 </tr>
 <tr class="odd">
 <td><p>'''3rd '''</p></td>
-<td><p>第三張單曲《<strong><a href="https://zh.wikipedia.org/wiki/THE_GRASSHOPPERS" title="wikilink">THE GRASSHOPPERS</a></strong>》</p>
+<td><p>第三張單曲《<strong><a href="../Page/THE_GRASSHOPPERS.md" title="wikilink">THE GRASSHOPPERS</a></strong>》</p>
 <ul>
 <li>發行日： 2012年1月13日</li>
 <li>語言：韓語</li>
@@ -381,7 +381,7 @@ Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
 </tr>
 <tr class="odd">
 <td><p><strong>-</strong></p></td>
-<td><p>第五張OST專輯《<strong>《<a href="https://zh.wikipedia.org/wiki/女王之花" title="wikilink">女王之花</a>》 OST Part.1</strong>》</p>
+<td><p>第五張OST專輯《<strong>《<a href="../Page/女王之花.md" title="wikilink">女王之花</a>》 OST Part.1</strong>》</p>
 <ul>
 <li>發行日： 2015年3月23日</li>
 <li>語言：韓語</li>
@@ -466,13 +466,13 @@ Circus》大受歡迎。 Sunny Hill的歌迷官方稱為「Hiller」。
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_GRASSHOPPERS" title="wikilink">THE GRASSHOPPERS</a></p></td>
+<td><p><a href="../Page/THE_GRASSHOPPERS.md" title="wikilink">THE GRASSHOPPERS</a></p></td>
 </tr>
 <tr class="even">
 <td><p>白馬正在來嗎</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Antique_Romance" title="wikilink">Antique Romance</a></p></td>
+<td><p><a href="../Page/Antique_Romance.md" title="wikilink">Antique Romance</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>

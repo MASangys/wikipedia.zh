@@ -12,9 +12,9 @@
 
 2012年12月7日，官方舉辦最新情報發佈會，宣佈《貓物語（黑）》於2012年12月31日播出合共兩小時的電視動畫特別篇。是爲第五個項目。
 
-2012年12月31日《貓物語（黑）》播放完畢後，宣佈製作電視動畫第二季。其中包括《[貓物語](https://zh.wikipedia.org/wiki/貓物語 "wikilink")（白）》、《[傾物語](https://zh.wikipedia.org/wiki/傾物語 "wikilink")》、《[花物語](https://zh.wikipedia.org/wiki/花物語 "wikilink")》、《[囮物語](https://zh.wikipedia.org/wiki/囮物語 "wikilink")》、《[鬼物语](https://zh.wikipedia.org/wiki/鬼物语 "wikilink")》和《[恋物语](https://zh.wikipedia.org/wiki/恋物语 "wikilink")》等六部作品。將於2013年播放。其中《[花物語](https://zh.wikipedia.org/wiki/花物語 "wikilink")》改為在2014年8月16日，全5話一舉放送。
+2012年12月31日《貓物語（黑）》播放完畢後，宣佈製作電視動畫第二季。其中包括《[貓物語](../Page/貓物語.md "wikilink")（白）》、《[傾物語](../Page/傾物語.md "wikilink")》、《[花物語](../Page/花物語.md "wikilink")》、《[囮物語](../Page/囮物語.md "wikilink")》、《[鬼物语](https://zh.wikipedia.org/wiki/鬼物语 "wikilink")》和《[恋物语](https://zh.wikipedia.org/wiki/恋物语 "wikilink")》等六部作品。將於2013年播放。其中《[花物語](../Page/花物語.md "wikilink")》改為在2014年8月16日，全5話一舉放送。
 
-《[憑物語](https://zh.wikipedia.org/wiki/憑物語 "wikilink")》於2014年10月21日前後公佈動畫化，將於2014年12月31日連續播放全4集。
+《[憑物語](../Page/憑物語.md "wikilink")》於2014年10月21日前後公佈動畫化，將於2014年12月31日連續播放全4集。
 
 ## 作品
 
@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/貓物語" title="wikilink">貓物語（黑）</a></p></td>
+<td><p><a href="../Page/貓物語.md" title="wikilink">貓物語（黑）</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全4话，2小時特別篇</p></td>
 <td><p>2012年12月31日</p></td>
@@ -113,7 +113,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/囮物語" title="wikilink">囮物語</a></p></td>
+<td><p><a href="../Page/囮物語.md" title="wikilink">囮物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全5话，每話約24分鐘</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/物语系列" title="wikilink">物语系列</a><br />
@@ -124,7 +124,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鬼物語" title="wikilink">鬼物語</a></p></td>
+<td><p><a href="../Page/鬼物語.md" title="wikilink">鬼物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全4话，每話約24分鐘</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/物语系列" title="wikilink">物语系列</a><br />
@@ -135,7 +135,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戀物語" title="wikilink">戀物語</a></p></td>
+<td><p><a href="../Page/戀物語.md" title="wikilink">戀物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全6话，每話約24分鐘</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/物语系列" title="wikilink">物语系列</a><br />
@@ -146,7 +146,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>11</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花物語" title="wikilink">花物語</a></p></td>
+<td><p><a href="../Page/花物語.md" title="wikilink">花物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全5话，5話一舉放送</p></td>
 <td><p>2014年8月16日</p></td>
@@ -157,7 +157,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>12</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/憑物語" title="wikilink">憑物語</a></p></td>
+<td><p><a href="../Page/憑物語.md" title="wikilink">憑物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全4话，4話一舉放送</p></td>
 <td><p>2014年12月31日</p></td>
@@ -168,7 +168,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/終物語" title="wikilink">終物語</a></p></td>
+<td><p><a href="../Page/終物語.md" title="wikilink">終物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全12话，每話約24分鐘</p></td>
 <td><p>2015年10月3日</p></td>
@@ -179,7 +179,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曆物語" title="wikilink">曆物語</a></p></td>
+<td><p><a href="../Page/曆物語.md" title="wikilink">曆物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網路動畫" title="wikilink">網路動畫</a><br />
 全12话，每話約14分鐘</p></td>
 <td><p>2016年1月9日</p></td>
@@ -190,7 +190,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/終物語" title="wikilink">終物語</a></p></td>
+<td><p><a href="../Page/終物語.md" title="wikilink">終物語</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a><br />
 全7话，2夜連續播放</p></td>
 <td><p>2017年8月12日－8月13日</p></td>

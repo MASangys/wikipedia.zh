@@ -32,7 +32,7 @@ Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>想一個人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/侯光武" title="wikilink">侯光武</a></p></td>
+<td><p><a href="../Page/侯光武.md" title="wikilink">侯光武</a></p></td>
 <td><p><a href="../Page/C君.md" title="wikilink">C君</a>@The Island</p></td>
 <td><p>Randy Chow/徐浩@The Island</p></td>
 <td><p>Randy Chow/徐浩@The Island</p></td>

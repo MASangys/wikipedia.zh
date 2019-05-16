@@ -266,9 +266,9 @@
   - 總監督 - [福田己津央](../Page/福田己津央.md "wikilink")
   - 系列構成 - [兩澤千晶](../Page/兩澤千晶.md "wikilink")
   - 角色/機獸設計 - [久行宏和](https://zh.wikipedia.org/wiki/久行宏和 "wikilink")
-  - 主要機械設計 - 阿久津潤一、[PLEX](../Page/PLEX.md "wikilink")
+  - 主要機械設計 - 阿久津潤一、[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")
   - 機械設計工作 -
-    [今石進](../Page/今石進.md "wikilink")、大輪充、戸部隆一、[PLEX](../Page/PLEX.md "wikilink")
+    [今石進](../Page/今石進.md "wikilink")、大輪充、戸部隆一、[PLEX](https://zh.wikipedia.org/wiki/PLEX "wikilink")
   - 總作畫監督 - 久行宏和、重田智
   - 美術監督 - 池田繁美
   - 色彩設定 - 黑柳朋子

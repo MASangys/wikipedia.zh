@@ -9,7 +9,7 @@ Step](../Page/The_Second_Step.md "wikilink")》後的第三張EP。這EP本來�
       - 第一主打歌，派台版本經過縮短。
 2.  無城
       - 作曲：[Matt
-        Wong](https://zh.wikipedia.org/wiki/Matt_Wong "wikilink")，作詞：[林日曦](../Page/林日曦.md "wikilink")，編曲：[黃尚偉](https://zh.wikipedia.org/wiki/黃尚偉 "wikilink")
+        Wong](https://zh.wikipedia.org/wiki/Matt_Wong "wikilink")，作詞：[林日曦](../Page/林日曦.md "wikilink")，編曲：[黃尚偉](../Page/黃尚偉.md "wikilink")
       - 第四主打歌，在9月6日的[無線電視音樂節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《[Music
         Café](../Page/Music_Café.md "wikilink")》首次演唱。\[3\]
 3.  舞士遊記
@@ -26,7 +26,7 @@ Step](../Page/The_Second_Step.md "wikilink")》後的第三張EP。這EP本來�
       - 作曲：[鄧建明](../Page/鄧建明.md "wikilink")、[葉肇中](../Page/葉肇中.md "wikilink")，作詞：[余紹祺](https://zh.wikipedia.org/wiki/余紹祺 "wikilink")，編曲：鄧建明、葉肇中
       - 第五主打歌，在9月6日的無線電視音樂節目《Music Café》首次演唱。\[6\]
 7.  辣著生命
-      - 作曲：[李羨穎](https://zh.wikipedia.org/wiki/李羨穎 "wikilink")，作詞：[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")，編曲：[朱俊傑](https://zh.wikipedia.org/wiki/朱俊傑 "wikilink")
+      - 作曲：[李羨穎](https://zh.wikipedia.org/wiki/李羨穎 "wikilink")，作詞：[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")，編曲：[朱俊傑](../Page/朱俊傑.md "wikilink")
       - 嵌入於《乘着光影戀愛》音軌之內，「生命農夫 Life
         Fama」之主題曲，與[葉文輝及](../Page/葉文輝.md "wikilink")[高皓正合唱](https://zh.wikipedia.org/wiki/高皓正 "wikilink")，\[7\]內地電台南方生活廣播「流行南方粵語兒歌大匯」冠軍歌曲\[8\]。
 8.  一種快樂 一種苦\[9\]

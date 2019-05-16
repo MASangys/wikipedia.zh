@@ -1,6 +1,6 @@
 「**REMIX
 ATTACK**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚混音專輯。於2006年3月23日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

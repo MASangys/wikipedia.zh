@@ -27,7 +27,8 @@
 3.  **Close your eyes, Close to you**
 4.  **Me love peace \!\!**
 5.  **No Communication**
-6.  **[a walk in the park](../Page/a_walk_in_the_park.md "wikilink")**
+6.  **[a walk in the
+    park](https://zh.wikipedia.org/wiki/a_walk_in_the_park "wikilink")**
     \[Remix\]
 7.  **To-day**
 8.  **Storm**
@@ -39,12 +40,12 @@
 
 ## 單曲銷量
 
-| 日期          | 歌曲                                                             | 最高排名    | 上榜週數 | 銷量        |
-| :---------- | :------------------------------------------------------------- | :------ | :--- | :-------- |
-| 1996年11月27日 | [a walk in the park](../Page/a_walk_in_the_park.md "wikilink") | **\#1** | 16   | 1,066,580 |
-| 1997年2月19日  | [CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink") | **\#1** | 10   | 2,296,200 |
-| 1997年5月21日  | [How to be a Girl](../Page/How_to_be_a_Girl.md "wikilink")     | **\#1** | 11   | 772,130   |
-|             |                                                                |         |      |           |
+| 日期          | 歌曲                                                                                | 最高排名    | 上榜週數 | 銷量        |
+| :---------- | :-------------------------------------------------------------------------------- | :------ | :--- | :-------- |
+| 1996年11月27日 | [a walk in the park](https://zh.wikipedia.org/wiki/a_walk_in_the_park "wikilink") | **\#1** | 16   | 1,066,580 |
+| 1997年2月19日  | [CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")                    | **\#1** | 10   | 2,296,200 |
+| 1997年5月21日  | [How to be a Girl](../Page/How_to_be_a_Girl.md "wikilink")                        | **\#1** | 11   | 772,130   |
+|             |                                                                                   |         |      |           |
 
 ## 關連DVD
 

@@ -1,6 +1,6 @@
 《**Driving in the
 silence**》是[坂本真绫的第](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")3张[概念專輯](https://zh.wikipedia.org/wiki/概念專輯 "wikilink")。2011年11月9日由[flying
-DOG发行](../Page/flying_DOG.md "wikilink")。
+DOG发行](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")。
 
 ## 概要
 

@@ -10,7 +10,7 @@
 自1958年起，巴德開始在[德州大學奧斯汀分校任教](https://zh.wikipedia.org/wiki/德州大學奧斯汀分校 "wikilink")，並投注所有精力在研究上。\[9\]然而，他在1973年期間暫停任教，並於讓·米歇爾·薩維特（Jean-Michel
 Savéant）研究室進行研究。\[10\]巴德還花費一學期的時間於[加利福尼亞理工學院](../Page/加利福尼亞理工學院.md "wikilink")，取得薛曼·米爾斯·菲爾查德學者（Sherman
 Mills Fairchild
-Scholar）頭銜。\[11\]1987年春季期間，巴德受到[貝克講師的規格在](https://zh.wikipedia.org/wiki/羅伯特·貝克 "wikilink")[康乃爾大學演講](https://zh.wikipedia.org/wiki/康乃爾大學 "wikilink")。1988年，巴德擔任哈佛大學[罗伯特·伯恩斯·伍德沃德客座教授](../Page/罗伯特·伯恩斯·伍德沃德.md "wikilink")。\[12\]
+Scholar）頭銜。\[11\]1987年春季期間，巴德受到[貝克講師的規格在](../Page/羅伯特·貝克.md "wikilink")[康乃爾大學演講](https://zh.wikipedia.org/wiki/康乃爾大學 "wikilink")。1988年，巴德擔任哈佛大學[罗伯特·伯恩斯·伍德沃德客座教授](../Page/罗伯特·伯恩斯·伍德沃德.md "wikilink")。\[12\]
 
 巴德目前已發表過900多篇同行評審研究論文、75本出版物，同時擁有23項專利\[13\]；當中他所著作的過的書籍有《化学平衡》（Chemical
 Equilibrium）\[14\] 、《电化学方法—原理及应用》（Electrochemical Methods – Fundamentals

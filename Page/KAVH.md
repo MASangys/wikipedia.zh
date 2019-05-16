@@ -24,7 +24,7 @@ go](https://zh.wikipedia.org/wiki/Let_me_go "wikilink")，並獲得同年澳門�
   - [煩人之家](https://zh.wikipedia.org/wiki/煩人之家 "wikilink")
   - [Let me go](https://zh.wikipedia.org/wiki/Let_me_go "wikilink")
   - [男孩情路逸事](https://zh.wikipedia.org/wiki/男孩情路逸事 "wikilink")
-  - [Lover](../Page/Lover.md "wikilink")
+  - [Lover](https://zh.wikipedia.org/wiki/Lover "wikilink")
   - [那些天](https://zh.wikipedia.org/wiki/那些天 "wikilink")
   - [年代-澳門文物大使協會主題曲](https://zh.wikipedia.org/wiki/年代-澳門文物大使協會主題曲 "wikilink")
 

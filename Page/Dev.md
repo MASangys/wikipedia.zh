@@ -12,7 +12,7 @@ Dev於四歲時接觸[游泳](../Page/游泳.md "wikilink")，並不斷練習，
 
 ### 2008年－2010年：意外收穫、尋覓自我
 
-2008年，Dev把自己創作的小作品上載到[MySpace網站](../Page/MySpace.md "wikilink")，不久便被美國組合The
+2008年，Dev把自己創作的小作品上載到[MySpace網站](https://zh.wikipedia.org/wiki/MySpace "wikilink")，不久便被美國組合The
 Cataracs賞識而邀請她簽約。Dev決定以歌手為自己的事業，於2010年簽約[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 同年8月，The Cataracs讓她錄製《Booty Bounce》，因她的獨特聲線而令The
 Cataracs想起念頭，就是將歌曲的其中一段與[遠東韻律的](../Page/遠東韻律.md "wikilink")《Like
@@ -24,7 +24,7 @@ Low》，其電音風格亦吸引大眾。
 兩首單曲均能引起熱潮，Dev便開始籌備個人首張專輯《The Night the Sun Came
 Up》，而專輯內另外三首單曲《Getaway》、《In The
 Dark》和《Shadows》都被她以清新及鄉村風味重新演繹\[2\]。
-影片上載到[Youtube網站後獲得好評](../Page/Youtube.md "wikilink")，清脆悅耳的聲線亦獲得大眾支持和喜愛。專輯於2011年9月2日推出。
+影片上載到[Youtube網站後獲得好評](https://zh.wikipedia.org/wiki/Youtube "wikilink")，清脆悅耳的聲線亦獲得大眾支持和喜愛。專輯於2011年9月2日推出。
 
 ## 專輯
 

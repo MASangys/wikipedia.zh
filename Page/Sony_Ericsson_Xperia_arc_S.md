@@ -1,7 +1,7 @@
 **Sony Ericsson Xperia arc S**
 是[索尼愛立信](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")2011年10月推出、採用[Android](../Page/Android.md "wikilink")[作業系統的中高階](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，屬於[Xperia系列](../Page/Xperia.md "wikilink")，[模組號碼為LT](https://zh.wikipedia.org/wiki/模組 "wikilink")18i，為[Sony
 Ericsson Xperia
-arc的升級改良版本](../Page/Sony_Ericsson_Xperia_arc.md "wikilink")。
+arc的升級改良版本](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_arc "wikilink")。
 
 ## 硬件
 
@@ -12,7 +12,7 @@ x
 MSM8255T
 1.4GHz[單核](https://zh.wikipedia.org/wiki/單核 "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，810萬像素後置Exmor
 R
-CMOS[鏡頭](../Page/鏡頭.md "wikilink")，[HDMI輸出功能](../Page/HDMI.md "wikilink")，內置512MB[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、1GB[快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。設有[microSD卡插槽](../Page/microSD.md "wikilink")，隨機贈送一張8GB
+CMOS[鏡頭](../Page/鏡頭.md "wikilink")，[HDMI輸出功能](../Page/HDMI.md "wikilink")，內置512MB[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、1GB[快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。設有[microSD卡插槽](https://zh.wikipedia.org/wiki/microSD "wikilink")，隨機贈送一張8GB
 [microSDHC卡](https://zh.wikipedia.org/wiki/microSDHC "wikilink")，最高支援容量64GB。設有[micro
 USB連接埠](https://zh.wikipedia.org/wiki/micro_USB "wikilink")，隨機贈送一條micro
 USB連接線。\[1\]

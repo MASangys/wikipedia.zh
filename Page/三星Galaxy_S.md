@@ -10,7 +10,7 @@ S及Galaxy S II。\[1\]
 
 而[Galaxy
 S的頭號對手是](https://zh.wikipedia.org/wiki/Galaxy_S "wikilink")[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
-[iPhone 3GS和](../Page/iPhone_3GS.md "wikilink")[HTC
+[iPhone 3GS和](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[HTC
 Desire](../Page/HTC_Desire.md "wikilink")。
 
 ## 衍生機種

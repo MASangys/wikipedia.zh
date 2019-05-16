@@ -10,9 +10,9 @@ Source)。在[美國也有不少的文獻以及公開的研究報告](https://zh
 ## 電腦檔案
 
 電腦訊源的[檔案來源](../Page/檔案.md "wikilink")，多半來自[CD光盤取得的](../Page/CD.md "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")，少數來自[LP膠盤或是放音盤帶](https://zh.wikipedia.org/wiki/LP "wikilink")。近年來由錄音室[混音後取得的黃金檔案也漸漸風行](../Page/混音.md "wikilink")，黃金母帶也在華人世界中譯為[數碼母帶或高解析數位音樂](https://zh.wikipedia.org/wiki/數碼 "wikilink")。格式頗為多元化，上至384K/32bit乃至於44.1K/16bit的格式均可見到，由於44.1\~96K較無相容性問題，為目前黃金檔案的主流，96\~384K雖然有增加的趨勢，但多為[錄音從業人員或發燒音響迷所青睞](https://zh.wikipedia.org/wiki/錄音 "wikilink")。儲存格式分為[無損壓縮及](https://zh.wikipedia.org/wiki/無損壓縮 "wikilink")[有損壓縮檔案](https://zh.wikipedia.org/wiki/有損壓縮 "wikilink")，典型的無損諸如alac
-[flac](../Page/flac.md "wikilink")
+[flac](https://zh.wikipedia.org/wiki/flac "wikilink")
 [ape](https://zh.wikipedia.org/wiki/ape "wikilink")，有損的代表應該就是aac
-[mp3](../Page/mp3.md "wikilink")。
+[mp3](https://zh.wikipedia.org/wiki/mp3 "wikilink")。
 
 ## 設置原理及原則
 

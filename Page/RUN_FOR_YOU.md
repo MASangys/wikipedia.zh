@@ -6,7 +6,7 @@ Records](../Page/J_Storm.md "wikilink")。
 
   - 前作《[WHITE](../Page/WHITE_\(KAT-TUN單曲\).md "wikilink")》以來久違約三個月的作品。2011年的第三張單曲。
   - 主打歌「RUN FOR
-    YOU」是KAT-TUN所代言的「[鈴木Solio](https://zh.wikipedia.org/wiki/鈴木Solio "wikilink")」電視廣告的主題歌。
+    YOU」是KAT-TUN所代言的「[鈴木Solio](../Page/鈴木Solio.md "wikilink")」電視廣告的主題歌。
   - 關於歌曲
 
 <!-- end list -->

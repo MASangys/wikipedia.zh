@@ -2,7 +2,7 @@
 Lion**\[1\]\[2\]（10.8版本）是[蘋果公司开发的個人電腦和](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")[OS
 X的第九个](https://zh.wikipedia.org/wiki/OS_X "wikilink")[版本](../Page/軟件版本號.md "wikilink")，供[麥金塔電腦使用](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")。苹果于2012年2月16日发布了OS
 X Mountain
-Lion，并在7月25日公开发售。\[3\]它引入了更多来自[iOS的功能特色](../Page/iOS.md "wikilink")，部分功能也已在[OS
+Lion，并在7月25日公开发售。\[3\]它引入了更多来自[iOS的功能特色](https://zh.wikipedia.org/wiki/iOS "wikilink")，部分功能也已在[OS
 X Lion中引入](../Page/Mac_OS_X_Lion.md "wikilink")。
 
 ## 历史
@@ -25,7 +25,7 @@ Store發售，售價為US$19.99 TWD590
 
 Mountain Lion支持以下硬件：
 
-1.  [iMac](../Page/iMac.md "wikilink")（2007年中期或之后的型號）
+1.  [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")（2007年中期或之后的型號）
 2.  [MacBook](../Page/MacBook.md "wikilink")（2008年后期的[铝制机身型號](../Page/铝.md "wikilink")、2009年前期或之后的塑料机身型號）
 3.  [MacBook Pro](../Page/MacBook_Pro.md "wikilink")（2007年中期/后期或之后的型號）
 4.  [MacBook Air](../Page/MacBook_Air.md "wikilink")（2008年后期或之后的型號）
@@ -42,13 +42,13 @@ Mountain Lion支持以下硬件：
 ## 新增及变更功能
 
 Mountain
-Lion与[iCloud更深度地整合](../Page/iCloud.md "wikilink")。内置应用程序、[iWork和第三方应用程序通过](../Page/iWork.md "wikilink")[API实现新的](https://zh.wikipedia.org/wiki/API "wikilink")"打开及保存"对话框。使用这个API的应用程序支持一个新的查看和管理专属本应用程序在[雲端儲存文档的用户界面](https://zh.wikipedia.org/wiki/雲端儲存 "wikilink")。\[5\]在Mountain
+Lion与[iCloud更深度地整合](https://zh.wikipedia.org/wiki/iCloud "wikilink")。内置应用程序、[iWork和第三方应用程序通过](https://zh.wikipedia.org/wiki/iWork "wikilink")[API实现新的](https://zh.wikipedia.org/wiki/API "wikilink")"打开及保存"对话框。使用这个API的应用程序支持一个新的查看和管理专属本应用程序在[雲端儲存文档的用户界面](https://zh.wikipedia.org/wiki/雲端儲存 "wikilink")。\[5\]在Mountain
 Lion中，iWork文档会自动被同步到iCloud，部分内置应用程序的内容更改也会即刻同步到iCloud并更新到使用同一Apple
-ID登录的[iPhone](../Page/iPhone.md "wikilink")、[iPod
-touch和](../Page/iPod_touch.md "wikilink")[iPad上](https://zh.wikipedia.org/wiki/iPad "wikilink")。\[6\]
+ID登录的[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
+touch和](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[iPad上](https://zh.wikipedia.org/wiki/iPad "wikilink")。\[6\]
 
 新增[Power
-Nap](https://zh.wikipedia.org/wiki/Power_Nap "wikilink")，當[Mac進入睡眠狀態](../Page/Mac.md "wikilink")，它仍能透過[Power
+Nap](https://zh.wikipedia.org/wiki/Power_Nap "wikilink")，當[Mac進入睡眠狀態](https://zh.wikipedia.org/wiki/Mac "wikilink")，它仍能透過[Power
 Nap完成作業](https://zh.wikipedia.org/wiki/Power_Nap "wikilink")。會定時更新[Mail](https://zh.wikipedia.org/wiki/Mail "wikilink")、[通讯录](https://zh.wikipedia.org/wiki/通讯录 "wikilink")、[日历](https://zh.wikipedia.org/wiki/日历 "wikilink")、[提醒事項](../Page/提醒事項.md "wikilink")、[備忘錄](https://zh.wikipedia.org/wiki/備忘錄 "wikilink")、[照片流](https://zh.wikipedia.org/wiki/照片流 "wikilink")、[尋找我的Mac](https://zh.wikipedia.org/wiki/尋找我的Mac "wikilink")，以及文件[雲端服務](https://zh.wikipedia.org/wiki/雲端 "wikilink")。當Mac处于電源供电时，會下載[軟體更新](https://zh.wikipedia.org/wiki/軟體更新 "wikilink")，並透過[Time
 Machine進行](../Page/Time_Machine.md "wikilink")[備份](https://zh.wikipedia.org/wiki/備份 "wikilink")。
 
@@ -66,13 +66,13 @@ Lion还包含针对[中国用户的定制功能](https://zh.wikipedia.org/wiki/�
 ### 来自iOS的功能
 
 苹果声称为Mountain Lion打造的许多功能是受iOS启发。\[9\]在Mountain
-Lion中，一些内置应用程序被更名以与[iOS保持一致](../Page/iOS.md "wikilink")，其中[iCal更名为](https://zh.wikipedia.org/wiki/iCal "wikilink")“日历”\[10\]、[地址簿更名为](https://zh.wikipedia.org/wiki/Address_Book_\(application\) "wikilink")“通讯录”、[iChat更名为](../Page/iChat.md "wikilink")“-{zh-hans:[信息](https://zh.wikipedia.org/wiki/Messages "wikilink");zh-hant:[訊息](https://zh.wikipedia.org/wiki/Messages "wikilink")}-”并新增[iMessage服务支持](https://zh.wikipedia.org/wiki/iMessage "wikilink")。\[11\]此外，还有一些功能来自iOS，包括：
+Lion中，一些内置应用程序被更名以与[iOS保持一致](https://zh.wikipedia.org/wiki/iOS "wikilink")，其中[iCal更名为](https://zh.wikipedia.org/wiki/iCal "wikilink")“日历”\[10\]、[地址簿更名为](https://zh.wikipedia.org/wiki/Address_Book_\(application\) "wikilink")“通讯录”、[iChat更名为](https://zh.wikipedia.org/wiki/iChat "wikilink")“-{zh-hans:[信息](https://zh.wikipedia.org/wiki/Messages "wikilink");zh-hant:[訊息](https://zh.wikipedia.org/wiki/Messages "wikilink")}-”并新增[iMessage服务支持](https://zh.wikipedia.org/wiki/iMessage "wikilink")。\[11\]此外，还有一些功能来自iOS，包括：
 
   - [提醒事项](https://zh.wikipedia.org/wiki/提醒事项 "wikilink")——待办事项应用程序，该程序与[日历程序独立](https://zh.wikipedia.org/wiki/iCal "wikilink")。\[12\]
   - [备忘录](https://zh.wikipedia.org/wiki/备忘录 "wikilink")——从[Mail应用程序分离](https://zh.wikipedia.org/wiki/Mail_\(Mac_OS_X\) "wikilink")，支持将备忘固定在桌面。\[13\]
   - 分享列表——[Safari和其他应用程序中的](../Page/Safari.md "wikilink")“分享”按钮和对话框\[14\]
   - [Game
-    Center](https://zh.wikipedia.org/wiki/Game_Center "wikilink")——Mac用户可与iPad、iPhone和iPod
+    Center](../Page/Game_Center.md "wikilink")——Mac用户可与iPad、iPhone和iPod
     touch用户对战。\[15\]
   - 隔空播放——通过[隔空播放在](../Page/隔空播放.md "wikilink")[Apple
     TV上显示OS](../Page/Apple_TV.md "wikilink") X屏幕镜像\[16\]
@@ -87,7 +87,7 @@ Lion中，一些内置应用程序被更名以与[iOS保持一致](../Page/iOS.m
     Update](https://zh.wikipedia.org/wiki/Apple_Software_Update "wikilink")——被整合进[Mac
     App Store](../Page/Mac_App_Store.md "wikilink")\[20\]
   - [X11](https://zh.wikipedia.org/wiki/X11 "wikilink")——用户被引导使用替代的开源的[XQuartz项目](../Page/XQuartz.md "wikilink")\[21\]
-  - [iChat](../Page/iChat.md "wikilink")——被[信息和](https://zh.wikipedia.org/wiki/訊息_\(應用程式\) "wikilink")[Facetime取代](../Page/Facetime.md "wikilink")
+  - [iChat](https://zh.wikipedia.org/wiki/iChat "wikilink")——被[信息和](../Page/訊息_\(應用程式\).md "wikilink")[Facetime取代](https://zh.wikipedia.org/wiki/Facetime "wikilink")
 
 ### 操作系统的重大修改
 

@@ -26,16 +26,17 @@ Sturgis再次合作。其中一曲《Breathless》的現場版先行在Youtube�
 
 三月他們來到北美，與[Attack
 Attack\!](../Page/Attack_Attack!.md "wikilink")、[Breathe
-Carolina](https://zh.wikipedia.org/wiki/Breathe_Carolina "wikilink")、[I
-See
+Carolina](../Page/Breathe_Carolina.md "wikilink")、[I See
 Stars](../Page/I_See_Stars.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[金屬核樂團](https://zh.wikipedia.org/wiki/金屬核 "wikilink")[Bury
 Tomorrow展開巡迴](https://zh.wikipedia.org/wiki/Bury_Tomorrow "wikilink")。又首次登上歐洲與[Dance
 Gavin
 Dance](https://zh.wikipedia.org/wiki/Dance_Gavin_Dance "wikilink")、[In
-Fear and Faith同台演出](../Page/In_Fear_and_Faith.md "wikilink")。
+Fear and
+Faith同台演出](https://zh.wikipedia.org/wiki/In_Fear_and_Faith "wikilink")。
 
 終於他們宣布了首個主場巡迴，得到[We Came as
-Romans](../Page/We_Came_as_Romans.md "wikilink")、[From First to
+Romans](https://zh.wikipedia.org/wiki/We_Came_as_Romans "wikilink")、[From
+First to
 Last](https://zh.wikipedia.org/wiki/From_First_to_Last "wikilink")、[Our
 Last Night與](https://zh.wikipedia.org/wiki/Our_Last_Night "wikilink")[A
 Bullet for Pretty

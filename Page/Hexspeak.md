@@ -27,7 +27,7 @@ zh-tw:測試參數;}-使用。
 <!-- end list -->
 
   - 0x8BADF00D（“ate bad
-    food”）为[iOS应用程序崩溃报告中的](../Page/iOS.md "wikilink")标识符，一般在程序运行、终止与响应时停滞太久时出现。\[2\]
+    food”）为[iOS应用程序崩溃报告中的](https://zh.wikipedia.org/wiki/iOS "wikilink")标识符，一般在程序运行、终止与响应时停滞太久时出现。\[2\]
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ zh-tw:測試參數;}-使用。
 <!-- end list -->
 
   - 0xDEADFA11（“dead
-    fall”）为[iOS应用程序崩溃报告中的](../Page/iOS.md "wikilink")“强制终止应用程序”的标识符。\[12\]
+    fall”）为[iOS应用程序崩溃报告中的](https://zh.wikipedia.org/wiki/iOS "wikilink")“强制终止应用程序”的标识符。\[12\]
 
 <!-- end list -->
 

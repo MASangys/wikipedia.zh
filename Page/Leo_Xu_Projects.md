@@ -36,7 +36,7 @@ Lester举办了一场名为](https://zh.wikipedia.org/wiki/Gabriel_Lester "wikil
 
 ## 艺术家
 
-aaajiao/[徐文恺](https://zh.wikipedia.org/wiki/徐文恺 "wikilink")
+aaajiao/[徐文恺](../Page/徐文恺.md "wikilink")
 [陈维](../Page/陈维.md "wikilink")
 [程然](../Page/程然.md "wikilink")
 [崔洁](../Page/崔洁.md "wikilink")

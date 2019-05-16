@@ -337,7 +337,7 @@ BGM選擇CUSTOM，而能夠選擇主機內的音樂作為BGM。
 2.  遊戲發表的當初並未公佈，直到第二部PV時才登場。因為第1作《[異世紀機器人大戰](../Page/異世紀機器人大戰.md "wikilink")》中有出現[量產型亡靈Mk-II](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#亡靈系列 "wikilink")，因此嚴格來說並非是首次登場。但《A.C.E.》中，沒有《OG系列》的人物、故事出現，只有機體登場。
 3.  《OG系列》，在本作則是首次以《超級機器人大戰OG》名義參加，本作的操控機則只有一台[ART-1](https://zh.wikipedia.org/wiki/超級機器人大戰OG機動兵器列表 "wikilink")，不過嚴格來講並非來自GBA版《[超級機器人大戰OG](https://zh.wikipedia.org/wiki/超級機器人大戰OG "wikilink")》，而是從同作的重製版《[超級機器人大戰OG
     ORIGINAL
-    GENERATIONS](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")》的「OG2.5」劇本登場。
+    GENERATIONS](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")》的「OG2.5」劇本登場。
 4.  發售前的情報並沒有公開有《機戰傭兵》登場的情報、遊戲中則是有《[機戰傭兵
     競技場之王](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》、《[機戰傭兵2
     AA](https://zh.wikipedia.org/wiki/機戰傭兵 "wikilink")》中出現的[九號球](https://zh.wikipedia.org/wiki/九號球 "wikilink")。

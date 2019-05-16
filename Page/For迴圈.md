@@ -2,7 +2,7 @@
 
 **for迴圈**（）在計算機科學是一種[程式語言的](https://zh.wikipedia.org/wiki/程式語言 "wikilink")[迭代](../Page/迭代.md "wikilink")[陳述](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，能夠讓程式碼反覆的執行。
 
-它跟其他的[迴圈](../Page/迴圈.md "wikilink")，如[while迴圈](../Page/while迴圈.md "wikilink")，最大的不同，是它擁有一個[迴圈計數器](https://zh.wikipedia.org/wiki/迴圈計數器 "wikilink")，或是迴圈變數。這使得for迴圈能夠知道在迭代過程中的執行順序。
+它跟其他的[迴圈](../Page/迴圈.md "wikilink")，如[while迴圈](https://zh.wikipedia.org/wiki/while迴圈 "wikilink")，最大的不同，是它擁有一個[迴圈計數器](https://zh.wikipedia.org/wiki/迴圈計數器 "wikilink")，或是迴圈變數。這使得for迴圈能夠知道在迭代過程中的執行順序。
 
 ## for 迴圈的種類
 
@@ -66,7 +66,7 @@ parallel](https://zh.wikipedia.org/wiki/Automatic_vectorization "wikilink")，�
 
 以c語言為例：
 
-### 作為[無窮迴圈](https://zh.wikipedia.org/wiki/無窮迴圈 "wikilink")
+### 作為[無窮迴圈](../Page/無窮迴圈.md "wikilink")
 
 ``` C
 for (;;)

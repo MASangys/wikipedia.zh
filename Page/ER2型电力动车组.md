@@ -1,10 +1,10 @@
-**ER2型电力动车组**（）是[苏联铁路的](../Page/苏联.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，也是苏联最著名、产量最大的动车组车型，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[拉脱维亚的](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")[里加车辆制造厂设计制造](https://zh.wikipedia.org/wiki/里加车辆制造厂 "wikilink")，累计产量超过900组，被广泛运用于苏联各地的直流[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，以及[苏联解体以后的众多](../Page/苏联解体.md "wikilink")[独联体国家](https://zh.wikipedia.org/wiki/独联体 "wikilink")。
+**ER2型电力动车组**（）是[苏联铁路的](../Page/苏联.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，也是苏联最著名、产量最大的动车组车型，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[拉脱维亚的](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")[里加车辆制造厂设计制造](../Page/里加车辆制造厂.md "wikilink")，累计产量超过900组，被广泛运用于苏联各地的直流[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，以及[苏联解体以后的众多](../Page/苏联解体.md "wikilink")[独联体国家](https://zh.wikipedia.org/wiki/独联体 "wikilink")。
 
 ## 发展历史
 
 ### 背景
 
-苏联在1920年代末开始发展[电气化](../Page/電氣化鐵路.md "wikilink")[通勤列车](https://zh.wikipedia.org/wiki/通勤列车 "wikilink")，第一代的[S型电力动车组系列从](https://zh.wikipedia.org/wiki/S型电力动车组 "wikilink")1929年开始生产，但由于其构造速度（85公里/小时）和[起动加速度](../Page/加速度.md "wikilink")（0.45米/平方秒）相对较低，到了1950年代初这种列车已经不能满足日益增长的通勤客运需要。1954年，[里加车辆制造厂](https://zh.wikipedia.org/wiki/里加车辆制造厂 "wikilink")、迪纳摩电气工厂和里加电机制造厂研制了[SN型电力动车组](https://zh.wikipedia.org/wiki/SN型电力动车组 "wikilink")，列车采用新型[牵引电动机及架悬式](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，最高运行速度提高到130公里/小时\[1\]。1957年，里加车辆制造厂研制了新一代的[ER1型电力动车组](../Page/ER1型电力动车组.md "wikilink")，采用“五动五拖”的10辆编组，以“一动一拖”为基本动力单元，使列车加速性能得到明显的提高。然而，由于ER1型电力动车组的车门只能适应高站台的车站，使其使用范围受到很大限制。因此，里加车辆制造厂在ER1型电力动车组的基础上，于1960年代初研制了ER2型电力动车组。ER2型电力动车组改变了车体结构，使车门能适应各种高度的站台，而各种电气设备和机械装置亦根据ER1型电力动车组的使用经验作出了改进。
+苏联在1920年代末开始发展[电气化](../Page/電氣化鐵路.md "wikilink")[通勤列车](https://zh.wikipedia.org/wiki/通勤列车 "wikilink")，第一代的[S型电力动车组系列从](../Page/S型电力动车组.md "wikilink")1929年开始生产，但由于其构造速度（85公里/小时）和[起动加速度](../Page/加速度.md "wikilink")（0.45米/平方秒）相对较低，到了1950年代初这种列车已经不能满足日益增长的通勤客运需要。1954年，[里加车辆制造厂](../Page/里加车辆制造厂.md "wikilink")、迪纳摩电气工厂和里加电机制造厂研制了[SN型电力动车组](../Page/SN型电力动车组.md "wikilink")，列车采用新型[牵引电动机及架悬式](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，最高运行速度提高到130公里/小时\[1\]。1957年，里加车辆制造厂研制了新一代的[ER1型电力动车组](../Page/ER1型电力动车组.md "wikilink")，采用“五动五拖”的10辆编组，以“一动一拖”为基本动力单元，使列车加速性能得到明显的提高。然而，由于ER1型电力动车组的车门只能适应高站台的车站，使其使用范围受到很大限制。因此，里加车辆制造厂在ER1型电力动车组的基础上，于1960年代初研制了ER2型电力动车组。ER2型电力动车组改变了车体结构，使车门能适应各种高度的站台，而各种电气设备和机械装置亦根据ER1型电力动车组的使用经验作出了改进。
 
 ### 生产
 
@@ -69,20 +69,20 @@ ER2型电力动车组的标准编组为“五动五拖”的10辆编组，由五
 和ER1型电力动车组一样，ER2型电力动车组首先在[莫斯科和](../Page/莫斯科.md "wikilink")[列宁格勒两大通勤运输最繁忙的铁路枢纽投入服务](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")，早期主要配属于[莫斯科铁路局及十月铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")。而由于ER2型电力动车组既能停靠高站台也能停靠地站台，使市郊通勤列车的服务范围不再局限于主要车站，而得以进一步扩展到次要车站和其他地区，并开始逐步取代日渐老旧的S型电力动车组。至1960年代中期，ER2型电力动车组的踪影已经遍及苏联国内众多拥有直流电气化铁路的地区，包括[伊尔库茨克州](../Page/伊尔库茨克州.md "wikilink")、[古比雪夫州](https://zh.wikipedia.org/wiki/古比雪夫州 "wikilink")、[库尔干州](../Page/库尔干州.md "wikilink")、[鄂木斯克州](../Page/鄂木斯克州.md "wikilink")、[新西伯利亚州](../Page/新西伯利亚州.md "wikilink")、[图拉州](../Page/图拉州.md "wikilink")、[车里雅宾斯克州](../Page/车里雅宾斯克州.md "wikilink")、[克拉斯诺达尔边疆区和](../Page/克拉斯诺达尔边疆区.md "wikilink")[斯塔夫罗波尔边疆区](../Page/斯塔夫罗波尔边疆区.md "wikilink")，以及[格鲁吉亚](../Page/格鲁吉亚.md "wikilink")、[拉脱维亚](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")、[乌克兰等地区](../Page/乌克兰.md "wikilink")。截至1976年1月，当时苏联铁路共有超过280组ER2型电力动车组，换算为2929个动力单元；其中莫斯科铁路局和十月铁路局的配属数量最多，详细配属资料如下：
 
   - [阿塞拜疆的铁路局](https://zh.wikipedia.org/wiki/阿塞拜疆的铁路局 "wikilink")：12个单元（包括四个控制单元和1个中间单元）；
-  - [东西伯利亚铁路局](https://zh.wikipedia.org/wiki/东西伯利亚铁路局 "wikilink")：15个单元；
-  - [高尔基铁路局](https://zh.wikipedia.org/wiki/高尔基铁路局 "wikilink")：10个单元。
+  - [东西伯利亚铁路局](../Page/东西伯利亚铁路局.md "wikilink")：15个单元；
+  - [高尔基铁路局](../Page/高尔基铁路局.md "wikilink")：10个单元。
   - [外高加索铁路局](https://zh.wikipedia.org/wiki/外高加索铁路局 "wikilink")：144个单元（包括4个独立的控制单元）；
   - [西西伯利亚铁路局](https://zh.wikipedia.org/wiki/西西伯利亚铁路局 "wikilink")：344个单元（包括12个独立的控制单元）；
-  - [古比雪夫铁路局](https://zh.wikipedia.org/wiki/古比雪夫铁路局 "wikilink")：288个单元（包括3个独立的中间单元）；
-  - [利沃夫铁路局](https://zh.wikipedia.org/wiki/利沃夫铁路局 "wikilink")：12个单元（包括2个独立的控制单元）；
+  - [古比雪夫铁路局](../Page/古比雪夫铁路局.md "wikilink")：288个单元（包括3个独立的中间单元）；
+  - [利沃夫铁路局](../Page/利沃夫铁路局.md "wikilink")：12个单元（包括2个独立的控制单元）；
   - [莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")：803个单元（包括4辆独立的控制拖车、51个独立的中间单元和7个独立的控制单元）；
   - [十月铁路局](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")：610个单元（包括8个独立的中间单元和2个独立的控制单元）；
   - [波罗的海铁路局](https://zh.wikipedia.org/wiki/波罗的海铁路局 "wikilink")：189个单元（包括7个独立的控制单元）；
-  - [伏尔加铁路局](https://zh.wikipedia.org/wiki/伏尔加铁路局 "wikilink")：63个单元（包括4个独立的控制单元）；
-  - [北高加索铁路局](https://zh.wikipedia.org/wiki/北高加索铁路局 "wikilink")：32个单元；
+  - [伏尔加铁路局](../Page/伏尔加铁路局.md "wikilink")：63个单元（包括4个独立的控制单元）；
+  - [北高加索铁路局](../Page/北高加索铁路局.md "wikilink")：32个单元；
   - [中亚铁路局](https://zh.wikipedia.org/wiki/中亚铁路局 "wikilink")：23个单元（包括2个独立的中间单元和1个独立的控制单元）；
   - [南方铁路局](https://zh.wikipedia.org/wiki/南方铁路局 "wikilink")：257个单元；
-  - [南乌拉尔铁路局](https://zh.wikipedia.org/wiki/南乌拉尔铁路局 "wikilink")：127个单元（包括3个独立的中间单元和6个独立的控制单元）。
+  - [南乌拉尔铁路局](../Page/南乌拉尔铁路局.md "wikilink")：127个单元（包括3个独立的中间单元和6个独立的控制单元）。
 
 ## 改进型
 
@@ -105,7 +105,7 @@ ER2型电力动车组采用直流电传动，调节[起动电阻和牵引电动�
 ### ER2<sup>V</sup>
 
 [缩略图](https://zh.wikipedia.org/wiki/File:ER2v_Finban.jpg "fig:缩略图")
-1960年代，随着铁路干线运量不断增长、行车密度不断提高，苏联开始研究将直流电气化铁路的电压由3000伏提高到6000伏，以降低接触网中的电能损失，并节省改造成交流电气化铁路的巨大投资。1970年代初，苏联在[外高加索铁路的](https://zh.wikipedia.org/wiki/外高加索铁路 "wikilink")[哥里](../Page/哥里.md "wikilink")—[茨欣瓦利](../Page/茨欣瓦利.md "wikilink")[单线区段上进行首次](../Page/單線鐵路.md "wikilink")6000伏直流电气化铁路的试验，并由[第比利斯电力机车制造厂试制了一台](https://zh.wikipedia.org/wiki/第比利斯电力机车制造厂 "wikilink")[VL8<sup>V</sup>型电力机车和改造了五台](../Page/VL8型电力机车.md "wikilink")[VL22M型电力机车](https://zh.wikipedia.org/wiki/VL22型电力机车 "wikilink")，在该区段进行运行试验。1973年，莫斯科机车修理厂对一列ER2型电力动车组完成改装，成为世界上首列6000伏直流电力动车组，并改称为ER2<sup>V</sup>型电力动车组（）。ER2<sup>V</sup>型电力动车组采用了晶闸管斩波器和脉冲调压控制，动车车顶并设有风冷式变压器，而原本设于动车车顶的受电弓被转移到拖车车顶（ER2<sup>V</sup>-556号列车除外）。1973年至1975年间，莫斯科机车修理厂共改造了4列ER2<sup>V</sup>型电力动车组，其中包括4辆编组列车三列（867+55606+55608+868；881+63104+63106+882；879+63108+55304+880）、8辆编组列车一列（57801+57808+63103+57810+63102+63107+63110+57809）。
+1960年代，随着铁路干线运量不断增长、行车密度不断提高，苏联开始研究将直流电气化铁路的电压由3000伏提高到6000伏，以降低接触网中的电能损失，并节省改造成交流电气化铁路的巨大投资。1970年代初，苏联在[外高加索铁路的](https://zh.wikipedia.org/wiki/外高加索铁路 "wikilink")[哥里](../Page/哥里.md "wikilink")—[茨欣瓦利](../Page/茨欣瓦利.md "wikilink")[单线区段上进行首次](../Page/單線鐵路.md "wikilink")6000伏直流电气化铁路的试验，并由[第比利斯电力机车制造厂试制了一台](https://zh.wikipedia.org/wiki/第比利斯电力机车制造厂 "wikilink")[VL8<sup>V</sup>型电力机车和改造了五台](../Page/VL8型电力机车.md "wikilink")[VL22M型电力机车](../Page/VL22型电力机车.md "wikilink")，在该区段进行运行试验。1973年，莫斯科机车修理厂对一列ER2型电力动车组完成改装，成为世界上首列6000伏直流电力动车组，并改称为ER2<sup>V</sup>型电力动车组（）。ER2<sup>V</sup>型电力动车组采用了晶闸管斩波器和脉冲调压控制，动车车顶并设有风冷式变压器，而原本设于动车车顶的受电弓被转移到拖车车顶（ER2<sup>V</sup>-556号列车除外）。1973年至1975年间，莫斯科机车修理厂共改造了4列ER2<sup>V</sup>型电力动车组，其中包括4辆编组列车三列（867+55606+55608+868；881+63104+63106+882；879+63108+55304+880）、8辆编组列车一列（57801+57808+63103+57810+63102+63107+63110+57809）。
 
 1974年6月，ER2<sup>V</sup>-556号列车在全苏铁道运输科学研究院的环形铁道进行试验。1977年至1978年间，四组列车在外高加索铁路投入试验。但由于面对不同的技术困难，苏联最终放弃采用6000伏高压直流电气化铁路的计划，除ER2<sup>V</sup>-556号列车外其他三列ER2<sup>V</sup>型电力动车组均在1980年报废。而ER2<sup>V</sup>-556号列车其后改配属十月铁路局的列宁格勒-芬兰动车段，并重新改装为适合3000伏直流电的斩波器脉冲调压系统，列车编号恢复为ER2-867/868。这组列车除了日常的服务外，亦被[列宁格勒铁道运输工程学院用于进行各类型的试验](https://zh.wikipedia.org/wiki/彼得堡国立交通大学 "wikilink")，至2008年正式报废。
 
@@ -186,16 +186,16 @@ ER2型电力动车组的牵引传动电路与后期的ER1型电力动车组基�
 
 ## 参看
 
-  - [SN型电力动车组](https://zh.wikipedia.org/wiki/SN型电力动车组 "wikilink")
+  - [SN型电力动车组](../Page/SN型电力动车组.md "wikilink")
   - [ER1型电力动车组](../Page/ER1型电力动车组.md "wikilink")
-  - [ER6型电力动车组](https://zh.wikipedia.org/wiki/ER6型电力动车组 "wikilink")
-  - [ER7型电力动车组](https://zh.wikipedia.org/wiki/ER7型电力动车组 "wikilink")
+  - [ER6型电力动车组](../Page/ER6型电力动车组.md "wikilink")
+  - [ER7型电力动车组](../Page/ER7型电力动车组.md "wikilink")
   - [ER9型电力动车组](../Page/ER9型电力动车组.md "wikilink")
-  - [ER10型电力动车组](https://zh.wikipedia.org/wiki/ER10型电力动车组 "wikilink")
-  - [ER11型电力动车组](https://zh.wikipedia.org/wiki/ER11型电力动车组 "wikilink")
-  - [ER12型电力动车组](https://zh.wikipedia.org/wiki/ER12型电力动车组 "wikilink")
-  - [ER22型电力动车组](https://zh.wikipedia.org/wiki/ER22型电力动车组 "wikilink")
-  - [ER29型电力动车组](https://zh.wikipedia.org/wiki/ER29型电力动车组 "wikilink")
+  - [ER10型电力动车组](../Page/ER10型电力动车组.md "wikilink")
+  - [ER11型电力动车组](../Page/ER11型电力动车组.md "wikilink")
+  - [ER12型电力动车组](../Page/ER12型电力动车组.md "wikilink")
+  - [ER22型电力动车组](../Page/ER22型电力动车组.md "wikilink")
+  - [ER29型电力动车组](../Page/ER29型电力动车组.md "wikilink")
 
 ## 参考文献
 

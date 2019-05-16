@@ -5,7 +5,7 @@ U](https://zh.wikipedia.org/wiki/MIND_U "wikilink")、[DUETTO以及獨唱歌手]
 ## 歷史
 
 STARSHIP娛樂成立於2008年1月28日。公司創辦人金時代曾成為1994年出道的組合的經理人，並在2005年至2007年間於[Big
-Hit娛樂工作](https://zh.wikipedia.org/wiki/Big_Hit娛樂 "wikilink")。公司首名藝人為[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")，其後出道的分別是[SISTAR](../Page/SISTAR.md "wikilink")、[BOYFRIEND](../Page/Boyfriend_\(男子团体\).md "wikilink")\[1\]、[MONSTA
+Hit娛樂工作](../Page/Big_Hit娛樂.md "wikilink")。公司首名藝人為[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")，其後出道的分別是[SISTAR](../Page/SISTAR.md "wikilink")、[BOYFRIEND](../Page/Boyfriend_\(男子团体\).md "wikilink")\[1\]、[MONSTA
 X以及](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")。
 
 2010年6月3日，STARSHIP娱乐推出第一组女子团体[SISTAR](../Page/SISTAR.md "wikilink")。
@@ -20,9 +20,9 @@ X組合成員出道](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")。
 2015年5月20日，STARSHIP娛樂宣布收購[King
 Kong娛樂](https://zh.wikipedia.org/wiki/King_Kong娛樂 "wikilink")100％股份\[4\]\[5\]。
 
-2015年12月4日，STARSHIP娛樂與中國[樂華娛樂共同宣布](https://zh.wikipedia.org/wiki/乐华娱乐 "wikilink")，雙方簽訂合作協定\[6\]。
+2015年12月4日，STARSHIP娛樂與中國[樂華娛樂共同宣布](../Page/乐华娱乐.md "wikilink")，雙方簽訂合作協定\[6\]。
 
-2016年2月25日，STARSHIP娱乐与[乐华娱乐共同推出女子音乐组合](https://zh.wikipedia.org/wiki/乐华娱乐 "wikilink")[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")。
+2016年2月25日，STARSHIP娱乐与[乐华娱乐共同推出女子音乐组合](../Page/乐华娱乐.md "wikilink")[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")。
 
 2017年1月2日，STARSHIP娛樂宣布與[King
 Kong娛樂正式合併](https://zh.wikipedia.org/wiki/King_Kong娛樂 "wikilink")，合併後的公司以STARSHIP娛樂作為公司名稱，演員經紀隸屬King
@@ -42,7 +42,7 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
 
   - Brother Su
   - \#GUN
-  - [周永](https://zh.wikipedia.org/wiki/周永_\(歌手\) "wikilink")
+  - [周永](../Page/周永_\(歌手\).md "wikilink")
 
 #### King Kong娛樂
 
@@ -81,7 +81,7 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
 </tr>
 <tr class="even">
 <td><p>2010年12月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/周永_(歌手)" title="wikilink">周永</a></p></td>
+<td><p><a href="../Page/周永_(歌手).md" title="wikilink">周永</a></p></td>
 <td><p>子公司<a href="https://zh.wikipedia.org/wiki/STARSHIP_X" title="wikilink">STARSHIP X娱乐歌手</a></p></td>
 <td></td>
 </tr>
@@ -135,7 +135,7 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
 | 2016年8月6日  | Y TEEN                                                                                     | 混合 | [SHOWNU](../Page/孫賢祐.md "wikilink")、[元虎](https://zh.wikipedia.org/wiki/李虎錫 "wikilink")、[民赫](https://zh.wikipedia.org/wiki/民赫 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/劉基賢 "wikilink")、[亨元](https://zh.wikipedia.org/wiki/亨元 "wikilink")、[周憲](https://zh.wikipedia.org/wiki/李周憲 "wikilink")、[I.M](https://zh.wikipedia.org/wiki/任創均 "wikilink")、[雪娥](https://zh.wikipedia.org/wiki/雪娥 "wikilink") 、[EXY](https://zh.wikipedia.org/wiki/EXY "wikilink") 、[秀斌](../Page/秀斌.md "wikilink")、[恩熙](https://zh.wikipedia.org/wiki/恩熙_\(歌手\) "wikilink") 、[程潇](https://zh.wikipedia.org/wiki/程潇 "wikilink")、[夏天](https://zh.wikipedia.org/wiki/夏天_\(歌手\) "wikilink")、[多荣](https://zh.wikipedia.org/wiki/多荣 "wikilink") |                                                                                                                                                                                               |
 | 2018年1月5日  | OG School Project                                                                          | 男  | [趙旴燦](https://zh.wikipedia.org/wiki/趙旴燦 "wikilink")、[朴賢鎮](https://zh.wikipedia.org/wiki/朴賢鎮 "wikilink")、[Achillo](https://zh.wikipedia.org/wiki/Achillo "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 與[Cube娱乐合作](../Page/Cube娛樂.md "wikilink")                                                                                                                                                     |
 | 2018年4月5日  | [YDPP](https://zh.wikipedia.org/wiki/YDPP "wikilink")                                      | 男  | [林煐岷](https://zh.wikipedia.org/wiki/林煐岷 "wikilink")、[郑世云](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[李光贤](https://zh.wikipedia.org/wiki/李光賢 "wikilink")、[金东贤](https://zh.wikipedia.org/wiki/金東賢 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 與[Brand New Music合作](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")                                                                                                                |
-| 2018年6月1日  | [宇宙Meki](https://zh.wikipedia.org/wiki/宇宙Meki "wikilink")                                  | 女  | [雪娥](https://zh.wikipedia.org/wiki/雪娥 "wikilink")、[Luda](https://zh.wikipedia.org/wiki/Luda "wikilink")、[有情](../Page/磪有情.md "wikilink")、[度延](../Page/金度延.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 與[Fantagio合作](https://zh.wikipedia.org/wiki/Fantagio "wikilink")                                                                                                                              |
+| 2018年6月1日  | [宇宙Meki](https://zh.wikipedia.org/wiki/宇宙Meki "wikilink")                                  | 女  | [雪娥](https://zh.wikipedia.org/wiki/雪娥 "wikilink")、[Luda](https://zh.wikipedia.org/wiki/Luda "wikilink")、[有情](../Page/磪有情.md "wikilink")、[度延](../Page/金度延.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 與[Fantagio合作](../Page/Fantagio.md "wikilink")                                                                                                                                                 |
 | 2019年4月11日 | [Eunha](../Page/Eunha.md "wikilink") x[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink") | 混合 | [RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")、[Eunha](../Page/Eunha.md "wikilink")、[GroovyRoom](https://zh.wikipedia.org/wiki/GroovyRoom "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 與[Jellyfish娱乐](../Page/Jellyfish娛樂.md "wikilink")、[Source Music](https://zh.wikipedia.org/wiki/Source_Music "wikilink")、[H1ghr Music合作](https://zh.wikipedia.org/wiki/H1ghr_music "wikilink") |
 
 ## 過去旗下藝人
@@ -156,14 +156,14 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
 
 **个人**
 
-|                                                                 |    |            |                                                                                                                 |
-| --------------------------------------------------------------- | -- | ---------- | --------------------------------------------------------------------------------------------------------------- |
-| 名称                                                              | 性別 | 解约日期       | 备注                                                                                                              |
-| [李贤智](https://zh.wikipedia.org/wiki/李賢智 "wikilink")             | 女  |            |                                                                                                                 |
-| [寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")               | 女  | 2017年6月3日  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年6月13日改投[Hook娱乐](https://zh.wikipedia.org/wiki/Hook娱乐 "wikilink") |
-| [孝琳](../Page/孝琳.md "wikilink")                                  | 女  | 2017年6月3日  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年9月9日正式宣佈不續約                                                      |
-| [鄭基高](../Page/鄭基高.md "wikilink")                                | 男  | 2018年5月19日 | 子公司STARSHIP X娱乐歌手                                                                                               |
-| [Mad Clown](https://zh.wikipedia.org/wiki/Mad_Clown "wikilink") | 男  | 2018年9月29日 | 子公司STARSHIP X娱乐歌手                                                                                               |
+|                                                   |    |            |                                                                                                                 |
+| ------------------------------------------------- | -- | ---------- | --------------------------------------------------------------------------------------------------------------- |
+| 名称                                                | 性別 | 解约日期       | 备注                                                                                                              |
+| [李贤智](../Page/李賢智.md "wikilink")                  | 女  |            |                                                                                                                 |
+| [寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink") | 女  | 2017年6月3日  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年6月13日改投[Hook娱乐](https://zh.wikipedia.org/wiki/Hook娱乐 "wikilink") |
+| [孝琳](../Page/孝琳.md "wikilink")                    | 女  | 2017年6月3日  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年9月9日正式宣佈不續約                                                      |
+| [鄭基高](../Page/鄭基高.md "wikilink")                  | 男  | 2018年5月19日 | 子公司STARSHIP X娱乐歌手                                                                                               |
+| [Mad Clown](../Page/Mad_Clown.md "wikilink")      | 男  | 2018年9月29日 | 子公司STARSHIP X娱乐歌手                                                                                               |
 
 ## 練習生
 
@@ -206,7 +206,7 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
   - [Ten](https://zh.wikipedia.org/wiki/Ten_\(歌手\) "wikilink")（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，现为[NCT成员](../Page/NCT.md "wikilink")）
   - 崔連壽（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，前[AlphaBAT成員](https://zh.wikipedia.org/wiki/AlphaBAT "wikilink")）
   - 金秀燁（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，前[AlphaBAT成員](https://zh.wikipedia.org/wiki/AlphaBAT "wikilink")）
-  - 鄭永勳（[HALO](https://zh.wikipedia.org/wiki/HALO_\(韓國組合\) "wikilink")）
+  - 鄭永勳（[HALO](../Page/HALO_\(韓國組合\).md "wikilink")）
   - 朴珉均（[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")）
   - 盧允浩（[VAV](https://zh.wikipedia.org/wiki/VAV "wikilink")）
 
@@ -287,7 +287,7 @@ Starship Planet的計劃於2011年開始，每年的冬季會推出一首歌曲�
 <ul>
 <li>發行日期：2014年12月3日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>參與藝人：<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a>、<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>、<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="https://zh.wikipedia.org/wiki/Mad_Clown" title="wikilink">Mad Clown</a>、<a href="../Page/鄭基高.md" title="wikilink">鄭基高和</a><a href="https://zh.wikipedia.org/wiki/周永_(歌手)" title="wikilink">周永</a></li>
+<li>參與藝人：<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a>、<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>、<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>、<a href="../Page/鄭基高.md" title="wikilink">鄭基高和</a><a href="../Page/周永_(歌手).md" title="wikilink">周永</a></li>
 </ul></td>
 <td><ol>
 <li><strong>Love Is You</strong></li>
@@ -299,7 +299,7 @@ Starship Planet的計劃於2011年開始，每年的冬季會推出一首歌曲�
 <ul>
 <li>發行日期：2015年12月1日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>參與藝人：<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a>、<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>、<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="https://zh.wikipedia.org/wiki/Mad_Clown" title="wikilink">Mad Clown</a>、<a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>、<a href="https://zh.wikipedia.org/wiki/周永_(歌手)" title="wikilink">周永</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、、<a href="https://zh.wikipedia.org/wiki/EXY" title="wikilink">EXY和</a><a href="https://zh.wikipedia.org/wiki/柳昇佑" title="wikilink">柳昇佑</a></li>
+<li>參與藝人：<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a>、<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>、<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>、<a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>、<a href="../Page/周永_(歌手).md" title="wikilink">周永</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、、<a href="https://zh.wikipedia.org/wiki/EXY" title="wikilink">EXY和</a><a href="https://zh.wikipedia.org/wiki/柳昇佑" title="wikilink">柳昇佑</a></li>
 </ul></td>
 <td><ol>
 <li><strong>사르르</strong>（Softly）</li>
@@ -311,7 +311,7 @@ Starship Planet的計劃於2011年開始，每年的冬季會推出一首歌曲�
 <ul>
 <li>發行日期：2016年12月1日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>參與藝人：<a href="https://zh.wikipedia.org/wiki/Mad_Clown" title="wikilink">Mad Clown</a>、<a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>、、<a href="https://zh.wikipedia.org/wiki/柳昇佑" title="wikilink">柳昇佑</a>、<a href="https://zh.wikipedia.org/wiki/賢星" title="wikilink">賢星</a> (<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>)、<a href="https://zh.wikipedia.org/wiki/基賢" title="wikilink">基賢</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</li>
+<li>參與藝人：<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>、<a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>、、<a href="https://zh.wikipedia.org/wiki/柳昇佑" title="wikilink">柳昇佑</a>、<a href="https://zh.wikipedia.org/wiki/賢星" title="wikilink">賢星</a> (<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>)、<a href="https://zh.wikipedia.org/wiki/基賢" title="wikilink">基賢</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</li>
 </ul></td>
 <td><ol>
 <li><strong>누가 그래</strong>（Love wishes）</li>
@@ -323,7 +323,7 @@ Starship Planet的計劃於2011年開始，每年的冬季會推出一首歌曲�
 <ul>
 <li>發行日期：2017年12月8日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>參與藝人：<a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>、<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a>、<a href="https://zh.wikipedia.org/wiki/昭宥" title="wikilink">昭宥</a>、<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>、<a href="https://zh.wikipedia.org/wiki/Mad_Clown" title="wikilink">Mad Clown</a>、<a href="https://zh.wikipedia.org/wiki/Mind_U" title="wikilink">Mind U</a>、<a href="https://zh.wikipedia.org/wiki/柳昇佑" title="wikilink">柳昇佑</a>、<a href="https://zh.wikipedia.org/wiki/#GUN" title="wikilink">#GUN</a>、<a href="https://zh.wikipedia.org/wiki/Brother_Su" title="wikilink">Brother Su</a>、<a href="https://zh.wikipedia.org/wiki/Duetto" title="wikilink">Duetto</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>、<a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世雲</a>、<a href="https://zh.wikipedia.org/wiki/李光賢" title="wikilink">李光賢</a></li>
+<li>參與藝人：<a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>、<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a>、<a href="https://zh.wikipedia.org/wiki/昭宥" title="wikilink">昭宥</a>、<a href="../Page/Boyfriend_(男子团体).md" title="wikilink">BOYFRIEND</a>、<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>、<a href="https://zh.wikipedia.org/wiki/Mind_U" title="wikilink">Mind U</a>、<a href="https://zh.wikipedia.org/wiki/柳昇佑" title="wikilink">柳昇佑</a>、<a href="https://zh.wikipedia.org/wiki/#GUN" title="wikilink">#GUN</a>、<a href="https://zh.wikipedia.org/wiki/Brother_Su" title="wikilink">Brother Su</a>、<a href="https://zh.wikipedia.org/wiki/Duetto" title="wikilink">Duetto</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>、<a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世雲</a>、<a href="https://zh.wikipedia.org/wiki/李光賢" title="wikilink">李光賢</a></li>
 </ul></td>
 <td><ol>
 <li><strong>크리스마스 데이</strong> (Christmas Day)</li>
@@ -334,21 +334,21 @@ Starship Planet的計劃於2011年開始，每年的冬季會推出一首歌曲�
 
 ### VINTAGE BOX
 
-| Vol | **发布日期**    | 歌曲名称                       | **演唱者**                                                                                                                   | 备注                                                         |
-| --- | ----------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 1   | 2016年9月23日  | What's So Great About that | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[Mad Clown](https://zh.wikipedia.org/wiki/Mad_Clown "wikilink") |                                                            |
-| 2   | 2016年11月11日 | 我会在你身边                     | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")、[俞璉靜](../Page/璉靜.md "wikilink")                                       | 翻唱，原唱[咖啡少年](https://zh.wikipedia.org/wiki/咖啡少年 "wikilink") |
-| 3   | 2016年12月16日 | Days of Disturbance        | [鄭基高](../Page/鄭基高.md "wikilink")、[Giriboy](https://zh.wikipedia.org/wiki/Giriboy "wikilink")                              |                                                            |
-| 4   | 2017年1月17日  | You & I                    | [多顺](../Page/多順.md "wikilink")、40                                                                                         |                                                            |
+| Vol | **发布日期**    | 歌曲名称                       | **演唱者**                                                                                                | 备注                                                         |
+| --- | ----------- | -------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| 1   | 2016年9月23日  | What's So Great About that | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[Mad Clown](../Page/Mad_Clown.md "wikilink") |                                                            |
+| 2   | 2016年11月11日 | 我会在你身边                     | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")、[俞璉靜](../Page/璉靜.md "wikilink")                    | 翻唱，原唱[咖啡少年](https://zh.wikipedia.org/wiki/咖啡少年 "wikilink") |
+| 3   | 2016年12月16日 | Days of Disturbance        | [鄭基高](../Page/鄭基高.md "wikilink")、[Giriboy](https://zh.wikipedia.org/wiki/Giriboy "wikilink")           |                                                            |
+| 4   | 2017年1月17日  | You & I                    | [多顺](../Page/多順.md "wikilink")、40                                                                      |                                                            |
 
 ### 特别企划
 
-| **发布日期**    | 歌曲名称            | **演唱者**                                                                                                                                                                                                               | 备注  |
-| ----------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 2016年2月14日  | Cook for Love   | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[鄭基高](../Page/鄭基高.md "wikilink")、[周永](https://zh.wikipedia.org/wiki/周永_\(歌手\) "wikilink")、[Brother Su](https://zh.wikipedia.org/wiki/Brother_Su "wikilink") | 情人节 |
-| 2017年2月14日  | 下雨了             | [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[伯贤](https://zh.wikipedia.org/wiki/伯賢 "wikilink")                                                                                                                   |     |
-| 2017年2月23日  | Let Me Love You | [灿烈](../Page/Chanyeol.md "wikilink")、[鄭基高](../Page/鄭基高.md "wikilink")                                                                                                                                                 |     |
-| 2017年11月25日 | butterfly       | STARSHIP ARTISTS                                                                                                                                                                                                      | 翻唱  |
+| **发布日期**    | 歌曲名称            | **演唱者**                                                                                                                                                                                            | 备注  |
+| ----------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2016年2月14日  | Cook for Love   | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[鄭基高](../Page/鄭基高.md "wikilink")、[周永](../Page/周永_\(歌手\).md "wikilink")、[Brother Su](https://zh.wikipedia.org/wiki/Brother_Su "wikilink") | 情人节 |
+| 2017年2月14日  | 下雨了             | [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[伯贤](https://zh.wikipedia.org/wiki/伯賢 "wikilink")                                                                                                |     |
+| 2017年2月23日  | Let Me Love You | [灿烈](../Page/Chanyeol.md "wikilink")、[鄭基高](../Page/鄭基高.md "wikilink")                                                                                                                              |     |
+| 2017年11月25日 | butterfly       | STARSHIP ARTISTS                                                                                                                                                                                   | 翻唱  |
 
 ## 參考資料
 

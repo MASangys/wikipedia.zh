@@ -20,7 +20,7 @@ website = [lesscss.org](http://lesscss.org/) | file_ext = .less }}
 **Less**（或寫作**LESS**）是一种由Alexis
 Sellier设计的动态[层叠样式表语言](../Page/层叠样式表.md "wikilink")，受[Sass所影响](../Page/Sass.md "wikilink")，同时也影响了Sass的新语法：SCSS。\[1\]
 
-LESS是开源的，其第一个版本由[Ruby写成](../Page/Ruby.md "wikilink")，但在后续的版本当中，Ruby逐渐被替换为[JavaScript](../Page/JavaScript.md "wikilink")。受益于JavaScript，LESS可以在客户端上运行（IE6+、[Webkit](../Page/Webkit.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")），也可以在服务端运行（[Node.js](../Page/Node.js.md "wikilink")、[Rhino](https://zh.wikipedia.org/wiki/Rhino "wikilink")）。\[2\]
+LESS是开源的，其第一个版本由[Ruby写成](../Page/Ruby.md "wikilink")，但在后续的版本当中，Ruby逐渐被替换为[JavaScript](../Page/JavaScript.md "wikilink")。受益于JavaScript，LESS可以在客户端上运行（IE6+、[Webkit](https://zh.wikipedia.org/wiki/Webkit "wikilink")、[Firefox](../Page/Firefox.md "wikilink")），也可以在服务端运行（[Node.js](../Page/Node.js.md "wikilink")、[Rhino](https://zh.wikipedia.org/wiki/Rhino "wikilink")）。\[2\]
 
 在语法方面，LESS与CSS较为接近，一个合法的CSS代码段本身也是一段合法的LESS代码段。LESS提供[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、嵌套、混合、[操作符](https://zh.wikipedia.org/wiki/操作符 "wikilink")、[函数等一般编程所需的抽象机制](../Page/函数.md "wikilink")。\[3\]
 

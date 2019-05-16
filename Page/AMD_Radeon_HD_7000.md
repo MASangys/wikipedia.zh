@@ -139,7 +139,7 @@ HD 7900系列的雙精度浮點運算的速率大約為單精度浮點運算的�
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Radeon_7970.jpg "fig:缩略图")後的Radeon
 HD
-7970[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，由[Sapphire製造](https://zh.wikipedia.org/wiki/藍寶科技 "wikilink")\]\]
+7970[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，由[Sapphire製造](../Page/藍寶科技.md "wikilink")\]\]
 首款使用GCN核心，開發代號為「Tahiti」的Radeon HD 7900系列，於2011年12月22日發布。產品系列包括：Radeon HD
 7970 GHz Edition、Radeon HD 7970以及Radeon HD 7950。首發顯示卡Radeon HD
 7970（核心代號「Tahiti XT」）擁有32組CU共2048個流處理器，核心時脈925MHz；接著的Radeon
@@ -699,7 +699,7 @@ Boost: 925</p></td>
     <sup>3</sup>
     熱設計功耗（TDP）是超微官方數據，實際由於不同廠商有不同的顯卡線路板設計以及不同的核心時脈參數設定，會影響實際的TDP數值
     <sup>4</sup> Radeon HD
-    7990的資料是基於超微官方於2013年4月發布時的正式資料，而非此前[PowerColor](https://zh.wikipedia.org/wiki/PowerColor "wikilink")、[華碩以及](../Page/華碩.md "wikilink")[HIS推出的](https://zh.wikipedia.org/wiki/基恩資訊 "wikilink")「HD
+    7990的資料是基於超微官方於2013年4月發布時的正式資料，而非此前[PowerColor](../Page/PowerColor.md "wikilink")、[華碩以及](../Page/華碩.md "wikilink")[HIS推出的](../Page/基恩資訊.md "wikilink")「HD
     7990」的參數
     <sup>5</sup>
     採用Tahiti的繪圖卡都有兩個[BIOS](../Page/BIOS.md "wikilink")，第二個BIOS貯存了較高的核心頻率，稱為「BOOST」，但初版的HD7970沒有此功能

@@ -3,7 +3,7 @@
 版本則在同年11月發售。共有上下部章节：上部－[海爾森·肯威](https://zh.wikipedia.org/wiki/海爾森·E·肯威 "wikilink")；下部－[康纳（拉頓哈給頓）](https://zh.wikipedia.org/wiki/拉頓哈給頓 "wikilink")。
 
 本作獲得來自評論家作大多是正面的評論和一個巨大的商業成功，總銷量在全世界超過1200萬份。
-及後在2013年10月發佈了《[刺客教條IV：黑旗](https://zh.wikipedia.org/wiki/刺客教條IV：黑旗 "wikilink")》並延續刺客的故事，該集的主角是《刺客教條III》主角拉通哈給頓的祖父——[愛德華‧肯威](https://zh.wikipedia.org/wiki/愛德華·詹姆士·肯威 "wikilink")（Edward
+及後在2013年10月發佈了《[刺客教條IV：黑旗](../Page/刺客教條IV：黑旗.md "wikilink")》並延續刺客的故事，該集的主角是《刺客教條III》主角拉通哈給頓的祖父——[愛德華‧肯威](https://zh.wikipedia.org/wiki/愛德華·詹姆士·肯威 "wikilink")（Edward
 Kenway）他是一名在[海盜黃金時期](https://zh.wikipedia.org/wiki/:en:Golden_Age_of_Piracy "wikilink")（Golden
 Age of
 Piracy）活躍於[加勒比海地區](https://zh.wikipedia.org/wiki/加勒比海地區 "wikilink")（Caribbean）的海盜。\[1\]
@@ -59,7 +59,7 @@ Miles）已找到「第一文明」（First
 Civilization）成員[朱比特](https://zh.wikipedia.org/wiki/朱比特 "wikilink")（Jupiter）所示，位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約的中央密室](https://zh.wikipedia.org/wiki/紐約 "wikilink")。戴斯蒙利用「第一文明」古代遺物「[伊甸碎片](https://zh.wikipedia.org/wiki/伊甸 "wikilink")」（Piece
 of Eden）進入和重新啟動密室後被激發「血緣效應」（Bleeding Effect）暈倒在地，隨即被送回基因記憶追溯機器「Animus
 3.0」，進入其分別活躍於[美國革命時期兩名祖先之記憶](../Page/美國革命.md "wikilink")：英藉[聖殿騎士祖先海爾森](https://zh.wikipedia.org/wiki/聖殿騎士 "wikilink")·肯威（Haytham
-Kenway），以及擁有英國及[莫霍克人血統之刺客祖先拉頓哈給頓](https://zh.wikipedia.org/wiki/莫霍克人 "wikilink")（Ratohnhaké:ton）。
+Kenway），以及擁有英國及[莫霍克人血統之刺客祖先拉頓哈給頓](../Page/莫霍克人.md "wikilink")（Ratohnhaké:ton）。
 
 1754年，海爾森於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[皇家歌劇院刺殺了一名刺客並奪去其身上的紋章](https://zh.wikipedia.org/wiki/皇家歌劇院 "wikilink")，經聖殿騎士團研究後認為該紋章是開啟「第一文明」位於美洲某密室之鑰匙，遂派遣海爾森前往[波士頓與](https://zh.wikipedia.org/wiki/波士頓 "wikilink")[查爾斯·李](https://zh.wikipedia.org/wiki/查爾斯·李 "wikilink")（Charles
 Lee）等人共同尋找密室，過程中海爾森殺了一名奴隸販子並救出多名美洲原住民，包括一名為卡尼耶蒂依翁（Kaniehtio）的莫霍克族女性。卡尼耶蒂依翁在海爾森刺殺把她族人趕出土地的英軍領導者後把他帶至刻有與紋章上相同圖紋的洞穴（戴斯蒙眾人現今所在地），但海爾森發現紋章並非開啟密室入口的鑰匙，二人其後發生關係。海爾森回到波士頓向眾人報告後開始策劃建立美洲殖民地的聖殿騎士分部，並正式邀請查爾斯加入聖殿騎士團。
@@ -77,7 +77,7 @@ Davenport）之墓中。
 
 1783年[美國獨立戰爭結束](../Page/美國獨立戰爭.md "wikilink")，康納發現其村落所屬土地被出售作為戰爭賠償；英軍其後完全撤離美國，但康納在民眾為其國家取得獨立和自由歡呼之際看見碼頭一方有販子正在出售奴隸。
 
-現代刺客及現代聖殿騎士團事跡在後繼作品《[刺客教條IV：黑旗](https://zh.wikipedia.org/wiki/刺客教條IV：黑旗 "wikilink")》續有敍述。
+現代刺客及現代聖殿騎士團事跡在後繼作品《[刺客教條IV：黑旗](../Page/刺客教條IV：黑旗.md "wikilink")》續有敍述。
 
 ### 追加下載內容
 
@@ -100,7 +100,7 @@ Amacio）於2011年10月宣佈系列新作將於2012年12月前推出，但他�
 Guillemot）於2011年11月8日確認新的刺客教條主作會於2012年推出，但拒絕透露更多詳情\[14\]，同時指出每年推出刺客教條遊戲的目的是滿足需求並否認此舉將導致系列質素下降，而且該年度的作品將是系列一直以來的最大一作\[15\]。肓碧軟件於2012年2月正式證實《刺客教條III》存在，北美首發日期為2012年10月30日\[16\]。吉利莫特形容遊戲為刺客教條系列及互動娛樂的真正次世代作品，團隊開發了三年因此也使遊戲進步了不少\[17\]\[18\]，更指遊戲所獲投資高於系列過往任何一作\[19\]。
 
 育碧軟件內部消息被指於2012年1月透露了遊戲時代定於美國革命時期\[20\]，同年2月29日一幅未公開宣傳圖像和它即將被公開的消息被傳送至[Kotaku](../Page/Kotaku.md "wikilink")\[21\]，使外部一致認為遊戲將定於美國革命時期的北美洲或是一個寒冷下雪的時期\[22\]。育碧軟件於約莫同一時期在其官方[Facebook帳戶提及一項刺客教條重要消息即將公佈](../Page/Facebook.md "wikilink")，帳戶的封面圖片亦有雪景\[23\]，[Game
-Informer也透過其官方網頁公開新刺客主角與美國革命領袖一起的圖片](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")。\[24\]
+Informer也透過其官方網頁公開新刺客主角與美國革命領袖一起的圖片](../Page/Game_Informer.md "wikilink")。\[24\]
 
 育碧軟件於2012年11月14日表示遊戲的個人電腦版本的蠕蟲數量將比PlayStation 3及Xbox
 360版本少，以及會為遊戲所有版本發行[補丁](https://zh.wikipedia.org/wiki/補丁 "wikilink")\[25\]。11月16日，育碧軟件列出補丁的內容，針對多達一百項已確定的單人任務和線上多人模式蠕蟲，包括環境不穩定、非玩家角色技術故障、主機系統癱瘓及角色聲唇不吻合等\[26\]。
@@ -123,7 +123,7 @@ U版本分別給予83分和85分\[40\]\[41\]、個人電腦版本則分別給予
 [IGN給予遊戲](../Page/IGN.md "wikilink")8.5/10分，表示玩家無法不尊重遊戲做到的一切，沒有任何其他開放式遊戲曾給予玩家一個如此令人印象深刻的歷史背景設定，但也表示遊戲內部分元素未能合理地結合，任務中不必要的預設有時奪去了遊戲自由\[44\]；[GameSpot同樣為遊戲給予](../Page/GameSpot.md "wikilink")8.5/10分，表示遊戲賭上了其開放性、劇情和角色，以好玩和合理的方式擴充了刺客教條系列的遊玩方式，不少野心大的遊戲均未能一矢中的，但這款規模大和有豐富敍事性的續集容易令人投入時間\[45\]。
 
 [Game
-Informer給予遊戲](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")9.5/10分，表示遊戲兌現了刺客教條系列一直以來給予玩家的一切而且作出了增加，大部分玩家或將以首六個小時為遊戲的規劃和野心感到驚嘆\[46\]；[G4認為遊戲並不完美](https://zh.wikipedia.org/wiki/G4 "wikilink")，但劇情、線上多人模式以及可進行的活動非常多，其他平均只提供約10小時的遊戲應感到羞恥\[47\]；[官方Xbox雜誌給予遊戲](https://zh.wikipedia.org/wiki/官方Xbox雜誌 "wikilink")8.5/10分，表示修繕了的遊玩方式和極豐富的歷史背景令人著迷，以一系列的隱悔但真實的方式改善了刺客教條系列的慣性，遊戲對敍事的認真投入不但少見而且令人印象深刻，但批評節奏問題有可能把劇情變得單調乏味\[48\]。
+Informer給予遊戲](../Page/Game_Informer.md "wikilink")9.5/10分，表示遊戲兌現了刺客教條系列一直以來給予玩家的一切而且作出了增加，大部分玩家或將以首六個小時為遊戲的規劃和野心感到驚嘆\[46\]；[G4認為遊戲並不完美](https://zh.wikipedia.org/wiki/G4 "wikilink")，但劇情、線上多人模式以及可進行的活動非常多，其他平均只提供約10小時的遊戲應感到羞恥\[47\]；[官方Xbox雜誌給予遊戲](https://zh.wikipedia.org/wiki/官方Xbox雜誌 "wikilink")8.5/10分，表示修繕了的遊玩方式和極豐富的歷史背景令人著迷，以一系列的隱悔但真實的方式改善了刺客教條系列的慣性，遊戲對敍事的認真投入不但少見而且令人印象深刻，但批評節奏問題有可能把劇情變得單調乏味\[48\]。
 
 PC
 Gamer給予遊戲72分，表示遊戲劇情富娛樂性和海軍任務出色但任務設計失敗，達文波特家園貶低了劇情和遊戲主題，狹窄的選擇性目標懲罰了喜愛自由思考的玩家，使遊戲鼓吹背誦佈局而非創意思考\[49\]。

@@ -1,7 +1,7 @@
 **大学先修课程统计学** (**AP统计学**, **AP Stat**或**AP Stats**)
 是[美国大学理事会为高中生准备的](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[大学先修课程中的](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[统计学科目](../Page/统计学.md "wikilink")。该课程等同于大学入门[统计学](../Page/统计学.md "wikilink")，时长一学期，无需[微积分基础](https://zh.wikipedia.org/wiki/微积分 "wikilink")。本课程一般来说面向高中第三年（11年级）、第四年（12年级）学生，为他们提供选修。
 
-根据[美国大学理事会的最新补充消息](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")\[1\]，AP数学之前只有[AP微积分AB和BC两门](https://zh.wikipedia.org/wiki/AP微积分 "wikilink")，\[2\]作为对数学科目的补充，AP统计学在1996年5月第一次开考。在美国，AP统计学的选修人数大幅提升，超过了其它所有的AP科目。\[3\]
+根据[美国大学理事会的最新补充消息](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")\[1\]，AP数学之前只有[AP微积分AB和BC两门](../Page/AP微积分.md "wikilink")，\[2\]作为对数学科目的补充，AP统计学在1996年5月第一次开考。在美国，AP统计学的选修人数大幅提升，超过了其它所有的AP科目。\[3\]
 
 学生如果参加五月份为期3小时的考试并顺利通过，就可能换取大学学分，获得更高阶课程的选修机会。考试包括[选择题和](https://zh.wikipedia.org/wiki/选择题 "wikilink")[申论题两部分](https://zh.wikipedia.org/wiki/申论题 "wikilink")，时长都是90分钟。两部分在总成绩中计分比例相同。
 
@@ -27,7 +27,7 @@
 
 参考人数
 
-[大学先修课程为高中生提供大学课程的先修机会](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。1997年5月，[美国大学理事会与](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[美国教育考试服务中心一道提供了第一份AP统计学考试](../Page/美国教育考试服务中心.md "wikilink")。\[18\]本课程于1996-1997学年第一次向高中生授课。\[19\]在此之前，[大学先修课程数学科目只有](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[AP微积分AB与BC](https://zh.wikipedia.org/wiki/AP微积分 "wikilink")。没有足够数学基础的学生发现[AP微积分门槛太高](https://zh.wikipedia.org/wiki/AP微积分 "wikilink")，以至于他们在第四年无法选修数学课程。由于大学里选修[统计学的学生人数与选修](../Page/统计学.md "wikilink")[微积分的人数大致相同](https://zh.wikipedia.org/wiki/微积分 "wikilink")，[美国大学理事会决定将](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[统计学入门加入](../Page/统计学.md "wikilink")[大学先修课程计划中](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。统计学所需的数学基础大致不超过高中第二年教授的[代数课程](../Page/代数.md "wikilink")，这使得AP数学的可选范围被大大扩展。由于大学[专业越来越多地使用](https://zh.wikipedia.org/wiki/专业 "wikilink")[统计学](../Page/统计学.md "wikilink")，AP统计学因此更加注重应用。\[20\]有7,667名考生参加了第一次考试，使得AP统计学成为所有科目中首场考试人数最多的一门。\[21\]自此，参考人数到2007年激增至98,033人次，AP统计学因此成为[大学先修课程第十大科目](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。\[22\]
+[大学先修课程为高中生提供大学课程的先修机会](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。1997年5月，[美国大学理事会与](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[美国教育考试服务中心一道提供了第一份AP统计学考试](../Page/美国教育考试服务中心.md "wikilink")。\[18\]本课程于1996-1997学年第一次向高中生授课。\[19\]在此之前，[大学先修课程数学科目只有](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[AP微积分AB与BC](../Page/AP微积分.md "wikilink")。没有足够数学基础的学生发现[AP微积分门槛太高](../Page/AP微积分.md "wikilink")，以至于他们在第四年无法选修数学课程。由于大学里选修[统计学的学生人数与选修](../Page/统计学.md "wikilink")[微积分的人数大致相同](https://zh.wikipedia.org/wiki/微积分 "wikilink")，[美国大学理事会决定将](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[统计学入门加入](../Page/统计学.md "wikilink")[大学先修课程计划中](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。统计学所需的数学基础大致不超过高中第二年教授的[代数课程](../Page/代数.md "wikilink")，这使得AP数学的可选范围被大大扩展。由于大学[专业越来越多地使用](https://zh.wikipedia.org/wiki/专业 "wikilink")[统计学](../Page/统计学.md "wikilink")，AP统计学因此更加注重应用。\[20\]有7,667名考生参加了第一次考试，使得AP统计学成为所有科目中首场考试人数最多的一门。\[21\]自此，参考人数到2007年激增至98,033人次，AP统计学因此成为[大学先修课程第十大科目](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。\[22\]
 
 ## 课程
 

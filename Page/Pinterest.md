@@ -5,7 +5,7 @@ Pinterest由[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.
 Brew Labs的团队營運，創辦人為[Ben
 Silbermann](https://zh.wikipedia.org/wiki/Ben_Silbermann "wikilink")、
 Paul Sciarra 及 Evan
-Sharp。2010年正式上线。「Pinterest」是由「[Pin](https://zh.wikipedia.org/wiki/圖釘 "wikilink")」及「[interest](https://zh.wikipedia.org/wiki/興趣 "wikilink")」兩個字組成\[1\]，在[社群網站中的瀏覽量僅次於](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[Facebook](../Page/Facebook.md "wikilink")、[Youtube](../Page/Youtube.md "wikilink")、[VK以及](https://zh.wikipedia.org/wiki/VK "wikilink")[Twitter](../Page/Twitter.md "wikilink")。
+Sharp。2010年正式上线。「Pinterest」是由「[Pin](https://zh.wikipedia.org/wiki/圖釘 "wikilink")」及「[interest](https://zh.wikipedia.org/wiki/興趣 "wikilink")」兩個字組成\[1\]，在[社群網站中的瀏覽量僅次於](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[Facebook](../Page/Facebook.md "wikilink")、[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[VK以及](https://zh.wikipedia.org/wiki/VK "wikilink")[Twitter](../Page/Twitter.md "wikilink")。
 
 2017年3月9日，Pinterest在中国大陆被[防火长城屏蔽](../Page/防火长城.md "wikilink")。
 

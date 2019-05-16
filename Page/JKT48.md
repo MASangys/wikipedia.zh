@@ -31,7 +31,7 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
     SHIP》共同擔任Special Girls
     A的双中心，也使她成为首位参加AKB48歌曲录制的JKT48成員。而且，AKB48的樂曲是首個由日本国籍以外的成員参加。
   - 3月10日，首次在Global
-    TV频道中演唱《[因為喜歡你](https://zh.wikipedia.org/wiki/Heavy_Rotation_\(JKT48专辑\) "wikilink")》。
+    TV频道中演唱《[因為喜歡你](../Page/Heavy_Rotation_\(JKT48专辑\).md "wikilink")》。
   - 4月15日，Global TV中首個冠名節目《》開始放映。每週30分鐘，共播放8次。
   - 5月17日，在雅加達市内的暂用劇場中开始表演[睡衣兜風公演](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#1期生 "wikilink")。
   - 7月9日，首次在[RCTI频道演唱](https://zh.wikipedia.org/wiki/RCTI "wikilink")《[馬尾與髮圈](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》。
@@ -53,20 +53,20 @@ JKT48和將[東京都內](../Page/東京都.md "wikilink")[秋葉原作為根據
   - 2月16日，第一张专辑《[Heavy
     Rotation](https://zh.wikipedia.org/wiki/Heavy_Rotation_（JKT48专辑） "wikilink")》发售。
   - 4月21日，在「Selebrita Awards」中获得最佳新秀奖。
-  - 5月11日，第一张单曲《[RIVER](https://zh.wikipedia.org/wiki/RIVER_\(JKT48單曲\) "wikilink")》发售
+  - 5月11日，第一张单曲《[RIVER](../Page/RIVER_\(JKT48單曲\).md "wikilink")》发售
   - 6月18日，在JKT48專屬劇場舉辦的公演中，發表了野澤玲奈兼任AKB48的消息\[7\]。
   - 6月23日，初次巡回演唱会“初次见面。我们是JKT48”（）开始。7月4日结束，共计全5地7公演。
   - 6月25日，Team KIII成立，有18名2期生组成。
   - 7月3日，在演唱会“初次见面。我们是JKT48”雅加达第一日场上发表了Shinta Naomi担任Team
     KIII队长的消息。同日，单曲《[Yuuhi wo
-    Miteiruka?](https://zh.wikipedia.org/wiki/你正在看着夕阳吗？_\(JKT48单曲\) "wikilink")》发行。
+    Miteiruka?](../Page/你正在看着夕阳吗？_\(JKT48单曲\).md "wikilink")》发行。
   - 8月21日，第三张单曲《[Fortune Cookie in
     Love](https://zh.wikipedia.org/wiki/戀愛幸運餅_\(JKT48单曲\) "wikilink")》发行。
   - 8月26日，Melody Nurramdhani
     Laksani受邀担任日本[岡山县](https://zh.wikipedia.org/wiki/岡山县 "wikilink")“水果推广大使”（）一职\[8\]。
   - 11月3日，3期生招募开始。
   - 11月26日，第四张单曲《[Manatsu no Sounds
-    Good\!](https://zh.wikipedia.org/wiki/仲夏的Sounds_good!_\(JKT48单曲\) "wikilink")》发行。
+    Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")》发行。
   - 12月21日，演唱会“JKT48 2nd Anniversary Live in Concert "Performing All
     Out\! Terima kasih telah menjadi
     temanku"”举办。在早场演出上，日本搞笑组合[COWCOW作为嘉宾出演](https://zh.wikipedia.org/wiki/COWCOW "wikilink")。在夜场演出中，属于Team
@@ -2822,7 +2822,7 @@ Team T Made Devi Ranita Ningtara畢業</p></td>
 <td><p>1</p></td>
 <td><p>2013年5月11日<br />
 2013年5月17日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/RIVER_(JKT48單曲)" title="wikilink">RIVER</a>》</p></td>
+<td><p>《<a href="../Page/RIVER_(JKT48單曲).md" title="wikilink">RIVER</a>》</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>通常盤<br />
@@ -2831,7 +2831,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2013年7月3日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/你正在看着夕阳吗？_(JKT48单曲)" title="wikilink">Yuuhi wo Miteiruka? -Apakah Kau Melihat Mentari Senja?-</a>》</p></td>
+<td><p>《<a href="../Page/你正在看着夕阳吗？_(JKT48单曲).md" title="wikilink">Yuuhi wo Miteiruka? -Apakah Kau Melihat Mentari Senja?-</a>》</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>通常盤<br />
@@ -3025,7 +3025,7 @@ Music Card</p></td>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2013年2月16日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Heavy_Rotation_(JKT48专辑)" title="wikilink">Heavy Rotation</a>》</p></td>
+<td><p>《<a href="../Page/Heavy_Rotation_(JKT48专辑).md" title="wikilink">Heavy Rotation</a>》</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>TYPE-A<br />
@@ -3427,7 +3427,7 @@ Music Card</p></td>
   - [AKB48 in TOKYO DOME
     ～1830m的梦想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")（2012年8月24日
     - 26日、[東京巨蛋](../Page/東京巨蛋.md "wikilink")） - 16名
-  - [第2屆AKB48红白对抗歌合战](https://zh.wikipedia.org/wiki/第2屆AKB48红白对抗歌合战 "wikilink")（2012年12月17日、TOKYO
+  - [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")（2012年12月17日、TOKYO
     DOME CITY HAL） - 16名
   - [AKB48集团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48集团临时总会～黑白分明！～ "wikilink")（2013年4月28日、日本武道館）
     - 16名
@@ -3881,7 +3881,7 @@ Music Card</p></td>
   - [SDN48](../Page/SDN48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
-  - [NGT48](https://zh.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
   - [STU48](https://zh.wikipedia.org/wiki/STU48 "wikilink")
   - [MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")

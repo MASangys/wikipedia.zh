@@ -3,7 +3,7 @@
 
 ## 概要
 
-Ameba是日本規模最大的[社交網路服務網站](../Page/社交網路服務.md "wikilink")，在2011年2月時會員數已到達1,300萬人\[1\]。部落格的活躍使用者數量在2009年11月時達到每月115萬人\[2\]。日本國內的網站獨立訪客數在2009年11月時達到每月220萬人\[3\]。頁面訪問次數為每月2億3000萬。在其他調查內與[FC2](https://zh.wikipedia.org/wiki/FC2 "wikilink")、[Yahoo\!部落格並稱三強](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")。\[4\]。2011年6月底時，會員總數達到1,645萬人。
+Ameba是日本規模最大的[社交網路服務網站](../Page/社交網路服務.md "wikilink")，在2011年2月時會員數已到達1,300萬人\[1\]。部落格的活躍使用者數量在2009年11月時達到每月115萬人\[2\]。日本國內的網站獨立訪客數在2009年11月時達到每月220萬人\[3\]。頁面訪問次數為每月2億3000萬。在其他調查內與[FC2](../Page/FC2.md "wikilink")、[Yahoo\!部落格並稱三強](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")。\[4\]。2011年6月底時，會員總數達到1,645萬人。
 
 許多[藝人和公眾人物皆在Ameba開設官方部落格與支持者互動](https://zh.wikipedia.org/wiki/藝人 "wikilink")\[5\]，透過與[大眾傳播媒體的合作](../Page/跨媒體製作.md "wikilink")，提升使用者人數和網頁閱覽次數。
 
@@ -18,7 +18,7 @@ Smart Phone（）」，耗資約30億日圓廣告費宣傳\[7\]。
     的『Yahoo・Internet・Guide』舉辦的「Web of Year 2006」中獲得網誌部門的第一名。
   - 2006年9月 - 推出手機服務「」\[9\]。
   - 2007年3月 - 與[小學館](../Page/小學館.md "wikilink")『[週刊Young
-    Sunday](https://zh.wikipedia.org/wiki/週刊Young_Sunday "wikilink")』合作舉辦[寫真偶像競賽](../Page/寫真偶像.md "wikilink")「」。
+    Sunday](../Page/週刊Young_Sunday.md "wikilink")』合作舉辦[寫真偶像競賽](../Page/寫真偶像.md "wikilink")「」。
   - 2008年10月 - 獲頒日本設計振興會的[好設計獎](../Page/好設計獎.md "wikilink")\[10\]。
   - 2009年2月 - 推出虛擬化身社交遊戲「Ameba Pigg」\[11\]。
   - 2009年3月 - 推出虛擬化身社交遊戲「Ameba Pigg」在Facebook的英語版遊戲「Ameba Pico」。
@@ -41,7 +41,7 @@ Smart Phone（）」，耗資約30億日圓廣告費宣傳\[7\]。
   - Ameba Vision
     [影音分享網站](https://zh.wikipedia.org/wiki/影音分享網站 "wikilink")。
   - Ameba Pigg・Pigg Life（）
-    多樣化的社群[角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")。
+    多樣化的社群[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。
   - Ameba 社團（）
     讓志同道合的網友們能夠聚集在一起，提供留言板讓大家聊天的社群服務。主辦者可限定參與的成員，因此有許多社團必須經過「面試」後才能加入。
   - Ameba Now（）

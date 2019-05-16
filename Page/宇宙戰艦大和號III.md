@@ -2,7 +2,7 @@
 
 ## 配音
 
-  - [小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")：サーベラー
+  - [小原乃梨子](../Page/小原乃梨子.md "wikilink")：サーベラー
   - [富山敬](../Page/富山敬.md "wikilink")：古代進
   - [麻上洋子](https://zh.wikipedia.org/wiki/麻上洋子 "wikilink")：森雪
   - [神谷明](../Page/神谷明.md "wikilink")：加藤四郎

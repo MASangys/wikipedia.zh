@@ -44,7 +44,7 @@ LF型引擎搭配[GDI缸內直噴技術和渦輪增壓系統](https://zh.wikiped
 
 ## 2.0L（LF-VDS型）
 
-排氣量、缸徑、衝程等與前述LF-VD型引擎相同，但是配置了新開發的[i-Stop怠速熄火系統](../Page/i-Stop怠速熄火系統.md "wikilink")，能在駕駛者踩下煞車使汽車靜止時自動關閉引擎，放開煞車後重新啟動引擎，以達到節能環保的功效\[3\]。日規版最大馬力150ps
+排氣量、缸徑、衝程等與前述LF-VD型引擎相同，但是配置了新開發的[i-Stop怠速熄火系統](https://zh.wikipedia.org/wiki/i-Stop怠速熄火系統 "wikilink")，能在駕駛者踩下煞車使汽車靜止時自動關閉引擎，放開煞車後重新啟動引擎，以達到節能環保的功效\[3\]。日規版最大馬力150ps
 / 6,200rpm，峰值扭力19.0kg·m / 4,500rpm。車型：
 
 1.  2009年迄今：[第二代馬自達3](https://zh.wikipedia.org/wiki/馬自達3#第二代（2009年迄今） "wikilink")
@@ -107,7 +107,7 @@ Bonilla](https://zh.wikipedia.org/wiki/:en:Gerardo_Bonilla "wikilink")）領軍�
 
   - [馬自達引擎列表](../Page/馬自達引擎列表.md "wikilink")
   - [馬自達F族引擎](../Page/馬自達F族引擎.md "wikilink")
-  - [馬自達P族引擎](https://zh.wikipedia.org/wiki/馬自達P族引擎 "wikilink")
+  - [馬自達P族引擎](../Page/馬自達P族引擎.md "wikilink")
   - [馬自達Z族引擎](../Page/馬自達Z族引擎.md "wikilink")
   - [馬自達MZR引擎](../Page/馬自達MZR引擎.md "wikilink")
 

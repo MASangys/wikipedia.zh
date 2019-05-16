@@ -1,5 +1,5 @@
 「**Ambitious\! 有點野心也不錯**」（Ambitious\!
-野心的でいいじゃん）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第30张[单曲](../Page/单曲.md "wikilink")。2006年6月21日由[zetima发售](../Page/zetima.md "wikilink")。
+野心的でいいじゃん）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第30张[单曲](../Page/单曲.md "wikilink")。2006年6月21日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

@@ -1,6 +1,6 @@
-《**千奇百趣高B班**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向](../Page/電視廣播有限公司.md "wikilink")[日本](../Page/日本.md "wikilink")[朝日電視台購買](../Page/朝日電視台.md "wikilink")[版權而製作的一個](https://zh.wikipedia.org/wiki/版權 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。[節目主持為](https://zh.wikipedia.org/wiki/節目主持 "wikilink")[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[李偉健](https://zh.wikipedia.org/wiki/李偉健 "wikilink")（粉筆）及[陳亭嘉](https://zh.wikipedia.org/wiki/陳亭嘉 "wikilink")（粉刷）。至於旁白，本輯除了[林保全及](../Page/林保全.md "wikilink")[雷碧娜外](../Page/雷碧娜.md "wikilink")，亦有使用其他[配音員](../Page/配音員.md "wikilink")（全為男性路人，而女性路人和小孩則由[雷碧娜負責](../Page/雷碧娜.md "wikilink")），當中包括[陳永信](../Page/陳永信.md "wikilink")、[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")、[招世亮](../Page/招世亮.md "wikilink")、[朱子聰](../Page/朱子聰.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")、[劉昭文](../Page/劉昭文.md "wikilink")、[陳欣和](../Page/陳欣_\(配音員\).md "wikilink")[蕭徽勇](../Page/蕭徽勇.md "wikilink")。
+《**千奇百趣高B班**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向](../Page/電視廣播有限公司.md "wikilink")[日本](../Page/日本.md "wikilink")[朝日電視台購買](../Page/朝日電視台.md "wikilink")[版權而製作的一個](https://zh.wikipedia.org/wiki/版權 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。[節目主持為](https://zh.wikipedia.org/wiki/節目主持 "wikilink")[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[李偉健](../Page/李偉健.md "wikilink")（粉筆）及[陳亭嘉](https://zh.wikipedia.org/wiki/陳亭嘉 "wikilink")（粉刷）。至於旁白，本輯除了[林保全及](../Page/林保全.md "wikilink")[雷碧娜外](../Page/雷碧娜.md "wikilink")，亦有使用其他[配音員](../Page/配音員.md "wikilink")（全為男性路人，而女性路人和小孩則由[雷碧娜負責](../Page/雷碧娜.md "wikilink")），當中包括[陳永信](../Page/陳永信.md "wikilink")、[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")、[招世亮](../Page/招世亮.md "wikilink")、[朱子聰](../Page/朱子聰.md "wikilink")、[葉振聲](../Page/葉振聲.md "wikilink")、[劉昭文](../Page/劉昭文.md "wikilink")、[陳欣和](../Page/陳欣_\(配音員\).md "wikilink")[蕭徽勇](../Page/蕭徽勇.md "wikilink")。
 
-本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第六輯，並且首次每集播映一小時，以課室為主題，奇趣內容關於日本境內的奇景。節目於2012年2月25日至2012年6月16日，逢星期六[香港時間](../Page/香港時間.md "wikilink")20:30至21:30於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播放](../Page/高清翡翠台.md "wikilink")。另外，節目播出後於[myTV提供節目重溫](../Page/myTV.md "wikilink")。
+本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第六輯，並且首次每集播映一小時，以課室為主題，奇趣內容關於日本境內的奇景。節目於2012年2月25日至2012年6月16日，逢星期六[香港時間](../Page/香港時間.md "wikilink")20:30至21:30於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播放](../Page/高清翡翠台.md "wikilink")。另外，節目播出後於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 口號
 
@@ -65,7 +65,7 @@
 <td><p>2月25日</p></td>
 <td><p><a href="../Page/喬寶寶.md" title="wikilink">喬寶寶</a>、<a href="../Page/張美妮.md" title="wikilink">張美妮</a><br />
 <a href="../Page/安德尊.md" title="wikilink">安德尊</a>、<a href="../Page/陳煒.md" title="wikilink">陳　煒</a><br />
-<a href="../Page/宋芝齡.md" title="wikilink">宋芝齡</a>、<a href="https://zh.wikipedia.org/wiki/朱滙林" title="wikilink">朱滙林</a></p></td>
+<a href="../Page/宋芝齡.md" title="wikilink">宋芝齡</a>、<a href="../Page/朱滙林.md" title="wikilink">朱滙林</a></p></td>
 <td><p>不直接用手推或吹汽水鑵而令汽水罐移動。</p></td>
 <td><p>70<br />
 90<br />
@@ -134,7 +134,7 @@
 <td><p>4月7日</p></td>
 <td><p><a href="../Page/何傲兒.md" title="wikilink">何傲兒</a>、<a href="../Page/張慧雯_(香港).md" title="wikilink">張慧雯</a><br />
 <a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>、<a href="../Page/王君馨.md" title="wikilink">王君馨</a><br />
-<a href="https://zh.wikipedia.org/wiki/林溥來" title="wikilink">林溥來</a>、<a href="https://zh.wikipedia.org/wiki/關婉珊" title="wikilink">關婉珊</a></p></td>
+<a href="../Page/林溥來.md" title="wikilink">林溥來</a>、<a href="https://zh.wikipedia.org/wiki/關婉珊" title="wikilink">關婉珊</a></p></td>
 <td><p>救救小杜鵑</p></td>
 <td><p>60<br />
 70<br />

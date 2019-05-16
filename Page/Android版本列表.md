@@ -21,7 +21,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <thead>
 <tr class="header">
 <th><p>Alpha、Beta</p></th>
-<th><p>初期還未完成的版本以里程碑（Milestone）的M來作編號（如m3, m5）後面接rc號碼（如m3-rc37a），再細分為每星期的結果WB或測試序號TC。至2009年團隊認為這些編號太難分辨和記憶，所以改成CRA29，而這也某程度上決定了後來使用英文字母排序的方式來命名代號。在這其中無數的里程碑中，曾經打算過使用虛構作品中的機械人（Android）作為代號，例如Astro Boy“<a href="https://zh.wikipedia.org/wiki/鐵臂阿童木" title="wikilink">鐵臂阿童木</a>”和Bender“<a href="https://zh.wikipedia.org/wiki/班德·班亭·羅德里蓋茲" title="wikilink">班德·班亭·羅德里蓋茲</a>”。[6]</p></th>
+<th><p>初期還未完成的版本以里程碑（Milestone）的M來作編號（如m3, m5）後面接rc號碼（如m3-rc37a），再細分為每星期的結果WB或測試序號TC。至2009年團隊認為這些編號太難分辨和記憶，所以改成CRA29，而這也某程度上決定了後來使用英文字母排序的方式來命名代號。在這其中無數的里程碑中，曾經打算過使用虛構作品中的機械人（Android）作為代號，例如Astro Boy“<a href="https://zh.wikipedia.org/wiki/鐵臂阿童木" title="wikilink">鐵臂阿童木</a>”和Bender“<a href="../Page/班德·班亭·羅德里蓋茲.md" title="wikilink">班德·班亭·羅德里蓋茲</a>”。[6]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -155,7 +155,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>新增下载管理员。</li>
 <li>最佳化遊戏开发支援。</li>
 <li>多媒体音效强化。</li>
-<li>从<a href="../Page/YAFFS.md" title="wikilink">YAFFS转换到</a><a href="../Page/ext4.md" title="wikilink">ext4文件系统</a>。</li>
+<li>从<a href="../Page/YAFFS.md" title="wikilink">YAFFS转换到</a><a href="https://zh.wikipedia.org/wiki/ext4" title="wikilink">ext4文件系统</a>。</li>
 <li>支援屏幕截图功能。</li>
 <li>对黑色及白色的还原更加真实。</li>
 <li>支援Google Talk视讯功能。</li>
@@ -350,7 +350,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>提昇性能及穩定性</li>
 <li>單手指開合通知中心訊息</li>
 </ul>
-<p>2012年10月30日，Google 釋出 Android 4.2（JellyBean 雷根糖）。<a href="../Page/Google.md" title="wikilink">Google原本预计於</a>2012年10月29日於紐約發佈Android 4.2，但因為<a href="https://zh.wikipedia.org/wiki/颶風桑迪" title="wikilink">颶風桑迪吹襲被取消</a>[69]，而改以新聞稿發佈，以“一種新口味的果凍豆”（A new flavor of Jelly Bean）作口號。首款搭載Android 4.2的手機<a href="https://zh.wikipedia.org/wiki/Nexus_4" title="wikilink">LG Nexus 4及平板電腦</a><a href="https://zh.wikipedia.org/wiki/Nexus_10" title="wikilink">Nexus 10於</a>2012年11月23日上市[70][71]。主要更新如下：</p>
+<p>2012年10月30日，Google 釋出 Android 4.2（JellyBean 雷根糖）。<a href="../Page/Google.md" title="wikilink">Google原本预计於</a>2012年10月29日於紐約發佈Android 4.2，但因為<a href="../Page/颶風桑迪.md" title="wikilink">颶風桑迪吹襲被取消</a>[69]，而改以新聞稿發佈，以“一種新口味的果凍豆”（A new flavor of Jelly Bean）作口號。首款搭載Android 4.2的手機<a href="../Page/Nexus_4.md" title="wikilink">LG Nexus 4及平板電腦</a><a href="../Page/Nexus_10.md" title="wikilink">Nexus 10於</a>2012年11月23日上市[70][71]。主要更新如下：</p>
 <ul>
 <li>支援多用户登录，一部设备上可有多个帐号（僅適用於平板電腦）。</li>
 <li>通知中心內新增了設定鍵。</li>
@@ -364,7 +364,7 @@ Android最初的版本是於2007年11月5日發行的Android
 <li>可直接進行操作的狀態通知列功能。</li>
 <li>內置時鐘新增世界時鐘，秒錶和定時器。</li>
 <li>改進鎖屏：支持小部件，可於螢幕鎖定介面直接開啟相機功能。</li>
-<li>支援多媒體無線傳輸 <a href="https://zh.wikipedia.org/wiki/Miracast" title="wikilink">Miracast</a>。</li>
+<li>支援多媒體無線傳輸 <a href="../Page/Miracast.md" title="wikilink">Miracast</a>。</li>
 <li>螢幕鎖定時可顯示Widget，唯支援的Widget十分有限（基於開發者有無加入此功能）。</li>
 <li>增加｢Daydream（白日夢）｣功能,其功能類似於螢幕保護。</li>
 </ul>
@@ -595,7 +595,7 @@ Android 5.1<br />
   - [安迪·鲁宾](../Page/安迪·鲁宾.md "wikilink")
   - [Google](../Page/Google.md "wikilink")
   - [智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")
-  - [iOS](../Page/iOS.md "wikilink")
+  - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
   - [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
 
 ## 參考資料

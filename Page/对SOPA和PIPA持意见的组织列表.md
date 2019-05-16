@@ -3,7 +3,7 @@
 2011年12月22日，[美國眾議院議員](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[蘭默·史密斯](https://zh.wikipedia.org/wiki/蘭默·史密斯 "wikilink")（Lamar
 Smith）在[美國眾議院司法委員會的網站上發表了一份報告](https://zh.wikipedia.org/wiki/美國眾議院司法委員會 "wikilink")，報告中列出了共142間支持SOPA法案的組織。\[1\]及後其他支持法案的組織亦有發放自己支持該法案的新聞稿。
 
-在該列表的第一次發佈後，列表曾更新了多次。例如直至2011年12月29日，列表比初次發佈的版本減少了18個支持組織。由於該列表在美國的網絡社群（例如美國社群網站[Reddit](https://zh.wikipedia.org/wiki/Reddit "wikilink")）上曝光率增加，引起了在列表中的組織的公共關係災難。其中一個明顯的例子有美國[域名註冊和互聯網主機服務公司](../Page/域名.md "wikilink")[Go
+在該列表的第一次發佈後，列表曾更新了多次。例如直至2011年12月29日，列表比初次發佈的版本減少了18個支持組織。由於該列表在美國的網絡社群（例如美國社群網站[Reddit](../Page/Reddit.md "wikilink")）上曝光率增加，引起了在列表中的組織的公共關係災難。其中一個明顯的例子有美國[域名註冊和互聯網主機服務公司](../Page/域名.md "wikilink")[Go
 Daddy](https://zh.wikipedia.org/wiki/Go_Daddy "wikilink")，在SOPA法案支持者列表發表後的一個星期之內，該公司流失了超過72000個經該公司註冊域名的客戶；同時，網絡上亦出現了共同抵制Go
 Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定不再支持SOPA法案。\[2\]
 
@@ -172,7 +172,7 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - 國家作曲家協會
   - [National Troopers
     Coalition](https://zh.wikipedia.org/wiki/National_Troopers_Coalition "wikilink")
-  - [新闻集团](https://zh.wikipedia.org/wiki/新闻集团 "wikilink")
+  - [新闻集团](../Page/新闻集团.md "wikilink")
   - 培生教育集团
   - [Penguin
     Group](https://zh.wikipedia.org/wiki/Penguin_Group "wikilink")
@@ -300,13 +300,13 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - [美國線上](https://zh.wikipedia.org/wiki/美國線上 "wikilink")\[13\]
   - [Craigslist](https://zh.wikipedia.org/wiki/Craigslist "wikilink")\[14\]
   - [Discover](https://zh.wikipedia.org/wiki/發現卡 "wikilink")
-  - [eBay](../Page/eBay.md "wikilink")\[15\]
+  - [eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")\[15\]
   - [Facebook](../Page/Facebook.md "wikilink")\[16\]
   - [Google](../Page/Google.md "wikilink")\[17\]
   - [LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")\[18\]
   - [Mozilla基金會](../Page/Mozilla基金會.md "wikilink")\[19\]
   - [PayPal](../Page/PayPal.md "wikilink")
-  - [Reddit](https://zh.wikipedia.org/wiki/Reddit "wikilink")\[20\]
+  - [Reddit](../Page/Reddit.md "wikilink")\[20\]
   - [Tumblr](https://zh.wikipedia.org/wiki/Tumblr "wikilink")
   - [Twitter](../Page/Twitter.md "wikilink")\[21\]
   - [維基百科](https://zh.wikipedia.org/wiki/維基百科 "wikilink")
@@ -318,7 +318,7 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - [BuzzFeed](../Page/BuzzFeed.md "wikilink")
   - [Cheezburger](https://zh.wikipedia.org/wiki/Cheezburger "wikilink")
   - [ClearBits](https://zh.wikipedia.org/wiki/ClearBits "wikilink")
-  - [CloudFlare](https://zh.wikipedia.org/wiki/CloudFlare "wikilink")
+  - [CloudFlare](../Page/CloudFlare.md "wikilink")
   - [ConsumerBell](https://zh.wikipedia.org/wiki/ConsumerBell "wikilink")
   - [Copyblogger](https://zh.wikipedia.org/wiki/Copyblogger "wikilink")
   - [Computer
@@ -327,7 +327,7 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - [Curse](https://zh.wikipedia.org/wiki/Curse "wikilink")
   - [Daily Kos](https://zh.wikipedia.org/wiki/Daily_Kos "wikilink")
   - [Destructoid](../Page/Destructoid.md "wikilink")
-  - [deviantART](../Page/deviantART.md "wikilink")
+  - [deviantART](https://zh.wikipedia.org/wiki/deviantART "wikilink")
   - [Disqus](../Page/Disqus.md "wikilink")
   - [dotSUB](https://zh.wikipedia.org/wiki/dotSUB "wikilink")
   - [DreamHost](https://zh.wikipedia.org/wiki/DreamHost "wikilink")
@@ -341,7 +341,7 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - [Etsy](../Page/Etsy.md "wikilink")
   - [Fantagraphics](https://zh.wikipedia.org/wiki/Fantagraphics "wikilink")
   - [Flickr](../Page/Flickr.md "wikilink")\[26\]
-  - [foursquare](../Page/foursquare.md "wikilink")
+  - [foursquare](https://zh.wikipedia.org/wiki/foursquare "wikilink")
   - [Grooveshark](https://zh.wikipedia.org/wiki/Grooveshark "wikilink")
   - [Gandi](https://zh.wikipedia.org/wiki/Gandi "wikilink")
   - [GreenHostIt](https://zh.wikipedia.org/wiki/GreenHostIt "wikilink")
@@ -363,11 +363,11 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - [卡巴斯基實驗室](../Page/卡巴斯基實驗室.md "wikilink")
   - [Jive
     Software](https://zh.wikipedia.org/wiki/Jive_Software "wikilink")
-  - [Kickstarter](https://zh.wikipedia.org/wiki/Kickstarter "wikilink")
+  - [Kickstarter](../Page/Kickstarter.md "wikilink")
   - [Major League
     Gaming](https://zh.wikipedia.org/wiki/Major_League_Gaming "wikilink")
   - [MetaFilter](https://zh.wikipedia.org/wiki/MetaFilter "wikilink")
-  - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")/[Mojang](https://zh.wikipedia.org/wiki/Mojang "wikilink")/[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")/[Cobalt](https://zh.wikipedia.org/wiki/Cobalt "wikilink")
+  - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")/[Mojang](../Page/Mojang.md "wikilink")/[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")/[Cobalt](https://zh.wikipedia.org/wiki/Cobalt "wikilink")
   - [Monticello
     Capital](https://zh.wikipedia.org/wiki/Monticello_Capital "wikilink")
   - [Name.com](https://zh.wikipedia.org/wiki/Name.com "wikilink")
@@ -386,8 +386,8 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
     Studios](https://zh.wikipedia.org/wiki/Red_5_Studios "wikilink")
   - [ReferralCandy](https://zh.wikipedia.org/wiki/ReferralCandy "wikilink")
   - [Riot Games](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")
-  - [Runic Games](https://zh.wikipedia.org/wiki/Runic_Games "wikilink")
-  - [Scribd](https://zh.wikipedia.org/wiki/Scribd "wikilink")
+  - [Runic Games](../Page/Runic_Games.md "wikilink")
+  - [Scribd](../Page/Scribd.md "wikilink")
   - [ServInt](https://zh.wikipedia.org/wiki/ServInt "wikilink")
   - [Teachers Pay
     Teachers](https://zh.wikipedia.org/wiki/Teachers_Pay_Teachers "wikilink")
@@ -409,11 +409,10 @@ Daddy的行動。在此事件後的不久，Go Daddy方面公告了他們決定�
   - [WordPress](../Page/WordPress.md "wikilink")
   - [WPSecurityLock](https://zh.wikipedia.org/wiki/WPSecurityLock "wikilink")
   - [xda-developers](https://zh.wikipedia.org/wiki/xda-developers "wikilink")
-  - [Y
-    Combinator](https://zh.wikipedia.org/wiki/Y_Combinator_\(公司\) "wikilink")
+  - [Y Combinator](../Page/Y_Combinator_\(公司\).md "wikilink")
   - [Zopim](https://zh.wikipedia.org/wiki/Zopim "wikilink")
   - [4chan](../Page/4chan.md "wikilink")
-  - [9GAG](https://zh.wikipedia.org/wiki/9GAG "wikilink")
+  - [9GAG](../Page/9GAG.md "wikilink")
 
 </div>
 

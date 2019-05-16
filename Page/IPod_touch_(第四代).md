@@ -1,8 +1,8 @@
 **iPod touch
-4**是[蘋果公司設計開發的第四代的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，也是屬於[iPod系列的一部份](../Page/iPod.md "wikilink")，2010年9月1日由當時的蘋果的首席執行官[史蒂夫·賈伯斯在舊金山的發佈會中推出](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")。蘋果於2011年10月5日的發佈會中推出白色版。蘋果于2012年9月12日的[iPhone
-5發佈會上推出了iPod](../Page/iPhone_5.md "wikilink") touch
-4的16GB版本，與此同時，不再販售8GB與64GB版本，32GB版本降價並繼續販售。2013年5月底，苹果公司将iPod
-touch 4G從官網上撤下，換上16GB的第五代iPod touch播放器，從此iPod touch 4結束了它的使命。iPod touch
+4**是[蘋果公司設計開發的第四代的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，也是屬於[iPod系列的一部份](https://zh.wikipedia.org/wiki/iPod "wikilink")，2010年9月1日由當時的蘋果的首席執行官[史蒂夫·賈伯斯在舊金山的發佈會中推出](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")。蘋果於2011年10月5日的發佈會中推出白色版。蘋果于2012年9月12日的[iPhone
+5發佈會上推出了iPod](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") touch
+4的16GB版本，與此同時，不再販售8GB與64GB版本，32GB版本降價並繼續販售。2013年5月底，苹果公司将iPod touch
+4G從官網上撤下，換上16GB的第五代iPod touch播放器，從此iPod touch 4結束了它的使命。iPod touch
 4最後支援的操作系統版本為iOS 6.1.6，無法升級[iOS
 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")。
 
@@ -12,7 +12,7 @@ touch 4G從官網上撤下，換上16GB的第五代iPod touch播放器，從此i
 b/g/n)、[藍牙](../Page/藍牙.md "wikilink")(Bluetooth 2.1 +
 EDR)、揚聲器、語音控制及[USB](../Page/USB.md "wikilink")
 2.0等功能，分別有8 GB, 16 GB, 32 GB, 64
-GB的版本，明顯不同的地方在於新增的前置和後置鏡頭，可以與[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、[iPhone和](../Page/iPhone.md "wikilink")[Mac進行Facetime視像聊天](../Page/Mac.md "wikilink")，後置的鏡頭可以拍攝720p錄像和VGA級別的相片，另外更添增了三軸[陀螺儀及麥克風](../Page/陀螺儀.md "wikilink")，內置充電式鋰離子電池，電池充滿時可以播放音樂達
+GB的版本，明顯不同的地方在於新增的前置和後置鏡頭，可以與[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[Mac進行Facetime視像聊天](https://zh.wikipedia.org/wiki/Mac "wikilink")，後置的鏡頭可以拍攝720p錄像和VGA級別的相片，另外更添增了三軸[陀螺儀及麥克風](../Page/陀螺儀.md "wikilink")，內置充電式鋰離子電池，電池充滿時可以播放音樂達
 40 小時，而影片播放時間最長 7
 小時，電池容量為930mah。螢幕使用了與第四代iPhone相同的視網膜分辨率屏幕，並使用了蘋果公司推出的ARM
 Cortex-A8 [Apple

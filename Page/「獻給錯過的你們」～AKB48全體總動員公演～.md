@@ -4,7 +4,7 @@ HALL舉行的](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wi
 
 ## 概要
 
-2011年4月23日，AKB48在[名古屋巨蛋舉行的](../Page/名古屋巨蛋.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》全國發賣紀念[握手會中宣佈在](https://zh.wikipedia.org/wiki/握手會 "wikilink")5月24日至6月12日期間於TOKYO
+2011年4月23日，AKB48在[名古屋巨蛋舉行的](../Page/名古屋巨蛋.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》全國發賣紀念[握手會中宣佈在](../Page/握手會.md "wikilink")5月24日至6月12日期間於TOKYO
 DOME CITY
 HALL舉行演唱會，演唱歷代的[AKB48劇場公演曲目](../Page/AKB48劇場公演.md "wikilink")\[1\]。原本預定演出[TeamK
 6th
@@ -63,7 +63,7 @@ Stage「我的太陽」中](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage
 <td><p><a href="https://zh.wikipedia.org/wiki/穐田和惠" title="wikilink">穐田和惠</a> 今吉めぐみ <a href="../Page/梅田悠.md" title="wikilink">梅田悠</a> <a href="../Page/浦野一美.md" title="wikilink">浦野一美</a><br />
 <a href="../Page/大河內美紗.md" title="wikilink">大河內美紗</a> <a href="../Page/甲斐田樹里.md" title="wikilink">甲斐田樹里</a> <a href="../Page/加藤雅美.md" title="wikilink">加藤雅美</a> 河內麻沙美<br />
 <a href="../Page/小原春香.md" title="wikilink">小原春香</a> <a href="../Page/近藤沙耶香.md" title="wikilink">近藤沙耶香</a> <a href="../Page/佐藤由加理.md" title="wikilink">佐藤由加理</a> <a href="../Page/芹那.md" title="wikilink">芹那</a><br />
-<a href="../Page/陳屈.md" title="wikilink">陳屈</a> <a href="../Page/手束真知子.md" title="wikilink">手束真知子</a> <a href="../Page/Nachu.md" title="wikilink">Nachu</a> <a href="https://zh.wikipedia.org/wiki/西國原禮子" title="wikilink">西國原禮子</a><br />
+<a href="../Page/陳屈.md" title="wikilink">陳屈</a> <a href="../Page/手束真知子.md" title="wikilink">手束真知子</a> <a href="https://zh.wikipedia.org/wiki/Nachu" title="wikilink">Nachu</a> <a href="https://zh.wikipedia.org/wiki/西國原禮子" title="wikilink">西國原禮子</a><br />
 野呂佳代 <a href="../Page/畠山智妃.md" title="wikilink">畠山智妃</a> 三ッ井裕美</p></td>
 </tr>
 <tr class="odd">
@@ -79,7 +79,7 @@ Stage「我的太陽」中](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage
 <td><p>2011年5月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TeamB_3rd_Stage「睡衣兜風」" title="wikilink">TeamB 3rd Stage「睡衣兜風」</a></p></td>
 <td><p>SKE48 Team E：<br />
-<a href="https://zh.wikipedia.org/wiki/磯原杏華" title="wikilink">磯原杏華</a> <a href="../Page/上野圭澄.md" title="wikilink">上野圭澄</a> <a href="https://zh.wikipedia.org/wiki/梅本まどか" title="wikilink">梅本まどか</a> <a href="../Page/金子栞.md" title="wikilink">金子栞</a><br />
+<a href="../Page/磯原杏華.md" title="wikilink">磯原杏華</a> <a href="../Page/上野圭澄.md" title="wikilink">上野圭澄</a> <a href="https://zh.wikipedia.org/wiki/梅本まどか" title="wikilink">梅本まどか</a> <a href="../Page/金子栞.md" title="wikilink">金子栞</a><br />
 <a href="../Page/木本花音.md" title="wikilink">木本花音</a> <a href="../Page/小林亞實.md" title="wikilink">小林亞實</a> <a href="https://zh.wikipedia.org/wiki/酒井萌衣" title="wikilink">酒井萌衣</a> <a href="https://zh.wikipedia.org/wiki/柴田阿彌" title="wikilink">柴田阿彌</a><br />
 <a href="../Page/高木由麻奈.md" title="wikilink">高木由麻奈</a> <a href="../Page/竹內舞.md" title="wikilink">竹內舞</a> <a href="https://zh.wikipedia.org/wiki/都築里佳" title="wikilink">都築里佳</a> <a href="../Page/中村優花.md" title="wikilink">中村優花</a><br />
 <a href="../Page/原望奈美.md" title="wikilink">原望奈美</a> <a href="https://zh.wikipedia.org/wiki/間野春香" title="wikilink">間野春香</a> <a href="https://zh.wikipedia.org/wiki/山下ゆかり" title="wikilink">山下ゆかり</a> <a href="../Page/山田惠里伽.md" title="wikilink">山田惠里伽</a></p></td>

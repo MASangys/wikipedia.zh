@@ -1,4 +1,4 @@
-**SCons**，一種[軟體開發工具程式](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")，功能類似於[UNIX上的](../Page/UNIX.md "wikilink")[make](../Page/make.md "wikilink")、[autoconf與](../Page/autoconf.md "wikilink")[automake工具](../Page/automake.md "wikilink")。它是一個[開放原始碼計劃](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，採用[MIT授權](https://zh.wikipedia.org/wiki/MIT授權 "wikilink")，原作者是[史蒂芬·奈特](https://zh.wikipedia.org/wiki/史蒂芬·奈特 "wikilink")（Steven
+**SCons**，一種[軟體開發工具程式](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")，功能類似於[UNIX上的](../Page/UNIX.md "wikilink")[make](https://zh.wikipedia.org/wiki/make "wikilink")、[autoconf與](https://zh.wikipedia.org/wiki/autoconf "wikilink")[automake工具](https://zh.wikipedia.org/wiki/automake "wikilink")。它是一個[開放原始碼計劃](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，採用[MIT授權](https://zh.wikipedia.org/wiki/MIT授權 "wikilink")，原作者是[史蒂芬·奈特](https://zh.wikipedia.org/wiki/史蒂芬·奈特 "wikilink")（Steven
 Knight），使用[Python語言開發](../Page/Python.md "wikilink")。第一個正式版本在2010年3月23日釋出。
 
 ## 歷史
@@ -8,7 +8,7 @@ Sidebotham）所創作的[Cons](https://zh.wikipedia.org/wiki/Cons "wikilink")�
 Carpentry計畫](https://zh.wikipedia.org/wiki/Software_Carpentry "wikilink")，SC
 build競賽。ScCons成為獨立專案之後，為了表示這個專案與Software Carpentry公司沒有關係，改名為SCons。
 
-SCons啟發了[Waf計劃](https://zh.wikipedia.org/wiki/Waf "wikilink")。Waf最早被稱為SCons/BKsys，它成為KDE社群開發的軟體之一，但最後KDE計劃選擇[CMake](../Page/CMake.md "wikilink")。
+SCons啟發了[Waf計劃](../Page/Waf.md "wikilink")。Waf最早被稱為SCons/BKsys，它成為KDE社群開發的軟體之一，但最後KDE計劃選擇[CMake](../Page/CMake.md "wikilink")。
 
 ## 技術
 

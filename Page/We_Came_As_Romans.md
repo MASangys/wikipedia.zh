@@ -55,7 +55,7 @@ Last Night和](https://zh.wikipedia.org/wiki/Our_Last_Night "wikilink")[A
 Bullet for Pretty
 Boy參加](https://zh.wikipedia.org/wiki/A_Bullet_for_Pretty_Boy "wikilink")《The
 Welcome to the Circus巡迴》\[8\]，以宣傳新專輯。首支音樂單曲影帶《To Plant a
-Seed》在五月11日發行於[iTunes](../Page/iTunes.md "wikilink")。六月11日，透過樂團的[Facebook與](../Page/Facebook.md "wikilink")[Twitter頁面](../Page/Twitter.md "wikilink")，宣布將與製作人Joey
+Seed》在五月11日發行於[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")。六月11日，透過樂團的[Facebook與](../Page/Facebook.md "wikilink")[Twitter頁面](../Page/Twitter.md "wikilink")，宣布將與製作人Joey
 Sturgis進入錄音室的消息。錄製的時間從六月15日到六月20日。\[9\]單曲《To Move on Is to
 Grow》就這樣發布了。下半年，We Came as Romans又參加了《Scream It Like
 You Mean It
@@ -67,7 +67,7 @@ Fire](https://zh.wikipedia.org/wiki/I_Set_My_Friends_On_Fire "wikilink")、[Sky
 Eats
 Airplane](https://zh.wikipedia.org/wiki/Sky_Eats_Airplane "wikilink")、[Ivoryline與Close](https://zh.wikipedia.org/wiki/Ivoryline "wikilink")
 to Home\[10\]八月到十月，在美家地區與[In Fear and
-Faith](../Page/In_Fear_and_Faith.md "wikilink")、[Confide](https://zh.wikipedia.org/wiki/Confide "wikilink")、Upon
+Faith](https://zh.wikipedia.org/wiki/In_Fear_and_Faith "wikilink")、[Confide](https://zh.wikipedia.org/wiki/Confide "wikilink")、Upon
 a Burning Body以及[Abandon All
 Ships參與](../Page/Abandon_All_Ships.md "wikilink")《Band of
 Brothers巡迴》。\[11\]十月與十一月，他們轉換到歐洲參加《Never Say Die巡演》，和樂團[Parkway
@@ -82,7 +82,8 @@ Til音樂祭》到澳洲一帶與樂團[麥加帝斯](https://zh.wikipedia.org/w
 Goes Pop
 3》收錄了他們翻唱[賈斯汀·提姆布萊克的歌曲](https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克 "wikilink")《My
 Love》。\[14\]他們在官方頁面表示，他們將在明年第一表演中，初次演唱這首歌曲，但也是最後一次。十一月14日，第二支音樂影帶《To
-Move on Is to Grow》在[iTunes上釋出](../Page/iTunes.md "wikilink")，新專輯主打歌《To
+Move on Is to
+Grow》在[iTunes上釋出](https://zh.wikipedia.org/wiki/iTunes "wikilink")，新專輯主打歌《To
 Plant a Seed》出現在十二月21日的合輯《Equal Vision唱片鉅獻：2011新聲代》（Equal Vision Records
 Presents: New Sounds 2011）。\[15\]2011年一月6日，唱片公司宣布出道專輯《To Plant a
 Seed》將與新單曲《To Move on Is to
@@ -130,9 +131,9 @@ Stephens則是出現在雜誌*Alternative
 Press*八月號。同時被《[Warped巡迴](../Page/Warped巡迴.md "wikilink")》官方給高亮起來。
 
 2011年九月13日終於推出專輯《Understanding What We’ve Grown To Be》。在發行前夕在[Equal
-Vision唱片的](../Page/Equal_Vision唱片.md "wikilink")[Youtube頁面發布首支單曲](../Page/Youtube.md "wikilink")《Mis//Understanding》\[26\]與專輯的同名歌曲《Understanding
+Vision唱片的](../Page/Equal_Vision唱片.md "wikilink")[Youtube頁面發布首支單曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")《Mis//Understanding》\[26\]與專輯的同名歌曲《Understanding
 What We've Grown to
-Be》也隨後發布。\[27\]這兩首歌曲提前在七月5日時於[iTunes上預購](../Page/iTunes.md "wikilink")。\[28\]除了歌曲以外，專輯封面透過樂團的官網也於14日上傳至網路。\[29\]
+Be》也隨後發布。\[27\]這兩首歌曲提前在七月5日時於[iTunes上預購](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[28\]除了歌曲以外，專輯封面透過樂團的官網也於14日上傳至網路。\[29\]
 
 根據樂團指出：「不論是在音樂上或是在歌詞上，《Understanding What We've Grown to Be》比先前的作品《To
 Plant a

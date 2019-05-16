@@ -53,7 +53,7 @@ Arcs與[TBS電視台](../Page/TBS電視台.md "wikilink")、[BS-TBS形成TBS集�
 
 <!-- end list -->
 
-  - [初音島II](../Page/初音島II.md "wikilink")（）（2007年）（總承包商：[feel.](../Page/feel..md "wikilink")，2007年）
+  - [初音島II](../Page/初音島II.md "wikilink")（）（2007年）（總承包商：[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")，2007年）
   - [火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")（）（總承包商：[Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")，2010年－）
   - [我的朋友很少NEXT](../Page/我的朋友很少.md "wikilink")（）（總承包商：[AIC
@@ -104,7 +104,7 @@ Arcs與[TBS電視台](../Page/TBS電視台.md "wikilink")、[BS-TBS形成TBS集�
   -
   - [Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
 
-  - [日本動畫工作室列表](https://zh.wikipedia.org/wiki/日本動畫工作室列表 "wikilink")
+  - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 外部連結
 

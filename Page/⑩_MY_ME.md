@@ -1,5 +1,5 @@
 「**⑩ MY
-ME**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")10枚原創專輯。於2010年3月17日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+ME**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")10枚原創專輯。於2010年3月17日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

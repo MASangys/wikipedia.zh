@@ -22,11 +22,10 @@ Mobile的三星手机用戶界面](../Page/Windows_Mobile.md "wikilink")。
 ## 基于TouchWiz界面的设备
 
   - [三星Galaxy
-    S系列](https://zh.wikipedia.org/wiki/三星Galaxy_S系列 "wikilink")：S，S2，S3，S4，S5，S6，S6
+    S系列](../Page/三星Galaxy_S系列.md "wikilink")：S，S2，S3，S4，S5，S6，S6
     Edge，S6 Edge+，S7，S7 Edge
 
-  - [三星Galaxy
-    Note系列](https://zh.wikipedia.org/wiki/三星Galaxy_Note系列 "wikilink")：Note，Note
+  - [三星Galaxy Note系列](../Page/三星Galaxy_Note系列.md "wikilink")：Note，Note
     2，Note 3，Note 4，Note 5，Note 7，Note Edge
 
   - [三星Galaxy

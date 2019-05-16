@@ -17,7 +17,7 @@ ZBD-04步兵戰車設計（**WZ502工程**）自1999年由王天民担任總设�
 
 ## 設計
 
-ZBD-04步兵战车总体设计布局为动力舱前置，驾驶舱在动力舱左侧，战斗舱居中，载员舱居后。行走系采用六对小直径双轮缘负重轮，装有托带轮和液压减振器。箱型车体采用轧制装甲钢和[铝合金材料](https://zh.wikipedia.org/wiki/铝合金 "wikilink")，车首装甲的倾斜角度较大，防弹外形较好，车首前下方安装有大型防浪板，车尾门下方两侧具有两个[喷水推进器喷口](https://zh.wikipedia.org/wiki/喷水推进器 "wikilink")，由在車頭右側的發動機帶動噴水推進，具有较佳的浮渡性能\[3\]。
+ZBD-04步兵战车总体设计布局为动力舱前置，驾驶舱在动力舱左侧，战斗舱居中，载员舱居后。行走系采用六对小直径双轮缘负重轮，装有托带轮和液压减振器。箱型车体采用轧制装甲钢和[铝合金材料](https://zh.wikipedia.org/wiki/铝合金 "wikilink")，车首装甲的倾斜角度较大，防弹外形较好，车首前下方安装有大型防浪板，车尾门下方两侧具有两个[喷水推进器喷口](../Page/喷水推进器.md "wikilink")，由在車頭右側的發動機帶動噴水推進，具有较佳的浮渡性能\[3\]。
 
 ZBD-04步兵战车的車身採用常規[装甲运兵车的設計](https://zh.wikipedia.org/wiki/装甲运兵车 "wikilink")，車尾有一道单开式尾門，其大小比BMP-3发动机后置的尾車要大，因此ZBD-04步兵战车的乘坐步兵在上下車方面比BMP-3要方便，全車乘坐10人，包括車長、炮手、駕駛員和7名步兵。
 
@@ -50,7 +50,7 @@ ZBD-04的改进型（称为“502改”），最初该改型步战车照片披�
 <th><p><a href="../Page/M2布雷德利.md" title="wikilink">M2布雷德利</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Bionix步兵戰車" title="wikilink">Bionix步兵戰車</a> </p></th>
 <th><p><a href="../Page/89式裝甲戰鬥車.md" title="wikilink">89式裝甲戰鬥車</a> </p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/BMP-3步兵戰車" title="wikilink">BMP-3步兵戰車</a> </p></th>
+<th><p><a href="../Page/BMP-3步兵戰車.md" title="wikilink">BMP-3步兵戰車</a> </p></th>
 <th><p><a href="../Page/T-15步兵戰車.md" title="wikilink">T-15步兵戰車</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/BMD-4步兵戰車" title="wikilink">BMD-4步兵戰車</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/NIFV步兵戰車" title="wikilink">NIFV步兵戰車</a> </p></th>
@@ -143,20 +143,20 @@ ZBD-04的改进型（称为“502改”），最初该改型步战车照片披�
 <td><p><small>100毫米口徑低壓線膛炮<br />
 <a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">ZPT-99</a> 30毫米口径<a href="https://zh.wikipedia.org/wiki/机炮" title="wikilink">机炮</a><br />
 7.6毫米口徑同軸機槍</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/M242巨蝮式鏈炮" title="wikilink">M242</a> 25毫米機炮<br />
+<td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242</a> 25毫米機炮<br />
 <a href="../Page/BGM-71拖式飛彈.md" title="wikilink">陶式（TOW）反坦克飛彈</a><br />
 <a href="../Page/M240通用機槍.md" title="wikilink">M240C</a><a href="../Page/同軸武器.md" title="wikilink">同軸機槍</a></small></p></td>
-<td><p><small>Bionix 25：<a href="https://zh.wikipedia.org/wiki/M242巨蝮式鏈炮" title="wikilink">M242</a> 25毫米機炮<br />
+<td><p><small>Bionix 25：<a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242</a> 25毫米機炮<br />
 Bionix II：<a href="../Page/Mk_44巨蝮二式鏈炮.md" title="wikilink">Mk 44</a> 30毫米機炮<br />
 7.62毫米同轴机枪</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/歐瑞康GDF雙管高射炮" title="wikilink">90口徑35mm機砲KDE</a><br />
+<td><p><small><a href="../Page/歐瑞康GDF雙管高射炮.md" title="wikilink">90口徑35mm機砲KDE</a><br />
 <a href="../Page/79式反載具飛彈.md" title="wikilink">79式反載具飛彈</a><br />
 <a href="../Page/住友74式7.62毫米車載機槍.md" title="wikilink">74式車載7.62毫米機槍</a></small></p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="https://zh.wikipedia.org/wiki/9K116指節套環反坦克導彈" title="wikilink">AT-10反坦克飛彈</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/希普诺夫2A72机炮" title="wikilink">2A72 30毫米机炮</a></small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/希普諾夫2A42機炮" title="wikilink">2A42 30毫米機炮</a><br />
+<td><p><small><a href="../Page/希普諾夫2A42機炮.md" title="wikilink">2A42 30毫米機炮</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">PKT 7.62毫米同軸機槍</a><br />
-<a href="https://zh.wikipedia.org/wiki/9M133短號反坦克导弹" title="wikilink">9M133短號反坦克导弹</a><br />
+<a href="../Page/9M133短號反坦克导弹.md" title="wikilink">9M133短號反坦克导弹</a><br />
 Afghanit主動防禦系統</small></p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="https://zh.wikipedia.org/wiki/9K116指節套環反坦克導彈" title="wikilink">AT-10反坦克飛彈</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">2A72 30毫米机炮</a><br />
@@ -194,7 +194,7 @@ Afghanit主動防禦系統</small></p></td>
 ## 相关条目
 
   - [ZBD-97步兵战车](../Page/ZBD-97步兵战车.md "wikilink")
-  - [BMP-3步兵戰車](https://zh.wikipedia.org/wiki/BMP-3步兵戰車 "wikilink")
+  - [BMP-3步兵戰車](../Page/BMP-3步兵戰車.md "wikilink")
 
 [分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink")
 

@@ -7,8 +7,8 @@ Heart**》是5人[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wiki
 Entertainment向外界發佈了成員](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[泫雅](../Page/金泫雅.md "wikilink")
 的MV預告，之後每日發佈不同成員的影片，順序如下[祉潤](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")(3月25日)，[智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")(3月26日)，[嘉允](../Page/許嘉允.md "wikilink")(3月27日)和[昭賢](../Page/權昭賢.md "wikilink")(3月28日)。在公開概念影片，[Cube
 Entertainment宣佈另有](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4minute首張韓語正規專輯《[4Minutes
-Left](../Page/4Minutes_Left.md "wikilink")》將推出，而主打歌《Heart To
-Heart》在，之後另一主打《거울아 거울아》(鏡子啊鏡子/Mirror Mirror)在4月5日公開。
+Left](https://zh.wikipedia.org/wiki/4Minutes_Left "wikilink")》將推出，而主打歌《Heart
+To Heart》在，之後另一主打《거울아 거울아》(鏡子啊鏡子/Mirror Mirror)在4月5日公開。
 
 ## 專輯風格
 

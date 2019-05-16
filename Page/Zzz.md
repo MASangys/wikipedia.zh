@@ -1,4 +1,4 @@
-「**Zzz**」（ズズズ\[1\]）是[佐咲紗花的第](https://zh.wikipedia.org/wiki/佐咲紗花 "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年5月25日由[Lantis發售](../Page/Lantis.md "wikilink")。
+「**Zzz**」（ズズズ\[1\]）是[佐咲紗花的第](../Page/佐咲紗花.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年5月25日由[Lantis發售](../Page/Lantis.md "wikilink")。
 
 ## 概要
 

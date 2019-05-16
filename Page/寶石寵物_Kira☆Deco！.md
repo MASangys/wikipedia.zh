@@ -28,7 +28,7 @@ Stone」而來到寶石樂園的正義英雄？！
 從人間界被派遣到寶石樂園，從天而降被稱為是「正義英雄」的五名青少年。
 
   -
-    配音員：日本：[豐崎愛生](../Page/豐崎愛生.md "wikilink")／香港：[凌晞](https://zh.wikipedia.org/wiki/凌晞 "wikilink")
+    配音員：日本：[豐崎愛生](../Page/豐崎愛生.md "wikilink")／香港：[凌晞](../Page/凌晞.md "wikilink")
     寶石寵物：露比
     本作女主角。拯救世界的英雄——「Kira-Deco Five」中唯一的女性。
     [埼玉縣](../Page/埼玉縣.md "wikilink")[埼玉市](../Page/埼玉市.md "wikilink")[大宮區出身的女子中學一年級生](../Page/大宮區.md "wikilink")，為Deko
@@ -41,7 +41,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[寺島拓篤](../Page/寺島拓篤.md "wikilink")／香港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")
+    配音員：日本：[寺島拓篤](../Page/寺島拓篤.md "wikilink")／香港：[黃積權](../Page/黃積權.md "wikilink")
     寶石寵物：安祖娜
     Kira-Deco Five中的隊長。
     [群馬縣出身](../Page/群馬縣.md "wikilink")。
@@ -53,7 +53,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[小野大輔](../Page/小野大輔.md "wikilink")／香港：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+    配音員：日本：[小野大輔](../Page/小野大輔.md "wikilink")／香港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
     寶石寵物：佳娜德
     中學三年級生。[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。
     在生活中感到空虛，寶石寵物的到來是他人生中的轉捩點。
@@ -62,7 +62,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")／香港：[黃昕瑜](https://zh.wikipedia.org/wiki/黃昕瑜 "wikilink")
+    配音員：日本：[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")／香港：[黃昕瑜](../Page/黃昕瑜.md "wikilink")
     寶石寵物：奈娜
     赤城烈之弟，是Kira-Deco Five中最年輕的成員。
     小學三年級生。有強大和強烈氣勢的哥哥，哥哥的感覺令他感到窒息。
@@ -81,7 +81,7 @@ Stone」而來到寶石樂園的正義英雄？！
 ### Deco Ranain
 
   -
-    配音員：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[陳成港](../Page/陳成港.md "wikilink")
+    配音員：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[陳成港](../Page/陳成港.md "wikilink")
     哥奴的爸爸
     是Deco raisy博士的前夫
     非常喜歡黑暗，但極討厭deco
@@ -107,7 +107,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[朱子聰](../Page/朱子聰.md "wikilink")
+    配音員：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[朱子聰](../Page/朱子聰.md "wikilink")
     佳娜德的管家。
     但Bule來了後被解僱
 
@@ -120,7 +120,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[曹啟謙](../Page/曹啟謙.md "wikilink")
+    配音員：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[曹啟謙](../Page/曹啟謙.md "wikilink")
     常載露比等人們
   -
     配音員：日本：[佐佐木望](../Page/佐佐木望_\(女性聲優\).md "wikilink")／香港：[黃玉娟](../Page/黃玉娟.md "wikilink")
@@ -153,7 +153,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")／香港：[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")
+    配音員：日本：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")／香港：[吳羨婷](../Page/吳羨婷.md "wikilink")
     是茱莉娜女王
 
 <!-- end list -->
@@ -175,7 +175,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[曹啟謙](../Page/曹啟謙.md "wikilink")（幼年期）、[陳永信](../Page/陳永信.md "wikilink")
+    配音員：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[曹啟謙](../Page/曹啟謙.md "wikilink")（幼年期）、[陳永信](../Page/陳永信.md "wikilink")
 
 <!-- end list -->
 
@@ -244,7 +244,7 @@ Stone」而來到寶石樂園的正義英雄？！
 ### 反派角色
 
   -
-    配音員：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[關令翹](../Page/關令翹.md "wikilink")
+    配音員：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[關令翹](../Page/關令翹.md "wikilink")
     本季的敵人。
     自稱「黑暗天使」。語尾是「黑暗」。假裝成「**哥奴美**」老師以監視露比。
 
@@ -294,7 +294,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")／香港：[魏惠娥](../Page/魏惠娥.md "wikilink")
+    配音員：日本：[吉田仁美](../Page/吉田仁美.md "wikilink")／香港：[魏惠娥](../Page/魏惠娥.md "wikilink")
 
 <!-- end list -->
 
@@ -309,7 +309,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[早川真由](https://zh.wikipedia.org/wiki/早川真由 "wikilink")／香港：[羅杏芝](../Page/羅杏芝.md "wikilink")
+    配音員：日本：[早川真由](../Page/早川真由.md "wikilink")／香港：[羅杏芝](../Page/羅杏芝.md "wikilink")
 
 <!-- end list -->
 
@@ -319,12 +319,12 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[金田晶](../Page/金田晶.md "wikilink")／香港：[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")
+    配音員：日本：[金田晶](../Page/金田晶.md "wikilink")／香港：[吳羨婷](../Page/吳羨婷.md "wikilink")
 
 <!-- end list -->
 
   -
-    配音員：日本：[金田晶](../Page/金田晶.md "wikilink")／香港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    配音員：日本：[金田晶](../Page/金田晶.md "wikilink")／香港：[何寶珊](../Page/何寶珊.md "wikilink")
 
 <!-- end list -->
 
@@ -349,7 +349,7 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[MAKO](../Page/MAKO.md "wikilink")／香港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    配音員：日本：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")／香港：[何寶珊](../Page/何寶珊.md "wikilink")
 
 <!-- end list -->
 
@@ -384,12 +384,12 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[內海慶子](https://zh.wikipedia.org/wiki/內海慶子 "wikilink")
+    配音員：日本：[內海慶子](../Page/內海慶子.md "wikilink")
 
 <!-- end list -->
 
   -
-    配音員：日本：[田丸篤志](https://zh.wikipedia.org/wiki/田丸篤志 "wikilink")／香港：[李凱傑](../Page/李凱傑.md "wikilink")
+    配音員：日本：[田丸篤志](../Page/田丸篤志.md "wikilink")／香港：[李凱傑](../Page/李凱傑.md "wikilink")
 
 <!-- end list -->
 
@@ -409,12 +409,12 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日本：[尾崎惠](https://zh.wikipedia.org/wiki/尾崎惠 "wikilink")／香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
+    配音員：日本：[尾崎惠](../Page/尾崎惠.md "wikilink")／香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
 
 <!-- end list -->
 
   -
-    配音員：日本：[茅野愛衣](../Page/茅野愛衣.md "wikilink")／香港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    配音員：日本：[茅野愛衣](../Page/茅野愛衣.md "wikilink")／香港：[何寶珊](../Page/何寶珊.md "wikilink")
 
 ### 甜品寵物
 
@@ -424,12 +424,12 @@ Stone」而來到寶石樂園的正義英雄？！
 <!-- end list -->
 
   -
-    配音員：日：[藤田咲](../Page/藤田咲.md "wikilink")／香港：[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")
+    配音員：日：[藤田咲](../Page/藤田咲.md "wikilink")／香港：[吳羨婷](../Page/吳羨婷.md "wikilink")
 
 <!-- end list -->
 
   -
-    配音員：日：[MAKO](../Page/MAKO.md "wikilink")（馬高）、[三宅麻理惠](../Page/三宅麻理惠.md "wikilink")（嘉高）、[大龜明日香](../Page/大龜明日香.md "wikilink")（羅高）、[藤田咲](../Page/藤田咲.md "wikilink")（歌瓏）
+    配音員：日：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")（馬高）、[三宅麻理惠](../Page/三宅麻理惠.md "wikilink")（嘉高）、[大龜明日香](../Page/大龜明日香.md "wikilink")（羅高）、[藤田咲](../Page/藤田咲.md "wikilink")（歌瓏）
 
 <!-- end list -->
 
@@ -493,7 +493,7 @@ Stone」而來到寶石樂園的正義英雄？！
   - [監製](https://zh.wikipedia.org/wiki/監製 "wikilink")：小山佑介（東京電視台，第1話 -
     第41話） → 吉野文（東京電視台，第42話 - 第52話）、大野亮介、可知秀幸
   - [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[製作](../Page/製作.md "wikilink")：[STUDIO
-    COMET](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")
+    COMET](../Page/STUDIO_COMET.md "wikilink")
   - [製作](../Page/製作.md "wikilink")：[東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、We've
 
 ## 主題曲
@@ -1202,7 +1202,7 @@ Stone」而來到寶石樂園的正義英雄？！
 </tr>
 <tr class="even">
 <td><p>日本全域</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kids_Station" title="wikilink">Kids Station</a></p></td>
+<td><p><a href="../Page/Kids_Station.md" title="wikilink">Kids Station</a></p></td>
 <td><p>2013年4月15日 - 6月24日<br />
 2013年6月25日</p></td>
 <td><p>星期一至五 6:00 - 6:30<br />

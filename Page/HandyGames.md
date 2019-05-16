@@ -11,8 +11,8 @@ Bausewein。截止至2010年，公司员工数为35人。HandyGames公司一直�
 
 以下是HandyGames公司发行的游戏和软件平台：\[2\]
 
-  - [iPhone](../Page/iPhone.md "wikilink")/[iPod
-    touch](../Page/iPod_touch.md "wikilink")/[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
+  - [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")/[iPod
+    touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")/[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
   - [BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")
   - [Android](../Page/Android.md "wikilink")
   - [Windows Mobile](../Page/Windows_Mobile.md "wikilink")

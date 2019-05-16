@@ -105,7 +105,7 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 <td><p><a href="../Page/湯姆·雷曼.md" title="wikilink">湯姆·雷曼</a></p></td>
 <td><p>湯姆·雷曼</p></td>
 <td><p>泰格·伍兹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/史蒂夫·琼斯" title="wikilink">史蒂夫·琼斯</a></p></td>
+<td><p><a href="../Page/史蒂夫·琼斯.md" title="wikilink">史蒂夫·琼斯</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>

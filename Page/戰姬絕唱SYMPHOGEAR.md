@@ -213,7 +213,7 @@ Wing）」舉行了風靡萬千歌迷的演唱會，豈料演唱第一首歌曲�
 
   -
     SYMPHOGEAR系統開發人員。提倡「櫻井理論」的天才研究者，同時負責管理運送至本部的聖遺物及本部的防衛系統，SYMPHOGEAR適合者的健康檢查等。知道許多SYMPHOGEAR裝者的事情，有神祕的力量可以抵擋Noise的攻擊。
-    平常開一輛粉紅色的雙門[Vitz](https://zh.wikipedia.org/wiki/豐田Yaris "wikilink")，開車方式非常瘋狂。
+    平常開一輛粉紅色的雙門[Vitz](../Page/豐田Yaris.md "wikilink")，開車方式非常瘋狂。
     真正身份為「菲尼」，象徵著終結之名。受美國政府之託，背著特異災害對策機動部第二組洩密並研究，其後遭美國政府背叛並暗殺，但未遂。可以輕易使用所羅門之杖召喚Noise，亦能使用所羅門之杖穿上青銅蛇之鎧。
     事實上菲尼是古代即在的意識，一直附在許多歷史名人上藉以操控他們完成目的——击毁超古代人Custodian监视人类的牢笼——月球。
     第13話用最後的力量把月球碎片扯進地球重力範圍後腐朽煙滅，並在死前揚言只要這世界還存在她就能再轉移到別人身上，但對響說出一句：「請相信妳心中的歌聲」，已接納了響。
@@ -318,7 +318,7 @@ Wing）」舉行了風靡萬千歌迷的演唱會，豈料演唱第一首歌曲�
   -
     第二季登場人物。F.I.S.的生物化學專家，同時從事櫻井理論的分析研究。LiNKER和ANTI-LiNKER的主要開發人員之一。F.I.S.正是通過應用他的知識和研究才有了將聖遺物和人體結合的能力。
     對英雄有憧憬，希望成為拯救世界的英雄。為了達成理想而試圖毀滅世界，以便給自己創造舞台，同時是一個目中無人、自以為是英雄的瘋子。
-    在開始時偽裝為一名普通的學者，由響及克莉絲護送其及所羅門之杖至[岩國基地](https://zh.wikipedia.org/wiki/岩國飛行場 "wikilink")，並在到達基地、響及克莉絲離去後奪去所羅門之杖，自導自演了一場基地被Noise摧毀的事件。其後更在Queens
+    在開始時偽裝為一名普通的學者，由響及克莉絲護送其及所羅門之杖至[岩國基地](../Page/岩國飛行場.md "wikilink")，並在到達基地、響及克莉絲離去後奪去所羅門之杖，自導自演了一場基地被Noise摧毀的事件。其後更在Queens
     Of Music演唱會釋放出大量Noise。
     在Frontier啟動後將Nephilim的細胞及LiNKER注射至手中並獲得力量。期間因所羅門之杖被克莉絲及翼聯手奪去，因而憤而找瑪莉亞出氣。最後被趕到Frontier的風鳴弦十郎和緒川慎次擊敗並逮捕。本人一心尋死，卻被弦十郎告知「你不會成為毀滅世界的惡魔，也不會成為為理想殉道的英雄。我們會讓你做為一個普通人接受普通人的審判」而被否定了扭曲的理想。
     在Frontier事件過後被囚禁於「深淵的龍宮」。其後因卡蘿等人的突襲以及與克莉絲等人的交戰，導致囚牢被破，並救了差點被飛彈攻擊的卡蘿。其後與卡蘿同行，並利用Nephilim的力量將「蒂福熱城堡」啟動，但事後因卡蘿的計劃與自己的英雄理想有出入，被其拋棄。之後利用自己所掌握的城堡機能誘導瑪麗亞、調及切歌前往自己的所在位置，並與她們進行交易及與艾芙奈恩等人合作，以逆轉城堡分解世界的機能及重構世界。在成功重構世界後被卡蘿所釋出的光線擊中所在地，被瓦礫擊中，最後在托付LiNKER的資料予瑪麗亞後滿足地死去。
@@ -887,7 +887,7 @@ Evan Call）</p></td>
 </tr>
 <tr class="even">
 <td><p>片頭曲</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Synchrogazer" title="wikilink">Synchrogazer</a></strong></p></td>
+<td><p><strong><a href="../Page/Synchrogazer.md" title="wikilink">Synchrogazer</a></strong></p></td>
 <td><p><a href="../Page/水樹奈奈.md" title="wikilink">水樹奈奈</a></p></td>
 <td><p><a href="../Page/上松範康.md" title="wikilink">上松範康</a></p></td>
 <td><p>水樹奈奈</p></td>
@@ -914,7 +914,7 @@ Evan Call）</p></td>
 </tr>
 <tr class="odd">
 <td><p>片頭曲</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Vitalization" title="wikilink">Vitalization</a></strong></p></td>
+<td><p><strong><a href="../Page/Vitalization.md" title="wikilink">Vitalization</a></strong></p></td>
 <td><p>水樹奈奈</p></td>
 <td><p>上松範康</p></td>
 <td><p>上松範康<br />
@@ -1479,7 +1479,7 @@ Evan Call</p></td>
 <td></td>
 <td><p>上松範康</p></td>
 <td><p>Evan Call</p></td>
-<td><p>卡蘿·瑪爾斯·丁海姆(<a href="https://zh.wikipedia.org/wiki/水瀨祈" title="wikilink">水瀨祈</a>)</p></td>
+<td><p>卡蘿·瑪爾斯·丁海姆(<a href="../Page/水瀨祈.md" title="wikilink">水瀨祈</a>)</p></td>
 <td><p>11、12</p></td>
 <td></td>
 </tr>
@@ -1822,7 +1822,7 @@ Evan Call</p></td>
 <td><p>下田正美</p></td>
 <td><p>安田賢司</p></td>
 <td><p>柳瀨雄之、梶浦紳一郎<br />
-樋口博美、<a href="https://zh.wikipedia.org/wiki/森山雄治" title="wikilink">森山雄治</a></p></td>
+樋口博美、<a href="../Page/森山雄治.md" title="wikilink">森山雄治</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

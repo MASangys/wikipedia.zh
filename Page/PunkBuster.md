@@ -6,7 +6,7 @@
 Balance公司開發PunkBuster反作弊軟體。\[1\]
 
 PunkBuster的第一個測試版本發佈於2000年9月21日，應用在第一人稱射擊遊戲[戰慄時空上](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink")。自從該遊戲發售以來，開發商[Valve便為了對抗作弊而長期苦戰](https://zh.wikipedia.org/wiki/Valve "wikilink")。第一個正式整合並採用PunkBuster反作弊機制的遊戲是[id
-Software的](../Page/id_Software.md "wikilink")[重返德軍總部](https://zh.wikipedia.org/wiki/重返德軍總部 "wikilink")。
+Software的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[重返德軍總部](https://zh.wikipedia.org/wiki/重返德軍總部 "wikilink")。
 
 ## 功能
 
@@ -57,7 +57,7 @@ PunkBuster也禁止未擁有管理員權限的Windows用戶連接到任何賽局
   - *[戰地風雲2](https://zh.wikipedia.org/wiki/戰地風雲2 "wikilink")*
   - *[戰地風雲2142](../Page/戰地風雲2142.md "wikilink")*
   - *[戰地風雲3](../Page/戰地風雲3.md "wikilink")*\[4\]
-  - *[戰地風雲4](https://zh.wikipedia.org/wiki/戰地風雲4 "wikilink")*
+  - *[戰地風雲4](../Page/戰地風雲4.md "wikilink")*
   - *[戰地風雲：惡名昭彰2](https://zh.wikipedia.org/wiki/戰地風雲：惡名昭彰2 "wikilink")*
   - *[戰地風雲：英雄](../Page/戰地風雲：英雄.md "wikilink")*\[5\]
   - *[戰地風雲Play4Free](https://zh.wikipedia.org/wiki/戰地風雲Play4Free "wikilink")*
@@ -72,7 +72,7 @@ PunkBuster也禁止未擁有管理員權限的Windows用戶連接到任何賽局
   - <s>*[Enemy Territory: Quake
     Wars](https://zh.wikipedia.org/wiki/Enemy_Territory:_Quake_Wars "wikilink")*</s>
   - <s>*[極地戰嚎](https://zh.wikipedia.org/wiki/極地戰嚎 "wikilink")*</s>
-  - <s>*[極地戰嚎2](https://zh.wikipedia.org/wiki/極地戰嚎2 "wikilink")*</s>
+  - <s>*[極地戰嚎2](../Page/極地戰嚎2.md "wikilink")*</s>
   - <s>*[戰慄突擊](https://zh.wikipedia.org/wiki/戰慄突擊 "wikilink")*</s>
   - <s>*[F.E.A.R. Extraction
     Point](https://zh.wikipedia.org/wiki/F.E.A.R._Extraction_Point "wikilink")*</s>

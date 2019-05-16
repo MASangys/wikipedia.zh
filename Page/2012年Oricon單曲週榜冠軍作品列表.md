@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p>1月30日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BUMP_OF_CHICKEN" title="wikilink">BUMP OF CHICKEN</a></p></td>
+<td><p><a href="../Page/BUMP_OF_CHICKEN.md" title="wikilink">BUMP OF CHICKEN</a></p></td>
 <td><p>14.9</p></td>
 <td><p>1</p></td>
 </tr>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/STILL" title="wikilink">STILL</a></p></td>
+<td><p><a href="../Page/STILL.md" title="wikilink">STILL</a></p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
 <td><p>13.9</p></td>
 <td><p>1</p></td>
@@ -192,7 +192,7 @@
 </tr>
 <tr class="even">
 <td><p>6月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/就是愛。" title="wikilink">就是愛。</a></p></td>
+<td><p><a href="../Page/就是愛。.md" title="wikilink">就是愛。</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>26.2</p></td>
 <td><p>1</p></td>
@@ -227,14 +227,14 @@
 </tr>
 <tr class="odd">
 <td><p>7月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛的嘉卡芭娜" title="wikilink">愛的嘉卡芭娜</a></p></td>
+<td><p><a href="../Page/愛的嘉卡芭娜.md" title="wikilink">愛的嘉卡芭娜</a></p></td>
 <td><p><a href="../Page/NEWS.md" title="wikilink">NEWS</a></p></td>
 <td><p>24.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>8月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ER_(關西傑尼斯8單曲)" title="wikilink">ER</a></p></td>
+<td><p><a href="../Page/ER_(關西傑尼斯8單曲).md" title="wikilink">ER</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>33.0</p></td>
 <td><p>1</p></td>
@@ -276,7 +276,7 @@
 </tr>
 <tr class="even">
 <td><p>9月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青鼻涕" title="wikilink">青鼻涕</a></p></td>
+<td><p><a href="../Page/青鼻涕.md" title="wikilink">青鼻涕</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>20.8</p></td>
 <td><p>1</p></td>
@@ -318,7 +318,7 @@
 </tr>
 <tr class="even">
 <td><p>10月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/懦弱的化妝舞會" title="wikilink">懦弱的化妝舞會</a></p></td>
+<td><p><a href="../Page/懦弱的化妝舞會.md" title="wikilink">懦弱的化妝舞會</a></p></td>
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃with</a><a href="../Page/入山杏奈.md" title="wikilink">杏</a><a href="https://zh.wikipedia.org/wiki/川荣李奈" title="wikilink">李</a><a href="https://zh.wikipedia.org/wiki/加藤玲奈" title="wikilink">玲</a></p></td>
 <td><p>6.8</p></td>
 <td><p>1</p></td>
@@ -346,14 +346,14 @@
 </tr>
 <tr class="even">
 <td><p>11月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛的節奏" title="wikilink">愛的節奏</a></p></td>
+<td><p><a href="../Page/愛的節奏.md" title="wikilink">愛的節奏</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>25.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/發光體_(渡邊麻友單曲)" title="wikilink">發光體</a></p></td>
+<td><p><a href="../Page/發光體_(渡邊麻友單曲).md" title="wikilink">發光體</a></p></td>
 <td><p><a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a></p></td>
 <td><p>9.2</p></td>
 <td><p>1</p></td>
@@ -361,13 +361,13 @@
 <tr class="even">
 <td><p>12月10日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MONSTERS" title="wikilink">The MONSTERS</a></p></td>
+<td><p><a href="../Page/MONSTERS.md" title="wikilink">The MONSTERS</a></p></td>
 <td><p>16.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永遠的壓力" title="wikilink">永遠的壓力</a></p></td>
+<td><p><a href="../Page/永遠的壓力.md" title="wikilink">永遠的壓力</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>107.3</p></td>
 <td><p>1</p></td>
@@ -381,7 +381,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/制服模特兒" title="wikilink">制服模特兒</a></p></td>
+<td><p><a href="../Page/制服模特兒.md" title="wikilink">制服模特兒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>23.3</p></td>
 <td><p>1</p></td>

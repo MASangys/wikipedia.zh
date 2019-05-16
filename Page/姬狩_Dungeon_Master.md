@@ -1,5 +1,5 @@
 《**姬狩 Dungeon
-Meister**》(姫狩りダンジョンマイスター)為[Eushully社於](../Page/Eushully.md "wikilink")2009年4月24日時發表的十八禁[角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，獲得了「萌えゲーアワード2009大賞」程式賞的金賞。\[1\]
+Meister**》(姫狩りダンジョンマイスター)為[Eushully社於](../Page/Eushully.md "wikilink")2009年4月24日時發表的十八禁[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，獲得了「萌えゲーアワード2009大賞」程式賞的金賞。\[1\]
 
 ## 故事
 

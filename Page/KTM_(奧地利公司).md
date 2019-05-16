@@ -125,7 +125,7 @@ KTM原本打算每年只會製造500台X-Bow，但由於需求甚殷，故此KTM
 
 X-Bow參加了2008年度的[國際汽車聯盟GT](https://zh.wikipedia.org/wiki/國際汽車聯盟 "wikilink")4冠軍賽超級跑車組的賽事\[12\]，更在[意大利蒙札賽車場](../Page/意大利.md "wikilink")（[Autodromo
 Nazionale
-Monza](https://zh.wikipedia.org/wiki/蒙扎国家赛车场 "wikilink")）登上頒獎台\[13\]，又在[法國的保羅](https://zh.wikipedia.org/wiki/法國 "wikilink")·阿瑪格納克賽車場（）的濕滑賽道上取得資格賽首發桿位\[14\]。
+Monza](../Page/蒙扎国家赛车场.md "wikilink")）登上頒獎台\[13\]，又在[法國的保羅](https://zh.wikipedia.org/wiki/法國 "wikilink")·阿瑪格納克賽車場（）的濕滑賽道上取得資格賽首發桿位\[14\]。
 
 獲得國際汽車聯盟認證的KTM X-BOW
 GT4型號車\[15\]可作賽車用途，自2008年起便競逐每年的[世界車王爭霸賽](https://zh.wikipedia.org/wiki/世界車王爭霸賽 "wikilink")（Race

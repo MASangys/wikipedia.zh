@@ -327,9 +327,9 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
   - 監督：津田尚克
   - 系列構成、劇本：根元歲三
   - 劇情、設定監修：[佐藤卓哉](../Page/佐藤卓哉.md "wikilink")
-  - 人物設定、總作畫監督：[飯塚晴子](https://zh.wikipedia.org/wiki/飯塚晴子 "wikilink")
+  - 人物設定、總作畫監督：[飯塚晴子](../Page/飯塚晴子.md "wikilink")
   - 道具設計：岩畑剛一
-  - 妖怪設定：[中原禮](https://zh.wikipedia.org/wiki/中原禮 "wikilink")
+  - 妖怪設定：[中原禮](../Page/中原禮.md "wikilink")
   - 美術監督：鈴木武志
   - 美術設定：
   - 色彩設計：村田惠里子
@@ -416,7 +416,7 @@ JOKER》2011年8月號公佈電視動畫化的消息。\[5\]2012年1月開始播
 <td><p>平井義通</p></td>
 <td><p>蘇武裕子<br />
 西澤千惠</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/飯塚晴子" title="wikilink">飯塚晴子</a></p></td>
+<td><p><a href="../Page/飯塚晴子.md" title="wikilink">飯塚晴子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2話</p></td>

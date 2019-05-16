@@ -1,4 +1,4 @@
-**f(x)參演MV列表**主要列舉[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[f(x)](../Page/f\(x\)_\(組合\).md "wikilink")**參演的MV。
+**f(x)參演MV列表**主要列舉[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")**參演的MV。
 
 ## f(x) 的歌曲
 
@@ -8,13 +8,13 @@
 | :----: | :--------: | :-----------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
 | 2009年  |    9月2日    |                           LA chA TA                           | [LA chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink") |                       f(x)                        |                        韓語                        | [1](https://www.youtube.com/watch?v=H7MHZpSNJQc) |
 | 11月5日  |   Chu\~♡   | [Chu\~♡](https://zh.wikipedia.org/wiki/Chu_\(歌曲\) "wikilink") |        [2](https://www.youtube.com/watch?v=Cnz2n5VcV4Q)         |                                                   |                                                  |                                                  |
-| 2010年  |    5月4日    |                            NU ABO                             |             [NU ABO](../Page/NU_ABO.md "wikilink")              | [3](https://www.youtube.com/watch?v=E8ZrPFMr_nY)  |                                                  |                                                  |
+| 2010年  |    5月4日    |                            NU ABO                             |    [NU ABO](https://zh.wikipedia.org/wiki/NU_ABO "wikilink")    | [3](https://www.youtube.com/watch?v=E8ZrPFMr_nY)  |                                                  |                                                  |
 | 2011年  |   4月18日    |                      Pinocchio (Danger)                       |   [Pinocchio](../Page/Pinocchio_\(f\(x\)_專輯\).md "wikilink")    | [4](https://www.youtube.com/watch?v=kKS12iGFyEA)  |                                                  |                                                  |
 | 6月17日  | Hot Summer | [Hot Summer](../Page/Hot_Summer_\(Repackage\).md "wikilink")  |        [5](https://www.youtube.com/watch?v=z-rftpZ7kCY)         |                                                   |                                                  |                                                  |
 | 2012年  |   6月11日    |                        Electric Shock                         |     [Electric Shock](../Page/Electric_Shock.md "wikilink")      | [6](https://www.youtube.com/watch?v=n8I8QGFA1oM)  |                                                  |                                                  |
 |  8月4日  | Hot Summer |             SUMMER SPECIAL Pinocchio / Hot Summer             |                               日語                                | [7](https://www.youtube.com/watch?v=qozQuXo4Tfs)  |                                                  |                                                  |
-| 2013年  |   7月24日    |                        Rum Pum Pum Pum                        | [Pink Tape](https://zh.wikipedia.org/wiki/Pink_Tape "wikilink") |                        韓語                         | [8](https://www.youtube.com/watch?v=xnku4o3tRB4) |                                                  |
-| 2014年  |    7月2日    |                           Red Light                           | [Red Light](https://zh.wikipedia.org/wiki/Red_Light "wikilink") | [9](https://www.youtube.com/watch?v=iv-8-EgPEY0)  |                                                  |                                                  |
+| 2013年  |   7月24日    |                        Rum Pum Pum Pum                        |          [Pink Tape](../Page/Pink_Tape.md "wikilink")           |                        韓語                         | [8](https://www.youtube.com/watch?v=xnku4o3tRB4) |                                                  |
+| 2014年  |    7月2日    |                           Red Light                           |          [Red Light](../Page/Red_Light.md "wikilink")           | [9](https://www.youtube.com/watch?v=iv-8-EgPEY0)  |                                                  |                                                  |
 | 2015年  |   7月22日    |                      Pinocchio (Danger)                       |              SUMMER SPECIAL Pinocchio / Hot Summer              |                        日語                         |                                                  |                                                  |
 | 10月26日 |  4 Walls   |           [4 Walls](../Page/4_Walls.md "wikilink")            |                               韓語                                | [10](https://www.youtube.com/watch?v=4j7Umwfx60Q) |                                                  |                                                  |
 |        |            |                                                               |                                                                 |                                                   |                                                  |                                                  |
@@ -563,7 +563,7 @@
 <td style="text-align: center;"><p>2013年</p></td>
 <td style="text-align: center;"><p>1月24日</p></td>
 <td style="text-align: center;"><p>Spring Will Probably Come</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Star_(韓國歌手)" title="wikilink">星</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Star_(韓國歌手).md" title="wikilink">星</a></p></td>
 <td style="text-align: center;"><p><a href="https://www.youtube.com/watch?v=eBaaB67e9cM">42</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -600,7 +600,7 @@ Beautiful Than Farewell</p></td>
 <td style="text-align: center;"><p>2015年</p></td>
 <td style="text-align: center;"><p>3月31日</p></td>
 <td style="text-align: center;"><p>Can You Feel It?</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Super_Junior_Donghae_&amp;_Eunhyuk" title="wikilink">Super Junior-D&amp;E</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Super_Junior_Donghae_&amp;_Eunhyuk.md" title="wikilink">Super Junior-D&amp;E</a></p></td>
 <td style="text-align: center;"><p>Victoria、Amber、Luna</p></td>
 <td style="text-align: center;"><p>韓語</p></td>
 <td style="text-align: center;"><p><a href="https://www.youtube.com/watch?v=XNxdSYXNEtw&amp;feature=youtu.be&amp;t=1m48s">46</a></p></td>

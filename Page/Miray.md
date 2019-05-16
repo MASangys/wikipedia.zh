@@ -12,7 +12,7 @@ management所屬](https://zh.wikipedia.org/wiki/avex_management "wikilink")。[�
   - Summer for Life（2007年2月6日） ※「miray × [HOTTIE
     CAT](https://zh.wikipedia.org/wiki/HOTTIE_CAT "wikilink")」名義
   - Jump Pump（2009年7月29日） ※[rhythm
-    zone成為主流首次登台](../Page/rhythm_zone.md "wikilink")
+    zone成為主流首次登台](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")
   - Foreplay（2009年11月25日）
 
 ### 單曲

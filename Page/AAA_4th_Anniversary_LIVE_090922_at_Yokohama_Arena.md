@@ -1,6 +1,6 @@
 「**AAA 4th Anniversary LIVE 090922 at Yokohama
 Arena**」是[日本的](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2010年3月3日推出的DVD，由[avex
-trax發行](../Page/avex_trax.md "wikilink")。
+trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

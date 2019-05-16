@@ -36,7 +36,7 @@
 <td><p>Shiroishi-Eki</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鹿部車站_(福岡縣)" title="wikilink">鹿部車站 (福岡縣)</a></p></td>
+<td><p><a href="../Page/鹿部車站_(福岡縣).md" title="wikilink">鹿部車站 (福岡縣)</a></p></td>
 <td></td>
 <td><p>Shishibu-Eki</p></td>
 </tr>

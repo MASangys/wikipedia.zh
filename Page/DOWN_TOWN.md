@@ -4,7 +4,7 @@ Town**（）是[日本](../Page/日本.md "wikilink")[搞笑雙人組](https://z
 ## 成員
 
   - [濱田雅功](../Page/濱田雅功.md "wikilink") -
-    擔當[吐槽的角色](https://zh.wikipedia.org/wiki/吐槽 "wikilink")，站的位置是右邊。
+    擔當[吐槽的角色](../Page/吐槽.md "wikilink")，站的位置是右邊。
   - [松本人志](../Page/松本人志.md "wikilink") -
     擔當裝傻的角色，站的位置是左邊，是[漫才劇本的創作者](../Page/漫才.md "wikilink")。
 

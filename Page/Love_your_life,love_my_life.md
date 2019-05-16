@@ -19,7 +19,8 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 3.  **Alright** \[4:33\]
       -
         作詞・作曲: Keito Blow、編曲: 岸村正実
-4.  **[何かが空を飛んでくる](../Page/love_your_life.md "wikilink")** \[4:33\]
+4.  **[何かが空を飛んでくる](https://zh.wikipedia.org/wiki/love_your_life "wikilink")**
+    \[4:33\]
       -
         作詞・作曲:
         [谷山浩子](https://zh.wikipedia.org/wiki/谷山浩子 "wikilink")、編曲：[石井AQ](https://zh.wikipedia.org/wiki/石井AQ "wikilink")
@@ -49,7 +50,9 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 12. **君にありがとう** \[5:54\]
       -
         作詞・作曲・編曲：[奥華子](https://zh.wikipedia.org/wiki/奥華子 "wikilink")
-13. **[love your life](../Page/love_your_life.md "wikilink")** \[5:01\]
+13. **[love your
+    life](https://zh.wikipedia.org/wiki/love_your_life "wikilink")**
+    \[5:01\]
       -
         作曲・編曲：[Rie fu](../Page/Rie_fu.md "wikilink")、編曲：馬場一嘉
 

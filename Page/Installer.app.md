@@ -1,4 +1,4 @@
-**Installer**是一个免费的[iPhone软件安装器](../Page/iPhone.md "wikilink")\[1\]，由RiPDev（Russia
+**Installer**是一个免费的[iPhone软件安装器](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[1\]，由RiPDev（Russia
 iPhone
 Development）开发团队开发。它在2007年的夏季发布，直到2009年的夏季停止维护。它能允许用户安装第三方软件到系统软件目录。用户能够从许多开发者提供的软件源通过[Wi-Fi或蜂窝数据网直接安装到iPhone中去](../Page/Wi-Fi.md "wikilink")，并且完全不需要电脑。\[2\]\[3\]它可以通过“[越狱](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")”来安装到iPhone上。用户可以浏览一系列内置在Installer中的软件并且找到想要安装的软件。\[4\]2009年6月，RipDev最终赞成开发一个不同的安装包管理器（安装器）名叫“Icy”。\[5\]
 

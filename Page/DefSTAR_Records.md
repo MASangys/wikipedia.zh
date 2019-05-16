@@ -17,7 +17,7 @@ Records**是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂
 
 ### 現在的所屬藝人
 
-  - [amplified](../Page/amplified.md "wikilink")
+  - [amplified](https://zh.wikipedia.org/wiki/amplified "wikilink")
   - [Yellow
     Cherry](https://zh.wikipedia.org/wiki/Yellow_Cherry "wikilink")
   - [immi](https://zh.wikipedia.org/wiki/immi "wikilink")（所屬事務所[GRANDFUNK
@@ -41,11 +41,11 @@ Records**是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂
   - [ON/OFF](https://zh.wikipedia.org/wiki/ON/OFF "wikilink")（所屬事務所[マジソンミュージックアカデミー](https://zh.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")）
   - [ROOKiEZ is
     PUNK'D](https://zh.wikipedia.org/wiki/ROOKiEZ_is_PUNK'D "wikilink")
-  - [kanon×kanon](../Page/kanon×kanon.md "wikilink")
+  - [kanon×kanon](https://zh.wikipedia.org/wiki/kanon×kanon "wikilink")
   - [mc2](https://zh.wikipedia.org/wiki/mc2_\(音樂\) "wikilink")
   - [AGGRESSIVE DOGS a.k.a
     UZI-ONE](https://zh.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink")
-  - [Aimer](https://zh.wikipedia.org/wiki/Aimer "wikilink")
+  - [Aimer](../Page/Aimer.md "wikilink")
   - [GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
 
 ### 過去所屬的藝人
@@ -57,7 +57,7 @@ Records**是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂
       - [奥田美和子](https://zh.wikipedia.org/wiki/奥田みわ "wikilink")（[BMG
         JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")→Cocoon）
       - [Sowelu](../Page/Sowelu.md "wikilink")（[rhythm
-        zone](../Page/rhythm_zone.md "wikilink")）
+        zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")）
       - [NORTHERN
         BRIGHT](https://zh.wikipedia.org/wiki/NORTHERN_BRIGHT "wikilink")（Sony
         Records→[LD\&K

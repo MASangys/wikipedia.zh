@@ -3,7 +3,7 @@
 的附加歌曲。《**You Are My
 Destiny**》由成員[Luna和](../Page/朴善英.md "wikilink")[Krystal合唱](../Page/鄭秀晶.md "wikilink")。
 
-[f(x)於](../Page/f\(x\)_\(組合\).md "wikilink")2009年11月6日通過[KBS音樂銀行展現Comeback舞台](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")。11月15日在首爾永登浦時代廣場舉行f(x)首次簽售會\[1\]。11月23日，成員Amber、Sulli和Krystal因患上甲型H1N1流感暫停宣傳活動。
+[f(x)於](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")2009年11月6日通過[KBS音樂銀行展現Comeback舞台](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")。11月15日在首爾永登浦時代廣場舉行f(x)首次簽售會\[1\]。11月23日，成員Amber、Sulli和Krystal因患上甲型H1N1流感暫停宣傳活動。
 
 2010年1月26日，於法國MIDEM K-POP之夜唱《Chu\~♡》的英文版本。2月至4月期間[Super
 Junior多次在](../Page/Super_Junior.md "wikilink")[Super Show

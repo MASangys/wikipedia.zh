@@ -1,18 +1,18 @@
-**[iOS](../Page/iOS.md "wikilink")
-5**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第五個主要版本](../Page/iOS.md "wikilink")，取代前代作業系統[iOS
-4](../Page/iOS_4.md "wikilink")。iOS
+**[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
+5**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第五個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iOS
+4](https://zh.wikipedia.org/wiki/iOS_4 "wikilink")。iOS
 5於2011年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年10月12日正式推出。繼任者為2012年9月19日推出的[iOS
-6](../Page/iOS_6.md "wikilink")\[1\]。
+6](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")\[1\]。
 
 iOS
-5首次引入[通知中心](https://zh.wikipedia.org/wiki/通知中心 "wikilink")，整合應用程式通知。[MobileMe的繼任者](../Page/MobileMe.md "wikilink")，[雲端硬碟服務](../Page/网络硬盘.md "wikilink")[iCloud也在iOS](../Page/iCloud.md "wikilink")
+5首次引入[通知中心](https://zh.wikipedia.org/wiki/通知中心 "wikilink")，整合應用程式通知。[MobileMe的繼任者](../Page/MobileMe.md "wikilink")，[雲端硬碟服務](../Page/网络硬盘.md "wikilink")[iCloud也在iOS](https://zh.wikipedia.org/wiki/iCloud "wikilink")
 5中首次登場，為[蘋果裝置提供免費儲存空間](https://zh.wikipedia.org/wiki/IDevice "wikilink")，並同步資料至同一帳號所有裝置\[2\]。iOS
-5也是首個不必依靠[iTunes電腦端](../Page/iTunes.md "wikilink")，能以無線方式安裝更新的iOS版本。iOS
+5也是首個不必依靠[iTunes電腦端](https://zh.wikipedia.org/wiki/iTunes "wikilink")，能以無線方式安裝更新的iOS版本。iOS
 5為[iPad引進了多工處理手勢](https://zh.wikipedia.org/wiki/iPad "wikilink")，可以通過手指及手勢的變化，使用原本需要繁複操作的功能。另外，iOS
 5也在鎖定螢幕增加了相機捷徑。
 
 iOS 5更新造成部分[iPhone
-4S效能下降及通話問題](../Page/iPhone_4S.md "wikilink")，雖然蘋果在隨後的更新修補漏洞，但仍使部分用戶不滿。
+4S效能下降及通話問題](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")，雖然蘋果在隨後的更新修補漏洞，但仍使部分用戶不滿。
 
 ## 歷史
 
@@ -56,7 +56,7 @@ iOS
 ### 無線升級
 
 在iOS
-5推出之前，要更新系統或啟用新裝置，都只能透過[iTunes電腦端處理](../Page/iTunes.md "wikilink")\[73\]；iOS
+5推出之前，要更新系統或啟用新裝置，都只能透過[iTunes電腦端處理](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[73\]；iOS
 5引入了無線升級機能，可以透過網路直接下載更新檔至裝置中並更新，及啟用新裝置\[74\]\[75\]\[76\]。
 
 ### 社群媒體整合
@@ -69,7 +69,7 @@ Maps應用程式中也出現了](https://zh.wikipedia.org/wiki/Google_Maps "wiki
 
 在iOS
 5中，為[iPad引進了多工處理手勢](https://zh.wikipedia.org/wiki/iPad "wikilink")，用戶可以通過手指及手勢的變化，使用原本需要繁複操作的功能，包括切換應用程式、顯示多工介面及跳回主畫面等。原本多工處理手勢僅限[iPad
-2可以使用](../Page/iPad_2.md "wikilink")\[81\]，後來延伸支援至[第一代iPad](../Page/IPad_\(第一代\).md "wikilink")\[82\]。
+2可以使用](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")\[81\]，後來延伸支援至[第一代iPad](../Page/IPad_\(第一代\).md "wikilink")\[82\]。
 
 ### 鍵盤
 
@@ -99,7 +99,7 @@ Maps應用程式中也出現了](https://zh.wikipedia.org/wiki/Google_Maps "wiki
 ### Safari
 
 在iOS
-5中，為Safari增加了閱讀列表功能\[110\]\[111\]。用戶將網頁加入到閱讀列表後，系統會把已閱讀的網址分類，並會透過[iCloud同步至其他](../Page/iCloud.md "wikilink")[iOS裝置](../Page/iOS.md "wikilink")\[112\]\[113\]。此外，還新增了閱讀器功能，開啟後系統會自動消除不必要的廣告\[114\]\[115\]；不過此功能僅限在iPad中使用，而且並不是所有網頁都適用此功能\[116\]。除此之外，還增加了私密瀏覽及分頁瀏覽等功能\[117\]\[118\]\[119\]。
+5中，為Safari增加了閱讀列表功能\[110\]\[111\]。用戶將網頁加入到閱讀列表後，系統會把已閱讀的網址分類，並會透過[iCloud同步至其他](https://zh.wikipedia.org/wiki/iCloud "wikilink")[iOS裝置](https://zh.wikipedia.org/wiki/iOS "wikilink")\[112\]\[113\]。此外，還新增了閱讀器功能，開啟後系統會自動消除不必要的廣告\[114\]\[115\]；不過此功能僅限在iPad中使用，而且並不是所有網頁都適用此功能\[116\]。除此之外，還增加了私密瀏覽及分頁瀏覽等功能\[117\]\[118\]\[119\]。
 
 ### 郵件
 
@@ -119,7 +119,7 @@ iOS 5在正式推出時，遭遇到了許多與系統升級相關的問題，包
 ### iPhone 4S效能問題
 
 iOS 5更新造成部分[iPhone
-4S效能下降及通話問題](../Page/iPhone_4S.md "wikilink")，雖然蘋果在隨後的iOS
+4S效能下降及通話問題](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")，雖然蘋果在隨後的iOS
 5.0.1更新修補漏洞，但仍使部分用戶不滿\[128\]\[129\]\[130\]\[131\]\[132\]。
 
 ### Wi-Fi連線問題
@@ -136,15 +136,16 @@ iOS 5更新造成部分裝置SIM卡無法使用，還造成部分iPhone 4S通話
   -
 ## 支援裝置
 
-由於硬體限制，[iPhone 3G及](../Page/iPhone_3G.md "wikilink")[第二代iPod
+由於硬體限制，[iPhone
+3G及](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[第二代iPod
 touch無法升級至iOS](https://zh.wikipedia.org/wiki/第二代iPod_touch "wikilink")
 5\[138\]\[139\]。
 
 ### iPhone
 
-  - [iPhone 3GS](../Page/iPhone_3GS.md "wikilink")
-  - [iPhone 4](../Page/iPhone_4.md "wikilink")
-  - [iPhone 4S](../Page/iPhone_4S.md "wikilink")
+  - [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")
+  - [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
+  - [iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")
 
 ### iPod touch
 
@@ -154,9 +155,9 @@ touch無法升級至iOS](https://zh.wikipedia.org/wiki/第二代iPod_touch "wiki
 
 ### iPad
 
-  - [iPad (第一代)](../Page/iPad_\(第一代\).md "wikilink")
-  - [iPad 2](../Page/iPad_2.md "wikilink")
-  - [iPad (第三代)](../Page/iPad_\(第三代\).md "wikilink")
+  - [iPad (第一代)](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink")
+  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
+  - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
 
 ### Apple TV
 

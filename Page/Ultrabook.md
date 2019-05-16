@@ -7,7 +7,7 @@ S3-951](https://zh.wikipedia.org/wiki/Acer_Aspire_S3-951 "wikilink")
 
 ## 起源
 
-「Ultrabook」由[英特爾註冊商標](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，2011年於[台北國際電腦展覽會](../Page/台北國際電腦展覽會.md "wikilink")（Computex）推出，\[2\]英特爾對其投資三億[美元的基金](../Page/美元.md "wikilink")，打算繼全球3C產業對[iMac](../Page/iMac.md "wikilink")、[iPod](../Page/iPod.md "wikilink")、[iPhone及](../Page/iPhone.md "wikilink")[iPad的跟進風潮後](https://zh.wikipedia.org/wiki/iPad "wikilink")，繼續仿效蘋果的成功策略。
+「Ultrabook」由[英特爾註冊商標](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，2011年於[台北國際電腦展覽會](../Page/台北國際電腦展覽會.md "wikilink")（Computex）推出，\[2\]英特爾對其投資三億[美元的基金](../Page/美元.md "wikilink")，打算繼全球3C產業對[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad的跟進風潮後](https://zh.wikipedia.org/wiki/iPad "wikilink")，繼續仿效蘋果的成功策略。
 
 ## 定義
 

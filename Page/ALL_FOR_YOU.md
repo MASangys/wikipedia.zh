@@ -5,7 +5,7 @@ YOU**》是[安室奈美惠以个人单独名义在](../Page/安室奈美惠.md 
 
   - 2004年第2張單曲，以[Copy
     ControlCD形式發售](../Page/Copy_Control.md "wikilink")。韓國同時發行。
-  - [觀月亞里莎主演的連續劇](../Page/觀月亞里莎.md "wikilink")《[讓愛想起來](https://zh.wikipedia.org/wiki/讓愛想起來 "wikilink")》的主題曲，自《[I
+  - [觀月亞里莎主演的連續劇](../Page/觀月亞里莎.md "wikilink")《[讓愛想起來](../Page/讓愛想起來.md "wikilink")》的主題曲，自《[I
     HAVE NEVER
     SEEN](../Page/I_HAVE_NEVER_SEEN.md "wikilink")》約6年後再次成為連續劇主題曲。
   - 填詞人為制作安室單曲《[Stop the

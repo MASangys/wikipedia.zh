@@ -1,5 +1,5 @@
 **DEEP**是來自[日本的四人男子歌唱團體](../Page/日本.md "wikilink")，前身為**COLOR**。唱片發行公司為[Rhythm
-zone](../Page/Rhythm_zone.md "wikilink")。團體所屬事務所為[LDH](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。\[1\]
+zone](../Page/Rhythm_zone.md "wikilink")。團體所屬事務所為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。\[1\]
 
 初代COLOR(2004年\~2006年)由[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")[ATSUSHI領隊主唱及製作](https://zh.wikipedia.org/wiki/EXILE "wikilink")\[2\]。2006年10月24日，新生COLOR正式宣佈結成\[3\]。COLOR於2007年7月變更團隊名字為DEEP\[4\]。
 
@@ -7,7 +7,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。團體所屬事務所為[LDH](https:/
 
 ### 2004\~2006
 
-2004年下旬開始，[EXILE成員各自實行短期的單飛活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。主唱[ATSUSHI一直都希望組成以黑人音樂為主軸的合唱團體](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")，給歌迷傳達比音樂更高的訊息——於是以[ATSUSHI為中心](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")、連同於同一音樂專門學校就讀的KIKURI、YORK、以及TAKA，四人組成了一個歌唱團體。\[5\]
+2004年下旬開始，[EXILE成員各自實行短期的單飛活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。主唱[ATSUSHI一直都希望組成以黑人音樂為主軸的合唱團體](../Page/ATSUSHI.md "wikilink")，給歌迷傳達比音樂更高的訊息——於是以[ATSUSHI為中心](../Page/ATSUSHI.md "wikilink")、連同於同一音樂專門學校就讀的KIKURI、YORK、以及TAKA，四人組成了一個歌唱團體。\[5\]
 
 2004年2月25日，[久保田利伸TRIBUTE](../Page/久保田利伸.md "wikilink")
 ALBUM「」發行，並收錄了「Cymbals (ATSUSHI from
@@ -19,11 +19,11 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 
 ### 2006\~今
 
-在發行了四張單曲及一張專輯之後，2006年10月21日，[ATSUSHI宣佈轉居幕後當COLOR製作人](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")，KIKURI、YORK也同時表示退出COLOR。10月24日，舊有COLOR成員TAKA領隊，再加上由「」總決賽参加者YUICHIRO、3次審查參賽者KEISEI以及RYO，「新生COLOR」宣佈結成，藝人通告將於同年12月正式始動。\[6\]
+在發行了四張單曲及一張專輯之後，2006年10月21日，[ATSUSHI宣佈轉居幕後當COLOR製作人](../Page/ATSUSHI.md "wikilink")，KIKURI、YORK也同時表示退出COLOR。10月24日，舊有COLOR成員TAKA領隊，再加上由「」總決賽参加者YUICHIRO、3次審查參賽者KEISEI以及RYO，「新生COLOR」宣佈結成，藝人通告將於同年12月正式始動。\[6\]
 
 在2007年4月25日，新生COLOR發行出道單曲「涙が落ちないように」。
 
-2009年7月1日開始，[ATSUSHI宣佈退出COLOR幕後製作](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")，組合名字變更為DEEP。\[7\]
+2009年7月1日開始，[ATSUSHI宣佈退出COLOR幕後製作](../Page/ATSUSHI.md "wikilink")，組合名字變更為DEEP。\[7\]
 
 2015年12月8日、唱片發行公司由 rhythm zone移籍至Sony Music Associated Records\[8\]。
 
@@ -82,7 +82,7 @@ EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的
 #### ATSUSHI
 
   -
-    本名：[佐藤篤志](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink") (Satou
+    本名：[佐藤篤志](../Page/ATSUSHI.md "wikilink") (Satou
     Atsushi)。1980年4月30日[埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市出生](../Page/越谷市.md "wikilink")。血液型A型、身長175cm、体重67kg。
 
 <!-- end list -->
@@ -251,8 +251,8 @@ COLOR名義
       - 參與演唱者包括「」總決賽者TAKA及YUICHIRO。
       - [日本電視台](../Page/日本電視台.md "wikilink")「」2月份（1月29日～）片尾音樂
 
-  - [加藤ミリヤ](https://zh.wikipedia.org/wiki/加藤米莉亚 "wikilink") 「My Girl
-    feat.COLOR 」（2007年5月30日）
+  - [加藤ミリヤ](../Page/加藤米莉亚.md "wikilink") 「My Girl feat.COLOR
+    」（2007年5月30日）
 
       - [富士電視台電視劇](../Page/富士電視台.md "wikilink")「 (新娘與爸爸)」片尾音樂
 
@@ -610,7 +610,7 @@ DEEP名義
 
 ## 關聯項目
 
-  - [LDH](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")
+  - [LDH](../Page/LDH_\(藝能事務所\).md "wikilink")
 
   - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")
 

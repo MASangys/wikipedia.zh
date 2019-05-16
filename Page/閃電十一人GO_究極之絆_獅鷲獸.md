@@ -62,7 +62,7 @@ Gryphon)是2011年12月23日由東寶上映的『[閃電十一人系列](../Page
 <!-- end list -->
 
   - 蛇野卷人（へびの まきと）
-    聲：[岩崎了](https://zh.wikipedia.org/wiki/岩崎了 "wikilink")（日本）
+    聲：[岩崎了](../Page/岩崎了.md "wikilink")（日本）
     零隊的一員。位置GK。背號1號。高個子體型、綠色與紫色的長髮為其特徵。
     必殺技是「毒蛇魔牙」
 
@@ -93,7 +93,7 @@ Gryphon)是2011年12月23日由東寶上映的『[閃電十一人系列](../Page
 <!-- end list -->
 
   - 帆田光洋（ほだ みつひろ）
-    聲：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")（日本）
+    聲：[金野潤](../Page/金野潤.md "wikilink")（日本）
     位置FW。金髮中參有少許黑髮、特徴為紫色的髮箍。
 
 <!-- end list -->
@@ -284,7 +284,7 @@ Gryphon)是2011年12月23日由東寶上映的『[閃電十一人系列](../Page
 
 ## 工作人員
 
-  - 企画・總監修・故事原案 - [日野晃博](https://zh.wikipedia.org/wiki/日野晃博 "wikilink")
+  - 企画・總監修・故事原案 - [日野晃博](../Page/日野晃博.md "wikilink")
   - 導演 - 宮尾佳和
   - 角色設定原案 - [長野拓造](https://zh.wikipedia.org/wiki/長野拓造 "wikilink")
   - 角色設定 -

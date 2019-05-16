@@ -1,4 +1,4 @@
-「**世界上最HAPPY的女孩**」（世界一HAPPYな女の子）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年9月7日由[zetima發售](../Page/zetima.md "wikilink")。
+「**世界上最HAPPY的女孩**」（世界一HAPPYな女の子）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年9月7日由[zetima發售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

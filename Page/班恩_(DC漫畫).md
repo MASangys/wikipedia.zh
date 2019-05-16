@@ -37,7 +37,7 @@ memory）；並且在一年之內就推斷出了蝙蝠俠的真實身分。
 
 班恩狡猾並富有謀略，在監獄裡，他發展出自己一套的格鬥技巧、[體操和](https://zh.wikipedia.org/wiki/體操 "wikilink")[冥想方法](../Page/冥想.md "wikilink")，並使用某種[蛇或](../Page/蛇.md "wikilink")[蜘蛛的](../Page/蜘蛛.md "wikilink")[毒液增強了自己的身體質素](https://zh.wikipedia.org/wiki/毒液 "wikilink")，得到了超乎常人的力量和痊癒速度；雖然在1995年的《Vengeance
 of Bane II》中，他發誓不再使用此種毒液，但是在後來的畫作還是有畫他那套聯結到他後腦的設備，作家Gail Simone在《Secret
-Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](https://zh.wikipedia.org/wiki/死亡射手 "wikilink")。
+Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](../Page/死亡射手.md "wikilink")。
 
 ## 其他媒體
 
@@ -64,7 +64,7 @@ Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](ht
 [The_Dark_Knight_Rises-Bane.PNG](https://zh.wikipedia.org/wiki/File:The_Dark_Knight_Rises-Bane.PNG "fig:The_Dark_Knight_Rises-Bane.PNG")》中的班恩，由[湯姆·哈迪飾演](../Page/湯姆·哈迪.md "wikilink")\]\]
 
   - 《[蝙蝠俠與羅賓](https://zh.wikipedia.org/wiki/蝙蝠俠與羅賓_\(電影\) "wikilink")》：由[羅伯特·史文森飾演](https://zh.wikipedia.org/wiki/羅伯特·史文森 "wikilink")，在電影中被詮釋為一名沒有智慧、聽命行事的野獸。
-  - 《[蝙蝠俠：神秘的女蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠：神秘的女蝙蝠俠 "wikilink")》：動畫電影。配音員為[赫克托·埃里仲杜](https://zh.wikipedia.org/wiki/赫克托·埃里仲杜 "wikilink")\[4\]\[5\]。
+  - 《[蝙蝠俠：神秘的女蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠：神秘的女蝙蝠俠 "wikilink")》：動畫電影。配音員為[赫克托·埃里仲杜](../Page/赫克托·埃里仲杜.md "wikilink")\[4\]\[5\]。
   - 《[超人/蝙蝠俠：公眾之敵](https://zh.wikipedia.org/wiki/超人/蝙蝠俠：公眾之敵 "wikilink")》：沒有對話，只有吼叫聲。為了得到獎金而和其他反派一同圍捕[超人和蝙蝠俠](../Page/超人.md "wikilink")，他在和蝙蝠俠短暫交手後遭對方擊敗。
   - 《[正義聯盟：末日審判](https://zh.wikipedia.org/wiki/正義聯盟：末日審判 "wikilink")》：配音員為Carlos
     Alazraqui。
@@ -89,13 +89,12 @@ Six》裡借[死亡射手之口解釋班恩只是保持他的舊習慣而已](ht
   - 《[蝙蝠俠：阿卡漢起源](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢起源 "wikilink")》：[黑面具邀請來對付蝙蝠俠的八名刺客之一](../Page/黑面具.md "wikilink")，配音員為J.
     B. Blanc。
   - 《[蝙蝠俠：阿卡漢始源黑門](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢始源黑門 "wikilink")》：於遊戲另一個結局中登場，他在遊戲中並沒有對話。在《[蝙蝠俠：阿卡漢起源](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢起源 "wikilink")》事件過後，他是個已經被關了3個多月的臉色蒼白、身體瘦弱的模樣。
-  - 《[DC 超級英雄
-    Online](https://zh.wikipedia.org/wiki/DC_超級英雄_Online "wikilink")》：配音員為Jason
+  - 《[DC 超級英雄 Online](../Page/DC_超級英雄_Online.md "wikilink")》：配音員為Jason
     Liebrecht。
   - 《[少年正義聯盟：遺產](https://zh.wikipedia.org/wiki/少年正義聯盟：遺產 "wikilink")》：配音員為Nolan
     North。
-  - 《黑暗騎士：黎明昇起》：班恩出現於這款[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPhone的遊戲中](../Page/iPhone.md "wikilink")，模樣為電影中的造型。
-  - 《[超級英雄：武力對決](https://zh.wikipedia.org/wiki/超級英雄：武力對決 "wikilink")》：配音員同為Fred
+  - 《黑暗騎士：黎明昇起》：班恩出現於這款[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPhone的遊戲中](https://zh.wikipedia.org/wiki/iPhone "wikilink")，模樣為電影中的造型。
+  - 《[超級英雄：武力對決](../Page/超級英雄：武力對決.md "wikilink")》：配音員同為Fred
     Tatasciore。\[14\]。
   - 《[超級英雄：武力對決2](https://zh.wikipedia.org/wiki/超級英雄：武力對決2 "wikilink")》：配音員同為Fred
     Tatasciore。\[15\]

@@ -48,9 +48,8 @@
 
   - [網宇實體系統](../Page/網宇實體系統.md "wikilink")（）
 
-  - [CP
-    System](https://zh.wikipedia.org/wiki/CP_System "wikilink")（Capcom
-    Play System）,Capcom发布的街机基板类型
+  - [CP System](../Page/CP_System.md "wikilink")（Capcom Play
+    System）,Capcom发布的街机基板类型
 
   - **CPS**（Cost Per Sale）：以实际销售产品数量来换算广告刊登金额。
 

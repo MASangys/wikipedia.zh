@@ -1,6 +1,6 @@
 **SUPER☆GiRLS**，簡稱**S☆G**、**SuPaGa**（，來自「Super
 Girls」的縮寫），是[日本](../Page/日本.md "wikilink")[愛貝克思旗下第一組女子](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，於2010年結成，目前有13名成員。所屬經紀公司為，所屬音樂品牌為[iDOL
-Street](../Page/iDOL_Street.md "wikilink")。
+Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 
@@ -189,7 +189,7 @@ GAP激熱パフォーマー」</p></td>
 （活動在3月8日停止）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/宮崎理奈" title="wikilink">宮崎理奈</a></p></td>
+<td><p><a href="../Page/宮崎理奈.md" title="wikilink">宮崎理奈</a></p></td>
 <td><p>宮﨑理奈[9]</p></td>
 <td><p>みやざき りな</p></td>
 <td><p>みやり</p></td>
@@ -222,7 +222,7 @@ GAP激熱パフォーマー」</p></td>
 （TOKYO TORiTSU これで委員會）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/前島亞美" title="wikilink">前島亞美</a></p></td>
+<td><p><a href="../Page/前島亞美.md" title="wikilink">前島亞美</a></p></td>
 <td><p>前島亜美</p></td>
 <td><p>まえしま あみ</p></td>
 <td><p>あみた</p></td>
@@ -481,7 +481,7 @@ THE☆熱唱權</p></td>
       - 4月18日、4th單曲「1,000,000☆スマイル」發售\[18\]。
       - 7月4日、5th單曲「[彈彈♥SUMMER
         Kiss](https://zh.wikipedia.org/wiki/彈彈_SUMMER_Kiss "wikilink")」發售。
-      - 10月24日、6th單曲「[紅色熱情](https://zh.wikipedia.org/wiki/紅色熱情 "wikilink")」發售。
+      - 10月24日、6th單曲「[紅色熱情](../Page/紅色熱情.md "wikilink")」發售。
   - 2013年
       - 1月16日、稼農楓宣布退出。開始10人体制。
       - 2月22日、3rd專輯『Celebration』發售。
@@ -632,7 +632,7 @@ AVC1-39070〜AVC1-39080</p></td>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2012年10月24日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/紅色熱情" title="wikilink">紅色熱情</a></strong></p></td>
+<td><p><strong><a href="../Page/紅色熱情.md" title="wikilink">紅色熱情</a></strong></p></td>
 <td><p>2位</p></td>
 <td><p>CD+DVD<br />
 CD<br />
@@ -1054,7 +1054,7 @@ AVBF-74461X</p></td>
 
   - [SUPER EUROBEAT
     VOL.210](https://zh.wikipedia.org/wiki/SUPER_EUROBEAT#2010年_- "wikilink")（2010年12月29日、[avex
-    trax](../Page/avex_trax.md "wikilink")）
+    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
       - 「Be with you \[EURO GiRLS MIX\]」都有收錄。
   - a-nation 10th Anniversary Best Selection CD（2011年7月30日、avex trax）
       - 『DISC 4』裡「Be with you」都有收錄。
@@ -1081,7 +1081,7 @@ AVBF-74461X</p></td>
   - avexアイドルオーディション2010 〜ケータイ育成アイドル
     SUPER☆GiRLS誕生〜（2010年8月28日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 音樂特集〜SUPER☆GiRLS（2010年12月17日、[Sky
-    PerfecTV\!](../Page/Sky_PerfecTV!.md "wikilink")
+    PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")
     [エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")）
 
 <!-- end list -->

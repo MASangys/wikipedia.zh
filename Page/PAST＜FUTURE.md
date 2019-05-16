@@ -10,14 +10,14 @@ ONLY、CD+DVD兩版本發行。PLAYBUTTON版本則在2012年6月27日發行。
   - 本作象徵打破過去紀錄、「全部從零重新開始」等意思，封面是由安室親手撕掉去年創下百萬銷量的大熱精選專輯《[BEST
     FICTION](../Page/BEST_FICTION.md "wikilink")》封面照的衝擊性照片。自發表新專輯發行訊息後，自11月上旬陸續在日本店頭張貼的告知海報，以上張精選輯封面照將自己的臉部遮住，到後來僅露出鼻子和嘴巴，讓大眾不停猜測背後意思\[1\]。
   - 《Bad
-    Habit》是由給[克雷格·大衞等海外歌手](https://zh.wikipedia.org/wiki/克雷格·大衞 "wikilink")、[w-inds.與](../Page/w-inds..md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")、[谷村奈南](../Page/谷村奈南.md "wikilink")、[土屋安娜](../Page/土屋安娜.md "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[中森明菜等國內歌手](../Page/中森明菜.md "wikilink")、甚至是[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[塔塔楊等歌手的世界性](https://zh.wikipedia.org/wiki/塔塔楊 "wikilink")[作曲家與製作人集團](https://zh.wikipedia.org/wiki/作曲家 "wikilink")"Phrased
+    Habit》是由給[克雷格·大衞等海外歌手](https://zh.wikipedia.org/wiki/克雷格·大衞 "wikilink")、[w-inds.與](https://zh.wikipedia.org/wiki/w-inds. "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")、[谷村奈南](../Page/谷村奈南.md "wikilink")、[土屋安娜](../Page/土屋安娜.md "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[中森明菜等國內歌手](../Page/中森明菜.md "wikilink")、甚至是[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[塔塔楊等歌手的世界性](https://zh.wikipedia.org/wiki/塔塔楊 "wikilink")[作曲家與製作人集團](https://zh.wikipedia.org/wiki/作曲家 "wikilink")"Phrased
     Differently\[2\]"負責製作。
   - DVD收錄了包括4首新曲在內的6首歌曲的[音樂錄像帶](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")。《FAST
     CAR》的PV是以揉合「沙宣」第3彈的廣告主題的中世紀哥特式世界風格的中心思想製作\[3\]。《Defend
     Love》的PV與動畫「[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")」合作、《Dr.》後再次全動畫製作\[4\]。歌曲以「守護愛」為主題製作，並與劇中的主角[阿姆羅·雷演出](../Page/阿姆羅·雷.md "wikilink")\[5\]。
   - 首週銷量33萬張，取得[Oricon公信榜冠軍](../Page/2009年Oricon專輯週榜冠軍作品列表.md "wikilink")，創下於「10代」、「20代」、「30代」均有原創專輯連續冠軍的紀錄\[6\]。而在亞洲五個地方發行後，均登上銷量冠軍，創下日本女性歌手史上初紀錄\[7\]。最終公信榜銷量約為57萬張。
   - 以專輯為主題的演唱會「[namie amuro PAST＜FUTURE tour
-    2010](../Page/namie_amuro_PAST＜FUTURE_tour_2010.md "wikilink")」於2010年4月至11月全國舉行。演唱會場數達80場，刷新安室本人個人巡演最多場次紀錄。而收錄東京公演場次的DVD「namie
+    2010](https://zh.wikipedia.org/wiki/namie_amuro_PAST＜FUTURE_tour_2010 "wikilink")」於2010年4月至11月全國舉行。演唱會場數達80場，刷新安室本人個人巡演最多場次紀錄。而收錄東京公演場次的DVD「namie
     amuro PAST＜FUTURE tour 2010」則連續2作（通算4作）獲得音樂DVD榜首位\[8\]。
   - 2012年6月27日以PLAYBUTTON限定生產盤形式發售。
 

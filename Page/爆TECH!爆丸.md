@@ -1,4 +1,4 @@
-《**爆TECH\!爆丸**》（），是一套於2012年2月，開始在[日本登載的](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於2012年4月改編成3DCG動畫影集，附屬於教育節目[早安競技場](https://zh.wikipedia.org/wiki/早安競技場 "wikilink")（）之下。動畫於第51集以後，更名為《**爆TECH\!爆丸
+《**爆TECH\!爆丸**》（），是一套於2012年2月，開始在[日本登載的](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於2012年4月改編成3DCG動畫影集，附屬於教育節目[早安競技場](../Page/早安競技場.md "wikilink")（）之下。動畫於第51集以後，更名為《**爆TECH\!爆丸
 激撞**》，集數重新由第1集計算，但故事實際上只是《爆TECH\!爆丸》的直接延續。
 
 ## 故事概要

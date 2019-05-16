@@ -56,7 +56,7 @@
 <td><p>Temmaku-Eki</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/天王台站" title="wikilink">天王台站</a></p></td>
+<td><p><a href="../Page/天王台站.md" title="wikilink">天王台站</a></p></td>
 <td></td>
 <td><p>Tennōdai-Eki</p></td>
 </tr>

@@ -9,7 +9,7 @@
 
   - 総合病院小児科医わいせつ盗撮（4月23日、[I.B.WORKS](https://zh.wikipedia.org/wiki/I.B.WORKS "wikilink")）
   - 白衣白書 page.08 都内某○○耳鼻咽喉科勤務 西野さん
-    20歳（5月21日、[Prestige](../Page/Prestige.md "wikilink")）
+    20歳（5月21日、[Prestige](https://zh.wikipedia.org/wiki/Prestige "wikilink")）
   - 淫行 03（6月1日、[Wanz
     Factory](https://zh.wikipedia.org/wiki/Wanz_Factory "wikilink")）※「森本舞子」名義
   - 部活帰り このはちゃん 18（6月11日、ゼットン）

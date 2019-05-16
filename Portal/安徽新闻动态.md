@@ -1,0 +1,83 @@
+\-{T|安徽新闻}-
+
+## [2018年](https://zh.wikipedia.org/wiki/2018年中國 "wikilink")
+
+### [12月](https://zh.wikipedia.org/wiki/2018年12月中国 "wikilink")
+
+  - [合肥](https://zh.wikipedia.org/wiki/合肥 "wikilink")、[蚌埠](https://zh.wikipedia.org/wiki/蚌埠 "wikilink")、阜阳、[芜湖](https://zh.wikipedia.org/wiki/芜湖 "wikilink")、[安庆五市入选国家物流枢纽承载城市](https://zh.wikipedia.org/wiki/安庆 "wikilink")。（[1](http://ah.anhuinews.com/system/2018/12/29/008045103.shtml)）
+  - 12月27日，因[阜阳街头打出](https://zh.wikipedia.org/wiki/阜阳 "wikilink")“闯红灯抓拍不带美颜哦”等标语，引发网民热议。（[2](http://ah.anhuinews.com/system/2018/12/29/008045147.shtml)）
+  - 12月20日，[滁淮高速公路建成通车](https://zh.wikipedia.org/wiki/滁淮高速公路 "wikilink")。（[3](http://www.ahwang.cn/anhui/20181221/1840280.shtml)）
+
+### [12月](https://zh.wikipedia.org/wiki/2018年10月中国 "wikilink")
+
+  - 10月24日，[安徽省第十四届运动会在](https://zh.wikipedia.org/wiki/安徽省第十四届运动会 "wikilink")[蚌埠体育中心体育馆正式闭幕](https://zh.wikipedia.org/wiki/蚌埠体育中心 "wikilink")。
+
+## [2011年](https://zh.wikipedia.org/wiki/2011年中國 "wikilink")
+
+### [12月](https://zh.wikipedia.org/wiki/中国2011年12月 "wikilink")
+
+  - [12月14日](../Page/12月14日.md "wikilink")，9时24分许，[濉溪县百善镇宋庙街南侧一两层在建楼房发生坍塌](../Page/濉溪县.md "wikilink")，造成2死5伤（[4](http://news.china.com.cn/local/2011-12/14/content_24152988.htm)）。
+  - [12月12日](../Page/12月12日.md "wikilink")，新华网报道，[凤阳县地税局原局长杨群](../Page/凤阳县.md "wikilink")[受贿](https://zh.wikipedia.org/wiki/受贿 "wikilink")120多万元，流失[税收](https://zh.wikipedia.org/wiki/税收 "wikilink")760多万元近日[获刑](../Page/有期徒刑.md "wikilink")16年（[5](http://news.xinhuanet.com/legal/2011-12/12/c_111237358.htm)）。
+
+### [11月](https://zh.wikipedia.org/wiki/中国2011年11月 "wikilink")
+
+  - [11月29日](../Page/11月29日.md "wikilink")，**[豫](../Page/河南省.md "wikilink")[皖](../Page/安徽省.md "wikilink")**接壤的[永城马桥镇与](../Page/永城市.md "wikilink")[涡阳丹城镇爆发](../Page/涡阳县.md "wikilink")**[丙肝](../Page/丙型肝炎.md "wikilink")[疫情](https://zh.wikipedia.org/wiki/疫情 "wikilink")**，截至11月29日12时，共有182例抗体呈阳性，疑与马桥苗浅村吴文义[诊所](https://zh.wikipedia.org/wiki/诊所 "wikilink")**不洁[注射](https://zh.wikipedia.org/wiki/静脉注射 "wikilink")**有关（[6](http://news.sohu.com/20111201/n327491836.shtml)）。
+  - [11月28日](../Page/11月28日.md "wikilink")，受[大雾影响](https://zh.wikipedia.org/wiki/雾 "wikilink")，[安徽发生](../Page/安徽省.md "wikilink")3起[高速公路连环追尾](../Page/高速公路.md "wikilink")[车祸](https://zh.wikipedia.org/wiki/车祸 "wikilink")，其中[宁洛高速发生](../Page/宁洛高速公路.md "wikilink")41车连环追尾事故，造成2人死亡（[7](http://www.chinanews.com/sh/2011/11-28/3490936.shtml)）。
+  - [11月19日](../Page/11月19日.md "wikilink")，18时20分左右，[安徽](../Page/安徽省.md "wikilink")[巢湖市散兵镇的一施工现场发生脚手架坍塌事故](../Page/巢湖市.md "wikilink")，已经造成2人死亡，3人仍被困（[8](http://news.cn.yahoo.com/ypen/20111120/709527.html)）。
+  - [11月6日](../Page/11月6日.md "wikilink")，由[社科院主持的中国城市竞争力报告出炉](../Page/中国社会科学院.md "wikilink")，[港](../Page/香港.md "wikilink")[沪](https://zh.wikipedia.org/wiki/上海市 "wikilink")[京分居前](../Page/北京市.md "wikilink")3位，[合肥居第](../Page/合肥市.md "wikilink")25位（[9](http://www.cnstock.com/index/gdbb/201105/1291337.htm)）。
+
+### [10月](https://zh.wikipedia.org/wiki/中國2011年10月 "wikilink")
+
+  - [10月28日](../Page/10月28日.md "wikilink")，新华社报道，涉案金额8,112万元的**[安徽第一女](../Page/安徽省.md "wikilink")[巨贪](https://zh.wikipedia.org/wiki/贪官 "wikilink")**——[亳州人](../Page/亳州市.md "wikilink")、原[漯阜铁路](../Page/漯阜铁路.md "wikilink")[董事长兼](https://zh.wikipedia.org/wiki/董事长 "wikilink")[总经理张海英被判](../Page/总经理.md "wikilink")[无期徒刑](https://zh.wikipedia.org/wiki/无期徒刑 "wikilink")（[10](http://epaper.jinghua.cn/html/2011-10/29/content_724335.htm)[11](http://newspaper.jfdaily.com/xwwb/html/2011-10/29/content_683523.htm)）。
+  - [10月22日](../Page/10月22日.md "wikilink")，第20届[金鸡百花电影节在](../Page/中国金鸡百花电影节.md "wikilink")[合肥落幕](../Page/合肥市.md "wikilink")（[12](http://news.xinhuanet.com/2011-10/22/c_122187544.htm)）。
+  - [10月12日](../Page/10月12日.md "wikilink")，[巢湖大规模](../Page/巢湖市.md "wikilink")[出租车](https://zh.wikipedia.org/wiki/出租车 "wikilink")[罢运](../Page/罷工.md "wikilink")，数百辆出租车停于市区马路中央（[13](http://www.sinovision.net/index.php?module=news&act=details&col_id=3&news_id=189000&articlepage=2)[14](http://finance.icxo.com/htmlnews/2011/10/13/1438503.htm)）。
+  - [10月7日](../Page/10月7日.md "wikilink")，[郎溪县政府办副主任朱晓辉](https://zh.wikipedia.org/wiki/郎溪县 "wikilink")[自缢身亡](https://zh.wikipedia.org/wiki/缢死 "wikilink")（[15](http://news.xinhuanet.com/local/2011-10/09/c_122132489.htm)）。
+
+## 新闻媒体链接
+
+  - [安徽新闻网（中新社）](http://www.ah.chinanews.com.cn/)
+  - [新华网（安徽频道）](http://www.ah.xinhuanet.com/)
+  - [人民网（安徽频道）](http://ah.people.com.cn/)
+  - [新浪（安徽新闻）](http://news.sina.com.cn/area/ah.shtml)
+  - [百度安徽新闻](http://tag.news.baidu.com/t/984/847,b0b2bbd5.html?from=all)
+
+<!-- end list -->
+
+  - [中安在线（安徽门户网）](http://ah.anhuinews.com/)
+  - [安徽广播网](http://www.ahradio.com.cn/am936/index.shtml)
+  - [安青网](http://www.anhui.cc/)
+  - [安徽新闻网（安徽）](http://www.ahnews.org)
+  - [安徽新闻网](http://www.ahnet.com.cn/)
+
+<!-- end list -->
+
+  - [安徽传媒新闻](http://www.mediaxinan.com/snxw/node_704.htm)
+  - [安徽经济新闻](http://www.ahenews.com.cn/)
+  - [安徽商务之窗](http://anhui.mofcom.gov.cn/)
+
+<!-- end list -->
+
+  - [合肥在线](http://news.hf365.com/ahxw/index.shtml)
+  - [合肥热线](http://news.hefei.cc/L/8.shtml)
+  - [合肥新闻网（新华社）](http://www.ah.xinhuanet.com/hfnews/)
+  - [合肥网](http://www.hefeif.com.cn/new/)
+
+<!-- end list -->
+
+  - [铜陵新闻网](http://www.tlnews.cn/xwzx/wjxw/index.html)
+  - [宿松新闻网（安徽）](http://www.ahssnews.com/)
+  - [芜湖新闻网](http://www.wuhunews.cn/)
+  - [蚌埠新闻网](http://www.bbnews.cn/)
+  - [淮南新闻网](http://www.hngd.gov.cn/)
+  - [皖江在线（马鞍山日报）](http://www.wjol.net.cn/)
+  - [淮北新闻网](http://hbnews.net/xwsq/index.shtml)
+  - [淮北网（淮北日报）](http://www.cnhbw.net/)
+  - [黄山新闻网](http://www.newshs.com/)
+  - [滁州在线](http://www.chuzhou.cn/)
+  - [安庆新闻网](http://www.aqnews.com.cn/)
+  - [六安新闻网](http://www.luaninfo.com/)
+  - [亳州新闻网](http://www.bozhou.cn/news/)
+  - [池州新闻网](http://www.chiznews.com/index.htm)
+  - [中国宣城网（宣城日报）](http://www.xuanwww.com/)
+  - [宣城新闻网](http://www.newsxc.com/Index.html)
+  - [桐城网](http://www.itongcheng.com/news)

@@ -52,7 +52,7 @@ FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")」再次表演了同�
 DOWN
 TV](../Page/COUNT_DOWN_TV.md "wikilink")」上繼續表演了同曲\[55\]。8月19日，中島美嘉於「」上獻唱了《[看不見的星星](../Page/看不見的星星.md "wikilink")》、《[STARS](../Page/STARS_\(中島美嘉單曲\).md "wikilink")》、《[WILL](../Page/WILL_\(中島美嘉單曲\).md "wikilink")》《[雪花](../Page/雪花_\(單曲\).md "wikilink")》與《LIFE》的組曲\[56\]。8月20日，她於「[HEY\!HEY\!HEY\!MUSIC
 CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")」再次演唱了《LIFE》\[57\]。其後於11月26日，她於「[BEST
-HITS歌謠祭](../Page/BEST_HITS歌謠祭.md "wikilink")」上再次演唱了《LIFE》\[58\]。12月11日，她於「」上再次獻唱了同曲\[59\]。12月12日，她於「第40屆[日本有線大獎](../Page/日本有線大獎.md "wikilink")」上繼續演唱同曲\[60\]。12月24日，她於「[MUSIC
+HITS歌謠祭](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink")」上再次演唱了《LIFE》\[58\]。12月11日，她於「」上再次獻唱了同曲\[59\]。12月12日，她於「第40屆[日本有線大獎](../Page/日本有線大獎.md "wikilink")」上繼續演唱同曲\[60\]。12月24日，她於「[MUSIC
 STATION SUPER
 LIVE](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")」再次演唱同曲\[61\]。
 

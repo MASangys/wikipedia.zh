@@ -13,7 +13,7 @@ Man](../Page/Running_Man.md "wikilink")》的主持人，並在電台擁有自�
 2006年7月公開與[MBC氣象報導員安惠京的戀情](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，二人表現甜蜜也曾成為韓國人心目中「最可能馬上結婚的情侶」。可是於2010年當兵期間，戀情無疾而終，曾於《Running
 Man》中表示戀情長達五年，並問候對方。
 
-2012年8月14日宣佈與韓國歌手[Star结婚](https://zh.wikipedia.org/wiki/Star_\(韓國歌手\) "wikilink")\[1\]，於同年10月註冊，並於同年11月30日舉行婚禮。2013年1月25日，宣佈妻子已懷孕三個月。同年7月9日，Haha於Twitter宣佈喜得一子Dream（），8月28日Star於Twitter宣佈兒子的出生證明中全名登記為河夢兒（）\[2\]。
+2012年8月14日宣佈與韓國歌手[Star结婚](../Page/Star_\(韓國歌手\).md "wikilink")\[1\]，於同年10月註冊，並於同年11月30日舉行婚禮。2013年1月25日，宣佈妻子已懷孕三個月。同年7月9日，Haha於Twitter宣佈喜得一子Dream（），8月28日Star於Twitter宣佈兒子的出生證明中全名登記為河夢兒（）\[2\]。
 
 2017年3月22日，幼子Soul出生。
 
@@ -211,31 +211,28 @@ Man》中表示戀情長達五年，並問候對方。
 
 ### 2012年
 
-  - 3月2日：[tvN](https://zh.wikipedia.org/wiki/TVN "wikilink")《E NEWS》
+  - 3月2日：[tvN](../Page/TVN.md "wikilink")《E NEWS》
   - 3月8日：Mnet《披頭士密碼2》（）
-  - 3月19日：KBS2《[大国民Talk
-    Show-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")》
+  - 3月19日：KBS2《[大国民Talk Show-你好](../Page/大國民脫口秀-你好.md "wikilink")》
   - 3月28日：KBS《李素拉的第二次建议》
   - 3月30日：KBS2《柳熙烈的写生薄》
   - 4月4日、4月11日： every1 《[Weekly
-    Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》 Ep37-38
-  - 4月10日：KBS2《[承胜长驱](https://zh.wikipedia.org/wiki/承胜长驱 "wikilink")》
+    Idol](../Page/Weekly_Idol.md "wikilink")》 Ep37-38
+  - 4月10日：KBS2《[承胜长驱](../Page/承胜长驱.md "wikilink")》
   - 4月12日：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")
     3》Ep244密友特輯（與TAW、[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金洙容](https://zh.wikipedia.org/wiki/金洙容 "wikilink")、[張娜拉](../Page/張娜拉.md "wikilink")、[金敏瑞](https://zh.wikipedia.org/wiki/金敏瑞 "wikilink")）
   - 4月16日-20日：KBS《明星人生剧场》 Ep21
   - 4月27日、5月4日：SBS《[Go Show](../Page/Go_Show.md "wikilink")》
-  - 5月30日： every1 《[Weekly
-    Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》 Ep45
-    (本週偶像特別
+  - 5月30日： every1 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》
+    Ep45 (本週偶像特別
     MC、與[孝琳](../Page/孝琳.md "wikilink")＆[昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）)
   - 7月20日：SBS《1亿Quiz Show》
-  - 8月8日： every1 《[Weekly
-    Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》
+  - 8月8日： every1 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》
     Ep55（與[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")）
   - 8月25日: Mnet《尹道贤的must》
   - 10月25日：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")
     3》Ep270料理王特輯（與[秀智](../Page/秀智.md "wikilink")([miss
-    A](../Page/miss_A.md "wikilink"))、[朴秀洪](https://zh.wikipedia.org/wiki/朴秀洪 "wikilink")、[宋恩伊](../Page/宋恩伊.md "wikilink")）
+    A](https://zh.wikipedia.org/wiki/miss_A "wikilink"))、[朴秀洪](https://zh.wikipedia.org/wiki/朴秀洪 "wikilink")、[宋恩伊](../Page/宋恩伊.md "wikilink")）
 
 ### 2013年
 
@@ -243,9 +240,9 @@ Man》中表示戀情長達五年，並問候對方。
   - 8月7日：MBC《[黄金渔场 Radio
     Star](../Page/黄金渔场_Radio_Star.md "wikilink")》（與[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")、李贤道、、）
   - 8月8日：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")
-    3》Ep311（與[金鍾旼](../Page/金鍾旼.md "wikilink")、[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")、白佳、金智敏、[申寶拉](https://zh.wikipedia.org/wiki/申寶拉 "wikilink")）
+    3》Ep311（與[金鍾旼](../Page/金鍾旼.md "wikilink")、[Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")、白佳、金智敏、[申寶拉](../Page/申寶拉.md "wikilink")）
   - 12月26日：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")
-    3》Ep331可惡的男人特輯（與[成始璄](../Page/成始璄.md "wikilink")、MINO、[鄭俊英](https://zh.wikipedia.org/wiki/鄭俊英 "wikilink")、NC.A
+    3》Ep331可惡的男人特輯（與[成始璄](../Page/成始璄.md "wikilink")、MINO、[鄭俊英](../Page/鄭俊英.md "wikilink")、NC.A
 
 ### 2014年
 
@@ -255,9 +252,9 @@ Man》中表示戀情長達五年，並問候對方。
 
 ### 2015年
 
-  - 3月1日：[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")：《[叮咯咙咚呛](https://zh.wikipedia.org/wiki/叮咯咙咚呛 "wikilink")》第1期(與[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[李光洙視頻出演](../Page/李光洙_\(演員\).md "wikilink"))
+  - 3月1日：[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")：《[叮咯咙咚呛](../Page/叮咯咙咚呛.md "wikilink")》第1期(與[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[李光洙視頻出演](../Page/李光洙_\(演員\).md "wikilink"))
   - 3月16日：SBS《[Healing
-    Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")》（與[Star](https://zh.wikipedia.org/wiki/Star_\(韓國歌手\) "wikilink")）
+    Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")》（與[Star](../Page/Star_\(韓國歌手\).md "wikilink")）
   - 5月23日：SBS《中韓時尚王》（與[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[李光洙](../Page/李光洙_\(演員\).md "wikilink")，視頻出演）
   - 11月：SBS《[尋笑人](https://zh.wikipedia.org/wiki/尋笑人 "wikilink")》（《[Running
     Man](../Page/Running_Man.md "wikilink")》 Ep273 節目內任務）
@@ -518,7 +515,7 @@ Man》中表示戀情長達五年，並問候對方。
   - 糯米糕（，與10cm，2011年[西海岸高速公路歌謠祭](../Page/無限挑戰_西海岸高速公路歌謠祭.md "wikilink")）
   - 要不死要不交往（，與10cm，2011年[西海岸高速公路歌謠祭](../Page/無限挑戰_西海岸高速公路歌謠祭.md "wikilink")）
   - 傻瓜獻給傻瓜（，與skull，改編自[朴明洙的](../Page/朴明洙.md "wikilink")《傻瓜獻給傻瓜》，2012年「[咱們也算是歌手](https://zh.wikipedia.org/wiki/咱們也算是歌手 "wikilink")」特輯）
-  - 超級雜草男（，與張基河與臉孔們，2013年[自由路歌謠祭](https://zh.wikipedia.org/wiki/無限挑戰_自由路歌謠祭 "wikilink")）
+  - 超級雜草男（，與張基河與臉孔們，2013年[自由路歌謠祭](../Page/無限挑戰_自由路歌謠祭.md "wikilink")）
   - $ponsor(，與[Zion.T](../Page/Zion.T.md "wikilink")，2015年[嶺東高速公路歌謠祭](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")）
 
 ### Featuring
@@ -543,7 +540,7 @@ Man》中表示戀情長達五年，並問候對方。
   - 2015年 《Tell me one more
     time》－[Jinusean](../Page/Jinusean.md "wikilink")
   - 2015年 電影《[-{zh-hans:Begin Again;zh-hant:Begin
-    Again;zh-cn:再次出发之纽约遇见你;zh-tw:曼哈頓戀習曲;zh-hk:一切從音樂再開始}-](https://zh.wikipedia.org/wiki/曼哈頓戀習曲 "wikilink")》配音－飾Dan
+    Again;zh-cn:再次出发之纽约遇见你;zh-tw:曼哈頓戀習曲;zh-hk:一切從音樂再開始}-](../Page/曼哈頓戀習曲.md "wikilink")》配音－飾Dan
     Mulligan（中秋節精選電影《[無限挑戰](../Page/無限挑戰.md "wikilink")》特別配音版）
   - 2015年 動畫電影《》（與鄭埻夏）
   - 2017年《Hot

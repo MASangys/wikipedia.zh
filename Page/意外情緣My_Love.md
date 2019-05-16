@@ -4,9 +4,9 @@ Love》**（[諺文](../Page/諺文.md "wikilink")：****）是[韓國](https://
 ## 人物介紹
 
   - [李昌勳](../Page/李昌勳.md "wikilink") 飾 趙理煥
-  - [辛愛羅](https://zh.wikipedia.org/wiki/辛愛羅 "wikilink") 飾 張美蘭
+  - [辛愛羅](../Page/辛愛羅.md "wikilink") 飾 張美蘭
   - [張賢成](../Page/張鉉誠.md "wikilink") 飾 林太平
-  - [李允美](https://zh.wikipedia.org/wiki/李允美 "wikilink") 飾 徐熙婕
+  - [李允美](../Page/李允美.md "wikilink") 飾 徐熙婕
 
 ## 外部連結
 

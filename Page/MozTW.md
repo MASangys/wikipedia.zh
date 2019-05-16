@@ -17,7 +17,7 @@ Chinese」網站，並於2000年成立了「Mozilla@Taiwan」討論區，原先�
 
 ### Mozilla專案推廣
 
-MozTW社群主要活動範圍涵蓋Mozilla專案中的許多部分，包括文件編寫、軟體在地化、行銷推廣等\[6\]。其中軟體在地化部分除Mozilla推出之軟體如[Firefox](../Page/Firefox.md "wikilink")、[Thunderbird外](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")，也涵蓋其他諸如[Seamonkey](../Page/Seamonkey.md "wikilink")、[Nvu](../Page/Nvu.md "wikilink")、[Netscape等由Mozilla專案衍生而出](https://zh.wikipedia.org/wiki/Netscape "wikilink")，但非Mozilla所發行的軟體\[7\]。軟體在地化依靠社群討論而更貼近台灣的使用者需求，例如社群曾經討論將繁體中文版Firefox預設新聞來源從Yahoo新聞改為公視，以避免新聞重複的問題\[8\]。
+MozTW社群主要活動範圍涵蓋Mozilla專案中的許多部分，包括文件編寫、軟體在地化、行銷推廣等\[6\]。其中軟體在地化部分除Mozilla推出之軟體如[Firefox](../Page/Firefox.md "wikilink")、[Thunderbird外](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")，也涵蓋其他諸如[Seamonkey](https://zh.wikipedia.org/wiki/Seamonkey "wikilink")、[Nvu](../Page/Nvu.md "wikilink")、[Netscape等由Mozilla專案衍生而出](https://zh.wikipedia.org/wiki/Netscape "wikilink")，但非Mozilla所發行的軟體\[7\]。軟體在地化依靠社群討論而更貼近台灣的使用者需求，例如社群曾經討論將繁體中文版Firefox預設新聞來源從Yahoo新聞改為公視，以避免新聞重複的問題\[8\]。
 
 ### 與其他開源專案合作
 

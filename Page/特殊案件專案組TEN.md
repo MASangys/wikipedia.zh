@@ -40,23 +40,23 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [崔凡浩](https://zh.wikipedia.org/wiki/崔凡浩 "wikilink") 飾演
     鄭宇植（粵語配音：[招世亮](../Page/招世亮.md "wikilink")
     (TVB)）
-  - [崔　珉](https://zh.wikipedia.org/wiki/崔珉 "wikilink") 飾演
+  - [崔　珉](../Page/崔珉.md "wikilink") 飾演
     鄺秀代（粵語配音：[張方正](../Page/張方正.md "wikilink")
     (TVB)）
   - [金海仁](https://zh.wikipedia.org/wiki/金海仁 "wikilink") 飾演
     金恩英（第1集）（粵語配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")
     (TVB)）／徐恩菲（粵語配音：[魏惠娥](../Page/魏惠娥.md "wikilink") (TVB)）
   - [吳珉錫](../Page/吳珉錫.md "wikilink") 飾演
-    金善宇（第4集）（粵語配音：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+    金善宇（第4集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
     (TVB)）
-  - [鄭昊彬](https://zh.wikipedia.org/wiki/鄭昊彬 "wikilink") 飾演
+  - [鄭昊彬](../Page/鄭昊彬.md "wikilink") 飾演
     鄭義石（第4集）（粵語配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")
     (TVB)）
-  - [高仁範](https://zh.wikipedia.org/wiki/高仁範 "wikilink") 飾演
+  - [高仁範](../Page/高仁範.md "wikilink") 飾演
     朴中碩（第5集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")
     (TVB)）
-  - \-{[金智怜](https://zh.wikipedia.org/wiki/金智怜 "wikilink")}- 飾演
-    閔彩媛（第6-7集）（粵語配音：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+  - \-{[金智怜](../Page/金智怜.md "wikilink")}- 飾演
+    閔彩媛（第6-7集）（粵語配音：[何寶珊](../Page/何寶珊.md "wikilink")
     (TVB)）
   - [李素胤](https://zh.wikipedia.org/wiki/李素胤 "wikilink") 飾演
     鄭熙珠（第9集）（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
@@ -100,7 +100,7 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [尹智慧](https://zh.wikipedia.org/wiki/尹智慧 "wikilink") 飾演
     徐友蘭（粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
 
-  - [崔　珉](https://zh.wikipedia.org/wiki/崔珉 "wikilink") 飾演
+  - [崔　珉](../Page/崔珉.md "wikilink") 飾演
     鄺秀代（粵語配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
   - [李素胤](https://zh.wikipedia.org/wiki/李素胤 "wikilink") 飾演
@@ -112,8 +112,8 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [朴秉恩](https://zh.wikipedia.org/wiki/朴秉恩 "wikilink") 飾演
     宋慶泰（第2集）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
 
-  - [吳承允](https://zh.wikipedia.org/wiki/吳承允 "wikilink") 飾演
-    沈以浩（第3集）（粵語配音：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")）
+  - [吳承允](../Page/吳承允.md "wikilink") 飾演
+    沈以浩（第3集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
 
   - [尹藝熙](https://zh.wikipedia.org/wiki/尹藝熙 "wikilink") 飾演
     金順愛（第3集）（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
@@ -138,13 +138,13 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [鄭惠成](../Page/鄭惠成.md "wikilink") 飾演
     裴書妍（第7集）（粵語配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）
 
-  - [李姬珍](https://zh.wikipedia.org/wiki/李姬珍 "wikilink") 飾演
+  - [李姬珍](../Page/李姬珍.md "wikilink") 飾演
     宋華英（第8集）（粵語配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
   - [張元英](https://zh.wikipedia.org/wiki/張元英_\(演員\) "wikilink") 飾演
     朴恩秀（第8集）（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
-  - [崔松賢](https://zh.wikipedia.org/wiki/崔松賢 "wikilink") 飾演
+  - [崔松賢](../Page/崔松賢.md "wikilink") 飾演
     尹書賢（第9集）（粵語配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
 
   - [閔成旭](https://zh.wikipedia.org/wiki/閔成旭 "wikilink") 飾演
@@ -153,14 +153,14 @@ Series），[李勝英導演與](https://zh.wikipedia.org/wiki/李勝英 "wikili
   - [姜奇華](https://zh.wikipedia.org/wiki/姜奇華 "wikilink") 飾演
     李智秀（第9集）（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
-  - [林丞大](https://zh.wikipedia.org/wiki/林丞大 "wikilink") 飾演
+  - [林丞大](../Page/林丞大.md "wikilink") 飾演
     金朱哲（第9集）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
 
-  - [成智婁](https://zh.wikipedia.org/wiki/成智婁 "wikilink") 飾演
+  - [成智婁](../Page/成智婁.md "wikilink") 飾演
     馬石基（第11-12集）（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
   - [李茂生](https://zh.wikipedia.org/wiki/李茂生_\(韓國\) "wikilink") 飾演
-    秦鎮賀（第11-12集）（粵語配音：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")）
+    秦鎮賀（第11-12集）（粵語配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
 
 #### 每集主題
 

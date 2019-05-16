@@ -1,11 +1,11 @@
-**Poedit**（舊稱**poEdit**）是一個[免費增值软件及](https://zh.wikipedia.org/wiki/Freemium "wikilink")[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[gettext類](../Page/gettext.md "wikilink")（.po
+**Poedit**（舊稱**poEdit**）是一個[免費增值软件及](https://zh.wikipedia.org/wiki/Freemium "wikilink")[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[gettext類](https://zh.wikipedia.org/wiki/gettext "wikilink")（.po
 格式，應用程式裡採用了gettext來作程式的[國際化](https://zh.wikipedia.org/wiki/國際化 "wikilink")）國際化翻譯編輯器，也是同類型軟件中最廣泛使用的一個。現時它不論在
-Unix+GTK 或 Windows平台 配合 [wxWidgets](../Page/wxWidgets.md "wikilink")
-均有相關版本。
+Unix+GTK 或 Windows平台 配合
+[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink") 均有相關版本。
 
 ## 參看
 
-  - [wxWidgets](../Page/wxWidgets.md "wikilink")
+  - [wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")
   - [Gettext](../Page/Gettext.md "wikilink")
   - [Translate Toolkit](../Page/Translate_Toolkit.md "wikilink")
   - [国际化与本地化](../Page/国际化与本地化.md "wikilink") -

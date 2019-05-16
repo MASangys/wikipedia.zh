@@ -210,7 +210,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 卡特莉娜（、Catherine）
-    [配音員](../Page/配音員.md "wikilink")：日：[松嵜麗](https://zh.wikipedia.org/wiki/松嵜麗 "wikilink")／港：[陳琴雲](../Page/陳琴雲.md "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[松嵜麗](../Page/松嵜麗.md "wikilink")／港：[陳琴雲](../Page/陳琴雲.md "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
     搭檔：莉露
     自稱是「性感天使」的少女。全名是「格蘭．馬尼艾魯．蕭克拉．朱利安捷尼（、Catherine Grand Mariner Chocola
     Julliangeli）」。「魔法天使」的成員，3姊妹的次女，收集了12顆Jewel
@@ -219,7 +219,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 安潔莉娜（、Angelina）
-    [配音員](../Page/配音員.md "wikilink")：日：[MAKO](../Page/MAKO.md "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")／台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")／台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
     搭檔：雅美莉
     自稱是「女僕天使」的少女。全名是「格蘭．馬尼艾魯．蕭克拉．朱利安捷尼（、Angelina Grand Mariner Chocola
     Julliangeli）」。「魔法天使」的成員，3姊妹的三女，收集了10顆Jewel
@@ -235,7 +235,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 ### 其他角色
 
   - 茱莉娜（、Jewelina）
-    [配音員](../Page/配音員.md "wikilink")：日：[高梁碧](https://zh.wikipedia.org/wiki/高梁碧 "wikilink")／港：[朱妙蘭](../Page/朱妙蘭.md "wikilink")／台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[高梁碧](../Page/高梁碧.md "wikilink")／港：[朱妙蘭](../Page/朱妙蘭.md "wikilink")／台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
     魔法王國的女王。在二千年前因要封印懲罰考驗而令自己有一百年失去魔法力量。
 
 <!-- end list -->
@@ -281,7 +281,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 希露迪（、Hirude）
-    [配音員](../Page/配音員.md "wikilink")：日：[松嵜麗](https://zh.wikipedia.org/wiki/松嵜麗 "wikilink")／港：[沈小蘭](../Page/沈小蘭.md "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[松嵜麗](../Page/松嵜麗.md "wikilink")／港：[沈小蘭](../Page/沈小蘭.md "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
     搭檔：朵芭斯
     被人稱為「寶石樂園中最有天份的女孩」、「寶石之星大賽是為她而設」、「很有機會取得冠軍，並成為寶石之星」等。在寶石之星大賽的第二場初賽中被阿魯瑪假冒的拉也打敗。之後她向阿明、米莉亞、沙羅、利昂和尼古拉他們提及，和拉也的那場比賽不用十秒便結束，她的魔法力量靜靜地被拉也吸掉，所以輸了，受了很大打擊，要他們小心拉也，她的魔法力量深不可測。
 
@@ -339,7 +339,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 ### 溫斯頓學園
 
   - 名倉麻衣（、Nakura Mai）
-    [配音員](../Page/配音員.md "wikilink")：日：[高梁碧](https://zh.wikipedia.org/wiki/高梁碧 "wikilink")／港：[余欣沛](../Page/余欣沛.md "wikilink")、[沈小蘭](../Page/沈小蘭.md "wikilink")（第20話）／台：[李明幸](../Page/李明幸.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[高梁碧](../Page/高梁碧.md "wikilink")／港：[余欣沛](../Page/余欣沛.md "wikilink")、[沈小蘭](../Page/沈小蘭.md "wikilink")（第20話）／台：[李明幸](../Page/李明幸.md "wikilink")
     溫斯頓學學園小學部6年2班的同學，阿明的同班同學。與阿明一起畫漫畫的同學。
     經常帶領別人，常常看一些很有深度的書，亦很擅長畫漫畫。有[畏高症](https://zh.wikipedia.org/wiki/畏高症 "wikilink")。
     有一頭綠色的短髮。與阿明是好友。夢想是成為一位小說家。
@@ -349,7 +349,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 松本朋繪（、Matsumoto Tomoe）
-    [配音員](../Page/配音員.md "wikilink")：日：[內海慶子](https://zh.wikipedia.org/wiki/內海慶子 "wikilink")／港：[曾秀清](../Page/曾秀清.md "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[內海慶子](../Page/內海慶子.md "wikilink")／港：[曾秀清](../Page/曾秀清.md "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
     溫斯頓學學園小學部6年2班的同學，阿明的同班同學。與阿明一起畫漫畫的同學。
     有一頭銀色的曲髮。與阿明是好友。與七海的話題較多，夢想是成為一位電影明星。
     因筆先生的魔法，於是與阿明、麻衣、七海及志保經歷了一場魔法大歷險。
@@ -367,7 +367,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 檜志保（、Hinoki Shiho）
-    [配音員](../Page/配音員.md "wikilink")：日：[沼倉愛美](https://zh.wikipedia.org/wiki/沼倉愛美 "wikilink")／港：[張頌欣](../Page/張頌欣.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[沼倉愛美](../Page/沼倉愛美.md "wikilink")／港：[張頌欣](../Page/張頌欣.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
     溫斯頓學學園小學部6年2班的同學，阿明的同班同學。與阿明一起畫漫畫的同學。
     有一頭啡色的頭髮，戴眼鏡。與阿明是好友。
     因筆先生的魔法，於是與阿明、麻衣、朋繪及七海經歷了一場魔法大歷險。
@@ -488,7 +488,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 櫻萬里繪（、Sakura Marie）
-    [配音員](../Page/配音員.md "wikilink")：日：[高梁碧](https://zh.wikipedia.org/wiki/高梁碧 "wikilink")／港：[黃玉娟](../Page/黃玉娟.md "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[高梁碧](../Page/高梁碧.md "wikilink")／港：[黃玉娟](../Page/黃玉娟.md "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
     小明和莫妮卡的母親。懂得駕駛，有一架紅色的私家車。是一個雜誌編輯。
     一直被阿明認為自己偏心於莫妮卡。
 
@@ -531,7 +531,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 片岡（、Kataoka）
-    [配音員](../Page/配音員.md "wikilink")：日：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／港：[葉振聲](../Page/葉振聲.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[上田燿司](../Page/上田燿司.md "wikilink")／港：[葉振聲](../Page/葉振聲.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
     阿晃公司的專務（董事長）。很惹人討厭。
 
 <!-- end list -->
@@ -588,7 +588,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 保羅權（、Purokion）
-    [配音員](../Page/配音員.md "wikilink")：日：[山本正樹](https://zh.wikipedia.org/wiki/山本正樹 "wikilink")／港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[山本正樹](../Page/山本正樹.md "wikilink")／港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
     Cosmo Boys的隊員。
 
 <!-- end list -->
@@ -698,7 +698,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 ### 其他寶石寵物
 
   - 小玲（、Rin）
-    [配音員](../Page/配音員.md "wikilink")：日：[早川真由](https://zh.wikipedia.org/wiki/早川真由 "wikilink")／港：[陳琴雲](../Page/陳琴雲.md "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[早川真由](../Page/早川真由.md "wikilink")／港：[陳琴雲](../Page/陳琴雲.md "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
     搭檔：莫魯塔貝多校長
     能在空中飛，靜止時會站在樹枝上。總跟在校長旁邊，輔助校長行事。很不支持校長買魔法郵購及唱卡拉ok。語尾為「玲」。
 
@@ -718,7 +718,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 米爾姬（、Milky）
-    [配音員](../Page/配音員.md "wikilink")：日：[內海慶子](https://zh.wikipedia.org/wiki/內海慶子 "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")、[程文意](../Page/程文意.md "wikilink")（代配）／台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[內海慶子](../Page/內海慶子.md "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")、[程文意](../Page/程文意.md "wikilink")（代配）／台：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
     搭檔：郝萊特老師
     個性溫和。輔助魔法學校的各種行事。有時會擔任各種競賽或大會的主持人。曾跟隨小明一起到人間界參觀。
 
@@ -745,7 +745,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 奈弗萊（、Nephrite）
-    [配音員](../Page/配音員.md "wikilink")：日：[尾崎惠](https://zh.wikipedia.org/wiki/尾崎惠 "wikilink")／港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[尾崎惠](../Page/尾崎惠.md "wikilink")／港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")／台：[李明幸](../Page/李明幸.md "wikilink")
     第5話中登場，個性喜歡吃東西。沙羅的人體實驗者之一。語尾為「Geropa」。
 
 <!-- end list -->
@@ -803,7 +803,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 阿科爾（、Aqua）
-    [配音員](../Page/配音員.md "wikilink")：日：[櫻塚恭](https://zh.wikipedia.org/wiki/斋藤恭央 "wikilink")／港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[櫻塚恭](../Page/斋藤恭央.md "wikilink")／港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
     第22話中登場，個性溫和，若有他人破壞海域或稱呼他為金魚時會變得很衝動。為保護海洋的寶石寵物巡邏員。語尾為「Q」。
 
 <!-- end list -->
@@ -840,14 +840,14 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 尤克（、Yuku）
-    [配音員](../Page/配音員.md "wikilink")：日：[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[吉田仁美](../Page/吉田仁美.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
     搭檔：更河
     第45話中登場。艾克史蘭德學園的學生，鋼荷的合作夥伴。
 
 <!-- end list -->
 
   - 查洛特（、Charotte）
-    [配音員](../Page/配音員.md "wikilink")：日：[MAKO](../Page/MAKO.md "wikilink")／港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")／港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")／台：[黃珽筠](../Page/黃珽筠.md "wikilink")
     搭檔：沙坎
     第46話中登場。待人和善。語尾為「茶蘿」。
 
@@ -878,8 +878,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 ## 關連條目
 
   - [寶石寵物 (第一季)角色列表](../Page/寶石寵物_\(第一季\)角色列表.md "wikilink")
-  - [寶石寵物
-    Sunshine角色列表](https://zh.wikipedia.org/wiki/寶石寵物_Sunshine角色列表 "wikilink")
+  - [寶石寵物 Sunshine角色列表](../Page/寶石寵物_Sunshine角色列表.md "wikilink")
 
 [Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink")
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

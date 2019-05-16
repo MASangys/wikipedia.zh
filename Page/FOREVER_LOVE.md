@@ -1,5 +1,5 @@
 「**FOREVER
-LOVE**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")7张[单曲](../Page/单曲.md "wikilink")。2008年11月26日由[zetima发售](../Page/zetima.md "wikilink")。
+LOVE**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")7张[单曲](../Page/单曲.md "wikilink")。2008年11月26日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

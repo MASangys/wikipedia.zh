@@ -39,7 +39,7 @@ Charles Lee</p></td>
 <tr class="even">
 <td><p>03</p></td>
 <td><p>金</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐浩_(歌手)" title="wikilink">徐浩</a></p></td>
+<td><p><a href="../Page/徐浩_(歌手).md" title="wikilink">徐浩</a></p></td>
 <td><p>陳詠謙</p></td>
 <td><p>怒花</p></td>
 <td><p>周錫漢<br />

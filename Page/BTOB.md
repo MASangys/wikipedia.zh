@@ -1,4 +1,4 @@
-**BTOB**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[Cube娛樂於](../Page/Cube娛樂.md "wikilink")2012年成立。成員包括[徐恩光](../Page/徐恩光.md "wikilink")、[李旼赫](https://zh.wikipedia.org/wiki/李旼赫 "wikilink")、[李昌燮](https://zh.wikipedia.org/wiki/李昌燮 "wikilink")、[任炫植](https://zh.wikipedia.org/wiki/任炫植 "wikilink")、[Peniel](../Page/辛東根.md "wikilink")、[鄭鎰勳](https://zh.wikipedia.org/wiki/鄭鎰勳 "wikilink")、[陸星材](https://zh.wikipedia.org/wiki/陸星材 "wikilink")。BTOB的名稱代表著「**Born
+**BTOB**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[Cube娛樂於](../Page/Cube娛樂.md "wikilink")2012年成立。成員包括[徐恩光](../Page/徐恩光.md "wikilink")、[李旼赫](../Page/李旼赫.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[Peniel](../Page/辛東根.md "wikilink")、[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")。BTOB的名稱代表著「**Born
 To
 Beat**」，意思指「包含音樂抱負，希望和決心，為Beat而生」。以「Beat」的意思為節拍、伴奏、背景、衝擊，也分為「為新的音樂和舞台而生」和「用音樂給全世界聽眾帶來衝擊而生」兩個主題。\[1\]\[2\]
 7名成員中擁有4名Vocalists及3名Rapper，均具有堅強的現場演唱實力以及創作能力。
@@ -10,7 +10,7 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開出道�
 ver.）](https://zh.wikipedia.org/wiki/WOW（JPN_ver.） "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")，以首張數位單曲《[留在我身邊](https://zh.wikipedia.org/wiki/留在我身邊_\(BTOB－BLUE單曲\) "wikilink")》正式出道。
 
 2015年6月29日，以抒情曲《[沒關係](../Page/Complete_\(BTOB專輯\).md "wikilink")》首次獲得各大音源榜一位。2015年10月21日，以《[回家的路](../Page/I_mean.md "wikilink")》於[MBC
-Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink")《[Show
+Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
 Champion](../Page/Show_Champion.md "wikilink")》獲得出道3年7個月以來首個音樂放送一位
 。2016年4月8日，以《[春天的記憶](../Page/Remember_That.md "wikilink")》在出道1,480天後於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得無線電視臺初一位，打歌期間共榮獲「三冠王」
@@ -27,7 +27,7 @@ Live中以轉盤選出隊內擔當，鎰勳當選Ace擔當、Peniel連任主舞�
 
   - 官方歌迷名稱：「**Melody**（旋律）」（），意為悅耳的聲音、美妙的旋律，與Born To
     Beat的Beat（節奏）結合成為Music（音樂），也表示成員們在音樂中與歌迷成為一體。\[6\]
-  - [應援色](https://zh.wikipedia.org/wiki/應援色 "wikilink")：SLOW BLUE
+  - [應援色](../Page/應援色.md "wikilink")：SLOW BLUE
   - 應援物：喇叭造型手燈（）
 
 ### 問候語
@@ -52,25 +52,25 @@ Line成員都能成為主音。
 
 ## 成員資料
 
-| 成員列表                                                      |
-| --------------------------------------------------------- |
-| 姓名                                                        |
-| 本名                                                        |
-| [恩光](../Page/徐恩光.md "wikilink") \[17\]                    |
-| [旼赫](https://zh.wikipedia.org/wiki/李旼赫 "wikilink") \[18\] |
-| [昌燮](https://zh.wikipedia.org/wiki/李昌燮 "wikilink") \[19\] |
-| [炫植](https://zh.wikipedia.org/wiki/任炫植 "wikilink") \[20\] |
-| [Peniel](../Page/辛東根.md "wikilink") \[21\]                |
-| [鎰勳](https://zh.wikipedia.org/wiki/鄭鎰勳 "wikilink") \[22\] |
-| [星材](https://zh.wikipedia.org/wiki/陸星材 "wikilink") \[23\] |
+| 成員列表                                       |
+| ------------------------------------------ |
+| 姓名                                         |
+| 本名                                         |
+| [恩光](../Page/徐恩光.md "wikilink") \[17\]     |
+| [旼赫](../Page/李旼赫.md "wikilink") \[18\]     |
+| [昌燮](../Page/李昌燮.md "wikilink") \[19\]     |
+| [炫植](../Page/任炫植.md "wikilink") \[20\]     |
+| [Peniel](../Page/辛東根.md "wikilink") \[21\] |
+| [鎰勳](../Page/鄭鎰勳.md "wikilink") \[22\]     |
+| [星材](../Page/陸星材.md "wikilink") \[23\]     |
 
 ## 歷程
 
 ### 2012年：出道前
 
-[恩光](../Page/徐恩光.md "wikilink")、[旼赫](https://zh.wikipedia.org/wiki/李旼赫 "wikilink")、[炫植](https://zh.wikipedia.org/wiki/任炫植 "wikilink")、[鎰勳和](https://zh.wikipedia.org/wiki/鄭鎰勳 "wikilink")[旻優有份參與](https://zh.wikipedia.org/wiki/T.K "wikilink")[JTBC](../Page/JTBC.md "wikilink")[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》演出，亦曾以歌曲《奪走那雙唇（그
+[恩光](../Page/徐恩光.md "wikilink")、[旼赫](../Page/李旼赫.md "wikilink")、[炫植](../Page/任炫植.md "wikilink")、[鎰勳和](../Page/鄭鎰勳.md "wikilink")[旻優有份參與](https://zh.wikipedia.org/wiki/T.K "wikilink")[JTBC](../Page/JTBC.md "wikilink")[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》演出，亦曾以歌曲《奪走那雙唇（그
 입술을 뺏었어）》及名稱「清潭不敗（Invincible
-Cheongdam）」在劇中音樂節目作虛擬出道舞臺，此五位是率先通過戲劇公開的成員。BTOB出道前，CUBE公司宣布旻優因健康理由退出，之後以六人男團[C-CLOWN成員](../Page/C-CLOWN.md "wikilink")（T.K）出道。其後，公開[昌燮](https://zh.wikipedia.org/wiki/李昌燮 "wikilink")、[Peniel及](../Page/辛東根.md "wikilink")[星材三位成員](https://zh.wikipedia.org/wiki/陸星材 "wikilink")。\[24\]
+Cheongdam）」在劇中音樂節目作虛擬出道舞臺，此五位是率先通過戲劇公開的成員。BTOB出道前，CUBE公司宣布旻優因健康理由退出，之後以六人男團[C-CLOWN成員](../Page/C-CLOWN.md "wikilink")（T.K）出道。其後，公開[昌燮](../Page/李昌燮.md "wikilink")、[Peniel及](../Page/辛東根.md "wikilink")[星材三位成員](../Page/陸星材.md "wikilink")。\[24\]
 
 ### 2012年：正式出道
 
@@ -94,15 +94,14 @@ Play](https://zh.wikipedia.org/wiki/Press_Play_\(BTOB迷你專輯\) "wikilink")�
 
 2013年8月29日，釋出了先行曲《當我是你的男人時（내가 니 남자였을때）》的 MV \[40\]\[41\]，並在同日公開新歌《為什麼（왜
 이래）》的試聽
-\[42\]。9月9日，發行迷你三輯《[Thriller](https://zh.wikipedia.org/wiki/Thriller_\(BTOB迷你專輯\) "wikilink")》\[43\]。
+\[42\]。9月9日，發行迷你三輯《[Thriller](../Page/Thriller_\(BTOB迷你專輯\).md "wikilink")》\[43\]。
 
 ### 2014年：首次單獨演唱會 與 日本出道
 
 [KOCIS_Korea_Mnet_BTOB_01_(12986777595).jpg](https://zh.wikipedia.org/wiki/File:KOCIS_Korea_Mnet_BTOB_01_\(12986777595\).jpg "fig:KOCIS_Korea_Mnet_BTOB_01_(12986777595).jpg")
 
-2014年2月17日，迷你四輯《[뛰뛰빵빵（Beep
-Beep）](https://zh.wikipedia.org/wiki/嘀嘀叭叭 "wikilink")》發行
-\[44\]，並奪得該年度2月第3週韓國國內專輯銷售榜的榜單一位。9月29日，迷你五輯《[Move](https://zh.wikipedia.org/wiki/Move_\(BTOB迷你專輯\) "wikilink")》發行，主打曲《你就是感動（넌
+2014年2月17日，迷你四輯《[뛰뛰빵빵（Beep Beep）](../Page/嘀嘀叭叭.md "wikilink")》發行
+\[44\]，並奪得該年度2月第3週韓國國內專輯銷售榜的榜單一位。9月29日，迷你五輯《[Move](../Page/Move_\(BTOB迷你專輯\).md "wikilink")》發行，主打曲《你就是感動（넌
 감동이야）》MV也於同日韓國時間0點整公開 \[45\]。
 
 2014年10月31日、11月1日，連續2天於[韓國首爾奧林匹克Hall舉行首次單獨演唱會](../Page/奧林匹克公園_\(首爾\).md "wikilink")《[Hello,
@@ -113,7 +112,7 @@ ver.）](https://zh.wikipedia.org/wiki/WOW（JPN_ver.） "wikilink")》於日本
 \[46\]。
 
 2014年12月3日，公開單曲《哭也可以（울어도 돼）》的音源 \[47\]。12月22日，發行迷你六輯《[The Winter's
-Tale](https://zh.wikipedia.org/wiki/The_Winter's_Tale_\(BTOB迷你專輯\) "wikilink")》\[48\]。
+Tale](../Page/The_Winter's_Tale_\(BTOB迷你專輯\).md "wikilink")》\[48\]。
 
 ### 2015年：《Complete》迎來成長 到 出道初一位
 
@@ -122,7 +121,7 @@ Tale](https://zh.wikipedia.org/wiki/The_Winter's_Tale_\(BTOB迷你專輯\) "wiki
 2015年3月25日，發行第二張日文單曲《[未來（明天）](https://zh.wikipedia.org/wiki/未來（明天） "wikilink")》\[49\]\[50\]。
 
 2015年4月27日，星材主演的[KBS月火連續劇](../Page/KBS月火連續劇.md "wikilink")《[Who Are
-You－學校2015](https://zh.wikipedia.org/wiki/Who_Are_You－學校2015 "wikilink")》播出，飾演四次元少年孔太光，並獻唱OST《Love
+You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》播出，飾演四次元少年孔太光，並獻唱OST《Love
 Song》。
 
 2015年6月29日，公開正規一輯《[Complete](../Page/Complete_\(BTOB專輯\).md "wikilink")》及主打歌《沒關係（괜찮아요）》\[51\]\[52\]\[53\]，這是他們首次選擇以抒情曲作為主打歌曲回歸樂壇。該次回歸取得歷來最優異的成績，公開主打歌音源後均於各大音源榜排行1位。
@@ -138,7 +137,7 @@ ToonDraShow之清純家族》播出，飾演男主人公高中生金成敏。10�
 2015年10月12日，公開迷你七輯《[I mean](../Page/I_mean.md "wikilink")》及主打歌《回家的路（집으로
 가는 길）》\[56\]，音源釋出即占據實時音源榜Mnet、Genie、Naver Music、Bugs、Olleh
 Music等1位、Melon2位，專輯其他歌曲也在榜上 \[57\]。21日，於[MBC
-Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink")《[Show
+Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
 Champion](../Page/Show_Champion.md "wikilink")》得到出道3年7個月以來初次音樂放送一位
 \[58\]。
 
@@ -170,7 +169,7 @@ To Beat Time \~ Encore
 That](../Page/Remember_That.md "wikilink")》正式發行，主打曲《春天的記憶（봄날의
 기억）》\[64\] 及第二主打曲《So
 Pretty》於26、27日舉行的單獨演唱會上先行公開首唱；音源公開即空降Mnet、Genie、Naver2位、Melon3位、Olleh4位、Bugs12位等，專輯其他非主打曲也均位於榜單內。4月6日，於[MBC
-Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink")《[Show
+Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
 Champion](../Page/Show_Champion.md "wikilink")》首次以7人完整體獲得一位
 \[65\]；7日，獲得[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M
 Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》初一位；8日，在出道1,480天後，獲得[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music
@@ -178,7 +177,7 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》無線電視臺初�
 \[66\]\[67\]。
 
 2016年4月16日，在《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》500集特輯中，與女團[Mamamoo交換舞臺](https://zh.wikipedia.org/wiki/Mamamoo "wikilink")，重新演繹她們的歌曲《你
+音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》500集特輯中，與女團[Mamamoo交換舞臺](../Page/Mamamoo.md "wikilink")，重新演繹她們的歌曲《你
 is
 完美》\[68\]，MAMAMOO則演唱BTOB的《沒關係》，兩團充分顯現現場實力的特別表演受到許多讚賞與熱議；由於當日為「[韓國世越號沉船事件](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")」兩週年，BTOB戴上黃絲帶在舞臺上表演以悼念死難者。
 
@@ -190,7 +189,7 @@ Japan週榜](https://zh.wikipedia.org/wiki/Billboard "wikilink")1位，銷量為
 
 2016年7月1日，[tvN綜藝電視劇](https://zh.wikipedia.org/wiki/tvN "wikilink")《話劇結束之後》的劇中劇《Iron
 Lady》以網路劇形式在[NAVER
-TVcast先行公開](../Page/Naver.md "wikilink")，旼赫飾演時尚公司職員馬祿熙；7月2日，《話劇結束之後》首播，主要拍攝演員演出《Iron
+TVcast先行公開](https://zh.wikipedia.org/wiki/Naver "wikilink")，旼赫飾演時尚公司職員馬祿熙；7月2日，《話劇結束之後》首播，主要拍攝演員演出《Iron
 Lady》的幕後真人秀 \[73\]。
 
 2016年8月6日，發表第四張數位單曲《想要去旅行（여행가고 싶어）》，該曲也作為韓國綜藝節目《[Battle
@@ -245,8 +244,7 @@ Music2位、Genie、Bugs、MelOn3位、Soribada13位、Mnet18位。特別是MelO
 Music、Genie、Bugs五榜中，其餘十一首收錄歌曲均佔據榜單上游位置，而後主打曲於韓國時間21時在MelOn、Genie、Bugs、Naver
 Music、Monkey3、Olleh等六榜上升至1位
 \[108\]。Genie、Bugs、Olleh三榜自韓國時間16日21時起至17日15時為止，連續20小時位於榜單1位；而MelOn於韓國時間16日20時起至20日11時連續86小時蟬聯1位，打破自身紀錄。\[109\]\[110\]
-10月25、26、27日，分別於[MBC
-Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink")《[Show
+10月25、26、27日，分別於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
 Champion](../Page/Show_Champion.md "wikilink")》、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M
 Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》、[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位；10月29日，獲得[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》初一位
@@ -289,9 +287,9 @@ US](https://zh.wikipedia.org/wiki/THIS_IS_US_\(BTOB迷你專輯\) "wikilink")》
 없인 안 된다）》 \[125\]\[126\]，音源公開後空降Bugs 4位、Melon 5位、Genie 7位、Mnet 7位、Naver
 9位、Soribada
 18位，各榜單中其他收錄歌曲均位於上位圈；其後Melon、Genie、Mnet、Naver、Olleh等榜單上升至1位。6月27日，於[MBC
-Music](https://zh.wikipedia.org/wiki/MBC_Plus_Media "wikilink")《[Show
+Music](../Page/MBC_Plus_Media.md "wikilink")《[Show
 Champion](../Page/Show_Champion.md "wikilink")》獲得一位 \[127\]；7月3日，於《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》獲得一位，亦是於該節目獲得的首個一位\[128\]。
+SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》獲得一位，亦是於該節目獲得的首個一位\[128\]。
 
 2018年7月25日，旼赫以首張日語單曲《[Summer
 Diary](https://zh.wikipedia.org/wiki/夏天的日記_\(單曲\) "wikilink")》於日本正式個人出道，是繼昌燮之後第二位於日本進行個人活動的成員
@@ -364,11 +362,11 @@ WITH MELODY」的特別展覽。\[152\]
     Beat](https://zh.wikipedia.org/wiki/Born_to_Beat_\(BTOB迷你專輯\) "wikilink")（2012年4月3日）
 2.  [Press
     Play](https://zh.wikipedia.org/wiki/Press_Play_\(BTOB迷你專輯\) "wikilink")（2012年9月12日）
-3.  [Thriller](https://zh.wikipedia.org/wiki/Thriller_\(BTOB迷你專輯\) "wikilink")（2013年9月9日）
-4.  [嘀嘀叭叭](https://zh.wikipedia.org/wiki/嘀嘀叭叭 "wikilink")（2014年2月17日）
-5.  [MOVE](https://zh.wikipedia.org/wiki/Move_\(BTOB迷你專輯\) "wikilink")（2014年9月29日）
+3.  [Thriller](../Page/Thriller_\(BTOB迷你專輯\).md "wikilink")（2013年9月9日）
+4.  [嘀嘀叭叭](../Page/嘀嘀叭叭.md "wikilink")（2014年2月17日）
+5.  [MOVE](../Page/Move_\(BTOB迷你專輯\).md "wikilink")（2014年9月29日）
 6.  [The Winter's
-    Tale](https://zh.wikipedia.org/wiki/The_Winter's_Tale_\(BTOB迷你專輯\) "wikilink")（2014年12月22日）
+    Tale](../Page/The_Winter's_Tale_\(BTOB迷你專輯\).md "wikilink")（2014年12月22日）
 7.  [I mean](../Page/I_mean.md "wikilink")（2015年10月12日）
 8.  [Remember That](../Page/Remember_That.md "wikilink")（2016年3月28日）
 9.  [NEW
@@ -433,8 +431,8 @@ Duo
 
 除了歌唱和藝能外，成員們也有參與許多戲劇演出，出道前以團體出演的[JTBC](../Page/JTBC.md "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》、成員星材主演的KBS《[Who
 Are
-You－學校2015](https://zh.wikipedia.org/wiki/Who_Are_You－學校2015 "wikilink")》、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》等。主持方面亦有涉略，如擔任《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目固定主持；恩光擔任[MBC
+You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》等。主持方面亦有涉略，如擔任《[THE
+SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》等音樂節目固定主持；恩光擔任[MBC
 RADIO廣播電台節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《[IDOL
 RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")》的試播DJ，是首位主持廣播節目的成員，其後恩光入伍後由鎰勳接替該節目成為正規DJ。
 
@@ -535,19 +533,19 @@ Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://z
 <td><p><a href="https://zh.wikipedia.org/wiki/第二次告白_(BTOB單曲)" title="wikilink">2nd Confession</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Thriller_(BTOB迷你專輯)" title="wikilink">Thriller</a></p></td>
+<td><p><a href="../Page/Thriller_(BTOB迷你專輯).md" title="wikilink">Thriller</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/嘀嘀叭叭" title="wikilink">嘀嘀叭叭</a></p></td>
+<td><p><a href="../Page/嘀嘀叭叭.md" title="wikilink">嘀嘀叭叭</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Move_(BTOB迷你專輯)" title="wikilink">Move</a></p></td>
+<td><p><a href="../Page/Move_(BTOB迷你專輯).md" title="wikilink">Move</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Winter&#39;s_Tale_(BTOB迷你專輯)" title="wikilink">The Winter's Tale</a></p></td>
+<td><p><a href="../Page/The_Winter&#39;s_Tale_(BTOB迷你專輯).md" title="wikilink">The Winter's Tale</a></p></td>
 </tr>
 <tr class="even">
 <td><p>不能哭 (The Winter's Tale)</p></td>

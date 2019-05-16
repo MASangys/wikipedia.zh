@@ -21,7 +21,7 @@
 <td><p>Oikawa-Eki</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/御台場海濱公園車站" title="wikilink">御台場海濱公園車站</a></p></td>
+<td><p><a href="../Page/御台場海濱公園車站.md" title="wikilink">御台場海濱公園車站</a></p></td>
 <td></td>
 <td><p>Odaiba-kaihinkōen-Eki</p></td>
 </tr>

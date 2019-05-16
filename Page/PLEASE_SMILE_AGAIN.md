@@ -8,7 +8,7 @@ AGAIN**》（再展笑顏）是[安室奈美惠以個人單獨名義在](../Page
     AGAIN為[明治製菓的廣告歌曲](../Page/明治製菓.md "wikilink")，廣告版本中的歌曲與原版本的編曲有少許不同。
   - 安室本人向小室直說「很想要搖滾歌曲\!\!」而作了這首歌曲。
   - B面歌CROSS OVER其後亦收錄於專輯《[break the
-    rules](../Page/break_the_rules.md "wikilink")》中，並改為專輯版本。
+    rules](https://zh.wikipedia.org/wiki/break_the_rules "wikilink")》中，並改為專輯版本。
 
 ## 收錄曲
 

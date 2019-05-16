@@ -57,7 +57,7 @@ Play并不提供apk文件下载](../Page/Google_Play.md "wikilink")，用户只�
     （参见英文条目：[Aptoide](https://en.wikipedia.org/wiki/Aptoide)
     ）
   - [Wandoujia](https://www.wandoujia.com/apps/)
-    [豌豆荚](https://zh.wikipedia.org/wiki/豌豆荚 "wikilink")
+    [豌豆荚](../Page/豌豆荚.md "wikilink")
 
 ## 扩展阅读
 

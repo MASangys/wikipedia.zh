@@ -49,8 +49,7 @@ Google
     切换的工具，将 Google 定位成
     [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") 和
     [IBM](../Page/IBM.md "wikilink") 的替代者。\[11\]
-  - 2007年10月3日 - 在收购
-    [Postini](https://zh.wikipedia.org/wiki/Postini "wikilink")
+  - 2007年10月3日 - 在收购 [Postini](../Page/Postini.md "wikilink")
     之后一个月，Google 宣布已向 Google Apps Premier Edition
     添加启动的电子邮件安全性和合规性选项。现在，客户可以更好地配置其[垃圾邮件和](https://zh.wikipedia.org/wiki/濫發電子訊息 "wikilink")[病毒过滤](../Page/计算机病毒.md "wikilink")，实施保留策略，恢复已删除的消息并给予管理员对所有电子邮件的访问权。\[12\]
   - 2008年2月26日 - Google 引入了 [Google
@@ -78,8 +77,7 @@ Google
     Apps for Business 用户 5GB 的云端硬盘存储空间，还可以选择购买更多空间。\[20\]
     观察家注意到，现在，Google 已进军云存储市场，与诸如
     [Dropbox](../Page/Dropbox.md "wikilink") 和
-    [Box](https://zh.wikipedia.org/wiki/Box公司 "wikilink")
-    之类的玩家进行竞争。\[21\]
+    [Box](../Page/Box公司.md "wikilink") 之类的玩家进行竞争。\[21\]
   - 2012年12月6日 - Google 宣布新客户不再可以使用免费版的 Google Apps。\[22\]
   - 2014年5月13日 - Google 增加了 Google Apps 客户的云端硬盘存储配额。Google 将 Gmail 中的
     15GB 与云端硬盘中的 5GB 合并，将其增加为每位用户 30GB，可以跨所有应用产品（包括 Gmail 和 Google

@@ -8,17 +8,14 @@
   - double cos
     (double);[余弦](https://zh.wikipedia.org/wiki/余弦 "wikilink")
   - double tan (double);[正切](../Page/正切.md "wikilink")
-  - double asin
-    (double);[反正弦](https://zh.wikipedia.org/wiki/反正弦 "wikilink"),结果介于\[-PI/2,
+  - double asin (double);[反正弦](../Page/反正弦.md "wikilink"),结果介于\[-PI/2,
     PI/2\]
-  - double acos
-    (double);[反餘弦](https://zh.wikipedia.org/wiki/反餘弦 "wikilink"),结果介于\[0,
-    PI\]
-  - double atan (double);
-    [反正切](https://zh.wikipedia.org/wiki/反正切 "wikilink")(主值),
+  - double acos (double);[反餘弦](../Page/反餘弦.md "wikilink"),结果介于\[0, PI\]
+  - double atan (double); [反正切](../Page/反正切.md "wikilink")(主值),
     结果介于\[-PI/2, PI/2\]
   - double atan2 (double, double);
-    [反正切](../Page/atan2.md "wikilink")(整圆值), 结果介于\[-PI, PI\]
+    [反正切](https://zh.wikipedia.org/wiki/atan2 "wikilink")(整圆值),
+    结果介于\[-PI, PI\]
   - double sinh
     (double);[双曲正弦](https://zh.wikipedia.org/wiki/双曲正弦 "wikilink")
   - double cosh

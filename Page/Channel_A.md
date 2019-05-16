@@ -1,5 +1,5 @@
 **Channel
-A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為韓國[東亞日報擁有的电视台](../Page/東亞日報.md "wikilink")，自2011年12月1日起開播，為[綜合編成頻道四台之一](https://zh.wikipedia.org/wiki/綜合編成頻道 "wikilink")。通過[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[IPTV平台播出](../Page/IPTV.md "wikilink")。前身為於1980年遭[全斗煥政府以](../Page/全斗煥.md "wikilink")「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」為由而強行停播廣播電視公司之一的[東亞廣播公司](https://zh.wikipedia.org/wiki/東亞廣播公司 "wikilink")，因2008年南韓廣播相關法令增修而予以「復播」。
+A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為韓國[東亞日報擁有的电视台](../Page/東亞日報.md "wikilink")，自2011年12月1日起開播，為[綜合編成頻道四台之一](../Page/綜合編成頻道.md "wikilink")。通過[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[IPTV平台播出](../Page/IPTV.md "wikilink")。前身為於1980年遭[全斗煥政府以](../Page/全斗煥.md "wikilink")「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」為由而強行停播廣播電視公司之一的[東亞廣播公司](https://zh.wikipedia.org/wiki/東亞廣播公司 "wikilink")，因2008年南韓廣播相關法令增修而予以「復播」。
 
 ## 節目
 
@@ -8,16 +8,15 @@ A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為�
 #### 韓國（自製）
 
   - [Channel A月火連續劇](../Page/Channel_A月火連續劇.md "wikilink")
-  - [Channel
-    A周末特別企劃劇](https://zh.wikipedia.org/wiki/Channel_A周末特別企劃劇 "wikilink")
-  - [蔬菜店的小夥子](https://zh.wikipedia.org/wiki/蔬菜店的小夥子 "wikilink")
+  - [Channel A周末特別企劃劇](../Page/Channel_A周末特別企劃劇.md "wikilink")
+  - [蔬菜店的小夥子](../Page/蔬菜店的小夥子.md "wikilink")
   - [Happy And..](https://zh.wikipedia.org/wiki/Happy_And.. "wikilink")
   - [給你說個驚人的故事](https://zh.wikipedia.org/wiki/給你說個驚人的故事 "wikilink")
   - [十二夜](https://zh.wikipedia.org/wiki/十二夜_\(韓國電視劇\) "wikilink")
 
 #### 美國（外購）
 
-  - [泛美PAN AM](https://zh.wikipedia.org/wiki/泛美之旅 "wikilink")
+  - [泛美PAN AM](../Page/泛美之旅.md "wikilink")
 
   - [Franklin & Bash](https://zh.wikipedia.org/wiki/小律師大作為 "wikilink")
 

@@ -1,7 +1,7 @@
 **OmegaT**是一个使用[Java编程语言编写的](../Page/Java.md "wikilink")[计算机辅助翻译工具](https://zh.wikipedia.org/wiki/计算机辅助翻译 "wikilink")。它是[自由软件](../Page/自由软件.md "wikilink")，最初的开发由Keith
 Godfrey在2000年进行，目前的开发工作由Didier Briel带领的团队进行。**OmegaT**名称在德国是注册商标。
 
-OmegaT适用于专业译员。它的功能包括使用[正则表达式的可自定义分段](../Page/正则表达式.md "wikilink")，带有模糊匹配和匹配传播的[翻譯記憶](../Page/翻譯記憶.md "wikilink")，术语库匹配，词典匹配和参考资料搜索以及使用[Hunspell拼写词典的内联拼写检查功能](https://zh.wikipedia.org/wiki/Hunspell "wikilink")。
+OmegaT适用于专业译员。它的功能包括使用[正则表达式的可自定义分段](../Page/正则表达式.md "wikilink")，带有模糊匹配和匹配传播的[翻譯記憶](../Page/翻譯記憶.md "wikilink")，术语库匹配，词典匹配和参考资料搜索以及使用[Hunspell拼写词典的内联拼写检查功能](../Page/Hunspell.md "wikilink")。
 
 OmegaT可运行于[Linux](../Page/Linux.md "wikilink")、[Mac OS
 X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft

@@ -1,7 +1,7 @@
-是日本[Falcom公司最早于](https://zh.wikipedia.org/wiki/Falcom "wikilink")1992年發行的一款[角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")\[1\]，後來被移植到[MD](../Page/Mega_Drive.md "wikilink")
+是日本[Falcom公司最早于](https://zh.wikipedia.org/wiki/Falcom "wikilink")1992年發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]，後來被移植到[MD](../Page/Mega_Drive.md "wikilink")
 ,[PCE](https://zh.wikipedia.org/wiki/PCE "wikilink"),
 [DOS](../Page/DOS.md "wikilink"),[SFC等遊戲平台](https://zh.wikipedia.org/wiki/SFC "wikilink")。是《[Dragon
-Slayer系列](https://zh.wikipedia.org/wiki/Dragon_Slayer系列 "wikilink")》第六代的第二部作品，而後成為《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第二代與第二部作品，和《[英雄傳說I](../Page/英雄傳說_\(遊戲\).md "wikilink")》合稱為[伊賽魯哈薩篇](https://zh.wikipedia.org/wiki/伊賽魯哈薩篇 "wikilink")。
+Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》第六代的第二部作品，而後成為《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第二代與第二部作品，和《[英雄傳說I](../Page/英雄傳說_\(遊戲\).md "wikilink")》合稱為[伊賽魯哈薩篇](https://zh.wikipedia.org/wiki/伊賽魯哈薩篇 "wikilink")。
 
 ## 劇情概要
 
@@ -199,16 +199,14 @@ Slayer系列](https://zh.wikipedia.org/wiki/Dragon_Slayer系列 "wikilink")》�
 
 ## 系列作品
 
-  - [Dragon
-    Slayer系列](https://zh.wikipedia.org/wiki/Dragon_Slayer系列 "wikilink")
+  - [Dragon Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
   - [英雄傳說I](https://zh.wikipedia.org/wiki/英雄傳說I "wikilink")
 
 ## 關連項目
 
   - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
-  - [Dragon
-    Slayer系列](https://zh.wikipedia.org/wiki/Dragon_Slayer系列 "wikilink")
+  - [Dragon Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
 
 ## 参考資料

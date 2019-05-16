@@ -11,8 +11,7 @@ Remixes〜**》是在2011年9月28日发售的[日本女歌手](../Page/日本.m
 
 <!-- end list -->
 
-1.  **[Close To Your
-    Heart](https://zh.wikipedia.org/wiki/Close_To_Your_Heart "wikilink")
+1.  **[Close To Your Heart](../Page/Close_To_Your_Heart.md "wikilink")
     -ltns:D rmx-**
       - 作曲：[大野愛果](../Page/大野愛果.md "wikilink") / Remix：齋藤真也
 2.  **[MIRACLE](https://zh.wikipedia.org/wiki/MIRACLE "wikilink") -★STAR
@@ -31,20 +30,18 @@ Remixes〜**》是在2011年9月28日发售的[日本女歌手](../Page/日本.m
 6.  **[NAVY BLUE](https://zh.wikipedia.org/wiki/NAVY_BLUE "wikilink")
     -RAM RIDER Remix-**
       - 作曲： / Remix：RAM RIDER
-7.  **[It's crazy for
-    you](https://zh.wikipedia.org/wiki/It's_crazy_for_you "wikilink")
+7.  **[It's crazy for you](../Page/It's_crazy_for_you.md "wikilink")
     -8\#Prince Remix-**
       - 作曲：大野愛果 / Remix：8＃Prince（八王子P）
 8.  **[Deep
     Freeze](https://zh.wikipedia.org/wiki/Deep_Freeze "wikilink")
     -Sumijun Remix-**
       - 作曲：輝門 / Remix：Sumitomo "Sumijun" Jun
-9.  **[Run up](https://zh.wikipedia.org/wiki/Run_up "wikilink") -DJ
-    Command Remix-**
+9.  **[Run up](../Page/Run_up.md "wikilink") -DJ Command Remix-**
       - 作曲：大野愛果 / Remix：Hiroshige "DJ Command" Youhei
 10. **[Ohh\! Paradise
-    Taste\!\!](https://zh.wikipedia.org/wiki/Ohh!_Paradise_Taste!! "wikilink")
-    -note native remix-**
+    Taste\!\!](../Page/Ohh!_Paradise_Taste!!.md "wikilink") -note native
+    remix-**
       - 作曲：大野愛果 / Remix Produce：田尻知之（note native） / 編曲：田尻知之、N.Honzawa /
         Mix：N.Honzawa
 11. **[Forever You

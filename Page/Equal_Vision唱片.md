@@ -51,7 +51,8 @@ Day等等樂團](https://zh.wikipedia.org/wiki/Saves_the_Day "wikilink")。」\[
     Crown](https://zh.wikipedia.org/wiki/The_Snake_the_Cross_the_Crown "wikilink")
   - [This Time Next
     Year](https://zh.wikipedia.org/wiki/This_Time_Next_Year "wikilink")
-  - [We Came as Romans](../Page/We_Came_as_Romans.md "wikilink")
+  - [We Came as
+    Romans](https://zh.wikipedia.org/wiki/We_Came_as_Romans "wikilink")
   - [Wild Orchid
     Children](https://zh.wikipedia.org/wiki/Wild_Orchid_Children "wikilink")
 

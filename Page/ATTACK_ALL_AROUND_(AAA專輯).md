@@ -1,6 +1,6 @@
 「**ATTACK ALL
 AROUND**」（全方位出擊）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚精選專輯。於2008年3月5日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -12,12 +12,13 @@ trax](../Page/avex_trax.md "wikilink")。
     Jump](../Page/Climax_Jump.md "wikilink")」和以「[FUKUOKA SoftBank
     HAWKS](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink") with
     AAA」名義發行的單曲「[前進吧
-    少鷹軍團2007](https://zh.wikipedia.org/wiki/前進吧_少鷹軍團2007 "wikilink")」，一共25首歌曲。
+    少鷹軍團2007](../Page/前進吧_少鷹軍團2007.md "wikilink")」，一共25首歌曲。
   - 本作分「豪華盤 2CDs+2DVDs」、「初回盤 2CDs+DVD」、「通常盤 2CDs+DVD」和「CD ONLY」4種版本。
   - 「豪華盤 2CDs+2DVDs」除收錄了「BLOOD on FIRE」、「颶風·莉莉，波士頓·瑪麗」、「Get
     啾\!」等24首歌曲的PV，還收錄了歌曲「[未完成](../Page/ALL_\(AAA專輯\).md "wikilink")」「[夢想的片段](https://zh.wikipedia.org/wiki/ALL/2 "wikilink")」「[Wonderful
-    Life](../Page/alohAAA!.md "wikilink")」和「[CRAZY GONNA
-    CRAZY](../Page/CCC_-Challenge_Cover_Collection-.md "wikilink")」的PV，以及單曲與專輯的TV
+    Life](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」和「[CRAZY
+    GONNA
+    CRAZY](https://zh.wikipedia.org/wiki/CCC_-Challenge_Cover_Collection- "wikilink")」的PV，以及單曲與專輯的TV
     CM集和Special Movie「AAA No.1決定 冠軍賽\!\!」。而「初回盤 2CDs+DVD」、「通常盤
     2CDs+DVD」收錄了24首歌曲的PV。
   - 在3月17日於公信榜專輯週排行榜取得第5位。
@@ -140,8 +141,7 @@ trax](../Page/avex_trax.md "wikilink")。
       -
         Bonus Track
         以「AAA DEN-O form」名義・[幪面超人電王的主題曲](../Page/幪面超人電王.md "wikilink")
-13. **[前進吧
-    少鷹軍團2007](https://zh.wikipedia.org/wiki/前進吧_少鷹軍團2007 "wikilink")**
+13. **[前進吧 少鷹軍團2007](../Page/前進吧_少鷹軍團2007.md "wikilink")**
     （作詞：原田種良・森由里子 作曲：富山光弘 編曲：山本健司）
       -
         Bonus Track

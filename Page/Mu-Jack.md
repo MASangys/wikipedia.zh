@@ -92,7 +92,7 @@
   - 2014年4月18日 -
     [桃色幸運草Z參與錄影當天](../Page/桃色幸運草Z.md "wikilink")（5月9日播出），成員[佐佐木彩夏為了搶回答按鈕而摔倒](../Page/佐佐木彩夏.md "wikilink")。左腳關節[骨折](../Page/骨折.md "wikilink")，2個月才痊癒。關西電視台立即發表此事並公開致歉。
   - 2014年6月6日、6月13日 -
-    作為特別企劃的「aikoの部屋」單元登場。歌手[aiko開始擔任節目主持人之一](../Page/aiko.md "wikilink")。
+    作為特別企劃的「aikoの部屋」單元登場。歌手[aiko開始擔任節目主持人之一](https://zh.wikipedia.org/wiki/aiko "wikilink")。
   - 2017年3月 -
     開始動畫新單元《》，描述[槙原敬之與](../Page/槙原敬之.md "wikilink")10隻狗、一隻貓共同生活的故事。配音者為[南條愛乃](../Page/南條愛乃.md "wikilink")、[飯田里穂](https://zh.wikipedia.org/wiki/飯田里穂 "wikilink")、和主持人之一[高橋南](../Page/高橋南.md "wikilink")。
 

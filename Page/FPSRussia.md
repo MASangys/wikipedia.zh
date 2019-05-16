@@ -23,14 +23,14 @@
 
   - [M60通用機槍](../Page/M60通用機槍.md "wikilink")
 
-  - [莫斯伯格500泵動式霰彈槍](https://zh.wikipedia.org/wiki/莫斯伯格500泵動式霰彈槍 "wikilink")
+  - [莫斯伯格500泵動式霰彈槍](../Page/莫斯伯格500泵動式霰彈槍.md "wikilink")
 
   - [Ultimax
     100轻机枪](https://zh.wikipedia.org/wiki/Ultimax_100轻机枪 "wikilink")
 
   - [.357沙鹰](https://zh.wikipedia.org/wiki/沙漠之鹰手枪 "wikilink")
 
-  - [SRS](https://zh.wikipedia.org/wiki/沙漠科技隱形偵察兵狙擊步槍 "wikilink")
+  - [SRS](../Page/沙漠科技隱形偵察兵狙擊步槍.md "wikilink")
 
   -
   - [40mm博福斯高射机炮](../Page/波佛斯40公釐高射砲.md "wikilink")
@@ -82,8 +82,7 @@
 
   - [鲁格 .22手枪](https://zh.wikipedia.org/wiki/鲁格_.22手枪 "wikilink")
 
-  - [AM-180](https://zh.wikipedia.org/wiki/American-180衝鋒槍 "wikilink")
-    .22全自动冲锋枪
+  - [AM-180](../Page/American-180衝鋒槍.md "wikilink") .22全自动冲锋枪
 
   - [M72輕型反裝甲武器](../Page/M72輕型反裝甲武器.md "wikilink")
 
@@ -119,7 +118,7 @@
   - Dragon M-50 .50 机关枪
 
   - M26[电击枪](https://zh.wikipedia.org/wiki/电击枪 "wikilink")（英語：M26
-    [taser](https://zh.wikipedia.org/wiki/泰瑟 "wikilink")）
+    [taser](../Page/泰瑟.md "wikilink")）
 
   - [雷明顿700战术型](../Page/雷明登700步槍.md "wikilink")
 
@@ -133,7 +132,7 @@
 
   - [M1911](../Page/M1911手槍.md "wikilink")
 
-  - [蜜獾冲锋枪](https://zh.wikipedia.org/wiki/AAC蜜獾式PDW突擊步槍 "wikilink")
+  - [蜜獾冲锋枪](../Page/AAC蜜獾式PDW突擊步槍.md "wikilink")
 
   - [AR-15自動步槍](../Page/AR-15自動步槍.md "wikilink")（将民用半自动加装伸缩枪托变成全自动）
 
@@ -147,7 +146,7 @@
 
   - [FS2000](../Page/FN_F2000突擊步槍.md "wikilink")
 
-  - [Chainsaw霰弹枪](https://zh.wikipedia.org/wiki/莫斯伯格500泵動式霰彈槍 "wikilink")
+  - [Chainsaw霰弹枪](../Page/莫斯伯格500泵動式霰彈槍.md "wikilink")
 
   - [LAW](../Page/M72輕型反裝甲武器.md "wikilink")
 
@@ -163,15 +162,13 @@
 
   - [FAL](../Page/FN_FAL自動步槍.md "wikilink") DSA SA58
 
-  - [SRM
-    M1216](https://zh.wikipedia.org/wiki/SRM_M1216半自動霰彈槍 "wikilink")
+  - [SRM M1216](../Page/SRM_M1216半自動霰彈槍.md "wikilink")
 
   - 金牛座法官
 
   - MAK1919半自动霰弹枪
 
-  - DTA
-    HTI[沙漠科技硬目標攔截狙擊步槍](https://zh.wikipedia.org/wiki/沙漠科技硬目標攔截狙擊步槍 "wikilink")
+  - DTA HTI[沙漠科技硬目標攔截狙擊步槍](../Page/沙漠科技硬目標攔截狙擊步槍.md "wikilink")
 
 ## 注脚
 

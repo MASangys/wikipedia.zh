@@ -30,7 +30,7 @@ Angel》、《Maria (I Like It Loud)》與首張單曲《Take One Last
 Breath》都收錄在當時要發表的專輯《Geeving》。
 
 2010年八月24，單曲《Megawacko 2.0》在
-[iTunes上開始販售](../Page/iTunes.md "wikilink")，同時MV也在MuchMusic上發表。九月，歌曲《Bro
+[iTunes上開始販售](https://zh.wikipedia.org/wiki/iTunes "wikilink")，同時MV也在MuchMusic上發表。九月，歌曲《Bro
 My God》提供線上試聽。隨著Abandon All Ships與日劇增的人氣，使他們在十月底到十二月初受邀參加[Miss May
 I的主場巡迴](https://zh.wikipedia.org/wiki/Miss_May_I "wikilink")《Monument》，與樂團
 [Sleeping with

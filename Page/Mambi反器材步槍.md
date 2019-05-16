@@ -15,7 +15,7 @@ Mambi是一款專門為破壞敵軍輕型地面載具、小船或[直升機而�
 ## 參見
 
   - [PTRS](https://zh.wikipedia.org/wiki/PTRS-41反坦克步槍 "wikilink")
-  - [PTRD](https://zh.wikipedia.org/wiki/PTRD-41反坦克步槍 "wikilink")
+  - [PTRD](../Page/PTRD-41反坦克步槍.md "wikilink")
 
 ## 參考資料
 

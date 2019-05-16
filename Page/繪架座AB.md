@@ -12,7 +12,7 @@ b**）。該顆伴星的的可能質量在[棕矮星和](../Page/棕矮星.md "w
 [The_Star_AB_Pictoris_and_its_Companion_-_Phot-14d-05-normal.jpg](https://zh.wikipedia.org/wiki/File:The_Star_AB_Pictoris_and_its_Companion_-_Phot-14d-05-normal.jpg "fig:The_Star_AB_Pictoris_and_its_Companion_-_Phot-14d-05-normal.jpg")拍攝繪架座AB影像中可在影像左下角見到一個小伴星。該影像於2003年3月16日由[甚大望远镜拍攝](../Page/甚大望远镜.md "wikilink")。\]\]<span id="AB Pictoris b"></span>
 2003年和2004年，一組天文學家在[歐洲南方天文台拍攝到繪架座AB有一顆相當接近的伴星](https://zh.wikipedia.org/wiki/歐洲南方天文台 "wikilink")（現稱為繪架座ABb）。因為該天體和繪架座AB的[自行相同](../Page/自行.md "wikilink")，因此認為該天體與母恆星相當接近。伴星的光譜類型在L0V到L3V之間，質量大約是13到14倍[木星質量](https://zh.wikipedia.org/wiki/木星質量 "wikilink")\[5\]。但是因為建立這樣年輕恆星的模型很困難，以上預測都是不確定的。其預測依模型不同，預測質量從11到70倍木星質量不等。表面溫度約1600
 [K](https://zh.wikipedia.org/wiki/Kelvin "wikilink") 到 2400
-K\[6\]。因為目前不明白該天體質量是否超過[氘燃燒下限的](https://zh.wikipedia.org/wiki/氘燃燒 "wikilink")13倍木星質量，無法確認是行星還是[棕矮星](../Page/棕矮星.md "wikilink")\[7\]。
+K\[6\]。因為目前不明白該天體質量是否超過[氘燃燒下限的](../Page/氘燃燒.md "wikilink")13倍木星質量，無法確認是行星還是[棕矮星](../Page/棕矮星.md "wikilink")\[7\]。
 
 ## 參見
 

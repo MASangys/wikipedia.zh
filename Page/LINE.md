@@ -1,6 +1,6 @@
 [LINE_Friend_Store_in_Hysan_Place_201510.jpg](https://zh.wikipedia.org/wiki/File:LINE_Friend_Store_in_Hysan_Place_201510.jpg "fig:LINE_Friend_Store_in_Hysan_Place_201510.jpg")[希慎廣場LINE](../Page/希慎廣場.md "wikilink")
 Friend Store\]\]
-**-{LINE}-**（；[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：連我、連加、連線、賴），是一個由[Naver集團旗下](../Page/Naver.md "wikilink")[LINE株式会社所開發的](../Page/LINE_\(公司\).md "wikilink")[即時通信軟體綜合平台](https://zh.wikipedia.org/wiki/即時通信軟體 "wikilink")\[1\]，於2011年6月發表。用戶間可以通過[互聯網在不額外增加費用情況下與其他用戶傳送信息及觀看直播](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，並可透過LINE使用[購物](../Page/購物.md "wikilink")、[行動支付及獲取](https://zh.wikipedia.org/wiki/行動支付 "wikilink")[新聞資訊等功能](https://zh.wikipedia.org/wiki/新聞 "wikilink")。\[2\]
+**-{LINE}-**（；[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：連我、連加、連線、賴），是一個由[Naver集團旗下](https://zh.wikipedia.org/wiki/Naver "wikilink")[LINE株式会社所開發的](../Page/LINE_\(公司\).md "wikilink")[即時通信軟體綜合平台](https://zh.wikipedia.org/wiki/即時通信軟體 "wikilink")\[1\]，於2011年6月發表。用戶間可以通過[互聯網在不額外增加費用情況下與其他用戶傳送信息及觀看直播](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，並可透過LINE使用[購物](../Page/購物.md "wikilink")、[行動支付及獲取](../Page/行動支付.md "wikilink")[新聞資訊等功能](https://zh.wikipedia.org/wiki/新聞 "wikilink")。\[2\]
 
 LINE服務性質相當於傳統電信商提供的[多媒體短訊或](https://zh.wikipedia.org/wiki/多媒體短訊 "wikilink")[簡訊等服務或](../Page/簡訊.md "wikilink")[即時通訊之演進](../Page/即時通訊.md "wikilink")，並進一步演化爲整合各項生活機能的平台。
 
@@ -11,7 +11,7 @@ Store販賣LINE Friends相關周邊商品。
 
 ## 歷史
 
-2011年6月，由於[Naver公司的](../Page/Naver.md "wikilink")[李海珍](https://zh.wikipedia.org/wiki/李海珍 "wikilink")，因[日本大地震而無法即時聯絡家人的想法](https://zh.wikipedia.org/wiki/311地震 "wikilink")，而在[日本推出了LINE即時通訊軟體](../Page/日本.md "wikilink")，而其「讀取回條」功能，也是針對災難發生時，能第一時間確認人員安全而設計的。\[3\]\[4\]
+2011年6月，由於[Naver公司的](https://zh.wikipedia.org/wiki/Naver "wikilink")[李海珍](https://zh.wikipedia.org/wiki/李海珍 "wikilink")，因[日本大地震而無法即時聯絡家人的想法](https://zh.wikipedia.org/wiki/311地震 "wikilink")，而在[日本推出了LINE即時通訊軟體](../Page/日本.md "wikilink")，而其「讀取回條」功能，也是針對災難發生時，能第一時間確認人員安全而設計的。\[3\]\[4\]
 
 2012年2月，首次於[臺灣推出](../Page/臺灣.md "wikilink")，並以[桂綸鎂為代言人](../Page/桂綸鎂.md "wikilink")\[5\]\[6\]\[7\]\[8\]\[9\]。同年3月，推出[Windows及](https://zh.wikipedia.org/wiki/Windows "wikilink")[Macintosh版本](https://zh.wikipedia.org/wiki/Macintosh "wikilink")\[10\]\[11\]，12月，發佈了「LINE」的中文版本「連我」，並首次於[中国大陸推出](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。\[12\]
 
@@ -19,7 +19,7 @@ Store販賣LINE Friends相關周邊商品。
 Japan公司更名為](https://zh.wikipedia.org/wiki/NHN_Japan "wikilink")“”，隨著[韓國母公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NHN改組](https://zh.wikipedia.org/wiki/NHN "wikilink")，LINE業務納入為Naver
 Corporation旗下的子公司。5月16日，成立臺灣分公司「韓商連加股份有限公司」（LINE
 Taiwan，後成立臺灣連線股份有限公司，原連加股份有限公司撤銷登記）。5月10日，[蘋果公司要求在其服務](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")「[App
-Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")」中上架的軟體須遵守其分潤規範，因此LINE於5月10日結束[iOS版的向好友贈送付費貼圖](../Page/iOS.md "wikilink")、購買贈送貼圖專用的代幣的功能，但[Android系統使用者仍可繼續使用該功能](../Page/Android.md "wikilink")。\[13\]10月1日，LINE
+Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")」中上架的軟體須遵守其分潤規範，因此LINE於5月10日結束[iOS版的向好友贈送付費貼圖](https://zh.wikipedia.org/wiki/iOS "wikilink")、購買贈送貼圖專用的代幣的功能，但[Android系統使用者仍可繼續使用該功能](../Page/Android.md "wikilink")。\[13\]10月1日，LINE
 Web Store服務在臺灣上推出。\[14\]\[15\]
 
 2016年7月15日，有網友發現LINE推出的限時免費貼圖在臺灣無法下載\[16\]。
@@ -47,8 +47,8 @@ Out服務。
     一卡通帳戶」結合[第三方支付功能](https://zh.wikipedia.org/wiki/第三方支付 "wikilink")。在日本則推出了由[JCB發行的Line](../Page/JCB.md "wikilink")
     Pay卡。在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")，LINE Pay
     與提供大眾運輸系統及離線電子支付的 [Rabbit
-    Card](https://zh.wikipedia.org/wiki/Rabbit_Card "wikilink") 發行公司，BSS
-    金控集團合作提供 Rabbit LINE Pay 服務 。
+    Card](../Page/Rabbit_Card.md "wikilink") 發行公司，BSS 金控集團合作提供 Rabbit
+    LINE Pay 服務 。
 
 ### Line Today
 
@@ -63,7 +63,7 @@ Out服務。
   - Line Mobile 是 Line
     提供的電信服務，提供消費者通話及[行動網路服務](https://zh.wikipedia.org/wiki/行動網路 "wikilink")。在台灣地區，為[遠傳電信配合](../Page/遠傳電信.md "wikilink")，在日本為
     [Softbank](https://zh.wikipedia.org/wiki/Softbank "wikilink") 及 [NTT
-    Docomo](../Page/NTT_Docomo.md "wikilink")
+    Docomo](https://zh.wikipedia.org/wiki/NTT_Docomo "wikilink")
     配合，[泰國為](https://zh.wikipedia.org/wiki/泰國 "wikilink")
     DTAC TriNet 合作提供服務。\[19\]
 
@@ -356,7 +356,7 @@ Network播放的動畫](https://zh.wikipedia.org/wiki/TX_Network "wikilink")，�
 FRIENDS至今已在5,000多種角色商品、動畫、遊戲、咖啡廳、飯店及主題樂園等各種領域中，與全球各地的國際品牌攜手推出各類合作商品，並在紐約、東京、上海、北京、香港、曼谷、台北、首爾、印尼等地開設實體店。
 
 除了LINE貼圖目前所擁有的11個人氣角色外，LINE FRIENDS最新計畫「FRIENDS
-CREATORS」，與韓國偶像團體[防彈少年團及中國偶像](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")[王源](../Page/王源_\(艺人\).md "wikilink")，共同推出全新的系列卡通形象，此項計畫目標是與全球藝人共創智慧財產。目前有BT21\[23\]及[ROY6](https://www.linefriends.com/roy6)\[24\]\[25\]兩個系列卡通人物。
+CREATORS」，與韓國偶像團體[防彈少年團及中國偶像](../Page/防彈少年團.md "wikilink")[王源](../Page/王源_\(艺人\).md "wikilink")，共同推出全新的系列卡通形象，此項計畫目標是與全球藝人共創智慧財產。目前有BT21\[23\]及[ROY6](https://www.linefriends.com/roy6)\[24\]\[25\]兩個系列卡通人物。
 
 ## 彩蛋
 
@@ -385,7 +385,7 @@ LINE在每年兩個固定節日中會有彩蛋出現。每年[4月1日](../Page/
 ### 中國大陸地區封鎖事件
 
 2014年7月1日晚間起，大陸地區的用戶突然無法連接伺服器，官方網站亦無法直接存取，但有網民表示[翻牆後可以使用](https://zh.wikipedia.org/wiki/翻牆 "wikilink")。连我翌日透過其官方微博表示，「現在LINE中國用戶出現了存取障礙，我們正在盡最大努力修復該問題。」\[32\]報導指LINE已被[防火長城封鎖](https://zh.wikipedia.org/wiki/防火長城 "wikilink")。\[33\]\[34\]
-[韓國未來創造科學部稱](https://zh.wikipedia.org/wiki/韓國未來創造科學部 "wikilink")，中華人民共和國政府向[南韓官員表示](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，有證據顯示LINE、[KakaoTalk等](https://zh.wikipedia.org/wiki/KakaoTalk "wikilink")[即時通訊軟體已成為](../Page/即時通訊.md "wikilink")[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")「策劃、煽動[恐怖襲擊](https://zh.wikipedia.org/wiki/恐怖襲擊 "wikilink")」的工具，因此被中國大陸的政府封鎖。\[35\]\[36\]
+[韓國未來創造科學部稱](https://zh.wikipedia.org/wiki/韓國未來創造科學部 "wikilink")，中華人民共和國政府向[南韓官員表示](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，有證據顯示LINE、[KakaoTalk等](../Page/KakaoTalk.md "wikilink")[即時通訊軟體已成為](../Page/即時通訊.md "wikilink")[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")「策劃、煽動[恐怖襲擊](https://zh.wikipedia.org/wiki/恐怖襲擊 "wikilink")」的工具，因此被中國大陸的政府封鎖。\[35\]\[36\]
 LINE隨後對[Android及電腦客戶端作出幾次技術調整](../Page/Android.md "wikilink")（版本升級），期间短时间可不翻墙访问\[37\]，随后再次被封锁。但是大陆地区以外手机号用户不受影响。
 
 ## 相關條目
@@ -398,7 +398,7 @@ LINE隨後對[Android及電腦客戶端作出幾次技術調整](../Page/Android
 ### 相似服務
 
   - [微信](../Page/微信.md "wikilink")
-  - [KakaoTalk](https://zh.wikipedia.org/wiki/KakaoTalk "wikilink")
+  - [KakaoTalk](../Page/KakaoTalk.md "wikilink")
   - [Zalo](https://zh.wikipedia.org/wiki/Zalo "wikilink")
   - [iMessage](https://zh.wikipedia.org/wiki/iMessage "wikilink")
   - [Facebook Messenger](../Page/Facebook_Messenger.md "wikilink")

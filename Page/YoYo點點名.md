@@ -1,10 +1,10 @@
-《**YoYo點點名**》是[東森幼幼台的](../Page/東森幼幼台.md "wikilink")[兒童電視節目](https://zh.wikipedia.org/wiki/兒童電視節目 "wikilink")，內容以[帶動唱為主](../Page/帶動唱.md "wikilink")，曾入圍[2015年電視金鐘獎的](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](https://zh.wikipedia.org/wiki/金鐘獎兒童少年節目獎得獎列表 "wikilink")\[1\]。
+《**YoYo點點名**》是[東森幼幼台的](../Page/東森幼幼台.md "wikilink")[兒童電視節目](https://zh.wikipedia.org/wiki/兒童電視節目 "wikilink")，內容以[帶動唱為主](../Page/帶動唱.md "wikilink")，曾入圍[2015年電視金鐘獎的](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](../Page/金鐘獎兒童少年節目獎得獎列表.md "wikilink")\[1\]。
 
 ## 主持人
 
 ### 現任成員
 
-  - [香蕉哥哥](https://zh.wikipedia.org/wiki/香蕉哥哥 "wikilink")
+  - [香蕉哥哥](../Page/香蕉哥哥.md "wikilink")
   - [西瓜哥哥](../Page/西瓜哥哥.md "wikilink")
   - [草莓姐姐](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")
   - [柳丁哥哥](https://zh.wikipedia.org/wiki/柳丁哥哥 "wikilink")
@@ -145,7 +145,7 @@
 ### 電視金鐘獎
 
 |- |2015年 |
-|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](https://zh.wikipedia.org/wiki/金鐘獎兒童少年節目獎得獎列表 "wikilink")
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")[最佳兒童少年節目獎](../Page/金鐘獎兒童少年節目獎得獎列表.md "wikilink")
 | |}
 
 ## 參考資料

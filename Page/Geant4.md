@@ -5,7 +5,7 @@ Tracking，几何和跟踪)是由[CERN](https://zh.wikipedia.org/wiki/CERN "wiki
 
 ## 历史
 
-CERN和KEK（日本高能加速器研究中心）在1993年曾经研究如何在Geant3中使用现代化的计算机技术，后来CERN的探测器研究委员会组织了来自[欧洲](../Page/欧洲.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[日本和](../Page/日本.md "wikilink")[美国的几十个实验室](../Page/美国.md "wikilink")、高校和研究机构的超过100名科学家和工程师进行合作，基于C++语言，利用面向对象的程序设计技术对已有的模拟程序进行了重新构造。这项工程被称为RD44，初步研究在1998年12月完成，随后在1999年2月Geant4建立了起来，并且在不断的发展和完善过程中得到了用户的支持和维护\[2\]。目前Geant4已经广泛应用于[核物理](https://zh.wikipedia.org/wiki/核物理 "wikilink")、[核技术](https://zh.wikipedia.org/wiki/核技术 "wikilink")、空间物理、医学研究等领域。
+CERN和KEK（日本高能加速器研究中心）在1993年曾经研究如何在Geant3中使用现代化的计算机技术，后来CERN的探测器研究委员会组织了来自[欧洲](../Page/欧洲.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[日本和](../Page/日本.md "wikilink")[美国的几十个实验室](../Page/美国.md "wikilink")、高校和研究机构的超过100名科学家和工程师进行合作，基于C++语言，利用面向对象的程序设计技术对已有的模拟程序进行了重新构造。这项工程被称为RD44，初步研究在1998年12月完成，随后在1999年2月Geant4建立了起来，并且在不断的发展和完善过程中得到了用户的支持和维护\[2\]。目前Geant4已经广泛应用于[核物理](https://zh.wikipedia.org/wiki/核物理 "wikilink")、[核技术](../Page/核技术.md "wikilink")、空间物理、医学研究等领域。
 
 ## 特点
 

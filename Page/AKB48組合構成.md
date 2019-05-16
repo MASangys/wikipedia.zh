@@ -1019,7 +1019,7 @@ Team K<a href="../Page/宮澤佐江.md" title="wikilink">宮澤佐江</a>、Team
 <td><p>4月28日</p></td>
 <td><p>Team A仁藤萌乃畢業<br />
 研究生大森美優、平田梨奈、<a href="../Page/佐佐木優佳里.md" title="wikilink">佐佐木優佳里升格</a><br />
-SKE48 Team E<a href="https://zh.wikipedia.org/wiki/古畑奈和" title="wikilink">古畑奈和兼任Team</a> K<br />
+SKE48 Team E<a href="../Page/古畑奈和.md" title="wikilink">古畑奈和兼任Team</a> K<br />
 NMB48 Team M<a href="../Page/矢倉楓子.md" title="wikilink">矢倉楓子兼任Team</a> A<br />
 HKT48 Team H<a href="https://zh.wikipedia.org/wiki/兒玉遥" title="wikilink">兒玉遥兼任Team</a> A<br />
 JKT48 Team J<a href="../Page/高城亞樹.md" title="wikilink">高城亞樹兼任</a> Team B<br />
@@ -1223,8 +1223,8 @@ Team B 小森美果畢業<br />
 </tr>
 <tr class="odd">
 <td><p>2月24日</p></td>
-<td><p>研究生市川愛美、大川莉央、<a href="https://zh.wikipedia.org/wiki/大和田南那" title="wikilink">大和田南那</a>、込山榛香、佐藤妃星、達家真姫宝<br />
-、土保瑞希、福岡聖菜、<a href="https://zh.wikipedia.org/wiki/向井地美音" title="wikilink">向井地美音</a>、湯本亚美升格</p></td>
+<td><p>研究生市川愛美、大川莉央、<a href="../Page/大和田南那.md" title="wikilink">大和田南那</a>、込山榛香、佐藤妃星、達家真姫宝<br />
+、土保瑞希、福岡聖菜、<a href="../Page/向井地美音.md" title="wikilink">向井地美音</a>、湯本亚美升格</p></td>
 <td><p>+10</p></td>
 <td><p>88</p></td>
 <td><p>88</p></td>
@@ -1463,8 +1463,8 @@ Team K 鈴木紫帆里畢業</p></td>
 <tr class="odd">
 <td><p>8月9日</p></td>
 <td><p>Team A <a href="../Page/松井咲子.md" title="wikilink">松井咲子畢業</a><br />
-Team B <a href="https://zh.wikipedia.org/wiki/橋本耀" title="wikilink">橋本耀畢業</a><br />
-Team 4 前田美月、<a href="https://zh.wikipedia.org/wiki/土保瑞希" title="wikilink">土保瑞希</a>、<a href="../Page/小林茉里奈.md" title="wikilink">小林茉里奈畢業</a></p></td>
+Team B <a href="../Page/橋本耀.md" title="wikilink">橋本耀畢業</a><br />
+Team 4 前田美月、<a href="../Page/土保瑞希.md" title="wikilink">土保瑞希</a>、<a href="../Page/小林茉里奈.md" title="wikilink">小林茉里奈畢業</a></p></td>
 <td><p>-5</p></td>
 <td><p>132</p></td>
 <td><p>125</p></td>
@@ -1491,7 +1491,7 @@ Team 4 前田美月、<a href="https://zh.wikipedia.org/wiki/土保瑞希" title
 <td><p>新Team體制開始<br />
 NMB48 Team M <a href="../Page/白間美瑠.md" title="wikilink">白間美瑠開始兼任Team</a> A<br />
 HKT48 Team H <a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子開始兼任Team</a> B<br />
-SKE48 Team S <a href="https://zh.wikipedia.org/wiki/北川綾巴" title="wikilink">北川綾巴開始兼任Team</a> 4<br />
+SKE48 Team S <a href="../Page/北川綾巴.md" title="wikilink">北川綾巴開始兼任Team</a> 4<br />
 NMB48 Team BII <a href="../Page/渡邊美優紀.md" title="wikilink">渡邊美優紀再次兼任</a><br />
 Team 8 <a href="../Page/山田菜菜美.md" title="wikilink">山田菜菜美開始兼任Team</a> A<br />
 Team 8 <a href="../Page/中野郁海.md" title="wikilink">中野郁海開始兼任Team</a> K<br />
@@ -1685,7 +1685,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>8月24日</p></td>
-<td><p>Team A <a href="https://zh.wikipedia.org/wiki/平田梨奈" title="wikilink">平田梨奈畢業</a></p></td>
+<td><p>Team A <a href="../Page/平田梨奈.md" title="wikilink">平田梨奈畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>120</p></td>
 <td><p>114</p></td>
@@ -1765,7 +1765,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>3月18日</p></td>
-<td><p>Team A <a href="https://zh.wikipedia.org/wiki/大和田南那" title="wikilink">大和田南那畢業</a></p></td>
+<td><p>Team A <a href="../Page/大和田南那.md" title="wikilink">大和田南那畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>134</p></td>
 <td><p>109</p></td>
@@ -1792,7 +1792,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>3月22日</p></td>
-<td><p>Team B <a href="https://zh.wikipedia.org/wiki/梅田綾乃" title="wikilink">梅田綾乃畢業</a></p></td>
+<td><p>Team B <a href="../Page/梅田綾乃.md" title="wikilink">梅田綾乃畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>133</p></td>
 <td><p>108</p></td>
@@ -1873,7 +1873,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
-<td><p>Team B <a href="https://zh.wikipedia.org/wiki/大島涼花" title="wikilink">大島涼花畢業</a></p></td>
+<td><p>Team B <a href="../Page/大島涼花.md" title="wikilink">大島涼花畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>124</p></td>
 <td><p>101</p></td>
@@ -2035,7 +2035,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>1月22日</p></td>
-<td><p>Team 4 <a href="https://zh.wikipedia.org/wiki/飯野雅" title="wikilink">飯野雅畢業</a></p></td>
+<td><p>Team 4 <a href="../Page/飯野雅.md" title="wikilink">飯野雅畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>115</p></td>
 <td><p>97</p></td>
@@ -2130,7 +2130,7 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 <tr class="even">
 <td><p>8月12日</p></td>
 <td><p>Team K <a href="../Page/田野優花.md" title="wikilink">田野優花畢業</a><br />
-Team B <a href="https://zh.wikipedia.org/wiki/小嶋菜月" title="wikilink">小嶋菜月畢業</a></p></td>
+Team B <a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月畢業</a></p></td>
 <td><p>-2</p></td>
 <td><p>123</p></td>
 <td><p>96</p></td>
@@ -3230,7 +3230,7 @@ Girls的成員。2011年夏決定召開第22張單曲成員選拔大會「第3�
   - 第1回（2010年）：[AKB48第19張單曲選拔猜拳大會](https://zh.wikipedia.org/wiki/AKB48第19張單曲選拔猜拳大會 "wikilink")，優勝：内田真由美
   - 第2回（2011年）：[AKB48第24張單曲選拔猜拳大會](../Page/AKB48第24張單曲選拔猜拳大會.md "wikilink")，優勝：篠田麻里子
   - 第3回（2012年）：[AKB48第29張單曲選拔猜拳大會](../Page/AKB48第29張單曲選拔猜拳大會.md "wikilink")，優勝：島崎遙香
-  - 第4回（2013年）：[AKB48第34張單曲選拔猜拳大會](https://zh.wikipedia.org/wiki/AKB48第34張單曲選拔猜拳大會 "wikilink")，優勝：松井珠理奈
+  - 第4回（2013年）：[AKB48第34張單曲選拔猜拳大會](../Page/AKB48第34張單曲選拔猜拳大會.md "wikilink")，優勝：松井珠理奈
   - 第5回（2014年）：[AKB48家族
     猜拳大會2014](https://zh.wikipedia.org/wiki/AKB48家族_猜拳大會2014 "wikilink")，優勝：渡边美优纪
   - 第6回（2015年）：[AKB48家族
@@ -3272,7 +3272,7 @@ Girls**，是AKB48的單曲中演唱B面曲的組合，是由單曲選拔成員�
 | Show fight \!                                                    | Future Girls    | 第4回選抜總選舉第49位 - 64位的成員結成 |                         |
 | [UZA](../Page/UZA.md "wikilink")                                 | 下一個Season       | Under Girls             |                         |
 | [So long \!](https://zh.wikipedia.org/wiki/So_long_! "wikilink") | Waiting room    | Under Girls             |                         |
-| [再见自由式](https://zh.wikipedia.org/wiki/再見自由式 "wikilink")          | 玫瑰的果实           | Under Girls             |                         |
+| [再见自由式](../Page/再見自由式.md "wikilink")                             | 玫瑰的果实           | Under Girls             |                         |
 
 ## 中心位置
 
@@ -3482,7 +3482,7 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永遠的壓力" title="wikilink">永遠的壓力</a></p></td>
+<td><p><a href="../Page/永遠的壓力.md" title="wikilink">永遠的壓力</a></p></td>
 <td><p><a href="../Page/島崎遙香.md" title="wikilink">島崎遙香</a></p></td>
 <td><p><a href="../Page/AKB48第29張單曲選拔猜拳大會.md" title="wikilink">AKB48第29張單曲選拔猜拳大會單曲</a><br />
 <a href="../Page/島崎遙香.md" title="wikilink">島崎遙香第一次擔任center</a></p></td>
@@ -3495,14 +3495,14 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/再見自由式" title="wikilink">再見自由式</a></p></td>
+<td><p><a href="../Page/再見自由式.md" title="wikilink">再見自由式</a></p></td>
 <td><p><a href="../Page/板野友美.md" title="wikilink">板野友美</a>、<a href="../Page/大島優子.md" title="wikilink">大島優子</a>、<a href="../Page/島崎遙香.md" title="wikilink">島崎遙香</a>、<a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a></p></td>
 <td><p>首次四人center單曲<br />
 <a href="../Page/板野友美.md" title="wikilink">板野友美最後一次擔任center</a></p></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戀愛的幸運餅乾" title="wikilink">戀愛的幸運餅乾</a></p></td>
+<td><p><a href="../Page/戀愛的幸運餅乾.md" title="wikilink">戀愛的幸運餅乾</a></p></td>
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉" title="wikilink">第五屆選拔總選舉單曲</a><br />
 <a href="../Page/指原莉乃.md" title="wikilink">指原莉乃第一次擔任center</a><br />
@@ -3510,7 +3510,7 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真心電流" title="wikilink">真心電流</a></p></td>
+<td><p><a href="../Page/真心電流.md" title="wikilink">真心電流</a></p></td>
 <td><p><a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜</a></p></td>
 <td></td>
 </tr>
@@ -3518,7 +3518,7 @@ PV的center是前田敦子。</p></td>
 <td><p>34</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/倘若在梧桐樹的路上對你說「我夢見了你的微笑」之後我們的關係會有什麼樣的變化呢﹑我兀自持續想了好多天最後有點難為情地得到了一個結論" title="wikilink">倘若在梧桐樹甚麼的</a></p></td>
 <td><p><a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第34張單曲選拔猜拳大會" title="wikilink">AKB48第34張單曲選拔猜拳大會單曲</a></p></td>
+<td><p><a href="../Page/AKB48第34張單曲選拔猜拳大會.md" title="wikilink">AKB48第34張單曲選拔猜拳大會單曲</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
@@ -3528,7 +3528,7 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉布拉多獵犬_(AKB48單曲)" title="wikilink">拉布拉多獵犬</a></p></td>
+<td><p><a href="../Page/拉布拉多獵犬_(AKB48單曲).md" title="wikilink">拉布拉多獵犬</a></p></td>
 <td><p><a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a></p></td>
 <td></td>
 </tr>
@@ -3540,13 +3540,13 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a></p></td>
+<td><p><a href="../Page/希望無限.md" title="wikilink">希望無限</a></p></td>
 <td><p><a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a>、<a href="../Page/宮脇咲良.md" title="wikilink">宮脇咲良</a></p></td>
 <td><p><a href="../Page/宮脇咲良.md" title="wikilink">宮脇咲良第一次擔任center</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Green_Flash_(AKB48單曲)" title="wikilink">Green Flash</a></p></td>
+<td><p><a href="../Page/Green_Flash_(AKB48單曲).md" title="wikilink">Green Flash</a></p></td>
 <td><p><a href="../Page/柏木由紀.md" title="wikilink">柏木由紀</a>、<a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜</a></p></td>
 <td><p><a href="../Page/柏木由紀.md" title="wikilink">柏木由紀第一次擔任center</a></p></td>
 </tr>
@@ -3577,8 +3577,8 @@ PV的center是前田敦子。</p></td>
 <tr class="even">
 <td><p>44</p></td>
 <td><p><a href="../Page/不需要翅膀.md" title="wikilink">不需要翅膀</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/向井地美音" title="wikilink">向井地美音</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/向井地美音" title="wikilink">向井地美音第一次擔任center</a></p></td>
+<td><p><a href="../Page/向井地美音.md" title="wikilink">向井地美音</a></p></td>
+<td><p><a href="../Page/向井地美音.md" title="wikilink">向井地美音第一次擔任center</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
@@ -3619,8 +3619,8 @@ PV的center是前田敦子。</p></td>
 <tr class="odd">
 <td><p>51</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ja-Ba-Ja" title="wikilink">Ja-Ba-Ja</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡田奈奈_(AKB48)" title="wikilink">岡田奈奈</a>[17]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡田奈奈_(AKB48)" title="wikilink">岡田奈奈第一次擔任center</a></p></td>
+<td><p><a href="../Page/岡田奈奈_(AKB48).md" title="wikilink">岡田奈奈</a>[17]</p></td>
+<td><p><a href="../Page/岡田奈奈_(AKB48).md" title="wikilink">岡田奈奈第一次擔任center</a></p></td>
 </tr>
 <tr class="even">
 <td><p>52</p></td>
@@ -3726,7 +3726,7 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/板野友美.md" title="wikilink">板野友美</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/再見自由式" title="wikilink">再見自由式</a></p></td>
+<td><p><a href="../Page/再見自由式.md" title="wikilink">再見自由式</a></p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -3754,7 +3754,7 @@ PV的center是前田敦子。</p></td>
 <tr class="even">
 <td><p>10</p></td>
 <td><p><a href="../Page/島崎遙香.md" title="wikilink">島崎遙香</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永遠的壓力" title="wikilink">永遠的壓力</a></p></td>
+<td><p><a href="../Page/永遠的壓力.md" title="wikilink">永遠的壓力</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a></p></td>
 <td><p>4</p></td>
 <td><p>3</p></td>
@@ -3763,7 +3763,7 @@ PV的center是前田敦子。</p></td>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戀愛的幸運餅乾" title="wikilink">戀愛的幸運餅乾</a></p></td>
+<td><p><a href="../Page/戀愛的幸運餅乾.md" title="wikilink">戀愛的幸運餅乾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/回憶上心頭DAYS" title="wikilink">回憶上心頭DAYS</a></p></td>
 <td><p>5</p></td>
 <td><p>5</p></td>
@@ -3772,7 +3772,7 @@ PV的center是前田敦子。</p></td>
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/宮脇咲良.md" title="wikilink">宮脇咲良</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a></p></td>
+<td><p><a href="../Page/希望無限.md" title="wikilink">希望無限</a></p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>2</p></td>
@@ -3781,7 +3781,7 @@ PV的center是前田敦子。</p></td>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p><a href="../Page/柏木由紀.md" title="wikilink">柏木由紀</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Green_Flash_(AKB48單曲)" title="wikilink">Green Flash</a></p></td>
+<td><p><a href="../Page/Green_Flash_(AKB48單曲).md" title="wikilink">Green Flash</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
@@ -3789,7 +3789,7 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/向井地美音" title="wikilink">向井地美音</a></p></td>
+<td><p><a href="../Page/向井地美音.md" title="wikilink">向井地美音</a></p></td>
 <td><p><a href="../Page/不需要翅膀.md" title="wikilink">不需要翅膀</a></p></td>
 <td></td>
 <td><p>1</p></td>
@@ -3798,7 +3798,7 @@ PV的center是前田敦子。</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡田奈奈_(AKB48)" title="wikilink">岡田奈奈</a></p></td>
+<td><p><a href="../Page/岡田奈奈_(AKB48).md" title="wikilink">岡田奈奈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ja-Ba-Ja" title="wikilink">Ja-Ba-Ja</a></p></td>
 <td></td>
 <td><p>1</p></td>
@@ -3878,15 +3878,15 @@ B是柏木由纪和渡边的情况较多；过去是中西和高桥、小野和�
 2014年11月30日，于幕张展览馆举办解散演唱会，组合活动正式画下句点。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/小瓢蟲Chu!" title="wikilink">小瓢蟲Chu!</a><br />
+<td><p><a href="../Page/小瓢蟲Chu!.md" title="wikilink">小瓢蟲Chu!</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小嶋真子" title="wikilink">小嶋真子</a>、<a href="https://zh.wikipedia.org/wiki/西野未姬" title="wikilink">西野未姬（畢業）</a>、<a href="https://zh.wikipedia.org/wiki/岡田奈奈_(AKB48)" title="wikilink">岡田奈奈</a>、<a href="https://zh.wikipedia.org/wiki/北川綾巴" title="wikilink">北川綾巴</a>（SKE48）、<a href="https://zh.wikipedia.org/wiki/澀谷凪咲" title="wikilink">澀谷凪咲</a>（NMB48）、<a href="https://zh.wikipedia.org/wiki/田島芽瑠" title="wikilink">田島芽瑠</a>（HKT48）、<a href="https://zh.wikipedia.org/wiki/朝長美櫻" title="wikilink">朝長美櫻</a>（HKT48）</p></td>
+<td><p><a href="../Page/小嶋真子.md" title="wikilink">小嶋真子</a>、<a href="https://zh.wikipedia.org/wiki/西野未姬" title="wikilink">西野未姬（畢業）</a>、<a href="../Page/岡田奈奈_(AKB48).md" title="wikilink">岡田奈奈</a>、<a href="../Page/北川綾巴.md" title="wikilink">北川綾巴</a>（SKE48）、<a href="../Page/澀谷凪咲.md" title="wikilink">澀谷凪咲</a>（NMB48）、<a href="../Page/田島芽瑠.md" title="wikilink">田島芽瑠</a>（HKT48）、<a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a>（HKT48）</p></td>
 <td><p>組成時全體成員皆挑選自48集團各姊妹團體的研究生。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小蝸牛Chu!" title="wikilink">小蝸牛Chu!</a><br />
+<td><p><a href="../Page/小蝸牛Chu!.md" title="wikilink">小蝸牛Chu!</a><br />
 （）</p></td>
-<td><p><a href="../Page/谷口惠.md" title="wikilink">谷口惠</a>（）、<a href="https://zh.wikipedia.org/wiki/大和田南那" title="wikilink">大和田南那（畢業）</a>、<a href="https://zh.wikipedia.org/wiki/川本纱矢" title="wikilink">川本纱矢</a>、<a href="https://zh.wikipedia.org/wiki/向井地美音" title="wikilink">向井地美音</a>、<a href="../Page/村山彩希.md" title="wikilink">村山彩希</a>、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>（HKT48）、<a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a>（HKT48）</p></td>
+<td><p><a href="../Page/谷口惠.md" title="wikilink">谷口惠</a>（）、<a href="../Page/大和田南那.md" title="wikilink">大和田南那（畢業）</a>、<a href="https://zh.wikipedia.org/wiki/川本纱矢" title="wikilink">川本纱矢</a>、<a href="../Page/向井地美音.md" title="wikilink">向井地美音</a>、<a href="../Page/村山彩希.md" title="wikilink">村山彩希</a>、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>（HKT48）、<a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a>（HKT48）</p></td>
 <td><p>2015年3月25日於琦玉超級競技場AKB48年輕成員全國演唱會中發表的新衍生組合, 首支出道作品將會被收錄在2015年5月20日發售的AKB48第40張單曲中作為B面曲。</p></td>
 </tr>
 <tr class="even">
@@ -3954,7 +3954,7 @@ B是柏木由纪和渡边的情况较多；过去是中西和高桥、小野和�
 <tr class="odd">
 <td><p>Team PB</p></td>
 <td><p>柏木由紀、宮澤佐江、高城亜樹、宮崎美穂、多田愛佳、仁藤萌乃、前田亜美</p></td>
-<td><p><a href="../Page/週刊PLAYBOY.md" title="wikilink">週刊PLAYBOY的限定組合</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/週刊PLAYBOY" title="wikilink">週刊PLAYBOY的限定組合</a><br />
 演唱<a href="../Page/櫻花印記.md" title="wikilink">15th單曲通常盤A的C</a>/W曲「遠距離海報」</p></td>
 </tr>
 <tr class="even">
@@ -4008,7 +4008,7 @@ B是柏木由纪和渡边的情况较多；过去是中西和高桥、小野和�
 <tr class="odd">
 <td><p>Team KISHIN from AKB48</p></td>
 <td><p>倉持明日香、前田亜美、大場美奈、島田晴香、竹内美宥、森杏奈</p></td>
-<td><p>写真家・<a href="https://zh.wikipedia.org/wiki/篠山紀信" title="wikilink">篠山紀信和秋元康共同選出的選抜組合</a>。2010年10月10日發行寫真集《窓からスカイツリーが見える》。</p></td>
+<td><p>写真家・<a href="../Page/篠山紀信.md" title="wikilink">篠山紀信和秋元康共同選出的選抜組合</a>。2010年10月10日發行寫真集《窓からスカイツリーが見える》。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/CR嚇一跳柏青哥錢形平次with_TeamZ" title="wikilink">Team Z</a></p></td>
@@ -4072,7 +4072,7 @@ B是柏木由纪和渡边的情况较多；过去是中西和高桥、小野和�
 
 ### Team Pigg對戰
 
-2010年10月27日發行了第18張單曲《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》。在本次的單曲中，成員分為10組進行比賽，並由歌迷投票決定，勝出隊伍參與第18張單曲的工作。篠田由於因事務所的廣告合約關係未能參與本次活動，而小野由於畢業，因此也不會參與。在8月9日公佈結果，由MINT獲得第1位。另外，由[no3b的](https://zh.wikipedia.org/wiki/no3b "wikilink")3人（小嶋陽、高橋、峯岸）參與的「girls・ING」、「EYES」、「恋愛運上昇団」所演唱的三首歌被收錄在no3b在2011年1月1日發售的[同名專輯中其中歌曲](../Page/no3b_\(專輯\).md "wikilink")《》名稱變更爲《》。成員的分組如下：
+2010年10月27日發行了第18張單曲《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》。在本次的單曲中，成員分為10組進行比賽，並由歌迷投票決定，勝出隊伍參與第18張單曲的工作。篠田由於因事務所的廣告合約關係未能參與本次活動，而小野由於畢業，因此也不會參與。在8月9日公佈結果，由MINT獲得第1位。另外，由[no3b的](https://zh.wikipedia.org/wiki/no3b "wikilink")3人（小嶋陽、高橋、峯岸）參與的「girls・ING」、「EYES」、「恋愛運上昇団」所演唱的三首歌被收錄在no3b在2011年1月1日發售的[同名專輯中其中歌曲](https://zh.wikipedia.org/wiki/no3b_\(專輯\) "wikilink")《》名稱變更爲《》。成員的分組如下：
 
 | No | 組合名稱             | 歌曲名稱        | 成員                                  |
 | -- | ---------------- | ----------- | ----------------------------------- |
@@ -4110,8 +4110,8 @@ B是柏木由纪和渡边的情况较多；过去是中西和高桥、小野和�
       - Team K：鈴木紫帆里、仲谷明香、前田亜美
       - Team B：石田晴香、片山陽加（部長）、田名部生来、藤江れいな
       - 研究生：平田梨奈
-  - SKE48：加藤智子、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")（團體隊長）、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[磯原杏華](https://zh.wikipedia.org/wiki/磯原杏華 "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、柴田阿弥、高木由麻奈、山下ゆかり、[松村香織](https://zh.wikipedia.org/wiki/松村香織 "wikilink")
-  - NMB48：[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、篠原栞那、[福本愛菜](../Page/福本愛菜.md "wikilink")、[山口夕輝](../Page/山口夕輝.md "wikilink")（團體隊長）、東由樹、[木下百花](../Page/木下百花.md "wikilink")、[肥川彩愛](https://zh.wikipedia.org/wiki/肥川彩愛 "wikilink")、[三田麻央](../Page/三田麻央.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、山岸奈津美、石田優美、中川紘美、西澤瑠莉奈
+  - SKE48：加藤智子、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")（團體隊長）、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[磯原杏華](../Page/磯原杏華.md "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、柴田阿弥、高木由麻奈、山下ゆかり、[松村香織](../Page/松村香織.md "wikilink")
+  - NMB48：[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、篠原栞那、[福本愛菜](../Page/福本愛菜.md "wikilink")、[山口夕輝](../Page/山口夕輝.md "wikilink")（團體隊長）、東由樹、[木下百花](../Page/木下百花.md "wikilink")、[肥川彩愛](../Page/肥川彩愛.md "wikilink")、[三田麻央](../Page/三田麻央.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、山岸奈津美、石田優美、中川紘美、西澤瑠莉奈
   - HKT48：多田愛佳、下野由貴、今田美奈（團體隊長）
   - JKT48：高城亜樹、仲川遥香
 

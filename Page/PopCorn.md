@@ -2,7 +2,7 @@
 [PopCorn_Main_Enterance_201203.jpg](https://zh.wikipedia.org/wiki/File:PopCorn_Main_Enterance_201203.jpg "fig:PopCorn_Main_Enterance_201203.jpg")
 [PopCorn_Main_Void_201301.jpg](https://zh.wikipedia.org/wiki/File:PopCorn_Main_Void_201301.jpg "fig:PopCorn_Main_Void_201301.jpg")
 
-**PopCorn**是[港鐵旗下的](../Page/港鐵.md "wikilink")[商場](../Page/商場.md "wikilink")，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳市中心](../Page/將軍澳市中心.md "wikilink")，商場位處於[將軍澳站旁](../Page/將軍澳站.md "wikilink")，一期商場上蓋為大型屋苑[天晉及兩間酒店](../Page/天晉.md "wikilink")（[香港九龍東皇冠假日酒店及](https://zh.wikipedia.org/wiki/香港九龍東皇冠假日酒店 "wikilink")[香港九龍東智選假日酒店](https://zh.wikipedia.org/wiki/香港九龍東智選假日酒店 "wikilink")），而二期商場上蓋為[君傲灣](../Page/君傲灣.md "wikilink")。商場面積達400,000平方呎，當中第一期佔地200,000平方呎，部份範圍採用街舖設計，場內裝修走高檔格調，參考同系大型高級商場[圓方](../Page/圓方.md "wikilink")。場內設99間零售商店、食肆及設6個銀幕的[Star
+**PopCorn**是[港鐵旗下的](../Page/港鐵.md "wikilink")[商場](../Page/商場.md "wikilink")，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳市中心](../Page/將軍澳市中心.md "wikilink")，商場位處於[將軍澳站旁](../Page/將軍澳站.md "wikilink")，一期商場上蓋為大型屋苑[天晉及兩間酒店](../Page/天晉.md "wikilink")（[香港九龍東皇冠假日酒店及](../Page/香港九龍東皇冠假日酒店.md "wikilink")[香港九龍東智選假日酒店](../Page/香港九龍東智選假日酒店.md "wikilink")），而二期商場上蓋為[君傲灣](../Page/君傲灣.md "wikilink")。商場面積達400,000平方呎，當中第一期佔地200,000平方呎，部份範圍採用街舖設計，場內裝修走高檔格調，參考同系大型高級商場[圓方](../Page/圓方.md "wikilink")。場內設99間零售商店、食肆及設6個銀幕的[Star
 Cinema戲院](https://zh.wikipedia.org/wiki/Star_Cinema "wikilink")，於2012年3月31日試業。\[1\]
 
 ## 簡介
@@ -96,14 +96,14 @@ Kitchen](https://zh.wikipedia.org/wiki/California_Pizza_Kitchen "wikilink")、[G
 THAI & VIETNAMESE）、Pokka Café Grill
 Specialist、[小王牛肉麵及](https://zh.wikipedia.org/wiki/小王牛肉麵 "wikilink")[Starbucks](https://zh.wikipedia.org/wiki/Starbucks "wikilink")。餅店為[東海堂及](../Page/東海堂.md "wikilink")[奇華餅家](../Page/奇華餅家.md "wikilink")。
 
-一樓設有多條行人天橋連接將軍澳站附近屋苑商場，包括商場二期部分、[將軍澳中心](../Page/將軍澳中心.md "wikilink")、[天晉II](https://zh.wikipedia.org/wiki/天晉#天晉II "wikilink")、[PopWalk](https://zh.wikipedia.org/wiki/PopWalk "wikilink")、[香港科技大學賽馬會大樓](../Page/香港科技大學.md "wikilink")、[天晉IIIA及](https://zh.wikipedia.org/wiki/天晉#天晉IIIA "wikilink")[PopWalk
-2](https://zh.wikipedia.org/wiki/PopWalk "wikilink")，連接[尚德廣場的行人天橋正興建中](../Page/尚德廣場.md "wikilink")。
+一樓設有多條行人天橋連接將軍澳站附近屋苑商場，包括商場二期部分、[將軍澳中心](../Page/將軍澳中心.md "wikilink")、[天晉II](https://zh.wikipedia.org/wiki/天晉#天晉II "wikilink")、[PopWalk](../Page/PopWalk.md "wikilink")、[香港科技大學賽馬會大樓](../Page/香港科技大學.md "wikilink")、[天晉IIIA及](https://zh.wikipedia.org/wiki/天晉#天晉IIIA "wikilink")[PopWalk
+2](../Page/PopWalk.md "wikilink")，連接[尚德廣場的行人天橋正興建中](../Page/尚德廣場.md "wikilink")。
 
 ### 演薈廣場
 
 一樓戶外設有演薈廣場，除設有特大高清螢幕電視外，亦成為商場舉行大型活動的主要場地。廣場原設跳躍噴泉，唯至今一直沒有對外開放。到2016年起，原有的兩個水池亦已荒廢停用。
 
-演薈廣場對出為[唐明街公園](https://zh.wikipedia.org/wiki/唐明街公園 "wikilink")，長約195米，遊人可由演薈廣場步行至[尚德邨](../Page/尚德邨.md "wikilink")。
+演薈廣場對出為[唐明街公園](../Page/唐明街公園.md "wikilink")，長約195米，遊人可由演薈廣場步行至[尚德邨](../Page/尚德邨.md "wikilink")。
 
 <File:PopCorn> Level 1 View2 201203.jpg|商場1樓通道 <File:PopCorn> Level 1
 View1 201203.jpg|商場中庭可見1樓及2樓預留空間 <File:Star> Cinema Ticket Office
@@ -131,7 +131,7 @@ Edge），佔地14,502平方米（約156,000平方呎）\[8\]，於2006年10月�
   - 地下
 
 為高級超市[Market Place by
-Jasons](../Page/Market_Place_by_Jasons.md "wikilink")、[city'super旗下的cooked](../Page/c!ty'super.md "wikilink")
+Jasons](../Page/Market_Place_by_Jasons.md "wikilink")、[city'super旗下的cooked](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")
 Deli美食廣場、地產代理、大新銀行、恆生銀行、著名蔘茸海味藥材店東方紅及大盞燕窩等。
 
   - 一樓
@@ -241,7 +241,8 @@ L1
     à coup
   - F47：新商戶：Dickies，原址商戶：ete
   - F49：新商戶：CATALOG 原址商戶：NIKE
-  - F51：新商戶：[LEE](../Page/LEE.md "wikilink") 原址商戶：BIGPACK
+  - F51：新商戶：[LEE](https://zh.wikipedia.org/wiki/LEE "wikilink")
+    原址商戶：BIGPACK
   - F52-53：商戶：NIKE 原址商戶：Royal Sporting Hous
   - F54：新商戶：[NIKE](https://zh.wikipedia.org/wiki/NIKE "wikilink")
     原址商戶：亞來街
@@ -294,7 +295,7 @@ L1
   - [將軍澳廣場](../Page/將軍澳廣場.md "wikilink")
   - [寶盈花園](../Page/寶盈花園.md "wikilink")
   - [富康花園](../Page/富康花園.md "wikilink")
-  - [PopWalk](https://zh.wikipedia.org/wiki/PopWalk "wikilink")
+  - [PopWalk](../Page/PopWalk.md "wikilink")
   - [彩明苑](../Page/彩明苑.md "wikilink")
 
 ## 參考資料

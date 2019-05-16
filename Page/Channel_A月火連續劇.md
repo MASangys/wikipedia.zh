@@ -71,10 +71,10 @@ A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 <tr class="odd">
 <td style="text-align: center;"><p>2012年3月19日－2012年5月1日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/K-POP最強生死戰" title="wikilink">K-POP最強生死戰</a><br />
+<td style="text-align: center;"><p><a href="../Page/K-POP最強生死戰.md" title="wikilink">K-POP最強生死戰</a><br />
 </p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴有煥" title="wikilink">朴有煥</a>、<a href="../Page/高恩雅.md" title="wikilink">高恩雅</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、<a href="https://zh.wikipedia.org/wiki/金恩靜" title="wikilink">金恩靜</a>、<a href="https://zh.wikipedia.org/wiki/朴孝珠" title="wikilink">朴孝珠</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴有煥.md" title="wikilink">朴有煥</a>、<a href="../Page/高恩雅.md" title="wikilink">高恩雅</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、<a href="https://zh.wikipedia.org/wiki/金恩靜" title="wikilink">金恩靜</a>、<a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李正表" title="wikilink">李正表</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/閔善熙" title="wikilink">閔善熙</a></p></td>
 <td style="text-align: center;"></td>

@@ -21,10 +21,10 @@ centric](https://zh.wikipedia.org/wiki/Attribute-value_system "wikilink")
 
 ## 參見
 
-  - [Freebase](https://zh.wikipedia.org/wiki/Freebase "wikilink")
+  - [Freebase](../Page/Freebase.md "wikilink")
   - [databaseLiquid/DBLiquid](https://zh.wikipedia.org/wiki/databaseLiquid/DBLiquid "wikilink")
   - [NoSQL](../Page/NoSQL.md "wikilink")
-  - [DBpedia](https://zh.wikipedia.org/wiki/DBpedia "wikilink")
+  - [DBpedia](../Page/DBpedia.md "wikilink")
   - [LinkedData](https://zh.wikipedia.org/wiki/LinkedData "wikilink")
   - [Semantic
     Web](https://zh.wikipedia.org/wiki/Semantic_Web "wikilink")

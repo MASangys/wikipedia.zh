@@ -7,8 +7,7 @@
 WebRTC在以下浏览器版本中开始支持。
 
   - 桌上PC端
-      - [Microsoft
-        Edge](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")
+      - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")
       - [Google Chrome](../Page/Google_Chrome.md "wikilink") 23
       - [Mozilla
         Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
@@ -52,7 +51,7 @@ WebRTC在以下浏览器版本中开始支持。
 2010年5月，Google以6820万美元收购VoIP软件开发商[Global IP
 Solutions的GIPS引擎](../Page/Global_IP_Solutions.md "wikilink")\[16\]\[17\]\[18\]，並改為名为“WebRTC”。WebRTC使用GIPS引擎，实现了基于网页的视频会议，並支持722，PCM，ILBC，ISAC等编码，同時使用谷歌自家的[VP8影片解碼器](../Page/VP8.md "wikilink")；同時支持RTP/SRTP传输等。
 
-2012年1月，谷歌已經把這款軟體整合到Chrome瀏覽器中。同時[FreeSWITCH專案宣稱支援iSAC](https://zh.wikipedia.org/wiki/FreeSWITCH "wikilink")
+2012年1月，谷歌已經把這款軟體整合到Chrome瀏覽器中。同時[FreeSWITCH專案宣稱支援iSAC](../Page/FreeSWITCH.md "wikilink")
 audio codec\[19\]。
 
 ## 组成
@@ -113,7 +112,7 @@ WebRTC 泄露本地 IP 地址 “可以获得额外防护，但未知具体效�
 
 ## 相關條目
 
-  - [Jingle](https://zh.wikipedia.org/wiki/Jingle_\(协议\) "wikilink")
+  - [Jingle](../Page/Jingle_\(协议\).md "wikilink")
 
   - [安全實時傳輸協議](https://zh.wikipedia.org/wiki/安全實時傳輸協議 "wikilink")
 

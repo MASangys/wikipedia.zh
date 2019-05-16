@@ -172,7 +172,7 @@
 <td><p>14</p></td>
 <td><p>7月13日</p></td>
 <td><p>內山命</p></td>
-<td><p>石田安奈、向田茉夏、<a href="https://zh.wikipedia.org/wiki/齊藤真木子" title="wikilink">齊藤真木子</a>、<a href="https://zh.wikipedia.org/wiki/松村香織" title="wikilink">松村香織</a></p></td>
+<td><p>石田安奈、向田茉夏、<a href="https://zh.wikipedia.org/wiki/齊藤真木子" title="wikilink">齊藤真木子</a>、<a href="../Page/松村香織.md" title="wikilink">松村香織</a></p></td>
 <td><p>岐阜縣岐阜市</p></td>
 <td><p>造<a href="../Page/旗幟.md" title="wikilink">旗工匠</a></p></td>
 <td><p>好女兒</p></td>
@@ -199,7 +199,7 @@
 <td><p>17</p></td>
 <td><p>10月12日</p></td>
 <td><p>山下由加里</p></td>
-<td><p>內山命、金子栞、木本花音、<a href="https://zh.wikipedia.org/wiki/古畑奈和" title="wikilink">古畑奈和</a></p></td>
+<td><p>內山命、金子栞、木本花音、<a href="../Page/古畑奈和.md" title="wikilink">古畑奈和</a></p></td>
 <td><p>三重縣松阪市</p></td>
 <td><p><a href="../Page/便當.md" title="wikilink">便當店</a></p></td>
 <td><p>好女兒</p></td>
@@ -237,7 +237,7 @@
 <tr class="even">
 <td><p>21</p></td>
 <td><p>1月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/磯原杏華" title="wikilink">磯原杏華</a></p></td>
+<td><p><a href="../Page/磯原杏華.md" title="wikilink">磯原杏華</a></p></td>
 <td><p>加藤琉美、阿比留李帆、佐藤實繪子、內山命</p></td>
 <td><p>三重縣鳥羽市浦村町</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吃到飽" title="wikilink">吃到飽店</a></p></td>

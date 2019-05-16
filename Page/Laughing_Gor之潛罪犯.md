@@ -1,6 +1,6 @@
 是一部於2011年出品的[香港警匪片](../Page/香港.md "wikilink")，此電影由[邵氏影城有限公司與](../Page/邵氏兄弟.md "wikilink")[香港](../Page/香港.md "wikilink")[電視廣播有限公司合作攝製](../Page/電視廣播有限公司.md "wikilink")，由[邱禮濤擔任執導](../Page/邱禮濤.md "wikilink")，以及由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[謝天華](../Page/謝天華.md "wikilink")、[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")、[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[惠英紅](../Page/惠英紅.md "wikilink")、[文詠珊及](../Page/文詠珊.md "wikilink")[徐子珊領銜主演](../Page/徐子珊.md "wikilink")。
 
-由於[謝天華在](../Page/謝天華.md "wikilink")[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》和《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》所飾演的[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[梁笑棠](https://zh.wikipedia.org/wiki/梁笑棠 "wikilink")（[Laughing哥](../Page/Laughing哥.md "wikilink")）大受歡迎，此電影為《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》第三部[衍生作品及](https://zh.wikipedia.org/wiki/衍生作品 "wikilink")[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》的續集。
+由於[謝天華在](../Page/謝天華.md "wikilink")[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》和《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》所飾演的[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[梁笑棠](https://zh.wikipedia.org/wiki/梁笑棠 "wikilink")（[Laughing哥](../Page/Laughing哥.md "wikilink")）大受歡迎，此電影為《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》第三部[衍生作品及](../Page/衍生作品.md "wikilink")[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》的續集。
 
 ## 劇情簡介
 
@@ -199,17 +199,17 @@ Laughing哥想向警隊揭發卓景全罪行時，教授突然阻止，原來[�
 <td><p>律師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/何君誠" title="wikilink">何君誠</a></p></td>
+<td><p><a href="../Page/何君誠.md" title="wikilink">何君誠</a></p></td>
 <td><p>黑　警</p></td>
 <td><p>黑警</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭世豪" title="wikilink">鄭世豪</a></p></td>
+<td><p><a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a></p></td>
 <td><p>黑　警</p></td>
 <td><p>黑警</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李偉健" title="wikilink">李偉健</a></p></td>
+<td><p><a href="../Page/李偉健.md" title="wikilink">李偉健</a></p></td>
 <td><p>黑　警</p></td>
 <td><p>黑警</p></td>
 </tr>

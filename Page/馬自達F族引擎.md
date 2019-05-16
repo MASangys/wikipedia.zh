@@ -141,7 +141,7 @@ Turbo」。車型：
 
 ## F2T型
 
-此具**F2T型**渦輪增壓引擎之缸徑與衝程跟F2型一樣，搭載由日本[石川島播磨重工業供應](https://zh.wikipedia.org/wiki/IHI "wikilink")、代號「RHB5
+此具**F2T型**渦輪增壓引擎之缸徑與衝程跟F2型一樣，搭載由日本[石川島播磨重工業供應](../Page/IHI.md "wikilink")、代號「RHB5
 VJ11型」的[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")，並附中冷器。最大馬力145hp /
 4,300rpm，最大扭力190lb·ft。有傳言認為這具渦輪增壓引擎的實力被低估，不過馬自達依然只表示這些數據符合美國與[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[DIN的曲軸等級標準](https://zh.wikipedia.org/wiki/德國標準化學會 "wikilink")，按照各國市場的法律製造出售。由於[扭矩輸出增加](../Page/力矩.md "wikilink")，馬自達加強了F2T型引擎的H型變速系統，這也是該公司有史以來最堅固耐用的[變速箱](https://zh.wikipedia.org/wiki/變速器 "wikilink")。車型：
 

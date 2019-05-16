@@ -107,9 +107,9 @@ Evernote的一些第三方客户端：
 ## 类似的产品和服务
 
 Evernote的竞争对手包括：\[17\]、、、[Microsoft
-OneNote](../Page/Microsoft_OneNote.md "wikilink")、、、、[Zotero](https://zh.wikipedia.org/wiki/Zotero "wikilink")、[Gnote](../Page/Gnote.md "wikilink")、[BasKet](https://zh.wikipedia.org/wiki/BasKet "wikilink")。
+OneNote](../Page/Microsoft_OneNote.md "wikilink")、、、、[Zotero](../Page/Zotero.md "wikilink")、[Gnote](../Page/Gnote.md "wikilink")、[BasKet](https://zh.wikipedia.org/wiki/BasKet "wikilink")。
 
-在中文笔记类软件中，主要的竞争对手有[方片收集](http://funp.in/)、[为知笔记](https://zh.wikipedia.org/wiki/为知笔记 "wikilink")、[麦库记事和](https://zh.wikipedia.org/wiki/麦库笔记 "wikilink")[有道云笔记](https://zh.wikipedia.org/wiki/有道云笔记 "wikilink")。
+在中文笔记类软件中，主要的竞争对手有[方片收集](http://funp.in/)、[为知笔记](https://zh.wikipedia.org/wiki/为知笔记 "wikilink")、[麦库记事和](https://zh.wikipedia.org/wiki/麦库笔记 "wikilink")[有道云笔记](../Page/有道云笔记.md "wikilink")。
 
 ## 相关书籍
 

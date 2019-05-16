@@ -11,7 +11,7 @@
 赤坂Sacas中的“Sacas”，第一个意思是“**樱花盛开**”，第二个意思是“**赤坂有很多坡道**”（坂，日语读音为saka，即saka＋s＝sakas）。而且赤坂Sacas的日文罗马字写法“akasaka
 Sacas”从后面开始读为“**SACA・SAKA・SAKA**”（坂・坂・坂）。
 
-计划当初被称为“TBS赤坂5丁目再开发计划”，在1994年东京放送（TBS，现[东京放送控股](https://zh.wikipedia.org/wiki/东京放送控股 "wikilink")）搬迁至东京都港区赤坂[TBS广播中心后的旧总部](https://zh.wikipedia.org/wiki/TBS广播中心 "wikilink")（2003年前曾以赤坂媒体大楼为名使用）的空地开发，由土地所有人东京放送与地产开发商[三井不动产进行](https://zh.wikipedia.org/wiki/三井不动产 "wikilink")。于2008年3月20日盛大开业，一时关闭的[赤坂BLITZ与](../Page/赤坂BLITZ.md "wikilink")[赤坂ACT剧场也全面重新开业](https://zh.wikipedia.org/wiki/赤坂ACT剧场 "wikilink")。
+计划当初被称为“TBS赤坂5丁目再开发计划”，在1994年东京放送（TBS，现[东京放送控股](https://zh.wikipedia.org/wiki/东京放送控股 "wikilink")）搬迁至东京都港区赤坂[TBS广播中心后的旧总部](https://zh.wikipedia.org/wiki/TBS广播中心 "wikilink")（2003年前曾以赤坂媒体大楼为名使用）的空地开发，由土地所有人东京放送与地产开发商[三井不动产进行](../Page/三井不动产.md "wikilink")。于2008年3月20日盛大开业，一时关闭的[赤坂BLITZ与](../Page/赤坂BLITZ.md "wikilink")[赤坂ACT剧场也全面重新开业](https://zh.wikipedia.org/wiki/赤坂ACT剧场 "wikilink")。
 
 2008年夏，TBS举办夏季大型活动“夏Sacas'08”，以后毎年举办。
 

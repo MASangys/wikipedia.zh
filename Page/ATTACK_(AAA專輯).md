@@ -1,5 +1,5 @@
 「**ATTACK**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚原創專輯。於2006年1月1日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -32,7 +32,7 @@ trax](../Page/avex_trax.md "wikilink")。
 4.  **太陽**
     （作詞・作曲：[川井健](https://zh.wikipedia.org/wiki/川井健 "wikilink")　編曲：[田辺恵二](https://zh.wikipedia.org/wiki/田辺恵二 "wikilink")）
       -
-        迷你專輯「[alohAAA\!](../Page/alohAAA!.md "wikilink")」的收錄曲
+        迷你專輯「[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」的收錄曲
 5.  **[美麗的天空](../Page/美麗的天空.md "wikilink")**（きれいな空）
     （作詞・作曲：[原広明](https://zh.wikipedia.org/wiki/原広明 "wikilink")　編曲：[松原憲](https://zh.wikipedia.org/wiki/松原憲 "wikilink")）
       -
@@ -65,11 +65,11 @@ trax](../Page/avex_trax.md "wikilink")。
     （作詞：[motsu](https://zh.wikipedia.org/wiki/motsu "wikilink")
     作曲・編曲：[後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")）
       -
-        迷你專輯「[alohAAA\!](../Page/alohAAA!.md "wikilink")」的收錄曲
+        迷你專輯「[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」的收錄曲
 11. **在地球的懷抱裡** （地球に抱かれて）
     （作詞：パンタ 作曲・編曲：[十川知司](https://zh.wikipedia.org/wiki/十川知司 "wikilink")）
       -
-        迷你專輯「[alohAAA\!](../Page/alohAAA!.md "wikilink")」的收錄曲
+        迷你專輯「[alohAAA\!](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")」的收錄曲
 12. **我們的手**（ボクラノテ）
     （作詞・作曲：[石田匠](https://zh.wikipedia.org/wiki/石田匠 "wikilink")
     編曲：[REO](https://zh.wikipedia.org/wiki/REO "wikilink")）
@@ -89,7 +89,7 @@ trax](../Page/avex_trax.md "wikilink")。
 
 1.  Welcome to This World
 2.  [CRAZY GONNA
-    CRAZY](../Page/CCC_-Challenge_Cover_Collection-.md "wikilink")
+    CRAZY](https://zh.wikipedia.org/wiki/CCC_-Challenge_Cover_Collection- "wikilink")
 3.  美麗的天空
 4.  Friday Party
 5.  BLOOD on FIRE

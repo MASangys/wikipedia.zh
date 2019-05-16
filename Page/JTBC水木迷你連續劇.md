@@ -61,7 +61,7 @@
 <td style="text-align: center;"><p><a href="../Page/發酵家族.md" title="wikilink">發酵家族</a><br />
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
-<td style="text-align: center;"><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="https://zh.wikipedia.org/wiki/李大根" title="wikilink">李大根</a>、<a href="https://zh.wikipedia.org/wiki/姜信日" title="wikilink">姜信日</a>、<a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、<a href="https://zh.wikipedia.org/wiki/崔宰誠" title="wikilink">崔宰誠</a>、<a href="../Page/崔德文.md" title="wikilink">崔德文</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="https://zh.wikipedia.org/wiki/李大根" title="wikilink">李大根</a>、<a href="../Page/姜信日.md" title="wikilink">姜信日</a>、<a href="../Page/鄭愛利.md" title="wikilink">鄭愛利</a>、<a href="../Page/崔宰誠.md" title="wikilink">崔宰誠</a>、<a href="../Page/崔德文.md" title="wikilink">崔德文</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴燦弘.md" title="wikilink">朴燦弘</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金志宇.md" title="wikilink">金志宇</a></p></td>
 <td style="text-align: center;"></td>
@@ -100,9 +100,9 @@
 <td style="text-align: center;"><p><a href="../Page/妻子的資格.md" title="wikilink">妻子的資格</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/金喜愛.md" title="wikilink">金喜愛</a>、<a href="https://zh.wikipedia.org/wiki/李成宰" title="wikilink">李成宰</a>、<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a>、<a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a>、<a href="https://zh.wikipedia.org/wiki/朴赫權" title="wikilink">朴赫權</a>、<a href="https://zh.wikipedia.org/wiki/李正吉" title="wikilink">李正吉</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/安畔錫" title="wikilink">安畔錫</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭成珠" title="wikilink">鄭成珠</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金喜愛.md" title="wikilink">金喜愛</a>、<a href="../Page/李成宰.md" title="wikilink">李成宰</a>、<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a>、<a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a>、<a href="../Page/朴赫權.md" title="wikilink">朴赫權</a>、<a href="../Page/李正吉.md" title="wikilink">李正吉</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/安畔錫.md" title="wikilink">安畔錫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/鄭成珠.md" title="wikilink">鄭成珠</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -122,7 +122,7 @@
 <td style="text-align: center;"><p><a href="../Page/給親愛的你_(韓國電視劇).md" title="wikilink">給親愛的你</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴帥眉.md" title="wikilink">朴帥眉</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/崔汝珍.md" title="wikilink">崔汝珍</a>、<a href="https://zh.wikipedia.org/wiki/裴盧麗" title="wikilink">裴盧麗</a>、<a href="../Page/朴詩恩.md" title="wikilink">朴詩恩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴帥眉.md" title="wikilink">朴帥眉</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/崔汝珍.md" title="wikilink">崔汝珍</a>、<a href="../Page/裴盧麗.md" title="wikilink">裴盧麗</a>、<a href="../Page/朴詩恩.md" title="wikilink">朴詩恩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙賢卓" title="wikilink">趙賢卓</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金智恩" title="wikilink">金智恩</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="../Page/野澤尚.md" title="wikilink">野澤尚</a>《<a href="https://zh.wikipedia.org/wiki/給親愛的你_(日本電視劇)" title="wikilink">給親愛的你</a>》</p></td>
@@ -158,10 +158,10 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2015年2月4日－2015年3月18日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/善巖女高偵探團" title="wikilink">善巖女高偵探團</a><br />
+<td style="text-align: center;"><p><a href="../Page/善巖女高偵探團.md" title="wikilink">善巖女高偵探團</a><br />
 </p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳智熙" title="wikilink">陳智熙</a>、<a href="https://zh.wikipedia.org/wiki/姜敏兒" title="wikilink">姜敏兒</a>、<a href="https://zh.wikipedia.org/wiki/惠利" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/李史蒂芬妮" title="wikilink">李史蒂芬妮</a>、<a href="https://zh.wikipedia.org/wiki/李敏芝" title="wikilink">李敏芝</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/李丞涓.md" title="wikilink">李丞涓</a>、<a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳智熙.md" title="wikilink">陳智熙</a>、<a href="../Page/姜敏兒.md" title="wikilink">姜敏兒</a>、<a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/李史蒂芬妮" title="wikilink">李史蒂芬妮</a>、<a href="https://zh.wikipedia.org/wiki/李敏芝" title="wikilink">李敏芝</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/李丞涓.md" title="wikilink">李丞涓</a>、<a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/呂雲赫" title="wikilink">呂雲赫</a>、<a href="https://zh.wikipedia.org/wiki/劉正煥" title="wikilink">劉正煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申廣浩" title="wikilink">申廣浩</a></p></td>
 <td style="text-align: center;"><p>原作：朴河億《善巖女高偵探團：放學後的推理》<br />
@@ -175,7 +175,7 @@
   - [KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")
   - [MBC水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")
   - [SBS特別劇](../Page/SBS特別劇.md "wikilink")
-  - [tvN水木連續劇](../Page/tvN水木連續劇.md "wikilink")
+  - [tvN水木連續劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")
 
 [Category:JTBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:JTBC水木迷你連續劇 "wikilink")
 [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")

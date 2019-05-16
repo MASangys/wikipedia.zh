@@ -50,7 +50,7 @@ HTC于2011年第二季度为Incredible S升级到[Android
 2.3](https://zh.wikipedia.org/wiki/Android歷史版本#Android_2.3.x "wikilink")。\[12\]2012年第二季度更升级至[Android
 4.0](https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.0.x "wikilink")。\[13\]该机拥有第二代[HTC
 Sense用户界面](../Page/HTC_Sense.md "wikilink")，后更升级至第三代，内置了全新的[全球卫星导航](../Page/卫星导航系统.md "wikilink")（30天试用），登錄認證碼後則可在該國家永久免費使用。在英国发布的时候，英国的地图也已经包含到了8GB
-[microSD卡内](../Page/microSD.md "wikilink")。该机拥有[Bootloader](../Page/啟動程式.md "wikilink")，是HTC全新一代智能手机之一。正因如此，该机獲得[Root權限的門檻也較高](https://zh.wikipedia.org/wiki/root_\(Android\) "wikilink")\[14\]。
+[microSD卡内](https://zh.wikipedia.org/wiki/microSD "wikilink")。该机拥有[Bootloader](../Page/啟動程式.md "wikilink")，是HTC全新一代智能手机之一。正因如此，该机獲得[Root權限的門檻也較高](https://zh.wikipedia.org/wiki/root_\(Android\) "wikilink")\[14\]。
 
 ## 參見
 

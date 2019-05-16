@@ -1,5 +1,5 @@
 「**alohAAA\!**」是[AAA的第](../Page/AAA_\(團體\).md "wikilink")3枚迷你專輯。於2007年3月21日發行。唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@ trax](../Page/avex_trax.md "wikilink")。
   - 本作收錄了歌曲「Wonderful Life」的PV和PV Making。
   - 本作是與服裝品牌「T＆C衝浪設計」合作。
   - 與單曲「[Climax Jump](../Page/Climax_Jump.md "wikilink")」、「[前進吧
-    少鷹軍團2007](https://zh.wikipedia.org/wiki/前進吧_少鷹軍團2007 "wikilink")」和DVD「Channel@×AAA」同時發行。
+    少鷹軍團2007](../Page/前進吧_少鷹軍團2007.md "wikilink")」和DVD「Channel@×AAA」同時發行。
   - 在4月2日於公信榜專輯週排行榜取得第39位
 
 ## 收錄內容

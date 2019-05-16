@@ -2,7 +2,7 @@
 
 因為while迴圈在區塊內代碼被執行之前，先檢查[陳述是否成立](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，因此這種[控制流程通常被稱為是一種前測試迴圈](../Page/控制流程.md "wikilink")（pre-test
 loop）。相對而言[do
-while迴圈](../Page/do-while循环.md "wikilink")，是在迴圈區塊執行結束之後，再去檢查[陳述是否成立](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，被稱為是後測試迴圈。
+while迴圈](https://zh.wikipedia.org/wiki/do-while循环 "wikilink")，是在迴圈區塊執行結束之後，再去檢查[陳述是否成立](https://zh.wikipedia.org/wiki/陳述_\(程式\) "wikilink")，被稱為是後測試迴圈。
 
 ## 程式範例
 
@@ -38,7 +38,7 @@ Wend
 Print "End"
 ```
 
-### [java](../Page/java.md "wikilink")
+### [java](https://zh.wikipedia.org/wiki/java "wikilink")
 
 ``` java
 public static void main(str args[]){

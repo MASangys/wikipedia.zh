@@ -1,5 +1,5 @@
 「**BEYOND～超越極限**」（BEYOND～カラダノカナタ）是[日本的](../Page/日本.md "wikilink")[音樂团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")18张[单曲](../Page/单曲.md "wikilink")。2008年5月28日由[avex
-trax发售](../Page/avex_trax.md "wikilink")。
+trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

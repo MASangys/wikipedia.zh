@@ -230,7 +230,7 @@
 
 <!-- end list -->
 
-  - 高橋晶子 - [堀内敬子](https://zh.wikipedia.org/wiki/堀内敬子 "wikilink")（第9・17話）
+  - 高橋晶子 - [堀内敬子](../Page/堀内敬子.md "wikilink")（第9・17話）
 
 <!-- end list -->
 
@@ -849,8 +849,7 @@
 
 ## 相關項目
 
-  - [So long
-    \!](https://zh.wikipedia.org/wiki/So_long_!_\(日本電視劇\) "wikilink")
+  - [So long \!](../Page/So_long_!_\(日本電視劇\).md "wikilink")
 
 ## 外部連結
 

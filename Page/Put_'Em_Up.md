@@ -3,11 +3,13 @@ Up**》（從實招來）是[安室奈美惠以個人單獨名義在](../Page/�
 
 ## 簡介
 
-  - 與前作《[shine more](../Page/shine_more.md "wikilink")》相隔約4個月的新單曲。
+  - 與前作《[shine
+    more](https://zh.wikipedia.org/wiki/shine_more "wikilink")》相隔約4個月的新單曲。
   - 於世界各地活躍的[音樂製作人與](../Page/音樂製作人.md "wikilink")[作曲家Dallas](https://zh.wikipedia.org/wiki/作曲家 "wikilink")
     Austin的製作作品，自第15張單曲《[SOMETHING 'BOUT THE
     KISS](../Page/SOMETHING_'BOUT_THE_KISS.md "wikilink")》與第5張專輯《[break
-    the rules](../Page/break_the_rules.md "wikilink")》後第3次合作（前2次都是Dallas
+    the
+    rules](https://zh.wikipedia.org/wiki/break_the_rules "wikilink")》後第3次合作（前2次都是Dallas
     Austi與[小室哲哉共同製作](../Page/小室哲哉.md "wikilink")）。
   - 歌曲以男人外遇後給女人發現為主題。與傳統外遇歌曲的悲情不同，本作描寫的是女人在發現自己的另一半偷腥後，所應該展現的強硬態度，亦是安室一向呈現出來的新時代女性風貌。
   - 標題《Put 'Em Up》代表「Put them up」→「Put your hands

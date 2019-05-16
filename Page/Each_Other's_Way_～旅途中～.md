@@ -7,7 +7,7 @@
   - 第八張原創專輯《[祈願之塔](../Page/祈願之塔.md "wikilink")》的先行單曲。
   - 以「CD+DVD」與「CD ONLY」兩形式發售。
   - AKIRA出演的CHINTAI廣告歌。
-  - 自《[活出堅強](../Page/活出堅強.md "wikilink")》以來再次由[ATSUSHI作詞的標題曲](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")。
+  - 自《[活出堅強](../Page/活出堅強.md "wikilink")》以來再次由[ATSUSHI作詞的標題曲](../Page/ATSUSHI.md "wikilink")。
   - 自《[LAST
     CHRISTMAS](../Page/LAST_CHRISTMAS_\(EXILE單曲\).md "wikilink")》以來再次未收錄標題曲的純音樂版本。
   - 通算第10張，自《[FANTASY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")》以來再次獲得首位的單曲，初動銷量約10萬張。
@@ -22,7 +22,7 @@
 ### CD
 
 1.  **Each Other's Way
-    〜旅途中〜**（）（VOCAL：[ATSUSHI](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")、[TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")）\[3:53\]
+    〜旅途中〜**（）（VOCAL：[ATSUSHI](../Page/ATSUSHI.md "wikilink")、[TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")）\[3:53\]
       - 作詞：ATSUSHI / 作曲：BACHLOGIC、Mats Lie Skare、FASTLANE / 編曲：BACHLOGIC
 2.  **Each Other's Way 〜旅途中〜 (Instrumental)**
 

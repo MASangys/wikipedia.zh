@@ -1,6 +1,6 @@
 「**EveryBody
 JUMP\!\!**」是[SUPER☆GiRLS的第](../Page/SUPER☆GiRLS.md "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年2月1日由[iDOL
-Street發售](../Page/iDOL_Street.md "wikilink")。
+Street發售](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 

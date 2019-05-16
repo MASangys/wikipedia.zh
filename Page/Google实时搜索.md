@@ -11,7 +11,7 @@ Social](https://zh.wikipedia.org/wiki/Bing_Social "wikilink")，其搜索结果�
 
   - [Twitter](../Page/Twitter.md "wikilink")
   - [Facebook](../Page/Facebook.md "wikilink")
-  - [MySpace](../Page/MySpace.md "wikilink")
+  - [MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")
   - [FriendFeed](../Page/FriendFeed.md "wikilink")
   - [Google Buzz](../Page/Google_Buzz.md "wikilink")
 

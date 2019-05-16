@@ -15,7 +15,7 @@ ZELO**，是[B.A.P的子團](../Page/B.A.P.md "wikilink")。在B.A.P還未正式
 
   -
     2011年
-    [Secret](../Page/Secret_\(組合\).md "wikilink")[宋枝恩](https://zh.wikipedia.org/wiki/宋枝恩 "wikilink")〈Going
+    [Secret](../Page/Secret_\(組合\).md "wikilink")[宋枝恩](../Page/宋枝恩.md "wikilink")〈Going
     Crazy〉Feat.方容國
     2011年 Solo單曲〈I Remember〉with
     [BEAST梁耀燮](https://zh.wikipedia.org/wiki/BEAST "wikilink")

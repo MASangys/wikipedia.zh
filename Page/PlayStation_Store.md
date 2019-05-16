@@ -24,7 +24,7 @@ Vita发售时同步支持该机](../Page/PlayStation_Vita.md "wikilink")。
 ### PlayStation 4
 
 2013年11月15日，PlayStation Store在[PlayStation
-4发售时同步支持该机](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")。
+4发售时同步支持该机](../Page/PlayStation_4.md "wikilink")。
 
 ### 网页
 

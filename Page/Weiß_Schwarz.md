@@ -288,7 +288,7 @@ Portable](../Page/Weiß_Schwarz_Portable.md "wikilink")』中也登場的作品�
       - [某科学的超电磁炮](https://zh.wikipedia.org/wiki/某科学的超电磁炮 "wikilink")☆
   - [Rewrite](../Page/Rewrite.md "wikilink")
   - [灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")
-  - [Robotics;Notes](../Page/Robotics;Notes.md "wikilink")
+  - [Robotics;Notes](https://zh.wikipedia.org/wiki/Robotics;Notes "wikilink")
   - [DOG DAYS](../Page/DOG_DAYS.md "wikilink")
   - [日常](../Page/日常.md "wikilink")
   - [魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")

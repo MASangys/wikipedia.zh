@@ -3,7 +3,7 @@ Seasons**》是[環球唱片於](https://zh.wikipedia.org/wiki/環球唱片 "wik
 
 ## 專輯介紹
 
-專輯收錄了張國榮不同時代的歌曲，包括八十年代加盟的[華星唱片](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")、[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")，以及1995年復出歌壇後加入的[滾石唱片](../Page/滾石唱片.md "wikilink")、[環球唱片的不同時期作品](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，希望樂迷可以感受張國榮音樂世界中的春夏秋冬。唯因專輯內並未收錄[風繼續吹而遭廣大樂迷詬病](../Page/風繼續吹.md "wikilink")。此唱片登陸了[香港唱片商會銷量榜內共有](https://zh.wikipedia.org/wiki/香港唱片商會 "wikilink")12星期。精選輯其後改版，附送[四季歌詞集](https://zh.wikipedia.org/wiki/四季歌詞集 "wikilink")，收錄由創作人李重言撰寫有關哥哥的幾則散文。
+專輯收錄了張國榮不同時代的歌曲，包括八十年代加盟的[華星唱片](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")、[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")，以及1995年復出歌壇後加入的[滾石唱片](../Page/滾石唱片.md "wikilink")、[環球唱片的不同時期作品](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，希望樂迷可以感受張國榮音樂世界中的春夏秋冬。唯因專輯內並未收錄[風繼續吹而遭廣大樂迷詬病](../Page/風繼續吹.md "wikilink")。此唱片登陸了[香港唱片商會銷量榜內共有](../Page/香港唱片商會.md "wikilink")12星期。精選輯其後改版，附送[四季歌詞集](https://zh.wikipedia.org/wiki/四季歌詞集 "wikilink")，收錄由創作人李重言撰寫有關哥哥的幾則散文。
 
 ## 曲目（4CD）
 

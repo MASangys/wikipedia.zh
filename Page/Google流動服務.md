@@ -5,7 +5,7 @@ Services**）是[Google的一項服務](../Page/Google.md "wikilink")，讓用�
 
   - [Android](../Page/Android.md "wikilink")
   - [BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")
-  - [iPhone](../Page/iPhone.md "wikilink")
+  - [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
   - [Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")
   - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")
   - [Nokia S60](https://zh.wikipedia.org/wiki/Nokia_S60 "wikilink")

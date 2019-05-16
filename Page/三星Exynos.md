@@ -2,7 +2,7 @@
 
 Exynos絕大多數只用在[三星Galaxy系列產品](../Page/三星Galaxy.md "wikilink")，除了[魅族以外很少有其它厂商採用](https://zh.wikipedia.org/wiki/魅族 "wikilink")。\[2\]
 
-2016年[安兔兔第二季度的报告指出](https://zh.wikipedia.org/wiki/安兔兔 "wikilink")，[Android阵营高跑分手机中多为使用骁龙和Exynos芯片](../Page/Android.md "wikilink")，此一現象直到兩年後[華為新款](https://zh.wikipedia.org/wiki/華為 "wikilink")[麒麟處理器出現後才打破](https://zh.wikipedia.org/wiki/海思半導體 "wikilink")。\[3\]
+2016年[安兔兔第二季度的报告指出](https://zh.wikipedia.org/wiki/安兔兔 "wikilink")，[Android阵营高跑分手机中多为使用骁龙和Exynos芯片](../Page/Android.md "wikilink")，此一現象直到兩年後[華為新款](https://zh.wikipedia.org/wiki/華為 "wikilink")[麒麟處理器出現後才打破](../Page/海思半導體.md "wikilink")。\[3\]
 
 ## 背景介绍
 
@@ -20,14 +20,14 @@ PowerVR 544MP3 GPU，工作频率为 533MHz。那就代表说用于
 iPad](https://zh.wikipedia.org/wiki/第三代_iPad "wikilink")（A5X）和[第四代
 iPad](https://zh.wikipedia.org/wiki/第四代_iPad "wikilink")（A6X）之间。
 
-三星電子向来有为自家设备研发[处理器的历史](https://zh.wikipedia.org/wiki/处理器 "wikilink")，一些芯片也用在其它品牌的设备上，例如苹果前三代[iPhone](../Page/iPhone.md "wikilink")。
+三星電子向来有为自家设备研发[处理器的历史](https://zh.wikipedia.org/wiki/处理器 "wikilink")，一些芯片也用在其它品牌的设备上，例如苹果前三代[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
 ## 早期产品
 
-在Exynos命名之前，三星電子的处理器型号夹杂字母和数字，比较复杂难记。不过由于[iPhone系列的成功](../Page/iPhone.md "wikilink")，由三星制造的处理器也获得了广泛关注。S5L8900处理器首先应用于2007年发表的第一代iPhone上，其后也使用在[iPhone
-3G上](../Page/iPhone_3G.md "wikilink")，该处理器主频为412MHz，当时搭配的GPU是[PowerVR](../Page/PowerVR.md "wikilink")
+在Exynos命名之前，三星電子的处理器型号夹杂字母和数字，比较复杂难记。不过由于[iPhone系列的成功](https://zh.wikipedia.org/wiki/iPhone "wikilink")，由三星制造的处理器也获得了广泛关注。S5L8900处理器首先应用于2007年发表的第一代iPhone上，其后也使用在[iPhone
+3G上](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")，该处理器主频为412MHz，当时搭配的GPU是[PowerVR](../Page/PowerVR.md "wikilink")
 MBX-Lite。比较有名的则是S5PC100处理器，使用在2009年推出的[iPhone
-3GS和](../Page/iPhone_3GS.md "wikilink")[第三代iPod
+3GS和](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[第三代iPod
 touch上](https://zh.wikipedia.org/wiki/第三代iPod_touch "wikilink")，采用Cortex-A8架构，主频为667MHz，但是遇到大程序会自动超频至833MHz。
 
 <table>
@@ -112,7 +112,7 @@ touch上](https://zh.wikipedia.org/wiki/第三代iPod_touch "wikilink")，采用
 <td><p>PowerVR MBX Lite</p></td>
 <td><p>eDRAM</p></td>
 <td><p>2007</p></td>
-<td><p><a href="../Page/iPhone.md" title="wikilink">Apple iPhone</a>、<a href="../Page/iPhone_3G.md" title="wikilink">Apple iPhone 3G</a>、<a href="../Page/iPod_touch.md" title="wikilink">Apple iPod touch 1</a>、<a href="../Page/iPod_touch.md" title="wikilink">Apple iPod touch 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone" title="wikilink">Apple iPhone</a>、<a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">Apple iPhone 3G</a>、<a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">Apple iPod touch 1</a>、<a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">Apple iPod touch 2</a></p></td>
 </tr>
 <tr class="even">
 <td><p>S3C6410</p></td>
@@ -325,11 +325,11 @@ Galaxy Camera 2 |}
 在前年2011年11月底，三星发布了一款型号为Exynos
 5250的新型[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，如今，来自国外媒体的最新消息显示，三星将推出一款型号为Exynos
 5450的处理器，相比Exynos 5250其性能更强。随着三星四核心新旗舰[三星Galaxy
-S4的不断曝光](https://zh.wikipedia.org/wiki/三星Galaxy_S4 "wikilink")，该机所使用的处理器也成为了人们猜测的重点。如果传言属实的话，那么这块Exynos
+S4的不断曝光](../Page/三星Galaxy_S4.md "wikilink")，该机所使用的处理器也成为了人们猜测的重点。如果传言属实的话，那么这块Exynos
 5450处理器将以速度最快、功耗最低的特征赢得更多人青睐。
 据悉，三星本打算将Exynos
 5250芯片植入旗下的[智能手机和](../Page/智能手机.md "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，但听说[LG开始自主研发更强劲的四核](https://zh.wikipedia.org/wiki/LG "wikilink")[处理器之后](https://zh.wikipedia.org/wiki/处理器 "wikilink")，这也就迫使三星電子不得不放弃最初的想法。三星于2013年中旬推出这款[三星Galaxy
-S4](https://zh.wikipedia.org/wiki/三星Galaxy_S4 "wikilink")，该机将采用5英寸[Super
+S4](../Page/三星Galaxy_S4.md "wikilink")，该机将采用5英寸[Super
 AMOLED全高清](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")[显示屏](https://zh.wikipedia.org/wiki/显示屏 "wikilink")，该机将采用三星電子自家生产研发的芯片型号Exynos
 5410。
 {| class="wikitable" |- \! colspan=2 | SoC \!\! colspan=4 | CPU \!\!
@@ -346,7 +346,7 @@ Dual\[32\]
 dual-channel 800 MHz LPDDR3/DDR3 (12.8 GB/sec) or 533 MHz LPDDR2
 (8.5 GB/sec) | 2012年第三季度\[35\] | Samsung
 [Chromebook](../Page/Chromebook.md "wikilink") XE303C12,\[36\] [Google
-Nexus 10](https://zh.wikipedia.org/wiki/Nexus_10 "wikilink"), [Arndale
+Nexus 10](../Page/Nexus_10.md "wikilink"), [Arndale
 Board](https://zh.wikipedia.org/wiki/Arndale_Board "wikilink"),\[37\]
 Huins ACHRO 5250 Exynos,\[38\] Freelander PD800 HD,\[39\] Voyo A15, HP
 Chromebook 11, Samsung Homesync |- | Exynos 5 Octa\[40\]\[41\]\[42\]
