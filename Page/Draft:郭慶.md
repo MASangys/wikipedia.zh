@@ -1,0 +1,50 @@
+郭慶（1921年10月20日－1952年4月1日），[雲林](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[崙背人](https://zh.wikipedia.org/wiki/崙背鄉 "wikilink")，曾任[貓兒干國民學校](https://zh.wikipedia.org/wiki/貓兒干 "wikilink")（今雲林縣崙背鄉豐榮國小）校長。自臺南師範學院畢業後長期擔任教職，郭慶時常在開會場合公開批評時政，在1948年加入雲林地下黨，1951年5月20日早晨被捕，1952年4月1日遭槍決。得年31歲。
+
+## 學歷
+
+  - 台南師範學院（今[台南大學](https://zh.wikipedia.org/wiki/國立臺南大學 "wikilink")）
+  - 延平學院夜間部
+
+## 經歷
+
+  - 南投竹山國民學校教職
+  - 台北[龍山國民學校教職](https://zh.wikipedia.org/wiki/龍山國民學校 "wikilink")
+  - 雲林莿桐國民學校教職\[1\]
+
+## 生平
+
+郭慶自幼家境貧苦，八歲時父親離世，與母親及四個兄弟姊妹相依為命。小學畢業後曾在書店當學徒，後獲得農會獎學金才能前往臺南師範學院（今[台南大學](https://zh.wikipedia.org/wiki/國立臺南大學 "wikilink")）就讀。畢業後被分發到竹山國民學校任教。郭慶曾在自傳提到，就讀師範學校時，感受到日本執政當局的差別待遇，因而激起反抗意識。\[2\]
+
+在二戰結束後，前往台北任教，同時間趁著下班後在延平學院夜間部進修，延平學院在二二八事件後停止辦學，郭慶原本想半工半讀的計畫泡湯，加上兄長生病，於是郭慶又回到家鄉任教。在台北任教期間，一次拜訪雲林同鄉，因西螺鎮長[廖萬來一行人至台北洽公](https://zh.wikipedia.org/wiki/廖萬來 "wikilink")，因而遇到曾縣議員[廖清纏](https://zh.wikipedia.org/wiki/廖清纏 "wikilink")。返回雲林後，郭慶常到廖清纏家裏討論社會問題，也因而認識了[鍾心寬](https://zh.wikipedia.org/wiki/鍾心寬 "wikilink")。
+
+1949年9月起擔任貓兒干國民學校校長。郭慶擔任校長期間，除了在公開場合批評政府，像是郭慶就曾抨擊外省籍教師不適任卻佔用職缺或是政府機關的貪污現象。此外，郭慶也曾鼓勵擔任工友的林佐思，重新上學讀書。
+
+面對當下的政治社會問題，1948年12月，郭慶經鍾心寬介紹參加組織，與[廖學信同一小組](https://zh.wikipedia.org/wiki/廖學信 "wikilink")，投身加入雲林地下黨，利用[國民黨的](https://zh.wikipedia.org/wiki/國民黨 "wikilink")[三七五減租政策](https://zh.wikipedia.org/wiki/三七五減租 "wikilink")，推動業佃談判，並在崙背、莿桐一帶進行共產黨組織的發展。首先領導「雲林[莿桐鄉小組](https://zh.wikipedia.org/wiki/莿桐鄉 "wikilink")」，後改編為「雲林莿桐鄉支部」，隸屬於「中共台灣省工作委員會虎尾、斗六地區工作委員會」。
+
+1951年，廖學信被捕後，和盤供出組織關係，導致5月20日早晨郭慶被捕，執政當局以「從事宣傳匪黨主義、調查社會動態暨利用三七五減租辦法，歪曲事實，向農民宣傳攻擊政府」為由判處死刑。
+
+1952年4月1日，郭慶發交憲兵第八團執行槍決，離開監所鐵門時唱著軍歌「海行兮」，結束了31歲的人生。郭慶遺孀則帶著子女改嫁警察。\[3\]
+同案件的鍾心寬1954年因另案判處死刑，廖學信則於1952年自新，無罪釋放。\[4\]
+[缩略图](https://zh.wikipedia.org/wiki/File:郭慶之墓.jpg "fig:缩略图")
+1993年，其女郭素貞在[六張犁亂葬岡的草叢中](https://zh.wikipedia.org/wiki/六張犁亂葬崗 "wikilink")，找到了郭慶的墓碑。\[5\]
+
+## 家庭背景
+
+案發前，郭慶與妻子廖玉霞同在貓兒干國民學校擔任教職，並育有一兒一女。
+
+## 軼事
+
+郭慶入獄期間，涉及同案的[程日華被提出放封](https://zh.wikipedia.org/wiki/程日華 "wikilink")，經過牢房時，郭慶從嘴裡悄悄吐出一張空白的紙片，以此表達郭慶完全無供出任何事情。
+
+## 參考資料
+
+[Category:白色恐怖](https://zh.wikipedia.org/wiki/Category:白色恐怖 "wikilink")
+[Category:雲林人](https://zh.wikipedia.org/wiki/Category:雲林人 "wikilink")
+[Category:崙背人](https://zh.wikipedia.org/wiki/Category:崙背人 "wikilink")
+[Category:校長](https://zh.wikipedia.org/wiki/Category:校長 "wikilink")
+
+1.
+2.
+3.
+4.
+5.

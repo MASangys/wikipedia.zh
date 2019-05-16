@@ -1,0 +1,116 @@
+**飛迅**（），本名**邱佳萱**，出身[臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")。是一名[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")。畢業於[大葉大學傳播藝術系](../Page/大葉大學.md "wikilink")。父親為新竹地方幫派幫主。獨特的風格，曾被多個國際知名品牌分享穿搭，因而參與許多饒舌歌手的MV演出。現為《[食尚玩家](../Page/食尚玩家.md "wikilink")》FB粉專直播主持人。大學時期參與《[大學生了沒](../Page/大學生了沒.md "wikilink")》成為固定班底，因服裝配色鮮明亮眼，被節目製作人取名為「飛迅」，並以此節目聞名。此外，自然不做作的表現讓人印象深刻，後來也成為《[同學！搞什麼鬼](https://zh.wikipedia.org/wiki/同學！搞什麼鬼 "wikilink")》固定班底、《[上班這黨事](../Page/上班這黨事.md "wikilink")》黨團，擁有許多忠實粉絲。熱衷於公益活動的她，同時是[呼嚕嚕愛心市集主辦人](https://zh.wikipedia.org/wiki/呼嚕嚕愛心市集 "wikilink")。
+
+## 影視作品
+
+### 電視節目通告
+
+  - [大學生了沒](../Page/大學生了沒.md "wikilink") 固定班底
+    ([中天綜合台](../Page/中天綜合台.md "wikilink"))
+  - [同學！搞什麼鬼](https://zh.wikipedia.org/wiki/同學！搞什麼鬼 "wikilink") 固定班底
+    ([八大綜合台](../Page/八大綜合台.md "wikilink"))
+  - [上班這檔事](https://zh.wikipedia.org/wiki/上班這檔事 "wikilink") 黨團
+    ([TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink"))
+  - [爸媽冏很大](https://zh.wikipedia.org/wiki/爸媽冏很大 "wikilink")
+    ([公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink"))
+  - [超愛美小姐](https://zh.wikipedia.org/wiki/超愛美小姐 "wikilink")
+    ([三立都會台or](../Page/三立都會台.md "wikilink")[MTV娛樂台](https://zh.wikipedia.org/wiki/MTV娛樂台 "wikilink"))
+  - [小明星大跟班](../Page/小明星大跟班.md "wikilink")
+    ([中天綜合台or](../Page/中天綜合台.md "wikilink")[中天娛樂台](../Page/中天娛樂台.md "wikilink"))
+  - [30卡卡](https://zh.wikipedia.org/wiki/30卡卡 "wikilink")
+    ([WinTV](../Page/WinTV.md "wikilink"))
+  - [麻辣天后傳](https://zh.wikipedia.org/wiki/麻辣天后傳 "wikilink")
+    ([中天綜合台](../Page/中天綜合台.md "wikilink"))
+  - [來自星星的事](../Page/來自星星的事.md "wikilink")
+    ([緯來綜合台](../Page/緯來綜合台.md "wikilink"))
+
+### 網路節目通告
+
+  - [下午茶星聞](https://zh.wikipedia.org/wiki/下午茶星聞 "wikilink")
+  - [健康2.0](../Page/健康2.0.md "wikilink")
+  - [憲在出發](https://zh.wikipedia.org/wiki/憲在出發 "wikilink")
+  - [愛情琳不靈](https://zh.wikipedia.org/wiki/愛情琳不靈 "wikilink")
+
+### 節目主持
+
+| 年份   | 節目名稱                                                        | 播出頻道        |
+| ---- | ----------------------------------------------------------- | ----------- |
+| 2017 | [飛迅の異想世界](https://zh.wikipedia.org/wiki/飛迅の異想世界 "wikilink") | 個人Youtube頻道 |
+| 2018 | [食尚玩家不推怎麼行](../Page/食尚玩家.md "wikilink")                     | 食尚玩家FB粉專    |
+| 2018 | [食尚玩家吃客聯盟](../Page/食尚玩家.md "wikilink")                      | 食尚玩家FB粉專    |
+| 2018 | [女人我最大小姐有事嗎](../Page/女人我最大.md "wikilink")                   | 女人我最大FB粉專   |
+| 2018 | [下午茶星聞](https://zh.wikipedia.org/wiki/下午茶星聞 "wikilink")     | 下午茶星聞FB粉專   |
+
+### 音樂錄影帶
+
+| 年份   | 歌手                                                                                                         | MV名稱          | 飾演  |
+| ---- | ---------------------------------------------------------------------------------------------------------- | ------------- | --- |
+| 2015 | [春艷](https://zh.wikipedia.org/wiki/春艷 "wikilink")                                                          | 人間蒸發          | 女主角 |
+| 2016 | [竹間feat](https://zh.wikipedia.org/wiki/竹間 "wikilink")[熊仔](../Page/熊仔.md "wikilink")                        | 月光            | 女主角 |
+| 2016 | [賴泰迪feat](https://zh.wikipedia.org/wiki/賴泰迪 "wikilink")[官立人](https://zh.wikipedia.org/wiki/官立人 "wikilink") | 之後            | 女主角 |
+| 2017 | [謝和弦](../Page/謝和弦.md "wikilink")                                                                           | 光害            | 客串  |
+| 2017 | [頑童MJ116](../Page/頑童MJ116.md "wikilink")                                                                   | Got your back | 客串  |
+
+### 微電影
+
+| 年份   | 微電影名稱            | 飾演     | 介紹  |
+| ---- | ---------------- | ------ | --- |
+| 2017 | 光害               | 女主角朋友  | 客串  |
+| 2018 | 《統一小時光麵館》全地球最專一篇 | Miss Q |     |
+| 2018 | 《Dickies》真假貨宣導短片 | 飛迅     | 女配角 |
+| 2018 | 文化大學/畢業製作《從鯨以後》  | 王嫣     | 女主角 |
+
+### 電影
+
+| 年份   | 電影名稱                               | 飾演    |
+| ---- | ---------------------------------- | ----- |
+| 2015 | [五月一号](../Page/五月一号.md "wikilink") | 演奏會觀眾 |
+
+### 電視劇
+
+| 首播日期  | 播出頻道                                                    | 劇名                                                    | 角色 |
+| ----- | ------------------------------------------------------- | ----------------------------------------------------- | -- |
+| 2018年 | [公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink") | [20之後](https://zh.wikipedia.org/wiki/20之後 "wikilink") | 客串 |
+
+### 廣告
+
+| 年份   | 廣告名稱             | 飾演     |
+| ---- | ---------------- | ------ |
+| 2018 | 《統一小時光麵館》全地球最專一篇 | Miss Q |
+
+## 活動主持
+
+多場婚禮主持經驗
+
+  - 《Dickies x Umbro》爛醉盃足球賽
+  - 《Pinkoi》粉專產品直播主持人
+  - 《Rovoleta》粉專產品直播主持人
+  - 《青川之上》中秋晚會
+  - 《曙光國小》謝師宴
+  - 《大葉大學》傳播藝術系新生茶會
+  - 《大葉大學》傳播藝術系萬聖晚會
+  - 《大葉大學》傳播藝術系聖誕晚會
+  - 《大葉大學》傳播藝術系招生茶會
+  - 《大葉大學》傳播藝術系校友分享
+
+## 平面拍攝
+
+曾被國際知名品牌HUF、SEX等品牌分享穿搭照
+
+  - 《Hype Taiwan》品牌模特兒、情人節特輯專訪
+  - 《Dickies Taiwan》品牌模特兒
+  - 《Money\&Money》品牌模特兒
+  - 《高手娛樂MasterHands》個人穿搭專訪
+  - 《謬誌茗mummum zine》個人穿搭專訪
+  - 《Dappei搭配》個人穿搭分享
+
+## 外部連結
+
+  -
+  -
+\[\[Category:新竹人|H\]\] \[\[Category:邱姓|Category:邱姓\]\]
+\[\[Category:台灣主持人|Category:台灣主持人\]\]
+\[\[Category:台灣女演員|Category:台灣女演員\]\]
+\[\[Category:台灣電視女演員|Category:台灣電視女演員\]\]
+\[\[Category:台灣綜藝界人物|Category:台灣綜藝界人物\]\]
+
+## 參考資料

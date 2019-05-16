@@ -1,0 +1,118 @@
+《**TMI
+News**》（），為韓國[Mnet電視台於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2019年推出的綜藝節目\[1\]，由[尹普美](../Page/尹普美.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）、[全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[朴俊亨](https://zh.wikipedia.org/wiki/朴俊亨 "wikilink")
+（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、DinDin等人\[2\]共同主持，節目主軸為搜羅娛樂圈和韓國各行各業偶像級人士，挖掘他們冷門的爆料或不廣為大眾所知的資料和奇聞\[3\]\[4\]，由Idol
+Room監製製作。
+
+## 節目成員
+
+<table style="width:65%;">
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>姓名</p></th>
+<th><p>出生日期（年齡）</p></th>
+<th><p>職業</p></th>
+<th><p>演出集數</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>藝名</p></td>
+<td><p>諺文</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/朴俊亨" title="wikilink">朴俊亨</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d成員</a>）</p></td>
+<td><p>全集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/饒舌.md" title="wikilink">饒舌歌手</a></p></td>
+<td><p>第2集至今，第一集因參加親姐婚禮而缺席。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/尹普美.md" title="wikilink">尹普美</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/Apink.md" title="wikilink">Apink成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p>全集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/秀斌.md" title="wikilink">秀彬</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女成員</a>）</p></td>
+<td><p>擔任天氣預報員</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sleepy_(韓國歌手)" title="wikilink">金成源</a></strong> <a href="https://zh.wikipedia.org/wiki/Sleepy_(韓國歌手)" title="wikilink">（Sleepy）</a></p></td>
+<td><p>김성원</p></td>
+<td></td>
+<td><p><a href="../Page/饒舌.md" title="wikilink">饒舌歌手</a></p></td>
+<td><p>第1集</p></td>
+</tr>
+</tbody>
+</table>
+
+## 各集內容
+
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+
+## 收視率
+
+  - 以下紀錄《**TMI News**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。
+
+| 集數       | 播出日期      | [AGB尼爾森收視率](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")\[5\]\[6\] |
+| -------- | --------- | --------------------------------------------------------------------- |
+| 大韓民國(全國) |           |                                                                       |
+| 1        | 2019/4/25 | %                                                                     |
+| %        |           |                                                                       |
+|          |           |                                                                       |
+
+## 註釋與參考資料
+
+### 註釋
+
+### 參考資料
+
+## 外部連結
+
+  - \[ 官方網站\]
+
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.

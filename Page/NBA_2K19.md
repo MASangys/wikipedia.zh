@@ -1,0 +1,29 @@
+《**NBA
+2K19**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[Visual
+Concepts開發](../Page/Visual_Concepts.md "wikilink")，[2K
+Sports發行](../Page/2K_Sports.md "wikilink")。《NBA 2K19》是《[NBA
+2K18](https://zh.wikipedia.org/wiki/NBA_2K18 "wikilink")》的續作。遊戲於2018年9月11日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
+4](../Page/PlayStation_4.md "wikilink")、[Xbox
+One和](../Page/Xbox_One.md "wikilink")[任天堂Switch平台上推出](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。本次的中国大陆行货版为PlayStation
+4平台独占，此外该版本游戏为系列首次增加中文解说，由知名篮球解说员杨毅、杨建和苏群担任，另外，本作还加入了中国CBA联赛相关内容。\[1\]
+
+一般版封面人物為[揚尼斯·安戴托昆波](https://zh.wikipedia.org/wiki/揚尼斯·安戴托昆波 "wikilink")；20周年版封面人物則為[勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")。
+
+## 参考文献
+
+[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
+[Category:NBA_2K系列](https://zh.wikipedia.org/wiki/Category:NBA_2K系列 "wikilink")
+[Category:Take-Two_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive游戏 "wikilink")
+[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
+[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
+[Category:PlayStation_4_Pro增强游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4_Pro增强游戏 "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
+[Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink")
+[Category:Xbox_One_X增强游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One_X增强游戏 "wikilink")
+[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
+[Category:上海背景电子游戏](https://zh.wikipedia.org/wiki/Category:上海背景电子游戏 "wikilink")
+[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+
+1.  [《NBA 2K19》确认登陆国行PS4，将首次加入中文解说](http://www.vgtime.com/topic/956256.jhtml).游戏时光.2018-08-02.\[2018-09-30\].

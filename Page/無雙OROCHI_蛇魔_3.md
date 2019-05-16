@@ -1,0 +1,75 @@
+是由[光榮特庫摩的ω](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")-force開發發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，是[无双大蛇系列的第](../Page/無雙OROCHI系列.md "wikilink")5部作品。遊戲的[PlayStation
+4及](../Page/PlayStation_4.md "wikilink")[Nintendo
+Switch版於](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")2018年9月27日正式發行，而[Microsoft
+Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox
+One則於](../Page/Xbox_One.md "wikilink")2018年10月16日發行\[1\]\[2\]\[3\]。
+
+## 登场人物
+
+本作中登场的人物包括《[真·三国无双7：帝国](../Page/真·三國無雙7.md "wikilink")》出现的83名角色和《[战国无双4-II](../Page/戰國無雙4.md "wikilink")》中的56名角色，以及无双大蛇系列自[2代以来独有的](../Page/無雙OROCHI_2.md "wikilink")25名角色和本作新加入的神话角色宙斯、雅典娜、珀尔修斯、阿瑞斯、洛基（游戏中为珀尔修斯的真面目）和奥丁。\[4\]\[5\]但是由于种种原因，《[真·三国无双8](https://zh.wikipedia.org/wiki/真·三國無雙8 "wikilink")》和《战国无双
+真田丸》中新增的角色（如真·三国无双8的程普、周倉、满宠、辛憲英,戰國無雙
+真田丸的真田昌幸，茶茶，佐助等）没有登场。\[6\]此外为北条氏康配音的[石冢运昇在](../Page/石塚運昇.md "wikilink")2018年8月因病逝世，此角色改由[江原正士配音](../Page/江原正士.md "wikilink")。\[7\]
+
+  - 本作新加入的《真·三国无双》武将：乐进、李典、于禁、荀彧、鲁肃、韓當、朱然、关兴、张苞、关银屏、法正、贾充、文鸯、张春华、陈宫、吕玲绮。
+  - 本作新加入的《战国无双》武将：松永久秀、上杉景胜、片仓景纲、小少将、早川殿、柳生宗矩、井伊直虎、井伊直政、真田信之、小早川隆景、藤堂高虎、岛津豊久、大谷吉继。
+
+## 玩法
+
+本作共有5章70个任务。拥有Demo版的PS4玩家可以使用30个角色，游玩分布在第一章和第二章的10个任务。如果玩家在高难度下完成了任务并达成了特定的战功目标，将会得到更大的奖励，如同《[战国无双4](../Page/戰國無雙4.md "wikilink")》中一样。剧情从《无双大蛇2
+Ultimate》结局后开始，中国三国时代和日本战国时代的名将们回到各自的时代后，希腊众神之王宙斯为实现自己的愿望而将他们再度召唤回《无双大蛇》的世界。
+
+## 主题曲
+
+本作的主题曲是[三森铃子的](../Page/三森铃子.md "wikilink")《革命的化妆舞会 无双大蛇
+ver.》，是她第四张专辑《tone.》中同名歌曲的[重混版](https://zh.wikipedia.org/wiki/重混 "wikilink")。同时她也为本作中雅典娜一角配音。\[8\]\[9\]这是三森首次参与无双系列的工作。
+
+## 評價
+
+遊戲发售首周，在日銷量達到12萬套，其中PS4版10萬套、Switch版為2.36萬套\[10\]。在2018年9月27日的發表會當中，《無雙OROCHI
+蛇魔
+3》獲得金氏世界紀錄認證最多可操作角色的砍殺類電玩遊戲\[11\]\[12\]\[13\]。《[Fami通](../Page/Fami通.md "wikilink")》杂志为本作给出了35/40的高分。\[14\]
+
+## 注解
+
+## 参考文献
+
+## 外部链接
+
+  -
+[Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink")
+[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
+[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
+[Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink")
+[Category:日本吉尼斯世界纪录保持者](https://zh.wikipedia.org/wiki/Category:日本吉尼斯世界纪录保持者 "wikilink")
+[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:光荣特库摩游戏](https://zh.wikipedia.org/wiki/Category:光荣特库摩游戏 "wikilink")
+[Category:砍殺遊戲](https://zh.wikipedia.org/wiki/Category:砍殺遊戲 "wikilink")
+
+1.
+
+2.
+
+3.
+
+4.
+5.
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.

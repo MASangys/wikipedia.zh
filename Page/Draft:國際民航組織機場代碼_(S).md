@@ -1,0 +1,37 @@
+\!代碼 \!機場名 \!城市 \!備註 |- \! colspan="4" |SA - 阿根廷 |- |SAAC | | | |- |SAAG
+| | | |- |SAAJ | | | |- |SAAK (MGI) | |,  | |- |SAAP (PRA) | |,  | |-
+|SAAR (ROS) | |,  | |- |SAAV (SFN) | |,  | |- |SABA (BUE) | | | |- |SABE
+(AEP) | | | |- |SACA | | | |- |SACC (LCM) | |,  | |- |SACI - (PIL)
+|Pilar Airport | | |- |SACO (COR) | |,  | |- |SACP | |,  | |- |SACT | |,
+ | |- |<s> SADD | |, </s> Closed 2001 | |- |SADF (FDO) | |,  | |- |SADL
+(LPG) | |,  | |- |SADM | |,  | |- |SADO | | northwest of downtown |Army
+Air Service Main Base and Border Police Air Base |- |SADP (EPA) | | | |-
+|SAEM (MJR) | |,  | |- |SAEZ (EZE) | (Ezeiza International Airport) |,
+| |- |SAHE (CVH) | |,  | |- |SAHS (RDS) | |,  | |- |SAHZ (APZ)||,  |-
+|SAME (MDZ)| (El Plumerillo Int'l)|,  |- |SAMM (LGS)||,  |- |SAMR
+(AFA)||,  |- |SANC (CTC)||,  |- |SANE (SDE)||,  |- |SANL (IRJ)||,  |-
+|SANO||,  |- |SANR (RHD)||, \[1\] |- |SANT (TUC)| (Lt. Gen. Benjamín
+Matienzo)|,  |- |SANU (UAQ)||,  |- |SANW (CRR)||,  |- |SAOC (RCU)||,  |-
+|SAOD (VDR)||,  |- |SAOL | |,  | |- |SAOR (VME) | |,  | |- |SAOU (LUQ) |
+|,  | |- |SARC (CNQ) | |,  | |- |SARE (RES) | |,  | |- |SARF (FMA)||,
+|- |SARI (IGR)| (Iguazú Falls)|,  |- |SARL (AOL)||,  |- |SARM (MCS)||,
+|- |SARP (PSS)||,  |- |SASA (SLA)| (El Aybal Airport)|,  |- |SASJ
+(JUJ)||,  |- |SASO (ORA)||,  |- |SAST (TTG)||,  |- |SATC (CLX)||,  |-
+|SATG (OYA)||,  |- |SATK (LLS)||,  |- |SATM (MDX)||,  |- |SATR (RCQ)||,
+|- |SATU (UZU)||,  |- |SAVB (EHL)||,  |- |SAVC (CRD)||,  |- |SAVD
+(EMX)||,  |- |SAVE (EQS)||,  |- |SAVH (LHS)||,  |- |SAVJ (IGB)||,  |-
+|SAVN (OES)||,  |- |SAVR (ARR)||,  |- |SAVS (SGV)||,  |- |SAVT (REL)||,
+|- |SAVV (VDM)||,  |- |SAVY (PMY)||,  |- |<s>SAWA (ING)||, </s> (closed
+2006) |- |SAWC (FTE)||,  |- |SAWD (PUD)||,  |- |SAWE (RGA)||,  |- |SAWG
+(RGL)||,  |- |SAWH (USH)||,  |- |SAWJ (ULA)||,  |- |SAWM (ROY)||,  |-
+|SAWO -  - ,  |- |SAWP (PMQ)||,  |- |SAWR (GGS)||,  |- |SAWS (JSM)||,
+|- |SAWT (RYO)||,  |- |SAWU (RZA)||,  |- |SAZA||,  |- |SAZB (BHI)||,  |-
+|SAZC (CSZ) | |,  | |- |SAZF (OVR) | |,  | |- |SAZG (GPO) | |,  | |-
+|SAZH (OYO) | |,  | |- |SAZI | |,  | |- |SAZL (SST) | |,  | |- |SAZM
+(MDQ) | |,  | |- |SAZN (NQN) | |,  | |- |SAZO (NEC) | |,  | |- |SAZP
+(PEH) | |,  | |- |SAZR (RSA) | |,  | |- |SAZS (BRC) | |,  | |- |SAZT
+(TDL) | |,  | |- |SAZV (VLG) | |,  | |- |SAZW (CUT) | |,  | |- |SAZY
+(CPC) | (Chapelco Airport) |,
+
+1.  [AIP Argentina - AD 1.3 INDICE DE AERODROMOS Y
+    HELIPUERTOS](http://ais.anac.gov.ar/descarga/aip-56463ad5f017f)

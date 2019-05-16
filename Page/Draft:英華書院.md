@@ -1,0 +1,847 @@
+**英華書院**（，縮寫YWC，舊稱Anglo-Chinese
+College）於1818年成立，是[香港一所](../Page/香港.md "wikilink")[直資](https://zh.wikipedia.org/wiki/直資 "wikilink")[基督教男子中學](../Page/新教.md "wikilink")，為[香港補助學校議會](../Page/香港補助學校議會.md "wikilink")22所成員學校之一，也是香港現存歷史最悠久之學校，被視為香港傳統名校之一。英華書院與[漢學](https://zh.wikipedia.org/wiki/漢學 "wikilink")、華語翻譯、[新教在華傳教](../Page/新教.md "wikilink")、香港開埠及教育、華文報刊出版及印刷方面的歷史息息相關。英華書院有關其馬六甲時期及香港開埠初期的歷史文獻多以非華語寫成，因此書院在一些史料上亦有**英華學院**、**英華學校**等華文譯名。
+
+英華書院於1818年由[倫敦傳道會](../Page/倫敦傳道會.md "wikilink")[傳教士](https://zh.wikipedia.org/wiki/傳教士 "wikilink")[馬禮遜在](https://zh.wikipedia.org/wiki/馬禮遜 "wikilink")[馬六甲成立](https://zh.wikipedia.org/wiki/馬六甲市 "wikilink")。書院業務除教學外，亦有印刷設備出版不同書刊，當中包括基督新教刊物、教材、報刊及小說。書院於1843年由時任同屬倫敦會的傳教士及漢學家[理雅各](../Page/理雅各.md "wikilink")，連同印刷設備遷至[香港](../Page/香港.md "wikilink")，為倫敦會在香港的傳教站。書院於1858年停止辦學，其下印刷設備亦於1871年售予[王韜以成立](https://zh.wikipedia.org/wiki/王韜 "wikilink")[中華印務總局及出版香港首份華人主理報章](https://zh.wikipedia.org/wiki/中華印務總局 "wikilink")《[循環日報](../Page/循環日報.md "wikilink")》。1911年，多名[道濟會堂牧師共同提倡英華書院作為一所學校復辦](https://zh.wikipedia.org/wiki/道濟會堂 "wikilink")，以配合[香港大學的成立及當時社會需要](../Page/香港大學.md "wikilink")。在倫敦傳道會同意代為尋找人選出任校長的情況下，英華書院於1914年恢復辦學。英華書院復校後之校舍，曾設立在九龍塘牛津道，到2003年遷至[西九龍填海區](../Page/西九龍.md "wikilink")。
+
+## 歷史
+
+### 成立及早期發展
+
+[首任校長[米憐牧師](../Page/米憐.md "wikilink")|150px|right|thumb](https://zh.wikipedia.org/wiki/File:William_Milne.jpg "fig:首任校長米憐牧師|150px|right|thumb")
+設立英華書院的概念最早可追遡至1812年。當年12月，傳教士[馬禮遜在一封寄予](https://zh.wikipedia.org/wiki/馬禮遜 "wikilink")[倫敦傳道會](../Page/倫敦傳道會.md "wikilink")（倫敦會）的信中，表示希望在[馬六甲成立一所學院](https://zh.wikipedia.org/wiki/馬六甲 "wikilink")，用以訓練傳教士、歐洲人及當地人，專為所有比[恒河更遠的國家而設](../Page/恒河.md "wikilink")。\[1\]
+
+1813年，倫敦會另外派遣[米憐到](../Page/米憐.md "wikilink")[華協助](https://zh.wikipedia.org/wiki/大清 "wikilink")[馬禮遜](https://zh.wikipedia.org/wiki/馬禮遜 "wikilink")。米憐抵達後，未獲准居留澳門，更不能以傳教者身份留居廣州。與馬禮遜牧師商討後，決定前往東南亞地區，建立一個傳道中心，並開辦一所學校，接待來自歐洲的年輕傳教士，讓他們學習東方語言；又廣納華人學生，向他們傳授西方知識及基本教義。於是，在1815年，馬六甲傳道中心成立。
+
+[Chinese_College_Malacca.jpg](https://zh.wikipedia.org/wiki/File:Chinese_College_Malacca.jpg "fig:Chinese_College_Malacca.jpg")
+而在1818年11月11日，書院舉行奠基禮（此日因此被定為校慶日），主持典禮的是馬六甲英軍司令法夸爾上校（Major-General
+William Farquhar），蒞臨的嘉賓包括馬六甲總督泰森閣下（Jan Samuel Timmermann
+Thijssen）及其他知名人士。學校的英文名稱定為「」。1820年英華書院建成並正式開課。
+
+當時英華書院的教育內容是一般俗世教育，學生及職員不一定需要是基督徒或從事佈道工作。因此，書院的設立並未得到倫敦傳道會的大力支持，只曾勉強提供物質協助。\[2\]
+
+設施方面，英華書院除了課室和教師學生的宿舍外，還設立了一個圖書館，一所小型博物館，一個印刷中心和一個植物園。然而除校舍配套以外，學校面對數方面的問題：
+
+1.  學生人數不足。書院開辦初期，學生人數只有10人左右，傳教士先後只有3人入讀，當地學生入學只想學習官話（華語），與書院創立的目標相差甚遠。
+2.  學生對基督教信仰興趣不大，接受洗禮者寥寥可數。
+3.  書院經費主要來自各界捐獻，甚不穩定。
+4.  傳教士之間出現意見分歧。
+5.  米憐牧師需兼顧傳教、教學、校務、繙譯等工作，身心俱憊。
+
+1822年，主持英華書院的[米憐在](../Page/米憐.md "wikilink")37歲的壯年逝世。其後繼任的主持（Principal）包括[宏富禮](https://zh.wikipedia.org/wiki/宏富禮 "wikilink")（Rev.
+James
+Humphreys）、[高大衛牧師](https://zh.wikipedia.org/wiki/高大衛 "wikilink")（Rev.
+David Collie）、[紀德牧師](https://zh.wikipedia.org/wiki/紀德 "wikilink")（Rev.
+Samuel Kidd,
+M.A.）、[湯雅各牧師](https://zh.wikipedia.org/wiki/湯雅各 "wikilink")（Rev.
+Jacob Tomlin）和伊文思牧師（Rev. John
+Evans），均為倫敦會派遣到[馬六甲的牧師](https://zh.wikipedia.org/wiki/馬六甲 "wikilink")。
+
+在印刷方面，書院先後出版了由馬禮遜牧師和米憐牧師所譯的聖經、首份中文報刊《[察世俗每月統記傳](../Page/察世俗每月統記傳.md "wikilink")》、英文通訊《印支搜聞》等。在1828年，傳教士[台約爾](../Page/台約爾.md "wikilink")（Samuel
+Dyer）前往馬六甲負責英華書院的印刷所事務，同时鑄造了中文活字銅模三千余枚、以便鑄造漢字金屬活字。\[3\]
+
+馬禮遜牧師曾計劃將書院搬遷到[新加坡](../Page/新加坡.md "wikilink")，組成[新加坡學院](https://zh.wikipedia.org/wiki/新加坡學院 "wikilink")（被視為[萊佛士書院前身](https://zh.wikipedia.org/wiki/萊佛士書院 "wikilink")），但計劃最終告吹。
+
+馬禮遜牧師亦於1834年逝世，歸葬澳門。
+
+倫敦會於1840年委派牧師[理雅各於](../Page/理雅各.md "wikilink")1840年主持書院及傳道工作。兩年後，中英兩國簽訂《[南京條約](https://zh.wikipedia.org/wiki/南京條約 "wikilink")》，英人接管香港。倫敦傳道會亦決定將書院遷至香港，以展開對華傳道工作。1843年，英華書院和附屬的印刷廠遷至英屬[香港](../Page/香港.md "wikilink")，亦從[新加坡運過來的將近](../Page/新加坡.md "wikilink")3900個中文活字鋼模。
+
+### 遷往香港
+
+英華書院在校舍方面，由於馬禮遜紀念學校比書院更早一步由澳門遷港，並得到政府撥地建校，政府無意撥地予性質相近的英華書院。最後唯有將書院設立於[上環](../Page/上環.md "wikilink")[鴨巴甸街與](../Page/鴨巴甸街.md "wikilink")[荷李活道交界](../Page/荷李活道.md "wikilink")，[堅道的倫敦會傳道會大樓內](../Page/堅道.md "wikilink")。在經費方面，由於政府亦不願資助，書院需自行籌募經費。在辦學宗旨方面，倫敦傳道會認為書院遷港後的使命應為直接培訓傳道人才，亦應提昇至一所專上學院。因此將書院易名為倫敦會中國神學院（The
+Theological Seminary of the London Missionary Society in
+China）。但倫敦會同意在未有適合學生入讀神學院前，保留開辦基礎教育。此時書院的工作重點包括傳道、繙譯和教學。1853年，香港首份以中文為主的報章《[遐邇貫珍](../Page/遐邇貫珍.md "wikilink")》（Chinese
+Serial）創立，是用英華書院的漢字活版印刷廠印刷發行的。
+
+1846年，[理雅各帶同神學院的](../Page/理雅各.md "wikilink")3位華人學生到[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，包括吳文秀，宋佛斂和李劍麟，並於1848年獲[聯合王國](https://zh.wikipedia.org/wiki/大不列顛及愛爾蘭聯合王國 "wikilink")（即英國）君主[維多利亞女王親自接見](https://zh.wikipedia.org/wiki/維多利亞女王 "wikilink")\[4\]
+。
+
+然而，由於其後的英華畢業生未能如外界期望般從事佈道工作，捐款者頗有怨言，加上中國政局動蕩，理雅各牧師不得不在1856年停止收生，並於1858年結束學校。
+
+關於結束學校的原因，有一說法指[理雅各是因為獲香港政府委任去處理香港教育事務和建立](../Page/理雅各.md "wikilink")[中央書院](https://zh.wikipedia.org/wiki/中央書院 "wikilink")（今[皇仁書院](../Page/皇仁書院.md "wikilink")），所以無法兼顧英華書院事務所以需要結束英華書院，並沒有史實支持，且發生時間上並不太吻合。
+
+### 中止辦學
+
+書院結束後，印刷業務不受影響，繼續出版聖經、理雅各翻譯的中國經籍、雜誌、學童啟蒙書籍等。當時英華書院鑄造的中文活字舉世聞名：[俄國](../Page/俄罗斯帝国.md "wikilink")[沙王欽差大臣](https://zh.wikipedia.org/wiki/沙王 "wikilink")、法國巴黎學會、[新加坡政府](../Page/新加坡.md "wikilink")、[太平天國](https://zh.wikipedia.org/wiki/太平天國 "wikilink")、[兩廣總督](../Page/兩廣總督.md "wikilink")、上海道台、清廷[總理衙門等](https://zh.wikipedia.org/wiki/總理衙門 "wikilink")，都先後購買過英華書院鑄造的中文鉛活字，或全套活字銅模。\[5\][王韜在](../Page/王韬_\(思想家\).md "wikilink")1862年《香海羈蹤》一文中記載了當時香港的其中三間書院，[中環有](../Page/中環.md "wikilink")[保羅書院](../Page/聖保羅書院.md "wikilink")（即現時的聖保羅書院），[上環有](../Page/上環.md "wikilink")[大書院](../Page/皇仁書院.md "wikilink")（即現時的皇仁書院），上、下交界（上環、中環交界處）有英華書院，*“皆有子弟肄業，教以西國語言文字，造就人才，以供國家用。『英華書院』兼有機器活字版排印書籍。”*\[6\]
+1870年，書院將印刷部售予[王韜](../Page/王韬_\(思想家\).md "wikilink")、[黃勝](../Page/黃勝.md "wikilink")，書院的歷史亦一度中斷近半世紀。
+
+[王韜其後在](https://zh.wikipedia.org/wiki/王韜 "wikilink")[荷李活道](../Page/荷李活道.md "wikilink")29號，創立[中華印務總局](https://zh.wikipedia.org/wiki/中華印務總局 "wikilink")；1874年創辦世界上第一家華資中文日報：《[循環日報](../Page/循環日報.md "wikilink")》。
+
+### 恢復辦學
+
+1911年，道濟堂各長老及張祝齡，皮堯士（Rev. W.T. Pearce），威禮士（Rev. H.R.
+Wells）諸牧師提出由興會興辦一所中學，培養教友的子弟，讓他們修畢中學課程後，可以升讀新開辦的[香港大學](../Page/香港大學.md "wikilink")（University
+of Hong
+Kong）。他們的建議獲教友廣泛支持。經反覆磋商後，決定向倫敦傳道會要求復辦英華書院，及派遣一位歐籍人士擔任校長。1913年，倫敦會贊同道濟堂的提議，並差曉士牧師（Rev.
+Arnold Hughes, M.A.）來港復辦英華。1914年2月，英華書院於堅道9號校舍重張旗鼓，有60至80人入讀。
+
+當時書院急於解決數方面的問題:
+
+1.  物色校長。為爭取政府資助，書院必須委任洋人為校長。微薄的薪酬難以吸引歐人長途跋涉來港，擔此重任。
+2.  物色英語教師。政府對資助學校的英語教學水平要求甚高，物色歐籍英語老師一直是學校面對的困難。
+3.  經費短缺。書院入不敷支，主要靠損贈和借貸維持，直到1918年得到政府資助，書院收支才告穩定。1927年，政府停發津貼，書院經濟再陷入危機，到1931年學院達到政府要求，再獲津貼。
+4.  物色校舍。堅道九號是租來的校舍，租約甚短，因此復校初期三遷其址，至1918年末向政府租用[般咸道](../Page/般咸道.md "wikilink")82號禮賢會大樓才稍告竄定。
+5.  確定宗旨。隨時代改變，復校後的書院純粹是一所教育機構，不再涉及傳教及印刷的事務。
+
+曉士牧師掌校時，入讀學生人數不斷上升，更獲政府納入為資助學校。1919年，首次有英華學生考進香港大學。同年，書院又成立了英華青年會（與現在的學生會等同）和創立《英華青年》（Ying
+Wa Student）。
+
+1922年，曉士牧師回英休假途中病逝，書院唯有向廈門英華書院借調腓立士牧師（Rev. L. Gordon
+Phillips）擔任校長。1924年，倫敦會命腓立士牧師返回廈門。書院面對缺乏外籍校長和外籍教師、政府隨時撤回津貼、校舍業權紛爭等問題，陷入再次停辦的危機。倫敦會的支持減退，道濟會自顧不暇，形勢十分嚴峻。這時，沈維昌和盧冠元兩位老師，堅決保校，由沈維昌先生（Mr.
+Richard Shum Wai Cheung）擔任校長，學校得以繼續辦學。由於條件不足，政府在1927年撤回津貼，校方因此籌劃自建校舍。
+
+在沈校長帶領下，學生人數創復校以來的新高，有約200人，而且開設夜間小學，由書院的高年級生任教。復辦校報《英華月刊》，組織籃球隊，奪[香港學界籃球聯賽冠軍](https://zh.wikipedia.org/wiki/香港學界籃球聯賽 "wikilink")。沈校長及倫敦會的威禮士和皮堯士牧師，最後決定與初成立的[中華基督教會合作發展](https://zh.wikipedia.org/wiki/中華基督教會 "wikilink")[旺角](../Page/旺角.md "wikilink")[弼街地段](https://zh.wikipedia.org/wiki/弼街 "wikilink")。
+
+### 遷往九龍，自置校舍
+
+[弼街](https://zh.wikipedia.org/wiki/弼街 "wikilink")56號校舍（現為[中華基督教會望覺堂基督教大樓](https://zh.wikipedia.org/wiki/中華基督教會 "wikilink")）於1928年落成，地下為教會，命名為「[公理堂旺角第二支堂](../Page/中華基督教會公理堂.md "wikilink")」，再易名為「望覺堂」。樓上為書院的課室和宿舍。1930年，新校舍正式開幕，由當時的[港督](https://zh.wikipedia.org/wiki/港督 "wikilink")[金文泰爵士](../Page/金文泰.md "wikilink")（Sir
+Cecil Clementi）主持開幕禮。沈校長於同年功成身退，將英華交還倫敦會。倫敦會委任舒活牧師（Rev. Frank
+Short）接任校長。政府肯定書院的辦學成就，恢復對書院的資助。小學部亦在1931年招生，實行中小學一條龍的辦學模式。學生人數約有四百人。
+
+1938年，舒活牧師離任，薦舉自1933年已在書院任教的鈕寶璐先生（Mr. Herbert Noble,
+O.B.E.）當校長。時正值[日本侵華](https://zh.wikipedia.org/wiki/日本侵華 "wikilink")，政局動蕩，書院的發展亦受影響。
+
+[太平洋戰爭於](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")1941年爆發，香港淪陷，書院被迫停課，鈕寶璐校長參加了海軍義軍隊，而校舍則被日軍徵為工務廠棧。其後，鈕寶璐校長被俘，囚禁於深水涉集中營。
+
+1945年，日本投降，[香港重光](../Page/香港重光.md "wikilink")。書院亦於11月1日復校上課，繼續由鈕寶璐先生出任校長。戰後，因[中國內戰和嬰兒潮](../Page/第二次国共内战.md "wikilink")，香港人口迅速增加，學生人數激增至500多。1955年，校董會向政府申請撥地興建新校舍，選址為[九龍城區](../Page/九龍城區.md "wikilink")[牛津道](../Page/牛津道.md "wikilink")1B地段。
+
+1963年初夏，[九龍塘](../Page/九龍塘.md "wikilink")[牛津道](../Page/牛津道.md "wikilink")\[7\]\[8\]校舍啟用，由時任[港督](https://zh.wikipedia.org/wiki/港督 "wikilink")[柏立基爵士](../Page/柏立基.md "wikilink")（Sir
+Robert Brown
+Black）主持啟用典禮。但同年，書院被迫結束小學部，而掌校20多年，帶領書院經歷戰爭、復元、重建、擴充等階段的鈕寶璐校長亦於12月27日逝世。
+
+由於倫敦傳道會已改組為[世界傳道會](https://zh.wikipedia.org/wiki/世界傳道會 "wikilink")（Council
+for World
+Mission），將名下香港學校的辦學權暫托[中華基督教會香港區會](../Page/中華基督教會香港區會.md "wikilink")（The
+Hong Kong Council of the Church of Christ in
+China），書院遂成為區會的附屬學校，由校董會負起監管學校的責任。鈕寶璐校長去世後，校董會聘用艾禮士先生（Mr.
+Terence Iles）接任校長一職。
+
+艾禮士校長在任期間，創立社制，首次舉行水運會，舉辦畢業禮、開放日、慈善賣物會等大型活動。1964年，校刊《火炬》（Torch）創刊，書院為全港最早期擁有校報的學校之一。1971年，書院首度取得學界體育最高榮譽的亞米茄玫瑰挑戰盃。然而，艾禮士校長也有一些頗具爭議性的措施，例如1969年度，他在中六級取錄了15名女生，有人津津樂道，也有人認為破壞傳統。無論如何，這成了書院百多年歷史中的一段小插曲。
+
+1972年接任校長的京力士先生（Mr. Rex
+King）革新課程，推廣普通話教育，鼓勵兩文三語。書院增至31班，有學生近1200人。1978年梅浩濱先生（Mr.
+Mui Ho
+Bun）出任校長，又致力加強訓輔工作，增設駐校社工。1984年，書院和日本濱松南扶輪社合辦港日文化交流計劃，每年選派三名學生赴日本學習，促進兩地文化交流。
+
+1990年，楊寶坤先生（Mr. Yeung Po
+Kwan）接任校長。他主張校政民主化，重視和校友會的聯繫，又成立家長教師會，務求學生、教師、校友、家長和學校共同承擔書院的發展和監管的責任。此外，在1991年，書院恢復停辦數十年的社制比賽。1997年，書院出現了首位[香港中學會考](../Page/香港中學會考.md "wikilink")10A[狀元曾申翹](https://zh.wikipedia.org/wiki/狀元 "wikilink")。
+
+### 近年
+
+[Ying_Wa_College.jpg](https://zh.wikipedia.org/wiki/File:Ying_Wa_College.jpg "fig:Ying_Wa_College.jpg")
+於1998年[啟德機場遷出後](../Page/啟德機場.md "wikilink")，英華書院校董會曾透過辦學團體[中華基督教會香港區會向](../Page/中華基督教會香港區會.md "wikilink")[香港政府申請機場土地](https://zh.wikipedia.org/wiki/香港政府 "wikilink")，但因政府對該處土地規劃未有定案而告吹。其後校方認真思考校舍的未來發展，並於1999年12月收到政府消息，於當時竣工不久的[西九龍填海區將有一幅土地用予建校](https://zh.wikipedia.org/wiki/西九龍填海區 "wikilink")，故校方起草建議書申請用地。於2000年6月1日，校董會獲政府批出一幅位於[西九龍填海區](https://zh.wikipedia.org/wiki/西九龍填海區 "wikilink")[深水埗西的土地](../Page/深水埗.md "wikilink")。據政府安排，辦學團體除了須於該幅土地設立中學外，亦須同時設立直屬小學，坊間稱此種模式為「[一條龍](https://zh.wikipedia.org/wiki/一條龍學校 "wikilink")」。\[9\]\[10\]
+
+另外，香港政府原本要求小學和中學分別以「L」型和「U」型的「[千禧學校](https://zh.wikipedia.org/wiki/千禧學校 "wikilink")」準則興建，經過校方與政府多輪磋商，新校舍的設計改為中學與小學互通的建築，禮堂可容納人數由700人增至1200人，校方和辦學團體須承擔設計改動帶來的額外開支。\[11\]\[12\]\[13\]
+
+新校舍於2003年7月如期落成，並在同年9月1日起的新學年啟用，時任校長[楊寶坤伴隨舊校舍退休](../Page/楊寶坤.md "wikilink")，由[李志華接任](https://zh.wikipedia.org/wiki/李志華 "wikilink")。同時因應[中華基督教會基全小學上下午校分拆成兩所全日制學校](https://zh.wikipedia.org/wiki/中華基督教會基全小學 "wikilink")，下午校師生及校長均轉到新註冊成立的[英華小學](../Page/英華小學.md "wikilink")，稱為小學「復校」。新的英華小學為獨立於書院的學校，首任小學校長由基全小學下午校校長[簡燕玲擔任](https://zh.wikipedia.org/wiki/簡燕玲 "wikilink")。\[14\]於1964年接收英華書院小學部停辦學生的[基華小學下午校](https://zh.wikipedia.org/wiki/中華基督教會基華小學（九龍塘） "wikilink")，則接手書院舊有的牛津道校舍。\[15\]\[16\]
+
+英華書院於2006年起考慮加入[直接資助計劃](../Page/直接資助計劃.md "wikilink")（直資），並就此舉辦多場諮詢會。校董會於2007年通過加入直資計劃，並於2008年的新學年正式生效，新學年前的舊有學生不用支付繳納學費。校方將學校定位為「平民直資」。\[17\]\[18\]
+
+校方為慶祝英華書院創立200週年，以「皕載英華」為主題，舉行了一連串活動。先於2017年11月舉辦名為「英華皕載籃球明星邀請賽」的籃球賽事，邀請已畢業的前籃球校隊成員組隊，對陣[甲一籃球聯賽球隊](../Page/香港男子甲一組籃球聯賽.md "wikilink")[永倫](https://zh.wikipedia.org/wiki/永倫 "wikilink")。\[19\]\[20\]\[21\]\[22\]其後於[香港浸會大學舉辦學術研討會](../Page/香港浸會大學.md "wikilink")\[23\]、推出名為《天地人》的校慶主題曲\[24\]、與[香港郵政推出紀念郵票](../Page/香港郵政.md "wikilink")\[25\]、與[香港歷史博物館合辦名為](../Page/香港歷史博物館.md "wikilink")「傳道授業在香江」的專題展覽及講座系列\[26\]\[27\]。2018年12月2日於[香港會展舉行校慶晚宴](../Page/香港會議展覽中心.md "wikilink")，邀得時任[特首](../Page/香港特別行政區行政長官.md "wikilink")[林鄭月娥擔任主禮嘉賓](../Page/林鄭月娥.md "wikilink")。\[28\]\[29\]
+
+### 主持及校長
+
+#### 有關校長（Principal）的稱呼
+
+不論停辦前或復辦後，英華書院均有一英文名為「Principal」的職位，在香港現有教育制度下，此職位的中文翻譯應為「校長」。惟根據現有的史料，停辦前的中文文獻只曾使用「主持」來作為「Principal」的翻譯。
+
+目前為止，現代有關英華書院的中文歷史書籍，如《古樹英華》、《馬禮遜回憶錄》等，多數均統一採用「校長」來作該職位任何時期的翻譯。
+
+#### 歷任校長
+
+<table>
+<thead>
+<tr class="header">
+<th><p>任次</p></th>
+<th><p>校長</p></th>
+<th><p>任期</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>停辦前</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p><br />
+</p></td>
+<td><p>1818－1822</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p><br />
+</p></td>
+<td><p>1822－1824</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p><br />
+</p></td>
+<td><p>1824－1828</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p><br />
+</p></td>
+<td><p>1828－1832</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p><br />
+</p></td>
+<td><p>1832－1834</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p><br />
+</p></td>
+<td><p>1834－1840</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p><br />
+</p></td>
+<td><p>1839－1858</p></td>
+<td><p>英國蘇格蘭漢學家，曾翻譯中國經典，並於1876年至97年擔任<a href="https://zh.wikipedia.org/wiki/牛津大學" title="wikilink">牛津大學首任漢學教授</a>。<br />
+書院於1843年遷往香港。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>復辦後</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><br />
+</p></td>
+<td><p>1914－1918</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>代理</p></td>
+<td><p><br />
+</p></td>
+<td><p>1918－1919</p></td>
+<td><p>曉士牧師於1917年被召援在第一次世界大戰中服務。校長之位由皮堯士牧師代理。他亦是促成1914年書院復辦的關鍵人物之一。</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><br />
+</p></td>
+<td><p>1919－1922</p></td>
+<td><p>書院被定為<a href="../Page/香港補助學校議會.md" title="wikilink">補助學校</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><br />
+</p></td>
+<td><p>1922－1924</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><br />
+</p></td>
+<td><p>1924－1930</p></td>
+<td><p>書院遷至旺角校舍。</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>{{nowrap|<a href="https://zh.wikipedia.org/wiki/舒活" title="wikilink">舒活</a><br />
+</p></td>
+<td><p>1930－1938</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p><br />
+</p></td>
+<td><p>1938－1964</p></td>
+<td><p>香港淪陷時，鈕寶璐被俘，囚禁於深水涉集中營。戰後他計劃建設牛津道新校舍。</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p><br />
+</p></td>
+<td><p>1964－1972</p></td>
+<td><p>1969年度，艾禮士先生在中六級取錄了十五名女生。</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p><br />
+</p></td>
+<td><p>1972－1978</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p><br />
+</p></td>
+<td><p>1978－1990</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p><br />
+</p></td>
+<td><p>1990－2003</p></td>
+<td><p>曾任<a href="https://zh.wikipedia.org/wiki/香港立法局" title="wikilink">香港立法局議員</a>，並在1986年獲委任為非官守太平紳士。英華校友。</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p><br />
+</p></td>
+<td><p>2003－2011</p></td>
+<td><p>英華校友，現任<a href="../Page/香港專業教育學院摩理臣山分校.md" title="wikilink">香港專業教育學院摩理臣山分校院長</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p><br />
+</p></td>
+<td><p>2011－</p></td>
+<td><p>英華校友。</p></td>
+</tr>
+</tbody>
+</table>
+
+## 成就
+
+英華書院秉承基督大愛精神，推行「平民直資」優質教育，培養「實而不華，卓而不傲」的新一代。學術嚴謹，大學學位課程入學率八成以上，DSE成績亦持續遠高於本港平均水平。
+
+此外，英華同學更是多才多藝，在校際音樂、朗誦節、奧數、校際問答比賽及各類體育比賽中屢獲殊榮。
+
+### 音樂
+
+英華書院之學生屢次在[香港青年音樂匯演](https://zh.wikipedia.org/wiki/香港青年音樂匯演 "wikilink")\[30\]及[香港校際音樂節等重要學界音樂賽事中獲獎無數](https://zh.wikipedia.org/wiki/香港校際音樂節 "wikilink")。過去數十年,英華書院合唱團開始與傳統名校九龍真光中學組成混聲合唱團,並獲獎無數。
+
+2017年，英華書院和英華小學樂團遠征荷蘭南部城市Kerkrade，參加4年一度、在管樂界享負盛名的世界音樂大賽－World Music
+Competition(WMC)，並憑出色的演奏及合唱，各獲得參加組別的金獎。這次是英華書院第一次參加國際性的音樂比賽，而團員演出亦獲當地評論讚賞，尤其是自選樂曲《Hymn
+to the
+Sun》的演出，巧妙加入合唱成為全場的感動一刻。WMC為世界其中一個水準最高的「業餘樂團比賽」，分多個級別作賽，今屆已是第18屆，參賽團隊來自世界各地，與英華書院同組較量的，還包括新加坡國立大學的代表，而英華是香港第二隊中學樂團在同一個賽事中獲金獎，且得分最高。
+
+### 體育
+
+英華書院除了曾在1971年在香港校際體育運動比賽奪最高榮譽「玫瑰盃」外，在現今的中銀香港紫荊盃（前稱玫瑰盃）中亦在近年連續長期位於前三甲位置。
+
+此外，英華書院分別在2001－2002、2006－2007以及2008－2009年度拿下「精英隊際最佳表現學校大獎」。
+
+籃球是英華的王牌運動，全港學界精英籃球賽由
+2006至2017年十一載內，英華多次擊敗勁敵男拔、喇沙、桂華山和遵理等隊伍，五奪冠軍、三奪亞軍，成為奪冠次數最多的學校，同時培育了不少香港的籃球名將。
+
+足球方面，於2010至11年度，英華丙組足球隊在決賽擊敗傳統勁敵拔萃男書院，奪得學校歷史上首座港九區第一組別冠軍，亦首次獲得第一組別全場總冠軍。在學界足球歷史上，英華書院亦是唯一一支球隊能連續三年內由第三組別爬升至第一組別，且每年獲得全場總冠軍的球隊。2013年，英華在學界足球精英賽中一路殺退熱門遵理、體藝等勁敵，首次躋身決賽，並擊敗素有「學界巴塞」之稱的仁濟醫院董之英紀念中學而奪冠。同年，英華在學界四強賽中擊敗喇沙書院，及後更在決賽小勝拔萃男書院1:0，首次奪得港九區第一組甲組冠軍。
+
+游泳方面，英華近年來一直高踞港九區第一組別四甲之內。
+
+羽毛球方面，多年來在全港中銀盃及九龍區D1學界團體賽穩居前列，多次奪得冠、亞軍。
+
+### 問答比賽
+
+英華書院問答隊成立於1994年，在大型校際問答比賽中屢獲殊榮\[31\]。英華分別於1996、1998、2005年三度勇奪香港電台舉辦之校際時事及學術常識問答比賽冠軍\[32\]\[33\]。英華問答隊在2010年的第四屆香港盃外交知識競賽中獲得金獎、最佳發言人奬\[34\]，2012年獲最佳發言人奬\[35\]，2018年重奪金奬\[36\]，戰績彪炳。
+
+2018年，外交部駐港特派員公署更派遣孫振參贊𦲷臨英華參觀，並與外交知識競賽參賽隊員交流\[37\]。
+
+## 傳統
+
+  - 英華書院的校色為綠色，不論牛津道舊校舍或是英華街新校舍皆是以綠色為主體。
+  - 英華書院的校呔為綠色，領袖生呔與一般學生校呔圖紋上有分別，以方便記認。
+  - 英華書院年每年都會舉辦「Inter-class hymn singing contest」。
+
+### 社制
+
+英華書院在1960年代已有社制，惟一度停辦，直至於1991年復辦，五社名稱以對該校歷史有重要影響人士的名稱命名，分別為[何福堂社](../Page/何福堂.md "wikilink")、[梁發社](https://zh.wikipedia.org/wiki/梁發 "wikilink")、[米憐社](../Page/米憐.md "wikilink")、[馬禮遜社及](https://zh.wikipedia.org/wiki/馬禮遜 "wikilink")[鈕寶璐社](https://zh.wikipedia.org/wiki/鈕寶璐 "wikilink")。
+
+學生在入學時便會被分派成五個會社。五社在每年都會分別競逐校內文才（文化及音樂）和武略（體育）各項比賽的錦標。總分最高之一社成為總冠軍。
+
+  -  何福堂社（Hoh Fuk Tong）
+
+[Hofuktong-yingwa.JPG](https://zh.wikipedia.org/wiki/File:Hofuktong-yingwa.JPG "fig:Hofuktong-yingwa.JPG")
+
+  -
+    何福堂社的命名源英華書院創辦初期的重要人物[何福堂](../Page/何福堂.md "wikilink")（原名何進善）。何福堂1817年生於南海西樵山，父親早年赴南洋謀生，在馬六甲英華書院當雕版工人。何福堂，因家貧未能順利升學，後入讀英華書院，又隨理雅各牧師學習神學、希伯來文和希臘文。曾任英華書院教職，兼助理雅各牧師教堂服務。1843年理雅各牧師將英華書院遷校香港，何福堂隨校而至；繼續學習神學，並兼教會傳道工作，至1846年被倫敦傳道會按立為牧師，及後派往佛山和廣州兩地傳道。[1](http://christianweekly.net/2005/ta11359.htm)
+
+<!-- end list -->
+
+  -
+    何福堂社的社色是藍色，吉祥物是[鷹](https://zh.wikipedia.org/wiki/鷹 "wikilink")，鷹的雙翅正好就是代表著自由。
+
+<!-- end list -->
+
+  -  梁發社（Leung Faat）
+    [梁發是](https://zh.wikipedia.org/wiki/梁發 "wikilink")[中國的第一名](../Page/中國.md "wikilink")[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")，梁發社也是以他的名稱命名。他是職業刻字工匠，1815年隨米憐牧師前往馬六甲建立宣教站[2](https://web.archive.org/web/20120730045408/http://www.bdcconline.net/zh-hant/stories/by-person/l/liang-jinde.php)，並在英華書院負責刻印傳教書刊[3](http://www.ccmhk.org.hk/Common/Reader/News/ShowNews.jsp?Nid=1920&Pid=16&Version=85&Cid=37&Charset=big5_hkscs)。1816他受洗成為基督徒。1822年，來華只九年的米憐病逝。梁發決定延續恩師的心志，與兒子梁進德返中國向中國人傳福音。
+
+<!-- end list -->
+
+  -
+    梁發社的社色是啡色，吉祥物是[公牛](https://zh.wikipedia.org/wiki/公牛 "wikilink")。
+
+<!-- end list -->
+
+  -  米憐社（Milne）
+    米憐社的名稱乃來自英華書院的第一任校長[米憐牧師](../Page/米憐.md "wikilink")，他自1812年起來到[中國](../Page/中國.md "wikilink")[傳教](https://zh.wikipedia.org/wiki/傳教 "wikilink")。
+
+<!-- end list -->
+
+  -
+    米憐社的代表顏色是黃色，而吉祥物是[獨角獸](https://zh.wikipedia.org/wiki/獨角獸 "wikilink")。
+
+<!-- end list -->
+
+  -  馬禮遜社（Morrison）
+    為紀念英華書院的創校始祖[馬禮遜牧師](https://zh.wikipedia.org/wiki/馬禮遜 "wikilink")，其中一社便命名為馬禮遜社。馬禮遜牧師於1782年出生，16歲時獻身傳道，後來更在[馬六甲創建該校](https://zh.wikipedia.org/wiki/馬六甲 "wikilink")。
+
+<!-- end list -->
+
+  -
+    馬禮遜社以綠色作為社色並以[龍作吉祥物](https://zh.wikipedia.org/wiki/龍 "wikilink")。
+
+<!-- end list -->
+
+  -  鈕寶璐社（Noble）
+    鈕寶璐社的名稱來自英華書院遷校往[弼街後的第二任校長](https://zh.wikipedia.org/wiki/弼街 "wikilink")[鈕寶璐太平紳士](https://zh.wikipedia.org/wiki/鈕寶璐 "wikilink")。本社為五社之中唯一一個不是以停辦前的人物命名的會社。
+
+<!-- end list -->
+
+  -
+    鈕寶璐社以[獅子作為吉祥物](https://zh.wikipedia.org/wiki/獅子 "wikilink")，以紅色作為社色。
+
+### Ying Wa Cry
+
+書院留傳名為「Ying Wa
+Cry」的口號，由前校長艾禮士所創作，本來是為在學界體育賽事中為同學打氣。現時在學校的重要活動中，如畢業典禮、校慶日、水運會、陸運會等，學生都會自發叫喊。
+
+### 校刊
+
+校刊《火炬》於1964年創刊，為全港最早期擁有校報的學校之一。據創刊號解釋，其意思為「薪火相傳」，寓意藉著校報以文會友，並將此精神延續下去。
+
+### 校歌
+
+英華書院的校歌名為《Home of Our Youth》，是Rupert Baldwin在1938年的作品。
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong><code>Home</code><code> </code><code>of</code><code> </code><code>Our</code><code> </code><code>Youth</code></strong><br />
+<code> </code><em><code>by</code><code> </code><code>Rupert</code><code> </code><code>Baldwin</code><code> </code><code>(1938)</code></em></p>
+<p>Home of our youth,<br />
+To thee we bring the homage of lives at the spring.<br />
+Training thy sons for the game of life,<br />
+Sending them forth to the age-long strife,<br />
+Ready thy name, ever bright to uphold,<br />
+Ready 'gainst evil to fight and be bold.<br />
+May those who left thee in years that are past<br />
+Guard well thy honour; to truth holding fast.<br />
+Home of our youth to thee will we sing,<br />
+Long may thy name on our lips proudly ring.<br />
+<br />
+</p></td>
+</tr>
+</tbody>
+</table>
+
+### 校詩
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong><code>School</code><code> </code><code>Hymn</code></strong><br />
+<code> </code><em><code>words</code><code> </code><code>by</code><code> </code><code>Sebastian</code><code> </code><code>W.</code><code> </code><code>Meyer</code><code> </code><code>(1908)</code></em></p>
+<p><em>1</em></p>
+<dl>
+<dt></dt>
+<dd>We build our School on Thee, O Lord,
+</dd>
+<dd>To Thee we bring our common need;
+</dd>
+<dd>The loving heart, the helpful word,
+</dd>
+<dd>The tender thought, the kindly deed:
+</dd>
+<dd>With these we pray
+</dd>
+<dd>Thy Spirit may
+</dd>
+<dd>Enrich and bless our School always.
+</dd>
+</dl>
+<p><em>2</em></p>
+<dl>
+<dt></dt>
+<dd>We work together in Thy sight.
+</dd>
+<dd>We live together in Thy love;
+</dd>
+<dd>Guide Thou our faltering steps aright,
+</dd>
+<dd>And lift our thought to heaven above:
+</dd>
+<dd>Dear Lord we pray
+</dd>
+<dd>Thy Spirit may
+</dd>
+<dd>Be present in our School always.
+</dd>
+</dl>
+<p><em>3</em></p>
+<dl>
+<dt></dt>
+<dd>Hold Thou each hand to keep it just,
+</dd>
+<dd>Touch Thou our lips and make them pure;
+</dd>
+<dd>If Thou art with us, Lord we must,
+</dd>
+<dd>Be faithful friends and comrades sure:
+</dd>
+<dd>Dear Lord, we pray
+</dd>
+<dd>Thy Spirit may
+</dd>
+<dd>Be present in our School always.
+</dd>
+</dl>
+<p><em>4</em></p>
+<dl>
+<dt></dt>
+<dd>We change, but Thou art still the same,
+</dd>
+<dd>The same good Master, Teacher, Friend;
+</dd>
+<dd>We change, but, Lord, we bear Thy name,
+</dd>
+<dd>To journey with it to the end:
+</dd>
+<dd>And so we pray
+</dd>
+<dd>Thy Spirit may
+</dd>
+<dd>Be present in our School always.
+</dd>
+</dl>
+<p><br />
+</p></td>
+</tr>
+</tbody>
+</table>
+
+## 香港傑出學生選舉
+
+直至2018年(第33屆)，英華書院在[香港傑出學生選舉共出產](../Page/香港傑出學生選舉.md "wikilink")3名傑出學生。
+
+## 知名校友
+
+[梁錦松](../Page/梁錦松.md "wikilink")、[胡國興](../Page/胡國興.md "wikilink")、[許冠傑](../Page/許冠傑.md "wikilink")、[吳錫輝](https://zh.wikipedia.org/wiki/吳錫輝 "wikilink")、[黃繼兒等知名人士都是英華校友](https://zh.wikipedia.org/wiki/黃繼兒 "wikilink")。\[38\]
+
+### 停辦前
+
+  - [梁發](https://zh.wikipedia.org/wiki/梁發 "wikilink")：[中國](../Page/中國.md "wikilink")[基督教重要人物](../Page/基督教.md "wikilink")，也是近代第一位華人牧師
+
+  - [何福堂](../Page/何福堂.md "wikilink")：[中國第二位華人](../Page/中國.md "wikilink")[基督教牧師](../Page/基督教.md "wikilink")，早年入讀馬六甲英華書院
+
+  - ：[清朝](../Page/清朝.md "wikilink")[林則徐的翻譯員之一](https://zh.wikipedia.org/wiki/林則徐 "wikilink")。
+
+  - [梁進德](https://zh.wikipedia.org/wiki/梁進德 "wikilink")：[梁發之兒子](https://zh.wikipedia.org/wiki/梁發 "wikilink")，[清朝](../Page/清朝.md "wikilink")[林則徐的翻譯員之一](https://zh.wikipedia.org/wiki/林則徐 "wikilink")。
+
+  - [何崑山](../Page/何崑山.md "wikilink")：[大嶼山](../Page/大嶼山.md "wikilink")[銀礦創辦人](../Page/銀礦灣.md "wikilink")，19世紀末香港及廣東礦業商人
+
+### 1914年復辦後
+
+#### 政界
+
+  - [楊寶坤](../Page/楊寶坤.md "wikilink")：前[立法局委任議員](https://zh.wikipedia.org/wiki/立法局 "wikilink")、英華書院校長及[輔警總警司](https://zh.wikipedia.org/wiki/輔警 "wikilink")
+  - [樂鞏南](https://zh.wikipedia.org/wiki/樂鞏南 "wikilink")：前[民航處處長](../Page/民航處.md "wikilink")
+  - [蕭炯柱](../Page/蕭炯柱.md "wikilink")：前[規劃環境地政局局長](../Page/規劃環境地政局.md "wikilink")
+  - [劉善鵬](https://zh.wikipedia.org/wiki/劉善鵬 "wikilink")：前[漁農自然護理署副署長](../Page/漁農自然護理署.md "wikilink")
+  - [歐中民](https://zh.wikipedia.org/wiki/歐中民 "wikilink")：前[審計署副署長](https://zh.wikipedia.org/wiki/審計署 "wikilink")
+  - [廖長城](../Page/廖長城.md "wikilink")：前[行政會議成員](../Page/香港特別行政區行政會議.md "wikilink")、[全國政協委員](../Page/中國人民政治協商會議全國委員會香港地區委員.md "wikilink")、[香港科技大學校董會主席](../Page/香港科技大學.md "wikilink")
+  - [蘇慶和](../Page/蘇慶和.md "wikilink")：[市區重建局主席](../Page/市區重建局.md "wikilink")、前[領展](https://zh.wikipedia.org/wiki/領展房地產信託基金 "wikilink")[行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")\[39\]
+  - 鄧炳光：[差餉物業估價署署長](../Page/差餉物業估價署.md "wikilink")
+  - [黃繼兒](https://zh.wikipedia.org/wiki/黃繼兒 "wikilink")：[私隱專員公署](https://zh.wikipedia.org/wiki/私隱專員公署 "wikilink")[個人資料私隱專員](https://zh.wikipedia.org/wiki/個人資料私隱專員 "wikilink")、大律師，[律政司前副法律政策專員](https://zh.wikipedia.org/wiki/律政司 "wikilink")、[法律改革委員會前秘書長](https://zh.wikipedia.org/wiki/法律改革委員會 "wikilink")\[40\]
+  - 陳澤武：[澳門特別行政區行政會委員](../Page/澳門特別行政區行政會.md "wikilink")、[澳門立法會議員](https://zh.wikipedia.org/wiki/澳門立法會 "wikilink")，澳門體育暨奧林匹克委員會理事會秘書長
+  - [吳錫輝](https://zh.wikipedia.org/wiki/吳錫輝 "wikilink")：前[廣播處副處長](https://zh.wikipedia.org/wiki/廣播處 "wikilink")\[41\]
+  - [潘佩璆](../Page/潘佩璆.md "wikilink")：前[立法會議員（勞工界）](../Page/第四屆香港立法會.md "wikilink")，[香港工會聯合會副理事長](../Page/香港工會聯合會.md "wikilink")，現職[九龍](../Page/九龍.md "wikilink")[觀塘](../Page/觀塘.md "wikilink")[聯合醫院](https://zh.wikipedia.org/wiki/聯合醫院 "wikilink")[精神科副顧問](https://zh.wikipedia.org/wiki/精神科 "wikilink")[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")、[香港中文大學精神科學系榮譽臨床副](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[教授](../Page/教授.md "wikilink")
+  - [陳岳鵬](../Page/陳岳鵬.md "wikilink")：前[政制及內地事務局](../Page/政制及內地事務局.md "wikilink")[副局長](../Page/香港政治委任制度.md "wikilink")、前[行政長官辦公室特別助理](../Page/香港特別行政區行政長官辦公室.md "wikilink")、前[南區區議員](../Page/南區區議會.md "wikilink")
+
+#### 法律界
+
+[Andrew_Cheung_(Cropped).png](https://zh.wikipedia.org/wiki/File:Andrew_Cheung_\(Cropped\).png "fig:Andrew_Cheung_(Cropped).png")常任法官\]\]
+
+  - [張舉能](../Page/張舉能.md "wikilink")：[香港高等法院](https://zh.wikipedia.org/wiki/香港高等法院 "wikilink")[首席法官](../Page/首席法官.md "wikilink")，[香港高等法院原訟法庭](https://zh.wikipedia.org/wiki/香港高等法院 "wikilink")[法官和](../Page/法官.md "wikilink")[上訴法庭](https://zh.wikipedia.org/wiki/上訴法庭 "wikilink")[庭長](https://zh.wikipedia.org/wiki/庭長 "wikilink")
+  - [胡國興](../Page/胡國興.md "wikilink")：[2017年行政長官選舉參選人](../Page/2017年香港特別行政區行政長官選舉.md "wikilink")、前[高等法院上訴庭副庭長](https://zh.wikipedia.org/wiki/香港高等法院 "wikilink")、[截取通訊及監察事務專員](https://zh.wikipedia.org/wiki/截取通訊及監察事務專員 "wikilink")、前[選舉管理委員會主席](https://zh.wikipedia.org/wiki/選舉管理委員會 "wikilink")\[42\]
+  - [許宗盛](https://zh.wikipedia.org/wiki/許宗盛 "wikilink")：
+    執業律師、2005-2008年[世界童軍委員會主席](https://zh.wikipedia.org/wiki/世界童軍委員會 "wikilink")、[旭日企業董事](../Page/旭日企業.md "wikilink")
+  - [岑炳生](https://zh.wikipedia.org/wiki/岑炳生 "wikilink")：大律師、[醫務委員會法律顧問](https://zh.wikipedia.org/wiki/醫務委員會 "wikilink")
+  - [謝連忠](https://zh.wikipedia.org/wiki/謝連忠 "wikilink")：執業律師、[葉謝鄧律師行高級合伙人](https://zh.wikipedia.org/wiki/葉謝鄧 "wikilink")
+
+#### 商界
+
+  - [梁錦松](../Page/梁錦松.md "wikilink")：[南豐集團行政總裁](../Page/南豐集團.md "wikilink")、前[財政司司長](https://zh.wikipedia.org/wiki/財政司司長 "wikilink")、前[黑石集團大中華主席](https://zh.wikipedia.org/wiki/黑石集團 "wikilink")，身兼國際小母牛香港分會主席。\[43\]
+  - [楊紹信](https://zh.wikipedia.org/wiki/楊紹信 "wikilink")：前[羅兵咸永道](https://zh.wikipedia.org/wiki/羅兵咸永道 "wikilink")（[PricewaterhouseCoopers](https://zh.wikipedia.org/wiki/PricewaterhouseCoopers "wikilink")）會計師事務所亞太區主席、[全國政協委員](../Page/中國人民政治協商會議全國委員會香港地區委員.md "wikilink")、[香港賽馬會董事](../Page/香港賽馬會.md "wikilink")。
+  - [黃仲文](https://zh.wikipedia.org/wiki/黃仲文 "wikilink")：[中銀國際有限公司](https://zh.wikipedia.org/wiki/中銀國際有限公司 "wikilink")[行政總裁兼私人銀行部門主管](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")。
+  - [譚偉明](https://zh.wikipedia.org/wiki/譚偉明 "wikilink")：[加拿大皇家銀行環球資產管理](../Page/加拿大皇家銀行.md "wikilink")[董事總經理](https://zh.wikipedia.org/wiki/董事總經理 "wikilink")，亞洲區業務總監。
+  - [關啟昌](https://zh.wikipedia.org/wiki/關啟昌 "wikilink")：前[美林證券亞太區行政總裁](https://zh.wikipedia.org/wiki/美林證券 "wikilink")、現[和記電訊國際有限公司](https://zh.wikipedia.org/wiki/和記電訊國際有限公司 "wikilink")、[中華藥業有限公司獨立](https://zh.wikipedia.org/wiki/中華藥業有限公司 "wikilink")[非執行董事](https://zh.wikipedia.org/wiki/非執行董事 "wikilink")
+  - [劉天成](https://zh.wikipedia.org/wiki/劉天成 "wikilink")：[港鐵車務總監](../Page/港鐵.md "wikilink")\[44\]
+  - [曾昭群](https://zh.wikipedia.org/wiki/曾昭群 "wikilink")：[香港機電工程承建商協會主席](https://zh.wikipedia.org/wiki/香港機電工程承建商協會 "wikilink")、現任[英華小學校監](../Page/英華小學.md "wikilink")、前[有利集團執行董事](../Page/有利集團.md "wikilink")、前[扶輪社主席](../Page/扶輪社.md "wikilink")
+  - [周騰輝](https://zh.wikipedia.org/wiki/周騰輝 "wikilink")：前[中華電力營運總裁](../Page/中華電力.md "wikilink")
+  - [鍾志偉](https://zh.wikipedia.org/wiki/鍾志偉 "wikilink")：美國[輝瑞科研製藥有限公司營養品部香港區總經理](../Page/輝瑞.md "wikilink")
+  - [李永權](https://zh.wikipedia.org/wiki/李永權 "wikilink")：曾任香港資本市場公會主席、[香港按揭證券公司高級副總裁](https://zh.wikipedia.org/wiki/香港按揭證券公司 "wikilink")（財務）。御風而行有限公司[董事總經理](https://zh.wikipedia.org/wiki/董事總經理 "wikilink")，財經專欄作家，信安信託（亞洲）有限公司獨立非執行董事，亞太證券化公會有限公司董事，香港棒球總會會長(2016-2018)
+  - [葉承智](https://zh.wikipedia.org/wiki/葉承智 "wikilink")：[和記港口有限公司集團董事總經理](https://zh.wikipedia.org/wiki/和記港口有限公司 "wikilink")
+  - [梁兆邦](https://zh.wikipedia.org/wiki/梁兆邦 "wikilink")：[實惠家居有限公司副行政總裁](https://zh.wikipedia.org/wiki/實惠家居有限公司 "wikilink")
+  - [吳智光](https://zh.wikipedia.org/wiki/吳智光 "wikilink")：[新世界第一巴士人力資源及行政總監](../Page/新世界第一巴士.md "wikilink")
+  - [胡景邵](https://zh.wikipedia.org/wiki/胡景邵 "wikilink")：[匯友資本](https://zh.wikipedia.org/wiki/匯友資本 "wikilink")（AID
+    Partners）首席合夥人，[Investec亞洲董事長](https://zh.wikipedia.org/wiki/Investec "wikilink")。
+  - [何啟聰](https://zh.wikipedia.org/wiki/何啟聰 "wikilink")：[瑞信香港認股證及牛熊證銷售主管](https://zh.wikipedia.org/wiki/瑞信 "wikilink")
+  - [伍致豐](https://zh.wikipedia.org/wiki/伍致豐 "wikilink")：[超凡集團執行董事](https://zh.wikipedia.org/wiki/超凡集團 "wikilink")
+
+#### 建築／工程界
+
+  - [王建明](https://zh.wikipedia.org/wiki/王建明_\(建築師\) "wikilink")：[香港十大傑青](https://zh.wikipedia.org/wiki/香港十大傑青 "wikilink")、[建築師](https://zh.wikipedia.org/wiki/建築師 "wikilink")\[45\]
+
+#### 教育界
+
+  - [陳耀南博士](../Page/陳耀南.md "wikilink")：[香港大學中文系榮休教授](../Page/香港大學.md "wikilink")。曾任英華副校長，為名譽校友,
+    在1980年代擔任過[中華民國立法委員](https://zh.wikipedia.org/wiki/中華民國立法委員 "wikilink")
+  - [陳其相](https://zh.wikipedia.org/wiki/陳其相 "wikilink")：傑出教育家,
+    聞名「英華三陳」之一,
+    畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink"),香港著名中國文學、歷史、藝術、宗教學者及導師,曾任中學校長、[香港藝術館客籍講師](../Page/香港藝術館.md "wikilink")、[香港考試及評核局主](../Page/香港考試及評核局.md "wikilink")
+    考官多年,現已榮休
+  - [呂炳強](https://zh.wikipedia.org/wiki/呂炳強 "wikilink")：[香港理工大學應用社會科學系首席講師](../Page/香港理工大學.md "wikilink")
+  - [歐陽伯權](https://zh.wikipedia.org/wiki/歐陽伯權 "wikilink")：[美國信安金融集團](https://zh.wikipedia.org/wiki/美國信安金融集團 "wikilink")（[Principal
+    Financial
+    Group](https://zh.wikipedia.org/wiki/Principal_Financial_Group "wikilink")）高級副總裁兼亞洲區總裁，[嶺南大學校董會主席](https://zh.wikipedia.org/wiki/嶺南大學 "wikilink")。
+  - [邱逸博士](https://zh.wikipedia.org/wiki/邱逸 "wikilink")：香港歷史文化研究會會長、香港歷史研究者、《孫子兵法》專家、評論員、文化人
+  - [石丹理](https://zh.wikipedia.org/wiki/石丹理 "wikilink")：[香港理工大學協理副校長](../Page/香港理工大學.md "wikilink")、應用社會科學系講座教授，禁毒常務委員會主席和家庭議會主席
+  - [盧厚敏](https://zh.wikipedia.org/wiki/盧厚敏 "wikilink")：[香港中文大學音樂系高級講師](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")
+  - [黎文業](../Page/黎文業.md "wikilink")：[活學教育創辦人之一](../Page/活學教育.md "wikilink")，補習界名人[陳如敏之亡夫](../Page/陳如敏.md "wikilink")
+  - [張欣欣](https://zh.wikipedia.org/wiki/張欣欣 "wikilink")：[活學教育中文科補習名師](../Page/活學教育.md "wikilink")，專欄作家
+  - [伍卓賢](../Page/伍卓賢.md "wikilink")：[香港中文大學金融學系副教授](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")
+  - [曾國平](https://zh.wikipedia.org/wiki/曾國平 "wikilink")：美國[維珍尼亞理工大學經濟系副教授](https://zh.wikipedia.org/wiki/維珍尼亞理工大學 "wikilink")
+  - [鄒廣榮](../Page/鄒廣榮.md "wikilink")：[香港大學房地產及建設系系主任](https://zh.wikipedia.org/wiki/香港大學房地產及建設系 "wikilink")/講座教授、[科斯產權研究中心主任](https://zh.wikipedia.org/wiki/科斯產權研究中心 "wikilink")、前[香港測量師學會會長](../Page/香港測量師學會.md "wikilink")
+  - [羅永生](https://zh.wikipedia.org/wiki/羅永生 "wikilink")：[嶺南大學文化研究系副教授](https://zh.wikipedia.org/wiki/嶺南大學 "wikilink")、香港著名文化研究學者
+  - [袁文得](https://zh.wikipedia.org/wiki/袁文得 "wikilink")：[香港大學教育學院副教授](../Page/香港大學.md "wikilink")
+  - [鄺智文](https://zh.wikipedia.org/wiki/鄺智文 "wikilink")：[香港浸會大學歷史系副教授](../Page/香港浸會大學.md "wikilink")，新晉本土歷史學家
+  - [張子熙](https://zh.wikipedia.org/wiki/張子熙 "wikilink")：[香港理工大學康復治療科學系副教授](../Page/香港理工大學.md "wikilink")
+
+#### 醫學界
+
+  - [陸瓞驥](https://zh.wikipedia.org/wiki/陸瓞驥 "wikilink")：前[香港大學矯形及創傷外科學系譚世傑脊骨外科講座教授及前系主任](../Page/香港大學.md "wikilink")，前[香港骨科醫學院院長](https://zh.wikipedia.org/wiki/香港骨科醫學院 "wikilink")
+  - [陸洪滔](https://zh.wikipedia.org/wiki/陸洪滔 "wikilink")：前[瑪嘉烈醫院外科部門主管](../Page/瑪嘉烈醫院.md "wikilink")，前[香港外科醫學院院長](https://zh.wikipedia.org/wiki/香港外科醫學院 "wikilink")
+  - [梁啟信](https://zh.wikipedia.org/wiki/梁啟信 "wikilink")：[香港中文大學眼科及視覺科學學系教授兼系主任](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")
+  - [方道生](https://zh.wikipedia.org/wiki/方道生 "wikilink")：前[屯門醫院腦神經外科部門主管](../Page/屯門醫院.md "wikilink")
+  - [陳凱旭](https://zh.wikipedia.org/wiki/陳凱旭 "wikilink")：香港皮膚診所主席及醫務總監，[晴報醫心直說和](../Page/晴報.md "wikilink")[頭條日報活出健康美專欄作家](../Page/頭條日報.md "wikilink")
+  - [鄭子豐](https://zh.wikipedia.org/wiki/鄭子豐 "wikilink")：東區尤德夫人那打素醫院口腔頜面外科顧問醫生
+  - [曹貴子](https://zh.wikipedia.org/wiki/曹貴子 "wikilink")：兒科醫生，[康健國際](../Page/康健國際.md "wikilink")（3886）創辦人
+  - [鄭偉澤](https://zh.wikipedia.org/wiki/鄭偉澤 "wikilink")：[香港執業眼科視光師協會會長](https://zh.wikipedia.org/wiki/香港執業眼科視光師協會 "wikilink")
+  - [夏威](https://zh.wikipedia.org/wiki/夏威_\(醫生\) "wikilink")：前[香港大學肝膽胰外科名譽臨床副教授](../Page/香港大學.md "wikilink")、肝膽胰外科權威
+
+#### 娛樂／流行歌曲／影視界
+
+  - [許冠傑](../Page/許冠傑.md "wikilink")：香港粵語流行曲[歌神](../Page/歌神.md "wikilink")。\[46\]
+  - [黃修平](../Page/黃修平.md "wikilink")：[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，作品包括《[哪一天我們會飛](../Page/哪一天我們會飛.md "wikilink")》、《[狂舞派](../Page/狂舞派.md "wikilink")》及《[魔術男](https://zh.wikipedia.org/wiki/魔術男 "wikilink")》。
+  - [王宗堯](../Page/王宗堯.md "wikilink")：藝員\[47\]
+  - [梁樂民](../Page/梁樂民.md "wikilink")：[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[美術指導](../Page/美術指導.md "wikilink")、[導演暨](https://zh.wikipedia.org/wiki/導演 "wikilink")[編劇](../Page/編劇.md "wikilink")，[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")[最佳導演及](https://zh.wikipedia.org/wiki/最佳導演 "wikilink")[最佳編劇](https://zh.wikipedia.org/wiki/最佳編劇 "wikilink")。代表作為《[寒戰](../Page/寒戰.md "wikilink")》。
+  - [周耀輝](../Page/周耀輝.md "wikilink")：著名填詞人，被譽為香港三大詞人之一。
+  - [鍾定一](../Page/鍾定一.md "wikilink")：著名音樂人。
+  - [譚展輝](https://zh.wikipedia.org/wiki/譚展輝 "wikilink")：正統及流行作曲家、唱片監製、音樂教育家、香港中文大學音樂博士及客席助理教授
+  - [李日昇](../Page/李日昇.md "wikilink")：藝員，童星出身。
+  - [鄺展維](https://zh.wikipedia.org/wiki/鄺展維 "wikilink")：作曲家、[英國約克大學哲學博士](https://zh.wikipedia.org/wiki/英國約克大學 "wikilink")
+  - [曹震豪](../Page/曹震豪.md "wikilink")：香港獨立音樂製作人
+  - [譚國政](https://zh.wikipedia.org/wiki/譚國政 "wikilink")：香港作曲家、唱片監製及演唱會監製
+  - [鄭則仕](../Page/鄭則仕.md "wikilink")（未有畢業）：憑《[何必有我](https://zh.wikipedia.org/wiki/何必有我 "wikilink")》及《[三個受傷的警察](https://zh.wikipedia.org/wiki/三個受傷的警察 "wikilink")》分別於第五屆及第十六屆奪得[香港電影金像獎最佳男主角](https://zh.wikipedia.org/wiki/香港電影金像獎最佳男主角 "wikilink")
+  - [周祉君](../Page/周祉君.md "wikilink")：香港男演員
+  - [鍾銘熙](https://zh.wikipedia.org/wiki/鍾銘熙 "wikilink")：著名填詞人
+
+#### 文化／藝術界
+
+  - [徐俊文](https://zh.wikipedia.org/wiki/徐俊文 "wikilink")（徐緣）：[壹傳媒首席營銷官](../Page/壹傳媒.md "wikilink")、前[曼秀雷敦(亞洲太平洋)有限公司市務總監](https://zh.wikipedia.org/wiki/曼秀雷敦\(亞洲太平洋\)有限公司 "wikilink")，營銷專欄作家，《型銷》、《廣告@日本》作者。
+  - [陳景祥](https://zh.wikipedia.org/wiki/陳景祥 "wikilink")：香港資深傳媒人，前《信報》總編輯。
+  - [黃志淙](https://zh.wikipedia.org/wiki/黃志淙 "wikilink")：香港[商業電台DJ及樂評人](https://zh.wikipedia.org/wiki/商業電台 "wikilink")，現任[香港大學通識教育部助理總監](../Page/香港大學.md "wikilink")，香港大學社會學博士。
+  - [劉小康](https://zh.wikipedia.org/wiki/劉小康 "wikilink")：著名設計師，作品包括[屈臣氏蒸餾水樽](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")、2009年[東亞運動會獎牌等](../Page/東亞運動會.md "wikilink")。
+  - [湯禎兆](../Page/湯禎兆.md "wikilink")：香港作家、文化人。
+  - [葉冠霖](../Page/葉冠霖.md "wikilink")：[香港電台晨早烽煙節目](../Page/香港電台.md "wikilink")《[千禧年代](../Page/千禧年代_\(電台節目\).md "wikilink")》主持及編導。
+
+#### 宗教界
+
+  - [黃兆強](../Page/黃兆強.md "wikilink")：前無綫配音員，現為居士，被評為「佛教葉特生」
+  - 麥肇聰：宣道會北角堂傳道牧師
+
+#### 體育界
+
+| 姓名                                                  | 離校年份 | 運動項目 | 成就／曾效力隊伍                                                                                                                                                  | 簡介                                                        | 參考                       |
+| --------------------------------------------------- | ---- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------ |
+| [李卓耀](https://zh.wikipedia.org/wiki/李卓耀 "wikilink") |      | 羽毛球  |                                                                                                                                                           |                                                           | \[48\]                   |
+| [張家朗](https://zh.wikipedia.org/wiki/張家朗 "wikilink") |      | 劍擊   |                                                                                                                                                           |                                                           | \[49\]                   |
+| [鄭錦興](../Page/鄭錦興.md "wikilink")                    |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [陳兆榮](../Page/陳兆榮.md "wikilink")                    | 2011 | 籃球   | [永倫](https://zh.wikipedia.org/wiki/永倫 "wikilink")、[東方](https://zh.wikipedia.org/wiki/東方籃球隊 "wikilink")、[香港代表](../Page/香港男子籃球代表隊.md "wikilink")            |                                                           | \[50\]                   |
+| [陳張敏](../Page/陳張敏.md "wikilink")                    |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [惠龍兒](../Page/惠龍兒.md "wikilink")                    |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [林凱光](https://zh.wikipedia.org/wiki/林凱光 "wikilink") |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [周家駒](https://zh.wikipedia.org/wiki/周家駒 "wikilink") |      | 籃球   |                                                                                                                                                           |                                                           |                          |
+| [周健宏](../Page/周健宏.md "wikilink")                    | 2010 | 籃球   |                                                                                                                                                           | 首位[KBL香港球員](https://zh.wikipedia.org/wiki/KBL "wikilink") | \[51\]\[52\]             |
+| [鄭兆均](../Page/鄭兆均.md "wikilink")                    |      | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[理文](https://zh.wikipedia.org/wiki/理文足球會 "wikilink")                                                                  |                                                           | \[53\]                   |
+| [卓耀國](../Page/卓耀國.md "wikilink")                    | 2011 | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[R\&F富力](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")、[基亞索](../Page/基亞索足球會.md "wikilink")                          |                                                           | \[54\]\[55\]\[56\]\[57\] |
+| [播磨浩謙](../Page/播磨浩謙.md "wikilink")                  | 2012 | 足球   | [傑志](https://zh.wikipedia.org/wiki/傑志 "wikilink")、[夢想FC](https://zh.wikipedia.org/wiki/夢想FC "wikilink")、[凱景](https://zh.wikipedia.org/wiki/凱景 "wikilink") |                                                           | \[58\]                   |
+| [羅曉聰](../Page/羅曉聰.md "wikilink")                    |      | 足球   | [流浪](../Page/香港流浪足球會.md "wikilink")、[南華](https://zh.wikipedia.org/wiki/南華足球隊 "wikilink")、[飛馬](https://zh.wikipedia.org/wiki/香港飛馬足球會 "wikilink")           |                                                           | \[59\]\[60\]             |
+| [王子聰](https://zh.wikipedia.org/wiki/王子聰 "wikilink") |      | 足球   | [理文](https://zh.wikipedia.org/wiki/理文足球會 "wikilink")、[傑志](https://zh.wikipedia.org/wiki/傑志 "wikilink")                                                    |                                                           | \[61\]                   |
+| [王子謙](../Page/王子謙.md "wikilink")                    |      | 足球   | [冠忠南區](https://zh.wikipedia.org/wiki/冠忠南區 "wikilink")                                                                                                     |                                                           | \[62\]                   |
+
+## 關聯學校
+
+英華書院附屬有近年最受家長歡迎的直資名校[英華小學](../Page/英華小學.md "wikilink")，另與暫時搬遷至深水埗的[英華女學校為姊妹學校](../Page/英華女學校.md "wikilink")，屬同一辦學教會，關係密切；兩校不但同以英華為校名及經常舉辦聯校活動，而且雙方的校長更是對方的[校董會成員之一](https://zh.wikipedia.org/wiki/校董會 "wikilink")。另外，英華書院還與真光女書院組成男女混合合唱團，參與校際音樂比賽。\[63\]\[64\]
+
+## 參考資料
+
+## 參考文獻
+
+  - 《古樹英華》 劉紹麟著, Mar 2001 Edition, ISBN 962-86125-1-4
+  - 《Waiting For China：The Anglo─Chinese College at Malacca》, Brian
+    Harrison 著, Hong Kong University Press (1979), ISBN 9622090117
+
+## 參見
+
+  - [馬禮遜](https://zh.wikipedia.org/wiki/馬禮遜 "wikilink")
+  - [英華小學](../Page/英華小學.md "wikilink")
+  - [英華女學校](../Page/英華女學校.md "wikilink")
+
+## 外部連結
+
+  - [英華書院](http://www.yingwa.edu.hk/)
+  - [英華書院創校200年校慶Facebook專頁](https://www.facebook.com/YingWa200/)
+
+[Category:英華書院](https://zh.wikipedia.org/wiki/Category:英華書院 "wikilink")
+[Category:香港男子中學](https://zh.wikipedia.org/wiki/Category:香港男子中學 "wikilink")
+[Category:香港直資學校](https://zh.wikipedia.org/wiki/Category:香港直資學校 "wikilink")
+[Category:深水埗區中學](https://zh.wikipedia.org/wiki/Category:深水埗區中學 "wikilink")
+[Category:香港補助學校議會](https://zh.wikipedia.org/wiki/Category:香港補助學校議會 "wikilink")
+[Category:中華基督教會中學](https://zh.wikipedia.org/wiki/Category:中華基督教會中學 "wikilink")
+[Category:1818年創建的教育機構](https://zh.wikipedia.org/wiki/Category:1818年創建的教育機構 "wikilink")
+[Category:香港英文授課中學](https://zh.wikipedia.org/wiki/Category:香港英文授課中學 "wikilink")
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.  蘇精：《從英華書院到中華印務總局》一文，見《王韜與近代世界》ISBN 9629480697
+
+6.  [王韜](https://zh.wikipedia.org/wiki/王韜 "wikilink")：《[漫遊隨錄圖記](https://zh.wikipedia.org/wiki/漫遊隨錄圖記 "wikilink")·香海羈蹤》
+    ISBN 7-80603-956-2
+
+7.  [基督教週報](http://christianweekly.net/2004/ta8676.htm)
+    *原在九龍塘牛津道1號B的英華書院*
+
+8.  [中原地產1999年學年中學學校網 --
+    九龍城區](http://www.centanet.com.hk/agent/school/KLNCITY.html)
+    *英華書院 九龍九龍塘牛津道1號B*
+
+9.
+
+10.
+
+11.
+12.
+13.
+
+14.
+
+15.
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31. <https://www.yingwa.edu.hk/pdf/1415ECA_Info.pdf>
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+41.
+42.
+43.
+44.
+45.
+
+46.
+47.
+48.
+
+49.
+
+50.
+
+51.
+52. [英華精英賽3連霸創歷史](http://hk.news.yahoo.com/article/081223/4/9w2i.html)
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+60.
+61.
+
+62.
+63. [Board of Directors, Ying Wa
+    College](http://www.yingwa.edu.hk/about.aspx?clid=175&atid=1203&lan=2)
+
+64. [The IMC (Incorporated Management Committee), Ying Wa Girls'
+    School](http://www.ywgs.edu.hk/imc-incorporated-management-committee)

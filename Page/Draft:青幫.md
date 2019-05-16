@@ -1,0 +1,85 @@
+**青幫**是一個[中國](../Page/中國.md "wikilink")[秘密结社](https://zh.wikipedia.org/wiki/秘密结社 "wikilink")，創於[清朝](../Page/清朝.md "wikilink")[雍正年期](../Page/雍正.md "wikilink")，為崇信[羅教的](../Page/羅教.md "wikilink")[翁岩](https://zh.wikipedia.org/wiki/翁岩 "wikilink")、[錢堅及](https://zh.wikipedia.org/wiki/錢堅 "wikilink")[潘清所創](https://zh.wikipedia.org/wiki/潘清 "wikilink")，在20世紀早期到中期上海的社會和政治活動中佔有顯著影響力，是晚清、民国时期中国三大帮会之一。1949年，隨著[國民黨政府在](https://zh.wikipedia.org/wiki/國民黨 "wikilink")[中國大陸的政權崩潰](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，青幫離開上海並在1950年代初踏足[香港](../Page/香港.md "wikilink")\[1\]。
+
+## 起源
+
+青幫在清朝[雍正四年](../Page/雍正.md "wikilink")（1726年）由翁岩、錢堅及潘清三人所創，幫會人士在初期皆以[漕運為業](https://zh.wikipedia.org/wiki/漕運 "wikilink")，幫會亦為[水手提供墓葬和宿舍等服務](../Page/水手.md "wikilink")，亦因青幫起於漕運，故幫會人士在早期多流傳於[江南一帶](../Page/江南.md "wikilink")。到了[乾隆年間](../Page/乾隆.md "wikilink")，青幫被朝廷視為一種威脅，在1768年摧毀羅教寺廟並取締該教派，驅使青幫轉向地下活動\[2\]。
+
+隨著19世紀的社會動盪，[大運河漕運受到嚴重破壞後沒落](https://zh.wikipedia.org/wiki/大運河 "wikilink")，導致漕運水手要不加入[太平天國或](https://zh.wikipedia.org/wiki/太平天國 "wikilink")[捻軍](https://zh.wikipedia.org/wiki/捻軍 "wikilink")，要不轉移到海岸加入[鹽走私貿易](https://zh.wikipedia.org/wiki/鹽 "wikilink")。在1870年代[江蘇省北部](https://zh.wikipedia.org/wiki/江蘇省 "wikilink")，水手和鹽走私者開始組建所謂的「安慶道友」，是20世紀初青幫的直接前身\[3\]。
+
+## 活躍於上海
+
+隨著海運興起，漕運沒落，[上海成為糧食的重要轉運點](https://zh.wikipedia.org/wiki/上海 "wikilink")，大規模的外省移民進入[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，當中包括大批青幫人士，他們到了[上海從事各種行業](https://zh.wikipedia.org/wiki/上海 "wikilink")。1920至30年代，在大多數的上海工廠裡，控制包工製度的工頭和監工都是青幫的人，在工廠內所有工人都被納入到青幫體系內，因不加入幫會就不能進入工廠工作\[4\]\[5\]。
+
+青幫常被[國民黨的](https://zh.wikipedia.org/wiki/國民黨 "wikilink")[蔣介石僱用以打擊工會集會和工人罷工行動](https://zh.wikipedia.org/wiki/蔣介石 "wikilink")，並參與[國共內戰](https://zh.wikipedia.org/wiki/國共內戰 "wikilink")。1913年，青幫領導人[尹桂新參與了](https://zh.wikipedia.org/wiki/尹桂新 "wikilink")[袁世凱對](https://zh.wikipedia.org/wiki/袁世凱 "wikilink")[宋教仁的暗殺行動](../Page/宋教仁.md "wikilink")。青幫亦是蔣介石的主要財政支持者，後者在1915年至1923年在上海生活時認識前者。在[四一二事件中](../Page/四一二事件.md "wikilink")，青幫亦與其他幫派在蔣介石的命令下在上海屠殺約5,000名親共罷工者。蔣介石後來授予杜月笙在[國民革命軍中的軍銜](../Page/國民革命軍.md "wikilink")。蔣介石的姐夫和時中華民國財政部長[宋子文也聯同青幫向上海的銀行施壓](../Page/宋子文.md "wikilink")，讓他們購買國債。在國民黨勢力在南京的最後兩年，青幫繼續向各大企業施壓購買國債\[6\]\[7\]\[8\]。
+
+## 國共戰爭後
+
+### 香港
+
+1949年蔣介石政權在[中國大陸崩潰後](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，青幫離開上海，並在1950年代初在香港開設了[海洛因工廠](../Page/海洛因.md "wikilink")。在接下來的數年裡，青幫與當地其他幫派在控制毒品市場上發生爭鬥。到了1950年代中期，來自[汕頭的以潮州人為主的幫派控制了海洛因市場](https://zh.wikipedia.org/wiki/汕頭 "wikilink")，他們僱用青幫的化學家，擴大了香港的海洛因消費量。在1960年代早期，他們的影響力擴散到[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，1960年代晚期，香港的化學家在[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[緬甸邊境開設了第一個製作純度最高的](https://zh.wikipedia.org/wiki/緬甸 "wikilink")4號海洛英的實驗室，將技術引入當地，使[金三角成為世界上最大的海洛因生產地](../Page/金三角.md "wikilink")\[9\]。
+
+### 台灣
+
+目前青幫主要分佈在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，並成立有合法[社團](https://zh.wikipedia.org/wiki/社團 "wikilink")「[中華安清會](https://zh.wikipedia.org/wiki/中華安清會 "wikilink")」。在美國部份城市，青幫也有一定影響，惟有另類看法係當年杜月笙本於所為以行刑模式殺了六名共產黨員，而後受迫遷徙至香港，香港三合會模式亦見其與此有所關連。
+
+目前已知清門全國性社會團有：中華正義社、中華安清會、中華安清協會，以及中華安清公益事業協會，中華安清巖社，台灣大中華家庭關懷協會等，至於地方性社團有，台北市安清協會，桃園一心安親會，台中安清協會，台南安清協會，杭三文化協會，台灣安清協會，高雄安清協會，屏東安清協會等；因彼此皆系出同門實有密切聯繫與相互支應更在家人般的親情互為支撐下有所作為。\[10\]
+
+## 傳聞
+
+據《[壹週刊](https://zh.wikipedia.org/wiki/壹週刊 "wikilink")》報導[香港現任港區](../Page/香港.md "wikilink")[全國人大代表及常務委員會成員](https://zh.wikipedia.org/wiki/全國人大代表 "wikilink")[范徐麗泰的父親與青幫有關](../Page/范徐麗泰.md "wikilink")，其父[徐大統是](../Page/徐大統.md "wikilink")[杜月笙的左右手](../Page/杜月笙.md "wikilink")。\[11\]
+
+據《[中國時報](../Page/中國時報.md "wikilink")》報導，與[尹清楓命案有關的](https://zh.wikipedia.org/wiki/尹清楓命案 "wikilink")[單亦誠在青幫中輩分極高](https://zh.wikipedia.org/wiki/單亦誠 "wikilink")，認識他的多稱他為「單將軍」或「單老爺子」，雖然他喜歡與影藝界來往，也收過很多乾女兒，但真正了解他的人並不多。\[12\]
+
+## 参见
+
+  - [洪门](../Page/洪门.md "wikilink")
+  - [白蓮教](../Page/白蓮教.md "wikilink")
+  - [华记](../Page/华记.md "wikilink")
+  - [十八](https://zh.wikipedia.org/wiki/十八 "wikilink")
+  - [洪帮](https://zh.wikipedia.org/wiki/洪帮 "wikilink")
+  - [小日向白朗屬青幫中的](../Page/小日向白朗.md "wikilink")「通」字輩
+  - [汪壽華](https://zh.wikipedia.org/wiki/汪壽華 "wikilink")
+  - [李士群](../Page/李士群.md "wikilink")
+  - [吴四宝](../Page/吴四宝.md "wikilink")
+  - [國民黨特工總部](https://zh.wikipedia.org/wiki/國民黨特工總部 "wikilink")
+
+### 青幫代表人物
+
+  - [杜月笙](../Page/杜月笙.md "wikilink")
+  - [張嘯林](https://zh.wikipedia.org/wiki/張嘯林 "wikilink")
+  - [黃金榮](https://zh.wikipedia.org/wiki/黃金榮 "wikilink")
+  - [季雲卿](https://zh.wikipedia.org/wiki/季雲卿 "wikilink")
+  - [陳其美](../Page/陳其美.md "wikilink")
+  - [徐寶山](https://zh.wikipedia.org/wiki/徐寶山 "wikilink")
+  - [張仁奎](https://zh.wikipedia.org/wiki/張仁奎 "wikilink")
+  - [夏雲飛](https://zh.wikipedia.org/wiki/夏雲飛 "wikilink")
+
+## 参考资料
+
+## 研究書目
+
+  - Brian G. Martin著，周育民等譯：《上海青幫》（上海：上海三聯書店，2002）。
+  - 孙江：〈[增上寺的香堂——1933年东北青帮代表团的访日之行](http://www.nssd.org/articles/article_read.aspx?id=25000840)〉。
+
+[Category:會道門](https://zh.wikipedia.org/wiki/Category:會道門 "wikilink")
+[Category:羅教](https://zh.wikipedia.org/wiki/Category:羅教 "wikilink")
+[Category:青幫](https://zh.wikipedia.org/wiki/Category:青幫 "wikilink")
+[Category:中華人民共和國非法組織](https://zh.wikipedia.org/wiki/Category:中華人民共和國非法組織 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.  Taylor, J. (2014) "Chiang Kai-shek and Chinese Modernization", First
+    Printing, p. 40
+8.  Mitter, R. (2004) *A Bitter Revolution: China's Struggle With the
+    Modern World*, Oxford University Press, p145
+9.
+10. [清門（青幫）官方網站](https://www.allfamily168.org)
+11. [揭范徐麗泰青幫父親身世](http://hk.next.nextmedia.com/template/next/art_main.php?iss_id=734&sec_id=1000853&art_id=3952270)
+    - 壹週刊 - 734期 - 時事， 2004年04月1日
+12. 單亦誠在青幫屬「通」字輩，在早年的軍中幫會中，地位崇高，[單亦誠是以第二十二代](https://zh.wikipedia.org/wiki/單亦誠 "wikilink")「通」字輩弟子領幫，已故[周宗泉少將及在尹案中被調查的前海軍上校祝本立](https://zh.wikipedia.org/wiki/周宗泉 "wikilink")，屬「悟」字輩，師承第二十二代「通」字輩的受業門生，而單亦誠為「通」字輩的老爺子，可見他在軍中的地位。
+    更新日期:[2011/06/21](http://news.chinatimes.com/focus/50108988/112011062100086.html)
+     03:06 呂昭隆／特稿 中國時報

@@ -1,0 +1,440 @@
+**邪教**是對某些具有不为熟悉的[信仰或](https://zh.wikipedia.org/wiki/信仰 "wikilink")[宗教行为](../Page/宗教.md "wikilink")，或被认为是奇怪的[宗教教派的帶有負面價值的評斷稱呼](https://zh.wikipedia.org/wiki/宗教派别 "wikilink")\[1\]
+也有学者这样定义邪教：邪教，就是利用宗教及其他文化形成[反社会的学说](https://zh.wikipedia.org/wiki/反社会行为 "wikilink")，并以此作为对他人[精神控制的手段](https://zh.wikipedia.org/wiki/精神控制 "wikilink")，实施危害社会行为的极端团体。\[2\]。根據不同人士所持不同[價值觀](../Page/價值觀.md "wikilink")，會對邪教有不同認定；因此这个词的使用被认为具[主观性](https://zh.wikipedia.org/wiki/主观性 "wikilink")。例如，基於不同權力鬥爭的形式，[世俗權力不時會點名稱呼一些教派為邪教](https://zh.wikipedia.org/wiki/世俗 "wikilink")。而被这个词指称的对象往往是一个特定社会里的少数人。目前，世界上只有美国宗教学术界摒弃使用这个主观概念，取而代之的是不含[贬义色彩的中性的](https://zh.wikipedia.org/wiki/贬义 "wikilink")「[新興宗教](../Page/新興宗教.md "wikilink")」概念\[3\]\[4\]\[5\]。伊朗的人民聖戰組織，前成員、學者Masoud
+Banisadr2005年表示，「如果你問我恐怖組織都是某種Cult組織，我的答案是肯定的。即使他們是作為一個普通的現代政黨或組織。”\[6\]
+
+## 词源
+
+中文「邪教」一词中的“邪”来源于[佛教概念](../Page/佛教.md "wikilink")[附佛外道的定义](../Page/附佛外道.md "wikilink")\[7\]
+\[8\]
+，其中的「邪」是用来称呼与所谓的正统佛教[教义抵触的教派](https://zh.wikipedia.org/wiki/教義 "wikilink")。
+唐玄宗议论[摩尼教时也用](../Page/摩尼教.md "wikilink")「邪见」称呼摩尼教教义\[9\]。宋朝时，已有「邪教」的称谓\[10\]。与「邪教」相当的称谓还有源自早期道教的「左道」、「妖邪」等。
+
+《新興宗教研究中心期刊》主任認為，「邪教」一詞語自[明朝末期以來使用](../Page/明朝.md "wikilink")，其本意為「非正統教義（heterodox
+teachings）」。\[11\]
+
+英文中，被认为最贴切于中文「邪教」的词汇是「cult」。英文中「cult」一词於某些情況下含有貶義，但其負面色彩远没有中文「邪教」一词强烈，並且可以於其他不涉及宗教或非負面的情況下使用，例如[個人崇拜](https://zh.wikipedia.org/wiki/個人崇拜 "wikilink")
+(Cult of Personality)
+或[邪典電影](https://zh.wikipedia.org/wiki/邪典電影 "wikilink")
+(Cult Film)。某些新兴宗教的支持者认为邪教一词的英文翻译用 「evil cult」更为妥当。\[12\]
+
+将「邪教」(cult)
+的概念引入到社会学分类的是美国社会学家。贝克尔的邪教源于主流宗教文化以外的观点，加剧了邪教组织与主流宗教之间的矛盾。\[13\]
+邪教与“异见教派”（）不同；异见教派是宗教分歧的产物，在信仰和行为上保持着与传统主流宗教的连续。\[14\]
+
+## 相对性
+
+邪教簡而言之就是「邪惡的教派」，但教派有什麼教義，有什麼宗教傳統，才算是[邪惡](https://zh.wikipedia.org/wiki/邪惡 "wikilink")，就相當因人而異。
+
+對於[道德相對主義者來講](https://zh.wikipedia.org/wiki/道德相對主義 "wikilink")，邪惡只不過是方便製造概念的詞語（例如[邪惡博士](../Page/邪惡博士.md "wikilink")），並不意味這個概念是客觀或有用。邪教一詞於[原教旨主義者及](../Page/原教旨主義.md "wikilink")[世俗主義者之間又容易有衡突](https://zh.wikipedia.org/wiki/世俗主義 "wikilink")，雖然雙方都不反對邪惡觀念存在，但在理解上卻南轅北辙。各教派所司之事雖然是信仰事宜，但亦涉及很多人間之事，往往免不了與世俗權力妥協，不同教派不獲得世俗權力接納程度不同，因而出現互相指責對方為邪教、[異端或](../Page/異端.md "wikilink")[附佛外道等](../Page/附佛外道.md "wikilink")，有些世俗權力或人士甚至出於不同目的點名指一些教派為邪教。
+
+邪教的邪恶性通常表现在它对所在社会造成的冲击。通常被称为邪教的教派的教义会与当时的社会道德准则冲突。这种特性导致某些宗教在某个社会环境下被称为邪教，而在另一些社会环境下不被称为邪教。
+
+另外，亦有部份人由於「邪」字本身所含明顯的貶義，主張以較為客觀的基礎去使用「邪教」此一稱呼。主張此說者通常會摒棄純信仰、純哲理等等方面的分歧，而以保障生命和財產為分野。即是說，當某宗教或宗派的主張與主流相異時，若不同處只是純粹在於信仰上、屬靈上、哲理上等形而上的範疇，則不應稱此為「邪教」。而當其主張直接危及別人生命（例如在[東京發動](https://zh.wikipedia.org/wiki/東京 "wikilink")[沙林毒氣襲擊的](https://zh.wikipedia.org/wiki/沙林毒氣 "wikilink")[奧姆真理教](https://zh.wikipedia.org/wiki/奧姆真理教 "wikilink")）、危及信徒生命（例如教導信徒集體自殺的[大衛教派](../Page/大衛教派.md "wikilink")）、謀財（例如唆使信徒賣淫並從中取利的青龍教）、滿足部份人的性慾（例如[家庭國際](../Page/家庭國際.md "wikilink")）等等，才應被稱為「邪教」。
+
+## 相关研究
+
+雖然现在大多數學者不再将任何新的宗教運動称呼為邪教，一些社會學家仍然贊成保留這個称呼。其他一些學者和非學術界的研究者在使用這個詞时将批判的重點放在邪教團體和参与者之间的關係上。这些批评的前提是邪教團體以某種形式的強制勸說或精神控制來招募會員，压抑他们的[理性](https://zh.wikipedia.org/wiki/理性 "wikilink")[思维能力](https://zh.wikipedia.org/wiki/思辨能力 "wikilink")，並使他们丧失为自己作出最佳利益选择的能力。现在大多數社會科學家認為在研究宗教運動中精神控制的理論并沒有获得科學印证。
+
+对邪教的研究主要集中在以下几个方面。
+
+### 精神控制
+
+精神控制的研究发现，強制勸說常常通过若干關鍵步骤完成：\[15\]\[16\]
+
+  - 参入者的身體或情緒被处于一种不安的状况；
+  - 他們的所有問題被歸結為一個簡單的解釋，并且这个解釋被反复強調；
+  - 他們常常得到一個有魅力的領導人或群体的無條件的愛和接納；
+  - 他們在组织内得到了一個新的身份；
+  - 他們被与朋友、親戚和[主流文化隔離开](https://zh.wikipedia.org/wiki/主流 "wikilink")，接触外部资讯受到嚴格控制。\[17\]
+
+但是，并不是所有的研究者都同意这种观点。\[18\]\[19\]\[20\]\[21\]美国\[22\])
+在1990年指出，没有足够的研究就此事達成共識，而且「不應該自動将人身強制和控制的技术等同于非物质性的強制和控制的技术」。
+
+### 潛在危害
+
+根据[拉特格斯大學](https://zh.wikipedia.org/wiki/拉特格斯大學 "wikilink")[社會學教授](https://zh.wikipedia.org/wiki/社會學 "wikilink")
+Benjamin Zablocki
+的观点，被定性為邪教的团体存在[虐待會員的高風險](../Page/虐待.md "wikilink")。部分原因是成員对富有魅力的领袖的阿諛奉承造成了領袖泛用权力。Zablocki
+教授对邪教的定义是由要求绝对效忠的[崇拜關係构成的一种具](../Page/崇拜.md "wikilink")[意識形態的组织](../Page/意識形態.md "wikilink")。\[23\]
+其他一些研究指出，对被认为是邪教组织最常见的指控是[性虐待和建議他們的成員不要使用常规的醫療服務](../Page/性虐待.md "wikilink")。\[24\]
+
+### 加入组织
+
+邁克爾·朗格尼給出了三個转变信仰参加邪教的不同的模式。根據朗格尼的審議模式 (deliberative
+model)，人們說，加入邪教組織主要是因為他們怎樣看待一個特殊的群體。朗格尼指出，這種觀點是在社會學家和宗教學者中间最受到支持。根據「[心理動力學模型](../Page/心理动力学.md "wikilink")」(psychodynamic
+model)，個人選擇參加是为了[潛意識的心理需求](../Page/潛意識.md "wikilink")。这种观点在心理健康專業人員中间比较流行。最後，人們加入不仅仅是因為自己的心理需求，同时也受到邪教的心理操縱的影响。朗格尼聲稱，這些拥有丰富的与邪教信徒直接接触经验的心理健康專家们傾向於贊成最後一種看法。\[25\]
+
+一些學者青睞于某一個或几种混合的观点。也有学者指出，参加邪教是为了寻求社区团体和精神探索\[26\]。有人甚至质疑「转变信仰」的概念是否正确，有人可能只是希望从属于某个社团\[27\]。
+
+### 退出组织
+
+对「邪教」(成員退出后必须承担后果的说法，布羅姆利和哈登社會學家注意到缺乏[实验证据支持](https://zh.wikipedia.org/wiki/实验 "wikilink")，但却有大量实验證據反對这个说法。这些实验證據包括絕大部分的退出离开发生在他们参加的兩年之内，也包括絕大部分的退出是他们自己的意願，其中三分之二（67％）認為「這種體驗使他们更开智」。\[28\]
+
+研究显示，退出邪教組織后的創傷并没有统一模式。雖然出现心理和社會問題在脱离后並不少見，这些問題的特点和強度大大依賴於個人的特點和作为邪教成員时的经历、为什么要退出以及退出的方式。\[29\]
+
+「[瑞典政府](../Page/瑞典.md "wikilink")[新興宗教運动](../Page/新興宗教.md "wikilink")（调查）委員會」1998年的報告指出，絕大多數新興宗教成員从中獲得正面的經驗，他们的退出也没有经历创伤。雖然該報告描述了极少數退出的人需要帮助（100每50,000人），該報告沒有建議任何额外政府資源以帮助他們的康復，因為這些案件是非常罕見的。\[30\]
+
+## 定义和特徵
+
+在仍然贊成保留邪教這個詞的研究者中，史蒂夫·哈桑 (Steve Hassan)
+的[精神控制研究对邪教的定义和特徵研究比较具代表性](https://zh.wikipedia.org/wiki/精神控制 "wikilink")。\[31\]
+在2000年出版的《释放束缚：使人们能够为自己着想》（Releasing the Bonds: Empowering People to
+Think for Themselves）一书中，他分别从行为、资讯、思维和情绪四个方面对邪教作出描绘：
+
+  - **行为控制**
+      - 强硬的[清規且有责罚制度](https://zh.wikipedia.org/wiki/清規 "wikilink")
+      - 居住环境，家人、情人、同居者、甚至往来者受到规范
+      - 衣着打扮等受到规范
+      - 食物受到规范
+      - 睡眠受到规范
+      - 无自由休闲的空间
+      - 教义的授课及组织活动（如[念经](https://zh.wikipedia.org/wiki/念经 "wikilink")、[膜拜](https://zh.wikipedia.org/wiki/膜拜 "wikilink")、[冥想等](../Page/冥想.md "wikilink")）占去生活中最大部份的时间
+      - 主要决定不能自作，必先取得批准
+      - 须汇报思想，将自己感受与行动报告给上层幹部
+      - 集体思维高于个人
+
+<!-- end list -->
+
+  - **资讯控制**
+      - 使用谎言，包括控制消息，歪曲资讯
+      - 减低教外信息的散布或不鼓励接触这些，包括对教批评的说话，和使成员过度忙碌以至无暇接触外界
+      - 形成成教内和教外对垒的局面，由教主决定谁可知甚么
+      - 鼓励教徒互相举报，成立相互监督制度
+      - 大量并广泛使用教义和由教派传播的信息，并大肆宣传
+
+<!-- end list -->
+
+  - **思维控制**
+      - 须全然依赖並服从教主或講師
+      - 将教义定为真理，宣扬非黑即白的[二元思维论](https://zh.wikipedia.org/wiki/二元思维论 "wikilink")
+      - 不能批评教主或教义
+      - 使用特殊语言代替常规的思想表达
+      - 压制思考，只容许“好”及“正确”的想法，否定批判、理性想法以及建设性的批评
+      - 長期冥想，咏唱[咒语和祷告](https://zh.wikipedia.org/wiki/咒语 "wikilink")
+      - 不准容纳别的信仰
+
+<!-- end list -->
+
+  - **情绪控制**
+      - 使人的感受受到控制
+      - 相信所有问题都是自己的错，而教主或幹部是不会错的
+      - 过度夸大罪恶感
+      - 过度夸大恐惧，包括怕自由意志，怕外界，怕敌人，怕失去救赎，怕离开教派，怕遭否定
+      - 使用过大的情绪波动来控制人
+      - 強迫人公开悔罪
+      - 出现非理性的恐惧，比如害怕领导人，害怕离开，不会反驳领导，如离开即对前途无信心
+      - 教外没有快乐可言，故不能离去
+      - 对離開教派者杯葛
+      - 離開教派即属堕落
+      - 離開教派即有災祸
+
+根据《[文汇报](https://zh.wikipedia.org/wiki/文汇报 "wikilink")》援引法国研究人员的成果，相对于正常宗教而言，邪教拥有如下十个特征：\[32\]
+
+1.  对其信徒实行[精神控制](https://zh.wikipedia.org/wiki/精神控制 "wikilink")，信徒必须遵循“精神领袖”的旨意而行动。
+2.  通过信徒大肆敛财。
+3.  脱离正常社会生活。
+4.  侵犯个人身体。
+5.  吸收儿童入会。
+6.  具有[反社会性质](https://zh.wikipedia.org/wiki/反社会 "wikilink")，即社会是如此“丑恶”，只有加入“教会”才能净化灵魂。
+7.  扰乱社会正常秩序。
+8.  不断引起司法纠纷。
+9.  经常性地转移资金。
+10. 试图渗入公共权力机构，以求扩大影响。
+
+## 政治因素的影响
+
+在[政治上](../Page/政治.md "wikilink")，[宗教可能可以成为有力的辅助](../Page/宗教.md "wikilink")，也可能成为影响安定的主要因素。全球各政府对新興宗教组织的态度各异，但有些政府认为应该将“邪教”组织与“合法”的宗教组织区别对待。\[33\]
+比如，法国和比利时接受邪教组织“洗脑”的观点，但欧洲其他国家像瑞典和意大利则小心对待“洗脑”理论，而对新興宗教组织采用更中性的态度。
+\[34\] 政治因素对邪教定义的影响最显著的例子就是基督教的地位在罗马帝国时期的戏剧性变化。
+
+### 羅馬帝國與基督教
+
+在[基督教创立初期](../Page/基督教.md "wikilink")，由于早期信徒的积极活动，教徒数目快速增长。[罗马帝国當局对这个新兴的宗教团体从忽视渐渐转变为重视](https://zh.wikipedia.org/wiki/罗马帝国 "wikilink")。有鑑於維護統治階層的利益的考量，羅馬帝國皇帝[尼祿當採用各種手段迫害基督徒](https://zh.wikipedia.org/wiki/尼祿 "wikilink")，將基督教定為邪教，並將其成員送入鬥獸場任野獸殺害。基督教受迫害三百年，直到4世纪罗马元首[君士坦丁大帝在位期间基督教的地位才发生了翻天覆地的变化](../Page/君士坦丁大帝.md "wikilink")。由于这位皇帝宣佈歸信基督教，因此基督教也從所謂的「邪教」被合法化爲罗马帝国的[国教](https://zh.wikipedia.org/wiki/国教 "wikilink")。基督教取得统治地位后，又以其他宗教为[异端邪教](https://zh.wikipedia.org/wiki/异端 "wikilink")，[東罗马帝国皇帝](https://zh.wikipedia.org/wiki/東罗马帝国 "wikilink")[狄奥多西二世曾经在](https://zh.wikipedia.org/wiki/狄奥多西二世 "wikilink")435年颁布命令，禁止[犹太人以外的异教徒儀式](../Page/犹太人.md "wikilink")，將异教徒神廟改成基督教堂，反抗者处以死刑。\[35\]\[36\]
+
+### 美國與人民圣殿教
+
+[人民聖殿教](https://zh.wikipedia.org/wiki/人民聖殿教 "wikilink")，全稱是“人民聖殿基督徒（使徒）教會”，原是由美國[基督教牧師](../Page/基督教.md "wikilink")[吉姆·瓊斯于](https://zh.wikipedia.org/wiki/吉姆·瓊斯 "wikilink")1955年在印第安納州創立的一個基督教教會，後逐漸演變為邪教。1978年11月，在教主瓊斯的帶領下，900多名信徒一起在南美洲的蓋亞那熱帶叢林為了「社会主义的荣耀」[集體自殺](../Page/集體自殺.md "wikilink")，該教從此被世人視為邪教之尤。
+
+瓊斯1977年接受《紐約時報》訪問時說「最崇拜的偶像是毛泽东。他还在传教过程中，讲他是[列宁的](https://zh.wikipedia.org/wiki/列宁 "wikilink")[转世](https://zh.wikipedia.org/wiki/转世 "wikilink")。他实际上是一个狂热的社会主义者。」\[37\]據《洛杉磯時報》\[38\]報導，記者問：「瓊斯的想法中，[馬克思主義和](https://zh.wikipedia.org/wiki/馬克思主義 "wikilink")[基督教哪個優先](../Page/基督教.md "wikilink")？」時，自殺慘案的倖存者之一斯里福（Silver）說：「瓊斯主要是一個[社會主義者](https://zh.wikipedia.org/wiki/社會主義 "wikilink")，接著，還是一個[無神論者](https://zh.wikipedia.org/wiki/無神論 "wikilink")。」
+
+因此琼斯曾设立了一个“人民论坛”，宣称对古巴欣喜若狂，常常流露向往[苏联和](../Page/苏联.md "wikilink")[古巴](../Page/古巴.md "wikilink")。1977年，琼斯带领近千名成员移至[南美圭亚那](https://zh.wikipedia.org/wiki/南美 "wikilink")，实现[社会主义理想](../Page/社会主义.md "wikilink")，在[圭亚那丛林建起社会主义农业公社](../Page/圭亚那.md "wikilink")（agriculture
+commune），取名[琼斯镇](https://zh.wikipedia.org/wiki/琼斯镇 "wikilink")。琼斯镇施行[共产主义暴政](../Page/共产主义.md "wikilink")，公社成员的[护照和](../Page/护照.md "wikilink")[财产被没收](https://zh.wikipedia.org/wiki/财产 "wikilink")，几十警卫白天晚在周围巡逻，禁止人们与外界联系。琼斯采用[毛主义常用的高音喇叭](https://zh.wikipedia.org/wiki/毛主义 "wikilink")[洗脑术](https://zh.wikipedia.org/wiki/洗脑 "wikilink")，说来自美国的[法西斯主义和各敌对势力正热衷破坏其社会主义试验](../Page/法西斯主义.md "wikilink")。
+
+他的信徒每天就像在劳改营一样，工作下来，还要斗私批修，批评和自我批评，就是从[毛澤東與](https://zh.wikipedia.org/wiki/毛澤東 "wikilink")[中国共产党那裏学来的](../Page/中国共产党.md "wikilink")。\[39\]《洛杉矶时报》提到，“圣殿教采用批评和自我批评，一种被毛泽东提倡的技术来加强纪律”。公社成员一天工作12小时，完了后要进行“自我批评”，谁没有完成任务，或对公社的成功表示出了怀疑，就受惩罚，或被剃头被戴黄帽子，殴打、虐待和[处死时有发生](https://zh.wikipedia.org/wiki/处死 "wikilink")。这些行为类同于[文革中剃](https://zh.wikipedia.org/wiki/文革 "wikilink")[阴阳头](../Page/阴阳头.md "wikilink")、戴高帽子游街。为了考验公社成员的忠诚，琼斯多次组织
+“集体自杀演习”。《[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")》报道，琼斯让人们喝了（假）毒药以后，让他们一个一个的站起来，回答“为什么为社会主义而死是自豪而荣幸的”。
+
+琼斯枪杀前来调查的国会议员[里奧·瑞恩后](../Page/里奧·瑞恩.md "wikilink")，召集全体公社社员“集体自杀”，\[40\]提到，死亡前的人们，口中喃喃自语，“让我们为革命而死。用我们的死，曝光这个[种族主义和](../Page/种族主义.md "wikilink")[法西斯的社会](https://zh.wikipedia.org/wiki/法西斯 "wikilink")。在这种伟大的革命自杀中而死，是多么美好啊！”。
+
+### 中华人民共和国政府与基督教、法轮功、全能神教等
+
+[路透社報導說](../Page/路透社.md "wikilink")，[無神論的](https://zh.wikipedia.org/wiki/無神論 "wikilink")[中國共產黨當局不允許其他意識形態挑戰其統治](https://zh.wikipedia.org/wiki/中國共產黨 "wikilink")，所有宗教活動必須經過它的批准。\[41\]《紐約時報》2014年文章稱，中國共產黨當局「反邪教」的目的在于加強政府控制。1949年中华人民共和国成立之後，「共產主義信仰」被推崇為中國人的「宗教」，中華傳統信仰備受打壓，文化大革命中，寺廟教堂被拆除、焚毀等，僧侶與神父被強迫還俗、婚嫁，削弱了儒家和佛教等傳統信仰體系。隨着中國的改革開放，中國人重新燃起對信仰的渴望，但在現階段，
+大量民眾依舊缺乏宗教常識，對各種宗教都相當反感；就像是100多年前的義和團一樣，「他們很容易就會把一切新興的、外來的宗教都視為邪魔外道，把所有的神職人員都視為自己的大敵。」\[42\]
+[中國政府公安部歷年認定邪教名單](../Page/中华人民共和国政府认定的邪教组织列表.md "wikilink")，2000年列出中央办公厅、国务院办公厅文件明确的邪教组织有7种，2005年、2014年名單公佈14種，不過被鎮壓的法輪功都未曾出現在名單內\[43\]\[44\]。
+
+路透社報導，[聯合國人權專員在](https://zh.wikipedia.org/wiki/聯合國 "wikilink")2010年在[聯合國大會上報告關切中國信仰自由問題](https://zh.wikipedia.org/wiki/聯合國大會 "wikilink")，他指出法輪功等社會弱勢信仰團體經常被指责為「邪教」，因此常受社會歧視、甚至升級為針對「顛覆陰謀」的打擊\[45\]。
+
+外媒報導，共產黨當局2018年6月以來，在全中國校園掀起抵制宗教信仰的運動，「用強行灌輸、威脅恐嚇、誘騙舉報等手段對學校的孩子進行洗腦，以達到徹底剷除宗教的最終目的。」不讓學生相信任何宗教，只讓相信[共產黨](https://zh.wikipedia.org/wiki/共產黨 "wikilink")[無神論](https://zh.wikipedia.org/wiki/無神論 "wikilink")，當局人員把[天主教](../Page/天主教.md "wikilink")、[基督教稱做](../Page/基督教.md "wikilink")「邪教」，要求學生舉報有宗教信仰的父母同學，有宗教信仰的學生，也將被學校上報上級部門。\[46\]\[47\]
+
+有大學生被施壓，若不放棄基督教信仰，就拿不到畢業證書。
+
+### 基督教中國家庭教會
+
+中國共產黨當局，查封基督教[中国家庭教会](https://zh.wikipedia.org/wiki/地下教會 "wikilink")，並稱一些家庭教會為邪教，例如華南教會等等。例如伊春當局稱，不參與（共產黨控制、政治色彩浓厚的）[三自愛國教會的](https://zh.wikipedia.org/wiki/三自愛國教會 "wikilink")，就是邪教\[48\]\[49\]\[50\]\[51\]。
+
+黎广强及另外两名中国人因為運送《圣经》提供给福建省地下教会被抓，被以“利用邪教破坏法律实施”的罪名提起公诉，后被以「非法经营罪」分别判处两年及三年有期徒刑。\[52\]
+
+對華援助協會《中國大陸境內基督教會和基督徒遭受政府逼迫的
+2015年度報告》報告稱，中共政權把家庭教會當成對政權有威脅的「邪教」來看待，中共的最終目的就是全面取消非三自教會。\[53\]外媒報導，當局人員例如浙江某中學亦稱，當局已將「天主教、基督教定為『邪教』，絕對不能信，要信只能信共產黨。」\[54\]
+
+#### 中國共產黨
+
+《紐約時報》2014年刊登文章稱，自共產中國建政後，所謂「共產主義信仰」被推崇為「宗教」；2014年6月1日，中共官媒中央電視台公布「邪教組織的六個特徵」，包括個人崇拜、無視道德以及限制人身和精神自由等等。該文章稱，所有六大特徵，都能在共產中國找到現實證據。都有意地將它指向共產黨自身，含蓄地發表評論道：感謝政府感謝黨，我終於知道哪個才是最大的邪教了。\[55\]不少網民揶揄這說的是中共。\[56\]。
+
+#### 全能神
+
+#### 法輪功
+
+法轮功是一種氣功修煉，广泛传播于[陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[台两岸以及](https://zh.wikipedia.org/wiki/台湾 "wikilink")[美](../Page/美国.md "wikilink")、[欧](../Page/欧洲.md "wikilink")、[澳洲等超過](../Page/澳大利亚.md "wikilink")70個國家\[57\]
+，依據中國政府在1999年以前的估計，大約7000萬人到上億人修煉\[58\]，主管機關是中國政府國家體育委員會（而非宗教局）。1996年後時任[中共黨總書記江澤民當局改變](https://zh.wikipedia.org/wiki/中國共產黨中央委員會總書記 "wikilink")[胡耀邦政府對氣功的三不政策](../Page/胡耀邦.md "wikilink")，黨媒開始批評法輪功。1999年因修炼法輪功的人數太多，[江澤民發起了一場鎮壓法輪功的運動](https://zh.wikipedia.org/wiki/江澤民 "wikilink")\[59\]。美國國會众议院2010年要求停止鎮壓的605號決議文指「中共當局在過去十年，在世界範圍內以大量資源長期虚假宣传」\[60\]
+，中華民國[國會](../Page/立法院.md "wikilink")2004年決議指出，法輪功在數十國上億人修煉「促使社會道德提升，並使廣大的修煉民眾身心健康」，並指中共「發動全國宣傳機器，全面抹黑、污衊李洪志先生，故外界亦一再質疑，大陸當局一手炮製[天安門自焚案等事件](https://zh.wikipedia.org/wiki/天安門自焚事件 "wikilink")，意圖挑起一般人民對法輪功的仇恨。」\[61\]
+
+[BBC及一些觀察家指出](https://zh.wikipedia.org/wiki/BBC "wikilink")，中共高層對法輪功的態度存在分歧\[62\]\[63\]。在江澤民1999年鎮壓法轮功前一年，刚退休的前[全国人大常委会委员长](https://zh.wikipedia.org/wiki/全国人大常委会委员长 "wikilink")[乔石发起并亲自率团獨立調查法轮功数月](../Page/乔石.md "wikilink")，做出「法轮功于国于民，有百利而无一害」的結論報告提交中央政治局\[64\]\[65\]。
+
+加拿大前亞太司長[大衛·喬高引用](../Page/大衛·喬高.md "wikilink")[蒙特婁大學教授大衛](https://zh.wikipedia.org/wiki/蒙特婁大學 "wikilink")·歐比對法輪功的詳細研究結論指「法輪功不是邪教」；因報導法輪功獲得[普立茲獎的](https://zh.wikipedia.org/wiki/普立茲獎 "wikilink")《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》前北京分社社長[伊恩・約翰遜認為中共是以西方反邪教運動的合法性來掩蓋當局的鎮壓](../Page/张彦_\(美国记者\).md "wikilink")，因為法輪功不符合對邪教的共同定義，並指中共方面說法不被支持、從不允許法輪功受害者單獨受訪\[66\]。《[南華早報](../Page/南華早報.md "wikilink")》報導引述法國內政部反邪教小組表示「法輪功從未触犯法律，僅僅是一個遵守法國法律的自由的協會。我們不能濫用邪教這個詞，并把它用于任何一個宗教運動，無論是老的還是新的。根据法國法律，法輪功不該被稱作邪教。」\[67\]
+
+自由之家資深專家庫克2012年出席美國國會聽證會發表證詞說，「修煉法輪功的中國公民，目前依然生活在不斷遭受綁架和酷刑的威脅當中。法輪功及其創始人李洪志先生，以及各種同音字，一直是中國互聯網上被新聞檢查最嚴厲的字詞，而由任何(中共)國營媒體或由其外交官所提及的都是妖魔化標籤了的措辭。」\[68\]
+
+[國際特赦組織報告指出](../Page/國際特赦組織.md "wikilink")，北京當局於1999年7月後對法輪功修炼者的鎮壓，進行多方面的宣傳戰，並施加包括[劳改](../Page/劳动改造.md "wikilink")、意識型態改造（亦有稱"[洗腦](../Page/洗腦.md "wikilink")"）、再教育及法律範疇外的威脅措施（拘留、强制劳动及刑求等），有時導致學員死亡。\[69\]
+
+## 相关运动
+
+  - [取締反動會道門](https://zh.wikipedia.org/wiki/取締反動會道門 "wikilink")
+  - [610辦公室](https://zh.wikipedia.org/wiki/610辦公室 "wikilink")
+
+## 虛構作品
+
+在中國[武俠文化中常貶稱](https://zh.wikipedia.org/wiki/武俠文化 "wikilink")**魔教**，
+
+## 参考文献
+
+### 引用
+
+### 来源
+
+  - 书籍
+
+<!-- end list -->
+
+  - <cite id = Lewis2004>
+  - <cite id = StarkBainbridge>
+
+<!-- end list -->
+
+  - 期刊文章
+
+<!-- end list -->
+
+  - <cite id = Richardson93>
+  - <cite id = RichardsonIntrovigne>
+
+## 参见
+
+  - [被政府認定為邪教的團體列表](../Page/被政府認定為邪教的團體列表.md "wikilink")：[中华人民共和国政府认定的邪教组织列表](../Page/中华人民共和国政府认定的邪教组织列表.md "wikilink")
+  - [新興宗教](../Page/新興宗教.md "wikilink")
+  - [精神控制](https://zh.wikipedia.org/wiki/精神控制 "wikilink")、[洗脑](https://zh.wikipedia.org/wiki/洗脑 "wikilink")
+  - [異端](../Page/異端.md "wikilink")、[异教](https://zh.wikipedia.org/wiki/异教 "wikilink")
+  - [附佛外道](../Page/附佛外道.md "wikilink")、[外道](https://zh.wikipedia.org/wiki/外道 "wikilink")
+
+[Category:邪教](https://zh.wikipedia.org/wiki/Category:邪教 "wikilink")
+
+1.  [OED](https://zh.wikipedia.org/wiki/OED "wikilink"), citing
+    *American Journal of Sociology* 85 (1980), p. 1377: "Cults\[...\],
+    like other deviant social movements, tend to recruit people with a
+    grievance, people who suffer from a some variety of deprivation."
+
+2.  张纯琍,邪教·宗教·政治
+    [1](http://www.pacilution.com/ShowArticle.asp?ArticleID=155)
+
+3.  [Richardson](https://zh.wikipedia.org/wiki/#Richardson93 "wikilink"),
+    1993
+
+4.  [Lewis](https://zh.wikipedia.org/wiki/#Lewis2004 "wikilink"), 2004
+
+5.
+
+6.
+
+7.  《[摩訶止觀](https://zh.wikipedia.org/wiki/摩訶止觀 "wikilink")》卷十上：“邪人不同又為三：一、佛法外外道，二、附佛法外道，三、學佛法成外道。”
+
+8.  《[楞严经](https://zh.wikipedia.org/wiki/楞严经 "wikilink")》：“彼等群邪，亦有徒众，各各自谓，成无上道。我灭度后，末法之中，多此妖邪，炽盛世间，潜匿奸欺，称善知识，各自谓己，得上人法，玄惑无识，恐令失心，所过之处，其家耗散。”
+
+9.  ［唐］[杜佑](../Page/杜佑.md "wikilink")，《[通典](../Page/通典.md "wikilink")》卷40：“末摩尼本是邪见，妄称佛教”
+
+10. ［宋］[李心传](https://zh.wikipedia.org/wiki/李心传 "wikilink")，《建炎以来系年要录》卷76,：“食菜事魔，即今人所谓邪教也”
+
+11.
+
+12.
+
+13. [Richardson](https://zh.wikipedia.org/wiki/#Richardson93 "wikilink"),
+    1993 p. 349
+
+14. [Stark and
+    Bainbridge](https://zh.wikipedia.org/wiki/#StarkBainbridge "wikilink"),
+    1987 p. 124
+
+15. Galanter, 1989; Mithers, 1994; Ofshe & Watters, 1994; Singer,
+    Temerlin, & Langone, 1990; Zimbardo & leipper, 1991
+
+16. [Cordón, *Popular Psychology*
+    46–47](http://books.google.com/books?id=Uy1gmwcAgg4C&pg=PA46&lpg=PA46&dq=coercive+persuasion,+psychology&source=bl&ots=XAdQttkc02&sig=SPrlMB_4ggub6N49xR6RTgHk3wI&hl=en&ei=zB0YStrjFsyYtgf0tJDsDA&sa=X&oi=book_result&ct=result&resnum=6#PPA46,M1)
+
+17. Psychology 101, Carole Wade et al., 2005
+
+18. Gene G. James, *Brainwashing: The Myth and the Actuality* Fordham
+    University Quarterly, Volume LXI, June 1986
+
+19. Novit Evas, Bette *Interpreting the Free Exercise of Religion: The
+    Constitution and American Pluralism*, () pp. 91–3, UNC Press, ISBN
+    978-0-8078-4674-2
+
+20.
+
+21.
+
+22. *Society for the Scientific Study of Religion*, council meeting on 7
+    November 1990
+    [(Online)](http://rra.hartsem.edu/sssr/SSSR/BUSINESS/90.html)
+
+23. Dr. Zablocki, Benjamin  Paper presented to a conference, *Cults:
+    Theory and Treatment Issues*, 31 May 1997 in Philadelphia,
+    Pennsylvania.
+
+24. Kranenborg, Reender Dr. (Dutch language) *Sekten... gevaarlijk of
+    niet?/Cults... dangerous or not?* published in the magazine
+    *Religieuze bewegingen in Nederland/Religious movements in the
+    Netherlands* nr. 31 *Sekten II* by the [Free university
+    Amsterdam](../Page/阿姆斯特丹自由大学.md "wikilink") (1996) ISSN 0169-7374
+    ISBN 978-90-5383-426-8
+
+25. , *"Clinical Update on Cults"*, Psychiatric Times July 1996 Vol.
+    XIII Issue 7
+
+26. Galanter, Marc [M.D.](../Page/医学博士.md "wikilink")(Editor), (1989),
+    *Cults and new religious movements: a report of the committee on
+    psychiatry and religion of the American Psychiatric Association*,
+    ISBN 978-0-89042-212-0
+
+27. Bader, Chris & A. Demaris, *A test of the Stark-Bainbridge theory of
+    affiliation with religious cults and sects.* Journal for the
+    Scientific Study of Religion, 35, 285–303. (1996)
+
+28. Hadden, J and Bromley, D eds. (1993), *The Handbook of Cults and
+    Sects in America.* Greenwich, CT: JAI Press, Inc., pp. 75–97.
+
+29. F. Derks and the professor of psychology of religion Jan van der
+    Lans *The post-cult syndrome: Fact or Fiction?*, paper presented at
+    conference of Psychologists of Religion, [Catholic University
+    Nijmegen](../Page/奈梅亨拉德伯德大学.md "wikilink"), 1981, also appeared in
+    Dutch language as *Post-cult-syndroom; feit of fictie?*, published
+    in the magazine *Religieuze bewegingen in Nederland/Religious
+    movements in the Netherlands* nr. 6 pages 58–75 published by the
+    [Free university Amsterdam](../Page/阿姆斯特丹自由大学.md "wikilink") (1983)
+
+30. *Report of the Swedish Government's Commission on New Religious
+    Movements (1998)*, 1.6 The need for support
+    [(Swedish)](http://www.regeringen.se/info_rosenbad/departement/social/sou98_113/s98_113.pdf),[English
+    translation](http://www.cesnur.org/testi/swedish.htm)
+    The great majority of members of the new religious movements derive
+    positive experience from their membership. They have subscribed to
+    an idea or doctrine which corresponds to their personal needs.
+    Membership is of limited duration in most cases. After two years,
+    the majority have left the movement. This withdrawal is usually
+    quite undramatic, and the people withdrawing feel enriched by a
+    predominantly positive experience. The Commission does not recommend
+    that special resources be established for the rehabilitation of
+    withdraws. The cases are too few in number and the problem picture
+    too manifold for this: each individual can be expected to need help
+    from several different care providers or facilitators.
+
+31. [''Praise For *Releasing The Bonds: Empowering People to Think for
+    Themselves*](http://www.freedomofmind.com/resourcecenter/books/rtbpraise.htm)
+    , Freedom of Mind Center
+
+32.
+
+33.
+
+34. [Richardson and
+    Introvigne](https://zh.wikipedia.org/wiki/#RichardsonIntrovigne "wikilink"),
+    2001 pp. 144–146
+
+35.
+
+36. [Mos Maiorum
+    Foundation](http://mosmaiorum.org/persecution_list.html)
+
+37.
+
+38. 《洛杉矶时报》1978.12.10
+
+39.
+40. 《洛杉矶时报》1978.11.26
+
+41.
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+56.
+
+57. David Ownby, *[Falun Gong and the Future of
+    China](http://books.google.co.uk/books?id=Bwqkwx4SWS0C&printsec=frontcover&dq=ownby+falun&client=firefox-a&cd=1#v=onepage&q=&f=false)
+    ,* (Oxford University Press, 2008), ISBN 978-0-19-532905-6.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64. Benjamin Penny, "The Religion of Falun Gong," p 56.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.

@@ -1,0 +1,459 @@
+**陳莉敏**（，），[香港女性作家](../Page/香港.md "wikilink")、[網絡紅人及節目主持](../Page/網絡紅人.md "wikilink")，曾出版多本書籍，分享個人美容心得與經歷，亦主持過一些電視節目，因公開自己曾整容30次而令不少觀眾注意\[1\]；現亦從事醫學美容顧問、美食作家、創意達人、藝術總監等工作\[2\]。
+
+## 背景
+
+陳莉敏從小在單親家庭長大\[3\]\[4\]，父母分別為[台灣人和](https://zh.wikipedia.org/wiki/台灣人 "wikilink")[上海人](../Page/上海人.md "wikilink")，曾就讀[新北市私立聖心女子高級中學](../Page/新北市私立聖心女子高級中學.md "wikilink")，其後取得了[倫敦大學法律系學士學位](../Page/倫敦大學.md "wikilink")。她於1995年參加[香港小姐競選卻落選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")，同年開始任職某間美國航空公司的空中服務員至今\[5\]；1998年起也參與撰寫《[明報](../Page/明報.md "wikilink")》美容專欄「We
+Wet 二人組」、「Beauty
+Visit」，又陸續在《[壹周刊](https://zh.wikipedia.org/wiki/壹周刊 "wikilink")》、《[am730](https://zh.wikipedia.org/wiki/am730 "wikilink")》、《[旭茉Jessica](https://zh.wikipedia.org/wiki/旭茉Jessica "wikilink")》、《[美麗佳人](https://zh.wikipedia.org/wiki/美麗佳人 "wikilink")》（中國及香港）、《[ELLE](../Page/ELLE.md "wikilink")》、《[時尚芭莎](https://zh.wikipedia.org/wiki/時尚芭莎 "wikilink")》（中國）、《[新假期](../Page/新假期.md "wikilink")》\[6\]、《[Sunday
+More](https://zh.wikipedia.org/wiki/Sunday_More "wikilink")》、美黛拉、《[飲食男女](https://zh.wikipedia.org/wiki/飲食男女 "wikilink")》（私家廚房）等多本雜誌或論壇開設專欄，向讀者介紹時尚潮流、醫學美容知識，分享整形經歷。她是透過「TVB.com」而成為[網上騎師](https://evchk.wikia.org/zh/wiki/Web_J)，曾主持網上電台節目《IJ
+Chat Room》，並擔任《[K-100](../Page/K-100.md "wikilink")》「網上自由講」部份主持。
+
+2000年，陳莉敏出版第一本攝影集兼隨心散文，之後亦推出《百萬美容白老鼠》、《漂亮密令@美食》、《吃出美麗》、《沒女要翻身》、《沒女要翻身2：BITCH》、《你知道的她都整過
+──
+陳莉敏的美貌速成指南》\[7\]等書籍，題材包括美容行業揭秘、健康食譜、愛情與生活態度「[樂活](../Page/樂活族.md "wikilink")、為自己而活」；2006年開始撰寫
+[Yahoo！ Blog](../Page/雅虎香港.md "wikilink")「老娘的內衣」，瀏覽量超越9千萬；2007年兼任
+[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，開設個人帳號「beautyQQ」，繼續通過視頻向觀眾介紹相關範疇資訊，人氣視頻的點擊率逾6千萬\[8\]。2012至2014年，她分別以導師身份參加[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")《[盛女愛作戰](../Page/盛女愛作戰.md "wikilink")》、《[求愛大作戰](../Page/求愛大作戰.md "wikilink")》及《[沒女大翻身](https://zh.wikipedia.org/wiki/沒女大翻身 "wikilink")》，內容圍繞香港單身男女數字不斷上升的社會現象，收視不俗且引起坊間熱烈討論\[9\]\[10\]。
+
+2018年，陳莉敏替無綫電視擔任節目《[蝸居宅急變](https://zh.wikipedia.org/wiki/蝸居宅急變 "wikilink")》主持、統籌及美術指導\[11\]，使用「輕裝修、重裝飾」的方式改造狹小住宅單位而再受到觀眾注視\[12\]\[13\]\[14\]。同年，她還開設個人[微信公眾號](https://zh.wikipedia.org/wiki/微信公眾號 "wikilink")「樂活女皇陳莉敏」，更新美顏護膚、家居產品、藝術創作、烹飪等生活情報。此外，她師承[嶺南畫派](https://zh.wikipedia.org/wiki/嶺南畫派 "wikilink")[趙少昂弟子](../Page/趙少昂.md "wikilink")[譚聖卓](https://zh.wikipedia.org/wiki/譚聖卓 "wikilink")，習國畫兩年，善用頭髮、果皮、廢物、榴槤殻創作燈飾或其他藝術品\[15\]；2006年曾在[灣仔](../Page/灣仔.md "wikilink")「Club
+JJ's」（現已停業）舉行個人畫展，展出一系列原創油畫；2013年跟[美麗華商場及潮流熱點](https://zh.wikipedia.org/wiki/美麗華商場 "wikilink")「Mira
+Mall」合作，開辦「Queen's Wonderland」展覽，利用創意把時尚融入家居品中\[16\]。
+
+### 經營生意
+
+陳莉敏於2012年成立「QCB production
+house」，獨自拍攝、剪接和負責後期製作，為各大品牌製作宣傳影片。2014年，她再創立個人化妝刷具品牌「[SO
+By Queenie
+Chan](http://www.sobyqueeniechan.com/)」，為帶有按摩功能的化妝刷柄設計申請獨家專利，是全世界第一套具該項功能的化妝器具；2015年聯合設立品牌「美悅美盒（QeautyBox）」\[17\]，搜羅美妝時尚好物，並包裝在禮盒內。
+
+2017年，陳莉敏更創辦「小山洞工作室（Little Cave
+Workshop）」，除了擔任創意總監，工作室又會定期舉辦有關藝術文藝、心靈的課程；同時創建「Wearable
+Love」，將售賣美妝包所得的部分收益，幫助[母親的抉擇](../Page/母親的抉擇.md "wikilink")、[保護遺棄動物協會等慈善機構](https://zh.wikipedia.org/wiki/保護遺棄動物協會 "wikilink")\[18\]。
+
+## 演出作品
+
+### 劇集
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>首播</strong></p></td>
+<td><p><strong>劇名</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/無綫電視" title="wikilink">無綫電視</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2008年</p>
+<center></td>
+<td><p><a href="../Page/同事三分親.md" title="wikilink">同事三分親</a></p></td>
+<td><p>瞿美嬌（第47集）</p></td>
+</tr>
+<tr class="even">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="../Page/香港電視網絡.md" title="wikilink">香港電視網絡</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2012年</p>
+<center></td>
+<td><p><a href="../Page/三面形醫.md" title="wikilink">三面形醫</a></p></td>
+<td><p>鍾雪薇（Regina）（第47集）</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 電影
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>首映</strong></p></td>
+<td><p><strong>電影名</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>1999年</p>
+<center></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紫雨風暴" title="wikilink">紫雨風暴</a></p></td>
+<td><p>電視女主持</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2000年</p>
+<center></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/順流逆流" title="wikilink">順流逆流</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 電視節目
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>首播</strong></p></td>
+<td><p><strong>節目名</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="../Page/TVB8.md" title="wikilink">TVB8</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<center></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娛樂最前線" title="wikilink">娛樂最前線</a></p></td>
+<td><p>主持之一</p></td>
+</tr>
+<tr class="even">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong>無綫電視</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2010年</p>
+<center></td>
+<td><p><a href="../Page/千奇百趣香港地.md" title="wikilink">千奇百趣香港地</a></p></td>
+<td><p>演出</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2011年</p>
+<center></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姊妹淘_(電視節目)" title="wikilink">姊妹淘</a></p></td>
+<td><p>演出</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2012年</p>
+<center></td>
+<td><p><a href="../Page/盛女愛作戰.md" title="wikilink">盛女愛作戰</a></p></td>
+<td><p>導師之一</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2013年</p>
+<center></td>
+<td><p><a href="../Page/求愛大作戰.md" title="wikilink">求愛大作戰</a></p></td>
+<td><p>主持及顧問導師</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2014年</p>
+<center></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沒女大翻身" title="wikilink">沒女大翻身</a></p></td>
+<td><p>導師之一</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2018年</p>
+<center></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蝸居宅急變" title="wikilink">蝸居宅急變</a></p></td>
+<td><p>主持、統籌及美術指導</p></td>
+</tr>
+<tr class="odd">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/now寬頻電視" title="wikilink">now寬頻電視</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2011年</p>
+<center></td>
+<td><p><a href="../Page/撳錢.md" title="wikilink">撳錢</a></p></td>
+<td><p>主持之一</p></td>
+</tr>
+<tr class="odd">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/上視新聞綜合頻道" title="wikilink">上視新聞綜合頻道</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2014年</p>
+<center></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盛女，為愛作戰" title="wikilink">盛女，為愛作戰</a></p></td>
+<td><p>美術指導</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 音樂作品
+
+### 填詞
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>歌名</strong></p></td>
+<td><p><strong>歌手</strong></p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2007年</p>
+<center></td>
+<td><p>Don’t think just do（<a href="https://zh.wikipedia.org/wiki/普通話" title="wikilink">國語版</a>）</p></td>
+<td><p><a href="../Page/胡蓓蔚.md" title="wikilink">胡蓓蔚</a></p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2012年</p>
+<center></td>
+<td><p>Beautiful life</p></td>
+<td><p><a href="../Page/陳法拉.md" title="wikilink">陳法拉</a></p></td>
+</tr>
+<tr class="even">
+<td><p>白蛇詩（White Snake Poem）（兼聲演）</p></td>
+<td><p>David Liang（Shanghai Restoration Project）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 書籍
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>書名</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/國際標準書號" title="wikilink">國際標準書號</a></strong></p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2000年</p>
+<center></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/海濱圖書公司" title="wikilink">海濱圖書公司</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2005年</p>
+<center></td>
+<td><p>百萬美容白老鼠</p></td>
+<td><p>ISBN 9789882022652</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2006年</p>
+<center></td>
+<td><p>潮貓·愈壞愈愛</p></td>
+<td><p>ISBN 9789882022676</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2007年</p>
+<center></td>
+<td><p>漂亮密令@美食</p></td>
+<td><p>ISBN 9789882024427</p></td>
+</tr>
+<tr class="odd">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/萬里機構" title="wikilink">萬里機構</a>、<a href="https://zh.wikipedia.org/wiki/飲食天地出版社" title="wikilink">飲食天地出版社</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2007年</p>
+<center></td>
+<td><p>吃出美麗</p></td>
+<td><p>ISBN 9789621436979</p></td>
+</tr>
+<tr class="odd">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/經要文化出版有限公司" title="wikilink">經要文化出版有限公司</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2009年</p>
+<center></td>
+<td><p>老娘的內衣－－虛榮中女的樂活日誌</p></td>
+<td><p>ISBN 9789888005420</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2010年</p>
+<center></td>
+<td><p>空中老娘－－三萬呎高空的「飛傭」生涯</p></td>
+<td><p>ISBN 9789888005710</p></td>
+</tr>
+<tr class="even">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/青森文化" title="wikilink">青森文化</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2014年</p>
+<center></td>
+<td><p>沒女要翻身</p></td>
+<td><p>ISBN 9789888270903</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2015年</p>
+<center></td>
+<td><p>沒女要翻身2：BITCH</p></td>
+<td><p>ISBN 9789881438799</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2016年</p>
+<center></td>
+<td><p>不必做大眾女神, 立志做魅力女人</p></td>
+<td><p>ISBN 9789888380947</p></td>
+</tr>
+<tr class="even">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/廣西科學技術出版社" title="wikilink">廣西科學技術出版社</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2016年</p>
+<center></td>
+<td><p>你知道的她都整過 ── 陳莉敏的美貌速成指南</p></td>
+<td><p>ISBN 9787555104834</p></td>
+</tr>
+<tr class="even">
+<td><p>style="background:#FFF; color:#000" align="left"; colspan="3"|<strong><a href="https://zh.wikipedia.org/wiki/明窗出版社" title="wikilink">明窗出版社</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2018年</p>
+<center></td>
+<td><p>吾舍宅急變</p></td>
+<td><p>ISBN 9789888445844</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 獎項
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>獎項</strong></p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2014年</p>
+<center></td>
+<td><p>MARKies Awards 2015「最佳創意奬（<a href="../Page/YouTube.md" title="wikilink">YouTube</a> 影片「醜腳大翻身」）」</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/土豆網" title="wikilink">土豆網</a>「最佳時尚自頻道」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Ketchup" title="wikilink">Ketchup</a>》雜誌「最受歡迎 Blogger」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/me!" title="wikilink">me!</a>》雜誌「Magazine Beauty Awards Style Icon.」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>2016年</p>
+<center></td>
+<td><p>《e Media Plus》傑出數碼大獎2016「e+ 最強網絡美容天后大獎」</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 參考來源
+
+## 外部鏈接
+
+  -
+  -
+  -
+  -
+  - [陳莉敏 QueenieChan - 新浪博客](http://blog.sina.com.cn/u/1713547792)
+
+  -
+<!-- end list -->
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.

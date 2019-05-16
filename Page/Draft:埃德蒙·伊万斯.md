@@ -1,0 +1,168 @@
+[替代=illustration of crowing rooster facing the rising sun with a man,
+dressed in nightcap and sleeping gown, leaning out the window.
+Background shows two small figures walking along a fenced
+road.](https://zh.wikipedia.org/wiki/File:Randolph_Caldecott_illustration2.jpg "fig:替代=illustration of crowing rooster facing the rising sun with a man, dressed in nightcap and sleeping gown, leaning out the window. Background shows two small figures walking along a fenced road.")》下”杰克修建的房子“，由埃德蒙·伊万斯雕刻印刷，由[鲁道夫·卡尔德克特](https://zh.wikipedia.org/wiki/鲁道夫·卡尔德克特 "wikilink")（1887年）绘制。\]\]
+**埃德蒙·伊万斯**（Edmund
+Evans，），英国[维多利亚时代著名木刻家](../Page/维多利亚时代.md "wikilink")、彩色印刷师。伊万斯擅长[彩色印刷](../Page/彩色印刷.md "wikilink")，他制作出的图画十分精美，成为彩印技术风靡19世纪中期的一个重要原因。他曾与瓦尔特·克莱恩、鲁道夫·卡尔德克特、凯特·格林纳威和理查德·道尔等[插画师合作](https://zh.wikipedia.org/wiki/插画师 "wikilink")，创作出如今被视为儿童经典图书的作品。虽然有关伊万斯的背景资料不多，但他生前曾写过一本自传，记录了他在维多利亚时代伦敦的工作与生活。
+
+结束学徒期后，伊万斯另起门户开始做生意。到了19世纪50年代初，伊万斯印刷了俗称“黄纸书”的廉价小说封面，已经小有名气。19世纪60年代初，他与出版商罗德里奇合作，印刷儿童故事书以及图画书。他的初衷是为孩子们制作出精美别致、价格合理的图书。之后的三十年里，他每年都印刷许多书籍的封面，起初绘制插图的是克莱恩，后来是卡尔德克特和格林纳威。
+
+伊万斯使用的是一种雕版印刷术，主要用于印刷廉价连载故事书以及儿童书等对颜色种类要求少的书籍，通过节约成本来获利。不过，彩色[雕版印刷也支持通过混合多种色调而产生的新色](../Page/雕版印刷.md "wikilink")。该印刷过程较为繁琐，对印刷者的技巧要求很高，不然无法达到最佳效果。伊万斯眼光敏锐，关注细节，可以运用多达十几种的色块来印刷一张图画。到19世纪后半叶，他成为了英国最著名的木刻家和彩色印刷师。
+
+## 学徒时期和早期工作经历
+
+[替代=Twig shaped lettering in a center medallion, bottom left shows a man
+and woman in a harvested field, top left shows three young people
+picnicing in a field, top right shows two women, a man and two children
+beneath a tree, bottom right shows a man carrying a bundle of wood with
+a dog in a
+snowstorm](https://zh.wikipedia.org/wiki/File:Edmunds003.jpg "fig:替代=Twig shaped lettering in a center medallion, bottom left shows a man and woman in a harvested field, top left shows three young people picnicing in a field, top right shows two women, a man and two children beneath a tree, bottom right shows a man carrying a bundle of wood with a dog in a snowstorm")
+1826年2月23日，伊万斯出生于英国伦敦萨瑟克区，父亲名为亨利，母亲名为玛丽。\[1\]伊万斯在学校时很喜欢数学，但他也后悔没有选择学习拉丁语。\[2\]
+1839年，13岁的伊万斯在萨缪尔·本特利的印刷厂工作，\[3\]原本负责朗读的他因为[口吃](../Page/口吃.md "wikilink")，影响到了工作，便被调入跑腿的岗位。虽然工作时间很长，从早上七点一直持续到晚上九点或十点，但印刷工序以及制造书籍的过程深深地吸引了伊万斯。\[4\]
+本特利很快就发现了男孩的潜力，在看到他在石板上画的插画草图后，便安排他到木刻师伊本泽·兰德尔手下做学徒。
+
+1840年，伊万斯正式成为兰德尔的学徒。他的工作内容包括将图画草稿送给艺术家比如爱德华·丹泽尔审核，或者送给作者比如查尔斯·狄更斯。\[5\]\[6\]一年后，兰德尔创办了杂志《Punch》，1842年，他就将为这本新生杂志创作封面的工作交给伊万斯了。\[7\]伊万斯与迈尔斯·波克特·弗斯特、约翰·格林纳威和乔治·丹泽尔一起工作，成为好友。\[8\]
+弗斯特和伊万斯甚至成为了终生好友。当兰德尔接到《伦敦新闻画报》的委托，要为维多利亚女王和艾伯特亲王画像时，他派伊万斯和弗斯特前往巴尔莫勒尔城堡画草图，伊万斯负责雕刻。学徒期快结束时，《伦敦新闻画报》的工作量巨大，伊万斯总是工作到很晚，早上又需要早早上班。\[9\]
+[替代=young woman with upraised arms dressed in white gown under a bower
+with an open garden gate showing a farm in the
+background](https://zh.wikipedia.org/wiki/File:EdmundEvans_watercolor.png "fig:替代=young woman with upraised arms dressed in white gown under a bower with an open garden gate showing a farm in the background")
+1847年，21岁的伊万斯结束了学徒期，他拒绝了兰德尔的正式录用，而是选择自己开店。1848年，伊万斯为《伦敦新闻画报》制作了扉页插图，对方却从此中断合作，理由是他的木刻版画对报刊来说过于精美了。这时因为伊万斯已经接了不少的单，他便教授两个弟弟威尔弗雷德和赫伯特学习木刻，\[10\]购入了[印刷机](../Page/印刷机.md "wikilink")。
+
+19世纪50年代初，伊万斯为俗称为“黄纸书”的廉价小说设计封面，这种书因采用黄色的油滑纸张，而得此名，它也被称为“一元惊悚”、“铁路小说”、“黄泥书”。伊万斯改良了印刷技术，成为伦敦众多出版商的合作首选。\[11\]到了1853年，伊万斯成了伦敦黄纸书的首要印刷师。\[12\]伊万斯雇佣了乔治·克鲁克香克、费兹、鲁道夫·卡尔德特和瓦尔特·克莱恩等艺术家画配图。
+[替代=red-coated soldier lies half-prone propped against a tree with two
+other soldiers attacking with weapons against a forest background with a
+horse running
+off](https://zh.wikipedia.org/wiki/File:Death_of_the_Kingmaker_\(LIFE\).jpg "fig:替代=red-coated soldier lies half-prone propped against a tree with two other soldiers attacking with weapons against a forest background with a horse running off")
+在19世纪50年代中期，伊万斯和弗斯特前往苏格兰，为旅游导览丛书绘制草图。弗斯特为《湖边夫人》以及《乔治·赫伯特的诗集》画图，伊万斯负责木刻，最终在爱丁堡完成印刷。伊万斯曾评价过乔治·赫伯特的那一版木刻：“那些插图是我迄今刻过最好的。”\[13\]
+
+19世纪60年代，伊万斯最著名的作品是为詹姆斯·道尔的《英格兰编年史》，包含了80幅插图，也证明了他色彩大师的名头不是空穴来风。他的彩色木刻方法支持水彩混合重组。为了应对订单越来越多的订单，伊万斯在弗利特街租了一间房，添置了蒸汽机、锅炉等“许多额外的机器”。\[14\]
+
+1870年，伊万斯印刷了詹姆斯·道尔的弟弟理查德作图的《童话王国——精灵世界系列故事》，书中道尔描绘精灵们生活在“小鸟、蜗牛、蝴蝶、甲壳虫和他们一样大”的世界，伊万斯完成了他这套书里最大的一副版画。六七十年代，他已经雇佣了多达30名的雕刻师。\[15\]
+
+1864年，伊万斯与弗斯特的侄女玛丽·斯宾塞·布朗结婚，两人居住在萨里郡的维特里。在评价自己的工作时，伊万斯说：“（这份工作）可以让我全身心投入进去，雕刻时我需要留心色块的流动方向，而印刷时我需要注意油墨的深浅与组合。”只要一有空闲，他会去布莱顿散心，呼吸海边新鲜空气。\[16\]
+
+## 过程和技巧
+
+维多利亚时代，精美木刻作品的出现使得图书插画艺术开始流行。木刻版画可以追溯到欧洲以及亚洲。托马斯·贝维克于18世纪发明了该技术，19世纪该技术已经得到改善和普及，木刻师开始使用硬木板和金属雕刻工具。\[17\]常用的浮雕方法是在木块侧面上的纹路进行雕刻。但贝维克选择用刻刀雕刻木块尾端的纹路，\[18\]
+他将这个技巧传授给他的徒弟，其中就包括兰德尔，之后兰德尔又将技术传给伊万斯。 [替代=girl with waistlength hair
+sits on a red mushroom facing a young boy kneeling on the ground arms
+outstretched against a background of large flowers and
+leaves](https://zh.wikipedia.org/wiki/File:Richard_Doyle_-_Spurned_Suitor.jpg "fig:替代=girl with waistlength hair sits on a red mushroom facing a young boy kneeling on the ground arms outstretched against a background of large flowers and leaves")
+19世纪30年代，乔治·巴克塞特使得彩色浮雕印刷重新流行起来，这种被称为“chromoxylography”的方法“将凹版面刻满图案，再在复制版（通常是木质）上覆油墨。”伊万斯沿用了巴克塞特的工序，但稍作修改只用木质板。\[19\]伊万斯在制作《英格兰编年史》时，把每六页排在同一版面。道尔直接将插图画在木板上，创作彩色样板。一共有80张插图，每一张都运用了九或十块彩色木板，最后伊万斯再用印刷机做出成品。作为色彩大师，他有着熟练运用色彩的能力，还能利用细微色差来创造新色。伊万斯的作品之所以杰出，不仅因为木刻质量精细，还因为他能够用有限的墨色创造出令人耳目一新的效果。伊万斯的印刷过程包含好几个步骤。首先，拍下插图的线描图，将其印在木板上，雕刻线描图。\[20\]
+插画师为木板样张染色后，伊万斯会“决定先后顺序和排版…来最大还原插图的样貌。”\[21\]
+上色雕刻过后的木板各有各自的颜色。理想状态下，样板应该是忠实原画作的，但是伊万斯认为印刷出来的版本是比不上手绘版本的。他会仔细研磨和混合墨水，这样使雕版更像原版。最后，他会摆放木板的位置，使每个颜色都能在特定的纸面上色。为了节约成本，提高印刷效率，伊万斯会尽可能使用更少的颜色。\[22\]插图通常是在黑色的基调上完成的，配以一到两种浅色来做人物脸庞和手的肤色。每个颜色都是印在不同的雕刻木板上的，通常有五个到十个。最需要注意的是要保持正确的排列顺序，要在每个木板的特定位置打孔，这样才会使纸张精确对准位置。如果做得到位，各个颜色则会完全匹配，虽然有时也能看到在插图边缘看到墨线。\[23\]
+
+艺术家通常会直接在木板上反着画插图，或者有时由印刷师照着草图临摹到木板上。19世纪60年代以后，图画可以直接投射到木块上，但对印刷师来说，没有刻好的墨线也就意味着雕刻画作更困难了。\[24\]伊万斯曾经制作过的木板还会被用来印刷书籍，其中有些甚至“一个多世纪后仍在使用。”
+
+## 儿童图书
+
+评论家认为伊万斯最重要的作品就是世纪末与瓦尔特·克莱恩、凯特·格林纳威和鲁道夫·卡尔德特合作印刷的儿童图书，为童书出版带来革命性的改变。19世纪初，儿童图书经常是手工上色的，而伊万斯改良过的雕版印刷“为19世纪后二十年的孩子们带来了更精美的彩色图书。”1865年，伊万斯与罗德里奇出版社签约印刷故事书——每本六便士的六页平装书。他们“为儿童图书带来革命性的改变”，也加深了伊万斯与儿童图书插画师之间的联系。故事书的市场需求越来越大，伊万斯开始自己印刷出版，并寻找委托插画师。当需求远超过他个人所能完成的量时，他雇佣了其他木刻公司来完成订单。
+[替代=woman in patterned dress with lifted petticoats hangs using left
+hand to hang a sock from a laundry line while bending down to lift a
+garment from a laundry basket with right
+hand](https://zh.wikipedia.org/wiki/File:Sing_a_sing_of_sixpence_-_illustration_by_Walter_Crane_-_Project_Gutenberg_eText_18344.jpg "fig:替代=woman in patterned dress with lifted petticoats hangs using left hand to hang a sock from a laundry line while bending down to lift a garment from a laundry basket with right hand")
+为儿童提供图画书，以图片来主导文字，而非用插图来弥补文字的想法，在19世纪中期实属新理念。
+英属哥伦比亚大学的朱迪斯·萨特曼认为，伊万斯的版画作品在童书出版界的影响是极其大的，她认为他印出了维多利亚时代“儿童图书最显著的作品”，还有三位插画师的作品，也被视作“英美童书的开山之作。”伊万斯认为全彩印刷是一个很适合儿童图书插图的技术。伊万斯反对粗糙上色的童书插图，他认为图书是可以精致又平价的，只要印刷数量足够大就可以弥补成本。\[25\]
+
+## 晚期作品与隐退
+
+[替代=Illustration of a stout rabbit in a dress and apron buttoning the
+coat of a smaller rabbit with three other coat clad rabbits walking
+toward the background
+trees](https://zh.wikipedia.org/wiki/File:PeterRabbit4.jpg "fig:替代=Illustration of a stout rabbit in a dress and apron buttoning the coat of a smaller rabbit with three other coat clad rabbits walking toward the background trees")
+伊万斯最终转向使用三色印刷技术。\[26\]1902年，他应碧雅翠丝·波特之邀，用新发展起的三色技术印刷她的第一本书《小兔彼得的故事》中的水彩插图。ref
+name="British
+Library"\></ref>不过伊万斯在职业生涯末期也没有在所有的作品中应用三色技术。他在1902年为W.格莱姆·罗伯森的《古英语歌曲和舞蹈》印刷的成品被描述为“浑然一体”、“巧夺天工”。\[27\]
+
+1892年，伊万斯搬至怀特岛郡的文特诺，将印刷事业交给了他的两个儿子威尔弗雷德和赫伯特。他休业的具体时间未知。\[28\]
+60年代，伊万斯的孙辈将102页的文稿交给如瑞·麦克林恩，经过编辑整理，该书于1967年由牛津大学出版社出版。
+
+伊万斯逝世于1905年，埋葬于文特诺公墓。他的许多木刻作品都已被收入伦敦的圣布莱德[印刷博物馆](https://zh.wikipedia.org/wiki/印刷博物馆 "wikilink")。
+
+## 参考文献
+
+### 笔记
+
+### 引文
+
+### 来源
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+[Category:1826年出生](https://zh.wikipedia.org/wiki/Category:1826年出生 "wikilink")
+[Category:1905年逝世](https://zh.wikipedia.org/wiki/Category:1905年逝世 "wikilink")
+[Category:英国绘本作家](https://zh.wikipedia.org/wiki/Category:英国绘本作家 "wikilink")
+
+1.  McLean, *Evans*
+
+2.  Evans, pp. 4–7
+
+3.
+4.
+5.
+6.  Evans, pp. 9–10
+
+7.  Spielmann *Punch*, pp. 445–446
+
+8.  Spielmann, *Punch*, p. 16
+
+9.  Evans, p. 14
+
+10.
+11. Ray, p. 64
+
+12. Ray, p. 149
+
+13. Evans, p. 30
+
+14. Evans, p. 32
+
+15.
+16. Evans, p. 49
+
+17. Lundin, "Victorian Horizons"
+
+18. Gasgoigne, section 6.a
+
+19. Pankow, p. 22
+
+20. Spielmann, pp. 64–65
+
+21. Alderson, 1989
+
+22.
+23. Gasgoigne, section 68
+
+24. Gasgoigne, section 6.c
+
+25.
+
+26. Hardy, p. 272
+
+27. Ray, p. 176
+
+28. McLean, p. xvii

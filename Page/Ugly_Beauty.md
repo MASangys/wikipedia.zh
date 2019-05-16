@@ -1,0 +1,619 @@
+《**Ugly
+Beauty**》是臺灣歌手[蔡依林的第](../Page/蔡依林.md "wikilink")14張錄音室專輯，由[索尼音樂於](../Page/台灣索尼音樂娛樂.md "wikilink")2018年12月26日發行\[1\]。該專輯由音樂人[剃刀蔣](https://zh.wikipedia.org/wiki/剃刀蔣 "wikilink")、[陳星翰](https://zh.wikipedia.org/wiki/陳星翰 "wikilink")、蔡依林、[陳君豪與](../Page/陳君豪.md "wikilink")[陳奕凡共同製作](https://zh.wikipedia.org/wiki/ØZI "wikilink")，並與包括[陳信宏](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")、楊宥閑、[吳青峰](https://zh.wikipedia.org/wiki/吴青峰 "wikilink")、倪子岡與[宋念宇在內的音樂人合作](../Page/小宇.md "wikilink")\[2\]。該專輯曲風強烈多元且不同以往，以[流行音樂融合](../Page/流行_\(音樂類型\).md "wikilink")[嘻哈](../Page/嘻哈音樂.md "wikilink")、[電子](../Page/電子舞曲.md "wikilink")、[雷鬼](../Page/雷鬼音樂.md "wikilink")、[搖滾與](../Page/摇滚乐.md "wikilink")[節奏藍調等音樂元素](../Page/节奏布鲁斯.md "wikilink")\[3\]。該專輯回歸歌手內心層面，並以打破世俗審美標準與探討人類情感兩極為主題\[4\]。
+
+該專輯普遍獲得来自樂評人的正面評價，並被稱為是華語樂壇領先性製作水準的音樂作品\[5\]。該專輯於澳門、菲律賓、柬埔寨、馬來西亞、臺灣、香港、新加坡與中國大陸的專輯排行榜獲得第1名的最高成績，亦於包括土耳其、越南與智利在內的的專輯排行榜獲得前10名的最高成績\[6\]。該專輯截至2018年12月31日於中國大陸的數位專輯銷量超過22萬張，並使蔡依林成為中國大陸年度數位專輯銷量女歌手亞軍\[7\]。該專輯於2019年成為中國大陸史上港台女歌手單張數位專輯銷量冠軍\[8\]，亦使蔡依林成為中國大陸史上數位專輯總銷量港台女歌手冠軍\[9\]。
+
+## 背景
+
+2014年11月，蔡依林發行其個人第13張錄音室專輯《[-{zh-cn:Play; zh-hant:呸;
+zh-sg:呸}-](../Page/呸.md "wikilink")》，該專輯跳脫以往中文專輯框架，音樂飽滿複雜且主題包羅萬象\[10\]；該專輯於臺灣擁有超過8.5萬張的銷量\[11\]，使蔡依林登上臺灣年度唱片銷量排行榜第3名\[12\]，亦使其九度登上臺灣年度唱片銷量排行榜女歌手冠軍\[13\]；該專輯入圍[臺灣金曲獎十項獎項](../Page/金曲獎.md "wikilink")，並獲得[最佳國語專輯獎與](../Page/最佳國語專輯獎_\(金曲獎\).md "wikilink")[最佳演唱錄音專輯獎](../Page/最佳演唱錄音專輯獎_\(金曲獎\).md "wikilink")\[14\]；該專輯亦受到來自國際媒體的廣泛關注，包括美國《[時代](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》雜誌、西班牙《[GQ](../Page/GQ.md "wikilink")》雜誌、西班牙《[國家報](../Page/国家报.md "wikilink")》等主流媒體對該專輯的高度評價\[15\]，蔡依林亦憑藉該專輯被臺灣《[彭博商業周刊](../Page/彭博商业周刊.md "wikilink")》譽為「華人大舞曲家」，並稱其使國際了解華人舞曲的世界級水準\[16\]。蔡依林於2015年5月於臺灣臺北市展開其個人第4輪巡迴演唱會「[Play世界巡迴演唱會](https://zh.wikipedia.org/wiki/Play世界巡迴演唱會 "wikilink")」，該巡演與美國演唱會製作公司[Live
+Nation娛樂合作](https://zh.wikipedia.org/wiki/Live_Nation_Entertainment "wikilink")\[17\]，並於2016年7月於馬來西亞[吉隆坡結束](../Page/吉隆坡.md "wikilink")\[18\]；該巡演歷時一年零兩個月，共計於23個城市演唱34場次\[19\]。
+
+2016年7月，蔡依林表示開始籌備其個人第14張錄音室專輯\[20\]。同年9月，蔡依林與音樂人[艾利索合作](../Page/艾利索.md "wikilink")，發行英文單曲《[I
+Wanna
+Know](https://zh.wikipedia.org/wiki/I_Wanna_Know "wikilink")》\[21\]，之後二人亦於中國上海市舉辦的「[風暴電音節](https://zh.wikipedia.org/wiki/風暴電音節 "wikilink")」合作表演該歌曲\[22\]。同月，作為亞洲歌手代表出席於中國上海市舉辦的「[國際音樂峰會](https://zh.wikipedia.org/wiki/國際音樂峰會 "wikilink")－亞太峰會」\[23\]。同年10月，蔡依林與音樂人[陳星翰合作](https://zh.wikipedia.org/wiki/陳星翰 "wikilink")，發行單曲《[戀我癖](https://zh.wikipedia.org/wiki/戀我癖 "wikilink")》\[24\]。2017年，蔡依林發行一系列單曲，包括為[大愛電視](../Page/大愛電視.md "wikilink")「1+1
+你加我」活動演唱的主題曲《[讓愛傳出去](https://zh.wikipedia.org/wiki/讓愛傳出去_\(歌曲\) "wikilink")》\[25\]、與音樂人[硬威爾合作的英文單曲](../Page/硬威爾.md "wikilink")《[We
+Are
+One](https://zh.wikipedia.org/wiki/We_Are_One_\(歌曲\) "wikilink")》\[26\]、為臺灣動畫電影《[幸福路上](https://zh.wikipedia.org/wiki/幸福路上_\(電影\) "wikilink")》演唱的[同名主題曲](https://zh.wikipedia.org/wiki/幸福路上_\(歌曲\) "wikilink")\[27\]與為中國大陸電影《[捉妖記2](https://zh.wikipedia.org/wiki/捉妖记2 "wikilink")》演唱的主題曲《[什麼什麼](https://zh.wikipedia.org/wiki/什麼什麼 "wikilink")》\[28\]。2018年1月，蔡依林發行現場專輯《[Play世界巡迴演唱會](https://zh.wikipedia.org/wiki/Play世界巡迴演唱會_\(專輯\) "wikilink")》，該專輯記錄蔡依林於2015年5月於臺灣臺北市[臺北小巨蛋舉辦的](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")「Play世界巡迴演唱會」臺北場的現場表演內容\[29\]。
+
+## 發展
+
+2016年11月，蔡依林於[Instagram透露其於瑞典音樂製作公司The](../Page/Instagram.md "wikilink")
+Kennel與曾與其於專輯《[-{zh-cn:Play; zh-hant:呸;
+zh-sg:呸}-](../Page/呸.md "wikilink")》中合作歌曲《I'm Not Yours》、《Miss
+Trouble》與《不一樣又怎樣》的音樂人Hayley Aitken、Olof Lindskog與Johan
+Moraeus合作\[30\]。2017年7月，蔡依林表示音樂人[陳信宏提出專輯合作邀請](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")\[31\]。同月，蔡依林出席「[MTV全球華語音樂盛典](https://zh.wikipedia.org/wiki/MTV全球華語音樂盛典 "wikilink")」，並表示：「收曲的進度大概有八成，但是歌詞還沒收完，每次收歌判定的方式都不一樣，這次是要聽從身體的聲音，如果有興奮想要表達的感覺，那就對了\[32\]」，亦表示：「每首的曲和詞都在認真聽，我會選擇新的定位，會根據年齡做一些改變，也知道自己的聲音會有哪些可能性。\[33\]」同月，蔡依林經紀人王永良表示蔡依林已全力投入專輯製作，並表示該專輯製作預算超過新臺幣1億元，亦表示該專輯製作模式有別以往，且將自組團隊製作歌曲、拍攝MV與後期宣傳\[34\]。同年9月，蔡依林表示已完成兩首歌曲的錄製，但表示該專輯製作進度嚴重落后\[35\]。同年12月，蔡依林接受中國大陸《[華西都市報](../Page/华西都市报.md "wikilink")》專訪表示該專輯預計於翌年夏季發行，並表示：「目前的喜好似乎不是偏在[EDM](../Page/電子舞曲.md "wikilink")，但我覺得不同的歌曲可以有EDM的編曲，讓聽眾有耳目一新的感覺，因為我也不知道EDM會不會是歌迷很喜歡的東西，專輯關於EDM的東西可能不會很多，但我不排斥在現場演出時加入這樣的曲風。\[36\]」
+
+2018年2月，蔡依林於Instagram透露其於泰國錄音室Karma Sound Studios與音樂人Richard Craker、Rhys
+Fletcher、Alex
+Sypsomos與楊宥閑合作\[37\]。同月，蔡依林表示已開始為該專輯挑選主打歌曲\[38\]。同年5月，蔡依林接受中國大陸《[尼龍](https://zh.wikipedia.org/wiki/Nylon "wikilink")》雜誌專訪表示已為該專輯收錄11首歌曲並已完成4首歌曲的錄製，亦表示其為更認識自我與專輯而於近期研讀[腦科學](../Page/神经科学.md "wikilink")、心理學與[莊子相關的書籍](../Page/庄子.md "wikilink")，並表示該專輯「應該是最誠實的專輯」\[39\]。同年6月，蔡依林發行為[騰訊遊戲](../Page/腾讯.md "wikilink")《[地下城與勇士](../Page/地下城与勇士.md "wikilink")》演唱的十週年主題曲《[我對我](https://zh.wikipedia.org/wiki/我對我 "wikilink")》；蔡依林表示專輯歌曲音樂風格與該代言歌曲音樂風格不同，並表示專輯歌曲音樂風格多樣，包括從未演繹過的音樂風格\[40\]；蔡依林經紀人王永良亦表示該專輯製作進度已有五成，並表示該專輯預計於同年年末發行\[41\]。同月，蔡依林接受[QQ音樂](../Page/QQ音乐.md "wikilink")《樂見大牌》節目專訪表示該專輯收錄其個人詞曲創作，並表示專輯音樂風格舞曲偏多\[42\]。同年9月，蔡依林經紀人王永良表示蔡依林已投入專輯歌曲MV前置工作\[43\]。同年10月，蔡依林經紀人王永良表示蔡依林預計於同月完成專輯歌曲的錄製，並表示預計於翌月開始拍攝專輯封面與MV，亦表示該專輯於同年12月發行\[44\]。同年11月，蔡依林於新浪微博透露已完成專輯歌曲的錄製\[45\]。
+
+## 創作與製作
+
+2018年12月21日，該專輯的首波主打歌曲《[怪美的](https://zh.wikipedia.org/wiki/怪美的 "wikilink")》發行\[46\]。該歌曲由曾獲得[臺灣金曲獎最佳作詞人獎且曾與蔡依林合作歌曲](../Page/最佳作詞人獎_\(金曲獎\).md "wikilink")《迷幻》、《柵欄間隙偷窺你》與《彩色相片》的音樂人[吳青峰作詞](https://zh.wikipedia.org/wiki/吴青峰 "wikilink")；蔡依林表示曾讓吳青峰四次修改該歌曲的歌詞，吳青峰表示：｢我覺得她（蔡依林）對於音樂真的要求越來越高了，但這是對自己內在的要求，不是對別人的眼光，覺得很不一樣！\[47\]」該歌曲由音樂人Rhys
+Fletcher、楊宥閑、Richard
+Craker、蔡依林與[陳星翰共同作曲](https://zh.wikipedia.org/wiki/陳星翰 "wikilink")，蔡依林表示：「自由的創作過程中，我探索出讓自己感動的聲音，而且跟不同的創作營合作，給我很大的推進力，一起做音樂討論、用不同的語言方式去表達你想要什麼，除了蠻過癮、蠻好玩之外，作品應該會讓大家聽了跟我一樣很有感覺！\[48\]」該歌曲由曾與蔡依林合作歌曲《[-{zh-cn:呸;
+zh-hant:Play 我呸; zh-sg:Play
+我呸}-](https://zh.wikipedia.org/wiki/Play_我呸 "wikilink")》、《I'm
+Not Yours》與《Miss
+Trouble》的陳星翰編曲，該歌曲的編曲融合不同的音樂風格與背景和聲，包括俏皮的嘴唇摩擦聲、強烈的[鼓打貝斯與後半段作為點綴的饒舌](../Page/鼓打貝斯.md "wikilink")\[49\]。該歌曲由陳星翰與蔡依林共同製作，蔡依林表示該歌曲是該專輯中製作時間最長的一首歌曲，並表示其於錄音室中因嘗試使用不同音色而數次重錄\[50\]。該歌曲由曾參與合作[葛萊美獎最佳雷鬼專輯獎入圍作品](../Page/葛萊美獎.md "wikilink")《Reincarnated》與最佳舞曲/電子專輯獎入圍作品《Wonderland》的Luca
+Pretolesi混音\[51\]。
+
+專輯中的歌曲《惡之必要》由曾創作小說《[生活是甜蜜](https://zh.wikipedia.org/wiki/生活是甜蜜 "wikilink")》與《我是許涼涼》的作家[李維菁與音樂人](../Page/李維菁.md "wikilink")[剃刀蔣共同作詞](https://zh.wikipedia.org/wiki/剃刀蔣 "wikilink")，由音樂人剃刀蔣與陳星翰共同作曲，由剃刀蔣編曲與製作。該歌曲的歌詞將小說式文字以硬蕊饒舌的唱法表現壓抑且解放的衝突感，蔡依林表示：「我要告訴大家，其實進入你的內心的世界，就是這麼恐怖。可在你真的願意面對之後，它就變得沒有你想象中那麼邪惡。」該歌曲的編曲融合[合成器](../Page/合成器.md "wikilink")、[哥德搖滾與](../Page/哥德搖滾.md "wikilink")[陷阱音樂風格表現暴力且美感的氣氛](https://zh.wikipedia.org/wiki/陷阱音樂 "wikilink")。專輯中的歌曲《玫瑰少年》以[葉永鋕事件為靈感](../Page/葉永鋕事件.md "wikilink")，由蔡依林、曾獲得臺灣金曲獎最佳作詞人獎的音樂人[陳信宏與陳怡茹共同作詞](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")，由剃刀蔣與蔡依林共同作曲，由剃刀蔣編曲與製作。蔡依林一直對於[LGBT權利與](../Page/LGBT權利運動.md "wikilink")[同性婚姻等人權運動保持關注](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，該歌曲為各種性向與各種外貌的群眾發聲，蔡依林表示：「不要活在社會框架裡，陰柔不一定是不好的，陽剛也不一定是你要追求的，不管是男性女性，對於性別的認同，沒有既定的框架。」該歌曲的編曲融合[南洋樂器](../Page/南洋.md "wikilink")、熱帶浩室與舞場雷鬼音樂風格，是一首情感細膩且具有強烈文字力度的歌曲。專輯中的歌曲《你也有今天》由音樂人藍小邪作詞，由蔡依林、Hayley
+Michelle Aitken與Johan Isac
+Gustafsson共同作曲，由陳星翰與鄭人豪共同編曲，由陳星翰製作。該歌曲以雷鬼動音樂風格為主軸，配合[黑色幽默式歌詞表現對](../Page/黑色幽默.md "wikilink")「負心漢」的真心回應，蔡依林表示：「如果你真的很想要報復一個人，就是活得比TA更精彩。」專輯中的歌曲《紅衣女孩》由曾入圍臺灣金曲獎最佳作詞人獎且曾與蔡依林合作《[大藝術家](https://zh.wikipedia.org/wiki/大藝術家_\(歌曲\) "wikilink")》、《[萬花瞳](https://zh.wikipedia.org/wiki/萬花瞳 "wikilink")》與《美杜莎》等歌曲的音樂人[嚴云農作詞](../Page/嚴云農.md "wikilink")，由曾與蔡依林合作歌曲《-{zh-cn:呸;
+zh-hant:Play 我呸; zh-sg:Play
+我呸}-》與《[我對我](https://zh.wikipedia.org/wiki/我對我 "wikilink")》的音樂人倪子岡、王美蓮、林愷倫與Jeff
+Bova共同作曲，由陳星翰與剃刀蔣共同編曲，由陳星翰製作。該歌曲融合模糊說唱與流行音樂風格，蔡依林使用低音聲線表現歌曲的詭譎氛圍，蔡依林表示：「我在跟陳星翰敘述的時候說，我要一個鬼故事的感覺。」
+
+專輯中的歌曲《甜秘密》由曾獲得[臺灣金曲獎最佳單曲製作人獎的音樂人](../Page/最佳單曲製作人獎_\(金曲獎\).md "wikilink")[阿弟仔作詞](../Page/阿弟仔.md "wikilink")，由蔡依林與曾與其合作歌曲《I'm
+Not Yours》、《Miss Trouble》與《不一樣又怎樣》的音樂人Olof Lindskog、Hayley Michelle
+Aitken與Johan
+Moraeus共同作曲，由陳星翰與馬仕釗共同編曲，由陳星翰製作。該歌曲以彈跳音樂風格為主軸，配合直接且有力的歌詞表現甜美的性感與危險的挑逗，蔡依林表示：「認識自己的身體也是認識慾望。這個社會需要告訴大家這樣一些觀念，你才不會因為太好奇去傷害別人。」專輯中的歌曲《愛的羅曼死》由曾與蔡依林合作歌曲《I'm
+Not
+Yours》與《[電話皇后](https://zh.wikipedia.org/wiki/電話皇后 "wikilink")》的音樂人[黃偉文作詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，由音樂人[劉偉德作曲](../Page/劉偉德.md "wikilink")，由音樂人[陳君豪編曲與製作](../Page/陳君豪.md "wikilink")。該歌曲的歌詞以殘酷且美感的文字表現現代愛情現狀，該歌曲融合[古典鋼琴](https://zh.wikipedia.org/wiki/古鋼琴 "wikilink")、電氣聲響、[哥德搖滾與](../Page/哥德搖滾.md "wikilink")[節奏藍調音樂風格表現高冷空靈且情感充沛的氛圍](../Page/节奏布鲁斯.md "wikilink")，蔡依林表示：「有時候羅曼史是既定的，白馬王子遇到公主，幸福快樂的生活。但沒有人告訴我們，婚禮之後會發生什麼事情。」該歌曲由曾參與合作[葛萊美獎最佳當代節奏藍調專輯獎獲獎作品](../Page/葛萊美獎.md "wikilink")《[The
+Emancipation of
+Mimi](https://zh.wikipedia.org/wiki/天后再临-解放咪咪 "wikilink")》、最佳饒舌專輯獲獎作品《Release
+Therapy》與最佳舞曲錄音獎獲獎作品《[Only
+Girl](https://zh.wikipedia.org/wiki/萬中選一_\(歌曲\) "wikilink")》的Phil
+Tan混音。專輯中的歌曲《如果我沒有傷口》由音樂人廖庭翊作詞，由曾入圍[臺灣金曲獎最佳國語男歌手獎且曾與蔡依林合作歌曲](https://zh.wikipedia.org/wiki/最佳國語男歌手獎_\(金曲獎\) "wikilink")《開場白》的音樂人[宋念宇作曲](../Page/小宇.md "wikilink")，由陳君豪、宋念宇與簡道森共同編曲，由陳君豪製作。該歌曲的歌詞探討何謂愛情中真正的勇敢，該歌曲的編曲靈感來自[大衛·鮑伊](../Page/大卫·鲍伊.md "wikilink")，該歌曲以復古靈魂民謠音樂風格為主軸，融合[嘻哈](../Page/嘻哈音樂.md "wikilink")、[搖滾](../Page/摇滚乐.md "wikilink")、[靈魂音樂風格](../Page/靈魂樂.md "wikilink")，蔡依林表示：「我們必須要相信愛情的力量，而不是被愛情擊倒之後，就再也不相信。」
+
+專輯中的歌曲《腦公》由音樂人李若君作詞，由Rhys Fletcher、楊宥閑、Richard Craker、Alex
+Sypes與蔡依林共同作曲，由陳星翰與鄭人豪共同編曲，由陳星翰與[陳奕凡共同製作](https://zh.wikipedia.org/wiki/ØZI "wikilink")。該歌曲以節奏輕快的搖滾為主軸，陳奕凡為蔡依林設計大量和聲增加該歌曲的熱鬧氛圍，蔡依林表示：「希望可以成為大家的結婚進行曲。」專輯中的歌曲《消極掰》由蔡依林的經紀人且曾與蔡依林合作歌曲《馬賽克》與《[第三人稱](https://zh.wikipedia.org/wiki/第三人稱_\(歌曲\) "wikilink")》的王永良作詞，由音樂人Sam
+Fishman、Jazelle Rodriguez與Samual
+Petersen共同作曲，由陳星翰與鄭人豪共同編曲，由剃刀蔣與陳星翰共同製作。該歌曲以[未來貝斯音樂風格為主軸](https://zh.wikipedia.org/wiki/未来贝斯 "wikilink")，蔡依林使用慵懶且頹廢的唱法表現面對生活各種「鳥狀況」的無奈，蔡依林表示：「消極掰，就是要送給生命當中遇到很多你很不想做，但必須要面對的事情。我們只能告訴自己，消極終將離我們遠去。這首歌祝福你的消極，馬上和你說掰掰。」專輯中的歌曲《你睡醒再看》由音樂人黃子源作詞，由曾與蔡依林合作歌曲《[幸福路上](https://zh.wikipedia.org/wiki/幸福路上_\(歌曲\) "wikilink")》的音樂人米奇林、蔡依林與何宇勝共同作曲，由音樂人黃少雍編曲，由陳君豪製作。該歌曲的歌詞靈感來自心理學家[卡爾·榮格的心理學概念](../Page/卡尔·荣格.md "wikilink")「[心理陰暗](https://zh.wikipedia.org/wiki/心理陰影 "wikilink")」，該歌曲於錄音室通過現場樂器與人聲即興的方式完成創作樣本歌曲，該歌曲以另類節奏藍調音樂風格為主軸，融合蔡依林夢境中常出現的場景與聲音，蔡依林使用呢喃式的唱法表現面對內心各種真實情緒，蔡依林表示：「夢境是孤獨的精神旅程，其實我很相信潛意識想要告訴我的話語。\[52\]」
+
+## 封面與包裝
+
+2018年11月27日，蔡依林公開該專輯預購限量版的封面與該專輯的首波宣傳系列照片，該系列照片以「[真理之口](../Page/真理之口.md "wikilink")」為主題，其於照片中配戴誇張的紅唇飾品並做出詭異的手勢與脆弱的眼神，表現該專輯主張打破世俗美醜觀念的概念\[53\]；該系列照片與該版本的內頁照片由曾與蔡依林合作臺灣《Zine》雜誌封面的攝影師鍾靈與造型師Yii
+Ooi打造，服裝出自華人新銳時裝品牌Pronounce、Shushu/Tong、Villa
+XRWA與Windowsen，而紅唇飾品出自華人新銳時裝設計師Shuting
+Qiu\[54\]。同年12月14日，蔡依林公開該專輯標準版的封面與該專輯的第二波宣傳系列作品，該系列照片以黑色與白色為主色調，其於照片中身披出自英國時裝品牌Gareth
+Pugh的黑色西裝外套並穿戴黑色皮革手套與黑色過膝長靴，表現該專輯強調負面情緒存在正當性的概念\[55\]；該系列照片與該版本的內頁照片由攝影師江民仕與曾與蔡依林密切合作的造型師鄧麗及其Formz團隊成員Tungus
+Chan與Matthew Chan打造，該版本的內頁照片的服裝出自美國時裝品牌Marc Jacobs與英國新銳時裝品牌Richard
+Quinn\[56\]。該專輯標準版的包裝由曾與蔡依林合作專輯《[Muse](../Page/Muse_\(蔡依林專輯\).md "wikilink")》包裝設計的設計師顏伯駿設計，該版本的包裝以「[潘朵拉的盒子](https://zh.wikipedia.org/wiki/潘朵拉的盒子 "wikilink")」為概念，顏伯駿表示該希臘神話故事貼切該專輯陰性主義的概念，並表示該故事告誡人類懷抱希望的重要性符合該專輯探討人性善惡的主題\[57\]；該專輯預購限量版使用4種封面的布製外盒包裝，並附贈2百頁寫真日記本\[58\]。
+
+## 發行與宣傳
+
+2018年10月，蔡依林出席「台北時裝週」，並表示該專輯於同年12月發行\[59\]。同年11月，蔡依林於新浪微博透露專輯名稱與發行日期\[60\]。同年12月4日，蔡依林公布專輯預購宣傳影片，並於臺灣臺北市舉辦專輯預購造勢活動，亦表示首波主打歌曲於同月21日發行\[61\]。同月5日，該專輯於中國大陸[QQ音樂](../Page/QQ音乐.md "wikilink")、[酷狗音樂](../Page/酷狗音乐.md "wikilink")、酷我音樂與咪咕音樂四家數位音樂平台開始數位專輯預購\[62\]，亦於臺灣包括[7-Eleven](../Page/統一超商.md "wikilink")、[博客來](../Page/博客來網路書店.md "wikilink")、佳佳唱片與五大唱片在內的銷售平台開始實體專輯限量版預購\[63\]；該限量版共計1萬張，並於開售後1分鐘內全部售罄\[64\]。同月26日，該專輯正式發行，蔡依林亦於中國北京市舉辦「新專輯發布會」\[65\]；該專輯於發行首日成為音樂串流軟體[Spotify臺灣史上單日最高串流量專輯](../Page/Spotify.md "wikilink")。該專輯於澳門、菲律賓、柬埔寨、馬來西亞、臺灣、香港、新加坡與中國大陸的數位專輯排行榜獲得第1名的成績，亦於包括土耳其、越南與智利在內的的數位專輯排行榜獲得前10名的成績，並出現於包括愛爾蘭、澳大利亞、巴西、俄羅斯、荷蘭、墨西哥、紐西蘭、日本與泰國在內的數位專輯排行榜\[66\]。該專輯僅於臺灣發行實體專輯，該專輯於博客來、[誠品](../Page/誠品書店.md "wikilink")、[光南大批發](https://zh.wikipedia.org/wiki/光南大批發 "wikilink")、佳佳唱片、[玫瑰大眾唱片](../Page/玫瑰大眾唱片.md "wikilink")、[PChome與五大唱片的實體專輯銷量排行榜獲得第](../Page/PChome_Online網路家庭.md "wikilink")1名的成績。該專輯截至同年12月31日於中國大陸的數位專輯銷量超過22萬張\[67\]\[68\]\[69\]，使蔡依林登上中國大陸QQ音樂年度數位專輯銷量排行榜第7名\[70\]，亦使其成為中國大陸年度數位專輯銷量女歌手亞軍\[71\]。該專輯於翌年成為中國大陸史上港台女歌手單張數位專輯銷量冠軍\[72\]，亦使蔡依林成為中國大陸史上數位專輯總銷量港台女歌手冠軍\[73\]。2019年1月，蔡依林舉辦「《[怪美的](https://zh.wikipedia.org/wiki/怪美的 "wikilink")》全球創意舞蹈大賽」\[74\]。同月20日與27日，蔡依林分別於臺灣臺北市與高雄市舉辦「Ugly
+Beauty專輯簽名握手沒有擁抱會」\[75\]。該專輯截至同年3月1日獲得博客來3週第1名、光南大批發8週第1名、佳佳唱片5週第1名、玫瑰大眾唱片5週第1名、五大唱片9週第1名的實體專輯銷量排行榜成績\[76\]。同月8日，蔡依林憑藉該專輯成為Spotify臺灣史上最高串流量女歌手\[77\]。同年4月，臺灣雜誌《[鏡週刊](https://zh.wikipedia.org/wiki/鏡週刊 "wikilink")》報導稱該專輯的製作與宣傳費超過新臺幣7千萬元\[78\]。同年5月18日，蔡依林於中國上海市寶鋼體育館舉辦「Ugly
+Beauty音樂分享會」。
+
+### 現場表演
+
+2018年10月，蔡依林表示出席由中國大陸[江蘇衛視於同年](../Page/江苏卫视.md "wikilink")12月31日舉辦的「2019江蘇衛視跨年演唱會」\[79\]。同年12月31日，蔡依林身穿出自英國時裝品牌Alessandra
+Rich的墨綠色連衣裙於該演唱會首次表演該專輯的首波主打歌曲《[怪美的](https://zh.wikipedia.org/wiki/怪美的 "wikilink")》\[80\]。2019年1月5日，蔡依林出席錄製由臺灣[臺視於同年](../Page/臺灣電視公司.md "wikilink")2月5日播出的「[2019超級巨星紅白藝能大賞](https://zh.wikipedia.org/wiki/2019超級巨星紅白藝能大賞 "wikilink")」，蔡依林身穿出自英國時裝品牌Halpern的粉紅雙色亮片連衣褲於該節目表演該專輯的歌曲《怪美的》與《玫瑰少年》\[81\]。同月26日，蔡依林出席「第14屆[KKBox風雲榜頒獎典禮](../Page/KKBOX風雲榜.md "wikilink")」，蔡依林身穿出自義大利時裝品牌Moschino的藍色塗鴉褲裝於該頒獎活動表演該專輯的歌曲《甜秘密》、《怪美的》與《腦公》\[82\]。同年4月5日，蔡依林身穿出自義大利時裝品牌Palm
+Angels的黃色運動夾克於中國大陸綜藝節目《[青春有你](https://zh.wikipedia.org/wiki/青春有你 "wikilink")》與訓練生管櫟、[嘉羿](https://zh.wikipedia.org/wiki/嘉羿 "wikilink")、孫澤霖、馮俊傑與連淮偉共同表演該專輯的歌曲《怪美的》\[83\]。同月11日，蔡依林身穿美國時裝品牌Ralph
+Lauren的黑色西裝套裝於中國大陸綜藝節目《[歌手2019](https://zh.wikipedia.org/wiki/歌手2019 "wikilink")》與歌手[吳青峰共同表演該專輯的歌曲](https://zh.wikipedia.org/wiki/吴青峰 "wikilink")《怪美的》\[84\]。同月28日，蔡依林身穿法國時裝品牌[Chloé花卉印花絲質襯衫與闊腿褲於中國四川省](../Page/蔻依.md "wikilink")[峨眉山市舉辦的](https://zh.wikipedia.org/wiki/峨眉山市 "wikilink")「峨眉山花海音樂節」表演該專輯中的歌曲《怪美的》、《腦公》、《玫瑰少年》與《如果我沒有傷口》\[85\]。
+
+### 單曲
+
+2018年12月21日，該專輯的首波主打歌曲《[怪美的](https://zh.wikipedia.org/wiki/怪美的 "wikilink")》發行，該歌曲於發行首日於馬來西亞、臺灣與中國大陸的數位歌曲排行榜獲得第1名的成績，亦於包括菲律賓、香港與新加坡在內的數位歌曲排行榜獲得前10名的成績\[86\]。同月26日，該專輯的首波主打歌曲《怪美的》MV發行，該歌曲MV由曾獲得[臺灣金曲獎最佳音樂錄影帶獎且曾與蔡依林合作歌曲](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")《[大藝術家](https://zh.wikipedia.org/wiki/大藝術家_\(歌曲\) "wikilink")》、《[-{zh-cn:呸;
+zh-hant:Play 我呸; zh-sg:Play
+我呸}-](https://zh.wikipedia.org/wiki/Play_我呸 "wikilink")》與《I'm
+Not
+Yours》MV的導演[陳奕仁執導](../Page/陳奕仁.md "wikilink")\[87\]；該歌曲MV以「蔡依林审判蔡依林，让过去的蔡依林与现在的蔡依林和解」為主題，亦通過該歌曲MV回顧蔡依林出道至今的「[黑歷史](../Page/黑历史.md "wikilink")」\[88\]；該歌曲MV斥資新臺幣1500萬元製作，亦是蔡依林出道至今製作成本最高的一支MV\[89\]；同月28日至翌月4日，該歌曲MV於中國北京市[三里屯太古里南區大屏幕循環播放](../Page/三里屯太古里.md "wikilink")；該歌曲MV於發行首週獲得臺灣[YouTube發燒影片排行榜第](../Page/YouTube.md "wikilink")1名、[音悅V榜MV作品榜週榜港台篇第](../Page/音悦Tai.md "wikilink")1名與[bilibili全站排行榜第](https://zh.wikipedia.org/wiki/bilibili "wikilink")1名的成績。翌月4日，該歌曲於[中國公告牌音樂單曲榜位居第](https://zh.wikipedia.org/wiki/中国公告牌音乐单曲榜 "wikilink")1名，亦是獲得該榜單冠軍的首支歌曲\[90\]。同月31日，該歌曲於[Hit
+FM年度百首單曲排行榜位居第](../Page/Hit_FM聯播網.md "wikilink")1名，使蔡依林成為迄今獲得該榜單冠軍次數最多的歌手\[91\]。專輯中的歌曲《玫瑰少年》、《甜秘密》、《紅衣女孩》、《腦公》、《消極掰》與《你也有今天》迄今亦於中國公告牌音樂排行榜分別獲得第7名\[92\]、第10名\[93\]、第10名\[94\]、第11名\[95\]、第17名\[96\]與第20名\[97\]的最高成績。
+
+### 音樂錄影帶
+
+2019年1月28日，蔡依林發行專輯中的歌曲《腦公》MV，該歌曲MV由曾獲得[臺灣金曲獎最佳音樂錄影帶獎且曾與蔡依林合作歌曲](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")《[唯舞獨尊](https://zh.wikipedia.org/wiki/唯舞獨尊_\(歌曲\) "wikilink")》、《[特務J](https://zh.wikipedia.org/wiki/特務J_\(歌曲\) "wikilink")》與《[電話皇后](https://zh.wikipedia.org/wiki/電話皇后 "wikilink")》MV的導演張時霖執導；該歌曲MV以1980年代香港電影為靈感，亦由曾獲得[香港電影金像獎最佳女主角獎的演員](../Page/香港電影金像獎最佳女主角.md "wikilink")[吳君如與](../Page/吳君如.md "wikilink")[鄭愷參與出演](../Page/郑恺.md "wikilink")\[98\]。同年2月15日，蔡依林發行專輯中的歌曲《玫瑰少年》MV，該歌曲MV由美國導演Ryan
+Parma執導\[99\]。同年3月12日，蔡依林發行專輯中的歌曲《消極掰》MV，該歌曲MV由導演張時霖執導\[100\]；該歌曲MV於發行首週獲得[QQ音樂MV巔峰榜港台榜第](../Page/QQ音乐.md "wikilink")1名與[bilibili音樂排行榜第](https://zh.wikipedia.org/wiki/bilibili "wikilink")1名的成績\[101\]。同年4月2日，蔡依林發行專輯中的歌曲《紅衣女孩》MV，該歌曲MV由曾獲得[臺灣金馬獎最佳劇情短片獎且曾執導電影](../Page/金馬獎最佳劇情短片.md "wikilink")《[紅衣小女孩](../Page/紅衣小女孩_\(電影\).md "wikilink")》的導演[程偉豪執導](https://zh.wikipedia.org/wiki/程偉豪 "wikilink")，亦由演員[徐熙娣與曾獲得](../Page/徐熙娣.md "wikilink")[台北電影獎最佳新演員獎的演員](https://zh.wikipedia.org/wiki/台北電影獎最佳新演員 "wikilink")[王柏傑參與出演](../Page/王柏傑.md "wikilink")；同日，該歌曲MV於臺灣臺北市[信義威秀影城舉辦首映會](../Page/威秀影城.md "wikilink")\[102\]；該歌曲MV斥資新臺幣1500萬元製作\[103\]，亦於發行首週獲得QQ音樂MV巔峰榜總榜第1名與bilibili音樂排行榜第1名的成績\[104\]\[105\]；《[新京報](../Page/新京报.md "wikilink")》評價該歌曲MV：「這支MV改變了此前的音樂影像作品只是簡單地將歌手的表演場景進行同步記錄的做法，對於音樂行業的配套影視如同一部從天而降的啓示錄。\[106\]」
+
+### 巡演
+
+2018年1月，蔡依林發行現場專輯《[Play世界巡迴演唱會](https://zh.wikipedia.org/wiki/Play世界巡迴演唱會_\(專輯\) "wikilink")》，該專輯記錄蔡依林於2015年5月於臺灣臺北市[臺北小巨蛋舉辦的](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")「[Play世界巡迴演唱會](https://zh.wikipedia.org/wiki/Play世界巡迴演唱會 "wikilink")」臺北場的現場表演內容\[107\]；該巡演歷時一年零兩個月，於世界各地23個城市共演唱34場次\[108\]；蔡依林經紀人王永良表示：「Jolin也因這次巡演成長許多，表演收放更游刃有餘，之後推出新專輯再籌備新巡演。\[109\]」同年2月，臺灣雜誌《[壹週刊](../Page/壹週刊_\(台灣\).md "wikilink")》報導稱蔡依林預計於同年8月於臺北小巨蛋舉辦的演唱會因其健康狀況而被迫取消，蔡依林經紀人王永良表示：「原本計劃去年底發片，今年8月辦演唱會，但要先把新專輯做好，有新歌才能辦演唱會，專輯現在延到夏天推出，新巡演最快也要明年才有。\[110\]」同月，蔡依林出席「臺北[米其林指南](../Page/米其林指南.md "wikilink")2018晚宴」，並表示已開始為新巡演構思\[111\]。
+
+## 評價
+
+專輯《Ugly
+Beauty》於發行之後獲得許多的正面評價。[QQ音樂給予該專輯](../Page/QQ音乐.md "wikilink")4/5的評分，亦評選該專輯為「2018年最值得聽的60張專輯」之一\[112\]，並評價該專輯：「是《[Myself](../Page/Myself.md "wikilink")》開啓的『自我探索』系列的終章。從自信而起，以『接受不完美』為終，以大刀闊斧國際化的舞曲製作領先為開始，以削弱感官刺激裸露情感線條為終。\[113\]」[新浪微博樂評人銳利修蕊評價該專輯](../Page/新浪微博.md "wikilink")：「拉高了聽眾對於審美的需求」\[114\]。新浪微博樂評人鄒小櫻評價該專輯：「對於蔡依林來說，這是一張個人里程碑式的專輯，一張既講究敘事性、又保持在時尚潮流浪尖的專輯，一張幫助她重新回到我們傳統認知的『歌手』定義的專輯。\[115\]」臺灣《[GQ](../Page/GQ.md "wikilink")》雜誌評選該專輯為「2018年不能錯過的12張華語專輯」之一，亦評價該專輯：「圍繞蔡依林出道20年來的各種傷疤，她把每個惡言、嘲諷、苦痛都剪輯成一段旋律，再用她最美的姿態回擊。\[116\]」《[新京報](../Page/新京报.md "wikilink")》評選該專輯為「年度十佳華語專輯」之一，並評價該專輯：「對內在世界和外在世界的探討，對單一審美觀、價值觀的反駁，不斷進步的音樂理念與素養。\[117\]」美國MuuMuse網站樂評人Bradley
+Stern評價該專輯：「標誌著蔡依林繼2014年專輯《[-{zh-cn:Play; zh-hant:呸;
+zh-sg:呸}-](../Page/呸.md "wikilink")》之後睽違樂壇四年的華麗回歸」\[118\]。PlayMusic音樂網給予該專輯4.5/5的評分，亦評價該專輯：「是過去的好與壞汲取醖釀而成的年度大作」，並評價該專輯：「整體性強烈，充斥著各種黑色幽默，從充滿負能量的歌曲中反而過濾出蔡依林的正能量以及自信，不再畏懼群眾的目光忠於自我，比起過去的《-{zh-cn:Play;
+zh-hant:呸; zh-sg:呸}-》，《Ugly
+Beauty》的的確確主題更加完整，且更能代表歌手本人。\[119\]」《[南方都市報](../Page/南方都市报.md "wikilink")》評選該專輯為「2018年度十大華語唱片」第1名\[120\]。娛樂重擊評選該專輯為2018年度十大華語唱片」第3名\[121\]。[Hit
+FM與全球華語金曲獎評選該專輯為](../Page/Hit_FM聯播網.md "wikilink")「2018年度十大專輯」之一\[122\]\[123\]。[國際在綫日文版評選該專輯為](https://zh.wikipedia.org/wiki/国际在线 "wikilink")「2018年度十大中文專輯」第1名\[124\]。
+
+## 曲目
+
+## 人員
+
+**曲目 \#1**
+
+  - [剃刀蔣](https://zh.wikipedia.org/wiki/剃刀蔣 "wikilink")－人聲音效設計、人聲音效
+  - [蔡依林](../Page/蔡依林.md "wikilink")－人聲音效
+  - 陳振發－錄音師
+  - Luca Pretolesi－混音工程師
+  - Andy Lin－混音助理工程師
+
+**曲目 \#2**
+
+  - 剃刀蔣－和聲編寫
+  - 蔡依林－和聲
+  - 陳文駿－錄音師
+  - Luca Pretolesi－混音工程師
+  - Andy Lin－混音助理工程師
+
+**曲目 \#3**
+
+  - 鄭人豪－執行製作
+  - 馬毓芬－和聲編寫、和聲
+  - 蔡依林－和聲
+  - 陳振發－和聲錄音師
+  - 陳文駿－錄音師
+  - Luca Pretolesi－混音工程師
+  - Scott Banks－混音助理工程師
+  - Andy Lin－混音助理工程師
+
+**曲目 \#4**
+
+  - 鄭人豪－執行製作
+  - CYH－木琴
+  - 巴龍隆－電吉他
+  - 張仲麟－木吉他
+  - 後藤史圭－貝斯
+  - 陳振發－錄音師
+  - Luca Pretolesi－混音工程師
+  - Andy Lin－混音助理工程師
+
+**曲目 \#5**
+
+  - 潘信維－執行製作、鋼琴
+  - 馬仕釗－和聲編寫
+  - 蔡依林－和聲
+  - 陳振發－錄音師
+  - 陳文駿－錄音師
+  - Luca Pretolesi－混音工程師
+  - Andy Lin－混音助理工程師
+
+**曲目 \#6**
+
+  - 潘信維－執行製作
+  - 巴龍隆－電吉他
+  - 陳振發－錄音師
+  - 陳文駿－錄音師
+  - 林清智－吉他錄音師
+  - Luca Pretolesi－混音工程師
+  - Scott Banks－混音助理工程師
+  - Andy Lin－混音助理工程師
+
+**曲目 \#7**
+
+  - [陳君豪](../Page/陳君豪.md "wikilink")－合成器、鋼琴、合音編寫
+  - 張晁毓－鋼琴
+  - 黃玠瑋－合音編寫、製作助理
+  - 陳文駿－人聲錄音師
+  - 楊敏奇－鋼琴錄音師
+  - 蔡周翰－錄音助理
+  - Phil Tan－混音師
+  - Bill Zimmerman－助理混音師
+
+**曲目 \#8**
+
+  - 陳君豪－吉他、Mellotron、Bass錄音師
+  - [宋念宇](../Page/小宇.md "wikilink")－Mellotron、合音編寫、合音
+  - 簡道生－Bass、Synth Bass
+  - 張晁毓－鋼琴
+  - 江尚謙－鼓
+  - 潘琪妮－合音編寫
+  - 蔡依林－合音
+  - 田雅欣－弦樂編寫
+  - 蔡曜宇－第一小提琴
+  - 陳泱瑾－第一小提琴
+  - 駱思雲－第一小提琴
+  - 盧思茜－第二小提琴
+  - 朱奕寧－第二小提琴
+  - 黃雨柔－第二小提琴
+  - 甘威鵬－中提琴
+  - 牟啓東－中提琴
+  - 劉涵－大提琴
+  - 楊敏奇－弦樂錄音師
+  - 徐振程－弦樂錄音助理
+  - 葉育軒－人聲錄音師、鋼琴錄音師
+  - 唐士珉－人聲錄音師、鋼琴錄音師
+  - 王永鈞－鼓組錄音師
+  - 蔡周翰－鼓組錄音師
+  - 黃文萱－混音師
+  - 黃玠瑋－製作助理
+
+**曲目 \#9**
+
+  - [陳奕凡](https://zh.wikipedia.org/wiki/ØZI "wikilink")－配唱製作人、和聲編寫
+  - 剃刀蔣－配唱製作人
+  - 鄭人豪－執行製作
+  - 蔡依林－和聲
+  - 巴龍隆－電吉他
+  - 黃耀圻－貝斯
+  - 王永鈞－錄音師
+  - 陳文駿－錄音師
+  - 陳振發－和聲錄音師
+  - Luca Pretolesi－混音工程師
+  - Andy Lin－混音助理工程師
+
+**曲目 \#10**
+
+  - 鄭人豪－​執行製作
+  - 陳振發－錄音師
+  - 陳文駿－錄音師
+
+**曲目 \#11**
+
+  - 陳君豪－Remix
+  - 許郁瑛－鋼琴
+  - 潘琪妮－合音編寫
+  - 蔡依林－合音
+  - 葉育軒－錄音師
+  - Phil Tan－混音師
+  - Bill Zimmerman－助理混音師
+  - 黃玠瑋－製作助理
+
+## 榜單
+
+### 週榜成績
+
+| 排行榜\[125\]\[126\]                                                    | 最高排名 |
+| -------------------------------------------------------------------- | ---- |
+| 臺灣專輯榜（[博客來](../Page/博客來網路書店.md "wikilink")）                          | 1    |
+| 臺灣專輯榜（[誠品](../Page/誠品書店.md "wikilink")）                              | 1    |
+| 臺灣國語專輯榜（[friDay](https://zh.wikipedia.org/wiki/friDay音樂 "wikilink")） | 1    |
+| 臺灣華語專輯榜（[光南](https://zh.wikipedia.org/wiki/光南大批發 "wikilink")）        | 1    |
+| 臺灣華語專輯榜（佳佳）                                                          | 1    |
+| 臺灣華語專輯榜（[玫瑰大眾](../Page/玫瑰大眾唱片.md "wikilink")）                        | 1    |
+| 臺灣華語專輯榜（[KKBox](../Page/KKBOX.md "wikilink")）                        | 1    |
+| 臺灣華語專輯榜（[MyMusic](https://zh.wikipedia.org/wiki/myMusic "wikilink")） | 1    |
+| 臺灣專輯榜（[PChome](../Page/PChome_Online網路家庭.md "wikilink")）             | 1    |
+| 臺灣華語專輯榜（五大）                                                          | 1    |
+| 馬來西亞華語專輯榜（KKBox）                                                     | 1    |
+| 全球華語專輯榜（YesAsia）                                                     | 1    |
+| 新加坡華語專輯榜（KKBox）                                                      | 1    |
+| 中國大陸專輯榜（[QQ音樂](../Page/QQ音乐.md "wikilink")）\[127\]                   | 1    |
+
+### 年榜成績
+
+| 排行榜（2018年）           | 排名 |
+| -------------------- | -- |
+| 臺灣專輯榜（博客來）\[128\]    | 8  |
+| 臺灣專輯榜（博客來）\[129\]    | 13 |
+| 臺灣專輯榜（光南）\[130\]     | 3  |
+| 臺灣專輯榜（佳佳）\[131\]     | 4  |
+| 臺灣專輯榜（玫瑰大眾）\[132\]   | 2  |
+| 臺灣專輯榜（五大）\[133\]     | 3  |
+| 中國大陸專輯榜（QQ音樂）\[134\] | 7  |
+
+## 發行歷史
+
+<table>
+<thead>
+<tr class="header">
+<th><p>地區</p></th>
+<th><p>日期</p></th>
+<th><p>格式</p></th>
+<th><p>版本</p></th>
+<th><p>唱片公司</p></th>
+<th><p>附註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>全球</p></td>
+<td><p>2018年12月26日</p></td>
+<td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
+<td><p>標準版</p></td>
+<td><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">索尼音樂</a></p></td>
+<td><p>[135]</p></td>
+</tr>
+<tr class="even">
+<td><p>臺灣</p></td>
+<td><p><a href="../Page/CD.md" title="wikilink">CD</a></p></td>
+<td><p>標準版、預購限量版</p></td>
+<td><p><ref>《Ugly Beauty》的臺灣CD發行：</p>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<p></ref></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>馬來西亞</p></td>
+<td><p>2019年1月9日</p></td>
+<td><p>標準版</p></td>
+<td><p>[136]</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 註釋
+
+## 參考資料
+
+## 外部連結
+
+  - [台灣索尼音樂上的](../Page/台灣索尼音樂娛樂.md "wikilink")[《Ugly
+    Beauty》怪美珍藏版](https://www.sonymusic.com.tw/album/jolin-tsai-ugly-beauty/)
+  - [台灣索尼音樂上的](../Page/台灣索尼音樂娛樂.md "wikilink")[《Ugly
+    Beauty》怪美精裝版](https://www.sonymusic.com.tw/album/jolin-tsai-ugly-beauty-limited-edition/)
+
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
+[Category:蔡依林專輯](https://zh.wikipedia.org/wiki/Category:蔡依林專輯 "wikilink")
+[Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink")
+
+1.
+
+2.
+
+3.
+
+4.
+    Yahoo懶人卡|accessdate=2019-01-05|work=Yahoo奇摩名人娛樂|language=zh-Hant-TW}}
+
+5.
+
+6.
+7.
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+    ETtoday星光雲|last=ETtoday新聞雲|newspaper=ETtoday星光雲|accessdate=2018-05-17|language=zh-TW}}
+
+17.
+
+18.
+
+19. 蔡依林{{\!}}美杜莎{{\!}}PLAY_新浪娱乐_新浪网|accessdate=2018-05-17|work=ent.sina.com.cn}}
+
+20.
+
+21.
+
+22.  娛樂 {{\!}} 三立新聞網
+    SETN.COM|accessdate=2018-05-17|last=三立新聞網|language=zh-Hant-TW}}
+
+23.
+
+24.
+
+25.
+
+26.
+
+27. 蔡依林{{\!}}幸福路上{{\!}}祝你幸福_新浪娱乐_新浪网|accessdate=2018-05-17|work=ent.sina.com.cn}}
+
+28.
+
+29. 蔡依林{{\!}}巡演{{\!}}DVD_新浪娱乐_新浪网|accessdate=2018-05-17|work=ent.sina.com.cn}}
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+    ETtoday星光雲|last=ETtoday新聞雲|newspaper=ETtoday星光雲|accessdate=2018-05-17|language=zh-TW}}
+
+39.
+
+40.
+    ETtoday星光雲|last=ETtoday新聞雲|newspaper=ETtoday星光雲|accessdate=2018-06-11|language=zh-TW}}
+
+41.
+
+42.
+
+43.
+
+44.
+
+45. 蔡依林{{\!}}舞娘{{\!}}渡边直美_新浪娱乐_新浪网|accessdate=2018-11-13|work=ent.sina.com.cn}}
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+    ETtoday星光雲|accessdate=2018-12-22|last=ETtoday新聞雲|work=star.ettoday.net|language=zh-Hant}}
+
+52.
+
+53.
+
+54.
+
+55.  音樂|accessdate=2018-12-14|last=聯合新聞網|work=噓！星聞|language=zh-Hant-TW}}
+
+56.
+
+57.
+
+58.
+
+59.
+
+60. 蔡依林{{\!}}新专辑{{\!}}名称_新浪娱乐_新浪网|accessdate=2018-11-25|work=ent.sina.com.cn}}
+
+61.
+
+62.
+
+63.
+
+64.
+    音樂|accessdate=2018-12-05T08:39:36Z|last=聯合新聞網|work=噓！星聞|language=zh-Hant-TW}}
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+73.
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79. 薛之谦{{\!}}蔡依林{{\!}}刘宇宁_新浪娱乐_新浪网|accessdate=2018-12-31|date=2018-10-17|last=新浪娱乐|work=ent.sina.com.cn}}
+
+80.  NOW跨年|accessdate=2018-12-31|date=2018-12-31|last=薛羽彤|work=NOWnews
+    今日新聞|language=zh-TW}}
+
+81.
+    ETtoday星光雲|accessdate=2019-01-08|last=ETtoday新聞雲|work=star.ettoday.net|language=zh-Hant}}
+
+82.
+
+83.
+    ETtoday星光雲|url=[https://star.ettoday.net/news/1416107|work=star.ettoday.net|accessdate=2019-04-06|language=zh-Hant|last=ETtoday新聞雲](https://star.ettoday.net/news/1416107%7Cwork=star.ettoday.net%7Caccessdate=2019-04-06%7Clanguage=zh-Hant%7Clast=ETtoday新聞雲)}}
+
+84.
+    ETtoday星光雲|url=[https://star.ettoday.net/news/1421253|work=star.ettoday.net|accessdate=2019-04-13|language=zh-Hant|last=ETtoday新聞雲](https://star.ettoday.net/news/1421253%7Cwork=star.ettoday.net%7Caccessdate=2019-04-13%7Clanguage=zh-Hant%7Clast=ETtoday新聞雲)}}
+
+85.
+
+86.
+
+87. 蔡依林{{\!}}新歌{{\!}}黑历史_新浪娱乐_新浪网|accessdate=2018-12-22|date=2018-12-20|last=林怡妘|first=新浪娱乐台湾站|work=ent.sina.com.cn}}
+
+88.
+    ETtoday星光雲|accessdate=2018-12-22|last=ETtoday新聞雲|work=star.ettoday.net|language=zh-Hant}}
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+105.
+
+106.
+
+107.
+108.
+     蔡依林『PLAY世界巡迴演唱會LIVE紀實』歷時1年2個月共百萬觀看人次|accessdate=2018-05-24|work=MTV
+     Taiwan}}
+
+109.
+
+110.
+
+111.
+112.
+
+113.
+114.
+
+115.
+
+116.
+
+117.
+
+118.
+
+119.
+120.
+
+121.
+
+122.
+
+123.
+
+124.
+
+125.
+
+126.
+
+127.
+
+128.
+
+129.
+130. 光南大批發連鎖店 -
+     官方網站|url=[http://www.knn.com.tw/%E5%85%89%E5%8D%97%E7%94%9F%E6%B4%BB/%E8%B3%87%E8%A8%8A/2018%E5%B9%B4%E5%BA%A6%E6%8E%92%E8%A1%8C%E6%A6%9C|work=www.knn.com.tw|accessdate=2019-02-14|language=zh-tw](http://www.knn.com.tw/%E5%85%89%E5%8D%97%E7%94%9F%E6%B4%BB/%E8%B3%87%E8%A8%8A/2018%E5%B9%B4%E5%BA%A6%E6%8E%92%E8%A1%8C%E6%A6%9C%7Cwork=www.knn.com.tw%7Caccessdate=2019-02-14%7Clanguage=zh-tw)}}
+
+131.
+
+132.
+
+133.
+
+134.
+135.
+
+136.

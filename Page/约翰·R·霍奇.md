@@ -1,0 +1,24 @@
+**约翰·R·霍奇** (, )是一位美国陆军上将。
+
+## 生平
+
+1893年出生于[伊利诺伊州](../Page/伊利诺伊州.md "wikilink")，先后毕业于[南伊利诺伊大学和](https://zh.wikipedia.org/wiki/南伊利诺伊大学 "wikilink")[伊利诺伊大学厄巴纳-香槟分校](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")，后参与[第一次世界大战](../Page/第一次世界大战.md "wikilink")，在[法国和](https://zh.wikipedia.org/wiki/法国 "wikilink")[卢森堡参战](../Page/卢森堡.md "wikilink")。后毕业于[美国陆军指挥参谋学院和](https://zh.wikipedia.org/wiki/美国陆军指挥参谋学院 "wikilink")[美国陆军战争学院](https://zh.wikipedia.org/wiki/美国陆军战争学院 "wikilink")。[第二次世界大战中先后参与](../Page/第二次世界大战.md "wikilink")[瓜达尔卡纳尔岛战役](https://zh.wikipedia.org/wiki/瓜达尔卡纳尔岛战役 "wikilink")，[所罗门群岛战役](https://zh.wikipedia.org/wiki/所罗门群岛战役 "wikilink")，[布干维尔岛战役](https://zh.wikipedia.org/wiki/布干维尔岛战役 "wikilink")，[菲律宾战役
+(1944年至1945年)](https://zh.wikipedia.org/wiki/菲律宾战役_\(1944年至1945年\) "wikilink")，[冲绳岛战役](https://zh.wikipedia.org/wiki/冲绳岛战役 "wikilink")，荣获多项勋章。1941年至1942年担任[美国陆军第7军主任参谋](https://zh.wikipedia.org/wiki/美国陆军第7军 "wikilink")，1945年至1948年担任出任[驻朝鲜美国陆军司令部军政厅司令](https://zh.wikipedia.org/wiki/驻朝鲜美国陆军司令部军政厅 "wikilink")，他派遣部队听从[道格拉斯·麦克阿瑟指挥于](https://zh.wikipedia.org/wiki/道格拉斯·麦克阿瑟 "wikilink")1945年9月9日进行[仁川登陆](../Page/仁川登陆.md "wikilink")，改变[朝鲜战争局势](../Page/朝鲜战争.md "wikilink")。1948年至1950年担任[美国陆军第5军司令员](https://zh.wikipedia.org/wiki/美国陆军第5军 "wikilink")，1950年至1952年担任[美国中央陆军司令员](https://zh.wikipedia.org/wiki/美国中央陆军 "wikilink")，1952年7月5日晋升为[上将](../Page/上将_\(美国\).md "wikilink")。1952年至1953年担任美国陆军野战部队司令部司令。
+
+1963年在美国[华盛顿哥伦比亚特区逝世](../Page/华盛顿哥伦比亚特区.md "wikilink")，享年70岁。
+
+## 参考来源
+
+[Category:美国陆军将领](https://zh.wikipedia.org/wiki/Category:美国陆军将领 "wikilink")
+[Category:南伊利诺伊大学校友](https://zh.wikipedia.org/wiki/Category:南伊利诺伊大学校友 "wikilink")
+[Category:伊利諾大學厄巴納－香檳分校校友](https://zh.wikipedia.org/wiki/Category:伊利諾大學厄巴納－香檳分校校友 "wikilink")
+[Category:美国陆军指挥参谋学院校友](https://zh.wikipedia.org/wiki/Category:美国陆军指挥参谋学院校友 "wikilink")
+[Category:美國陸軍戰爭學院校友](https://zh.wikipedia.org/wiki/Category:美國陸軍戰爭學院校友 "wikilink")
+[Category:美国第一次世界大战军事人物](https://zh.wikipedia.org/wiki/Category:美国第一次世界大战军事人物 "wikilink")
+[Category:美国第一次世界大战军事人物](https://zh.wikipedia.org/wiki/Category:美国第一次世界大战军事人物 "wikilink")
+[Category:陸軍傑出服役勳章獲得者](https://zh.wikipedia.org/wiki/Category:陸軍傑出服役勳章獲得者 "wikilink")
+[Category:海軍傑出服役勳章獲得者](https://zh.wikipedia.org/wiki/Category:海軍傑出服役勳章獲得者 "wikilink")
+[Category:功績勳章獲得者](https://zh.wikipedia.org/wiki/Category:功績勳章獲得者 "wikilink")
+[Category:航空獎章獲得者](https://zh.wikipedia.org/wiki/Category:航空獎章獲得者 "wikilink")
+[Category:安葬於阿靈頓國家公墓者](https://zh.wikipedia.org/wiki/Category:安葬於阿靈頓國家公墓者 "wikilink")
+[Category:伊利诺伊州人](https://zh.wikipedia.org/wiki/Category:伊利诺伊州人 "wikilink")

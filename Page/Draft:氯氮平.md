@@ -1,0 +1,580 @@
+**氯氮平**，Clozapine，常見商標名Clozaril。為一種第二代抗精神病藥物。本品一般用於治療其他抗精神病藥不能醫治的[精神分裂症](../Page/精神分裂症.md "wikilink")。\[1\]
+它可以減少精神分裂症和[情感分裂症的](../Page/分裂情感性障碍.md "wikilink")[患人出現](https://zh.wikipedia.org/wiki/病人 "wikilink")[自杀行为](../Page/自殺.md "wikilink")。\[2\]
+它比 典型的抗精神病药物更有效，特别在抗拒治療的病人。\[3\]\[4\]\[5\] 本品可以口服。\[6\]
+
+本品可導致粒细胞缺乏症，可能導致死亡。\[7\] 為减少这种风险，白细胞的數目應定期监测。\[8\] 其他严重的副作用包括
+[癲癇](https://zh.wikipedia.org/wiki/癲癇發作 "wikilink")，[心肌炎](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")，[高血糖](https://zh.wikipedia.org/wiki/高血糖 "wikilink")，而且，可能使因[認知障礙症而精神錯亂的老年人增加的死亡的风险](../Page/失智症.md "wikilink")。\[9\]\[10\]
+常见副作用包括嗜睡、减少或增加的唾液的分泌、[低血压](../Page/低血壓.md "wikilink")、视力模糊，
+[头晕](../Page/頭暈.md "wikilink")。\[11\]
+有大约有5％的人可能會患上永久性的运动障碍迟发运动障碍。\[12\]
+其藥理作用迄今尚未明朗。\[13\]
+
+氯氮平於1958年首次合成，並於1972年開始上市。\[14\] 它是第一種第二代抗精神病药物。\[15\]
+本品列名於[世界衛生組織基本藥物標準清單之中](../Page/世界卫生组织基本药物标准清单.md "wikilink")，為基礎公衛體系必備藥物之一。\[16\]
+本品屬於[通用名藥物](../Page/通用名药物.md "wikilink")。\[17\]
+在2014年，其每日劑量於[發展中國家的批發價約介於](../Page/发展中国家.md "wikilink")0.05和2.10美金之間。\[18\]
+
+## 医疗用途
+
+氯氮平是一种第二代抗精神病药物。它主要用於治療對其他抗精神病药物无反应或不能容忍的患者。\[19\]
+这意味着他们没有對至少两个不同的的[抗精神病药物有令人满意的反應](https://zh.wikipedia.org/wiki/抗精神病药 "wikilink")。\[20\]
+它能比第一代抗精神病药物更有效地减少了精神分裂症的症状。它對那些對其他藥物反應不佳的患者有更明顯的效果。\[21\]
+
+在一項2013年的研究中，比較了15種抗精神病藥物治療精神分裂症症狀的有效度，[氯氮平排名第一](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")，並且表現出非常高的療效。
+它比[氨磺必利](../Page/氨磺必利.md "wikilink")(排名第二)有效25％，比[奧氮平](../Page/奥氮平.md "wikilink")(排名第三)有效33％，有效程度是[氟哌啶醇](../Page/氟哌啶醇.md "wikilink")，[喹硫平和](../Page/喹硫平.md "wikilink")[阿立哌唑的兩倍](../Page/阿立哌唑.md "wikilink")。\[22\]
+
+然而，氯氮平的作用並非（至少在短期內）反映在整體的衡量標準中，例如能力离开医院和保持就业。
+患者复发率是低的，患者可接受性是較其他抗精神病藥物好。\[23\]
+有一些證據表明氯氮平可能會降低[精神分裂症患者](../Page/精神分裂症.md "wikilink")[濫用藥物的傾向](https://zh.wikipedia.org/wiki/濫用藥物 "wikilink")。\[24\]
+
+它在同時治療患有[精神分裂症和](../Page/精神分裂症.md "wikilink")[帕金森氏病的患者上比其他抗精神病药物更有效](../Page/帕金森氏症.md "wikilink").\[25\]
+
+不建议將氯氮平用于治疗的老人的[認知障礙的行为问题](https://zh.wikipedia.org/wiki/認知障礙症 "wikilink")
+
+## 副作用
+
+氯氮平可能造成用一些是嚴重和致命的副作用。 常见副作用包括
+[便秘](../Page/便秘.md "wikilink")，尿床，睡眠時[流口水](https://zh.wikipedia.org/wiki/Drooling "wikilink")，[肌肉僵硬](../Page/遲發性肌肉痛.md "wikilink")，昏昏欲睡，[顫抖](../Page/顫抖.md "wikilink")，[姿位性低血压](../Page/姿位性低血壓.md "wikilink")，高血糖和[体重增加的](https://zh.wikipedia.org/wiki/Weight_gain "wikilink")。有風險會发展成[錐體外症候群](https://zh.wikipedia.org/wiki/錐體外症候群 "wikilink")，例如[迟发运动障碍的風險是低于典型的抗精神病药物](https://zh.wikipedia.org/wiki/Tardive_dyskinesia "wikilink")；这可能是由于氯氮平的抗膽鹼的影响。
+患者從另一種抗精神病藥轉用氯氮平後，錐體外系症狀可能會有所減輕。\[26\]
+
+氯氮平携带五个黑箱警告，包括粒细胞缺乏，中央神经系统的抑郁症，[白细胞减少症](../Page/白细胞减少症.md "wikilink")，[粒细胞减少症](../Page/嗜中性白血球低下.md "wikilink")，癫痫症，[骨髓抑制](https://zh.wikipedia.org/wiki/骨髓抑制 "wikilink")，[認知障礙症](../Page/失智症.md "wikilink")，[低血压](../Page/低血壓.md "wikilink")、[心肌炎](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")、[低血压直立性](../Page/姿位性低血壓.md "wikilink")
+(可能有[晕厥](../Page/昏厥.md "wikilink"))和[癲癇](../Page/癫痫.md "wikilink")。\[27\]
+癲癇發作閾值的降低可能與劑量相關，並且較少初始的劑量可降低癲癇發作的風險。較少初始的劑量也可降低直立性低血壓和其他不良心血管副作用的風險。\[28\]
+
+許多服用本品男性患者在性高潮期間會停止射精，儘管這在官方藥物指南中沒有記載。\[29\]
+
+然而，许多副作用是可以被管理的，并不一定須要停藥。\[30\]
+
+### 粒细胞缺乏症
+
+氯氮平帶有粒細胞缺乏症的黑箱警告。 在沒有監測的情況下，在治療的最初幾個月內服用氯氮平的人中約有1％發生粒細胞缺乏症;\[31\]
+治療開始的風險在治療後約三個月最高，之後大幅降低，一年後降至0.01％以下。\[32\]
+在試驗中，兒童和青少年以及老年人患有白細胞衰退的潛在風險似乎比年輕人或中年人更常見。
+
+粒细胞缺乏症是可逆轉的。\[33\]
+
+### 對心脏的毒性
+
+心肌炎有时是氯氮平致命的副作用，这通常在使用本品第一个月内开始。\[34\]
+疾病的首要表現是發燒，可能伴有與[上呼吸道](../Page/上呼吸道感染.md "wikilink")，[胃腸道或](../Page/腸胃炎.md "wikilink")[泌尿道感染相關的症狀](../Page/泌尿道感染.md "wikilink")。
+[C-反應蛋白](https://zh.wikipedia.org/wiki/C反應蛋白 "wikilink")(CRP)通常隨著[發燒的發生而增加](https://zh.wikipedia.org/wiki/發燒 "wikilink")，並且心肌酶，[肌鈣蛋白的增加在](https://zh.wikipedia.org/wiki/肌钙蛋白 "wikilink")5天后發生。
+監測指南建議在使用本品開始後的前4週檢查每週的CRP和肌鈣蛋白保持在基線，並觀察患者的疾病症徵和症狀。\[35\]
+[心力衰竭是不太常見的](https://zh.wikipedia.org/wiki/心力衰竭 "wikilink")，但可能隨著[肌鈣蛋白的增加而出現](https://zh.wikipedia.org/wiki/肌鈣蛋白 "wikilink")。最近有一項病例對照研究發現，隨著氯氮平劑量、年齡和[丙戊酸鈉的增加](https://zh.wikipedia.org/wiki/丙戊酸鈉 "wikilink")，氯氮平誘發[心肌炎的風險會增加](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")。\[36\]
+
+### 胃肠活動
+
+另一個未被認識而可能危及生命的副作用是胃腸運動減少，可能表現為嚴重的[便秘](../Page/便秘.md "wikilink")，[糞便嵌塞](../Page/糞便.md "wikilink")，麻痺性[腸梗阻](https://zh.wikipedia.org/wiki/腸 "wikilink")，腸梗阻，急性巨結腸，[缺血或](https://zh.wikipedia.org/wiki/缺血 "wikilink")[壞死](https://zh.wikipedia.org/wiki/壞死 "wikilink")。\[37\]
+當使用不透射線標記客觀地測量胃腸功能時，高達80％使用本品的人已經顯示出結腸運動不足。\[38\]
+目前，氯氮平引起的胃腸動力減少死亡率高於粒細胞增多症。\[39\]
+[考科藍的一項研究發現很少有證據可以幫助指導關於由氯氮平和其他抗精神病藥物引起的胃腸動力減少的最佳治療方法](../Page/考科藍.md "wikilink")。\[40\]
+監測所有使用氯氮平的人的腸道功能和盡快使用瀉藥已被證明可以改善結腸通過時間並減少嚴重的副作用。\[41\]
+
+### 唾液分泌過多
+
+雖然氯氮平是M1，M2，M3和M5受體的毒蕈鹼拮抗劑，但也是M4亞群的完全激動劑。
+因為M4在唾液腺中高度表達，其M4激動劑活性被認為是造成唾液腺過多的原因。\[42\]
+
+### 中枢神经系统
+
+中枢神经系统的副作用包括
+[有睡意](https://zh.wikipedia.org/wiki/昏睡 "wikilink")，[眩晕](../Page/眩暈_\(醫學\).md "wikilink")，[头痛](../Page/頭痛.md "wikilink")，[颤抖](../Page/顫抖.md "wikilink")，[晕厥](../Page/昏厥.md "wikilink")，[睡眠障碍，](../Page/睡眠障碍.md "wikilink")[恶梦，烦躁](../Page/恶梦.md "wikilink")，[运动不能，搅动](../Page/運動功能減退症.md "wikilink")，[癫痫发作](https://zh.wikipedia.org/wiki/癲癇發作 "wikilink")，痙攣，[静坐不能](https://zh.wikipedia.org/wiki/静坐不能 "wikilink")，神志不清，[疲劳](../Page/疲勞.md "wikilink")，[失眠](../Page/失眠.md "wikilink")，[运动机能亢进](https://zh.wikipedia.org/wiki/Hyperkinesia "wikilink")，[虛弱](https://zh.wikipedia.org/wiki/虛弱 "wikilink")，昏睡，[共济失调](../Page/共济失调.md "wikilink")，[説話含糊不清](https://zh.wikipedia.org/wiki/合音_\(語言學\) "wikilink")，[抑郁症](../Page/抑鬱.md "wikilink")，肌陣攣和[焦虑](../Page/焦慮.md "wikilink")。罕見的副作用有[妄想](../Page/妄想.md "wikilink")，[幻覺](../Page/幻觉.md "wikilink")，[譫妄](../Page/譫妄.md "wikilink")，[失憶](../Page/失憶症.md "wikilink")，[性慾增加或減少](../Page/性欲.md "wikilink")，偏執和煩躁，[腦電圖異常](../Page/腦電圖.md "wikilink")，精神病惡化，感覺異常，癲癇持續狀態和強迫性症狀。與其他抗精神病藥類似，氯氮平很少會引起抗精神病藥物惡性症候群。\[43\]
+
+### 小便失禁
+
+氯氮平與[尿失禁有關](../Page/尿失禁.md "wikilink")，\[44\] 虽然這並未有共識。\[45\]
+
+### 戒斷症狀
+
+突然停藥可能導致[膽鹼](https://zh.wikipedia.org/wiki/胆碱 "wikilink")[反彈效應](https://zh.wikipedia.org/wiki/反位效应 "wikilink")，嚴重的運動障礙以及嚴重的精神病失代償。
+建議患者、家屬和護理人員了解氯氮平突然停藥的症狀和風險。 當停用氯氮平時，建議逐漸減少劑量以降低戒斷效果。\[46\]\[47\]
+
+### 重量增加及糖尿病
+
+除高血糖外，氯氮平治療的患者體重經常增加。\[48\] 葡萄糖代謝受損和肥胖已被證明是代謝綜合徵造成的，並有可能增加心血管疾病的風險。
+數據表明氯氮平可能比其他一些第二代[抗精神病藥更容易引起不良代謝作用](https://zh.wikipedia.org/wiki/抗精神病药 "wikilink")。\[49\]
+一項研究表明，[奧氮平和](../Page/奥氮平.md "wikilink")[氯氮平使身體優先從脂肪中獲取能量](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")，而不是碳水化合物，來擾亂新陳代謝。碳水化合物水平仍然很高，身體會產生胰島素抵抗並會引起糖尿病。\[50\]
+
+## 相互作用
+
+[氟伏沙明抑制](../Page/氟伏沙明.md "wikilink")[氯氮平的代謝](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")，導致氯氮平在血液的水平顯著增加。\[51\]
+
+當[卡馬西平與氯氮平同時服用時](../Page/卡马西平.md "wikilink")，卡馬西平已被證明可顯著降低氯氮平的血漿水平，從而降低氯氮平的作用。\[52\]\[53\]
+應監測患者“開始或增加卡馬西平的氯氮平治療效果降低”。
+如果停用卡馬西平或降低卡馬西平的[劑量](https://zh.wikipedia.org/wiki/劑量 "wikilink")，應監測氯氮平的治療效果。
+有研究建議卡馬西平不要與氯氮平同時使用，因為出現粒細胞增多症的風險增加。\[54\]
+
+已發表的病例報告指出，同時使用[苯二氮卓類藥物和氯氮平可導致嚴重的不良反應](../Page/苯二氮䓬类.md "wikilink")，如[呼吸停止](https://zh.wikipedia.org/wiki/呼吸中止 "wikilink")，[心臟驟停和](../Page/心搏停止.md "wikilink")[猝死](../Page/猝死.md "wikilink")。\[55\]
+
+[環丙沙星是](../Page/环丙沙星.md "wikilink")[CYP1A2的](../Page/CYP1A2.md "wikilink")[抑製劑](https://zh.wikipedia.org/wiki/抑制剂 "wikilink")，氯氮平是主要的[CYP1A2](../Page/CYP1A2.md "wikilink")[底物](https://zh.wikipedia.org/wiki/酶底物_\(生物学\) "wikilink")。
+隨機研究報告了同時服用環丙沙星的精神分裂症患者的氯氮平濃度的升高。\[56\]
+因此，當環丙沙星和其他CYP1A2抑製劑加入治療時，氯氮平的處方資料建議“將氯氮平的劑量減少初始劑量的三分之一”，但一旦從治療中停止使用環丙沙星，就建議將氯氮平恢復到原始劑量。\[57\]
+
+## 药理学
+
+### 药效
+
+<table>
+<caption>氯氮平（及其代謝產物）[58][59]</caption>
+<thead>
+<tr class="header">
+<th><p>位置</p></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>5-HT&lt;sub id="mwxQ"&gt;1A&lt;/sub&gt;</p></td>
+<td><p>123.7</p></td>
+<td><p>13.9</p></td>
+</tr>
+<tr class="even">
+<td><p>5-HT&lt;sub id="mwyw"&gt;1B&lt;/sub&gt;</p></td>
+<td><p>519</p></td>
+<td><p>406.8</p></td>
+</tr>
+<tr class="odd">
+<td><p>5-HT&lt;sub id="mw0Q"&gt;1D&lt;/sub&gt;</p></td>
+<td><p>1,356</p></td>
+<td><p>476.2</p></td>
+</tr>
+<tr class="even">
+<td><p>5-HT&lt;sub id="mw1w"&gt;2A&lt;/sub&gt;</p></td>
+<td><p>5.35</p></td>
+<td><p>10.9</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/5-HT2B受體" title="wikilink">5-HT<sub>2B</sub></a></p></td>
+<td><p>8.37</p></td>
+<td><p>2.8</p></td>
+</tr>
+<tr class="even">
+<td><p>5-HT&lt;sub id="mw4w"&gt;2C&lt;/sub&gt;</p></td>
+<td><p>9.44</p></td>
+<td><p>11.9</p></td>
+</tr>
+<tr class="odd">
+<td><p>5-HT&lt;sub id="mw6Q"&gt;3&lt;/sub&gt;</p></td>
+<td><p>241</p></td>
+<td><p>272.2</p></td>
+</tr>
+<tr class="even">
+<td><p>5-HT&lt;sub id="mw7w"&gt;5A&lt;/sub&gt;</p></td>
+<td><p>3,857</p></td>
+<td><p>350.6</p></td>
+</tr>
+<tr class="odd">
+<td><p>5-HT&lt;sub id="mw9Q"&gt;6&lt;/sub&gt;</p></td>
+<td><p>13.49</p></td>
+<td><p>11.6</p></td>
+</tr>
+<tr class="even">
+<td><p>5-HT&lt;sub id="mw-w"&gt;7&lt;/sub&gt;</p></td>
+<td><p>17.95</p></td>
+<td><p>60.1</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/肾上腺素受体α1A" title="wikilink">α<sub>1A</sub></a></p></td>
+<td><p>1.62</p></td>
+<td><p>104.8</p></td>
+</tr>
+<tr class="even">
+<td><p>α&lt;sub id="mwAQc"&gt;1B&lt;/sub&gt;</p></td>
+<td><p>7</p></td>
+<td><p>85.2</p></td>
+</tr>
+<tr class="odd">
+<td><p>α&lt;sub id="mwAQ0"&gt;2A&lt;/sub&gt;</p></td>
+<td><p>37</p></td>
+<td><p>137.6</p></td>
+</tr>
+<tr class="even">
+<td><p>α&lt;sub id="mwARM"&gt;2B&lt;/sub&gt;</p></td>
+<td><p>26.5</p></td>
+<td><p>95.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>α&lt;sub id="mwARk"&gt;2C&lt;/sub&gt;</p></td>
+<td><p>6</p></td>
+<td><p>117.7</p></td>
+</tr>
+<tr class="even">
+<td><p>β&lt;sub id="mwAR8"&gt;1&lt;/sub&gt;</p></td>
+<td><p>5,000</p></td>
+<td><p>6,239</p></td>
+</tr>
+<tr class="odd">
+<td><p>β&lt;sub id="mwASU"&gt;2&lt;/sub&gt;</p></td>
+<td><p>1,650</p></td>
+<td><p>4,725</p></td>
+</tr>
+<tr class="even">
+<td><p>D&lt;sub id="mwASs"&gt;1&lt;/sub&gt;</p></td>
+<td><p>266.25</p></td>
+<td><p>14.3</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/多巴胺受體D2.md" title="wikilink">D<sub>2</sub></a></p></td>
+<td><p>157</p></td>
+<td><p>101.4</p></td>
+</tr>
+<tr class="even">
+<td><p>D&lt;sub id="mwATc"&gt;3&lt;/sub&gt;</p></td>
+<td><p>269.08</p></td>
+<td><p>193.5</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/多巴胺受体D4.md" title="wikilink">D<sub>4</sub></a></p></td>
+<td><p>26.36</p></td>
+<td><p>63.94</p></td>
+</tr>
+<tr class="even">
+<td><p>D&lt;sub id="mwAUM"&gt;5&lt;/sub&gt;</p></td>
+<td><p>255.33</p></td>
+<td><p>283.6</p></td>
+</tr>
+<tr class="odd">
+<td><p>H&lt;sub id="mwAUk"&gt;1&lt;/sub&gt;</p></td>
+<td><p>1.13</p></td>
+<td><p>3.4</p></td>
+</tr>
+<tr class="even">
+<td><p>H&lt;sub id="mwAU8"&gt;2&lt;/sub&gt;</p></td>
+<td><p>153</p></td>
+<td><p>345.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>H&lt;sub id="mwAVU"&gt;3&lt;/sub&gt;</p></td>
+<td><p>&gt;10,000</p></td>
+<td><p>&gt;10,000</p></td>
+</tr>
+<tr class="even">
+<td><p>H&lt;sub id="mwAVs"&gt;4&lt;/sub&gt;</p></td>
+<td><p>665</p></td>
+<td><p>1,028</p></td>
+</tr>
+<tr class="odd">
+<td><p>M&lt;sub id="mwAWE"&gt;1&lt;/sub&gt;</p></td>
+<td><p>6.17</p></td>
+<td><p>67.6</p></td>
+</tr>
+<tr class="even">
+<td><p>M&lt;sub id="mwAWc"&gt;2&lt;/sub&gt;</p></td>
+<td><p>36.67</p></td>
+<td><p>414.5</p></td>
+</tr>
+<tr class="odd">
+<td><p>M&lt;sub id="mwAW0"&gt;3&lt;/sub&gt;</p></td>
+<td><p>19.25</p></td>
+<td><p>95.7</p></td>
+</tr>
+<tr class="even">
+<td><p>M&lt;sub id="mwAXM"&gt;4&lt;/sub&gt;</p></td>
+<td><p>15.33</p></td>
+<td><p>169.9</p></td>
+</tr>
+<tr class="odd">
+<td><p>M&lt;sub id="mwAXk"&gt;5&lt;/sub&gt;</p></td>
+<td><p>15.5</p></td>
+<td><p>35.4</p></td>
+</tr>
+<tr class="even">
+<td><p>σ&lt;sub id="mwAX8"&gt;1&lt;/sub&gt;</p></td>
+<td><p>5,000</p></td>
+<td><p>&gt;10,000</p></td>
+</tr>
+<tr class="odd">
+<td><p>σ&lt;sub id="mwAYU"&gt;2&lt;/sub&gt;</p></td>
+<td></td>
+<td><p>&gt;10,000</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>1,000</p></td>
+<td><p>&gt;10,000</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>1,000</p></td>
+<td><p>127.9</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>1,000</p></td>
+<td><p>&gt;10,000</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>1,624</p></td>
+<td><p>316.6</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>3,168</p></td>
+<td><p>493.9</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>&gt;10,000</p></td>
+<td><p>&gt;10,000</p></td>
+</tr>
+<tr class="even">
+<td><p>值是Ki（nM）。 值越小，藥物與該部位結合的強度越大。 所有數據均為人類克隆蛋白，除σ1（豚鼠），MOR（大鼠），DOR（小鼠）和KOR（豚鼠)外。[60][61]</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+氯氮平被歸類為第二代抗精神病藥，因為它與5-羥色胺以及多巴胺受體結合。\[62\]
+
+氯氮平是5-羥色胺受體5-HT2A亞基的拮抗劑，推測可改善抑鬱，焦慮和與精神分裂症相關的負面認知症狀。\[63\]\[64\]
+
+氯氮平與[<font face="-webkit-standard">GABA</font><sub>B</sub>受體的直接相互作用被顯示了](../Page/Γ-氨基丁酸.md "wikilink")\[65\]
+[<font face="-webkit-standard">GABA</font><sub>B</sub>受體有缺陷小鼠表現出增加的細胞外](../Page/Γ-氨基丁酸A型受体.md "wikilink")[多巴胺水平和改變的運動行為](../Page/多巴胺.md "wikilink")，與[精神分裂症動物模型相當](../Page/精神分裂症.md "wikilink")。\[66\]<font face="-webkit-standard">GABA</font><sub>B</sub>受體激動劑和正變構調節劑減少這些模型中的運動變化\[67\]
+
+氯氮平誘導[星形膠質細胞釋放](../Page/星形膠質細胞.md "wikilink")[谷氨酸和D](../Page/谷氨酸.md "wikilink")-絲氨酸，這是[NMDA受體甘氨酸位點的激動劑](../Page/N-甲基-D-天門冬胺酸受體.md "wikilink")，\[68\]
+並減少星形膠質細胞谷氨酸轉運蛋白的表達。 這些直接作用也存在於不含神經元的星形膠質細胞培養物中。
+氯氮平可預防由NMDA[受體拮抗劑引起的NMDA受體表達受損](../Page/受体拮抗剂.md "wikilink")。\[69\]
+
+### 药物动力学
+
+[左](https://zh.wikipedia.org/wiki/File:Desmethylclozapine.svg "fig:左")
+[口服給藥後](../Page/口服给药.md "wikilink")，氯氮平幾乎完全被吸收，但由於[首過效應](https://zh.wikipedia.org/wiki/首过效应 "wikilink")，口服[生物利用度僅為](../Page/生物利用度.md "wikilink")60-70％。
+口服給藥後達到最高濃度的時間約為2小時30分鐘，食物似乎不影響氯氮平的生物利用度。
+氯氮平的[生物半衰期在穩態條件下約為](../Page/生物半衰期.md "wikilink")14小時(隨每日劑量而變化)。
+
+氯氮平在肝臟中通過細胞色素P450系統廣泛代謝為適合在尿液和糞便中消除的極性代謝物。
+主要[代謝產物諾氯氮平](../Page/代謝產物.md "wikilink")（去甲基氯氮平）具有藥理學活性。
+細胞色素P450[同工酶](https://zh.wikipedia.org/wiki/同工酶 "wikilink")1A2主要負責氯氮平代謝，但2C，2D6,2E1和3A3/4似乎也起作用。誘導(如:香煙煙霧)或抑制（例如茶鹼，環丙沙星，氟伏沙明）[CYP1A2的藥物可分別增加或減少氯氮平的](../Page/CYP1A2.md "wikilink")[代謝](../Page/代谢.md "wikilink")。
+例如，吸煙引起的新陳代謝誘導與非[吸煙者相比](https://zh.wikipedia.org/wiki/吸煙 "wikilink")，吸煙者需要高達兩倍的氯氮平劑量才能達到相同的血漿濃度。\[70\]
+
+氯氮平和去甲氯苯胺（去甲基 -
+氯氮平）的[血漿水平也可以監測](https://zh.wikipedia.org/wiki/血浆 "wikilink")，儘管它們顯示出顯著的變異程度，並且在女性中更高並且隨著年齡的增長而增加。\[71\]
+監測氯氮平和去甲氯平的血漿水平已被證明可用於評估藥物依從性，代謝狀態，預防毒性和改善劑量。\[72\]
+
+## 化学
+
+氯氮平是一種二苯並二氮雜卓，其結構與洛沙平有關。
+微溶於水，溶於[丙酮](../Page/丙酮.md "wikilink")，極易溶於[氯仿](../Page/氯仿.md "wikilink")。
+其在水中的溶解度為0.1889 mg / L(25[°C](../Page/摄氏温标.md "wikilink"))。
+其製造商[諾華聲稱其在水中的溶解度](../Page/诺华.md "wikilink")\<0.01％（\<100
+mg / L）。\[73\]
+
+## 历史
+
+氯氮平由[瑞士製藥公司Wander](https://zh.wikipedia.org/wiki/瑞士 "wikilink")
+AG於1958年合成，基於[三環類抗抑鬱藥丙咪嗪的](../Page/三环类抗抑郁药.md "wikilink")[化學結構](../Page/化學.md "wikilink")。
+在1962年，在人類身上的第一次測試被認為是失敗。
+在1965年和1966年在[德國進行的試驗以及](https://zh.wikipedia.org/wiki/德國 "wikilink")1966年在[維也納的試驗取得了成功](../Page/維也納.md "wikilink")。
+在1967年，**[山德士](https://zh.wikipedia.org/wiki/山德士 "wikilink")**收購了Wander
+AG。\[74\]
+進一步的實驗發生在1972年，氯氮平在[瑞士和](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[奧地利被推出市面為Leponex](https://zh.wikipedia.org/wiki/奧地利 "wikilink")。
+在兩年後，它於1975年在[西德和](../Page/西德.md "wikilink")[芬蘭被推出市面](../Page/芬兰.md "wikilink")。早期測試在[美國大約同時進行](https://zh.wikipedia.org/wiki/美國 "wikilink")。\[75\]
+1975年，在一些使用氯氮平的患者發生粒細胞缺乏症導致死亡的報導出現後，氯氮平被製造商自願撤回。\[76\]
+氯氮平屯在後來十多年來一直失寵，儘管在芬蘭發生的粒細胞缺乏症的原因尚不清楚，它的發生率高出20倍。\[77\]
+這比其他任何國家報吿的都多。
+然而，當研究表明氯氮平對治療抵抗性[精神分裂症比其他](../Page/精神分裂症.md "wikilink")[抗精神病藥更有效時](https://zh.wikipedia.org/wiki/抗精神病药 "wikilink")，[FDA和大多數其他國家的衛生當局僅批准其用於治療抵抗性精神分裂症](../Page/美国食品药品监督管理局.md "wikilink")，並且需要限制性分佈，在發生粒細胞缺乏症之前，患者須要登記和定期進行血液學監測來檢測粒細胞減少症。
+在2002年12月，氯氮平在美國被批准用於降低精神分裂症或分裂情感患者的自殺風險，這些患者被認為具有自殺行為的慢性風險\[78\]
+2005年FDA批准允許降低血液監測的頻率。\[79\]在2015年，個別製造商患者登記處被FDA要求合併到一個名為Clozapine
+REMS Registry的共享患者登記處。
+
+氯氮平使用很多品牌在全世界销售，包括Alemoxan,Azaleptine,Azaleptol,Cloment,Clonex,Clopin,Clopine,Clopsine,Cloril,Clorilex,Clozamed,Clozapex,Clozapin,Clozapina氯氮平、Clozapinum,Clozapyl,Clozarem,Clozaril,Denzapine,Dicomex,Elcrit,Excloza,FazaClo,Froidir,Ihope,Klozapol,Lanolept,Lapenax,Leponex,Lodux,Lozapine,Lozatric,Luften,Medazepine,Mezapin,内米亚Nirva,Ozadep,Ozapim，Refract，Refraxol,Schizonex,Sensipin,Sequax,Sicozapina,
+Sizoril,Syclop,Syzopin,Tanyl,Uspen,Versacloz,Xenopal,Zaclo,Zapenia,Zapine,Zaponex,Zaporil,Ziproc，及Zopin。\[80\]
+
+## 參見
+
+  -   - \[./https://en.wikipedia.org/wiki/DHA-clozapine DHA-clozapine\]
+      - \[./https://en.wikipedia.org/wiki/Drug_of_last_resort Drug of
+        last resort\]
+
+## 參考資料
+
+<references group="" responsive="">
+
+</references>
+
+## 延伸阅读
+
+  -   - Benkert, Hippius: Kompendium der Psychiatrischen
+        Pharmakotherapie (German), 4th. ed., Springer Verlag
+
+      - B. Bandelow, S. Bleich, and S. Kropp: Handbuch Psychopharmaka
+        (German), 2nd. ed. Hogrefe
+
+      -
+  -
+## 外部連結
+
+  - [美国国家生物技术信息中心：医疗遗传学摘要-氯氮平的治疗和CYP2D6，CYP1A2，并且基因型CYP3A4](https://www.ncbi.nlm.nih.gov/books/NBK367795/)
+  - [美国国家医学图书馆：药物信息门户网站 –氯氮平](http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Clozapine)
+  - [我们包插入](http://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clozapine)
+
+[Category:世界卫生组织基本药物](https://zh.wikipedia.org/wiki/Category:世界卫生组织基本药物 "wikilink")
+[Category:血清素拮抗剂](https://zh.wikipedia.org/wiki/Category:血清素拮抗剂 "wikilink")
+[Category:哌嗪](https://zh.wikipedia.org/wiki/Category:哌嗪 "wikilink")
+[Category:蕈毒碱性受体拮抗剂](https://zh.wikipedia.org/wiki/Category:蕈毒碱性受体拮抗剂 "wikilink")
+[Category:情绪稳定剂](https://zh.wikipedia.org/wiki/Category:情绪稳定剂 "wikilink")
+[Category:多巴胺拮抗药](https://zh.wikipedia.org/wiki/Category:多巴胺拮抗药 "wikilink")
+[Category:多巴胺激动剂](https://zh.wikipedia.org/wiki/Category:多巴胺激动剂 "wikilink")
+[Category:氯代芳烴](https://zh.wikipedia.org/wiki/Category:氯代芳烴 "wikilink")
+[Category:非典型抗精神病药](https://zh.wikipedia.org/wiki/Category:非典型抗精神病药 "wikilink")
+[Category:带有非标准子页面的Template:drugs.com链接](https://zh.wikipedia.org/wiki/Category:带有非标准子页面的Template:drugs.com链接 "wikilink")
+[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+7.
+
+8.
+9.
+10.
+
+11.
+12.
+13.
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.  [Free full text with
+    registration](http://content.nejm.org/cgi/content/full/329/3/162)
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43. [rxlist.com / Clozapine side
+    effects](http://www.rxlist.com/cgi/generic/clozapine_ad.htm)
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57. 规定的信息。 Clozaril(氯氮平的)。 东Hanover,NJ：诺华医药公司、日2014年。
+
+58.
+
+59.
+
+60.
+61.
+62.
+
+63.
+
+64.  C18H19ClN4 -
+    PubChem|url=[https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2818|website=pubchem.ncbi.nlm.nih.gov|accessdate=16](https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2818%7Cwebsite=pubchem.ncbi.nlm.nih.gov%7Caccessdate=16)
+    July
+    2017|language=en|deadurl=no|archiveurl=[https://web.archive.org/web/20131224110428/http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2818|archivedate=24](https://web.archive.org/web/20131224110428/http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2818%7Carchivedate=24)
+    December 2013|df=}}
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.

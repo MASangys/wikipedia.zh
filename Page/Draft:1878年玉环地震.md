@@ -1,0 +1,32 @@
+**1878年玉环地震**指的是[清](../Page/清朝.md "wikilink")[光绪四年](../Page/光绪.md "wikilink")（公元1878年）发生在清朝[温州府](https://zh.wikipedia.org/wiki/温州府 "wikilink")[玉环厅](https://zh.wikipedia.org/wiki/玉环厅 "wikilink")（今[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[浙江省](../Page/浙江省.md "wikilink")[玉环市](../Page/玉环市.md "wikilink")）的一场地震。这次地震的发生地玉环属于[海岛](https://zh.wikipedia.org/wiki/岛屿 "wikilink")。在历史上，是次地震也并无包括震级在内的太多记载。
+
+## 背景
+
+[玉环是全国](../Page/玉环市.md "wikilink")14个[海岛县之一](https://zh.wikipedia.org/wiki/海岛县 "wikilink")\[1\]，境内[岛屿林立](../Page/島嶼.md "wikilink")、海礁棋布。地震发生时，玉环全境由玉环岛、楚门半岛（1977年建设的漩门大坝将玉环岛连入楚门半岛，详见[漩门港堵港截流促淤工程](../Page/漩门港堵港截流促淤工程.md "wikilink")）及[鸡山](https://zh.wikipedia.org/wiki/鸡山乡 "wikilink")、[披山](../Page/披山岛.md "wikilink")、洋屿、[大鹿](https://zh.wikipedia.org/wiki/大鹿岛 "wikilink")、茅埏、横床等55个岛屿组成。其中，玉环本岛面积达170平方千米，是浙江省第二大岛。\[2\]\[3\]而地震发生地浙江，是[中华人民共和国建国以来](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，中国唯一一个没有发生过强震的省份，原因在于浙江恰好避开了[环太平洋地震带和](https://zh.wikipedia.org/wiki/环太平洋地震带 "wikilink")[欧亚地震带两大地震带](https://zh.wikipedia.org/wiki/欧亚地震带 "wikilink")\[4\]\[5\]。
+
+## 记载
+
+本次地震在历史上的记载基本上仅有以下两处：
+
+  - 光绪《玉环厅志》卷一四的《异》一节中有：“光绪四年……七月初一夜地震，大风雨”\[6\]\[7\]。
+  - 中华人民共和国建国后编纂的《玉环县志》的《大事记》中记载同上\[8\]
+
+由以上史料可以看出，这次地震发生于清[光绪四年](../Page/光绪.md "wikilink")（公元[1878年](../Page/1878年.md "wikilink")）7月1日晚，且伴随着大风及暴雨。
+
+## 相关
+
+  - 2015年1月3日，位于[坎门街道的玉环县坎门东山头国家基本气象站观测场内安装了地震烈度观测传感仪](../Page/坎门街道.md "wikilink")\[9\]。
+  - 除了这次地震以外，玉环还多次受[台湾等地地震带来的影响](https://zh.wikipedia.org/wiki/台湾 "wikilink")。比如[2019年花蓮地震便给玉环带来明显震感](../Page/2019年花蓮地震.md "wikilink")\[10\]。
+
+## 参考来源
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.

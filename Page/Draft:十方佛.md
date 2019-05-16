@@ -1,0 +1,57 @@
+**十方佛**，又称**十方诸佛**，佛教用語，指的是[法界](../Page/法界.md "wikilink")[十方的](https://zh.wikipedia.org/wiki/十方_\(佛教\) "wikilink")[佛陀](https://zh.wikipedia.org/wiki/佛陀 "wikilink")\[1\]，有時每個方向具體舉一尊佛爲代表，十方就舉出十尊佛，在不同經典裡列舉不同。
+
+## 泛稱
+
+大乘佛教認為[法界](../Page/法界.md "wikilink")[十方有無數個世界](https://zh.wikipedia.org/wiki/十方_\(佛教\) "wikilink")，每個世界都有一尊佛陀教化。因此以十方諸佛泛稱所有的佛陀。
+
+## 具體的十方佛
+
+舉出十尊佛時，可以指：
+
+  - 东方[善德佛](https://zh.wikipedia.org/wiki/善德佛 "wikilink")，东南[无忧德佛](https://zh.wikipedia.org/wiki/无忧德佛 "wikilink")，南方[旃檀德佛](https://zh.wikipedia.org/wiki/旃檀德佛 "wikilink")，西南[宝施佛](https://zh.wikipedia.org/wiki/宝施佛 "wikilink")（亦有寫作寶勝佛），西方[无量明佛](../Page/阿弥陀佛.md "wikilink")，西北[华（花）德佛](https://zh.wikipedia.org/wiki/华德佛 "wikilink")，北方[相德佛](https://zh.wikipedia.org/wiki/相德佛 "wikilink")，東北方[三乘行佛](https://zh.wikipedia.org/wiki/三乘行佛 "wikilink")，上方[廣眾德佛](https://zh.wikipedia.org/wiki/廣眾德佛 "wikilink")，下方[明德佛](https://zh.wikipedia.org/wiki/明德佛 "wikilink")。\[2\]<ref>《十住毘婆沙論·易行品》、《寶月童子所問經》：
+
+**東方善德佛**，佛国名“无忧”：“佛告宝月：东方去此，过无量无边，不可思议，恒河沙等佛土，有世界名无忧。其地平坦，七宝合成。紫磨金缕，交络道界。宝树罗列，以为庄严。无有地狱、畜生、饿鬼、阿修罗道，及诸难处。清净无秽，无有沙砾、瓦石、山陵、堆阜、深坑、幽壑。天常雨华，以布其地。时世有佛，号曰善德，如来、应供、正遍知、明行足、善逝、世间解、无上士、调御丈夫、天人师、佛、世尊。”
+**南方旃檀德佛**，佛国名“欢喜”：“南方去此，无量无边，恒河沙等佛土，有世界名欢喜。佛号栴檀德，今现在说法。譬如栴檀，香而清凉。彼佛名称远闻，如香流布；灭除众生，三毒火热，令得清凉。”
+**西方无量明佛**（即[阿彌陀佛](https://zh.wikipedia.org/wiki/阿彌陀佛 "wikilink")），佛国名“善解”（即[極樂世界](../Page/極樂世界.md "wikilink")）：“西方去此，无量无边，恒河沙等佛土，有世界名善解。佛号无量明，今现在说法。其佛身光，及智慧明，照无量无边。”
+**北方相德佛**，佛国名“不可动”：“北方去此，无量无边，恒河沙等佛土，有世界名不可动。佛名相德，今现在说法。其佛福德高显，犹如幢相。”
+**东南方无忧德佛**，佛国名“月明”：“东南方去此，无量无边，恒河沙等佛土，有世界名月明。佛号无忧德，今现在说法。其佛神德，令诸天人，无有忧愁。”
+**西南方宝施佛**，佛国名“众相”：“西南方去此，无量无边，恒河沙等佛土，有世界名众相。佛号宝施，今现在说法。其佛以诸无漏，根力觉道等宝，常施众生。”
+**西北方华（花）德佛**，佛国名“众音”：“西北方去此，无量无边，恒河沙等佛土，有世界名众音。佛号华德，今现在说法。其佛色身，犹如妙华，其德无量。”
+**东北方三乘行佛**，佛国名“安隐（穩）”：“东北方去此，无量无边，恒河沙等佛土，有世界名安隐。佛号三乘行，今现在说法。其佛常说声闻行，辟支佛行，诸菩萨行。有人言，说上中下精进故，号为三乘行。”
+**上方廣众德佛**，佛国名“众月”：“上方去此，无量无边，恒河沙等佛土，有世界名众月。佛号广众德，今现在说法。其佛弟子，福德广大故，号广众德。”
+**下方明德佛**，佛国名“廣大”：“下方去此，无量无边，恒河沙等佛土，有世界名广大。佛号明德，今现在说法。明名身明、智慧明、宝树光明，是三种明，常照世间。”
+</ref>
+
+  - 東方[藥師佛](../Page/阿閦佛.md "wikilink")，東南方[持地佛](https://zh.wikipedia.org/wiki/持地佛 "wikilink")，南方[普滿佛](https://zh.wikipedia.org/wiki/普滿佛 "wikilink")，西南方[那羅延佛](https://zh.wikipedia.org/wiki/那羅延佛 "wikilink")，西方[無量壽佛](https://zh.wikipedia.org/wiki/無量壽佛 "wikilink")，西北方[月光面佛](https://zh.wikipedia.org/wiki/月光面佛 "wikilink")，北方[難勝佛](https://zh.wikipedia.org/wiki/難勝佛 "wikilink")，東北方[寂諸根佛](https://zh.wikipedia.org/wiki/寂諸根佛 "wikilink")，上方[無量勝佛](https://zh.wikipedia.org/wiki/無量勝佛 "wikilink")，下方[實行佛](https://zh.wikipedia.org/wiki/實行佛 "wikilink")。\[3\]
+
+<!-- end list -->
+
+  - 東方[阿閦佛](../Page/阿閦佛.md "wikilink")、南方[寶生佛](https://zh.wikipedia.org/wiki/寶生佛 "wikilink")、西方[阿弥陀佛](../Page/阿弥陀佛.md "wikilink")、北方[不空成就佛](https://zh.wikipedia.org/wiki/不空成就佛 "wikilink")、下方[毘盧遮那佛](https://zh.wikipedia.org/wiki/毘盧遮那佛 "wikilink")、上方[釋迦牟尼佛](https://zh.wikipedia.org/wiki/釋迦牟尼佛 "wikilink")、東南方[廣大雲雷音佛](https://zh.wikipedia.org/wiki/廣大雲雷音佛 "wikilink")、西南方[因陀羅咭都幢佛](https://zh.wikipedia.org/wiki/因陀羅咭都幢佛 "wikilink")、西北方[娑羅因陀羅王如來](https://zh.wikipedia.org/wiki/娑羅因陀羅王如來 "wikilink")、東北方[遊步佛](https://zh.wikipedia.org/wiki/遊步佛 "wikilink")。\[4\]
+
+<!-- end list -->
+
+  - 東方[不动佛](../Page/阿閦佛.md "wikilink")、南方日月光佛、西方[無量壽佛](../Page/阿弥陀佛.md "wikilink")、北方無量光嚴通達覺慧佛、下方一切妙法正理常放火王勝德光明佛、上方梵音佛、東南方最勝廣大雲雷音王佛、西南方最勝日光名稱功德佛、西北方無量功德火王光明佛、東北方無數百千俱胝廣慧佛。\[5\]
+
+[十方佛名.JPG](https://zh.wikipedia.org/wiki/File:十方佛名.JPG "fig:十方佛名.JPG")
+
+## 參考資料
+
+## 參見
+
+  - [十方 (佛教)](https://zh.wikipedia.org/wiki/十方_\(佛教\) "wikilink")
+  - [五方佛](../Page/五方佛.md "wikilink")
+  - [三世佛](../Page/三世佛.md "wikilink")
+  - [佛陀名号列表](https://zh.wikipedia.org/wiki/佛陀名号列表 "wikilink")
+  - [十方诸佛诤论](https://zh.wikipedia.org/wiki/十方诸佛诤论 "wikilink")
+
+[Category:佛](https://zh.wikipedia.org/wiki/Category:佛 "wikilink")
+[Category:佛教名數10](https://zh.wikipedia.org/wiki/Category:佛教名數10 "wikilink")
+[Category:佛教術語](https://zh.wikipedia.org/wiki/Category:佛教術語 "wikilink")
+
+1.
+
+2.
+3.
+4.  《阿彌陀經》，见[《佛学大辞典》【十佛】](https://zh.wikipedia.org/wiki/:s:佛學大辭典/十佛 "wikilink")
+
+5.  《稱讚淨土經》，见[《佛学大辞典》【十佛】](https://zh.wikipedia.org/wiki/:s:佛學大辭典/十佛 "wikilink")

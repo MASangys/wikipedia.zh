@@ -1,0 +1,28 @@
+**填写编辑摘要**是维基的[指导原则之一](https://zh.wikipedia.org/wiki/Wikipedia:守则与指导 "wikilink")。当您在[维基](https://zh.wikipedia.org/wiki/维基 "wikilink")[编辑一篇文章的时候](https://zh.wikipedia.org/wiki/Wikipedia:如何编辑页面 "wikilink")，您可以看到一个如下的名为“编辑摘要”的文本编辑框：（如果你使用[可視化編輯器進行編輯](https://zh.wikipedia.org/wiki/Wikipedia:可视化编辑器 "wikilink")，填寫編輯摘要的輸入框將於你點擊「儲存頁面」時顯示。）
+
+  -
+    [Edit summary text
+    box](https://zh.wikipedia.org/wiki/File:Edit_Summary-2_\(zh\).png "fig:Edit summary text box")
+
+写在那里的文本将会出现在**最近更改**、历史纪录以及所有监视这个页面的用户的[监视列表中](https://zh.wikipedia.org/wiki/Help:监视列表 "wikilink")。这个框最多可以填写500个字符（半角或者全角）。编辑摘要可以帮助后来的编辑者和维护人员迅速了解一次编辑，所以我們強烈建議你每次編輯均填寫摘要（你可以在參數設置→編輯→勾選「當編輯摘要沒有輸入時提示我」以令系統在你保存編輯時編輯摘要為空的情況下提醒你）。
+
+## 特性
+
+在編輯摘要中：
+
+  - 內部連結、跨維基連結將能正常被顯示出來，但「鏈入頁面」功能將不會顯示該頁面
+  - 外部連結、模板、HTML原始碼、粗斜體、`<nowiki>`將不能被顯示
+  - 當預覽編輯時，編輯摘要也會同時被顯示
+  - 當從章節的「編輯」按鈕進入時，該段落的標題將被自動包含在編輯摘要的 /\* 及 \*/ 符號之間
+  - 當編輯保存後，編輯摘要將不能被修改
+  - 在討論頁加入新主題的時候，該主題名稱將自動包含在編輯摘要中。你不能夠修改編輯摘要
+  - 在一些情况下，系统会[自动生成编辑摘要](https://zh.wikipedia.org/wiki/Wikipedia:自動編輯摘要 "wikilink")。由於自动生成编辑摘要表示你沒有填寫編輯摘要，一般而言這樣不方便其他用户了解你為何要作出這次編輯，故此不被鼓勵（建立重定向頁面除外。）
+  - 維基站點的搜索功能無法搜索編輯摘要內容，而其他搜索引擎也不會對編輯摘要進行索引
+
+## 參見
+
+  - [元维基用户指导:编辑摘要](https://zh.wikipedia.org/wiki/m:MediaWiki_User's_Guide:_Edit_summary "wikilink")：了解关于这个功能的所有信息。
+  - [Wikipedia:編輯摘要](https://zh.wikipedia.org/wiki/Wikipedia:編輯摘要 "wikilink")：了解人们在编辑摘要中常用的缩写。
+
+[Category:帮助文档](https://zh.wikipedia.org/wiki/Category:帮助文档 "wikilink")
+[Category:維基百科編輯](https://zh.wikipedia.org/wiki/Category:維基百科編輯 "wikilink")

@@ -1,0 +1,110 @@
+<span data-segmentid="4" class="cx-segment">**醛脱氢酶1家族成员A2**（</span><span data-segmentid="4" class="cx-segment">），简称为**ALDH1A2**，或称为**[视黄醛脱氢酶](../Page/视黄醛.md "wikilink")2**（简写为**RALDH2**），是在人体内一种由ALDH1A2[基因编码的](../Page/基因.md "wikilink")[酶](../Page/酶.md "wikilink")。\[1\]\[2\]</span><span data-segmentid="7" class="cx-segment">此蛋白为<span data-segmentid="4" class="cx-segment">醛脱氢酶</span>蛋白家族成员，是负责</span><span data-segmentid="8" class="cx-segment">[催化](../Page/催化.md "wikilink")[视黄酸到](https://zh.wikipedia.org/wiki/视黄酸 "wikilink")[视黄醛的合成的](../Page/视黄醛.md "wikilink")[酶](../Page/酶.md "wikilink")。[视黄酸是](https://zh.wikipedia.org/wiki/视黄酸 "wikilink")</span><span data-segmentid="11" class="cx-segment">[维生素A](https://zh.wikipedia.org/wiki/维生素A "wikilink")（即视黄醇）的活性衍生物，是一种[旁分泌](https://zh.wikipedia.org/wiki/旁分泌 "wikilink")[激素](../Page/激素.md "wikilink")[信号分子](../Page/信号分子.md "wikilink")，主要作用于发育中的组织和成年组织中。\[3\]</span><span data-segmentid="14" class="cx-segment">对小鼠中类似基因的研究表明，这种酶和[细胞色素CYP](../Page/细胞色素.md "wikilink")26A1同时确立局部胚胎组织中的<span data-segmentid="8" class="cx-segment">[视黄酸浓度](https://zh.wikipedia.org/wiki/视黄酸 "wikilink")</span>，促进后部器官发育和防止[脊柱裂](../Page/脊柱裂.md "wikilink")。ALDH1A2基因<span data-segmentid="15" class="cx-segment">已确认</span>有</span><span data-segmentid="15" class="cx-segment">三种可编码不同亚型蛋白的</span><span data-segmentid="14" class="cx-segment">[转录](../Page/转录.md "wikilink")</span><span data-segmentid="15" class="cx-segment">[变异体](https://zh.wikipedia.org/wiki/转录变异体 "wikilink")。\[4\]</span>
+
+## <span data-segmentid="16" class="cx-segment">参考文献</span>
+
+<references group="" responsive="1">
+
+</references>
+
+## <span data-segmentid="26" class="cx-segment">拓展阅读</span>
+
+<div class="refbegin  columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+
+  - <span data-segmentid="27" class="cx-segment"></span>
+  - <cite class="citation journal">Wang X, Penzes P, Napoli JL.
+    -{zh;zh-hans;zh-hant|Cloning of a cDNA encoding an aldehyde
+    dehydrogenase and its expression in Escherichia coli. Recognition of
+    retinal as substrate}-. J. Biol. Chem. 1996, **271** (27): 16288–93.
+    \[//www.ncbi.nlm.nih.gov/pubmed/8663198
+    <span title="公共医学识别码">PMID 8663198</span>\].
+    \[//dx.doi.org/10.1074%2Fjbc.271.27.16288
+    <span title="數位物件識別號"><doi:10.1074/jbc.271.27.16288></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Cloning+of+a+cDNA+encoding+an+aldehyde+dehydrogenase+and+its+expression+in+Escherichia+coli.+Recognition+of+retinal+as+substrate&rft.au=Napoli%2C+JL&rft.au=Penzes%2C+P&rft.aufirst=X&rft.aulast=Wang&rft.date=1996&rft.genre=article&rft.issue=27&rft.jtitle=J.+Biol.+Chem.&rft.pages=16288-93&rft.volume=271&rft_id=info%3Adoi%2F10.1074%2Fjbc.271.27.16288&rft_id=info%3Apmid%2F8663198&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Zhao D, McCaffery P, Ivins KJ, 等.
+    -{zh;zh-hans;zh-hant|Molecular identification of a major
+    retinoic-acid-synthesizing enzyme, a retinaldehyde-specific
+    dehydrogenase}-. Eur. J. Biochem. 1996, **240** (1): 15–22.
+    \[//www.ncbi.nlm.nih.gov/pubmed/8797830
+    <span title="公共医学识别码">PMID 8797830</span>\].
+    \[//dx.doi.org/10.1111%2Fj.1432-1033.1996.0015h.x
+    <span title="數位物件識別號"><doi:10.1111/j.1432-1033.1996.0015h.x></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Molecular+identification+of+a+major+retinoic-acid-synthesizing+enzyme%2C+a+retinaldehyde-specific+dehydrogenase&rft.au=Ivins%2C+KJ&rft.au=McCaffery%2C+P&rft.aufirst=D&rft.aulast=Zhao&rft.date=1996&rft.genre=article&rft.issue=1&rft.jtitle=Eur.+J.+Biochem.&rft.pages=15-22&rft.volume=240&rft_id=info%3Adoi%2F10.1111%2Fj.1432-1033.1996.0015h.x&rft_id=info%3Apmid%2F8797830&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Niederreither K, Subbarayan V, Dollé
+    P, Chambon P. -{zh;zh-hans;zh-hant|Embryonic retinoic acid synthesis
+    is essential for early mouse post-implantation development}-. Nat.
+    Genet. 1999, **21** (4): 444–8.
+    \[//www.ncbi.nlm.nih.gov/pubmed/10192400
+    <span title="公共医学识别码">PMID 10192400</span>\].
+    \[//dx.doi.org/10.1038%2F7788
+    <span title="數位物件識別號"><doi:10.1038/7788></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Embryonic+retinoic+acid+synthesis+is+essential+for+early+mouse+post-implantation+development&rft.au=Chambon%2C+P&rft.au=Doll%C3%A9%2C+P&rft.au=Subbarayan%2C+V&rft.aufirst=K&rft.aulast=Niederreither&rft.date=1999&rft.genre=article&rft.issue=4&rft.jtitle=Nat.+Genet.&rft.pages=444-8&rft.volume=21&rft_id=info%3Adoi%2F10.1038%2F7788&rft_id=info%3Apmid%2F10192400&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Niederreither K, Abu-Abed S,
+    Schuhbaur B, 等. -{zh;zh-hans;zh-hant|Genetic evidence that oxidative
+    derivatives of retinoic acid are not involved in retinoid signaling
+    during mouse development}-. Nat. Genet. 2002, **31** (1): 84–8.
+    \[//www.ncbi.nlm.nih.gov/pubmed/11953746
+    <span title="公共医学识别码">PMID 11953746</span>\].
+    \[//dx.doi.org/10.1038%2Fng876
+    <span title="數位物件識別號"><doi:10.1038/ng876></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Genetic+evidence+that+oxidative+derivatives+of+retinoic+acid+are+not+involved+in+retinoid+signaling+during+mouse+development&rft.au=Abu-Abed%2C+S&rft.au=Schuhbaur%2C+B&rft.aufirst=K&rft.aulast=Niederreither&rft.date=2002&rft.genre=article&rft.issue=1&rft.jtitle=Nat.+Genet.&rft.pages=84-8&rft.volume=31&rft_id=info%3Adoi%2F10.1038%2Fng876&rft_id=info%3Apmid%2F11953746&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Strausberg RL, Feingold EA, Grouse
+    LH, 等. \[//www.ncbi.nlm.nih.gov/pmc/articles/PMC139241
+    -{zh;zh-hans;zh-hant|Generation and initial analysis of more than
+    15,000 full-length human and mouse cDNA sequences}-\]. Proc. Natl.
+    Acad. Sci. U.S.A. 2003, **99** (26): 16899–903.
+    \[//www.ncbi.nlm.nih.gov/pmc/articles/PMC139241
+    <span title="公共医学中心">PMC 139241</span>\].
+    \[//www.ncbi.nlm.nih.gov/pubmed/12477932
+    <span title="公共医学识别码">PMID 12477932</span>\].
+    \[//dx.doi.org/10.1073%2Fpnas.242603899
+    <span title="數位物件識別號"><doi:10.1073/pnas.242603899></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Generation+and+initial+analysis+of+more+than+15%2C000+full-length+human+and+mouse+cDNA+sequences&rft.au=Feingold%2C+EA&rft.au=Grouse%2C+LH&rft.aufirst=RL&rft.aulast=Strausberg&rft.date=2003&rft.genre=article&rft.issue=26&rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A.&rft.pages=16899-903&rft.volume=99&rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC139241&rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC139241&rft_id=info%3Adoi%2F10.1073%2Fpnas.242603899&rft_id=info%3Apmid%2F12477932&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Ota T, Suzuki Y, Nishikawa T, 等.
+    -{zh;zh-hans;zh-hant|Complete sequencing and characterization of
+    21,243 full-length human cDNAs}-. Nat. Genet. 2004, **36** (1):
+    40–5. \[//www.ncbi.nlm.nih.gov/pubmed/14702039
+    <span title="公共医学识别码">PMID 14702039</span>\].
+    \[//dx.doi.org/10.1038%2Fng1285
+    <span title="數位物件識別號"><doi:10.1038/ng1285></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Complete+sequencing+and+characterization+of+21%2C243+full-length+human+cDNAs&rft.au=Nishikawa%2C+T&rft.au=Suzuki%2C+Y&rft.aufirst=T&rft.aulast=Ota&rft.date=2004&rft.genre=article&rft.issue=1&rft.jtitle=Nat.+Genet.&rft.pages=40-5&rft.volume=36&rft_id=info%3Adoi%2F10.1038%2Fng1285&rft_id=info%3Apmid%2F14702039&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Anderson NL, Polanski M, Pieper R, 等.
+    [-{zh;zh-hans;zh-hant|The human plasma proteome: a nonredundant list
+    developed by combination of four separate
+    sources}-](http://www.mcponline.org/content/3/4/311.full.pdf)
+    <span style="font-size:85%;">(PDF)</span>. Mol. Cell. Proteomics.
+    2004, **3** (4): 311–26. \[//www.ncbi.nlm.nih.gov/pubmed/14718574
+    <span title="公共医学识别码">PMID 14718574</span>\].
+    \[//dx.doi.org/10.1074%2Fmcp.M300127-MCP200
+    <span title="數位物件識別號"><doi:10.1074/mcp.M300127-MCP200></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=The+human+plasma+proteome%3A+a+nonredundant+list+developed+by+combination+of+four+separate+sources&rft.au=Pieper%2C+R&rft.au=Polanski%2C+M&rft.aufirst=NL&rft.aulast=Anderson&rft.date=2004&rft.genre=article&rft.issue=4&rft.jtitle=Mol.+Cell.+Proteomics&rft.pages=311-26&rft.volume=3&rft_id=http%3A%2F%2Fwww.mcponline.org%2Fcontent%2F3%2F4%2F311.full.pdf&rft_id=info%3Adoi%2F10.1074%2Fmcp.M300127-MCP200&rft_id=info%3Apmid%2F14718574&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Gerhard DS, Wagner L, Feingold EA, 等.
+    \[//www.ncbi.nlm.nih.gov/pmc/articles/PMC528928
+    -{zh;zh-hans;zh-hant|The Status, Quality, and Expansion of the NIH
+    Full-Length cDNA Project: The Mammalian Gene Collection (MGC)}-\].
+    Genome Res. 2004, **14** (10B): 2121–7.
+    \[//www.ncbi.nlm.nih.gov/pmc/articles/PMC528928
+    <span title="公共医学中心">PMC 528928</span>\].
+    \[//www.ncbi.nlm.nih.gov/pubmed/15489334
+    <span title="公共医学识别码">PMID 15489334</span>\].
+    \[//dx.doi.org/10.1101%2Fgr.2596504
+    <span title="數位物件識別號"><doi:10.1101/gr.2596504></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=The+Status%2C+Quality%2C+and+Expansion+of+the+NIH+Full-Length+cDNA+Project%3A+The+Mammalian+Gene+Collection+%28MGC%29&rft.au=Feingold%2C+EA&rft.au=Wagner%2C+L&rft.aufirst=DS&rft.aulast=Gerhard&rft.date=2004&rft.genre=article&rft.issue=10B&rft.jtitle=Genome+Res.&rft.pages=2121-7&rft.volume=14&rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC528928&rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC528928&rft_id=info%3Adoi%2F10.1101%2Fgr.2596504&rft_id=info%3Apmid%2F15489334&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Deak KL, Dickerson ME, Linney E, 等.
+    -{zh;zh-hans;zh-hant|Analysis of ALDH1A2, CYP26A1, CYP26B1, CRABP1,
+    and CRABP2 in human neural tube defects suggests a possible
+    association with alleles in ALDH1A2}-. Birth Defects Res. Part a
+    Clin. Mol. Teratol. 2006, **73** (11): 868–75.
+    \[//www.ncbi.nlm.nih.gov/pubmed/16237707
+    <span title="公共医学识别码">PMID 16237707</span>\].
+    \[//dx.doi.org/10.1002%2Fbdra.20183
+    <span title="數位物件識別號"><doi:10.1002/bdra.20183></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Analysis+of+ALDH1A2%2C+CYP26A1%2C+CYP26B1%2C+CRABP1%2C+and+CRABP2+in+human+neural+tube+defects+suggests+a+possible+association+with+alleles+in+ALDH1A2&rft.au=Dickerson%2C+ME&rft.au=Linney%2C+E&rft.aufirst=KL&rft.aulast=Deak&rft.date=2006&rft.genre=article&rft.issue=11&rft.jtitle=Birth+Defects+Res.+Part+a+Clin.+Mol.+Teratol.&rft.pages=868-75&rft.volume=73&rft_id=info%3Adoi%2F10.1002%2Fbdra.20183&rft_id=info%3Apmid%2F16237707&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+  - <cite class="citation journal">Ribes V, Wang Z, Dollé P,
+    Niederreither K. -{zh;zh-hans;zh-hant|Retinaldehyde dehydrogenase 2
+    (RALDH2)-mediated retinoic acid synthesis regulates early mouse
+    embryonic forebrain development by controlling FGF and sonic
+    hedgehog signaling}-. Development. 2006, **133** (2): 351–61.
+    \[//www.ncbi.nlm.nih.gov/pubmed/16368932
+    <span title="公共医学识别码">PMID 16368932</span>\].
+    \[//dx.doi.org/10.1242%2Fdev.02204
+    <span title="數位物件識別號"><doi:10.1242/dev.02204></span>\].</cite><span title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzh.wikipedia.org%3AALDH1A2&rft.atitle=Retinaldehyde+dehydrogenase+2+%28RALDH2%29-mediated+retinoic+acid+synthesis+regulates+early+mouse+embryonic+forebrain+development+by+controlling+FGF+and+sonic+hedgehog+signaling&rft.au=Doll%C3%A9%2C+P&rft.au=Niederreither%2C+K&rft.au=Wang%2C+Z&rft.aufirst=V&rft.aulast=Ribes&rft.date=2006&rft.genre=article&rft.issue=2&rft.jtitle=Development&rft.pages=351-61&rft.volume=133&rft_id=info%3Adoi%2F10.1242%2Fdev.02204&rft_id=info%3Apmid%2F16368932&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;"> </span></span>
+
+</div>
+
+
+
+1.
+2.
+3.
+4.

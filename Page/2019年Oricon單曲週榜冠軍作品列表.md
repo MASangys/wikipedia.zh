@@ -1,0 +1,147 @@
+**2019年Oricon單曲週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+
+## 冠軍單曲列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期付</p></th>
+<th><p>作品</p></th>
+<th><p>歌手</p></th>
+<th><p>週間銷量<br />
+（萬張）</p></th>
+<th><p>登場週數</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1月7日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/D/Zeal" title="wikilink">D/Zeal</a></p></td>
+<td><p>5.8</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>1月14日</p></td>
+<td></td>
+<td><p><a href="../Page/桑田佳祐.md" title="wikilink">桑田佳祐</a>&amp;The Pin Boys</p></td>
+<td><p>3.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I_beg_you/花瓣们的进行曲/Sailing" title="wikilink">I beg you/花瓣们的进行曲/Sailing</a></p></td>
+<td><p><a href="../Page/Aimer.md" title="wikilink">Aimer</a></p></td>
+<td><p>3.1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>1月28日</p></td>
+<td></td>
+<td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a></p></td>
+<td><p>10</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月4日</p></td>
+<td><p>[[我们奔跑而来的道路…/Next_SPARKLING</p></td>
+<td><p>|我们奔跑而来的道路…/Next SPARKLING</p></td>
+<td><p>]]</p></td>
+<td><p><a href="../Page/Aqours.md" title="wikilink">Aqours</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2月11日</p></td>
+<td></td>
+<td><p><a href="../Page/Johnny&#39;s_WEST.md" title="wikilink">Johnny's WEST</a></p></td>
+<td><p>13.8</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月18日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
+<td><p>29.7</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/等待著風" title="wikilink">等待著風</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/STU48" title="wikilink">STU48</a></p></td>
+<td><p>27.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月4日</p></td>
+<td></td>
+<td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
+<td><p>19.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>3月11日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑羊" title="wikilink">黑羊</a></p></td>
+<td><p><a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a></p></td>
+<td><p>75.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月18日</p></td>
+<td></td>
+<td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
+<td><p>21.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>3月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/回憶上心頭DAYS" title="wikilink">回憶上心頭DAYS</a></p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
+<td><p>126.2</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有超天Shooter" title="wikilink">有超天Shooter</a></p></td>
+<td></td>
+<td><p>7.5</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>4月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/心動了_(日向坂46單曲)" title="wikilink">心動了</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日向坂46" title="wikilink">日向坂46</a></p></td>
+<td><p>47.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月15日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/King_&amp;_Prince" title="wikilink">King &amp; Prince</a></p></td>
+<td><p>39.1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>4月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/意志_(單曲)" title="wikilink">意志</a></p></td>
+<td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
+<td><p>19.7</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月29日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最後的偶像" title="wikilink">最後的偶像</a></p></td>
+<td><p>7.3</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody>
+</table>
+
+## 參見
+
+  - [2019年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2019年Oricon專輯週榜冠軍作品列表 "wikilink")
+
+## 參考資料
+
+[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
+[Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
