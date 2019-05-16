@@ -3,27 +3,27 @@ Alliance组织；另一方面指该组织制定的一个基于[Java语言的服�
 Platform）。
 
 **OSGi Alliance**是一个由[Sun
-Microsystems](../Page/Sun_Microsystems.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[爱立信等于](../Page/爱立信.md "wikilink")1999年3月成立的开放的[标准化组织](../Page/标准化组织.md "wikilink")，最初名为Connected
+Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")、[IBM](../Page/IBM.md "wikilink")、[爱立信等于](https://zh.wikipedia.org/wiki/爱立信 "wikilink")1999年3月成立的开放的[标准化组织](https://zh.wikipedia.org/wiki/标准化组织 "wikilink")，最初名为Connected
 Alliance。该组织及其标准原本主要目的在于使服务提供商通过住宅网关，为各种家庭智能设备提供各种服务。目前该平台逐渐成为一个为室内、交通工具、移动电话和其他环境下的所有类型的网络设备的应用程序和服务进行传递和远程管理的开放式服务平台。
 
-该规范和核心部分是一个[框架](../Page/框架.md "wikilink")，其中定义了应用程序的[生命周期模式和](../Page/生命周期.md "wikilink")[服务注册](../Page/服务注册.md "wikilink")。基于这个框架定义了大量的OSGi服务：[日志](../Page/日志.md "wikilink")、[配置管理](../Page/配置管理.md "wikilink")、偏好，[HTTP](../Page/HTTP.md "wikilink")（运行[servlet](../Page/servlet.md "wikilink")）、[XML分析](../Page/XML.md "wikilink")、设备访问、[软件包管理](../Page/软件包.md "wikilink")、许可管理、星级、用户管理、IO连接、连线管理、[Jini和](../Page/Jini.md "wikilink")[UPnP](../Page/UPnP.md "wikilink")。
+该规范和核心部分是一个[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")，其中定义了应用程序的[生命周期模式和](https://zh.wikipedia.org/wiki/生命周期 "wikilink")[服务注册](https://zh.wikipedia.org/wiki/服务注册 "wikilink")。基于这个框架定义了大量的OSGi服务：[日志](https://zh.wikipedia.org/wiki/日志 "wikilink")、[配置管理](https://zh.wikipedia.org/wiki/配置管理 "wikilink")、偏好，[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")（运行[servlet](https://zh.wikipedia.org/wiki/servlet "wikilink")）、[XML分析](../Page/XML.md "wikilink")、设备访问、[软件包管理](https://zh.wikipedia.org/wiki/软件包 "wikilink")、许可管理、星级、用户管理、IO连接、连线管理、[Jini和](https://zh.wikipedia.org/wiki/Jini "wikilink")[UPnP](../Page/UPnP.md "wikilink")。
 
-这个框架实现了一个优雅、完整和动态的[组件模型](../Page/组件模型.md "wikilink")。应用程序（称为[bundle](../Page/bundle.md "wikilink")）无需重新引导可以被远程安装、启动、升级和卸载（其中Java包／类的管理被详细定义）。API中还定义了运行远程下载管理政策的[生命周期管理](../Page/生命周期管理.md "wikilink")。[服务注册允许bundles去检测新](../Page/服务注册.md "wikilink")[服务和取消的服务](../Page/服务.md "wikilink")，然后相应配合。
+这个框架实现了一个优雅、完整和动态的[组件模型](https://zh.wikipedia.org/wiki/组件模型 "wikilink")。应用程序（称为[bundle](https://zh.wikipedia.org/wiki/bundle "wikilink")）无需重新引导可以被远程安装、启动、升级和卸载（其中Java包／类的管理被详细定义）。API中还定义了运行远程下载管理政策的[生命周期管理](https://zh.wikipedia.org/wiki/生命周期管理 "wikilink")。[服务注册允许bundles去检测新](https://zh.wikipedia.org/wiki/服务注册 "wikilink")[服务和取消的服务](https://zh.wikipedia.org/wiki/服务 "wikilink")，然后相应配合。
 
-OSGi原先关注于[服务网关](../Page/服务网关.md "wikilink")，其实可用于多个方面。现在OSGi规范已经用于从[移动电话到开源的](../Page/移动电话.md "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")（其中包括了与IBM的OSGi框架[SMF兼容的开源版本](../Page/Service_Management_Framework.md "wikilink")）。
-OSGi服务平台的应用包括：[服务网关](../Page/服务网关.md "wikilink")、[汽车](../Page/汽车.md "wikilink")、[移动电话](../Page/移动电话.md "wikilink")、[工业自动化](../Page/工业自动化.md "wikilink")、[建筑物自动化](../Page/建筑物自动化.md "wikilink")、[PDA](../Page/PDA.md "wikilink")
-[网格计算](../Page/网格计算.md "wikilink")、[娱乐](../Page/娱乐.md "wikilink")（如[iPronto](../Page/iPronto.md "wikilink")）、和[IDE](../Page/IDE.md "wikilink")。
+OSGi原先关注于[服务网关](https://zh.wikipedia.org/wiki/服务网关 "wikilink")，其实可用于多个方面。现在OSGi规范已经用于从[移动电话到开源的](../Page/移动电话.md "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")（其中包括了与IBM的OSGi框架[SMF兼容的开源版本](https://zh.wikipedia.org/wiki/Service_Management_Framework "wikilink")）。
+OSGi服务平台的应用包括：[服务网关](https://zh.wikipedia.org/wiki/服务网关 "wikilink")、[汽车](../Page/汽车.md "wikilink")、[移动电话](../Page/移动电话.md "wikilink")、[工业自动化](https://zh.wikipedia.org/wiki/工业自动化 "wikilink")、[建筑物自动化](https://zh.wikipedia.org/wiki/建筑物自动化 "wikilink")、[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")
+[网格计算](../Page/网格计算.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")（如[iPronto](https://zh.wikipedia.org/wiki/iPronto "wikilink")）、和[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")。
 
 OSGi规范是由成员通过公开的程序开发，对公众免费而且没有许可证限制。但是OSGi
-Alliance的[兼容性程序只对成员开放](../Page/兼容性.md "wikilink")，目前有12个兼容的[实现](../Page/实现.md "wikilink")。
+Alliance的[兼容性程序只对成员开放](https://zh.wikipedia.org/wiki/兼容性 "wikilink")，目前有12个兼容的[实现](https://zh.wikipedia.org/wiki/实现 "wikilink")。
 
 2003年[Eclipse选择OSGi作为其](../Page/Eclipse.md "wikilink")[插件的底层运行时架构](../Page/插件.md "wikilink")。[Equinox](http://www.eclipse.org/equinox/)
 project对该理念进行了实验，2004年6月在Eclipse3
-R3中发布。[ProSyst是面向OSGi开发者的Eclipse插件](../Page/ProSyst.md "wikilink")。
+R3中发布。[ProSyst是面向OSGi开发者的Eclipse插件](https://zh.wikipedia.org/wiki/ProSyst "wikilink")。
 
-2003年10月，[诺基亚](../Page/诺基亚.md "wikilink")、[摩托罗拉](../Page/摩托罗拉.md "wikilink")，[ProSyst和其他OSGi成员组建了Mobile](../Page/ProSyst.md "wikilink")
+2003年10月，[诺基亚](../Page/诺基亚.md "wikilink")、[摩托罗拉](../Page/摩托罗拉.md "wikilink")，[ProSyst和其他OSGi成员组建了Mobile](https://zh.wikipedia.org/wiki/ProSyst "wikilink")
 Expert
-Group（MEG）为下一代智能手机规范业务平台，做为对[MIDP和](../Page/MIDP.md "wikilink")[CDC的补充](../Page/CDC.md "wikilink")。
+Group（MEG）为下一代智能手机规范业务平台，做为对[MIDP和](https://zh.wikipedia.org/wiki/MIDP "wikilink")[CDC的补充](https://zh.wikipedia.org/wiki/CDC "wikilink")。
 
 ## 版本
 
@@ -36,14 +36,14 @@ Group（MEG）为下一代智能手机规范业务平台，做为对[MIDP和](..
 
 ## 参见
 
-  - [JINI](../Page/JINI.md "wikilink")
+  - [JINI](https://zh.wikipedia.org/wiki/JINI "wikilink")
 
   - [HomePlug](../Page/HomePlug.md "wikilink")
 
   -
-  - [CEBus](../Page/CEBus.md "wikilink")
+  - [CEBus](https://zh.wikipedia.org/wiki/CEBus "wikilink")
 
-  - [蓝牙](../Page/蓝牙.md "wikilink")
+  - [蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")
 
   - [Wi-Fi](../Page/Wi-Fi.md "wikilink")
 
@@ -51,9 +51,9 @@ Group（MEG）为下一代智能手机规范业务平台，做为对[MIDP和](..
 
   - [CORBA](../Page/CORBA.md "wikilink")
 
-  - [服务定位协议](../Page/服务定位协议.md "wikilink")
+  - [服务定位协议](https://zh.wikipedia.org/wiki/服务定位协议 "wikilink")
 
-  - [Salutation](../Page/Salutation.md "wikilink")
+  - [Salutation](https://zh.wikipedia.org/wiki/Salutation "wikilink")
 
 ## 参考
 

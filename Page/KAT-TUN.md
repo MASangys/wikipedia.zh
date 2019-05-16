@@ -1,14 +1,14 @@
 **KAT-TUN**是日本[傑尼斯事務所旗下的藝人組合](../Page/傑尼斯事務所.md "wikilink")；於2001年3月16日組成，2006年3月22日正式發行CD出道。
 
-團名原是由6名成員的姓氏羅馬拼音首字母所組成，因為在日文發音中與Cartoon（[卡通](../Page/卡通.md "wikilink")／[動畫](../Page/動畫.md "wikilink")）及“勝利的運氣”（）相近，而有著像卡通般精采以及勝利的含意；至於KAT-TUN中間的「-」（ハイフン），則代表的是粉絲。
+團名原是由6名成員的姓氏羅馬拼音首字母所組成，因為在日文發音中與Cartoon（[卡通](../Page/卡通.md "wikilink")／[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")）及“勝利的運氣”（）相近，而有著像卡通般精采以及勝利的含意；至於KAT-TUN中間的「-」（ハイフン），則代表的是粉絲。
 
-出道發行的單曲、専輯與DVD，在發行首週即達成三項[公信榜冠軍](../Page/公信榜.md "wikilink")，成為日本史上甫出道即達成三項冠軍的團體
+出道發行的單曲、専輯與DVD，在發行首週即達成三項[公信榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，成為日本史上甫出道即達成三項冠軍的團體
 / 歌手；另外也是USEN（有線）綜合排行冠軍、原唱鈴聲下載排行冠軍，而達成前所未有的五冠王佳績\[1\]。
 
 ## 概要
 
   - 於2001年3月16日組成，2006年3月22日正式發行CD出道。
-    自組成至出道一共經過5年時間，是截至目前為止傑尼斯旗下除[Kis-My-Ft2之外組成最久才出道的團體](../Page/Kis-My-Ft2.md "wikilink")。
+    自組成至出道一共經過5年時間，是截至目前為止傑尼斯旗下除[Kis-My-Ft2之外組成最久才出道的團體](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")。
   - 2010年8月31日赤西仁因個人理念而退團。
   - 2013年9月30日田中聖因違反事務所合約而退團。
   - 2015年11月24日，田口淳之介於直播音樂節目中宣布2016年春天退團，並退出傑尼斯事務所。
@@ -156,12 +156,12 @@
 
   - 3月16日，KAT-TUN組成。
   - 3月27日，在《[POP
-    JAM](../Page/POP_JAM.md "wikilink")》音樂節目中，公開發表成為主持人[堂本光一](../Page/堂本光一.md "wikilink")（[KinKi
-    Kids](../Page/KinKi_Kids.md "wikilink")）的專屬伴舞團體。（該集後於4月7日播出，也是該組合首次在電視上亮相。）
+    JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")》音樂節目中，公開發表成為主持人[堂本光一](../Page/堂本光一.md "wikilink")（[KinKi
+    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）的專屬伴舞團體。（該集後於4月7日播出，也是該組合首次在電視上亮相。）
   - 3月30日，於《[MUSIC
     STATION](../Page/MUSIC_STATION.md "wikilink")》中以組合名義初登場。
-  - 4月7日，傑尼斯Jr.主持的《[裸之少年](../Page/裸之少年.md "wikilink")》開始播出，KAT-TUN成員為節目固定班底；官網上登記此日為正式結成日。
-  - 4月8日，於傑尼斯常態節目《[少年俱樂部](../Page/少年俱樂部.md "wikilink")》初登場。
+  - 4月7日，傑尼斯Jr.主持的《[裸之少年](https://zh.wikipedia.org/wiki/裸之少年 "wikilink")》開始播出，KAT-TUN成員為節目固定班底；官網上登記此日為正式結成日。
+  - 4月8日，於傑尼斯常態節目《[少年俱樂部](https://zh.wikipedia.org/wiki/少年俱樂部 "wikilink")》初登場。
 
 **2002年**
 
@@ -169,21 +169,21 @@
     Taipei 從台灣開始\!...From us with LOVE」台灣演唱會。
   - 8月10日\~11日，在東京國際論壇展開「歌迷至聖 夏 Concert～回應55萬人愛的支持！！」首次演唱會。
       - 原本預計4場公演共2萬人次的演唱會，卻因來自全國55萬人次的申請人數太多，因而緊急追加2場，2天共舉行6場公演。
-  - 8月26日\~28日，在[大阪](../Page/大阪.md "wikilink")·松竹座舉行追加公演。
-      - 28日史無前例舉行了1天11次的公演，平均每場演出約45分鐘，打破同事務所前輩[TOKIO和](../Page/TOKIO.md "wikilink")[V6一天內](../Page/V6.md "wikilink")10次公演的日本記錄。
+  - 8月26日\~28日，在[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")·松竹座舉行追加公演。
+      - 28日史無前例舉行了1天11次的公演，平均每場演出約45分鐘，打破同事務所前輩[TOKIO和](https://zh.wikipedia.org/wiki/TOKIO "wikilink")[V6一天內](https://zh.wikipedia.org/wiki/V6 "wikilink")10次公演的日本記錄。
   - 9月3日，第一支單獨CM 「Lotte CRUNKY」播放。
 
 **2003年**
 
   - 2月26日發行「歌迷至聖 夏
-    Concert～回應55萬人愛的支持！！」演唱會DVD與VHS；這是尚未正式CD出道的團體裡首度獲得[ORICON排行榜DVD](../Page/ORICON.md "wikilink")、VHS、綜合榜三項冠軍的創舉。
-  - 3月21\~22日，與[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")、[YA-YA-YAH到](../Page/YA-YA-YAH.md "wikilink")[泰國舉行](../Page/泰國.md "wikilink")「PATAYA
+    Concert～回應55萬人愛的支持！！」演唱會DVD與VHS；這是尚未正式CD出道的團體裡首度獲得[ORICON排行榜DVD](https://zh.wikipedia.org/wiki/ORICON "wikilink")、VHS、綜合榜三項冠軍的創舉。
+  - 3月21\~22日，與[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")、[YA-YA-YAH到](https://zh.wikipedia.org/wiki/YA-YA-YAH "wikilink")[泰國舉行](https://zh.wikipedia.org/wiki/泰國 "wikilink")「PATAYA
     MUSIC FESTIVAL 2003」演唱會。
 
 **2004年**
 
   - 12月28日\~2005年1月5日，東名阪召開巡迴演唱會「KAT-TUN Live
-    海賊帆」。1月5日的2場演唱會，也是[橫濱公演的最終回](../Page/橫濱.md "wikilink")，是KAT-TUN的第100場公演。
+    海賊帆」。1月5日的2場演唱會，也是[橫濱公演的最終回](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，是KAT-TUN的第100場公演。
 
 **2005年**
 
@@ -206,32 +206,32 @@
       - 創造「Real Face」75.4萬張，「Best of KAT-TUN」55.7萬張，「Real Face
         Film」37.4萬張首週銷售額的記錄，達成三冠王\[3\]，成為史上首次新人出道即達成三冠王的紀錄，同時也是自2000年10月9日[濱崎步的單曲](../Page/濱崎步.md "wikilink")《[SURREAL](../Page/SURREAL.md "wikilink")（超現實）》、專輯《[Duty](../Page/Duty.md "wikilink")（以聲作責）》及演唱會DVD《[ayumi
         hamasaki concert tour 2000 A
-        第2幕](../Page/ayumi_hamasaki_concert_tour_2000_A_第2幕.md "wikilink")》以來，隔5年半歷史上的第2組。另外也是USEN（有線）綜合排行冠軍、原唱鈴聲下載排行冠軍，因此擁有五冠王的佳績。
+        第2幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")》以來，隔5年半歷史上的第2組。另外也是USEN（有線）綜合排行冠軍、原唱鈴聲下載排行冠軍，因此擁有五冠王的佳績。
       - 單曲連續三週獲得冠軍。是自KinKi
         Kids「[Anniversary](../Page/Anniversary.md "wikilink")」以來，相隔了1年3個月再次出現的連續三周冠軍。至於出道單曲3週冠軍的成就，是自KinKi
         Kids「[玻璃少年](../Page/玻璃少年.md "wikilink")」以來隔了8年8個月，而作為2000年以後出道的團體則是第一個。
   - 3月28日\~5月14日，出道後的首次全國巡迴演唱會「Spring Tour'06 Live of KAT-TUN“Real
     Face”」，總計共43場公演。
   - 4月3日，「You &
-    J」即KAT-TUN、[NEWS](../Page/NEWS.md "wikilink")、[關∞的聯合歌迷俱樂部正式開始](../Page/關∞.md "wikilink")。
+    J」即KAT-TUN、[NEWS](../Page/NEWS.md "wikilink")、[關∞的聯合歌迷俱樂部正式開始](https://zh.wikipedia.org/wiki/關∞ "wikilink")。
   - 5月23日，首張單曲「Real
     Face」發售9週後達到百萬銷售量。同時，在年度內（前一年12月第一週到該年11月最後一周）的成就，是自2003年3月24日
-    [SMAP](../Page/SMAP.md "wikilink")「[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")」以來的百萬單曲，相隔了3年又2月。另外以出道曲而言，是自2001年6月25日（發售15週後）的[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")「PIECES
+    [SMAP](../Page/SMAP.md "wikilink")「[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")」以來的百萬單曲，相隔了3年又2月。另外以出道曲而言，是自2001年6月25日（發售15週後）的[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")「PIECES
     OF A DREAM」以來，相隔了約5年的壯舉。
-  - 10月12日，媒體報導赤西仁將休止今年內的活動，當晚事務所網站公告其將暫停活動到[洛杉磯留學](../Page/洛杉磯.md "wikilink")。13日赤西本人於事務所內召開記者招待會，宣布並非引退或退團，但未說明復歸日期，及未承諾必定復歸，留給媒體更多的討論空間。
+  - 10月12日，媒體報導赤西仁將休止今年內的活動，當晚事務所網站公告其將暫停活動到[洛杉磯留學](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。13日赤西本人於事務所內召開記者招待會，宣布並非引退或退團，但未說明復歸日期，及未承諾必定復歸，留給媒體更多的討論空間。
   - 10月16日，赤西仁出國到LA留學。
-  - 12月7日，發售第三張單曲《[僕らの街で](../Page/僕らの街で.md "wikilink")（[在我們的城市裡](../Page/在我們的城市裡.md "wikilink")）》。出道以來連續三張單曲皆突破40萬大關。此外更獨佔日本2006年首週銷售排行榜的前三名：《Real
+  - 12月7日，發售第三張單曲《[僕らの街で](https://zh.wikipedia.org/wiki/僕らの街で "wikilink")（[在我們的城市裡](../Page/在我們的城市裡.md "wikilink")）》。出道以來連續三張單曲皆突破40萬大關。此外更獨佔日本2006年首週銷售排行榜的前三名：《Real
     Face》75.4萬、《[SIGNAL](../Page/SIGNAL.md "wikilink")》45.1萬和《僕らの街で》的41萬。再加上《Best
     of KAT-TUN》專輯跟《Real Face
-    Film》DVD等五項作品在出道當年都獲得第一，超越了2001年CHEMISTRY、1986年[少年隊以及](../Page/少年隊.md "wikilink")1981年的[近藤真彥的四項作品](../Page/近藤真彥.md "wikilink")，成為五冠王。
+    Film》DVD等五項作品在出道當年都獲得第一，超越了2001年CHEMISTRY、1986年[少年隊以及](../Page/少年隊.md "wikilink")1981年的[近藤真彥的四項作品](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")，成為五冠王。
 
 **2007年**
 
   - 4月4日，冠名節目「[cartoon
-    KAT-TUN](../Page/cartoon_KAT-TUN.md "wikilink")」正式播出。
+    KAT-TUN](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN "wikilink")」正式播出。
   - 4月18日，第二張專輯《[cartoon KAT-TUN II
-    You](../Page/cartoon_KAT-TUN_II_You.md "wikilink")》發售。達成組團以來包含單曲、專輯，DVD連續十張作品第一名的紀錄。
-  - 4月19日，活動休止的赤西仁歸國。20日，6名成員於[六本木召開記者會](../Page/六本木.md "wikilink")，宣布赤西仁將於5人正進行的巡迴演唱會中，在[仙台站以客串身份露面](../Page/仙台.md "wikilink")，並於5月3日大阪場開始參與演出；完整的6人公演是6月開始的四場巨蛋公演。
+    You](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")》發售。達成組團以來包含單曲、專輯，DVD連續十張作品第一名的紀錄。
+  - 4月19日，活動休止的赤西仁歸國。20日，6名成員於[六本木召開記者會](../Page/六本木.md "wikilink")，宣布赤西仁將於5人正進行的巡迴演唱會中，在[仙台站以客串身份露面](https://zh.wikipedia.org/wiki/仙台 "wikilink")，並於5月3日大阪場開始參與演出；完整的6人公演是6月開始的四場巨蛋公演。
 
 **2008年**
 
@@ -242,46 +242,46 @@
     2008 QUEEN OF PIRATES」）全國巡迴演唱會，總計31場，觀眾人次高達50萬。成為連續4日在東京巨蛋公演的日本歌手首例。
   - 8月10日，成員中第一位展開個人公演的中丸雄一，在東京首演「中丸的快樂時光」舞台劇，並親自構思製作所有的周邊商品。東京公演日期為8月10日\~8月24日；大阪公演則為8月27日\~9月2日。
   - 9月8日，成員中首位展開個人演唱會的上田龍也，以「Mouse Peace Tatsuya Ueda Live
-    2008」為名稱，在東京[台場開演](../Page/台場.md "wikilink")。從9月8日\~9月21日，共14場公演。
+    2008」為名稱，在東京[台場開演](https://zh.wikipedia.org/wiki/台場 "wikilink")。從9月8日\~9月21日，共14場公演。
 
 **2009年**
 
-  - 5月15日\~5月22日東京巨蛋創紀錄連續8天公演\[4\]。製作費高達32億日圓，動用Jr.約250人，總計現場工作人員6000人、警衛人員12000人。並突破消防法規的限制、首度於東京巨蛋內實行吊鋼索飛行。8天連續公演記錄將列入[金氏世界紀錄之中](../Page/金氏世界紀錄.md "wikilink")。另外夏季在6城市追加17場公演，動員人数達到81萬5千。
+  - 5月15日\~5月22日東京巨蛋創紀錄連續8天公演\[4\]。製作費高達32億日圓，動用Jr.約250人，總計現場工作人員6000人、警衛人員12000人。並突破消防法規的限制、首度於東京巨蛋內實行吊鋼索飛行。8天連續公演記錄將列入[金氏世界紀錄之中](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")。另外夏季在6城市追加17場公演，動員人数達到81萬5千。
   - 11月23日，職棒[讀賣巨人隊感謝祭於東京巨蛋舉行](../Page/讀賣巨人.md "wikilink")。因與[中居正廣主持的](../Page/中居正廣.md "wikilink")「黑色綜藝」節目交好，特別以黑玫瑰隊名舉行一場三局對抗賽。其中龜梨擔任第一打擊及[投手特別出演](../Page/投手.md "wikilink")。最終黑玫瑰以3:2擊敗巨人隊。隔天報紙大肆報導龜梨與剛加入巨人隊首度亮相的[長野久義選手間的對決](../Page/長野久義.md "wikilink")。
-  - 11月25日，赤西以「[LANDS](../Page/LANDS.md "wikilink")」的名義（個人姿態）發表《[BANDAGE](../Page/BANDAGE.md "wikilink")》單曲\[5\]。
-  - 12月13日，隔了5年才舉辦的「傑尼斯選拔大運動會」在東京巨蛋展開，分成瀧澤率領紅組對抗龜梨率領的白組。競賽分為棒球、足球及接力賽跑三項。白組獲得優勝。龜梨為棒球[MVP](../Page/MVP.md "wikilink")、中丸為足球MVP，各得獎金100萬日幣。
+  - 11月25日，赤西以「[LANDS](https://zh.wikipedia.org/wiki/LANDS "wikilink")」的名義（個人姿態）發表《[BANDAGE](../Page/BANDAGE.md "wikilink")》單曲\[5\]。
+  - 12月13日，隔了5年才舉辦的「傑尼斯選拔大運動會」在東京巨蛋展開，分成瀧澤率領紅組對抗龜梨率領的白組。競賽分為棒球、足球及接力賽跑三項。白組獲得優勝。龜梨為棒球[MVP](https://zh.wikipedia.org/wiki/MVP "wikilink")、中丸為足球MVP，各得獎金100萬日幣。
 
 **2010年**
 
-  - 1月19日，赤西仁為電影《BANDAGE》主演以及樂隊LANDS的一員在東京[涉谷AX舉行了一夜限定的演唱會](../Page/涉谷.md "wikilink")，2場演出一共吸引了2800名觀眾。
-  - 3月25日，公布除了赤西仁以外的五名團員自5月開始展開日本國內巡迴（10地共21場）；7月中旬展開首度世界巡迴，行程：東京巨蛋（7/16，7/17，7/24，7/25）、泰國（7/31）、[韓國](../Page/韓國.md "wikilink")[首爾](../Page/首爾.md "wikilink")（8/6，8/7）、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")（8/21，8/22）、台灣[台北](../Page/台北.md "wikilink")（8/27，8/28）。26日台灣媒體各報多以「KAT-TUN登台
+  - 1月19日，赤西仁為電影《BANDAGE》主演以及樂隊LANDS的一員在東京[涉谷AX舉行了一夜限定的演唱會](https://zh.wikipedia.org/wiki/涉谷 "wikilink")，2場演出一共吸引了2800名觀眾。
+  - 3月25日，公布除了赤西仁以外的五名團員自5月開始展開日本國內巡迴（10地共21場）；7月中旬展開首度世界巡迴，行程：東京巨蛋（7/16，7/17，7/24，7/25）、泰國（7/31）、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")（8/6，8/7）、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")（8/21，8/22）、台灣[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")（8/27，8/28）。26日台灣媒體各報多以「KAT-TUN登台
     赤西仁缺席」為標題。\[6\]
   - 5月16日，新聞公布，原訂7月31日在泰國舉行的演唱會，因政情局勢不穩定而取消。
   - 6月13日，在公布售票時間不到一天之內，台灣演唱會發售兩個小時內售票超過九成，並一度癱瘓系統\[7\]，締造國外藝人來台舉辦演唱會售票的銷售新紀錄。
   - 6月24日，2萬張的韓國演唱會門票，在發售20分鐘內銷售完畢。
   - 7月1日，為宣傳《[NO MORE
-    PAIN](../Page/NO_MORE_PAIN.md "wikilink")》專輯在韓發行，團員應[Mnet媒體邀請](../Page/Mnet媒體.md "wikilink")，至韓國參加音樂節目表演，並首度於海外舉行記者招待會。於隔日返國。
+    PAIN](https://zh.wikipedia.org/wiki/NO_MORE_PAIN "wikilink")》專輯在韓發行，團員應[Mnet媒體邀請](../Page/Mnet媒體.md "wikilink")，至韓國參加音樂節目表演，並首度於海外舉行記者招待會。於隔日返國。
   - 7月3日\~4日，舉行「KAT-TUN SUMMER PREMIUM
-    2010」首次粉絲見面握手會，7/3於大阪（龜梨）、7/4於[札幌](../Page/札幌.md "wikilink")（田口）、仙台（上田）、[熊本](../Page/熊本.md "wikilink")（中丸）、東京（田中）。
-  - 7月16日，[Johnny喜多川社長在世界巡迴開演首日](../Page/Johnny喜多川.md "wikilink")，宣佈赤西將脫離團體。其他五人在開演前記者會則強調「KAT-TUN不會解散」。
+    2010」首次粉絲見面握手會，7/3於大阪（龜梨）、7/4於[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")（田口）、仙台（上田）、[熊本](https://zh.wikipedia.org/wiki/熊本 "wikilink")（中丸）、東京（田中）。
+  - 7月16日，[Johnny喜多川社長在世界巡迴開演首日](https://zh.wikipedia.org/wiki/Johnny喜多川 "wikilink")，宣佈赤西將脫離團體。其他五人在開演前記者會則強調「KAT-TUN不會解散」。
   - 7月20日，赤西本人在傑尼斯官方KAT-TUN的手機網誌中，承認退團的事實，並表達其單飛並非與團員有所不合。
   - 8月7日\~8日，首次海外巡迴的韓國場。
   - 8月27日\~28日，海外巡迴的最終站台灣場。總計今年巡迴動員人數高達97萬2千5百人。
   - 8月31日，傑尼斯官方網站正式將赤西仁從「KAT-TUN」頁面移除。
-  - 10月5日，龜梨與女歌手[倖田來未連繼](../Page/倖田來未.md "wikilink")5年連霸[牛仔褲名人獎](../Page/牛仔褲.md "wikilink")「Best
+  - 10月5日，龜梨與女歌手[倖田來未連繼](../Page/倖田來未.md "wikilink")5年連霸[牛仔褲名人獎](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")「Best
     Jeanist」而進入牛仔褲名人堂\[8\]，也是史上首次男女同時入殿堂。
   - 11月28日，推出的新單曲《[CHANGE UR
     WORLD](../Page/CHANGE_UR_WORLD.md "wikilink")》中的通常版第三首〈NEVER x OVER
     ～｢-｣ IS YOUR
-    PART～〉爆發前奏與副歌盜用[AVTechNO於](../Page/AVTechNO.md "wikilink")2010年2月1日上傳至[NICONICO動畫的](../Page/NICONICO動畫.md "wikilink")〈DYE〉旋律之疑雲。
+    PART～〉爆發前奏與副歌盜用[AVTechNO於](https://zh.wikipedia.org/wiki/AVTechNO "wikilink")2010年2月1日上傳至[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")〈DYE〉旋律之疑雲。
 
 **2011年**
 
   - 1月19日，〈NEVER x OVER ～｢-｣ IS YOUR
     PART～〉作曲者承認抄襲，AVTechNO認為這不是KAT-TUN本身的錯\[9\]。
-  - 5月30日，原先預計於七月中旬舉行的[工業區演唱會及](../Page/工業區.md "wikilink")5月至10月舉行的「5大巨蛋巡迴」宣佈中止，原因為3月的[東日本大震災及與職業棒球的開幕時間衝突](../Page/東日本大震災.md "wikilink")。
+  - 5月30日，原先預計於七月中旬舉行的[工業區演唱會及](https://zh.wikipedia.org/wiki/工業區 "wikilink")5月至10月舉行的「5大巨蛋巡迴」宣佈中止，原因為3月的[東日本大震災及與職業棒球的開幕時間衝突](../Page/東日本大震災.md "wikilink")。
   - 6月14日，龜梨和也、田中聖及中丸雄一出席[帝國劇場](../Page/帝國劇場.md "wikilink")100周年舞台劇《[DREAM
-    BOYS](../Page/DREAM_BOYS.md "wikilink")》製作發表會，並宣布此劇在9月3至25日公演期間，組合將改名為「勝運」，意思是希望為觀眾帶來勝利的運氣\[10\]。
+    BOYS](https://zh.wikipedia.org/wiki/DREAM_BOYS "wikilink")》製作發表會，並宣布此劇在9月3至25日公演期間，組合將改名為「勝運」，意思是希望為觀眾帶來勝利的運氣\[10\]。
 
 **2012年**
 
@@ -290,7 +290,7 @@
 **2013年**
 
   - 5月15日，第21張單曲「[Face to
-    Face](../Page/Face_to_Face.md "wikilink")」發行，此單曲達成出道以來21張單曲首週登上公信榜冠軍的連冠紀錄\[11\]。
+    Face](https://zh.wikipedia.org/wiki/Face_to_Face "wikilink")」發行，此單曲達成出道以來21張單曲首週登上公信榜冠軍的連冠紀錄\[11\]。
   - 10月9日，宣布田中聖因嚴重違規被傑尼斯事務所解約而脫離團體。
 
 **2014年**
@@ -319,23 +319,23 @@
 
 ### 單曲
 
-|                                                                            |                                                                         |                                                                                          |                                                                        |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1\.[Real Face](../Page/Real_Face.md "wikilink")(2006年3月22日)                | 2\.[SIGNAL](../Page/SIGNAL.md "wikilink")(2006年7月19日)                   | 3\.[在我們的城市裡](../Page/在我們的城市裡.md "wikilink")(2006年12月7日)                                  | 4\.[歡喜之歌](../Page/歡喜之歌.md "wikilink")(2007年6月6日)                       |
-| 5\.[Keep the faith](../Page/Keep_the_faith.md "wikilink")(2007年11月21日)     | 6\.[LIPS](../Page/LIPS.md "wikilink")(2008年2月6日)                        | 7\.[DON'T U EVER STOP](../Page/DON'T_U_EVER_STOP.md "wikilink")(2008年5月14日)              | 8\.[White X'mas](../Page/White_X'mas.md "wikilink")(2008年12月3日)        |
-| 9\.[ONE DROP](../Page/ONE_DROP.md "wikilink")(2009年2月11日)                  | 10\.[RESCUE](../Page/RESCUE.md "wikilink")(2009年3月11日)                  | 11\.[Love yourself～喜歡你所討厭的你～](../Page/Love_yourself～喜歡你所討厭的你～.md "wikilink")(2010年2月10日) | 12\. [Going\!](../Page/Going!.md "wikilink")(2010年5月12日)               |
-| 13\. [CHANGE UR WORLD](../Page/CHANGE_UR_WORLD.md "wikilink")(2010年11月17日) | 14\.[ULTIMATE WHEELS](../Page/ULTIMATE_WHEELS.md "wikilink")(2011年2月2日) | 15\.[WHITE](../Page/WHITE_\(KAT-TUN單曲\).md "wikilink")(2011年5月18日)                       | 16\.[RUN FOR YOU](../Page/RUN_FOR_YOU.md "wikilink")(2011年8月3日)        |
-| 17\.[BIRTH](../Page/BIRTH.md "wikilink")(2011年11月30日)                      | 18\.[TO THE LIMIT](../Page/TO_THE_LIMIT.md "wikilink")(2012年6月27日)      | 19\.[永不滅的團結](../Page/永不滅的團結.md "wikilink")(2012年9月12日)                                   | 20\.[EXPOSE](../Page/EXPOSE.md "wikilink")(2013年2月6日)                  |
-| 21\.[FACE to Face](../Page/FACE_to_Face.md "wikilink")(2013年5月15日)         | 22\.[In Fact](../Page/In_Fact.md "wikilink")(2014年6月4日)                 | 23\.[Dead or Alive](../Page/Dead_or_Alive.md "wikilink")(2015年1月21日)                     | 24\.[KISS KISS KISS](../Page/KISS_KISS_KISS.md "wikilink")（2015年3月11日） |
-| 25\.[TRAGEDY](../Page/TRAGEDY.md "wikilink")(2016年2月10日)                   | 26\.[UNLOCK](../Page/UNLOCK.md "wikilink")(2016年3月2日)                   | 27\.[Ask Yourself](../Page/Ask_Yourself.md "wikilink")（2018年5月18日）                       |                                                                        |
+|                                                                                       |                                                                                       |                                                                                          |                                                                                           |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1\.[Real Face](../Page/Real_Face.md "wikilink")(2006年3月22日)                           | 2\.[SIGNAL](../Page/SIGNAL.md "wikilink")(2006年7月19日)                                 | 3\.[在我們的城市裡](../Page/在我們的城市裡.md "wikilink")(2006年12月7日)                                  | 4\.[歡喜之歌](../Page/歡喜之歌.md "wikilink")(2007年6月6日)                                          |
+| 5\.[Keep the faith](../Page/Keep_the_faith.md "wikilink")(2007年11月21日)                | 6\.[LIPS](../Page/LIPS.md "wikilink")(2008年2月6日)                                      | 7\.[DON'T U EVER STOP](../Page/DON'T_U_EVER_STOP.md "wikilink")(2008年5月14日)              | 8\.[White X'mas](../Page/White_X'mas.md "wikilink")(2008年12月3日)                           |
+| 9\.[ONE DROP](../Page/ONE_DROP.md "wikilink")(2009年2月11日)                             | 10\.[RESCUE](../Page/RESCUE.md "wikilink")(2009年3月11日)                                | 11\.[Love yourself～喜歡你所討厭的你～](../Page/Love_yourself～喜歡你所討厭的你～.md "wikilink")(2010年2月10日) | 12\. [Going\!](../Page/Going!.md "wikilink")(2010年5月12日)                                  |
+| 13\. [CHANGE UR WORLD](../Page/CHANGE_UR_WORLD.md "wikilink")(2010年11月17日)            | 14\.[ULTIMATE WHEELS](../Page/ULTIMATE_WHEELS.md "wikilink")(2011年2月2日)               | 15\.[WHITE](../Page/WHITE_\(KAT-TUN單曲\).md "wikilink")(2011年5月18日)                       | 16\.[RUN FOR YOU](../Page/RUN_FOR_YOU.md "wikilink")(2011年8月3日)                           |
+| 17\.[BIRTH](../Page/BIRTH.md "wikilink")(2011年11月30日)                                 | 18\.[TO THE LIMIT](https://zh.wikipedia.org/wiki/TO_THE_LIMIT "wikilink")(2012年6月27日) | 19\.[永不滅的團結](https://zh.wikipedia.org/wiki/永不滅的團結 "wikilink")(2012年9月12日)                | 20\.[EXPOSE](https://zh.wikipedia.org/wiki/EXPOSE "wikilink")(2013年2月6日)                  |
+| 21\.[FACE to Face](https://zh.wikipedia.org/wiki/FACE_to_Face "wikilink")(2013年5月15日) | 22\.[In Fact](https://zh.wikipedia.org/wiki/In_Fact "wikilink")(2014年6月4日)            | 23\.[Dead or Alive](https://zh.wikipedia.org/wiki/Dead_or_Alive "wikilink")(2015年1月21日)  | 24\.[KISS KISS KISS](https://zh.wikipedia.org/wiki/KISS_KISS_KISS "wikilink")（2015年3月11日） |
+| 25\.[TRAGEDY](https://zh.wikipedia.org/wiki/TRAGEDY "wikilink")(2016年2月10日)           | 26\.[UNLOCK](https://zh.wikipedia.org/wiki/UNLOCK "wikilink")(2016年3月2日)              | 27\.[Ask Yourself](https://zh.wikipedia.org/wiki/Ask_Yourself "wikilink")（2018年5月18日）    |                                                                                           |
 
 ### 專輯
 
-|                                                                                                                |                                                                                       |                                                                                                      |                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1\. [Best of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")(2006年3月22日)                                       | 2\.[cartoon KAT-TUN II You](../Page/cartoon_KAT-TUN_II_You.md "wikilink")(2007年4月18日) | 3\.[KAT-TUN III -QUEEN OF PIRATES-](../Page/KAT-TUN_III_-QUEEN_OF_PIRATES-.md "wikilink")(2008年6月4日) | 4\.[Break the Records -by you & for you-](../Page/Break_the_Records_-by_you_&_for_you-.md "wikilink")(2009年4月29日) |
-| 5\. [NO MORE PAIИ](../Page/NO_MORE_PAIИ.md "wikilink")(2010年6月16日)                                             | 6\. [CHAIN](../Page/CHAIN.md "wikilink")(2012年2月22日)                                  | 7\.[楔-kusabi-](../Page/楔-kusabi-.md "wikilink")(2013年11月27日)                                         | 8\.[come Here](../Page/come_Here.md "wikilink")(2014年6月25日)                                                       |
-| 9\. [KAT-TUN 10TH ANNIVERSARY BEST 10Ks](../Page/KAT-TUN_10TH_ANNIVERSARY_BEST_10Ks.md "wikilink")(2016年3月22日) | 10\. [CAST](../Page/CAST.md "wikilink")（2018年7月18日）                                   |                                                                                                      |                                                                                                                   |
+|                                                                                                                                   |                                                                                                          |                                                                                                      |                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1\. [Best of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")(2006年3月22日)                                                          | 2\.[cartoon KAT-TUN II You](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")(2007年4月18日) | 3\.[KAT-TUN III -QUEEN OF PIRATES-](../Page/KAT-TUN_III_-QUEEN_OF_PIRATES-.md "wikilink")(2008年6月4日) | 4\.[Break the Records -by you & for you-](../Page/Break_the_Records_-by_you_&_for_you-.md "wikilink")(2009年4月29日) |
+| 5\. [NO MORE PAIИ](../Page/NO_MORE_PAIИ.md "wikilink")(2010年6月16日)                                                                | 6\. [CHAIN](../Page/CHAIN.md "wikilink")(2012年2月22日)                                                     | 7\.[楔-kusabi-](https://zh.wikipedia.org/wiki/楔-kusabi- "wikilink")(2013年11月27日)                      | 8\.[come Here](https://zh.wikipedia.org/wiki/come_Here "wikilink")(2014年6月25日)                                    |
+| 9\. [KAT-TUN 10TH ANNIVERSARY BEST 10Ks](https://zh.wikipedia.org/wiki/KAT-TUN_10TH_ANNIVERSARY_BEST_10Ks "wikilink")(2016年3月22日) | 10\. [CAST](https://zh.wikipedia.org/wiki/CAST "wikilink")（2018年7月18日）                                   |                                                                                                      |                                                                                                                   |
 
 ### DVD
 
@@ -396,15 +396,15 @@
 </tr>
 <tr class="even">
 <td><p><br />
-(<a href="../Page/NHK_BS2.md" title="wikilink">NHK BS2</a>（NHK衛星第２テレビジョン）</p></td>
+(<a href="https://zh.wikipedia.org/wiki/NHK_BS2" title="wikilink">NHK BS2</a>（NHK衛星第２テレビジョン）</p></td>
 <td><p><br />
-（<a href="../Page/日本放送協會.md" title="wikilink">NHK</a>、2001年4月－2002年3月）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/日本放送協會" title="wikilink">NHK</a>、2001年4月－2002年3月）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/裸之少年.md" title="wikilink">裸の少年</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/裸之少年" title="wikilink">裸の少年</a><br />
 （<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>、2001年4月－07年）</p></td>
 <td><p><br />
-（<a href="../Page/NHK衛星第2台.md" title="wikilink">NHK BS2</a>)</p></td>
+（<a href="https://zh.wikipedia.org/wiki/NHK衛星第2台" title="wikilink">NHK BS2</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -415,28 +415,28 @@
 <tr class="odd">
 <td><p><br />
 (日本電視台、2005年10月－2007年1月）</p></td>
-<td><p><a href="../Page/24小時電視.md" title="wikilink">24小時電視 29</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/24小時電視" title="wikilink">24小時電視 29</a><br />
 （日本電視台、2006年8月26-27日）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/You們！.md" title="wikilink">You們！</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/You們！" title="wikilink">You們！</a><br />
 （日本電視台、2006年10月8日－2007年9月30日）田中、中丸</p></td>
-<td><p><a href="../Page/Dance甲子園特別節目.md" title="wikilink">Dance甲子園特別節目</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Dance甲子園特別節目" title="wikilink">Dance甲子園特別節目</a><br />
 （日本電視台、2006年12月30日）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/cartoon_KAT-TUN.md" title="wikilink">cartoon KAT-TUN</a>（日本電視台、2007年4月4日－2010年3月24日）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/cartoon_KAT-TUN" title="wikilink">cartoon KAT-TUN</a>（日本電視台、2007年4月4日－2010年3月24日）</p></td>
 <td><p><a href="../Page/KAT-TUN之前輩請教教我!大人的守則100!.md" title="wikilink">KAT-TUN之前輩請教教我!大人的守則100!</a><br />
 （日本電視台、2008年1月12日、2009年4月5日、2010年1月6日）</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
 （<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>、2010年－）中丸</p></td>
-<td><p><a href="../Page/爆笑！大日本アカン警察.md" title="wikilink">爆笑！大日本アカン警察</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/爆笑！大日本アカン警察" title="wikilink">爆笑！大日本アカン警察</a><br />
 （<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>、2011年5月－）田中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/教科書にのせたい!.md" title="wikilink">教科書にのせたい!</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/教科書にのせたい!" title="wikilink">教科書にのせたい!</a><br />
 （<a href="../Page/TBS.md" title="wikilink">TBS</a>、2011年－）上田</p></td>
 <td><p><br />
 （日本テレビ系、2011年10月18日－12月20日）</p></td>
@@ -448,10 +448,10 @@
 (TBS、2012年10月－）上田</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KAT-TUNの世界一タメになる旅!.md" title="wikilink">KAT-TUNの世界一タメになる旅!</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/KAT-TUNの世界一タメになる旅!" title="wikilink">KAT-TUNの世界一タメになる旅!</a><br />
 (TBS、2014年1月10日、2014年4月18日－2016年3月25日)</p></td>
-<td><p><a href="../Page/少年俱樂部少premium.md" title="wikilink">少年俱樂部少premium</a>（）<br />
-(<a href="../Page/NHKBSプレミアム.md" title="wikilink">NHKBSプレミアム</a>、2014年4月16日－2016年3月16日)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少年俱樂部少premium" title="wikilink">少年俱樂部少premium</a>（）<br />
+(<a href="https://zh.wikipedia.org/wiki/NHKBSプレミアム" title="wikilink">NHKBSプレミアム</a>、2014年4月16日－2016年3月16日)</p></td>
 </tr>
 </tbody>
 </table>
@@ -459,7 +459,7 @@
 ### 新聞節目
 
   - [Going\!
-    Sports\&News](../Page/Going!_Sports&News.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")）
+    Sports\&News](https://zh.wikipedia.org/wiki/Going!_Sports&News "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")）
 
 <!-- end list -->
 
@@ -469,7 +469,7 @@
 <!-- end list -->
 
   - [SUNDAY COWNTDOWN SHOW
-    シューイチ](../Page/SUNDAY_COWNTDOWN_SHOW_シューイチ.md "wikilink")(shu
+    シューイチ](https://zh.wikipedia.org/wiki/SUNDAY_COWNTDOWN_SHOW_シューイチ "wikilink")(shu
     1)（[日本電視台](../Page/日本電視台.md "wikilink")）中丸
 
 <!-- end list -->
@@ -500,11 +500,11 @@
 <td><p>日本電視台</p></td>
 <td><p>中丸、赤西</p></td>
 <td><p>客串</p></td>
-<td><p>山下智久、<a href="../Page/相葉雅紀.md" title="wikilink">相葉雅紀</a></p></td>
+<td><p>山下智久、<a href="https://zh.wikipedia.org/wiki/相葉雅紀" title="wikilink">相葉雅紀</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1999年10月~2000年3月</p></td>
-<td><p><a href="../Page/3年B班金八老師.md" title="wikilink">3年B班金八老師</a> 第5季</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/3年B班金八老師" title="wikilink">3年B班金八老師</a> 第5季</p></td>
 <td><p>TBS</p></td>
 <td><p>龜梨</p></td>
 <td><p>配角</p></td>
@@ -512,7 +512,7 @@
 </tr>
 <tr class="odd">
 <td><p>1999年10月~12月</p></td>
-<td><p><a href="../Page/真情姊妹花.md" title="wikilink">真情姊妹花</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真情姊妹花" title="wikilink">真情姊妹花</a></p></td>
 <td><p>朝日電視台</p></td>
 <td><p>赤西</p></td>
 <td><p>配角</p></td>
@@ -520,7 +520,7 @@
 </tr>
 <tr class="even">
 <td><p>2000年3月~6月</p></td>
-<td><p><a href="../Page/霓裳夢想家.md" title="wikilink">霓裳夢想家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霓裳夢想家" title="wikilink">霓裳夢想家</a></p></td>
 <td><p>NHK</p></td>
 <td><p>赤西</p></td>
 <td><p>配角</p></td>
@@ -528,7 +528,7 @@
 </tr>
 <tr class="odd">
 <td><p>2000年4月~6月</p></td>
-<td><p><a href="../Page/天使絕跡的城市.md" title="wikilink">天使絕跡的城市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天使絕跡的城市" title="wikilink">天使絕跡的城市</a></p></td>
 <td><p>日本電視台</p></td>
 <td><p>田中</p></td>
 <td><p>客串</p></td>
@@ -536,15 +536,15 @@
 </tr>
 <tr class="even">
 <td><p>2001年1月~3月</p></td>
-<td><p><a href="../Page/搶錢大作戰.md" title="wikilink">搶錢大作戰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搶錢大作戰" title="wikilink">搶錢大作戰</a></p></td>
 <td><p>朝日電視台</p></td>
 <td><p>田口、赤西</p></td>
 <td><p>配角</p></td>
-<td><p><a href="../Page/東山紀之.md" title="wikilink">東山紀之</a>、<a href="../Page/國分太一.md" title="wikilink">國分太一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東山紀之" title="wikilink">東山紀之</a>、<a href="https://zh.wikipedia.org/wiki/國分太一" title="wikilink">國分太一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001年7月~9月</p></td>
-<td><p><a href="../Page/Never_Land.md" title="wikilink">Never Land</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Never_Land" title="wikilink">Never Land</a></p></td>
 <td><p>TBS</p></td>
 <td><p>田中</p></td>
 <td><p>配角</p></td>
@@ -560,7 +560,7 @@
 </tr>
 <tr class="odd">
 <td><p>2005年4月~6月</p></td>
-<td><p><a href="../Page/熟女真命苦.md" title="wikilink">熟女真命苦</a>(anego)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熟女真命苦" title="wikilink">熟女真命苦</a>(anego)</p></td>
 <td><p>日本電視台</p></td>
 <td><p>赤西</p></td>
 <td><p>男配</p></td>
@@ -568,16 +568,16 @@
 </tr>
 <tr class="even">
 <td><p>2005年7月~9月</p></td>
-<td><p><a href="../Page/一起加油吧.md" title="wikilink">一起加油吧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一起加油吧" title="wikilink">一起加油吧</a></p></td>
 <td><p>富士電視台</p></td>
 <td><p>田口<br />
 （第4話起代替<a href="../Page/內博貴.md" title="wikilink">內博貴演出</a>）</p></td>
 <td><p>男配</p></td>
-<td><p><a href="../Page/錦戶亮.md" title="wikilink">錦戶亮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/錦戶亮" title="wikilink">錦戶亮</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年10月~12月</p></td>
-<td><p><a href="../Page/改造野豬妹.md" title="wikilink">改造野豬妹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/改造野豬妹" title="wikilink">改造野豬妹</a></p></td>
 <td><p>日本電視台</p></td>
 <td><p>龜梨</p></td>
 <td><p>男主角</p></td>
@@ -585,7 +585,7 @@
 </tr>
 <tr class="even">
 <td><p>2006年7月~9月</p></td>
-<td><p><a href="../Page/My_Boss_My_Hero.md" title="wikilink">My Boss My Hero</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Boss_My_Hero" title="wikilink">My Boss My Hero</a></p></td>
 <td><p>日本電視台</p></td>
 <td><p>田中</p></td>
 <td><p>配角</p></td>
@@ -609,7 +609,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007年4月~6月</p></td>
-<td><p><a href="../Page/新娘與爸爸.md" title="wikilink">新娘與爸爸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新娘與爸爸" title="wikilink">新娘與爸爸</a></p></td>
 <td><p>富士電視台</p></td>
 <td><p>田口</p></td>
 <td><p>男配</p></td>
@@ -617,7 +617,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年4月~6月</p></td>
-<td><p><a href="../Page/特急田中3號.md" title="wikilink">特急田中3號</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特急田中3號" title="wikilink">特急田中3號</a></p></td>
 <td><p>TBS</p></td>
 <td><p>田中<br />
 (龜梨特別客串一集)</p></td>
@@ -626,7 +626,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007年7月~9月</p></td>
-<td><p><a href="../Page/壽司王子！.md" title="wikilink">壽司王子！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/壽司王子！" title="wikilink">壽司王子！</a></p></td>
 <td><p>朝日電視台</p></td>
 <td><p>中丸</p></td>
 <td><p>配角</p></td>
@@ -642,7 +642,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008年1月12日~3月8日</p></td>
-<td><p><a href="../Page/一磅的福音.md" title="wikilink">一磅的福音</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一磅的福音" title="wikilink">一磅的福音</a></p></td>
 <td><p>日本電視台</p></td>
 <td><p>龜梨</p></td>
 <td><p>男主角</p></td>
@@ -654,7 +654,7 @@
 <td><p>朝日</p></td>
 <td><p>田中</p></td>
 <td><p>男配</p></td>
-<td><p><a href="../Page/東山紀之.md" title="wikilink">東山紀之</a>、<a href="../Page/松岡昌宏.md" title="wikilink">松岡昌宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東山紀之" title="wikilink">東山紀之</a>、<a href="../Page/松岡昌宏.md" title="wikilink">松岡昌宏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年1月13日~3月10日</p></td>
@@ -666,7 +666,7 @@
 </tr>
 <tr class="even">
 <td><p>2009年1月24日~3月21日</p></td>
-<td><p><a href="../Page/RESCUE〜特別高度救助隊.md" title="wikilink">RESCUE〜特別高度救助隊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RESCUE〜特別高度救助隊" title="wikilink">RESCUE〜特別高度救助隊</a></p></td>
 <td><p>TBS</p></td>
 <td><p>中丸</p></td>
 <td><p>男主角</p></td>
@@ -698,7 +698,7 @@
 </tr>
 <tr class="even">
 <td><p>2011年10月5日~10月25日</p></td>
-<td><p><a href="../Page/愛的售價.md" title="wikilink">愛的售價</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛的售價" title="wikilink">愛的售價</a></p></td>
 <td><p>NHK</p></td>
 <td><p>中丸</p></td>
 <td><p>配角</p></td>
@@ -714,7 +714,7 @@
 </tr>
 <tr class="even">
 <td><p>2011年10月27日~12月22日</p></td>
-<td><p><a href="../Page/RUNAWAY~為了所愛的你.md" title="wikilink">RUNAWAY~為了所愛的你</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RUNAWAY~為了所愛的你" title="wikilink">RUNAWAY~為了所愛的你</a></p></td>
 <td><p>TBS</p></td>
 <td><p>上田</p></td>
 <td><p>男配</p></td>
@@ -746,7 +746,7 @@
 </tr>
 <tr class="even">
 <td><p>2012年7月7日~9月8日</p></td>
-<td><p><a href="../Page/總在哭泣.md" title="wikilink">總在哭泣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/總在哭泣" title="wikilink">總在哭泣</a></p></td>
 <td><p>富士電視台</p></td>
 <td><p>中丸</p></td>
 <td><p>男配</p></td>
@@ -770,7 +770,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013su064月13日~6月22日</p></td>
-<td><p><a href="../Page/被搞錯的男人.md" title="wikilink">被搞錯的男人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/被搞錯的男人" title="wikilink">被搞錯的男人</a></p></td>
 <td><p>富士電視台</p></td>
 <td><p>中丸</p></td>
 <td><p>男配</p></td>
@@ -778,7 +778,7 @@
 </tr>
 <tr class="even">
 <td><p>2013年7月13~8月3日</p></td>
-<td><p><a href="../Page/七場會議.md" title="wikilink">七場會議</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/七場會議" title="wikilink">七場會議</a></p></td>
 <td><p>NHK</p></td>
 <td><p>田口</p></td>
 <td><p>配角</p></td>
@@ -802,7 +802,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013年10月21日~12月23日</p></td>
-<td><p><a href="../Page/變身訪問者的憂鬱.md" title="wikilink">變身訪問者的憂鬱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/變身訪問者的憂鬱" title="wikilink">變身訪問者的憂鬱</a></p></td>
 <td><p>TBS</p></td>
 <td><p>中丸</p></td>
 <td><p>男主角</p></td>
@@ -834,7 +834,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年1月16日~2016年3月19日</p></td>
-<td><p><a href="../Page/怪盜山貓.md" title="wikilink">怪盜山貓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/怪盜山貓" title="wikilink">怪盜山貓</a></p></td>
 <td><p>日本電視台</p></td>
 <td><p>龜梨</p></td>
 <td><p>男主角</p></td>
@@ -858,7 +858,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年4月15日~2017年6月17日</p></td>
-<td><p><a href="../Page/真命天菜.md" title="wikilink">真命天菜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真命天菜" title="wikilink">真命天菜</a></p></td>
 <td><p>日本電視台</p></td>
 <td><p>龜梨</p></td>
 <td><p>男主角</p></td>
@@ -866,7 +866,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年10月13日~2017年12月22日</p></td>
-<td><p><a href="../Page/新宿セブン.md" title="wikilink">新宿セブン</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新宿セブン" title="wikilink">新宿セブン</a></p></td>
 <td><p>東京電視台</p></td>
 <td><p>上田</p></td>
 <td><p>男主角</p></td>
@@ -877,46 +877,46 @@
 
 #### 單元劇、客串
 
-| 放映日                   | 名稱                                                                     | 頻道                                       | 出演成員           | 性質        | 同事務所共演者                                 |
-| --------------------- | ---------------------------------------------------------------------- | ---------------------------------------- | -------------- | --------- | --------------------------------------- |
-| 1999年1月-5月            | [熱血戀愛道](../Page/熱血戀愛道.md "wikilink")                                   | 日本電視台                                    | 赤西、田中、中丸       | 主演        |                                         |
-| 1999年7月-9月            | [恐怖星期天](../Page/恐怖星期天.md "wikilink")                                   | 日本電視台                                    | 龜梨、赤西、田中       | 主演        |                                         |
-| 1999年10月-12月          | 恐怖星期天\~新章\~                                                            | 日本電視台                                    | 赤西、田中、中丸       | 主演        |                                         |
-| 1999年7月-9月            | 恐怖星期天\~2000\~                                                          | 日本電視台                                    | 赤西、田口、田中、上田、中丸 | 主演        |                                         |
-| 2000年4月-6月            | [太陽不西沉](../Page/太陽不西沉.md "wikilink")                                   | 富士電視台                                    | 赤西             | 客串第6集     | 瀧澤秀明                                    |
-| 2000年7月8日             | 父さん                                                                    | 富士電視台                                    | 中丸             | 客串        | [櫻井翔](../Page/櫻井翔.md "wikilink")        |
-| 2000年7月8日             | Age                                                                    | NHK                                      | 田中             |           |                                         |
-| 2000年7月26日            | 超速V6 big大作戰                                                            | 富士電視台                                    | 田中             | 客串        | [V6](../Page/V6.md "wikilink")          |
-| 2000年12月3日-2001年4月29日 | [史上最惡的約會](../Page/史上最惡的約會.md "wikilink")                               | 日本電視台                                    | 龜梨、赤西、田中、上田    | 主演        |                                         |
-| 2001年4月1日             | [變成鳥的少年](../Page/變成鳥的少年.md "wikilink")                                 | [TBS](../Page/TBS.md "wikilink")         | 田口             |           | 山下智久                                    |
-| 2001年10月-2002年3月      | [三年B組金八先生第六季](../Page/3年B組金八先生#第6季（2001年）.md "wikilink")               | TBS                                      | 龜梨             | 客串第11、12集 |                                         |
-| 2004年12月13日-12月16日    | [Xmas最討厭了！](../Page/Xmas最討厭了！.md "wikilink")                           | 日本電視台                                    | 赤西             |           |                                         |
-| 2005年9月24日            | [金田一少年之事件簿](../Page/金田一少年之事件簿_\(電視劇\).md "wikilink")「吸血鬼傳說殺人事件」        | 日本電視台                                    | 龜梨（田中、中丸客串）    | 男主角       |                                         |
-| 2005年12月28日           | [熟女真命苦～特別篇～](../Page/熟女真命苦～特別篇～.md "wikilink")                         | 日本電視台                                    | 赤西             | 男主角       |                                         |
-| 2006年4月4日             | [很多愛謝謝你](../Page/很多愛謝謝你.md "wikilink")                                 | 日本電視台                                    | 田中             |           |                                         |
-| 2006年4月7日             | [Happy\!](../Page/Happy!.md "wikilink")                                | TBS                                      | 田口             | 男主角       |                                         |
-| 2006年8月26日            | [勇氣](../Page/勇氣.md "wikilink")                                         | 日本電視台                                    | 龜梨             | 男主角       |                                         |
-| 2006年9月30日            | [美食偵探王特別篇](../Page/美食偵探王.md "wikilink") 吃遍香港                           | 日本電視台                                    | 龜梨             |           | 東山紀之、[森田剛](../Page/森田剛.md "wikilink")   |
-| 2006年12月26日           | [Happy\!](../Page/Happy!.md "wikilink")2                               | TBS                                      | 田口             | 男主角       |                                         |
-| 2007年1月6、7日           | [少年白虎隊](../Page/白虎隊_\(電視劇\).md "wikilink")                             | 朝日電視台                                    | 田中             |           | 山下智久、[藤谷太輔](../Page/藤谷太輔.md "wikilink") |
-| 2009年6月6日             | [MR.BRAIN](../Page/MR.BRAIN.md "wikilink")                             | TBS                                      | 龜梨             | 主演第3集     | [木村拓哉](../Page/木村拓哉.md "wikilink")      |
-| 2009年8月15日            | [烏龍派出所](../Page/烏龍派出所.md "wikilink")                                   | TBS                                      | 田口             | 主演第3集     | [香取慎吾](../Page/香取慎吾.md "wikilink")      |
-| 2009年9月14日            | [向田邦子誕生八十年記念公演特別篇母親的贈禮](../Page/向田邦子誕生八十年記念公演特別篇母親的贈禮.md "wikilink")   | TBS                                      | 中丸             |           |                                         |
-| 2010年6月30日            | [離婚症候群](../Page/離婚症候群.md "wikilink")                                   | 日本電視台                                    | 田中             | 主演        |                                         |
-| 2010年7月10日            | [必殺仕事人2010](../Page/必殺仕事人2010.md "wikilink")                           | 朝日電視台                                    | 田中             | 主演        | 東山紀之、松岡昌宏                               |
-| 2010年9月6日             | [神南署安積班－第三季](../Page/神南署安積班－第三季.md "wikilink")                         | TBS                                      | 中丸             | 客串第10集    |                                         |
-| 2011年3月27日            | [三年B組金八先生最終章～「最後的贈言」](../Page/3年B組金八先生#最終特集（2011年）.md "wikilink")      | TBS                                      | 龜梨             | 客串        |                                         |
-| 2011年10月5日            | [ダチタビ第一章ダルセーニョなキャンプ](../Page/ダチタビ第一章ダルセーニョなキャンプ.md "wikilink")         | 日本電視台                                    | 中丸             | 主演        | [增田貴久](../Page/增田貴久.md "wikilink")      |
-| 2012年2月19日            | [必殺仕事人2012](../Page/必殺仕事人2012.md "wikilink")                           | 朝日電視台                                    | 田中             | 主演        | 東山紀之、松岡昌宏                               |
-| 2012年6月10日、17日        | [被稱作早海的日子特別篇前篇](../Page/被稱作早海的日子.md "wikilink")、後篇                     | 富士電視台                                    | 中丸             |           |                                         |
-| 2012年9月25日、27日        | dragon青年團                                                              | TBS                                      | 龜梨             | 出演最終回     | [安田章大](../Page/安田章大.md "wikilink")      |
-| 2013年1月3日             | [幸運7人組特別篇](../Page/幸運7人組.md "wikilink")                                | 富士電視台                                    | 中丸             | 客串        | 松本潤                                     |
-| 2013年4月13日            | [Legal high特別篇](../Page/Legal_high.md "wikilink")                      | 富士電視台                                    | 田口             | 配角        |                                         |
-| 2013年9月29日            | [The Partner ～給摯愛的百年朋友～](../Page/The_Partner_～給摯愛的百年朋友～.md "wikilink") | TBS、[越南電視台](../Page/越南電視台.md "wikilink") | 中丸             | 配角        | 東山紀之                                    |
-| 2014年12月24日           | [FIRST_CLASS](../Page/FIRST_CLASS.md "wikilink")2                     | 富士電視台                                    | 中丸             | 客串        | 岡本圭人                                    |
-| 2015年8月12日            | [刑警七人](../Page/刑警七人.md "wikilink")                                     | 朝日電視台                                    | 中丸             | 客串        | 東山紀之                                    |
-| 2016年6月19日            | [99.9_-刑事專門律師-](../Page/99.9_-刑事專門律師-.md "wikilink")                  | TBS                                      | 中丸             | 客串        | 松本潤                                     |
-| 2017年8月26日            | 時代を作った男 阿久悠物語                                                          | 日本電視台                                    | 龜梨             | 主演        | 加藤成亮                                    |
+| 放映日                   | 名稱                                                                                      | 頻道                                                          | 出演成員           | 性質        | 同事務所共演者                                           |
+| --------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------- | --------- | ------------------------------------------------- |
+| 1999年1月-5月            | [熱血戀愛道](https://zh.wikipedia.org/wiki/熱血戀愛道 "wikilink")                                 | 日本電視台                                                       | 赤西、田中、中丸       | 主演        |                                                   |
+| 1999年7月-9月            | [恐怖星期天](https://zh.wikipedia.org/wiki/恐怖星期天 "wikilink")                                 | 日本電視台                                                       | 龜梨、赤西、田中       | 主演        |                                                   |
+| 1999年10月-12月          | 恐怖星期天\~新章\~                                                                             | 日本電視台                                                       | 赤西、田中、中丸       | 主演        |                                                   |
+| 1999年7月-9月            | 恐怖星期天\~2000\~                                                                           | 日本電視台                                                       | 赤西、田口、田中、上田、中丸 | 主演        |                                                   |
+| 2000年4月-6月            | [太陽不西沉](https://zh.wikipedia.org/wiki/太陽不西沉 "wikilink")                                 | 富士電視台                                                       | 赤西             | 客串第6集     | 瀧澤秀明                                              |
+| 2000年7月8日             | 父さん                                                                                     | 富士電視台                                                       | 中丸             | 客串        | [櫻井翔](../Page/櫻井翔.md "wikilink")                  |
+| 2000年7月8日             | Age                                                                                     | NHK                                                         | 田中             |           |                                                   |
+| 2000年7月26日            | 超速V6 big大作戰                                                                             | 富士電視台                                                       | 田中             | 客串        | [V6](https://zh.wikipedia.org/wiki/V6 "wikilink") |
+| 2000年12月3日-2001年4月29日 | [史上最惡的約會](https://zh.wikipedia.org/wiki/史上最惡的約會 "wikilink")                             | 日本電視台                                                       | 龜梨、赤西、田中、上田    | 主演        |                                                   |
+| 2001年4月1日             | [變成鳥的少年](https://zh.wikipedia.org/wiki/變成鳥的少年 "wikilink")                               | [TBS](../Page/TBS.md "wikilink")                            | 田口             |           | 山下智久                                              |
+| 2001年10月-2002年3月      | [三年B組金八先生第六季](https://zh.wikipedia.org/wiki/3年B組金八先生#第6季（2001年） "wikilink")             | TBS                                                         | 龜梨             | 客串第11、12集 |                                                   |
+| 2004年12月13日-12月16日    | [Xmas最討厭了！](https://zh.wikipedia.org/wiki/Xmas最討厭了！ "wikilink")                         | 日本電視台                                                       | 赤西             |           |                                                   |
+| 2005年9月24日            | [金田一少年之事件簿](../Page/金田一少年之事件簿_\(電視劇\).md "wikilink")「吸血鬼傳說殺人事件」                         | 日本電視台                                                       | 龜梨（田中、中丸客串）    | 男主角       |                                                   |
+| 2005年12月28日           | [熟女真命苦～特別篇～](https://zh.wikipedia.org/wiki/熟女真命苦～特別篇～ "wikilink")                       | 日本電視台                                                       | 赤西             | 男主角       |                                                   |
+| 2006年4月4日             | [很多愛謝謝你](https://zh.wikipedia.org/wiki/很多愛謝謝你 "wikilink")                               | 日本電視台                                                       | 田中             |           |                                                   |
+| 2006年4月7日             | [Happy\!](../Page/Happy!.md "wikilink")                                                 | TBS                                                         | 田口             | 男主角       |                                                   |
+| 2006年8月26日            | [勇氣](../Page/勇氣.md "wikilink")                                                          | 日本電視台                                                       | 龜梨             | 男主角       |                                                   |
+| 2006年9月30日            | [美食偵探王特別篇](../Page/美食偵探王.md "wikilink") 吃遍香港                                            | 日本電視台                                                       | 龜梨             |           | 東山紀之、[森田剛](../Page/森田剛.md "wikilink")             |
+| 2006年12月26日           | [Happy\!](../Page/Happy!.md "wikilink")2                                                | TBS                                                         | 田口             | 男主角       |                                                   |
+| 2007年1月6、7日           | [少年白虎隊](https://zh.wikipedia.org/wiki/白虎隊_\(電視劇\) "wikilink")                           | 朝日電視台                                                       | 田中             |           | 山下智久、[藤谷太輔](../Page/藤谷太輔.md "wikilink")           |
+| 2009年6月6日             | [MR.BRAIN](../Page/MR.BRAIN.md "wikilink")                                              | TBS                                                         | 龜梨             | 主演第3集     | [木村拓哉](../Page/木村拓哉.md "wikilink")                |
+| 2009年8月15日            | [烏龍派出所](../Page/烏龍派出所.md "wikilink")                                                    | TBS                                                         | 田口             | 主演第3集     | [香取慎吾](../Page/香取慎吾.md "wikilink")                |
+| 2009年9月14日            | [向田邦子誕生八十年記念公演特別篇母親的贈禮](https://zh.wikipedia.org/wiki/向田邦子誕生八十年記念公演特別篇母親的贈禮 "wikilink") | TBS                                                         | 中丸             |           |                                                   |
+| 2010年6月30日            | [離婚症候群](https://zh.wikipedia.org/wiki/離婚症候群 "wikilink")                                 | 日本電視台                                                       | 田中             | 主演        |                                                   |
+| 2010年7月10日            | [必殺仕事人2010](https://zh.wikipedia.org/wiki/必殺仕事人2010 "wikilink")                         | 朝日電視台                                                       | 田中             | 主演        | 東山紀之、松岡昌宏                                         |
+| 2010年9月6日             | [神南署安積班－第三季](https://zh.wikipedia.org/wiki/神南署安積班－第三季 "wikilink")                       | TBS                                                         | 中丸             | 客串第10集    |                                                   |
+| 2011年3月27日            | [三年B組金八先生最終章～「最後的贈言」](https://zh.wikipedia.org/wiki/3年B組金八先生#最終特集（2011年） "wikilink")    | TBS                                                         | 龜梨             | 客串        |                                                   |
+| 2011年10月5日            | [ダチタビ第一章ダルセーニョなキャンプ](https://zh.wikipedia.org/wiki/ダチタビ第一章ダルセーニョなキャンプ "wikilink")       | 日本電視台                                                       | 中丸             | 主演        | [增田貴久](../Page/增田貴久.md "wikilink")                |
+| 2012年2月19日            | [必殺仕事人2012](https://zh.wikipedia.org/wiki/必殺仕事人2012 "wikilink")                         | 朝日電視台                                                       | 田中             | 主演        | 東山紀之、松岡昌宏                                         |
+| 2012年6月10日、17日        | [被稱作早海的日子特別篇前篇](../Page/被稱作早海的日子.md "wikilink")、後篇                                      | 富士電視台                                                       | 中丸             |           |                                                   |
+| 2012年9月25日、27日        | dragon青年團                                                                               | TBS                                                         | 龜梨             | 出演最終回     | [安田章大](../Page/安田章大.md "wikilink")                |
+| 2013年1月3日             | [幸運7人組特別篇](../Page/幸運7人組.md "wikilink")                                                 | 富士電視台                                                       | 中丸             | 客串        | 松本潤                                               |
+| 2013年4月13日            | [Legal high特別篇](https://zh.wikipedia.org/wiki/Legal_high "wikilink")                    | 富士電視台                                                       | 田口             | 配角        |                                                   |
+| 2013年9月29日            | [The Partner ～給摯愛的百年朋友～](../Page/The_Partner_～給摯愛的百年朋友～.md "wikilink")                  | TBS、[越南電視台](https://zh.wikipedia.org/wiki/越南電視台 "wikilink") | 中丸             | 配角        | 東山紀之                                              |
+| 2014年12月24日           | [FIRST_CLASS](../Page/FIRST_CLASS.md "wikilink")2                                      | 富士電視台                                                       | 中丸             | 客串        | 岡本圭人                                              |
+| 2015年8月12日            | [刑警七人](https://zh.wikipedia.org/wiki/刑警七人 "wikilink")                                   | 朝日電視台                                                       | 中丸             | 客串        | 東山紀之                                              |
+| 2016年6月19日            | [99.9_-刑事專門律師-](../Page/99.9_-刑事專門律師-.md "wikilink")                                   | TBS                                                         | 中丸             | 客串        | 松本潤                                               |
+| 2017年8月26日            | 時代を作った男 阿久悠物語                                                                           | 日本電視台                                                       | 龜梨             | 主演        | 加藤成亮                                              |
 
 #### 舞台劇
 
@@ -929,24 +929,24 @@
       - 「KAT-TUN&関ジャニ∞編」(2004年4月30日-5月7日，梅田藝術劇場)KAT-TUN出演
       - 「瀧澤秀明編」(2004年5月8日-5月23日，梅田藝術劇場)KAT-TUN除田口(膝傷)以外全員出演
       - [Hey\! Say\! Dream
-        Boy](../Page/DREAM_BOY#Hey!_Say!_Dream_Boy.md "wikilink")（2005年4月27日-5月15日，[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")）
+        Boy](https://zh.wikipedia.org/wiki/DREAM_BOY#Hey!_Say!_Dream_Boy "wikilink")（2005年4月27日-5月15日，[梅田芸術劇場](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）
       - [KAT-TUN vs 関ジャニ∞ Musical Dream
-        Boys](../Page/DREAM_BOY#DREAM_BOYS（2006年）.md "wikilink")（2006年1月3日-1月29日，帝国劇場）
+        Boys](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2006年） "wikilink")（2006年1月3日-1月29日，帝国劇場）
       - [DREAM
-        BOYS](../Page/DREAM_BOY#DREAM_BOYS（2007年）.md "wikilink")（2007年9月5日-9月30日，帝国劇場、38公演）龜梨、田中
+        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2007年） "wikilink")（2007年9月5日-9月30日，帝国劇場、38公演）龜梨、田中
       - [DREAM
-        BOYS](../Page/DREAM_BOY#DREAM_BOYS（2008年）.md "wikilink")（2008年3月4日-3月30日，帝国劇場、2008年4月4日-4月16日、梅田芸術劇場）龜梨、田中
+        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2008年） "wikilink")（2008年3月4日-3月30日，帝国劇場、2008年4月4日-4月16日、梅田芸術劇場）龜梨、田中
       - [DREAM
-        BOYS](../Page/DREAM_BOY#DREAM_BOYS（2009年）.md "wikilink")（2009年9月4日-9月29日，帝国劇場、2009年10月13日-10月25，梅田芸術劇場）龜梨和也
+        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2009年） "wikilink")（2009年9月4日-9月29日，帝国劇場、2009年10月13日-10月25，梅田芸術劇場）龜梨和也
       - [DREAM
-        BOYS](../Page/DREAM_BOY#DREAM_BOYS（2011年）.md "wikilink")（2011年9月3日-9月25日，帝国劇場、38公演）龜梨、田中、中丸
+        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2011年） "wikilink")（2011年9月3日-9月25日，帝国劇場、38公演）龜梨、田中、中丸
       - [DREAM
-        BOYS](../Page/DREAM_BOY#DREAM_BOYS（2012年）.md "wikilink")（2012年9月3日-9月29日，帝国劇場）龜梨
+        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2012年） "wikilink")（2012年9月3日-9月29日，帝国劇場）龜梨
 
 ### 廣播
 
   - [KAT-TUN
-    STYLE](../Page/KAT-TUN_STYLE.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")，田口・田中・龜梨
+    STYLE](https://zh.wikipedia.org/wiki/KAT-TUN_STYLE "wikilink")（[ニッポン放送](https://zh.wikipedia.org/wiki/ニッポン放送 "wikilink")，田口・田中・龜梨
     主持）
 
 <!-- end list -->
@@ -961,7 +961,7 @@
 <!-- end list -->
 
   - [龜梨和也的 KS by
-    KS](../Page/龜梨和也的_KS_by_KS.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")，龜梨
+    KS](https://zh.wikipedia.org/wiki/龜梨和也的_KS_by_KS "wikilink")（[ニッポン放送](https://zh.wikipedia.org/wiki/ニッポン放送 "wikilink")，龜梨
     主持）
 
 <!-- end list -->
@@ -974,7 +974,7 @@
 <!-- end list -->
 
   - [R-One
-    KAT-TUN](../Page/R-One_KAT-TUN.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")，上田・中丸
+    KAT-TUN](https://zh.wikipedia.org/wiki/R-One_KAT-TUN "wikilink")（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，上田・中丸
     主持）
 
 <!-- end list -->
@@ -983,14 +983,15 @@
     播放時間：每週二 24:00～24:30
     註：2006年三月至2007年三月，廣播時間為每週三。
     2007年四月開始，為了不與2007年四月四日（星期三）起播放的綜藝節目[cartoon
-    KAT-TUN](../Page/cartoon_KAT-TUN.md "wikilink")（23：55～24：26）衝突，調整廣播時間至週二。
+    KAT-TUN](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN "wikilink")（23：55～24：26）衝突，調整廣播時間至週二。
     2011年10月起，撥放時間改至每週一。
     2012年3月26日，播出最後一集。
 
 <!-- end list -->
 
-  - [KAT-TUN 亀梨和也のHANG OUT](../Page/KAT-TUN_亀梨和也のHANG_OUT.md "wikilink")
-    （[NACK 5](../Page/NACK_5.md "wikilink")，龜梨 主持）
+  - [KAT-TUN 亀梨和也のHANG
+    OUT](https://zh.wikipedia.org/wiki/KAT-TUN_亀梨和也のHANG_OUT "wikilink")
+    （[NACK 5](https://zh.wikipedia.org/wiki/NACK_5 "wikilink")，龜梨 主持）
 
 <!-- end list -->
 
@@ -999,8 +1000,8 @@
 
 <!-- end list -->
 
-  - [KAT-TUNのがつーん](../Page/KAT-TUNのがつーん.md "wikilink")
-    （[文化放送](../Page/文化放送.md "wikilink")，田口・田中・中丸
+  - [KAT-TUNのがつーん](https://zh.wikipedia.org/wiki/KAT-TUNのがつーん "wikilink")
+    （[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，田口・田中・中丸
     主持；田中退團後由田口、中丸繼續主持）
 
 <!-- end list -->
@@ -1046,10 +1047,11 @@
 
   - [NTT DOCOMO](../Page/NTT_DOCOMO.md "wikilink")
       - [FOMA
-        new9（902iS）](../Page/FOMA#902iSシリーズ.md "wikilink")（2006年6月）
+        new9（902iS）](https://zh.wikipedia.org/wiki/FOMA#902iSシリーズ "wikilink")（2006年6月）
       - NTT DoCoMo 903i（2006年11月26日 - 12月30日、JR西日本・大阪環状線的車身廣告）
       - 企業廣告「我們的自由篇」（2007年8月）
-  - [Sky PerfecTV\!](../Page/Sky_PerfecTV!.md "wikilink")
+  - [Sky
+    PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")
       - 「新魔球篇」（2006年3月）
       - 「Free Kick篇」（2006年5月）
       - 「MUSIC LIFE\! 篇」（2006年8月）
@@ -1057,7 +1059,7 @@
   - [樂敦製藥](../Page/樂敦製藥.md "wikilink")
       - もぎたて果実 護脣膏（2005年7月-）
       - Ｃキューブシリーズ」隱形眼鏡藥水（2005年10月）
-  - [LOTTE](../Page/LOTTE.md "wikilink")
+  - [LOTTE](https://zh.wikipedia.org/wiki/LOTTE "wikilink")
       - Crunky
           - 「CMが地味? 篇」（2002年9月）
           - 「クセなんだ♪篇」
@@ -1075,9 +1077,9 @@
           - 「オリジナルボトルキャンペーン篇」（2007年1月）
           - 「マジックキウイ篇」（2007年7月）
           - 「パワーオブフルーツ篇」（2007年11月）
-  - [music.jp](../Page/music.jp.md "wikilink")
+  - [music.jp](https://zh.wikipedia.org/wiki/music.jp "wikilink")
       - デコともDX（2009年12月25日-）
-  - [鈴木株式會社](../Page/鈴木株式會社.md "wikilink")
+  - [鈴木株式會社](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")
       - [鈴木Solio](../Page/鈴木Solio.md "wikilink")（2010年12月-）
 
 ## 參見

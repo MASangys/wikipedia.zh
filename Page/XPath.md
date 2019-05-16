@@ -1,7 +1,7 @@
 **XPath**即为[XML路径语言](../Page/XML.md "wikilink")（XML Path
-Language），它是一种用来确定XML文档中某部分位置的[计算机语言](../Page/计算机语言.md "wikilink")。
+Language），它是一种用来确定XML文档中某部分位置的[计算机语言](https://zh.wikipedia.org/wiki/计算机语言 "wikilink")。
 
-XPath基于XML的树状结构，提供在数据结构树中找寻节点的能力。起初XPath的提出的初衷是将其作为一个通用的、介于与[XSL间的语法模型](../Page/XSL.md "wikilink")。但是XPath很快的被开发者采用来当作小型[查询语言](../Page/查询语言.md "wikilink")。
+XPath基于XML的树状结构，提供在数据结构树中找寻节点的能力。起初XPath的提出的初衷是将其作为一个通用的、介于与[XSL间的语法模型](https://zh.wikipedia.org/wiki/XSL "wikilink")。但是XPath很快的被开发者采用来当作小型[查询语言](https://zh.wikipedia.org/wiki/查询语言 "wikilink")。
 
 ## 表示法
 
@@ -19,7 +19,7 @@ XPath基于XML的树状结构，提供在数据结构树中找寻节点的能力
 
   - `/A/B/C`
 
-在这里选择所有符合规矩的C节点：C节点必须是B的子节点（`B/C`），同时B节点必须是A的子节点（`A/B`），而A是这个XML文档的根节点（`/A`）。此时的这种描述法类似于磁盘中文件的路径（[URI](../Page/URI.md "wikilink")），从盘符开始顺着一级一级的目录最终找到文件。
+在这里选择所有符合规矩的C节点：C节点必须是B的子节点（`B/C`），同时B节点必须是A的子节点（`A/B`），而A是这个XML文档的根节点（`/A`）。此时的这种描述法类似于磁盘中文件的路径（[URI](https://zh.wikipedia.org/wiki/URI "wikilink")），从盘符开始顺着一级一级的目录最终找到文件。
 
 这里还有一个复杂一些的例子，包含了全部构成成分（请详细的看）：
 
@@ -72,7 +72,7 @@ also']`在现行上下文选取了叫`h3`的元素，该元素文字内容是`Se
 ;text() :寻找某点的文字型别，例如`hello`于<k>`hello`</k>
 
 ;processing-instruction()
-:寻找XML[处理指令如](../Page/处理指令.md "wikilink")<code>
+:寻找XML[处理指令如](https://zh.wikipedia.org/wiki/处理指令 "wikilink")<code>
 
 <?php echo $a; ?>
 
@@ -185,7 +185,8 @@ XPath
 
 使用操作子：`=, !=, <=, <,
 >=`和`>`的表达式可以创造于术语内。布尔表达式可用括号`()`、布尔操作子`and`与`or`、和／或者上述的`not()`函式联合起来。数值计算使用`*,
-+, -, div`和`mod`。字符串可包含任何[Unicode字符](../Page/Unicode.md "wikilink")。
++, -,
+div`和`mod`。字符串可包含任何[Unicode字符](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 述语内外，整个节点组可利用"|"字符联合起来。
 
@@ -195,8 +196,9 @@ XPath
 
 ## XPath 2 及 XPath 3
 
-在[W3C建议下](../Page/W3C.md "wikilink")，XPath 1.0于1999年11月16日发表。[XPath
-2.0于](../Page/XPath_2.0.md "wikilink")2007年1月23日成为W3C推荐标准。XPath
+在[W3C建议下](https://zh.wikipedia.org/wiki/W3C "wikilink")，XPath
+1.0于1999年11月16日发表。[XPath
+2.0于](https://zh.wikipedia.org/wiki/XPath_2.0 "wikilink")2007年1月23日成为W3C推荐标准。XPath
 2.0表达了XPath语言在大小与能力上显著的增加。
 
 最值得大书特书的改变是XPath 2.0有了更丰富的型别系统；XPath 2.0支持不可分割型态，如在[XML
@@ -206,7 +208,7 @@ Schema内建型态定义一样](../Page/XML_Schema.md "wikilink")，并且也可
 为了支持更丰富的型别组，XPath 2.0提供相当延展的函式与操作子群。
 
 XPath 2.0实际上是[XQuery
-1.0的子集合](../Page/XQuery_1.0.md "wikilink")。它提供了一个for表达式。该式是XQuery里「FLWOR」表达式的缩减版。利用列出XQuery省去的部分来描述该语言是可能的。主要范例是查询前导语（query
+1.0的子集合](https://zh.wikipedia.org/wiki/XQuery_1.0 "wikilink")。它提供了一个for表达式。该式是XQuery里「FLWOR」表达式的缩减版。利用列出XQuery省去的部分来描述该语言是可能的。主要范例是查询前导语（query
 prolog）、元素和属性建构式、「FLWOR」语法的余项式、以及`typeswitch`表达式。
 
 XPath 3.0 於 2014年 4月 8日成為 W3C 推薦標準，而 XPath 3.1 則於 2017年 3月 21日成為 W3C
@@ -216,11 +218,11 @@ XPath 3.0 於 2014年 4月 8日成為 W3C 推薦標準，而 XPath 3.1 則於 20
 
   - **[XML](../Page/XML.md "wikilink")**
   - [XSLT](../Page/XSLT.md "wikilink")，[XSL-FO](../Page/XSL-FO.md "wikilink")
-  - [XLink](../Page/XLink.md "wikilink")，[XPointer](../Page/XPointer.md "wikilink")
-  - [XPointer](../Page/XPointer.md "wikilink")
-  - [Xquery](../Page/Xquery.md "wikilink")
+  - [XLink](../Page/XLink.md "wikilink")，[XPointer](https://zh.wikipedia.org/wiki/XPointer "wikilink")
+  - [XPointer](https://zh.wikipedia.org/wiki/XPointer "wikilink")
+  - [Xquery](https://zh.wikipedia.org/wiki/Xquery "wikilink")
   - [XML Schema](../Page/XML_Schema.md "wikilink")
-  - [STXPath](../Page/STXPath.md "wikilink")
+  - [STXPath](https://zh.wikipedia.org/wiki/STXPath "wikilink")
 
 ## 外部链接
 

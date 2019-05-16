@@ -1,16 +1,17 @@
 **Linux 发行版**（，也被叫做**GNU/Linux
-发行版**），為一般使用者預先整合好的[Linux](../Page/Linux.md "wikilink")[作業系統及各種應用軟體](../Page/作業系統.md "wikilink")。一般使用者不需要重新[編譯](../Page/編譯.md "wikilink")，在直接安裝之後，只需要小幅度更改設定就可以使用，通常以[软件包管理系统來進行應用軟體的管理](../Page/软件包管理系统.md "wikilink")。Linux发行版通常包含了包括[桌面环境](../Page/桌面环境.md "wikilink")、[办公套件](../Page/办公套件.md "wikilink")、[媒体播放器](../Page/媒体播放器.md "wikilink")、[数据库等应用软件](../Page/数据库.md "wikilink")。这些[操作系统通常由Linux内核](../Page/操作系统.md "wikilink")、以及来自GNU计划的大量的[函式库](../Page/函式库.md "wikilink")，和基于[X
-Window的图形界面](../Page/X_Window.md "wikilink")。有些发行版考虑到容量大小而没有预装 X
-Window，而使用更加轻量级的软件，如：[busybox](../Page/busybox.md "wikilink"),
-[uclibc](../Page/uclibc.md "wikilink") 或
-[dietlibc](../Page/dietlibc.md "wikilink")。现在有超过300个Linux发行版([Linux发行版列表](../Page/Linux发行版列表.md "wikilink"))。大部分都正处于活跃的开发中，不断地改进。
+发行版**），為一般使用者預先整合好的[Linux](../Page/Linux.md "wikilink")[作業系統及各種應用軟體](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。一般使用者不需要重新[編譯](https://zh.wikipedia.org/wiki/編譯 "wikilink")，在直接安裝之後，只需要小幅度更改設定就可以使用，通常以[软件包管理系统來進行應用軟體的管理](../Page/软件包管理系统.md "wikilink")。Linux发行版通常包含了包括[桌面环境](../Page/桌面环境.md "wikilink")、[办公套件](https://zh.wikipedia.org/wiki/办公套件 "wikilink")、[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")、[数据库等应用软件](../Page/数据库.md "wikilink")。这些[操作系统通常由Linux内核](../Page/操作系统.md "wikilink")、以及来自GNU计划的大量的[函式库](https://zh.wikipedia.org/wiki/函式库 "wikilink")，和基于[X
+Window的图形界面](https://zh.wikipedia.org/wiki/X_Window "wikilink")。有些发行版考虑到容量大小而没有预装
+X
+Window，而使用更加轻量级的软件，如：[busybox](https://zh.wikipedia.org/wiki/busybox "wikilink"),
+[uclibc](https://zh.wikipedia.org/wiki/uclibc "wikilink") 或
+[dietlibc](https://zh.wikipedia.org/wiki/dietlibc "wikilink")。现在有超过300个Linux发行版([Linux发行版列表](../Page/Linux发行版列表.md "wikilink"))。大部分都正处于活跃的开发中，不断地改进。
 
 由于大多数软件包是[自由软件和](../Page/自由软件.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")，所以Linux发行版的形式多种多样——从功能齐全的桌面系统以及服务器系统到小型系统
-(通常在[嵌入式设备](../Page/嵌入式.md "wikilink")，或者启动[软盘](../Page/软盘.md "wikilink"))。除了一些定制软件
-(如安装和配置工具)，发行版通常只是将特定的应用软件安装在一堆[函式库和内核上](../Page/函式库.md "wikilink")，以满足特定使用者的需求。
+(通常在[嵌入式设备](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")，或者启动[软盘](../Page/软盘.md "wikilink"))。除了一些定制软件
+(如安装和配置工具)，发行版通常只是将特定的应用软件安装在一堆[函式库和内核上](https://zh.wikipedia.org/wiki/函式库 "wikilink")，以满足特定使用者的需求。
 
-这些发行版可以分为商业发行版，比如[Ubuntu](../Page/Ubuntu.md "wikilink")（[Canonical公司](../Page/Canonical公司.md "wikilink")）、[Fedora](../Page/Fedora.md "wikilink")（[Red
-Hat](../Page/Red_Hat.md "wikilink")）、[openSUSE](../Page/openSUSE.md "wikilink")（[Novell](../Page/Novell.md "wikilink")）和[Mandriva
+这些发行版可以分为商业发行版，比如[Ubuntu](../Page/Ubuntu.md "wikilink")（[Canonical公司](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")）、[Fedora](../Page/Fedora.md "wikilink")（[Red
+Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")）、[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")（[Novell](../Page/Novell.md "wikilink")）和[Mandriva
 Linux](../Page/Mandriva_Linux.md "wikilink")；和社区发行版，它们由自由软件社区提供支持，如[Debian和](../Page/Debian.md "wikilink")[Gentoo](../Page/Gentoo_Linux.md "wikilink")；也有发行版既不是商业发行版也不是社区发行版，如[Slackware](../Page/Slackware.md "wikilink")。
 
 ## 历史
@@ -21,50 +22,50 @@ Linux](../Page/Mandriva_Linux.md "wikilink")；和社区发行版，它们由自
 
   - H J Lu的 "Boot-root"，2个磁盘搭配一个内核以及极少的工具；
   - [MCC Interim
-    Linux](../Page/MCC_Interim_Linux.md "wikilink")，它在1992年2月通过[英国](../Page/英国.md "wikilink")[曼彻斯特大学的](../Page/曼彻斯特大学.md "wikilink")[FTP服务器向公众提供下载](../Page/FTP.md "wikilink")；
+    Linux](https://zh.wikipedia.org/wiki/MCC_Interim_Linux "wikilink")，它在1992年2月通过[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[曼彻斯特大学的](../Page/曼彻斯特大学.md "wikilink")[FTP服务器向公众提供下载](https://zh.wikipedia.org/wiki/FTP "wikilink")；
   - TAMU, 几乎同时由[Texas A\&M
-    University的个人创造出来的](../Page/Texas_A&M_University.md "wikilink")
+    University的个人创造出来的](https://zh.wikipedia.org/wiki/Texas_A&M_University "wikilink")
   - SLS ([Softlanding Linux
-    System](../Page/Softlanding_Linux_System.md "wikilink"))；
+    System](https://zh.wikipedia.org/wiki/Softlanding_Linux_System "wikilink"))；
   - [Yggdrasil
-    Linux/GNU/X](../Page/Yggdrasil_Linux/GNU/X.md "wikilink")，这是第一个基于CD-ROM的Linux发行版。
+    Linux/GNU/X](https://zh.wikipedia.org/wiki/Yggdrasil_Linux/GNU/X "wikilink")，这是第一个基于CD-ROM的Linux发行版。
 
 SLS并没有得到很好的维护，所以[Patrick
-Volkerding在](../Page/Patrick_Volkerding.md "wikilink")1993年7月16日发布了一个基于SLS的发行版，叫做[Slackware](../Page/Slackware.md "wikilink")。\[1\]
+Volkerding在](https://zh.wikipedia.org/wiki/Patrick_Volkerding "wikilink")1993年7月16日发布了一个基于SLS的发行版，叫做[Slackware](../Page/Slackware.md "wikilink")。\[1\]
 这是到现在仍然在发展的最老的发行版。
 
 用户开始被从[DOS和](../Page/DOS.md "wikilink")[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")，[苹果机上的](../Page/苹果机.md "wikilink")[Mac
-OS和](../Page/Mac_OS.md "wikilink")[专有的](../Page/专有.md "wikilink")[Unix版本吸引到自由的](../Page/Unix.md "wikilink")[Linux](../Page/Linux.md "wikilink")。最早的使用者来自熟悉Unix的公司和学校，它们喜欢Linux的自由、低价、以及开放的[源代码](../Page/源代码.md "wikilink")。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[苹果机上的](https://zh.wikipedia.org/wiki/苹果机 "wikilink")[Mac
+OS和](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")[Unix版本吸引到自由的](https://zh.wikipedia.org/wiki/Unix "wikilink")[Linux](../Page/Linux.md "wikilink")。最早的使用者来自熟悉Unix的公司和学校，它们喜欢Linux的自由、低价、以及开放的[源代码](../Page/源代码.md "wikilink")。
 
-最初的发行版只是为了方便，但是现在即使Unix和Linux的专家也在使用Linux发行版。现在，Linux在服务器市场比桌面市场更流行的多，主要用于[网络和](../Page/网络.md "wikilink")[数据库服务器](../Page/数据库.md "wikilink")
+最初的发行版只是为了方便，但是现在即使Unix和Linux的专家也在使用Linux发行版。现在，Linux在服务器市场比桌面市场更流行的多，主要用于[网络和](https://zh.wikipedia.org/wiki/网络 "wikilink")[数据库服务器](../Page/数据库.md "wikilink")
 (*参见* [LAMP](../Page/LAMP.md "wikilink"))。
 
 ## 组成
 
 一个典型的Linux桌面发行版包括一个[Linux
-内核](../Page/Linux_内核.md "wikilink")，来自[GNU的工具和库](../Page/GNU.md "wikilink")，和附加的软件、文档，还有一个窗口系统，[窗口管理器](../Page/窗口管理器.md "wikilink")，和一个[桌面环境](../Page/桌面环境.md "wikilink")。大部分包括的软件是[自由软件](../Page/自由软件.md "wikilink")/[开源软件](../Page/开源软件.md "wikilink")，它们同时以二进制可执行文件和[源代码形式发布](../Page/源代码.md "wikilink")，只要用户愿意，还允许修改和重新[编译源代码](../Page/编译.md "wikilink")。还有一些可能是专有软件而不提供源代码。
+内核](https://zh.wikipedia.org/wiki/Linux_内核 "wikilink")，来自[GNU的工具和库](../Page/GNU.md "wikilink")，和附加的软件、文档，还有一个窗口系统，[窗口管理器](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")，和一个[桌面环境](../Page/桌面环境.md "wikilink")。大部分包括的软件是[自由软件](../Page/自由软件.md "wikilink")/[开源软件](../Page/开源软件.md "wikilink")，它们同时以二进制可执行文件和[源代码形式发布](../Page/源代码.md "wikilink")，只要用户愿意，还允许修改和重新[编译源代码](https://zh.wikipedia.org/wiki/编译 "wikilink")。还有一些可能是专有软件而不提供源代码。
 
-许多发行版像其他现代操作系统一样提供了一个安装系统*[定制](../Page/定制.md "wikilink")*的发行版像[Gentoo
+许多发行版像其他现代操作系统一样提供了一个安装系统*[定制](https://zh.wikipedia.org/wiki/定制 "wikilink")*的发行版像[Gentoo
 Linux](../Page/Gentoo_Linux.md "wikilink"),
-[T2](../Page/T2_SDE.md "wikilink") 和 [Linux From
+[T2](https://zh.wikipedia.org/wiki/T2_SDE "wikilink") 和 [Linux From
 Scratch](../Page/Linux_From_Scratch.md "wikilink")
-提供所有软件的源代码以及最基本的内核、编译器、定制工具、安装工具等的可执行文件。安装程序针对使用者不同的[CPU编译成不同的文件](../Page/CPU.md "wikilink")。
+提供所有软件的源代码以及最基本的内核、编译器、定制工具、安装工具等的可执行文件。安装程序针对使用者不同的[CPU编译成不同的文件](https://zh.wikipedia.org/wiki/CPU "wikilink")。
 
 ### 软件包管理系统
 
-发行版通常被分割成**软件包**。每个软件包都包含了一个特定的软件或服务。比如说处理[PNG图像格式的](../Page/PNG.md "wikilink")[库](../Page/库.md "wikilink")，一套字体，或者一个[浏览器](../Page/浏览器.md "wikilink")。
+发行版通常被分割成**软件包**。每个软件包都包含了一个特定的软件或服务。比如说处理[PNG图像格式的](../Page/PNG.md "wikilink")[库](https://zh.wikipedia.org/wiki/库 "wikilink")，一套字体，或者一个[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。
 
-软件包通常是已[编译的](../Page/编译.md "wikilink")[机器码](../Page/机器码.md "wikilink")，并且由[软件包管理器安装和卸载](../Page/软件包管理器.md "wikilink")。每一个软件包都包含为包管理器提供的元数据，比如描述和版本，以及"[依赖](../Page/依赖.md "wikilink")"。包管理器能够使用这些元数据提供搜索功能、将软件包自动更新到最新版本，以及自动解决依赖。
+软件包通常是已[编译的](https://zh.wikipedia.org/wiki/编译 "wikilink")[机器码](https://zh.wikipedia.org/wiki/机器码 "wikilink")，并且由[软件包管理器安装和卸载](https://zh.wikipedia.org/wiki/软件包管理器 "wikilink")。每一个软件包都包含为包管理器提供的元数据，比如描述和版本，以及"[依赖](https://zh.wikipedia.org/wiki/依赖 "wikilink")"。包管理器能够使用这些元数据提供搜索功能、将软件包自动更新到最新版本，以及自动解决依赖。
 
 虽然Linux发行版通常提供比其他专有操作系统多得多的软件包，但为了满足自己的特殊需求，管理员经常想要安装发行版中没有的软件。比如一个比发行版中更新版本的软件，或者其他作为发行版中提供的软件的替代品
 (*例如*想要用[KDE替换](../Page/KDE.md "wikilink")[GNOME](../Page/GNOME.md "wikilink"))。如果软件包只提供源代码，那么就需要在本地进行编译，这就需要安装有编译器。但是如果软件是在本地安装的，本地系统的状态可能将会于软件包管理器数据库中的不一致，如果这样的话，软件包管理器将不能对这个软件包自动更新而需要由管理员手工操作。
 
-发行版都会默认安装一些软件包，比如[操作系统内核和系统的重要组成部分](../Page/操作系统内核.md "wikilink")。有些发行版甚至能在安装时选择预装的软件包。这将使安装变得更复杂，特别是对于新手而言。对于特殊需求，软件包都要通过仔细地配置。为了使软件包之间的合作，或者为了安全，管理员经常会重新配置软件包。
+发行版都会默认安装一些软件包，比如[操作系统内核和系统的重要组成部分](https://zh.wikipedia.org/wiki/操作系统内核 "wikilink")。有些发行版甚至能在安装时选择预装的软件包。这将使安装变得更复杂，特别是对于新手而言。对于特殊需求，软件包都要通过仔细地配置。为了使软件包之间的合作，或者为了安全，管理员经常会重新配置软件包。
 
-最常见的软件包格式包括：[Debian的](../Page/Debian.md "wikilink")[DEB](../Page/DEB.md "wikilink")，以及[Fedora](../Page/Fedora.md "wikilink")
-([Red Hat](../Page/Red_Hat.md "wikilink"))
-的[RPM等](../Page/RPM.md "wikilink")。
+最常见的软件包格式包括：[Debian的](../Page/Debian.md "wikilink")[DEB](https://zh.wikipedia.org/wiki/DEB "wikilink")，以及[Fedora](../Page/Fedora.md "wikilink")
+([Red Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink"))
+的[RPM等](https://zh.wikipedia.org/wiki/RPM "wikilink")。
 
 ## 类型和发展趋势
 
@@ -104,13 +105,13 @@ DVD和装在U盘的Live USB。
     使用[KDE桌面的](../Page/KDE.md "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")。
   - [Linux
     Mint](../Page/Linux_Mint.md "wikilink")，从[Ubuntu衍生并与Ubuntu兼容的系统](../Page/Ubuntu.md "wikilink")。
-  - [Knoppix](../Page/Knoppix.md "wikilink")，第一个[Live
-    CD发行版](../Page/Live_CD.md "wikilink")，可以从[可移动介质运行](../Page/可移动介质.md "wikilink")，Debian的衍生版。
-  - [OpenGEU](../Page/OpenGEU.md "wikilink")，Ubuntu的衍生版。
+  - [Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")，第一个[Live
+    CD发行版](../Page/Live_CD.md "wikilink")，可以从[可移动介质运行](https://zh.wikipedia.org/wiki/可移动介质 "wikilink")，Debian的衍生版。
+  - [OpenGEU](https://zh.wikipedia.org/wiki/OpenGEU "wikilink")，Ubuntu的衍生版。
   - [Elementary
-    OS](../Page/elementary_\(操作系统\).md "wikilink")：基於[Ubuntu](../Page/Ubuntu.md "wikilink")，介面酷似[Mac
-    OS X](../Page/OS_X.md "wikilink")。
-  - [gOS和其他](../Page/gOS.md "wikilink")[上网本用的系统](../Page/上网本.md "wikilink")。
+    OS](https://zh.wikipedia.org/wiki/elementary_\(操作系统\) "wikilink")：基於[Ubuntu](../Page/Ubuntu.md "wikilink")，介面酷似[Mac
+    OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")。
+  - [gOS和其他](https://zh.wikipedia.org/wiki/gOS "wikilink")[上网本用的系统](../Page/上网本.md "wikilink")。
 
 #### 基於RPM (Red Hat系)
 
@@ -118,35 +119,37 @@ DVD和装在U盘的Live USB。
 
   - [Red Hat Enterprise
     Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，[Fedora的商业版](../Page/Fedora.md "wikilink")，由[Red
-    Hat维护和提供技术支持](../Page/Red_Hat.md "wikilink")。
-  - [openSUSE](../Page/openSUSE.md "wikilink")，最初由Slackware分离出来，现在由[Novell维护](../Page/Novell.md "wikilink")。
+    Hat维护和提供技术支持](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")。
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")，最初由Slackware分离出来，现在由[Novell维护](../Page/Novell.md "wikilink")。
 
 社群發行版
 
   - [Fedora](../Page/Fedora.md "wikilink")，是[Red
-    Hat的社区版](../Page/Red_Hat.md "wikilink")，会经常引入新特性进行测试。
+    Hat的社区版](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")，会经常引入新特性进行测试。
   - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink")，[Mandriva的衍生版本](../Page/Mandriva_Linux.md "wikilink")，由社区维护的非常流行的发行版。
   - [CentOS](../Page/CentOS.md "wikilink")，从[Red
-    Hat发展而来的发行版](../Page/Red_Hat.md "wikilink")，由[志愿者维护](../Page/志愿者.md "wikilink")，旨在提供开源的，并与Red
+    Hat发展而来的发行版](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")，由[志愿者维护](https://zh.wikipedia.org/wiki/志愿者 "wikilink")，旨在提供开源的，并与Red
     Hat 100%兼容的系统。
   - [Mageia](../Page/Mageia.md "wikilink")，从[Mandriva发展而来的发行版](../Page/Mandriva_Linux.md "wikilink")。
 
 #### 基于其他包格式
 
-  - [ArchLinux](../Page/ArchLinux.md "wikilink")，一个基于[KISS](../Page/KISS.md "wikilink")（Keep
-    It Simple and Stupid）的[滾動更新的操作系统](../Page/滾動更新.md "wikilink")。
-  - [Chakra](../Page/Chakra_GNU/Linux.md "wikilink")，一個從[ArchLinux衍生出來](../Page/ArchLinux.md "wikilink")，只使用KDE桌面的[半滾動更新發行版](../Page/滾動更新.md "wikilink")。
+  - [ArchLinux](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")，一个基于[KISS](https://zh.wikipedia.org/wiki/KISS "wikilink")（Keep
+    It Simple and
+    Stupid）的[滾動更新的操作系统](https://zh.wikipedia.org/wiki/滾動更新 "wikilink")。
+  - [Chakra](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")，一個從[ArchLinux衍生出來](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")，只使用KDE桌面的[半滾動更新發行版](https://zh.wikipedia.org/wiki/滾動更新 "wikilink")。
   - [Gentoo](../Page/Gentoo_Linux.md "wikilink")，一个面向高级用户的发行版，所有软件的源代码需要自行编译。
   - [Slackware](../Page/Slackware.md "wikilink")，最早的发行版之一，1993年建立，由[Patrick
-    J. Volkerding维护](../Page/Patrick_J._Volkerding.md "wikilink")。
+    J.
+    Volkerding维护](https://zh.wikipedia.org/wiki/Patrick_J._Volkerding "wikilink")。
 
 在[DistroWatch网站可以看到很多发行版的排名和信息](../Page/DistroWatch.md "wikilink")。
 
 ## 常见发行版的截图
 
 <File:Johndebian7.png>|[Debian
-GNU/Linux](../Page/Debian_GNU/Linux.md "wikilink") 7.0 <File:Fedora> 20
-GNOME.png|[Fedora](../Page/Fedora.md "wikilink") 20
+GNU/Linux](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")
+7.0 <File:Fedora> 20 GNOME.png|[Fedora](../Page/Fedora.md "wikilink") 20
 Image:Gentoo12.0.jpg|[Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")
 12.0 Image:Mandriva Linux.png|[Mandriva
 Linux](../Page/Mandriva_Linux.md "wikilink") 2009.0
@@ -158,7 +161,8 @@ Screenshot.png|[Ubuntu](../Page/Ubuntu.md "wikilink") 13.04
 <File:PuppyLinux533> slacko de.png|[Puppy
 Linux](../Page/Puppy_Linux.md "wikilink")5.3.3 <File:Sabayon>
 Linux-5.2-GNOME.png|[Sabayon Linux](../Page/Sabayon_Linux.md "wikilink")
-5.2 <File:Knoppix> 7.0.1.png|[KNOPPIX](../Page/KNOPPIX.md "wikilink")
+5.2 <File:Knoppix>
+7.0.1.png|[KNOPPIX](https://zh.wikipedia.org/wiki/KNOPPIX "wikilink")
 7.0.1
 
 ## 参考文献
@@ -172,7 +176,8 @@ Linux-5.2-GNOME.png|[Sabayon Linux](../Page/Sabayon_Linux.md "wikilink")
     distribution](https://web.archive.org/web/20090513105836/http://hardware4linux.info/)
   - [Linux Distribution
     Chooser](https://web.archive.org/web/20090523090806/http://www.zegeniestudios.net/ldc/)
-    by [Zegenie Studios](../Page/Zegenie_Studios.md "wikilink")
+    by [Zegenie
+    Studios](https://zh.wikipedia.org/wiki/Zegenie_Studios "wikilink")
   - [The Linux Mirror
     Project](https://web.archive.org/web/20090603033755/http://tlm-project.org/)
     Download Linux Distributions over BitTorrent
@@ -183,7 +188,7 @@ Linux-5.2-GNOME.png|[Sabayon Linux](../Page/Sabayon_Linux.md "wikilink")
 
   - [Linux发行版列表](../Page/Linux发行版列表.md "wikilink")
   - [Linux发行版比较](../Page/Linux发行版比较.md "wikilink")
-  - [Linux的採用](../Page/Linux的採用.md "wikilink")
+  - [Linux的採用](https://zh.wikipedia.org/wiki/Linux的採用 "wikilink")
   - [Cygwin](../Page/Cygwin.md "wikilink")
 
 {{-}}

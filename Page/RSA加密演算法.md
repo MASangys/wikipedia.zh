@@ -1,6 +1,6 @@
 [Adi_Shamir_2009_crop.jpg](https://zh.wikipedia.org/wiki/File:Adi_Shamir_2009_crop.jpg "fig:Adi_Shamir_2009_crop.jpg")（Adi
 Shamir）\]\]
-**RSA加密演算法**是一种[非对称加密演算法](../Page/非对称加密演算法.md "wikilink")。在[公开密钥加密和](../Page/公开密钥加密.md "wikilink")[电子商业中RSA被广泛使用](../Page/电子商业.md "wikilink")。RSA是1977年由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（Ron
+**RSA加密演算法**是一种[非对称加密演算法](https://zh.wikipedia.org/wiki/非对称加密演算法 "wikilink")。在[公开密钥加密和](../Page/公开密钥加密.md "wikilink")[电子商业中RSA被广泛使用](https://zh.wikipedia.org/wiki/电子商业 "wikilink")。RSA是1977年由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（Ron
 Rivest）、[阿迪·萨莫尔](../Page/阿迪·萨莫尔.md "wikilink")（Adi
 Shamir）和[伦纳德·阿德曼](../Page/伦纳德·阿德曼.md "wikilink")（Leonard
 Adleman）一起提出的。当时他们三人都在[麻省理工学院工作](../Page/麻省理工学院.md "wikilink")。RSA就是他们三人姓氏开头字母拼在一起组成的。\[1\]
@@ -8,7 +8,7 @@ Adleman）一起提出的。当时他们三人都在[麻省理工学院工作](.
 1973年，在英国政府通讯总部工作的数学家克利福德·柯克斯（Clifford
 Cocks）在一个内部文件中提出了一个与之等效的算法，但该算法被列入机密，直到1997年才得到公开。\[2\]
 
-對极大整数做[因数分解的难度決定了RSA算法的可靠性](../Page/因数分解.md "wikilink")。換言之，對一极大整数做因数分解愈困难，RSA算法愈可靠。假如有人找到一种快速因数分解的算法的话，那么用RSA加密的-{zh-hans:信息;
+對极大整数做[因数分解的难度決定了RSA算法的可靠性](https://zh.wikipedia.org/wiki/因数分解 "wikilink")。換言之，對一极大整数做因数分解愈困难，RSA算法愈可靠。假如有人找到一种快速因数分解的算法的话，那么用RSA加密的-{zh-hans:信息;
 zh-tw:訊息}-的可靠性就肯定会极度下降。但找到这样的算法的可能性是非常小的。今天只有短的RSA钥匙才可能被强力方式-{zh-hans:解破;
 zh-tw:破解}-。到目前为止，世界上还没有任何可靠的攻击RSA算法的方式。只要其钥匙的长度足够长，用RSA加密的-{zh-hans:信息;
 zh-tw:訊息}-实际上是不能被-{zh-hans:解破; zh-tw:破解}-的。
@@ -21,8 +21,8 @@ zh-tw:訊息}-实际上是不能被-{zh-hans:解破; zh-tw:破解}-的。
 
 假設[Alice想要通過一個不可靠的媒體接收](../Page/愛麗絲與鮑伯.md "wikilink")[Bob的一條私人訊息](../Page/愛麗絲與鮑伯.md "wikilink")。她可以用以下的方式來產生一個**公鑰**和一個**私鑰**：
 
-1.  隨意選擇兩個大的[質數](../Page/質數.md "wikilink")\(p\)和\(q\)，\(p\)不等於\(q\)，計算\(N=pq\)。
-2.  根據[歐拉函數](../Page/歐拉函數.md "wikilink")，求得\(r=\varphi (N) = \varphi (p)\varphi (q)=(p-1)(q-1)\)
+1.  隨意選擇兩個大的[質數](https://zh.wikipedia.org/wiki/質數 "wikilink")\(p\)和\(q\)，\(p\)不等於\(q\)，計算\(N=pq\)。
+2.  根據[歐拉函數](https://zh.wikipedia.org/wiki/歐拉函數 "wikilink")，求得\(r=\varphi (N) = \varphi (p)\varphi (q)=(p-1)(q-1)\)
 3.  選擇一個小于\(r\)的整數\(e\)，使\(e\)与\(r\)互质。並求得\(e\)关于\(r\)的[模反元素](../Page/模反元素.md "wikilink")，命名为\(d\)（求\(d\)令\(ed \equiv 1 \pmod{r}\)）。（模反元素存在，当且仅当\(e\)与\(r\)互质）
 4.  將\(p\)和\(q\)的記錄銷毀。
 
@@ -30,7 +30,7 @@ zh-tw:訊息}-实际上是不能被-{zh-hans:解破; zh-tw:破解}-的。
 
 ### 加密消息
 
-假设Bob想给Alice送一个消息\(m\)，他知道Alice产生的\(N\)和\(e\)。他使用起先与Alice约好的格式将\(m\)转换为一个小于\(N\)的非负整数\(n\)，比如他可以将每一个字转换为这个字的[Unicode码](../Page/Unicode.md "wikilink")，然后将这些数字连在一起组成一个数字。假如他的信息非常长的话，他可以将这个信息分为几段，然后将每一段转换为\(n\)。用下面这个公式他可以将\(n\)加密为\(c\)：
+假设Bob想给Alice送一个消息\(m\)，他知道Alice产生的\(N\)和\(e\)。他使用起先与Alice约好的格式将\(m\)转换为一个小于\(N\)的非负整数\(n\)，比如他可以将每一个字转换为这个字的[Unicode码](https://zh.wikipedia.org/wiki/Unicode "wikilink")，然后将这些数字连在一起组成一个数字。假如他的信息非常长的话，他可以将这个信息分为几段，然后将每一段转换为\(n\)。用下面这个公式他可以将\(n\)加密为\(c\)：
 
   -
     \(c \equiv n^e \pmod{N}\)
@@ -66,13 +66,13 @@ digest），然后用她的私钥“加密”（如同前面“加密消息”�
   -
     \(c^d \equiv n\ (\mathrm{mod}\ N)\)
 
-导出*n*（破密）。但至今为止还没有人找到一个多項式時間的算法来分解一个大的整数的因子，同时也还没有人能够证明这种算法不存在（见[因数分解](../Page/因数分解.md "wikilink")）。
+导出*n*（破密）。但至今为止还没有人找到一个多項式時間的算法来分解一个大的整数的因子，同时也还没有人能够证明这种算法不存在（见[因数分解](https://zh.wikipedia.org/wiki/因数分解 "wikilink")）。
 
 至今为止也没有人能够证明对\(N\)进行因数分解是唯一的从\(c\)导出\(n\)的方法，但今天还没有找到比它更简单的方法。（至少没有公开的方法。）
 
 因此今天一般认为只要\(N\)足够大，那么駭客就没有办法了。
 
-假如\(N\)的长度小于或等于256[位](../Page/位.md "wikilink")，那么用一台[个人电脑在几个小时内就可以分解它的因子了](../Page/个人电脑.md "wikilink")。1999年，数百台电脑合作分解了一个512位长的\(N\)。一个由Shamir
+假如\(N\)的长度小于或等于256[位](https://zh.wikipedia.org/wiki/位 "wikilink")，那么用一台[个人电脑在几个小时内就可以分解它的因子了](../Page/个人电脑.md "wikilink")。1999年，数百台电脑合作分解了一个512位长的\(N\)。一个由Shamir
 和Tromer在2003年从理论上构建的硬件TWIRL\[6\]，使人们开始质疑1024位长的N的安全性，目前推荐\(N\)的长度至少为2048位。\[7\]
 
 1994年[彼得·秀爾](../Page/彼得·秀爾.md "wikilink")（Peter
@@ -94,7 +94,7 @@ Shor）证明一台[量子计算机可以在多項式時間内进行因数分解
 
 ### 速度
 
-比起[DES和其它对称算法来說](../Page/DES.md "wikilink")，RSA要慢得多。实际上Bob一般使用一种对称算法来加密他的信息，然后用RSA来加密他的比较短的对称密码，然后将用RSA加密的对称密码和用对称算法加密的消息送给Alice。
+比起[DES和其它对称算法来說](https://zh.wikipedia.org/wiki/DES "wikilink")，RSA要慢得多。实际上Bob一般使用一种对称算法来加密他的信息，然后用RSA来加密他的比较短的对称密码，然后将用RSA加密的对称密码和用对称算法加密的消息送给Alice。
 
 ### 密钥分配
 
@@ -102,15 +102,15 @@ Shor）证明一台[量子计算机可以在多項式時間内进行因数分解
 
 ## 典型密钥长度
 
-1997年后开发的系统，用户应使用1024位密钥，[憑證認證機構应用](../Page/数字证书认证机构.md "wikilink")2048位或以上。
+1997年后开发的系统，用户应使用1024位密钥，[憑證認證機構应用](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")2048位或以上。
 
 ## 已公开的或已知的攻击方法
 
 ### 大数因数分解
 
 针对RSA最流行的攻击一般是基于大数因数分解。1999年，RSA-155 (512 bits)被成功分解，花了五个月时间（约8000
-[MIPS年](../Page/每秒指令.md "wikilink")）和224 CPU hours在一台有3.2G中央内存的Cray
-C916计算机上完成。\[8\]
+[MIPS年](https://zh.wikipedia.org/wiki/每秒指令 "wikilink")）和224 CPU
+hours在一台有3.2G中央内存的Cray C916计算机上完成。\[8\]
 
 RSA-158表示如下：
 
@@ -141,7 +141,7 @@ RSA-768表示如下：
 ## 相關條目
 
   - [公开密钥加密](../Page/公开密钥加密.md "wikilink")
-  - [量子電腦](../Page/量子電腦.md "wikilink")
+  - [量子電腦](https://zh.wikipedia.org/wiki/量子電腦 "wikilink")
   - [秀爾演算法](../Page/秀爾演算法.md "wikilink")
 
 ## 参考文献

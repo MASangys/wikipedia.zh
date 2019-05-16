@@ -260,28 +260,33 @@ Meteor）。
 #### OZ體系
 
 OZ為隸屬地球圈統一聯合的特務部隊，全名為「Organization of
-Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，因此OZ體系的機體其命名往往來自[星座或是](../Page/星座.md "wikilink")[天體](../Page/天體.md "wikilink")。但由五位科學家替OZ開發的機體，其命名則不在此限。
+Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道 "wikilink")，因此OZ體系的機體其命名往往來自[星座或是](../Page/星座.md "wikilink")[天體](../Page/天體.md "wikilink")。但由五位科學家替OZ開發的機體，其命名則不在此限。
 
-  - 里歐（Leo）︰[獅子座](../Page/獅子座.md "wikilink")
-  - 特拉哥斯（Tragos）:[魔羯座](../Page/魔羯座.md "wikilink")
+  - 里歐（Leo）︰[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
+  - 特拉哥斯（Tragos）:[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")
   - 艾亞利茲（Aries）︰[白羊座](../Page/白羊座.md "wikilink")
   - 坎沙（Cancer）︰[巨蟹座](../Page/巨蟹座.md "wikilink")
-  - 派西斯（Pisces）︰[雙魚座](../Page/雙魚座.md "wikilink")
+  - 派西斯（Pisces）︰[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
   - 陶拉斯（Taurus）︰[金牛座](../Page/金牛座.md "wikilink")
-  - 比爾哥（Virgo）︰[處女座](../Page/處女座.md "wikilink")
+  - 比爾哥（Virgo）︰[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
   - 沙貝特（Serpent）︰[巨蛇座](../Page/巨蛇座.md "wikilink")
-  - 斯德畢爾（Scorpio）︰[天蠍座](../Page/天蠍座.md "wikilink")
-  - Capricorn（Capricorn）︰[魔羯座出自外傳Tiel](../Page/魔羯座.md "wikilink")'s
+  - 斯德畢爾（Scorpio）︰[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
+  - Capricorn（Capricorn）︰[魔羯座出自外傳Tiel](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")'s
     Impluse，其型號為OZ-11MS。
-  - 薩吉塔利烏斯 (Sagittarius) : [人馬座](../Page/人馬座.md "wikilink") 出自小說 frozen
-    teardrop 中的聯邦軍的月面巨大戰艦
-  - 肯塔烏魯斯 (Centaurus) : [半人馬座](../Page/半人馬座.md "wikilink") 出自小說 frozen
-    teardrop 中的聯邦軍的月面巨大戰艦
-  - 水瓶座GUNDAM（Gundam Aquarius）︰[水瓶座](../Page/水瓶座.md "wikilink")
-  - GUNDAM傑姆納斯（Gundam Geminass）︰[雙子座](../Page/雙子座.md "wikilink")
+  - 薩吉塔利烏斯 (Sagittarius) :
+    [人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink") 出自小說
+    frozen teardrop 中的聯邦軍的月面巨大戰艦
+  - 肯塔烏魯斯 (Centaurus) :
+    [半人馬座](https://zh.wikipedia.org/wiki/半人馬座 "wikilink")
+    出自小說 frozen teardrop 中的聯邦軍的月面巨大戰艦
+  - 水瓶座GUNDAM（Gundam
+    Aquarius）︰[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
+  - GUNDAM傑姆納斯（Gundam
+    Geminass）︰[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")
   - GUNDAM亞斯克雷普歐斯（Gundam
-    Aesculapius）︰[蛇夫座](../Page/蛇夫座.md "wikilink")、"醫神"[阿斯克勒庇俄斯](../Page/阿斯克勒庇俄斯.md "wikilink")
-  - 海德拉GUNDAM（Hydra Gundam）︰[長蛇座](../Page/長蛇座.md "wikilink")
+    Aesculapius）︰[蛇夫座](../Page/蛇夫座.md "wikilink")、"醫神"[阿斯克勒庇俄斯](https://zh.wikipedia.org/wiki/阿斯克勒庇俄斯 "wikilink")
+  - 海德拉GUNDAM（Hydra
+    Gundam）︰[長蛇座](https://zh.wikipedia.org/wiki/長蛇座 "wikilink")
 
 <!-- end list -->
 
@@ -290,7 +295,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   -
-    Epyon在[希臘語中意思為](../Page/希臘語.md "wikilink")「次之、次世代的」。
+    Epyon在[希臘語中意思為](https://zh.wikipedia.org/wiki/希臘語 "wikilink")「次之、次世代的」。
 
 <!-- end list -->
 
@@ -303,8 +308,8 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   -
-    Vayeate源自[埃及神話的](../Page/埃及神話.md "wikilink")[哈索爾](../Page/哈索爾.md "wikilink")，是掌管愛情、富饒、舞蹈、音樂之女神。
-    設計概念為[日本妖怪中的風神](../Page/日本妖怪.md "wikilink")。
+    Vayeate源自[埃及神話的](https://zh.wikipedia.org/wiki/埃及神話 "wikilink")[哈索爾](https://zh.wikipedia.org/wiki/哈索爾 "wikilink")，是掌管愛情、富饒、舞蹈、音樂之女神。
+    設計概念為[日本妖怪中的風神](https://zh.wikipedia.org/wiki/日本妖怪 "wikilink")。
 
 <!-- end list -->
 
@@ -313,8 +318,8 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   -
-    Mercurius源自[羅馬神話的](../Page/羅馬神話.md "wikilink")[墨丘利](../Page/墨丘利.md "wikilink")，為眾神傳遞信息的使者。
-    設計概念為[日本妖怪中的雷神](../Page/日本妖怪.md "wikilink")。
+    Mercurius源自[羅馬神話的](https://zh.wikipedia.org/wiki/羅馬神話 "wikilink")[墨丘利](https://zh.wikipedia.org/wiki/墨丘利 "wikilink")，為眾神傳遞信息的使者。
+    設計概念為[日本妖怪中的雷神](https://zh.wikipedia.org/wiki/日本妖怪 "wikilink")。
 
 <!-- end list -->
 
@@ -323,7 +328,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   -
-    Shuivan在[法語有](../Page/法語.md "wikilink")「後繼」、「接下來」的意思。
+    Shuivan在[法語有](https://zh.wikipedia.org/wiki/法語 "wikilink")「後繼」、「接下來」的意思。
 
 #### 其它
 
@@ -332,7 +337,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   -
-    Maganac在菲律賓[塔加洛語](../Page/塔加洛語.md "wikilink")（Tagalog）中意思為「家族」。
+    Maganac在菲律賓[塔加洛語](https://zh.wikipedia.org/wiki/塔加洛語 "wikilink")（Tagalog）中意思為「家族」。
 
 <!-- end list -->
 
@@ -341,7 +346,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   -
-    Olifant在[英語中意思為](../Page/英語.md "wikilink")「象牙號角」。
+    Olifant在[英語中意思為](https://zh.wikipedia.org/wiki/英語 "wikilink")「象牙號角」。
 
 ### 戰艦
 
@@ -360,7 +365,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   - 「JUST COMMUNICATION」
-  - 主唱：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
+  - 主唱：[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")
 
 <!-- end list -->
 
@@ -369,7 +374,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   - 「RHYTHM EMOTION」
-  - 主唱：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
+  - 主唱：[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")
 
 <!-- end list -->
 
@@ -378,7 +383,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
 <!-- end list -->
 
   - 「It's Just Love」
-  - 主唱：[大石ルミ](../Page/大石ルミ.md "wikilink")
+  - 主唱：[大石ルミ](https://zh.wikipedia.org/wiki/大石ルミ "wikilink")
 
 <!-- end list -->
 
@@ -394,15 +399,16 @@ Zodiac」，其中的"Zodiac"意思為[黃道](../Page/黃道.md "wikilink")，�
   - 新機動戰記GUNDAMW
       - TV版全49話
       - 小說
-          - 「新機動戰記GUNDAMW」 [神代創](../Page/神代創.md "wikilink") 全5卷 角川書店
-            1996年-1997年
+          - 「新機動戰記GUNDAMW」
+            [神代創](https://zh.wikipedia.org/wiki/神代創 "wikilink")
+            全5卷 角川書店 1996年-1997年
           - 「新機動戰記GUNDAMW外傳 右手持鐮左手擁你」 皆川ゆか 講談社 通常版 1996年 文庫版 2005年
           - 「新機動戰記鋼彈W冰結的淚滴 Frozen Teardrop」
-            [隅澤克之](../Page/隅澤克之.md "wikilink") 角川書店
-            目前13卷 2016年
+            [隅澤克之](https://zh.wikipedia.org/wiki/隅澤克之 "wikilink")
+            角川書店 目前13卷 2016年
       - 漫畫
           - 「新機動戰記GUNDAMW」 1995年-1996年 通常版全3卷 普及版全2卷
-            新裝版全2卷　[鴇田洸一](../Page/鴇田洸一.md "wikilink")　講談社ボンボンKC　
+            新裝版全2卷　[鴇田洸一](https://zh.wikipedia.org/wiki/鴇田洸一 "wikilink")　講談社ボンボンKC　
           - 「新機動戰記GUNDAMW EPISODE ZERO」 1997年 学研
           - 「新機動戰記GUNDAMW BATTLEFIELD OF PACIFIST」 1997年 鴇田洸一 講談社ボンボンKC
   - 新機動戰記GUNDAMW G-UNIT

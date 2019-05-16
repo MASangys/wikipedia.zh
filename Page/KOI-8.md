@@ -1,5 +1,5 @@
 **KOI-8**（<span lang="ru">КОИ-8</span>）是一系列[斯拉夫文字的](../Page/斯拉夫语族.md "wikilink")8位元编码，在[俄罗斯](../Page/俄罗斯.md "wikilink")、[乌克兰等斯拉夫语族地区的网络社群中被广泛采用](../Page/乌克兰.md "wikilink")，使用率比起[ISO/IEC
-8859-5更高](../Page/ISO/IEC_8859-5.md "wikilink")。
+8859-5更高](https://zh.wikipedia.org/wiki/ISO/IEC_8859-5 "wikilink")。
 
 ## 简介
 
@@ -14,10 +14,10 @@ Text"，KOI-8把它大小写颠倒以兹识别）。
 
 KOI-8 有以下几个版本：
 
-  - [KOI8-R](../Page/KOI8-R.md "wikilink")（[俄语](../Page/俄语.md "wikilink")）
+  - [KOI8-R](../Page/KOI8-R.md "wikilink")（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")）
   - [KOI8-U](../Page/KOI8-U.md "wikilink")（[乌克兰语](../Page/乌克兰语.md "wikilink")）
   - KOI8-RU（俄语、[白俄罗斯语](../Page/白俄罗斯语.md "wikilink")、乌克兰语）
-  - KOI8-C（[高加索语系](../Page/高加索语系.md "wikilink")）
+  - KOI8-C（[高加索语系](https://zh.wikipedia.org/wiki/高加索语系 "wikilink")）
   - KOI8-T（[塔吉克语](../Page/塔吉克语.md "wikilink")）
 
 每个 KOI-8 版本之中，头半部分 (0x00-0x7F)
@@ -144,7 +144,7 @@ F7</p></td>
 2551</p></td>
 <td><p>╒<br />
 2552</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
 <td><p>╓<br />
 2553</p></td>
@@ -208,72 +208,72 @@ A9</p></td>
 </tr>
 <tr class="even">
 <td><p>C.</p></td>
-<td><p><a href="../Page/ю.md" title="wikilink">ю</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ю" title="wikilink">ю</a><br />
 44E</p></td>
-<td><p><a href="../Page/а.md" title="wikilink">а</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/а" title="wikilink">а</a><br />
 430</p></td>
-<td><p><a href="../Page/б.md" title="wikilink">б</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/б" title="wikilink">б</a><br />
 431</p></td>
-<td><p><a href="../Page/ц.md" title="wikilink">ц</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ц" title="wikilink">ц</a><br />
 446</p></td>
-<td><p><a href="../Page/д.md" title="wikilink">д</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/д" title="wikilink">д</a><br />
 434</p></td>
-<td><p><a href="../Page/е.md" title="wikilink">е</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/е" title="wikilink">е</a><br />
 435</p></td>
-<td><p><a href="../Page/ф.md" title="wikilink">ф</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ф" title="wikilink">ф</a><br />
 444</p></td>
-<td><p><a href="../Page/г.md" title="wikilink">г</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/г" title="wikilink">г</a><br />
 433</p></td>
-<td><p><a href="../Page/х.md" title="wikilink">х</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/х" title="wikilink">х</a><br />
 445</p></td>
-<td><p><a href="../Page/и.md" title="wikilink">и</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/и" title="wikilink">и</a><br />
 438</p></td>
-<td><p><a href="../Page/й.md" title="wikilink">й</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/й" title="wikilink">й</a><br />
 439</p></td>
-<td><p><a href="../Page/к.md" title="wikilink">к</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/к" title="wikilink">к</a><br />
 43A</p></td>
-<td><p><a href="../Page/л.md" title="wikilink">л</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/л" title="wikilink">л</a><br />
 43B</p></td>
-<td><p><a href="../Page/м.md" title="wikilink">м</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/м" title="wikilink">м</a><br />
 43C</p></td>
-<td><p><a href="../Page/н.md" title="wikilink">н</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/н" title="wikilink">н</a><br />
 43D</p></td>
-<td><p><a href="../Page/о.md" title="wikilink">о</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/о" title="wikilink">о</a><br />
 43E</p></td>
 </tr>
 <tr class="odd">
 <td><p>D.</p></td>
-<td><p><a href="../Page/п.md" title="wikilink">п</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/п" title="wikilink">п</a><br />
 43F</p></td>
-<td><p><a href="../Page/я.md" title="wikilink">я</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/я" title="wikilink">я</a><br />
 44F</p></td>
-<td><p><a href="../Page/р.md" title="wikilink">р</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/р" title="wikilink">р</a><br />
 440</p></td>
-<td><p><a href="../Page/с.md" title="wikilink">с</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/с" title="wikilink">с</a><br />
 441</p></td>
-<td><p><a href="../Page/т.md" title="wikilink">т</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/т" title="wikilink">т</a><br />
 442</p></td>
-<td><p><a href="../Page/у.md" title="wikilink">у</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/у" title="wikilink">у</a><br />
 443</p></td>
-<td><p><a href="../Page/ж.md" title="wikilink">ж</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ж" title="wikilink">ж</a><br />
 436</p></td>
-<td><p><a href="../Page/в.md" title="wikilink">в</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/в" title="wikilink">в</a><br />
 432</p></td>
-<td><p><a href="../Page/ь.md" title="wikilink">ь</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ь" title="wikilink">ь</a><br />
 44C</p></td>
-<td><p><a href="../Page/ы.md" title="wikilink">ы</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ы" title="wikilink">ы</a><br />
 44B</p></td>
-<td><p><a href="../Page/з.md" title="wikilink">з</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/з" title="wikilink">з</a><br />
 437</p></td>
-<td><p><a href="../Page/ш.md" title="wikilink">ш</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ш" title="wikilink">ш</a><br />
 448</p></td>
-<td><p><a href="../Page/э.md" title="wikilink">э</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/э" title="wikilink">э</a><br />
 44D</p></td>
-<td><p><a href="../Page/щ.md" title="wikilink">щ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/щ" title="wikilink">щ</a><br />
 449</p></td>
-<td><p><a href="../Page/ч.md" title="wikilink">ч</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ч" title="wikilink">ч</a><br />
 447</p></td>
-<td><p><a href="../Page/ъ.md" title="wikilink">ъ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ъ" title="wikilink">ъ</a><br />
 44A</p></td>
 </tr>
 <tr class="even">
@@ -300,7 +300,7 @@ A9</p></td>
 418</p></td>
 <td><p><a href="../Page/Й.md" title="wikilink">Й</a><br />
 419</p></td>
-<td><p><a href="../Page/К.md" title="wikilink">К</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/К" title="wikilink">К</a><br />
 41A</p></td>
 <td><p><a href="../Page/Л.md" title="wikilink">Л</a><br />
 41B</p></td>
@@ -317,7 +317,7 @@ A9</p></td>
 41F</p></td>
 <td><p><a href="../Page/Я.md" title="wikilink">Я</a><br />
 42F</p></td>
-<td><p><a href="../Page/Р.md" title="wikilink">Р</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Р" title="wikilink">Р</a><br />
 420</p></td>
 <td><p><a href="../Page/С.md" title="wikilink">С</a><br />
 421</p></td>
@@ -325,7 +325,7 @@ A9</p></td>
 422</p></td>
 <td><p><a href="../Page/У.md" title="wikilink">У</a><br />
 423</p></td>
-<td><p><a href="../Page/Ж.md" title="wikilink">Ж</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ж" title="wikilink">Ж</a><br />
 416</p></td>
 <td><p><a href="../Page/В.md" title="wikilink">В</a><br />
 412</p></td>
@@ -335,7 +335,7 @@ A9</p></td>
 42B</p></td>
 <td><p><a href="../Page/З.md" title="wikilink">З</a><br />
 417</p></td>
-<td><p><a href="../Page/Ш.md" title="wikilink">Ш</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ш" title="wikilink">Ш</a><br />
 428</p></td>
 <td><p><a href="../Page/Э.md" title="wikilink">Э</a><br />
 42D</p></td>
@@ -402,15 +402,15 @@ A9</p></td>
 2551</p></td>
 <td><p>╒<br />
 2552</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
-<td><p><a href="../Page/є.md" title="wikilink">є</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/є" title="wikilink">є</a><br />
 454</p></td>
 <td><p>╔<br />
 2554</p></td>
-<td><p><a href="../Page/і.md" title="wikilink">і</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/і" title="wikilink">і</a><br />
 456</p></td>
-<td><p><a href="../Page/ї.md" title="wikilink">ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ї" title="wikilink">ї</a><br />
 457</p></td>
 <td><p>╗<br />
 2557</p></td>
@@ -422,7 +422,7 @@ A9</p></td>
 255A</p></td>
 <td><p>╛<br />
 255B</p></td>
-<td><p><a href="../Page/ґ.md" title="wikilink">ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ґ" title="wikilink">ґ</a><br />
 491</p></td>
 <td><p>╝<br />
 255D</p></td>
@@ -445,7 +445,7 @@ A9</p></td>
 2563</p></td>
 <td><p><a href="../Page/І.md" title="wikilink">І</a><br />
 406</p></td>
-<td><p><a href="../Page/Ї.md" title="wikilink">Ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ї" title="wikilink">Ї</a><br />
 407</p></td>
 <td><p>╦<br />
 2566</p></td>
@@ -457,7 +457,7 @@ A9</p></td>
 2569</p></td>
 <td><p>╪<br />
 256A</p></td>
-<td><p><a href="../Page/Ґ.md" title="wikilink">Ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ґ" title="wikilink">Ґ</a><br />
 490</p></td>
 <td><p>╬<br />
 256C</p></td>
@@ -520,15 +520,15 @@ A9</p></td>
 2551</p></td>
 <td><p>╒<br />
 2552</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
-<td><p><a href="../Page/є.md" title="wikilink">є</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/є" title="wikilink">є</a><br />
 454</p></td>
 <td><p>╔<br />
 2554</p></td>
-<td><p><a href="../Page/і.md" title="wikilink">і</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/і" title="wikilink">і</a><br />
 456</p></td>
-<td><p><a href="../Page/ї.md" title="wikilink">ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ї" title="wikilink">ї</a><br />
 457</p></td>
 <td><p>╗<br />
 2557</p></td>
@@ -540,9 +540,9 @@ A9</p></td>
 255A</p></td>
 <td><p>╛<br />
 255B</p></td>
-<td><p><a href="../Page/ґ.md" title="wikilink">ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ґ" title="wikilink">ґ</a><br />
 491</p></td>
-<td><p><a href="../Page/ў.md" title="wikilink">ў</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ў" title="wikilink">ў</a><br />
 45E</p></td>
 <td><p>╞<br />
 255E</p></td>
@@ -563,7 +563,7 @@ A9</p></td>
 2563</p></td>
 <td><p><a href="../Page/І.md" title="wikilink">І</a><br />
 406</p></td>
-<td><p><a href="../Page/Ї.md" title="wikilink">Ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ї" title="wikilink">Ї</a><br />
 407</p></td>
 <td><p>╦<br />
 2566</p></td>
@@ -575,7 +575,7 @@ A9</p></td>
 2569</p></td>
 <td><p>╪<br />
 256A</p></td>
-<td><p><a href="../Page/Ґ.md" title="wikilink">Ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ґ" title="wikilink">Ґ</a><br />
 490</p></td>
 <td><p><a href="../Page/Ў.md" title="wikilink">Ў</a><br />
 40E</p></td>
@@ -632,62 +632,62 @@ A9</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
-<td><p><a href="../Page/ғ.md" title="wikilink">ғ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ғ" title="wikilink">ғ</a><br />
 493</p></td>
-<td><p><a href="../Page/җ.md" title="wikilink">җ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/җ" title="wikilink">җ</a><br />
 497</p></td>
-<td><p><a href="../Page/қ.md" title="wikilink">қ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/қ" title="wikilink">қ</a><br />
 49B</p></td>
-<td><p><a href="../Page/ҝ.md" title="wikilink">ҝ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ҝ" title="wikilink">ҝ</a><br />
 49D</p></td>
-<td><p><a href="../Page/ң.md" title="wikilink">ң</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ң" title="wikilink">ң</a><br />
 4A3</p></td>
-<td><p><a href="../Page/ү.md" title="wikilink">ү</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ү" title="wikilink">ү</a><br />
 4AF</p></td>
-<td><p><a href="../Page/ұ.md" title="wikilink">ұ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ұ" title="wikilink">ұ</a><br />
 4B1</p></td>
-<td><p><a href="../Page/ҳ.md" title="wikilink">ҳ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ҳ" title="wikilink">ҳ</a><br />
 4B3</p></td>
-<td><p><a href="../Page/ҷ.md" title="wikilink">ҷ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ҷ" title="wikilink">ҷ</a><br />
 4B7</p></td>
-<td><p><a href="../Page/ҹ.md" title="wikilink">ҹ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ҹ" title="wikilink">ҹ</a><br />
 4B9</p></td>
-<td><p><a href="../Page/һ.md" title="wikilink">һ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/һ" title="wikilink">һ</a><br />
 4BB</p></td>
 <td><p>▀<br />
 2580</p></td>
-<td><p><a href="../Page/ҝ.md" title="wikilink">ҝ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ҝ" title="wikilink">ҝ</a><br />
 49D</p></td>
-<td><p><a href="../Page/ӣ.md" title="wikilink">ӣ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ӣ" title="wikilink">ӣ</a><br />
 4E3</p></td>
-<td><p><a href="../Page/ө.md" title="wikilink">ө</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ө" title="wikilink">ө</a><br />
 4E9</p></td>
-<td><p><a href="../Page/ӯ.md" title="wikilink">ӯ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ӯ" title="wikilink">ӯ</a><br />
 4EF</p></td>
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
 <td><p><a href="../Page/Ғ.md" title="wikilink">Ғ</a><br />
 492</p></td>
-<td><p><a href="../Page/Җ.md" title="wikilink">Җ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Җ" title="wikilink">Җ</a><br />
 496</p></td>
-<td><p><a href="../Page/Қ.md" title="wikilink">Қ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Қ" title="wikilink">Қ</a><br />
 49A</p></td>
-<td><p><a href="../Page/Ҝ.md" title="wikilink">Ҝ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ҝ" title="wikilink">Ҝ</a><br />
 49C</p></td>
 <td><p><a href="../Page/Ң.md" title="wikilink">Ң</a><br />
 4A2</p></td>
-<td><p><a href="../Page/Ү.md" title="wikilink">Ү</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ү" title="wikilink">Ү</a><br />
 4AE</p></td>
 <td><p><a href="../Page/Ұ.md" title="wikilink">Ұ</a><br />
 4B0</p></td>
-<td><p><a href="../Page/Ҳ.md" title="wikilink">Ҳ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ҳ" title="wikilink">Ҳ</a><br />
 4B2</p></td>
 <td><p><a href="../Page/Ҷ.md" title="wikilink">Ҷ</a><br />
 4B6</p></td>
-<td><p><a href="../Page/Ҹ.md" title="wikilink">Ҹ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ҹ" title="wikilink">Ҹ</a><br />
 4B8</p></td>
-<td><p><a href="../Page/Һ.md" title="wikilink">Һ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Һ" title="wikilink">Һ</a><br />
 4BA</p></td>
 <td><p>⌡<br />
 2321</p></td>
@@ -697,51 +697,51 @@ A9</p></td>
 4E2</p></td>
 <td><p><a href="../Page/Ө.md" title="wikilink">Ө</a><br />
 4E8</p></td>
-<td><p><a href="../Page/Ӯ.md" title="wikilink">Ӯ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ӯ" title="wikilink">Ӯ</a><br />
 4EE</p></td>
 </tr>
 <tr class="even">
 <td><p>A.</p></td>
 <td><p> <br />
 A0</p></td>
-<td><p><a href="../Page/ђ.md" title="wikilink">ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ђ" title="wikilink">ђ</a><br />
 452</p></td>
-<td><p><a href="../Page/ѓ.md" title="wikilink">ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѓ" title="wikilink">ѓ</a><br />
 453</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
-<td><p><a href="../Page/є.md" title="wikilink">є</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/є" title="wikilink">є</a><br />
 454</p></td>
-<td><p><a href="../Page/ѕ.md" title="wikilink">ѕ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѕ" title="wikilink">ѕ</a><br />
 455</p></td>
-<td><p><a href="../Page/і.md" title="wikilink">і</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/і" title="wikilink">і</a><br />
 456</p></td>
-<td><p><a href="../Page/ї.md" title="wikilink">ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ї" title="wikilink">ї</a><br />
 457</p></td>
-<td><p><a href="../Page/ј.md" title="wikilink">ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ј" title="wikilink">ј</a><br />
 458</p></td>
-<td><p><a href="../Page/љ.md" title="wikilink">љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/љ" title="wikilink">љ</a><br />
 459</p></td>
-<td><p><a href="../Page/њ.md" title="wikilink">њ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/њ" title="wikilink">њ</a><br />
 45A</p></td>
-<td><p><a href="../Page/ћ.md" title="wikilink">ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ћ" title="wikilink">ћ</a><br />
 45B</p></td>
-<td><p><a href="../Page/ќ.md" title="wikilink">ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ќ" title="wikilink">ќ</a><br />
 45C</p></td>
-<td><p><a href="../Page/ґ.md" title="wikilink">ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ґ" title="wikilink">ґ</a><br />
 491</p></td>
-<td><p><a href="../Page/ў.md" title="wikilink">ў</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ў" title="wikilink">ў</a><br />
 45E</p></td>
-<td><p><a href="../Page/џ.md" title="wikilink">џ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/џ" title="wikilink">џ</a><br />
 45F</p></td>
 </tr>
 <tr class="odd">
 <td><p>B.</p></td>
 <td><p>№<br />
 2116</p></td>
-<td><p><a href="../Page/Ђ.md" title="wikilink">Ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ђ" title="wikilink">Ђ</a><br />
 402</p></td>
-<td><p><a href="../Page/Ѓ.md" title="wikilink">Ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ѓ" title="wikilink">Ѓ</a><br />
 403</p></td>
 <td><p><a href="../Page/Ё.md" title="wikilink">Ё</a><br />
 401</p></td>
@@ -751,19 +751,19 @@ A0</p></td>
 405</p></td>
 <td><p><a href="../Page/І.md" title="wikilink">І</a><br />
 406</p></td>
-<td><p><a href="../Page/Ї.md" title="wikilink">Ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ї" title="wikilink">Ї</a><br />
 407</p></td>
-<td><p><a href="../Page/Ј.md" title="wikilink">Ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ј" title="wikilink">Ј</a><br />
 408</p></td>
-<td><p><a href="../Page/Љ.md" title="wikilink">Љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Љ" title="wikilink">Љ</a><br />
 409</p></td>
 <td><p><a href="../Page/Њ.md" title="wikilink">Њ</a><br />
 40A</p></td>
-<td><p><a href="../Page/Ћ.md" title="wikilink">Ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ћ" title="wikilink">Ћ</a><br />
 40B</p></td>
-<td><p><a href="../Page/Ќ.md" title="wikilink">Ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ќ" title="wikilink">Ќ</a><br />
 40C</p></td>
-<td><p><a href="../Page/Ґ.md" title="wikilink">Ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ґ" title="wikilink">Ґ</a><br />
 490</p></td>
 <td><p><a href="../Page/Ў.md" title="wikilink">Ў</a><br />
 40E</p></td>
@@ -820,9 +820,9 @@ A0</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
-<td><p><a href="../Page/қ.md" title="wikilink">қ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/қ" title="wikilink">қ</a><br />
 49B</p></td>
-<td><p><a href="../Page/ғ.md" title="wikilink">ғ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ғ" title="wikilink">ғ</a><br />
 493</p></td>
 <td><p>‚<br />
 201A</p></td>
@@ -839,13 +839,13 @@ A0</p></td>
 <td><p> </p></td>
 <td><p>‰<br />
 2030</p></td>
-<td><p><a href="../Page/ҳ.md" title="wikilink">ҳ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ҳ" title="wikilink">ҳ</a><br />
 4B3</p></td>
 <td><p>‹<br />
 2039</p></td>
-<td><p><a href="../Page/Ҳ.md" title="wikilink">Ҳ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ҳ" title="wikilink">Ҳ</a><br />
 4B2</p></td>
-<td><p><a href="../Page/ҷ.md" title="wikilink">ҷ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ҷ" title="wikilink">ҷ</a><br />
 4B7</p></td>
 <td><p><a href="../Page/Ҷ.md" title="wikilink">Ҷ</a><br />
 4B6</p></td>
@@ -853,7 +853,7 @@ A0</p></td>
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
-<td><p><a href="../Page/Қ.md" title="wikilink">Қ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Қ" title="wikilink">Қ</a><br />
 49A</p></td>
 <td><p>‘<br />
 2018</p></td>
@@ -883,15 +883,15 @@ A0</p></td>
 <tr class="even">
 <td><p>A.</p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/ӯ.md" title="wikilink">ӯ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ӯ" title="wikilink">ӯ</a><br />
 4EF</p></td>
-<td><p><a href="../Page/Ӯ.md" title="wikilink">Ӯ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ӯ" title="wikilink">Ӯ</a><br />
 4EE</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
 <td><p>¤<br />
 A4</p></td>
-<td><p><a href="../Page/ӣ.md" title="wikilink">ӣ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ӣ" title="wikilink">ӣ</a><br />
 4E3</p></td>
 <td><p>¦<br />
 A6</p></td>
@@ -986,13 +986,13 @@ A9</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
-<td><p><a href="../Page/Ђ.md" title="wikilink">Ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ђ" title="wikilink">Ђ</a><br />
 402</p></td>
-<td><p><a href="../Page/Ѓ.md" title="wikilink">Ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ѓ" title="wikilink">Ѓ</a><br />
 403</p></td>
 <td><p>¸<br />
 B8</p></td>
-<td><p><a href="../Page/ѓ.md" title="wikilink">ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѓ" title="wikilink">ѓ</a><br />
 453</p></td>
 <td><p>„<br />
 201E</p></td>
@@ -1006,22 +1006,22 @@ A7</p></td>
 20AC</p></td>
 <td><p>¨<br />
 A8</p></td>
-<td><p><a href="../Page/Љ.md" title="wikilink">Љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Љ" title="wikilink">Љ</a><br />
 409</p></td>
 <td><p>‹<br />
 2039</p></td>
 <td><p><a href="../Page/Њ.md" title="wikilink">Њ</a><br />
 40A</p></td>
-<td><p><a href="../Page/Ќ.md" title="wikilink">Ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ќ" title="wikilink">Ќ</a><br />
 40C</p></td>
-<td><p><a href="../Page/Ћ.md" title="wikilink">Ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ћ" title="wikilink">Ћ</a><br />
 40B</p></td>
 <td><p><a href="../Page/Џ.md" title="wikilink">Џ</a><br />
 40F</p></td>
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
-<td><p><a href="../Page/ђ.md" title="wikilink">ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ђ" title="wikilink">ђ</a><br />
 452</p></td>
 <td><p>‘<br />
 2018</p></td>
@@ -1041,38 +1041,38 @@ A8</p></td>
 A3</p></td>
 <td><p>·<br />
 B7</p></td>
-<td><p><a href="../Page/љ.md" title="wikilink">љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/љ" title="wikilink">љ</a><br />
 459</p></td>
 <td><p>›<br />
 203A</p></td>
-<td><p><a href="../Page/њ.md" title="wikilink">њ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/њ" title="wikilink">њ</a><br />
 45A</p></td>
-<td><p><a href="../Page/ќ.md" title="wikilink">ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ќ" title="wikilink">ќ</a><br />
 45C</p></td>
-<td><p><a href="../Page/ћ.md" title="wikilink">ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ћ" title="wikilink">ћ</a><br />
 45B</p></td>
-<td><p><a href="../Page/џ.md" title="wikilink">џ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/џ" title="wikilink">џ</a><br />
 45F</p></td>
 </tr>
 <tr class="even">
 <td><p>A.</p></td>
 <td><p> <br />
 A0</p></td>
-<td><p><a href="../Page/ѵ.md" title="wikilink">ѵ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѵ" title="wikilink">ѵ</a><br />
 475</p></td>
-<td><p><a href="../Page/ѣ.md" title="wikilink">ѣ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѣ" title="wikilink">ѣ</a><br />
 463</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
-<td><p><a href="../Page/є.md" title="wikilink">є</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/є" title="wikilink">є</a><br />
 454</p></td>
-<td><p><a href="../Page/ѕ.md" title="wikilink">ѕ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѕ" title="wikilink">ѕ</a><br />
 455</p></td>
-<td><p><a href="../Page/і.md" title="wikilink">і</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/і" title="wikilink">і</a><br />
 456</p></td>
-<td><p><a href="../Page/ї.md" title="wikilink">ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ї" title="wikilink">ї</a><br />
 457</p></td>
-<td><p><a href="../Page/ј.md" title="wikilink">ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ј" title="wikilink">ј</a><br />
 458</p></td>
 <td><p>®<br />
 AE</p></td>
@@ -1080,11 +1080,11 @@ AE</p></td>
 2122</p></td>
 <td><p>«<br />
 AB</p></td>
-<td><p><a href="../Page/ѳ.md" title="wikilink">ѳ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѳ" title="wikilink">ѳ</a><br />
 473</p></td>
-<td><p><a href="../Page/ґ.md" title="wikilink">ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ґ" title="wikilink">ґ</a><br />
 491</p></td>
-<td><p><a href="../Page/ў.md" title="wikilink">ў</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ў" title="wikilink">ў</a><br />
 45E</p></td>
 <td><p>´<br />
 B4</p></td>
@@ -1093,7 +1093,7 @@ B4</p></td>
 <td><p>B.</p></td>
 <td><p>°<br />
 B0</p></td>
-<td><p><a href="../Page/Ѵ.md" title="wikilink">Ѵ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ѵ" title="wikilink">Ѵ</a><br />
 474</p></td>
 <td><p><a href="../Page/Ѣ.md" title="wikilink">Ѣ</a><br />
 462</p></td>
@@ -1105,9 +1105,9 @@ B0</p></td>
 405</p></td>
 <td><p><a href="../Page/І.md" title="wikilink">І</a><br />
 406</p></td>
-<td><p><a href="../Page/Ї.md" title="wikilink">Ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ї" title="wikilink">Ї</a><br />
 407</p></td>
-<td><p><a href="../Page/Ј.md" title="wikilink">Ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ј" title="wikilink">Ј</a><br />
 408</p></td>
 <td><p>№<br />
 2116</p></td>
@@ -1115,9 +1115,9 @@ B0</p></td>
 A2</p></td>
 <td><p>»<br />
 BB</p></td>
-<td><p><a href="../Page/Ѳ.md" title="wikilink">Ѳ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ѳ" title="wikilink">Ѳ</a><br />
 472</p></td>
-<td><p><a href="../Page/Ґ.md" title="wikilink">Ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ґ" title="wikilink">Ґ</a><br />
 490</p></td>
 <td><p><a href="../Page/Ў.md" title="wikilink">Ў</a><br />
 40E</p></td>
@@ -1173,44 +1173,44 @@ A9</p></td>
 <td><p>A.</p></td>
 <td><p> <br />
 A0</p></td>
-<td><p><a href="../Page/ђ.md" title="wikilink">ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ђ" title="wikilink">ђ</a><br />
 452</p></td>
-<td><p><a href="../Page/ѓ.md" title="wikilink">ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѓ" title="wikilink">ѓ</a><br />
 453</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
-<td><p><a href="../Page/є.md" title="wikilink">є</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/є" title="wikilink">є</a><br />
 454</p></td>
-<td><p><a href="../Page/ѕ.md" title="wikilink">ѕ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѕ" title="wikilink">ѕ</a><br />
 455</p></td>
-<td><p><a href="../Page/і.md" title="wikilink">і</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/і" title="wikilink">і</a><br />
 456</p></td>
-<td><p><a href="../Page/ї.md" title="wikilink">ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ї" title="wikilink">ї</a><br />
 457</p></td>
-<td><p><a href="../Page/ј.md" title="wikilink">ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ј" title="wikilink">ј</a><br />
 458</p></td>
-<td><p><a href="../Page/љ.md" title="wikilink">љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/љ" title="wikilink">љ</a><br />
 459</p></td>
-<td><p><a href="../Page/њ.md" title="wikilink">њ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/њ" title="wikilink">њ</a><br />
 45A</p></td>
-<td><p><a href="../Page/ћ.md" title="wikilink">ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ћ" title="wikilink">ћ</a><br />
 45B</p></td>
-<td><p><a href="../Page/ќ.md" title="wikilink">ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ќ" title="wikilink">ќ</a><br />
 45C</p></td>
 <td><p>­<br />
 AD</p></td>
-<td><p><a href="../Page/ў.md" title="wikilink">ў</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ў" title="wikilink">ў</a><br />
 45E</p></td>
-<td><p><a href="../Page/џ.md" title="wikilink">џ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/џ" title="wikilink">џ</a><br />
 45F</p></td>
 </tr>
 <tr class="odd">
 <td><p>B.</p></td>
 <td><p>№<br />
 2116</p></td>
-<td><p><a href="../Page/Ђ.md" title="wikilink">Ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ђ" title="wikilink">Ђ</a><br />
 402</p></td>
-<td><p><a href="../Page/Ѓ.md" title="wikilink">Ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ѓ" title="wikilink">Ѓ</a><br />
 403</p></td>
 <td><p><a href="../Page/Ё.md" title="wikilink">Ё</a><br />
 401</p></td>
@@ -1220,17 +1220,17 @@ AD</p></td>
 405</p></td>
 <td><p><a href="../Page/І.md" title="wikilink">І</a><br />
 406</p></td>
-<td><p><a href="../Page/Ї.md" title="wikilink">Ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ї" title="wikilink">Ї</a><br />
 407</p></td>
-<td><p><a href="../Page/Ј.md" title="wikilink">Ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ј" title="wikilink">Ј</a><br />
 408</p></td>
-<td><p><a href="../Page/Љ.md" title="wikilink">Љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Љ" title="wikilink">Љ</a><br />
 409</p></td>
 <td><p><a href="../Page/Њ.md" title="wikilink">Њ</a><br />
 40A</p></td>
-<td><p><a href="../Page/Ћ.md" title="wikilink">Ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ћ" title="wikilink">Ћ</a><br />
 40B</p></td>
-<td><p><a href="../Page/Ќ.md" title="wikilink">Ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ќ" title="wikilink">Ќ</a><br />
 40C</p></td>
 <td><p>¤<br />
 A4</p></td>
@@ -1358,44 +1358,44 @@ A4</p></td>
 <td><p>A.</p></td>
 <td><p> <br />
 A0</p></td>
-<td><p><a href="../Page/ђ.md" title="wikilink">ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ђ" title="wikilink">ђ</a><br />
 452</p></td>
-<td><p><a href="../Page/ѓ.md" title="wikilink">ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѓ" title="wikilink">ѓ</a><br />
 453</p></td>
-<td><p><a href="../Page/ё.md" title="wikilink">ё</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ё" title="wikilink">ё</a><br />
 451</p></td>
-<td><p><a href="../Page/є.md" title="wikilink">є</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/є" title="wikilink">є</a><br />
 454</p></td>
-<td><p><a href="../Page/ѕ.md" title="wikilink">ѕ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ѕ" title="wikilink">ѕ</a><br />
 455</p></td>
-<td><p><a href="../Page/і.md" title="wikilink">і</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/і" title="wikilink">і</a><br />
 456</p></td>
-<td><p><a href="../Page/ї.md" title="wikilink">ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ї" title="wikilink">ї</a><br />
 457</p></td>
-<td><p><a href="../Page/ј.md" title="wikilink">ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ј" title="wikilink">ј</a><br />
 458</p></td>
-<td><p><a href="../Page/љ.md" title="wikilink">љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/љ" title="wikilink">љ</a><br />
 459</p></td>
-<td><p><a href="../Page/њ.md" title="wikilink">њ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/њ" title="wikilink">њ</a><br />
 45A</p></td>
-<td><p><a href="../Page/ћ.md" title="wikilink">ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ћ" title="wikilink">ћ</a><br />
 45B</p></td>
-<td><p><a href="../Page/ќ.md" title="wikilink">ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ќ" title="wikilink">ќ</a><br />
 45C</p></td>
-<td><p><a href="../Page/ґ.md" title="wikilink">ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ґ" title="wikilink">ґ</a><br />
 491</p></td>
-<td><p><a href="../Page/ў.md" title="wikilink">ў</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ў" title="wikilink">ў</a><br />
 45E</p></td>
-<td><p><a href="../Page/џ.md" title="wikilink">џ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/џ" title="wikilink">џ</a><br />
 45F</p></td>
 </tr>
 <tr class="odd">
 <td><p>B.</p></td>
 <td><p>№<br />
 2116</p></td>
-<td><p><a href="../Page/Ђ.md" title="wikilink">Ђ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ђ" title="wikilink">Ђ</a><br />
 402</p></td>
-<td><p><a href="../Page/Ѓ.md" title="wikilink">Ѓ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ѓ" title="wikilink">Ѓ</a><br />
 403</p></td>
 <td><p><a href="../Page/Ё.md" title="wikilink">Ё</a><br />
 401</p></td>
@@ -1405,19 +1405,19 @@ A0</p></td>
 405</p></td>
 <td><p><a href="../Page/І.md" title="wikilink">І</a><br />
 406</p></td>
-<td><p><a href="../Page/Ї.md" title="wikilink">Ї</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ї" title="wikilink">Ї</a><br />
 407</p></td>
-<td><p><a href="../Page/Ј.md" title="wikilink">Ј</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ј" title="wikilink">Ј</a><br />
 408</p></td>
-<td><p><a href="../Page/Љ.md" title="wikilink">Љ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Љ" title="wikilink">Љ</a><br />
 409</p></td>
 <td><p><a href="../Page/Њ.md" title="wikilink">Њ</a><br />
 40A</p></td>
-<td><p><a href="../Page/Ћ.md" title="wikilink">Ћ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ћ" title="wikilink">Ћ</a><br />
 40B</p></td>
-<td><p><a href="../Page/Ќ.md" title="wikilink">Ќ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ќ" title="wikilink">Ќ</a><br />
 40C</p></td>
-<td><p><a href="../Page/Ґ.md" title="wikilink">Ґ</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ґ" title="wikilink">Ґ</a><br />
 490</p></td>
 <td><p><a href="../Page/Ў.md" title="wikilink">Ў</a><br />
 40E</p></td>

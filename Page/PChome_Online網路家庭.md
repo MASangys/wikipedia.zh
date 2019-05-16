@@ -1,15 +1,15 @@
 **PChome
-Online網路家庭**（簡稱**PChome**）是[台灣](../Page/台灣.md "wikilink")[入口網站之一](../Page/入口網站.md "wikilink")，前身為1998年成立的「todo」網站，2000年1月改為現名。其經營者為1998年7月成立的「**網路家庭國際資-{}-訊股份有限公司**」（簡稱**網家**；）。
+Online網路家庭**（簡稱**PChome**）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[入口網站之一](https://zh.wikipedia.org/wiki/入口網站 "wikilink")，前身為1998年成立的「todo」網站，2000年1月改為現名。其經營者為1998年7月成立的「**網路家庭國際資-{}-訊股份有限公司**」（簡稱**網家**；）。
 
-PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikilink")，並與[eBay](../Page/eBay.md "wikilink")[合資成立](../Page/合資公司.md "wikilink")[露天拍賣網站](../Page/露天拍賣.md "wikilink")。
+PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikilink")，並與[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")[合資成立](../Page/合資公司.md "wikilink")[露天拍賣網站](../Page/露天拍賣.md "wikilink")。
 
 ## 集團業務
 
 ### PChome 電商營運
 
   - B2C網站：PChome24h購物，PChome全球購物（銷售全球104個國家/地區）
-  - B2B2C網站：[PChome商店街](../Page/PChome商店街.md "wikilink")（網家集團關係企業）
-  - C2C網站：[露天拍賣](../Page/露天拍賣.md "wikilink")（與[eBay合資成立](../Page/eBay.md "wikilink")）、PChome商店街個人賣場
+  - B2B2C網站：[PChome商店街](https://zh.wikipedia.org/wiki/PChome商店街 "wikilink")（網家集團關係企業）
+  - C2C網站：[露天拍賣](../Page/露天拍賣.md "wikilink")（與[eBay合資成立](https://zh.wikipedia.org/wiki/eBay "wikilink")）、PChome商店街個人賣場
 
 ### 集團服務
 
@@ -69,15 +69,15 @@ PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikili
 [PChome_Online_Shopping_box_24H-03_20140610.jpg](https://zh.wikipedia.org/wiki/File:PChome_Online_Shopping_box_24H-03_20140610.jpg "fig:PChome_Online_Shopping_box_24H-03_20140610.jpg")
 
   - 1996年
-    5月，電腦家庭網站設立，初期為[PChome電腦家庭出版集團中的一個部門](../Page/PChome電腦家庭出版集團.md "wikilink")，以《PChome電腦報》為名發送資訊新聞的[電子報](../Page/電子報.md "wikilink")。PChome
+    5月，電腦家庭網站設立，初期為[PChome電腦家庭出版集團中的一個部門](https://zh.wikipedia.org/wiki/PChome電腦家庭出版集團 "wikilink")，以《PChome電腦報》為名發送資訊新聞的[電子報](https://zh.wikipedia.org/wiki/電子報 "wikilink")。PChome
     Online網站創立，同年起經營入口網站業務。
   - 1997年 7月，更名為PChome Online網站。
   - 1998年
     7月，網站部門獨立成公司，從PChome電腦家庭出版集團獨立出來，設立todo網站，開始經營入口網站服務。網路家庭國際資訊股份有限公司(
     PChome Online Inc.）成立。
-  - 1999年（民國88年）5月，提供免費網路硬碟儲存空間；6月，提供免費個人網頁儲存空間。同年，與[中國時報](../Page/中國時報.md "wikilink")、PChome電腦家庭出版集團、[中時網-{}-路科技合辦第一屆](../Page/中時網路科技.md "wikilink")[金手指網-{}-路獎](../Page/金手指網路獎.md "wikilink")。\[14\]
+  - 1999年（民國88年）5月，提供免費網路硬碟儲存空間；6月，提供免費個人網頁儲存空間。同年，與[中國時報](../Page/中國時報.md "wikilink")、PChome電腦家庭出版集團、[中時網-{}-路科技合辦第一屆](https://zh.wikipedia.org/wiki/中時網路科技 "wikilink")[金手指網-{}-路獎](https://zh.wikipedia.org/wiki/金手指網路獎 "wikilink")。\[14\]
   - 2000年 1月，與PChome
-    Online網站整合，由[HiNet管理網站空間](../Page/HiNet.md "wikilink")，同時公司更名為網路家庭國際資訊股份有限公司。
+    Online網站整合，由[HiNet管理網站空間](https://zh.wikipedia.org/wiki/HiNet "wikilink")，同時公司更名為網路家庭國際資訊股份有限公司。
   - 2000年 6月成立電子商務部門，首先推出B2C綜合網路商城「 PChome線上購物 」。
   - 2003年 1月，公司股票於興櫃市場公開買賣。
   - 2004年 7月，與網路電話公司Skype成為全球首位策略合作夥伴，並於台灣推出「 PChome & Skype網路電話
@@ -85,26 +85,26 @@ PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikili
   - 2005年 1月，公司股票於店頭市場公開買賣；3月，提供無限制空間免費相簿服務；7月，提供網路拍賣服務。
   - 2005年 10月，成立「PChome商店街 」為擴大電子商務基礎，並協助國內微型創業店家及中小企業發展電子商務。
   - 2006年
-    6月，與全球拍賣龍頭[eBay合資成立](../Page/eBay.md "wikilink")「[露天拍賣](../Page/露天拍賣.md "wikilink")
+    6月，與全球拍賣龍頭[eBay合資成立](https://zh.wikipedia.org/wiki/eBay "wikilink")「[露天拍賣](../Page/露天拍賣.md "wikilink")
     」，跨足網路拍賣業務。
   - 2007年 推出全球首創「 24小時到貨專區線上購物─PChome 24h購物 」服務，樹立台灣電子商務發展的全新標竿。PChome
     24h購物旗下所有商品完全以網購倉儲100%自營打造高到貨達成率，堪稱全台第一，更是世界首創。
   - 2007年 3月 PChome-Skype進入企業元年 推出SkypeBIZ企業總管 瞄準企業市場；4月 PChome
     Online推出Sales2.0分紅網，不必進貨也能銷售，人人做電子商務的時代來了；7月 PChome
-    Online宣布成立[愛比科技](../Page/愛比科技.md "wikilink")（IPEVO），以「網路服務」結合「台灣硬體製造」與「工業設計」等競爭優勢持續投入Skype網路電話硬體、網路影像、數位音樂等相關產品；8月
+    Online宣布成立[愛比科技](https://zh.wikipedia.org/wiki/愛比科技 "wikilink")（IPEVO），以「網路服務」結合「台灣硬體製造」與「工業設計」等競爭優勢持續投入Skype網路電話硬體、網路影像、數位音樂等相關產品；8月
     愛比科技榮獲全球著名科技投資雜誌《Red Herring》頒贈之「2007 Red Herring 亞洲100強」殊榮；10月
     PChome《24h購物》達成單月營收新台幣一億元目標，開啟線上購物新紀元。
   - 2008年 3月 進軍商用話務市場 SkypeBIZ企業總管用戶數一年內突破2600 家。 ；4月 PChome &
     Skype推出最新月租型資費方案「Skype包月Go」，以創業界的超低月租費讓使用者幾近無限制的撥打到一般市話/長途/手機或國際電話。
     ；4月 PChome
-    Online與[信義房屋](../Page/信義房屋.md "wikilink")、[住商不動產](../Page/住商不動產.md "wikilink")、[太平洋房屋](../Page/太平洋房屋.md "wikilink")、[中信房屋](../Page/中信房屋.md "wikilink")、[21世紀不動產合資成立](../Page/21世紀不動產.md "wikilink")「[樂屋網](../Page/樂屋網.md "wikilink")」，進入[不動產交易](../Page/不動產.md "wikilink")[電子商務領域](../Page/電子商務.md "wikilink")。
+    Online與[信義房屋](../Page/信義房屋.md "wikilink")、[住商不動產](https://zh.wikipedia.org/wiki/住商不動產 "wikilink")、[太平洋房屋](https://zh.wikipedia.org/wiki/太平洋房屋 "wikilink")、[中信房屋](../Page/中信房屋.md "wikilink")、[21世紀不動產合資成立](https://zh.wikipedia.org/wiki/21世紀不動產 "wikilink")「[樂屋網](../Page/樂屋網.md "wikilink")」，進入[不動產交易](../Page/不動產.md "wikilink")[電子商務領域](https://zh.wikipedia.org/wiki/電子商務 "wikilink")。
     ；5月 PChome《24h購物》賣場商品正式於露天市集同步開賣。
   - 2010年
-    PChome商店街自網路家庭母公司分割，正式成立「商店街市集國際資訊股份有限公司」，分割基準日為[民國99年](../Page/民國99年.md "wikilink")4月30日。PChome全球購物服務上線營運。
+    PChome商店街自網路家庭母公司分割，正式成立「商店街市集國際資訊股份有限公司」，分割基準日為[民國99年](https://zh.wikipedia.org/wiki/民國99年 "wikilink")4月30日。PChome全球購物服務上線營運。
   - 2011年 PChome & Skype 服務由網路家庭國際資訊股份有限公司 (PChome Online)
     移轉予子公司連科通訊股份有限公司經營。
   - 2012年 成立第三方支付服務「PChomePay 支付連」，以提供PChome
-    Online旗下[露天拍賣的金流服務為主](../Page/露天拍賣.md "wikilink")，提供[ATM轉帳](../Page/ATM.md "wikilink")、餘額付款、[信用卡分期](../Page/信用卡.md "wikilink")、代收付服務等。
+    Online旗下[露天拍賣的金流服務為主](../Page/露天拍賣.md "wikilink")，提供[ATM轉帳](https://zh.wikipedia.org/wiki/ATM "wikilink")、餘額付款、[信用卡分期](../Page/信用卡.md "wikilink")、代收付服務等。
   - 2014年 「PChome USA」上線，在美國推出C2C電子商務平台。
   - 2014年 推出「Yiabi」手機網路應用服務，滿足資訊「存、讀、分享」需求。
   - 2015年 3月，推出「PChome搜尋」服務，強調「購物優先」。
@@ -114,21 +114,21 @@ PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikili
   - 2016年
     PChome國際連電子支付開業，啟用儲值款項支付、帳戶間轉帳服務，並已於2016年3月獲金管會核發專營電子支付機構營業執照。\[17\]
   - 2017年 攜手Skype創始團隊，推出AI語言學習「Lingvist」，首創AI智慧學習 200小時學好英文。\[18\]
-  - 2018年5月3日，網路家庭與[花旗銀行聯手](../Page/花旗銀行.md "wikilink")，正式推出「花旗PChome
+  - 2018年5月3日，網路家庭與[花旗銀行聯手](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，正式推出「花旗PChome
     Prime 聯名[信用卡](../Page/信用卡.md "wikilink")」。
 
 ## 爭議
 
 ### 標錯價格事件
 
-該站「購物頻道」陳列的[蜆精](../Page/蜆.md "wikilink")、[鏡頭](../Page/鏡頭.md "wikilink")、[顯示卡](../Page/顯示卡.md "wikilink")、[記憶卡等商品的價格標示錯誤](../Page/記憶卡.md "wikilink")，引起網友大肆搶購。事後，站方以「內部錯誤」為由，拒絕出貨。此舉引起部份網友不滿，並協同[律師以](../Page/律師.md "wikilink")《[消費者保護法](../Page/:s:消費者保護法.md "wikilink")》對該站提出團體訴訟。\[19\]
+該站「購物頻道」陳列的[蜆精](https://zh.wikipedia.org/wiki/蜆 "wikilink")、[鏡頭](../Page/鏡頭.md "wikilink")、[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")、[記憶卡等商品的價格標示錯誤](../Page/記憶卡.md "wikilink")，引起網友大肆搶購。事後，站方以「內部錯誤」為由，拒絕出貨。此舉引起部份網友不滿，並協同[律師以](../Page/律師.md "wikilink")《[消費者保護法](https://zh.wikipedia.org/wiki/:s:消費者保護法 "wikilink")》對該站提出團體訴訟。\[19\]
 
 ### 垃圾郵件
 
 PChome
 Online網路家庭是目前台灣最大的垃圾信件來源，除了取消電子報訂閱的功能有爭議之外，在未經用戶本人同意下，所有PChome的用戶均為預設的新電子報訂閱戶，必須主動前往該公司網頁取消訂閱。同時，該公司也同屬未提供刪除會員帳號服務的入口網站業者之一。
-該公司可能為了避免[消費者持續的抗爭](../Page/消費者.md "wikilink")，在網頁上只提供了電子郵件回覆的客戶服務，造成求訴無門，長久以來PChome
-Online網路家庭如同垃圾般的電子報依然困擾著數以萬計的[電子郵件使用者](../Page/電子郵件.md "wikilink")。雖然有特定的申訴管道，或者是針對某公司的[集體訴訟案件](../Page/集體訴訟.md "wikilink")，但由於法律過程冗長，並且在[電子報本身是否為垃圾信件這個議題依然有爭議](../Page/電子報.md "wikilink")，因此讓該公司得以繼續其如同騷擾般地透過該[法律漏洞而困擾著眾多網路使用者](../Page/法律漏洞.md "wikilink")。數年前便有針對PChome的垃圾信件防治協會成立，但顯然對於該公司生產[垃圾信件的決心沒有任何實質作用](../Page/垃圾信件.md "wikilink")。由於來自PChome
+該公司可能為了避免[消費者持續的抗爭](https://zh.wikipedia.org/wiki/消費者 "wikilink")，在網頁上只提供了電子郵件回覆的客戶服務，造成求訴無門，長久以來PChome
+Online網路家庭如同垃圾般的電子報依然困擾著數以萬計的[電子郵件使用者](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。雖然有特定的申訴管道，或者是針對某公司的[集體訴訟案件](https://zh.wikipedia.org/wiki/集體訴訟 "wikilink")，但由於法律過程冗長，並且在[電子報本身是否為垃圾信件這個議題依然有爭議](https://zh.wikipedia.org/wiki/電子報 "wikilink")，因此讓該公司得以繼續其如同騷擾般地透過該[法律漏洞而困擾著眾多網路使用者](https://zh.wikipedia.org/wiki/法律漏洞 "wikilink")。數年前便有針對PChome的垃圾信件防治協會成立，但顯然對於該公司生產[垃圾信件的決心沒有任何實質作用](https://zh.wikipedia.org/wiki/垃圾信件 "wikilink")。由於來自PChome
 Online的垃圾信持續騷擾著網路使用者，顯然必須透過PChome
 Online在企業良知上更進一步的成長或是經由台灣政府大刀闊斧的決心才能徹底剷除這一問題。
 
@@ -140,7 +140,7 @@ Online，兩家公司只剩部分名稱雷同，不再有實質關聯。
 
 ### 轉嫁促銷成本事件
 
-2017年後面臨海內外電商競爭激烈，\[20\]PChome商店街突然推出新合約，第8條第6項「合約期間內，合作廠商同意依網路家庭所擬之行銷計畫配合進行行銷活動，並同意負擔因前開行銷活動所產生之費用」，將舉辦特賣會的主導權掌握在手，然而特賣優惠的成本全由廠商吸收，而賣家抱怨說簽年約時採用軟性詐欺的手法，告知該條款只是擺設，並不會實施，就算實施前也會徵求全體重新討論，但在6月份突然以[電子郵件告知要開始片面實施](../Page/電子郵件.md "wikilink")，後傳出有20多家廠商要出走。\[21\]例如有一賣家表示他有1款燈售價1,899元[台幣](../Page/台幣.md "wikilink")，成本是1,200元，PChome先前片面推出滿1,600送500的活動，扣掉運費、稅、上架成本費，賣1個燈就現賠500元，廠商發現後趕緊商品立刻下架，但估計光2017年6月就損失2到3成。
+2017年後面臨海內外電商競爭激烈，\[20\]PChome商店街突然推出新合約，第8條第6項「合約期間內，合作廠商同意依網路家庭所擬之行銷計畫配合進行行銷活動，並同意負擔因前開行銷活動所產生之費用」，將舉辦特賣會的主導權掌握在手，然而特賣優惠的成本全由廠商吸收，而賣家抱怨說簽年約時採用軟性詐欺的手法，告知該條款只是擺設，並不會實施，就算實施前也會徵求全體重新討論，但在6月份突然以[電子郵件告知要開始片面實施](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")，後傳出有20多家廠商要出走。\[21\]例如有一賣家表示他有1款燈售價1,899元[台幣](https://zh.wikipedia.org/wiki/台幣 "wikilink")，成本是1,200元，PChome先前片面推出滿1,600送500的活動，扣掉運費、稅、上架成本費，賣1個燈就現賠500元，廠商發現後趕緊商品立刻下架，但估計光2017年6月就損失2到3成。
 
 ## 注釋
 

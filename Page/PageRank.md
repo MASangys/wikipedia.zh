@@ -9,7 +9,7 @@
 佩奇排名本质上是一种以网页之间的超链接个数和质量作为主要因素粗略地分析网页的重要性的算法。其基本假设是：更重要的页面往往更多地被其他页面引用（或称其他页面中会更多地加入通向该页面的超链接）\[1\]。
 其将从A页面到B页面的链接解释为“A页面给B页面投票”，并根据投票来源（甚至来源的来源，即链接到A页面的页面）和投票对象的等级来决定被投票页面的等级。简单的说，一个高等级的页面可以提升其他低等级的页面。
 
-该算法以谷歌公司创始人之一的[拉里·佩奇](../Page/拉里·佩奇.md "wikilink")（）的名字來命名。\[2\]谷歌搜索引擎用它来分析网页的相关性和重要性，在[搜索引擎优化中經常被用來作为評估網頁优化的成效因素之一](../Page/搜索引擎优化.md "wikilink")。
+该算法以谷歌公司创始人之一的[拉里·佩奇](../Page/拉里·佩奇.md "wikilink")（）的名字來命名。\[2\]谷歌搜索引擎用它来分析网页的相关性和重要性，在[搜索引擎优化中經常被用來作为評估網頁优化的成效因素之一](https://zh.wikipedia.org/wiki/搜索引擎优化 "wikilink")。
 
 目前，佩奇排名算法不再是谷歌公司用来给网页进行排名的唯一算法，但它是最早的，也是最著名的算法。\[3\]\[4\]
 
@@ -27,9 +27,9 @@ support）”。每个网页的权重值大小被递归地定义，依托于所�
 PageRank）。
 
 大量关于PageRank的学术论文在Page和Brin的原版论文前就已有之。\[5\]在实际情况中，PageRank很容易被利用。相关的研究往往会关注那些因受到影响而出现错误的PageRank结果，以找到一种有效地避免其被错误地影响的方法（如忽略部分错误的链接）。\[6\]
-2005年初，谷歌公司为网页链接推出一项新属性[nofollow](../Page/nofollow.md "wikilink")，使得网站管理员和博客作者可以创建一些不計票的链接，也就是說这些链接不算作「投票」，从而实现抵制垃圾投票的目的。
+2005年初，谷歌公司为网页链接推出一项新属性[nofollow](https://zh.wikipedia.org/wiki/nofollow "wikilink")，使得网站管理员和博客作者可以创建一些不計票的链接，也就是說这些链接不算作「投票」，从而实现抵制垃圾投票的目的。
 
-Google工具条上的PageRank指標从0到10。它似乎是一个对数标度算法，细节未知。雖然**PageRank**是谷歌的商标，其技术亦已经申请专利，但是專利權屬於[斯坦福大學](../Page/斯坦福大學.md "wikilink")，而非谷歌公司。
+Google工具条上的PageRank指標从0到10。它似乎是一个对数标度算法，细节未知。雖然**PageRank**是谷歌的商标，其技术亦已经申请专利，但是專利權屬於[斯坦福大學](https://zh.wikipedia.org/wiki/斯坦福大學 "wikilink")，而非谷歌公司。
 
 PageRank算法中的点击算法是由[乔恩·克莱因伯格](../Page/乔恩·克莱因伯格.md "wikilink")(Jon
 Kleinberg)提出的。而其他的基于链接的网页排名算法，则包括[乔恩·克莱因伯格发明的HITS算法](../Page/乔恩·克莱因伯格.md "wikilink")，IBM
@@ -131,13 +131,13 @@ probability），我们引入阻尼系数 \(d\)（damping factor），并声明
 
 PageRank算法的主要缺點在于旧的页面的排名往往会比新页面高。因为即使是质量很高的新页面也往往不会有很多外链，除非它是某个已经存在站点的子站点。这也是PageRank需要多项算法结合以保证其结果的准确性的原因。例如，PageRank似乎偏好于维基百科页面，在条目名称的搜索结果中，维基百科页面经常在大多数页面甚至所有页面之前，此现象的原因则是维基百科内部网页中存在大量的内链，同时亦有很多站点链入维基百科。
 
-Google经常处罚恶意提高网页PageRank的行为。至于其如何区分正常的链接和不正常的链接，这仍然是[商业机密](../Page/商业机密.md "wikilink")。但是在Google的链接规范中已清楚地说明，哪些是属于违反规范的行為。\[7\]
+Google经常处罚恶意提高网页PageRank的行为。至于其如何区分正常的链接和不正常的链接，这仍然是[商业机密](https://zh.wikipedia.org/wiki/商业机密 "wikilink")。但是在Google的链接规范中已清楚地说明，哪些是属于违反规范的行為。\[7\]
 
 ## 从谷歌工具栏中移除
 
 2009年10月14日，Google員工蘇珊·莫斯科（Susan
 Moskwa）確認該公司已将PageRank从其網站管理員工具中移除。她表示：「我们長久以來一直在告诫人們不应该过分注重PageRank；很多網站站长似乎认为PageRank是他們需要时刻关注的最重要的指标，而这几乎是错误的。」\[8\]然而在蘇珊確認後兩天，PageRank又在谷歌工具欄（Google
-Toolbar）上重新顯示，但其指示器（indicator）在谷歌公司自家的[Chrome浏览器上已不可用](../Page/Chrome浏览器.md "wikilink")。
+Toolbar）上重新顯示，但其指示器（indicator）在谷歌公司自家的[Chrome浏览器上已不可用](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")。
 
 同时，公众可见的PageRank的数据更新周期也越来越长，它的最后一次更新是2013年11月份。
 
@@ -157,7 +157,8 @@ Toolbar）上重新顯示，但其指示器（indicator）在谷歌公司自家�
     by Google
   - [The PageRank Citation Ranking: Bringing Order to the
     Web](https://web.archive.org/web/20091118014915/http://ilpubs.stanford.edu:8090/422/)
-    by [Larry Page](../Page/Larry_Page.md "wikilink") *et al.*
+    by [Larry Page](https://zh.wikipedia.org/wiki/Larry_Page "wikilink")
+    *et al.*
   - [The PageRank
     Result](https://web.archive.org/web/20150302083435/http://google-pagerank.info/)
 
@@ -165,7 +166,7 @@ Toolbar）上重新顯示，但其指示器（indicator）在谷歌公司自家�
 ## 参见
 
   - [Google](../Page/Google.md "wikilink")
-  - [Google炸彈](../Page/Google炸彈.md "wikilink")
+  - [Google炸彈](https://zh.wikipedia.org/wiki/Google炸彈 "wikilink")
   - [SimRank](../Page/SimRank.md "wikilink")
 
 {{-}}

@@ -1,41 +1,44 @@
-**Kopete**是[KDE的一个子项目](../Page/KDE.md "wikilink")，支持多[协议的](../Page/协议.md "wikilink")[即时通信](../Page/即时通信.md "wikilink")，包括[ICQ](../Page/ICQ.md "wikilink")、[AIM](../Page/AIM.md "wikilink")、[Gadu-Gadu](../Page/Gadu-Gadu.md "wikilink")、[IRC](../Page/IRC.md "wikilink")、[.NET
+**Kopete**是[KDE的一个子项目](../Page/KDE.md "wikilink")，支持多[协议的](https://zh.wikipedia.org/wiki/协议 "wikilink")[即时通信](https://zh.wikipedia.org/wiki/即时通信 "wikilink")，包括[ICQ](../Page/ICQ.md "wikilink")、[AIM](https://zh.wikipedia.org/wiki/AIM "wikilink")、[Gadu-Gadu](https://zh.wikipedia.org/wiki/Gadu-Gadu "wikilink")、[IRC](../Page/IRC.md "wikilink")、[.NET
 Messenger
-Service](../Page/.NET_Messenger_Service.md "wikilink")、[Yahoo\!
+Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")、[Yahoo\!
 Messenger等协议](../Page/Yahoo!_Messenger.md "wikilink")。
 
 ## 支援的通訊協定
 
 Kopete 所支援的通訊協定列表：
 
-  - [AOL即時通訊](../Page/AOL即時通訊.md "wikilink")
+  - [AOL即時通訊](https://zh.wikipedia.org/wiki/AOL即時通訊 "wikilink")
   - [Bonjour](../Page/Bonjour.md "wikilink")
-  - [Facebook](../Page/Facebook_Chat.md "wikilink")
+  - [Facebook](https://zh.wikipedia.org/wiki/Facebook_Chat "wikilink")
     ([1](https://web.archive.org/web/20090528221749/http://duncan.mac-vicar.com/blog/archives/545))
-  - [Gadu-Gadu](../Page/Gadu-Gadu.md "wikilink")
+  - [Gadu-Gadu](https://zh.wikipedia.org/wiki/Gadu-Gadu "wikilink")
   - [ICQ](../Page/ICQ.md "wikilink")
   - [IRC](../Page/IRC.md "wikilink")
-  - [Jabber](../Page/Jabber.md "wikilink")（[XMPP](../Page/XMPP.md "wikilink")）
+  - [Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")（[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")）
   - [Lotus Sametime](../Page/Lotus_Sametime.md "wikilink") via the
     [Meanwhile](http://meanwhile.sourceforge.net/) plugin
   - [Google Talk](../Page/Google_Talk.md "wikilink")（即時傳訊部份使用
-    [Jabber](../Page/Jabber.md "wikilink") 協定，語音部份使用
-    [jingle](../Page/jingle.md "wikilink") 協定）
-  - [Messenger service](../Page/Messenger_service.md "wikilink")
+    [Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink") 協定，語音部份使用
+    [jingle](https://zh.wikipedia.org/wiki/jingle "wikilink") 協定）
+  - [Messenger
+    service](https://zh.wikipedia.org/wiki/Messenger_service "wikilink")
   - [.NET Messenger
-    Service](../Page/.NET_Messenger_Service.md "wikilink")
-  - [Novell GroupWise](../Page/Novell_GroupWise.md "wikilink")
-  - [QQ](../Page/QQ.md "wikilink")
+    Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")
+  - [Novell
+    GroupWise](https://zh.wikipedia.org/wiki/Novell_GroupWise "wikilink")
+  - [QQ](https://zh.wikipedia.org/wiki/QQ "wikilink")
   - [SMS（手機簡訊）](../Page/簡訊.md "wikilink")
   - [Skype](../Page/Skype.md "wikilink")（需安裝 [Kopete
     Skype](http://extragear.kde.org/apps/kopete%20skype/) 擴充程式）
-  - [Xfire](../Page/Xfire.md "wikilink") via the
+  - [Xfire](https://zh.wikipedia.org/wiki/Xfire "wikilink") via the
     [kopete-xfire](http://code.google.com/p/kopete-xfire) plugin
   - [Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")
 
 ## 功能
 
-  - 整合 [KAddressBook](../Page/KAddressBook.md "wikilink") 和
-    [KMail](../Page/KMail.md "wikilink")
+  - 整合
+    [KAddressBook](https://zh.wikipedia.org/wiki/KAddressBook "wikilink")
+    和 [KMail](https://zh.wikipedia.org/wiki/KMail "wikilink")
   - MSN 與 Yahoo\! messenger 支援 webcam
 
 ## 外掛程式
@@ -43,7 +46,7 @@ Kopete 所支援的通訊協定列表：
 ## 参见
 
   - [KMess](../Page/KMess.md "wikilink")
-  - [即时通讯软件列表](../Page/即时通讯软件列表.md "wikilink")
+  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
   - [即时通讯软件比较](../Page/即时通讯软件比较.md "wikilink")
 
 ## 外部链接

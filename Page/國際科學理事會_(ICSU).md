@@ -1,18 +1,19 @@
 **國際科學理事會**（），簡稱**國際科聯**（），舊稱**國際科學聯合會理事會**（**I**nternational
 **C**ouncil of **S**cientific
-**U**nions），是世界上最大的[非政府組織及](../Page/非政府組織.md "wikilink")[國際學術組織之一](../Page/國際學術組織.md "wikilink")。
+**U**nions），是世界上最大的[非政府組織及](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")[國際學術組織之一](https://zh.wikipedia.org/wiki/國際學術組織 "wikilink")。
 
 [国际科学理事会 (International Council for Science,
 ICSU）和](../Page/國際科學理事會_\(ICSU\).md "wikilink")[国际社会科学理事会（International
 Social Science
 Council，ISSC）于](../Page/国际社会科学理事会.md "wikilink")2018年合并为[國際科學理事會（International
 Science
-Council,ISC）](../Page/國際科學理事會_\(ISC\).md "wikilink")。\[1\]\[2\]\[3\]
+Council,ISC）](https://zh.wikipedia.org/wiki/國際科學理事會_\(ISC\) "wikilink")。\[1\]\[2\]\[3\]
 
 ## 歷史與宗旨
 
-它的前身為[國際研究理事會](../Page/國際研究理事會.md "wikilink")（International Research
-Council），1931年於[比利時](../Page/比利時.md "wikilink")[布魯塞爾成立](../Page/布魯塞爾.md "wikilink")。理事會的宗旨是鼓勵及推動國際科技與學術活動，促進國際科學理事會會員及各個國家會員間之合作，促進、規劃、協調或參加國際科技計畫推展事項，擔任國際性科學議題之諮商組織，促進大眾理解科學等等。於1998年4月改為現名，[總部及](../Page/總部.md "wikilink")[秘書處則遷往](../Page/秘書處.md "wikilink")[法國](../Page/法國.md "wikilink")[巴黎](../Page/巴黎.md "wikilink")。
+它的前身為[國際研究理事會](https://zh.wikipedia.org/wiki/國際研究理事會 "wikilink")（International
+Research
+Council），1931年於[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[布魯塞爾成立](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")。理事會的宗旨是鼓勵及推動國際科技與學術活動，促進國際科學理事會會員及各個國家會員間之合作，促進、規劃、協調或參加國際科技計畫推展事項，擔任國際性科學議題之諮商組織，促進大眾理解科學等等。於1998年4月改為現名，[總部及](https://zh.wikipedia.org/wiki/總部 "wikilink")[秘書處則遷往](https://zh.wikipedia.org/wiki/秘書處 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")。
 
 理事會集中了在自然科學各個領域的專家及學者代表，在它所召開的各個會議中經常反映出各國科學界共同關心的研究問題，同時也代表了當代世界科學發展的水準與動向。
 
@@ -25,11 +26,11 @@ Council），1931年於[比利時](../Page/比利時.md "wikilink")[布魯塞爾
 #### 國際科學聯合成員（Scientific Union）
 
 必須為國際性的非政府專業組織，而且在某一科學領域內已存在6年以上才符合資格。
-[国际纯粹与应用物理联合会](../Page/国际纯粹与应用物理联合会.md "wikilink")，[國際數學聯合會](../Page/國際數學聯合會.md "wikilink")，[國際天文聯合會](../Page/國際天文聯合會.md "wikilink")，[國際純粹與應用化學聯合會等都屬此類成員](../Page/國際純粹與應用化學聯合會.md "wikilink")。
+[国际纯粹与应用物理联合会](https://zh.wikipedia.org/wiki/国际纯粹与应用物理联合会 "wikilink")，[國際數學聯合會](https://zh.wikipedia.org/wiki/國際數學聯合會 "wikilink")，[國際天文聯合會](https://zh.wikipedia.org/wiki/國際天文聯合會 "wikilink")，[國際純粹與應用化學聯合會等都屬此類成員](https://zh.wikipedia.org/wiki/國際純粹與應用化學聯合會 "wikilink")。
 
 #### 國家會員（National Member）
 
-必須為[科學院](../Page/科學院.md "wikilink")、[研究院](../Page/研究院.md "wikilink")、[研究理事會](../Page/研究理事會.md "wikilink")、[科學機構](../Page/科學機構.md "wikilink")、[學術團體](../Page/學術團體.md "wikilink")、[科學學會或協會等的國家級學術組織](../Page/科學學會或協會.md "wikilink")。而且至少須存在4年以上，在特定國家或地區內能構代表某一科學領域的學術團體才符合資格。
+必須為[科學院](https://zh.wikipedia.org/wiki/科學院 "wikilink")、[研究院](https://zh.wikipedia.org/wiki/研究院 "wikilink")、[研究理事會](https://zh.wikipedia.org/wiki/研究理事會 "wikilink")、[科學機構](https://zh.wikipedia.org/wiki/科學機構 "wikilink")、[學術團體](https://zh.wikipedia.org/wiki/學術團體 "wikilink")、[科學學會或協會等的國家級學術組織](https://zh.wikipedia.org/wiki/科學學會或協會 "wikilink")。而且至少須存在4年以上，在特定國家或地區內能構代表某一科學領域的學術團體才符合資格。
 
 來自各個國家的科學家也可以成立科學機構（學院、研究理事會等）申請作為國家會員，或是透過國家會員（每個國家不超過1個）參加或依附於國際科學聯合會而成為附屬成員。
 
@@ -45,7 +46,7 @@ Council），1931年於[比利時](../Page/比利時.md "wikilink")[布魯塞爾
 
 #### 國際科學聯繫成員
 
-指研究領域不屬於國際科學聯合會的範圍，但是為相關研究領域（例如[人類學](../Page/人類學.md "wikilink")、[醫學](../Page/醫學.md "wikilink")、[社會學等](../Page/社會學.md "wikilink")）的科學組織，這類組織至少須存在6年。此類的會員並沒有投票權。
+指研究領域不屬於國際科學聯合會的範圍，但是為相關研究領域（例如[人類學](https://zh.wikipedia.org/wiki/人類學 "wikilink")、[醫學](https://zh.wikipedia.org/wiki/醫學 "wikilink")、[社會學等](https://zh.wikipedia.org/wiki/社會學 "wikilink")）的科學組織，這類組織至少須存在6年。此類的會員並沒有投票權。
 
 #### 區域性聯繫成員
 

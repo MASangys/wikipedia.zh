@@ -1,28 +1,28 @@
 **梅赛德斯-奔驰S级**（[德语](../Page/德语.md "wikilink")：Mercedes-Benz
-S-Class）是[梅赛德斯-奔驰旗下主力的頂級](../Page/梅赛德斯-奔驰.md "wikilink")[轎車系列](../Page/轎車.md "wikilink")，於1954年首度推出，定位於大型豪華車型。其主要竞争对手为[BMW
+S-Class）是[梅赛德斯-奔驰旗下主力的頂級](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[轎車系列](https://zh.wikipedia.org/wiki/轎車 "wikilink")，於1954年首度推出，定位於大型豪華車型。其主要竞争对手为[BMW
 7系列](../Page/BMW_7系列.md "wikilink")（1977年上市）、[Audi
-A8](../Page/Audi_A8.md "wikilink")
+A8](https://zh.wikipedia.org/wiki/Audi_A8 "wikilink")
 （2002年上市）、凌志LS、勞斯萊斯古斯特、賓利Mulsanne、本田里程、豐田皇冠和捷豹XJ等。
 
-S系列在過去逾半個世紀是平治旗下的旗艦車型，許多奔馳最先進的技術都是率先被應用於S系列內，也是世界最暢銷之豪華轎車。在大多數人眼中，S系列都被視為是身份、地位的象徵，包括很多對汽車不熟悉的人。在中國更有**大奔**的綽號，以示有別於[A系或](../Page/梅赛德斯-奔驰A级.md "wikilink")[B系等同門的小巧](../Page/梅赛德斯-奔驰B级.md "wikilink")[大眾車型](../Page/大眾車.md "wikilink")。
+S系列在過去逾半個世紀是平治旗下的旗艦車型，許多奔馳最先進的技術都是率先被應用於S系列內，也是世界最暢銷之豪華轎車。在大多數人眼中，S系列都被視為是身份、地位的象徵，包括很多對汽車不熟悉的人。在中國更有**大奔**的綽號，以示有別於[A系或](../Page/梅赛德斯-奔驰A级.md "wikilink")[B系等同門的小巧](../Page/梅赛德斯-奔驰B级.md "wikilink")[大眾車型](https://zh.wikipedia.org/wiki/大眾車 "wikilink")。
 
 值得注意的是對於平治本身來說S車系不一定是最高級的車系，僅在上世紀八十年代到新世紀初的近三十年間S系就身兼平治的最高車系，而和初代S系同期的**W-100車系**或現在的[邁巴赫才是在其時平治最高的車系](../Page/邁巴赫.md "wikilink")，可這些限量生產的車型少得路人不識的，即使最新的第二代新邁巴赫都是使用了平治S的名號。
 
 ## 型號命名
 
-| 底盤代號                                             | 原廠型號      | 出廠年份                                                                        | 出廠數量    | 德國入門價格     |
-| ------------------------------------------------ | --------- | --------------------------------------------------------------------------- | ------- | ---------- |
-| [W180](../Page/Mercedes-Benz_W180.md "wikilink") | "Ponton"  | [1954-1957](../Page/Mercedes-Benz_S-Class#"Ponton"_\(1954\).md "wikilink")  | 84.645  |            |
-| [W128](../Page/Mercedes-Benz_W128.md "wikilink") | "Ponton"  | [1958-1959](../Page/Mercedes-Benz_S-Class#"Ponton"_\(1954\).md "wikilink")  | 84.645  |            |
-| [W111](../Page/Mercedes-Benz_W111.md "wikilink") | "Fintail" | [1959-1965](../Page/Mercedes-Benz_S-Class#"Fintail"_\(1959\).md "wikilink") | 344.751 |            |
-| [W112](../Page/Mercedes-Benz_W112.md "wikilink") | "Fintail" | [1959-1965](../Page/Mercedes-Benz_S-Class#"Fintail"_\(1959\).md "wikilink") | 344.751 |            |
-| [W108](../Page/Mercedes-Benz_W108.md "wikilink") | N/A       | [1965-1972](../Page/Mercedes-Benz_S-Class#W108_\(1965\).md "wikilink")      | 383.341 |            |
-| [W116](../Page/Mercedes-Benz_W116.md "wikilink") | S-Class   | [1972-1980](../Page/Mercedes-Benz_S-Class#W116_\(1972\).md "wikilink")      | 473.035 | 23.800 DM  |
-| [W126](../Page/Mercedes-Benz_W126.md "wikilink") | S-Class   | [1979-1991](../Page/Mercedes-Benz_S-Class#W126_\(1979\).md "wikilink")      | 818.036 | 35.900 DM  |
-| [W140](../Page/Mercedes-Benz_W140.md "wikilink") | S-Class   | [1991-1998](../Page/Mercedes-Benz_S-Class#W140_\(1991\).md "wikilink")      | 406.532 | 79.000 DM  |
-| [W220](../Page/Mercedes-Benz_W220.md "wikilink") | S-Class   | [1998-2005](../Page/Mercedes-Benz_S-Class#W220_\(1998\).md "wikilink")      | 484.683 | 113.000 DM |
-| [W221](../Page/Mercedes-Benz_W221.md "wikilink") | S-Class   | [2005-2013](../Page/Mercedes-Benz_S-Class#W221_\(2005\).md "wikilink")      | 537.519 | 72.000 €   |
-| [W222](../Page/Mercedes-Benz_W222.md "wikilink") | S-Class   | [2013-](../Page/Mercedes-Benz_S-Class#W222_\(2013\).md "wikilink")          | 目前銷售中   | 80.000 €   |
+| 底盤代號                                                                | 原廠型號      | 出廠年份                                                                                           | 出廠數量    | 德國入門價格     |
+| ------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------- | ------- | ---------- |
+| [W180](https://zh.wikipedia.org/wiki/Mercedes-Benz_W180 "wikilink") | "Ponton"  | [1954-1957](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#"Ponton"_\(1954\) "wikilink")  | 84.645  |            |
+| [W128](https://zh.wikipedia.org/wiki/Mercedes-Benz_W128 "wikilink") | "Ponton"  | [1958-1959](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#"Ponton"_\(1954\) "wikilink")  | 84.645  |            |
+| [W111](https://zh.wikipedia.org/wiki/Mercedes-Benz_W111 "wikilink") | "Fintail" | [1959-1965](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#"Fintail"_\(1959\) "wikilink") | 344.751 |            |
+| [W112](https://zh.wikipedia.org/wiki/Mercedes-Benz_W112 "wikilink") | "Fintail" | [1959-1965](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#"Fintail"_\(1959\) "wikilink") | 344.751 |            |
+| [W108](https://zh.wikipedia.org/wiki/Mercedes-Benz_W108 "wikilink") | N/A       | [1965-1972](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#W108_\(1965\) "wikilink")      | 383.341 |            |
+| [W116](https://zh.wikipedia.org/wiki/Mercedes-Benz_W116 "wikilink") | S-Class   | [1972-1980](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#W116_\(1972\) "wikilink")      | 473.035 | 23.800 DM  |
+| [W126](https://zh.wikipedia.org/wiki/Mercedes-Benz_W126 "wikilink") | S-Class   | [1979-1991](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#W126_\(1979\) "wikilink")      | 818.036 | 35.900 DM  |
+| [W140](https://zh.wikipedia.org/wiki/Mercedes-Benz_W140 "wikilink") | S-Class   | [1991-1998](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#W140_\(1991\) "wikilink")      | 406.532 | 79.000 DM  |
+| [W220](https://zh.wikipedia.org/wiki/Mercedes-Benz_W220 "wikilink") | S-Class   | [1998-2005](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#W220_\(1998\) "wikilink")      | 484.683 | 113.000 DM |
+| [W221](https://zh.wikipedia.org/wiki/Mercedes-Benz_W221 "wikilink") | S-Class   | [2005-2013](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#W221_\(2005\) "wikilink")      | 537.519 | 72.000 €   |
+| [W222](https://zh.wikipedia.org/wiki/Mercedes-Benz_W222 "wikilink") | S-Class   | [2013-](https://zh.wikipedia.org/wiki/Mercedes-Benz_S-Class#W222_\(2013\) "wikilink")          | 目前銷售中   | 80.000 €   |
 
 S系列的名稱是來源於德語「Sonderklasse」，意思是「特殊的級別」。再引申之，則是「專為特定的人而造的汽車」。儘管是於1954年推出，但正式以「S系列」命名，則是1972年的事。而當時已推出了第五代的W116。至於由1954年推出至今，則已共推出了十代。除了一般標準版本的S系列之外，車系中也包含了由原廠直屬高性能車開發部門[AMG所操刀](../Page/梅賽德斯-AMG.md "wikilink")、最頂級的S
 65 AMG高性能版本。
@@ -31,7 +31,7 @@ S系列的名稱是來源於德語「Sonderklasse」，意思是「特殊的級�
 
 ### Ponton（1954年-1959年）
 
-1954年梅賽德斯-奔馳推出代號W180的車系始祖，當時名為「Ponton」的直列六缸轎車，同時另有[轎跑車和](../Page/轎跑車.md "wikilink")[敞篷車型兩個版本](../Page/敞篷車.md "wikilink")，W180一直生產到1957年。
+1954年梅賽德斯-奔馳推出代號W180的車系始祖，當時名為「Ponton」的直列六缸轎車，同時另有[轎跑車和](../Page/轎跑車.md "wikilink")[敞篷車型兩個版本](https://zh.wikipedia.org/wiki/敞篷車 "wikilink")，W180一直生產到1957年。
 
 1958年推出代號W128的「Ponton」，被視為車系的第二代，搭載了2.2L直列六缸引擎，同時也有轎跑車和敞篷車型版本。
 
@@ -41,14 +41,14 @@ fenders），為此車款設計的風格特色。Ponton的動力陣容包括直�
 ### Fintail（1959年-1965年）
 
 [Mercedes-Benz_"300_SE_lang"_(W112.015).jpg](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_"300_SE_lang"_\(W112.015\).jpg "fig:Mercedes-Benz_\"300_SE_lang\"_(W112.015).jpg")
-1959年梅賽德斯-奔馳推出代號W111的四門轎車，當時命名為「Fintail」（德語暱稱Heckflosse），被視為車系第三代。「Fintail」是指其類似五、六十年代[美國流行的魚鰭型汽車尾翼設計](../Page/美國.md "wikilink")，以針對[北美及歐洲市場銷售](../Page/北美.md "wikilink")。梅賽德斯-奔馳稱此尾翼設計是為了方便停車時，後視鏡視距測量使用。「Fintail」系列的推出取代了"Ponton"系列。底盤代號W111，是指當時梅賽德斯-奔馳所有車型的最高等級，包括1959年至1968年生產的四門轎車，1961年至1971年生產的雙門轎跑車和敞篷車款。
+1959年梅賽德斯-奔馳推出代號W111的四門轎車，當時命名為「Fintail」（德語暱稱Heckflosse），被視為車系第三代。「Fintail」是指其類似五、六十年代[美國流行的魚鰭型汽車尾翼設計](https://zh.wikipedia.org/wiki/美國 "wikilink")，以針對[北美及歐洲市場銷售](https://zh.wikipedia.org/wiki/北美 "wikilink")。梅賽德斯-奔馳稱此尾翼設計是為了方便停車時，後視鏡視距測量使用。「Fintail」系列的推出取代了"Ponton"系列。底盤代號W111，是指當時梅賽德斯-奔馳所有車型的最高等級，包括1959年至1968年生產的四門轎車，1961年至1971年生產的雙門轎跑車和敞篷車款。
 最初僅有W111的「Fintail」，採用2.2升6缸引擎的車型。之後推出底盤代號W114的進階「Fintail」，使用擴缸3升引擎的豪華版本，後來被視為車系第四代。另外還有4缸引擎的低階入門版本，底盤代號W110「Fintail」。這三個版本，無論雙門或四門車款，都建造在同一個底盤基礎上。
 
 ### W108（1965年-1972年）
 
 1965年當Fintail開始顯現老態，設計風格過時，梅賽德斯-賓士推出了底盤代號為W108，更新和更大的250S上市。W108一開始推出，搭載了編號M129的2.5升直6引擎車型。W108其中包括250S、250SE、280S、280SE與280SEL（長軸）的車型，取代了原有的Fintail車系，也消去了以前Fintail的設計特徵。
 
-在此期間，稱號S或SE使用在短軸車型上，包括250S、250SE、280S、280SE和300SE，車款名稱中的「E」字在[德語中代表](../Page/德語.md "wikilink")「噴射」（Einspritzen）之意，以標示這些車款搭載了噴射引擎，而非過去使用[化油器的設計](../Page/化油器.md "wikilink")。長軸距車款（較標準款後車廂再延伸4英吋），則命名為SEL（L字取自德語中的「lang」，意指長軸)。梅賽德斯-奔馳W108自問世以來，一直包括兩個軸距長度，但並不是所有的軸距在每一個國家銷售。1969年推出第一款V8引擎，罕見的大排氣量6.3升V8豪華車型300SE和300SEL，車型被列為新底盤代號W109，相較於W108的螺旋彈簧後懸吊，W109使用前後空氣懸吊更為舒適。更強大的300SE、300SEL車型，就是最豪華的版本W108，內裝使用了胡桃實木內飾，自動排檔器以及電動升降車窗。
+在此期間，稱號S或SE使用在短軸車型上，包括250S、250SE、280S、280SE和300SE，車款名稱中的「E」字在[德語中代表](https://zh.wikipedia.org/wiki/德語 "wikilink")「噴射」（Einspritzen）之意，以標示這些車款搭載了噴射引擎，而非過去使用[化油器的設計](../Page/化油器.md "wikilink")。長軸距車款（較標準款後車廂再延伸4英吋），則命名為SEL（L字取自德語中的「lang」，意指長軸)。梅賽德斯-奔馳W108自問世以來，一直包括兩個軸距長度，但並不是所有的軸距在每一個國家銷售。1969年推出第一款V8引擎，罕見的大排氣量6.3升V8豪華車型300SE和300SEL，車型被列為新底盤代號W109，相較於W108的螺旋彈簧後懸吊，W109使用前後空氣懸吊更為舒適。更強大的300SE、300SEL車型，就是最豪華的版本W108，內裝使用了胡桃實木內飾，自動排檔器以及電動升降車窗。
 
 1968年，W108取消了250SE，取而代之的是更大排氣的280S和280SE，而250S則繼續擔任系列入門款直到1969年。300SE/SEL的3升6缸引擎因油耗緣故被取消，改載2.8升的SL型號引擎（底盤代號W113)，後續更換為3.5升V8引擎（裝載於歐規款的SE和SEL）和4.5升（僅限美國）和6.3升（僅限SEL)。
 W108/109最終取代了W111，不再提供四缸引擎車款，並由此建立起梅賽德斯-賓士製造豪華車的地位，不斷延續至今。
@@ -59,7 +59,7 @@ W108/109最終取代了W111，不再提供四缸引擎車款，並由此建立�
 ### W116（1972年-1980年）
 
 1972年，梅賽德斯-賓士推出了W116 S系列，史上第一個被劃作S系列的車型。W116
-S系列的特點是裝置[四輪獨立懸掛系統和碟煞系統](../Page/四輪獨立懸掛.md "wikilink")。
+S系列的特點是裝置[四輪獨立懸掛系統和碟煞系統](https://zh.wikipedia.org/wiki/四輪獨立懸掛 "wikilink")。
 
 W116 S系列共有280、350和450型號冠有SE和SEL版本，整個W116
 S系列的生產總量為473,035輛。這是個具有開創性的車款，並在梅賽德斯-賓士史上的第一次，公然強調造車哲學上，車輛安全高於造型設計。在1960年代後期開始的“車輛安全研究”，將眾多安全功能融入整體設計。
@@ -104,7 +104,7 @@ S系列与W124外形相似，像其放大比例。W140是最后一款“盒”�
 
 W140
 S系列導入了許多創新科技，如煞車輔助系統，車身動態穩定系統，乘員側邊安全氣曩，電動調整可記憶後視鏡，車門及行李廂門電動吸門關閉，遙控關閉行李箱門，電動窗防夾功能，電動升降倒車標記旗杆（1995年修改為聲納倒車雷達），12方向電動可加熱前座，可以記憶3種座位設定模式，後排乘客化妝鏡，保持車室恆溫的雙層車窗隔熱玻璃，四區獨立恆溫空調，電動後遮陽簾，電動雨刷清洗前擋風玻璃，熄火後可開啓冷暖氣系統，真皮內裝核桃實木飾板等等。W140
-600SEL这具代号M120，缸盖如肋骨的引擎，生產自1986年11月。为了技术可靠性，由两具直列6缸引擎融合而成。600SEL上的6.0升M120引擎，排气量5987cc，输出功率達300kW（414匹），扭力580Nm，是[梅赛德斯-奔驰当时最强劲的引擎](../Page/梅赛德斯-奔驰.md "wikilink")，其动力输出，超过同年宾利大陆的6.8升V8和阿斯顿马丁DB7的6.0升V12。将近兩噸的车重，从静止到100km/h需6.3秒。
+600SEL这具代号M120，缸盖如肋骨的引擎，生產自1986年11月。为了技术可靠性，由两具直列6缸引擎融合而成。600SEL上的6.0升M120引擎，排气量5987cc，输出功率達300kW（414匹），扭力580Nm，是[梅赛德斯-奔驰当时最强劲的引擎](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")，其动力输出，超过同年宾利大陆的6.8升V8和阿斯顿马丁DB7的6.0升V12。将近兩噸的车重，从静止到100km/h需6.3秒。
 
 W140是经历90年代中期巨大变革的一款车。1993年6月份，梅赛德斯-奔驰更改命名，SE系列被改为S，300SE 2.8，300SE，
 400SE， 500SE，
@@ -138,7 +138,7 @@ S系列销量，無法定义其成功。其實這不仅是一款车，还是一�
 S系列才是真正的梅赛德斯-奔驰。
 
 W140 S系列是梅賽德斯-奔馳成立以来，研发耗资最大的车款，耗費达1亿美元。龐大的研发成本和其銷量，让W140
-S系列獲利未若以往，梅賽德斯-奔馳不願W140平台就此退出，再加上90年代收购劳斯莱斯和宾利競爭失利，1997年决定用W140平台，复活旗下曾经的[迈巴赫](../Page/迈巴赫.md "wikilink")。因外观相似
+S系列獲利未若以往，梅賽德斯-奔馳不願W140平台就此退出，再加上90年代收购劳斯莱斯和宾利競爭失利，1997年决定用W140平台，复活旗下曾经的[迈巴赫](https://zh.wikipedia.org/wiki/迈巴赫 "wikilink")。因外观相似
 W220 或 W221 S系列，但迈巴赫在1997年发表，W221 S系列晚了近十年，應該是W221 S系列的外形借鉴了迈巴赫。W140
 S系列设计是空前绝后的，史上体型最大的S系列，史上油箱容积最大的S系列，史上第一款配置超过同期劳斯莱斯、宾利及阿斯顿马丁的S系列。
 
@@ -153,12 +153,12 @@ S系列配備全新AIRMATIC空氣懸吊系統和主動通風座椅（座椅使�
 
 美國消費者報告雜誌，對初登場W220
 S系列的可靠性，“不佳”的最低評級，並稱之為“最低可靠的豪華汽車之一”。但Edmunds網站則給W220總分五星的五星，而MSN汽車網站的專家評分是總分10的9.0。2011年3月，消費者報告已改變了對W220的可靠性評級，2001年和2002年的W220
-S系列提高到“平均”評級。[富比士雜誌則稱W](../Page/富比士.md "wikilink")220的S500“製造得非常好”。前期款W220
+S系列提高到“平均”評級。[富比士雜誌則稱W](https://zh.wikipedia.org/wiki/富比士 "wikilink")220的S500“製造得非常好”。前期款W220
 S系列後懸吊和液壓燃油管路問題被召回，但其中沒有召回2005年及2006年式車型。
 
 2002年，梅賽德斯-奔馳推出了世界上第一個主動安全系統PRE-SAFE，配備在W220
 S系列，同時進行S系列小改款，小改款稍微直立了進氣格柵，配備氙氣放電大燈賦予了新的透明車燈外殼，取代了早期的半透明設計。前保險桿的下進氣口也重新設計。2005年，W220
-S系列成為第一款車，德國技術合規委員會[TÜV研究所認證的具環保元件車](../Page/TÜV.md "wikilink")。
+S系列成為第一款車，德國技術合規委員會[TÜV研究所認證的具環保元件車](https://zh.wikipedia.org/wiki/TÜV "wikilink")。
 
 ### W221（2005年-2013年）
 
@@ -178,13 +178,14 @@ CDI和S320 CDI。在北美和日本發表的大排氣量W221是S550（S500銷往
 AMG的雙渦輪增壓V-12引擎，可選配包括警燈、警報器、防爆輪胎、槍架、Lanix集成主機網絡警察電腦、囚犯籠和客制座椅，級別為B6/B7的裝甲。S-600P僅於墨西哥生產，也只有長軸距版。墨西哥政府使用S-600P，主要用於運送重要人物，但在富裕的城市的幾個警察部門，使用作為巡邏車輛。中國廣州的警察部門，也採購少量的S-600P，為保護政府重要人物。
 
 2010年，W221
-S系列進行小改款。外邊緣嵌合大燈的LED日間行車燈，雙[氙氣大燈配備自動行駛轉向](../Page/氙氣大燈.md "wikilink")，後車燈52顆獨特排列的LED，修改尾燈與車身同色的條狀飾條。其他顯著變化是更明顯的箭頭形進氣格柵，再加上一個新的前保險桿與鍍鉻的進氣口。全新更時尚的後視鏡附LED轉向燈，融入後保險槓的排氣尾管。帶更多現代風格輪圈。以及全新S400油電混合雙動力版本，賦予更佳的燃油動力效率。
+S系列進行小改款。外邊緣嵌合大燈的LED日間行車燈，雙[氙氣大燈配備自動行駛轉向](https://zh.wikipedia.org/wiki/氙氣大燈 "wikilink")，後車燈52顆獨特排列的LED，修改尾燈與車身同色的條狀飾條。其他顯著變化是更明顯的箭頭形進氣格柵，再加上一個新的前保險桿與鍍鉻的進氣口。全新更時尚的後視鏡附LED轉向燈，融入後保險槓的排氣尾管。帶更多現代風格輪圈。以及全新S400油電混合雙動力版本，賦予更佳的燃油動力效率。
 
 ### W222（2013年-）
 
-2013年5月15日梅赛德斯-奔驰在德國[漢堡機場正式發表W](../Page/漢堡機場.md "wikilink")222
+2013年5月15日梅赛德斯-奔驰在德國[漢堡機場正式發表W](https://zh.wikipedia.org/wiki/漢堡機場 "wikilink")222
 S系列轎車，具備較前款高聳的水箱罩，及更佳的流體力學車型，風阻係數Cd值只有0.24，300 BlueTEC
-Hybrid僅有0.23。但W222 S系列重點於其創新科技，加強了駕駛的舒適感和安全性，凸顯其不僅豪華，而且科技更為先進。W222
+Hybrid僅有0.23。但W222
+S系列重點於其創新科技，加強了駕駛的舒適感和安全性，凸顯其不僅豪華，而且科技更為先進。W222
 S系列配備能接收360度攝影機影像，並取得的影像資訊的中控台，同時搭載超音波感應器、長短距雷達、車頭攝影機等偵測裝置，以及主動[車道偏離警示](../Page/車道偏離警示.md "wikilink")、主動盲點警示及警告標誌辨識系統，能讓駕駛人穩定行駛於車道、與其他車輛保持安全車距，並在行人穿越馬路前還能預先防撞。
 魔幻車體控制系統（Magic Body
 Control），藉由安裝在擋風玻璃上的攝影鏡頭，能事先偵測顛簸路面，並依路面對主動式懸吊系統進行調整，讓行車更加舒適平穩。

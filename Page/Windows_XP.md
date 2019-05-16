@@ -1,5 +1,5 @@
 **Windows
-XP**（开发代号：）是[微软公司推出供](../Page/微软公司.md "wikilink")[个人电脑使用的](../Page/个人电脑.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，包括商用及家用的[桌上型电脑](../Page/桌上型电脑.md "wikilink")、[笔记本电脑](../Page/笔记本电脑.md "wikilink")、和[平板电脑等](../Page/平板电脑.md "wikilink")。其[RTM版于](../Page/软件版本周期#RTM.md "wikilink")2001年8月24日发布；零售版于2001年10月25日上市\[1\]。其名字「****」的意思是[英文中的](../Page/英文.md "wikilink")「体验」（）\[2\]。Windows
+XP**（开发代号：）是[微软公司推出供](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[个人电脑使用的](../Page/个人电脑.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，包括商用及家用的[桌上型电脑](https://zh.wikipedia.org/wiki/桌上型电脑 "wikilink")、[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")、和[平板电脑等](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。其[RTM版于](https://zh.wikipedia.org/wiki/软件版本周期#RTM "wikilink")2001年8月24日发布；零售版于2001年10月25日上市\[1\]。其名字「****」的意思是[英文中的](https://zh.wikipedia.org/wiki/英文 "wikilink")「体验」（）\[2\]。Windows
 XP是继[Windows 2000及](../Page/Windows_2000.md "wikilink")[Windows
 Me之后的下一代](../Page/Windows_Me.md "wikilink")操作系统，也是微软首个面向消费者且使用Windows
 NT架构的操作系统。Windows XP的外部版本是2002，內部版本是5.1（即Windows NT
@@ -13,11 +13,11 @@ XP。\[3\]\[4\]
 XP也有几个只在特定地区销售的版本，如Windows XP Starter Edition等。
 
 基于[NT的操作系统比](../Page/Windows_NT.md "wikilink")[9x系列有更佳的稳定性及效能](../Page/Windows_9x.md "wikilink")。Windows
-XP中出现一个新的[图形使用者界面](../Page/图形使用者界面.md "wikilink")，因为微软想提供一个比过去Windows版本[易用性更好的系統](../Page/易用性.md "wikilink")。Windows
-XP亦是首个使用[产品启用与](../Page/产品启用.md "wikilink")[盜版竞争的Windows](../Page/盜版.md "wikilink")，然而Windows
+XP中出现一个新的[图形使用者界面](https://zh.wikipedia.org/wiki/图形使用者界面 "wikilink")，因为微软想提供一个比过去Windows版本[易用性更好的系統](../Page/易用性.md "wikilink")。Windows
+XP亦是首个使用[产品启用与](https://zh.wikipedia.org/wiki/产品启用 "wikilink")[盜版竞争的Windows](https://zh.wikipedia.org/wiki/盜版 "wikilink")，然而Windows
 XP亦被部分用户批评其安全漏洞、与应用程序（如[Internet Explorer
 6及](../Page/Internet_Explorer_6.md "wikilink")[Windows Media
-Player](../Page/Windows_Media_Player.md "wikilink")）需紧密结合和预设使用者界面等。在之后的SP2、SP3和[Internet
+Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")）需紧密结合和预设使用者界面等。在之后的SP2、SP3和[Internet
 Explorer 8的版本解決其中部分问题](../Page/Internet_Explorer_8.md "wikilink")。
 
 2011年9月底前，Windows XP是世界上使用人数最多的操作系统，市场占有率达42%；在2007年1月，Windows
@@ -56,59 +56,60 @@ Windows
 XP最主要的兩個版本分別是為家庭用戶設計的XP家庭版，及為商業用戶和高級用戶設計的XP專業版。專業版包含一些進階的功能，這些功能是普遍家庭用戶很少機會用到的。這兩個版本均可在電腦軟件銷售店中買到，亦會預先安裝在大部份電腦生產商銷售的電腦上。直至2008年中，這兩個版本均會繼續銷售。第三個版本名為Windows
 XP Media Center Edition（媒体中心版），於2002年引入，並且每年更新直至2006年加入新的數碼媒體、廣播電視和Media
 Center
-Entender功能。這版本與家用版及專業版不同的地方是這個版本並不能以零售方式購買，只可能通過[OEM途徑或預先安裝在市場上一些稱為](../Page/OEM.md "wikilink")「個人電腦媒體中心」（media
+Entender功能。這版本與家用版及專業版不同的地方是這個版本並不能以零售方式購買，只可能通過[OEM途徑或預先安裝在市場上一些稱為](https://zh.wikipedia.org/wiki/OEM "wikilink")「個人電腦媒體中心」（media
 center PCs）的電腦。
 
-再者，微軟還推出兩個64位元的版本，其中一個版本是特別針對以[安騰為基礎的工作站推出](../Page/安騰.md "wikilink")，這個版本於2001年時推出，與家用版及專業版兩個版本的推出時間相近。但是在幾年後，隨著Itanium硬體的硬體販售商因為工作站等級的機器銷售量不高而將其停售後也跟著停止發售。另一個版本，被稱為Windows
+再者，微軟還推出兩個64位元的版本，其中一個版本是特別針對以[安騰為基礎的工作站推出](https://zh.wikipedia.org/wiki/安騰 "wikilink")，這個版本於2001年時推出，與家用版及專業版兩個版本的推出時間相近。但是在幾年後，隨著Itanium硬體的硬體販售商因為工作站等級的機器銷售量不高而將其停售後也跟著停止發售。另一個版本，被稱為Windows
 XP 64位元專業版，支援Intel IA-32擴充的x86-64處理器。x86-64在AMD被稱為「AMD
 64」，主要用在AMD的[Opteron和](../Page/Opteron.md "wikilink")[Athlon
-64處理器](../Page/Athlon_64.md "wikilink")，而在Intel被稱為「Intel
+64處理器](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")，而在Intel被稱為「Intel
 64」（過去被稱為IA-32e和EM64T），主要用在Intel的[Pentium
-4及之後的處理器上](../Page/Pentium_4.md "wikilink")。
+4及之後的處理器上](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")。
 [HP_Tablet_PC_running_Windows_XP_(Tablet_PC_edition)_(2006).jpg](https://zh.wikipedia.org/wiki/File:HP_Tablet_PC_running_Windows_XP_\(Tablet_PC_edition\)_\(2006\).jpg "fig:HP_Tablet_PC_running_Windows_XP_(Tablet_PC_edition)_(2006).jpg")
 Windows XP Tablet PC
-Edition生產給一種特別設計的手提電腦──[平板电脑](../Page/平板电脑.md "wikilink")（tablet
+Edition生產給一種特別設計的手提電腦──[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")（tablet
 PC）。這個版本相容輕觸式螢幕，並支持手寫記事及直向屏幕。
 
 另外，微軟也推出[Windows XP
-Embedded](../Page/Windows_XP_Embedded.md "wikilink")，這是一款針對消費性電子產品、[機上盒](../Page/機上盒.md "wikilink")、[自動櫃員機](../Page/自動櫃員機.md "wikilink")、醫療器材、遊戲裝置、[銷售點終端機](../Page/銷售時點情報系統.md "wikilink")（point-of-sale
-terminals）、[VoIP裝置所推出的版本](../Page/IP電話.md "wikilink")。在2006年7月，微軟又推出[Windows
+Embedded](https://zh.wikipedia.org/wiki/Windows_XP_Embedded "wikilink")，這是一款針對消費性電子產品、[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")、[自動櫃員機](../Page/自動櫃員機.md "wikilink")、醫療器材、遊戲裝置、[銷售點終端機](../Page/銷售時點情報系統.md "wikilink")（point-of-sale
+terminals）、[VoIP裝置所推出的版本](https://zh.wikipedia.org/wiki/IP電話 "wikilink")。在2006年7月，微軟又推出[Windows
 Fundamentals for Legacy
 PCs](../Page/Windows_Fundamentals_for_Legacy_PCs.md "wikilink")，此為精簡版的Windows
 XP Embedded，其主要目標是針對那些老舊的機器而設計。而这个版本只有對微軟軟體保證（[Software
-Assurance](../Page/Microsoft_Software_Assurance.md "wikilink")）的客戶推出。主要是針對那些想要升級Windows
+Assurance](https://zh.wikipedia.org/wiki/Microsoft_Software_Assurance "wikilink")）的客戶推出。主要是針對那些想要升級Windows
 XP以獲取其安全上及管理能力上的優勢，但又無力負擔購買新機器的公司而推出。
 
 ### 特定市场的版本
 
 Windows XP Starter Edition是Windows
-XP一个在某些国家可用的低廉版本，包括[泰国](../Page/泰国.md "wikilink")、[土耳其](../Page/土耳其.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[印尼](../Page/印尼.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[印度](../Page/印度.md "wikilink")、[哥伦比亚](../Page/哥伦比亚.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")、[秘鲁](../Page/秘鲁.md "wikilink")、[玻利维亚](../Page/玻利维亚.md "wikilink")、[智利](../Page/智利.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[厄瓜多尔](../Page/厄瓜多尔.md "wikilink")、[乌拉圭和](../Page/乌拉圭.md "wikilink")[委内瑞拉](../Page/委内瑞拉.md "wikilink")。这点类似于Windows
+XP一个在某些国家可用的低廉版本，包括[泰国](../Page/泰国.md "wikilink")、[土耳其](../Page/土耳其.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[印度](../Page/印度.md "wikilink")、[哥伦比亚](../Page/哥伦比亚.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")、[秘鲁](../Page/秘鲁.md "wikilink")、[玻利维亚](https://zh.wikipedia.org/wiki/玻利维亚 "wikilink")、[智利](../Page/智利.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[厄瓜多尔](../Page/厄瓜多尔.md "wikilink")、[乌拉圭和](../Page/乌拉圭.md "wikilink")[委内瑞拉](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink")。这点类似于Windows
 XP家庭版，但Starter
-Edition仅限于低端的硬件，一次只能运行3个程序，而且默认去除或者禁止某些功能。每个国家的版本针对该国而定制，包括风景区的桌面背景，对于那些可能不说英语的国家提供[本地化帮助功能](../Page/软件本地化.md "wikilink")，以及为了使得比传统Windows
+Edition仅限于低端的硬件，一次只能运行3个程序，而且默认去除或者禁止某些功能。每个国家的版本针对该国而定制，包括风景区的桌面背景，对于那些可能不说英语的国家提供[本地化帮助功能](https://zh.wikipedia.org/wiki/软件本地化 "wikilink")，以及为了使得比传统Windows
 XP安装更容易而设计的其他默认配置。例如马来西亚的版本就包含吉隆坡天际线的桌面背景，但该版本不设繁体与简体中文版本。\[13\]
 
-在2004年3月，[歐洲委員會罰款微軟](../Page/歐洲委員會.md "wikilink")4.97億歐元並規定該公司提供一款沒有[Windows
+在2004年3月，[歐洲委員會罰款微軟](https://zh.wikipedia.org/wiki/歐洲委員會 "wikilink")4.97億歐元並規定該公司提供一款沒有[Windows
 Media
-Player的Windows版本](../Page/Windows_Media_Player.md "wikilink")。委員會斷定微軟「違反歐盟的競爭法，利用其在個人電腦作業系統市場上近乎[壟斷的市場](../Page/壟斷.md "wikilink")，壟斷工作組[伺服器作業系統和媒體播放器的市場](../Page/伺服器.md "wikilink")。在2004年至2005年的上訴失敗後，微軟與歐盟達成協議，會釋出一個順從法院的版本──Windows
+Player的Windows版本](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")。委員會斷定微軟「違反歐盟的競爭法，利用其在個人電腦作業系統市場上近乎[壟斷的市場](https://zh.wikipedia.org/wiki/壟斷 "wikilink")，壟斷工作組[伺服器作業系統和媒體播放器的市場](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。在2004年至2005年的上訴失敗後，微軟與歐盟達成協議，會釋出一個順從法院的版本──Windows
 XP Edition N。這個版本沒有內置該公司出產的Windows Media
 Player，但改為鼓勵用戶下載及使用他們公司的媒體播放器。微軟希望把這個Windows版本命名為「Reduced
 Media Edition」，但歐盟管理者反對，並建議以「Edition N」作為Windows XP的家用版及專業版的命名，「N」代表「not
 with Windows Media Player」（不包含Windows Media
 Player）\[14\]。事實上，由於這版本的價錢與內置Windows
 Media
-Player版本的價錢一樣，[戴爾](../Page/戴爾.md "wikilink")、[惠普](../Page/惠普.md "wikilink")、[聯想及](../Page/聯想.md "wikilink")[富士通-西門子電腦公司選擇不進貨該產品](../Page/富士通-西門子電腦公司.md "wikilink")。但是，戴爾亦曾提供此作業系統一段短時間。消費者對此產品的興趣大減，概略地估算，僅1,500套產品出貨給OEM廠商，且沒有任何消費者的消費報告。\[15\]\[16\]\[17\]\[18\]\[19\]在2005年12月，韓國公平交易委員會命令微軟提供不包含[Windows
-Media Player或者](../Page/Windows_Media_Player.md "wikilink")[Windows
+Player版本的價錢一樣，[戴爾](../Page/戴爾.md "wikilink")、[惠普](../Page/惠普.md "wikilink")、[聯想及](../Page/聯想.md "wikilink")[富士通-西門子電腦公司選擇不進貨該產品](https://zh.wikipedia.org/wiki/富士通-西門子電腦公司 "wikilink")。但是，戴爾亦曾提供此作業系統一段短時間。消費者對此產品的興趣大減，概略地估算，僅1,500套產品出貨給OEM廠商，且沒有任何消費者的消費報告。\[15\]\[16\]\[17\]\[18\]\[19\]在2005年12月，韓國公平交易委員會命令微軟提供不包含[Windows
+Media
+Player或者](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")[Windows
 Messenger的Windows](../Page/Windows_Messenger.md "wikilink") XP及[Windows
 Server
 2003版本](../Page/Windows_Server_2003.md "wikilink")。\[20\]與歐洲委員會的判決相似，這個判決基於微軟在濫用其佔有優勢的市場，把其公司的其他產品推到消費者。與那個判決不同，但是，微軟也被迫在南韓的市場撤回不符合規定Windows版本。這次判決的結果是微軟在2006年8月釋出「K」及「KN」改變的家用版及專業版。
 
 同年，微软公司还发布针对「subscription-based」和「pay-as-you-go」之定价模式的另外两个版本的Windows
-XP家庭版。这些版本被作为微软倡议的一部分而发布，是结合使用的硬件以强制时间限制使用的Windows操作系统。其目标市场是新兴经济体，如[巴西](../Page/巴西.md "wikilink")、[匈牙利和](../Page/匈牙利.md "wikilink")[越南](../Page/越南.md "wikilink")。\[21\]\[22\]
+XP家庭版。这些版本被作为微软倡议的一部分而发布，是结合使用的硬件以强制时间限制使用的Windows操作系统。其目标市场是新兴经济体，如[巴西](../Page/巴西.md "wikilink")、[匈牙利和](../Page/匈牙利.md "wikilink")[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")。\[21\]\[22\]
 
 ### 語言
 
 Windows
-XP可用于很多语言。\[23\]对某些可用的语言，[MUI](../Page/Multilingual_User_Interface.md "wikilink")（多語言使用者界面）包和语言-{界面}-包可以翻译用户界面。\[24\]\[25\]
+XP可用于很多语言。\[23\]对某些可用的语言，[MUI](https://zh.wikipedia.org/wiki/Multilingual_User_Interface "wikilink")（多語言使用者界面）包和语言-{界面}-包可以翻译用户界面。\[24\]\[25\]
 
 ## 特色簡介
 
@@ -117,10 +118,10 @@ Windows XP引入數個新特色到Windows產品線，包括：
   - 更快的啟動與休眠過程\[26\]
   - 提供驅動程序回復功能以應對由於更新或升級設備驅動程序可能造成的問題。\[27\]
   - 提供更加友好的用戶界面，以及為桌面環境開發主題的架構。
-  - [快速切換使用者](../Page/快速切換使用者.md "wikilink")，允許一個使用者儲存當前狀態及已開啟的程式，同時允許另一使用者在不影響該等資訊的情況下登入。
-  - [ClearType字體渲染機制](../Page/ClearType.md "wikilink")，用以提高[液晶顯示器上的文字可讀性](../Page/液晶顯示器.md "wikilink")。\[28\]
+  - [快速切換使用者](https://zh.wikipedia.org/wiki/快速切換使用者 "wikilink")，允許一個使用者儲存當前狀態及已開啟的程式，同時允許另一使用者在不影響該等資訊的情況下登入。
+  - [ClearType字體渲染機制](../Page/ClearType.md "wikilink")，用以提高[液晶顯示器上的文字可讀性](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")。\[28\]
   - 遠端桌面功能允許使用者通過網絡遠程連接一台運行Windows XP的機器操作應用程序、文件、打印機和設備。\[29\]
-  - 支持多數[DSL調制解調器以及](../Page/DSL.md "wikilink")[無線網絡連接](../Page/IEEE_802.11.md "wikilink")，以及通過[火線和](../Page/IEEE_1394.md "wikilink")[藍牙的網絡連接](../Page/藍牙.md "wikilink")。
+  - 支持多數[DSL調制解調器以及](https://zh.wikipedia.org/wiki/DSL "wikilink")[無線網絡連接](../Page/IEEE_802.11.md "wikilink")，以及通過[火線和](../Page/IEEE_1394.md "wikilink")[藍牙的網絡連接](../Page/藍牙.md "wikilink")。
 
 ## 用戶界面
 
@@ -138,20 +139,20 @@ XP的特色之一是它拥有一個基於任務的新[图形用户界面](../Pag
 
 Windows
 XP會分析視覺效果對效能的影響，並根据分析结果決定是否開啟这些效果，以避免這些新功能消耗過多的處理資源。用戶亦可以更進一步的個人化這些設定。\[34\]某些效果如[Alpha
-blending](../Page/Alpha_blending.md "wikilink")（透明及淡出），很多新的顯示卡都能完全處理。但是，如果顯示卡並不支援透明及淡出，效能會大大下降，微軟推薦手動關閉這個功能。\[35\]當[顯存達到](../Page/顯存.md "wikilink")64
-[MiB以上時](../Page/MiB.md "wikilink")，以上特效預設為開啟。「Luna」僅表示一個特定的視覺化樣式，並非Windows
+blending](https://zh.wikipedia.org/wiki/Alpha_blending "wikilink")（透明及淡出），很多新的顯示卡都能完全處理。但是，如果顯示卡並不支援透明及淡出，效能會大大下降，微軟推薦手動關閉這個功能。\[35\]當[顯存達到](https://zh.wikipedia.org/wiki/顯存 "wikilink")64
+[MiB以上時](https://zh.wikipedia.org/wiki/MiB "wikilink")，以上特效預設為開啟。「Luna」僅表示一個特定的視覺化樣式，並非Windows
 XP整體的所有新使用者界面特色。通過某些工具可以破解`uxtheme.dll`文件使Windows XP可以使用第三方主題。
 
 除了內置的Windows XP主題之外，还有一個之前未曾發佈的主題，名為「[Royale
 Noir](../Page/Windows_XP主题.md "wikilink")」。它有一個與Windows
 Vista十分相似的深藍色[任务栏](../Page/任务栏.md "wikilink")
-，以**非官方**的形式下載。\[36\]之后微軟官方又正式發佈一款名為「[Zune](../Page/Windows_XP可视化主题.md "wikilink")」的主題，是上述「Royale
+，以**非官方**的形式下載。\[36\]之后微軟官方又正式發佈一款名為「[Zune](https://zh.wikipedia.org/wiki/Windows_XP可视化主题 "wikilink")」的主題，是上述「Royale
 Noir」主題的修改版本，以慶祝Zune可攜式多媒體播放器於2006年11月的發佈。兩個主題的分別僅在視覺上：黑色的任务栏取代深藍色的任务栏，同时橙色的「開始」按鍵取代深藍色的「開始」按鍵。\[37\]此外，內置在媒體中心版本中的Media
 Center「Royale」主題，亦提供下載到所有版本的Windows XP中使用。\[38\]
 
-預設桌面背景牆紙[Bliss](../Page/Bliss.md "wikilink")——一張[BMP格式的照片](../Page/BMP.md "wikilink")——是一幅由美國攝影師[查克·歐里爾](../Page/查克·歐里爾.md "wikilink")（Chuck
-O'Rear）拍攝的[加州](../Page/加州.md "wikilink")[索诺马县](../Page/索诺马县_\(加利福尼亚州\).md "wikilink")（Sonoma
-County）郊外的風景照，当中展现高低起伏的綠山以及飘着[層積雲和](../Page/層積雲.md "wikilink")[卷雲的藍天](../Page/卷雲.md "wikilink")\[39\]。
+預設桌面背景牆紙[Bliss](https://zh.wikipedia.org/wiki/Bliss "wikilink")——一張[BMP格式的照片](https://zh.wikipedia.org/wiki/BMP "wikilink")——是一幅由美國攝影師[查克·歐里爾](https://zh.wikipedia.org/wiki/查克·歐里爾 "wikilink")（Chuck
+O'Rear）拍攝的[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[索诺马县](../Page/索诺马县_\(加利福尼亚州\).md "wikilink")（Sonoma
+County）郊外的風景照，当中展现高低起伏的綠山以及飘着[層積雲和](https://zh.wikipedia.org/wiki/層積雲 "wikilink")[卷雲的藍天](https://zh.wikipedia.org/wiki/卷雲 "wikilink")\[39\]。
 
 使用者也可依據喜好使用經典主题界面。
 
@@ -161,13 +162,13 @@ County）郊外的風景照，当中展现高低起伏的綠山以及飘着[層�
 
 <center>
 
-|                                    | 最低配備                                   | 建議配備                                     |
-| ---------------------------------- | -------------------------------------- | ---------------------------------------- |
-| [中央處理器](../Page/CPU.md "wikilink") | 233[MHz](../Page/MHz.md "wikilink")    | 300MHz或更高                                |
-| [-{A](../Page/記憶體.md "wikilink")   | 64[MB](../Page/Mebibyte.md "wikilink") | 128MB                                    |
-| [顯卡](../Page/顯卡.md "wikilink")     | 640 x 480                              | Super VGA (800 x 600)或更高分辨率              |
-| [硬碟剩餘空間](../Page/硬碟.md "wikilink") | 1.5[GB](../Page/GB.md "wikilink")      | 1.5GB以上                                  |
-| 其他設備                               | [CD-ROM](../Page/CD-ROM.md "wikilink") | [CD-ROM以上](../Page/CD-ROM.md "wikilink") |
+|                                                       | 最低配備                                                   | 建議配備                                     |
+| ----------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------- |
+| [中央處理器](https://zh.wikipedia.org/wiki/CPU "wikilink") | 233[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink") | 300MHz或更高                                |
+| [-{A](https://zh.wikipedia.org/wiki/記憶體 "wikilink")   | 64[MB](../Page/Mebibyte.md "wikilink")                 | 128MB                                    |
+| [顯卡](https://zh.wikipedia.org/wiki/顯卡 "wikilink")     | 640 x 480                                              | Super VGA (800 x 600)或更高分辨率              |
+| [硬碟剩餘空間](https://zh.wikipedia.org/wiki/硬碟 "wikilink") | 1.5[GB](https://zh.wikipedia.org/wiki/GB "wikilink")   | 1.5GB以上                                  |
+| 其他設備                                                  | [CD-ROM](../Page/CD-ROM.md "wikilink")                 | [CD-ROM以上](../Page/CD-ROM.md "wikilink") |
 
 **Windows XP系統需求**：\[40\]
 {{-}}
@@ -176,25 +177,25 @@ County）郊外的風景照，当中展现高低起伏的綠山以及飘着[層�
 
 备注：
 
-  - 虽然这是微软宣布的最低处理器频率，但是仍然可以在具有早期的[IA-32处理器](../Page/IA-32.md "wikilink")（例如[P5](../Page/P5.md "wikilink")
-    [Pentium](../Page/Pentium.md "wikilink")）的计算机上安装并运行Windows
+  - 虽然这是微软宣布的最低处理器频率，但是仍然可以在具有早期的[IA-32处理器](https://zh.wikipedia.org/wiki/IA-32 "wikilink")（例如[P5](https://zh.wikipedia.org/wiki/P5 "wikilink")
+    [Pentium](https://zh.wikipedia.org/wiki/Pentium "wikilink")）的计算机上安装并运行Windows
     XP操作系统。\[41\] Windows
-    XP与早于[Pentium](../Page/Pentium.md "wikilink")（例如：486）的处理器不兼容，因为它需要CMPXCHG8B指令集。
+    XP与早于[Pentium](https://zh.wikipedia.org/wiki/Pentium "wikilink")（例如：486）的处理器不兼容，因为它需要CMPXCHG8B指令集。
 
   - 对于涉及Web浏览的许多操作，例如电子邮件等活动，64MB内存可以提供给用户在同等硬件条件下差不多甚至优于[Windows
     Me的用户体验](../Page/Windows_Me.md "wikilink")。\[42\]
 
   - 安裝SP2時需要額外1.8
-    GB空間\[43\]，安裝SP3時需要額外900[MB空間](../Page/MB.md "wikilink")\[44\]。
+    GB空間\[43\]，安裝SP3時需要額外900[MB空間](https://zh.wikipedia.org/wiki/MB "wikilink")\[44\]。
 
 Windows XP
-32位版只支持到4GB的内存，而且在實際使用時，只能夠使用到3\~3.5GB的内存（因為一些内存容量被電腦其他硬體占用）\[45\]。實際上32位操作系统可以透過[PAE模式規避此上限](../Page/PAE.md "wikilink")，因此擁有4GB以上的内存的電腦使用Windows
+32位版只支持到4GB的内存，而且在實際使用時，只能夠使用到3\~3.5GB的内存（因為一些内存容量被電腦其他硬體占用）\[45\]。實際上32位操作系统可以透過[PAE模式規避此上限](https://zh.wikipedia.org/wiki/PAE "wikilink")，因此擁有4GB以上的内存的電腦使用Windows
 XP
 32位版還是有辦法不造成浪費，只要使用特殊程序就可以將多餘的内存轉換成虛擬硬盘，只是這可能会出現兼容性問題，故此解決方案是**非官方方案**。
 
 ## Service Pack（更新包）
 
-微軟偶爾會為其Windows作業系統發佈[更新包](../Page/更新包.md "wikilink")（Service
+微軟偶爾會為其Windows作業系統發佈[更新包](https://zh.wikipedia.org/wiki/更新包 "wikilink")（Service
 Packs）以修正問題和增加特色。每個更新包（及其最新修訂版）都是之前所有更新包和修補程式的合集，所以只需安裝最新的更新包。\[46\]安裝最新版本前亦無需移除舊版本的更新包。
 
 ### Service Pack 1
@@ -203,8 +204,8 @@ Packs）以修正問題和增加特色。每個更新包（及其最新修訂版
 
 [Windows_XP_-_Program_Access_and_Defaults.png_.png](https://zh.wikipedia.org/wiki/File:Windows_XP_-_Program_Access_and_Defaults.png_.png "fig:Windows_XP_-_Program_Access_and_Defaults.png_.png")Windows
 XP
-更新包1於2002年9月9日發行，這更新包包含RTM之後的多個安全性[更新](../Page/更新.md "wikilink")、相容性更新、修正程序，選擇性的[.NET
-Framework支援](../Page/.NET_Framework.md "wikilink")，支援新科技裝置，例如[平板電腦](../Page/平板電腦.md "wikilink")，附新的[Windows
+更新包1於2002年9月9日發行，這更新包包含RTM之後的多個安全性[更新](https://zh.wikipedia.org/wiki/更新 "wikilink")、相容性更新、修正程序，選擇性的[.NET
+Framework支援](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，支援新科技裝置，例如[平板電腦](../Page/平板電腦.md "wikilink")，附新的[Windows
 Messenger](../Page/Windows_Messenger.md "wikilink")
 4.7版本。在RTM中没有的Microsoft Java虛擬機器（Microsoft Java Virtual
 Machine，MSJVM）也新增在此更新包。最值得注意的新功能是對[USB](../Page/USB.md "wikilink")2.0的支援，以及一個「設定程序存取和預設程序」工具，目標是隱藏各種的中間產物。使用者可以依據習慣控制一個事件預設使用什么程式，例如設定用哪个網頁瀏覽器與即時通訊服務，以及隱藏微軟一些內建程序控制的。這工具首次出現在較舊的作業系統—Windows
@@ -223,19 +224,19 @@ Java虛擬機器。\[48\]
 
 **更新包2（Service Pack
 2）**（簡稱SP2，代號「Springboard」）經過數日耽擱後，在2004年8月25日推出。\[49\]與之前的更新包不同，SP2特別強調改善安全問題，亦為Windows
-XP中加入新的功能，包括一個加強的[防火牆](../Page/防火牆.md "wikilink")、改良對[Wi-Fi的支援](../Page/Wi-Fi.md "wikilink")（例如[WPA加密相容性](../Page/WPA.md "wikilink")，和一個精靈設定工具）、在Internet
+XP中加入新的功能，包括一個加強的[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")、改良對[Wi-Fi的支援](../Page/Wi-Fi.md "wikilink")（例如[WPA加密相容性](../Page/WPA.md "wikilink")，和一個精靈設定工具）、在Internet
 Explorer
-6中加入一個[彈出式廣告攔截功能](../Page/彈出式廣告.md "wikilink")、以及對[藍牙的支援](../Page/藍牙.md "wikilink")。更新包2也引進一個值得注目的核心啟動，可以更快載入作業系統。在核心啟動的時候，新歡迎畫面移除「Professional」及「Home
+6中加入一個[彈出式廣告攔截功能](https://zh.wikipedia.org/wiki/彈出式廣告 "wikilink")、以及對[藍牙的支援](../Page/藍牙.md "wikilink")。更新包2也引進一個值得注目的核心啟動，可以更快載入作業系統。在核心啟動的時候，新歡迎畫面移除「Professional」及「Home
 Edition」字樣，因為微軟在SP2發佈前，引進新的Windows
 XP版本。在家用版中，綠色的載入條被在專業版及其他版本中可見的標準藍色取代，使得作業系統的類別彼此相似。
 
 Service Pack 2增加一些安全功能，包括一個防火牆，在Windows下的名稱是[Windows
-防火牆](../Page/Windows_防火牆.md "wikilink")，在預設的情況下它是啟動的。另外，利用較新型號處理器的[NX
-bit功能](../Page/NX_bit.md "wikilink")，新增一個系統記憶體保護功能（[資料執行防止](../Page/資料執行防止.md "wikilink")，DEP），它可以防止一些[快取溢位攻擊](../Page/快取.md "wikilink")。\[50\]
-此外，有關的防護改良還包括[電子郵件和](../Page/電子郵件.md "wikilink")[瀏覽器](../Page/瀏覽器.md "wikilink")。Windows
+防火牆](https://zh.wikipedia.org/wiki/Windows_防火牆 "wikilink")，在預設的情況下它是啟動的。另外，利用較新型號處理器的[NX
+bit功能](https://zh.wikipedia.org/wiki/NX_bit "wikilink")，新增一個系統記憶體保護功能（[資料執行防止](https://zh.wikipedia.org/wiki/資料執行防止 "wikilink")，DEP），它可以防止一些[快取溢位攻擊](https://zh.wikipedia.org/wiki/快取 "wikilink")。\[50\]
+此外，有關的防護改良還包括[電子郵件和](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。Windows
 XP Service Pack
-2內建一個[Windows資訊安全中心](../Page/Windows資訊安全中心.md "wikilink")，為使用者提供一個關於系統安全防護的概觀，例如[防毒軟體的狀態](../Page/防毒軟體.md "wikilink")，[Windows
-Update和新的Windows防火牆](../Page/Windows_Update.md "wikilink")。第三方的防毒軟體和[防火牆亦可以配合安全中心](../Page/防火牆.md "wikilink")，使用者更易瞭解電腦的安全狀況，並提供改善建議。\[51\]
+2內建一個[Windows資訊安全中心](https://zh.wikipedia.org/wiki/Windows資訊安全中心 "wikilink")，為使用者提供一個關於系統安全防護的概觀，例如[防毒軟體的狀態](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")，[Windows
+Update和新的Windows防火牆](../Page/Windows_Update.md "wikilink")。第三方的防毒軟體和[防火牆亦可以配合安全中心](https://zh.wikipedia.org/wiki/防火牆 "wikilink")，使用者更易瞭解電腦的安全狀況，並提供改善建議。\[51\]
 
 #### Windows XP Service Pack 2c
 
@@ -268,21 +269,21 @@ Explorer版本6、7或8的系統上。\[62\] Internet Explorer
   - 針對無線網路，新增黑洞[路由器探測](../Page/路由器.md "wikilink")（Black Hole Router
     Detection）功能\[65\]，能够自動偵測發送破壞性數據的路由器並自動進行過濾，避免電腦不小心連線至惡意路由器導致個人資料被盗取。
 
-  - [-{zh-hans:网络访问保护;zh-hant:網路存取保護}-](../Page/網路存取保護技術.md "wikilink")（NAP）用戶端
+  - [-{zh-hans:网络访问保护;zh-hant:網路存取保護}-](https://zh.wikipedia.org/wiki/網路存取保護技術 "wikilink")（NAP）用戶端
 
   - \[66\]
 
-  - 認證[-{zh-hans:安全服务提供程序;zh-hant:安全性服務提供者}-](../Page/安全性服務提供者.md "wikilink")（CredSSD）\[67\]
+  - 認證[-{zh-hans:安全服务提供程序;zh-hant:安全性服務提供者}-](https://zh.wikipedia.org/wiki/安全性服務提供者 "wikilink")（CredSSD）\[67\]
 
-  - 描述安全性選項在[群組原則](../Page/群組原則.md "wikilink")／本機安全性原則使用者介面中。
+  - 描述安全性選項在[群組原則](https://zh.wikipedia.org/wiki/群組原則 "wikilink")／本機安全性原則使用者介面中。
 
   - 在Microsoft核心模式密碼編譯模組的[FIPS
-    140-2的更新版本認證](../Page/FIPS_140-2.md "wikilink")。\[68\]
+    140-2的更新版本認證](https://zh.wikipedia.org/wiki/FIPS_140-2 "wikilink")。\[68\]
 
   - 在安裝零售版及OEM版時不用輸入產品金鑰。
 
 整合SP3的Windows
-XP零售版及OEM版能夠在不輸入產品金鑰的情況下，安裝及完全的運行30日；過了30日後，用戶將需輸入有效的產品金鑰，並需[啟用產品](../Page/產品啟用.md "wikilink")。大量授權（VLK）版本仍需要在安裝前輸入產品金鑰。\[69\]
+XP零售版及OEM版能夠在不輸入產品金鑰的情況下，安裝及完全的運行30日；過了30日後，用戶將需輸入有效的產品金鑰，並需[啟用產品](https://zh.wikipedia.org/wiki/產品啟用 "wikilink")。大量授權（VLK）版本仍需要在安裝前輸入產品金鑰。\[69\]
 
 雖然SP3中已經累積至目前為止的更新包，但要在現有安裝的Windows XP中安裝SP3仍要求電腦中最少必須已經安裝SP1。\[70\]
 不過，整合SP3到「包含任何Service Pack版本或原來的RTM版本的Windows
@@ -291,8 +292,8 @@ XP Media Center Edition 2005是不支援的。\[72\]
 
 Service Pack 3包含Windows XP Media Center Edition（MCE）和Windows XP Tablet
 PC Edition的作業系統元件，以及.NET Framework 1.0版的安全性更新程式，這些更新程式隨附於Windows XP
-[SKU](../Page/最小存貨單位.md "wikilink")。然而，SP3並沒有包括Windows XP MCE
-2005中Windows Media Center的更新套件（Update rolls）。\[73\] SP3亦忽略Windows
+[SKU](https://zh.wikipedia.org/wiki/最小存貨單位 "wikilink")。然而，SP3並沒有包括Windows
+XP MCE 2005中Windows Media Center的更新套件（Update rolls）。\[73\] SP3亦忽略Windows
 Media Player 10的安全性更新，雖然這播放機內置在Windows XP MCE 2005。\[74\]
 
 ## 支援週期
@@ -303,7 +304,7 @@ SP1和SP1a的支援亦於2006年10月10日結束。\[75\]Windows XP
 SP2（不包括x64）在2010年7月13號終止服務，幾乎比其原始的使用期多6年，SP3 (x86)及SP2
 (x64)延伸支援已於2014年4月8日終止服務。\[76\]在Windows Vista
 上市17個月之後，微軟公司於2008年6月30日停止開放Windows
-XP的公開許可證給[原始設備製造商與終端作業系統零售商](../Page/原始設備製造商.md "wikilink")。然而，微軟在2008年4月3日向生產[小筆電的原始設備製造商宣布了一項例外直到一年後](../Page/小筆電.md "wikilink")
+XP的公開許可證給[原始設備製造商與終端作業系統零售商](https://zh.wikipedia.org/wiki/原始設備製造商 "wikilink")。然而，微軟在2008年4月3日向生產[小筆電的原始設備製造商宣布了一項例外直到一年後](https://zh.wikipedia.org/wiki/小筆電 "wikilink")
 Windows 7上市（2010年4月3日）。分析家指出此舉主要是為了與基於Linux的小筆電競爭，雖然微軟的Kevin Hutz
 表示此決定是因為Windows低階電腦的相近市場。
 
@@ -323,35 +324,35 @@ XP（包括x86及x64）支援，包括安全性更新及安全性相關的hotfix
 XP支持停止的消息引发诸多热议。2014年3月2日，微软中国宣布，已经采取特别行动，与多家互联网安全及防病毒厂商密切合作，为中国大陆已安装XP电脑的用户继续提供安全保护。\[80\]
 
 2014年5月1日，因为IE的秘狐漏洞，微软破例为Windows
-XP提供扩展支持结束后的第一个补丁。\[81\]2017年5月12日，因为[WannaCry病毒的泛滥](../Page/WannaCry.md "wikilink")，微软为Windows
+XP提供扩展支持结束后的第一个补丁。\[81\]2017年5月12日，因为[WannaCry病毒的泛滥](https://zh.wikipedia.org/wiki/WannaCry "wikilink")，微软为Windows
 XP提供扩展支持结束后的第二个补丁。\[82\]
 
 ## 批評
 
 ### 產品啟動及驗證
 
-微軟為了抑制盜版而增添[產品啟動機制](../Page/產品啟動.md "wikilink")，但受到強烈批評的原因是因為它的驗證方式。這種驗證方式使得主機硬體的部份遭受到控管，並在軟體可以永久使用前（每30天一個啟動週期）在微軟的記錄上增加一個唯一的參考[序號](../Page/序號.md "wikilink")（reference
+微軟為了抑制盜版而增添[產品啟動機制](https://zh.wikipedia.org/wiki/產品啟動 "wikilink")，但受到強烈批評的原因是因為它的驗證方式。這種驗證方式使得主機硬體的部份遭受到控管，並在軟體可以永久使用前（每30天一個啟動週期）在微軟的記錄上增加一個唯一的參考[序號](https://zh.wikipedia.org/wiki/序號 "wikilink")（reference
 number）。在其它電腦上安裝系統，將因為硬體的不同而無法啟動。如果是在同一台電腦上更換太多硬體（包括新增數個或以上的虛擬光碟機，尤其是**主機板**），則會因為硬體改變太大而導致需要重新啟動。\[83\]\[84\]
 
 ### Windows Genuine Advantage
 
 **Windows Genuine
-Advantage**（簡稱**WGA**）是一套由[微軟設計的反](../Page/微軟.md "wikilink")[盜版系統](../Page/盜版.md "wikilink")，當使用者存取某些微軟線上服務時，例如[Windows
+Advantage**（簡稱**WGA**）是一套由[微軟設計的反](https://zh.wikipedia.org/wiki/微軟 "wikilink")[盜版系統](https://zh.wikipedia.org/wiki/盜版 "wikilink")，當使用者存取某些微軟線上服務時，例如[Windows
 Update（微軟更新）](../Page/Windows_Update.md "wikilink")、以及從Microsoft
 Download
-Center（微軟下載中心）下載系統元件，就會強制要求使用者進行驗證[系統是否為正版](../Page/作業系統.md "wikilink")。
+Center（微軟下載中心）下載系統元件，就會強制要求使用者進行驗證[系統是否為正版](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 ### 安全性問題
 
-基於Windows作業系統龐大的市場佔有率，成為電腦病毒創作者的誘人目標，再加上作業系統本身的一些缺陷（安全漏洞），使作業系統容易受到[電腦病毒](../Page/電腦病毒.md "wikilink")、[木馬程式](../Page/木馬程式.md "wikilink")、[蠕蟲](../Page/蠕蟲.md "wikilink")、[惡意軟件的感染](../Page/惡意軟件.md "wikilink")。\[85\]這些經常出現的電腦安全性問題使Windows
+基於Windows作業系統龐大的市場佔有率，成為電腦病毒創作者的誘人目標，再加上作業系統本身的一些缺陷（安全漏洞），使作業系統容易受到[電腦病毒](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")、[木馬程式](https://zh.wikipedia.org/wiki/木馬程式 "wikilink")、[蠕蟲](https://zh.wikipedia.org/wiki/蠕蟲 "wikilink")、[惡意軟件的感染](https://zh.wikipedia.org/wiki/惡意軟件 "wikilink")。\[85\]這些經常出現的電腦安全性問題使Windows
 XP受到批評。
 
 ### 產品壟斷
 
 由於微軟把很多以前是本应由第三方提供的軟體整合到作業系統中，使XP遭受到猛烈的批評。這些軟件包括防火牆、媒體播放器（[Windows Media
-Player](../Page/Windows_Media_Player.md "wikilink")），即時通訊軟體（[Windows
+Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")），即時通訊軟體（[Windows
 Messenger](../Page/Windows_Messenger.md "wikilink")），以及它與Microsoft
-Passport網絡服務的緊密結合，這都被很多電腦專家認為會增加安全風險，威脅個人隱私。另外，這些特性的增加被認為是微軟繼續其傳統的[壟斷行為](../Page/壟斷.md "wikilink")。\[86\]
+Passport網絡服務的緊密結合，這都被很多電腦專家認為會增加安全風險，威脅個人隱私。另外，這些特性的增加被認為是微軟繼續其傳統的[壟斷行為](https://zh.wikipedia.org/wiki/壟斷 "wikilink")。\[86\]
 
 ### 用戶介面及性能表現
 
@@ -364,7 +365,7 @@ XP的新介面及視覺效果會使用較多的系統處理資源，同時會減
 XP的時候可能需要使用磁碟機。例如安裝XP在一個SATA硬碟時，如果該電腦的BIOS沒有IDE相容模式，電腦有可能辨認不到硬碟。因為XP的安裝光碟中並沒有通用的驅動程式。\[89\]而近年來絕大部份的新電腦都沒有磁碟機，這些電腦將需要使用自定義安裝光碟或者購買一個磁碟機\[90\]
 。在32GB或以上的硬碟分割區安裝Windows
 XP只能支援[NTFS格式](../Page/NTFS.md "wikilink")，Windows
-XP是最後一版支援在[FAT32硬碟分割區上安裝Windows系統的Windows作業系統](../Page/FAT32.md "wikilink")。
+XP是最後一版支援在[FAT32硬碟分割區上安裝Windows系統的Windows作業系統](https://zh.wikipedia.org/wiki/FAT32 "wikilink")。
 
 ## 授權方式
 
@@ -381,7 +382,7 @@ XP需要激活才可使用\[93\]。若原本安裝的電腦不再使用，授權
 
 ### OEM版
 
-微軟也通過[OEM授權方式讓Windows](../Page/OEM.md "wikilink")
+微軟也通過[OEM授權方式讓Windows](https://zh.wikipedia.org/wiki/OEM "wikilink")
 XP（包括專業版與家庭版）與電腦一起搭售，這種授權的價格較零售版便宜，但規定必須搭配新電腦或電腦零件一起才可獲得，若所搭配的電腦因任何原因停用，授權也不能移至其他電腦續用。這種版本的Windows
 XP產品只有一本說明書，一張授權證明以及帶有全息影像變化防偽的光碟。OEM版的Windows
 XP只能用來全新安裝，光碟標卷有OEM字樣（如英文專業版WXPOEM_EN）。這種授權的Windows
@@ -394,30 +395,30 @@ CD），因其電腦廠商在BIOS中加入啟動資訊，也因此該產品只�
 Professional。這-{只}-對於企業、政府或教育機構，並且只有專業版有批量許可的授權方式，家庭版沒有。這種版本的Windows
 XP產品必需是有相關企業機構與微軟簽訂的軟體大量授權合約，大量許可序號（Volume License
 Key，VLK）以及相關的大量授權光碟。大量授權版與完全零售版一樣，可以全新安裝，也可以升級安裝。光碟標卷有VOL字樣（如英文專業版WXPVOL_EN）為了在企業上的效率，故這種授權的Windows
-XP無啟動的概念，但也正因如此，大量授權版的序號也成為許多[盜版使用者在使用Windows作業系統時](../Page/盜版.md "wikilink")，可以幾乎不費吹灰之力就可避開微軟盜版驗證的方式之一。\[95\]
+XP無啟動的概念，但也正因如此，大量授權版的序號也成為許多[盜版使用者在使用Windows作業系統時](https://zh.wikipedia.org/wiki/盜版 "wikilink")，可以幾乎不費吹灰之力就可避開微軟盜版驗證的方式之一。\[95\]
 
 ## 盗版
 
 Windows XP在中国被大量盗版。由于Windows
-XP具有产品激活这一性质，许多盗版提供各种方式帮助用户绕过激活程序或者通过欺骗达到激活的目的，有的大量授权版被泄露到市场，也成为盗版的一大源头。著名的有早期的“俄罗斯破解版”、“上海市政府VOL版”、“[番茄花园版](../Page/番茄花园.md "wikilink")”等，这些盗版集成相关软件，方便用户安装，不过存在[木马等潜在的威胁](../Page/特洛伊木马_\(电脑\).md "wikilink")。尽管如此，这些盗版仍有大量用户。
+XP具有产品激活这一性质，许多盗版提供各种方式帮助用户绕过激活程序或者通过欺骗达到激活的目的，有的大量授权版被泄露到市场，也成为盗版的一大源头。著名的有早期的“俄罗斯破解版”、“上海市政府VOL版”、“[番茄花园版](https://zh.wikipedia.org/wiki/番茄花园 "wikilink")”等，这些盗版集成相关软件，方便用户安装，不过存在[木马等潜在的威胁](../Page/特洛伊木马_\(电脑\).md "wikilink")。尽管如此，这些盗版仍有大量用户。
 
 微软大力打击盗版，曾经通过在安全补丁里包含正版验证程序的方式，使部分盗版用户的屏幕显示黑屏并提示“您是盗版软件的受害者”。此举一度引起争议，而且即使是这个功能本身也旋即被破解。
 
-另外，“番茄花园版XP”的制作人员[洪磊](../Page/洪磊_\(中國罪犯\).md "wikilink")，因犯侵犯著作权罪于2008年被判有期徒刑三年六个月并处罚金人民币1,000,000元。同案的[成都共软网络科技有限公司因犯侵犯著作权罪](../Page/成都共软网络科技有限公司.md "wikilink")，其违法所得计人民币2,924,289.09元予以没收，并判处罚金人民币8,772,861.27元；[孙显忠因侵犯著作权罪](../Page/孙显忠.md "wikilink")，判处有期徒刑三年六个月，并处罚金人民币1,000,000元。[张天平因侵犯著作权罪](../Page/张天平.md "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元；[梁焯勇因侵犯著作权罪](../Page/梁焯勇.md "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元。\[96\]这也是微软首次在中国就盗版提出法律诉讼。根据相关的报道，洪磊已于2011年年底出狱，现重新开放“番茄花园”网站，不过其内容转向对[Android系统的研究](../Page/Android.md "wikilink")。
+另外，“番茄花园版XP”的制作人员[洪磊](https://zh.wikipedia.org/wiki/洪磊_\(中國罪犯\) "wikilink")，因犯侵犯著作权罪于2008年被判有期徒刑三年六个月并处罚金人民币1,000,000元。同案的[成都共软网络科技有限公司因犯侵犯著作权罪](https://zh.wikipedia.org/wiki/成都共软网络科技有限公司 "wikilink")，其违法所得计人民币2,924,289.09元予以没收，并判处罚金人民币8,772,861.27元；[孙显忠因侵犯著作权罪](https://zh.wikipedia.org/wiki/孙显忠 "wikilink")，判处有期徒刑三年六个月，并处罚金人民币1,000,000元。[张天平因侵犯著作权罪](https://zh.wikipedia.org/wiki/张天平 "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元；[梁焯勇因侵犯著作权罪](https://zh.wikipedia.org/wiki/梁焯勇 "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元。\[96\]这也是微软首次在中国就盗版提出法律诉讼。根据相关的报道，洪磊已于2011年年底出狱，现重新开放“番茄花园”网站，不过其内容转向对[Android系统的研究](../Page/Android.md "wikilink")。
 
 ## 退役以後與現狀
 
 ### 微軟官方專供地區延續支援
 
-[愛爾蘭政府以及](../Page/愛爾蘭政府.md "wikilink")[美國海軍等政府及軍方單位](../Page/美國海軍.md "wikilink")，因為仍有為數不少的舊款軟硬體仍需在Windows
+[愛爾蘭政府以及](https://zh.wikipedia.org/wiki/愛爾蘭政府 "wikilink")[美國海軍等政府及軍方單位](../Page/美國海軍.md "wikilink")，因為仍有為數不少的舊款軟硬體仍需在Windows
 XP才可使用而尚未更新，在微軟終止對Windows XP提供支援後，仍編列預算付費購買後繼支援服務\[97\]\[98\]
 
 ### 市場佔有率
 
 市場研究機構的數據顯示，已經退役的微軟「Windows
 XP」系統2014年8月市佔率仍有23.89%，僅比7月份降低0.93個百分點，比4月份該系統終止技術支援時僅降低2.4個百分點，「[Windows
-8](../Page/Windows_8.md "wikilink")/[8.1](../Page/Windows_8.1.md "wikilink")」合計市佔率僅有13.37%，「[Windows
-7](../Page/Windows_7.md "wikilink")」市佔率基本與上一個月持平，保持在51.2%。\[99\]
+8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[8.1](../Page/Windows_8.1.md "wikilink")」合計市佔率僅有13.37%，「[Windows
+7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")」市佔率基本與上一個月持平，保持在51.2%。\[99\]
 
 ### 使用現狀
 
@@ -434,10 +435,11 @@ me、Windows NT、Windows 2000以及3.5磁片相關軟體，現今一般使用�
 
 ## 參见
 
-  - [作業系統列表](../Page/作業系統列表.md "wikilink")
-  - [作業系統歷史](../Page/作業系統歷史.md "wikilink")
-  - [Microsoft Windows的歷史](../Page/Microsoft_Windows的歷史.md "wikilink")
-  - [作業系統](../Page/作業系統.md "wikilink")
+  - [作業系統列表](https://zh.wikipedia.org/wiki/作業系統列表 "wikilink")
+  - [作業系統歷史](https://zh.wikipedia.org/wiki/作業系統歷史 "wikilink")
+  - [Microsoft
+    Windows的歷史](https://zh.wikipedia.org/wiki/Microsoft_Windows的歷史 "wikilink")
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")
 
 ## 外部連結
 

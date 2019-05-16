@@ -1,103 +1,104 @@
 《**Big Comic
-Spirits**》（）是[日本出版社](../Page/日本.md "wikilink")[小學館所推出的](../Page/小學館.md "wikilink")[漫畫週刊雜誌](../Page/漫畫.md "wikilink")，鎖定的閱讀對象為年齡層較高的青年讀者群。
+Spirits**》（）是[日本出版社](../Page/日本.md "wikilink")[小學館所推出的](../Page/小學館.md "wikilink")[漫畫週刊雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，鎖定的閱讀對象為年齡層較高的青年讀者群。
 
-1980年10月創刊，創刊當初是月刊（每月14日發售），1981年6月開始轉為雙週刊，1986年4月起成為週刊（每週一發售）。該雜誌連載的著名作品，有[浦澤直樹的](../Page/浦澤直樹.md "wikilink")《[20世紀少年](../Page/20世紀少年.md "wikilink")》等。
+1980年10月創刊，創刊當初是月刊（每月14日發售），1981年6月開始轉為雙週刊，1986年4月起成為週刊（每週一發售）。該雜誌連載的著名作品，有[浦澤直樹的](../Page/浦澤直樹.md "wikilink")《[20世紀少年](https://zh.wikipedia.org/wiki/20世紀少年 "wikilink")》等。
 
 ## 連載
 
 ### 通常連載
 
-  - [気まぐれコンセプト](../Page/気まぐれコンセプト.md "wikilink")（[ホイチョイ・プロダクションズ](../Page/ホイチョイ・プロダクションズ.md "wikilink")）1981年14号
+  - [気まぐれコンセプト](https://zh.wikipedia.org/wiki/気まぐれコンセプト "wikilink")（[ホイチョイ・プロダクションズ](https://zh.wikipedia.org/wiki/ホイチョイ・プロダクションズ "wikilink")）1981年14号
     -
-  - [美味大挑戰](../Page/美味大挑戰.md "wikilink")（原作：[雁屋哲](../Page/雁屋哲.md "wikilink")、作画：[花咲アキラ](../Page/花咲アキラ.md "wikilink")）1983年20号
+  - [美味大挑戰](../Page/美味大挑戰.md "wikilink")（原作：[雁屋哲](https://zh.wikipedia.org/wiki/雁屋哲 "wikilink")、作画：[花咲アキラ](https://zh.wikipedia.org/wiki/花咲アキラ "wikilink")）1983年20号
     -
-  - [じみへん](../Page/じみへん.md "wikilink")（[中崎タツヤ](../Page/中崎タツヤ.md "wikilink")）1989年21号
+  - [じみへん](https://zh.wikipedia.org/wiki/じみへん "wikilink")（[中崎タツヤ](https://zh.wikipedia.org/wiki/中崎タツヤ "wikilink")）1989年21号
     -
-  - [团地友夫](../Page/团地友夫.md "wikilink")（[小田扉](../Page/小田扉.md "wikilink")）2003年34号
+  - [团地友夫](../Page/团地友夫.md "wikilink")（[小田扉](https://zh.wikipedia.org/wiki/小田扉 "wikilink")）2003年34号
     -
-  - [最後一局](../Page/最後一局.md "wikilink")（原作：[神尾龍](../Page/神尾龍.md "wikilink")、作画：[中原裕](../Page/中原裕.md "wikilink")、監修：[加藤潔](../Page/加藤潔.md "wikilink")）2004年5号
+  - [最後一局](../Page/最後一局.md "wikilink")（原作：[神尾龍](https://zh.wikipedia.org/wiki/神尾龍 "wikilink")、作画：[中原裕](https://zh.wikipedia.org/wiki/中原裕 "wikilink")、監修：[加藤潔](https://zh.wikipedia.org/wiki/加藤潔 "wikilink")）2004年5号
     -
-  - [黑金丑島君](../Page/黑金丑島君.md "wikilink")（[真鍋昌平](../Page/真鍋昌平.md "wikilink")）2004年24号
+  - [黑金丑島君](../Page/黑金丑島君.md "wikilink")（[真鍋昌平](https://zh.wikipedia.org/wiki/真鍋昌平 "wikilink")）2004年24号
     -
-  - [土竜（モグラ）の唄](../Page/土竜の唄.md "wikilink")（[高橋のぼる](../Page/高橋のぼる.md "wikilink")）[週刊Young
+  - [土竜（モグラ）の唄](https://zh.wikipedia.org/wiki/土竜の唄 "wikilink")（[高橋のぼる](https://zh.wikipedia.org/wiki/高橋のぼる "wikilink")）[週刊Young
     Sunday](../Page/週刊Young_Sunday.md "wikilink")2005年38号 -
     2008年35号、ビッグコミックスピリッツ2008年41号 -
-  - [請叫我英雄](../Page/請叫我英雄.md "wikilink")（[花沢健吾](../Page/花沢健吾.md "wikilink")）2009年22・23合併号
+  - [請叫我英雄](../Page/請叫我英雄.md "wikilink")（[花沢健吾](https://zh.wikipedia.org/wiki/花沢健吾 "wikilink")）2009年22・23合併号
     -
-  - [オーミ先生の微熱](../Page/オーミ先生の微熱.md "wikilink")（[河内遙](../Page/河内遙.md "wikilink")）2010年30号
+  - [オーミ先生の微熱](https://zh.wikipedia.org/wiki/オーミ先生の微熱 "wikilink")（[河内遙](https://zh.wikipedia.org/wiki/河内遙 "wikilink")）2010年30号
     - （長期休載中）
-  - [薙刀社青春日記](../Page/薙刀社青春日記.md "wikilink")（[こざき亜衣](../Page/こざき亜衣.md "wikilink")）2011年8号
+  - [薙刀社青春日記](https://zh.wikipedia.org/wiki/薙刀社青春日記 "wikilink")（[こざき亜衣](https://zh.wikipedia.org/wiki/こざき亜衣 "wikilink")）2011年8号
     -
-  - [るみちゃんの事象](../Page/るみちゃんの事象.md "wikilink")（[原克玄](../Page/原克玄.md "wikilink")）2011年14号
+  - [るみちゃんの事象](https://zh.wikipedia.org/wiki/るみちゃんの事象 "wikilink")（[原克玄](https://zh.wikipedia.org/wiki/原克玄 "wikilink")）2011年14号
     -
   - [DRAGON
-    JAM](../Page/DRAGON_JAM.md "wikilink")（[藤井五成](../Page/藤井五成.md "wikilink")）2011年23号
+    JAM](https://zh.wikipedia.org/wiki/DRAGON_JAM "wikilink")（[藤井五成](https://zh.wikipedia.org/wiki/藤井五成 "wikilink")）2011年23号
     - ※『[月刊Big Comic
     Spirits](../Page/月刊Big_Comic_Spirits.md "wikilink")』より転籍
-  - [週刊事件予報](../Page/週刊事件予報.md "wikilink")（複数の漫画家が週替わりで担当）2011年xx号 -
-    ※目次ページ掲載の1コマ漫画
-  - [おかゆネコ](../Page/おかゆネコ.md "wikilink")（[吉田戦車](../Page/吉田戦車.md "wikilink")）2012年18号
+  - [週刊事件予報](https://zh.wikipedia.org/wiki/週刊事件予報 "wikilink")（複数の漫画家が週替わりで担当）2011年xx号
+    - ※目次ページ掲載の1コマ漫画
+  - [おかゆネコ](https://zh.wikipedia.org/wiki/おかゆネコ "wikilink")（[吉田戦車](https://zh.wikipedia.org/wiki/吉田戦車 "wikilink")）2012年18号
     -
-  - [明日にはあがります。](../Page/明日にはあがります。.md "wikilink")（[水口尚樹](../Page/水口尚樹.md "wikilink")）2012年20号
+  - [明日にはあがります。](https://zh.wikipedia.org/wiki/明日にはあがります。 "wikilink")（[水口尚樹](https://zh.wikipedia.org/wiki/水口尚樹 "wikilink")）2012年20号
     -
-  - [花もて語れ](../Page/花もて語れ.md "wikilink")（[片山ユキヲ](../Page/片山ユキヲ.md "wikilink")、朗読協力・朗読原案：[東百道](../Page/東百道.md "wikilink")）2012年25号
+  - [花もて語れ](https://zh.wikipedia.org/wiki/花もて語れ "wikilink")（[片山ユキヲ](https://zh.wikipedia.org/wiki/片山ユキヲ "wikilink")、朗読協力・朗読原案：[東百道](https://zh.wikipedia.org/wiki/東百道 "wikilink")）2012年25号
     - ※『月刊\!スピリッツ』より転籍
-  - [くーねるまるた](../Page/くーねるまるた.md "wikilink")（[高尾じんぐ](../Page/高尾じんぐ.md "wikilink")）2012年36・37合併号
+  - [くーねるまるた](https://zh.wikipedia.org/wiki/くーねるまるた "wikilink")（[高尾じんぐ](https://zh.wikipedia.org/wiki/高尾じんぐ "wikilink")）2012年36・37合併号
     -
-  - [マガツクニ風土記](../Page/マガツクニ風土記.md "wikilink")（原作：[あまやゆうき](../Page/あまやゆうき.md "wikilink")、作画：[吉田史朗](../Page/吉田史朗.md "wikilink")）2013年6・7合併号
+  - [マガツクニ風土記](https://zh.wikipedia.org/wiki/マガツクニ風土記 "wikilink")（原作：[あまやゆうき](https://zh.wikipedia.org/wiki/あまやゆうき "wikilink")、作画：[吉田史朗](https://zh.wikipedia.org/wiki/吉田史朗 "wikilink")）2013年6・7合併号
     -
-  - [みどりの星](../Page/みどりの星.md "wikilink")（[真造圭伍](../Page/真造圭伍.md "wikilink")）2013年13号
+  - [みどりの星](https://zh.wikipedia.org/wiki/みどりの星 "wikilink")（[真造圭伍](https://zh.wikipedia.org/wiki/真造圭伍 "wikilink")）2013年13号
     -
-  - [王様達のヴァイキング](../Page/王様達のヴァイキング.md "wikilink")（[さだやす](../Page/さだやす.md "wikilink")、アイデア協力：[深見真](../Page/深見真.md "wikilink")）2013年14号
+  - [王様達のヴァイキング](https://zh.wikipedia.org/wiki/王様達のヴァイキング "wikilink")（[さだやす](https://zh.wikipedia.org/wiki/さだやす "wikilink")、アイデア協力：[深見真](https://zh.wikipedia.org/wiki/深見真 "wikilink")）2013年14号
     -
-  - [火線上のハテルマ](../Page/火線上のハテルマ.md "wikilink")（[せきやてつじ](../Page/せきやてつじ.md "wikilink")）2013年36・37合併号
+  - [火線上のハテルマ](https://zh.wikipedia.org/wiki/火線上のハテルマ "wikilink")（[せきやてつじ](https://zh.wikipedia.org/wiki/せきやてつじ "wikilink")）2013年36・37合併号
     -
-  - [白暮（はくぼ）のクロニクル](../Page/白暮のクロニクル.md "wikilink")（[結城正美](../Page/結城正美.md "wikilink")）2013年39号
+  - [白暮（はくぼ）のクロニクル](https://zh.wikipedia.org/wiki/白暮のクロニクル "wikilink")（[結城正美](../Page/結城正美.md "wikilink")）2013年39号
     -
-  - [ピカロ](../Page/ピカロ.md "wikilink")（[白瀬透](../Page/白瀬透.md "wikilink")）2013年40号
+  - [ピカロ](https://zh.wikipedia.org/wiki/ピカロ "wikilink")（[白瀬透](https://zh.wikipedia.org/wiki/白瀬透 "wikilink")）2013年40号
     -
-  - [クリームソーダシティ](../Page/クリームソーダシティ.md "wikilink")（[長尾謙一郎](../Page/長尾謙一郎.md "wikilink")）2013年41号
+  - [クリームソーダシティ](https://zh.wikipedia.org/wiki/クリームソーダシティ "wikilink")（[長尾謙一郎](https://zh.wikipedia.org/wiki/長尾謙一郎 "wikilink")）2013年41号
     -
-  - [ルームメイト](../Page/ルームメイト_\(今邑彩\)#漫画.md "wikilink")（[武富健治](../Page/武富健治.md "wikilink")、原作：[今邑彩](../Page/今邑彩.md "wikilink")）2013年42号
+  - [ルームメイト](https://zh.wikipedia.org/wiki/ルームメイト_\(今邑彩\)#漫画 "wikilink")（[武富健治](https://zh.wikipedia.org/wiki/武富健治 "wikilink")、原作：[今邑彩](../Page/今邑彩.md "wikilink")）2013年42号
     -
-  - [偉人住宅ツバキヒルズ](../Page/偉人住宅ツバキヒルズ.md "wikilink")（[野田宏](../Page/野田宏.md "wikilink")）2013年50号
+  - [偉人住宅ツバキヒルズ](https://zh.wikipedia.org/wiki/偉人住宅ツバキヒルズ "wikilink")（[野田宏](https://zh.wikipedia.org/wiki/野田宏 "wikilink")）2013年50号
     -
-  - [キミ\!さいよー](../Page/キミ!さいよー.md "wikilink")（[石原まこちん](../Page/石原まこちん.md "wikilink")）2013年50号
+  - [キミ\!さいよー](https://zh.wikipedia.org/wiki/キミ!さいよー "wikilink")（[石原まこちん](https://zh.wikipedia.org/wiki/石原まこちん "wikilink")）2013年50号
     -
-  - [ちぽさんぽ](../Page/ちぽさんぽ.md "wikilink")（[竹本友二](../Page/竹本友二.md "wikilink")）2013年50号
+  - [ちぽさんぽ](https://zh.wikipedia.org/wiki/ちぽさんぽ "wikilink")（[竹本友二](https://zh.wikipedia.org/wiki/竹本友二 "wikilink")）2013年50号
     -
-  - [黒鉄（クロガネ）ボブスレー](../Page/黒鉄ボブスレー.md "wikilink")（[土屋雄民](../Page/土屋雄民.md "wikilink")）2013年52号
+  - [黒鉄（クロガネ）ボブスレー](https://zh.wikipedia.org/wiki/黒鉄ボブスレー "wikilink")（[土屋雄民](https://zh.wikipedia.org/wiki/土屋雄民 "wikilink")）2013年52号
     -
-  - [夕空のクライフイズム](../Page/夕空のクライフイズム.md "wikilink")（[手原和憲](../Page/手原和憲.md "wikilink")）2014年2・3合併号
+  - [夕空のクライフイズム](https://zh.wikipedia.org/wiki/夕空のクライフイズム "wikilink")（[手原和憲](https://zh.wikipedia.org/wiki/手原和憲 "wikilink")）2014年2・3合併号
     -
-  - [東伍郎とまろすけ](../Page/東伍郎とまろすけ.md "wikilink")（[長月キュー](../Page/長月キュー.md "wikilink")）2014年4・5合併号
+  - [東伍郎とまろすけ](https://zh.wikipedia.org/wiki/東伍郎とまろすけ "wikilink")（[長月キュー](https://zh.wikipedia.org/wiki/長月キュー "wikilink")）2014年4・5合併号
     -
 
 ### 隔週連載
 
   - [鈴里高校書道部](../Page/鈴里高校書道部.md "wikilink")（[河合克敏](../Page/河合克敏.md "wikilink")）週刊ヤングサンデー2007年2号
     - 2008年35号、ビッグコミックスピリッツ2008年41号 -
-  - [ちいさこべえ](../Page/ちいさこべ#漫画版.md "wikilink")（[望月ミネタロウ](../Page/望月ミネタロウ.md "wikilink")、原作：[山本周五郎](../Page/山本周五郎.md "wikilink")）2012年40号
+  - [ちいさこべえ](https://zh.wikipedia.org/wiki/ちいさこべ#漫画版 "wikilink")（[望月ミネタロウ](https://zh.wikipedia.org/wiki/望月ミネタロウ "wikilink")、原作：[山本周五郎](../Page/山本周五郎.md "wikilink")）2012年40号
     -、暫く休載を経て2013年12号より隔週連載
 
 ### 不定期連載
 
-  - [花と奥たん](../Page/花と奥たん.md "wikilink")（[高橋真](../Page/高橋真.md "wikilink")）2008年2号
+  - [花と奥たん](https://zh.wikipedia.org/wiki/花と奥たん "wikilink")（[高橋真](https://zh.wikipedia.org/wiki/高橋真 "wikilink")）2008年2号
     -
   - [時空建築幻視譚](../Page/時空建築幻視譚.md "wikilink")（[冬目景](../Page/冬目景.md "wikilink")）2010年9号
     - 2015年16號
-  - [デモクラティア](../Page/デモクラティア.md "wikilink")（[間瀬元朗](../Page/間瀬元朗.md "wikilink")）2013年38号
+  - [デモクラティア](https://zh.wikipedia.org/wiki/デモクラティア "wikilink")（[間瀬元朗](https://zh.wikipedia.org/wiki/間瀬元朗 "wikilink")）2013年38号
     -
 
 雖然通常連載作において、これらの不定期連載が掲載される関係上ローテーションで休載が行われる。
 
 ## 歴代編集長
 
-1.  [白井勝也](../Page/白井勝也.md "wikilink")（1980年 - 1990年）
-2.  [亀井修](../Page/亀井修.md "wikilink")（1990年 - 1996年）
+1.  [白井勝也](https://zh.wikipedia.org/wiki/白井勝也 "wikilink")（1980年 - 1990年）
+2.  [亀井修](https://zh.wikipedia.org/wiki/亀井修 "wikilink")（1990年 - 1996年）
 3.  久保田滋夫（1996年 - 1998年）
 4.  片寄聰（1998年 - 1999年7月）
-5.  [長崎尚志](../Page/長崎尚志.md "wikilink")（1999年8月 - 2001年7月）
+5.  [長崎尚志](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")（1999年8月 -
+    2001年7月）
 6.  武藤伸之（2001年8月 - 2003年7月）
 7.  立川義剛（2003年8月 - 2010年7月）
 8.  堀靖樹（2010年8月 - 2013年5月）
@@ -107,444 +108,475 @@ Spirits**》（）是[日本出版社](../Page/日本.md "wikilink")[小學館�
 
 ### あ行
 
-  - 相原コージのなにがオモロイの? - [相原コージ](../Page/相原コージ.md "wikilink")
-  - アイ・ラブ・ユー - [盛田賢司](../Page/盛田賢司.md "wikilink")
-  - 青空 - [原秀則](../Page/原秀則.md "wikilink")
+  - 相原コージのなにがオモロイの? -
+    [相原コージ](https://zh.wikipedia.org/wiki/相原コージ "wikilink")
+  - アイ・ラブ・ユー - [盛田賢司](https://zh.wikipedia.org/wiki/盛田賢司 "wikilink")
+  - 青空 - [原秀則](https://zh.wikipedia.org/wiki/原秀則 "wikilink")
   - 青の戦士 -
-    [狩撫麻礼](../Page/狩撫麻礼.md "wikilink")+[谷口治郎](../Page/谷口治郎.md "wikilink")
-  - [アグネス仮面](../Page/アグネス仮面.md "wikilink") -
-    [ヒラマツ・ミノル](../Page/ヒラマツ・ミノル.md "wikilink")
-  - 悪魔のうたたね - [喜国雅彦](../Page/喜国雅彦.md "wikilink")
-  - [あさってDANCE](../Page/あさってDANCE.md "wikilink") -
-    [山本直樹](../Page/山本直樹.md "wikilink")
-  - [明日のない空](../Page/明日のない空.md "wikilink") -
+    [狩撫麻礼](https://zh.wikipedia.org/wiki/狩撫麻礼 "wikilink")+[谷口治郎](../Page/谷口治郎.md "wikilink")
+  - [アグネス仮面](https://zh.wikipedia.org/wiki/アグネス仮面 "wikilink") -
+    [ヒラマツ・ミノル](https://zh.wikipedia.org/wiki/ヒラマツ・ミノル "wikilink")
+  - 悪魔のうたたね - [喜国雅彦](https://zh.wikipedia.org/wiki/喜国雅彦 "wikilink")
+  - [あさってDANCE](https://zh.wikipedia.org/wiki/あさってDANCE "wikilink") -
+    [山本直樹](https://zh.wikipedia.org/wiki/山本直樹 "wikilink")
+  - [明日のない空](https://zh.wikipedia.org/wiki/明日のない空 "wikilink") -
     [塀内夏子](../Page/塀内夏子.md "wikilink")
   - [愛情白皮書](../Page/愛情白皮書.md "wikilink") -
     [柴门文](../Page/柴门文.md "wikilink")
-  - [赤い鳩](../Page/赤い鳩.md "wikilink") -
-    [小池一夫](../Page/小池一夫.md "wikilink")+[池上辽一](../Page/池上辽一.md "wikilink")
-  - [いいひと。](../Page/いいひと。.md "wikilink") -
-    [高橋真](../Page/高橋真.md "wikilink")
-  - [イオナ](../Page/イオナ_\(漫画\).md "wikilink") -
-    [澤井健](../Page/澤井健.md "wikilink")
-  - [イカロスの娘](../Page/イカロスの娘.md "wikilink") -
-    [御厨さと美](../Page/御厨さと美.md "wikilink")
+  - [赤い鳩](https://zh.wikipedia.org/wiki/赤い鳩 "wikilink") -
+    [小池一夫](https://zh.wikipedia.org/wiki/小池一夫 "wikilink")+[池上辽一](../Page/池上辽一.md "wikilink")
+  - [いいひと。](https://zh.wikipedia.org/wiki/いいひと。 "wikilink") -
+    [高橋真](https://zh.wikipedia.org/wiki/高橋真 "wikilink")
+  - [イオナ](https://zh.wikipedia.org/wiki/イオナ_\(漫画\) "wikilink") -
+    [澤井健](https://zh.wikipedia.org/wiki/澤井健 "wikilink")
+  - [イカロスの娘](https://zh.wikipedia.org/wiki/イカロスの娘 "wikilink") -
+    [御厨さと美](https://zh.wikipedia.org/wiki/御厨さと美 "wikilink")
   - [死亡預告](../Page/死亡預告.md "wikilink") -
-    [間瀬元朗](../Page/間瀬元朗.md "wikilink") ※『週刊ヤングサンデー』より転籍
-  - 以蔵のキモチ（[佐藤宏之](../Page/佐藤宏之.md "wikilink")）
-  - [愛しのアイリーン](../Page/愛しのアイリーン.md "wikilink") -
-    [新井英樹](../Page/新井英樹.md "wikilink")
-  - [ヴィルトゥス](../Page/ヴィルトゥス_\(漫画\).md "wikilink") - 義凡+信濃川日出雄
-  - [ウシハル](../Page/ウシハル.md "wikilink") - ゴトウユキコ ※『月刊\!スピリッツ』より転籍
-  - [伝染るんです。](../Page/伝染るんです。.md "wikilink") -
-    [吉田戦車](../Page/吉田戦車.md "wikilink")
-  - [SP (電視劇)](../Page/SP_\(電視劇\).md "wikilink") -
-    [金城一紀](../Page/金城一紀.md "wikilink")+[灰原薬](../Page/灰原薬.md "wikilink")
-  - 江戸前・あ・めーりかん - [藤波俊彦](../Page/藤波俊彦.md "wikilink")
-  - [江戸むらさき特急](../Page/江戸むらさき特急.md "wikilink") -
-    [ほりのぶゆき](../Page/ほりのぶゆき.md "wikilink")
-  - [エバタのロック](../Page/エバタのロック.md "wikilink") -
-    [室井大資](../Page/室井大資.md "wikilink")
-  - [F](../Page/F_\(漫画\).md "wikilink") -
-    [六田登](../Page/六田登.md "wikilink")
-  - [おごってジャンケン隊](../Page/おごってジャンケン隊.md "wikilink") -
-    [現代洋子](../Page/現代洋子.md "wikilink")
-  - [おたんこナース](../Page/おたんこナース.md "wikilink") -
-    [小林光恵](../Page/小林光恵.md "wikilink")+[佐佐木倫子](../Page/佐佐木倫子.md "wikilink")
-  - [男樹](../Page/男樹.md "wikilink")（単行本2巻以降） -
-    [本宮ひろ志](../Page/本宮ひろ志.md "wikilink")
-  - 鬼虫 - [柏木ハルコ](../Page/柏木ハルコ.md "wikilink")
-  - オヤジ高校生 - [川三番地](../Page/川三番地.md "wikilink")
-  - [おやすみプンプン](../Page/おやすみプンプン.md "wikilink") -
-    [浅野いにお](../Page/浅野いにお.md "wikilink")
+    [間瀬元朗](https://zh.wikipedia.org/wiki/間瀬元朗 "wikilink")
     ※『週刊ヤングサンデー』より転籍
-  - 俺の女たち - [本宮ひろ志](../Page/本宮ひろ志.md "wikilink")
-  - [オメガトライブ](../Page/オメガトライブ_\(漫画\).md "wikilink") -
-    [玉井雪雄](../Page/玉井雪雄.md "wikilink")
+  - 以蔵のキモチ（[佐藤宏之](https://zh.wikipedia.org/wiki/佐藤宏之 "wikilink")）
+  - [愛しのアイリーン](https://zh.wikipedia.org/wiki/愛しのアイリーン "wikilink") -
+    [新井英樹](https://zh.wikipedia.org/wiki/新井英樹 "wikilink")
+  - [ヴィルトゥス](https://zh.wikipedia.org/wiki/ヴィルトゥス_\(漫画\) "wikilink") -
+    義凡+信濃川日出雄
+  - [ウシハル](https://zh.wikipedia.org/wiki/ウシハル "wikilink") - ゴトウユキコ
+    ※『月刊\!スピリッツ』より転籍
+  - [伝染るんです。](https://zh.wikipedia.org/wiki/伝染るんです。 "wikilink") -
+    [吉田戦車](https://zh.wikipedia.org/wiki/吉田戦車 "wikilink")
+  - [SP (電視劇)](../Page/SP_\(電視劇\).md "wikilink") -
+    [金城一紀](https://zh.wikipedia.org/wiki/金城一紀 "wikilink")+[灰原薬](https://zh.wikipedia.org/wiki/灰原薬 "wikilink")
+  - 江戸前・あ・めーりかん - [藤波俊彦](https://zh.wikipedia.org/wiki/藤波俊彦 "wikilink")
+  - [江戸むらさき特急](https://zh.wikipedia.org/wiki/江戸むらさき特急 "wikilink") -
+    [ほりのぶゆき](https://zh.wikipedia.org/wiki/ほりのぶゆき "wikilink")
+  - [エバタのロック](https://zh.wikipedia.org/wiki/エバタのロック "wikilink") -
+    [室井大資](https://zh.wikipedia.org/wiki/室井大資 "wikilink")
+  - [F](https://zh.wikipedia.org/wiki/F_\(漫画\) "wikilink") -
+    [六田登](https://zh.wikipedia.org/wiki/六田登 "wikilink")
+  - [おごってジャンケン隊](https://zh.wikipedia.org/wiki/おごってジャンケン隊 "wikilink") -
+    [現代洋子](https://zh.wikipedia.org/wiki/現代洋子 "wikilink")
+  - [おたんこナース](https://zh.wikipedia.org/wiki/おたんこナース "wikilink") -
+    [小林光恵](https://zh.wikipedia.org/wiki/小林光恵 "wikilink")+[佐佐木倫子](../Page/佐佐木倫子.md "wikilink")
+  - [男樹](https://zh.wikipedia.org/wiki/男樹 "wikilink")（単行本2巻以降） -
+    [本宮ひろ志](https://zh.wikipedia.org/wiki/本宮ひろ志 "wikilink")
+  - 鬼虫 - [柏木ハルコ](https://zh.wikipedia.org/wiki/柏木ハルコ "wikilink")
+  - オヤジ高校生 - [川三番地](https://zh.wikipedia.org/wiki/川三番地 "wikilink")
+  - [おやすみプンプン](https://zh.wikipedia.org/wiki/おやすみプンプン "wikilink") -
+    [浅野いにお](https://zh.wikipedia.org/wiki/浅野いにお "wikilink")
+    ※『週刊ヤングサンデー』より転籍
+  - 俺の女たち - [本宮ひろ志](https://zh.wikipedia.org/wiki/本宮ひろ志 "wikilink")
+  - [オメガトライブ](https://zh.wikipedia.org/wiki/オメガトライブ_\(漫画\) "wikilink") -
+    [玉井雪雄](https://zh.wikipedia.org/wiki/玉井雪雄 "wikilink")
 
 ### か行
 
-  - [怪獣人生](../Page/怪獣人生.md "wikilink") - ほりのぶゆき
-  - [格闘太陽伝ガチ](../Page/格闘太陽伝ガチ.md "wikilink") -
-    [青山広美](../Page/青山広美.md "wikilink")
-  - [風します?](../Page/風します?.md "wikilink") -
-    [小道迷子](../Page/小道迷子.md "wikilink")
-  - [ガチャバイ](../Page/ガチャバイ.md "wikilink") -
-    [はるき悦巳](../Page/はるき悦巳.md "wikilink")
-  - [神のちから](../Page/神のちから.md "wikilink") -
+  - [怪獣人生](https://zh.wikipedia.org/wiki/怪獣人生 "wikilink") - ほりのぶゆき
+  - [格闘太陽伝ガチ](https://zh.wikipedia.org/wiki/格闘太陽伝ガチ "wikilink") -
+    [青山広美](https://zh.wikipedia.org/wiki/青山広美 "wikilink")
+  - [風します?](https://zh.wikipedia.org/wiki/風します? "wikilink") -
+    [小道迷子](https://zh.wikipedia.org/wiki/小道迷子 "wikilink")
+  - [ガチャバイ](https://zh.wikipedia.org/wiki/ガチャバイ "wikilink") -
+    [はるき悦巳](https://zh.wikipedia.org/wiki/はるき悦巳 "wikilink")
+  - [神のちから](https://zh.wikipedia.org/wiki/神のちから "wikilink") -
     [櫻桃子](../Page/櫻桃子.md "wikilink")
   - [神之左手，惡魔之右手](../Page/神之左手，惡魔之右手.md "wikilink") -
     [楳圖一雄](../Page/楳圖一雄.md "wikilink")
-  - [かもめ☆チャンス](../Page/かもめ☆チャンス.md "wikilink") -
-    [玉井雪雄](../Page/玉井雪雄.md "wikilink")
-  - [カラブキ](../Page/カラブキ.md "wikilink") -
-    [中川いさみ](../Page/中川いさみ.md "wikilink")
-  - [軽井沢シンドローム](../Page/軽井沢シンドローム.md "wikilink") -
-    [たがみよしひさ](../Page/たがみよしひさ.md "wikilink")
+  - [かもめ☆チャンス](https://zh.wikipedia.org/wiki/かもめ☆チャンス "wikilink") -
+    [玉井雪雄](https://zh.wikipedia.org/wiki/玉井雪雄 "wikilink")
+  - [カラブキ](https://zh.wikipedia.org/wiki/カラブキ "wikilink") -
+    [中川いさみ](https://zh.wikipedia.org/wiki/中川いさみ "wikilink")
+  - [軽井沢シンドローム](https://zh.wikipedia.org/wiki/軽井沢シンドローム "wikilink") -
+    [たがみよしひさ](https://zh.wikipedia.org/wiki/たがみよしひさ "wikilink")
   - [キクニの全県ラン
-    走りたおすぜJAPAN\!](../Page/キクニの全県ラン_走りたおすぜJAPAN!.md "wikilink")
-    - [喜国雅彦](../Page/喜国雅彦.md "wikilink")
-  - [傷追い人](../Page/傷追い人.md "wikilink") -
-    [小池一夫](../Page/小池一夫.md "wikilink")+[池上辽一](../Page/池上辽一.md "wikilink")
-  - [キスより簡単](../Page/キスより簡単.md "wikilink") -
-    [石坂啓](../Page/石坂啓.md "wikilink")
-  - [キックのお姉さん](../Page/キックのお姉さん.md "wikilink") -
-    [稲井雄人](../Page/稲井雄人.md "wikilink")
-  - [ギャラリーフェイク](../Page/ギャラリーフェイク.md "wikilink") -
+    走りたおすぜJAPAN\!](https://zh.wikipedia.org/wiki/キクニの全県ラン_走りたおすぜJAPAN! "wikilink")
+    - [喜国雅彦](https://zh.wikipedia.org/wiki/喜国雅彦 "wikilink")
+  - [傷追い人](https://zh.wikipedia.org/wiki/傷追い人 "wikilink") -
+    [小池一夫](https://zh.wikipedia.org/wiki/小池一夫 "wikilink")+[池上辽一](../Page/池上辽一.md "wikilink")
+  - [キスより簡単](https://zh.wikipedia.org/wiki/キスより簡単 "wikilink") -
+    [石坂啓](https://zh.wikipedia.org/wiki/石坂啓 "wikilink")
+  - [キックのお姉さん](https://zh.wikipedia.org/wiki/キックのお姉さん "wikilink") -
+    [稲井雄人](https://zh.wikipedia.org/wiki/稲井雄人 "wikilink")
+  - [ギャラリーフェイク](https://zh.wikipedia.org/wiki/ギャラリーフェイク "wikilink") -
     [細野不二彥](../Page/細野不二彥.md "wikilink")
-  - [ギャル男VS宇宙人](../Page/ギャル男VS宇宙人.md "wikilink") -
-    [𠮷沢潤一](../Page/吉沢潤一.md "wikilink")
-  - [ギョ](../Page/ギョ.md "wikilink") -
+  - [ギャル男VS宇宙人](https://zh.wikipedia.org/wiki/ギャル男VS宇宙人 "wikilink") -
+    [𠮷沢潤一](https://zh.wikipedia.org/wiki/吉沢潤一 "wikilink")
+  - [ギョ](https://zh.wikipedia.org/wiki/ギョ "wikilink") -
     [伊藤润二](../Page/伊藤润二.md "wikilink")\<\!--
-  - [今日あそべる\!?](../Page/今日あそべる!?.md "wikilink") - のりつけ雅春
-    単行本が出るようなら表へ出す--\>
-  - [強制ヒーロー](../Page/強制ヒーロー.md "wikilink") -
-    [宮下裕樹](../Page/宮下裕樹.md "wikilink") ※『月刊\!スピリッツ』へ転籍
-  - [鬼龍院冴子探偵事務所](../Page/鬼龍院冴子探偵事務所.md "wikilink") -
-    [三上龍哉](../Page/三上龍哉.md "wikilink")
-  - [禁ドン\!](../Page/禁ドン!.md "wikilink")
-    -[立沢直也](../Page/立沢直也.md "wikilink")
+  - [今日あそべる\!?](https://zh.wikipedia.org/wiki/今日あそべる!? "wikilink") -
+    のりつけ雅春 単行本が出るようなら表へ出す--\>
+  - [強制ヒーロー](https://zh.wikipedia.org/wiki/強制ヒーロー "wikilink") -
+    [宮下裕樹](https://zh.wikipedia.org/wiki/宮下裕樹 "wikilink")
+    ※『月刊\!スピリッツ』へ転籍
+  - [鬼龍院冴子探偵事務所](https://zh.wikipedia.org/wiki/鬼龍院冴子探偵事務所 "wikilink") -
+    [三上龍哉](https://zh.wikipedia.org/wiki/三上龍哉 "wikilink")
+  - [禁ドン\!](https://zh.wikipedia.org/wiki/禁ドン! "wikilink")
+    -[立沢直也](https://zh.wikipedia.org/wiki/立沢直也 "wikilink")
   - [哭泣杀神](../Page/哭泣杀神.md "wikilink") -
-    [小池一夫](../Page/小池一夫.md "wikilink")+[池上辽一](../Page/池上辽一.md "wikilink")
-  - [月下の棋士](../Page/月下の棋士.md "wikilink") -
-    [能條純一](../Page/能條純一.md "wikilink")
-  - [クマのプー太郎](../Page/クマのプー太郎.md "wikilink") - 中川いさみ
-  - [元気があってよろしいっ\!](../Page/元気があってよろしいっ!.md "wikilink") -
-    [原律子](../Page/原律子.md "wikilink")
-  - [現在官僚系 もふ](../Page/現在官僚系_もふ.md "wikilink") -
-    [鍋田吉郎](../Page/鍋田吉郎.md "wikilink")+[並木洋美](../Page/並木洋美.md "wikilink")
-  - [GOGO\!生活非安全課](../Page/GOGO!生活非安全課.md "wikilink") -
-    [ロドリゲス井之介](../Page/ロドリゲス井之介.md "wikilink")
-  - [GO\!GO\!HEAVEN\!](../Page/GO!GO!HEAVEN!.md "wikilink") -
-    [小原信治](../Page/小原信治.md "wikilink")+[海埜ゆうこ](../Page/海埜ゆうこ.md "wikilink")
-  - [高校アフロ田中](../Page/アフロ田中シリーズ.md "wikilink") -
-    [のりつけ雅春](../Page/のりつけ雅春.md "wikilink")
-  - [高校球児ザワさん](../Page/高校球児ザワさん.md "wikilink") -
-    [三島衛里子](../Page/三島衛里子.md "wikilink")
-  - [合同ナイン](../Page/合同ナイン.md "wikilink") -
-    [若狭たけし](../Page/若狭たけし.md "wikilink")
-  - [コージ苑](../Page/コージ苑.md "wikilink") - 相原コージ
-  - [極道一直線](../Page/極道一直線.md "wikilink") - 三上龍哉
+    [小池一夫](https://zh.wikipedia.org/wiki/小池一夫 "wikilink")+[池上辽一](../Page/池上辽一.md "wikilink")
+  - [月下の棋士](https://zh.wikipedia.org/wiki/月下の棋士 "wikilink") -
+    [能條純一](https://zh.wikipedia.org/wiki/能條純一 "wikilink")
+  - [クマのプー太郎](https://zh.wikipedia.org/wiki/クマのプー太郎 "wikilink") - 中川いさみ
+  - [元気があってよろしいっ\!](https://zh.wikipedia.org/wiki/元気があってよろしいっ! "wikilink")
+    - [原律子](https://zh.wikipedia.org/wiki/原律子 "wikilink")
+  - [現在官僚系 もふ](https://zh.wikipedia.org/wiki/現在官僚系_もふ "wikilink") -
+    [鍋田吉郎](https://zh.wikipedia.org/wiki/鍋田吉郎 "wikilink")+[並木洋美](https://zh.wikipedia.org/wiki/並木洋美 "wikilink")
+  - [GOGO\!生活非安全課](https://zh.wikipedia.org/wiki/GOGO!生活非安全課 "wikilink")
+    - [ロドリゲス井之介](https://zh.wikipedia.org/wiki/ロドリゲス井之介 "wikilink")
+  - [GO\!GO\!HEAVEN\!](https://zh.wikipedia.org/wiki/GO!GO!HEAVEN! "wikilink")
+    -
+    [小原信治](https://zh.wikipedia.org/wiki/小原信治 "wikilink")+[海埜ゆうこ](https://zh.wikipedia.org/wiki/海埜ゆうこ "wikilink")
+  - [高校アフロ田中](https://zh.wikipedia.org/wiki/アフロ田中シリーズ "wikilink") -
+    [のりつけ雅春](https://zh.wikipedia.org/wiki/のりつけ雅春 "wikilink")
+  - [高校球児ザワさん](https://zh.wikipedia.org/wiki/高校球児ザワさん "wikilink") -
+    [三島衛里子](https://zh.wikipedia.org/wiki/三島衛里子 "wikilink")
+  - [合同ナイン](https://zh.wikipedia.org/wiki/合同ナイン "wikilink") -
+    [若狭たけし](https://zh.wikipedia.org/wiki/若狭たけし "wikilink")
+  - [コージ苑](https://zh.wikipedia.org/wiki/コージ苑 "wikilink") - 相原コージ
+  - [極道一直線](https://zh.wikipedia.org/wiki/極道一直線 "wikilink") - 三上龍哉
   - [ココナッツピリオド
-    -地球温暖化を止めるウサギ-](../Page/ココナッツピリオド_-地球温暖化を止めるウサギ-.md "wikilink")
-    - [山田玲司](../Page/山田玲司.md "wikilink")
-  - [QUOJUZ-コジューツ-](../Page/QUOJUZ-コジューツ-.md "wikilink") -
-    [柏木ハルコ](../Page/柏木ハルコ.md "wikilink")
-  - [56マイルの悪魔](../Page/56マイルの悪魔.md "wikilink") -
-    [御厨さと美](../Page/御厨さと美.md "wikilink")
-  - [このSを、見よ\!](../Page/このSを、見よ!.md "wikilink") -
+    -地球温暖化を止めるウサギ-](https://zh.wikipedia.org/wiki/ココナッツピリオド_-地球温暖化を止めるウサギ- "wikilink")
+    - [山田玲司](https://zh.wikipedia.org/wiki/山田玲司 "wikilink")
+  - [QUOJUZ-コジューツ-](https://zh.wikipedia.org/wiki/QUOJUZ-コジューツ- "wikilink")
+    - [柏木ハルコ](https://zh.wikipedia.org/wiki/柏木ハルコ "wikilink")
+  - [56マイルの悪魔](https://zh.wikipedia.org/wiki/56マイルの悪魔 "wikilink") -
+    [御厨さと美](https://zh.wikipedia.org/wiki/御厨さと美 "wikilink")
+  - [このSを、見よ\!](https://zh.wikipedia.org/wiki/このSを、見よ! "wikilink") -
     [北崎拓](../Page/北崎拓.md "wikilink")
 
 ### さ行
 
-  - [サーティーガールズ](../Page/サーティーガールズ.md "wikilink") -
-    [北沢未也](../Page/北沢未也.md "wikilink")+若狭たけし
+  - [サーティーガールズ](https://zh.wikipedia.org/wiki/サーティーガールズ "wikilink") -
+    [北沢未也](https://zh.wikipedia.org/wiki/北沢未也 "wikilink")+若狭たけし
   - [最终兵器少女](../Page/最终兵器少女.md "wikilink") - 高橋しん
-  - [早乙女タイフーン](../Page/早乙女タイフーン.md "wikilink") -
-    [鯨井意玖子](../Page/鯨井意玖子.md "wikilink")
-  - [さすらいアフロ田中](../Page/アフロ田中シリーズ.md "wikilink") -
-    [のりつけ雅春](../Page/のりつけ雅春.md "wikilink")
-  - [サユリ1号](../Page/サユリ1号.md "wikilink") -
-    [村上かつら](../Page/村上かつら.md "wikilink")
-  - [サヨナラレフティ](../Page/サヨナラレフティ.md "wikilink") -
-    [小倉和之](../Page/小倉和之.md "wikilink")＋[山本おさむ](../Page/山本おさむ.md "wikilink")
-  - [サルでも描けるまんが教室](../Page/サルでも描けるまんが教室.md "wikilink") -
-    [竹熊健太郎](../Page/竹熊健太郎.md "wikilink")+相原コージ
-  - [THE3名様](../Page/THE3名様.md "wikilink") -
-    [石原まこちん](../Page/石原まこちん.md "wikilink")
+  - [早乙女タイフーン](https://zh.wikipedia.org/wiki/早乙女タイフーン "wikilink") -
+    [鯨井意玖子](https://zh.wikipedia.org/wiki/鯨井意玖子 "wikilink")
+  - [さすらいアフロ田中](https://zh.wikipedia.org/wiki/アフロ田中シリーズ "wikilink") -
+    [のりつけ雅春](https://zh.wikipedia.org/wiki/のりつけ雅春 "wikilink")
+  - [サユリ1号](https://zh.wikipedia.org/wiki/サユリ1号 "wikilink") -
+    [村上かつら](https://zh.wikipedia.org/wiki/村上かつら "wikilink")
+  - [サヨナラレフティ](https://zh.wikipedia.org/wiki/サヨナラレフティ "wikilink") -
+    [小倉和之](https://zh.wikipedia.org/wiki/小倉和之 "wikilink")＋[山本おさむ](https://zh.wikipedia.org/wiki/山本おさむ "wikilink")
+  - [サルでも描けるまんが教室](https://zh.wikipedia.org/wiki/サルでも描けるまんが教室 "wikilink")
+    - [竹熊健太郎](https://zh.wikipedia.org/wiki/竹熊健太郎 "wikilink")+相原コージ
+  - [THE3名様](https://zh.wikipedia.org/wiki/THE3名様 "wikilink") -
+    [石原まこちん](https://zh.wikipedia.org/wiki/石原まこちん "wikilink")
   - [空姐真命苦](../Page/空姐真命苦.md "wikilink") -
-  - [CB感。reborn](../Page/CB感。reborn.md "wikilink") -
-    [東本昌平](../Page/東本昌平.md "wikilink")
+  - [CB感。reborn](https://zh.wikipedia.org/wiki/CB感。reborn "wikilink") -
+    [東本昌平](https://zh.wikipedia.org/wiki/東本昌平 "wikilink")
   - [GTR -GREAT TARO
-    REVOLUTION-](../Page/GTR_-GREAT_TARO_REVOLUTION-.md "wikilink") -
-    [椎名理央](../Page/椎名理央.md "wikilink")+[戸田尚伸](../Page/戸田尚伸.md "wikilink")
-  - [J.BOY](../Page/J.BOY_\(漫画\).md "wikilink") - 能條純一
-  - [7人のシェイクスピア](../Page/7人のシェイクスピア.md "wikilink") -
-    [ハロルド作石](../Page/ハロルド作石.md "wikilink")
-  - [疾風迅雷](../Page/疾風迅雷.md "wikilink")
-    -[もりやまつる](../Page/もりやまつる.md "wikilink")
-  - [しっぷうどとう](../Page/しっぷうどとう.md "wikilink") - 盛田賢司
-  - [邪眼は月輪に飛ぶ](../Page/邪眼は月輪に飛ぶ.md "wikilink") -
+    REVOLUTION-](https://zh.wikipedia.org/wiki/GTR_-GREAT_TARO_REVOLUTION- "wikilink")
+    -
+    [椎名理央](https://zh.wikipedia.org/wiki/椎名理央 "wikilink")+[戸田尚伸](https://zh.wikipedia.org/wiki/戸田尚伸 "wikilink")
+  - [J.BOY](https://zh.wikipedia.org/wiki/J.BOY_\(漫画\) "wikilink") -
+    能條純一
+  - [7人のシェイクスピア](https://zh.wikipedia.org/wiki/7人のシェイクスピア "wikilink") -
+    [ハロルド作石](https://zh.wikipedia.org/wiki/ハロルド作石 "wikilink")
+  - [疾風迅雷](https://zh.wikipedia.org/wiki/疾風迅雷 "wikilink")
+    -[もりやまつる](https://zh.wikipedia.org/wiki/もりやまつる "wikilink")
+  - [しっぷうどとう](https://zh.wikipedia.org/wiki/しっぷうどとう "wikilink") - 盛田賢司
+  - [邪眼は月輪に飛ぶ](https://zh.wikipedia.org/wiki/邪眼は月輪に飛ぶ "wikilink") -
     [藤田和日郎](../Page/藤田和日郎.md "wikilink")
-  - [シュトヘル](../Page/シュトヘル.md "wikilink") -
-    [伊藤悠](../Page/伊藤悠.md "wikilink") ※『月刊\!スピリッツ』へ転籍
+  - [シュトヘル](https://zh.wikipedia.org/wiki/シュトヘル "wikilink") -
+    [伊藤悠](https://zh.wikipedia.org/wiki/伊藤悠 "wikilink")
+    ※『月刊\!スピリッツ』へ転籍
   - [ショコラ](../Page/流氓蛋糕店.md "wikilink") -
-    [窪之內英策](../Page/窪之內英策.md "wikilink")
-  - [SHOP自分](../Page/SHOP自分.md "wikilink") -
-    [柳沢きみお](../Page/柳沢きみお.md "wikilink")
-  - [上京アフロ田中](../Page/アフロ田中シリーズ.md "wikilink") - のりつけ雅春
+    [窪之內英策](https://zh.wikipedia.org/wiki/窪之內英策 "wikilink")
+  - [SHOP自分](https://zh.wikipedia.org/wiki/SHOP自分 "wikilink") -
+    [柳沢きみお](https://zh.wikipedia.org/wiki/柳沢きみお "wikilink")
+  - [上京アフロ田中](https://zh.wikipedia.org/wiki/アフロ田中シリーズ "wikilink") -
+    のりつけ雅春
   - [新クロサギ](../Page/诈欺猎人.md "wikilink") -
-    [黒丸](../Page/黑丸.md "wikilink")、原案：[夏原武](../Page/夏原武.md "wikilink")
-  - [新ブラックジャックによろしく](../Page/醫界風雲.md "wikilink") -
-    [佐藤秀峰](../Page/佐藤秀峰.md "wikilink")
-  - [スキエンティア](../Page/スキエンティア.md "wikilink") -
-    [戸田誠二](../Page/戸田誠二.md "wikilink") ※『月刊\!スピリッツ』へ転籍
-  - [水晶（スジョン） 日韓恋愛狂詩曲](../Page/水晶_日韓恋愛狂詩曲.md "wikilink") -
-    [猪熊しのぶ](../Page/猪熊しのぶ.md "wikilink")、原案：[TK<sup>2</sup>](../Page/江夏賢.md "wikilink")
-  - [昴（スバル）](../Page/昴_\(漫画\).md "wikilink") -
-    [曽田正人](../Page/曽田正人.md "wikilink")
-  - [スポーツポン](../Page/スポーツポン.md "wikilink") -
-    [吉田戦車](../Page/吉田戦車.md "wikilink")
-  - [スローニン](../Page/スローニン.md "wikilink") -
-    [吉田聡](../Page/吉田聡.md "wikilink")
-  - [寸前爆発](../Page/寸前爆発.md "wikilink") -
-    [常盤雅幸](../Page/常盤雅幸.md "wikilink")
-  - [正義の味方モンキーズ](../Page/正義の味方モンキーズ.md "wikilink") -
-    [山本康人](../Page/山本康人.md "wikilink")
-  - [ゼブラーマン](../Page/ゼブラーマン_\(漫画\).md "wikilink") -
-    [宮藤官九郎](../Page/宮藤官九郎.md "wikilink")+[山田玲司](../Page/山田玲司.md "wikilink")
-  - [セルフ](../Page/セルフ_\(漫画\).md "wikilink") -
-    [朔ユキ蔵](../Page/朔ユキ蔵.md "wikilink")
-  - [センチメントの季節](../Page/センチメントの季節.md "wikilink") -
-    [榎本ナリコ](../Page/榎本ナリコ.md "wikilink")
-  - [村塾物語](../Page/村塾物語.md "wikilink") - はしもといわお
+    [黒丸](../Page/黑丸.md "wikilink")、原案：[夏原武](https://zh.wikipedia.org/wiki/夏原武 "wikilink")
+  - [新ブラックジャックによろしく](https://zh.wikipedia.org/wiki/醫界風雲 "wikilink") -
+    [佐藤秀峰](https://zh.wikipedia.org/wiki/佐藤秀峰 "wikilink")
+  - [スキエンティア](https://zh.wikipedia.org/wiki/スキエンティア "wikilink") -
+    [戸田誠二](https://zh.wikipedia.org/wiki/戸田誠二 "wikilink")
+    ※『月刊\!スピリッツ』へ転籍
+  - [水晶（スジョン）
+    日韓恋愛狂詩曲](https://zh.wikipedia.org/wiki/水晶_日韓恋愛狂詩曲 "wikilink")
+    -
+    [猪熊しのぶ](https://zh.wikipedia.org/wiki/猪熊しのぶ "wikilink")、原案：[TK<sup>2</sup>](https://zh.wikipedia.org/wiki/江夏賢 "wikilink")
+  - [昴（スバル）](https://zh.wikipedia.org/wiki/昴_\(漫画\) "wikilink") -
+    [曽田正人](https://zh.wikipedia.org/wiki/曽田正人 "wikilink")
+  - [スポーツポン](https://zh.wikipedia.org/wiki/スポーツポン "wikilink") -
+    [吉田戦車](https://zh.wikipedia.org/wiki/吉田戦車 "wikilink")
+  - [スローニン](https://zh.wikipedia.org/wiki/スローニン "wikilink") -
+    [吉田聡](https://zh.wikipedia.org/wiki/吉田聡 "wikilink")
+  - [寸前爆発](https://zh.wikipedia.org/wiki/寸前爆発 "wikilink") -
+    [常盤雅幸](https://zh.wikipedia.org/wiki/常盤雅幸 "wikilink")
+  - [正義の味方モンキーズ](https://zh.wikipedia.org/wiki/正義の味方モンキーズ "wikilink") -
+    [山本康人](https://zh.wikipedia.org/wiki/山本康人 "wikilink")
+  - [ゼブラーマン](https://zh.wikipedia.org/wiki/ゼブラーマン_\(漫画\) "wikilink") -
+    [宮藤官九郎](../Page/宮藤官九郎.md "wikilink")+[山田玲司](https://zh.wikipedia.org/wiki/山田玲司 "wikilink")
+  - [セルフ](https://zh.wikipedia.org/wiki/セルフ_\(漫画\) "wikilink") -
+    [朔ユキ蔵](https://zh.wikipedia.org/wiki/朔ユキ蔵 "wikilink")
+  - [センチメントの季節](https://zh.wikipedia.org/wiki/センチメントの季節 "wikilink") -
+    [榎本ナリコ](https://zh.wikipedia.org/wiki/榎本ナリコ "wikilink")
+  - [村塾物語](https://zh.wikipedia.org/wiki/村塾物語 "wikilink") - はしもといわお
 
 ### た行
 
   - [就業向前衝](../Page/就業向前衝.md "wikilink") -
-    [山口かつみ](../Page/山口かつみ.md "wikilink")
-  - [竹光侍](../Page/竹光侍.md "wikilink") -
-    原作：[永福一成](../Page/永福一成.md "wikilink")、漫画：[松本大洋](../Page/松本大洋.md "wikilink")
-  - [旅マン](../Page/旅マン.md "wikilink") - ほりのぶゆき
-  - [男魂\!\!インポッシブル](../Page/男魂!!インポッシブル.md "wikilink") -
-    [深海魚](../Page/深海魚_\(漫画家\).md "wikilink")
-  - [地平線でダンス](../Page/地平線でダンス.md "wikilink") -
-    [柏木ハルコ](../Page/柏木ハルコ.md "wikilink")
-  - [ちゃんどら](../Page/ちゃんどら.md "wikilink") -
-    [いしかわじゅん](../Page/いしかわじゅん.md "wikilink")
-  - [チャンネルはそのまま\!](../Page/チャンネルはそのまま!.md "wikilink") -
-    [佐佐木倫子](../Page/佐佐木倫子.md "wikilink")
-  - [駐禁ウォーズ\!\!](../Page/駐禁ウォーズ!!.md "wikilink") -
-    [今井亮一](../Page/今井亮一.md "wikilink")+[ウヒョ助](../Page/ウヒョ助.md "wikilink")
-  - [中退アフロ田中](../Page/アフロ田中シリーズ.md "wikilink") - のりつけ雅春
-  - [チューロウ](../Page/チューロウ.md "wikilink") - 盛田賢司
-    ※『[ビッグコミックスピリッツ21](../Page/ビッグコミックスピリッツ21.md "wikilink")』へ転籍
-  - [超人ウタダ](../Page/超人ウタダ.md "wikilink") - 山本康人
-  - [ちょんまげどん](../Page/ちょんまげどん.md "wikilink") - ほりのぶゆき
-  - [妻をめとらば](../Page/妻をめとらば.md "wikilink") -
-    [柳沢きみお](../Page/柳沢きみお.md "wikilink")
-  - [つゆダク](../Page/つゆダク.md "wikilink") -
-    [朔ユキ蔵](../Page/朔ユキ蔵.md "wikilink")
-  - [ツルモク独身寮](../Page/ツルモク独身寮.md "wikilink") -
-    [窪之內英策](../Page/窪之內英策.md "wikilink")
-  - [DINO（ディーノ）](../Page/DINO_\(漫画\).md "wikilink") - 柳沢きみお
-  - [ティーンズブルース](../Page/ティーンズブルース.md "wikilink") -
-    [コージィ城倉](../Page/コージィ城倉.md "wikilink")
-  - [Dの魔王 ジョーカー・ゲーム](../Page/ジョーカー・ゲーム.md "wikilink") -
-    [柳廣司](../Page/柳廣司.md "wikilink")+[霜月かよ子](../Page/霜月かよ子.md "wikilink")
+    [山口かつみ](https://zh.wikipedia.org/wiki/山口かつみ "wikilink")
+  - [竹光侍](https://zh.wikipedia.org/wiki/竹光侍 "wikilink") -
+    原作：[永福一成](https://zh.wikipedia.org/wiki/永福一成 "wikilink")、漫画：[松本大洋](https://zh.wikipedia.org/wiki/松本大洋 "wikilink")
+  - [旅マン](https://zh.wikipedia.org/wiki/旅マン "wikilink") - ほりのぶゆき
+  - [男魂\!\!インポッシブル](https://zh.wikipedia.org/wiki/男魂!!インポッシブル "wikilink")
+    - [深海魚](https://zh.wikipedia.org/wiki/深海魚_\(漫画家\) "wikilink")
+  - [地平線でダンス](https://zh.wikipedia.org/wiki/地平線でダンス "wikilink") -
+    [柏木ハルコ](https://zh.wikipedia.org/wiki/柏木ハルコ "wikilink")
+  - [ちゃんどら](https://zh.wikipedia.org/wiki/ちゃんどら "wikilink") -
+    [いしかわじゅん](https://zh.wikipedia.org/wiki/いしかわじゅん "wikilink")
+  - [チャンネルはそのまま\!](https://zh.wikipedia.org/wiki/チャンネルはそのまま! "wikilink")
+    - [佐佐木倫子](../Page/佐佐木倫子.md "wikilink")
+  - [駐禁ウォーズ\!\!](https://zh.wikipedia.org/wiki/駐禁ウォーズ!! "wikilink") -
+    [今井亮一](https://zh.wikipedia.org/wiki/今井亮一 "wikilink")+[ウヒョ助](https://zh.wikipedia.org/wiki/ウヒョ助 "wikilink")
+  - [中退アフロ田中](https://zh.wikipedia.org/wiki/アフロ田中シリーズ "wikilink") -
+    のりつけ雅春
+  - [チューロウ](https://zh.wikipedia.org/wiki/チューロウ "wikilink") - 盛田賢司
+    ※『[ビッグコミックスピリッツ21](https://zh.wikipedia.org/wiki/ビッグコミックスピリッツ21 "wikilink")』へ転籍
+  - [超人ウタダ](https://zh.wikipedia.org/wiki/超人ウタダ "wikilink") - 山本康人
+  - [ちょんまげどん](https://zh.wikipedia.org/wiki/ちょんまげどん "wikilink") - ほりのぶゆき
+  - [妻をめとらば](https://zh.wikipedia.org/wiki/妻をめとらば "wikilink") -
+    [柳沢きみお](https://zh.wikipedia.org/wiki/柳沢きみお "wikilink")
+  - [つゆダク](https://zh.wikipedia.org/wiki/つゆダク "wikilink") -
+    [朔ユキ蔵](https://zh.wikipedia.org/wiki/朔ユキ蔵 "wikilink")
+  - [ツルモク独身寮](https://zh.wikipedia.org/wiki/ツルモク独身寮 "wikilink") -
+    [窪之內英策](https://zh.wikipedia.org/wiki/窪之內英策 "wikilink")
+  - [DINO（ディーノ）](https://zh.wikipedia.org/wiki/DINO_\(漫画\) "wikilink") -
+    柳沢きみお
+  - [ティーンズブルース](https://zh.wikipedia.org/wiki/ティーンズブルース "wikilink") -
+    [コージィ城倉](https://zh.wikipedia.org/wiki/コージィ城倉 "wikilink")
+  - [Dの魔王 ジョーカー・ゲーム](https://zh.wikipedia.org/wiki/ジョーカー・ゲーム "wikilink")
+    -
+    [柳廣司](../Page/柳廣司.md "wikilink")+[霜月かよ子](https://zh.wikipedia.org/wiki/霜月かよ子 "wikilink")
     ※『月刊\!スピリッツ』へ転籍
-  - [帝王](../Page/帝王_\(漫画\).md "wikilink") -
-    [倉科遼](../Page/倉科遼.md "wikilink")+[関口太郎](../Page/関口太郎_\(漫画家\).md "wikilink")
-  - [惡童](../Page/惡童.md "wikilink") - [松本大洋](../Page/松本大洋.md "wikilink")
-  - [鉄腕バーディー EVOLUTION](../Page/鉄腕バーディー_EVOLUTION.md "wikilink") -
-    [結城正美](../Page/結城正美.md "wikilink")
-  - [出直しといで\!](../Page/出直しといで!.md "wikilink") -
+  - [帝王](https://zh.wikipedia.org/wiki/帝王_\(漫画\) "wikilink") -
+    [倉科遼](../Page/倉科遼.md "wikilink")+[関口太郎](https://zh.wikipedia.org/wiki/関口太郎_\(漫画家\) "wikilink")
+  - [惡童](../Page/惡童.md "wikilink") -
+    [松本大洋](https://zh.wikipedia.org/wiki/松本大洋 "wikilink")
+  - [鉄腕バーディー
+    EVOLUTION](https://zh.wikipedia.org/wiki/鉄腕バーディー_EVOLUTION "wikilink")
+    - [結城正美](../Page/結城正美.md "wikilink")
+  - [出直しといで\!](https://zh.wikipedia.org/wiki/出直しといで! "wikilink") -
     [一色真人](../Page/一色真人.md "wikilink")
-  - [出るトコ出ましょ\!](../Page/出るトコ出ましょ!.md "wikilink") -
-    [稲光伸二](../Page/稲光伸二.md "wikilink")
-  - [テレキネシス 山手テレビキネマ室](../Page/テレキネシス_山手テレビキネマ室.md "wikilink") -
-    [芳崎せいむ](../Page/芳崎せいむ.md "wikilink")+[東周斎雅楽](../Page/東周斎雅楽.md "wikilink")
-  - [転校生 オレのあそこがあいつのアレで](../Page/転校生_オレのあそこがあいつのアレで.md "wikilink") -
-    [古泉智浩](../Page/古泉智浩.md "wikilink")
-  - [電光石火](../Page/電光石火.md "wikilink") - 盛田賢司
-  - [電波の城](../Page/電波の城.md "wikilink") - 細野不二彦
-  - [東京エイティーズ](../Page/東京エイティーズ.md "wikilink") -
+  - [出るトコ出ましょ\!](https://zh.wikipedia.org/wiki/出るトコ出ましょ! "wikilink") -
+    [稲光伸二](https://zh.wikipedia.org/wiki/稲光伸二 "wikilink")
+  - [テレキネシス
+    山手テレビキネマ室](https://zh.wikipedia.org/wiki/テレキネシス_山手テレビキネマ室 "wikilink")
+    -
+    [芳崎せいむ](https://zh.wikipedia.org/wiki/芳崎せいむ "wikilink")+[東周斎雅楽](https://zh.wikipedia.org/wiki/東周斎雅楽 "wikilink")
+  - [転校生
+    オレのあそこがあいつのアレで](https://zh.wikipedia.org/wiki/転校生_オレのあそこがあいつのアレで "wikilink")
+    - [古泉智浩](https://zh.wikipedia.org/wiki/古泉智浩 "wikilink")
+  - [電光石火](https://zh.wikipedia.org/wiki/電光石火 "wikilink") - 盛田賢司
+  - [電波の城](https://zh.wikipedia.org/wiki/電波の城 "wikilink") - 細野不二彦
+  - [東京エイティーズ](https://zh.wikipedia.org/wiki/東京エイティーズ "wikilink") -
     [安童夕馬](../Page/樹林伸.md "wikilink")+大石知征
-  - [東京大学物語](../Page/東京大学物語.md "wikilink") -
+  - [東京大学物語](https://zh.wikipedia.org/wiki/東京大学物語 "wikilink") -
     [江川達也](../Page/江川達也.md "wikilink")
   - [東京愛情故事](../Page/東京愛情故事.md "wikilink") - 柴門ふみ
-  - [逃走鉄馬バイソン](../Page/逃走鉄馬バイソン.md "wikilink") -
-    [カサギヒロシ](../Page/カサギヒロシ.md "wikilink")
-  - [遠い星から来たALICE](../Page/遠い星から来たALICE.md "wikilink") -
-    [藤泽亨](../Page/藤泽亨.md "wikilink")
-  - [DAWN -陽はまた昇る-](../Page/DAWN_-陽はまた昇る-.md "wikilink") -
-    [倉科遼](../Page/倉科遼.md "wikilink")+[ナカタニD.](../Page/ナカタニD..md "wikilink")
-  - [とつぜんDr.](../Page/とつぜんDr..md "wikilink") -
-    [吾妻ひでお](../Page/吾妻ひでお.md "wikilink")
-  - [トラキーヨ](../Page/トラキーヨ.md "wikilink") - 吉田聡
-  - [虎の娘](../Page/虎の娘.md "wikilink") -
-    [宮谷一彦](../Page/宮谷一彦.md "wikilink")
+  - [逃走鉄馬バイソン](https://zh.wikipedia.org/wiki/逃走鉄馬バイソン "wikilink") -
+    [カサギヒロシ](https://zh.wikipedia.org/wiki/カサギヒロシ "wikilink")
+  - [遠い星から来たALICE](https://zh.wikipedia.org/wiki/遠い星から来たALICE "wikilink")
+    - [藤泽亨](../Page/藤泽亨.md "wikilink")
+  - [DAWN
+    -陽はまた昇る-](https://zh.wikipedia.org/wiki/DAWN_-陽はまた昇る- "wikilink")
+    -
+    [倉科遼](../Page/倉科遼.md "wikilink")+[ナカタニD.](https://zh.wikipedia.org/wiki/ナカタニD. "wikilink")
+  - [とつぜんDr.](https://zh.wikipedia.org/wiki/とつぜんDr. "wikilink") -
+    [吾妻ひでお](https://zh.wikipedia.org/wiki/吾妻ひでお "wikilink")
+  - [トラキーヨ](https://zh.wikipedia.org/wiki/トラキーヨ "wikilink") - 吉田聡
+  - [虎の娘](https://zh.wikipedia.org/wiki/虎の娘 "wikilink") -
+    [宮谷一彦](https://zh.wikipedia.org/wiki/宮谷一彦 "wikilink")
 
 ### な行
 
   - [奈緒子](../Page/奈緒子.md "wikilink") -
-    [坂田信弘](../Page/坂田信弘.md "wikilink")+中原裕
-  - [永沢君](../Page/永沢君.md "wikilink") - さくらももこ
-  - [殴るぞ](../Page/殴るぞ.md "wikilink") - 吉田戦車
-  - [なぜか笑介](../Page/なぜか笑介.md "wikilink") -
-    [聖日出夫](../Page/聖日出夫.md "wikilink")
-  - [にじこしいいんちょう](../Page/にじこしいいんちょう.md "wikilink") -
-    [のぶみ](../Page/のぶみ.md "wikilink")
-  - [21世紀少年](../Page/20世紀少年.md "wikilink") -
+    [坂田信弘](https://zh.wikipedia.org/wiki/坂田信弘 "wikilink")+中原裕
+  - [永沢君](https://zh.wikipedia.org/wiki/永沢君 "wikilink") - さくらももこ
+  - [殴るぞ](https://zh.wikipedia.org/wiki/殴るぞ "wikilink") - 吉田戦車
+  - [なぜか笑介](https://zh.wikipedia.org/wiki/なぜか笑介 "wikilink") -
+    [聖日出夫](https://zh.wikipedia.org/wiki/聖日出夫 "wikilink")
+  - [にじこしいいんちょう](https://zh.wikipedia.org/wiki/にじこしいいんちょう "wikilink") -
+    [のぶみ](https://zh.wikipedia.org/wiki/のぶみ "wikilink")
+  - [21世紀少年](https://zh.wikipedia.org/wiki/20世紀少年 "wikilink") -
     [浦澤直樹](../Page/浦澤直樹.md "wikilink")
-  - [20世紀少年](../Page/20世紀少年.md "wikilink") - 浦沢直樹
-  - [日露戦争物語](../Page/日露戦争物語.md "wikilink") -
+  - [20世紀少年](https://zh.wikipedia.org/wiki/20世紀少年 "wikilink") - 浦沢直樹
+  - [日露戦争物語](https://zh.wikipedia.org/wiki/日露戦争物語 "wikilink") -
     [江川達也](../Page/江川達也.md "wikilink")
-  - [日曜、午後、六時半。](../Page/日曜、午後、六時半。.md "wikilink") -
-    [浅野いにお](../Page/浅野いにお.md "wikilink")
-  - [二匹のブル](../Page/二匹のブル.md "wikilink") -
-    [瀬叩龍](../Page/瀬叩龍.md "wikilink")+[岩重孝](../Page/いわしげ孝.md "wikilink")
-  - [日本沈没](../Page/日本沉沒_\(漫畫\).md "wikilink") -
-    [小松左京](../Page/小松左京.md "wikilink")+[一色登希彦](../Page/一色登希彦.md "wikilink")
-  - [のぼうの城](../Page/のぼうの城.md "wikilink") -
-    [和田竜](../Page/和田竜.md "wikilink")+花咲アキラ
+  - [日曜、午後、六時半。](https://zh.wikipedia.org/wiki/日曜、午後、六時半。 "wikilink") -
+    [浅野いにお](https://zh.wikipedia.org/wiki/浅野いにお "wikilink")
+  - [二匹のブル](https://zh.wikipedia.org/wiki/二匹のブル "wikilink") -
+    [瀬叩龍](https://zh.wikipedia.org/wiki/瀬叩龍 "wikilink")+[岩重孝](https://zh.wikipedia.org/wiki/いわしげ孝 "wikilink")
+  - [日本沈没](https://zh.wikipedia.org/wiki/日本沉沒_\(漫畫\) "wikilink") -
+    [小松左京](../Page/小松左京.md "wikilink")+[一色登希彦](https://zh.wikipedia.org/wiki/一色登希彦 "wikilink")
+  - [のぼうの城](https://zh.wikipedia.org/wiki/のぼうの城 "wikilink") -
+    [和田竜](https://zh.wikipedia.org/wiki/和田竜 "wikilink")+花咲アキラ
 
 ### は行
 
-  - [ハーフな分だけ](../Page/ハーフな分だけ.md "wikilink") -
+  - [ハーフな分だけ](https://zh.wikipedia.org/wiki/ハーフな分だけ "wikilink") -
     [星里望留](../Page/星里望留.md "wikilink")
-  - [π（パイ）](../Page/π（漫画）.md "wikilink") -
+  - [π（パイ）](https://zh.wikipedia.org/wiki/π（漫画） "wikilink") -
     [古屋兔丸](../Page/古屋兔丸.md "wikilink")
-  - [HIDEOUT](../Page/HIDEOUT.md "wikilink") -
-    [柿崎正澄](../Page/柿崎正澄.md "wikilink")
-  - [パギャル\!](../Page/パギャル!.md "wikilink") -
-    [浜田ブリトニー](../Page/浜田ブリトニー.md "wikilink")
-  - [ハクバノ王子サマ](../Page/ハクバノ王子サマ.md "wikilink") - 朔ユキ蔵
-  - [バケツでごはん](../Page/バケツでごはん.md "wikilink") -
-    [玖保キリコ](../Page/玖保キリコ.md "wikilink")
-  - [ハッスル](../Page/ハッスル_\(漫画\).md "wikilink") - 一色まこと
-  - [はっぱ64](../Page/はっぱ64.md "wikilink") - 山本直樹
+  - [HIDEOUT](https://zh.wikipedia.org/wiki/HIDEOUT "wikilink") -
+    [柿崎正澄](https://zh.wikipedia.org/wiki/柿崎正澄 "wikilink")
+  - [パギャル\!](https://zh.wikipedia.org/wiki/パギャル! "wikilink") -
+    [浜田ブリトニー](https://zh.wikipedia.org/wiki/浜田ブリトニー "wikilink")
+  - [ハクバノ王子サマ](https://zh.wikipedia.org/wiki/ハクバノ王子サマ "wikilink") - 朔ユキ蔵
+  - [バケツでごはん](https://zh.wikipedia.org/wiki/バケツでごはん "wikilink") -
+    [玖保キリコ](https://zh.wikipedia.org/wiki/玖保キリコ "wikilink")
+  - [ハッスル](https://zh.wikipedia.org/wiki/ハッスル_\(漫画\) "wikilink") - 一色まこと
+  - [はっぱ64](https://zh.wikipedia.org/wiki/はっぱ64 "wikilink") - 山本直樹
   - [Happy\!](../Page/Happy!.md "wikilink") -
     [浦澤直樹](../Page/浦澤直樹.md "wikilink")
-  - [バドフライ](../Page/バドフライ.md "wikilink") -
-    [イワシタシゲユキ](../Page/イワシタシゲユキ.md "wikilink")
-  - [花園メリーゴーランド](../Page/花園メリーゴーランド.md "wikilink") - 柏木ハルコ
-  - [パパがも一度恋をした](../Page/パパがも一度恋をした.md "wikilink") -
-    [阿部潤](../Page/阿部潤.md "wikilink")
-  - [パパはニューギニア](../Page/パパはニューギニア.md "wikilink") -
-    [高野聖ーナ](../Page/高野聖ーナ.md "wikilink")
-  - [パパリンコ物語](../Page/パパリンコ物語.md "wikilink") -
-    [江口寿史](../Page/江口寿史.md "wikilink")
-  - [パラダイス通信](../Page/パラダイス通信.md "wikilink") -
-    [神戸さくみ](../Page/神戸さくみ.md "wikilink")
-  - [はるちゃん](../Page/はるちゃん.md "wikilink") -
-    [青柳裕介](../Page/青柳裕介.md "wikilink")
-  - [バロンドリロンド](../Page/バロンドリロンド.md "wikilink") -
-    北沢未也+[梶川卓郎](../Page/梶川卓郎.md "wikilink")
+  - [バドフライ](https://zh.wikipedia.org/wiki/バドフライ "wikilink") -
+    [イワシタシゲユキ](https://zh.wikipedia.org/wiki/イワシタシゲユキ "wikilink")
+  - [花園メリーゴーランド](https://zh.wikipedia.org/wiki/花園メリーゴーランド "wikilink") -
+    柏木ハルコ
+  - [パパがも一度恋をした](https://zh.wikipedia.org/wiki/パパがも一度恋をした "wikilink") -
+    [阿部潤](https://zh.wikipedia.org/wiki/阿部潤 "wikilink")
+  - [パパはニューギニア](https://zh.wikipedia.org/wiki/パパはニューギニア "wikilink") -
+    [高野聖ーナ](https://zh.wikipedia.org/wiki/高野聖ーナ "wikilink")
+  - [パパリンコ物語](https://zh.wikipedia.org/wiki/パパリンコ物語 "wikilink") -
+    [江口寿史](https://zh.wikipedia.org/wiki/江口寿史 "wikilink")
+  - [パラダイス通信](https://zh.wikipedia.org/wiki/パラダイス通信 "wikilink") -
+    [神戸さくみ](https://zh.wikipedia.org/wiki/神戸さくみ "wikilink")
+  - [はるちゃん](https://zh.wikipedia.org/wiki/はるちゃん "wikilink") -
+    [青柳裕介](https://zh.wikipedia.org/wiki/青柳裕介 "wikilink")
+  - [バロンドリロンド](https://zh.wikipedia.org/wiki/バロンドリロンド "wikilink") -
+    北沢未也+[梶川卓郎](https://zh.wikipedia.org/wiki/梶川卓郎 "wikilink")
   - [料理新鮮人](../Page/料理新鮮人.md "wikilink") -
-    [せきやてつじ](../Page/せきやてつじ.md "wikilink")
+    [せきやてつじ](https://zh.wikipedia.org/wiki/せきやてつじ "wikilink")
       - バンビ〜ノ\! SECONDO
-  - [ヒガンバナの女王](../Page/ヒガンバナの女王.md "wikilink") -
-    [岡仁志太郎](../Page/岡仁志太郎.md "wikilink")
-  - [美大受験戦記 アリエネ](../Page/美大受験戦記_アリエネ.md "wikilink") -
-    [山田玲司](../Page/山田玲司.md "wikilink") ※『月刊\!スピリッツ』へ転籍
-  - [100億の男](../Page/100億の男.md "wikilink") -
-    [国友やすゆき](../Page/国友やすゆき.md "wikilink")
-  - [ひらけ相合傘](../Page/ひらけ相合傘.md "wikilink") -
-    [吉田戦車](../Page/吉田戦車.md "wikilink")
-  - [ビリーバーズ](../Page/ビリーバーズ.md "wikilink") - 山本直樹
-  - [ピンポン](../Page/乒乓_\(電影\).md "wikilink") -
-    [松本大洋](../Page/松本大洋.md "wikilink")
-  - [fine.](../Page/fine..md "wikilink")
-    -[ファイン](../Page/ファイン.md "wikilink") -
-    [信濃川日出雄](../Page/信濃川日出雄.md "wikilink")
-  - [ブラック&ホワイト](../Page/ブラック&ホワイト_\(漫画\).md "wikilink") -
-    [高橋春男](../Page/高橋春男.md "wikilink") ※『ブラックあんどホワイト』と表記されることもある
-  - [プラモ男子とプリチー女子-ミズオとイエナの1年戦争-](../Page/プラモ男子とプリチー女子-ミズオとイエナの1年戦争-.md "wikilink")
+  - [ヒガンバナの女王](https://zh.wikipedia.org/wiki/ヒガンバナの女王 "wikilink") -
+    [岡仁志太郎](https://zh.wikipedia.org/wiki/岡仁志太郎 "wikilink")
+  - [美大受験戦記 アリエネ](https://zh.wikipedia.org/wiki/美大受験戦記_アリエネ "wikilink")
+    - [山田玲司](https://zh.wikipedia.org/wiki/山田玲司 "wikilink")
+    ※『月刊\!スピリッツ』へ転籍
+  - [100億の男](https://zh.wikipedia.org/wiki/100億の男 "wikilink") -
+    [国友やすゆき](https://zh.wikipedia.org/wiki/国友やすゆき "wikilink")
+  - [ひらけ相合傘](https://zh.wikipedia.org/wiki/ひらけ相合傘 "wikilink") -
+    [吉田戦車](https://zh.wikipedia.org/wiki/吉田戦車 "wikilink")
+  - [ビリーバーズ](https://zh.wikipedia.org/wiki/ビリーバーズ "wikilink") - 山本直樹
+  - [ピンポン](https://zh.wikipedia.org/wiki/乒乓_\(電影\) "wikilink") -
+    [松本大洋](https://zh.wikipedia.org/wiki/松本大洋 "wikilink")
+  - [fine.](https://zh.wikipedia.org/wiki/fine. "wikilink")
+    -[ファイン](https://zh.wikipedia.org/wiki/ファイン "wikilink") -
+    [信濃川日出雄](https://zh.wikipedia.org/wiki/信濃川日出雄 "wikilink")
+  - [ブラック&ホワイト](https://zh.wikipedia.org/wiki/ブラック&ホワイト_\(漫画\) "wikilink")
+    - [高橋春男](https://zh.wikipedia.org/wiki/高橋春男 "wikilink")
+    ※『ブラックあんどホワイト』と表記されることもある
+  - [プラモ男子とプリチー女子-ミズオとイエナの1年戦争-](https://zh.wikipedia.org/wiki/プラモ男子とプリチー女子-ミズオとイエナの1年戦争- "wikilink")
     -
-    [ゆきもり](../Page/ゆきもり.md "wikilink")+[ソラキスズ](../Page/ソラキスズ.md "wikilink")
-  - [ぷりぷり県](../Page/ぷりぷり県.md "wikilink") - 吉田戦車
-  - [ブルー・ジーン](../Page/ブルー・ジーン.md "wikilink") -
-    [くじらいいくこ](../Page/鯨井意玖子.md "wikilink")
-  - [ブルーダー](../Page/ブルーダー.md "wikilink") -
-    [周防瞭](../Page/周防瞭.md "wikilink")+盛田賢司
-  - [Heaven?](../Page/Heaven?.md "wikilink") - 佐々木倫子
-  - [編集王](../Page/編集王.md "wikilink") -
-    [土田世紀](../Page/土田世紀.md "wikilink")
-  - [14歳（フォーティーン）](../Page/14歳_\(漫画\).md "wikilink") - 楳図かずお
-  - [ペット](../Page/ペット_\(漫画\).md "wikilink") -
-    [三宅乱丈](../Page/三宅乱丈.md "wikilink")
-  - [冒険してもいい頃](../Page/冒険してもいい頃.md "wikilink") -
-    [みやすのんき](../Page/みやすのんき.md "wikilink")
+    [ゆきもり](https://zh.wikipedia.org/wiki/ゆきもり "wikilink")+[ソラキスズ](https://zh.wikipedia.org/wiki/ソラキスズ "wikilink")
+  - [ぷりぷり県](https://zh.wikipedia.org/wiki/ぷりぷり県 "wikilink") - 吉田戦車
+  - [ブルー・ジーン](https://zh.wikipedia.org/wiki/ブルー・ジーン "wikilink") -
+    [くじらいいくこ](https://zh.wikipedia.org/wiki/鯨井意玖子 "wikilink")
+  - [ブルーダー](https://zh.wikipedia.org/wiki/ブルーダー "wikilink") -
+    [周防瞭](https://zh.wikipedia.org/wiki/周防瞭 "wikilink")+盛田賢司
+  - [Heaven?](https://zh.wikipedia.org/wiki/Heaven? "wikilink") - 佐々木倫子
+  - [編集王](https://zh.wikipedia.org/wiki/編集王 "wikilink") -
+    [土田世紀](https://zh.wikipedia.org/wiki/土田世紀 "wikilink")
+  - [14歳（フォーティーン）](https://zh.wikipedia.org/wiki/14歳_\(漫画\) "wikilink")
+    - 楳図かずお
+  - [ペット](https://zh.wikipedia.org/wiki/ペット_\(漫画\) "wikilink") -
+    [三宅乱丈](https://zh.wikipedia.org/wiki/三宅乱丈 "wikilink")
+  - [冒険してもいい頃](https://zh.wikipedia.org/wiki/冒険してもいい頃 "wikilink") -
+    [みやすのんき](https://zh.wikipedia.org/wiki/みやすのんき "wikilink")
   - [敏行快跑](../Page/敏行快跑.md "wikilink") -
-    [花沢健吾](../Page/花沢健吾.md "wikilink")
-  - [BOXERケン](../Page/ケンとエリカ.md "wikilink") - 江口寿史
-  - [僕BOKU](../Page/僕BOKU.md "wikilink") -
-    [山本康人](../Page/山本康人.md "wikilink")
-  - [ぼくらのフンカ祭](../Page/ぼくらのフンカ祭.md "wikilink") -
-    [真造圭伍](../Page/真造圭伍.md "wikilink")
-  - [僕らはみんな生きている](../Page/僕らはみんな生きている.md "wikilink") -
-    [一色伸幸](../Page/一色伸幸.md "wikilink")+山本直樹
-  - [ぼくんち](../Page/ぼくんち.md "wikilink") -
-    [西原理恵子](../Page/西原理恵子.md "wikilink")
-  - [ポコあポコ](../Page/ポコあポコ.md "wikilink") - 小道迷子
-  - [ぼっけもん](../Page/ぼっけもん.md "wikilink") - 岩重孝
-  - [保土ヶ谷最中速派セブン](../Page/保土ヶ谷最中速派セブン.md "wikilink") -
-    [中野ハジメ](../Page/中野ハジメ.md "wikilink")
-  - [ボブとゆかいな仲間たち](../Page/ボブとゆかいな仲間たち.md "wikilink") -
-    [パンチョ近藤](../Page/パンチョ近藤.md "wikilink")
-  - [ホムンクルス](../Page/ホムンクルス_\(漫画\).md "wikilink") -
-    [山本英夫](../Page/山本英夫.md "wikilink")
+    [花沢健吾](https://zh.wikipedia.org/wiki/花沢健吾 "wikilink")
+  - [BOXERケン](https://zh.wikipedia.org/wiki/ケンとエリカ "wikilink") - 江口寿史
+  - [僕BOKU](https://zh.wikipedia.org/wiki/僕BOKU "wikilink") -
+    [山本康人](https://zh.wikipedia.org/wiki/山本康人 "wikilink")
+  - [ぼくらのフンカ祭](https://zh.wikipedia.org/wiki/ぼくらのフンカ祭 "wikilink") -
+    [真造圭伍](https://zh.wikipedia.org/wiki/真造圭伍 "wikilink")
+  - [僕らはみんな生きている](https://zh.wikipedia.org/wiki/僕らはみんな生きている "wikilink")
+    - [一色伸幸](https://zh.wikipedia.org/wiki/一色伸幸 "wikilink")+山本直樹
+  - [ぼくんち](https://zh.wikipedia.org/wiki/ぼくんち "wikilink") -
+    [西原理恵子](https://zh.wikipedia.org/wiki/西原理恵子 "wikilink")
+  - [ポコあポコ](https://zh.wikipedia.org/wiki/ポコあポコ "wikilink") - 小道迷子
+  - [ぼっけもん](https://zh.wikipedia.org/wiki/ぼっけもん "wikilink") - 岩重孝
+  - [保土ヶ谷最中速派セブン](https://zh.wikipedia.org/wiki/保土ヶ谷最中速派セブン "wikilink")
+    - [中野ハジメ](https://zh.wikipedia.org/wiki/中野ハジメ "wikilink")
+  - [ボブとゆかいな仲間たち](https://zh.wikipedia.org/wiki/ボブとゆかいな仲間たち "wikilink")
+    - [パンチョ近藤](https://zh.wikipedia.org/wiki/パンチョ近藤 "wikilink")
+  - [ホムンクルス](https://zh.wikipedia.org/wiki/ホムンクルス_\(漫画\) "wikilink") -
+    [山本英夫](https://zh.wikipedia.org/wiki/山本英夫 "wikilink")
 
 ### ま行
 
-  - [禍MAGA](../Page/禍MAGA.md "wikilink") -
-    [若桑一人](../Page/若桑一人.md "wikilink")+[石川賢](../Page/石川賢.md "wikilink")
-  - [マドンナ](../Page/マドンナ_\(漫画・くじらいいく子\).md "wikilink") -
-    [鯨井意玖子](../Page/鯨井意玖子.md "wikilink")
-  - [マネームーン](../Page/マネームーン.md "wikilink") - 石坂啓
+  - [禍MAGA](https://zh.wikipedia.org/wiki/禍MAGA "wikilink") -
+    [若桑一人](https://zh.wikipedia.org/wiki/若桑一人 "wikilink")+[石川賢](../Page/石川賢.md "wikilink")
+  - [マドンナ](https://zh.wikipedia.org/wiki/マドンナ_\(漫画・くじらいいく子\) "wikilink")
+    - [鯨井意玖子](https://zh.wikipedia.org/wiki/鯨井意玖子 "wikilink")
+  - [マネームーン](https://zh.wikipedia.org/wiki/マネームーン "wikilink") - 石坂啓
   - [美咲 No.1](../Page/美咲_No.1.md "wikilink") -
     [藤崎聖人](../Page/藤崎聖人.md "wikilink")
-  - [店もん](../Page/店もん.md "wikilink") - ほりのぶゆき
-  - [みんな生きてる](../Page/みんな生きてる.md "wikilink") -
-    [原克玄](../Page/原克玄.md "wikilink")
-  - [みんな元気か\!](../Page/みんな元気か!.md "wikilink") -
-    [やまさき十三](../Page/やまさき十三.md "wikilink")+[ひきの真二](../Page/引野真二.md "wikilink")
-  - [MOON -昴 ソリチュード スタンディング-](../Page/昴_\(漫画\).md "wikilink") -
-    [曽田正人](../Page/曽田正人.md "wikilink")
-  - [ムッチィにご用心\!\!](../Page/ムッチィにご用心!!.md "wikilink") - むつ利之
-  - [むねあつ](../Page/むねあつ.md "wikilink") -
-    [村岡ユウ](../Page/村岡ユウ.md "wikilink")
-  - [めぞん一刻](../Page/めぞん一刻.md "wikilink") -
+  - [店もん](https://zh.wikipedia.org/wiki/店もん "wikilink") - ほりのぶゆき
+  - [みんな生きてる](https://zh.wikipedia.org/wiki/みんな生きてる "wikilink") -
+    [原克玄](https://zh.wikipedia.org/wiki/原克玄 "wikilink")
+  - [みんな元気か\!](https://zh.wikipedia.org/wiki/みんな元気か! "wikilink") -
+    [やまさき十三](https://zh.wikipedia.org/wiki/やまさき十三 "wikilink")+[ひきの真二](https://zh.wikipedia.org/wiki/引野真二 "wikilink")
+  - [MOON -昴 ソリチュード
+    スタンディング-](https://zh.wikipedia.org/wiki/昴_\(漫画\) "wikilink")
+    - [曽田正人](https://zh.wikipedia.org/wiki/曽田正人 "wikilink")
+  - [ムッチィにご用心\!\!](https://zh.wikipedia.org/wiki/ムッチィにご用心!! "wikilink")
+    - むつ利之
+  - [むねあつ](https://zh.wikipedia.org/wiki/むねあつ "wikilink") -
+    [村岡ユウ](https://zh.wikipedia.org/wiki/村岡ユウ "wikilink")
+  - [めぞん一刻](https://zh.wikipedia.org/wiki/めぞん一刻 "wikilink") -
     [高桥留美子](../Page/高桥留美子.md "wikilink")
-  - [モッブ](../Page/モッブ_\(漫画\).md "wikilink") -
-    [滝沢解](../Page/滝沢解.md "wikilink")+池上遼一
-  - [もにもに](../Page/もにもに.md "wikilink") -
-    [相原コージ](../Page/相原コージ.md "wikilink")
+  - [モッブ](https://zh.wikipedia.org/wiki/モッブ_\(漫画\) "wikilink") -
+    [滝沢解](https://zh.wikipedia.org/wiki/滝沢解 "wikilink")+池上遼一
+  - [もにもに](https://zh.wikipedia.org/wiki/もにもに "wikilink") -
+    [相原コージ](https://zh.wikipedia.org/wiki/相原コージ "wikilink")
       - （外部リンク）
-  - [ももんち](../Page/ももんち.md "wikilink") -
+  - [ももんち](https://zh.wikipedia.org/wiki/ももんち "wikilink") -
     [冬目景](../Page/冬目景.md "wikilink")
 
 ### や行
 
-  - [やったろうじゃん\!\!](../Page/やったろうじゃん!!.md "wikilink") -
-    [原秀則](../Page/原秀則.md "wikilink")
-  - [以柔克剛](../Page/以柔克剛.md "wikilink") -
+  - [やったろうじゃん\!\!](https://zh.wikipedia.org/wiki/やったろうじゃん!! "wikilink")
+    - [原秀則](https://zh.wikipedia.org/wiki/原秀則 "wikilink")
+  - [以柔克剛](https://zh.wikipedia.org/wiki/以柔克剛 "wikilink") -
     [浦澤直樹](../Page/浦澤直樹.md "wikilink")
-  - [夢みるトマト](../Page/夢みるトマト.md "wikilink") - 石坂啓
+  - [夢みるトマト](https://zh.wikipedia.org/wiki/夢みるトマト "wikilink") - 石坂啓
   - [よいこ](../Page/乖小孩.md "wikilink") -
     [石川優吾](../Page/石川優吾.md "wikilink")
 
 ### ら行
 
-  - [ラブレター](../Page/ラブレター_\(漫画\).md "wikilink") -
-    [じんのひろあき](../Page/じんのひろあき.md "wikilink")+若狭たけし
+  - [ラブレター](https://zh.wikipedia.org/wiki/ラブレター_\(漫画\) "wikilink") -
+    [じんのひろあき](https://zh.wikipedia.org/wiki/じんのひろあき "wikilink")+若狭たけし
   - [無殼蝸牛連環泡](../Page/無殼蝸牛連環泡.md "wikilink") -
     [星里望留](../Page/星里望留.md "wikilink")
   - [岡野玲子](../Page/岡野玲子.md "wikilink") -
     [岡野玲子](../Page/岡野玲子.md "wikilink")
-  - [瑠璃色ゼネレーション](../Page/瑠璃色ゼネレーション.md "wikilink") - 柳沢きみお
+  - [瑠璃色ゼネレーション](https://zh.wikipedia.org/wiki/瑠璃色ゼネレーション "wikilink") -
+    柳沢きみお
   - [少年犯之七人](../Page/少年犯之七人.md "wikilink") -
-    [安部譲二](../Page/安部譲二.md "wikilink")+[柿崎正澄](../Page/柿崎正澄.md "wikilink")
-  - [ロープボール](../Page/ロープボール.md "wikilink") -
-    [川原裕聖](../Page/川原裕聖.md "wikilink")+[波多野秀行](../Page/波多野秀行.md "wikilink")
-  - [LOST MAN](../Page/LOST_MAN.md "wikilink") -
-    [草場道輝](../Page/草場道輝.md "wikilink") ※『週刊ヤングサンデー』より転籍
+    [安部譲二](https://zh.wikipedia.org/wiki/安部譲二 "wikilink")+[柿崎正澄](https://zh.wikipedia.org/wiki/柿崎正澄 "wikilink")
+  - [ロープボール](https://zh.wikipedia.org/wiki/ロープボール "wikilink") -
+    [川原裕聖](https://zh.wikipedia.org/wiki/川原裕聖 "wikilink")+[波多野秀行](https://zh.wikipedia.org/wiki/波多野秀行 "wikilink")
+  - [LOST MAN](https://zh.wikipedia.org/wiki/LOST_MAN "wikilink") -
+    [草場道輝](https://zh.wikipedia.org/wiki/草場道輝 "wikilink")
+    ※『週刊ヤングサンデー』より転籍
 
 ### わ行
 
-  - [我が名は海師](../Page/我が名は海師.md "wikilink")（原作：[小森陽一](../Page/小森陽一_\(漫画原作者\).md "wikilink")+[武村勇治](../Page/武村勇治.md "wikilink")）
-  - [わさび](../Page/わさび_\(漫画\).md "wikilink") -
-    [一條裕子](../Page/一條裕子.md "wikilink")
-  - [わたしは真悟](../Page/わたしは真悟.md "wikilink") - 楳図かずお
-  - [ワタナベ](../Page/ワタナベ.md "wikilink") -
-    [窪之內英策](../Page/窪之內英策.md "wikilink")
+  - [我が名は海師](https://zh.wikipedia.org/wiki/我が名は海師 "wikilink")（原作：[小森陽一](https://zh.wikipedia.org/wiki/小森陽一_\(漫画原作者\) "wikilink")+[武村勇治](https://zh.wikipedia.org/wiki/武村勇治 "wikilink")）
+  - [わさび](https://zh.wikipedia.org/wiki/わさび_\(漫画\) "wikilink") -
+    [一條裕子](https://zh.wikipedia.org/wiki/一條裕子 "wikilink")
+  - [わたしは真悟](https://zh.wikipedia.org/wiki/わたしは真悟 "wikilink") - 楳図かずお
+  - [ワタナベ](https://zh.wikipedia.org/wiki/ワタナベ "wikilink") -
+    [窪之內英策](https://zh.wikipedia.org/wiki/窪之內英策 "wikilink")
   - [灣岸競速](../Page/灣岸競速.md "wikilink") -
-    [楠みちはる](../Page/楠みちはる.md "wikilink")
+    [楠みちはる](https://zh.wikipedia.org/wiki/楠みちはる "wikilink")
     ※[讲谈社の](../Page/讲谈社.md "wikilink")『[週刊Young
     Magazine](../Page/週刊Young_Magazine.md "wikilink")』へ転籍
-  - [ONE\&ONLY](../Page/ONE&ONLY.md "wikilink") -
-    [山田貴敏](../Page/山田貴敏.md "wikilink")
+  - [ONE\&ONLY](https://zh.wikipedia.org/wiki/ONE&ONLY "wikilink") -
+    [山田貴敏](https://zh.wikipedia.org/wiki/山田貴敏 "wikilink")
 
 ## 发行部数
 
@@ -572,8 +604,8 @@ Spirits**》（）是[日本出版社](../Page/日本.md "wikilink")[小學館�
   - [Big Comic](../Page/Big_Comic.md "wikilink")
   - [Big Comic Original](../Page/Big_Comic_Original.md "wikilink")
   - [Big Comic Superior](../Page/Big_Comic_Superior.md "wikilink")
-  - [やわらかスピリッツ](../Page/やわらかスピリッツ.md "wikilink")
-  - [JUNK](../Page/JUNK.md "wikilink")（[TBSラジオ](../Page/TBSラジオ&コミュニケーションズ.md "wikilink")）
+  - [やわらかスピリッツ](https://zh.wikipedia.org/wiki/やわらかスピリッツ "wikilink")
+  - [JUNK](https://zh.wikipedia.org/wiki/JUNK "wikilink")（[TBSラジオ](https://zh.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
 
 ## 參考資料
 

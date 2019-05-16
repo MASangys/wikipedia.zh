@@ -1,11 +1,11 @@
 **REBOL**（發音**reb-ol** \['reb-ol\]，英文**R**elative **E**xpression
 **B**ased **O**bject
-**L**anguage的缩写），[程序设计语言](../Page/程序设计语言.md "wikilink")，结合了[编程语言和](../Page/编程语言.md "wikilink")[元数据语言的特点](../Page/元数据语言.md "wikilink")，具有方言化的功能。针对[分布式计算而设计](../Page/分布式计算.md "wikilink")。
+**L**anguage的缩写），[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，结合了[编程语言和](../Page/编程语言.md "wikilink")[元数据语言的特点](https://zh.wikipedia.org/wiki/元数据语言 "wikilink")，具有方言化的功能。针对[分布式计算而设计](../Page/分布式计算.md "wikilink")。
 
 REBOL由[Carl
-Sassenrath设计](../Page/:en:Carl_Sassenrath.md "wikilink")，他是[AmigaOS的系统架构师](../Page/AmigaOS.md "wikilink")。
+Sassenrath设计](https://zh.wikipedia.org/wiki/:en:Carl_Sassenrath "wikilink")，他是[AmigaOS的系统架构师](../Page/AmigaOS.md "wikilink")。
 
-## [Hello, world\!](../Page/Hello,_world!.md "wikilink")
+## [Hello, world\!](https://zh.wikipedia.org/wiki/Hello,_world! "wikilink")
 
 ``` text
 REBOL []

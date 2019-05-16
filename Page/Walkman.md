@@ -1,6 +1,6 @@
 [Walkman.svg](https://zh.wikipedia.org/wiki/File:Walkman.svg "fig:Walkman.svg")
 
-**Walkman**，是[日本](../Page/日本.md "wikilink")[索尼公司](../Page/索尼公司.md "wikilink")（Sony）在1979年所推出的一個[隨身聽](../Page/隨身聽.md "wikilink")[品牌](../Page/品牌.md "wikilink")，而[中文的](../Page/中文.md "wikilink")[隨身聽名稱即是由](../Page/隨身聽.md "wikilink")“Walkman”轉變而來。
+**Walkman**，是[日本](../Page/日本.md "wikilink")[索尼公司](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")（Sony）在1979年所推出的一個[隨身聽](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")[品牌](../Page/品牌.md "wikilink")，而[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")[隨身聽名稱即是由](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")“Walkman”轉變而來。
 
 ## 歷史
 
@@ -10,14 +10,14 @@
 
 1979年3月，在[井深大的要求下](../Page/井深大.md "wikilink")，音響部門以記者用的小型錄音機“新聞人”（Pressman）修改成體積更小的錄音機，在得到許多人讚美良好的音質評價後，在[盛田昭夫的主導下](../Page/盛田昭夫.md "wikilink")，-{zh-hans:索尼;
 zh-hant:新力;}-在1979年7月開始，推出了Walkman（隨身聽），盛田昭夫將Walkman定位在青少年市場，並且強調年輕活力與時尚，並創造了耳機文化，1980年2月開始在全世界開始做銷售，並在1980年11月開始全球統一使用“Walkman”這個不標準的日式英文為品牌，直到1998年為止，“Walkman”已經在全球銷售突破2億5000萬-{zh-hans:台;
-zh-hant:部;}-。盛田昭夫在1992年10月受封[英國](../Page/英國.md "wikilink")[爵士後](../Page/爵士.md "wikilink")，英國媒體的標題是{{〈}}起身，索尼隨身聽爵士。{{〉}}
+zh-hant:部;}-。盛田昭夫在1992年10月受封[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[爵士後](../Page/爵士.md "wikilink")，英國媒體的標題是{{〈}}起身，索尼隨身聽爵士。{{〉}}
 
-1991年開始，Walkman開始推出[MiniDisc系統](../Page/MiniDisc.md "wikilink")，並繼續在全球處於第一名的地位。2000年開始，[MP3音樂格式逐漸盛行](../Page/MP3.md "wikilink")，低價競爭者陸續推出採用[快取記憶體可支援](../Page/快取記憶體.md "wikilink")[MP3的隨身碟](../Page/MP3.md "wikilink")，使MP3從個人電腦漸漸轉移到隨身聽市場，Walkman採用全新的商標，象徵網路世代的互聯，並推出線上音樂下載服務“PlanetMG”。但音樂過少及必須使用“[ATRAC3](../Page/ATRAC3.md "wikilink")”格式，市場接受度始終低落。因此2000年，索尼推出支援MP3以及可連結電腦同步的{{〈}}Net
-MD{{〉}}系列。2001年後，[蘋果電腦採用以](../Page/蘋果電腦.md "wikilink")1.8吋[硬碟的高容量](../Page/硬碟.md "wikilink")[iPod並且搭配](../Page/iPod.md "wikilink")“[iTunes](../Page/iTunes.md "wikilink")”線上音樂商店服務，在美國及全世界推出，在2年內立即在全球隨身聽市場造成轟動，2004年7月索尼再推出高達1GB容量的“Hi-MD”，但由于推出時間點過晚，而且**Walkman**堅守自家之[ATRAC3檔案格式](../Page/ATRAC3.md "wikilink")，使Walkman逐漸下滑市佔率，造成[蘋果電腦的](../Page/蘋果電腦.md "wikilink")[iPod數位隨身聽在全球熱賣取代了](../Page/iPod.md "wikilink")**Walkman**地位。
+1991年開始，Walkman開始推出[MiniDisc系統](../Page/MiniDisc.md "wikilink")，並繼續在全球處於第一名的地位。2000年開始，[MP3音樂格式逐漸盛行](../Page/MP3.md "wikilink")，低價競爭者陸續推出採用[快取記憶體可支援](https://zh.wikipedia.org/wiki/快取記憶體 "wikilink")[MP3的隨身碟](../Page/MP3.md "wikilink")，使MP3從個人電腦漸漸轉移到隨身聽市場，Walkman採用全新的商標，象徵網路世代的互聯，並推出線上音樂下載服務“PlanetMG”。但音樂過少及必須使用“[ATRAC3](https://zh.wikipedia.org/wiki/ATRAC3 "wikilink")”格式，市場接受度始終低落。因此2000年，索尼推出支援MP3以及可連結電腦同步的{{〈}}Net
+MD{{〉}}系列。2001年後，[蘋果電腦採用以](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1.8吋[硬碟的高容量](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[iPod並且搭配](https://zh.wikipedia.org/wiki/iPod "wikilink")“[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")”線上音樂商店服務，在美國及全世界推出，在2年內立即在全球隨身聽市場造成轟動，2004年7月索尼再推出高達1GB容量的“Hi-MD”，但由于推出時間點過晚，而且**Walkman**堅守自家之[ATRAC3檔案格式](https://zh.wikipedia.org/wiki/ATRAC3 "wikilink")，使Walkman逐漸下滑市佔率，造成[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[iPod數位隨身聽在全球熱賣取代了](https://zh.wikipedia.org/wiki/iPod "wikilink")**Walkman**地位。
 
 2004年開始，為了搶回過去隨身聽的地位，在美國推出「Sony
-Connect」線上音樂、日本則以“日本索尼音樂”聯合其他音樂唱片公司投資[Mora線上音樂網站](../Page/Mora.md "wikilink")，並推出以快取記憶體、硬碟式的“Net
-Walkman”系列。2005年第2季開始，子公司[索尼愛立信推出](../Page/索尼愛立信.md "wikilink")「Walkman」聯名品牌的音樂手機，並與[索尼博德曼音樂合作推出](../Page/索尼博德曼音樂.md "wikilink")「PlayNow」服務，成功整合索尼集團的電子、娛樂事業資源，並於全球熱賣，奠定索尼愛立信的Walkman聯名品牌在音樂手機成為領導品牌。
+Connect」線上音樂、日本則以“日本索尼音樂”聯合其他音樂唱片公司投資[Mora線上音樂網站](https://zh.wikipedia.org/wiki/Mora "wikilink")，並推出以快取記憶體、硬碟式的“Net
+Walkman”系列。2005年第2季開始，子公司[索尼愛立信推出](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")「Walkman」聯名品牌的音樂手機，並與[索尼博德曼音樂合作推出](https://zh.wikipedia.org/wiki/索尼博德曼音樂 "wikilink")「PlayNow」服務，成功整合索尼集團的電子、娛樂事業資源，並於全球熱賣，奠定索尼愛立信的Walkman聯名品牌在音樂手機成為領導品牌。
 
 2007年第四季，索尼公司宣布海外市場的「Net
 Walkman」系列將不再透過「[SonicStage](../Page/SonicStage.md "wikilink")」軟體作同步，美國「Sony
@@ -39,27 +39,29 @@ Walkman 的出廠日期是在 4 月，此批產品銷售完畢後，錄音帶隨
   - [ATRAC](../Page/ATRAC.md "wikilink") (Atrac, Atrac3, Atrac3plus and
     Atrac Advanced Lossless)
 
-·[Sony號稱音質比](../Page/Sony.md "wikilink")[MP3還要好的壓縮檔案格式](../Page/MP3.md "wikilink")。
+·[Sony號稱音質比](https://zh.wikipedia.org/wiki/Sony "wikilink")[MP3還要好的壓縮檔案格式](../Page/MP3.md "wikilink")。
 
   - [SonicStage](../Page/SonicStage.md "wikilink")
 
 ·音樂檔案管理及轉換音樂檔案格式之軟件，目前最新版本日本為**SonicStage 5.2**海外為**SonicStage 4.3**。
 
-  - [Connect Player](../Page/Connect_Player.md "wikilink")
+  - [Connect
+    Player](https://zh.wikipedia.org/wiki/Connect_Player "wikilink")
 
 ·音樂檔案管理及轉換音樂檔案之軟件，原本是想取代**SonicStage**的，但因程式本身有很多漏洞，目前已被**SonicStage
 CP**取代。
 
-  - [Sony Disc2Phone](../Page/Sony_Disc2Phone.md "wikilink")
+  - [Sony
+    Disc2Phone](https://zh.wikipedia.org/wiki/Sony_Disc2Phone "wikilink")
 
 ·為Sony Ericsson手機設計的一款音樂管理軟件。
 
   - [Sony Ericsson Media
-    Manager](../Page/Sony_Ericsson_Media_Manager.md "wikilink")
+    Manager](https://zh.wikipedia.org/wiki/Sony_Ericsson_Media_Manager "wikilink")
 
-·Disc2Phone的升級版，加設[SensMe音樂分析等功能](../Page/SensMe.md "wikilink")，但軟件會導致存放在「我的音樂」內的部份檔案的IDE標纖出現亂碼。
+·Disc2Phone的升級版，加設[SensMe音樂分析等功能](https://zh.wikipedia.org/wiki/SensMe "wikilink")，但軟件會導致存放在「我的音樂」內的部份檔案的IDE標纖出現亂碼。
 
-  - [Clear Bass](../Page/Clear_Bass.md "wikilink")
+  - [Clear Bass](https://zh.wikipedia.org/wiki/Clear_Bass "wikilink")
 
 ·加重bass[低音的效果](../Page/低音.md "wikilink")，让bass[低音能够更特出](../Page/低音.md "wikilink")，也能调效果重量。
 

@@ -1,0 +1,57 @@
+这里是[Portal:化学的](https://zh.wikipedia.org/wiki/Portal:化学 "wikilink")“[特色与优良条目](https://zh.wikipedia.org/wiki/Portal:化学/Featured "wikilink")”栏目内容的存档。这个栏目中介绍的条目来自入选[Wikipedia:特色条目和](https://zh.wikipedia.org/wiki/Wikipedia:特色条目 "wikilink")[Wikipedia:优良条目的条目](https://zh.wikipedia.org/wiki/Wikipedia:优良条目 "wikilink")。
+
+## 特色条目
+
+-----
+
+[Benz4.png](https://zh.wikipedia.org/wiki/File:Benz4.png "fig:Benz4.png")
+**[苯](../Page/苯.md "wikilink")**（****）是一种最简单的[芳烃](https://zh.wikipedia.org/wiki/芳烃 "wikilink")，[常温下为一种](https://zh.wikipedia.org/wiki/常温 "wikilink")[无色](https://zh.wikipedia.org/wiki/无色 "wikilink")、有[甜味的透明](https://zh.wikipedia.org/wiki/甜味 "wikilink")[液体](../Page/液体.md "wikilink")，具有强烈的芳香气味。难溶于[水](../Page/水.md "wikilink")，易溶于有机溶剂，也可作为有机溶剂。苯可燃，有毒。苯是一种[石油化工基本原料](https://zh.wikipedia.org/wiki/石油化工 "wikilink")。苯的产量和生产的技术水平是一个国家石油化工发展水平的标志之一。苯具有的环系叫**[苯环](https://zh.wikipedia.org/wiki/苯环 "wikilink")**，是最简单的芳环。苯分子去掉一个氢以后的结构叫**[苯基](https://zh.wikipedia.org/wiki/苯基 "wikilink")**，用**Ph**表示。因此苯也可表示为**PhH**。
+
+-----
+
+[Acetic-acid-2D-skeletal.svg](https://zh.wikipedia.org/wiki/File:Acetic-acid-2D-skeletal.svg "fig:Acetic-acid-2D-skeletal.svg")
+**[乙酸](../Page/乙酸.md "wikilink")**，也叫醋酸，是一种[有机](../Page/有机化学.md "wikilink")[化合物](../Page/化合物.md "wikilink")，被公认为[食醋内酸味及刺激性气味的来源](../Page/醋.md "wikilink")。纯的无水乙酸（冰醋酸）是无色的吸湿性液体，凝固点为16.7 [°C](https://zh.wikipedia.org/wiki/摄氏度 "wikilink")
+(62 [°F](https://zh.wikipedia.org/wiki/华氏度 "wikilink"))
+，凝固后为无色[晶体](../Page/晶体.md "wikilink")。尽管根据乙酸在水溶液中的离解能力它是一个弱酸，但是乙酸是具有腐蚀性的，其蒸汽对[眼和](https://zh.wikipedia.org/wiki/眼 "wikilink")[鼻有刺激性作用](../Page/鼻.md "wikilink")。乙酸是一种简单的[羧酸](../Page/羧酸.md "wikilink")，是一个重要的化学试剂。在[化学工业中](../Page/化学工业.md "wikilink")，它被用来制造[聚对苯二甲酸乙二酯](../Page/聚对苯二甲酸乙二酯.md "wikilink")，后者即饮料瓶的主要部分。乙酸也被用来制造[电影](../Page/电影.md "wikilink")[胶片所需要的](https://zh.wikipedia.org/wiki/胶片 "wikilink")[乙酸纤维素和纤维](https://zh.wikipedia.org/wiki/乙酸纤维素 "wikilink")[胶水中的](https://zh.wikipedia.org/wiki/胶水 "wikilink")[聚乙酸乙烯酯](https://zh.wikipedia.org/wiki/聚乙酸乙烯酯 "wikilink")，以及很多合成[纤维和织物](../Page/纤维.md "wikilink")。家用的乙酸稀溶液经常被用来[除锈](https://zh.wikipedia.org/wiki/除锈 "wikilink")。[食品工业方面](https://zh.wikipedia.org/wiki/食品工业 "wikilink")，在食品添加剂列表E260中，乙酸是规定的一种酸性校准物。
+
+-----
+
+[Helium_atom_QM.svg](https://zh.wikipedia.org/wiki/File:Helium_atom_QM.svg "fig:Helium_atom_QM.svg")
+**[原子](../Page/原子.md "wikilink")**是一个[元素能保持其化学性质的最小单位](https://zh.wikipedia.org/wiki/元素 "wikilink")。一个原子包含有一个致密的原子核及围绕在[原子核周围带负电的](../Page/原子核.md "wikilink")[电子](../Page/电子.md "wikilink")。原子核由带正电的[质子和电中性的](https://zh.wikipedia.org/wiki/质子 "wikilink")[中子组成](../Page/中子.md "wikilink")。当质子数与电子数相同时，这个原子就是电中性的；否则，就是带有正电荷或者负电荷的[离子](../Page/离子.md "wikilink")。根据质子和中子数量的不同，原子的类型也不同：质子数决定了该原子属于哪一种元素，而中子数则确定了该原子是此元素的哪一个[同位素](../Page/同位素.md "wikilink")。与日常体验相比，原子是一个极小的物体，其质量也很微小，以至于只能通过一些特殊的仪器才能观测到单个的原子，例如[扫描隧道显微镜](../Page/扫描隧道显微镜.md "wikilink")。原子的99.9%的重量集中在原子核，其中的质子和中子有着相近的质量。每一种元素至少有一种不稳定的同位素，可以进行[放射性](../Page/放射性.md "wikilink")[衰变](https://zh.wikipedia.org/wiki/衰变 "wikilink")。
+
+## 优良条目
+
+[AX4E0-3D-balls.png](https://zh.wikipedia.org/wiki/File:AX4E0-3D-balls.png "fig:AX4E0-3D-balls.png")
+**[配合物](../Page/配合物.md "wikilink")**，**配位化合物**的简称，包含由中心[原子或](../Page/原子.md "wikilink")[离子与几个](../Page/离子.md "wikilink")[配体分子或离子以](https://zh.wikipedia.org/wiki/配體_\(化學\) "wikilink")[配位键相结合而形成的复杂](https://zh.wikipedia.org/wiki/配位键 "wikilink")[分子或离子](../Page/分子.md "wikilink")，通常称为配位单元。凡是含有配位单元的化合物都称做配位化合物。研究配合物的[化学分支称为](https://zh.wikipedia.org/wiki/化学 "wikilink")[配位化学](https://zh.wikipedia.org/wiki/配位化学 "wikilink")。配合物是[化合物中较大的一个子类别](../Page/化合物.md "wikilink")，广泛应用于日常生活、工业生产及生命科学中，近些年来的发展尤其迅速。它不仅与[无机化合物](../Page/无机化合物.md "wikilink")、[有机金属化合物相关连](https://zh.wikipedia.org/wiki/有机金属化合物 "wikilink")，并且与现今化学前沿的[原子簇化学](https://zh.wikipedia.org/wiki/原子簇化学 "wikilink")、配位[催化及](../Page/催化.md "wikilink")[分子生物学都有很大的重叠](../Page/分子生物学.md "wikilink")。1893年，瑞士化学家[维尔纳总结了前人的理论](../Page/阿尔弗雷德·维尔纳.md "wikilink")，首次提出了现代的[配位键](https://zh.wikipedia.org/wiki/配位键 "wikilink")、[配位数和配位化合物结构等一系列基本概念](../Page/配位数.md "wikilink")，成功解释了很多配合物的电导性质、[异构现象及](https://zh.wikipedia.org/wiki/#异构现象 "wikilink")[磁性](https://zh.wikipedia.org/wiki/磁性 "wikilink")。
+
+-----
+
+[ArTube.jpg](https://zh.wikipedia.org/wiki/File:ArTube.jpg "fig:ArTube.jpg")
+**[氩](../Page/氩.md "wikilink")**是一种化学[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")，在[希臘語有](https://zh.wikipedia.org/wiki/希臘語 "wikilink")「不活潑」的意思，由它的特性而來。它的[化学符号是](https://zh.wikipedia.org/wiki/化学符号 "wikilink")**Ar**，它的[原子序数是](../Page/原子序数.md "wikilink")18，在室溫下是無色無味[氣體](https://zh.wikipedia.org/wiki/氣體 "wikilink")。由於原子外层轨道充满电子，因此它不容易发生化学反应，以前被称作一種[惰性气体](https://zh.wikipedia.org/wiki/稀有氣體 "wikilink")。把它放电时呈紫色。已知的氩的[同位素共有](../Page/同位素.md "wikilink")14种，包括氩33至氩46。氩佔大气体积的0.93%，是地球大气中第三多的气体，也是在大气中含量最多的惰性氣體。它的[三相點以](https://zh.wikipedia.org/wiki/三相點 "wikilink")[國際實用溫標定義為](https://zh.wikipedia.org/wiki/國際實用溫標 "wikilink")83.8058[K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")。氬曾經在1785年由[亨利·卡文迪什製備出來](../Page/亨利·卡文迪什.md "wikilink")，但卻沒發現這是一种新的元素；直到1894年，[約翰·威廉·斯特拉斯和蘇格蘭的化學家](https://zh.wikipedia.org/wiki/約翰·威廉·斯特拉斯 "wikilink")[威廉·拉姆齊才通过实验确定氩是一种新元素](https://zh.wikipedia.org/wiki/威廉·拉姆齊 "wikilink")。
+
+-----
+
+[Dry_Raney_nickel.jpg](https://zh.wikipedia.org/wiki/File:Dry_Raney_nickel.jpg "fig:Dry_Raney_nickel.jpg")
+**[雷尼镍](../Page/雷尼镍.md "wikilink")**又译**兰尼镍**，是一种由带有多孔结构的[镍铝合金的细小晶粒组成的固态异相](https://zh.wikipedia.org/wiki/镍铝合金 "wikilink")[催化剂](../Page/催化剂.md "wikilink")，它最早由美国[工程师](../Page/工程师.md "wikilink")[莫里·雷尼在](https://zh.wikipedia.org/wiki/莫里·雷尼 "wikilink")[植物油的](https://zh.wikipedia.org/wiki/植物油 "wikilink")[氢化过程中](../Page/氢化.md "wikilink")，作为催化剂而使用。其制备过程是把镍铝合金用浓[氢氧化钠溶液处理](../Page/氢氧化钠.md "wikilink")，在这一过程中，大部分的铝会和氢氧化钠反应而溶解掉，留下了很多大小不一的微孔。这样雷尼镍表面上是细小的灰色粉末，但从微观角度上，粉末中的每个微小颗粒都是一个立体多孔结构，这种多孔结构使得它的表面积大大增加，极大的表面积带来的是很高的催化活性，这就使得雷尼镍作为一种[异相催化剂被广泛用于有机合成和工业生产的](https://zh.wikipedia.org/wiki/异相催化剂 "wikilink")[氢化反应中](https://zh.wikipedia.org/wiki/氢化反应 "wikilink")。
+
+-----
+
+[Caffeine-3D-QuteMol.png](https://zh.wikipedia.org/wiki/File:Caffeine-3D-QuteMol.png "fig:Caffeine-3D-QuteMol.png")
+**[咖啡因](../Page/咖啡因.md "wikilink")**是一个[黄嘌呤](../Page/黄嘌呤.md "wikilink")[生物碱化合物](https://zh.wikipedia.org/wiki/生物碱 "wikilink")，在人体中是一种[兴奋剂](../Page/兴奋剂.md "wikilink")。存在于[瓜拉纳中的咖啡因有时也被称为瓜拉纳因子](https://zh.wikipedia.org/wiki/瓜拿纳 "wikilink")，而存在于[玛黛茶中的被称为马黛因](https://zh.wikipedia.org/wiki/玛黛茶 "wikilink")，在[茶中的则被称为茶毒](../Page/茶.md "wikilink")。它存在于[咖啡树](https://zh.wikipedia.org/wiki/咖啡树 "wikilink")、[茶树](../Page/茶树.md "wikilink")、[巴拉圭冬青及](../Page/巴拉圭冬青.md "wikilink")[瓜拿纳的果实及叶片里](https://zh.wikipedia.org/wiki/瓜拿纳 "wikilink")，少量的咖啡因也存在于[可可树](https://zh.wikipedia.org/wiki/可可 "wikilink")、[可乐树果实及](https://zh.wikipedia.org/wiki/可乐_\(植物\) "wikilink")[代茶冬青树](../Page/代茶冬青.md "wikilink")。总体上来说，作为一种自然[杀虫剂](https://zh.wikipedia.org/wiki/杀虫剂 "wikilink")，在超过60种植物的[果实](../Page/果实.md "wikilink")、[叶片和](https://zh.wikipedia.org/wiki/叶片 "wikilink")[种子中能够发现咖啡因](https://zh.wikipedia.org/wiki/种子 "wikilink")，它能使以这些植物为食的[昆虫麻痹因而达到杀虫的效果](../Page/昆虫.md "wikilink")。咖啡因是一种[中枢神经](https://zh.wikipedia.org/wiki/中枢神经 "wikilink")[兴奋剂](../Page/兴奋剂.md "wikilink")，能够临时的驱走睡意并恢复精力。有咖啡因成分的[咖啡](../Page/咖啡.md "wikilink")、[茶](../Page/茶.md "wikilink")、[软饮料及](https://zh.wikipedia.org/wiki/软性饮料 "wikilink")[能量饮料十分畅销](../Page/能量饮料.md "wikilink")，因此，咖啡因也是世界上最普遍被使用的[精神药品](https://zh.wikipedia.org/wiki/精神药品 "wikilink")。
+
+-----
+
+[TLC_black_ink.jpg](https://zh.wikipedia.org/wiki/File:TLC_black_ink.jpg "fig:TLC_black_ink.jpg")
+**[色谱法](../Page/色谱法.md "wikilink")**又称**色谱分析**、**色谱分析法**、**色層分析法**、**层析法**，是一种分离和分析方法，在[分析化学](../Page/分析化学.md "wikilink")、[有机化学](../Page/有机化学.md "wikilink")、[生物化学等领域有着非常广泛的应用](../Page/生物化学.md "wikilink")。色谱法利用不同物质在不同相态的选择性分配，以流动相对固定相中的混合物进行洗脱，混合物中不同的物质会以不同的速度沿固定相移动，最终达到分离的效果。色谱法起源于[20世纪初](../Page/20世纪.md "wikilink")，[1950年代之后飞速发展](https://zh.wikipedia.org/wiki/1950年代 "wikilink")，并发展出一个独立的三级学科——[色谱学](https://zh.wikipedia.org/wiki/色谱学 "wikilink")。历史上曾经先后有两位[化学家因为在色谱领域的突出贡献而获得](../Page/化学家.md "wikilink")[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")，此外色谱分析方法还在12项获得诺贝尔化学奖的研究工作中起到关键作用。
+
+-----
+
+[Gulf_Offshore_Platform.jpg](https://zh.wikipedia.org/wiki/File:Gulf_Offshore_Platform.jpg "fig:Gulf_Offshore_Platform.jpg")
+**[石油](../Page/石油.md "wikilink")**也称**原油**或**黑色金子**是一种粘稠的、深褐色（有时有点绿色的）液体。[地壳上层部分地区有石油储存](../Page/地壳.md "wikilink")。它由不同的[碳氢化合物混合组成](https://zh.wikipedia.org/wiki/碳氢化合物 "wikilink")，其主要组成成分是[烷烃](../Page/烷烃.md "wikilink")，此外石油中还含[硫](../Page/硫.md "wikilink")、[氧](../Page/氧.md "wikilink")、[氮](../Page/氮.md "wikilink")、[磷](../Page/磷.md "wikilink")、[钒等元素](../Page/钒.md "wikilink")。。不过不同的油田的石油的成分和外貌可以区分很大。石油主要被用来作为[燃料油和](https://zh.wikipedia.org/wiki/燃料油 "wikilink")[汽油](../Page/汽油.md "wikilink")，燃料油和汽油组成目前世界上最重要的[一次能源之一](../Page/一次能源.md "wikilink")。石油也是许多[化学工业产品如](../Page/化学工业.md "wikilink")[溶液](../Page/溶液.md "wikilink")、[化肥](https://zh.wikipedia.org/wiki/化肥 "wikilink")、[杀虫剂和](https://zh.wikipedia.org/wiki/杀虫剂 "wikilink")[塑料等的原料](../Page/塑料.md "wikilink")。今天88%开采的石油被用作燃料，其它的12%作为化工业的原料。由于石油是一种不可更新原料，许多人担心石油用尽会对人类带来的后果。
+
+-----
+
+[Bromine_vial_in_acrylic_cube.jpg](https://zh.wikipedia.org/wiki/File:Bromine_vial_in_acrylic_cube.jpg "fig:Bromine_vial_in_acrylic_cube.jpg")
+**[溴](../Page/溴.md "wikilink")**（，源于，意为“公山羊的恶臭”），是一种[化學元素](../Page/化學元素.md "wikilink")，元素符號
+**Br**，[原子序](https://zh.wikipedia.org/wiki/原子序 "wikilink")
+35，属于[鹵素](https://zh.wikipedia.org/wiki/鹵素 "wikilink")。溴分子在[標準溫度和壓力下是有揮發性的紅棕色液體](https://zh.wikipedia.org/wiki/標準溫度和壓力 "wikilink")，熔点-7.2°C，沸点59°C，活性介於[氯與](../Page/氯.md "wikilink")[碘之間](../Page/碘.md "wikilink")。纯溴也称**溴素**。溴蒸氣具有[腐蝕性](../Page/腐蝕性.md "wikilink")，并且有毒。在2007年，約有556,000公噸的溴被製造，主要来源是[海水](../Page/海水.md "wikilink")。溴与其化合物可被用来作为[阻燃劑](https://zh.wikipedia.org/wiki/阻燃劑 "wikilink")、[净水剂](https://zh.wikipedia.org/wiki/净水剂 "wikilink")、[杀虫剂](https://zh.wikipedia.org/wiki/杀虫剂 "wikilink")、[染料等等](../Page/染料.md "wikilink")。曾是常用消毒药剂的[红药水中含有溴和](https://zh.wikipedia.org/wiki/红药水 "wikilink")[汞](../Page/汞.md "wikilink")。在[照相术中](https://zh.wikipedia.org/wiki/照相 "wikilink")，溴和碘与银的化合物担任感光剂的角色。

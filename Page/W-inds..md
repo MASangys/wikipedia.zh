@@ -1,5 +1,5 @@
-**w-inds.**（）是[日本](../Page/日本.md "wikilink")3人男子[歌舞](../Page/歌舞系.md "wikilink")[組合](../Page/男子音乐组合.md "wikilink")，以歌唱與舞蹈著稱，擅長Rap和唱跳街舞，隊長是[千葉涼平](../Page/千葉涼平.md "wikilink")，[橘慶太是主唱](../Page/橘慶太.md "wikilink")，千葉涼平和[緒方龍一是和音](../Page/緒方龍一.md "wikilink")、Rap和伴舞。所屬經紀公司為[VISION
-FACTORY](../Page/VISION_FACTORY.md "wikilink")，所屬唱片公司為[波麗佳音](../Page/波麗佳音.md "wikilink")。
+**w-inds.**（）是[日本](../Page/日本.md "wikilink")3人男子[歌舞](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")[組合](../Page/男子音乐组合.md "wikilink")，以歌唱與舞蹈著稱，擅長Rap和唱跳街舞，隊長是[千葉涼平](../Page/千葉涼平.md "wikilink")，[橘慶太是主唱](../Page/橘慶太.md "wikilink")，千葉涼平和[緒方龍一是和音](../Page/緒方龍一.md "wikilink")、Rap和伴舞。所屬經紀公司為[VISION
+FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，所屬唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 成員資料
 
@@ -20,7 +20,7 @@ FACTORY](../Page/VISION_FACTORY.md "wikilink")，所屬唱片公司為[波麗佳
   - 身高：183cm
   - 體重：67kg
   - 血型：不明（傳聞是B型）
-  - 配偶：[松浦亞彌](../Page/松浦亞彌.md "wikilink")（2013年至今）
+  - 配偶：[松浦亞彌](https://zh.wikipedia.org/wiki/松浦亞彌 "wikilink")（2013年至今）
   - 兒女：女（2014年出生）
 
 ### [緒方龍一](../Page/緒方龍一.md "wikilink")
@@ -43,7 +43,7 @@ FACTORY](../Page/VISION_FACTORY.md "wikilink")，所屬唱片公司為[波麗佳
 | 1st  | 2001/03/14 | Forever Memories                                    | 出道作品                                                                                                                                                                 |
 | 2nd  | 2001/07/04 | Feel The Fate                                       |                                                                                                                                                                      |
 | 3rd  | 2001/10/17 | Paradox                                             | 第43回日本唱片大賞「新人賞」［受賞曲目\]                                                                                                                                               |
-| 4th  | 2002/02/20 | try your emotion                                    | 日本電視台[鹽湖城奧運正式主題曲](../Page/2002年冬季奧林匹克運動會.md "wikilink")                                                                                                              |
+| 4th  | 2002/02/20 | try your emotion                                    | 日本電視台[鹽湖城奧運正式主題曲](https://zh.wikipedia.org/wiki/2002年冬季奧林匹克運動會 "wikilink")                                                                                           |
 | 5th  | 2002/05/22 | Another Days                                        | 日本[全家便利店](../Page/FamilyMart.md "wikilink"){{〈}}M/F/C{{〉}}廣告曲                                                                                                        |
 | 6th  | 2002/08/21 | Because of You                                      | 第44回日本唱片大賞「金賞」［受賞曲目］                                                                                                                                                 |
 | 7th  | 2002/11/13 | NEW PARADISE                                        |                                                                                                                                                                      |
@@ -58,25 +58,25 @@ FACTORY](../Page/VISION_FACTORY.md "wikilink")，所屬唱片公司為[波麗佳
 | 16th | 2005/08/31 | 十六夜の月（十六夜之月）                                        | 日本電視台《音樂戰士》2005年9月份片頭曲,第47回日本唱片大賞「金賞」［受賞曲目］                                                                                                                          |
 | 17th | 2005/11/23 | 約束のカケラ（約定的碎片）                                       | Bourbon「Bourbon口香糖」廣告曲；日本電視台《イッテQ\!》12月片尾曲                                                                                                                           |
 | 18th | 2006/02/22 | IT'S IN THE STARS                                   | Bourbon「鼻喉口香糖」廣告曲；日本電視台綜藝節目《落下女》2月片尾曲                                                                                                                                |
-| 19th | 2006/05/24 | TRIAL                                               | FIFA、JFA公認電影《[疾風禁區](../Page/疾風禁區.md "wikilink")》日語配音版主題曲                                                                                                             |
+| 19th | 2006/05/24 | TRIAL                                               | FIFA、JFA公認電影《[疾風禁區](https://zh.wikipedia.org/wiki/疾風禁區 "wikilink")》日語配音版主題曲                                                                                          |
 | 20th | 2006/09/06 | ブギウギ66（Boogie Woogie 66）                            | dwango.com廣告曲；日本電視台《スポんちゅ》2006年9月份片尾曲,第48回日本唱片大賞「金賞」［受賞曲目］                                                                                                           |
 | 21st | 2007/01/17 | ハナムケ（餞別）                                            | Bourbon「維他命C口香糖」「鼻喉口香糖」廣告曲                                                                                                                                           |
 | 22nd | 2007/07/04 | LOVE IS THE GREATEST THING                          | 電影《[史瑞克三世](../Page/史瑞克三世.md "wikilink")》日語配音版主題曲 c/w SHINING STAR：北海商科大學廣告曲, 第49回日本唱片大賞「金賞」［受賞曲目］                                                                    |
-| 23rd | 2007/11/07 | Beautiful Life                                      | [ABC·朝日電視系列電視劇](../Page/ANN.md "wikilink")《オトコの子育》（中譯：非常老爸）主題曲                                                                                                       |
-| 24th | 2008/04/23 | アメあと（風雨過後）                                          | 東京電視台動畫《[家庭教師HITMAN REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》第8期片尾曲,第50回日本唱片大賞「優秀作品賞」［受賞曲目］                                                               |
+| 23rd | 2007/11/07 | Beautiful Life                                      | [ABC·朝日電視系列電視劇](https://zh.wikipedia.org/wiki/ANN "wikilink")《オトコの子育》（中譯：非常老爸）主題曲                                                                                    |
+| 24th | 2008/04/23 | アメあと（風雨過後）                                          | 東京電視台動畫《[家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》第8期片尾曲,第50回日本唱片大賞「優秀作品賞」［受賞曲目］                                            |
 | 25th | 2008/11/26 | Everyday/CAN'T GET BACK                             | Everyday：日本電視台《THE・サンデー NEXT》片尾曲（2008年10月） CAN'T GET BACK：日本電視台《スーパーチャンプル》片尾曲（2008年11月）                                                                              |
 | 26th | 2009/05/13 | Rain Is Fallin'/HYBRID DREAM                        | Rain Is Fallin'：與韓國團體BigBang中的G-Dragon合作，為日本電視台《江川×堀尾のSUPERうるぐす》主題曲（2009年4・5月） HYBRID DREAM：日本電視台《秒ヨミ！》5月片尾曲,第51回日本唱片大賞「優秀作品賞」［受賞曲目］,MTV VMAJ 最優秀コラボレーションビデオ賞 ［受賞作品］ |
 | 27th | 2009/12/09 | New World／Truth～最後の真実～（Truth～最後的真實～﹞                | New World：日本電視台《ドクター・ハウス シーズン2（中譯：[流氓醫生](../Page/豪斯医生.md "wikilink")）》片尾曲 Truth～最後の真実～：Ne-Yo提供此樂曲，為TBS電視台《あらびき団》片尾曲（2009年12月及2010年1月）,第52回日本唱片大賞「優秀作品賞」［受賞曲目］        |
 | 28th | 2010/06/23 | Addicted to love                                    | NHK土曜時代劇「まっつぐ〜鎌倉河岸捕物控〜（中譯：正直～鎌倉河岸捕吏傳～）」主題曲                                                                                                                           |
-| 29th | 2011/01/26 | Be As One／Let's get it on                           | Be As One：東京電視台動畫[FAIRY TAIL 魔導少年片尾曲](../Page/FAIRY_TAIL_魔導少年.md "wikilink") Let's get it on：日本電視台《スッキリ                                                              |
+| 29th | 2011/01/26 | Be As One／Let's get it on                           | Be As One：東京電視台動畫[FAIRY TAIL 魔導少年片尾曲](https://zh.wikipedia.org/wiki/FAIRY_TAIL_魔導少年 "wikilink") Let's get it on：日本電視台《スッキリ                                           |
 | 30th | 2011/08/17 | You & I                                             | TBS電視台《有田とマツコと男と女》片尾曲（2011年8月及9月）                                                                                                                                    |
 | 31st | 2012/02/22 | FLY HIGH                                            | 日本電視台《ハッピーMusic》片頭曲（2012年2月） 日本電視台《ゲーマーズＴＶ 夜遊び三姉妹》片尾曲（2012年2月）                                                                                                       |
 | 32nd | 2013/10/30 | A Little Bit                                        |                                                                                                                                                                      |
-| 33rd | 2014/06/11 | 夢で逢えるのに～Sometimes I Cry～（明明能在夢中相見～Sometimes I Cry～） | 日本電視台《[ミュージックドラゴン](../Page/ミュージックドラゴン.md "wikilink")》片尾曲（2014年6月） 日本電視台《それゆけ！ゲームパンサー！》片尾曲（2014年6月）                                                                   |
+| 33rd | 2014/06/11 | 夢で逢えるのに～Sometimes I Cry～（明明能在夢中相見～Sometimes I Cry～） | 日本電視台《[ミュージックドラゴン](https://zh.wikipedia.org/wiki/ミュージックドラゴン "wikilink")》片尾曲（2014年6月） 日本電視台《それゆけ！ゲームパンサー！》片尾曲（2014年6月）                                                |
 | 34th | 2015/01/25 | FANTASY                                             |                                                                                                                                                                      |
 | 35th | 2015/06/10 | In Love With The Music                              |                                                                                                                                                                      |
 | 36th | 2016/05/03 | Boom Word Up                                        | 日本電視台《\[\[スッキリ                                                                                                                                                       |
-| 37th | 2016/08/31 | Backstage                                           | TBS電視台《[ひるおび！](../Page/ひるおび！.md "wikilink")》片尾曲（2016年9月）                                                                                                             |
+| 37th | 2016/08/31 | Backstage                                           | TBS電視台《[ひるおび！](https://zh.wikipedia.org/wiki/ひるおび！ "wikilink")》片尾曲（2016年9月）                                                                                          |
 | 38th | 2017/01/11 | We Don't Need To Talk Anymore                       | 日本電視台《[バズリズム](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%BA%E3%83%AA%E3%82%BA%E3%83%A0#.E5.87.BA.E6.BC.94)》主題曲（2017年1月）                                           |
 | 39th | 2017/09/27 | Time Has Gone                                       | TBS電視台《CDTV》片頭曲（2017年8月及9月）                                                                                                                                          |
 | 40th | 2018/03/14 | Dirty Talk                                          | 日本電視台《\[\[スッキリ                                                                                                                                                       |
@@ -231,15 +231,15 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
 ### NHK紅白歌合戰
 
-|            |   |                  |      |                                                                                |
-| ---------- | - | ---------------- | ---- | ------------------------------------------------------------------------------ |
-| 年度／播放回數    | 次 | 曲目               | 演出順序 | 對戰對手                                                                           |
-| 2002年／第53回 | 初 | NEW PARADISE     | 1/27 | [藤本美貴](../Page/藤本美貴.md "wikilink")                                             |
-| 2003年／第54回 | 2 | Long Road        | 1/30 | [寶兒](../Page/寶兒.md "wikilink")                                                 |
-| 2004年／第55回 | 3 | 四季               | 2/28 | [早安少女組](../Page/早安少女組.md "wikilink")·[W](../Page/W_\(Double_U\).md "wikilink") |
-| 2005年／第56回 | 4 | 十六夜之月            | 3/29 | [水森かおり](../Page/水森かおり.md "wikilink")                                           |
-| 2006年／第57回 | 5 | Boogie Woogie 66 | 1/27 | [mihimaru GT](../Page/mihimaru_GT.md "wikilink")                               |
-| 2007年／第58回 | 6 | Beautiful Life   | 3/27 | [中村美津子](../Page/中村美津子.md "wikilink")                                           |
+|            |   |                  |      |                                                                                                   |
+| ---------- | - | ---------------- | ---- | ------------------------------------------------------------------------------------------------- |
+| 年度／播放回數    | 次 | 曲目               | 演出順序 | 對戰對手                                                                                              |
+| 2002年／第53回 | 初 | NEW PARADISE     | 1/27 | [藤本美貴](../Page/藤本美貴.md "wikilink")                                                                |
+| 2003年／第54回 | 2 | Long Road        | 1/30 | [寶兒](../Page/寶兒.md "wikilink")                                                                    |
+| 2004年／第55回 | 3 | 四季               | 2/28 | [早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")·[W](../Page/W_\(Double_U\).md "wikilink") |
+| 2005年／第56回 | 4 | 十六夜之月            | 3/29 | [水森かおり](https://zh.wikipedia.org/wiki/水森かおり "wikilink")                                           |
+| 2006年／第57回 | 5 | Boogie Woogie 66 | 1/27 | [mihimaru GT](https://zh.wikipedia.org/wiki/mihimaru_GT "wikilink")                               |
+| 2007年／第58回 | 6 | Beautiful Life   | 3/27 | [中村美津子](https://zh.wikipedia.org/wiki/中村美津子 "wikilink")                                           |
 
 ### 廣播
 
@@ -264,22 +264,22 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
 ### 電影
 
-|                                                              |            |                                     |
-| ------------------------------------------------------------ | ---------- | ----------------------------------- |
-| 電影名稱                                                         | 上映日期       | 簡介                                  |
-| Star Light                                                   | 2001/10/06 | （w-inds.）客串演出，演w-inds.              |
-| "ナースのお仕事" 電影版（[秀逗小護士](../Page/秀逗小護士#秀逗小護士電影版.md "wikilink")） | 2002/05/11 | （w-inds.）客串演出，在2002年12月18日發行VHS／DVD |
-| BABY BABY BABY\!（瘋狂好孕到）                                      | 2009/05/23 | （橘慶太）客串演出藥局店員                       |
+|                                                                                 |            |                                     |
+| ------------------------------------------------------------------------------- | ---------- | ----------------------------------- |
+| 電影名稱                                                                            | 上映日期       | 簡介                                  |
+| Star Light                                                                      | 2001/10/06 | （w-inds.）客串演出，演w-inds.              |
+| "ナースのお仕事" 電影版（[秀逗小護士](https://zh.wikipedia.org/wiki/秀逗小護士#秀逗小護士電影版 "wikilink")） | 2002/05/11 | （w-inds.）客串演出，在2002年12月18日發行VHS／DVD |
+| BABY BABY BABY\!（瘋狂好孕到）                                                         | 2009/05/23 | （橘慶太）客串演出藥局店員                       |
 
 ### 廣告
 
-|                                            |                   |                                                               |
-| ------------------------------------------ | ----------------- | ------------------------------------------------------------- |
-| 廣告名稱                                       | 代言日期              | 簡介                                                            |
-| 「ブルボンガムシリーズ（Bourbon）」                      | 2003年7月 - 2007憐1月 | Bourbon系列的口香糖廣告。                                              |
-| Family Mart「M/F/C Double mascara（ダブルマスカラ）」 | 2002年6月           | 睫毛液廣告。                                                        |
-| 「DWANGO（マナー着信音）」                           | 2005年3月           | 公司手機實感音效廣告，是與同事務所團體[Lead初次合作的廣告](../Page/Lead.md "wikilink")。 |
-| 「EDWINS. x w-inds.」                        | 2006年5月           | 企劃限定販售款牛仔褲「EDWIN503 Featuring w-inds.」推出。                     |
+|                                            |                   |                                                                                  |
+| ------------------------------------------ | ----------------- | -------------------------------------------------------------------------------- |
+| 廣告名稱                                       | 代言日期              | 簡介                                                                               |
+| 「ブルボンガムシリーズ（Bourbon）」                      | 2003年7月 - 2007憐1月 | Bourbon系列的口香糖廣告。                                                                 |
+| Family Mart「M/F/C Double mascara（ダブルマスカラ）」 | 2002年6月           | 睫毛液廣告。                                                                           |
+| 「DWANGO（マナー着信音）」                           | 2005年3月           | 公司手機實感音效廣告，是與同事務所團體[Lead初次合作的廣告](https://zh.wikipedia.org/wiki/Lead "wikilink")。 |
+| 「EDWINS. x w-inds.」                        | 2006年5月           | 企劃限定販售款牛仔褲「EDWIN503 Featuring w-inds.」推出。                                        |
 
 -----
 
@@ -307,12 +307,12 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
 ### 其他
 
-|            |                     |                                                                    |
-| ---------- | ------------------- | ------------------------------------------------------------------ |
-| 發售日期       | 商品名稱                | 簡介                                                                 |
-| 2005/10    | 誘惑のベール（誘惑的面紗）vol.1  | （[VISION FACTORY事務所藝人合輯寫真書](../Page/VISION_FACTORY.md "wikilink")） |
-| 2006/03    | 誘惑のベール（誘惑的面紗）vol.2  | （[VISION FACTORY事務所藝人合輯寫真書](../Page/VISION_FACTORY.md "wikilink")） |
-| 2002/02/25 | 東京スタイル爆弾（東京STYLE爆彈） | 漫畫　1\~3冊　作者：広瀬なつめ                                                  |
+|            |                     |                                                                                       |
+| ---------- | ------------------- | ------------------------------------------------------------------------------------- |
+| 發售日期       | 商品名稱                | 簡介                                                                                    |
+| 2005/10    | 誘惑のベール（誘惑的面紗）vol.1  | （[VISION FACTORY事務所藝人合輯寫真書](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")） |
+| 2006/03    | 誘惑のベール（誘惑的面紗）vol.2  | （[VISION FACTORY事務所藝人合輯寫真書](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")） |
+| 2002/02/25 | 東京スタイル爆弾（東京STYLE爆彈） | 漫畫　1\~3冊　作者：広瀬なつめ                                                                     |
 
 ### 雜誌
 

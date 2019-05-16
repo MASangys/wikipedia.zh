@@ -1,22 +1,22 @@
 **Cyrix
-Corporation**是1988年在美國德克薩斯州理查森市成立的一家[微處理器開發公司](../Page/微處理器.md "wikilink")，主要從事于專為[286和](../Page/Intel_80286.md "wikilink")[386微處理器提供高性能的](../Page/Intel_80386.md "wikilink")[浮點運算處理器](../Page/FPU.md "wikilink")。Tom
+Corporation**是1988年在美國德克薩斯州理查森市成立的一家[微處理器開發公司](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，主要從事于專為[286和](../Page/Intel_80286.md "wikilink")[386微處理器提供高性能的](../Page/Intel_80386.md "wikilink")[浮點運算處理器](https://zh.wikipedia.org/wiki/FPU "wikilink")。Tom
 Brightman和Jerry
-Rogers是這家公司的創始人，經過公司總裁兼[CEO的Jerry](../Page/CEO.md "wikilink")
+Rogers是這家公司的創始人，經過公司總裁兼[CEO的Jerry](https://zh.wikipedia.org/wiki/CEO "wikilink")
 Rogers親自招賢納士，最終組成了一個僅有30人的設計團隊，人數雖少但卻很高效。
 
-Cyrix在1997年11月11日與[國家半導體合併](../Page/國家半導體.md "wikilink")。
+Cyrix在1997年11月11日與[國家半導體合併](https://zh.wikipedia.org/wiki/國家半導體 "wikilink")。
 
 ## 產品
 
 [KL_Cyrix_FasMath_CX83D87.jpg](https://zh.wikipedia.org/wiki/File:KL_Cyrix_FasMath_CX83D87.jpg "fig:KL_Cyrix_FasMath_CX83D87.jpg")
 
-Cyrix初次亮相于[個人電腦市場的產品是](../Page/個人電腦.md "wikilink")1989的與x87相容的[浮點運算單元](../Page/FPU.md "wikilink")[副處理器](../Page/副處理器.md "wikilink")，Cyrix
+Cyrix初次亮相于[個人電腦市場的產品是](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")1989的與x87相容的[浮點運算單元](https://zh.wikipedia.org/wiki/FPU "wikilink")[副處理器](https://zh.wikipedia.org/wiki/副處理器 "wikilink")，Cyrix
 FasMath 83D87和83S87。FasMath當時是最快的386副處理器，比英特爾自家的80387還要快上50%。Cyrix
 FasMath 82S87是83D87回溯版，用於80286平臺，于1991年發售。
 
 [KL_Cyrix_486DRx2.jpg](https://zh.wikipedia.org/wiki/File:KL_Cyrix_486DRx2.jpg "fig:KL_Cyrix_486DRx2.jpg")
 
-該公司早期CPU產品包括[486SLC和](../Page/486SLC.md "wikilink")[486DLC](../Page/Cyrix_Cx486DLC.md "wikilink")，發佈于1992年。儘管它們的名字裡有486字樣，但實際的接腳卻分別與386SX和386DX相同。引入了晶片上的一級緩存和486指令集，使它們的性能介於英特爾自家的[386與](../Page/80386.md "wikilink")[486處理器之間](../Page/486.md "wikilink")。這些晶片被需要升級硬體的使用者所青睞，同樣也取悅于轉銷商，他們可以借用這些處理器來清理難於出售的386主機板，並以將其定位於低端的486級的產品出售。當時在中國大陸的學校、企業單位以至於一般家庭，人們為了在經濟允許的條件下儘快步入電腦時代，多採用基於這類處理器來自臺灣的電腦。多數晶片上也還印有Made
+該公司早期CPU產品包括[486SLC和](https://zh.wikipedia.org/wiki/486SLC "wikilink")[486DLC](../Page/Cyrix_Cx486DLC.md "wikilink")，發佈于1992年。儘管它們的名字裡有486字樣，但實際的接腳卻分別與386SX和386DX相同。引入了晶片上的一級緩存和486指令集，使它們的性能介於英特爾自家的[386與](https://zh.wikipedia.org/wiki/80386 "wikilink")[486處理器之間](https://zh.wikipedia.org/wiki/486 "wikilink")。這些晶片被需要升級硬體的使用者所青睞，同樣也取悅于轉銷商，他們可以借用這些處理器來清理難於出售的386主機板，並以將其定位於低端的486級的產品出售。當時在中國大陸的學校、企業單位以至於一般家庭，人們為了在經濟允許的條件下儘快步入電腦時代，多採用基於這類處理器來自臺灣的電腦。多數晶片上也還印有Made
 in
 Taiwan的字樣。同樣這個產品也倍受指責，分析師認為它們的性能無法與486相比，僅與386同級。由於Cyrix是無晶設計公司，晶片早期交由德克薩斯州晶元廠生產，一部分晶片被冠名于TX或TI，即TX486DLC、TX486SLC等等，名字不同但卻是完全一樣的晶片。IBM公司的386SLC產品線，儘管名稱類似，但卻與此無關。
 
@@ -24,12 +24,13 @@ Cyrix後來發佈了Cyrix
 486SRX2和486DRX2，它們實質上是雙倍頻的SLC和DLC，市場定位於386向486的升級使用者。與SLC/DLC不同之處在于，這些晶片包含內部快取一致性電路，這樣就算是最早的不相容SLC/DLC的386主機板，也可享用來自Cyrix的486實惠。
 
 最終Cyrix有能力發佈接腳與Intel 486一樣的CPU產品：Cyrix
-Cx486S和之後的Cx486DX。但其晶片性能競落後于AMD的486相容產品，而被甩至廉價產品市場。當AMD成功說服[OEM廠商](../Page/OEM.md "wikilink")，如[Acer和](../Page/Acer.md "wikilink")[Compaq](../Page/Compaq.md "wikilink")，採用AMD的486產品時，Cyrix卻很失利，而且僅適用于早期486主機板。
+Cx486S和之後的Cx486DX。但其晶片性能競落後于AMD的486相容產品，而被甩至廉價產品市場。當AMD成功說服[OEM廠商](https://zh.wikipedia.org/wiki/OEM "wikilink")，如[Acer和](https://zh.wikipedia.org/wiki/Acer "wikilink")[Compaq](https://zh.wikipedia.org/wiki/Compaq "wikilink")，採用AMD的486產品時，Cyrix卻很失利，而且僅適用于早期486主機板。
 
-當AMD [Am5x86僅僅是一個四倍頻的](../Page/AMD_5x86.md "wikilink")486時，Cyrix
+當AMD
+[Am5x86僅僅是一個四倍頻的](https://zh.wikipedia.org/wiki/AMD_5x86 "wikilink")486時，Cyrix
 5x86已經實現了部分Pentium才具有的功能。
 
-1995年，當[Pentium的複製產品未準備好上市時](../Page/Pentium.md "wikilink")，Cyrix重演了它自己的歷史，發售了可以插于3.3伏支援80、100、120以及133MHz的486主機板的Cyrix
+1995年，當[Pentium的複製產品未準備好上市時](https://zh.wikipedia.org/wiki/Pentium "wikilink")，Cyrix重演了它自己的歷史，發售了可以插于3.3伏支援80、100、120以及133MHz的486主機板的Cyrix
 Cx5x86（M1sc）。它的性能與75MHz的Pentium相當。Cyrix 5x86 (M1sc)事實上是其主打產品[Cyrix
 6x86](../Page/Cyrix_6x86.md "wikilink")（M1）的縮水版，類似于英特爾的Pentium
 Overdrive，64位內部匯流排，32位外部匯流排。
@@ -38,15 +39,16 @@ Overdrive，64位內部匯流排，32位外部匯流排。
 
 之后Cyrix在1995年发布了著名的Cyrix
 6x86，也就是M1。这颗处理器延续了Cyrix制作英特尔取代性产品的傳統，性能幾乎超越了英特尔的相應產品。6x86處理器使用的是標稱頻率，如P166+意味著性能將超越Pentium
-166MHz處理器。事實上，6x86處理器的實際頻率遠低於此，但性能卻不遜色。起初Cyrix試圖為它的額外性能而提高售價，但不久發現它的浮點運算能力卻無法與Pentium匹敵。造成這種劣勢的原因在於Cyrix的浮點運算部件並沒有像Pentium那樣流暢化，而需要浮點預算的3D遊戲暴露了它的不足，打破了如意算盤而不得不反而降價。當Cyrix成功的取悅電腦發燒友和個體零售商時，AMD成為了[OEM的主要供應者](../Page/OEM.md "wikilink")。
+166MHz處理器。事實上，6x86處理器的實際頻率遠低於此，但性能卻不遜色。起初Cyrix試圖為它的額外性能而提高售價，但不久發現它的浮點運算能力卻無法與Pentium匹敵。造成這種劣勢的原因在於Cyrix的浮點運算部件並沒有像Pentium那樣流暢化，而需要浮點預算的3D遊戲暴露了它的不足，打破了如意算盤而不得不反而降價。當Cyrix成功的取悅電腦發燒友和個體零售商時，AMD成為了[OEM的主要供應者](https://zh.wikipedia.org/wiki/OEM "wikilink")。
 
 之後的6x86L是6x86的修訂版，降低了功耗；而6x86MX（M2）加入了MMX指令的支援，以及更大的一級緩存。Cyrix
-MII是6x86MX的易名，為了更能與[Pentium II競爭](../Page/Pentium_II.md "wikilink")。
+MII是6x86MX的易名，為了更能與[Pentium
+II競爭](https://zh.wikipedia.org/wiki/Pentium_II "wikilink")。
 
 [KL_Cyrix_MediaGXm_PGA.jpg](https://zh.wikipedia.org/wiki/File:KL_Cyrix_MediaGXm_PGA.jpg "fig:KL_Cyrix_MediaGXm_PGA.jpg")
-1996年Cyrix發布了MediaGX處理器，它將包括聲音、圖形單元在內的所有個人電腦中的主要獨立部件整合於CPU芯片中。起初，是基於早期的5x86技術，運行於120或133MHz，性能並不十分理想，但較低的價格使它得以成功。MediaGX使Cyrix第一次獲得全勝，Compaq將它運用於低成本的[Presario](../Page/Presario.md "wikilink")
+1996年Cyrix發布了MediaGX處理器，它將包括聲音、圖形單元在內的所有個人電腦中的主要獨立部件整合於CPU芯片中。起初，是基於早期的5x86技術，運行於120或133MHz，性能並不十分理想，但較低的價格使它得以成功。MediaGX使Cyrix第一次獲得全勝，Compaq將它運用於低成本的[Presario](https://zh.wikipedia.org/wiki/Presario "wikilink")
 2100和2200系列電腦中，這也使得Cyrix獲得將6x86售與[Packard
-Bell和](../Page/Packard_Bell.md "wikilink")[eMachines的權力](../Page/eMachines.md "wikilink")。
+Bell和](https://zh.wikipedia.org/wiki/Packard_Bell "wikilink")[eMachines的權力](https://zh.wikipedia.org/wiki/eMachines "wikilink")。
 
 後期MediaGX運行頻率高達至333MHz，並且加入了MMX的支持。加入的額外一顆芯片擴展它的視頻性能。
 
@@ -58,8 +60,8 @@ Rating（PR），用以和英特尔的產品作比較。由於運行133MHz的6x8
 PR標註備受爭議，因為Cyrix的性能超越Pentium，是在運行文書軟體下的比較，而這種軟體並沒有暴露浮點運算的性能。而當運行最新的遊戲時，PR值將被降低。除此之外，6x86主要用於低端配置系統，性能也會因為使用的外圍設備影響而進一步下降。
 
 儘管AMD也將PR標註使用於它早期的[AMD K5芯片上](../Page/AMD_K5.md "wikilink")，但不久後隨[AMD
-K6發布時而放棄](../Page/AMD_K6.md "wikilink")。後來在[Athlon
-XP時代](../Page/Athlon_XP.md "wikilink")，AMD重新使用了類似的標註方式。
+K6發布時而放棄](https://zh.wikipedia.org/wiki/AMD_K6 "wikilink")。後來在[Athlon
+XP時代](https://zh.wikipedia.org/wiki/Athlon_XP "wikilink")，AMD重新使用了類似的標註方式。
 
 ## 晶元化夥伴
 
@@ -105,7 +107,7 @@ Henry，說道“Cyrix是有好產品的，但他們找錯了人，搞得自己�
 
 ## 遺產
 
-儘管這家公司是短壽的，品牌名稱也被現有公司放棄。但Cyrix與英特尔的競爭開創了低端CPU市場，降低了個人電腦的售價，使英特尔最終發布了[賽揚處理器](../Page/賽揚.md "wikilink")。
+儘管這家公司是短壽的，品牌名稱也被現有公司放棄。但Cyrix與英特尔的競爭開創了低端CPU市場，降低了個人電腦的售價，使英特尔最終發布了[賽揚處理器](https://zh.wikipedia.org/wiki/賽揚 "wikilink")。
 
 此外，對Cyrix知识產權的收購也使得威盛可以拖延與英特尔的法律糾紛，甚至是在停止使用Cyrix的後幾年裡。
 

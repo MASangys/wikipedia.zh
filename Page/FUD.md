@@ -2,12 +2,12 @@
 
 最早出自[吉恩·阿姆達爾之口](../Page/吉恩·阿姆達爾.md "wikilink")，吉恩·阿姆達爾原為[IBM工程師](../Page/IBM.md "wikilink")，之後離開IBM自行創立，成為IBM競爭對手。
 
-这种行销手法现在经常用于电脑业界，特別是[微软常向客戶宣稱](../Page/微软.md "wikilink")[Linux與其他](../Page/Linux.md "wikilink")[開放原始碼的](../Page/開放原始碼.md "wikilink")[軟體對客戶有弊無利](../Page/軟體.md "wikilink")。\[1\]\[2\]\[3\]
+这种行销手法现在经常用于电脑业界，特別是[微软常向客戶宣稱](../Page/微软.md "wikilink")[Linux與其他](../Page/Linux.md "wikilink")[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[軟體對客戶有弊無利](https://zh.wikipedia.org/wiki/軟體 "wikilink")。\[1\]\[2\]\[3\]
 
 ## 參見
 
   - [訴諸恐懼](../Page/訴諸恐懼.md "wikilink")
-  - [萬聖節文件](../Page/萬聖節文件.md "wikilink")
+  - [萬聖節文件](https://zh.wikipedia.org/wiki/萬聖節文件 "wikilink")
 
 ## 外部連結
 
@@ -19,7 +19,8 @@
 
 1.
 2.   (NB. This document of the *[Caldera v.
-    Microsoft](../Page/Caldera_v._Microsoft.md "wikilink")* case was an
-    exhibit in the later *[Comes v.
-    Microsoft](../Page/Comes_v._Microsoft.md "wikilink")* case.)
+    Microsoft](https://zh.wikipedia.org/wiki/Caldera_v._Microsoft "wikilink")*
+    case was an exhibit in the later *[Comes v.
+    Microsoft](https://zh.wikipedia.org/wiki/Comes_v._Microsoft "wikilink")*
+    case.)
 3.

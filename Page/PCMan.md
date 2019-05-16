@@ -40,25 +40,27 @@ PCMan 的新生。
 
 ## 產品列表
 
-  - [Open PCMan Combo](../Page/Open_PCMan.md "wikilink")（結合了[Internet
+  - [Open PCMan
+    Combo](https://zh.wikipedia.org/wiki/Open_PCMan "wikilink")（結合了[Internet
     Explorer的PCMan](../Page/Internet_Explorer.md "wikilink")，可以瀏覽網頁也可以連線BBS）
   - Open PCMan（單純BBS連線版本）
-  - [PCMan X](../Page/PCMan_X.md "wikilink")（重新撰寫開放原始碼且跨平台的PCMan）
+  - [PCMan
+    X](https://zh.wikipedia.org/wiki/PCMan_X "wikilink")（重新撰寫開放原始碼且跨平台的PCMan）
   - PCManX-gtk2（重新以純GTK+ 2.x撰寫開放原始碼，針對[X
-    Window設計的PCMan](../Page/X_Window.md "wikilink")）
+    Window設計的PCMan](https://zh.wikipedia.org/wiki/X_Window "wikilink")）
   - PCMan plug-in for
     [Mozilla](../Page/Mozilla.md "wikilink")／[Firefox](../Page/Firefox.md "wikilink")（以Mozilla／Firefox的Plug-in形式發行）
   - PCMan+BBI，以PCMan Combo代碼為基礎開發的新版
 
 ## 特色
 
-  - 完全免費，不含廣告，並且[開放原始碼](../Page/開放源碼.md "wikilink")。
-  - [分頁瀏覽功能](../Page/分頁瀏覽器.md "wikilink")。
+  - 完全免費，不含廣告，並且[開放原始碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")。
+  - [分頁瀏覽功能](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")。
   - 可自訂熱鍵。
-  - 快速輸入常用文字，可用於輸入[表情符號或是](../Page/表情符號.md "wikilink")[推圖娃娃](../Page/推圖娃娃.md "wikilink")。
+  - 快速輸入常用文字，可用於輸入[表情符號或是](https://zh.wikipedia.org/wiki/表情符號 "wikilink")[推圖娃娃](https://zh.wikipedia.org/wiki/推圖娃娃 "wikilink")。
   - 使用系統資源少，可以在老舊的電腦上執行。
   - 搜尋網頁功能，可以自訂搜尋引擎。
-  - [貼上短網址](../Page/縮址.md "wikilink")，可將剪貼簿中的網址轉換成短網址，方便在BBS上使用。
+  - [貼上短網址](https://zh.wikipedia.org/wiki/縮址 "wikilink")，可將剪貼簿中的網址轉換成短網址，方便在BBS上使用。
   - 與BBS相關的功能：
       - 內建Unicode補完，可以在繁體BBS上顯示及輸入日文及簡體中文。
       - 簡繁轉換功能，可瀏覽簡體中文BBS站。
@@ -71,21 +73,21 @@ PCMan 的新生。
 ### Open PCMan
 
 作為一個輕量級BBS的瀏覽軟體，Open
-PCMan在較舊的電腦上仍有不錯的表現。功能上，提供包括ANSI彩色在內的基本BBS支援，並提供BBS和網頁（Combo版）的[分頁瀏覽功能](../Page/分頁瀏覽器.md "wikilink")。在細微調整上，Open
-PCMan除了支援設定自訂熱鍵外，亦支援常用文字的快速輸入方法，可用於輸入[表情符號或快速將推文以](../Page/表情符號.md "wikilink")[推圖娃娃的形式輸出等](../Page/推圖娃娃.md "wikilink")；另外內建自動回訊功能，可以設定為一連線至BBS時自動登入。
+PCMan在較舊的電腦上仍有不錯的表現。功能上，提供包括ANSI彩色在內的基本BBS支援，並提供BBS和網頁（Combo版）的[分頁瀏覽功能](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")。在細微調整上，Open
+PCMan除了支援設定自訂熱鍵外，亦支援常用文字的快速輸入方法，可用於輸入[表情符號或快速將推文以](https://zh.wikipedia.org/wiki/表情符號 "wikilink")[推圖娃娃的形式輸出等](https://zh.wikipedia.org/wiki/推圖娃娃 "wikilink")；另外內建自動回訊功能，可以設定為一連線至BBS時自動登入。
 
 在使用者親和上，Open
-PCMan提供ANSI編輯器方便編輯彩色文章，亦會自動偵測[http等](../Page/http.md "wikilink")[URL連結](../Page/URL.md "wikilink")，依類型執行相關程式；另自Open
+PCMan提供ANSI編輯器方便編輯彩色文章，亦會自動偵測[http等](https://zh.wikipedia.org/wiki/http "wikilink")[URL連結](https://zh.wikipedia.org/wiki/URL "wikilink")，依類型執行相關程式；另自Open
 PCMan
-2007版起，內建多個功能：右鍵功能表新增將選取文字作為搜尋與[貼上短網址](../Page/縮址.md "wikilink")、在MapleBBS中下載全篇文章等。
+2007版起，內建多個功能：右鍵功能表新增將選取文字作為搜尋與[貼上短網址](https://zh.wikipedia.org/wiki/縮址 "wikilink")、在MapleBBS中下載全篇文章等。
 
 在文字編碼上，Open PCMan
-2007支援繁簡體（[Big5和](../Page/大五碼.md "wikilink")[GB2312](../Page/GB2312.md "wikilink")）的顯示和繁簡體字體轉換，另外在Big5方面，也內建了對[Unicode補完計畫字集的顯示和系統轉碼支援](../Page/Unicode補完計畫.md "wikilink")，唯獨目前為止仍不支援[UTF-8](../Page/UTF-8.md "wikilink")。
+2007支援繁簡體（[Big5和](../Page/大五碼.md "wikilink")[GB2312](https://zh.wikipedia.org/wiki/GB2312 "wikilink")）的顯示和繁簡體字體轉換，另外在Big5方面，也內建了對[Unicode補完計畫字集的顯示和系統轉碼支援](../Page/Unicode補完計畫.md "wikilink")，唯獨目前為止仍不支援[UTF-8](../Page/UTF-8.md "wikilink")。
 
 ## 開發者
 
   - Hong Jen Yee [洪任諭](../Page/洪任諭.md "wikilink")（PCMan，原作者及主要開發者）
-  - Jim Huang [黃敬群](../Page/黃敬群.md "wikilink")（jserv）
+  - Jim Huang [黃敬群](https://zh.wikipedia.org/wiki/黃敬群 "wikilink")（jserv）
   - Kanru Chen 陳侃如（kanru）
   - Chia I Wu 吳佳一（olv）
   - Shih-Yuan Lee 李世元（FourDollars）
@@ -125,8 +127,8 @@ PCMan
   -
 ## 參見
 
-  - [Open PCMan](../Page/Open_PCMan.md "wikilink")
-  - [電腦軟體列表](../Page/電腦軟體列表.md "wikilink")
+  - [Open PCMan](https://zh.wikipedia.org/wiki/Open_PCMan "wikilink")
+  - [電腦軟體列表](https://zh.wikipedia.org/wiki/電腦軟體列表 "wikilink")
 
 ## 參考文獻
 

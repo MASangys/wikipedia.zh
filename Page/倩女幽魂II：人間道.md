@@ -1,8 +1,8 @@
-是1990年香港電影。[徐克監製](../Page/徐克_\(香港\).md "wikilink")[倩女幽魂系列第二部](../Page/倩女幽魂_\(1987年电影\).md "wikilink")，演員除了第一部的[張國榮](../Page/張國榮.md "wikilink")、[王祖賢](../Page/王祖賢.md "wikilink")、[午馬](../Page/午馬.md "wikilink")、[劉兆銘](../Page/劉兆銘.md "wikilink")，加入了[張學友](../Page/張學友.md "wikilink")，[李嘉欣](../Page/李嘉欣.md "wikilink")、[李子雄](../Page/李子雄.md "wikilink")、[劉洵](../Page/劉洵_\(香港演員\).md "wikilink")。而且劇情已經離開聊齋原著，另講新故事。
+是1990年香港電影。[徐克監製](https://zh.wikipedia.org/wiki/徐克_\(香港\) "wikilink")[倩女幽魂系列第二部](https://zh.wikipedia.org/wiki/倩女幽魂_\(1987年电影\) "wikilink")，演員除了第一部的[張國榮](../Page/張國榮.md "wikilink")、[王祖賢](../Page/王祖賢.md "wikilink")、[午馬](../Page/午馬.md "wikilink")、[劉兆銘](../Page/劉兆銘.md "wikilink")，加入了[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")，[李嘉欣](../Page/李嘉欣.md "wikilink")、[李子雄](../Page/李子雄.md "wikilink")、[劉洵](https://zh.wikipedia.org/wiki/劉洵_\(香港演員\) "wikilink")。而且劇情已經離開聊齋原著，另講新故事。
 
 ## 劇情
 
-故事為緊接[倩女幽魂結尾燕赤霞及寧采臣二人合力將黑山老妖消滅並安葬小倩的骨灰後的故事](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。寧采臣（[張國榮飾](../Page/張國榮.md "wikilink")）與好友燕赤霞（[午馬飾](../Page/午馬.md "wikilink")）分手後重回已經半荒廢的家鄉，其後甚至無辜被當成通緝犯抓入獄。幸在獄中得諸葛臥龍（[谷峰飾](../Page/谷峰.md "wikilink")）相助逃獄。逃狱后与年青道士知秋（[張學友飾](../Page/張學友.md "wikilink")）缠上，从误会以至相交，一起投宿于一荒废山庄。并在此結識一群忠義之士，他們在傅青风（[王祖賢飾](../Page/王祖賢.md "wikilink")）及其妹妹傅月池（[李嘉欣飾](../Page/李嘉欣.md "wikilink")）的带领下，埋伏山庄，拯救被陷害入狱，正被押上京受审的父亲－兵都尚书傅天仇。眾人誤以為寧采臣是諸葛臥龍前輩而對其尊敬有嘉。寧采臣覺得傅青风似其舊愛聶小倩，其以为小倩投胎，遂将错就错，留下以便试探真假。与壮士商讨营救傅天仇之计划。忠义之士左千戶（[李子雄飾](../Page/李子雄.md "wikilink")）一路追捕傅天仇，发现真相后转而帮傅天仇向國師普渡慈航阐明真相。普渡慈航实际乃法力高强的蜈蚣精化身，傅天仇、知秋一葉、傅月池均被抓。寧采臣與傅清風逃脱，到蘭若寺找燕赤霞對抗普渡慈航。左千戶也發現國師是蜈蚣精，救出傅天仇、知秋一葉、傅月池。眾人合力對抗普渡慈航，仍不敌其高深法力，左千戶战死。此时燕赤霞赶到，和知秋一葉合力擊敗普渡慈航，但知秋一葉元神出竅卻無法返回軀體。傅天仇重回朝廷，除妖有功，加官进爵。清风抛弃荣华，与宁采臣一起浪迹天涯。
+故事為緊接[倩女幽魂結尾燕赤霞及寧采臣二人合力將黑山老妖消滅並安葬小倩的骨灰後的故事](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。寧采臣（[張國榮飾](../Page/張國榮.md "wikilink")）與好友燕赤霞（[午馬飾](../Page/午馬.md "wikilink")）分手後重回已經半荒廢的家鄉，其後甚至無辜被當成通緝犯抓入獄。幸在獄中得諸葛臥龍（[谷峰飾](../Page/谷峰.md "wikilink")）相助逃獄。逃狱后与年青道士知秋（[張學友飾](https://zh.wikipedia.org/wiki/張學友 "wikilink")）缠上，从误会以至相交，一起投宿于一荒废山庄。并在此結識一群忠義之士，他們在傅青风（[王祖賢飾](../Page/王祖賢.md "wikilink")）及其妹妹傅月池（[李嘉欣飾](../Page/李嘉欣.md "wikilink")）的带领下，埋伏山庄，拯救被陷害入狱，正被押上京受审的父亲－兵都尚书傅天仇。眾人誤以為寧采臣是諸葛臥龍前輩而對其尊敬有嘉。寧采臣覺得傅青风似其舊愛聶小倩，其以为小倩投胎，遂将错就错，留下以便试探真假。与壮士商讨营救傅天仇之计划。忠义之士左千戶（[李子雄飾](../Page/李子雄.md "wikilink")）一路追捕傅天仇，发现真相后转而帮傅天仇向國師普渡慈航阐明真相。普渡慈航实际乃法力高强的蜈蚣精化身，傅天仇、知秋一葉、傅月池均被抓。寧采臣與傅清風逃脱，到蘭若寺找燕赤霞對抗普渡慈航。左千戶也發現國師是蜈蚣精，救出傅天仇、知秋一葉、傅月池。眾人合力對抗普渡慈航，仍不敌其高深法力，左千戶战死。此时燕赤霞赶到，和知秋一葉合力擊敗普渡慈航，但知秋一葉元神出竅卻無法返回軀體。傅天仇重回朝廷，除妖有功，加官进爵。清风抛弃荣华，与宁采臣一起浪迹天涯。
 
 ## 人物角色
 
@@ -33,7 +33,7 @@
 <td><p>傅天仇之次女</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張學友.md" title="wikilink">張學友</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張學友" title="wikilink">張學友</a></p></td>
 <td><p>知秋一葉</p></td>
 <td><p><a href="../Page/張錦程.md" title="wikilink">張錦程</a></p></td>
 <td><p>崑崙後學術士<br />
@@ -54,19 +54,19 @@
 <tr class="even">
 <td><p><a href="../Page/劉兆銘.md" title="wikilink">劉兆銘</a></p></td>
 <td><p>傅天仇</p></td>
-<td><p><a href="../Page/林聰_(香港演員).md" title="wikilink">林　聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林聰_(香港演員)" title="wikilink">林　聰</a></p></td>
 <td><p>前任禮部尚書</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉洵_(香港演員).md" title="wikilink">劉　洵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉洵_(香港演員)" title="wikilink">劉　洵</a></p></td>
 <td><p>普渡慈航</p></td>
-<td><p><a href="../Page/陶碧儀.md" title="wikilink">陶碧儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陶碧儀" title="wikilink">陶碧儀</a></p></td>
 <td><p>蜈蚣精化身</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/谷峰.md" title="wikilink">谷　峰</a></p></td>
 <td><p>諸葛臥龍</p></td>
-<td><p><a href="../Page/林聰_(香港演員).md" title="wikilink">林　聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林聰_(香港演員)" title="wikilink">林　聰</a></p></td>
 <td><p>通天博學士</p></td>
 </tr>
 </tbody>
@@ -74,14 +74,14 @@
 
 ## 電影歌曲
 
-|        |                                           |                                  |                                |                                |
-| ------ | ----------------------------------------- | -------------------------------- | ------------------------------ | ------------------------------ |
-| **曲別** | **歌名**                                    | **演唱者**                          | **作曲**                         | **作詞**                         |
-| 主題曲    | 〈[人間道](../Page/人間道.md "wikilink")〉（粵語、國語） | [張學友](../Page/張學友.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
-| 插曲     | 〈捉一個溫馨夜晚〉（粵語）                             | [曾慶瑜](../Page/曾慶瑜.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
-| 插曲     | 〈抓一個溫馨晚上〉（國語）                             | 曾慶瑜                              | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
-| 插曲     | 〈十里平湖霜滿天〉                                 |                                  |                                |                                |
-| 插曲     | 〈道〉                                       | [林利](../Page/林利.md "wikilink")   | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
+|        |                                                              |                                                     |                                |                                |
+| ------ | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------ | ------------------------------ |
+| **曲別** | **歌名**                                                       | **演唱者**                                             | **作曲**                         | **作詞**                         |
+| 主題曲    | 〈[人間道](https://zh.wikipedia.org/wiki/人間道 "wikilink")〉（粵語、國語） | [張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink") | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
+| 插曲     | 〈捉一個溫馨夜晚〉（粵語）                                                | [曾慶瑜](../Page/曾慶瑜.md "wikilink")                    | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
+| 插曲     | 〈抓一個溫馨晚上〉（國語）                                                | 曾慶瑜                                                 | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
+| 插曲     | 〈十里平湖霜滿天〉                                                    |                                                     |                                |                                |
+| 插曲     | 〈道〉                                                          | [林利](../Page/林利.md "wikilink")                      | [黃霑](../Page/黃霑.md "wikilink") | [黃霑](../Page/黃霑.md "wikilink") |
 
 ## 獎項
 
@@ -100,7 +100,7 @@
 <td><p>1991年</p></td>
 <td><p><a href="../Page/第10屆香港電影金像獎.md" title="wikilink">第10屆香港電影金像獎</a></p></td>
 <td><p>最佳男配角</p></td>
-<td><p><a href="../Page/張學友.md" title="wikilink">張學友</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張學友" title="wikilink">張學友</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -119,7 +119,7 @@
 </tr>
 <tr class="even">
 <td><p>'''1992年</p></td>
-<td><p>葡萄牙波爾圖國際奇幻電影節 <a href="../Page/Fantasporto.md" title="wikilink">Fantasporto</a>'''</p></td>
+<td><p>葡萄牙波爾圖國際奇幻電影節 <a href="https://zh.wikipedia.org/wiki/Fantasporto" title="wikilink">Fantasporto</a>'''</p></td>
 <td><p>最佳電影</p></td>
 <td><p><a href="../Page/程小東.md" title="wikilink">程小東</a></p></td>
 <td></td>
@@ -145,8 +145,8 @@
 
 ## 参见
 
-  - [倩女幽魂](../Page/倩女幽魂_\(1987年电影\).md "wikilink")
-  - [倩女幽魂3之道道道](../Page/倩女幽魂3之道道道.md "wikilink")
+  - [倩女幽魂](https://zh.wikipedia.org/wiki/倩女幽魂_\(1987年电影\) "wikilink")
+  - [倩女幽魂3之道道道](https://zh.wikipedia.org/wiki/倩女幽魂3之道道道 "wikilink")
 
 ## 外部連結
 

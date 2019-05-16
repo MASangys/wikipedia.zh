@@ -1,7 +1,7 @@
 《**IZUMO**》是日本[Studio
-e.go\!公司的](../Page/Studio_e.go!.md "wikilink")[角色扮演類型](../Page/角色扮演.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2001年12月21日發售[CD-ROM版](../Page/CD-ROM.md "wikilink")\[1\]，2002年2月22日發售DVD-ROM版。該遊戲後來移植到[Dreamcast及](../Page/Dreamcast.md "wikilink")[PlayStation
+e.go\!公司的](../Page/Studio_e.go!.md "wikilink")[角色扮演類型](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2001年12月21日發售[CD-ROM版](../Page/CD-ROM.md "wikilink")\[1\]，2002年2月22日發售DVD-ROM版。該遊戲後來移植到[Dreamcast及](../Page/Dreamcast.md "wikilink")[PlayStation
 2上](../Page/PlayStation_2.md "wikilink")。\[2\]後來改編為共6集的同名[成人動畫](../Page/成人動畫.md "wikilink")，由Milky負責製作發售。\[3\]Studio
-e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")》的[DVD-ROM版附送前作的完全版](../Page/DVD-ROM.md "wikilink")，內容主要是新增劇情和CG。「IZUMO」的名稱由於日本古代地名[出雲國](../Page/出雲國.md "wikilink")。
+e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")》的[DVD-ROM版附送前作的完全版](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，內容主要是新增劇情和CG。「IZUMO」的名稱由於日本古代地名[出雲國](../Page/出雲國.md "wikilink")。
 
 ## 故事內容
 
@@ -16,13 +16,13 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
   - 水瀨七海（CV：春野日和）
     弓道部的部員，小主角一屆的學妹，有著縣大會準優勝的實力，是社團所期待的明日之星，由於個性謙虛溫和因此在學園裡很受歡迎，才色兼備的她唯一的弱點則是體重問題。
     身為孤兒所以曾有不愉快的童年，直到與塔馬兄妹相遇後才敞開心房，自幼時開始三個人之間的關係就有如家人般親密。
-  - 橘綾香（CV：[海原エレナ](../Page/海原エレナ.md "wikilink")）
+  - 橘綾香（CV：[海原エレナ](https://zh.wikipedia.org/wiki/海原エレナ "wikilink")）
     與塔馬光等人自幼相識，是個可靠的大姐姐同時也是個天然呆，受到六介的請託而擔任出雲學園的化學老師和保健室老師，身為醫護人員卻很怕看見血。
   - 倉島渚（CV：永瀬江美弥）
     倉島財閥的大小姐和塔馬光的同班同學，與塔馬光為自小認識的孽緣，因為使用西洋劍而對使用日本刀的塔馬光抱持著競爭心理，兩人平日就常常以午餐為賭注在校園內一決勝負。
     在烹飪方面的技術差到被評為「殺人料理」，演奏鋼琴的技藝則是好得令人驚嘆。
-  - [天照](../Page/天照大神.md "wikilink")'''（アマテラス　CV：飯田空）
-    [根之國](../Page/根之國.md "wikilink")（ネノクニ）的巫女，「紡夢之力」的繼承人，塔馬光所夢見的女子，廚藝相當優秀。自小接受戰巫女的訓練，為了貫徹巫女的使命而擁有很強的責任感。
+  - [天照](https://zh.wikipedia.org/wiki/天照大神 "wikilink")'''（アマテラス　CV：飯田空）
+    [根之國](https://zh.wikipedia.org/wiki/根之國 "wikilink")（ネノクニ）的巫女，「紡夢之力」的繼承人，塔馬光所夢見的女子，廚藝相當優秀。自小接受戰巫女的訓練，為了貫徹巫女的使命而擁有很強的責任感。
     與塔馬光一行人相遇後，在多場戰鬥與日常生活當中逐漸產生變化，讓她從純粹的戰巫女變得擁有普通女孩子的一面，官方結局中最後與塔馬光修成正果，兩人的女兒則在續作《[IZUMO2](../Page/IZUMO2.md "wikilink")》中登場。
   - 塔馬美由紀（CV：桃月らみあ）
     光的妹妹，嫉妒心相當強的兄控，與光並沒有真正的血緣關係，知道這件事的只有她與六介而已。相較於光所學習的居合道，她從祖父身上則是習得以空手戰鬥為主的古武術。
@@ -36,21 +36,21 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
     美由紀的同學，某次到塔馬家玩的時候對光一見鍾情，進而拜託美由紀代送情書，最後卻造成兩人大吵一架友情決裂。
     在選擇美由紀的路線中兩人最終會重修舊好，其他路線則未知。
   - 塔馬六介（CV：山原水鶏）
-    光和美由紀的祖父，擔任出雲學園的理事長和劍道部的顧問。真實身分是[伊邪那岐](../Page/伊邪那岐.md "wikilink")。
+    光和美由紀的祖父，擔任出雲學園的理事長和劍道部的顧問。真實身分是[伊邪那岐](https://zh.wikipedia.org/wiki/伊邪那岐 "wikilink")。
   - 桐山千夏（CV：未公開）
     七海以前的朋友，因為不堪被同學欺負而自殺身亡。這件事件也讓七海一直在意著。由於對現世的憎恨而遭到覺所利用，化身為怨靈出現在一行人面前。
     在選擇七海的路線中，七海為了紀念摯友而將自己第一個孩子的名字取名為千夏。
-  - [須佐之男](../Page/須佐之男.md "wikilink")（スサノオ　CV：金山業）
+  - [須佐之男](https://zh.wikipedia.org/wiki/須佐之男 "wikilink")（スサノオ　CV：金山業）
     率領惡靈的將軍，黄泉大神的兒子，對自己具有相當的自信，為了母親而戰並以強大的劍技打敗了許多的敵人。
     在保護落入根之國的美由紀時對她產生好感，然而因為美由紀心繫塔馬光，因此他對光產生了競爭意識，決定要將她從光手中搶過來。
     原本與光等人敵對，但在八歧大蛇抓走美由紀時雙方曾短暫合作。
-  - [月讀命](../Page/月讀命.md "wikilink")（ツクヨミ　CV：飯田空）
+  - [月讀命](https://zh.wikipedia.org/wiki/月讀命 "wikilink")（ツクヨミ　CV：飯田空）
     率領惡靈的女性，地位與須佐之男同等，與天照擁有相同的外貌，曾經假扮成天照企圖造成光一行人之間的嫌隙。
     真實身分為天照的雙胞胎姐姐，因為古老習俗的關係被視為不吉祥的存在而被拋棄，被黃泉大神收留後為了對人類復仇而加入了惡靈軍。
     與主角等人的戰鬥後身亡，在惡靈化前與光締結契約而精靈化。
-  - [覺](../Page/覺.md "wikilink")（サトリ　CV：未公開）
+  - [覺](https://zh.wikipedia.org/wiki/覺 "wikilink")（サトリ　CV：未公開）
     月讀命的部下，有讀取內心的能力，服裝不知為何帶著現代感。
-  - [伊邪那美](../Page/伊邪那美.md "wikilink")（イザナミ　CV：彩世ゆう）
+  - [伊邪那美](https://zh.wikipedia.org/wiki/伊邪那美 "wikilink")（イザナミ　CV：彩世ゆう）
     光的母親，塔馬六介（伊邪那岐）的妻子。
     過去曾遭到狼子野心的神官背叛，最終與伊邪那岐分隔在兩個不同的世界（根之國與葦原之國），與四名繼承了「紡夢之力」的神官共同維持著世界的輪迴之理。
   - 黄泉大神（ヨモツオオカミ　CV：彩世ゆう）
@@ -66,7 +66,7 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
   - [桃花](../Page/意富加牟豆美命.md "wikilink")（CV：未公開）
     桃樹精靈。
     個性有禮進退合宜，在官方介紹中被譽為精靈之中最為可愛的少女。
-  - [青龍](../Page/青龍.md "wikilink")（CV：羽音摩美）
+  - [青龍](https://zh.wikipedia.org/wiki/青龍 "wikilink")（CV：羽音摩美）
     四聖獸之一，守護東方的青龍化身。
     身著藍色的中國旗袍，四聖獸中最為沉穩以及最有常識的人。
   - [玄武](../Page/玄武.md "wikilink")（CV：森野花梨）
@@ -75,10 +75,10 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
   - [白虎](../Page/白虎.md "wikilink")（CV：海原エレナ）
     四聖獸之一，守護西方的白虎化身。
     與其他聖獸相比外表看起來像是較為年幼的少年，平常沒有很明顯的感情起伏，有著老虎般的耳朵與尾巴。
-  - [朱雀](../Page/朱雀.md "wikilink")（CV：桃月らみあ）
+  - [朱雀](https://zh.wikipedia.org/wiki/朱雀 "wikilink")（CV：桃月らみあ）
     四聖獸之一，守護南方的朱雀化身。
     雖然是四聖獸的領袖卻有著搞笑的個性，像是在召集同伴時會吟唱完全沒必要的魔法少女風格咒文等等。
-  - [月讀](../Page/月讀尊.md "wikilink")（CV：飯田空）
+  - [月讀](https://zh.wikipedia.org/wiki/月讀尊 "wikilink")（CV：飯田空）
     月讀命被光等人打敗後，透過契約而成為精靈。
   - [玉藻](../Page/玉藻前.md "wikilink")（CV：春野日和）
     狐狸精靈。本作的隱藏角色。
@@ -188,7 +188,7 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
 ## 外部連結
 
   - [Studio
-    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](../Page/網際網路檔案館.md "wikilink")
+    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
   - [Studio e･go\!](http://www.studio-ego.jp/)
   - [GN
     Software遊戲官網](https://web.archive.org/web/20120306074508/http://www.goodnavigate.com/GN/products/IZUMO/)取自網際網路檔案館
@@ -211,7 +211,8 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
 2.  [Izumo](https://vndb.org/v618)The Visual Novel Database
 3.  [Izumo
     (OAV 2003)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4922)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 4.  [IZUMO](http://erogetrailers.com/soft/3676)ErogeTrailers
 5.  [IZUMO](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=1799#ad)ErogameScape
     -エロゲー批評空間-

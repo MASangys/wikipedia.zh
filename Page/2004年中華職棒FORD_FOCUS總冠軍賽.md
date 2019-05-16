@@ -1,5 +1,5 @@
 **2004年中華職棒FORD
-FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wikilink")**」），是在2004年11月6日－11月14日，分別於高雄縣澄清湖棒球場（1場）、-{台中}-棒球場（1場）、-{台北}-縣立新莊棒球場（2場）、-{台南市}-立棒球場（3場）進行交手。參賽的兩支球隊是上半球季冠軍[統一獅隊](../Page/統一獅.md "wikilink")，及下半球季冠軍[興農牛隊](../Page/興農牛.md "wikilink")。
+FOCUS總冠軍戰**（又稱為「**[台灣大賽](https://zh.wikipedia.org/wiki/台灣大賽 "wikilink")**」），是在2004年11月6日－11月14日，分別於高雄縣澄清湖棒球場（1場）、-{台中}-棒球場（1場）、-{台北}-縣立新莊棒球場（2場）、-{台南市}-立棒球場（3場）進行交手。參賽的兩支球隊是上半球季冠軍[統一獅隊](../Page/統一獅.md "wikilink")，及下半球季冠軍[興農牛隊](https://zh.wikipedia.org/wiki/興農牛 "wikilink")。
 
 ## 例行賽戰績
 
@@ -47,18 +47,18 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
 ### 統一獅隊
 
-  - [投手](../Page/投手.md "wikilink")：[高龍偉](../Page/高龍偉.md "wikilink")、[阿波羅J.A](../Page/阿波羅J.A.md "wikilink")、[潘威倫](../Page/潘威倫.md "wikilink")、[張志強](../Page/張志強.md "wikilink")、[曹竣揚](../Page/曹竣揚.md "wikilink")、[曾翊誠](../Page/曾翊誠.md "wikilink")、[陳揚凱](../Page/陳揚凱.md "wikilink")、[凱撒M.G](../Page/凱撒M.G.md "wikilink")、[雷猛D.L](../Page/雷猛D.L.md "wikilink")
-  - [捕手](../Page/捕手.md "wikilink")：[吳昭輝](../Page/吳昭輝.md "wikilink")、[高政華](../Page/高政華.md "wikilink")、[曾智偵](../Page/曾智偵.md "wikilink")
-  - [內野手](../Page/內野手.md "wikilink")：[高國慶](../Page/高國慶.md "wikilink")、[陽森](../Page/陽森.md "wikilink")、[王子崧](../Page/王子崧.md "wikilink")、[陽東益](../Page/陽東益.md "wikilink")、[吳佳榮](../Page/吳佳榮.md "wikilink")、[曾揚志](../Page/曾揚志.md "wikilink")
-  - [外野手](../Page/外野手.md "wikilink")：[林鴻遠](../Page/林鴻遠.md "wikilink")、[王傳家](../Page/王傳家.md "wikilink")、[陳政賢](../Page/陳政賢.md "wikilink")、[柯建鋒](../Page/柯建鋒.md "wikilink")、[陳連宏](../Page/陳連宏.md "wikilink")、[黃甘霖](../Page/黃甘霖.md "wikilink")
-  - [指定打擊](../Page/指定打擊.md "wikilink")：[羅敏卿](../Page/羅敏卿.md "wikilink")
+  - [投手](../Page/投手.md "wikilink")：[高龍偉](../Page/高龍偉.md "wikilink")、[阿波羅J.A](https://zh.wikipedia.org/wiki/阿波羅J.A "wikilink")、[潘威倫](../Page/潘威倫.md "wikilink")、[張志強](https://zh.wikipedia.org/wiki/張志強 "wikilink")、[曹竣揚](https://zh.wikipedia.org/wiki/曹竣揚 "wikilink")、[曾翊誠](../Page/曾翊誠.md "wikilink")、[陳揚凱](../Page/陳揚凱.md "wikilink")、[凱撒M.G](https://zh.wikipedia.org/wiki/凱撒M.G "wikilink")、[雷猛D.L](https://zh.wikipedia.org/wiki/雷猛D.L "wikilink")
+  - [捕手](../Page/捕手.md "wikilink")：[吳昭輝](https://zh.wikipedia.org/wiki/吳昭輝 "wikilink")、[高政華](../Page/高政華.md "wikilink")、[曾智偵](../Page/曾智偵.md "wikilink")
+  - [內野手](https://zh.wikipedia.org/wiki/內野手 "wikilink")：[高國慶](../Page/高國慶.md "wikilink")、[陽森](../Page/陽森.md "wikilink")、[王子崧](https://zh.wikipedia.org/wiki/王子崧 "wikilink")、[陽東益](../Page/陽東益.md "wikilink")、[吳佳榮](../Page/吳佳榮.md "wikilink")、[曾揚志](../Page/曾揚志.md "wikilink")
+  - [外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")：[林鴻遠](../Page/林鴻遠.md "wikilink")、[王傳家](../Page/王傳家.md "wikilink")、[陳政賢](../Page/陳政賢.md "wikilink")、[柯建鋒](https://zh.wikipedia.org/wiki/柯建鋒 "wikilink")、[陳連宏](../Page/陳連宏.md "wikilink")、[黃甘霖](../Page/黃甘霖.md "wikilink")
+  - [指定打擊](https://zh.wikipedia.org/wiki/指定打擊 "wikilink")：[羅敏卿](../Page/羅敏卿.md "wikilink")
 
 ### 興農牛隊
 
-  - 投手：[楊仁明](../Page/楊仁明.md "wikilink")、-{[余文彬](../Page/余文彬.md "wikilink")}-、[蔡仲南](../Page/蔡仲南.md "wikilink")、[郭勇志](../Page/郭勇志.md "wikilink")、[飛勇J.A](../Page/飛勇J.A.md "wikilink")、[何紀賢](../Page/何紀賢.md "wikilink")、[勇壯O.M](../Page/勇壯O.M.md "wikilink")、[陽建福](../Page/陽建福.md "wikilink")、[新楓康M.R](../Page/新楓康M.R.md "wikilink")
+  - 投手：[楊仁明](https://zh.wikipedia.org/wiki/楊仁明 "wikilink")、-{[余文彬](../Page/余文彬.md "wikilink")}-、[蔡仲南](../Page/蔡仲南.md "wikilink")、[郭勇志](../Page/郭勇志.md "wikilink")、[飛勇J.A](https://zh.wikipedia.org/wiki/飛勇J.A "wikilink")、[何紀賢](../Page/何紀賢.md "wikilink")、[勇壯O.M](https://zh.wikipedia.org/wiki/勇壯O.M "wikilink")、[陽建福](../Page/陽建福.md "wikilink")、[新楓康M.R](https://zh.wikipedia.org/wiki/新楓康M.R "wikilink")
   - 捕手：[葉君璋](../Page/葉君璋.md "wikilink")、[施昭同](../Page/施昭同.md "wikilink")
-  - 內野手：[闕樹木](../Page/闕樹木.md "wikilink")、[陳宗甫](../Page/陳宗甫.md "wikilink")、[黃忠義](../Page/黃忠義.md "wikilink")、[曾揚岳](../Page/曾揚岳.md "wikilink")、[張泰山](../Page/張泰山.md "wikilink")、[王世驊](../Page/王世驊.md "wikilink")、[鄭兆行](../Page/鄭兆行.md "wikilink")
-  - 外野手：-{[余進德](../Page/余進德.md "wikilink")}-、[張家浩](../Page/張家浩.md "wikilink")、[邱敏舜](../Page/邱敏舜.md "wikilink")、[曾華偉](../Page/曾華偉.md "wikilink")、[楊進雄](../Page/楊進雄.md "wikilink")、[羅松永](../Page/羅松永.md "wikilink")、[張建銘](../Page/張建銘.md "wikilink")
+  - 內野手：[闕樹木](../Page/闕樹木.md "wikilink")、[陳宗甫](../Page/陳宗甫.md "wikilink")、[黃忠義](https://zh.wikipedia.org/wiki/黃忠義 "wikilink")、[曾揚岳](../Page/曾揚岳.md "wikilink")、[張泰山](../Page/張泰山.md "wikilink")、[王世驊](https://zh.wikipedia.org/wiki/王世驊 "wikilink")、[鄭兆行](../Page/鄭兆行.md "wikilink")
+  - 外野手：-{[余進德](../Page/余進德.md "wikilink")}-、[張家浩](../Page/張家浩.md "wikilink")、[邱敏舜](https://zh.wikipedia.org/wiki/邱敏舜 "wikilink")、[曾華偉](../Page/曾華偉.md "wikilink")、[楊進雄](https://zh.wikipedia.org/wiki/楊進雄 "wikilink")、[羅松永](../Page/羅松永.md "wikilink")、[張建銘](../Page/張建銘.md "wikilink")
 
 ## 系列賽
 
@@ -68,9 +68,9 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
 #### 比賽過程
 
-總冠軍賽首戰，興農牛隊推出陣中的本土王牌投手陽建福先發，統一獅隊則以洋投阿波羅掛帥主投。前兩局雙方投手均能有效壓制對方攻勢。三局上半，首先上場打擊的牛隊曾揚岳擊出[二壘安打](../Page/二壘安打.md "wikilink")，並藉由葉君璋的[犧牲觸擊護送上](../Page/犧牲觸擊.md "wikilink")[三壘](../Page/三壘.md "wikilink")，開路先鋒張建銘敲出[內野安打](../Page/內野安打.md "wikilink")，牛隊先馳得點。四局上張泰山獲[觸身球保送](../Page/觸身球.md "wikilink")，鄭兆行擊出深遠的二壘安打，張泰山奔回[本壘攻下牛隊第二分](../Page/本壘.md "wikilink")，兩出局後-{余進德}-再補上[中外野](../Page/中外野.md "wikilink")[安打](../Page/安打.md "wikilink")，興農取得3-0領先。
+總冠軍賽首戰，興農牛隊推出陣中的本土王牌投手陽建福先發，統一獅隊則以洋投阿波羅掛帥主投。前兩局雙方投手均能有效壓制對方攻勢。三局上半，首先上場打擊的牛隊曾揚岳擊出[二壘安打](https://zh.wikipedia.org/wiki/二壘安打 "wikilink")，並藉由葉君璋的[犧牲觸擊護送上](https://zh.wikipedia.org/wiki/犧牲觸擊 "wikilink")[三壘](https://zh.wikipedia.org/wiki/三壘 "wikilink")，開路先鋒張建銘敲出[內野安打](https://zh.wikipedia.org/wiki/內野安打 "wikilink")，牛隊先馳得點。四局上張泰山獲[觸身球保送](https://zh.wikipedia.org/wiki/觸身球 "wikilink")，鄭兆行擊出深遠的二壘安打，張泰山奔回[本壘攻下牛隊第二分](https://zh.wikipedia.org/wiki/本壘 "wikilink")，兩出局後-{余進德}-再補上[中外野](https://zh.wikipedia.org/wiki/中外野 "wikilink")[安打](https://zh.wikipedia.org/wiki/安打 "wikilink")，興農取得3-0領先。
 
-統一獅隊直到七局下半才出現攻勢，首位上場的高國慶敲出二壘安打，再靠著牛隊的內野失誤攻下第一分。九局上，曾華偉敲出二壘安打，隨後靠著獅隊[捕逸及陳宗甫的](../Page/捕逸.md "wikilink")[高飛犧牲打攻下第四分](../Page/高飛犧牲打.md "wikilink")，但隨即因右膝舊傷復發而被抬出場外。在飛勇救援兩局未被擊出安打的情況下，終場興農牛隊就以4-1取得首戰勝利，同時也是興農牛隊四度參加總冠軍賽以來第一次在首戰告捷。
+統一獅隊直到七局下半才出現攻勢，首位上場的高國慶敲出二壘安打，再靠著牛隊的內野失誤攻下第一分。九局上，曾華偉敲出二壘安打，隨後靠著獅隊[捕逸及陳宗甫的](https://zh.wikipedia.org/wiki/捕逸 "wikilink")[高飛犧牲打攻下第四分](https://zh.wikipedia.org/wiki/高飛犧牲打 "wikilink")，但隨即因右膝舊傷復發而被抬出場外。在飛勇救援兩局未被擊出安打的情況下，終場興農牛隊就以4-1取得首戰勝利，同時也是興農牛隊四度參加總冠軍賽以來第一次在首戰告捷。
 
 #### 總教練評語
 
@@ -215,9 +215,9 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
 #### 比賽過程
 
-第二戰回到獅隊大本營-{台南}-棒球場進行，牛隊派出洋投勇壯，獅隊則派出本土王牌潘威倫先發。一局下半。獅隊吳佳榮擊出二壘安打，並靠著隊友的高飛球及勇壯離譜的[暴投先馳得點](../Page/暴投.md "wikilink")，但這也是獅隊全場唯一的一分。四局上。牛隊靠鄭兆行、曾華偉連續兩支安打追平比數。
+第二戰回到獅隊大本營-{台南}-棒球場進行，牛隊派出洋投勇壯，獅隊則派出本土王牌潘威倫先發。一局下半。獅隊吳佳榮擊出二壘安打，並靠著隊友的高飛球及勇壯離譜的[暴投先馳得點](https://zh.wikipedia.org/wiki/暴投 "wikilink")，但這也是獅隊全場唯一的一分。四局上。牛隊靠鄭兆行、曾華偉連續兩支安打追平比數。
 
-五局上一人出局二壘有人時，黃忠義擊出本壘後方的飛球，主審認為先觸碰到護網才被獅隊捕手接到，所以是[界外球](../Page/界外球_\(棒球\).md "wikilink")，引發獅隊總教練謝長亨不滿而上場抗議，但未被接受。隨後黃忠義仍擊出飛球出局，但張泰山、鄭兆行隨即補上兩支安打，使牛隊取得3-1領先。六到九局雙方均未再得分，牛隊終場就以3-1取得二連勝。
+五局上一人出局二壘有人時，黃忠義擊出本壘後方的飛球，主審認為先觸碰到護網才被獅隊捕手接到，所以是[界外球](https://zh.wikipedia.org/wiki/界外球_\(棒球\) "wikilink")，引發獅隊總教練謝長亨不滿而上場抗議，但未被接受。隨後黃忠義仍擊出飛球出局，但張泰山、鄭兆行隨即補上兩支安打，使牛隊取得3-1領先。六到九局雙方均未再得分，牛隊終場就以3-1取得二連勝。
 
 #### 總教練的話
 
@@ -362,11 +362,11 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
 #### 比賽過程
 
-二連敗之後來到興農台中大本營的統一獅隊，派出洋投雷猛，對上的是牛隊郭勇志。一局下半，獅隊就靠著陽森、吳佳榮接連安打及郭勇志的四壞保送攻佔滿壘，羅敏卿隨後揮出[滿貫全壘打](../Page/滿貫全壘打.md "wikilink")，為獅隊取得4-0領先。狀況不穩的郭勇志在二局下半又因保送、安打及獅隊的[盜壘再丟一分](../Page/盜壘.md "wikilink")，只投1.2局被打4支安打失5分，牛隊緊急派上-{余文彬}-才結束這個半局。三局上獅隊靠安打、保送及高飛犧牲打再下一城。
+二連敗之後來到興農台中大本營的統一獅隊，派出洋投雷猛，對上的是牛隊郭勇志。一局下半，獅隊就靠著陽森、吳佳榮接連安打及郭勇志的四壞保送攻佔滿壘，羅敏卿隨後揮出[滿貫全壘打](https://zh.wikipedia.org/wiki/滿貫全壘打 "wikilink")，為獅隊取得4-0領先。狀況不穩的郭勇志在二局下半又因保送、安打及獅隊的[盜壘再丟一分](../Page/盜壘.md "wikilink")，只投1.2局被打4支安打失5分，牛隊緊急派上-{余文彬}-才結束這個半局。三局上獅隊靠安打、保送及高飛犧牲打再下一城。
 
 四局上，獅隊再靠著兩次四壞球及一支二壘安打攻佔滿壘，高國慶隨後又將小白球送出場外，單隊單場兩支滿貫全壘打打破總冠軍戰紀錄，獅隊此時已經取得11-0的大幅領先，迫使牛隊換上楊仁明來度過危機。
 
-五局下，牛隊靠著安打及張建銘的[全壘打追回兩分後](../Page/全壘打.md "wikilink")，又靠著兩個四壞保送及內野安打攻佔滿壘，但未再添分。七局下黃忠義再轟出兩分全壘打，將比數追到4-11，但獅隊在八局上又靠著三次保送及三支安打攻下三分，牛隊在九局下的反攻只得到一分，終場獅隊以14-5大勝牛隊，在系列賽追成一勝兩負。
+五局下，牛隊靠著安打及張建銘的[全壘打追回兩分後](https://zh.wikipedia.org/wiki/全壘打 "wikilink")，又靠著兩個四壞保送及內野安打攻佔滿壘，但未再添分。七局下黃忠義再轟出兩分全壘打，將比數追到4-11，但獅隊在八局上又靠著三次保送及三支安打攻下三分，牛隊在九局下的反攻只得到一分，終場獅隊以14-5大勝牛隊，在系列賽追成一勝兩負。
 
 #### 總教練的話
 
@@ -962,7 +962,7 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
 獅隊為維持戰果，在第六局就大膽推出守護神凱撒，力保六到八局沒有失分。牛隊也在八局推出有傷在身的陽建福上場救援，雙方為了近在咫尺的總冠軍都已奮不顧身。
 
-九局上半，力撐三局的凱撒出現危機，牛隊葉君璋率先安打上壘，再靠陳宗甫犧牲觸擊攻佔二壘。這時獅隊決定抓下一棒的張家浩，[故意四壞保送張建銘形成一](../Page/故意四壞.md "wikilink")、二壘有人，並換上前一戰受傷退場的雷猛接替，但還是被張家浩一棒揮出右外野方向安打，再加上獅隊守備突然大亂，不只葉君璋、張建銘都奔回本壘，張家浩也快步抵達三壘，為牛隊奠下勝基。九局下張家浩最後接殺獅隊代打陳連宏的飛球，也使興農牛隊以四勝三敗奪下隊史第一座總冠軍。
+九局上半，力撐三局的凱撒出現危機，牛隊葉君璋率先安打上壘，再靠陳宗甫犧牲觸擊攻佔二壘。這時獅隊決定抓下一棒的張家浩，[故意四壞保送張建銘形成一](https://zh.wikipedia.org/wiki/故意四壞 "wikilink")、二壘有人，並換上前一戰受傷退場的雷猛接替，但還是被張家浩一棒揮出右外野方向安打，再加上獅隊守備突然大亂，不只葉君璋、張建銘都奔回本壘，張家浩也快步抵達三壘，為牛隊奠下勝基。九局下張家浩最後接殺獅隊代打陳連宏的飛球，也使興農牛隊以四勝三敗奪下隊史第一座總冠軍。
 
 #### 總教練的話
 
@@ -1111,7 +1111,7 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
 隔天陽建福立刻回到-{台中}-[澄清醫院作緊急治療](../Page/澄清醫院.md "wikilink")，知道隊上少了自己投手調度將會捉襟見肘，硬是強忍不適待命後援。第六戰，陽建福左腿瘀青未消，仍在第七局上場中繼，化解球隊失分危機，雖然在第八局丟掉一分，但還是保住了球隊的勝利。第七戰，陽建福在第八局雙方平手的情況下再度負傷登板，雖有一次保送，但力保沒有失分，並在九局上隊友張家浩的適時安打下取得勝投。
 
-總計陽建福在本次總冠軍戰先發兩場、後援兩場，投15局被敲出11支安打，失四分[責失三分](../Page/責任失分.md "wikilink")，[防禦率](../Page/防禦率.md "wikilink")1.20，取得首戰及封王戰勝投，獲得總冠軍戰MVP當之無愧。而陽建福在受傷後仍負傷上場的拼戰精神，也為他贏得了「台灣[席林](../Page/席林.md "wikilink")」的封號。
+總計陽建福在本次總冠軍戰先發兩場、後援兩場，投15局被敲出11支安打，失四分[責失三分](https://zh.wikipedia.org/wiki/責任失分 "wikilink")，[防禦率](https://zh.wikipedia.org/wiki/防禦率 "wikilink")1.20，取得首戰及封王戰勝投，獲得總冠軍戰MVP當之無愧。而陽建福在受傷後仍負傷上場的拼戰精神，也為他贏得了「台灣[席林](https://zh.wikipedia.org/wiki/席林 "wikilink")」的封號。
 
 ### 總冠軍戰優秀球員
 
@@ -1123,9 +1123,9 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
   - **林鴻遠**
 
-獅隊林鴻遠在本季例行賽因右肩及右腿受傷，表現起伏不定，一度被降為[預備球員](../Page/預備球員.md "wikilink")，回到正式名單後的出賽機會也不多。總冠軍戰前教練團將林鴻遠拉上正式名單，但並沒有對林鴻遠抱太大希望。
+獅隊林鴻遠在本季例行賽因右肩及右腿受傷，表現起伏不定，一度被降為[預備球員](https://zh.wikipedia.org/wiki/預備球員 "wikilink")，回到正式名單後的出賽機會也不多。總冠軍戰前教練團將林鴻遠拉上正式名單，但並沒有對林鴻遠抱太大希望。
 
-第二戰林鴻遠上場代打，雖然擊出飛球被接殺，但被教練團認為擊球點不錯，第三戰便列入先發，並繳出五打數兩安打、一分打點的表現，站穩先發名單。第六戰四打數三安打，差一支三壘安打就是完全打擊。第七戰被列為先發第四棒，又有五打數兩安打的表現。總計林鴻遠在總冠軍戰20個打數10支安打，[打擊率高達五成](../Page/打擊率.md "wikilink")，賽後榮獲總冠軍戰優秀球員獎。
+第二戰林鴻遠上場代打，雖然擊出飛球被接殺，但被教練團認為擊球點不錯，第三戰便列入先發，並繳出五打數兩安打、一分打點的表現，站穩先發名單。第六戰四打數三安打，差一支三壘安打就是完全打擊。第七戰被列為先發第四棒，又有五打數兩安打的表現。總計林鴻遠在總冠軍戰20個打數10支安打，[打擊率高達五成](https://zh.wikipedia.org/wiki/打擊率 "wikilink")，賽後榮獲總冠軍戰優秀球員獎。
 
 ## 特殊紀錄
 
@@ -1162,8 +1162,8 @@ FOCUS總冠軍戰**（又稱為「**[台灣大賽](../Page/台灣大賽.md "wiki
 
 ## 各方評論
 
-  - 精采刺激的台灣大賽－客座裁判[藍普洛夫](../Page/藍普洛夫.md "wikilink")
-  - 游擊隊打贏正規軍－球評[曾文誠](../Page/曾文誠.md "wikilink")
+  - 精采刺激的台灣大賽－客座裁判[藍普洛夫](https://zh.wikipedia.org/wiki/藍普洛夫 "wikilink")
+  - 游擊隊打贏正規軍－球評[曾文誠](https://zh.wikipedia.org/wiki/曾文誠 "wikilink")
   - 牛隊贏在經驗－興農牛前總教練[陳威成](../Page/陳威成.md "wikilink")
 
 ## 外部連結

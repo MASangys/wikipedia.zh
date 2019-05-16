@@ -1,8 +1,8 @@
-《**BLEACH**》是日本漫画家[久保带人的](../Page/久保带人.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》连载，自2001年36·37合并号起至2016年37号結束。改編動畫版從2004年10月5日起於[東京電視台播放](../Page/東京電視台.md "wikilink")。於2018年7月推出真人電影版。系列漫畫的世界發行量達1億2000萬本\[1\]。
+《**BLEACH**》是日本漫画家[久保带人的](../Page/久保带人.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》连载，自2001年36·37合并号起至2016年37号結束。改編動畫版從2004年10月5日起於[東京電視台播放](../Page/東京電視台.md "wikilink")。於2018年7月推出真人電影版。系列漫畫的世界發行量達1億2000萬本\[1\]。
 
 ## 作品解說
 
-故事开始時致力于描述故事人物及其相互关系，而不是死神一族的工作。但随着剧情的发展，故事开始深入到死神们所处的“世界另一面”—[屍魂界](../Page/屍魂界.md "wikilink")，[虛所在的虛圈](../Page/虛_\(BLEACH角色\).md "wikilink")，以及人類居住的現世。
+故事开始時致力于描述故事人物及其相互关系，而不是死神一族的工作。但随着剧情的发展，故事开始深入到死神们所处的“世界另一面”—[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，[虛所在的虛圈](https://zh.wikipedia.org/wiki/虛_\(BLEACH角色\) "wikilink")，以及人類居住的現世。
 
 作者多次在單行本的卷頭中創作詩句，每話副標題亦很貼題，例如第一回副標題「Death and
 Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代表「黑崎一護」（一護與草莓的日語讀音相同）。而有關虛的用語和[破面篇的一部分副標題](../Page/破面.md "wikilink")，亦常使用到[西班牙语](../Page/西班牙语.md "wikilink")，例如：
@@ -17,7 +17,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 
   - 副標題「Mala Suerte」則代表不走運。
 
-在代理死神消失篇裡，完現術者的相關用語經常用到英語。至於滅卻師的用語多以[德語為主](../Page/德語.md "wikilink")。
+在代理死神消失篇裡，完現術者的相關用語經常用到英語。至於滅卻師的用語多以[德語為主](https://zh.wikipedia.org/wiki/德語 "wikilink")。
 
 作者在2018年聖地牙哥的訪談中表示，該漫畫的原始名稱為「SNIPE（狙擊，伏擊）」，並設定故事人物使用槍作為武器（原本只有[朽木露琪亞使用鐮刀](../Page/朽木露琪亞.md "wikilink")）；但後來作者認為使用刀作為武器感覺更好，加上作品名稱的內涵還不夠，又顧慮到死神的代表色是黑色，於是利用黑色與白色相互襯托，漫畫也因此正式定名為「BLEACH」。同時在作畫的過程中，音樂也成為作者的創作來源<small>\[2\]</small>。
 
@@ -30,7 +30,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    在現世，能看見幽靈的[黑崎一護與](../Page/黑崎一護.md "wikilink")[死神](../Page/死神.md "wikilink")[朽木露琪亞相會](../Page/朽木露琪亞.md "wikilink")，緊接著一隻「虛」攻擊了一護的家人，一護和露琪亞一齊投入了消滅虛的戰鬥中，露琪亞在戰鬥中受傷而無法行動，她只好把死神的靈力分給一護，讓他變成一位[死神](../Page/死神.md "wikilink")，但她發現一護的靈力非常強大，並且有著比大多數死神所持都要大的[斬魄刀](../Page/斬魄刀.md "wikilink")，隨後一護消滅了虛。由於一護將露琪亞的能力全吸收走，在這段時間，一護必須接手死神的任務，消滅在空座町一帶出沒的虛。
+    在現世，能看見幽靈的[黑崎一護與](../Page/黑崎一護.md "wikilink")[死神](../Page/死神.md "wikilink")[朽木露琪亞相會](../Page/朽木露琪亞.md "wikilink")，緊接著一隻「虛」攻擊了一護的家人，一護和露琪亞一齊投入了消滅虛的戰鬥中，露琪亞在戰鬥中受傷而無法行動，她只好把死神的靈力分給一護，讓他變成一位[死神](../Page/死神.md "wikilink")，但她發現一護的靈力非常強大，並且有著比大多數死神所持都要大的[斬魄刀](https://zh.wikipedia.org/wiki/斬魄刀 "wikilink")，隨後一護消滅了虛。由於一護將露琪亞的能力全吸收走，在這段時間，一護必須接手死神的任務，消滅在空座町一帶出沒的虛。
 
 <!-- end list -->
 
@@ -39,9 +39,9 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    之後一護持續消滅虛的任務，直到有一天露琪亞因轉讓死神能力被[屍魂界發現](../Page/屍魂界.md "wikilink")，一護與前來現世追捕露琪亞的[阿散井戀次決鬥並佔得上風之時](../Page/阿散井戀次.md "wikilink")，卻被露琪亞的大哥「[護廷十三隊](../Page/護廷十三隊.md "wikilink")」六番隊隊長
-    [朽木白哉一擊擊倒](../Page/朽木白哉.md "wikilink")，露琪亞被強制送返[屍魂界](../Page/屍魂界.md "wikilink")，為了救出露琪亞，一護接受
-    [浦原喜助的特訓而領悟](../Page/浦原喜助.md "wikilink")『始解』，並和[井上織姬](../Page/井上織姬.md "wikilink")、[石田雨龍](../Page/石田雨龍.md "wikilink")、[茶渡泰虎](../Page/茶渡泰虎.md "wikilink")、[四楓院夜一一同前往](../Page/四楓院夜一.md "wikilink")[屍魂界](../Page/屍魂界.md "wikilink")。在一行人潛入了[瀞靈廷內不久後](../Page/瀞靈廷.md "wikilink")，
+    之後一護持續消滅虛的任務，直到有一天露琪亞因轉讓死神能力被[屍魂界發現](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，一護與前來現世追捕露琪亞的[阿散井戀次決鬥並佔得上風之時](../Page/阿散井戀次.md "wikilink")，卻被露琪亞的大哥「[護廷十三隊](../Page/護廷十三隊.md "wikilink")」六番隊隊長
+    [朽木白哉一擊擊倒](../Page/朽木白哉.md "wikilink")，露琪亞被強制送返[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，為了救出露琪亞，一護接受
+    [浦原喜助的特訓而領悟](../Page/浦原喜助.md "wikilink")『始解』，並和[井上織姬](../Page/井上織姬.md "wikilink")、[石田雨龍](../Page/石田雨龍.md "wikilink")、[茶渡泰虎](../Page/茶渡泰虎.md "wikilink")、[四楓院夜一一同前往](../Page/四楓院夜一.md "wikilink")[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")。在一行人潛入了[瀞靈廷內不久後](../Page/瀞靈廷.md "wikilink")，
     [藍染惣右介遭到殺害](../Page/藍染惣右介.md "wikilink")，引發瀞靈廷騷動。
 
 <!-- end list -->
@@ -60,7 +60,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    回到現世的一護等人遇到轉學生[平子真子](../Page/平子真子.md "wikilink"),並隨即揭露自己的真實身分是[假面軍勢](../Page/假面軍勢.md "wikilink")。屍魂界派遣十一番隊到空座町，嚴密監控來自虛圈的任何異變。同時，藍染強大的[破面部隊也陸續登場](../Page/破面.md "wikilink")。屍魂界調查了藍染之前的行動，發現他的另一目的：製作“[王鍵](../Page/死神中的物品.md "wikilink")”，而製作王鍵所需的10靈哩重靈地正是目前的戰場“空座町”。此時織姬決定盡自己的力量幫助一護，但是卻被[烏爾奇奧拉在斷界攔截](../Page/烏爾奇奧拉·西法.md "wikilink")，並被脅迫在12小時內選擇一個人告別後到虛圈來。
+    回到現世的一護等人遇到轉學生[平子真子](../Page/平子真子.md "wikilink"),並隨即揭露自己的真實身分是[假面軍勢](../Page/假面軍勢.md "wikilink")。屍魂界派遣十一番隊到空座町，嚴密監控來自虛圈的任何異變。同時，藍染強大的[破面部隊也陸續登場](../Page/破面.md "wikilink")。屍魂界調查了藍染之前的行動，發現他的另一目的：製作“[王鍵](https://zh.wikipedia.org/wiki/死神中的物品 "wikilink")”，而製作王鍵所需的10靈哩重靈地正是目前的戰場“空座町”。此時織姬決定盡自己的力量幫助一護，但是卻被[烏爾奇奧拉在斷界攔截](../Page/烏爾奇奧拉·西法.md "wikilink")，並被脅迫在12小時內選擇一個人告別後到虛圈來。
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    重獲死神力量之後，一護正式返回代理死神的崗位，繼續在空座町執行工作。然而[屍魂界的技術開發局](../Page/屍魂界.md "wikilink")，卻偵測到虛不停被消滅和界線侵蝕的警訊，十二番隊隊長[涅繭利為了平衡屍魂界的魂魄](../Page/護廷十三隊#十二番隊.md "wikilink")，甚至還派遣隊士抹除兩萬八千名[流魂街居民的魂魄](../Page/流魂街.md "wikilink")。就在新任駐空座町死神來到現世的當晚，一護、[茶渡](../Page/茶渡泰虎.md "wikilink")、[雨龍](../Page/石田雨龍.md "wikilink")、[織姬為遭到特大虛襲擊而重傷的兩人解圍](../Page/井上織姬.md "wikilink")，卻在事發兩天後，遇上自稱阿茲基爾羅·伊邦的男子。一護主動迎擊並重創伊邦，發現對方企圖破壞他的卍解但未能得逞，正欲追問更多細節時，不慎讓對方逃跑。於此同時，一群來自「[無形帝國](../Page/無形帝國.md "wikilink")」的不明人士攻佔虛圈，將其他破面收編旗下作為兵力，入侵[瀞靈廷殺害一番隊副隊長](../Page/瀞靈廷.md "wikilink")[雀部長次郎在內共](../Page/護廷十三隊#一番隊.md "wikilink")117名死神，還向總隊長[山本元柳齋重國下達宣戰通告](../Page/護廷十三隊#一番隊.md "wikilink")，揚言在五天以內將屍魂界毀滅殆盡，屍魂界正式進入警戒狀態。
+    重獲死神力量之後，一護正式返回代理死神的崗位，繼續在空座町執行工作。然而[屍魂界的技術開發局](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，卻偵測到虛不停被消滅和界線侵蝕的警訊，十二番隊隊長[涅繭利為了平衡屍魂界的魂魄](https://zh.wikipedia.org/wiki/護廷十三隊#十二番隊 "wikilink")，甚至還派遣隊士抹除兩萬八千名[流魂街居民的魂魄](https://zh.wikipedia.org/wiki/流魂街 "wikilink")。就在新任駐空座町死神來到現世的當晚，一護、[茶渡](../Page/茶渡泰虎.md "wikilink")、[雨龍](../Page/石田雨龍.md "wikilink")、[織姬為遭到特大虛襲擊而重傷的兩人解圍](../Page/井上織姬.md "wikilink")，卻在事發兩天後，遇上自稱阿茲基爾羅·伊邦的男子。一護主動迎擊並重創伊邦，發現對方企圖破壞他的卍解但未能得逞，正欲追問更多細節時，不慎讓對方逃跑。於此同時，一群來自「[無形帝國](https://zh.wikipedia.org/wiki/無形帝國 "wikilink")」的不明人士攻佔虛圈，將其他破面收編旗下作為兵力，入侵[瀞靈廷殺害一番隊副隊長](../Page/瀞靈廷.md "wikilink")[雀部長次郎在內共](https://zh.wikipedia.org/wiki/護廷十三隊#一番隊 "wikilink")117名死神，還向總隊長[山本元柳齋重國下達宣戰通告](https://zh.wikipedia.org/wiki/護廷十三隊#一番隊 "wikilink")，揚言在五天以內將屍魂界毀滅殆盡，屍魂界正式進入警戒狀態。
 
 ## 登場角色
 
@@ -122,7 +122,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
 #### 日本國內
 
-在2008年的全年銷量排行日本漫畫中第五名\[3\]，而在2009年度排行第三，僅次於《[航海王](../Page/航海王.md "wikilink")》和《[火影忍者](../Page/火影忍者.md "wikilink")》。\[4\]
+在2008年的全年銷量排行日本漫畫中第五名\[3\]，而在2009年度排行第三，僅次於《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》和《[火影忍者](../Page/火影忍者.md "wikilink")》。\[4\]
 
 单行本在[日本由](../Page/日本.md "wikilink")[集英社出版](../Page/集英社.md "wikilink")。
 含封面、收录章节信息。
@@ -209,7 +209,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
   - 台灣
 
-单行本在[台湾由](../Page/台湾.md "wikilink")[东立出版社出版](../Page/东立出版社.md "wikilink")，译者为[張益豐](../Page/張益豐.md "wikilink")，64集後譯者為[林志昌](../Page/林志昌.md "wikilink")，中译名《死神》。由于中国大陆引进本作时间较晚，故该译名在大陆較為通行。
+单行本在[台湾由](https://zh.wikipedia.org/wiki/台湾 "wikilink")[东立出版社出版](https://zh.wikipedia.org/wiki/东立出版社 "wikilink")，译者为[張益豐](https://zh.wikipedia.org/wiki/張益豐 "wikilink")，64集後譯者為[林志昌](https://zh.wikipedia.org/wiki/林志昌 "wikilink")，中译名《死神》。由于中国大陆引进本作时间较晚，故该译名在大陆較為通行。
 
 | 卷数 | 出版日期        | ISBN序号                 |
 | -- | ----------- | ---------------------- |
@@ -344,7 +344,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
   - 中國大陸
 
-单行本在[中国大陆由](../Page/中国大陆.md "wikilink")[连环画出版社出版](../Page/连环画出版社.md "wikilink")，[北京中少动漫制作发行](../Page/北京中少动漫.md "wikilink")，译者为[梁晓岩](../Page/北京中少动漫#关联译者.md "wikilink")。发行方先后拟定译名为“死神”和“净灵”\[5\]，但都被[中华人民共和国新闻出版署驳回](../Page/中华人民共和国新闻出版署.md "wikilink")，最终定译名为“境·界”（亦有读者认为此译名更符合作品内容）。\[6\]
+单行本在[中国大陆由](../Page/中国大陆.md "wikilink")[连环画出版社出版](https://zh.wikipedia.org/wiki/连环画出版社 "wikilink")，[北京中少动漫制作发行](https://zh.wikipedia.org/wiki/北京中少动漫 "wikilink")，译者为[梁晓岩](https://zh.wikipedia.org/wiki/北京中少动漫#关联译者 "wikilink")。发行方先后拟定译名为“死神”和“净灵”\[5\]，但都被[中华人民共和国新闻出版署驳回](https://zh.wikipedia.org/wiki/中华人民共和国新闻出版署 "wikilink")，最终定译名为“境·界”（亦有读者认为此译名更符合作品内容）。\[6\]
 
 单行本的封面有对原作英文标题的翻译。
 
@@ -441,9 +441,9 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 <tbody>
 <tr class="odd">
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>出版日期</p></td>
 </tr>
 <tr class="even">
@@ -498,9 +498,9 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 <tbody>
 <tr class="odd">
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>BLEACH OFFICIAL ANIMATION BOOK VIBEs.</p></td>
@@ -574,7 +574,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
 ### 小說
 
-官方小說在[日本皆由](../Page/日本.md "wikilink")[集英社出版](../Page/集英社.md "wikilink")，在[台灣則透過](../Page/台灣.md "wikilink")[東立出版社出版](../Page/東立出版社.md "wikilink")。除了「letters
+官方小說在[日本皆由](../Page/日本.md "wikilink")[集英社出版](../Page/集英社.md "wikilink")，在[台灣則透過](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社出版](../Page/東立出版社.md "wikilink")。除了「letters
 from the other side」取自原著故事死神代行篇，「The Honey Dish
 Rhapsody」衍伸自屍魂界拯救篇正式落幕前的四天劇情，「Spirit
 Are Forever With You 」和「The Death Save The Strawberry
@@ -722,25 +722,25 @@ Pierrot製作](../Page/Studio_Pierrot.md "wikilink")，自2004年10月5日播放
 
 ### 遊戲版
 
-| 平台                                                                        | 名稱                                                                                                                                                                           | 類型                                                        |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [PSP](../Page/PSP.md "wikilink")                                          | 死神：魂之热斗 （Bleach: Heat the Soul ）\[7\]                                                                                                                                        | FTG                                                       |
-| 死神：魂之热斗2 （Bleach: Heat the Soul 2 ）                                       | FTG                                                                                                                                                                          |                                                           |
-| 死神：魂之热斗3 （Bleach: Heat the Soul 3 ）                                       | FTG                                                                                                                                                                          |                                                           |
-| 死神：魂之热斗4 （Bleach: Heat the Soul 4 ）                                       | FTG                                                                                                                                                                          |                                                           |
-| 死神：魂之热斗5 （Bleach: Heat the Soul 5 ）                                       | FTG                                                                                                                                                                          |                                                           |
-| 死神：魂之热斗6 （Bleach: Heat the Soul 6 ）                                       | FTG                                                                                                                                                                          |                                                           |
-| 死神：魂之热斗7 （Bleach: Heat the Soul 7 ）                                       | FTG                                                                                                                                                                          |                                                           |
-| 死神：魂之狂欢 （Bleach: Soul Carnival 1）                                         | 動作類                                                                                                                                                                          |                                                           |
-| 死神：魂之狂欢2 （Bleach: Soul Carnival 2）                                        | 動作類                                                                                                                                                                          |                                                           |
-| [Wii](../Page/Wii.md "wikilink")                                          | 死神：对决十刃 （ Bleach: Versus Crusade）<ref>{{cite web|url=[http://www.amazon.co.jp/dp/B001G6108I/|title=BLEACH](http://www.amazon.co.jp/dp/B001G6108I/%7Ctitle=BLEACH) バーサス・クルセイド | Amazon.co.jp\]\]|accessdate=2013年8月9日|language=ja}}</ref> |
-| 死神:白刃闪耀轮舞曲 （ Hakujin Kirameku Rondo ）                                     | FTG                                                                                                                                                                          |                                                           |
-| [PS2](../Page/PlayStation_2.md "wikilink")                                | 死神：战士之刃（ Bleach: Versus Crusade）                                                                                                                                             | FTG                                                       |
-| 死神：战士之刃2（ Bleach: Versus Crusade）                                         | FTG                                                                                                                                                                          |                                                           |
-| 死神:释放的野心 （Bleach: Hanatareshi Yabou）                                      | RPG                                                                                                                                                                          |                                                           |
-| [PS3](../Page/PS3.md "wikilink")                                          | 死神:灵魂燃烧（Bleach:Soul Ignition ）                                                                                                                                               | ACT                                                       |
-| [Android](../Page/Android.md "wikilink")/[iOS](../Page/iOS.md "wikilink") | 死神：Brave Souls （Bleach: Brave Souls）                                                                                                                                         | 動作類                                                       |
-|                                                                           |                                                                                                                                                                              |                                                           |
+| 平台                                                                                           | 名稱                                                                                                                                                                           | 類型                                                        |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")                                          | 死神：魂之热斗 （Bleach: Heat the Soul ）\[7\]                                                                                                                                        | FTG                                                       |
+| 死神：魂之热斗2 （Bleach: Heat the Soul 2 ）                                                          | FTG                                                                                                                                                                          |                                                           |
+| 死神：魂之热斗3 （Bleach: Heat the Soul 3 ）                                                          | FTG                                                                                                                                                                          |                                                           |
+| 死神：魂之热斗4 （Bleach: Heat the Soul 4 ）                                                          | FTG                                                                                                                                                                          |                                                           |
+| 死神：魂之热斗5 （Bleach: Heat the Soul 5 ）                                                          | FTG                                                                                                                                                                          |                                                           |
+| 死神：魂之热斗6 （Bleach: Heat the Soul 6 ）                                                          | FTG                                                                                                                                                                          |                                                           |
+| 死神：魂之热斗7 （Bleach: Heat the Soul 7 ）                                                          | FTG                                                                                                                                                                          |                                                           |
+| 死神：魂之狂欢 （Bleach: Soul Carnival 1）                                                            | 動作類                                                                                                                                                                          |                                                           |
+| 死神：魂之狂欢2 （Bleach: Soul Carnival 2）                                                           | 動作類                                                                                                                                                                          |                                                           |
+| [Wii](../Page/Wii.md "wikilink")                                                             | 死神：对决十刃 （ Bleach: Versus Crusade）<ref>{{cite web|url=[http://www.amazon.co.jp/dp/B001G6108I/|title=BLEACH](http://www.amazon.co.jp/dp/B001G6108I/%7Ctitle=BLEACH) バーサス・クルセイド | Amazon.co.jp\]\]|accessdate=2013年8月9日|language=ja}}</ref> |
+| 死神:白刃闪耀轮舞曲 （ Hakujin Kirameku Rondo ）                                                        | FTG                                                                                                                                                                          |                                                           |
+| [PS2](../Page/PlayStation_2.md "wikilink")                                                   | 死神：战士之刃（ Bleach: Versus Crusade）                                                                                                                                             | FTG                                                       |
+| 死神：战士之刃2（ Bleach: Versus Crusade）                                                            | FTG                                                                                                                                                                          |                                                           |
+| 死神:释放的野心 （Bleach: Hanatareshi Yabou）                                                         | RPG                                                                                                                                                                          |                                                           |
+| [PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")                                          | 死神:灵魂燃烧（Bleach:Soul Ignition ）                                                                                                                                               | ACT                                                       |
+| [Android](../Page/Android.md "wikilink")/[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") | 死神：Brave Souls （Bleach: Brave Souls）                                                                                                                                         | 動作類                                                       |
+|                                                                                              |                                                                                                                                                                              |                                                           |
 
 ### 舞台劇版
 
@@ -868,9 +868,9 @@ show)（首次公演：2007年1月）**
 
 ### 真人电影版
 
-由[佐藤信介导演](../Page/佐藤信介.md "wikilink")，预定于2018年7月20日上映。黑崎一护由[福士苍汰出演](../Page/福士苍汰.md "wikilink")，[杉咲花饰演朽木露琪亚](../Page/杉咲花.md "wikilink")，[吉澤亮饰演石田雨龙](../Page/吉澤亮.md "wikilink")，[MIYAVI饰演朽木白哉](../Page/MIYAVI.md "wikilink")，[早乙女太一饰演阿散井恋次](../Page/早乙女太一.md "wikilink")。
+由[佐藤信介导演](https://zh.wikipedia.org/wiki/佐藤信介 "wikilink")，预定于2018年7月20日上映。黑崎一护由[福士苍汰出演](https://zh.wikipedia.org/wiki/福士苍汰 "wikilink")，[杉咲花饰演朽木露琪亚](../Page/杉咲花.md "wikilink")，[吉澤亮饰演石田雨龙](../Page/吉澤亮.md "wikilink")，[MIYAVI饰演朽木白哉](https://zh.wikipedia.org/wiki/MIYAVI "wikilink")，[早乙女太一饰演阿散井恋次](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")。
 
-後再次加碼宣佈由[真野惠里菜飾演井上織姬](../Page/真野惠里菜.md "wikilink")，[長澤雅美飾演一護之母黑崎真咲](../Page/長澤雅美.md "wikilink")，[江口洋介飾演一護之父黑崎一心](../Page/江口洋介.md "wikilink")，[小柳友飾演茶渡泰虎](../Page/小柳友.md "wikilink")，[田邊誠一飾演浦原喜助](../Page/田邊誠一.md "wikilink")。
+後再次加碼宣佈由[真野惠里菜飾演井上織姬](../Page/真野惠里菜.md "wikilink")，[長澤雅美飾演一護之母黑崎真咲](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，[江口洋介飾演一護之父黑崎一心](../Page/江口洋介.md "wikilink")，[小柳友飾演茶渡泰虎](../Page/小柳友.md "wikilink")，[田邊誠一飾演浦原喜助](../Page/田邊誠一.md "wikilink")。
 
 ## 資料來源
 
@@ -892,24 +892,25 @@ show)（首次公演：2007年1月）**
     [集英社の公式サイト](../Page/集英社.md "wikilink")。総合サイト。
 
   - [テレビ東京・あにてれ　BLEACH](http://www.tv-tokyo.co.jp/anime/bleach/) -
-    [テレビ東京の公式サイト](../Page/テレビ東京.md "wikilink")。
+    [テレビ東京の公式サイト](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")。
 
   - [TV ANIMATION BLEACH - アニプレックス](http://www.aniplex.co.jp/bleach/) -
-    [ANIPLEXの公式サイト](../Page/ANIPLEX.md "wikilink")。DVD・CDサイト。
+    [ANIPLEXの公式サイト](https://zh.wikipedia.org/wiki/ANIPLEX "wikilink")。DVD・CDサイト。
 
   - [『BLEACH』(ブリーチ) PlayStation
     公式ポータルサイト](http://www.jp.playstation.com/scej/title/bleach/)
-    - [SCEJの公式サイト](../Page/SCEJ.md "wikilink")。PS2・PS3・PSPの公式サイト。
+    -
+    [SCEJの公式サイト](https://zh.wikipedia.org/wiki/SCEJ "wikilink")。PS2・PS3・PSPの公式サイト。
 
   - [SEGA×BLEACH](https://web.archive.org/web/20120513124806/http://bleach.sega.jp/)
     -
-    [SEGAの公式サイト](../Page/SEGA.md "wikilink")。ゲームボーイアドバンス・DS・ゲームキューブ・Wiiの公式サイト。
+    [SEGAの公式サイト](https://zh.wikipedia.org/wiki/SEGA "wikilink")。ゲームボーイアドバンス・DS・ゲームキューブ・Wiiの公式サイト。
 
   - [カードダス BLEACH](http://www.carddas.com/bleach/) -
-    [BANDAIの](../Page/BANDAI.md "wikilink")[カードダス公式サイト](../Page/カードダス.md "wikilink")。バトルカードサイト。
+    [BANDAIの](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[カードダス公式サイト](https://zh.wikipedia.org/wiki/カードダス "wikilink")。バトルカードサイト。
 
   - [BLEACH “B” STATION](http://vstation.net/bleach/) -
-    [ラジオ大阪のラジオ公式サイト](../Page/ラジオ大阪.md "wikilink")。
+    [ラジオ大阪のラジオ公式サイト](https://zh.wikipedia.org/wiki/ラジオ大阪 "wikilink")。
 
   - [BLEACH連載10周年記念公演「ROCK MUSICAL BLEACH」公式サイト](http://rmbleach.com/) -
     ロックニュージカル公式サイト。

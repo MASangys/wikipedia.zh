@@ -1,5 +1,5 @@
 **L棋**（L
-game）是[愛德華·波諾在](../Page/愛德華·波諾.md "wikilink")1968年推出兩人[棋類](../Page/棋類.md "wikilink")，用以解釋[水平思考法](../Page/水平思考法.md "wikilink")。
+game）是[愛德華·波諾在](https://zh.wikipedia.org/wiki/愛德華·波諾 "wikilink")1968年推出兩人[棋類](../Page/棋類.md "wikilink")，用以解釋[水平思考法](https://zh.wikipedia.org/wiki/水平思考法 "wikilink")。
 
 ## 棋具
 
@@ -36,7 +36,7 @@ game）是[愛德華·波諾在](../Page/愛德華·波諾.md "wikilink")1968年
 
 ## 參見
 
-  - [三點棋](../Page/三點棋.md "wikilink")--作者的另一創作。
+  - [三點棋](https://zh.wikipedia.org/wiki/三點棋 "wikilink")--作者的另一創作。
 
 ## 外部連結
 

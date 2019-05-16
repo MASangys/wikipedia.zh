@@ -2,21 +2,22 @@
 logo.png](https://zh.wikipedia.org/wiki/File:Ingres_logo.png "fig:File:Ingres logo.png")
 | caption = Ingres 公司标志 | developer = Ingres 公司 |
 latest_release_version = Ingres Database 9.2 | latest_release_date =
-2008年12月9日 | operating_system = [跨平台](../Page/跨平台.md "wikilink") |
-genre = [RDBMS](../Page/关系数据库管理系统.md "wikilink") | license =
-[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =
+2008年12月9日 | operating_system =
+[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre
+= [RDBMS](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink") | license
+= [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =
 <http://www.ingres.com/> }}
 
 **Ingres**
-是比较早的[数据库系统](../Page/数据库.md "wikilink")，开始于[加利福尼亚大学柏克莱分校的一个研究项目](../Page/加利福尼亚大学柏克莱分校.md "wikilink")，该项目开始于
+是比较早的[数据库系统](../Page/数据库.md "wikilink")，开始于[加利福尼亚大学柏克莱分校的一个研究项目](https://zh.wikipedia.org/wiki/加利福尼亚大学柏克莱分校 "wikilink")，该项目开始于
 70 年代早期，在 80
 年代早期结束。像柏克莱大学的其他研究项目一样，它的代码使用[BSD许可证](../Page/BSD许可证.md "wikilink")。从
 80 年代中期，在Ingres 基础上产生了很多商业数据库软件，包括
 [Sybase](../Page/Sybase.md "wikilink")、[Microsoft SQL
-Server](../Page/Microsoft_SQL_Server.md "wikilink")、[NonStop
-SQL](../Page/NonStop_SQL.md "wikilink")、[Informix](../Page/Informix.md "wikilink")
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[NonStop
+SQL](https://zh.wikipedia.org/wiki/NonStop_SQL "wikilink")、[Informix](https://zh.wikipedia.org/wiki/Informix "wikilink")
 和许多其他的系统。在 80 年代中期启动的后继项目 **Postgres**，产生了
-[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[Illustra](../Page/Illustra.md "wikilink")，无论从任何意义上来说，Ingres
+[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[Illustra](https://zh.wikipedia.org/wiki/Illustra "wikilink")，无论从任何意义上来说，Ingres
 都是历史上最有影响的计算机研究项目之一。
 
 ## 历史
@@ -24,13 +25,14 @@ SQL](../Page/NonStop_SQL.md "wikilink")、[Informix](../Page/Informix.md "wikili
 ### Ingres
 
 1973 年 [IBM](../Page/IBM.md "wikilink") 启动了 [System
-R](../Page/System_R.md "wikilink")
+R](https://zh.wikipedia.org/wiki/System_R "wikilink")
 项目，项目组发表了一系列关于关系数据库的的文章。两个伯克莱大学的科学家，Michael
 Stonebraker 和 Eugene Wong 读了这些文章后非常感兴趣，于是决定自己启动一个关系数据的研究项目。
 
 他们已经为一个地理数据库系统申请到了资金，他们称为
 ingres，意思是交互式图形获取系统，他们决定使用这些钱进行这个项目，并在这个项目的基础上进行其他更大的项目。为了得到更多的资助，Stonebraker
-去找了 [DARPA](../Page/DARPA.md "wikilink")，在那个时代，计算机方面的研究项目当然是找他们了。但是
+去找了
+[DARPA](https://zh.wikipedia.org/wiki/DARPA "wikilink")，在那个时代，计算机方面的研究项目当然是找他们了。但是
 DARPA 和 Office of Naval Research 拒绝了他，因为他们已经在别的地方资助了数据库研究项目，Stonebraker
 转而向其他部门求助，在他的同事的帮助下，他最终获得了自然科学基金和三个军事机构的支持。
 
@@ -45,14 +47,14 @@ DARPA 和 Office of Naval Research 拒绝了他，因为他们已经在别的地
 与 System R 不同，Ingres的代码是可以免费获得的，到 1980 年止，共分发了 1000
 份拷贝，不少公司使用这些代码形成了自己的产品线。
 
-[Informix](../Page/Informix.md "wikilink") 是最早的用户之一，并且其员工完全是 Ingres
-项目的人员。他们在 1984 发布了基于 Ingres 的第一版产品，到 1997
-年已经成了第二大数据库供应商。然而，一系列管理和财会方面的失误在短短两年内毁了公司的信誉，并于
+[Informix](https://zh.wikipedia.org/wiki/Informix "wikilink")
+是最早的用户之一，并且其员工完全是 Ingres 项目的人员。他们在 1984 发布了基于
+Ingres 的第一版产品，到 1997 年已经成了第二大数据库供应商。然而，一系列管理和财会方面的失误在短短两年内毁了公司的信誉，并于
 2000 年被 IBM 收购。
 
 Robert Epstein 在伯克立大学项目中的重要的程序员，创建了 Britton-Lee，后来的 Sybase，Sybase 在 80 到
 90 年期间是第二号数据库产品，Sybase 于1992年将产品卖给[微软](../Page/微软.md "wikilink")，微软称之为
-[MS SQLServer](../Page/MS_SQLServer.md "wikilink")。
+[MS SQLServer](https://zh.wikipedia.org/wiki/MS_SQLServer "wikilink")。
 
 Jerry Held 和 Carol Youseffi 迁移到了 Tandem Computers，他们在那里建造了发展成了 NonStop
 SQL 的一个系统。NonStop 是在并行计算机上高效运行的 Ingres
@@ -64,10 +66,10 @@ NonStop SQL 服务器增加第二个 CPU 将几乎精确的翻倍它的性能。
 
 最后 Stonebraker 自己离开了伯克立大学在1982年创建了Ingres 公司，Stonebraker 在这个公司工作到 1991
 年，然后公司卖给了 ASK，1994年 ASK/ingres 被
-[CA公司](../Page/CA公司.md "wikilink") 收购。
+[CA公司](https://zh.wikipedia.org/wiki/CA公司 "wikilink") 收购。
 
-2004 年 CA 在[开源许可下发布了](../Page/开源.md "wikilink") Ingres release 3，并继续开发销售
-Ingres。
+2004 年 CA 在[开源许可下发布了](https://zh.wikipedia.org/wiki/开源 "wikilink")
+Ingres release 3，并继续开发销售 Ingres。
 
 ### Postgres
 
@@ -84,7 +86,7 @@ Ingres。
 
 ## 参见
 
-  - [关系型数据库管理系统对比](../Page/关系型数据库管理系统对比.md "wikilink")
+  - [关系型数据库管理系统对比](https://zh.wikipedia.org/wiki/关系型数据库管理系统对比 "wikilink")
 
 ## 外部链接
 

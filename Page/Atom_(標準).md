@@ -3,14 +3,14 @@
 **Atom**是一對彼此相關的標準。Atom供稿格式（Atom Syndication
 Format）是用於[網站消息來源](../Page/消息來源.md "wikilink")，基于[XML的文档格式](../Page/XML.md "wikilink")；而Atom出版協定（Atom
 Publishing
-Protocol，簡稱AtomPub或APP）是用於新增及修改網路資源，基于[HTTP的协议](../Page/HTTP.md "wikilink")。
+Protocol，簡稱AtomPub或APP）是用於新增及修改網路資源，基于[HTTP的协议](https://zh.wikipedia.org/wiki/HTTP "wikilink")。
 
 它借鉴了各种版本[RSS的使用经验](../Page/RSS.md "wikilink")，被許多的聚合工具广泛使用在发布和使用上。Atom供稿格式設計作為RSS的替代品；而Atom出版協定用來取代現有的多種發布方式（如Blogger
 API和LiveJournal XML-RPC Client/Server
 Protocol）。[Google提供的多種服务正在使用Atom](../Page/Google.md "wikilink")。Google
 Data API（GData）亦基於Atom。
 
-Atom是[IETF的](../Page/IETF.md "wikilink")「建議標準」，Atom供稿格式列為[RFC 4287](http://tools.ietf.org/html/rfc4287)，而Atom出版協定列為[RFC 5023](http://tools.ietf.org/html/rfc5023)。
+Atom是[IETF的](https://zh.wikipedia.org/wiki/IETF "wikilink")「建議標準」，Atom供稿格式列為[RFC 4287](http://tools.ietf.org/html/rfc4287)，而Atom出版協定列為[RFC 5023](http://tools.ietf.org/html/rfc5023)。
 
 ## 歷史
 
@@ -29,7 +29,7 @@ Atom曾命名為「Echo」。
     2.0的description标签可以包含全文或摘要（尽管该标签的英文含义为描述或摘要）。Atom则分别提供了summary和content标签，用以区分摘要和内容，同时Atom允许在summary中添加非文本内容。
   - RSS 2.0存在多种非标准形式的应用，而Atom具有统一的标准，这便于内容的聚合和发现。
   - Atom有符合XML标准的命名空间，[RSS](../Page/RSS.md "wikilink") 2.0却没有。
-  - Atom通过XML内置的xml:base标签来指示相对地址（[URI](../Page/URI.md "wikilink")），[RSS](../Page/RSS.md "wikilink")
+  - Atom通过XML内置的xml:base标签来指示相对地址（[URI](https://zh.wikipedia.org/wiki/URI "wikilink")），[RSS](../Page/RSS.md "wikilink")
     2.0则无相应的机制区分相对地址和绝对地址。
   - Atom通过XML内置的xml:lang，而[RSS採用自己的language标签](../Page/RSS.md "wikilink")。
   - Atom强制为每个条目设定唯一的ID，这将便于内容的跟踪和更新。
@@ -39,10 +39,10 @@ Atom曾命名為「Echo」。
     8601标准的一个子集](../Page/ISO_8601.md "wikilink")）表示时间
     ，而[RSS](../Page/RSS.md "wikilink") 2.0中没有指定统一的时间格式。
   - Atom
-    1.0具有在IANA注册了的[MIME类型](../Page/MIME.md "wikilink")，而[RSS](../Page/RSS.md "wikilink")
+    1.0具有在IANA注册了的[MIME类型](https://zh.wikipedia.org/wiki/MIME "wikilink")，而[RSS](../Page/RSS.md "wikilink")
     2.0所使用的application/rss+xml并未注册。
   - Atom 1.0标准包括一个XML schema，[RSS](../Page/RSS.md "wikilink") 2.0却没有。
-  - Atom是[IETF组织标准化程序下的一个开放的发展中标准](../Page/IETF.md "wikilink")，[RSS](../Page/RSS.md "wikilink")
+  - Atom是[IETF组织标准化程序下的一个开放的发展中标准](https://zh.wikipedia.org/wiki/IETF "wikilink")，[RSS](../Page/RSS.md "wikilink")
     2.0则不属于任何标准化组织，而且它不是开放版权的。
 
 ## 示例

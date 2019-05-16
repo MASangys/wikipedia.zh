@@ -1,7 +1,8 @@
 **V**isual **B**asic for **A**pplications（**VBA**）是一種[Visual
-Basic的一種](../Page/Visual_Basic.md "wikilink")[巨集語言](../Page/宏.md "wikilink")，主要能用來擴展Windows的應用程式功能，特別是[Microsoft
+Basic的一種](../Page/Visual_Basic.md "wikilink")[巨集語言](https://zh.wikipedia.org/wiki/宏 "wikilink")，主要能用來擴展Windows的應用程式功能，特別是[Microsoft
 Office軟體](../Page/Microsoft_Office.md "wikilink")。也可說是一種應用程式視覺化的Basic
-Sc​​ript。 1994年發行的[Excel](../Page/Excel.md "wikilink")
+Sc​​ript。
+1994年發行的[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")
 5.0版本中，即具備了VBA的巨集功能。
 
 ## 數據類型
@@ -278,7 +279,7 @@ VBA的常用内置函数列表参见：[1](https://msdn.microsoft.com/en-us/libr
       - Tab：用于Print函数
   - Error:错误号对应的错误消息
   - [Windows
-    Registry中的数据](../Page/Windows_Registry.md "wikilink")：GetAllSettings、SaveSetting、DeleteSetting、GetSetting
+    Registry中的数据](https://zh.wikipedia.org/wiki/Windows_Registry "wikilink")：GetAllSettings、SaveSetting、DeleteSetting、GetSetting
   - GetObject：ActiveX组建的引用
   - IMEStatus：返回当前Input Method Editor (IME)。
   - Macintosh平台：MacID、MacScript

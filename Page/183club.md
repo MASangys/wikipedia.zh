@@ -1,8 +1,8 @@
-**183Club**，簡稱183，[喬傑立娛樂旗下的](../Page/喬傑立娛樂.md "wikilink")[臺灣藝人團體](../Page/臺灣.md "wikilink")，於2004年正式成立，當時[成員包括](../Page/成員.md "wikilink")[顏行書](../Page/顏行書.md "wikilink")、[王少偉](../Page/王少偉.md "wikilink")、[明道](../Page/明道_\(藝人\).md "wikilink")、[黃玉榮和](../Page/黃玉榮.md "wikilink")[祝釩剛](../Page/祝釩剛.md "wikilink")。因宣稱成員平均[身高為](../Page/身高.md "wikilink")183公分，故其組合名稱為「183Club」，
+**183Club**，簡稱183，[喬傑立娛樂旗下的](../Page/喬傑立娛樂.md "wikilink")[臺灣藝人團體](../Page/臺灣.md "wikilink")，於2004年正式成立，當時[成員包括](https://zh.wikipedia.org/wiki/成員 "wikilink")[顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")、[王少偉](../Page/王少偉.md "wikilink")、[明道](../Page/明道_\(藝人\).md "wikilink")、[黃玉榮和](../Page/黃玉榮.md "wikilink")[祝釩剛](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")。因宣稱成員平均[身高為](https://zh.wikipedia.org/wiki/身高 "wikilink")183公分，故其組合名稱為「183Club」，
 
 2005年，五位成员出演了台湾偶像剧《王子变青蛙》。2006年，推出了首张音乐专辑《183Club首张同名专辑》，同年在香港新城国语力颁奖典礼获得“亚洲人气偶像奖”。
 
-2007年6月，[喬傑立娛樂宣布與](../Page/喬傑立娛樂.md "wikilink")[祝釩剛解除合約關係](../Page/祝釩剛.md "wikilink")，183Club只剩4位成員\[1\]，2008年[顏行書重返籃壇](../Page/顏行書.md "wikilink")[SBL](../Page/SBL.md "wikilink")，2009年更將視野朝向[CBA](../Page/中華職業籃球聯盟.md "wikilink")，結束了演藝事業。
+2007年6月，[喬傑立娛樂宣布與](../Page/喬傑立娛樂.md "wikilink")[祝釩剛解除合約關係](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")，183Club只剩4位成員\[1\]，2008年[顏行書重返籃壇](https://zh.wikipedia.org/wiki/顏行書 "wikilink")[SBL](https://zh.wikipedia.org/wiki/SBL "wikilink")，2009年更將視野朝向[CBA](../Page/中華職業籃球聯盟.md "wikilink")，結束了演藝事業。
 
 ## 成員資料
 
@@ -30,7 +30,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顏行書.md" title="wikilink">顏行書</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書</a></p></td>
 <td style="text-align: center;"><p>Johnny</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>O型</p></td>
@@ -57,7 +57,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/祝釩剛.md" title="wikilink">祝釩剛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛</a></p></td>
 <td style="text-align: center;"><p>Jacky</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>O型</p></td>
@@ -87,18 +87,18 @@
 <tr class="even">
 <td><center>
 <p>2002年6月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/麻辣鮮師.md" title="wikilink">麻辣鮮師</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 紹偉<br />
-<a href="../Page/明道.md" title="wikilink">明道飾演</a> 大明</p></td>
+<a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 大明</p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2002年7月</p></td>
-<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a>、<a href="../Page/華視.md" title="wikilink">華視</a></p></td>
+<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a>、<a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/MVP情人.md" title="wikilink">MVP情人</a></p></td>
-<td><p><a href="../Page/顏行書.md" title="wikilink">顏行書飾演</a> 段臣風<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書飾演</a> 段臣風<br />
 <a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 王紹偉</p></td>
 <td><p>男主角<br />
 男配角</p></td>
@@ -106,7 +106,7 @@
 <tr class="even">
 <td><center>
 <p>2003年5月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/海豚灣戀人.md" title="wikilink">海豚灣戀人</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 5566-王少偉</p></td>
 <td><p>客串</p></td>
@@ -114,7 +114,7 @@
 <tr class="odd">
 <td><center>
 <p>2003年9月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/西街少年.md" title="wikilink">西街少年</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 辜天樂</p></td>
 <td><p>男配角</p></td>
@@ -122,7 +122,7 @@
 <tr class="even">
 <td><center>
 <p>2003年11月</p></td>
-<td><p><a href="../Page/中視.md" title="wikilink">中視</a>、<a href="../Page/東森電視.md" title="wikilink">東森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中視" title="wikilink">中視</a>、<a href="../Page/東森電視.md" title="wikilink">東森</a></p></td>
 <td><p><a href="../Page/原味的夏天.md" title="wikilink">原味的夏天</a></p></td>
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a></p></td>
 <td><p>客串</p></td>
@@ -130,7 +130,7 @@
 <tr class="odd">
 <td><center>
 <p>2003年11月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/千金百分百.md" title="wikilink">千金百分百</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 張小開</p></td>
 <td><p>客串</p></td>
@@ -138,16 +138,16 @@
 <tr class="even">
 <td><center>
 <p>2003年8月</p></td>
-<td><p><a href="../Page/中視.md" title="wikilink">中視</a>、<a href="../Page/東森電視.md" title="wikilink">東森</a></p></td>
-<td><p><a href="../Page/熟女慾望日記.md" title="wikilink">熟女慾望日記</a>(單元5集)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中視" title="wikilink">中視</a>、<a href="../Page/東森電視.md" title="wikilink">東森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熟女慾望日記" title="wikilink">熟女慾望日記</a>(單元5集)</p></td>
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 蔣大同</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2003年9月</p></td>
-<td><p><a href="../Page/台視.md" title="wikilink">台視</a></p></td>
-<td><p><a href="../Page/牽手向明天.md" title="wikilink">牽手向明天</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/牽手向明天" title="wikilink">牽手向明天</a></p></td>
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 李柏杉</p></td>
 <td><p>男配角</p></td>
 </tr>
@@ -155,22 +155,22 @@
 <td><center>
 <p>2003年</p></td>
 <td></td>
-<td><p><a href="../Page/李心潔音樂愛情故事.md" title="wikilink">李心潔音樂愛情故事</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李心潔音樂愛情故事" title="wikilink">李心潔音樂愛情故事</a></p></td>
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2004年1月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/雪天使.md" title="wikilink">雪天使</a></p></td>
-<td><p><a href="../Page/顏行書.md" title="wikilink">顏行書飾演</a> 齊行風</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書飾演</a> 齊行風</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2004年5月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/紫禁之巔.md" title="wikilink">紫禁之巔</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> FIRE</p></td>
 <td><p>男主角</p></td>
@@ -179,14 +179,14 @@
 <td><center>
 <p>2004年</p></td>
 <td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a></p></td>
-<td><p><a href="../Page/我是男子漢.md" title="wikilink">我是男子漢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我是男子漢" title="wikilink">我是男子漢</a></p></td>
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a></p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2004年8月</p></td>
-<td><p><a href="../Page/台視.md" title="wikilink">台視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a></p></td>
 <td><p><a href="http://www.ttv.com.tw/drama/2004/Beauty/default.html">愛上千金美眉</a></p></td>
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> Justin<br />
 <a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a>5566-王少偉</p></td>
@@ -196,10 +196,10 @@
 <tr class="odd">
 <td><center>
 <p>2004年9月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
-<td><p><a href="../Page/天國的嫁衣.md" title="wikilink">天國的嫁衣</a></p></td>
-<td><p><a href="../Page/明道.md" title="wikilink">明道飾演</a> 程海諾<br />
-<a href="../Page/祝釩剛.md" title="wikilink">祝釩剛飾演</a> 鷹<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天國的嫁衣" title="wikilink">天國的嫁衣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 程海諾<br />
+<a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a> 鷹<br />
 <a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 阿KEN</p></td>
 <td><p>男主角<br />
 男配角<br />
@@ -210,21 +210,21 @@
 <p>2004年10月</p></td>
 <td><p><a href="../Page/新傳媒8頻道.md" title="wikilink">新傳媒8頻道</a>(新加坡)</p></td>
 <td><p><a href="../Page/任我遨游.md" title="wikilink">任我遨游</a></p></td>
-<td><p><a href="../Page/顏行書.md" title="wikilink">顏行書飾演</a> 吳振康</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書飾演</a> 吳振康</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2004年11月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/升空高飛.md" title="wikilink">升空高飛</a></p></td>
-<td><p><a href="../Page/祝釩剛.md" title="wikilink">祝釩剛飾演方偉傑</a>(Michael)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演方偉傑</a>(Michael)</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2005年1月</p></td>
-<td><p><a href="../Page/台視.md" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/格鬥天王_(電視劇).md" title="wikilink">格鬥天王</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 對手</p></td>
 <td><p>客串</p></td>
@@ -232,13 +232,13 @@
 <tr class="odd">
 <td><center>
 <p>2005年6月</p></td>
-<td><p><a href="../Page/台視.md" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/王子變青蛙.md" title="wikilink">王子變青蛙</a></p></td>
-<td><p><a href="../Page/明道.md" title="wikilink">明道飾演</a> 單均昊(茼蒿)<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 單均昊(茼蒿)<br />
 <a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 徐子騫<br />
 <a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 李大偉<br />
-<a href="../Page/祝釩剛.md" title="wikilink">祝釩剛飾演</a> 黃麥克<br />
-<a href="../Page/顏行書.md" title="wikilink">顏行書飾演</a> 謝全</p></td>
+<a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a> 黃麥克<br />
+<a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書飾演</a> 謝全</p></td>
 <td><p>男主角<br />
 男主角<br />
 男配角<br />
@@ -249,20 +249,20 @@
 <td><center>
 <p>2005年</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
-<td><p><a href="../Page/大熊醫師家.md" title="wikilink">大熊醫師家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大熊醫師家" title="wikilink">大熊醫師家</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 喬小偉<br />
-<a href="../Page/祝釩剛.md" title="wikilink">祝釩剛飾演</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a></p></td>
 <td><p>客串<br />
 客串</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2006年2月</p></td>
-<td><p><a href="../Page/台視.md" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
-<td><p><a href="../Page/愛情魔法師.md" title="wikilink">愛情魔法師</a></p></td>
-<td><p><a href="../Page/明道.md" title="wikilink">明道飾演</a> 杜亞斯、杜亞鈞<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛情魔法師" title="wikilink">愛情魔法師</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 杜亞斯、杜亞鈞<br />
 <a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 林爾奇<br />
-<a href="../Page/祝釩剛.md" title="wikilink">祝釩剛飾演</a> 費南度<br />
+<a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a> 費南度<br />
 <a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 蕭哲明</p></td>
 <td><p>男主角<br />
 男主角<br />
@@ -272,10 +272,10 @@
 <tr class="even">
 <td><center>
 <p>2006年</p></td>
-<td><p><a href="../Page/中視.md" title="wikilink">中視</a>、<a href="../Page/超視.md" title="wikilink">超視</a></p></td>
-<td><p><a href="../Page/星蘋果樂園.md" title="wikilink">星蘋果樂園</a></p></td>
-<td><p><a href="../Page/明道.md" title="wikilink">明道飾演</a> 陶斯<br />
-<a href="../Page/顏行書.md" title="wikilink">顏行書飾演</a> 陸天浩</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中視" title="wikilink">中視</a>、<a href="https://zh.wikipedia.org/wiki/超視" title="wikilink">超視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星蘋果樂園" title="wikilink">星蘋果樂園</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 陶斯<br />
+<a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書飾演</a> 陸天浩</p></td>
 <td><p>男主角<br />
 男配角<br />
 </p></td>
@@ -284,22 +284,22 @@
 <td><center>
 <p>2006年</p></td>
 <td><p><a href="../Page/衛視中文台.md" title="wikilink">衛視中文台</a></p></td>
-<td><p><a href="../Page/天使情人.md" title="wikilink">天使情人</a></p></td>
-<td><p><a href="../Page/明道.md" title="wikilink">明道飾演</a> 楊天佑</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天使情人" title="wikilink">天使情人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 楊天佑</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2006年11月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a></p></td>
-<td><p><a href="../Page/剪刀石頭布_(電視影集).md" title="wikilink">剪刀石頭布</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/剪刀石頭布_(電視影集)" title="wikilink">剪刀石頭布</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 剪刀-韋祺祥</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2007年1月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/食神_(2006年電視劇).md" title="wikilink">食神</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a>369-6</p></td>
 <td><p>客串</p></td>
@@ -307,7 +307,7 @@
 <tr class="even">
 <td><center>
 <p>2007年3月</p></td>
-<td><p><a href="../Page/台視.md" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/放羊的星星.md" title="wikilink">放羊的星星</a></p></td>
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 趙十三(夏之星前男友)</p></td>
 <td><p>男配角</p></td>
@@ -315,7 +315,7 @@
 <tr class="odd">
 <td><center>
 <p>2007年8月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a>、<a href="../Page/東森戲劇台.md" title="wikilink">東森戲劇台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/東森戲劇台.md" title="wikilink">東森戲劇台</a></p></td>
 <td><p><a href="../Page/惡女阿楚.md" title="wikilink">惡女阿楚</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 凌平之（諾門/NORMAN）</p></td>
 <td><p>男主角</p></td>
@@ -323,24 +323,24 @@
 <tr class="even">
 <td><center>
 <p>2007年</p></td>
-<td><p><a href="../Page/東方衛視.md" title="wikilink">東方衛視</a></p></td>
-<td><p><a href="../Page/夢幻天堂.md" title="wikilink">夢幻天堂</a></p></td>
-<td><p><a href="../Page/明道.md" title="wikilink">明道飾演</a> 周計春</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東方衛視" title="wikilink">東方衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢幻天堂" title="wikilink">夢幻天堂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 周計春</p></td>
 <td><p>聯合主演之一</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2007年7月</p></td>
-<td><p><a href="../Page/台視.md" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/櫻野三加一.md" title="wikilink">櫻野三加一</a></p></td>
-<td><p><a href="../Page/明道.md" title="wikilink">明道飾演</a> 楊家將</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 楊家將</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2008年1月</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視</a></p></td>
-<td><p><a href="../Page/歡喜來逗陣.md" title="wikilink">歡喜來逗陣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歡喜來逗陣" title="wikilink">歡喜來逗陣</a></p></td>
 <td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 石麥可（李麥可）</p></td>
 <td><p>男主角</p></td>
 </tr>
@@ -359,7 +359,7 @@
 
   - 2002年
 
-:\*[臺北晚九朝五](../Page/臺北晚九朝五.md "wikilink")(黃玉榮)
+:\*[臺北晚九朝五](https://zh.wikipedia.org/wiki/臺北晚九朝五 "wikilink")(黃玉榮)
 
   - 2006年
 
@@ -408,34 +408,34 @@
 
 ### 其他單曲
 
-| 形式               | 發佈日期                                  | 專輯名稱                                                                                                | 歌曲名稱                 | 參與成員                                                                                             | 合作藝人                               |
-| ---------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------- |
-| OST              | 2004年9月10日                            | [天國的嫁衣電視原聲帶](../Page/天國的嫁衣.md "wikilink")                                                           | 折磨                   | 全員                                                                                               | \-                                 |
-| 合輯               | 2005年3月31日                            | 愛的奇蹟- 喬傑立巨星最紅偶像劇情歌精選                                                                                | 對手                   | [顏行書](../Page/顏行書.md "wikilink")                                                                 | [Toro](../Page/Toro.md "wikilink") |
-| 任我遨游             | [台風](../Page/台風_\(藝人\).md "wikilink") |                                                                                                     |                      |                                                                                                  |                                    |
-| 相信永遠             | 全員                                    | [許孟哲](../Page/許孟哲.md "wikilink")                                                                    |                      |                                                                                                  |                                    |
-| 愛的奇蹟             | [顏行書](../Page/顏行書.md "wikilink")      | [Toro](../Page/Toro.md "wikilink") +[懷恩](../Page/懷恩.md "wikilink")+[七朵花](../Page/七朵花.md "wikilink") |                      |                                                                                                  |                                    |
-| OST              | 2005年6月4日                             | [王子變青蛙](../Page/王子變青蛙.md "wikilink") 電視原聲帶                                                          | 迷魂計                  | 全員                                                                                               | \-                                 |
-| 真愛               |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 魔法Smile          |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 閉上眼默唸三遍          | [七朵花](../Page/七朵花.md "wikilink")      |                                                                                                     |                      |                                                                                                  |                                    |
-| 合輯               | 2006年1月20日                            | 愛的奇蹟II 跳舞吧\!J-star                                                                                  | 新年快樂Happy new Year組曲 | 全員                                                                                               | [喬傑立家族](../Page/喬傑立.md "wikilink") |
-| OST              | 2006年2月10日                            | [愛情魔髮師電視原聲帶](../Page/愛情魔髮師.md "wikilink")                                                           | 完美情人                 | 全員                                                                                               | \-                                 |
-| Magic Room       |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| Bomba Bomba 愛情炸彈 |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 感情線              |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 甜蜜約定             |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 2 Sweet          | [黃玉榮](../Page/黃玉榮.md "wikilink")      | [陳喬恩](../Page/陳喬恩.md "wikilink")                                                                    |                      |                                                                                                  |                                    |
-| OST              | 2006年12月1日                            | [天使情人電視原聲帶](../Page/天使情人.md "wikilink")                                                             | 發現真愛                 | [明道](../Page/明道.md "wikilink")、[祝釩剛](../Page/祝釩剛.md "wikilink")、[黃玉榮](../Page/黃玉榮.md "wikilink") | \-                                 |
-| 不後悔的決定           |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 遺忘               |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 從頭               |                                       |                                                                                                     |                      |                                                                                                  |                                    |
-| 腦海的橡皮擦           | 黃玉榮                                   |                                                                                                     |                      |                                                                                                  |                                    |
-| 合輯               | 2007年2月9日                             | 愛的奇蹟III 搖滾萬歲                                                                                        | 搖滾萬歲                 | 全員                                                                                               | [喬傑立家族](../Page/喬傑立.md "wikilink") |
-| 你永遠是最美的          | \-                                    |                                                                                                     |                      |                                                                                                  |                                    |
-| OST              | 2007年8月3日                             | [櫻野三加一電視原聲帶](../Page/櫻野三加一.md "wikilink")                                                           | 再次相信                 | [明道](../Page/明道.md "wikilink")                                                                   | [陳喬恩](../Page/陳喬恩.md "wikilink")   |
-| 尋友啟示             | [明道](../Page/明道.md "wikilink")        | [許孟哲](../Page/許孟哲.md "wikilink")                                                                    |                      |                                                                                                  |                                    |
-|                  |                                       |                                                                                                     |                      |                                                                                                  |                                    |
+| 形式               | 發佈日期                                                     | 專輯名稱                                                                                                                                      | 歌曲名稱                 | 參與成員                                                                                                                                   | 合作藝人                                                  |
+| ---------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| OST              | 2004年9月10日                                               | [天國的嫁衣電視原聲帶](https://zh.wikipedia.org/wiki/天國的嫁衣 "wikilink")                                                                              | 折磨                   | 全員                                                                                                                                     | \-                                                    |
+| 合輯               | 2005年3月31日                                               | 愛的奇蹟- 喬傑立巨星最紅偶像劇情歌精選                                                                                                                      | 對手                   | [顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")                                                                                    | [Toro](https://zh.wikipedia.org/wiki/Toro "wikilink") |
+| 任我遨游             | [台風](https://zh.wikipedia.org/wiki/台風_\(藝人\) "wikilink") |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 相信永遠             | 全員                                                       | [許孟哲](../Page/許孟哲.md "wikilink")                                                                                                          |                      |                                                                                                                                        |                                                       |
+| 愛的奇蹟             | [顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")      | [Toro](https://zh.wikipedia.org/wiki/Toro "wikilink") +[懷恩](https://zh.wikipedia.org/wiki/懷恩 "wikilink")+[七朵花](../Page/七朵花.md "wikilink") |                      |                                                                                                                                        |                                                       |
+| OST              | 2005年6月4日                                                | [王子變青蛙](../Page/王子變青蛙.md "wikilink") 電視原聲帶                                                                                                | 迷魂計                  | 全員                                                                                                                                     | \-                                                    |
+| 真愛               |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 魔法Smile          |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 閉上眼默唸三遍          | [七朵花](../Page/七朵花.md "wikilink")                         |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 合輯               | 2006年1月20日                                               | 愛的奇蹟II 跳舞吧\!J-star                                                                                                                        | 新年快樂Happy new Year組曲 | 全員                                                                                                                                     | [喬傑立家族](https://zh.wikipedia.org/wiki/喬傑立 "wikilink") |
+| OST              | 2006年2月10日                                               | [愛情魔髮師電視原聲帶](../Page/愛情魔髮師.md "wikilink")                                                                                                 | 完美情人                 | 全員                                                                                                                                     | \-                                                    |
+| Magic Room       |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| Bomba Bomba 愛情炸彈 |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 感情線              |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 甜蜜約定             |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 2 Sweet          | [黃玉榮](../Page/黃玉榮.md "wikilink")                         | [陳喬恩](../Page/陳喬恩.md "wikilink")                                                                                                          |                      |                                                                                                                                        |                                                       |
+| OST              | 2006年12月1日                                               | [天使情人電視原聲帶](https://zh.wikipedia.org/wiki/天使情人 "wikilink")                                                                                | 發現真愛                 | [明道](https://zh.wikipedia.org/wiki/明道 "wikilink")、[祝釩剛](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")、[黃玉榮](../Page/黃玉榮.md "wikilink") | \-                                                    |
+| 不後悔的決定           |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 遺忘               |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 從頭               |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 腦海的橡皮擦           | 黃玉榮                                                      |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 合輯               | 2007年2月9日                                                | 愛的奇蹟III 搖滾萬歲                                                                                                                              | 搖滾萬歲                 | 全員                                                                                                                                     | [喬傑立家族](https://zh.wikipedia.org/wiki/喬傑立 "wikilink") |
+| 你永遠是最美的          | \-                                                       |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| OST              | 2007年8月3日                                                | [櫻野三加一電視原聲帶](../Page/櫻野三加一.md "wikilink")                                                                                                 | 再次相信                 | [明道](https://zh.wikipedia.org/wiki/明道 "wikilink")                                                                                      | [陳喬恩](../Page/陳喬恩.md "wikilink")                      |
+| 尋友啟示             | [明道](https://zh.wikipedia.org/wiki/明道 "wikilink")        | [許孟哲](../Page/許孟哲.md "wikilink")                                                                                                          |                      |                                                                                                                                        |                                                       |
+|                  |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
 
 ### DVD
 
@@ -474,21 +474,25 @@
   - 2004年 明道 《明道的冒險世界》
   - 2004年 顏行書 《行書的上下左右》
   - 2006年 [愛情魔髮師](../Page/愛情魔髮師.md "wikilink")
-  - 2007年 [天使情人](../Page/天使情人.md "wikilink")
+  - 2007年 [天使情人](https://zh.wikipedia.org/wiki/天使情人 "wikilink")
 
 ## 主持
 
-  - 2001年《[辣嬤旅行團](../Page/辣嬤旅行團.md "wikilink")》
-  - 2002年 [冒險王](../Page/冒險王.md "wikilink")(明道)
+  - 2001年《[辣嬤旅行團](https://zh.wikipedia.org/wiki/辣嬤旅行團 "wikilink")》
+  - 2002年 [冒險王](https://zh.wikipedia.org/wiki/冒險王 "wikilink")(明道)
   - 2002年 [在中國的故事](../Page/在中國的故事.md "wikilink")(王紹偉)
-  - 2002年 [螢幕八爪娛](../Page/螢幕八爪娛.md "wikilink")(祝釩剛)
+  - 2002年 [螢幕八爪娛](https://zh.wikipedia.org/wiki/螢幕八爪娛 "wikilink")(祝釩剛)
   - 2003年 [少年特攻隊](../Page/少年特攻隊.md "wikilink")(王紹偉)
-  - 2003年 [冠軍家庭向前衝](../Page/冠軍家庭向前衝.md "wikilink")(王紹偉)
-  - 2004年 [嘻哈劈頭四](../Page/嘻哈劈頭四.md "wikilink")(顏行書，王紹偉)
-  - 2004年 [鬥陣聚樂部](../Page/鬥陣聚樂部.md "wikilink")(顏行書，王紹偉)
-  - 2005年 [完全娛樂週日版](../Page/完全娛樂.md "wikilink")：誰最帶種(王紹偉)
+  - 2003年
+    [冠軍家庭向前衝](https://zh.wikipedia.org/wiki/冠軍家庭向前衝 "wikilink")(王紹偉)
+  - 2004年
+    [嘻哈劈頭四](https://zh.wikipedia.org/wiki/嘻哈劈頭四 "wikilink")(顏行書，王紹偉)
+  - 2004年
+    [鬥陣聚樂部](https://zh.wikipedia.org/wiki/鬥陣聚樂部 "wikilink")(顏行書，王紹偉)
+  - 2005年
+    [完全娛樂週日版](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")：誰最帶種(王紹偉)
   - 2005年 [台灣全記錄](../Page/台灣全記錄.md "wikilink")(顏行書)
-  - 2006年 [完全娛樂](../Page/完全娛樂.md "wikilink")(王紹偉)
+  - 2006年 [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(王紹偉)
 
 ## 廣告代言
 
@@ -496,7 +500,8 @@
   - 2004年 波蜜(明道)
   - 2005年 Proman 豪門內衣(全體)
   - 2005年 美國棉(全體)
-  - 2006年 德國飛利浦([Philips](../Page/Philips.md "wikilink"))電動刮鬍刀(明道)
+  - 2006年
+    德國飛利浦([Philips](https://zh.wikipedia.org/wiki/Philips "wikilink"))電動刮鬍刀(明道)
   - 2006年 愛之味健康流糖茶(明道)
   - 2006年 搞鬼Online(王紹偉)
   - 2007年 甜蜜約定金飾(明道)

@@ -1,31 +1,31 @@
-**Eclipse**是著名的[跨平台](../Page/跨平台.md "wikilink")[开源](../Page/开源.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）。最初主要用来[Java语言开发](../Page/Java.md "wikilink")，目前亦有人通过[插件使其作为](../Page/插件.md "wikilink")[C++](../Page/C++.md "wikilink")、[Python](../Page/Python.md "wikilink")、[PHP等其他语言的开发工具](../Page/PHP.md "wikilink")。
+**Eclipse**是著名的[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）。最初主要用来[Java语言开发](../Page/Java.md "wikilink")，目前亦有人通过[插件使其作为](../Page/插件.md "wikilink")[C++](../Page/C++.md "wikilink")、[Python](../Page/Python.md "wikilink")、[PHP等其他语言的开发工具](../Page/PHP.md "wikilink")。
 
 Eclipse的本身只是一个框架平台，但是众多[插件的支持](../Page/插件.md "wikilink")，使得Eclipse拥有較佳的灵活性，所以许多软件开发商以Eclipse为框架开发自己的IDE。
 
 ## 历史
 
 Eclipse最初是由[IBM公司开发的替代商业软件](../Page/IBM.md "wikilink")[Visual Age for
-Java的下一代IDE开发环境](../Page/Visual_Age_for_Java.md "wikilink")，2001年11月贡献给开源社区，现在它由非营利软件供应商联盟[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")（Eclipse
+Java的下一代IDE开发环境](https://zh.wikipedia.org/wiki/Visual_Age_for_Java "wikilink")，2001年11月贡献给开源社区，现在它由非营利软件供应商联盟[Eclipse基金会](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")（Eclipse
 Foundation）管理。2003年，Eclipse
 3.0选择OSGi服务平台规范为运行时架构。2007年6月，稳定版3.3发布；2008年6月发布代号为Ganymede的3.4版；2009年6月发布代号为Galileo的3.5版；2010年6月发布代号为Helios的3.6版；2011年6月發布代號為Indigo的3.7版；2012年6月發布代號為Juno的4.2版；2013年6月發布代號為Kepler的4.3版；2014年6月發布代號為Luna的4.4版；2015年6月發布代號為Mars的4.5版。
 
 ## 架构
 
-Eclipse的基础是[富客户机平台](../Page/RCP.md "wikilink")（即RCP）。RCP包括下列组件：
+Eclipse的基础是[富客户机平台](https://zh.wikipedia.org/wiki/RCP "wikilink")（即RCP）。RCP包括下列组件：
 
   - 核心平台（启动Eclipse，运行插件）
   - [OSGi](../Page/OSGi.md "wikilink")（标准集束框架）
-  - [SWT](../Page/SWT.md "wikilink")（可移植[构件工具包](../Page/构件工具包.md "wikilink")）
-  - [JFace](../Page/JFace.md "wikilink")（文件缓冲，文本处理，文本编辑器）
+  - [SWT](../Page/SWT.md "wikilink")（可移植[构件工具包](https://zh.wikipedia.org/wiki/构件工具包 "wikilink")）
+  - [JFace](https://zh.wikipedia.org/wiki/JFace "wikilink")（文件缓冲，文本处理，文本编辑器）
   - Eclipse工作台（即Workbench，包含视图（views）、编辑器（editors）、视角（perspectives）、和向导（wizards））
 
-Eclipse采用的技术是IBM公司开发的（[SWT](../Page/SWT.md "wikilink")），这是一种基于Java的窗口组件，类似Java本身提供的[AWT和](../Page/AWT.md "wikilink")[Swing窗口组件](../Page/Swing.md "wikilink")；不过IBM声称SWT比其他Java窗口组件更有效率。Eclipse的用户界面还使用了GUI中间层JFace，从而简化了基于SWT的应用程序的构建。
+Eclipse采用的技术是IBM公司开发的（[SWT](../Page/SWT.md "wikilink")），这是一种基于Java的窗口组件，类似Java本身提供的[AWT和](../Page/AWT.md "wikilink")[Swing窗口组件](https://zh.wikipedia.org/wiki/Swing "wikilink")；不过IBM声称SWT比其他Java窗口组件更有效率。Eclipse的用户界面还使用了GUI中间层JFace，从而简化了基于SWT的应用程序的构建。
 
 ### 插件
 
 Eclipse的插件机制是轻型软件组件化架构。在富客户机平台上，Eclipse使用插件来提供所有的附加功能，例如支持Java以外的其他语言。已有的分离的插件已经能够支持C/C++（CDT）、PHP、Perl、Ruby，Python、telnet和数据库开发。插件架构能够支持将任意的扩展加入到现有环境中，例如配置管理，而决不仅仅限于支持各种编程语言。
 
-Eclipse的设计思想是：一切皆插件。Eclipse核心很小，其它所有功能都以插件的形式附加于Eclipse核心之上。Eclipse基本内核包括：图形API（SWT/Jface），Java开发环境插件（JDT），插件开发环境（[PDE](../Page/PDE.md "wikilink")）等。
+Eclipse的设计思想是：一切皆插件。Eclipse核心很小，其它所有功能都以插件的形式附加于Eclipse核心之上。Eclipse基本内核包括：图形API（SWT/Jface），Java开发环境插件（JDT），插件开发环境（[PDE](https://zh.wikipedia.org/wiki/PDE "wikilink")）等。
 
 框架的本质与极高的扩展性，使得厂商可以利用Eclipse作为平台开发各类IDE。甚至一些应用软件也是基于Eclipse的，如Oracle
 JDK自带的监控程序、Android SDK附带的设备监视工具DDMS。
@@ -40,19 +40,19 @@ Eclipse由各种不同的计划组成。以下列出了部分计划，更完整�
   - **Eclipse测试和性能工具平台**（\[//www.eclipse.org/tptp/index.html
     TPTP\]）：提供一个允许软件开发者构建诸如测试调试、概况分析、基准评测等测试和性能工具的平台。
   - **Eclipse Web工具平台计划**（\[//www.eclipse.org/webtools/index.html
-    WTP\]）：用[Java企业版Web应用程序开发工具来扩展Eclipse平台](../Page/J2EE.md "wikilink")。它由以下部分组成：[HTML](../Page/HTML.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[CSS](../Page/CSS.md "wikilink")、[JSP](../Page/JSP.md "wikilink")、[SQL](../Page/SQL.md "wikilink")、[XML](../Page/XML.md "wikilink")、[DTD](../Page/DTD.md "wikilink")、[XSD和](../Page/XSD.md "wikilink")[WSDL的源代码编辑器](../Page/WSDL.md "wikilink")；XSD和WSDL的图形界面编辑器；Java企业版的“项目性质”（project
+    WTP\]）：用[Java企业版Web应用程序开发工具来扩展Eclipse平台](https://zh.wikipedia.org/wiki/J2EE "wikilink")。它由以下部分组成：[HTML](../Page/HTML.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JSP](../Page/JSP.md "wikilink")、[SQL](../Page/SQL.md "wikilink")、[XML](../Page/XML.md "wikilink")、[DTD](https://zh.wikipedia.org/wiki/DTD "wikilink")、[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[WSDL的源代码编辑器](../Page/WSDL.md "wikilink")；XSD和WSDL的图形界面编辑器；Java企业版的“项目性质”（project
     nature）、建构器（builder）和模型（model），与一个Java企业版的导航（navigator）；一个Web服务（Web
-    service）向导和浏览器，还有一个[WS-I测试工具](../Page/WS-I.md "wikilink")；最后是数据库访问查询的工具与模型。
-  - **Eclipse[商业智能和](../Page/商业智能.md "wikilink")[报表工具计划](../Page/报表.md "wikilink")**（\[//www.eclipse.org/birt/
+    service）向导和浏览器，还有一个[WS-I测试工具](https://zh.wikipedia.org/wiki/WS-I "wikilink")；最后是数据库访问查询的工具与模型。
+  - **Eclipse[商业智能和](../Page/商业智能.md "wikilink")[报表工具计划](https://zh.wikipedia.org/wiki/报表 "wikilink")**（\[//www.eclipse.org/birt/
     BIRT\]）：提供Web应用程序（特别是基于Java企业版的）的报表开发工具。
   - **Eclipse可视化界面编辑器计划**（\[//www.eclipse.org/vep/
     VEP\]）：一个Eclipse下创建[图形用户界面代码生成器的框架](../Page/图形用户界面.md "wikilink")。
   - **Eclipse建模框架**（\[//www.eclipse.org/emf/
-    EMF\]）：依据使用[XMI描述的建模规格](../Page/XMI.md "wikilink")，生成结构化数据模型的工具和其他应用程序的代码。
+    EMF\]）：依据使用[XMI描述的建模规格](https://zh.wikipedia.org/wiki/XMI "wikilink")，生成结构化数据模型的工具和其他应用程序的代码。
   - **图形化编辑器框架**（\[//www.eclipse.org/gef/
     GEF\]）：能让开发者采用一个现成的应用程序模型来轻松地创建富图形化编辑器。
   - **UML2**：Eclipse平台下的一个[UML](../Page/统一建模语言.md "wikilink")
-    2.0[元模型的实现](../Page/元模型.md "wikilink")，用以支持建模工具的开发。
+    2.0[元模型的实现](https://zh.wikipedia.org/wiki/元模型 "wikilink")，用以支持建模工具的开发。
   - **AspectJ**：一种针对Java的[面向侧面语言扩展](../Page/面向侧面的程序设计.md "wikilink")。
   - **Eclipse通讯框架**（\[//www.eclipse.org/ecf/
     ECF\]）：专注于在Eclipse平台上创建通讯应用程序的工作。
@@ -257,14 +257,15 @@ Eclipse基金會及其社區項目和貢獻者每年都會按照協調的時間�
 
   - [NetBeans](../Page/NetBeans.md "wikilink") 另一著名的开源多语言开发平台、IDE软件
   - [IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink") 另一著名的商业Java IDE
-  - [WSAD](../Page/WSAD.md "wikilink")
+  - [WSAD](https://zh.wikipedia.org/wiki/WSAD "wikilink")
     [IBM的商业Java](../Page/IBM.md "wikilink") IDE（WebSphare
     Application Developer）
-  - [Visual J++](../Page/Visual_J++.md "wikilink")
-    [Microsoft的商业Java](../Page/Microsoft.md "wikilink") IDE
-  - [JBuilder](../Page/JBuilder.md "wikilink")
+  - [Visual J++](https://zh.wikipedia.org/wiki/Visual_J++ "wikilink")
+    [Microsoft的商业Java](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+    IDE
+  - [JBuilder](https://zh.wikipedia.org/wiki/JBuilder "wikilink")
     [Borland的商业Java](../Page/Borland.md "wikilink") IDE
-  - [g-Eclipse](../Page/g-Eclipse.md "wikilink")
+  - [g-Eclipse](https://zh.wikipedia.org/wiki/g-Eclipse "wikilink")
 
 ## 參考資料
 

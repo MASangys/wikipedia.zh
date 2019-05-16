@@ -1,13 +1,13 @@
-《**Cho-{}-bits**》（）是日本漫畫家團體[CLAMP的](../Page/CLAMP.md "wikilink")[日本漫畫作品](../Page/日本漫畫.md "wikilink")，自2000年9月至2002年10月間於日本[講談社](../Page/講談社.md "wikilink")《[週刊Young
-Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](../Page/單行本.md "wikilink")8冊\[1\]\[2\]。改編動畫版自2002年4月起至9月止於[TBS播放](../Page/TBS电视台.md "wikilink")，全27話。
+《**Cho-{}-bits**》（）是日本漫畫家團體[CLAMP的](../Page/CLAMP.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，自2000年9月至2002年10月間於日本[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young
+Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊\[1\]\[2\]。改編動畫版自2002年4月起至9月止於[TBS播放](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")，全27話。
 
 ## 名稱由來
 
-[日文的Cho](../Page/日文.md "wikilink")-{}-bits：（Chobittsu）是[平假名](../Page/平假名.md "wikilink")（Chobi(t)）與[片假名](../Page/片假名.md "wikilink")（Tsu）混合寫成。相似的寫法在第19集中秀樹設定絲茉茉的密碼時，使用（Chobittsu）的讀音相同，不同的地方是密碼以片假名Ch(i)加上平假名(y)obittsu寫成，原因是人形電腦設定的密碼必須是平假名片假名混合以增加安全。漫畫中最後，秀樹設定了小唧的密碼：，除了最後一個字是片假名外，其餘都是平假名（其實同樣讀音的密碼也用在重新啟動前的艾兒妲\[小唧\]
+[日文的Cho](https://zh.wikipedia.org/wiki/日文 "wikilink")-{}-bits：（Chobittsu）是[平假名](../Page/平假名.md "wikilink")（Chobi(t)）與[片假名](../Page/片假名.md "wikilink")（Tsu）混合寫成。相似的寫法在第19集中秀樹設定絲茉茉的密碼時，使用（Chobittsu）的讀音相同，不同的地方是密碼以片假名Ch(i)加上平假名(y)obittsu寫成，原因是人形電腦設定的密碼必須是平假名片假名混合以增加安全。漫畫中最後，秀樹設定了小唧的密碼：，除了最後一個字是片假名外，其餘都是平假名（其實同樣讀音的密碼也用在重新啟動前的艾兒妲\[小唧\]
 - Elda 以及芙蕾雅 - Freya）。
-除此之外，對於為何稱呼其為人形電腦而非[機器人的原因在漫畫中最後也有解釋](../Page/機器人.md "wikilink")，因為日比谷千歲的丈夫「三原一郎」認為它們不應該受到[機器人三定律的限制](../Page/機器人三定律.md "wikilink")。
+除此之外，對於為何稱呼其為人形電腦而非[機器人的原因在漫畫中最後也有解釋](https://zh.wikipedia.org/wiki/機器人 "wikilink")，因為日比谷千歲的丈夫「三原一郎」認為它們不應該受到[機器人三定律的限制](https://zh.wikipedia.org/wiki/機器人三定律 "wikilink")。
 
-本作与《[天使領域](../Page/天使領域.md "wikilink")》存在人物相關。
+本作与《[天使領域](https://zh.wikipedia.org/wiki/天使領域 "wikilink")》存在人物相關。
 
 ## 劇情簡介
 
@@ -58,13 +58,13 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 
   -
     身高150cm。5月20日出生。
-    在「樂意之至」居酒屋打工的身材姣好的[高中生](../Page/高中生.md "wikilink")，稱呼秀樹為「前輩」，E罩杯。性格活潑開朗，但卻不喜歡人形電腦。原因是曾經在「奇洛兒」打工，並愛上了店長植田弘康，但因為知道了植田與人型電腦「裕美」結婚而離去，但因為秀樹和小唧的關係而復合。（在動畫和遊戲中，裕美是「樂意之至」老闆的女兒，在漫畫中卻沒有這樣的設定。）
+    在「樂意之至」居酒屋打工的身材姣好的[高中生](https://zh.wikipedia.org/wiki/高中生 "wikilink")，稱呼秀樹為「前輩」，E罩杯。性格活潑開朗，但卻不喜歡人形電腦。原因是曾經在「奇洛兒」打工，並愛上了店長植田弘康，但因為知道了植田與人型電腦「裕美」結婚而離去，但因為秀樹和小唧的關係而復合。（在動畫和遊戲中，裕美是「樂意之至」老闆的女兒，在漫畫中卻沒有這樣的設定。）
 
 <!-- end list -->
 
   -
     身高145cm。1月25日出生。
-    精於電腦的中學二年級生，家境富裕、有不少自製的人形電腦。經新保介紹幫助秀樹調查有關於小唧的身份，網名是「M」。個性冷靜，但對柚姬卻十分著緊。小時父母離異，原本有一個姊姊—齊滕楓（出自[天使領域](../Page/天使領域.md "wikilink")）相當疼他，卻不幸早死，因而參考姊姊創造了人型電腦柚姬作代替品，卻愛上了她。在和秀樹互動後，接受了自己喜歡柚姬的事實，並明白了「柚姬就是柚姬」的道理，不再將姊姊的資料輸入柚姬體內。
+    精於電腦的中學二年級生，家境富裕、有不少自製的人形電腦。經新保介紹幫助秀樹調查有關於小唧的身份，網名是「M」。個性冷靜，但對柚姬卻十分著緊。小時父母離異，原本有一個姊姊—齊滕楓（出自[天使領域](https://zh.wikipedia.org/wiki/天使領域 "wikilink")）相當疼他，卻不幸早死，因而參考姊姊創造了人型電腦柚姬作代替品，卻愛上了她。在和秀樹互動後，接受了自己喜歡柚姬的事實，並明白了「柚姬就是柚姬」的道理，不再將姊姊的資料輸入柚姬體內。
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 
   -
     身高165cm。9月24日出生。
-    秀樹所居住的公寓的房東，十分照顧小唧。她其實是人形電腦的發明者—三原一郎（出自[天使領域](../Page/天使領域.md "wikilink")）的妻子，同時也是小唧從前的媽媽。設定小唧找到屬於她專屬的人時會逝去記憶。並喚醒芙蕾亞。
+    秀樹所居住的公寓的房東，十分照顧小唧。她其實是人形電腦的發明者—三原一郎（出自[天使領域](https://zh.wikipedia.org/wiki/天使領域 "wikilink")）的妻子，同時也是小唧從前的媽媽。設定小唧找到屬於她專屬的人時會逝去記憶。並喚醒芙蕾亞。
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 
   -
     身高180cm。6月18日出生。
-    琴子的擁有者，ID為天龍（蜻蜓，Dragonfly）。家中有以二十多台自製人形電腦製成的[網格運算系統](../Page/網格運算.md "wikilink")，對傳說中的電腦—Chobits—很有興趣，曾經誘拐小唧。
+    琴子的擁有者，ID為天龍（蜻蜓，Dragonfly）。家中有以二十多台自製人形電腦製成的[網格運算系統](https://zh.wikipedia.org/wiki/網格運算 "wikilink")，對傳說中的電腦—Chobits—很有興趣，曾經誘拐小唧。
 
 <!-- end list -->
 
@@ -115,13 +115,13 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -205,7 +205,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 
 ## 電視動畫
 
-2002年4月至同年9月間於日本[TBS系列播放](../Page/東京放送.md "wikilink")。共26話+1話。
+2002年4月至同年9月間於日本[TBS系列播放](https://zh.wikipedia.org/wiki/東京放送 "wikilink")。共26話+1話。
 
 ### 製作人員
 
@@ -289,7 +289,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td></td>
 <td><p>唧！出門</p></td>
 <td></td>
-<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
 <td><p><a href="../Page/长井龙雪.md" title="wikilink">長井龍幸</a></p></td>
 <td><p>阿部純子</p></td>
 <td></td>
@@ -299,9 +299,9 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td></td>
 <td><p>唧！記得了</p></td>
 <td><p><a href="../Page/大久保智康.md" title="wikilink">大久保智康</a></p></td>
-<td><p><a href="../Page/八谷賢一.md" title="wikilink">八貝賢一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/八谷賢一" title="wikilink">八貝賢一</a></p></td>
 <td><p>鎌仲史陽</p></td>
-<td><p><a href="../Page/濱田邦彦.md" title="wikilink">濱田邦彦</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/濱田邦彦" title="wikilink">濱田邦彦</a><br />
 柳瀬雄之</p></td>
 <td></td>
 </tr>
@@ -310,7 +310,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td></td>
 <td><p>唧！買東西</p></td>
 <td><p>玉井☆豪</p></td>
-<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
 <td></td>
 <td><p>内田孝</p></td>
 <td></td>
@@ -339,9 +339,9 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td><p>7</p></td>
 <td></td>
 <td><p>唧！工作</p></td>
-<td><p><a href="../Page/花田十輝.md" title="wikilink">花田十輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
 <td><p><a href="../Page/佐山聖子.md" title="wikilink">佐山聖子</a></p></td>
-<td><p><a href="../Page/小林智樹.md" title="wikilink">小林智樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小林智樹" title="wikilink">小林智樹</a></p></td>
 <td><p>田中雄一</p></td>
 <td></td>
 </tr>
@@ -421,7 +421,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td><p>唧！招待</p></td>
 <td><p>花田十輝</p></td>
 <td><p>長井龍幸</p></td>
-<td><p><a href="../Page/太田雅彦.md" title="wikilink">太田雅彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太田雅彦" title="wikilink">太田雅彦</a></p></td>
 <td><p>北尾勝</p></td>
 <td><p>-</p></td>
 </tr>
@@ -580,7 +580,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td><p>|<a href="../Page/TBS電視台.md" title="wikilink">東京放送</a></p></td>
 <td><p>2002年4月2日 - 9月24日</p></td>
 <td><p>星期二 26:20 - 26:50</p></td>
-<td><p><a href="../Page/Japan_News_Network.md" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -608,16 +608,16 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/静岡县.md" title="wikilink">静岡县</a></p></td>
-<td><p><a href="../Page/静岡放送.md" title="wikilink">静岡放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/静岡县" title="wikilink">静岡县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a></p></td>
 <td><p>2002年4月12日 - 10月4日</p></td>
 <td><p>星期五 26:45 - 27:15</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/宮城县.md" title="wikilink">宮城县</a></p></td>
-<td><p><a href="../Page/東北放送.md" title="wikilink">東北放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮城县" title="wikilink">宮城县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東北放送" title="wikilink">東北放送</a></p></td>
 <td><p>2002年4月18日 - 10月10日</p></td>
 <td><p>星期四 25:50 - 26:20</p></td>
 <td></td>
@@ -625,7 +625,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/近畿地方.md" title="wikilink">近畿廣域圈</a></p></td>
-<td><p><a href="../Page/毎日放送.md" title="wikilink">毎日放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/毎日放送" title="wikilink">毎日放送</a></p></td>
 <td><p>2002年4月27日 - 11月2日</p></td>
 <td><p>星期六 25:55 - 26:25</p></td>
 <td><p>Anime Shower第1部</p></td>
@@ -645,7 +645,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 ## 遊戲
 
   - ちょびっツ for GAMEBOY ADVANCE アタシだけのヒト
-      - 對應機種：[GBA](../Page/GBA.md "wikilink")、發售日：2002年9月27日發售、發售商：[Marvelous娛樂](../Page/Marvelous.md "wikilink")
+      - 對應機種：[GBA](https://zh.wikipedia.org/wiki/GBA "wikilink")、發售日：2002年9月27日發售、發售商：[Marvelous娛樂](../Page/Marvelous.md "wikilink")
   - ちょびっツ 〜ちぃだけのヒト〜
       - 對應機種：[PS2](../Page/PlayStation_2.md "wikilink")、發售日：2003年5月15日發售、發售商：[Broccoli](../Page/Broccoli.md "wikilink")
 

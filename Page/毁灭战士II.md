@@ -1,5 +1,5 @@
 **毁灭战士II**，全名为毁灭战士II: 人间地狱（**Doom II: Hell on Earth**），是由[id
-Software开发的一款](../Page/id_Software.md "wikilink")[第一人称射击游戏](../Page/第一人称射击.md "wikilink")。1994年发布的最初版本是针对[IBM生产的](../Page/IBM.md "wikilink")[PC的](../Page/PC.md "wikilink")。而它的前作，[毁灭战士](../Page/毁灭战士.md "wikilink")，于1993年发行后便成为一款广受好评的游戏。1995年，毁灭战士II获得了*Origins
+Software开发的一款](https://zh.wikipedia.org/wiki/id_Software "wikilink")[第一人称射击游戏](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")。1994年发布的最初版本是针对[IBM生产的](../Page/IBM.md "wikilink")[PC的](../Page/PC.md "wikilink")。而它的前作，[毁灭战士](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")，于1993年发行后便成为一款广受好评的游戏。1995年，毁灭战士II获得了*Origins
 Awards*颁发的*1994年最佳幻想或科幻游戏奖*。但是和前作只接受邮购或者共享方式购买不同的是，毁灭战士II的完全版作为商业品在软件店内销售。
 
 ## 故事主线
@@ -7,7 +7,7 @@ Awards*颁发的*1994年最佳幻想或科幻游戏奖*。但是和前作只接�
 毁灭战士II的故事紧接着前作展开，玩家被再次带到了一个无名的[火星空间内](../Page/火星.md "wikilink")（事实上在*毁灭战士*小说内被称为Flynn
 Taggart），在这里需要闯出一条从这个地狱逃离的路。在Phobos进行了殊死搏斗，并且摧毁了Deimos和整个地狱后，玩家扮演的战士终于回到了地球，但是紧接着发现自己沦为了[外星人侵略的一个受害者](../Page/外星人.md "wikilink")。
 
-玩家将会在全[三维的关卡中穿行](../Page/三维.md "wikilink")（不包括两个秘密关卡），在途中玩家会知道所有地球劫后余生的人们都被聚集到了一个时空传送带中，玩家必须带领他们冲出禁锢。
+玩家将会在全[三维的关卡中穿行](https://zh.wikipedia.org/wiki/三维 "wikilink")（不包括两个秘密关卡），在途中玩家会知道所有地球劫后余生的人们都被聚集到了一个时空传送带中，玩家必须带领他们冲出禁锢。
 
 ## 游戏开发
 
@@ -18,7 +18,7 @@ Taggart），在这里需要闯出一条从这个地狱逃离的路。在Phobos�
   - 重武裝殭屍， 帶著格林槍的殭屍，雖說是殭屍但千萬別輕忽他，他的連發機槍甚至是群聚在一起時也是會令玩家頭痛的敵人，擊斃他後能取得他的格林槍
   - 地狱骑士，是地狱男爵的降級版本
   - Mancubus，外觀體積龐大，移動緩慢的怪物，它會從炮管狀的雙手同时向两个方向发射出巨大的火球
-  - 亡灵，以[骷髏為設計原形的怪物](../Page/骷髏.md "wikilink")，一旦發現玩家會發出極為駭人的叫聲，它會在近距離使用拳擊，以及發射一定機率帶有追蹤效果的導彈來攻擊玩家
+  - 亡灵，以[骷髏為設計原形的怪物](https://zh.wikipedia.org/wiki/骷髏 "wikilink")，一旦發現玩家會發出極為駭人的叫聲，它會在近距離使用拳擊，以及發射一定機率帶有追蹤效果的導彈來攻擊玩家
   - 機械蜘蛛，SpiderMastermind的降級版本，會發射外觀與玩家不同顏色的電漿槍雷射來攻擊
   - 痛苦元素，让人头疼的怪物，如果在没有尽快除掉，会不断造出无限的失落灵魂（其实并非无限，游戏引擎已考虑到这一点，当地图上有20个失落灵魂后就不会再造出失落灵魂了）
   - Arch-Vile，最危险的敵人之一，不但會使用伤害强大附帶震飛效果且无法闪避的火焰魔法來攻擊玩家，而且移动速度也相当快，還會無限度的復活被玩家打死的怪物
@@ -27,7 +27,7 @@ Taggart），在这里需要闯出一条从这个地狱逃离的路。在Phobos�
 
 [DOOM2_ingame_1.png](https://zh.wikipedia.org/wiki/File:DOOM2_ingame_1.png "fig:DOOM2_ingame_1.png")
 
-[德军总部3D游戏里面的SS](../Page/德军总部3D.md "wikilink")
+[德军总部3D游戏里面的SS](https://zh.wikipedia.org/wiki/德军总部3D "wikilink")
 Trooper怪物还出现在了秘密关卡中，并且在图像和音效使用了和原游戏一样的射击。另外[指挥官基恩中的主角形象还在另外一个关卡中出现](../Page/指挥官基恩.md "wikilink")。
 
 不过让人略为失望的是，枪械的改进不大，只是增加了双管版的散弹枪。它的攻击力增大到普通散弹枪的将近三倍，而且弹药相对充足，在对付强敌的时候就会显示出巨大的价值。
@@ -48,40 +48,40 @@ Trooper怪物还出现在了秘密关卡中，并且在图像和音效使用了�
 
   - 代表非多余音轨
 
-| 名称                                            | 设计者                                         | 音轨                           |
-| --------------------------------------------- | ------------------------------------------- | ---------------------------- |
-| MAP01: Entryway                               | [桑迪·皮特森](../Page/桑迪·皮特森.md "wikilink")      | *Running from Evil*          |
-| MAP02: Underhalls                             | [亚美利坚·麦基](../Page/亚美利坚·麦基.md "wikilink")    | *The Healer Stalks*          |
-| MAP03: The Gauntlet                           | 亚美利坚·麦基                                     | *Countdown to Death*         |
-| MAP04: The Focus                              | 亚美利坚·麦基                                     | *Between Levels*\*           |
-| MAP05: The Waste Tunnels                      | 亚美利坚·麦基                                     | *DOOM*                       |
-| MAP06: The Crusher                            | 亚美利坚·麦基                                     | *In the Dark*                |
-| MAP07: Dead Simple                            | 亚美利坚·麦基、桑迪·皮特森                              | *Shawn's got the Shotgun*    |
-| MAP08: Tricks and Traps                       | 桑迪·皮特森                                      | *The Dave D. Taylor Blues*   |
-| MAP09: The Pit                                | 桑迪·皮特森                                      | *Into Sandy's City*\*        |
-| MAP10: Refueling Base                         | 桑迪·皮特森、[汤姆·霍尔](../Page/汤姆·霍尔.md "wikilink") | *The Demon's Dead*           |
-| MAP11: Circle of Death/The 'O' of Destruction | [约翰·罗梅洛](../Page/约翰·罗梅洛.md "wikilink")      | *The Healer Stalks*          |
-| MAP12: The Factory                            | 桑迪·皮特森                                      | *In the Dark*                |
-| MAP13: Downtown                               | 桑迪·皮特森                                      | *DOOM*                       |
-| MAP14: The Inmost Dens                        | 桑迪·皮特森                                      | *The Dave D. Taylor Blues*   |
-| MAP15: Industrial Zone                        | 约翰·罗梅洛                                      | *Running from Evil*          |
-| MAP16: Suburbs                                | 桑迪·皮特森                                      | *The Demon's Dead*           |
-| MAP17: Tenements                              | 约翰·罗梅洛                                      | *The Healer Stalks*          |
-| MAP18: The Courtyard                          | 桑迪·皮特森                                      | *Waiting for Romero to Play* |
-| MAP19: The Citadel                            | 桑迪·皮特森                                      | *Shawn's got the Shotgun*    |
-| MAP20: Gotcha\!                               | 约翰·罗梅洛                                      | *Message for the Archvile*   |
-| MAP21: Nirvana                                | 桑迪·皮特森                                      | *Countdown to Death*         |
-| MAP22: The Catacombs                          | 桑迪·皮特森                                      | *The Dave D. Taylor Blues*   |
-| MAP23: Barrels o' Fun                         | 桑迪·皮特森                                      | *Bye Bye American Pie*\*     |
-| MAP24: The Chasm                              | 桑迪·皮特森                                      | *In the Dark*                |
-| MAP25: Bloodfalls                             | [肖恩·格林](../Page/肖恩·格林.md "wikilink")        | *Adrian's Asleep*\*          |
-| MAP26: The Abandoned Mines                    | 约翰·罗梅洛                                      | *Message for the Archvile*   |
-| MAP27: Monster Condo                          | 桑迪·皮特森                                      | *Waiting for Romero to Play* |
-| MAP28: The Spirit World                       | 桑迪·皮特森                                      | *Getting Too Tense*\*        |
-| MAP29: The Living End                         | 约翰·罗梅洛                                      | *Shawn's got the Shotgun*    |
-| MAP30: Icon of Sin                            | 桑迪·皮特森                                      | *Opening to Hell*\*          |
-| MAP31: Wolfenstein                            | 桑迪·皮特森                                      | *Evil Incarnate*\*           |
-| MAP32: Grosse                                 | 桑迪·皮特森                                      | *The Ultimate Conquest*\*    |
+| 名称                                            | 设计者                                                            | 音轨                           |
+| --------------------------------------------- | -------------------------------------------------------------- | ---------------------------- |
+| MAP01: Entryway                               | [桑迪·皮特森](../Page/桑迪·皮特森.md "wikilink")                         | *Running from Evil*          |
+| MAP02: Underhalls                             | [亚美利坚·麦基](https://zh.wikipedia.org/wiki/亚美利坚·麦基 "wikilink")    | *The Healer Stalks*          |
+| MAP03: The Gauntlet                           | 亚美利坚·麦基                                                        | *Countdown to Death*         |
+| MAP04: The Focus                              | 亚美利坚·麦基                                                        | *Between Levels*\*           |
+| MAP05: The Waste Tunnels                      | 亚美利坚·麦基                                                        | *DOOM*                       |
+| MAP06: The Crusher                            | 亚美利坚·麦基                                                        | *In the Dark*                |
+| MAP07: Dead Simple                            | 亚美利坚·麦基、桑迪·皮特森                                                 | *Shawn's got the Shotgun*    |
+| MAP08: Tricks and Traps                       | 桑迪·皮特森                                                         | *The Dave D. Taylor Blues*   |
+| MAP09: The Pit                                | 桑迪·皮特森                                                         | *Into Sandy's City*\*        |
+| MAP10: Refueling Base                         | 桑迪·皮特森、[汤姆·霍尔](https://zh.wikipedia.org/wiki/汤姆·霍尔 "wikilink") | *The Demon's Dead*           |
+| MAP11: Circle of Death/The 'O' of Destruction | [约翰·罗梅洛](../Page/约翰·罗梅洛.md "wikilink")                         | *The Healer Stalks*          |
+| MAP12: The Factory                            | 桑迪·皮特森                                                         | *In the Dark*                |
+| MAP13: Downtown                               | 桑迪·皮特森                                                         | *DOOM*                       |
+| MAP14: The Inmost Dens                        | 桑迪·皮特森                                                         | *The Dave D. Taylor Blues*   |
+| MAP15: Industrial Zone                        | 约翰·罗梅洛                                                         | *Running from Evil*          |
+| MAP16: Suburbs                                | 桑迪·皮特森                                                         | *The Demon's Dead*           |
+| MAP17: Tenements                              | 约翰·罗梅洛                                                         | *The Healer Stalks*          |
+| MAP18: The Courtyard                          | 桑迪·皮特森                                                         | *Waiting for Romero to Play* |
+| MAP19: The Citadel                            | 桑迪·皮特森                                                         | *Shawn's got the Shotgun*    |
+| MAP20: Gotcha\!                               | 约翰·罗梅洛                                                         | *Message for the Archvile*   |
+| MAP21: Nirvana                                | 桑迪·皮特森                                                         | *Countdown to Death*         |
+| MAP22: The Catacombs                          | 桑迪·皮特森                                                         | *The Dave D. Taylor Blues*   |
+| MAP23: Barrels o' Fun                         | 桑迪·皮特森                                                         | *Bye Bye American Pie*\*     |
+| MAP24: The Chasm                              | 桑迪·皮特森                                                         | *In the Dark*                |
+| MAP25: Bloodfalls                             | [肖恩·格林](../Page/肖恩·格林.md "wikilink")                           | *Adrian's Asleep*\*          |
+| MAP26: The Abandoned Mines                    | 约翰·罗梅洛                                                         | *Message for the Archvile*   |
+| MAP27: Monster Condo                          | 桑迪·皮特森                                                         | *Waiting for Romero to Play* |
+| MAP28: The Spirit World                       | 桑迪·皮特森                                                         | *Getting Too Tense*\*        |
+| MAP29: The Living End                         | 约翰·罗梅洛                                                         | *Shawn's got the Shotgun*    |
+| MAP30: Icon of Sin                            | 桑迪·皮特森                                                         | *Opening to Hell*\*          |
+| MAP31: Wolfenstein                            | 桑迪·皮特森                                                         | *Evil Incarnate*\*           |
+| MAP32: Grosse                                 | 桑迪·皮特森                                                         | *The Ultimate Conquest*\*    |
 
 ## 参考资料
 

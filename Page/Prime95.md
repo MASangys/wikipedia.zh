@@ -1,15 +1,16 @@
-**Prime95**是一款运行于[Windows中的](../Page/Microsoft_Windows.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")，由寻找[梅森素数的](../Page/梅森素数.md "wikilink")[分布式计算项目](../Page/分布式计算.md "wikilink")[GIMPS的](../Page/GIMPS.md "wikilink")[乔治·沃特曼编写](../Page/乔治·沃特曼.md "wikilink")。
+**Prime95**是一款运行于[Windows中的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[开源软件](../Page/开源软件.md "wikilink")，由寻找[梅森素数的](../Page/梅森素数.md "wikilink")[分布式计算项目](../Page/分布式计算.md "wikilink")[GIMPS的](https://zh.wikipedia.org/wiki/GIMPS "wikilink")[乔治·沃特曼编写](../Page/乔治·沃特曼.md "wikilink")。
 
 **Prime95**的另外一个作用是用于测试计算机系统的稳定性。由于该软件需要进行大量的运算工作，所以可以有效的测试计算机系统的稳定性。在许多的测试中被使用。
 
 **Prime95**的[Linux及](../Page/Linux.md "wikilink")[FreeBSD版本稱為](../Page/FreeBSD.md "wikilink")**MPrime**。
 
-Prime95在[PC爱好者和](../Page/个人电脑.md "wikilink")[超频爱好者中很流行](../Page/超频.md "wikilink")，因为它的数字“粉碎”算法能够很好的测试系统的稳定性。这个软件现在的版本包含专门为测试PC子系统负荷的“Torture
+Prime95在[PC爱好者和](../Page/个人电脑.md "wikilink")[超频爱好者中很流行](https://zh.wikipedia.org/wiki/超频 "wikilink")，因为它的数字“粉碎”算法能够很好的测试系统的稳定性。这个软件现在的版本包含专门为测试PC子系统负荷的“Torture
 Test”模式。
 
 ## 参看
 
-  - [因特网梅森素数大搜索 (GIMPS)](../Page/互聯網梅森質數大搜索.md "wikilink")
+  - [因特网梅森素数大搜索
+    (GIMPS)](https://zh.wikipedia.org/wiki/互聯網梅森質數大搜索 "wikilink")
   - [梅森素数](../Page/梅森素数.md "wikilink")
   - [分布式计算](../Page/分布式计算.md "wikilink")
 

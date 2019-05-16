@@ -1,7 +1,7 @@
 **Simulink**是[The
-MathWorks公司開發的用於動態系統和嵌入式系统的多領域模擬和](../Page/The_MathWorks.md "wikilink")[基于模型的設計工具](../Page/基于模型的設計.md "wikilink")，常集成于MathWorks公司的另一產品[MATLAB中與之配合使用](../Page/MATLAB.md "wikilink")。
+MathWorks公司開發的用於動態系統和嵌入式系统的多領域模擬和](https://zh.wikipedia.org/wiki/The_MathWorks "wikilink")[基于模型的設計工具](https://zh.wikipedia.org/wiki/基于模型的設計 "wikilink")，常集成于MathWorks公司的另一產品[MATLAB中與之配合使用](../Page/MATLAB.md "wikilink")。
 
-Simulink提供一个交互式的圖形化環境及可定制模塊庫（Library），可对各种，例如通讯、控制、信号处理、影像处理和图像处理系统等进行设计、模擬、执行和测试，也可以進行[基於模型的設計](../Page/基於模型的設計.md "wikilink")。
+Simulink提供一个交互式的圖形化環境及可定制模塊庫（Library），可对各种，例如通讯、控制、信号处理、影像处理和图像处理系统等进行设计、模擬、执行和测试，也可以進行[基於模型的設計](https://zh.wikipedia.org/wiki/基於模型的設計 "wikilink")。
 
 ## 特点
 

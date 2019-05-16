@@ -1,30 +1,30 @@
-**網際網路安全協定**（，縮寫：**IPsec**）是一個[协议套件](../Page/协议套件.md "wikilink")，透过对[IP协议的](../Page/IP协议.md "wikilink")[分组进行](../Page/分组.md "wikilink")[加密和](../Page/加密.md "wikilink")[认证来保护IP协议的](../Page/认证.md "wikilink")[网络传输协议族](../Page/网络传输协议.md "wikilink")（一些相互关联的协议的集合）。
+**網際網路安全協定**（，縮寫：**IPsec**）是一個[协议套件](https://zh.wikipedia.org/wiki/协议套件 "wikilink")，透过对[IP协议的](https://zh.wikipedia.org/wiki/IP协议 "wikilink")[分组进行](https://zh.wikipedia.org/wiki/分组 "wikilink")[加密和](https://zh.wikipedia.org/wiki/加密 "wikilink")[认证来保护IP协议的](https://zh.wikipedia.org/wiki/认证 "wikilink")[网络传输协议族](../Page/网络传输协议.md "wikilink")（一些相互关联的协议的集合）。
 
-IPsec主要由以下[协议组成](../Page/网络传输协议.md "wikilink")\[1\]\[2\]：一、[认证头（AH）](../Page/#认证头（AH）.md "wikilink")，为IP[数据报提供无连接](../Page/数据报.md "wikilink")[数据完整性](../Page/数据完整性.md "wikilink")、以及防[重放攻击保护](../Page/重放攻击.md "wikilink")\[3\]\[4\]；二、[封装安全载荷（ESP）](../Page/#封装安全载荷（ESP）.md "wikilink")，提供机密性、数据源认证、无连接完整性、防重放和有限的传输流（traffic-flow）机密性\[5\]；三、[安全關-{}-聯（SA）](../Page/安全關聯.md "wikilink")，提供算法和数据包，提供AH、ESP操作所需的参数\[6\]。
+IPsec主要由以下[协议组成](../Page/网络传输协议.md "wikilink")\[1\]\[2\]：一、[认证头（AH）](https://zh.wikipedia.org/wiki/#认证头（AH） "wikilink")，为IP[数据报提供无连接](https://zh.wikipedia.org/wiki/数据报 "wikilink")[数据完整性](https://zh.wikipedia.org/wiki/数据完整性 "wikilink")、以及防[重放攻击保护](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")\[3\]\[4\]；二、[封装安全载荷（ESP）](https://zh.wikipedia.org/wiki/#封装安全载荷（ESP） "wikilink")，提供机密性、数据源认证、无连接完整性、防重放和有限的传输流（traffic-flow）机密性\[5\]；三、[安全關-{}-聯（SA）](https://zh.wikipedia.org/wiki/安全關聯 "wikilink")，提供算法和数据包，提供AH、ESP操作所需的参数\[6\]。
 
 ## 标准现状
 
-[IPv6是](../Page/IPv6.md "wikilink")[IETF为](../Page/IETF.md "wikilink")[IP协议分组通信制定的新的因特网标准](../Page/IP协议.md "wikilink")，IPsec在
+[IPv6是](../Page/IPv6.md "wikilink")[IETF为](https://zh.wikipedia.org/wiki/IETF "wikilink")[IP协议分组通信制定的新的因特网标准](https://zh.wikipedia.org/wiki/IP协议 "wikilink")，IPsec在
 RFC 6434
-以前是其中必选的内容\[7\]，但在[IPv4中的使用则一直只是可选的](../Page/IPv4.md "wikilink")。这样做的目的，是为了随着IPv6的进一步流行，IPsec可以得到更为广泛的使用。第一版IPsec协议在[RFCs](../Page/Request_for_Comments.md "wikilink")
+以前是其中必选的内容\[7\]，但在[IPv4中的使用则一直只是可选的](../Page/IPv4.md "wikilink")。这样做的目的，是为了随着IPv6的进一步流行，IPsec可以得到更为广泛的使用。第一版IPsec协议在[RFCs](https://zh.wikipedia.org/wiki/Request_for_Comments "wikilink")
 2401-2409中定义。在2005年第二版标准文档发布，新的文档定义在 RFC 4301 和 RFC 4309 中\[8\]\[9\]。
 
 ## 设计意图
 
-IPsec被设计用来提供（1）入口对入口[通信安全](../Page/通信安全.md "wikilink")，在此机制下，分组通信的安全性由单个节点提供给多台机器（甚至可以是整个[局域网](../Page/局域网.md "wikilink")）；（2）端到端分组通信安全，由作为端点的计算机完成安全操作。上述的任意一种模式都可以用来构建[虚拟专用网](../Page/虚拟专用网.md "wikilink")（VPN），而这也是IPsec最主要的用途之一。应该注意的是，上述两种操作模式在安全的实现方面有着很大差别。
+IPsec被设计用来提供（1）入口对入口[通信安全](https://zh.wikipedia.org/wiki/通信安全 "wikilink")，在此机制下，分组通信的安全性由单个节点提供给多台机器（甚至可以是整个[局域网](../Page/局域网.md "wikilink")）；（2）端到端分组通信安全，由作为端点的计算机完成安全操作。上述的任意一种模式都可以用来构建[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")（VPN），而这也是IPsec最主要的用途之一。应该注意的是，上述两种操作模式在安全的实现方面有着很大差别。
 
-，其中部分原因，是因为其不够普遍或者说不被普遍信任。[公钥基础设施能够得以形成](../Page/公钥基础设施.md "wikilink")（[DNSSEC最初就是为此产生的](../Page/DNSSEC.md "wikilink")），一部分是因为许多用户不能充分地认清他们的需求及可用的选项，导致其作为内含物强加到卖主的产品中（这也必将得到广泛采用）；另一部分可能归因于[网络响应的退化](../Page/滞后.md "wikilink")（或说预期退化），就像[兜售信息的充斥而带来的带宽损失一样](../Page/兜售信息.md "wikilink")。
+，其中部分原因，是因为其不够普遍或者说不被普遍信任。[公钥基础设施能够得以形成](https://zh.wikipedia.org/wiki/公钥基础设施 "wikilink")（[DNSSEC最初就是为此产生的](https://zh.wikipedia.org/wiki/DNSSEC "wikilink")），一部分是因为许多用户不能充分地认清他们的需求及可用的选项，导致其作为内含物强加到卖主的产品中（这也必将得到广泛采用）；另一部分可能归因于[网络响应的退化](https://zh.wikipedia.org/wiki/滞后 "wikilink")（或说预期退化），就像[兜售信息的充斥而带来的带宽损失一样](https://zh.wikipedia.org/wiki/兜售信息 "wikilink")。
 
 ## IPsec与其它互联网安全协议的对比
 
-IPsec协议工作在[OSI模型的第三层](../Page/OSI模型.md "wikilink")，使其在单独使用时适于保护基于[TCP或](../Page/传输控制协议.md "wikilink")[UDP的协议](../Page/用户数据报协议.md "wikilink")（如[安全套接子层](../Page/安全套接子层.md "wikilink")（[SSL](../Page/SSL.md "wikilink")）就不能保护UDP层的通信流）。这就意味着，与传输层或更高层的协议相比，IPsec协议必须处理可靠性和分片的问题，这同时也增加了它的复杂性和处理开销。相对而言，[SSL](../Page/SSL.md "wikilink")/[TLS依靠更高层的](../Page/TLS.md "wikilink")[TCP](../Page/传输控制协议.md "wikilink")（OSI的第四层）来管理可靠性和分片。
+IPsec协议工作在[OSI模型的第三层](../Page/OSI模型.md "wikilink")，使其在单独使用时适于保护基于[TCP或](../Page/传输控制协议.md "wikilink")[UDP的协议](../Page/用户数据报协议.md "wikilink")（如[安全套接子层](https://zh.wikipedia.org/wiki/安全套接子层 "wikilink")（[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")）就不能保护UDP层的通信流）。这就意味着，与传输层或更高层的协议相比，IPsec协议必须处理可靠性和分片的问题，这同时也增加了它的复杂性和处理开销。相对而言，[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")/[TLS依靠更高层的](https://zh.wikipedia.org/wiki/TLS "wikilink")[TCP](../Page/传输控制协议.md "wikilink")（OSI的第四层）来管理可靠性和分片。
 
 ## 技术细节
 
 ### 认证头（AH）
 
 **认证头**（Authentication
-Header，**AH**）被用来保证被传输分组的完整性和可靠性。此外，它还保护不受[重放攻击](../Page/重放攻击.md "wikilink")。认证头试图保护IP数据报的所有字段，那些在传输IP分组的过程中要发生变化的字段就只能被排除在外。当认证头使用非对称数字签名算法（如RSA）时，可以提供不可否认性（RFC
+Header，**AH**）被用来保证被传输分组的完整性和可靠性。此外，它还保护不受[重放攻击](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")。认证头试图保护IP数据报的所有字段，那些在传输IP分组的过程中要发生变化的字段就只能被排除在外。当认证头使用非对称数字签名算法（如RSA）时，可以提供不可否认性（RFC
 1826）\[10\]。
 
 认证头分组图示：
@@ -75,22 +75,25 @@ ESP分组图示：
 
 ## 实现
 
-[FreeS/WAN项目已经开发了一个](../Page/FreeS/WAN.md "wikilink")[开源的](../Page/开源.md "wikilink")[GNU/Linux环境下的IPsec实现](../Page/Linux.md "wikilink")。且一个基于KAME项目的IPsec实现已经包含在[NetBSD](../Page/NetBSD.md "wikilink")、[FreeBSD以及](../Page/FreeBSD.md "wikilink")2.6
+[FreeS/WAN项目已经开发了一个](https://zh.wikipedia.org/wiki/FreeS/WAN "wikilink")[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[GNU/Linux环境下的IPsec实现](../Page/Linux.md "wikilink")。且一个基于KAME项目的IPsec实现已经包含在[NetBSD](../Page/NetBSD.md "wikilink")、[FreeBSD以及](../Page/FreeBSD.md "wikilink")2.6
 [Linux内核中](../Page/Linux内核.md "wikilink")。从某种程度上说，也是因为这个原因，Free
-S/WAN项目的开发在2004年3月时被中止。[Openswan和](../Page/Openswan.md "wikilink")[strongSwan是Free](../Page/strongSwan.md "wikilink")
+S/WAN项目的开发在2004年3月时被中止。[Openswan和](../Page/Openswan.md "wikilink")[strongSwan是Free](https://zh.wikipedia.org/wiki/strongSwan "wikilink")
 S/WAN延续。
 
-至今已有许多IPsec协议和[ISAKMP](../Page/ISAKMP.md "wikilink")／[IKE协议的实现](../Page/IKE.md "wikilink")。它们包括：
+至今已有许多IPsec协议和[ISAKMP](https://zh.wikipedia.org/wiki/ISAKMP "wikilink")／[IKE协议的实现](https://zh.wikipedia.org/wiki/IKE "wikilink")。它们包括：
 
-  - [NRL IPsec](../Page/NRL_IPsec.md "wikilink")，属于原型的一种
+  - [NRL
+    IPsec](https://zh.wikipedia.org/wiki/NRL_IPsec "wikilink")，属于原型的一种
   - [OpenBSD](../Page/OpenBSD.md "wikilink")，代码源于[NRL
-    IPsec](../Page/NRL_IPsec.md "wikilink")
-  - [Mac OS X](../Page/Mac_OS_X.md "wikilink")，包含了[Kame
-    IPsec的代码](../Page/Kame_IPsec.md "wikilink")
-  - [Cisco IOS](../Page/思科IOS.md "wikilink")
-  - [Microsoft Windows](../Page/Microsoft_Windows.md "wikilink")
+    IPsec](https://zh.wikipedia.org/wiki/NRL_IPsec "wikilink")
+  - [Mac OS
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，包含了[Kame
+    IPsec的代码](https://zh.wikipedia.org/wiki/Kame_IPsec "wikilink")
+  - [Cisco IOS](https://zh.wikipedia.org/wiki/思科IOS "wikilink")
+  - [Microsoft
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - [SSH
-    Sentinel](../Page/SSH_Sentinel.md "wikilink")（现作为[SafeNet的一部分](../Page/SafeNet.md "wikilink")）提供了工具包
+    Sentinel](https://zh.wikipedia.org/wiki/SSH_Sentinel "wikilink")（现作为[SafeNet的一部分](https://zh.wikipedia.org/wiki/SafeNet "wikilink")）提供了工具包
   - [Solaris](../Page/Solaris.md "wikilink")
 
 ## 參見
@@ -105,7 +108,8 @@ S/WAN延续。
     RFC 2407: ISAKMP的IPsec解释域（IPsec DoI）
     RFC 2408:
     [網路安全關聯與金鑰管理協定](../Page/網路安全關聯與金鑰管理協定.md "wikilink")（ISAKMP）
-    RFC 2409: [因特网密钥交换](../Page/因特网密钥交换.md "wikilink")（IKE）
+    RFC 2409:
+    [因特网密钥交换](https://zh.wikipedia.org/wiki/因特网密钥交换 "wikilink")（IKE）
 
 ## 参考文献
 
@@ -133,8 +137,8 @@ S/WAN延续。
 4.
 5.
 6.  The [Internet Key
-    Exchange](../Page/Internet_Key_Exchange.md "wikilink") (IKE), RFC
-    2409, §1 Abstract
+    Exchange](https://zh.wikipedia.org/wiki/Internet_Key_Exchange "wikilink")
+    (IKE), RFC 2409, §1 Abstract
 7.  RFC 6434, "IPv6 Node Requirements", E. Jankiewicz, J. Loughney, T.
     Narten (December 2011)
 8.  RFC 4301

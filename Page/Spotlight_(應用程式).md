@@ -1,7 +1,8 @@
-**Spotlight**是[苹果公司旗下的](../Page/苹果公司.md "wikilink")[macOS和](../Page/macOS.md "wikilink")[iOS操作系统上的一項快速搜寻](../Page/iOS.md "wikilink")、随打即显、系統内置的桌面搜尋引擎，工作原理的概念类似[Windows索引服务](../Page/索引服务.md "wikilink")。
+**Spotlight**是[苹果公司旗下的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[iOS操作系统上的一項快速搜寻](https://zh.wikipedia.org/wiki/iOS "wikilink")、随打即显、系統内置的桌面搜尋引擎，工作原理的概念类似[Windows索引服务](../Page/索引服务.md "wikilink")。
 
 Spotlight最早宣布与2004年的[苹果全球开发者大会](../Page/苹果全球开发者大会.md "wikilink")（WWDC），\[1\]并在2005年4月随[Mac
-OS X v10.4 "Tiger"一同发布](../Page/Mac_OS_X_v10.4.md "wikilink")。\[2\]
+OS X v10.4
+"Tiger"一同发布](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")。\[2\]
 
 同样的搜索引擎在2009年3月17日随iOS 3.0发布。
 
@@ -10,12 +11,12 @@ OS X v10.4 "Tiger"一同发布](../Page/Mac_OS_X_v10.4.md "wikilink")。\[2\]
 Spotlight和傳統搜尋主要的差異，在於Spotlight是使用**索引**（Index
 Search）的方式，而傳統搜尋是傳統的文件掃描方式；Spotlight就像是電腦裡面所有的檔案建立一目錄裡面存放索引文件，而要搜尋的時候是去搜尋這個目錄中的索引文件，所以減少了許多一個一個檔案掃描的時間，而傳統掃描則是把整個檔案內容掃描過，所以Spotlight在理論上來說，還是無法取代傳統搜尋功能的。
 
-Spotlight使用[-{zh-hant:後設資料;zh-hans:元数据}-](../Page/元數據.md "wikilink")[搜尋引擎](../Page/搜尋引擎.md "wikilink")，spotlight被設計為可以找到任何位於[電腦中檔案](../Page/電腦.md "wikilink")，包含[文件](../Page/文件.md "wikilink")、圖片、音樂、應用程式、系統喜好設定控制台，也可以是文件或是[PDF中指定的字](../Page/PDF.md "wikilink")。在[Mac
+Spotlight使用[-{zh-hant:後設資料;zh-hans:元数据}-](https://zh.wikipedia.org/wiki/元數據 "wikilink")[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，spotlight被設計為可以找到任何位於[電腦中檔案](https://zh.wikipedia.org/wiki/電腦 "wikilink")，包含[文件](https://zh.wikipedia.org/wiki/文件 "wikilink")、圖片、音樂、應用程式、系統喜好設定控制台，也可以是文件或是[PDF中指定的字](https://zh.wikipedia.org/wiki/PDF "wikilink")。在[Mac
 OS X
-v10.5中](../Page/Mac_OS_X_v10.5.md "wikilink")，在Spotlight直接打數學方程式，Spotlight就會立即顯示計算結果；打英文單字，便可出現定義。Spotlight在使用者的[硬碟中建立metadata關鍵字的](../Page/硬碟.md "wikilink")[資料庫](../Page/資料庫.md "wikilink")，一開始當Mac
+v10.5中](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")，在Spotlight直接打數學方程式，Spotlight就會立即顯示計算結果；打英文單字，便可出現定義。Spotlight在使用者的[硬碟中建立metadata關鍵字的](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，一開始當Mac
 OS X 被安裝後，就會持續在更新。
 
-Spotlight提供使用者[API](../Page/API.md "wikilink")，允許使用者建立自己的附加元件，意思就是使用者可以增加他們自己程式所有擁有的特有資料格式到Spotlight搜尋的能力中。
+Spotlight提供使用者[API](https://zh.wikipedia.org/wiki/API "wikilink")，允許使用者建立自己的附加元件，意思就是使用者可以增加他們自己程式所有擁有的特有資料格式到Spotlight搜尋的能力中。
 
 ## 参考资料
 

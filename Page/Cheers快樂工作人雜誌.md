@@ -1,6 +1,6 @@
-《**Cheers快樂工作人雜誌**》，簡稱《Cheers雜誌》，是一本在[台灣每月發行的](../Page/台灣.md "wikilink")[雜誌](../Page/雜誌.md "wikilink")，是[天下雜誌出版集團的第三本雜誌](../Page/天下雜誌.md "wikilink")，以年輕[上班族為主要對象](../Page/上班族.md "wikilink")，主要報導內容為職場新知與品味生活等議題。該雜誌於2000年4月創刊，初期為季刊，2000年10月從原先一季一本改為每月發行，2005年6月1日成立[線上社群](../Page/線上社群.md "wikilink")「Cheers微笑幫論壇」。
+《**Cheers快樂工作人雜誌**》，簡稱《Cheers雜誌》，是一本在[台灣每月發行的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，是[天下雜誌出版集團的第三本雜誌](../Page/天下雜誌.md "wikilink")，以年輕[上班族為主要對象](../Page/上班族.md "wikilink")，主要報導內容為職場新知與品味生活等議題。該雜誌於2000年4月創刊，初期為季刊，2000年10月從原先一季一本改為每月發行，2005年6月1日成立[線上社群](https://zh.wikipedia.org/wiki/線上社群 "wikilink")「Cheers微笑幫論壇」。
 
-## 歷任[總編輯](../Page/總編輯.md "wikilink")
+## 歷任[總編輯](https://zh.wikipedia.org/wiki/總編輯 "wikilink")
 
   - 吳琬瑜（2000～2007）
   - 劉鳳珍（2007～2008）

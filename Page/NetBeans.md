@@ -1,5 +1,5 @@
 **NetBeans**是由[昇陽電腦](../Page/昇陽電腦.md "wikilink")（Sun
-Microsystems）建立的開放原始碼的軟體開發工具，是一個開發框架，可擴展的開發平台，可以用於[Java](../Page/Java.md "wikilink")，[C語言](../Page/C語言.md "wikilink")／[C++](../Page/C++.md "wikilink")，[PHP](../Page/PHP.md "wikilink")，[HTML5等程式的開發](../Page/HTML5.md "wikilink")，本身是一個開發平台，可以通過擴展插件來擴展功能。
+Microsystems）建立的開放原始碼的軟體開發工具，是一個開發框架，可擴展的開發平台，可以用於[Java](../Page/Java.md "wikilink")，[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")／[C++](../Page/C++.md "wikilink")，[PHP](../Page/PHP.md "wikilink")，[HTML5等程式的開發](../Page/HTML5.md "wikilink")，本身是一個開發平台，可以通過擴展插件來擴展功能。
 
 在NetBeans Platform平台中，應用軟體是用一系列的軟體模組（modular software
 components）建構出來。而這些模組是一個jar檔（Java archive
@@ -11,13 +11,14 @@ file）](../Page/清单文件.md "wikilink")。有賴於模組化帶來的好處
 ## 歷史
 
 NetBeans是一個始於1997年的Xelfi計劃，本身是捷克[布拉格查理大學](../Page/布拉格.md "wikilink")[Charles
-University的數學及物理學院的學生計畫](../Page/Charles_University.md "wikilink")。此計劃延伸而成立了一家公司進而發展這個商用版本的NetBeans
+University的數學及物理學院的學生計畫](https://zh.wikipedia.org/wiki/Charles_University "wikilink")。此計劃延伸而成立了一家公司進而發展這個商用版本的NetBeans
 IDE，直到1999年昇陽電腦買下此公司。昇陽電腦於次年（2000年）的六月將NetBeans
 IDE開放為公開源碼，直到現在NetBeans的社群依然持續增長，而且更多個人及企業使用並開發NetBeans作為程式開發的工具。\[1\]
 
 NetBeans IDE 6.0延伸了原來[Java
-EE的特質](../Page/Java_EE.md "wikilink")。NetBeans C/C++
-Pack更支援C/C++的編程計畫。現行穩定版本對[PHP](../Page/PHP.md "wikilink")、[Ruby及其它](../Page/Ruby.md "wikilink")[腳本語言的支持已非常成熟](../Page/腳本語言.md "wikilink")。2009年，Sun推出Kenai雲項目，並將其整合到Netbeans中，加強了團隊開發的交互性。
+EE的特質](https://zh.wikipedia.org/wiki/Java_EE "wikilink")。NetBeans
+C/C++
+Pack更支援C/C++的編程計畫。現行穩定版本對[PHP](../Page/PHP.md "wikilink")、[Ruby及其它](../Page/Ruby.md "wikilink")[腳本語言的支持已非常成熟](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")。2009年，Sun推出Kenai雲項目，並將其整合到Netbeans中，加強了團隊開發的交互性。
 
 ## NetBeans平台
 
@@ -66,7 +67,7 @@ NetBeans平台是一種可重複使用的框架用於簡化其他桌面應用程
   - [NetbeansIDA-Interactive
     DisassemblerToDecompiler](http://www.idapython.narod.ru/) Netbeans
     module with [Interactive
-    Disassembler](../Page/Interactive_Disassembler.md "wikilink")
+    Disassembler](https://zh.wikipedia.org/wiki/Interactive_Disassembler "wikilink")
   - [Netbeans Archived User
     Forums](https://web.archive.org/web/20061207061427/http://www.techienuggets.com/)
 

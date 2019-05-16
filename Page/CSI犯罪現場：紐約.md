@@ -1,7 +1,7 @@
-《**CSI犯罪現場：紐約**》（****，簡稱****）是一部[美國](../Page/美國.md "wikilink")[刑事](../Page/刑事.md "wikilink")[電視影集](../Page/電視影集.md "wikilink")，首播於2004年9月22日。它是《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的第二個[衍生影集](../Page/衍生影集.md "wikilink")（）。首次出現是在《[CSI犯罪現場:
-邁阿密](../Page/CSI犯罪現場:_邁阿密.md "wikilink")－》第二季的23集（），劇中主角何瑞修（）前往[紐約市追捕一名從邁阿密逃逸的謀殺嫌犯](../Page/紐約市.md "wikilink")。有趣的是，影集在美國播映的時段與[國家廣播公司的](../Page/國家廣播公司.md "wikilink")《[法網遊龍](../Page/法律與秩序.md "wikilink")》（**）一樣，而後者是以[紐約市為舞臺的老牌犯罪影集](../Page/紐約市.md "wikilink")。
+《**CSI犯罪現場：紐約**》（****，簡稱****）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[刑事](https://zh.wikipedia.org/wiki/刑事 "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，首播於2004年9月22日。它是《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的第二個[衍生影集](https://zh.wikipedia.org/wiki/衍生影集 "wikilink")（）。首次出現是在《[CSI犯罪現場:
+邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密 "wikilink")－》第二季的23集（），劇中主角何瑞修（）前往[紐約市追捕一名從邁阿密逃逸的謀殺嫌犯](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。有趣的是，影集在美國播映的時段與[國家廣播公司的](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《[法網遊龍](../Page/法律與秩序.md "wikilink")》（**）一樣，而後者是以[紐約市為舞臺的老牌犯罪影集](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。
 
-除了[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")、[美琳娜·卡娜卡瑞迪斯](../Page/美琳娜·卡娜卡瑞迪斯.md "wikilink")、以及[安娜·貝爾納普以外](../Page/安娜·貝爾納普.md "wikilink")，所有的演員都是來自[紐約](../Page/紐約.md "wikilink")。然而，[蓋瑞·辛尼茲和](../Page/蓋瑞·辛尼茲.md "wikilink")[安娜·貝爾納普都曾在紐約居住過一段時間](../Page/安娜·貝爾納普.md "wikilink")。
+除了[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")、[美琳娜·卡娜卡瑞迪斯](https://zh.wikipedia.org/wiki/美琳娜·卡娜卡瑞迪斯 "wikilink")、以及[安娜·貝爾納普以外](../Page/安娜·貝爾納普.md "wikilink")，所有的演員都是來自[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。然而，[蓋瑞·辛尼茲和](../Page/蓋瑞·辛尼茲.md "wikilink")[安娜·貝爾納普都曾在紐約居住過一段時間](../Page/安娜·貝爾納普.md "wikilink")。
 
 2012年5月13日，CBS续订本片第九季\[1\]。
 
@@ -9,16 +9,16 @@
 
 ## 劇集介紹
 
-  - 主題曲跟其他兩個劇集一樣，選用[何許人合唱團](../Page/何許人合唱團.md "wikilink")（）的曲子，這次選的是《巴巴·歐萊禮》（**）這首歌；它有時候也被誤稱為《青少年荒地》（**），給人速度的快感。
+  - 主題曲跟其他兩個劇集一樣，選用[何許人合唱團](https://zh.wikipedia.org/wiki/何許人合唱團 "wikilink")（）的曲子，這次選的是《巴巴·歐萊禮》（**）這首歌；它有時候也被誤稱為《青少年荒地》（**），給人速度的快感。
 
 <!-- end list -->
 
-  - 在[犯罪现场调查：邁阿密第](../Page/犯罪现场调查：邁阿密.md "wikilink")2季23集引出紐約版，及後犯罪现场调查：紐約正式播出。紐約版與邁阿密版再次出現交錯的劇情（）：邁阿密11月7日播出的第4季第7集「**」為兩區交錯案件的上集；紐約版11月9日播出的第2季第7集「**」，則是交錯案件的下集。故事由一段墜機的事故展開，描寫一個連續殺人犯。兩組人馬都有參與演出。
+  - 在[犯罪现场调查：邁阿密第](https://zh.wikipedia.org/wiki/犯罪现场调查：邁阿密 "wikilink")2季23集引出紐約版，及後犯罪现场调查：紐約正式播出。紐約版與邁阿密版再次出現交錯的劇情（）：邁阿密11月7日播出的第4季第7集「**」為兩區交錯案件的上集；紐約版11月9日播出的第2季第7集「**」，則是交錯案件的下集。故事由一段墜機的事故展開，描寫一個連續殺人犯。兩組人馬都有參與演出。
 
 <!-- end list -->
 
   - 在[2004年11月](../Page/2004年11月.md "wikilink")，[Spike
-    TV電視網以破紀錄的價格](../Page/Spike_TV.md "wikilink")，一集190萬美金，買下了這個系列的重播權。這家電視網先前已經以一集160萬美金的價格買下《CSI犯罪現場》的重播權。《CSI犯罪現場：紐約》預計於2005年末加入的影集重播行列。
+    TV電視網以破紀錄的價格](https://zh.wikipedia.org/wiki/Spike_TV "wikilink")，一集190萬美金，買下了這個系列的重播權。這家電視網先前已經以一集160萬美金的價格買下《CSI犯罪現場》的重播權。《CSI犯罪現場：紐約》預計於2005年末加入的影集重播行列。
 
 <!-- end list -->
 
@@ -27,7 +27,8 @@
 
 <!-- end list -->
 
-  - 在第三季的「Cold Reveal」，出現同為CBS製播的[鐵證懸案](../Page/鐵證懸案.md "wikilink")（Cold
+  - 在第三季的「Cold
+    Reveal」，出現同為CBS製播的[鐵證懸案](https://zh.wikipedia.org/wiki/鐵證懸案 "wikilink")（Cold
     Case）中的Scotty Valens，這是CSI系列首次與非CSI系列影集合作。
 
 <!-- end list -->
@@ -38,7 +39,7 @@
 
 ### 主角
 
-  - **[麥克·泰勒](../Page/麥克·泰勒.md "wikilink")（）：[蓋瑞·辛尼茲飾演](../Page/蓋瑞·辛尼茲.md "wikilink")**，是紐約CSI團隊的領導人，獨身（劇中設定他的妻子死於[911事件](../Page/911事件.md "wikilink")）。曾經在美軍[海軍陸戰隊服役](../Page/海軍陸戰隊.md "wikilink")；他也曾經說過在這世界上最想做的事就是為國家服務。他與波納席拉探員之間有著極其信賴的友誼關係。他是一名[貝斯樂手](../Page/貝斯.md "wikilink")，在一間[爵士樂俱樂部中定期表演](../Page/爵士樂.md "wikilink")。他在第五季二十三集中欣然接受部下丹尼及琳賽請託，擔任他們女兒的[教父](../Page/教父母.md "wikilink")。
+  - **[麥克·泰勒](https://zh.wikipedia.org/wiki/麥克·泰勒 "wikilink")（）：[蓋瑞·辛尼茲飾演](../Page/蓋瑞·辛尼茲.md "wikilink")**，是紐約CSI團隊的領導人，獨身（劇中設定他的妻子死於[911事件](https://zh.wikipedia.org/wiki/911事件 "wikilink")）。曾經在美軍[海軍陸戰隊服役](../Page/海軍陸戰隊.md "wikilink")；他也曾經說過在這世界上最想做的事就是為國家服務。他與波納席拉探員之間有著極其信賴的友誼關係。他是一名[貝斯樂手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，在一間[爵士樂俱樂部中定期表演](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。他在第五季二十三集中欣然接受部下丹尼及琳賽請託，擔任他們女兒的[教父](https://zh.wikipedia.org/wiki/教父母 "wikilink")。
 
 <!-- end list -->
 
@@ -47,7 +48,7 @@
 
 <!-- end list -->
 
-  - **[喬·丹佛](../Page/喬·丹佛.md "wikilink")（）：莎拉·華德（）飾演**，第七季起自華盛頓特區聯邦調查局轉來的新任三級調查員副主管。個性幽默，在第七季第一集中剛到實驗室時，便發現一具屍體，調查時發揮了她驚人的觀察力。
+  - **[喬·丹佛](https://zh.wikipedia.org/wiki/喬·丹佛 "wikilink")（）：莎拉·華德（）飾演**，第七季起自華盛頓特區聯邦調查局轉來的新任三級調查員副主管。個性幽默，在第七季第一集中剛到實驗室時，便發現一具屍體，調查時發揮了她驚人的觀察力。
 
 <!-- end list -->
 
@@ -57,7 +58,7 @@
 
 <!-- end list -->
 
-  - **[丹尼·麥瑟](../Page/丹尼·麥瑟.md "wikilink")（）探員：[卡明·喬文納佐](../Page/卡明·喬文納佐.md "wikilink")（）飾演**，這個角色被認為是影集裡最複雜的一個。他在[史坦頓島的一個](../Page/史坦頓島.md "wikilink")「義大利[黑手黨](../Page/黑手黨.md "wikilink")」家庭中被監視著長大（參見「**」這一集），有著一套自己的混合道德觀（介於違法者與執法者之間）。
+  - **[丹尼·麥瑟](https://zh.wikipedia.org/wiki/丹尼·麥瑟 "wikilink")（）探員：[卡明·喬文納佐](https://zh.wikipedia.org/wiki/卡明·喬文納佐 "wikilink")（）飾演**，這個角色被認為是影集裡最複雜的一個。他在[史坦頓島的一個](https://zh.wikipedia.org/wiki/史坦頓島 "wikilink")「義大利[黑手黨](https://zh.wikipedia.org/wiki/黑手黨 "wikilink")」家庭中被監視著長大（參見「**」這一集），有著一套自己的混合道德觀（介於違法者與執法者之間）。
 
 <!-- end list -->
 
@@ -67,13 +68,13 @@
 <!-- end list -->
 
   -
-    第二季「法網恢恢」中，丹尼被捲入一宗十五年前的兇殺案。他的哥哥路易為得到真正兇手的證言，被痛打癱瘓成植物人，但成功地證明了丹尼的清白。在第五季第九集，丹尼以旁白的方式發展和琳賽的感情。兩人在第五季第十七集公證結婚，由麥克跟史黛拉擔任[證婚人](../Page/證婚人.md "wikilink")。
+    第二季「法網恢恢」中，丹尼被捲入一宗十五年前的兇殺案。他的哥哥路易為得到真正兇手的證言，被痛打癱瘓成植物人，但成功地證明了丹尼的清白。在第五季第九集，丹尼以旁白的方式發展和琳賽的感情。兩人在第五季第十七集公證結婚，由麥克跟史黛拉擔任[證婚人](https://zh.wikipedia.org/wiki/證婚人 "wikilink")。
     於第五季「Pay up」的最後一幕時，和CSI們在小酒吧裡紀念因公殉職的Jessica
     Angell時遭受攻擊不慎被子彈擊中，於第六季起開始漫長的復健之路，但復健期間仍參與CSI辦案。
 
 <!-- end list -->
 
-  - **[薛爾登·霍克](../Page/薛爾登·霍克.md "wikilink")（）法醫與鑑識員：[希爾·哈潑](../Page/希爾·哈潑.md "wikilink")（）飾演**，天才兒童，才18歲就從大學畢業；24歲獲得[外科醫師執業執照](../Page/外科醫師.md "wikilink")。
+  - **[薛爾登·霍克](https://zh.wikipedia.org/wiki/薛爾登·霍克 "wikilink")（）法醫與鑑識員：[希爾·哈潑](https://zh.wikipedia.org/wiki/希爾·哈潑 "wikilink")（）飾演**，天才兒童，才18歲就從大學畢業；24歲獲得[外科醫師執業執照](https://zh.wikipedia.org/wiki/外科醫師 "wikilink")。
 
 <!-- end list -->
 
@@ -93,18 +94,18 @@
 
 <!-- end list -->
 
-  - **[唐·弗拉克](../Page/唐·弗拉克.md "wikilink")（）探員：[艾迪·卡希爾](../Page/艾迪·卡希爾.md "wikilink")（[Eddie
-    Cahill](../Page/埃迪·卡希爾.md "wikilink")）飾演**，來自一個世代從事執法工作的家族。他是紐約警局舊式辦案風格與新時代的之間的橋樑。
+  - **[唐·弗拉克](https://zh.wikipedia.org/wiki/唐·弗拉克 "wikilink")（）探員：[艾迪·卡希爾](https://zh.wikipedia.org/wiki/艾迪·卡希爾 "wikilink")（[Eddie
+    Cahill](https://zh.wikipedia.org/wiki/埃迪·卡希爾 "wikilink")）飾演**，來自一個世代從事執法工作的家族。他是紐約警局舊式辦案風格與新時代的之間的橋樑。
 
 <!-- end list -->
 
   -
-    是個風趣的[重案組探員](../Page/重案組.md "wikilink")，但是對嫌犯缺乏耐心。他的辦案技巧經常遊走於法律容許的邊界，也因此造成不少爭議。他與丹尼·麥瑟是好友，總是願意傾聽後者的問題。
+    是個風趣的[重案組探員](https://zh.wikipedia.org/wiki/重案組 "wikilink")，但是對嫌犯缺乏耐心。他的辦案技巧經常遊走於法律容許的邊界，也因此造成不少爭議。他與丹尼·麥瑟是好友，總是願意傾聽後者的問題。
 
 <!-- end list -->
 
   -
-    在第二季的最後一集「炸彈客」中，他被兇殺案現場的[炸彈炸成重傷](../Page/炸彈.md "wikilink")，到片終時仍然昏迷不醒。在第三季開始時他完全康復並回到工作崗位。在第五季出現他的妹妹。
+    在第二季的最後一集「炸彈客」中，他被兇殺案現場的[炸彈炸成重傷](https://zh.wikipedia.org/wiki/炸彈 "wikilink")，到片終時仍然昏迷不醒。在第三季開始時他完全康復並回到工作崗位。在第五季出現他的妹妹。
 
 <!-- end list -->
 
@@ -121,11 +122,11 @@
 
   -
     丹尼不時表現出對琳賽的興趣；第三季第三集「Love Run
-    Cold」中，當丹尼向琳賽表示他對她有好感時，琳賽承認自己對丹尼也有好感，但因為個人的問題而不希望有進一步的發展。第五季的第九集琳賽懷孕，第十集丹尼求婚，但琳賽拒絕了，因為她認為丹尼還沒準備好要結婚。但丹尼還是在第五季第十七集求婚成功，由麥克跟史黛拉擔任[證婚人](../Page/證婚人.md "wikilink")，並於第二十三集誕下一女。
+    Cold」中，當丹尼向琳賽表示他對她有好感時，琳賽承認自己對丹尼也有好感，但因為個人的問題而不希望有進一步的發展。第五季的第九集琳賽懷孕，第十集丹尼求婚，但琳賽拒絕了，因為她認為丹尼還沒準備好要結婚。但丹尼還是在第五季第十七集求婚成功，由麥克跟史黛拉擔任[證婚人](https://zh.wikipedia.org/wiki/證婚人 "wikilink")，並於第二十三集誕下一女。
 
 <!-- end list -->
 
-  - **[席德·漢默貝克](../Page/席德·漢默貝克.md "wikilink")（）法醫：羅伯特·喬依（）飾演**自第2季起加入的新法醫，取代改投入現場鑑識工作的薛爾登成為紐約警局解剖室的主要法醫。
+  - **[席德·漢默貝克](https://zh.wikipedia.org/wiki/席德·漢默貝克 "wikilink")（）法醫：羅伯特·喬依（）飾演**自第2季起加入的新法醫，取代改投入現場鑑識工作的薛爾登成為紐約警局解剖室的主要法醫。
 
 <!-- end list -->
 
@@ -134,22 +135,22 @@
 
 <!-- end list -->
 
-  - **[亞當](../Page/亞當_\(CSI犯罪現場角色\).md "wikilink")（）：[A.J.
+  - **[亞當](https://zh.wikipedia.org/wiki/亞當_\(CSI犯罪現場角色\) "wikilink")（）：[A.J.
     Buckley飾演](../Page/A·J·巴克利.md "wikilink")**，實驗室技師。在第4季虛擬世界殺人案中，他發揮電腦專長。第5季開始到現場勘驗。
 
 ### 配角
 
-  - 李納德·吉爾斯（）：[傑·葛蘭特·艾爾布萊區](../Page/傑·葛蘭特·艾爾布萊區.md "wikilink")（）飾演，實驗室主管，以前是個跑者，後因意外造成腰部以下癱瘓。
-  - 珍·帕森（）：[桑雅·瓦傑](../Page/桑雅·瓦傑.md "wikilink")（）飾演，實驗室技師。
-  - 查德·溫寧漢（）：[查德·林德勃](../Page/查德·林德勃.md "wikilink")（）飾演，實驗室技師。
-  - 伊凡·趙（）醫生：[隆·袁](../Page/隆·袁.md "wikilink")（）飾演（第2季起），在霍克醫生改從事現場調查工作之後取代了他的工作。他被形容為一個「英俊、年輕、平易近人的醫生」。
-  - 查克·香儂（）：[大衛·朱利安·賀須](../Page/大衛·朱利安·賀須.md "wikilink")（）飾演（第2季起），新來的實驗室技師。
-  - 無名制服警察：[葛瑞格·德哥斯丁諾](../Page/葛瑞格·德哥斯丁諾.md "wikilink")（）飾演（第2季起）。
+  - 李納德·吉爾斯（）：[傑·葛蘭特·艾爾布萊區](https://zh.wikipedia.org/wiki/傑·葛蘭特·艾爾布萊區 "wikilink")（）飾演，實驗室主管，以前是個跑者，後因意外造成腰部以下癱瘓。
+  - 珍·帕森（）：[桑雅·瓦傑](https://zh.wikipedia.org/wiki/桑雅·瓦傑 "wikilink")（）飾演，實驗室技師。
+  - 查德·溫寧漢（）：[查德·林德勃](https://zh.wikipedia.org/wiki/查德·林德勃 "wikilink")（）飾演，實驗室技師。
+  - 伊凡·趙（）醫生：[隆·袁](https://zh.wikipedia.org/wiki/隆·袁 "wikilink")（）飾演（第2季起），在霍克醫生改從事現場調查工作之後取代了他的工作。他被形容為一個「英俊、年輕、平易近人的醫生」。
+  - 查克·香儂（）：[大衛·朱利安·賀須](https://zh.wikipedia.org/wiki/大衛·朱利安·賀須 "wikilink")（）飾演（第2季起），新來的實驗室技師。
+  - 無名制服警察：[葛瑞格·德哥斯丁諾](https://zh.wikipedia.org/wiki/葛瑞格·德哥斯丁諾 "wikilink")（）飾演（第2季起）。
 
 ### 離開的角色
 
   - 艾婷·波恩（）探員：
-    飾演，她土生土長於[布魯克林區](../Page/布魯克林區.md "wikilink")，具有可以快速適應新情境的能力。
+    飾演，她土生土長於[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")，具有可以快速適應新情境的能力。
 
 <!-- end list -->
 
@@ -159,7 +160,7 @@
 <!-- end list -->
 
   - 史黛拉·波納席拉（）探員：
-    飾演，把自己完全奉獻給工作。她常常被叫做「[自由女神](../Page/自由女神.md "wikilink")」，因為她強硬的個性、強烈的決心、以及高度的智慧使然。她是一半[希臘](../Page/希臘.md "wikilink")、一半[義大利血統的孤兒](../Page/義大利.md "wikilink")，從小在[寄養家庭中長大](../Page/寄養家庭.md "wikilink")。她跟麥克是非常好的朋友，總是擔心他的生理與心理的狀態。
+    飾演，把自己完全奉獻給工作。她常常被叫做「[自由女神](https://zh.wikipedia.org/wiki/自由女神 "wikilink")」，因為她強硬的個性、強烈的決心、以及高度的智慧使然。她是一半[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、一半[義大利血統的孤兒](https://zh.wikipedia.org/wiki/義大利 "wikilink")，從小在[寄養家庭中長大](https://zh.wikipedia.org/wiki/寄養家庭 "wikilink")。她跟麥克是非常好的朋友，總是擔心他的生理與心理的狀態。
 
 <!-- end list -->
 
@@ -189,12 +190,13 @@
 
 ## 集名列表
 
-每集的故事大綱請見[CSI犯罪現場：紐約章節列表](../Page/CSI犯罪現場：紐約章節列表.md "wikilink")。
+每集的故事大綱請見[CSI犯罪現場：紐約章節列表](https://zh.wikipedia.org/wiki/CSI犯罪現場：紐約章節列表 "wikilink")。
 
 ## 參見
 
   - [CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")
-  - [CSI犯罪現場: 邁阿密](../Page/CSI犯罪現場:_邁阿密.md "wikilink")
+  - [CSI犯罪現場:
+    邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密 "wikilink")
 
 ## 参考文献
 

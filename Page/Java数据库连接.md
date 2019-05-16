@@ -1,9 +1,9 @@
 [Crystal_source_java.png](https://zh.wikipedia.org/wiki/File:Crystal_source_java.png "fig:Crystal_source_java.png")
 
-**Java数据库连接**，（，简称）是[Java语言中用来规范](../Page/Java语言.md "wikilink")[客户端程序如何来访问](../Page/客户端.md "wikilink")[数据库的](../Page/数据库.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，提供了诸如查询和更新数据库中数据的方法。JDBC也是[Sun
-Microsystems的](../Page/Sun_Microsystems.md "wikilink")[商标](../Page/商标.md "wikilink")\[1\]。JDBC是面向[关系型数据库的](../Page/关系型数据库.md "wikilink")。
+**Java数据库连接**，（，简称）是[Java语言中用来规范](https://zh.wikipedia.org/wiki/Java语言 "wikilink")[客户端程序如何来访问](https://zh.wikipedia.org/wiki/客户端 "wikilink")[数据库的](../Page/数据库.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，提供了诸如查询和更新数据库中数据的方法。JDBC也是[Sun
+Microsystems的](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[商标](../Page/商标.md "wikilink")\[1\]。JDBC是面向[关系型数据库的](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")。
 
-在[J2SE中](../Page/J2SE.md "wikilink")，提供了一个称之为JDBC-ODBC桥（JDBC-ODBC
+在[J2SE中](https://zh.wikipedia.org/wiki/J2SE "wikilink")，提供了一个称之为JDBC-ODBC桥（JDBC-ODBC
 Bridge\[2\]）的API。通过[ODBC](../Page/ODBC.md "wikilink")，JDBC-ODBC桥[驱动程序可以访问所有支持ODBC的关系型数据库](../Page/驱动程序.md "wikilink")。与JDBC
 API不同的是，这个驱动程序并不是由Java代码而是由[機器碼](../Page/机器语言.md "wikilink")（native
 code）编写，并且不是[开放源代码的](../Page/开放源代码.md "wikilink")\[3\]。
@@ -14,7 +14,7 @@ JDBC驱动程序共分四种类型：
 
 ### 类型1：JDBC-ODBC桥
 
-这种类型的驱动把所有JDBC的调用传递给ODBC，再让后者调用数据库本地驱动代码（也就是数据库厂商提供的数据库操作二进制代码库，例如[Oracle中的oci](../Page/Oracle.md "wikilink").dll）。
+这种类型的驱动把所有JDBC的调用传递给ODBC，再让后者调用数据库本地驱动代码（也就是数据库厂商提供的数据库操作二进制代码库，例如[Oracle中的oci](https://zh.wikipedia.org/wiki/Oracle "wikilink").dll）。
 
 优点：
 
@@ -27,7 +27,7 @@ JDBC驱动程序共分四种类型：
 
 ### 类型2：本地API驱动
 
-这种类型的驱动通过客户端加载数据库厂商提供的本地代码库（[C](../Page/C语言.md "wikilink")／[C++等](../Page/C++.md "wikilink")）来访问数据库，而在驱动程序中则包含了Java代码。
+这种类型的驱动通过客户端加载数据库厂商提供的本地代码库（[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")／[C++等](../Page/C++.md "wikilink")）来访问数据库，而在驱动程序中则包含了Java代码。
 
 优点：
 
@@ -39,7 +39,7 @@ JDBC驱动程序共分四种类型：
 
 ### 类型3：网络协议驱动
 
-这种类型的驱动给客户端提供了一个网络API，客户端上的JDBC驱动程序使用[套接字](../Page/套接字.md "wikilink")（Socket）来调用服务器上的中间件程序，后者在将其请求转化为所需的具体API调用。
+这种类型的驱动给客户端提供了一个网络API，客户端上的JDBC驱动程序使用[套接字](https://zh.wikipedia.org/wiki/套接字 "wikilink")（Socket）来调用服务器上的中间件程序，后者在将其请求转化为所需的具体API调用。
 
 优点：
 
@@ -66,7 +66,7 @@ JDBC驱动程序共分四种类型：
 
 ## API概述
 
-*参看[JavaSE以及](../Page/JavaSE.md "wikilink")[java.sql
+*参看[JavaSE以及](https://zh.wikipedia.org/wiki/JavaSE "wikilink")[java.sql
 API](https://web.archive.org/web/20050709074831/http://java.sun.com/j2se/1.4.2/docs/api/java/sql/package-summary.html)*
 
 JDBC
@@ -77,7 +77,7 @@ API主要位于JDK中的java.sql包中（之后扩展的内容位于javax.sql包
   - *Connection*：数据库连接，负责进行与数据库间的通讯，[SQL执行以及事务处理都是在某个特定Connection环境中进行的](../Page/SQL.md "wikilink")。可以产生用以执行SQL的Statement。
   - *Statement*：用以执行SQL查询和更新（针对静态SQL语句和单次执行）。
   - *PreparedStatement*：用以执行包含动态参数的SQL查询和更新（在服务器端编译，允许重复执行以提高效率）。
-  - *CallableStatement*：用以调用数据库中的[存储过程](../Page/存储过程.md "wikilink")。
+  - *CallableStatement*：用以调用数据库中的[存储过程](https://zh.wikipedia.org/wiki/存储过程 "wikilink")。
   - SQLException：代表在数据库连接的建立和关闭和SQL语句的执行过程中发生了例外情况（即错误）。
 
 ### 数据类型的映射
@@ -122,7 +122,7 @@ Class.forName( "com.somejdbcvendor.TheirJdbcDriver" );
 ```
 
 然后，从DriverManager中，通过JDBC
-[URL](../Page/URL.md "wikilink")，用户名，密码来获取相应的数据库连接（*Connection*）：
+[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，用户名，密码来获取相应的数据库连接（*Connection*）：
 
 ``` java
 Connection conn = DriverManager.getConnection(
@@ -193,7 +193,7 @@ Connection conn = DriverManager.getConnection(
  }
 ```
 
-如果数据库操作失败，JDBC将抛出一个[SQLException](../Page/SQLException.md "wikilink")。一般来说，此类异常很少能够恢复，唯一能做的就是尽可能详细的打印异常日记。推荐的做法是将SQLException翻译成应用程序领域相关的异常（非强制处理异常）并最终回滚数据库和通知用户。
+如果数据库操作失败，JDBC将抛出一个[SQLException](https://zh.wikipedia.org/wiki/SQLException "wikilink")。一般来说，此类异常很少能够恢复，唯一能做的就是尽可能详细的打印异常日记。推荐的做法是将SQLException翻译成应用程序领域相关的异常（非强制处理异常）并最终回滚数据库和通知用户。
 
 一个[数据库事务代码如下](../Page/数据库事务.md "wikilink")：
 
@@ -230,8 +230,8 @@ try {
 
   - [数据库](../Page/数据库.md "wikilink")
   - [Java](../Page/Java.md "wikilink")
-  - [J2SE](../Page/J2SE.md "wikilink")
-  - [J2EE](../Page/J2EE.md "wikilink")
+  - [J2SE](https://zh.wikipedia.org/wiki/J2SE "wikilink")
+  - [J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink")
   - [ODBC](../Page/ODBC.md "wikilink")
   - [ADO](../Page/ADO.md "wikilink")
   - [ADO.NET](../Page/ADO.NET.md "wikilink")

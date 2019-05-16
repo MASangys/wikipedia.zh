@@ -1,8 +1,9 @@
-**FlightGear**是一个始于1997年[多平台](../Page/多平台.md "wikilink")[飞行模拟器](../Page/飞行模拟器.md "wikilink")、[自由软件项目](../Page/自由软件.md "wikilink")。\[1\]
+**FlightGear**是一个始于1997年[多平台](https://zh.wikipedia.org/wiki/多平台 "wikilink")[飞行模拟器](https://zh.wikipedia.org/wiki/飞行模拟器 "wikilink")、[自由软件项目](../Page/自由软件.md "wikilink")。\[1\]
 
 它自1997年第一次发布以来不断发展，2007年12月发布1.0.0版本。该项目适用的[操作系统主要包括](../Page/操作系统.md "wikilink")[Linux](../Page/Linux.md "wikilink")、[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")，需要支持[OpenGL](../Page/OpenGL.md "wikilink")
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
+OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，需要支持[OpenGL](../Page/OpenGL.md "wikilink")
 1.0。该项目采用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，故为[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 历史
@@ -26,9 +27,9 @@ LaRCsim模型（来自NASA）还有其他自由使用的数据。
 
 [FG-A-10.jpg](https://zh.wikipedia.org/wiki/File:FG-A-10.jpg "fig:FG-A-10.jpg")
 in version 1.0.0 in 2008\]\]
-FlightGear的图像效果和同期的*[X-Plane](../Page/X-Plane_\(游戏\).md "wikilink")*
+FlightGear的图像效果和同期的*[X-Plane](https://zh.wikipedia.org/wiki/X-Plane_\(游戏\) "wikilink")*
 相比过时了， 但是也有了长足进步，远好于其他开源的飞行模拟器如*ACM Flight Simulator*和
-*Vertigo*。免费分发[SRTM评估](../Page/Shuttle_Radar_Topography_Mission.md "wikilink")，独特功能，如斜坡跑道。超过20,000
+*Vertigo*。免费分发[SRTM评估](https://zh.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission "wikilink")，独特功能，如斜坡跑道。超过20,000
 跑道, 3D云彩，多平台支持， 多样的开放飞行数据模型flight data model (FDM)可以选择，总共有大约100种飞行器。
 
 ### 版本 1.1.0-2.0.0
@@ -44,20 +45,20 @@ FlightGear的图像效果和同期的*[X-Plane](../Page/X-Plane_\(游戏\).md "w
 2012年2月17日发布2.6.0版本，在飞机操作、AI、环境、空气动力学、接口、场景、视觉效果等方面做出进一步改进。恢复了对64位Windows操作系统的支持。
 
 FlightGear需求 [OpenGL](../Page/OpenGL.md "wikilink")
-3D硬件加速，[NVIDIA产品得到更好的支持](../Page/NVIDIA.md "wikilink")。早先支持[3dfx显示卡](../Page/3dfx.md "wikilink")，因为硬件要求提升而最终被抛弃。
+3D硬件加速，[NVIDIA产品得到更好的支持](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。早先支持[3dfx显示卡](https://zh.wikipedia.org/wiki/3dfx "wikilink")，因为硬件要求提升而最终被抛弃。
 
 FlightGear被应用于一些领域。\[4\]
 
 ## 软件
 
-引擎是[SimGear](../Page/SimGear.md "wikilink")。
+引擎是[SimGear](https://zh.wikipedia.org/wiki/SimGear "wikilink")。
 
 ### Flight Dynamics Models
 
 飞行动态模型 Flight Dynamics Models (FDM)是飞行模拟的主要部分。
 
-  - [JSBSim](../Page/JSBSim.md "wikilink")－2000年后用的动态模型。由Jon Berndt起步。
-    \[5\]
+  - [JSBSim](https://zh.wikipedia.org/wiki/JSBSim "wikilink")－2000年后用的动态模型。由Jon
+    Berndt起步。 \[5\]
 
 ### FlightGear 依赖
 

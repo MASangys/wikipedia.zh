@@ -1,13 +1,13 @@
-**Xanga**是一個提供[網誌托管服務的](../Page/網誌.md "wikilink")[網站](../Page/網站.md "wikilink")，服務包括[攝影博客](../Page/攝影博客.md "wikilink")，[網誌及](../Page/網誌.md "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")。它由一家基地為[美國](../Page/美國.md "wikilink")[紐約市的Xanga](../Page/紐約市.md "wikilink").com公司於1999年運作，擁有4,000萬來自世界各地的用戶使用其服務\[1\]。截至2013年6月，Xanga更出現了財務困難，面臨倒閉危機。
+**Xanga**是一個提供[網誌托管服務的](../Page/網誌.md "wikilink")[網站](../Page/網站.md "wikilink")，服務包括[攝影博客](https://zh.wikipedia.org/wiki/攝影博客 "wikilink")，[網誌及](../Page/網誌.md "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")。它由一家基地為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市的Xanga](https://zh.wikipedia.org/wiki/紐約市 "wikilink").com公司於1999年運作，擁有4,000萬來自世界各地的用戶使用其服務\[1\]。截至2013年6月，Xanga更出現了財務困難，面臨倒閉危機。
 
 ## 起源
 
 Xanga始於1999年10月，作為一個分享書籍和音樂評論的網站，其格式與目前的有所不同。隨後一年，Xanga透過虛擬的公關人員Bianca
-Broussard於[雅虎地球村](../Page/雅虎地球村.md "wikilink")（GeoCities）發送一系列的電郵招聘以作公開招募\[2\]。2001年，創意總監[比茲·斯通離開Xanga](../Page/比茲·斯通.md "wikilink")\[3\]，他最終成為了[谷歌的](../Page/谷歌.md "wikilink")[部落格團隊中的一員](../Page/部落格.md "wikilink")，他後來到一家新的互聯網起動公司Odeo工作。
+Broussard於[雅虎地球村](../Page/雅虎地球村.md "wikilink")（GeoCities）發送一系列的電郵招聘以作公開招募\[2\]。2001年，創意總監[比茲·斯通離開Xanga](https://zh.wikipedia.org/wiki/比茲·斯通 "wikilink")\[3\]，他最終成為了[谷歌的](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[部落格團隊中的一員](https://zh.wikipedia.org/wiki/部落格 "wikilink")，他後來到一家新的互聯網起動公司Odeo工作。
 
 接下來的幾年裡，Xanga經歷了幾次格式上的轉變。在2002年，精選內容被劃分為額外和經典閱覽版本\[4\]，以額外閱覽版本為預設值。2005年，由於Xanga推出了額外閱覽的升級版本而使終生閱覽版本被撤回\[5\]。最終，Xanga加入了新的外觀功能，如朋友、輕推和聊天板的功能被添加，類似於[Facebook](../Page/Facebook.md "wikilink")。2006年，Xanga推出了視頻和音頻的功能\[6\]。
 
-根據互聯網指標網站[Alexa網路的排名](../Page/Alexa網路.md "wikilink")，Xanga於2005年-2008年長期穩居於全球最受歡迎網頁50位以內；當時它於香港的排名更高\[7\]。不過，Xanga的排名自2007年以來一直在下降\[8\]。而從2009年起隨著有社交網站推出網誌功能，令普遍使用者人數不斷下降，其網絡排名亦隨之下跌。2010年，根據Alexa網路排名，Xanga於全球排名第1,638位。2012年8月，Xanga於此排名已下降至全球排名第3,932位。
+根據互聯網指標網站[Alexa網路的排名](https://zh.wikipedia.org/wiki/Alexa網路 "wikilink")，Xanga於2005年-2008年長期穩居於全球最受歡迎網頁50位以內；當時它於香港的排名更高\[7\]。不過，Xanga的排名自2007年以來一直在下降\[8\]。而從2009年起隨著有社交網站推出網誌功能，令普遍使用者人數不斷下降，其網絡排名亦隨之下跌。2010年，根據Alexa網路排名，Xanga於全球排名第1,638位。2012年8月，Xanga於此排名已下降至全球排名第3,932位。
 
 ## 整體特色
 
@@ -26,7 +26,7 @@ Xanga的核心部分是訂閱其他Xanga的功能，訂閱功能容許用戶對�
 
 [Photoxanga.jpg](https://zh.wikipedia.org/wiki/File:Photoxanga.jpg "fig:Photoxanga.jpg")
 
-每一個Xanga的使用者都可以使用[攝影博客功能](../Page/攝影博客.md "wikilink")。截至2006年春天，Xanga的攝影博客功能集中於網誌中上傳圖片。早於2001年5月1日起，Xanga已開始提供圖片上傳服務。最初，圖片上傳僅限於高級使用者專用，並且每名使用者受到20MB儲存空間的限制（儘管有關措施並非強制執行）。後來在2005年4月7日，Xanga徹底改變了它的圖片系統，藉此提升了相片質素及影像大小，以及提升了整個系統的負載能力\[11\]。隨後在2005年8月5日，隨著新的相片管理系統的試驗版正式推出，該功能讓使用者更容易地編輯及瀏覽他們的相片\[12\]。
+每一個Xanga的使用者都可以使用[攝影博客功能](https://zh.wikipedia.org/wiki/攝影博客 "wikilink")。截至2006年春天，Xanga的攝影博客功能集中於網誌中上傳圖片。早於2001年5月1日起，Xanga已開始提供圖片上傳服務。最初，圖片上傳僅限於高級使用者專用，並且每名使用者受到20MB儲存空間的限制（儘管有關措施並非強制執行）。後來在2005年4月7日，Xanga徹底改變了它的圖片系統，藉此提升了相片質素及影像大小，以及提升了整個系統的負載能力\[11\]。隨後在2005年8月5日，隨著新的相片管理系統的試驗版正式推出，該功能讓使用者更容易地編輯及瀏覽他們的相片\[12\]。
 
 在2005年8月30日，Xanga宣佈所有高級用戶會獲得一個1GB的大容量照片上載服務\[13\]。2005年9月9日，Xanga新增了網上批量上傳照片的功能；2005年9月26日，所有Xanga的免費用戶都獲得一個1GB的免費照片存儲空間，而收費用戶則增加到擁有2GB的存儲空間\[14\]。2005年9月28日，增加了對流動博客的支援\[15\]。
 
@@ -83,7 +83,7 @@ Xanga開發了一個標記系統，容許用戶輕鬆地報告違反Xanga使用�
 
 ### 評級
 
-為了解決內容整潔的問題，Xanga創建了一個評級系統，除其他事項外，限制了年齡不適合的人進入。Xanga的「安全瀏覽」，也被稱為「Xanga評級」，容許人們以一至五顆星來為他們的Xanga網站評級。若一個Xanga網站設置於最高級別的（明晰的內容），只能在信用卡驗證後才能查看\[29\]。此評級是仿照[電影分級制度](../Page/美國電影分級制度.md "wikilink")。
+為了解決內容整潔的問題，Xanga創建了一個評級系統，除其他事項外，限制了年齡不適合的人進入。Xanga的「安全瀏覽」，也被稱為「Xanga評級」，容許人們以一至五顆星來為他們的Xanga網站評級。若一個Xanga網站設置於最高級別的（明晰的內容），只能在信用卡驗證後才能查看\[29\]。此評級是仿照[電影分級制度](https://zh.wikipedia.org/wiki/美國電影分級制度 "wikilink")。
 
 ### 安全性
 
@@ -91,7 +91,7 @@ Xanga開發了一個標記系統，容許用戶輕鬆地報告違反Xanga使用�
 
 ### 由美國聯邦貿易委員會提出的民事罰款
 
-2006年9月，Xanga由於違反了《[兒童在線隱私保護法案](../Page/兒童在線隱私保護法案.md "wikilink")（[COPPA](../Page/COPPA.md "wikilink")）》而被美國[聯邦貿易委員會罰款](../Page/聯邦貿易委員會.md "wikilink")$1,000,000美元，是對於任何在線公司最大的罰款。那是由於Xanga被發現在未經當事人父母的同意下收集了13歲以下兒童的私人信息，從而獲得商業利益。Xanga並沒有在他們的網站上張貼使用條款，亦沒有發表他們涉及到兒童的實踐\[32\]。
+2006年9月，Xanga由於違反了《[兒童在線隱私保護法案](https://zh.wikipedia.org/wiki/兒童在線隱私保護法案 "wikilink")（[COPPA](https://zh.wikipedia.org/wiki/COPPA "wikilink")）》而被美國[聯邦貿易委員會罰款](../Page/聯邦貿易委員會.md "wikilink")$1,000,000美元，是對於任何在線公司最大的罰款。那是由於Xanga被發現在未經當事人父母的同意下收集了13歲以下兒童的私人信息，從而獲得商業利益。Xanga並沒有在他們的網站上張貼使用條款，亦沒有發表他們涉及到兒童的實踐\[32\]。
 
 ### 報告不恰當內容
 
@@ -163,14 +163,14 @@ Xanga官方網頁內的FAQ 頁面中表示員工讀Xanga讀音為"ZANG-uh". \[35
   - ex-an-guh
 
   - （粵語化的讀音，[粵拼](../Page/香港語言學學會粵語拼音方案.md "wikilink")：seng1
-    gaa4，有人會取其諧音字，寫作「腥架」。此讀法於[港澳地區常用](../Page/港澳地區.md "wikilink")。因[廣東話裡沒有](../Page/廣東話.md "wikilink")\[z\]，故讀作\[s\]音。）
+    gaa4，有人會取其諧音字，寫作「腥架」。此讀法於[港澳地區常用](../Page/港澳地區.md "wikilink")。因[廣東話裡沒有](https://zh.wikipedia.org/wiki/廣東話 "wikilink")\[z\]，故讀作\[s\]音。）
 
 Xanga行政總裁 John 表示，"Xanga"一詞來自他的兒子綽號。“**Xceptionally Awesome Ninja
 GangstA**”。
 
 ## 批評
 
-Xanga亦被批評指它為用戶提供*太大*彈性，包括可使用自己的[JavaScript](../Page/JavaScript.md "wikilink")。這功能曾在2004年下半年被用作對[Slashdot的](../Page/Slashdot.md "wikilink")[DDOS攻擊](../Page/DDOS.md "wikilink")。\[36\]
+Xanga亦被批評指它為用戶提供*太大*彈性，包括可使用自己的[JavaScript](../Page/JavaScript.md "wikilink")。這功能曾在2004年下半年被用作對[Slashdot的](../Page/Slashdot.md "wikilink")[DDOS攻擊](https://zh.wikipedia.org/wiki/DDOS "wikilink")。\[36\]
 
 ## Xanga 在香港
 

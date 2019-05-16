@@ -1,5 +1,6 @@
-**PostgreSQL**是[自由的](../Page/自由软件.md "wikilink")[对象-关系型数据库服务器](../Page/对象-关系型数据库.md "wikilink")（[数据库管理系统](../Page/数据库管理系统.md "wikilink")），在灵活的[BSD许可证下发行](../Page/BSD许可证.md "wikilink")。它在其他开放源代码数据库系统（比如[MySQL和](../Page/MySQL.md "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")），和[专有系统](../Page/专有软件.md "wikilink")（比如[Oracle](../Page/甲骨文公司.md "wikilink")、[Sybase](../Page/Sybase.md "wikilink")、IBM的[DB2和](../Page/DB2.md "wikilink")[Microsoft
-SQL Server](../Page/Microsoft_SQL_Server.md "wikilink")）之外，为用户又提供了一种选择。
+**PostgreSQL**是[自由的](../Page/自由软件.md "wikilink")[对象-关系型数据库服务器](https://zh.wikipedia.org/wiki/对象-关系型数据库 "wikilink")（[数据库管理系统](../Page/数据库管理系统.md "wikilink")），在灵活的[BSD许可证下发行](../Page/BSD许可证.md "wikilink")。它在其他开放源代码数据库系统（比如[MySQL和](../Page/MySQL.md "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")），和[专有系统](../Page/专有软件.md "wikilink")（比如[Oracle](../Page/甲骨文公司.md "wikilink")、[Sybase](../Page/Sybase.md "wikilink")、IBM的[DB2和](https://zh.wikipedia.org/wiki/DB2 "wikilink")[Microsoft
+SQL
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")）之外，为用户又提供了一种选择。
 
 PostgreSQL不寻常的名字导致一些读者停下来尝试拼读它，特别是那些把[SQL拼读为](../Page/SQL.md "wikilink")"sequel"的人。PostgreSQL开发者把它拼读为"post-gress-Q-L"。（[Audio
 sample](http://www.postgresql.org/files/postgresql.mp3)，5.6k
@@ -8,7 +9,7 @@ MP3）。它也经常被简略唸为"postgres"。
 ## 历史
 
 PostgreSQL经历了长时间的演变，开始于在[UC
-Berkeley的](../Page/UC_Berkeley.md "wikilink")[Ingres计划](../Page/Ingres.md "wikilink")。这个计划的领导者[迈克尔·斯通布雷克在](../Page/迈克尔·斯通布雷克.md "wikilink")1982年离开Berkeley去商业化Ingres，但是最后还是返回了学术界。在1985年返回Berkeley之后，Stonebraker开始了post-Ingres计划来致力于在1980年代早期变得日益清楚的、当代数据库系统的问题。Postgres和Ingres的代码库开始（并保持）完全分离了。
+Berkeley的](https://zh.wikipedia.org/wiki/UC_Berkeley "wikilink")[Ingres计划](../Page/Ingres.md "wikilink")。这个计划的领导者[迈克尔·斯通布雷克在](../Page/迈克尔·斯通布雷克.md "wikilink")1982年离开Berkeley去商业化Ingres，但是最后还是返回了学术界。在1985年返回Berkeley之后，Stonebraker开始了post-Ingres计划来致力于在1980年代早期变得日益清楚的、当代数据库系统的问题。Postgres和Ingres的代码库开始（并保持）完全分离了。
 
 新项目**Postgres**的目的是通过增加所需要的最少的功能来完全支持类型。这些功能包括类型定义和完整描述联系的能力。
 完整描述联系的能力之前虽广为使用但却需要用户来维护。Postgres的数据库能够"理解"联系，并可以使用*规则*以自然的方式在有关的表中检索信息。
@@ -16,43 +17,46 @@ Berkeley的](../Page/UC_Berkeley.md "wikilink")[Ingres计划](../Page/Ingres.md 
 从1986年开始项目组发表了一些描述系统基本原理的论文，并在1988年这项计划建成并运行了一个原型版本。项目组在1989年六月向少数用户发行了版本1，随后在1990年六月发行了带有重写后的规则系统的版本2。1991年的版本3再次重写了规则系统，并增加了对多个存储管理器和改进的查询引擎的支持。在1993年就有大量的用户存在了，并开始用对支持和特征的要求淹没这个计划。在发行了主要作为最后清理的版本4之后计划就终止了。
 
 尽管Postgres计划正式的终止了，[BSD许可证](../Page/BSD许可证.md "wikilink")（Berkeley在其下发行的Postgres）却使[开放源代码开发者获得副本并进一步开发系统](../Page/开放源代码.md "wikilink")。在1994年，两个[UC
-Berkeley大学的研究生](../Page/UC_Berkeley.md "wikilink") Andrew Yu和Jolly Chen
-增加了一个[SQL语言解释器来替代早先的基于Ingres的](../Page/SQL.md "wikilink")[QUEL系统](../Page/QUEL.md "wikilink")，建立了Postgres95。代码随后被发行到web上来在世界上找寻它自己的出路。在1996年计划被重命名了：为了反映数据库的新SQL查询语言，Postgres95变成了PostgreSQL。
+Berkeley大学的研究生](https://zh.wikipedia.org/wiki/UC_Berkeley "wikilink")
+Andrew Yu和Jolly Chen
+增加了一个[SQL语言解释器来替代早先的基于Ingres的](../Page/SQL.md "wikilink")[QUEL系统](https://zh.wikipedia.org/wiki/QUEL "wikilink")，建立了Postgres95。代码随后被发行到web上来在世界上找寻它自己的出路。在1996年计划被重命名了：为了反映数据库的新SQL查询语言，Postgres95变成了PostgreSQL。
 
-第一次PostgreSQL发行形成了版本6.0。随后来自世界各地的一组数据库开发者和志愿者，通过[Internet协作起来](../Page/Internet.md "wikilink")，维护着这套软件。自从版本6.0之后，出现了很多后续发行，在系统中也出现了很多改进；在2005年1月19日，版本8.0成为当前发行。自8.0后，PostgreSQL以原生（Native）的方式，运行于Windows系统。
+第一次PostgreSQL发行形成了版本6.0。随后来自世界各地的一组数据库开发者和志愿者，通过[Internet协作起来](https://zh.wikipedia.org/wiki/Internet "wikilink")，维护着这套软件。自从版本6.0之后，出现了很多后续发行，在系统中也出现了很多改进；在2005年1月19日，版本8.0成为当前发行。自8.0后，PostgreSQL以原生（Native）的方式，运行于Windows系统。
 
 尽管许可证允许Postgres的商业化，Postgres代码没有像Ingres那样快速的被商业开发--
 考虑到Postgres提供的好处这有些令人惊奇。主要分支起源于Paula
 Hawthorn（从Ingres转移来的最初的Ingres项目组成员）和Michael
-Stonebraker组建[Illustra信息技术公司来商业化Postgres的时候](../Page/Illustra信息技术公司.md "wikilink")。
+Stonebraker组建[Illustra信息技术公司来商业化Postgres的时候](https://zh.wikipedia.org/wiki/Illustra信息技术公司 "wikilink")。
 
 在2005年一月，PostgreSQL收到了它来自数据库厂商的第一份援助。[Pervasive
-Software](../Page/Pervasive_Software.md "wikilink")（[1](http://www.pervasivepostgres.com)）宣布了商业支持和社区参与。
+Software](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")（[1](http://www.pervasivepostgres.com)）宣布了商业支持和社区参与。
 
-2000年，前[Red Hat投資者籌組了一間名為](../Page/Red_Hat.md "wikilink")[Great
-Bridge的公司來商業化PostgreSQL](../Page/Great_Bridge.md "wikilink")，以和其他商用資料庫廠商競爭。[Great
-Bridge資助了好幾位PostgreSQL開發者](../Page/Great_Bridge.md "wikilink")，並且貢獻回饋了許多資源給社群。然而到了2001年末，[Great
-Bridge終止了營運](../Page/Great_Bridge.md "wikilink")，因為像是[Red
-Hat](../Page/Red_Hat.md "wikilink")...等等公司面臨了嚴酷的競爭，且市場狀況不佳。
+2000年，前[Red
+Hat投資者籌組了一間名為](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[Great
+Bridge的公司來商業化PostgreSQL](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，以和其他商用資料庫廠商競爭。[Great
+Bridge資助了好幾位PostgreSQL開發者](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，並且貢獻回饋了許多資源給社群。然而到了2001年末，[Great
+Bridge終止了營運](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，因為像是[Red
+Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")...等等公司面臨了嚴酷的競爭，且市場狀況不佳。
 
 2001年，[Command Prompt,
-Inc.发布了](../Page/Command_Prompt,_Inc..md "wikilink")[Mammoth
-PostgreSQL](../Page/Mammoth_PostgreSQL.md "wikilink")，最老牌的PostgreSQL商業软件。他們透過對開發者的贊助和對如同[PL/Perl](../Page/PL/Perl.md "wikilink")、[PL/php](../Page/PL/php.md "wikilink")、維護[PostgreSQL
-Build Farm](../Page/PostgreSQL_Build_Farm.md "wikilink")
+Inc.发布了](https://zh.wikipedia.org/wiki/Command_Prompt,_Inc. "wikilink")[Mammoth
+PostgreSQL](https://zh.wikipedia.org/wiki/Mammoth_PostgreSQL "wikilink")，最老牌的PostgreSQL商業软件。他們透過對開發者的贊助和對如同[PL/Perl](https://zh.wikipedia.org/wiki/PL/Perl "wikilink")、[PL/php](https://zh.wikipedia.org/wiki/PL/php "wikilink")、維護[PostgreSQL
+Build
+Farm](https://zh.wikipedia.org/wiki/PostgreSQL_Build_Farm "wikilink")
 ...等等方式來支援PostgreSQL社群。
 
 2005年1月，PostgreSQL接到了來自另一間資料庫廠商[Pervasive
-Software的支持](../Page/Pervasive_Software.md "wikilink")，他們以十分常見於[Novell
-NetWare平台的](../Page/Novell_NetWare.md "wikilink")[Btrieve產品而聞名](../Page/Btrieve.md "wikilink")。他們宣布了進行商業支援和對社群的參與。在他們得到成功一段時間後的2006年7月，[Pervasive
-Software離開了PostgreSQL的支援市場](../Page/Pervasive_Software.md "wikilink")。
+Software的支持](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")，他們以十分常見於[Novell
+NetWare平台的](../Page/Novell_NetWare.md "wikilink")[Btrieve產品而聞名](https://zh.wikipedia.org/wiki/Btrieve "wikilink")。他們宣布了進行商業支援和對社群的參與。在他們得到成功一段時間後的2006年7月，[Pervasive
+Software離開了PostgreSQL的支援市場](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")。
 
-在2005年中，兩間其他的公司宣佈商業化PostgreSQL，分別進入不同的[利基市場](../Page/利基市場.md "wikilink")。[EnterpriseDB宣布將專注於讓使用](../Page/EnterpriseDB.md "wikilink")[Oracle的應用程式能更容易的在PostgreSQL上運行](../Page/Oracle.md "wikilink")。[Greenplum則專注貢獻在](../Page/Greenplum.md "wikilink")[資料倉儲和](../Page/資料倉儲.md "wikilink")[商業智慧的應用程式](../Page/商業智慧.md "wikilink")，尤其以[BizGres專案著稱](../Page/BizGres.md "wikilink")。
+在2005年中，兩間其他的公司宣佈商業化PostgreSQL，分別進入不同的[利基市場](https://zh.wikipedia.org/wiki/利基市場 "wikilink")。[EnterpriseDB宣布將專注於讓使用](https://zh.wikipedia.org/wiki/EnterpriseDB "wikilink")[Oracle的應用程式能更容易的在PostgreSQL上運行](https://zh.wikipedia.org/wiki/Oracle "wikilink")。[Greenplum則專注貢獻在](https://zh.wikipedia.org/wiki/Greenplum "wikilink")[資料倉儲和](../Page/資料倉儲.md "wikilink")[商業智慧的應用程式](https://zh.wikipedia.org/wiki/商業智慧 "wikilink")，尤其以[BizGres專案著稱](https://zh.wikipedia.org/wiki/BizGres "wikilink")。
 
-2005年10月，[昇陽的軟體部門執行副總裁](../Page/昇陽.md "wikilink")[John
-Loiacono談論到](../Page/John_Loiacono.md "wikilink")："我們不會去[OEM微軟的產品](../Page/OEM.md "wikilink")，我們正關注-{zh-hans:
+2005年10月，[昇陽的軟體部門執行副總裁](https://zh.wikipedia.org/wiki/昇陽 "wikilink")[John
+Loiacono談論到](https://zh.wikipedia.org/wiki/John_Loiacono "wikilink")："我們不會去[OEM微軟的產品](https://zh.wikipedia.org/wiki/OEM "wikilink")，我們正關注-{zh-hans:
 着;
 zh-hant:著;}-PostgreSQL"，儘管當時並沒有任何規格釋出。到了2005年11月，昇陽宣布將支援PostgreSQL。2006年6月，[Solaris
-10包含PostgreSQL一起發佈](../Page/Solaris_10.md "wikilink")。
+10包含PostgreSQL一起發佈](https://zh.wikipedia.org/wiki/Solaris_10 "wikilink")。
 
 至於PostgreSQL專案本身，他繼續着每年一個主要版本發佈，以及次要的除錯版本發佈，全都可以在BSD授權下取得。這些都是基於商業化廠商、支援公司、和開放源碼駭客。
 
@@ -60,23 +64,23 @@ zh-hant:著;}-PostgreSQL"，儘管當時並沒有任何規格釋出。到了2005
 
 如果很粗略地观察PostgreSQL，会觉得这个数据库系统和其它数据库很类似。因为PostgreSQL使用SQL语言来在执行资料的查询。这些资料通过**外键**联系在一起，以一系列表格的形式存在。PostgreSQL相对于竞争者的主要优势为**可编程性**：对于使用数据库资料的实际应用，PostgreSQL让开发与使用变得更简单。
 
-SQL数据在"[平面表格](../Page/平面表格.md "wikilink")"中存储简单的数据类型，需要用户使用查询把有关的信息收集在一起。这与应用和用户利用数据自身的方式相对立：典型的使用带有丰富数据类型的高级语言，在其中所有有关的数据作为它自己的一个完整单元来操作。典型的称呼为*记录*或*对象*（依据各自语言）。
+SQL数据在"[平面表格](https://zh.wikipedia.org/wiki/平面表格 "wikilink")"中存储简单的数据类型，需要用户使用查询把有关的信息收集在一起。这与应用和用户利用数据自身的方式相对立：典型的使用带有丰富数据类型的高级语言，在其中所有有关的数据作为它自己的一个完整单元来操作。典型的称呼为*记录*或*对象*（依据各自语言）。
 
 转换来自SQL世界的信息到面向对象编程世界体现得很困难，因为两者有非常不同的数据组织的模型。工业界把这个问题称为：从一个模型映射到另一个要花费项目开发者40%的时间。一些映射解决方案，典型的称为[对象关系映射](../Page/对象关系映射.md "wikilink")，致力于这个问题，但是它们花费很多并有自身的问题，导致糟糕的性能或强制所有的数据访问通过映射所支持的一种语言来进行。
 
 PostgreSQL可以直接在数据库中解决很多这类问题。PostgreSQL允许用户定义基于正规的SQL类型的新类型，允许数据库自身理解复杂数据。例如，你可以定义一个`address`来组合一些事物如街道编号、城市和国度的字符串。从这一点上你可以轻易的建立把保存地址的所需要的所有字段包含在一个单一行列中的表。
 
-PostgreSQL还允许类型包括继承，这是在[面向对象编程中的主要概念](../Page/面向对象编程.md "wikilink")。例如，你可以定义`post_code`类型，并接着基于它建立`us_zip_code`和`canadian_postal_code`。在数据库中的address就可以采用`us_address`或者`canadian_address`形式，而特定的规则可以在各自情况下验证数据。在PostgreSQL的早期版本中，实现新类型需要写C扩展并把它们编译到数据库服务器中；在版本7.4中，通过`CREATE
+PostgreSQL还允许类型包括继承，这是在[面向对象编程中的主要概念](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。例如，你可以定义`post_code`类型，并接着基于它建立`us_zip_code`和`canadian_postal_code`。在数据库中的address就可以采用`us_address`或者`canadian_address`形式，而特定的规则可以在各自情况下验证数据。在PostgreSQL的早期版本中，实现新类型需要写C扩展并把它们编译到数据库服务器中；在版本7.4中，通过`CREATE
 DOMAIN`建立和使用定制类型变得很容易了。
 
-数据库自身的编程可以从使用[函数上获得巨大的利益](../Page/子程序.md "wikilink")。多数SQL系统允许用户写*存储过程*，它是其他SQL语句可以调用的一块SQL代码。但是SQL自身仍旧不适合作为编程语言，而且SQL用户在构造复杂逻辑时要经历巨大的困难。更糟糕的是，SQL自身不支持很多的编程语言中最基本的操作，比如[分支和](../Page/分支_\(计算机科学\).md "wikilink")[循环](../Page/循环.md "wikilink")。每个厂商都转而写它们自己对SQL语言的扩展来增加这些特征，而这种扩展不是必须跨越数据库[平台操作](../Page/系统平台.md "wikilink")。
+数据库自身的编程可以从使用[函数上获得巨大的利益](../Page/子程序.md "wikilink")。多数SQL系统允许用户写*存储过程*，它是其他SQL语句可以调用的一块SQL代码。但是SQL自身仍旧不适合作为编程语言，而且SQL用户在构造复杂逻辑时要经历巨大的困难。更糟糕的是，SQL自身不支持很多的编程语言中最基本的操作，比如[分支和](https://zh.wikipedia.org/wiki/分支_\(计算机科学\) "wikilink")[循环](https://zh.wikipedia.org/wiki/循环 "wikilink")。每个厂商都转而写它们自己对SQL语言的扩展来增加这些特征，而这种扩展不是必须跨越数据库[平台操作](../Page/系统平台.md "wikilink")。
 
 在PostgreSQL中程序员可以用一组可观的支持语言中任何一种来写这种逻辑。
 
-  - 类似于Oracle的过程语言[PL/SQL的叫做](../Page/PL/SQL.md "wikilink")[PL/PgSQL](http://www.postgresql.org/docs/9.3/static/plpgsql.html)的内置语言，在处理查询密集的过程时提供了独特的优势。
+  - 类似于Oracle的过程语言[PL/SQL的叫做](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")[PL/PgSQL](http://www.postgresql.org/docs/9.3/static/plpgsql.html)的内置语言，在处理查询密集的过程时提供了独特的优势。
   - 流行脚本语言比如[Perl](../Page/Perl.md "wikilink")，[Python](../Page/Python.md "wikilink")，[Tcl](../Page/Tcl.md "wikilink")，和[Ruby的包装器](../Page/Ruby.md "wikilink")，允许利用它们在字符串处理和连接到广阔的外部函数库的力量。
-  - 需要把复杂逻辑编译到机器代码所能提供的高性能的过程可以利用[C或](../Page/C語言.md "wikilink")[C++](../Page/C++.md "wikilink")。
-  - 在更加[深奥的方面](../Page/Esoteric.md "wikilink")，[R统计语言的处理器允许数据库查询利用它的一组丰富的统计函数](../Page/R語言.md "wikilink")。
+  - 需要把复杂逻辑编译到机器代码所能提供的高性能的过程可以利用[C或](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")。
+  - 在更加[深奥的方面](https://zh.wikipedia.org/wiki/Esoteric "wikilink")，[R统计语言的处理器允许数据库查询利用它的一组丰富的统计函数](https://zh.wikipedia.org/wiki/R語言 "wikilink")。
 
 程序员可以把代码作为函数插入服务器中，它是使代码类似于存储过程的一个小包装器。以这种方式SQL代码可以调用（比如）C代码或反之。
 
@@ -90,35 +94,35 @@ DOMAIN`建立和使用定制类型变得很容易了。
 
 ### 函数
 
-通过函数，可以在数据库服务器端执行指令程序。尽管这样的指令程序可以使用基本的SQL语句写成，但是由于其缺乏[流程控制等功能](../Page/流程控制.md "wikilink")，所以在PostgreSQL中引入了使用其它程序语言编写函数的能力，包括：
+通过函数，可以在数据库服务器端执行指令程序。尽管这样的指令程序可以使用基本的SQL语句写成，但是由于其缺乏[流程控制等功能](https://zh.wikipedia.org/wiki/流程控制 "wikilink")，所以在PostgreSQL中引入了使用其它程序语言编写函数的能力，包括：
 
-  - 一个内置的名为[PL/pgSQL](http://www.postgresql.org/docs/9.3/static/plpgsql.html)的过程语言，类似于Oracle的[PL/SQL](../Page/PL/SQL.md "wikilink")；
+  - 一个内置的名为[PL/pgSQL](http://www.postgresql.org/docs/9.3/static/plpgsql.html)的过程语言，类似于Oracle的[PL/SQL](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")；
   - 包括[PL/Perl](http://www.postgresql.org/docs/9.3/interactive/plperl.html)，[PL/PHP](https://web.archive.org/web/20070528193514/http://www.commandprompt.com/community/plphp)，[PL/Python](http://www.postgresql.org/docs/current/interactive/plpython.html)，[PL/Ruby](http://raa.ruby-lang.org/project/pl-ruby)，[PL/sh](https://web.archive.org/web/20090111030435/http://plsh.projects.postgresql.org/)，[PL/Tcl](http://www.postgresql.org/docs/current/interactive/pltcl.html)与[PL/Scheme](http://plscheme.projects.postgresql.org/)在内的脚本语言；
-  - 编译语言：[C](../Page/C语言.md "wikilink")，[C++](../Page/C++.md "wikilink")，或Java（通过[PL/Java](http://pljava.projects.postgresql.org/)）。
+  - 编译语言：[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[C++](../Page/C++.md "wikilink")，或Java（通过[PL/Java](http://pljava.projects.postgresql.org/)）。
   - R统计语言（[PL/R](http://www.joeconway.com/plr/)）。
 
-以上部分的语言，甚至可以在触发器内执行。PostgreSQL支持行返回函数：它们的输出是一系列行类型数据的集合，可以在查询中当作表来使用。函数也可以被定义成以创建者或者调用者的身份运行。在某些场合，或者其他的数据库产品中，函数也会被称为“[存储过程](../Page/存储过程.md "wikilink")”，但技术上这两者并未有太大分别。
+以上部分的语言，甚至可以在触发器内执行。PostgreSQL支持行返回函数：它们的输出是一系列行类型数据的集合，可以在查询中当作表来使用。函数也可以被定义成以创建者或者调用者的身份运行。在某些场合，或者其他的数据库产品中，函数也会被称为“[存储过程](https://zh.wikipedia.org/wiki/存储过程 "wikilink")”，但技术上这两者并未有太大分别。
 
 ### 索引
 
-在PostgreSQL中，用户可以自定义[索引方法](../Page/索引.md "wikilink")，或使用内置的[B树](../Page/B树.md "wikilink")，[哈希表与](../Page/哈希表.md "wikilink")[GiST索引](../Page/GiST.md "wikilink")。PostgreSQL的索引功能同时也具有以下功能：
+在PostgreSQL中，用户可以自定义[索引方法](https://zh.wikipedia.org/wiki/索引 "wikilink")，或使用内置的[B树](../Page/B树.md "wikilink")，[哈希表与](../Page/哈希表.md "wikilink")[GiST索引](https://zh.wikipedia.org/wiki/GiST "wikilink")。PostgreSQL的索引功能同时也具有以下功能：
 
   - 反向索引检索：无须额外的索引就能实现类似` ORDER BY  `*`field`*`  DESC `的操作。
-  - **[表达式索引](../Page/表达式索引.md "wikilink")**：可以建立基于表达式值而非数值或列的索引。
-  - **[部分索引](../Page/部分索引.md "wikilink")**：仅索引表的部分，可以通过在`CREATE
+  - **[表达式索引](https://zh.wikipedia.org/wiki/表达式索引 "wikilink")**：可以建立基于表达式值而非数值或列的索引。
+  - **[部分索引](https://zh.wikipedia.org/wiki/部分索引 "wikilink")**：仅索引表的部分，可以通过在`CREATE
     INDEX`语句口添加`WHERE`从句以创建更小的索引。
-  - **[位图索引扫描](../Page/Bitmap_index.md "wikilink")**：从8.1版开始支持此功能。该功能将读取多个索引，生成表示它们之间符合查询标准的[多元组](../Page/多元组.md "wikilink")[交集的位图](../Page/交集.md "wikilink")。这样解决了混合索引的问题。在一个具有20列的表中，理论上能创建20\!
+  - **[位图索引扫描](https://zh.wikipedia.org/wiki/Bitmap_index "wikilink")**：从8.1版开始支持此功能。该功能将读取多个索引，生成表示它们之间符合查询标准的[多元组](../Page/多元组.md "wikilink")[交集的位图](../Page/交集.md "wikilink")。这样解决了混合索引的问题。在一个具有20列的表中，理论上能创建20\!
     个索引，在实际应用中並不实用。使用位图索引扫描后，在每次查询时，它将能把约束条件中所涉及列各自的索引进行任意的排列组合。
 
 ### 触发器
 
 触发器是由SQL语句查询所触发的事件。如：一个INSERT语句可能触发一个检查数据完整性的触发器。触发器通常由INSERT或UPDATE语句触发。
 
-在PostgreSQL中，可在数据表上设置[触发器](../Page/触发器_\(数据库\).md "wikilink")，但无法在视图中设置(对视图的UPDATE或者INSERT操作可以使用规则（RULE）定义）。多个触发器可依据字母顺序依次执行。此外，除了使用内嵌的PL/PgSQL语言之外，触发器的函数也可以用PL/Perl，PL/Python等语言编写。
+在PostgreSQL中，可在数据表上设置[触发器](https://zh.wikipedia.org/wiki/触发器_\(数据库\) "wikilink")，但无法在视图中设置(对视图的UPDATE或者INSERT操作可以使用规则（RULE）定义）。多个触发器可依据字母顺序依次执行。此外，除了使用内嵌的PL/PgSQL语言之外，触发器的函数也可以用PL/Perl，PL/Python等语言编写。
 
 ### 多版本并发控制
 
-PostgreSQL使用[多版本并发控制](../Page/多版本并发控制.md "wikilink")（MVCC，Multiversion
+PostgreSQL使用[多版本并发控制](https://zh.wikipedia.org/wiki/多版本并发控制 "wikilink")（MVCC，Multiversion
 concurrency
 control）系统进行[并发控制](../Page/并发控制.md "wikilink")，该系统向每个用户提供了一个数据库的“快照”，用户在事务内所作的每个修改，对于其他的用户都不可见，直到该事务成功提交。这从很大程度上减少了对读取锁的依赖，同时保证了数据库高效地符合[ACID原则](../Page/ACID.md "wikilink")。
 
@@ -130,27 +134,27 @@ control）系统进行[并发控制](../Page/并发控制.md "wikilink")，该�
 
 PostgreSQL内置丰富的数据类型，包括：
 
-  - [任意精度的数值](../Page/任意精度.md "wikilink")
+  - [任意精度的数值](https://zh.wikipedia.org/wiki/任意精度 "wikilink")
   - 无限制长度文本
   - 几何图元
   - [IP地址与](../Page/IP地址.md "wikilink")[IPv6地址](../Page/IPv6.md "wikilink")
-  - [无类域间路由地址块](../Page/无类域间路由.md "wikilink")，[MAC地址](../Page/MAC地址.md "wikilink")
+  - [无类域间路由地址块](https://zh.wikipedia.org/wiki/无类域间路由 "wikilink")，[MAC地址](../Page/MAC地址.md "wikilink")
   - 数组
   - [JSON数据](../Page/JSON.md "wikilink")
   - 枚举类型
   - [XML数据](../Page/XML.md "wikilink") (需要在PostgreSQL源码编译时指定
     "--with-libxml"选项)
 
-此外，用户可以创建自定义数据类型，通常通过PostgreSQL的[GiST机制](../Page/GiST.md "wikilink")，它们也能被很好得索引，比如[PostGIS](../Page/PostGIS.md "wikilink")[地理信息系统的数据类型](../Page/地理信息系统.md "wikilink")。
+此外，用户可以创建自定义数据类型，通常通过PostgreSQL的[GiST机制](https://zh.wikipedia.org/wiki/GiST "wikilink")，它们也能被很好得索引，比如[PostGIS](../Page/PostGIS.md "wikilink")[地理信息系统的数据类型](../Page/地理信息系统.md "wikilink")。
 
 ### 用户定义对象
 
 用户可以为数据库内几乎所有的对象定义新的类型，包括：
 
   - 索引
-  - 操作符（可[重载现有操作符](../Page/重载.md "wikilink")。）
-  - [聚合函数](../Page/聚合函数.md "wikilink")
-  - [数据域](../Page/数据域.md "wikilink")
+  - 操作符（可[重载现有操作符](https://zh.wikipedia.org/wiki/重载 "wikilink")。）
+  - [聚合函数](https://zh.wikipedia.org/wiki/聚合函数 "wikilink")
+  - [数据域](https://zh.wikipedia.org/wiki/数据域 "wikilink")
   - 数据类型转换
   - 会话（编码转换）
 
@@ -163,21 +167,21 @@ zh-tw:變更}-。该功能尚未完全实现，实际上，表的约束尚不能
 
 ### 其他功能
 
-  - [关系完整性](../Page/关系完整性.md "wikilink")[约束](../Page/约束.md "wikilink")：包括[外键](../Page/外键.md "wikilink")，列约束与行检查
+  - [关系完整性](https://zh.wikipedia.org/wiki/关系完整性 "wikilink")[约束](https://zh.wikipedia.org/wiki/约束 "wikilink")：包括[外键](https://zh.wikipedia.org/wiki/外键 "wikilink")，列约束与行检查
   - [视图](../Page/视图.md "wikilink")
-  - 内、外（全、左、右）[连接](../Page/连接_\(SQL\).md "wikilink")
-  - [子查询](../Page/子查询.md "wikilink")
+  - 内、外（全、左、右）[连接](https://zh.wikipedia.org/wiki/连接_\(SQL\) "wikilink")
+  - [子查询](https://zh.wikipedia.org/wiki/子查询 "wikilink")
   - [事务处理](../Page/数据库事务.md "wikilink")
-  - 支持大部分[SQL:2003标准的主要特征](../Page/SQL:2003.md "wikilink")[2](http://developer.postgresql.org/pgdocs/postgres/features.html)
+  - 支持大部分[SQL:2003标准的主要特征](https://zh.wikipedia.org/wiki/SQL:2003 "wikilink")[2](http://developer.postgresql.org/pgdocs/postgres/features.html)
     [以及不支持部分](http://developer.postgresql.org/pgdocs/postgres/unsupported-features-sql-standard.html)[未来版本的支持情况](http://developer.postgresql.org/pgdocs/postgres/features-sql-standard.html)，可至[已有版本手册](http://www.postgresql.org/docs/manuals/)中查询。
-  - [SSL加密连接](../Page/SSL.md "wikilink")
+  - [SSL加密连接](https://zh.wikipedia.org/wiki/SSL "wikilink")
   - 二进制／文本大对象的存储
   - 在线备份
-  - [数据域](../Page/数据域.md "wikilink")
-  - [表分区](../Page/表分区.md "wikilink")
-  - [表空间](../Page/表空间.md "wikilink")
-  - [保存点](../Page/保存点.md "wikilink")
-  - [时刻点恢复](../Page/时刻点恢复.md "wikilink")
+  - [数据域](https://zh.wikipedia.org/wiki/数据域 "wikilink")
+  - [表分区](https://zh.wikipedia.org/wiki/表分区 "wikilink")
+  - [表空间](https://zh.wikipedia.org/wiki/表空间 "wikilink")
+  - [保存点](https://zh.wikipedia.org/wiki/保存点 "wikilink")
+  - [时刻点恢复](https://zh.wikipedia.org/wiki/时刻点恢复 "wikilink")
   - [二阶段提交](../Page/二阶段提交.md "wikilink")
   - TOAST（**T**he **O**versized-**A**ttribute **S**torage
     **T**echnique，超大属性存储技术）用以透明地将超大表属性（如大MIME附件或XML消息）压缩后存储至独立的区域
@@ -191,7 +195,7 @@ zh-tw:變更}-。该功能尚未完全实现，实际上，表的约束尚不能
 ### 扩展
 
   - 地理数据对象：[PostGIS](../Page/PostGIS.md "wikilink") GPL
-  - [全文检索](../Page/全文检索.md "wikilink")：通过[Tsearch2](http://www.sai.msu.su/~megera/postgres/gist/tsearch/V2/)或[OpenFTS](../Page/OpenFTS.md "wikilink")，将在8.3版本中内嵌Tsearch2。GPL
+  - [全文检索](https://zh.wikipedia.org/wiki/全文检索 "wikilink")：通过[Tsearch2](http://www.sai.msu.su/~megera/postgres/gist/tsearch/V2/)或[OpenFTS](https://zh.wikipedia.org/wiki/OpenFTS "wikilink")，将在8.3版本中内嵌Tsearch2。GPL
   - 多种异步主／从复制方案，包括[Slony-I](http://www.slony.info)（BSD授权），[Mammoth
     Replicator](https://web.archive.org/web/20051029021705/http://www.commandprompt.com/products/mammothreplicator)
   - XML/XSLT支持[contrib软件包中的XPath扩展](https://web.archive.org/web/20070528041103/http://www.throwingbeans.org/postgresql_and_xml.html)GPL
@@ -200,37 +204,40 @@ zh-tw:變更}-。该功能尚未完全实现，实际上，表的约束尚不能
 
   - [.org域名库](../Page/.org.md "wikilink")[4](http://www.computerworld.com.au/index.php?id=760310963)
   - The [American Chemical
-    Society](../Page/American_Chemical_Society.md "wikilink")
+    Society](https://zh.wikipedia.org/wiki/American_Chemical_Society "wikilink")
   - Chicagocrime.org
     [5](http://www.holovaty.com/blog/archive/2006/04/07/0927)
   - [Skype](../Page/Skype.md "wikilink")
-  - [Penny Arcade](../Page/Penny_Arcade_\(webcomic\).md "wikilink")
-  - [IMDB](../Page/IMDB.md "wikilink")
-  - [Sony Online](../Page/Sony_Online.md "wikilink")
+  - [Penny
+    Arcade](https://zh.wikipedia.org/wiki/Penny_Arcade_\(webcomic\) "wikilink")
+  - [IMDB](https://zh.wikipedia.org/wiki/IMDB "wikilink")
+  - [Sony Online](https://zh.wikipedia.org/wiki/Sony_Online "wikilink")
     [6](http://www.computerworld.com/databasetopics/data/software/story/0,10801,109722,00.html)
   - [美國勞工部](../Page/美國勞工部.md "wikilink")
   - Wisconsin Circuit Court Access with 6 \* 180GB DBs replicated in
     real time
-  - [OpenACS](../Page/OpenACS.md "wikilink") and
-    [.LRN](../Page/.LRN.md "wikilink")
-  - [Evergreen](../Page/Evergreen_\(軟件\).md "wikilink")－一個開放原始碼（[GNU通用公共許可證](../Page/GNU通用公共許可證.md "wikilink")）的集成圖書館系統
-  - [GNU Health](../Page/GNU_Health.md "wikilink")
+  - [OpenACS](https://zh.wikipedia.org/wiki/OpenACS "wikilink") and
+    [.LRN](https://zh.wikipedia.org/wiki/.LRN "wikilink")
+  - [Evergreen](../Page/Evergreen_\(軟件\).md "wikilink")－一個開放原始碼（[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")）的集成圖書館系統
+  - [GNU Health](https://zh.wikipedia.org/wiki/GNU_Health "wikilink")
     [7](https://en.wikibooks.org/wiki/GNU_Health/Installation)
 
 ## 版本
 
 PostgreSQL - Red Hat Edition\[1\]是由[Red
-Hat製作](../Page/Red_Hat.md "wikilink")-{zh-hans: 的; zh-hant:
-之;}-[分支版本](../Page/分支.md "wikilink")，又稱Red Hat Database。
+Hat製作](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")-{zh-hans:
+的; zh-hant:
+之;}-[分支版本](https://zh.wikipedia.org/wiki/分支 "wikilink")，又稱Red
+Hat Database。
 
 ## 参见
 
-  - [关系数据库管理系统](../Page/关系数据库管理系统.md "wikilink")
-      - [关系型数据库管理系统列表](../Page/关系型数据库管理系统列表.md "wikilink")
-      - [关系型数据库管理系统对比](../Page/关系型数据库管理系统对比.md "wikilink")
+  - [关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")
+      - [关系型数据库管理系统列表](https://zh.wikipedia.org/wiki/关系型数据库管理系统列表 "wikilink")
+      - [关系型数据库管理系统对比](https://zh.wikipedia.org/wiki/关系型数据库管理系统对比 "wikilink")
   - [对象数据库管理系统](../Page/对象数据库.md "wikilink")
-      - [对象数据库管理系统列表](../Page/对象数据库管理系统列表.md "wikilink")
-      - [对象数据库管理系统对比](../Page/对象数据库管理系统对比.md "wikilink")
+      - [对象数据库管理系统列表](https://zh.wikipedia.org/wiki/对象数据库管理系统列表 "wikilink")
+      - [对象数据库管理系统对比](https://zh.wikipedia.org/wiki/对象数据库管理系统对比 "wikilink")
 
 ## 参考文献
 

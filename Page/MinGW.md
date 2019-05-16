@@ -1,6 +1,6 @@
 **MinGW**（**Min**imalist **G**NU for
 **W**indows），又称**mingw32**，是将[GCC编译器和](../Page/GCC.md "wikilink")[GNU
-Binutils移植到Win](../Page/GNU_Binutils.md "wikilink")32平台下的产物，包括一系列头文件（[Win32API](../Page/Windows_API.md "wikilink")）、[库和](../Page/靜態連結函式庫.md "wikilink")[可执行文件](../Page/可执行文件.md "wikilink")。
+Binutils移植到Win](../Page/GNU_Binutils.md "wikilink")32平台下的产物，包括一系列头文件（[Win32API](../Page/Windows_API.md "wikilink")）、[库和](https://zh.wikipedia.org/wiki/靜態連結函式庫 "wikilink")[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。
 
 另有可用于产生32位及64位Windows可执行文件的**MinGW-w64**项目，是从原本MinGW产生的分支\[1\]。如今已经独立发展\[2\]。
 
@@ -10,18 +10,18 @@ MinGW是从[Cygwin](../Page/Cygwin.md "wikilink")（1.3.3版）基础上发展�
 
 ## 编程语言支持
 
-GCC支援的語言大多在MinGW也受支援，其中涵蓋[C](../Page/C語言.md "wikilink")、[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Fortran及](../Page/Fortran.md "wikilink")[Ada](../Page/Ada.md "wikilink")。
+GCC支援的語言大多在MinGW也受支援，其中涵蓋[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Fortran及](../Page/Fortran.md "wikilink")[Ada](../Page/Ada.md "wikilink")。
 
 对于C语言之外的语言，MinGW使用标准的GNU[執行庫](../Page/运行时库.md "wikilink")，如C++使用GNU
-[libstdc++](../Page/libstdc++.md "wikilink")。
+[libstdc++](https://zh.wikipedia.org/wiki/libstdc++ "wikilink")。
 
-但是MinGW使用Windows中的C运行库。因此用MinGW开发的程序不需要额外的第三方[DLL支持就可以直接在Windows下运行](../Page/动态链接库.md "wikilink")，而且也不一定必须遵从[GPL许可证](../Page/GPL.md "wikilink")。这同时造成了MinGW开发的程序只能使用Win32API和跨平台的第三方库，而缺少POSIX支持\[3\]，大多数GNU软件无法在不修改源代码的情况下用MinGW编译。
+但是MinGW使用Windows中的C运行库。因此用MinGW开发的程序不需要额外的第三方[DLL支持就可以直接在Windows下运行](../Page/动态链接库.md "wikilink")，而且也不一定必须遵从[GPL许可证](https://zh.wikipedia.org/wiki/GPL "wikilink")。这同时造成了MinGW开发的程序只能使用Win32API和跨平台的第三方库，而缺少POSIX支持\[3\]，大多数GNU软件无法在不修改源代码的情况下用MinGW编译。
 
 ## 与Cygwin比较
 
 Cygwin和MinGW都可用于将Unix软件移植到Windows，但它们采用不同的实作。
-Cygwin旨在提供一个完整的[POSIX层](../Page/POSIX.md "wikilink")，包括所有主要Unix
-[System_call](../Page/系统呼叫.md "wikilink")。重视兼容性优先于性能。而MinGW着重简化与性能。因此，它没有提供某些无法套用Windows
+Cygwin旨在提供一个完整的[POSIX层](https://zh.wikipedia.org/wiki/POSIX "wikilink")，包括所有主要Unix
+[System_call](https://zh.wikipedia.org/wiki/系统呼叫 "wikilink")。重视兼容性优先于性能。而MinGW着重简化与性能。因此，它没有提供某些无法套用Windows
 API轻松实现的POSIX API，例如fork()，mmap()和ioctl()。
 
 用Cygwin编写的Windows程序所使用的DLL及其源代码必须随程序一起发布。
@@ -42,7 +42,7 @@ MinGW编译器在实现异常机制时，有三种可选方式：
 ## MinGW-w64
 
 MinGW-w64是2005年由OneVision
-Software根据[洁净室设计原则而独立开发](../Page/洁净室设计原则.md "wikilink")，以解决当时的MinGW项目更新缓慢，缺少新的重要的API以及64位支持。2008年MinGW-w64项目开源，由Kai
+Software根据[洁净室设计原则而独立开发](https://zh.wikipedia.org/wiki/洁净室设计原则 "wikilink")，以解决当时的MinGW项目更新缓慢，缺少新的重要的API以及64位支持。2008年MinGW-w64项目开源，由Kai
 Tietz维护。
 
   - 提供由MinGW-Builds等项目组制作的预编译版。编译器分64位版和32位版、分别包含sjlj、drawf、seh异常处理机制、分别支持POSIX线程模式或Win32线程模式。用户可根据需要下载不同版本。例如，64位的seh、POSIX线程的最新稳定版本的gcc套件的下载目录为：Toolchains
@@ -66,7 +66,7 @@ Tietz维护。
 ## 参见
 
   - [Cygwin](../Page/Cygwin.md "wikilink")
-  - [POSIX](../Page/POSIX.md "wikilink")
+  - [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")
 
 ## 参考资料
 

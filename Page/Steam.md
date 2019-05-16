@@ -1,6 +1,6 @@
-**Steam**是美國電子遊戲商[维尔福](../Page/维尔福.md "wikilink")（Valve）於2003年9月12日推出的[數位發行平台](../Page/數位發行.md "wikilink")，提供[数字版权管理](../Page/数字版权管理.md "wikilink")、[多人游戏](../Page/多人电子游戏.md "wikilink")、[流媒体和](../Page/流媒体.md "wikilink")[社交网络服务等功能](../Page/社交網路服務.md "wikilink")。借助Steam，用户能安装并自动更新游戏，也可以使用包括好友列表和组在内的社区功能，还能使用[云存储](../Page/云存储.md "wikilink")、游戏内语音和聊天功能。Steam软件免费提供了一个[应用程序接口](../Page/应用程序接口.md "wikilink")，称为Steamworks，开发商可以用来整合Steam的功能到自己的产品中，例如网络、在线对战、成就、微交易，并通过Steam创意工坊分享用户创作的内容。最初Steam只在[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")[操作系统发布](../Page/操作系统.md "wikilink")，但后来也发布了[OS
-X和](../Page/MacOS.md "wikilink")[Linux版本](../Page/Linux.md "wikilink")。2010年以来，Steam推出了为[iOS](../Page/iOS.md "wikilink")、[Android和](../Page/Android.md "wikilink")[Windows
+**Steam**是美國電子遊戲商[维尔福](https://zh.wikipedia.org/wiki/维尔福 "wikilink")（Valve）於2003年9月12日推出的[數位發行平台](https://zh.wikipedia.org/wiki/數位發行 "wikilink")，提供[数字版权管理](../Page/数字版权管理.md "wikilink")、[多人游戏](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")、[流媒体和](../Page/流媒体.md "wikilink")[社交网络服务等功能](../Page/社交網路服務.md "wikilink")。借助Steam，用户能安装并自动更新游戏，也可以使用包括好友列表和组在内的社区功能，还能使用[云存储](../Page/云存储.md "wikilink")、游戏内语音和聊天功能。Steam软件免费提供了一个[应用程序接口](../Page/应用程序接口.md "wikilink")，称为Steamworks，开发商可以用来整合Steam的功能到自己的产品中，例如网络、在线对战、成就、微交易，并通过Steam创意工坊分享用户创作的内容。最初Steam只在[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统发布](../Page/操作系统.md "wikilink")，但后来也发布了[OS
+X和](../Page/MacOS.md "wikilink")[Linux版本](../Page/Linux.md "wikilink")。2010年以来，Steam推出了为[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android和](../Page/Android.md "wikilink")[Windows
 Phone设计的移动应用](../Page/Windows_Phone.md "wikilink")，与电脑版软件实现互联。
 
 Steam被认为是[电脑游戏界最大的数碼发行平台](../Page/电脑游戏.md "wikilink")。2013年10月，Screen
@@ -12,35 +12,36 @@ Spy的数据表示Steam已有2.81亿注册账户，同时在线用户1750万。\
 
 ### 早期
 
-在Steam推出之前，维尔福公司在为[絕對武力等](../Page/絕對武力.md "wikilink")[電子遊戲更新時遇到了難題](../Page/電子遊戲.md "wikilink")，发布一个补丁可能导致大部分玩家断线数天。此後，维尔福團隊決定要製作一個能自动更新游戏的平台，并整合更严格的反盜版及反作弊系统。2002年公布开发计划时的用户调查显示，75%的Valve用户使用高速互联网连接，并且一定会在未来的几年逐步增长，而Valve也认识到通过數碼發行的渠道能更快速地为用户提供游戏更新。\[6\]在正式製作前，Valve公司曾接觸多個公司以合作開發平台，當中有[微軟](../Page/微軟.md "wikilink")、[雅虎和](../Page/雅虎.md "wikilink")[RealNetworks](../Page/RealNetworks.md "wikilink")，但被拒絕。\[7\]
+在Steam推出之前，维尔福公司在为[絕對武力等](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")[電子遊戲更新時遇到了難題](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，发布一个补丁可能导致大部分玩家断线数天。此後，维尔福團隊決定要製作一個能自动更新游戏的平台，并整合更严格的反盜版及反作弊系统。2002年公布开发计划时的用户调查显示，75%的Valve用户使用高速互联网连接，并且一定会在未来的几年逐步增长，而Valve也认识到通过數碼發行的渠道能更快速地为用户提供游戏更新。\[6\]在正式製作前，Valve公司曾接觸多個公司以合作開發平台，當中有[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[雅虎和](../Page/雅虎.md "wikilink")[RealNetworks](../Page/RealNetworks.md "wikilink")，但被拒絕。\[7\]
 
-Steam的開發工作于2002年开始，計劃為代號「Grid」（網格）及「Gazelle」（羚羊）。\[8\]\[9\]Steam的首次公開亮相是在2002年3月22日的[遊戲開發者大會中](../Page/遊戲開發者大會.md "wikilink")，當時完全是以分布式网络的概念来设计的。\[10\]為了展示Steam平台的整合性，[Relic
-Entertainment設計了一特別版本的](../Page/遺迹娛樂.md "wikilink")[不可思议的生物](../Page/不可思议的生物.md "wikilink")，\[11\]不过直到2015年该游戏才在Steam上发售。Valve公司在此計劃中曾和多個公司合作，包括[AT\&T](../Page/AT&T.md "wikilink")、[宏碁及](../Page/宏碁.md "wikilink")[GameSpy](../Page/GameSpy.md "wikilink")。第一個在Steam发布的[遊戲模組是](../Page/遊戲模組.md "wikilink")[決勝之日](../Page/決勝之日.md "wikilink")。\[12\]
+Steam的開發工作于2002年开始，計劃為代號「Grid」（網格）及「Gazelle」（羚羊）。\[8\]\[9\]Steam的首次公開亮相是在2002年3月22日的[遊戲開發者大會中](https://zh.wikipedia.org/wiki/遊戲開發者大會 "wikilink")，當時完全是以分布式网络的概念来设计的。\[10\]為了展示Steam平台的整合性，[Relic
+Entertainment設計了一特別版本的](../Page/遺迹娛樂.md "wikilink")[不可思议的生物](https://zh.wikipedia.org/wiki/不可思议的生物 "wikilink")，\[11\]不过直到2015年该游戏才在Steam上发售。Valve公司在此計劃中曾和多個公司合作，包括[AT\&T](../Page/AT&T.md "wikilink")、[宏碁及](../Page/宏碁.md "wikilink")[GameSpy](../Page/GameSpy.md "wikilink")。第一個在Steam发布的[遊戲模組是](../Page/遊戲模組.md "wikilink")[決勝之日](https://zh.wikipedia.org/wiki/決勝之日 "wikilink")。\[12\]
 
 Steam客户端的第一个测试版本于2003年1月[CS
-1.6公测时发布](../Page/反恐精英.md "wikilink")，当时作为必须安装和使用的组件。当时，Steam的主要功能是简化在线游戏中常见的补丁过程。对于其他所有游戏，Steam是可选安装的组件。测试期间大约有8至30万名玩家测试了Steam系统。\[13\]\[14\]而Steam系统和网站因為數千用户同时下载絕對武力的更新版本而不勝負荷。\[15\]2004年，[世界對抗網絡系統](../Page/世界對抗網絡系統.md "wikilink")（WON）关闭并由Steam平台取代，以前需要WON來登入連機模式的遊戲从此以后必须通过Steam联机。\[16\]
+1.6公测时发布](../Page/反恐精英.md "wikilink")，当时作为必须安装和使用的组件。当时，Steam的主要功能是简化在线游戏中常见的补丁过程。对于其他所有游戏，Steam是可选安装的组件。测试期间大约有8至30万名玩家测试了Steam系统。\[13\]\[14\]而Steam系统和网站因為數千用户同时下载絕對武力的更新版本而不勝負荷。\[15\]2004年，[世界對抗網絡系統](https://zh.wikipedia.org/wiki/世界對抗網絡系統 "wikilink")（WON）关闭并由Steam平台取代，以前需要WON來登入連機模式的遊戲从此以后必须通过Steam联机。\[16\]
 
-經過一段時間的試驗，Valve開始聯絡不同的[遊戲發行商和](../Page/電子遊戲發行商.md "wikilink")[獨立遊戲開發者簽署合約並為他們提供Steam平台的遊戲銷售服務](../Page/游戏开发者#独立开发者.md "wikilink")。兩個最早期在Steam平台上推出的獨立遊戲是[Rag
+經過一段時間的試驗，Valve開始聯絡不同的[遊戲發行商和](../Page/電子遊戲發行商.md "wikilink")[獨立遊戲開發者簽署合約並為他們提供Steam平台的遊戲銷售服務](https://zh.wikipedia.org/wiki/游戏开发者#独立开发者 "wikilink")。兩個最早期在Steam平台上推出的獨立遊戲是[Rag
 Doll Kung
-Fu和](../Page/Rag_Doll_Kung_Fu.md "wikilink")[Darwinia](../Page/Darwinia.md "wikilink")。\[17\]2005年12月，加拿大遊戲發行商[Strategy
-First亦和Valve合作](../Page/Strategy_First.md "wikilink")，在Steam发行自己现有和未来的游戏。\[18\]2002年，Valve总经理[加布·纽维尔宣布](../Page/加布·纽维尔.md "wikilink")[遊戲模組制作组可以花费](../Page/遊戲模組.md "wikilink")获得游戏引擎授权并通过Steam发行模组。\[19\]Valve的[半条命2是第一款需要Steam才能运行的游戏](../Page/半条命2.md "wikilink")，包括零售版。这一决定引发玩家对于软件所有权、软件需求以及在之前反恐精英测试时发生的服务器拥塞问题的关注。\[20\]在此期间用户在游戏过程遇到诸多问题。\[21\]\[22\]\[23\]
+Fu和](https://zh.wikipedia.org/wiki/Rag_Doll_Kung_Fu "wikilink")[Darwinia](https://zh.wikipedia.org/wiki/Darwinia "wikilink")。\[17\]2005年12月，加拿大遊戲發行商[Strategy
+First亦和Valve合作](https://zh.wikipedia.org/wiki/Strategy_First "wikilink")，在Steam发行自己现有和未来的游戏。\[18\]2002年，Valve总经理[加布·纽维尔宣布](../Page/加布·纽维尔.md "wikilink")[遊戲模組制作组可以花费](../Page/遊戲模組.md "wikilink")获得游戏引擎授权并通过Steam发行模组。\[19\]Valve的[半条命2是第一款需要Steam才能运行的游戏](https://zh.wikipedia.org/wiki/半条命2 "wikilink")，包括零售版。这一决定引发玩家对于软件所有权、软件需求以及在之前反恐精英测试时发生的服务器拥塞问题的关注。\[20\]在此期间用户在游戏过程遇到诸多问题。\[21\]\[22\]\[23\]
 
 ### 盈利
 
 从2005年10月起，第三方遊戲開始在Steam平台上提供给用户购买和下载，最早的一个是Rag Doll Kung
-Fu，\[24\]同时Valve亦表示Steam由于一些自家推出的成功遊戲而獲得盈利。雖然当时[數碼發行的銷售模式的售出量仍不及零售發行](../Page/數碼發行.md "wikilink")，但Valve及游戏開發商在Steam的盈利還是远高於零售方式。\[25\]\[26\]
+Fu，\[24\]同时Valve亦表示Steam由于一些自家推出的成功遊戲而獲得盈利。雖然当时[數碼發行的銷售模式的售出量仍不及零售發行](https://zh.wikipedia.org/wiki/數碼發行 "wikilink")，但Valve及游戏開發商在Steam的盈利還是远高於零售方式。\[25\]\[26\]
 
-2007年，[id Software](../Page/id_Software.md "wikilink")\[27\]、[Eidos
-Interactive](../Page/Eidos.md "wikilink")\[28\]和[卡普空](../Page/卡普空.md "wikilink")\[29\]等規模較大的遊戲開發發行商開始在Steam銷售他們的遊戲。同年五月，Steam平台上已經有一千三百萬個帳號被建立，共有150個遊戲在Steam上售賣。\[30\]\[31\]及後十月，Steam平台上亦陸續推出《[橘盒](../Page/橘盒.md "wikilink")》、《[生化奇兵](../Page/生化奇兵.md "wikilink")》、《[決勝時刻4：現代戰爭](../Page/決勝時刻4：現代戰爭.md "wikilink")》和《[浩劫殺陣：車諾比之影](../Page/浩劫殺陣：車諾比之影.md "wikilink")》等等的高知名度遊戲。
+2007年，[id
+Software](https://zh.wikipedia.org/wiki/id_Software "wikilink")\[27\]、[Eidos
+Interactive](../Page/Eidos.md "wikilink")\[28\]和[卡普空](../Page/卡普空.md "wikilink")\[29\]等規模較大的遊戲開發發行商開始在Steam銷售他們的遊戲。同年五月，Steam平台上已經有一千三百萬個帳號被建立，共有150個遊戲在Steam上售賣。\[30\]\[31\]及後十月，Steam平台上亦陸續推出《[橘盒](https://zh.wikipedia.org/wiki/橘盒 "wikilink")》、《[生化奇兵](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")》、《[決勝時刻4：現代戰爭](../Page/決勝時刻4：現代戰爭.md "wikilink")》和《[浩劫殺陣：車諾比之影](../Page/浩劫殺陣：車諾比之影.md "wikilink")》等等的高知名度遊戲。
 
 ### 近況
 
   - 2010年3月，Valve開放Steam翻譯伺服器，服務可供Steam用户幫助遊戲的翻譯工作。該項服務一直測試至同年10月。
   - 2011年1至2月，發生「俄區大封號」或稱「清洗俄區」。中華人民共和國用戶最受影響，在不良代購及盜版聞名的時代下，Steam進行大量封鎖帳號的活動。結合受影響的用戶經驗，封號與違法序列号、跨區購物有關。
-  - 2011年4月下旬，Steam帳户与[PS3帳户连接](../Page/PS3.md "wikilink")，实现跨平台游戏配对、对战、好友系统、聊天和成就等。PS3上的Steam也可以把合作模式游戏进度和单人游戏存档保存在Steam云端，使玩家在任意的PS3主机上继续他们的游戏进度。
-  - 2011年5月初，Steam推出視訊分享功能，藉助全球最大的視訊分享網站[Youtube實現Steam用戶間的視訊分享](../Page/Youtube.md "wikilink")，付費用戶可以在社群介面進行Steam帳戶與Youtube帳號的連線，從而在Steam社群中實現方便快捷的玩家間的視訊分享。
+  - 2011年4月下旬，Steam帳户与[PS3帳户连接](https://zh.wikipedia.org/wiki/PS3 "wikilink")，实现跨平台游戏配对、对战、好友系统、聊天和成就等。PS3上的Steam也可以把合作模式游戏进度和单人游戏存档保存在Steam云端，使玩家在任意的PS3主机上继续他们的游戏进度。
+  - 2011年5月初，Steam推出視訊分享功能，藉助全球最大的視訊分享網站[Youtube實現Steam用戶間的視訊分享](https://zh.wikipedia.org/wiki/Youtube "wikilink")，付費用戶可以在社群介面進行Steam帳戶與Youtube帳號的連線，從而在Steam社群中實現方便快捷的玩家間的視訊分享。
   - 2011年6月上旬，Steam帳戶可與Facebook帳戶進行聯結，從而可以更加方便快捷的尋找好友，這使得Steam的交友功能變得更加完善。
-  - 2011年11月6日，黑客入侵Steam，盜取用戶個人資料，並使社群論壇關閉。11月10日，Valve表示此次事件中，有一個保存顧客資料的[數據庫被入侵](../Page/數據庫.md "wikilink")，黑客可存取玩家的資料例如：加密[密碼和](../Page/密碼.md "wikilink")[信用卡資料](../Page/信用卡.md "wikilink")。\[32\]而當時的[Valve根本還未意識到用戶資料有被入侵的風險](../Page/維爾福.md "wikilink")，只有警告玩家自我提防。
+  - 2011年11月6日，黑客入侵Steam，盜取用戶個人資料，並使社群論壇關閉。11月10日，Valve表示此次事件中，有一個保存顧客資料的[數據庫被入侵](https://zh.wikipedia.org/wiki/數據庫 "wikilink")，黑客可存取玩家的資料例如：加密[密碼和](../Page/密碼.md "wikilink")[信用卡資料](../Page/信用卡.md "wikilink")。\[32\]而當時的[Valve根本還未意識到用戶資料有被入侵的風險](https://zh.wikipedia.org/wiki/維爾福 "wikilink")，只有警告玩家自我提防。
   - 2012年9月，Valve启动Steam青睐之光，旨在征集社区帮助，挑选新游戏在Steam上发布。游戏开发者可以先上传游戏信息，随后玩家根据游戏信息进行投票，Valve根据投票结果决定游戏是否在Steam上架。
   - 2013年9月，官方宣布親友分享功能，並開放公開測試。此功能讓限定的親友，在單一的Steam客戶端上（即同一台機器上），選擇性地分享各自擁有的遊戲。
   - 2014年3月，官方宣布正式開放親友分享功能。
@@ -55,7 +56,7 @@ Interactive](../Page/Eidos.md "wikilink")\[28\]和[卡普空](../Page/卡普空.
   - 2016年11月24日，Steam支援[财付通支付](../Page/财付通.md "wikilink")，并且重新恢复[支付宝支付](../Page/支付宝.md "wikilink")。
   - 2017年6月13日，Steam青睐之光正式关闭，被SteamDirect取代。
   - 2017年12月16日起，Steam社区域名在中国大陆地区疑似遭到[防火长城关键字屏蔽和DNS污染](../Page/防火长城.md "wikilink")，原因未知。\[35\]但根据[百度贴吧一名吧友的说法](../Page/百度贴吧.md "wikilink")，steam社区功能被屏蔽之前，steam官方在2017年6月强制解散了一个名叫“[中国共产党](../Page/中国共产党.md "wikilink")”的群组。有可能是被屏蔽的原因之一。
-  - 2018年6月12日，中国[完美世界股份有限公司获得](../Page/完美世界股份有限公司.md "wikilink")[維爾福公司的授权](../Page/維爾福公司.md "wikilink")，代理Steam中国。\[36\]
+  - 2018年6月12日，中国[完美世界股份有限公司获得](https://zh.wikipedia.org/wiki/完美世界股份有限公司 "wikilink")[維爾福公司的授权](https://zh.wikipedia.org/wiki/維爾福公司 "wikilink")，代理Steam中国。\[36\]
   - 2018年11月28日，Steam中国正式落户上海浦东。\[37\]
 
 ## 地區內容限制
@@ -75,12 +76,12 @@ Guard加強了Steam帳戶的安全性能。
 ### 線上購物系統
 
 Steam採用[Global
-Collect公司的支付系統進行電子支付](../Page/Global_Collect.md "wikilink")，幣種為[美元](../Page/美元.md "wikilink")，[俄羅斯](../Page/俄羅斯.md "wikilink")、[巴西和](../Page/巴西.md "wikilink")[香港等本土化地区採用本地幣種進行支付](../Page/香港.md "wikilink")，採用區域定價策略。俄羅斯與[獨聯體國家普遍定價較低](../Page/獨立國家聯合體.md "wikilink")，有部份遊戲限為該區的版本就是「俄區遊戲」。Steam目前支持包括[PayPal](../Page/PayPal.md "wikilink")、[VISA](../Page/VISA.md "wikilink")、[MasterCard](../Page/MasterCard.md "wikilink")、[American
-Express](../Page/American_Express.md "wikilink")、[Discover](../Page/发现卡.md "wikilink")、[JCB](../Page/JCB.md "wikilink")、[银联](../Page/银联.md "wikilink")、[微信](../Page/微信.md "wikilink")、[支付宝](../Page/支付宝.md "wikilink")（中国大陆）、ClickandBuy、[MoneyBookers](../Page/MoneyBookers.md "wikilink")、PaySafeCard、、、[Carte
+Collect公司的支付系統進行電子支付](https://zh.wikipedia.org/wiki/Global_Collect "wikilink")，幣種為[美元](../Page/美元.md "wikilink")，[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[巴西和](../Page/巴西.md "wikilink")[香港等本土化地区採用本地幣種進行支付](../Page/香港.md "wikilink")，採用區域定價策略。俄羅斯與[獨聯體國家普遍定價較低](../Page/獨立國家聯合體.md "wikilink")，有部份遊戲限為該區的版本就是「俄區遊戲」。Steam目前支持包括[PayPal](../Page/PayPal.md "wikilink")、[VISA](https://zh.wikipedia.org/wiki/VISA "wikilink")、[MasterCard](https://zh.wikipedia.org/wiki/MasterCard "wikilink")、[American
+Express](https://zh.wikipedia.org/wiki/American_Express "wikilink")、[Discover](../Page/发现卡.md "wikilink")、[JCB](../Page/JCB.md "wikilink")、[银联](https://zh.wikipedia.org/wiki/银联 "wikilink")、[微信](../Page/微信.md "wikilink")、[支付宝](../Page/支付宝.md "wikilink")（中国大陆）、ClickandBuy、[MoneyBookers](https://zh.wikipedia.org/wiki/MoneyBookers "wikilink")、PaySafeCard、、、[Carte
 Bleue](../Page/Carte_Bleue.md "wikilink")、DIRECTebanking、Boleto
 Bancário、Hipercard等在內的多個國際或地區支付方式。
 
-2016年4月，威爾烏開始接受[比特幣進行電子支付](../Page/比特幣.md "wikilink")，但在2017年12月宣佈不再接受比特幣，理由是手續費暴增且幣值波動劇烈。\[39\]
+2016年4月，威爾烏開始接受[比特幣進行電子支付](https://zh.wikipedia.org/wiki/比特幣 "wikilink")，但在2017年12月宣佈不再接受比特幣，理由是手續費暴增且幣值波動劇烈。\[39\]
 
 ### 反作弊反盜版
 
@@ -115,7 +116,7 @@ SteamOS包括了Linux的架构以及为大屏幕模式设计的游戏体验。St
 ## 中国大陆的封锁
 
 2017年12月16日开始，
-因疑似被[防火长城](../Page/防火长城.md "wikilink")[封锁steamcommunity](../Page/中华人民共和国被封锁网站列表.md "wikilink").com域名下的steam社区内容，导致在中国大陆的用户除了商店外无法访问其他任何功能，需要修改[hosts或使用加速器等相关工具才能绕过封锁](../Page/hosts.md "wikilink")。\[43\]
+因疑似被[防火长城](../Page/防火长城.md "wikilink")[封锁steamcommunity](../Page/中华人民共和国被封锁网站列表.md "wikilink").com域名下的steam社区内容，导致在中国大陆的用户除了商店外无法访问其他任何功能，需要修改[hosts或使用加速器等相关工具才能绕过封锁](https://zh.wikipedia.org/wiki/hosts "wikilink")。\[43\]
 
 ## 默认启用https链接
 
@@ -137,7 +138,7 @@ steamcommunity.com），在hosts文件里添加这两行代码后即可直连社
   - [維爾福公司](http://www.valvesoftware.com/)
 
 [no:Valve
-Corporation\#Steam](../Page/no:Valve_Corporation#Steam.md "wikilink")
+Corporation\#Steam](https://zh.wikipedia.org/wiki/no:Valve_Corporation#Steam "wikilink")
 
 [Category:2003年軟體](https://zh.wikipedia.org/wiki/Category:2003年軟體 "wikilink")
 [Category:Steam](https://zh.wikipedia.org/wiki/Category:Steam "wikilink")

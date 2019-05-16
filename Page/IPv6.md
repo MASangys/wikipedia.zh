@@ -1,10 +1,10 @@
-**网际协议第6版**（，縮寫：**IPv6**）是[网际协议的最新版本](../Page/网际协议.md "wikilink")，用作[互联网的](../Page/互联网.md "wikilink")[網路層協議](../Page/網路層.md "wikilink")。用它来取代[IPv4主要是为了解决](../Page/IPv4.md "wikilink")[IPv4地址枯竭问题](../Page/IPv4地址枯竭问题.md "wikilink")，同时它也在其他方面对于IPv4有许多改进。
+**网际协议第6版**（，縮寫：**IPv6**）是[网际协议的最新版本](../Page/网际协议.md "wikilink")，用作[互联网的](../Page/互联网.md "wikilink")[網路層協議](https://zh.wikipedia.org/wiki/網路層 "wikilink")。用它来取代[IPv4主要是为了解决](../Page/IPv4.md "wikilink")[IPv4地址枯竭问题](https://zh.wikipedia.org/wiki/IPv4地址枯竭问题 "wikilink")，同时它也在其他方面对于IPv4有许多改进。
 
 IPv6的设计目的是取代IPv4，然而长期以来IPv4在互联网流量中仍占据主要地位，IPv6的使用增长缓慢。在2017年7月，通过IPv6使用[Google服务的用户百分率首次超过](../Page/Google.md "wikilink")20%。\[1\]
 
 ## 背景與目標
 
-现今的-{zh-hans:互联网络;zh-hk:互聯網絡;zh-sg:互联网络;zh-tw:網際網路;}-发展蓬勃，截至2018年1月，[全球上網人數已達](../Page/全球网际网路使用率.md "wikilink")40.21億，[IPv4僅能提供約](../Page/IPv4.md "wikilink")42.9億個IP位置。雖然目前的[网络地址转换及](../Page/网络地址转换.md "wikilink")[无类别域间路由等技術可延緩網路位置匱乏之現象](../Page/无类别域间路由.md "wikilink")，但為求解決根本問題，從1990年開始，[互联网工程工作小组開始規劃](../Page/互联网工程工作小组.md "wikilink")[IPv4的下一代協定](../Page/IPv4.md "wikilink")，除要解決即將遇到的IP位址短缺問題外，還要發展更多的擴充功能，為此IETF小組創建IPng，以讓後續工作順利進行。1994年，各IPng領域的代表們於[多倫多舉辦的IETF會議中](../Page/多倫多.md "wikilink")，正式提議**IPv6**發展計劃，該提議直到同年的11月17日才被認可，並於1996年8月10日成為IETF的草案標準，最終IPv6在1998年12月由互联网工程工作小组以互聯網標準規範（RFC
+现今的-{zh-hans:互联网络;zh-hk:互聯網絡;zh-sg:互联网络;zh-tw:網際網路;}-发展蓬勃，截至2018年1月，[全球上網人數已達](https://zh.wikipedia.org/wiki/全球网际网路使用率 "wikilink")40.21億，[IPv4僅能提供約](../Page/IPv4.md "wikilink")42.9億個IP位置。雖然目前的[网络地址转换及](../Page/网络地址转换.md "wikilink")[无类别域间路由等技術可延緩網路位置匱乏之現象](../Page/无类别域间路由.md "wikilink")，但為求解決根本問題，從1990年開始，[互联网工程工作小组開始規劃](https://zh.wikipedia.org/wiki/互联网工程工作小组 "wikilink")[IPv4的下一代協定](../Page/IPv4.md "wikilink")，除要解決即將遇到的IP位址短缺問題外，還要發展更多的擴充功能，為此IETF小組創建IPng，以讓後續工作順利進行。1994年，各IPng領域的代表們於[多倫多舉辦的IETF會議中](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，正式提議**IPv6**發展計劃，該提議直到同年的11月17日才被認可，並於1996年8月10日成為IETF的草案標準，最終IPv6在1998年12月由互联网工程工作小组以互聯網標準規範（RFC
 2460）的方式正式公佈。
 
 IPv6的計劃是建立未來網際網路擴充的基礎，其目標是取代IPv4，雖然IPv6在1994年就已被IETF指定作為IPv4的下一代標準，由於早期的路由器、防火牆、企業的[企业资源计划系統及相關應用程式皆須改寫](../Page/企业资源计划.md "wikilink")，所以在世界範圍內使用IPv6部署的公眾網與IPv4相比還非常的少\[2\]\[3\]，技術上仍以雙架構並存居多。預計在2025年以前IPv4仍會被支持，以便給新協議的修正留下足夠的時間。
@@ -13,11 +13,11 @@ IPv6能解決的核心問題與互聯網目前所面臨的關鍵問題之間出�
 
 ## 与IPv4比较
 
-在Internet上，数据以[分组的形式传输](../Page/分组.md "wikilink")。IPv6定义了一种新的[分组格式](../Page/IPv6分组.md "wikilink")，目的是为了最小化路由器处理的訊息標頭\[5\]\[6\]。由于IPv4訊息和IPv6訊息標頭有很大不同，因此这两种协议无法互操作。但是在大多数情况下，IPv6仅仅是对IPv4的一种保守擴展。除了嵌入了互联网地址的那些应用協議（如[FTP和](../Page/FTP.md "wikilink")[NTPv3](../Page/网络时间协议.md "wikilink")，新地址格式可能会与当前协议的语法冲突）以外，大多数传输层和应用层协议几乎不怎么需要修改就可以在IPv6上運行。
+在Internet上，数据以[分组的形式传输](https://zh.wikipedia.org/wiki/分组 "wikilink")。IPv6定义了一种新的[分组格式](https://zh.wikipedia.org/wiki/IPv6分组 "wikilink")，目的是为了最小化路由器处理的訊息標頭\[5\]\[6\]。由于IPv4訊息和IPv6訊息標頭有很大不同，因此这两种协议无法互操作。但是在大多数情况下，IPv6仅仅是对IPv4的一种保守擴展。除了嵌入了互联网地址的那些应用協議（如[FTP和](https://zh.wikipedia.org/wiki/FTP "wikilink")[NTPv3](https://zh.wikipedia.org/wiki/网络时间协议 "wikilink")，新地址格式可能会与当前协议的语法冲突）以外，大多数传输层和应用层协议几乎不怎么需要修改就可以在IPv6上運行。
 
 ### 无状态地址自动配置（SLAAC）
 
-当连接到IPv6网络上时，IPv6主机可以使用[邻居发现协议对自身进行自动配置](../Page/邻居发现协议.md "wikilink")。当第一次连接到网络上时，主机发送一个[链路本地路由器请求](../Page/链路本地地址.md "wikilink")（solicitation）多播请求来获取配置参数。路由器使用包含Internet层配置参数的路由器宣告（advertisement）报文进行回应\[7\]。
+当连接到IPv6网络上时，IPv6主机可以使用[邻居发现协议对自身进行自动配置](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")。当第一次连接到网络上时，主机发送一个[链路本地路由器请求](https://zh.wikipedia.org/wiki/链路本地地址 "wikilink")（solicitation）多播请求来获取配置参数。路由器使用包含Internet层配置参数的路由器宣告（advertisement）报文进行回应\[7\]。
 
 在不适合使用IPv6无状态地址自动配置的场景下，网络可以使用有状态配置，如[DHCPv6](../Page/DHCPv6.md "wikilink")，或者使用静态方法手动配置。
 
@@ -26,7 +26,7 @@ IPv6能解決的核心問題與互聯網目前所面臨的關鍵問題之間出�
 IPv6具有比IPv4大得多的编码地址空間。這是因為IPv6採用128位元的地址，而IPv4使用的是32位元。因此新增的地址空間支持2<sup>128</sup>（約3.4×10<sup>38</sup>）個位址，具体数量为340,282,366,920,938,463,463,374,607,431,768,211,456
 个，也可以說成16<sup>32</sup>個，因為32位地址每位可以取16個不同的值。
 
-[網絡地址轉換是目前減緩IPv](../Page/網絡地址轉換.md "wikilink")4地址耗盡最有效的方式，而IPv6的地址消除了對它的依賴，被認為足夠在可以預測的未來使用。就以地球人口70億人計算，每人平均可分得約4.86×10<sup>28</sup>（486117667×10<sup>20</sup>）個IPv6位址。
+[網絡地址轉換是目前減緩IPv](https://zh.wikipedia.org/wiki/網絡地址轉換 "wikilink")4地址耗盡最有效的方式，而IPv6的地址消除了對它的依賴，被認為足夠在可以預測的未來使用。就以地球人口70億人計算，每人平均可分得約4.86×10<sup>28</sup>（486117667×10<sup>20</sup>）個IPv6位址。
 
 IPv6從IPv4到IPv6最顯著的變化就是網絡地址的長度。RFC 2373和RFC
 2374定義的IPv6地址有128位長；IPv6地址的表達形式一般採用32個十六進制數。
@@ -35,8 +35,8 @@ IPv6從IPv4到IPv6最顯著的變化就是網絡地址的長度。RFC 2373和RFC
 
 ## IPv6格式
 
-IPv6二進位制下為128位元長度，以16位元為一組，每組以冒號「:」隔開，可以分為8組，每組以4-{位}-[十六進制方式表示](../Page/十六進制.md "wikilink")。例如：`2001:0db8:85a3:08d3:1319:8a2e:0370:7344`
-是一個合法的IPv6位址。类似于IPv4的点分十进制，同样也存在点分十六进制的写法，将8组4位十六进制地址的冒号去除后，每位以点号“.”分组，例如：`2001:0db8:85a3:08d3:1319:8a2e:0370:7344`则记为`2.0.0.1.0.d.b.8.8.5.a.3.0.8.d.3.1.3.1.9.8.a.2.e.0.3.7.0.7.3.4.4`，其倒序写法用于[ip6.arpa子域名记录IPv](../Page/.arpa.md "wikilink")6地址与域名的映射。
+IPv6二進位制下為128位元長度，以16位元為一組，每組以冒號「:」隔開，可以分為8組，每組以4-{位}-[十六進制方式表示](https://zh.wikipedia.org/wiki/十六進制 "wikilink")。例如：`2001:0db8:85a3:08d3:1319:8a2e:0370:7344`
+是一個合法的IPv6位址。类似于IPv4的点分十进制，同样也存在点分十六进制的写法，将8组4位十六进制地址的冒号去除后，每位以点号“.”分组，例如：`2001:0db8:85a3:08d3:1319:8a2e:0370:7344`则记为`2.0.0.1.0.d.b.8.8.5.a.3.0.8.d.3.1.3.1.9.8.a.2.e.0.3.7.0.7.3.4.4`，其倒序写法用于[ip6.arpa子域名记录IPv](https://zh.wikipedia.org/wiki/.arpa "wikilink")6地址与域名的映射。
 
 同時IPv6在某些條件下可以省略：
 
@@ -88,8 +88,8 @@ IPv6位址可分為三種：\[8\]
     以目前的應用為例，Anycast位址只能分配給中间设备（如路由器、三层交换机等），不能分配给终端设备（手机、电脑等），而且不能作為發送端的位址。
   - 多播（multicast）位址
     多播地址也稱組播地址。多播位址也被指定到一群不同的介面，送到多播位址的封包會被傳送到所有的位址。多播位址由皆為一的位元組起始，亦即：它們的前置為FF00::/8。其第二個位元組的最後四個位元用以標明"範疇"。
-    一般有node-local(0x1)、link-local(0x2)、site-local(0x5)、organization-local(0x8)和global(0xE)。多播位址中的最低112位元會組成多播群組識別碼，不過因為傳統方法是從[MAC位址產生](../Page/MAC位址.md "wikilink")，故只有群組識別碼中的最低32位元有使用。定義過的群組識別碼有用於所有節點的多播位址0x1和用於所有路由器的0x2。
-    另一個多播群組的位址為"solicited-node多播位址"，是由前置FF02::1:FF00:0/104和剩餘的群組識別碼（最低24位元）所組成。這些位址允許經由[鄰居發現協議](../Page/鄰居發現協議.md "wikilink")（NDP，Neighbor
+    一般有node-local(0x1)、link-local(0x2)、site-local(0x5)、organization-local(0x8)和global(0xE)。多播位址中的最低112位元會組成多播群組識別碼，不過因為傳統方法是從[MAC位址產生](https://zh.wikipedia.org/wiki/MAC位址 "wikilink")，故只有群組識別碼中的最低32位元有使用。定義過的群組識別碼有用於所有節點的多播位址0x1和用於所有路由器的0x2。
+    另一個多播群組的位址為"solicited-node多播位址"，是由前置FF02::1:FF00:0/104和剩餘的群組識別碼（最低24位元）所組成。這些位址允許經由[鄰居發現協議](https://zh.wikipedia.org/wiki/鄰居發現協議 "wikilink")（NDP，Neighbor
     Discovery Protocol）來解譯連結層位址，因而不用干擾到在區網內的所有節點。
 
 ### 特殊位址
@@ -111,7 +111,7 @@ IPv6中有些位址是有特殊含义的：
 
 <!-- end list -->
 
-  - `::1/128`－是一種單播[繞回位址](../Page/繞回.md "wikilink")。如果一個應用程式將封包送到此位址，IPv6堆疊會轉送這些封包繞回到同樣的虛擬介面（相當於IPv4中的[127.0.0.1/8](../Page/127.0.0.1.md "wikilink")）。
+  - `::1/128`－是一種單播[繞回位址](https://zh.wikipedia.org/wiki/繞回 "wikilink")。如果一個應用程式將封包送到此位址，IPv6堆疊會轉送這些封包繞回到同樣的虛擬介面（相當於IPv4中的[127.0.0.1/8](https://zh.wikipedia.org/wiki/127.0.0.1 "wikilink")）。
   - `fe80::/10`－這些链路本地位址指明，這些位址只在區域連線中是合法的，這有點類似於IPv4中的`169.254.0.0/16`。
 
 <!-- end list -->
@@ -120,9 +120,9 @@ IPv6中有些位址是有特殊含义的：
 
 <!-- end list -->
 
-  - `fc00::/7`－[唯一區域位址](../Page/唯一區域位址.md "wikilink")（ULA，unique local
-    address）只可在一群網站中繞送。這定義在RFC
-    4193中，是用來取代站点本地位域。這位址包含一個40位元的[偽隨機數](../Page/偽隨機數.md "wikilink")，以減少當網站合併或封包誤傳到網路時碰撞的風險。這些位址除了只能用於區域外，還具備全域性的範疇，這點違反了唯一區域位域所取代的站点本地位址的定義。
+  - `fc00::/7`－[唯一區域位址](https://zh.wikipedia.org/wiki/唯一區域位址 "wikilink")（ULA，unique
+    local address）只可在一群網站中繞送。這定義在RFC
+    4193中，是用來取代站点本地位域。這位址包含一個40位元的[偽隨機數](https://zh.wikipedia.org/wiki/偽隨機數 "wikilink")，以減少當網站合併或封包誤傳到網路時碰撞的風險。這些位址除了只能用於區域外，還具備全域性的範疇，這點違反了唯一區域位域所取代的站点本地位址的定義。
 
 <!-- end list -->
 
@@ -131,7 +131,7 @@ IPv6中有些位址是有特殊含义的：
 <!-- end list -->
 
   - `ff00::/8`－這個前置表明定義在"IP Version 6 Addressing Architecture"（RFC
-    4291）中的[多播位址](../Page/多播位址.md "wikilink")\[11\]。其中，有些位址已用於指定特殊協議，如`ff0X::101`对应所有區域的NTP伺服器（RFC
+    4291）中的[多播位址](https://zh.wikipedia.org/wiki/多播位址 "wikilink")\[11\]。其中，有些位址已用於指定特殊協議，如`ff0X::101`对应所有區域的NTP伺服器（RFC
     2375）。
 
 <!-- end list -->
@@ -148,8 +148,8 @@ IPv6中有些位址是有特殊含义的：
 
 <!-- end list -->
 
-  - `::ffff:x.x.x.x/96`－用於[IPv4映射位址](../Page/IPv4映射位址.md "wikilink")。（參見以下的[转换机制](../Page/#转换机制.md "wikilink")）。
-  - `2001::/32`－用於[Teredo隧道](../Page/Teredo隧道.md "wikilink")。
+  - `::ffff:x.x.x.x/96`－用於[IPv4映射位址](https://zh.wikipedia.org/wiki/IPv4映射位址 "wikilink")。（參見以下的[转换机制](https://zh.wikipedia.org/wiki/#转换机制 "wikilink")）。
+  - `2001::/32`－用於[Teredo隧道](https://zh.wikipedia.org/wiki/Teredo隧道 "wikilink")。
   - `2002::/16`－用於[6to4](../Page/6to4.md "wikilink")。
 
 <!-- end list -->
@@ -175,7 +175,7 @@ IPv6中有些位址是有特殊含义的：
 
 <!-- end list -->
 
-  - `::/96`－這個前置曾用於[IPv4相容位址](../Page/IPv4相容位址.md "wikilink")，現已刪除。
+  - `::/96`－這個前置曾用於[IPv4相容位址](https://zh.wikipedia.org/wiki/IPv4相容位址 "wikilink")，現已刪除。
   - `fec0::/10`－這個站点本地前置指明這位址只在組織內合法。它已在2004年9月的RFC3879中捨棄，並且新系統不應該支援這類型的位址。
 
 ## IPv6封包
@@ -183,7 +183,7 @@ IPv6中有些位址是有特殊含义的：
 [IPv6_header_rv1.png](https://zh.wikipedia.org/wiki/File:IPv6_header_rv1.png "fig:IPv6_header_rv1.png")
 IPv6封包由两个主要部分组成：头部和负载。
 
-包头是包的前64比特并且包含有源和目的地址，协议版本，通信类别（8位元，包优先级），流标记（20位元，[QoS服务质量控制](../Page/QoS.md "wikilink")），分组长度（16位），下一个头部（用于入栈解码，类似IPv4中的协议号），和跳段数限制（8位元，生存时间，相当于IPv4中的TTL）。后面是负载。MTU至少1280字节长，在常见的以太网环境中为1500字节。负载在标准模式下最大可为65535字节，如果扩展报头设置了"jumbo
+包头是包的前64比特并且包含有源和目的地址，协议版本，通信类别（8位元，包优先级），流标记（20位元，[QoS服务质量控制](https://zh.wikipedia.org/wiki/QoS "wikilink")），分组长度（16位），下一个头部（用于入栈解码，类似IPv4中的协议号），和跳段数限制（8位元，生存时间，相当于IPv4中的TTL）。后面是负载。MTU至少1280字节长，在常见的以太网环境中为1500字节。负载在标准模式下最大可为65535字节，如果扩展报头设置了"jumbo
 payload"选项，则长度值被置为0。
 
 IPv6曾有两个有着细微差别的版本；在RFC 1883中定义的原始版本（现在废弃）和RFC
@@ -210,19 +210,19 @@ AAAA模式只是IPv6域名系统的简单概括，A6模式使域名系统中检�
 
 ## IPv6部署与应用
 
-2004年7月时[ICANN声称網際網路的](../Page/ICANN.md "wikilink")[根域名服务器已经经过改进以同时支持IPv](../Page/根網域名稱伺服器.md "wikilink")6和IPv4。\[12\]
+2004年7月时[ICANN声称網際網路的](https://zh.wikipedia.org/wiki/ICANN "wikilink")[根域名服务器已经经过改进以同时支持IPv](../Page/根網域名稱伺服器.md "wikilink")6和IPv4。\[12\]
 
 缺点：
 
   - 需要在整个網際網路和它所连接到的设备上建立对IPv6的支持
   - 从IPv4访问时的转换过程中，在网关路由器（IPv6\<--\>IPv4）还是需要一个IPv4地址和一些[NAT](../Page/网络地址转换.md "wikilink")（=共享的IP地址），增加了它的复杂性，还意味着IPv6许诺的巨大的空间地址不能够立刻被有效的使用。
   - 遗留的结构问题，例如在对IPv6
-    [multihoming支持上一致性的匮乏](../Page/multihoming.md "wikilink")。
+    [multihoming支持上一致性的匮乏](https://zh.wikipedia.org/wiki/multihoming "wikilink")。
 
 工作：
 
   - 6bone
-  - [ICMPv6](../Page/ICMPv6.md "wikilink")
+  - [ICMPv6](https://zh.wikipedia.org/wiki/ICMPv6 "wikilink")
   - IPv6 multihoming
 
 部署進度：
@@ -248,7 +248,7 @@ Internet Transition）。\[17\]包含：
 
 许多转换机制使用隧道来把IPv6交通包封在IPv4网络中。这个解决方案并不完美，可能会增加延时以及引起**路径最大传输单元发现**（Path
 MTU
-Discovery）的问题，\[18\]它并不总能运行，因为过时的网络设备可能不支持IPv6。有线电视基础上的Internet访问就是一个例子。在现代的有线电视网络中，光纤同轴混合网（HFC）的核心（比如大型核心路由器）是有可能支持IPv6的。然而，其他网络设备（比如一个[线缆调制解调器终端系统](../Page/线缆调制解调器终端系统.md "wikilink")（CMTS）)以及用户设备（如[线缆调制解调器](../Page/线缆调制解调器.md "wikilink")）会需要软件更新或硬件更新来支持IPv6。这意味着线缆网络运营商必须调整适应隧道直至主干设备支持内部雙堆疊。
+Discovery）的问题，\[18\]它并不总能运行，因为过时的网络设备可能不支持IPv6。有线电视基础上的Internet访问就是一个例子。在现代的有线电视网络中，光纤同轴混合网（HFC）的核心（比如大型核心路由器）是有可能支持IPv6的。然而，其他网络设备（比如一个[线缆调制解调器终端系统](https://zh.wikipedia.org/wiki/线缆调制解调器终端系统 "wikilink")（CMTS）)以及用户设备（如[线缆调制解调器](https://zh.wikipedia.org/wiki/线缆调制解调器 "wikilink")）会需要软件更新或硬件更新来支持IPv6。这意味着线缆网络运营商必须调整适应隧道直至主干设备支持内部雙堆疊。
 
 ### 雙堆疊
 
@@ -260,9 +260,9 @@ implementation）是將IPv6視為一種IPv4的延伸，以共享程式碼的方�
 
 ### 隧道
 
-隧道（Tunneling）是另一個用來連結IPv4與IPv6的機制。為了連通IPv6網際網路，一個孤立主機或網路需要使用現存IPv4的基礎設施來攜帶IPv6封包。這可由將IPv6封包裝入IPv4封包的[隧道協議來完成](../Page/隧道協議.md "wikilink")，實際上就是將IPv4當成IPv6的連結層。
+隧道（Tunneling）是另一個用來連結IPv4與IPv6的機制。為了連通IPv6網際網路，一個孤立主機或網路需要使用現存IPv4的基礎設施來攜帶IPv6封包。這可由將IPv6封包裝入IPv4封包的[隧道協議來完成](https://zh.wikipedia.org/wiki/隧道協議 "wikilink")，實際上就是將IPv4當成IPv6的連結層。
 
-IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IPv6亦能加入UDP封包，如為了跨過一些會阻擋協議41流量的路由器或NAT設備。其它流行的封裝機制則有[AYIYA和](../Page/AYIYA.md "wikilink")[GRE](../Page/通用路由封装.md "wikilink")。
+IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IPv6亦能加入UDP封包，如為了跨過一些會阻擋協議41流量的路由器或NAT設備。其它流行的封裝機制則有[AYIYA和](https://zh.wikipedia.org/wiki/AYIYA "wikilink")[GRE](../Page/通用路由封装.md "wikilink")。
 
 #### 自動隧道
 
@@ -270,40 +270,40 @@ IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IP
 3056建議使用[6to4穿隧技術來自動隧道](../Page/6to4.md "wikilink")，其會使用41協議來封裝。\[19\]
 隧道端點是由遠端知名的IPv4任播位址所決定，並在本地端嵌入IPv4位址資訊到IPv6中。現今6to4是廣泛佈署的。
 
-[Teredo是使用UDP封裝的隧道技術](../Page/Teredo.md "wikilink")，據稱可跨越多個NAT設備。\[20\]Teredo並非廣泛用於佈署的，但一個實驗性版本的Teredo已安裝於Windows
+[Teredo是使用UDP封裝的隧道技術](https://zh.wikipedia.org/wiki/Teredo "wikilink")，據稱可跨越多個NAT設備。\[20\]Teredo並非廣泛用於佈署的，但一個實驗性版本的Teredo已安裝於Windows
 XP SP2 IPv6堆疊中。IPv6，包含6to4隧道和Teredo隧道，在[Windows
 Vista中預設是啟動的](../Page/Windows_Vista.md "wikilink")。\[21\]許多Unix系統只支援原生的6to4，但Teredo可由如Miredoo的第三方軟體來提供。
 
-[ISATAP](../Page/ISATAP.md "wikilink")\[22\]藉由將IPv4位址對應到IPv6的链路本地位址，從而將IPv4網路視為一種虛擬的IPv6區域連線。不像6to4和Teredo是*站點間*的隧道機制，ISATAP是一種*站點內*機制，意味著它是用來設計提供在一個組織內節點之間的IPv6連接性。
+[ISATAP](https://zh.wikipedia.org/wiki/ISATAP "wikilink")\[22\]藉由將IPv4位址對應到IPv6的链路本地位址，從而將IPv4網路視為一種虛擬的IPv6區域連線。不像6to4和Teredo是*站點間*的隧道機制，ISATAP是一種*站點內*機制，意味著它是用來設計提供在一個組織內節點之間的IPv6連接性。
 
 #### 組態隧道（6in4）
 
 在*組態隧道*中，如[6in4隧道隧](../Page/6in4.md "wikilink")，隧道端點是要明確組態過的，可以是藉由管理員手動或作業系統的組態機制，或者藉由如tunnel
 broker等的自動服務。\[23\]組態隧道通常比自動隧道更容易去除錯，故建議用於大型且良好管理的網路。
 
-組態隧道在IPv4隧道上，使用[網際協議中號碼的](../Page/網際協議.md "wikilink")41號。
+組態隧道在IPv4隧道上，使用[網際協議中號碼的](https://zh.wikipedia.org/wiki/網際協議 "wikilink")41號。
 
 ### 用於只支援IPv6主機的代理和轉譯
 
-在[區域網際網路註冊管理機構耗盡所有可使用的IPv](../Page/RIR.md "wikilink")4位址後，非常有可能使新加入網際網路的主機只具有IPv6連接能力。對這些須要向後相容以能存取IPv4資源的客戶端，須要佈署合適的轉換機制。
+在[區域網際網路註冊管理機構耗盡所有可使用的IPv](https://zh.wikipedia.org/wiki/RIR "wikilink")4位址後，非常有可能使新加入網際網路的主機只具有IPv6連接能力。對這些須要向後相容以能存取IPv4資源的客戶端，須要佈署合適的轉換機制。
 
-一種轉換技術是使用雙堆疊的[應用層代理](../Page/代理伺服器.md "wikilink")，如網頁代理伺服器。
+一種轉換技術是使用雙堆疊的[應用層代理](https://zh.wikipedia.org/wiki/代理伺服器 "wikilink")，如網頁代理伺服器。
 
 一些對於應用程式無法得知但在其低層使用類NAT轉換技術也曾被提出。但因為一般應用層協議所要求的能力其應用太廣，其中大部分都被認定在實際上太不可靠，並且被認為應刪除。
 
 ## 主要的IPv6公告
 
   - 在2003年，[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")（在2003年被CNET亚洲机构引用）报告中说日本、中国和韩国声称已经决定要在网络技术中寻求领先，将部分参与IPv6的开发并在2005年开始全面采用IPv6。
-  - [ICANN在](../Page/ICANN.md "wikilink")2004年7月20日发表声明，称[DNS根服务器已经建立对应日本](../Page/網域名稱系統.md "wikilink")（[.jp](../Page/.jp.md "wikilink")）和韩国（[.kr](../Page/.kr.md "wikilink")）的顶级域名服务器的AAAA记录，序列号为2004072000。对应法国的（[.fr](../Page/.fr.md "wikilink")）IPv6记录会再晚一点时间加入。
+  - [ICANN在](https://zh.wikipedia.org/wiki/ICANN "wikilink")2004年7月20日发表声明，称[DNS根服务器已经建立对应日本](https://zh.wikipedia.org/wiki/網域名稱系統 "wikilink")（[.jp](../Page/.jp.md "wikilink")）和韩国（[.kr](https://zh.wikipedia.org/wiki/.kr "wikilink")）的顶级域名服务器的AAAA记录，序列号为2004072000。对应法国的（[.fr](https://zh.wikipedia.org/wiki/.fr "wikilink")）IPv6记录会再晚一点时间加入。
   - 2011年[互联网协会将](../Page/互联网协会.md "wikilink")6月8日定为[世界IPv6日](../Page/世界IPv6日.md "wikilink")。包括Google、Facebook和雅虎在内的参与者将在当天对他们的主要服务启用IPv6，以推进互联网工业加速部署全面IPv6支持\[24\]。
-  - 2017年11月26日，[中共中央办公厅](../Page/中共中央办公厅.md "wikilink")、[国务院办公厅印发](../Page/国务院办公厅.md "wikilink")《推进互联网协议第六版（IPv6）规模部署行动计划》，要求各地各部门贯彻落实。其中主要目标包括：到2018年末，IPv6活跃用户数达2亿，互联网用户中占比不低于20%；到2020年末，IPv6活跃用户数超过5亿，互联网用户中占比超过50%，新增网络地址不再使用私有IPv4地址；到2025年末，中国IPv6网络规模、用户规模、流量规模位居世界第一，网络、应用、终端全面支持IPv6\[25\]。
+  - 2017年11月26日，[中共中央办公厅](../Page/中共中央办公厅.md "wikilink")、[国务院办公厅印发](https://zh.wikipedia.org/wiki/国务院办公厅 "wikilink")《推进互联网协议第六版（IPv6）规模部署行动计划》，要求各地各部门贯彻落实。其中主要目标包括：到2018年末，IPv6活跃用户数达2亿，互联网用户中占比不低于20%；到2020年末，IPv6活跃用户数超过5亿，互联网用户中占比超过50%，新增网络地址不再使用私有IPv4地址；到2025年末，中国IPv6网络规模、用户规模、流量规模位居世界第一，网络、应用、终端全面支持IPv6\[25\]。
 
 ## 参見
 
   - [OSI模型](../Page/OSI模型.md "wikilink")
   - [IPv4](../Page/IPv4.md "wikilink")
-  - [TCP/IP协议](../Page/TCP/IP协议.md "wikilink")
-  - [CNGI](../Page/CNGI.md "wikilink")
+  - [TCP/IP协议](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")
+  - [CNGI](https://zh.wikipedia.org/wiki/CNGI "wikilink")
 
 ## 相关的IETF工作组
 

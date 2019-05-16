@@ -1,6 +1,6 @@
-****（前稱****）是公司的網站開發軟件。它使用[所見即所得的介面](../Page/所見即所得.md "wikilink")，亦有編輯的功能。它現在有和系統的版本。原本由公司所開發。
+****（前稱****）是公司的網站開發軟件。它使用[所見即所得的介面](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")，亦有編輯的功能。它現在有和系統的版本。原本由公司所開發。
 
-Dreamweaver由MX版本開始使用[Opera軟體公司的](../Page/Opera軟體公司.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")「[Presto](../Page/Presto.md "wikilink")」作為網頁預覽。由CS4版本開始，則轉用WebKit排版引擎（亦即Google
+Dreamweaver由MX版本開始使用[Opera軟體公司的](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")「[Presto](../Page/Presto.md "wikilink")」作為網頁預覽。由CS4版本開始，則轉用WebKit排版引擎（亦即Google
 Chrome和Apple Safari瀏覽器所用的排版引擎）作為網頁預覽。
 
 ## 特色
@@ -97,40 +97,40 @@ Dreamweaver現多捆綁其他Adobe產品以套裝發售，但仍可個別購買�
 <td></td>
 <td><p>8.0</p></td>
 <td><p>2005年9月13日</p></td>
-<td><p>最后一个Macromedia版本。 包括在Adobe <a href="../Page/Adobe_Creative_Suite#Creative_Suite_1_and_2.md" title="wikilink">CS2.3</a>。[1]</p></td>
+<td><p>最后一个Macromedia版本。 包括在Adobe <a href="https://zh.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_1_and_2" title="wikilink">CS2.3</a>。[1]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Adobe_Systems.md" title="wikilink">Adobe Systems</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Systems" title="wikilink">Adobe Systems</a></p></td>
 <td></td>
-<td><p><a href="../Page/Adobe_Creative_Suite#Creative_Suite_3.md" title="wikilink">CS3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_3" title="wikilink">CS3</a></p></td>
 <td><p>2007年4月16日</p></td>
 <td><p>替换<a href="../Page/Adobe_GoLive.md" title="wikilink">Adobe GoLive加入</a><a href="../Page/Adobe_Creative_Suite.md" title="wikilink">Adobe Creative Suite</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Adobe_Creative_Suite#Creative_Suite_3.md" title="wikilink">CS3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_3" title="wikilink">CS3</a></p></td>
 <td><p>2008年9月23日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Adobe_Creative_Suite#Creative_Suite_5.md" title="wikilink">CS5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_5" title="wikilink">CS5</a></p></td>
 <td><p>2010年4月12日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Adobe_Creative_Suite#Creative_Suite_5.5.md" title="wikilink">CS5.5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_5.5" title="wikilink">CS5.5</a></p></td>
 <td><p>2011年4月12日</p></td>
 <td><p>支持HTML5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Adobe_Creative_Suite#Creative_Suite_6.md" title="wikilink">CS6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_6" title="wikilink">CS6</a></p></td>
 <td><p>2012年4月21日</p></td>
 <td></td>
 <td></td>
@@ -189,8 +189,8 @@ Dreamweaver現多捆綁其他Adobe產品以套裝發售，但仍可個別購買�
 
 ## 參見
 
-  - [網頁設計](../Page/網頁設計.md "wikilink")
-  - [網路應用程式](../Page/網路應用程式.md "wikilink")
+  - [網頁設計](https://zh.wikipedia.org/wiki/網頁設計 "wikilink")
+  - [網路應用程式](https://zh.wikipedia.org/wiki/網路應用程式 "wikilink")
 
 ## 參考文獻
 

@@ -1,8 +1,8 @@
-**Smalltalk**是一种[面向对象的](../Page/面向对象程序设计.md "wikilink")、[动态类型的](../Page/动态类型.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。Smalltalk由[艾伦·凯](../Page/艾伦·凯.md "wikilink")，Dan
+**Smalltalk**是一种[面向对象的](../Page/面向对象程序设计.md "wikilink")、[动态类型的](https://zh.wikipedia.org/wiki/动态类型 "wikilink")[编程语言](../Page/编程语言.md "wikilink")。Smalltalk由[艾伦·凯](../Page/艾伦·凯.md "wikilink")，Dan
 Ingalls，Ted Kaehler，Adele Goldberg等于70年代初在[Xerox
-PARC开发](../Page/Xerox_PARC.md "wikilink")。
+PARC开发](https://zh.wikipedia.org/wiki/Xerox_PARC "wikilink")。
 
-Smalltalk对其它众多的程序设计语言的产生起到了极大的推动作用，主要有：[C++](../Page/C++.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[Objective-C](../Page/Objective-C.md "wikilink")，[Actor](../Page/Actor.md "wikilink")，[Java和](../Page/Java.md "wikilink")[Ruby等](../Page/Ruby.md "wikilink")。90年代的许多软件开发思想得利于Smalltalk，例如[设计模式](../Page/设计模式_\(计算机\).md "wikilink")、[敏捷编程和](../Page/敏捷编程.md "wikilink")[代码重构等](../Page/代码重构.md "wikilink")。
+Smalltalk对其它众多的程序设计语言的产生起到了极大的推动作用，主要有：[C++](../Page/C++.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[Objective-C](../Page/Objective-C.md "wikilink")，[Actor](https://zh.wikipedia.org/wiki/Actor "wikilink")，[Java和](../Page/Java.md "wikilink")[Ruby等](../Page/Ruby.md "wikilink")。90年代的许多软件开发思想得利于Smalltalk，例如[设计模式](../Page/设计模式_\(计算机\).md "wikilink")、[敏捷编程和](https://zh.wikipedia.org/wiki/敏捷编程 "wikilink")[代码重构等](../Page/代码重构.md "wikilink")。
 
 ## 什么是Smalltalk
 
@@ -13,7 +13,7 @@ Smalltalk和许多程序设计语言不同，它不仅仅是一门语言。下�
 <!-- end list -->
 
   - 一种程序设计环境：这里指的是一种提供许多[-{zh-hans:对象;
-    zh-hant:物件;}-的系统](../Page/对象.md "wikilink")，而不是某种特殊的开发环境。和许多语言不同（包括[C++](../Page/C++.md "wikilink")），Smalltalk附带有一个巨大的、相当标准的类库。这些[类使得开发Smalltalk程序的效率非常高](../Page/类.md "wikilink")。在其它语言（例如[Ada](../Page/Ada.md "wikilink")，[C和](../Page/C语言.md "wikilink")[Pascal](../Page/Pascal.md "wikilink")）中通常被作为语言的一部分的功能（例如条件判断，循环等），在Smalltalk由特定的类提供。
+    zh-hant:物件;}-的系统](https://zh.wikipedia.org/wiki/对象 "wikilink")，而不是某种特殊的开发环境。和许多语言不同（包括[C++](../Page/C++.md "wikilink")），Smalltalk附带有一个巨大的、相当标准的类库。这些[类使得开发Smalltalk程序的效率非常高](https://zh.wikipedia.org/wiki/类 "wikilink")。在其它语言（例如[Ada](../Page/Ada.md "wikilink")，[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Pascal](https://zh.wikipedia.org/wiki/Pascal "wikilink")）中通常被作为语言的一部分的功能（例如条件判断，循环等），在Smalltalk由特定的类提供。
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@ zh-hant:物件;}-发送消息来实现重复执行。
 
 ## Smalltalk的历史
 
-最早的Smalltalk原型由[艾伦·凯于](../Page/艾伦·凯.md "wikilink")70年代初提出。类（来自Simula-67）、海龟绘图（来自MIT的[LOGO](../Page/Logo语言.md "wikilink")）以及[图形界面等概念的有机组合](../Page/图形界面.md "wikilink")，构成了Smalltalk的最初的蓝图。
+最早的Smalltalk原型由[艾伦·凯于](../Page/艾伦·凯.md "wikilink")70年代初提出。类（来自Simula-67）、海龟绘图（来自MIT的[LOGO](https://zh.wikipedia.org/wiki/Logo语言 "wikilink")）以及[图形界面等概念的有机组合](https://zh.wikipedia.org/wiki/图形界面 "wikilink")，构成了Smalltalk的最初的蓝图。
 
 ### Smalltalk-71與Smalltalk-72
 
@@ -54,7 +54,7 @@ Ingalls負責主要實作。这个系统具有以下几个技术创新：
 
   - 引入了继承和子类的概念。
   - 确定了语言的语法，这使得编译器能够产生高效、可执行、精炼的二进制代码。
-  - [拉里·泰斯勒](../Page/拉里·泰斯勒.md "wikilink")（Larry
+  - [拉里·泰斯勒](https://zh.wikipedia.org/wiki/拉里·泰斯勒 "wikilink")（Larry
     Tesler）设计了浏览器，这极大地提高了Smalltalk程序员的编程效率。
 
 前述的所有Smalltalk系统都是在特殊的硬件上实现的，直到1977－78年，Bruce Horn和Ted

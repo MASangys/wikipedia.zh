@@ -1,17 +1,18 @@
 **Xbox
-360**是美國的電腦軟體公司[微軟所發行的第二部家用](../Page/微軟.md "wikilink")[遊戲主機](../Page/遊戲機.md "wikilink")，為[Xbox的後繼機種](../Page/Xbox.md "wikilink")。Xbox
-360為[索尼電腦娛樂](../Page/索尼電腦娛樂.md "wikilink")[PlayStation
-3和](../Page/PlayStation_3.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")[Wii的市場競爭者](../Page/Wii.md "wikilink")，同為[第七世代遊戲主機](../Page/電子遊戲歷史#.E7.AC.AC.E4.B8.83.E4.B8.96.E4.BB.A3_.282004.E2.80.93.E7.8F.BE.E4.BB.8A_.29.md "wikilink")。Xbox
-360最早於2005年5月12日，在[E3遊戲展前一星期首度曝光](../Page/E3.md "wikilink")，2005年11月22日在[北美地區上市](../Page/北美地區.md "wikilink")，其後擴展至[歐洲及](../Page/歐洲.md "wikilink")[日本地區](../Page/日本.md "wikilink")，而[香港及](../Page/香港.md "wikilink")[台灣也已經於](../Page/台灣.md "wikilink")2006年3月16日正式上市。
+360**是美國的電腦軟體公司[微軟所發行的第二部家用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[遊戲主機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，為[Xbox的後繼機種](https://zh.wikipedia.org/wiki/Xbox "wikilink")。Xbox
+360為[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation
+3和](../Page/PlayStation_3.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")[Wii的市場競爭者](../Page/Wii.md "wikilink")，同為[第七世代遊戲主機](https://zh.wikipedia.org/wiki/電子遊戲歷史#.E7.AC.AC.E4.B8.83.E4.B8.96.E4.BB.A3_.282004.E2.80.93.E7.8F.BE.E4.BB.8A_.29 "wikilink")。Xbox
+360最早於2005年5月12日，在[E3遊戲展前一星期首度曝光](https://zh.wikipedia.org/wiki/E3 "wikilink")，2005年11月22日在[北美地區上市](https://zh.wikipedia.org/wiki/北美地區 "wikilink")，其後擴展至[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[日本地區](../Page/日本.md "wikilink")，而[香港及](../Page/香港.md "wikilink")[台灣也已經於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2006年3月16日正式上市。
 
-Xbox 360可與[Xbox LIVE緊密結合](../Page/Xbox_LIVE.md "wikilink")，玩家可以透過Xbox
-LIVE在[網路上進行連線對戰](../Page/網路.md "wikilink")，或者下載遊戲、音樂、電影和電視節目。Xbox
-360也可以連結[電腦上的](../Page/電腦.md "wikilink")[Windows Media
-Center](../Page/Windows_Media_Center.md "wikilink")，讓Xbox
+Xbox 360可與[Xbox
+LIVE緊密結合](https://zh.wikipedia.org/wiki/Xbox_LIVE "wikilink")，玩家可以透過Xbox
+LIVE在[網路上進行連線對戰](https://zh.wikipedia.org/wiki/網路 "wikilink")，或者下載遊戲、音樂、電影和電視節目。Xbox
+360也可以連結[電腦上的](https://zh.wikipedia.org/wiki/電腦 "wikilink")[Windows
+Media Center](../Page/Windows_Media_Center.md "wikilink")，讓Xbox
 360分享電腦中儲存的圖片、音樂、影片、電影和電視節目。Xbox
-360也在個別地區提供與第三方廠商合作的多媒體[串流服務](../Page/串流.md "wikilink")，例如在[美國的](../Page/美國.md "wikilink")[Netflix和](../Page/Netflix.md "wikilink")[ESPN服務](../Page/ESPN.md "wikilink")，以及[英國的](../Page/英國.md "wikilink")[Sky
-Player服務](../Page/Sky_Player.md "wikilink")。在台灣則是和[台中的](../Page/台中.md "wikilink")[威達雲端電訊合作](../Page/威達雲端電訊.md "wikilink")(現名為大台中數位有線電視)，將Xbox
-360當作數位[機上盒](../Page/機上盒.md "wikilink")，提供高畫質電視節目。
+360也在個別地區提供與第三方廠商合作的多媒體[串流服務](https://zh.wikipedia.org/wiki/串流 "wikilink")，例如在[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[Netflix和](../Page/Netflix.md "wikilink")[ESPN服務](../Page/ESPN.md "wikilink")，以及[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[Sky
+Player服務](https://zh.wikipedia.org/wiki/Sky_Player "wikilink")。在台灣則是和[台中的](https://zh.wikipedia.org/wiki/台中 "wikilink")[威達雲端電訊合作](https://zh.wikipedia.org/wiki/威達雲端電訊 "wikilink")(現名為大台中數位有線電視)，將Xbox
+360當作數位[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")，提供高畫質電視節目。
 
 2016年4月20日，微軟公司宣佈將停產Xbox 360，但Xbox LIVE將繼續為現有的Xbox
 360玩家服務\[1\]，現今為2019年，目前微軟官網宣布最低支援商品為Xbox One S，Xbox
@@ -23,15 +24,16 @@ Player服務](../Page/Sky_Player.md "wikilink")。在台灣則是和[台中的](
 
 Xbox 360在開發時有著Xbox Next、Xenon、Xbox 2和Xbox FS等稱呼。Xbox
 360的構想在2003年初被提出。2003年2月，由微軟副總裁J
-Allard帶領的Xenon軟體平台設計計畫展開，同月，微軟邀請了四百名遊戲開發者在[華盛頓州的](../Page/華盛頓州.md "wikilink")[貝爾維尤舉行會議](../Page/貝爾維尤.md "wikilink")，以尋求他們對新遊戲主機的支持。同樣在二月時，前美國[SEGA總裁Peter](../Page/SEGA.md "wikilink")
-Moore加入了微軟。2003年8月12日，[ATI與微軟簽訂製造新主機顯示晶片的合約](../Page/ATI.md "wikilink")，此協議並在簽訂的兩天後公開。在Xbox
-360正式上市前，多部初期開發套件被發現是用[蘋果的](../Page/蘋果.md "wikilink")[Power Mac
-G5所改裝而成](../Page/Power_Mac_G5.md "wikilink")。這是因為Power Mac
-G5的[PowerPC 970處理器架構與Xbox](../Page/PowerPC_970.md "wikilink")
+Allard帶領的Xenon軟體平台設計計畫展開，同月，微軟邀請了四百名遊戲開發者在[華盛頓州的](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[貝爾維尤舉行會議](https://zh.wikipedia.org/wiki/貝爾維尤 "wikilink")，以尋求他們對新遊戲主機的支持。同樣在二月時，前美國[SEGA總裁Peter](https://zh.wikipedia.org/wiki/SEGA "wikilink")
+Moore加入了微軟。2003年8月12日，[ATI與微軟簽訂製造新主機顯示晶片的合約](https://zh.wikipedia.org/wiki/ATI "wikilink")，此協議並在簽訂的兩天後公開。在Xbox
+360正式上市前，多部初期開發套件被發現是用[蘋果的](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[Power
+Mac G5所改裝而成](../Page/Power_Mac_G5.md "wikilink")。這是因為Power Mac
+G5的[PowerPC
+970處理器架構與Xbox](https://zh.wikipedia.org/wiki/PowerPC_970 "wikilink")
 360所使用的[IBM特製Xenon處理器相同](../Page/IBM.md "wikilink")。Xenon處理器的核心是從[PlayStation
-3的](../Page/PlayStation_3.md "wikilink")[Cell處理器PPE架構些微修改而來](../Page/Cell.md "wikilink")。根據David
+3的](../Page/PlayStation_3.md "wikilink")[Cell處理器PPE架構些微修改而來](https://zh.wikipedia.org/wiki/Cell "wikilink")。根據David
 Shippy和Mickie
-Phipps的說法，IBM的員工對[索尼和](../Page/索尼.md "wikilink")[東芝隱藏了這件事](../Page/東芝.md "wikilink")。
+Phipps的說法，IBM的員工對[索尼和](../Page/索尼.md "wikilink")[東芝隱藏了這件事](https://zh.wikipedia.org/wiki/東芝 "wikilink")。
 
 ### 名称由来
 
@@ -42,20 +44,20 @@ Phipps的說法，IBM的員工對[索尼和](../Page/索尼.md "wikilink")[東�
 ### 上市
 
 Xbox
-360於2005年11月22日在[美國和](../Page/美國.md "wikilink")[加拿大上市](../Page/加拿大.md "wikilink")，隨後於12月2日在[歐洲](../Page/歐洲.md "wikilink")、12月10日在日本上市。2006年3月16日於[香港和](../Page/香港.md "wikilink")[台灣上市](../Page/台灣.md "wikilink")。Xbox
+360於2005年11月22日在[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大上市](../Page/加拿大.md "wikilink")，隨後於12月2日在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、12月10日在日本上市。2006年3月16日於[香港和](../Page/香港.md "wikilink")[台灣上市](https://zh.wikipedia.org/wiki/台灣 "wikilink")。Xbox
 360第一年就在36個國家上市，創下遊戲主機第一年上市國家數的新紀錄。
 
 上市初的Xbox
-360外型呈白色流線型，使用三核心[IBM](../Page/IBM.md "wikilink")[PowerPC架構的Xenon處理器以及](../Page/PowerPC.md "wikilink")[ATI設計的Xenos顯示晶片](../Page/ATI.md "wikilink")，主機並內建網路連線功能，亦支援[DVD影片播放](../Page/DVD.md "wikilink")。
+360外型呈白色流線型，使用三核心[IBM](../Page/IBM.md "wikilink")[PowerPC架構的Xenon處理器以及](../Page/PowerPC.md "wikilink")[ATI設計的Xenos顯示晶片](https://zh.wikipedia.org/wiki/ATI "wikilink")，主機並內建網路連線功能，亦支援[DVD影片播放](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ### 加強多媒體影音功能
 
 [Xbox_360_at_CEATEC_2006.jpg](https://zh.wikipedia.org/wiki/File:Xbox_360_at_CEATEC_2006.jpg "fig:Xbox_360_at_CEATEC_2006.jpg")（右）\]\]
-微軟於2006年1月[CES大會表示將於年底推出HD](../Page/CES.md "wikilink")-DVD外接光碟機。Xbox360外接式HD-DVD光碟機將完全支援HD-DVD播放機所具備的基本影音規範與功能，影像解碼則由[GPU](../Page/GPU.md "wikilink")
+微軟於2006年1月[CES大會表示將於年底推出HD](https://zh.wikipedia.org/wiki/CES "wikilink")-DVD外接光碟機。Xbox360外接式HD-DVD光碟機將完全支援HD-DVD播放機所具備的基本影音規範與功能，影像解碼則由[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")
 Xenos與中央處理器負責。該外接式光碟機採用[USB](../Page/USB.md "wikilink")2.0介面與主機連接，本體並另含兩組USB2.0連接埠。2006年11月微軟開放了Live
-Marketplace的服務，美國用戶可於Live賣場購買由各大[好萊塢片商與電視公司提供之商業影片](../Page/好萊塢.md "wikilink")、電視影集下載至主機觀看。片源種類涵蓋了最新的電影與電視影集。
+Marketplace的服務，美國用戶可於Live賣場購買由各大[好萊塢片商與電視公司提供之商業影片](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")、電視影集下載至主機觀看。片源種類涵蓋了最新的電影與電視影集。
 
-2007年1月微軟於[CES大會上宣佈將於](../Page/CES.md "wikilink")2007年末在Xbox
+2007年1月微軟於[CES大會上宣佈將於](https://zh.wikipedia.org/wiki/CES "wikilink")2007年末在Xbox
 360上推出[IPTV服務](../Page/IPTV.md "wikilink")，與美國各網路服務商與頻道提供商合作，以網路串流技術實現隨選視訊之平台。Xbox
 360的IPTV將不僅止於單純地線上觀看電視頻道之功能，該系統將與Xbox
 Live完整結合，可讓使用者於背景錄製節目，暢玩遊戲與線上好友語音視訊聊天。
@@ -64,7 +66,7 @@ Live完整結合，可讓使用者於背景錄製節目，暢玩遊戲與線上�
 
 2007年3月29日微軟宣佈售價479[美元的Xbox](../Page/美元.md "wikilink") 360
 Elite精英版主機將於一個月後於美國上市。Elite版主機與手把為全黑塗裝，新增[HDMI原生輸出端口與提升硬碟容量至](../Page/HDMI.md "wikilink")120
-[GB](../Page/GB.md "wikilink")，4月29日在北美各大賣場上市。Elite初期需求量超乎業界預期。8月8日微軟宣佈北美即日起無硬碟之遊樂版Xbox
+[GB](https://zh.wikipedia.org/wiki/GB "wikilink")，4月29日在北美各大賣場上市。Elite初期需求量超乎業界預期。8月8日微軟宣佈北美即日起無硬碟之遊樂版Xbox
 360主機售價降至279美元、有20
 GB硬碟之豪華版降至349美元、精英版降至449美元。豪華版新增HDMI輸出支援，並全面搭載2007年夏季起用於繪圖晶片的新型熱導管以加強散熱對流效率。2008年9月5日微軟Xbox
 Live首席程式設計師Larry Major Nelson Hryb宣佈北美Xbox 360遊樂版售價降至199美元、有60
@@ -79,7 +81,7 @@ Experience），讓玩家能夠如同Wii的Mii功能一樣創造屬於自己的�
 ### 新型Xbox 360主機與Kinect
 
 2009年6月1日微軟於E3遊戲展中公佈代號為[Project
-Natal的體感裝置](../Page/Project_Natal.md "wikilink")，讓玩家可以透過玩家的肢體動作或語音來進行Xbox
+Natal的體感裝置](https://zh.wikipedia.org/wiki/Project_Natal "wikilink")，讓玩家可以透過玩家的肢體動作或語音來進行Xbox
 360介面以及遊戲的操控。隔年6月，微軟在E3遊戲展中宣佈Project
 Natal體感裝置的正式名稱為[Kinect](../Page/Kinect.md "wikilink")，並預計於11月在美國上市，售價149美元。會中並發表了新型Xbox
 360主機Xbox 360
@@ -99,8 +101,8 @@ S。新的輕薄版主機改變了原先的外觀、縮小尺寸並減輕重量�
 
 2005年11月上市的豪華版和核心版採用的初版設計。
 
-  - [IBM](../Page/IBM.md "wikilink")90[nm](../Page/nm.md "wikilink")[CPU](../Page/CPU.md "wikilink")，三核心，1.65亿晶体管，核心面积168mm<sup>2</sup>
-  - [ATI](../Page/ATI.md "wikilink")90 nm[GPU和版載](../Page/GPU.md "wikilink")[DRAM](../Page/DRAM.md "wikilink")
+  - [IBM](../Page/IBM.md "wikilink")90[nm](https://zh.wikipedia.org/wiki/nm "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，三核心，1.65亿晶体管，核心面积168mm<sup>2</sup>
+  - [ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")90 nm[GPU和版載](https://zh.wikipedia.org/wiki/GPU "wikilink")[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")
   - Low profile GPU散熱器
   - 標準CPU散熱器
   - 203W電源，12V電流16.5A
@@ -111,7 +113,7 @@ IBM 90 nm CPU ATI 90 nm GPU和嵌入式DRAM
 
 Zephyr是第一款試圖修復三紅問題並加入HDMI接口的改進版。2007年5月的菁英版首次引入該設計。2007年7月豪華版本也開始採用Zephyr主板。
 
-  - 新的精英版採用120G [硬碟](../Page/硬碟.md "wikilink")
+  - 新的精英版採用120G [硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")
   - 更新的主板佈局
   - HDMI輸出
   - CPU周邊加入膠粘劑
@@ -166,14 +168,14 @@ Slim上，採用45 nm的CPU和GPU進一步降低成本和功耗。
 
 ### GPU
 
-Xbox360的圖型處理器（GPU）是[ATI全新設計的R](../Page/ATI.md "wikilink")500（“Xenos”）GPU
+Xbox360的圖型處理器（GPU）是[ATI全新設計的R](https://zh.wikipedia.org/wiki/ATI "wikilink")500（“Xenos”）GPU
 
   - 一共3.37億個晶體管
   - 500MHz運行頻率GPU（90納米製程，2.32億個晶體管）
   - 500 MHz 10MB內嵌DRAM記憶體（90納米製程，1.05億個晶體管）
-      - [NEC設計的eDRAM有處理彩色](../Page/NEC.md "wikilink")、阿爾法混合（Alpha
+      - [NEC設計的eDRAM有處理彩色](https://zh.wikipedia.org/wiki/NEC "wikilink")、阿爾法混合（Alpha
         Blending）、Z軸／模板緩存（Zbuffer）、抗鋸齒（Anti-alias）的邏輯功能。
-  - 48路並聯[浮點動態著色管線](../Page/浮點.md "wikilink")，由於是統一著色結構，所以頂點及像素命令皆可處理
+  - 48路並聯[浮點動態著色管線](https://zh.wikipedia.org/wiki/浮點 "wikilink")，由於是統一著色結構，所以頂點及像素命令皆可處理
       - 每條管線擁有4個邏輯運算單元用以處理頂點或像素著色命令
       - 統一著色運算架構（這代表每條管線都能夠運算像素或頂點著色命令）
       - 支持[DirectX](../Page/DirectX.md "wikilink")
@@ -189,9 +191,9 @@ Xbox360的圖型處理器（GPU）是[ATI全新設計的R](../Page/ATI.md "wikil
 
 ### 記憶體
 
-  - 512MB [GDDR3](../Page/GDDR3.md "wikilink")
+  - 512MB [GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink")
   - 700MHz（等效於1400MHz）
-  - 共享記憶體架構（[UMA](../Page/UMA.md "wikilink")）
+  - 共享記憶體架構（[UMA](https://zh.wikipedia.org/wiki/UMA "wikilink")）
 
 ### 系統頻寬
 
@@ -200,8 +202,11 @@ Xbox360的圖型處理器（GPU）是[ATI全新設計的R](../Page/ATI.md "wikil
   - 22.4 GB/s記憶體總線界面（基於128 bit位寬總線，每時鍾週期700 MHz×2次訪問（每波峰一次）)
   - 256 GB/s eDRAM邏輯內部到eDRAM內部記憶體帶寬
   - 32 GB/s GPU到eDRAM帶寬（基於64bit DDR總線，每時鍾週期2 GHz×2次訪問）
-  - 21.6 GB/s [前端總線](../Page/前端總線.md "wikilink")（上下行各10.8 GB/s）
-  - 1 GB/s [南橋帶寬](../Page/南橋.md "wikilink")（上下行各500 MB/s）
+  - 21.6 GB/s
+    [前端總線](https://zh.wikipedia.org/wiki/前端總線 "wikilink")（上下行各10.8
+    GB/s）
+  - 1 GB/s [南橋帶寬](https://zh.wikipedia.org/wiki/南橋 "wikilink")（上下行各500
+    MB/s）
 
 ### 支援影像播放格式
 
@@ -219,20 +224,20 @@ MPEG4/AVC/H.264將於2007年5月春季系統更新後提供支援。
 
 #### 支援解析度
 
-| 分辨率                                         | 縱橫比   | 百萬像素     | 標準                                                                  | 輸出<small>（RGB輸出使用[VGA連線或](../Page/VGA連線.md "wikilink")[SCART](../Page/SCART.md "wikilink")）</small>,<small>Xbox 360 Elite:HDMI輸出</small>                                                  |
-| ------------------------------------------- | ----- | -------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 640x480[隔行掃瞄](../Page/隔行掃瞄.md "wikilink")   | 4:3   | 0.31隔行掃瞄 | [480i](../Page/480i.md "wikilink")                                  | [複合端子](../Page/複合端子.md "wikilink")／[S-端子](../Page/S-端子.md "wikilink")／[色差端子](../Page/色差端子.md "wikilink")／[RGBHV](../Page/RGBHV.md "wikilink")／[RGB](../Page/RGB.md "wikilink")-SCART／HDMI |
-| 640x480                                     | 4:3   | 0.31     | [VGA](../Page/VGA.md "wikilink")／[480p](../Page/480p.md "wikilink") | 色差端子／RGBHV                                                                                                                                                                                |
-| 848x480                                     | 16:9  | 0.41     | WVGA／Widescreen 480p                                                | RGBHV                                                                                                                                                                                     |
-| 1024x768                                    | 4:3   | 0.79     | [XGA](../Page/XGA.md "wikilink")                                    | RGBHV                                                                                                                                                                                     |
-| 1280x720                                    | 16:9  | 0.92     | [720p](../Page/720p.md "wikilink")                                  | 色差端子／RGBHV／HDMI                                                                                                                                                                           |
-| 1280x768                                    | 5:3   | 0.98     | [WXGA](../Page/WXGA.md "wikilink")                                  | RGBHV                                                                                                                                                                                     |
-| 1366x768                                    | 16:9  | 1.04     | [WXGA](../Page/WXGA.md "wikilink")                                  | RGBHV                                                                                                                                                                                     |
-| 1280x1024                                   | 5:4   | 1.31     | [SXGA](../Page/SXGA.md "wikilink")                                  | RGBHV                                                                                                                                                                                     |
-| 1440x900                                    | 16:10 | 1.29     | [WXGA+](../Page/WXGA+.md "wikilink")                                | RGBHV                                                                                                                                                                                     |
-| 1680x1050                                   | 16:10 | 1.76     | [WSXGA+](../Page/WSXGA+.md "wikilink")                              | RGBHV                                                                                                                                                                                     |
-| 1920x1080[隔行掃瞄](../Page/隔行掃瞄.md "wikilink") | 16:9  | 2.07隔行掃瞄 | [1080i](../Page/1080i.md "wikilink")                                | 色差端子                                                                                                                                                                                      |
-| 1920x1080                                   | 16:9  | 2.07     | [1080p](../Page/1080p.md "wikilink")                                | 色差端子／RGBHV／HDMI                                                                                                                                                                           |
+| 分辨率                                                            | 縱橫比   | 百萬像素     | 標準                                                                                                        | 輸出<small>（RGB輸出使用[VGA連線或](https://zh.wikipedia.org/wiki/VGA連線 "wikilink")[SCART](https://zh.wikipedia.org/wiki/SCART "wikilink")）</small>,<small>Xbox 360 Elite:HDMI輸出</small>                                                                     |
+| -------------------------------------------------------------- | ----- | -------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 640x480[隔行掃瞄](https://zh.wikipedia.org/wiki/隔行掃瞄 "wikilink")   | 4:3   | 0.31隔行掃瞄 | [480i](https://zh.wikipedia.org/wiki/480i "wikilink")                                                     | [複合端子](https://zh.wikipedia.org/wiki/複合端子 "wikilink")／[S-端子](../Page/S-端子.md "wikilink")／[色差端子](../Page/色差端子.md "wikilink")／[RGBHV](https://zh.wikipedia.org/wiki/RGBHV "wikilink")／[RGB](https://zh.wikipedia.org/wiki/RGB "wikilink")-SCART／HDMI |
+| 640x480                                                        | 4:3   | 0.31     | [VGA](https://zh.wikipedia.org/wiki/VGA "wikilink")／[480p](https://zh.wikipedia.org/wiki/480p "wikilink") | 色差端子／RGBHV                                                                                                                                                                                                                                         |
+| 848x480                                                        | 16:9  | 0.41     | WVGA／Widescreen 480p                                                                                      | RGBHV                                                                                                                                                                                                                                              |
+| 1024x768                                                       | 4:3   | 0.79     | [XGA](https://zh.wikipedia.org/wiki/XGA "wikilink")                                                       | RGBHV                                                                                                                                                                                                                                              |
+| 1280x720                                                       | 16:9  | 0.92     | [720p](../Page/720p.md "wikilink")                                                                        | 色差端子／RGBHV／HDMI                                                                                                                                                                                                                                    |
+| 1280x768                                                       | 5:3   | 0.98     | [WXGA](https://zh.wikipedia.org/wiki/WXGA "wikilink")                                                     | RGBHV                                                                                                                                                                                                                                              |
+| 1366x768                                                       | 16:9  | 1.04     | [WXGA](https://zh.wikipedia.org/wiki/WXGA "wikilink")                                                     | RGBHV                                                                                                                                                                                                                                              |
+| 1280x1024                                                      | 5:4   | 1.31     | [SXGA](https://zh.wikipedia.org/wiki/SXGA "wikilink")                                                     | RGBHV                                                                                                                                                                                                                                              |
+| 1440x900                                                       | 16:10 | 1.29     | [WXGA+](https://zh.wikipedia.org/wiki/WXGA+ "wikilink")                                                   | RGBHV                                                                                                                                                                                                                                              |
+| 1680x1050                                                      | 16:10 | 1.76     | [WSXGA+](https://zh.wikipedia.org/wiki/WSXGA+ "wikilink")                                                 | RGBHV                                                                                                                                                                                                                                              |
+| 1920x1080[隔行掃瞄](https://zh.wikipedia.org/wiki/隔行掃瞄 "wikilink") | 16:9  | 2.07隔行掃瞄 | [1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")                                                   | 色差端子                                                                                                                                                                                                                                               |
+| 1920x1080                                                      | 16:9  | 2.07     | [1080p](../Page/1080p.md "wikilink")                                                                      | 色差端子／RGBHV／HDMI                                                                                                                                                                                                                                    |
 
 #### 主機類別
 
@@ -270,13 +275,13 @@ MPEG4/AVC/H.264將於2007年5月春季系統更新後提供支援。
 
 ## 保修時間
 
-[三紅燈及](../Page/三紅燈.md "wikilink")[E74問題微軟提供三年保修](../Page/E74.md "wikilink")，其他主機問題，提供一年保修。
+[三紅燈及](https://zh.wikipedia.org/wiki/三紅燈 "wikilink")[E74問題微軟提供三年保修](https://zh.wikipedia.org/wiki/E74 "wikilink")，其他主機問題，提供一年保修。
 
 ## 故障问题
 
 ## 參見
 
-  - [Xbox](../Page/Xbox.md "wikilink")
+  - [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")
   - [Xbox 360故障問題](../Page/Xbox_360故障問題.md "wikilink")
   - [X06](../Page/X06.md "wikilink")
 

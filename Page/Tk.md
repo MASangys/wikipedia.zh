@@ -1,8 +1,8 @@
-**Tk**是一[開放原始碼的](../Page/開放原始碼.md "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")[开发工具](../Page/部件工具箱.md "wikilink")，提供許多常用的圖形介面元件（像是[選單](../Page/選單.md "wikilink")、[按鈕之類](../Page/按鈕.md "wikilink")），具有[跨平台](../Page/跨平台.md "wikilink")、輕量化等特色。
+**Tk**是一[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")[开发工具](../Page/部件工具箱.md "wikilink")，提供許多常用的圖形介面元件（像是[選單](../Page/選單.md "wikilink")、[按鈕之類](https://zh.wikipedia.org/wiki/按鈕 "wikilink")），具有[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、輕量化等特色。
 
-Tk最初發展於1991年，是以[Tcl](../Page/Tcl.md "wikilink")[腳本語言撰寫的擴充套件](../Page/腳本語言.md "wikilink")，目前另有[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Common
-Lisp等多種版本](../Page/Common_Lisp.md "wikilink")，並可在[Linux](../Page/Linux.md "wikilink")、[Unix](../Page/Unix.md "wikilink")、[Apple
-Macintoch](../Page/麥金塔電腦.md "wikilink")、[Windows等平臺上運行](../Page/Windows.md "wikilink")。
+Tk最初發展於1991年，是以[Tcl](../Page/Tcl.md "wikilink")[腳本語言撰寫的擴充套件](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，目前另有[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Common
+Lisp等多種版本](../Page/Common_Lisp.md "wikilink")，並可在[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Apple
+Macintoch](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")、[Windows等平臺上運行](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 从Tcl/Tk
 8开始，软件搭建的图形界面看起来将“与本地系统一致”\[1\]。8.5版引入了一个新的主题引擎，它在字体渲染方面也有改进。该引擎最初叫Tk
@@ -23,7 +23,7 @@ Tk有以下特性：
 
 ### 语言绑定
 
-通过[语言绑定](../Page/语言绑定.md "wikilink")，以Tcl实现的Tk可在其他编程语言中调用。已有多种语言支持Tk，完整的列表见于Tk的网站\[9\]。
+通过[语言绑定](https://zh.wikipedia.org/wiki/语言绑定 "wikilink")，以Tcl实现的Tk可在其他编程语言中调用。已有多种语言支持Tk，完整的列表见于Tk的网站\[9\]。
 例如Ada中的TASH模块\[10\]
 [Haskell中的HTk](../Page/Haskell.md "wikilink")\[11\]，Perl，Python中的模块，Ruby，[REXX](../Page/REXX.md "wikilink"),
 以及[Common Lisp](../Page/Common_Lisp.md "wikilink")。

@@ -2,12 +2,12 @@
 Window系統在名字和概念上的前輩](../Page/X_Window系統.md "wikilink")。
 
 W原本是由Paul Asente和Brain
-Peid於[史丹福大學所發展的](../Page/史丹福大學.md "wikilink")，且原本運行於[V](../Page/V_\(作業系統\).md "wikilink")。在1983年，Paul
+Peid於[史丹福大學所發展的](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")，且原本運行於[V](https://zh.wikipedia.org/wiki/V_\(作業系統\) "wikilink")。在1983年，Paul
 Asente和Chris
-Kent把系統移植到[VS100的](../Page/VS100.md "wikilink")[Unix上](../Page/Unix.md "wikilink")，給了一份拷貝給[MIT的電腦科學實驗室](../Page/MIT.md "wikilink")。
+Kent把系統移植到[VS100的](https://zh.wikipedia.org/wiki/VS100 "wikilink")[Unix上](https://zh.wikipedia.org/wiki/Unix "wikilink")，給了一份拷貝給[MIT的電腦科學實驗室](../Page/MIT.md "wikilink")。
 
 於1984年，MIT的[Bob
-Scheifler把W的](../Page/Bob_Scheifler.md "wikilink")[同步協定換成](../Page/同步.md "wikilink")[非同步的](../Page/非同步.md "wikilink")，並且命名為X。
+Scheifler把W的](https://zh.wikipedia.org/wiki/Bob_Scheifler "wikilink")[同步協定換成](https://zh.wikipedia.org/wiki/同步 "wikilink")[非同步的](https://zh.wikipedia.org/wiki/非同步 "wikilink")，並且命名為X。
 
 ## 外部連結
 

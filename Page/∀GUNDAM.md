@@ -1,11 +1,11 @@
-**∀鋼彈**是於1999年為了慶祝[鋼彈系列誕生二十週年而製作的一套TV版動畫作品](../Page/GUNDAM系列作品.md "wikilink")，由鋼彈原作者的[富野由悠季擔綱編導](../Page/富野由悠季.md "wikilink")，並集結了許多重量級陣容製作而成，從1999年4月9日到2000年4月14日，由日本富士電視台播放了全系列共五十話，而2002年又以TV版内容為基礎之下做剪輯與編輯，製作出∀鋼彈電影版「地球光」和「月光蝶」。本作品與《[機動神腦](../Page/機動神腦.md "wikilink")》、《[極限戰士](../Page/極限戰士.md "wikilink")》並稱為富野的復活三部曲，並獲選為2002年第六回日本文部省文化廳媒體藝術祭的動畫部門推薦作品。
+**∀鋼彈**是於1999年為了慶祝[鋼彈系列誕生二十週年而製作的一套TV版動畫作品](../Page/GUNDAM系列作品.md "wikilink")，由鋼彈原作者的[富野由悠季擔綱編導](../Page/富野由悠季.md "wikilink")，並集結了許多重量級陣容製作而成，從1999年4月9日到2000年4月14日，由日本富士電視台播放了全系列共五十話，而2002年又以TV版内容為基礎之下做剪輯與編輯，製作出∀鋼彈電影版「地球光」和「月光蝶」。本作品與《[機動神腦](../Page/機動神腦.md "wikilink")》、《[極限戰士](https://zh.wikipedia.org/wiki/極限戰士 "wikilink")》並稱為富野的復活三部曲，並獲選為2002年第六回日本文部省文化廳媒體藝術祭的動畫部門推薦作品。
 
 ## ∀的意義
 
 ∀這個符號在數學上代表著**For
 All**，也就是**對於所有的**的意思。這代表著本作品試著把所有的GUNDAM作品結合在同一個時空下。因此在此作品裡會出現之前在不同鋼彈作品以及世界觀出現的不同機械。
 
-在其劇中人所理解以前鋼彈的紀元乃至後續的新紀元，都屬於遙遠的古代歷史的一部分，而且一律稱為[宇宙世紀](../Page/宇宙世紀.md "wikilink")，使用的是類似[基地系列和](../Page/基地系列.md "wikilink")[沙丘系列的設定](../Page/沙丘系列.md "wikilink")，即是發生在遠未來的，其時代和現代中間隔著擁有一個近未來以地球為中心的太空開拓歷史，而在故事時代人類遺忘了地球。而比這兩部好的是地球沒有被遺棄地球的遠離太陽系的新人類所毀滅，並且以殘留在地球的人類的角度出發看宇宙。
+在其劇中人所理解以前鋼彈的紀元乃至後續的新紀元，都屬於遙遠的古代歷史的一部分，而且一律稱為[宇宙世紀](../Page/宇宙世紀.md "wikilink")，使用的是類似[基地系列和](../Page/基地系列.md "wikilink")[沙丘系列的設定](https://zh.wikipedia.org/wiki/沙丘系列 "wikilink")，即是發生在遠未來的，其時代和現代中間隔著擁有一個近未來以地球為中心的太空開拓歷史，而在故事時代人類遺忘了地球。而比這兩部好的是地球沒有被遺棄地球的遠離太陽系的新人類所毀滅，並且以殘留在地球的人類的角度出發看宇宙。
 
 ## 故事概要
 
@@ -46,7 +46,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **姬艾爾·海姆：**[高橋理惠子](../Page/高橋理惠子.md "wikilink")
+  - **姬艾爾·海姆：**[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **蘇絲亞·海姆：**[村田秋乃](../Page/村田秋乃.md "wikilink")
+  - **蘇絲亞·海姆：**[村田秋乃](https://zh.wikipedia.org/wiki/村田秋乃 "wikilink")
 
 <!-- end list -->
 
@@ -64,32 +64,32 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **葛安·薩多·萊因弗多：**[青羽剛](../Page/青羽剛.md "wikilink")
-  - **亞尼·歐畢斯：**[桐本琢也](../Page/桐本琢也.md "wikilink")
-  - **米海爾·蓋倫：**[金尾哲夫](../Page/金尾哲夫.md "wikilink")
-  - **拉達拉姆·昆：**[沢木郁也](../Page/沢木郁也.md "wikilink")
-  - **梅雪·昆：**[鬼頭典子](../Page/鬼頭典子.md "wikilink")
+  - **葛安·薩多·萊因弗多：**[青羽剛](https://zh.wikipedia.org/wiki/青羽剛 "wikilink")
+  - **亞尼·歐畢斯：**[桐本琢也](https://zh.wikipedia.org/wiki/桐本琢也 "wikilink")
+  - **米海爾·蓋倫：**[金尾哲夫](https://zh.wikipedia.org/wiki/金尾哲夫 "wikilink")
+  - **拉達拉姆·昆：**[沢木郁也](https://zh.wikipedia.org/wiki/沢木郁也 "wikilink")
+  - **梅雪·昆：**[鬼頭典子](https://zh.wikipedia.org/wiki/鬼頭典子 "wikilink")
   - **席德·蒙札：**[野島昭生](../Page/野島昭生.md "wikilink")
-  - **約瑟夫·耶特：**[佐藤节二](../Page/佐藤节二.md "wikilink")
+  - **約瑟夫·耶特：**[佐藤节二](https://zh.wikipedia.org/wiki/佐藤节二 "wikilink")
 
 ### 魯迦納民兵團
 
-  - **莉莉·伯爾加納：**[小林愛](../Page/小林愛.md "wikilink")
+  - **莉莉·伯爾加納：**[小林愛](https://zh.wikipedia.org/wiki/小林愛 "wikilink")
   - **瑪利剛中佐：**[石丸博也](../Page/石丸博也.md "wikilink")
   - **賈邦·葛尼：**[大塚芳忠](../Page/大塚芳忠.md "wikilink")
-  - **艾姆茲：**[松本大](../Page/松本大.md "wikilink")
-  - **約翰：**[土屋利秀](../Page/土屋利秀.md "wikilink")
+  - **艾姆茲：**[松本大](https://zh.wikipedia.org/wiki/松本大 "wikilink")
+  - **約翰：**[土屋利秀](https://zh.wikipedia.org/wiki/土屋利秀 "wikilink")
 
 ### 迪亞娜回歸軍
 
-  - **迪亞娜·梳尼爾：**[高橋理惠子](../Page/高橋理惠子.md "wikilink")
+  - **迪亞娜·梳尼爾：**[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")
   - **哈利·歐德：**[稻田徹](../Page/稻田徹.md "wikilink")
-  - **波·艾吉：**[中西裕美子](../Page/中西裕美子.md "wikilink")
+  - **波·艾吉：**[中西裕美子](https://zh.wikipedia.org/wiki/中西裕美子 "wikilink")
   - **菲爾·阿卡曼：**[小山剛志](../Page/小山剛志.md "wikilink")
-  - **米蘭·雷克斯：**[曽我部和恭](../Page/曽我部和恭.md "wikilink")
-  - **柯連·南達：**[川津泰彥](../Page/川津泰彥.md "wikilink")
-  - **布魯諾：**[田中一成](../Page/田中一成.md "wikilink")
-  - **亞可普：**[宇垣秀成](../Page/宇垣秀成.md "wikilink")
+  - **米蘭·雷克斯：**[曽我部和恭](https://zh.wikipedia.org/wiki/曽我部和恭 "wikilink")
+  - **柯連·南達：**[川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink")
+  - **布魯諾：**[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")
+  - **亞可普：**[宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")
 
 ### 雷特隊
 
@@ -98,18 +98,18 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 ### 月球勢力
 
-  - **蒂蒂絲·哈雷：**[冬馬由美](../Page/冬馬由美.md "wikilink")
-  - **彌姆·米德加爾德：**[水野龍司](../Page/水野龍司.md "wikilink")
+  - **蒂蒂絲·哈雷：**[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")
+  - **彌姆·米德加爾德：**[水野龍司](https://zh.wikipedia.org/wiki/水野龍司 "wikilink")
   - **基姆·金卡納姆：**[子安武人](../Page/子安武人.md "wikilink")
-  - **史威松·史特洛：**[ウガンダ・トラ](../Page/ウガンダ・トラ.md "wikilink")
+  - **史威松·史特洛：**[ウガンダ・トラ](https://zh.wikipedia.org/wiki/ウガンダ・トラ "wikilink")
   - **亞格利帕·明提納：**[石丸博也](../Page/石丸博也.md "wikilink")
-  - **梅莉貝爾·加吉特：**[夏树莉绪](../Page/夏树莉绪.md "wikilink")
+  - **梅莉貝爾·加吉特：**[夏树莉绪](https://zh.wikipedia.org/wiki/夏树莉绪 "wikilink")
 
 ### 其他
 
-  - **芙蘭·德爾：**[渡辺久美子](../Page/渡辺久美子.md "wikilink")
+  - **芙蘭·德爾：**[渡辺久美子](https://zh.wikipedia.org/wiki/渡辺久美子 "wikilink")
   - **基斯·雷傑：**[福山潤](../Page/福山潤.md "wikilink")
-  - **威爾·基姆：**[坂口賢一](../Page/坂口賢一.md "wikilink")
+  - **威爾·基姆：**[坂口賢一](https://zh.wikipedia.org/wiki/坂口賢一 "wikilink")
   - **多娜·羅羅伊：**[折笠富美子](../Page/折笠富美子.md "wikilink")
 
 <!-- end list -->
@@ -119,7 +119,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **哈梅特·羅羅伊：**[村井厚之](../Page/村井厚之.md "wikilink")
+  - **哈梅特·羅羅伊：**[村井厚之](https://zh.wikipedia.org/wiki/村井厚之 "wikilink")
 
 <!-- end list -->
 
@@ -194,7 +194,8 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **機械設定：**[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - **機械設定：**[SYD
+    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **<big>弗拉特</big>**
 
@@ -239,7 +240,8 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **機械設定：**[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - **機械設定：**[SYD
+    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **卡布爾**
 
@@ -414,7 +416,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - 機械設定：[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - 機械設定：[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **金斯摩**
 
@@ -451,7 +453,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - 機械設定：[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - 機械設定：[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **銀斯摩**
 
@@ -486,7 +488,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - 機械設定：[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - 機械設定：[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **伊蓋爾**
 
@@ -573,7 +575,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - 機械設定：[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - 機械設定：[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **瓦德**
 
@@ -645,7 +647,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - 機械設定：[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - 機械設定：[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **瑪希羅**
 
@@ -700,7 +702,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - 機械設定：[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - 機械設定：[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **貝羅納**
 
@@ -793,7 +795,8 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **機械設定：**[SYD MEAD](../Page/SYD_MEAD.md "wikilink")
+  - **機械設定：**[SYD
+    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 ## 各話標題
 
@@ -823,17 +826,17 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>1</p></td>
 <td></td>
 <td><p>向著月亮高呼</p></td>
-<td><p><a href="../Page/星山博之.md" title="wikilink">星山博之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星山博之" title="wikilink">星山博之</a></p></td>
 <td><p>渡邊哲哉</p></td>
 <td><p><a href="../Page/富野由悠季.md" title="wikilink">斧谷稔</a></p></td>
-<td><p><a href="../Page/土器手司.md" title="wikilink">土器手司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/土器手司" title="wikilink">土器手司</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td></td>
 <td><p>成年禮</p></td>
-<td><p><a href="../Page/千葉克彦.md" title="wikilink">千葉克彦</a></p></td>
-<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉克彦" title="wikilink">千葉克彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
 <td><p>佐久間信一</p></td>
 <td></td>
 </tr>
@@ -841,7 +844,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>3</p></td>
 <td></td>
 <td><p>祭典之後</p></td>
-<td><p><a href="../Page/浅川美也.md" title="wikilink">浅川美也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浅川美也" title="wikilink">浅川美也</a></p></td>
 <td><p>南康宏</p></td>
 <td><p>鈴木藤雄</p></td>
 <td></td>
@@ -851,7 +854,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td></td>
 <td><p>故鄉的軍人</p></td>
 <td><p>高橋哲子</p></td>
-<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
 <td><p>佐久間信一</p></td>
 <td></td>
 </tr>
@@ -860,10 +863,10 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td></td>
 <td><p>迪亞娜降臨</p></td>
 <td><p>星山博之</p></td>
-<td><p><a href="../Page/岩崎良明.md" title="wikilink">岩崎良明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩崎良明" title="wikilink">岩崎良明</a></p></td>
 <td><p>斧谷稔<br />
-<a href="../Page/菱田正和.md" title="wikilink">菱田正和</a></p></td>
-<td><p><a href="../Page/戸部敦夫.md" title="wikilink">戸部敦夫</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/菱田正和" title="wikilink">菱田正和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戸部敦夫" title="wikilink">戸部敦夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
@@ -871,7 +874,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>被遺忘的過去</p></td>
 <td><p>千葉克彦</p></td>
 <td><p><a href="../Page/池端隆史.md" title="wikilink">池端隆史</a></p></td>
-<td><p><a href="../Page/横山彰利.md" title="wikilink">横山彰利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/横山彰利" title="wikilink">横山彰利</a></p></td>
 <td><p><br />
 中田栄治</p></td>
 </tr>
@@ -927,7 +930,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td></td>
 <td><p>地下迴廊</p></td>
 <td><p>星山博之</p></td>
-<td><p><a href="../Page/杉谷光一.md" title="wikilink">杉谷光一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杉谷光一" title="wikilink">杉谷光一</a></p></td>
 <td><p>横田和</p></td>
 <td></td>
 </tr>
@@ -1031,10 +1034,10 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>23</p></td>
 <td></td>
 <td><p>蒂蒂絲的遺言</p></td>
-<td><p><a href="../Page/大河内一楼.md" title="wikilink">大河内一楼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大河内一楼" title="wikilink">大河内一楼</a></p></td>
 <td><p>山口美浩</p></td>
 <td><p>斧谷稔<br />
-<a href="../Page/角銅博之.md" title="wikilink">工堂紘軌</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/角銅博之" title="wikilink">工堂紘軌</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="odd">
@@ -1052,10 +1055,10 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>25</p></td>
 <td></td>
 <td><p>威爾基姆離陸</p></td>
-<td><p><a href="../Page/太田愛.md" title="wikilink">太田愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太田愛" title="wikilink">太田愛</a></p></td>
 <td><p>北川正人</p></td>
 <td><p>斧谷稔<br />
-<a href="../Page/鳥羽聡.md" title="wikilink">鳥羽聡</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/鳥羽聡" title="wikilink">鳥羽聡</a></p></td>
 <td><p>杉光登</p></td>
 </tr>
 <tr class="odd">
@@ -1064,7 +1067,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>覺悟的戰鬥</p></td>
 <td><p>高山治郎</p></td>
 <td><p>渡邊哲也</p></td>
-<td><p><a href="../Page/網野哲郎.md" title="wikilink">網野哲郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網野哲郎" title="wikilink">網野哲郎</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="even">
@@ -1074,7 +1077,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>鳥羽聡<br />
 森邦宏</p></td>
 <td><p>斧谷稔</p></td>
-<td><p><a href="../Page/後藤雅巳.md" title="wikilink">後藤雅巳</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/後藤雅巳" title="wikilink">後藤雅巳</a><br />
 菱沼義仁</p></td>
 <td></td>
 </tr>
@@ -1115,7 +1118,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>高橋哲子</p></td>
 <td><p>南康宏</p></td>
 <td><p>斧谷稔<br />
-<a href="../Page/小原正和.md" title="wikilink">小原正和</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="odd">
@@ -1194,7 +1197,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>小行星爆炸</p></td>
 <td><p>高山治郎</p></td>
 <td><p>山口美浩</p></td>
-<td><p><a href="../Page/奥田誠治_(アニメーション演出家).md" title="wikilink">奥田誠治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥田誠治_(アニメーション演出家)" title="wikilink">奥田誠治</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="odd">
@@ -1232,7 +1235,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>衝擊的黑歷史</p></td>
 <td><p>高橋哲子</p></td>
 <td><p>池端隆史</p></td>
-<td><p><a href="../Page/赤根和樹.md" title="wikilink">赤根和樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤根和樹" title="wikilink">赤根和樹</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="odd">
@@ -1241,7 +1244,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 <td><p>新的敵人</p></td>
 <td><p>高山治郎</p></td>
 <td><p>森邦宏</p></td>
-<td><p><a href="../Page/日高政光.md" title="wikilink">日高政光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
 <td><p>戸部敦夫</p></td>
 </tr>
 <tr class="even">
@@ -1311,30 +1314,32 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 ## 製作人員
 
-  - 企画：[SUNRISE](../Page/SUNRISE.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
+  - 企画：[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 总监督：[富野由悠季](../Page/富野由悠季.md "wikilink")
-  - 腳本：[星山博之](../Page/星山博之.md "wikilink")、[千葉克彥](../Page/千葉克彥.md "wikilink")、[淺川美也](../Page/淺川美也.md "wikilink")、[高橋哲子](../Page/高橋哲子.md "wikilink")、[高山治郎](../Page/高山治郎.md "wikilink")、[大河內一樓](../Page/大河內一樓.md "wikilink")、[太田愛](../Page/太田愛.md "wikilink")
-  - 角色原案：[安田朗](../Page/安田朗.md "wikilink")
-  - 人物设計：[菱沼义仁](../Page/菱沼义仁.md "wikilink")
+  - 腳本：[星山博之](https://zh.wikipedia.org/wiki/星山博之 "wikilink")、[千葉克彥](https://zh.wikipedia.org/wiki/千葉克彥 "wikilink")、[淺川美也](../Page/淺川美也.md "wikilink")、[高橋哲子](https://zh.wikipedia.org/wiki/高橋哲子 "wikilink")、[高山治郎](https://zh.wikipedia.org/wiki/高山治郎 "wikilink")、[大河內一樓](../Page/大河內一樓.md "wikilink")、[太田愛](https://zh.wikipedia.org/wiki/太田愛 "wikilink")
+  - 角色原案：[安田朗](https://zh.wikipedia.org/wiki/安田朗 "wikilink")
+  - 人物设計：[菱沼义仁](https://zh.wikipedia.org/wiki/菱沼义仁 "wikilink")
   - 机械设定：[大河原邦男](../Page/大河原邦男.md "wikilink")、[SYD
-    MEAD](../Page/SYD_MEAD.md "wikilink")、[重田敦司](../Page/重田敦司.md "wikilink")、[沙仓拓实](../Page/沙仓拓实.md "wikilink")
-  - 美术监督：[池田繁美](../Page/池田繁美.md "wikilink")
-  - 音响监督：[鹤冈阳太](../Page/鹤冈阳太.md "wikilink")
+    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")、[重田敦司](https://zh.wikipedia.org/wiki/重田敦司 "wikilink")、[沙仓拓实](https://zh.wikipedia.org/wiki/沙仓拓实 "wikilink")
+  - 美术监督：[池田繁美](https://zh.wikipedia.org/wiki/池田繁美 "wikilink")
+  - 音响监督：[鹤冈阳太](https://zh.wikipedia.org/wiki/鹤冈阳太 "wikilink")
   - 音乐：[菅野洋子](../Page/菅野洋子.md "wikilink")
-  - 制作：[富士电视台](../Page/富士电视台.md "wikilink")、[SUNRISE](../Page/SUNRISE.md "wikilink")
+  - 制作：[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")、[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")
 
 ## 主題歌
 
 ### 片頭曲
 
   - 『』
-    作詞 - [井荻麟](../Page/井荻麟.md "wikilink")／作曲 - 小林亜星／編曲 - 矢田部正／主唱 -
+    作詞 - [井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")／作曲 -
+    小林亜星／編曲 - 矢田部正／主唱 -
     [西城秀樹](../Page/西城秀樹.md "wikilink")（）
     （2話～38話）
   - 『CENTURY COLOR』
     作詞 - 井荻麟、浜口祐夢／作曲 - 浜口祐夢／編曲 -
-    [RAY-GUNS](../Page/RAY-GUNS.md "wikilink")／主唱 - RAY-GUNS
+    [RAY-GUNS](https://zh.wikipedia.org/wiki/RAY-GUNS "wikilink")／主唱 -
+    RAY-GUNS
     （39話～50話）
 
 ### 片尾曲
@@ -1344,7 +1349,8 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
     [菅野洋子](../Page/菅野洋子.md "wikilink")／主唱 - 谷村新司（）
     （1話～15話、17話～40話）
   - 『』
-    作詞 - 井荻麟／作曲・編曲 - 菅野洋子／主唱 - [奥井亞紀](../Page/奥井亞紀.md "wikilink")
+    作詞 - 井荻麟／作曲・編曲 - 菅野洋子／主唱 -
+    [奥井亞紀](https://zh.wikipedia.org/wiki/奥井亞紀 "wikilink")
     （41話～49話）
   - 『』
     作詞 - C.Piece／作曲・編曲 - 菅野洋子／主唱 - 奥井亞紀
@@ -1359,8 +1365,9 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
   - 『月下美人』
     作詞 - 井荻麟／作曲 - 小林亜星／編曲 - 矢田部正／主唱 - 西城秀樹
   - 『Until』
-    作詞 - [Chris Mosdell](../Page/クリス・モズデル.md "wikilink")／作曲 - 菅野洋子／編曲 -
-    菅野洋子／主唱 - Maryanne Murray
+    作詞 - [Chris
+    Mosdell](https://zh.wikipedia.org/wiki/クリス・モズデル "wikilink")／作曲
+    - 菅野洋子／編曲 - 菅野洋子／主唱 - Maryanne Murray
   - 『The song of a stone』
     作詞 - Chris Mosdell／作曲 - 菅野洋子／編曲 - 菅野洋子／主唱 - 大塚宗一郎
 

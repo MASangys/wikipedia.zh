@@ -29,8 +29,8 @@
 **FidoNet**，中譯為「惠多網」，是[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[旧金山人Tom](../Page/旧金山.md "wikilink")
 Jennings于1984年创立其協定（Protocol）支援站際通訊功能，解決了
 [BBS](../Page/BBS.md "wikilink") 各站之間無法往來的問題，促使 BBS 網路化，在
-[Internet](../Page/Internet.md "wikilink") 尚未普及之前，FidoNet
-是世界上最为著名使用人數最多的網路系統\[1\]。据说Fido一词的来源是Tom
+[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")
+尚未普及之前，FidoNet 是世界上最为著名使用人數最多的網路系統\[1\]。据说Fido一词的来源是Tom
 Jennings爱犬的名字。
 
 ## 概观
@@ -84,7 +84,7 @@ FidoNet自上而下分为洲区（Zone），地区（Region），网络（Networ
 ## 参考
 
   - [BBS](../Page/BBS.md "wikilink")
-  - [中国惠多网络](../Page/中国惠多网络.md "wikilink")
+  - [中国惠多网络](https://zh.wikipedia.org/wiki/中国惠多网络 "wikilink")
   - [撥接式電子布告欄](https://web.archive.org/web/20070108101007/http://playstation2.idv.tw/iacolumns/jl00023.htm)
 
 [Category:BBS](https://zh.wikipedia.org/wiki/Category:BBS "wikilink")

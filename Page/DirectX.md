@@ -1,39 +1,39 @@
-**DirectX**（，[縮寫](../Page/縮寫.md "wikilink")：）是由[微软公司建立的一系列專為多媒體以及遊戲開發的](../Page/微软.md "wikilink")[應用程式介面](../Page/應用程式介面.md "wikilink")。旗下包含[Direct3D](../Page/Direct3D.md "wikilink")、[Direct2D](../Page/Direct2D.md "wikilink")、[DirectCompute等等多個不同用途的子部份](../Page/DirectCompute.md "wikilink")，因為這一系列[API皆以Direct字樣開頭](../Page/API.md "wikilink")，所以DirectX（只要把X字母替換為任何一個特定API的名字）就成為這一巨大的API系列的統稱。目前最新版本為DirectX
+**DirectX**（，[縮寫](../Page/縮寫.md "wikilink")：）是由[微软公司建立的一系列專為多媒體以及遊戲開發的](../Page/微软.md "wikilink")[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。旗下包含[Direct3D](../Page/Direct3D.md "wikilink")、[Direct2D](../Page/Direct2D.md "wikilink")、[DirectCompute等等多個不同用途的子部份](../Page/DirectCompute.md "wikilink")，因為這一系列[API皆以Direct字樣開頭](https://zh.wikipedia.org/wiki/API "wikilink")，所以DirectX（只要把X字母替換為任何一個特定API的名字）就成為這一巨大的API系列的統稱。目前最新版本為DirectX
 12，隨附於Windows 10作業系統之上。
 
 DirectX被广泛用于Microsoft Windows、Microsoft
 Xbox电子游戏开发，并且-{只}-能支持这些平台。除了遊戲開發之外，DirectX亦被用於開發許多虛擬三維圖形相關軟體。[Direct3D是DirectX中最廣為應用的子模塊](../Page/Direct3D.md "wikilink")，所以有時候這兩個名詞可以互相代稱。
 
-DirectX主要基於[C++编程语言实现](../Page/C++.md "wikilink")，遵循[COM架構](../Page/COM.md "wikilink")。
+DirectX主要基於[C++编程语言实现](../Page/C++.md "wikilink")，遵循[COM架構](https://zh.wikipedia.org/wiki/COM "wikilink")。
 
 ## 元件
 
 DirectX組成的元件有：
 
   - [Direct3D](../Page/Direct3D.md "wikilink")：主要用於繪製[3D图形](../Page/三维计算机图形.md "wikilink")。
-  - [Direct2D](../Page/Direct2D.md "wikilink")：主要提供2D動畫的硬體加速，為[DirectDraw的替代者](../Page/DirectDraw.md "wikilink")。
-  - [DirectWrite](../Page/DirectWrite.md "wikilink")：主要字體顯示API，提供使用GPU令字體顯示更為平滑，類似[ClearType](../Page/ClearType.md "wikilink")（只支援於[Windows
-    Vista](../Page/Windows_Vista.md "wikilink")/[7](../Page/Windows_7.md "wikilink")/[8](../Page/Windows_8.md "wikilink")/[8.1以上](../Page/Windows_8.1.md "wikilink")）。
-  - [DirectInput](../Page/DirectInput.md "wikilink")：用于结合键盘、鼠标、摇杆，或其它的游戏控制器。
-  - [XInput](../Page/XInput.md "wikilink")：主要用於[Xbox360的控制器](../Page/Xbox360.md "wikilink")。
-  - [XAudio2](../Page/XAudio2.md "wikilink")：主要用於低延遲遊戲音頻播放。
-  - [DirectCompute](../Page/DirectCompute.md "wikilink")：[GPU](../Page/GPU.md "wikilink")[通用计算API](../Page/通用计算.md "wikilink")。
-  - [DirectXMath](../Page/DirectXMath.md "wikilink")：針對遊戲優化的高速數學運算API，特別支持單精度浮點運算及矩陣運算，使用SSE2指令集。
-  - [DirectSetup](../Page/DirectSetup.md "wikilink")：用於DirectX元件的安裝，以及檢查DirectX的版本。
+  - [Direct2D](../Page/Direct2D.md "wikilink")：主要提供2D動畫的硬體加速，為[DirectDraw的替代者](https://zh.wikipedia.org/wiki/DirectDraw "wikilink")。
+  - [DirectWrite](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")：主要字體顯示API，提供使用GPU令字體顯示更為平滑，類似[ClearType](../Page/ClearType.md "wikilink")（只支援於[Windows
+    Vista](../Page/Windows_Vista.md "wikilink")/[7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")/[8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[8.1以上](../Page/Windows_8.1.md "wikilink")）。
+  - [DirectInput](https://zh.wikipedia.org/wiki/DirectInput "wikilink")：用于结合键盘、鼠标、摇杆，或其它的游戏控制器。
+  - [XInput](https://zh.wikipedia.org/wiki/XInput "wikilink")：主要用於[Xbox360的控制器](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")。
+  - [XAudio2](https://zh.wikipedia.org/wiki/XAudio2 "wikilink")：主要用於低延遲遊戲音頻播放。
+  - [DirectCompute](../Page/DirectCompute.md "wikilink")：[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")[通用计算API](https://zh.wikipedia.org/wiki/通用计算 "wikilink")。
+  - [DirectXMath](https://zh.wikipedia.org/wiki/DirectXMath "wikilink")：針對遊戲優化的高速數學運算API，特別支持單精度浮點運算及矩陣運算，使用SSE2指令集。
+  - [DirectSetup](https://zh.wikipedia.org/wiki/DirectSetup "wikilink")：用於DirectX元件的安裝，以及檢查DirectX的版本。
   - [DirectX
-    Media](../Page/DirectX_Media.md "wikilink")：包含DirectAnimation可用於2D的網頁動畫，[DirectShow可支援多媒體錄音以及資料](../Page/DirectShow.md "wikilink")[流媒體](../Page/流媒體.md "wikilink")，DirectX在網頁上的轉換，還有Direct3D可保留3D图像更清晰的解析。DirectShow亦包含有用於[音频信号处理以及](../Page/音频信号处理.md "wikilink")[DirectX视频加速加速影音播放](../Page/DirectX视频加速.md "wikilink")。
-  - [DirectX媒体对象化](../Page/DirectX_Media_Objects.md "wikilink")：支援資料流物件，像是編碼、解碼和效果。
+    Media](https://zh.wikipedia.org/wiki/DirectX_Media "wikilink")：包含DirectAnimation可用於2D的網頁動畫，[DirectShow可支援多媒體錄音以及資料](../Page/DirectShow.md "wikilink")[流媒體](https://zh.wikipedia.org/wiki/流媒體 "wikilink")，DirectX在網頁上的轉換，還有Direct3D可保留3D图像更清晰的解析。DirectShow亦包含有用於[音频信号处理以及](../Page/音频信号处理.md "wikilink")[DirectX视频加速加速影音播放](https://zh.wikipedia.org/wiki/DirectX视频加速 "wikilink")。
+  - [DirectX媒体对象化](https://zh.wikipedia.org/wiki/DirectX_Media_Objects "wikilink")：支援資料流物件，像是編碼、解碼和效果。
 
 ### 廢棄元件
 
 这些元件曾經也是DirectX的一員，但現在微軟只提供最低程度的維護，也不再建議使用。
 
-  - [DirectDraw](../Page/DirectDraw.md "wikilink")：用於繪製[2D图形](../Page/位图.md "wikilink")（不建議使用，雖然目前仍有大量的使用者），現開始被Direct2D取代。
-  - [DirectInput](../Page/DirectInput.md "wikilink")：用於結合[鍵盤](../Page/鍵盤.md "wikilink")、[滑鼠](../Page/滑鼠.md "wikilink")、[搖桿](../Page/搖桿.md "wikilink")，或其它的[遊戲控制器](../Page/遊戲控制器.md "wikilink")，自8.0之後就不再更新。
-  - [DirectPlay](../Page/DirectPlay.md "wikilink")：用於[網路遊戲連線溝通](../Page/網路遊戲.md "wikilink")，配合DirectInput使用，自8.0後就不再更新。
+  - [DirectDraw](https://zh.wikipedia.org/wiki/DirectDraw "wikilink")：用於繪製[2D图形](../Page/位图.md "wikilink")（不建議使用，雖然目前仍有大量的使用者），現開始被Direct2D取代。
+  - [DirectInput](https://zh.wikipedia.org/wiki/DirectInput "wikilink")：用於結合[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")、[搖桿](https://zh.wikipedia.org/wiki/搖桿 "wikilink")，或其它的[遊戲控制器](https://zh.wikipedia.org/wiki/遊戲控制器 "wikilink")，自8.0之後就不再更新。
+  - [DirectPlay](../Page/DirectPlay.md "wikilink")：用於[網路遊戲連線溝通](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，配合DirectInput使用，自8.0後就不再更新。
   - [DirectSound](../Page/DirectSound.md "wikilink")：用於錄音，記錄波形音效已被XAudio2取代。
-  - [DirectMusic](../Page/DirectMusic.md "wikilink")：用於[DirectMusic
-    Producer的錄音](../Page/DirectMusic.md "wikilink")。
+  - [DirectMusic](https://zh.wikipedia.org/wiki/DirectMusic "wikilink")：用於[DirectMusic
+    Producer的錄音](https://zh.wikipedia.org/wiki/DirectMusic "wikilink")。
 
 ## 历史
 
@@ -42,20 +42,20 @@ DirectX組成的元件有：
 Eisler、Alex St. John、Eric
 Engstrom十分关心这个问题，因为不少游戏程序员更喜欢在[DOS系统下编写](../Page/DOS.md "wikilink")[游戏](../Page/游戏.md "wikilink")，这意味著，没有多少人愿意为WIN95编写游戏，新操作系统不会获得多少成功。
 
-DOS允许直接访问[显卡](../Page/显卡.md "wikilink")、[键盘](../Page/键盘.md "wikilink")、[鼠标](../Page/鼠标.md "wikilink")、[声卡以及其他系统](../Page/声卡.md "wikilink")[硬件设施](../Page/硬件.md "wikilink")。而Windows
+DOS允许直接访问[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")、[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[鼠标](../Page/鼠标.md "wikilink")、[声卡以及其他系统](../Page/声卡.md "wikilink")[硬件设施](../Page/硬件.md "wikilink")。而Windows
 95出于保护存储系统的目的，限制了对硬件的直接访问，取而代之的是一套更加规范标准的访问方法。微软需要一种方法让程序员在WIN95中也能编写出高效的程序。此时，离新系统发布不到几个月了。St.
 John和Engstrom联合解决了这个问题，他们将解决方案称为DirectX。
 
 DirectX的第一个版本作为Windows Games SDK发布于1995年9月，它作为[Windows
 API的一部分用以替换](../Page/Windows_API.md "wikilink")[Windows
-3.1中的](../Page/Windows_3.1.md "wikilink")-{DCI}-和[WinGAPI](../Page/WinG.md "wikilink")。[ATI的一个开发团队为微软带来了基本的游戏图像技术](../Page/ATI.md "wikilink")，微软方面，DirectX由专门的团队负责开发，Eisler为团队领导，而St.
+3.1中的](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")-{DCI}-和[WinGAPI](https://zh.wikipedia.org/wiki/WinG "wikilink")。[ATI的一个开发团队为微软带来了基本的游戏图像技术](https://zh.wikipedia.org/wiki/ATI "wikilink")，微软方面，DirectX由专门的团队负责开发，Eisler为团队领导，而St.
 John和Engstrom则成为主程序设计师。
 
 DirectX出现之前，微软已经将[OpenGL包括在](../Page/OpenGL.md "wikilink")[Windows
 NT系统中](../Page/Windows_NT.md "wikilink")，而在当时，OpenGL对硬件要求严苛，这限制了一些[工程师和](../Page/工程师.md "wikilink")[CAD用户](../Page/计算机辅助设计.md "wikilink")。Direct3D就作为OpenGL的代替品被加入DirectX。随着硬件技术的发展，OpenGL成为行业标准，一场“战役”发生在DirectX的支持者和OpenGL的支持者之间，而且前者只支持Windows平台，而后者支持多平台。在实际应用中，游戏开发者常常两者同时使用，因为DirectX支持许多OpenGL所不支持的功能，比如音效和输入装置。而选择混合使用OpenGL和[OpenAL的队伍也在壮大](../Page/OpenAL.md "wikilink")。
 
 由此衍生出的“特别DirectX”也作为微软[Xbox和](../Page/Xbox_\(遊戲機\).md "wikilink")[Xbox
-360的图形API](../Page/Xbox_360.md "wikilink")，这套API由微软和[NVIDIA公司共同开发](../Page/NVIDIA.md "wikilink")，Xbox
+360的图形API](../Page/Xbox_360.md "wikilink")，这套API由微软和[NVIDIA公司共同开发](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，Xbox
 API和DirectX
 8.1比较相似，但跟其他主機科技一樣不能更新，Xbox版本也叫做DirectXbox，但由于商业销售缘故，还是被简称为Xbox。\[1\]
 
@@ -63,7 +63,8 @@ API和DirectX
 3.0）加入了DirectX 9.0c。
 
 2005年4月，[DirectShow从DirectX移除](../Page/DirectShow.md "wikilink")，加入到[Microsoft
-Platform SDK](../Page/Microsoft_Platform_SDK.md "wikilink")。\[2\]
+Platform
+SDK](https://zh.wikipedia.org/wiki/Microsoft_Platform_SDK "wikilink")。\[2\]
 
 2010年6月7日發佈的DirectX SDK是最後獨立發佈的SDK版本，之後的DirectX SDK被整合進新版的[Microsoft
 Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
@@ -135,7 +136,7 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 </tr>
 <tr class="even">
 <td><p>DirectX 4.0</p></td>
-<td><p>從未發佈<ref>DirectX 4從未發佈過，<a href="../Page/Raymond_Chen.md" title="wikilink">Raymond Chen在他的書</a>《The Old New Thing》中解釋說，DirectX 3發佈之後，微軟開始同時開發DX4和5，只是增加一些小特性的DX4版本會在短時間內完成，而DX5會增加大量新內容，遊戲開發者對DX4新特性的失望導致了DX4計劃的擱置。之後，微軟將重心完全轉移到DX5開發上。 {{cite book</p></td>
+<td><p>從未發佈<ref>DirectX 4從未發佈過，<a href="https://zh.wikipedia.org/wiki/Raymond_Chen" title="wikilink">Raymond Chen在他的書</a>《The Old New Thing》中解釋說，DirectX 3發佈之後，微軟開始同時開發DX4和5，只是增加一些小特性的DX4版本會在短時間內完成，而DX5會增加大量新內容，遊戲開發者對DX4新特性的失望導致了DX4計劃的擱置。之後，微軟將重心完全轉移到DX5開發上。 {{cite book</p></td>
 <td><p>title = The Old New Thing</p></td>
 <td><p>edition = 第一版</p></td>
 <td><p>chapter = Etymology and History</p></td>
@@ -164,7 +165,7 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 <tr class="even">
 <td><p>DirectX 6.0</p></td>
 <td><p>4.06.00.0318 (RC3)</p></td>
-<td><p><a href="../Page/Windows_CE.md" title="wikilink">Windows CE上的</a><a href="../Page/Dreamcast.md" title="wikilink">Dreamcast版本</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_CE" title="wikilink">Windows CE上的</a><a href="../Page/Dreamcast.md" title="wikilink">Dreamcast版本</a></p></td>
 <td><p>1998年8月7日</p></td>
 <td></td>
 </tr>
@@ -178,7 +179,7 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 <tr class="even">
 <td><p>DirectX 6.1a</p></td>
 <td><p>4.06.03.0518 (RC0)</p></td>
-<td><p>只用于<a href="../Page/Windows_98#第二版.md" title="wikilink">Windows 98 SE</a></p></td>
+<td><p>只用于<a href="https://zh.wikipedia.org/wiki/Windows_98#第二版" title="wikilink">Windows 98 SE</a></p></td>
 <td><p>1999年5月5日</p></td>
 <td></td>
 </tr>
@@ -272,7 +273,7 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 <td><p>4.09.00.0900 (RC4)</p></td>
 <td></td>
 <td><p>2002年12月19日</p></td>
-<td><p>（IDirectGraphic9）與<a href="../Page/HLSL.md" title="wikilink">HLSL</a></p></td>
+<td><p>（IDirectGraphic9）與<a href="https://zh.wikipedia.org/wiki/HLSL" title="wikilink">HLSL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>DirectX 9.0a</p></td>
@@ -335,7 +336,7 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 <td><p>6.01.7600.16385</p></td>
 <td><p>Windows 7，Windows Server 2008 R2</p></td>
 <td><p>2009年7月22日</p></td>
-<td><p>與<a href="../Page/Windows_7.md" title="wikilink">Windows 7</a> RTM一同釋出</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a> RTM一同釋出</p></td>
 </tr>
 <tr class="odd">
 <td><p>6.01.7601.17514</p></td>
@@ -361,14 +362,14 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 <tr class="even">
 <td><p>DirectX 11.2</p></td>
 <td><p>6.03.9600.16384</p></td>
-<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>、<a href="../Page/Windows_8.1.md" title="wikilink">Windows RT 8.1</a>、<a href="../Page/Windows_Server_2012#Windows_Server_2012_R2.md" title="wikilink">Windows Server 2012 R2</a></p></td>
+<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>、<a href="../Page/Windows_8.1.md" title="wikilink">Windows RT 8.1</a>、<a href="https://zh.wikipedia.org/wiki/Windows_Server_2012#Windows_Server_2012_R2" title="wikilink">Windows Server 2012 R2</a></p></td>
 <td><p>2013年10月18日</p></td>
 <td><p>包含于操作系统，无独立程序包</p></td>
 </tr>
 <tr class="odd">
 <td><p>DirectX 12</p></td>
 <td><p>10.00.10240.16384</p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
 <td><p>2015年1月18日</p></td>
 <td><p>包含于操作系统，无独立程序包，並支持Xbox One</p></td>
 </tr>
@@ -386,7 +387,7 @@ Windows SDK裡](../Page/Microsoft_Windows_SDK.md "wikilink")。例如DirectX
 ### .NET Framework
 
 2002年间，微软发布一个兼容[.NET
-Framework的DX版本](../Page/.NET_Framework.md "wikilink")，因而允许程序员充分利用.NET的特性编写DX程序，这套API被称为（MDX）。2005年微軟在DirectX
+Framework的DX版本](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，因而允许程序员充分利用.NET的特性编写DX程序，这套API被称为（MDX）。2005年微軟在DirectX
 9.0c版本上开发一套正对.NET平台的Managed API，即Direct 9.0 for Managed Code
 1.0（简称Managed DirectX）。
 
@@ -394,7 +395,7 @@ Framework的DX版本](../Page/.NET_Framework.md "wikilink")，因而允许程序
 2.0版本至今只是个测试版。
 
 [-{GDC}-](../Page/游戏开发者大会.md "wikilink") 2006期间，微软终止開發Managed
-DirectX，改推出了[XNA](../Page/XNA.md "wikilink")
+DirectX，改推出了[XNA](https://zh.wikipedia.org/wiki/XNA "wikilink")
 framework，是一組基于Managed
 DirectX，帮助程序员更轻松的编写游戏的框架，将DirectX，Shader，[高级着色器语言](../Page/高级着色器语言.md "wikilink")（HLSL）以及其他工具整合到一起。2006年12月11日，微软对Windows
 XP提供免费的XNA Game Studio Express RTM的下载服务。
@@ -403,8 +404,8 @@ XP提供免费的XNA Game Studio Express RTM的下载服务。
 
 [Windows Vista及以上的操作系统才支持DirectX](../Page/Windows_Vista.md "wikilink")
 10（也就是說，DirectX 9是最後一個支援Windows
-XP的版本），比起之前的版本，DX10做了重大的变动：增加了[XInput用以处理](../Page/XInput.md "wikilink")[XBOX
-360手柄的支持](../Page/XBOX_360.md "wikilink")，[DirectSound将被](../Page/DirectSound.md "wikilink")[XACT替换](../Page/XACT.md "wikilink")。DirectX
+XP的版本），比起之前的版本，DX10做了重大的变动：增加了[XInput用以处理](https://zh.wikipedia.org/wiki/XInput "wikilink")[XBOX
+360手柄的支持](https://zh.wikipedia.org/wiki/XBOX_360 "wikilink")，[DirectSound将被](../Page/DirectSound.md "wikilink")[XACT替换](https://zh.wikipedia.org/wiki/XACT "wikilink")。DirectX
 10也减少了对音效硬件加速的支持，更多的使用CPU来运算音效。
 
 Direct3D 10.1是DirectX 10的改進版，隨Vista SP1出貨。
@@ -412,11 +413,12 @@ Direct3D 10.1是DirectX 10的改進版，隨Vista SP1出貨。
 ### DirectX 11
 
 DirectX 11是DirectX 10的改良，只對效能和擴展性進行最佳化，主要改進在提供Shader Model
-5.0，加入對[MSAA的直接采樣控制](../Page/反锯齿.md "wikilink")。大幅改進[多執行緒效能](../Page/多執行緒_\(電腦硬體\).md "wikilink")，提供三個獨立的介面。進一步提高紋理壓縮，[鑲嵌](../Page/密鋪.md "wikilink")（tessellation）處理的效能\[5\]\[6\]，並加入Compute
-Shader（DirectCompute）來支援[GPGPU](../Page/GPGPU.md "wikilink")，提供新版[HLSL語言](../Page/HLSL.md "wikilink")。
+5.0，加入對[MSAA的直接采樣控制](https://zh.wikipedia.org/wiki/反锯齿 "wikilink")。大幅改進[多執行緒效能](https://zh.wikipedia.org/wiki/多執行緒_\(電腦硬體\) "wikilink")，提供三個獨立的介面。進一步提高紋理壓縮，[鑲嵌](../Page/密鋪.md "wikilink")（tessellation）處理的效能\[5\]\[6\]，並加入Compute
+Shader（DirectCompute）來支援[GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink")，提供新版[HLSL語言](https://zh.wikipedia.org/wiki/HLSL "wikilink")。
 
 DirectX 11.1是DirectX 11的改进版，随[Windows
-8出货](../Page/Windows_8.md "wikilink")。Windows 7 SP1升級後部分支持。
+8出货](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。Windows 7
+SP1升級後部分支持。
 
 DirectX 11.2是DirectX 11.1的改進版，隨[Windows
 8.1出貨](../Page/Windows_8.1.md "wikilink")。
@@ -429,13 +431,13 @@ DirectX
 12的遊戲性能都不如DirectX 11。
 
 2019年3月13日，微軟於DirectX Developer
-Blog表示，未來[魔獸世界](../Page/魔獸世界.md "wikilink")8.1.5的遊戲更新將使Windows
+Blog表示，未來[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")8.1.5的遊戲更新將使Windows
 7 平台下能夠支援DirectX 12，讓舊平台用戶也能體驗 DirectX
 12的多線程渲染優勢，並提高遊戲效能。且未來陸續也會有其他廠商推出相關更新。\[7\]\[8\]
 
 ## DirectX标志的变更
 
-纵观DX的各个版本，X都是一个核辐射警告标志或一只螺旋桨叶片。这个设计引发了不小的争议，因为DX计划的原名叫做“[曼哈顿计划](../Page/曼哈顿计划.md "wikilink")”，这个名称来源于美国的核武器研制计划，最终美国使用[核武器轰炸了日本的](../Page/核武器.md "wikilink")[广岛和](../Page/广岛.md "wikilink")[长崎](../Page/长崎.md "wikilink")，这在暗示DX产品要替代日本在电子游戏方面的霸主地位。这一说法被微软公开否定，微軟表示这只是出于艺术设计的考虑。\[9\]
+纵观DX的各个版本，X都是一个核辐射警告标志或一只螺旋桨叶片。这个设计引发了不小的争议，因为DX计划的原名叫做“[曼哈顿计划](../Page/曼哈顿计划.md "wikilink")”，这个名称来源于美国的核武器研制计划，最终美国使用[核武器轰炸了日本的](../Page/核武器.md "wikilink")[广岛和](https://zh.wikipedia.org/wiki/广岛 "wikilink")[长崎](https://zh.wikipedia.org/wiki/长崎 "wikilink")，这在暗示DX产品要替代日本在电子游戏方面的霸主地位。这一说法被微软公开否定，微軟表示这只是出于艺术设计的考虑。\[9\]
 
 <center>
 
@@ -450,22 +452,25 @@ logo.png|DirectX 7.0 <File:DirectX> 8.0 logo.png|DirectX 8.0
 
 ## 参见
 
-  - [图形设备接口](../Page/图形设备接口.md "wikilink")（GDI）
-  - [GGI](../Page/GGI.md "wikilink")（通用图形接口）
-  - [Graphics pipeline](../Page/Graphics_pipeline.md "wikilink")
+  - [图形设备接口](https://zh.wikipedia.org/wiki/图形设备接口 "wikilink")（GDI）
+  - [GGI](https://zh.wikipedia.org/wiki/GGI "wikilink")（通用图形接口）
+  - [Graphics
+    pipeline](https://zh.wikipedia.org/wiki/Graphics_pipeline "wikilink")
   - [DxDiag](../Page/DxDiag.md "wikilink")
-  - [DirectX plugin](../Page/DirectX_plugin.md "wikilink")
+  - [DirectX
+    plugin](https://zh.wikipedia.org/wiki/DirectX_plugin "wikilink")
   - [ActiveX](../Page/ActiveX.md "wikilink")
   - [Microsoft XNA](../Page/Microsoft_XNA.md "wikilink")
   - [支持DirectX 10游戏列表](../Page/支持DirectX_10游戏列表.md "wikilink")
-  - [支援DirectX 11遊戲列表](../Page/支援DirectX_11遊戲列表.md "wikilink")
+  - [支援DirectX
+    11遊戲列表](https://zh.wikipedia.org/wiki/支援DirectX_11遊戲列表 "wikilink")
 
 ### 其他API
 
   - [Mantle](../Page/Mantle_\(API\).md "wikilink")
-  - [SDL](../Page/SDL.md "wikilink")
+  - [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")
   - [OpenMAX](../Page/OpenMAX.md "wikilink")
-  - [OpenML](../Page/OpenML.md "wikilink")
+  - [OpenML](https://zh.wikipedia.org/wiki/OpenML "wikilink")
   - [OpenGL](../Page/OpenGL.md "wikilink")
   - [OpenAL](../Page/OpenAL.md "wikilink")
 

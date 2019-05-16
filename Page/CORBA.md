@@ -1,16 +1,16 @@
 **CORBA**（Common Object Request Broker
 Architecture）通用物件請求代理架構是軟體構建的一个標準。
 
-CORBA標準由[物件管理組織](../Page/Object_Management_Group.md "wikilink")（OMG）設立並進行控制，CORBA定義了一系列[API](../Page/API.md "wikilink")，通信協議，和物件／服務[信息模型用於使得異質](../Page/信息模型.md "wikilink")[應用程序能夠互相操作](../Page/應用程序.md "wikilink")，這些應用程序用不同的程式語言編寫，運行在不同的平台上。CORBA因此為定義明確的物件提供了平臺和位置的透明性，這些物件是[分布式計算平臺的基礎](../Page/分布式計算.md "wikilink")。
+CORBA標準由[物件管理組織](https://zh.wikipedia.org/wiki/Object_Management_Group "wikilink")（OMG）設立並進行控制，CORBA定義了一系列[API](https://zh.wikipedia.org/wiki/API "wikilink")，通信協議，和物件／服務[信息模型用於使得異質](https://zh.wikipedia.org/wiki/信息模型 "wikilink")[應用程序能夠互相操作](https://zh.wikipedia.org/wiki/應用程序 "wikilink")，這些應用程序用不同的程式語言編寫，運行在不同的平台上。CORBA因此為定義明確的物件提供了平臺和位置的透明性，這些物件是[分布式計算平臺的基礎](https://zh.wikipedia.org/wiki/分布式計算 "wikilink")。
 
-通常來說，CORBA把用其他語言開發的程序代码和關於該程序代码能力和如何調用該程序代码的信息包到一個开发包（package）中，开发包中的物件則可以在網络上被其他[程序](../Page/電腦程序.md "wikilink")（或CORBA[物件](../Page/物件.md "wikilink")）調用。在這個意義上來講，CORBA可以被看作是一個[機器可讀的文件檔格式](../Page/機器可讀.md "wikilink")，類似於头文件（header），但是具有相當多的信息。
+通常來說，CORBA把用其他語言開發的程序代码和關於該程序代码能力和如何調用該程序代码的信息包到一個开发包（package）中，开发包中的物件則可以在網络上被其他[程序](https://zh.wikipedia.org/wiki/電腦程序 "wikilink")（或CORBA[物件](https://zh.wikipedia.org/wiki/物件 "wikilink")）調用。在這個意義上來講，CORBA可以被看作是一個[機器可讀的文件檔格式](https://zh.wikipedia.org/wiki/機器可讀 "wikilink")，類似於头文件（header），但是具有相當多的信息。
 
 CORBA使用一種[接口描述语言](../Page/接口描述语言.md "wikilink")（[Interface description
-language](../Page/IDL.md "wikilink")）用於刻畫物件將呈現出來的介面。CORBA又規定了從[IDL到特定程式語言](../Page/IDL.md "wikilink")，如[C++或](../Page/C++.md "wikilink")[Java](../Page/Java.md "wikilink")，實現的映射。這個映射精確的描述了CORBA[資料類型是如何被用戶端和伺服器端實現的](../Page/資料類型.md "wikilink")。標準映射的有[Ada](../Page/Ada.md "wikilink")、[C](../Page/C語言.md "wikilink")、[C++](../Page/C++.md "wikilink")、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Java](../Page/Java.md "wikilink")、以及[Python](../Page/Python.md "wikilink")。還有一些非標準的映射，為[Perl和](../Page/Perl.md "wikilink")[Tcl的映射由這些語言寫的](../Page/Tcl.md "wikilink")[ORB實現](../Page/ORB.md "wikilink")。
+language](https://zh.wikipedia.org/wiki/IDL "wikilink")）用於刻畫物件將呈現出來的介面。CORBA又規定了從[IDL到特定程式語言](https://zh.wikipedia.org/wiki/IDL "wikilink")，如[C++或](../Page/C++.md "wikilink")[Java](../Page/Java.md "wikilink")，實現的映射。這個映射精確的描述了CORBA[資料類型是如何被用戶端和伺服器端實現的](../Page/資料類型.md "wikilink")。標準映射的有[Ada](../Page/Ada.md "wikilink")、[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Java](../Page/Java.md "wikilink")、以及[Python](../Page/Python.md "wikilink")。還有一些非標準的映射，為[Perl和](../Page/Perl.md "wikilink")[Tcl的映射由這些語言寫的](../Page/Tcl.md "wikilink")[ORB實現](https://zh.wikipedia.org/wiki/ORB "wikilink")。
 
 CORBA的IDL只是IDL的一個例子。
 
-在提供用戶語言和平臺中性的[遠端程序呼叫規範的同時](../Page/遠端程序呼叫.md "wikilink")，CORBA也定義了通常需要的服務，例如事務和安全。
+在提供用戶語言和平臺中性的[遠端程序呼叫規範的同時](https://zh.wikipedia.org/wiki/遠端程序呼叫 "wikilink")，CORBA也定義了通常需要的服務，例如事務和安全。
 
 ## CORBA的主题
 
@@ -27,17 +27,18 @@ CORBA的数据（整数、浮点数、结构、枚举等）是通过值传递。
 ### 通用ORB间协议（GIOP）
 
 GIOP是用于ORB间数据传输的抽象协议，通用ORB间协议（GIOP）用来为这个由不同计算机及其各种体系结构组成的世界中传送消息定义结构和格式。如果使用GIOP的结构和格式，并将它们应用于TCP/IP，那么就得到IIOP。GIOP有两个版本：1.0和1.1。相关协议标准由[Object
-Management Group](../Page/Object_Management_Group.md "wikilink")（OMG）管理.
+Management
+Group](https://zh.wikipedia.org/wiki/Object_Management_Group "wikilink")（OMG）管理.
 GIOP架构提供了如下具体协议：
 
 1.  因特网ORB间协议（IIOP）—定义了基于因特网的GIOP实现，提供了TCP/IP到GIOP的映射。
-2.  加密ORB间协议（SSLIOP）—SSLIOP是基于SSL加密层的IIOP，提供了[加密和](../Page/加密.md "wikilink")[认证](../Page/认证.md "wikilink")。
-3.  超文本ORB间协议（HTIOP）—HTIOP是基于[HTTP的IIOP](../Page/HTTP.md "wikilink")，提供了透明代理穿越。
+2.  加密ORB间协议（SSLIOP）—SSLIOP是基于SSL加密层的IIOP，提供了[加密和](https://zh.wikipedia.org/wiki/加密 "wikilink")[认证](https://zh.wikipedia.org/wiki/认证 "wikilink")。
+3.  超文本ORB间协议（HTIOP）—HTIOP是基于[HTTP的IIOP](https://zh.wikipedia.org/wiki/HTTP "wikilink")，提供了透明代理穿越。
 4.  还有很多……
 
 ### Corba对象位置（CorbaLoc）
 
-Corba对象位置（CorbaLoc）是指一个由字符串构成的对象引用，看起来就像一个[URL](../Page/URL.md "wikilink")。
+Corba对象位置（CorbaLoc）是指一个由字符串构成的对象引用，看起来就像一个[URL](https://zh.wikipedia.org/wiki/URL "wikilink")。
 
 CORBA产品需要支持两种OMG定义的URL："`corbaloc:`"和"`corbaname:`"。Corba对象位置的目的是提供一个便于人阅读和修改的方式指定何处可以获得某个可互操作对象（IOR）。
 
@@ -76,17 +77,17 @@ corbaloc的例子：
 
 ## 参见
 
-  - [远程过程调用](../Page/远程过程调用.md "wikilink")
-  - [RFC](../Page/Request_for_Comments.md "wikilink")
-  - [RMI](../Page/RMI.md "wikilink")
-  - [DCOM](../Page/DCOM.md "wikilink")
-  - [SOAP](../Page/SOAP.md "wikilink")
-  - [微软.NET](../Page/.NET.md "wikilink")
+  - [远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")
+  - [RFC](https://zh.wikipedia.org/wiki/Request_for_Comments "wikilink")
+  - [RMI](https://zh.wikipedia.org/wiki/RMI "wikilink")
+  - [DCOM](https://zh.wikipedia.org/wiki/DCOM "wikilink")
+  - [SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")
+  - [微软.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")
   - [Web服务](../Page/Web服务.md "wikilink")
   - [分布式计算](../Page/分布式计算.md "wikilink")
   - [servant](https://github.com/haskell-servant/servant)
-  - [IDL](../Page/IDL.md "wikilink")
-  - [NDDS](../Page/NDDS.md "wikilink")
+  - [IDL](https://zh.wikipedia.org/wiki/IDL "wikilink")
+  - [NDDS](https://zh.wikipedia.org/wiki/NDDS "wikilink")
 
 ## 参考文献
 

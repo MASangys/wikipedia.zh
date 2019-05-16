@@ -1,13 +1,13 @@
-**安全散列演算法**（，縮寫為SHA）是一個[密碼雜湊函數家族](../Page/密碼雜湊函數.md "wikilink")，是[FIPS所認證的安全](../Page/联邦资料处理标准.md "wikilink")[雜湊演算法](../Page/雜湊函數.md "wikilink")。能計算出一個數位訊息所對應到的，長度固定的字串（又稱訊息摘要）的算法。且若輸入的訊息不同，它們對應到不同字串的機率很高。
+**安全散列演算法**（，縮寫為SHA）是一個[密碼雜湊函數家族](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，是[FIPS所認證的安全](https://zh.wikipedia.org/wiki/联邦资料处理标准 "wikilink")[雜湊演算法](https://zh.wikipedia.org/wiki/雜湊函數 "wikilink")。能計算出一個數位訊息所對應到的，長度固定的字串（又稱訊息摘要）的算法。且若輸入的訊息不同，它們對應到不同字串的機率很高。
 
-SHA家族的演算法，由[美國國家安全局](../Page/美國國家安全局.md "wikilink")（NSA）所設計，並由[美國國家標準與技術研究院](../Page/美國國家標準與技術研究院.md "wikilink")（NIST）發佈，是美國的政府標準，其分別是：
+SHA家族的演算法，由[美國國家安全局](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")（NSA）所設計，並由[美國國家標準與技術研究院](https://zh.wikipedia.org/wiki/美國國家標準與技術研究院 "wikilink")（NIST）發佈，是美國的政府標準，其分別是：
 
-  - **[SHA-0](../Page/SHA-0.md "wikilink")**：1993年发布，当时称做安全散列标准（Secure
+  - **[SHA-0](https://zh.wikipedia.org/wiki/SHA-0 "wikilink")**：1993年发布，当时称做安全散列标准（Secure
     Hash Standard），发布之后很快就被NSA撤回，是SHA-1的前身。
 
 <!-- end list -->
 
-  - **[SHA-1](../Page/SHA-1.md "wikilink")**：1995年发布，SHA-1在許多安全協定中廣為使用，包括[TLS和](../Page/TLS.md "wikilink")[SSL](../Page/SSL.md "wikilink")、[PGP](../Page/PGP.md "wikilink")、[SSH](../Page/SSH.md "wikilink")、[S/MIME和](../Page/S/MIME.md "wikilink")[IPsec](../Page/IPsec.md "wikilink")，曾被視為是[MD5](../Page/MD5.md "wikilink")（更早之前被廣為使用的雜湊函數）的後繼者。但SHA-1的安全性在2000年以后已经不被大多数的加密场景所接受。2017年荷兰密码学研究小组CWI和Google正式宣布攻破了SHA-1\[1\]。
+  - **[SHA-1](../Page/SHA-1.md "wikilink")**：1995年发布，SHA-1在許多安全協定中廣為使用，包括[TLS和](https://zh.wikipedia.org/wiki/TLS "wikilink")[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")、[PGP](../Page/PGP.md "wikilink")、[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")、[S/MIME和](https://zh.wikipedia.org/wiki/S/MIME "wikilink")[IPsec](../Page/IPsec.md "wikilink")，曾被視為是[MD5](../Page/MD5.md "wikilink")（更早之前被廣為使用的雜湊函數）的後繼者。但SHA-1的安全性在2000年以后已经不被大多数的加密场景所接受。2017年荷兰密码学研究小组CWI和Google正式宣布攻破了SHA-1\[1\]。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@ SHA家族的演算法，由[美國國家安全局](../Page/美國國家安全局
 <th><p>使用到的運算子</p></th>
 <th><p>碰撞攻击<br />
 （bits）</p></th>
-<th><p>性能示例{{refn|Found on an <a href="../Page/AMD_Opteron.md" title="wikilink">AMD Opteron</a> 8354 2.2 GHz processor running 64-bit Linux<ref>{{cite web</p></th>
+<th><p>性能示例{{refn|Found on an <a href="https://zh.wikipedia.org/wiki/AMD_Opteron" title="wikilink">AMD Opteron</a> 8354 2.2 GHz processor running 64-bit Linux<ref>{{cite web</p></th>
 <th><p>url=<a href="http://www.cryptopp.com/benchmarks-amd64.html">http://www.cryptopp.com/benchmarks-amd64.html</a></p></th>
 <th><p>title=Crypto++ 5.6.0 Benchmarks</p></th>
 <th><p>accessdate=2013-06-13 }} </ref>}}<br />
@@ -189,7 +189,8 @@ SHA<sub>d</sub>-256(m)=SHA-256(SHA-256(m))。它會克服有關*延伸長度*攻
     Archive, Report 2004/146, 2004 (to appear CRYPTO 2004)
     [1](http://eprint.iacr.org/2004/146/)
   - Florent Chabaud, Antoine Joux: Differential Collisions in SHA-0.
-    [CRYPTO](../Page/CRYPTO.md "wikilink") 1998. pp. 56–71.
+    [CRYPTO](https://zh.wikipedia.org/wiki/CRYPTO "wikilink") 1998. pp.
+    56–71.
   - Henri Gilbert, Helena Handschuh: Security Analysis of SHA-256 and
     Sisters. Selected Areas in Cryptography 2003: pp. 175–193.
 
@@ -204,10 +205,10 @@ SHA<sub>d</sub>-256(m)=SHA-256(SHA-256(m))。它會克服有關*延伸長度*攻
 
 ## 參見
 
-  - [编码](../Page/编码.md "wikilink")
+  - [编码](https://zh.wikipedia.org/wiki/编码 "wikilink")
   - [密码学](../Page/密码学.md "wikilink")
-  - [加密技术](../Page/加密技术.md "wikilink")
-  - [演算法](../Page/演算法.md "wikilink")
+  - [加密技术](https://zh.wikipedia.org/wiki/加密技术 "wikilink")
+  - [演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")
 
 [Category:密码散列函数](https://zh.wikipedia.org/wiki/Category:密码散列函数 "wikilink")
 

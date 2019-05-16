@@ -1,19 +1,19 @@
 **Cinema
 4D**是一套由[德国](../Page/德国.md "wikilink")[公司](../Page/公司.md "wikilink")[Maxon
-Computer开发的](../Page/Maxon_Computer.md "wikilink")[三维绘图](../Page/三维绘图.md "wikilink")[软件](../Page/软件.md "wikilink")，以其高的运算速度和强大的[渲染外掛著称](../Page/渲染.md "wikilink")。Cinema
-4D应用广泛，在[广告](../Page/广告.md "wikilink")、[电影](../Page/电影.md "wikilink")、[工业设计](../Page/工业设计.md "wikilink")、等方面都有出色的表现，例如影片《[毁灭战士](../Page/毁灭战士.md "wikilink")》（*Doom*）、《[-{zh-hans:范海辛;
-zh-hant:凡赫辛;}-](../Page/范海辛.md "wikilink")》（*Van
+Computer开发的](https://zh.wikipedia.org/wiki/Maxon_Computer "wikilink")[三维绘图](https://zh.wikipedia.org/wiki/三维绘图 "wikilink")[软件](../Page/软件.md "wikilink")，以其高的运算速度和强大的[渲染外掛著称](../Page/渲染.md "wikilink")。Cinema
+4D应用广泛，在[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")、[电影](../Page/电影.md "wikilink")、[工业设计](../Page/工业设计.md "wikilink")、等方面都有出色的表现，例如影片《[毁灭战士](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")》（*Doom*）、《[-{zh-hans:范海辛;
+zh-hant:凡赫辛;}-](https://zh.wikipedia.org/wiki/范海辛 "wikilink")》（*Van
 Helsing*）、《[-{zh-hans:蜘蛛侠;
-zh-hant:蜘蛛人;}-](../Page/蜘蛛侠.md "wikilink")》、以及动画片《[-{zh-hans:极地特快;
-zh-hant:北極特快車;}-](../Page/极地特快.md "wikilink")》、《[-{zh-hans:丛林大反攻;
-zh-hant:打獵季節;}-](../Page/丛林大反攻.md "wikilink")》（*Open
-Season*）等等。它正成为许多一流[艺术家和电影公司的首选](../Page/艺术家.md "wikilink")，Cinema
-4D已经走向[成熟](../Page/成熟.md "wikilink")。
+zh-hant:蜘蛛人;}-](https://zh.wikipedia.org/wiki/蜘蛛侠 "wikilink")》、以及动画片《[-{zh-hans:极地特快;
+zh-hant:北極特快車;}-](https://zh.wikipedia.org/wiki/极地特快 "wikilink")》、《[-{zh-hans:丛林大反攻;
+zh-hant:打獵季節;}-](https://zh.wikipedia.org/wiki/丛林大反攻 "wikilink")》（*Open
+Season*）等等。它正成为许多一流[艺术家和电影公司的首选](https://zh.wikipedia.org/wiki/艺术家 "wikilink")，Cinema
+4D已经走向[成熟](https://zh.wikipedia.org/wiki/成熟 "wikilink")。
 
 ## 概要
 
 Cinema
-4D的前身是1989年发表的软件[FastRay最初只发表在](../Page/FastRay.md "wikilink")[Amiga上](../Page/Amiga.md "wikilink")，[Amiga是一种早期的个人电脑系统](../Page/Amiga.md "wikilink")，当时还没有图形界面。
+4D的前身是1989年发表的软件[FastRay最初只发表在](https://zh.wikipedia.org/wiki/FastRay "wikilink")[Amiga上](../Page/Amiga.md "wikilink")，[Amiga是一种早期的个人电脑系统](../Page/Amiga.md "wikilink")，当时还没有图形界面。
 
 两年后，在1991年FastRay更新到了1.0，但是这个软件当时还并没有有涉及到三维领域。1993年FastRay更名为CINEMA 4D
 1.0，仍然在Amiga上发布。
@@ -51,11 +51,11 @@ Cinema
 <!-- end list -->
 
   - '''BodyPaint 3D
-    '''：[三维纹理](../Page/三维纹理.md "wikilink")[绘画使用这个模块可以直接在](../Page/绘画.md "wikilink")[三维模型上进行](../Page/三维模型.md "wikilink")[绘画](../Page/绘画.md "wikilink")，有多种笔触支持压感和[图层功能](../Page/图层.md "wikilink")，功能强大。
+    '''：[三维纹理](https://zh.wikipedia.org/wiki/三维纹理 "wikilink")[绘画使用这个模块可以直接在](../Page/绘画.md "wikilink")[三维模型上进行](../Page/三维模型.md "wikilink")[绘画](../Page/绘画.md "wikilink")，有多种笔触支持压感和[图层功能](https://zh.wikipedia.org/wiki/图层 "wikilink")，功能强大。
 
 <!-- end list -->
 
-  - **Dynamics**：动力学模块提供了[模拟真实](../Page/模拟.md "wikilink")[物理环境的功能](../Page/物理.md "wikilink")，通过这个模拟的[空间可以实现例如](../Page/空间.md "wikilink")[重力](../Page/重力.md "wikilink")、[风力](../Page/风力.md "wikilink")、[质量](../Page/质量.md "wikilink")、刚体、柔体等效果。
+  - **Dynamics**：动力学模块提供了[模拟真实](https://zh.wikipedia.org/wiki/模拟 "wikilink")[物理环境的功能](https://zh.wikipedia.org/wiki/物理 "wikilink")，通过这个模拟的[空间可以实现例如](https://zh.wikipedia.org/wiki/空间 "wikilink")[重力](https://zh.wikipedia.org/wiki/重力 "wikilink")、[风力](https://zh.wikipedia.org/wiki/风力 "wikilink")、[质量](../Page/质量.md "wikilink")、刚体、柔体等效果。
 
 <!-- end list -->
 
@@ -85,25 +85,25 @@ Cinema
 [HandymitCinema4D.jpg](https://zh.wikipedia.org/wiki/File:HandymitCinema4D.jpg "fig:HandymitCinema4D.jpg")
 [Cinema4Dcover.png](https://zh.wikipedia.org/wiki/File:Cinema4Dcover.png "fig:Cinema4Dcover.png")
 2006年10月4日MAXON官方网站发布了Cinema 4D Release 10，和[BodyPaint 3D
-R3](../Page/BodyPaint_3D.md "wikilink")。并已经放出截面和试用版。此次在界面风格和设计方面做了很大的改动，整个界面以黑色调为主，包括全新的界面设计和全新的按钮图示。
+R3](https://zh.wikipedia.org/wiki/BodyPaint_3D "wikilink")。并已经放出截面和试用版。此次在界面风格和设计方面做了很大的改动，整个界面以黑色调为主，包括全新的界面设计和全新的按钮图示。
 
 新版本的Cinema4D Release
-10将会包含所有[插件的](../Page/插件.md "wikilink")[升级版本包括](../Page/升级.md "wikilink")：Advanced
+10将会包含所有[插件的](../Page/插件.md "wikilink")[升级版本包括](https://zh.wikipedia.org/wiki/升级 "wikilink")：Advanced
 Render高级[渲染插件](../Page/渲染.md "wikilink")、MoGraph
 [矩阵系统](../Page/矩阵.md "wikilink")、MOCCA 3
 [骨骼模块](../Page/骨骼.md "wikilink")、HAIR毛发系统、Thinking Particles
 [粒子系统](../Page/粒子系统.md "wikilink")、Dynamics
-[动力学插件](../Page/动力学.md "wikilink")、NET Render
-[网络渲染插件](../Page/网络渲染.md "wikilink")、Sketch and Toon
-[卡通渲染模块](../Page/卡通.md "wikilink")。
+[动力学插件](https://zh.wikipedia.org/wiki/动力学 "wikilink")、NET
+Render [网络渲染插件](https://zh.wikipedia.org/wiki/网络渲染 "wikilink")、Sketch
+and Toon [卡通渲染模块](../Page/卡通.md "wikilink")。
 
-这次发布Cinema4D将会分成两个[版本包括CINEMA](../Page/版本.md "wikilink") 4D
-XL-Bundle和CINEMA 4D
-STUDIO-Bundle，其中前者只集成了[渲染](../Page/渲染.md "wikilink")、[骨骼](../Page/骨骼.md "wikilink")、[粒子](../Page/粒子.md "wikilink")、[网络](../Page/网络.md "wikilink")[渲染](../Page/渲染.md "wikilink")，4个[插件](../Page/插件.md "wikilink")。后者则包含了所有[插件](../Page/插件.md "wikilink")。
+这次发布Cinema4D将会分成两个[版本包括CINEMA](https://zh.wikipedia.org/wiki/版本 "wikilink")
+4D XL-Bundle和CINEMA 4D
+STUDIO-Bundle，其中前者只集成了[渲染](../Page/渲染.md "wikilink")、[骨骼](../Page/骨骼.md "wikilink")、[粒子](https://zh.wikipedia.org/wiki/粒子 "wikilink")、[网络](https://zh.wikipedia.org/wiki/网络 "wikilink")[渲染](../Page/渲染.md "wikilink")，4个[插件](../Page/插件.md "wikilink")。后者则包含了所有[插件](../Page/插件.md "wikilink")。
 
   - **1990年**
-      - 创始人[Christian和](../Page/Christian.md "wikilink")[Philip
-        Losch在编程比赛中获奖](../Page/Philip_Losch.md "wikilink")。
+      - 创始人[Christian和](https://zh.wikipedia.org/wiki/Christian "wikilink")[Philip
+        Losch在编程比赛中获奖](https://zh.wikipedia.org/wiki/Philip_Losch "wikilink")。
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@ STUDIO-Bundle，其中前者只集成了[渲染](../Page/渲染.md "wikilink")�
       - CINEMA 4D ART发布。
       - 加入云雾插件。
       - 同年发布CINEMA 4D R7。
-      - 首次加入[动力学插件](../Page/动力学.md "wikilink")。
+      - 首次加入[动力学插件](https://zh.wikipedia.org/wiki/动力学 "wikilink")。
 
 <!-- end list -->
 
@@ -217,7 +217,7 @@ STUDIO-Bundle，其中前者只集成了[渲染](../Page/渲染.md "wikilink")�
 
 <!-- end list -->
 
-  - **[2010年9月1日](../Page/2010年9月1日.md "wikilink")**
+  - **[2010年9月1日](https://zh.wikipedia.org/wiki/2010年9月1日 "wikilink")**
       - CINEMA 4D R12发布。
       - 模块（Modules）：Advanced Render 3、MoGraph 2、MOCCA、HAIR、Thinking
         Particles、Dynamices、NET Render、Sketch and Toon九大模块。

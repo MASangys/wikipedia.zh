@@ -1,4 +1,4 @@
-**VRML**是一种專為[WWW](../Page/WWW.md "wikilink")（萬維網）而設計的三維圖像[置标语言](../Page/置标语言.md "wikilink")。全称是虚拟现实建模语言，是由VRML协会设计的。VRML标准中既定义了描述三维模型的编码格式，也定义了描述交互或脚本的编码及行为模式。VRML协会现已更名为[Web3D联盟](http://www.web3d.org)，VRML标准现在也已经升级为[X3D标准](../Page/X3D.md "wikilink")。
+**VRML**是一种專為[WWW](https://zh.wikipedia.org/wiki/WWW "wikilink")（萬維網）而設計的三維圖像[置标语言](../Page/置标语言.md "wikilink")。全称是虚拟现实建模语言，是由VRML协会设计的。VRML标准中既定义了描述三维模型的编码格式，也定义了描述交互或脚本的编码及行为模式。VRML协会现已更名为[Web3D联盟](http://www.web3d.org)，VRML标准现在也已经升级为[X3D标准](../Page/X3D.md "wikilink")。
 
 VRML的最初版为1994年的VRML 1.0，然后是VRML97，最近新版为X3D标准，三者都是ISO认可的国际标准。VRML
 1.0最初只是一个模型格式，后来经过扩展和改写，行成了VRML97。VRML97通过原型定义、路由、javascript和一系列的传感器节点完成动画和交互。在VRML97上又发展了骨骼动画和地理坐标等功能扩展。

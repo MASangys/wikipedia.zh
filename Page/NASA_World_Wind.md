@@ -1,16 +1,17 @@
 [Globe-worldwind.jpg](https://zh.wikipedia.org/wiki/File:Globe-worldwind.jpg "fig:Globe-worldwind.jpg")\]\]
 
 **NASA World
-Wind**（有直譯為**世界风**者），是[NASA发布的一个](../Page/NASA.md "wikilink")[开放源代码的](../Page/开放源代码.md "wikilink")[地理](../Page/地理.md "wikilink")[科普](../Page/科普.md "wikilink")[软件](../Page/软件.md "wikilink")，由[NASA
-Research开发](../Page/NASA_Research.md "wikilink")，[NASA Learning
-Technologies來發展](../Page/NASA_Learning_Technologies.md "wikilink")，它是一个可视化[地球仪](../Page/地球仪.md "wikilink")，将NASA、USGS以及其它[WMS服务商提供的图像通过一个三维的](../Page/WMS.md "wikilink")[地球模型展现](../Page/地球.md "wikilink")，近期还包含了[火星和](../Page/火星.md "wikilink")[月球的展现](../Page/月球.md "wikilink")。
+Wind**（有直譯為**世界风**者），是[NASA发布的一个](https://zh.wikipedia.org/wiki/NASA "wikilink")[开放源代码的](../Page/开放源代码.md "wikilink")[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")[科普](https://zh.wikipedia.org/wiki/科普 "wikilink")[软件](../Page/软件.md "wikilink")，由[NASA
+Research开发](https://zh.wikipedia.org/wiki/NASA_Research "wikilink")，[NASA
+Learning
+Technologies來發展](https://zh.wikipedia.org/wiki/NASA_Learning_Technologies "wikilink")，它是一个可视化[地球仪](https://zh.wikipedia.org/wiki/地球仪 "wikilink")，将NASA、USGS以及其它[WMS服务商提供的图像通过一个三维的](https://zh.wikipedia.org/wiki/WMS "wikilink")[地球模型展现](../Page/地球.md "wikilink")，近期还包含了[火星和](../Page/火星.md "wikilink")[月球的展现](../Page/月球.md "wikilink")。
 
-用户可在所观察的行星上随意地旋转、放大、缩小，同时可以看到地名和行政区划。软件还包含了一个软件包，能够浏览地图及其它由[因特网上的](../Page/因特网.md "wikilink")[OpenGIS
+用户可在所观察的行星上随意地旋转、放大、缩小，同时可以看到地名和行政区划。软件还包含了一个软件包，能够浏览地图及其它由[因特网上的](https://zh.wikipedia.org/wiki/因特网 "wikilink")[OpenGIS
 Web Mapping
-Service提供的图像](../Page/OpenGIS_Web_Mapping_Service.md "wikilink")。
+Service提供的图像](https://zh.wikipedia.org/wiki/OpenGIS_Web_Mapping_Service "wikilink")。
 
 World Wind（version
-1.2e）现在已经包含了到[维基百科的](../Page/维基百科.md "wikilink")[超链接](../Page/超链接.md "wikilink")。
+1.2e）现在已经包含了到[维基百科的](../Page/维基百科.md "wikilink")[超链接](https://zh.wikipedia.org/wiki/超链接 "wikilink")。
 
 ## 目前软件所使用的数据
 

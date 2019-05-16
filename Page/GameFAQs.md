@@ -1,9 +1,9 @@
-**GameFAQs**是一个关于[电子游戏的流行网站](../Page/电子游戏.md "wikilink")，从1995年11月开始提供游戏的FAQS和[攻略](../Page/攻略.md "wikilink")，是繼[IGN之后网上第二大的游戏信息库](../Page/IGN.md "wikilink")。它的创始人是Jeff
+**GameFAQs**是一个关于[电子游戏的流行网站](../Page/电子游戏.md "wikilink")，从1995年11月开始提供游戏的FAQS和[攻略](https://zh.wikipedia.org/wiki/攻略 "wikilink")，是繼[IGN之后网上第二大的游戏信息库](../Page/IGN.md "wikilink")。它的创始人是Jeff
 "CJayC" Veasey。
 
 ## 参见
 
-  - [游戏基地](../Page/游戏基地.md "wikilink")（**Gamebase**）
+  - [游戏基地](https://zh.wikipedia.org/wiki/游戏基地 "wikilink")（**Gamebase**）
 
 ## 參考資料
 

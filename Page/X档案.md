@@ -1,19 +1,19 @@
-《**X檔案**》（）是1990年代聞名於世界各地的[美國](../Page/美國.md "wikilink")[電視](../Page/電視劇.md "wikilink")[科幻影集](../Page/科幻.md "wikilink")，製作人是[克里斯·卡特](../Page/克里斯·卡特.md "wikilink")。1993年9月10日於[FOX首播第一季](../Page/福斯廣播公司.md "wikilink")，2002年5月19日播畢9季後結束；1998年拍攝了一部[同名電影](../Page/X檔案_\(電影\).md "wikilink")，至2008年，電視版結束了6年後，再次拍攝了另一部同名電影。本劇商業上十分成功，在評論界的口碑也很好，立刻吸引了龐大的死忠影迷群體。但第5季末電影版推出後，從第6季開始人氣顯著下滑。加上後期主演人員變動等原因，FOX最終決定在第9季結束此劇。
+《**X檔案**》（）是1990年代聞名於世界各地的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[科幻影集](https://zh.wikipedia.org/wiki/科幻 "wikilink")，製作人是[克里斯·卡特](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")。1993年9月10日於[FOX首播第一季](../Page/福斯廣播公司.md "wikilink")，2002年5月19日播畢9季後結束；1998年拍攝了一部[同名電影](https://zh.wikipedia.org/wiki/X檔案_\(電影\) "wikilink")，至2008年，電視版結束了6年後，再次拍攝了另一部同名電影。本劇商業上十分成功，在評論界的口碑也很好，立刻吸引了龐大的死忠影迷群體。但第5季末電影版推出後，從第6季開始人氣顯著下滑。加上後期主演人員變動等原因，FOX最終決定在第9季結束此劇。
 
 2015年3月24日，FOX宣布於本劇開播22年、下檔13年後，於加拿大溫哥華重啟製作本劇的迷你劇集版本，共6集。
 
-本片在台灣由[華視於](../Page/華視.md "wikilink")1995年首播（但僅播至第七季），1996年7月24日至1997年5月7日期間，並曾另闢時段重播部分第一、二季的集數。之後華視未播出的內容，則陸續於東森洋片台（2003年）與AXN頻道（2008年）播畢。第十季的迷你劇集系列則在2016年1月28日與1月29日晚間22：00時段，由台灣[FOX頻道首播頭兩集](../Page/FOX頻道.md "wikilink")，之後的各集則逢每週五晚間22：00播出，至2016年2月26日播畢。
+本片在台灣由[華視於](https://zh.wikipedia.org/wiki/華視 "wikilink")1995年首播（但僅播至第七季），1996年7月24日至1997年5月7日期間，並曾另闢時段重播部分第一、二季的集數。之後華視未播出的內容，則陸續於東森洋片台（2003年）與AXN頻道（2008年）播畢。第十季的迷你劇集系列則在2016年1月28日與1月29日晚間22：00時段，由台灣[FOX頻道首播頭兩集](https://zh.wikipedia.org/wiki/FOX頻道 "wikilink")，之後的各集則逢每週五晚間22：00播出，至2016年2月26日播畢。
 
 ## 概述
 
-  - 男主角穆德於[牛津大學](../Page/牛津大學.md "wikilink")[心理學系第一名畢業](../Page/心理學.md "wikilink")，後加入[FBI](../Page/FBI.md "wikilink")。但放棄大好前途，主動要求調查“X檔案”，這一類事件都是神祕、靈異、科學和常理很難解釋的[超自然現象](../Page/超自然現象.md "wikilink")。他如此執迷，是因為小時候親眼見到妹妹被綁架，他堅信是外星人所為。這種性格也讓衆人給他取綽號為“spooky”（鬼魅、陰森、古怪、裝神弄鬼）。
-  - 女主角史卡利是[醫學博士](../Page/醫學博士.md "wikilink")，FBI高層對穆德的工作很懷疑，便派史卡利去和他搭檔，及時報告穆德的行為用以揭穿他。科學家出身的史卡利堅信[科學能夠回答一切問題](../Page/科學.md "wikilink")，否認穆德的信念，有時親眼見到難以解釋的現象後都會拒絕承認。然而隨著劇情推移，加上親身的體驗，史卡利雖然仍堅持科學的精神，也逐漸開始相信穆德的理論，並一直伴他左右揭發事實真相。
+  - 男主角穆德於[牛津大學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")[心理學系第一名畢業](https://zh.wikipedia.org/wiki/心理學 "wikilink")，後加入[FBI](https://zh.wikipedia.org/wiki/FBI "wikilink")。但放棄大好前途，主動要求調查“X檔案”，這一類事件都是神祕、靈異、科學和常理很難解釋的[超自然現象](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")。他如此執迷，是因為小時候親眼見到妹妹被綁架，他堅信是外星人所為。這種性格也讓衆人給他取綽號為“spooky”（鬼魅、陰森、古怪、裝神弄鬼）。
+  - 女主角史卡利是[醫學博士](https://zh.wikipedia.org/wiki/醫學博士 "wikilink")，FBI高層對穆德的工作很懷疑，便派史卡利去和他搭檔，及時報告穆德的行為用以揭穿他。科學家出身的史卡利堅信[科學能夠回答一切問題](https://zh.wikipedia.org/wiki/科學 "wikilink")，否認穆德的信念，有時親眼見到難以解釋的現象後都會拒絕承認。然而隨著劇情推移，加上親身的體驗，史卡利雖然仍堅持科學的精神，也逐漸開始相信穆德的理論，並一直伴他左右揭發事實真相。
   - 主線圍繞著[外星人](../Page/外星人.md "wikilink")[陰謀論展開](../Page/陰謀論.md "wikilink")，全世界政府和軍方高層一直試圖掩蓋，千方百計阻撓兩人揭露真相，但與此同時也有很多高層出於不同原因一直在暗中協助兩人。涉及主線的單集每一季共有8、9集左右，在開頭、中間和結尾穿插播出。
-  - 副線則是各種光怪陸離的奇異事件，如：夢魔、預測未來、人體自燃、平行宇宙等，涉及各種文化的[宗教](../Page/宗教.md "wikilink")、[神話](../Page/神話.md "wikilink")、[傳說](../Page/傳說.md "wikilink")。每一季共有12、13集左右。
+  - 副線則是各種光怪陸離的奇異事件，如：夢魔、預測未來、人體自燃、平行宇宙等，涉及各種文化的[宗教](../Page/宗教.md "wikilink")、[神話](https://zh.wikipedia.org/wiki/神話 "wikilink")、[傳說](https://zh.wikipedia.org/wiki/傳說 "wikilink")。每一季共有12、13集左右。
 
 劇集在剛開始播出時並未馬上獲得成功，還曾面臨撤換女主角的命運，但在製作人克里斯卡特堅持下繼續製播，才逐漸打響名號，最後吸引了規模巨大的影迷團體，這些人都稱自己為“X-phile”或“eXcer”。除去熱衷外星人、神祕事件的影迷外，隨著劇情深入，另一個獨立的影迷群體也逐漸興起。這些人關注的焦點是男女主角之間的感情發展，稱自己為“Shipper”（“感情關係”的英文是relationship，摘取後部的ship而造詞）。到劇集後期，隨真相一點點揭開，男女主角之間的戀情也成為一條主線。
 
-美國最知名的電視類刊物《[電視指南](../Page/電視指南.md "wikilink")》（*TV
+美國最知名的電視類刊物《[電視指南](https://zh.wikipedia.org/wiki/電視指南 "wikilink")》（*TV
 Guide*）曾評價《X檔案》為最偉大的電視劇，也是繼《[星艦奇航記](../Page/星艦奇航記.md "wikilink")》之後第二偉大的“cult電視劇”（指影迷極端狂熱崇拜的電視劇）。製片人卡特在此世界觀基礎上又製作了兩部衍生劇集《法眼奇案》和《孤槍俠》，還有一部沒有外在聯繫的《Harsh
 Realm》，不過這三部影集都遠遠不及《X檔案》的成就。
 
@@ -37,7 +37,7 @@ Realm》，不過這三部影集都遠遠不及《X檔案》的成就。
 David Duchovny</p></td>
 <td><p>福克斯·穆德<br />
 Fox Mulder</p></td>
-<td><p><a href="../Page/FBI.md" title="wikilink">FBI</a><a href="../Page/探員.md" title="wikilink">探員</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/FBI" title="wikilink">FBI</a><a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a><br />
 1-7季男主角<br />
 第8季偶爾出現<br />
 大結局出現</p></td>
@@ -47,13 +47,13 @@ Fox Mulder</p></td>
 <td><p><a href="../Page/李智良.md" title="wikilink">李智良</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姬蓮·安德森.md" title="wikilink">姬蓮·安德森</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/姬蓮·安德森" title="wikilink">姬蓮·安德森</a><br />
 Gillian Anderson</p></td>
 <td><p>黛娜·史卡利<br />
 Dana Scully</p></td>
 <td><p>FBI探員<br />
 女主角<br />
-<a href="../Page/醫學博士.md" title="wikilink">醫學博士</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/醫學博士" title="wikilink">醫學博士</a></p></td>
 <td><p><a href="../Page/袁淑珍.md" title="wikilink">袁淑珍</a><br />
 <a href="../Page/沈小蘭.md" title="wikilink">沈小蘭</a><br />
 <a href="../Page/黃玉娟.md" title="wikilink">黃玉娟</a><br />
@@ -140,9 +140,9 @@ Bruce Harwood</p></td>
 <td><p>約翰·拜爾斯<br />
 John Fitzgerald Byers</p></td>
 <td><p>“孤槍俠”之一<br />
-曾任職於<a href="../Page/聯邦通訊委員會.md" title="wikilink">聯邦通訊委員會</a>（FCC）</p></td>
+曾任職於<a href="https://zh.wikipedia.org/wiki/聯邦通訊委員會" title="wikilink">聯邦通訊委員會</a>（FCC）</p></td>
 <td><p><a href="../Page/張錦江.md" title="wikilink">張錦江</a><br />
-<a href="../Page/馮錦堂.md" title="wikilink">馮錦堂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -179,7 +179,7 @@ X</p></td>
 <th><p>季數</p></th>
 <th><p>集數</p></th>
 <th><p>播映期間</p></th>
-<th><p><a href="../Page/尼爾森收視率.md" title="wikilink">尼爾森收視率統計</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/尼爾森收視率" title="wikilink">尼爾森收視率統計</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -264,11 +264,11 @@ X</p></td>
 
 <onlyinclude>
 
-| 作品 | 上映日期                                                                                                                              |
-| -- | --------------------------------------------------------------------------------------------------------------------------------- |
-|    | *[X檔案：征服未來](../Page/X檔案：征服未來.md "wikilink")（[The X-Files](../Page/#The_X-Files_\(1998\).md "wikilink")）*                          |
-|    | *[X檔案：我要相信](../Page/X檔案：我要相信.md "wikilink")（[I Want to Believe](../Page/#The_X-Files:_I_Want_to_Believe_\(2008\).md "wikilink")）* |
-|    |                                                                                                                                   |
+| 作品 | 上映日期                                                                                                                                                 |
+| -- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    | *[X檔案：征服未來](../Page/X檔案：征服未來.md "wikilink")（[The X-Files](https://zh.wikipedia.org/wiki/#The_X-Files_\(1998\) "wikilink")）*                          |
+|    | *[X檔案：我要相信](../Page/X檔案：我要相信.md "wikilink")（[I Want to Believe](https://zh.wikipedia.org/wiki/#The_X-Files:_I_Want_to_Believe_\(2008\) "wikilink")）* |
+|    |                                                                                                                                                      |
 
 </onlyinclude>
 
@@ -281,33 +281,33 @@ Future*）。不過拍攝時間卻是在4、5季之間，也就是說加工一�
 電影版（也包括其後4年的影集）是影迷們激烈爭執的焦點。有一部分人很喜歡影片結構和敍事方法，但也有很多人覺得笨重，駕馭不住劇情，這種缺點也一直延續到第9季大結局完畢。第6季開始和電影版是相連的，在電影版吸引了一批新影迷的同時，也讓一些沒有看過電影的人跟不上劇情發展從而放棄了此劇。
 
 該劇的第二部續集《[X檔案：我要相信](../Page/X檔案：我要相信.md "wikilink")》（X-Files I want to
-Believe）於2008年7月25日上映。当初离开的男主角[大衛·杜考夫尼再次继续扮演男主角穆德](../Page/大衛·杜考夫尼.md "wikilink")，女主角[姬蓮·安德森也參與了該續集的演出](../Page/姬蓮·安德森.md "wikilink")。劇情依照真實時間講述第九季下檔六年後的故事。然而電影上映時正值蝙蝠俠《黑暗騎士》熱映，加上劇情設計上有缺失，整體來說更像是一部迷你影集，被視為失敗之作。該片預算約三千五百萬美金，在美國只賺進兩千萬美金，還是靠國際票房才回了本。
+Believe）於2008年7月25日上映。当初离开的男主角[大衛·杜考夫尼再次继续扮演男主角穆德](../Page/大衛·杜考夫尼.md "wikilink")，女主角[姬蓮·安德森也參與了該續集的演出](https://zh.wikipedia.org/wiki/姬蓮·安德森 "wikilink")。劇情依照真實時間講述第九季下檔六年後的故事。然而電影上映時正值蝙蝠俠《黑暗騎士》熱映，加上劇情設計上有缺失，整體來說更像是一部迷你影集，被視為失敗之作。該片預算約三千五百萬美金，在美國只賺進兩千萬美金，還是靠國際票房才回了本。
 
 ## 後期變動
 
 後期的情節有了很大轉變。試圖掩蓋外星人陰謀論的幕後組織告一段落；穆德尋找妹妹的綫索得到解決；男女主角的戀情也在艱難中進一步發展。然而外星人自身的綫索仍未結束，八、九季的重點，穆德被外星人綁架，史卡利奇蹟般懷孕生子，兩人之間的愛情，衆人保護嬰兒，揭發軍方人體試驗等劇情上。可以說《Ｘ檔案》有兩類影迷群體：一類是被前半期的神祕、靈異、外星生物事件吸引，然而自電影版以後便逐漸失去興趣；另一類是後期興起的對男女主角戀情等流行因素吸引的影迷。
 
-“孤槍俠”是個地下組織，成員是三個精通[電腦](../Page/電腦.md "wikilink")[網絡及有點傻氣的怪人](../Page/網絡.md "wikilink")，9季以來一直幫助穆德和史卡利查明真相，還擁有自己的衍生劇集《孤槍俠》。當該影集被取消後，三個人又最後一次出現在《X檔案》的9x15集中，英勇犧牲。大結局中三人的靈魂出現，忠告穆德（但在2013年所出版的延續性故事漫畫版本《The
+“孤槍俠”是個地下組織，成員是三個精通[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[網絡及有點傻氣的怪人](https://zh.wikipedia.org/wiki/網絡 "wikilink")，9季以來一直幫助穆德和史卡利查明真相，還擁有自己的衍生劇集《孤槍俠》。當該影集被取消後，三個人又最後一次出現在《X檔案》的9x15集中，英勇犧牲。大結局中三人的靈魂出現，忠告穆德（但在2013年所出版的延續性故事漫畫版本《The
 X-Files Season
 10》中，則將孤槍俠的三名成員設定為詐死，實際上依然存活。2016年的第10季迷你劇新作中，則以穆德疑似嗑藥時所看到的幻影再度登場）。
 
 ### 杜考夫尼離開
 
-男主角[大衛·杜考夫尼想在](../Page/大衛·杜考夫尼.md "wikilink")[大銀幕上更有所作為](../Page/好萊塢.md "wikilink")，而且他和女主角[姬蓮·安德森一樣都對漫長的拍攝過程有些厭倦](../Page/姬蓮·安德森.md "wikilink")。因此他決定逐漸退出劇組。此舉在很大程度上影響到第8季開始的劇情走向。第7季結尾，穆德被外星人擄走；而史卡利早在第2季就被綁架過，運用外星科技的軍方拿她做人體試驗，剝奪了她生育能力，就在穆德失蹤的同時她卻突然發現自己懷孕。劇中暗示過穆德可能是父親，例如史卡利為小孩命名威廉（承穆德的父親之名）及要求穆德幫忙作人工受孕，但同時也暗示小孩可能只是軍方計畫生產「超級戰士」的實驗品，不過沒有具體說明她是如何懷孕的。第8、9季的主線也圍繞著保護會特異功能的小嬰兒展開。電影版續集《[X檔案：我要相信](../Page/X檔案：我要相信.md "wikilink")》（X-Files
+男主角[大衛·杜考夫尼想在](../Page/大衛·杜考夫尼.md "wikilink")[大銀幕上更有所作為](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，而且他和女主角[姬蓮·安德森一樣都對漫長的拍攝過程有些厭倦](https://zh.wikipedia.org/wiki/姬蓮·安德森 "wikilink")。因此他決定逐漸退出劇組。此舉在很大程度上影響到第8季開始的劇情走向。第7季結尾，穆德被外星人擄走；而史卡利早在第2季就被綁架過，運用外星科技的軍方拿她做人體試驗，剝奪了她生育能力，就在穆德失蹤的同時她卻突然發現自己懷孕。劇中暗示過穆德可能是父親，例如史卡利為小孩命名威廉（承穆德的父親之名）及要求穆德幫忙作人工受孕，但同時也暗示小孩可能只是軍方計畫生產「超級戰士」的實驗品，不過沒有具體說明她是如何懷孕的。第8、9季的主線也圍繞著保護會特異功能的小嬰兒展開。電影版續集《[X檔案：我要相信](../Page/X檔案：我要相信.md "wikilink")》（X-Files
 I want to
 believe）當中，史卡利與穆德形成未婚同居的關係，兩人的對話認定嬰兒為他們的孩子，但影集中從未真確指出嬰兒的生父是誰，只以人情角度認定穆德是父親。
 
-杜考夫尼的戲份在第8季大幅減少；第9季開始則完全退出，反映在劇情中是穆德神祕消失。[勞勃·派屈克飾演](../Page/勞勃·派屈克.md "wikilink")[聯邦探員道吉特](../Page/FBI.md "wikilink")，接替穆德負責X檔案，並尋找他的下落。道吉特是[軍人出身](../Page/美國軍事.md "wikilink")，性格倔強硬朗，與剛開始的史卡利一樣，完全不相信外星人陰謀論等東西。
+杜考夫尼的戲份在第8季大幅減少；第9季開始則完全退出，反映在劇情中是穆德神祕消失。[勞勃·派屈克飾演](https://zh.wikipedia.org/wiki/勞勃·派屈克 "wikilink")[聯邦探員道吉特](https://zh.wikipedia.org/wiki/FBI "wikilink")，接替穆德負責X檔案，並尋找他的下落。道吉特是[軍人出身](https://zh.wikipedia.org/wiki/美國軍事 "wikilink")，性格倔強硬朗，與剛開始的史卡利一樣，完全不相信外星人陰謀論等東西。
 
-姬蓮·安德森的戲份在第9季有所減少，因此第9季開始[安娜貝絲·吉許飾演的探員夢妮卡](../Page/安娜貝絲·吉許.md "wikilink")·瑞斯便成為第二女主角。瑞斯專攻儀式殺人行為，對靈異事件看得很開，她和道吉特二人組成新的搭檔調查各種X檔案。[製片人卡特原本希望這一對新的搭檔能夠重現](../Page/製片人.md "wikilink")《X檔案》當年的輝煌，但事與願違，收視率持續下跌，最終官方決定在第11季結束掉這部影集。
+姬蓮·安德森的戲份在第9季有所減少，因此第9季開始[安娜貝絲·吉許飾演的探員夢妮卡](https://zh.wikipedia.org/wiki/安娜貝絲·吉許 "wikilink")·瑞斯便成為第二女主角。瑞斯專攻儀式殺人行為，對靈異事件看得很開，她和道吉特二人組成新的搭檔調查各種X檔案。[製片人卡特原本希望這一對新的搭檔能夠重現](https://zh.wikipedia.org/wiki/製片人 "wikilink")《X檔案》當年的輝煌，但事與願違，收視率持續下跌，最終官方決定在第11季結束掉這部影集。
 
 ### 大結局
 
-2002年5月19日播出了第9季的大結局「真相」，加上[廣告兩個](../Page/廣告.md "wikilink")[小時長度](../Page/小時.md "wikilink")。以審判的形式回顧了之前9年的發展，此集大部分都是室內戲，並不激動人心，而結尾仍然留下了懸念。
+2002年5月19日播出了第9季的大結局「真相」，加上[廣告兩個](../Page/廣告.md "wikilink")[小時長度](https://zh.wikipedia.org/wiki/小時 "wikilink")。以審判的形式回顧了之前9年的發展，此集大部分都是室內戲，並不激動人心，而結尾仍然留下了懸念。
 
 ## 成績
 
-《X檔案》的[收視率在](../Page/收視率.md "wikilink")1－5季穩步上漲，然而從電影版開始，後4季的收視率有明顯跌落。對於一部[科幻](../Page/科幻.md "wikilink")、神秘事件為主的影集來說，要在[艾美獎上的拿到演技類獎項是很難的](../Page/艾美獎.md "wikilink")，不過倒贏得過各種技術類的獎項。在[金球獎獎上的表現則十分出色](../Page/金球獎.md "wikilink")，贏得過三次最佳劇情類影集。
+《X檔案》的[收視率在](https://zh.wikipedia.org/wiki/收視率 "wikilink")1－5季穩步上漲，然而從電影版開始，後4季的收視率有明顯跌落。對於一部[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")、神秘事件為主的影集來說，要在[艾美獎上的拿到演技類獎項是很難的](https://zh.wikipedia.org/wiki/艾美獎 "wikilink")，不過倒贏得過各種技術類的獎項。在[金球獎獎上的表現則十分出色](../Page/金球獎.md "wikilink")，贏得過三次最佳劇情類影集。
 
 ## 獎項
 
@@ -324,7 +324,7 @@ believe）當中，史卡利與穆德形成未婚同居的關係，兩人的對�
 <tbody>
 <tr class="odd">
 <td><p>1994年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳標題設計</p></td>
 <td></td>
 <td></td>
@@ -338,14 +338,14 @@ believe）當中，史卡利與穆德形成未婚同居的關係，兩人的對�
 </tr>
 <tr class="odd">
 <td><p>1996年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳客串男演員</p></td>
 <td><p>Peter Boyle</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1996年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>劇情類最佳編劇、混音；最佳音效剪輯、攝影</p></td>
 <td></td>
 <td></td>
@@ -359,14 +359,14 @@ believe）當中，史卡利與穆德形成未婚同居的關係，兩人的對�
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳劇情類女主角</p></td>
 <td><p>姬蓮·安德森</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1997年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳藝術指導、音效剪輯</p></td>
 <td></td>
 <td></td>
@@ -394,7 +394,7 @@ believe）當中，史卡利與穆德形成未婚同居的關係，兩人的對�
 </tr>
 <tr class="odd">
 <td><p>1998年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳藝術指導、單機攝影剪接</p></td>
 <td></td>
 <td></td>
@@ -408,21 +408,21 @@ believe）當中，史卡利與穆德形成未婚同居的關係，兩人的對�
 </tr>
 <tr class="odd">
 <td><p>1999年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳化粧</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2000年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳化粧、特殊視覺效果；劇情類最佳混音</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2001年</p></td>
-<td><p><a href="../Page/艾美獎.md" title="wikilink">艾美獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾美獎" title="wikilink">艾美獎</a></p></td>
 <td><p>最佳化粧</p></td>
 <td></td>
 <td></td>
@@ -447,7 +447,7 @@ There），但偶爾在與陰謀相關的劇集中，會代之以其他詞語。
   - 否認一切（Deny Everything）- Ascension
 
   - \- "Anasazi"
-    〔[納瓦霍語](../Page/納瓦霍語.md "wikilink")（Navajo）中的『真相依然遙遠』（The
+    〔[納瓦霍語](https://zh.wikipedia.org/wiki/納瓦霍語 "wikilink")（Navajo）中的『真相依然遙遠』（The
     truth is far from here）〕
 
   - 道歉就是策略（Apology is Policy）- 731

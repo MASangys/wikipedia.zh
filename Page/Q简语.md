@@ -1,13 +1,13 @@
 **Q简语**是一种标准化的三字母通信简略语，因短语开头字母均为“Q”而得名。
 
 Q简语最初用于商业无线电通信，后来延伸到各个领域，特别是[业余无线电通信](../Page/业余无线电.md "wikilink")。
-虽然Q简语最初专用于[莫尔斯电码通信](../Page/莫尔斯电码.md "wikilink")，但是现在也用于语音通信。为了避免混淆，没有一个国家的呼号以"Q"开头（但有时会有例外，如VE3QRP是低功率通信的业余电台）。Q简语中，QAA到QNZ供航空领域使用，QOA到QOZ供航海领域使用,
+虽然Q简语最初专用于[莫尔斯电码通信](https://zh.wikipedia.org/wiki/莫尔斯电码 "wikilink")，但是现在也用于语音通信。为了避免混淆，没有一个国家的呼号以"Q"开头（但有时会有例外，如VE3QRP是低功率通信的业余电台）。Q简语中，QAA到QNZ供航空领域使用，QOA到QOZ供航海领域使用,
 QRA到QUZ供所有服务使用。
 
 ## 早期发展
 
-Q简语在1909年前后，由[英国政府在一份文件](../Page/英国.md "wikilink")\[1\]中提出。因为Q简语使得讲不同语言的人在海上的无线电通信变得简便，所以Q简语很快国际化。1912年，
-一共40个Q简语出现在第三次[国际无线电报公约事务条例的一个列表中](../Page/国际无线电报公约.md "wikilink")\[2\]。
+Q简语在1909年前后，由[英国政府在一份文件](https://zh.wikipedia.org/wiki/英国 "wikilink")\[1\]中提出。因为Q简语使得讲不同语言的人在海上的无线电通信变得简便，所以Q简语很快国际化。1912年，
+一共40个Q简语出现在第三次[国际无线电报公约事务条例的一个列表中](https://zh.wikipedia.org/wiki/国际无线电报公约 "wikilink")\[2\]。
 这是1912年公布的的Q简语，语义与现行Q简语有所不同。
 
 | Q简语 | 问句含义       | 答句含义. |+ **以下12个Q简语在1912公布** |
@@ -27,13 +27,13 @@ Q简语在1909年前后，由[英国政府在一份文件](../Page/英国.md "wi
 
 ## 之后使用
 
-多年以来，一些Q简语被修改，以适应业务变化。在最早的国际列表中，QSW/QSX表示“我应增加/减少我的火花频率？”。这两个Q简语失效于1920年，当年[火花隙式发射机禁止在](../Page/火花隙式发射机.md "wikilink")[美国使用](../Page/美国.md "wikilink")。
+多年以来，一些Q简语被修改，以适应业务变化。在最早的国际列表中，QSW/QSX表示“我应增加/减少我的火花频率？”。这两个Q简语失效于1920年，当年[火花隙式发射机禁止在](https://zh.wikipedia.org/wiki/火花隙式发射机 "wikilink")[美国使用](../Page/美国.md "wikilink")。
 
-一些Q简语用于[民用航空领域](../Page/民用航空.md "wikilink")，特别是QNH和QFE，这些简语用于[空中交通管制的无线电通信](../Page/空中交通管制.md "wikilink")。*QRA*到*QUZ*由[国际电讯联盟规定用于所有服务](../Page/国际电信联盟.md "wikilink")。\[3\]*QAA*...*QNZ*
+一些Q简语用于[民用航空领域](https://zh.wikipedia.org/wiki/民用航空 "wikilink")，特别是QNH和QFE，这些简语用于[空中交通管制的无线电通信](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")。*QRA*到*QUZ*由[国际电讯联盟规定用于所有服务](../Page/国际电信联盟.md "wikilink")。\[3\]*QAA*...*QNZ*
 由[国际民用航空组织规定基本用于航空服务](../Page/国际民用航空组织.md "wikilink")\[4\]。\[5\]
 *QOA*到*QQZ*保留给航海业务，*QVA*到*QZZ*没有分配。\[6\]
 
-许多军事和其他使用莫尔斯电码的组织使用其他的代码，包括大多数欧洲及北约国家使用的[Z简语](../Page/Z简语.md "wikilink")。
+许多军事和其他使用莫尔斯电码的组织使用其他的代码，包括大多数欧洲及北约国家使用的[Z简语](https://zh.wikipedia.org/wiki/Z简语 "wikilink")。
 
 在本条目中列举出的使用同一Q简语表示问答的方法大多用于军事和业余无线电通信中。
 
@@ -113,6 +113,6 @@ Q简语在1909年前后，由[英国政府在一份文件](../Page/英国.md "wi
 2.  List of Abbreviations to be used in Radio Communications
 3.  <http://www.globalsecurity.org/military/library/policy/navy/nrtc/14244_ch4.pdf>
 4.  <http://www.airwaysmuseum.com/Q%20code.htm>
-5.  [ICAO](../Page/ICAO.md "wikilink") PANS (Procedures for Air
-    Navigation Services) Doc 8400 : The ICAO Q Code.
+5.  [ICAO](https://zh.wikipedia.org/wiki/ICAO "wikilink") PANS
+    (Procedures for Air Navigation Services) Doc 8400 : The ICAO Q Code.
 6.

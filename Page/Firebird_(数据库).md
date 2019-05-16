@@ -1,4 +1,4 @@
-**Firebird**，是一个跨平台的[关系数据库系统](../Page/关系数据库.md "wikilink")，目前能够运行在[Windows](../Page/Windows.md "wikilink")、[linux和各种](../Page/linux.md "wikilink")[Unix操作系统上](../Page/Unix.md "wikilink")，源于[Borland公司的](../Page/Borland.md "wikilink")[InterBase](../Page/InterBase.md "wikilink")
+**Firebird**，是一个跨平台的[关系数据库系统](../Page/关系数据库.md "wikilink")，目前能够运行在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[linux和各种](https://zh.wikipedia.org/wiki/linux "wikilink")[Unix操作系统上](https://zh.wikipedia.org/wiki/Unix "wikilink")，源于[Borland公司的](../Page/Borland.md "wikilink")[InterBase](https://zh.wikipedia.org/wiki/InterBase "wikilink")
 6.0，是一个完全非商业化的产品，但源代码经过大规模重写，使用C++开发。
 
 ## 特色

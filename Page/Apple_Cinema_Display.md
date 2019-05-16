@@ -1,4 +1,5 @@
-**Apple Cinema Display** 是由 [蘋果電腦](../Page/蘋果電腦.md "wikilink")
+**Apple Cinema Display** 是由
+[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")
 所生產的平面電腦顯示器。非常早期的型號含
 [DVI](../Page/DVI.md "wikilink")、[USB](../Page/USB.md "wikilink")、和 25
 [伏特](../Page/伏特.md "wikilink") 電源透過單一個接頭來連接。大部分的型號使用
@@ -6,21 +7,21 @@
 [Power Mac G5](../Page/Power_Mac_G5.md "wikilink") 電腦外觀。共有 20
 吋、23吋、30吋三種型號。儘管原來的用意是給蘋果的電腦使用，但是這些顯示器也能夠與
 [PC](../Page/PC.md "wikilink")
-相容，只要搭配適當的[顯示卡](../Page/顯示卡.md "wikilink")。到
+相容，只要搭配適當的[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。到
 2005年，消費性顯示卡有雙接頭的規格仍然比單一接頭的貴上許多。這也是因此成為 30 吋顯示器在 PC 使用上的重大價格障礙。
 
 ## 型號
 
-| 年份   | 名稱                       | 螢幕大小（英吋） | 解析度       | [dpi](../Page/dpi.md "wikilink") | 外框         | 介面               |
-| ---- | ------------------------ | -------- | --------- | -------------------------------- | ---------- | ---------------- |
-| 1999 | Apple Cinema Display     | 22       | 1600x1024 | 86.35                            | 聚碳酸酯纖維     | DVI              |
-| 2000 | Apple Cinema Display     | 22       | 1600x1024 | 86.35                            | 聚碳酸酯纖維     | ADC              |
-| 2002 | Apple Cinema Display HD  | 23       | 1920x1200 | 98.44                            | 聚碳酸酯纖維     | ADC              |
-| 2003 | Apple Cinema Display     | 20       | 1680x1050 | 99.06                            | 聚碳酸酯纖維     | ADC              |
-| 2004 | Apple Cinema Display     | 20       | 1680x1050 | 99.06                            | 鋁          | DVI              |
-| 2004 | Apple Cinema HD Display  | 23       | 1920x1200 | 98.44                            | 鋁          | DVI              |
-| 2004 | Apple Cinema HD Display  | 29.7     | 2560x1600 | 101.65                           | 鋁          | Dual Link DVI    |
-| 2008 | Apple LED Cinema Display | 24       | 1920x1200 | 94.3                             | 鋁（前方以玻璃遮蓋） | Mini DisplayPort |
+| 年份   | 名稱                       | 螢幕大小（英吋） | 解析度       | [dpi](https://zh.wikipedia.org/wiki/dpi "wikilink") | 外框         | 介面               |
+| ---- | ------------------------ | -------- | --------- | --------------------------------------------------- | ---------- | ---------------- |
+| 1999 | Apple Cinema Display     | 22       | 1600x1024 | 86.35                                               | 聚碳酸酯纖維     | DVI              |
+| 2000 | Apple Cinema Display     | 22       | 1600x1024 | 86.35                                               | 聚碳酸酯纖維     | ADC              |
+| 2002 | Apple Cinema Display HD  | 23       | 1920x1200 | 98.44                                               | 聚碳酸酯纖維     | ADC              |
+| 2003 | Apple Cinema Display     | 20       | 1680x1050 | 99.06                                               | 聚碳酸酯纖維     | ADC              |
+| 2004 | Apple Cinema Display     | 20       | 1680x1050 | 99.06                                               | 鋁          | DVI              |
+| 2004 | Apple Cinema HD Display  | 23       | 1920x1200 | 98.44                                               | 鋁          | DVI              |
+| 2004 | Apple Cinema HD Display  | 29.7     | 2560x1600 | 101.65                                              | 鋁          | Dual Link DVI    |
+| 2008 | Apple LED Cinema Display | 24       | 1920x1200 | 94.3                                                | 鋁（前方以玻璃遮蓋） | Mini DisplayPort |
 
 **Apple Cinema Display**
 
@@ -50,8 +51,8 @@
 
 <!-- end list -->
 
-  - 畫面進階設定限制在 [Mac OS](../Page/Mac_OS.md "wikilink")
-    中進行（沒有支援[Windows](../Page/Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")
+  - 畫面進階設定限制在 [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")
+    中進行（沒有支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")
     等其他作業系統的進階設定程式，且無法以螢幕本身按鍵調整）
 
 <!-- end list -->
@@ -60,8 +61,8 @@
 
 <!-- end list -->
 
-  - 屏身調整角度非常有限，且沒有垂直旋轉機能（需另購[蘋果公司的](../Page/蘋果公司.md "wikilink") VESA
-    支架安裝）
+  - 屏身調整角度非常有限，且沒有垂直旋轉機能（需另購[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
+    VESA 支架安裝）
 
 <!-- end list -->
 
@@ -70,7 +71,8 @@
 <!-- end list -->
 
   - 僅提供一個 [DVI或](../Page/DVI.md "wikilink")[Mini
-    Displayport](../Page/Mini_Displayport.md "wikilink") 輸入端子（無法同時接多個設備）
+    Displayport](https://zh.wikipedia.org/wiki/Mini_Displayport "wikilink")
+    輸入端子（無法同時接多個設備）
 
 <!-- end list -->
 

@@ -1,8 +1,8 @@
 [MaplesoftCorporateHeadquarters.jpg](https://zh.wikipedia.org/wiki/File:MaplesoftCorporateHeadquarters.jpg "fig:MaplesoftCorporateHeadquarters.jpg")
-**Maple**是一个通用型的商用计算机代数系統。**Maple**起源于1988年，由[加拿大](../Page/加拿大.md "wikilink")[安大略](../Page/安大略.md "wikilink")[滑铁卢的一家公司](../Page/滑铁卢.md "wikilink")，Waterloo
+**Maple**是一个通用型的商用计算机代数系統。**Maple**起源于1988年，由[加拿大](../Page/加拿大.md "wikilink")[安大略](https://zh.wikipedia.org/wiki/安大略 "wikilink")[滑铁卢的一家公司](https://zh.wikipedia.org/wiki/滑铁卢 "wikilink")，Waterloo
 Maple
-Inc.（亦称[Maplesoft枫软](../Page/Maplesoft.md "wikilink")）进行开发和商业销售。最新版是Maple
-2018。它的主要竞争者是[Mathematica](../Page/Mathematica.md "wikilink")。
+Inc.（亦称[Maplesoft枫软](https://zh.wikipedia.org/wiki/Maplesoft "wikilink")）进行开发和商业销售。最新版是Maple
+2018。它的主要竞争者是[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")。
 
 目前共有五個版本：Personal（個人版），Professional（專業版），Academic（學術版），Government（政府版）和Student（學生版）。
 
@@ -17,11 +17,11 @@ Basic）。还具有与Excel进行交互的接口。
 
 ### 架构
 
-Maple由一个很小的由[C语言编写的](../Page/C语言.md "wikilink")[内核提供Maple语言](../Page/内核.md "wikilink")。许多功能由各种来源的函数库提供。许多数值计算由[NAG数值计算库](../Page/NAG数值计算库.md "wikilink"),
-[ATLAS库](../Page/ATLAS库.md "wikilink"),
-[GNU多精度库提供](../Page/GNU多精度库.md "wikilink")。大部分库由Maple语言编写，并且可查看源代码。
+Maple由一个很小的由[C语言编写的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[内核提供Maple语言](../Page/内核.md "wikilink")。许多功能由各种来源的函数库提供。许多数值计算由[NAG数值计算库](https://zh.wikipedia.org/wiki/NAG数值计算库 "wikilink"),
+[ATLAS库](https://zh.wikipedia.org/wiki/ATLAS库 "wikilink"),
+[GNU多精度库提供](https://zh.wikipedia.org/wiki/GNU多精度库 "wikilink")。大部分库由Maple语言编写，并且可查看源代码。
 
-Maple中不同的功能需要不同格式的数值数据。符号表达式在内存中以[有向无环图的形式存储](../Page/有向无环图.md "wikilink")。标准界面和计算界面由[Java语言编写](../Page/Java语言.md "wikilink")。经典界面由[C语言编写](../Page/C语言.md "wikilink")。
+Maple中不同的功能需要不同格式的数值数据。符号表达式在内存中以[有向无环图的形式存储](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")。标准界面和计算界面由[Java语言编写](https://zh.wikipedia.org/wiki/Java语言 "wikilink")。经典界面由[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
 ## 版本
 
@@ -101,7 +101,7 @@ Maple中不同的功能需要不同格式的数值数据。符号表达式在内
 
 ## Maple代码示例
 
-简单[命令式程序的构造](../Page/命令式编程.md "wikilink")：
+简单[命令式程序的构造](https://zh.wikipedia.org/wiki/命令式编程 "wikilink")：
 
 ``` pascal
 myfac := proc(n::nonnegint)
@@ -310,7 +310,7 @@ dsolve( {diff(y(x),x,x) - 3\*y(x) = x, y(0)=0, D(y)(0)=2}, y(x) );
 
 with(inttrans);
 
-  - [拉普拉斯变换](../Page/拉普拉斯变换.md "wikilink")
+  - [拉普拉斯变换](https://zh.wikipedia.org/wiki/拉普拉斯变换 "wikilink")
 
 \> f := (1+A\*t+B\*t^2)\*exp(c\*t);
 

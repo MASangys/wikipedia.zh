@@ -1,23 +1,23 @@
-（，延伸美国标准信息交换码）是将[ASCII码由](../Page/ASCII.md "wikilink")7[位扩充为](../Page/位.md "wikilink")8位而成。EASCII的内码是由0到255共有256个字符组成。EASCII码比ASCII码扩充出来的符号包括表格符号、计算符号、希腊字母和特殊的拉丁符号。
+（，延伸美国标准信息交换码）是将[ASCII码由](../Page/ASCII.md "wikilink")7[位扩充为](https://zh.wikipedia.org/wiki/位 "wikilink")8位而成。EASCII的内码是由0到255共有256个字符组成。EASCII码比ASCII码扩充出来的符号包括表格符号、计算符号、希腊字母和特殊的拉丁符号。
 
 ## Code Page 437
 
-[代码页437](../Page/代碼頁437.md "wikilink")（[Code
+[代码页437](https://zh.wikipedia.org/wiki/代碼頁437 "wikilink")（[Code
 page 437](https://en.wikipedia.org/wiki/Code_page_437)）是始祖[IBM
 PC](../Page/IBM_PC.md "wikilink")（[个人电脑](../Page/个人电脑.md "wikilink")）或[MS-DOS使用的字元编码](../Page/MS-DOS.md "wikilink")。又名为CP437、OEM
 437\[1\] PC-8\[2\]、或MS-DOS Latin
 US\[3\]。该字集包含[ASCII由](../Page/ASCII.md "wikilink")32–126的字码、附加符号、一些[希腊字母](../Page/希腊字母.md "wikilink")、图示以及制图符号。其有时也称为“OEM字型”或“high
 ASCII”或“extended ASCII”\[2\]（互不兼容的众多ASCII扩充字集之一）。
 
-[Codepage-437.png](https://zh.wikipedia.org/wiki/File:Codepage-437.png "fig:Codepage-437.png")以[VGA顯示卡顯現的](../Page/VGA.md "wikilink")「代碼頁437」\]\]
+[Codepage-437.png](https://zh.wikipedia.org/wiki/File:Codepage-437.png "fig:Codepage-437.png")以[VGA顯示卡顯現的](https://zh.wikipedia.org/wiki/VGA "wikilink")「代碼頁437」\]\]
 
 ## ISO/IEC 8859-1
 
 [ISO/IEC
-8859是最常見的](../Page/ISO/IEC_8859.md "wikilink")8位字符編碼。除此之外，不同的操作系統都會有它的8位字符編碼。
+8859是最常見的](https://zh.wikipedia.org/wiki/ISO/IEC_8859 "wikilink")8位字符編碼。除此之外，不同的操作系統都會有它的8位字符編碼。
 
 下列符号是[ISO/IEC
-8859-1所包含的符号](../Page/ISO/IEC_8859-1.md "wikilink")，是在[万维网和中使用的扩展](../Page/万维网.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")[字符集中最常见的的符号](../Page/字符集.md "wikilink")。
+8859-1所包含的符号](https://zh.wikipedia.org/wiki/ISO/IEC_8859-1 "wikilink")，是在[万维网和中使用的扩展](../Page/万维网.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")[字符集中最常见的的符号](https://zh.wikipedia.org/wiki/字符集 "wikilink")。
 
 <table class="wikitable">
 
@@ -63,7 +63,7 @@ NBSP
 
 <td>
 
-[不換行空格](../Page/不換行空格.md "wikilink")
+[不換行空格](https://zh.wikipedia.org/wiki/不換行空格 "wikilink")
 
 <tr>
 
@@ -77,7 +77,7 @@ NBSP
 
 <td>
 
-[161](../Page/161.md "wikilink")
+[161](https://zh.wikipedia.org/wiki/161 "wikilink")
 
 <td>
 
@@ -85,7 +85,7 @@ NBSP
 
 <td>
 
-[倒感叹号](../Page/倒感叹号.md "wikilink")
+[倒感叹号](https://zh.wikipedia.org/wiki/倒感叹号 "wikilink")
 
 <tr>
 
@@ -99,7 +99,7 @@ NBSP
 
 <td>
 
-[162](../Page/162.md "wikilink")
+[162](https://zh.wikipedia.org/wiki/162 "wikilink")
 
 <td>
 
@@ -107,7 +107,7 @@ NBSP
 
 <td>
 
-[英分](../Page/英分.md "wikilink")
+[英分](https://zh.wikipedia.org/wiki/英分 "wikilink")
 
 <tr>
 
@@ -121,7 +121,7 @@ NBSP
 
 <td>
 
-[163](../Page/163.md "wikilink")
+[163](https://zh.wikipedia.org/wiki/163 "wikilink")
 
 <td>
 
@@ -143,7 +143,7 @@ NBSP
 
 <td>
 
-[164](../Page/164.md "wikilink")
+[164](https://zh.wikipedia.org/wiki/164 "wikilink")
 
 <td>
 
@@ -151,7 +151,7 @@ NBSP
 
 <td>
 
-[貨幣記號](../Page/貨幣記號.md "wikilink")
+[貨幣記號](https://zh.wikipedia.org/wiki/貨幣記號 "wikilink")
 
 <tr>
 
@@ -165,7 +165,7 @@ NBSP
 
 <td>
 
-[165](../Page/165.md "wikilink")
+[165](https://zh.wikipedia.org/wiki/165 "wikilink")
 
 <td>
 
@@ -173,7 +173,7 @@ NBSP
 
 <td>
 
-[人民币](../Page/人民币.md "wikilink")/[日元](../Page/日元.md "wikilink")
+[人民币](../Page/人民币.md "wikilink")/[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")
 
 <tr>
 
@@ -187,7 +187,7 @@ NBSP
 
 <td>
 
-[166](../Page/166.md "wikilink")
+[166](https://zh.wikipedia.org/wiki/166 "wikilink")
 
 <td>
 
@@ -195,7 +195,7 @@ NBSP
 
 <td>
 
-[斷豎線](../Page/斷豎線.md "wikilink")
+[斷豎線](https://zh.wikipedia.org/wiki/斷豎線 "wikilink")
 
 <tr>
 
@@ -209,7 +209,7 @@ NBSP
 
 <td>
 
-[167](../Page/167.md "wikilink")
+[167](https://zh.wikipedia.org/wiki/167 "wikilink")
 
 <td>
 
@@ -217,7 +217,7 @@ NBSP
 
 <td>
 
-[小节符](../Page/小节符.md "wikilink")
+[小节符](https://zh.wikipedia.org/wiki/小节符 "wikilink")
 
 <tr>
 
@@ -231,7 +231,7 @@ NBSP
 
 <td>
 
-[168](../Page/168.md "wikilink")
+[168](https://zh.wikipedia.org/wiki/168 "wikilink")
 
 <td>
 
@@ -239,7 +239,7 @@ NBSP
 
 <td>
 
-[分音符](../Page/分音符.md "wikilink")（[元音变音](../Page/元音变音.md "wikilink")）
+[分音符](../Page/分音符.md "wikilink")（[元音变音](https://zh.wikipedia.org/wiki/元音变音 "wikilink")）
 
 <tr>
 
@@ -253,7 +253,7 @@ NBSP
 
 <td>
 
-[169](../Page/169.md "wikilink")
+[169](https://zh.wikipedia.org/wiki/169 "wikilink")
 
 <td>
 
@@ -261,7 +261,7 @@ NBSP
 
 <td>
 
-[版权符](../Page/版权符.md "wikilink")
+[版权符](https://zh.wikipedia.org/wiki/版权符 "wikilink")
 
 <tr>
 
@@ -275,7 +275,7 @@ NBSP
 
 <td>
 
-[170](../Page/170.md "wikilink")
+[170](https://zh.wikipedia.org/wiki/170 "wikilink")
 
 <td>
 
@@ -283,7 +283,7 @@ NBSP
 
 <td>
 
-[阴性序數記號](../Page/阴性序數記號.md "wikilink")
+[阴性序數記號](https://zh.wikipedia.org/wiki/阴性序數記號 "wikilink")
 
 <tr>
 
@@ -297,7 +297,7 @@ NBSP
 
 <td>
 
-[171](../Page/171.md "wikilink")
+[171](https://zh.wikipedia.org/wiki/171 "wikilink")
 
 <td>
 
@@ -305,7 +305,7 @@ NBSP
 
 <td>
 
-[左指双尖引号](../Page/左指双尖引号.md "wikilink")
+[左指双尖引号](https://zh.wikipedia.org/wiki/左指双尖引号 "wikilink")
 
 <tr>
 
@@ -319,7 +319,7 @@ NBSP
 
 <td>
 
-[172](../Page/172.md "wikilink")
+[172](https://zh.wikipedia.org/wiki/172 "wikilink")
 
 <td>
 
@@ -327,7 +327,7 @@ NBSP
 
 <td>
 
-[非标记](../Page/非标记.md "wikilink")
+[非标记](https://zh.wikipedia.org/wiki/非标记 "wikilink")
 
 <tr>
 
@@ -341,7 +341,7 @@ NBSP
 
 <td>
 
-[173](../Page/173.md "wikilink")
+[173](https://zh.wikipedia.org/wiki/173 "wikilink")
 
 <td>
 
@@ -349,7 +349,7 @@ NBSP
 
 <td>
 
-選擇性[連接號](../Page/連接號.md "wikilink")
+選擇性[連接號](https://zh.wikipedia.org/wiki/連接號 "wikilink")
 
 <tr>
 
@@ -363,7 +363,7 @@ NBSP
 
 <td>
 
-[174](../Page/174.md "wikilink")
+[174](https://zh.wikipedia.org/wiki/174 "wikilink")
 
 <td>
 
@@ -371,7 +371,7 @@ NBSP
 
 <td>
 
-[注册商标](../Page/注册商标.md "wikilink")
+[注册商标](https://zh.wikipedia.org/wiki/注册商标 "wikilink")
 
 <tr>
 
@@ -385,7 +385,7 @@ NBSP
 
 <td>
 
-[175](../Page/175.md "wikilink")
+[175](https://zh.wikipedia.org/wiki/175 "wikilink")
 
 <td>
 
@@ -393,7 +393,7 @@ NBSP
 
 <td>
 
-[長音符](../Page/長音符.md "wikilink")
+[長音符](https://zh.wikipedia.org/wiki/長音符 "wikilink")
 
 <tr>
 
@@ -407,7 +407,7 @@ NBSP
 
 <td>
 
-[176](../Page/176.md "wikilink")
+[176](https://zh.wikipedia.org/wiki/176 "wikilink")
 
 <td>
 
@@ -415,7 +415,7 @@ NBSP
 
 <td>
 
-[度](../Page/度.md "wikilink")
+[度](https://zh.wikipedia.org/wiki/度 "wikilink")
 
 <tr>
 
@@ -429,7 +429,7 @@ NBSP
 
 <td>
 
-[177](../Page/177.md "wikilink")
+[177](https://zh.wikipedia.org/wiki/177 "wikilink")
 
 <td>
 
@@ -437,7 +437,7 @@ NBSP
 
 <td>
 
-[正负号](../Page/正负号.md "wikilink")
+[正负号](https://zh.wikipedia.org/wiki/正负号 "wikilink")
 
 <tr>
 
@@ -451,7 +451,7 @@ NBSP
 
 <td>
 
-[178](../Page/178.md "wikilink")
+[178](https://zh.wikipedia.org/wiki/178 "wikilink")
 
 <td>
 
@@ -459,7 +459,7 @@ NBSP
 
 <td>
 
-[二次方號](../Page/二次方號.md "wikilink")
+[二次方號](https://zh.wikipedia.org/wiki/二次方號 "wikilink")
 
 <tr>
 
@@ -473,7 +473,7 @@ NBSP
 
 <td>
 
-[179](../Page/179.md "wikilink")
+[179](https://zh.wikipedia.org/wiki/179 "wikilink")
 
 <td>
 
@@ -481,7 +481,7 @@ NBSP
 
 <td>
 
-[三次方號](../Page/三次方號.md "wikilink")
+[三次方號](https://zh.wikipedia.org/wiki/三次方號 "wikilink")
 
 <tr>
 
@@ -495,7 +495,7 @@ NBSP
 
 <td>
 
-[180](../Page/180.md "wikilink")
+[180](https://zh.wikipedia.org/wiki/180 "wikilink")
 
 <td>
 
@@ -503,7 +503,7 @@ NBSP
 
 <td>
 
-[锐音符](../Page/锐音符.md "wikilink")
+[锐音符](https://zh.wikipedia.org/wiki/锐音符 "wikilink")
 
 <tr>
 
@@ -517,7 +517,7 @@ NBSP
 
 <td>
 
-[181](../Page/181.md "wikilink")
+[181](https://zh.wikipedia.org/wiki/181 "wikilink")
 
 <td>
 
@@ -525,7 +525,7 @@ NBSP
 
 <td>
 
-[微符](../Page/微符.md "wikilink")
+[微符](https://zh.wikipedia.org/wiki/微符 "wikilink")
 
 <tr>
 
@@ -539,7 +539,7 @@ NBSP
 
 <td>
 
-[182](../Page/182.md "wikilink")
+[182](https://zh.wikipedia.org/wiki/182 "wikilink")
 
 <td>
 
@@ -547,7 +547,7 @@ NBSP
 
 <td>
 
-[段落标记](../Page/段落标记.md "wikilink")
+[段落标记](https://zh.wikipedia.org/wiki/段落标记 "wikilink")
 
 <tr>
 
@@ -561,7 +561,7 @@ NBSP
 
 <td>
 
-[183](../Page/183.md "wikilink")
+[183](https://zh.wikipedia.org/wiki/183 "wikilink")
 
 <td>
 
@@ -569,7 +569,7 @@ NBSP
 
 <td>
 
-[中心点](../Page/中心点.md "wikilink")
+[中心点](https://zh.wikipedia.org/wiki/中心点 "wikilink")
 
 <tr>
 
@@ -583,7 +583,7 @@ NBSP
 
 <td>
 
-[184](../Page/184.md "wikilink")
+[184](https://zh.wikipedia.org/wiki/184 "wikilink")
 
 <td>
 
@@ -591,7 +591,7 @@ NBSP
 
 <td>
 
-[軟音符](../Page/軟音符.md "wikilink")
+[軟音符](https://zh.wikipedia.org/wiki/軟音符 "wikilink")
 
 <tr>
 
@@ -605,7 +605,7 @@ NBSP
 
 <td>
 
-[185](../Page/185.md "wikilink")
+[185](https://zh.wikipedia.org/wiki/185 "wikilink")
 
 <td>
 
@@ -613,7 +613,7 @@ NBSP
 
 <td>
 
-[一次方號](../Page/一次方號.md "wikilink")
+[一次方號](https://zh.wikipedia.org/wiki/一次方號 "wikilink")
 
 <tr>
 
@@ -627,7 +627,7 @@ NBSP
 
 <td>
 
-[186](../Page/186.md "wikilink")
+[186](https://zh.wikipedia.org/wiki/186 "wikilink")
 
 <td>
 
@@ -635,7 +635,7 @@ NBSP
 
 <td>
 
-[阳性序數記號](../Page/阳性序數記號.md "wikilink")
+[阳性序數記號](https://zh.wikipedia.org/wiki/阳性序數記號 "wikilink")
 
 <tr>
 
@@ -649,7 +649,7 @@ NBSP
 
 <td>
 
-[187](../Page/187.md "wikilink")
+[187](https://zh.wikipedia.org/wiki/187 "wikilink")
 
 <td>
 
@@ -657,7 +657,7 @@ NBSP
 
 <td>
 
-[右指双尖引号](../Page/右指双尖引号.md "wikilink")
+[右指双尖引号](https://zh.wikipedia.org/wiki/右指双尖引号 "wikilink")
 
 <tr>
 
@@ -671,7 +671,7 @@ NBSP
 
 <td>
 
-[188](../Page/188.md "wikilink")
+[188](https://zh.wikipedia.org/wiki/188 "wikilink")
 
 <td>
 
@@ -679,7 +679,7 @@ NBSP
 
 <td>
 
-[四分之一](../Page/四分之一.md "wikilink")
+[四分之一](https://zh.wikipedia.org/wiki/四分之一 "wikilink")
 
 <tr>
 
@@ -693,7 +693,7 @@ NBSP
 
 <td>
 
-[189](../Page/189.md "wikilink")
+[189](https://zh.wikipedia.org/wiki/189 "wikilink")
 
 <td>
 
@@ -715,7 +715,7 @@ NBSP
 
 <td>
 
-[190](../Page/190.md "wikilink")
+[190](https://zh.wikipedia.org/wiki/190 "wikilink")
 
 <td>
 
@@ -723,7 +723,7 @@ NBSP
 
 <td>
 
-[四分之三](../Page/四分之三.md "wikilink")
+[四分之三](https://zh.wikipedia.org/wiki/四分之三 "wikilink")
 
 <tr>
 
@@ -745,7 +745,7 @@ NBSP
 
 <td>
 
-[竖翻问号](../Page/竖翻问号.md "wikilink")
+[竖翻问号](https://zh.wikipedia.org/wiki/竖翻问号 "wikilink")
 
 <tr>
 
@@ -759,7 +759,7 @@ NBSP
 
 <td>
 
-[192](../Page/192.md "wikilink")
+[192](https://zh.wikipedia.org/wiki/192 "wikilink")
 
 <td>
 
@@ -781,7 +781,7 @@ NBSP
 
 <td>
 
-[193](../Page/193.md "wikilink")
+[193](https://zh.wikipedia.org/wiki/193 "wikilink")
 
 <td>
 
@@ -803,7 +803,7 @@ NBSP
 
 <td>
 
-[194](../Page/194.md "wikilink")
+[194](https://zh.wikipedia.org/wiki/194 "wikilink")
 
 <td>
 
@@ -825,7 +825,7 @@ NBSP
 
 <td>
 
-[195](../Page/195.md "wikilink")
+[195](https://zh.wikipedia.org/wiki/195 "wikilink")
 
 <td>
 
@@ -847,7 +847,7 @@ NBSP
 
 <td>
 
-[196](../Page/196.md "wikilink")
+[196](https://zh.wikipedia.org/wiki/196 "wikilink")
 
 <td>
 
@@ -869,7 +869,7 @@ NBSP
 
 <td>
 
-[197](../Page/197.md "wikilink")
+[197](https://zh.wikipedia.org/wiki/197 "wikilink")
 
 <td>
 
@@ -891,7 +891,7 @@ NBSP
 
 <td>
 
-[198](../Page/198.md "wikilink")
+[198](https://zh.wikipedia.org/wiki/198 "wikilink")
 
 <td>
 
@@ -913,7 +913,7 @@ NBSP
 
 <td>
 
-[199](../Page/199.md "wikilink")
+[199](https://zh.wikipedia.org/wiki/199 "wikilink")
 
 <td>
 
@@ -935,7 +935,7 @@ NBSP
 
 <td>
 
-[200](../Page/200.md "wikilink")
+[200](https://zh.wikipedia.org/wiki/200 "wikilink")
 
 <td>
 
@@ -957,7 +957,7 @@ NBSP
 
 <td>
 
-[201](../Page/201.md "wikilink")
+[201](https://zh.wikipedia.org/wiki/201 "wikilink")
 
 <td>
 
@@ -979,7 +979,7 @@ NBSP
 
 <td>
 
-[202](../Page/202.md "wikilink")
+[202](https://zh.wikipedia.org/wiki/202 "wikilink")
 
 <td>
 
@@ -1001,7 +1001,7 @@ NBSP
 
 <td>
 
-[203](../Page/203.md "wikilink")
+[203](https://zh.wikipedia.org/wiki/203 "wikilink")
 
 <td>
 
@@ -1023,7 +1023,7 @@ NBSP
 
 <td>
 
-[204](../Page/204.md "wikilink")
+[204](https://zh.wikipedia.org/wiki/204 "wikilink")
 
 <td>
 
@@ -1045,7 +1045,7 @@ NBSP
 
 <td>
 
-[205](../Page/205.md "wikilink")
+[205](https://zh.wikipedia.org/wiki/205 "wikilink")
 
 <td>
 
@@ -1067,7 +1067,7 @@ NBSP
 
 <td>
 
-[206](../Page/206.md "wikilink")
+[206](https://zh.wikipedia.org/wiki/206 "wikilink")
 
 <td>
 
@@ -1075,7 +1075,7 @@ NBSP
 
 <td>
 
-[带扬抑符的I](../Page/Î.md "wikilink")
+[带扬抑符的I](https://zh.wikipedia.org/wiki/Î "wikilink")
 
 <tr>
 
@@ -1089,7 +1089,7 @@ NBSP
 
 <td>
 
-[207](../Page/207.md "wikilink")
+[207](https://zh.wikipedia.org/wiki/207 "wikilink")
 
 <td>
 
@@ -1097,7 +1097,7 @@ NBSP
 
 <td>
 
-[带分音符的I](../Page/Ï.md "wikilink")
+[带分音符的I](https://zh.wikipedia.org/wiki/Ï "wikilink")
 
 <tr>
 
@@ -1111,7 +1111,7 @@ NBSP
 
 <td>
 
-[208](../Page/208.md "wikilink")
+[208](https://zh.wikipedia.org/wiki/208 "wikilink")
 
 <td>
 
@@ -1155,7 +1155,7 @@ NBSP
 
 <td>
 
-[210](../Page/210.md "wikilink")
+[210](https://zh.wikipedia.org/wiki/210 "wikilink")
 
 <td>
 
@@ -1177,7 +1177,7 @@ NBSP
 
 <td>
 
-[211](../Page/211.md "wikilink")
+[211](https://zh.wikipedia.org/wiki/211 "wikilink")
 
 <td>
 
@@ -1199,7 +1199,7 @@ NBSP
 
 <td>
 
-[212](../Page/212.md "wikilink")
+[212](https://zh.wikipedia.org/wiki/212 "wikilink")
 
 <td>
 
@@ -1221,7 +1221,7 @@ NBSP
 
 <td>
 
-[213](../Page/213.md "wikilink")
+[213](https://zh.wikipedia.org/wiki/213 "wikilink")
 
 <td>
 
@@ -1229,7 +1229,7 @@ NBSP
 
 <td>
 
-[带颚化符的O](../Page/Õ.md "wikilink")
+[带颚化符的O](https://zh.wikipedia.org/wiki/Õ "wikilink")
 
 <tr>
 
@@ -1243,7 +1243,7 @@ NBSP
 
 <td>
 
-[214](../Page/214.md "wikilink")
+[214](https://zh.wikipedia.org/wiki/214 "wikilink")
 
 <td>
 
@@ -1265,7 +1265,7 @@ NBSP
 
 <td>
 
-[215](../Page/215.md "wikilink")
+[215](https://zh.wikipedia.org/wiki/215 "wikilink")
 
 <td>
 
@@ -1273,7 +1273,7 @@ NBSP
 
 <td>
 
-[乘號](../Page/乘號.md "wikilink")
+[乘號](https://zh.wikipedia.org/wiki/乘號 "wikilink")
 
 <tr>
 
@@ -1287,7 +1287,7 @@ NBSP
 
 <td>
 
-[216](../Page/216.md "wikilink")
+[216](https://zh.wikipedia.org/wiki/216 "wikilink")
 
 <td>
 
@@ -1317,7 +1317,7 @@ NBSP
 
 <td>
 
-[带抑音符的U](../Page/Ù.md "wikilink")
+[带抑音符的U](https://zh.wikipedia.org/wiki/Ù "wikilink")
 
 <tr>
 
@@ -1331,7 +1331,7 @@ NBSP
 
 <td>
 
-[218](../Page/218.md "wikilink")
+[218](https://zh.wikipedia.org/wiki/218 "wikilink")
 
 <td>
 
@@ -1353,7 +1353,7 @@ NBSP
 
 <td>
 
-[219](../Page/219.md "wikilink")
+[219](https://zh.wikipedia.org/wiki/219 "wikilink")
 
 <td>
 
@@ -1361,7 +1361,7 @@ NBSP
 
 <td>
 
-[带扬抑符的U](../Page/Û.md "wikilink")
+[带扬抑符的U](https://zh.wikipedia.org/wiki/Û "wikilink")
 
 <tr>
 
@@ -1375,7 +1375,7 @@ NBSP
 
 <td>
 
-[220](../Page/220.md "wikilink")
+[220](https://zh.wikipedia.org/wiki/220 "wikilink")
 
 <td>
 
@@ -1397,7 +1397,7 @@ NBSP
 
 <td>
 
-[221](../Page/221.md "wikilink")
+[221](https://zh.wikipedia.org/wiki/221 "wikilink")
 
 <td>
 
@@ -1419,7 +1419,7 @@ NBSP
 
 <td>
 
-[222](../Page/222.md "wikilink")
+[222](https://zh.wikipedia.org/wiki/222 "wikilink")
 
 <td>
 
@@ -1441,7 +1441,7 @@ NBSP
 
 <td>
 
-[223](../Page/223.md "wikilink")
+[223](https://zh.wikipedia.org/wiki/223 "wikilink")
 
 <td>
 
@@ -1463,7 +1463,7 @@ NBSP
 
 <td>
 
-[224](../Page/224.md "wikilink")
+[224](https://zh.wikipedia.org/wiki/224 "wikilink")
 
 <td>
 
@@ -1471,7 +1471,7 @@ NBSP
 
 <td>
 
-[带抑音符的a](../Page/à.md "wikilink")
+[带抑音符的a](https://zh.wikipedia.org/wiki/à "wikilink")
 
 <tr>
 
@@ -1485,7 +1485,7 @@ NBSP
 
 <td>
 
-[225](../Page/225.md "wikilink")
+[225](https://zh.wikipedia.org/wiki/225 "wikilink")
 
 <td>
 
@@ -1493,7 +1493,7 @@ NBSP
 
 <td>
 
-[带锐音符的a](../Page/á.md "wikilink")
+[带锐音符的a](https://zh.wikipedia.org/wiki/á "wikilink")
 
 <tr>
 
@@ -1507,7 +1507,7 @@ NBSP
 
 <td>
 
-[226](../Page/226.md "wikilink")
+[226](https://zh.wikipedia.org/wiki/226 "wikilink")
 
 <td>
 
@@ -1515,7 +1515,7 @@ NBSP
 
 <td>
 
-[带扬抑符的a](../Page/â.md "wikilink")
+[带扬抑符的a](https://zh.wikipedia.org/wiki/â "wikilink")
 
 <tr>
 
@@ -1529,7 +1529,7 @@ NBSP
 
 <td>
 
-[227](../Page/227.md "wikilink")
+[227](https://zh.wikipedia.org/wiki/227 "wikilink")
 
 <td>
 
@@ -1537,7 +1537,7 @@ NBSP
 
 <td>
 
-[带颚化符的a](../Page/ã.md "wikilink")
+[带颚化符的a](https://zh.wikipedia.org/wiki/ã "wikilink")
 
 <tr>
 
@@ -1551,7 +1551,7 @@ NBSP
 
 <td>
 
-[228](../Page/228.md "wikilink")
+[228](https://zh.wikipedia.org/wiki/228 "wikilink")
 
 <td>
 
@@ -1559,7 +1559,7 @@ NBSP
 
 <td>
 
-[带分音符的a](../Page/ä.md "wikilink")
+[带分音符的a](https://zh.wikipedia.org/wiki/ä "wikilink")
 
 <tr>
 
@@ -1573,7 +1573,7 @@ NBSP
 
 <td>
 
-[229](../Page/229.md "wikilink")
+[229](https://zh.wikipedia.org/wiki/229 "wikilink")
 
 <td>
 
@@ -1581,7 +1581,7 @@ NBSP
 
 <td>
 
-[带分音符的a](../Page/å.md "wikilink")
+[带分音符的a](https://zh.wikipedia.org/wiki/å "wikilink")
 
 <tr>
 
@@ -1595,7 +1595,7 @@ NBSP
 
 <td>
 
-[230](../Page/230.md "wikilink")
+[230](https://zh.wikipedia.org/wiki/230 "wikilink")
 
 <td>
 
@@ -1603,7 +1603,7 @@ NBSP
 
 <td>
 
-[小写连字AE](../Page/æ.md "wikilink")
+[小写连字AE](https://zh.wikipedia.org/wiki/æ "wikilink")
 
 <tr>
 
@@ -1617,7 +1617,7 @@ NBSP
 
 <td>
 
-[231](../Page/231.md "wikilink")
+[231](https://zh.wikipedia.org/wiki/231 "wikilink")
 
 <td>
 
@@ -1625,7 +1625,7 @@ NBSP
 
 <td>
 
-[带下加符的c](../Page/ç.md "wikilink")
+[带下加符的c](https://zh.wikipedia.org/wiki/ç "wikilink")
 
 <tr>
 
@@ -1639,7 +1639,7 @@ NBSP
 
 <td>
 
-[232](../Page/232.md "wikilink")
+[232](https://zh.wikipedia.org/wiki/232 "wikilink")
 
 <td>
 
@@ -1647,7 +1647,7 @@ NBSP
 
 <td>
 
-[带抑音符的e](../Page/è.md "wikilink")
+[带抑音符的e](https://zh.wikipedia.org/wiki/è "wikilink")
 
 <tr>
 
@@ -1669,7 +1669,7 @@ NBSP
 
 <td>
 
-[带锐音符的e](../Page/é.md "wikilink")
+[带锐音符的e](https://zh.wikipedia.org/wiki/é "wikilink")
 
 <tr>
 
@@ -1683,7 +1683,7 @@ NBSP
 
 <td>
 
-[234](../Page/234.md "wikilink")
+[234](https://zh.wikipedia.org/wiki/234 "wikilink")
 
 <td>
 
@@ -1691,7 +1691,7 @@ NBSP
 
 <td>
 
-[带扬抑符的e](../Page/ê.md "wikilink")
+[带扬抑符的e](https://zh.wikipedia.org/wiki/ê "wikilink")
 
 <tr>
 
@@ -1705,7 +1705,7 @@ NBSP
 
 <td>
 
-[235](../Page/235.md "wikilink")
+[235](https://zh.wikipedia.org/wiki/235 "wikilink")
 
 <td>
 
@@ -1713,7 +1713,7 @@ NBSP
 
 <td>
 
-[带分音符的e](../Page/ë.md "wikilink")
+[带分音符的e](https://zh.wikipedia.org/wiki/ë "wikilink")
 
 <tr>
 
@@ -1727,7 +1727,7 @@ NBSP
 
 <td>
 
-[236](../Page/236.md "wikilink")
+[236](https://zh.wikipedia.org/wiki/236 "wikilink")
 
 <td>
 
@@ -1735,7 +1735,7 @@ NBSP
 
 <td>
 
-[带抑音符的i](../Page/ì.md "wikilink")
+[带抑音符的i](https://zh.wikipedia.org/wiki/ì "wikilink")
 
 <tr>
 
@@ -1749,7 +1749,7 @@ NBSP
 
 <td>
 
-[237](../Page/237.md "wikilink")
+[237](https://zh.wikipedia.org/wiki/237 "wikilink")
 
 <td>
 
@@ -1757,7 +1757,7 @@ NBSP
 
 <td>
 
-[带锐音符的i](../Page/í.md "wikilink")
+[带锐音符的i](https://zh.wikipedia.org/wiki/í "wikilink")
 
 <tr>
 
@@ -1771,7 +1771,7 @@ NBSP
 
 <td>
 
-[238](../Page/238.md "wikilink")
+[238](https://zh.wikipedia.org/wiki/238 "wikilink")
 
 <td>
 
@@ -1779,7 +1779,7 @@ NBSP
 
 <td>
 
-[带扬抑符的i](../Page/î.md "wikilink")
+[带扬抑符的i](https://zh.wikipedia.org/wiki/î "wikilink")
 
 <tr>
 
@@ -1793,7 +1793,7 @@ NBSP
 
 <td>
 
-[239](../Page/239.md "wikilink")
+[239](https://zh.wikipedia.org/wiki/239 "wikilink")
 
 <td>
 
@@ -1801,7 +1801,7 @@ NBSP
 
 <td>
 
-[带分音符的i](../Page/ï.md "wikilink")
+[带分音符的i](https://zh.wikipedia.org/wiki/ï "wikilink")
 
 <tr>
 
@@ -1815,7 +1815,7 @@ NBSP
 
 <td>
 
-[240](../Page/240.md "wikilink")
+[240](https://zh.wikipedia.org/wiki/240 "wikilink")
 
 <td>
 
@@ -1823,7 +1823,7 @@ NBSP
 
 <td>
 
-[带斜線的d](../Page/ð.md "wikilink")
+[带斜線的d](https://zh.wikipedia.org/wiki/ð "wikilink")
 
 <tr>
 
@@ -1837,7 +1837,7 @@ NBSP
 
 <td>
 
-[241](../Page/241.md "wikilink")
+[241](https://zh.wikipedia.org/wiki/241 "wikilink")
 
 <td>
 
@@ -1845,7 +1845,7 @@ NBSP
 
 <td>
 
-[带颚化符的n](../Page/ñ.md "wikilink")
+[带颚化符的n](https://zh.wikipedia.org/wiki/ñ "wikilink")
 
 <tr>
 
@@ -1859,7 +1859,7 @@ NBSP
 
 <td>
 
-[242](../Page/242.md "wikilink")
+[242](https://zh.wikipedia.org/wiki/242 "wikilink")
 
 <td>
 
@@ -1867,7 +1867,7 @@ NBSP
 
 <td>
 
-[带抑音符的o](../Page/ò.md "wikilink")
+[带抑音符的o](https://zh.wikipedia.org/wiki/ò "wikilink")
 
 <tr>
 
@@ -1881,7 +1881,7 @@ NBSP
 
 <td>
 
-[243](../Page/243.md "wikilink")
+[243](https://zh.wikipedia.org/wiki/243 "wikilink")
 
 <td>
 
@@ -1889,7 +1889,7 @@ NBSP
 
 <td>
 
-[带锐音符的o](../Page/ó.md "wikilink")
+[带锐音符的o](https://zh.wikipedia.org/wiki/ó "wikilink")
 
 <tr>
 
@@ -1903,7 +1903,7 @@ NBSP
 
 <td>
 
-[244](../Page/244.md "wikilink")
+[244](https://zh.wikipedia.org/wiki/244 "wikilink")
 
 <td>
 
@@ -1911,7 +1911,7 @@ NBSP
 
 <td>
 
-[带扬抑符的o](../Page/ô.md "wikilink")
+[带扬抑符的o](https://zh.wikipedia.org/wiki/ô "wikilink")
 
 <tr>
 
@@ -1925,7 +1925,7 @@ NBSP
 
 <td>
 
-[245](../Page/245.md "wikilink")
+[245](https://zh.wikipedia.org/wiki/245 "wikilink")
 
 <td>
 
@@ -1933,7 +1933,7 @@ NBSP
 
 <td>
 
-[带颚化符的o](../Page/õ.md "wikilink")
+[带颚化符的o](https://zh.wikipedia.org/wiki/õ "wikilink")
 
 <tr>
 
@@ -1947,7 +1947,7 @@ NBSP
 
 <td>
 
-[246](../Page/246.md "wikilink")
+[246](https://zh.wikipedia.org/wiki/246 "wikilink")
 
 <td>
 
@@ -1955,7 +1955,7 @@ NBSP
 
 <td>
 
-[带分音符的o](../Page/ö.md "wikilink")
+[带分音符的o](https://zh.wikipedia.org/wiki/ö "wikilink")
 
 <tr>
 
@@ -1969,7 +1969,7 @@ NBSP
 
 <td>
 
-[247](../Page/247.md "wikilink")
+[247](https://zh.wikipedia.org/wiki/247 "wikilink")
 
 <td>
 
@@ -1977,7 +1977,7 @@ NBSP
 
 <td>
 
-[除号](../Page/÷.md "wikilink")
+[除号](https://zh.wikipedia.org/wiki/÷ "wikilink")
 
 <tr>
 
@@ -1991,7 +1991,7 @@ NBSP
 
 <td>
 
-[248](../Page/248.md "wikilink")
+[248](https://zh.wikipedia.org/wiki/248 "wikilink")
 
 <td>
 
@@ -1999,7 +1999,7 @@ NBSP
 
 <td>
 
-[带斜线的o](../Page/ø.md "wikilink")
+[带斜线的o](https://zh.wikipedia.org/wiki/ø "wikilink")
 
 <tr>
 
@@ -2013,7 +2013,7 @@ NBSP
 
 <td>
 
-[249](../Page/249.md "wikilink")
+[249](https://zh.wikipedia.org/wiki/249 "wikilink")
 
 <td>
 
@@ -2021,7 +2021,7 @@ NBSP
 
 <td>
 
-[带抑音符的u](../Page/ù.md "wikilink")
+[带抑音符的u](https://zh.wikipedia.org/wiki/ù "wikilink")
 
 <tr>
 
@@ -2035,7 +2035,7 @@ NBSP
 
 <td>
 
-[250](../Page/250.md "wikilink")
+[250](https://zh.wikipedia.org/wiki/250 "wikilink")
 
 <td>
 
@@ -2043,7 +2043,7 @@ NBSP
 
 <td>
 
-[带锐音符的u](../Page/ú.md "wikilink")
+[带锐音符的u](https://zh.wikipedia.org/wiki/ú "wikilink")
 
 <tr>
 
@@ -2057,7 +2057,7 @@ NBSP
 
 <td>
 
-[251](../Page/251.md "wikilink")
+[251](https://zh.wikipedia.org/wiki/251 "wikilink")
 
 <td>
 
@@ -2065,7 +2065,7 @@ NBSP
 
 <td>
 
-[带扬抑符的u](../Page/û.md "wikilink")
+[带扬抑符的u](https://zh.wikipedia.org/wiki/û "wikilink")
 
 <tr>
 
@@ -2079,7 +2079,7 @@ NBSP
 
 <td>
 
-[252](../Page/252.md "wikilink")
+[252](https://zh.wikipedia.org/wiki/252 "wikilink")
 
 <td>
 
@@ -2087,7 +2087,7 @@ NBSP
 
 <td>
 
-[带分音符的u](../Page/ü.md "wikilink")
+[带分音符的u](https://zh.wikipedia.org/wiki/ü "wikilink")
 
 <tr>
 
@@ -2101,7 +2101,7 @@ NBSP
 
 <td>
 
-[253](../Page/253.md "wikilink")
+[253](https://zh.wikipedia.org/wiki/253 "wikilink")
 
 <td>
 
@@ -2109,7 +2109,7 @@ NBSP
 
 <td>
 
-[带锐音符的y](../Page/ý.md "wikilink")
+[带锐音符的y](https://zh.wikipedia.org/wiki/ý "wikilink")
 
 <tr>
 
@@ -2123,7 +2123,7 @@ NBSP
 
 <td>
 
-[254](../Page/254.md "wikilink")
+[254](https://zh.wikipedia.org/wiki/254 "wikilink")
 
 <td>
 
@@ -2131,7 +2131,7 @@ NBSP
 
 <td>
 
-[小写字母Thorn](../Page/þ.md "wikilink")
+[小写字母Thorn](https://zh.wikipedia.org/wiki/þ "wikilink")
 
 <tr>
 
@@ -2145,7 +2145,7 @@ NBSP
 
 <td>
 
-[255](../Page/255.md "wikilink")
+[255](https://zh.wikipedia.org/wiki/255 "wikilink")
 
 <td>
 
@@ -2153,7 +2153,7 @@ NBSP
 
 <td>
 
-[带分音符的y](../Page/ÿ.md "wikilink")
+[带分音符的y](https://zh.wikipedia.org/wiki/ÿ "wikilink")
 
 </table>
 
@@ -2175,7 +2175,7 @@ EASCII的编码原理即：
 
 ## EASCII字符快速输入法
 
-在[Windows下](../Page/Windows.md "wikilink")，打开[小键盘](../Page/小键盘.md "wikilink")，按住ALT键，然后输入EASCII码［如按住ALT键并依次输入数字键区数字2、5、5可输入带[分音符的y](../Page/分音符.md "wikilink")（[ÿ](../Page/ÿ.md "wikilink")）］。
+在[Windows下](https://zh.wikipedia.org/wiki/Windows "wikilink")，打开[小键盘](https://zh.wikipedia.org/wiki/小键盘 "wikilink")，按住ALT键，然后输入EASCII码［如按住ALT键并依次输入数字键区数字2、5、5可输入带[分音符的y](../Page/分音符.md "wikilink")（[ÿ](https://zh.wikipedia.org/wiki/ÿ "wikilink")）］。
 
 在[Vim中](../Page/Vim.md "wikilink")，在插入模式下，可以先按Ctrl-V，再输入代表EASCII码的（至多三位）[十进制数字](../Page/十进制.md "wikilink")。
 

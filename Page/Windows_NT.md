@@ -1,16 +1,16 @@
 **Windows
-NT**，**新技术视窗操作系统**（）的簡稱，是[美国](../Page/美国.md "wikilink")[微软公司](../Page/微软公司.md "wikilink")1993年推出的纯[32位](../Page/32位.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")[核心](../Page/内核.md "wikilink")。其基于OS/2
-NT的基础构造。[OS/2是由微软和](../Page/OS/2.md "wikilink")[IBM联合研制](../Page/IBM.md "wikilink")，分为微软的**Microsoft
+NT**，**新技术视窗操作系统**（）的簡稱，是[美国](../Page/美国.md "wikilink")[微软公司](https://zh.wikipedia.org/wiki/微软公司 "wikilink")1993年推出的纯[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")[操作系统](../Page/操作系统.md "wikilink")[核心](../Page/内核.md "wikilink")。其基于OS/2
+NT的基础构造。[OS/2是由微软和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[IBM联合研制](../Page/IBM.md "wikilink")，分为微软的**Microsoft
 OS/2 NT**与IBM的**IBM
 OS/2**。由于双方在协作后来不欢而散，IBM继续向[市场提供先前的OS](../Page/市场.md "wikilink")/2版本；而微软则把**OS/2
 NT**改名为**Windows NT**，并在1988年11月开始了对于“WinNT”（即第一代的Windows NT
 3.1）的产品研发。在研发初期，“WinNT”曾一度被认为将会是原先OS/2的3.0版本，但面世之后的**Windows
-NT**是一种纯[32位操作系统](../Page/32位.md "wikilink")，采用NT核心技术。
+NT**是一种纯[32位操作系统](https://zh.wikipedia.org/wiki/32位 "wikilink")，采用NT核心技术。
 
 ## 名字由来
 
-有说法认为，NT一名源自原NT首席领导者[戴夫·卡特勒](../Page/戴夫·卡特勒.md "wikilink")，曾经开发过[OpenVMS系统的他将](../Page/OpenVMS.md "wikilink")“VMS”一词，利用[恺撒密码原理将每个字母向前递增一位](../Page/恺撒密码.md "wikilink")，使之成为“WNT”\[1\]。但NT的其中一名原设计师[馬克·洛考夫斯基曾提到](../Page/馬克·洛考夫斯基.md "wikilink")，NT一名源自该系统的目标处理器，代号为“N-Ten”的处理器\[2\]。
-在1998年[比尔·盖茨的一次问答环节上](../Page/比尔·盖茨.md "wikilink")，他透露“NT”一词曾经以[逆向首字母缩略词的形式派生为](../Page/逆向首字母缩略词.md "wikilink")“新技术”（New
+有说法认为，NT一名源自原NT首席领导者[戴夫·卡特勒](../Page/戴夫·卡特勒.md "wikilink")，曾经开发过[OpenVMS系统的他将](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")“VMS”一词，利用[恺撒密码原理将每个字母向前递增一位](https://zh.wikipedia.org/wiki/恺撒密码 "wikilink")，使之成为“WNT”\[1\]。但NT的其中一名原设计师[馬克·洛考夫斯基曾提到](https://zh.wikipedia.org/wiki/馬克·洛考夫斯基 "wikilink")，NT一名源自该系统的目标处理器，代号为“N-Ten”的处理器\[2\]。
+在1998年[比尔·盖茨的一次问答环节上](../Page/比尔·盖茨.md "wikilink")，他透露“NT”一词曾经以[逆向首字母缩略词的形式派生为](https://zh.wikipedia.org/wiki/逆向首字母缩略词 "wikilink")“新技术”（New
 Technology）之意，但现已不再包含任何特定意义\[3\]。尽管微软对于NT架构的系统产品仍描述为“基于NT技术”（Built on NT
 Technology），但自[Windows
 2000之后基于NT架构的系统均抛弃了](../Page/Windows_2000.md "wikilink")“NT”一词\[4\]。
@@ -19,19 +19,19 @@ Technology），但自[Windows
 
 [Windows_NT_logo.svg](https://zh.wikipedia.org/wiki/File:Windows_NT_logo.svg "fig:Windows_NT_logo.svg")
 1988年10月，微软公司从[迪吉多](../Page/迪吉多.md "wikilink")（Digital Equipment
-Corporation）雇佣了一批人员，由[戴夫·卡特勒領導](../Page/戴夫·卡特勒.md "wikilink")，开发这个新系统\[5\]。这个系统的很多元素反映了早期的带有[VMS和](../Page/OpenVMS.md "wikilink")[RSX-11的](../Page/RSX-11.md "wikilink")[DEC](../Page/DEC.md "wikilink")（迪吉多）概念。
+Corporation）雇佣了一批人员，由[戴夫·卡特勒領導](../Page/戴夫·卡特勒.md "wikilink")，开发这个新系统\[5\]。这个系统的很多元素反映了早期的带有[VMS和](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")[RSX-11的](https://zh.wikipedia.org/wiki/RSX-11 "wikilink")[DEC](https://zh.wikipedia.org/wiki/DEC "wikilink")（迪吉多）概念。
 
 ## Windows NT核心架構
 
 [Windows_2000_architecture.svg](https://zh.wikipedia.org/wiki/File:Windows_2000_architecture.svg "fig:Windows_2000_architecture.svg")
 Windows
-NT採用[用戶模式與](../Page/使用者空間.md "wikilink")[核心模式的分層設計並且是](../Page/使用者空間.md "wikilink")[搶佔式和](../Page/搶占式多任務處理.md "wikilink")[可重入的](../Page/可重入.md "wikilink")。可運行在單處理器或[對稱多處理器](../Page/對稱多處理.md "wikilink")（SMP）上，並利用[I/O請求包與異步I](../Page/I/O請求包.md "wikilink")/O來處理所有的I/O請求。在[Windows
+NT採用[用戶模式與](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[核心模式的分層設計並且是](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[搶佔式和](https://zh.wikipedia.org/wiki/搶占式多任務處理 "wikilink")[可重入的](../Page/可重入.md "wikilink")。可運行在單處理器或[對稱多處理器](https://zh.wikipedia.org/wiki/對稱多處理 "wikilink")（SMP）上，並利用[I/O請求包與異步I](https://zh.wikipedia.org/wiki/I/O請求包 "wikilink")/O來處理所有的I/O請求。在[Windows
 2000](../Page/Windows_2000.md "wikilink")（含）之前採用的Windows
 NT皆為32位元版本的，第一版64位元的Windows NT首先用於64位元的[Windows
-XP](../Page/Windows_XP版本列表#64.E4.BD.8D.E7.89.88.md "wikilink")。
+XP](https://zh.wikipedia.org/wiki/Windows_XP版本列表#64.E4.BD.8D.E7.89.88 "wikilink")。
 
 Windows
-NT採用的核心是屬於[混合核心](../Page/混合核心.md "wikilink")。其體系結構包括簡單內核、[硬體抽象層](../Page/硬體抽象層.md "wikilink")（HAL）、驅動程式、服務（總稱為執行體）,
+NT採用的核心是屬於[混合核心](https://zh.wikipedia.org/wiki/混合核心 "wikilink")。其體系結構包括簡單內核、[硬體抽象層](../Page/硬體抽象層.md "wikilink")（HAL）、驅動程式、服務（總稱為執行體）,
 這些均屬於核心模式。用戶模式下的程式與子系統僅能存取其可存取的資源，核心模式下的程式則可以存取所有資源與外部裝置。
 
 ## 各發佈版本
@@ -65,7 +65,7 @@ Build</p></th>
 </tr>
 <tr class="odd">
 <td><p>NT 3.51</p></td>
-<td><p><a href="../Page/Windows_NT_3.51.md" title="wikilink">Windows NT 3.51</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_NT_3.51" title="wikilink">Windows NT 3.51</a></p></td>
 <td><p>Workstation、服务器版</p></td>
 <td><p>1995年5月30日</p></td>
 <td><p>1057</p></td>
@@ -139,7 +139,7 @@ Terminal Server、Embedded</p></td>
 </tr>
 <tr class="even">
 <td><p>NT 6.1</p></td>
-<td><p><a href="../Page/Windows_7.md" title="wikilink">Windows 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a></p></td>
 <td><p>入门版、家庭普通版、家庭高级版、专业版、企业版、旗舰版</p></td>
 <td><p>2009年10月22日</p></td>
 <td><ul>
@@ -159,7 +159,7 @@ Terminal Server、Embedded</p></td>
 </tr>
 <tr class="even">
 <td><p>NT 6.2</p></td>
-<td><p><a href="../Page/Windows_8.md" title="wikilink">Windows 8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a></p></td>
 <td><p>Windows 8、专业版、企业版、Windows RT</p></td>
 <td><p>2012年10月26日</p></td>
 <td><p>9200</p></td>
@@ -186,7 +186,7 @@ Terminal Server、Embedded</p></td>
 <td><p>9600</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Windows_Server_2012_R2.md" title="wikilink">Windows Server 2012 R2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_Server_2012_R2" title="wikilink">Windows Server 2012 R2</a></p></td>
 <td><p>Essentials、Standard、Datacenter</p></td>
 <td><p>2013年10月18日</p></td>
 <td><p>9600</p></td>
@@ -194,7 +194,7 @@ Terminal Server、Embedded</p></td>
 </tr>
 <tr class="odd">
 <td><p>NT 10.0</p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
 <td><p>个人使用：家庭版（包括S模式的家庭版）[6]、专业版（包括S模式的专业版）[7]、专业工作站版 商用：企业版、教育版、专业教育版（包括S模式的专业教育版）[8]</p>
 <p>移动设备：移动版、移动企业版</p>
 <p>物联网设备：Windows 10 IoT</p></td>
@@ -217,7 +217,7 @@ Terminal Server、Embedded</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Windows_Server_2019.md" title="wikilink">Windows Server 2019</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_Server_2019" title="wikilink">Windows Server 2019</a></p></td>
 <td><p>Essentials、Standard、Datacenter</p></td>
 <td><p>2018年10月2日</p></td>
 <td><p>17763</p></td>
@@ -230,11 +230,11 @@ Terminal Server、Embedded</p></td>
 
 ## 参见
 
-  - [微软视窗历史](../Page/微软视窗历史.md "wikilink")
+  - [微软视窗历史](https://zh.wikipedia.org/wiki/微软视窗历史 "wikilink")
       - [蓝屏死机](../Page/蓝屏死机.md "wikilink")
   - [操作系统](../Page/操作系统.md "wikilink")
       - [操作系统列表](../Page/操作系统列表.md "wikilink")
-          - [微軟操作系统列表](../Page/微軟操作系统列表.md "wikilink")
+          - [微軟操作系统列表](https://zh.wikipedia.org/wiki/微軟操作系统列表 "wikilink")
 
 {{-}}
 

@@ -1,6 +1,6 @@
-**KOI8-R**是[KOI-8系列的](../Page/KOI-8.md "wikilink")[斯拉夫文字](../Page/斯拉夫语族.md "wikilink")8位元编码，供[俄语及保加利亚语使用](../Page/俄语.md "wikilink")。在[Unicode未流行之前](../Page/Unicode.md "wikilink")，KOI8-R
+**KOI8-R**是[KOI-8系列的](../Page/KOI-8.md "wikilink")[斯拉夫文字](../Page/斯拉夫语族.md "wikilink")8位元编码，供[俄语及保加利亚语使用](https://zh.wikipedia.org/wiki/俄语 "wikilink")。在[Unicode未流行之前](https://zh.wikipedia.org/wiki/Unicode "wikilink")，KOI8-R
 是最为广泛使用的俄语编码，使用率甚至比[ISO/IEC
-8859-5还高](../Page/ISO/IEC_8859-5.md "wikilink")。
+8859-5还高](https://zh.wikipedia.org/wiki/ISO/IEC_8859-5 "wikilink")。
 
 *Andrey Chernov* 把 KOI8-R
 整理后，提交了给[互联网协会](../Page/互联网协会.md "wikilink")（ISOC），成了

@@ -1,11 +1,11 @@
 **Susie**是一個基於[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")[作業系統的免費的電腦繪圖觀看程式](../Page/作業系統.md "wikilink")，由[日本的竹村嘉人製作](../Page/日本.md "wikilink")。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統的免費的電腦繪圖觀看程式](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[日本的竹村嘉人製作](../Page/日本.md "wikilink")。
 
-对应[16位操作系统](../Page/16位.md "wikilink")（[Windows
-3.1等](../Page/Windows_3.1.md "wikilink")）版本的命名为Susie，对应[32位操作系统](../Page/32位.md "wikilink")（[Windows
+对应[16位操作系统](https://zh.wikipedia.org/wiki/16位 "wikilink")（[Windows
+3.1等](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")）版本的命名为Susie，对应[32位操作系统](https://zh.wikipedia.org/wiki/32位 "wikilink")（[Windows
 XP等](../Page/Windows_XP.md "wikilink")）的版本命名为Susie32。
 
-程序本身只支持BMP格式，但通过各类相应的[插件](../Page/插件.md "wikilink")，得以支持众多图像格式，其中不乏许多游戏[CG的专用格式](../Page/CG.md "wikilink")，也有使其能够浏览动画及音乐的插件。这些插件是由许多不同的作者所制作的，其中，对应16位版本的插件[后缀名为plg](../Page/后缀名.md "wikilink")，对应32位版本的插件后缀名为spi。此外，也有许多软件支持该软件的专用插件，如Hamana,ViX,[ACDSee](../Page/ACDSee.md "wikilink")\[1\],[XnView](../Page/XnView.md "wikilink")\[2\],[MassiGra](../Page/MassiGra.md "wikilink")。
+程序本身只支持BMP格式，但通过各类相应的[插件](../Page/插件.md "wikilink")，得以支持众多图像格式，其中不乏许多游戏[CG的专用格式](https://zh.wikipedia.org/wiki/CG "wikilink")，也有使其能够浏览动画及音乐的插件。这些插件是由许多不同的作者所制作的，其中，对应16位版本的插件[后缀名为plg](https://zh.wikipedia.org/wiki/后缀名 "wikilink")，对应32位版本的插件后缀名为spi。此外，也有许多软件支持该软件的专用插件，如Hamana,ViX,[ACDSee](../Page/ACDSee.md "wikilink")\[1\],[XnView](../Page/XnView.md "wikilink")\[2\],[MassiGra](https://zh.wikipedia.org/wiki/MassiGra "wikilink")。
 
 自从2002年10月20日推出Susie32 ver0.47b后，曾一度中止了更新，于2007年9月29日重新公开了Susie32
 ver0.50 alpha1，目前仍在更新中。

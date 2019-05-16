@@ -1,13 +1,13 @@
 **Free Pascal** （简称 **FPC**，原名为 **FPK Pascal**），是一个支持16位，32位和64位处理器的专业
 [Pascal
 语言编译器](../Page/Pascal_\(程式語言\).md "wikilink")，支持多种处理器架构，包括：[Intel
-x86](../Page/Intel_x86.md "wikilink")（也支持8086）、[AMD64](../Page/AMD64.md "wikilink")/x86-64、[PowerPC及其](../Page/PowerPC.md "wikilink")64位架构、[SPARC](../Page/SPARC.md "wikilink")、[ARM](../Page/ARM架構.md "wikilink")、AArch64、[MIPS](../Page/MIPS架構.md "wikilink")
+x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink")（也支持8086）、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")/x86-64、[PowerPC及其](../Page/PowerPC.md "wikilink")64位架构、[SPARC](../Page/SPARC.md "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")、AArch64、[MIPS](../Page/MIPS架構.md "wikilink")
 以及 [JVM](../Page/Java虚拟机.md "wikilink")。Free Pascal
-支持多种操作系统，包括：[GNU/Linux](../Page/GNU/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Haiku](../Page/Haiku.md "wikilink")、[Mac
+支持多种操作系统，包括：[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Haiku](../Page/Haiku.md "wikilink")、[Mac
 OS
-X](../Page/MacOS.md "wikilink")/[iOS](../Page/iOS.md "wikilink")/[Darwin](../Page/Darwin_\(操作系统\).md "wikilink")、[DOS](../Page/DOS.md "wikilink")、[Win32](../Page/Microsoft_Windows.md "wikilink")/64、[WinCE](../Page/WinCE.md "wikilink")、[OS/2](../Page/OS/2.md "wikilink")、MorphOS、[Nintendo
-GBA](../Page/Nintendo_GameCube.md "wikilink")、[Nintendo
-DS](../Page/Nintendo_DS.md "wikilink")、[Nintendo
+X](../Page/MacOS.md "wikilink")/[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")/[Darwin](../Page/Darwin_\(操作系统\).md "wikilink")、[DOS](../Page/DOS.md "wikilink")、[Win32](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")/64、[WinCE](https://zh.wikipedia.org/wiki/WinCE "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、MorphOS、[Nintendo
+GBA](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")、[Nintendo
+DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")、[Nintendo
 Wii](../Page/Wii.md "wikilink")、[Android](../Page/Android.md "wikilink")、[AIX](../Page/IBM_AIX.md "wikilink")
 and AROS，对 Motorola 68k 的支持也在开发中。
 
@@ -28,7 +28,7 @@ Free Pascal 计划在下一个大版本中添加一些特性。
 
 ## 參見
 
-  - [Pascal](../Page/Pascal_\(編程語言\).md "wikilink")
+  - [Pascal](https://zh.wikipedia.org/wiki/Pascal_\(編程語言\) "wikilink")
   - [Object Pascal](../Page/Object_Pascal.md "wikilink")
   - [Lazarus](../Page/Lazarus.md "wikilink")
   - [Beyond Compare](../Page/Beyond_Compare.md "wikilink")

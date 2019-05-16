@@ -1,9 +1,9 @@
 **WPS
-Office**是由[金山軟件股份有限公司發佈的一款辦公軟體](../Page/金山軟件.md "wikilink")，可以應用於辦公軟體最常用的文字編輯、試算表、簡報等功能。覆蓋Windows、[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS等平臺](../Page/iOS.md "wikilink")。
+Office**是由[金山軟件股份有限公司發佈的一款辦公軟體](https://zh.wikipedia.org/wiki/金山軟件 "wikilink")，可以應用於辦公軟體最常用的文字編輯、試算表、簡報等功能。覆蓋Windows、[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS等平臺](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 版本发展
 
-WPS视窗版1.0为金山公司支援微软视窗操作系统的产品，操作界面效仿香港金山电脑的[Super-WPS的风格](../Page/Super-WPS.md "wikilink")。
+WPS视窗版1.0为金山公司支援微软视窗操作系统的产品，操作界面效仿香港金山电脑的[Super-WPS的风格](https://zh.wikipedia.org/wiki/Super-WPS "wikilink")。
 
 1997年9月7日珠海金山公司，Kingsoft发布第二个16位视窗版的WPS
 97。采用全新微软视窗风格的设计手法，对DOS时代的WPS文档给予一定级别的支持。但未保留DOS时代WPS的操作风格。图文排版成为了这个版本的亮点，随同文本模式存在于这套系统内。专业版安装介质中包含着众多的金山字库可在安装时有选择性的安装。
@@ -48,7 +48,7 @@ Office 2009 Professional也再次受到东南亚英语使用者的青睐。
 
 2011年9月18日，“WPS Office 2012正式版”发布，与WPS Office
 2010不同，内部版本号直接跳到了8，类似于Office
-2007中的Ribbon的引入，以及与网云资源的集成，使得这款中文办公软件变得更加小巧，界面更加美观。然而它只能读取[.docx的](../Page/.docx.md "wikilink")[文档](../Page/文档.md "wikilink")，不能将文档保存为这种格式。海外版中正版出现德语、法语以及意大利语版，但繁体中文版却停滞于2010版。
+2007中的Ribbon的引入，以及与网云资源的集成，使得这款中文办公软件变得更加小巧，界面更加美观。然而它只能读取[.docx的](https://zh.wikipedia.org/wiki/.docx "wikilink")[文档](https://zh.wikipedia.org/wiki/文档 "wikilink")，不能将文档保存为这种格式。海外版中正版出现德语、法语以及意大利语版，但繁体中文版却停滞于2010版。
 
 2012年3月28日，“WPS for
 Linux”发布了Alpha测试版，基于[Qt](../Page/Qt.md "wikilink")，在小范围中进行内测\[2\]，宣告WPS正式开始向Linux桌面办公领域进军，平台的透明度成为了WPS
@@ -68,9 +68,9 @@ Office的设计目标，意味着WPS Office欲摆脱微软视窗束缚的初衷�
 
 ## 參見
 
-  - [辦公室軟體](../Page/辦公室軟體.md "wikilink")
-  - [OpenOffice](../Page/OpenOffice.md "wikilink")
-  - [LibreOffice](../Page/LibreOffice.md "wikilink")
+  - [辦公室軟體](https://zh.wikipedia.org/wiki/辦公室軟體 "wikilink")
+  - [OpenOffice](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")
+  - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
 
 {{-}}
 

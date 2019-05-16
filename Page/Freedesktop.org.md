@@ -1,9 +1,9 @@
-**freedesktop.org**（**fd.o**）是一个致力于[Linux和其他](../Page/Linux.md "wikilink")[类Unix上的](../Page/类Unix.md "wikilink")[X窗口系统的](../Page/X_Window系统.md "wikilink")[桌面环境之间的互操作性和基础技术共享的项目](../Page/桌面环境.md "wikilink")。由[红帽的](../Page/红帽.md "wikilink")[Havoc
-Pennington於](../Page/Havoc_Pennington.md "wikilink")2000年3月创立。
+**freedesktop.org**（**fd.o**）是一个致力于[Linux和其他](../Page/Linux.md "wikilink")[类Unix上的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[X窗口系统的](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")[桌面环境之间的互操作性和基础技术共享的项目](../Page/桌面环境.md "wikilink")。由[红帽的](https://zh.wikipedia.org/wiki/红帽 "wikilink")[Havoc
+Pennington於](https://zh.wikipedia.org/wiki/Havoc_Pennington "wikilink")2000年3月创立。
 
 该组织关注用户。目前X有很多开发框架，将来很可能也这样。而该组织力求这其中的不同不会为最终用户所察觉。
 
-最流行的[开源X桌面](../Page/开源.md "wikilink")——[GNOME](../Page/GNOME.md "wikilink")、[KDE和](../Page/KDE.md "wikilink")[Xfce都与该项目紧密合作](../Page/Xfce.md "wikilink")。在2006年该项目发布了[Portland](../Page/Portland_Project.md "wikilink")
+最流行的[开源X桌面](https://zh.wikipedia.org/wiki/开源 "wikilink")——[GNOME](../Page/GNOME.md "wikilink")、[KDE和](../Page/KDE.md "wikilink")[Xfce都与该项目紧密合作](../Page/Xfce.md "wikilink")。在2006年该项目发布了[Portland](https://zh.wikipedia.org/wiki/Portland_Project "wikilink")
 1.0 (`xdg-utils`)，一个常用的桌面环境接口的集合。
 
 freedesktop.org最初的名称叫**X Desktop Group**（X桌面工作组），其缩写"XDG"在他们的工作中仍然经常被用到。
@@ -30,26 +30,27 @@ fd.o为众多相关项目提供主机服务
 [2](http://freedesktop.org/Software/)，包括：
 
   - [X.Org Server](../Page/X.Org_Server.md "wikilink")：
-    X11的正式参考实现。当前版本是[XFree86改变license后的](../Page/XFree86.md "wikilink")[fork](../Page/fork.md "wikilink")。
+    X11的正式参考实现。当前版本是[XFree86改变license后的](../Page/XFree86.md "wikilink")[fork](https://zh.wikipedia.org/wiki/fork "wikilink")。
 
   - [D-Bus](../Page/D-Bus.md "wikilink")：类似[KDE
-    3的](../Page/KDE_3.md "wikilink")和[GNOME](../Page/GNOME.md "wikilink")
+    3的](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")和[GNOME](../Page/GNOME.md "wikilink")
     版本1.2至2.2的的消息总线。
 
-  - ： X的[拖放目前工作还不够一致](../Page/拖放.md "wikilink")。
+  - ： X的[拖放目前工作还不够一致](https://zh.wikipedia.org/wiki/拖放 "wikilink")。
 
   - [HAL](../Page/硬體抽象層.md "wikilink")（**H**ardware **A**bstraction
-    **L**ayer，硬件抽象层）：跨[操作系统一致性](../Page/操作系统.md "wikilink")；它已经过时并被[udev取代](../Page/udev.md "wikilink")。
+    **L**ayer，硬件抽象层）：跨[操作系统一致性](../Page/操作系统.md "wikilink")；它已经过时并被[udev取代](https://zh.wikipedia.org/wiki/udev "wikilink")。
 
-  - [fontconfig](../Page/fontconfig.md "wikilink")：字体发现和名称转换库，等等
+  - [fontconfig](https://zh.wikipedia.org/wiki/fontconfig "wikilink")：字体发现和名称转换库，等等
     [Fontconfig](https://web.archive.org/web/20050518022410/http://xserver.freedesktop.org/wiki/Software_2ffontconfig)。
 
   - ： 使用FreeType库时anti-alias字体，不限于老式X core字体。
 
-  - [Cairo](../Page/Cairo_\(繪圖\).md "wikilink")： 支持不同设备输出的矢量图形库。
+  - [Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")：
+    支持不同设备输出的矢量图形库。
 
   - （DRI）：使用[X
-    Window系统时无需通过X服务器传递数据即可安全地允许用户使用视频硬件的界面](../Page/X_Window系统.md "wikilink")。
+    Window系统时无需通过X服务器传递数据即可安全地允许用户使用视频硬件的界面](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")。
 
   - [GStreamer](../Page/GStreamer.md "wikilink")：跨平台的多媒体框架。
 

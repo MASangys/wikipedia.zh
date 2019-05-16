@@ -1,6 +1,6 @@
 **Messenger**（前稱：**MSN Messenger Service**、**.NET Messenger
 Service**、**Windows Live Messenger
-Service**）是[微軟開發的](../Page/微軟.md "wikilink")[即時通訊和](../Page/即時通訊.md "wikilink")[在線系統](../Page/在線.md "wikilink")，使用專有的即時消息協議Microsoft通知協議進行通信。允許任何擁有Microsoft帳戶的人登錄並與其他已登錄的人實時通信。
+Service**）是[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[即時通訊和](../Page/即時通訊.md "wikilink")[在線系統](https://zh.wikipedia.org/wiki/在線 "wikilink")，使用專有的即時消息協議Microsoft通知協議進行通信。允許任何擁有Microsoft帳戶的人登錄並與其他已登錄的人實時通信。
 
 ## 歷史
 
@@ -26,44 +26,47 @@ Directory與服務集成。微軟在2011年12月發布了Messenger服務的XMPP�
 
 ## 客戶端軟件
 
-  - [Windows 8](../Page/Windows_8.md "wikilink")
+  - [Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")
   - [Windows Live
     Messenger](../Page/Windows_Live_Messenger.md "wikilink")
-      - [MSN Messenger](../Page/MSN_Messenger.md "wikilink")
+      - [MSN
+        Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
       - [Windows Messenger](../Page/Windows_Messenger.md "wikilink")
   - [Microsoft Messenger for
     Mac](../Page/Microsoft_Messenger_for_Mac.md "wikilink")
   - [Outlook.com](../Page/Outlook.com.md "wikilink")
-      - [Hotmail](../Page/Hotmail.md "wikilink")
+      - [Hotmail](https://zh.wikipedia.org/wiki/Hotmail "wikilink")
       - [Windows Live Web
-        Messenger](../Page/Windows_Live_Web_Messenger.md "wikilink")
-      - [MSN Web Messenger](../Page/MSN_Web_Messenger.md "wikilink")
+        Messenger](https://zh.wikipedia.org/wiki/Windows_Live_Web_Messenger "wikilink")
+      - [MSN Web
+        Messenger](https://zh.wikipedia.org/wiki/MSN_Web_Messenger "wikilink")
   - [Xbox Live](../Page/Xbox_Live.md "wikilink")
   - [Messenger on Windows
-    Phone](../Page/Messenger_on_Windows_Phone.md "wikilink")
+    Phone](https://zh.wikipedia.org/wiki/Messenger_on_Windows_Phone "wikilink")
   - [Windows Live Messenger for iPhone and iPod
-    Touch](../Page/Windows_Live_Messenger_for_iPhone_and_iPod_Touch.md "wikilink")
-  - [Messenger Play\!](../Page/Messenger_Play!.md "wikilink")
+    Touch](https://zh.wikipedia.org/wiki/Windows_Live_Messenger_for_iPhone_and_iPod_Touch "wikilink")
+  - [Messenger
+    Play\!](https://zh.wikipedia.org/wiki/Messenger_Play! "wikilink")
   - [Windows Live Messenger for
-    Nokia](../Page/Windows_Live_Messenger_for_Nokia.md "wikilink")
+    Nokia](https://zh.wikipedia.org/wiki/Windows_Live_Messenger_for_Nokia "wikilink")
   - [Windows Live Messenger for
-    BlackBerry](../Page/Windows_Live_Messenger_for_BlackBerry.md "wikilink")
+    BlackBerry](https://zh.wikipedia.org/wiki/Windows_Live_Messenger_for_BlackBerry "wikilink")
   - [Adium](../Page/Adium.md "wikilink")
-  - [aMSN](../Page/aMSN.md "wikilink")
-  - [Ayttm](../Page/Ayttm.md "wikilink")
-  - [BitlBee](../Page/BitlBee.md "wikilink")
-  - [CenterIM](../Page/CenterIM.md "wikilink")
-  - [emesene](../Page/emesene.md "wikilink")
+  - [aMSN](https://zh.wikipedia.org/wiki/aMSN "wikilink")
+  - [Ayttm](https://zh.wikipedia.org/wiki/Ayttm "wikilink")
+  - [BitlBee](https://zh.wikipedia.org/wiki/BitlBee "wikilink")
+  - [CenterIM](https://zh.wikipedia.org/wiki/CenterIM "wikilink")
+  - [emesene](https://zh.wikipedia.org/wiki/emesene "wikilink")
   - [Empathy](../Page/Empathy.md "wikilink")
-  - [eBuddy](../Page/eBuddy.md "wikilink")
-  - [Fire](../Page/Fire.md "wikilink")
-  - [XMPP](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")
+  - [eBuddy](https://zh.wikipedia.org/wiki/eBuddy "wikilink")
+  - [Fire](https://zh.wikipedia.org/wiki/Fire "wikilink")
+  - [XMPP](https://zh.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol "wikilink")
   - [Kopete](../Page/Kopete.md "wikilink")
   - [Meebo](../Page/Meebo.md "wikilink")
-  - [Meetro](../Page/Meetro.md "wikilink")
+  - [Meetro](https://zh.wikipedia.org/wiki/Meetro "wikilink")
   - [Miranda IM](../Page/Miranda_IM.md "wikilink")
   - [Pidgin](../Page/Pidgin.md "wikilink")
-  - [tmsnc](../Page/tmsnc.md "wikilink")
+  - [tmsnc](https://zh.wikipedia.org/wiki/tmsnc "wikilink")
   - [Trillian](../Page/Trillian.md "wikilink")
   - [Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")
 

@@ -1,11 +1,11 @@
 **Microsoft
-Excel**是[Microsoft为使用](../Page/Microsoft.md "wikilink")[Windows和](../Page/Windows.md "wikilink")[Apple
-Macintosh操作系统的电脑编写的一款](../Page/Apple_Macintosh.md "wikilink")[試算表软件](../Page/試算表.md "wikilink")。直观的界面、出色的计算功能和图表工具，再加上成功的市场营销，使Excel成为最流行的个人计算机数据处理软件。在1993年，作为Microsoft
+Excel**是[Microsoft为使用](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Apple
+Macintosh操作系统的电脑编写的一款](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")[試算表软件](https://zh.wikipedia.org/wiki/試算表 "wikilink")。直观的界面、出色的计算功能和图表工具，再加上成功的市场营销，使Excel成为最流行的个人计算机数据处理软件。在1993年，作为Microsoft
 Office的组件发布了5.0版之后，Excel就开始成为所适用操作平台上的电子制表软件的霸主。
 
 ## 歷史
 
-1982年，Microsoft推出了它的第一款電子制表軟件──[Multiplan](../Page/Multiplan.md "wikilink")，並在[CP/M系統上大獲成功](../Page/CP/M.md "wikilink")，但在[MS-DOS系統上](../Page/MS-DOS.md "wikilink")，Multiplan敗給了[Lotus
+1982年，Microsoft推出了它的第一款電子制表軟件──[Multiplan](https://zh.wikipedia.org/wiki/Multiplan "wikilink")，並在[CP/M系統上大獲成功](https://zh.wikipedia.org/wiki/CP/M "wikilink")，但在[MS-DOS系統上](../Page/MS-DOS.md "wikilink")，Multiplan敗給了[Lotus
 1-2-3](../Page/Lotus_1-2-3.md "wikilink")。這個事件促使了Excel的誕生，正如Excel研發代號Doug
 Klunder：做Lotus
 1-2-3能做的，並且做的更好。1985年，第一款Excel誕生，它只用於Mac系統；1987年11月，第一款適用於Windows系統的Excel也產生了（與Windows環境直接捆綁，在Mac中的版本號為2.0）。Lotus1-2-3遲遲不能適用於Windows系統，到了1988年，Excel的銷量超過了Lotus
@@ -15,19 +15,19 @@ Office Excel 2016。
 早期，由於和另一家公司出售的名為Excel的軟件同名，Excel曾成為了商標法的目標，經過審判，Microsoft被要求在它的正式文件和法律文檔中以Microsoft
 Excel來命名這個軟件。但是，隨著時間的過去，這個慣例也就逐漸消逝了。
 
-Excel雖然提供了大量的[用戶界面特性](../Page/用戶界面.md "wikilink")，但它仍然保留了第一款電子制表軟件[VisiCalc的特性](../Page/VisiCalc.md "wikilink")：-{zh-hans:行;zh-hant:列}-、-{zh-hans:列;zh-hant:欄}-組成單元格，數據、與數據相關的公式或者對其他單元格的絕對引用保存在單元格中。
+Excel雖然提供了大量的[用戶界面特性](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")，但它仍然保留了第一款電子制表軟件[VisiCalc的特性](https://zh.wikipedia.org/wiki/VisiCalc "wikilink")：-{zh-hans:行;zh-hant:列}-、-{zh-hans:列;zh-hant:欄}-組成單元格，數據、與數據相關的公式或者對其他單元格的絕對引用保存在單元格中。
 
 Excel是第一款允許用戶自定義界面的電子制表軟件（包括字體、文字屬性和單元格格式）。它還引進了「智能重算」的功能，當單元格數據變動時，只有與之相關的數據才會更新，而原先的制表軟件只能重算全部數據或者等待下一個指令。同時，Excel還有強大的圖形功能。
 
 1993年Excel第一次被捆綁進Microsoft Office中時，Microsoft就對[Microsoft
-Word和](../Page/Microsoft_Word.md "wikilink")[PowerPoint的界面進行了重新設計](../Page/PowerPoint.md "wikilink")，以適應這款當時極為流行的應用程序。
+Word和](../Page/Microsoft_Word.md "wikilink")[PowerPoint的界面進行了重新設計](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")，以適應這款當時極為流行的應用程序。
 
 從1993年，Excel就開始支持[Visual Basic for
-Applications](../Page/Visual_Basic_for_Application.md "wikilink")（VBA）.VBA是一款功能強大的工具，它使Excel形成了獨立的編程環境。使用VBA和[巨集](../Page/巨集.md "wikilink")，可以把手工步驟自動化，VBA也允許創建窗體來獲得用戶輸入的信息。但是，VBA的自動化功能也導致Excel成為-{zh-hans:宏病毒;
+Applications](https://zh.wikipedia.org/wiki/Visual_Basic_for_Application "wikilink")（VBA）.VBA是一款功能強大的工具，它使Excel形成了獨立的編程環境。使用VBA和[巨集](../Page/巨集.md "wikilink")，可以把手工步驟自動化，VBA也允許創建窗體來獲得用戶輸入的信息。但是，VBA的自動化功能也導致Excel成為-{zh-hans:宏病毒;
 zh-hant:巨集病毒;}-的攻擊目標。
 
 從5.0到9.0，Excel中都隱藏了不同的[-{zh-hans:复;
-zh-hant:復}-活節彩蛋](../Page/彩蛋_\(視覺\).md "wikilink")。
+zh-hant:復}-活節彩蛋](https://zh.wikipedia.org/wiki/彩蛋_\(視覺\) "wikilink")。
 
 ## 版本
 
@@ -35,7 +35,8 @@ zh-hant:復}-活節彩蛋](../Page/彩蛋_\(視覺\).md "wikilink")。
 
   - 1987年Excel 2.0 for MS-DOS 3.0
 
-用于[Microsoft Windows的版本包括](../Page/Microsoft_Windows.md "wikilink")：
+用于[Microsoft
+Windows的版本包括](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")：
 
   - 1987年Excel 2 for Windows
   - 1990年Excel 3
@@ -52,8 +53,8 @@ zh-hant:復}-活節彩蛋](../Page/彩蛋_\(視覺\).md "wikilink")。
   - 2016年Excel 2016 - 亦稱16
   - 2019年Excel 2019 - 亦稱17
 
-用于[Apple](../Page/Apple.md "wikilink")
-[macOS的版本包括](../Page/macOS.md "wikilink")：
+用于[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
+[macOS的版本包括](https://zh.wikipedia.org/wiki/macOS "wikilink")：
 
   - 1985年 Excel 1.0
   - 1988年 Excel 1.5
@@ -69,7 +70,7 @@ zh-hant:復}-活節彩蛋](../Page/彩蛋_\(視覺\).md "wikilink")。
   - 2010年 Excel 14.0 （Office 2011 的一部分）
   - 2015年 Excel 15.0 （Office 2016 的一部分）
 
-用于[OS/2的版本包括](../Page/OS/2.md "wikilink")：
+用于[OS/2的版本包括](https://zh.wikipedia.org/wiki/OS/2 "wikilink")：
 
   - 1989年Excel 2.2
   - 1990年Excel 2.3
@@ -305,7 +306,7 @@ zh-hant:復}-活節彩蛋](../Page/彩蛋_\(視覺\).md "wikilink")。
 
 开源类库支持在 Microsoft Excel 应用程序以外的环境中打开 Excel 电子表格。
 [Excelize](https://github.com/360EntSecGroup-Skylar/excelize) 是 [Go
-语言](../Page/:Go.md "wikilink")（[Golang](https://golang.org/)）编写的一个用来操作
+语言](https://zh.wikipedia.org/wiki/:Go "wikilink")（[Golang](https://golang.org/)）编写的一个用来操作
 Office Excel 文档类库，可以使用它来读取、写入带有复杂样式的 XLSX 文件。 [Apache
 POI](https://en.wikipedia.org/wiki/Apache_POI) 开源项目提供用于读取和写入 Excel
 电子表格文件的 Java 库。 [PHPExcel](https://phpexcel.codeplex.com/)
@@ -344,26 +345,29 @@ Excel的时间系统中，会认为1900年2月29日是有效日期，也就是[1
 ## 竞争对手
 
   - [Google文件](../Page/Google文件.md "wikilink")
-  - [AceyOffice](../Page/AceyOffice.md "wikilink")
-  - [Ability Spreadsheet](../Page/Ability_Spreadsheet.md "wikilink")
+  - [AceyOffice](https://zh.wikipedia.org/wiki/AceyOffice "wikilink")
+  - [Ability
+    Spreadsheet](https://zh.wikipedia.org/wiki/Ability_Spreadsheet "wikilink")
   - [EditGrid](../Page/EditGrid.md "wikilink")
-  - [Framework](../Page/Framework_\(office_suite\).md "wikilink")
+  - [Framework](https://zh.wikipedia.org/wiki/Framework_\(office_suite\) "wikilink")
   - [Lotus 1-2-3](../Page/Lotus_1-2-3.md "wikilink")
   - [Gnumeric](../Page/Gnumeric.md "wikilink")
-  - [KSpread](../Page/KSpread.md "wikilink")
+  - [KSpread](https://zh.wikipedia.org/wiki/KSpread "wikilink")
   - [OpenOffice.org Calc](../Page/OpenOffice.org_Calc.md "wikilink")
-  - [Origin](../Page/Microcal_Origin.md "wikilink")
-  - [Quattro Pro](../Page/Quattro_Pro.md "wikilink")
-  - [The Cruncher](../Page/The_Cruncher.md "wikilink")（for MacIntosh）
-  - [VisiCalc](../Page/VisiCalc.md "wikilink")
-  - [WPS表格](../Page/WPS.md "wikilink")
-  - [LibreOffice](../Page/LibreOffice.md "wikilink")
+  - [Origin](https://zh.wikipedia.org/wiki/Microcal_Origin "wikilink")
+  - [Quattro Pro](https://zh.wikipedia.org/wiki/Quattro_Pro "wikilink")
+  - [The
+    Cruncher](https://zh.wikipedia.org/wiki/The_Cruncher "wikilink")（for
+    MacIntosh）
+  - [VisiCalc](https://zh.wikipedia.org/wiki/VisiCalc "wikilink")
+  - [WPS表格](https://zh.wikipedia.org/wiki/WPS "wikilink")
+  - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
 
 ## 参考文献
 
 ## 外部链接
 
-  - [微软公司官方网页](../Page/微软公司.md "wikilink")
+  - [微软公司官方网页](https://zh.wikipedia.org/wiki/微软公司 "wikilink")
 
 <!-- end list -->
 

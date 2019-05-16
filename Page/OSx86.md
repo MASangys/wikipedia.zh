@@ -1,27 +1,28 @@
-**OSx86**是把[蘋果公司出品的](../Page/蘋果公司.md "wikilink")[macOS操作系統在](../Page/macOS.md "wikilink")[x86架构的非蘋果電腦上运行的](../Page/x86.md "wikilink")[黑客协作計劃](../Page/黑客.md "wikilink")。此計劃的構思始於2005年6月的[蘋果全球開發者大會](../Page/苹果全球开发者大会.md "wikilink")（WWDC
-2005），當時蘋果宣佈他們將把其個人電腦從[PowerPC架構轉向](../Page/PowerPC.md "wikilink")[英特爾架構](../Page/英特爾.md "wikilink")。
+**OSx86**是把[蘋果公司出品的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[macOS操作系統在](https://zh.wikipedia.org/wiki/macOS "wikilink")[x86架构的非蘋果電腦上运行的](https://zh.wikipedia.org/wiki/x86 "wikilink")[黑客协作計劃](../Page/黑客.md "wikilink")。此計劃的構思始於2005年6月的[蘋果全球開發者大會](../Page/苹果全球开发者大会.md "wikilink")（WWDC
+2005），當時蘋果宣佈他們將把其個人電腦從[PowerPC架構轉向](../Page/PowerPC.md "wikilink")[英特爾架構](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 OSx86名字源于macOS系统的原名“[OS
-X](../Page/MacOS.md "wikilink")”与[英特尔处理器架构名](../Page/英特尔.md "wikilink")“[x86](../Page/x86.md "wikilink")”。此計劃有一些廣為人知的名字，比如**Hackintosh**\[1\]或**Hackint0sh**\[2\]（黑客“hack”与现苹果电脑机型名“[Macintosh](../Page/Mac系列.md "wikilink")”的[混成词](../Page/混成詞.md "wikilink")）。在[中國大陸還有很多人形象的稱其為](../Page/中國大陸.md "wikilink")“**黑蘋果**”。
+X](../Page/MacOS.md "wikilink")”与[英特尔处理器架构名](../Page/英特尔.md "wikilink")“[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")”。此計劃有一些廣為人知的名字，比如**Hackintosh**\[1\]或**Hackint0sh**\[2\]（黑客“hack”与现苹果电脑机型名“[Macintosh](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")”的[混成词](../Page/混成詞.md "wikilink")）。在[中國大陸還有很多人形象的稱其為](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")“**黑蘋果**”。
 
-蘋果公司的[最终用户许可协议](../Page/最终用户许可协议.md "wikilink")（EULA）不允許將macOS安裝在一台沒有蘋果商標的硬體上。\[3\]一些公司試圖以此計劃牟利，如和。\[4\]苹果使用[数字千年版权法](../Page/數字千年版權法.md "wikilink")，赢得对Psystar等公司的诉讼。\[5\]
+蘋果公司的[最终用户许可协议](https://zh.wikipedia.org/wiki/最终用户许可协议 "wikilink")（EULA）不允許將macOS安裝在一台沒有蘋果商標的硬體上。\[3\]一些公司試圖以此計劃牟利，如和。\[4\]苹果使用[数字千年版权法](../Page/數字千年版權法.md "wikilink")，赢得对Psystar等公司的诉讼。\[5\]
 
 ## 历史
 
 ### Mac OS X 10.4 "Tiger"
 
 2005年6月6日，在[WWDC](../Page/苹果全球开发者大会.md "wikilink")
-2005上，苹果公司宣布[迁移至英特尔平台的计划](../Page/蘋果的英特爾平台遷移.md "wikilink")，并向指定开发者销售999美元的开发者过渡工具。\[6\]一些开发者尝试在非苹果电脑上运行Mac
+2005上，苹果公司宣布[迁移至英特尔平台的计划](https://zh.wikipedia.org/wiki/蘋果的英特爾平台遷移 "wikilink")，并向指定开发者销售999美元的开发者过渡工具。\[6\]一些开发者尝试在非苹果电脑上运行Mac
 OS X，但并没有成功。\[7\]
 
 2005年8月10日，HardMac网站声称一匿名黑客已经完全破解开发者版本的Mac OS X 10.4.1
 "Tiger"，而且该网站还收到了匿名黑客送来的两段视频，展示Mac OS X
-x86系统在一台采用[Pentium M](../Page/Pentium_M.md "wikilink")
+x86系统在一台采用[Pentium
+M](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")
 735（1.6GHz）处理器的Mitac 8050D笔记本上的运行情况。Mac OS X 10.4.1
 "Tiger"是最早被黑客破解的版本。\[8\]
 
 2006年1月10日，苹果发布了Mac OS X 10.4.4与第一代基于Intel
-x86架构的Mac电脑（[iMac和](../Page/iMac.md "wikilink")[MacBook
+x86架构的Mac电脑（[iMac和](https://zh.wikipedia.org/wiki/iMac "wikilink")[MacBook
 Pro](../Page/MacBook_Pro.md "wikilink")）。这些电脑上使用了[統一可延伸韌體介面](../Page/統一可延伸韌體介面.md "wikilink")（EFI），而非传统x86主板中的老式[BIOS](../Page/BIOS.md "wikilink")。2006年2月14日，黑客maxxuss在互联网上发布了Mac
 OS X 10.4.4的最初破解版本。\[9\]几小时后苹果将Mac OS
 X的版本更新到10.4.5，\[10\]maxxuss在两周之内破解了它。\[11\]2006年4月3日苹果推出10.4.6更新后，\[12\]两周内又有人将其破解并能够让大多数的非苹果电脑安装，尽管其内核并没有升级到10.4.6。同年6月，黑客发布了使用10.4.4内核的Mac
@@ -31,7 +32,7 @@ OS X 10.4.7破解版本。
 
 ### Mac OS X 10.5 "Leopard"
 
-[Hackintosh_Laptop.jpg](https://zh.wikipedia.org/wiki/File:Hackintosh_Laptop.jpg "fig:Hackintosh_Laptop.jpg")的[联想笔记本电脑](../Page/联想.md "wikilink").\]\]
+[Hackintosh_Laptop.jpg](https://zh.wikipedia.org/wiki/File:Hackintosh_Laptop.jpg "fig:Hackintosh_Laptop.jpg")的[联想笔记本电脑](https://zh.wikipedia.org/wiki/联想 "wikilink").\]\]
 早在[Mac OS X Leopard](../Page/Mac_OS_X_Leopard.md "wikilink")
 9A466编译版本发布时，OSx86社区提供一個可在非蘋果电脑上运行的10.5版本。黑客BrazilMac制作出最早能在第三方硬件上安装合法的、零售版本的蘋果Mac
 OS X的补丁。尽管Boot-132愈发流行，很多人还是利用BrazilMac的补丁轻而易举地制作出Mac
@@ -44,7 +45,7 @@ OSx86安裝器。他们仍在不斷改進和发布新的版本，不只是為了
 当[Mac OS X Snow
 Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")“雪豹”系统发布后，俄国黑客netkas做出一个能够启动Mac
 OS X
-10.6的Chameleon版本，不过由于某些特殊问题，许多人需要修改[DSDT或使用特定的](../Page/高级配置与电源接口.md "wikilink")[kext](../Page/kext.md "wikilink")。与此同时，黑客modbin和dmitrik也开发出了能够在AMD平台上启动的雪豹内核。Qoopz与Pcj发布了稳定版的雪豹[XNU内核](../Page/XNU.md "wikilink")。有很多破解版都是基于官方零售版的，如Universal（只支持Intel平台）、Hazard、Mike™
+10.6的Chameleon版本，不过由于某些特殊问题，许多人需要修改[DSDT或使用特定的](../Page/高级配置与电源接口.md "wikilink")[kext](https://zh.wikipedia.org/wiki/kext "wikilink")。与此同时，黑客modbin和dmitrik也开发出了能够在AMD平台上启动的雪豹内核。Qoopz与Pcj发布了稳定版的雪豹[XNU内核](../Page/XNU.md "wikilink")。有很多破解版都是基于官方零售版的，如Universal（只支持Intel平台）、Hazard、Mike™
 和[iAtkos](http://iatkos.me/). 自从10.6.2的Nawcom后，Qoopz和Andy
 Vandijck为不支持的CPU开发传统内核（Legacy Kernel）。
 
@@ -68,8 +69,8 @@ ML2紧接着Niresh的10.8发布。
 Mountain
 Lion基本相同，只是原镜像内核位置改变。许多为10.9设计的新内核仍在开发中，这些内核允许AMD（[K10架构等](../Page/AMD_10h.md "wikilink")）和较旧的Intel
 CPU（如[Core
-Duo](../Page/Core_Duo.md "wikilink")）运行，这些CPU缺乏新指令集支持（[SSSE3等](../Page/SSSE3.md "wikilink")）。开发者通过模拟的方法让缺少新指令集的CPU支持10.9，但或多或少有一些小问题。从[推土机架构开始](../Page/AMD_Bulldozer.md "wikilink")，AMD的CPU几乎包含所有新指令集，一些为AMD开发的、带有完整[SSE4支持的内核也随之发布](../Page/SSE4.md "wikilink")。\[15\]Niresh的10.9破解版支持AMD及最新的Intel
-CPU，甚至还提供[英特尔Atom的内核支持](../Page/英特爾Atom.md "wikilink")。\[16\]不过，iAtkos团队选择通过接受捐赠，为特定硬件制作10.9破解版本。
+Duo](https://zh.wikipedia.org/wiki/Core_Duo "wikilink")）运行，这些CPU缺乏新指令集支持（[SSSE3等](../Page/SSSE3.md "wikilink")）。开发者通过模拟的方法让缺少新指令集的CPU支持10.9，但或多或少有一些小问题。从[推土机架构开始](../Page/AMD_Bulldozer.md "wikilink")，AMD的CPU几乎包含所有新指令集，一些为AMD开发的、带有完整[SSE4支持的内核也随之发布](https://zh.wikipedia.org/wiki/SSE4 "wikilink")。\[15\]Niresh的10.9破解版支持AMD及最新的Intel
+CPU，甚至还提供[英特尔Atom的内核支持](https://zh.wikipedia.org/wiki/英特爾Atom "wikilink")。\[16\]不过，iAtkos团队选择通过接受捐赠，为特定硬件制作10.9破解版本。
 
 ### OS X 10.10 "Yosemite"及之后版本
 
@@ -81,13 +82,13 @@ Zone软件通过[BT协议下载系统镜像](../Page/BitTorrent_\(协议\).md "w
 Box与tonymacx86的UniBeast也可以安装OS X
 Yosemite。需要注意的是，与之前的系统版本不同，为了保证系统的稳定性，OS
 X 10.10及之后版本，需要使用未修改的OS
-X安装程序进行，而非互联网上的破解版，并且尽可能少使用[kext](../Page/可載入核心模組.md "wikilink")（驱动）。
+X安装程序进行，而非互联网上的破解版，并且尽可能少使用[kext](https://zh.wikipedia.org/wiki/可載入核心模組 "wikilink")（驱动）。
 
 从[OS X El
 Capitan开始](../Page/OS_X_El_Capitan.md "wikilink")，UniBeast（和MultiBeast）将原先的Chimera引导（基于Chameleon）替换成Clover引导。
 
 Clover、Chameleon、UniBeast、Pandora Box和MacPwn等引导与工具均已支持到[macOS
-Mojave](../Page/macOS_Mojave.md "wikilink")。\[18\]\[19\]
+Mojave](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink")。\[18\]\[19\]
 
 ## 破解方式
 
@@ -98,7 +99,7 @@ Tiger。[Rosetta是一个二进制转换器](../Page/Rosetta.md "wikilink")，�
 
 在Mac OS X Leopard发布后的数小时内，OSx86社区很快跟进了内核的修改，发布了AMD/Intel
 SSE2/3的内核修补程序，它能从原始的[mach_kernel文件](../Page/Mach.md "wikilink")（Mac
-OS核心组件之一）移除对[高精度事件计时器](../Page/高精度事件计时器.md "wikilink")（HPET）的要求。
+OS核心组件之一）移除对[高精度事件计时器](https://zh.wikipedia.org/wiki/高精度事件计时器 "wikilink")（HPET）的要求。
 
 OS X
 Mavericks内核使用了[SSSE3指令](../Page/SSSE3.md "wikilink")，开发者也发布了模拟SSSE3的破解内核。
@@ -109,7 +110,7 @@ Mavericks内核使用了[SSSE3指令](../Page/SSSE3.md "wikilink")，开发者�
 
 2007年11月早期，俄罗斯黑客团体Netkas使用了David Elliot（又称作dfe）修改过的Boot-132代码，找到了一个方法
 ，让修改过的[Darwin启动器模拟EFI环境](../Page/Darwin_\(操作系统\).md "wikilink")，从而进入macOS。\[22\]\[23\]\[24\]这意味着一个满足最低硬件需求的普通PC，
-能被操作系统当作真正的[Mac电脑](../Page/Mac系列.md "wikilink")。由于这种方式不用对内核进行修改，系统能运行地更加透明和稳定。这个创造性方法立刻在网上流传开，DigitMemo.com详细介绍了这个成就以及它的使用方法。\[25\]
+能被操作系统当作真正的[Mac电脑](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")。由于这种方式不用对内核进行修改，系统能运行地更加透明和稳定。这个创造性方法立刻在网上流传开，DigitMemo.com详细介绍了这个成就以及它的使用方法。\[25\]
 
 完全的EFI模拟对于OSx86社区来说是一笔极大的财富。使用这些EFI补丁，Hackintosh能从未修改的内核与内核扩展中启动。这不仅允许系统进行未来的升级，同时也增强了它的稳定性。此方法还绕过了蘋果公司最終用戶許可協議中的某些部分，因为其协议指出修改其非開源部分的操作系統代碼是禁止的。\[26\]
 
@@ -121,7 +122,7 @@ EFI（同期的另一个商业产品）被证实使用了经修改的开源Boot-
 
 Boot-132由苹果发布，是一个用于加载XNU内核的开源引导程序。\[29\]\[30\]2008年年中，出现了一个新的Boot-132修改版本
 。\[31\]这种方法允许用户使用从零售店里买来的Leopard光盘，将Mac OS X
-Leopard直接安装在电脑上，还能直接从Apple上下载更新，而无需使用JaS与Kalyway等破解版本。Boot-132启动器会在系统上加载一个用于启动Leopard的基本环境，引导会将一些必要的文件（如[Kext文件等](../Page/Kext.md "wikilink")）放入一个本地文件夹或者转储成一个.img镜像文件。修改后的Boot-132尽管不违反数字千年版权法，但违背了macOS的[最终用户许可协议](../Page/最终用户许可协议.md "wikilink")。\[32\]
+Leopard直接安装在电脑上，还能直接从Apple上下载更新，而无需使用JaS与Kalyway等破解版本。Boot-132启动器会在系统上加载一个用于启动Leopard的基本环境，引导会将一些必要的文件（如[Kext文件等](https://zh.wikipedia.org/wiki/Kext "wikilink")）放入一个本地文件夹或者转储成一个.img镜像文件。修改后的Boot-132尽管不违反数字千年版权法，但违背了macOS的[最终用户许可协议](https://zh.wikipedia.org/wiki/最终用户许可协议 "wikilink")。\[32\]
 
 Boot-132启动器的行为类似于[Linux内核](../Page/Linux.md "wikilink")：它使用一个与mboot兼容的启动器，在找到.img文件后会使用里面的kext（或mkext）文件引导系统，这就不用替换光盘里的文件了。然而，这只能运行在那些与系统兼容的机器上。近年来，随着破解内核发布，AMD用户也能运行零售版了。\[33\]不过这些破解内核都需要在装有Boot-132启动器的安装盘上进行烧写。
 
@@ -131,7 +132,7 @@ Elliot的Boot-132开发，支持[ACPI](../Page/高级配置与电源接口.md "w
 
 #### DUET及UEFI BIOS
 
-DUET启动器由[Tianocore开发](../Page/Tianocore.md "wikilink")，它能够让不支持EFI的电脑进入模拟EFI环境。一些基于DUET的启动器（如iBOOT、XPC和Clover），能让电脑在闪存中通过模拟EFI环境来启动macOS。
+DUET启动器由[Tianocore开发](https://zh.wikipedia.org/wiki/Tianocore "wikilink")，它能够让不支持EFI的电脑进入模拟EFI环境。一些基于DUET的启动器（如iBOOT、XPC和Clover），能让电脑在闪存中通过模拟EFI环境来启动macOS。
 
 自2011年起，大量使用UEFI BIOS的x86兼容机与主板进入了市场并逐渐流行。OSx86社区的一些开发者通过向UEFI
 BIOS加入Ozmosis引导，只使用主板的UEFI直接引导macOS，实现类似于Mac电脑的原生功能。\[35\]Clover引导器也支持直接从主板UEFI
@@ -152,13 +153,13 @@ Workstation](../Page/VMware_Workstation.md "wikilink")、[VirtualBox可以安装
 
 ## 安装方法
 
-目前，黑苹果的安装技术已经相对成熟许多，包括中国在内的许多国家都有很多关于黑苹果的[论坛](../Page/论坛.md "wikilink")，中国大陆比较大的如[远景论坛等的网站](../Page/远景论坛.md "wikilink")。因此安装起来相对容易很多。目前使用比较多的是用Clover引导的macOS系统的安装，只需要配置合适的config文件以及kext文件就可以得到一台自己的黑苹果系统，很多情况下需要更换macOS支持的[无线网卡](../Page/无线网卡.md "wikilink")，当然使用USB无线网卡也是非常方便的。声卡可以用仿冒声卡[驱动或者万能声卡驱动](../Page/驱动程序.md "wikilink")。对于[笔记本电脑](../Page/笔记本电脑.md "wikilink")，除了某些支持sli技术的外，目前大多数只能驱动集显而无法驱动独显，因此在笔记本上面安装性能会有些低。
+目前，黑苹果的安装技术已经相对成熟许多，包括中国在内的许多国家都有很多关于黑苹果的[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")，中国大陆比较大的如[远景论坛等的网站](https://zh.wikipedia.org/wiki/远景论坛 "wikilink")。因此安装起来相对容易很多。目前使用比较多的是用Clover引导的macOS系统的安装，只需要配置合适的config文件以及kext文件就可以得到一台自己的黑苹果系统，很多情况下需要更换macOS支持的[无线网卡](https://zh.wikipedia.org/wiki/无线网卡 "wikilink")，当然使用USB无线网卡也是非常方便的。声卡可以用仿冒声卡[驱动或者万能声卡驱动](../Page/驱动程序.md "wikilink")。对于[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，除了某些支持sli技术的外，目前大多数只能驱动集显而无法驱动独显，因此在笔记本上面安装性能会有些低。
 
 ## 法律问题
 
 苹果没有将macOS授权给其他x86电脑使用。从宣布迁移到英特尔平台开始，苹果就采取了一些技术手段（被误认为是[可信平台模块](../Page/可信平台模块.md "wikilink")，事实上是苹果专门开发的SMC）\[41\]，阻止非苹果电脑运行macOS。\[42\]
 
-蘋果公司的[最终用户许可协议](../Page/最终用户许可协议.md "wikilink")（EULA）并不允許將macOS安裝在一台沒有蘋果商標的硬體上。\[43\]2008年7月3日，蘋果向Psystar公司提起诉讼，宣稱Psystar违反了[数字千年版权法](../Page/數字千年版權法.md "wikilink")（DMCA），避开苹果保护macOS的防复制技术。具体来说，苹果指控Psystar通过“避开、绕过、移除、解扰、解密、停用、破坏苹果保护机制”等途径，获取未经授权的代码等。\[44\]
+蘋果公司的[最终用户许可协议](https://zh.wikipedia.org/wiki/最终用户许可协议 "wikilink")（EULA）并不允許將macOS安裝在一台沒有蘋果商標的硬體上。\[43\]2008年7月3日，蘋果向Psystar公司提起诉讼，宣稱Psystar违反了[数字千年版权法](../Page/數字千年版權法.md "wikilink")（DMCA），避开苹果保护macOS的防复制技术。具体来说，苹果指控Psystar通过“避开、绕过、移除、解扰、解密、停用、破坏苹果保护机制”等途径，获取未经授权的代码等。\[44\]
 
 2009年11月13日，法院批准苹果的简要判决。2012年蘋果公司最终贏得了對Psystar的訴訟。\[45\]\[46\]\[47\]
 
@@ -167,7 +168,7 @@ Wind笔记本电脑上安装macOS的视频教程，但随后被苹果投诉，�
 
 ## 參見
 
-  - [蘋果的英特爾平台遷移](../Page/蘋果的英特爾平台遷移.md "wikilink")
+  - [蘋果的英特爾平台遷移](https://zh.wikipedia.org/wiki/蘋果的英特爾平台遷移 "wikilink")
 
   -
 ## 参考

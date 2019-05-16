@@ -1,5 +1,5 @@
-**可扩展超文本标记语言**（，），是一种[标记语言](../Page/标记语言.md "wikilink")，表现方式与[超文本标记语言](../Page/超文本标记语言.md "wikilink")（[HTML](../Page/HTML.md "wikilink")）类似，不过语法上更加严格。从继承关系上讲，HTML是一种基于[标准通用标记语言](../Page/标准通用标记语言.md "wikilink")（[SGML](../Page/SGML.md "wikilink")）的应用，是一種非常灵活的置標語言，而**XHTML**则基于[可扩展标记语言](../Page/可扩展标记语言.md "wikilink")（[XML](../Page/XML.md "wikilink")），XML是[SGML的一个子集](../Page/SGML.md "wikilink")。XHTML
-1.0在2000年1月26日成为[W3C的推荐标准](../Page/W3C.md "wikilink")。
+**可扩展超文本标记语言**（，），是一种[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，表现方式与[超文本标记语言](https://zh.wikipedia.org/wiki/超文本标记语言 "wikilink")（[HTML](../Page/HTML.md "wikilink")）类似，不过语法上更加严格。从继承关系上讲，HTML是一种基于[标准通用标记语言](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink")（[SGML](../Page/SGML.md "wikilink")）的应用，是一種非常灵活的置標語言，而**XHTML**则基于[可扩展标记语言](https://zh.wikipedia.org/wiki/可扩展标记语言 "wikilink")（[XML](../Page/XML.md "wikilink")），XML是[SGML的一个子集](../Page/SGML.md "wikilink")。XHTML
+1.0在2000年1月26日成为[W3C的推荐标准](https://zh.wikipedia.org/wiki/W3C "wikilink")。
 
 XHTML1.1為XHTML最後的獨立標準，2.0止於草案階段。XHTML5則是屬於HTML5標準的一部份，且名稱已改為「以XML序列化的HTML5」，而非「可擴展的HTML」。在今日(2017年)，XHTML5比起HTML5仍遠遠並非主流。
 
@@ -8,19 +8,19 @@ XHTML1.1為XHTML最後的獨立標準，2.0止於草案階段。XHTML5則是屬�
 [W3C_valid_XHTML_1.0_icon.png](https://zh.wikipedia.org/wiki/File:W3C_valid_XHTML_1.0_icon.png "fig:W3C_valid_XHTML_1.0_icon.png")
 
 **XHTML**是「3種HTML 4文件根據XML
-1.0標準重組」而成的\[1\]。而[W3C亦繼續建議使用](../Page/W3C.md "wikilink")[HTML](../Page/HTML.md "wikilink")
+1.0標準重組」而成的\[1\]。而[W3C亦繼續建議使用](https://zh.wikipedia.org/wiki/W3C "wikilink")[HTML](../Page/HTML.md "wikilink")
 4.01和積極地研究[HTML5及XHTML的計劃](../Page/HTML5.md "wikilink")。於2002年8月發表的XHTML
-1.0的建議中，[W3C指出](../Page/W3C.md "wikilink")**XHTML**家族將會是[Internet的新階段](../Page/Internet.md "wikilink")。而轉換使用**XHTML**可以令開發人員接觸[XML和其好處](../Page/XML.md "wikilink")，並可以確保以**XHTML**開發的網頁於未來的相容性。
+1.0的建議中，[W3C指出](https://zh.wikipedia.org/wiki/W3C "wikilink")**XHTML**家族將會是[Internet的新階段](https://zh.wikipedia.org/wiki/Internet "wikilink")。而轉換使用**XHTML**可以令開發人員接觸[XML和其好處](../Page/XML.md "wikilink")，並可以確保以**XHTML**開發的網頁於未來的相容性。
 
-HTML语法要求比较松散，这样对网页编写者来说，比较方便，但对于机器来说，语言的[语法越松散](../Page/语法.md "wikilink")，处理起来就越困难，对于传统的電腦来说，还有能力兼容松散语法，但对于许多其他设备，比如手机，难度就比较大。因此产生了由[DTD定义规则](../Page/文档类型定义.md "wikilink")，语法要求更加严格的XHTML。
+HTML语法要求比较松散，这样对网页编写者来说，比较方便，但对于机器来说，语言的[语法越松散](../Page/语法.md "wikilink")，处理起来就越困难，对于传统的電腦来说，还有能力兼容松散语法，但对于许多其他设备，比如手机，难度就比较大。因此产生了由[DTD定义规则](https://zh.wikipedia.org/wiki/文档类型定义 "wikilink")，语法要求更加严格的XHTML。
 
 大部分常见的浏览器都可以正确地解析XHTML，即使老一点的浏览器，XHTML作为HTML的一个子集，许多也可以解析。也就是说，几乎所有的网页浏览器在正确解析HTML的同时，可兼容XHTML。当然，从[HTML完全转移到XHTML](../Page/HTML.md "wikilink")，还需要一些过程。
 
-跟[CSS](../Page/CSS.md "wikilink")（Cascading Style
-Sheets，层叠式样式表）结合后，XHTML能发挥真正的威力；这使实现样式跟内容的分离的同时，又能有机地组合网页代码，在另外的单独文件中，还可以混合各种XML应用，比如[MathML](../Page/MathML.md "wikilink")、[SVG](../Page/SVG.md "wikilink")。
+跟[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")（Cascading Style
+Sheets，层叠式样式表）结合后，XHTML能发挥真正的威力；这使实现样式跟内容的分离的同时，又能有机地组合网页代码，在另外的单独文件中，还可以混合各种XML应用，比如[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")、[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")。
 
-从[HTML到XHTML过渡的变化比较小](../Page/HTML.md "wikilink")，主要是为了适应[XML](../Page/XML.md "wikilink")。最大的变化在于文档必须是[結構良好的](../Page/良构.md "wikilink")，所有[标签必须闭合](../Page/标签.md "wikilink")，也就是说开始标签要有相应的结束标签。另外，XHTML中所有的标签必须小写。而按照HTML
-2.0以来的传统，很多人都是将标签大写，这点两者的差异显著。在XHTML中，所有的参数值，包括数字，必须用双引号括起来（而在[SGML和HTML中](../Page/SGML.md "wikilink")，引号不是必须的，当内容只是数字、字母及其它允许的特殊字符时，可以不用引号）。所有元素，包括空元素，比如img、br等，也都必须闭合，实现的方式是在开始标签末尾加入[斜扛](../Page/斜扛.md "wikilink")，比如`<img
+从[HTML到XHTML过渡的变化比较小](../Page/HTML.md "wikilink")，主要是为了适应[XML](../Page/XML.md "wikilink")。最大的变化在于文档必须是[結構良好的](https://zh.wikipedia.org/wiki/良构 "wikilink")，所有[标签必须闭合](https://zh.wikipedia.org/wiki/标签 "wikilink")，也就是说开始标签要有相应的结束标签。另外，XHTML中所有的标签必须小写。而按照HTML
+2.0以来的传统，很多人都是将标签大写，这点两者的差异显著。在XHTML中，所有的参数值，包括数字，必须用双引号括起来（而在[SGML和HTML中](../Page/SGML.md "wikilink")，引号不是必须的，当内容只是数字、字母及其它允许的特殊字符时，可以不用引号）。所有元素，包括空元素，比如img、br等，也都必须闭合，实现的方式是在开始标签末尾加入[斜扛](https://zh.wikipedia.org/wiki/斜扛 "wikilink")，比如`<img
 ... />` 、`<br />`。省略参数，比如`<option selected>`，也不允许，必须用`<option
 selected="selected">`。两者的详细差别，可通过[W3C
 XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)来查阅。
@@ -30,7 +30,7 @@ XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)来查阅。
 至现时为止，XHTML共有以下几个版本：
 
   - **XHTML 1.0 Strict（严格版）**是参照“HTML 4.01
-    Strict”改编，但不包括被棄用的元素。其[文件类型描述为](../Page/文件类型描述.md "wikilink")：
+    Strict”改编，但不包括被棄用的元素。其[文件类型描述为](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")：
 
 <!-- end list -->
 
@@ -41,7 +41,8 @@ XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)来查阅。
   - **XHTML 1.0 Transitional（过渡版）**是参照“HTML 4.01
     Transitional”改编，包括已於Strict版本被棄用的呈現性元素（例如<code>
     <center>
-    </code>, <font>等）。其[文件类型描述为](../Page/文件类型描述.md "wikilink")：
+    </code>,
+    <font>等）。其[文件类型描述为](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")：
 
 <!-- end list -->
 
@@ -50,7 +51,7 @@ XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)来查阅。
 ```
 
   - **XHTML 1.0 Frameset（框架版）**是参照“HTML 4.01
-    Frameset”改编，並允許於網頁中定義[框架元素](../Page/框架元素.md "wikilink")。其[文件类型描述为](../Page/文件类型描述.md "wikilink")：
+    Frameset”改编，並允許於網頁中定義[框架元素](https://zh.wikipedia.org/wiki/框架元素 "wikilink")。其[文件类型描述为](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")：
 
 <!-- end list -->
 
@@ -58,7 +59,8 @@ XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)来查阅。
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 ```
 
-  - **XHTML 1.1**。其[文件类型描述为](../Page/文件类型描述.md "wikilink")：
+  - **XHTML
+    1.1**。其[文件类型描述为](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")：
 
 <!-- end list -->
 
@@ -66,7 +68,8 @@ XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)来查阅。
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 ```
 
-  - **XHTML Basic**。其[文件类型描述为](../Page/文件类型描述.md "wikilink")：
+  - **XHTML
+    Basic**。其[文件类型描述为](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")：
 
 <!-- end list -->
 
@@ -74,19 +77,20 @@ XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)来查阅。
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN" "http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
 ```
 
-另外，在[Microsoft](../Page/Microsoft.md "wikilink") [Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")
+另外，在[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+[Internet Explorer](../Page/Internet_Explorer.md "wikilink")
 5.0所新增的<ruby>小字注解标签，在XHTML
-1.1得到支援（参看[旁註標記](../Page/旁註標記.md "wikilink")）。
-而第二版的XHTML 1.0於2002年8月成為[W3C推薦的文件類型](../Page/W3C.md "wikilink")。\[2\]
+1.1得到支援（参看[旁註標記](https://zh.wikipedia.org/wiki/旁註標記 "wikilink")）。
+而第二版的XHTML
+1.0於2002年8月成為[W3C推薦的文件類型](https://zh.wikipedia.org/wiki/W3C "wikilink")。\[2\]
 
 2.0止於草案。
 
-[XHTML5不需要DTD](../Page/XHTML5.md "wikilink")。
+[XHTML5不需要DTD](https://zh.wikipedia.org/wiki/XHTML5 "wikilink")。
 
 ## 有效的XHTML文件
 
-一個符合（附合）XHTML標準的文件即可稱為*有效*。此可以確保XHTML文件代碼的協調，亦能令文件的更容易被處理，而不需確保各種瀏覽器編譯的一致性。而[W3C驗証服務則可以驗証文件是否有效](../Page/W3C驗証服務.md "wikilink")。而實際上，很多[網站開發工具](../Page/網站開發工具.md "wikilink")（例如[Dreamweaver](../Page/Dreamweaver.md "wikilink")）都支援以[W3C標準驗証文件](../Page/W3C.md "wikilink")。
+一個符合（附合）XHTML標準的文件即可稱為*有效*。此可以確保XHTML文件代碼的協調，亦能令文件的更容易被處理，而不需確保各種瀏覽器編譯的一致性。而[W3C驗証服務則可以驗証文件是否有效](../Page/W3C驗証服務.md "wikilink")。而實際上，很多[網站開發工具](https://zh.wikipedia.org/wiki/網站開發工具 "wikilink")（例如[Dreamweaver](https://zh.wikipedia.org/wiki/Dreamweaver "wikilink")）都支援以[W3C標準驗証文件](https://zh.wikipedia.org/wiki/W3C "wikilink")。
 
 ## 语法
 
@@ -98,18 +102,18 @@ XHTML语言必须符合XML的格式，例如，
 
 </code>以结束段落。而且，XHTML标签必须使用小写字母，如
 不能写为
-；每一个属性都必须使用引号包住，如必须使用<img src="abc.jpg" alt="" />而不能使用<img src=abc.jpg alt="">。这些做法的目的，是使一个XHTML[网页能够被](../Page/网页.md "wikilink")[网页浏览器正确及较快地](../Page/网页浏览器.md "wikilink")[编译](../Page/编译.md "wikilink")。
+；每一个属性都必须使用引号包住，如必须使用<img src="abc.jpg" alt="" />而不能使用<img src=abc.jpg alt="">。这些做法的目的，是使一个XHTML[网页能够被](https://zh.wikipedia.org/wiki/网页 "wikilink")[网页浏览器正确及较快地](../Page/网页浏览器.md "wikilink")[编译](https://zh.wikipedia.org/wiki/编译 "wikilink")。
 
 ## 和HTML 4的区别
 
 （翻译自 [W3C XHTML说明](http://www.w3.org/TR/xhtml1/#diffs)）这部分涉及内容广泛。
 
 XHTML是[XML的一种应用](../Page/XML.md "wikilink")。基于这一事实，那些在以[SGML为基础的](../Page/SGML.md "wikilink")[HTML
-4中](../Page/HTML_4.md "wikilink")，不完全合法的用法，应被改寫。
+4中](https://zh.wikipedia.org/wiki/HTML_4 "wikilink")，不完全合法的用法，应被改寫。
 
 ### 文档应该是結構良好的
 
-[良好結構](../Page/良好結構.md "wikilink")（Well-formed）\[3\]是由[XML](../Page/XML.md "wikilink")\[4\]引入的一个新概念。也就是说所有的元素都必须有结束标签或者以特殊的方式书写（如下所述），而且所有的标签必须合理地嵌套。
+[良好結構](https://zh.wikipedia.org/wiki/良好結構 "wikilink")（Well-formed）\[3\]是由[XML](../Page/XML.md "wikilink")\[4\]引入的一个新概念。也就是说所有的元素都必须有结束标签或者以特殊的方式书写（如下所述），而且所有的标签必须合理地嵌套。
 
 儘管如此，交叉使用在SGML中仍然是合法的，而且在現有的瀏覽器中也能够被广泛接受。 -{zh-hans:
 
@@ -150,7 +154,7 @@ XHTML文件要求所有的HTML元素名稱和屬性名稱都要小寫。因為XM
 ### 要有结束标签
 
 基于SGML的HTML
-4里面，允许特定的标签省略结束标签；这些元素暗含有结束标记。XHTML不允许省略结束标记。所有元素（包括在DTD中声明为空的标签），都必须有结束标签。在[DTD中声明为空的元素可以用结束标签或者使用空元素速记法](../Page/文件類型描述.md "wikilink")（参见[空元素](http://www.w3.org/TR/xhtml1/#h-4.6)）。
+4里面，允许特定的标签省略结束标签；这些元素暗含有结束标记。XHTML不允许省略结束标记。所有元素（包括在DTD中声明为空的标签），都必须有结束标签。在[DTD中声明为空的元素可以用结束标签或者使用空元素速记法](https://zh.wikipedia.org/wiki/文件類型描述 "wikilink")（参见[空元素](http://www.w3.org/TR/xhtml1/#h-4.6)）。
 -{zh-hans:
 
   -
@@ -298,7 +302,7 @@ SGML和XML都允许使用十六进制的数值来映射字符。在[SGML里这�
 
 ## XHTML5
 
-參見[XHTML5](../Page/XHTML5.md "wikilink")。
+參見[XHTML5](https://zh.wikipedia.org/wiki/XHTML5 "wikilink")。
 
 XHTML5並非可擴展HTML的後繼語言，而是對XML序列化的HTML5的稱呼，延續了一部分原本XHTML的精神而加入HTML5，成為HTML5規格的一部分。
 
@@ -318,9 +322,9 @@ XHTML5並非可擴展HTML的後繼語言，而是對XML序列化的HTML5的稱�
 
   - [XML](../Page/XML.md "wikilink")
   - [HTML](../Page/HTML.md "wikilink")
-  - [CSS](../Page/CSS.md "wikilink")
+  - [CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")
   - [SGML](../Page/SGML.md "wikilink")
-  - [Unicode](../Page/Unicode.md "wikilink")
+  - [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
   - [Acid2](../Page/Acid2.md "wikilink")
   - [W3C驗証服務](../Page/W3C驗証服務.md "wikilink"){{-}}
 

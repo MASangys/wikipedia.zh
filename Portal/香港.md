@@ -1,0 +1,150 @@
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:120%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+歡迎來到東方之珠——<big>**香港**</big>！這是一個維基百科的主題首頁。
+The Pearl of the Orient——<big>HONG KONG</big>
+
+</h2>
+
+<div style="float:right;margin-left:5px;">
+
+</div>
+
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;font-size:small;">
+
+**[更多與香港相關的內容...](../Page/香港.md "wikilink")** |
+**[更多與香港相關的主題...](https://zh.wikipedia.org/wiki/Category:香港 "wikilink")**|
+**\[ 更新緩存\]**
+
+</div>
+
+</div>
+
+<div style="display:block;width:99%;float:left">
+
+<div style="width:48%;display:block;float:left;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+典范條目<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+優良條目<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+香港新知<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+精選圖片<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+分類<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:48%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+新聞動態<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+社群消息
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+歡迎參與<span style="float:right;"></span>
+
+</h2>
+
+-----
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+其他主題首頁
+
+</h2>
+
+<center>
+
+</center>
+
+</div>
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+### 參見
+
+[Category:香港主题首页](https://zh.wikipedia.org/wiki/Category:香港主题首页 "wikilink")

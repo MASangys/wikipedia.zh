@@ -1,9 +1,9 @@
-**ZARD**是一個日本摇滚樂團，以主唱歌手[坂井泉水為中心](../Page/坂井泉水.md "wikilink")。所屬事務所是泉水（SENSUI）。隸屬於[Being,Inc.旗下](../Page/Being,Inc..md "wikilink")[B-Gram
-RECORDS](../Page/B-Gram_RECORDS.md "wikilink")。代表歌曲有《[永遠](../Page/永遠.md "wikilink")》、《[Top
-Secret](../Page/Top_Secret.md "wikilink")》、《[My
-Friend](../Page/My_Friend.md "wikilink")》、《[轉動命運之輪](../Page/轉動命運之輪.md "wikilink")》、《[Don't
+**ZARD**是一個日本摇滚樂團，以主唱歌手[坂井泉水為中心](../Page/坂井泉水.md "wikilink")。所屬事務所是泉水（SENSUI）。隸屬於[Being,Inc.旗下](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")[B-Gram
+RECORDS](https://zh.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。代表歌曲有《[永遠](https://zh.wikipedia.org/wiki/永遠 "wikilink")》、《[Top
+Secret](https://zh.wikipedia.org/wiki/Top_Secret "wikilink")》、《[My
+Friend](https://zh.wikipedia.org/wiki/My_Friend "wikilink")》、《[轉動命運之輪](../Page/轉動命運之輪.md "wikilink")》、《[Don't
 You
-See](../Page/Don't_You_See.md "wikilink")》、《[別認輸](../Page/別認輸.md "wikilink")》、《[搖擺的想念](../Page/搖擺的想念.md "wikilink")》ZARD也是日本第一個女子主唱的搖滾樂團。
+See](https://zh.wikipedia.org/wiki/Don't_You_See "wikilink")》、《[別認輸](../Page/別認輸.md "wikilink")》、《[搖擺的想念](../Page/搖擺的想念.md "wikilink")》ZARD也是日本第一個女子主唱的搖滾樂團。
 
 ## 成員
 
@@ -19,19 +19,20 @@ ZARD
 
 各成員的脫離，所屬事務沒正式公佈，不過，以下的成員好像以前從屬於ZARD，某時期脫離了。
 
-  - [町田文人](../Page/町田文人.md "wikilink")（吉他）在完成「你不在」后退出乐队
+  - [町田文人](https://zh.wikipedia.org/wiki/町田文人 "wikilink")（吉他）在完成「你不在」后退出乐队
 
 <!-- end list -->
 
-  - [星弘泰](../Page/星弘泰.md "wikilink")（貝斯）在完成「IN MY ARMS TONIGHT」后退出乐队
+  - [星弘泰](https://zh.wikipedia.org/wiki/星弘泰 "wikilink")（貝斯）在完成「IN MY
+    ARMS TONIGHT」后退出乐队
 
 <!-- end list -->
 
-  - [道倉康介](../Page/道倉康介.md "wikilink")（鼓手）在创作「別認輸」前后退出乐队
+  - [道倉康介](https://zh.wikipedia.org/wiki/道倉康介 "wikilink")（鼓手）在创作「別認輸」前后退出乐队
 
 <!-- end list -->
 
-  - [池澤公隆](../Page/池澤公隆.md "wikilink")（键盘）在完成「你不在」后退出乐队
+  - [池澤公隆](https://zh.wikipedia.org/wiki/池澤公隆 "wikilink")（键盘）在完成「你不在」后退出乐队
 
 ## 简介
 
@@ -46,13 +47,13 @@ Station等等。但自从1993年之后，ZARD便极少出现于电视屏幕之�
 ## 合作伙伴
 
   - [織田哲郎](../Page/織田哲郎.md "wikilink")（作曲25曲、作編曲1曲）
-  - [明石昌夫](../Page/明石昌夫.md "wikilink")（編曲53曲）
-  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")（作曲46曲）
-  - [川島だりあ](../Page/川島だりあ.md "wikilink")（作詞曲2曲、作曲9曲）
-  - [池田大介](../Page/池田大介.md "wikilink")（編曲21曲）
-  - [葉山武](../Page/葉山武.md "wikilink")（編曲36曲）
+  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")（編曲53曲）
+  - [栗林誠一郎](https://zh.wikipedia.org/wiki/栗林誠一郎 "wikilink")（作曲46曲）
+  - [川島だりあ](https://zh.wikipedia.org/wiki/川島だりあ "wikilink")（作詞曲2曲、作曲9曲）
+  - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")（編曲21曲）
+  - [葉山武](https://zh.wikipedia.org/wiki/葉山武 "wikilink")（編曲36曲）
   - [德永曉人](../Page/德永曉人.md "wikilink")（作曲4曲、編曲14曲、作編曲11曲）
-  - [古井弘人](../Page/古井弘人.md "wikilink")（編曲10曲）
+  - [古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")（編曲10曲）
   - [大野愛果](../Page/大野愛果.md "wikilink")（作曲22曲）
 
 ## 其它合作
@@ -60,9 +61,9 @@ Station等等。但自从1993年之后，ZARD便极少出现于电视屏幕之�
 2003年－[松本孝弘在](../Page/松本孝弘.md "wikilink")11月26日以TAK
 MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PARADE」。
 
-邀請了[稻葉浩志](../Page/稻葉浩志.md "wikilink")、**ZARD**、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[宇德敬子等一眾陣容強大的客席歌手](../Page/宇德敬子.md "wikilink")，翻唱了'70～'80年代的邦樂名曲。
+邀請了[稻葉浩志](../Page/稻葉浩志.md "wikilink")、**ZARD**、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[宇德敬子等一眾陣容強大的客席歌手](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")，翻唱了'70～'80年代的邦樂名曲。
 而企劃的第一張單曲，由泉水（ZARD）擔任主唱，演唱至今仍深受廣大歌迷喜愛的POPS名曲「異邦人」
-（原唱&作詞作曲：[久保田早紀](../Page/久保田早紀.md "wikilink")）
+（原唱&作詞作曲：[久保田早紀](https://zh.wikipedia.org/wiki/久保田早紀 "wikilink")）
 
 ## ORICON記錄
 
@@ -76,9 +77,10 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
   - 單曲1位獲得数：12作（女性歌手歴代4位）
   - 單曲名列TOP100張數：45作（90年代歌手歴代2位）
   - 專輯破百萬獲得数：10作（歴代4位）
-  - 專輯連續破百萬：連續9張（歴代1位）（[HOLD ME](../Page/HOLD_ME.md "wikilink")〜[ZARD
-    BEST 〜Request
-    Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")）
+  - 專輯連續破百萬：連續9張（歴代1位）（[HOLD
+    ME](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")〜[ZARD BEST
+    〜Request
+    Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")）
   - 專輯1位獲得数：11作（女性歌手1位和[DREAMS COME
     TRUE並列](../Page/DREAMS_COME_TRUE.md "wikilink")）
 
@@ -87,7 +89,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 ## 演唱会
 
   - “Cruising &
-    Live”，在一条行驶于[太平洋的客船上召开](../Page/太平洋.md "wikilink")。但此次演唱会的门票并不公开贩卖，只有600名幸运的歌迷被抽中（在《ZARD
+    Live”，在一条行驶于[太平洋的客船上召开](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。但此次演唱会的门票并不公开贩卖，只有600名幸运的歌迷被抽中（在《ZARD
     BEST The Single
     Collection～～》专辑中有申请表格，据传投寄的申请表格超过二百万份），得以参加ZARD的首场演唱会。
 
@@ -96,20 +98,20 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
   - “[What a beautiful
     moment](../Page/What_a_beautiful_moment.md "wikilink")”的日本巡回演出。此次巡回共在日本的9个地方进行了11场演出（地点列表见下），当时每场演唱会的门票都被销售一空。
 
-|               |                                      |
-| ------------- | ------------------------------------ |
-| 公演日           | 会场                                   |
-| 2004年3月2日（二）  | 大阪Festival Hall                      |
-| 2004年3月8日（一）  | 东京国际Forum Hall A                     |
-| 2004年3月9日（二）  | 东京国际Forum Hall A                     |
-| 2004年4月5日（一）  | 神户国际会馆                               |
-| 2004年4月8日（四）  | Pacifco横浜国立大Hall                     |
-| 2004年4月30日（五） | 大阪Festival Hall                      |
-| 2004年5月8日（六）  | 青森市文化会馆                              |
-| 2004年5月10日（一） | 仙台Sunplaza Hall                      |
-| 2004年6月2日（三）  | 名古屋Century Hall                      |
-| 2004年6月11日（五） | 福岡Sunpalace                          |
-| 2004年7月23日（五） | [日本武道馆](../Page/日本武道馆.md "wikilink") |
+|               |                                                         |
+| ------------- | ------------------------------------------------------- |
+| 公演日           | 会场                                                      |
+| 2004年3月2日（二）  | 大阪Festival Hall                                         |
+| 2004年3月8日（一）  | 东京国际Forum Hall A                                        |
+| 2004年3月9日（二）  | 东京国际Forum Hall A                                        |
+| 2004年4月5日（一）  | 神户国际会馆                                                  |
+| 2004年4月8日（四）  | Pacifco横浜国立大Hall                                        |
+| 2004年4月30日（五） | 大阪Festival Hall                                         |
+| 2004年5月8日（六）  | 青森市文化会馆                                                 |
+| 2004年5月10日（一） | 仙台Sunplaza Hall                                         |
+| 2004年6月2日（三）  | 名古屋Century Hall                                         |
+| 2004年6月11日（五） | 福岡Sunpalace                                             |
+| 2004年7月23日（五） | [日本武道馆](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink") |
 
 ### 追悼會
 
@@ -118,61 +120,61 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
     a beautiful
     moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
-|               |                                      |
-| ------------- | ------------------------------------ |
-| 公演日           | 会场                                   |
-| 2007年9月6日（四）  | 大阪Festival Hall                      |
-| 2007年9月7日（五）  | 大阪Festival Hall                      |
-| 2007年9月14日（五） | [日本武道馆](../Page/日本武道馆.md "wikilink") |
-| 2008年1月19日（六） | 神戶國際會館                               |
-| 2008年2月2日（六）  | Pacifco横浜国立大Hall                     |
-| 2008年2月10日（日） | イズミティ21                              |
-| 2008年2月24日（日） | 札幌市教育文化會館                            |
-| 2008年3月8日（六）  | 石川厚生年金會館                             |
-| 2008年3月15日（六） | 愛知厚生年金會館                             |
-| 2008年3月22日（六） | 新潟縣民會館                               |
-| 2008年4月5日（六）  | サンポートホール高松（大ホール）                     |
-| 2008年4月28日（一） | 福岡市民會館                               |
-| 2008年5月3日（六）  | 広島アステールプラザ                           |
-| 2008年5月4日（日）  | 愛媛縣縣民文化會館                            |
-| 2008年5月23日（五） | 堂島リバーフォーラム                           |
-| 2008年5月24日（六） | 堂島リバーフォーラム                           |
-| 2008年5月25日（日） | 堂島リバーフォーラム                           |
-| 2008年5月27日（二） | 國立代代木競技場　第一體育館                       |
+|               |                                                         |
+| ------------- | ------------------------------------------------------- |
+| 公演日           | 会场                                                      |
+| 2007年9月6日（四）  | 大阪Festival Hall                                         |
+| 2007年9月7日（五）  | 大阪Festival Hall                                         |
+| 2007年9月14日（五） | [日本武道馆](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink") |
+| 2008年1月19日（六） | 神戶國際會館                                                  |
+| 2008年2月2日（六）  | Pacifco横浜国立大Hall                                        |
+| 2008年2月10日（日） | イズミティ21                                                 |
+| 2008年2月24日（日） | 札幌市教育文化會館                                               |
+| 2008年3月8日（六）  | 石川厚生年金會館                                                |
+| 2008年3月15日（六） | 愛知厚生年金會館                                                |
+| 2008年3月22日（六） | 新潟縣民會館                                                  |
+| 2008年4月5日（六）  | サンポートホール高松（大ホール）                                        |
+| 2008年4月28日（一） | 福岡市民會館                                                  |
+| 2008年5月3日（六）  | 広島アステールプラザ                                              |
+| 2008年5月4日（日）  | 愛媛縣縣民文化會館                                               |
+| 2008年5月23日（五） | 堂島リバーフォーラム                                              |
+| 2008年5月24日（六） | 堂島リバーフォーラム                                              |
+| 2008年5月25日（日） | 堂島リバーフォーラム                                              |
+| 2008年5月27日（二） | 國立代代木競技場　第一體育館                                          |
 
   - “What a beautiful memory
     2009”以[坂井泉水歌聲](../Page/坂井泉水.md "wikilink")、未曾公開的影像及參加2004年ZARD[What
     a beautiful
     moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
-|               |                                      |
-| ------------- | ------------------------------------ |
-| 公演日           | 会场                                   |
-| 2009年5月15日（五） | 堂島リバーフォーラム                           |
-| 2009年5月16日（六） | 堂島リバーフォーラム                           |
-| 2009年5月27日（三） | [日本武道馆](../Page/日本武道馆.md "wikilink") |
+|               |                                                         |
+| ------------- | ------------------------------------------------------- |
+| 公演日           | 会场                                                      |
+| 2009年5月15日（五） | 堂島リバーフォーラム                                              |
+| 2009年5月16日（六） | 堂島リバーフォーラム                                              |
+| 2009年5月27日（三） | [日本武道馆](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink") |
 
   - “What a beautiful memory \~forever
     you\~”以[坂井泉水歌聲](../Page/坂井泉水.md "wikilink")、未曾公開的影像及參加2004年ZARD[What
     a beautiful
     moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
-|            |                                      |
-| ---------- | ------------------------------------ |
-| 公演日        | 会场                                   |
-| 2011年5月27日 | [日本武道馆](../Page/日本武道馆.md "wikilink") |
-| 2011年5月29日 | グランキューブ大阪                            |
+|            |                                                         |
+| ---------- | ------------------------------------------------------- |
+| 公演日        | 会场                                                      |
+| 2011年5月27日 | [日本武道馆](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink") |
+| 2011年5月29日 | グランキューブ大阪                                               |
 
   - “ZARD Forever Best ～25th
     Anniversary～”以[坂井泉水歌聲](../Page/坂井泉水.md "wikilink")、未曾公開的影像及參加2004年ZARD[What
     a beautiful
     moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
-|               |                                                                          |
-| ------------- | ------------------------------------------------------------------------ |
-| 公演日           | 会场                                                                       |
-| 2016年5月21日    | [大阪・オリックス劇場](../Page/大阪・オリックス劇場.md "wikilink")                           |
-| 2016年5月26、27日 | [東京・TOKYO DOME CITY HALL](../Page/東京・TOKYO_DOME_CITY_HALL.md "wikilink") |
+|               |                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------- |
+| 公演日           | 会场                                                                                          |
+| 2016年5月21日    | [大阪・オリックス劇場](https://zh.wikipedia.org/wiki/大阪・オリックス劇場 "wikilink")                           |
+| 2016年5月26、27日 | [東京・TOKYO DOME CITY HALL](https://zh.wikipedia.org/wiki/東京・TOKYO_DOME_CITY_HALL "wikilink") |
 
 ## 年譜
 
@@ -187,24 +189,26 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
         Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")』登場,最高第9位。
       - 3月27日 首張同名Album『[Good-bye My
         Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")』登場。
-      - 6月25日 2nd Single『[不思議ね…](../Page/不思議ね….md "wikilink")』登場。
+      - 6月25日 2nd
+        Single『[不思議ね…](https://zh.wikipedia.org/wiki/不思議ね… "wikilink")』登場。
       - 11月3日
-        [東海大学](../Page/東海大學_\(日本\).md "wikilink")[開発工学部第](../Page/開発工学部.md "wikilink")1回
+        [東海大学](../Page/東海大學_\(日本\).md "wikilink")[開発工学部第](https://zh.wikipedia.org/wiki/開発工学部 "wikilink")1回
         愛鷹祭（沼津校舎学園祭）初次現場演出。
-      - 11月6日 3rd Single『[もう探さない](../Page/もう探さない.md "wikilink")』登場。
+      - 11月6日 3rd
+        Single『[もう探さない](https://zh.wikipedia.org/wiki/もう探さない "wikilink")』登場。
       - 12月25日 2nd
-        Album『[もう探さない](../Page/もう探さない_\(アルバム\).md "wikilink")』登場。同時町田文人、星弘泰、道倉康介及池澤公隆正式加入。
+        Album『[もう探さない](https://zh.wikipedia.org/wiki/もう探さない_\(アルバム\) "wikilink")』登場。同時町田文人、星弘泰、道倉康介及池澤公隆正式加入。
   - **1992年**
       - 3月 第6回[日本金唱片大獎得到](../Page/日本金唱片大獎.md "wikilink")「THE BEST 5 NEW
         ARTIST OF THE YEAR」。
       - 8月5日 4th
-        Single『[眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")』登場。由此奠下基礎，至到45th
-        Single『[素直に言えなくて](../Page/素直に言えなくて.md "wikilink")』全部都能打入TOP10。
+        Single『[眠れない夜を抱いて](https://zh.wikipedia.org/wiki/眠れない夜を抱いて "wikilink")』登場。由此奠下基礎，至到45th
+        Single『[素直に言えなくて](https://zh.wikipedia.org/wiki/素直に言えなくて "wikilink")』全部都能打入TOP10。
       - 8月7日 朝日電視台系音樂節目『[MUSIC
-        STATION](../Page/MUSIC_STATION.md "wikilink")』初次電視演出。演唱「[眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")」。
+        STATION](../Page/MUSIC_STATION.md "wikilink")』初次電視演出。演唱「[眠れない夜を抱いて](https://zh.wikipedia.org/wiki/眠れない夜を抱いて "wikilink")」。
       - 9月2日 3rd Album『[HOLD
-        ME](../Page/HOLD_ME.md "wikilink")』登場。首張能夠打入TOP10大碟，如果計入8th
-        Album『[永遠](../Page/永遠_\(アルバム\).md "wikilink")』，是連續5張Album都能夠賣出100萬張的驕人成績。
+        ME](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")』登場。首張能夠打入TOP10大碟，如果計入8th
+        Album『[永遠](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』，是連續5張Album都能夠賣出100萬張的驕人成績。
       - 9月9日、5th Single『[IN MY ARMS
         TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")』登場。
   - **1993年**
@@ -213,179 +217,190 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
     <!-- end list -->
       - 2月5日 參加朝日電視台系音樂節目『[MUSIC
         STATION](../Page/MUSIC_STATION.md "wikilink")』演唱『[別認輸](../Page/別認輸.md "wikilink")』，同時宣佈最後一次上音樂節目,亦是最後一次在電視螢幕露面。
-      - 4月21日 7th Single『[君がいない](../Page/君がいない.md "wikilink")』登場。
+      - 4月21日 7th
+        Single『[君がいない](https://zh.wikipedia.org/wiki/君がいない "wikilink")』登場。
       - 5月19日 8th
         Single『[搖擺的想念](../Page/搖擺的想念.md "wikilink")』登場。連續2週第1位，賣上100萬張記録。全年第9位。
       - 6月9日
-        以【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](../Page/REV.md "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
+        以【[ZYYG](https://zh.wikipedia.org/wiki/ZYYG "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
         featuring
-        [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】名義唱出單曲『[果てしない夢を](../Page/果てしない夢を.md "wikilink")』。
+        [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】名義唱出單曲『[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")』。
       - 7月10日 4th
-        Album『[揺れる想い](../Page/揺れる想い.md "wikilink")』登場。第一次獲得第1位（總計5週）。全年第1位。
+        Album『[揺れる想い](https://zh.wikipedia.org/wiki/揺れる想い "wikilink")』登場。第一次獲得第1位（總計5週）。全年第1位。
       - 9月4日 9th Single『[もう少し
-        あと少し…](../Page/もう少し_あと少し….md "wikilink")』登場。
+        あと少し…](https://zh.wikipedia.org/wiki/もう少し_あと少し… "wikilink")』登場。
       - 11月3日 10th
-        Single『[きっと忘れない](../Page/きっと忘れない.md "wikilink")』登場。初登場第1位。
+        Single『[きっと忘れない](https://zh.wikipedia.org/wiki/きっと忘れない "wikilink")』登場。初登場第1位。
   - **1994年**
       - 2月2日 11th
-        Single「[この愛に泳ぎ疲れても・Boy](../Page/この愛に泳ぎ疲れても・Boy.md "wikilink")」登場。
-      - 3月 「[負けないで](../Page/負けないで.md "wikilink")」被選為1994年全日本春の選抜高校野球主題曲。
+        Single「[この愛に泳ぎ疲れても・Boy](https://zh.wikipedia.org/wiki/この愛に泳ぎ疲れても・Boy "wikilink")」登場。
+      - 3月
+        「[負けないで](https://zh.wikipedia.org/wiki/負けないで "wikilink")」被選為1994年全日本春の選抜高校野球主題曲。
       - 6月4日、5th Album『[OH MY
-        LOVE](../Page/OH_MY_LOVE.md "wikilink")』登場。賣出200萬張以上。全年第5位。
+        LOVE](https://zh.wikipedia.org/wiki/OH_MY_LOVE "wikilink")』登場。賣出200萬張以上。全年第5位。
       - 8月8日、12th
-        Single『[こんなにそばに居るのに](../Page/こんなにそばに居るのに.md "wikilink")』登場。第一次獲得第1位。
+        Single『[こんなにそばに居るのに](https://zh.wikipedia.org/wiki/こんなにそばに居るのに "wikilink")』登場。第一次獲得第1位。
       - 12月24日、13th
-        Single『[あなたを感じていたい](../Page/あなたを感じていたい.md "wikilink")』登場。
+        Single『[あなたを感じていたい](https://zh.wikipedia.org/wiki/あなたを感じていたい "wikilink")』登場。
   - **1995年**
       - 2月1日 14th Single『[Just believe in
-        love](../Page/Just_believe_in_love.md "wikilink")』登場。
+        love](https://zh.wikipedia.org/wiki/Just_believe_in_love "wikilink")』登場。
       - 3月10日 6th Album『[forever
-        you](../Page/forever_you_\(アルバム\).md "wikilink")』登場。全年第4位。
-      - 6月5日 15th Single『[愛が見えない](../Page/愛が見えない.md "wikilink")』登場。
+        you](https://zh.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")』登場。全年第4位。
+      - 6月5日 15th
+        Single『[愛が見えない](https://zh.wikipedia.org/wiki/愛が見えない "wikilink")』登場。
       - 8月28日 16th
-        Single『[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")』登場。初登場第1位。副歌「眠り」由坂井泉水作曲。
+        Single『[サヨナラは今もこの胸に居ます](https://zh.wikipedia.org/wiki/サヨナラは今もこの胸に居ます "wikilink")』登場。初登場第1位。副歌「眠り」由坂井泉水作曲。
       - 11月22日 與 栗林誠一郎 合作推出 『\[クリスマス タイム\]\]』(Christmas time)。
   - **1996年**
-      - 1月8日 17th Single『[マイフレンド](../Page/マイフレンド.md "wikilink")』登場。期後成為
+      - 1月8日 17th
+        Single『[マイフレンド](https://zh.wikipedia.org/wiki/マイフレンド "wikilink")』登場。期後成為
         男兒當入樽(台：灌籃高手) 之結尾曲。
-      - 5月6日 18th Single『[心を開いて](../Page/心を開いて.md "wikilink")』登場。初登場第1位。
+      - 5月6日 18th
+        Single『[心を開いて](https://zh.wikipedia.org/wiki/心を開いて "wikilink")』登場。初登場第1位。
       - 6月9日 再次與 栗林誠一郎 合作推出『[LOVE
-        ～眠れずに君の横顔ずっと見ていた～](../Page/LOVE_～眠れずに君の横顔ずっと見ていた～.md "wikilink")』。
+        ～眠れずに君の横顔ずっと見ていた～](https://zh.wikipedia.org/wiki/LOVE_～眠れずに君の横顔ずっと見ていた～ "wikilink")』。
       - 7月8日 7th Album『[TODAY IS ANOTHER
-        DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』登場。全年第12位。
+        DAY](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")』登場。全年第12位。
   - **1997年**
       -
-        這年的後半年『[負けないで](../Page/負けないで.md "wikilink")』被記載在高校的音樂教科書上。
+        這年的後半年『[負けないで](https://zh.wikipedia.org/wiki/負けないで "wikilink")』被記載在高校的音樂教科書上。
     <!-- end list -->
       - 1月6日 19th Single『[Don't you
-        see\!](../Page/Don't_you_see!.md "wikilink")』登場。初登場第1位。
+        see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")』登場。初登場第1位。
       - 2月26日 20th
-        Single『[君に逢いたくなったら…](../Page/君に逢いたくなったら….md "wikilink")』登場。
+        Single『[君に逢いたくなったら…](https://zh.wikipedia.org/wiki/君に逢いたくなったら… "wikilink")』登場。
       - 4月23日 精選專輯『[ZARD BLEND
-        〜SUN\&STONE〜](../Page/ZARD_BLEND_〜SUN&STONE〜.md "wikilink")』登場。賣上200萬隻記錄。全年第5位。
+        〜SUN\&STONE〜](https://zh.wikipedia.org/wiki/ZARD_BLEND_〜SUN&STONE〜 "wikilink")』登場。賣上200萬隻記錄。全年第5位。
       - 7月2日 21st
-        Single『[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")』登場。
+        Single『[風が通り抜ける街へ](https://zh.wikipedia.org/wiki/風が通り抜ける街へ "wikilink")』登場。
       - 8月20日 22nd
-        Single『[永遠](../Page/永遠_\(ZARDの曲\).md "wikilink")』登場。初登場第1位。此單曲亦是日本電視台電視劇「[失楽園](../Page/失楽園_\(渡辺淳一\).md "wikilink")」主題歌，連續6星期打入TOP10。
+        Single『[永遠](https://zh.wikipedia.org/wiki/永遠_\(ZARDの曲\) "wikilink")』登場。初登場第1位。此單曲亦是日本電視台電視劇「[失楽園](https://zh.wikipedia.org/wiki/失楽園_\(渡辺淳一\) "wikilink")」主題歌，連續6星期打入TOP10。
       - 12月3日 23rd Single『[My Baby Grand
-        〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")』登場。
+        〜ぬくもりが欲しくて〜](https://zh.wikipedia.org/wiki/My_Baby_Grand_〜ぬくもりが欲しくて〜 "wikilink")』登場。
   - **1998年**
-      - 3月4日 24th Single『[息もできない](../Page/息もできない.md "wikilink")』登場。
+      - 3月4日 24th
+        Single『[息もできない](https://zh.wikipedia.org/wiki/息もできない "wikilink")』登場。
       - 9月17日 25th
-        Single『[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")』登場。初登場第1位。
+        Single『[運命のルーレット廻して](https://zh.wikipedia.org/wiki/運命のルーレット廻して "wikilink")』登場。初登場第1位。
       - 12月2日 26th
-        Single『[新しいドア〜冬のひまわり〜](../Page/新しいドア〜冬のひまわり〜.md "wikilink")』、27th
-        Single『[GOOD DAY](../Page/GOOD_DAY.md "wikilink")』同時登場。
+        Single『[新しいドア〜冬のひまわり〜](https://zh.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")』、27th
+        Single『[GOOD
+        DAY](https://zh.wikipedia.org/wiki/GOOD_DAY "wikilink")』同時登場。
   - **1999年**
       - 4月7日 28th Single『[Mind
-        Games](../Page/Mind_Games.md "wikilink")』登場。
+        Games](https://zh.wikipedia.org/wiki/Mind_Games "wikilink")』登場。
       - 5月28日 精選專輯『[ZARD BEST The Single Collection
-        〜軌跡〜](../Page/ZARD_BEST_The_Single_Collection_〜軌跡〜.md "wikilink")』登場。初登場即時賣出100萬張以上的輝煌成績，累積合共賣出300萬張、Oricon全年大碟榜年間第2位、歴代第19位。此外，寄回專輯中的明信片參加抽獎，共600位幸運歌迷獲招待上郵輪，參與ZARD船上演唱會。超過100萬人參與這次抽選。同年Fans
+        〜軌跡〜](https://zh.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』登場。初登場即時賣出100萬張以上的輝煌成績，累積合共賣出300萬張、Oricon全年大碟榜年間第2位、歴代第19位。此外，寄回專輯中的明信片參加抽獎，共600位幸運歌迷獲招待上郵輪，參與ZARD船上演唱會。超過100萬人參與這次抽選。同年Fans
         Club「WEZARD」正式成立。
       - 6月16日 29th
-        Single『[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")』登場。
+        Single『[世界はきっと未来の中](https://zh.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")』登場。
       - 8月31日 600位歌迷在郵輪「太平洋維納斯號」上參與ZARD首次演唱會，共演唱14曲。
       - 9月15日 精選專輯『[ZARD BEST 〜Request
-        Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』登場。全年第14位。
+        Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")』登場。全年第14位。
       - 10月14日 30th
-        Single『[痛いくらい君があふれているよ](../Page/痛いくらい君があふれているよ.md "wikilink")』登場。這亦是最後一隻8cm
+        Single『[痛いくらい君があふれているよ](https://zh.wikipedia.org/wiki/痛いくらい君があふれているよ "wikilink")』登場。這亦是最後一隻8cm
         Single。
-      - 12月1日 31st Single『[この涙 星になれ](../Page/この涙_星になれ.md "wikilink")』登場。
+      - 12月1日 31st Single『[この涙
+        星になれ](https://zh.wikipedia.org/wiki/この涙_星になれ "wikilink")』登場。
   - **2000年**
       - 1月26日 現場錄音Album『[ZARD Cruising & Live
-        〜限定盤ライヴCD〜](../Page/ZARD_Cruising_&_Live_〜限定盤ライヴCD〜.md "wikilink")』登場。限定發行30萬張。
-      - 3月 第14回日本金唱片大獎、大碟『[永遠](../Page/永遠_\(アルバム\).md "wikilink")』『[ZARD
+        〜限定盤ライヴCD〜](https://zh.wikipedia.org/wiki/ZARD_Cruising_&_Live_〜限定盤ライヴCD〜 "wikilink")』登場。限定發行30萬張。
+      - 3月
+        第14回日本金唱片大獎、大碟『[永遠](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』『[ZARD
         BEST The Single Collection
-        〜軌跡〜](../Page/ZARD_BEST_The_Single_Collection_〜軌跡〜.md "wikilink")』『[ZARD
+        〜軌跡〜](https://zh.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』『[ZARD
         BEST 〜Request
-        Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』得獎，是首次同一時間三張唱片同時個獎。
+        Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")』得獎，是首次同一時間三張唱片同時個獎。
       - 9月6日 32nd Single『[Get U're
-        Dream](../Page/Get_U're_Dream.md "wikilink")』登場。這首歌同時亦是[NHK](../Page/日本放送協会.md "wikilink")2000年悉尼奧運會打氣歌，賣出24萬張以上成績。
+        Dream](https://zh.wikipedia.org/wiki/Get_U're_Dream "wikilink")』登場。這首歌同時亦是[NHK](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")2000年悉尼奧運會打氣歌，賣出24萬張以上成績。
       - 11月15日 33rd Single『[promised
-        you](../Page/promised_you.md "wikilink")』登場。
+        you](https://zh.wikipedia.org/wiki/promised_you "wikilink")』登場。
   - **2001年**
       -
         出道10周年。同年後半年坂井泉水因為身體不適，休養接近一年，這一年間沒有創作音樂。
     <!-- end list -->
       - 2月15日 興祝出道10周年記念9th
-        Album『[時間の翼](../Page/時間の翼.md "wikilink")』登場。這亦是最後一張能夠打入Oricon大碟榜第一位的大碟。
+        Album『[時間の翼](https://zh.wikipedia.org/wiki/時間の翼 "wikilink")』登場。這亦是最後一張能夠打入Oricon大碟榜第一位的大碟。
       - 11月21日 精選專輯『[ZARD BLEND II
-        〜LEAF\&SNOW〜](../Page/ZARD_BLEND_II_〜LEAF&SNOW〜.md "wikilink")』登場。
+        〜LEAF\&SNOW〜](https://zh.wikipedia.org/wiki/ZARD_BLEND_II_〜LEAF&SNOW〜 "wikilink")』登場。
   - **2002年**
       -
         2002年，被稱為ZARD的第二章開始了，復出之後推出第34張單曲。
     <!-- end list -->
       - ?月??日 原定推出單曲專輯『約束のない恋』，可是最終不知什麼原因而沒有推出，最終2004年加至精選集中限量附送。
       - 5月22日 34th
-        Single『[さわやかな君の気持ち](../Page/さわやかな君の気持ち.md "wikilink")』登場。
+        Single『[さわやかな君の気持ち](https://zh.wikipedia.org/wiki/さわやかな君の気持ち "wikilink")』登場。
       - 5月尾 Fans Club WEZARD連同B-TOWN發售限定Single Box Set『ZARD PREMIUM BOX
         1991-2001 SINGLE COLLECTION』。
   - **2003年**
       - 3月27日 參加大阪[hills
-        パン工場的THURSDAY](../Page/hills_パン工場.md "wikilink")
-        LIVE現場演出，與[滴草由実一同演出兩首歌曲](../Page/滴草由実.md "wikilink")。
+        パン工場的THURSDAY](https://zh.wikipedia.org/wiki/hills_パン工場 "wikilink")
+        LIVE現場演出，與[滴草由実一同演出兩首歌曲](https://zh.wikipedia.org/wiki/滴草由実 "wikilink")。
       - 4月9日 35th
-        Single『[明日を夢見て](../Page/明日を夢見て_\(曲\).md "wikilink")』登場。
-      - 7月9日 36th Single『[瞳閉じて](../Page/瞳閉じて.md "wikilink")』登場。
-      - 8月27日 以【[TAK MATSUMOTO](../Page/TAK_MATSUMOTO.md "wikilink")
+        Single『[明日を夢見て](https://zh.wikipedia.org/wiki/明日を夢見て_\(曲\) "wikilink")』登場。
+      - 7月9日 36th
+        Single『[瞳閉じて](https://zh.wikipedia.org/wiki/瞳閉じて "wikilink")』登場。
+      - 8月27日 以【[TAK
+        MATSUMOTO](https://zh.wikipedia.org/wiki/TAK_MATSUMOTO "wikilink")
         featuring
-        ZARD】名義唱出久保田早紀名曲『[異邦人](../Page/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\).md "wikilink")』。
+        ZARD】名義唱出久保田早紀名曲『[異邦人](https://zh.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\) "wikilink")』。
       - 11月12日 37th
-        Single『[もっと近くで君の横顔見ていたい](../Page/もっと近くで君の横顔見ていたい.md "wikilink")』登場。
+        Single『[もっと近くで君の横顔見ていたい](https://zh.wikipedia.org/wiki/もっと近くで君の横顔見ていたい "wikilink")』登場。
   - **2004年**
       - 1月28日 10th
-        Album『[止まっていた時計が今動き出した](../Page/止まっていた時計が今動き出した.md "wikilink")』登場。未能再次連續登上大碟榜第1位。
+        Album『[止まっていた時計が今動き出した](https://zh.wikipedia.org/wiki/止まっていた時計が今動き出した "wikilink")』登場。未能再次連續登上大碟榜第1位。
       - 3月2日 初次全國巡迴演出『What a beautiful moment
         Tour』。原定只演出3場，但因反應熱烈開賣3分鐘內火速售罄，唱片公司於是加開全國9個地方11場公演。最後一場7月23日在[日本武道館完滿落幕](../Page/日本武道館.md "wikilink")，這11場演出亦成為ZARD唯一一次巡迴演唱會。
       - 6月23日 38th
-        Single『[かけがえのないもの](../Page/かけがえのないもの.md "wikilink")』登場。演唱會期間亦一道被告知。
+        Single『[かけがえのないもの](https://zh.wikipedia.org/wiki/かけがえのないもの "wikilink")』登場。演唱會期間亦一道被告知。
       - 11月24日 39th
-        Single『[今日はゆっくり話そう](../Page/今日はゆっくり話そう.md "wikilink")』登場。
+        Single『[今日はゆっくり話そう](https://zh.wikipedia.org/wiki/今日はゆっくり話そう "wikilink")』登場。
   - **2005年**
       - 4月20日 40th
-        Single『[星のかがやきよ/夏を待つセイル(帆)のように](../Page/星のかがやきよ/夏を待つセイル\(帆\)のように.md "wikilink")』登場。出道11年來首張雙A面Single。亦是自29th
-        Single『[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")』5年以來再次打入TOP3。
+        Single『[星のかがやきよ/夏を待つセイル(帆)のように](https://zh.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")』登場。出道11年來首張雙A面Single。亦是自29th
+        Single『[世界はきっと未来の中](https://zh.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")』5年以來再次打入TOP3。
       - 6月8日 首張演唱會DVD『[What a beautiful
         moment](../Page/What_a_beautiful_moment.md "wikilink")』登場。初次登場即獲得ORICON音楽・総合部門第1位。
       - 9月7日 11th
-        Album『[君とのDistance](../Page/君とのDistance.md "wikilink")』登場。
+        Album『[君とのDistance](https://zh.wikipedia.org/wiki/君とのDistance "wikilink")』登場。
   - **2006年**
       -
         出道15周年。
     <!-- end list -->
       - 3月8日 41st
-        Single『[悲しいほど貴方が好き/カラッといこう\!](../Page/悲しいほど貴方が好き/カラッといこう!.md "wikilink")』登場。
+        Single『[悲しいほど貴方が好き/カラッといこう\!](https://zh.wikipedia.org/wiki/悲しいほど貴方が好き/カラッといこう! "wikilink")』登場。
       - 5月10日 42nd
-        Single『[ハートに火をつけて](../Page/ハートに火をつけて_\(ZARDの曲\).md "wikilink")』登場。副歌「君へのブルース」由坂井泉水作曲。
+        Single『[ハートに火をつけて](https://zh.wikipedia.org/wiki/ハートに火をつけて_\(ZARDの曲\) "wikilink")』登場。副歌「君へのブルース」由坂井泉水作曲。
       - 6月 被診斷出患有子宮頸癌。
       - 10月25日 精選專輯『[Golden Best 〜15th
-        Anniversary〜](../Page/Golden_Best_〜15th_Anniversary〜.md "wikilink")』登場。經過5年8個月時間再一次登上第1位。2006年間全年第26位、2007年間全年第19位。
+        Anniversary〜](https://zh.wikipedia.org/wiki/Golden_Best_〜15th_Anniversary〜 "wikilink")』登場。經過5年8個月時間再一次登上第1位。2006年間全年第26位、2007年間全年第19位。
       - 10月25日 出道至今PV集DVD『[ZARD Le Portfolio
-        1991-2006](../Page/ZARD_Le_Portfolio_1991-2006.md "wikilink")』登場。初次登場即獲得第1位。2006年間全年音樂DVD部門17位、2007年間全年音樂DVD部門第16位。歴代音樂DVD第46位。
+        1991-2006](https://zh.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")』登場。初次登場即獲得第1位。2006年間全年音樂DVD部門17位、2007年間全年音樂DVD部門第16位。歴代音樂DVD第46位。
   - **2007年**
       - 4月 發現癌細胞擴散至肺部，坂井再度入院治療。
       - 5月26日
         頭部受到嚴重的撞擊，急救一天後坂井還是在5月27日下午3點10分身亡。（詳細請參考[坂井泉水](../Page/坂井泉水.md "wikilink")）。
       - 8月15日 坂井泉水生前所挑選精選專輯『[Soffio di vento 〜Best of IZUMI SAKAI
-        Selection〜](../Page/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜.md "wikilink")』、以及由樂迷所挑選精選專輯『[Brezza
+        Selection〜](https://zh.wikipedia.org/wiki/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜 "wikilink")』、以及由樂迷所挑選精選專輯『[Brezza
         di mare 〜dedicated to IZUMI
-        SAKAI〜](../Page/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜.md "wikilink")』登場，回憶錄『きっと忘れない』亦同時發表。
+        SAKAI〜](https://zh.wikipedia.org/wiki/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜 "wikilink")』登場，回憶錄『きっと忘れない』亦同時發表。
       - 9月6日－7日 追悼演唱會「What a beautiful memory」大阪站在大阪Festival Hall舉行。
       - 9月14日 追悼演唱會「What a beautiful
         memory」東京站[日本武道館舉行](../Page/日本武道館.md "wikilink")。
       - 12月12日 43th Album『[グロリアス
-        マインド](../Page/グロリアス_マインド.md "wikilink")』登場。
+        マインド](https://zh.wikipedia.org/wiki/グロリアス_マインド "wikilink")』登場。
   - **2008年**
       - 1月23日 原本預定2007年秋發表但延期多時的精選專輯『[ZARD Request Best 〜beautiful
-        memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』登場。初次登場即獲得第1位。
+        memory〜](https://zh.wikipedia.org/wiki/ZARD_Request_Best_〜beautiful_memory〜 "wikilink")』登場。初次登場即獲得第1位。
       - 4月9日 44th
-        Single『[翼を広げて/愛は暗闇の中で](../Page/翼を広げて/愛は暗闇の中で.md "wikilink")』登場。
+        Single『[翼を広げて/愛は暗闇の中で](https://zh.wikipedia.org/wiki/翼を広げて/愛は暗闇の中で "wikilink")』登場。
   - **2009年**
       - 5月15日－5月16日 2週年追悼演唱會「What a beautiful memory
         2009」大阪站在大阪堂島リバーフォーラム舉行，表演嘉賓[中村由利](../Page/中村由利.md "wikilink")（[GARNET
         CROW](../Page/GARNET_CROW.md "wikilink")）、[羽田裕美](../Page/羽田裕美.md "wikilink")。
       - 5月27日 2週年追悼演唱會「What a beautiful memory
-        2009」東京站日本武道館舉行，表演嘉賓[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[池森秀一](../Page/池森秀一.md "wikilink")（[DEEN](../Page/DEEN.md "wikilink")）、[羽田裕美](../Page/羽田裕美.md "wikilink")。
+        2009」東京站日本武道館舉行，表演嘉賓[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink")（[DEEN](../Page/DEEN.md "wikilink")）、[羽田裕美](../Page/羽田裕美.md "wikilink")。
       - 5月27日 同日，45th Single「素直に言えなくて」發行。這是ZARD至今最後一張單曲。
   - **2010年**
       - 6月30日 ZARD相關企劃商品『Feeling ZARD orgel Collection vol.1 ～揺れる想い～』發售。
@@ -397,7 +412,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
   - **2011年**
       - 2月10日包含c/w曲之全單曲歌曲以及企劃合作單曲共100首歌的出道20周年紀念單曲全輯『[ZARD Single
         Collection 〜20TH
-        ANNIVERSARY〜](../Page/ZARD_Single_Collection_〜20TH_ANNIVERSARY〜.md "wikilink")』發售預定。
+        ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ZARD_Single_Collection_〜20TH_ANNIVERSARY〜 "wikilink")』發售預定。
       - 4月13日 追悼演唱會DVD「What a beautiful memory 2007 」、「What a beautiful
         memory 2008 」及「What a beautiful memory 2009
         」發售。最高分別第16位、第18位及第15位。
@@ -472,7 +487,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1991年6月25日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/真是不可思議呀....md" title="wikilink">真是不可思議呀...</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/真是不可思議呀..." title="wikilink">真是不可思議呀...</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：明石昌夫</small></p></td>
@@ -482,7 +497,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1991年11月6日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/不再尋找.md" title="wikilink">不再尋找</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/不再尋找" title="wikilink">不再尋找</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：明石昌夫</small></p></td>
@@ -492,7 +507,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1992年8月5日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/擁抱無法成眠的夜.md" title="wikilink">擁抱無法成眠的夜</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/擁抱無法成眠的夜" title="wikilink">擁抱無法成眠的夜</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：明石昌夫·池田大介</small></p></td>
@@ -522,7 +537,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1993年4月21日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/你不在.md" title="wikilink">你不在</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/你不在" title="wikilink">你不在</a></strong><br />
 </p></td>
 <td><p><small>作曲：栗林誠一郎<br />
 編曲：明石昌夫</small></p></td>
@@ -542,7 +557,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1993年9月4日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/再多些_再多一些....md" title="wikilink">再多些 再多一些...</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/再多些_再多一些..." title="wikilink">再多些 再多一些...</a></strong><br />
 </p></td>
 <td><p><small>作曲：栗林誠一郎<br />
 編曲：明石昌夫</small></p></td>
@@ -552,7 +567,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1993年11月3日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/肯定無法忘懷.md" title="wikilink">肯定無法忘懷</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/肯定無法忘懷" title="wikilink">肯定無法忘懷</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：明石昌夫</small></p></td>
@@ -562,7 +577,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1994年2月2日</small></p></td>
 <td><p><strong>／Boy</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/即使悠游在愛裡疲憊不堪／Boy.md" title="wikilink">即使悠游在愛裡疲憊不堪／Boy</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/即使悠游在愛裡疲憊不堪／Boy" title="wikilink">即使悠游在愛裡疲憊不堪／Boy</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎（この愛〜）<br />
 作曲：栗林誠一郎（Boy）<br />
@@ -573,7 +588,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1994年8月6日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/明明離你那麼的近.md" title="wikilink">明明離你那麼的近</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/明明離你那麼的近" title="wikilink">明明離你那麼的近</a></strong><br />
 </p></td>
 <td><p><small>作曲：栗林誠一郎<br />
 編曲：明石昌夫</small></p></td>
@@ -583,7 +598,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1994年12月24日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/好想感受你的存在.md" title="wikilink">好想感受你的存在</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/好想感受你的存在" title="wikilink">好想感受你的存在</a></strong><br />
 </p></td>
 <td><p><small>作曲·編曲：織田哲郎</small></p></td>
 </tr>
@@ -592,7 +607,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1995年2月1日</small></p></td>
 <td><p><strong>Just believe in love</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/Just_believe_in_love.md" title="wikilink">Just believe in love</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Just_believe_in_love" title="wikilink">Just believe in love</a></strong><br />
 </p></td>
 <td><p><small>作曲：春畑道哉<br />
 編曲：葉山たけし</small></p></td>
@@ -602,7 +617,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1995年6月5日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/看不見愛.md" title="wikilink">看不見愛</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/看不見愛" title="wikilink">看不見愛</a></strong><br />
 </p></td>
 <td><p><small>作曲：小澤正澄<br />
 編曲：葉山たけし</small></p></td>
@@ -612,7 +627,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1995年8月28日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/道別至今仍在這心中.md" title="wikilink">道別至今仍在這心中</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/道別至今仍在這心中" title="wikilink">道別至今仍在這心中</a></strong><br />
 </p></td>
 <td><p><small>作曲：栗林誠一郎<br />
 編曲：葉山たけし</small></p></td>
@@ -632,7 +647,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1996年5月6日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/敞開心扉.md" title="wikilink">敞開心扉</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/敞開心扉" title="wikilink">敞開心扉</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：池田大介</small></p></td>
@@ -642,7 +657,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1997年1月6日</small></p></td>
 <td><p><strong>Don't you see!</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/Don&#39;t_you_see!.md" title="wikilink">Don't you see!</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Don&#39;t_you_see!" title="wikilink">Don't you see!</a></strong><br />
 </p></td>
 <td><p><small>作曲：栗林誠一郎<br />
 編曲：葉山たけし</small></p></td>
@@ -652,7 +667,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1997年2月26日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/每當想見你的時候....md" title="wikilink">每當想見你的時候...</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/每當想見你的時候..." title="wikilink">每當想見你的時候...</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：葉山たけし</small></p></td>
@@ -662,7 +677,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1997年7月2日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/前往風兒穿越的街道.md" title="wikilink">前往風兒穿越的街道</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/前往風兒穿越的街道" title="wikilink">前往風兒穿越的街道</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：徳永暁人</small></p></td>
@@ -672,7 +687,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1997年8月20日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/永遠.md" title="wikilink">永遠</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/永遠" title="wikilink">永遠</a></strong><br />
 </p></td>
 <td><p><small>作曲·編曲：徳永暁人</small></p></td>
 </tr>
@@ -681,7 +696,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1997年12月3日</small></p></td>
 <td><p><strong>My Baby Grand～～</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/My_Baby_Grand～期待那溫存～.md" title="wikilink">My Baby Grand～期待那溫存～</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/My_Baby_Grand～期待那溫存～" title="wikilink">My Baby Grand～期待那溫存～</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：池田大介</small></p></td>
@@ -691,7 +706,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1998年3月4日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/連呼吸也不能.md" title="wikilink">連呼吸也不能</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/連呼吸也不能" title="wikilink">連呼吸也不能</a></strong><br />
 </p></td>
 <td><p><small>作曲：織田哲郎<br />
 編曲：葉山たけし</small></p></td>
@@ -711,7 +726,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1998年12月2日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/嶄新門扉～冬天的向日葵～.md" title="wikilink">嶄新門扉～冬天的向日葵～</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/嶄新門扉～冬天的向日葵～" title="wikilink">嶄新門扉～冬天的向日葵～</a></strong><br />
 </p></td>
 <td><p><small>作曲：北野正人<br />
 編曲：古井弘人</small></p></td>
@@ -721,7 +736,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1998年12月2日</small></p></td>
 <td><p><strong>GOOD DAY</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/GOOD_DAY.md" title="wikilink">GOOD DAY</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/GOOD_DAY" title="wikilink">GOOD DAY</a></strong><br />
 </p></td>
 <td><p><small>作曲：綿貫正顕<br />
 編曲：池田大介</small></p></td>
@@ -731,7 +746,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1999年4月7日</small></p></td>
 <td><p><strong>MIND GAMES</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/MIND_GAMES.md" title="wikilink">MIND GAMES</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/MIND_GAMES" title="wikilink">MIND GAMES</a></strong><br />
 </p></td>
 <td><p><small>作曲：綿貫正顕<br />
 編曲：綿貫正顕·古井弘人</small></p></td>
@@ -741,7 +756,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1999年6月16日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/世界必定會在未來之中.md" title="wikilink">世界必定會在未來之中</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/世界必定會在未來之中" title="wikilink">世界必定會在未來之中</a></strong><br />
 </p></td>
 <td><p><small>作曲：岩井勇一郎<br />
 編曲：徳永暁人·古井弘人·シオジリケンジ</small></p></td>
@@ -751,7 +766,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1999年10月14日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/想你想到滿腦子都是你的影子.md" title="wikilink">想你想到滿腦子都是你的影子</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/想你想到滿腦子都是你的影子" title="wikilink">想你想到滿腦子都是你的影子</a></strong><br />
 </p></td>
 <td><p><small>作曲·編曲：シオジリケンジ</small></p></td>
 </tr>
@@ -760,7 +775,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1999年12月1日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/這淚水將成為天上的星辰.md" title="wikilink">這淚水將成為天上的星辰</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/這淚水將成為天上的星辰" title="wikilink">這淚水將成為天上的星辰</a></strong><br />
 </p></td>
 <td><p><small>作曲：岩井勇一郎<br />
 編曲：古井弘人</small></p></td>
@@ -770,7 +785,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2000年9月6日</small></p></td>
 <td><p><strong>Get U're Dream</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/Get_U&#39;re_Dream.md" title="wikilink">Get U're Dream</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Get_U&#39;re_Dream" title="wikilink">Get U're Dream</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果<br />
 編曲：葉山たけし</small></p></td>
@@ -780,7 +795,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2000年11月15日</small></p></td>
 <td><p><strong>promised you</strong><br />
 </p></td>
-<td><p><strong><a href="../Page/promised_you.md" title="wikilink">promised you</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/promised_you" title="wikilink">promised you</a></strong><br />
 </p></td>
 <td><p><small>作曲：栗林誠一郎<br />
 編曲：Cybersound</small></p></td>
@@ -790,7 +805,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2002年5月22日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/瀟灑爽朗你的心情.md" title="wikilink">瀟灑爽朗你的心情</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/瀟灑爽朗你的心情" title="wikilink">瀟灑爽朗你的心情</a></strong><br />
 </p></td>
 <td><p><small>作曲·編曲：徳永暁人</small></p></td>
 </tr>
@@ -799,7 +814,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2003年4月9日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/夢見明日.md" title="wikilink">夢見明日</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/夢見明日" title="wikilink">夢見明日</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果<br />
 編曲：小林哲</small></p></td>
@@ -809,7 +824,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2003年7月9日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/閉上雙眼.md" title="wikilink">閉上雙眼</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/閉上雙眼" title="wikilink">閉上雙眼</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果<br />
 編曲：徳永暁人</small></p></td>
@@ -819,7 +834,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2003年11月12日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/想更靠近看你的側臉.md" title="wikilink">想更靠近看你的側臉</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/想更靠近看你的側臉" title="wikilink">想更靠近看你的側臉</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果<br />
 編曲：池田大介</small></p></td>
@@ -829,7 +844,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2004年6月23日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/無可替代的東西.md" title="wikilink">無可替代的東西</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/無可替代的東西" title="wikilink">無可替代的東西</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果<br />
 編曲：小林哲</small></p></td>
@@ -839,7 +854,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2004年11月24日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/今天讓我們來促膝長談吧.md" title="wikilink">今天讓我們來促膝長談吧</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/今天讓我們來促膝長談吧" title="wikilink">今天讓我們來促膝長談吧</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果<br />
 編曲：徳永暁人</small></p></td>
@@ -849,7 +864,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2005年4月20日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/繁星的光芒呀／宛如等待夏日的風帆.md" title="wikilink">繁星的光芒呀／宛如等待夏日的風帆</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/繁星的光芒呀／宛如等待夏日的風帆" title="wikilink">繁星的光芒呀／宛如等待夏日的風帆</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果（共通）<br />
 編曲：葉山たけし（共通）</small></p></td>
@@ -859,7 +874,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2006年3月8日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/愛你愛的好悲痛／爽快一點!.md" title="wikilink">愛你愛的好悲痛／爽快一點!</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/愛你愛的好悲痛／爽快一點!" title="wikilink">愛你愛的好悲痛／爽快一點!</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果（共通）<br />
 編曲：葉山たけし（共通）</small></p></td>
@@ -869,7 +884,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2006年5月10日</small></p></td>
 <td><p><strong></strong><br />
 </p></td>
-<td><p><strong><a href="../Page/點燃心火.md" title="wikilink">點燃心火</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/點燃心火" title="wikilink">點燃心火</a></strong><br />
 </p></td>
 <td><p><small>作曲：大野愛果<br />
 編曲：葉山たけし</small></p></td>
@@ -930,7 +945,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>1st album</small></p></td>
 <td><p><small>BGCH-1003</small></p></td>
 <td><p><small>1991年3月27日</small></p></td>
-<td><p><strong><a href="../Page/Good-bye_My_Loneliness(专辑).md" title="wikilink">Good-bye My Loneliness</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Good-bye_My_Loneliness(专辑)" title="wikilink">Good-bye My Loneliness</a></strong><br />
 </p></td>
 <td><p><small>最高位34位</small></p></td>
 </tr>
@@ -938,7 +953,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>2nd album</small></p></td>
 <td><p><small>BGCH-1004</small></p></td>
 <td><p><small>1991年12月25日</small></p></td>
-<td><p><strong><a href="../Page/もう探さない(专辑).md" title="wikilink">もう探さない</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/もう探さない(专辑)" title="wikilink">もう探さない</a></strong><br />
 </p></td>
 <td><p><small>最高位36位</small></p></td>
 </tr>
@@ -946,7 +961,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>3rd album</small></p></td>
 <td><p><small>BGCH-1005</small></p></td>
 <td><p><small>1992年9月2日</small></p></td>
-<td><p><strong><a href="../Page/HOLD_ME.md" title="wikilink">HOLD ME</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/HOLD_ME" title="wikilink">HOLD ME</a></strong><br />
 </p></td>
 <td><p><small>最高位2位</small><br />
 <small><strong>突破百万</strong><small></p></td>
@@ -964,7 +979,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>5th album</small></p></td>
 <td><p><small>BGDH-1014</small></p></td>
 <td><p><small>1994年6月4日</small></p></td>
-<td><p><strong><a href="../Page/OH_MY_LOVE.md" title="wikilink">OH MY LOVE</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/OH_MY_LOVE" title="wikilink">OH MY LOVE</a></strong><br />
 </p></td>
 <td><p><small><strong>最高位1位</strong></small><br />
 <small><strong>二百万</strong></small></p></td>
@@ -973,7 +988,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>6th album</small></p></td>
 <td><p><small>JBCJ-1001</small></p></td>
 <td><p><small>1995年3月10日</small></p></td>
-<td><p><strong><a href="../Page/forever_you(专辑).md" title="wikilink">forever you</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/forever_you(专辑)" title="wikilink">forever you</a></strong><br />
 </p></td>
 <td><p><small><strong>最高位1位</strong></small><br />
 <small><strong>突破百万</strong></small></p></td>
@@ -982,7 +997,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>7th album</small></p></td>
 <td><p><small>JBCJ-1009</small></p></td>
 <td><p><small>1996年7月8日</small></p></td>
-<td><p><strong><a href="../Page/TODAY_IS_ANOTHER_DAY.md" title="wikilink">TODAY IS ANOTHER DAY</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY" title="wikilink">TODAY IS ANOTHER DAY</a></strong><br />
 </p></td>
 <td><p><small><strong>最高位1位</strong></small><br />
 <small><strong>突破百万</strong></small></p></td>
@@ -991,7 +1006,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>8th album</small></p></td>
 <td><p><small>JBCJ-1021</small></p></td>
 <td><p><small>1999年2月17日</small></p></td>
-<td><p><strong><a href="../Page/永遠(专辑).md" title="wikilink">永遠</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/永遠(专辑)" title="wikilink">永遠</a></strong><br />
 </p></td>
 <td><p><small><strong>最高位1位</strong></small><br />
 <small><strong>突破百万</strong></small></p></td>
@@ -1000,7 +1015,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>9th album</small></p></td>
 <td><p><small>JBCJ-1033</small></p></td>
 <td><p><small>2001年2月15日</small></p></td>
-<td><p><strong><a href="../Page/時間の翼.md" title="wikilink">時間の翼</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/時間の翼" title="wikilink">時間の翼</a></strong><br />
 </p></td>
 <td><p><small><strong>最高位1位</strong></small></p></td>
 </tr>
@@ -1008,7 +1023,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>10th album</small></p></td>
 <td><p><small>JBCJ-9008</small></p></td>
 <td><p><small>2004年1月28日</small></p></td>
-<td><p><strong><a href="../Page/止まっていた時計が今動き出した.md" title="wikilink">止まっていた時計が今動き出した</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/止まっていた時計が今動き出した" title="wikilink">止まっていた時計が今動き出した</a></strong><br />
 </p></td>
 <td><p><small>最高位2位</small></p></td>
 </tr>
@@ -1016,7 +1031,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 <td><p><small>11th album</small></p></td>
 <td><p><small>JBCJ-9012</small></p></td>
 <td><p><small>2005年9月7日</small></p></td>
-<td><p><strong><a href="../Page/君とのDistance.md" title="wikilink">君とのDistance</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/君とのDistance" title="wikilink">君とのDistance</a></strong><br />
 </p></td>
 <td><p><small>最高位3位</small></p></td>
 </tr>
@@ -1061,10 +1076,10 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 ### DVD
 
   - **[ZARD Le Portfolio
-    1991-2006](../Page/ZARD_Le_Portfolio_1991-2006.md "wikilink")**
+    1991-2006](https://zh.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")**
     （2006年10月25日）
   - **[ZARD MUSIC VIDEO COLLECTION \~25th
-    Anniversary\~](../Page/ZARD_MUSIC_VIDEO_COLLECTION_~25th_Anniversary~.md "wikilink")**
+    Anniversary\~](https://zh.wikipedia.org/wiki/ZARD_MUSIC_VIDEO_COLLECTION_~25th_Anniversary~ "wikilink")**
     （2016年4月27日）
 
 ### Live DVD
@@ -1076,7 +1091,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
   - **What a beautiful memory 2009** （2011年4月13日）
   - **What a beautiful memory ～forever you～** （2011年8月10日）
   - **[ZARD 25th Anniversary LIVE What a beautiful
-    memory](../Page/ZARD_25th_Anniversary_LIVE_What_a_beautiful_memory.md "wikilink")**
+    memory](https://zh.wikipedia.org/wiki/ZARD_25th_Anniversary_LIVE_What_a_beautiful_memory "wikilink")**
     （2016年12月7日）
 
 ### 書
@@ -1107,21 +1122,22 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 
 ### 參與作品
 
-  - **[果てしない夢を](../Page/果てしない夢を.md "wikilink")***【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](../Page/REV.md "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
+  - **[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")***【[ZYYG](https://zh.wikipedia.org/wiki/ZYYG "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
     featuring [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】*名義 （1993年6月9日）
       -
         Oricon最高第2位
-  - **[Can't Take My Eyes Off Of You](../Page/君の瞳に恋してる.md "wikilink")**
+  - **[Can't Take My Eyes Off Of
+    You](https://zh.wikipedia.org/wiki/君の瞳に恋してる "wikilink")**
     （1999年9月15日）
       -
         Oricon最高第50位
-  - **[異邦人](../Page/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\).md "wikilink")***【[TAK
-    MATSUMOTO](../Page/TAK_MATSUMOTO.md "wikilink") featuring ZARD】*名義
-    （2003年8月27日）
+  - **[異邦人](https://zh.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\) "wikilink")***【[TAK
+    MATSUMOTO](https://zh.wikipedia.org/wiki/TAK_MATSUMOTO "wikilink")
+    featuring ZARD】*名義 （2003年8月27日）
       -
         Oricon最高第3位
         [B'z成員](../Page/B'z.md "wikilink")[松本孝弘創作](../Page/松本孝弘.md "wikilink")。原曲請參考→（[異邦人
-        (久保田早紀)](../Page/異邦人_\(久保田早紀\).md "wikilink")）。
+        (久保田早紀)](https://zh.wikipedia.org/wiki/異邦人_\(久保田早紀\) "wikilink")）。
 
 ### 以"坂井泉水"參與作品
 
@@ -1138,77 +1154,77 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 
 ## 商業主打歌曲一覽
 
-|                                                                              |                                                                                                                     |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")       | [富士電視台](../Page/富士電視台.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")「[結婚の理想と現実](../Page/結婚の理想と現実.md "wikilink")」主題曲 |
-| [不思議ね…](../Page/不思議ね….md "wikilink")                                         | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「\[\[マジカル頭脳パワー                                                              |
-| [もう探さない](../Page/もう探さない.md "wikilink")                                       | [テレビ朝日系電視劇](../Page/テレビ朝日.md "wikilink")「[七人の女弁護士](../Page/七人の女弁護士.md "wikilink")」主題曲                               |
-| [眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")                                 | 朝日電視台系「[トゥナイト](../Page/トゥナイト_\(テレビ番組\).md "wikilink")」片尾曲                                                           |
-| [誰かが待ってる](../Page/HOLD_ME.md "wikilink")（アルバム收錄曲目）                           | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「\[\[マジカル頭脳パワー                                                              |
-| [あの微笑みを忘れないで](../Page/HOLD_ME.md "wikilink")（アルバム收錄曲目）                       | 富士電視台系電視劇「[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink") 腕まくり看護婦」シリーズ主題歌                                            |
-| [IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")               | [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[学校があぶない](../Page/学校があぶない.md "wikilink")」主題曲                                |
-| [負けないで](../Page/負けないで.md "wikilink")                                         | 富士電視台系電視劇「[白鳥麗子でございます\!](../Page/白鳥麗子でございます!.md "wikilink")」主題曲                                                     |
-| [君がいない](../Page/君がいない.md "wikilink")                                         | 日本電視台系電視劇「[彼女の嫌いな彼女](../Page/彼女の嫌いな彼女.md "wikilink")」主題曲                                                            |
-| [揺れる想い](../Page/揺れる想い.md "wikilink")                                         | [大塚製薬](../Page/大塚製薬.md "wikilink")「[ポカリスエット](../Page/ポカリスエット.md "wikilink")」CM廣告歌                                   |
-| [もう少し あと少し…](../Page/もう少し_あと少し….md "wikilink")                               | 朝日電視台系電視劇「[ララバイ刑事'93](../Page/ララバイ刑事'93.md "wikilink")」片尾曲                                                          |
-| [きっと忘れない](../Page/きっと忘れない.md "wikilink")                                     | 富士電視台系電視劇「白鳥麗子でございます\!」主題歌                                                                                          |
-| [この愛に泳ぎ疲れても](../Page/この愛に泳ぎ疲れても/Boy.md "wikilink")                           | 関西テレビ・富士電視台系「愛と疑惑のサスペンス」片頭曲                                                                                         |
-| [Boy](../Page/この愛に泳ぎ疲れても/Boy.md "wikilink")                                  | 讀賣電視台制作映画「夏の庭〜The Friends〜」片尾曲                                                                                      |
-| [こんなにそばに居るのに](../Page/こんなにそばに居るのに.md "wikilink")                             | [三貴](../Page/三貴.md "wikilink")「ブティックJOY」CMソング                                                                       |
-| [あなたを感じていたい](../Page/あなたを感じていたい.md "wikilink")                               | [NTT DOCOMO](../Page/NTT_DOCOMO.md "wikilink")「パルフィーV」CMソング                                                         |
-| [Just believe in love](../Page/Just_believe_in_love.md "wikilink")           | TBS系電視劇「[揺れる想い](../Page/揺れる想い_\(テレビドラマ\).md "wikilink")」主題歌                                                         |
-| [ハイヒール脱ぎ捨てて](../Page/forever_you_\(アルバム\).md "wikilink")（アルバム收錄曲目）           | 富士電視台 OIOI TOKYO TASTE「Rooms」片尾曲                                                                                    |
-| [I'm in love](../Page/forever_you_\(アルバム\).md "wikilink")（アルバム收錄曲目）          | [タワーレコードスーパーストア](../Page/タワーレコード.md "wikilink")                                                                     |
-| [愛が見えない](../Page/愛が見えない.md "wikilink")                                       | エフティ[資生堂](../Page/資生堂.md "wikilink")「SEA BREEZE '1995」CM廣告歌                                                         |
-| [サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")                       | ボクたちの映画シリーズ「白鳥麗子でございます\!」主題歌                                                                                        |
-| [マイ フレンド](../Page/マイ_フレンド.md "wikilink")                                     | 朝日電視台系[アニメ](../Page/アニメ.md "wikilink")「[スラムダンク](../Page/SLAM_DUNK.md "wikilink")」片尾曲                                |
-| [心を開いて](../Page/心を開いて.md "wikilink")                                         | 大塚製薬「ポカリスエット」CM廣告歌                                                                                                  |
-| [君がいたから](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")（アルバム收錄曲目）               | 富士電視台系電視劇「[輝く季節の中で](../Page/輝く季節の中で.md "wikilink")」挿曲                                                               |
-| [Today is another day](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")（アルバム收錄曲目） | 日本電視台系動畫「[YAWARA\!スペシャル ずっと君のことが…](../Page/YAWARA!.md "wikilink")」主題歌                                               |
-| [見つめていたいね](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")（アルバム收錄曲目）             | 日本電視台系動畫「YAWARA\!スペシャル ずっと君のことが…」挿入歌                                                                                |
-| [Don't you see\!](../Page/Don't_you_see!.md "wikilink")                      | 富士電視台系動畫「[ドラゴンボールGT](../Page/ドラゴンボールGT.md "wikilink")」片尾曲                                                           |
-| [帰らぬ時間の中で](../Page/Don't_you_see!.md "wikilink")（上記曲のc/w）                    | 日本電視台「いま人」片頭曲                                                                                                       |
-| [君に逢いたくなったら…](../Page/君に逢いたくなったら….md "wikilink")                             | TBS系電視劇「[理想の結婚](../Page/理想の結婚.md "wikilink")」主題歌                                                                    |
-| [風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")                                 | [JRA夏競馬CM廣告歌](../Page/日本中央競馬会.md "wikilink")                                                                        |
-| [永遠](../Page/永遠_\(ZARDの曲\).md "wikilink")                                    | [キヤノン](../Page/キヤノン.md "wikilink")「Eos kiss」CM廣告歌／日本電視台系電視劇「[失楽園](../Page/失楽園_\(渡辺淳一\).md "wikilink")」主題曲           |
-| [My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink") | [NTT DOCOMO](../Page/NTT_DOCOMO.md "wikilink")'97冬CMソング                                                             |
-| [Love is Gone](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")（上記曲のc/w）     | 日本電視台系電視劇「失楽園 特別編」主題曲                                                                                               |
-| [息もできない](../Page/息もできない.md "wikilink")                                       | 富士電視台系動畫「[中華一番\!](../Page/中華一番!.md "wikilink")」片頭曲                                                                  |
-| [轉動命運之輪](../Page/轉動命運之輪.md "wikilink")                                       | [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                 |
-| [少女の頃に戻ったみたいに](../Page/轉動命運之輪.md "wikilink")（上記曲のc/w）                        | 劇場版「[名偵探柯南 第14號獵物](../Page/名偵探柯南_第14號獵物.md "wikilink")」主題曲                                                          |
-| [新しいドア〜冬のひまわり〜](../Page/新しいドア〜冬のひまわり〜.md "wikilink")                         | [サッポロビール](../Page/サッポロビール.md "wikilink")「冬物語」CMソング                                                                  |
-| [GOOD DAY](../Page/GOOD_DAY.md "wikilink")                                   | ビューティーラボ「ナチュラルカラー」CMソング                                                                                             |
-| [I feel fine,yeah](../Page/永遠_\(アルバム\).md "wikilink")（アルバム收錄曲目）              | 富士電視台系「[めざまし天気](../Page/めざまし天気.md "wikilink")」主題曲                                                                   |
-| [フォトグラフ](../Page/永遠_\(アルバム\).md "wikilink")（アルバム收錄曲目）                        | 日本電視台系電視劇「春のサスペンススペシャル 刑事たちの夏」主題曲                                                                                   |
-| [MIND GAMES](../Page/MIND_GAMES_\(ZARDの曲\).md "wikilink")                    | 富士電視台系「[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")」印象歌曲／ニッポン放送「ショウアップナイター'99」主題曲                                     |
-| [世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")                               | 朝日電視台系電視劇「[舞妓さんは名探偵\!](../Page/舞妓さんは名探偵!.md "wikilink")」主題曲                                                         |
-| [痛いくらい君があふれているよ](../Page/痛いくらい君があふれているよ.md "wikilink")                       | [ネスレ日本](../Page/ネスレ日本.md "wikilink")「ネスカフェモーメント」CM廣告歌                                                               |
-| [この涙 星になれ](../Page/この涙_星になれ.md "wikilink")                                   | 朝日電視台系電視劇「[科捜研の女](../Page/科捜研の女.md "wikilink")」主題曲                                                                  |
-| [お・も・ひ・で](../Page/この涙_星になれ.md "wikilink")（上記曲のc/w）                           | 「チェンジ伊豆2000！」印象歌曲／朝日電視台系「贅沢な休日」片尾曲                                                                                  |
-| [Get U're Dream](../Page/Get_U're_Dream.md "wikilink")                       | [NHK](../Page/日本放送協会.md "wikilink")「[シドニーオリンピック](../Page/シドニーオリンピック.md "wikilink")」主題曲                              |
-| [promised you](../Page/promised_you.md "wikilink")                           | 朝日電視台系「[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")」片尾曲                                                                 |
-| [窓の外はモノクローム](../Page/時間の翼.md "wikilink")（アルバム收錄曲目）                           | 日本電視台系「[週刊ストーリーランド](../Page/週刊ストーリーランド.md "wikilink")」片尾曲                                                           |
-| [hero](../Page/時間の翼.md "wikilink")（アルバム收錄曲目）                                 | [コナミ](../Page/コナミ.md "wikilink")「[ときめきメモリアル3](../Page/ときめきメモリアル3_〜約束のあの場所で〜.md "wikilink")」片尾曲                      |
-| [時間の翼](../Page/時間の翼.md "wikilink")（アルバム收錄曲目）                                 | [NTT西日本](../Page/西日本電信電話.md "wikilink")「フレッツISDN」CM廣告歌                                                              |
-| [さわやかな君の気持ち](../Page/さわやかな君の気持ち.md "wikilink")                               | [ニベア花王](../Page/ニベア花王.md "wikilink")「8×4」CMソング                                                                      |
-| [抱きしめていて](../Page/さわやかな君の気持ち.md "wikilink")（上記曲のc/w）                         | 科樂美「ときめきメモリアル3」片尾曲                                                                                                  |
-| [Seven Rainbow](../Page/さわやかな君の気持ち.md "wikilink")（上記曲のc/w）                   | 科樂美「ときめきメモリアル3」片頭曲                                                                                                  |
-| [明日を夢見て](../Page/明日を夢見て_\(曲\).md "wikilink")                                 | [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片尾曲                                 |
-| [瞳閉じて](../Page/瞳閉じて.md "wikilink")                                           | 富士電視台系「感動ファクトリー [すぽると\!](../Page/すぽると!.md "wikilink")」印象歌曲                                                          |
-| [もっと近くで君の横顔見ていたい](../Page/もっと近くで君の横顔見ていたい.md "wikilink")                     | [月桂冠](../Page/月桂冠.md "wikilink")「月」CM廣告歌                                                                            |
-| [止まっていた時計が今動き出した](../Page/止まっていた時計が今動き出した.md "wikilink")（アルバム收錄曲目）           | 朝日電視台系主題曲「[異議あり\!女弁護士大岡法江](../Page/異議あり!女弁護士大岡法江.md "wikilink")」主題歌                                                 |
-| [かけがえのないもの](../Page/かけがえのないもの.md "wikilink")                                 | TBS系「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」主題曲                                                                |
-| [今日はゆっくり話そう](../Page/今日はゆっくり話そう.md "wikilink")                               | [月桂冠](../Page/月桂冠.md "wikilink")「月」CM廣告歌                                                                            |
-| [星のかがやきよ](../Page/繁星的光芒呀／宛如等待夏日的風帆.md "wikilink")                            | [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                 |
-| [夏を待つセイル(帆)のように](../Page/繁星的光芒呀／宛如等待夏日的風帆.md "wikilink")                     | 劇場版「[名偵探柯南 水平線上的陰謀](../Page/名偵探柯南_水平線上的陰謀.md "wikilink")」主題歌                                                        |
-| [悲しいほど貴方が好き](../Page/悲しいほど貴方が好き/カラッといこう!.md "wikilink")                      | [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片尾曲                                 |
-| [カラッといこう\!](../Page/悲しいほど貴方が好き/カラッといこう!.md "wikilink")                       | 富士電視台系「[めざましどようび](../Page/めざましどようび.md "wikilink")」主題曲                                                               |
-| [ハートに火をつけて](../Page/ハートに火をつけて_\(ZARDの曲\).md "wikilink")                      | TBS系主題曲「[愛の劇場](../Page/愛の劇場.md "wikilink") [すてきにコモン\!](../Page/すてきにコモン!.md "wikilink")」主題歌                          |
-| [グロリアス マインド](../Page/Glorious_Mind.md "wikilink")                            | [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                 |
-| [翼を広げて](../Page/展開雙翼／愛在黑暗中.md "wikilink")                                    | 劇場版「[名偵探柯南 戰慄的樂譜](../Page/名偵探柯南_戰慄的樂譜.md "wikilink")」主題歌                                                            |
-| [愛は暗闇の中で](../Page/展開雙翼／愛在黑暗中.md "wikilink")                                  | [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                 |
-| [素直に言えなくて](../Page/素直に言えなくて.md "wikilink")                                   |                                                                                                                     |
-|                                                                              |                                                                                                                     |
+|                                                                                                 |                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")                          | [富士電視台](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")「[結婚の理想と現実](https://zh.wikipedia.org/wiki/結婚の理想と現実 "wikilink")」主題曲 |
+| [不思議ね…](https://zh.wikipedia.org/wiki/不思議ね… "wikilink")                                         | [日本テレビ系](https://zh.wikipedia.org/wiki/日本テレビ放送網 "wikilink")「\[\[マジカル頭脳パワー                                                                                 |
+| [もう探さない](https://zh.wikipedia.org/wiki/もう探さない "wikilink")                                       | [テレビ朝日系電視劇](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")「[七人の女弁護士](https://zh.wikipedia.org/wiki/七人の女弁護士 "wikilink")」主題曲                               |
+| [眠れない夜を抱いて](https://zh.wikipedia.org/wiki/眠れない夜を抱いて "wikilink")                                 | 朝日電視台系「[トゥナイト](https://zh.wikipedia.org/wiki/トゥナイト_\(テレビ番組\) "wikilink")」片尾曲                                                                              |
+| [誰かが待ってる](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")（アルバム收錄曲目）                           | [日本テレビ系](https://zh.wikipedia.org/wiki/日本テレビ放送網 "wikilink")「\[\[マジカル頭脳パワー                                                                                 |
+| [あの微笑みを忘れないで](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")（アルバム收錄曲目）                       | 富士電視台系電視劇「[金曜エンタテイメント](https://zh.wikipedia.org/wiki/金曜エンタテイメント "wikilink") 腕まくり看護婦」シリーズ主題歌                                                               |
+| [IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")                                  | [TBS系ドラマ](https://zh.wikipedia.org/wiki/TBSテレビ "wikilink")「[学校があぶない](https://zh.wikipedia.org/wiki/学校があぶない "wikilink")」主題曲                                |
+| [負けないで](https://zh.wikipedia.org/wiki/負けないで "wikilink")                                         | 富士電視台系電視劇「[白鳥麗子でございます\!](https://zh.wikipedia.org/wiki/白鳥麗子でございます! "wikilink")」主題曲                                                                        |
+| [君がいない](https://zh.wikipedia.org/wiki/君がいない "wikilink")                                         | 日本電視台系電視劇「[彼女の嫌いな彼女](https://zh.wikipedia.org/wiki/彼女の嫌いな彼女 "wikilink")」主題曲                                                                               |
+| [揺れる想い](https://zh.wikipedia.org/wiki/揺れる想い "wikilink")                                         | [大塚製薬](https://zh.wikipedia.org/wiki/大塚製薬 "wikilink")「[ポカリスエット](https://zh.wikipedia.org/wiki/ポカリスエット "wikilink")」CM廣告歌                                   |
+| [もう少し あと少し…](https://zh.wikipedia.org/wiki/もう少し_あと少し… "wikilink")                               | 朝日電視台系電視劇「[ララバイ刑事'93](https://zh.wikipedia.org/wiki/ララバイ刑事'93 "wikilink")」片尾曲                                                                             |
+| [きっと忘れない](https://zh.wikipedia.org/wiki/きっと忘れない "wikilink")                                     | 富士電視台系電視劇「白鳥麗子でございます\!」主題歌                                                                                                                                |
+| [この愛に泳ぎ疲れても](https://zh.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")                           | 関西テレビ・富士電視台系「愛と疑惑のサスペンス」片頭曲                                                                                                                               |
+| [Boy](https://zh.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")                                  | 讀賣電視台制作映画「夏の庭〜The Friends〜」片尾曲                                                                                                                            |
+| [こんなにそばに居るのに](https://zh.wikipedia.org/wiki/こんなにそばに居るのに "wikilink")                             | [三貴](https://zh.wikipedia.org/wiki/三貴 "wikilink")「ブティックJOY」CMソング                                                                                          |
+| [あなたを感じていたい](https://zh.wikipedia.org/wiki/あなたを感じていたい "wikilink")                               | [NTT DOCOMO](../Page/NTT_DOCOMO.md "wikilink")「パルフィーV」CMソング                                                                                               |
+| [Just believe in love](https://zh.wikipedia.org/wiki/Just_believe_in_love "wikilink")           | TBS系電視劇「[揺れる想い](https://zh.wikipedia.org/wiki/揺れる想い_\(テレビドラマ\) "wikilink")」主題歌                                                                            |
+| [ハイヒール脱ぎ捨てて](https://zh.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")（アルバム收錄曲目）           | 富士電視台 OIOI TOKYO TASTE「Rooms」片尾曲                                                                                                                          |
+| [I'm in love](https://zh.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")（アルバム收錄曲目）          | [タワーレコードスーパーストア](https://zh.wikipedia.org/wiki/タワーレコード "wikilink")                                                                                        |
+| [愛が見えない](https://zh.wikipedia.org/wiki/愛が見えない "wikilink")                                       | エフティ[資生堂](../Page/資生堂.md "wikilink")「SEA BREEZE '1995」CM廣告歌                                                                                               |
+| [サヨナラは今もこの胸に居ます](https://zh.wikipedia.org/wiki/サヨナラは今もこの胸に居ます "wikilink")                       | ボクたちの映画シリーズ「白鳥麗子でございます\!」主題歌                                                                                                                              |
+| [マイ フレンド](https://zh.wikipedia.org/wiki/マイ_フレンド "wikilink")                                     | 朝日電視台系[アニメ](https://zh.wikipedia.org/wiki/アニメ "wikilink")「[スラムダンク](https://zh.wikipedia.org/wiki/SLAM_DUNK "wikilink")」片尾曲                                |
+| [心を開いて](https://zh.wikipedia.org/wiki/心を開いて "wikilink")                                         | 大塚製薬「ポカリスエット」CM廣告歌                                                                                                                                        |
+| [君がいたから](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")（アルバム收錄曲目）               | 富士電視台系電視劇「[輝く季節の中で](https://zh.wikipedia.org/wiki/輝く季節の中で "wikilink")」挿曲                                                                                  |
+| [Today is another day](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")（アルバム收錄曲目） | 日本電視台系動畫「[YAWARA\!スペシャル ずっと君のことが…](https://zh.wikipedia.org/wiki/YAWARA! "wikilink")」主題歌                                                                  |
+| [見つめていたいね](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")（アルバム收錄曲目）             | 日本電視台系動畫「YAWARA\!スペシャル ずっと君のことが…」挿入歌                                                                                                                      |
+| [Don't you see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")                      | 富士電視台系動畫「[ドラゴンボールGT](https://zh.wikipedia.org/wiki/ドラゴンボールGT "wikilink")」片尾曲                                                                              |
+| [帰らぬ時間の中で](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")（上記曲のc/w）                    | 日本電視台「いま人」片頭曲                                                                                                                                             |
+| [君に逢いたくなったら…](https://zh.wikipedia.org/wiki/君に逢いたくなったら… "wikilink")                             | TBS系電視劇「[理想の結婚](https://zh.wikipedia.org/wiki/理想の結婚 "wikilink")」主題歌                                                                                       |
+| [風が通り抜ける街へ](https://zh.wikipedia.org/wiki/風が通り抜ける街へ "wikilink")                                 | [JRA夏競馬CM廣告歌](https://zh.wikipedia.org/wiki/日本中央競馬会 "wikilink")                                                                                           |
+| [永遠](https://zh.wikipedia.org/wiki/永遠_\(ZARDの曲\) "wikilink")                                    | [キヤノン](https://zh.wikipedia.org/wiki/キヤノン "wikilink")「Eos kiss」CM廣告歌／日本電視台系電視劇「[失楽園](https://zh.wikipedia.org/wiki/失楽園_\(渡辺淳一\) "wikilink")」主題曲           |
+| [My Baby Grand 〜ぬくもりが欲しくて〜](https://zh.wikipedia.org/wiki/My_Baby_Grand_〜ぬくもりが欲しくて〜 "wikilink") | [NTT DOCOMO](../Page/NTT_DOCOMO.md "wikilink")'97冬CMソング                                                                                                   |
+| [Love is Gone](https://zh.wikipedia.org/wiki/My_Baby_Grand_〜ぬくもりが欲しくて〜 "wikilink")（上記曲のc/w）     | 日本電視台系電視劇「失楽園 特別編」主題曲                                                                                                                                     |
+| [息もできない](https://zh.wikipedia.org/wiki/息もできない "wikilink")                                       | 富士電視台系動畫「[中華一番\!](https://zh.wikipedia.org/wiki/中華一番! "wikilink")」片頭曲                                                                                     |
+| [轉動命運之輪](../Page/轉動命運之輪.md "wikilink")                                                          | [読売テレビ系アニメ](https://zh.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                                    |
+| [少女の頃に戻ったみたいに](../Page/轉動命運之輪.md "wikilink")（上記曲のc/w）                                           | 劇場版「[名偵探柯南 第14號獵物](https://zh.wikipedia.org/wiki/名偵探柯南_第14號獵物 "wikilink")」主題曲                                                                             |
+| [新しいドア〜冬のひまわり〜](https://zh.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")                         | [サッポロビール](https://zh.wikipedia.org/wiki/サッポロビール "wikilink")「冬物語」CMソング                                                                                     |
+| [GOOD DAY](https://zh.wikipedia.org/wiki/GOOD_DAY "wikilink")                                   | ビューティーラボ「ナチュラルカラー」CMソング                                                                                                                                   |
+| [I feel fine,yeah](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")（アルバム收錄曲目）              | 富士電視台系「[めざまし天気](https://zh.wikipedia.org/wiki/めざまし天気 "wikilink")」主題曲                                                                                      |
+| [フォトグラフ](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")（アルバム收錄曲目）                        | 日本電視台系電視劇「春のサスペンススペシャル 刑事たちの夏」主題曲                                                                                                                         |
+| [MIND GAMES](https://zh.wikipedia.org/wiki/MIND_GAMES_\(ZARDの曲\) "wikilink")                    | 富士電視台系「[プロ野球ニュース](https://zh.wikipedia.org/wiki/プロ野球ニュース "wikilink")」印象歌曲／ニッポン放送「ショウアップナイター'99」主題曲                                                        |
+| [世界はきっと未来の中](https://zh.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")                               | 朝日電視台系電視劇「[舞妓さんは名探偵\!](https://zh.wikipedia.org/wiki/舞妓さんは名探偵! "wikilink")」主題曲                                                                            |
+| [痛いくらい君があふれているよ](https://zh.wikipedia.org/wiki/痛いくらい君があふれているよ "wikilink")                       | [ネスレ日本](https://zh.wikipedia.org/wiki/ネスレ日本 "wikilink")「ネスカフェモーメント」CM廣告歌                                                                                  |
+| [この涙 星になれ](https://zh.wikipedia.org/wiki/この涙_星になれ "wikilink")                                   | 朝日電視台系電視劇「[科捜研の女](https://zh.wikipedia.org/wiki/科捜研の女 "wikilink")」主題曲                                                                                     |
+| [お・も・ひ・で](https://zh.wikipedia.org/wiki/この涙_星になれ "wikilink")（上記曲のc/w）                           | 「チェンジ伊豆2000！」印象歌曲／朝日電視台系「贅沢な休日」片尾曲                                                                                                                        |
+| [Get U're Dream](https://zh.wikipedia.org/wiki/Get_U're_Dream "wikilink")                       | [NHK](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")「[シドニーオリンピック](https://zh.wikipedia.org/wiki/シドニーオリンピック "wikilink")」主題曲                              |
+| [promised you](https://zh.wikipedia.org/wiki/promised_you "wikilink")                           | 朝日電視台系「[土曜ワイド劇場](https://zh.wikipedia.org/wiki/土曜ワイド劇場 "wikilink")」片尾曲                                                                                    |
+| [窓の外はモノクローム](https://zh.wikipedia.org/wiki/時間の翼 "wikilink")（アルバム收錄曲目）                           | 日本電視台系「[週刊ストーリーランド](https://zh.wikipedia.org/wiki/週刊ストーリーランド "wikilink")」片尾曲                                                                              |
+| [hero](https://zh.wikipedia.org/wiki/時間の翼 "wikilink")（アルバム收錄曲目）                                 | [コナミ](https://zh.wikipedia.org/wiki/コナミ "wikilink")「[ときめきメモリアル3](https://zh.wikipedia.org/wiki/ときめきメモリアル3_〜約束のあの場所で〜 "wikilink")」片尾曲                      |
+| [時間の翼](https://zh.wikipedia.org/wiki/時間の翼 "wikilink")（アルバム收錄曲目）                                 | [NTT西日本](https://zh.wikipedia.org/wiki/西日本電信電話 "wikilink")「フレッツISDN」CM廣告歌                                                                                 |
+| [さわやかな君の気持ち](https://zh.wikipedia.org/wiki/さわやかな君の気持ち "wikilink")                               | [ニベア花王](https://zh.wikipedia.org/wiki/ニベア花王 "wikilink")「8×4」CMソング                                                                                         |
+| [抱きしめていて](https://zh.wikipedia.org/wiki/さわやかな君の気持ち "wikilink")（上記曲のc/w）                         | 科樂美「ときめきメモリアル3」片尾曲                                                                                                                                        |
+| [Seven Rainbow](https://zh.wikipedia.org/wiki/さわやかな君の気持ち "wikilink")（上記曲のc/w）                   | 科樂美「ときめきメモリアル3」片頭曲                                                                                                                                        |
+| [明日を夢見て](https://zh.wikipedia.org/wiki/明日を夢見て_\(曲\) "wikilink")                                 | [読売テレビ系アニメ](https://zh.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片尾曲                                                    |
+| [瞳閉じて](https://zh.wikipedia.org/wiki/瞳閉じて "wikilink")                                           | 富士電視台系「感動ファクトリー [すぽると\!](https://zh.wikipedia.org/wiki/すぽると! "wikilink")」印象歌曲                                                                             |
+| [もっと近くで君の横顔見ていたい](https://zh.wikipedia.org/wiki/もっと近くで君の横顔見ていたい "wikilink")                     | [月桂冠](https://zh.wikipedia.org/wiki/月桂冠 "wikilink")「月」CM廣告歌                                                                                               |
+| [止まっていた時計が今動き出した](https://zh.wikipedia.org/wiki/止まっていた時計が今動き出した "wikilink")（アルバム收錄曲目）           | 朝日電視台系主題曲「[異議あり\!女弁護士大岡法江](https://zh.wikipedia.org/wiki/異議あり!女弁護士大岡法江 "wikilink")」主題歌                                                                    |
+| [かけがえのないもの](https://zh.wikipedia.org/wiki/かけがえのないもの "wikilink")                                 | TBS系「[恋するハニカミ\!](https://zh.wikipedia.org/wiki/恋するハニカミ! "wikilink")」主題曲                                                                                   |
+| [今日はゆっくり話そう](https://zh.wikipedia.org/wiki/今日はゆっくり話そう "wikilink")                               | [月桂冠](https://zh.wikipedia.org/wiki/月桂冠 "wikilink")「月」CM廣告歌                                                                                               |
+| [星のかがやきよ](https://zh.wikipedia.org/wiki/繁星的光芒呀／宛如等待夏日的風帆 "wikilink")                            | [読売テレビ系アニメ](https://zh.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                                    |
+| [夏を待つセイル(帆)のように](https://zh.wikipedia.org/wiki/繁星的光芒呀／宛如等待夏日的風帆 "wikilink")                     | 劇場版「[名偵探柯南 水平線上的陰謀](https://zh.wikipedia.org/wiki/名偵探柯南_水平線上的陰謀 "wikilink")」主題歌                                                                           |
+| [悲しいほど貴方が好き](https://zh.wikipedia.org/wiki/悲しいほど貴方が好き/カラッといこう! "wikilink")                      | [読売テレビ系アニメ](https://zh.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片尾曲                                                    |
+| [カラッといこう\!](https://zh.wikipedia.org/wiki/悲しいほど貴方が好き/カラッといこう! "wikilink")                       | 富士電視台系「[めざましどようび](https://zh.wikipedia.org/wiki/めざましどようび "wikilink")」主題曲                                                                                  |
+| [ハートに火をつけて](https://zh.wikipedia.org/wiki/ハートに火をつけて_\(ZARDの曲\) "wikilink")                      | TBS系主題曲「[愛の劇場](https://zh.wikipedia.org/wiki/愛の劇場 "wikilink") [すてきにコモン\!](https://zh.wikipedia.org/wiki/すてきにコモン! "wikilink")」主題歌                          |
+| [グロリアス マインド](../Page/Glorious_Mind.md "wikilink")                                               | [読売テレビ系アニメ](https://zh.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                                    |
+| [翼を広げて](../Page/展開雙翼／愛在黑暗中.md "wikilink")                                                       | 劇場版「[名偵探柯南 戰慄的樂譜](https://zh.wikipedia.org/wiki/名偵探柯南_戰慄的樂譜 "wikilink")」主題歌                                                                               |
+| [愛は暗闇の中で](../Page/展開雙翼／愛在黑暗中.md "wikilink")                                                     | [読売テレビ系アニメ](https://zh.wikipedia.org/wiki/讀賣テレビ放送 "wikilink")「[名偵探柯南](../Page/名偵探柯南.md "wikilink")」片頭曲                                                    |
+| [素直に言えなくて](https://zh.wikipedia.org/wiki/素直に言えなくて "wikilink")                                   |                                                                                                                                                           |
+|                                                                                                 |                                                                                                                                                           |
 
 ## 书籍
 

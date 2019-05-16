@@ -1,4 +1,4 @@
-是一款[即时战略游戏](../Page/即时战略游戏.md "wikilink")，属于[暴雪娛樂出品的](../Page/暴雪娛樂.md "wikilink")《[魔兽争霸](../Page/魔兽争霸.md "wikilink")》系列第三代作品，于2002年发行。迄今總共發布了二十八個版本。2003年5月暴雪公司又发行了《[魔兽争霸III：寒冰霸權](../Page/魔獸爭霸III：寒冰霸權.md "wikilink")》（），它是本作的[资料片](../Page/资料片.md "wikilink")。暴雪同时对《混亂之治》与《冰封王座》两个版本进行更新与维护，并在其[Battle.net平台上提供免费的网络对战服务](../Page/Battle.net.md "wikilink")。
+是一款[即时战略游戏](../Page/即时战略游戏.md "wikilink")，属于[暴雪娛樂出品的](../Page/暴雪娛樂.md "wikilink")《[魔兽争霸](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")》系列第三代作品，于2002年发行。迄今總共發布了二十八個版本。2003年5月暴雪公司又发行了《[魔兽争霸III：寒冰霸權](../Page/魔獸爭霸III：寒冰霸權.md "wikilink")》（），它是本作的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")。暴雪同时对《混亂之治》与《冰封王座》两个版本进行更新与维护，并在其[Battle.net平台上提供免费的网络对战服务](https://zh.wikipedia.org/wiki/Battle.net "wikilink")。
 
 ## 故事背景
 
@@ -15,9 +15,9 @@ Elf）和不死族（Undead）。那迦（Naga）在製作時曾經設想作為�
 
 ### 角色扮演因素
 
-正如遊戲開發者當初所想，《魔獸爭霸III》使玩家集中注意力於「控制戰鬥單位」而非「生產戰鬥單位」。故與《星际爭霸》相異，此遊戲要求玩家關注於小規模的戰鬥而非宏觀的調兵遣將。這使每一場戰鬥更像一個[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，而與之類似的就有[暗黑破壞神](../Page/暗黑破壞神.md "wikilink")。事實上，最初曾考慮設計為一款[戰略角色扮演遊戲](../Page/戰略角色扮演遊戲.md "wikilink")，惟隨數名高級設計師離職，遊戲轉型為[即時戰略遊戲](../Page/即時戰略.md "wikilink")。
+正如遊戲開發者當初所想，《魔獸爭霸III》使玩家集中注意力於「控制戰鬥單位」而非「生產戰鬥單位」。故與《星际爭霸》相異，此遊戲要求玩家關注於小規模的戰鬥而非宏觀的調兵遣將。這使每一場戰鬥更像一個[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，而與之類似的就有[暗黑破壞神](https://zh.wikipedia.org/wiki/暗黑破壞神 "wikilink")。事實上，最初曾考慮設計為一款[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")，惟隨數名高級設計師離職，遊戲轉型為[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略 "wikilink")。
 
-該遊戲亦加入一種全新[戰鬥單位](../Page/戰鬥單位.md "wikilink")，是為英雄，乃一種可透過獲取經驗值升級並增強能力的超級戰鬥單位。其可分為本族英雄和中立英雄。每當己方殺滅一個敵方單位或中立生物時，英雄便可獲取相當的經驗值而累積一定程度時其等級就會上升。等級每當上升時，英雄便可通過添加技能點學習或加強一項技能，不同英雄可學習之技能亦有所異，例如：人類大魔法師可召喚水元素、增加周圍魔法作戰單位之魔法值回覆速率、以暴風雪攻敵及傳送己方戰鬥單位至他地。除此以外，它亦可以攜帶於商店購得或戰勝中立生物後獲取之物品，而此等物品則可提高英雄或整體的作戰能力，如加速捲軸及生命藥水；也可用以傳送整個軍團或某個戰鬥單位，如回城捲軸及避難權杖。遊戲過程中，一方最多可以有三個英雄出現。而倘若有英雄於戰鬥中陣亡，則可在祭壇中復活。
+該遊戲亦加入一種全新[戰鬥單位](https://zh.wikipedia.org/wiki/戰鬥單位 "wikilink")，是為英雄，乃一種可透過獲取經驗值升級並增強能力的超級戰鬥單位。其可分為本族英雄和中立英雄。每當己方殺滅一個敵方單位或中立生物時，英雄便可獲取相當的經驗值而累積一定程度時其等級就會上升。等級每當上升時，英雄便可通過添加技能點學習或加強一項技能，不同英雄可學習之技能亦有所異，例如：人類大魔法師可召喚水元素、增加周圍魔法作戰單位之魔法值回覆速率、以暴風雪攻敵及傳送己方戰鬥單位至他地。除此以外，它亦可以攜帶於商店購得或戰勝中立生物後獲取之物品，而此等物品則可提高英雄或整體的作戰能力，如加速捲軸及生命藥水；也可用以傳送整個軍團或某個戰鬥單位，如回城捲軸及避難權杖。遊戲過程中，一方最多可以有三個英雄出現。而倘若有英雄於戰鬥中陣亡，則可在祭壇中復活。
 
 如上所述，中立生物可視為遊戲中創新之處。即便多人遊戲中，亦存有完全由電腦控制的中立生物，以守衛地圖中關鍵的位置及中立的建築物。它也成為選手間爭奪的資源，擊殺中立生物後便可獲得相當的經驗值、金錢及物品。使這個類似於角色扮演遊戲的玩家更具「攻擊性」而不會過於防衛，從而提高遊戲的娛樂性及可觀性。
 
@@ -31,7 +31,7 @@ Elf）和不死族（Undead）。那迦（Naga）在製作時曾經設想作為�
 
 ### 可扩展性
 
-由于暴雪公司在推出魔兽争霸3的同时推出了功能强大的[地图编辑器](../Page/地图编辑器.md "wikilink")，使玩家可以自定义魔兽地图及单位。催生了[DotA](../Page/DotA.md "wikilink")、[3C这样源于魔兽却脱离魔兽独自成为](../Page/澄海3C.md "wikilink")[电子竞技项目的地图](../Page/电子竞技.md "wikilink")，以及一些[RPG娱乐地图](../Page/電子角色扮演遊戲.md "wikilink")。甚至暴雪官方也推出过魔兽版的[贪食蛇和赛车游戏](../Page/贪食蛇.md "wikilink")。
+由于暴雪公司在推出魔兽争霸3的同时推出了功能强大的[地图编辑器](https://zh.wikipedia.org/wiki/地图编辑器 "wikilink")，使玩家可以自定义魔兽地图及单位。催生了[DotA](../Page/DotA.md "wikilink")、[3C这样源于魔兽却脱离魔兽独自成为](../Page/澄海3C.md "wikilink")[电子竞技项目的地图](../Page/电子竞技.md "wikilink")，以及一些[RPG娱乐地图](../Page/電子角色扮演遊戲.md "wikilink")。甚至暴雪官方也推出过魔兽版的[贪食蛇和赛车游戏](https://zh.wikipedia.org/wiki/贪食蛇 "wikilink")。
 
 ## 参考文献
 
@@ -43,9 +43,9 @@ Elf）和不死族（Undead）。那迦（Naga）在製作時曾經設想作為�
   - [官方策略指南](http://classic.battle.net/war3/)
 
 [de:Warcraft\#Warcraft
-III](../Page/de:Warcraft#Warcraft_III.md "wikilink")
+III](https://zh.wikipedia.org/wiki/de:Warcraft#Warcraft_III "wikilink")
 [ja:ウォークラフト\#Warcraft III「Reign of
-Chaos」](../Page/ja:ウォークラフト#Warcraft_III「Reign_of_Chaos」.md "wikilink")
+Chaos」](https://zh.wikipedia.org/wiki/ja:ウォークラフト#Warcraft_III「Reign_of_Chaos」 "wikilink")
 
 [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 [Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink")

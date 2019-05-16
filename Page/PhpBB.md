@@ -1,9 +1,9 @@
-**phpBB**是[自由软件](../Page/自由软件.md "wikilink")，也是[开放源代码的](../Page/开放源代码.md "wikilink")[网络论坛系统](../Page/网络论坛.md "wikilink")，使用[PHP作为程式语言](../Page/PHP.md "wikilink")，并支持如[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[MSSQL](../Page/Microsoft_SQL_Server.md "wikilink")、[SQLite与](../Page/SQLite.md "wikilink")[Oracle](../Page/Oracle_database.md "wikilink")\[1\]等的[資料库](../Page/資料库.md "wikilink")。
+**phpBB**是[自由软件](../Page/自由软件.md "wikilink")，也是[开放源代码的](../Page/开放源代码.md "wikilink")[网络论坛系统](../Page/网络论坛.md "wikilink")，使用[PHP作为程式语言](../Page/PHP.md "wikilink")，并支持如[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[MSSQL](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[SQLite与](../Page/SQLite.md "wikilink")[Oracle](https://zh.wikipedia.org/wiki/Oracle_database "wikilink")\[1\]等的[資料库](https://zh.wikipedia.org/wiki/資料库 "wikilink")。
 
 ## 历史
 
 詹姆士·艾金森（James
-Atkinson）在2000年6月17日创设PHPBB，并使用[UBB作为网站上的论坛](../Page/Ultimate_Bulletin_Board.md "wikilink")。Nathan
+Atkinson）在2000年6月17日创设PHPBB，并使用[UBB作为网站上的论坛](https://zh.wikipedia.org/wiki/Ultimate_Bulletin_Board "wikilink")。Nathan
 Codding与John
 Abela（现在皆为团队中的样板开发成员）加入phpBB开发，并协助1.0.0版起跑。2000年7月1日率先公开测试phpBB[1](http://forums.devshed.com/showthread.php?threadid=4914)。
 
@@ -74,9 +74,9 @@ php 7.1 系列，论坛载入速度更快，原来的插件系统已经被扩展
 
 除去資料库支持上，以下为phpBB的几项优点：
 
-  - 使用[样板系统设计可方便地快速修改](../Page/样板.md "wikilink")
+  - 使用[样板系统设计可方便地快速修改](https://zh.wikipedia.org/wiki/样板 "wikilink")
   - 国际化并支持64种可用的语言翻译，可同时安装多套翻译
-  - 庞大且众多的网络论坛提供使用者自由交流与[外挂软件的支援](../Page/外挂软件.md "wikilink")
+  - 庞大且众多的网络论坛提供使用者自由交流与[外挂软件的支援](https://zh.wikipedia.org/wiki/外挂软件 "wikilink")
 
 ## 攻击
 
@@ -84,7 +84,7 @@ php 7.1 系列，论坛载入速度更快，原来的插件系统已经被扩展
 
 官方在受到攻击后关闭了站点，至2009年2月9日仍未开放。\[5\]
 
-官方称，攻击目标是phpBB.com上安装的[PHPList软件](../Page/PHPList.md "wikilink")，其上的一个[零日溢出漏洞导致这次攻击的成功](../Page/零日攻击.md "wikilink")。而并非phpBB软件本身的漏洞导致。\[6\]\[7\]
+官方称，攻击目标是phpBB.com上安装的[PHPList软件](https://zh.wikipedia.org/wiki/PHPList "wikilink")，其上的一个[零日溢出漏洞导致这次攻击的成功](../Page/零日攻击.md "wikilink")。而并非phpBB软件本身的漏洞导致。\[6\]\[7\]
 
 ## 來源
 
@@ -92,7 +92,8 @@ php 7.1 系列，论坛载入速度更快，原来的插件系统已经被扩展
 
   - [Discuz\!](../Page/Discuz!.md "wikilink")
   - [PHPWind](../Page/PHPWind.md "wikilink")
-  - [Invision Power Board](../Page/Invision_Power_Board.md "wikilink")
+  - [Invision Power
+    Board](https://zh.wikipedia.org/wiki/Invision_Power_Board "wikilink")
 
 ## 外部链接
 

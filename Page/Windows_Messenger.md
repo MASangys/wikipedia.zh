@@ -1,8 +1,8 @@
 **Windows
-Messenger**是微软公司开发的[即时消息](../Page/即时消息.md "wikilink")[客户端软件](../Page/客户端.md "wikilink")，內建於[Windows
-XP中](../Page/Windows_XP.md "wikilink")。能够同时登录到[SIP和](../Page/SIP.md "wikilink")[.NET
+Messenger**是微软公司开发的[即时消息](https://zh.wikipedia.org/wiki/即时消息 "wikilink")[客户端软件](https://zh.wikipedia.org/wiki/客户端 "wikilink")，內建於[Windows
+XP中](../Page/Windows_XP.md "wikilink")。能够同时登录到[SIP和](https://zh.wikipedia.org/wiki/SIP "wikilink")[.NET
 Messenger
-Service](../Page/.NET_Messenger_Service.md "wikilink")。從版本5開始，它能在[Windows
+Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")。從版本5開始，它能在[Windows
 2000](../Page/Windows_2000.md "wikilink")、[Windows
 XP和](../Page/Windows_XP.md "wikilink")[Windows Server
 2003中运行](../Page/Windows_Server_2003.md "wikilink")，但不包括[Windows
@@ -11,35 +11,35 @@ Vista](../Page/Windows_Vista.md "wikilink")。
 Windows Messenger與[Windows Live
 Messenger](../Page/Windows_Live_Messenger.md "wikilink")（前稱MSN
 Messenger）是不同的，縱使名稱相似。後者可以從微軟的網站下載。此外，Windows
-Messenger與[信差服務並沒有關係](../Page/信差服務.md "wikilink")，後者是[Windows
+Messenger與[信差服務並沒有關係](https://zh.wikipedia.org/wiki/信差服務 "wikilink")，後者是[Windows
 NT的](../Page/Windows_NT.md "wikilink")[LAN
-Manager組件中的一部分](../Page/LAN_Manager.md "wikilink")。
+Manager組件中的一部分](https://zh.wikipedia.org/wiki/LAN_Manager "wikilink")。
 
 在商業應用環境中，Windows Messenger已經被[Office
-Communicator取代](../Page/Microsoft_Office_Communicator.md "wikilink")。在[.NET
+Communicator取代](https://zh.wikipedia.org/wiki/Microsoft_Office_Communicator "wikilink")。在[.NET
 Messenger
-Service中](../Page/.NET_Messenger_Service.md "wikilink")，亦被[Windows
+Service中](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")，亦被[Windows
 Live Messenger取代](../Page/Windows_Live_Messenger.md "wikilink")，
 
 ## 概要
 
 Windows Messenger與Windows
-XP一同發佈，亦預設安裝於系統中。它有數個功能，例如[即时消息](../Page/即时消息.md "wikilink")、在線顯示、檔案傳輸，程式共用和白板。而後來的版本亦新增了手寫功能寫入，與[Live
+XP一同發佈，亦預設安裝於系統中。它有數個功能，例如[即时消息](https://zh.wikipedia.org/wiki/即时消息 "wikilink")、在線顯示、檔案傳輸，程式共用和白板。而後來的版本亦新增了手寫功能寫入，與[Live
 Communication
-Server整合](../Page/Microsoft_Live_Communication_Server.md "wikilink")。此外，Windows
+Server整合](https://zh.wikipedia.org/wiki/Microsoft_Live_Communication_Server "wikilink")。此外，Windows
 Messenger亦與[Microsoft
-Exchange](../Page/Microsoft_Exchange.md "wikilink")、[Microsoft
+Exchange](https://zh.wikipedia.org/wiki/Microsoft_Exchange "wikilink")、[Microsoft
 Outlook](../Page/Microsoft_Outlook.md "wikilink")、[Microsoft Outlook
-Express和Windows](../Page/Microsoft_Outlook_Express.md "wikilink")
-XP中的遠端協助整合。Windows Messenger亦與Windows XP Media Center
-Edition中的Media Center整合。Windows Messenger可以與[Exchange Server 2000
-Instant Messaging
-Service和](../Page/Exchange_Server_2000_Instant_Messaging_Service.md "wikilink")[.NET
-Messenger Service溝通](../Page/.NET_Messenger_Service.md "wikilink")。
+Express和Windows](https://zh.wikipedia.org/wiki/Microsoft_Outlook_Express "wikilink")
+XP中的遠端協助整合。Windows Messenger亦與Windows XP Media Center Edition中的Media
+Center整合。Windows Messenger可以與[Exchange Server 2000 Instant Messaging
+Service和](https://zh.wikipedia.org/wiki/Exchange_Server_2000_Instant_Messaging_Service "wikilink")[.NET
+Messenger
+Service溝通](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")。
 
 Windows Messenger的開發在版本5.1之後停止了，而後續者是[Windows Live
 Messenger和](../Page/Windows_Live_Messenger.md "wikilink")[Office
-Communicator](../Page/Microsoft_Office_Communicator.md "wikilink")。Windows
+Communicator](https://zh.wikipedia.org/wiki/Microsoft_Office_Communicator "wikilink")。Windows
 Messenger的插件，例如登入Hotmail戶口收件箱的插件，亦不能繼續使用。用戶可視乎需要，選擇使用Windows Live
 Messenger或者Office Communicator。
 
@@ -76,13 +76,13 @@ Messenger的介面，與標準Windows XP的Luna主題相似。
 
 修正了一個[安全性問題](https://web.archive.org/web/20071023180902/http://www.microsoft.com/technet/security/Bulletin/MS05-009.mspx)，與[Windows
 XP Media Center
-Edition](../Page/Windows_XP_Media_Center_Edition.md "wikilink")
+Edition](https://zh.wikipedia.org/wiki/Windows_XP_Media_Center_Edition "wikilink")
 2005一同發佈，也是WIndows XP Service Pack 2中版本4.7.3000的一個更新。
 
   - Version 4.8
 
 新增支援手寫功能寫入，與[Windows XP Tablet PC
-Edition](../Page/Windows_XP_Tablet_PC_Edition.md "wikilink")2005一同發佈。
+Edition](https://zh.wikipedia.org/wiki/Windows_XP_Tablet_PC_Edition "wikilink")2005一同發佈。
 
 ### Windows Messenger 5.x
 
@@ -90,10 +90,10 @@ Edition](../Page/Windows_XP_Tablet_PC_Edition.md "wikilink")2005一同發佈。
 Server 2003使用](../Page/Windows_Server_2003.md "wikilink")。
 
   - Version 5.0
-      - 第一個支援[LCS的版本](../Page/Microsoft_Live_Communication_Server.md "wikilink")。
+      - 第一個支援[LCS的版本](https://zh.wikipedia.org/wiki/Microsoft_Live_Communication_Server "wikilink")。
   - Version 5.1.0639（2004年12月1日）。新功能
     [1](http://support.microsoft.com/kb/899283):
-      - 第一個支援[LCS](../Page/Microsoft_Live_Communication_Server.md "wikilink")
+      - 第一個支援[LCS](https://zh.wikipedia.org/wiki/Microsoft_Live_Communication_Server "wikilink")
         2005的版本。
       - 增強對Tablet PC和手寫功能寫入的支援。
       - 當使用者執行全屏程式，或者Windows Installer的安裝程式時，狀態可以自動調較為「忙碌」。
@@ -116,14 +116,14 @@ Server 2003使用](../Page/Windows_Server_2003.md "wikilink")。
 
 ## 参见
 
-  - [即时通讯软件列表](../Page/即时通讯软件列表.md "wikilink")
+  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
   - [即时通讯软件比较](../Page/即时通讯软件比较.md "wikilink")
   - [Comparison of instant messaging
-    protocols](../Page/Comparison_of_instant_messaging_protocols.md "wikilink")
+    protocols](https://zh.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols "wikilink")
   - [Windows Live
     Messenger](../Page/Windows_Live_Messenger.md "wikilink")
   - [Microsoft Office
-    Communicator](../Page/Microsoft_Office_Communicator.md "wikilink")
+    Communicator](https://zh.wikipedia.org/wiki/Microsoft_Office_Communicator "wikilink")
 
 [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")

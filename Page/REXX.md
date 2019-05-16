@@ -1,6 +1,6 @@
 **REXX**（Restructured Extended
-Executor）是[IBM在](../Page/IBM.md "wikilink")1980年代发明的一种[程序设计语言](../Page/程序设计语言.md "wikilink")。主要用在IBM的[大型计算机](../Page/大型计算机.md "wikilink")（Mainframe
-Computer）上，但在大部份其他的平台上也可以找到它的[解译器或](../Page/解译器.md "wikilink")[编译器](../Page/编译器.md "wikilink")。另有[面向对象的版本](../Page/面向对象.md "wikilink")，称为ObjectRexx。
+Executor）是[IBM在](../Page/IBM.md "wikilink")1980年代发明的一种[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")。主要用在IBM的[大型计算机](../Page/大型计算机.md "wikilink")（Mainframe
+Computer）上，但在大部份其他的平台上也可以找到它的[解译器或](https://zh.wikipedia.org/wiki/解译器 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。另有[面向对象的版本](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，称为ObjectRexx。
 
 ## 語言特色
 

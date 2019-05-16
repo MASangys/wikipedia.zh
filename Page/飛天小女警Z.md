@@ -1,4 +1,4 @@
-《**飛天小女警Z**》（，，簡稱**PPGZ**）是一部改編自[美國動畫](../Page/美國動畫.md "wikilink")《[飛天小女警](../Page/飛天小女警.md "wikilink")》的[日本動畫作品](../Page/日本動畫.md "wikilink")，於2006年至2007年間在[東京電視台首播](../Page/東京電視台.md "wikilink")，亦為[東映動畫創立](../Page/東映動畫.md "wikilink")50周年紀念作品。
+《**飛天小女警Z**》（，，簡稱**PPGZ**）是一部改編自[美國動畫](https://zh.wikipedia.org/wiki/美國動畫 "wikilink")《[飛天小女警](../Page/飛天小女警.md "wikilink")》的[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，於2006年至2007年間在[東京電視台首播](../Page/東京電視台.md "wikilink")，亦為[東映動畫創立](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")50周年紀念作品。
 
 ## 登場角色
 
@@ -14,7 +14,7 @@
 
   -
     聲優：[加藤英美里](../Page/加藤英美里.md "wikilink")（日）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台）；[曾秀清](../Page/曾秀清.md "wikilink")（TVB）、[周文瑛](../Page/周文瑛.md "wikilink")（Cable）（港）
-    代表形狀：[心形](../Page/心形.md "wikilink")　代表顏色：[粉紅色](../Page/粉紅色.md "wikilink")
+    代表形狀：[心形](https://zh.wikipedia.org/wiki/心形 "wikilink")　代表顏色：[粉紅色](https://zh.wikipedia.org/wiki/粉紅色 "wikilink")
     本作品女主角之一，也是第一女主角。
     私立東京市學園中學部1-2年級生、13歲（2007年版14歲）。暱稱**桃子**。姓氏由來為[東京都](../Page/東京都.md "wikilink")[世田谷區的](../Page/世田谷區.md "wikilink")「[赤堤](../Page/赤堤.md "wikilink")」。
     性格活潑開朗。具有相當長的橘色馬尾辮並綁著紅色大蝴蝶結，可當作迴力標使用（原作為炸彈）。喜愛吃甜點，甚至許多攻擊名稱都跟點心有關，例如：「冰淇淋麻糬射擊」、「草莓麻糬射擊」、「蘋果派射擊」…等。在她的眼中到處都有帥哥，而遇見自己心儀的會變得極度興奮；偶爾更會主動向看上眼的對象示愛，但從未被接受過。對特攝片的著迷程度是全年級知名的。
@@ -29,10 +29,10 @@
 
   -
     聲優：（日）；[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台）；[何璐怡](../Page/何璐怡.md "wikilink")（TVB）、[鄭家蕙](../Page/鄭家蕙.md "wikilink")（Cable）（港）
-    代表形狀：[圓形](../Page/圓形.md "wikilink")　代表顏色：[藍色](../Page/藍色.md "wikilink")
+    代表形狀：[圓形](https://zh.wikipedia.org/wiki/圓形 "wikilink")　代表顏色：[藍色](../Page/藍色.md "wikilink")
     本作品女主角之一。
     私立東京市學園中學部1-2年級生、13歲。暱稱**小都**。姓氏由來為[東京都](../Page/東京都.md "wikilink")[世田谷區的](../Page/世田谷區.md "wikilink")「[豪德寺](../Page/豪德寺.md "wikilink")」。
-    有著[天然呆性格](../Page/天然呆.md "wikilink")。可聽懂非人類語言、具有金髮綁雙馬尾及喜歡可愛事物。從小至今都與祖母同居，兩人同住在一間老[房子](../Page/房子.md "wikilink")。
+    有著[天然呆性格](../Page/天然呆.md "wikilink")。可聽懂非人類語言、具有金髮綁雙馬尾及喜歡可愛事物。從小至今都與祖母同居，兩人同住在一間老[房子](https://zh.wikipedia.org/wiki/房子 "wikilink")。
     作戰使用武器為大型吹泡泡工具，吹出來的泡泡可具有攻擊力，亦可包住任何物品。
     櫃子總被放滿情書，也是全年級最受歡迎的女生，不過男生們的邀約都被她欣然婉拒。
     初戀對象為鯰貝高明，依劇中線索來看，彼此認識的時間大約只有2分鐘又30秒。
@@ -44,12 +44,12 @@
 <!-- end list -->
 
   -
-    聲優：[川名真知子](../Page/川名真知子.md "wikilink")（日）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台）；[梁少霞](../Page/梁少霞.md "wikilink")（TVB）、[曾月娥](../Page/曾月娥.md "wikilink")（Cable）（港）
+    聲優：[川名真知子](../Page/川名真知子.md "wikilink")（日）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台）；[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")（TVB）、[曾月娥](../Page/曾月娥.md "wikilink")（Cable）（港）
     代表形狀：星形　代表顏色：[綠色](../Page/綠色.md "wikilink")
     本作品女主角之一。
-    私立東京市學園中學部1-2年級生、13歲。暱稱**小薰**（中文稱**薰薰**）。姓氏由來為是[東京都](../Page/東京都.md "wikilink")[世田谷區的](../Page/世田谷區.md "wikilink")「[松原](../Page/松原.md "wikilink")」。
+    私立東京市學園中學部1-2年級生、13歲。暱稱**小薰**（中文稱**薰薰**）。姓氏由來為是[東京都](../Page/東京都.md "wikilink")[世田谷區的](../Page/世田谷區.md "wikilink")「[松原](https://zh.wikipedia.org/wiki/松原 "wikilink")」。
     紫黑色短髮。因為家中只有一位女孩，其餘都是兄弟，故對任何事情有強烈挑戰，也很有男子氣概，不會因一點挫折而感到氣餒，反而愈挫愈勇；在學校是全年級最棒的運動健將；不喜歡人家和她貼得太近，特別是囉嗦的女孩子；對於變身後必須要穿裙子感到相當討厭，初期因穿著太少時常感冒，後期則已習慣，但被人說適合穿裙子時仍會相當憤怒。
-    是三位小女警之中的皇牌，作戰使用武器為大[鐵鎚](../Page/鐵鎚.md "wikilink")，不僅可對敵人「敲打」，也能使出「衝擊波」。
+    是三位小女警之中的皇牌，作戰使用武器為大[鐵鎚](https://zh.wikipedia.org/wiki/鐵鎚 "wikilink")，不僅可對敵人「敲打」，也能使出「衝擊波」。
     似乎非常受到女性同學的愛慕。
     有一次為了追求一位學長而改變造型，結果似乎有著能讓男性心動不已的威力，但只維持一集就消失。
     夢想似乎是成為職業摔角手。
@@ -63,10 +63,10 @@
 <!-- end list -->
 
   -
-    聲優：日本：[楠大典](../Page/楠大典.md "wikilink")；台灣：[孫德成](../Page/孫德成.md "wikilink")；香港：[蘇強文](../Page/蘇強文.md "wikilink")
-    簡稱「尤教授」，動畫版年齡三十五歲。在一間名叫「國際[科學](../Page/科學.md "wikilink")[研究所](../Page/研究所.md "wikilink")」的[實驗室內研究各項高科技](../Page/實驗室.md "wikilink")[實驗的](../Page/實驗.md "wikilink")[博士](../Page/博士.md "wikilink")，「化學物X」的創造者，「化學物Z」是因為機器狗奇奇不小心把[大福丟入](../Page/大福.md "wikilink")「化學物X」後，產生比「化學物X」更強的化學物，才取名為「化學物Z」。
-    飛天小女警Z並不是他採用[糖](../Page/糖.md "wikilink")、香料，以及一切美好的事物所創造的，故與尤教授無直接關係，但尤教授卻自認是她們的代理父親，因此對於小女警們如果有戀愛等一些大事，會顯得特別擔心。
-    其姓氏由來是[日本](../Page/日本.md "wikilink")[東京都世谷地區一個叫做](../Page/東京都.md "wikilink")[下北沢](../Page/下北沢.md "wikilink")（）的地方（其子小賢的姓氏來源亦相同）。
+    聲優：日本：[楠大典](../Page/楠大典.md "wikilink")；台灣：[孫德成](https://zh.wikipedia.org/wiki/孫德成 "wikilink")；香港：[蘇強文](../Page/蘇強文.md "wikilink")
+    簡稱「尤教授」，動畫版年齡三十五歲。在一間名叫「國際[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")[研究所](../Page/研究所.md "wikilink")」的[實驗室內研究各項高科技](https://zh.wikipedia.org/wiki/實驗室 "wikilink")[實驗的](https://zh.wikipedia.org/wiki/實驗 "wikilink")[博士](../Page/博士.md "wikilink")，「化學物X」的創造者，「化學物Z」是因為機器狗奇奇不小心把[大福丟入](https://zh.wikipedia.org/wiki/大福 "wikilink")「化學物X」後，產生比「化學物X」更強的化學物，才取名為「化學物Z」。
+    飛天小女警Z並不是他採用[糖](https://zh.wikipedia.org/wiki/糖 "wikilink")、香料，以及一切美好的事物所創造的，故與尤教授無直接關係，但尤教授卻自認是她們的代理父親，因此對於小女警們如果有戀愛等一些大事，會顯得特別擔心。
+    其姓氏由來是[日本](../Page/日本.md "wikilink")[東京都世谷地區一個叫做](../Page/東京都.md "wikilink")[下北沢](https://zh.wikipedia.org/wiki/下北沢 "wikilink")（）的地方（其子小賢的姓氏來源亦相同）。
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@
 
   -
     聲優：日本：[田中秀幸](../Page/田中秀幸.md "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")；香港：[黃子敬](../Page/黃子敬.md "wikilink")
-    漫畫版年齡五十二歲。與原作不同於身高提升許多、沒有禿頭，但依舊膽小懼怕、愛吃點心。負責掌管[東京市](../Page/東京市.md "wikilink")，當東京市任何一個地方有危機需要小女警們的幫忙，就會透過[螢光幕向尤教授求救](../Page/螢光幕.md "wikilink")，但矛盾點在第三十九話第二部分，怪獸謊報北海道遭到怪獸襲擊，還是請飛天小女警Z去北海道出任務，顯然超出東京市的範圍。
+    漫畫版年齡五十二歲。與原作不同於身高提升許多、沒有禿頭，但依舊膽小懼怕、愛吃點心。負責掌管[東京市](../Page/東京市.md "wikilink")，當東京市任何一個地方有危機需要小女警們的幫忙，就會透過[螢光幕向尤教授求救](https://zh.wikipedia.org/wiki/螢光幕 "wikilink")，但矛盾點在第三十九話第二部分，怪獸謊報北海道遭到怪獸襲擊，還是請飛天小女警Z去北海道出任務，顯然超出東京市的範圍。
     下午三點的[點心時間是他萬萬不能錯過的好時光](../Page/下午茶.md "wikilink")，如果有人打擾的話便會十分憤怒。
     對於市長的職位非常重視，所以當小女警因為怪物影響而說要出來選市長時，還顯得憂心忡忡。
 
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[川浪葉子](../Page/川浪葉子.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
+    聲優：日本：[川浪葉子](https://zh.wikipedia.org/wiki/川浪葉子 "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
     全名為“莎拉‧貝倫”，現任市長先生的助理，漫畫版年齡三十五歲。身材高挑、時常穿著白色連身衣、留著金色波浪長髮。作品中任何人都能看到她的真面目，但依舊不讓電視機前的觀眾看清楚。
 
 <!-- end list -->
@@ -98,8 +98,8 @@
 
   -
     聲優：日本：[秋谷智子](../Page/秋谷智子.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[沈小蘭](../Page/沈小蘭.md "wikilink")
-    原作擔任小橡樹[幼稚園的](../Page/幼稚園.md "wikilink")[老師](../Page/老師.md "wikilink")，即使舞台轉到東京市[國中](../Page/國中.md "wikilink")，仍是三位小女警們班上的導師（其實是經由安排，三人才會同班），在動畫版中是教文科的。
-    非常有愛心，曾在魔人啾啾駕駛魔人機器人破壞[學校時](../Page/學校.md "wikilink")，不但不畏懼，更向魔人啾啾說明「性本善」的道理，並請魔人啾啾不要再破壞[學校](../Page/學校.md "wikilink")。
+    原作擔任小橡樹[幼稚園的](../Page/幼稚園.md "wikilink")[老師](https://zh.wikipedia.org/wiki/老師 "wikilink")，即使舞台轉到東京市[國中](https://zh.wikipedia.org/wiki/國中 "wikilink")，仍是三位小女警們班上的導師（其實是經由安排，三人才會同班），在動畫版中是教文科的。
+    非常有愛心，曾在魔人啾啾駕駛魔人機器人破壞[學校時](https://zh.wikipedia.org/wiki/學校 "wikilink")，不但不畏懼，更向魔人啾啾說明「性本善」的道理，並請魔人啾啾不要再破壞[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")。
     認識一些知名人物，包括美國總統和男明星。
     對於小女警要出動而暫時離開的藉口，有一套應付方法，似乎是當中最能壓制小女警的人。
     男友是個地底人，雖然曾與他短暫分手過，但最後還是忘不了他，而與他復合。
@@ -111,8 +111,8 @@
 <!-- end list -->
 
   -
-    聲優：日本：[大本真基子](../Page/大本真基子.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[黃玉娟](../Page/黃玉娟.md "wikilink")
-    通稱**小賢**，在作品中是尤教授的[獨生子](../Page/獨生子.md "wikilink")，也是尤教授的助理。動畫版年齡八歲，但已從[醫學系畢業](../Page/醫學系.md "wikilink")，取得[博士學位](../Page/博士.md "wikilink")，可說是奇才。
+    聲優：日本：[大本真基子](../Page/大本真基子.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[黃玉娟](../Page/黃玉娟.md "wikilink")
+    通稱**小賢**，在作品中是尤教授的[獨生子](https://zh.wikipedia.org/wiki/獨生子 "wikilink")，也是尤教授的助理。動畫版年齡八歲，但已從[醫學系畢業](../Page/醫學系.md "wikilink")，取得[博士學位](../Page/博士.md "wikilink")，可說是奇才。
     在第一集中，為了拯救[地球](../Page/地球.md "wikilink")「不尋常的[氣候](../Page/氣候.md "wikilink")」，擅自使用與父親尤教授「共同研發」的「化學物Z」，結果打破冰山內封印著「他」的靈魂、表面塗滿Kennainum
     he的箱子，桃子、小都及薰薰都是因為不小心被四散的Kennainum
     he（白光）波及到，而產生不可思議的力量，但飛散的「他」的靈魂（黑光）也造成其他敵人的產生。
@@ -128,7 +128,7 @@
 
   -
     聲優：日本：；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[黃麗芳](../Page/黃麗芳.md "wikilink")
-    極少登場，因為自小賢小時候就離開家庭至[外太空](../Page/外太空.md "wikilink")，是必須時常登上[宇宙船工作的一位女性](../Page/宇宙船.md "wikilink")，雖對小賢疼愛有加，唯不能與小賢面對面的見面，是一大遺憾。
+    極少登場，因為自小賢小時候就離開家庭至[外太空](https://zh.wikipedia.org/wiki/外太空 "wikilink")，是必須時常登上[宇宙船工作的一位女性](https://zh.wikipedia.org/wiki/宇宙船 "wikilink")，雖對小賢疼愛有加，唯不能與小賢面對面的見面，是一大遺憾。
 
 <!-- end list -->
 
@@ -138,8 +138,8 @@
 
   -
     聲優：日本：[金田朋子](../Page/金田朋子.md "wikilink")；台灣：[楊凱凱](../Page/楊凱凱.md "wikilink")；香港：[伍秀霞](../Page/伍秀霞.md "wikilink")
-    一隻由尤教授創造出的[機械](../Page/機械.md "wikilink")[狗](../Page/狗.md "wikilink")，是為了讓小賢不要太寂寞而有的[機械](../Page/機械.md "wikilink")[狗](../Page/狗.md "wikilink")。在小賢擅自使用「化學物Z」後，原本奇奇不會說話，被白光擊中後變得會說話。每次說話都會加上「噠汪（Dawan／）」為結尾。
-    能夠感應到邪惡勢力（黑色氣團），當[東京市區需要小女警們的幫忙](../Page/東京.md "wikilink")，就跟美版原作一樣，成了「熱線」（Hotline），無論小女警們在多遠的地方（除了地下室、外太空或其他訊息收不到的地方外），小女警的變身腰帶都能接收得到奇奇呼叫的聲音，此時就是小女警們該出任務的時候。
+    一隻由尤教授創造出的[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")[狗](https://zh.wikipedia.org/wiki/狗 "wikilink")，是為了讓小賢不要太寂寞而有的[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")[狗](https://zh.wikipedia.org/wiki/狗 "wikilink")。在小賢擅自使用「化學物Z」後，原本奇奇不會說話，被白光擊中後變得會說話。每次說話都會加上「噠汪（Dawan／）」為結尾。
+    能夠感應到邪惡勢力（黑色氣團），當[東京市區需要小女警們的幫忙](https://zh.wikipedia.org/wiki/東京 "wikilink")，就跟美版原作一樣，成了「熱線」（Hotline），無論小女警們在多遠的地方（除了地下室、外太空或其他訊息收不到的地方外），小女警的變身腰帶都能接收得到奇奇呼叫的聲音，此時就是小女警們該出任務的時候。
     性別不明，但曾經愛上藍寶石，而願意成為公狗，但最後還是被藍寶石甩掉。
 
 <!-- end list -->
@@ -150,7 +150,7 @@
 
   -
     聲優：日本：[西村知道](../Page/西村知道.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張炳強](../Page/張炳強.md "wikilink")→[源家祥](../Page/源家祥.md "wikilink")
-    市長先生的弟弟，也是小女警們所在[學校的校長](../Page/學校.md "wikilink")，有不倒翁般的臉譜是其特徵。
+    市長先生的弟弟，也是小女警們所在[學校的校長](https://zh.wikipedia.org/wiki/學校 "wikilink")，有不倒翁般的臉譜是其特徵。
     跟哥哥一樣喜愛甜點。
 
 <!-- end list -->
@@ -161,7 +161,7 @@
 
   -
     聲優：日本：；台灣：[林谷珍](../Page/林谷珍.md "wikilink")；香港：[朱子聰](../Page/朱子聰.md "wikilink")
-    第一話正式登場，在該話剛好小女警們的變身腰帶閃爍，表示奇奇給了她們任務，雖然「不約而同」的向[數學](../Page/數學.md "wikilink")[老師報備](../Page/老師.md "wikilink")「因肚子痛去保健室休息一會」，數學老師感到困惑一陣子後又「若無其事」地繼續講解[黑板上的](../Page/黑板.md "wikilink")[數學](../Page/數學.md "wikilink")[公式](../Page/公式.md "wikilink")。
+    第一話正式登場，在該話剛好小女警們的變身腰帶閃爍，表示奇奇給了她們任務，雖然「不約而同」的向[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[老師報備](https://zh.wikipedia.org/wiki/老師 "wikilink")「因肚子痛去保健室休息一會」，數學老師感到困惑一陣子後又「若無其事」地繼續講解[黑板上的](https://zh.wikipedia.org/wiki/黑板 "wikilink")[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[公式](https://zh.wikipedia.org/wiki/公式 "wikilink")。
 
 <!-- end list -->
 
@@ -170,8 +170,8 @@
 <!-- end list -->
 
   -
-    聲優：日本：；台灣：[林谷珍](../Page/林谷珍.md "wikilink")→[孫德成](../Page/孫德成.md "wikilink")（第45集上）；香港：[林國雄](../Page/林國雄.md "wikilink")
-    負責在桃子、小都和薰薰班上教導的[老師](../Page/老師.md "wikilink")，其負責科目為[生物](../Page/生物.md "wikilink")、[物理](../Page/物理.md "wikilink")、[化學等理科科目](../Page/化學.md "wikilink")。
+    聲優：日本：；台灣：[林谷珍](../Page/林谷珍.md "wikilink")→[孫德成](https://zh.wikipedia.org/wiki/孫德成 "wikilink")（第45集上）；香港：[林國雄](../Page/林國雄.md "wikilink")
+    負責在桃子、小都和薰薰班上教導的[老師](https://zh.wikipedia.org/wiki/老師 "wikilink")，其負責科目為[生物](../Page/生物.md "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學等理科科目](../Page/化學.md "wikilink")。
     任教已有四十年，教學經驗豐富。而小女警們頻頻上課一半就到保健室的舉動，也讓他注意到。
 
 <!-- end list -->
@@ -190,7 +190,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
+    聲優：日本：；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@
 
       -
         以上兩位是桃子、小都和薰薰的同班同學，也是白金姬子的跟班。曾因沾到「他」的黑粉而變成怪獸（請參照**跟班二人組**） 。
-        其姓氏由來，是[日本](../Page/日本.md "wikilink")[東京都目黑地區的](../Page/東京都.md "wikilink")[中目黒與](../Page/中目黒.md "wikilink")[碑文谷](../Page/碑文谷.md "wikilink")。
+        其姓氏由來，是[日本](../Page/日本.md "wikilink")[東京都目黑地區的](../Page/東京都.md "wikilink")[中目黒與](https://zh.wikipedia.org/wiki/中目黒 "wikilink")[碑文谷](../Page/碑文谷.md "wikilink")。
 
 <!-- end list -->
 
@@ -207,8 +207,8 @@
 <!-- end list -->
 
   -
-    聲優：日本：[宍戸留美](../Page/宍戸留美.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
-    十五歲。是一家極富盛名的[點心店金時堂的負責人](../Page/點心.md "wikilink")，性格溫柔，被黑光打中後，可以變成與櫻子差異之大的邪惡女性**瑟杜莎**（請參照**反派角色**）。
+    聲優：日本：[宍戸留美](https://zh.wikipedia.org/wiki/宍戸留美 "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
+    十五歲。是一家極富盛名的[點心店金時堂的負責人](https://zh.wikipedia.org/wiki/點心 "wikilink")，性格溫柔，被黑光打中後，可以變成與櫻子差異之大的邪惡女性**瑟杜莎**（請參照**反派角色**）。
     當金時櫻子不是瑟杜莎的時候，就不是女孩們的[敵人](../Page/敵人.md "wikilink")，而桃子也非常喜愛金時堂的甜點。
 
 <!-- end list -->
@@ -218,7 +218,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[山口勝平](../Page/山口勝平.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張預東](../Page/張裕東.md "wikilink")
+    聲優：日本：[山口勝平](../Page/山口勝平.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張預東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
     與金時櫻子彼此愛戀，《飛天小女警Z》原創角色。起初並不知道櫻子因為黑光而會成為怪獸，也因此，即使瑟杜莎努力要勾引他，卻都被他無視；後期親眼看見這個事實，令他難以相信。
     對櫻子相當癡情，曾為了幫助他而到處找尋優秀的紅豆和放棄大公司的工作，以便研究種出最好的紅豆。
 
@@ -245,7 +245,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[岡村明美](../Page/岡村明美.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")
+    聲優：日本：[岡村明美](../Page/岡村明美.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
     桃子的媽媽。
 
 <!-- end list -->
@@ -255,7 +255,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[齋藤千和](../Page/齋藤千和.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")（第3集下）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
+    聲優：日本：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")（第3集下）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
     桃子的妹妹，第二十四話正式登場，與小賢同一班。
     可能是受了姊姊的影響，和桃子同樣愛看特攝片；值得一提的是栗子非常著迷於劇中男性之間的情誼。
 
@@ -270,7 +270,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[渡邊美佐](../Page/渡邊美佐.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")→[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
+    聲優：日本：[渡邊美佐](../Page/渡邊美佐.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")→[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
     小都的祖母。
     是傳統的賢慧女性，非常重視女生的舉止。
 
@@ -285,8 +285,8 @@
 <!-- end list -->
 
   -
-    聲優：日本：[園部啓一](../Page/園部啓一.md "wikilink")；台灣：[林谷珍](../Page/林谷珍.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")
-    薰薰的父親，也是[職業摔角手](../Page/摔角手.md "wikilink")，而除了[洗澡以外](../Page/洗澡.md "wikilink")，總是會戴上摔角面具，似乎不想讓其他人「看清楚」他的真面目，不過在與「大熊貓假面」（）對戰時下了約定，要是摔角比賽輸了，輸家必須摘下自己的面具，給大家看清楚真面目，最後薰薰的父親贏了，但也在私底下讓薰薰「看清楚」，薰薰想不到自己還有一位英俊的父親，不過依然沒給觀眾看到。
+    聲優：日本：[園部啓一](https://zh.wikipedia.org/wiki/園部啓一 "wikilink")；台灣：[林谷珍](../Page/林谷珍.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")
+    薰薰的父親，也是[職業摔角手](https://zh.wikipedia.org/wiki/摔角手 "wikilink")，而除了[洗澡以外](https://zh.wikipedia.org/wiki/洗澡 "wikilink")，總是會戴上摔角面具，似乎不想讓其他人「看清楚」他的真面目，不過在與「大熊貓假面」（）對戰時下了約定，要是摔角比賽輸了，輸家必須摘下自己的面具，給大家看清楚真面目，最後薰薰的父親贏了，但也在私底下讓薰薰「看清楚」，薰薰想不到自己還有一位英俊的父親，不過依然沒給觀眾看到。
 
 <!-- end list -->
 
@@ -305,7 +305,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[山口眞弓](../Page/山口眞弓.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")（第3集下）：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張預東](../Page/張裕東.md "wikilink")
+    聲優：日本：[山口眞弓](https://zh.wikipedia.org/wiki/山口眞弓 "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")（第3集下）：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張預東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
     薰薰的哥哥。
     正是桃子喜歡的類型，在第四十一話第二部分中，與薰薰交換了身體的桃子不但被他又摟又抱，還意外看到他剛洗完澡只穿條四角褲走出來的模樣，令她大呼過癮。
 
@@ -316,7 +316,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[砂倉加奈子](../Page/砂倉加奈子.md "wikilink")；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（第3集下）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[袁淑珍](../Page/袁淑珍.md "wikilink")
+    聲優：日本：[砂倉加奈子](https://zh.wikipedia.org/wiki/砂倉加奈子 "wikilink")；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（第3集下）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[袁淑珍](../Page/袁淑珍.md "wikilink")
     薰薰的弟弟。
 
 ### 其他非反派角色
@@ -328,8 +328,8 @@
 <!-- end list -->
 
   -
-    聲優：日本：[草尾毅](../Page/草尾毅.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[黃榮璋](../Page/黃榮璋.md "wikilink")→[張預東](../Page/張裕東.md "wikilink")
-    第七話正式登場，是一個[日本](../Page/日本.md "wikilink")[特攝節目內的主角](../Page/特攝.md "wikilink")，也曾被市長聘請成為「一日市長」，不過膽子非常小，連[氣球破掉的聲音也會害怕](../Page/氣球.md "wikilink")，可謂「虛有其表」。
+    聲優：日本：[草尾毅](../Page/草尾毅.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[黃榮璋](../Page/黃榮璋.md "wikilink")→[張預東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
+    第七話正式登場，是一個[日本](../Page/日本.md "wikilink")[特攝節目內的主角](https://zh.wikipedia.org/wiki/特攝 "wikilink")，也曾被市長聘請成為「一日市長」，不過膽子非常小，連[氣球破掉的聲音也會害怕](https://zh.wikipedia.org/wiki/氣球 "wikilink")，可謂「虛有其表」。
     魔人啾啾想要佔領市長之座，以征服世界之同時，看到英雄好欺負也懦弱，就趁著大家不注意將英雄抓來當人質，最後超能花花想起在節目中，英雄以強烈的日光為背景，讓敵人睜不開雙眼，也用同樣的方法，擊敗魔人啾啾，英雄才得以被拯救。
 
 <!-- end list -->
@@ -339,21 +339,21 @@
 <!-- end list -->
 
   -
-    第三十話的主要角色，是尤教授對小賢提到的三位人物。尤教授提到在[江戶時代](../Page/江戶時代.md "wikilink")，有一個非常陰險的惡人無惡不作，那就是「他」，「他」最愛焚燒民宅，因為可以取暖，很多官兵都拿「他」沒有辦法。
+    第三十話的主要角色，是尤教授對小賢提到的三位人物。尤教授提到在[江戶時代](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")，有一個非常陰險的惡人無惡不作，那就是「他」，「他」最愛焚燒民宅，因為可以取暖，很多官兵都拿「他」沒有辦法。
     一位叫做平賀賢內（）的[博士](../Page/博士.md "wikilink")，創造了叫做Kennainum
     he（）的化學物，用來對付「他」，平賀賢內[博士在街上看中三名女孩子](../Page/博士.md "wikilink")，就拿著Kennainum
     he對著三位女孩子灑，頓時間，三位女孩子有了超能力，也能飛翔，平賀賢內深信，有了Kennainum
-    he，超能少女組們就能輕易地對付「他」這個頭號怪物。不過，超能少女組的一位成員對平賀賢內[博士的命名似乎有點不太滿意](../Page/博士.md "wikilink")，也有成員認為不用[名字才比較好](../Page/名字.md "wikilink")，爭論不休的同時，有人告知「他」出來大肆破壞了，這時平賀賢內[博士就請超能少女組去打敗](../Page/博士.md "wikilink")「他」。
+    he，超能少女組們就能輕易地對付「他」這個頭號怪物。不過，超能少女組的一位成員對平賀賢內[博士的命名似乎有點不太滿意](../Page/博士.md "wikilink")，也有成員認為不用[名字才比較好](https://zh.wikipedia.org/wiki/名字 "wikilink")，爭論不休的同時，有人告知「他」出來大肆破壞了，這時平賀賢內[博士就請超能少女組去打敗](../Page/博士.md "wikilink")「他」。
     一開始，超能少女組們雖然擁有超能力，但「他」的力量無比，兩隻螯狀的手臂能夠伸縮自如，香子吃了大虧，正當「他」正要趁機收拾大江戶超能少女組時，天上下起了[雪](../Page/雪.md "wikilink")，怕冷的「他」作戰能力因而大打折扣，此時大江戶超能少女組趁機各自施展了必殺技，成功地打敗「他」這個頭號大敵，並由平賀賢內[博士透過靜電感應器](../Page/博士.md "wikilink")，順利將黑光和身體分開，並立刻將靈魂封印在一個箱子內，用Kennainum
-    he塗滿箱子表面，由大江戶超能少女組合力將箱子丟入大[海中](../Page/海.md "wikilink")，同時平賀賢內[博士也用Kennainum](../Page/博士.md "wikilink")
+    he塗滿箱子表面，由大江戶超能少女組合力將箱子丟入大[海中](https://zh.wikipedia.org/wiki/海 "wikilink")，同時平賀賢內[博士也用Kennainum](../Page/博士.md "wikilink")
     he將「他」的身體封印於石棺柩內，將石棺放置在神社。放置石棺的神社，在現代被改建為博物館。
     「他」被封印了一百年，又透過[木乃伊找到飛天小女警Z的白光來源](../Page/木乃伊.md "wikilink")，才得以再次進行復仇計畫。
     三位超能少女組均穿著[和服](../Page/和服.md "wikilink")，其三名成員敘述如下：
 
 <!-- end list -->
 
-  -   - **桃子**（）（聲優：同超能花花）：雖然沒有超能花花如此長的頭髮，但面貌很像超能花花。作戰武器是繫著[紅色繩子的有洞銅幣](../Page/紅色.md "wikilink")，類似超能花花的溜溜球。其必殺技名稱叫做「串烤丸子攻擊」（）。
-      - **宮子**（）（聲優：同旋轉泡泡）：保留了大部分旋轉泡泡的髮型，但[顏色不像](../Page/顏色.md "wikilink")。作戰武器是大型的[扇子](../Page/扇子.md "wikilink")，輕輕一揮，就可以產生強力的[風](../Page/風.md "wikilink")。必殺技名稱叫做「猛烈一扇」（）。
+  -   - **桃子**（）（聲優：同超能花花）：雖然沒有超能花花如此長的頭髮，但面貌很像超能花花。作戰武器是繫著[紅色繩子的有洞銅幣](https://zh.wikipedia.org/wiki/紅色 "wikilink")，類似超能花花的溜溜球。其必殺技名稱叫做「串烤丸子攻擊」（）。
+      - **宮子**（）（聲優：同旋轉泡泡）：保留了大部分旋轉泡泡的髮型，但[顏色不像](https://zh.wikipedia.org/wiki/顏色 "wikilink")。作戰武器是大型的[扇子](../Page/扇子.md "wikilink")，輕輕一揮，就可以產生強力的[風](../Page/風.md "wikilink")。必殺技名稱叫做「猛烈一扇」（）。
       - **香子**（）（聲優：同強力毛毛）：保留了部分強力毛毛的設定，髮型不像外，髮色卻相同。作戰的武器是大槌子，跟強力毛毛的槌子是一樣，都具有強大的殺傷力，但使不出衝擊波。必殺技名稱叫做「打達摩」（）。
 
 <!-- end list -->
@@ -365,7 +365,7 @@
   -
     聲優：日本：[高木禮子](../Page/高木禮子.md "wikilink")；台灣：[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")
     第三十二話正式登場，與桃子等人是同班同學。
-    非常喜愛欺負班上的女同學加以惡作劇，連小都、薰薰和姬子也難逃魔掌，起初唯獨跳過桃子，正是因為喜歡她的關係，才會無法下手欺負她，也因為喜歡桃子，讓桃子「深深墜入[愛河](../Page/愛河.md "wikilink")」；但在該話後來與桃子再次相遇時，卻「惡性大發」，拿出一大堆[整人玩具](../Page/整人.md "wikilink")，讓她也被欺負。
+    非常喜愛欺負班上的女同學加以惡作劇，連小都、薰薰和姬子也難逃魔掌，起初唯獨跳過桃子，正是因為喜歡她的關係，才會無法下手欺負她，也因為喜歡桃子，讓桃子「深深墜入[愛河](../Page/愛河.md "wikilink")」；但在該話後來與桃子再次相遇時，卻「惡性大發」，拿出一大堆[整人玩具](https://zh.wikipedia.org/wiki/整人 "wikilink")，讓她也被欺負。
 
 <!-- end list -->
 
@@ -398,8 +398,8 @@
 <!-- end list -->
 
   -
-    聲優：日本：[笠原留美](../Page/笠原留美.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")
-    照顧過魔人啾啾的[護士小姐](../Page/護士.md "wikilink")，曾說過「喜歡有著猴子臉」的那一類，讓魔人啾啾以為菜菜子是喜歡牠。直到魔人啾啾看到了猿田醫生也有著猴子臉的樣子，更是菜菜子喜愛的那一型，讓魔人啾啾難以接受這個事實。
+    聲優：日本：[笠原留美](../Page/笠原留美.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
+    照顧過魔人啾啾的[護士小姐](https://zh.wikipedia.org/wiki/護士 "wikilink")，曾說過「喜歡有著猴子臉」的那一類，讓魔人啾啾以為菜菜子是喜歡牠。直到魔人啾啾看到了猿田醫生也有著猴子臉的樣子，更是菜菜子喜愛的那一型，讓魔人啾啾難以接受這個事實。
 
 <!-- end list -->
 
@@ -409,7 +409,7 @@
 
   -
     聲優：日本：[川津泰彦](../Page/川津泰彦.md "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")
-    有著猴子臉的[醫生](../Page/醫生.md "wikilink")，是護士菜菜子喜愛的類型。
+    有著猴子臉的[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")，是護士菜菜子喜愛的類型。
 
 ### 反派角色
 
@@ -423,13 +423,13 @@
 
   -
     聲優：日本：[江原正士](../Page/江原正士.md "wikilink")；台灣：[林谷珍](../Page/林谷珍.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")
-    原本是一隻在東京市立動物園（）時常被欺負的[猴子](../Page/猴子.md "wikilink")，被其他同儕排擠，甚至還被[人類看不起](../Page/人類.md "wikilink")，引起內心的不滿，此時黑光打到這隻[猴子的身上後便成了怪獸](../Page/猴子.md "wikilink")，「良心」逐漸減少，[腦容量同時增加許多](../Page/腦.md "wikilink")，成了飛天小女警Z的敵人。
+    原本是一隻在東京市立動物園（）時常被欺負的[猴子](https://zh.wikipedia.org/wiki/猴子 "wikilink")，被其他同儕排擠，甚至還被[人類看不起](../Page/人類.md "wikilink")，引起內心的不滿，此時黑光打到這隻[猴子的身上後便成了怪獸](https://zh.wikipedia.org/wiki/猴子 "wikilink")，「良心」逐漸減少，[腦容量同時增加許多](https://zh.wikipedia.org/wiki/腦 "wikilink")，成了飛天小女警Z的敵人。
     從猴子變成怪獸之後，身體看似增大許多、變得十分高大，但劇中也多次讓牠以矮小外貌現身；關於這點，製作群在劇中沒有作出任何說明。
     基地在一棟仍需付房貸的廢棄小屋內，[麻雀雖小卻五臟俱全](../Page/麻雀.md "wikilink")，連魔人機器人（）也能容納在其中。
-    嘮叨又愛唸，不喜歡[人類稱呼牠](../Page/人類.md "wikilink")[猴子](../Page/猴子.md "wikilink")。夢想是佔領整個世界，並創立「人類園」，好把以前在[動物園的怨氣一次發洩在](../Page/動物園.md "wikilink")[人類身上](../Page/人類.md "wikilink")，表示其不滿；另外一個理由，就是搶奪由各地而來的甜食，好滿足自己的口腹之慾。
+    嘮叨又愛唸，不喜歡[人類稱呼牠](../Page/人類.md "wikilink")[猴子](https://zh.wikipedia.org/wiki/猴子 "wikilink")。夢想是佔領整個世界，並創立「人類園」，好把以前在[動物園的怨氣一次發洩在](../Page/動物園.md "wikilink")[人類身上](../Page/人類.md "wikilink")，表示其不滿；另外一個理由，就是搶奪由各地而來的甜食，好滿足自己的口腹之慾。
     每次講話多半有「mojo（）」結尾。
-    尤教授所研發的還原光束，對魔人啾啾起不了作用，無法還原為普通的[猴子](../Page/猴子.md "wikilink")。
-    初期愛戀基妮老師，而基妮老師似乎也沒有回絕的意思，之後發現已有男友，是位地底人，始得牠難以接受這個事實；後期愛上[護士菜菜子](../Page/護士.md "wikilink")，但為時極短。
+    尤教授所研發的還原光束，對魔人啾啾起不了作用，無法還原為普通的[猴子](https://zh.wikipedia.org/wiki/猴子 "wikilink")。
+    初期愛戀基妮老師，而基妮老師似乎也沒有回絕的意思，之後發現已有男友，是位地底人，始得牠難以接受這個事實；後期愛上[護士菜菜子](https://zh.wikipedia.org/wiki/護士 "wikilink")，但為時極短。
 
 <!-- end list -->
 
@@ -439,7 +439,7 @@
 
   -
     聲優：日本：；台灣：[林協忠](../Page/林協忠.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")→[張炳強](../Page/張炳強.md "wikilink")（第18集）→[林國雄](../Page/林國雄.md "wikilink")（第50集起）
-    是隻容易暴躁的怪獸，全身上下都是[粉紅色](../Page/粉紅色.md "wikilink")、頭上有兩根[觸角為其特徵](../Page/觸角.md "wikilink")；最喜愛彈奏四絃琴，典型的「鄉巴佬」；當別人闖入了他的地盤時，會把入侵者趕走，往往用手掌將他們打飛。喜歡以「」\[1\]。
+    是隻容易暴躁的怪獸，全身上下都是[粉紅色](https://zh.wikipedia.org/wiki/粉紅色 "wikilink")、頭上有兩根[觸角為其特徵](../Page/觸角.md "wikilink")；最喜愛彈奏四絃琴，典型的「鄉巴佬」；當別人闖入了他的地盤時，會把入侵者趕走，往往用手掌將他們打飛。喜歡以「」\[1\]。
     第一眼看到貝倫小姐，就一見鍾情的愛上了貝倫小姐，愛到無法自拔。
     喜歡在任何看得到的物品上留下手印，表示「這是我的地盤，誰也不能來」，不過卻有保護大自然的一份心力。
     因被黑光擊中所產生的怪獸，被擊中前為何種生物則不明。
@@ -452,9 +452,9 @@
 <!-- end list -->
 
   -
-    聲優：日本：[池田千草](../Page/池田千草.md "wikilink")；台灣：[謝佼娟](../Page/謝佼娟.md "wikilink")；香港：[曾佩儀](../Page/曾佩儀.md "wikilink")
-    是個仗著有權、有勢、有財富的傲慢千金大[小姐](../Page/小姐.md "wikilink")，養有一隻稱作[藍寶石](../Page/藍寶石.md "wikilink")（）（聲優：日本：[石毛佐和](../Page/石毛佐和.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）的[貓](../Page/貓.md "wikilink")。十歲。
-    被[父親給寵壞](../Page/父親.md "wikilink")，認為[錢就能買到一切](../Page/錢.md "wikilink")，而只要開口，[父親絕不吝嗇滿足姬子的](../Page/父親.md "wikilink")「願望」，也希望別人一定要對她特別注目。
+    聲優：日本：[池田千草](../Page/池田千草.md "wikilink")；台灣：[謝佼娟](../Page/謝佼娟.md "wikilink")；香港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")
+    是個仗著有權、有勢、有財富的傲慢千金大[小姐](../Page/小姐.md "wikilink")，養有一隻稱作[藍寶石](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")（）（聲優：日本：[石毛佐和](../Page/石毛佐和.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）的[貓](https://zh.wikipedia.org/wiki/貓 "wikilink")。十歲。
+    被[父親給寵壞](../Page/父親.md "wikilink")，認為[錢就能買到一切](https://zh.wikipedia.org/wiki/錢 "wikilink")，而只要開口，[父親絕不吝嗇滿足姬子的](../Page/父親.md "wikilink")「願望」，也希望別人一定要對她特別注目。
     在被黑光打中後，可以成為**多金公主**，性格還是差不多；之後每當姬子聽到藍寶石的叫聲，就會變身成多金公主，是飛天小女警Z的敵人，但姬子完全不知道多金公主的存在。而尤教授曾試圖讓藍寶石戴上能改變叫聲的項圈，以為這麼一來姬子就不會變身，但實際試驗的結果是仍然會變身為多金公主，不過造型會不太一樣。
     還原光束對多金公主有效果，但即使還原仍不改性格。
 
@@ -465,28 +465,28 @@
 <!-- end list -->
 
   -
-    第七話正式登場，僅保留原作少數設定。是由[阿米巴原蟲所變形的怪獸](../Page/阿米巴.md "wikilink")，時常蠕動著身體，看似「可憐兮兮」的樣子，什麼壞事也幹不成。合體後會變得很大，一般也只有在他們變大的時候才做得出壞事。
-    原本是路邊一灘水內的[阿米巴原蟲](../Page/阿米巴原蟲.md "wikilink")，被黑光擊中該灘水，加上一隻貴夫人的[狗於喝水時](../Page/狗.md "wikilink")，口水與該灘水結合所形成的怪物。
-    三個成員跟小女警們所擁有的[顏色成強烈的對比](../Page/顏色.md "wikilink")，但還原光束對阿米巴幫效果如何則未知。
+    第七話正式登場，僅保留原作少數設定。是由[阿米巴原蟲所變形的怪獸](https://zh.wikipedia.org/wiki/阿米巴 "wikilink")，時常蠕動著身體，看似「可憐兮兮」的樣子，什麼壞事也幹不成。合體後會變得很大，一般也只有在他們變大的時候才做得出壞事。
+    原本是路邊一灘水內的[阿米巴原蟲](https://zh.wikipedia.org/wiki/阿米巴原蟲 "wikilink")，被黑光擊中該灘水，加上一隻貴夫人的[狗於喝水時](https://zh.wikipedia.org/wiki/狗 "wikilink")，口水與該灘水結合所形成的怪物。
+    三個成員跟小女警們所擁有的[顏色成強烈的對比](https://zh.wikipedia.org/wiki/顏色 "wikilink")，但還原光束對阿米巴幫效果如何則未知。
     除了大俠每次說話以「奴嚕」（）為結尾，紳士與淑女則是「奴咩」（）。
     成員如下：
       - 紳士（）
     <!-- end list -->
       -
-        聲優：日本：[稻葉實](../Page/稻葉實.md "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")；香港：[招世亮](../Page/招世亮.md "wikilink")
-        [藍色的](../Page/藍色.md "wikilink")[阿米巴](../Page/阿米巴.md "wikilink")，刁著[煙斗及戴著高禮帽是其特徵](../Page/煙斗.md "wikilink")。
+        聲優：日本：[稻葉實](https://zh.wikipedia.org/wiki/稻葉實 "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")；香港：[招世亮](../Page/招世亮.md "wikilink")
+        [藍色的](../Page/藍色.md "wikilink")[阿米巴](https://zh.wikipedia.org/wiki/阿米巴 "wikilink")，刁著[煙斗及戴著高禮帽是其特徵](https://zh.wikipedia.org/wiki/煙斗 "wikilink")。
     <!-- end list -->
       - 大俠（）
     <!-- end list -->
       -
-        聲優：日本：[龍田直樹](../Page/龍田直樹.md "wikilink")；台灣：[孫德成](../Page/孫德成.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")
-        [綠色的](../Page/綠色.md "wikilink")[阿米巴](../Page/阿米巴.md "wikilink")，戴著一頂有長帽帶的牛仔帽是其特徵。
+        聲優：日本：[龍田直樹](../Page/龍田直樹.md "wikilink")；台灣：[孫德成](https://zh.wikipedia.org/wiki/孫德成 "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")
+        [綠色的](../Page/綠色.md "wikilink")[阿米巴](https://zh.wikipedia.org/wiki/阿米巴 "wikilink")，戴著一頂有長帽帶的牛仔帽是其特徵。
     <!-- end list -->
       - 淑女（）
     <!-- end list -->
       -
-        聲優：日本：[雨蘭咲木子](../Page/雨蘭咲木子.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
-        [粉紅色的](../Page/粉紅色.md "wikilink")[阿米巴](../Page/阿米巴.md "wikilink")，塗著[口紅及戴著女用帽子是其特徵](../Page/口紅.md "wikilink")，雖然團隊名稱為阿米巴幫，但淑女會特別強調她不是男生。
+        聲優：日本：[雨蘭咲木子](https://zh.wikipedia.org/wiki/雨蘭咲木子 "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
+        [粉紅色的](https://zh.wikipedia.org/wiki/粉紅色 "wikilink")[阿米巴](https://zh.wikipedia.org/wiki/阿米巴 "wikilink")，塗著[口紅及戴著女用帽子是其特徵](../Page/口紅.md "wikilink")，雖然團隊名稱為阿米巴幫，但淑女會特別強調她不是男生。
 
 <!-- end list -->
 
@@ -501,21 +501,21 @@
       - 王牌（）
     <!-- end list -->
       -
-        聲優：日本：[真殿光昭](../Page/真殿光昭.md "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")；香港：[馮錦堂](../Page/馮錦堂.md "wikilink")
-        壞死幫派的老大，最愛唆使其他四名成員作壞事。必殺技是擲[撲克牌](../Page/撲克牌.md "wikilink")。
+        聲優：日本：[真殿光昭](../Page/真殿光昭.md "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")；香港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")
+        壞死幫派的老大，最愛唆使其他四名成員作壞事。必殺技是擲[撲克牌](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")。
         家人為了他頭髮與膚色都是綠色時常爭吵。
     <!-- end list -->
       - 大比利（）
     <!-- end list -->
       -
-        聲優：日本：；台灣：[孫德成](../Page/孫德成.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")
+        聲優：日本：；台灣：[孫德成](https://zh.wikipedia.org/wiki/孫德成 "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")
         五名成員中體型、食量和力氣最大的，但也不及強力毛毛大力。
         最怕母親，也時常被母親掌嘴。
     <!-- end list -->
       - 小阿度洛（）
     <!-- end list -->
       -
-        聲優：日本：；台灣：[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：[張預東](../Page/張裕東.md "wikilink")
+        聲優：日本：；台灣：[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：[張預東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
         五名成員中體型最小的，移動速度驚人。
         家中的排行是老三，但由於父母親養了太多同型的小孩，似乎不記得有小阿度洛這個孩子。
     <!-- end list -->
@@ -525,12 +525,12 @@
         聲優：日本：[宮田幸季](../Page/宮田幸季.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")
         就與名字一樣，說話總會以「嘶～」為結尾。也喜歡將「我」說成「me」、「你」說成「You」
         絕技是[按摩](../Page/按摩.md "wikilink")，讓被[按摩者感到無比舒服後](../Page/按摩.md "wikilink")，其他成員再將被[按摩者加以攻擊](../Page/按摩.md "wikilink")，但對強力毛毛毫無效果，因為強力毛毛的手臂太硬。
-        家人認為他是「怪物」，主要認為是[電腦遊戲玩太多](../Page/電腦遊戲.md "wikilink")。
+        家人認為他是「怪物」，主要認為是[電腦遊戲玩太多](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
     <!-- end list -->
       - 古拉伯（）
     <!-- end list -->
       -
-        聲優：日本：[遠近孝一](../Page/遠近孝一.md "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")
+        聲優：日本：[遠近孝一](https://zh.wikipedia.org/wiki/遠近孝一 "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")
         看似呆滯，其實會變身，看過對象的外表便可變成那個人（但變身後皮膚還是綠色，不及瑟杜莎）。
         容易暈車。
         [父親的長相跟他很像](../Page/父親.md "wikilink")，也都相當呆滯。
@@ -542,8 +542,8 @@
 <!-- end list -->
 
   -
-    聲優：日本：[宍戸留美](../Page/宍戸留美.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
-    從金時櫻子變身而成，而還原光束可以還原瑟杜莎。喜愛[化妝](../Page/化妝.md "wikilink")、名牌衣物及飾品…等，雍容華貴、愛慕虛榮，價值愈高的名牌精品就愈愛偷或搶。擅於易容，只要[化妝就能成為另外一個人的樣子](../Page/化妝.md "wikilink")，卸妝之後能夠恢復原貌。
+    聲優：日本：[宍戸留美](https://zh.wikipedia.org/wiki/宍戸留美 "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")
+    從金時櫻子變身而成，而還原光束可以還原瑟杜莎。喜愛[化妝](https://zh.wikipedia.org/wiki/化妝 "wikilink")、名牌衣物及飾品…等，雍容華貴、愛慕虛榮，價值愈高的名牌精品就愈愛偷或搶。擅於易容，只要[化妝就能成為另外一個人的樣子](https://zh.wikipedia.org/wiki/化妝 "wikilink")，卸妝之後能夠恢復原貌。
     金時櫻子變身成瑟杜莎的關鍵是使用特定品牌的[口紅](../Page/口紅.md "wikilink")，當她想起愛戀對象莊一郎又想起自己的模樣，或她看見莊一郎和其他女性談話而心生嫉妒時，為了變得更吸引人，便拿起[口紅塗在唇上](../Page/口紅.md "wikilink")，就立刻變身成瑟杜莎，但櫻子卻完全不知道自己會因為使用口紅而變成瑟杜莎，莊一郎也極力在櫻子面前隱瞞這個事實。然而，瑟杜莎犯罪的目的幾乎都是為了吸引莊一郎注意，但種種招數對於心裡只有金時櫻子一人的莊一郎從未奏效。
     在第八話，奇奇無法察覺犯案的瑟杜莎，因為化妝品的味道過於濃烈，但也因為這點讓旋轉泡泡發現偽裝成強力毛毛的瑟杜莎，不過這個設定卻在第四十五話第二部分取消。
 
@@ -555,7 +555,7 @@
 
   -
     第十八話共同登場，是由魔人啾啾、毛茸怪及壞死幫派組成的團體，七位成員均不滿被小女警們打敗，所以七位成員在某一家[居酒屋內討論後共同組成團體](../Page/居酒屋.md "wikilink")，並開始計畫如何打敗小女警。
-    起初七位成員合作無間，加上當時小女警們意見不合，猶如一盤散沙，順利將小女警們打敗，並送入[火箭內射向](../Page/火箭.md "wikilink")[外太空](../Page/外太空.md "wikilink")，尤教授、小賢和奇奇都不敢相信。大夥們在慶功時，有些意見不合，開始發生一點爭執。在月球的小女警們共同檢討不能因自己的利益而忽略他人，並一起看著[地球](../Page/地球.md "wikilink")，決定在回到[地球後](../Page/地球.md "wikilink")，一舉消滅復仇七人組，小女警們從[外太空飛向](../Page/外太空.md "wikilink")[地球](../Page/地球.md "wikilink")[東京市](../Page/東京市.md "wikilink")，尤教授等人感到萬般感動，也相信小女警們的能力。七人組再面對小女警們攻擊時，一些成員不按照原定計畫，而且出現內鬨，古拉伯還因騎機車感到身體不適，小女警們甚至看穿七人組原先的攻擊，並改變作戰計畫，讓七人組無計可施，最後也被小女警們打到[外太空](../Page/外太空.md "wikilink")，[東京市才再得以得到平靜](../Page/東京市.md "wikilink")。
+    起初七位成員合作無間，加上當時小女警們意見不合，猶如一盤散沙，順利將小女警們打敗，並送入[火箭內射向](../Page/火箭.md "wikilink")[外太空](https://zh.wikipedia.org/wiki/外太空 "wikilink")，尤教授、小賢和奇奇都不敢相信。大夥們在慶功時，有些意見不合，開始發生一點爭執。在月球的小女警們共同檢討不能因自己的利益而忽略他人，並一起看著[地球](../Page/地球.md "wikilink")，決定在回到[地球後](../Page/地球.md "wikilink")，一舉消滅復仇七人組，小女警們從[外太空飛向](https://zh.wikipedia.org/wiki/外太空 "wikilink")[地球](../Page/地球.md "wikilink")[東京市](../Page/東京市.md "wikilink")，尤教授等人感到萬般感動，也相信小女警們的能力。七人組再面對小女警們攻擊時，一些成員不按照原定計畫，而且出現內鬨，古拉伯還因騎機車感到身體不適，小女警們甚至看穿七人組原先的攻擊，並改變作戰計畫，讓七人組無計可施，最後也被小女警們打到[外太空](https://zh.wikipedia.org/wiki/外太空 "wikilink")，[東京市才再得以得到平靜](../Page/東京市.md "wikilink")。
 
 <!-- end list -->
 
@@ -564,8 +564,8 @@
 <!-- end list -->
 
   -
-    第二十話與第四十二話登場，保留多數原作設定，均11-12歲(日本的小學5年級)，但製作模式有所出入：魔人啾啾取了桃子的[吸管](../Page/吸管.md "wikilink")、小都的[棉花棒](../Page/棉花棒.md "wikilink")、薰薰的臭[襪子](../Page/襪子.md "wikilink")，並從尤教授的[實驗室內偷走化學物Z](../Page/實驗室.md "wikilink")，並搭配魔人啾啾的鬍鬚、腋毛、腿毛和鼻毛，用怪物製造機器造出三名粗暴小子，目的是打擊飛天小女警Z和統治世界，是唯一經由化學物Z製造出來的怪物；但粗暴小子卻完全不聽話，只愛自己做自己的事，對誰都一樣，就是愛惡作劇、作壞事，連魔人啾啾也難逃魔掌，甚至難以接受他們的壞習慣。
-    可以用[吸管](../Page/吸管.md "wikilink")、[棉花棒及臭](../Page/棉花棒.md "wikilink")[襪子攻擊](../Page/襪子.md "wikilink")，甚至可以從鼻孔「噴」出鼻屎。平時喜歡將手指鑽入鼻孔。
+    第二十話與第四十二話登場，保留多數原作設定，均11-12歲(日本的小學5年級)，但製作模式有所出入：魔人啾啾取了桃子的[吸管](../Page/吸管.md "wikilink")、小都的[棉花棒](https://zh.wikipedia.org/wiki/棉花棒 "wikilink")、薰薰的臭[襪子](https://zh.wikipedia.org/wiki/襪子 "wikilink")，並從尤教授的[實驗室內偷走化學物Z](https://zh.wikipedia.org/wiki/實驗室 "wikilink")，並搭配魔人啾啾的鬍鬚、腋毛、腿毛和鼻毛，用怪物製造機器造出三名粗暴小子，目的是打擊飛天小女警Z和統治世界，是唯一經由化學物Z製造出來的怪物；但粗暴小子卻完全不聽話，只愛自己做自己的事，對誰都一樣，就是愛惡作劇、作壞事，連魔人啾啾也難逃魔掌，甚至難以接受他們的壞習慣。
+    可以用[吸管](../Page/吸管.md "wikilink")、[棉花棒及臭](https://zh.wikipedia.org/wiki/棉花棒 "wikilink")[襪子攻擊](https://zh.wikipedia.org/wiki/襪子 "wikilink")，甚至可以從鼻孔「噴」出鼻屎。平時喜歡將手指鑽入鼻孔。
     很怕碰到女生，更忌諱被說像女生，且似乎對展現女性魅力的小女警們無法招架。
     還原光束對這三名敵人的效果未知。
     三名成員如下：
@@ -573,19 +573,19 @@
     <!-- end list -->
       -
         聲優：日本：；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[沈小蘭](../Page/沈小蘭.md "wikilink")
-        特徵是戴著[紅色的帽子](../Page/紅色.md "wikilink")、穿著紅色運動服，面貌跟超能花花很像，唯有髮型不像。絕技除噴[鼻屎外](../Page/鼻屎.md "wikilink")，還有拋[吸管以及用吸管噴](../Page/吸管.md "wikilink")[口水](../Page/唾液.md "wikilink")。
+        特徵是戴著[紅色的帽子](https://zh.wikipedia.org/wiki/紅色 "wikilink")、穿著紅色運動服，面貌跟超能花花很像，唯有髮型不像。絕技除噴[鼻屎外](https://zh.wikipedia.org/wiki/鼻屎 "wikilink")，還有拋[吸管以及用吸管噴](../Page/吸管.md "wikilink")[口水](../Page/唾液.md "wikilink")。
     <!-- end list -->
       - 布布（）
     <!-- end list -->
       -
-        聲優：日本：[青山桐子](../Page/青山桐子.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[林丹鳳](../Page/林丹鳳.md "wikilink")
-        特徵是水藍色運動服、臉上有雀斑，面貌跟旋轉泡泡很像，但髮型不像。絕技可以是噴[鼻屎](../Page/鼻屎.md "wikilink")，也可以是丟[棉花棒或射](../Page/棉花棒.md "wikilink")[耳屎](../Page/耳屎.md "wikilink")。
+        聲優：日本：[青山桐子](../Page/青山桐子.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
+        特徵是水藍色運動服、臉上有雀斑，面貌跟旋轉泡泡很像，但髮型不像。絕技可以是噴[鼻屎](https://zh.wikipedia.org/wiki/鼻屎 "wikilink")，也可以是丟[棉花棒或射](https://zh.wikipedia.org/wiki/棉花棒 "wikilink")[耳屎](https://zh.wikipedia.org/wiki/耳屎 "wikilink")。
     <!-- end list -->
       - 巴巴（）
     <!-- end list -->
       -
         聲優：日本：；台灣：[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
-        特徵是綠色運動服，雖然是男生，但看起來很女性化，面貌跟強力毛毛很像，但個性成對比，髮型與強力毛毛相差許多。絕技有噴[鼻屎](../Page/鼻屎.md "wikilink")，也能丟臭[襪子](../Page/襪子.md "wikilink")。
+        特徵是綠色運動服，雖然是男生，但看起來很女性化，面貌跟強力毛毛很像，但個性成對比，髮型與強力毛毛相差許多。絕技有噴[鼻屎](https://zh.wikipedia.org/wiki/鼻屎 "wikilink")，也能丟臭[襪子](https://zh.wikipedia.org/wiki/襪子 "wikilink")。
 
 <!-- end list -->
 
@@ -594,28 +594,28 @@
 <!-- end list -->
 
   -
-    聲優：日本：[中尾隆聖](../Page/中尾隆聖.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")；香港：[張炳強](../Page/張炳強.md "wikilink")
-    是一個全身紅通通的怪物，而在尤教授找出的文獻紀錄中，得知在[江戶時代就已經存在](../Page/江戶時代.md "wikilink")。左右兩手是螯狀的，說話時相當女性化，也很神經質，非常怕冷，最痛恨小女警們。由於全名不可直呼，說出來也會令人感到無比恐懼，故以「他」來表示，但尤教授是唯一完整說出全名且毫不懼怕的人。
+    聲優：日本：[中尾隆聖](../Page/中尾隆聖.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；香港：[張炳強](../Page/張炳強.md "wikilink")
+    是一個全身紅通通的怪物，而在尤教授找出的文獻紀錄中，得知在[江戶時代就已經存在](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")。左右兩手是螯狀的，說話時相當女性化，也很神經質，非常怕冷，最痛恨小女警們。由於全名不可直呼，說出來也會令人感到無比恐懼，故以「他」來表示，但尤教授是唯一完整說出全名且毫不懼怕的人。
     有堆黑粉，能派遣去做惡，也可以附著在人或物品，就像被黑光打到一樣，讓人或物成為怪獸，機械狗奇奇也能感應被黑粉附著成為怪獸的情況，但其黑粉也會怕冷。
     還原光束對「他」效果如何未知。
     起初被封印在某戶老舊豪宅的石棺柩內，不管怎樣賣力打開石棺柩，封印條讓他困擾許久，而透過石棺柩的空隙灑出一點黑粉，黑粉飄落到[木乃伊的繃帶](../Page/木乃伊.md "wikilink")，使[木乃伊復活](../Page/木乃伊.md "wikilink")，便請[木乃伊打開石棺柩](../Page/木乃伊.md "wikilink")，但封印條傷了[木乃伊的手指](../Page/木乃伊.md "wikilink")，讓手指著[火](../Page/火.md "wikilink")，所以就讓[木乃伊找強力白光](../Page/木乃伊.md "wikilink")，而不受到封印條影響，並讓封印條消失，最後[木乃伊帶著吸取小女警們的白光回到老舊的博物館內](../Page/木乃伊.md "wikilink")，順利解開封印條，「他」就這樣誕生了。
-    在第三十話的時候，尤教授對小賢講解「他」在[江戶時代焚燒民宅](../Page/江戶時代.md "wikilink")、作惡多端的故事，最後被大江戶超能少女組打敗後，而被封印起來前仍不知悔改，而黑光也被與身體強制分離並封印、丟入大[海中](../Page/海.md "wikilink")，「他」在一百年後甦醒，看不到[江戶時代](../Page/江戶時代.md "wikilink")，卻看到現代化的東京市，「他」發誓一定要為在[江戶時代的失敗慘痛經驗而復仇](../Page/江戶時代.md "wikilink")。
+    在第三十話的時候，尤教授對小賢講解「他」在[江戶時代焚燒民宅](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")、作惡多端的故事，最後被大江戶超能少女組打敗後，而被封印起來前仍不知悔改，而黑光也被與身體強制分離並封印、丟入大[海中](https://zh.wikipedia.org/wiki/海 "wikilink")，「他」在一百年後甦醒，看不到[江戶時代](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")，卻看到現代化的東京市，「他」發誓一定要為在[江戶時代的失敗慘痛經驗而復仇](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")。
 
 #### 非主要
 
   - **米歇爾**（，米歇爾和他的布偶小熊被「他」的靈魂（黑光）打中，當米歇爾使用布偶熊後，米歇爾就會成為「**葛雷特米歇爾**」
-    ）（聲優：日本：[諏訪部順一](../Page/諏訪部順一.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[黃啟昌](../Page/黃啟昌.md "wikilink")）
+    ）（聲優：日本：[諏訪部順一](../Page/諏訪部順一.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
 
 <!-- end list -->
 
   -
-    第十話與第四十三話登場，是一位美容師，說話很女性化。自認是「天才美髮師」，但手藝卻是另類到可怕，不喜歡被店長使喚來使喚去的。喜愛自創許多人不喜歡的髮型，但自己卻認為是「藝術」。每當不如意時，米歇爾就會拿出一個[布偶小](../Page/布偶.md "wikilink")[熊](../Page/熊.md "wikilink")，讓小熊說出鼓勵的話，此時黑光會與布偶小熊反應，並使用該小熊布偶，就會讓米歇爾成為「葛雷特米歇爾」，就成了女孩們的敵人。
-    葛雷特米歇爾是「[剪刀手](../Page/剪刀.md "wikilink")」與「[梳子手](../Page/梳子.md "wikilink")」，並還有一雙「剪刀腳」，還有紅色的眼睛，只要被葛雷特米歇爾的眼睛照射到，不管是誰，都會「佩服」葛雷特米歇爾的髮藝。
+    第十話與第四十三話登場，是一位美容師，說話很女性化。自認是「天才美髮師」，但手藝卻是另類到可怕，不喜歡被店長使喚來使喚去的。喜愛自創許多人不喜歡的髮型，但自己卻認為是「藝術」。每當不如意時，米歇爾就會拿出一個[布偶小](https://zh.wikipedia.org/wiki/布偶 "wikilink")[熊](https://zh.wikipedia.org/wiki/熊 "wikilink")，讓小熊說出鼓勵的話，此時黑光會與布偶小熊反應，並使用該小熊布偶，就會讓米歇爾成為「葛雷特米歇爾」，就成了女孩們的敵人。
+    葛雷特米歇爾是「[剪刀手](../Page/剪刀.md "wikilink")」與「[梳子手](https://zh.wikipedia.org/wiki/梳子 "wikilink")」，並還有一雙「剪刀腳」，還有紅色的眼睛，只要被葛雷特米歇爾的眼睛照射到，不管是誰，都會「佩服」葛雷特米歇爾的髮藝。
     葛雷特米歇爾最後被小女警以超強髮膠給「定型」後，讓尤教授的還原光束給復原，同時小賢也改造了他的布偶熊，由原先鼓勵他的話，改成教訓他的話。
 
 <!-- end list -->
 
-  - **鯰貝高明**\[2\]（，被黑光打中後，鯰貝高明就會成為行動敏捷的[狼人型怪物](../Page/狼人.md "wikilink")）（聲優：日本：[岸尾大輔](../Page/岸尾大輔.md "wikilink")；台灣：[謝佼娟](../Page/謝佼娟.md "wikilink")、[于正昇](../Page/于正昇.md "wikilink")（怪獸型態）；香港：[張預東](../Page/張裕東.md "wikilink")、[雷碧娜](../Page/雷碧娜.md "wikilink")（童年）、[朱子聰](../Page/朱子聰.md "wikilink")（怪獸型態））
+  - **鯰貝高明**\[2\]（，被黑光打中後，鯰貝高明就會成為行動敏捷的[狼人型怪物](../Page/狼人.md "wikilink")）（聲優：日本：[岸尾大輔](../Page/岸尾大輔.md "wikilink")；台灣：[謝佼娟](../Page/謝佼娟.md "wikilink")、[于正昇](../Page/于正昇.md "wikilink")（怪獸型態）；香港：[張預東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")、[雷碧娜](../Page/雷碧娜.md "wikilink")（童年）、[朱子聰](../Page/朱子聰.md "wikilink")（怪獸型態））
 
 <!-- end list -->
 
@@ -625,43 +625,43 @@
     長期住院的高明，看到其他病患可以出院，總是抱怨「我的病為什麼總是好不了」，也很渴望[自由](../Page/自由.md "wikilink")。當黑光打到高明，加上渴望[自由的慾望很濃厚](../Page/自由.md "wikilink")，就形成了行動敏捷的狼人怪。
     狼人怪行動敏捷，無論女孩們使用任何攻擊，都不能對這個狼人怪造成傷害。而狼人怪到了一處公園，正是他與小都相會的公園，旋轉泡泡從這個怪獸吹泡泡的絕技「泡泡freedom」，得知這個狼人怪就是她小時候的玩伴，並要求其他兩位不要繼續對高明進行攻擊。
     高明也會在第四十八話的時候登場，但小都使用大型泡泡吹，讓附著在高明身上的黑光移除。同時女孩們也互相照顧高明，讓高明感到無比溫馨。
-    其命名來源，可能是來自《[獅子王](../Page/獅子王.md "wikilink")》內的一個角色「刀疤」。
+    其命名來源，可能是來自《[獅子王](https://zh.wikipedia.org/wiki/獅子王 "wikilink")》內的一個角色「刀疤」。
 
 <!-- end list -->
 
-  - **照相機怪**（）（聲優：日本：[楠見尚己](../Page/楠見尚己.md "wikilink")；台灣：[陳宗岳](../Page/陳宗岳.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - **照相機怪**（）（聲優：日本：[楠見尚己](https://zh.wikipedia.org/wiki/楠見尚己 "wikilink")；台灣：[陳宗岳](../Page/陳宗岳.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
 
 <!-- end list -->
 
   -
     第十三話第二部份登場。原本是市長先生所持有的黑白[照相機](../Page/照相機.md "wikilink")，因市長先生認為這台照相機沒有使用的價值了，所以將其扔了。但貝倫小姐認為這是不好的，市長先生的堅持，仍然將其丟棄。
-    被黑光打到這台照相機，就成了照相機怪，只要被照相機怪所散發出的閃光拍到的人，其[顏色就會被奪走](../Page/顏色.md "wikilink")。
+    被黑光打到這台照相機，就成了照相機怪，只要被照相機怪所散發出的閃光拍到的人，其[顏色就會被奪走](https://zh.wikipedia.org/wiki/顏色 "wikilink")。
     當女孩們與照相機怪戰鬥到一半時，照相機怪突然哭了起來，並說明自己的來歷。而就在此時，小女警的聯絡器響了起來，呈現了市長先生的樣子。照相機怪看到市長先生，更加的憤怒，想找市長「興師問罪」，貝倫小姐才想起市長先生丟棄那台黑白照相機，讓事情搞得很嚴重。
     照相機怪得知市長先生在實驗室內，而小女警也趁此趕緊聯絡小賢，啟動反光設備，讓照相機怪「自己拍到自己」，最後照相機怪被打敗，所有被奪取顏色的人，也都因此而還原了顏色。
     照相機怪喜歡在說話完畢的時候，再加一句「喀喳」（）。
 
 <!-- end list -->
 
-  - **拉麵怪**（）（聲優：日本：[山崎たくみ](../Page/山崎たくみ.md "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
+  - **拉麵怪**（）（聲優：日本：[山崎たくみ](https://zh.wikipedia.org/wiki/山崎たくみ "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
 
   -
-    第十五話與第三十三話登場的怪物。原本是在一間[麵粉](../Page/麵粉.md "wikilink")[工廠內的](../Page/工廠.md "wikilink")[麵粉](../Page/麵粉.md "wikilink")，被黑光擊中後，由一間叫做醬油屋的[拉麵店老闆購買](../Page/拉麵.md "wikilink")，製作成拉麵後，所成為的怪物。
-    但拉麵怪沒有攻擊能力，只會對正在吃麵的客人的飲食習慣有很多意見。例如：吃[拉麵的時候](../Page/拉麵.md "wikilink")，加太多調味料會失去[拉麵原本的味道](../Page/拉麵.md "wikilink")。但這樣的意見，也讓饕客對這個不速之客感到不滿，更增加了逆其道而行的飲食方式。
+    第十五話與第三十三話登場的怪物。原本是在一間[麵粉](../Page/麵粉.md "wikilink")[工廠內的](../Page/工廠.md "wikilink")[麵粉](../Page/麵粉.md "wikilink")，被黑光擊中後，由一間叫做醬油屋的[拉麵店老闆購買](https://zh.wikipedia.org/wiki/拉麵 "wikilink")，製作成拉麵後，所成為的怪物。
+    但拉麵怪沒有攻擊能力，只會對正在吃麵的客人的飲食習慣有很多意見。例如：吃[拉麵的時候](https://zh.wikipedia.org/wiki/拉麵 "wikilink")，加太多調味料會失去[拉麵原本的味道](https://zh.wikipedia.org/wiki/拉麵 "wikilink")。但這樣的意見，也讓饕客對這個不速之客感到不滿，更增加了逆其道而行的飲食方式。
     醬油屋的老闆暫停營業，而對於拉麵怪如此的「關心」，也感到很愧疚，於是醬油屋老闆與拉麵怪決定重頭開始，好讓醬油拉麵更加的美味。
     拉麵怪是作品內沒有被還原光束還原的怪獸。
 
 <!-- end list -->
 
-  - **電波怪**（）（聲優：日本：[小野健一](../Page/小野健一.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")）
+  - **電波怪**（）（聲優：日本：[小野健一](../Page/小野健一.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")）
 
 <!-- end list -->
 
   -
-    於第十七話登場的怪物。原本是一座[基地台](../Page/基地台.md "wikilink")，但因黑光打中基地台，並透過市長先生與校長先生在電話上因意見不合，所形成的怪物。
+    於第十七話登場的怪物。原本是一座[基地台](https://zh.wikipedia.org/wiki/基地台 "wikilink")，但因黑光打中基地台，並透過市長先生與校長先生在電話上因意見不合，所形成的怪物。
     特長為超快的速度與操縱手機。
-    電波怪與一般的[電波一樣](../Page/電波.md "wikilink")，到了地底下，能力也會減弱。女孩們就是看準了因為之前尤教授連絡，卻在地底下收訊不良，所以用這個方法擊敗了電波怪，並透過尤教授的還原光束，將電波怪還原成一般的[電波](../Page/電波.md "wikilink")，並送回基地台。
+    電波怪與一般的[電波一樣](https://zh.wikipedia.org/wiki/電波 "wikilink")，到了地底下，能力也會減弱。女孩們就是看準了因為之前尤教授連絡，卻在地底下收訊不良，所以用這個方法擊敗了電波怪，並透過尤教授的還原光束，將電波怪還原成一般的[電波](https://zh.wikipedia.org/wiki/電波 "wikilink")，並送回基地台。
 
 <!-- end list -->
 
@@ -670,11 +670,11 @@
 <!-- end list -->
 
   -
-    第十九話現身的怪物。原本是郊區一間才藝教室內，很期待彈奏者要好好的彈奏的[鋼琴](../Page/鋼琴.md "wikilink")，被黑光擊中後，又加上魔人啾啾亂彈奏，就形成了鋼琴怪。
+    第十九話現身的怪物。原本是郊區一間才藝教室內，很期待彈奏者要好好的彈奏的[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，被黑光擊中後，又加上魔人啾啾亂彈奏，就形成了鋼琴怪。
     鋼琴怪喜歡尋找鋼琴彈奏者，若彈奏得好，就會將彈奏者「吞」入體內，成為「鋼琴伴奏者」，遇到不會彈琴者，就會施以「[音符炸彈](../Page/音符.md "wikilink")」攻擊，並繼續找尋下一個目標。
-    小都（旋轉泡泡）也曾經是該才藝教室的[學生之一](../Page/學生.md "wikilink")，也很感謝鋼琴怪給了他如此不錯的才藝，因此旋轉泡泡當場彈奏一曲，鋼琴怪非常滿意，就將小都「吞」入。
+    小都（旋轉泡泡）也曾經是該才藝教室的[學生之一](https://zh.wikipedia.org/wiki/學生 "wikilink")，也很感謝鋼琴怪給了他如此不錯的才藝，因此旋轉泡泡當場彈奏一曲，鋼琴怪非常滿意，就將小都「吞」入。
     旋轉泡泡找到了被鋼琴怪「吞」進去的受害者，請大家協力彈奏一首歌曲，讓鋼琴怪不是因為有人在外頭彈奏，也有美妙的旋律。趁著鋼琴怪陶醉之際，每個被「吞」的人都被獲救，而鋼琴怪的力量也大不如前，即使使出了音符炸彈，威力也減少許多。
-    最後女孩們協力征服鋼琴怪，好讓尤教授將鋼琴怪還原成為一般的[鋼琴](../Page/鋼琴.md "wikilink")。但是才藝教室的[老師不要如此可怕的鋼琴了](../Page/老師.md "wikilink")，實驗室內就多了一架鋼琴。
+    最後女孩們協力征服鋼琴怪，好讓尤教授將鋼琴怪還原成為一般的[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。但是才藝教室的[老師不要如此可怕的鋼琴了](https://zh.wikipedia.org/wiki/老師 "wikilink")，實驗室內就多了一架鋼琴。
 
 <!-- end list -->
 
@@ -684,7 +684,7 @@
 
   -
     第二十一話第一部份正式登場的「半敵方角色」，雖被黑光擊中，但機器狗奇奇卻感應不出牠的黑色氣團。
-    布偶[鴨呱呱原本是一個小男孩持有的布偶玩具](../Page/鴨.md "wikilink")，不小心掉落於路上，被幾個路人踢來踢去，又加上被黑光擊中，形成了會動作、有[表情](../Page/表情.md "wikilink")，卻沒有惡意的布偶鴨。
+    布偶[鴨呱呱原本是一個小男孩持有的布偶玩具](https://zh.wikipedia.org/wiki/鴨 "wikilink")，不小心掉落於路上，被幾個路人踢來踢去，又加上被黑光擊中，形成了會動作、有[表情](https://zh.wikipedia.org/wiki/表情 "wikilink")，卻沒有惡意的布偶鴨。
     奇奇是與女孩們玩[足球的時候](../Page/足球.md "wikilink")，因薰薰把球踢得太遠，奇奇找到了球，也找到了這隻被遺棄的布偶鴨，也因為這個布偶鴨的「舉動」，讓奇奇感到「驚訝」，無論奇奇到哪，呱呱也會跟到哪。呱呱跟到了實驗室，躲進了放置泡澡粉的倉庫內，由於尤教授想要趁此放鬆泡澡，奇奇也因此見到了呱呱，而呱呱看到奇奇拿的泡澡粉破了一個洞，灑出來一點泡澡粉，不知道這不能吃，還「津津有味」的一包接著一包。
     奇奇隱瞞著其他人與呱呱「交往」，還時常帶著呱呱出去玩，直到呱呱的體型太大，成了東京市人人惶恐的敵人後，當女孩們與呱呱戰鬥的同時，布偶的主人也從電視上看到了心愛的布偶玩具到處作怪，而趕到了現場，呱呱被女孩們收服後，變小的呱呱從高處掉落而被小男孩接住，小男孩的擁抱也順勢將黑光給「排出來」，小男孩也高興地「迎接」呱呱回到身邊。
     奇奇很捨不得呱呱，因為呱呱是即使被黑光擊中，不是敵人卻是朋友的最好回憶。
@@ -696,30 +696,30 @@
 <!-- end list -->
 
   -
-    第二十一話第二部份正式登場的角色，是一群於[蔬菜](../Page/蔬菜.md "wikilink")[市場內準備被販售的蔬菜](../Page/市場.md "wikilink")，被黑光擊中後，因許多人們不愛吃蔬菜，與怨念所形成的怪物。而被黑光擊中的蔬菜，正巧是人們最討厭吃的三種蔬菜
+    第二十一話第二部份正式登場的角色，是一群於[蔬菜](../Page/蔬菜.md "wikilink")[市場內準備被販售的蔬菜](https://zh.wikipedia.org/wiki/市場 "wikilink")，被黑光擊中後，因許多人們不愛吃蔬菜，與怨念所形成的怪物。而被黑光擊中的蔬菜，正巧是人們最討厭吃的三種蔬菜
     ─
-    [紅蘿蔔](../Page/紅蘿蔔.md "wikilink")、[芹菜](../Page/芹菜.md "wikilink")，以及[青椒](../Page/青椒.md "wikilink")。
-    尤教授和小賢在一間[中華料理店用餐時](../Page/中華料理.md "wikilink")，因小賢執意挑嘴，不愛吃蔬菜，黑光與蔬菜的反應，形成了蔬菜怪。蔬菜怪很不喜歡挑嘴的人們，執意要求人們吃掉牠們。小女警們這時也趕到現場，蔬菜怪也同樣要求女孩們吃掉牠們，但無論什麼理由，女孩們就是不吃。
-    而女孩們對付蔬菜怪時，想起他們可以用[沙拉醬對付蔬菜怪](../Page/沙拉.md "wikilink")，於是他們採用了這個策略，改變了吃蔬菜的習慣。頓時間，蔬菜怪被打敗，尤教授才可以透過還原光線，將蔬菜怪還原成切碎後的蔬菜。
+    [紅蘿蔔](https://zh.wikipedia.org/wiki/紅蘿蔔 "wikilink")、[芹菜](https://zh.wikipedia.org/wiki/芹菜 "wikilink")，以及[青椒](https://zh.wikipedia.org/wiki/青椒 "wikilink")。
+    尤教授和小賢在一間[中華料理店用餐時](https://zh.wikipedia.org/wiki/中華料理 "wikilink")，因小賢執意挑嘴，不愛吃蔬菜，黑光與蔬菜的反應，形成了蔬菜怪。蔬菜怪很不喜歡挑嘴的人們，執意要求人們吃掉牠們。小女警們這時也趕到現場，蔬菜怪也同樣要求女孩們吃掉牠們，但無論什麼理由，女孩們就是不吃。
+    而女孩們對付蔬菜怪時，想起他們可以用[沙拉醬對付蔬菜怪](https://zh.wikipedia.org/wiki/沙拉 "wikilink")，於是他們採用了這個策略，改變了吃蔬菜的習慣。頓時間，蔬菜怪被打敗，尤教授才可以透過還原光線，將蔬菜怪還原成切碎後的蔬菜。
     蔬菜怪的成員如下：
-      - **紅蘿蔔怪**（）（聲優：日本：[松本美和](../Page/松本美和.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+      - **紅蘿蔔怪**（）（聲優：日本：[松本美和](https://zh.wikipedia.org/wiki/松本美和 "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
     <!-- end list -->
       -
-        [紅蘿蔔狀的怪物](../Page/紅蘿蔔.md "wikilink")，絕技是「[*β*葫蘿蔔素攻擊](../Page/類胡蘿蔔素.md "wikilink")」。
+        [紅蘿蔔狀的怪物](https://zh.wikipedia.org/wiki/紅蘿蔔 "wikilink")，絕技是「[*β*葫蘿蔔素攻擊](../Page/類胡蘿蔔素.md "wikilink")」。
     <!-- end list -->
-      - **青椒怪**（）（聲優：日本：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")；香港：[黃麗芳](../Page/黃麗芳.md "wikilink")）
-    <!-- end list -->
-      -
-        [綠色的](../Page/綠色.md "wikilink")[青椒形狀怪物](../Page/青椒.md "wikilink")，絕技是「[維他命飛踢](../Page/維他命.md "wikilink")」。
-    <!-- end list -->
-      - **芹菜怪**（）（聲優：日本：[高城元氣](../Page/高城元氣.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
+      - **青椒怪**（）（聲優：日本：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；香港：[黃麗芳](../Page/黃麗芳.md "wikilink")）
     <!-- end list -->
       -
-        [芹菜模樣的怪物](../Page/芹菜.md "wikilink")，絕技是「[纖維拳擊](../Page/纖維.md "wikilink")」。
+        [綠色的](../Page/綠色.md "wikilink")[青椒形狀怪物](https://zh.wikipedia.org/wiki/青椒 "wikilink")，絕技是「[維他命飛踢](https://zh.wikipedia.org/wiki/維他命 "wikilink")」。
+    <!-- end list -->
+      - **芹菜怪**（）（聲優：日本：[高城元氣](../Page/高城元氣.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
+    <!-- end list -->
+      -
+        [芹菜模樣的怪物](https://zh.wikipedia.org/wiki/芹菜 "wikilink")，絕技是「[纖維拳擊](https://zh.wikipedia.org/wiki/纖維 "wikilink")」。
 
 <!-- end list -->
 
-  - **歌舞伎怪獸**（）（聲優：日本：[小野坂昌也](../Page/小野坂昌也.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")、[吳文民](../Page/吳文民.md "wikilink")；香港：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+  - **歌舞伎怪獸**（）（聲優：日本：[小野坂昌也](../Page/小野坂昌也.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")、[吳文民](../Page/吳文民.md "wikilink")；香港：[曹啟謙](../Page/曹啟謙.md "wikilink")）
 
 <!-- end list -->
 
@@ -737,14 +737,14 @@
 <!-- end list -->
 
   -
-    第二十三話第二部份〈誰是昆蟲王！〉正式登場的角色。由於小男孩羅德（聲優：台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")）想要贏得[昆蟲王的頭銜](../Page/昆蟲.md "wikilink")，替其中一隻名叫高加索的[獨角仙服用了禁藥](../Page/獨角仙.md "wikilink")，再加上黑粉，就形成了強大的獨角仙怪物；而獲得了黑粉的高加索，輕易地將其他獨角仙三兩下打敗，羅德見到難得一見的力量，心想一定可以贏得比賽，並給了高加索一個新的名字，叫做「高加索里歐」。
-    不過，由於羅德對獨角仙缺乏[愛心](../Page/愛心.md "wikilink")，一心一意只想贏得比賽，卻不懂獨角仙。小賢的獨角仙「公平」戰勝了高加索里歐之後，里歐卻心有不甘，藉助了黑粉變大，對在場的觀眾進行「黏黏光束」攻擊，被「黏黏光束」攻擊到的觀眾，會被固定住不能動。
+    第二十三話第二部份〈誰是昆蟲王！〉正式登場的角色。由於小男孩羅德（聲優：台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")）想要贏得[昆蟲王的頭銜](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")，替其中一隻名叫高加索的[獨角仙服用了禁藥](../Page/獨角仙.md "wikilink")，再加上黑粉，就形成了強大的獨角仙怪物；而獲得了黑粉的高加索，輕易地將其他獨角仙三兩下打敗，羅德見到難得一見的力量，心想一定可以贏得比賽，並給了高加索一個新的名字，叫做「高加索里歐」。
+    不過，由於羅德對獨角仙缺乏[愛心](https://zh.wikipedia.org/wiki/愛心 "wikilink")，一心一意只想贏得比賽，卻不懂獨角仙。小賢的獨角仙「公平」戰勝了高加索里歐之後，里歐卻心有不甘，藉助了黑粉變大，對在場的觀眾進行「黏黏光束」攻擊，被「黏黏光束」攻擊到的觀眾，會被固定住不能動。
     變身後的女孩，無論什麼絕技都無法對高加索里歐進行攻擊；而小賢的獨角仙公平，也因為小賢的善意照顧，願意攻擊高加索里歐。羅德也告知女孩們，只要給獨角仙吃甜食，就可以讓獨角仙只顧享受零食而不會有攻擊能力。剛好超能花花「隨身攜帶」一些[零食](../Page/零食.md "wikilink")，趁此高加索里歐被美食誘惑，旋轉泡泡與強力毛毛各自趁此使用必殺技，才制服這個大麻煩。
     羅德得知用禁藥參賽是非常不智的，也不能只為了贏得大獎，而忽略照顧獨角仙的那一份熱情。
 
 <!-- end list -->
 
-  - **筆怪**（）（聲優：日本：[興梠里美](../Page/興梠里美.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")）**橡皮怪**（）（聲優：日本：[津村まこと](../Page/津村まこと.md "wikilink")；台灣：[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")）
+  - **筆怪**（）（聲優：日本：[興梠里美](../Page/興梠里美.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")）**橡皮怪**（）（聲優：日本：[津村まこと](https://zh.wikipedia.org/wiki/津村まこと "wikilink")；台灣：[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")）
 
 <!-- end list -->
 
@@ -761,16 +761,16 @@
 <!-- end list -->
 
   -
-    第二十七話第一部份正式登場的角色，黑粉附在一家[迴轉壽司店的](../Page/迴轉壽司店.md "wikilink")「壽司製造機」上，使得製造出來的[壽司全變成了怪獸](../Page/壽司.md "wikilink")。壽司怪獸們為了比較誰才是壽司界裡最受歡迎的明星，便一看到人就要求要把牠們吃掉，造成了東京市大恐慌。
+    第二十七話第一部份正式登場的角色，黑粉附在一家[迴轉壽司店的](https://zh.wikipedia.org/wiki/迴轉壽司店 "wikilink")「壽司製造機」上，使得製造出來的[壽司全變成了怪獸](https://zh.wikipedia.org/wiki/壽司 "wikilink")。壽司怪獸們為了比較誰才是壽司界裡最受歡迎的明星，便一看到人就要求要把牠們吃掉，造成了東京市大恐慌。
     因為「壽司製造機」不停的製造，所以壽司怪獸源源不絕的增加。尤教授便要強力毛毛把「壽司製造機」打壞，而強力毛毛卻把「壽司製造機」打飛到外太空。
     為了處理留在東京市的壽司怪獸，超能花花就想到用醬油來吸引牠們，便把醬油倒滿公園的噴水池，尤教授也加入了照過還原光束的醬油。等到壽司怪獸全都聚集過來時，超能花花就對壽司怪獸們說教一番後，開啟了噴水池，壽司怪獸們便還原為原來的壽司。這時三位小女警將散落一地的壽司撿起幾個來吃，卻忘記這些壽司塗滿了芥末，被芥末辛辣的味道給嗆到了。
     而被打飛到外太空的「壽司製造機」還在不停的製造壽司怪獸，在外星人之間大受好評。
     壽司怪成員如下：
       - **鮪魚壽司怪獸**（）（聲優：日本：[高木涉](../Page/高木涉.md "wikilink")；台灣：[李世揚](../Page/李世揚.md "wikilink")；香港：[伍博民](../Page/伍博民.md "wikilink")）
-      - **烏賊壽司怪獸**（）（聲優：日本：[高戸靖広](../Page/高戸靖広.md "wikilink")；香港：[林保全](../Page/林保全.md "wikilink")）
-      - **海膽壽司怪獸**（）（聲優：日本：[竹本英史](../Page/竹本英史.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張預東](../Page/張裕東.md "wikilink")）
-      - **鯵魚壽司怪獸**（）（聲優：日本：[一条和矢](../Page/一条和矢.md "wikilink")；台灣：[孫德成](../Page/孫德成.md "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
-      - **鮭魚卵壽司怪獸**（）（聲優：台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")）
+      - **烏賊壽司怪獸**（）（聲優：日本：[高戸靖広](https://zh.wikipedia.org/wiki/高戸靖広 "wikilink")；香港：[林保全](../Page/林保全.md "wikilink")）
+      - **海膽壽司怪獸**（）（聲優：日本：[竹本英史](../Page/竹本英史.md "wikilink")；台灣：-{[于正昇](../Page/于正昇.md "wikilink")}-；香港：[張預東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
+      - **鯵魚壽司怪獸**（）（聲優：日本：[一条和矢](https://zh.wikipedia.org/wiki/一条和矢 "wikilink")；台灣：[孫德成](https://zh.wikipedia.org/wiki/孫德成 "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
+      - **鮭魚卵壽司怪獸**（）（聲優：台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")）
 
 <!-- end list -->
 
@@ -783,7 +783,7 @@
     熱舞男非常喜歡吵雜的音樂，只要他跳舞，其他人都不能停止；但小賢因不小心在電源線絆倒，讓主控室失去了電源，整個舞廳的受害者，就不因熱舞男而繼續跳舞，此時小女警們三人同時揮拳，打飛了熱舞男。
     這一話是飛天小女警Z首次以「拳頭」將怪獸打倒。
     第三十話的時候，寅坊龍太在梳頭髮，也順勢地將「他」的黑粉給梳了下來，把這種奇怪的東西帶給尤教授等人看；但到了實驗室，黑粉就趁此逃跑，小女警們雖然追丟黑粉順道去看畫展，卻也因此碰巧找到了囚禁「他」的博物館，自此，「他」就這樣開始了與小女警的交鋒。
-    該主角的命名來源，來自影片《[週末夜狂熱](../Page/週末夜狂熱.md "wikilink")》的主角[約翰·屈伏塔](../Page/約翰·屈伏塔.md "wikilink")。
+    該主角的命名來源，來自影片《[週末夜狂熱](https://zh.wikipedia.org/wiki/週末夜狂熱 "wikilink")》的主角[約翰·屈伏塔](https://zh.wikipedia.org/wiki/約翰·屈伏塔 "wikilink")。
 
 <!-- end list -->
 
@@ -799,12 +799,12 @@
 
 <!-- end list -->
 
-  - **雜草怪**（）（聲優：日本：[小野健一](../Page/小野健一.md "wikilink")；台灣：[劉傑](../Page/劉傑.md "wikilink")；香港：[李致林](../Page/李致林.md "wikilink")）
+  - **雜草怪**（）（聲優：日本：[小野健一](../Page/小野健一.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")；香港：[李致林](../Page/李致林.md "wikilink")）
 
 <!-- end list -->
 
   -
-    第三十五話第一部份正式登場的角色，因為不滿人們踐踏，而人們只管稱呼「[雜草](../Page/雜草.md "wikilink")」，也很忌妒美麗的[玫瑰花](../Page/玫瑰.md "wikilink")，並被黑光擊中後，心生怨念，所形成的怪物。
+    第三十五話第一部份正式登場的角色，因為不滿人們踐踏，而人們只管稱呼「[雜草](https://zh.wikipedia.org/wiki/雜草 "wikilink")」，也很忌妒美麗的[玫瑰花](../Page/玫瑰.md "wikilink")，並被黑光擊中後，心生怨念，所形成的怪物。
     女孩們可以體會雜草怪們的心情，因為一個人有一個人的名字，雜草也有屬於自己的名字。
     原本是為了報復拍寫真照的偶像明星，因為兩位偶像稱他們為雜草，甚至還要拔除他們。這時飛天小女警Z趕到了現場，也救了兩位偶像，不過兩位偶像自以為是自己的美貌而引來雜草怪的攻擊，便回過頭來要雜草怪繼續攻擊他們，一旁的女性也聽到了，以為被雜草怪攻擊就表示自己非常漂亮，為了證明自己的美貌，她們全都追逐著雜草怪，要求雜草怪來攻擊她們。
     雜草怪因為被一群女性人類追趕而感到害怕，也很後悔當初變成了怪獸，飛天小女警Z為了阻止這場追逐戰不得已而對追趕雜草怪的市民發動攻擊，也捕捉到了雜草怪。
@@ -812,12 +812,12 @@
 
 <!-- end list -->
 
-  - **[德川綱吉](../Page/德川綱吉.md "wikilink")**（）（聲優：日本：[柳沢栄治](../Page/柳沢栄治.md "wikilink")；台灣：[林谷珍](../Page/林谷珍.md "wikilink")；香港：[招世亮](../Page/招世亮.md "wikilink")）
+  - **[德川綱吉](../Page/德川綱吉.md "wikilink")**（）（聲優：日本：[柳沢栄治](https://zh.wikipedia.org/wiki/柳沢栄治 "wikilink")；台灣：[林谷珍](../Page/林谷珍.md "wikilink")；香港：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
 
   -
-    第三十五話第二部份正式登場的角色，「他」正在看一部電視劇時，看到[德川綱吉行使](../Page/德川綱吉.md "wikilink")「生類憐憫令」，要求百姓對[狗要尊重](../Page/狗.md "wikilink")。「他」看到後，「他」決定用黑粉飄向德川綱吉墓穴內的[靈魂內](../Page/靈魂.md "wikilink")，再讓靈魂附在市長先生的體內，假借市長先生，比照「生類憐憫令」的方式，改名「怪獸憐憫令」並實行之，要求市民不得對怪獸進行傷害。
+    第三十五話第二部份正式登場的角色，「他」正在看一部電視劇時，看到[德川綱吉行使](../Page/德川綱吉.md "wikilink")「生類憐憫令」，要求百姓對[狗要尊重](https://zh.wikipedia.org/wiki/狗 "wikilink")。「他」看到後，「他」決定用黑粉飄向德川綱吉墓穴內的[靈魂內](https://zh.wikipedia.org/wiki/靈魂 "wikilink")，再讓靈魂附在市長先生的體內，假借市長先生，比照「生類憐憫令」的方式，改名「怪獸憐憫令」並實行之，要求市民不得對怪獸進行傷害。
     很多怪獸一聽到如此的「好消息」，紛紛上街，可以「光明正大」的搞破壞行惡了，女孩們也因為這道「法令」，不能對許多行惡的怪獸進行攻擊。
     小賢從一台特製的儀器，得知原來市長先生是因為德川綱吉的靈魂作祟，女孩們得知後，就買了一條[熱狗](../Page/熱狗.md "wikilink")，請德川綱吉吃。德川綱吉從未吃過如此美味的美食，詢問女孩們這是什麼，女孩們回答是熱狗後，德川綱吉因愛狗成痴，以為熱狗是狗肉做的食品，不斷的吐出已經吃下去的熱狗。
     此時「靈魂出竅」的德川綱吉，不能繼續「操控」市長先生了，女孩們也趁此使用必殺技，將德川綱吉打回屬於他自己的墓穴內，而市長先生趕緊撤銷「怪物憐憫令」，好讓女孩們能夠擊敗行惡的怪獸。
@@ -832,7 +832,7 @@
     第三十六話正式登場的反派角色，因黑粉與小都的章魚布偶歐奇所結合而成的怪物。
     「他」的黑粉與小都的章魚布偶歐奇結合後，成為邪惡的怪物，但初始時，小都並不知道歐奇成為怪物，還將歐奇帶到學校。邪惡的歐奇不僅偷吃了女孩們的便當、也在桃子的體育褲上剪了一個愛心圖樣的洞，讓桃子在跳箱子時糗樣浮現，更讓女孩們的感情因此而破裂，導致想要讓整個團隊解散的導火線。
     「他」的計畫非常成功，因此歐奇的身軀也不斷的變大，甚至挾持貝倫小姐作為人質。女孩們想要攻擊歐奇時，旋轉泡泡要求其他兩位女孩們不要對歐奇出手，因為旋轉泡泡深信，歐奇是善良的；但邪惡的「他」已沒良心了，也挾持了旋轉泡泡作為人質，更要求其他女孩們不能妄動，否則旋轉泡泡就會沒命。
-    旋轉泡泡於此時流下一滴[淚水](../Page/眼淚.md "wikilink")，滴於歐奇的一個觸腳，「他」與「他」的黑粉受不了旋轉泡泡對歐奇如此溫暖的愛，黑粉就因此而離開歐奇的身體。女孩們見到「他」已經沒有可以利用的人了，因此女孩們趁此使出必殺技，將「他」打敗。女孩們又獲得了以往的情誼。
+    旋轉泡泡於此時流下一滴[淚水](https://zh.wikipedia.org/wiki/眼淚 "wikilink")，滴於歐奇的一個觸腳，「他」與「他」的黑粉受不了旋轉泡泡對歐奇如此溫暖的愛，黑粉就因此而離開歐奇的身體。女孩們見到「他」已經沒有可以利用的人了，因此女孩們趁此使出必殺技，將「他」打敗。女孩們又獲得了以往的情誼。
     該話的構想來源，來自美版原作《飛天小女警》的一個主題〈〉（）。
 
 <!-- end list -->
@@ -848,16 +848,16 @@
 
 <!-- end list -->
 
-  - **青蛙王子**（）（聲優：日本：[古川登志夫](../Page/古川登志夫.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
+  - **青蛙王子**（）（聲優：日本：[古川登志夫](../Page/古川登志夫.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")）
 
 <!-- end list -->
 
   -
-    第四十五話第一部份正式登場的非反派角色，原本是一隻在[河邊的](../Page/河.md "wikilink")[青蛙](../Page/青蛙.md "wikilink")，與心愛的戀人在河邊歌唱時，因被黑光擊中，而形成的怪物。
+    第四十五話第一部份正式登場的非反派角色，原本是一隻在[河邊的](https://zh.wikipedia.org/wiki/河 "wikilink")[青蛙](https://zh.wikipedia.org/wiki/青蛙 "wikilink")，與心愛的戀人在河邊歌唱時，因被黑光擊中，而形成的怪物。
     青蛙王子「逢人必『問』其『吻』」，見到女性，就一定要求親吻。東京市的很多女性市民見到如此「不要臉」的怪物，都感到萬般地害怕。女孩們見到後，也是被青蛙王子要求親吻，女孩們都很憤怒，各自踹了青蛙王子一腳。
-    而回到實驗室的青蛙，仍然不斷地要求女性對他親吻。就在此時，青蛙王子以[歌劇的方式](../Page/歌劇.md "wikilink")，唱出了一段為何他是青蛙王子的故事，最後，青蛙王子提到，只要有心愛的人能夠親吻他，就可以恢復原狀。花痴的超能花花，認為這是可以遇到心目中[白馬王子的好時機](../Page/白馬王子.md "wikilink")，不顧尤教授等眾人的阻止，親吻了青蛙王子，可惜沒有讓青蛙王子恢復原狀。而實驗室來了一個[粉紅色的母青蛙](../Page/粉紅色.md "wikilink")，對著青蛙王子親吻後，青蛙王子就恢復成一般的青蛙，兩隻蛙就這樣一起離開實驗室，共唱愛之歌。
-    至於吻到青蛙的超能花花，實在受不了青蛙噁心的嘴，還不斷的[刷牙](../Page/刷牙.md "wikilink")、[漱口](../Page/漱口.md "wikilink")，小賢還趁此透露，親吻是很可怕的，因為一個人的嘴內，就有四百多個[微生物或](../Page/微生物.md "wikilink")[細菌](../Page/細菌.md "wikilink")\[3\]。
-    角色構想來源，是來自[童話故事](../Page/童話故事.md "wikilink")《[青蛙王子](../Page/青蛙王子.md "wikilink")》中被[巫婆詛咒的](../Page/巫婆.md "wikilink")[王子](../Page/王子.md "wikilink")。
+    而回到實驗室的青蛙，仍然不斷地要求女性對他親吻。就在此時，青蛙王子以[歌劇的方式](https://zh.wikipedia.org/wiki/歌劇 "wikilink")，唱出了一段為何他是青蛙王子的故事，最後，青蛙王子提到，只要有心愛的人能夠親吻他，就可以恢復原狀。花痴的超能花花，認為這是可以遇到心目中[白馬王子的好時機](https://zh.wikipedia.org/wiki/白馬王子 "wikilink")，不顧尤教授等眾人的阻止，親吻了青蛙王子，可惜沒有讓青蛙王子恢復原狀。而實驗室來了一個[粉紅色的母青蛙](https://zh.wikipedia.org/wiki/粉紅色 "wikilink")，對著青蛙王子親吻後，青蛙王子就恢復成一般的青蛙，兩隻蛙就這樣一起離開實驗室，共唱愛之歌。
+    至於吻到青蛙的超能花花，實在受不了青蛙噁心的嘴，還不斷的[刷牙](../Page/刷牙.md "wikilink")、[漱口](https://zh.wikipedia.org/wiki/漱口 "wikilink")，小賢還趁此透露，親吻是很可怕的，因為一個人的嘴內，就有四百多個[微生物或](../Page/微生物.md "wikilink")[細菌](https://zh.wikipedia.org/wiki/細菌 "wikilink")\[3\]。
+    角色構想來源，是來自[童話故事](https://zh.wikipedia.org/wiki/童話故事 "wikilink")《[青蛙王子](../Page/青蛙王子.md "wikilink")》中被[巫婆詛咒的](https://zh.wikipedia.org/wiki/巫婆 "wikilink")[王子](https://zh.wikipedia.org/wiki/王子 "wikilink")。
 
 ## 用語
 
@@ -874,8 +874,8 @@
     只要被「他」的靈魂（黑光）打到的大多數怪物，或是被「他」的黑粉接觸，都會在其周遭散發出這種氣團。奇奇對這種氣團最敏感，只要有感應，就會告訴尤教授，並請尤教授出動飛天小女警Z。不過還是由奇奇來通知三位女孩。
     但是，並不是每一個被「他」的靈魂（黑光）打到，或是被「他」的黑粉接觸的怪物，都會散發出這種氣團，例如布偶鴨呱呱（曾經與奇奇玩耍的布偶鴨子），就沒有這樣的氣團。
   - 還原光束
-    尤教授研發出的[槍形設備](../Page/槍.md "wikilink")（原型是裝置在實驗室裡，後來改裝在箱型行李車上，最後則是改良成攜帶型），是同時發射出[紅色](../Page/紅色.md "wikilink")、[藍色](../Page/藍色.md "wikilink")、[綠色](../Page/綠色.md "wikilink")，以及[白色的設備](../Page/白色.md "wikilink")，可以解除被「他」的靈魂（黑光）和「他」的黑粉或Kennainum
-    he（白光）所波及的人或物，使他們恢復正常。不過，還原光束對某些敵人（魔人啾啾與毛茸怪）是沒有功用的；該光束對飛天小女警Z同樣有效，可讓他們恢復原來的樣子，不會失去變身飛天小女警Z的能力，但小女警們需要變身時，除了前期由[機械](../Page/機械.md "wikilink")[狗奇奇呼叫](../Page/狗.md "wikilink")，讓三人同時變身外，後期尤教授改造小女警們的粉餅盒和戒指，使她們可以各自變身，且如果有一個人變身　其他人便會知道，除了還原光束也可以使用粉餅盒的按鍵變回去（請見第48話）
+    尤教授研發出的[槍形設備](../Page/槍.md "wikilink")（原型是裝置在實驗室裡，後來改裝在箱型行李車上，最後則是改良成攜帶型），是同時發射出[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")、[藍色](../Page/藍色.md "wikilink")、[綠色](../Page/綠色.md "wikilink")，以及[白色的設備](../Page/白色.md "wikilink")，可以解除被「他」的靈魂（黑光）和「他」的黑粉或Kennainum
+    he（白光）所波及的人或物，使他們恢復正常。不過，還原光束對某些敵人（魔人啾啾與毛茸怪）是沒有功用的；該光束對飛天小女警Z同樣有效，可讓他們恢復原來的樣子，不會失去變身飛天小女警Z的能力，但小女警們需要變身時，除了前期由[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")[狗奇奇呼叫](https://zh.wikipedia.org/wiki/狗 "wikilink")，讓三人同時變身外，後期尤教授改造小女警們的粉餅盒和戒指，使她們可以各自變身，且如果有一個人變身　其他人便會知道，除了還原光束也可以使用粉餅盒的按鍵變回去（請見第48話）
 
 **小女警們的武器介紹**
 
@@ -896,18 +896,18 @@
         必殺技:因為鎚子與重力或力量有關 大部分攻擊都與\[力\]有關 例如:音速搖擺槌擊、百萬噸槌擊、颶風迴旋攻擊
     螢光幕：尤教授與小女警們聯絡的用具，但超過一定距離，就無法聯繫。
   - Kennainum he（）
-    由平賀賢內[博士所研發的一種](../Page/博士.md "wikilink")[化學](../Page/化學.md "wikilink")[元素](../Page/元素.md "wikilink")，是使得飛天小女警Z和大江戶超能少女組出現的[化學](../Page/化學.md "wikilink")[元素](../Page/元素.md "wikilink")，也讓奇奇變得會說話。
+    由平賀賢內[博士所研發的一種](../Page/博士.md "wikilink")[化學](../Page/化學.md "wikilink")[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")，是使得飛天小女警Z和大江戶超能少女組出現的[化學](../Page/化學.md "wikilink")[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")，也讓奇奇變得會說話。
   - 機器小女警Z（）
-    由尤教授研發的大型機器人，但並不是戰鬥機器人，而是時空機器人。由小女警們共同駕駛所屬的機器人，三體合一，組成超能花花的模樣（也可以自由轉換成旋轉泡泡或強力毛毛的模樣）。小女警們透過這台機器人，穿越時空到[江戶時代](../Page/江戶時代.md "wikilink")，尋找平賀賢內博士，找尋如何封印「他」的方法。<span style="font-size:smaller;">（第50話）</span>
+    由尤教授研發的大型機器人，但並不是戰鬥機器人，而是時空機器人。由小女警們共同駕駛所屬的機器人，三體合一，組成超能花花的模樣（也可以自由轉換成旋轉泡泡或強力毛毛的模樣）。小女警們透過這台機器人，穿越時空到[江戶時代](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")，尋找平賀賢內博士，找尋如何封印「他」的方法。<span style="font-size:smaller;">（第50話）</span>
 
 **能量球（Energy Ball）**
-含有一種特殊的能量，在第46話中，「他」趁小女警不注意時偷取武器並且用小女警們不知道的方法攻擊，因此小女警才知道有這個能量球，這個能量球可以將武器放大並加強能量，但劇中只有旋轉泡泡的大型泡泡吹不能放大但可以用泡泡包住能量球並變出大型的[砝碼](../Page/砝碼.md "wikilink")，僅有溜溜球、泡泡吹才可以用出能量球　詳細解說如下：
+含有一種特殊的能量，在第46話中，「他」趁小女警不注意時偷取武器並且用小女警們不知道的方法攻擊，因此小女警才知道有這個能量球，這個能量球可以將武器放大並加強能量，但劇中只有旋轉泡泡的大型泡泡吹不能放大但可以用泡泡包住能量球並變出大型的[砝碼](https://zh.wikipedia.org/wiki/砝碼 "wikilink")，僅有溜溜球、泡泡吹才可以用出能量球　詳細解說如下：
 
 :\*溜溜球放大效果：當溜溜球接到能量時　花花會使出必殺技　**結婚蛋糕花花終結射擊** **（Wedding Cake Blossom
 Finish）**效果為溜溜球兩側分離 中間產生強力的電,若是大型物體會加上縮合（也就是兩側夾住物體）。
 
 :\*泡泡吹的泡泡效果：旋轉泡泡製造出大型泡泡並讓能量球進入之後使用必殺技 **氣泡終結攻擊** **（Bubbles
-Finish）**可以變出大型的[砝碼](../Page/砝碼.md "wikilink")（請見第５１話）。
+Finish）**可以變出大型的[砝碼](https://zh.wikipedia.org/wiki/砝碼 "wikilink")（請見第５１話）。
 
 :\*大鐵鎚放大效果：當大鐵鎚敲下能量球時　會將武器放大並由強力毛毛使出必殺技　**毛毛特製大槌擊** **（Buttercup
 Finish）**力量會加成。
@@ -931,7 +931,7 @@ Finish）**力量會加成。
 
 :\#不可以吵架（其實吵過很多次，只是都是別人造成的，所以例外。）；
 
-:\#不可以破壞[實驗室](../Page/實驗室.md "wikilink")（不過有一次出動機器小女警Z的情形是例外）。
+:\#不可以破壞[實驗室](https://zh.wikipedia.org/wiki/實驗室 "wikilink")（不過有一次出動機器小女警Z的情形是例外）。
 
   - 但小女警們也對貝倫小姐與尤教授等人提出了三項要求：
 
@@ -942,7 +942,7 @@ Finish）**力量會加成。
 :\#強力毛毛的要求，是能在實驗室內看到運動頻道。
 
   - 其他的情節
-    基本上小賢跟父親尤教授一樣，都是[科學家](../Page/科學家.md "wikilink")，而小賢在八歲時，取得了博士的學位，所以小賢不用上學；但他在第二十四話的時候，因被小女警們嘲笑沒[朋友](../Page/朋友.md "wikilink")，因此有上學一次。但上完一天後，覺得[小學的課程實在太過簡單](../Page/小學.md "wikilink")，因此他又不上學了。
+    基本上小賢跟父親尤教授一樣，都是[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，而小賢在八歲時，取得了博士的學位，所以小賢不用上學；但他在第二十四話的時候，因被小女警們嘲笑沒[朋友](../Page/朋友.md "wikilink")，因此有上學一次。但上完一天後，覺得[小學的課程實在太過簡單](https://zh.wikipedia.org/wiki/小學 "wikilink")，因此他又不上學了。
     邪惡勢力的代表魔人啾啾其登場次數最多，因為魔人啾啾的願望就是佔領整個世界。他要征服世界的原因五花八門，可能是些微不足道的小事，例如有一次是「薯條少了一根」。
     小女警們在平常時不會有小女警的樣子，都是要透過變身腰帶的輔助後變身，才能成為「飛天小女警Z」。變身之後不會有人認得出她們原本是誰。飛天小女警Z的衣服是可以脫下來的，其他人如果穿上的話看起來也會是飛天小女警Z。
     還原光束雖然可以還原被Kennainum
@@ -951,32 +951,33 @@ Finish）**力量會加成。
 
 ## 製作團隊
 
-  - 原作 - [Craig McCracken](../Page/Craig_McCracken.md "wikilink")
+  - 原作 - [Craig
+    McCracken](https://zh.wikipedia.org/wiki/Craig_McCracken "wikilink")
   - 漫画 -
-    [込由野志穗](../Page/込由野志穗.md "wikilink")（[集英社](../Page/集英社.md "wikilink")「[RIBON](../Page/RIBON.md "wikilink")」連載）
+    [込由野志穗](https://zh.wikipedia.org/wiki/込由野志穗 "wikilink")（[集英社](../Page/集英社.md "wikilink")「[RIBON](https://zh.wikipedia.org/wiki/RIBON "wikilink")」連載）
   - 主要製作人 -
-    岩田圭介（東京電視台）、[關弘美](../Page/關弘美.md "wikilink")（東映動畫）、勝股英夫（Aniplex）、Sam
+    岩田圭介（東京電視台）、[關弘美](https://zh.wikipedia.org/wiki/關弘美 "wikilink")（東映動畫）、勝股英夫（Aniplex）、Sam
     Register（卡通頻道）
-  - 製作擔當 - [柳義明](../Page/柳義明.md "wikilink")
-  - 系列構成 - [浦澤義雄](../Page/浦澤義雄.md "wikilink")
+  - 製作擔當 - [柳義明](https://zh.wikipedia.org/wiki/柳義明 "wikilink")
+  - 系列構成 - [浦澤義雄](https://zh.wikipedia.org/wiki/浦澤義雄 "wikilink")
   - 音樂 - Hiroshi Nakamura（中村ヒロシ）、[TAICHI
-    MASTER](../Page/TAICHI_MASTER.md "wikilink")
-  - 人物設計、總作畫監督 - [下笠美穗](../Page/下笠美穗.md "wikilink")
-  - 機械設計 - [佐藤元](../Page/佐藤元.md "wikilink")
-  - 美術設計 - [窪田忠雄](../Page/窪田忠雄.md "wikilink")
+    MASTER](https://zh.wikipedia.org/wiki/TAICHI_MASTER "wikilink")
+  - 人物設計、總作畫監督 - [下笠美穗](https://zh.wikipedia.org/wiki/下笠美穗 "wikilink")
+  - 機械設計 - [佐藤元](https://zh.wikipedia.org/wiki/佐藤元 "wikilink")
+  - 美術設計 - [窪田忠雄](https://zh.wikipedia.org/wiki/窪田忠雄 "wikilink")
   - 色彩設計 - 佐久間ヨシ子
   - 系列監督 - 石黑育
   - 音樂製作人 - 木村唯人
   - 音樂製作 - [Aniplex](../Page/Aniplex.md "wikilink")、POWERBOX
   - 演出監督 - 五十嵐愛
-  - 音響效果 - [川田清貴](../Page/Swara_pro.md "wikilink")
+  - 音響效果 - [川田清貴](https://zh.wikipedia.org/wiki/Swara_pro "wikilink")
   - 番組宣傳 - 石井真知子（東京電視台）、堀毛敦子、小川容子
   - 音樂協力 - 東京電視台音樂、東映動畫音樂出版
-  - 企劃協力 - [DLE](../Page/DLE.md "wikilink")
+  - 企劃協力 - [DLE](https://zh.wikipedia.org/wiki/DLE "wikilink")
   - 製作人 - 具嶋朋子、小原康平、黑須禮央、Mark Buhay
   - 共同製作人 - 鮎貝義家、Shaun Aikens
-  - 錄音工作室 - [TAVAC](../Page/TAVAC.md "wikilink")
-  - 動畫製作 - [東映動畫](../Page/東映動畫.md "wikilink")（※贊助商）
+  - 錄音工作室 - [TAVAC](https://zh.wikipedia.org/wiki/TAVAC "wikilink")
+  - 動畫製作 - [東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")（※贊助商）
   - 企劃 - [卡通頻道](../Page/卡通頻道.md "wikilink")
   - 製作 -
     [東京電視台](../Page/東京電視台.md "wikilink")、東映動畫、[Aniplex](../Page/Aniplex.md "wikilink")
@@ -987,31 +988,42 @@ Finish）**力量會加成。
 
 #### 片頭曲
 
-  - 《[希望のカケラ](../Page/希望のカケラ.md "wikilink")》（第1話 - 第26話）
+  - 《[希望のカケラ](https://zh.wikipedia.org/wiki/希望のカケラ "wikilink")》（第1話 -
+    第26話）
     歌・作詞 - [北出菜奈](../Page/北出菜奈.md "wikilink")（[SME
     Records](../Page/SME_Records.md "wikilink")） / 作曲 -
-    [田中秀典](../Page/田中秀典.md "wikilink") / 編曲 -
+    [田中秀典](https://zh.wikipedia.org/wiki/田中秀典 "wikilink") / 編曲 -
     snakyskullhead、安原兵衛
   - 《ジグ THE アッパー》（第27話 - 最終話）
-    歌・作詞・作曲 - [ホイフェスタ](../Page/ホイフェスタ.md "wikilink")（[Sony Music
+    歌・作詞・作曲 -
+    [ホイフェスタ](https://zh.wikipedia.org/wiki/ホイフェスタ "wikilink")（[Sony
+    Music
     Records/gr8\!records](../Page/Sony_Music_Records.md "wikilink")）
 
 #### 片尾曲
 
-  - 《[真夜中のドア](../Page/深夜門扉.md "wikilink")》（第1話 - 第13話）
-    作詞 - MIZUE / 作曲 - [中野雄太](../Page/中野雄太.md "wikilink") / 編曲 - 大友光悦 / 歌
-    - [亦菲](../Page/劉亦菲.md "wikilink")（[Sony Music
-    Records](../Page/Sony_Music_Records.md "wikilink")）
+  - 《[真夜中のドア](https://zh.wikipedia.org/wiki/深夜門扉 "wikilink")》（第1話 -
+    第13話）
+    作詞 - MIZUE / 作曲 -
+    [中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")
+    / 編曲 - 大友光悦 / 歌 -
+    [亦菲](https://zh.wikipedia.org/wiki/劉亦菲 "wikilink")（[Sony
+    Music Records](../Page/Sony_Music_Records.md "wikilink")）
   - 《LOOK》（第14話 - 第26話）
-    作詞 - クボケンジ / 作曲・編曲 - [田中ユウスケ](../Page/田中ユウスケ.md "wikilink") / 歌 -
-    [HALCALI](../Page/HALCALI.md "wikilink")（[Epic Records
-    Japan](../Page/Epic_Records_Japan.md "wikilink")）
+    作詞 - クボケンジ / 作曲・編曲 -
+    [田中ユウスケ](https://zh.wikipedia.org/wiki/田中ユウスケ "wikilink")
+    / 歌 -
+    [HALCALI](https://zh.wikipedia.org/wiki/HALCALI "wikilink")（[Epic
+    Records
+    Japan](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")）
   - 《通り雨》（第27話 - 第39話）
     作詞 - MISA / 作曲 - 鈴木珠子 / 歌 -
-    [wiz-us](../Page/wiz-us.md "wikilink")（SME Records）
+    [wiz-us](https://zh.wikipedia.org/wiki/wiz-us "wikilink")（SME
+    Records）
   - 《ひまわり》（第40話 - 最終話）
     歌・作詞・作曲 - [Hearts Grow](../Page/Hearts_Grow.md "wikilink")（Epic
-    Records Japan） / 編曲 - [野間康介](../Page/野間康介.md "wikilink")・秋山誠司
+    Records Japan） / 編曲 -
+    [野間康介](https://zh.wikipedia.org/wiki/野間康介 "wikilink")・秋山誠司
 
 ### 台灣
 
@@ -1046,10 +1058,10 @@ Finish）**力量會加成。
 <td><p>1</p></td>
 <td></td>
 <td><p>飛天小女警來了！</p></td>
-<td><p><a href="../Page/浦沢義雄.md" title="wikilink">浦沢義雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浦沢義雄" title="wikilink">浦沢義雄</a></p></td>
 <td><p>石黒育</p></td>
 <td><p>桑原幹根</p></td>
-<td><p><a href="../Page/窪田忠雄.md" title="wikilink">窪田忠雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/窪田忠雄" title="wikilink">窪田忠雄</a></p></td>
 <td><p><strong>2006年</strong><br />
 7月1日</p></td>
 <td></td>
@@ -1083,8 +1095,8 @@ Finish）**力量會加成。
 <td><p>3</p></td>
 <td></td>
 <td><p>小女警集合！</p></td>
-<td><p><a href="../Page/影山由美.md" title="wikilink">影山由美</a></p></td>
-<td><p><a href="../Page/志水淳児.md" title="wikilink">志水淳児</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影山由美" title="wikilink">影山由美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志水淳児" title="wikilink">志水淳児</a></p></td>
 <td><p>門由利子</p></td>
 <td><p>大河内忍</p></td>
 <td><p>窪田忠雄</p></td>
@@ -1096,8 +1108,8 @@ Finish）**力量會加成。
 <td></td>
 <td><p>小女警，親情的羈絆！</p></td>
 <td><p>我們是一家人！</p></td>
-<td><p><a href="../Page/山田隆司.md" title="wikilink">山田隆司</a></p></td>
-<td><p><a href="../Page/植田秀仁.md" title="wikilink">植田秀仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山田隆司" title="wikilink">山田隆司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/植田秀仁" title="wikilink">植田秀仁</a></p></td>
 <td><p>岡辰也</p></td>
 <td><p>髙木佑梨</p></td>
 <td><p>7月22日</p></td>
@@ -1119,7 +1131,7 @@ Finish）**力量會加成。
 <td></td>
 <td><p>展望塔大崩塌！</p></td>
 <td><p>瞭望塔大衝突！</p></td>
-<td><p><a href="../Page/村山功.md" title="wikilink">村山功</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/村山功" title="wikilink">村山功</a></p></td>
 <td><p>佐伯哲也</p></td>
 <td></td>
 <td></td>
@@ -1134,7 +1146,7 @@ Finish）**力量會加成。
 <td><p>法-{}-茨拉姆基斯！</p></td>
 <td><p>古賀直樹</p></td>
 <td><p>中村哲治</p></td>
-<td><p><a href="../Page/佐々門信芳.md" title="wikilink">佐々門信芳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐々門信芳" title="wikilink">佐々門信芳</a></p></td>
 <td><p>吉田智子</p></td>
 <td><p>8月5日</p></td>
 <td></td>
@@ -1230,7 +1242,7 @@ Finish）**力量會加成。
 <td><p>多金公主上太空！</p></td>
 <td><p>宇宙小公主！</p></td>
 <td><p>浦沢義雄</p></td>
-<td><p><a href="../Page/勝間田具治.md" title="wikilink">勝間田具治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勝間田具治" title="wikilink">勝間田具治</a></p></td>
 <td><p>佐々門信芳</p></td>
 <td><p>窪田忠雄</p></td>
 <td><p>9月9日</p></td>
@@ -1267,7 +1279,7 @@ Finish）**力量會加成。
 <td><p>阿-{}-米巴男孩拜魔人為師！</p></td>
 <td><p>浦沢義雄</p></td>
 <td><p>石黒育</p></td>
-<td><p><a href="../Page/渡辺純央.md" title="wikilink">渡辺純央</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡辺純央" title="wikilink">渡辺純央</a></p></td>
 <td><p>渡辺奈月</p></td>
 <td><p>窪田忠雄</p></td>
 <td><p>9月23日</p></td>
@@ -1276,7 +1288,7 @@ Finish）**力量會加成。
 <td></td>
 <td><p>照相機怪獸的反擊！</p></td>
 <td><p>相機怪的反攻！</p></td>
-<td><p><a href="../Page/鴫野彰.md" title="wikilink">鴫野彰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鴫野彰" title="wikilink">鴫野彰</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1301,7 +1313,7 @@ Finish）**力量會加成。
 <td></td>
 <td><p>服裝秀大混亂！</p></td>
 <td><p>受襲的時裝表演！</p></td>
-<td><p><a href="../Page/下山健人.md" title="wikilink">下山健人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/下山健人" title="wikilink">下山健人</a></p></td>
 <td><p>岩井隆央</p></td>
 <td><p>アベ正己</p></td>
 <td><p>鹿野良行</p></td>
@@ -1435,7 +1447,7 @@ Finish）**力量會加成。
 <td><p>最邪惡的「-{他}-」登場！</p></td>
 <td><p>最兇最惡的怪物！</p></td>
 <td><p>山田隆司</p></td>
-<td><p><a href="../Page/西尾大介.md" title="wikilink">西尾大介</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/西尾大介" title="wikilink">西尾大介</a><br />
 石黒育</p></td>
 <td><p>後藤康徳</p></td>
 <td><p>袴田裕二</p></td>
@@ -1520,7 +1532,7 @@ Finish）**力量會加成。
 <td><p>捏我吃我！壽司怪獸登場！</p></td>
 <td><p>壽司怪物</p></td>
 <td><p>浦沢義雄</p></td>
-<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
 <td><p>秦義人</p></td>
 <td><p>平塚知哉</p></td>
 <td><p>鹿野良行</p></td>
@@ -1991,11 +2003,11 @@ Finish）**力量會加成。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a></p></td>
 <td><p>2006年7月1日 - 2007年6月30日</p></td>
 <td><p>星期六 7:00 - 7:30</p></td>
-<td><p><a href="../Page/TXN.md" title="wikilink">東京電視台系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">東京電視台系列</a></p></td>
 <td><p><strong>製作電視台</strong></p></td>
 </tr>
 <tr class="even">
@@ -2015,7 +2027,7 @@ Finish）**力量會加成。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td></td>
 <td></td>
@@ -2023,7 +2035,7 @@ Finish）**力量會加成。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td><p>2006年7月8日 - 2007年6月30日</p></td>
 <td><p>星期六 6:30 - 7:00<br />
@@ -2033,7 +2045,7 @@ Finish）**力量會加成。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>2006年7月5日 - 2007年7月4日</p></td>
 <td><p>星期三 7:30 - 8:00</p></td>
@@ -2041,12 +2053,12 @@ Finish）**力量會加成。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/全国放送.md" title="wikilink">日本全域</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国放送" title="wikilink">日本全域</a></p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2006年8月1日 - 2007年7月24日</p></td>
 <td><p>星期二 9:30 - 10:00 / 20:30 - 21:00<br />
 星期五 14:30 - 15:00 / 24:30 - 25:00</p></td>
-<td><p><a href="../Page/動畫專門.md" title="wikilink">動畫專門</a><a href="../Page/日本衛星電視廣播#CS技術放送.md" title="wikilink">CS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/動畫專門" title="wikilink">動畫專門</a><a href="https://zh.wikipedia.org/wiki/日本衛星電視廣播#CS技術放送" title="wikilink">CS放送</a></p></td>
 <td><p>有重播</p></td>
 </tr>
 <tr class="even">
@@ -2103,7 +2115,7 @@ Finish）**力量會加成。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/香港有線兒童台.md" title="wikilink">有線兒童台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港有線兒童台" title="wikilink">有線兒童台</a></p></td>
 <td><p>2012年4月16日－6月26日</p></td>
 <td><p>星期一至五[6]</p></td>
 <td></td>
@@ -2135,7 +2147,7 @@ Finish）**力量會加成。
 [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")
 [Category:奇妙電視外購動畫](https://zh.wikipedia.org/wiki/Category:奇妙電視外購動畫 "wikilink")
 
-1.  臺灣中文配音版則以「[山地原住民說](../Page/台灣原住民.md "wikilink")[普通話](../Page/普通話.md "wikilink")」的模式為主，強調鄉巴佬特性，故將「……」改成「……的啦」。
+1.  臺灣中文配音版則以「[山地原住民說](https://zh.wikipedia.org/wiki/台灣原住民 "wikilink")[普通話](https://zh.wikipedia.org/wiki/普通話 "wikilink")」的模式為主，強調鄉巴佬特性，故將「……」改成「……的啦」。
 2.  臺灣播出以中文配音為輔的《飛天小女警Z》，於第十二話翻譯的是「隆明」，但在動畫第四十八話時，的病房門外所掛的名稱全名為「」，故應為誤譯。故因此在該話，臺灣的翻譯就將高明以暱稱「小高」為主。
 3.  但事實上這些微生物絕大多數都是與我們人類共生，並不會危害我們的健康
 4.

@@ -1,4 +1,4 @@
-**Yahoo奇摩**是[台灣](../Page/台灣.md "wikilink")[入口網站之一](../Page/入口網站.md "wikilink")，為[Oath公司旗下入口網站](../Page/Oath公司.md "wikilink")[雅虎的台灣版](../Page/雅虎.md "wikilink")，由香港商雅虎資訊股份有限公司台灣分公司代表Oath台灣公司營運\[1\]。該網站於2001年10月[雅虎台灣與](../Page/雅虎台灣.md "wikilink")[奇摩站合併後成立](../Page/奇摩站.md "wikilink")，網址續用雅虎台灣的「tw.yahoo.com」。因為合併的緣故，所以雅虎在台灣的服務名稱，部分與世界各地通用的「Yahoo\!」品牌不同\[2\]，但是帳號與全球的雅虎網站是共通的。
+**Yahoo奇摩**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[入口網站之一](https://zh.wikipedia.org/wiki/入口網站 "wikilink")，為[Oath公司旗下入口網站](https://zh.wikipedia.org/wiki/Oath公司 "wikilink")[雅虎的台灣版](../Page/雅虎.md "wikilink")，由香港商雅虎資訊股份有限公司台灣分公司代表Oath台灣公司營運\[1\]。該網站於2001年10月[雅虎台灣與](../Page/雅虎台灣.md "wikilink")[奇摩站合併後成立](../Page/奇摩站.md "wikilink")，網址續用雅虎台灣的「tw.yahoo.com」。因為合併的緣故，所以雅虎在台灣的服務名稱，部分與世界各地通用的「Yahoo\!」品牌不同\[2\]，但是帳號與全球的雅虎網站是共通的。
 
 ## 歷史沿革
 
@@ -8,7 +8,7 @@
 
 2003年8月，電子郵件服務調整，由20MB調整為6MB。
 
-2004年3月，與興奇科技合作推出「Yahoo奇摩購物中心」，由興奇科技獨家經營；10月，電子郵件服務調整，由6MB調整為100MB；11月，聊天室服務終止、[知識+服務啟用](../Page/知識+.md "wikilink")。
+2004年3月，與興奇科技合作推出「Yahoo奇摩購物中心」，由興奇科技獨家經營；10月，電子郵件服務調整，由6MB調整為100MB；11月，聊天室服務終止、[知識+服務啟用](https://zh.wikipedia.org/wiki/知識+ "wikilink")。
 
 2005年11月，部落格服務啟用。
 
@@ -23,7 +23,7 @@
 2010年7月，與[愛情公寓合作](../Page/愛情公寓_\(網站\).md "wikilink")，而提供會員檔案移至愛情公寓，並於2010年11月終止交友服務。
 2011年4月26日，Yahoo奇摩家族服務終止。\[3\]
 
-2013年1月1日，迷你筆服務中止\[4\]。1月5日，停止提供輸入法服務。同時將輸入法程式原始碼開放至開源碼社群，開發者可以運用與更新技術。\[5\]8月30日，宣佈於2013年12月26日全面終止旗下[部落格與](../Page/部落格.md "wikilink")[無名小站服務](../Page/無名小站.md "wikilink")。12月26日，無名小站與Yahoo奇摩部落格正式停止服務。
+2013年1月1日，迷你筆服務中止\[4\]。1月5日，停止提供輸入法服務。同時將輸入法程式原始碼開放至開源碼社群，開發者可以運用與更新技術。\[5\]8月30日，宣佈於2013年12月26日全面終止旗下[部落格與](https://zh.wikipedia.org/wiki/部落格 "wikilink")[無名小站服務](../Page/無名小站.md "wikilink")。12月26日，無名小站與Yahoo奇摩部落格正式停止服務。
 
 2014年9月，Yahoo\!奇摩拍賣改版並全面採用輕鬆付。
 
@@ -33,15 +33,15 @@ Maps正式停止服務](../Page/雅虎地圖.md "wikilink")。\[7\]8月30日，�
 2016年10月6日，Yahoo\!奇摩拍賣與中國信託合作推出第三方支付平台-易付。
 
 2016年8月9日，推出Yahoo
-TV服務，主打跨螢[直播和](../Page/直播.md "wikilink")[社群互動](../Page/社群.md "wikilink")，並且自製直播節目\[9\]。
+TV服務，主打跨螢[直播和](https://zh.wikipedia.org/wiki/直播 "wikilink")[社群互動](https://zh.wikipedia.org/wiki/社群 "wikilink")，並且自製直播節目\[9\]。
 
 2017年4月10日，宣布股市大玩咖服務中止。
 
 2017年12月21日，提供拍賣輕鬆付餘額自動扣抵拍賣費用功能。
 
-2018年4月25日，[Oath公司成立](../Page/Oath.md "wikilink")，吸收[AOL](../Page/AOL.md "wikilink")
+2018年4月25日，[Oath公司成立](https://zh.wikipedia.org/wiki/Oath "wikilink")，吸收[AOL](https://zh.wikipedia.org/wiki/AOL "wikilink")
 和 Yahoo 為旗下品牌 ，隸屬於
-[Verizon](../Page/Verizon.md "wikilink")，Yahoo\!奇摩的營運法人為香港商雅虎資訊股份有限公司台灣分公司，該公司為Oath台灣代表。
+[Verizon](https://zh.wikipedia.org/wiki/Verizon "wikilink")，Yahoo\!奇摩的營運法人為香港商雅虎資訊股份有限公司台灣分公司，該公司為Oath台灣代表。
 
 ## 提供服務
 
@@ -51,7 +51,7 @@ TV服務，主打跨螢[直播和](../Page/直播.md "wikilink")[社群互動](.
   - 運動
   - 股市
   - 理財
-  - [知識+](../Page/Yahoo奇摩知識+.md "wikilink")
+  - [知識+](https://zh.wikipedia.org/wiki/Yahoo奇摩知識+ "wikilink")
   - 氣象
   - 房地產
   - 汽機車

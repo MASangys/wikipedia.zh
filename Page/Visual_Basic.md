@@ -1,6 +1,6 @@
 [Typical_vb6_session.png](https://zh.wikipedia.org/wiki/File:Typical_vb6_session.png "fig:Typical_vb6_session.png")
 **Visual
-Basic**（**VB**）是由[微軟公司开发的包含](../Page/微軟.md "wikilink")[环境的](../Page/环境.md "wikilink")[事件驱动编程语言](../Page/事件驱动.md "wikilink")。它源自于[BASIC编程语言](../Page/BASIC.md "wikilink")。VB拥有[图形用户界面](../Page/图形用户界面.md "wikilink")（[GUI](../Page/GUI.md "wikilink")）和[快速應用程式開發](../Page/快速應用程式開發.md "wikilink")（[RAD](../Page/RAD.md "wikilink")）系统，可以轻易的使用[DAO](../Page/DAO.md "wikilink")、[RDO](../Page/RDO.md "wikilink")、[ADO连接](../Page/ADO.md "wikilink")[数据库](../Page/数据库.md "wikilink")，或者轻松的创建[ActiveX](../Page/ActiveX.md "wikilink")[控件](../Page/控件.md "wikilink")。程序员可以轻松地使用VB提供的组件快速建立一个[应用程序](../Page/应用程序.md "wikilink")。
+Basic**（**VB**）是由[微軟公司开发的包含](https://zh.wikipedia.org/wiki/微軟 "wikilink")[环境的](https://zh.wikipedia.org/wiki/环境 "wikilink")[事件驱动编程语言](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")。它源自于[BASIC编程语言](../Page/BASIC.md "wikilink")。VB拥有[图形用户界面](../Page/图形用户界面.md "wikilink")（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")）和[快速應用程式開發](../Page/快速應用程式開發.md "wikilink")（[RAD](https://zh.wikipedia.org/wiki/RAD "wikilink")）系统，可以轻易的使用[DAO](https://zh.wikipedia.org/wiki/DAO "wikilink")、[RDO](https://zh.wikipedia.org/wiki/RDO "wikilink")、[ADO连接](../Page/ADO.md "wikilink")[数据库](../Page/数据库.md "wikilink")，或者轻松的创建[ActiveX](../Page/ActiveX.md "wikilink")[控件](../Page/控件.md "wikilink")。程序员可以轻松地使用VB提供的组件快速建立一个[应用程序](../Page/应用程序.md "wikilink")。
 
 ## 发展史
 
@@ -10,7 +10,7 @@ Basic**（**VB**）是由[微軟公司开发的包含](../Page/微軟.md "wikili
 
 [Microsoft_Visual_Basic_for_MS-DOS.png](https://zh.wikipedia.org/wiki/File:Microsoft_Visual_Basic_for_MS-DOS.png "fig:Microsoft_Visual_Basic_for_MS-DOS.png")
 1991年4月，Visual Basic 1.0 for Windows版本发布。1992年9月，Visual Basic 1.0 for
-DOS版本发布。这个连接编程语言和用户界面的进步被称为Tripod（有些时候叫做Ruby），最初的设计是由[阿兰·库珀](../Page/阿兰·库珀.md "wikilink")（）完成的。这在当时引起了很大的轰动。许多专家把VB的出现当做是软件开发史上的一个具有划时代意义的事件。以现在的眼光来看，VB1.0版的功能其實非常的弱，但它在推出当时可是第一个“可视”的编程软件。这使得程序员欣喜之极，都尝试在VB的平台上进行软件创作。
+DOS版本发布。这个连接编程语言和用户界面的进步被称为Tripod（有些时候叫做Ruby），最初的设计是由[阿兰·库珀](https://zh.wikipedia.org/wiki/阿兰·库珀 "wikilink")（）完成的。这在当时引起了很大的轰动。许多专家把VB的出现当做是软件开发史上的一个具有划时代意义的事件。以现在的眼光来看，VB1.0版的功能其實非常的弱，但它在推出当时可是第一个“可视”的编程软件。这使得程序员欣喜之极，都尝试在VB的平台上进行软件创作。
 
 #### VB 2
 
@@ -22,10 +22,10 @@ DOS版本发布。这个连接编程语言和用户界面的进步被称为Tripo
 
 #### VB 4
 
-1995年8月，VB4.0发布了[32位版本和](../Page/32位.md "wikilink")[16位的版本](../Page/16位.md "wikilink")。其中包含了对[类的支持](../Page/類_\(計算機科學\).md "wikilink")。从VB4开始，逐步引入了面向对象的程序设计思想。VB功能强大，学习简单。而且，VB还引入了“控件”的概念，使得大量已经编好的VB程序可以被我们直接拿来使用。
+1995年8月，VB4.0发布了[32位版本和](https://zh.wikipedia.org/wiki/32位 "wikilink")[16位的版本](https://zh.wikipedia.org/wiki/16位 "wikilink")。其中包含了对[类的支持](https://zh.wikipedia.org/wiki/類_\(計算機科學\) "wikilink")。从VB4开始，逐步引入了面向对象的程序设计思想。VB功能强大，学习简单。而且，VB还引入了“控件”的概念，使得大量已经编好的VB程序可以被我们直接拿来使用。
 
 Visual Basic
-1.0\~4.0都必须将源代码编译成[VB伪代码后解释执行](../Page/VB伪代码.md "wikilink")。
+1.0\~4.0都必须将源代码编译成[VB伪代码后解释执行](https://zh.wikipedia.org/wiki/VB伪代码 "wikilink")。
 
 #### VB 5
 
@@ -41,20 +41,20 @@ Basic 5.0以后，VB支持编译成本机代码，但必须在VB运行库的支�
 #### VB.NET （VB7）
 
 2001年，[Visual Basic .NET和](../Page/Visual_Basic_.NET.md "wikilink")[.NET
-Framework发布](../Page/.NET_Framework.md "wikilink")。由于其使用了新的核心和特性，所以很多VB的程序员都要改写程序。
+Framework发布](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。由于其使用了新的核心和特性，所以很多VB的程序员都要改写程序。
 
 2002年Visual Basic .NET 2002（v7.0）問世，此后Visual Basic包含在[Visual
-Studio套装中](../Page/Visual_Studio.md "wikilink")。
+Studio套装中](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")。
 
 2003年Visual Basic .NET 2003（v7.1）推出。
 
 #### VB 8
 
-2004年，微软开放了[Visual Studio](../Page/Visual_Studio.md "wikilink").NET
-2005的[测试版本](../Page/测试.md "wikilink")（代号Whidbey）。包含了.NET
-Framework2.0的测试版本。2005年11月7日Visual Basic
-2005（v8.0）发布，同时为初学者与学生提供Visual Basic
-2005的免費簡化版本Express
+2004年，微软开放了[Visual
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink").NET
+2005的[测试版本](https://zh.wikipedia.org/wiki/测试 "wikilink")（代号Whidbey）。包含了.NET
+Framework2.0的测试版本。2005年11月7日Visual Basic 2005（v8.0）发布，同时为初学者与学生提供Visual
+Basic 2005的免費簡化版本Express
 Edition。原定免费使用期限一年，之后微软宣布Express版本永久免费。微软在其软件名称中去掉了.NET部分。Visual
 Basic 2005的“显著”优点是，可以直接编写出Windows XP风格的控件；但是其编写的小程序就需要近10MB的内存。
 
@@ -63,7 +63,7 @@ Basic 2005的“显著”优点是，可以直接编写出Windows XP风格的控
 2008年2月1日Visual Basic 2008（v9.0）发布。
 
 通过几年的发展，它已成为一种专业化的开发语言和环境。用户可用Visual
-Basic快速创建Windows程序，现在还可以编写企业水平的[客户/服务器程序及强大的](../Page/客户/服务器程序.md "wikilink")[数据库应用程序](../Page/数据库应用程序.md "wikilink")。
+Basic快速创建Windows程序，现在还可以编写企业水平的[客户/服务器程序及强大的](https://zh.wikipedia.org/wiki/客户/服务器程序 "wikilink")[数据库应用程序](https://zh.wikipedia.org/wiki/数据库应用程序 "wikilink")。
 
 #### VB 10
 
@@ -78,7 +78,7 @@ Visual Basic 10.0按计划于2010年3月22日随Visual Studio 2010一起正式�
   - 更好地与[Python及](../Page/Python.md "wikilink")[Ruby等](../Page/Ruby.md "wikilink")[动态语言的互通操作](../Page/动态语言.md "wikilink")
 
 Visual Basic .NET 2002（7.0）及以后的版本运行在[.NET
-Framework环境下](../Page/.NET_Framework.md "wikilink")。
+Framework环境下](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。
 
 #### 2012年Visual Basic 2012（VB 11.0）
 
@@ -99,27 +99,27 @@ Visual Basic 2015（VB 14.0）于2015年7月20日发布。
 
 <!-- end list -->
 
-  - [VBScript是](../Page/VBScript.md "wikilink")[ASP的預設语言](../Page/ASP.md "wikilink")，还可以用在[Windows脚本编写](../Page/Windows.md "wikilink")（Shell
-    Script）和[网页编码](../Page/网页.md "wikilink")（[HTML](../Page/HTML.md "wikilink")）中。尽管它的语法类似于VB，但是它却是一种完全不同的语言。VBS不使用VB运行库运行，而是由[Windows脚本宿主](../Page/Windows_Script_Host.md "wikilink")（wscript.exe
+  - [VBScript是](../Page/VBScript.md "wikilink")[ASP的預設语言](https://zh.wikipedia.org/wiki/ASP "wikilink")，还可以用在[Windows脚本编写](https://zh.wikipedia.org/wiki/Windows "wikilink")（Shell
+    Script）和[网页编码](https://zh.wikipedia.org/wiki/网页 "wikilink")（[HTML](../Page/HTML.md "wikilink")）中。尽管它的语法类似于VB，但是它却是一种完全不同的语言。VBS不使用VB运行库运行，而是由[Windows脚本宿主](../Page/Windows_Script_Host.md "wikilink")（wscript.exe
     - Microsoft Windows Based Script Host）解释执行。这两种语言之中的不同点影响ASP网站的表现。
 
 当微软准备开发一种新的编程工具的时候，第一决定就是利用最抢手的VB6来进行修改，或者就是重新组建工程开发新工具。微软后来开发了VB的继任者[Visual
 Basic
-.NET](../Page/Visual_Basic_.NET.md "wikilink")，同时也是[.NET平台的一部分](../Page/.NET.md "wikilink")。VB.NET编程语言是一种真正的[面向对象编程语言](../Page/面向对象的程序设计.md "wikilink")（VB4-VB6只能称为基于对象而不是面向对象，最明显的特征就是VB4-VB6都不支持类的继承），和传统Visual
+.NET](../Page/Visual_Basic_.NET.md "wikilink")，同时也是[.NET平台的一部分](https://zh.wikipedia.org/wiki/.NET "wikilink")。VB.NET编程语言是一种真正的[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")（VB4-VB6只能称为基于对象而不是面向对象，最明显的特征就是VB4-VB6都不支持类的继承），和传统Visual
 Basic并不完全兼容。
 
 ## 语言特性
 
 [Typical_vb6_session.png](https://zh.wikipedia.org/wiki/File:Typical_vb6_session.png "fig:Typical_vb6_session.png")
-VB的中心思想就是要便于[程序员使用](../Page/程序员.md "wikilink")，无论是新手或者专家。VB使用了可以简单建立应用程序的[GUI系统](../Page/GUI.md "wikilink")，但是又可以开发相当复杂的程序。VB的程序是一种基于[窗体的可视化组件安排的联合](../Page/窗体.md "wikilink")，并且增加代码来指定组建的属性和方法。因为默认的属性和方法已经有一部分定义在了组件内，所以程序员不用写多少代码就可以完成一个简单的程序。过去的版本里面VB程序的性能问题一直被放在檯面上討論，但是随着[计算机速度的飞速增加](../Page/计算机.md "wikilink")，关于性能的争论已经越来越少。
+VB的中心思想就是要便于[程序员使用](../Page/程序员.md "wikilink")，无论是新手或者专家。VB使用了可以简单建立应用程序的[GUI系统](https://zh.wikipedia.org/wiki/GUI "wikilink")，但是又可以开发相当复杂的程序。VB的程序是一种基于[窗体的可视化组件安排的联合](https://zh.wikipedia.org/wiki/窗体 "wikilink")，并且增加代码来指定组建的属性和方法。因为默认的属性和方法已经有一部分定义在了组件内，所以程序员不用写多少代码就可以完成一个简单的程序。过去的版本里面VB程序的性能问题一直被放在檯面上討論，但是随着[计算机速度的飞速增加](https://zh.wikipedia.org/wiki/计算机 "wikilink")，关于性能的争论已经越来越少。
 
-窗体控件的增加和改变可以用[拖放技术实现](../Page/拖放.md "wikilink")。一个排列满控件的工具箱用来显示可用控件（比如文本框或者按钮）。每个控件都有自己的和[事件](../Page/事件.md "wikilink")。默认的属性值会在控件创建的时候提供，但是程序员也可以进行更改。很多的属性值可以在运行时候随着用户的动作和修改进行改动，这样就形成了一个动态的程序。举个例子来说：窗体的大小改变事件中加入了可以改变控件位置的代码，在运行时候每当用户更改窗口大小，控件也会随之改变位置。在文本框中的文字改变事件中加入相应的代码，程序就能够在文字输入的时候自动翻译或者阻止某些字符的输入。
+窗体控件的增加和改变可以用[拖放技术实现](https://zh.wikipedia.org/wiki/拖放 "wikilink")。一个排列满控件的工具箱用来显示可用控件（比如文本框或者按钮）。每个控件都有自己的和[事件](https://zh.wikipedia.org/wiki/事件 "wikilink")。默认的属性值会在控件创建的时候提供，但是程序员也可以进行更改。很多的属性值可以在运行时候随着用户的动作和修改进行改动，这样就形成了一个动态的程序。举个例子来说：窗体的大小改变事件中加入了可以改变控件位置的代码，在运行时候每当用户更改窗口大小，控件也会随之改变位置。在文本框中的文字改变事件中加入相应的代码，程序就能够在文字输入的时候自动翻译或者阻止某些字符的输入。
 
-VB的程序可以包含一个或多个窗体，或者是一个主窗体和多个子窗体，类似于[操作系统的样子](../Page/操作系统.md "wikilink")。有很少功能的对话框[窗口](../Page/窗口.md "wikilink")（比如没有[最大化和](../Page/最大化.md "wikilink")[最小化按钮的窗体](../Page/最小化.md "wikilink")）可以用来提供弹出功能。
+VB的程序可以包含一个或多个窗体，或者是一个主窗体和多个子窗体，类似于[操作系统的样子](../Page/操作系统.md "wikilink")。有很少功能的对话框[窗口](https://zh.wikipedia.org/wiki/窗口 "wikilink")（比如没有[最大化和](https://zh.wikipedia.org/wiki/最大化 "wikilink")[最小化按钮的窗体](https://zh.wikipedia.org/wiki/最小化 "wikilink")）可以用来提供弹出功能。
 
-VB的组件既可以拥有用户界面，也可以没有。这样一来[服务器端程序就可以处理增加的](../Page/服务器.md "wikilink")[模块](../Page/模块.md "wikilink")。
+VB的组件既可以拥有用户界面，也可以没有。这样一来[服务器端程序就可以处理增加的](../Page/服务器.md "wikilink")[模块](https://zh.wikipedia.org/wiki/模块 "wikilink")。
 
-VB使用[引用计数的方法来进行垃圾收集](../Page/引用计数.md "wikilink")，这个方法中包含有大量的对象，提供基本的[面向对象支持](../Page/面向对象的程序设计.md "wikilink")。因为越来越多组建的出现，程序员可以选用自己需要的扩展库。和有些语言不一样，VB对大小写不敏感，但是能自动转换关键词到标准的大小写状态，以及强制使得符号表入口的实体的变量名称遵循书写规则。默认情况下字符串的比较是对大小写敏感的，但是可以关闭这个功能。
+VB使用[引用计数的方法来进行垃圾收集](../Page/引用计数.md "wikilink")，这个方法中包含有大量的对象，提供基本的[面向对象支持](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")。因为越来越多组建的出现，程序员可以选用自己需要的扩展库。和有些语言不一样，VB对大小写不敏感，但是能自动转换关键词到标准的大小写状态，以及强制使得符号表入口的实体的变量名称遵循书写规则。默认情况下字符串的比较是对大小写敏感的，但是可以关闭这个功能。
 
 VB使得大量的外界控件有了自己的生存空间。大量的第三方控件针对VB提供。VB也提供了建立、使用和重用这些控件的方法，但是由于语言问题，从一个应用程序创建另外一个并不简单。
 
@@ -133,20 +133,21 @@ VB使得大量的外界控件有了自己的生存空间。大量的第三方控
   - **方法**：嵌入在对象定义中的程序代码，它定义对象怎样处理信息并响应某事件。例如，数据库对象有打开纪录集并从一个记录移动到另一个记录的方法程序的基本元素，它含有定义其特征的属性，定义其任务和识别它可以响应的事件的方法。控件和窗体是Visual
     Basic中所有对象的示例。
   - **物件**：一个控件、窗体等都可被看作一个物件。
-  - **过程**：为完成某些特定的任务而编写的[代码段](../Page/代码.md "wikilink")，过程通常用于响应特定的事件，也可以当作应用程序的[用户自定义函数来使用](../Page/用户自定义函数.md "wikilink")。
+  - **过程**：为完成某些特定的任务而编写的[代码段](../Page/代码.md "wikilink")，过程通常用于响应特定的事件，也可以当作应用程序的[用户自定义函数来使用](https://zh.wikipedia.org/wiki/用户自定义函数 "wikilink")。
   - **属性**：属性是组成用户界面的各对象的性质的具体描述。例如上述“物件”中所提到的尺寸、位置、颜色、宽度、高度等等都称为控件的属性。属性决定物件的外观，有时也决定物件的行为。物件的属性绝大部分是VB中已经事先定义好的，但也有的属性是需要在应用过程中才去定义的。属性即可为物件提供数据，也能从物件取回信息。
 
 ## VB.NET的变革
 
 ### VB（6.0及以前）不擁有的特性
 
-  - [继承](../Page/继承_\(计算机科学\).md "wikilink")：Visual Basic
-    5以后，VB虽然提供了简化的类支持，但仍然不能滿足程序員的需求。
+  - [继承](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")：Visual
+    Basic 5以后，VB虽然提供了简化的类支持，但仍然不能滿足程序員的需求。
   - [多线程支持](../Page/多线程.md "wikilink")：虽然可以使用[Windows
     API完成](../Page/Windows_API.md "wikilink")，不过稳定性与调试都很难保证。
-  - [異常處理](../Page/異常處理.md "wikilink")：只支持"`On Error Goto` *line*"語句。
-  - 對[指標的支持非常有限](../Page/指標.md "wikilink")。
-  - VB只能支持8到32位的[整數](../Page/整數.md "wikilink")，很多語言都有無限制的支持。
+  - [異常處理](https://zh.wikipedia.org/wiki/異常處理 "wikilink")：只支持"`On Error
+    Goto` *line*"語句。
+  - 對[指標的支持非常有限](https://zh.wikipedia.org/wiki/指標 "wikilink")。
+  - VB只能支持8到32位的[整數](https://zh.wikipedia.org/wiki/整數 "wikilink")，很多語言都有無限制的支持。
   - VB不允許在任何數組記憶體在不變的變量。
   - VB不支持其它程序语言共享程序代码。
 
@@ -156,7 +157,7 @@ Visual Basic .NET（VB 7.0）以后的版本基本支持了上述特性。
 
 很多程序编寫者也會留戀VB6。VB6仍保留了一些script語言的特性，例如：不用事先宣告變量類型。當第一次對未宣告類型的變數進行賦值時，VB6便會把這個值的類型作為該變數的類型。這種script語言的特性，對程序的可維護有很多不良的影響，尤其對初階程序員來說，更會被培養成不良的编寫程序習慣，所以VB.NET之後的版本已不保留這種特性。
 
-Basic是作為初學者的编程語言而被製作，當時是以[直译语言](../Page/直译语言.md "wikilink")（参见[VB伪代码](../Page/VB伪代码.md "wikilink")）的形式出現。同樣擁有不用事先宣告變量類型的特性。這種特性對於幫助初學者快速入門，其實是有正面的作用，可以使初學者更快完成簡單的代碼编寫，而不用顧慮到程序要用哪些變量，要選哪些類型。對於有一定程序编寫經驗的人來看，要經常為for
+Basic是作為初學者的编程語言而被製作，當時是以[直译语言](https://zh.wikipedia.org/wiki/直译语言 "wikilink")（参见[VB伪代码](https://zh.wikipedia.org/wiki/VB伪代码 "wikilink")）的形式出現。同樣擁有不用事先宣告變量類型的特性。這種特性對於幫助初學者快速入門，其實是有正面的作用，可以使初學者更快完成簡單的代碼编寫，而不用顧慮到程序要用哪些變量，要選哪些類型。對於有一定程序编寫經驗的人來看，要經常為for
 i=1 to 9中的變量i宣告類型也頗煩人，所以這種特性在某些場合上，是相當討人歡心的。
 
 VB.NET的具体变革如下：
@@ -178,16 +179,16 @@ VB.NET的具体变革如下：
 
 ### 反对者
 
-VB是一种充满了争议的语言：很多程序员对VB程序的品质有强烈的反感。很多人认为VB不配他们使用，认为它是一种给儿童和菜鸟程序员的语言。它自从设计开始就是一种简单的语言。一些[C++和](../Page/C++.md "wikilink")[Java中的特性在VB中并没有出现](../Page/Java.md "wikilink")。在感受开发的方便和快速的同时，一些类似于[编译时进行类型和声明检查的功能在默认情况下是关闭的](../Page/编译.md "wikilink")。这样一些程序员一边感叹VB的易用性，一边沮丧地看着一些类似于“未定义类型”错误的发生。
+VB是一种充满了争议的语言：很多程序员对VB程序的品质有强烈的反感。很多人认为VB不配他们使用，认为它是一种给儿童和菜鸟程序员的语言。它自从设计开始就是一种简单的语言。一些[C++和](../Page/C++.md "wikilink")[Java中的特性在VB中并没有出现](../Page/Java.md "wikilink")。在感受开发的方便和快速的同时，一些类似于[编译时进行类型和声明检查的功能在默认情况下是关闭的](https://zh.wikipedia.org/wiki/编译 "wikilink")。这样一些程序员一边感叹VB的易用性，一边沮丧地看着一些类似于“未定义类型”错误的发生。
 
 一些批评家认为VB的简单特性使得其在未来具有伤害性。很多人自学了VB，但是并没有学到好的编程习惯。当VB进入课堂的时候，学生们不会学到很多基础的程序技术和结构，因为很多技术已经包含在那些对用户可见的组件里面了。不用学习标准的编程习惯，因为VB具有可视化的特性，所以导致了一些莫名其妙的代码的产生。而且很多错误和警告的检查默认情况下都是关闭的，程序员很难找到隐藏的错误。有经验的程序员在用VB编程的时候都会把这些选项打开。
 
   - 并不是非常简便，它开发的程序只能运行在[Microsoft
-    Windows中](../Page/Microsoft_Windows.md "wikilink")。
+    Windows中](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
   - 檔案太大了。[Visual
-    Studio要用好几张](../Page/Visual_Studio.md "wikilink")-{zh-hans:盘;
-    zh-hant:光碟片;}-才能装下。VB程序在运行时候只需要一个1.4M大小的[运行库](../Page/运行库.md "wikilink")。
-  - [IDE中有错误](../Page/IDE.md "wikilink")。
+    Studio要用好几张](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")-{zh-hans:盘;
+    zh-hant:光碟片;}-才能装下。VB程序在运行时候只需要一个1.4M大小的[运行库](https://zh.wikipedia.org/wiki/运行库 "wikilink")。
+  - [IDE中有错误](https://zh.wikipedia.org/wiki/IDE "wikilink")。
   - VB不能很好地综合Windows的基础API，很多时候要使用低级运算的“小伎俩”来进行编程。而C语言的低级内存运算比VB的要简单得多。
 
 ### 支持者

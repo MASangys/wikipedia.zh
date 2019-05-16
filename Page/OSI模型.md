@@ -1,17 +1,17 @@
 **开放式系统互联通信参考模型**（，縮寫為 OSI），簡稱為**OSI模型**（OSI
-model），一種[概念模型](../Page/概念模型.md "wikilink")，由[国际标准化组织提出](../Page/国际标准化组织.md "wikilink")，一个试图使各种计算机在世界范围内互连为网络的标准框架。定義於ISO/IEC
+model），一種[概念模型](../Page/概念模型.md "wikilink")，由[国际标准化组织提出](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")，一个试图使各种计算机在世界范围内互连为网络的标准框架。定義於ISO/IEC
 7498-1。
 
 ## 历史
 
-在制定[计算机网络标准方面](../Page/计算机网络.md "wikilink")，起着重大作用的两大国际组织是：[國際電信聯盟電信標準化部門](../Page/國際電信聯盟電信標準化部門.md "wikilink")，与[国际标准组织](../Page/国际标准组织.md "wikilink")（ISO），虽然它们工作领域不同，但随着科学技术的发展，通信与信息处理之间的界限开始变得比较模糊，这也成了[國際電信聯盟電信標準化部門和ISO共同关心的领域](../Page/國際電信聯盟電信標準化部門.md "wikilink")。1984年，ISO发布了著名的***ISO/IEC
+在制定[计算机网络标准方面](../Page/计算机网络.md "wikilink")，起着重大作用的两大国际组织是：[國際電信聯盟電信標準化部門](../Page/國際電信聯盟電信標準化部門.md "wikilink")，与[国际标准组织](https://zh.wikipedia.org/wiki/国际标准组织 "wikilink")（ISO），虽然它们工作领域不同，但随着科学技术的发展，通信与信息处理之间的界限开始变得比较模糊，这也成了[國際電信聯盟電信標準化部門和ISO共同关心的领域](../Page/國際電信聯盟電信標準化部門.md "wikilink")。1984年，ISO发布了著名的***ISO/IEC
 7498***标准，它定义了网络互联的7层框架，也就是开放式系统互联参考模型。
 
 ## 层次划分
 
 根据建议X.200，OSI将计算机网络体系结构划分为以下七层，标有1～7，第1层在底部。
-現“OSI/RM”是[英文](../Page/英文.md "wikilink")“Open Systems
-Interconnection Reference Model”的缩写。
+現“OSI/RM”是[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")“Open
+Systems Interconnection Reference Model”的缩写。
 
 ### 第7層 應用層
 
@@ -47,7 +47,7 @@ control，MAC）子层。
 ### 第1層 實體層
 
 實體層（Physical
-Layer）在局部區域網絡上傳送-{zh-tw:[資料框](../Page/資料框.md "wikilink");zh-cn:[数据帧](../Page/数据帧.md "wikilink")}-（data
+Layer）在局部區域網絡上傳送-{zh-tw:[資料框](https://zh.wikipedia.org/wiki/資料框 "wikilink");zh-cn:[数据帧](https://zh.wikipedia.org/wiki/数据帧 "wikilink")}-（data
 frame），它負責管理電腦通訊設備和網絡媒體之間的互通。包括了針腳、電壓、線纜規範、集線器、中繼器、網卡、主機介面卡等。
 
 ## 影响
@@ -58,10 +58,11 @@ OSI参考模型并没有提供一个可以实现的方法，而是描述了一�
 
 ## 參見
 
-  - [DoD模型](../Page/DoD模型.md "wikilink")（Department of Defense
+  - [DoD模型](https://zh.wikipedia.org/wiki/DoD模型 "wikilink")（Department
+    of Defense
     Model）四層是為了[ARPANET所開發出來的模型](../Page/ARPANET.md "wikilink")。
-  - [網路傳輸協議](../Page/網路傳輸協議.md "wikilink")
-  - [TCP/IP](../Page/TCP/IP.md "wikilink")，与OSI模型有类似结构的现行网络模型
+  - [網路傳輸協議](https://zh.wikipedia.org/wiki/網路傳輸協議 "wikilink")
+  - [TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，与OSI模型有类似结构的现行网络模型
 
 ## 参考文献
 

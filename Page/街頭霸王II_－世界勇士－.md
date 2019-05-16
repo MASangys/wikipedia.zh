@@ -1,12 +1,12 @@
-是日本[CAPCOM公司的一套廣受歡迎的](../Page/CAPCOM.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，於1991年推出。其遊戲中的人物以上集的-{zh-hans:隆;zh-hant:隆;zh-hk:隆;zh-tw:[隆](../Page/隆.md "wikilink");zh-mo:隆;}-（Ryu）和-{zh-hans:拳;zh-hant:拳;zh-hk:拳;zh-tw:[拳](../Page/拳.md "wikilink");zh-mo:拳;}-（Ken）為主角，而反派則是-{zh-hans:維加;zh-hk:M·拜臣;zh-tw:[貝卡](../Page/貝卡.md "wikilink");}-（日版：Vega，美版及欧版：M.
+是日本[CAPCOM公司的一套廣受歡迎的](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，於1991年推出。其遊戲中的人物以上集的-{zh-hans:隆;zh-hant:隆;zh-hk:隆;zh-tw:[隆](https://zh.wikipedia.org/wiki/隆 "wikilink");zh-mo:隆;}-（Ryu）和-{zh-hans:拳;zh-hant:拳;zh-hk:拳;zh-tw:[拳](https://zh.wikipedia.org/wiki/拳 "wikilink");zh-mo:拳;}-（Ken）為主角，而反派則是-{zh-hans:維加;zh-hk:M·拜臣;zh-tw:[貝卡](https://zh.wikipedia.org/wiki/貝卡 "wikilink");}-（日版：Vega，美版及欧版：M.
 Bison）。遊戲中的角色來自不同國度，有獨特的必殺技、完整防禦和進攻系統。
 
-時至今日，-{zh-hans:街头霸王II;zh-hant:快打旋風II;zh-hk:街頭霸王II;zh-tw:快打旋風II;zh-mo:街頭霸王II;}-常常被列入遊戲史上最偉大的[電子遊戲之一](../Page/電子遊戲.md "wikilink")。它廣泛地被認為是[格鬥遊戲的先驅](../Page/格鬥遊戲.md "wikilink")，並仍然被很多純粹主義者認為是該類作品當中最優秀的例子，因它更注重操縱性及可玩性，而不依靠圖像和動畫。特別是其操縱系統，其後的遊戲常常模仿它的系統，包括其他[CAPCOM的格鬥遊戲](../Page/CAPCOM.md "wikilink")。
+時至今日，-{zh-hans:街头霸王II;zh-hant:快打旋風II;zh-hk:街頭霸王II;zh-tw:快打旋風II;zh-mo:街頭霸王II;}-常常被列入遊戲史上最偉大的[電子遊戲之一](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。它廣泛地被認為是[格鬥遊戲的先驅](../Page/格鬥遊戲.md "wikilink")，並仍然被很多純粹主義者認為是該類作品當中最優秀的例子，因它更注重操縱性及可玩性，而不依靠圖像和動畫。特別是其操縱系統，其後的遊戲常常模仿它的系統，包括其他[CAPCOM的格鬥遊戲](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")。
 
-[空手道和初代的](../Page/空手道_\(電子遊戲\).md "wikilink")-{zh-hans:街头霸王;zh-hk:街頭霸王;zh-tw:快打旋風;}-，這兩款於-{zh-hans:街头霸王II;zh-hk:街頭霸王II;zh-tw:快打旋風II;}-之前發行的單對單格鬥遊戲，已經逐漸為人淡忘。
+[空手道和初代的](https://zh.wikipedia.org/wiki/空手道_\(電子遊戲\) "wikilink")-{zh-hans:街头霸王;zh-hk:街頭霸王;zh-tw:快打旋風;}-，這兩款於-{zh-hans:街头霸王II;zh-hk:街頭霸王II;zh-tw:快打旋風II;}-之前發行的單對單格鬥遊戲，已經逐漸為人淡忘。
 
 遊戲中的8個角色分別來自不同的國度，玩家可以選擇其一，並與分佈全球的所有角色一一對戰。當所有的角色被打敗後，四個Boss將會逐一挑戰，最終Boss為-{zh-hans:维加;zh-hk:維加;zh-tw:貝卡;}-。
-四個Boss名字在海外版和日本版不一樣的。（例如：拳手Ｍ·拜森因為名字讀音近似當時著名拳手[-{zh-hans:泰森;zh-hant:泰森;zh-hk:泰臣;zh-tw:泰森;zh-mo:泰臣;}-](../Page/迈克·泰森.md "wikilink")，CAPCOM為免遊戲因此侵犯[肖像權](../Page/肖像權.md "wikilink")，故此易名為巴洛克。）
+四個Boss名字在海外版和日本版不一樣的。（例如：拳手Ｍ·拜森因為名字讀音近似當時著名拳手[-{zh-hans:泰森;zh-hant:泰森;zh-hk:泰臣;zh-tw:泰森;zh-mo:泰臣;}-](../Page/迈克·泰森.md "wikilink")，CAPCOM為免遊戲因此侵犯[肖像權](https://zh.wikipedia.org/wiki/肖像權 "wikilink")，故此易名為巴洛克。）
 
 ## 玩法
 
@@ -27,9 +27,9 @@ Bison）。遊戲中的角色來自不同國度，有獨特的必殺技、完整
   - \-{zh-hans:《街头霸王Ⅱ·冠军版》;zh-hk:街頭霸王Ⅱ冠軍版;zh-tw:快打旋風Ⅱ加強版;}-，俗称“十二人-{zh-hans:街霸;zh-hk:街霸;zh-tw:快打;}-”，在前作基础上又将四位BOSS作为可选人物，并对游戏的平衡性做了修正。而且第一次在格斗游戏中加入“2P人物”的概念，使格斗游戏中双方使用同一人物对战成为可能。这是-{zh-hans:街霸;zh-hk:街霸;zh-tw:快打;}-诸版本中最经典的一作。在很多家用机上都有移植版。
   - \-{zh-hans:《街头霸王Ⅱ极速版》;zh-hk:街頭霸王Ⅱ極速版;zh-tw:快打旋風Ⅱ加速版;}-，在-{zh-hans:冠军版;zh-hk:冠軍版;zh-tw:加強版;}-的基础上加快了游戏速度并对各人物的必杀技做了少许调整。从而提高了游戏的爽快感。
   - \-{zh-hans:《超级街头霸王Ⅱ·新挑战者》;zh-hk:超級街頭霸王Ⅱ新挑戰者;zh-tw:超級快打旋風Ⅱ;}-，俗称“十六人-{zh-hans:街霸;zh-hk:街霸;zh-tw:快打;}-”。系列从本作起移师CPS-2基板，人物头像和音乐全部重制，增加四位新人物-{zh-hans:嘉米;zh-hk:嘉美;zh-tw:倩咪;}-、飛龍、雷鷹、迪·傑。人物必杀技也做了相当大的改动，如-{zh-hans:隆;zh-hk:隆;zh-tw:隆;}-增加了一招“火焰波动拳”，-{zh-hans:拳;zh-hk:拳;zh-tw:拳;}-的重升龙拳增加火属性等等。而且本作在系列中第一次加入了诸如连击、破招等现代格斗游戏的要素。但是由于制作匆忙，角色之间的平衡性较差。
-  - \-{zh-hans:《超级街头霸王ⅡⅩ·绝世高人》;zh-hk:超級街頭霸王ⅡⅩ絕世高人;zh-tw:超級快打旋風ⅡⅩ;}-，再度加强的版本，在前作基础上又加入了气槽和超必杀技的系统，游戏速度也是系列中最快的。最终BOSS由-{zh-hans:维加;zh-hk:Ｍ·拜臣;zh-tw:貝卡;}-改为豪鬼。后来在[GBA上有复刻版](../Page/GBA.md "wikilink")。
+  - \-{zh-hans:《超级街头霸王ⅡⅩ·绝世高人》;zh-hk:超級街頭霸王ⅡⅩ絕世高人;zh-tw:超級快打旋風ⅡⅩ;}-，再度加强的版本，在前作基础上又加入了气槽和超必杀技的系统，游戏速度也是系列中最快的。最终BOSS由-{zh-hans:维加;zh-hk:Ｍ·拜臣;zh-tw:貝卡;}-改为豪鬼。后来在[GBA上有复刻版](https://zh.wikipedia.org/wiki/GBA "wikilink")。
   - \-{zh-hans:《极上街头霸王ⅡⅩ》;zh-hk:極上街頭霸王ⅡⅩ;zh-tw:極上快打旋風ⅡⅩ;}-，2003年在[PS2上推出的](../Page/PlayStation_2.md "wikilink")15周年纪念版。可以选择使用过去任意一个版本的系统下的人物对战。
-  - \-{zh-hans:《终极街头霸王Ⅱ》;zh-hk:終極街頭霸王Ⅱ;zh-tw:終極快打旋風Ⅱ;}-，2017年在[任天堂Switch上推出](../Page/任天堂Switch.md "wikilink")，加入Evil
+  - \-{zh-hans:《终极街头霸王Ⅱ》;zh-hk:終極街頭霸王Ⅱ;zh-tw:終極快打旋風Ⅱ;}-，2017年在[任天堂Switch上推出](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，加入Evil
     Ryu，Violent Ken 角色。
 
 此外，还有一些盗版厂商制作的诸如《-{zh-hans:街霸;zh-hk:街霸;zh-tw:快打;}-彩虹版》、《降龍》、《屠龍》、《東方不敗版》、《葵花寶典》一类的改版游戏,

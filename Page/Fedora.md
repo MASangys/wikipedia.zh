@@ -1,5 +1,5 @@
 **Fedora Linux**（第七版以前為**Fedora
-Core**）是較具知名度的[Linux發行套件之一](../Page/Linux發行套件.md "wikilink")，由[Fedora專案社群開發](../Page/Fedora專案.md "wikilink")、[紅帽公司贊助](../Page/紅帽公司.md "wikilink")，目標是建立一套新穎、多功能並且自由（[開放原始碼](../Page/開放原始碼.md "wikilink")）的作業系統。
+Core**）是較具知名度的[Linux發行套件之一](https://zh.wikipedia.org/wiki/Linux發行套件 "wikilink")，由[Fedora專案社群開發](../Page/Fedora專案.md "wikilink")、[紅帽公司贊助](../Page/紅帽公司.md "wikilink")，目標是建立一套新穎、多功能並且自由（[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")）的作業系統。
 
 Fedora基於[Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink")。在Red Hat
 Linux終止發行後，紅帽公司計畫以Fedora來取代Red Hat Linux在個人領域的應用，而另外發行的[Red Hat
@@ -29,12 +29,12 @@ Hat Linux成為官方支援的系統版本。
 Fedora项目以不同方式发行Fedora\[9\]：
 
   - Fedora DVD/CD——包含了所有主要软件包的DVD或CD套装；
-  - [Live镜像](../Page/Live_USB.md "wikilink")——CD或DVD大小的光盘镜像，可用于创建[Live
+  - [Live镜像](https://zh.wikipedia.org/wiki/Live_USB "wikilink")——CD或DVD大小的光盘镜像，可用于创建[Live
     CD或从USB设备启动](../Page/Live_CD.md "wikilink")，并可选安装到硬盘；
-  - 最小CD——用于通过[HTTP](../Page/HTTP.md "wikilink")、[FTP或](../Page/FTP.md "wikilink")[NFS安装](../Page/网络文件系统.md "wikilink")。\[10\]
+  - 最小CD——用于通过[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[FTP或](https://zh.wikipedia.org/wiki/FTP "wikilink")[NFS安装](../Page/网络文件系统.md "wikilink")。\[10\]
 
 您可以通过Fedora Live USB Creator\[11\]或UNetbootin创建[Live
-USB版本的Fedora](../Page/Live_USB.md "wikilink")。
+USB版本的Fedora](https://zh.wikipedia.org/wiki/Live_USB "wikilink")。
 
 同时，Fedora项目发布自定义的Fedora版本，称作**Fedora
 spins**\[12\]。这些版本包含特定的软件包集合，以满足特定种类的用户之需要。Fedora
@@ -43,7 +43,7 @@ spins由一些对Fedora有特殊兴趣的小组开发\[13\]。
 Enterprise Linux额外软件包（，**EPEL**）是由来自Fedora
 Project的志愿者发起的社区力量，为了创建由高质量的附加软件组成的、用于补足RHEL和其他兼容版本的软件仓库\[14\]。
 
-软件包管理主要由[yum实用程序提供](../Page/Yellow_Dog_Updater_Modified.md "wikilink")\[15\]，在22版後則由[dnf取代](../Page/DNF_\(软件\).md "wikilink")\[16\]。Fedora同样提供图形界面（例如*pirut*，*pup*和*puplet*），用于在更新可用时提供视觉通知\[17\]。[apt-rpm是yum的替代品](../Page/apt-rpm.md "wikilink")，对于[Debian类发行版的用户来说可能更熟悉](../Page/Debian.md "wikilink")。这里，[APT被用于管理软件包](../Page/APT.md "wikilink")\[18\]。额外的软件仓库可以被添加到Fedora，以便安装Fedora软件仓库未提供的软件包\[19\]。
+软件包管理主要由[yum实用程序提供](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater_Modified "wikilink")\[15\]，在22版後則由[dnf取代](../Page/DNF_\(软件\).md "wikilink")\[16\]。Fedora同样提供图形界面（例如*pirut*，*pup*和*puplet*），用于在更新可用时提供视觉通知\[17\]。[apt-rpm是yum的替代品](https://zh.wikipedia.org/wiki/apt-rpm "wikilink")，对于[Debian类发行版的用户来说可能更熟悉](../Page/Debian.md "wikilink")。这里，[APT被用于管理软件包](../Page/APT.md "wikilink")\[18\]。额外的软件仓库可以被添加到Fedora，以便安装Fedora软件仓库未提供的软件包\[19\]。
 
 ### 软件仓库
 
@@ -64,9 +64,9 @@ Fusion的扩展，并且只包含libdvdcss包，用于播放加密的DVD。
 
 ### 安全功能
 
-安全是Fedora中最重要的功能。其中一项是[SELinux](../Page/SELinux.md "wikilink")——基于内核中的[Linux
+安全是Fedora中最重要的功能。其中一项是[SELinux](https://zh.wikipedia.org/wiki/SELinux "wikilink")——基于内核中的[Linux
 Security
-Modules](../Page/Linux_Security_Modules.md "wikilink")（LSM）的、补充了各种安全策略的Linux功能，包括访问控制等。Fedora是引领SELinux的发行版之一\[23\]。SELinux包含于Fedora
+Modules](https://zh.wikipedia.org/wiki/Linux_Security_Modules "wikilink")（LSM）的、补充了各种安全策略的Linux功能，包括访问控制等。Fedora是引领SELinux的发行版之一\[23\]。SELinux包含于Fedora
 Core 2和以后的发行版。默认情况下，该功能强制修改系统的运作方式，因此处于关闭状态，但在SPARC上启用。
 
 ## 發佈
@@ -170,26 +170,26 @@ Hat作業系統的使用者會感到相當熟悉，也因為如此，Fedora使�
 
 ### 軟體套件
 
-Fedora使用[yum工具](../Page/yum.md "wikilink")（現為[DNF](../Page/DNF_\(软件\).md "wikilink")）來協助[RPM套件的管理](../Page/RPM.md "wikilink")，可以有效避免[相依性地狱的問題](../Page/相依性地狱.md "wikilink")。并且，使用者可以利用dnf來方便取得原先Fedora因專利權因素所不包含的功能，例如：MP3播放支援\[42\]、[DVD影片支援](../Page/DVD.md "wikilink")\[43\]以及[NTFS檔案系統支援](../Page/NTFS.md "wikilink")\[44\]等功能。
+Fedora使用[yum工具](https://zh.wikipedia.org/wiki/yum "wikilink")（現為[DNF](../Page/DNF_\(软件\).md "wikilink")）來協助[RPM套件的管理](https://zh.wikipedia.org/wiki/RPM "wikilink")，可以有效避免[相依性地狱的問題](../Page/相依性地狱.md "wikilink")。并且，使用者可以利用dnf來方便取得原先Fedora因專利權因素所不包含的功能，例如：MP3播放支援\[42\]、[DVD影片支援](https://zh.wikipedia.org/wiki/DVD "wikilink")\[43\]以及[NTFS檔案系統支援](../Page/NTFS.md "wikilink")\[44\]等功能。
 
-Fedora的官方套件庫在收納上有其多樣性，例如[ClamAV](../Page/ClamAV.md "wikilink")（[防毒軟體](../Page/防毒軟體.md "wikilink")）與[Wine](../Page/Wine.md "wikilink")（[Windows軟體轉譯器](../Page/Windows.md "wikilink")）都可在官方套件庫中取得，另外也包含許多開放原始碼的遊戲軟體\[45\]。[livna](http://rpm.livna.org/)和[freshrpms](http://freshrpms.net/)等社群也提供了和官方套件庫相容的第三方套件，使用者可從中取得[NVIDIA](../Page/NVIDIA.md "wikilink")\[46\]和[ATI](../Page/ATI.md "wikilink")\[47\]的3D[顯示卡](../Page/顯示卡.md "wikilink")[驅動程式或是](../Page/驅動程式.md "wikilink")[VLC](../Page/VLC.md "wikilink")、[MPlayer等播放軟體](../Page/MPlayer.md "wikilink")。
+Fedora的官方套件庫在收納上有其多樣性，例如[ClamAV](../Page/ClamAV.md "wikilink")（[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")）與[Wine](../Page/Wine.md "wikilink")（[Windows軟體轉譯器](https://zh.wikipedia.org/wiki/Windows "wikilink")）都可在官方套件庫中取得，另外也包含許多開放原始碼的遊戲軟體\[45\]。[livna](http://rpm.livna.org/)和[freshrpms](http://freshrpms.net/)等社群也提供了和官方套件庫相容的第三方套件，使用者可從中取得[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")\[46\]和[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")\[47\]的3D[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[驅動程式或是](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")[VLC](https://zh.wikipedia.org/wiki/VLC "wikilink")、[MPlayer等播放軟體](../Page/MPlayer.md "wikilink")。
 
 ### 多平台支援
 
-Fedora官方支援[x86](../Page/x86.md "wikilink")、[x86-64](../Page/x86-64.md "wikilink")、[PowerPC以及](../Page/PowerPC.md "wikilink")[ARM處理器](../Page/ARM.md "wikilink")，[遊戲機方面](../Page/遊戲機.md "wikilink")，Fedora
+Fedora官方支援[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[PowerPC以及](../Page/PowerPC.md "wikilink")[ARM處理器](https://zh.wikipedia.org/wiki/ARM "wikilink")，[遊戲機方面](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，Fedora
 Core 5、Fedora Core 6、Fedora 7也已成功安裝在[PlayStation
 3上](../Page/PlayStation_3.md "wikilink")。\[48\]
 
 ### 简化目录结构
 
-一直以来[unix及类unix系统的目录结构对于很多人显得晦涩难懂](../Page/unix.md "wikilink")，Fedora计划简化其目录结构，将二进制文件集中放在/usr/bin，将库文件集中到/usr/lib和/usr/lib64，而对于原本同样用于存储二进制文件的/bin和/sbin将以连接的形式指向/usr/bin，同样的/lib
+一直以来[unix及类unix系统的目录结构对于很多人显得晦涩难懂](https://zh.wikipedia.org/wiki/unix "wikilink")，Fedora计划简化其目录结构，将二进制文件集中放在/usr/bin，将库文件集中到/usr/lib和/usr/lib64，而对于原本同样用于存储二进制文件的/bin和/sbin将以连接的形式指向/usr/bin，同样的/lib
 /lib64也会以连接形式指向对应目录。示意如下：
 
 ## 批評
 
 ### 系統安裝
 
-Fedora使用的[Anaconda安裝工具預設會啟動圖形界面以及](../Page/Anaconda.md "wikilink")[ACPI支持](../Page/ACPI.md "wikilink")，使得安裝時所要求的硬體相容性提高，使用者在安裝時發生錯誤就必須嘗試更改安裝設定\[49\]。
+Fedora使用的[Anaconda安裝工具預設會啟動圖形界面以及](../Page/Anaconda.md "wikilink")[ACPI支持](https://zh.wikipedia.org/wiki/ACPI "wikilink")，使得安裝時所要求的硬體相容性提高，使用者在安裝時發生錯誤就必須嘗試更改安裝設定\[49\]。
 
 ### 發佈週期與維護
 
@@ -198,7 +198,7 @@ Fedora以趨近半年一次的速度發佈新版本，而每個版本目前提�
 
 ### SELinux
 
-Fedora預設會啟動[SELinux安全加強模組](../Page/SELinux.md "wikilink")（包括為桌面用戶設計的Fedora
+Fedora預設會啟動[SELinux安全加強模組](https://zh.wikipedia.org/wiki/SELinux "wikilink")（包括為桌面用戶設計的Fedora
 Workstation版本），使用者在未正確設定（或者未關閉）SELinux的情形下，可能會造成系統的服務或功能無法正常運作\[51\]。
 
 ## 應用
@@ -211,15 +211,17 @@ Workstation版本），使用者在未正確設定（或者未關閉）SELinux�
 
   - 活跃项目：
       - [Berry
-        Linux](../Page/Berry_Linux.md "wikilink")——一个中等大小的基于Fedora的发行版，提供日语和英语支持
+        Linux](https://zh.wikipedia.org/wiki/Berry_Linux "wikilink")——一个中等大小的基于Fedora的发行版，提供日语和英语支持
       - Ekaaty——来自巴西
       - [Fusion
         Linux](https://distrowatch.com/table-mobile.php?distribution=fusion)
         - 以[Linux
         Mint为模版](../Page/Linux_Mint.md "wikilink")，更注重桌面用户和可用性的Remix，現已中止。
-      - [MythDora](../Page/MythDora.md "wikilink")
+      - [MythDora](https://zh.wikipedia.org/wiki/MythDora "wikilink")
         –基于[MythTV的家庭剧院系统](../Page/MythTV.md "wikilink")
-      - [Ojuba Linux](../Page/Ojuba_Linux.md "wikilink") - 来自阿拉伯
+      - [Ojuba
+        Linux](https://zh.wikipedia.org/wiki/Ojuba_Linux "wikilink") -
+        来自阿拉伯
       - Omega - Rahul Sundaram, Red
         Hat公司的社区工程师，创建了一个基于Fedora的Remix，通过添加来自RPM
         Fusion和Livna源的软件，来拥有对全部多媒体（包括MP3和DVD播放）的支持\[55\]
@@ -227,29 +229,32 @@ Workstation版本），使用者在未正確設定（或者未關閉）SELinux�
         Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") – Red
         Hat公司提供的企业版Linux，基于当前的Fedora发行版本
       - [Russian Fedora
-        Remix](../Page/Russian_Fedora_Remix.md "wikilink") -
-        为俄罗斯用户调整的Fedora版本，包含专有软件和驱动程序
-      - [Xange](../Page/Xange.md "wikilink")
+        Remix](https://zh.wikipedia.org/wiki/Russian_Fedora_Remix "wikilink")
+        - 为俄罗斯用户调整的Fedora版本，包含专有软件和驱动程序
+      - [Xange](https://zh.wikipedia.org/wiki/Xange "wikilink")
         –（曾用名：Simplis和Vixta）以[KDE为特色](../Page/KDE.md "wikilink")，易于使用的发行版
       - [Moblin](../Page/Moblin.md "wikilink") –为上网本设计的Linux发行版，速度极快
-      - [Linpus](../Page/Linpus.md "wikilink") - 来自台湾Linpus
-        Technologies公司，为亚洲市场设计的Linux
-      - [Pidora](../Page/Pidora.md "wikilink") - 為[Raspberry
-        Pi移植的Fedora版本](../Page/樹莓派.md "wikilink")
+      - [Linpus](https://zh.wikipedia.org/wiki/Linpus "wikilink") -
+        来自台湾Linpus Technologies公司，为亚洲市场设计的Linux
+      - [Pidora](https://zh.wikipedia.org/wiki/Pidora "wikilink") -
+        為[Raspberry
+        Pi移植的Fedora版本](https://zh.wikipedia.org/wiki/樹莓派 "wikilink")
 
 <!-- end list -->
 
   - 非活跃项目（超过12个月未发布新版本）：
       - ASPLinux
-        –来自俄罗斯。ASPLinux包含闭源[NVIDIA和](../Page/NVIDIA.md "wikilink")[ATI驱动](../Page/ATI.md "wikilink")，且提供专有音频、视频格式的解码器支持\[56\]
-      - [Aurora SPARC Linux](../Page/Aurora_SPARC_Linux.md "wikilink") –
-        SPARC平台上基于Fedora的发行版
-      - [BLAG Linux and GNU](../Page/BLAG_Linux_and_GNU.md "wikilink")
+        –来自俄罗斯。ASPLinux包含闭源[NVIDIA和](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[ATI驱动](https://zh.wikipedia.org/wiki/ATI "wikilink")，且提供专有音频、视频格式的解码器支持\[56\]
+      - [Aurora SPARC
+        Linux](https://zh.wikipedia.org/wiki/Aurora_SPARC_Linux "wikilink")
+        – SPARC平台上基于Fedora的发行版
+      - [BLAG Linux and
+        GNU](https://zh.wikipedia.org/wiki/BLAG_Linux_and_GNU "wikilink")
         –压缩至单张CD大小的Fedora，并且使用[Debian的](../Page/Debian.md "wikilink")[APT软件包管理系统](../Page/APT.md "wikilink")
       - Eeedora\[57\] –为[Asus Eee
-        PC设计的发行版](../Page/Asus_Eee_PC.md "wikilink")，始于2007年\[58\]
+        PC设计的发行版](https://zh.wikipedia.org/wiki/Asus_Eee_PC "wikilink")，始于2007年\[58\]
       - Fox Linux –来自意大利，为家庭用户的需求（如，浏览网页，刻录光盘，播放多媒体内容）而设计
-      - [Linux XP](../Page/Linux_XP.md "wikilink")
+      - [Linux XP](https://zh.wikipedia.org/wiki/Linux_XP "wikilink")
         –一个商业Linux发行版，致力于替换[Windows
         XP作为家庭桌面用操作系统](../Page/Windows_XP.md "wikilink")
       - Nusantara –由印度尼西亚科技部支持的桌面Linux发行版\[59\]
@@ -354,7 +359,7 @@ Workstation版本），使用者在未正確設定（或者未關閉）SELinux�
 
 21. {{ cite web | url=<http://fedoraproject.org/wiki/Legacy> |
     title=Fedora Legacy | author=[Fedora
-    Project](../Page/Fedora_Project.md "wikilink") |
+    Project](https://zh.wikipedia.org/wiki/Fedora_Project "wikilink") |
     accessdate=2007-11-18 }}
 
 22. {{ cite news |

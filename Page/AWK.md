@@ -1,8 +1,8 @@
-**AWK**是一种优良的[文本处理工具](../Page/文本处理.md "wikilink")，[Linux及](../Page/Linux.md "wikilink")[Unix环境中现有的功能最强大的](../Page/Unix.md "wikilink")[数据处理引擎之一](../Page/数据处理.md "wikilink")。这种编程及数据操作语言（其名称得自于它的创始人[阿尔佛雷德·艾侯](../Page/阿尔佛雷德·艾侯.md "wikilink")、[彼得·溫伯格和](../Page/彼得·溫伯格.md "wikilink")[布萊恩·柯林漢姓氏的首个字母](../Page/布萊恩·柯林漢.md "wikilink")）的最大功能取决于一个人所拥有的知识。AWK提供了极其强大的功能：可以进行正则表达式的匹配，样式装入、流控制、数学运算符、进程控制语句甚至于内置的变量和函数。它具备了一个完整的语言所应具有的几乎所有精美特性。实际上AWK的确拥有自己的语言：AWK[程序设计语言](../Page/程序设计语言.md "wikilink")，三位创建者已将它正式定义为“样式扫描和处理语言”。它允许您创建简短的程序，这些程序读取输入文件、为数据排序、处理数据、对输入执行计算以及生成报表，还有无数其他的功能。gawk是AWK的GNU版本。
+**AWK**是一种优良的[文本处理工具](https://zh.wikipedia.org/wiki/文本处理 "wikilink")，[Linux及](../Page/Linux.md "wikilink")[Unix环境中现有的功能最强大的](https://zh.wikipedia.org/wiki/Unix "wikilink")[数据处理引擎之一](https://zh.wikipedia.org/wiki/数据处理 "wikilink")。这种编程及数据操作语言（其名称得自于它的创始人[阿尔佛雷德·艾侯](../Page/阿尔佛雷德·艾侯.md "wikilink")、[彼得·溫伯格和](https://zh.wikipedia.org/wiki/彼得·溫伯格 "wikilink")[布萊恩·柯林漢姓氏的首个字母](../Page/布萊恩·柯林漢.md "wikilink")）的最大功能取决于一个人所拥有的知识。AWK提供了极其强大的功能：可以进行正则表达式的匹配，样式装入、流控制、数学运算符、进程控制语句甚至于内置的变量和函数。它具备了一个完整的语言所应具有的几乎所有精美特性。实际上AWK的确拥有自己的语言：AWK[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，三位创建者已将它正式定义为“样式扫描和处理语言”。它允许您创建简短的程序，这些程序读取输入文件、为数据排序、处理数据、对输入执行计算以及生成报表，还有无数其他的功能。gawk是AWK的GNU版本。
 
 最简单地说，AWK是一种用于处理文本的编程语言工具。AWK在很多方面类似于[Unix
-shell编程语言](../Page/Unix_shell.md "wikilink")，尽管AWK具有完全属于其本身的语法。它的设计思想来源于[SNOBOL4](../Page/SNOBOL4.md "wikilink")、[sed](../Page/sed.md "wikilink")、Marc
-Rochkind设计的有效性语言、语言工具[yacc和](../Page/yacc.md "wikilink")[lex](../Page/lex.md "wikilink")，当然还从[C语言中获取了一些优秀的思想](../Page/C语言.md "wikilink")。在最初创造AWK时，其目的是用于文本处理，并且这种语言的基础是，只要在输入数据中有模式匹配，就执行一系列指令。该实用工具扫描文件中的每一行，查找与命令行中所给定内容相匹配的模式。如果发现匹配内容，则进行下一个编程步骤。如果找不到匹配内容，则继续处理下一行。
+shell编程语言](../Page/Unix_shell.md "wikilink")，尽管AWK具有完全属于其本身的语法。它的设计思想来源于[SNOBOL4](https://zh.wikipedia.org/wiki/SNOBOL4 "wikilink")、[sed](https://zh.wikipedia.org/wiki/sed "wikilink")、Marc
+Rochkind设计的有效性语言、语言工具[yacc和](https://zh.wikipedia.org/wiki/yacc "wikilink")[lex](https://zh.wikipedia.org/wiki/lex "wikilink")，当然还从[C语言中获取了一些优秀的思想](https://zh.wikipedia.org/wiki/C语言 "wikilink")。在最初创造AWK时，其目的是用于文本处理，并且这种语言的基础是，只要在输入数据中有模式匹配，就执行一系列指令。该实用工具扫描文件中的每一行，查找与命令行中所给定内容相匹配的模式。如果发现匹配内容，则进行下一个编程步骤。如果找不到匹配内容，则继续处理下一行。
 
 ## AWK程序结构
 
@@ -13,7 +13,7 @@ AWK程序是由一系列模式--动作对组成的，写做
 其中`pattern`表示AWK在数据中查找的内容，而`action`是在找到匹配内容时所执行的一系列命令。输入行被分成了一些记录：记录默认由换行符分割，因此输入会按照行进行分割。程序使用给定的条件一个个的测试每条记录，并执行测试通过的条件所对应的`action`。`pattern`和`action`都可以省略不写。无`pattern`默认匹配全部的记录；而无`action`则是打印原始记录。简单的AWK表达式之外，`pattern`可以是`BEGIN`或`END`；这两种条件对应的`action`分别是读取所有的记录之前和之后。同时，如`pattern1,
 pattern2`的条件表示符合条件`pattern1`和`pattern2`的记录及其之间的部分。
 
-除了一般的，[C语言风格的算术和逻辑运算符外](../Page/C语言.md "wikilink")，AWK允许运算符*\~*，用来测试[正则表达式是否可以与一字符串匹配](../Page/正则表达式.md "wikilink")。作为[语法糖](../Page/语法糖.md "wikilink")，没有*\~*运算符的正则表达式会被用来对当前记录进行测试，相当于`/regexp/
+除了一般的，[C语言风格的算术和逻辑运算符外](https://zh.wikipedia.org/wiki/C语言 "wikilink")，AWK允许运算符*\~*，用来测试[正则表达式是否可以与一字符串匹配](../Page/正则表达式.md "wikilink")。作为[语法糖](../Page/语法糖.md "wikilink")，没有*\~*运算符的正则表达式会被用来对当前记录进行测试，相当于`/regexp/
 ~ $0`。
 
 ## AWK命令
@@ -38,7 +38,7 @@ ORS）分割的，其默认值为换行符。该命令的最简形式为：
     OFS）分隔，其默认值为一个空格符
 
 虽然域的符号(''$X
-*)可能类似于某些语言中的变量（例如[PHP和](../Page/PHP.md "wikilink")[perl](../Page/perl.md "wikilink")），但在AWK中，它们指代的是当前记录的域。另外，*$0''是指整个记录。事实上，命令`print`和`print
+*)可能类似于某些语言中的变量（例如[PHP和](../Page/PHP.md "wikilink")[perl](https://zh.wikipedia.org/wiki/perl "wikilink")），但在AWK中，它们指代的是当前记录的域。另外，*$0''是指整个记录。事实上，命令`print`和`print
 $0`的效果是相同的。 *print*命令也可以显示变量、计算、函数调用的结果：
 
 `print 3+2`
@@ -61,17 +61,17 @@ AWK的内建变量包括域变量，例如$1, $2, $3，以及$0。这些变量�
   - NR：已输入记录的条数。
   - NF：当前记录中域的个数。记录中最后一个域可以以`$NF`的方式引用。
   - FILENAME：当前输入文件的文件名。
-  - FS：“域分隔符”，用于将输入记录分割成域。其默认值为“空白字符”，即空格和[制表符](../Page/制表符.md "wikilink")。FS可以替换为其它字符，从而改变域分隔符。
-  - RS：当前的“记录分隔符”。默认状态下，输入的每行都被作为一个记录，因此默认记录分隔符是[换行符](../Page/换行符.md "wikilink")。
+  - FS：“域分隔符”，用于将输入记录分割成域。其默认值为“空白字符”，即空格和[制表符](https://zh.wikipedia.org/wiki/制表符 "wikilink")。FS可以替换为其它字符，从而改变域分隔符。
+  - RS：当前的“记录分隔符”。默认状态下，输入的每行都被作为一个记录，因此默认记录分隔符是[换行符](https://zh.wikipedia.org/wiki/换行符 "wikilink")。
   - OFS：“输出域分隔符”，即分隔`print`命令的参数的符号。其默认值为空格。
   - ORS：“输出记录分隔符”，即每个`print`命令之间的符号。其默认值为换行符。
   - OFMT：“输出数字格式”（Format for numeric output），其默认值为"%.6g"。
 
 ### 变量和语法
 
-变量名可以是语言[关键字外的](../Page/关键字.md "wikilink")，只包含大小写拉丁字母，数字和下划线（“_”）的任意字。而操作符“+
+变量名可以是语言[关键字外的](https://zh.wikipedia.org/wiki/关键字 "wikilink")，只包含大小写拉丁字母，数字和下划线（“_”）的任意字。而操作符“+
 - \*
-/”则分别代表加，减，乘，除。简单的将两个变量（或[字符串](../Page/字符串.md "wikilink")[常量](../Page/常量.md "wikilink")）放在一起，则会将二者[串接为一个字符串](../Page/串接.md "wikilink")。若二者间至少有一个是常量，则中间可以不加空格；但若二者均为变量，中间必须包括空格。字符串常量是以双引号（“"”）分隔的。语句无需以分号结尾。另外，注释是以“\#”开头的。
+/”则分别代表加，减，乘，除。简单的将两个变量（或[字符串](../Page/字符串.md "wikilink")[常量](https://zh.wikipedia.org/wiki/常量 "wikilink")）放在一起，则会将二者[串接为一个字符串](https://zh.wikipedia.org/wiki/串接 "wikilink")。若二者间至少有一个是常量，则中间可以不加空格；但若二者均为变量，中间必须包括空格。字符串常量是以双引号（“"”）分隔的。语句无需以分号结尾。另外，注释是以“\#”开头的。
 
 ### 用户定义函数
 
@@ -93,7 +93,8 @@ AWK的内建变量包括域变量，例如$1, $2, $3，以及$0。这些变量�
 
 ### Hello World
 
-AWK的*[hello world](../Page/hello_world.md "wikilink")*程序为：
+AWK的*[hello
+world](https://zh.wikipedia.org/wiki/hello_world "wikilink")*程序为：
 
 `BEGIN { print "Hello, world!" }`
 
@@ -107,7 +108,7 @@ AWK的*[hello world](../Page/hello_world.md "wikilink")*程序为：
 
 ### 输出单词计数
 
-对输入中的单词进行计数，然后输出行数，单词数和字符数（类似[wc](../Page/wc（Unix）.md "wikilink")）。
+对输入中的单词进行计数，然后输出行数，单词数和字符数（类似[wc](https://zh.wikipedia.org/wiki/wc（Unix） "wikilink")）。
 
 `{`
 `    w += NF`
@@ -122,7 +123,7 @@ AWK的*[hello world](../Page/hello_world.md "wikilink")*程序为：
 `{ s += $NF }`
 `END { print s + 0 }`
 
-`s`是数值`$NF`的累加，而`$NF`则是每条记录中的最后一个域。`NF`是当前行中域的数量，例如，4。由于`$4`是第4个域的值，`$NF`，在这种情况下等于`$4`，则当然是最后一个域的内容。事实上，`$`是一个具有最高[优先级的](../Page/优先级.md "wikilink")[一元运算符](../Page/一元运算符.md "wikilink")。（若一行没有域，则有`NF`为0，而`$0`是整行：在这种情况下，要么是空串，要么只有空白符，因此其数值为0。）
+`s`是数值`$NF`的累加，而`$NF`则是每条记录中的最后一个域。`NF`是当前行中域的数量，例如，4。由于`$4`是第4个域的值，`$NF`，在这种情况下等于`$4`，则当然是最后一个域的内容。事实上，`$`是一个具有最高[优先级的](https://zh.wikipedia.org/wiki/优先级 "wikilink")[一元运算符](https://zh.wikipedia.org/wiki/一元运算符 "wikilink")。（若一行没有域，则有`NF`为0，而`$0`是整行：在这种情况下，要么是空串，要么只有空白符，因此其数值为0。）
 
 文件结束时，`END`模式得到了匹配，因此可以输出`s`。然而，由于可能没有输入行，此时`s`会没有值，从而导致没有输出。因此，对其加0可以使AWK在这种情况下对其赋值，从而得到一个数值。这种方法是将字符串强制转化为数值的惯用法（反之，与空串连接则是将数值强制转换为字符串的方法，例如`s
 ""`）。如此处理之后，若程序输入为空文件，可以得到“0”作为输出，而不是一个空行。
@@ -139,9 +140,9 @@ AWK的*[hello world](../Page/hello_world.md "wikilink")*程序为：
 `     9  Wikipedia`
 `$`
 
-[yes命令重复输入其参数](../Page/yes_\(Unix\).md "wikilink")（默认则是输出“y”）。在这里，我们让该命令输出“Wikipedia”。动作块则输出带行号的内容。`printf`函数可以模拟标准C中的[`printf`](../Page/printf.md "wikilink")函数，其效果与前述的`print`函数类似。而符合模式的行是这样产生的：`NR`是记录的编号，也就是AWK正在处理行的行号（从1开始）。“%”是[取余数操作符](../Page/模除.md "wikilink")。因此，`NR
+[yes命令重复输入其参数](https://zh.wikipedia.org/wiki/yes_\(Unix\) "wikilink")（默认则是输出“y”）。在这里，我们让该命令输出“Wikipedia”。动作块则输出带行号的内容。`printf`函数可以模拟标准C中的[`printf`](https://zh.wikipedia.org/wiki/printf "wikilink")函数，其效果与前述的`print`函数类似。而符合模式的行是这样产生的：`NR`是记录的编号，也就是AWK正在处理行的行号（从1开始）。“%”是[取余数操作符](../Page/模除.md "wikilink")。因此，`NR
 % 4 == 1`对第1，5，9等行为真。类似的，`NR % 4
-== 3`对3，7，11等行为真。范围模式在其第一部分匹配（例如对第1行）之前为假，并在第二部分匹配（例如第3行）之前为真。然后，再在第二次匹配上其第一部分（例如第5行）前为假。[`sed`](../Page/sed.md "wikilink")命令则是用于截取其前7行输出，防止`yes`命令一直运行下去。若[`head`](../Page/head.md "wikilink")命令可用的话，这行命令的效果和`head
+== 3`对3，7，11等行为真。范围模式在其第一部分匹配（例如对第1行）之前为假，并在第二部分匹配（例如第3行）之前为真。然后，再在第二次匹配上其第一部分（例如第5行）前为假。[`sed`](https://zh.wikipedia.org/wiki/sed "wikilink")命令则是用于截取其前7行输出，防止`yes`命令一直运行下去。若[`head`](https://zh.wikipedia.org/wiki/head "wikilink")命令可用的话，这行命令的效果和`head
 -n7`相同。
 若范围模式的第一部分永远为真，例如设定为“1”，可以用来使该范围从输入的最开始开始。类似的，若第二部分总是为假，例如“0”，则该范围的结束即为输入的结束。
 命令
@@ -171,7 +172,7 @@ AWK的*[hello world](../Page/hello_world.md "wikilink")*程序为：
 `for(i in words)`
 
 建立了一个遍历关联数组中元素的循环，其中，`i`会被设为对应的键。这一点和多数语言不同，而和[Objective-C
-2.0中的](../Page/Objective-C_2.0.md "wikilink")`for...in`语法相似。这样的语法允许以简单的方式遍历数组，从而输出这些单词。另外，`tolower`函数是One
+2.0中的](https://zh.wikipedia.org/wiki/Objective-C_2.0 "wikilink")`for...in`语法相似。这样的语法允许以简单的方式遍历数组，从而输出这些单词。另外，`tolower`函数是One
 True awk（见下文）的附加函数。
 
 ### 从命令匹配模式
@@ -185,7 +186,7 @@ shell脚本来完成大部分工作](../Page/Bourne_shell.md "wikilink")。这�
 `awk '/'$pattern'/ { print FILENAME ":" $0 }' $*`
 `$`
 
-awk命令中的`$pattern`并没有为引号所保护。在这里，模式可以检查输入行（`$0`）是否与之匹配。`FILENAME`变量则包含了当前的文件名。awk没有显式的字符串连接操作符；与[BASH相似](../Page/BASH.md "wikilink")，只需简单的将字符串并列即可。`$0`则会输出原始的输入行。
+awk命令中的`$pattern`并没有为引号所保护。在这里，模式可以检查输入行（`$0`）是否与之匹配。`FILENAME`变量则包含了当前的文件名。awk没有显式的字符串连接操作符；与[BASH相似](https://zh.wikipedia.org/wiki/BASH "wikilink")，只需简单的将字符串并列即可。`$0`则会输出原始的输入行。
 也有另外的方法来完成同样的任务。下面的脚本直接在awk中访问[环境变量](../Page/环境变量.md "wikilink")。
 
 `$ cat grepinawk`
@@ -195,8 +196,8 @@ awk命令中的`$pattern`并没有为引号所保护。在这里，模式可以�
 `$`
 
 这个脚本用到了数组`ENVIRON`，一个One True
-awk中引入的量。其作用类似与[POSIX标准中的](../Page/POSIX.md "wikilink")[getenv
-(3)函数](../Page/getenv.md "wikilink")。这个脚本先建立了一个名为`pattern`的环境变量，其值为脚本的第一个参数，然后让awk在其余的参数所代表的文件内寻找该模式。
+awk中引入的量。其作用类似与[POSIX标准中的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[getenv
+(3)函数](https://zh.wikipedia.org/wiki/getenv "wikilink")。这个脚本先建立了一个名为`pattern`的环境变量，其值为脚本的第一个参数，然后让awk在其余的参数所代表的文件内寻找该模式。
 `~`是用于检查其两个操作数是否匹配的运算符；其逆则为`!~`。注意正则表达式也属于普通的字符串，可以储存于变量中。
 下面的方法则采用了在命令行对变量赋值的方法，即在awk的参数中写入一个变量的值：
 
@@ -219,7 +220,7 @@ awk中引入的量。其作用类似与[POSIX标准中的](../Page/POSIX.md "wik
 `}`
 `$0 ~ pattern { print FILENAME ":" $0 }`
 
-`BEGIN`块的作用不仅仅是提取出第一个参数，也防止第一个参数在`BEGIN`块结束后直接被解释为输入文件。`ARGC`，输入参数的数量永远是不小于1的，因为`ARGV[0]`是执行脚本的命令名，通常是`"awk"`。另外，`ARGV[ARGC]`永远是空串。对于其中的`if`块，它表明若没有指定输入文件，awk会直接读取[标准输入流](../Page/标准输入流.md "wikilink")（`stdin`）。也即
+`BEGIN`块的作用不仅仅是提取出第一个参数，也防止第一个参数在`BEGIN`块结束后直接被解释为输入文件。`ARGC`，输入参数的数量永远是不小于1的，因为`ARGV[0]`是执行脚本的命令名，通常是`"awk"`。另外，`ARGV[ARGC]`永远是空串。对于其中的`if`块，它表明若没有指定输入文件，awk会直接读取[标准输入流](https://zh.wikipedia.org/wiki/标准输入流 "wikilink")（`stdin`）。也即
 
 `awk 'prog'`
 
@@ -227,7 +228,7 @@ awk中引入的量。其作用类似与[POSIX标准中的](../Page/POSIX.md "wik
 
 ## 自包含的AWK脚本
 
-与许多其他的程序语言相似，可以利用“[shebang](../Page/shebang.md "wikilink")”语法构建自包含的awk脚本。
+与许多其他的程序语言相似，可以利用“[shebang](https://zh.wikipedia.org/wiki/shebang "wikilink")”语法构建自包含的awk脚本。
 例如，一个名为`hello.awk`，可以输出“Hello,
 world\!”的UNIX命令可以通过建立内容如下，名为`hello.awk`的文件来完成：
 
@@ -238,7 +239,7 @@ world\!”的UNIX命令可以通过建立内容如下，名为`hello.awk`的文�
 
 ## 参见
 
-  - [sed](../Page/sed.md "wikilink")
+  - [sed](https://zh.wikipedia.org/wiki/sed "wikilink")
   - [Unix shell](../Page/Unix_shell.md "wikilink")
   - [Perl](../Page/Perl.md "wikilink")
 

@@ -1,14 +1,14 @@
 **瑞典通用电气布朗-博韦里**（Asea Brown
-Boveri，一般使用其简称**ABB**）是一家总部在[瑞士](../Page/瑞士.md "wikilink")[苏黎世的](../Page/苏黎世.md "wikilink")[瑞士](../Page/瑞士.md "wikilink")-[瑞典的](../Page/瑞典.md "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，經營範圍主要以[機器人](../Page/機器人.md "wikilink")、[電機](../Page/電機.md "wikilink")、[能源](../Page/能源.md "wikilink")、[自動化等領域](../Page/自動化.md "wikilink")。2018年，该公司在[财富世界500强中排名第](../Page/财富世界500强.md "wikilink")314位，已连续位列该榜单23年\[1\]。
+Boveri，一般使用其简称**ABB**）是一家总部在[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[苏黎世的](../Page/苏黎世.md "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")-[瑞典的](../Page/瑞典.md "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，經營範圍主要以[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")、[電機](https://zh.wikipedia.org/wiki/電機 "wikilink")、[能源](../Page/能源.md "wikilink")、[自動化等領域](https://zh.wikipedia.org/wiki/自動化 "wikilink")。2018年，该公司在[财富世界500强中排名第](https://zh.wikipedia.org/wiki/财富世界500强 "wikilink")314位，已连续位列该榜单23年\[1\]。
 
 ABB是全球最大的工程公司之一，也是世界上最大的企業集團之一。ABB在全球100多國設有分公司或辦事處，2013年11月大約15萬名員工，\[2\]並報告2011年的全球營收為400億。\[3\]
 
-[總公司設於](../Page/總公司.md "wikilink")[瑞士的](../Page/瑞士.md "wikilink")[蘇黎世](../Page/蘇黎世.md "wikilink")。ABB的股票自从1999年分別在[蘇黎世的](../Page/蘇黎世.md "wikilink")[瑞士證券交易所](../Page/瑞士證券交易所.md "wikilink")、[斯德哥爾摩的](../Page/斯德哥爾摩.md "wikilink")[斯德哥尔摩证券交易所上市](../Page/斯德哥尔摩证券交易所.md "wikilink")，及从2001年在美国[纽约证券交易所上市買賣](../Page/纽约证券交易所.md "wikilink"),
+[總公司設於](https://zh.wikipedia.org/wiki/總公司 "wikilink")[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[蘇黎世](https://zh.wikipedia.org/wiki/蘇黎世 "wikilink")。ABB的股票自从1999年分別在[蘇黎世的](https://zh.wikipedia.org/wiki/蘇黎世 "wikilink")[瑞士證券交易所](../Page/瑞士證券交易所.md "wikilink")、[斯德哥爾摩的](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")[斯德哥尔摩证券交易所上市](../Page/斯德哥尔摩证券交易所.md "wikilink")，及从2001年在美国[纽约证券交易所上市買賣](../Page/纽约证券交易所.md "wikilink"),
 从2005年9月在[伦敦证券交易所和从](../Page/伦敦证券交易所.md "wikilink")2005年11月在[法兰克福证券交易所上市](../Page/法兰克福证券交易所.md "wikilink")。\[4\]
 
-ABB的營收有一半以上是來自歐洲市場，五分之一來自[亞洲](../Page/亞洲.md "wikilink")、[中東和](../Page/中東.md "wikilink")[非洲](../Page/非洲.md "wikilink")，四分之一來自北美和[南美洲市場](../Page/南美洲.md "wikilink")。
+ABB的營收有一半以上是來自歐洲市場，五分之一來自[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[中東和](https://zh.wikipedia.org/wiki/中東 "wikilink")[非洲](../Page/非洲.md "wikilink")，四分之一來自北美和[南美洲市場](../Page/南美洲.md "wikilink")。
 
-ABB有兩個[核心事業部](../Page/核心.md "wikilink")，[電力技術事業部和自動化技術事業部](../Page/電力技術.md "wikilink")，分別對[客戶提供相關](../Page/客戶.md "wikilink")[產品與](../Page/產品.md "wikilink")[服務](../Page/服務.md "wikilink")。
+ABB有兩個[核心事業部](https://zh.wikipedia.org/wiki/核心 "wikilink")，[電力技術事業部和自動化技術事業部](https://zh.wikipedia.org/wiki/電力技術 "wikilink")，分別對[客戶提供相關](https://zh.wikipedia.org/wiki/客戶 "wikilink")[產品與](https://zh.wikipedia.org/wiki/產品 "wikilink")[服務](https://zh.wikipedia.org/wiki/服務 "wikilink")。
 
 ABB也跨足賽車事業，在2017年冠名贊助[國際汽聯](../Page/国际汽车联合会.md "wikilink")[電動方程式賽車](../Page/電動方程式.md "wikilink")
 
@@ -20,14 +20,14 @@ Brown Boveri公司則成立於1891年。
   - 1883年：ASEA成立。
   - 1891年：BBC Brown Boveri成立。
   - 1901年：BBC
-    建造歐洲第一部[蒸氣](../Page/蒸氣.md "wikilink")[渦輪發動機](../Page/渦輪發動機.md "wikilink")。
-  - 1974年：在[香港成立](../Page/香港.md "wikilink")[中國業務部](../Page/中國.md "wikilink")，1994年遷往[北京](../Page/北京.md "wikilink")。
-  - 1987年：在[台灣成立艾波比股份有限公司](../Page/台灣.md "wikilink")。
+    建造歐洲第一部[蒸氣](https://zh.wikipedia.org/wiki/蒸氣 "wikilink")[渦輪發動機](https://zh.wikipedia.org/wiki/渦輪發動機 "wikilink")。
+  - 1974年：在[香港成立](../Page/香港.md "wikilink")[中國業務部](../Page/中國.md "wikilink")，1994年遷往[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")。
+  - 1987年：在[台灣成立艾波比股份有限公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
   - 1988年：ABB由[瑞典的](../Page/瑞典.md "wikilink")**瑞典通用电气公司**（Allmänna
     Svenska Elektriska
     Aktiebolaget）與瑞士的**布朗-博韦里公司**合併而成。瑞典通用电气公司仍存在，轉變為ABB的控股公司（持股50%）。
-  - 1998年：1月18日，ABB在[中国第一个生产基地在](../Page/中国.md "wikilink")[重庆落成](../Page/重庆.md "wikilink")，并且逐渐发展为ABB全球最重要的变压器生产和研发中心之一。
-  - 2009年：5月13日，ABB机器人生产基地在[中国](../Page/中国.md "wikilink")[上海落成](../Page/上海.md "wikilink")，并將机器人全球中心迁至上海。<ref>ABB在华成功研发最小型工业机器人
+  - 1998年：1月18日，ABB在[中国第一个生产基地在](https://zh.wikipedia.org/wiki/中国 "wikilink")[重庆落成](https://zh.wikipedia.org/wiki/重庆 "wikilink")，并且逐渐发展为ABB全球最重要的变压器生产和研发中心之一。
+  - 2009年：5月13日，ABB机器人生产基地在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[上海落成](https://zh.wikipedia.org/wiki/上海 "wikilink")，并將机器人全球中心迁至上海。<ref>ABB在华成功研发最小型工业机器人
 
 <http://www.abb.com.cn/cawp/seitp202/e35b9b3f3119fb1a4825764d00255405.aspx></ref>
 
@@ -39,21 +39,24 @@ Brown Boveri公司則成立於1891年。
 
 ## 首席执行官
 
-現任[首席执行官](../Page/首席执行官.md "wikilink")（亦称[执行长](../Page/执行长.md "wikilink")、[CEO](../Page/CEO.md "wikilink")）[史毕福于](../Page/史毕福.md "wikilink")2013年9月16日就任。
+現任[首席执行官](../Page/首席执行官.md "wikilink")（亦称[执行长](https://zh.wikipedia.org/wiki/执行长 "wikilink")、[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")）[史毕福于](https://zh.wikipedia.org/wiki/史毕福 "wikilink")2013年9月16日就任。
 
 前幾任執行長：
 
-  - 2008年9月 - 2013年9月：[Joseph Hogan](../Page/Joseph_Hogan.md "wikilink")
+  - 2008年9月 - 2013年9月：[Joseph
+    Hogan](https://zh.wikipedia.org/wiki/Joseph_Hogan "wikilink")
   - 2008年2月 - 2008年8月：[Michel
-    Demaré](../Page/Michel_Demaré.md "wikilink")
-  - 2005年1月 - 2008年2月：[Fred Kindle](../Page/Fred_Kindle.md "wikilink")
+    Demaré](https://zh.wikipedia.org/wiki/Michel_Demaré "wikilink")
+  - 2005年1月 - 2008年2月：[Fred
+    Kindle](https://zh.wikipedia.org/wiki/Fred_Kindle "wikilink")
   - 2002年9月 - 2004年12月：[Jürgen
-    Dormann](../Page/Jürgen_Dormann.md "wikilink")
+    Dormann](https://zh.wikipedia.org/wiki/Jürgen_Dormann "wikilink")
   - 2001年1月 - 2002年9月：[Jörgen
-    Centermann](../Page/Jörgen_Centermann.md "wikilink")
+    Centermann](https://zh.wikipedia.org/wiki/Jörgen_Centermann "wikilink")
   - 1997年1月 - 2000年12月：[Göran
-    Lindahl](../Page/Göran_Lindahl.md "wikilink")
-  - 1987-1996年：[Percy Barnevik](../Page/Percy_Barnevik.md "wikilink")
+    Lindahl](https://zh.wikipedia.org/wiki/Göran_Lindahl "wikilink")
+  - 1987-1996年：[Percy
+    Barnevik](https://zh.wikipedia.org/wiki/Percy_Barnevik "wikilink")
 
 ## 参考资料
 

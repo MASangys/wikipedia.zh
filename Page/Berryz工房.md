@@ -1,5 +1,5 @@
 **Berryz工房**是[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體組合](../Page/Hello!_Project.md "wikilink")。
+Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
 2004年1月14日於[Hello\! Project
 Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，2005年成員[石村舞波畢業](../Page/石村舞波.md "wikilink")，目前共有七名成員。
@@ -25,7 +25,7 @@ Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，20
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/清水佐紀.md" title="wikilink">清水佐紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清水佐紀" title="wikilink">清水佐紀</a></p></td>
 <td><p>しみず さき</p></td>
 <td></td>
 <td></td>
@@ -132,7 +132,7 @@ Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，20
   - 12月31日－
     與[早安少女組。和](../Page/早安少女組。.md "wikilink")[℃-ute以](../Page/℃-ute.md "wikilink")「Hello\!
     Project
-    10週年紀念紅白特別隊」於「第58回NHK[紅白歌唱大賽](../Page/紅白歌唱大賽.md "wikilink")」中演出。
+    10週年紀念紅白特別隊」於「第58回NHK[紅白歌唱大賽](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")」中演出。
 
 ### 2008年
 
@@ -173,24 +173,25 @@ Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，20
   - 3月7日- 再次於泰國舉行演唱會「Berryz Kobo Concert Tour 2013 Spring in
     Bangkok」\[3\]。
   - 4月30日-
-    隊長[清水佐紀於部落格中指名](../Page/清水佐紀.md "wikilink")[夏燒雅為副隊長](../Page/夏燒雅.md "wikilink")，製作人[淳君也在部落格上發表此消息](../Page/淳君.md "wikilink")。為結成9年以來第一次有副隊長職位。
+    隊長[清水佐紀於部落格中指名](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")[夏燒雅為副隊長](../Page/夏燒雅.md "wikilink")，製作人[淳君也在部落格上發表此消息](../Page/淳君.md "wikilink")。為結成9年以來第一次有副隊長職位。
   - 5月15日- 「日比谷野音90周年記念事業 Hello\! Project 野音プレミアムLIVE ～外フェス～ supported
     by
     Hellosmile」公演上，由淳君宣佈11月29日在[日本武道館舉辦演唱會](../Page/日本武道館.md "wikilink")。
   - 5月24日-
-    全員前往[台灣](../Page/台灣.md "wikilink")[台北市](../Page/台北市.md "wikilink")[這牆音樂藝文展演空間舉行歌迷握手會](../Page/這牆音樂藝文展演空間.md "wikilink")，隔日在同場地舉行「☆
+    全員前往[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[這牆音樂藝文展演空間舉行歌迷握手會](../Page/這牆音樂藝文展演空間.md "wikilink")，隔日在同場地舉行「☆
     Berryz工房Festival in Taipei ☆」公演。
   - 11月29日- 在日本武道館舉行「Berryz工房10周年記念 日本武道館Special Live 2013
     ～還是沒有你活不下去～」公演。
 
 ### 2014年
 
-  - 4月2日 - Berryz工房受邀出演[Mnet音樂節目](../Page/Mnet.md "wikilink")[M\!
-    Countdown於日本](../Page/M!_Countdown.md "wikilink")[橫濱體育館舉行的大型韓流演唱會](../Page/橫濱體育館.md "wikilink")《M\!Countdown
+  - 4月2日 -
+    Berryz工房受邀出演[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[M\!
+    Countdown於日本](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")[橫濱體育館舉行的大型韓流演唱會](../Page/橫濱體育館.md "wikilink")《M\!Countdown
     No.1 Artist of Spring
-    2014》，與多位人氣歌手如[2PM](../Page/2PM.md "wikilink")、[4minute](../Page/4minute.md "wikilink")、[MBLAQ](../Page/MBLAQ.md "wikilink")、[Girl's
+    2014》，與多位人氣歌手如[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[4minute](../Page/4minute.md "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[Girl's
     Day](../Page/Girl's_Day.md "wikilink")、[Block
-    B](../Page/Block_B.md "wikilink")、[鄭奇高同場演出](../Page/鄭奇高.md "wikilink")。
+    B](../Page/Block_B.md "wikilink")、[鄭奇高同場演出](https://zh.wikipedia.org/wiki/鄭奇高 "wikilink")。
   - 8月2日 - 在[中野太陽廣場舉辦的夏季音樂會](../Page/中野太陽廣場.md "wikilink")「Hello\!
     Project 2014 SUMMER
     ～KOREZO\!～」宣布，自2015春季開始將無限期停止活動。\[4\]Berryz工房的官方網站發出公告，因團員將踏上各自的未來，所以團體活動將劃下句點，該團的監督淳君表示，這是與團員討論後的結果。\[5\]
@@ -202,7 +203,7 @@ Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，20
   - 3月3日 - 在[日本武道館舉行最後一場公演](../Page/日本武道館.md "wikilink")《Berryz工房 Last
     Concert 2015　Berryz工房行くべぇ～！》，正式進入無限期活動停止。
   - 無限期活動停止後，成員各自奔向自己的道路：[嗣永桃子加入組合](../Page/嗣永桃子.md "wikilink")[Country
-    Girls](../Page/Country_Girls.md "wikilink")，並於3月末重新出道；[須藤茉麻加入早安家族戲劇部](../Page/須藤茉麻.md "wikilink")「演劇女子部」，發展其演員事業；[清水佐紀和](../Page/清水佐紀.md "wikilink")[徳永千奈美將退居幕後當顧問](../Page/徳永千奈美.md "wikilink")，協助早安家族所有成員及工作人員；[熊井友理奈將回歸校園完成學業](../Page/熊井友理奈.md "wikilink")，畢業後去當模特兒；[菅谷梨沙子將會停止工作和休息](../Page/菅谷梨沙子.md "wikilink")；[夏燒雅會稍作休息](../Page/夏燒雅.md "wikilink")，並為她的個人歌唱事業作準備。
+    Girls](../Page/Country_Girls.md "wikilink")，並於3月末重新出道；[須藤茉麻加入早安家族戲劇部](../Page/須藤茉麻.md "wikilink")「演劇女子部」，發展其演員事業；[清水佐紀和](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")[徳永千奈美將退居幕後當顧問](https://zh.wikipedia.org/wiki/徳永千奈美 "wikilink")，協助早安家族所有成員及工作人員；[熊井友理奈將回歸校園完成學業](../Page/熊井友理奈.md "wikilink")，畢業後去當模特兒；[菅谷梨沙子將會停止工作和休息](../Page/菅谷梨沙子.md "wikilink")；[夏燒雅會稍作休息](../Page/夏燒雅.md "wikilink")，並為她的個人歌唱事業作準備。
 
 ## 成員代表色
 
@@ -210,7 +211,7 @@ Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，20
 
 Berryz工房成員早期並無代表色，每場演唱會都有些許變動，直到2009年才確定代表色。
 
-  - [清水佐紀](../Page/清水佐紀.md "wikilink")：黃
+  - [清水佐紀](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")：黃
   - [嗣永桃子](../Page/嗣永桃子.md "wikilink")：淺粉紅
   - [德永千奈美](../Page/德永千奈美.md "wikilink")：橙
   - [須藤茉麻](../Page/須藤茉麻.md "wikilink")：藍
@@ -228,17 +229,17 @@ Berryz工房成員早期並無代表色，每場演唱會都有些許變動，�
 
 <!-- end list -->
 
-  - Berryz工房有時會將團員拆成低音部和高音部兩部份輪流唱歌，低音部為：菅谷梨沙子、熊井友理奈、[清水佐紀和](../Page/清水佐紀.md "wikilink")[須藤茉麻](../Page/須藤茉麻.md "wikilink")（4人），而高音部則為：夏燒雅、嗣永桃子和[德永千奈美](../Page/德永千奈美.md "wikilink")（3人）。
+  - Berryz工房有時會將團員拆成低音部和高音部兩部份輪流唱歌，低音部為：菅谷梨沙子、熊井友理奈、[清水佐紀和](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")[須藤茉麻](../Page/須藤茉麻.md "wikilink")（4人），而高音部則為：夏燒雅、嗣永桃子和[德永千奈美](../Page/德永千奈美.md "wikilink")（3人）。
 
 <!-- end list -->
 
   - 在8人時期，前列固定成員為菅谷梨沙子、夏燒雅、嗣永桃子和熊井友理奈，初期主要以菅谷梨沙子為中心，後期主要以夏燒雅為中心。在2007年，前列成員主要是菅谷梨沙子、夏燒雅和嗣永桃子，熊井友理奈間中排在前列，主要是以菅谷梨沙子為中心。在2008年中，前列固定成員改為菅谷梨沙子、嗣永桃子和熊井友理奈，繼續主要以菅谷梨沙子為中心。2010年尾至2011年初（[Shining
-    Power至](../Page/Shining_Power.md "wikilink")[成為女主角吧\!](../Page/成為女主角吧!.md "wikilink")），中心改為熊井友理奈，前列固定成員為熊井友理奈、夏燒雅、菅谷梨沙子和嗣永桃子。2011年中，中心重新改為菅谷梨沙子，前列成員繼續固定。2012年起，以夏燒雅為中心，前列成員持續固定。
+    Power至](../Page/Shining_Power.md "wikilink")[成為女主角吧\!](https://zh.wikipedia.org/wiki/成為女主角吧! "wikilink")），中心改為熊井友理奈，前列固定成員為熊井友理奈、夏燒雅、菅谷梨沙子和嗣永桃子。2011年中，中心重新改為菅谷梨沙子，前列成員繼續固定。2012年起，以夏燒雅為中心，前列成員持續固定。
 
 ## 作品
 
 唱片由[PICCOLO
-TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
+TOWN發行](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")，2007年起台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
 
 ### 單曲
 
@@ -280,7 +281,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>03rd</p></td>
 <td><p>2004年5月26日</p></td>
 <td></td>
-<td><p><a href="../Page/活力上路!.md" title="wikilink">活力上路!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/活力上路!" title="wikilink">活力上路!</a></p></td>
 <td><p>37</p></td>
 <td><p>10,476</p></td>
 <td></td>
@@ -290,7 +291,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>04th</p></td>
 <td><p>2004年8月25日</p></td>
 <td></td>
-<td><p><a href="../Page/Happiness_～幸福歡迎!～.md" title="wikilink">Happiness ～幸福歡迎!～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Happiness_～幸福歡迎!～" title="wikilink">Happiness ～幸福歡迎!～</a></p></td>
 <td><p>20</p></td>
 <td><p>13,691</p></td>
 <td></td>
@@ -320,7 +321,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>07th</p></td>
 <td><p>2005年6月8日</p></td>
 <td></td>
-<td><p><a href="../Page/這是怎樣的戀愛_YOU_KNOW?.md" title="wikilink">這是怎樣的戀愛 YOU KNOW?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/這是怎樣的戀愛_YOU_KNOW?" title="wikilink">這是怎樣的戀愛 YOU KNOW?</a></p></td>
 <td><p>13</p></td>
 <td><p>19,804</p></td>
 <td><p>動畫「パタリロ西遊記!」的片尾曲</p></td>
@@ -413,7 +414,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p><a href="../Page/成吉思汗_(Berryz工房單曲).md" title="wikilink">成吉思汗</a></p></td>
 <td><p>5</p></td>
 <td><p>37,096</p></td>
-<td><p>第41回<a href="../Page/日本有線大賞.md" title="wikilink">日本有線大賞</a>「有線音楽賞」的獲獎曲、舞台劇「ジンギスカン - わが剣、熱砂を染めよ -」的主題曲</p></td>
+<td><p>第41回<a href="https://zh.wikipedia.org/wiki/日本有線大賞" title="wikilink">日本有線大賞</a>「有線音楽賞」的獲獎曲、舞台劇「ジンギスカン - わが剣、熱砂を染めよ -」的主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -450,30 +451,30 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>20th</p></td>
 <td><p>2009年6月3日</p></td>
 <td></td>
-<td><p><a href="../Page/青春巴士導遊_/_對手.md" title="wikilink">青春巴士導遊 / 對手</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青春巴士導遊_/_對手" title="wikilink">青春巴士導遊 / 對手</a></p></td>
 <td><p>4</p></td>
 <td><p>34,589</p></td>
-<td><p>第一張2A單曲、動畫「<a href="../Page/閃電十一人.md" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
+<td><p>第一張2A單曲、動畫「<a href="https://zh.wikipedia.org/wiki/閃電十一人" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
 <td><p>2009年11月11日</p></td>
 <td></td>
-<td><p><a href="../Page/我未來的老公_/_流星男孩.md" title="wikilink">我未來的老公 / 流星男孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我未來的老公_/_流星男孩" title="wikilink">我未來的老公 / 流星男孩</a></p></td>
 <td><p>5</p></td>
 <td><p>36,756</p></td>
-<td><p>第二張2A單曲、動畫「<a href="../Page/閃電十一人.md" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
+<td><p>第二張2A單曲、動畫「<a href="https://zh.wikipedia.org/wiki/閃電十一人" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22nd</p></td>
 <td><p>2010年3月3日</p></td>
 <td></td>
-<td><p><a href="../Page/吶喊男孩_WAO!_/_朋友就是朋友!.md" title="wikilink">吶喊男孩 WAO! / 朋友就是朋友!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吶喊男孩_WAO!_/_朋友就是朋友!" title="wikilink">吶喊男孩 WAO! / 朋友就是朋友!</a></p></td>
 <td><p>3</p></td>
 <td><p>35,002</p></td>
-<td><p>第三張2A單曲、動畫「<a href="../Page/閃電十一人.md" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
+<td><p>第三張2A單曲、動畫「<a href="https://zh.wikipedia.org/wiki/閃電十一人" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -493,14 +494,14 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p><a href="../Page/Shining_Power.md" title="wikilink">Shining Power</a></p></td>
 <td><p>7</p></td>
 <td><p>27,402</p></td>
-<td><p>動畫「<a href="../Page/閃電十一人.md" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
+<td><p>動畫「<a href="https://zh.wikipedia.org/wiki/閃電十一人" title="wikilink">閃電十一人</a>」的片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p>2011年3月2日</p></td>
 <td></td>
-<td><p><a href="../Page/成為女主角吧!.md" title="wikilink">成為女主角吧!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成為女主角吧!" title="wikilink">成為女主角吧!</a></p></td>
 <td><p>7</p></td>
 <td><p>24,065</p></td>
 <td></td>
@@ -540,7 +541,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>29th</p></td>
 <td><p>2012年7月25日</p></td>
 <td></td>
-<td><p><a href="../Page/cha_cha_SING.md" title="wikilink">cha cha SING</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/cha_cha_SING" title="wikilink">cha cha SING</a></p></td>
 <td><p>6</p></td>
 <td><p>33,001</p></td>
 <td></td>
@@ -570,7 +571,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>32nd</p></td>
 <td><p>2013年6月19日</p></td>
 <td></td>
-<td><p><a href="../Page/金黃色的唐人街_/_再見_經常說謊的自己.md" title="wikilink">金黃色的唐人街 / 再見 經常說謊的自己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金黃色的唐人街_/_再見_經常說謊的自己" title="wikilink">金黃色的唐人街 / 再見 經常說謊的自己</a></p></td>
 <td><p>6</p></td>
 <td><p>36,023</p></td>
 <td><p>第四張2A單曲</p></td>
@@ -580,7 +581,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>33rd</p></td>
 <td><p>2013年10月2日</p></td>
 <td></td>
-<td><p><a href="../Page/希望我們一起的時間長一點_/_ROCK_Erotic.md" title="wikilink">希望我們一起的時間長一點 / ROCK Erotic</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/希望我們一起的時間長一點_/_ROCK_Erotic" title="wikilink">希望我們一起的時間長一點 / ROCK Erotic</a></p></td>
 <td><p>4</p></td>
 <td><p>42,094</p></td>
 <td><p>第五張2A單曲</p></td>
@@ -590,7 +591,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>34th</p></td>
 <td><p>2014年2月19日</p></td>
 <td></td>
-<td><p><a href="../Page/我已是大人了!_/_1億3千萬的總節食王國.md" title="wikilink">我已是大人了! / 1億3千萬的總節食王國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我已是大人了!_/_1億3千萬的總節食王國" title="wikilink">我已是大人了! / 1億3千萬的總節食王國</a></p></td>
 <td><p>4</p></td>
 <td><p>32,318</p></td>
 <td><p>第六張2A單曲</p></td>
@@ -600,7 +601,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>35th</p></td>
 <td><p>2014年6月4日</p></td>
 <td></td>
-<td><p><a href="../Page/愛一直伴隨著你_/_正常情況下，當10年偶像是不可能的!?.md" title="wikilink">愛一直伴隨著你 / 正常情況下，當10年偶像是不可能的!?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛一直伴隨著你_/_正常情況下，當10年偶像是不可能的!?" title="wikilink">愛一直伴隨著你 / 正常情況下，當10年偶像是不可能的!?</a></p></td>
 <td><p>4</p></td>
 <td><p>47,095</p></td>
 <td><p>第七張2A單曲</p></td>
@@ -610,7 +611,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>36th</p></td>
 <td><p>2014年11月12日</p></td>
 <td></td>
-<td><p><a href="../Page/談論浪漫_/_永恆之歌.md" title="wikilink">談論浪漫 / 永恆之歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/談論浪漫_/_永恆之歌" title="wikilink">談論浪漫 / 永恆之歌</a></p></td>
 <td><p>2</p></td>
 <td><p>80,791+</p></td>
 <td><p>第八張2A單曲、無限期活動停止前發行的最後一張單曲</p></td>
@@ -631,20 +632,22 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 
 #### 單曲在[Oricon成績統計](../Page/Oricon.md "wikilink")
 
-  - 最高銷量單曲：[談論浪漫 / 永恆之歌](../Page/談論浪漫_/_永恆之歌.md "wikilink")，賣出80,791萬張
-  - 最高銷量排名單曲：[談論浪漫 / 永恆之歌](../Page/談論浪漫_/_永恆之歌.md "wikilink")，第2位
+  - 最高銷量單曲：[談論浪漫 /
+    永恆之歌](https://zh.wikipedia.org/wiki/談論浪漫_/_永恆之歌 "wikilink")，賣出80,791萬張
+  - 最高銷量排名單曲：[談論浪漫 /
+    永恆之歌](https://zh.wikipedia.org/wiki/談論浪漫_/_永恆之歌 "wikilink")，第2位
   - 最低銷量單曲：[戰鬥姿勢不是虛有其表\!](../Page/戰鬥姿勢不是虛有其表!.md "wikilink")，賣出9,634張
-  - 最低銷量排名單曲：[活力上路\!](../Page/活力上路!.md "wikilink")，第37位
+  - 最低銷量排名單曲：[活力上路\!](https://zh.wikipedia.org/wiki/活力上路! "wikilink")，第37位
   - 銷量創新高的單曲：[戀愛咒縛](../Page/戀愛咒縛.md "wikilink")、[Special
     Generation](../Page/Special_Generation.md "wikilink")、[告白的噴水廣場](../Page/告白的噴水廣場.md "wikilink")、[交往中卻像單相思](../Page/交往中卻像單相思.md "wikilink")、[成吉思汗](../Page/成吉思汗_\(Berryz工房單曲\).md "wikilink")、[希望我們一起的時間長一點
     / ROCK
-    Erotic](../Page/希望我們一起的時間長一點_/_ROCK_Erotic.md "wikilink")、[愛一直伴隨著你
+    Erotic](https://zh.wikipedia.org/wiki/希望我們一起的時間長一點_/_ROCK_Erotic "wikilink")、[愛一直伴隨著你
     /
-    正常情況下，當10年偶像是不可能的\!?](../Page/愛一直伴隨著你_/_正常情況下，當10年偶像是不可能的!?.md "wikilink")、[談論浪漫
-    / 永恆之歌](../Page/談論浪漫_/_永恆之歌.md "wikilink")
+    正常情況下，當10年偶像是不可能的\!?](https://zh.wikipedia.org/wiki/愛一直伴隨著你_/_正常情況下，當10年偶像是不可能的!? "wikilink")、[談論浪漫
+    / 永恆之歌](https://zh.wikipedia.org/wiki/談論浪漫_/_永恆之歌 "wikilink")
   - 銷量創新低的單曲：[戰鬥姿勢不是虛有其表\!](../Page/戰鬥姿勢不是虛有其表!.md "wikilink")
   - 週間第一位的單曲： /
-  - 日間第一位的單曲：[成為女主角吧\!](../Page/成為女主角吧!.md "wikilink")
+  - 日間第一位的單曲：[成為女主角吧\!](https://zh.wikipedia.org/wiki/成為女主角吧! "wikilink")
 
 ### 專輯
 
@@ -849,7 +852,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>8</p></td>
 <td><p>24,745</p></td>
 <td><p>Berryz工房和<a href="../Page/℃-ute.md" title="wikilink">℃-ute的合作單曲</a>、電影「國王遊戲」（王様ゲーム）的主題曲</p></td>
-<td><p><a href="../Page/Petit_Best_12.md" title="wikilink">Petit Best 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Petit_Best_12" title="wikilink">Petit Best 12</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/愛的專輯⑧.md" title="wikilink">愛的專輯⑧</a></p></td>
@@ -878,17 +881,17 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p><a href="../Page/不醜陋的哲學.md" title="wikilink">不醜陋的哲學</a></p></td>
 <td><p>4</p></td>
 <td><p>56,291</p></td>
-<td><p>以「Mobekimasu」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>、Berryz工房、<a href="../Page/℃-ute.md" title="wikilink">℃-ute</a>、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="../Page/S/mileage.md" title="wikilink">S/mileage的合作單曲</a></p></td>
-<td><p><a href="../Page/Petit_Best_12.md" title="wikilink">Petit Best 12</a></p></td>
+<td><p>以「Mobekimasu」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>、Berryz工房、<a href="../Page/℃-ute.md" title="wikilink">℃-ute</a>、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的合作單曲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Petit_Best_12" title="wikilink">Petit Best 12</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>03rd</p></td>
 <td><p>2011年12月21日</p></td>
 <td></td>
-<td><p><a href="../Page/別認輸_Wasshoi!.md" title="wikilink">別認輸 Wasshoi!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/別認輸_Wasshoi!" title="wikilink">別認輸 Wasshoi!</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>以「Bekimasu」名義發行，Berryz工房、<a href="../Page/℃-ute.md" title="wikilink">℃-ute</a>、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="../Page/S/mileage.md" title="wikilink">S/mileage的合作單曲</a></p></td>
+<td><p>以「Bekimasu」名義發行，Berryz工房、<a href="../Page/℃-ute.md" title="wikilink">℃-ute</a>、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的合作單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -905,31 +908,31 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 <td><p>05th</p></td>
 <td><p>2012年11月7日</p></td>
 <td></td>
-<td><p><a href="../Page/ForeFore_〜Forest_For_Rest〜_/_Boys_be_ambitious!.md" title="wikilink">ForeFore 〜Forest For Rest〜 / Boys be ambitious!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ForeFore_〜Forest_For_Rest〜_/_Boys_be_ambitious!" title="wikilink">ForeFore 〜Forest For Rest〜 / Boys be ambitious!</a></p></td>
 <td><p>61</p></td>
 <td><p>1,354</p></td>
-<td><p>「ForeFore 〜Forest For Rest〜」是以「DIY♡」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/飯窪春菜.md" title="wikilink">飯窪春菜</a>、<strong>Berryz工房</strong>的<a href="../Page/徳永千奈美.md" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/中島早貴.md" title="wikilink">中島早貴的合作單曲</a>; 「Boys be ambitious!」是以「Green Fields」名義發行，<a href="../Page/光井愛佳.md" title="wikilink">光井愛佳</a>、<strong>Berryz工房</strong>的<a href="../Page/清水佐紀.md" title="wikilink">清水佐紀和</a><a href="../Page/宮崎由加.md" title="wikilink">宮崎由加的合作單曲</a></p></td>
+<td><p>「ForeFore 〜Forest For Rest〜」是以「DIY♡」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/飯窪春菜.md" title="wikilink">飯窪春菜</a>、<strong>Berryz工房</strong>的<a href="https://zh.wikipedia.org/wiki/徳永千奈美" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/中島早貴.md" title="wikilink">中島早貴的合作單曲</a>; 「Boys be ambitious!」是以「Green Fields」名義發行，<a href="../Page/光井愛佳.md" title="wikilink">光井愛佳</a>、<strong>Berryz工房</strong>的<a href="https://zh.wikipedia.org/wiki/清水佐紀" title="wikilink">清水佐紀和</a><a href="../Page/宮崎由加.md" title="wikilink">宮崎由加的合作單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2013年4月3日</p></td>
 <td></td>
-<td><p><a href="../Page/都會田舍的他.md" title="wikilink">都會田舍的他</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/都會田舍的他" title="wikilink">都會田舍的他</a></p></td>
 <td><p>144</p></td>
 <td><p>357</p></td>
-<td><p><a href="../Page/GREEN_FIELDS.md" title="wikilink">GREEN FIELDS第</a>1張單曲，Juice=Juice的宮崎由加、光井愛佳和Berryz工房的清水佐紀的合作單曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GREEN_FIELDS" title="wikilink">GREEN FIELDS第</a>1張單曲，Juice=Juice的宮崎由加、光井愛佳和Berryz工房的清水佐紀的合作單曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>07th</p></td>
 <td><p>2013年8月7日</p></td>
 <td></td>
-<td><p><a href="../Page/人魚小姐_/_Eiya-sa!_Brother_/_清理海灘的男孩.md" title="wikilink">人魚小姐 / Eiya-sa! Brother / 清理海灘的男孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人魚小姐_/_Eiya-sa!_Brother_/_清理海灘的男孩" title="wikilink">人魚小姐 / Eiya-sa! Brother / 清理海灘的男孩</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>「人魚小姐」是以「Dia-Lady」名義發行，<strong>Berryz工房</strong>的<a href="../Page/菅谷梨沙子.md" title="wikilink">菅谷梨沙子和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/鈴木愛理.md" title="wikilink">鈴木愛理的合作單曲</a>; 「Eiya-sa! Brother」是以「Mellowquad」名義發行，<strong>Berryz工房</strong>的<a href="../Page/徳永千奈美.md" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/岡井千聖.md" title="wikilink">岡井千聖的合作單曲</a>;</p>
-<p>「清理海灘的男孩」是以「HI-FIN」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/中島早貴.md" title="wikilink">中島早貴</a>、<a href="../Page/萩原舞.md" title="wikilink">萩原舞和</a><a href="../Page/S/mileage.md" title="wikilink">S/mileage的</a><a href="../Page/福田花音.md" title="wikilink">福田花音的合作單曲</a></p></td>
+<td><p>「人魚小姐」是以「Dia-Lady」名義發行，<strong>Berryz工房</strong>的<a href="../Page/菅谷梨沙子.md" title="wikilink">菅谷梨沙子和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/鈴木愛理.md" title="wikilink">鈴木愛理的合作單曲</a>; 「Eiya-sa! Brother」是以「Mellowquad」名義發行，<strong>Berryz工房</strong>的<a href="https://zh.wikipedia.org/wiki/徳永千奈美" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/岡井千聖.md" title="wikilink">岡井千聖的合作單曲</a>;</p>
+<p>「清理海灘的男孩」是以「HI-FIN」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/中島早貴.md" title="wikilink">中島早貴</a>、<a href="https://zh.wikipedia.org/wiki/萩原舞" title="wikilink">萩原舞和</a><a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的</a><a href="../Page/福田花音.md" title="wikilink">福田花音的合作單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -985,7 +988,7 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 2.  [Berryz工房Single V Clips
     ②](../Page/Berryz工房Single_V_Clips_\(2\).md "wikilink")（2006年2月22日）
 3.  [Berryz工房Single V Clips
-    ③](../Page/Berryz工房Single_V_Clips_\(3\).md "wikilink")（2007年12月12日）
+    ③](https://zh.wikipedia.org/wiki/Berryz工房Single_V_Clips_\(3\) "wikilink")（2007年12月12日）
 4.  [Berryz工房Single V Clips
     ④](../Page/Berryz工房Single_V_Clips_\(4\).md "wikilink")（2009年12月2日）
 5.  [Berryz工房Single V Clips
@@ -995,44 +998,44 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 ### DVD/Blu-ray（演唱會）
 
 1.  [2004夏 First Concert Tour ～W Stand By\! W &
-    Berryz工房～](../Page/2004夏_First_Concert_Tour_～W_Stand_By!_W_&_Berryz工房～.md "wikilink")（2004年11月17日）
+    Berryz工房～](https://zh.wikipedia.org/wiki/2004夏_First_Concert_Tour_～W_Stand_By!_W_&_Berryz工房～ "wikilink")（2004年11月17日）
 2.  [Berryz工房 Live Tour 2005初夏 初單獨
-    ～整體～](../Page/Berryz工房_Live_Tour_2005初夏_初單獨_～整體～.md "wikilink")（2005年9月22日）
+    ～整體～](https://zh.wikipedia.org/wiki/Berryz工房_Live_Tour_2005初夏_初單獨_～整體～ "wikilink")（2005年9月22日）
 3.  [2005年夏 W & Berryz工房 Concert Tour 「HIGH
-    SCORE\!」](../Page/2005年夏_W_&_Berryz工房_Concert_Tour_「HIGH_SCORE!」.md "wikilink")（2005年11月9日）
+    SCORE\!」](https://zh.wikipedia.org/wiki/2005年夏_W_&_Berryz工房_Concert_Tour_「HIGH_SCORE!」 "wikilink")（2005年11月9日）
 4.  [Berryz工房 Concert Tour 2005秋 ～Switch
-    ON\!～](../Page/Berryz工房_Concert_Tour_2005秋_～Switch_ON!～.md "wikilink")（2005年12月28日）
+    ON\!～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2005秋_～Switch_ON!～ "wikilink")（2005年12月28日）
 5.  [Berryz工房 Concert Tour 2006春 ～Nyoki Nyoki
-    冠軍！～](../Page/Berryz工房_Concert_Tour_2006春_～Nyoki_Nyoki_冠軍！～.md "wikilink")（2006年7月19日）
+    冠軍！～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2006春_～Nyoki_Nyoki_冠軍！～ "wikilink")（2006年7月19日）
 6.  [Berryz工房 Summer Concert Tour 2006 『夏夏\!
-    ～你一定會喜歡的三個原因～』](../Page/Berryz工房_Summer_Concert_Tour_2006_『夏夏!_～你一定會喜歡的三個原因～』.md "wikilink")（2006年10月25日）
+    ～你一定會喜歡的三個原因～』](https://zh.wikipedia.org/wiki/Berryz工房_Summer_Concert_Tour_2006_『夏夏!_～你一定會喜歡的三個原因～』 "wikilink")（2006年10月25日）
 7.  [2007 櫻花滿開 Berryz工房 Live
-    ～感動的時刻不會再現！～](../Page/2007_櫻花滿開_Berryz工房_Live_～感動的時刻不會再現！～.md "wikilink")（2007年6月27日）
+    ～感動的時刻不會再現！～](https://zh.wikipedia.org/wiki/2007_櫻花滿開_Berryz工房_Live_～感動的時刻不會再現！～ "wikilink")（2007年6月27日）
 8.  [Berryz工房 Concert Tour 2007夏 ～Welcome\!
-    Berryz宮殿～](../Page/Berryz工房_Concert_Tour_2007夏_～Welcome!_Berryz宮殿～.md "wikilink")（2007年10月31日）
+    Berryz宮殿～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2007夏_～Welcome!_Berryz宮殿～ "wikilink")（2007年10月31日）
 9.  [Berryz工房 & ℃-ute 好朋友大戰 Concert Tour 2008春 ～Berryz假面 vs. Cutie連者～
     with Berryz工房
-    tracks](../Page/Berryz工房_&_℃-ute_好朋友大戰_Concert_Tour_2008春_～Berryz假面_vs._Cutie連者～.md "wikilink")（2008年7月16日）
+    tracks](https://zh.wikipedia.org/wiki/Berryz工房_&_℃-ute_好朋友大戰_Concert_Tour_2008春_～Berryz假面_vs._Cutie連者～ "wikilink")（2008年7月16日）
 10. [Berryz工房 Concert Tour 2008秋
-    ～Berikore\!～](../Page/Berryz工房_Concert_Tour_2008秋_～Berikore!～.md "wikilink")（2008年12月17日）
+    ～Berikore\!～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2008秋_～Berikore!～ "wikilink")（2008年12月17日）
 11. [Berryz工房 Concert Tour 2009春
-    ～對於所有的愛～](../Page/Berryz工房_Concert_Tour_2009春_～對於所有的愛～.md "wikilink")（2009年7月29日）
+    ～對於所有的愛～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2009春_～對於所有的愛～ "wikilink")（2009年7月29日）
 12. [Berryz工房 Concert Tour 2009秋
-    ～注意～](../Page/Berryz工房_Concert_Tour_2009秋_～注意～.md "wikilink")（2010年2月10日）
+    ～注意～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2009秋_～注意～ "wikilink")（2010年2月10日）
 13. [Berryz工房 Concert Tour 2010初夏 ～海之家
-    吶喊HOUSE～](../Page/Berryz工房_Concert_Tour_2010初夏_～海之家_吶喊HOUSE～.md "wikilink")（2010年8月25日/DVD、12月22日/Blu-ray）
+    吶喊HOUSE～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2010初夏_～海之家_吶喊HOUSE～ "wikilink")（2010年8月25日/DVD、12月22日/Blu-ray）
 14. [Berryz工房 Concert Tour 2010秋冬 ～Beri 高校
-    Fest.～](../Page/Berryz工房_Concert_Tour_2010秋冬_～Beri_高校_Fest.～.md "wikilink")（2011年2月9日/DVD、5月11日\[6\]/Blu-ray）
+    Fest.～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2010秋冬_～Beri_高校_Fest.～ "wikilink")（2011年2月9日/DVD、5月11日\[6\]/Blu-ray）
 15. [Berryz工房結成7周年記念 Concert Tour 2011春 ～週刊 Berryz
-    TIME～](../Page/Berryz工房結成7周年記念_Concert_Tour_2011春_～週刊_Berryz_TIME～.md "wikilink")（2011年7月20日）
+    TIME～](https://zh.wikipedia.org/wiki/Berryz工房結成7周年記念_Concert_Tour_2011春_～週刊_Berryz_TIME～ "wikilink")（2011年7月20日）
 16. [Berryz工房 & ℃-ute 聯合Concert Tour 2011秋 ～Berikyuu
-    Island～](../Page/Berryz工房_&_℃-ute_聯合Concert_Tour_2011秋_～Berikyuu_Island～.md "wikilink")（2012年2月29日/DVD、Blu-ray）
+    Island～](https://zh.wikipedia.org/wiki/Berryz工房_&_℃-ute_聯合Concert_Tour_2011秋_～Berikyuu_Island～ "wikilink")（2012年2月29日/DVD、Blu-ray）
 17. [Berryz工房 Concert Tour 2012春 ～ Berryz Station
-    ～](../Page/Berryz工房_Concert_Tour_2012春_～_Berryz_Station_～.md "wikilink")（2012年8月8日/DVD、Blu-ray）
+    ～](https://zh.wikipedia.org/wiki/Berryz工房_Concert_Tour_2012春_～_Berryz_Station_～ "wikilink")（2012年8月8日/DVD、Blu-ray）
 18. [Berryz工房七夕Special Live
-    2012](../Page/Berryz工房七夕Special_Live_2012.md "wikilink")（2012年12月5日）
+    2012](https://zh.wikipedia.org/wiki/Berryz工房七夕Special_Live_2012 "wikilink")（2012年12月5日）
 19. [Berryz工房 Concet tour 2013春
-    ～Berryz公寓入居者募集中\!～](../Page/Berryz工房_Concet_tour_2013春_～Berryz公寓入居者募集中!～.md "wikilink")（2013年8月7日）
+    ～Berryz公寓入居者募集中\!～](https://zh.wikipedia.org/wiki/Berryz工房_Concet_tour_2013春_～Berryz公寓入居者募集中!～ "wikilink")（2013年8月7日）
 
 ## 出演節目
 
@@ -1057,10 +1060,10 @@ TOWN發行](../Page/PICCOLO_TOWN.md "wikilink")，2007年起台灣及香港地�
 
 ### 電影
 
-  - [{{lang](../Page/:imdbtitle:0347353.md "wikilink")
+  - [{{lang](https://zh.wikipedia.org/wiki/:imdbtitle:0347353 "wikilink")
 
   -
-  - [{{lang](../Page/:imdbtitle:0411398.md "wikilink")
+  - [{{lang](https://zh.wikipedia.org/wiki/:imdbtitle:0411398 "wikilink")
 
   - Promise Land
 

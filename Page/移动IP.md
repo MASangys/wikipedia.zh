@@ -1,12 +1,12 @@
 **移-{}-动IP**（，IP
-mobility），又譯為**行-{}-動IP**，由[網際網路工程任務組](../Page/網際網路工程任務組.md "wikilink")（IETF）制定的一種[網路傳輸協定標準](../Page/網路傳輸協定.md "wikilink")。它設計的目的，是為了讓行動裝置用戶，能夠從一個網路系統中，移動到另一個網路系統，但是裝置的[IP位址保持不變](../Page/IP位址.md "wikilink")。這能夠使移动节点在移动中保持其连接性，實現跨越不同網段的漫遊功能。在[IPv4系統中的行動IP](../Page/IPv4.md "wikilink")，在IETF
+mobility），又譯為**行-{}-動IP**，由[網際網路工程任務組](https://zh.wikipedia.org/wiki/網際網路工程任務組 "wikilink")（IETF）制定的一種[網路傳輸協定標準](https://zh.wikipedia.org/wiki/網路傳輸協定 "wikilink")。它設計的目的，是為了讓行動裝置用戶，能夠從一個網路系統中，移動到另一個網路系統，但是裝置的[IP位址保持不變](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。這能夠使移动节点在移动中保持其连接性，實現跨越不同網段的漫遊功能。在[IPv4系統中的行動IP](../Page/IPv4.md "wikilink")，在IETF
 RFC 5944中定義，RFC
 4721中提供了擴充定義。為[IPv6設計的行動IP](../Page/IPv6.md "wikilink")，又稱**Mobile
 IPv6**，在RFC 6275中定義了它的功能。
 
 ## 設計目的
 
-随着移动终端设备的广泛使用，移动[计算机和移动](../Page/计算机.md "wikilink")[终端等设备也开始需要接入](../Page/终端.md "wikilink")[网路](../Page/网路.md "wikilink")（Internet），但传统的[IP设计并未考虑到移动节点会在连接中变化互联网接入点之问题](../Page/IP.md "wikilink")。传统的IP地址包括两方面的意义：一方面是用来标识唯一的主机，另一方面它还作为主机的地址在数据的路由中起重要作用。但对于移动节点，由于互联网接入点会不断发生变化，所以其IP地址在两方面发生分离，一是移动节点需要一种机制来唯一标识自己，另一是需要这种标识不会被用来[路由](../Page/路由.md "wikilink")。移動IP便是为了能让移动节点能够分离IP地址这两方面功能，而又不彻底改变现有互联网的结构而设计。
+随着移动终端设备的广泛使用，移动[计算机和移动](https://zh.wikipedia.org/wiki/计算机 "wikilink")[终端等设备也开始需要接入](https://zh.wikipedia.org/wiki/终端 "wikilink")[网路](https://zh.wikipedia.org/wiki/网路 "wikilink")（Internet），但传统的[IP设计并未考虑到移动节点会在连接中变化互联网接入点之问题](https://zh.wikipedia.org/wiki/IP "wikilink")。传统的IP地址包括两方面的意义：一方面是用来标识唯一的主机，另一方面它还作为主机的地址在数据的路由中起重要作用。但对于移动节点，由于互联网接入点会不断发生变化，所以其IP地址在两方面发生分离，一是移动节点需要一种机制来唯一标识自己，另一是需要这种标识不会被用来[路由](../Page/路由.md "wikilink")。移動IP便是为了能让移动节点能够分离IP地址这两方面功能，而又不彻底改变现有互联网的结构而设计。
 
 ## 移動IPv6和移動IPv4的比较
 

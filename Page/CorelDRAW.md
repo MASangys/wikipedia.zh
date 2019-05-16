@@ -1,6 +1,6 @@
-**CorelDRAW**是一款由[加拿大](../Page/加拿大.md "wikilink")[渥太华的](../Page/渥太华.md "wikilink")[Corel公司开发的](../Page/Corel.md "wikilink")[矢量图型编辑](../Page/矢量图.md "wikilink")[软件](../Page/软件.md "wikilink")。最初
+**CorelDRAW**是一款由[加拿大](../Page/加拿大.md "wikilink")[渥太华的](https://zh.wikipedia.org/wiki/渥太华 "wikilink")[Corel公司开发的](../Page/Corel.md "wikilink")[矢量图型编辑](https://zh.wikipedia.org/wiki/矢量图 "wikilink")[软件](../Page/软件.md "wikilink")。最初
 CorelDRAW
-被开发运行于[Windows版](../Page/Windows.md "wikilink")，数年后[Macintosh版也随之发布](../Page/Macintosh.md "wikilink")。同时，CorelDRAW曾经存在过[Linux的版本](../Page/Linux.md "wikilink")，但后来被放弃了。而
+被开发运行于[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")，数年后[Macintosh版也随之发布](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。同时，CorelDRAW曾经存在过[Linux的版本](../Page/Linux.md "wikilink")，但后来被放弃了。而
 CorelDRAW X6 也仅有Windows的版本可用，最新版本CorelDRAW X7则取消对[Windows
 XP的支持](../Page/Windows_XP.md "wikilink")，只能在更高版本的Windows上使用。
 
@@ -9,72 +9,93 @@ XP的支持](../Page/Windows_XP.md "wikilink")，只能在更高版本的Windows
 1984年，迈克尔·考普兰（Michael Cowpland）博士創立了Corel公司並且雇请了軟件工程師米歇尔·伯利昂（Michel
 Boullion）和帕特·贝尔尼（Pat Beirne）開發一個基于向量圖形的程序包。1987年始，至1989年發布第一款
 CorelDRAW。CorelDRAW 1.0
-引入了[全彩矢量插图和版面设计程序](../Page/全彩.md "wikilink")，这在计算机图形领域掀起了一场技术革新。两年后，Corel
+引入了[全彩矢量插图和版面设计程序](https://zh.wikipedia.org/wiki/全彩 "wikilink")，这在计算机图形领域掀起了一场技术革新。两年后，Corel
 又推出了首款一体化图形套件（CorelDRAW 3），将矢量插图、版面设计、照片编辑等众多功能融于一个软件包中。
 
 ## 版本歷史
 
-  - [CorelDRAW 1.0](../Page/CorelDRAW_1.0.md "wikilink") (1989年)
-  - [CorelDRAW 1.1](../Page/CorelDRAW_1.1.md "wikilink") (1990年)
-  - [CorelDRAW 2](../Page/CorelDRAW_2.md "wikilink") (1991年)
-  - [CorelDRAW 3](../Page/CorelDRAW_3.md "wikilink") (1992年)
-  - [CorelDRAW 4](../Page/CorelDRAW_4.md "wikilink") (1993年)
-  - [CorelDRAW 5](../Page/CorelDRAW_5.md "wikilink") (1994年)
-  - [CorelDRAW 6](../Page/CorelDRAW_6.md "wikilink") (1995年)
-  - [CorelDRAW 7](../Page/CorelDRAW_7.md "wikilink") (1997年)
-  - [CorelDRAW 8](../Page/CorelDRAW_8.md "wikilink") (1998年)
+  - [CorelDRAW
+    1.0](https://zh.wikipedia.org/wiki/CorelDRAW_1.0 "wikilink") (1989年)
+  - [CorelDRAW
+    1.1](https://zh.wikipedia.org/wiki/CorelDRAW_1.1 "wikilink") (1990年)
+  - [CorelDRAW 2](https://zh.wikipedia.org/wiki/CorelDRAW_2 "wikilink")
+    (1991年)
+  - [CorelDRAW 3](https://zh.wikipedia.org/wiki/CorelDRAW_3 "wikilink")
+    (1992年)
+  - [CorelDRAW 4](https://zh.wikipedia.org/wiki/CorelDRAW_4 "wikilink")
+    (1993年)
+  - [CorelDRAW 5](https://zh.wikipedia.org/wiki/CorelDRAW_5 "wikilink")
+    (1994年)
+  - [CorelDRAW 6](https://zh.wikipedia.org/wiki/CorelDRAW_6 "wikilink")
+    (1995年)
+  - [CorelDRAW 7](https://zh.wikipedia.org/wiki/CorelDRAW_7 "wikilink")
+    (1997年)
+  - [CorelDRAW 8](https://zh.wikipedia.org/wiki/CorelDRAW_8 "wikilink")
+    (1998年)
   - [CorelDRAW Graphics Suite
-    9](../Page/CorelDRAW_Graphics_Suite_9.md "wikilink") (1999年)
+    9](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_9 "wikilink")
+    (1999年)
   - [CorelDRAW Graphics Suite
-    10](../Page/CorelDRAW_Graphics_Suite_10.md "wikilink") (2000年)
+    10](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_10 "wikilink")
+    (2000年)
   - [CorelDRAW Graphics Suite
-    11](../Page/CorelDRAW_Graphics_Suite_11.md "wikilink") (2002年)
+    11](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_11 "wikilink")
+    (2002年)
   - [CorelDRAW Graphics Suite
-    12](../Page/CorelDRAW_Graphics_Suite_12.md "wikilink") (2003年)
+    12](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_12 "wikilink")
+    (2003年)
   - [CorelDRAW Graphics Suite
-    X3](../Page/CorelDRAW_Graphics_Suite_X3.md "wikilink") (2006年)
+    X3](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_X3 "wikilink")
+    (2006年)
   - [CorelDRAW Graphics Suite
-    X4](../Page/CorelDRAW_Graphics_Suite_X4.md "wikilink") (2008年)
+    X4](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_X4 "wikilink")
+    (2008年)
   - [CorelDRAW Graphics Suite
-    X5](../Page/CorelDRAW_Graphics_Suite_X5.md "wikilink") (2009年)
+    X5](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_X5 "wikilink")
+    (2009年)
   - [CorelDRAW Graphics Suite
-    X6](../Page/CorelDRAW_Graphics_Suite_X6.md "wikilink") (2011年)
+    X6](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_X6 "wikilink")
+    (2011年)
   - [CorelDRAW Graphics Suite
-    X7](../Page/CorelDRAW_Graphics_Suite_X7.md "wikilink") (2014年)
+    X7](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_X7 "wikilink")
+    (2014年)
   - [CorelDRAW Graphics Suite
-    X8](../Page/CorelDRAW_Graphics_Suite_X8.md "wikilink") (2016年)
+    X8](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_X8 "wikilink")
+    (2016年)
   - [CorelDRAW Graphics Suite
-    2017](../Page/CorelDRAW_Graphics_Suite_2017.md "wikilink") (2017年)
+    2017](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_2017 "wikilink")
+    (2017年)
   - [CorelDRAW Graphics Suite
-    2018](../Page/CorelDRAW_Graphics_Suite_2018.md "wikilink") (2018年)
+    2018](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_2018 "wikilink")
+    (2018年)
 
 ### 读写支持 /版本特点
 
-| CorelDraw         | 版本支持    | Windows兼容性           | [Macintosh兼容性](../Page/Macintosh.md "wikilink") | 新特点                                                        |
-| ----------------- | ------- | -------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| 发行日期              | 版本      | 读取                   | 写入                                              |                                                            |
-| 1989/1\[1\]       | 1.0     | 1                    | 1                                               | [2.1](../Page/Windows_2.1x.md "wikilink")                  |
-| 1989/3\[2\]       | 1.01    | 1                    | 1                                               | [2.1](../Page/Windows_2.1x.md "wikilink")                  |
-| 1989/4\[3\]       | 1.02    | 1                    | 1                                               | [2.1](../Page/Windows_2.1x.md "wikilink")                  |
-| 1989/7\[4\]       | 1.10    | 1                    | 1                                               | [2.1](../Page/Windows_2.1x.md "wikilink")                  |
-| 1990/2\[5\]       | 1.11    | 1                    | 1                                               | [2.1](../Page/Windows_2.1x.md "wikilink")                  |
-| 1991/9\[6\]       | 2       | 1, 2                 | 1, 2                                            | [3.0](../Page/Windows_3.0.md "wikilink")                   |
-| 1992/5/15\[7\]    | 3       | 1, 2, 3              | 2, 3                                            | 3.0, [3.1](../Page/Windows_3.1x.md "wikilink") (preferred) |
-| 1993/5/20\[8\]    | 4       | 1, 2, 3, 4           | 3, 4                                            | 3.1                                                        |
-| 1994/5/27\[9\]    | 5       | 1, 2, 3, 4, 5        | 3, 4, 5                                         | 3.1                                                        |
-| 1995/8/24\[10\]   | 6       | 3, 4, 5, 6           | 5, 6                                            | [95](../Page/Windows_95.md "wikilink")                     |
-| 1996/10/8\[11\]   | 7       | 3, 4, 5, 6, 7        | 5, 6, 7                                         | Windows 95/NT 4                                            |
-| 27 Oct 1997\[12\] | 8       | 3, 4, 5, 6, 7, 8     | 6, 7, 8                                         | Windows 95/NT 4                                            |
-| 31 Aug 1999\[13\] | 9       | 3, 4, 5, 6, 7, 8, 9  | 5, 6, 7, 8, 9                                   | Windows 95/98/NT 4                                         |
-| 13 Nov 2000\[14\] | 10      | 10 <sup>†</sup>      | 10 <sup>‡</sup>                                 | Windows 98/Me/NT 4/2000                                    |
-| 1 Aug 2002\[15\]  | 11      | 11 <sup>†</sup>      | 5, 6, 7, 8, 9, 10, 11                           | Windows 98/Me/NT 4/2000/XP                                 |
-| 10 Feb 2004\[16\] | 12      | 12 <sup>†</sup>      | 12 <sup>‡</sup>                                 | Windows 2000/XP                                            |
-| 17 Jan 2006\[17\] | X3 (13) | X3 <sup>†</sup>      | 7, 8, 9, 10, 11, 12, X3                         | Windows 2000/2003/XP/Vista(仅32位)                           |
-| 22 Jan 2008\[18\] | X4 (14) | 7 to X4 <sup>†</sup> | 7 to X4                                         | Windows XP/Vista/7                                         |
-| 2010/2/23\[19\]   | X5 (15) | 7 to X5              | 7 to X5                                         | Windows XP/Vista/7                                         |
-| 2012/3/20\[20\]   | X6 (16) | 7 to X6              | 7 to X6                                         | Windows XP/Vista/7                                         |
-| 2014/3/27\[21\]   | X7 (17) | 7 to X7              | 7 to X7                                         | Windows 10/8/7                                             |
-| 2016/3/15\[22\]   | X8 (18) | 7 to X8              | 7 to X8                                         | Windows 10/8.1/7                                           |
+| CorelDraw         | 版本支持    | Windows兼容性           | [Macintosh兼容性](https://zh.wikipedia.org/wiki/Macintosh "wikilink") | 新特点                                                                           |
+| ----------------- | ------- | -------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| 发行日期              | 版本      | 读取                   | 写入                                                                 |                                                                               |
+| 1989/1\[1\]       | 1.0     | 1                    | 1                                                                  | [2.1](../Page/Windows_2.1x.md "wikilink")                                     |
+| 1989/3\[2\]       | 1.01    | 1                    | 1                                                                  | [2.1](../Page/Windows_2.1x.md "wikilink")                                     |
+| 1989/4\[3\]       | 1.02    | 1                    | 1                                                                  | [2.1](../Page/Windows_2.1x.md "wikilink")                                     |
+| 1989/7\[4\]       | 1.10    | 1                    | 1                                                                  | [2.1](../Page/Windows_2.1x.md "wikilink")                                     |
+| 1990/2\[5\]       | 1.11    | 1                    | 1                                                                  | [2.1](../Page/Windows_2.1x.md "wikilink")                                     |
+| 1991/9\[6\]       | 2       | 1, 2                 | 1, 2                                                               | [3.0](https://zh.wikipedia.org/wiki/Windows_3.0 "wikilink")                   |
+| 1992/5/15\[7\]    | 3       | 1, 2, 3              | 2, 3                                                               | 3.0, [3.1](https://zh.wikipedia.org/wiki/Windows_3.1x "wikilink") (preferred) |
+| 1993/5/20\[8\]    | 4       | 1, 2, 3, 4           | 3, 4                                                               | 3.1                                                                           |
+| 1994/5/27\[9\]    | 5       | 1, 2, 3, 4, 5        | 3, 4, 5                                                            | 3.1                                                                           |
+| 1995/8/24\[10\]   | 6       | 3, 4, 5, 6           | 5, 6                                                               | [95](../Page/Windows_95.md "wikilink")                                        |
+| 1996/10/8\[11\]   | 7       | 3, 4, 5, 6, 7        | 5, 6, 7                                                            | Windows 95/NT 4                                                               |
+| 27 Oct 1997\[12\] | 8       | 3, 4, 5, 6, 7, 8     | 6, 7, 8                                                            | Windows 95/NT 4                                                               |
+| 31 Aug 1999\[13\] | 9       | 3, 4, 5, 6, 7, 8, 9  | 5, 6, 7, 8, 9                                                      | Windows 95/98/NT 4                                                            |
+| 13 Nov 2000\[14\] | 10      | 10 <sup>†</sup>      | 10 <sup>‡</sup>                                                    | Windows 98/Me/NT 4/2000                                                       |
+| 1 Aug 2002\[15\]  | 11      | 11 <sup>†</sup>      | 5, 6, 7, 8, 9, 10, 11                                              | Windows 98/Me/NT 4/2000/XP                                                    |
+| 10 Feb 2004\[16\] | 12      | 12 <sup>†</sup>      | 12 <sup>‡</sup>                                                    | Windows 2000/XP                                                               |
+| 17 Jan 2006\[17\] | X3 (13) | X3 <sup>†</sup>      | 7, 8, 9, 10, 11, 12, X3                                            | Windows 2000/2003/XP/Vista(仅32位)                                              |
+| 22 Jan 2008\[18\] | X4 (14) | 7 to X4 <sup>†</sup> | 7 to X4                                                            | Windows XP/Vista/7                                                            |
+| 2010/2/23\[19\]   | X5 (15) | 7 to X5              | 7 to X5                                                            | Windows XP/Vista/7                                                            |
+| 2012/3/20\[20\]   | X6 (16) | 7 to X6              | 7 to X6                                                            | Windows XP/Vista/7                                                            |
+| 2014/3/27\[21\]   | X7 (17) | 7 to X7              | 7 to X7                                                            | Windows 10/8/7                                                                |
+| 2016/3/15\[22\]   | X8 (18) | 7 to X8              | 7 to X8                                                            | Windows 10/8.1/7                                                              |
 
 <div class="references-small">
 

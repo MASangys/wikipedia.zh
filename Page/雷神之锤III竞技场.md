@@ -1,20 +1,23 @@
-《**雷神之锤III**》是由[id Software采用id](../Page/id_Software.md "wikilink")
-Tech3引擎制作的多人连线[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")(FPS)，1999年12月发行。玩家或独立或组队在地图中厮杀，死亡后数秒即在地图某处重生。当某位或某队玩家达到胜利条件或者游戏持续一定时间后即宣告一个回合结束。胜利条件取决于选择的[游戏模式](../Page/雷神之锤III#游戏模式.md "wikilink")。
+《**雷神之锤III**》是由[id
+Software采用id](https://zh.wikipedia.org/wiki/id_Software "wikilink")
+Tech3引擎制作的多人连线[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")(FPS)，1999年12月发行。玩家或独立或组队在地图中厮杀，死亡后数秒即在地图某处重生。当某位或某队玩家达到胜利条件或者游戏持续一定时间后即宣告一个回合结束。胜利条件取决于选择的[游戏模式](https://zh.wikipedia.org/wiki/雷神之锤III#游戏模式 "wikilink")。
 
-《雷神之锤III》是历史上第一个不支持「[-{zh-hans:软件加速;zh-hant:軟體算圖}-](../Page/软件加速.md "wikilink")」（Software
-Render）的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")(FPS)。玩家必须拥有一个有[硬件加速能力的](../Page/硬件加速.md "wikilink")[显卡才能够运行游戏](../Page/显卡.md "wikilink")。該遊戲的成功在很大程度上依赖一个杰出的[游戏引擎](../Page/游戏引擎.md "wikilink")：[雷神之锤III引擎](../Page/雷神之锤III引擎.md "wikilink")，这个引擎直到6年后仍然被一些主流游戏选用。
+《雷神之锤III》是历史上第一个不支持「[-{zh-hans:软件加速;zh-hant:軟體算圖}-](https://zh.wikipedia.org/wiki/软件加速 "wikilink")」（Software
+Render）的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")(FPS)。玩家必须拥有一个有[硬件加速能力的](../Page/硬件加速.md "wikilink")[显卡才能够运行游戏](https://zh.wikipedia.org/wiki/显卡 "wikilink")。該遊戲的成功在很大程度上依赖一个杰出的[游戏引擎](../Page/游戏引擎.md "wikilink")：[雷神之锤III引擎](https://zh.wikipedia.org/wiki/雷神之锤III引擎 "wikilink")，这个引擎直到6年后仍然被一些主流游戏选用。
 
-2000年4月[id Software发布了资料片](../Page/id_Software.md "wikilink")《**雷神之锤
+2000年4月[id
+Software发布了资料片](https://zh.wikipedia.org/wiki/id_Software "wikilink")《**雷神之锤
 III: 团队竞技场**》。它更加专注于团队游戏并且增加了一些新的武器，人物模型和游戏模式。《**雷神之锤III Revolution**》
 是[PlayStation 2上的版本](../Page/PlayStation_2.md "wikilink")，于2001年发行。
 
 2005年，游戏引擎id
-Tech3的源代码被放出，协议是[GPL](../Page/GPL.md "wikilink")，基于此引擎的ioquake3衍生出了[OpenArena](../Page/OpenArena.md "wikilink")、[Urban
+Tech3的源代码被放出，协议是[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")，基于此引擎的ioquake3衍生出了[OpenArena](../Page/OpenArena.md "wikilink")、[Urban
 Terror](../Page/Urban_Terror.md "wikilink")、[World Of
-Padman](../Page/World_Of_Padman.md "wikilink")、[Tremulous等独立的游戏](../Page/Tremulous.md "wikilink")，刺激了[Alien
+Padman](https://zh.wikipedia.org/wiki/World_Of_Padman "wikilink")、[Tremulous等独立的游戏](https://zh.wikipedia.org/wiki/Tremulous "wikilink")，刺激了[Alien
 Arena引擎的改进](../Page/Alien_Arena.md "wikilink")。id Tech3释放后也被用于商业如，[Space
-Trader和](../Page/Space_Trader.md "wikilink")[Iron Grip:
-Warlord等商业独立游戏](../Page/Iron_Grip:_Warlord.md "wikilink")。[XreaL则是追求极致画面的](../Page/XreaL.md "wikilink")
+Trader和](https://zh.wikipedia.org/wiki/Space_Trader "wikilink")[Iron
+Grip:
+Warlord等商业独立游戏](https://zh.wikipedia.org/wiki/Iron_Grip:_Warlord "wikilink")。[XreaL则是追求极致画面的](https://zh.wikipedia.org/wiki/XreaL "wikilink")
 id Tech 3引擎改版。
 
 ## 游戏模式
@@ -47,7 +50,7 @@ Deathmatch（以下称TDM）是一种将游戏中玩家分为红蓝两队的游�
 
 #### Capture The Flag
 
-原文 [Capture the flag](../Page/奪旗.md "wikilink") (簡稱
+原文 [Capture the flag](https://zh.wikipedia.org/wiki/奪旗 "wikilink") (簡稱
 CTF）。CTF是一種類遊戲模式，它有各種不同的形式。在Quake
 3裡分成藍紅兩邊在通常是一個對稱的（也有不對稱的）地圖中競賽。競賽的目的是將對方的旗子帶回來，並且碰觸**未被移動過的**我方旗子，我隊就得一分，稱作一個
 capture。一般會設定兩個要素，得分的極限以及時間極限，先到達分數極限的隊伍獲勝，若是兩隊勢均力敵而難以得分，則通常會由時間的設定來結束一個遊戲（match）。
@@ -57,7 +60,7 @@ capture。一般會設定兩個要素，得分的極限以及時間極限，先�
 
 #### Defrag
 
-Defrag是[Quake系列游戏的专业术语](../Page/Quake.md "wikilink")。是指利用Quake[游戏引擎的特殊物理性质进行速度和跳跃比赛的游戏模式](../Page/游戏引擎.md "wikilink")。玩家在各式各样的地图中可以利用各种跳跃方式进行加速或者特殊移动，从而达到使速度变快或者做出不规则路线运动的目的。Defrag提倡的是更高更快更远，玩家们使用各种技术和创意来不断的突破自己。Defrag所采用的跳跃技术有圆弧跳、平移跳、火箭跳、双重/三重/多重火箭跳、等离子跳、等离子爬墙、BFG跳等。
+Defrag是[Quake系列游戏的专业术语](https://zh.wikipedia.org/wiki/Quake "wikilink")。是指利用Quake[游戏引擎的特殊物理性质进行速度和跳跃比赛的游戏模式](../Page/游戏引擎.md "wikilink")。玩家在各式各样的地图中可以利用各种跳跃方式进行加速或者特殊移动，从而达到使速度变快或者做出不规则路线运动的目的。Defrag提倡的是更高更快更远，玩家们使用各种技术和创意来不断的突破自己。Defrag所采用的跳跃技术有圆弧跳、平移跳、火箭跳、双重/三重/多重火箭跳、等离子跳、等离子爬墙、BFG跳等。
 
 目前Defrag的最新版本是1.9，开发Defrag的群体的官方网站位于
 [PlanetQuake](http://www.PlanetQuake.com)，他们也有自己的
@@ -75,13 +78,13 @@ CPMA是较原始模式节奏更快，技巧性更强的一种模式。
   - 玩家死亡后可以立即重生，在原版中必须等待1.7秒才可重生
   - 没有换枪时间，也就是说可以在发射RG后立刻切换为RL。在实战中运用得当可在瞬间造成极大伤害
   - YA（Yellow Armor）盔甲值为100点，RA（Red Armor）为150点，另外还有一种Green Armor为50点
-  - [火箭跳的伤害减少](../Page/#火箭跳.md "wikilink")，效果放大
+  - [火箭跳的伤害减少](https://zh.wikipedia.org/wiki/#火箭跳 "wikilink")，效果放大
   - 修改了一些物理特性，使得平移跳和连环平移跳更为容易
 
 #### OSP
 
 OSP全名为 Orange Smoothie
-Productions。该模式以创建可供竞技比赛使用的游戏框架为目标，对Q3的原始模式进行了相当的增强，但是所有涉及到游戏特性的方面均忠实于原版，这一点与[\#CPMA有着明显差异](../Page/#CPMA.md "wikilink")。
+Productions。该模式以创建可供竞技比赛使用的游戏框架为目标，对Q3的原始模式进行了相当的增强，但是所有涉及到游戏特性的方面均忠实于原版，这一点与[\#CPMA有着明显差异](https://zh.wikipedia.org/wiki/#CPMA "wikilink")。
 
 到目前为止，除了2000年12月的Babbages CPL
 Event使用Q3Comp的MOD（就是导致All\*Blue退出的那一次比赛），几乎所有的Q3竞技大赛都是使用的OSP模式
@@ -100,29 +103,30 @@ Quake 3的一个 MOD，自从ioquake3稳定之后，Urban Terror可以作为一�
 
 Quake3。此游戏在中国大陆之外的地区流行。
 
-### [Tremulous](../Page/Tremulous.md "wikilink")
+### [Tremulous](https://zh.wikipedia.org/wiki/Tremulous "wikilink")
 
-不是Quake 3的MOD，而是引擎为[GPLv2发布后创作](../Page/GPLv2.md "wikilink")。
-使用[ioquake3](../Page/ioquake3.md "wikilink")。
+不是Quake
+3的MOD，而是引擎为[GPLv2发布后创作](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")。
+使用[ioquake3](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")。
 
-异形和地球特种部队之间的对抗，[即时战略和](../Page/即时战略.md "wikilink")[第一人称射击的融合](../Page/第一人称射击.md "wikilink")，不同于HL的NC。
+异形和地球特种部队之间的对抗，[即时战略和](https://zh.wikipedia.org/wiki/即时战略 "wikilink")[第一人称射击的融合](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")，不同于HL的NC。
 
 完整的替代了原来Quake3的数据，外表看不出Tremulous和Quake3的联系。此游戏在中国大陆之外的地区流行。
 
 ### [OpenArena](../Page/OpenArena.md "wikilink")
 
 Quake 3的替代计划，一个独立的游戏，用大量精力绘制新模型取代Quake
-3的数据，那么其他MOD也可以使用。所有的效果类似原版但都有所不同。使用[ioquake3](../Page/ioquake3.md "wikilink")。
+3的数据，那么其他MOD也可以使用。所有的效果类似原版但都有所不同。使用[ioquake3](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")。
 
 游戏模式基本和Quake 3一样。
 
-### [World Of Padman](../Page/World_Of_Padman.md "wikilink")
+### [World Of Padman](https://zh.wikipedia.org/wiki/World_Of_Padman "wikilink")
 
-德国漫画改编MOD，画面完全不同于Quake3，为漫画效果。为独立的游戏。使用[ioquake3](../Page/ioquake3.md "wikilink")。
+德国漫画改编MOD，画面完全不同于Quake3，为漫画效果。为独立的游戏。使用[ioquake3](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")。
 
-### [Q3Rally](../Page/Q3Rally.md "wikilink")
+### [Q3Rally](https://zh.wikipedia.org/wiki/Q3Rally "wikilink")
 
-拉力赛游戏，开源[GPLv2](../Page/GPLv2.md "wikilink")，车辆战斗和竞速模式。
+拉力赛游戏，开源[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")，车辆战斗和竞速模式。
 
 ### [Smokin' Guns](../Page/Smokin'_Guns.md "wikilink")
 
@@ -149,7 +153,7 @@ Q3 中唯一的接觸性武器，也是唯一不限彈藥的武器，傷害力�
 
 #### Machine Gun
 
-機槍，簡稱MG。具有稍微誤差的即時直線武器，傷害小（一般情况下为7，[TDM中为](../Page/#Team_Deathmatch.md "wikilink")5），發射速率高。預設彈藥100，在[TDM模式中預設](../Page/#Team_Deathmatch.md "wikilink")50，代表的顏色是亮黃色。没有溅射伤害
+機槍，簡稱MG。具有稍微誤差的即時直線武器，傷害小（一般情况下为7，[TDM中为](https://zh.wikipedia.org/wiki/#Team_Deathmatch "wikilink")5），發射速率高。預設彈藥100，在[TDM模式中預設](https://zh.wikipedia.org/wiki/#Team_Deathmatch "wikilink")50，代表的顏色是亮黃色。没有溅射伤害
 
 #### Shotgun
 
@@ -157,7 +161,7 @@ Q3 中唯一的接觸性武器，也是唯一不限彈藥的武器，傷害力�
 
 #### Grenade Launcher
 
-榴彈槍，簡稱GL。直接命中敵人的榴彈威力很大（伤害为100），不過發射出去的榴彈飛行速度很慢，轨迹为抛物线，沒遇上敵人則會在地面或牆壁上反彈，若反彈碰到敵人仍然視為直接命中。反彈的軌道則依照地圖所設定的重力值而定；若沒碰到敵人則會在一段固定時間後引爆，爆炸效果與火箭槍相同。另外在[defrag中](../Page/defrag.md "wikilink")，GL因為其延遲的特性，可以拿來與其他武器搭配作特技動作。預設彈藥10，代表的顏色是深綠色。有溅射伤害。GL在碰到尸体时也会爆炸。
+榴彈槍，簡稱GL。直接命中敵人的榴彈威力很大（伤害为100），不過發射出去的榴彈飛行速度很慢，轨迹为抛物线，沒遇上敵人則會在地面或牆壁上反彈，若反彈碰到敵人仍然視為直接命中。反彈的軌道則依照地圖所設定的重力值而定；若沒碰到敵人則會在一段固定時間後引爆，爆炸效果與火箭槍相同。另外在[defrag中](https://zh.wikipedia.org/wiki/defrag "wikilink")，GL因為其延遲的特性，可以拿來與其他武器搭配作特技動作。預設彈藥10，代表的顏色是深綠色。有溅射伤害。GL在碰到尸体时也会爆炸。
 
 #### Plasma Gun
 
@@ -170,7 +174,7 @@ Q3 中唯一的接觸性武器，也是唯一不限彈藥的武器，傷害力�
 
 火箭槍，簡稱RL。具有固定速率以及固定射距（但是很長）的直線武器，會在碰到任何具有實際體積的東西時爆炸。連發的時間間隔為 0.8
 秒。另外可以與“跳指令”搭配作[Rocket
-Jump](../Page/#火箭跳.md "wikilink")——在跳起來的瞬間同時面對身下或身旁的物件發射。預設彈藥10，代表的顏色是紅色。有溅射伤害。
+Jump](https://zh.wikipedia.org/wiki/#火箭跳 "wikilink")——在跳起來的瞬間同時面對身下或身旁的物件發射。預設彈藥10，代表的顏色是紅色。有溅射伤害。
 
 #### Lightning Gun
 
@@ -187,7 +191,7 @@ Jump](../Page/#火箭跳.md "wikilink")——在跳起來的瞬間同時面對�
 
 BFG 的全名一直是個問題，有些人認為是“Big Freaking Gun”，但某些来自采访中的诙谐的解釋是“Big Fucking
 Gun”。BFG系列武器一直是[id
-software的傳統](../Page/id_software.md "wikilink")，從他們所製的遊戲[Doom開始](../Page/Doom.md "wikilink")，就有了BFG這個武器。在Q3中的BFG發與以前的單發超大威力與超廣範圍不同，有著較高的發射速率，以及類似火箭槍的爆炸範圍。預設彈藥20，代表的顏色是暗藍色。有溅射伤害。BFG在通常的对抗模式中都被禁用，但在[Defrag模式中被频繁的使用](../Page/#Defrag.md "wikilink")，以制造出远强于[火箭跳的跳跃效果](../Page/#火箭跳.md "wikilink")。
+software的傳統](https://zh.wikipedia.org/wiki/id_software "wikilink")，從他們所製的遊戲[Doom開始](https://zh.wikipedia.org/wiki/Doom "wikilink")，就有了BFG這個武器。在Q3中的BFG發與以前的單發超大威力與超廣範圍不同，有著較高的發射速率，以及類似火箭槍的爆炸範圍。預設彈藥20，代表的顏色是暗藍色。有溅射伤害。BFG在通常的对抗模式中都被禁用，但在[Defrag模式中被频繁的使用](https://zh.wikipedia.org/wiki/#Defrag "wikilink")，以制造出远强于[火箭跳的跳跃效果](https://zh.wikipedia.org/wiki/#火箭跳 "wikilink")。
 
 ### 其他要素
 
@@ -221,7 +225,7 @@ Health**可回復100點生命值，這可當作是特殊物件，一個地圖中
 
 Armor 可增加玩家的裝甲值，減少敵方攻擊的百分比傷害，它有三種形式：绿色碎片（Armor Shard）增加5點、黃色裝甲（Yellow
 Armor）增加50點、紅色裝甲（Red
-Armor）增加100點。在另一个较为流行的模式[\#CPMA中还有一种绿色装甲](../Page/#CPMA.md "wikilink")（Green
+Armor）增加100點。在另一个较为流行的模式[\#CPMA中还有一种绿色装甲](https://zh.wikipedia.org/wiki/#CPMA "wikilink")（Green
 Armor）增加25点。
 
 另外要注意的是，在Q3中標準的生命值與裝甲值是100點（而最大值是200），超過的話會隨著時間遞減。而中型與大型的 Health Pack
@@ -342,15 +346,15 @@ Health和Red Armor）重生的瞬間。藉由精確的時間計算拿走他們�
 ### 雷神之锤III在中国大陆
 
 [2004年9月](../Page/2004年9月.md "wikilink")，
-[文化部认为该游戏画面血腥](../Page/中华人民共和国文化部.md "wikilink")，将[雷神之锤III列入非法游戏](../Page/雷神之锤III.md "wikilink")，自此再没有相关的比赛举行。
+[文化部认为该游戏画面血腥](../Page/中华人民共和国文化部.md "wikilink")，将[雷神之锤III列入非法游戏](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")，自此再没有相关的比赛举行。
 
 ## 赛场与著名人物
 
 ### 比赛
 
-  - [CPL](../Page/CPL.md "wikilink")
-  - [WCG](../Page/WCG.md "wikilink")
-  - [ESWC](../Page/ESWC.md "wikilink")
+  - [CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")
+  - [WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")
+  - [ESWC](https://zh.wikipedia.org/wiki/ESWC "wikilink")
 
 ### 人物
 
@@ -358,18 +362,18 @@ Health和Red Armor）重生的瞬間。藉由精確的時間計算拿走他們�
 
 孟阳是中国水平最高的Quake3选手，曾获得过12次国内冠军和WCG2002的第四名。
 
-  - [Jibo](../Page/Jibo.md "wikilink")（樊知博）
+  - [Jibo](https://zh.wikipedia.org/wiki/Jibo "wikilink")（樊知博）
 
 Jibo是中国水平最高的Quake3选手之一，现留学俄罗斯。
 
-  - [Fatal1ty](../Page/Fatal1ty.md "wikilink")
+  - [Fatal1ty](https://zh.wikipedia.org/wiki/Fatal1ty "wikilink")
 
 Fatal1ty，美国人。是世界水平最高的Quake3选手之一，他同时也是水平最高的FPS选手，精通各种FPS，曾获得无数各类比赛冠军。长相酷似美国前总统克林顿。
 
 QUAKE III主要战绩： XSI， CPL RAZER， CPL EUROPE， WCGC， CPL PACIFIC， CPL FRAG
 4(作为Clan Kapitol的一员)冠军； CPL ASIA， QUAKECON 2001亚军。
 
-  - [Cooller](../Page/Cooller.md "wikilink")
+  - [Cooller](https://zh.wikipedia.org/wiki/Cooller "wikilink")
 
 Cooller，俄罗斯人，是世界水平最高的Quake3选手之一。
 
@@ -378,18 +382,18 @@ QUAKE III主要战绩： WCG RUSSIA 2002， QLAN， ESWC 2003， ESWC 2005冠军
 QUAKE III最经典的聊天记录出自Cooller在quakecon2004战胜瑞典名将Toxic的比赛中： “your lg is
 nothink on the lan”。
 
-  - [ZeRo4](../Page/ZeRo4.md "wikilink")
+  - [ZeRo4](https://zh.wikipedia.org/wiki/ZeRo4 "wikilink")
 
 ZeRo4是曾经的世界水平最高的Quake3选手。
 
 QUAKE III主要战绩： CPL Babbages， QUAKECON 2001, WCG 2001, QUAKECON 2003冠军；
 ESWC 2003, QUAKECON 2004亚军。
 
-  - [LeXeR](../Page/LeXeR.md "wikilink")
+  - [LeXeR](https://zh.wikipedia.org/wiki/LeXeR "wikilink")
 
 LeXeR，俄罗斯人，世界水平最高的Quake3选手之一。
 
-  - [czm](../Page/czm.md "wikilink")
+  - [czm](https://zh.wikipedia.org/wiki/czm "wikilink")
 
 czm（CreZyMan的简称）是现役世界Quake3水平最高的选手。czm在CPL 06 Final与Cooller的对决可能是QUAKE
 III历史上最精彩的比赛。
@@ -399,7 +403,7 @@ Final冠军； QLAN 2, ESWC 2005亚军。
 
 另外值得一提的是，czm的学业也同样出色。他在完成了普林斯顿大学的本科学习后，于加州理工大学攻读数学博士。
 
-  - [Maverick](../Page/Maverick.md "wikilink")
+  - [Maverick](https://zh.wikipedia.org/wiki/Maverick "wikilink")
 
 Q3ACN.COM的站长，为Quake3在中国的发展作出了不可磨灭的贡献。
 

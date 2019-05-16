@@ -2,7 +2,7 @@
 Symbolic Instruction
 Code，初学者通用指令代码）语言的一个变种，由美国[微软公司开发](../Page/微软.md "wikilink")，1991年随[MS-DOS](../Page/MS-DOS.md "wikilink")
 5.0推出。它不能被编译成独立的可执行文件，源代码在集成开发环境（IDE）中先被编译成中间代码，然后中间代码在IDE中被解释执行。它被设计用来代替[GW-BASIC](../Page/GW-BASIC.md "wikilink")，并被集成在MS-DOS
-5.0及其更高版本（包括[Windows](../Page/Windows.md "wikilink")
+5.0及其更高版本（包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 95）中。QBASIC基于微软稍早推出的[QuickBASIC](../Page/QuickBASIC.md "wikilink")
 4.5，但去掉了后者的编译和连接部分。
 

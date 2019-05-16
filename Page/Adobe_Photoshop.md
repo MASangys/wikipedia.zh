@@ -1,5 +1,5 @@
 **Adobe
-Photoshop**，简称“****PS'''”，是一个由Adobe开发和发行的[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")。该软件发布在[Windows和](../Page/Microsoft_Windows.md "wikilink")[Mac
+Photoshop**，简称“****PS'''”，是一个由Adobe开发和发行的[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")。该软件发布在[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
 OS上](../Page/麦金塔操作系统.md "wikilink")。
 
 Photoshop由和[约翰·诺尔在](../Page/约翰·诺尔.md "wikilink")1988年首次发布新版本。自那时起，它已经在位图成为受欢迎的标准，到这时，Photoshop已成为一个通用商标，导致它逐渐演变成俚语，如“to
@@ -13,32 +13,34 @@ CS3到CS6也分为两种版本：标准版和扩展版。2013年6月，随着[Cr
 Cloud的推出](../Page/Adobe_Creative_Cloud.md "wikilink")，Photoshop的授权模式被改为软件为服务的订阅模式，而原有的“CS”后缀被替换为“CC”。这些新版本的命名方式也应用到其他的adobe系列软件中，例如：[Adobe
 Fireworks](../Page/Adobe_Fireworks.md "wikilink")，[Adobe
 Bridge](../Page/Adobe_Bridge.md "wikilink")，[Adobe Device
-Central和Adobe](../Page/Adobe_Device_Central.md "wikilink") Camera RAW。
+Central和Adobe](https://zh.wikipedia.org/wiki/Adobe_Device_Central "wikilink")
+Camera RAW。
 
 除Photoshop之外，Adobe还开发并发售了[Photoshop
-Elements](../Page/Photoshop_Elements.md "wikilink")，[Photoshop
-Lightroom](../Page/Photoshop_Lightroom.md "wikilink")，和[Photoshop
-Touch](../Page/Photoshop_Touch.md "wikilink")。总体来说，它们被称为“Adobe
+Elements](https://zh.wikipedia.org/wiki/Photoshop_Elements "wikilink")，[Photoshop
+Lightroom](https://zh.wikipedia.org/wiki/Photoshop_Lightroom "wikilink")，和[Photoshop
+Touch](https://zh.wikipedia.org/wiki/Photoshop_Touch "wikilink")。总体来说，它们被称为“Adobe
 Photoshop系列”。这些软件目前都是属于[专有软件](../Page/专有软件.md "wikilink")。
 
 ## 历史
 
-1987年，在[美国](../Page/美国.md "wikilink")[密歇根大学就读博士研究生](../Page/密歇根大学.md "wikilink")，他用课余时间编写了一个叫“Display”的程序，程序的功能是让黑白位图显示器显示[灰阶图像](../Page/灰阶.md "wikilink")。托馬斯的哥哥[约翰·诺尔就职于](../Page/约翰·诺尔.md "wikilink")[光影魔幻工业特效公司](../Page/光影魔幻工业特效公司.md "wikilink")，他建议弟弟托馬斯将“Display”变成一个处理数字图像的程序，于是在1988年两兄弟花了六个月时间合作完成这个项目。最初托马斯想将软件改名为“ImagePro”，但没曾想到这个名字已经被人用了\[1\]。同年晚些时候，托马斯将软件改名为“**Photoshop**”（实际上是参加展览时一位观众建议改为此名）并与一家[扫描仪公司进行了短期合作](../Page/扫描仪.md "wikilink")，用于处理[扫描仪扫描下来的图像](../Page/扫描仪.md "wikilink")。
+1987年，在[美国](../Page/美国.md "wikilink")[密歇根大学就读博士研究生](../Page/密歇根大学.md "wikilink")，他用课余时间编写了一个叫“Display”的程序，程序的功能是让黑白位图显示器显示[灰阶图像](https://zh.wikipedia.org/wiki/灰阶 "wikilink")。托馬斯的哥哥[约翰·诺尔就职于](../Page/约翰·诺尔.md "wikilink")[光影魔幻工业特效公司](https://zh.wikipedia.org/wiki/光影魔幻工业特效公司 "wikilink")，他建议弟弟托馬斯将“Display”变成一个处理数字图像的程序，于是在1988年两兄弟花了六个月时间合作完成这个项目。最初托马斯想将软件改名为“ImagePro”，但没曾想到这个名字已经被人用了\[1\]。同年晚些时候，托马斯将软件改名为“**Photoshop**”（实际上是参加展览时一位观众建议改为此名）并与一家[扫描仪公司进行了短期合作](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")，用于处理[扫描仪扫描下来的图像](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")。
 
-在这期间，约翰前往[硅谷向](../Page/硅谷.md "wikilink")[苹果公司的工程师以及](../Page/苹果公司.md "wikilink")[Adobe
-Systems艺术总监罗素](../Page/Adobe_Systems.md "wikilink")·布朗展示了Photoshop。两边的展示都很成功，最终在1988年9月[Adobe决定买下Photoshop的发行权](../Page/Adobe.md "wikilink")\[2\]。此时约翰在[加利福尼亚州致力于](../Page/加利福尼亚州.md "wikilink")[插件开发](../Page/插件.md "wikilink")，而托马斯仍然在[密歇根州](../Page/密歇根州.md "wikilink")[安娜堡编写代码](../Page/安娜堡.md "wikilink")。
+在这期间，约翰前往[硅谷向](../Page/硅谷.md "wikilink")[苹果公司的工程师以及](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Adobe
+Systems艺术总监罗素](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")·布朗展示了Photoshop。两边的展示都很成功，最终在1988年9月[Adobe决定买下Photoshop的发行权](../Page/Adobe.md "wikilink")\[2\]。此时约翰在[加利福尼亚州致力于](../Page/加利福尼亚州.md "wikilink")[插件开发](../Page/插件.md "wikilink")，而托马斯仍然在[密歇根州](../Page/密歇根州.md "wikilink")[安娜堡编写代码](../Page/安娜堡.md "wikilink")。
 
-1990年，Photoshop 1.0版本发布，只有[苹果机系统版本](../Page/苹果机.md "wikilink")\[3\]。
+1990年，Photoshop
+1.0版本发布，只有[苹果机系统版本](https://zh.wikipedia.org/wiki/苹果机 "wikilink")\[3\]。
 
 1991年，发行Photoshop
-2.5版本，Photoshop正式开始支持[Windows操作系统](../Page/Windows.md "wikilink")\[4\]。
+2.5版本，Photoshop正式开始支持[Windows操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")\[4\]。
 
 1995年，发行Photoshop 3.0版本，增加了图层功能\[5\]。
 
 1998年，发行Photoshop 5.02，开始支持中文\[6\]。
 
 1999年2月，发行Photoshop
-5.5，此版本中捆绑了一个独立的软件[ImageReady](../Page/ImageReady.md "wikilink")，加强了Photoshop对网络图像（主要是[GIF图像文件](../Page/GIF.md "wikilink")）的支持功能\[7\]。
+5.5，此版本中捆绑了一个独立的软件[ImageReady](https://zh.wikipedia.org/wiki/ImageReady "wikilink")，加强了Photoshop对网络图像（主要是[GIF图像文件](../Page/GIF.md "wikilink")）的支持功能\[7\]。
 
 2003年9月，发行[Adobe Creative
 Suite套装](../Page/Adobe_Creative_Suite.md "wikilink")，将Adobe
@@ -67,33 +69,33 @@ CS4，开始原生支援64位元系统。在软件安裝過程中，若安裝程
 2017年10月18日 , 发行Photoshop CC 2018。
 
 Photoshop被人们认为是最好的图像处理软件，但与著名的[3D Studio
-Max一样](../Page/3D_Studio_Max.md "wikilink")，昂贵的价格使其难以普及。但Adobe为了向中国大陆推广，在2011年推出了“校园先锋计划”，价格大幅降低，比如原价7707元人民幣的Adobe
+Max一样](https://zh.wikipedia.org/wiki/3D_Studio_Max "wikilink")，昂贵的价格使其难以普及。但Adobe为了向中国大陆推广，在2011年推出了“校园先锋计划”，价格大幅降低，比如原价7707元人民幣的Adobe
 Photoshop CS5 Extended在此计划中只卖349元人民幣。不过此计划只面向大学生与高校教师\[13\]\[14\]。
 
 ## Photoshop支持的图片文件格式
 
-  - .[PSD](../Page/PSD.md "wikilink")：这是Photoshop默认保存的文件格式，PSD是**P**hoto
+  - .[PSD](https://zh.wikipedia.org/wiki/PSD "wikilink")：这是Photoshop默认保存的文件格式，PSD是**P**hoto
     **S**hop
-    **D**ocument的缩写。该格式可以保留所有有[图层](../Page/图层.md "wikilink")、[色板](../Page/色板.md "wikilink")、[遮色片](../Page/遮色片.md "wikilink")、路径、未點陣化文字以及图层样式等，但無法保存文件的操作历史记录。Adobe其他软件产品，例如[Premiere](../Page/Adobe_Premiere_Pro.md "wikilink")、[Indesign](../Page/Adobe_Indesign.md "wikilink")、[Illustrator等可以直接导入PSD文件](../Page/Adobe_Illustrator.md "wikilink")。
-  - .[PSB](../Page/PSB.md "wikilink")：PSB是**P**hoto**s**hop
-    **B**ig的缩写，该格式最高可保存寬度和高度不超过300,000像素的图像文件，此格式用於檔案大小超過2[Gigabyte的檔案](../Page/Gigabyte.md "wikilink")，但只能在新版Photoshop中打开，其他软件以及旧版Photoshop不支持。
-  - .[PDD](../Page/PDD.md "wikilink")：PDD是**P**hoto**D**eluxe
+    **D**ocument的缩写。该格式可以保留所有有[图层](https://zh.wikipedia.org/wiki/图层 "wikilink")、[色板](https://zh.wikipedia.org/wiki/色板 "wikilink")、[遮色片](https://zh.wikipedia.org/wiki/遮色片 "wikilink")、路径、未點陣化文字以及图层样式等，但無法保存文件的操作历史记录。Adobe其他软件产品，例如[Premiere](../Page/Adobe_Premiere_Pro.md "wikilink")、[Indesign](https://zh.wikipedia.org/wiki/Adobe_Indesign "wikilink")、[Illustrator等可以直接导入PSD文件](../Page/Adobe_Illustrator.md "wikilink")。
+  - .[PSB](https://zh.wikipedia.org/wiki/PSB "wikilink")：PSB是**P**hoto**s**hop
+    **B**ig的缩写，该格式最高可保存寬度和高度不超过300,000像素的图像文件，此格式用於檔案大小超過2[Gigabyte的檔案](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")，但只能在新版Photoshop中打开，其他软件以及旧版Photoshop不支持。
+  - .[PDD](https://zh.wikipedia.org/wiki/PDD "wikilink")：PDD是**P**hoto**D**eluxe
     **D**ocument的缩写，此格式只用來支援[Photo
-    Deluxe的功能](../Page/Photo_Deluxe.md "wikilink")。Photo
+    Deluxe的功能](https://zh.wikipedia.org/wiki/Photo_Deluxe "wikilink")。Photo
     Deluxe已經停止開發。
   - .[RAW](../Page/RAW.md "wikilink")：Photoshop
-    RAW具[Alpha通道的](../Page/Alpha通道.md "wikilink")[RGB](../Page/RGB.md "wikilink")、[CMYK和灰度模式](../Page/CMYK.md "wikilink")，以及没有Alpha通道的Lab、多通道、索引和双色调模式。
-  - .[BMP](../Page/BMP.md "wikilink")：BMP是[Windows操作系统专有的图像格式](../Page/Windows.md "wikilink")，用于保存[點陣圖文件](../Page/點陣圖.md "wikilink")，最高可处理24位元图像，支持點陣圖、灰度、索引和RGB模式，但不支持Alpha通道。
+    RAW具[Alpha通道的](https://zh.wikipedia.org/wiki/Alpha通道 "wikilink")[RGB](https://zh.wikipedia.org/wiki/RGB "wikilink")、[CMYK和灰度模式](https://zh.wikipedia.org/wiki/CMYK "wikilink")，以及没有Alpha通道的Lab、多通道、索引和双色调模式。
+  - .[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")：BMP是[Windows操作系统专有的图像格式](https://zh.wikipedia.org/wiki/Windows "wikilink")，用于保存[點陣圖文件](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")，最高可处理24位元图像，支持點陣圖、灰度、索引和RGB模式，但不支持Alpha通道。
   - .[GIF](../Page/GIF.md "wikilink")：GIF因其采用LZW无损压缩方式并且支持透明背景和动画，被广泛运用于网络中。
-  - .[EPS](../Page/EPS.md "wikilink")：EPS是用于[Postscript打印机上输出图像的文件格式](../Page/Postscript.md "wikilink")，大多数图像处理软件都支持该格式。EPS格式能同时包含位图图像和[矢量图形](../Page/矢量.md "wikilink")，并支持位图、灰度、索引、Lab、双色调、RGB以及CMYK。
-  - .[PDF](../Page/PDF.md "wikilink")：便携文档格式PDF支持索引、灰度、位图、RGB、CMYK以及Lab模式。具有文档搜索和导航功能，同样支持位图和矢量。
-  - .[PNG](../Page/PNG.md "wikilink")：PNG作为GIF的替代品，可以无损压缩图像，并最高支持244位图像并产生无锯齿状的[透明度](../Page/透明度.md "wikilink")。但一些旧版浏览器（例如：[IE5](../Page/IE5.md "wikilink")）不支持PNG格式。
-  - .[TIFF](../Page/TIFF.md "wikilink")：TIFF作为通用文件格式，绝大多数[绘图软件](../Page/绘图软件.md "wikilink")、图像编辑软件以及排版软件都支持该格式，并且[扫描仪也支持导出该格式的文件](../Page/扫描仪.md "wikilink")。
-  - .[JPEG](../Page/JPEG.md "wikilink")：JPEG和[JPG一样是一种在现行网络上被广泛应用的采用有损压缩方式的文件格式](../Page/JPG.md "wikilink")，JPEG支持位图、索引、灰度和RGB模式，但不支持Alpha通道。
+  - .[EPS](../Page/EPS.md "wikilink")：EPS是用于[Postscript打印机上输出图像的文件格式](https://zh.wikipedia.org/wiki/Postscript "wikilink")，大多数图像处理软件都支持该格式。EPS格式能同时包含位图图像和[矢量图形](https://zh.wikipedia.org/wiki/矢量 "wikilink")，并支持位图、灰度、索引、Lab、双色调、RGB以及CMYK。
+  - .[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")：便携文档格式PDF支持索引、灰度、位图、RGB、CMYK以及Lab模式。具有文档搜索和导航功能，同样支持位图和矢量。
+  - .[PNG](../Page/PNG.md "wikilink")：PNG作为GIF的替代品，可以无损压缩图像，并最高支持244位图像并产生无锯齿状的[透明度](https://zh.wikipedia.org/wiki/透明度 "wikilink")。但一些旧版浏览器（例如：[IE5](https://zh.wikipedia.org/wiki/IE5 "wikilink")）不支持PNG格式。
+  - .[TIFF](../Page/TIFF.md "wikilink")：TIFF作为通用文件格式，绝大多数[绘图软件](https://zh.wikipedia.org/wiki/绘图软件 "wikilink")、图像编辑软件以及排版软件都支持该格式，并且[扫描仪也支持导出该格式的文件](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")。
+  - .[JPEG](../Page/JPEG.md "wikilink")：JPEG和[JPG一样是一种在现行网络上被广泛应用的采用有损压缩方式的文件格式](https://zh.wikipedia.org/wiki/JPG "wikilink")，JPEG支持位图、索引、灰度和RGB模式，但不支持Alpha通道。
 
 ## 特性
 
-Photoshop主要处理以[像素所構成的數位影像](../Page/像素.md "wikilink")。使用其众多的編修與繪圖工具，可以更有效的进行图片编辑工作。独特的历史纪录浮動視窗和可编辑的图层效果功能使用户可以方便的测试效果。对各种[滤镜的支持更令使用户能够轻松创造出各种奇幻的效果](../Page/滤镜.md "wikilink")。
+Photoshop主要处理以[像素所構成的數位影像](../Page/像素.md "wikilink")。使用其众多的編修與繪圖工具，可以更有效的进行图片编辑工作。独特的历史纪录浮動視窗和可编辑的图层效果功能使用户可以方便的测试效果。对各种[滤镜的支持更令使用户能够轻松创造出各种奇幻的效果](https://zh.wikipedia.org/wiki/滤镜 "wikilink")。
 
 ## 彩蛋
 
@@ -101,7 +103,7 @@ Photoshop主要处理以[像素所構成的數位影像](../Page/像素.md "wiki
 
 [Photoshop_Easter_egg.png](https://zh.wikipedia.org/wiki/File:Photoshop_Easter_egg.png "fig:Photoshop_Easter_egg.png")
 
-  - 在「-{zh-cn:首选项;zh-tw:偏好設定}-」中的「-{zh-cn:界面;zh-tw:介面}-」選項，按住Shift+Ctrl+Alt鍵，點選顏色主題的任一-{zh-cn:图标;zh-tw:圖示}-，即可發現-{zh-cn:图标;zh-tw:圖示}-皆變成了[咖啡杯和](../Page/咖啡杯.md "wikilink")[面包](../Page/吐司.md "wikilink")；而点击Alt+Shift键，則变成了吐司面包。
+  - 在「-{zh-cn:首选项;zh-tw:偏好設定}-」中的「-{zh-cn:界面;zh-tw:介面}-」選項，按住Shift+Ctrl+Alt鍵，點選顏色主題的任一-{zh-cn:图标;zh-tw:圖示}-，即可發現-{zh-cn:图标;zh-tw:圖示}-皆變成了[咖啡杯和](https://zh.wikipedia.org/wiki/咖啡杯 "wikilink")[面包](https://zh.wikipedia.org/wiki/吐司 "wikilink")；而点击Alt+Shift键，則变成了吐司面包。
 
 [Photoshop_Easter_egg02.png](https://zh.wikipedia.org/wiki/File:Photoshop_Easter_egg02.png "fig:Photoshop_Easter_egg02.png")
 [Photoshop_Easter_egg03.png](https://zh.wikipedia.org/wiki/File:Photoshop_Easter_egg03.png "fig:Photoshop_Easter_egg03.png")
@@ -301,7 +303,7 @@ Photoshop CC目前提供以下语言版本：
 <td><p><small>CS（8.0）</small></p></td>
 <td><p><small>Mac OS X, Windows</small></p></td>
 <td><p><small><strong>Dark Matter<br />
-<a href="../Page/暗物質.md" title="wikilink">暗物質</a></strong></small></p></td>
+<a href="https://zh.wikipedia.org/wiki/暗物質" title="wikilink">暗物質</a></strong></small></p></td>
 <td><p><small>2003年10月</small></p></td>
 <td><ul>
 <li>支援相機RAW 2.x</li>
@@ -310,8 +312,8 @@ Photoshop CC目前提供以下语言版本：
 <li>顏色匹配命令</li>
 <li>"鏡頭模糊"濾鏡</li>
 <li>實時柱狀圖</li>
-<li>Detection and refusal to print scanned images of various <a href="../Page/banknote.md" title="wikilink">banknotes</a>[16]</li>
-<li>使用<a href="../Page/Safecast.md" title="wikilink">Safecast的</a><a href="../Page/Digital_Rights_Management.md" title="wikilink">DRM複製保護技術</a></li>
+<li>Detection and refusal to print scanned images of various <a href="https://zh.wikipedia.org/wiki/banknote" title="wikilink">banknotes</a>[16]</li>
+<li>使用<a href="https://zh.wikipedia.org/wiki/Safecast" title="wikilink">Safecast的</a><a href="https://zh.wikipedia.org/wiki/Digital_Rights_Management" title="wikilink">DRM複製保護技術</a></li>
 <li>支援<a href="../Page/JavaScript.md" title="wikilink">JavaScript腳本語言及其他語言</a></li>
 </ul></td>
 </tr>
@@ -332,7 +334,7 @@ Photoshop CC目前提供以下语言版本：
 <li>Smart Guides</li>
 <li>消失點滤镜</li>
 <li>改善64-bit PowerPC G5 Macintosh電腦運行Mac OS X 10.4時的記憶體管理</li>
-<li>支援<a href="../Page/高動態範圍成像.md" title="wikilink">高動態範圍成像</a>（High Dynamic Range Imaging）</li>
+<li>支援<a href="https://zh.wikipedia.org/wiki/高動態範圍成像" title="wikilink">高動態範圍成像</a>（High Dynamic Range Imaging）</li>
 <li>More smudging options, such as "Scattering"</li>
 <li>改善圖層選取（可選取多於一個圖層）</li>
 </ul></td>
@@ -346,7 +348,7 @@ Photoshop CC目前提供以下语言版本：
 <td><ul>
 <li>可以使用於英特爾的麥金塔平臺，增進對Windows Vista的支援</li>
 <li>全新的使用者介面</li>
-<li>Feature additions to Adobe <a href="../Page/Camera_RAW.md" title="wikilink">Camera RAW</a></li>
+<li>Feature additions to Adobe <a href="https://zh.wikipedia.org/wiki/Camera_RAW" title="wikilink">Camera RAW</a></li>
 <li>快速選取工具</li>
 <li>曲線、消失點、色版混合器、亮度和對比度、列印對話窗的改進</li>
 <li>黑白轉換調整</li>
@@ -504,7 +506,7 @@ Photoshop CC目前提供以下语言版本：
 <td><p><small>CC 2017 (18.0)</p></td>
 <td><p><small>Mac OS X, Windows</p></td>
 <td><p><small><strong>Big Rig<br />
-<a href="../Page/半挂式卡车.md" title="wikilink">大钻机</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/半挂式卡车" title="wikilink">大钻机</a></strong></p></td>
 <td><p><small>2016年11月2日</small></p></td>
 <td></td>
 </tr>
@@ -540,12 +542,14 @@ Photoshop CC目前提供以下语言版本：
 
 ## 同类应用
 
-  - [Sketch (软件)](../Page/Sketch_\(软件\).md "wikilink")
+  - [Sketch
+    (软件)](https://zh.wikipedia.org/wiki/Sketch_\(软件\) "wikilink")
   - Figma
   - [Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")
-  - [Affinity Designer](../Page/Affinity_Designer.md "wikilink")
+  - [Affinity
+    Designer](https://zh.wikipedia.org/wiki/Affinity_Designer "wikilink")
   - [Adobe Experience
-    Design](../Page/Adobe_Experience_Design.md "wikilink")
+    Design](https://zh.wikipedia.org/wiki/Adobe_Experience_Design "wikilink")
 
 ## 参考文献
 

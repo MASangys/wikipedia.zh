@@ -1,39 +1,39 @@
 **VBScript**是**Visual Basic
-Script**的简称，有时也被缩写为VBS。VBScript是[微软开发的一种](../Page/微软.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，可以看作是[VB语言的简化版](../Page/VB.md "wikilink")，与[Visual
+Script**的简称，有时也被缩写为VBS。VBScript是[微软开发的一种](../Page/微软.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，可以看作是[VB语言的简化版](https://zh.wikipedia.org/wiki/VB "wikilink")，与[Visual
 Basic for
 Applications的关系也非常密切](../Page/Visual_Basic_for_Applications.md "wikilink")。它具有原语言容易学习的特性。目前这种语言广泛应用于网页和ASP程序制作，同时还可以直接作为一个可执行程序。用于调试简单的VB语句非常方便。
 
 ## 使用范围
 
-由于VBScript可以通过[Windows脚本宿主调用](../Page/Windows脚本宿主.md "wikilink")[COM](../Page/COM.md "wikilink")，因而可以使用[Windows操作系统中可以被使用的程序](../Page/Windows.md "wikilink")[库](../Page/库.md "wikilink")，比如它可以使用[Microsoft
+由于VBScript可以通过[Windows脚本宿主调用](https://zh.wikipedia.org/wiki/Windows脚本宿主 "wikilink")[COM](https://zh.wikipedia.org/wiki/COM "wikilink")，因而可以使用[Windows操作系统中可以被使用的程序](https://zh.wikipedia.org/wiki/Windows "wikilink")[库](https://zh.wikipedia.org/wiki/库 "wikilink")，比如它可以使用[Microsoft
 Office的库](../Page/Microsoft_Office.md "wikilink")，尤其是使用[Microsoft
 Access和](../Page/Microsoft_Access.md "wikilink")[Microsoft SQL
-Server的程序库](../Page/Microsoft_SQL_Server.md "wikilink")，当然它也可以使用其它程序和操作系统本身的库。在实践中VBScript一般被用在以下三个方面：
+Server的程序库](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，当然它也可以使用其它程序和操作系统本身的库。在实践中VBScript一般被用在以下三个方面：
 
 ### Windows操作系统
 
 VBScript可以被用来自动地完成重复性的Windows操作系统任务。在Windows操作系统中，VBScript可以在[Windows
 Script
 Host的范围内运行](../Page/Windows_Script_Host.md "wikilink")。Windows操作系统可以自动辨认和执行\*.VBS和\*.WSF两种文件格式，此外[Internet
-Explorer可以执行HTA和CHM文件格式](../Page/Internet_Explorer.md "wikilink")。VBS和WSF文件完全是文字式的，它们-{只}-能通过少数几种对话窗口与用户通讯。HTA和CHM文件使用HTML格式，它们的程序码可以像HTML一样被编辑和检查。在WSF、HTA和CHM文件中VBScript和JavaScript的程序码可以任意混合。HTA文件实际上是加有VBS、JavaScript成分的HTML文件。CHM文件是一种[在线帮助](../Page/在线帮助.md "wikilink")，用户可以使用专门的编辑程序将HTML程序编辑为CHM。
+Explorer可以执行HTA和CHM文件格式](../Page/Internet_Explorer.md "wikilink")。VBS和WSF文件完全是文字式的，它们-{只}-能通过少数几种对话窗口与用户通讯。HTA和CHM文件使用HTML格式，它们的程序码可以像HTML一样被编辑和检查。在WSF、HTA和CHM文件中VBScript和JavaScript的程序码可以任意混合。HTA文件实际上是加有VBS、JavaScript成分的HTML文件。CHM文件是一种[在线帮助](https://zh.wikipedia.org/wiki/在线帮助 "wikilink")，用户可以使用专门的编辑程序将HTML程序编辑为CHM。
 
 Windows 操作系统也提供一些 VBScript 脚本来进行高级管理功能，例如管理 Windows 激活密钥的
-[slmgr.vbs](../Page/slmgr.vbs.md "wikilink")（Windows Server License
-Manager Script）。
+[slmgr.vbs](https://zh.wikipedia.org/wiki/slmgr.vbs "wikilink")（Windows
+Server License Manager Script）。
 
 ### 网页浏览器（客户端的VBS）
 
-网页中的VBS可以用来控制客户端的网页浏览器（以浏览器执行VBS程序）。VBS与JavaScript在这一方面是竞争者，它们可以用来实现[动态HTML](../Page/DHTML.md "wikilink")，甚至可以将整个[程式结合到](../Page/程式.md "wikilink")[网页中来](../Page/网页.md "wikilink")。
+网页中的VBS可以用来控制客户端的网页浏览器（以浏览器执行VBS程序）。VBS与JavaScript在这一方面是竞争者，它们可以用来实现[动态HTML](https://zh.wikipedia.org/wiki/DHTML "wikilink")，甚至可以将整个[程式结合到](https://zh.wikipedia.org/wiki/程式 "wikilink")[网页中来](https://zh.wikipedia.org/wiki/网页 "wikilink")。
 
 至今为止VBS在客户方面未能占优势，因为它只获得Microsoft Internet Explorer的支持（[Mozilla
-Suite可以透过安裝一个](../Page/Mozilla_Suite.md "wikilink")[套件来支援VBS](../Page/Firefox擴充套件列表.md "wikilink")），并且[IE11起已不再支持VBScript](../Page/Internet_Explorer_11.md "wikilink")\[1\]。而JavaScript则受到所有网页浏览器的支援。在Internet
+Suite可以透过安裝一个](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")[套件来支援VBS](https://zh.wikipedia.org/wiki/Firefox擴充套件列表 "wikilink")），并且[IE11起已不再支持VBScript](../Page/Internet_Explorer_11.md "wikilink")\[1\]。而JavaScript则受到所有网页浏览器的支援。在Internet
 Explorer中VBS和JavaScript使用同样的權限，它们-{只}-能有限地使用Windows操作系统中的对象。
 
 ### 网页服务器（服务器方面的VBS）
 
 在网页服务器方面VBS是微软的[Active Server
 Pages的一部分](../Page/Active_Server_Pages.md "wikilink")，它与[JavaServer
-Pages和](../Page/JSP.md "wikilink")[PHP是竞争对手](../Page/PHP.md "wikilink")。在这里VBS的程序码直接嵌入到[HTML页内](../Page/HTML.md "wikilink")，这样的网页以ASP结尾。[网页服务器](../Page/网页服务器.md "wikilink")[Internet信息服务执行ASP页内的程序部分并将其结果转化为HTML传递给网页浏览器供用户使用](../Page/Internet信息服务.md "wikilink")。这样服务器可以进行数据库闻讯并将其结果放到HTML网页中。
+Pages和](../Page/JSP.md "wikilink")[PHP是竞争对手](../Page/PHP.md "wikilink")。在这里VBS的程序码直接嵌入到[HTML页内](../Page/HTML.md "wikilink")，这样的网页以ASP结尾。[网页服务器](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")[Internet信息服务执行ASP页内的程序部分并将其结果转化为HTML传递给网页浏览器供用户使用](https://zh.wikipedia.org/wiki/Internet信息服务 "wikilink")。这样服务器可以进行数据库闻讯并将其结果放到HTML网页中。
 
 ## 示范
 
@@ -67,8 +67,8 @@ MsgBox "The result is " & x
 
 ### 终止任务
 
-VBScript能访问[Windows管理规范](../Page/Windows管理规范.md "wikilink")
-(WMI)，就像[Windows任务管理器](../Page/Windows任务管理器.md "wikilink")。以下的代码执行时将会终止（“杀掉”）任何关于*notepad.exe*的进程。
+VBScript能访问[Windows管理规范](https://zh.wikipedia.org/wiki/Windows管理规范 "wikilink")
+(WMI)，就像[Windows任务管理器](https://zh.wikipedia.org/wiki/Windows任务管理器 "wikilink")。以下的代码执行时将会终止（“杀掉”）任何关于*notepad.exe*的进程。
 
 ``` vb
 'Terminate all processes involving the name <strProcessToKill>
@@ -90,7 +90,7 @@ Next
 ```
 
 使用*Option
-Explicit*并不是必须的，但它被认为是VBScript的[最佳实践](../Page/最佳实践.md "wikilink")。\[2\]\[3\]
+Explicit*并不是必须的，但它被认为是VBScript的[最佳实践](https://zh.wikipedia.org/wiki/最佳实践 "wikilink")。\[2\]\[3\]
 
 ### 创建具有唯一的名称的十个文件
 
@@ -210,7 +210,7 @@ VBScript主要的优点有：
 
 在VB中，为变量定义类型使用Dim变量名As类型
 
-但是在VBScript中这样写是错误的，VBScript中的变量都是弱类型（即Variant变体），因此它不需要指定其类型。-{只}-能使用Dim变量名，[解释器会自动根据](../Page/解释器.md "wikilink")[赋值的类型定义变量类型](../Page/赋值.md "wikilink")。
+但是在VBScript中这样写是错误的，VBScript中的变量都是弱类型（即Variant变体），因此它不需要指定其类型。-{只}-能使用Dim变量名，[解释器会自动根据](https://zh.wikipedia.org/wiki/解释器 "wikilink")[赋值的类型定义变量类型](https://zh.wikipedia.org/wiki/赋值 "wikilink")。
 
 ### 不能使用条件编译
 
@@ -224,7 +224,7 @@ VBScript主要的优点有：
 微软决定Outlook和[Outlook
 Express中的HTML邮件可以使用VBScript后出现了许多利用Windows](../Page/Outlook_Express.md "wikilink")
 Script
-Host和[ActiveX的功能的](../Page/ActiveX.md "wikilink")[电脑病毒](../Page/电脑病毒.md "wikilink")。这些病毒之所以能够传播开来也是因为一开始这些系统功能完全未受保护。虽然VBScript和JavaScript使用同样的使用操作系统的功能的安全措施，今天呼唤这些功能被看作不符合标准。
+Host和[ActiveX的功能的](../Page/ActiveX.md "wikilink")[电脑病毒](https://zh.wikipedia.org/wiki/电脑病毒 "wikilink")。这些病毒之所以能够传播开来也是因为一开始这些系统功能完全未受保护。虽然VBScript和JavaScript使用同样的使用操作系统的功能的安全措施，今天呼唤这些功能被看作不符合标准。
 
 一般很难保护VBScript的程序码不被用户看到。
 

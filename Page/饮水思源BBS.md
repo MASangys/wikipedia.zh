@@ -1,6 +1,6 @@
 [SJTUBBS_web.PNG](https://zh.wikipedia.org/wiki/File:SJTUBBS_web.PNG "fig:SJTUBBS_web.PNG")
 
-**饮水思源BBS**，全称为**[上海交通大学饮水思源BBS站](../Page/上海交通大学.md "wikilink")**，由上海交通大学的唐双意老师和学生方哲（账号Only）、陶冶（账号ty）等人于1996年4月18日创建，站名取自上海交通大学的校训“饮水思源，爱国荣校”。目前其主管部门是上海交通大学网络信息工作领导小组，现有版面450个\[1\]。
+**饮水思源BBS**，全称为**[上海交通大学饮水思源BBS站](https://zh.wikipedia.org/wiki/上海交通大学 "wikilink")**，由上海交通大学的唐双意老师和学生方哲（账号Only）、陶冶（账号ty）等人于1996年4月18日创建，站名取自上海交通大学的校训“饮水思源，爱国荣校”。目前其主管部门是上海交通大学网络信息工作领导小组，现有版面450个\[1\]。
 
 ## 历史
 
@@ -36,7 +36,7 @@
 
 ## 外部链接
 
-  - 上海交通大学饮水思源BBS站[Web界面](../Page/Web.md "wikilink")：<http://bbs.sjtu.edu.cn>
+  - 上海交通大学饮水思源BBS站[Web界面](https://zh.wikipedia.org/wiki/Web "wikilink")：<http://bbs.sjtu.edu.cn>
   - 上海交通大学饮水思源BBS站[Telnet界面](../Page/Telnet.md "wikilink")：<telnet://bbs.sjtu.edu.cn>
 
 {{-}}

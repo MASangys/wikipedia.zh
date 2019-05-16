@@ -1,17 +1,17 @@
-**Dreammail**是一款在[Microsoft](../Page/Microsoft.md "wikilink")
-[Windows平台上运行的免费的专业](../Page/Windows.md "wikilink")[电子邮件客户端软件](../Page/电子邮件客户端.md "wikilink")，用于管理和收发[电子邮件](../Page/电子邮件.md "wikilink")。它采用多用户和多账号方式来管理电子邮件，支持
-[SMTP](../Page/SMTP.md "wikilink")、[ESMTP](../Page/ESMTP.md "wikilink")、[POP3等邮件协议](../Page/POP3.md "wikilink")，并支持接收[Hotmail](../Page/Hotmail.md "wikilink")、[Yahoo的](../Page/Yahoo.md "wikilink")[Webmail的邮件](../Page/Webmail.md "wikilink")
+**Dreammail**是一款在[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+[Windows平台上运行的免费的专业](https://zh.wikipedia.org/wiki/Windows "wikilink")[电子邮件客户端软件](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")，用于管理和收发[电子邮件](../Page/电子邮件.md "wikilink")。它采用多用户和多账号方式来管理电子邮件，支持
+[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")、[ESMTP](https://zh.wikipedia.org/wiki/ESMTP "wikilink")、[POP3等邮件协议](https://zh.wikipedia.org/wiki/POP3 "wikilink")，并支持接收[Hotmail](https://zh.wikipedia.org/wiki/Hotmail "wikilink")、[Yahoo的](https://zh.wikipedia.org/wiki/Yahoo "wikilink")[Webmail的邮件](../Page/Webmail.md "wikilink")
 ，但不支持IMAP协议，支持SSL加密，却不支持TSL加密。真正采用[多线程高速收发邮件](../Page/多线程.md "wikilink")。附带增强型远程管理，可以直接查看服务器上邮件的内容、可以在服务器上直接删除邮件；邮件过滤器、黑名单及白名单等组合使用，能有效对付垃圾邮件；DreamMail能自动检测破坏性邮件，增强系统安全；另外，DreamMail还支持特快专递、语音邮件、匿名发送及群组发送等。
 
 DreamMail全面支持 [HTML](../Page/HTML.md "wikilink")
-邮件、邮件模板、邮件签名以及备份和管理电子邮件；特有的破乱码技术，轻松对付各种[乱码邮件](../Page/乱码.md "wikilink")；内建了邮件压缩存储，能占用更少的硬盘空间；编辑邮件时能自动存盘防止死机断电；拖曳附件到预览窗口即可直接预览；自动删除[垃圾邮件和废纸篓](../Page/垃圾邮件.md "wikilink")。此外，它还集成了许多特色功能，比如：添加账号时自动检索
-[POP3](../Page/POP3.md "wikilink")／[SMTP服务器](../Page/SMTP.md "wikilink")；可以自定义动态滚动新闻；可以删除附件以减少硬盘存储量；能够编辑接收到的邮件；支持显示发件人地址及插入邮件表情等等。
+邮件、邮件模板、邮件签名以及备份和管理电子邮件；特有的破乱码技术，轻松对付各种[乱码邮件](https://zh.wikipedia.org/wiki/乱码 "wikilink")；内建了邮件压缩存储，能占用更少的硬盘空间；编辑邮件时能自动存盘防止死机断电；拖曳附件到预览窗口即可直接预览；自动删除[垃圾邮件和废纸篓](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")。此外，它还集成了许多特色功能，比如：添加账号时自动检索
+[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")／[SMTP服务器](https://zh.wikipedia.org/wiki/SMTP "wikilink")；可以自定义动态滚动新闻；可以删除附件以减少硬盘存储量；能够编辑接收到的邮件；支持显示发件人地址及插入邮件表情等等。
 
 ## 历史
 
-  - 2000年Dreammail雏形诞生，以[曾溪泉](../Page/曾溪泉.md "wikilink")，盛泉虎(DreamTiger)为主的团队开发了DreamMail，DreamMail
-    Plus！扩展包，邮件群发软件DreamGroup，编辑软件[DreamEdit](../Page/DreamEdit.md "wikilink")
-    、邮件服务器软件[DreamServer](../Page/DreamServer.md "wikilink")，还有其它的小的程序，比如：DreamTimer
+  - 2000年Dreammail雏形诞生，以[曾溪泉](https://zh.wikipedia.org/wiki/曾溪泉 "wikilink")，盛泉虎(DreamTiger)为主的团队开发了DreamMail，DreamMail
+    Plus！扩展包，邮件群发软件DreamGroup，编辑软件[DreamEdit](https://zh.wikipedia.org/wiki/DreamEdit "wikilink")
+    、邮件服务器软件[DreamServer](https://zh.wikipedia.org/wiki/DreamServer "wikilink")，还有其它的小的程序，比如：DreamTimer
     等等。因为这些软件都是以“Dream”开头的，所以就把他们的工作环境称为梦幻软件工作室。
 
 以前的这些软件都是个人的作品，仅作者和周围的朋友流传使用。随着时间的推移，Dreammail的使用者越来越多了起来。于是这个团队建立了梦幻快车（Dreammail）的[官方站点](http://www.dreammail.org)，同时，建立了官方论坛，将Dreammail系列的软件放到网上以吸引更多的反馈，并吸引更多的人加入到Dreammail的完善上来。
@@ -47,7 +47,7 @@ DreamMail主要功能：
   - 支持显示发件人所在地理位置
   - 支持获取收信人IP/设备/时间信息
   - 支持
-    [SMTP](../Page/SMTP.md "wikilink")、[ESMTP](../Page/ESMTP.md "wikilink")、[POP3](../Page/POP3.md "wikilink")
+    [SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")、[ESMTP](https://zh.wikipedia.org/wiki/ESMTP "wikilink")、[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")
     、IMAP等邮件协议
 
 <!-- end list -->
@@ -58,7 +58,7 @@ DreamMail主要功能：
   - 精准分发：数据发送更精准，适用于工资条群发
   - 增强型远程管理
   - 邮件过滤器、黑名单、白名单
-  - [反垃圾邮件](../Page/反垃圾邮件.md "wikilink")、检测破坏性邮件
+  - [反垃圾邮件](https://zh.wikipedia.org/wiki/反垃圾邮件 "wikilink")、检测破坏性邮件
   - 全面支持[HTML邮件](../Page/HTML.md "wikilink")
   - 备份和管理电子邮件
   - 支持邮件模板、邮件签名
@@ -68,19 +68,19 @@ DreamMail主要功能：
 
 ## 特色
 
-  - [绿色软件](../Page/绿色软件.md "wikilink")
+  - [绿色软件](https://zh.wikipedia.org/wiki/绿色软件 "wikilink")
   - 添加帐号时自动检索
-    [POP3](../Page/POP3.md "wikilink")／[SMTP](../Page/SMTP.md "wikilink")
+    [POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")／[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")
     服务器
   - 可以删除附件、减少硬盘存储量
   - 可以编辑收进来的邮件
-  - 破乱码技术，对付各种[乱码邮件](../Page/乱码邮件.md "wikilink")
+  - 破乱码技术，对付各种[乱码邮件](https://zh.wikipedia.org/wiki/乱码邮件 "wikilink")
   - 邮件编辑时定时存盘
-  - [匿名发送](../Page/匿名发送.md "wikilink")
+  - [匿名发送](https://zh.wikipedia.org/wiki/匿名发送 "wikilink")
   - 拽拉附件到预览窗口就可以直接预览
   - 自动删除垃圾邮件和废纸篓
   - 支持群组发送
-  - [语音邮件](../Page/语音邮件.md "wikilink")
+  - [语音邮件](https://zh.wikipedia.org/wiki/语音邮件 "wikilink")
   - 远程管理可以直接查看邮件内容
   - 便籤
   - 数据库安全可靠

@@ -1,17 +1,18 @@
-**Winamp**是一個由[Nullsoft公司開發的](../Page/Nullsoft.md "wikilink")[Windows與](../Page/Windows.md "wikilink")[Android下的](../Page/Android.md "wikilink")[媒體播放器軟件](../Page/媒體播放器.md "wikilink")，曾被售予[美國在線](../Page/美國在線.md "wikilink")，現為[Radionomy](https://en.wikipedia.org/wiki/Radionomy)旗下產品之一。Winamp支持多種媒體格式，支持[面板更換](../Page/面板.md "wikilink")，支持通過各種[插件擴充功能](../Page/插件.md "wikilink")，同時也具有最基本的播放列表和媒體庫功能。Winamp以其聲音效果、播放列表和媒體庫功能而出名。隨著MP3的共享，其知名度迅速增長，
+**Winamp**是一個由[Nullsoft公司開發的](https://zh.wikipedia.org/wiki/Nullsoft "wikilink")[Windows與](https://zh.wikipedia.org/wiki/Windows "wikilink")[Android下的](../Page/Android.md "wikilink")[媒體播放器軟件](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")，曾被售予[美國在線](https://zh.wikipedia.org/wiki/美國在線 "wikilink")，現為[Radionomy](https://en.wikipedia.org/wiki/Radionomy)旗下產品之一。Winamp支持多種媒體格式，支持[面板更換](https://zh.wikipedia.org/wiki/面板 "wikilink")，支持通過各種[插件擴充功能](../Page/插件.md "wikilink")，同時也具有最基本的播放列表和媒體庫功能。Winamp以其聲音效果、播放列表和媒體庫功能而出名。隨著MP3的共享，其知名度迅速增長，
 Winamp的作者是Justin Frankel、Dmitry Boldyrev和Shiva
-Ayyadurai。同時播放器包含[免費版和](../Page/免費軟件.md "wikilink")[共享版等版本](../Page/共享軟件.md "wikilink")。
+Ayyadurai。同時播放器包含[免費版和](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[共享版等版本](https://zh.wikipedia.org/wiki/共享軟件 "wikilink")。
 
-[AOL於](../Page/AOL.md "wikilink")2013年11月20日宣佈將於當年12月20日起關閉Winamp的網站，並不再維護暨提供下載服務\[1\]。2014年1月14日，[Radionomy](https://en.wikipedia.org/wiki/Radionomy)自AOL手中收購Winamp與網站[SHOUTcast](../Page/SHOUTcast.md "wikilink")。
+[AOL於](https://zh.wikipedia.org/wiki/AOL "wikilink")2013年11月20日宣佈將於當年12月20日起關閉Winamp的網站，並不再維護暨提供下載服務\[1\]。2014年1月14日，[Radionomy](https://en.wikipedia.org/wiki/Radionomy)自AOL手中收購Winamp與網站[SHOUTcast](https://zh.wikipedia.org/wiki/SHOUTcast "wikilink")。
 
 ## 特性
 
 ### 支援格式
 
-Winamp支援多種音訊格式的播放，包括[MP3](../Page/MP3.md "wikilink")、[MP2](../Page/MPEG-1_Audio_Layer_II.md "wikilink")、[MIDI](../Page/MIDI.md "wikilink")、[MOD](../Page/MOD.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[WMA等](../Page/Windows_Media_Audio.md "wikilink")，並且是Windows平台下首款可以預設支援Ogg的播放軟體\[2\]。另外，Winamp還支援MP3和AAC的無縫播放（即音樂文件之間無空隙播放），支援[回放增益](../Page/回放增益.md "wikilink")，支援音樂光碟，支援從光碟翻錄音樂和音樂[燒錄到光碟](../Page/光碟燒錄技術.md "wikilink")。不過，標準版對燒錄速度有限制，專業版則無\[3\]。
+Winamp支援多種音訊格式的播放，包括[MP3](../Page/MP3.md "wikilink")、[MP2](../Page/MPEG-1_Audio_Layer_II.md "wikilink")、[MIDI](../Page/MIDI.md "wikilink")、[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")、[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[WMA等](../Page/Windows_Media_Audio.md "wikilink")，並且是Windows平台下首款可以預設支援Ogg的播放軟體\[2\]。另外，Winamp還支援MP3和AAC的無縫播放（即音樂文件之間無空隙播放），支援[回放增益](../Page/回放增益.md "wikilink")，支援音樂光碟，支援從光碟翻錄音樂和音樂[燒錄到光碟](https://zh.wikipedia.org/wiki/光碟燒錄技術 "wikilink")。不過，標準版對燒錄速度有限制，專業版則無\[3\]。
 
-除音訊格式外，Winamp還支援播放[WMV和Nullsoft](../Page/WMV.md "wikilink") Streaming
-Video視訊格式。對於[MPEG](../Page/MPEG.md "wikilink")、[AVI等其它預設不支援的格式](../Page/AVI.md "wikilink")，Winamp則調用微軟的[DirectShow](../Page/DirectShow.md "wikilink")[应用程序接口進行播放](../Page/应用程序接口.md "wikilink")\[4\]。
+除音訊格式外，Winamp還支援播放[WMV和Nullsoft](https://zh.wikipedia.org/wiki/WMV "wikilink")
+Streaming
+Video視訊格式。對於[MPEG](../Page/MPEG.md "wikilink")、[AVI等其它預設不支援的格式](https://zh.wikipedia.org/wiki/AVI "wikilink")，Winamp則調用微軟的[DirectShow](../Page/DirectShow.md "wikilink")[应用程序接口進行播放](../Page/应用程序接口.md "wikilink")\[4\]。
 
 ### 媒体库
 
@@ -27,7 +28,7 @@ Winamp还可被用作[RSS媒体](../Page/RSS.md "wikilink")[聚合器](../Page/�
 
 ### 便攜式媒體播放器支持
 
-Winamp對一些便攜式媒體播放器提供擴展支持，並且包括USB存儲設備。比如同步[iPod中不受保護的音樂文件](../Page/iPod.md "wikilink")\[10\]\[11\]。
+Winamp對一些便攜式媒體播放器提供擴展支持，並且包括USB存儲設備。比如同步[iPod中不受保護的音樂文件](https://zh.wikipedia.org/wiki/iPod "wikilink")\[10\]\[11\]。
 
 ### 媒体监视
 
@@ -35,13 +36,13 @@ Winamp内置媒体监视功能，方便用户浏览和标签音乐博客，并�
 
 ### 远程控制
 
-Winamp內置遠程控制功能，方便用戶對互聯網上其它電腦內不受保護的音樂文件進行遠程回放，可根據頻寬調整比特率，並且可由[Wii](../Page/Wii.md "wikilink")、[PS3](../Page/PS3.md "wikilink")、[Xbox或手機進行控制](../Page/Xbox.md "wikilink")\[13\]。
+Winamp內置遠程控制功能，方便用戶對互聯網上其它電腦內不受保護的音樂文件進行遠程回放，可根據頻寬調整比特率，並且可由[Wii](../Page/Wii.md "wikilink")、[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[Xbox或手機進行控制](https://zh.wikipedia.org/wiki/Xbox "wikilink")\[13\]。
 
 ### 插件
 
 1998年2月，Winamp程序被重写为“通用音频播放器”（general purpose audio
 player），并采取插件支持构造，评论反馈良好\[14\]\[15\]。此后经过快速和多元化的开发，当年11月已经开发出66个插件\[16\]\[17\]，另外Winamp
-[SDK可方便开发人员开发出七种不同类型的插件](../Page/SDK.md "wikilink")。包括：
+[SDK可方便开发人员开发出七种不同类型的插件](https://zh.wikipedia.org/wiki/SDK "wikilink")。包括：
 
   - 输入：解码特殊格式；
   - 输出：将数据发送至特殊文件或装置；
@@ -55,12 +56,12 @@ player），并采取插件支持构造，评论反馈良好\[14\]\[15\]。此�
 
 ### 皮肤
 
-Winamp的皮膚實際上是位圖文件，用以更換程序的[GUI並可添加額外功能](../Page/GUI.md "wikilink")\[19\]。早在1998年Winamp
+Winamp的皮膚實際上是位圖文件，用以更換程序的[GUI並可添加額外功能](https://zh.wikipedia.org/wiki/GUI "wikilink")\[19\]。早在1998年Winamp
 2問世時，開發人員就發佈一份關於皮膚設計的文檔，邀請用戶將設計好的皮膚提交給官方網站。迄今為止已有約3000款皮膚誕生\[20\]\[21\]。這種皮膚設計反過來也加大Winamp本身的流行度\[22\]，並且這還影響同時期的其它播放軟件，比如[XMMS](../Page/XMMS.md "wikilink")，它可以使用Winamp
 2的面板\[23\]\[24\]。
 
 Winamp 5帶有兩種類型的皮膚：Winamp
-2的經典皮膚和Winamp3的現代皮膚，前者只是位圖的靜態集合，後者靈活性更高，並且帶有[阿爾法通道的透明特效](../Page/阿爾法通道.md "wikilink")，腳本控制，固定位置工具欄等其它改進\[25\]。
+2的經典皮膚和Winamp3的現代皮膚，前者只是位圖的靜態集合，後者靈活性更高，並且帶有[阿爾法通道的透明特效](https://zh.wikipedia.org/wiki/阿爾法通道 "wikilink")，腳本控制，固定位置工具欄等其它改進\[25\]。
 
 ## 历史
 
@@ -85,9 +86,9 @@ it really whips the llama's ass.）這一樣本也成為Winamp幾年內的標誌
 ### Winamp 2
 
 1998年9月8日，Winamp
-2正式發佈。這個版本得到廣泛的使用，並且讓Winamp成為下載次數最多的Windows軟件之一\[32\]。這個新版本增加播放列表的可用性，改進均衡器的精確度，增添更多的插件，並且播放列表和均衡器亦可以使用各種皮膚面板。1999年3月，Winamp開始改用[弗勞恩霍夫的MP](../Page/弗勞恩霍夫協會.md "wikilink")3解碼引擎。同月24日發佈的2.10版沒有作太多更新，只是給原來的那個音頻樣本添加打擊樂和羊叫聲效。
+2正式發佈。這個版本得到廣泛的使用，並且讓Winamp成為下載次數最多的Windows軟件之一\[32\]。這個新版本增加播放列表的可用性，改進均衡器的精確度，增添更多的插件，並且播放列表和均衡器亦可以使用各種皮膚面板。1999年3月，Winamp開始改用[弗勞恩霍夫的MP](https://zh.wikipedia.org/wiki/弗勞恩霍夫協會 "wikilink")3解碼引擎。同月24日發佈的2.10版沒有作太多更新，只是給原來的那個音頻樣本添加打擊樂和羊叫聲效。
 
-1999年6月，[美國在線以](../Page/美國在線.md "wikilink")8000萬美元收購Nullsoft\[33\]\[34\]。同年12月，Nullsoft重新發佈官方網頁，以方便用戶訪問各個技術板塊。次年6月22日，Winamp的註冊人數超過2500萬\[35\]。
+1999年6月，[美國在線以](https://zh.wikipedia.org/wiki/美國在線 "wikilink")8000萬美元收購Nullsoft\[33\]\[34\]。同年12月，Nullsoft重新發佈官方網頁，以方便用戶訪問各個技術板塊。次年6月22日，Winamp的註冊人數超過2500萬\[35\]。
 
 ### Winamp3
 
@@ -96,7 +97,7 @@ Winamp 2的下一个版本名叫Winamp3，如此命名表示其已经完全从Wi
 2两个系列是平行发展。
 
 不过，不少用户反馈，Winamp3资源占用率高，稳定性不佳，并且缺乏有价值的新功能，比如播放列表中曲目时间总长度计算\[36\]\[37\]，另外还无法[向下兼容Winamp](../Page/向下兼容.md "wikilink")
-2的皮肤和插件，也没有提供[SHOUTcast支持](../Page/SHOUTcast.md "wikilink")。
+2的皮肤和插件，也没有提供[SHOUTcast支持](https://zh.wikipedia.org/wiki/SHOUTcast "wikilink")。
 
 許多用戶回退到Winamp
 2，因此Nullsoft繼續開發2系列，並於2003年發佈2.9版、2.91版和2.95版\[38\]，其中2.95版已經附帶一些即將發佈的Winamp
@@ -119,13 +120,13 @@ Winamp支持同步便攜式媒體播放器，比如iPod，不過這一功能到5
 
 ## 复活节彩蛋
 
-Winamp的各个版本包含数个[彩蛋](../Page/彩蛋_\(视觉\).md "wikilink")。比如：软件原作者贾斯汀·弗兰克尔（Justin
+Winamp的各个版本包含数个[彩蛋](https://zh.wikipedia.org/wiki/彩蛋_\(视觉\) "wikilink")。比如：软件原作者贾斯汀·弗兰克尔（Justin
 Frankel）的照片，隐藏在程序的“关于”对话框中\[45\]。彩蛋随版本进化而变化，并且在非官方文档中可以找到\[46\]。
 
 ## 另見
 
-  - [媒體播放器列表](../Page/媒體播放器列表.md "wikilink")
-  - [媒體播放器比較](../Page/媒體播放器比較.md "wikilink")
+  - [媒體播放器列表](https://zh.wikipedia.org/wiki/媒體播放器列表 "wikilink")
+  - [媒體播放器比較](https://zh.wikipedia.org/wiki/媒體播放器比較 "wikilink")
 
 ## 参考来源
 
@@ -167,20 +168,21 @@ Frankel）的照片，隐藏在程序的“关于”对话框中\[45\]。彩蛋�
 8.  Van Buskirk, Eliot (November 10, 2007). ["Winamp Packs on Features
     for 10th-Anniversary
     Edition"](http://www.wired.com/software/softwarereviews/news/2007/10/winamp_review).
-    [Wired.com](../Page/Wired.com.md "wikilink"). Retrieved March 7,
-    2010.
+    [Wired.com](https://zh.wikipedia.org/wiki/Wired.com "wikilink").
+    Retrieved March 7, 2010.
 
 9.  Graffeo, Deana (September 14, 2005). ["AOL Introduces New Podcast
     Offerings"](http://www.timewarner.com/corp/newsroom/pr/0,20812,1104613,00.html)
-    *[AOL](../Page/AOL.md "wikilink")*; [Time
-    Warner](../Page/Time_Warner.md "wikilink"). Retrieved March 7, 2010.
+    *[AOL](https://zh.wikipedia.org/wiki/AOL "wikilink")*; [Time
+    Warner](https://zh.wikipedia.org/wiki/Time_Warner "wikilink").
+    Retrieved March 7, 2010.
 
 10.
 11. Hart-Davis, Guy (2007). ["How to do everything: iPod &
     iTunes"](http://books.google.com/books?id=ZO6h8bn1JcYC&pg=RA1-PA388&dq=Winamp&as_brr=3&ei=OaqKSviGMJXgNZW50IcM&client=opera#v=onepage&q=Winamp&f=false).
     McGraw-Hill. [Google
-    books](../Page/Google_Book_Search.md "wikilink"). Pp. 306-309. ISBN
-    978-0-07-226387-9. Retrieved March 7, 2010.
+    books](https://zh.wikipedia.org/wiki/Google_Book_Search "wikilink").
+    Pp. 306-309. ISBN 978-0-07-226387-9. Retrieved March 7, 2010.
 
 12.
 13.
@@ -255,8 +257,9 @@ Frankel）的照片，隐藏在程序的“关于”对话框中\[45\]。彩蛋�
 
 45. Beggs, Josh; Thede, Dylan (2001) ["Designing Web
     Audio"](http://books.google.com/books?id=EkCSeYHr134C&pg=PA189&dq=winamp+easter+eggs&hl=en&ei=qpGwS8zDC5KqtgOp8enPDQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDwQ6AEwAA#v=onepage&q=winamp%20easter%20eggs&f=false).
-    [O'Reilly Media](../Page/O'Reilly_Media.md "wikilink"), p. 189. ISBN
-    978-1-56592-353-9
+    [O'Reilly
+    Media](https://zh.wikipedia.org/wiki/O'Reilly_Media "wikilink"), p.
+    189. ISBN 978-1-56592-353-9
 
 46. Wolf, David; Wolf, Annette ["Application Easter Eggs -
     Winamp"](http://www.eeggs.com/tree/555.html) The Easter Egg Archive.

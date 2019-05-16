@@ -1,17 +1,21 @@
-**Compiere**是一套為[中小型企業而設計的](../Page/中小型企業.md "wikilink")[開源](../Page/開源軟體.md "wikilink")（OpenSource）[企業資源規劃](../Page/企業資源計劃.md "wikilink")（[ERP](../Page/ERP.md "wikilink")）與[客戶關係管理](../Page/客戶關係管理.md "wikilink")（[CRM](../Page/CRM.md "wikilink")）軟體。它是這個行業中少數不需要用戶支付巨額金錢去購買他們的軟體的一個異數。但由於Compiere公司忽略關注廣大用戶群體的需要，社群於[2006年9月在SourceForge上創建開放源碼項目](../Page/2006年9月.md "wikilink")[ADempiere系統](../Page/ADempiere.md "wikilink")。2011年社群创建
-[:draft:iDempiere系统](../Page/:draft:iDempiere.md "wikilink")。並引致Compiere於[2009年3月暫停開發](../Page/2009年3月.md "wikilink")。
+**Compiere**是一套為[中小型企業而設計的](https://zh.wikipedia.org/wiki/中小型企業 "wikilink")[開源](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")（OpenSource）[企業資源規劃](https://zh.wikipedia.org/wiki/企業資源計劃 "wikilink")（[ERP](https://zh.wikipedia.org/wiki/ERP "wikilink")）與[客戶關係管理](https://zh.wikipedia.org/wiki/客戶關係管理 "wikilink")（[CRM](https://zh.wikipedia.org/wiki/CRM "wikilink")）軟體。它是這個行業中少數不需要用戶支付巨額金錢去購買他們的軟體的一個異數。但由於Compiere公司忽略關注廣大用戶群體的需要，社群於[2006年9月在SourceForge上創建開放源碼項目](../Page/2006年9月.md "wikilink")[ADempiere系統](https://zh.wikipedia.org/wiki/ADempiere "wikilink")。2011年社群创建
+[:draft:iDempiere系统](https://zh.wikipedia.org/wiki/:draft:iDempiere "wikilink")。並引致Compiere於[2009年3月暫停開發](../Page/2009年3月.md "wikilink")。
 
 ## 網頁廣告
 
 Compiere在它的網頁登了這個廣告：
 
   -
-    [JD Ewards](../Page/JD_Ewards.md "wikilink") merged by
-    [PeopleSoft](../Page/PeopleSoft.md "wikilink") merged by
-    [Oracle](../Page/Oracle.md "wikilink")。[SAP](../Page/SAP公司.md "wikilink")
-    talking with [Microsoft](../Page/Microsoft.md "wikilink") about
-    [Navision](../Page/Navision.md "wikilink")，[Great
-    Plains](../Page/Great_Plains.md "wikilink")，[Solomon](../Page/Solomon.md "wikilink")。In
+    [JD Ewards](https://zh.wikipedia.org/wiki/JD_Ewards "wikilink")
+    merged by
+    [PeopleSoft](https://zh.wikipedia.org/wiki/PeopleSoft "wikilink")
+    merged by
+    [Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")。[SAP](../Page/SAP公司.md "wikilink")
+    talking with
+    [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+    about
+    [Navision](https://zh.wikipedia.org/wiki/Navision "wikilink")，[Great
+    Plains](https://zh.wikipedia.org/wiki/Great_Plains "wikilink")，[Solomon](https://zh.wikipedia.org/wiki/Solomon "wikilink")。In
     the next years, you will see a concentration of ERP/CRM vendors. As
     in the past, the "merged" product will be discontinued - sooner or
     later.
@@ -37,7 +41,7 @@ Compiere ERP & CRM
 
 ## 數據庫中立
 
-Compiere過去一直被批評不是一套完全開源的產品，因為它使用了[Oracle數據庫來儲存資料](../Page/Oracle數據庫.md "wikilink")（儘管Oracle亦有免費版本）。不過，自從2.5.2版開始，Compiere的設計獨立於數據庫，使它可以與不同的數據庫搭配。現時，有關計劃開發了工具，讓用戶把系統的數據庫過渡至其他[數據庫引擎](../Page/數據庫引擎.md "wikilink")。現在正在開發的過渡工具有適用於[PostgresSQL](../Page/PostgresSQL.md "wikilink")、[MySQL及](../Page/MySQL.md "wikilink")[Sybase的](../Page/Sybase.md "wikilink")。
+Compiere過去一直被批評不是一套完全開源的產品，因為它使用了[Oracle數據庫來儲存資料](https://zh.wikipedia.org/wiki/Oracle數據庫 "wikilink")（儘管Oracle亦有免費版本）。不過，自從2.5.2版開始，Compiere的設計獨立於數據庫，使它可以與不同的數據庫搭配。現時，有關計劃開發了工具，讓用戶把系統的數據庫過渡至其他[數據庫引擎](https://zh.wikipedia.org/wiki/數據庫引擎 "wikilink")。現在正在開發的過渡工具有適用於[PostgresSQL](https://zh.wikipedia.org/wiki/PostgresSQL "wikilink")、[MySQL及](../Page/MySQL.md "wikilink")[Sybase的](../Page/Sybase.md "wikilink")。
 
 ## 外部連結
 

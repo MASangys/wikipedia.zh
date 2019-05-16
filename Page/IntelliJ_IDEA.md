@@ -1,12 +1,12 @@
 **IntelliJ
 IDEA**是一种商业化銷售的[Java](../Page/Java.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（Integrated
 Development
-Environment，IDE）工具[软件](../Page/软件.md "wikilink")，由[JetBrains軟件公司](../Page/JetBrains公司.md "wikilink")（前稱為IntelliJ）开发，提供[Apache
-2.0開放式授權的社區版本以及](../Page/Apache_License.md "wikilink")[專有軟件的商業版本](../Page/專有軟件.md "wikilink")，開發者可選擇其所需來下載使用。
+Environment，IDE）工具[软件](../Page/软件.md "wikilink")，由[JetBrains軟件公司](https://zh.wikipedia.org/wiki/JetBrains公司 "wikilink")（前稱為IntelliJ）开发，提供[Apache
+2.0開放式授權的社區版本以及](https://zh.wikipedia.org/wiki/Apache_License "wikilink")[專有軟件的商業版本](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")，開發者可選擇其所需來下載使用。
 
 ## 歷史
 
-最初版於2001年1月時推出，當時是少數使用前階代碼瀏覽及[代碼重構的Java集成開發環境之一](../Page/代碼重構.md "wikilink")。\[1\]\[2\]
+最初版於2001年1月時推出，當時是少數使用前階代碼瀏覽及[代碼重構的Java集成開發環境之一](https://zh.wikipedia.org/wiki/代碼重構 "wikilink")。\[1\]\[2\]
 
 在2010年的**報告中，比較當時市面上的主流Java集成開發環境，包括：[Eclipse](../Page/Eclipse.md "wikilink")、IntelliJ、[NetBeans](../Page/NetBeans.md "wikilink")、，IntelliJ獲得該媒體實測中的最高評比。\[3\]
 
@@ -15,7 +15,7 @@ Studio](../Page/Android_Studio.md "wikilink")，即基於IntelliJ
 IDEA的社區版本發展而成\[4\]，用以取代原來提供Android開發者使用的。開發者除了可直接下載Android
 Studio外，原IntelliJ使用者亦可下載其相關[插件來進行開發程序](../Page/插件.md "wikilink")。
 
-IntelliJ對個別程式語言所開發的整合環境，如、、、[PyCharm](../Page/PyCharm.md "wikilink")、、和等，皆可由插件的方式載入IntelliJ
+IntelliJ對個別程式語言所開發的整合環境，如、、、[PyCharm](https://zh.wikipedia.org/wiki/PyCharm "wikilink")、、和等，皆可由插件的方式載入IntelliJ
 IDEA來使用。\[5\]
 
 ## 系統需求 \[6\]
@@ -68,12 +68,13 @@ IDEA來使用。\[5\]
 
   - [NetBeans](../Page/NetBeans.md "wikilink") 另一著名的开源多语言开发平台、IDE软件
   - [Eclipse](../Page/Eclipse.md "wikilink") 另一著名的开源Java IDE
-  - [WSAD](../Page/WSAD.md "wikilink")
+  - [WSAD](https://zh.wikipedia.org/wiki/WSAD "wikilink")
     [IBM的商业Java](../Page/IBM.md "wikilink") IDE（WebSphare
     Application Developer）
-  - [Visual J++](../Page/Visual_J++.md "wikilink")
-    [Microsoft的商业Java](../Page/Microsoft.md "wikilink") IDE
-  - [JBuilder](../Page/JBuilder.md "wikilink")
+  - [Visual J++](https://zh.wikipedia.org/wiki/Visual_J++ "wikilink")
+    [Microsoft的商业Java](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+    IDE
+  - [JBuilder](https://zh.wikipedia.org/wiki/JBuilder "wikilink")
     [Borland的商业Java](../Page/Borland.md "wikilink") IDE
 
 ## 参考资料

@@ -1,5 +1,5 @@
 **TRIZ**，（俄文：теории решения изобретательских задач
-俄语缩写“ТРИЗ”翻译为“[发明家式的解决任务](../Page/发明家.md "wikilink")[理论](../Page/理论.md "wikilink")”，用英语标音可读为**T**eoriya
+俄语缩写“ТРИЗ”翻译为“[发明家式的解决任务](https://zh.wikipedia.org/wiki/发明家 "wikilink")[理论](https://zh.wikipedia.org/wiki/理论 "wikilink")”，用英语标音可读为**T**eoriya
 **R**esheniya **I**zobreatatelskikh **Z**adatch，缩写为TRIZ。英文说法：**T**heory
 of **I**nventive **P**roblem
 **S**olving，**TIPS**），可理解为**发明式的问题解决理论**，也有人缩写为**TIPS**。
@@ -9,12 +9,12 @@ TRIZ，正體中文翻譯為「萃思」，取其「萃取思考」之義。
 ## 序言
 
 TRIZ是创造式的解决问题方式（TRIZical
-Creatology）。是否可以能凭学习而成为发明者吗？苏联工程师和研究学者[根里奇·阿奇舒勒](../Page/根里奇·阿奇舒勒.md "wikilink")（Genrich
+Creatology）。是否可以能凭学习而成为发明者吗？苏联工程师和研究学者[根里奇·阿奇舒勒](https://zh.wikipedia.org/wiki/根里奇·阿奇舒勒 "wikilink")（Genrich
 Saulovich Altshuller）相信实际上这样的事情是可能的。他开发了TRIZ ，那就是发明科学的理论和实践。
 
 ## 历史
 
-TRIZ是前苏联[亞塞拜然发明家](../Page/亞塞拜然.md "wikilink")[根里奇·阿奇舒勒所提出的](../Page/根里奇·阿奇舒勒.md "wikilink")，他从1946年开始领导数十家研究机构、大学、企业组成了TRIZ的研究团体，通过对世界高水平发明[专利](../Page/专利.md "wikilink")（累计250万件）的几十年分析研究，基于辩证唯物主义和系统论思想，提出了有关发明问题的基本理论。
+TRIZ是前苏联[亞塞拜然发明家](https://zh.wikipedia.org/wiki/亞塞拜然 "wikilink")[根里奇·阿奇舒勒所提出的](https://zh.wikipedia.org/wiki/根里奇·阿奇舒勒 "wikilink")，他从1946年开始领导数十家研究机构、大学、企业组成了TRIZ的研究团体，通过对世界高水平发明[专利](../Page/专利.md "wikilink")（累计250万件）的几十年分析研究，基于辩证唯物主义和系统论思想，提出了有关发明问题的基本理论。
 
 它的理论核心包括：基本理论和原理，具体包括：
 
@@ -25,7 +25,7 @@ TRIZ是前苏联[亞塞拜然发明家](../Page/亞塞拜然.md "wikilink")[根�
 5.  发明问题的解题程序（算子），
 6.  物理效应库。
 
-总之，TRIZ是一个包括由解决技术问题，实现[创新开发的各种方法到算法组成的综合理论体系](../Page/创新.md "wikilink")。
+总之，TRIZ是一个包括由解决技术问题，实现[创新开发的各种方法到算法组成的综合理论体系](https://zh.wikipedia.org/wiki/创新 "wikilink")。
 
 ## 終極理想解的確認
 
@@ -145,13 +145,13 @@ ideality）是指一個解決方案能帶來各種效益而且不會增加成本
   - [腦力激盪法](../Page/腦力激盪法.md "wikilink")
 
   -
-  - [水平思考](../Page/水平思考.md "wikilink")
+  - [水平思考](https://zh.wikipedia.org/wiki/水平思考 "wikilink")
 
   -
   -
   - [系统科学](../Page/系统科学.md "wikilink")
 
-  - [试错](../Page/试错.md "wikilink")
+  - [试错](https://zh.wikipedia.org/wiki/试错 "wikilink")
 
   -
 ## 参考

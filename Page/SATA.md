@@ -1,10 +1,10 @@
 **串行ATA**（**Serial ATA: Serial Advanced Technology
-Attachment**）是一種[電腦](../Page/電腦.md "wikilink")[匯流排](../Page/匯流排.md "wikilink")，負責[主機板和大容量儲存裝置](../Page/主機板.md "wikilink")（如[硬碟及](../Page/硬碟.md "wikilink")[光碟機](../Page/光碟機.md "wikilink")）之間的數據傳輸，主要用於個人電腦。串行ATA與[串列SCSI](../Page/串列SCSI.md "wikilink")（SAS:
+Attachment**）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，負責[主機板和大容量儲存裝置](https://zh.wikipedia.org/wiki/主機板 "wikilink")（如[硬碟及](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[光碟機](https://zh.wikipedia.org/wiki/光碟機 "wikilink")）之間的數據傳輸，主要用於個人電腦。串行ATA與[串列SCSI](../Page/串列SCSI.md "wikilink")（SAS:
 Serial Attached SCSI）的兩者排線相容，SATA硬碟可接上SAS介面。
 
 2000年11月由「Serial ATA Working
 Group」團體所制定，取代舊式[PATA](../Page/高技術配置.md "wikilink")（Parallel
-ATA或舊稱IDE）接口的舊式[硬盘](../Page/硬盘.md "wikilink")，因采用串行方式传输数据而得名。在數據傳輸上這一方面，SATA的速度比以往更加快捷，並支持[热插拔](../Page/热插拔.md "wikilink")，使電腦運作時可以插上或拔除硬件。另一方面，SATA总线使用嵌入式[時脈訊號](../Page/時脈訊號.md "wikilink")，具备比以往更强的纠错能力，能对传输指令（不仅是数据）进行检查，如果发现错误会自动矫正，提高数据传输的可靠性。不過，SATA和以往最明顯的分別，是使用較细的排線，有利機箱內部的空氣流通，某程度上增加整個平台的穩定性。
+ATA或舊稱IDE）接口的舊式[硬盘](../Page/硬盘.md "wikilink")，因采用串行方式传输数据而得名。在數據傳輸上這一方面，SATA的速度比以往更加快捷，並支持[热插拔](https://zh.wikipedia.org/wiki/热插拔 "wikilink")，使電腦運作時可以插上或拔除硬件。另一方面，SATA总线使用嵌入式[時脈訊號](https://zh.wikipedia.org/wiki/時脈訊號 "wikilink")，具备比以往更强的纠错能力，能对传输指令（不仅是数据）进行检查，如果发现错误会自动矫正，提高数据传输的可靠性。不過，SATA和以往最明顯的分別，是使用較细的排線，有利機箱內部的空氣流通，某程度上增加整個平台的穩定性。
 
 現時，SATA分別有SATA 1.5Gbit/s、SATA 3Gb/s和SATA 6Gb/s三種規格。2013年推出更快速的SATA
 Express規格。
@@ -14,7 +14,7 @@ Express規格。
 ### 頻寬速度換算
 
 需要注意的是，在一些新的技术标准中，为了防止数据在高速传输中出错而加入校验码，比如PCI-E 2.0、USB 3.0和SATA
-3.0中采用的是[8/10编码](../Page/8b/10b.md "wikilink")，每10位编码中只有8位是真实数据，这时单位换算就不再是1:8而是1:10，USB
+3.0中采用的是[8/10编码](https://zh.wikipedia.org/wiki/8b/10b "wikilink")，每10位编码中只有8位是真实数据，这时单位换算就不再是1:8而是1:10，USB
 3.0的5Gbps速度实际上是理论500MB/s而非理论625MB/s，SATA 6Gbps的理论速度则是600MB/s而非750MB/s。
 
 所謂3Gb/s的算法，3000MHz的頻率x每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte =
@@ -50,7 +50,7 @@ Express規格。
 ATA使用單模信號放大系統「single-end-signal-amplified-system」。在這種系統中，雜訊會隨著正常信號一起傳輸、放大，不易被抑制；在高速時尤其嚴重，為了有效的減少雜訊的干擾，我們只好使用高達5V的電壓來傳送正常訊號，使大電壓的正常訊號蓋過小電壓的雜訊信號。雖然大的電壓可以有效的抑制雜訊，但是大的電壓同時也表示驅動電路的生產成本將因此上升，大電壓更不利於高速傳輸系統的設計和製造，高達5V的傳輸電壓限制追求高速和低成本的可能性。
 
 和Parallel ATA相比，新的Serial
-ATA使用[差分信號系統](../Page/差分信號.md "wikilink")（differential-signal-amplified-system）。這種系統能有效的將雜訊從正常訊號中濾除，良好的雜訊濾除能力使得SATA只要使用低電壓操作即可，和Parallel
+ATA使用[差分信號系統](https://zh.wikipedia.org/wiki/差分信號 "wikilink")（differential-signal-amplified-system）。這種系統能有效的將雜訊從正常訊號中濾除，良好的雜訊濾除能力使得SATA只要使用低電壓操作即可，和Parallel
 ATA高達5V的傳輸電壓相比，SATA只要0.5V（500mv）的峰對峰值電壓即可操作於更高的速度之上。比較正確的說法是：峰對峰值『差模電壓』。
 
 和Parallel ATA的5V驅動電壓相比，0.5V的SATA系統節省電力，其驅動IC的生產成本也較為便宜。
@@ -59,7 +59,7 @@ ATA高達5V的傳輸電壓相比，SATA只要0.5V（500mv）的峰對峰值電�
 
 ### 進階主機控制器介面
 
-SATA支援[進階主機控制器介面功能](../Page/AHCI.md "wikilink")，可讓SATA儲存裝置啟用進階SATA功能，例如[NCQ及](../Page/NCQ.md "wikilink")[熱插拔](../Page/熱插拔.md "wikilink")。
+SATA支援[進階主機控制器介面功能](../Page/AHCI.md "wikilink")，可讓SATA儲存裝置啟用進階SATA功能，例如[NCQ及](https://zh.wikipedia.org/wiki/NCQ "wikilink")[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")。
 
 ## 版本
 
@@ -117,8 +117,9 @@ Drive（ODD）的發明減少閒置光碟機的耗電量，用新的電源管理
 
 ### SATA 3.2
 
-為解決[固態硬碟的資料傳送瓶頸](../Page/固態硬碟.md "wikilink")，[國際序列式ATA組織正著手制定下一代串列ATA的標準](../Page/國際序列式ATA組織.md "wikilink")——SATA
-3.2。SATA Express最大傳送速率為16Gb/s，使用兩條[PCIe](../Page/PCIe.md "wikilink")
+為解決[固態硬碟的資料傳送瓶頸](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")，[國際序列式ATA組織正著手制定下一代串列ATA的標準](../Page/國際序列式ATA組織.md "wikilink")——SATA
+3.2。SATA
+Express最大傳送速率為16Gb/s，使用兩條[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink")
 3.0總線連接SSD。連接埠和制式向下相容前三代SATA的標準。\[7\]\[8\]\[9\]\[10\]\[11\]
 
 ### SATA 3.3
@@ -129,14 +130,14 @@ Drive（ODD）的發明減少閒置光碟機的耗電量，用新的電源管理
 
 External Serial ATA的略称，是为面向外接驱动器而制定的Serial ATA
 1.0a的扩展规格。虽然规模比较小，但已经有相对应的产品在市面流通。它最大的缺點是沒有電力供應，競爭對手[USB](../Page/USB.md "wikilink"),
-[FireWire](../Page/FireWire.md "wikilink"),
-[Thunderbolt都能傳輸](../Page/Thunderbolt.md "wikilink")[數據及](../Page/數據.md "wikilink")[電力](../Page/電力.md "wikilink")。這使得eSATA硬碟需要連接一個獨立[變壓器才可運作](../Page/變壓器.md "wikilink")。
+[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink"),
+[Thunderbolt都能傳輸](../Page/Thunderbolt.md "wikilink")[數據及](https://zh.wikipedia.org/wiki/數據 "wikilink")[電力](../Page/電力.md "wikilink")。這使得eSATA硬碟需要連接一個獨立[變壓器才可運作](https://zh.wikipedia.org/wiki/變壓器 "wikilink")。
 
   - 为了防止误接，eSATA的接口形状与SATA的接口形状是不一样的
   - 连接线的最大长度为2m
   - 支持热插拔
   - 传输速度可以达到现在主流的[USB
-    2.0的传输速度的](../Page/USB_2.0.md "wikilink")2倍以上，但依然比[USB
+    2.0的传输速度的](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")2倍以上，但依然比[USB
     3.0為慢](../Page/USB_3.0.md "wikilink")
   - 提高接頭的插拔耐用度
 
@@ -153,7 +154,7 @@ External Serial ATA的略称，是为面向外接驱动器而制定的Serial ATA
 
 [MSATA_SSD_vs._2.5"_SATA_drive.JPG](https://zh.wikipedia.org/wiki/File:MSATA_SSD_vs._2.5"_SATA_drive.JPG "fig:MSATA_SSD_vs._2.5\"_SATA_drive.JPG")
 下: 2.5" SATA硬盘\]\] mSATA (mini-SATA)是迷你版本SATA接口，外型和電子-{介面}-與mini
-[PCI-E完全相同](../Page/PCI-E.md "wikilink")，但電子信號不同，兩者互不相容。mSATA接口多用于[固态硬盘](../Page/固态硬盘.md "wikilink")，适用于需要尺寸较小的存储器的场合（例如[Ultrabook](../Page/Ultrabook.md "wikilink")）。
+[PCI-E完全相同](https://zh.wikipedia.org/wiki/PCI-E "wikilink")，但電子信號不同，兩者互不相容。mSATA接口多用于[固态硬盘](../Page/固态硬盘.md "wikilink")，适用于需要尺寸较小的存储器的场合（例如[Ultrabook](../Page/Ultrabook.md "wikilink")）。
 
 mSATA固态硬盘形似mini PCI-E扩展卡，尺寸很小，有助于节省机器内部空间。官方標準為MO-300
 mSATA，也有自定长度的mSATA固态硬盘。
@@ -173,18 +174,18 @@ mSATA，也有自定长度的mSATA固态硬盘。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/#eSATA.md" title="wikilink">eSATA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#eSATA" title="wikilink">eSATA</a></p></td>
 <td><p>data-sort-value="6" | 6 Gbit/s</p></td>
 <td><p>data-sort-value="600" | 600 MB/s</p></td>
-<td><p>2 m with eSATA <a href="../Page/Host_bus_adapter.md" title="wikilink">HBA</a> (1 m with a passive adapter)</p></td>
+<td><p>2 m with eSATA <a href="https://zh.wikipedia.org/wiki/Host_bus_adapter" title="wikilink">HBA</a> (1 m with a passive adapter)</p></td>
 <td></td>
-<td><p>1 個 (15 with a <a href="../Page/port_multiplier.md" title="wikilink">port multiplier</a>)</p></td>
+<td><p>1 個 (15 with a <a href="https://zh.wikipedia.org/wiki/port_multiplier" title="wikilink">port multiplier</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/#eSATA.md" title="wikilink">eSATAp</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#eSATA" title="wikilink">eSATAp</a></p></td>
 <td><p>data-sort-value="3" | 3 Gbit/s</p></td>
 <td><p>data-sort-value="300" | 300 MB/s</p></td>
-<td><p>2 m with eSATA <a href="../Page/Host_bus_adapter.md" title="wikilink">HBA</a> (1 m with a passive adapter)</p></td>
+<td><p>2 m with eSATA <a href="https://zh.wikipedia.org/wiki/Host_bus_adapter" title="wikilink">HBA</a> (1 m with a passive adapter)</p></td>
 <td><p>[12]</p></td>
 <td><p>1 個 (15 with a port multiplier)</p></td>
 </tr>
@@ -197,7 +198,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>每插座 1 個</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/#SATA_Express_(16_Gbit/s,_1969_MB/s).md" title="wikilink">SATA Express</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#SATA_Express_(16_Gbit/s,_1969_MB/s)" title="wikilink">SATA Express</a></p></td>
 <td><p>data-sort-value="16" | 16 Gbit/s</p></td>
 <td><p>data-sort-value="1969" | 1.97 GB/s</p></td>
 <td><p>1 m</p></td>
@@ -205,7 +206,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>每條線 1 個</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/#SATA_3.2_(16_Gbit/s,_1969_MB/s).md" title="wikilink">SATA revision 3.2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#SATA_3.2_(16_Gbit/s,_1969_MB/s)" title="wikilink">SATA revision 3.2</a></p></td>
 <td><p>data-sort-value="16" | 16 Gbit/s</p></td>
 <td><p>data-sort-value="1969" | 1.97 GB/s</p></td>
 <td><p>1 m</p></td>
@@ -213,7 +214,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>1 個 (15 with a port multiplier)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/#SATA_3.0_(6_Gbit/s,_600_MB/s).md" title="wikilink">SATA revision 3.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#SATA_3.0_(6_Gbit/s,_600_MB/s)" title="wikilink">SATA revision 3.0</a></p></td>
 <td><p>data-sort-value="6" | 6 Gbit/s</p></td>
 <td><p>data-sort-value="600" | 600 MB/s[13]</p></td>
 <td><p>1 m</p></td>
@@ -221,7 +222,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>1 個 (15 with a port multiplier)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/#SATA_2.0_(3_Gbit/s,_300_MB/s).md" title="wikilink">SATA revision 2.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#SATA_2.0_(3_Gbit/s,_300_MB/s)" title="wikilink">SATA revision 2.0</a></p></td>
 <td><p>data-sort-value="3" | 3 Gbit/s</p></td>
 <td><p>data-sort-value="300" | 300 MB/s</p></td>
 <td><p>1 m</p></td>
@@ -229,7 +230,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>1 個 (15 with a port multiplier)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/#SATA_1.0_(1.5_Gbit/s,_150_MB/s).md" title="wikilink">SATA revision 1.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#SATA_1.0_(1.5_Gbit/s,_150_MB/s)" title="wikilink">SATA revision 1.0</a></p></td>
 <td><p>data-sort-value="1.5" | 1.5 Gbit/s</p></td>
 <td><p>data-sort-value="150" | 150 MB/s[14]</p></td>
 <td><p>1 m</p></td>
@@ -237,7 +238,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>每條線 1 個</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Parallel_ATA.md" title="wikilink">PATA (IDE)</a> 133</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Parallel_ATA" title="wikilink">PATA (IDE)</a> 133</p></td>
 <td><p>data-sort-value="1.067" | 1.064 Gbit/s</p></td>
 <td><p>data-sort-value="133.3" | 133.3 MB/s</p></td>
 <td><p>0.46 m (18 in)</p></td>
@@ -245,7 +246,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>2 個</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Serial_Attached_SCSI.md" title="wikilink">SAS-3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Serial_Attached_SCSI" title="wikilink">SAS-3</a></p></td>
 <td><p>data-sort-value="12" | 12 Gbit/s</p></td>
 <td><p>data-sort-value="1200" | 1.2 GB/s</p></td>
 <td><p>10 m</p></td>
@@ -253,7 +254,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>1 － 8 個 (&gt; 65k with expanders)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Serial_Attached_SCSI.md" title="wikilink">SAS-2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Serial_Attached_SCSI" title="wikilink">SAS-2</a></p></td>
 <td><p>data-sort-value="6" | 6 Gbit/s</p></td>
 <td><p>data-sort-value="600" | 600 MB/s</p></td>
 <td><p>10 m</p></td>
@@ -261,7 +262,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>1 個 (&gt; 65k with expanders)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Serial_Attached_SCSI.md" title="wikilink">SAS 300</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Serial_Attached_SCSI" title="wikilink">SAS 300</a></p></td>
 <td><p>data-sort-value="3" | 3 Gbit/s</p></td>
 <td><p>data-sort-value="300" | 300 MB/s</p></td>
 <td><p>10 m</p></td>
@@ -269,7 +270,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>1 個 (&gt; 65k with expanders)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Serial_Attached_SCSI.md" title="wikilink">SAS 150</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Serial_Attached_SCSI" title="wikilink">SAS 150</a></p></td>
 <td><p>data-sort-value="1.5" | 1.5 Gbit/s</p></td>
 <td><p>data-sort-value="150" | 150 MB/s</p></td>
 <td><p>10 m</p></td>
@@ -301,7 +302,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>63 (with a hub)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Universal_Serial_Bus.md" title="wikilink">USB</a> 3.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal_Serial_Bus" title="wikilink">USB</a> 3.1</p></td>
 <td><p>data-sort-value="10" | 10 Gbit/s</p></td>
 <td><p>data-sort-value="1212" | 1.21 GB/s</p></td>
 <td><p>3 m</p></td>
@@ -309,7 +310,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>127 (with a hub)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Universal_Serial_Bus.md" title="wikilink">USB</a> 3.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal_Serial_Bus" title="wikilink">USB</a> 3.0</p></td>
 <td><p>data-sort-value="5" | 5 Gbit/s</p></td>
 <td><p>data-sort-value="400" | 400 MB/s or more (protocol overhead, flow control, framing excluded) <ref>{{Cite book</p></td>
 <td><p>title=Universal Serial Bus Specification Revision 3.0</p></td>
@@ -317,7 +318,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>url=<a href="http://www.usb.org/developers/docs/usb_30_spec_122012.zip">http://www.usb.org/developers/docs/usb_30_spec_122012.zip</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Universal_Serial_Bus.md" title="wikilink">USB</a> 2.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal_Serial_Bus" title="wikilink">USB</a> 2.0</p></td>
 <td><p>data-sort-value="{{#expr:480/1000}}" | 480 Mbit/s</p></td>
 <td><p>data-sort-value="35" | 35 MB/s</p></td>
 <td><p>5 m[19]</p></td>
@@ -325,7 +326,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>127 (with a hub)[20]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Universal_Serial_Bus.md" title="wikilink">USB</a> 1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal_Serial_Bus" title="wikilink">USB</a> 1.1</p></td>
 <td><p>data-sort-value="{{#expr:12/1000}}" | 12 Mbit/s</p></td>
 <td><p>data-sort-value="1.5" | 1.5 MB/s</p></td>
 <td><p>3 m</p></td>
@@ -333,7 +334,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>127 (with a hub)[21]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/SCSI.md" title="wikilink">SCSI</a> Ultra-320</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCSI" title="wikilink">SCSI</a> Ultra-320</p></td>
 <td><p>data-sort-value="2.56" | 2.56 Gbit/s</p></td>
 <td><p>data-sort-value="320" | 320 MB/s</p></td>
 <td><p>12 m</p></td>
@@ -341,7 +342,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>15 (plus the Host Bus Adapter/Host)</p></td>
 </tr>
 <tr class="even">
-<td><p>10GFC <a href="../Page/Fibre_Channel.md" title="wikilink">Fibre Channel</a></p></td>
+<td><p>10GFC <a href="https://zh.wikipedia.org/wiki/Fibre_Channel" title="wikilink">Fibre Channel</a></p></td>
 <td><p>data-sort-value="10.52" | 10.52 Gbit/s</p></td>
 <td><p>data-sort-value="1195" | 1.195 GB/s</p></td>
 <td><p>2 m – 50 km</p></td>
@@ -349,7 +350,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>126 (16,777,216 with switches)</p></td>
 </tr>
 <tr class="odd">
-<td><p>4GFC <a href="../Page/Fibre_Channel.md" title="wikilink">Fibre Channel</a></p></td>
+<td><p>4GFC <a href="https://zh.wikipedia.org/wiki/Fibre_Channel" title="wikilink">Fibre Channel</a></p></td>
 <td><p>data-sort-value="4" | 4.25 Gbit/s</p></td>
 <td><p>data-sort-value="398" | 398 MB/s</p></td>
 <td><p>12 m</p></td>
@@ -357,13 +358,13 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <td><p>126 (16,777,216 with switches)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/InfiniBand.md" title="wikilink">InfiniBand</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/InfiniBand" title="wikilink">InfiniBand</a><br />
 Quad Rate</p></td>
 <td><p>data-sort-value="10" | 10 Gbit/s</p></td>
 <td><p>data-sort-value="{{#expr:0.98*1024}}" | 0.98 GB/s</p></td>
 <td><p>5 m (copper)[22][23] &lt;10 km (fiber)</p></td>
 <td></td>
-<td><p>One with <a href="../Page/Point-to-point_(telecommunications).md" title="wikilink">point-to-point</a>, many with <a href="../Page/switched_fabric.md" title="wikilink">switched fabric</a></p></td>
+<td><p>One with <a href="https://zh.wikipedia.org/wiki/Point-to-point_(telecommunications)" title="wikilink">point-to-point</a>, many with <a href="https://zh.wikipedia.org/wiki/switched_fabric" title="wikilink">switched fabric</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Thunderbolt.md" title="wikilink">Thunderbolt</a></p></td>
@@ -396,7 +397,7 @@ Quad Rate</p></td>
 </table>
 
 與 PATA 不同，SATA 和 eSATA
-都支援[熱插拔](../Page/熱插拔.md "wikilink")，但此功能需要主機、裝置和操作系统的支援。基本上所有
+都支援[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")，但此功能需要主機、裝置和操作系统的支援。基本上所有
 SATA 裝置（硬碟）都支援熱插拔（基於裝置的需要），絕大部分的 SATA 主機適配器都支援此指令。\[24\]
 
 ## 註解

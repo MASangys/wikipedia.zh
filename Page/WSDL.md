@@ -1,7 +1,7 @@
 **WSDL**（Web服务描述语言，Web Services Description
 Language）是为描述[Web服务发布的](../Page/Web服务.md "wikilink")[XML格式](../Page/XML.md "wikilink")。W3C组织（[World
 Wide Web
-Consortium](../Page/World_Wide_Web_Consortium.md "wikilink")）没有批准1.1版的WSDL，当前的WSDL版本是2.0，是W3C的推荐标准（recommendation）（一种官方标准），并将被W3C组织批准为正式标准。
+Consortium](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink")）没有批准1.1版的WSDL，当前的WSDL版本是2.0，是W3C的推荐标准（recommendation）（一种官方标准），并将被W3C组织批准为正式标准。
 
 在诸多技术文献中通常将Web服务描述语言简写为**WSDL**，读音通常发为："wiz-dəl"。
 
@@ -10,10 +10,11 @@ WSDL描述Web服务的公共接口。这是一个基于XML的关于如何与Web�
 ## 参见
 
   - [Web服务](../Page/Web服务.md "wikilink")
-  - [SOAP](../Page/SOAP.md "wikilink")
-  - [WSIF](../Page/WSIF.md "wikilink")
-  - [UDDI](../Page/UDDI.md "wikilink")
-  - [WS-I Basic Profile](../Page/WS-I_Basic_Profile.md "wikilink")
+  - [SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")
+  - [WSIF](https://zh.wikipedia.org/wiki/WSIF "wikilink")
+  - [UDDI](https://zh.wikipedia.org/wiki/UDDI "wikilink")
+  - [WS-I Basic
+    Profile](https://zh.wikipedia.org/wiki/WS-I_Basic_Profile "wikilink")
 
 ## 外部链接
 

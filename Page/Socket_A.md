@@ -1,12 +1,12 @@
 **Socket A** 又稱 **Socket
-462**，是[AMD](../Page/AMD.md "wikilink")[中央處理器插座的一種](../Page/中央處理器.md "wikilink")，為了對抗[Intel的](../Page/Intel.md "wikilink")[Socket
-370而推出](../Page/Socket_370.md "wikilink")。它擁有462個插孔，插入處理器時無需用力鎖緊。它適用於AMD的[Athlon](../Page/Athlon.md "wikilink")
-[K7至](../Page/K7.md "wikilink")[Athlon
-XP](../Page/Athlon_XP.md "wikilink")
-3200+及低階的[Duron及](../Page/Duron.md "wikilink")[Sempron](../Page/Sempron.md "wikilink")。有時FSB頻率和電壓規格的轉變，會造成舊的[晶片組無法支援新的處理器](../Page/晶片組.md "wikilink")。
+462**，是[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")[中央處理器插座的一種](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，為了對抗[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[Socket
+370而推出](../Page/Socket_370.md "wikilink")。它擁有462個插孔，插入處理器時無需用力鎖緊。它適用於AMD的[Athlon](https://zh.wikipedia.org/wiki/Athlon "wikilink")
+[K7至](https://zh.wikipedia.org/wiki/K7 "wikilink")[Athlon
+XP](https://zh.wikipedia.org/wiki/Athlon_XP "wikilink")
+3200+及低階的[Duron及](https://zh.wikipedia.org/wiki/Duron "wikilink")[Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")。有時FSB頻率和電壓規格的轉變，會造成舊的[晶片組無法支援新的處理器](https://zh.wikipedia.org/wiki/晶片組 "wikilink")。
 
 隨著更多新型號處理器的開發，這款插座被新款插座所取代，有供[Athlon
-64和](../Page/Athlon_64.md "wikilink")[Sempron使用的](../Page/Sempron.md "wikilink")[Socket
+64和](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")[Sempron使用的](https://zh.wikipedia.org/wiki/Sempron "wikilink")[Socket
 754](../Page/Socket_754.md "wikilink")，和供Athlon 64及[Athlon 64
 FX使用的](../Page/Athlon_64_FX.md "wikilink")[Socket
 939](../Page/Socket_939.md "wikilink")。而AMD也宣佈在2005年第二季起停止推出Socket

@@ -1,9 +1,9 @@
-**Encarta**是[微软出品的](../Page/微软.md "wikilink")[數碼](../Page/數碼.md "wikilink")[多媒体](../Page/多媒体.md "wikilink")[百科全书](../Page/百科全书.md "wikilink")，部份內容整合自[ABC百科全書中的](../Page/ABC百科全書.md "wikilink")[科里爾百科全書](../Page/科里爾百科全書.md "wikilink")。Encarta也有線上版，但是線上版只包含有限内容，完整版本是必须购买才能获得的。现在Encarta与[Microsoft
+**Encarta**是[微软出品的](../Page/微软.md "wikilink")[數碼](https://zh.wikipedia.org/wiki/數碼 "wikilink")[多媒体](../Page/多媒体.md "wikilink")[百科全书](../Page/百科全书.md "wikilink")，部份內容整合自[ABC百科全書中的](https://zh.wikipedia.org/wiki/ABC百科全書 "wikilink")[科里爾百科全書](../Page/科里爾百科全書.md "wikilink")。Encarta也有線上版，但是線上版只包含有限内容，完整版本是必须购买才能获得的。现在Encarta与[Microsoft
 Student系列软件一同售出](../Page/Microsoft_Student.md "wikilink")。截至2008年8月，Encarta的最新版本是Encarta
 2009。
 
 《Microsoft Student with Encarta Premium
-2009》包括了适应从[小学](../Page/小学.md "wikilink")（7岁）至[大学的学生学习内容与工具](../Page/大学.md "wikilink")、电子百科、多语种[字典以及一套儿童教育软件](../Page/字典.md "wikilink")（《Encarta
+2009》包括了适应从[小学](../Page/小学.md "wikilink")（7岁）至[大学的学生学习内容与工具](https://zh.wikipedia.org/wiki/大学 "wikilink")、电子百科、多语种[字典以及一套儿童教育软件](../Page/字典.md "wikilink")（《Encarta
 kids》）。与其他电子百科相比，Encarta的优势在于大量的多媒体资料。缺点是其中部分内容不甚客观，有以[美国为中心的倾向](../Page/美国.md "wikilink")，而且内容更新的速度也比较慢，Encarta
 2009中很多数据已經改為2007－2008年的资料。
 
@@ -13,7 +13,7 @@ kids》）。与其他电子百科相比，Encarta的优势在于大量的多媒
 
 [Encarta_Dicitonaries.jpg](https://zh.wikipedia.org/wiki/File:Encarta_Dicitonaries.jpg "fig:Encarta_Dicitonaries.jpg")
 Encarta
-Dictionaries是Encarta裏的一部[英文词典](../Page/英语.md "wikilink")[软件](../Page/软件.md "wikilink")，这部词典里有[词典](../Page/词典.md "wikilink")（Dictionary）、[类语辞典](../Page/类语辞典.md "wikilink")（Thesaurus）、5种语言[词汇翻译](../Page/词汇.md "wikilink")（英语与[西班牙语互译](../Page/西班牙语.md "wikilink")、英语与[法语互译](../Page/法语.md "wikilink")、英语与[德语互译](../Page/德语.md "wikilink")、英语与[意大利语互译](../Page/意大利语.md "wikilink")）、动词时态用法这4类功能。
+Dictionaries是Encarta裏的一部[英文词典](../Page/英语.md "wikilink")[软件](../Page/软件.md "wikilink")，这部词典里有[词典](https://zh.wikipedia.org/wiki/词典 "wikilink")（Dictionary）、[类语辞典](https://zh.wikipedia.org/wiki/类语辞典 "wikilink")（Thesaurus）、5种语言[词汇翻译](https://zh.wikipedia.org/wiki/词汇 "wikilink")（英语与[西班牙语互译](../Page/西班牙语.md "wikilink")、英语与[法语互译](../Page/法语.md "wikilink")、英语与[德语互译](../Page/德语.md "wikilink")、英语与[意大利语互译](../Page/意大利语.md "wikilink")）、动词时态用法这4类功能。
 
 在Encarta
 Dictionaries的词典功能中，绝大多数英语词汇都可点选真人词汇发音（[美式发音](../Page/美国英语.md "wikilink")），以便使用者知道词汇的正确读音。

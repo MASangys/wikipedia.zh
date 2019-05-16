@@ -1,5 +1,5 @@
 **BSTR**（Basic
-String\[1\]）是一种Pascal-Style字符串（明确标示字符串长度）和C-Style字符串（以\\0结尾）的混合物，一般用于[COM中](../Page/COM.md "wikilink")，是[Unicode字符串](../Page/Unicode.md "wikilink")，即标示字符串长度，最后还有一个值为\\0字节。
+String\[1\]）是一种Pascal-Style字符串（明确标示字符串长度）和C-Style字符串（以\\0结尾）的混合物，一般用于[COM中](https://zh.wikipedia.org/wiki/COM "wikilink")，是[Unicode字符串](https://zh.wikipedia.org/wiki/Unicode "wikilink")，即标示字符串长度，最后还有一个值为\\0字节。
 
 对于BSTR，NULL与""有相同的语义（[Visual
 Basic引入的语义](../Page/Visual_Basic.md "wikilink")）。BSTR的长度不包含结尾的\\0字节。BSTR必须用SysAlloc\*操作系统API申请与释放。
@@ -8,13 +8,13 @@ Basic引入的语义](../Page/Visual_Basic.md "wikilink")）。BSTR的长度不�
 
 ### C-Style 字符串
 
-[C程序語言本身原並不支援字串資料結構](../Page/C程序語言.md "wikilink")。字符串通常以一個字符[數組](../Page/數組.md "wikilink")（或稱[陣列](../Page/陣列.md "wikilink")）或一個指向字符資料的[指標來表達](../Page/指標.md "wikilink")。由於C語言的數組不包含其長度的資訊，故亦無法表示所載之字符串之長度。C語言社群對此通用之解決方案為於字符串末端增添一數值0的字符。C語言的標準程序庫中的字符串處理功能亦以此為基礎。C-Style
+[C程序語言本身原並不支援字串資料結構](https://zh.wikipedia.org/wiki/C程序語言 "wikilink")。字符串通常以一個字符[數組](https://zh.wikipedia.org/wiki/數組 "wikilink")（或稱[陣列](https://zh.wikipedia.org/wiki/陣列 "wikilink")）或一個指向字符資料的[指標來表達](https://zh.wikipedia.org/wiki/指標 "wikilink")。由於C語言的數組不包含其長度的資訊，故亦無法表示所載之字符串之長度。C語言社群對此通用之解決方案為於字符串末端增添一數值0的字符。C語言的標準程序庫中的字符串處理功能亦以此為基礎。C-Style
 字符串特點為不直接包含長度資訊。要取得字符串之長度，就必須從頭到尾數算字符數目，直到遇到字符0為止。由於不設長度資訊，故C-style
 字符串的長度理論上可以無上限。
 
 ### Pascal-style 字符串
 
-[Pascal程序語言採取另一種方向處理字符串](../Page/Pascal.md "wikilink")。在儲存字串的記憶空間的開首，儲存一固定長度整數以表達其長度。如此Pascal-style
+[Pascal程序語言採取另一種方向處理字符串](https://zh.wikipedia.org/wiki/Pascal "wikilink")。在儲存字串的記憶空間的開首，儲存一固定長度整數以表達其長度。如此Pascal-style
 字符串不需要在最後增添額外字符以標明其結束。但由於字符串開首儲存字串長度的空間有限，故Pascal-style
 的字串長度有上限。但在獲得字串長度方面有速度優勢。
 

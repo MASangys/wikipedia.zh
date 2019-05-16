@@ -1,5 +1,5 @@
 **SD娃娃**（****、Super
-Dollfie），是[日本Volks公司從](../Page/日本.md "wikilink")1998年開始推出的[球型關節可動人偶](../Page/球型關節可動人偶.md "wikilink")，由[圓句昭浩負責開發](../Page/圓句昭浩.md "wikilink")，Dollfie是他們的註冊商標。Dollfie這個名字是由「Doll」和「Figure」組成，再加上「作為人偶作品中的最高產品」的期望，正式命名為「Super
+Dollfie），是[日本Volks公司從](../Page/日本.md "wikilink")1998年開始推出的[球型關節可動人偶](https://zh.wikipedia.org/wiki/球型關節可動人偶 "wikilink")，由[圓句昭浩負責開發](https://zh.wikipedia.org/wiki/圓句昭浩 "wikilink")，Dollfie是他們的註冊商標。Dollfie這個名字是由「Doll」和「Figure」組成，再加上「作為人偶作品中的最高產品」的期望，正式命名為「Super
 Dollfie」。這些人偶玩具在解剖學細節上的處理比較精確，比例大約為常人的1/3，高約58cm-60cm，mini型SD娃娃則高約43cm，使用[聚氨基甲酸乙酯樹脂製作](../Page/聚氨酯.md "wikilink")。其主要特色在於可讓玩家自行改裝，因為SD娃娃的眼珠、頭髮、身體關節等部分都是可以分開的，臉部也可以讓玩家自行化妝。但是因為製作材料的關係，被日光直射或經過一段時間等，有可能會有變黃等劣化的情形發生。
 
 1999年2月發表時，在模型雜誌上打廣告、公開客製辦法等等，與其說是娃娃還不如說是以模型的方式來宣傳。販賣量與生產量也相當的少，幾乎是以預約的方式販售。
@@ -65,11 +65,11 @@ SD只有在Volks直營的Show Room(SR)、通信販賣、大型活動或台灣代
 
   - Ian -
     因為雜誌的企劃而製作。是以日本漫畫家[冬目景的作品](../Page/冬目景.md "wikilink")「文車館來訪記」中的娃娃為模特兒製作。
-  - 2003年製作了漫畫「[Chobits](../Page/Chobits.md "wikilink")」中的主人公「唧」的SD，與小說「[聖母在上](../Page/聖母在上.md "wikilink")」的主人公福澤佑己和其學姐小笠原祥子的SD，為限定販賣之作品。
-  - 電影「[下妻物語](../Page/下妻物語.md "wikilink")」上映期間，以主人公龍龍崎桃子為模特兒的SD以及蘿莉塔服裝成套販賣。因為有限定數量，所以在SD上有流水編號。蘿莉塔服裝由「BABY,
+  - 2003年製作了漫畫「[Chobits](../Page/Chobits.md "wikilink")」中的主人公「唧」的SD，與小說「[聖母在上](https://zh.wikipedia.org/wiki/聖母在上 "wikilink")」的主人公福澤佑己和其學姐小笠原祥子的SD，為限定販賣之作品。
+  - 電影「[下妻物語](https://zh.wikipedia.org/wiki/下妻物語 "wikilink")」上映期間，以主人公龍龍崎桃子為模特兒的SD以及蘿莉塔服裝成套販賣。因為有限定數量，所以在SD上有流水編號。蘿莉塔服裝由「BABY,
     THE STAR SHINES BRIGHT」品牌擔任。
   - 2005年冬製作了以「[薔薇少女](../Page/薔薇少女.md "wikilink")」主人公真紅為模特兒的SD。限定數量以抽選方式販賣。
-  - 2006年冬與服裝品牌「[h.NAOTO](../Page/h.NAOTO.md "wikilink")」合作推出SD
+  - 2006年冬與服裝品牌「[h.NAOTO](https://zh.wikipedia.org/wiki/h.NAOTO "wikilink")」合作推出SD
     Kurumi。限定數量以抽選方式販賣。
   - 2007年冬與服裝品牌「BABY, THE STARS SHINE
     BRIGHT」合作，於豪斯登堡感謝祭中推出Toppi散步Ver.。限定數量以抽選方式販賣。

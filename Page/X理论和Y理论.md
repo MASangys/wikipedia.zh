@@ -1,4 +1,4 @@
-**X理论和Y理论**([英文](../Page/英文.md "wikilink")：)，[人力资源管理](../Page/人力资源管理.md "wikilink")、[组织行为学和](../Page/组织行为学.md "wikilink")[社会心理学中关于工作激励的理论](../Page/社会心理学.md "wikilink")，由[美国心理学家](../Page/美国.md "wikilink")[道格拉斯·麦格雷戈](../Page/道格拉斯·麦格雷戈.md "wikilink")（）于1960年代提出。其中Y理論又被稱作**人性本善理論**\[1\]。
+**X理论和Y理论**([英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：)，[人力资源管理](../Page/人力资源管理.md "wikilink")、[组织行为学和](../Page/组织行为学.md "wikilink")[社会心理学中关于工作激励的理论](../Page/社会心理学.md "wikilink")，由[美国心理学家](../Page/美国.md "wikilink")[道格拉斯·麦格雷戈](../Page/道格拉斯·麦格雷戈.md "wikilink")（）于1960年代提出。其中Y理論又被稱作**人性本善理論**\[1\]。
 
 ## 理论内容
 
@@ -43,7 +43,7 @@
 ## 参见
 
   - [动机](../Page/动机.md "wikilink")
-  - [Z理论](../Page/Z理论.md "wikilink")
+  - [Z理论](https://zh.wikipedia.org/wiki/Z理论 "wikilink")
 
 ## 参考文献
 

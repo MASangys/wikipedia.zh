@@ -1,7 +1,7 @@
 **Visual Basic .NET**（**VB.NET**）是[.NET
-Framework框架下的一种](../Page/.NET_Framework.md "wikilink")[多重编程范式](../Page/多重编程范式.md "wikilink")[高级语言](../Page/高级语言.md "wikilink")。
+Framework框架下的一种](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[多重编程范式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")[高级语言](https://zh.wikipedia.org/wiki/高级语言 "wikilink")。
 
-VB.NET，是[微软公司于](../Page/微软公司.md "wikilink")2002年作为原有的[Visual
+VB.NET，是[微软公司于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")2002年作为原有的[Visual
 Basic的继承者而推出](../Page/Visual_Basic.md "wikilink")。虽然自2005年起，语言名称中的“.NET”就已经被去掉了。但为了与VB
 6.0及以前版本的Visual Basic进行区分，“Visual Basic .NET”的名字仍然被社会公众用来指代VB
 7.0及以后的Visual
@@ -10,10 +10,10 @@ Framework框架下两种主要的程序设计语言，都是为了调用.Net
 Framework的类库资源，因此两种语言具有很高的对应性，数据类型、控制结构与语言特性都存在一一对应，容易把源代码从一种语言对译为另一种语言。
 
 微软公司的集成开发环境[Visual
-Studio是最为广泛使用的VB](../Page/Visual_Studio.md "wikilink").NET开发工具。然而Visual
-Studio的大部分版本都是价格不菲的[商业软件](../Page/商业软件.md "wikilink")，除了[Express版本和](../Page/Visual_Studio_Express.md "wikilink")[Visual
+Studio是最为广泛使用的VB](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink").NET开发工具。然而Visual
+Studio的大部分版本都是价格不菲的[商业软件](https://zh.wikipedia.org/wiki/商业软件 "wikilink")，除了[Express版本和](https://zh.wikipedia.org/wiki/Visual_Studio_Express "wikilink")[Visual
 Studio
-Community](../Page/Visual_Studio_Community.md "wikilink")（以上两者皆为[免费软件](../Page/免费软件.md "wikilink")）。除了Visual
+Community](https://zh.wikipedia.org/wiki/Visual_Studio_Community "wikilink")（以上两者皆为[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")）。除了Visual
 Studio，[SharpDevelop和](../Page/SharpDevelop.md "wikilink")[Mono也是可用的VB](../Page/Mono.md "wikilink").NET开发环境。
 
 ## 数据类型与字面常量表示
@@ -43,11 +43,11 @@ VB.Net的数据类型，实际上是.Net Framework定义的数据类型。
 
 ## 语法特性
 
-VB使用的名字是大小写不敏感的。但是，[CLR是大小写敏感的](../Page/CLR.md "wikilink")。所以建议保持一致的大小写。
+VB使用的名字是大小写不敏感的。但是，[CLR是大小写敏感的](https://zh.wikipedia.org/wiki/CLR "wikilink")。所以建议保持一致的大小写。
 
 ### 空值
 
-VB自版本5以后的数据类型来源于[COM](../Page/COM.md "wikilink")，而其根源是[OLE数据类型](../Page/OLE.md "wikilink")。
+VB自版本5以后的数据类型来源于[COM](https://zh.wikipedia.org/wiki/COM "wikilink")，而其根源是[OLE数据类型](https://zh.wikipedia.org/wiki/OLE "wikilink")。
 
   - Nothing（C\#的null）表示Object类型的变量（即COM中的IDispatch指针，VB中的所有类和控件均由IDispatch派生）为空。对于引用型变量，表示未绑定到一个物理实体对象。
   - Empty表示VARIANT类型变量未初始化（即COM中的VARIANT结构体中的VT成员值为VT_EMPTY）。
@@ -182,7 +182,7 @@ Next [element]
 
 实现迭代器遍历一个序列，每次获取一个返回值。迭代器可以作为一个方法或属性的get访问器，其中的Yield
 语句返回迭代器的返回值，并记住当前执行的位置。下次再调用迭代器，从该执行位置恢复执行，直至迭代器代码执行完或者遇到Exit
-Function或Return语句。编译器把迭代器作为一个[状态机的类](../Page/状态机.md "wikilink")。
+Function或Return语句。编译器把迭代器作为一个[状态机的类](https://zh.wikipedia.org/wiki/状态机 "wikilink")。
 
 ``` vbnet
 Sub Main()
@@ -269,7 +269,7 @@ Public Function GetEnumerator() As IEnumerator _
 
 #### 多型（Polymetric）
 
-基於繼承的[多型](../Page/多型_\(物件導向程式設計\).md "wikilink")，是指用基礎類別類型的變數繫結不同的子類別物件，這樣呼叫基礎類別變數的方法，在[執行時動態確定實際執行了哪個衍生類別的同名的方法](../Page/執行時.md "wikilink")。多型的優點是可以針對基礎類別（或介面）的方法來寫一個通用的過程或者資料容器，適用於各種不同的衍生類別的具體實現。
+基於繼承的[多型](https://zh.wikipedia.org/wiki/多型_\(物件導向程式設計\) "wikilink")，是指用基礎類別類型的變數繫結不同的子類別物件，這樣呼叫基礎類別變數的方法，在[執行時動態確定實際執行了哪個衍生類別的同名的方法](https://zh.wikipedia.org/wiki/執行時 "wikilink")。多型的優點是可以針對基礎類別（或介面）的方法來寫一個通用的過程或者資料容器，適用於各種不同的衍生類別的具體實現。
 
 #### 委托（Delegate）
 
@@ -278,7 +278,7 @@ Public Function GetEnumerator() As IEnumerator _
 ` Delegate Sub PlayHandler(ByVal sender As Object, ByVal e As System.EventArgs)`
 
 委託常用於事件處理（Event Handler）。[.Net
-Framework的事件是類的屬性](../Page/.Net_Framework.md "wikilink")（實際上是一個巢狀類），用於封裝參數格式固定的委託；該委託的參數總是為(ByVal
+Framework的事件是類的屬性](https://zh.wikipedia.org/wiki/.Net_Framework "wikilink")（實際上是一個巢狀類），用於封裝參數格式固定的委託；該委託的參數總是為(ByVal
 sender As Object, ByVal e as System.EventArgs)，返回值為void（即Sub類型）。例如：
 
 ` Public Class clsName`
@@ -424,11 +424,12 @@ End Module
 
 ### 与旧版VB比较
 
-与旧版[VB](../Page/VB.md "wikilink")（VB 6.0及以前）相比较，VB.NET明显受到了.Net
+与旧版[VB](https://zh.wikipedia.org/wiki/VB "wikilink")（VB
+6.0及以前）相比较，VB.NET明显受到了.Net
 Framework中其他语言思想的影响。与旧版VB相比，VB.NET更加严格而不失灵活。
 
   - `Long`类型与`Integer`类型的长度分别倍增，达到了64位和32位。
-  - [事件的处理过程不再依赖于名称](../Page/事件驱动.md "wikilink")，而是通过`Handle`子句进行静态绑定或者在运行时进行动态绑定。例如处理按钮控件`Button1`的`Click`事件：
+  - [事件的处理过程不再依赖于名称](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")，而是通过`Handle`子句进行静态绑定或者在运行时进行动态绑定。例如处理按钮控件`Button1`的`Click`事件：
 
 Visual Basic 6：（注意此过程的名称不可改变）
 
@@ -448,7 +449,7 @@ End Sub
 
   - 很多原有的实现特殊功能的语句被相应定义好的函数替代。这减少了关键字的使用（如`Open()`函数取代`Open`语句，窗体的`Print()`方法取代`Print`语句）。同时，被封装好的、功能更强大的、通用于.Net
     Framework框架的类被推荐用来取代原有的语句。
-  - 对一些更强大的语法特性的支持，如：[LINQ](../Page/语言集成查询.md "wikilink")，[Lambda表达式](../Page/Lambda表达式.md "wikilink")（Visual
+  - 对一些更强大的语法特性的支持，如：[LINQ](../Page/语言集成查询.md "wikilink")，[Lambda表达式](https://zh.wikipedia.org/wiki/Lambda表达式 "wikilink")（Visual
     Basic 2010起支持多行Lambda）。
   - 同样使用`:`作为一行中分行的符号，`_`作为续行符。但是VB.NET自Visual Basic
     2012起允许在函数的定义与调用中不加`_`地用换行分隔各个参数。
@@ -554,7 +555,7 @@ namespace N
 ```
 
 VB.NET与C\#同为.Net
-Framework的两大主力程序设计语言，尽管有着各种各样的不同，两者最终都编译为[MSIL并由](../Page/MSIL.md "wikilink")[CLR运行](../Page/CLR.md "wikilink")。两者功能基本一致，并可以在.Net
+Framework的两大主力程序设计语言，尽管有着各种各样的不同，两者最终都编译为[MSIL并由](https://zh.wikipedia.org/wiki/MSIL "wikilink")[CLR运行](https://zh.wikipedia.org/wiki/CLR "wikilink")。两者功能基本一致，并可以在.Net
 Framework框架下方便地互相调用与协同开发。关于两者的优劣一直见仁见智。
 
 ### 调用C语言函数的规范
@@ -629,7 +630,7 @@ Visual Basic 2015（VB 14.0）於2015年7月20日發佈。
 ### 参见
 
 [Visual Basic](../Page/Visual_Basic.md "wikilink") [Visual
-Studio](../Page/Visual_Studio.md "wikilink")
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
 [C\#](../Page/Microsoft_Visual_C♯.md "wikilink")
 
 ## 外部链接

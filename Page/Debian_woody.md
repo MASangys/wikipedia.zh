@@ -4,32 +4,33 @@
 
 Debian woody支持的机器架构有：
 
-  - [Alpha](../Page/Alpha.md "wikilink")
-  - [ARM](../Page/ARM.md "wikilink")
-  - [HP PA-RISC](../Page/HP_PA-RISC.md "wikilink")
-  - [Intel x86](../Page/Intel_x86.md "wikilink")
-  - [Intel IA-64](../Page/Intel_IA-64.md "wikilink")
-  - [Motorola 680x0](../Page/Motorola_680x0.md "wikilink")
-  - [MIPS](../Page/MIPS.md "wikilink")
-  - [MIPS (DEC)](../Page/MIPS_\(DEC\).md "wikilink")
+  - [Alpha](https://zh.wikipedia.org/wiki/Alpha "wikilink")
+  - [ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")
+  - [HP PA-RISC](https://zh.wikipedia.org/wiki/HP_PA-RISC "wikilink")
+  - [Intel x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink")
+  - [Intel IA-64](https://zh.wikipedia.org/wiki/Intel_IA-64 "wikilink")
+  - [Motorola
+    680x0](https://zh.wikipedia.org/wiki/Motorola_680x0 "wikilink")
+  - [MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")
+  - [MIPS (DEC)](https://zh.wikipedia.org/wiki/MIPS_\(DEC\) "wikilink")
   - [PowerPC](../Page/PowerPC.md "wikilink")
-  - [IBM S/390](../Page/IBM_S/390.md "wikilink")
+  - [IBM S/390](https://zh.wikipedia.org/wiki/IBM_S/390 "wikilink")
   - [SPARC](../Page/SPARC.md "wikilink")
 
 Debian woody的主要特性：\[1\]
 
-  - [加密软件](../Page/加密软件.md "wikilink")：包括[OpenSSH和](../Page/OpenSSH.md "wikilink")[GNU
+  - [加密软件](https://zh.wikipedia.org/wiki/加密软件 "wikilink")：包括[OpenSSH和](../Page/OpenSSH.md "wikilink")[GNU
     Privacy
-    Guard](../Page/GNU_Privacy_Guard.md "wikilink")，另外[网页浏览器和](../Page/网页浏览器.md "wikilink")[网页服务器方面也拥有](../Page/网页服务器.md "wikilink")[强加密手段](../Page/强加密.md "wikilink")
-  - [桌面系统](../Page/桌面系统.md "wikilink")：[KDE](../Page/KDE.md "wikilink")
+    Guard](https://zh.wikipedia.org/wiki/GNU_Privacy_Guard "wikilink")，另外[网页浏览器和](../Page/网页浏览器.md "wikilink")[网页服务器方面也拥有](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")[强加密手段](https://zh.wikipedia.org/wiki/强加密 "wikilink")
+  - [桌面系统](https://zh.wikipedia.org/wiki/桌面系统 "wikilink")：[KDE](../Page/KDE.md "wikilink")
     2.2、[GNOME](../Page/GNOME.md "wikilink")
     1.4、[XFree86](../Page/XFree86.md "wikilink")
     4.1，免费的图形界面[网页浏览器有](../Page/网页浏览器.md "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")、[Galeon](../Page/Galeon.md "wikilink")、[Konqueror](../Page/Konqueror.md "wikilink")
-  - [内核](../Page/内核.md "wikilink")：2.2、2.4（包括USB等许多新的设备支持、[ext3和](../Page/ext3.md "wikilink")[reiserfs](../Page/reiserfs.md "wikilink")[日志文件系统](../Page/日志文件系统.md "wikilink")，以及增强的可用性与稳定性）
-  - [安装程序](../Page/安装程序.md "wikilink")：优雅精简，支持多种语言，改良的灵活任务系统，[debconf工具更易用](../Page/debconf.md "wikilink")、更友好，可从CD-ROM或网络及软盘安装。升级可使用[APT包管理工具自动完成](../Page/APT.md "wikilink")，不需停机
-  - 标准：[文件系统体系标准](../Page/文件系统体系标准.md "wikilink")(FHS)
-    2.2，支持[Linux标准库](../Page/Linux标准库.md "wikilink")（LSB）下开发的软件
-  - [依赖关系](../Page/依赖关系.md "wikilink")：[aptitude](../Page/aptitude.md "wikilink")、[dselect包选择工具](../Page/dselect.md "wikilink")，共新增约4000个新软件包
+  - [内核](../Page/内核.md "wikilink")：2.2、2.4（包括USB等许多新的设备支持、[ext3和](https://zh.wikipedia.org/wiki/ext3 "wikilink")[reiserfs](https://zh.wikipedia.org/wiki/reiserfs "wikilink")[日志文件系统](../Page/日志文件系统.md "wikilink")，以及增强的可用性与稳定性）
+  - [安装程序](https://zh.wikipedia.org/wiki/安装程序 "wikilink")：优雅精简，支持多种语言，改良的灵活任务系统，[debconf工具更易用](https://zh.wikipedia.org/wiki/debconf "wikilink")、更友好，可从CD-ROM或网络及软盘安装。升级可使用[APT包管理工具自动完成](../Page/APT.md "wikilink")，不需停机
+  - 标准：[文件系统体系标准](https://zh.wikipedia.org/wiki/文件系统体系标准 "wikilink")(FHS)
+    2.2，支持[Linux标准库](https://zh.wikipedia.org/wiki/Linux标准库 "wikilink")（LSB）下开发的软件
+  - [依赖关系](https://zh.wikipedia.org/wiki/依赖关系 "wikilink")：[aptitude](https://zh.wikipedia.org/wiki/aptitude "wikilink")、[dselect包选择工具](https://zh.wikipedia.org/wiki/dselect "wikilink")，共新增约4000个新软件包
 
 ## 參考文獻
 

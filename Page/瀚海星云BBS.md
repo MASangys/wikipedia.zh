@@ -1,4 +1,4 @@
-**瀚海星云BBS**是[中国科学技术大学的官方](../Page/中国科学技术大学.md "wikilink")[BBS](../Page/BBS.md "wikilink")，也是中国[教育网内较早开办的高校官方BBS之一](../Page/教育网.md "wikilink")，和中国高校最早自觉实行[实名制的BBS之一](../Page/实名制.md "wikilink")。其名意取“承瀚海之辽阔，比星云之光华”。
+**瀚海星云BBS**是[中国科学技术大学的官方](../Page/中国科学技术大学.md "wikilink")[BBS](../Page/BBS.md "wikilink")，也是中国[教育网内较早开办的高校官方BBS之一](https://zh.wikipedia.org/wiki/教育网 "wikilink")，和中国高校最早自觉实行[实名制的BBS之一](https://zh.wikipedia.org/wiki/实名制 "wikilink")。其名意取“承瀚海之辽阔，比星云之光华”。
 
 。并且在2012年11月的“十八大”期间和之后，瀚海星云BBS增强了自我审查的力度，如增加了身份显示，重新认证（实名），在站规中加强对[校友帐号违规的处罚力度等等](../Page/校友.md "wikilink")，并且原本显示在首页的“十大热门话题”栏目被隐藏，需要自己点击一次左侧边栏“今日十大”的链接才能看到。
 
@@ -6,21 +6,21 @@
 
 ### 建站初期
 
-1996年1月6日开站，首任站长是92级计算机系学生张焕杰（james_zhang）。采用的是[台湾](../Page/台湾.md "wikilink")[中华工学院资讯工程系学生陈绍俊](../Page/中华工学院.md "wikilink")、郭耿言及蔡智强开发的Power
+1996年1月6日开站，首任站长是92级计算机系学生张焕杰（james_zhang）。采用的是[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[中华工学院资讯工程系学生陈绍俊](https://zh.wikipedia.org/wiki/中华工学院 "wikilink")、郭耿言及蔡智强开发的Power
 BBS系统2.2版，此后科大学生朱朝阳、萧镇等对其做了很多修改，成为2.4a版。瀚海星云前任站长王蔚然同学也对[代码做了很多修改](../Page/代码.md "wikilink")。
 
-1996年12月20日开始与[上海交大饮水思源站转信](../Page/上海交大.md "wikilink")。
+1996年12月20日开始与[上海交大饮水思源站转信](https://zh.wikipedia.org/wiki/上海交大 "wikilink")。
 
 1997年1月11日开通Email注册、Email发信、归隐江湖功能。6月27日发布中国大陆第一份BBS文集:
 中国科大BBS文集之毕业纪念册。10月20日开通按作者检索信件、版面文章多种视图功能。11月2日服务器升级为[DELL
-PowerEdge](../Page/DELL_PowerEdge.md "wikilink") 4100/200。11月25日
-发布2.4C版Client。
+PowerEdge](https://zh.wikipedia.org/wiki/DELL_PowerEdge "wikilink")
+4100/200。11月25日 发布2.4C版Client。
 
 1998年3月26日，本站迎来第3,000,000位使用者。8月1日，本站迎来第4,000,000位使用者。
 
 2002年7月16日0时，瀚海星云实现了由PBBS到FBBS的过渡，过渡期间很多学生彻夜不眠爆发了抢注惹眼ID的狂潮。该站的老网虫热衷于使用[Telnet方式上线发表文章](../Page/Telnet.md "wikilink")、灌水、抢号。Telnet是他们认为比较便捷的方式,
 [FireBird
-BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏览的版本](../Page/Web.md "wikilink")，2006年以后随着新生对Telnet客户端的不熟悉和Web浏览功能的日益强大，使用Web方式访问瀚海星云BBS的用户越来愈多。
+BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏览的版本](https://zh.wikipedia.org/wiki/Web "wikilink")，2006年以后随着新生对Telnet客户端的不熟悉和Web浏览功能的日益强大，使用Web方式访问瀚海星云BBS的用户越来愈多。
 
 2012年1月28日，瀚海星云进行了系统更新，实现了@功能的使用。目前提醒需要被提醒人主动查看，而非即时推送。该功能实际处于未完成状态。
 
@@ -28,7 +28,7 @@ BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏
 
 2012年12月2日，瀚海星云站务组下达了关于对BBS部分功能进行调整的公告，曰：“学校接上级有关部门通知，自即日起，本站将加强管理，并增加用户身份标签显示。由于技术方面因素，相关功能会在近期内完成。”同日，多名站长（副站长及技站）及所有站务总管，将自己的昵称修改为：请假中，请联系其他站务。
 
-2013年4月2日，为贯彻上级有关校园[网络安全管理的要求](../Page/网络安全.md "wikilink")，加强本校BBS的管理，简化BBS注册流程，BBS上新增了用户身份数据库，依靠本校[邮件服务器邮件地址关联BBS帐号身份信息](../Page/邮件服务器.md "wikilink")。为了加强身份信息的有效性和一致性，要求BBS用户尽快对帐号进行身份重认证。4月10日未进行身份重认证的用户，将由程序自动更改为未注册用户。
+2013年4月2日，为贯彻上级有关校园[网络安全管理的要求](../Page/网络安全.md "wikilink")，加强本校BBS的管理，简化BBS注册流程，BBS上新增了用户身份数据库，依靠本校[邮件服务器邮件地址关联BBS帐号身份信息](https://zh.wikipedia.org/wiki/邮件服务器 "wikilink")。为了加强身份信息的有效性和一致性，要求BBS用户尽快对帐号进行身份重认证。4月10日未进行身份重认证的用户，将由程序自动更改为未注册用户。
 
 2013年6月1日，由于上级有关要求，BBS功能继续调整。站长jameszhang提高发文权限，曾经在test等版可以post的20级账号无法发帖。认证用户程度进一步提高。
 
@@ -46,21 +46,22 @@ BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏
 
 ## 著名版块
 
-  - 系统测试（test）：是以[名媛文化和](../Page/名媛.md "wikilink")[屌丝文化为主线的二元文化体系](../Page/屌丝.md "wikilink")。现存网友主要来自帝都地区、魔都地区、[兰州地区](../Page/兰州.md "wikilink")、[合肥地区](../Page/合肥.md "wikilink")、[北美地区](../Page/北美.md "wikilink")。长期占据热门板块第一把交椅。近年来因为几大事件步入没落，比如dapiao事件、woodhead和90妹子重组事件、chenmo被删号事件等，导致数个活跃账号退隐，加之大量男女账号碰撞后湮灭，版面无法形成有效话题。同时面对[移动互联网](../Page/移动互联网.md "wikilink")、[社交软件等](../Page/社交软件.md "wikilink")[新媒体冲击](../Page/新媒体.md "wikilink")，test乃至整个瀚海无法吸引新生来补充新鲜血液，在一些十几年的账号退隐或者自杀之后，渐渐陷于每日五十帖以下的休眠状态。
+  - 系统测试（test）：是以[名媛文化和](https://zh.wikipedia.org/wiki/名媛 "wikilink")[屌丝文化为主线的二元文化体系](../Page/屌丝.md "wikilink")。现存网友主要来自帝都地区、魔都地区、[兰州地区](https://zh.wikipedia.org/wiki/兰州 "wikilink")、[合肥地区](https://zh.wikipedia.org/wiki/合肥 "wikilink")、[北美地区](https://zh.wikipedia.org/wiki/北美 "wikilink")。长期占据热门板块第一把交椅。近年来因为几大事件步入没落，比如dapiao事件、woodhead和90妹子重组事件、chenmo被删号事件等，导致数个活跃账号退隐，加之大量男女账号碰撞后湮灭，版面无法形成有效话题。同时面对[移动互联网](https://zh.wikipedia.org/wiki/移动互联网 "wikilink")、[社交软件等](https://zh.wikipedia.org/wiki/社交软件 "wikilink")[新媒体冲击](https://zh.wikipedia.org/wiki/新媒体 "wikilink")，test乃至整个瀚海无法吸引新生来补充新鲜血液，在一些十几年的账号退隐或者自杀之后，渐渐陷于每日五十帖以下的休眠状态。
 
 <!-- end list -->
 
-  - 开心加油站（Joke）：更多的充满中国网路式[恶搞和政治](../Page/恶搞.md "wikilink")[讽刺](../Page/讽刺.md "wikilink")。
+  - 开心加油站（Joke）：更多的充满中国网路式[恶搞和政治](https://zh.wikipedia.org/wiki/恶搞 "wikilink")[讽刺](../Page/讽刺.md "wikilink")。
 
 <!-- end list -->
 
-  - 心理交际版（Psychology）：较多讨论[感情话题](../Page/感情.md "wikilink"). 由于支持匿名发贴,
-    充斥着大量匿名网友依据想象撰写的[爱情和](../Page/爱情.md "wikilink")[生活故事](../Page/生活.md "wikilink"),
+  - 心理交际版（Psychology）：较多讨论[感情话题](https://zh.wikipedia.org/wiki/感情 "wikilink").
+    由于支持匿名发贴,
+    充斥着大量匿名网友依据想象撰写的[爱情和](https://zh.wikipedia.org/wiki/爱情 "wikilink")[生活故事](https://zh.wikipedia.org/wiki/生活 "wikilink"),
     内容劲爆而狗血, 堪称电影剧本。
 
 <!-- end list -->
 
-  - 鹊桥飞渡（PieBridge）：是以[相亲为目的的版块](../Page/相亲.md "wikilink")。
+  - 鹊桥飞渡（PieBridge）：是以[相亲为目的的版块](https://zh.wikipedia.org/wiki/相亲 "wikilink")。
 
 <!-- end list -->
 
@@ -72,7 +73,7 @@ BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏
 
 <!-- end list -->
 
-  - 科大发展（USTCDevelopment）：在ourustc成为校外不可见之后，USTCDevelopment成为其替代版块，成为[五毛党和](../Page/五毛党.md "wikilink")[愤青争论的战场](../Page/愤青.md "wikilink")。争论主题通常为科大的排名问题、科大在国内的声誉问题、科大有哪些需要改进，以及科大日常管理存在的问题。其中排名问题、高考招生问题，以及本科生宿舍是否应该开通网络的问题成为每年必讨论的问题，成为一年又一年的年经贴。2012年上半年，ID为Nash的年轻教师对于计算机学院管理问题提出了很大的意见，并撰写了许多博文同步在科大发展版发表，并引起了学校有关部门的注意。经过学校讨论，Nash被“辞职”出学校，他所提出的问题被视为没有问题。
+  - 科大发展（USTCDevelopment）：在ourustc成为校外不可见之后，USTCDevelopment成为其替代版块，成为[五毛党和](https://zh.wikipedia.org/wiki/五毛党 "wikilink")[愤青争论的战场](../Page/愤青.md "wikilink")。争论主题通常为科大的排名问题、科大在国内的声誉问题、科大有哪些需要改进，以及科大日常管理存在的问题。其中排名问题、高考招生问题，以及本科生宿舍是否应该开通网络的问题成为每年必讨论的问题，成为一年又一年的年经贴。2012年上半年，ID为Nash的年轻教师对于计算机学院管理问题提出了很大的意见，并撰写了许多博文同步在科大发展版发表，并引起了学校有关部门的注意。经过学校讨论，Nash被“辞职”出学校，他所提出的问题被视为没有问题。
 
 <!-- end list -->
 
@@ -100,11 +101,11 @@ BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏
 
 <!-- end list -->
 
-  - 飞跃各版块：瀚海星云经过改版后，新4区改为出国留学版块，包括出国考试（AbroadTest）、飞跃重洋（AdvancedEdu）、[生物飞跃](../Page/生物.md "wikilink")（BioFly）、[商学院飞跃](../Page/商学院.md "wikilink")（BizFly）、[化学飞跃](../Page/化学.md "wikilink")（ChemFly）、[工程飞跃](../Page/工程.md "wikilink")（EngFly）、[数学统计飞跃](../Page/数学统计.md "wikilink")（MathStatFly）、海外生活（Oversea）、[物理飞跃](../Page/物理.md "wikilink")（PhysicsFly）。
+  - 飞跃各版块：瀚海星云经过改版后，新4区改为出国留学版块，包括出国考试（AbroadTest）、飞跃重洋（AdvancedEdu）、[生物飞跃](../Page/生物.md "wikilink")（BioFly）、[商学院飞跃](../Page/商学院.md "wikilink")（BizFly）、[化学飞跃](https://zh.wikipedia.org/wiki/化学 "wikilink")（ChemFly）、[工程飞跃](https://zh.wikipedia.org/wiki/工程 "wikilink")（EngFly）、[数学统计飞跃](https://zh.wikipedia.org/wiki/数学统计 "wikilink")（MathStatFly）、海外生活（Oversea）、[物理飞跃](https://zh.wikipedia.org/wiki/物理 "wikilink")（PhysicsFly）。
 
 <!-- end list -->
 
-  - [食堂各板块](../Page/食堂.md "wikilink")：食堂各版块包括已经消失的食堂版（Shitang）和如今的饮食服务集团（CateringGroup）。在term模式下搜索食堂版只需要输入shit即可完成进入版面，因此当年的食堂版也被大家亲切的称为“shit”版。2007年上半年，食堂相关版块曾经贴出各种问题。\[5\]事件解决后食堂版遂关版大吉。版块内曾先后贴出价格不断上涨、吃出螺丝钉、头发、[蟑螂等不可致病致命的小问题](../Page/蟑螂.md "wikilink")，也曾经历过较为严重的[卫生问题](../Page/卫生.md "wikilink")，如
+  - [食堂各板块](../Page/食堂.md "wikilink")：食堂各版块包括已经消失的食堂版（Shitang）和如今的饮食服务集团（CateringGroup）。在term模式下搜索食堂版只需要输入shit即可完成进入版面，因此当年的食堂版也被大家亲切的称为“shit”版。2007年上半年，食堂相关版块曾经贴出各种问题。\[5\]事件解决后食堂版遂关版大吉。版块内曾先后贴出价格不断上涨、吃出螺丝钉、头发、[蟑螂等不可致病致命的小问题](../Page/蟑螂.md "wikilink")，也曾经历过较为严重的[卫生问题](https://zh.wikipedia.org/wiki/卫生 "wikilink")，如
 
 ## 存在问题
 
@@ -121,7 +122,7 @@ BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏
 
 <!-- end list -->
 
-  - 年经贴2：[招生问题](../Page/招生.md "wikilink")，排名问题的后续。
+  - 年经贴2：[招生问题](https://zh.wikipedia.org/wiki/招生 "wikilink")，排名问题的后续。
 
 <!-- end list -->
 
@@ -140,11 +141,11 @@ BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏
 后记：chenmo第三账号（实为自然人家属账号）applezgp
 在USTCDevelopment版的一阵腥风血雨后于2013年7月22日下午5点左右卒。虽该账号言辞犀利，并触碰到学校管理层及其拥护者的利益（[精神方面](../Page/精神.md "wikilink")），但在BBS此类公开论坛，不仅过BBS惩罚流程进行惩罚（penalty版暨惩罚版并无对该账号的封禁记录），而由学校管理人员对数据库直接进行修改的这种行为实在是令人感觉奇怪，这与该账号前两任账号的莫名失踪有着惊人的相似。
 
-此后类似事件仍有发生，安检人员针对某在校学生[自杀事件试图通过删帖等方式控制舆论时](../Page/自杀.md "wikilink")，遭到身份认证为校友的网友质疑，认为尽管该学生自杀并不值得同情，但在死者家属已经扩大事态时这种[鸵鸟做法不仅无助于平息事态和维稳](../Page/鸵鸟.md "wikilink")，更不符合基本的信息公开与言论自由精神。随后该网友认证所使用mail.ustc后缀邮箱被行政人员置为校外邮箱权限，其账号权限也被系统修改为校外人士（亦即被列为该站不受欢迎人士）。据悉，被列为该站不受欢迎人员列表中包括著名网友[王东波](../Page/王东波.md "wikilink")，上节所述名媛chenmo等七到八个自然人。
+此后类似事件仍有发生，安检人员针对某在校学生[自杀事件试图通过删帖等方式控制舆论时](https://zh.wikipedia.org/wiki/自杀 "wikilink")，遭到身份认证为校友的网友质疑，认为尽管该学生自杀并不值得同情，但在死者家属已经扩大事态时这种[鸵鸟做法不仅无助于平息事态和维稳](../Page/鸵鸟.md "wikilink")，更不符合基本的信息公开与言论自由精神。随后该网友认证所使用mail.ustc后缀邮箱被行政人员置为校外邮箱权限，其账号权限也被系统修改为校外人士（亦即被列为该站不受欢迎人士）。据悉，被列为该站不受欢迎人员列表中包括著名网友[王东波](https://zh.wikipedia.org/wiki/王东波 "wikilink")，上节所述名媛chenmo等七到八个自然人。
 
 ## 常见用语
 
-  - 站内M/三个字：常出现在psychology版。一般匿名LZ爆出or显示出自己是女生，并且遇到[感情问题](../Page/感情.md "wikilink")，便有猥琐男回帖曰：站内M/三个字。意为希望楼主站内联系之，并期待有所发展，也有不少初入网络的纯洁少女真的会站内联系。
+  - 站内M/三个字：常出现在psychology版。一般匿名LZ爆出or显示出自己是女生，并且遇到[感情问题](https://zh.wikipedia.org/wiki/感情 "wikilink")，便有猥琐男回帖曰：站内M/三个字。意为希望楼主站内联系之，并期待有所发展，也有不少初入网络的纯洁少女真的会站内联系。
 
 <!-- end list -->
 
@@ -153,11 +154,11 @@ BBS系统稳定后又推出了可供](../Page/FireBird_BBS.md "wikilink")[Web浏
 
 <!-- end list -->
 
-  - cong/con：为congratulations的缩写，多出现于fly各版块，表示对lz的恭喜，该回帖方式为国外[论坛传来](../Page/论坛.md "wikilink")。
+  - cong/con：为congratulations的缩写，多出现于fly各版块，表示对lz的恭喜，该回帖方式为国外[论坛传来](https://zh.wikipedia.org/wiki/论坛 "wikilink")。
 
 <!-- end list -->
 
-  - 坑：常出现在[心理版和love版](../Page/心理.md "wikilink")，表示跟帖者对楼主的帖子的真实性表示质疑。
+  - 坑：常出现在[心理版和love版](https://zh.wikipedia.org/wiki/心理 "wikilink")，表示跟帖者对楼主的帖子的真实性表示质疑。
 
 <!-- end list -->
 

@@ -1,4 +1,4 @@
-**微软基础类库**（，简称**MFC**）是一个[微软公司提供的类库](../Page/微软公司.md "wikilink")（class
+**微软基础类库**（，简称**MFC**）是一个[微软公司提供的类库](https://zh.wikipedia.org/wiki/微软公司 "wikilink")（class
 libraries），以[C++类的形式封装了](../Page/C++.md "wikilink")[Windows
 API](../Page/Windows_API.md "wikilink")，并且包含一个（也是微软产品的唯一一个）应用程序框架，以减少应用程序开发人员的工作量。其中包含的类包含大量Windows[句柄封装类和很多Windows的内建控件和组件的封装类](../Page/句柄.md "wikilink")。
 
@@ -7,8 +7,8 @@ API](../Page/Windows_API.md "wikilink")，并且包含一个（也是微软产�
 Visual
 C++包含MFC应用程序向导，可用于兼容MFC的应用程序\[1\]。在ATL程序中也可以手动添加MFC支持\[2\]。在向导中有各种选项以定制生成的程序的功能，例如界面风格、语种、数据库开发支持、打印支持、自动化支持、ActiveX支持、网络支持、基于HTML的帮助文档支持等等。
 
-在[COM开发方面](../Page/COM.md "wikilink")，相对于ATL来说，MFC的组件比较大，代码不够短小精悍，但是支持的功能也比较多，例如有对[ActiveX
-Document的封装类](../Page/ActiveX_Document.md "wikilink")\[3\]。
+在[COM开发方面](https://zh.wikipedia.org/wiki/COM "wikilink")，相对于ATL来说，MFC的组件比较大，代码不够短小精悍，但是支持的功能也比较多，例如有对[ActiveX
+Document的封装类](https://zh.wikipedia.org/wiki/ActiveX_Document "wikilink")\[3\]。
 
 在界面开发方面，MFC提供对消息循环的封装，使用消息映射来避免虚函数的开销。MFC也提供常用Windows通用控件的封装类。
 
@@ -21,20 +21,20 @@ MFC是在1992年随微软的Microsoft C/C++
 Framework eXtensions（AFX）。\[4\]
 
 随着[Visual Basic和](../Page/Visual_Basic.md "wikilink")[Visual Studio
-.NET的发布](../Page/Visual_Studio_.NET.md "wikilink")，曾经一度被微软重点推荐的MFC被[Visual
+.NET的发布](https://zh.wikipedia.org/wiki/Visual_Studio_.NET "wikilink")，曾经一度被微软重点推荐的MFC被[Visual
 Basic
-.NET](../Page/Visual_Basic_.NET.md "wikilink")、[C\#](../Page/C_Sharp.md "wikilink")、[Windows
+.NET](../Page/Visual_Basic_.NET.md "wikilink")、[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")、[Windows
 Forms抢走了不少市场份额](../Page/Windows_Forms.md "wikilink")，但是MFC继续在非托管软件开发中占据重要地位。在托管开发方面，MFC中也包括对Windows
 Forms和托管／非托管互操作的封装。微软在[Windows
 Vista和](../Page/Windows_Vista.md "wikilink")[Windows
-7发布之后在MFC中增加了对新的](../Page/Windows_7.md "wikilink")[Windows
+7发布之后在MFC中增加了对新的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows
 API支持](../Page/Windows_API.md "wikilink")\[5\]\[6\]。
 
 ## MFC的优点
 
-MFC的主要优点是可以用[面向对象的方法来调用Windows](../Page/面向对象.md "wikilink")
+MFC的主要优点是可以用[面向对象的方法来调用Windows](https://zh.wikipedia.org/wiki/面向对象 "wikilink")
 API，以及能够更加便捷地开发应用程序。MFC将很多应用程序开发中常用的功能自动化，并且提供了文档框架视图结构和活动文档这样的便于自定义的应用程序框架。同时，在Visual
-C++内部也内建了很多对MFC的例如[类向导这样的支持以减少软件开发的时间](../Page/类向导.md "wikilink")，使用类向导可以快速生成Hello
+C++内部也内建了很多对MFC的例如[类向导这样的支持以减少软件开发的时间](https://zh.wikipedia.org/wiki/类向导 "wikilink")，使用类向导可以快速生成Hello
 World程序。
 
 ## MFC的缺点
@@ -48,32 +48,32 @@ C++中其他类型的应用程序向导生成的工程中添加MFC支持的难�
 
 ## 版本
 
-| 產品版本                                                                                               | MFC版本                                                                  |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Microsoft C/C++ 7.0                                                                                | MFC 1.0 （1992年）                                                        |
-| Visual C++ 1.0                                                                                     | MFC 2.0                                                                |
-| Visual C++ 1.5                                                                                     | MFC 2.5                                                                |
-| Visual C++ 1.51                                                                                    | MFC 2.51                                                               |
-| Visual C++ 1.52c                                                                                   | MFC 2.5 （用于[Windows 3.x平台的最后一版](../Page/Windows_3.x.md "wikilink")）    |
-| Visual C++ 2.0                                                                                     | MFC 3.0                                                                |
-| Visual C++ 2.1                                                                                     | MFC 3.1                                                                |
-| Visual C++ 2.2                                                                                     | MFC 3.2                                                                |
-| Visual C++ 4.0                                                                                     | MFC 4.0（mfc40.dll包含於[Windows 95](../Page/Windows_95.md "wikilink")）    |
-| Visual C++ 4.1                                                                                     | MFC 4.1                                                                |
-| Visual C++ 4.2                                                                                     | MFC 4.2（mfc42.dll包含於[Windows 98第一版](../Page/Windows_98.md "wikilink")） |
-| eMbedded Visual C++ 3.0（Pocket PC）                                                                 | MFC 4.2（mfc42.dll）                                                     |
-| Visual C++ 5.0                                                                                     | MFC 4.21（mfc42.dll）                                                    |
-| Visual C++ 6.0                                                                                     | MFC 6.0（mfc42.dll）1998年                                                |
-| eMbedded Visual C++ 4.0                                                                            | MFC 6.0（mfcce400.dll）                                                  |
-| Visual C++ .NET 2002 (Visual C++ 7.0)                                                              | MFC 7.0（mfc70.dll） [.Net](../Page/.Net.md "wikilink") 1.0              |
-| Visual C++ .NET 2003 (Visual C++ 7.1)                                                              | MFC 7.1（mfc71.dll）[.Net](../Page/.Net.md "wikilink") 1.1               |
-| Visual C++ 2005<sup>[1](../Page/#nomfc.md "wikilink")</sup>                                        | MFC 8.0.50727.42（mfc80.dll） [.Net](../Page/.Net.md "wikilink") 2.0     |
-| Visual C++ 2008<sup>[1](../Page/#nomfc.md "wikilink")</sup>                                        | MFC 9.0.21022（mfc90.dll）                                               |
-| Visual C++ 2008 (Visual C++ 9.0)（包含Feature Pack）<sup>[2](../Page/#featurepack.md "wikilink")</sup> | MFC 9.0.30411（mfc90.dll） [.Net](../Page/.Net.md "wikilink") 3.5        |
-| Visual C++ 2010<sup>[1](../Page/#nomfc.md "wikilink")</sup>                                        | MFC 10.0.30319.1（mfc100.dll） [.Net](../Page/.Net.md "wikilink") 4.0    |
-| Visual C++ 2012<sup>[1](../Page/#nomfc.md "wikilink")</sup>                                        | MFC 11.0.50727.1（mfc110.dll） [.Net](../Page/.Net.md "wikilink") 4.5    |
-| Visual C++ 2013<sup>[1](../Page/#nomfc.md "wikilink")</sup>                                        | MFC 12.0.21005.1（mfc120.dll） [.Net](../Page/.Net.md "wikilink") 4.5.1  |
-| Visual C++ 2015<sup>[1](../Page/#nomfc.md "wikilink")</sup>                                        | MFC 14.0.23026.0（mfc140.dll）[.Net](../Page/.Net.md "wikilink") 4.6     |
+| 產品版本                                                                                                                  | MFC版本                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Microsoft C/C++ 7.0                                                                                                   | MFC 1.0 （1992年）                                                                          |
+| Visual C++ 1.0                                                                                                        | MFC 2.0                                                                                  |
+| Visual C++ 1.5                                                                                                        | MFC 2.5                                                                                  |
+| Visual C++ 1.51                                                                                                       | MFC 2.51                                                                                 |
+| Visual C++ 1.52c                                                                                                      | MFC 2.5 （用于[Windows 3.x平台的最后一版](../Page/Windows_3.x.md "wikilink")）                      |
+| Visual C++ 2.0                                                                                                        | MFC 3.0                                                                                  |
+| Visual C++ 2.1                                                                                                        | MFC 3.1                                                                                  |
+| Visual C++ 2.2                                                                                                        | MFC 3.2                                                                                  |
+| Visual C++ 4.0                                                                                                        | MFC 4.0（mfc40.dll包含於[Windows 95](../Page/Windows_95.md "wikilink")）                      |
+| Visual C++ 4.1                                                                                                        | MFC 4.1                                                                                  |
+| Visual C++ 4.2                                                                                                        | MFC 4.2（mfc42.dll包含於[Windows 98第一版](../Page/Windows_98.md "wikilink")）                   |
+| eMbedded Visual C++ 3.0（Pocket PC）                                                                                    | MFC 4.2（mfc42.dll）                                                                       |
+| Visual C++ 5.0                                                                                                        | MFC 4.21（mfc42.dll）                                                                      |
+| Visual C++ 6.0                                                                                                        | MFC 6.0（mfc42.dll）1998年                                                                  |
+| eMbedded Visual C++ 4.0                                                                                               | MFC 6.0（mfcce400.dll）                                                                    |
+| Visual C++ .NET 2002 (Visual C++ 7.0)                                                                                 | MFC 7.0（mfc70.dll） [.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 1.0             |
+| Visual C++ .NET 2003 (Visual C++ 7.1)                                                                                 | MFC 7.1（mfc71.dll）[.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 1.1              |
+| Visual C++ 2005<sup>[1](https://zh.wikipedia.org/wiki/#nomfc "wikilink")</sup>                                        | MFC 8.0.50727.42（mfc80.dll） [.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 2.0    |
+| Visual C++ 2008<sup>[1](https://zh.wikipedia.org/wiki/#nomfc "wikilink")</sup>                                        | MFC 9.0.21022（mfc90.dll）                                                                 |
+| Visual C++ 2008 (Visual C++ 9.0)（包含Feature Pack）<sup>[2](https://zh.wikipedia.org/wiki/#featurepack "wikilink")</sup> | MFC 9.0.30411（mfc90.dll） [.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 3.5       |
+| Visual C++ 2010<sup>[1](https://zh.wikipedia.org/wiki/#nomfc "wikilink")</sup>                                        | MFC 10.0.30319.1（mfc100.dll） [.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 4.0   |
+| Visual C++ 2012<sup>[1](https://zh.wikipedia.org/wiki/#nomfc "wikilink")</sup>                                        | MFC 11.0.50727.1（mfc110.dll） [.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 4.5   |
+| Visual C++ 2013<sup>[1](https://zh.wikipedia.org/wiki/#nomfc "wikilink")</sup>                                        | MFC 12.0.21005.1（mfc120.dll） [.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 4.5.1 |
+| Visual C++ 2015<sup>[1](https://zh.wikipedia.org/wiki/#nomfc "wikilink")</sup>                                        | MFC 14.0.23026.0（mfc140.dll）[.Net](https://zh.wikipedia.org/wiki/.Net "wikilink") 4.6    |
 
   - <sup>1</sup> Visual Studio速成版（Express）不包含MFC库。
 
@@ -93,7 +93,7 @@ C++中其他类型的应用程序向导生成的工程中添加MFC支持的难�
 2.  AfxWinMain函数（位于WinMain.cpp中）调用了
     1.  该应用程序自定义的App类（这个类派生于CWinApp的，CWinApp又是派生于CWinThread，因此代表了应用程序的主线程）的InitInstance函数，该函数注册并创建窗口（通过AppUI2.cpp中的ProcessShellCommmand函数)，然后ShowWindow、UpdateWindow;
     2.  CWinThread的InitInstance函数；
-    3.  CWinThread的Run函数（位于thrdcore.cpp中）。该函数内部是Windows的[消息循环](../Page/Microsoft_Windows的消息循环.md "wikilink")。
+    3.  CWinThread的Run函数（位于thrdcore.cpp中）。该函数内部是Windows的[消息循环](https://zh.wikipedia.org/wiki/Microsoft_Windows的消息循环 "wikilink")。
         当应用程序收到WM_QUIT消息后，CWinThread::Run函数返回，紧接着CWinThread::ExitInstance被调用，该函数可被覆盖。程序至此退出运行。
         消息循环是一个for(;;)的死循环，该死循环内部包含了一个do...while的循环结构。while循环条件是调用PeekMessage函数的返回值，如果当前UI线程消息队列为空就返回到外层的死循环；while循环体内做两件事：
         1.  PumpMessage()。实际调用AfxInternalPumpMessage函数实现其功能：GetMessage()、AfxPreTranslateMessage()、TranslateMessage()、DispatchMessage().即：从UI线程消息队列移除一条消息、遍历该消息的CWnd类直到该窗口的各级别父窗口的CWnd类以提供预处理该消息的机会、如果该消息是按键消息则翻译为WM_CHAR消息、把该消息给相应的窗口函数。
@@ -180,7 +180,7 @@ MFC类体系中，Windows消息传递处理机制是基于CCmdTarget类及其派
 
 在[头文件的类定义中使用宏DECLARE](../Page/头文件.md "wikilink")_MESSAGE_MAP()来声明静态成员函数GetThisMessageMap与虚函数GetMessageMap
 
-用户所写的类的Windows消息处理函数（例如OnCommand）必须转换为CCmdTarget::\*的[成员函数指针类型AFX](../Page/成员函数指针.md "wikilink")_PMSG，保存在该类的_messageEntries数组中。
+用户所写的类的Windows消息处理函数（例如OnCommand）必须转换为CCmdTarget::\*的[成员函数指针类型AFX](https://zh.wikipedia.org/wiki/成员函数指针 "wikilink")_PMSG，保存在该类的_messageEntries数组中。
 
 ``` cpp
 struct AFX_MSGMAP_ENTRY
@@ -211,7 +211,8 @@ CString是MFC中最常见的类之一，用于封装字符串数据结构。它�
 pStringMgr; int nDataLength; int nAllocLength; int
 nRefs;`等管理数据。因此，每次为CString动态分配地址空间，实际分配长度为:`(nChars+1)*nCharSize+sizeof(CStringData)`。当执行CString的默认构造函数生成一个空串时，实际上都是构造一个CnilStringData对象。
 
-部分编译器对std::string放弃了[写时复制](../Page/写时复制.md "wikilink")（Copy On
+部分编译器对std::string放弃了[写时复制](https://zh.wikipedia.org/wiki/写时复制 "wikilink")（Copy
+On
 Write）机制。但是，CString一直采取这一机制。GetString方法返回的是只读的字符串地址；而GetBuffer方法返回的是**可写**的字符串地址，如果修改了字符串内容，这时需要调用ReleaseBuffer方法把新的字符串长度修改到元数据中。
 
 CString对象用作可变参数函数（如printf）的实参时，由于无法通过形参类型确定调用哪个CString的类型转换操作符函数，因此有必要显式指明要转换的类型。如果需要在函数的参数传递CString，由于CString使用了引用计数，因此函数参数传递一个CString对象是可行的；需要修改其内容时，推荐使用const
@@ -249,10 +250,11 @@ mapping），如果句柄值相同，则默认使用应用程序的映射到的�
 
 ## 参考和引用
 
-  - [ATL](../Page/ATL.md "wikilink")
+  - [ATL](https://zh.wikipedia.org/wiki/ATL "wikilink")
   - [Microsoft Visual
     Studio](../Page/Microsoft_Visual_Studio.md "wikilink")
-  - [Visual Studio .NET](../Page/Visual_Studio_.NET.md "wikilink")
+  - [Visual Studio
+    .NET](https://zh.wikipedia.org/wiki/Visual_Studio_.NET "wikilink")
   - [Object Windows
     Library](../Page/Object_Windows_Library.md "wikilink")
 

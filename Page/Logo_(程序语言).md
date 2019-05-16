@@ -1,12 +1,12 @@
 [Remi_turtlegrafik.png](https://zh.wikipedia.org/wiki/File:Remi_turtlegrafik.png "fig:Remi_turtlegrafik.png")
 
-**Logo**是一种计算机[程式设计语言](../Page/程序设计语言.md "wikilink")，在1966年由[西摩爾·派普特和Wally](../Page/西摩爾·派普特.md "wikilink")
-Feurzeig设计，设计Logo的初衷是为了向儿童教授[计算机编程技能](../Page/计算机编程.md "wikilink")。Logo一词源自希腊语[邏各斯](../Page/邏各斯.md "wikilink")（logos）。
+**Logo**是一种计算机[程式设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，在1966年由[西摩爾·派普特和Wally](../Page/西摩爾·派普特.md "wikilink")
+Feurzeig设计，设计Logo的初衷是为了向儿童教授[计算机编程技能](https://zh.wikipedia.org/wiki/计算机编程 "wikilink")。Logo一词源自希腊语[邏各斯](../Page/邏各斯.md "wikilink")（logos）。
 
 Logo的原型来自另一个计算机语言[LISP](../Page/LISP.md "wikilink")，派普特修改了LISP的语法使其更易于阅读。Logo常被称作没有括号的Lisp。
 
-Logo是一种[直譯語言](../Page/直譯語言.md "wikilink")，和其他语言不同的是，它内置一套海龟绘图（Turtle
-Graphics）系统，通过向海龟发送命令，用户可以直观地学习程序的运行过程，因此很适于儿童学习。它亦適合用作[數學教學](../Page/數學.md "wikilink")。
+Logo是一种[直譯語言](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")，和其他语言不同的是，它内置一套海龟绘图（Turtle
+Graphics）系统，通过向海龟发送命令，用户可以直观地学习程序的运行过程，因此很适于儿童学习。它亦適合用作[數學教學](https://zh.wikipedia.org/wiki/數學 "wikilink")。
 
 Logo继承了Lisp的「表」的概念，所以在函数处理等方面拥有强大的能力，因此Logo不仅是初学者学习程序设计的良药，更是有特殊需求的计算机科学家的好帮手。
 
@@ -52,7 +52,7 @@ FD是前进 LT是左转 画一个正方形
 
 ## 多代理建模语言
 
-Logo的方言NetLogo、StarLogo进一步深化了Logo的海龟绘图概念，可以产生出成百上千个独立的海龟（被称为代理）来模拟诸如[物理](../Page/物理.md "wikilink")、[生物或](../Page/生物.md "wikilink")[社会等复杂系统](../Page/社会.md "wikilink")。建模者可以对众多海龟并行发送指令，来观察微观个体行为与个体之间相互影响产生的宏观样式之间的联系。
+Logo的方言NetLogo、StarLogo进一步深化了Logo的海龟绘图概念，可以产生出成百上千个独立的海龟（被称为代理）来模拟诸如[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[生物或](../Page/生物.md "wikilink")[社会等复杂系统](../Page/社会.md "wikilink")。建模者可以对众多海龟并行发送指令，来观察微观个体行为与个体之间相互影响产生的宏观样式之间的联系。
 
 ## LOGO直譯器列表
 

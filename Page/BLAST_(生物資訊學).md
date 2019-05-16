@@ -1,18 +1,18 @@
-[生物信息學中](../Page/生物信息.md "wikilink")，**BLAST**（）它是一個用來比對[生物序列的](../Page/生物序列.md "wikilink")[一級結構](../Page/一級結構.md "wikilink")（如不同[蛋白質的](../Page/蛋白質.md "wikilink")[氨基酸序列或不同](../Page/氨基酸.md "wikilink")[基因的](../Page/基因.md "wikilink")[DNA序列](../Page/脱氧核糖核酸.md "wikilink")）的算法。
+[生物信息學中](https://zh.wikipedia.org/wiki/生物信息 "wikilink")，**BLAST**（）它是一個用來比對[生物序列的](https://zh.wikipedia.org/wiki/生物序列 "wikilink")[一級結構](https://zh.wikipedia.org/wiki/一級結構 "wikilink")（如不同[蛋白質的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")[氨基酸序列或不同](../Page/氨基酸.md "wikilink")[基因的](../Page/基因.md "wikilink")[DNA序列](../Page/脱氧核糖核酸.md "wikilink")）的算法。
 已知一個包含若干序列的資料庫，BLAST可以讓研究者在其中尋找與其感興趣的序列相同或類似的序列。
-例如如果某種非人動物的一個以前未知的基因被發現，研究者一般會在人類基因組中做一個BLAST搜索來確認人類是否包含類似的基因（通過序列的相似性）。BLAST演算法以及實現它的程序由[美國國家生物技術信息中心](../Page/美國國家生物技術信息中心.md "wikilink")（NCBI）的、、、及博士開發\[[http://www.ncbi.nlm.nih.gov/BLAST/\]的](http://www.ncbi.nlm.nih.gov/BLAST/%5D的)。
+例如如果某種非人動物的一個以前未知的基因被發現，研究者一般會在人類基因組中做一個BLAST搜索來確認人類是否包含類似的基因（通過序列的相似性）。BLAST演算法以及實現它的程序由[美國國家生物技術信息中心](https://zh.wikipedia.org/wiki/美國國家生物技術信息中心 "wikilink")（NCBI）的、、、及博士開發\[[http://www.ncbi.nlm.nih.gov/BLAST/\]的](http://www.ncbi.nlm.nih.gov/BLAST/%5D的)。
 
 研究者利用BLAST來解决的其他問题有：
 
-  - 哪個[细菌](../Page/细菌.md "wikilink")[物種包含與](../Page/物種.md "wikilink")[氨基酸序列已知的某](../Page/氨基酸.md "wikilink")[蛋白質有親緣關係的蛋白質](../Page/蛋白質.md "wikilink")？
+  - 哪個[细菌](../Page/细菌.md "wikilink")[物種包含與](https://zh.wikipedia.org/wiki/物種 "wikilink")[氨基酸序列已知的某](../Page/氨基酸.md "wikilink")[蛋白質有親緣關係的蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")？
   - 被測序的一段[DNA來自哪裡](../Page/脱氧核糖核酸.md "wikilink")？
-  - 何種基因编碼的蛋白質表現出剛剛被確定的某種結構或[結構模體](../Page/結構模體.md "wikilink")？
+  - 何種基因编碼的蛋白質表現出剛剛被確定的某種結構或[結構模體](https://zh.wikipedia.org/wiki/結構模體 "wikilink")？
 
 ……等等。
 
 ## 背景
 
-BLAST是一個被廣泛使用於分析生物資訊的程式，因為它可以兼顧我們在做搜尋時的速度以及搜尋結果的精確度。因為當我們所要搜尋的目標資料庫非常龐大的時候，速度就變成一項很需要考量的因素。在像BLAST和這些快速算法被開發之前，我們是使用[动态规划算法來作資料庫的序列搜尋](../Page/动态规划.md "wikilink")，這真的非常的耗時。BLAST使用[啟發式搜索來找出相關的序列](../Page/啟發式搜索.md "wikilink")，在速度上比完全只使用动态规划大約快上50倍左右，不過它不像动态规划能夠保證搜尋到的序列（Database
+BLAST是一個被廣泛使用於分析生物資訊的程式，因為它可以兼顧我們在做搜尋時的速度以及搜尋結果的精確度。因為當我們所要搜尋的目標資料庫非常龐大的時候，速度就變成一項很需要考量的因素。在像BLAST和這些快速算法被開發之前，我們是使用[动态规划算法來作資料庫的序列搜尋](../Page/动态规划.md "wikilink")，這真的非常的耗時。BLAST使用[啟發式搜索來找出相關的序列](https://zh.wikipedia.org/wiki/啟發式搜索 "wikilink")，在速度上比完全只使用动态规划大約快上50倍左右，不過它不像动态规划能夠保證搜尋到的序列（Database
 sequence）和所要找的序列（Query
 sequence）之間的相關性，BLAST的工作就是盡可能找出資料庫中和所要查詢的序列相關的資訊而已，精確度稍微低一點。此外，BLAST比FASTA更快速，因為BLAST只對比較少出現或是較重要的一些關鍵字作更進一步的分析，而FASTA是考慮所有共同出現在所要搜尋的序列和目標序列的字。從下面介紹的演算法可以更進一步的瞭解。
 
@@ -60,7 +60,7 @@ sequence）之間的相關性，BLAST的工作就是盡可能找出資料庫中�
     其中\(\mathrm{H}\)是指兩個不相關的序列去作無間隙區域排比後，每一個排比對平均所得的分數，這和我們所使用的得分矩陣密切相關。Altschul和Gish先生提供了我們這些統計變數的參考值，如\(\lambda = 0.318\)、\(\mathrm{K} = 0.13\)、及\(\mathrm{H} = 0.40\)，這邊使用的得分矩陣是[BLOSUM62](http://www.uky.edu/Classes/BIO/520/BIO520WWW/blosum62.htm)。使用這些參考值去作統計意義的估測其實不是非常準確。經由以上分析，我們可能找出一個和Query序列相關的資料庫序列，接著我們要計算這個資料庫序列的**期望分數E（Expect
     score）**，它的意義是當我們對非常多個不相關序列其中的兩個作無間隙區域排比時，所得的分數會高於這個資料庫序列和Query序列之間的HSP分數之個數。經由搜尋一個有D個序列的資料庫所得之期望分數E可由下式得到。
     \(\mathrm{E} \approx 1-e^{-\mathbf{p} \left (\mathbf{S} \ge \mathbf{x} \right )}\)
-    甚至當\(\mathbf{p} < 0.1\)時，E可以由[泊松分布更進一步簡化為](../Page/泊松分布.md "wikilink")
+    甚至當\(\mathbf{p} < 0.1\)時，E可以由[泊松分布更進一步簡化為](https://zh.wikipedia.org/wiki/泊松分布 "wikilink")
     \(\mathrm{E} = \mathbf{p} \mathrm{D}\)
     注意這邊用來估測HSP分數（無間隙）的期望分數E和最後一個步驟用來估測具有間隙的區域排比分數的期望分數E是不一樣的。差別就在是否具有間隙（Gap），所以先前的統計變數都要重新計算。
 10. **將一個資料庫序列中的多個HSP區域結合成一個更長的排比**
@@ -79,7 +79,7 @@ sequence）之間的相關性，BLAST的工作就是盡可能找出資料庫中�
 
 ## 相關的各種程式
 
-由[NCBI管理的BLAST网站允许任何人使用浏览器来在包含大部分新测序的物种的不停更新的DNA或蛋白质数据库中进行相似性搜索](../Page/国家生物技术信息中心.md "wikilink")。这个服务器包含很多程序，最重要的几个如下：
+由[NCBI管理的BLAST网站允许任何人使用浏览器来在包含大部分新测序的物种的不停更新的DNA或蛋白质数据库中进行相似性搜索](https://zh.wikipedia.org/wiki/国家生物技术信息中心 "wikilink")。这个服务器包含很多程序，最重要的几个如下：
 
 ### 蛋白-蛋白BLAST（blastp）
 
@@ -87,9 +87,9 @@ sequence）之間的相關性，BLAST的工作就是盡可能找出資料庫中�
 
 ### 已轉錄序列-蛋白BLAST（blastx）
 
-已知一段已經轉錄的序列，藉由這個程式對這段序列的6個[ORF對上用戶所選擇的蛋白質資料庫](../Page/开放阅读框架.md "wikilink")，
+已知一段已經轉錄的序列，藉由這個程式對這段序列的6個[ORF對上用戶所選擇的蛋白質資料庫](https://zh.wikipedia.org/wiki/开放阅读框架 "wikilink")，
 比對最相似的序列。其功用可以找出在基因體DNA（genomic
-DNA）上[轉譯出](../Page/轉譯.md "wikilink")[蛋白質的序列](../Page/蛋白質.md "wikilink")。
+DNA）上[轉譯出](https://zh.wikipedia.org/wiki/轉譯 "wikilink")[蛋白質的序列](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。
 
 ### 蛋白-已轉錄序列BLAST（tblastn）
 

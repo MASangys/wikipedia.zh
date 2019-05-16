@@ -1,4 +1,4 @@
-**[IUPAC元素系统命名法](../Page/国际纯粹应用化学联合会.md "wikilink")**是指一种为未发现**[化學元素](../Page/化學元素.md "wikilink")**和已发现但尚未正式命名的**元素**取一个临时**西方文字**名称并规定一个代用元素符号的命名规则。此规则简单易懂且使用方便，而且它解决了对新发现元素抢先命名的恶性竞争问题，使为新元素的命名有了依据。
+**[IUPAC元素系统命名法](https://zh.wikipedia.org/wiki/国际纯粹应用化学联合会 "wikilink")**是指一种为未发现**[化學元素](../Page/化學元素.md "wikilink")**和已发现但尚未正式命名的**元素**取一个临时**西方文字**名称并规定一个代用元素符号的命名规则。此规则简单易懂且使用方便，而且它解决了对新发现元素抢先命名的恶性竞争问题，使为新元素的命名有了依据。
 
 在中文裡，這些元素的名稱可以簡單地叫做**第**若干**號元素**。
 
@@ -23,10 +23,10 @@
 
 IUPAC元素系统命名法是一种序数命名法。
 
-这种命名法采用连结词根的方法为新元素命名（词根见表格），每个词根代表一个数字。这些词根来源于[拉丁文和](../Page/拉丁文.md "wikilink")[希腊文中數字的写法](../Page/希腊文.md "wikilink")。
+这种命名法采用连结词根的方法为新元素命名（词根见表格），每个词根代表一个数字。这些词根来源于[拉丁文和](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")[希腊文中數字的写法](https://zh.wikipedia.org/wiki/希腊文 "wikilink")。
 
 具体的使用方法是：
-参照表格，假如新发现的是[元素周期表中的](../Page/元素周期表.md "wikilink")[第217号元素](../Page/第217号元素.md "wikilink")，那么，这个元素的名称按规则应是：**2-1-7**(**bi-un-sept**)，最後再加上词尾**-ium**(代表“元素”的意思)，所以第217号元素的名称是
+参照表格，假如新发现的是[元素周期表中的](../Page/元素周期表.md "wikilink")[第217号元素](https://zh.wikipedia.org/wiki/第217号元素 "wikilink")，那么，这个元素的名称按规则应是：**2-1-7**(**bi-un-sept**)，最後再加上词尾**-ium**(代表“元素”的意思)，所以第217号元素的名称是
 Biunseptium （首字母要大写），它的元素符号就是“**2-1-7**”
 (<u>B</u>i<u>u</u>n<u>s</u>eptium) 三个词根的首字母缩写，即**Bus**。
 
@@ -43,7 +43,7 @@ Biunseptium （首字母要大写），它的元素符号就是“**2-1-7**”
 
 ## 参阅
 
-  - [元素的中文命名法](../Page/元素的中文命名法.md "wikilink")
+  - [元素的中文命名法](https://zh.wikipedia.org/wiki/元素的中文命名法 "wikilink")
   - [IUPAC命名法](../Page/IUPAC命名法.md "wikilink")
   - [IUPAC有机物命名法](../Page/IUPAC有机物命名法.md "wikilink")
 
@@ -52,7 +52,8 @@ Biunseptium （首字母要大写），它的元素符号就是“**2-1-7**”
   - [The IUPAC
     recommendation](https://web.archive.org/web/20040911051837/http://iupac.chemsoc.org/Reports/provisional/abstract04/RB-prs310804/Chap3-3.04.pdf).
     Untitled draft, March 2004.
-    ([PDF](../Page/Portable_Document_Format.md "wikilink"), 143 kB).
+    ([PDF](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink"),
+    143 kB).
   - [Systematic naming of Elements with Atomic Numbers Greater
     than 110](https://web.archive.org/web/20081031144607/http://www.apsidium.com/theory/naming.pdf)
     (PDF, 41 kB).

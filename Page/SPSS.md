@@ -1,11 +1,11 @@
-**SPSS**是**統計產品與服務解決方案**（）的簡稱，為[IBM公司的一系列用於](../Page/IBM公司.md "wikilink")[統計學分析運算](../Page/統計學.md "wikilink")、[數據挖掘](../Page/數據挖掘.md "wikilink")、預測分析和決策支持任務的軟件產品及相關服務的總稱，有[Windows和](../Page/Windows.md "wikilink")[macOS等版本](../Page/macOS.md "wikilink")。
+**SPSS**是**統計產品與服務解決方案**（）的簡稱，為[IBM公司的一系列用於](https://zh.wikipedia.org/wiki/IBM公司 "wikilink")[統計學分析運算](https://zh.wikipedia.org/wiki/統計學 "wikilink")、[數據挖掘](https://zh.wikipedia.org/wiki/數據挖掘 "wikilink")、預測分析和決策支持任務的軟件產品及相關服務的總稱，有[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[macOS等版本](https://zh.wikipedia.org/wiki/macOS "wikilink")。
 
 ## 簡介
 
 SPSS原名**社會科學統計包**（英語**S**tatistical **P**ackage for the **S**ocial
-**S**ciences）。1968年，[美國](../Page/美國.md "wikilink")[斯坦福大學三位研究生開發出最早的SPSS軟件](../Page/斯坦福大學.md "wikilink")，當時主要面向中小型計算機和企業用戶，產品統稱**SPSSx**版。1975年，[芝加哥成立SPSS公司](../Page/芝加哥.md "wikilink")。1984年，SPSS公司首先推出世界上第一個可以在[DOS上運行的統計分析軟件的](../Page/DOS.md "wikilink")[PC版本](../Page/PC.md "wikilink")，即**SPSS/PC+**版。後來又相繼推出[Windows和](../Page/Microsoft_Windows.md "wikilink")[Mac
+**S**ciences）。1968年，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[斯坦福大學三位研究生開發出最早的SPSS軟件](https://zh.wikipedia.org/wiki/斯坦福大學 "wikilink")，當時主要面向中小型計算機和企業用戶，產品統稱**SPSSx**版。1975年，[芝加哥成立SPSS公司](../Page/芝加哥.md "wikilink")。1984年，SPSS公司首先推出世界上第一個可以在[DOS上運行的統計分析軟件的](../Page/DOS.md "wikilink")[PC版本](../Page/PC.md "wikilink")，即**SPSS/PC+**版。後來又相繼推出[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
 OS
-X等](../Page/Mac_OS_X.md "wikilink")[操作系統上的版本](../Page/操作系統.md "wikilink")，並不斷擴展軟件的功能相關服務，形成了目前SPSS的基本面貌。2008年9月15日，SPSS
+X等](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[操作系統上的版本](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，並不斷擴展軟件的功能相關服務，形成了目前SPSS的基本面貌。2008年9月15日，SPSS
 17.0 for Windows版發佈。2009年7月28日，SPSS公司發表PASW(Predictive Analytics Suite
 Workstation)18.0，同時該公司也被[IBM收購](../Page/IBM.md "wikilink")\[1\]。
 
@@ -75,20 +75,20 @@ SPSS 18.0由17個功能模組組成：
 
 ## 同類軟件
 
-  - [FORTRAN](../Page/FORTRAN.md "wikilink")
+  - [FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")
   - [Epi Info](../Page/Epi_Info.md "wikilink")
-  - [SAS](../Page/SAS.md "wikilink")
+  - [SAS](https://zh.wikipedia.org/wiki/SAS "wikilink")
   - [Minitab](../Page/Minitab.md "wikilink")
   - [MathCad](../Page/MathCad.md "wikilink")
-  - [Mathematica](../Page/Mathematica.md "wikilink")
+  - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
   - [Maple](../Page/Maple.md "wikilink")
-  - [Matlab](../Page/Matlab.md "wikilink")
+  - [Matlab](https://zh.wikipedia.org/wiki/Matlab "wikilink")
   - [Scilab](../Page/Scilab.md "wikilink")
-  - [R語言](../Page/R語言.md "wikilink") -
-    [開放原始碼統計學軟件](../Page/開放原始碼.md "wikilink")
+  - [R語言](https://zh.wikipedia.org/wiki/R語言 "wikilink") -
+    [開放原始碼統計學軟件](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")
   - [PSPP](http://www.gnu.org/software/pspp/) - 開放原始碼軟件
   - [Julia](../Page/Julia_\(编程语言\).md "wikilink")
-  - [Stata](../Page/Stata.md "wikilink")
+  - [Stata](https://zh.wikipedia.org/wiki/Stata "wikilink")
 
 ## 參考文獻
 

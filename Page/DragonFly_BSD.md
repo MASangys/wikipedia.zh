@@ -4,7 +4,7 @@ BSD**是一套開放原始碼的類Unix作業系統，自[FreeBSD](../Page/FreeB
 
 由於FreeBSD开发组將於FreeBSD 4.11後不再推出新的4系列版本（僅做安全性更新），而新的FreeBSD
 5系列初期又有效能及穩定性等等的質疑，因此Matt
-Dillon在2003年[六月另外成立分支計劃](../Page/六月.md "wikilink")，並於同年[七月時於FreeBSD的郵件討論群組上公佈](../Page/七月.md "wikilink")。\[1\]
+Dillon在2003年[六月另外成立分支計劃](https://zh.wikipedia.org/wiki/六月 "wikilink")，並於同年[七月時於FreeBSD的郵件討論群組上公佈](https://zh.wikipedia.org/wiki/七月 "wikilink")。\[1\]
 
 Dillon當時認為FreeBSD
 5所使用的Threading與SMP架構將會使得系統難以維護，但不被FreeBSD的發展團隊接受，於是決定自行發展分支。即便如此，DragonFly
@@ -17,13 +17,13 @@ BSD包含了新的的实现、轻量级的ports/messaging系统和含有丰富�
 ## 設計理念
 
 DragonFly BSD初期打算改寫FreeBSD
-4中的幾個子系統，包括了Cache、[I/O架構](../Page/I/O.md "wikilink")、Messaging、Threading、User
+4中的幾個子系統，包括了Cache、[I/O架構](https://zh.wikipedia.org/wiki/I/O "wikilink")、Messaging、Threading、User
 API及VFS架構。\[4\]
 
 ## 發展及發行
 
 DragonFly BSD自FreeBSD 4.8分支後引入了許多FreeBSD 4與5的新功能以及修正，像是FreeBSD
-4所發展的[ACPI及新的](../Page/ACPI.md "wikilink")[ATA驅動程式](../Page/ATA.md "wikilink")。由於初期DragonFly
+4所發展的[ACPI及新的](https://zh.wikipedia.org/wiki/ACPI "wikilink")[ATA驅動程式](https://zh.wikipedia.org/wiki/ATA "wikilink")。由於初期DragonFly
 BSD的發展人數不多，而且大多都集中精力在基本架構的修改，所以週邊驅動程式大多都是從FreeBSD 5取得。
 
 如同[OpenBSD](../Page/OpenBSD.md "wikilink")，DragonFly

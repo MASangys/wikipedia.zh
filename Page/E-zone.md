@@ -1,9 +1,9 @@
-《****》是[香港一來以](../Page/香港.md "wikilink")[電腦及數碼產品為主要內容](../Page/電腦.md "wikilink")[雜誌](../Page/雜誌.md "wikilink")，由《[香港經濟日報](../Page/香港經濟日報.md "wikilink")》出版，早期隨報附送，獨立發售，逢星期一-{出版}-，售價為15港元。每期發行量約90,000本，現時為香港銷量最高的電腦雜誌之一。它採取一書三冊的出版布局（PC、digi、DIY、Phone），以大內容作主打，分別為電腦軟硬體、數碼玩意、DIY
+《****》是[香港一來以](../Page/香港.md "wikilink")[電腦及數碼產品為主要內容](https://zh.wikipedia.org/wiki/電腦 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，由《[香港經濟日報](../Page/香港經濟日報.md "wikilink")》出版，早期隨報附送，獨立發售，逢星期一-{出版}-，售價為15港元。每期發行量約90,000本，現時為香港銷量最高的電腦雜誌之一。它採取一書三冊的出版布局（PC、digi、DIY、Phone），以大內容作主打，分別為電腦軟硬體、數碼玩意、DIY
 硬件以及高清影音和數碼廣播。於2006年，增刊《e-zone@school》，隨《e-zone》校園訂閱版附送，內容主要針對中小學的IT課程。近年出版布局有少許變動，現為一書兩冊（PC
 & DIY、Phone & Digi）四大內容。
 
 e-zone 現時的主要競爭對手是[Plug
-Media出版的](../Page/Plug_Media.md "wikilink")[PCM電腦廣場](../Page/PCM電腦廣場.md "wikilink")。
+Media出版的](https://zh.wikipedia.org/wiki/Plug_Media "wikilink")[PCM電腦廣場](../Page/PCM電腦廣場.md "wikilink")。
 
 ## 市場資料
 
@@ -25,7 +25,7 @@ e-zone 創刊號於1998年6月30日隨香港經濟日報附送。
 日），《e-zone》的讀者人數高達137,000人，不單是電腦及智能手機雜誌類刊物中最多的，更是全港雜誌的第十位。
 
 迄今《e- zone》已連續 5
-年獲香港社會服務聯會頒授「[商界展關懷](../Page/商界展關懷.md "wikilink")」殊榮，肯定《e-zone》一直以來對社會的貢獻。
+年獲香港社會服務聯會頒授「[商界展關懷](https://zh.wikipedia.org/wiki/商界展關懷 "wikilink")」殊榮，肯定《e-zone》一直以來對社會的貢獻。
 
 ## 新增《e-zone Phone》
 

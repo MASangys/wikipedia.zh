@@ -1,4 +1,4 @@
-**aiko**（），本名**柳井愛子**（），為[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
+**aiko**（），本名**柳井愛子**（），為[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
 
 aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Oricon針對](../Page/Oricon.md "wikilink")20,000個訂戶所作的最受歡迎歌手調查結果顯示，aiko在2005年及2006年皆高居榜首。
 
@@ -192,7 +192,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>22nd</p></td>
 <td><p>2007年8月22日</p></td>
 <td></td>
-<td><p><strong><a href="../Page/沒有星星的世界/側臉.md" title="wikilink">沒有星星的世界／側臉</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/沒有星星的世界/側臉" title="wikilink">沒有星星的世界／側臉</a></strong></p></td>
 <td><p>2位</p></td>
 <td><p>11.2</p></td>
 </tr>
@@ -216,7 +216,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>25th</p></td>
 <td><p>2009年2月18日</p></td>
 <td><p><strong>milk／</strong></p></td>
-<td><p><strong><a href="../Page/milk/嘆息之吻.md" title="wikilink">milk／嘆息之吻</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/milk/嘆息之吻" title="wikilink">milk／嘆息之吻</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>10.2</p></td>
 </tr>
@@ -240,7 +240,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>28th</p></td>
 <td><p>2011年5月11日</p></td>
 <td></td>
-<td><p><strong><a href="../Page/愛情彈彈球/月台.md" title="wikilink">愛情彈彈球／月台</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/愛情彈彈球/月台" title="wikilink">愛情彈彈球／月台</a></strong></p></td>
 <td><p>4位</p></td>
 <td><p>9.7</p></td>
 </tr>
@@ -256,7 +256,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>30th</p></td>
 <td><p>2013年7月17日</p></td>
 <td></td>
-<td><p><strong><a href="../Page/Loveletter/4月之雨.md" title="wikilink">Loveletter／4月之雨</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Loveletter/4月之雨" title="wikilink">Loveletter／4月之雨</a></strong></p></td>
 <td><p>2位</p></td>
 <td><p>6.0</p></td>
 </tr>
@@ -341,7 +341,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <tr class="odd">
 <td><p>2013年4月17日</p></td>
 <td></td>
-<td><p><strong><a href="../Page/Loveletter/4月之雨.md" title="wikilink">4月之雨</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Loveletter/4月之雨" title="wikilink">4月之雨</a></strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -751,7 +751,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>2</p></td>
 <td><p><strong><a href="../Page/髮際.md" title="wikilink">髮際</a></strong></p></td>
 <td><p>18/30</p></td>
-<td><p><a href="../Page/東京小子.md" title="wikilink">TOKIO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京小子" title="wikilink">TOKIO</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -799,7 +799,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>8</p></td>
 <td><p><strong><a href="../Page/BABY_(aiko專輯).md" title="wikilink">那孩子的梦</a></strong></p></td>
 <td><p>12/25</p></td>
-<td><p><a href="../Page/游助.md" title="wikilink">游助</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游助" title="wikilink">游助</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -813,7 +813,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <tr class="even">
 <td><p>2011年/第62回</p></td>
 <td><p>10</p></td>
-<td><p><strong><a href="../Page/愛情彈彈球/月台.md" title="wikilink">愛情彈彈球</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/愛情彈彈球/月台" title="wikilink">愛情彈彈球</a></strong></p></td>
 <td><p>14/25</p></td>
 <td><p><a href="../Page/柚子_(組合).md" title="wikilink">柚子</a></p></td>
 <td></td>
@@ -829,7 +829,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <tr class="even">
 <td><p>2013年/第64回</p></td>
 <td><p>12</p></td>
-<td><p><strong><a href="../Page/Loveletter/4月之雨.md" title="wikilink">Loveletter</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Loveletter/4月之雨" title="wikilink">Loveletter</a></strong></p></td>
 <td><p>14/25</p></td>
 <td><p><a href="../Page/Golden_Bomber.md" title="wikilink">Golden Bomber</a></p></td>
 <td></td>
@@ -837,9 +837,9 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <tr class="odd">
 <td><p>2018年/第69回</p></td>
 <td><p>13</p></td>
-<td><p><strong><a href="../Page/カブトムシ.md" title="wikilink">カブトムシ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/カブトムシ" title="wikilink">カブトムシ</a></strong></p></td>
 <td><p>18/29</p></td>
-<td><p><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -900,7 +900,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
   - [<span lang="ja">aiko - ORICON STYLE WM
     ミュージック</span>](http://www.oricon.co.jp/artists/27083/)（日本）
 
-[分類:日本流行音樂歌手](../Page/分類:日本流行音樂歌手.md "wikilink")
+[分類:日本流行音樂歌手](https://zh.wikipedia.org/wiki/分類:日本流行音樂歌手 "wikilink")
 
 [Category:Aiko](https://zh.wikipedia.org/wiki/Category:Aiko "wikilink")
 [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")

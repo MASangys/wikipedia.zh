@@ -1,11 +1,11 @@
-**RSS**（**簡易資訊聚合**）是一種[消息來源格式規範](../Page/消息來源.md "wikilink")，用以**聚合經常發佈更新資料的網站**，例如[部落格文章](../Page/部落格.md "wikilink")、新聞、[音訊或](../Page/音訊.md "wikilink")[視訊的網摘](../Page/視訊.md "wikilink")。RSS文件（或稱做摘要、網路摘要、或頻更新，提供到頻道）包含全文或是節錄的文字，再加上發佈者所訂閱之網摘資料和授權的元數據。
+**RSS**（**簡易資訊聚合**）是一種[消息來源格式規範](../Page/消息來源.md "wikilink")，用以**聚合經常發佈更新資料的網站**，例如[部落格文章](https://zh.wikipedia.org/wiki/部落格 "wikilink")、新聞、[音訊或](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊的網摘](https://zh.wikipedia.org/wiki/視訊 "wikilink")。RSS文件（或稱做摘要、網路摘要、或頻更新，提供到頻道）包含全文或是節錄的文字，再加上發佈者所訂閱之網摘資料和授權的元數據。
 
-“資源描述框架站點摘要”（）就是RSS的英文原意，后来通过[逆向首字母缩略词变更为](../Page/逆向首字母缩略词.md "wikilink")“簡易資訊聚合”。把新闻标题、摘要（Feed）、内容按照用户的要求，“送”到用户的桌面就是RSS的目的。RSS一詞有時候大體上意為社會性書籤，包括各種RSS的不同格式。例如，Blogspace對使用網摘於一整合器內之動作標為RSS
+“資源描述框架站點摘要”（）就是RSS的英文原意，后来通过[逆向首字母缩略词变更为](https://zh.wikipedia.org/wiki/逆向首字母缩略词 "wikilink")“簡易資訊聚合”。把新闻标题、摘要（Feed）、内容按照用户的要求，“送”到用户的桌面就是RSS的目的。RSS一詞有時候大體上意為社會性書籤，包括各種RSS的不同格式。例如，Blogspace對使用網摘於一整合器內之動作標為RSS
 info和RSS
 reader。雖然它的第一個句子就包含明確的[Atom格式](../Page/Atom_\(標準\).md "wikilink")：「RSS和Atom檔案能夠用簡單的格式從網站更新訊息至你的電腦！」
 
 RSS摘要可以藉由RSS閱讀器、feed
-reader或是aggregator等網頁或以桌面為架構的軟體來閱讀。標準的XML檔式可允許資訊在一次發佈後透過不同的程式閱覽。使用者藉由將網摘輸入RSS閱讀器或是用滑鼠點取瀏覽器上指向訂閱程序的RSS小圖示之[URI](../Page/URI.md "wikilink")（非通常稱為[URL](../Page/URL.md "wikilink")）來訂閱網摘。RSS閱讀器定期檢閱是否有更新，然後下載給監看使用者介面。
+reader或是aggregator等網頁或以桌面為架構的軟體來閱讀。標準的XML檔式可允許資訊在一次發佈後透過不同的程式閱覽。使用者藉由將網摘輸入RSS閱讀器或是用滑鼠點取瀏覽器上指向訂閱程序的RSS小圖示之[URI](https://zh.wikipedia.org/wiki/URI "wikilink")（非通常稱為[URL](https://zh.wikipedia.org/wiki/URL "wikilink")）來訂閱網摘。RSS閱讀器定期檢閱是否有更新，然後下載給監看使用者介面。
 
 RSS可以是以下三種解釋中任一種的縮寫，但其實這三者都是指同一種聯合供稿（Syndication）的技術：
 
@@ -19,14 +19,15 @@ RSS可以是以下三種解釋中任一種的縮寫，但其實這三者都是�
 目前RSS規範的主要版本有0.91、1.0和2.0等。0.91版和1.0版完全不同，風格不同，制定標準的人也不同。0.91版和2.0版一脈相承。1.0版更接近[XML標準](../Page/XML.md "wikilink")。目前世界上大多數知名，雖有很多種不同的RSS，但都定型於兩個重要的支幹（RDF和2.\*）。RDF或RSS
 1.\*的分支包括下列版本：
 
-  - RSS 0.90原本屬於美國網景公司的版本。這個RSS被稱為*[RDF](../Page/全球資訊網聯盟.md "wikilink")
+  - RSS
+    0.90原本屬於美國網景公司的版本。這個RSS被稱為*[RDF](https://zh.wikipedia.org/wiki/全球資訊網聯盟 "wikilink")
     Site Summary*，但其基礎構圖建立在初期的RDF規格上，以及和末版的RDF推薦標準不相容。
   - RSS 1.0是一個開放式的版本，由RSS-DEV工作團隊再次建立為*RDF Site Summary*。RSS 1.0是一個像RSS
     0.90的RDF形式，但是並沒有完全的和他相容，自從1.0基新聞網站都提供RSS訂閱-{zh-hans:支持;zh-hant:支援}-。
 
 ## 歷史
 
-RSS格式采纳之前有过几次web联合化的尝试，但都没有达到广泛的传播。关于重构web站点信息的基本思想可以追溯到早至1995年，当时以及他在[苹果公司高科技小组的同事开发出](../Page/苹果公司.md "wikilink")[元内容框架](../Page/元内容框架.md "wikilink")。对这些早期发展的更详细讨论，请参见[网页联合供稿技术的历史](../Page/网页联合供稿技术的历史.md "wikilink")。
+RSS格式采纳之前有过几次web联合化的尝试，但都没有达到广泛的传播。关于重构web站点信息的基本思想可以追溯到早至1995年，当时以及他在[苹果公司高科技小组的同事开发出](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[元内容框架](https://zh.wikipedia.org/wiki/元内容框架 "wikilink")。对这些早期发展的更详细讨论，请参见[网页联合供稿技术的历史](https://zh.wikipedia.org/wiki/网页联合供稿技术的历史 "wikilink")。
 
 RSS的第一個版本為RDF Site
 Summary，在1999年三月由美國[網景公司的Guha為了用在My](../Page/網景.md "wikilink").Netscape.Com入口網站而開發。這個版本開始以RSS0.9為名。在1999年七月，美國網景公司的Dan
@@ -34,11 +35,11 @@ Libby發明了新版本RSS 0.91，此版本簡化了形式，藉由 撤去RDF元
 Winer的scriptingNews企業聯合組織化格式。Libby並且將此重新命名為RSS，全名"Rich
 Site Summary"，並且在"futures document"論述了未來的發展形式。
 
-這會是[Netscape在RSS八年的研究中最後一次的參與](../Page/Netscape.md "wikilink")，當RSS被一些想要他們的feeds被用在My.Netscape.Com和其他早期RSS入口的網路出版者環繞，美國「網景」公司下降RSS並支持MY.
+這會是[Netscape在RSS八年的研究中最後一次的參與](https://zh.wikipedia.org/wiki/Netscape "wikilink")，當RSS被一些想要他們的feeds被用在My.Netscape.Com和其他早期RSS入口的網路出版者環繞，美國「網景」公司下降RSS並支持MY.
 Netscape.Com在2001年四月期間新主人AOL的重建公司，還取消了支撐格式化的使用說明文件和工具。
 
 其中，[Google
-Reader曾整合了RSS的分類與自訂標題](../Page/Google_Reader.md "wikilink")，網頁功能。但於2013年7月15日已終止服務。
+Reader曾整合了RSS的分類與自訂標題](https://zh.wikipedia.org/wiki/Google_Reader "wikilink")，網頁功能。但於2013年7月15日已終止服務。
 
 ## 发展
 
@@ -64,11 +65,11 @@ namesspace命名各種概念之中的概念。
 
 ## 點對點應用及RSS
 
-幾種以[BitTorrent為基準和點對點的應用也支援RSS](../Page/BitTorrent_\(协议\).md "wikilink")。此種[網摘允許客戶端的應用程式在偵測到更新時自動下載](../Page/網摘.md "wikilink")。
+幾種以[BitTorrent為基準和點對點的應用也支援RSS](../Page/BitTorrent_\(协议\).md "wikilink")。此種[網摘允許客戶端的應用程式在偵測到更新時自動下載](https://zh.wikipedia.org/wiki/網摘 "wikilink")。
 
 ## 閱讀器
 
-RSS信息的获取与订阅，可以通过称为[聚合器一类的软件或服务来实现](../Page/RSS阅读器.md "wikilink")。通常情况下RSS阅读器除了客户端软件之外，还存在一类基于Web应用的在线阅读器（例如[digg.com](../Page/digg.com.md "wikilink")）。較常用的有預載於Acer個人電腦當中的易搜比軟體、Snarfer。
+RSS信息的获取与订阅，可以通过称为[聚合器一类的软件或服务来实现](https://zh.wikipedia.org/wiki/RSS阅读器 "wikilink")。通常情况下RSS阅读器除了客户端软件之外，还存在一类基于Web应用的在线阅读器（例如[digg.com](https://zh.wikipedia.org/wiki/digg.com "wikilink")）。較常用的有預載於Acer個人電腦當中的易搜比軟體、Snarfer。
 
 微軟的IE瀏覽器也可當作RSS閱讀器使用，也含有儲存的功能。
 
@@ -77,7 +78,7 @@ RSS信息的获取与订阅，可以通过称为[聚合器一类的软件或服�
   - [消息來源](../Page/消息來源.md "wikilink")
   - [Atom (標準)](../Page/Atom_\(標準\).md "wikilink")
   - [XML](../Page/XML.md "wikilink")
-  - [OPML](../Page/OPML.md "wikilink")
+  - [OPML](https://zh.wikipedia.org/wiki/OPML "wikilink")
 
 ## 參考資料
 

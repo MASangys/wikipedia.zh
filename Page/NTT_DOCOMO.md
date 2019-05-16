@@ -1,44 +1,44 @@
 **NTT
-DOCOMO**（）是[日本一家](../Page/日本.md "wikilink")[電信](../Page/電信.md "wikilink")[公司](../Page/公司.md "wikilink")。「DOCOMO」這個名字的意思是取“**Do**
+DOCOMO**（）是[日本一家](../Page/日本.md "wikilink")[電信](https://zh.wikipedia.org/wiki/電信 "wikilink")[公司](../Page/公司.md "wikilink")。「DOCOMO」這個名字的意思是取“**Do**
 **Co**mmunication over the **Mo**bile
-network”（電信溝通無界限）中的首字，且其發音和[日語单词](../Page/日語.md "wikilink")（无所不在）相同。中文品牌名字譯為「都科摩」（中國北京）或「都客梦」（中國上海）。
+network”（電信溝通無界限）中的首字，且其發音和[日語单词](https://zh.wikipedia.org/wiki/日語 "wikilink")（无所不在）相同。中文品牌名字譯為「都科摩」（中國北京）或「都客梦」（中國上海）。
 
 ## 概要
 
 NTT
-DOCOMO的起源可追溯至1968年（昭和43年）7月1日日本電信電話公社推出的移動通訊服務[呼叫器](../Page/呼叫器.md "wikilink")。電電公社民營化後的1990年，政府決定將日本電信電話株式會社的移動通訊事業獨立分出，1993年7月分公司「NTT
-DoCoMo」開始服務。雖然是[東京證券交易所等的上市公司](../Page/東京證券交易所.md "wikilink")，但[NTT擁有其](../Page/NTT.md "wikilink")6成（63.32%）的股權，是該公司的連結子公司（[金融商品取引法上的特定子公司](../Page/金融商品取引法.md "wikilink")）。NTT
+DOCOMO的起源可追溯至1968年（昭和43年）7月1日日本電信電話公社推出的移動通訊服務[呼叫器](https://zh.wikipedia.org/wiki/呼叫器 "wikilink")。電電公社民營化後的1990年，政府決定將日本電信電話株式會社的移動通訊事業獨立分出，1993年7月分公司「NTT
+DoCoMo」開始服務。雖然是[東京證券交易所等的上市公司](../Page/東京證券交易所.md "wikilink")，但[NTT擁有其](https://zh.wikipedia.org/wiki/NTT "wikilink")6成（63.32%）的股權，是該公司的連結子公司（[金融商品取引法上的特定子公司](https://zh.wikipedia.org/wiki/金融商品取引法 "wikilink")）。NTT
 DOCOMO為貢獻超過七成的營收。
 
 2008年7月，其下屬各地區分公司合併，公司體制改為全國1社體制。在此之前，DOCOMO是統括NTT
-DOCOMO集團的核心公司，同時也是管轄[關東地方及](../Page/關東地方.md "wikilink")[甲信越地方業務的公司](../Page/甲信越地方.md "wikilink")。為與整個NTT
+DOCOMO集團的核心公司，同時也是管轄[關東地方及](../Page/關東地方.md "wikilink")[甲信越地方業務的公司](https://zh.wikipedia.org/wiki/甲信越地方 "wikilink")。為與整個NTT
 DOCOMO集團區別，曾常簡稱該公司為「（NTT）DOCOMO中央」。隨著公司體制改為全國1社，其商標也由**NTT
 DoCoMo**改為目前使用的****。2010年，公司的正式英文名稱也由**NTT DoCoMo,
 Inc.**改為**NTT DOCOMO,
 INC.**\[1\]\[2\]\[3\]。2013年10月1日，公司商號從「エヌ・ティ・ティ・ドコモ」統一為通用的「**NTTドコモ**」\[4\]\[5\]。
 
 海外事業方面，NTT
-DOCOMO在2000年以4090億日圓投資[荷蘭皇家電信](../Page/荷蘭皇家電信.md "wikilink")、1860億日圓投資英国[Hutchison
+DOCOMO在2000年以4090億日圓投資[荷蘭皇家電信](https://zh.wikipedia.org/wiki/荷蘭皇家電信 "wikilink")、1860億日圓投資英国[Hutchison
 3G](../Page/和記電訊國際.md "wikilink")，2001年再以1兆2000億日圓投資美國[AT\&T](../Page/AT&T.md "wikilink")，但在累積達約1兆5000億日圓的虧損後於2005年棄守\[6\]。之後，NTT
 DOCOMO投資印度塔塔電信2670億日圓，共計持有26.5％股權，但投資5年的虧損已達2220億日圓\[7\]。
 
 2018年，NTT
-DOCOMO擁有[W-CDMA](../Page/W-CDMA.md "wikilink")、[HSPA服務品牌](../Page/HSPA.md "wikilink")「**[FOMA](../Page/FOMA.md "wikilink")**」（[3G](../Page/3G.md "wikilink")、[3.5G](../Page/3.5G.md "wikilink")，2001年開始服務）、[LTE服務品牌](../Page/LTE.md "wikilink")「****」（3.9G，2010年開始服務）、[LTE-Advanced服務品牌](../Page/進階長期演進技術.md "wikilink")「****」（[4G](../Page/4G.md "wikilink")，2015年開始服務）等行動電話業務。過去推出的「[PHS服務](../Page/PHS.md "wikilink")」已在2008年1月7日\[8\]結束服務，使用[PDC的服務品牌](../Page/PDC.md "wikilink")「」、「」（[2G](../Page/2G.md "wikilink")）也在2012年3月31日\[9\]結束服務。
+DOCOMO擁有[W-CDMA](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")、[HSPA服務品牌](https://zh.wikipedia.org/wiki/HSPA "wikilink")「**[FOMA](https://zh.wikipedia.org/wiki/FOMA "wikilink")**」（[3G](../Page/3G.md "wikilink")、[3.5G](https://zh.wikipedia.org/wiki/3.5G "wikilink")，2001年開始服務）、[LTE服務品牌](https://zh.wikipedia.org/wiki/LTE "wikilink")「****」（3.9G，2010年開始服務）、[LTE-Advanced服務品牌](../Page/進階長期演進技術.md "wikilink")「****」（[4G](../Page/4G.md "wikilink")，2015年開始服務）等行動電話業務。過去推出的「[PHS服務](https://zh.wikipedia.org/wiki/PHS "wikilink")」已在2008年1月7日\[8\]結束服務，使用[PDC的服務品牌](../Page/PDC.md "wikilink")「」、「」（[2G](../Page/2G.md "wikilink")）也在2012年3月31日\[9\]結束服務。
 
 ## 沿革
 
 [NTT_DoCoMo_logo.svg](https://zh.wikipedia.org/wiki/File:NTT_DoCoMo_logo.svg "fig:NTT_DoCoMo_logo.svg")
-DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電話公社.md "wikilink")[移動通信事業](../Page/移動通信.md "wikilink")。
+DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電話公社.md "wikilink")[移動通信事業](https://zh.wikipedia.org/wiki/移動通信 "wikilink")。
 
   - 1968年7月 - 日本電信電話公社開始提供[傳呼機服務](../Page/傳呼機.md "wikilink")。
   - 1972年（昭和47年）11月 - 電電公社開設專供行動電話的電氣通信研究所。
   - 1979年12月 - 開始提供服務。
   - 1985年（昭和60年）
       - 4月1日 -
-        日本電信電話公社民營化，[日本電信電話株式會社](../Page/日本電信電話株式會社.md "wikilink")（NTT）成立。
+        日本電信電話公社民營化，[日本電信電話株式會社](https://zh.wikipedia.org/wiki/日本電信電話株式會社 "wikilink")（NTT）成立。
       - 11月 - 日本電信電話株式會社高度通信服務事業本部設立移動體通信事業部。
   - 1987年（昭和62年）4月 -
-    NTT推出[1G](../Page/1G.md "wikilink")「行動電話服務（[調頻方式](../Page/調頻.md "wikilink")）」。
+    NTT推出[1G](../Page/1G.md "wikilink")「行動電話服務（[調頻方式](https://zh.wikipedia.org/wiki/調頻 "wikilink")）」。
   - 1988年（昭和63年）10月 - 設立NTT中央移動通信株式會社與各地區移動通信株式會社。
   - 1990年（平成2年） - 日本政府決定獨立NTT的移動通訊業務。
   - 1991年（平成3年）
@@ -67,25 +67,29 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
   - 1997年（平成9年）
       - 2月24日 - 行動電話、汽車電話用戶**突破1000萬**。
       - 3月28日 - 開始封包交換服務「DoPa」。
-      - 6月1日 - 開始[SMS](../Page/SMS.md "wikilink")「短信」服務。
+      - 6月1日 -
+        開始[SMS](https://zh.wikipedia.org/wiki/SMS "wikilink")「短信」服務。
       - 12月26日 - 停止類比服務的新用戶申請。
   - 1998年（平成10年）
       - 3月26日 - 神奈川縣[橫須賀市](../Page/橫須賀市.md "wikilink")（YRP）的「NTT DoCoMo
         R\&D Center」完成。
       - 7月1日 - 成立第一間海外當地法人「DoCoMo Europe S.A.」。
       - 8月13日 - 行動電話、汽車電話用戶**突破2000萬**。
-      - 10月1日 - 開始[ISP服務](../Page/ISP.md "wikilink")「mopera」。
+      - 10月1日 -
+        開始[ISP服務](https://zh.wikipedia.org/wiki/ISP "wikilink")「mopera」。
       - 10月22日 - [東京證券交易所第](../Page/東京證券交易所.md "wikilink")1部上市
       - 12月1日 - NTT中央個人通信網株式會社轉讓PHS事業（各地域相同）
   - 1999年（平成11年）
-      - 2月22日 - 開始「**[i-mode](../Page/i-mode.md "wikilink")**」服務。
+      - 2月22日 -
+        開始「**[i-mode](https://zh.wikipedia.org/wiki/i-mode "wikilink")**」服務。
       - 3月31日 - 1G「行動電話（類比式）」服務、「船舶電話（類比式）」結束服務。
       - 4月19日 - 開始販售行動電話與PHS的複合終端機器「Doccimo（ドッチーモ）」。
       - 5月 - 開始「」服務。
       - 11月1日 - 成立「NTT DoCoMo USA,Inc.」。
   - 2000年（平成12年）
       - 3月6日 - 開設行動電話業界第一個故障行動電話專門網站「DoCoMo113.com」。
-      - 3月1日 - 總部從新日礦大廈遷入[山王公園塔](../Page/山王公園塔.md "wikilink")。
+      - 3月1日 -
+        總部從新日礦大廈遷入[山王公園塔](https://zh.wikipedia.org/wiki/山王公園塔 "wikilink")。
       - 4月1日 -
         商號變更為**株式会社エヌ・ティ・ティ・ドコモ**（各地域公司商號改為株式会社エヌ・ティ・ティドコモ○○：○○為地域名）
       - 5月 - 行動電話、汽車電話用戶**突破3000萬**。
@@ -97,13 +101,13 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
       - 3月4日 - i-mode用戶**突破2000萬**。
       - 7月31日 - 開始飛機衛星電話服務。
       - 10月1日 -
-        開始[3G服務](../Page/3G.md "wikilink")「**FOMA**（[W-CDMA方式](../Page/W-CDMA.md "wikilink")，2GHz）」。
+        開始[3G服務](../Page/3G.md "wikilink")「**FOMA**（[W-CDMA方式](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")，2GHz）」。
       - 11月19日- 開始動畫傳輸服務「」。
       - 12月25日 - i-mode用戶**突破3000萬**。
   - 2002年（平成14年）
       - 2月15日 - 行動電話、汽車電話用戶**突破4000萬**。
       - 3月1日 -
-        [倫敦證券交易所及](../Page/倫敦證券交易所.md "wikilink")[紐約證券交易所上市](../Page/紐約證券交易所.md "wikilink")。
+        [倫敦證券交易所及](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")[紐約證券交易所上市](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")。
       - 4月1日 - 「」（企業資訊系統）啟用。
       - 6月1日 - 開始圖片傳輸/接收服務「」。
       - 11月1日 - 透過股份交換，各地域DoCoMo8社成為完全子公司
@@ -149,7 +153,7 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
       - 7月12日 - 推出DoCoMo[繪文字轉換至其他公司行動電話的服務](../Page/繪文字.md "wikilink")。
       - 8月31日 - 推出HSDPA（3.5G）終端服務「Music Channel（現Music\&Video Channel）」。
       - 9月20日 -
-        FOMA「[語音信箱服務](../Page/電話答錄機.md "wikilink")」對應[視訊電話](../Page/視訊電話.md "wikilink")。
+        FOMA「[語音信箱服務](https://zh.wikipedia.org/wiki/電話答錄機 "wikilink")」對應[視訊電話](https://zh.wikipedia.org/wiki/視訊電話 "wikilink")。
       - 9月26日 - 開始「BlackBerry」服務。
       - 11月4日 - FOMA用戶**突破3000萬**。
       - 12月6日 -
@@ -233,7 +237,8 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
       - 9月30日 - PushTalk結束服務。
       - 10月29日 - 推出導航用i appli「docomo地圖navi」。
       - 11月19日 - 導航資訊服務「docomo Drivenet」。
-      - 12月6日 - i-mode[入口網站](../Page/入口網站.md "wikilink")「」上線。
+      - 12月6日 -
+        i-mode[入口網站](https://zh.wikipedia.org/wiki/入口網站 "wikilink")「」上線。
       - 12月24日 - 推出LTE 3.9G服務品牌「**Xi**」。
   - 2011年（平成23年）
       - 1月12日 - 與大日本印刷合作的NTT docomo智慧型手機與電子書閱讀器的電子書網站「2Dfacto」開始營運。
@@ -253,24 +258,26 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
       - 3月13日 - 成為子公司。
       - 3月31日 - 局數第2世代行動電話服務「mova」、「DoPa」。
       - 4月1日 -
-        docomo集團的mmbi推出智慧型手機多媒體廣播服務[NOTTV](../Page/NOTTV.md "wikilink")。
+        docomo集團的mmbi推出智慧型手機多媒體廣播服務[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")。
       - 7月 - 開始由管理收費業務。從此（與、）收費一體化。
   - 2013年（平成25年）
       - 9月 -
-        [蘋果公司新產品發表會公布docomo將開始銷售](../Page/蘋果公司.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")（[5s](../Page/iPhone_5s.md "wikilink")/[5c開始](../Page/iPhone_5c.md "wikilink")）。2013年9月20日開賣。
+        [蘋果公司新產品發表會公布docomo將開始銷售](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")（[5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")/[5c開始](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")）。2013年9月20日開賣。
       - 10月 -
         [「手機空間統計」](https://www.nttdocomo.co.jp/corporate/disclosure/mobile_spatial_statistics/)事業化。
       - 10月1日 - 商號改為**株式会社NTTドコモ**
       - 10月25日 - 與料理教室最大規模的達成資本合作協議。
-      - 12月17日 - 與[JTB合作推出旅行服務](../Page/JTB.md "wikilink") [「d
-        Travel」](http://travel.dmkt-sp.jp/) 。
+      - 12月17日 -
+        與[JTB合作推出旅行服務](https://zh.wikipedia.org/wiki/JTB "wikilink")
+        [「d Travel」](http://travel.dmkt-sp.jp/) 。
   - 2014年（平成26年）
       - 3月10日 - 倫敦證券交易所下市\[12\]
       - 4月10日 -
         日本行動電話業者首次推出日本國內通話月租方案（與、查號服務費、撥打衛星電話、發送[簡訊除外](../Page/簡訊.md "wikilink")）以及數據通信計量制的新方案「kake-hodai
         & Pake-ageru」。5月15日開放預約，6月1日開始服務。
-      - 6月24日 - 推出Xi 「[VoLTE](../Page/VoLTE.md "wikilink")」（Voice over
-        LTE）語音通話服務。
+      - 6月24日 - 推出Xi
+        「[VoLTE](https://zh.wikipedia.org/wiki/VoLTE "wikilink")」（Voice
+        over LTE）語音通話服務。
       - 8月31日 - 停止新用戶申請「Type Xi」。
       - 10月1日 -推出Android遠端操作服務「Smart Data Link Mobizen」。
   - 2015年（平成27年）
@@ -283,9 +290,11 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
       - 11月20日 - 發行d集點卡一體型信用卡「」。
   - 2016年（平成28年）
       - 3月17日 -
-        與韓國[LG電子就](../Page/LG電子.md "wikilink")[LTE-Advanced方式](../Page/進階長期演進技術.md "wikilink")、[LTE方式](../Page/LTE.md "wikilink")、[W-CDMA方式的簽訂必要專利授權協議](../Page/W-CDMA.md "wikilink")
-      - 6月10日 - 與中國[華為簽訂移動通信技術必要專利授權協議](../Page/華為.md "wikilink")。
-      - 6月30日 - [NOTTV結束服務](../Page/NOTTV.md "wikilink")。
+        與韓國[LG電子就](../Page/LG電子.md "wikilink")[LTE-Advanced方式](../Page/進階長期演進技術.md "wikilink")、[LTE方式](https://zh.wikipedia.org/wiki/LTE "wikilink")、[W-CDMA方式的簽訂必要專利授權協議](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")
+      - 6月10日 -
+        與中國[華為簽訂移動通信技術必要專利授權協議](https://zh.wikipedia.org/wiki/華為 "wikilink")。
+      - 6月30日 -
+        [NOTTV結束服務](https://zh.wikipedia.org/wiki/NOTTV "wikilink")。
       - 11月28日 -
         與台灣[HTC就LTE](../Page/宏達國際電子.md "wikilink")-Advanced方式、LTE方式、W-CDMA方式簽訂必要專利授權協議。
   - 2017年（平成29年）
@@ -297,7 +306,7 @@ DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電
 
 docomo共有**約7,536萬**用戶，在日本國內手機市場的市場佔有率約**46%**\[14\]（2017年9月數據），是日本最大的移動通信企業。
 
-目前提供[W-CDMA方式](../Page/W-CDMA.md "wikilink")、[HSDPA方式的](../Page/HSDPA.md "wikilink")3G、3.5G手機服務「**FOMA**」，日本國內的通信公司中率先提供[LTE方式的](../Page/3GPP長期演進技術.md "wikilink")3.9G手機服務「**Xi**」，以及2015年3月27日開始的LTE-Advanced方式的4G手機服務「**PREMIUM
+目前提供[W-CDMA方式](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")、[HSDPA方式的](https://zh.wikipedia.org/wiki/HSDPA "wikilink")3G、3.5G手機服務「**FOMA**」，日本國內的通信公司中率先提供[LTE方式的](https://zh.wikipedia.org/wiki/3GPP長期演進技術 "wikilink")3.9G手機服務「**Xi**」，以及2015年3月27日開始的LTE-Advanced方式的4G手機服務「**PREMIUM
 4G**」。
 
 千萬用戶里程碑到達時間\[15\]
@@ -320,7 +329,8 @@ mode](../Page/I-mode.md "wikilink")」服務\[16\]。這兩項服務廣受好評
 docomo從2001年8月開始，毎月的流量在400流量以下的用戶可免收流量費。2008年6月開始，i
 mode的基本使用費調整為與其他公司相同的每月315日元。
 
-2010年9月開始，推出了在[智能手機上也能使用i](../Page/智能手機.md "wikilink") mode郵箱地址的「」服務。
+2010年9月開始，推出了在[智能手機上也能使用i](https://zh.wikipedia.org/wiki/智能手機 "wikilink")
+mode郵箱地址的「」服務。
 
 #### mova至FOMA的移行
 
@@ -330,58 +340,63 @@ DOCOMO於2001年10月開始推出了世界最早的W-CDMA方式第3世代手機�
 
 FOMA的數據通信速度在2001年10月開始啟用時是通話時上行及下行最高速度均為64Kbps，上網時下行最高速度為384Kbps上行最大速度為64Kbps。之後，手機的上行最快速度達到64Kbps。2006年8月，開始提供名為[FOMA
 High
-Speed的服務](../Page/FOMA_High_Speed.md "wikilink")\[17\]。其通信規格是[HSDPA](../Page/HSDPA.md "wikilink")，下行最快速度3.6Mbps，上行最快速度384Kbps。2008年4月，FOMA
+Speed的服務](https://zh.wikipedia.org/wiki/FOMA_High_Speed "wikilink")\[17\]。其通信規格是[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")，下行最快速度3.6Mbps，上行最快速度384Kbps。2008年4月，FOMA
 High
-Speed的下行最快速度提高至7.2Mbps；2009年6月，隨著[HSPA規格的導入](../Page/HSPA.md "wikilink")，上行最快速度也提高至5.7Mbps。2011年6月開始，FOMA
+Speed的下行最快速度提高至7.2Mbps；2009年6月，隨著[HSPA規格的導入](https://zh.wikipedia.org/wiki/HSPA "wikilink")，上行最快速度也提高至5.7Mbps。2011年6月開始，FOMA
 High Speed的下行速度提高至14Mbps（理論値14.4Mbps）。
 
-DoCoMo於2010年12月24日開始提供基於第3.9世代的通信規格[LTE的手機通訊服務](../Page/LTE.md "wikilink")「[Xi](../Page/Xi.md "wikilink")（）」。這一服務將從東京、大阪、名古屋開始，逐步擴大到[政令制定都市及全日本](../Page/政令制定都市.md "wikilink")。隨之「Xi」的導入，部分室內最快通訊速度可達75Mbps，其他地區最快通訊速度可達37.5Mbps。
+DoCoMo於2010年12月24日開始提供基於第3.9世代的通信規格[LTE的手機通訊服務](https://zh.wikipedia.org/wiki/LTE "wikilink")「[Xi](https://zh.wikipedia.org/wiki/Xi "wikilink")（）」。這一服務將從東京、大阪、名古屋開始，逐步擴大到[政令制定都市及全日本](https://zh.wikipedia.org/wiki/政令制定都市 "wikilink")。隨之「Xi」的導入，部分室內最快通訊速度可達75Mbps，其他地區最快通訊速度可達37.5Mbps。
 
 #### 其他
 
 [NTT_docomo_HT-03A_front.jpg](https://zh.wikipedia.org/wiki/File:NTT_docomo_HT-03A_front.jpg "fig:NTT_docomo_HT-03A_front.jpg")」是日本最早的安卓系統手機\]\]
 DoCoMo於2004年開始提供名稱為「[i mode
-FeliCa](../Page/i_mode_FeliCa.md "wikilink")」的服務。這一服務的暱稱是[手機錢包](../Page/手機錢包.md "wikilink")（「****」）。之後還提供了基於手機錢包技術的「[手機西瓜](../Page/手機西瓜.md "wikilink")」服務。「手機錢包」後也授權給其他公司使用。
+FeliCa](https://zh.wikipedia.org/wiki/i_mode_FeliCa "wikilink")」的服務。這一服務的暱稱是[手機錢包](https://zh.wikipedia.org/wiki/手機錢包 "wikilink")（「****」）。之後還提供了基於手機錢包技術的「[手機西瓜](https://zh.wikipedia.org/wiki/手機西瓜 "wikilink")」服務。「手機錢包」後也授權給其他公司使用。
 
 2006年10月開始[電話號碼可攜服務](../Page/電話號碼可攜服務.md "wikilink")（MNP）後，DoCoMo曾面臨苦戰，2006年11月，其用戶數首次減少。2007年8月度，出現創業以来第2次用戶數減少。為改變這一情況，DoCoMo於2008年7月開始對其品牌進行了全面刷新。2008年11月，其手機分類方式由過去的「90X・70X」兩個系列改為**[docomo
-PRIME series](../Page/docomo_PRIME_series.md "wikilink")**、**[docomo
-STYLE series](../Page/docomo_STYLE_series.md "wikilink")**、**[docomo
-SMART series](../Page/docomo_SMART_series.md "wikilink")**、**[docomo PRO
-series](../Page/docomo_PRO_series.md "wikilink")**四個系列。並積極擴大FOMA區域及FOMA
+PRIME
+series](https://zh.wikipedia.org/wiki/docomo_PRIME_series "wikilink")**、**[docomo
+STYLE
+series](https://zh.wikipedia.org/wiki/docomo_STYLE_series "wikilink")**、**[docomo
+SMART
+series](https://zh.wikipedia.org/wiki/docomo_SMART_series "wikilink")**、**[docomo
+PRO
+series](https://zh.wikipedia.org/wiki/docomo_PRO_series "wikilink")**四個系列。並積極擴大FOMA區域及FOMA
 High
-Speed區域，以求提高顧客滿意度，2008年夏季之後，其轉出數及[解約率均明顯下降](../Page/解約.md "wikilink")。同年12月，實現MNP制度開始以来首次轉入超過轉出\[18\]。2009年3月，獲得數據通信業務用戶滿意度首位\[19\]；2009年7月，其用戶純增数獲得首位，2009年度全年純增数時隔4年再次獲得首位\[20\]。
+Speed區域，以求提高顧客滿意度，2008年夏季之後，其轉出數及[解約率均明顯下降](https://zh.wikipedia.org/wiki/解約 "wikilink")。同年12月，實現MNP制度開始以来首次轉入超過轉出\[18\]。2009年3月，獲得數據通信業務用戶滿意度首位\[19\]；2009年7月，其用戶純增数獲得首位，2009年度全年純增数時隔4年再次獲得首位\[20\]。
 另外在2010年，其首次在[JD
-Power的顧客滿意度調査中獲得首位](../Page/JD_Power.md "wikilink")\[21\]。
+Power的顧客滿意度調査中獲得首位](https://zh.wikipedia.org/wiki/JD_Power "wikilink")\[21\]。
 
 2008年度開始，DoCoMo開始發售1100系列，在docomo PRO series中發售[Windows
-Mobile](../Page/Windows_Mobile.md "wikilink")、[BlackBerry](../Page/BlackBerry.md "wikilink")、[Android等智能手機](../Page/Android.md "wikilink")。2010年夏季開始，智能手機自PRO
-series分離中獨立，改以[DoCoMo智能手機](../Page/DoCoMo智能手機.md "wikilink")（****）的名稱發售。同時開始提供智能手機用的ISP服務[sp
-mode](../Page/sp_mode.md "wikilink")（****），並且銷售帶有手機電視和手機錢包功能的智能手機。並且和[大日本印刷合作](../Page/大日本印刷.md "wikilink")，設立了面向該公司智能手機用戶的電子書籍網站「**[2Dfacto](../Page/2Dfacto.md "wikilink")**」以求擴大銷量。2011年9月開始，新設平板電腦的分類[DoCoMo平板電腦](../Page/DoCoMo平板電腦.md "wikilink")（****」。另外，DoCoMo在2011年4月之後銷售的手機均可解除SIM卡與手機綁定的功能\[22\]。
+Mobile](../Page/Windows_Mobile.md "wikilink")、[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、[Android等智能手機](../Page/Android.md "wikilink")。2010年夏季開始，智能手機自PRO
+series分離中獨立，改以[DoCoMo智能手機](https://zh.wikipedia.org/wiki/DoCoMo智能手機 "wikilink")（****）的名稱發售。同時開始提供智能手機用的ISP服務[sp
+mode](https://zh.wikipedia.org/wiki/sp_mode "wikilink")（****），並且銷售帶有手機電視和手機錢包功能的智能手機。並且和[大日本印刷合作](../Page/大日本印刷.md "wikilink")，設立了面向該公司智能手機用戶的電子書籍網站「**[2Dfacto](https://zh.wikipedia.org/wiki/2Dfacto "wikilink")**」以求擴大銷量。2011年9月開始，新設平板電腦的分類[DoCoMo平板電腦](https://zh.wikipedia.org/wiki/DoCoMo平板電腦 "wikilink")（****」。另外，DoCoMo在2011年4月之後銷售的手機均可解除SIM卡與手機綁定的功能\[22\]。
 
 從2011年冬季新款手機起，其[功能型手機被統合為](../Page/功能型手機.md "wikilink")「docomo STYLE
-series」。智能手機成為銷售主力，並且將帶有[手機電視和](../Page/手機電視.md "wikilink")[手機錢包等傳統手機功能的智能手機劃入](../Page/手機錢包.md "wikilink")「**[docomo
+series」。智能手機成為銷售主力，並且將帶有[手機電視和](https://zh.wikipedia.org/wiki/手機電視 "wikilink")[手機錢包等傳統手機功能的智能手機劃入](https://zh.wikipedia.org/wiki/手機錢包 "wikilink")「**[docomo
 with
-series](../Page/docomo_with_series.md "wikilink")**」；面向追求高機能手機用戶的智能手機則劃入「**[docomo
-NEXT series](../Page/docomo_NEXT_series.md "wikilink")**」。
+series](https://zh.wikipedia.org/wiki/docomo_with_series "wikilink")**」；面向追求高機能手機用戶的智能手機則劃入「**[docomo
+NEXT
+series](https://zh.wikipedia.org/wiki/docomo_NEXT_series "wikilink")**」。
 
 ### 其他業務
 
-DOCOMO於1998年自[NTT個人獲得PHS業務](../Page/NTT個人.md "wikilink")。其PHS用戶最多時曾超過200萬，是PHS市場佔有率第二大企業。不過PHS業務多年赤字。2005年4月30日，DOCOMO停止接受新的PHS用戶。2008年1月7日24時之後，DOCOMO停止PHS服務。
+DOCOMO於1998年自[NTT個人獲得PHS業務](https://zh.wikipedia.org/wiki/NTT個人 "wikilink")。其PHS用戶最多時曾超過200萬，是PHS市場佔有率第二大企業。不過PHS業務多年赤字。2005年4月30日，DOCOMO停止接受新的PHS用戶。2008年1月7日24時之後，DOCOMO停止PHS服務。
 
 DOCOMO曾是日本唯一一家在全國各都道府縣提供[傳呼機業務的公司](../Page/傳呼機.md "wikilink")。DOCOMO在其開業當初，傳呼機用戶曾多於手機用戶。不過在1996年之後，隨著手機和PHS價格的下降及手機也同樣具有短信功能，傳呼機用戶逐漸減少。2004年6月30日，DOCOMO停止接受新的傳呼機用戶。2007年3月31日，停止提供傳呼機服務。
 
 DOCOMO也有提供名稱為Wide
-Star（）的[衛星電話服務](../Page/衛星電話.md "wikilink")。其通位於[赤道上空](../Page/赤道.md "wikilink")36,000公里處的兩個[静止軌道衛星](../Page/静止衛星.md "wikilink")
-（N-STAR）提供電話服務。2010年5月時，共有38,100名服務。其服務區包含了日本的[領土](../Page/領土.md "wikilink")、[領海](../Page/領海.md "wikilink")、[經濟水域中可在](../Page/排他的經濟水域.md "wikilink")[正午時能看到](../Page/正午.md "wikilink")[太陽的區域](../Page/太陽.md "wikilink")。主要在[山小屋](../Page/山小屋.md "wikilink")、[船舶等手機和](../Page/船舶.md "wikilink")[固定電話均難以收到信號的地區使用](../Page/固定電話.md "wikilink")。2004年3月之前，還曾在[飛機內提供服務](../Page/飛機.md "wikilink")。由於衛星軌道較遠，打電話時會發生約0.2秒的延遲。此外因通信時所需功率較大，其電話機的體積和重量也十分龐大，最小的可搬型也有1.7千克。衛星電話所使用的電話機有可搬型、車輛型、船舶型三種類型。
+Star（）的[衛星電話服務](https://zh.wikipedia.org/wiki/衛星電話 "wikilink")。其通位於[赤道上空](../Page/赤道.md "wikilink")36,000公里處的兩個[静止軌道衛星](https://zh.wikipedia.org/wiki/静止衛星 "wikilink")
+（N-STAR）提供電話服務。2010年5月時，共有38,100名服務。其服務區包含了日本的[領土](https://zh.wikipedia.org/wiki/領土 "wikilink")、[領海](https://zh.wikipedia.org/wiki/領海 "wikilink")、[經濟水域中可在](https://zh.wikipedia.org/wiki/排他的經濟水域 "wikilink")[正午時能看到](https://zh.wikipedia.org/wiki/正午 "wikilink")[太陽的區域](https://zh.wikipedia.org/wiki/太陽 "wikilink")。主要在[山小屋](https://zh.wikipedia.org/wiki/山小屋 "wikilink")、[船舶等手機和](https://zh.wikipedia.org/wiki/船舶 "wikilink")[固定電話均難以收到信號的地區使用](https://zh.wikipedia.org/wiki/固定電話 "wikilink")。2004年3月之前，還曾在[飛機內提供服務](https://zh.wikipedia.org/wiki/飛機 "wikilink")。由於衛星軌道較遠，打電話時會發生約0.2秒的延遲。此外因通信時所需功率較大，其電話機的體積和重量也十分龐大，最小的可搬型也有1.7千克。衛星電話所使用的電話機有可搬型、車輛型、船舶型三種類型。
 
 DOCOMO提供有名稱為[WORLD
-WING的國際漫遊服務](../Page/WORLD_WING.md "wikilink")。其用戶前往外國時，可以直接使用日本的手機進行通話和郵件。且已覆蓋世界上的大多數國家。而所有的DOCOMO手機也都提供名為[WORLD
-CALL的服務](../Page/WORLD_CALL.md "wikilink")，可往海外撥打電話。
+WING的國際漫遊服務](https://zh.wikipedia.org/wiki/WORLD_WING "wikilink")。其用戶前往外國時，可以直接使用日本的手機進行通話和郵件。且已覆蓋世界上的大多數國家。而所有的DOCOMO手機也都提供名為[WORLD
+CALL的服務](https://zh.wikipedia.org/wiki/WORLD_CALL "wikilink")，可往海外撥打電話。
 
-DOCOMO於2005年12月1日入股[三井住友信用卡公司](../Page/三井住友信用卡.md "wikilink")，並開始提供名為「iD」的非接觸式信用卡服務。2006年5月26日，DOCOMO開始提供可在iD上使用的信用卡服務[DCMX](../Page/DCMX.md "wikilink")。2009年1月，iD的用戶超過1000萬。DCMX的用戶數也在同年8月24日超過1000萬人。目前，日本各大主要便利店和[麥當勞](../Page/麥當勞.md "wikilink")、[AEON](../Page/永旺集團.md "wikilink")、[友都八喜等均可使用iD支付](../Page/友都八喜.md "wikilink")。此外，在一些可口可樂的自動售貨機上也能使用iD。
+DOCOMO於2005年12月1日入股[三井住友信用卡公司](https://zh.wikipedia.org/wiki/三井住友信用卡 "wikilink")，並開始提供名為「iD」的非接觸式信用卡服務。2006年5月26日，DOCOMO開始提供可在iD上使用的信用卡服務[DCMX](https://zh.wikipedia.org/wiki/DCMX "wikilink")。2009年1月，iD的用戶超過1000萬。DCMX的用戶數也在同年8月24日超過1000萬人。目前，日本各大主要便利店和[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、[AEON](../Page/永旺集團.md "wikilink")、[友都八喜等均可使用iD支付](../Page/友都八喜.md "wikilink")。此外，在一些可口可樂的自動售貨機上也能使用iD。
 
-除此之外，DOCOMO還有提供[網際網絡](../Page/網際網絡.md "wikilink")（ISP），其服務品牌是[mopera和](../Page/mopera.md "wikilink")[mopera
-U](../Page/mopera_U.md "wikilink")。DOCOMO也有提供名稱是[Mzone的公共無線上網服務](../Page/Mzone.md "wikilink")，但需付費。其服務範圍是日本收費公共無線網絡中最大的。2009年3月，Mzone在全日本設置了3000個服務區。
+除此之外，DOCOMO還有提供[網際網絡](https://zh.wikipedia.org/wiki/網際網絡 "wikilink")（ISP），其服務品牌是[mopera和](https://zh.wikipedia.org/wiki/mopera "wikilink")[mopera
+U](https://zh.wikipedia.org/wiki/mopera_U "wikilink")。DOCOMO也有提供名稱是[Mzone的公共無線上網服務](https://zh.wikipedia.org/wiki/Mzone "wikilink")，但需付費。其服務範圍是日本收費公共無線網絡中最大的。2009年3月，Mzone在全日本設置了3000個服務區。
 
 <File:Sanno> Park Tower 2007-01.jpg|NTT DoCoMo位於東京永田町的總部大樓（山王公園塔）
 <File:A> neat display at DoCoMo's Mobile World Congress 2009
@@ -408,15 +423,15 @@ sim卡 [File:Mzone01.jpg|無線上網區標示](File:Mzone01.jpg%7C無線上網�
 <tbody>
 <tr class="odd">
 <td><p>北海道支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO北海道.md" title="wikilink">NTT DOCOMO北海道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO北海道" title="wikilink">NTT DOCOMO北海道</a></p></td>
 <td><p><strong><a href="../Page/北海道.md" title="wikilink">北海道</a></strong></p></td>
 <td><p>函館、苫小牧千歲、旭川、帯廣、釧路、北見</p></td>
 <td><p>229.5万</p></td>
 </tr>
 <tr class="even">
 <td><p>東北支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO東北.md" title="wikilink">NTT DOCOMO東北</a></p></td>
-<td><p><a href="../Page/青森縣.md" title="wikilink">青森縣</a>、<a href="../Page/岩手縣.md" title="wikilink">岩手縣</a>、<strong><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a></strong>、<a href="../Page/秋田縣.md" title="wikilink">秋田縣</a>、<a href="../Page/山形縣.md" title="wikilink">山形縣</a>、<a href="../Page/福島縣.md" title="wikilink">福島縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO東北" title="wikilink">NTT DOCOMO東北</a></p></td>
+<td><p><a href="../Page/青森縣.md" title="wikilink">青森縣</a>、<a href="https://zh.wikipedia.org/wiki/岩手縣" title="wikilink">岩手縣</a>、<strong><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a></strong>、<a href="https://zh.wikipedia.org/wiki/秋田縣" title="wikilink">秋田縣</a>、<a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a>、<a href="https://zh.wikipedia.org/wiki/福島縣" title="wikilink">福島縣</a></p></td>
 <td><p>青森、岩手、秋田、山形、福島</p></td>
 <td><p>384.6万</p></td>
 </tr>
@@ -424,52 +439,52 @@ sim卡 [File:Mzone01.jpg|無線上網區標示](File:Mzone01.jpg%7C無線上網�
 <td><p>本社直轄</p></td>
 <td><p>NTT DOCOMO<br />
 通称DoCoMo中央</p></td>
-<td><p><a href="../Page/茨城縣.md" title="wikilink">茨城縣</a>、<a href="../Page/櫪木縣.md" title="wikilink">櫪木縣</a>、<a href="../Page/群馬縣.md" title="wikilink">群馬縣</a>、<a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a>、<a href="../Page/千葉縣.md" title="wikilink">千葉縣</a>、<br />
-<strong><a href="../Page/東京都.md" title="wikilink">東京都</a></strong>、<a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a>、<a href="../Page/新潟縣.md" title="wikilink">新潟縣</a>、<a href="../Page/山梨縣.md" title="wikilink">山梨縣</a>、<a href="../Page/長野縣.md" title="wikilink">長野縣</a></p></td>
+<td><p><a href="../Page/茨城縣.md" title="wikilink">茨城縣</a>、<a href="https://zh.wikipedia.org/wiki/櫪木縣" title="wikilink">櫪木縣</a>、<a href="../Page/群馬縣.md" title="wikilink">群馬縣</a>、<a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a>、<a href="../Page/千葉縣.md" title="wikilink">千葉縣</a>、<br />
+<strong><a href="../Page/東京都.md" title="wikilink">東京都</a></strong>、<a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a>、<a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a>、<a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨縣</a>、<a href="https://zh.wikipedia.org/wiki/長野縣" title="wikilink">長野縣</a></p></td>
 <td><p>茨城、櫪木、群馬、埼玉、千葉、丸之内、<br />
 新宿、澀谷、多摩、神奈川、新潟、長野、山梨</p></td>
 <td><p>2516.4万</p></td>
 </tr>
 <tr class="even">
 <td><p>東海支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO東海.md" title="wikilink">NTT DOCOMO東海</a></p></td>
-<td><p><a href="../Page/岐阜縣.md" title="wikilink">岐阜縣</a>、<a href="../Page/静岡縣.md" title="wikilink">静岡縣</a>、<strong><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></strong>、<a href="../Page/三重縣.md" title="wikilink">三重縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO東海" title="wikilink">NTT DOCOMO東海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜縣</a>、<a href="https://zh.wikipedia.org/wiki/静岡縣" title="wikilink">静岡縣</a>、<strong><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></strong>、<a href="https://zh.wikipedia.org/wiki/三重縣" title="wikilink">三重縣</a></p></td>
 <td><p>岐阜、静岡、三重</p></td>
 <td><p>592.2万</p></td>
 </tr>
 <tr class="odd">
 <td><p>北陸支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO北陸.md" title="wikilink">NTT DOCOMO北陸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO北陸" title="wikilink">NTT DOCOMO北陸</a></p></td>
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山縣</a>、<strong><a href="../Page/石川縣.md" title="wikilink">石川縣</a></strong>、<a href="../Page/福井縣.md" title="wikilink">福井縣</a></p></td>
 <td><p>富山、福井</p></td>
 <td><p>127.5万</p></td>
 </tr>
 <tr class="even">
 <td><p>關西支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO關西.md" title="wikilink">NTT DOCOMO關西</a></p></td>
-<td><p><a href="../Page/滋賀縣.md" title="wikilink">滋賀縣</a>、<a href="../Page/京都府.md" title="wikilink">京都府</a>、<strong><a href="../Page/大阪府.md" title="wikilink">大阪府</a></strong>、<a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a>、<a href="../Page/奈良縣.md" title="wikilink">奈良縣</a>、<a href="../Page/和歌山縣.md" title="wikilink">和歌山縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO關西" title="wikilink">NTT DOCOMO關西</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/滋賀縣" title="wikilink">滋賀縣</a>、<a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a>、<strong><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></strong>、<a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a>、<a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良縣</a>、<a href="https://zh.wikipedia.org/wiki/和歌山縣" title="wikilink">和歌山縣</a></p></td>
 <td><p>滋賀、京都、神戶、姬路、奈良、和歌山</p></td>
 <td><p>904.0万</p></td>
 </tr>
 <tr class="odd">
 <td><p>中国支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO中国.md" title="wikilink">NTT DOCOMO中国</a></p></td>
-<td><p><a href="../Page/鳥取縣.md" title="wikilink">鳥取縣</a>、<a href="../Page/島根縣.md" title="wikilink">島根縣</a>、<a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<strong><a href="../Page/廣島縣.md" title="wikilink">廣島縣</a></strong>、<a href="../Page/山口縣.md" title="wikilink">山口縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO中国" title="wikilink">NTT DOCOMO中国</a></p></td>
+<td><p><a href="../Page/鳥取縣.md" title="wikilink">鳥取縣</a>、<a href="https://zh.wikipedia.org/wiki/島根縣" title="wikilink">島根縣</a>、<a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<strong><a href="../Page/廣島縣.md" title="wikilink">廣島縣</a></strong>、<a href="https://zh.wikipedia.org/wiki/山口縣" title="wikilink">山口縣</a></p></td>
 <td><p>鳥取、島根、岡山、福山、山口</p></td>
 <td><p>322.3万</p></td>
 </tr>
 <tr class="even">
 <td><p>四国支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO四国.md" title="wikilink">NTT DOCOMO四国</a></p></td>
-<td><p><a href="../Page/德島縣.md" title="wikilink">德島縣</a>、<strong><a href="../Page/香川縣.md" title="wikilink">香川縣</a></strong>、<a href="../Page/愛媛縣.md" title="wikilink">愛媛縣</a>、<a href="../Page/高知縣.md" title="wikilink">高知縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO四国" title="wikilink">NTT DOCOMO四国</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德島縣" title="wikilink">德島縣</a>、<strong><a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></strong>、<a href="https://zh.wikipedia.org/wiki/愛媛縣" title="wikilink">愛媛縣</a>、<a href="https://zh.wikipedia.org/wiki/高知縣" title="wikilink">高知縣</a></p></td>
 <td><p>德島、愛媛、高知</p></td>
 <td><p>188.6万</p></td>
 </tr>
 <tr class="odd">
 <td><p>九州支社</p></td>
-<td><p><a href="../Page/NTT_DOCOMO九州.md" title="wikilink">NTT DOCOMO九州</a></p></td>
-<td><p><strong><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></strong>、<a href="../Page/佐賀縣.md" title="wikilink">佐賀縣</a>、<a href="../Page/長崎縣.md" title="wikilink">長崎縣</a>、<a href="../Page/熊本縣.md" title="wikilink">熊本縣</a>、<a href="../Page/大分縣.md" title="wikilink">大分縣</a>、<br />
-<a href="../Page/宮崎縣.md" title="wikilink">宮崎縣</a>、<a href="../Page/鹿兒島縣.md" title="wikilink">鹿兒島縣</a>、<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DOCOMO九州" title="wikilink">NTT DOCOMO九州</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></strong>、<a href="https://zh.wikipedia.org/wiki/佐賀縣" title="wikilink">佐賀縣</a>、<a href="https://zh.wikipedia.org/wiki/長崎縣" title="wikilink">長崎縣</a>、<a href="../Page/熊本縣.md" title="wikilink">熊本縣</a>、<a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分縣</a>、<br />
+<a href="../Page/宮崎縣.md" title="wikilink">宮崎縣</a>、<a href="https://zh.wikipedia.org/wiki/鹿兒島縣" title="wikilink">鹿兒島縣</a>、<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣</a></p></td>
 <td><p>北九州、佐賀、長崎、熊本、大分、宮崎、鹿兒島、沖繩</p></td>
 <td><p>654.3万</p></td>
 </tr>
@@ -477,18 +492,22 @@ sim卡 [File:Mzone01.jpg|無線上網區標示](File:Mzone01.jpg%7C無線上網�
 </table>
 
 <File:NTT_DoCoMo_Yoyogi_Building_2009> cropped.jpg|[NTT
-DoCoMo代代木大廈](../Page/NTT_DoCoMo代代木大廈.md "wikilink") <File:NTT>
-DoCoMo Tohoku Building from south-southwest 2010-06-01.jpg|[NTT
-DoCoMo東北支社](../Page/NTT_DoCoMo東北.md "wikilink")
-（[DoCoMo東北大樓](../Page/DoCoMo東北大樓.md "wikilink")）
+DoCoMo代代木大廈](https://zh.wikipedia.org/wiki/NTT_DoCoMo代代木大廈 "wikilink")
+<File:NTT> DoCoMo Tohoku Building from south-southwest
+2010-06-01.jpg|[NTT
+DoCoMo東北支社](https://zh.wikipedia.org/wiki/NTT_DoCoMo東北 "wikilink")
+（[DoCoMo東北大樓](https://zh.wikipedia.org/wiki/DoCoMo東北大樓 "wikilink")）
 <File:Doccomokanazawaseito.JPG>|[NTT
-DoCoMo北陸支社](../Page/NTT_DoCoMo北陸.md "wikilink")
+DoCoMo北陸支社](https://zh.wikipedia.org/wiki/NTT_DoCoMo北陸 "wikilink")
 （NTT DoCoMo金澤西都大樓） <File:Umeda_DT_Tower.jpg>|[NTT
-DoCoMo關西支社](../Page/NTT_DoCoMo關西.md "wikilink")
-（[梅田DT塔](../Page/梅田DT塔.md "wikilink")） <File:Urbannet> Nagoya
-Building.jpg|[NTT DoCoMo東海支社](../Page/NTT_DoCoMo東海.md "wikilink")
-[Urban Net名古屋大樓](../Page/Urban_Net名古屋大樓.md "wikilink") <File:Docomo>
-sumida 2012.JPG|[NTT DoCoMo墨田大樓](../Page/NTT_DoCoMo墨田大樓.md "wikilink")
+DoCoMo關西支社](https://zh.wikipedia.org/wiki/NTT_DoCoMo關西 "wikilink")
+（[梅田DT塔](https://zh.wikipedia.org/wiki/梅田DT塔 "wikilink")）
+<File:Urbannet> Nagoya Building.jpg|[NTT
+DoCoMo東海支社](https://zh.wikipedia.org/wiki/NTT_DoCoMo東海 "wikilink")
+[Urban
+Net名古屋大樓](https://zh.wikipedia.org/wiki/Urban_Net名古屋大樓 "wikilink")
+<File:Docomo> sumida 2012.JPG|[NTT
+DoCoMo墨田大樓](https://zh.wikipedia.org/wiki/NTT_DoCoMo墨田大樓 "wikilink")
 [File:Docomo-oosaka-nankou.jpg|NTT](File:Docomo-oosaka-nankou.jpg%7CNTT)
 DoCoMo大阪南港大樓
 [File:docomokawasaki.jpg|NTT](File:docomokawasaki.jpg%7CNTT) DoCoMo川崎大樓
@@ -496,8 +515,8 @@ DoCoMo大阪南港大樓
 DoCoMo品川大樓
 [File:Yokohamamedhiatower.JPG|NTT](File:Yokohamamedhiatower.JPG%7CNTT)
 DoCoMo神奈川支店
-（[横濱媒體塔](../Page/横濱媒體塔.md "wikilink")） <File:NTT> docomo Nakano Bldg
-2009.jpg|NTT DoCoMo中野大樓
+（[横濱媒體塔](https://zh.wikipedia.org/wiki/横濱媒體塔 "wikilink")） <File:NTT>
+docomo Nakano Bldg 2009.jpg|NTT DoCoMo中野大樓
 [File:Docomonaganobil.JPG|NTT](File:Docomonaganobil.JPG%7CNTT)
 DoCoMo長野大樓 <File:Ntt> DoCoMo-Saitama Shintoshin-2005-9-11
 2.jpg|NTT DoCoMo埼玉支店
@@ -511,39 +530,40 @@ DoCoMo立川大樓 <File:Docomo> chiba.JPG|NTT DoCoMo千葉大樓
   - 日本企業
       - **[索尼移动通信](../Page/索尼移动通信.md "wikilink")**（ 代號「SO」）
       - **[富士通](../Page/富士通.md "wikilink")**（代號「F」及「T」\[23\]）
-      - **[NEC卡西歐移動通訊](../Page/NEC卡西歐移動通訊.md "wikilink")**（代號「N」及「CA」）
-      - **[松下移動通訊](../Page/松下移動通訊.md "wikilink")**（代號「P」）
-      - **[夏普](../Page/夏普.md "wikilink")**（代號「SH」）
+      - **[NEC卡西歐移動通訊](https://zh.wikipedia.org/wiki/NEC卡西歐移動通訊 "wikilink")**（代號「N」及「CA」）
+      - **[松下移動通訊](https://zh.wikipedia.org/wiki/松下移動通訊 "wikilink")**（代號「P」）
+      - **[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")**（代號「SH」）
       - Buffalo（代號「BF」）
   - 日本以外企業
-      - **[三星電子](../Page/三星電子.md "wikilink")**（[韓国](../Page/韓国.md "wikilink")
+      - **[三星電子](../Page/三星電子.md "wikilink")**（[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")
         代號「SC」）
       - **[LG電子](../Page/LG電子.md "wikilink")**（韓国 代號「L」）
-      - **[RIM](../Page/Research_In_Motion.md "wikilink")**（[加拿大](../Page/加拿大.md "wikilink")
+      - **[RIM](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")**（[加拿大](../Page/加拿大.md "wikilink")
         BlackBerry系列）
-      - **[華為](../Page/华为终端有限公司.md "wikilink")** （中国 代號「HW」）
+      - **[華為](https://zh.wikipedia.org/wiki/华为终端有限公司 "wikilink")** （中国
+        代號「HW」）
 
 ## 研究施設（DOCOMO研發中心）
 
 [DocomoR\&D.JPG](https://zh.wikipedia.org/wiki/File:DocomoR&D.JPG "fig:DocomoR&D.JPG")
-DOCOMO在[神奈川縣](../Page/神奈川縣.md "wikilink")[横須賀市的](../Page/横須賀市.md "wikilink")[横須賀科研園區](../Page/横須賀科研園區.md "wikilink")（YRP）內建有名為「DOCOMO研發中心」（）的研究設施。該設施附近有NEC、富士通、松下、[阿爾法系統等企業落戶](../Page/阿爾法系統.md "wikilink")，DOCOMO也和企業進行了共同研發。研發中心進行次世代通信方式（如HSUPA、LTE、第4世代手機等）的研究、手機新機型開發、通信架構的研發等業務，是DOCOMO在日本最重要的開發據點。
+DOCOMO在[神奈川縣](../Page/神奈川縣.md "wikilink")[横須賀市的](https://zh.wikipedia.org/wiki/横須賀市 "wikilink")[横須賀科研園區](https://zh.wikipedia.org/wiki/横須賀科研園區 "wikilink")（YRP）內建有名為「DOCOMO研發中心」（）的研究設施。該設施附近有NEC、富士通、松下、[阿爾法系統等企業落戶](https://zh.wikipedia.org/wiki/阿爾法系統 "wikilink")，DOCOMO也和企業進行了共同研發。研發中心進行次世代通信方式（如HSUPA、LTE、第4世代手機等）的研究、手機新機型開發、通信架構的研發等業務，是DOCOMO在日本最重要的開發據點。
 
-研發中心設有參觀區「WHARF」，在這裡可以看到DOCOMO的研究成果以及今後的開發構想。自[京濱急行](../Page/京濱急行.md "wikilink")「[YRP野比車站](../Page/YRP野比車站.md "wikilink")」乘坐巴士10分可抵達研發中心\[24\]。
+研發中心設有參觀區「WHARF」，在這裡可以看到DOCOMO的研究成果以及今後的開發構想。自[京濱急行](https://zh.wikipedia.org/wiki/京濱急行 "wikilink")「[YRP野比車站](https://zh.wikipedia.org/wiki/YRP野比車站 "wikilink")」乘坐巴士10分可抵達研發中心\[24\]。
 
 研發中心在[CEATEC
-JAPAN](../Page/CEATEC_JAPAN.md "wikilink")2009上展示了用眼睛操作的耳機\[25\]和以國產木材為原料製作的手機\[26\]等展品。
+JAPAN](https://zh.wikipedia.org/wiki/CEATEC_JAPAN "wikilink")2009上展示了用眼睛操作的耳機\[25\]和以國產木材為原料製作的手機\[26\]等展品。
 
 ## 銷售店
 
 [DoCoMo_Shop_Ibaraki-Shinjo2.JPG](https://zh.wikipedia.org/wiki/File:DoCoMo_Shop_Ibaraki-Shinjo2.JPG "fig:DoCoMo_Shop_Ibaraki-Shinjo2.JPG")[茨木市](../Page/茨木市.md "wikilink")）\]\]
 [DoCoMo_Shop_Ibaraki-Shinjo.JPG](https://zh.wikipedia.org/wiki/File:DoCoMo_Shop_Ibaraki-Shinjo.JPG "fig:DoCoMo_Shop_Ibaraki-Shinjo.JPG")
 NTT DOCOMO的產品銷售主要在DOCOMO
-Shop進行，全日本約有2,200店。此外也在[家電量販店等地銷售](../Page/家電量販店.md "wikilink")。
+Shop進行，全日本約有2,200店。此外也在[家電量販店等地銷售](https://zh.wikipedia.org/wiki/家電量販店 "wikilink")。
 
 ### DOCOMO Shop
 
 DOCOMO Shop是專門進行DOCOMO手機相關業務的銷售代理店。第一家DOCOMO Shop是於1992年10月18日開店的DOCOMO
-Shop八王子店。其在都市大多集中於車站附近，而在地方則多位於幹線道路沿線。也有一些位於[百貨店或](../Page/百貨店.md "wikilink")[綜合超市及](../Page/綜合超市.md "wikilink")[購物中心](../Page/購物中心.md "wikilink")。
+Shop八王子店。其在都市大多集中於車站附近，而在地方則多位於幹線道路沿線。也有一些位於[百貨店或](https://zh.wikipedia.org/wiki/百貨店 "wikilink")[綜合超市及](https://zh.wikipedia.org/wiki/綜合超市 "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")。
 
 主要進行以下業務。
 
@@ -559,7 +579,7 @@ Shop八王子店。其在都市大多集中於車站附近，而在地方則多�
 
 ### 販賣代理店未進行本人確認問題
 
-  - 2009年2月6日，[總務省要求違反了](../Page/總務省.md "wikilink")[携帯電話不正利用防止法的携帯電話販賣代理店](../Page/携帯電話不正利用防止法.md "wikilink")改正，並要求負有監督義務的KDDI和NTT
+  - 2009年2月6日，[總務省要求違反了](../Page/總務省.md "wikilink")[携帯電話不正利用防止法的携帯電話販賣代理店](https://zh.wikipedia.org/wiki/携帯電話不正利用防止法 "wikilink")改正，並要求負有監督義務的KDDI和NTT
     DOCOMO對其進行徹底監督\[27\]。
   - 2010年10月，NTT
     DOCOMO被報導其下屬的多個代理店未對自稱是暴力團員的人士進行身份確認就銷售其手機，自2007年8月起，已累計提供超過400台以上的手機\[28\]。
@@ -567,9 +587,9 @@ Shop八王子店。其在都市大多集中於車站附近，而在地方則多�
 ### 施工問題
 
   - 2005年6月 -
-    在未提出必要的文件的情況下就在大阪府[池田市進行施工](../Page/池田市.md "wikilink")，破壞了[古江古墳](../Page/古江古墳.md "wikilink")\[29\]。
+    在未提出必要的文件的情況下就在大阪府[池田市進行施工](../Page/池田市.md "wikilink")，破壞了[古江古墳](https://zh.wikipedia.org/wiki/古江古墳 "wikilink")\[29\]。
   - 2006年6月 -
-    被發現其在[京都府](../Page/京都府.md "wikilink")[嵐山於](../Page/嵐山.md "wikilink")1999年設置的鐵塔並未遵守[文化財保護法在事前提出文件](../Page/文化財保護法.md "wikilink")\[30\]。
+    被發現其在[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[嵐山於](https://zh.wikipedia.org/wiki/嵐山 "wikilink")1999年設置的鐵塔並未遵守[文化財保護法在事前提出文件](https://zh.wikipedia.org/wiki/文化財保護法 "wikilink")\[30\]。
   - 2008年6月 -
     被發現於2006年，未獲得許可就在[雲仙天草國立公園內的鹿兒島縣](../Page/雲仙天草國立公園.md "wikilink")[出水郡長島町平尾地区設置基地局](../Page/出水郡.md "wikilink")\[31\]\[32\]。被發現問題的基地局在之後均被拆除或搬遷。
 
@@ -586,9 +606,10 @@ Shop八王子店。其在都市大多集中於車站附近，而在地方則多�
 NTT DoCoMo持有以下電訊公司權益：（括號內為股權比例）
 
   - [AT\&T](../Page/AT&T.md "wikilink")（18%）
-  - [英國Hutchison](../Page/英國.md "wikilink") 3G UK公司（20%）
+  - [英國Hutchison](https://zh.wikipedia.org/wiki/英國 "wikilink") 3G
+    UK公司（20%）
   - [3香港及](../Page/3_\(電訊\).md "wikilink")[3澳門](../Page/3_\(電訊\).md "wikilink")（各24%）
-  - [韓國](../Page/韓國.md "wikilink")（10.03%）
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")（10.03%）
   - [臺灣](../Page/臺灣.md "wikilink")[遠傳電信](../Page/遠傳電信.md "wikilink")（4.91%）
   - 百度移信網絡技術（北京）有限公司（20%）
 
@@ -630,7 +651,7 @@ NTT DoCoMo持有以下電訊公司權益：（括號內為股權比例）
 13.
 14. [一般社団法人電気通信事業者協会 事業者別契約数](http://www.tca.or.jp/database/index.html)
 15. [（お知らせ）ドコモの携帯電話契約数が7,000万を突破](https://www.nttdocomo.co.jp/info/news_release/notice/2016/02/12_00.html)
-16. 由現[萬代董事](../Page/萬代.md "wikilink")[松永真理](../Page/松永真理.md "wikilink")、現[多玩國董事](../Page/多玩國.md "wikilink")[夏野剛等人開發](../Page/夏野剛.md "wikilink")
+16. 由現[萬代董事](../Page/萬代.md "wikilink")[松永真理](https://zh.wikipedia.org/wiki/松永真理 "wikilink")、現[多玩國董事](../Page/多玩國.md "wikilink")[夏野剛等人開發](https://zh.wikipedia.org/wiki/夏野剛 "wikilink")
 17. [報道発表資料
     HSDPA対応試作機を開発](http://www.nttdocomo.co.jp/info/news_release/page/20060201.html)
 18. [2008年12月・携帯、PHS契約数ドコモ初の転入超過](http://k-tai.impress.co.jp/cda/article/news_toppage/43504.html)
@@ -639,7 +660,7 @@ NTT DoCoMo持有以下電訊公司權益：（括號內為股權比例）
 20. [2009年度の年間純増数](http://k-tai.impress.co.jp/docs/news/20100407_359606.html)
 21. [J.D.パワー顧客満足度調査、総合1位はドコモ](http://k-tai.impress.co.jp/docs/news/20101119_408109.html)
 22. [ＮＴＴドコモ：「SIMロック」解除へ　来年４月以降](https://web.archive.org/web/20100709021859/http://mainichi.jp/select/biz/news/20100707k0000m020058000c.html)
-23. T系列的手機是由[富士通東芝移動通訊製造](../Page/富士通東芝移動通訊.md "wikilink")。
+23. T系列的手機是由[富士通東芝移動通訊製造](https://zh.wikipedia.org/wiki/富士通東芝移動通訊 "wikilink")。
 24. [ドコモR\&Dセンター](http://www.nttdocomo.co.jp/corporate/technology/rd/rdcenter/)
 25. [眼で操作するイヤホン](http://japan.internet.com/allnet/20091001/4.html)
 26. [TOUCH WOOD](http://japan.internet.com/allnet/20090924/2.html)

@@ -2,7 +2,7 @@
 [多范式](../Page/编程范型.md "wikilink") | year = 1980年 | designer = -{}-
 
   - MIL-STD-1815/Ada 83: [Jean
-    Ichbiah](../Page/Jean_Ichbiah.md "wikilink")
+    Ichbiah](https://zh.wikipedia.org/wiki/Jean_Ichbiah "wikilink")
 
   - Ada 95: Tucker Taft
 
@@ -11,38 +11,41 @@
 | developer = | latest_release_version = Ada 2005 |
 latest_release_date =  | latest_preview_version = Ada 2012\[1\] |
 latest_preview_date =  | turing-complete = Yes | typing =
-[静态](../Page/静态类型.md "wikilink")、[强](../Page/強型別.md "wikilink")、[安全](../Page/型別安全.md "wikilink")、[标明](../Page/标明类型系統.md "wikilink")
-| implementations = AdaCore [GNAT](../Page/GNAT.md "wikilink"),
-[Green Hills Software](../Page/Green_Hills_Software.md "wikilink")
+[静态](https://zh.wikipedia.org/wiki/静态类型 "wikilink")、[强](https://zh.wikipedia.org/wiki/強型別 "wikilink")、[安全](../Page/型別安全.md "wikilink")、[标明](https://zh.wikipedia.org/wiki/标明类型系統 "wikilink")
+| implementations = AdaCore
+[GNAT](https://zh.wikipedia.org/wiki/GNAT "wikilink"),
+[Green Hills
+Software](https://zh.wikipedia.org/wiki/Green_Hills_Software "wikilink")
 Optimising Ada 95 compiler,
-[DDC-I](../Page/DDC-I.md "wikilink") Score | influenced_by = [ALGOL
-68](../Page/ALGOL.md "wikilink"),
+[DDC-I](https://zh.wikipedia.org/wiki/DDC-I "wikilink") Score |
+influenced_by = [ALGOL 68](../Page/ALGOL.md "wikilink"),
 [Pascal](../Page/Pascal_\(程式語言\).md "wikilink"),
 [C++](../Page/C++.md "wikilink")（Ada 95）,
 [Smalltalk](../Page/Smalltalk.md "wikilink")（Ada 95）,
 [Java](../Page/Java.md "wikilink")（Ada 2005） | influenced =
 [C++](../Page/C++.md "wikilink"),
 [Eiffel](../Page/Eiffel.md "wikilink"),
-[PL/SQL](../Page/PL/SQL.md "wikilink"),
+[PL/SQL](https://zh.wikipedia.org/wiki/PL/SQL "wikilink"),
 [VHDL](../Page/VHDL.md "wikilink"), [Ruby](../Page/Ruby.md "wikilink"),
 [Java](../Page/Java.md "wikilink") | operating_system =
-[跨平台](../Page/跨平台.md "wikilink") | license = | website =
-<http://www.adaic.org/> | dialects =
-[SPARK](../Page/SPARK.md "wikilink")、 | wikibooks = Ada Programming }}
+[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | license = |
+website = <http://www.adaic.org/> | dialects =
+[SPARK](https://zh.wikipedia.org/wiki/SPARK "wikilink")、 | wikibooks =
+Ada Programming }}
 
-**Ada**，是一种[程序设计语言](../Page/程序设计语言.md "wikilink")。它源于[美国军方的一个计划](../Page/美国.md "wikilink")，旨在整合美军系统中运行着上百种不同的程序设计语言编写的程序，並提高[除錯能力與效率](../Page/除錯.md "wikilink")，由[Pascal及其他語言擴展而成](../Page/Pascal_\(程式語言\).md "wikilink")，比較接近[自然語言和數學表達式](../Page/自然語言.md "wikilink")，並用「Ada」命名以紀念[-{zh-cn:埃达·洛夫莱斯;zh-tw:愛達·勒芙蕾絲;zh-hk:愛達·勒芙蕾絲;zh-sg:埃达·洛夫莱斯;}-](../Page/愛達·勒芙蕾絲.md "wikilink")（）。
+**Ada**，是一种[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")。它源于[美国军方的一个计划](../Page/美国.md "wikilink")，旨在整合美军系统中运行着上百种不同的程序设计语言编写的程序，並提高[除錯能力與效率](https://zh.wikipedia.org/wiki/除錯 "wikilink")，由[Pascal及其他語言擴展而成](../Page/Pascal_\(程式語言\).md "wikilink")，比較接近[自然語言和數學表達式](https://zh.wikipedia.org/wiki/自然語言 "wikilink")，並用「Ada」命名以紀念[-{zh-cn:埃达·洛夫莱斯;zh-tw:愛達·勒芙蕾絲;zh-hk:愛達·勒芙蕾絲;zh-sg:埃达·洛夫莱斯;}-](../Page/愛達·勒芙蕾絲.md "wikilink")（）。
 
 ## 重要特征
 
-Ada语言最早是针对[嵌入式和](../Page/嵌入式.md "wikilink")[实时系统设计的](../Page/实时系统.md "wikilink")，并且在现今依然在这些方面广泛使用。Ada95版，是由INTERMETRICS公司的塔克·塔夫特于1992到1995年间设计的，当时主要是希望改进对于系统、数字、财务软件编程的支持。
+Ada语言最早是针对[嵌入式和](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[实时系统设计的](https://zh.wikipedia.org/wiki/实时系统 "wikilink")，并且在现今依然在这些方面广泛使用。Ada95版，是由INTERMETRICS公司的塔克·塔夫特于1992到1995年间设计的，当时主要是希望改进对于系统、数字、财务软件编程的支持。
 
-Ada语言的重要特征就是其嵌入式风格，[模块化设计](../Page/模块化设计.md "wikilink")，编译检查，[平行处理](../Page/平行处理.md "wikilink")，[异常处理及](../Page/异常处理.md "wikilink")[泛型编程](../Page/泛型编程.md "wikilink")。Ada在1995年加入了对[面向对象设计的支持](../Page/面向对象设计.md "wikilink")，包括动态分配等。
+Ada语言的重要特征就是其嵌入式风格，[模块化设计](https://zh.wikipedia.org/wiki/模块化设计 "wikilink")，编译检查，[平行处理](https://zh.wikipedia.org/wiki/平行处理 "wikilink")，[异常处理及](../Page/异常处理.md "wikilink")[泛型编程](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")。Ada在1995年加入了对[面向对象设计的支持](../Page/面向对象设计.md "wikilink")，包括动态分配等。
 
-Ada的编译检查主要是针对没有分配的内存读写的保护，[堆栈溢出错误](../Page/堆栈溢出.md "wikilink")，单个错误空闲，队列读写错误以及其他可以避免的小问题。这些检查可以在为增加效率的情况下被取消，但是在编译的时候他们却能带来很高的效率。同样它也包括对程序的严正的设置。因为这些原因，它被广泛应用于一些非常重要的系统中，例如[航空电子学](../Page/航空电子学.md "wikilink")，[武器及航天飞行器的操作系统中](../Page/武器.md "wikilink")。
+Ada的编译检查主要是针对没有分配的内存读写的保护，[堆栈溢出错误](https://zh.wikipedia.org/wiki/堆栈溢出 "wikilink")，单个错误空闲，队列读写错误以及其他可以避免的小问题。这些检查可以在为增加效率的情况下被取消，但是在编译的时候他们却能带来很高的效率。同样它也包括对程序的严正的设置。因为这些原因，它被广泛应用于一些非常重要的系统中，例如[航空电子学](https://zh.wikipedia.org/wiki/航空电子学 "wikilink")，[武器及航天飞行器的操作系统中](../Page/武器.md "wikilink")。
 
-同样它支持很多的编译时间检查，这些检查被用来避免一些错误的发生。这种错误往往是在其他语言中运行之前难以被察觉到的，需要在[源码中加入特殊的检查设置才能被发现](../Page/源码.md "wikilink")。
+同样它支持很多的编译时间检查，这些检查被用来避免一些错误的发生。这种错误往往是在其他语言中运行之前难以被察觉到的，需要在[源码中加入特殊的检查设置才能被发现](https://zh.wikipedia.org/wiki/源码 "wikilink")。
 
-Ada的动态内存管理非常安全和高规格，它类似于[JAVA语言却不同于](../Page/JAVA.md "wikilink")[C语言的](../Page/C语言.md "wikilink")。这种特殊功能并不需要特殊的运行设置。尽管这种语言的语意结构允许对于不能读写的目标进行自动的碎片搜集，但是大多数运行都不支持它。Ada却支持有限形式基于区域的存储管理。无效的读写常在运行时候被检查出来（除非这种检测被人为关闭）并且有时候在编译时候就被发现。
+Ada的动态内存管理非常安全和高规格，它类似于[JAVA语言却不同于](https://zh.wikipedia.org/wiki/JAVA "wikilink")[C语言的](https://zh.wikipedia.org/wiki/C语言 "wikilink")。这种特殊功能并不需要特殊的运行设置。尽管这种语言的语意结构允许对于不能读写的目标进行自动的碎片搜集，但是大多数运行都不支持它。Ada却支持有限形式基于区域的存储管理。无效的读写常在运行时候被检查出来（除非这种检测被人为关闭）并且有时候在编译时候就被发现。
 
 Ada语言的定义同国际标准化组织（ISO）的标准有很大不同，因为他是一个自由内容形式的。这种做法的后果是被广大程序员只能从它的标准化文档（普遍认为是Ada的参考使用手册（ARM））寻找细节性的技术问题，但是普遍情况是一本标准教科书却可以在其他不同语言上使用。
 
@@ -56,7 +59,8 @@ Ada语言由严格的巴斯特范式定义，但是不适合一般人阅读。�
 
 ## Ada语言的“Hello, World\!”示例程序
 
-一个Ada语言编写的[Hello, World\!程序](../Page/Hello_world.md "wikilink")：
+一个Ada语言编写的[Hello,
+World\!程序](https://zh.wikipedia.org/wiki/Hello_world "wikilink")：
 
 ``` ada
 with Ada.Text_IO;
@@ -68,11 +72,11 @@ end Hello;
 ```
 
 在`Ada.Text_IO.Put_Line`处有一些捷径，不需要很多的文字输入，但是对于这里的理解来讲并没有多大意义。细节性的问题請参考[Ada
-Programming/Basic](../Page/Wikibooks:Ada_Programming/Basic.md "wikilink")。
+Programming/Basic](https://zh.wikipedia.org/wiki/Wikibooks:Ada_Programming/Basic "wikilink")。
 
 ## 关于阿丽亚娜5型运载火箭的失败
 
-一个普遍的关于[欧洲空间局](../Page/欧洲空间局.md "wikilink")[阿丽亚娜5型运载火箭失败的说法是因为Ada语言在编译过程的检查失败导致的](../Page/阿丽亚娜5型运载火箭.md "wikilink")。将大的浮点数转换成整数是一种常见的程序错误来源。1996年6月4日，对于阿丽亚娜5型运载火箭的初次航行来说，这样一个错误产生了灾难性的后果。发射后仅仅37秒，火箭偏离它的飞行路径，解体并爆炸了。火箭上载有价值5亿美元的通信卫星。6亿美元付之一炬。后来的调查显示，控制惯性导航系统的计算机向控制引擎喷嘴的计算机发送了一个无效数据。失事调查报告指出，火箭爆炸是因为：
+一个普遍的关于[欧洲空间局](../Page/欧洲空间局.md "wikilink")[阿丽亚娜5型运载火箭失败的说法是因为Ada语言在编译过程的检查失败导致的](https://zh.wikipedia.org/wiki/阿丽亚娜5型运载火箭 "wikilink")。将大的浮点数转换成整数是一种常见的程序错误来源。1996年6月4日，对于阿丽亚娜5型运载火箭的初次航行来说，这样一个错误产生了灾难性的后果。发射后仅仅37秒，火箭偏离它的飞行路径，解体并爆炸了。火箭上载有价值5亿美元的通信卫星。6亿美元付之一炬。后来的调查显示，控制惯性导航系统的计算机向控制引擎喷嘴的计算机发送了一个无效数据。失事调查报告指出，火箭爆炸是因为：
 
 它没有发送飞行控制信息，而是送出了一个诊断位模式，表明在将一个64位浮点数转换成16位有符号整数时，产生了溢出。溢出值测量的是火箭的水平速率，这比早先的阿丽亚娜4型运载火箭所能达到的高出了5倍。在设计阿丽亚娜4型运载火箭的软件时，他们小心地分析了数字值，并且确定水平速率绝不会超出一个16位的数。不幸的是，他们在阿丽亚娜5型运载火箭的系统中简单地重新使用了这一部分，而没有检查它所基于的假设。Ada代码如下：
 
@@ -99,14 +103,15 @@ end;
 
   - ：Information technology — Programming languages — Ada Semantic
     Interface
-    Specification（[ASIS](../Page/wiktionary:ASIS.md "wikilink")）
+    Specification（[ASIS](https://zh.wikipedia.org/wiki/wiktionary:ASIS "wikilink")）
 
   - ：Information technology — Programming languages — Ada: Conformity
     assessment of a language
-    processor（[ACATS](../Page/wiktionary:ACATS.md "wikilink")）
+    processor（[ACATS](https://zh.wikipedia.org/wiki/wiktionary:ACATS "wikilink")）
 
-  - [IEEE Standard 1003.5b-1996](../Page/POSIX.md "wikilink")，the
-    [POSIX](../Page/POSIX.md "wikilink") Ada binding
+  - [IEEE Standard
+    1003.5b-1996](https://zh.wikipedia.org/wiki/POSIX "wikilink")，the
+    [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") Ada binding
 
   - [Ada Language Mapping
     Specification](https://web.archive.org/web/20041209184612/http://www.omg.org/technology/documents/formal/ada_language_mapping.htm)，the
@@ -115,8 +120,9 @@ end;
 
 ### 书目
 
-  - [Jan Skansholm](../Page/Jan_Skansholm.md "wikilink")：*Ada 95 From
-    the Beginning*, Addison-Wesley, ISBN 0-201-40376-5
+  - [Jan
+    Skansholm](https://zh.wikipedia.org/wiki/Jan_Skansholm "wikilink")：*Ada
+    95 From the Beginning*, Addison-Wesley, ISBN 0-201-40376-5
 
   - ：*Programming in Ada plus Language Reference Manual*,
     Addison-Wesley, ISBN 0-201-56539-0
@@ -146,85 +152,101 @@ end;
   - ：*Object-Oriented Reuse, Concurrency and Distribution: An Ada-Based
     Approach*, Addison-Wesley, ISBN 0-201-56527-7
 
-  - [Grady Booch](../Page/葛來迪·布區.md "wikilink")，[Doug
-    Bryan](../Page/Doug_Bryan.md "wikilink")：*Software Engineering with
-    Ada*, Addison-Wesley, ISBN 0-8053-0608-0
+  - [Grady Booch](https://zh.wikipedia.org/wiki/葛來迪·布區 "wikilink")，[Doug
+    Bryan](https://zh.wikipedia.org/wiki/Doug_Bryan "wikilink")：*Software
+    Engineering with Ada*, Addison-Wesley, ISBN 0-8053-0608-0
 
-  - ，[Neil W. Webre](../Page/Neil_W._Webre.md "wikilink")：*Data
+  - ，[Neil W.
+    Webre](https://zh.wikipedia.org/wiki/Neil_W._Webre "wikilink")：*Data
     Structures with Abstract Data Types and Ada*, Brooks Cole, ISBN
     0-534-14448-9
 
-  - [Pascal Ledru](../Page/Pascal_Ledru.md "wikilink")：*Distributed
+  - [Pascal
+    Ledru](https://zh.wikipedia.org/wiki/Pascal_Ledru "wikilink")：*Distributed
     Programming in Ada with Protected Objects*, Dissertation.com, ISBN
     1-58112-034-6
 
-  - [Fintan Culwin](../Page/Fintan_Culwin.md "wikilink")：*Ada, a
-    Developmental Approach*, Prentice Hall, ISBN 0-13-264680-3
+  - [Fintan
+    Culwin](https://zh.wikipedia.org/wiki/Fintan_Culwin "wikilink")：*Ada,
+    a Developmental Approach*, Prentice Hall, ISBN 0-13-264680-3
 
-  - ，[Fintan Culwin](../Page/Fintan_Culwin.md "wikilink")：*Ada 95 the
-    Craft of Object Oriented Programming*, Prentice Hall, ISBN
+  - ，[Fintan
+    Culwin](https://zh.wikipedia.org/wiki/Fintan_Culwin "wikilink")：*Ada
+    95 the Craft of Object Oriented Programming*, Prentice Hall, ISBN
     0-13-230350-7
 
   - ：*Ada 95*, Springer-Verlag, ISBN 0-387-94801-5
 
-  - [David R. Musser](../Page/David_R._Musser.md "wikilink")，：*The Ada
-    Generic Library: Linear List Processing Packages*, Springer-Verlag,
-    ISBN 0-387-97133-5
+  - [David R.
+    Musser](https://zh.wikipedia.org/wiki/David_R._Musser "wikilink")，：*The
+    Ada Generic Library: Linear List Processing Packages*,
+    Springer-Verlag, ISBN 0-387-97133-5
 
   - [Michael B.
-    Feldman](../Page/Michael_B._Feldman.md "wikilink")：*Software
+    Feldman](https://zh.wikipedia.org/wiki/Michael_B._Feldman "wikilink")：*Software
     Construction and Data Structures with Ada 95*, Addison-Wesley, ISBN
     0-201-88795-9
 
   - ：*Ada95 for C and C++ Programmers*, Addison-Wesley, ISBN
     0-201-40363-3
 
-  - [Michael B. Feldman](../Page/Michael_B._Feldman.md "wikilink")，：*Ada
+  - [Michael B.
+    Feldman](https://zh.wikipedia.org/wiki/Michael_B._Feldman "wikilink")，：*Ada
     95*, Addison-Wesley, ISBN 0-201-36123-X
 
-  - [Nell Dale](../Page/Nell_Dale.md "wikilink")，[Chip
-    Weems](../Page/Chip_Weems.md "wikilink")，：*Programming and Problem
-    Solving with Ada 95*, Jones & Bartlett Publishers, ISBN
+  - [Nell
+    Dale](https://zh.wikipedia.org/wiki/Nell_Dale "wikilink")，[Chip
+    Weems](https://zh.wikipedia.org/wiki/Chip_Weems "wikilink")，：*Programming
+    and Problem Solving with Ada 95*, Jones & Bartlett Publishers, ISBN
     0-7637-0293-5
 
-  - [Nell Dale](../Page/Nell_Dale.md "wikilink")，[Susan
-    Lilly](../Page/Susan_Lilly.md "wikilink")，：*Ada Plus Data
-    Structures: An Object-Based Approach*, Jones & Bartlett Publishers,
-    ISBN 0-669-41676-2
+  - [Nell
+    Dale](https://zh.wikipedia.org/wiki/Nell_Dale "wikilink")，[Susan
+    Lilly](https://zh.wikipedia.org/wiki/Susan_Lilly "wikilink")，：*Ada
+    Plus Data Structures: An Object-Based Approach*, Jones & Bartlett
+    Publishers, ISBN 0-669-41676-2
 
-  - [Bruce C. Krell](../Page/Bruce_C._Krell.md "wikilink")：*Developing
+  - [Bruce C.
+    Krell](https://zh.wikipedia.org/wiki/Bruce_C._Krell "wikilink")：*Developing
     With Ada: Life-Cycle Methods*, Bantam Dell Pub Group, ISBN
     0-553-09102-6
 
-  - [Judy Bishop](../Page/Judy_Bishop.md "wikilink")：*Distributed Ada:
-    Developments and Experiences*, Cambridge University Press, ISBN
+  - [Judy
+    Bishop](https://zh.wikipedia.org/wiki/Judy_Bishop "wikilink")：*Distributed
+    Ada: Developments and Experiences*, Cambridge University Press, ISBN
     0-521-39251-9
 
-  - [Bo Sanden](../Page/Bo_Sanden.md "wikilink")：*Software Systems
-    Construction With Examples in Ada*, Prentice Hall, ISBN
+  - [Bo
+    Sanden](https://zh.wikipedia.org/wiki/Bo_Sanden "wikilink")：*Software
+    Systems Construction With Examples in Ada*, Prentice Hall, ISBN
     0-13-030834-X
 
-  - [Bruce Hillam](../Page/Bruce_Hillam.md "wikilink")：*Introduction to
-    Abstract Data Types Using Ada*, Prentice Hall, ISBN 0-13-045949-6
+  - [Bruce
+    Hillam](https://zh.wikipedia.org/wiki/Bruce_Hillam "wikilink")：*Introduction
+    to Abstract Data Types Using Ada*, Prentice Hall, ISBN 0-13-045949-6
 
   - ：*Introduction to Software Design and Development With Ada*, Brooks
     Cole, ISBN 0-314-02829-3
 
-  - [Ian C. Pyle](../Page/Ian_C._Pyle.md "wikilink")：*Developing Safety
-    Systems: A Guide Using Ada*, Prentice Hall, ISBN 0-13-204298-3
+  - [Ian C.
+    Pyle](https://zh.wikipedia.org/wiki/Ian_C._Pyle "wikilink")：*Developing
+    Safety Systems: A Guide Using Ada*, Prentice Hall, ISBN
+    0-13-204298-3
 
-  - [Louis Baker](../Page/Louis_Baker.md "wikilink")：*Artificial
+  - [Louis
+    Baker](https://zh.wikipedia.org/wiki/Louis_Baker "wikilink")：*Artificial
     Intelligence With Ada*, McGraw-Hill, ISBN 0-07-003350-1
 
   - ，：*HRT-HOOD: A Structured Design Method for Hard Real-Time Ada
     Systems*, North-Holland, ISBN 0-444-82164-3
 
   - [Walter Savitch, Charles
-    Peterson](../Page/Walter_Savitch,_Charles_Peterson.md "wikilink")：*Ada:
+    Peterson](https://zh.wikipedia.org/wiki/Walter_Savitch,_Charles_Peterson "wikilink")：*Ada:
     An Introduction to the Art and Science of Programming*,
     Benjamin-Cummings Publishing Company, ISBN 0-8053-7070-6
 
-  - [Mark Allen Weiss](../Page/Mark_Allen_Weiss.md "wikilink")：*Data
+  - [Mark Allen
+    Weiss](https://zh.wikipedia.org/wiki/Mark_Allen_Weiss "wikilink")：*Data
     Structures and Algorithm Analysis in Ada*, Benjamin-Cummings
     Publishing Company, ISBN 0-8053-9055-3
 

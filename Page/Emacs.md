@@ -1,66 +1,67 @@
 **Emacs**（，源自**E**ditor
-**MAC**ro**S**，[宏编辑器](../Page/宏.md "wikilink")），是一个[文本编辑器家族](../Page/文本编辑器.md "wikilink")，具有强大的可扩展性，在[程序员和其他以技术工作为主的计算机用户中广受欢迎](../Page/程序员.md "wikilink")。最初由[Richard
-Stallman於](../Page/Richard_Stallman.md "wikilink")1975年在[MIT协同](../Page/MIT.md "wikilink")[蓋伊·史提爾二世共同完成](../Page/蓋伊·史提爾二世.md "wikilink")。这一创意的灵感来源于TECO宏编辑器TECMAC和TMACS，它们是由[蓋伊·史提爾二世](../Page/蓋伊·史提爾二世.md "wikilink")、[Dave
-Moon](../Page/Dave_Moon.md "wikilink")、[Richard
-Greenblatt](../Page/Richard_Greenblatt_\(programmer\).md "wikilink")、[Charles
-Frankston等人编写的宏文本编辑器](../Page/Charles_Frankston.md "wikilink")。
+**MAC**ro**S**，[宏编辑器](https://zh.wikipedia.org/wiki/宏 "wikilink")），是一个[文本编辑器家族](../Page/文本编辑器.md "wikilink")，具有强大的可扩展性，在[程序员和其他以技术工作为主的计算机用户中广受欢迎](../Page/程序员.md "wikilink")。最初由[Richard
+Stallman於](https://zh.wikipedia.org/wiki/Richard_Stallman "wikilink")1975年在[MIT协同](../Page/MIT.md "wikilink")[蓋伊·史提爾二世共同完成](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")。这一创意的灵感来源于TECO宏编辑器TECMAC和TMACS，它们是由[蓋伊·史提爾二世](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")、[Dave
+Moon](https://zh.wikipedia.org/wiki/Dave_Moon "wikilink")、[Richard
+Greenblatt](https://zh.wikipedia.org/wiki/Richard_Greenblatt_\(programmer\) "wikilink")、[Charles
+Frankston等人编写的宏文本编辑器](https://zh.wikipedia.org/wiki/Charles_Frankston "wikilink")。
 
-自诞生以来，Emacs演化出了众多分支，其中使用最广泛的两种分别是：1984年由[理查·斯托曼发起并由他维护至](../Page/理查·斯托曼.md "wikilink")2008年的**GNU
-Emacs**，以及1991年发起的[XEmacs](../Page/XEmacs.md "wikilink")。XEmacs是GNU
+自诞生以来，Emacs演化出了众多分支，其中使用最广泛的两种分别是：1984年由[理查·斯托曼发起并由他维护至](https://zh.wikipedia.org/wiki/理查·斯托曼 "wikilink")2008年的**GNU
+Emacs**，以及1991年发起的[XEmacs](https://zh.wikipedia.org/wiki/XEmacs "wikilink")。XEmacs是GNU
 Emacs的分支，至今仍保持着相当的兼容性。它们都使用了[Emacs
-Lisp这种有着极强扩展性的](../Page/Emacs_Lisp.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")，从而实现了包括[编程](../Page/编程.md "wikilink")、[编译乃至网络浏览等等功能的扩展](../Page/编译.md "wikilink")。
+Lisp这种有着极强扩展性的](../Page/Emacs_Lisp.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")，从而实现了包括[编程](https://zh.wikipedia.org/wiki/编程 "wikilink")、[编译乃至网络浏览等等功能的扩展](https://zh.wikipedia.org/wiki/编译 "wikilink")。
 
-在[Unix文化裡](../Page/Unix.md "wikilink")，Emacs是[黑客们关于](../Page/黑客.md "wikilink")[编辑器之战的两大主角之一](../Page/编辑器之战.md "wikilink")，它的对手是[vi](../Page/vi.md "wikilink")（[Vim](../Page/Vim.md "wikilink")）。
+在[Unix文化裡](https://zh.wikipedia.org/wiki/Unix "wikilink")，Emacs是[黑客们关于](../Page/黑客.md "wikilink")[编辑器之战的两大主角之一](../Page/编辑器之战.md "wikilink")，它的对手是[vi](https://zh.wikipedia.org/wiki/vi "wikilink")（[Vim](../Page/Vim.md "wikilink")）。
 
 ## 历史
 
-Emacs在1970年代诞生于[MIT人工智能实验室](../Page/MIT计算机科学与人工智能实验室.md "wikilink")（MIT
+Emacs在1970年代诞生于[MIT人工智能实验室](https://zh.wikipedia.org/wiki/MIT计算机科学与人工智能实验室 "wikilink")（MIT
 AI
-Lab）。在此之前，人工智能实验室的[PDP-6和](../Page/PDP-6.md "wikilink")[PDP-10电脑上运行的](../Page/PDP-10.md "wikilink")[ITS操作系统的默认编辑器是一个叫](../Page/ITS.md "wikilink")[TECO](../Page/TECO.md "wikilink")（Text
+Lab）。在此之前，人工智能实验室的[PDP-6和](https://zh.wikipedia.org/wiki/PDP-6 "wikilink")[PDP-10电脑上运行的](https://zh.wikipedia.org/wiki/PDP-10 "wikilink")[ITS操作系统的默认编辑器是一个叫](https://zh.wikipedia.org/wiki/ITS "wikilink")[TECO](https://zh.wikipedia.org/wiki/TECO "wikilink")（Text
 Editor and
-Corrector）的[行编辑器](../Page/行编辑器.md "wikilink")。与现代的文本编辑器不同，TECO将击键、编辑和文本显示按照不同的模式进行处理，稍晚出现的vi与它有些类似。在TECO上击键并不会直接将这些字符插入到文档裡去，必须先输入一系列相应的TECO指令，而被编辑的文本在输入命令的时候是不会显示在屏幕上的。在如今还在使用的[UNIX编辑器](../Page/UNIX.md "wikilink")[ed上](../Page/ed.md "wikilink")，我们还能看到类似的工作方式。
+Corrector）的[行编辑器](https://zh.wikipedia.org/wiki/行编辑器 "wikilink")。与现代的文本编辑器不同，TECO将击键、编辑和文本显示按照不同的模式进行处理，稍晚出现的vi与它有些类似。在TECO上击键并不会直接将这些字符插入到文档裡去，必须先输入一系列相应的TECO指令，而被编辑的文本在输入命令的时候是不会显示在屏幕上的。在如今还在使用的[UNIX编辑器](../Page/UNIX.md "wikilink")[ed上](https://zh.wikipedia.org/wiki/ed "wikilink")，我们还能看到类似的工作方式。
 
-1970年代初，[理查德·斯托曼访问](../Page/理查德·斯托曼.md "wikilink")[斯坦福大學人工智能实验室](../Page/斯坦福大學人工智能实验室.md "wikilink")（Stanford
+1970年代初，[理查德·斯托曼访问](../Page/理查德·斯托曼.md "wikilink")[斯坦福大學人工智能实验室](https://zh.wikipedia.org/wiki/斯坦福大學人工智能实验室 "wikilink")（Stanford
 AI Lab）时见到了那裡的"E"
-editor。这种编辑器有着[所见即所得的直观特点](../Page/所见即所得.md "wikilink")，深深打动了斯托曼，后来成为了大部分现代文本编辑器都具有的特性。后来斯托曼回到MIT，那时候MIT
+editor。这种编辑器有着[所见即所得的直观特点](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")，深深打动了斯托曼，后来成为了大部分现代文本编辑器都具有的特性。后来斯托曼回到MIT，那时候MIT
 AI lab的[黑客Carl](../Page/黑客.md "wikilink")
-Mikkelsen已经给TECO加上了称作“Control-R”的编辑显示模式，使得屏幕能跟随用户的每次击键刷新显示。斯托曼重写了这一模式，使它运行得更有效率，后来又加入了[宏](../Page/宏.md "wikilink")，允许用户重新定义运行TECO程序的键位。
+Mikkelsen已经给TECO加上了称作“Control-R”的编辑显示模式，使得屏幕能跟随用户的每次击键刷新显示。斯托曼重写了这一模式，使它运行得更有效率，后来又加入了[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")，允许用户重新定义运行TECO程序的键位。
 
-这一新版的TECO立刻在AI实验室流行开来，并且很快积累起了大量自定义的宏，这些宏的名字通常就以“MAC”或者“MACS”结尾，意为“宏”（macro）。两年后，[蓋伊·史提爾二世承担起统一当时存在的各种键盘命令集的工作](../Page/蓋伊·史提爾二世.md "wikilink")。史提爾和斯托曼经过一夜奋战，最终由斯托曼完成了这一任务，包括一套扩展和注释新的宏包的工具。这个完成的系统被称作EMACS，代表“Editing
+这一新版的TECO立刻在AI实验室流行开来，并且很快积累起了大量自定义的宏，这些宏的名字通常就以“MAC”或者“MACS”结尾，意为“宏”（macro）。两年后，[蓋伊·史提爾二世承担起统一当时存在的各种键盘命令集的工作](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")。史提爾和斯托曼经过一夜奋战，最终由斯托曼完成了这一任务，包括一套扩展和注释新的宏包的工具。这个完成的系统被称作EMACS，代表“Editing
 MACroS”，也代表“E with
 MACroS”。根据斯托曼的说法，他采用这个名字是“因为当时\<E\>在ITS裡还没有被当作缩写用过”\[1\]。也有说法指出，当时[波士顿在MIT附近有家名为](../Page/波士顿.md "wikilink")“”的商店出售的[冰淇淋很受欢迎](../Page/冰淇淋.md "wikilink")，[Dave
-Moon是那裡的老主顾](../Page/Dave_Moon.md "wikilink")，他就将ITS上一个给文本排版的程序命名为BOLIO，然而斯托曼并不喜欢甚或根本不知道那种冰淇淋，此事后来成了黑客界的一桩公案。
+Moon是那裡的老主顾](https://zh.wikipedia.org/wiki/Dave_Moon "wikilink")，他就将ITS上一个给文本排版的程序命名为BOLIO，然而斯托曼并不喜欢甚或根本不知道那种冰淇淋，此事后来成了黑客界的一桩公案。
 
 斯托曼意识到过多的定制、在开发过程中事实上的分支以及针对特殊用途的限制，威胁着Emacs的发展。后来他写道：
 
 最初的Emacs同TECO一样-{只}-能运行在PDP系列的电脑上。Emacs虽然是在TECO的基础上发展起来的，不过它已经足以被认为是一个新的文本编辑器了。很快，Emacs就成为ITS上的标准编辑程序，接着由Michael
-McMahon从ITS[移植到](../Page/移植_\(軟體\).md "wikilink")[Tenex和](../Page/TOPS-20.md "wikilink")[TOPS-20操作系统上](../Page/TOPS-20.md "wikilink")。其他Emacs早期的贡献者还包括[Kent
-Pitman](../Page/Kent_Pitman.md "wikilink")、[Earl
-Killian和](../Page/Earl_Killian.md "wikilink")[Eugene
-Ciccarelli](../Page/Eugene_Ciccarelli.md "wikilink")。到了1979年，Emacs已经是MIT人工智能实验室和它的计算机科学实验室的主流编辑器了。
+McMahon从ITS[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Tenex和](https://zh.wikipedia.org/wiki/TOPS-20 "wikilink")[TOPS-20操作系统上](https://zh.wikipedia.org/wiki/TOPS-20 "wikilink")。其他Emacs早期的贡献者还包括[Kent
+Pitman](https://zh.wikipedia.org/wiki/Kent_Pitman "wikilink")、[Earl
+Killian和](https://zh.wikipedia.org/wiki/Earl_Killian "wikilink")[Eugene
+Ciccarelli](https://zh.wikipedia.org/wiki/Eugene_Ciccarelli "wikilink")。到了1979年，Emacs已经是MIT人工智能实验室和它的计算机科学实验室的主流编辑器了。
 
 ### 其他早期实现
 
 后来几年，程序员们写了很多类Emacs的编辑器。其中包括Michael McMahon和[Daniel
-Weinreb为](../Page/Daniel_Weinreb.md "wikilink")[Lisp机器写的](../Page/Lisp机器.md "wikilink")[EINE](../Page/EINE.md "wikilink")（“EINE
-Is Not EMACS”）和[ZWEI](../Page/ZWEI.md "wikilink")（“ZWEI Was EINE
-Initially”），还有Owen Theodore
-Anderson写的Sine。Weinreb的[EINE是第一个以Lisp实现的Emacs](../Page/EINE.md "wikilink")。1978年，[Bernard
-Greenberg写了](../Page/Bernard_Greenberg.md "wikilink")[Multics
-Emacs](../Page/Multics_Emacs.md "wikilink")，大部分由Multics Lisp实现。Multics
-Emacs后来由[Richard
-Soley维护](../Page/Richard_Soley.md "wikilink")。很多Emacs的变种，包括GNU
+Weinreb为](https://zh.wikipedia.org/wiki/Daniel_Weinreb "wikilink")[Lisp机器写的](../Page/Lisp机器.md "wikilink")[EINE](https://zh.wikipedia.org/wiki/EINE "wikilink")（“EINE
+Is Not
+EMACS”）和[ZWEI](https://zh.wikipedia.org/wiki/ZWEI "wikilink")（“ZWEI
+Was EINE Initially”），还有Owen Theodore
+Anderson写的Sine。Weinreb的[EINE是第一个以Lisp实现的Emacs](https://zh.wikipedia.org/wiki/EINE "wikilink")。1978年，[Bernard
+Greenberg写了](https://zh.wikipedia.org/wiki/Bernard_Greenberg "wikilink")[Multics
+Emacs](https://zh.wikipedia.org/wiki/Multics_Emacs "wikilink")，大部分由Multics
+Lisp实现。Multics Emacs后来由[Richard
+Soley维护](https://zh.wikipedia.org/wiki/Richard_Soley "wikilink")。很多Emacs的变种，包括GNU
 Emacs，后来都将Lisp作为自己的扩展语言。
 
 [詹姆斯·高斯林](../Page/詹姆斯·高斯林.md "wikilink")，在1981年写了[Gosling
-Emacs](../Page/Gosling_Emacs.md "wikilink")，他后来还发明了[NeWS和](../Page/NeWS.md "wikilink")[Java](../Page/Java.md "wikilink")。作为第一个在[Unix上运行的类Emacs编辑器](../Page/Unix.md "wikilink")，Gosling
-Emacs由[C语言实现](../Page/C语言.md "wikilink")，并且以[Mocklisp作为扩展语言](../Page/Mocklisp.md "wikilink")。1984年，Gosling
+Emacs](https://zh.wikipedia.org/wiki/Gosling_Emacs "wikilink")，他后来还发明了[NeWS和](https://zh.wikipedia.org/wiki/NeWS "wikilink")[Java](../Page/Java.md "wikilink")。作为第一个在[Unix上运行的类Emacs编辑器](https://zh.wikipedia.org/wiki/Unix "wikilink")，Gosling
+Emacs由[C语言实现](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并且以[Mocklisp作为扩展语言](https://zh.wikipedia.org/wiki/Mocklisp "wikilink")。1984年，Gosling
 Emacs成为[专有软件](../Page/专有软件.md "wikilink")。
 
 ### GNU Emacs
 
 1984年，斯托曼开始致力于开发[GNU
-Emacs](../Page/GNU_Emacs.md "wikilink")，这将是一个[自由软件](../Page/自由软件.md "wikilink")，以代替专有的Gosling
+Emacs](https://zh.wikipedia.org/wiki/GNU_Emacs "wikilink")，这将是一个[自由软件](../Page/自由软件.md "wikilink")，以代替专有的Gosling
 Emacs。最初GNU Emacs是在Gosling
 Emacs的基础上开发的，不过斯托曼后来用一个真正的Lisp解释器代替了原来的Mocklisp解释器，由于Lisp解释器在此软件中的核心地位，这意味着实际上重写了几乎全部代码。GNU
 Emacs是[GNU计划的第一个项目](../Page/GNU.md "wikilink")，以C语言编写，将[Emacs
@@ -78,63 +79,67 @@ Emacs的开发工作基本是在封闭的情况下进行。这种开发方式在
 Emacs项目建立了公共开发邮件列表和匿名CVS代码访问，开发工作在一个CVS代码仓库中进行。2008年，Emacs开始使用Bazaar进行[版本控制](../Page/版本控制.md "wikilink")。
 
 斯托曼是GNU Emacs的主要维护者，但他曾经有几次把维护工作交给别人。他于2008年将代码的维护工作交给了[Stefan
-Monnier和](../Page/Stefan_Monnier.md "wikilink")[Chong
-Yidong](../Page/Chong_Yidong.md "wikilink")\[2\]。他在mail list上發出以下內容：
+Monnier和](https://zh.wikipedia.org/wiki/Stefan_Monnier "wikilink")[Chong
+Yidong](https://zh.wikipedia.org/wiki/Chong_Yidong "wikilink")\[2\]。他在mail
+list上發出以下內容：
 
 ### XEmacs
 
 1991年，Lucid公司的[Jamie
-Zawinski等人以GNU](../Page/Jamie_Zawinski.md "wikilink") Emacs
-19的一个早期alpha版为基础，添加了一些新的特性，开发出Lucid Emacs。很快，Lucid
-Emacs的开发与GNU Emacs渐行渐远，最终双方的团队放弃了将两者合并的努力。Lucid
+Zawinski等人以GNU](https://zh.wikipedia.org/wiki/Jamie_Zawinski "wikilink")
+Emacs 19的一个早期alpha版为基础，添加了一些新的特性，开发出Lucid Emacs。很快，Lucid Emacs的开发与GNU
+Emacs渐行渐远，最终双方的团队放弃了将两者合并的努力。Lucid
 Emacs被重新命名为XEmacs；至今为止，XEmacs仍然是最流行的Emacs变种之一。
 
 ### 其他GNU Emacs的衍生版本
 
 其他的衍生版本，包括：
 
-  - [Meadow](../Page/Meadow.md "wikilink") - 一个Windows下的日语版本
-  - [SXEmacs](../Page/SXEmacs.md "wikilink") - Steve
+  - [Meadow](https://zh.wikipedia.org/wiki/Meadow "wikilink") -
+    一个Windows下的日语版本
+  - [SXEmacs](https://zh.wikipedia.org/wiki/SXEmacs "wikilink") - Steve
     Youngs实现的衍生版本，基于XEmacs
-  - [Aquamacs](../Page/Aquamacs.md "wikilink") - 一个致力于与苹果的[OS
-    X整合的Emacs版本](../Page/OS_X.md "wikilink")
+  - [Aquamacs](https://zh.wikipedia.org/wiki/Aquamacs "wikilink") -
+    一个致力于与苹果的[OS
+    X整合的Emacs版本](https://zh.wikipedia.org/wiki/OS_X "wikilink")
 
 ### 其他Emacs变种
 
 除上述编辑器以外，还有很多不基于GNU Emacs的编辑器，有些项目的目标是创建一个精简版的Emacs。在1980年代，GNU
 Emacs只能在很高端的电脑上运行，这就为精简版的Emacs实现的出现奠定了基础。还有一些Emacs变种是为了克隆一个完整的Emacs，但是使用不同的Lisp方言或者其他的编程语言。比如：
 
-  - [MicroEMACS](../Page/MicroEMACS.md "wikilink")，原作者是Dave
+  - [MicroEMACS](https://zh.wikipedia.org/wiki/MicroEMACS "wikilink")，原作者是Dave
     Conroy，后来由Daniel Lawrence进一步开发，有很多变种。
-  - [Mg](../Page/Mg.md "wikilink")，原名MicroGNUEmacs，是一个MicroEMACS的公共领域分支，比MicroGNUEmacs更加接近于GNU
+  - [Mg](https://zh.wikipedia.org/wiki/Mg "wikilink")，原名MicroGNUEmacs，是一个MicroEMACS的公共领域分支，比MicroGNUEmacs更加接近于GNU
     Emacs。现在默认安装在[OpenBSD上](../Page/OpenBSD.md "wikilink")。
   - NotGNU，一个小型、快速的Emacs实现，是免费软件，支持DOS、Win16、Win32和GNU/Linux，作者为Julie
     Melbin。
-  - [JOVE](../Page/JOVE.md "wikilink")（Jonathan's Own Version of
-    Emacs），Jonathan
+  - [JOVE](https://zh.wikipedia.org/wiki/JOVE "wikilink")（Jonathan's Own
+    Version of Emacs），Jonathan
     Payne为[类Unix系统写的Emacs不可编程的Emacs实现](../Page/类Unix系统.md "wikilink")。
-  - [Zile是](../Page/GNU_Zile.md "wikilink")*<u>Z</u>ile <u>I</u>s
-    <u>L</u>ossy <u>E</u>macs*的递归缩写，以[C语言编写](../Page/C语言.md "wikilink")。
-  - [Climacs](../Page/Climacs.md "wikilink")，以[Common
+  - [Zile是](https://zh.wikipedia.org/wiki/GNU_Zile "wikilink")*<u>Z</u>ile
+    <u>I</u>s <u>L</u>ossy
+    <u>E</u>macs*的递归缩写，以[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
+  - [Climacs](https://zh.wikipedia.org/wiki/Climacs "wikilink")，以[Common
     Lisp编写的Emacs变种](../Page/Common_Lisp.md "wikilink")。
-  - [QEmacs](../Page/QEmacs.md "wikilink")，一个由[Fabrice
-    Bellard编写的小型编辑器](../Page/Fabrice_Bellard.md "wikilink")，支持UTF-8，可以快速编辑上百兆大小的文件。
+  - [QEmacs](https://zh.wikipedia.org/wiki/QEmacs "wikilink")，一个由[Fabrice
+    Bellard编写的小型编辑器](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")，支持UTF-8，可以快速编辑上百兆大小的文件。
   - Epsilon，一个由Lugaru
     Software开发的Emacs变种。支持MS-DOS、MS-Windows、GNU/Linux、FreeBSD、O/S
     2等操作系统。它使用了一个与C语言语法类似的非Lisp语言作为扩展语言。
-  - [EmACT](../Page/EmACT.md "wikilink")，1986年由Christian
+  - [EmACT](https://zh.wikipedia.org/wiki/EmACT "wikilink")，1986年由Christian
     Jullien从MicroEmacs衍生而来，源代码可以在SourceForge获取。
-  - [Hemlock](../Page/Hemlock.md "wikilink")，最初以[Spice
-    Lisp实现](../Page/Spice_Lisp.md "wikilink")，后来改为[Common
+  - [Hemlock](https://zh.wikipedia.org/wiki/Hemlock "wikilink")，最初以[Spice
+    Lisp实现](https://zh.wikipedia.org/wiki/Spice_Lisp "wikilink")，后来改为[Common
     Lisp](../Page/Common_Lisp.md "wikilink")。Hemlock是[CMU Common
-    Lisp的一部分](../Page/CMU_Common_Lisp.md "wikilink")，受到了[Zmacs的影响](../Page/Zmacs.md "wikilink")。
+    Lisp的一部分](https://zh.wikipedia.org/wiki/CMU_Common_Lisp "wikilink")，受到了[Zmacs的影响](https://zh.wikipedia.org/wiki/Zmacs "wikilink")。
 
 ### 可以模拟Emacs的编辑器
 
-  - [Yi](../Page/Yi.md "wikilink")，以[Haskell语言编写](../Page/Haskell.md "wikilink")，内置一个Emacs模拟器。
+  - [Yi](https://zh.wikipedia.org/wiki/Yi "wikilink")，以[Haskell语言编写](../Page/Haskell.md "wikilink")，内置一个Emacs模拟器。
   - [Joe's Own
-    Editor内置一个Emacs模拟器](../Page/Joe's_Own_Editor.md "wikilink")。
-  - [JED内置一个Emacs模拟器](../Page/JED.md "wikilink")。
+    Editor内置一个Emacs模拟器](https://zh.wikipedia.org/wiki/Joe's_Own_Editor "wikilink")。
+  - [JED内置一个Emacs模拟器](https://zh.wikipedia.org/wiki/JED "wikilink")。
 
 ## 版权
 
@@ -162,8 +167,8 @@ Emacs不仅仅是一个编辑器，它是一个整合环境，或可称它为[�
   - 电子数据表
   - 模拟其他编辑器，如vi（Evil-mode）、WordStar、EDT、TPU等
   - 编辑Wiki (Wikipedia-mode)
-  - 对多种[编程语言的](../Page/编程语言.md "wikilink")[编辑](../Page/编辑.md "wikilink")，如C/C++、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Lisp等等](../Page/Lisp.md "wikilink")
-  - [调试程序](../Page/调试程序.md "wikilink")，结合[GDB](../Page/GNU除錯器.md "wikilink")，EDebug等。
+  - 对多种[编程语言的](../Page/编程语言.md "wikilink")[编辑](https://zh.wikipedia.org/wiki/编辑 "wikilink")，如C/C++、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Lisp等等](https://zh.wikipedia.org/wiki/Lisp "wikilink")
+  - [调试程序](https://zh.wikipedia.org/wiki/调试程序 "wikilink")，结合[GDB](https://zh.wikipedia.org/wiki/GNU除錯器 "wikilink")，EDebug等。
   - 玩游戏
   - 计算器
   - 心理咨询（M-x doctor）
@@ -175,7 +180,7 @@ Emacs不仅仅是一个编辑器，它是一个整合环境，或可称它为[�
   - 文件比较、合并（Ediff）
   - 阅读info和man文档（M-x info，woman）
   - 浏览网站（M-x eww）
-  - 为各种程序（[TeX](../Page/TeX.md "wikilink")、[LaTeX等](../Page/LaTeX.md "wikilink")）提供统一的操作界面
+  - 为各种程序（[TeX](../Page/TeX.md "wikilink")、[LaTeX等](https://zh.wikipedia.org/wiki/LaTeX "wikilink")）提供统一的操作界面
   - ……
 
 此外Emacs还有如下特点：
@@ -188,8 +193,8 @@ Emacs不仅仅是一个编辑器，它是一个整合环境，或可称它为[�
 ### 可定制性
 
 GNU
-Emacs几乎所有的功能都可以定制，有的可以通过[C语言实现](../Page/C语言.md "wikilink")，有的可以通过一个[Lisp的方言](../Page/Lisp.md "wikilink")——[Emacs
-Lisp来实现](../Page/Emacs_Lisp.md "wikilink")。在Lisp环境中，[变量和](../Page/变量.md "wikilink")[子程序可以在不重新编译](../Page/子程序.md "wikilink")/启动Emacs的前提下被修改。Emacs用户可以根据自身的需要和偏好对编辑器进行定制。强大而自由的个人定制功能是Emacs受到广泛欢迎的重要原因之一。定制Emacs主要有三种方法：
+Emacs几乎所有的功能都可以定制，有的可以通过[C语言实现](https://zh.wikipedia.org/wiki/C语言 "wikilink")，有的可以通过一个[Lisp的方言](https://zh.wikipedia.org/wiki/Lisp "wikilink")——[Emacs
+Lisp来实现](../Page/Emacs_Lisp.md "wikilink")。在Lisp环境中，[变量和](https://zh.wikipedia.org/wiki/变量 "wikilink")[子程序可以在不重新编译](../Page/子程序.md "wikilink")/启动Emacs的前提下被修改。Emacs用户可以根据自身的需要和偏好对编辑器进行定制。强大而自由的个人定制功能是Emacs受到广泛欢迎的重要原因之一。定制Emacs主要有三种方法：
 
 1.  使用Emacs的交互式定制功能（即**customize**）。Emacs提供了图形化的交互界面，使用户能够对可定制的公共变量进行设置，也可以定制配色主题。这种方法使Emacs的初学者不需要接触Emacs
     Lisp代码即可完成定制。
@@ -200,12 +205,12 @@ Lisp来实现](../Page/Emacs_Lisp.md "wikilink")。在Lisp环境中，[变量和
     bindings）、以及定义新的命令，以方便用户个人的使用。很多高级用户的`.emacs`文件的个性化配置长达数百行甚至更多，这些个人的定制使他们的Emacs不仅与默认配置的功能不同，每个人的Emacs之间也千差万别。这种差异能很好的满足不同个性的偏好和不同工作的需求。
 
 如果一段Emacs
-Lisp代码确实有用，它通常会被打包并发布给其他用户。在[因特网上能找到很多这样来自第三方的Emacs](../Page/因特网.md "wikilink")
+Lisp代码确实有用，它通常会被打包并发布给其他用户。在[因特网上能找到很多这样来自第三方的Emacs](https://zh.wikipedia.org/wiki/因特网 "wikilink")
 Lisp库，例如能用于编辑[维基百科条目的](../Page/维基百科.md "wikilink")[wikipedia-mode](https://zh.wikipedia.org/wiki/Wikipedia:Wikipedia-mode.el "wikilink")。[Usenet上的](../Page/Usenet.md "wikilink")[新闻组](../Page/新闻组.md "wikilink")[gnu.emacs.sources](news://gnu.emacs.sources)专门发布新的Emacs
 Lisp库。有些第三方代码最终还成为了Emacs的一部分。
 
 手工配置安装各种Emacs Lisp代码毕竟有些麻烦。为了解决这个问题，Emacs
-24自带包管理器[ELPA](../Page/ELPA.md "wikilink")（package.el）。用户可以方便的浏览可用的包（M-x
+24自带包管理器[ELPA](https://zh.wikipedia.org/wiki/ELPA "wikilink")（package.el）。用户可以方便的浏览可用的包（M-x
 package-list-packages）和自动下载安装包（M-x package-install）。详细信息可以参考Emacs
 Wiki上的[ELPA词条](http://www.emacswiki.org/emacs/ELPA)。
 
@@ -217,16 +222,16 @@ Emacs可以处理256 MB以下的文件，GNU Emacs 23.2将这一限制提升到5
 
 ### 平台
 
-Emacs是目前世界上最具可移植性的重要软件之一，能够在当前绝大多数[操作系统上运行](../Page/操作系统.md "wikilink")，包括各种[类Unix系统](../Page/类Unix系统.md "wikilink")（[GNU/Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[AIX](../Page/AIX.md "wikilink")、[OS
-X等](../Page/OS_X.md "wikilink")）、[MS-DOS](../Page/MS-DOS.md "wikilink")、[Microsoft
-Windows等](../Page/Microsoft_Windows.md "wikilink")。甚至在Android和诺基亚的Maemo上，Emacs也能运行。
+Emacs是目前世界上最具可移植性的重要软件之一，能够在当前绝大多数[操作系统上运行](../Page/操作系统.md "wikilink")，包括各种[类Unix系统](../Page/类Unix系统.md "wikilink")（[GNU/Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")、[OS
+X等](https://zh.wikipedia.org/wiki/OS_X "wikilink")）、[MS-DOS](../Page/MS-DOS.md "wikilink")、[Microsoft
+Windows等](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。甚至在Android和诺基亚的Maemo上，Emacs也能运行。
 
 GNU
-Emacs既可以在[文本终端也可以在](../Page/文本终端.md "wikilink")[图形用户界面环境下运行](../Page/图形用户界面.md "wikilink")。在类Unix系统上，GNU
-Emacs使用[X-Window产生GUI](../Page/X-Window.md "wikilink")，或者直接使用“框架”（widget
-toolkit），例如[Motif](../Page/Motif.md "wikilink")、[LessTif或](../Page/LessTif.md "wikilink")[GTK+等等](../Page/GTK+.md "wikilink")。Emacs也能够利用OS
+Emacs既可以在[文本终端也可以在](https://zh.wikipedia.org/wiki/文本终端 "wikilink")[图形用户界面环境下运行](../Page/图形用户界面.md "wikilink")。在类Unix系统上，GNU
+Emacs使用[X-Window产生GUI](https://zh.wikipedia.org/wiki/X-Window "wikilink")，或者直接使用“框架”（widget
+toolkit），例如[Motif](../Page/Motif.md "wikilink")、[LessTif或](https://zh.wikipedia.org/wiki/LessTif "wikilink")[GTK+等等](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。Emacs也能够利用OS
 X和Microsoft
-Windows的本地图形系统产生GUI。用GUI环境下的Emacs能提供[菜单栏](../Page/菜单栏.md "wikilink")（Menubar）、工具栏（toolbar）、[滚动条以及](../Page/滚动条.md "wikilink")[环境菜单](../Page/环境菜单.md "wikilink")（context
+Windows的本地图形系统产生GUI。用GUI环境下的Emacs能提供[菜单栏](https://zh.wikipedia.org/wiki/菜单栏 "wikilink")（Menubar）、工具栏（toolbar）、[滚动条以及](https://zh.wikipedia.org/wiki/滚动条 "wikilink")[环境菜单](https://zh.wikipedia.org/wiki/环境菜单 "wikilink")（context
 menu）等交互方式。
 
 ### 编辑模式
@@ -234,11 +239,11 @@ menu）等交互方式。
 #### 主模式
 
 Emacs采取的编辑方式是对不同类型的文本进入相应的编辑模式，即“主模式”（major
-mode）。Emacs针对多种文档定义了不同的主模式，包括普通[文本文件](../Page/文本文件.md "wikilink")、各种[编程语言的](../Page/编程语言.md "wikilink")[源文件](../Page/源文件.md "wikilink")、[HTML文档](../Page/HTML.md "wikilink")、[TEX与](../Page/TEX.md "wikilink")[LaTeX文档](../Page/LaTeX.md "wikilink")，以及其他类型的文本文件等等。
+mode）。Emacs针对多种文档定义了不同的主模式，包括普通[文本文件](../Page/文本文件.md "wikilink")、各种[编程语言的](../Page/编程语言.md "wikilink")[源文件](https://zh.wikipedia.org/wiki/源文件 "wikilink")、[HTML文档](../Page/HTML.md "wikilink")、[TEX与](https://zh.wikipedia.org/wiki/TEX "wikilink")[LaTeX文档](https://zh.wikipedia.org/wiki/LaTeX "wikilink")，以及其他类型的文本文件等等。
 
 每种主模式都有特殊的Emacs Lisp变量和函数，使用户在这种模式下能更方便的处理这一特定类型的文本。例如，各种编程语言的主模式通常会提供：
 
-  - [语法高亮](../Page/语法高亮.md "wikilink")（“font
+  - [语法高亮](https://zh.wikipedia.org/wiki/语法高亮 "wikilink")（“font
     lock”）：对源文件文本中的关键字、注释加以不同的字体和颜色（“faces”）。
   - 自动缩进，用来维护文件的格式一致。
   - 自动插入文件所需要的结构元素，如空格、换行以及括号。
@@ -252,27 +257,27 @@ style）。
 
 ### 国际化
 
-Emacs支持对多种[文字的文本编辑](../Page/文字.md "wikilink")，加上对多种字符集、字母系统、书写系统，以及不同文化的书写习惯都提供了支持，使得世界上大多数语言的使用者都能通过Emacs进行文本处理。Emacs还能通过调用诸如[Aspell这样的外部程序](../Page/Aspell.md "wikilink")，实现多种语言的拼写检查。GNU
+Emacs支持对多种[文字的文本编辑](../Page/文字.md "wikilink")，加上对多种字符集、字母系统、书写系统，以及不同文化的书写习惯都提供了支持，使得世界上大多数语言的使用者都能通过Emacs进行文本处理。Emacs还能通过调用诸如[Aspell这样的外部程序](https://zh.wikipedia.org/wiki/Aspell "wikilink")，实现多种语言的拼写检查。GNU
 Emacs 24添加了对双向文字的支持。
 
 Emacs支持包括[UTF-8在内的诸多编码系统](../Page/UTF-8.md "wikilink")。GNU
 Emacs从23开始以UTF-8作为自身的编码系统，而在之前的版本，Emacs拥有一种特殊的内部编码系统MULE（MULti-language
 Environment），在读写文件时进行编码和解码。XEmacs编码系统和GNU Emacs相似，但具体的实现方法不完全一样。
 
-一个叫做[Emacspeak的子系统可以通过音频反馈](../Page/Emacspeak.md "wikilink")，让拥有视觉障碍的用户和盲人用户使用Emacs。
+一个叫做[Emacspeak的子系统可以通过音频反馈](https://zh.wikipedia.org/wiki/Emacspeak "wikilink")，让拥有视觉障碍的用户和盲人用户使用Emacs。
 
 ## 使用Emacs
 
 ### 命令
 
 在普通的编辑模式下，GNU
-Emacs和其他文本编辑器一样，允许用户通过按下键盘上的键插入其相对应的字符，也可以使用键盘上的方向键来移动光标。使用各种[修饰键](../Page/修饰键.md "wikilink")（如\[Ctrl\]、\[Alt\]、\[Shift\]等）和其它的普通键配合可以调用Emacs
+Emacs和其他文本编辑器一样，允许用户通过按下键盘上的键插入其相对应的字符，也可以使用键盘上的方向键来移动光标。使用各种[修饰键](https://zh.wikipedia.org/wiki/修饰键 "wikilink")（如\[Ctrl\]、\[Alt\]、\[Shift\]等）和其它的普通键配合可以调用Emacs
 Lisp函数和宏。
 
 某些GNU
 Emacs命令会调用外部程序，比如使用Aspell进行拼写检查或者使用[GCC进行程序编译](../Page/GCC.md "wikilink")，解析被调用的外部程序的输出，并将结果显示出来。习惯[IBM
 Common User
-Access的用户可以使用](../Page/IBM_Common_User_Access.md "wikilink")“cua-mode”，“cua-mode”曾经是一个第三方插件，从GNU
+Access的用户可以使用](https://zh.wikipedia.org/wiki/IBM_Common_User_Access "wikilink")“cua-mode”，“cua-mode”曾经是一个第三方插件，从GNU
 Emacs 22开始被包含在Emacs中。
 
 下表给出了一些基本命令。\[Ctrl\]键以大写*C*表示，\[Meta\]键\[Alt\]键以大写*M*表示。
@@ -302,11 +307,11 @@ Emacs使用“小缓冲”（通常在最下面一行）显示信息提示以及
 
 ### 文件管理与显示
 
-Emacs将文本存放在[缓冲区中](../Page/缓冲区.md "wikilink")。用户可以创建新的缓冲区，也可以关闭不需要的缓冲区，Emacs可以同时存在很多缓冲区。大部分的缓冲区的文本来自[文本文件](../Page/文本文件.md "wikilink")，用户可以编辑缓冲区的内容，并且保存到磁盘上。缓冲区也可以保存临时文本，比如“help”库显示的文档字符串。
+Emacs将文本存放在[缓冲区中](https://zh.wikipedia.org/wiki/缓冲区 "wikilink")。用户可以创建新的缓冲区，也可以关闭不需要的缓冲区，Emacs可以同时存在很多缓冲区。大部分的缓冲区的文本来自[文本文件](../Page/文本文件.md "wikilink")，用户可以编辑缓冲区的内容，并且保存到磁盘上。缓冲区也可以保存临时文本，比如“help”库显示的文档字符串。
 
 ### Emacs小拇指
 
-很多Emacs用户都有过[重複使力傷害的经历](../Page/重複使力傷害.md "wikilink")，原因是Emacs强烈依赖Ctrl键和Meta键，也由于Ctrl键在现代键盘中的位置。
+很多Emacs用户都有过[重複使力傷害的经历](https://zh.wikipedia.org/wiki/重複使力傷害 "wikilink")，原因是Emacs强烈依赖Ctrl键和Meta键，也由于Ctrl键在现代键盘中的位置。
 
 解决方法有软件方法，也有硬件方法。软件方法包括：
 
@@ -314,12 +319,12 @@ Emacs将文本存放在[缓冲区中](../Page/缓冲区.md "wikilink")。用户�
   - 定制键盘布局，使Ctrl和大寫鎖定键交换位置。其他相似的方法包括将大写锁定键定义为Ctrl，或交换Ctrl和Meta键。
   - god-mode 可以让 Emacs 不用修饰键就触发命令。
   - 使用 evil-mode，一个高级的 Vim 模拟层。
-  - Emacs有一个内置的“Viper-mode”，允许用户使用[vi的键绑定来进行基本的文本编辑](../Page/vi.md "wikilink")，而使用Emacs本身的键绑定来进行更高级的操作。
-  - 让一个更容易按的键（如[空格键](../Page/空格键.md "wikilink")）拥有多种功能，当那个键和其他键一起按下时，功能为Ctrl键的。
+  - Emacs有一个内置的“Viper-mode”，允许用户使用[vi的键绑定来进行基本的文本编辑](https://zh.wikipedia.org/wiki/vi "wikilink")，而使用Emacs本身的键绑定来进行更高级的操作。
+  - 让一个更容易按的键（如[空格键](https://zh.wikipedia.org/wiki/空格键 "wikilink")）拥有多种功能，当那个键和其他键一起按下时，功能为Ctrl键的。
   - 使用语音输入控制Emacs。
-  - 很多软件，如[xwrits](../Page/xwrits.md "wikilink")，可以提醒用户进行定期的休息。
+  - 很多软件，如[xwrits](https://zh.wikipedia.org/wiki/xwrits "wikilink")，可以提醒用户进行定期的休息。
 
-硬件方法包括使用特殊的键盘，如Kinesis键盘的修饰键放在[大拇指很容易按到的位置](../Page/大拇指.md "wikilink")，或者[微软自然键盘](../Page/微软自然键盘.md "wikilink")，它的修饰键对称的放置在键盘的两边，并且可以使用手掌按下。脚控踏板也是一种方法。
+硬件方法包括使用特殊的键盘，如Kinesis键盘的修饰键放在[大拇指很容易按到的位置](https://zh.wikipedia.org/wiki/大拇指 "wikilink")，或者[微软自然键盘](https://zh.wikipedia.org/wiki/微软自然键盘 "wikilink")，它的修饰键对称的放置在键盘的两边，并且可以使用手掌按下。脚控踏板也是一种方法。
 
 如果使用普通鍵盤，可以在按Ctrl組合鍵時手掌下移，用無名指擊Ctrl，以規避小指過度利用。
 
@@ -347,7 +352,8 @@ Emacs将文本存放在[缓冲区中](../Page/缓冲区.md "wikilink")。用户�
     implementations"](https://www.webcitation.org/5nDdzxTLd?url=http://www.finseth.com/~fin/emacs.html)
     by C. Finseth
   - [Reviewed entry](http://directory.fsf.org/wiki/Emacs) in the [Free
-    Software Directory](../Page/Free_Software_Directory.md "wikilink")
+    Software
+    Directory](https://zh.wikipedia.org/wiki/Free_Software_Directory "wikilink")
   - [Emacs实现列表](http://www.finseth.com/emacs.html)
   - [WikEmacs](http://www.wikemacs.org/index.php)
   - [Emacs中文网](http://emacser.com)
@@ -356,16 +362,16 @@ Emacs将文本存放在[缓冲区中](../Page/缓冲区.md "wikilink")。用户�
   - [IBM
     dw教程：生活在Emacs中](https://web.archive.org/web/20090207193326/http://www.ibm.com/developerworks/cn/views/linux/tutorials.jsp?cv_doc_id=84932)
   - [Emacs
-    Wiki](http://emacswiki.org/)：一个关于**Emacs**的[wiki](../Page/wiki.md "wikilink")。网站上有[英语](../Page/英语.md "wikilink")、[汉语等多种语言](../Page/汉语.md "wikilink")。EmacsWiki主要是提供一些Emacs的使用教程、技巧和用户贡献的配置文件\[5\]\[6\]\[7\]。像其他wiki一样，所有人都可以编辑。不过EmacsWiki没有[注册的制度](../Page/注册.md "wikilink")，不需要[账户就可以编辑整个wiki](../Page/账户.md "wikilink")。\[8\]
+    Wiki](http://emacswiki.org/)：一个关于**Emacs**的[wiki](https://zh.wikipedia.org/wiki/wiki "wikilink")。网站上有[英语](../Page/英语.md "wikilink")、[汉语等多种语言](../Page/汉语.md "wikilink")。EmacsWiki主要是提供一些Emacs的使用教程、技巧和用户贡献的配置文件\[5\]\[6\]\[7\]。像其他wiki一样，所有人都可以编辑。不过EmacsWiki没有[注册的制度](https://zh.wikipedia.org/wiki/注册 "wikilink")，不需要[账户就可以编辑整个wiki](https://zh.wikipedia.org/wiki/账户 "wikilink")。\[8\]
 
 ## 参考文献
 
-  - 注：本文第一部分，部分引用自遵守[GFDL的](../Page/GFDL.md "wikilink")《Emacs用户指南》汉译版
+  - 注：本文第一部分，部分引用自遵守[GFDL的](https://zh.wikipedia.org/wiki/GFDL "wikilink")《Emacs用户指南》汉译版
 
 ## 参见
 
-  - [文本编辑器列表](../Page/文本编辑器列表.md "wikilink")
-  - [文本编辑器比较](../Page/文本编辑器比较.md "wikilink")
+  - [文本编辑器列表](https://zh.wikipedia.org/wiki/文本编辑器列表 "wikilink")
+  - [文本编辑器比较](https://zh.wikipedia.org/wiki/文本编辑器比较 "wikilink")
   - [使用Emacs編輯維基百科](https://zh.wikipedia.org/wiki/Wikipedia:文本编辑器支持#GNU_Emacs "wikilink")
   - [GNU TeXmacs](../Page/GNU_TeXmacs.md "wikilink")
 

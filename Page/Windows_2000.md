@@ -1,16 +1,16 @@
-****（簡稱**Win2K**）是一個獨佔式、可中斷執行、具有圖形使用者介面（[GUI](../Page/GUI.md "wikilink")）和商業導向的[作業系統](../Page/作業系統.md "wikilink")。Windows
+****（簡稱**Win2K**）是一個獨佔式、可中斷執行、具有圖形使用者介面（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")）和商業導向的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。Windows
 2000可以運作在單處理器系統或者多處理系統（SMP）上，是屬於微軟[Windows
 NT產品線的一部分](../Page/Windows_NT.md "wikilink")，發佈於2000年2月17日\[1\]，此外Windows
 2000也是[Windows
 XP](../Page/Windows_XP.md "wikilink")（2001年10月上市）和[Windows
 Server
 2003](../Page/Windows_Server_2003.md "wikilink")（2003年4月上市）的前身。Windows
-2000的[內核採用](../Page/內核.md "wikilink")[混合式核心設計](../Page/混合式核心.md "wikilink")\[2\]，Windows
+2000的[內核採用](https://zh.wikipedia.org/wiki/內核 "wikilink")[混合式核心設計](https://zh.wikipedia.org/wiki/混合式核心 "wikilink")\[2\]，Windows
 NT的產品線也都使用這種核心模式。相較於之前僅管理OSI第二層的模式，Windows 2000的網路管理方面可以管理到OSI第三層。
 
 Windows 2000釋出四種版本：專業版（Professional）、伺服器版（Server）、進階伺服器版（Advanced
 Server）、資料中心伺服器版（Datacenter
-Server）\[3\]。另外，微軟也販賣64位元處理器[Itanium專用的Windows](../Page/Itanium.md "wikilink")
+Server）\[3\]。另外，微軟也販賣64位元處理器[Itanium專用的Windows](https://zh.wikipedia.org/wiki/Itanium "wikilink")
 2000 Advanced Server Limited Edition和Windows 2000 Datacenter Server
 Limited
 Edition\[4\]，不過功能上有些限制。雖然每個版本有不同的市場目標，但是所有版本都使用相同的核心功能，像是電腦管理主控台（Microsoft
@@ -24,7 +24,7 @@ Directory）、[分散式檔案系統](https://web.archive.org/web/2009022003041
 storage volumes。
 
 微軟宣稱Windows 2000是他們發佈過的Windows作業系統中最安全的\[11\]，不過Windows
-2000也成為許多高危[電腦病毒的攻擊目標](../Page/電腦病毒.md "wikilink")，像是知名的「紅色警戒」（Code
+2000也成為許多高危[電腦病毒的攻擊目標](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")，像是知名的「紅色警戒」（Code
 Red）和Nimda病毒\[12\]。距離Windows
 2000發佈已超過10年的時間，微軟還是持續釋出修正安全漏洞的更新檔至2010年7月13日終止支援為止。至今在許多發展中國家的公用電腦仍然廣泛使用Windows
 2000系統。
@@ -42,8 +42,8 @@ Windows 2000是Windows NT家族中的一部份，目的是為了要取代[Window
 \[16\]，測試版一直發佈到1999年4月29日第三個測試版為止
 ，測試期間有針對[DEC Alpha平台的Windows](../Page/DEC_Alpha.md "wikilink")
 2000釋出，但是第二個測試版取消 （因此[Windows NT
-4.0成為微軟最後一個支援](../Page/Windows_NT_4.0.md "wikilink")[跨平台的作業系統](../Page/跨平台.md "wikilink")，直到[Windows
-XP開始支援](../Page/Windows_XP.md "wikilink")[x86-64平台為止](../Page/x86-64.md "wikilink")）。測試結束之後，從1999年7月到1999年11月微軟還發佈三次釋出候選版（release
+4.0成為微軟最後一個支援](../Page/Windows_NT_4.0.md "wikilink")[跨平台的作業系統](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，直到[Windows
+XP開始支援](../Page/Windows_XP.md "wikilink")[x86-64平台為止](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）。測試結束之後，從1999年7月到1999年11月微軟還發佈三次釋出候選版（release
 candidates）。最終在1999年12月12日，微軟發佈Windows 2000。\[17\]
 
 Windows 2000原本是計畫要取代[Windows
@@ -54,7 +54,7 @@ Windows 2000原本是計畫要取代[Windows
 
 2004年2月12日（或者之前），發生Windows 2000原始碼洩漏的事件\[18\]，洩漏者將原始碼流傳到網路上，隨後微軟發佈以下的聲明：
 
-> 微軟的原始碼是有[版權而且受到交易安全的保護](../Page/版權.md "wikilink")，任何公佈、散佈、下載或者使用這些洩漏的原始碼都是非法的。
+> 微軟的原始碼是有[版權而且受到交易安全的保護](https://zh.wikipedia.org/wiki/版權 "wikilink")，任何公佈、散佈、下載或者使用這些洩漏的原始碼都是非法的。
 
 儘管微軟發出警告，但是這些洩漏的原始碼已經透過網路檔案分享廣泛的流傳出去，甚至在2004年2月16日還有從洩漏的原始碼中發現[Internet
 Explorer的安全漏洞](../Page/Internet_Explorer.md "wikilink")。
@@ -133,7 +133,7 @@ Windows
 
   - [Windows Me](../Page/Windows_Me.md "wikilink")
   - [微软视窗历史](../Page/Microsoft_Windows的历史.md "wikilink")
-  - [微軟操作系统列表](../Page/微軟操作系统列表.md "wikilink")
+  - [微軟操作系统列表](https://zh.wikipedia.org/wiki/微軟操作系统列表 "wikilink")
 
 {{-}}
 

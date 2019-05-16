@@ -1,8 +1,8 @@
-**Galeon**是[GNOME桌面系统下的](../Page/GNOME.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，采用[Mozilla的](../Page/Mozilla.md "wikilink")[Gecko排版引擎](../Page/Gecko.md "wikilink")，按照[GPL进行软件发布](../Page/GPL.md "wikilink")。
+**Galeon**是[GNOME桌面系统下的](../Page/GNOME.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，采用[Mozilla的](../Page/Mozilla.md "wikilink")[Gecko排版引擎](../Page/Gecko.md "wikilink")，按照[GPL进行软件发布](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 特点
 
-  - 界面清爽，遵循[W3C的网络标准](../Page/W3C.md "wikilink")
+  - 界面清爽，遵循[W3C的网络标准](https://zh.wikipedia.org/wiki/W3C "wikilink")
   - 纯粹的网页浏览器，用Galeon开发员的口号来说是：“the web, only the web”
   - 配置灵活，功能强大，用户只通过下拉菜单，就可基本控制浏览内容
 
@@ -13,7 +13,7 @@
   - 2002年3月，Galeon 1.2释出，增加了许多新鲜功能
   - 2002年10月，用[GTK](../Page/GTK.md "wikilink")2编写的Galeon
     1.3（有的称其为Galeon2）发布
-  - 2002年11月，Macro离开Galeon开发团队，另起炉灶，开始[Epiphany浏览器的开发](../Page/Epiphany.md "wikilink")
+  - 2002年11月，Macro离开Galeon开发团队，另起炉灶，开始[Epiphany浏览器的开发](https://zh.wikipedia.org/wiki/Epiphany "wikilink")
 
 ## Galeon与Epiphany之异同
 

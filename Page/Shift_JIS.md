@@ -1,6 +1,6 @@
-**Shift_JIS**是[日本电脑系统常用的编码表](../Page/日本.md "wikilink")，能容纳[全形及](../Page/全形.md "wikilink")[半形](../Page/半形.md "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")、[平假名](../Page/平假名.md "wikilink")、[片假名](../Page/片假名.md "wikilink")、[符号及](../Page/符号.md "wikilink")[日语汉字](../Page/日语.md "wikilink")。
+**Shift_JIS**是[日本电脑系统常用的编码表](../Page/日本.md "wikilink")，能容纳[全形及](https://zh.wikipedia.org/wiki/全形 "wikilink")[半形](https://zh.wikipedia.org/wiki/半形 "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")、[平假名](../Page/平假名.md "wikilink")、[片假名](../Page/片假名.md "wikilink")、[符号及](../Page/符号.md "wikilink")[日语汉字](../Page/日语.md "wikilink")。
 
-命名为Shift_JIS的原因，是在放置全形字符时，要避开原本在0xA1-0xDF放置的[半角假名字符](../Page/半角假名.md "wikilink")。
+命名为Shift_JIS的原因，是在放置全形字符时，要避开原本在0xA1-0xDF放置的[半角假名字符](https://zh.wikipedia.org/wiki/半角假名 "wikilink")。
 
 [微软及](../Page/微软.md "wikilink")[IBM的日语电脑系统即使用了这个编码表](../Page/IBM.md "wikilink")，称为**CP932**。
 
@@ -768,9 +768,10 @@
   - [ASCII](../Page/ASCII.md "wikilink")
   - [JIS X 0201](../Page/JIS_X_0201.md "wikilink")
   - [JIS X 0208](../Page/JIS_X_0208.md "wikilink")
-  - [ISO/IEC 2022](../Page/ISO/IEC_2022.md "wikilink")
+  - [ISO/IEC
+    2022](https://zh.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")
   - [EUC](../Page/EUC.md "wikilink")
-  - [日本工業標準](../Page/日本工業標準.md "wikilink")
+  - [日本工業標準](https://zh.wikipedia.org/wiki/日本工業標準 "wikilink")
 
 ## 外部链接
 
@@ -778,7 +779,7 @@
   - [Ping: Japanese text encoding](http://lfw.org/text/jp.html)
   - [Shift_JIS中，非ASCII部分的编码表](http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml)
   - Forms of Shift-JIS in ICU ([International Components for
-    Unicode](../Page/International_Components_for_Unicode.md "wikilink"))
+    Unicode](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink"))
       - [ibm-942
         (sjis78)](http://demo.icu-project.org/icu-bin/convexp?conv=ibm-942)
       - [ibm-943 (Contains the \\u00A5 ↔ \\x5C

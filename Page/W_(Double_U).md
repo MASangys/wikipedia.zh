@@ -1,5 +1,5 @@
 **W**（**Double U**）是[Hello\!
-Project](../Page/Hello!_Project.md "wikilink")（早安家族）旗下的女子雙人組合。因加護亞依被傳出醜聞的關係於2006年2月停止活動。2007年3月時公司與加護亞依解除經紀約，事實上解散。同年4月時官方網站也刪除了此團體。時隔十多年後，因加護亞依與早安家族以及UFA成功破冰，W得以於2019年3月30日的演唱會上再次重組。
+Project](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")（早安家族）旗下的女子雙人組合。因加護亞依被傳出醜聞的關係於2006年2月停止活動。2007年3月時公司與加護亞依解除經紀約，事實上解散。同年4月時官方網站也刪除了此團體。時隔十多年後，因加護亞依與早安家族以及UFA成功破冰，W得以於2019年3月30日的演唱會上再次重組。
 
 ## 成員
 
@@ -8,19 +8,19 @@ Project](../Page/Hello!_Project.md "wikilink")（早安家族）旗下的女子�
 
 ## 簡歷
 
-  - 2004年5月，當時還是[早安少女組團員的](../Page/早安少女組.md "wikilink")[辻希美與](../Page/辻希美.md "wikilink")[加護亞依組成這個團體](../Page/加護亞依.md "wikilink")。
+  - 2004年5月，當時還是[早安少女組團員的](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")[辻希美與](../Page/辻希美.md "wikilink")[加護亞依組成這個團體](../Page/加護亞依.md "wikilink")。
   - 團名的由來從「不是雙胞胎卻很像雙胞胎」發想，自「W」的語源「Double　U」擷取了「YOU＆YOU、也就是『你與你』」。
   - 出道單曲翻唱[The
-    Peanuts](../Page/The_Peanuts.md "wikilink")（<span lang=ja>ザ・ピーナッツ</span>）的「戀愛假期」。6月發行了收錄13組日本女子雙人組合，共15曲的首張翻唱專輯。
-  - 2004年12月31日與早安少女組共同組成特別團體登上[NHK](../Page/日本放送協會.md "wikilink")[红白歌合战舞台](../Page/红白歌合战.md "wikilink")。
+    Peanuts](https://zh.wikipedia.org/wiki/The_Peanuts "wikilink")（<span lang=ja>ザ・ピーナッツ</span>）的「戀愛假期」。6月發行了收錄13組日本女子雙人組合，共15曲的首張翻唱專輯。
+  - 2004年12月31日與早安少女組共同組成特別團體登上[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[红白歌合战舞台](https://zh.wikipedia.org/wiki/红白歌合战 "wikilink")。
   - 2006年2月9日成員加護亞依因未成年抽煙遭八卦雜誌披露，組合暫停演藝活動。
   - 2007年3月26日加護亞依再次被揭發抽煙，被所屬事務所解除契約，辻希美轉為個人活動。
   - 2019年3月30日，加護亞依與辻希美兩人以嘉賓身份出演「Hello\!Project　ひなフェス2019」演唱會，W時隔十三年後再度合體。同日以網絡下載的形式發行迷你專輯。
 
 ## 音樂
 
-2004年至2006年期間由[zetima唱片公司發行](../Page/zetima.md "wikilink")（2004－2005年間台灣及東南亞地區由[環球音樂發行](../Page/環球音樂.md "wikilink")，2006年起代理中止），2019年起改由[UP-FRONT
-WORKS發行](../Page/UP-FRONT_WORKS.md "wikilink")。
+2004年至2006年期間由[zetima唱片公司發行](https://zh.wikipedia.org/wiki/zetima "wikilink")（2004－2005年間台灣及東南亞地區由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")，2006年起代理中止），2019年起改由[UP-FRONT
+WORKS發行](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")。
 
 ### 單曲
 
@@ -65,8 +65,9 @@ WORKS發行](../Page/UP-FRONT_WORKS.md "wikilink")。
 
 ## 關連項目
 
-  - [早安少女組](../Page/早安少女組.md "wikilink")
-  - [Hello\! Project](../Page/Hello!_Project.md "wikilink")
+  - [早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")
+  - [Hello\!
+    Project](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")
 
 ## 外部連結
 

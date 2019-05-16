@@ -1,22 +1,23 @@
 {{ Infobox programming language | name = ActionScript | logo =
 [Farm-Fresh_page_white_actionscript.png](https://zh.wikipedia.org/wiki/File:Farm-Fresh_page_white_actionscript.png "fig:Farm-Fresh_page_white_actionscript.png")
 | paradigm =
-[多重编程范式](../Page/多重编程范式.md "wikilink")：[基於原型的](../Page/原型程式設計.md "wikilink")[物件導向程式設計](../Page/物件導向程式設計.md "wikilink")、[函數程式語言](../Page/函數程式語言.md "wikilink")、[指令式編程](../Page/指令式編程.md "wikilink")、[腳本語言](../Page/腳本語言.md "wikilink")
+[多重编程范式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")：[基於原型的](../Page/原型程式設計.md "wikilink")[物件導向程式設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")、[指令式編程](../Page/指令式編程.md "wikilink")、[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")
 | year = 1998年 | designer =  | developer = [Adobe
-Systems](../Page/Adobe_Systems.md "wikilink") | latest_release_version
-= 3.0 | latest_release_date =  | typing =
-[強型別](../Page/強型別.md "wikilink")、[靜態型別](../Page/靜態型別.md "wikilink")
+Systems](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink") |
+latest_release_version = 3.0 | latest_release_date =  | typing =
+[強型別](https://zh.wikipedia.org/wiki/強型別 "wikilink")、[靜態型別](https://zh.wikipedia.org/wiki/靜態型別 "wikilink")
 | implementations = [Adobe
 Flash](../Page/Adobe_Flash.md "wikilink")、[Apache
 Flex](../Page/Apache_Flex.md "wikilink") | operating_system =
-[跨平台](../Page/跨平台.md "wikilink") | influenced_by =
+[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") |
+influenced_by =
 [JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")
 }}
 
-**ActionScript**是原[Macromedia公司](../Page/Macromedia.md "wikilink")（后并入[Adobe](../Page/Adobe.md "wikilink")）为其[Flash产品开发的一种基于](../Page/Flash.md "wikilink")[ECMAScript的](../Page/ECMAScript.md "wikilink")[面向对象编程语言](../Page/面向对象.md "wikilink")。ActionScript可用于[网页制作](../Page/网页制作.md "wikilink")、[Adobe
+**ActionScript**是原[Macromedia公司](../Page/Macromedia.md "wikilink")（后并入[Adobe](../Page/Adobe.md "wikilink")）为其[Flash产品开发的一种基于](https://zh.wikipedia.org/wiki/Flash "wikilink")[ECMAScript的](../Page/ECMAScript.md "wikilink")[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象 "wikilink")。ActionScript可用于[网页制作](https://zh.wikipedia.org/wiki/网页制作 "wikilink")、[Adobe
 Flash动画和](../Page/Adobe_Flash.md "wikilink")[RIA应用程序的开发](../Page/丰富互联网应用程序.md "wikilink")。
 
-ActionScript和[JavaScript均基于ECMAScript语法](../Page/JavaScript.md "wikilink")，因而拥有类似的语法。理论上它们互相可以很流畅地从一种语言翻译到另一种。不过JavaScript的[文档对象模型是以](../Page/文档对象模型.md "wikilink")[浏览器窗口](../Page/浏览器.md "wikilink")、[文档和](../Page/超文本标记语言.md "wikilink")[表单为主的](../Page/表单.md "wikilink")，ActionScript的[文档对象模型则以](../Page/文档对象模型.md "wikilink")[SWF格式动画为主](../Page/SWF.md "wikilink")，可包括动画、音频、文字和[事件处理](../Page/事件处理.md "wikilink")。
+ActionScript和[JavaScript均基于ECMAScript语法](../Page/JavaScript.md "wikilink")，因而拥有类似的语法。理论上它们互相可以很流畅地从一种语言翻译到另一种。不过JavaScript的[文档对象模型是以](../Page/文档对象模型.md "wikilink")[浏览器窗口](https://zh.wikipedia.org/wiki/浏览器 "wikilink")、[文档和](https://zh.wikipedia.org/wiki/超文本标记语言 "wikilink")[表单为主的](https://zh.wikipedia.org/wiki/表单 "wikilink")，ActionScript的[文档对象模型则以](../Page/文档对象模型.md "wikilink")[SWF格式动画为主](https://zh.wikipedia.org/wiki/SWF "wikilink")，可包括动画、音频、文字和[事件处理](https://zh.wikipedia.org/wiki/事件处理 "wikilink")。
 
 ActionScript 開發時可藉由導入 ANE 作為跨平台使用；並且官方公布之認證Starling
 （基於OPGL協定）開放框架，可使用GPU高速繪圖，而非傳統的CPU運算功能。
@@ -26,21 +27,22 @@ ActionScript 開發時可藉由導入 ANE 作為跨平台使用；並且官方�
 [OSX10-2-actionscript2.png](https://zh.wikipedia.org/wiki/File:OSX10-2-actionscript2.png "fig:OSX10-2-actionscript2.png")操作系统上的Macromedia
 Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中看见的类似的动画。\]\] ActionScript
 首次出现于Flash 5并实现了在Flash内编程。这个版本被命名为ActionScript 1.0。Flash
-6通过增加大量的内置函数和对[动画元素更好的编程控制更进一步增强了编程环境的功能](../Page/SWF.md "wikilink")。Flash
+6通过增加大量的内置函数和对[动画元素更好的编程控制更进一步增强了编程环境的功能](https://zh.wikipedia.org/wiki/SWF "wikilink")。Flash
 7（MX 2004）引进了ActionScript
-2.0，它增加了[强类型和](../Page/强类型.md "wikilink")[面向对象特征](../Page/面向对象.md "wikilink")，如显式[类声明](../Page/类_\(计算机科学\).md "wikilink")、[继承](../Page/继承_\(计算机科学\).md "wikilink")、[接口和严格数据类型](../Page/接口.md "wikilink")。ActionScript
-1.0 和 2.0 使用相同的编译形式编译成Flash [SWF文件](../Page/SWF.md "wikilink")。
+2.0，它增加了[强类型和](https://zh.wikipedia.org/wiki/强类型 "wikilink")[面向对象特征](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，如显式[类声明](../Page/类_\(计算机科学\).md "wikilink")、[继承](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")、[接口和严格数据类型](https://zh.wikipedia.org/wiki/接口 "wikilink")。ActionScript
+1.0 和 2.0 使用相同的编译形式编译成Flash
+[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")。
 
 ### 播放器發展時間表
 
   - **Flash Player 2**：第一个支持脚本的版本，包括控制时间轴的gotoAndPlay、
     gotoAndStop、nextFrame和nextScene等方法。
   - **Flash Player
-    3**：增强了载入外部[SWF文件的基本脚本支持](../Page/SWF.md "wikilink")（loadMovie）。
+    3**：增强了载入外部[SWF文件的基本脚本支持](https://zh.wikipedia.org/wiki/SWF "wikilink")（loadMovie）。
   - **Flash Player
     4**：第一个完全实现脚本功能（称为「动作」）的播放器。这些脚本拥有简练的语法和对循环、条件、变量和其它基本语言结构的支持。
   - **Flash Player
-    5**：第一个拥有真正意义上的ActionScript的版本。依据ECMAScript，\[1\]采用[基于原型编程](../Page/基于原型编程.md "wikilink")，并允许完全的[过程式编程和](../Page/过程式编程.md "wikilink")[面向对象编程](../Page/面向对象编程.md "wikilink")。
+    5**：第一个拥有真正意义上的ActionScript的版本。依据ECMAScript，\[1\]采用[基于原型编程](https://zh.wikipedia.org/wiki/基于原型编程 "wikilink")，并允许完全的[过程式编程和](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")[面向对象编程](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。
 
 <!-- end list -->
 
@@ -52,8 +54,9 @@ Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中�
     Flash编译器和Flash Player 7同时支持基于ECMAScript 4 Netscape
     Proposal\[2\]的[类编程语言ActionScript](../Page/类_\(计算机科学\).md "wikilink")
     2.0。不过ActionScript
-    2.0能[交叉编译成ActionScript](../Page/交叉编译.md "wikilink")
-    1.0的[字节码](../Page/字节码.md "wikilink")，因此它能运行于Flash Player 6。
+    2.0能[交叉编译成ActionScript](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")
+    1.0的[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")，因此它能运行于Flash
+    Player 6。
 
 <!-- end list -->
 
@@ -74,7 +77,7 @@ Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中�
 <!-- end list -->
 
   - **Flash Player
-    11**：2011年發表，運用[Stage3D](../Page/Stage3D.md "wikilink")
+    11**：2011年發表，運用[Stage3D](https://zh.wikipedia.org/wiki/Stage3D "wikilink")
     API提供的硬體加速圖像渲染，支援GPU加速。\[3\]
 
 <!-- end list -->
@@ -174,11 +177,11 @@ Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中�
 
 Flash ActionScript實現的特點如下，JavaScript程式員也許感興趣：
 
-  - 一切設計是非同步的；[callback是普遍存在的](../Page/Callback_\(computer_science\).md "wikilink")，但[事件對象不存在](../Page/事件.md "wikilink")。
+  - 一切設計是非同步的；[callback是普遍存在的](https://zh.wikipedia.org/wiki/Callback_\(computer_science\) "wikilink")，但[事件對象不存在](https://zh.wikipedia.org/wiki/事件 "wikilink")。
   - [XML的實現從Flash](../Page/XML.md "wikilink")
     5便存在了。Flash可送和收XML，該項功能可用來透過網路伺服器創造網上多玩者遊戲。
 
-ActionScript代碼常常直接寫在Flash開發環境。該環境提供參考、代碼提示和句法強調。原代碼常常與電影一起存在.fla檔案裡。自外部文件檔透過\#include語法導入ActionScript代碼也相當常見。在這種情況下，外部檔案也許被Flash[整合開發環境內建編譯器](../Page/IDE.md "wikilink")，或Motion
+ActionScript代碼常常直接寫在Flash開發環境。該環境提供參考、代碼提示和句法強調。原代碼常常與電影一起存在.fla檔案裡。自外部文件檔透過\#include語法導入ActionScript代碼也相當常見。在這種情況下，外部檔案也許被Flash[整合開發環境內建編譯器](https://zh.wikipedia.org/wiki/IDE "wikilink")，或Motion
 Twin ActionScript2編譯器（MTASC）編譯。
 
 ### 评价
@@ -277,10 +280,11 @@ amazon連結提供查證-[4](https://www.amazon.com/Starling-Game-Development-Es
 ## 參見
 
   - [ECMAScript](../Page/ECMAScript.md "wikilink")
-  - [Lingo](../Page/Lingo_programming_language.md "wikilink") for
-    Macromedia Director
-  - [Macromedia Flash](../Page/Macromedia_Flash.md "wikilink")
-  - [Scripting](../Page/Scripting.md "wikilink")
+  - [Lingo](https://zh.wikipedia.org/wiki/Lingo_programming_language "wikilink")
+    for Macromedia Director
+  - [Macromedia
+    Flash](https://zh.wikipedia.org/wiki/Macromedia_Flash "wikilink")
+  - [Scripting](https://zh.wikipedia.org/wiki/Scripting "wikilink")
   - [Macromedia](../Page/Macromedia.md "wikilink")
 
 ## 参考资料

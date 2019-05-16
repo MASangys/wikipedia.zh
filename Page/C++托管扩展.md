@@ -1,15 +1,15 @@
 **C++托管扩展**（Managed Extensions for
-C++）是对[C++的一个属性和关键字的扩展](../Page/C++.md "wikilink")，以便于在[微软公司的](../Page/微软公司.md "wikilink")[.NET
-Framework进行编程](../Page/.NET_Framework.md "wikilink")。它也经常被称为托管C++。2002年由微软发布。
+C++）是对[C++的一个属性和关键字的扩展](../Page/C++.md "wikilink")，以便于在[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[.NET
+Framework进行编程](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。它也经常被称为托管C++。2002年由微软发布。
 
 *注意：C++托管扩展自[Visual C++
-2005起被一个新的语言规范](../Page/Visual_C++_2005.md "wikilink")，正在标准化的[C++/CLI所取代](../Page/C++/CLI.md "wikilink")。*
+2005起被一个新的语言规范](https://zh.wikipedia.org/wiki/Visual_C++_2005 "wikilink")，正在标准化的[C++/CLI所取代](https://zh.wikipedia.org/wiki/C++/CLI "wikilink")。*
 
-托管C++并非独立存在的[编程语言](../Page/编程语言.md "wikilink")，而仅仅是微软对C++的一个语法扩展，允许C++程序员在.NET框架和[CLR的基础上进行托管编程](../Page/CLR.md "wikilink")。与[C\#和](../Page/Ｃ＃.md "wikilink")[Visual
+托管C++并非独立存在的[编程语言](../Page/编程语言.md "wikilink")，而仅仅是微软对C++的一个语法扩展，允许C++程序员在.NET框架和[CLR的基础上进行托管编程](https://zh.wikipedia.org/wiki/CLR "wikilink")。与[C\#和](https://zh.wikipedia.org/wiki/Ｃ＃ "wikilink")[Visual
 Basic
-.NET相比](../Page/Visual_Basic_.NET.md "wikilink")，其主要优点是旧代码可以比较快地移植到新的平台上，而且即使不完全重写代码，也可以通过[互操作在同一个](../Page/互操作.md "wikilink")[模块中无缝整合](../Page/模块.md "wikilink")[托管和](../Page/托管.md "wikilink")[非托管代码](../Page/非托管.md "wikilink")，从新的.Net框架中获益。
+.NET相比](../Page/Visual_Basic_.NET.md "wikilink")，其主要优点是旧代码可以比较快地移植到新的平台上，而且即使不完全重写代码，也可以通过[互操作在同一个](https://zh.wikipedia.org/wiki/互操作 "wikilink")[模块中无缝整合](https://zh.wikipedia.org/wiki/模块 "wikilink")[托管和](https://zh.wikipedia.org/wiki/托管 "wikilink")[非托管代码](https://zh.wikipedia.org/wiki/非托管 "wikilink")，从新的.Net框架中获益。
 
-.Net框架封装了大量的API，例如网络访问、字符串操作、数据访问、XML服务、图形界面控件库、邮件服务、加密服务、文件输入／输出，甚至是WMI管理，也使得应用程序员可以编写更加简洁的代码。目前只有托管C++及其后继者C++/CLI可以做到无缝整合[托管和](../Page/托管.md "wikilink")[非托管代码](../Page/非托管.md "wikilink")，而在托管代码中调用[COM的速度又相当慢](../Page/COM.md "wikilink")，所以经常被用于其他语言和非托管代码之间的桥梁。
+.Net框架封装了大量的API，例如网络访问、字符串操作、数据访问、XML服务、图形界面控件库、邮件服务、加密服务、文件输入／输出，甚至是WMI管理，也使得应用程序员可以编写更加简洁的代码。目前只有托管C++及其后继者C++/CLI可以做到无缝整合[托管和](https://zh.wikipedia.org/wiki/托管 "wikilink")[非托管代码](https://zh.wikipedia.org/wiki/非托管 "wikilink")，而在托管代码中调用[COM的速度又相当慢](https://zh.wikipedia.org/wiki/COM "wikilink")，所以经常被用于其他语言和非托管代码之间的桥梁。
 
 托管C++允许程序员编写托管代码，内存管理的工作现在可以让CLR去自动处理，访问时也增加了类型检查，减少了[缓冲区溢出和](../Page/缓冲区溢出.md "wikilink")[内存泄漏的危险](../Page/内存泄漏.md "wikilink")，增加了程序的稳定性，但是在性能敏感的应用中，庞大的.NET框架和缓慢的自动内存管理并不是必要的，传统非托管代码仍然是一些人的首选。
 
@@ -62,7 +62,7 @@ each语句才被支持。
 `   cl.exe hello.cpp /clr`
 
 /clr enables any code referencing the .NET Framework to be compiled as
-[CIL](../Page/Common_Intermediate_Language.md "wikilink")。
+[CIL](https://zh.wikipedia.org/wiki/Common_Intermediate_Language "wikilink")。
 
   - A class can be designated to be garbage collected via the `__gc`
     extension keyword.
@@ -105,8 +105,8 @@ each语句才被支持。
 <!-- end list -->
 
   - Java 有許多開發工具與解決方案可提供開發者利用，Managed C++ 僅能使用 [Visual Studio
-    .NET](../Page/Visual_Studio_.NET.md "wikilink")。不過，''Managed C++
-    applications 可用免費的 Visual C++ Toolkit 2003 編譯。
+    .NET](https://zh.wikipedia.org/wiki/Visual_Studio_.NET "wikilink")。不過，''Managed
+    C++ applications 可用免費的 Visual C++ Toolkit 2003 編譯。
 
 <!-- end list -->
 

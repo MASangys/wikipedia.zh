@@ -1,9 +1,9 @@
-**Haskell**（）\[1\]是一种标准化的，通用的纯[函數程式語言](../Page/函數程式語言.md "wikilink")，有[非限定性语义和](../Page/非限定性语义.md "wikilink")[强](../Page/强类型.md "wikilink")[静态类型](../Page/类型系统.md "wikilink")\[2\]。它的命名源自美国[逻辑学家](../Page/逻辑学家.md "wikilink")[哈斯凱爾·加里](../Page/哈斯凱爾·加里.md "wikilink")，他在数理逻辑方面上的工作使得函数式编程语言有了广泛的基础。在Haskell中，“函数是[第一類物件](../Page/第一類物件.md "wikilink")”\[3\]。作为一门[函數程式語言](../Page/函數程式語言.md "wikilink")，主要控制结构是[函数](../Page/函数.md "wikilink")。Haskell语言是1990年在编程语言Miranda的基础上标准化的，并且以[λ演算为基础发展而来](../Page/λ演算.md "wikilink")。这也是为什么Haskell语言以[希腊字母](../Page/希腊字母.md "wikilink")「λ」（Lambda）作为自己的标志。Haskell具有“[证明即程序、命题为类型](../Page/柯里-霍华德同构.md "wikilink")”的特征\[4\]\[5\]\[6\]\[7\]。
+**Haskell**（）\[1\]是一种标准化的，通用的纯[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")，有[非限定性语义和](https://zh.wikipedia.org/wiki/非限定性语义 "wikilink")[强](https://zh.wikipedia.org/wiki/强类型 "wikilink")[静态类型](https://zh.wikipedia.org/wiki/类型系统 "wikilink")\[2\]。它的命名源自美国[逻辑学家](../Page/逻辑学家.md "wikilink")[哈斯凱爾·加里](https://zh.wikipedia.org/wiki/哈斯凱爾·加里 "wikilink")，他在数理逻辑方面上的工作使得函数式编程语言有了广泛的基础。在Haskell中，“函数是[第一類物件](../Page/第一類物件.md "wikilink")”\[3\]。作为一门[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")，主要控制结构是[函数](../Page/函数.md "wikilink")。Haskell语言是1990年在编程语言Miranda的基础上标准化的，并且以[λ演算为基础发展而来](https://zh.wikipedia.org/wiki/λ演算 "wikilink")。这也是为什么Haskell语言以[希腊字母](../Page/希腊字母.md "wikilink")「λ」（Lambda）作为自己的标志。Haskell具有“[证明即程序、命题为类型](../Page/柯里-霍华德同构.md "wikilink")”的特征\[4\]\[5\]\[6\]\[7\]。
 
 ## 历史
 
-1985年，[Miranda发行后](../Page/米兰达.md "wikilink")，[惰性函数式语言的关注度增长](../Page/惰性求值.md "wikilink")。到1987年前，出现了十多种[非限定性](../Page/非限定性.md "wikilink")、纯函数式语言。其中，Miranda使用的最为广泛，但还没有出现在公共领域。在[俄勒冈](../Page/俄勒冈.md "wikilink")[波特兰的函数式编程语言与计算机结构大会](../Page/波特兰.md "wikilink")（FPCA
-'87）上，参加者一致同意形成一个委员会来为这样的语言定义一种[开放性标准](../Page/开放性标准.md "wikilink")。该委员会旨在整合已有[函数式语言](../Page/函数式语言.md "wikilink")，作为将来的函数式语言设计研究工作的基础。\[8\]
+1985年，[Miranda发行后](https://zh.wikipedia.org/wiki/米兰达 "wikilink")，[惰性函数式语言的关注度增长](../Page/惰性求值.md "wikilink")。到1987年前，出现了十多种[非限定性](https://zh.wikipedia.org/wiki/非限定性 "wikilink")、纯函数式语言。其中，Miranda使用的最为广泛，但还没有出现在公共领域。在[俄勒冈](https://zh.wikipedia.org/wiki/俄勒冈 "wikilink")[波特兰的函数式编程语言与计算机结构大会](https://zh.wikipedia.org/wiki/波特兰 "wikilink")（FPCA
+'87）上，参加者一致同意形成一个委员会来为这样的语言定义一种[开放性标准](https://zh.wikipedia.org/wiki/开放性标准 "wikilink")。该委员会旨在整合已有[函数式语言](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")，作为将来的函数式语言设计研究工作的基础。\[8\]
 
 ### Haskell 1.0至1.4
 
@@ -36,15 +36,15 @@ n`的定义）。引入了语言级编译选项语法扩展（Language-Pragma-Sy
 
 ## 特性
 
-Haskell是现有的一门开放的、已发布标准的，且有多种实现的语言。\[14\]支持[惰性求值](../Page/惰性求值.md "wikilink")、[模式匹配](../Page/模式匹配.md "wikilink")、[列表解析](../Page/列表解析.md "wikilink")、[类型类和](../Page/类型类.md "wikilink")[类型多态](../Page/类型多态.md "wikilink")。它是一门纯[函数编程语言](../Page/函数编程语言.md "wikilink")，这意味着大体上，Haskell中的函数没有[副作用](../Page/函数副作用.md "wikilink")。Haskell用特定的类型来表达副作用，该类型与函数类型相互独立。纯函数可以操作并返回可执行的副作用的类型，但不能够执行它们，只有用于表达副作用的类型才能执行这些副作用，Haskell以此表达其它语言中的非纯函数。
+Haskell是现有的一门开放的、已发布标准的，且有多种实现的语言。\[14\]支持[惰性求值](../Page/惰性求值.md "wikilink")、[模式匹配](https://zh.wikipedia.org/wiki/模式匹配 "wikilink")、[列表解析](https://zh.wikipedia.org/wiki/列表解析 "wikilink")、[类型类和](https://zh.wikipedia.org/wiki/类型类 "wikilink")[类型多态](https://zh.wikipedia.org/wiki/类型多态 "wikilink")。它是一门纯[函数编程语言](https://zh.wikipedia.org/wiki/函数编程语言 "wikilink")，这意味着大体上，Haskell中的函数没有[副作用](../Page/函数副作用.md "wikilink")。Haskell用特定的类型来表达副作用，该类型与函数类型相互独立。纯函数可以操作并返回可执行的副作用的类型，但不能够执行它们，只有用于表达副作用的类型才能执行这些副作用，Haskell以此表达其它语言中的非纯函数。
 
-Haskell拥有一个基于Hindley-Milner[类型推论的](../Page/类型推论.md "wikilink")[静态](../Page/类型系统.md "wikilink")、[强类型系统](../Page/强类型.md "wikilink")。Haskell在此领域的主要创新就是加入了类型类（type
+Haskell拥有一个基于Hindley-Milner[类型推论的](../Page/类型推论.md "wikilink")[静态](https://zh.wikipedia.org/wiki/类型系统 "wikilink")、[强类型系统](https://zh.wikipedia.org/wiki/强类型 "wikilink")。Haskell在此领域的主要创新就是加入了类型类（type
 class），原本设想作为重载的主要方式，\[15\]在之后发现了更多用途。\[16\]
 
-Haskell的主要实现是个[解释器](../Page/解释器.md "wikilink")，也是个原生代码[编译器](../Page/编译器.md "wikilink")。它可以在大多数平台运行，GHC在并发和并行上具有高性能的实现能力，\[17\]也有丰富的类型系统，如[广义代数数据类型和类型族](../Page/广义代数数据类型.md "wikilink")（Type
+Haskell的主要实现是个[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，也是个原生代码[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。它可以在大多数平台运行，GHC在并发和并行上具有高性能的实现能力，\[17\]也有丰富的类型系统，如[广义代数数据类型和类型族](https://zh.wikipedia.org/wiki/广义代数数据类型 "wikilink")（Type
 Families）。
 
-[单子是一个](../Page/单子.md "wikilink")[抽象類型](../Page/抽象資料型別.md "wikilink")，可以表达不同种类的计算，包括[异常处理](../Page/异常处理.md "wikilink")、[非确定性](../Page/非确定性.md "wikilink")、[语法分析以及](../Page/语法分析.md "wikilink")[软件事务内存](../Page/软件事务内存.md "wikilink")，其中一个应用是用于表达副作用的类型。单子定义为普通的数据类型，同时Haskell也为其提供了几种[语法糖](../Page/语法糖.md "wikilink")。
+[单子是一个](https://zh.wikipedia.org/wiki/单子 "wikilink")[抽象類型](../Page/抽象資料型別.md "wikilink")，可以表达不同种类的计算，包括[异常处理](../Page/异常处理.md "wikilink")、[非确定性](https://zh.wikipedia.org/wiki/非确定性 "wikilink")、[语法分析以及](https://zh.wikipedia.org/wiki/语法分析 "wikilink")[软件事务内存](../Page/软件事务内存.md "wikilink")，其中一个应用是用于表达副作用的类型。单子定义为普通的数据类型，同时Haskell也为其提供了几种[语法糖](../Page/语法糖.md "wikilink")。
 
 Haskell有一个活跃的社区，在线上包仓库Hackage上有豐富的第三方开源库或工具。\[18\]
 
@@ -226,7 +226,7 @@ f1 = (absolute .  area)   -- 函数复合运算符是 . (function composition op
 ### lambda函数
 
 lambda 就是匿名函数。写法是：一个 \\
-(因为它看起来像是[希腊字母](../Page/希腊字母.md "wikilink")[λ](../Page/Λ.md "wikilink"))，后面是用空格分隔的参数，-\>
+(因为它看起来像是[希腊字母](../Page/希腊字母.md "wikilink")[λ](https://zh.wikipedia.org/wiki/Λ "wikilink"))，后面是用空格分隔的参数，-\>
 后面是函数体。通常用括号将括起lambda函数，否则它会占据整个右边部分。
 
 例如：(\\a b -\> (a \* 30 + 3) / b)
@@ -237,7 +237,7 @@ lambda 就是匿名函数。写法是：一个 \\
 
 ### 高阶函数
 
-Haskell的所有函数实际上是单参数函数。多参数函数的写法实际上是[Curry化的语法糖](../Page/Curry化.md "wikilink")。即
+Haskell的所有函数实际上是单参数函数。多参数函数的写法实际上是[Curry化的语法糖](https://zh.wikipedia.org/wiki/Curry化 "wikilink")。即
 func a b等价于(func a) b
 
 point free style (也称作 pointless style) 的函数，即通过柯里化 (Currying)省略掉单参数。例如：
@@ -326,7 +326,7 @@ main :: IO ()
 main = putStrLn "Hello, World!"
 ```
 
-如下是[阶乘函数的Haskell实现](../Page/阶乘.md "wikilink")：
+如下是[阶乘函数的Haskell实现](https://zh.wikipedia.org/wiki/阶乘 "wikilink")：
 
 ``` Haskell numberLines
 fac :: Int -> Int
@@ -339,7 +339,7 @@ fac n = n * fac (n - 1)
 上面的递归函数的第一行是可选的，它描述了这个函数的**型態**（**types**）。它可以读作**函数fac的型態為整數至整數（function
 fac has a int-to-int type）**。这就是说，它以一个整型为参数，并且返回另一个整型。
 
-第二行依赖的[模式匹配](../Page/模式匹配.md "wikilink")，是Haskell程序中一个重要的部分。注意函数的参数是用空格分隔而不是在括号中。当函数的参数是0时，它会返回整型1。对于其他的情况则尝试第三行。这是一个[递归](../Page/递归.md "wikilink")，它会一直执行只到满足基本的情形。负参数会导致无限递归，一个保证第三行不会执行负参数。
+第二行依赖的[模式匹配](https://zh.wikipedia.org/wiki/模式匹配 "wikilink")，是Haskell程序中一个重要的部分。注意函数的参数是用空格分隔而不是在括号中。当函数的参数是0时，它会返回整型1。对于其他的情况则尝试第三行。这是一个[递归](../Page/递归.md "wikilink")，它会一直执行只到满足基本的情形。负参数会导致无限递归，一个保证第三行不会执行负参数。
 
 "Prelude"是一个类似C中标准库的小函数集合。使用Prelude，并用无指定参数的写法，它可以改成：
 

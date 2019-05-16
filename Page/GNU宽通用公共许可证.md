@@ -1,6 +1,6 @@
-**GNU宽通用公共许可证**（，简称：）是由[自由软件基金会公布的](../Page/自由软件基金会.md "wikilink")[自由软件授权条款](../Page/自由软件授权条款.md "wikilink")。它允许企业与软件开发者使用，或将LGPL授权的软件整合至他们自己的软件内（即使该软件是私有软件也被允许），同时不会受到[Copyleft特性的许可证强制对软件开源的限制](../Page/Copyleft.md "wikilink")。该许可证常被用于一些（但不是全部）[GNU程序库](../Page/GNU.md "wikilink")。
+**GNU宽通用公共许可证**（，简称：）是由[自由软件基金会公布的](../Page/自由软件基金会.md "wikilink")[自由软件授权条款](https://zh.wikipedia.org/wiki/自由软件授权条款 "wikilink")。它允许企业与软件开发者使用，或将LGPL授权的软件整合至他们自己的软件内（即使该软件是私有软件也被允许），同时不会受到[Copyleft特性的许可证强制对软件开源的限制](../Page/Copyleft.md "wikilink")。该许可证常被用于一些（但不是全部）[GNU程序库](../Page/GNU.md "wikilink")。
 
-这个许可证以前被称为**GNU程式库通用公共许可证**（）。此许可证最新版本为“第3版”，2007年6月29日发布，较早的版本有2.0和2.1版。此種授權之出現，是為了在GPL與許可式授權（如[MIT许可证及](../Page/MIT许可证.md "wikilink")[柏克萊大學的](../Page/柏克萊大學.md "wikilink")[BSD许可证](../Page/BSD许可证.md "wikilink")）間取得折衷。
+这个许可证以前被称为**GNU程式库通用公共许可证**（）。此许可证最新版本为“第3版”，2007年6月29日发布，较早的版本有2.0和2.1版。此種授權之出現，是為了在GPL與許可式授權（如[MIT许可证及](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[柏克萊大學的](https://zh.wikipedia.org/wiki/柏克萊大學 "wikilink")[BSD许可证](../Page/BSD许可证.md "wikilink")）間取得折衷。
 
 採用LGPL之計畫本身雖然仍有“[Copyleft](../Page/Copyleft.md "wikilink")”之限制條件，但這些限制不感染僅僅只-{zh-hans:链接;zh-hant:聯結}-到本計畫的軟體。不過此等軟體仍會受到其他限制。
 
@@ -17,12 +17,13 @@ License**，以顯示FSF認爲並不是所有程式庫都應當採用該許可�
 ## LGPL與GPL差異之處
 
 LGPL有一特點是LGPL軟體可以被轉換成GPL（參見[Section
-3](../Page/:GNU通用公共许可证#%E6%A2%9D%E6%AC%BE%E5%92%8C%E6%A2%9D%E4%BB%B6.md "wikilink")）。這種特性對於在GPL函式庫或應用程式中直接使用LGPL程式有一定程度之幫助。
+3](https://zh.wikipedia.org/wiki/:GNU通用公共许可证#%E6%A2%9D%E6%AC%BE%E5%92%8C%E6%A2%9D%E4%BB%B6 "wikilink")）。這種特性對於在GPL函式庫或應用程式中直接使用LGPL程式有一定程度之幫助。
 
 ## 编程语言要求
 
-LGPL 协议主要是面向使用 [C语言](../Page/C语言.md "wikilink") 以及类 C 语言。Franz Inc. 发布了
-LLGPL 协议，增加了序言部分以澄清 [LISP](../Page/LISP.md "wikilink") 语言中的上下文问题。\[1\]
+LGPL 协议主要是面向使用 [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink") 以及类 C
+语言。Franz Inc. 发布了 LLGPL 协议，增加了序言部分以澄清 [LISP](../Page/LISP.md "wikilink")
+语言中的上下文问题。\[1\]
 
 另外 [Ada](../Page/Ada.md "wikilink") 语言还有一个特殊的特性——泛型，所以需要使用 LGPL 的另一个变种
 [GNAT Modified General Public
@@ -34,7 +35,7 @@ License](../Page/GMGPL.md "wikilink")：允许代码链接一些特殊情况，�
 
 ## 可闭源特性
 
-由于许多程序员都弄不清各種許可證之間的差別，導致一些开源项目成為了小部份別有用心人士所利用的對象，較著名的例子有[DivX](../Page/DivX.md "wikilink")，早期DivX雛形是一個使用LGPL许可证的自由軟體，由大部份優秀的軟體高手義務地開發，但當軟體漸漸成形時，DivX的公司[DXN利用LGPL的漏洞對DivX進行了閉源](../Page/DXN.md "wikilink")，大部分軟體愛好者都感到被出賣，所以著手開發了[XviD](../Page/XviD.md "wikilink")。雖然XviD在軟體方面明顯比DivX優秀，但市場占有率卻不如DivX。
+由于许多程序员都弄不清各種許可證之間的差別，導致一些开源项目成為了小部份別有用心人士所利用的對象，較著名的例子有[DivX](../Page/DivX.md "wikilink")，早期DivX雛形是一個使用LGPL许可证的自由軟體，由大部份優秀的軟體高手義務地開發，但當軟體漸漸成形時，DivX的公司[DXN利用LGPL的漏洞對DivX進行了閉源](https://zh.wikipedia.org/wiki/DXN "wikilink")，大部分軟體愛好者都感到被出賣，所以著手開發了[XviD](https://zh.wikipedia.org/wiki/XviD "wikilink")。雖然XviD在軟體方面明顯比DivX優秀，但市場占有率卻不如DivX。
 
 ## 参见
 

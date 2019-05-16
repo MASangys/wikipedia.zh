@@ -1,9 +1,9 @@
 企业级JavaBean（Enterprise JavaBean, **EJB**）是一个用来构筑企业级应用的服务器端可被管理组件。
 
 [Java企业版API](../Page/Java.md "wikilink")（Java Enterprise
-Edition）中提供了对EJB的规范。EJB是一个封装有某个应用程序之业务逻辑服务器端组件。EJB最早于1997年由IBM提出，旋即被[太阳微系统采用并形成标准](../Page/升阳公司.md "wikilink")（EJB
+Edition）中提供了对EJB的规范。EJB是一个封装有某个应用程序之业务逻辑服务器端组件。EJB最早于1997年由IBM提出，旋即被[太阳微系统采用并形成标准](https://zh.wikipedia.org/wiki/升阳公司 "wikilink")（EJB
 1.0 和EJB 1.1）。其后在Java社区进程（Java Community
-Process）支持下陆续有一些[JSR被制订来定义新的EJB标准](../Page/JSR.md "wikilink")，分别是JSR
+Process）支持下陆续有一些[JSR被制订来定义新的EJB标准](https://zh.wikipedia.org/wiki/JSR "wikilink")，分别是JSR
 19 (EJB 2.0), JSR 153 (EJB 2.1) 以及最新的JSR 220 (EJB 3.0)。
 
 EJB规范的目的在于为企业及应用开发人员实现后台业务提供一个标准方式，从而解决一些此前总是在作业过程中总是重复发生的问题。EJB以一个标准方式自动处理了诸如数据持久化，事务整合，安全对策等不同应用的共有问题，使得软件开发人员可以专注于程序的特定需求而不再饱受那些非业务元素的困扰。
@@ -13,14 +13,14 @@ EJB规范的目的在于为企业及应用开发人员实现后台业务提供�
   - 数据持久化
   - 事务处理
   - 并发控制
-  - 基于[JMS的事件驱动](../Page/JMS.md "wikilink")
-  - 基于[JNDI的名字和空间管理](../Page/JNDI.md "wikilink")
-  - 基于[JCE和](../Page/JCE.md "wikilink")[JAAS的安全管理](../Page/JAAS.md "wikilink")
+  - 基于[JMS的事件驱动](https://zh.wikipedia.org/wiki/JMS "wikilink")
+  - 基于[JNDI的名字和空间管理](https://zh.wikipedia.org/wiki/JNDI "wikilink")
+  - 基于[JCE和](https://zh.wikipedia.org/wiki/JCE "wikilink")[JAAS的安全管理](../Page/JAAS.md "wikilink")
   - 应用服务器端的软件组件部署
-  - 使用[RMI-IIOP协议的远程过程调用](../Page/RMI-IIOP.md "wikilink")
+  - 使用[RMI-IIOP协议的远程过程调用](https://zh.wikipedia.org/wiki/RMI-IIOP "wikilink")
   - 将业务方法暴露为[Web服务](../Page/Web服务.md "wikilink")
 
-此外，EJB定义文档还指定了[EJB容器和各EJB的角色定位](../Page/EJB容器.md "wikilink")，以及如何将EJB部署至EJB容器当中。
+此外，EJB定义文档还指定了[EJB容器和各EJB的角色定位](https://zh.wikipedia.org/wiki/EJB容器 "wikilink")，以及如何将EJB部署至EJB容器当中。
 
 [Java_EE_Enterprise_Java_Bean.JPG](https://zh.wikipedia.org/wiki/File:Java_EE_Enterprise_Java_Bean.JPG "fig:Java_EE_Enterprise_Java_Bean.JPG")
 
@@ -29,21 +29,21 @@ EJB规范的目的在于为企业及应用开发人员实现后台业务提供�
 ### 从拥抱到抛弃
 
 由于[IBM和](../Page/IBM.md "wikilink")[Sun
-Microsystems等EJB提倡者力推其前景](../Page/Sun_Microsystems.md "wikilink")，起初一些大公司纷纷采用EJB部署他们的系统。然而随后各种问题便接踵而至，对EJB的恶评短时间内激增。对于初学者，EJB的[API显得太过困难](../Page/API.md "wikilink")；对于许多程序员来说，书写那些必须抛出特定异常的接口并将bean类作为抽象类实现的做法既不直观也不正常。当然，EJB所被赋予的使命，如对象关系映射和事务管理确实有其天然复杂性，但其API之复杂还是令开发人员们觉得望而却步，一些人开始怀疑EJB除了引入了复杂的实现手段以外似乎并未带来什么实际好处。
+Microsystems等EJB提倡者力推其前景](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")，起初一些大公司纷纷采用EJB部署他们的系统。然而随后各种问题便接踵而至，对EJB的恶评短时间内激增。对于初学者，EJB的[API显得太过困难](https://zh.wikipedia.org/wiki/API "wikilink")；对于许多程序员来说，书写那些必须抛出特定异常的接口并将bean类作为抽象类实现的做法既不直观也不正常。当然，EJB所被赋予的使命，如对象关系映射和事务管理确实有其天然复杂性，但其API之复杂还是令开发人员们觉得望而却步，一些人开始怀疑EJB除了引入了复杂的实现手段以外似乎并未带来什么实际好处。
 
 另外，实际运用中被发现，如果使用EJB来封装业务逻辑会带来性能上的下降。这是因为，最早的EJB规范只允许客户端通过特定协议（如[CORBA](../Page/CORBA.md "wikilink")）进行远程方法调用来调用，即使大部分实际应用根本就不需要分布式计算。直到EJB
 2.0才引入了本地接口，以支持可以开发不通过网络就能直接本地调用的EJB系统。
 
 尽管如此，EJB的广泛普及仍然为其复杂度所制约。尽管已经有一些高质量的整合开发工具可以协助开发人员通过自动编码解决一部分重复作业，但这并不能降低学习此项技术的难度。另一方面，“草根阶层”的编程爱好者们发起了一场旨在使用
-“轻量级”技术以代替复杂的EJB的运动。这些技术包括[Hibernate](../Page/Hibernate.md "wikilink")（用于提供数据持久化和对象-关系映射）及[Spring框架](../Page/Spring.md "wikilink")（用于封装业务逻辑）。尽管它们不像EJB那样有巨头支持，但其在庶民间却更加流行，并且也被一些对EJB深感失望的企业所采用。
+“轻量级”技术以代替复杂的EJB的运动。这些技术包括[Hibernate](../Page/Hibernate.md "wikilink")（用于提供数据持久化和对象-关系映射）及[Spring框架](https://zh.wikipedia.org/wiki/Spring "wikilink")（用于封装业务逻辑）。尽管它们不像EJB那样有巨头支持，但其在庶民间却更加流行，并且也被一些对EJB深感失望的企业所采用。
 
 ### 重生
 
 EJB规范起初的一个主要价值—对分布式应用进行事务管理—在随后的实践中被一致认为几乎没能派上用场。对于企业级应用来说，Spring和Hibernate等简化框架更加实用。因此，EJB
 3.0规范（JSR 220）为了迎合这个趋势相比于其前辈进行了一次激进的大跳跃。受到Spring 影响，EJB
-3.0也使用所谓的“传统简单Java对象（[POJO](../Page/POJO.md "wikilink")）”；同时，支持依赖注入来简化全异系统的整合与配置。Hibernate的创始人Gavin
+3.0也使用所谓的“传统简单Java对象（[POJO](https://zh.wikipedia.org/wiki/POJO "wikilink")）”；同时，支持依赖注入来简化全异系统的整合与配置。Hibernate的创始人Gavin
 King参与了这一新版规范的制订，并对EJB大加提倡。Hibernate的许多特性也被引入到Java持久化API当中，从而取代原来的实体bean。EJB
-3.0规范大幅采用[Java注释](../Page/Java注释.md "wikilink")（annotation）来对代码进行元数据修饰，从而消减了此前EJB编程的冗杂性。
+3.0规范大幅采用[Java注释](https://zh.wikipedia.org/wiki/Java注释 "wikilink")（annotation）来对代码进行元数据修饰，从而消减了此前EJB编程的冗杂性。
 
 相应地，EJB 3.0几乎成为了一个全新的API，与此前的数版可谓毫无相似度可言。
 
@@ -170,6 +170,6 @@ EJB3.0起开始广泛使用Java注释替代传统的部署描述符ejb-jar.xml�
   - 定义了EJB和EJB容器的作用，实现与互动。
   - 提供了最早的开发者与用户视图。
 
-[分类:Java企业平台](../Page/分类:Java企业平台.md "wikilink")
+[分类:Java企业平台](https://zh.wikipedia.org/wiki/分类:Java企业平台 "wikilink")
 
 [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")

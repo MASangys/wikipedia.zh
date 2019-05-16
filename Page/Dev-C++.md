@@ -1,8 +1,8 @@
-**Dev-C++**是一套用於開發C/C++（C++11）的[自由的](../Page/自由软件.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE），並以[GPL作為散佈許可](../Page/GNU通用公共许可证.md "wikilink")。使用[MinGW及](../Page/MinGW.md "wikilink")[GDB作為編譯系統與除錯系統](../Page/GDB.md "wikilink")。Dev-C++的IDE是利用[Delphi開發的](../Page/Delphi.md "wikilink")。
+**Dev-C++**是一套用於開發C/C++（C++11）的[自由的](../Page/自由软件.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE），並以[GPL作為散佈許可](../Page/GNU通用公共许可证.md "wikilink")。使用[MinGW及](../Page/MinGW.md "wikilink")[GDB作為編譯系統與除錯系統](https://zh.wikipedia.org/wiki/GDB "wikilink")。Dev-C++的IDE是利用[Delphi開發的](../Page/Delphi.md "wikilink")。
 
 Dev-C++是一個[SourceForge的計畫](../Page/SourceForge.md "wikilink")，是由Colin
 Laplace這位程式設計師及其公司Bloodshed Software所開始的。目前Dev-C++一般用於撰寫執行於[Microsoft
-Windows的程式](../Page/Microsoft_Windows.md "wikilink")。Dev-C++一度有移植到[Linux的計畫但目前被暫停了](../Page/Linux.md "wikilink")。
+Windows的程式](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Dev-C++一度有移植到[Linux的計畫但目前被暫停了](../Page/Linux.md "wikilink")。
 
 Bloodshed Dev-C++是一款全功能的C和C++编程语言的集成开发环境（IDE）。它使用的GCC
 MinGW或TDM-GCC的64位版本作为它的编译器。DEV-C++也可以使用Cygwin或任何其他基于GCC编译器组合使用。
@@ -20,24 +20,27 @@ Laplace曾经对此作出了解释：“因忙于现实生活的事务，沒有�
 
 ## 衍生版本
 
-  - [wxDev-C++](../Page/wxDev-C++.md "wikilink")：由Colin
-    Laplace领衔开发，加入了基于[WxWidgets的](../Page/WxWidgets.md "wikilink")[RAD](../Page/RAD.md "wikilink")（快速应用程序开发）环境，可以在窗体设计器中实现对话框、框架等的可视化开发，功能类似于[Delphi](../Page/Delphi.md "wikilink")。
+  - [wxDev-C++](https://zh.wikipedia.org/wiki/wxDev-C++ "wikilink")：由Colin
+    Laplace领衔开发，加入了基于[WxWidgets的](../Page/WxWidgets.md "wikilink")[RAD](https://zh.wikipedia.org/wiki/RAD "wikilink")（快速应用程序开发）环境，可以在窗体设计器中实现对话框、框架等的可视化开发，功能类似于[Delphi](../Page/Delphi.md "wikilink")。
   - [Orwell
     Dev-C++](../Page/Orwell_Dev-C++.md "wikilink")：由Orwell领衔开发。2011年6月30日，Orwell释放出非官方版本的Dev-C++
     4.9.9.3版\[2\]，加入了更新的[GCC](../Page/GCC.md "wikilink")
-    4.5.2編譯器、Windows的[軟體開發套件](../Page/軟體開發套件.md "wikilink")（支援Win32以及D3D），修正了許多錯誤，改善了穩定度。同年8月27日，在官方更新最后一个測試版4.9.9.2的六年後，Orwell释放出非官方版本的Dev-C++
+    4.5.2編譯器、Windows的[軟體開發套件](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")（支援Win32以及D3D），修正了許多錯誤，改善了穩定度。同年8月27日，在官方更新最后一个測試版4.9.9.2的六年後，Orwell释放出非官方版本的Dev-C++
     5.0.0.0版\[3\]。從5.0.0.5版起，Orwell
     Dev-C++在[SourceForge安家落户](../Page/SourceForge.md "wikilink")。
 
 ## 參見
 
   - [Anjuta](../Page/Anjuta.md "wikilink")
-  - [Code::Blocks](../Page/Code::Blocks.md "wikilink")
+  - [Code::Blocks](https://zh.wikipedia.org/wiki/Code::Blocks "wikilink")
   - [C++ Builder](../Page/C++Builder.md "wikilink")
   - [Eclipse](../Page/Eclipse.md "wikilink") CDT
-  - [IBM VisualAge C++](../Page/IBM_VisualAge_C_Plus_Plus.md "wikilink")
-  - [Motorola CodeWarrior](../Page/Motorola_CodeWarrior.md "wikilink")
-  - [Sun C++ Forge](../Page/Sun_C_Plus_Plus_Forge.md "wikilink")
+  - [IBM VisualAge
+    C++](https://zh.wikipedia.org/wiki/IBM_VisualAge_C_Plus_Plus "wikilink")
+  - [Motorola
+    CodeWarrior](https://zh.wikipedia.org/wiki/Motorola_CodeWarrior "wikilink")
+  - [Sun C++
+    Forge](https://zh.wikipedia.org/wiki/Sun_C_Plus_Plus_Forge "wikilink")
   - [Microsoft Visual C++](../Page/Microsoft_Visual_C++.md "wikilink")
 
 ## 參考連結

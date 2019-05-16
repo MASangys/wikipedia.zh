@@ -1,5 +1,5 @@
 **MathType**是由[Design
-Science公司设计的一个可以在Word](../Page/Design_Science.md "wikilink")、PowerPoint等字处理软件和演示程序中编辑科学[公式编辑器](../Page/公式编辑器.md "wikilink")。支持[TeX和](../Page/TeX.md "wikilink")[LaTeX](../Page/LaTeX.md "wikilink")，以及国际标准[MathML](../Page/MathML.md "wikilink")，并能够把公式转化为支持[Web的各种图形](../Page/Web.md "wikilink")（[GIF等](../Page/GIF.md "wikilink")），也支持[WMF和](../Page/WMF.md "wikilink")[EPS输出](../Page/EPS.md "wikilink")。截至2018年9月，目前最新的版本是7.3（Windows中文版）。
+Science公司设计的一个可以在Word](https://zh.wikipedia.org/wiki/Design_Science "wikilink")、PowerPoint等字处理软件和演示程序中编辑科学[公式编辑器](https://zh.wikipedia.org/wiki/公式编辑器 "wikilink")。支持[TeX和](../Page/TeX.md "wikilink")[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")，以及国际标准[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")，并能够把公式转化为支持[Web的各种图形](https://zh.wikipedia.org/wiki/Web "wikilink")（[GIF等](../Page/GIF.md "wikilink")），也支持[WMF和](../Page/WMF.md "wikilink")[EPS输出](../Page/EPS.md "wikilink")。截至2018年9月，目前最新的版本是7.3（Windows中文版）。
 
 MathType是强大的数学公式编辑器，与常见的文字处理软件和演示程序配合使用，能够在各种文档中加入复杂的数学公式和符号，可用在编辑数学试卷、书籍、报刊、论文、幻灯演示等方面，是编辑数学资料的得力工具。MathType与常见文字处理工具紧密结合，支持OLE（对象的链接与嵌入），可以在任何支持OLE的文字处理系统中调用（从主菜单中选择"插入-\>对象"在新对象中选择"MathType"），帮助用户快速建立专业化的数学技术文档，对Word或WPS等文字处理系统的支持相当好。
 
@@ -13,7 +13,7 @@ Macintosh环境中各种文字处理软件和出版软件兼容。
 
 ## 参见
 
-  - [方程式編輯器](../Page/方程式编辑器.md "wikilink")
+  - [方程式編輯器](https://zh.wikipedia.org/wiki/方程式编辑器 "wikilink")
 
 ## 外部連結
 

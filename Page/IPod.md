@@ -1,53 +1,55 @@
-是一款[苹果公司设计和销售的便携式多功能](../Page/苹果公司.md "wikilink")[數位多媒體播放器](../Page/數位音訊播放器.md "wikilink")。iPod系列中的产品都提供设计简单易用的[用户界面](../Page/用户界面.md "wikilink")，除[iPod
-touch与第六](../Page/iPod_touch.md "wikilink")、七代[iPod
-nano](../Page/iPod_nano.md "wikilink")、[iPod
-shuffle外皆由一个环形滚轮](../Page/iPod_shuffle.md "wikilink")—[iPod
+是一款[苹果公司设计和销售的便携式多功能](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[數位多媒體播放器](../Page/數位音訊播放器.md "wikilink")。iPod系列中的产品都提供设计简单易用的[用户界面](../Page/用户界面.md "wikilink")，除[iPod
+touch与第六](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")、七代[iPod
+nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")、[iPod
+shuffle外皆由一个环形滚轮](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")—[iPod
 Click
-Wheel操作](../Page/IPod_click_wheel.md "wikilink")。在早期，大多数iPod产品使用内置的[硬盘储存媒介](../Page/硬盘.md "wikilink")，而iPod
+Wheel操作](https://zh.wikipedia.org/wiki/IPod_click_wheel "wikilink")。在早期，大多数iPod产品使用内置的[硬盘储存媒介](../Page/硬盘.md "wikilink")，而iPod
 nano、iPod shuffle及iPod
 touch则早已采用[-{zh-hans:闪存;zh-hant:快閃記憶體}-](../Page/闪存.md "wikilink")。iPod也可以作为[电脑的外置数据储存设备使用](../Page/電子計算機.md "wikilink")。
 
-苹果公司按[iMac的命名方式](../Page/iMac.md "wikilink")，将數位音乐播放器命名为iPod。
+苹果公司按[iMac的命名方式](https://zh.wikipedia.org/wiki/iMac "wikilink")，将數位音乐播放器命名为iPod。
 
 ## 历史
 
-发明iPod是在[iTunes之后](../Page/iTunes.md "wikilink")，2000年，当时人们因为[Napster网站的关系](../Page/Napster.md "wikilink")，已经有了从网络下载音乐再刻录的习惯，苹果电脑執行長[乔布斯](../Page/乔布斯.md "wikilink")（Steve
-Jobs）觉得刻录太麻烦，他开始构思通过iTunes软件和iPod硬件传输歌曲的一种流程个项目。当时市面上已经有了类似的播放器，但是大多数都很差，播放歌曲也少得可怜，待机时间短。乔布斯任命[喬恩·魯賓斯坦](../Page/喬恩·魯賓斯坦.md "wikilink")（Jon
+发明iPod是在[iTunes之后](https://zh.wikipedia.org/wiki/iTunes "wikilink")，2000年，当时人们因为[Napster网站的关系](../Page/Napster.md "wikilink")，已经有了从网络下载音乐再刻录的习惯，苹果电脑執行長[乔布斯](https://zh.wikipedia.org/wiki/乔布斯 "wikilink")（Steve
+Jobs）觉得刻录太麻烦，他开始构思通过iTunes软件和iPod硬件传输歌曲的一种流程个项目。当时市面上已经有了类似的播放器，但是大多数都很差，播放歌曲也少得可怜，待机时间短。乔布斯任命[喬恩·魯賓斯坦](https://zh.wikipedia.org/wiki/喬恩·魯賓斯坦 "wikilink")（Jon
 Rubinstein）开发这个项目。鲁宾斯坦收购了[东芝最新的](../Page/东芝.md "wikilink")1.8英寸5GB的小硬盘的专利，并且确定了电池和屏幕等重要原件。再雇来了另外一位iPod之父[托尼·法戴爾](../Page/托尼·法戴爾.md "wikilink")（Tony
-Fadell）。此人在加入苹果之前已经做着一些[MP3播放器的工作](../Page/MP3播放器.md "wikilink")。
+Fadell）。此人在加入苹果之前已经做着一些[MP3播放器的工作](https://zh.wikipedia.org/wiki/MP3播放器 "wikilink")。
 
-苹果电脑最初把iPod作为[Mac用户的独有的产品销售](../Page/麦金塔电脑.md "wikilink")，但由于非Mac用户需求增加，公司加入了对[Windows的兼容](../Page/Microsoft_Windows.md "wikilink")。到2004年1月，iPod成为全[美国最受欢迎的数码音乐播放器](../Page/美國.md "wikilink")，占领了50%的市場-{zh-cn:份额;
-zh-tw:比率;}-。到了2004年10月，iPod统治了美国的数位音乐播放器的销售，拥有超过92%的硬碟播放器和超过65%的所有类型播放器的市场。iPod以极高的速率销售，在三年时间内总共销售了超过一千万部。它对文化产生了重大的冲击。此外，研究指出iPod担当了一种“[上瘾](../Page/上瘾.md "wikilink")[毒品](../Page/毒品.md "wikilink")”或具有一种“[晕轮效应](../Page/晕轮效应.md "wikilink")”的产品，鼓励PC用户转到苹果电脑的其他产品，如：[Macintosh电脑](../Page/Macintosh.md "wikilink")。
+苹果电脑最初把iPod作为[Mac用户的独有的产品销售](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")，但由于非Mac用户需求增加，公司加入了对[Windows的兼容](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。到2004年1月，iPod成为全[美国最受欢迎的数码音乐播放器](https://zh.wikipedia.org/wiki/美國 "wikilink")，占领了50%的市場-{zh-cn:份额;
+zh-tw:比率;}-。到了2004年10月，iPod统治了美国的数位音乐播放器的销售，拥有超过92%的硬碟播放器和超过65%的所有类型播放器的市场。iPod以极高的速率销售，在三年时间内总共销售了超过一千万部。它对文化产生了重大的冲击。此外，研究指出iPod担当了一种“[上瘾](https://zh.wikipedia.org/wiki/上瘾 "wikilink")[毒品](../Page/毒品.md "wikilink")”或具有一种“[晕轮效应](../Page/晕轮效应.md "wikilink")”的产品，鼓励PC用户转到苹果电脑的其他产品，如：[Macintosh电脑](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。
 
-2006年10月18日，苹果电脑公司宣布，在9月12日以后出厂、在市面上销售的部分视频iPod产品中，约有1%被[RavMonE.exe病毒感染](../Page/RavMonE.exe.md "wikilink")。这种病毒只会对微软Windows造成影响，用户可使用最新的iTunes程序移除。經調查後發現某生产车间一部使用Windows的电脑是病毒感染的源头。\[1\]
+2006年10月18日，苹果电脑公司宣布，在9月12日以后出厂、在市面上销售的部分视频iPod产品中，约有1%被[RavMonE.exe病毒感染](https://zh.wikipedia.org/wiki/RavMonE.exe "wikilink")。这种病毒只会对微软Windows造成影响，用户可使用最新的iTunes程序移除。經調查後發現某生产车间一部使用Windows的电脑是病毒感染的源头。\[1\]
 
 ## 功能
 
 ### 軟體
 
-iPod可以播放[MP3](../Page/MP3.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[AAC](../Page/AAC.md "wikilink")/[M4A](../Page/AAC.md "wikilink")、受保護的AAC、[AIFF](../Page/AIFF.md "wikilink")、[有聲書籍和](../Page/有聲書籍.md "wikilink")[Apple
-Lossless](../Page/Apple_Lossless.md "wikilink")[文件格式](../Page/文件格式.md "wikilink")。第五代的iPod也支援[MPEG-4](../Page/MPEG-4.md "wikilink")、[MP4和](../Page/MP4.md "wikilink")[QuickTime影片格式](../Page/QuickTime.md "wikilink")。但不能播放[Ogg
-Vorbis](../Page/Ogg_Vorbis.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Windows
+iPod可以播放[MP3](../Page/MP3.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")/[M4A](https://zh.wikipedia.org/wiki/AAC "wikilink")、受保護的AAC、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")、[有聲書籍和](https://zh.wikipedia.org/wiki/有聲書籍 "wikilink")[Apple
+Lossless](../Page/Apple_Lossless.md "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。第五代的iPod也支援[MPEG-4](../Page/MPEG-4.md "wikilink")、[MP4和](../Page/MP4.md "wikilink")[QuickTime影片格式](../Page/QuickTime.md "wikilink")。但不能播放[Ogg
+Vorbis](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Windows
 Media
-Audio](../Page/WMA.md "wikilink")（WMA）或[RealAudio文件](../Page/RealAudio.md "wikilink")。Windows版本的iTunes可以把沒有[拷貝保護的WMA編碼為AAC](../Page/拷貝保護.md "wikilink")、MP3、ALAC或WAV格式傳送到iPod中。
+Audio](https://zh.wikipedia.org/wiki/WMA "wikilink")（WMA）或[RealAudio文件](https://zh.wikipedia.org/wiki/RealAudio "wikilink")。Windows版本的iTunes可以把沒有[拷貝保護的WMA編碼為AAC](https://zh.wikipedia.org/wiki/拷貝保護 "wikilink")、MP3、ALAC或WAV格式傳送到iPod中。
 
 蘋果電腦把iPod設計為與iTunes媒體庫軟體件一起工作，用此軟體能讓用戶在自己的電腦和iPod上管理自己的音樂庫。iTunes在每次iPod連接到電腦主機時，可以把特定的播放列表或把整個音樂庫自動同步到用戶的iPod裡。用戶可以為每首歌評級（最高5顆星），也可以與主機同步訊息。
 
-除了音樂播放和文件儲存外，iPod還具有[PDA功能](../Page/PDA.md "wikilink")：用戶可以把Mac上的[通訊錄和](../Page/通訊錄_\(Mac\).md "wikilink")[iCal應用軟體中的資料儲存在設備上](../Page/iCal.md "wikilink")，並可以顯示備忘錄，但用戶無法在iPod上編輯這些訊息。
+除了音樂播放和文件儲存外，iPod還具有[PDA功能](https://zh.wikipedia.org/wiki/PDA "wikilink")：用戶可以把Mac上的[通訊錄和](https://zh.wikipedia.org/wiki/通訊錄_\(Mac\) "wikilink")[iCal應用軟體中的資料儲存在設備上](https://zh.wikipedia.org/wiki/iCal "wikilink")，並可以顯示備忘錄，但用戶無法在iPod上編輯這些訊息。
 
-除了[iPod shuffle和第](../Page/iPod_shuffle.md "wikilink")6、7代[iPod
-nano外](../Page/iPod_nano.md "wikilink")，所有的iPod都帶有遊戲，或者可以通過[iTunes
-Store安裝遊戲](../Page/iTunes_Store.md "wikilink")（iPod
-touch）。一代和二代有稱為「Brick」的遊戲，複製自蘋果電腦的共同創造者[斯蒂夫·沃茲尼亞克編寫的](../Page/斯蒂夫·沃茲尼亞克.md "wikilink")[Breakout遊戲](../Page/Breakout_\(遊戲\).md "wikilink")。三代之後至五代之前（含）的機型（Shuffle除外）除了「Brick」外還擁有有三個其他遊戲：
+除了[iPod
+shuffle和第](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")6、7代[iPod
+nano外](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")，所有的iPod都帶有遊戲，或者可以通過[iTunes
+Store安裝遊戲](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（iPod
+touch）。一代和二代有稱為「Brick」的遊戲，複製自蘋果電腦的共同創造者[斯蒂夫·沃茲尼亞克編寫的](https://zh.wikipedia.org/wiki/斯蒂夫·沃茲尼亞克 "wikilink")[Breakout遊戲](../Page/Breakout_\(遊戲\).md "wikilink")。三代之後至五代之前（含）的機型（Shuffle除外）除了「Brick」外還擁有有三個其他遊戲：
 
-  - Parachute：用戶控制一座炮塔擊落像素直升機和上面跳下來的傘兵。Parachute克隆自[馬克·艾倫為](../Page/馬克·艾倫.md "wikilink")[Apple
+  - Parachute：用戶控制一座炮塔擊落像素直升機和上面跳下來的傘兵。Parachute克隆自[馬克·艾倫為](https://zh.wikipedia.org/wiki/馬克·艾倫 "wikilink")[Apple
     II製作的](../Page/Apple_II.md "wikilink")「Sabotage」遊戲。
   - Solitaire：類似單人紙牌遊戲「Klondike」的簡單紙牌遊戲。
   - Music Quiz：從iPod mini和四代iPod開始增加為標準遊戲，並成為三代iPod的免費更新。「Music
     Quiz」播放任意歌曲的一部分，並讓用戶從列表的五首歌中選擇正確答案。每幾秒就從列表中刪除一首歌名，如果用戶越早找到答案將得到越多的分數。
 
-第6代的[iPod classic](../Page/iPod_classic.md "wikilink")，第3、4代的[iPod
-nano則內建有以下的遊戲](../Page/iPod_nano.md "wikilink")，除此之外上述款式及五代iPod也可以在iTunes
+第6代的[iPod
+classic](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")，第3、4代的[iPod
+nano則內建有以下的遊戲](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")，除此之外上述款式及五代iPod也可以在iTunes
 Store上購買到以下遊戲：
 
   - iQuiz：Music Quiz的升級版，裡面又含有Music Quiz
@@ -61,17 +63,17 @@ nano將iQuiz改為以通过倾斜播放器使鋼珠向低处滚动走[迷宮獲�
 ### 硬件
 
 除了iPod
-shuffle外，所有的iPod都提供[火线](../Page/iEEE_1394.md "wikilink")（Firewire）接口。虽然最近苹果电脑停止随iPod
+shuffle外，所有的iPod都提供[火线](https://zh.wikipedia.org/wiki/iEEE_1394 "wikilink")（Firewire）接口。虽然最近苹果电脑停止随iPod
 mini和iPod
-photo型号提供火线电缆，更倾向于随三代iPod开始使用的[USB](../Page/通用串行总线.md "wikilink")
+photo型号提供火线电缆，更倾向于随三代iPod开始使用的[USB](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink")
 2.0接口。iPod使用连接电脑时火线或USB总线（只有四代或更高）提供的能量或连接iPod交流电源适配器为内置的电池充电。无论是USB和火线都有适配器存在。iPod
 shuffle通常使用USB电源适配器。
 
-在头三代的iPod中使用两颗[ARM](../Page/ARM.md "wikilink")7TDMI衍生的主频为90MHz的[CPU](../Page/中央处理器.md "wikilink")，之后的型号使用最高主频为80MHz的可变芯片以节省电量。iPod使用由[东芝制造的超薄](../Page/东芝.md "wikilink")1.8英寸（46毫米）ATA硬碟（使用非标准的接口），而在iPod
+在头三代的iPod中使用两颗[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")7TDMI衍生的主频为90MHz的[CPU](../Page/中央处理器.md "wikilink")，之后的型号使用最高主频为80MHz的可变芯片以节省电量。iPod使用由[东芝制造的超薄](../Page/东芝.md "wikilink")1.8英寸（46毫米）ATA硬碟（使用非标准的接口），而在iPod
 mini中最早使用的是[日立制造的](../Page/日立製作所.md "wikilink")1英寸Compact
-Flash硬碟，后来改用[希捷的硬碟](../Page/希捷公司.md "wikilink")。iPod有32MB的闪存ROM芯片包括引导程序，这个程序告诉设备从另一个媒介（在这裏是硬碟）中载入操作系统。所有的iPod都有32MB的内存，用于保持从韧体中载入的系统和最重要的是作为硬碟载入的歌曲缓冲使用。例如，iPod每次高速旋转硬碟后能拷贝播放列表中大约30MB的歌曲到内存中，这样就不需要每首歌都使硬碟旋转，以节省电能。
+Flash硬碟，后来改用[希捷的硬碟](https://zh.wikipedia.org/wiki/希捷公司 "wikilink")。iPod有32MB的闪存ROM芯片包括引导程序，这个程序告诉设备从另一个媒介（在这裏是硬碟）中载入操作系统。所有的iPod都有32MB的内存，用于保持从韧体中载入的系统和最重要的是作为硬碟载入的歌曲缓冲使用。例如，iPod每次高速旋转硬碟后能拷贝播放列表中大约30MB的歌曲到内存中，这样就不需要每首歌都使硬碟旋转，以节省电能。
 
-较新的iPod配件包括記憶卡读卡器、FM调谐器和录音模块。最知名的iPod配件制造商包括[贝尔金](../Page/贝尔金.md "wikilink")。其他的配件，如[Bose的扬声器系统和](../Page/Bose.md "wikilink")[宝马的车内音响界面](../Page/bMW.md "wikilink")，为iPod提供了底部的底座连接，并让用户把它放在底座上。这些连接提供控制和信息，同时作为传输声音信号和运行iPod或其配件的电源。值得用户注意的是并没有使用用户可更换的电池，当拥有者独自更换电池而做任何的焊接，将会使苹果电脑官方提供的任何保修无效。（在网络上，由Neistat兄弟制作名为“[iPod's
+较新的iPod配件包括記憶卡读卡器、FM调谐器和录音模块。最知名的iPod配件制造商包括[贝尔金](https://zh.wikipedia.org/wiki/贝尔金 "wikilink")。其他的配件，如[Bose的扬声器系统和](https://zh.wikipedia.org/wiki/Bose "wikilink")[宝马的车内音响界面](https://zh.wikipedia.org/wiki/bMW "wikilink")，为iPod提供了底部的底座连接，并让用户把它放在底座上。这些连接提供控制和信息，同时作为传输声音信号和运行iPod或其配件的电源。值得用户注意的是并没有使用用户可更换的电池，当拥有者独自更换电池而做任何的焊接，将会使苹果电脑官方提供的任何保修无效。（在网络上，由Neistat兄弟制作名为“[iPod's
 Dirty
 Secret](http://www.ipodsdirtysecret.com/)”的影片，并放在ipodsdirtysecret.com上以告诉消费者。但苹果电脑在2003年11月14日公布了电池更换计划，而Neistat兄弟的网站注册于同年11月20日，21日才开始宣传。）
 
@@ -85,40 +87,40 @@ Lansing的im616, 716。特别的是在iPod shuffle第三代产品上并没有控
   - Windows PC
 
 最初的iPod只相容于运行于[Mac OS 9或](../Page/Mac_OS_9.md "wikilink")[Mac OS
-X的Macintosh电脑](../Page/Mac_OS_X.md "wikilink")，但从2002年7月17日开始，苹果电脑开始销售兼容Windows的iPod，内建硬碟格式化为[FAT32以取代Mac专用的](../Page/FAT32.md "wikilink")[HFS+](../Page/HFS_Plus.md "wikilink")。\[2\]
+X的Macintosh电脑](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，但从2002年7月17日开始，苹果电脑开始销售兼容Windows的iPod，内建硬碟格式化为[FAT32以取代Mac专用的](https://zh.wikipedia.org/wiki/FAT32 "wikilink")[HFS+](https://zh.wikipedia.org/wiki/HFS_Plus "wikilink")。\[2\]
 苹果电脑在2003年10月16日推出Windows版的iTunes\[3\]；此前，Windows用户需要第三方的软件，如[Musicmatch
-Jukebox](../Page/Musicmatch_Jukebox.md "wikilink")（推出Windows版iTunes前，包含在Windows版iPod中）、[ephPod或](../Page/ephPod.md "wikilink")[XPlay以管理他们在iPod上的音乐](../Page/XPlay.md "wikilink")。
+Jukebox](https://zh.wikipedia.org/wiki/Musicmatch_Jukebox "wikilink")（推出Windows版iTunes前，包含在Windows版iPod中）、[ephPod或](https://zh.wikipedia.org/wiki/ephPod "wikilink")[XPlay以管理他们在iPod上的音乐](https://zh.wikipedia.org/wiki/XPlay "wikilink")。
 
-最新一代的带底座版iPod取消了Mac/Windows版的区别；所有iPod在附运时格式化为Macintosh格式，用户在购买后可以把它重新格式化为Windows格式使用。iPod的硬碟格式化为HFS+格式只能在Macintosh上操作，因为Windows不能读取HFS+，但自从Macintosh可以处理FAT32，被格式化为FAT32的iPod可以同时在Macintosh和Windows上操作。HFS+可以为储存数据提供多一点空间，而可以让iPod在Mac上作为[启动磁盘](../Page/启动磁盘.md "wikilink")。
+最新一代的带底座版iPod取消了Mac/Windows版的区别；所有iPod在附运时格式化为Macintosh格式，用户在购买后可以把它重新格式化为Windows格式使用。iPod的硬碟格式化为HFS+格式只能在Macintosh上操作，因为Windows不能读取HFS+，但自从Macintosh可以处理FAT32，被格式化为FAT32的iPod可以同时在Macintosh和Windows上操作。HFS+可以为储存数据提供多一点空间，而可以让iPod在Mac上作为[启动磁盘](https://zh.wikipedia.org/wiki/启动磁盘 "wikilink")。
 
-在2004年1月8日，[惠普宣布它们从苹果电脑获得授权](../Page/惠普公司.md "wikilink")，制造惠普品牌的数位音乐播放器，并口头称为*HPod*。由惠普当时的董事长和CEO[卡莉·费奥莉娜在](../Page/卡莉·費奧麗娜.md "wikilink")2004年[消费性电子展公布基于iPod的新款蓝色设备](../Page/消费性电子展.md "wikilink")。但蓝色的iPod并没有成为真正的产品，现在HP的版本与苹果电脑的iPod相同，以“Apple
+在2004年1月8日，[惠普宣布它们从苹果电脑获得授权](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")，制造惠普品牌的数位音乐播放器，并口头称为*HPod*。由惠普当时的董事长和CEO[卡莉·费奥莉娜在](../Page/卡莉·費奧麗娜.md "wikilink")2004年[消费性电子展公布基于iPod的新款蓝色设备](https://zh.wikipedia.org/wiki/消费性电子展 "wikilink")。但蓝色的iPod并没有成为真正的产品，现在HP的版本与苹果电脑的iPod相同，以“Apple
 iPod+HP”的名义销售。此款的零售商包括（尤其是）零售巨擎[沃尔玛等](../Page/沃尔玛.md "wikilink")，对此产品有一个免责声明：它不能使用它自己的在线音乐服务。
 
   - Linux和UNIX
 
-[iPodLinux计划成功使](../Page/iPodLinux.md "wikilink")[ARM版本的](../Page/ARM.md "wikilink")[Linux运行在iPod上](../Page/Linux.md "wikilink")。计划当前支持一至三代的iPod，并提供Mac
+[iPodLinux计划成功使](https://zh.wikipedia.org/wiki/iPodLinux "wikilink")[ARM版本的](https://zh.wikipedia.org/wiki/ARM "wikilink")[Linux运行在iPod上](../Page/Linux.md "wikilink")。计划当前支持一至三代的iPod，并提供Mac
 OS
 X和Windows上的简易安装器。[SourceForge计划为此计划存在](../Page/SourceForge.md "wikilink")
 [1](http://ipodlinux.sourceforge.net/)，并有大量的使用说明出现在网上。\[4\]
 
-iPod使用标准的USB和火线作为大容量储存器的连接，并因此任何支持大容量储存器的系统都能把它作为外置硬碟装载和使用。iPod可以使用任何的USB端口提供的电源充电，不需要软件的支持。一个特殊的数据库文件提供列出当前播放歌曲的，但是用户必须使用iTunes的软件才能上传歌曲。到2005年，只有[gtkpod提供类似的功能给](../Page/gtkpod.md "wikilink")[Linux和其他不同版本的](../Page/Linux.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")。苹果电脑并没有发布Linux版本的软件以刷新iPod上的[韌體](../Page/韌體.md "wikilink")。
+iPod使用标准的USB和火线作为大容量储存器的连接，并因此任何支持大容量储存器的系统都能把它作为外置硬碟装载和使用。iPod可以使用任何的USB端口提供的电源充电，不需要软件的支持。一个特殊的数据库文件提供列出当前播放歌曲的，但是用户必须使用iTunes的软件才能上传歌曲。到2005年，只有[gtkpod提供类似的功能给](https://zh.wikipedia.org/wiki/gtkpod "wikilink")[Linux和其他不同版本的](../Page/Linux.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")。苹果电脑并没有发布Linux版本的软件以刷新iPod上的[韌體](../Page/韌體.md "wikilink")。
 
 ## 設計
 
-[傑夫·羅賓帶領蘋果電腦的iPod韌體團隊](../Page/傑夫·羅賓.md "wikilink")。他的團隊整合了來自[PortalPlayer的韌體核心](../Page/PortalPlayer.md "wikilink")，與由[Pixo開發的用戶界面庫](../Page/Pixo.md "wikilink")。（Pixo的創立者曾經為蘋果電腦製造的[個人數碼助理](../Page/个人数码助理.md "wikilink")[Apple
+[傑夫·羅賓帶領蘋果電腦的iPod韌體團隊](https://zh.wikipedia.org/wiki/傑夫·羅賓 "wikilink")。他的團隊整合了來自[PortalPlayer的韌體核心](../Page/PortalPlayer.md "wikilink")，與由[Pixo開發的用戶界面庫](https://zh.wikipedia.org/wiki/Pixo "wikilink")。（Pixo的創立者曾經為蘋果電腦製造的[個人數碼助理](../Page/个人数码助理.md "wikilink")[Apple
 Newton工作](../Page/Apple_Newton.md "wikilink")。）Pixo庫提供用戶界面，雖然iPod
 photo結合一些來自Mac OS
-X的視覺要素，例如「[Aqua](../Page/Aqua\(Mac_OS_X\).md "wikilink")」款式的動畫效果進程條。大多數iPod的用戶界面（除mini和photo的款式外）使用「[Chicago](../Page/Chicago（字體）.md "wikilink")」字體，從1984年開始就被用於原版的Macintosh電腦上。iPod
+X的視覺要素，例如「[Aqua](https://zh.wikipedia.org/wiki/Aqua\(Mac_OS_X\) "wikilink")」款式的動畫效果進程條。大多數iPod的用戶界面（除mini和photo的款式外）使用「[Chicago](https://zh.wikipedia.org/wiki/Chicago（字體） "wikilink")」字體，從1984年開始就被用於原版的Macintosh電腦上。iPod
 mini使用「Espy
-Sans」字體，以前曾經被用於[eWorld](../Page/eWorld.md "wikilink")、Newton和[Copland](../Page/Copland.md "wikilink")。由於使用了部分較高的分辨率來顯示，iPod
+Sans」字體，以前曾經被用於[eWorld](https://zh.wikipedia.org/wiki/eWorld "wikilink")、Newton和[Copland](https://zh.wikipedia.org/wiki/Copland "wikilink")。由於使用了部分較高的分辨率來顯示，iPod
 photo及iPod video使用[Myriad
 Pro字體](../Page/Myriad.md "wikilink")、蘋果電腦的企業識別字體。iPod
 classic，第三代後的iPod nano及iPod
 touch則改用[Helvetica](../Page/Helvetica.md "wikilink")。
 
-設備的外殼扣在一起，沒有使用[螺絲和](../Page/螺絲.md "wikilink")[膠水](../Page/胶粘剂.md "wikilink")（雖然四代使用膠水把電池粘在機器裏）。塑料的前蓋夾緊金屬後蓋突起的外簷。維修時可以利用小[螺絲批小心地插入iPod的邊緣把金屬面從夾扣處撬開](../Page/螺丝起子.md "wikilink")。
+設備的外殼扣在一起，沒有使用[螺絲和](../Page/螺絲.md "wikilink")[膠水](https://zh.wikipedia.org/wiki/胶粘剂 "wikilink")（雖然四代使用膠水把電池粘在機器裏）。塑料的前蓋夾緊金屬後蓋突起的外簷。維修時可以利用小[螺絲批小心地插入iPod的邊緣把金屬面從夾扣處撬開](https://zh.wikipedia.org/wiki/螺丝起子 "wikilink")。
 
-iPod包含一個小的內置[揚聲器](../Page/揚聲器.md "wikilink")，以發出滾輪的卡嗒聲和[鬧鐘的嗶嗶聲](../Page/鬧鐘.md "wikilink")，但內置揚聲器不能播放音樂。
+iPod包含一個小的內置[揚聲器](../Page/揚聲器.md "wikilink")，以發出滾輪的卡嗒聲和[鬧鐘的嗶嗶聲](https://zh.wikipedia.org/wiki/鬧鐘 "wikilink")，但內置揚聲器不能播放音樂。
 
 ## 使用
 
@@ -148,33 +150,34 @@ Mode”。在四代以後（点击轮）的iPod上，按着Select和Play/Pause�
 iPod的韌體包含诊断菜单。在三代或更早的iPod上，重置它后按着Previous、Next和Select；在四代（点击轮）iPod上，按着Previous和Select键。在数秒后放开按键，设备会发出唧唧声并简单显示一个反向苹果标志，之后才显示诊断菜单。使用Previous和Next键（不能用滚轮）操控菜单，使用Select键选择。点击Play/Pause退出测试（苹果电脑从未有公开文件讲述诊断菜单的功能。）
 
 当iPod不能启动（无论是韌體还是硬體问题）就会显示 [“
-悲伤iPod”图片](http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/TS1373/TS1373_4.gif)，让人想起早期Macintosh电脑上的[悲伤Mac图标](../Page/悲伤Mac.md "wikilink")。
+悲伤iPod”图片](http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/TS1373/TS1373_4.gif)，让人想起早期Macintosh电脑上的[悲伤Mac图标](https://zh.wikipedia.org/wiki/悲伤Mac "wikilink")。
 
 ## 型号
 
 苹果电脑正在銷售的iPod產品仅有[iPod
-Touch一款](../Page/iPod_Touch.md "wikilink")，拥有不同的容量。其余型号都已停产，
+Touch一款](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")，拥有不同的容量。其余型号都已停产，
 
 ### iPod classic
 
 [IPod_classic.png](https://zh.wikipedia.org/wiki/File:IPod_classic.png "fig:IPod_classic.png")
 虽然所有iPod有类似的大小和相近的功能，但自从首部在市场销售后设计经历数个修订版。现在共有6种明显不同代的iPod存在，公认的名称为：1G（一代）、2G（二代）、3G（三代）、4G（四代）、5G（五代，又稱iPod
 video）和6G（六代，iPod classic）。（这些称号与[Power Macintosh
-G3](../Page/Power_Macintosh_G3.md "wikilink")、[G4或其他型号的Macintosh称号无关](../Page/Power_Macintosh_G4.md "wikilink")，同时不要把称号与储存容量搞混）。
+G3](../Page/Power_Macintosh_G3.md "wikilink")、[G4或其他型号的Macintosh称号无关](https://zh.wikipedia.org/wiki/Power_Macintosh_G4 "wikilink")，同时不要把称号与储存容量搞混）。
 
-在任一代iPod中，以硬碟容量的不同来区分不同型号，在市场上则反应为不同的售价。如在第三代中，同时存在三种不同容量的iPod，在[美国的价格分别是](../Page/美國.md "wikilink")$299、$399和$499。现在，苹果官方正销售第六代iPod：使用160GB硬碟，售$249美元\[5\]。注意：苹果电脑所声称1GB的储存容量能放250首4分钟的歌曲，是在使用iTunes软件把歌曲编码为128Kb/s的AAC文件的情况下。编码歌曲时使用更高的比率将使用更多的硬碟空间。在此比率测试下，当前30GB的iPod在苹果电脑的定义下能储存大约7500首歌曲。注意：任何硬碟格式化后的容量都会比实际容量小。
+在任一代iPod中，以硬碟容量的不同来区分不同型号，在市场上则反应为不同的售价。如在第三代中，同时存在三种不同容量的iPod，在[美国的价格分别是](https://zh.wikipedia.org/wiki/美國 "wikilink")$299、$399和$499。现在，苹果官方正销售第六代iPod：使用160GB硬碟，售$249美元\[5\]。注意：苹果电脑所声称1GB的储存容量能放250首4分钟的歌曲，是在使用iTunes软件把歌曲编码为128Kb/s的AAC文件的情况下。编码歌曲时使用更高的比率将使用更多的硬碟空间。在此比率测试下，当前30GB的iPod在苹果电脑的定义下能储存大约7500首歌曲。注意：任何硬碟格式化后的容量都会比实际容量小。
 
 ### iPod mini
 
 [IPod_mini.png](https://zh.wikipedia.org/wiki/File:IPod_mini.png "fig:IPod_mini.png")
 苹果电脑在2004年1月进入“微型”数码音乐播放器市场，同时公布iPod
 mini，直接与[创新](../Page/创新科技.md "wikilink")[Zen
-Micro和](../Page/Zen_Micro.md "wikilink")[Digital
-Networks的](../Page/Digital_Networks.md "wikilink")[Rio
-Carbon竞争](../Page/Rio_Carbon.md "wikilink")。iPod
+Micro和](https://zh.wikipedia.org/wiki/Zen_Micro "wikilink")[Digital
+Networks的](https://zh.wikipedia.org/wiki/Digital_Networks "wikilink")[Rio
+Carbon竞争](https://zh.wikipedia.org/wiki/Rio_Carbon "wikilink")。iPod
 mini与全尺寸的iPod有非常多相似的功能，但缺少第三方的配件的支持。它使用较小的1.67英寸（對角）的灰階[液晶顯示屏](../Page/液晶显示器.md "wikilink")，比过去的版本减少数行的显示，屏幕上的限制使播放音乐时只能显示标题和演唱者。
 
-iPod mini使用[微型硬盘作为储存器](../Page/微型硬盘.md "wikilink")。它是iPod裡除了iPod
+iPod
+mini使用[微型硬盘作为储存器](https://zh.wikipedia.org/wiki/微型硬盘 "wikilink")。它是iPod裡除了iPod
 shuffle外最小巧的一款，基本上可說是標準型iPod的降階縮小版。但自從iPod nano推出後，它的小巧地位被打破，但是iPod
 shuffle仍保最細小iPod的地位。
 
@@ -195,7 +198,7 @@ mini投入市场，并带有新的6GB型号（售$249）和升级的4GB版本（
 mini取消前一代所提供的交流电适配器和火线线缆。
 
 2005年9月，苹果公司宣布iPod mini停产，发布新的小容量iPod产品[iPod
-nano](../Page/iPod_nano.md "wikilink")。
+nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")。
 
 ### iPod shuffle
 
@@ -203,11 +206,11 @@ nano](../Page/iPod_nano.md "wikilink")。
 
 苹果电脑在2005年1月11日的Macworld Conference & Expo上发布iPod shuffle，并配以“Life is
 random”（官方翻译：生活随机演绎）和“Give chance a
-chance”（非官方翻译：给偶然一个机会）的[标语](../Page/标语.md "wikilink")。iPod
+chance”（非官方翻译：给偶然一个机会）的[标语](https://zh.wikipedia.org/wiki/标语 "wikilink")。iPod
 shuffle首次使用[闪存](../Page/闪存.md "wikilink")（Flash
 Memory）作為儲存媒介的機種。shuffle包括两种型号：512MB（存120首以128kbit/s编码的4分钟歌曲）和1GB（存240首歌）。与其他iPod型号不同的是，iPod
 shuffle不能播放Apple
-Lossless和AIFF编码的音乐文件，因为它所使用的[SigmaTel处理器不支持](../Page/SigmaTel.md "wikilink")。一个
+Lossless和AIFF编码的音乐文件，因为它所使用的[SigmaTel处理器不支持](https://zh.wikipedia.org/wiki/SigmaTel "wikilink")。一个
 [评论](http://www.pcmag.com/article2/0,1759,1778968,00.asp) 认为iPod
 shuffle是在iPod型号中提供最好音质的型號。
 
@@ -221,7 +224,8 @@ zh-hant:隨身碟;}-](../Page/闪存盘.md "wikilink")。
 
 #### 第二代
 
-[缩略图](../Page/文件:IPod_&_mini_speaker.JPG.md "wikilink") 第二代iPod
+[缩略图](https://zh.wikipedia.org/wiki/文件:IPod_&_mini_speaker.JPG "wikilink")
+第二代iPod
 shuffle在外型上有非常大的改變，由原先的長方形縮短為近似正方形的形狀，材質改為鍍鋁外殼，並增加「夾子」，可以很方便的夾在衣服、皮帶或褲子上。因為體積縮小，取消原有的USB埠，若要傳輸，必須將隨附的dock底座接上電腦的USB埠，再將iPod
 shuffle放在底座上才行。\[7\]
 
@@ -273,7 +277,7 @@ shuffle的外形變為長方形，體積縮小至第二代的一半，保留第�
 
 #### 第四代
 
-[150px](../Page/文件:5G_IPod_Shuffle.svg.md "wikilink")
+[150px](https://zh.wikipedia.org/wiki/文件:5G_IPod_Shuffle.svg "wikilink")
 
 第四代iPod shuffle的外形类更似于第二代iPod
 shuffle，保留第三代的“电源——顺序播放——随机播放”設計，同时恢复原先的按钮设计。侧面增加VoiceOver按键。
@@ -292,8 +296,8 @@ shuffle，保留第三代的“电源——顺序播放——随机播放”設�
 
 在2005年9月7日，苹果电脑发布iPod mini的继任者，iPod
 nano。用[闪存代替](../Page/闪存.md "wikilink")[硬盘](../Page/硬盘.md "wikilink")，iPod
-nano是0.27英寸（0.685厘米）厚，1.5盎司（42克）重，体积比前辈小了62%。它使用32768色屏幕，能显示照片，并通过[USB](../Page/通用串行总线.md "wikilink")
-2.0与电脑连接。耳机插口放在底部。它保留标准30针的底座连接口，以兼容第三方周边。这是首部不能使用[火线连线与任何PC](../Page/iEEE_1394.md "wikilink")（Windows或Mac）同步的iPod。
+nano是0.27英寸（0.685厘米）厚，1.5盎司（42克）重，体积比前辈小了62%。它使用32768色屏幕，能显示照片，并通过[USB](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink")
+2.0与电脑连接。耳机插口放在底部。它保留标准30针的底座连接口，以兼容第三方周边。这是首部不能使用[火线连线与任何PC](https://zh.wikipedia.org/wiki/iEEE_1394 "wikilink")（Windows或Mac）同步的iPod。
 
 iPod
 nano在iPod操作系统中增加多项新功能，包括新增的世界时钟、秒表和屏幕锁功能。在世界时钟裏，用户可以为世界上的城市设置时间，并为每个时区设定闹钟。时钟可以自动调整夏令时。秒表功能允许用户在点击按键是开始计时，点击另一个按键就停止。还有一个按键计算单独的圈。nano能保存用户用秒表记录的多个时间，让用户可以对比不同的时间。屏幕锁功能让用户为他们的iPod设置4位数字的密码，当屏幕锁被启动时，唯一能按的是前进和后退键。音量控制用来输入密码的数字。
@@ -331,7 +335,7 @@ nano相同，有对影片播放的支援，屏幕仍為2吋，但由橫寬直窄
 nano任何容量款式皆有9种颜色可以选择：粉紅、紅（(PRODUCT) RED）、橙、黃、綠、蓝、紫、黑和銀色。
 
 iPod nano第四代更新許多用户操作界面，采用方向感應器來呈現Cover
-Flow选择界面及影片功能，还内置[iTunes](../Page/iTunes.md "wikilink")
+Flow选择界面及影片功能，还内置[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 8上新出的Genius功能，将用户操作习惯和听歌喜好进行分析和数据同步。
 
 #### 第五代
@@ -340,7 +344,7 @@ Flow选择界面及影片功能，还内置[iTunes](../Page/iTunes.md "wikilink"
 nano类似，屏幕尺寸增加到2.2寸，分辨率提高到240\*376.容量分别为8GB（US$149）及16GB（US$179）两种。颜色选择与第四代相同，仍为9种颜色，不過大多數顏色皆經過重新調色而變的更深更亮麗，其外殼也從純鍍鋁合金改為拋光鍍鋁。
 
 iPod nano第五代机身的背面右下角内置摄像头和麦克风以及內建比起現任iPod
-touch具有更大音量的擴音器，攝影機可拍摄解析度至640\*480的高品質VGA视频，同时支持录音、计步器以及VoiceOver操作，还加入[iTunes](../Page/iTunes.md "wikilink")
+touch具有更大音量的擴音器，攝影機可拍摄解析度至640\*480的高品質VGA视频，同时支持录音、计步器以及VoiceOver操作，还加入[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 9上新出现的Genius Mixes功能。
 
 #### 第六代
@@ -357,7 +361,7 @@ iPod nano第六代拥有Multi-Touch，而因机身缩小而取消内置摄像头
 nano在2012年9月12日发表，延續上一代的Multi-Touch多點觸控技術，將螢幕尺寸增加到2.5吋，解析度为240\*432像素。並增加如iPod
 touch使用的Home鍵，用来返回主畫面。也再度增加影片播放功能。同时增加蓝牙4.0以连接蓝牙耳机。2012新推出的iPod
 nano系列，揮別使用9年的30 pin接頭，采用全新打造的[Lightning
-連接器](../Page/Lightning_\(連接器\).md "wikilink")，更小、更耐用、且可不分正反面插入。容量只有16GB（US$149）。顏色選擇有鐵灰、銀、紫、粉紅、黃、綠、藍、紅（(PRODUCT)
+連接器](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")，更小、更耐用、且可不分正反面插入。容量只有16GB（US$149）。顏色選擇有鐵灰、銀、紫、粉紅、黃、綠、藍、紅（(PRODUCT)
 RED）共8種。iPod nano与iPod shuffle于2017年停产。
 
 ### iPod touch
@@ -367,12 +371,12 @@ RED）共8種。iPod nano与iPod shuffle于2017年停产。
 #### 第一代
 
 iPod
-touch是一款由[蘋果公司推出的](../Page/蘋果公司.md "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，在2007年9月5日舉行的「The
+touch是一款由[蘋果公司推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，在2007年9月5日舉行的「The
 Beat Goes On」產品發表會中公開\[9\]，屬於iPod系列的一部份。iPod touch使用8、16或32
-GB的[快閃記憶體](../Page/快閃記憶體.md "wikilink")。電池壽命亦更長，可以支持22小時的音樂、以及5小時的影片播放。同時也配有[Wi-Fi無線網路功能](../Page/Wi-Fi.md "wikilink")，並可執行蘋果的[Safari瀏覽器](../Page/Safari.md "wikilink")。iPod
+GB的[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。電池壽命亦更長，可以支持22小時的音樂、以及5小時的影片播放。同時也配有[Wi-Fi無線網路功能](../Page/Wi-Fi.md "wikilink")，並可執行蘋果的[Safari瀏覽器](../Page/Safari.md "wikilink")。iPod
 touch是第一款可透過無線網路連上[iTunes
-Store的iPod產品](../Page/iTunes_Store.md "wikilink")\[10\]。iPod
-touch也可在美國特定的[星巴克](../Page/星巴克.md "wikilink")（Starbucks）咖啡店中偵測到最近十首在店內播放的歌曲，並且可免費利用店內的無線網路連至iTunes
+Store的iPod產品](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")\[10\]。iPod
+touch也可在美國特定的[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")（Starbucks）咖啡店中偵測到最近十首在店內播放的歌曲，並且可免費利用店內的無線網路連至iTunes
 Store購買歌曲\[11\]。
 
 #### 第二代
@@ -389,14 +393,14 @@ Touch售價是229美元起。
 #### 第四代
 
 2010年9月1日，蘋果公司發佈第四代iPod
-touch。新產品更薄。新增前、後置攝像頭功能（不支援[自動對焦](../Page/自動對焦.md "wikilink")）。新產品採用與iPhone相近的規格，包括：A4處理器、採用視網膜技術的960x640LED屏幕、三向重力感應。并支持HD視頻錄製。其售價為8G
+touch。新產品更薄。新增前、後置攝像頭功能（不支援[自動對焦](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")）。新產品採用與iPhone相近的規格，包括：A4處理器、採用視網膜技術的960x640LED屏幕、三向重力感應。并支持HD視頻錄製。其售價為8G
 199美金、32G 299美金。
 
 #### 第五代
 
 2012年9月13日，苹果公司于芳草地艺术中心发布，显示屏为4英寸，采用A5处理器。镜头采用与新iPad上同样的iSight相机模块，500万像素背照式传感器、复合IR滤镜、五组镜片、f/2.4光圈，并配有闪光灯，支持720P的facetime
 HD并可录制1080P视频。連接器由沿用多年的30pin連接器改成[Lightning
-連接器](../Page/Lightning_\(連接器\).md "wikilink")\[12\]。2013年5月30日苹果上架一款廉价版iPod
+連接器](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")\[12\]。2013年5月30日苹果上架一款廉价版iPod
 touch，较前者缺少了后置摄像头，且内存容量减少为16GB。
 
 #### 第六代
@@ -408,14 +412,14 @@ touch，顯示器仍是4英寸，但改用A8處理器，iSight相機升級成800
 
 部分國家有推出「[Product Red](../Page/Product_Red.md "wikilink")（紅色特別版）」。iPod
 nano第2代有4GB和8GB兩種機型，[iPod
-nano第](../Page/iPod_nano.md "wikilink")3代只有8GB一種。而[iPod
-shuffle第](../Page/iPod_shuffle.md "wikilink")2代（新款）則有1GB和2GB兩種機型。所有規格都一樣，而且購買價格不變，但是會捐出其中的一部份給慈善機構。\[13\]
+nano第](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")3代只有8GB一種。而[iPod
+shuffle第](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")2代（新款）則有1GB和2GB兩種機型。所有規格都一樣，而且購買價格不變，但是會捐出其中的一部份給慈善機構。\[13\]
 
 ## 發售時間線
 
 ## 安全性
 
-iPod發生過多次爆炸意外事件，《[泰晤士報](../Page/泰晤士報.md "wikilink")》稱，蘋果公司被美國記者揭發涉嫌對多宗iPod著火或爆炸個案“遮遮掩掩”。iPod產品在各国及地区都有爆炸個案：香港2007年出現了首宗iPod
+iPod發生過多次爆炸意外事件，《[泰晤士報](https://zh.wikipedia.org/wiki/泰晤士報 "wikilink")》稱，蘋果公司被美國記者揭發涉嫌對多宗iPod著火或爆炸個案“遮遮掩掩”。iPod產品在各国及地区都有爆炸個案：香港2007年出現了首宗iPod
 nano爆炸個案，三年內傳媒報道的香港
 iPod爆炸個案最少有四宗，2010年11月8日[香港](../Page/香港.md "wikilink")《[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")》又对当天第一代
 iPod nano爆炸案进行了報導，这已是当年兩個月內收到第二宗 iPod
@@ -424,39 +428,40 @@ nano電池惹火，政府曾經多次要求蘋果就iPod爆炸解釋。\[15\]
 
 ## iTunes整合
 
-[iTunes是唯一官方的与iPod同步软件](../Page/iTunes.md "wikilink")，虽然有其他非官方的軟體使iPod与其他播放器同步。其中最知名的要属[Winamp的插件](../Page/Winamp.md "wikilink")[ml
-iPod](../Page/ml_iPod.md "wikilink")，让用户能通过Winamp管理iPod上的音乐，而且还支持一些iTunes不提供的功能，包括把非iTunes
+[iTunes是唯一官方的与iPod同步软件](https://zh.wikipedia.org/wiki/iTunes "wikilink")，虽然有其他非官方的軟體使iPod与其他播放器同步。其中最知名的要属[Winamp的插件](../Page/Winamp.md "wikilink")[ml
+iPod](https://zh.wikipedia.org/wiki/ml_iPod "wikilink")，让用户能通过Winamp管理iPod上的音乐，而且还支持一些iTunes不提供的功能，包括把非iTunes
 Store购买音乐拷出iPod。
 
 ### iTunes音乐商店
 
-苹果的[iTunes音乐商店](../Page/iTunes_Store.md "wikilink")（iTunes Music
+苹果的[iTunes音乐商店](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（iTunes
+Music
 Store）是为了推销iPod而建立的网络音乐销售商店，界面整合在iTunes播放软件中，使得透過網路購買有[版權音樂檔案的機制變得更便利](../Page/著作權.md "wikilink")。
 
-除了iPod以外，没有任何其他的便携音乐播放器能播放在苹果[iTunes音乐商店上销售的使用](../Page/iTunes_Store.md "wikilink")[DRM的音乐文件](../Page/数码版权管理.md "wikilink")。苹果电脑使用它们专有的[FairPlay系统加密这些](../Page/FairPlay.md "wikilink")[AAC音频文件](../Page/AAC.md "wikilink")（.m4p），这种编码只允许授权的电脑（最多五部）才可以解密并播放它们。
+除了iPod以外，没有任何其他的便携音乐播放器能播放在苹果[iTunes音乐商店上销售的使用](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[DRM的音乐文件](https://zh.wikipedia.org/wiki/数码版权管理 "wikilink")。苹果电脑使用它们专有的[FairPlay系统加密这些](https://zh.wikipedia.org/wiki/FairPlay "wikilink")[AAC音频文件](https://zh.wikipedia.org/wiki/AAC "wikilink")（.m4p），这种编码只允许授权的电脑（最多五部）才可以解密并播放它们。
 
-斯蒂夫·乔布斯认为这种iTMS上的限制只是为了增加iPod的销量，他说：“我们希望（在iTunes音乐商店里）收支相抵或稍微亏一点，因为它始终不是赚钱的地方。”用户要繞开限制，可以先把受保护的文件刻录到非压缩的音乐[CD](../Page/CD.md "wikilink")，然后重新截取，并把音乐编码为不受保护的文件。这个过程很繁琐，而且每次转换会导致音频质量损失。（这可能会违反了[數位千禧年著作權法](../Page/數位千禧年著作權法.md "wikilink")）
+斯蒂夫·乔布斯认为这种iTMS上的限制只是为了增加iPod的销量，他说：“我们希望（在iTunes音乐商店里）收支相抵或稍微亏一点，因为它始终不是赚钱的地方。”用户要繞开限制，可以先把受保护的文件刻录到非压缩的音乐[CD](../Page/CD.md "wikilink")，然后重新截取，并把音乐编码为不受保护的文件。这个过程很繁琐，而且每次转换会导致音频质量损失。（这可能会违反了[數位千禧年著作權法](https://zh.wikipedia.org/wiki/數位千禧年著作權法 "wikilink")）
 
 就其本身而言，苹果电脑小心地控制使用FairPlay编码的iTMS音乐文件的授权，而且iPod不支持其他DRM保护格式文件（如DRM保护版的[WMA](../Page/Windows_Media_Audio.md "wikilink")），所以iPod用户想在线购买受DRM保护的音乐必须通过iTunes，否则就只能从其他地方下载繞开DRM的文件（这可能构成犯法的行为）。从其他商店购买的受保护音乐不能在iPod上播放。
 
 iTunes音乐商店最近售出了超过10亿首歌曲\[16\]。至2007年8月1日蘋果公司宣布透過iTunes音乐商店所銷售的歌曲突破30[億首](../Page/億.md "wikilink")\[17\]、\[18\]、\[19\]。
 
-2006年10月，在15岁时破解了[DVD光盘所使用的CSS防拷贝技术而获得](../Page/DVD.md "wikilink")“[DVD
-Jon](../Page/DVD_Jon.md "wikilink")”尊称的[挪威黑客](../Page/挪威.md "wikilink")[乔·雷赫·约翰森](../Page/約恩·萊克·約翰森.md "wikilink")（Jon
+2006年10月，在15岁时破解了[DVD光盘所使用的CSS防拷贝技术而获得](https://zh.wikipedia.org/wiki/DVD "wikilink")“[DVD
+Jon](https://zh.wikipedia.org/wiki/DVD_Jon "wikilink")”尊称的[挪威黑客](../Page/挪威.md "wikilink")[乔·雷赫·约翰森](https://zh.wikipedia.org/wiki/約恩·萊克·約翰森 "wikilink")（Jon
 Lech
 Johansen），又成功破解了苹果公司针对iTunes和iPod歌曲播放的限制措施，通过模拟iPod及其FairPlay加密技术的内部工作原理，来欺骗iPod认为它在播放从iTunes上购买的音乐。促使他破解iPod加密技术的动力是用户有权在他们拥有的任何设备上播放合法购买的音乐。他不喜欢封闭的系统，而iTunes-iPod组合排斥其他技术。\[20\]
 
 ### 其他选择
 
-在2004年7月，[RealNetworks展示了一个名为](../Page/RealNetworks.md "wikilink")[Harmony的应用软件](../Page/Harmony.md "wikilink")，可以使iPod用户把在RealNetworks的[RealRhapsody购买的文件转换为iPod可以播放的兼容FairPlay的格式](../Page/RealRhapsody.md "wikilink")。苹果电脑指责RealNetworks是“以黑客的手段和伦理闯入iPod。”\[21\]
+在2004年7月，[RealNetworks展示了一个名为](../Page/RealNetworks.md "wikilink")[Harmony的应用软件](https://zh.wikipedia.org/wiki/Harmony "wikilink")，可以使iPod用户把在RealNetworks的[RealRhapsody购买的文件转换为iPod可以播放的兼容FairPlay的格式](https://zh.wikipedia.org/wiki/RealRhapsody "wikilink")。苹果电脑指责RealNetworks是“以黑客的手段和伦理闯入iPod。”\[21\]
 苹果在稍后发布的固件升级使第四代iPod和iPod
 mini无法播放用Harmony转换的文件。RealNetworks宣布会开发其他的软件代替。
 
-除此以外，还有一个可以绕开拷贝保护的第三方软件名为[Hymn](../Page/Hymn.md "wikilink")，或使用在苹果电脑自家软件[Final
+除此以外，还有一个可以绕开拷贝保护的第三方软件名为[Hymn](https://zh.wikipedia.org/wiki/Hymn "wikilink")，或使用在苹果电脑自家软件[Final
 Cut
 Pro中的压缩器软件](../Page/Final_Cut_Pro.md "wikilink")。同时，一个匿名的开发者开发了iOpener，它可以找到用户电脑上受保护的AAC文件并转换为非加密的AAC文件。
 
-在2005年3月，[乔·约翰森](../Page/乔·约翰森.md "wikilink")（“DVD乔”）公布一个名为[PyMusique的软件](../Page/PyMusique.md "wikilink")\[22\]
+在2005年3月，[乔·约翰森](https://zh.wikipedia.org/wiki/乔·约翰森 "wikilink")（“DVD乔”）公布一个名为[PyMusique的软件](https://zh.wikipedia.org/wiki/PyMusique "wikilink")\[22\]
 允许iTMS消费者购买不受DRM限制的歌曲。
 
 ## 第三方配件
@@ -471,13 +476,13 @@ iPod创造了一个巨大和持续增长的零件市场辅助配件行业，在2
 [foo_pod](http://www.tinkafoo.com/log/foo_pod.html) 附件以支持iPod。
 
 :\*
-[RhythmBox](../Page/RhythmBox.md "wikilink")，基于[GNOME的](../Page/GNOME.md "wikilink")[iTunes复制品](../Page/iTunes.md "wikilink")。
+[RhythmBox](https://zh.wikipedia.org/wiki/RhythmBox "wikilink")，基于[GNOME的](../Page/GNOME.md "wikilink")[iTunes复制品](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
 :\* [Amarok](../Page/Amarok.md "wikilink")，
 一个基于[KDE的开源音乐播放程式](../Page/KDE.md "wikilink")，支援iPod。
 
 :\*
-[gtkpod](https://web.archive.org/web/20050519002423/http://gtkpod.sourceforge.net/)，一个明确以iPod为目标，可运行在几个[操作系统上基于](../Page/操作系统.md "wikilink")[GTK的iPod管理软件](../Page/GTK+.md "wikilink")。
+[gtkpod](https://web.archive.org/web/20050519002423/http://gtkpod.sourceforge.net/)，一个明确以iPod为目标，可运行在几个[操作系统上基于](../Page/操作系统.md "wikilink")[GTK的iPod管理软件](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。
 
 :\* [ml_ipod](http://mlipod.sourceforge.net/)，一个开源的插件使
 [Winamp](http://www.winamp.com) 加入iPod支持。
@@ -486,32 +491,34 @@ iPod创造了一个巨大和持续增长的零件市场辅助配件行业，在2
 [EphPod](http://www.ephpod.com)，一个Windows应用软件抄袭iTunes大部分功能，但允许把iPod的音乐上传到电脑。EphPod可以免费下载，但并非开源的。
 
   - [Griffin Technology](http://www.griffintechnology.com/)
-    制造了几种iPod配件，包括[iTrip](../Page/iTrip.md "wikilink")、[iBeam](../Page/iBeam.md "wikilink")、[iTalk](../Page/iTalk.md "wikilink")、[PodPod和](../Page/PodPod.md "wikilink")[Earjam](../Page/Earjam.md "wikilink")。
+    制造了几种iPod配件，包括[iTrip](https://zh.wikipedia.org/wiki/iTrip "wikilink")、[iBeam](https://zh.wikipedia.org/wiki/iBeam "wikilink")、[iTalk](https://zh.wikipedia.org/wiki/iTalk "wikilink")、[PodPod和](https://zh.wikipedia.org/wiki/PodPod "wikilink")[Earjam](https://zh.wikipedia.org/wiki/Earjam "wikilink")。
   - [贝尔金](http://www.belkin.com/) 制造了[Belkin Voice
-    Recorder](../Page/Belkin_Voice_Recorder.md "wikilink")、[Belkin Media
-    Reader和](../Page/Belkin_Media_Reader.md "wikilink")[Belkin Battery
-    Pack](../Page/Belkin_Battery_Pack.md "wikilink")。
+    Recorder](https://zh.wikipedia.org/wiki/Belkin_Voice_Recorder "wikilink")、[Belkin
+    Media
+    Reader和](https://zh.wikipedia.org/wiki/Belkin_Media_Reader "wikilink")[Belkin
+    Battery
+    Pack](https://zh.wikipedia.org/wiki/Belkin_Battery_Pack "wikilink")。
   - [naviPod](https://web.archive.org/web/20050526025655/http://www.tentechnology.com/)
     由TEN
-    Technology制造，给iPod使用的5个按键[红外线](../Page/红外线.md "wikilink")[遥控](../Page/遥控.md "wikilink")。
+    Technology制造，给iPod使用的5个按键[红外线](../Page/红外线.md "wikilink")[遥控](https://zh.wikipedia.org/wiki/遥控 "wikilink")。
   - 由Altec Lansing制造的[inMotion
-    Speakers可以作为iPod的充电站](../Page/inMotion_Speakers.md "wikilink")，也能让iPod变为音响系统。设计师也制作了iMmini，以配合[iPod
-    mini](../Page/iPod_mini.md "wikilink")。
-  - [宝马发布了首个由汽车制造商制造的iPod汽车界面](../Page/bMW.md "wikilink")。界面允许驾驶者在之后的BMW生产的汽车中通过内建于方向盘上和收音机上的按键控制他们的iPod。在汽车的储物柜中有保护iPod的安全带。
+    Speakers可以作为iPod的充电站](https://zh.wikipedia.org/wiki/inMotion_Speakers "wikilink")，也能让iPod变为音响系统。设计师也制作了iMmini，以配合[iPod
+    mini](https://zh.wikipedia.org/wiki/iPod_mini "wikilink")。
+  - [宝马发布了首个由汽车制造商制造的iPod汽车界面](https://zh.wikipedia.org/wiki/bMW "wikilink")。界面允许驾驶者在之后的BMW生产的汽车中通过内建于方向盘上和收音机上的按键控制他们的iPod。在汽车的储物柜中有保护iPod的安全带。
   - 在2005年1月的Macworld
-    Expo裏，包括[奔驰和](../Page/梅塞德斯-朋馳.md "wikilink")[法拉利等更多的制造商宣布从](../Page/法拉利汽車.md "wikilink")2005年春季开始推出类似的系统。
+    Expo裏，包括[奔驰和](https://zh.wikipedia.org/wiki/梅塞德斯-朋馳 "wikilink")[法拉利等更多的制造商宣布从](../Page/法拉利汽車.md "wikilink")2005年春季开始推出类似的系统。
   - 此外还有大量的第三方配件，而且差不多每天都有新产品出现。从录音到游戏，且还有其他基于iPod的连接设备和适配器。
   - 另一个增长中的巨大iPod配件市场，包括外壳和彩绘。如，由Hotromz用假毛皮、羽毛、有机大麻纤维和马海毛织物制造的不寻常外壳；或
     [foof](http://foofpod.com/) 提供用花呢、灯心绒和和服腰带做的外壳。
 
 ## iPod的销量
 
-在2005年9月7日的“特别事件”中，[苹果电脑的CEO](../Page/苹果电脑.md "wikilink")[斯蒂夫·乔布斯宣布](../Page/斯蒂夫·乔布斯.md "wikilink")“在上个季度末，也就是2005年6月，苹果电脑卖出了2200万部iPod。”
+在2005年9月7日的“特别事件”中，[苹果电脑的CEO](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")[斯蒂夫·乔布斯宣布](https://zh.wikipedia.org/wiki/斯蒂夫·乔布斯 "wikilink")“在上个季度末，也就是2005年6月，苹果电脑卖出了2200万部iPod。”
 
-[财富杂志报道](../Page/财富_\(杂志\).md "wikilink")，在2005年6月27日[苹果电脑售出](../Page/苹果电脑.md "wikilink")1500万部iPod，包括了在本年度第一季度售出的530万部。\[23\]
-iPod当前支配了数码音乐播放器市场，多次刷新销售纪录。\[24\]2003年第四季度，[苹果电脑报告了](../Page/苹果电脑.md "wikilink")$1.06亿收入，是公司9年来的第四季最高收入。\[25\]
+[财富杂志报道](../Page/财富_\(杂志\).md "wikilink")，在2005年6月27日[苹果电脑售出](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")1500万部iPod，包括了在本年度第一季度售出的530万部。\[23\]
+iPod当前支配了数码音乐播放器市场，多次刷新销售纪录。\[24\]2003年第四季度，[苹果电脑报告了](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")$1.06亿收入，是公司9年来的第四季最高收入。\[25\]
 
-[惠普与苹果销售的惠普品牌iPod](../Page/惠普公司.md "wikilink")，报告销量为“十分畅销”，但没有公布数据。苹果电脑承认HP-iPod佔了2004年第四季收入的5%。\[26\]
+[惠普与苹果销售的惠普品牌iPod](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")，报告销量为“十分畅销”，但没有公布数据。苹果电脑承认HP-iPod佔了2004年第四季收入的5%。\[26\]
 
 [Ipod_sales_per_quarter.svg](https://zh.wikipedia.org/wiki/File:Ipod_sales_per_quarter.svg "fig:Ipod_sales_per_quarter.svg")
 
@@ -560,44 +567,54 @@ iPod当前支配了数码音乐播放器市场，多次刷新销售纪录。\[24
 苹果电脑在多次成功的广告战役中宣传iPod和iTunes品牌。
 
   - 首个iPod广告，广告语以“一千首歌，装在你的口袋裡。”在2001年11月与iPod一起发布。广告可以在苹果电脑的网站上看到。\[59\]
-  - 2002年12月，蘋果公司在香港和澳門發售印有[張學友簽名的限量版iPod](../Page/張學友.md "wikilink")\[60\]，並且首批只發行200個，產品隨後在當天即被搶購一空，隨後蘋果公司推出第二版次的簽名版iPod，包括赠送张学友的CD以及海报。張學友亦成為亞洲地區第一個iPod產品代言人。
+  - 2002年12月，蘋果公司在香港和澳門發售印有[張學友簽名的限量版iPod](https://zh.wikipedia.org/wiki/張學友 "wikilink")\[60\]，並且首批只發行200個，產品隨後在當天即被搶購一空，隨後蘋果公司推出第二版次的簽名版iPod，包括赠送张学友的CD以及海报。張學友亦成為亞洲地區第一個iPod產品代言人。
   - 在2003年4月，苹果电脑在发布[iTunes Music
-    Store的同时公布了新的广告战役](../Page/iTunes_Store.md "wikilink")。广告中，穿着便服的人带着iPod，在没有伴奏的情况下清唱流行歌曲、跟着节奏跳舞、演奏幻想吉他和其他表演方式。影视广告使用了很广泛的音乐，包括[The
-    Who的](../Page/谁人.md "wikilink")*My Generation*；[Sir
-    Mix-a-lot的](../Page/Sir_Mix-a-lot.md "wikilink")*Baby Got
-    Back*；[Pink的](../Page/Pink_\(歌手\).md "wikilink")*There You
-    Go*和[Eminem的](../Page/阿姆.md "wikilink")*Lose Yourself*。
+    Store的同时公布了新的广告战役](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")。广告中，穿着便服的人带着iPod，在没有伴奏的情况下清唱流行歌曲、跟着节奏跳舞、演奏幻想吉他和其他表演方式。影视广告使用了很广泛的音乐，包括[The
+    Who的](https://zh.wikipedia.org/wiki/谁人 "wikilink")*My
+    Generation*；[Sir
+    Mix-a-lot的](https://zh.wikipedia.org/wiki/Sir_Mix-a-lot "wikilink")*Baby
+    Got
+    Back*；[Pink的](https://zh.wikipedia.org/wiki/Pink_\(歌手\) "wikilink")*There
+    You Go*和[Eminem的](../Page/阿姆.md "wikilink")*Lose Yourself*。
   - 2003年10月，苹果电脑将它们的影视广告和印刷广告战役统一，特色是在单一颜色背景前的剪影人物，随着他们佩带的iPod中的音乐起舞。这些广告使用了流行曲包括，[The
-    Vines的](../Page/The_Vines.md "wikilink")*Ride*、[The
-    Caesars的](../Page/The_Caesars.md "wikilink")*Jerk it
-    Out*、[Gorillaz的](../Page/Gorillaz.md "wikilink")*Feel Good
-    Inc.*、[Jet的](../Page/Jet.md "wikilink")*Are You Gonna Be My
-    Girl*、[N.E.R.D的](../Page/N.E.R.D.md "wikilink")*Rock Star(Jason
-    Nevin's Mix)*、[Franz
-    Ferdinand的](../Page/Franz_Ferdinand.md "wikilink")*Take Me
-    Out*等等。为了纪念[U2](../Page/U2樂團.md "wikilink")
+    Vines的](https://zh.wikipedia.org/wiki/The_Vines "wikilink")*Ride*、[The
+    Caesars的](https://zh.wikipedia.org/wiki/The_Caesars "wikilink")*Jerk
+    it
+    Out*、[Gorillaz的](https://zh.wikipedia.org/wiki/Gorillaz "wikilink")*Feel
+    Good Inc.*、[Jet的](https://zh.wikipedia.org/wiki/Jet "wikilink")*Are
+    You Gonna Be My
+    Girl*、[N.E.R.D的](https://zh.wikipedia.org/wiki/N.E.R.D "wikilink")*Rock
+    Star(Jason Nevin's Mix)*、[Franz
+    Ferdinand的](https://zh.wikipedia.org/wiki/Franz_Ferdinand "wikilink")*Take
+    Me Out*等等。为了纪念[U2](../Page/U2樂團.md "wikilink")
     iPod的发布，苹果电脑发表了*Vertigo*音乐录像的广告（片中角色被改为有iPod特色的剪影）。\[61\]
 
 ## 关键人物
 
-  - [托尼·法戴尔](../Page/托尼·法戴尔.md "wikilink")
-  - [杰夫·罗宾](../Page/杰夫·罗宾.md "wikilink")
-  - [Sanjeev Kumar](../Page/Sanjeev_Kumar_\(工程师\).md "wikilink")
+  - [托尼·法戴尔](https://zh.wikipedia.org/wiki/托尼·法戴尔 "wikilink")
+  - [杰夫·罗宾](https://zh.wikipedia.org/wiki/杰夫·罗宾 "wikilink")
+  - [Sanjeev
+    Kumar](https://zh.wikipedia.org/wiki/Sanjeev_Kumar_\(工程师\) "wikilink")
   - [斯蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")
   - [乔纳森·埃维](../Page/乔纳森·埃维.md "wikilink")
-  - [Danika Cleary](../Page/Danika_Cleary.md "wikilink") - iPod生产经理
-  - [Stan Ng](../Page/Stan_Ng.md "wikilink") - iPod部门经理
+  - [Danika
+    Cleary](https://zh.wikipedia.org/wiki/Danika_Cleary "wikilink") -
+    iPod生产经理
+  - [Stan Ng](https://zh.wikipedia.org/wiki/Stan_Ng "wikilink") -
+    iPod部门经理
 
 ## 注釋和参考文献
 
 ## 参见
 
-  - [iPod mini](../Page/iPod_mini.md "wikilink")
-  - [iPod classic](../Page/iPod_classic.md "wikilink")
-  - [iPod nano](../Page/iPod_nano.md "wikilink")
-  - [iPod shuffle](../Page/iPod_shuffle.md "wikilink")
-  - [iPod touch](../Page/iPod_touch.md "wikilink")
-  - [iPod photo](../Page/iPod_photo.md "wikilink")
+  - [iPod mini](https://zh.wikipedia.org/wiki/iPod_mini "wikilink")
+  - [iPod
+    classic](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")
+  - [iPod nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")
+  - [iPod
+    shuffle](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")
+  - [iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")
+  - [iPod photo](https://zh.wikipedia.org/wiki/iPod_photo "wikilink")
 
 ## 外部链接
 
@@ -671,7 +688,7 @@ iPod当前支配了数码音乐播放器市场，多次刷新销售纪录。\[24
     Store歌曲销量突破30亿大关](http://tech.tom.com/2007-08-01/06M4/56041229.html)
      Tom.com科技前沿2007年8月1日
 
-19. {{〈}}CD失聲{{〉}}，《[國家地理雜誌](../Page/國家地理雜誌.md "wikilink")》中文版2008年1月號ISSN
+19. {{〈}}CD失聲{{〉}}，《[國家地理雜誌](https://zh.wikipedia.org/wiki/國家地理雜誌 "wikilink")》中文版2008年1月號ISSN
     1608-2601
 
 20. IT168

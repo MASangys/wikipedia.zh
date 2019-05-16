@@ -1,7 +1,7 @@
 [Pentium_mmx.png](https://zh.wikipedia.org/wiki/File:Pentium_mmx.png "fig:Pentium_mmx.png")
-**MMX**是由[英特尔开发的一种](../Page/英特尔.md "wikilink")**[SIMD](../Page/单指令流多数据流.md "wikilink")**[多媒体](../Page/多媒体.md "wikilink")[指令集](../Page/指令集.md "wikilink")，共有57条指令。它于1996年集成在英特尔[奔腾](../Page/奔腾.md "wikilink")（Pentium）MMX[处理器上](../Page/处理器.md "wikilink")，以提高其多媒体数据的处理能力。
+**MMX**是由[英特尔开发的一种](../Page/英特尔.md "wikilink")**[SIMD](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")**[多媒体](../Page/多媒体.md "wikilink")[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")，共有57条指令。它于1996年集成在英特尔[奔腾](https://zh.wikipedia.org/wiki/奔腾 "wikilink")（Pentium）MMX[处理器上](https://zh.wikipedia.org/wiki/处理器 "wikilink")，以提高其多媒体数据的处理能力。
 
-其优点是增加了處理器關於[多媒体方面的处理能力](../Page/多媒体.md "wikilink")，缺点是占用[浮点数](../Page/浮点数.md "wikilink")[寄存器进行运算](../Page/寄存器.md "wikilink")（64位MMX寄存器实际上就是浮点数寄存器的别名）以至于MMX指令和浮点数操作不能同时工作。为了减少在MMX和浮点数模式切换之间所消耗的时间，程序员们尽可能减少模式切换的次数，也就是说，这两种操作在应用上是互斥的。[AMD在此基础上发展出](../Page/AMD.md "wikilink")[3D
+其优点是增加了處理器關於[多媒体方面的处理能力](../Page/多媒体.md "wikilink")，缺点是占用[浮点数](../Page/浮点数.md "wikilink")[寄存器进行运算](../Page/寄存器.md "wikilink")（64位MMX寄存器实际上就是浮点数寄存器的别名）以至于MMX指令和浮点数操作不能同时工作。为了减少在MMX和浮点数模式切换之间所消耗的时间，程序员们尽可能减少模式切换的次数，也就是说，这两种操作在应用上是互斥的。[AMD在此基础上发展出](https://zh.wikipedia.org/wiki/AMD "wikilink")[3D
 Now\!指令集](../Page/3DNow!.md "wikilink")。
 
 3D Now\!發佈一年後，Intel在MMX基础上发展出[SSE](../Page/SSE.md "wikilink")（Streaming

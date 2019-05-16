@@ -1,14 +1,14 @@
 **\(\mathbf{L}\!{}_\mathbf{\displaystyle Y}\!\mathbf{X}\)**是一個「所見即所指」（what
 you see is what you
-mean）的利用[來排版的文件編輯軟體](../Page/LaTeX.md "wikilink")。相對於其它標榜[所見即所得的編輯器而言](../Page/所見即所得.md "wikilink")，LyX標榜只顯示你真正的關心的內容。
+mean）的利用[來排版的文件編輯軟體](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。相對於其它標榜[所見即所得的編輯器而言](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")，LyX標榜只顯示你真正的關心的內容。
 
 ## 功能
 
-  - [圖形用戶界面與選單](../Page/圖形用戶界面.md "wikilink")
+  - [圖形用戶界面與選單](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")
   - 標題、標題、段落和目錄自動編號
   - 文本按照標準的排版規則編排，如：縮進、間距及斷字
   - 標準文檔編輯功能，如：剪截/粘貼，拼法檢查（使用[GNU
-    Aspell套件](../Page/GNU_Aspell.md "wikilink")）
+    Aspell套件](https://zh.wikipedia.org/wiki/GNU_Aspell "wikilink")）
   - 注記
   - 文本集以及模版十分類似于LaTeX中的`\documentclass[arguments]{theclass}`指令
   - 支持[BibTeX](../Page/BibTeX.md "wikilink")
@@ -41,13 +41,13 @@ mean）的利用[來排版的文件編輯軟體](../Page/LaTeX.md "wikilink")。
 | 2.3.0 | March 16, 2018       |
 
 除了需要额外安装的LyX的主要发行版之外，还有一个与[TeX
-Live集成的称为LyTeX的非官方便携](../Page/TeX_Live.md "wikilink")（过时）版本。\[4\]
+Live集成的称为LyTeX的非官方便携](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")（过时）版本。\[4\]
 
 ## 参见
 
-  - [](../Page/LaTeX.md "wikilink")
-  - [文字处理器列表](../Page/文字处理器列表.md "wikilink")
-  - [文字处理器比较](../Page/文字处理器比较.md "wikilink")
+  - [](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
+  - [文字处理器列表](https://zh.wikipedia.org/wiki/文字处理器列表 "wikilink")
+  - [文字处理器比较](https://zh.wikipedia.org/wiki/文字处理器比较 "wikilink")
   - [Qt](../Page/Qt.md "wikilink") toolkit，用於LyX用戶界面\[5\].
 
 ## 參考文獻

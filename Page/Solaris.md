@@ -1,28 +1,28 @@
-**Solaris**原先是[太阳微系统公司研制的](../Page/太阳微系统.md "wikilink")[类Unix](../Page/类Unix.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，在Sun公司被[Oracle併購後被稱作Oracle](../Page/Oracle.md "wikilink")
+**Solaris**原先是[太阳微系统公司研制的](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")，在Sun公司被[Oracle併購後被稱作Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")
 Solaris。目前最新版为Solaris
-11。早期的Solaris是由[BSDUnix发展而来](../Page/BSDUnix.md "wikilink")。这是因为昇陽公司的创始人之一，[比爾·喬伊](../Page/比爾·喬伊.md "wikilink")（Bill
-Joy）来自[柏克萊加州大學](../Page/柏克萊加州大學.md "wikilink")（U.C.Berkeley）。但是随着时间的推移，Solaris现在在接口上正在逐渐向[System
-V靠拢](../Page/System_V.md "wikilink")。2005年6月14日，Sun公司将正在开发中的Solaris
-11的源代码以[CDDL许可开放](../Page/CDDL.md "wikilink")，这一开放版本就是[OpenSolaris](../Page/OpenSolaris.md "wikilink")。2010年8月23日，OpenSolaris項目被Oracle中止。2011年11月9日，Solaris
+11。早期的Solaris是由[BSDUnix发展而来](https://zh.wikipedia.org/wiki/BSDUnix "wikilink")。这是因为昇陽公司的创始人之一，[比爾·喬伊](https://zh.wikipedia.org/wiki/比爾·喬伊 "wikilink")（Bill
+Joy）来自[柏克萊加州大學](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")（U.C.Berkeley）。但是随着时间的推移，Solaris现在在接口上正在逐渐向[System
+V靠拢](https://zh.wikipedia.org/wiki/System_V "wikilink")。2005年6月14日，Sun公司将正在开发中的Solaris
+11的源代码以[CDDL许可开放](https://zh.wikipedia.org/wiki/CDDL "wikilink")，这一开放版本就是[OpenSolaris](../Page/OpenSolaris.md "wikilink")。2010年8月23日，OpenSolaris項目被Oracle中止。2011年11月9日，Solaris
 11發佈。
 
 Sun的操作系统最初叫做SunOS，SunOS 5.0开始，SUN的操作系统开发开始转向[System V
-4](../Page/System_V#SVR4.md "wikilink")，并有了新名字Solaris 2.0；Solaris
-2.6以后，SUN删除了版本号中的「2」，因此，SunOS 5.10叫做Solaris
+4](https://zh.wikipedia.org/wiki/System_V#SVR4 "wikilink")，并有了新名字Solaris
+2.0；Solaris 2.6以后，SUN删除了版本号中的「2」，因此，SunOS 5.10叫做Solaris
 10。Solaris的早期版本后来又被重新命名为Solaris
 1.x。因为“SunOS”这个词被用做专指Solaris操作系统的内核，因此Solaris被认为是由SunOS、图形化的桌面计算环境以及它的网络增强部分组成。
 
 ## 平台
 
-Solaris运行在两个平台：[Intel](../Page/Intel.md "wikilink")
-[x86及](../Page/x86.md "wikilink")[SPARC](../Page/SPARC.md "wikilink")／[UltraSPARC](../Page/UltraSPARC.md "wikilink")。后者是[昇陽工作站使用的](../Page/昇陽工作站.md "wikilink")[处理器](../Page/CPU.md "wikilink")。因此，Solaris在SPARC上拥有强大的处理能力和硬件支援，同时Intel
+Solaris运行在两个平台：[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+[x86及](https://zh.wikipedia.org/wiki/x86 "wikilink")[SPARC](../Page/SPARC.md "wikilink")／[UltraSPARC](https://zh.wikipedia.org/wiki/UltraSPARC "wikilink")。后者是[昇陽工作站使用的](https://zh.wikipedia.org/wiki/昇陽工作站 "wikilink")[处理器](https://zh.wikipedia.org/wiki/CPU "wikilink")。因此，Solaris在SPARC上拥有强大的处理能力和硬件支援，同时Intel
 x86上的性能也正在得到改善。对两个平台，Solaris屏蔽了底层平台差异，为用户提供了尽可能一样的使用体验。
 
-最新发布的Solaris10包含若干创新技术，包括[ZFS](../Page/ZFS.md "wikilink")，[DTrace](../Page/DTrace.md "wikilink")，[Solaris
-Zones](../Page/Solaris_Zones.md "wikilink")（Container），[预测性自癒等](../Page/预测性自癒.md "wikilink")。其中一些以往只可能在专业服务器等具有相关硬件的大型机器上才可能得到支援，但Solaris10使得任何一台普通PC都可以具有这些能力。
+最新发布的Solaris10包含若干创新技术，包括[ZFS](../Page/ZFS.md "wikilink")，[DTrace](https://zh.wikipedia.org/wiki/DTrace "wikilink")，[Solaris
+Zones](https://zh.wikipedia.org/wiki/Solaris_Zones "wikilink")（Container），[预测性自癒等](https://zh.wikipedia.org/wiki/预测性自癒 "wikilink")。其中一些以往只可能在专业服务器等具有相关硬件的大型机器上才可能得到支援，但Solaris10使得任何一台普通PC都可以具有这些能力。
 
-Solaris支持多种系统架构：SPARC、x86及[x64](../Page/x64.md "wikilink").
-x64即[AMD64及](../Page/AMD64.md "wikilink")[EM64T处理器](../Page/EM64T.md "wikilink")。在版本2.5.1的时候，Solaris曾经一度被移植到[PowerPC架构](../Page/PowerPC.md "wikilink")，但是后来又在这一版本正式发布时被删去。与[Linux相比](../Page/Linux.md "wikilink")，Solaris可以更有效地支持对称多处理器，即[SMP架构](../Page/对称多处理机.md "wikilink")。Sun同时宣布将在Solaris
+Solaris支持多种系统架构：SPARC、x86及[x64](https://zh.wikipedia.org/wiki/x64 "wikilink").
+x64即[AMD64及](https://zh.wikipedia.org/wiki/AMD64 "wikilink")[EM64T处理器](https://zh.wikipedia.org/wiki/EM64T "wikilink")。在版本2.5.1的时候，Solaris曾经一度被移植到[PowerPC架构](../Page/PowerPC.md "wikilink")，但是后来又在这一版本正式发布时被删去。与[Linux相比](../Page/Linux.md "wikilink")，Solaris可以更有效地支持对称多处理器，即[SMP架构](https://zh.wikipedia.org/wiki/对称多处理机 "wikilink")。Sun同时宣布将在Solaris
 10的后续版本中提供Linux运行环境，允许Linux二进制程序直接在Solaris
 x86和x64系统上运行，目前，这一技术已通过Solaris
 Zone的一个特殊实现（BrandZ）得到支持。
@@ -41,11 +41,11 @@ SPARC处理器的硬件体系结构结合紧密，在设计上和市场上经常
 
 ## 桌面環境
 
-第一个Solaris的桌面环境是[OpenWindows](../Page/OpenWindows.md "wikilink")。紧接着是Solaris
+第一个Solaris的桌面环境是[OpenWindows](https://zh.wikipedia.org/wiki/OpenWindows "wikilink")。紧接着是Solaris
 2.5的[CDE](../Page/CDE.md "wikilink")。在Solaris
 10中，Sun又推出了基于[GNOME的](../Page/GNOME.md "wikilink")[Java
 Desktop
-System](../Page/Java_Desktop_System.md "wikilink")。另外也支援[KDE](../Page/KDE.md "wikilink")\[1\]、[XFCE](../Page/XFCE.md "wikilink")、[WindowMaker等](../Page/WindowMaker.md "wikilink")\[2\]。
+System](../Page/Java_Desktop_System.md "wikilink")。另外也支援[KDE](../Page/KDE.md "wikilink")\[1\]、[XFCE](https://zh.wikipedia.org/wiki/XFCE "wikilink")、[WindowMaker等](https://zh.wikipedia.org/wiki/WindowMaker "wikilink")\[2\]。
 
 Solaris 11採用GNOME。
 
@@ -55,16 +55,17 @@ Solaris已开放其部分源代码，但是由于Sun公司的源代码许可证�
 
 Solaris的大多数源代码已经在CDDL的许可下在OpenSolaris开源项目中发布\[4\]。二进制和源代码目前都可以被下载和许可而无需任何费用。
 Sun的[Common Development and Distribution
-License被选择用做OpenSolaris的许可](../Page/Common_Development_and_Distribution_License.md "wikilink")，并通过了Open
-Source Initiative评审和批准，但其授权条款与时下流行的[GPL互不兼容](../Page/GPL.md "wikilink")。
+License被选择用做OpenSolaris的许可](https://zh.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")，并通过了Open
+Source
+Initiative评审和批准，但其授权条款与时下流行的[GPL互不兼容](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
-OpenSolaris于2005年6月14日正式启动，源代码来自當時的Solaris开发版本。目前OpenSolaris專案已被併吞Sun公司的[Oracle中止](../Page/Oracle.md "wikilink")，由社群發起的[Illumos計劃繼承](../Page/Illumos.md "wikilink")。
+OpenSolaris于2005年6月14日正式启动，源代码来自當時的Solaris开发版本。目前OpenSolaris專案已被併吞Sun公司的[Oracle中止](https://zh.wikipedia.org/wiki/Oracle "wikilink")，由社群發起的[Illumos計劃繼承](../Page/Illumos.md "wikilink")。
 
 ## 相關技術
 
   - [ZFS](../Page/ZFS.md "wikilink")
-  - [DTrace](../Page/DTrace.md "wikilink")
-  - [Zone](../Page/Zone.md "wikilink")
+  - [DTrace](https://zh.wikipedia.org/wiki/DTrace "wikilink")
+  - [Zone](https://zh.wikipedia.org/wiki/Zone "wikilink")
 
 ## 主要版本
 

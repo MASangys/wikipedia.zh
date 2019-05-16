@@ -1,6 +1,6 @@
 **NET-SNMP**是一種[开放源代码的](../Page/开放源代码.md "wikilink")[简单网络管理协议](../Page/简单网络管理协议.md "wikilink")（Simple
 Network Management
-Protocol）[軟件](../Page/軟件.md "wikilink")。NET-SNMP支持SNMP
+Protocol）[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。NET-SNMP支持SNMP
 v1, SNMP v2c 与 SNMP v3，并可以使用 IPV4 及 IPV6 。基于(BSD及BSD like)许可。
 
 ## 软件构成

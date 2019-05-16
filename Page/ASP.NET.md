@@ -1,17 +1,19 @@
-**ASP.NET**是由[微軟在](../Page/微軟.md "wikilink")[.NET
-Framework框架中所提供](../Page/.NET_Framework.md "wikilink")，開發[Web應用程式的類別庫](../Page/网络应用程序.md "wikilink")，封裝在`System.Web.dll`檔案中，顯露出`System.Web`命名空間，並提供ASP.NET網頁處理、擴充以及HTTP通道的應用程式與通訊處理等工作，以及[Web
-Service的基礎架構](../Page/Web_Service.md "wikilink")。ASP.NET是[ASP技術的後繼者](../Page/Active_Server_Pages.md "wikilink")，但它的發展性要比ASP技術要強大許多。
+**ASP.NET**是由[微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET
+Framework框架中所提供](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，開發[Web應用程式的類別庫](../Page/网络应用程序.md "wikilink")，封裝在`System.Web.dll`檔案中，顯露出`System.Web`命名空間，並提供ASP.NET網頁處理、擴充以及HTTP通道的應用程式與通訊處理等工作，以及[Web
+Service的基礎架構](https://zh.wikipedia.org/wiki/Web_Service "wikilink")。ASP.NET是[ASP技術的後繼者](../Page/Active_Server_Pages.md "wikilink")，但它的發展性要比ASP技術要強大許多。
 
 ASP.NET可以運行在安裝了.NET
-Framework的[IIS伺服器上](../Page/Internet_Information_Server.md "wikilink")，若要在非微軟的平台上執行，則需要使用[Mono平台](../Page/Mono.md "wikilink")\[1\]，ASP.NET在2.0版本已經定型，在[.NET
-Framework](../Page/.NET_Framework.md "wikilink") 3.5上則加上了許多功能，像是[ASP.NET
+Framework的[IIS伺服器上](https://zh.wikipedia.org/wiki/Internet_Information_Server "wikilink")，若要在非微軟的平台上執行，則需要使用[Mono平台](../Page/Mono.md "wikilink")\[1\]，ASP.NET在2.0版本已經定型，在[.NET
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+3.5上則加上了許多功能，像是[ASP.NET
 AJAX](../Page/ASP.NET_AJAX.md "wikilink")、[ASP.NET MVC
 Framework](../Page/ASP.NET_MVC_Framework.md "wikilink")、[ASP.NET Dynamic
-Data與](../Page/ASP.NET_Dynamic_Data.md "wikilink")[Microsoft
-Silverlight的伺服器控制項等](../Page/Microsoft_Silverlight.md "wikilink")。
+Data與](https://zh.wikipedia.org/wiki/ASP.NET_Dynamic_Data "wikilink")[Microsoft
+Silverlight的伺服器控制項等](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")。
 
-很多人都把 ASP.NET 當做是一種[程式語言](../Page/程式語言.md "wikilink")，但它實際上只是一個由 .NET
-Framework 提供的一種開發平台 (development
+很多人都把 ASP.NET
+當做是一種[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，但它實際上只是一個由
+.NET Framework 提供的一種開發平台 (development
 platform)，並非程式語言。也可认为ASP.NET是.NET组件，任何.NET语言，例如[C\#](../Page/C♯.md "wikilink")，可以引用该组件，创建网页或Web服务。
 
 為了因應雲端化所誘發的多作業平台整合與開發能力，微軟特別開發一個新一代的 ASP.NET，稱為 ASP.NET vNext，並於 2014
@@ -28,7 +30,7 @@ ASP.NET的前身ASP技術，是在IIS 2.0上首次推出（[Windows
 NT](../Page/Windows_NT.md "wikilink") 3.51），當時與
 [ADO](../Page/ADO.md "wikilink") 1.0 一起推出，在IIS 3.0（Windows NT
 4.0）發揚光大，成為伺服器端應用程式的熱門開發工具，微軟還特別為它量身打造了[Visual
-InterDev開發工具](../Page/Visual_InterDev.md "wikilink")，在1994年到2000年之間，ASP技術已經成為微軟推展[Windows
+InterDev開發工具](https://zh.wikipedia.org/wiki/Visual_InterDev "wikilink")，在1994年到2000年之間，ASP技術已經成為微軟推展[Windows
 NT
 4.0平台的關鍵技術之一](../Page/Windows_NT_4.0.md "wikilink")，數以萬計的ASP網站也是這個時候開始如雨後春筍般的出現在網路上。由於它的簡單以及高度客制化的能力，也是它能迅速竄起的原因之一。
 
@@ -36,25 +38,25 @@ NT
 
   - 義大利麵型的程式開發方法，讓維護的難度提高很多，尤其是大型的ASP應用程式。
   - 直譯式的[VBScript或](../Page/VBScript.md "wikilink")[JScript語言](../Page/JScript.md "wikilink")，讓效能有些許的受限。
-  - 延展性因為其基礎架構擴充性不足而受限，雖然有[COM元件可用](../Page/COM.md "wikilink")，但開發一些特殊功能（像檔案上傳）時，沒有來自內建的支援，需要尋求第三方軟體商開發的元件。
+  - 延展性因為其基礎架構擴充性不足而受限，雖然有[COM元件可用](https://zh.wikipedia.org/wiki/COM "wikilink")，但開發一些特殊功能（像檔案上傳）時，沒有來自內建的支援，需要尋求第三方軟體商開發的元件。
 
-1997年時，微軟開始針對ASP的缺點（尤其是義大利麵型的程式開發方法）準備開始一個新專案來開發，當時ASP.NET的主要領導人剛從[杜克大學畢業](../Page/杜克大學.md "wikilink")，他和IIS團隊的[Mark
-Anders經理一起合作兩個月](../Page/Mark_Anders.md "wikilink")，開發出了下一代ASP技術的原型，這個原型在1997年的聖誕節時被發展出來，並給予一個名稱：**XSP**\[2\]，這個原型產品使用的是[Java語言](../Page/Java.md "wikilink")。不過它馬上就被納入當時還在開發中的[CLR平台](../Page/CLR.md "wikilink")，Scott
+1997年時，微軟開始針對ASP的缺點（尤其是義大利麵型的程式開發方法）準備開始一個新專案來開發，當時ASP.NET的主要領導人剛從[杜克大學畢業](https://zh.wikipedia.org/wiki/杜克大學 "wikilink")，他和IIS團隊的[Mark
+Anders經理一起合作兩個月](https://zh.wikipedia.org/wiki/Mark_Anders "wikilink")，開發出了下一代ASP技術的原型，這個原型在1997年的聖誕節時被發展出來，並給予一個名稱：**XSP**\[2\]，這個原型產品使用的是[Java語言](../Page/Java.md "wikilink")。不過它馬上就被納入當時還在開發中的[CLR平台](https://zh.wikipedia.org/wiki/CLR "wikilink")，Scott
 Guthrie事後也認為將這個技術移植到當時的CLR平台，確實有很大的風險（huge
 risk），但當時的XSP團隊卻是以CLR開發應用的第一個團隊。
 
 為了將XSP移植到CLR中，XSP團隊將XSP的核心程式全部以[C\#語言重新撰寫](../Page/C♯.md "wikilink")（在內部的專案代號是
 "Project
-Cool"，但是當時對公開場合是保密的），並且改名為**ASP+**，作為ASP技術的後繼者，並且也會提供一個簡單的移轉方法給ASP開發人員。ASP+首次的Beta版本以及應用在[PDC](../Page/专业开发者大会.md "wikilink")
+Cool"，但是當時對公開場合是保密的），並且改名為**ASP+**，作為ASP技術的後繼者，並且也會提供一個簡單的移轉方法給ASP開發人員。ASP+首次的Beta版本以及應用在[PDC](https://zh.wikipedia.org/wiki/专业开发者大会 "wikilink")
 2000中亮相，由[Bill
-Gates发表Keynote](../Page/Bill_Gates.md "wikilink")（即關鍵技術的概覽），由[富士通公司展示使用](../Page/富士通.md "wikilink")[COBOL語言撰寫ASP](../Page/COBOL.md "wikilink")+應用程式，並且宣布它可以使用[Visual
-Basic.NET](../Page/Visual_Basic.NET.md "wikilink")、[C\#](../Page/C_Sharp.md "wikilink")、[Perl與](../Page/Perl.md "wikilink")[Python語言](../Page/Python.md "wikilink")（後兩者由ActiveState公司開發的互通工具支援）來開發。
+Gates发表Keynote](https://zh.wikipedia.org/wiki/Bill_Gates "wikilink")（即關鍵技術的概覽），由[富士通公司展示使用](../Page/富士通.md "wikilink")[COBOL語言撰寫ASP](../Page/COBOL.md "wikilink")+應用程式，並且宣布它可以使用[Visual
+Basic.NET](https://zh.wikipedia.org/wiki/Visual_Basic.NET "wikilink")、[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")、[Perl與](../Page/Perl.md "wikilink")[Python語言](../Page/Python.md "wikilink")（後兩者由ActiveState公司開發的互通工具支援）來開發。
 
 在2000年第二季時，微軟正式推動.NET策略，ASP+也順理成章的改名為**ASP.NET**，經過四年的開發，第一個版本的ASP.NET在2002年1月5日亮相（和[.NET
-Framework](../Page/.NET_Framework.md "wikilink") 1.0），Scott
-Guthrie也成為ASP.NET的產品經理（到現在已經開發了數個微軟產品，像[ASP.NET
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+1.0），Scott Guthrie也成為ASP.NET的產品經理（到現在已經開發了數個微軟產品，像[ASP.NET
 AJAX和](../Page/ASP.NET_AJAX.md "wikilink")[Microsoft
-Silverlight](../Page/Microsoft_Silverlight.md "wikilink")）。
+Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")）。
 
 ## ASP.NET處理架構
 
@@ -119,7 +121,7 @@ IHttpHandler.ProcessRequest() 方法，由它來處理程式的輸出，不像 P
 ### ASP.NET的事件模型
 
 ASP.NET 的原始設計構想，就是要讓開發人員能夠像 VB
-開發工具那樣，可以使用[事件驅動式程式開發模式](../Page/事件驅動.md "wikilink")
+開發工具那樣，可以使用[事件驅動式程式開發模式](https://zh.wikipedia.org/wiki/事件驅動 "wikilink")
 (Event-Driven Programming Model)
 的方法來開發網頁與應用程式，若要以ASP技術來做到這件事的話，就必須要使用大量的輔助資訊，像是查詢字串或是表單欄位資料來識別與判斷物件的來源、事件流向以及呼叫的函式等等，需要撰寫的程式碼量相當的多，但
 ASP.NET 很巧妙利用表單欄位和JavaScript指令碼把事件的傳遞模型隱藏起來了。
@@ -195,7 +197,7 @@ Tree)**，藉由控制項樹，可以讓各個控制項的輸出可以階層化�
 ## 狀態管理
 
 狀態管理 (state management)
-在[Web應用程式中](../Page/网络应用程序.md "wikilink")，一向是很重要的課題，良好的狀態管理可以幫助開發人員發展出具有狀態持續能力的應用程式（像是[工作流程型應用程式或是](../Page/工作流程.md "wikilink")[電子商務應用程式](../Page/電子商務.md "wikilink")），但狀態管理功能會視應用程式的部署狀態以及資訊的共用程度來選擇，在
+在[Web應用程式中](../Page/网络应用程序.md "wikilink")，一向是很重要的課題，良好的狀態管理可以幫助開發人員發展出具有狀態持續能力的應用程式（像是[工作流程型應用程式或是](https://zh.wikipedia.org/wiki/工作流程 "wikilink")[電子商務應用程式](https://zh.wikipedia.org/wiki/電子商務 "wikilink")），但狀態管理功能會視應用程式的部署狀態以及資訊的共用程度來選擇，在
 ASP.NET
 中，分為伺服器端狀態管理以及用戶端狀態管理，用戶端狀態管理為**ViewState**以及[Cookies](../Page/Cookie.md "wikilink")，伺服端狀態管理則是**Session**與**Application**物件。它們的差異點在於：
 
@@ -230,7 +232,7 @@ Session ID 字串（例如 anf4vuup3xiq0arjlqla2l55 這樣的字串）儲存在�
 個體。
 
 為因應不同的用戶端，ASP.NET 設計了不同的 Session ID
-存放機制，像是舊式的瀏覽器或是行動用戶端這種不支援本地儲存[cookie的裝置時](../Page/cookie.md "wikilink")，ASP.NET
+存放機制，像是舊式的瀏覽器或是行動用戶端這種不支援本地儲存[cookie的裝置時](https://zh.wikipedia.org/wiki/cookie "wikilink")，ASP.NET
 可以直接在 URL 中加上 Session ID 的識別，像是
 `http://www.example.org/(anf4vuup3xiq0arjlqla2l55)/profile.aspx` 這樣的
 URL，可以由開發人員自行設定，或是使用 AutoDetect 設定來讓 ASP.NET 自行判斷要使用的 Session ID 存放方式。
@@ -280,7 +282,7 @@ namespace Samples.AspNet.Session
 ### 跨機器狀態管理
 
 狀態管理在單一伺服器上，可以儲存在伺服器的記憶體中，但若是在大型網站中，使用許多的 Web
-伺服器來實行[負載平衡](../Page/負載平衡.md "wikilink")（Load
+伺服器來實行[負載平衡](https://zh.wikipedia.org/wiki/負載平衡 "wikilink")（Load
 Balancing）處理時，會有狀態儲存在哪個位置的問題，因此需要有一個可以在每個 Web
 伺服器之間做狀態儲存的媒介，像是獨立的伺服器或是資料庫等等。在
 ASP.NET 中支援了四種狀態儲存的媒介\[5\]：
@@ -288,7 +290,8 @@ ASP.NET 中支援了四種狀態儲存的媒介\[5\]：
   - **InProc**：儲存與 ASP.NET 相同的執行行程中 (in-procedure state)，適合單一伺服器的狀態儲存。
   - **StateServer**：儲存在 ASP.NET 狀態伺服器 (state server)
     中，適合跨伺服器的狀態儲存，但因為它使用的通訊埠，因此在使用上需要注意防火牆的問題。
-  - **SQLServer**：儲存在獨立的 [SQL Server](../Page/SQL_Server.md "wikilink")
+  - **SQLServer**：儲存在獨立的 [SQL
+    Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")
     資料庫中，適合跨伺服器的狀態儲存。
   - **Custom**：以自行實作的狀態提供者 (state provider)。
 
@@ -316,7 +319,7 @@ Forms 的表單，每個 Web Form 都要有一個 <code>
 
 </code> 區塊，所有的 ASP.NET 伺服器控制項都要放在這個區域中，這樣才可以讓 ViewState 等伺服器控制能夠順暢的運作。
 
-在網頁中也可以使用程式碼，以類似於[ASP時代的撰寫方式來開發](../Page/ASP.md "wikilink")，此種開發方式稱為
+在網頁中也可以使用程式碼，以類似於[ASP時代的撰寫方式來開發](https://zh.wikipedia.org/wiki/ASP "wikilink")，此種開發方式稱為
 **inline code**，在 ASP.NET 的程式開發模式中，inline code ，要放在 <code>
 
 <script runat="server">
@@ -386,8 +389,9 @@ namespace Website
 
 ASP.NET
 可以支援[HTML和](../Page/HTML.md "wikilink")[XHTML兩種網頁內容](../Page/XHTML.md "wikilink")，但在[Visual
-Studio.NET中](../Page/Visual_Studio.md "wikilink")，預設是使用 HTML，但在[Visual
-Studio 2005以後的版本](../Page/Visual_Studio.md "wikilink")，則一律都改用XHTML格式。
+Studio.NET中](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")，預設是使用
+HTML，但在[Visual Studio
+2005以後的版本](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")，則一律都改用XHTML格式。
 
 #### 控制項
 
@@ -513,8 +517,9 @@ HttpApplication 事件需要的程式碼。它可被視為 .NET Framework 中的
 
 ## 一致性與多樣性介面的支援　
 
-ASP.NET 在一開始的時候是缺乏[範本引擎](../Page/範本引擎.md "wikilink") (template engine)
-的，其主因是.NET Framework本身是物件導向，且需要用繼承的方式才能夠延伸功能，大多數的開發人員都是由
+ASP.NET 在一開始的時候是缺乏[範本引擎](https://zh.wikipedia.org/wiki/範本引擎 "wikilink")
+(template engine) 的，其主因是.NET
+Framework本身是物件導向，且需要用繼承的方式才能夠延伸功能，大多數的開發人員都是由
 System.Web.UI.Page 繼承並定義出新的基礎類別，並撰寫要繪製 HTML
 的方法，以及在他們的應用程式中修改以繼承該類別，然而這個方法可能會被用在網站的很多地方，因而會大大的提升混合程式碼與標記的複雜度，這個方法也只能在執行期才能夠以視覺化的方式測試，無法在設計時期視覺化，其他的開發人員總是使用原有的
 ASP 方法（即`<!-- #include -->` 指令）來把每個網頁需要的部份包到網頁中，防止在每個網頁中都要撰寫相同的導覽程式碼。
@@ -565,15 +570,16 @@ ASP.NET 的驗證方式有三種\[15\]：
   - **Windows 驗證**：由 IIS 目前執行的帳戶，或者是使用者模擬 (user impersonate) 帳戶的方式進行驗證。
   - **表單驗證**：由表單的資料提供驗證，開發人員自訂驗證邏輯，並交由 ASP.NET 表單驗證工具寫入驗證憑證，以進行授權。
   - **Passport 驗證**：在 ASP.NET 1.x 中，連接[Windows Live
-    ID](../Page/Windows_Live_ID.md "wikilink")（當時的舊稱為Microsoft
+    ID](https://zh.wikipedia.org/wiki/Windows_Live_ID "wikilink")（當時的舊稱為Microsoft
     Passport）服務以進行驗證。
 
 ### 授權
 
 ASP.NET 的授權方式有兩種\[16\]：
 
-  - **檔案授權**：由 ASP.NET 檢查檔案的 [存取控制表](../Page/存取控制表.md "wikilink") (ACL)
-    來授權存取權限。
+  - **檔案授權**：由 ASP.NET 檢查檔案的
+    [存取控制表](https://zh.wikipedia.org/wiki/存取控制表 "wikilink")
+    (ACL) 來授權存取權限。
   - **URL授權**：由開發人員設定的 URL 來給予權限。
 
 一個 URL 授權的設定範例如下：
@@ -589,21 +595,22 @@ ASP.NET 的授權方式有兩種\[16\]：
 
 ## Web Service支援
 
-ASP.NET 1.0 開始支援 [Web Service](../Page/Web_Service.md "wikilink")
-的開發，是微軟在原生平台上支援 Web Service 發展的第一個實作品，但它卻不是微軟的第一個 Web
-Service 開發工具實作品\[17\]，.NET Framework 中提供了一個 WSDL.exe，可以連接 Web Service
-下載[WSDL定義檔](../Page/WSDL.md "wikilink")，並產生一個 Proxy Class
-的原始碼，供用戶端應用程式使用，若是使用 Visual Studio 開發的話，這個動作會由「加入
-Web 參考」的動作在背後處理掉。
+ASP.NET 1.0 開始支援 [Web
+Service](https://zh.wikipedia.org/wiki/Web_Service "wikilink")
+的開發，是微軟在原生平台上支援 Web Service 發展的第一個實作品，但它卻不是微軟的第一個
+Web Service 開發工具實作品\[17\]，.NET Framework 中提供了一個 WSDL.exe，可以連接 Web
+Service 下載[WSDL定義檔](../Page/WSDL.md "wikilink")，並產生一個 Proxy Class
+的原始碼，供用戶端應用程式使用，若是使用 Visual Studio 開發的話，這個動作會由「加入 Web
+參考」的動作在背後處理掉。
 
 ASP.NET Web Service 的發展只是平台的基礎，微軟在 Web Service 的開發上提供持續的支援，尤其是在
-[WS-I](../Page/WS-I.md "wikilink") (Web Service Interoperability)
-組織成立後，為符合 WS-I 的 Web Service 標準，微軟開發了強化 Web Service 的增強套件
-Web Service Enhancement (WSE)，最新版本為 3.0 版（搭配 ASP.NET 2.0），可支援許多 WS-I
-的標準。
+[WS-I](https://zh.wikipedia.org/wiki/WS-I "wikilink") (Web Service
+Interoperability) 組織成立後，為符合 WS-I 的 Web Service 標準，微軟開發了強化 Web Service
+的增強套件 Web Service Enhancement (WSE)，最新版本為 3.0 版（搭配 ASP.NET
+2.0），可支援許多 WS-I 的標準。
 
 由於 [Windows Communication
-Foundation](../Page/Windows_Communication_Foundation.md "wikilink")
+Foundation](https://zh.wikipedia.org/wiki/Windows_Communication_Foundation "wikilink")
 的推出，微軟將 Web Service 的發展重心移到 WCF 上，原有的 ASP.NET Web Service
 即給定了一個名稱：**ASMX Web Service**。
 
@@ -623,9 +630,11 @@ ASP.NET MVC Framework 是微軟基於 MVC (Model-View-Controller)
 架構所開發的架構，讓應用程式各個模型可以在 MVC 架構下運行。
 
   - **View**：負責顯示資料以及使用者介面，在 ASP.NET MVC 架構下，View 可以支援 REST 樣式的 URL。
-  - **Model**：負責定義資料的儲存，此部份可以由 [LINQ](../Page/LINQ.md "wikilink") to SQL
-    與 [ADO.NET Entity
-    Framework](../Page/ADO.NET_Entity_Framework.md "wikilink") 來代替。
+  - **Model**：負責定義資料的儲存，此部份可以由
+    [LINQ](https://zh.wikipedia.org/wiki/LINQ "wikilink") to SQL 與
+    [ADO.NET Entity
+    Framework](https://zh.wikipedia.org/wiki/ADO.NET_Entity_Framework "wikilink")
+    來代替。
   - **Controller**：負責處理 View 和 Model 之間的聯繫。
 
 ASP.NET MVC Framework 也支援[以測試驅動的開發模式](../Page/测试驱动开发.md "wikilink")
@@ -636,22 +645,25 @@ ASP.NET MVC Framework 也支援[以測試驅動的開發模式](../Page/测试�
 ASP.NET Dynamic Data Framework 是微軟在 ASP.NET 3.5 中開發的一組類別庫，封裝在
 System.Web.DynamicData 命名空間中，並且配合 ASP.NET Routing
 Model（網頁繞送功能）讓開發人員可以很簡單的開發出基於
-[LINQ](../Page/LINQ.md "wikilink") to SQL 或是 [ADO.NET Entity
-Framework](../Page/ADO.NET_Entity_Framework.md "wikilink") 資料模型的資料庫應用程式。
+[LINQ](https://zh.wikipedia.org/wiki/LINQ "wikilink") to SQL 或是 [ADO.NET
+Entity
+Framework](https://zh.wikipedia.org/wiki/ADO.NET_Entity_Framework "wikilink")
+資料模型的資料庫應用程式。
 
 ### ASP.NET Routing
 
 ASP.NET Routing Model（官方譯名為 ASP.NET
-路由）是一個基於[REST規格下的](../Page/REST.md "wikilink")
+路由）是一個基於[REST規格下的](https://zh.wikipedia.org/wiki/REST "wikilink")
 URL 對應機制，開發人員可以在伺服器端設定 URL 的格式，使用者可以用由開發人員定義的 URL 格式瀏覽網頁，ASP.NET 會自動將
 URL 轉換成為內部的 URL 格式，雖然它和 [URL
-Rewriting](../Page/URL_Rewriting.md "wikilink") 很像，但微軟認為 ASP.NET Routing
-不是 URL Rewriting\[18\]。
+Rewriting](https://zh.wikipedia.org/wiki/URL_Rewriting "wikilink")
+很像，但微軟認為 ASP.NET Routing 不是 URL Rewriting\[18\]。
 
 ### Silverlight
 
-Silverlight 是微軟的新一代[RIA技術](../Page/RIA.md "wikilink")，ASP.NET 3.5
-Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支援，包含：
+Silverlight
+是微軟的新一代[RIA技術](https://zh.wikipedia.org/wiki/RIA "wikilink")，ASP.NET
+3.5 Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支援，包含：
 
   - **Silverlight控制項**：讓伺服器端可以產生支援 Silverlight 的物件標記，以及自訂參數等。
   - **Media控制項**：讓伺服器端輸出以 Silverlight 為主的串流影音 (streaming media) 播放器。
@@ -661,25 +673,30 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 目前已有數個工具可支援 ASP.NET 應用程式的開發。
 
   - [Visual Web Developer 2008 Express
-    Edition](../Page/Visual_Studio_Express.md "wikilink")（免費）或 [Visual
-    Studio 2008](../Page/Visual_Studio.md "wikilink") (ASP.NET
-    2.0/3.5)\[19\]
+    Edition](https://zh.wikipedia.org/wiki/Visual_Studio_Express "wikilink")（免費）或
+    [Visual Studio
+    2008](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
+    (ASP.NET 2.0/3.5)\[19\]
   - [Visual Web Developer 2005 Express
-    Edition](../Page/Visual_Studio_Express.md "wikilink")（免費）或 [Visual
-    Studio 2005](../Page/Visual_Studio.md "wikilink") (ASP.NET 2.0)
-  - [Visual Studio .NET](../Page/Visual_Studio_.NET.md "wikilink")
+    Edition](https://zh.wikipedia.org/wiki/Visual_Studio_Express "wikilink")（免費）或
+    [Visual Studio
+    2005](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
+    (ASP.NET 2.0)
+  - [Visual Studio
+    .NET](https://zh.wikipedia.org/wiki/Visual_Studio_.NET "wikilink")
     (ASP.NET 1.x)
   - [Delphi 2006](../Page/Delphi.md "wikilink")
-  - [Macromedia HomeSite](../Page/Macromedia_HomeSite.md "wikilink") 5.5
-    (For ASP Tags)
+  - [Macromedia
+    HomeSite](https://zh.wikipedia.org/wiki/Macromedia_HomeSite "wikilink")
+    5.5 (For ASP Tags)
   - [Microsoft Expression
-    Web](../Page/Microsoft_Expression_Web.md "wikilink")，[Microsoft
+    Web](https://zh.wikipedia.org/wiki/Microsoft_Expression_Web "wikilink")，[Microsoft
     Expression
     Studio](../Page/Microsoft_Expression_Studio.md "wikilink") 工具集的一部份
   - [Microsoft SharePoint
     Designer](../Page/Microsoft_SharePoint_Designer.md "wikilink")
-  - [MonoDevelop](../Page/MonoDevelop.md "wikilink")（免費／[開放原始碼](../Page/開放原始碼.md "wikilink")）
-  - [SharpDevelop](../Page/SharpDevelop.md "wikilink")（免費／[開放原始碼](../Page/開放原始碼.md "wikilink")）
+  - [MonoDevelop](../Page/MonoDevelop.md "wikilink")（免費／[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")）
+  - [SharpDevelop](../Page/SharpDevelop.md "wikilink")（免費／[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")）
   - [Eiffel for
     ASP.NET](https://web.archive.org/web/20061017130147/https://www.eiffel.com/downloads/asp.net.html)（免費）
   - WebMatrix 3（免費）
@@ -687,7 +704,7 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 
 ## 版本
 
-在一台计算机上，查看[Windows注册表的](../Page/Windows_Registry.md "wikilink")
+在一台计算机上，查看[Windows注册表的](https://zh.wikipedia.org/wiki/Windows_Registry "wikilink")
 
 `   HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full`
 
@@ -706,17 +723,17 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 <tr class="odd">
 <td><p>2002年1月16日</p></td>
 <td><p>1.0</p></td>
-<td><p>與<a href="../Page/Visual_Studio_.NET.md" title="wikilink">Visual Studio .NET一起發行的第一個版本</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/Visual_Studio_.NET" title="wikilink">Visual Studio .NET一起發行的第一個版本</a></p></td>
 <td><ul>
-<li><a href="../Page/物件導向.md" title="wikilink">物件導向的Web應用程開發</a>，支援<a href="../Page/繼承.md" title="wikilink">繼承</a>、<a href="../Page/多型.md" title="wikilink">多型與其他標準</a><a href="../Page/物件導向程式設計.md" title="wikilink">物件導向程式設計的功能</a>。</li>
+<li><a href="https://zh.wikipedia.org/wiki/物件導向" title="wikilink">物件導向的Web應用程開發</a>，支援<a href="https://zh.wikipedia.org/wiki/繼承" title="wikilink">繼承</a>、<a href="https://zh.wikipedia.org/wiki/多型" title="wikilink">多型與其他標準</a><a href="https://zh.wikipedia.org/wiki/物件導向程式設計" title="wikilink">物件導向程式設計的功能</a>。</li>
 <li>開發人員不再需要使用 Server.CreateObject(...)，讓早期繫結與型別安全變得可能。</li>
-<li>以<a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows程式設計為基礎</a>，開發人員能夠使用在Web Server上使用的DLL類別庫來建立許多能夠做到比只簡單的輸出 HTML 更多的魯棒性 (robust) 應用程式（例如<a href="../Page/例外處理.md" title="wikilink">例外處理功能</a>）。</li>
+<li>以<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows程式設計為基礎</a>，開發人員能夠使用在Web Server上使用的DLL類別庫來建立許多能夠做到比只簡單的輸出 HTML 更多的魯棒性 (robust) 應用程式（例如<a href="https://zh.wikipedia.org/wiki/例外處理" title="wikilink">例外處理功能</a>）。</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2003年4月24日</p></td>
 <td><p>1.1</p></td>
-<td><p>與<a href="../Page/Windows_Server_2003.md" title="wikilink">Windows Server 2003和</a><a href="../Page/Visual_Studio_.NET_2003.md" title="wikilink">Visual Studio .NET 2003一起發表</a>。</p></td>
+<td><p>與<a href="../Page/Windows_Server_2003.md" title="wikilink">Windows Server 2003和</a><a href="https://zh.wikipedia.org/wiki/Visual_Studio_.NET_2003" title="wikilink">Visual Studio .NET 2003一起發表</a>。</p></td>
 <td><ul>
 <li>行動裝置控制項。</li>
 <li>自動化輸入驗證。</li>
@@ -725,7 +742,7 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 <tr class="odd">
 <td><p>2005年11月7日</p></td>
 <td><p>2.0</p></td>
-<td><p>研發代號為<a href="../Page/Whidbey.md" title="wikilink">Whidbey</a>，和<a href="../Page/Visual_Studio_2005.md" title="wikilink">Visual Studio 2005</a>、<a href="../Page/Microsoft_Visual_Studio_Express.md" title="wikilink">Visual Web Developer Express與</a><a href="../Page/Microsoft_SQL_Server.md" title="wikilink">SQL Server 2005一起發表</a>。</p></td>
+<td><p>研發代號為<a href="https://zh.wikipedia.org/wiki/Whidbey" title="wikilink">Whidbey</a>，和<a href="https://zh.wikipedia.org/wiki/Visual_Studio_2005" title="wikilink">Visual Studio 2005</a>、<a href="../Page/Microsoft_Visual_Studio_Express.md" title="wikilink">Visual Web Developer Express與</a><a href="https://zh.wikipedia.org/wiki/Microsoft_SQL_Server" title="wikilink">SQL Server 2005一起發表</a>。</p></td>
 <td><ul>
 <li>新的資料控制項（GridView、FormView、DetailsView）</li>
 <li>新的宣告式資料存取技術（SqlDataSource、ObjectDataSource 與 XmlDataSource 控制項）</li>
@@ -745,11 +762,11 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 <tr class="even">
 <td><p>2007年11月19日</p></td>
 <td><p>3.5</p></td>
-<td><p>與<a href="../Page/Visual_Studio_2008.md" title="wikilink">Visual Studio 2008和</a><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008一起發表</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/Visual_Studio_2008" title="wikilink">Visual Studio 2008和</a><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008一起發表</a></p></td>
 <td><ul>
 <li>新資料控制項（ListView、DataPager）</li>
 <li><a href="../Page/ASP.NET_AJAX.md" title="wikilink">ASP.NET AJAX</a> 內含到.NET Framework，成為.NET Framework的一部份。</li>
-<li>提供支援 <a href="../Page/Language_Integrated_Query.md" title="wikilink">LINQ</a> 的 LinqDataSource 控制項。</li>
+<li>提供支援 <a href="https://zh.wikipedia.org/wiki/Language_Integrated_Query" title="wikilink">LINQ</a> 的 LinqDataSource 控制項。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -761,13 +778,13 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 <tr class="even">
 <td><p>2010年4月12日</p></td>
 <td><p>4.0</p></td>
-<td><p>與<a href="../Page/Visual_Studio.md" title="wikilink">Visual Studio 2010一起發表</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/Visual_Studio" title="wikilink">Visual Studio 2010一起發表</a></p></td>
 <td><ul>
-<li>配合<a href="../Page/.NET_Framework.md" title="wikilink">.NET Framework 4.0讓Web應用程式具有如並列運算函式庫</a>(Parallel Library)等新功能。</li>
-<li><a href="../Page/ASP.NET_MVC.md" title="wikilink">ASP.NET MVC 2.0</a></li>
-<li><a href="../Page/jQuery.md" title="wikilink">jQuery完全整合與</a><a href="../Page/ASP.NET_AJAX.md" title="wikilink">ASP.NET AJAX</a> Client Library 強化，以及 AJAX CDN 的支援。</li>
+<li>配合<a href="https://zh.wikipedia.org/wiki/.NET_Framework" title="wikilink">.NET Framework 4.0讓Web應用程式具有如並列運算函式庫</a>(Parallel Library)等新功能。</li>
+<li><a href="https://zh.wikipedia.org/wiki/ASP.NET_MVC" title="wikilink">ASP.NET MVC 2.0</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/jQuery" title="wikilink">jQuery完全整合與</a><a href="../Page/ASP.NET_AJAX.md" title="wikilink">ASP.NET AJAX</a> Client Library 強化，以及 AJAX CDN 的支援。</li>
 <li>ASP.NET 的 Render Compatibility (3.5以前版本或4.0版)，可控制許多 ASP.NET Web 控制項的繪製行為，以配合標準 HTML 與 jQuery 的處理。</li>
-<li><a href="../Page/SEO.md" title="wikilink">SEO的支援</a>。</li>
+<li><a href="https://zh.wikipedia.org/wiki/SEO" title="wikilink">SEO的支援</a>。</li>
 <li>自訂快取提供者 (Extensible Output Cache)。</li>
 <li>QueryExtender 的支援。</li>
 <li>CSS 控制行為的變更。</li>
@@ -781,20 +798,20 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 <tr class="odd">
 <td><p>2012年8月15日</p></td>
 <td><p>4.5</p></td>
-<td><p>與<a href="../Page/Visual_Studio.md" title="wikilink">Visual Studio 2012一起發表</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/Visual_Studio" title="wikilink">Visual Studio 2012一起發表</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013年10月17日</p></td>
 <td></td>
-<td><p><a href="../Page/Visual_Studio_2013.md" title="wikilink">Visual Studio 2013</a>[20]发布用于<a href="../Page/Windows_Server_2012_R2.md" title="wikilink">Windows Server 2012 R2与</a><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Visual_Studio_2013" title="wikilink">Visual Studio 2013</a>[20]发布用于<a href="https://zh.wikipedia.org/wiki/Windows_Server_2012_R2" title="wikilink">Windows Server 2012 R2与</a><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a></p></td>
 <td><ul>
-<li><a href="../Page/Bootstrap_(front-end_framework).md" title="wikilink">Bootstrap</a> 3.0</li>
-<li>Web API 2: <a href="../Page/OAuth.md" title="wikilink">OAuth</a> 2.0, <a href="../Page/Open_Data_Protocol.md" title="wikilink">OData改进</a>, <a href="../Page/Cross-origin_resource_sharing.md" title="wikilink">CORS</a></li>
-<li><a href="../Page/ASP.NET_MVC.md" title="wikilink">MVC</a> 5: Attribute routing, authentication filters，filter overrides</li>
+<li><a href="https://zh.wikipedia.org/wiki/Bootstrap_(front-end_framework)" title="wikilink">Bootstrap</a> 3.0</li>
+<li>Web API 2: <a href="https://zh.wikipedia.org/wiki/OAuth" title="wikilink">OAuth</a> 2.0, <a href="https://zh.wikipedia.org/wiki/Open_Data_Protocol" title="wikilink">OData改进</a>, <a href="https://zh.wikipedia.org/wiki/Cross-origin_resource_sharing" title="wikilink">CORS</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/ASP.NET_MVC" title="wikilink">MVC</a> 5: Attribute routing, authentication filters，filter overrides</li>
 <li><a href="../Page/Entity_Framework.md" title="wikilink">EF</a> 6</li>
 <li><a href="../Page/SignalR.md" title="wikilink">SignalR</a></li>
-<li><a href="../Page/Open_Web_Interface_for_.NET.md" title="wikilink">OWIN</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Open_Web_Interface_for_.NET" title="wikilink">OWIN</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -809,9 +826,9 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 <tr class="even">
 <td><p>2015年7月29日[22]</p></td>
 <td></td>
-<td><p>发布于[23]<a href="../Page/Visual_Studio_2015.md" title="wikilink">Visual Studio 2015</a>[24]与<a href="../Page/Entity_Framework.md" title="wikilink">EF</a> 7预览版用于<a href="../Page/Windows_Server_2016.md" title="wikilink">Windows Server 2016与</a><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
+<td><p>发布于[23]<a href="https://zh.wikipedia.org/wiki/Visual_Studio_2015" title="wikilink">Visual Studio 2015</a>[24]与<a href="../Page/Entity_Framework.md" title="wikilink">EF</a> 7预览版用于<a href="../Page/Windows_Server_2016.md" title="wikilink">Windows Server 2016与</a><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
 <td><ul>
-<li><a href="../Page/HTTP/2.md" title="wikilink">HTTP/2支持运行于</a> Windows 10</li>
+<li><a href="https://zh.wikipedia.org/wiki/HTTP/2" title="wikilink">HTTP/2支持运行于</a> Windows 10</li>
 <li>更多的异步任务返回API</li>
 </ul></td>
 </tr>
@@ -865,12 +882,15 @@ Service Pack 1 (SP1) 中加入了對 Silverlight 2.0 的 ASP.NET 伺服器端支
 ## 參見
 
   - [ASP.NET Core](../Page/ASP.NET_Core.md "wikilink")
-  - [.NET Framework](../Page/.NET_Framework.md "wikilink")
-  - [Visual Studio](../Page/Visual_Studio.md "wikilink")
-  - [Microsoft Silverlight](../Page/Microsoft_Silverlight.md "wikilink")
+  - [.NET
+    Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+  - [Visual
+    Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
+  - [Microsoft
+    Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
   - [ASP](../Page/Active_Server_Pages.md "wikilink")
   - [ADO.NET](../Page/ADO.NET.md "wikilink")
-  - [Web Service](../Page/Web_Service.md "wikilink")
+  - [Web Service](https://zh.wikipedia.org/wiki/Web_Service "wikilink")
   - [PHP](../Page/PHP.md "wikilink")
   - [JSP](../Page/JSP.md "wikilink")
 

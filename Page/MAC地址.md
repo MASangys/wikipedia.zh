@@ -5,7 +5,7 @@ Address），它是一个用來确认網路設備位置的位址。在[OSI模型
 
 ## 格式
 
-MAC位址共48位元（6個位元組），以[十六進位表示](../Page/十六進位.md "wikilink")。前24位元由[IEEE決定如何分配](../Page/IEEE.md "wikilink")，後24位元由實際生產該網路設備的廠商自行指定。
+MAC位址共48位元（6個位元組），以[十六進位表示](https://zh.wikipedia.org/wiki/十六進位 "wikilink")。前24位元由[IEEE決定如何分配](https://zh.wikipedia.org/wiki/IEEE "wikilink")，後24位元由實際生產該網路設備的廠商自行指定。
 
 ff:ff:ff:ff:ff:ff则作为廣播位址。
 
@@ -13,14 +13,14 @@ ff:ff:ff:ff:ff:ff则作为廣播位址。
 
 ## 举例
 
-假設現有一台[路由器](../Page/路由器.md "wikilink")，含有一個WAN埠及四個LAN埠。它的WAN埠會有一個如61.61.61.61的[IP位址](../Page/IP位址.md "wikilink")，也會有一個如00:0A:02:0B:03:0C的MAC位址。而它的四個LAN埠會各分配到一個例如192.168.1.0/24的IP位址，四個埠各會有一個不同的MAC位址。
+假設現有一台[路由器](../Page/路由器.md "wikilink")，含有一個WAN埠及四個LAN埠。它的WAN埠會有一個如61.61.61.61的[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")，也會有一個如00:0A:02:0B:03:0C的MAC位址。而它的四個LAN埠會各分配到一個例如192.168.1.0/24的IP位址，四個埠各會有一個不同的MAC位址。
 
 ## 如何查看MAC位址
 
 ### Windows
 
-在[Windows命令提示符](../Page/命令提示符.md "wikilink")（cmd.exe）下运行 ipconfig /all
-命令。假设运行结果含：
+在[Windows命令提示符](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")（cmd.exe）下运行
+ipconfig /all 命令。假设运行结果含：
 
 `        Physical Address. . . . . . . . . : 00-05-5D-E8-0F-A3`
 
@@ -29,7 +29,7 @@ ff:ff:ff:ff:ff:ff则作为廣播位址。
 ### Linux
 
 第一种： 在 [Linux](../Page/Linux.md "wikilink") 下运行
-[ifconfig](../Page/ifconfig.md "wikilink") 命令，如下：
+[ifconfig](https://zh.wikipedia.org/wiki/ifconfig "wikilink") 命令，如下：
 
 `$ ifconfig`
 `eth0    Link encap:Ethernet HWaddr 00:0C:29:01:98:27`
@@ -51,7 +51,8 @@ ff:ff:ff:ff:ff:ff则作为廣播位址。
 
 eth0 为第一块物理网卡， HWaddr 00:0C:29:01:98:27 就是MAC地址，lo为本地回环地址。
 
-第二种： 运行 [ip](../Page/ip.md "wikilink") 命令(是一个命令，不是Tcp/Ip里的ip)，示例如下：
+第二种： 运行 [ip](https://zh.wikipedia.org/wiki/ip "wikilink")
+命令(是一个命令，不是Tcp/Ip里的ip)，示例如下：
 
 `$ ip link show`
 `1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default `
@@ -63,7 +64,7 @@ eth0 为第一块物理网卡， HWaddr 00:0C:29:01:98:27 就是MAC地址，lo�
 
 ## 如何修改MAC地址
 
-网卡MAC地址可以通过[驱动程式或其他工具修改](../Page/驱动程式.md "wikilink")。對於某些手機、平板電腦設備來說，其MAC地址／產品序號均由廠方連同銷售或保修時的客戶資料一併記錄在案\[1\]，而有關的MAC地址也不可通過常規手段來修改。
+网卡MAC地址可以通过[驱动程式或其他工具修改](https://zh.wikipedia.org/wiki/驱动程式 "wikilink")。對於某些手機、平板電腦設備來說，其MAC地址／產品序號均由廠方連同銷售或保修時的客戶資料一併記錄在案\[1\]，而有關的MAC地址也不可通過常規手段來修改。
 
 ## 參考資料
 

@@ -1,11 +1,11 @@
 **Athlon
-64**是美國[AMD公司的](../Page/AMD.md "wikilink")64位[微處理器型號之一](../Page/微處理器.md "wikilink")，它支援[AMD64架構](../Page/AMD64.md "wikilink")，用於針對個人客戶的64位處理器市場。早期AMD
+64**是美國[AMD公司的](https://zh.wikipedia.org/wiki/AMD "wikilink")64位[微處理器型號之一](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，它支援[AMD64架構](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，用於針對個人客戶的64位處理器市場。早期AMD
 K8開發計劃中，K8代號為**Hammer**，並使用與[IBM共同開發的](../Page/IBM.md "wikilink")**[SOI](../Page/SOI.md "wikilink")**（絕緣上覆矽）技術。
 
 **Athlon
-64**分為[64](../Page/Athlon_64.md "wikilink")、[FX及](../Page/Athlon_64_FX.md "wikilink")[X2三個版本](../Page/Athlon_64_X2.md "wikilink")，當中以Athlon
+64**分為[64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[FX及](../Page/Athlon_64_FX.md "wikilink")[X2三個版本](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")，當中以Athlon
 64-FX的效能為最高，與[Opteron相似](../Page/Opteron.md "wikilink")。Athlon
-64除支援AMD64外，還兼容16位和32位的[x86平台](../Page/x86.md "wikilink")。
+64除支援AMD64外，還兼容16位和32位的[x86平台](https://zh.wikipedia.org/wiki/x86 "wikilink")。
 
 此外，Athlon
 64有一種名為[Cool'n'Quiet的技術](../Page/Cool'n'Quiet.md "wikilink")，當用户執行一些對處理器負荷較少的程式時，處理器的速度和電壓相應降低，從而達到省電的效果。
@@ -46,7 +46,7 @@ A，而S940則供伺服器用的Opteron使用。S939支援雙通道記憶體。
 AM2版本的處理器，這款插座支持[DDR2記憶體](../Page/DDR2_SDRAM.md "wikilink")。
 
 2008年，AMD發行Socket
-AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](../Page/Phenom.md "wikilink")
+AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](https://zh.wikipedia.org/wiki/Phenom "wikilink")
 3.0協定。
 
 ## 核心
@@ -57,8 +57,8 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
   - 一級緩存：64 + 64 KB
   - 二級緩存：1024 KB，全速
   - 指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit (only **CG**)](../Page/NX_Bit.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit (only **CG**)](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")
   - 插座
       - [Socket 754](../Page/Socket_754.md "wikilink")，800 MHz
         [HyperTransport](../Page/HyperTransport.md "wikilink") (HT800)
@@ -75,8 +75,8 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
   - 一級緩存：64 + 64 KB
   - 二級緩存：512 KB，全速
   - 指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit (only **CG**)](../Page/NX_Bit.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit (only **CG**)](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")
   - 插座
       - [Socket 754](../Page/Socket_754.md "wikilink")，800 MHz
         [HyperTransport](../Page/HyperTransport.md "wikilink") (HT800)
@@ -93,8 +93,8 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
   - 一級緩存：64 + 64 KB
   - 二級緩存：512 KB，全速
   - 指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")
   - 插座：[Socket 939](../Page/Socket_939.md "wikilink")，1000 MHz
     [HyperTransport](../Page/HyperTransport.md "wikilink") (HT1000)
   - 核心電壓 VCore: 1.40 V
@@ -108,8 +108,8 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
   - 一級緩存：64 + 64 KB
   - 二級緩存：512 KB，全速
   - 指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")
   - 插座：
       - [Socket 754](../Page/Socket_754.md "wikilink"), 800 MHz
         [HyperTransport](../Page/HyperTransport.md "wikilink") (HT800)
@@ -126,8 +126,8 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
   - 一級緩存：64 + 64 KB
   - 二級緩存：1024 KB，全速
   - 指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")
   - 插座：[Socket 939](../Page/Socket_939.md "wikilink")，1000 MHz
     [HyperTransport](../Page/HyperTransport.md "wikilink") (HT1000)
   - 核心電壓 VCore: 1.35 / 1.40 V
@@ -141,8 +141,8 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
   - 一級緩存：64 + 64 KB
   - 二級緩存：512 KB，全速
   - 指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")，[Pacifica](../Page/Pacifica.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")，[Pacifica](https://zh.wikipedia.org/wiki/Pacifica "wikilink")
   - 插座：[Socket AM2](../Page/Socket_AM2.md "wikilink")，2000 MHz
     [HyperTransport](../Page/HyperTransport.md "wikilink") (HT2000)
   - 核心電壓 VCore: 1.20 / 1.25 / 1.35 / 1.40 V
@@ -156,9 +156,9 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
   - 一級緩存：64 + 64 KB
   - 二級緩存：512 KB，全速
   - 指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")，[AMD
-    Virtualization](../Page/AMD_Virtualization.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")，[AMD
+    Virtualization](https://zh.wikipedia.org/wiki/AMD_Virtualization "wikilink")
   - 插座：[Socket AM2](../Page/Socket_AM2.md "wikilink")，2000 MHz
     [HyperTransport](../Page/HyperTransport.md "wikilink") (HT2000)
   - 核心電壓 VCore: 0.8 / 1.25 / 1.35 / 1.40 V
@@ -168,7 +168,7 @@ AM2+版本的處理器，這款插座支援[Phenom處理器和HyperTransport](..
 
 ## 參見
 
-  - [AMD处理器列表](../Page/AMD处理器列表.md "wikilink")
+  - [AMD处理器列表](https://zh.wikipedia.org/wiki/AMD处理器列表 "wikilink")
   - [AMD Athlon 64處理器列表](../Page/AMD_Athlon_64處理器列表.md "wikilink")
 
 ## 外部連結

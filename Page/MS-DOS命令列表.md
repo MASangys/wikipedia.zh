@@ -2,7 +2,7 @@
 
 後期版本的 DOS 可以通过help命令来得到命令與參數列表，通过help *<命令>*或者*<命令>* /?来获得命令的详细信息。
 
-## [內部命令](../Page/壳层内建指令.md "wikilink")
+## [內部命令](https://zh.wikipedia.org/wiki/壳层内建指令 "wikilink")
 
 ### DIR
 
@@ -36,8 +36,9 @@
 複製或合并文件
 
 语法：COPY \[/D\]\[/V\]\[/N\]\[/Y|/-Y\]\[/Z\]\[/A|/B\] 命令形式：COPY source
-\[/A|/B\]\[+source \[/A|/B\][+ ...](../Page/+_....md "wikilink")
-\[destination \[/A|/B\]\] 　 方括号括起来的是可选部分，不是必须部分。 比如：copy c:\\source.exe
+\[/A|/B\]\[+source \[/A|/B\][+
+...](https://zh.wikipedia.org/wiki/+_... "wikilink") \[destination
+\[/A|/B\]\] 　 方括号括起来的是可选部分，不是必须部分。 比如：copy c:\\source.exe
 c:\\destination.exe //就是把source.exe
 复制到destination.exe,不论destination.exe存在与否，扩展名可以使其它
 
@@ -164,7 +165,7 @@ PATH命令可用来设置可执行文件（仅包括：.COM、.EXE及.BAT文件�
 显示目录的树状结构。
 
 TREE 命令自 DOS 2.0
-系統開始支援[子目錄以後提供](../Page/子目錄.md "wikilink")，用以讓用戶得知磁碟或硬碟目錄的樹狀結構。
+系統開始支援[子目錄以後提供](https://zh.wikipedia.org/wiki/子目錄 "wikilink")，用以讓用戶得知磁碟或硬碟目錄的樹狀結構。
 
 ### more
 
@@ -181,7 +182,7 @@ dir | more
 ### attrib
 
 修改文件的
-[S](../Page/系统文件.md "wikilink")/[H](../Page/隐藏文件.md "wikilink")/[R](../Page/只读文件.md "wikilink")/[A](../Page/归档文件.md "wikilink")
+[S](https://zh.wikipedia.org/wiki/系统文件 "wikilink")/[H](https://zh.wikipedia.org/wiki/隐藏文件 "wikilink")/[R](https://zh.wikipedia.org/wiki/只读文件 "wikilink")/[A](https://zh.wikipedia.org/wiki/归档文件 "wikilink")
 等属性。 无法更改 NTFS 的 ACL。
 
 ### deltree
@@ -203,7 +204,7 @@ Server
 Volume Shadow Copy服务可用于此种情形，但Xcopy没有用它。所以Xcopy不能用于备份live操作系统的文件。
 
 虽然[Windows
-10中还有Xcopy](../Page/Windows_10.md "wikilink")，但它已经过时，应该使用更强有力的[Robocopy](../Page/Robocopy.md "wikilink")。\[4\]
+10中还有Xcopy](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，但它已经过时，应该使用更强有力的[Robocopy](https://zh.wikipedia.org/wiki/Robocopy "wikilink")。\[4\]
 
 ### format
 

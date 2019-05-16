@@ -1,5 +1,5 @@
 **K
-ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片[許常德](../Page/許常德.md "wikilink")，於2002年所成立的[可達娛樂所發掘並加以訓練而成立的男孩團體](../Page/可達娛樂.md "wikilink")。於2003年10月出道、以精湛舞技和舞蹈動作整齊劃一著名。
+ONE**是闊耳音樂[韓羅賢與GMM](https://zh.wikipedia.org/wiki/韓羅賢 "wikilink")8866唱片[許常德](../Page/許常德.md "wikilink")，於2002年所成立的[可達娛樂所發掘並加以訓練而成立的男孩團體](https://zh.wikipedia.org/wiki/可達娛樂 "wikilink")。於2003年10月出道、以精湛舞技和舞蹈動作整齊劃一著名。
 成立的初期成員有六人，因此曾一度取名為「六壯士」，後因該團為可達娛樂(英文名稱：KEDA)所推出的第一個團體，故取名為**K ONE**。
 
 ## 簡介
@@ -18,7 +18,7 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
   - 2007年10月17日，根據自由時報報導K ONE已成軍5年，已經差不多了，暗指團體面臨解散運命！據悉，K
     ONE跟艾迴唱片不再續約，未來是否再出片，一切都還是未知數\[1\]
   - 2008年，K
-    ONE與[大國翼星娛樂合約到期](../Page/大國翼星娛樂.md "wikilink")，五人已不再續約，其中[Gino現為民視](../Page/Gino.md "wikilink")[鳳凰藝能旗下藝人](../Page/鳳凰藝能.md "wikilink")、[JR於](../Page/JR_\(藝人\).md "wikilink")2016年轉投[天晴音樂](../Page/天晴音樂.md "wikilink")，而[立揚重心轉往大陆](../Page/立揚.md "wikilink")，目前為大陆知名Club
+    ONE與[大國翼星娛樂合約到期](../Page/大國翼星娛樂.md "wikilink")，五人已不再續約，其中[Gino現為民視](../Page/Gino.md "wikilink")[鳳凰藝能旗下藝人](../Page/鳳凰藝能.md "wikilink")、[JR於](https://zh.wikipedia.org/wiki/JR_\(藝人\) "wikilink")2016年轉投[天晴音樂](https://zh.wikipedia.org/wiki/天晴音樂 "wikilink")，而[立揚重心轉往大陆](https://zh.wikipedia.org/wiki/立揚 "wikilink")，目前為大陆知名Club
     DJ以及音樂人。
 
 ## 成員
@@ -68,7 +68,7 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Kido.md" title="wikilink">Kido</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kido" title="wikilink">Kido</a></p></td>
 <td style="text-align: center;"><p>鄭人豪</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>177cm</p></td>
@@ -78,7 +78,7 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/JR_(藝人).md" title="wikilink">JR</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JR_(藝人)" title="wikilink">JR</a></p></td>
 <td style="text-align: center;"><p>簡孝儒</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>180cm</p></td>
@@ -178,7 +178,7 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 <li>發現愛</li>
 <li>糖梅仙子之舞(演奏曲)</li>
 <li>浪漫舞會</li>
-<li>胡思亂想(feat.<a href="../Page/許嘉凌.md" title="wikilink">許嘉凌</a>)</li>
+<li>胡思亂想(feat.<a href="https://zh.wikipedia.org/wiki/許嘉凌" title="wikilink">許嘉凌</a>)</li>
 <li>Gossip流言</li>
 <li>啟始(演奏曲)</li>
 <li>Look into my eyes</li>
@@ -208,7 +208,7 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>1st</strong></p></td>
-<td style="text-align: left;"><p>首張精選輯《<strong><a href="../Page/美好·紀念日.md" title="wikilink">美好·紀念日</a></strong>》</p>
+<td style="text-align: left;"><p>首張精選輯《<strong><a href="https://zh.wikipedia.org/wiki/美好·紀念日" title="wikilink">美好·紀念日</a></strong>》</p>
 <ul>
 <li>發行日期：2007年10月19日</li>
 </ul></td>
@@ -239,7 +239,7 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 <li>風雲變色</li>
 <li>為你再活一天</li>
 <li>Look into my eyes</li>
-<li>想你日記(<a href="../Page/許嘉凌.md" title="wikilink">許嘉凌</a>+JR，新歌)</li>
+<li>想你日記(<a href="https://zh.wikipedia.org/wiki/許嘉凌" title="wikilink">許嘉凌</a>+JR，新歌)</li>
 <li>生命舞士(新歌)</li>
 </ol></td>
 </tr>
@@ -248,16 +248,16 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 
 ### 其他歌曲
 
-| 形式    | 發佈日期        | 專輯名稱                                    | 歌曲名稱                 | 參與成員 | 合作藝人  |
-| ----- | ----------- | --------------------------------------- | -------------------- | ---- | ----- |
-| OST   | 2004年5月21日  | [紫禁之巅电视原声带](../Page/紫禁之巅.md "wikilink") | 風雲變色                 | 全員   | 5566  |
-| 背影    | \-          |                                         |                      |      |       |
-| 討好    |             |                                         |                      |      |       |
-| CD    | 2004年 9月28日 | 5566《 C'est si bon 》                    | 因為愛                  | 全員   | 喬傑立家族 |
-| Other | 2004年       | 南亞大海嘯勵志歌曲                               | 愛                    | 全員   | 其他歌手  |
-| CD    | 2006年1月20日  | 愛的奇蹟II 跳舞吧\!J-star                      | 新年快樂Happy new Year組曲 | 全員   | 喬傑立家族 |
-| CD    | 2007年2月14日  | 《翼之星 2007》                              | 星之翼                  | 全員   | 翼星家族  |
-| 單曲    | 2007年11月14日 | 2007世界盃棒球賽/亞洲盃錦標賽活動指定曲                  | 王道                   | 全員   | \-    |
+| 形式    | 發佈日期        | 專輯名稱                                                       | 歌曲名稱                 | 參與成員 | 合作藝人  |
+| ----- | ----------- | ---------------------------------------------------------- | -------------------- | ---- | ----- |
+| OST   | 2004年5月21日  | [紫禁之巅电视原声带](https://zh.wikipedia.org/wiki/紫禁之巅 "wikilink") | 風雲變色                 | 全員   | 5566  |
+| 背影    | \-          |                                                            |                      |      |       |
+| 討好    |             |                                                            |                      |      |       |
+| CD    | 2004年 9月28日 | 5566《 C'est si bon 》                                       | 因為愛                  | 全員   | 喬傑立家族 |
+| Other | 2004年       | 南亞大海嘯勵志歌曲                                                  | 愛                    | 全員   | 其他歌手  |
+| CD    | 2006年1月20日  | 愛的奇蹟II 跳舞吧\!J-star                                         | 新年快樂Happy new Year組曲 | 全員   | 喬傑立家族 |
+| CD    | 2007年2月14日  | 《翼之星 2007》                                                 | 星之翼                  | 全員   | 翼星家族  |
+| 單曲    | 2007年11月14日 | 2007世界盃棒球賽/亞洲盃錦標賽活動指定曲                                     | 王道                   | 全員   | \-    |
 
 ## 戲劇作品
 
@@ -266,16 +266,28 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
   - 2004年
     《[紫禁之巔](../Page/紫禁之巔.md "wikilink")》(GINO飾-天蠍,JR飾-晴天,達倫飾-岸西,立揚飾-黑子,KIDO飾-TIN)
   - 2005年 《[王子變青蛙](../Page/王子變青蛙.md "wikilink")》（GINO飾-張明寒）
-  - 2005年 《[大熊醫師家](../Page/大熊醫師家.md "wikilink")》（JR飾-阿健）
-  - 2005年 《[绿光森林](../Page/绿光森林.md "wikilink")》（KIDO飾-孫大介）
-  - 2005年 《[格鬥天王](../Page/格鬥天王.md "wikilink")》（達倫飾-IRON MAN）
+  - 2005年
+    《[大熊醫師家](https://zh.wikipedia.org/wiki/大熊醫師家 "wikilink")》（JR飾-阿健）
+  - 2005年
+    《[绿光森林](https://zh.wikipedia.org/wiki/绿光森林 "wikilink")》（KIDO飾-孫大介）
+  - 2005年
+    《[格鬥天王](https://zh.wikipedia.org/wiki/格鬥天王 "wikilink")》（達倫飾-IRON
+    MAN）
   - 2005年 《[國光異校](../Page/國光異校.md "wikilink")》（JR飾-客串第三集）
-  - 2005年 《[愛得奇蹟](../Page/愛得奇蹟.md "wikilink")》（JR飾-客串）
-  - 2005年 《[華視LIVE有夠讚](../Page/華視LIVE有夠讚.md "wikilink")》（K one飾-客串）
-  - 2006年 《[微笑Pasta](../Page/微笑Pasta.md "wikilink")》（GINO飾-何瑞哲, 達倫飾-偉仔）
-  - 2006年 《[星蘋果樂園](../Page/星蘋果樂園.md "wikilink")》（立揚飾-陸天齊）
-  - 2007年 《[劍道愛](../Page/劍道愛.md "wikilink")》（JR）（無法播出）
-  - 2008年 《[娘家](../Page/娘家.md "wikilink")》（GINO飾-GINO）（客串）
+  - 2005年
+    《[愛得奇蹟](https://zh.wikipedia.org/wiki/愛得奇蹟 "wikilink")》（JR飾-客串）
+  - 2005年
+    《[華視LIVE有夠讚](https://zh.wikipedia.org/wiki/華視LIVE有夠讚 "wikilink")》（K
+    one飾-客串）
+  - 2006年
+    《[微笑Pasta](https://zh.wikipedia.org/wiki/微笑Pasta "wikilink")》（GINO飾-何瑞哲,
+    達倫飾-偉仔）
+  - 2006年
+    《[星蘋果樂園](https://zh.wikipedia.org/wiki/星蘋果樂園 "wikilink")》（立揚飾-陸天齊）
+  - 2007年
+    《[劍道愛](https://zh.wikipedia.org/wiki/劍道愛 "wikilink")》（JR）（無法播出）
+  - 2008年
+    《[娘家](https://zh.wikipedia.org/wiki/娘家 "wikilink")》（GINO飾-GINO）（客串）
 
 ## 書籍
 
@@ -283,22 +295,26 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 
 ## 主持
 
-  - 2004年 《[綜藝大喝采](../Page/綜藝大喝采.md "wikilink")》(GINO.JR主持)
-  - 2005年 《[完全娛樂](../Page/完全娛樂.md "wikilink")》周日版 誰最帶種(JR主持)
-  - 2005年 《[瘋狂Lucky9](../Page/瘋狂Lucky9.md "wikilink")》(JR主持)
-  - 2005年 《[明星隨身碟](../Page/明星隨身碟.md "wikilink")》
-  - 2006年 《[完全娛樂](../Page/完全娛樂.md "wikilink")》(JR主持)
+  - 2004年
+    《[綜藝大喝采](https://zh.wikipedia.org/wiki/綜藝大喝采 "wikilink")》(GINO.JR主持)
+  - 2005年 《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》周日版
+    誰最帶種(JR主持)
+  - 2005年
+    《[瘋狂Lucky9](https://zh.wikipedia.org/wiki/瘋狂Lucky9 "wikilink")》(JR主持)
+  - 2005年 《[明星隨身碟](https://zh.wikipedia.org/wiki/明星隨身碟 "wikilink")》
+  - 2006年 《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》(JR主持)
   - 2007年 《[快樂有go正](../Page/快樂有go正.md "wikilink")》(JR.GINO主持)
-  - 2007年 《[成名一瞬間](../Page/成名一瞬間.md "wikilink")》
-  - 2007年 《[超級童盟會](../Page/超級童盟會.md "wikilink")》（9月15日）(JR.GINO主持)
+  - 2007年 《[成名一瞬間](https://zh.wikipedia.org/wiki/成名一瞬間 "wikilink")》
+  - 2007年
+    《[超級童盟會](https://zh.wikipedia.org/wiki/超級童盟會 "wikilink")》（9月15日）(JR.GINO主持)
 
 ## 參見
 
   - [Gino](../Page/Gino.md "wikilink")
-  - [JR](../Page/JR_\(藝人\).md "wikilink")
-  - [Kido](../Page/Kido.md "wikilink")
+  - [JR](https://zh.wikipedia.org/wiki/JR_\(藝人\) "wikilink")
+  - [Kido](https://zh.wikipedia.org/wiki/Kido "wikilink")
   - [達倫](../Page/達倫.md "wikilink")
-  - [立揚](../Page/立揚.md "wikilink")
+  - [立揚](https://zh.wikipedia.org/wiki/立揚 "wikilink")
 
 ## 外部連結
 

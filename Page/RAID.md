@@ -1,7 +1,7 @@
 [Nuvola_devices_raid.png](https://zh.wikipedia.org/wiki/File:Nuvola_devices_raid.png "fig:Nuvola_devices_raid.png")
 **-{zh-hk:獨立磁碟冗餘陣列;zh-cn:独立硬盘冗余阵列;zh-tw:容錯式磁碟陣列;}-**（），舊稱**-{zh-hk:廉價磁盤冗餘陣列;zh-tw:容錯式廉價磁碟陣列;zh-cn:廉价磁盘冗余阵列;}-**（），簡稱**磁盘阵列**。其基本思想就是把多個相對便宜的硬碟組合起來，成為一個硬碟陣列組，使性能達到甚至超過一個價格昂貴、容量巨大的硬碟。根據選擇的版本不同，RAID比單顆硬碟有以下一個或多個方面的好處：增強資料整合度，增強容錯功能，增加處理量或容量。另外，磁碟陣列對於電腦來說，看起來就像一個單獨的硬碟或邏輯存儲單元。分為RAID-0，RAID-1，RAID-5，RAID-6，RAID-7，RAID-01，RAID-10，RAID-50，RAID-60。
 
-簡單來說，RAID把多個[硬碟組合成為一個邏輯磁區](../Page/硬碟.md "wikilink")，因此，[作業系統只會把它當作一個硬碟](../Page/作業系統.md "wikilink")。RAID常被用在[伺服器電腦上](../Page/伺服器.md "wikilink")，並且常使用完全相同的硬碟作為組合。由於硬碟價格的不斷下降與RAID功能更加有效地與[主機板整合](../Page/主機板.md "wikilink")，它也成為普通用户的一個選擇，特別是需要大容量儲存空間的工作，如：視訊與音訊製作。
+簡單來說，RAID把多個[硬碟組合成為一個邏輯磁區](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，因此，[作業系統只會把它當作一個硬碟](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。RAID常被用在[伺服器電腦上](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，並且常使用完全相同的硬碟作為組合。由於硬碟價格的不斷下降與RAID功能更加有效地與[主機板整合](https://zh.wikipedia.org/wiki/主機板 "wikilink")，它也成為普通用户的一個選擇，特別是需要大容量儲存空間的工作，如：視訊與音訊製作。
 
 最初的RAID分成不同的等級，每種等級都有其理論上的優缺點，不同的等級在兩個目標間取得平衡，分別是增加資料可靠性以及增加存储器（群）读写效能。這些年來，出現對於RAID觀念不同的應用。
 
@@ -30,7 +30,7 @@
 RAID
 0亦称为带区集。它將兩个以上的磁盘並联起来，成为一个大容量的磁盘。在存放数据时，分段后分散儲存在这些磁盘中，因為讀寫時都可以并行處理，所以在所有的级别中，RAID
 0的速度是最快的。但是RAID
-0既没有冗余功能，也不具備容錯能力，如果一个磁盘（物理）损坏，所有数据都会丢失，危險程度與[\#JBOD相當](../Page/#JBOD.md "wikilink")。
+0既没有冗余功能，也不具備容錯能力，如果一个磁盘（物理）损坏，所有数据都会丢失，危險程度與[\#JBOD相當](https://zh.wikipedia.org/wiki/#JBOD "wikilink")。
 
 ### RAID 1
 
@@ -74,9 +74,9 @@ interleaving） {{-}}
 RAID Level 5是一种储存性能、数据安全和存储成本兼顾的存储解决方案。它使用的是Disk Striping（硬盘分割）技术。
 
 RAID 5至少需要三個硬碟，RAID
-5不是对存储的数据进行备份，而是把数据和相对应的[奇偶校验信息存储到组成RAID](../Page/奇偶校验.md "wikilink")5的各个磁盘上，并且奇偶校验信息和相对应的数据分别存储於不同的磁盘上。当RAID5的一个磁盘数据发生损坏後，可以利用剩下的数据和相应的奇偶校验信息去恢复被损坏的数据。RAID
+5不是对存储的数据进行备份，而是把数据和相对应的[奇偶校验信息存储到组成RAID](https://zh.wikipedia.org/wiki/奇偶校验 "wikilink")5的各个磁盘上，并且奇偶校验信息和相对应的数据分别存储於不同的磁盘上。当RAID5的一个磁盘数据发生损坏後，可以利用剩下的数据和相应的奇偶校验信息去恢复被损坏的数据。RAID
 5可以理解为是RAID 0和RAID 1的折衷方案。RAID
-5可以为系统提供数据安全保障，但保障程度要比[鏡像低而磁盘空间利用率要比鏡像高](../Page/鏡像.md "wikilink")。RAID
+5可以为系统提供数据安全保障，但保障程度要比[鏡像低而磁盘空间利用率要比鏡像高](https://zh.wikipedia.org/wiki/鏡像 "wikilink")。RAID
 5具有和RAID
 0相近似的数据读取速度，只是因为多了一个奇偶校验信息，写入数据的速度相对单独写入一块硬盘的速度略慢，若使用「回寫快取」可以讓效能改善不少。同时由于多个数据对应一个奇偶校验信息，RAID
 5的磁盘空间利用率要比RAID 1高，存储成本相对较便宜。
@@ -112,7 +112,7 @@ Storage Networking Industry Association (SNIA)对于RAID
 6。"\[1\]
 
 为了达到容忍任意两块磁盘失效的目的，需要计算两种不同的综合解码。其中之一是P，可以象RAID
-5那样经过简单的[异或计算获得](../Page/逻辑异或.md "wikilink")，而另一个不同的综合编码则比较复杂，需要利用[域论来解决](../Page/域_\(数学\).md "wikilink")。
+5那样经过简单的[异或计算获得](../Page/逻辑异或.md "wikilink")，而另一个不同的综合编码则比较复杂，需要利用[域论来解决](https://zh.wikipedia.org/wiki/域_\(数学\) "wikilink")。
 
 要解决这个问题，需要引入一个\(m=2^k\)的[伽罗瓦域](../Page/有限域.md "wikilink")，对于一个合适的k次[不可约多项式](../Page/不可约多项式.md "wikilink")\(p(x)\)，\(GF(m) \cong F_2[x]/(p(x))\)。一块数据可以二进制形式记作\(d_{k-1}d_{k-2}...d_0\)，其中\(d_i\)是
 0 或者
@@ -187,7 +187,7 @@ RAID 01則是跟RAID 10的程序相反，是先鏡射再將資料到分割兩組
 當RAID 10有一個硬碟受損，其餘硬碟會繼續運作。RAID 01-{只}-要有一個硬碟受損，同組RAID
 0的所有硬碟都會停止運作，只剩下其他組的硬碟運作，可靠性較低。如果以六個硬碟建RAID
 01，鏡射再用三個建RAID 0，那麼壞一個硬碟便會有三個硬碟離線。因此，RAID 10遠較RAID
-01常用，零售[主機板絕大部份支援RAID](../Page/主機板.md "wikilink")
+01常用，零售[主機板絕大部份支援RAID](https://zh.wikipedia.org/wiki/主機板 "wikilink")
 0/1/5/10，但不支援RAID 01。 {{-}}
 
 ### RAID 50
@@ -233,10 +233,10 @@ RAID4有應用在某些商用機器上，像是NetApp公司設計的NAS系統就
 
   - 軟體磁碟陣列（Software RAID）：
     主要由CPU處理陣列儲存作業，缺點為耗損較多CPU資源運算RAID，優點則是價格偏低。分類有3種：
-      - 基於主機板的磁碟陣列：只需要主機板支援即可（通常是[晶片組內建的RAID功能](../Page/晶片組.md "wikilink")，如Intel
+      - 基於主機板的磁碟陣列：只需要主機板支援即可（通常是[晶片組內建的RAID功能](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，如Intel
         Matrix RAID），不需要任何磁碟陣列卡。若主機板損壞，可能難以購買同款主機板重建RAID。
       - 硬體輔助磁碟陣列（Hardware-Assisted RAID）：需要一張基於Fake
-        RAID的RAID卡，以及廠商所提供的[驅動程式](../Page/驅動程式.md "wikilink")，但此類RAID卡仍然通過CPU進行運算。這款RAID較易遷移到其他電腦。RAID功能靠執行於作業系統的廠商驅動程式和CPU運算提供。
+        RAID的RAID卡，以及廠商所提供的[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")，但此類RAID卡仍然通過CPU進行運算。這款RAID較易遷移到其他電腦。RAID功能靠執行於作業系統的廠商驅動程式和CPU運算提供。
       - 作業系統的RAID功能：[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Windows
         Server等作業系統內建RAID功能](../Page/Windows_Server.md "wikilink")，部分桌面版本的Windows也支援RAID功能。
 

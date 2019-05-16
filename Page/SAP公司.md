@@ -1,16 +1,17 @@
-**SAP公司**是一家总部位于德国[巴登符腾堡州](../Page/巴登符腾堡州.md "wikilink")[瓦尔多夫的软件企业](../Page/瓦尔多夫.md "wikilink")。公司主营业务为[企业资源管理软件](../Page/企业资源管理.md "wikilink")。该公司是歐洲最大的軟件企業，在130个国家设有地区办事处，在190个国家拥有超过335,000名客户\[1\]。该公司股票是欧洲[Stoxx
-50股票市场指数的成分股](../Page/Stoxx_50.md "wikilink")。\[2\]
+**SAP公司**是一家总部位于德国[巴登符腾堡州](https://zh.wikipedia.org/wiki/巴登符腾堡州 "wikilink")[瓦尔多夫的软件企业](../Page/瓦尔多夫.md "wikilink")。公司主营业务为[企业资源管理软件](https://zh.wikipedia.org/wiki/企业资源管理 "wikilink")。该公司是歐洲最大的軟件企業，在130个国家设有地区办事处，在190个国家拥有超过335,000名客户\[1\]。该公司股票是欧洲[Stoxx
+50股票市场指数的成分股](https://zh.wikipedia.org/wiki/Stoxx_50 "wikilink")。\[2\]
 
 ## 公司歷史
 
 [SAP_AG_Headquarter_1200.jpg](https://zh.wikipedia.org/wiki/File:SAP_AG_Headquarter_1200.jpg "fig:SAP_AG_Headquarter_1200.jpg")
-SAP公司於1972年在[德國創立](../Page/德國.md "wikilink")。五位創始人（Dietmar
+SAP公司於1972年在[德國創立](https://zh.wikipedia.org/wiki/德國 "wikilink")。五位創始人（Dietmar
 Hopp、Hans-Werner Hector、[Hasso
-Plattner](../Page/Hasso_Plattner.md "wikilink")、Klaus Tschira與Claus
-Wellenreuther）於德國[魏因海姆](../Page/魏因海姆.md "wikilink")（）初創時，公司名為「」（系統分析與程式開發），後根據「」（資料處理的系統、應用與產品）將公司名稱縮寫為SAP。
+Plattner](https://zh.wikipedia.org/wiki/Hasso_Plattner "wikilink")、Klaus
+Tschira與Claus
+Wellenreuther）於德國[魏因海姆](https://zh.wikipedia.org/wiki/魏因海姆 "wikilink")（）初創時，公司名為「」（系統分析與程式開發），後根據「」（資料處理的系統、應用與產品）將公司名稱縮寫為SAP。
 
 1976年，"SAP
-[GmbH](../Page/GmbH.md "wikilink")"成立，並於次年將總部搬遷至[沃爾多夫](../Page/沃爾多夫.md "wikilink")。在2005年的公司年會上，SAP
+[GmbH](https://zh.wikipedia.org/wiki/GmbH "wikilink")"成立，並於次年將總部搬遷至[沃爾多夫](https://zh.wikipedia.org/wiki/沃爾多夫 "wikilink")。在2005年的公司年會上，SAP
 AG成為了公司的官方名稱。在2007年，SAP宣佈將以47億歐元現金收購商務智能軟件公司Business
 Objects，正式進軍商務智能領域。　在2010年，SAP宣佈將以58億美元現金收購商業軟件開發商[Sybase](../Page/Sybase.md "wikilink")。2014年9月19日SAP以每股129美元斥資83億美元收購旅遊和支付軟件提供商Concur
 Technologies，2018年11月11日SAP斥資80億美元現金，收購軟體公司Qualtrics
@@ -39,7 +40,7 @@ BusinessObjects 4.0結合結構化和非結構化信息，提供信息管理工�
 
 ## 向云端转型
 
-自2012年以来，SAP收购了几家提供云计算服务的公司，分析师认为这些数十亿美元的收购旨在挑战竞争对手[Oracle](../Page/Oracle.md "wikilink")。
+自2012年以来，SAP收购了几家提供云计算服务的公司，分析师认为这些数十亿美元的收购旨在挑战竞争对手[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")。
 
 2014年，SAP以83亿美元收购了Concur
 Technologies，这是一家基于云计算的差旅和费用管理软件的提供商。这笔并购是当时SAP最昂贵的收购项目。
@@ -51,13 +52,15 @@ HANA云解决方案。该联盟使两家公司在市场上拥有更广泛的影�
 ## SAP S/4 HANA
 
 2015年，该公司推出新一代SAP商务套件[SAP
-S/4HANA](../Page/SAP_S/4HANA.md "wikilink")。该套件是SAP为SAP HANA
+S/4HANA](https://zh.wikipedia.org/wiki/SAP_S/4HANA "wikilink")。该套件是SAP为SAP
+HANA
 Cloud平台开发的原生商务套件。它为客户提供云端可定制和混合部署选项，其优势包括更小的数据占用，更高的吞吐量，更快的分析和更快的数据访问。它还允许现有SAP
 Business Suite客户从SAP Business Suite升级到此产品。
 
 在2016年，SAP又推出了SAP HANA Express
-Edition，该版本可以在个人计算机或云计算平台上运行，方便学生和其他小规模开发人员使用。SAP的首席执行官[孟鼎铭将SAP](../Page/孟鼎铭.md "wikilink")
-S/4 HANA的发布比作[阿波罗登月计划](../Page/阿波罗登月计划.md "wikilink")，将其描述为公司历史上最重要的发布。
+Edition，该版本可以在个人计算机或云计算平台上运行，方便学生和其他小规模开发人员使用。SAP的首席执行官[孟鼎铭将SAP](https://zh.wikipedia.org/wiki/孟鼎铭 "wikilink")
+S/4
+HANA的发布比作[阿波罗登月计划](https://zh.wikipedia.org/wiki/阿波罗登月计划 "wikilink")，将其描述为公司历史上最重要的发布。
 
 ## SAP研究院
 
@@ -68,14 +71,14 @@ SAP的4个主要的研究院位于德国，印度，中国和美国。
 
 ## SAP與中國大陆
 
-SAP於1993年進入[中华人民共和国並在](../Page/中华人民共和国.md "wikilink")[北京建立第一個辦事處](../Page/北京.md "wikilink")，1996年進入[上海市場](../Page/上海.md "wikilink")。目前SAP是中國市場最受歡迎的[企業管理軟件之一](../Page/企業管理軟件.md "wikilink")。
+SAP於1993年進入[中华人民共和国並在](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[北京建立第一個辦事處](https://zh.wikipedia.org/wiki/北京 "wikilink")，1996年進入[上海市場](https://zh.wikipedia.org/wiki/上海 "wikilink")。目前SAP是中國市場最受歡迎的[企業管理軟件之一](https://zh.wikipedia.org/wiki/企業管理軟件 "wikilink")。
 
-1997年，在上海成立SAP中國研發中心。2003年11月20日，改為[SAP中國研究院](../Page/SAP中國研究院.md "wikilink")，作為SAP全球八大研發中心之一\[9\]。地址位於上海[浦東](../Page/浦東.md "wikilink")[張江的](../Page/張江.md "wikilink")[上海浦東軟件園](../Page/上海浦東軟件園.md "wikilink")，院长是李瑞成博士\[10\]。到2010年底，SAP中國研究院人數已經超過1700人，晉陞為SAP第四大研發中心。
+1997年，在上海成立SAP中國研發中心。2003年11月20日，改為[SAP中國研究院](https://zh.wikipedia.org/wiki/SAP中國研究院 "wikilink")，作為SAP全球八大研發中心之一\[9\]。地址位於上海[浦東](https://zh.wikipedia.org/wiki/浦東 "wikilink")[張江的](https://zh.wikipedia.org/wiki/張江 "wikilink")[上海浦東軟件園](https://zh.wikipedia.org/wiki/上海浦東軟件園 "wikilink")，院长是李瑞成博士\[10\]。到2010年底，SAP中國研究院人數已經超過1700人，晉陞為SAP第四大研發中心。
 
-2006年3月，在[成都成立](../Page/成都.md "wikilink")[SAP全球研發服務中心
-(成都)](../Page/SAP全球研發服務中心_\(成都\).md "wikilink")\[11\]。地址在[成都高新技术产业开发区](../Page/成都高新技术产业开发区.md "wikilink")。
+2006年3月，在[成都成立](https://zh.wikipedia.org/wiki/成都 "wikilink")[SAP全球研發服務中心
+(成都)](https://zh.wikipedia.org/wiki/SAP全球研發服務中心_\(成都\) "wikilink")\[11\]。地址在[成都高新技术产业开发区](../Page/成都高新技术产业开发区.md "wikilink")。
 
-2012年12月，在[南京设立第二个全球创新中心](../Page/南京.md "wikilink")。\[12\]。地址在[中国（南京）软件谷](../Page/中国（南京）软件谷.md "wikilink")。
+2012年12月，在[南京设立第二个全球创新中心](https://zh.wikipedia.org/wiki/南京 "wikilink")。\[12\]。地址在[中国（南京）软件谷](https://zh.wikipedia.org/wiki/中国（南京）软件谷 "wikilink")。
 
 ## 軟體產品
 

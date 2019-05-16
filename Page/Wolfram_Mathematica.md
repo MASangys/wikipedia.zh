@@ -1,7 +1,7 @@
 '''Wolfram Mathematica
 '''（简称：Mathematica）是一款符号计算软件，有时候也被称为计算机代数系统，广泛使用于科学、工程、数学、计算等领域。
 
-它是由[英国](../Page/英国.md "wikilink")[科学家](../Page/科学家.md "wikilink")[斯蒂芬·沃尔夫勒姆提出构想](../Page/斯蒂芬·沃尔夫勒姆.md "wikilink")，并且由他所领导的[沃尔夫勒姆研究公司](../Page/沃尔夫勒姆研究公司.md "wikilink")（位于美国伊利诺伊州香槟市）开发的一款广泛使用的科学计算软件\[1\]\[2\]。它拥有强大的数值计算和符号运算能力，是目前为止使用最广泛的[数学软件之一](../Page/数学软件.md "wikilink")。
+它是由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[科学家](https://zh.wikipedia.org/wiki/科学家 "wikilink")[斯蒂芬·沃尔夫勒姆提出构想](https://zh.wikipedia.org/wiki/斯蒂芬·沃尔夫勒姆 "wikilink")，并且由他所领导的[沃尔夫勒姆研究公司](../Page/沃尔夫勒姆研究公司.md "wikilink")（位于美国伊利诺伊州香槟市）开发的一款广泛使用的科学计算软件\[1\]\[2\]。它拥有强大的数值计算和符号运算能力，是目前为止使用最广泛的[数学软件之一](https://zh.wikipedia.org/wiki/数学软件 "wikilink")。
 
 [Wolfram 语言是用于Mathematica的编程语言](../Page/Wolfram语言.md "wikilink")\[3\]。
 
@@ -16,42 +16,42 @@ Mathematica的功能包括：\[4\]
   - 各种基本数学函数库
   - 各种特殊属性函数库
   - 矩阵和数据操纵工具，包括对[稀疏矩阵的处理](../Page/稀疏矩阵.md "wikilink")
-  - 支持[复数](../Page/复数.md "wikilink")、任意精度数、区间算术和符号运算
+  - 支持[复数](https://zh.wikipedia.org/wiki/复数 "wikilink")、任意精度数、区间算术和符号运算
   - 2维和3维数据以及函数的可视化和动画工具
   - 求解方程组、[常微分方程](../Page/常微分方程.md "wikilink")、[偏微分方程](../Page/偏微分方程.md "wikilink")、微分代数方程、[时滞微分方程](../Page/时滞微分方程.md "wikilink")、[递推关系式等等](../Page/遞迴關係式.md "wikilink")
   - 离散和连续微积分的数值和符号工具
-  - 多变量[统计程序库](../Page/统计.md "wikilink")，包括支持100多种数据分布的数据拟合、假设检验、概率和期望的运算
-  - 支持[删失数据](../Page/删失.md "wikilink")、暂态数据、时间序列和有单位的数据
+  - 多变量[统计程序库](https://zh.wikipedia.org/wiki/统计 "wikilink")，包括支持100多种数据分布的数据拟合、假设检验、概率和期望的运算
+  - 支持[删失数据](https://zh.wikipedia.org/wiki/删失 "wikilink")、暂态数据、时间序列和有单位的数据
   - 随机过程和队列的计算及仿真
-  - 为包括[神经网络在内的数据](../Page/神经网络.md "wikilink")、图像和声音的[有监督和](../Page/监督式学习.md "wikilink")[无监督](../Page/非监督式学习.md "wikilink")[机器学习提供工具](../Page/机器学习.md "wikilink")
+  - 为包括[神经网络在内的数据](https://zh.wikipedia.org/wiki/神经网络 "wikilink")、图像和声音的[有监督和](https://zh.wikipedia.org/wiki/监督式学习 "wikilink")[无监督](https://zh.wikipedia.org/wiki/非监督式学习 "wikilink")[机器学习提供工具](../Page/机器学习.md "wikilink")
   - 对运算和应用程序添加[用户界面的各种工具包](../Page/用户界面.md "wikilink")
   - 约束和无约束局部及全局[最优化](../Page/最优化.md "wikilink")
-  - 程序语言支持：过程式编程语言、[函数式编程语言和面向对象的编程语言](../Page/函数式编程语言.md "wikilink")
+  - 程序语言支持：过程式编程语言、[函数式编程语言和面向对象的编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")
   - [图像处理工具](../Page/图像处理.md "wikilink")\[5\]，包括[图像识别](../Page/计算机视觉.md "wikilink")
   - 提供用于[图论中图的分析和可视化的工具](../Page/图论.md "wikilink")
   - 分析组合问题的工具
   - 用于[文本挖掘的工具](../Page/文本挖掘.md "wikilink")
   - [数据挖掘的工具](../Page/数据挖掘.md "wikilink")，比如[聚类分析](../Page/聚类分析.md "wikilink")、[字符串对齐和模式匹配](../Page/序列比對.md "wikilink")
   - 数论函数库
-  - 金融运算的工具，包括[期权](../Page/期权.md "wikilink")、[债券](../Page/债券.md "wikilink")、年金、衍生工具等的计算
+  - 金融运算的工具，包括[期权](https://zh.wikipedia.org/wiki/期权 "wikilink")、[债券](../Page/债券.md "wikilink")、年金、衍生工具等的计算
   - [群论函数](../Page/群论.md "wikilink")
-  - 技术文本处理，包括[公式编辑器和自动报告生成](../Page/公式编辑器.md "wikilink")
+  - 技术文本处理，包括[公式编辑器和自动报告生成](https://zh.wikipedia.org/wiki/公式编辑器 "wikilink")
   - 用于声音、图像和数据的[小波分析程序库](../Page/小波分析.md "wikilink")
   - 控制系统程序库
   - 连续和离散的积分变换
-  - 导入和导出数据、图像、视频、[GIS](../Page/GIS.md "wikilink")、[CAD](../Page/CAD.md "wikilink")\[6\]等各种文件格式，并支持对生物医学类数据的输入和输出
+  - 导入和导出数据、图像、视频、[GIS](https://zh.wikipedia.org/wiki/GIS "wikilink")、[CAD](https://zh.wikipedia.org/wiki/CAD "wikilink")\[6\]等各种文件格式，并支持对生物医学类数据的输入和输出
   - 链接[Wolfram
     Alpha的大量数学](../Page/Wolfram_Alpha.md "wikilink")、科学、社会经济学类的数据集合
   - 查看并且重新使用前面的输入和输出（包括图像和文本记号）的笔记本界面
-  - 和基于DLL、[SQL](../Page/SQL.md "wikilink")、[Java](../Page/Java.md "wikilink")、[.NET](../Page/.NET.md "wikilink")、[C++](../Page/C++.md "wikilink")、[FORTRAN](../Page/FORTRAN.md "wikilink")、[CUDA](../Page/CUDA.md "wikilink")、[OpenCL以及](../Page/OpenCL.md "wikilink")[http的系统相链接的工具](../Page/http.md "wikilink")
+  - 和基于DLL、[SQL](../Page/SQL.md "wikilink")、[Java](../Page/Java.md "wikilink")、[.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")、[C++](../Page/C++.md "wikilink")、[FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")、[CUDA](../Page/CUDA.md "wikilink")、[OpenCL以及](../Page/OpenCL.md "wikilink")[http的系统相链接的工具](https://zh.wikipedia.org/wiki/http "wikilink")
   - 编写并行程序的工具
-  - 当与互联网连接时，在笔记本中可同时使用“自由格式语言输入”（一个[自然语言型的用户界面](../Page/自然语言.md "wikilink")）\[7\]和Wolfram语言
+  - 当与互联网连接时，在笔记本中可同时使用“自由格式语言输入”（一个[自然语言型的用户界面](https://zh.wikipedia.org/wiki/自然语言 "wikilink")）\[7\]和Wolfram语言
 
 ## 界面
 
 Mathematica分为两部分：内核和前端。内核对表达式（即Wolfram语言代码）进行解释，并且返回结果表达式。
 
-前端由[西奥多·格雷于](../Page/西奥多·格雷.md "wikilink")1988年设计\[8\]，它提供了一个允许用户创建并且编辑一个“笔记本文档”的[GUI](../Page/GUI.md "wikilink")，该笔记本文档可以包含程序代码、格式化文本以及包括公式、图像、GUI组件、表格、声音在内的各种输出结果。所有的内容和格式都可以通过算法生成或者通过交互式方法进行编辑。其支持大多数标准文字处理功能，还含有一个多语种的实时拼写检查器。
+前端由[西奥多·格雷于](https://zh.wikipedia.org/wiki/西奥多·格雷 "wikilink")1988年设计\[8\]，它提供了一个允许用户创建并且编辑一个“笔记本文档”的[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")，该笔记本文档可以包含程序代码、格式化文本以及包括公式、图像、GUI组件、表格、声音在内的各种输出结果。所有的内容和格式都可以通过算法生成或者通过交互式方法进行编辑。其支持大多数标准文字处理功能，还含有一个多语种的实时拼写检查器。
 
 文档可以使用层次式单元进行结构化处理，这样便于对文档划分章节。文档也可以表示为幻灯片形式，便于进行演讲。笔记本与其内容均以Mathematica表达式的形式存储，并且可用使用Mathematica程序进行创建、编辑和修改，而且还可以转化为其它格式，比如[TeX或者](../Page/TeX.md "wikilink")[XML](../Page/XML.md "wikilink")。
 
@@ -70,9 +70,9 @@ Kernel）。 \[10\]
 HPC Server 2008、[Microsoft Compute Cluster
 Server和Sun](../Page/Windows_Server_2003.md "wikilink")
 Grid。2010年，Mathematica增加了对[CUDA和](../Page/CUDA.md "wikilink")[OpenCL](../Page/OpenCL.md "wikilink")
-[GPU硬件的支持](../Page/GPU.md "wikilink")。另外，第8版还可以生成[C代码](../Page/C.md "wikilink")，它可以自动由系统C编译器进行编译，比如Intel
+[GPU硬件的支持](https://zh.wikipedia.org/wiki/GPU "wikilink")。另外，第8版还可以生成[C代码](../Page/C.md "wikilink")，它可以自动由系统C编译器进行编译，比如Intel
 C++编译器或者[Visual Studio
-2010编译器](../Page/Visual_Studio_2010.md "wikilink")。
+2010编译器](https://zh.wikipedia.org/wiki/Visual_Studio_2010 "wikilink")。
 
 ## 部署
 
@@ -86,7 +86,7 @@ webMathematica的网页浏览器可以作为远程Mathematica服务器的一个�
 
 另外，第8版可以自动将Mathematica代码转换成可执行的[C代码](../Page/C.md "wikilink")，这些自动生成的C代码可以在标准C编译器中进行编译，比如Intel
 C++ Compiler或者[Visual Studio
-2010的编译器](../Page/Visual_Studio_2010.md "wikilink")。因此，从某种角度上，Mathematica代码的执行速度可以与C语言代码相媲美。
+2010的编译器](https://zh.wikipedia.org/wiki/Visual_Studio_2010 "wikilink")。因此，从某种角度上，Mathematica代码的执行速度可以与C语言代码相媲美。
 
 ## 与其他应用的链接
 
@@ -95,30 +95,30 @@ Mathematica通过名为[MathLink](https://web.archive.org/web/20071008145340/htt
 Mathematica不但本身具有丰富的功能，而且它也提供了大量接口用以访问其它软件，从而可以方便地调用那些其它软件具有但Mathematica暂时不具备的功能。这样做可以进一步增强Mathematica的适用性。
 
 Wolfram Research发布了一个免费的开发工具包，该工具包允许[C programming
-language编写的应用程序通过](../Page/C语言.md "wikilink")*MathLink*链接到
+language编写的应用程序通过](https://zh.wikipedia.org/wiki/C语言 "wikilink")*MathLink*链接到
 Mathematica内核\[15\]。
 
 使用*.NET/Link*，\[16\]，任何一个.NET程序都可以调用Mathematica执行计算操作；相应地，Mathematica程序也可以加载.NET
 [classes](../Page/类_\(计算机科学\).md "wikilink")、操纵.NET对象并且执行方法调用。这样我们就可以从Mathematica内部构建.NET
 [图形用户界面](../Page/图形用户界面.md "wikilink")。类似地，Mathematica也有*J/Link*\[17\]。顾名思义，它可以用于Mathematica与Java程序之间的交互。
 
-与[SQL数据库之间的通讯是通过内置的](../Page/SQL.md "wikilink")[JDBC支持实现的](../Page/JDBC.md "wikilink")。\[18\]
+与[SQL数据库之间的通讯是通过内置的](../Page/SQL.md "wikilink")[JDBC支持实现的](https://zh.wikipedia.org/wiki/JDBC "wikilink")。\[18\]
 Mathematica也可以从一个[WSDL描述中安装](../Page/WSDL.md "wikilink")[网页服务](../Page/Web服务.md "wikilink")。\[19\]\[20\]
 
 其它与Mathematica相链接的语言包括[Haskell](../Page/Haskell.md "wikilink")\[21\]、[AppleScript](../Page/AppleScript.md "wikilink")\[22\]、PLT
 Scheme\[23\]、[Visual
 Basic](../Page/Visual_Basic.md "wikilink")\[24\]、[Python](../Page/Python.md "wikilink")\[25\]
-和[Clojure](../Page/Clojure.md "wikilink")\[26\]。
+和[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")\[26\]。
 
 在Mathematica和[OpenOffice.org
 Calc](../Page/OpenOffice.org_Calc.md "wikilink")\[27\]以及[Microsoft
 Excel](../Page/Microsoft_Excel.md "wikilink")\[28\]之间有双向的链接。
 
 Mathematica也提供了与许多专门的数学软件包之间的链接，包括[MATLAB](../Page/MATLAB.md "wikilink")\[29\]、[R](../Page/R.md "wikilink")
-\[30\]\[31\]、[Sage](../Page/Sagemath.md "wikilink")\[32\]\[33\]、SINGULAR\[34\]、MathModelica和[Origin](../Page/Origin.md "wikilink")
+\[30\]\[31\]、[Sage](https://zh.wikipedia.org/wiki/Sagemath "wikilink")\[32\]\[33\]、SINGULAR\[34\]、MathModelica和[Origin](https://zh.wikipedia.org/wiki/Origin "wikilink")
 \[35\]
 
-Mathematica中的数学公式也可以与其它计算或者排版软件（比如[MathML](../Page/MathML.md "wikilink")）的公式进行相互转换。
+Mathematica中的数学公式也可以与其它计算或者排版软件（比如[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")）的公式进行相互转换。
 
 Mathematica可以通过多种方式捕获实时数据，比如与[LabVIEW的链接](../Page/LabVIEW.md "wikilink")\[36\]，金融数据feeds
 \[37\]，或者直接通过GPIB从硬件设备（IEEE
@@ -153,7 +153,7 @@ Research数据服务器自动更新数据\[43\]。某些数据如股票价格和
 Mathematica的产生是基于Cole和Wolfram早期的符号操作程序（SMP）的创意。\[44\]\[45\]
 
 [Wolfram
-Research已经发布了如下Mathematica版本](../Page/Wolfram_Research.md "wikilink")\[46\]：
+Research已经发布了如下Mathematica版本](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")\[46\]：
 
 
 <div style="-moz-column-count:2; column-count:2;">
@@ -203,17 +203,17 @@ Research已经发布了如下Mathematica版本](../Page/Wolfram_Research.md "wik
 
 ## 参见
 
-  - [计算机代数系统比较](../Page/计算机代数系统比较.md "wikilink")
-  - [多重编程范式](../Page/多重编程范式.md "wikilink")
+  - [计算机代数系统比较](https://zh.wikipedia.org/wiki/计算机代数系统比较 "wikilink")
+  - [多重编程范式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")
   - [动态语言](../Page/动态语言.md "wikilink")
-  - [第四代程式語言](../Page/第四代程式語言.md "wikilink")
-  - [函数编程语言](../Page/函数编程语言.md "wikilink")
+  - [第四代程式語言](https://zh.wikipedia.org/wiki/第四代程式語言 "wikilink")
+  - [函数编程语言](https://zh.wikipedia.org/wiki/函数编程语言 "wikilink")
   - [文学编程](../Page/文学编程.md "wikilink")
   - [Wolfram语言](../Page/Wolfram语言.md "wikilink")
   - [Wolfram](../Page/Wolfram_Alpha.md "wikilink")——可计算知识引擎
   - Wolfram SystemModeler——一个与Mathematica集成的物理建模和仿真工具
   - IMTEK Mathematica Supplement——有限元仿真的开源Mathematica附加软件
-  - [数学软件](../Page/数学软件.md "wikilink")
+  - [数学软件](https://zh.wikipedia.org/wiki/数学软件 "wikilink")
 
 ## 参考文献
 
@@ -356,7 +356,7 @@ Research已经发布了如下Mathematica版本](../Page/Wolfram_Research.md "wik
 29. [Mathsource item \#618 for calling MATLAB from
     Mathematica](http://library.wolfram.com/infocenter/MathSource/618/)
     Roger Germundsson from [Wolfram
-    Research](../Page/Wolfram_Research.md "wikilink")
+    Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")
 
 30. [R-Link](http://www.scienceops.com/Rlink2.asp)  Calling
     [R](../Page/R.md "wikilink") from within Mathematica
@@ -385,7 +385,7 @@ Research已经发布了如下Mathematica版本](../Page/Wolfram_Research.md "wik
 37. [DDFLink](http://www.lauschkeconsulting.com/ddfplus.html)  Lauschke
     Consulting
 
-38. [GITM](../Page/:sourceforge:projects/gitm/.md "wikilink")
+38. [GITM](https://zh.wikipedia.org/wiki/:sourceforge:projects/gitm/ "wikilink")
     SourceForge
 
 39. [BTopTools](http://www.wolfram.com/news/btoptools.html) A commercial

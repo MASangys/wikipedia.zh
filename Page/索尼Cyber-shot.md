@@ -1,22 +1,23 @@
 [Cyber-shot.svg](https://zh.wikipedia.org/wiki/File:Cyber-shot.svg "fig:Cyber-shot.svg")
-**Cyber-shot**，是[Sony公司的](../Page/Sony.md "wikilink")[數位相機品牌](../Page/數位相機.md "wikilink")。Sony自1997年第一台Cyber-shot
-F1問世以來至今。配合自身在硬體領域上的優異技術與卓越的[CCD感光元件](../Page/CCD.md "wikilink")，另外搭載[德國](../Page/德國.md "wikilink")[卡爾·蔡司](../Page/卡爾·蔡司.md "wikilink")（Carl
-Zeiss）镜头，在消費性數位相機市場，目前在全球消費性數位相機市场取得占有率第二，並和[尼康](../Page/尼康.md "wikilink")、[佳能](../Page/佳能.md "wikilink")、[富士](../Page/富士胶片.md "wikilink")、[柯達並列數位相機五大](../Page/柯達.md "wikilink")[品牌](../Page/品牌.md "wikilink")。
+**Cyber-shot**，是[Sony公司的](https://zh.wikipedia.org/wiki/Sony "wikilink")[數位相機品牌](https://zh.wikipedia.org/wiki/數位相機 "wikilink")。Sony自1997年第一台Cyber-shot
+F1問世以來至今。配合自身在硬體領域上的優異技術與卓越的[CCD感光元件](https://zh.wikipedia.org/wiki/CCD "wikilink")，另外搭載[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[卡爾·蔡司](../Page/卡爾·蔡司.md "wikilink")（Carl
+Zeiss）镜头，在消費性數位相機市場，目前在全球消費性數位相機市场取得占有率第二，並和[尼康](../Page/尼康.md "wikilink")、[佳能](../Page/佳能.md "wikilink")、[富士](../Page/富士胶片.md "wikilink")、[柯達並列數位相機五大](https://zh.wikipedia.org/wiki/柯達 "wikilink")[品牌](../Page/品牌.md "wikilink")。
 [Sony_Cyber-shot_DSC-F717.jpg](https://zh.wikipedia.org/wiki/File:Sony_Cyber-shot_DSC-F717.jpg "fig:Sony_Cyber-shot_DSC-F717.jpg")
-在[台灣以](../Page/台灣.md "wikilink")「每個人都有自己的Cyber-shot」，而在[中國大陸以](../Page/中國大陸.md "wikilink")「自有我主張」，都是強調個人風格的行銷策略。另外，2006年開始，Sony
+在[台灣以](https://zh.wikipedia.org/wiki/台灣 "wikilink")「每個人都有自己的Cyber-shot」，而在[中國大陸以](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")「自有我主張」，都是強調個人風格的行銷策略。另外，2006年開始，Sony
 Ericsson開始販賣了以此為副品牌的[Sony Ericsson
 K800i](../Page/Sony_Ericsson_K800i.md "wikilink")。
 
-新力在[2006年4月](../Page/2006年4月.md "wikilink")，承襲[柯尼卡美能達的α接環發表](../Page/柯尼卡美能達.md "wikilink")[DSLR品牌](../Page/DSLR.md "wikilink")-[**α**](../Page/Sony_α.md "wikilink")。
+新力在[2006年4月](../Page/2006年4月.md "wikilink")，承襲[柯尼卡美能達的α接環發表](../Page/柯尼卡美能達.md "wikilink")[DSLR品牌](https://zh.wikipedia.org/wiki/DSLR "wikilink")-[**α**](https://zh.wikipedia.org/wiki/Sony_α "wikilink")。
 
 ## Cyber-shot共同特點
 
-  - 大部份的機種都搭載[德國](../Page/德國.md "wikilink")[卡爾·蔡司](../Page/卡爾·蔡司.md "wikilink")（Carl
+  - 大部份的機種都搭載[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[卡爾·蔡司](../Page/卡爾·蔡司.md "wikilink")（Carl
     Zeiss）鏡頭或Sony G鏡頭
   - 大部份的機種都搭載Sony自行開發「Super HAD CCD」感光元件
-  - 大部份的機種都使用[Memory Stick記憶卡](../Page/Memory_Stick.md "wikilink")
+  - 大部份的機種都使用[Memory
+    Stick記憶卡](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")
   - 搭載Sony自行開發「Real Imaging Processor」真實影像處理器
-  - 2007年起，Cyber-shot將全面搭載[α專屬](../Page/Sony_α.md "wikilink")「BIONZ
+  - 2007年起，Cyber-shot將全面搭載[α專屬](https://zh.wikipedia.org/wiki/Sony_α "wikilink")「BIONZ
     Processor」、支援靜態高畫質傳輸的HD 1080i技術
   - 2009年起，Cyber-shot錄影規格全面提升為1280 x 720P MPEG-4格式（DSC-HX1除外）
   - 2009年起，Cyber-shot將全面搭載「iSCN」智慧模式
@@ -31,17 +32,17 @@ K800i](../Page/Sony_Ericsson_K800i.md "wikilink")。
 
 ### 專業級
 
-自2006年7月起，索尼推出[DSLR品牌](../Page/DSLR.md "wikilink")-[**α**](../Page/Sony_α.md "wikilink")（Alpha），Cyber-Shot專業級產品線一度停产。到2012年，随着RX100与RX1的发布，专业级产品线也非正式宣告回归。
+自2006年7月起，索尼推出[DSLR品牌](https://zh.wikipedia.org/wiki/DSLR "wikilink")-[**α**](https://zh.wikipedia.org/wiki/Sony_α "wikilink")（Alpha），Cyber-Shot專業級產品線一度停产。到2012年，随着RX100与RX1的发布，专业级产品线也非正式宣告回归。
 
 #### R系列 / RX系列
 
   - **Cyber-Shot R1**
 
-2005年9月，索尼发布R1，採用了[DSLR同等級的APS](../Page/DSLR.md "wikilink")-C尺寸CMOS感光元件，並搭配了Carl
+2005年9月，索尼发布R1，採用了[DSLR同等級的APS](https://zh.wikipedia.org/wiki/DSLR "wikilink")-C尺寸CMOS感光元件，並搭配了Carl
 Zeiss Vario-Sonnar T\* 鍍膜鏡頭的高倍變焦（等效135上24-120mm焦距）機種。
 
 推出次年的2006年，索尼接手[Minolta
-AF系统](../Page/Minolta_AF.md "wikilink")，开始将重心放在自己的可换镜头系统SONY
+AF系统](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")，开始将重心放在自己的可换镜头系统SONY
 α上。该机也成R系的唯一一台机器。
 
   - **Cyber-Shot RX100**
@@ -185,7 +186,7 @@ U系列後續，小機身、變焦等功能
 
 #### M系列（停產）
 
-45度旋轉機身與[Mpeg4錄影功能](../Page/Mpeg4.md "wikilink")
+45度旋轉機身與[Mpeg4錄影功能](https://zh.wikipedia.org/wiki/Mpeg4 "wikilink")
 
   - 2004年12月－M1
   - 2005年9月－M2
@@ -218,17 +219,17 @@ U系列後續，小機身、變焦等功能
 ### Sony Ericsson Cyber-shot系列手機
 
   - 2006年7月－[K800i](../Page/Sony_Ericsson_K800i.md "wikilink")
-  - 2007年2月－[K550i](../Page/Sony_Ericsson_K550i.md "wikilink")
-  - 2007年4月－[K550im](../Page/Sony_Ericsson_K550im.md "wikilink")
-  - 2007年5月－[K810i](../Page/Sony_Ericsson_K810i.md "wikilink")
-  - 2007年10月－[K770i](../Page/Sony_Ericsson_K770i.md "wikilink")
-    [K850i](../Page/Sony_Ericsson_K850i.md "wikilink")
-  - 2008年－[C902](../Page/Sony_Ericsson_C902.md "wikilink")
-    [C702](../Page/Sony_Ericsson_C702.md "wikilink")
+  - 2007年2月－[K550i](https://zh.wikipedia.org/wiki/Sony_Ericsson_K550i "wikilink")
+  - 2007年4月－[K550im](https://zh.wikipedia.org/wiki/Sony_Ericsson_K550im "wikilink")
+  - 2007年5月－[K810i](https://zh.wikipedia.org/wiki/Sony_Ericsson_K810i "wikilink")
+  - 2007年10月－[K770i](https://zh.wikipedia.org/wiki/Sony_Ericsson_K770i "wikilink")
+    [K850i](https://zh.wikipedia.org/wiki/Sony_Ericsson_K850i "wikilink")
+  - 2008年－[C902](https://zh.wikipedia.org/wiki/Sony_Ericsson_C902 "wikilink")
+    [C702](https://zh.wikipedia.org/wiki/Sony_Ericsson_C702 "wikilink")
     [C905](../Page/Sony_Ericsson_C905.md "wikilink")
   - 2009年－[C510](../Page/Sony_Ericsson_C510.md "wikilink")
-    [C901](../Page/Sony_Ericsson_C901.md "wikilink")
-    [C903](../Page/Sony_Ericsson_C903.md "wikilink")
+    [C901](https://zh.wikipedia.org/wiki/Sony_Ericsson_C901 "wikilink")
+    [C903](https://zh.wikipedia.org/wiki/Sony_Ericsson_C903 "wikilink")
 
 ## 爭議問題
 
@@ -260,15 +261,15 @@ U系列後續，小機身、變焦等功能
 ## 参见
 
   - Sony
-      - [Sony α](../Page/Sony_α.md "wikilink")
-      - [Mavica](../Page/Mavica.md "wikilink")
+      - [Sony α](https://zh.wikipedia.org/wiki/Sony_α "wikilink")
+      - [Mavica](https://zh.wikipedia.org/wiki/Mavica "wikilink")
   - 竞争对手
       - [Canon
-        PowerShot](../Page/Canon_PowerShot.md "wikilink")—[佳能的小型数码相机系列](../Page/佳能.md "wikilink")
+        PowerShot](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")—[佳能的小型数码相机系列](../Page/佳能.md "wikilink")
       - [Nikon
-        Coolpix](../Page/尼康Coolpix数码相机系列.md "wikilink")—[尼康的小型数码相机系列](../Page/尼康.md "wikilink")
+        Coolpix](https://zh.wikipedia.org/wiki/尼康Coolpix数码相机系列 "wikilink")—[尼康的小型数码相机系列](../Page/尼康.md "wikilink")
       - [Panasonic
-        Lumix](../Page/Lumix.md "wikilink")—[松下的小型数码相机系列](../Page/松下.md "wikilink")
+        Lumix](https://zh.wikipedia.org/wiki/Lumix "wikilink")—[松下的小型数码相机系列](https://zh.wikipedia.org/wiki/松下 "wikilink")
 
 ## 外部链接
 

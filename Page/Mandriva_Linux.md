@@ -1,9 +1,9 @@
 **Mandriva
-Linux**是一个由[Mandriva开发的](../Page/Mandriva.md "wikilink")[Linux发行版](../Page/Linux.md "wikilink")，它使用[RPM包管理器及](../Page/RPM.md "wikilink")[KDE
+Linux**是一个由[Mandriva开发的](../Page/Mandriva.md "wikilink")[Linux发行版](../Page/Linux.md "wikilink")，它使用[RPM包管理器及](https://zh.wikipedia.org/wiki/RPM "wikilink")[KDE
 SC](../Page/KDE_Software_Compilation_4.md "wikilink")、[GNOME等桌面环境](../Page/GNOME.md "wikilink")。每个发布版本提供12个月的桌面软件更新，以及18个月的基础组件更新。
 
 Mandriva
-Linux的前身为[欧洲最大的](../Page/欧洲.md "wikilink")[Linux厂商](../Page/Linux.md "wikilink")，[法国](../Page/法国.md "wikilink")[Mandriva公司所擁有的](../Page/Mandriva.md "wikilink")**Mandrake
+Linux的前身为[欧洲最大的](../Page/欧洲.md "wikilink")[Linux厂商](../Page/Linux.md "wikilink")，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[Mandriva公司所擁有的](../Page/Mandriva.md "wikilink")**Mandrake
 Linux**。 2015年5月26日Business Inside報導Mandriva公司已經正式宣告結束營運\[1\]。
 
 ## 历史发展
@@ -12,10 +12,10 @@ Linux**。 2015年5月26日Business Inside報導Mandriva公司已經正式宣告
 5.1和[KDE](../Page/KDE.md "wikilink") 1.0。后来它与Red
 Hat分道扬镳，并加入了一些原有的工具用以方便配置系统。Mandriva
 Linux由[Gaël
-Duval所创建](../Page/Gaël_Duval.md "wikilink")，其目标是使得新用户更容易使用Linux。\[2\]。Mandrake项目是世界上第一个为非技术类用户设计的易于使用，安装和管理的linux发行版本。\[3\]
+Duval所创建](https://zh.wikipedia.org/wiki/Gaël_Duval "wikilink")，其目标是使得新用户更容易使用Linux。\[2\]。Mandrake项目是世界上第一个为非技术类用户设计的易于使用，安装和管理的linux发行版本。\[3\]
 
 Mandrake
-Linux早期方便的字体安装工具和默认的中文支持，为Linux普及做出了很大的贡献。但是2004年前后Mandrakesoft陷入财务危机，濒临破产。公司于2005年2月24日与[拉丁美洲最大的Linux厂商](../Page/拉丁美洲.md "wikilink")[Conectiva达成了收购协议](../Page/Conectiva.md "wikilink")，金额为170万[欧元](../Page/欧元.md "wikilink")，约合223万[美元](../Page/美元.md "wikilink")，以[股票形式交易](../Page/股票.md "wikilink")，新公司[Mandriva旗下品牌Mandrake](../Page/Mandriva.md "wikilink")
+Linux早期方便的字体安装工具和默认的中文支持，为Linux普及做出了很大的贡献。但是2004年前后Mandrakesoft陷入财务危机，濒临破产。公司于2005年2月24日与[拉丁美洲最大的Linux厂商](../Page/拉丁美洲.md "wikilink")[Conectiva达成了收购协议](https://zh.wikipedia.org/wiki/Conectiva "wikilink")，金额为170万[欧元](../Page/欧元.md "wikilink")，约合223万[美元](../Page/美元.md "wikilink")，以[股票形式交易](../Page/股票.md "wikilink")，新公司[Mandriva旗下品牌Mandrake](../Page/Mandriva.md "wikilink")
 Linux更名为Mandriva Linux。但是Mandrakesoft的创始人Gaël Duval，却于2006年被新公司解雇\[4\]。
 
 ## 名字的由来
@@ -24,12 +24,12 @@ Linux更名为Mandriva Linux。但是Mandrakesoft的创始人Gaël Duval，却�
 Linux。
 
 在2004年2月，MandrakeSoft输掉了与[King
-Features集团的所有者](../Page/King_Features.md "wikilink")[赫斯特公司之间的官司](../Page/Hearst.md "wikilink")。赫斯特认为，MandrakeSoft的Mandrake魔术样式商标对King
+Features集团的所有者](https://zh.wikipedia.org/wiki/King_Features "wikilink")[赫斯特公司之间的官司](https://zh.wikipedia.org/wiki/Hearst "wikilink")。赫斯特认为，MandrakeSoft的Mandrake魔术样式商标对King
 Features集团的商标造成了侵权。作为预防措施，MandrakeSoft将其产品名称作了更改，将品牌名字和产品名称之间的空白字符去掉，并将产品名称的首字母改为小写，因此而成为了一个单词。从10.0版本开始，Mandrake
-Linux便成为现在熟悉的Mandrakelinux，而它的品牌标志也因此更改。同样地，[MandrakeMove也改为了Mandrakemove](../Page/MandrakeMove.md "wikilink")。
+Linux便成为现在熟悉的Mandrakelinux，而它的品牌标志也因此更改。同样地，[MandrakeMove也改为了Mandrakemove](https://zh.wikipedia.org/wiki/MandrakeMove "wikilink")。
 
-在2005年4月，Mandrakesoft发布公告称，该公司与[巴西的](../Page/巴西.md "wikilink")[Conectiva](../Page/Conectiva.md "wikilink")、[法国的](../Page/法国.md "wikilink")[Edge
-IT和](../Page/Edge_IT.md "wikilink")[美国的](../Page/美国.md "wikilink")[Lycoris收购合并](../Page/Lycoris.md "wikilink")。
+在2005年4月，Mandrakesoft发布公告称，该公司与[巴西的](../Page/巴西.md "wikilink")[Conectiva](https://zh.wikipedia.org/wiki/Conectiva "wikilink")、[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[Edge
+IT和](https://zh.wikipedia.org/wiki/Edge_IT "wikilink")[美国的](../Page/美国.md "wikilink")[Lycoris收购合并](https://zh.wikipedia.org/wiki/Lycoris "wikilink")。
 由于这次收购行动以及和赫特斯公司之间的法律纠纷，使得Mandrakesoft宣布新公司的名称是Mandriva，而Mandriva
 Linux也成为新产品的名称。\[5\]
 
@@ -40,22 +40,22 @@ Linux也成为新产品的名称。\[5\]
 ### 安装、控制及管理
 
 Mandriva Linux包含了[Mandriva Control
-Center](../Page/drakconf.md "wikilink")，这是用于易于进行系统设置的控制中心。它有许多像Deakes或Draks这样的众所周知的程序组成，并被统一命名为**drakxtools**，用于配置更多不同的系统设置。例如*MouseDrake*用来配置鼠标参数，*DiskDrake*用于设置磁盘分区，*drakconnect*用于配置网络连接。这些都是使用[GTK+和](../Page/GTK+.md "wikilink")[Perl所编写的](../Page/Perl.md "wikilink")，大多数的这类程序都能够在图形模式和命令行字符模式下使用[ncurses界面运行](../Page/ncurses.md "wikilink")。
+Center](https://zh.wikipedia.org/wiki/drakconf "wikilink")，这是用于易于进行系统设置的控制中心。它有许多像Deakes或Draks这样的众所周知的程序组成，并被统一命名为**drakxtools**，用于配置更多不同的系统设置。例如*MouseDrake*用来配置鼠标参数，*DiskDrake*用于设置磁盘分区，*drakconnect*用于配置网络连接。这些都是使用[GTK+和](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Perl所编写的](../Page/Perl.md "wikilink")，大多数的这类程序都能够在图形模式和命令行字符模式下使用[ncurses界面运行](https://zh.wikipedia.org/wiki/ncurses "wikilink")。
 
 ### 桌面
 
 Mandriva Linux使用[KDE
-SC或](../Page/KDE_Software_Compilation_4.md "wikilink")[GNOME作为标准桌面](../Page/GNOME.md "wikilink")，但实际上它还包括了其它的像[Xfce](../Page/Xfce.md "wikilink")、[twm这样的桌面系统](../Page/twm.md "wikilink")。
+SC或](../Page/KDE_Software_Compilation_4.md "wikilink")[GNOME作为标准桌面](../Page/GNOME.md "wikilink")，但实际上它还包括了其它的像[Xfce](../Page/Xfce.md "wikilink")、[twm这样的桌面系统](https://zh.wikipedia.org/wiki/twm "wikilink")。
 
 ### 主题
 
-它有一个提供了[软件与](../Page/软件.md "wikilink")[桌面环境保持一致的独特的](../Page/桌面环境.md "wikilink")[主题](../Page/主题.md "wikilink")。
+它有一个提供了[软件与](../Page/软件.md "wikilink")[桌面环境保持一致的独特的](../Page/桌面环境.md "wikilink")[主题](https://zh.wikipedia.org/wiki/主题 "wikilink")。
 Mandrake银河桌面背景在9.1版出现，而Mandrake银河II则出现于10.0，作为桌面背景。Mandrake银河的一个变体是"Mandrake平方银河"，这是使用[平方窗口按钮而不是以往的](../Page/平方.md "wikilink")[圆方形](../Page/圆.md "wikilink")。一个叫做"Ia
 Ora"的新的默认主题则出现于Mandriva Linux 2007正式版中，但"银河"依旧作为可选的喜好设置保留在系统中。
 
-Mandriva以[rpm作为软件管理工具](../Page/rpm.md "wikilink")，部分兼容[Red Hat
-Linux](../Page/Red_Hat_Linux.md "wikilink")／[Fedora
-Core的预编译包](../Page/Fedora_Core.md "wikilink")。
+Mandriva以[rpm作为软件管理工具](https://zh.wikipedia.org/wiki/rpm "wikilink")，部分兼容[Red
+Hat Linux](../Page/Red_Hat_Linux.md "wikilink")／[Fedora
+Core的预编译包](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink")。
 
   - 方便：
   - 高效：

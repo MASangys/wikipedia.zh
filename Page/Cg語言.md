@@ -1,5 +1,5 @@
 **Cg语言**（C for
-Graphics）是为[GPU编程设计的](../Page/GPU.md "wikilink")[高級著色器語言](../Page/高級著色器語言.md "wikilink")，由[NVIDIA公司开发](../Page/NVIDIA.md "wikilink")。Cg极力保留[C语言的大部分语义](../Page/C语言.md "wikilink")，并让开发者从硬件细节中解脱出来，Cg同时也有一个高级语言的其他好处，如代码的易重用性，可读性得到提高，编译器代码优化。
+Graphics）是为[GPU编程设计的](https://zh.wikipedia.org/wiki/GPU "wikilink")[高級著色器語言](https://zh.wikipedia.org/wiki/高級著色器語言 "wikilink")，由[NVIDIA公司开发](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。Cg极力保留[C语言的大部分语义](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并让开发者从硬件细节中解脱出来，Cg同时也有一个高级语言的其他好处，如代码的易重用性，可读性得到提高，编译器代码优化。
 
 Cg语言主要参照[ANSI
 C建模](../Page/ANSI_C.md "wikilink")，但也从[C++和](../Page/C++.md "wikilink")[Java以及早期的绘制语言如RenderMan](../Page/Java.md "wikilink")
@@ -52,12 +52,15 @@ Cg有6種数据型別（data types），跟C語言相當類似，有一些是為
 
 ## 參照
 
-  - [程序设计语言](../Page/程序设计语言.md "wikilink")
+  - [程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")
   - [计算机图形学](../Page/计算机图形学.md "wikilink")
-  - [Vertex and pixel shaders](../Page/Vertex_shader.md "wikilink")
-  - [High level shader language](../Page/HLSL.md "wikilink")
+  - [Vertex and pixel
+    shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")
+  - [High level shader
+    language](https://zh.wikipedia.org/wiki/HLSL "wikilink")
   - [OpenGL shading language](../Page/GLSL.md "wikilink")
-  - [Shader Model](../Page/Shader_Model.md "wikilink")
+  - [Shader
+    Model](https://zh.wikipedia.org/wiki/Shader_Model "wikilink")
   - [OpenGL](../Page/OpenGL.md "wikilink")
   - [DirectX](../Page/DirectX.md "wikilink")
 

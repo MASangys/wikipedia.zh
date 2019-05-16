@@ -3,7 +3,8 @@ AntiSpyware**，是用来移除、隔离和预防[间谍软件的程序](../Page
 XP以及更高版本的操作系统上](../Page/Windows_XP.md "wikilink")，並已經內置在[Windows
 Vista以及以後的版本中](../Page/Windows_Vista.md "wikilink")。测试版于[2005年](../Page/2005年.md "wikilink")[1月6日发布](../Page/1月6日.md "wikilink")，在2005年[6月23日](../Page/6月23日.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[2月17日微软又发布了更新的测试版本](../Page/2月17日.md "wikilink")。Windows
 Defender的定义库更新很频繁。在[Windows
-8中与](../Page/Windows_8.md "wikilink")[Microsoft Security
+8中与](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Microsoft
+Security
 Essentials整合](../Page/Microsoft_Security_Essentials.md "wikilink")。
 
 Windows
@@ -15,14 +16,16 @@ Defender不像某些其他同类免费产品一样只能扫描系统，还可以
   - 在「工具」（Tools）页面，用户可以透过「选项」（options）对Windows Defender的「即時防护」（Real-time
     Protection）、「自动扫描计划」（Automatic
     scanning）进行设置修改，或进行進階的設定。用户可以在工具（Tools）页面中决定加入[Microsoft
-    SpyNet社区](../Page/Microsoft_SpyNet.md "wikilink")，以及对已經隔离程序的处理操作。用户可以透过點击「检查更新」（Check
+    SpyNet社区](https://zh.wikipedia.org/wiki/Microsoft_SpyNet "wikilink")，以及对已經隔离程序的处理操作。用户可以透过點击「检查更新」（Check
     for updates）或是使用[microsoft
-    Update对Windows](../Page/microsoft_Update.md "wikilink")
+    Update对Windows](https://zh.wikipedia.org/wiki/microsoft_Update "wikilink")
     Defender进行升级。
-  - 在[Windows 7以及以後的版本中](../Page/Windows_7.md "wikilink")，Windows
-    Defender会配合[行動作業中心](../Page/Windows_7新功能#.E8.A1.8C.E5.8B.95.E4.BD.9C.E6.A5.AD.E4.B8.AD.E5.BF.83.md "wikilink")[Windows
-    8以後](../Page/Windows_8.md "wikilink")[重要訊息中心防范恶意软件以维护Windows稳定安全執行](../Page/重要訊息中心.md "wikilink")。
-  - [Windows 10的版本中](../Page/Windows_10.md "wikilink")，Windows
+  - 在[Windows
+    7以及以後的版本中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Windows
+    Defender会配合[行動作業中心](https://zh.wikipedia.org/wiki/Windows_7新功能#.E8.A1.8C.E5.8B.95.E4.BD.9C.E6.A5.AD.E4.B8.AD.E5.BF.83 "wikilink")[Windows
+    8以後](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[重要訊息中心防范恶意软件以维护Windows稳定安全執行](https://zh.wikipedia.org/wiki/重要訊息中心 "wikilink")。
+  - [Windows
+    10的版本中](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，Windows
     Defender會自訂一個時間自動更新（通常1天至少更新1次）（Build 10240的Windows
     Update可以看到是否有安裝，此功能在後面的Build被移除）。從Windows 10
     1709起，更名**Windows Defender Security

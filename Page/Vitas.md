@@ -1,47 +1,47 @@
 [Автограф_Витаса.jpg](https://zh.wikipedia.org/wiki/File:Автограф_Витаса.jpg "fig:Автограф_Витаса.jpg")
 
-**维塔斯**（，，），原名**維塔利·弗拉達索維奇·格拉喬夫**（，拉丁化：），是出生于[拉脫維亞的](../Page/拉脫維亞.md "wikilink")[俄罗斯男歌手](../Page/俄罗斯.md "wikilink")，以其跨越五个[八度](../Page/八度.md "wikilink")\[1\]的宽广音域和高音区雌雄难辨的声线著称，有「海豚音王子」美譽。是[俄罗斯流行音乐领域继](../Page/俄罗斯.md "wikilink")[t.A.T.u.和](../Page/t.A.T.u..md "wikilink")[Nu
+**维塔斯**（，，），原名**維塔利·弗拉達索維奇·格拉喬夫**（，拉丁化：），是出生于[拉脫維亞的](../Page/拉脫維亞.md "wikilink")[俄罗斯男歌手](../Page/俄罗斯.md "wikilink")，以其跨越五个[八度](../Page/八度.md "wikilink")\[1\]的宽广音域和高音区雌雄难辨的声线著称，有「海豚音王子」美譽。是[俄罗斯流行音乐领域继](../Page/俄罗斯.md "wikilink")[t.A.T.u.和](https://zh.wikipedia.org/wiki/t.A.T.u. "wikilink")[Nu
 Virgos之后又一风靡全球的歌手](../Page/圣女天团.md "wikilink")。他于2000年在[克里姆林宫的演唱会的现场录像曾在网络上广泛流传](../Page/克里姆林宫.md "wikilink")，其个人网站的日均访问量曾一度超过200,000。
 
 ## 簡要生平
 
-小的時候在祖父的影響下學習演奏[手風琴](../Page/手風琴.md "wikilink")，並在祖父的帶領下經常在位於[烏克蘭境內的](../Page/烏克蘭.md "wikilink")[敖德薩進行業餘演出](../Page/敖德薩.md "wikilink")。十幾歲的時候（具體的年份仍無法確定）進入敖德薩音樂學院學習。其音樂學院院長安那托利·帕多卡驚嘆Vitas是“上天賜予的禮物”。Vitas於2006年與交往7年的女友結婚,
+小的時候在祖父的影響下學習演奏[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")，並在祖父的帶領下經常在位於[烏克蘭境內的](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[敖德薩進行業餘演出](../Page/敖德薩.md "wikilink")。十幾歲的時候（具體的年份仍無法確定）進入敖德薩音樂學院學習。其音樂學院院長安那托利·帕多卡驚嘆Vitas是“上天賜予的禮物”。Vitas於2006年與交往7年的女友結婚,
 目前育有一女一子。
 
-從敖德薩將Vitas發掘出來的是[俄羅斯著名音樂製作人](../Page/俄羅斯.md "wikilink")[謝爾蓋·普多夫金](../Page/謝爾蓋·普多夫金.md "wikilink")（）。普多夫金在敖德薩聽過演唱的錄音帶之後，慨嘆自己“發現了俄羅斯音樂的天才”。很快，就隨普多夫金來到[莫斯科](../Page/莫斯科.md "wikilink")，並正式開始以Vitas為藝名登上俄羅斯樂壇。
+從敖德薩將Vitas發掘出來的是[俄羅斯著名音樂製作人](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[謝爾蓋·普多夫金](https://zh.wikipedia.org/wiki/謝爾蓋·普多夫金 "wikilink")（）。普多夫金在敖德薩聽過演唱的錄音帶之後，慨嘆自己“發現了俄羅斯音樂的天才”。很快，就隨普多夫金來到[莫斯科](../Page/莫斯科.md "wikilink")，並正式開始以Vitas為藝名登上俄羅斯樂壇。
 
-2000年，在[克里姆林宮因演唱](../Page/克里姆林宮.md "wikilink")取得空前的成功，他迅速成為全世界矚目的流行巨星。他的成名曲（，）成為[俄羅斯年度最受歡迎的單曲](../Page/俄羅斯.md "wikilink")。在這首單曲中，達到了soprano
-C的高音，極富震撼力。被稱為“俄羅斯音樂教母”的著名歌唱家[普加喬娃在聽了](../Page/普加喬娃.md "wikilink")演唱的之後稱：“我激動得流淚了，無論是為了音樂，還是為了他的表演。”
+2000年，在[克里姆林宮因演唱](https://zh.wikipedia.org/wiki/克里姆林宮 "wikilink")取得空前的成功，他迅速成為全世界矚目的流行巨星。他的成名曲（，）成為[俄羅斯年度最受歡迎的單曲](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。在這首單曲中，達到了soprano
+C的高音，極富震撼力。被稱為“俄羅斯音樂教母”的著名歌唱家[普加喬娃在聽了](https://zh.wikipedia.org/wiki/普加喬娃 "wikilink")演唱的之後稱：“我激動得流淚了，無論是為了音樂，還是為了他的表演。”
 
-到目前為止，共發行過14張CD專輯及2張單曲專輯，大部分以[俄語演唱](../Page/俄語.md "wikilink")。截至2005年年初，他先後在16個國家共計舉辦了個人演唱會1000餘場。截至2005年年初，他的專輯[CD銷量已經超過一千萬張](../Page/CD.md "wikilink")。此外，以規模空前的巡迴演出著稱。
-2004－2006年間，他的主題巡迴演唱會“我母親的歌”遍及[俄羅斯](../Page/俄羅斯.md "wikilink")、[美國](../Page/美國.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[澳大利亞](../Page/澳大利亞.md "wikilink")、[德國](../Page/德國.md "wikilink")、[哈薩克斯坦](../Page/哈薩克斯坦.md "wikilink")、[以色列和](../Page/以色列.md "wikilink")[波羅的海諸國](../Page/波羅的海.md "wikilink")。
+到目前為止，共發行過14張CD專輯及2張單曲專輯，大部分以[俄語演唱](https://zh.wikipedia.org/wiki/俄語 "wikilink")。截至2005年年初，他先後在16個國家共計舉辦了個人演唱會1000餘場。截至2005年年初，他的專輯[CD銷量已經超過一千萬張](../Page/CD.md "wikilink")。此外，以規模空前的巡迴演出著稱。
+2004－2006年間，他的主題巡迴演唱會“我母親的歌”遍及[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[哈薩克斯坦](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")、[以色列和](../Page/以色列.md "wikilink")[波羅的海諸國](https://zh.wikipedia.org/wiki/波羅的海 "wikilink")。
 
 除演唱事業之外，的一些其他舉動仍很引人注目。這些舉動包括：
 
-  - 2002年，在世界聯盟委員會“[無毒品智力](../Page/無毒品智力.md "wikilink")”組織的私人邀請下，及其製作人謝爾蓋·普多夫金加入了該組織的管理委員會，並成為該組織的名譽會員。該組織的會員還包括所有[俄羅斯的教長](../Page/俄羅斯.md "wikilink")，现世达赖喇嘛[丹增嘉措](../Page/丹增嘉措.md "wikilink")，Koffey
+  - 2002年，在世界聯盟委員會“[無毒品智力](https://zh.wikipedia.org/wiki/無毒品智力 "wikilink")”組織的私人邀請下，及其製作人謝爾蓋·普多夫金加入了該組織的管理委員會，並成為該組織的名譽會員。該組織的會員還包括所有[俄羅斯的教長](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，现世达赖喇嘛[丹增嘉措](https://zh.wikipedia.org/wiki/丹增嘉措 "wikilink")，Koffey
     Annan，Tina
-    Turner以及20多個國家的[總理](../Page/總理.md "wikilink")。在聖山腳下的淨化儀式上，被授予了有三億五千萬年歷史的“世界石”。傳說中，這塊石頭吸收了全世界人類有史以來所有的好事。
-  - 2002年9月29日，在[克里姆林宮的舞台上舉辦了他的時裝設計發布會](../Page/克里姆林宮.md "wikilink")“秋天的夢”。這次表演共包含了42套女士服裝，其中有些已經在[阿拉木圖](../Page/阿拉木圖.md "wikilink")，[維爾紐斯](../Page/維爾紐斯.md "wikilink")，[柏林](../Page/柏林.md "wikilink")，[塔什干](../Page/塔什干.md "wikilink")，[特拉維夫](../Page/特拉維夫.md "wikilink")，阿詩克隆展出。現在普多夫金先生正在同西方的公司就推廣Vitas品牌，安排服裝生產線的事項進行談判。
+    Turner以及20多個國家的[總理](https://zh.wikipedia.org/wiki/總理 "wikilink")。在聖山腳下的淨化儀式上，被授予了有三億五千萬年歷史的“世界石”。傳說中，這塊石頭吸收了全世界人類有史以來所有的好事。
+  - 2002年9月29日，在[克里姆林宮的舞台上舉辦了他的時裝設計發布會](https://zh.wikipedia.org/wiki/克里姆林宮 "wikilink")“秋天的夢”。這次表演共包含了42套女士服裝，其中有些已經在[阿拉木圖](https://zh.wikipedia.org/wiki/阿拉木圖 "wikilink")，[維爾紐斯](https://zh.wikipedia.org/wiki/維爾紐斯 "wikilink")，[柏林](../Page/柏林.md "wikilink")，[塔什干](../Page/塔什干.md "wikilink")，[特拉維夫](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")，阿詩克隆展出。現在普多夫金先生正在同西方的公司就推廣Vitas品牌，安排服裝生產線的事項進行談判。
   - 2002年12月，出演了由杜索娃夫人的小說《被愛的惡棍》改編的電視系列劇。他飾演的角色是個由省城來到首都的藝術家，以他獨一無二的嗓音與歌聲在流行舞台上引起了轟動。
     為這部片子的音樂創作了兩首歌曲。拍攝期間這個系列劇的製作人就向謝爾蓋·普多夫金提出了延長合同到下個系列的拍攝。
-  - 2003年春，根據的舞台劇改編的話劇《維克多，力量中的孩子》在[馬雅可夫斯基大劇院舉行首演](../Page/馬雅可夫斯基.md "wikilink")，出演了主角—一個九歲的男孩。
-  - 2003年1月，參加了6號到11號在[德里舉辦的](../Page/德里.md "wikilink")[印度電影節](../Page/印度電影節.md "wikilink")。在電影節的活動中，他舉行了一場個人表演，還參加了開幕式。
+  - 2003年春，根據的舞台劇改編的話劇《維克多，力量中的孩子》在[馬雅可夫斯基大劇院舉行首演](https://zh.wikipedia.org/wiki/馬雅可夫斯基 "wikilink")，出演了主角—一個九歲的男孩。
+  - 2003年1月，參加了6號到11號在[德里舉辦的](../Page/德里.md "wikilink")[印度電影節](https://zh.wikipedia.org/wiki/印度電影節 "wikilink")。在電影節的活動中，他舉行了一場個人表演，還參加了開幕式。
   - 2008年7月，於《百年圓夢——迎2008北京奧運會文藝晚會》，慶祝北京奧運倒數十天的晚會上演唱：。
   - 2012年7月，參與《北京祝福妳 奧運夢想盛典》
-  - 2013年5月10日，帶妻女在莫斯科一展覽中心遊玩時，在停車場與一女子發生車禍糾紛。因炎熱、身體不適而進車吹空調休息，女子將腳踏車靠在座車前，其座車接著壓壞女子腳踏車輪，女子聲稱她打開未關的車門後被其用[仿真手枪威脅](../Page/仿真手枪.md "wikilink")（目擊者表示是孩子的玩具槍）。10位警察按住的頭並將其壓制、反手銬住站了3個多小時，引來群眾圍觀拍攝。此事件頗為轟動，影片也在網路流傳。8月26日，俄羅斯[莫斯科](../Page/莫斯科.md "wikilink")[奥斯坦基諾區](../Page/奥斯坦基諾區.md "wikilink")[法院認定其](../Page/法院.md "wikilink")“[襲警](../Page/襲警.md "wikilink")”(試圖用腳踢警察)
-    罪名成立，其餘包括死亡威脅等官司皆因證據不足而作廢，對其處以10萬[盧布罰款](../Page/盧布.md "wikilink")。
+  - 2013年5月10日，帶妻女在莫斯科一展覽中心遊玩時，在停車場與一女子發生車禍糾紛。因炎熱、身體不適而進車吹空調休息，女子將腳踏車靠在座車前，其座車接著壓壞女子腳踏車輪，女子聲稱她打開未關的車門後被其用[仿真手枪威脅](https://zh.wikipedia.org/wiki/仿真手枪 "wikilink")（目擊者表示是孩子的玩具槍）。10位警察按住的頭並將其壓制、反手銬住站了3個多小時，引來群眾圍觀拍攝。此事件頗為轟動，影片也在網路流傳。8月26日，俄羅斯[莫斯科](../Page/莫斯科.md "wikilink")[奥斯坦基諾區](https://zh.wikipedia.org/wiki/奥斯坦基諾區 "wikilink")[法院認定其](https://zh.wikipedia.org/wiki/法院 "wikilink")“[襲警](https://zh.wikipedia.org/wiki/襲警 "wikilink")”(試圖用腳踢警察)
+    罪名成立，其餘包括死亡威脅等官司皆因證據不足而作廢，對其處以10萬[盧布罰款](https://zh.wikipedia.org/wiki/盧布 "wikilink")。
 
 ## 軼事
 
-初出道的時侯，Vitas衣着風格華麗、中性。演唱時，[樂團成員均會穿上](../Page/樂團.md "wikilink")[中世紀歌德式長袍](../Page/中世紀.md "wikilink")，且頭帶黑色面紗，舞臺風格另類。他甚至在一次演出中，一邊單手抓住[秋千懸掛在空中](../Page/秋千.md "wikilink")，一邊演唱。
+初出道的時侯，Vitas衣着風格華麗、中性。演唱時，[樂團成員均會穿上](https://zh.wikipedia.org/wiki/樂團 "wikilink")[中世紀歌德式長袍](https://zh.wikipedia.org/wiki/中世紀 "wikilink")，且頭帶黑色面紗，舞臺風格另類。他甚至在一次演出中，一邊單手抓住[秋千懸掛在空中](../Page/秋千.md "wikilink")，一邊演唱。
 
 2003年，Vitas的母親突然離世，自此風格大為改變，在兩張紀念母親的專輯《媽媽》和《我母親的歌》中，表現漸趨成熟、穩重，衣著造型亦改以[西裝為主](../Page/西裝.md "wikilink")。
 
 除了歌聲，Vitas俊秀臉孔、招牌眼神和微笑加上迷樣神秘感，被認為「如鬼魅一般」、「如受到詛咒般誘人」，更有「鬼魅王子」稱號。
 
-Vitas向來甚少接受訪問，據說是[經紀人普多夫金的指示](../Page/經紀人.md "wikilink")，以防公眾把焦點集中在其私生活而非音樂上。雖然Vitas甚少接觸媒體，但一些曾與他接觸的人指，他私底下非常健談和開朗，不[吸煙](../Page/吸煙.md "wikilink")，但愛喝一點[酒](../Page/酒.md "wikilink")。對於他是[閹伶的说法](../Page/閹伶.md "wikilink")，這些人都予以反對，因為Vitas日常的舉止、聲音均和尋常男性無異。
+Vitas向來甚少接受訪問，據說是[經紀人普多夫金的指示](https://zh.wikipedia.org/wiki/經紀人 "wikilink")，以防公眾把焦點集中在其私生活而非音樂上。雖然Vitas甚少接觸媒體，但一些曾與他接觸的人指，他私底下非常健談和開朗，不[吸煙](https://zh.wikipedia.org/wiki/吸煙 "wikilink")，但愛喝一點[酒](../Page/酒.md "wikilink")。對於他是[閹伶的说法](https://zh.wikipedia.org/wiki/閹伶 "wikilink")，這些人都予以反對，因為Vitas日常的舉止、聲音均和尋常男性無異。
 
-Vitas曾经透露自己是已故流行音樂之王[麥可·傑克森的](../Page/麥可·傑克森.md "wikilink")[粉絲](../Page/愛好者.md "wikilink")，故此在多數演唱會當中均會模仿其[太空步](../Page/太空步.md "wikilink")、高速轉圈等舞蹈\[2\]。
+Vitas曾经透露自己是已故流行音樂之王[麥可·傑克森的](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")[粉絲](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，故此在多數演唱會當中均會模仿其[太空步](https://zh.wikipedia.org/wiki/太空步 "wikilink")、高速轉圈等舞蹈\[2\]。
 
 ## 作品
 
@@ -73,15 +73,15 @@ Vitas曾经透露自己是已故流行音樂之王[麥可·傑克森的](../Page
 
   - 合輯
       - Vitas The Best
-        維塔斯首度訪台紀念專輯，2007年（[台灣發行](../Page/台灣.md "wikilink")）
+        維塔斯首度訪台紀念專輯，2007年（[台灣發行](https://zh.wikipedia.org/wiki/台灣 "wikilink")）
 
 ## 历程
 
   - （祖父阿爾卡吉·達維多維奇·瑪拉茨曼是Vitas最早的音乐启蒙人，在他的影响下，Vitas开始学习手风琴）。
 
-  - 1984年全家遷居[烏克蘭](../Page/烏克蘭.md "wikilink")，並在敖德薩的一個藝術學校學習手風琴，在那裡他一直呆到了遇見改變他命運的那個人——謝爾蓋·普達夫金，在看了他的業餘表演後，立刻被他的能力所折服，將他帶回了莫斯科，從那裡，他開始了自己神話般的音樂生涯。
+  - 1984年全家遷居[烏克蘭](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")，並在敖德薩的一個藝術學校學習手風琴，在那裡他一直呆到了遇見改變他命運的那個人——謝爾蓋·普達夫金，在看了他的業餘表演後，立刻被他的能力所折服，將他帶回了莫斯科，從那裡，他開始了自己神話般的音樂生涯。
 
-  - 2000年12月以其處男作歌曲首次在[俄羅斯的舞台上初試啼聲](../Page/俄羅斯.md "wikilink")，該演出震撼了當時所有的俄羅斯歌壇，從此一砲而紅，成為了他的成名曲。
+  - 2000年12月以其處男作歌曲首次在[俄羅斯的舞台上初試啼聲](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，該演出震撼了當時所有的俄羅斯歌壇，從此一砲而紅，成為了他的成名曲。
 
   - 於2001\~2004 年間，發行了五張專輯：「哲學的思考」、「微笑吧！」、「媽媽」、「我母親的歌」及「永恆的吻」。
     根據官方統計數據·其銷售量榮獲2001－2004年的最佳銷售前三名。
@@ -121,23 +121,23 @@ Vitas曾经透露自己是已故流行音樂之王[麥可·傑克森的](../Page
   - 他的專輯「永恆之吻」於2004年10月8日發行，在俄羅斯及獨聯體取得了空前的銷售量記錄：在不到六個月的時間內，超過二百萬張的銷售一空。
     所有的銷售量至目前為止總數已經超過一千萬張。
 
-  - 於2006年6月受[中國中央電視台之邀請](../Page/中國中央電視台.md "wikilink")，至北京參與了「俄羅斯年在中國」之盛會。在中國大陸中央電視台為「俄羅斯年在中國」所製作的特別節目單元中表演了二首歌曲：「星星」及「歌劇2」。
+  - 於2006年6月受[中國中央電視台之邀請](https://zh.wikipedia.org/wiki/中國中央電視台 "wikilink")，至北京參與了「俄羅斯年在中國」之盛會。在中國大陸中央電視台為「俄羅斯年在中國」所製作的特別節目單元中表演了二首歌曲：「星星」及「歌劇2」。
 
   - 之最新個人演唱會「－回家」於2007年3月在克里姆林宮舉行首演。 約20多首的新作品將於該演唱會中呈獻予觀眾。
     其中有一小部份新作如「鶴唳」、「俄羅斯岸边」、「我祈求諸聖」、「小王子」、「我呢喃著你的名字」等歌曲皆已先透過網路流傳而廣受歌迷們的喜愛。
 
-  - 於2007年6月15日至24日，在[台灣以及](../Page/台灣.md "wikilink")[中國大陸的](../Page/中國大陸.md "wikilink")[北京](../Page/北京.md "wikilink")、[上海](../Page/上海.md "wikilink")、[重慶](../Page/重慶.md "wikilink")、[成都](../Page/成都.md "wikilink")、[廣州舉辦了巡迴演唱會](../Page/廣州.md "wikilink")。
+  - 於2007年6月15日至24日，在[台灣以及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中國大陸的](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、[廣州舉辦了巡迴演唱會](https://zh.wikipedia.org/wiki/廣州 "wikilink")。
 
-  - 于2008年1月25日至2月2日，在臺灣的[台中](../Page/台中.md "wikilink")、[台南](../Page/台南.md "wikilink")、[高雄](../Page/高雄.md "wikilink")、[台北舉辦了](../Page/台北.md "wikilink")《Return
+  - 于2008年1月25日至2月2日，在臺灣的[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")、[台南](https://zh.wikipedia.org/wiki/台南 "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")、[台北舉辦了](https://zh.wikipedia.org/wiki/台北 "wikilink")《Return
     Home》巡迴演唱會。
 
-  - 于2008年5月21日至5月24日，在中華人民共和国的[北京](../Page/北京.md "wikilink")、[上海](../Page/上海.md "wikilink")、[深圳](../Page/深圳.md "wikilink")、[成都](../Page/成都.md "wikilink")、[廣州舉辦了](../Page/廣州.md "wikilink")《王者歸來》巡迴演唱會。
+  - 于2008年5月21日至5月24日，在中華人民共和国的[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、[廣州舉辦了](https://zh.wikipedia.org/wiki/廣州 "wikilink")《王者歸來》巡迴演唱會。
 
   - 在於2009年上映的電影《[花木蘭](../Page/花木蘭_\(2009年電影\).md "wikilink")》中擔任特別演出，飾演一名[柔然歌者](../Page/柔然.md "wikilink")。
 
-  - 於2011\~2012年電影《[一夜成名](../Page/一夜成名_\(2011年電影\).md "wikilink")》中與[黃聖依紅黑配演出](../Page/黃聖依.md "wikilink")。
+  - 於2011\~2012年電影《[一夜成名](https://zh.wikipedia.org/wiki/一夜成名_\(2011年電影\) "wikilink")》中與[黃聖依紅黑配演出](https://zh.wikipedia.org/wiki/黃聖依 "wikilink")。
 
-  - 參與在中華人民共和国貴州[2012皇后駕到的演出](../Page/2012皇后駕到.md "wikilink")
+  - 參與在中華人民共和国貴州[2012皇后駕到的演出](https://zh.wikipedia.org/wiki/2012皇后駕到 "wikilink")
 
   - 2014年春天, 參與了一整季的大型模仿秀 《Точь в точь》, 傑出地模仿了14位令人印象深刻的人物: Ю.Шатунова,
     Н.Гнатюка, Земфиры, С.Павлиашвили, В.Сюткина, А.Миронова, С.Шнурова,

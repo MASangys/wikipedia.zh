@@ -1,6 +1,6 @@
-**SMAP**是[日本活跃于](../Page/日本.md "wikilink")1988年至2016年期间的[偶像](../Page/日本偶像.md "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，隶属于[杰尼斯事务所](../Page/杰尼斯事务所.md "wikilink")，由[JVC建伍胜利娱乐株式会社发行其唱片](../Page/勝利娛樂.md "wikilink")。\[1\]\[2\]
+**SMAP**是[日本活跃于](../Page/日本.md "wikilink")1988年至2016年期间的[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，隶属于[杰尼斯事务所](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，由[JVC建伍胜利娱乐株式会社发行其唱片](../Page/勝利娛樂.md "wikilink")。\[1\]\[2\]
 在组合活动的28年期间内，得到了日本国民的喜爱，\[3\]\[4\] 并获得了“国民团体”的美誉。\[5\]\[6\]\[7\]
-2011年5月21日，获得时任[中华人民共和国国家](../Page/中华人民共和国.md "wikilink")[总理](../Page/总理.md "wikilink")[温家宝的接见](../Page/温家宝.md "wikilink")，成为中国领导人多年来首次单独会晤的日本艺人。\[8\]
+2011年5月21日，获得时任[中华人民共和国国家](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[总理](../Page/总理.md "wikilink")[温家宝的接见](../Page/温家宝.md "wikilink")，成为中国领导人多年来首次单独会晤的日本艺人。\[8\]
 2016年12月31日，组合正式解散。\[9\]\[10\]
 
 ## 组合成员
@@ -20,33 +20,33 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/中居正广.md" title="wikilink">中居正广</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/中居正广" title="wikilink">中居正广</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/神奈川县.md" title="wikilink">神奈川县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神奈川县" title="wikilink">神奈川县</a></p></td>
 <td><p>A型</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/木村拓哉.md" title="wikilink">木村拓哉</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/东京都.md" title="wikilink">东京都</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京都" title="wikilink">东京都</a></p></td>
 <td><p>O型</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/稲垣吾郎.md" title="wikilink">稲垣吾郎</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/稲垣吾郎" title="wikilink">稲垣吾郎</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/东京都.md" title="wikilink">东京都</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京都" title="wikilink">东京都</a></p></td>
 <td><p>O型</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/草彅刚.md" title="wikilink">草彅刚</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/草彅刚" title="wikilink">草彅刚</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/埼玉县.md" title="wikilink">埼玉县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埼玉县" title="wikilink">埼玉县</a></p></td>
 <td><p>A型</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/香取慎吾.md" title="wikilink">香取慎吾</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/神奈川县.md" title="wikilink">神奈川县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神奈川县" title="wikilink">神奈川县</a></p></td>
 <td><p>A型</p></td>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/森且行.md" title="wikilink">森且行</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/东京都.md" title="wikilink">东京都</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京都" title="wikilink">东京都</a></p></td>
 <td><p>B型</p></td>
 </tr>
 <tr class="even">
@@ -83,14 +83,14 @@
 
 ### 出道
 
-1988年4月，SMAP中的成员便已和其他[小杰尼斯结成了限定组合](../Page/小杰尼斯.md "wikilink")“[滑板男孩](../Page/滑板男孩.md "wikilink")”。\[12\]\[13\]
+1988年4月，SMAP中的成员便已和其他[小杰尼斯结成了限定组合](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")“[滑板男孩](https://zh.wikipedia.org/wiki/滑板男孩 "wikilink")”。\[12\]\[13\]
 
-结成限定组合时，[中居正广](../Page/中居正广.md "wikilink")15岁、[木村拓哉](../Page/木村拓哉.md "wikilink")15岁、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")14岁、[森且行](../Page/森且行.md "wikilink")14岁、[草彅刚](../Page/草彅刚.md "wikilink")13岁、[香取慎吾](../Page/香取慎吾.md "wikilink")11岁，成员平均年龄14岁。\[14\]
+结成限定组合时，[中居正广](https://zh.wikipedia.org/wiki/中居正广 "wikilink")15岁、[木村拓哉](../Page/木村拓哉.md "wikilink")15岁、[稲垣吾郎](https://zh.wikipedia.org/wiki/稲垣吾郎 "wikilink")14岁、[森且行](../Page/森且行.md "wikilink")14岁、[草彅刚](https://zh.wikipedia.org/wiki/草彅刚 "wikilink")13岁、[香取慎吾](../Page/香取慎吾.md "wikilink")11岁，成员平均年龄14岁。\[14\]
 从团队组成到最终[CD出道](../Page/CD.md "wikilink")，间隔了三年的时间。在此期间，他们出演了偶像节目、电视剧和舞台剧，以积累自己的人气。
 
-组合名是由事务所[总裁](../Page/总裁.md "wikilink")[喜多川擴所起](../Page/喜多川擴.md "wikilink")，取自“”的首字母。\[15\]\[16\]
+组合名是由事务所[总裁](../Page/总裁.md "wikilink")[喜多川擴所起](https://zh.wikipedia.org/wiki/喜多川擴 "wikilink")，取自“”的首字母。\[15\]\[16\]
 
-1991年1月1日，SMAP在[日本武道馆举办了组合成立之后的首场演唱会](../Page/日本武道馆.md "wikilink")。\[17\]\[18\]
+1991年1月1日，SMAP在[日本武道馆举办了组合成立之后的首场演唱会](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")。\[17\]\[18\]
 在CD出道前便已达到3万人的上座率。\[19\] 同年9月9日，SMAP的出道单曲《[Can't Stop\!\!
 -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")》发行。\[20\]\[21\]
 SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关闭，进入了所谓的“偶像冰河期”，因而SMAP开始转战综艺节目和电视剧。\[22\]
@@ -106,7 +106,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 1995年，担任[日本电视网台庆节目](../Page/日本電視網協議會.md "wikilink")《[24小時電視
 「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")》主持人。
 
-1996年，SMAP主持[富士电视网冠名节目](../Page/富士电视网.md "wikilink")《[SMAPXSMAP](../Page/SMAPXSMAP.md "wikilink")》开始播出，\[26\]\[27\]
+1996年，SMAP主持[富士电视网冠名节目](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》开始播出，\[26\]\[27\]
 并逐步活跃于影视剧、综艺节目和演唱会等诸多领域。同年5月，成员森且行为实现儿时赛车手的梦想，退出SMAP。同时森且行也退出了杰尼斯事务所和娱乐圈。\[28\]
 此后，SMAP以五人形态活跃了二十余年。
 
@@ -122,41 +122,41 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 2003年，《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》达到“双百万”销量。\[35\]
 它起初是作为由草彅刚主演的电视剧《》的主题曲，随着电视剧的播出而得到了极大关注，后制作成单曲发行而突破258万张销量。在第54届《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》中，SMAP因为演唱这首歌而成为该节目25年来第一次由流行歌手唱大轴。
 
-2005年，时隔两年之后，SMAP再度举办巡回演唱会。本次巡回演唱会于当年7月30日在[札幌巨蛋开始](../Page/札幌巨蛋.md "wikilink")，并首次在[国立霞丘陆上竞技场举办演唱会](../Page/国立霞丘陆上竞技场.md "wikilink")。\[36\]
-巡回演唱会开始之后，SMAP在同一时间发布了单曲《》和专辑《》，这两张唱片在发售当周就空降单曲榜和专辑榜首位。在三人以上组合里，同时拿下单曲榜和专辑榜首位的上一个记录还是12年前的[WANDS在](../Page/WANDS.md "wikilink")1993年所创造。12月19日，SMAP达成[Oricon史上第四组唱片总销量破](../Page/Oricon.md "wikilink")2000万的艺人。在2002年1月11日的《[SMAPXSMAP](../Page/SMAPXSMAP.md "wikilink")》“”环节里，日本宇航员[毛利卫和](../Page/毛利卫.md "wikilink")[野口聪一作为嘉宾参加](../Page/野口聪一.md "wikilink")。作为当日获胜者稲垣吾郎和香取慎吾所做的饭菜以及野口聪一所喜欢的草彅刚制作的[咖喱被野口聪一在](../Page/咖喱.md "wikilink")2005年7月26日随着美国航天飞机[发现号一统进入太空](../Page/发现号.md "wikilink")，同时《世界上唯一的花》还作为清晨唤醒曲在太空中奏响。在第56届《NHK红白歌合战》中，《世界上唯一的花》第二次作为大轴曲登场。
+2005年，时隔两年之后，SMAP再度举办巡回演唱会。本次巡回演唱会于当年7月30日在[札幌巨蛋开始](../Page/札幌巨蛋.md "wikilink")，并首次在[国立霞丘陆上竞技场举办演唱会](https://zh.wikipedia.org/wiki/国立霞丘陆上竞技场 "wikilink")。\[36\]
+巡回演唱会开始之后，SMAP在同一时间发布了单曲《》和专辑《》，这两张唱片在发售当周就空降单曲榜和专辑榜首位。在三人以上组合里，同时拿下单曲榜和专辑榜首位的上一个记录还是12年前的[WANDS在](../Page/WANDS.md "wikilink")1993年所创造。12月19日，SMAP达成[Oricon史上第四组唱片总销量破](../Page/Oricon.md "wikilink")2000万的艺人。在2002年1月11日的《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》“”环节里，日本宇航员[毛利卫和](https://zh.wikipedia.org/wiki/毛利卫 "wikilink")[野口聪一作为嘉宾参加](https://zh.wikipedia.org/wiki/野口聪一 "wikilink")。作为当日获胜者稲垣吾郎和香取慎吾所做的饭菜以及野口聪一所喜欢的草彅刚制作的[咖喱被野口聪一在](https://zh.wikipedia.org/wiki/咖喱 "wikilink")2005年7月26日随着美国航天飞机[发现号一统进入太空](https://zh.wikipedia.org/wiki/发现号 "wikilink")，同时《世界上唯一的花》还作为清晨唤醒曲在太空中奏响。在第56届《NHK红白歌合战》中，《世界上唯一的花》第二次作为大轴曲登场。
 
 2006年，“”举行。
 
 2007年1月18日，由日本文化厅和日本家长教师协会全国委员会主办的“亲子合唱日语歌曲100首（）”活动中，《世界上唯一的花》入选。
 
 2008年，SMAP于2005年发行的单曲《》入选日本高中音乐教材。\[37\]
-同年，SMAP连续六天在[东京巨蛋举办演唱会](../Page/东京巨蛋.md "wikilink")，创下当时记录。\[38\]
+同年，SMAP连续六天在[东京巨蛋举办演唱会](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")，创下当时记录。\[38\]
 
 ### 2010年代
 
 2010年9月，达成日本人演出上座率千万人次突破。\[39\]\[40\]
 同年，四度作为《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》大轴演出嘉宾出战。
 
-2011年9月，两度延后的SMAP海外演唱会在[北京上演](../Page/北京.md "wikilink")。\[41\]
+2011年9月，两度延后的SMAP海外演唱会在[北京上演](https://zh.wikipedia.org/wiki/北京 "wikilink")。\[41\]
 
-2013年3月15日，与[日本环球影城达成限时合作项目](../Page/日本环球影城.md "wikilink")“”启动，\[42\]
-影城娱乐设施背景音乐单曲《[Mistake\!/Battery](../Page/Mistake!/Battery.md "wikilink")》的原始版本和混音版本在2月27日发售。\[43\]
+2013年3月15日，与[日本环球影城达成限时合作项目](https://zh.wikipedia.org/wiki/日本环球影城 "wikilink")“”启动，\[42\]
+影城娱乐设施背景音乐单曲《[Mistake\!/Battery](https://zh.wikipedia.org/wiki/Mistake!/Battery "wikilink")》的原始版本和混音版本在2月27日发售。\[43\]
 2014年4月18日，被日本环球影城任命为首任形象大使。\[44\]
 
-2014年，SMAP出任[富士电视网台庆特别节目](../Page/富士电视网.md "wikilink")《》主持。\[45\]
+2014年，SMAP出任[富士电视网台庆特别节目](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")《》主持。\[45\]
 
 2016年9月9日，SMAP单曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》累积发行量300万。\[46\]\[47\]
-成为[日本唱片协会认定的](../Page/日本唱片协会.md "wikilink")“[三百万单曲](../Page/日本唱片協會#.E9.8A.B7.E9.87.8F.E8.AA.8D.E8.AD.89.md "wikilink")”。\[48\]\[49\]
+成为[日本唱片协会认定的](https://zh.wikipedia.org/wiki/日本唱片协会 "wikilink")“[三百万单曲](https://zh.wikipedia.org/wiki/日本唱片協會#.E9.8A.B7.E9.87.8F.E8.AA.8D.E8.AD.89 "wikilink")”。\[48\]\[49\]
 
 ### 解散
 
-2016年1月13日，有报道称，从一直支持并担任SMAP首席[经纪人的](../Page/经纪人.md "wikilink")[饭岛三智从](../Page/饭岛三智.md "wikilink")[杰尼斯事务所辞职后](../Page/杰尼斯事务所.md "wikilink")，除木村拓哉之外的中居正广、稲垣吾郎、草彅刚和香取慎吾也有跟随饭岛一同离开的意图。因此有关SMAP即将解散的消息被《體育日本》、《[日刊體育](../Page/日刊體育.md "wikilink")》等娱乐媒体广泛报道。\[50\]\[51\]
-随后，周刊、电视娱乐节目也纷纷加入到这场解散风波的连日报道中。在传闻出来后的第五天，也就是1月18日，在五人共同主持的综艺节目《[SMAPXSMAP](../Page/SMAPXSMAP.md "wikilink")》的直播中，五人就解散风波向粉丝及大众谢罪，并表示解散一事是可以避免的。\[52\]\[53\]
-解散风波后，杰尼斯事务所工作人员与业务相关机构就SMAP存续问题进行了深切讨论。同年8月14日凌晨，SMAP所属经纪公司杰尼斯事务所以[传真形式通知各大媒体](../Page/传真.md "wikilink")，宣布SMAP将于2016年12月31日正式解散。\[54\]
+2016年1月13日，有报道称，从一直支持并担任SMAP首席[经纪人的](https://zh.wikipedia.org/wiki/经纪人 "wikilink")[饭岛三智从](https://zh.wikipedia.org/wiki/饭岛三智 "wikilink")[杰尼斯事务所辞职后](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，除木村拓哉之外的中居正广、稲垣吾郎、草彅刚和香取慎吾也有跟随饭岛一同离开的意图。因此有关SMAP即将解散的消息被《體育日本》、《[日刊體育](../Page/日刊體育.md "wikilink")》等娱乐媒体广泛报道。\[50\]\[51\]
+随后，周刊、电视娱乐节目也纷纷加入到这场解散风波的连日报道中。在传闻出来后的第五天，也就是1月18日，在五人共同主持的综艺节目《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》的直播中，五人就解散风波向粉丝及大众谢罪，并表示解散一事是可以避免的。\[52\]\[53\]
+解散风波后，杰尼斯事务所工作人员与业务相关机构就SMAP存续问题进行了深切讨论。同年8月14日凌晨，SMAP所属经纪公司杰尼斯事务所以[传真形式通知各大媒体](https://zh.wikipedia.org/wiki/传真 "wikilink")，宣布SMAP将于2016年12月31日正式解散。\[54\]
 同时事务所还宣布，解散后的五名成员将以个体艺人的身份展开活动。\[55\]\[56\]
 
 2016年12月23日，杰尼斯事务所再度发布声明，表明SMAP不会出演今年的《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》。\[57\]\[58\]
-同年12月26日，在SMAP冠名节目《[SMAPXSMAP](../Page/SMAPXSMAP.md "wikilink")》的“最终回SP”上，SMAP在最后阶段演唱了《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》。\[59\]\[60\]
+同年12月26日，在SMAP冠名节目《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》的“最终回SP”上，SMAP在最后阶段演唱了《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》。\[59\]\[60\]
 
 ## 花边新闻
 
@@ -177,21 +177,21 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 ### 公信榜
 
-  - 单曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》、《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》、《》和《[SHAKE](../Page/SHAKE_\(SMAP单曲\).md "wikilink")》，以及精选专辑《》销量均已突破100万。
+  - 单曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》、《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》、《》和《[SHAKE](https://zh.wikipedia.org/wiki/SHAKE_\(SMAP单曲\) "wikilink")》，以及精选专辑《》销量均已突破100万。
 
 <!-- end list -->
 
   - 《[世界上唯一的花（单曲版本）](../Page/世界上唯一的花.md "wikilink")》于2016年获得300万销量认证。\[65\]\[66\]
-      - 21世纪，[单曲CD销量第一名](../Page/单曲CD.md "wikilink")；\[67\]
+      - 21世纪，[单曲CD销量第一名](https://zh.wikipedia.org/wiki/单曲CD "wikilink")；\[67\]
       - [Oricon公信榜](../Page/Oricon公信榜.md "wikilink")[历代单曲总销量榜第三名](../Page/日本最暢銷單曲列表.md "wikilink")；\[68\]
-      - 1980年代以来，[日本流行音乐类单曲CD销量第一名](../Page/日本流行音乐.md "wikilink")。\[69\]
+      - 1980年代以来，[日本流行音乐类单曲CD销量第一名](https://zh.wikipedia.org/wiki/日本流行音乐 "wikilink")。\[69\]
       - Oricon公信榜排名200名以内保持周数最长（100名以内以保持146周位居第四）。<ref>
 
 [【オリコン】SMAPに“300万枚”の花束
 「世界に一つだけの花」が騒動後40万枚増](https://www.oricon.co.jp/news/2082944/amp/),ORICONSTYLE
 2016年12月13日</ref>
 
-  - TOP10作品拥有数：55首（史上第二名，男子组史上第一名；总第一名为[早安少女组](../Page/早安少女组.md "wikilink")）。
+  - TOP10作品拥有数：55首（史上第二名，男子组史上第一名；总第一名为[早安少女组](https://zh.wikipedia.org/wiki/早安少女组 "wikilink")）。
       - 连续拥有TOP10作品数第一名。\[70\]
 
 <!-- end list -->
@@ -223,7 +223,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 2.  [夜空的彼岸](../Page/夜空的彼岸.md "wikilink")
 
 3.
-4.  [SHAKE](../Page/SHAKE_\(SMAP单曲\).md "wikilink")
+4.  [SHAKE](https://zh.wikipedia.org/wiki/SHAKE_\(SMAP单曲\) "wikilink")
 
 5.
 6.
@@ -237,14 +237,16 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 1.
 2.
-3.  [SMAP 25 YEARS](../Page/SMAP_25_YEARS.md "wikilink")
+3.  [SMAP 25
+    YEARS](https://zh.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")
 
 4.
 5.
 6.
 7.
 8.
-9.  [SMAP 016/MIJ](../Page/SMAP_016/MIJ.md "wikilink")
+9.  [SMAP
+    016/MIJ](https://zh.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")
 
 10.
 **DVD**
@@ -257,9 +259,10 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 6.
 7.
 8.
-9.  [THANKS FOR BEIJING\!\!](../Page/THANKS_FOR_BEIJING!!.md "wikilink")
+9.  [THANKS FOR
+    BEIJING\!\!](https://zh.wikipedia.org/wiki/THANKS_FOR_BEIJING!! "wikilink")
 
-10. [SMAP我会努力的！2010年10小时超完全版](../Page/SMAP☆我会努力的！.md "wikilink")
+10. [SMAP我会努力的！2010年10小时超完全版](https://zh.wikipedia.org/wiki/SMAP☆我会努力的！ "wikilink")
 
 ### 日本金唱片大奖
 
@@ -351,7 +354,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 <!-- end list -->
 
-  - 冠名节目《[SMAPXSMAP](../Page/SMAPXSMAP.md "wikilink")》2002年1月14日[收视率](../Page/收视率.md "wikilink")34.2%，位居[关东地区娱乐综艺节目类总收视排行第八名](../Page/關東地方.md "wikilink")。
+  - 冠名节目《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》2002年1月14日[收视率](../Page/收视率.md "wikilink")34.2%，位居[关东地区娱乐综艺节目类总收视排行第八名](../Page/關東地方.md "wikilink")。
 
 <!-- end list -->
 
@@ -365,13 +368,13 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 <!-- end list -->
 
-  - 2010年9月15日“”[东京巨蛋演唱会达成首次日本艺人演唱会上座人次破](../Page/东京巨蛋.md "wikilink")1000万记录。\[73\]
+  - 2010年9月15日“”[东京巨蛋演唱会达成首次日本艺人演唱会上座人次破](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")1000万记录。\[73\]
 
 ## 音乐作品
 
 ### 概要
 
-在SMAP的单曲作品中，1999年的《》为其最后的[8厘米CD载体单曲](../Page/8厘米CD.md "wikilink")，从2000年的《》其采用12厘米CD为载体。
+在SMAP的单曲作品中，1999年的《》为其最后的[8厘米CD载体单曲](https://zh.wikipedia.org/wiki/8厘米CD "wikilink")，从2000年的《》其采用12厘米CD为载体。
 
 ### 单曲
 
@@ -398,7 +401,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 <tr class="even">
 <td><p>2</p></td>
 <td><p>1991年<a href="../Page/12月6日.md" title="wikilink">12月6日</a></p></td>
-<td><p>''' <a href="../Page/正义使者是靠不住.md" title="wikilink">正义使者是靠不住</a> '''</p></td>
+<td><p>''' <a href="https://zh.wikipedia.org/wiki/正义使者是靠不住" title="wikilink">正义使者是靠不住</a> '''</p></td>
 <td><p>10位</p></td>
 <td><p>CD</p></td>
 <td><p>VIDL-10199</p></td>
@@ -413,7 +416,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>1992年<a href="../Page/7月8日.md" title="wikilink">7月8日</a></p></td>
+<td><p>1992年<a href="https://zh.wikipedia.org/wiki/7月8日" title="wikilink">7月8日</a></p></td>
 <td><p>''' <a href="../Page/不要放棄Baby!～Never_give_up.md" title="wikilink">不要放棄Baby!～Never give up</a> '''</p></td>
 <td><p>5位</p></td>
 <td><p>CD</p></td>
@@ -438,7 +441,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/3月3日.md" title="wikilink">3月3日</a></p></td>
-<td><p>''' <a href="../Page/永不忘記.md" title="wikilink">永不忘記</a> '''</p></td>
+<td><p>''' <a href="https://zh.wikipedia.org/wiki/永不忘記" title="wikilink">永不忘記</a> '''</p></td>
 <td><p>7位</p></td>
 <td><p>CD</p></td>
 <td><p>VIDL-10321</p></td>
@@ -557,7 +560,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p>1996年<a href="../Page/7月15日.md" title="wikilink">7月15日</a></p></td>
+<td><p>1996年<a href="https://zh.wikipedia.org/wiki/7月15日" title="wikilink">7月15日</a></p></td>
 <td><p>'''  '''</p></td>
 <td><p>1位</p></td>
 <td><p>CD</p></td>
@@ -566,7 +569,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>1996年<a href="../Page/11月18日.md" title="wikilink">11月18日</a></p></td>
-<td><p>''' <a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a> '''</p></td>
+<td><p>''' <a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a> '''</p></td>
 <td><p>1位</p></td>
 <td><p>CD</p></td>
 <td><p>VIDL-10820</p></td>
@@ -645,7 +648,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://zh.wikipedia.org/wiki/7月28日" title="wikilink">7月28日</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p>3位</p></td>
 <td><p>CD</p></td>
@@ -677,7 +680,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
-<td><p>2005年<a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
+<td><p>2005年<a href="https://zh.wikipedia.org/wiki/7月27日" title="wikilink">7月27日</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p>1位</p></td>
 <td><p>CD</p></td>
@@ -741,7 +744,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
-<td><p><a href="../Page/2010年.md" title="wikilink">2010年</a><a href="../Page/8月4日.md" title="wikilink">8月4日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/8月4日.md" title="wikilink">8月4日</a></p></td>
 <td><p>''' <a href="../Page/This_is_love.md" title="wikilink">This is love</a> '''</p></td>
 <td><p>1位</p></td>
 <td><p>CD（通常盘）<br />
@@ -788,13 +791,13 @@ SSS-002</p></td>
 <tr class="odd">
 <td><p>49</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/2月27日.md" title="wikilink">2月27日</a>　</p></td>
-<td><p><strong><a href="../Page/Mistake!/Battery.md" title="wikilink">Mistake!/Battery</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Mistake!/Battery" title="wikilink">Mistake!/Battery</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>CD（通常盘）<br />
 CD+DVD（初回盘A）<br />
 CD+DVD（初回盘B）<br />
 CD（初回盘C）<br />
-CD+DVD（<a href="../Page/日本环球影城.md" title="wikilink">日本环球影城限定盘</a>）</p></td>
+CD+DVD（<a href="https://zh.wikipedia.org/wiki/日本环球影城" title="wikilink">日本环球影城限定盘</a>）</p></td>
 <td><p>VICL-38011<br />
 VIZL-1066<br />
 VIZL-1077<br />
@@ -812,13 +815,13 @@ SUS-1</p></td>
 <tr class="odd">
 <td><p>51</p></td>
 <td><p>2013年<a href="../Page/12月18日.md" title="wikilink">12月18日</a></p></td>
-<td><p><strong><a href="../Page/时尚贵族/Hello.md" title="wikilink">时尚贵族/Hello</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/时尚贵族/Hello" title="wikilink">时尚贵族/Hello</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>CD（通常盘）<br />
 CD+写真集（通常盘・首次发行版）<br />
 CD+DVD（初回限定盘A）<br />
 CD+DVD（初回限定盘B）<br />
-CD+DVD（<a href="../Page/三丽鸥.md" title="wikilink">三丽鸥限定盘</a>）</p></td>
+CD+DVD（<a href="https://zh.wikipedia.org/wiki/三丽鸥" title="wikilink">三丽鸥限定盘</a>）</p></td>
 <td><p>VICL-38055<br />
 VIZL-1133<br />
 VIZL-1111<br />
@@ -828,7 +831,7 @@ SRS-1</p></td>
 <tr class="even">
 <td><p>52</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月9日.md" title="wikilink">4月9日</a></p></td>
-<td><p><strong><a href="../Page/Yes_we_are/从此开始.md" title="wikilink">Yes we are/从此开始</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Yes_we_are/从此开始" title="wikilink">Yes we are/从此开始</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>CD（通常盘）<br />
 CD+DVD（初回限定盘A）<br />
@@ -841,8 +844,8 @@ NZS-558</p></td>
 </tr>
 <tr class="odd">
 <td><p>53</p></td>
-<td><p>2014年<a href="../Page/7月16日.md" title="wikilink">7月16日</a></p></td>
-<td><p><strong><a href="../Page/Top_Of_The_World/Amazing_Discovery.md" title="wikilink">Top Of The World/Amazing Discovery</a></strong></p></td>
+<td><p>2014年<a href="https://zh.wikipedia.org/wiki/7月16日" title="wikilink">7月16日</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Top_Of_The_World/Amazing_Discovery" title="wikilink">Top Of The World/Amazing Discovery</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>CD（通常盘）<br />
 CD+DVD（初回盘A）<br />
@@ -905,7 +908,7 @@ VIZL-1255</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/7月28日.md" title="wikilink">7月28日</a> - 2002年<a href="../Page/11月3日.md" title="wikilink">11月3日</a></p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="https://zh.wikipedia.org/wiki/7月28日" title="wikilink">7月28日</a> - 2002年<a href="../Page/11月3日.md" title="wikilink">11月3日</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -920,7 +923,7 @@ VIZL-1255</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>2009年<a href="../Page/12月18日.md" title="wikilink">12月18日</a> - <a href="../Page/2010年.md" title="wikilink">2010年</a><a href="../Page/1月11日.md" title="wikilink">1月11日</a></p></td>
+<td><p>2009年<a href="../Page/12月18日.md" title="wikilink">12月18日</a> - <a href="https://zh.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/1月11日.md" title="wikilink">1月11日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -959,7 +962,8 @@ VIZL-1255</p></td>
 #### 其他单曲
 
   - **以“”的名义发表**
-      - 《[微笑战士 音乐忍者](../Page/微笑战士_音乐忍者.md "wikilink")》（1992年10月10日）
+      - 《[微笑战士
+        音乐忍者](https://zh.wikipedia.org/wiki/微笑战士_音乐忍者 "wikilink")》（1992年10月10日）
 
 <!-- end list -->
 
@@ -977,7 +981,8 @@ VIZL-1255</p></td>
 
   - **海外限定**
       - 《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》（2011年3月18日・中国）
-      - 《[你好 SMAP\!](../Page/We_are_SMAP.md "wikilink")》（2011年7月5日・中国）
+      - 《[你好
+        SMAP\!](https://zh.wikipedia.org/wiki/We_are_SMAP "wikilink")》（2011年7月5日・中国）
       - 《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》（2011年・中国）
 
 <!-- end list -->
@@ -1104,7 +1109,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2003年6月25日</p></td>
-<td><p>''' <a href="../Page/SMAP_016/MIJ.md" title="wikilink">SMAP 016/MIJ</a> '''</p></td>
+<td><p>''' <a href="https://zh.wikipedia.org/wiki/SMAP_016/MIJ" title="wikilink">SMAP 016/MIJ</a> '''</p></td>
 <td><p>1位</p></td>
 <td><p>2CD</p></td>
 </tr>
@@ -1160,14 +1165,14 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 #### 精选辑
 
-|   | 发行日期        | 专辑名                                                         | 周间排名 | 售卖版本 | 备注             |
-| - | ----------- | ----------------------------------------------------------- | ---- | ---- | -------------- |
-| 1 | 1995年1月1日   | ****                                                        | 1位   | CD   | 精选歌曲有重新制作      |
-| 2 | 1997年3月26日  | '''  '''                                                    | 2位   | 2CD  | 重新制作并包括限定歌曲    |
-| 3 | 2001年3月23日  | '''  '''                                                    | 1位   | 2CD  | 10年所发行单曲主打歌精选  |
-| 4 | 2001年8月8日   | '''  '''                                                    | 1位   | CD   | 10年所发行单曲非主打歌精选 |
-| 5 | 2011年8月17日  | '''  '''                                                    | 1位   | CD   | 成立20年由歌迷票选歌曲精选 |
-| 6 | 2016年12月21日 | '''[SMAP 25 YEARS](../Page/SMAP_25_YEARS.md "wikilink") ''' | 1位   | 3CD  | 25周年纪念精选辑      |
+|   | 发行日期        | 专辑名                                                                            | 周间排名 | 售卖版本 | 备注             |
+| - | ----------- | ------------------------------------------------------------------------------ | ---- | ---- | -------------- |
+| 1 | 1995年1月1日   | ****                                                                           | 1位   | CD   | 精选歌曲有重新制作      |
+| 2 | 1997年3月26日  | '''  '''                                                                       | 2位   | 2CD  | 重新制作并包括限定歌曲    |
+| 3 | 2001年3月23日  | '''  '''                                                                       | 1位   | 2CD  | 10年所发行单曲主打歌精选  |
+| 4 | 2001年8月8日   | '''  '''                                                                       | 1位   | CD   | 10年所发行单曲非主打歌精选 |
+| 5 | 2011年8月17日  | '''  '''                                                                       | 1位   | CD   | 成立20年由歌迷票选歌曲精选 |
+| 6 | 2016年12月21日 | '''[SMAP 25 YEARS](https://zh.wikipedia.org/wiki/SMAP_25_YEARS "wikilink") ''' | 1位   | 3CD  | 25周年纪念精选辑      |
 
 #### 其他
 
@@ -1338,7 +1343,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 <td><p>20</p></td>
 <td><p>-</p></td>
 <td><p>2016年12月28日</p></td>
-<td><p><a href="../Page/Clip!_Smap!_票选单曲完整收录.md" title="wikilink">Clip! Smap! 票选单曲完整收录</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Clip!_Smap!_票选单曲完整收录" title="wikilink">Clip! Smap! 票选单曲完整收录</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1402,7 +1407,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2002年8月23日</p></td>
-<td><p>《<a href="../Page/世界奇妙物语_(电影).md" title="wikilink">世界奇妙物语SMAP篇</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/世界奇妙物语_(电影)" title="wikilink">世界奇妙物语SMAP篇</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1414,8 +1419,8 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 <tr class="even">
 <td><p>8</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/2010年.md" title="wikilink">2010年</a><a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
-<td><p>《<a href="../Page/SMAP☆我会努力的！.md" title="wikilink">SMAP我会努力的！2010年10小时超完全版</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/SMAP☆我会努力的！" title="wikilink">SMAP我会努力的！2010年10小时超完全版</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -1453,15 +1458,15 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 #### 常规节目
 
-  - （1988年，[富士电视台](../Page/富士电视台.md "wikilink")）——SMAP出演的首个电视节目
+  - （1988年，[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")）——SMAP出演的首个电视节目
 
-  - （1989年，[东京电视台](../Page/东京电视台.md "wikilink")）
+  - （1989年，[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")）
 
-  - （1989年-1991年，[朝日电视台](../Page/朝日电视台.md "wikilink")）
+  - （1989年-1991年，[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
 
   - （1989年-1990年，东京电视台）
 
-  - （1990年，[日本电视台](../Page/日本电视台.md "wikilink")）
+  - （1990年，[日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")）
 
   - （1990年，东京电视台）
 
@@ -1475,29 +1480,30 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
   - （1993年-1996年，[朝日放送电视台](../Page/朝日放送.md "wikilink")）
 
-  - （1993年-1997年，[NHK BS2](../Page/NHK_BS2.md "wikilink")）
+  - （1993年-1997年，[NHK
+    BS2](https://zh.wikipedia.org/wiki/NHK_BS2 "wikilink")）
 
   - （1994年-1996年，日本电视台）
 
-  - [努力吧！SMAP](../Page/努力吧！SMAP.md "wikilink")（1995年，富士电视台）
+  - [努力吧！SMAP](https://zh.wikipedia.org/wiki/努力吧！SMAP "wikilink")（1995年，富士电视台）
 
   - （1996年，富士电视台）——主持的体育节目
 
   - （2007年-2016年，富士电视台）
 
-  - [SMAPXSMAP](../Page/SMAPXSMAP.md "wikilink")（1996年-2016年，[关西电视台](../Page/关西电视台.md "wikilink")、富士电视台）
+  - [SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")（1996年-2016年，[关西电视台](https://zh.wikipedia.org/wiki/关西电视台 "wikilink")、富士电视台）
 
 #### 特别节目
 
-  - （1990年-1995年、1997年-1999年，[富士电视台](../Page/富士电视台.md "wikilink")）
+  - （1990年-1995年、1997年-1999年，[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")）
 
 <!-- end list -->
 
-  - （1991年10月2日、1991年12月25日，[朝日电视台](../Page/朝日电视台.md "wikilink")）
+  - （1991年10月2日、1991年12月25日，[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
 
 <!-- end list -->
 
-  - [NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")（1991年-2015年，[NHK](../Page/NHK.md "wikilink")）
+  - [NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")（1991年-2015年，[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
       - 2003年、2005年、2010年-2013年五次大轴演出。2001年和2004年辞演。在2016年传出SMAP解散的消息之后，直至最后一刻，NHK也在于杰尼斯事务所沟通，希望能将NHK红白歌合战作为SMAP的最后出演舞台。\[74\]
         但是该提议遭到了事务所的拒绝，并表示这是事务所的最终决定，也是SMAP所有成员的最终考虑结果。\[75\]
         NHK最终表示接受“SMAP成员的最终意愿”，\[76\]
@@ -1517,24 +1523,24 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <!-- end list -->
 
-  - [FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")（1995年-2001年、2003年、2005年-2015年，富士电视台）
+  - [FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wikilink")（1995年-2001年、2003年、2005年-2015年，富士电视台）
       - 2003年负责大轴演出。自2005年以来，除2011年、2014年和2015年只负责大轴演出之外，每年都是既负责开场演出又要负责大轴演出。
 
 <!-- end list -->
 
-  - （1995年-2015年，[日本电视台](../Page/日本电视台.md "wikilink")）
+  - （1995年-2015年，[日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")）
 
       - 每年播出一次，限定圣诞节期间。1995年播出第一期的时候，[森且行也出演了](../Page/森且行.md "wikilink")。
 
 <!-- end list -->
 
-  - [24小时电视「爱心救地球」](../Page/24小时电视「爱心救地球」.md "wikilink")（1995年，[日本电视网](../Page/日本電視網協議會.md "wikilink")）
+  - [24小时电视「爱心救地球」](https://zh.wikipedia.org/wiki/24小时电视「爱心救地球」 "wikilink")（1995年，[日本电视网](../Page/日本電視網協議會.md "wikilink")）
       - 1995年，[久本雅美和SMAP全员出任该节目主持人](../Page/久本雅美.md "wikilink")。
 
 <!-- end list -->
 
-  - SMAP・[TOKIO](../Page/TOKIO.md "wikilink")・[KinKi
-    Kids最初和最后的聚集SP](../Page/KinKi_Kids.md "wikilink")（1995年10月8日，日本电视台）
+  - SMAP・[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")・[KinKi
+    Kids最初和最后的聚集SP](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（1995年10月8日，日本电视台）
 
 <!-- end list -->
 
@@ -1544,7 +1550,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
   - （1996年，富士电视台）
 
-      - 以[SMAPXSMAP节目组身份参加](../Page/SMAPXSMAP.md "wikilink")。
+      - 以[SMAPXSMAP节目组身份参加](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")。
 
 <!-- end list -->
 
@@ -1556,7 +1562,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <!-- end list -->
 
-  - （1996年、1998年-2000年、2004年、2006年、2007年、2011年-2015年、[富士电视网](../Page/富士电视网.md "wikilink")）（此处特指SMAP全员参加的次数）
+  - （1996年、1998年-2000年、2004年、2006年、2007年、2011年-2015年、[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）（此处特指SMAP全员参加的次数）
 
       - 2014年的由SMAP全员出任主持。
 
@@ -1578,7 +1584,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <!-- end list -->
 
-  - [SMAP加油！！](../Page/SMAP加油！！.md "wikilink")(2009年-2013年，朝日电视台）
+  - [SMAP加油！！](https://zh.wikipedia.org/wiki/SMAP加油！！ "wikilink")(2009年-2013年，朝日电视台）
 
 <!-- end list -->
 
@@ -1587,7 +1593,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 <!-- end list -->
 
   - [CDTV特别节目
-    除夕夜首映直播](../Page/COUNT_DOWN_TV.md "wikilink")（2010年末-，[TBS电视台](../Page/TBS电视台.md "wikilink")
+    除夕夜首映直播](../Page/COUNT_DOWN_TV.md "wikilink")（2010年末-，[TBS电视台](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")
     ）
 
 <!-- end list -->
@@ -1600,8 +1606,8 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <!-- end list -->
 
-  - （2012年-，[NHK综合频道](../Page/NHK综合频道.md "wikilink")、[NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")）\[77\]）
+  - （2012年-，[NHK综合频道](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")、[NHK
+    BS Premium](../Page/NHK_BS_Premium.md "wikilink")）\[77\]）
 
 <!-- end list -->
 
@@ -1620,11 +1626,11 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 <!-- end list -->
 
   - [BEST
-    HIT歌谣祭](../Page/BEST_HIT歌谣祭.md "wikilink")（2013年，[读卖电视台](../Page/读卖电视台.md "wikilink")、日本电视台）
+    HIT歌谣祭](https://zh.wikipedia.org/wiki/BEST_HIT歌谣祭 "wikilink")（2013年，[读卖电视台](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")、日本电视台）
 
 <!-- end list -->
 
-  - 开台50周年纪念特别企划“50年的矇眬图像大公开！”（2014年3月2日，[东京电视台](../Page/东京电视台.md "wikilink")）
+  - 开台50周年纪念特别企划“50年的矇眬图像大公开！”（2014年3月2日，[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")）
       - SMAP在东京电视台的节目历史其实只有18年。
 
 <!-- end list -->
@@ -1636,11 +1642,11 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
   - 70周年特别应援企划 特别主持人\[78\]
 
       - NHK骄傲歌喉
-        [神奈川县](../Page/神奈川县.md "wikilink")[秦野市](../Page/秦野市.md "wikilink")（2015年8月30日，NHK）
+        [神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")[秦野市](../Page/秦野市.md "wikilink")（2015年8月30日，NHK）
       - SMAP企划NHK骄傲歌喉 in
-        [山田町](../Page/山田町.md "wikilink")（2015年9月26日，NHK）
+        [山田町](https://zh.wikipedia.org/wiki/山田町 "wikilink")（2015年9月26日，NHK）
       - NHK骄傲歌喉
-        [千叶县](../Page/千叶县.md "wikilink")[柏市](../Page/柏市.md "wikilink")（2015年12月6日，NHK）
+        [千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[柏市](../Page/柏市.md "wikilink")（2015年12月6日，NHK）
       - NHK骄傲歌喉冠军大赛2016（2016年1月11日，NHK）
 
 ### NHK红白歌合战
@@ -1670,7 +1676,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>_-LOVING-|Can't Stop</p></td>
 <td><p>-LOVING-]]</p></td>
 <td><p>2/28</p></td>
-<td><p><a href="../Page/工藤静香.md" title="wikilink">工藤静香</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/工藤静香" title="wikilink">工藤静香</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
@@ -1696,7 +1702,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>1994年</p></td>
 <td><p>第45回</p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/应该没问题.md" title="wikilink">应该没问题</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/应该没问题" title="wikilink">应该没问题</a></p></td>
 <td><p>6/25</p></td>
 <td><p>森口博子（二度交手）</p></td>
 <td></td>
@@ -1717,9 +1723,9 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>1996年</p></td>
 <td><p>第47回</p></td>
 <td><p>6</p></td>
-<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
 <td><p>11/25</p></td>
-<td><p><a href="../Page/安室奈美恵.md" title="wikilink">安室奈美恵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1730,7 +1736,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>Dynamite芹菜！<br />
 →</p></td>
 <td><p>11/25</p></td>
-<td><p><a href="../Page/华原朋美.md" title="wikilink">华原朋美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/华原朋美" title="wikilink">华原朋美</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1740,7 +1746,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>8</p></td>
 <td><p><a href="../Page/夜空的彼岸.md" title="wikilink">夜空的彼岸</a></p></td>
 <td><p>23/25</p></td>
-<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a></p></td>
 <td></td>
 <td><p>5位</p></td>
 </tr>
@@ -1771,7 +1777,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>freebird '02<br />
 夜空的彼岸（二度演出）→</p></td>
 <td><p>22/27</p></td>
-<td><p><a href="../Page/中岛美嘉.md" title="wikilink">中岛美嘉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中岛美嘉" title="wikilink">中岛美嘉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1832,7 +1838,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>17</p></td>
 <td><p>～世界上唯一的花（二度演出）</p></td>
 <td><p>24/25</p></td>
-<td><p><a href="../Page/绚香.md" title="wikilink">绚香</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/绚香" title="wikilink">绚香</a></p></td>
 <td><p>压轴（2）</p></td>
 <td><p>2位</p></td>
 </tr>
@@ -1863,9 +1869,9 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>第63回|第63回</p></td>
 <td><p>20</p></td>
 <td><p>SMAP 2012'SP<br />
-<a href="../Page/Moment_(SMAP单曲).md" title="wikilink">Moment</a>→<a href="../Page/顛倒的天空.md" title="wikilink">顛倒的天空</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Moment_(SMAP单曲)" title="wikilink">Moment</a>→<a href="../Page/顛倒的天空.md" title="wikilink">顛倒的天空</a></p></td>
 <td><p>25/25</p></td>
-<td><p><a href="../Page/生物股长.md" title="wikilink">生物股长</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生物股长" title="wikilink">生物股长</a></p></td>
 <td><p><strong>大轴（5）</strong></p></td>
 <td><p>1位</p></td>
 </tr>
@@ -1875,7 +1881,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>21</p></td>
 <td><p>Joymap</p></td>
 <td><p><br />
-<a href="../Page/Mistake!/Battery.md" title="wikilink">Mistake!</a>→[[Joy</p></td>
+<a href="https://zh.wikipedia.org/wiki/Mistake!/Battery" title="wikilink">Mistake!</a>→[[Joy</p></td>
 <td><p>|Joy</p></td>
 <td><p>]]</p></td>
 <td><p>25/26</p></td>
@@ -1885,7 +1891,7 @@ SMAP早在1988年和1999年就以光GENJI的伴舞身份参加了《NHK红白歌
 <td><p>第65回|第65回</p></td>
 <td><p>22</p></td>
 <td><p>大家一起唱！SMAP混合曲<br />
-SHAKE（二度演出）→世界上唯一的花（三度演出）→<a href="../Page/Top_Of_The_World/Amazing_Discovery.md" title="wikilink">Top Of The World</a></p></td>
+SHAKE（二度演出）→世界上唯一的花（三度演出）→<a href="https://zh.wikipedia.org/wiki/Top_Of_The_World/Amazing_Discovery" title="wikilink">Top Of The World</a></p></td>
 <td><p>19/24</p></td>
 <td><p><a href="../Page/椎名林檎.md" title="wikilink">椎名林檎</a></p></td>
 <td></td>
@@ -1898,7 +1904,7 @@ SHAKE（二度演出）→世界上唯一的花（三度演出）→<a href="../
 <td><p>This is SMAP 混音版<br />
 Triangle（三度演出）→</p></td>
 <td><p>24/26</p></td>
-<td><p><a href="../Page/今井美树.md" title="wikilink">今井美树</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今井美树" title="wikilink">今井美树</a></p></td>
 <td></td>
 <td><p>7位</p></td>
 </tr>
@@ -1913,7 +1919,7 @@ Triangle（三度演出）→</p></td>
 
 ### FNS歌谣祭
 
-SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富士电视网](../Page/富士电视网.md "wikilink")）是在1991年，除2002年\[79\]
+SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wikilink")”（[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）是在1991年，除2002年\[79\]
 和2004年\[80\] 之外，SMAP均参演。2016年宣布解散之后，相继以无新曲发布而辞演各音乐节目。故，SMAP最后一次参演为2015年。
 
 1991年至1998年的演出资料欠奉，1999年以后资料见下表：
@@ -2060,7 +2066,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="odd">
 <td><p><a href="../Page/世界上唯一的花.md" title="wikilink">世界上唯一的花</a></p></td>
 <td><p>46/46</p></td>
-<td><p>SMAP××<a href="../Page/宫本笑里.md" title="wikilink">宫本笑里</a></p></td>
+<td><p>SMAP××<a href="https://zh.wikipedia.org/wiki/宫本笑里" title="wikilink">宫本笑里</a></p></td>
 <td><p>大轴演出（6）</p></td>
 <td></td>
 <td></td>
@@ -2072,7 +2078,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>18</p></td>
 <td><p><a href="../Page/This_is_love.md" title="wikilink">This is love</a></p></td>
 <td><p>1/74</p></td>
-<td><p>SMAP×(<a href="../Page/LOVE_PSYCHEDELICO.md" title="wikilink">LOVE PSYCHEDELICO</a>）</p></td>
+<td><p>SMAP×(<a href="https://zh.wikipedia.org/wiki/LOVE_PSYCHEDELICO" title="wikilink">LOVE PSYCHEDELICO</a>）</p></td>
 <td><p>开场演出（6）</p></td>
 </tr>
 <tr class="odd">
@@ -2133,7 +2139,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>2012年</p></td>
 <td><p>第41回</p></td>
 <td><p>20</p></td>
-<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
 <td><p>1/79</p></td>
 <td></td>
 <td><p>开场演出（7）</p></td>
@@ -2151,7 +2157,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>2013年</p></td>
 <td><p>第42回</p></td>
 <td><p>21</p></td>
-<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
 <td><p>1/76</p></td>
 <td></td>
 <td><p>开场演出（8）</p></td>
@@ -2166,9 +2172,9 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/樱木町/模拟宽度/梦的地图.md" title="wikilink">樱木町</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樱木町/模拟宽度/梦的地图" title="wikilink">樱木町</a></p></td>
 <td><p>32/76</p></td>
-<td><p>香取慎吾×<a href="../Page/柚子_(音乐组合).md" title="wikilink">柚子</a></p></td>
+<td><p>香取慎吾×<a href="https://zh.wikipedia.org/wiki/柚子_(音乐组合)" title="wikilink">柚子</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2202,7 +2208,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/时尚贵族/Hello.md" title="wikilink">时尚贵族</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/时尚贵族/Hello" title="wikilink">时尚贵族</a></p></td>
 <td><p>76/76</p></td>
 <td></td>
 <td><p>大轴演出（9）</p></td>
@@ -2214,7 +2220,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>2014年</p></td>
 <td><p>第43回</p></td>
 <td><p>22</p></td>
-<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
 <td><p>50/105</p></td>
 <td></td>
 <td></td>
@@ -2222,14 +2228,14 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="odd">
 <td></td>
 <td><p>54/105</p></td>
-<td><p><a href="../Page/近藤真彦.md" title="wikilink">近藤真彦</a>×SMAP×<a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a></p></td>
+<td><p><a href="../Page/近藤真彦.md" title="wikilink">近藤真彦</a>×SMAP×<a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Top_Of_The_World/Amazing_Discovery.md" title="wikilink">Amazing Discovery</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Top_Of_The_World/Amazing_Discovery" title="wikilink">Amazing Discovery</a></p></td>
 <td><p>105/105</p></td>
 <td></td>
 <td><p>大轴演出（10）</p></td>
@@ -2250,7 +2256,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="even">
 <td></td>
 <td><p>79/79</p></td>
-<td><p>SMAP×<a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a></p></td>
+<td><p>SMAP×<a href="https://zh.wikipedia.org/wiki/MIYAVI" title="wikilink">MIYAVI</a></p></td>
 <td><p>大轴演出（11）</p></td>
 <td></td>
 <td></td>
@@ -2270,7 +2276,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 #### FNS夏日歌谣祭
 
-（[富士电视网](../Page/富士电视网.md "wikilink")）是同电视网节目[FNS歌谣祭的衍生节目](../Page/FNS歌谣祭.md "wikilink")。自2012年开播以来，截止2015年，SMAP从未缺席。
+（[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）是同电视网节目[FNS歌谣祭的衍生节目](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wikilink")。自2012年开播以来，截止2015年，SMAP从未缺席。
 
 <table>
 <thead>
@@ -2289,7 +2295,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>2012年</p></td>
 <td><p>第1回</p></td>
 <td><p>初</p></td>
-<td><p><a href="../Page/Moment_(SMAP单曲).md" title="wikilink">Moment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Moment_(SMAP单曲)" title="wikilink">Moment</a></p></td>
 <td><p>1/84</p></td>
 <td></td>
 <td><p>开场演出</p></td>
@@ -2307,7 +2313,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>2013年</p></td>
 <td><p>第2回</p></td>
 <td><p>2</p></td>
-<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
 <td><p>1/82</p></td>
 <td></td>
 <td><p>开场演出（2）</p></td>
@@ -2315,7 +2321,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="even">
 <td><p><a href="../Page/昂首向前走.md" title="wikilink">昂首向前走</a></p></td>
 <td><p>10/82</p></td>
-<td><p>香取慎吾×<a href="../Page/阳光直人.md" title="wikilink">阳光直人</a></p></td>
+<td><p>香取慎吾×<a href="https://zh.wikipedia.org/wiki/阳光直人" title="wikilink">阳光直人</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2333,7 +2339,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="even">
 <td></td>
 <td><p>74/82</p></td>
-<td><p>木村拓哉×<a href="../Page/齐藤和义.md" title="wikilink">齐藤和义</a></p></td>
+<td><p>木村拓哉×<a href="https://zh.wikipedia.org/wiki/齐藤和义" title="wikilink">齐藤和义</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2352,7 +2358,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>2014年</p></td>
 <td><p>第3回</p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/SHAKE_(SMAP单曲).md" title="wikilink">SHAKE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHAKE_(SMAP单曲)" title="wikilink">SHAKE</a></p></td>
 <td><p>1/74</p></td>
 <td></td>
 <td><p>开场演出（3）</p></td>
@@ -2367,7 +2373,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Top_Of_The_World/Amazing_Discovery.md" title="wikilink">Top Of The World</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Top_Of_The_World/Amazing_Discovery" title="wikilink">Top Of The World</a></p></td>
 <td><p>74/74</p></td>
 <td></td>
 <td><p>大轴演出（3）</p></td>
@@ -2407,7 +2413,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 ### 电视剧
 
-  - （1988年10月12日-1989年3月29日，[东京电视台](../Page/东京电视台.md "wikilink")）
+  - （1988年10月12日-1989年3月29日，[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")）
 
       - SMAP的电视剧处女作，全体成员在剧中饰演本尊。
 
@@ -2417,15 +2423,15 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - (1997年1月3日放送，[富士电视台](../Page/富士电视台.md "wikilink")）
+  - (1997年1月3日放送，[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")）
 
-      - [尾崎丰演唱主题曲](../Page/尾崎丰.md "wikilink")。由SMAP五人主演的单回目电视剧特别番。
+      - [尾崎丰演唱主题曲](https://zh.wikipedia.org/wiki/尾崎丰 "wikilink")。由SMAP五人主演的单回目电视剧特别番。
 
 <!-- end list -->
 
   - [古畑任三郎特别番](../Page/古畑任三郎.md "wikilink")“古畑任三郎 vs
-    SMAP”（1999年1月3日播出，[富士电视网](../Page/富士电视网.md "wikilink")）
-      - SMAP成员五人悉数出演。是《[古畑任三郎](../Page/古畑任三郎.md "wikilink")》播出史上首度由演员在剧集中本名出演。（2006年1月播出的“古畑任三郎FINAL”第二夜中，[铃木一郎也在剧集中本名演出](../Page/铃木一郎.md "wikilink")，打破了SMAP保持的唯一记录。）
+    SMAP”（1999年1月3日播出，[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）
+      - SMAP成员五人悉数出演。是《[古畑任三郎](../Page/古畑任三郎.md "wikilink")》播出史上首度由演员在剧集中本名出演。（2006年1月播出的“古畑任三郎FINAL”第二夜中，[铃木一郎也在剧集中本名演出](https://zh.wikipedia.org/wiki/铃木一郎 "wikilink")，打破了SMAP保持的唯一记录。）
       - 2006年10月9日作为《》第一集播出，重播收视率高达22.7%。
 
 <!-- end list -->
@@ -2443,9 +2449,9 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - （2010年7月1日播出，[朝日电视台](../Page/朝日电视台.md "wikilink")）
+  - （2010年7月1日播出，[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
 
-      - 本剧是作为[SMAP加油！！的内部企划而秘密制作](../Page/SMAP加油！！.md "wikilink")。该剧的拍摄并没有告诉身为主演的SMAP，一切都是在秘密拍摄中。日后该种剧集被称之为“剧”。
+      - 本剧是作为[SMAP加油！！的内部企划而秘密制作](https://zh.wikipedia.org/wiki/SMAP加油！！ "wikilink")。该剧的拍摄并没有告诉身为主演的SMAP，一切都是在秘密拍摄中。日后该种剧集被称之为“剧”。
 
 <!-- end list -->
 
@@ -2459,7 +2465,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 ### 电台节目
 
-  - POP・SMAP（1989年4月-，[TBS广播](../Page/TBS广播.md "wikilink")）——1990年10月12日扩大为30分钟节目。
+  - POP・SMAP（1989年4月-，[TBS广播](https://zh.wikipedia.org/wiki/TBS广播 "wikilink")）——1990年10月12日扩大为30分钟节目。
 
   - Hi\!SMAP（1989年4月-，[文化放送](../Page/文化放送_\(日本\).md "wikilink")）——属于“的偶像共和国”的内部环节。
 
@@ -2472,7 +2478,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
   - 紧急出动SMAP（1993年-，TBS广播）
 
-  - SMAP的天气预报（1994年-，[FM东京](../Page/FM东京.md "wikilink")）
+  - SMAP的天气预报（1994年-，[FM东京](https://zh.wikipedia.org/wiki/FM东京 "wikilink")）
 
   - （1996年-2016年12月30日，\[81\] FM东京）
 
@@ -2488,14 +2494,14 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - [松下电器](../Page/松下电器.md "wikilink")
+  - [松下电器](https://zh.wikipedia.org/wiki/松下电器 "wikilink")
       - 家用传真电话机（1991年，1992年）
       - 苏拉文字处理机（1992年）
       - 家用电话机（1993年）
 
 <!-- end list -->
 
-  - [乐天集团](../Page/乐天集团.md "wikilink")
+  - [乐天集团](https://zh.wikipedia.org/wiki/乐天集团 "wikilink")
       - 意大利风情（冰淇淋）（1992年）
       - 巧克力系列（1992年）
       - 休闲度假屋（1992年）
@@ -2508,7 +2514,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - [日本电信电话](../Page/日本电信电话.md "wikilink")，
+  - [日本电信电话](https://zh.wikipedia.org/wiki/日本电信电话 "wikilink")，
       - 日本电信电话株式会社 公司形象广告
 
       - 东日本电信电话株式会社 公司形象广告
@@ -2523,7 +2529,8 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - [日本电视台](../Page/日本电视台.md "wikilink") 职棒剧空间（1996年，1997年）
+  - [日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")
+    职棒剧空间（1996年，1997年）
 
 <!-- end list -->
 
@@ -2537,7 +2544,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - [全日空航空](../Page/全日空航空.md "wikilink")（2001年-2003年）
+  - [全日空航空](https://zh.wikipedia.org/wiki/全日空航空 "wikilink")（2001年-2003年）
 
 <!-- end list -->
 
@@ -2554,17 +2561,18 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - [大塚制药](../Page/大塚制药.md "wikilink")
+  - [大塚制药](https://zh.wikipedia.org/wiki/大塚制药 "wikilink")
     [寶礦力水特](../Page/寶礦力水特.md "wikilink")（2007年，2008年）
 
 <!-- end list -->
 
-  - [軟銀](../Page/軟銀.md "wikilink")
+  - [軟銀](https://zh.wikipedia.org/wiki/軟銀 "wikilink")
       - 公司形象广告片（2009年-2015年）
 
       - （2009年）
 
-      - [iPhone 3G](../Page/iPhone_3G.md "wikilink")（2010年）
+      - [iPhone
+        3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")（2010年）
 
       - （2011年）
 
@@ -2582,14 +2590,14 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - [都乐食品公司](../Page/都乐食品公司.md "wikilink") 香蕉（2011年）
+  - [都乐食品公司](https://zh.wikipedia.org/wiki/都乐食品公司 "wikilink") 香蕉（2011年）
 
 <!-- end list -->
 
   - [7\&I控股](../Page/7&I控股.md "wikilink")
       - 夏之馈赠，冬之赠礼（2012年-2013年）
       - SEVEN赠品（2012年-2016年）
-      - [崇光·西武](../Page/崇光·西武.md "wikilink")（2012年）
+      - [崇光·西武](https://zh.wikipedia.org/wiki/崇光·西武 "wikilink")（2012年）
 
 <!-- end list -->
 
@@ -2600,18 +2608,18 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 <!-- end list -->
 
-  - [日本环球影城](../Page/日本环球影城.md "wikilink")
+  - [日本环球影城](https://zh.wikipedia.org/wiki/日本环球影城 "wikilink")
       - 哈利波特的魔法世界（2014年-2016年）
 
 ### 电影
 
-  - [足球风云](../Page/足球風雲#.E9.9B.BB.E5.BD.B1.E7.89.88.md "wikilink")（1994年）——由六人时代的SMAP成员出演。
+  - [足球风云](https://zh.wikipedia.org/wiki/足球風雲#.E9.9B.BB.E5.BD.B1.E7.89.88 "wikilink")（1994年）——由六人时代的SMAP成员出演。
 
 ### 舞台剧
 
-  - [圣斗士星矢](../Page/圣斗士星矢.md "wikilink")（1991年8月15日-9月1日，）
+  - [圣斗士星矢](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")（1991年8月15日-9月1日，）
 
-  - [勇者斗恶龙](../Page/勇者斗恶龙.md "wikilink")（1992年，[京都](../Page/京都.md "wikilink")）
+  - [勇者斗恶龙](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")（1992年，[京都](../Page/京都.md "wikilink")）
 
   - （1993年，东京、京都南座）
 
@@ -2621,7 +2629,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
   - （1992年4月4日）
 
-  - [横滨体育馆](../Page/横滨体育馆.md "wikilink")（1993年9月15日）——在这次握手会上，原本只能容纳17,000人的横滨体育馆涌进了50,000人。对此，SMAP说道“只是想老实地和大家握握手，没想到来了这么多人”（），“握手的时候都在发抖”（）。
+  - [横滨体育馆](https://zh.wikipedia.org/wiki/横滨体育馆 "wikilink")（1993年9月15日）——在这次握手会上，原本只能容纳17,000人的横滨体育馆涌进了50,000人。对此，SMAP说道“只是想老实地和大家握握手，没想到来了这么多人”（），“握手的时候都在发抖”（）。
 
 ### 其他活动
 
@@ -2633,11 +2641,11 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
   - 朝日放送青年偶像棒球大赛（1993年6月19日）
 
-  - [东京巨蛋](../Page/东京巨蛋.md "wikilink")[杰尼斯大运动会](../Page/杰尼斯大运动会.md "wikilink")（1996年10月10日）
+  - [东京巨蛋](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")[杰尼斯大运动会](https://zh.wikipedia.org/wiki/杰尼斯大运动会 "wikilink")（1996年10月10日）
 
   - （2011年4月2日至4月3日、2012年3月11日）
 
-  - “[日本职棒](../Page/日本棒球機構.md "wikilink")
+  - “[日本职棒](https://zh.wikipedia.org/wiki/日本棒球機構 "wikilink")
     [巨人对](../Page/讀賣巨人.md "wikilink")[阪神](../Page/阪神虎.md "wikilink")”开幕战庆典（2014年3月28日）
 
 ## 演唱会
@@ -2653,7 +2661,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>自此至1996年為止，在1月1日舉辦演唱會成為慣例。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/日本武道馆.md" title="wikilink">日本武道馆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本武道馆" title="wikilink">日本武道馆</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2669,7 +2677,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/横滨体育馆.md" title="wikilink">横滨体育馆</a>、、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/横滨体育馆" title="wikilink">横滨体育馆</a>、、</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2697,11 +2705,11 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/3月21日.md" title="wikilink">3月21日</a> - <a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p>6个场地、公演数不明</p></td>
-<td><p>第一次於<a href="../Page/東京、名古屋、大阪.md" title="wikilink">東京、名古屋、大阪以外的地方公演</a><a href="../Page/巡迴演唱會.md" title="wikilink">巡迴演唱會</a>。<a href="../Page/東京.md" title="wikilink">東京的公演為緊急追加之公演</a>。</p></td>
+<td><p>第一次於<a href="https://zh.wikipedia.org/wiki/東京、名古屋、大阪" title="wikilink">東京、名古屋、大阪以外的地方公演</a><a href="https://zh.wikipedia.org/wiki/巡迴演唱會" title="wikilink">巡迴演唱會</a>。<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京的公演為緊急追加之公演</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>、<a href="../Page/宫城県民会馆.md" title="wikilink">宫城県民会馆</a>、<a href="../Page/かつしかシンフォニーヒルズ.md" title="wikilink">かつしかシンフォニーヒルズ</a>、<a href="../Page/京都会馆.md" title="wikilink">京都会馆</a>、<a href="../Page/アステールプラザ.md" title="wikilink">広岛アステールプラザ</a>、<a href="../Page/福冈市民会馆.md" title="wikilink">福冈市民会馆</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/宫城県民会馆" title="wikilink">宫城県民会馆</a>、<a href="https://zh.wikipedia.org/wiki/かつしかシンフォニーヒルズ" title="wikilink">かつしかシンフォニーヒルズ</a>、<a href="https://zh.wikipedia.org/wiki/京都会馆" title="wikilink">京都会馆</a>、<a href="https://zh.wikipedia.org/wiki/アステールプラザ" title="wikilink">広岛アステールプラザ</a>、<a href="https://zh.wikipedia.org/wiki/福冈市民会馆" title="wikilink">福冈市民会馆</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2717,7 +2725,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>日本武道馆、<a href="../Page/名古屋レインボーホール.md" title="wikilink">名古屋レインボーホール</a>、<a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a></p></td>
+<td><p>日本武道馆、<a href="https://zh.wikipedia.org/wiki/名古屋レインボーホール" title="wikilink">名古屋レインボーホール</a>、<a href="https://zh.wikipedia.org/wiki/大阪城ホール" title="wikilink">大阪城ホール</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2761,11 +2769,11 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>イベント</p></td>
 <td><p><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
 <td><p>1个场地1公演</p></td>
-<td><p>因企劃『<a href="../Page/梦がMORI_MORI.md" title="wikilink">梦がMORI MORI</a>』而舉行的特別公演。同電視節目組的<a href="../Page/森口博子.md" title="wikilink">森口博子</a>、<a href="../Page/森胁健児.md" title="wikilink">森胁健児也參與演出</a>。</p></td>
+<td><p>因企劃『<a href="https://zh.wikipedia.org/wiki/梦がMORI_MORI" title="wikilink">梦がMORI MORI</a>』而舉行的特別公演。同電視節目組的<a href="../Page/森口博子.md" title="wikilink">森口博子</a>、<a href="https://zh.wikipedia.org/wiki/森胁健児" title="wikilink">森胁健児也參與演出</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2781,7 +2789,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>、<a href="../Page/仙台サンプラザ.md" title="wikilink">仙台サンプラザ</a>、<a href="../Page/大宫ソニックシティ.md" title="wikilink">大宫ソニックシティ</a>、<a href="../Page/神奈川県民ホール.md" title="wikilink">神奈川県民ホール</a>、<a href="../Page/静冈市民文化会馆.md" title="wikilink">静冈市民文化会馆</a>、京都会馆、<a href="../Page/神戸国际会馆.md" title="wikilink">神戸国际会馆</a>、広岛アステールプラザ、<a href="../Page/福冈サンパレス.md" title="wikilink">福冈サンパレス</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/仙台サンプラザ" title="wikilink">仙台サンプラザ</a>、<a href="https://zh.wikipedia.org/wiki/大宫ソニックシティ" title="wikilink">大宫ソニックシティ</a>、<a href="https://zh.wikipedia.org/wiki/神奈川県民ホール" title="wikilink">神奈川県民ホール</a>、<a href="https://zh.wikipedia.org/wiki/静冈市民文化会馆" title="wikilink">静冈市民文化会馆</a>、京都会馆、<a href="https://zh.wikipedia.org/wiki/神戸国际会馆" title="wikilink">神戸国际会馆</a>、広岛アステールプラザ、<a href="https://zh.wikipedia.org/wiki/福冈サンパレス" title="wikilink">福冈サンパレス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2813,7 +2821,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2829,7 +2837,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/东京厚生年金会馆.md" title="wikilink">东京厚生年金会馆</a>、<a href="../Page/横滨体育馆.md" title="wikilink">横滨体育馆</a>、爱知厚生年金会馆、<a href="../Page/万博记念公园#かつて存在した施设.md" title="wikilink">大阪万博ホール</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京厚生年金会馆" title="wikilink">东京厚生年金会馆</a>、<a href="https://zh.wikipedia.org/wiki/横滨体育馆" title="wikilink">横滨体育馆</a>、爱知厚生年金会馆、<a href="https://zh.wikipedia.org/wiki/万博记念公园#かつて存在した施设" title="wikilink">大阪万博ホール</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2839,13 +2847,13 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="odd">
 <td><p>SEXY SIX SHOW</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月24日.md" title="wikilink">7月24日</a> - <a href="../Page/8月30日.md" title="wikilink">8月30日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月24日" title="wikilink">7月24日</a> - <a href="../Page/8月30日.md" title="wikilink">8月30日</a></p></td>
 <td><p>13个场地64公演</p></td>
-<td><p>初の<a href="../Page/东名阪.md" title="wikilink">东名阪を交えた本格的な全国巡回演唱会</a>。</p></td>
+<td><p>初の<a href="https://zh.wikipedia.org/wiki/东名阪" title="wikilink">东名阪を交えた本格的な全国巡回演唱会</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>北海道厚生年金会馆、仙台サンプラザ、<a href="../Page/群马県民会馆.md" title="wikilink">群马県民会馆</a>、日本武道馆、<a href="../Page/新潟テルサ.md" title="wikilink">新潟テルサ</a>、<a href="../Page/北陆电力会馆_本多の森ホール.md" title="wikilink">石川厚生年金会馆</a>、<a href="../Page/名古屋市公会堂.md" title="wikilink">名古屋市公会堂</a>、<a href="../Page/南座.md" title="wikilink">京都南座</a>、大阪厚生年金会馆、<a href="../Page/広岛県立文化芸术ホール.md" title="wikilink">広岛メルパルクホール</a>、福冈サンパレス、<a href="../Page/长崎市公会堂.md" title="wikilink">长崎市公会堂</a>、<a href="../Page/鹿児岛県文化センター.md" title="wikilink">鹿児岛県文化センター</a></p></td>
+<td><p>北海道厚生年金会馆、仙台サンプラザ、<a href="https://zh.wikipedia.org/wiki/群马県民会馆" title="wikilink">群马県民会馆</a>、日本武道馆、<a href="https://zh.wikipedia.org/wiki/新潟テルサ" title="wikilink">新潟テルサ</a>、<a href="https://zh.wikipedia.org/wiki/北陆电力会馆_本多の森ホール" title="wikilink">石川厚生年金会馆</a>、<a href="https://zh.wikipedia.org/wiki/名古屋市公会堂" title="wikilink">名古屋市公会堂</a>、<a href="https://zh.wikipedia.org/wiki/南座" title="wikilink">京都南座</a>、大阪厚生年金会馆、<a href="https://zh.wikipedia.org/wiki/広岛県立文化芸术ホール" title="wikilink">広岛メルパルクホール</a>、福冈サンパレス、<a href="https://zh.wikipedia.org/wiki/长崎市公会堂" title="wikilink">长崎市公会堂</a>、<a href="https://zh.wikipedia.org/wiki/鹿児岛県文化センター" title="wikilink">鹿児岛県文化センター</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2858,7 +2866,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/1月1日.md" title="wikilink">1月1日</a> - <a href="../Page/1月6日.md" title="wikilink">1月6日</a></p></td>
 <td><p>3个场地、公演数不明</p></td>
-<td><p>巡回演唱会初日の1月1日、日本武道馆にて、SMAP初のベストアルバム『<a href="../Page/Cool_(SMAPのアルバム).md" title="wikilink">COOL</a>』を同时リリースした。</p></td>
+<td><p>巡回演唱会初日の1月1日、日本武道馆にて、SMAP初のベストアルバム『<a href="https://zh.wikipedia.org/wiki/Cool_(SMAPのアルバム)" title="wikilink">COOL</a>』を同时リリースした。</p></td>
 </tr>
 <tr class="even">
 <td><p>日本武道馆、名古屋レインボーホール、大阪城ホール</p></td>
@@ -2904,13 +2912,13 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="odd">
 <td><p>SUMMER MINNA ATUMARE PARTY</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月26日.md" title="wikilink">7月26日</a> - <a href="../Page/9月3日.md" title="wikilink">9月3日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月26日" title="wikilink">7月26日</a> - <a href="../Page/9月3日.md" title="wikilink">9月3日</a></p></td>
 <td><p>18个场地43公演</p></td>
-<td><p>自身初の野外公演、そして自身初・同事务所初の<a href="../Page/冲縄県.md" title="wikilink">冲縄公演</a>。巡回演唱会タイトルは"A<em>TSU</em>MARE"ではなく"A<em>TU</em>MARE"（TSUではなくTU）。</p></td>
+<td><p>自身初の野外公演、そして自身初・同事务所初の<a href="https://zh.wikipedia.org/wiki/冲縄県" title="wikilink">冲縄公演</a>。巡回演唱会タイトルは"A<em>TSU</em>MARE"ではなく"A<em>TU</em>MARE"（TSUではなくTU）。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>北海道厚生年金会馆、<a href="../Page/青森市文化会馆.md" title="wikilink">青森市文化会馆</a>、<a href="../Page/岩手県民会馆.md" title="wikilink">岩手県民会馆</a>、仙台サンプラザ、<a href="../Page/群马県民会馆.md" title="wikilink">群马県民会馆</a>、大宫ソニックシティ、横滨体育馆、<a href="../Page/新潟県民会馆.md" title="wikilink">新潟県民会馆</a>、<a href="../Page/金沢市観光会馆.md" title="wikilink">金沢市観光会馆</a>、<a href="../Page/长野県松元文化会馆.md" title="wikilink">松元文化会馆</a>、<a href="../Page/名古屋レインボーホール.md" title="wikilink">名古屋レインボーホール</a>、大阪城ホール、<a href="../Page/香川県民ホール.md" title="wikilink">香川県民ホール</a>、福冈サンパレス、长崎市公会堂、<a href="../Page/宫崎市民会馆.md" title="wikilink">宫崎市民会馆</a>、<a href="../Page/鹿児岛市民文化ホール.md" title="wikilink">鹿児岛市民文化ホール</a>、<a href="../Page/冲縄県総合运动公园陆上竞技场.md" title="wikilink">冲縄県総合运动公园陆上竞技场</a></p></td>
+<td><p>北海道厚生年金会馆、<a href="https://zh.wikipedia.org/wiki/青森市文化会馆" title="wikilink">青森市文化会馆</a>、<a href="https://zh.wikipedia.org/wiki/岩手県民会馆" title="wikilink">岩手県民会馆</a>、仙台サンプラザ、<a href="https://zh.wikipedia.org/wiki/群马県民会馆" title="wikilink">群马県民会馆</a>、大宫ソニックシティ、横滨体育馆、<a href="https://zh.wikipedia.org/wiki/新潟県民会馆" title="wikilink">新潟県民会馆</a>、<a href="https://zh.wikipedia.org/wiki/金沢市観光会馆" title="wikilink">金沢市観光会馆</a>、<a href="https://zh.wikipedia.org/wiki/长野県松元文化会馆" title="wikilink">松元文化会馆</a>、<a href="https://zh.wikipedia.org/wiki/名古屋レインボーホール" title="wikilink">名古屋レインボーホール</a>、大阪城ホール、<a href="https://zh.wikipedia.org/wiki/香川県民ホール" title="wikilink">香川県民ホール</a>、福冈サンパレス、长崎市公会堂、<a href="https://zh.wikipedia.org/wiki/宫崎市民会馆" title="wikilink">宫崎市民会馆</a>、<a href="https://zh.wikipedia.org/wiki/鹿児岛市民文化ホール" title="wikilink">鹿児岛市民文化ホール</a>、<a href="https://zh.wikipedia.org/wiki/冲縄県総合运动公园陆上竞技场" title="wikilink">冲縄県総合运动公园陆上竞技场</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2922,11 +2930,11 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/12月26日.md" title="wikilink">12月26日</a> - <a href="../Page/1月14日.md" title="wikilink">1月14日</a></p></td>
 <td><p>3个场地28公演</p></td>
-<td><p>东京公演では、自身初・同事务所初の<a href="../Page/カウントダウン.md" title="wikilink">カウントダウンコンサートが行なわれた</a>（なお、これ以降は行なわれていない）。</p></td>
+<td><p>东京公演では、自身初・同事务所初の<a href="https://zh.wikipedia.org/wiki/カウントダウン" title="wikilink">カウントダウンコンサートが行なわれた</a>（なお、これ以降は行なわれていない）。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/代々木ホワイトシアター.md" title="wikilink">代々木ホワイトシアター</a>、名古屋レインボーホール、大阪城ホール</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/代々木ホワイトシアター" title="wikilink">代々木ホワイトシアター</a>、名古屋レインボーホール、大阪城ホール</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2942,7 +2950,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>冬の巡回演唱会の内容をそのままに、地方で开催された初のアリーナ巡回演唱会。008のアルバムの曲が追加された。そして6人としては最后の巡回演唱会となった。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/月寒グリーンドーム.md" title="wikilink">札幌月寒グリーンドーム</a>、<a href="../Page/盛冈市アイスアリーナ.md" title="wikilink">盛冈市アイスアリーナ</a>、<a href="../Page/浜松アリーナ.md" title="wikilink">浜松アリーナ</a>、<a href="../Page/サンドーム福井.md" title="wikilink">サンドーム福井</a>、<a href="../Page/広岛サンプラザ.md" title="wikilink">広岛サンプラザ</a>、<a href="../Page/福冈国际センター.md" title="wikilink">福冈国际センター</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/月寒グリーンドーム" title="wikilink">札幌月寒グリーンドーム</a>、<a href="https://zh.wikipedia.org/wiki/盛冈市アイスアリーナ" title="wikilink">盛冈市アイスアリーナ</a>、<a href="https://zh.wikipedia.org/wiki/浜松アリーナ" title="wikilink">浜松アリーナ</a>、<a href="https://zh.wikipedia.org/wiki/サンドーム福井" title="wikilink">サンドーム福井</a>、<a href="https://zh.wikipedia.org/wiki/広岛サンプラザ" title="wikilink">広岛サンプラザ</a>、<a href="https://zh.wikipedia.org/wiki/福冈国际センター" title="wikilink">福冈国际センター</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2952,13 +2960,13 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <tr class="odd">
 <td><p>超无限大翔</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月19日.md" title="wikilink">7月19日</a> - <a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月19日" title="wikilink">7月19日</a> - <a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td><p>6个场地11公演</p></td>
-<td><p>巡回演唱会タイトルの読み方は「ちょうむげんだいしょう」。初の<a href="../Page/スタジアム.md" title="wikilink">スタジアム巡回演唱会</a>。森がこの巡回演唱会の前に脱退したため5人で行われた。</p></td>
+<td><p>巡回演唱会タイトルの読み方は「ちょうむげんだいしょう」。初の<a href="https://zh.wikipedia.org/wiki/スタジアム" title="wikilink">スタジアム巡回演唱会</a>。森がこの巡回演唱会の前に脱退したため5人で行われた。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>札幌・<a href="../Page/真驹内オープンスタジアム.md" title="wikilink">真驹内オープンスタジアム</a>、仙台・<a href="../Page/国営みちのく杜の湖畔公园.md" title="wikilink">国営みちのく杜の湖畔公园</a>、<a href="../Page/东京巨蛋.md" title="wikilink">东京巨蛋</a>、<a href="../Page/阪急西宫スタジアム.md" title="wikilink">阪急西宫スタジアム</a>、<a href="../Page/福冈ドーム.md" title="wikilink">福冈ドーム</a> 、冲縄・纟満市<a href="../Page/西崎陆上竞技场.md" title="wikilink">西崎陆上竞技场</a></p></td>
+<td><p>札幌・<a href="https://zh.wikipedia.org/wiki/真驹内オープンスタジアム" title="wikilink">真驹内オープンスタジアム</a>、仙台・<a href="https://zh.wikipedia.org/wiki/国営みちのく杜の湖畔公园" title="wikilink">国営みちのく杜の湖畔公园</a>、<a href="https://zh.wikipedia.org/wiki/东京巨蛋" title="wikilink">东京巨蛋</a>、<a href="https://zh.wikipedia.org/wiki/阪急西宫スタジアム" title="wikilink">阪急西宫スタジアム</a>、<a href="https://zh.wikipedia.org/wiki/福冈ドーム" title="wikilink">福冈ドーム</a> 、冲縄・纟満市<a href="https://zh.wikipedia.org/wiki/西崎陆上竞技场" title="wikilink">西崎陆上竞技场</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2969,12 +2977,12 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p><a href="../Page/1997年.md" title="wikilink">1997年</a></p></td>
 <td><p>SMAP 1997 "ス" 〜スばらしい! ステキな! スゴイぞ! スーパースペシャルコンサート〜</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月15日.md" title="wikilink">7月15日</a> - <a href="../Page/9月15日.md" title="wikilink">9月15日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月15日" title="wikilink">7月15日</a> - <a href="../Page/9月15日.md" title="wikilink">9月15日</a></p></td>
 <td><p>9个场地26公演</p></td>
 <td><p>この年より、巡回演唱会は1年に1回となる。</p></td>
 </tr>
 <tr class="even">
-<td><p>札幌・真驹内オープンスタジアム、<a href="../Page/山形市総合スポーツセンター.md" title="wikilink">山形市総合スポーツセンター</a>、<a href="../Page/横浜スタジアム.md" title="wikilink">横浜スタジアム</a>、<a href="../Page/石川県产业展示馆.md" title="wikilink">石川県产业展示馆</a>4号馆、长野<a href="../Page/エムウェーブ.md" title="wikilink">エムウェーブ</a>、<a href="../Page/ナゴヤドーム.md" title="wikilink">ナゴヤドーム</a>、<a href="../Page/大阪ドーム.md" title="wikilink">大阪ドーム</a>、<a href="../Page/広岛グリーンアリーナ.md" title="wikilink">広岛グリーンアリーナ</a>、福冈ドーム</p></td>
+<td><p>札幌・真驹内オープンスタジアム、<a href="https://zh.wikipedia.org/wiki/山形市総合スポーツセンター" title="wikilink">山形市総合スポーツセンター</a>、<a href="https://zh.wikipedia.org/wiki/横浜スタジアム" title="wikilink">横浜スタジアム</a>、<a href="https://zh.wikipedia.org/wiki/石川県产业展示馆" title="wikilink">石川県产业展示馆</a>4号馆、长野<a href="https://zh.wikipedia.org/wiki/エムウェーブ" title="wikilink">エムウェーブ</a>、<a href="https://zh.wikipedia.org/wiki/ナゴヤドーム" title="wikilink">ナゴヤドーム</a>、<a href="https://zh.wikipedia.org/wiki/大阪ドーム" title="wikilink">大阪ドーム</a>、<a href="https://zh.wikipedia.org/wiki/広岛グリーンアリーナ" title="wikilink">広岛グリーンアリーナ</a>、福冈ドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2985,12 +2993,12 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p><a href="../Page/1998年.md" title="wikilink">1998年</a></p></td>
 <td><p>CONCERT TOUR 1998 "VIVA AMIGOS!"</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月21日.md" title="wikilink">7月21日</a> - <a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月21日" title="wikilink">7月21日</a> - <a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
 <td><p>8个场地22公演</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/真驹内オープンスタジアム.md" title="wikilink">真驹内オープンスタジアム</a>、仙台<a href="../Page/宫城県総合运动公园総合体育馆.md" title="wikilink">グランディ21総合体育馆</a>、东京巨蛋、石川产业展示馆4号馆、ナゴヤドーム、大阪ドーム、広岛グリーンアリーナ、福冈ドーム</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真驹内オープンスタジアム" title="wikilink">真驹内オープンスタジアム</a>、仙台<a href="https://zh.wikipedia.org/wiki/宫城県総合运动公园総合体育馆" title="wikilink">グランディ21総合体育馆</a>、东京巨蛋、石川产业展示馆4号馆、ナゴヤドーム、大阪ドーム、広岛グリーンアリーナ、福冈ドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3001,12 +3009,12 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td><p>SMAP 1999 TOUR "BIRDMAN"</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月24日.md" title="wikilink">7月24日</a> - <a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月24日" title="wikilink">7月24日</a> - <a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
 <td><p>7个场地16公演</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/真驹内屋外竞技场.md" title="wikilink">真驹内オープンスタジアム</a>、秋田<a href="../Page/大馆树海ドーム.md" title="wikilink">大馆树海ドーム</a>、仙台・<a href="../Page/名取スポーツパーク.md" title="wikilink">名取スポーツパーク</a>、横浜スタジアム、ナゴヤドーム、大阪ドーム、福冈ドーム</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真驹内屋外竞技场" title="wikilink">真驹内オープンスタジアム</a>、秋田<a href="https://zh.wikipedia.org/wiki/大馆树海ドーム" title="wikilink">大馆树海ドーム</a>、仙台・<a href="https://zh.wikipedia.org/wiki/名取スポーツパーク" title="wikilink">名取スポーツパーク</a>、横浜スタジアム、ナゴヤドーム、大阪ドーム、福冈ドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3022,7 +3030,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>この年の巡回演唱会は、通常とは异なり秋に开催され、これ以降のコンサートは1日の公演数は1回のみに统一された。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/札幌コミュニティドーム.md" title="wikilink">札幌コミュニティドーム</a>、秋田<a href="../Page/大馆树海ドーム.md" title="wikilink">大馆树海ドーム</a>、<a href="../Page/仙台市屋内グラウンド.md" title="wikilink">シェルコムせんだい</a>、<a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a>、东京巨蛋、ナゴヤドーム、大阪ドーム、福冈ドーム</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/札幌コミュニティドーム" title="wikilink">札幌コミュニティドーム</a>、秋田<a href="https://zh.wikipedia.org/wiki/大馆树海ドーム" title="wikilink">大馆树海ドーム</a>、<a href="https://zh.wikipedia.org/wiki/仙台市屋内グラウンド" title="wikilink">シェルコムせんだい</a>、<a href="https://zh.wikipedia.org/wiki/さいたまスーパーアリーナ" title="wikilink">さいたまスーパーアリーナ</a>、东京巨蛋、ナゴヤドーム、大阪ドーム、福冈ドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3033,12 +3041,12 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td><p>SMAP'01 "pamS Tour"</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月28日.md" title="wikilink">7月28日</a> - <a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月28日" title="wikilink">7月28日</a> - <a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
 <td><p>9个场地20公演</p></td>
 <td><p>デビュー10周年に行われた巡回演唱会。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/札幌巨蛋.md" title="wikilink">札幌巨蛋</a>、岩手・<a href="../Page/安比高原.md" title="wikilink">安比高原野外特设会场</a>、东京巨蛋、<a href="../Page/东京スタジアム_(多目的スタジアム).md" title="wikilink">东京スタジアム</a>、新潟・<a href="../Page/国営越后丘陵公园.md" title="wikilink">国営越后丘陵公园</a>、ナゴヤドーム、大阪ドーム、広岛・<a href="../Page/国営备北丘陵公园.md" title="wikilink">国営备北丘陵公园</a>、福冈ドーム</p></td>
+<td><p><a href="../Page/札幌巨蛋.md" title="wikilink">札幌巨蛋</a>、岩手・<a href="https://zh.wikipedia.org/wiki/安比高原" title="wikilink">安比高原野外特设会场</a>、东京巨蛋、<a href="https://zh.wikipedia.org/wiki/东京スタジアム_(多目的スタジアム)" title="wikilink">东京スタジアム</a>、新潟・<a href="https://zh.wikipedia.org/wiki/国営越后丘陵公园" title="wikilink">国営越后丘陵公园</a>、ナゴヤドーム、大阪ドーム、広岛・<a href="https://zh.wikipedia.org/wiki/国営备北丘陵公园" title="wikilink">国営备北丘陵公园</a>、福冈ドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3049,12 +3057,12 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p>SMAP'02 "Drink! Smap! Tour"</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月28日.md" title="wikilink">7月28日</a> - <a href="../Page/11月3日.md" title="wikilink">11月3日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月28日" title="wikilink">7月28日</a> - <a href="../Page/11月3日.md" title="wikilink">11月3日</a></p></td>
 <td><p>12个场地24公演</p></td>
-<td><p>夏から秋にかけてのロング・巡回演唱会。観客动员数は、日本歴代最多の115万人を夸る。日韩ワールドカップにちなみ、サッカーが行われるスタジアムを中心に巡回演唱会を展开。前年の名古屋公演より4人で行ったため、巡回演唱会は名古屋から行われた。また、<a href="../Page/阪急西宫スタジアム.md" title="wikilink">阪急西宫スタジアムは解体することが决まり</a>、このスタジアムでのコンサートはSMAPが最后となった。</p></td>
+<td><p>夏から秋にかけてのロング・巡回演唱会。観客动员数は、日本歴代最多の115万人を夸る。日韩ワールドカップにちなみ、サッカーが行われるスタジアムを中心に巡回演唱会を展开。前年の名古屋公演より4人で行ったため、巡回演唱会は名古屋から行われた。また、<a href="https://zh.wikipedia.org/wiki/阪急西宫スタジアム" title="wikilink">阪急西宫スタジアムは解体することが决まり</a>、このスタジアムでのコンサートはSMAPが最后となった。</p></td>
 </tr>
 <tr class="even">
-<td><p>札幌巨蛋、<a href="../Page/宫城スタジアム.md" title="wikilink">宫城スタジアム</a>、东京巨蛋、东京スタジアム、<a href="../Page/新潟スタジアム.md" title="wikilink">新潟スタジアム・ビッグスワン</a>、<a href="../Page/静冈スタジアム.md" title="wikilink">静冈スタジアム・エコパ</a>、ナゴヤドーム、大阪ドーム、阪急西宫スタジアム、<a href="../Page/広岛ビッグアーチ.md" title="wikilink">広岛ビッグアーチ</a>、福冈ドーム</p></td>
+<td><p>札幌巨蛋、<a href="https://zh.wikipedia.org/wiki/宫城スタジアム" title="wikilink">宫城スタジアム</a>、东京巨蛋、东京スタジアム、<a href="https://zh.wikipedia.org/wiki/新潟スタジアム" title="wikilink">新潟スタジアム・ビッグスワン</a>、<a href="https://zh.wikipedia.org/wiki/静冈スタジアム" title="wikilink">静冈スタジアム・エコパ</a>、ナゴヤドーム、大阪ドーム、阪急西宫スタジアム、<a href="https://zh.wikipedia.org/wiki/広岛ビッグアーチ" title="wikilink">広岛ビッグアーチ</a>、福冈ドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3065,12 +3073,12 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p>SMAP'03 "MIJ Tour"</p></td>
 <td><p>巡回演唱会</p></td>
-<td><p><a href="../Page/7月5日.md" title="wikilink">7月5日</a> - <a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7月5日" title="wikilink">7月5日</a> - <a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
 <td><p>9个场地21公演</p></td>
 <td><p>香取慎吾の大河ドラマ出演の关系上、通常よりも公演数を少なくしたが、大阪での追加公演が决定し、2年连続で観客动员数が100万人を超えた。约7万人が収容できる横浜国际総合竞技场にて史上3组目、ジャニーズ初のコンサートを行った。</p></td>
 </tr>
 <tr class="even">
-<td><p>札幌巨蛋、宫城スタジアム、味の素スタジアム、<a href="../Page/横浜国际総合竞技场.md" title="wikilink">横浜国际総合竞技场</a>、<a href="../Page/新潟スタジアム.md" title="wikilink">新潟スタジアム</a>・ビッグスワン、<a href="../Page/豊田スタジアム.md" title="wikilink">豊田スタジアム</a>、大阪ドーム、広岛ビッグアーチ、福冈ドーム</p></td>
+<td><p>札幌巨蛋、宫城スタジアム、味の素スタジアム、<a href="https://zh.wikipedia.org/wiki/横浜国际総合竞技场" title="wikilink">横浜国际総合竞技场</a>、<a href="https://zh.wikipedia.org/wiki/新潟スタジアム" title="wikilink">新潟スタジアム</a>・ビッグスワン、<a href="https://zh.wikipedia.org/wiki/豊田スタジアム" title="wikilink">豊田スタジアム</a>、大阪ドーム、広岛ビッグアーチ、福冈ドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3086,7 +3094,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>前回から2年ぶりの巡回演唱会。</p></td>
 </tr>
 <tr class="even">
-<td><p>札幌巨蛋、东京巨蛋、<a href="../Page/國立霞丘陸上競技場.md" title="wikilink">國立霞丘陸上競技場</a>、<a href="../Page/横浜国际総合竞技场.md" title="wikilink">日产スタジアム</a>、ナゴヤドーム、大阪ドーム、<a href="../Page/福冈ドーム.md" title="wikilink">福冈Yahoo!JAPANドーム</a></p></td>
+<td><p>札幌巨蛋、东京巨蛋、<a href="../Page/國立霞丘陸上競技場.md" title="wikilink">國立霞丘陸上競技場</a>、<a href="https://zh.wikipedia.org/wiki/横浜国际総合竞技场" title="wikilink">日产スタジアム</a>、ナゴヤドーム、大阪ドーム、<a href="https://zh.wikipedia.org/wiki/福冈ドーム" title="wikilink">福冈Yahoo!JAPANドーム</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3099,10 +3107,10 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/7月30日.md" title="wikilink">7月30日</a> - <a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
 <td><p>8个场地21公演</p></td>
-<td><p><a href="../Page/首都圏_(日本).md" title="wikilink">首都圏でのドーム</a>・スタジアム3个场地8公演48万人动员は、史上最大规模。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首都圏_(日本)" title="wikilink">首都圏でのドーム</a>・スタジアム3个场地8公演48万人动员は、史上最大规模。</p></td>
 </tr>
 <tr class="even">
-<td><p>札幌巨蛋、<a href="../Page/新潟スタジアム.md" title="wikilink">新潟スタジアム</a>、东京巨蛋、国立霞ヶ丘竞技场、日产スタジアム、ナゴヤドーム、<a href="../Page/大阪ドーム.md" title="wikilink">京セラドーム大阪</a>、福冈Yahoo!JAPANドーム</p></td>
+<td><p>札幌巨蛋、<a href="https://zh.wikipedia.org/wiki/新潟スタジアム" title="wikilink">新潟スタジアム</a>、东京巨蛋、国立霞ヶ丘竞技场、日产スタジアム、ナゴヤドーム、<a href="https://zh.wikipedia.org/wiki/大阪ドーム" title="wikilink">京セラドーム大阪</a>、福冈Yahoo!JAPANドーム</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3126,7 +3134,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2010年.md" title="wikilink">2010年</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td><p>We are SMAP! 2010 SMAP CONCERT TOUR</p></td>
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/7月31日.md" title="wikilink">7月31日</a> - <a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
@@ -3150,7 +3158,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/さっぽろ芸术文化の馆.md" title="wikilink">北海道ニトリ文化ホール</a>、<a href="../Page/西武园ゆうえんち.md" title="wikilink">西武园ゆうえんち 波のプール</a>、<a href="../Page/名古屋国际会议场.md" title="wikilink">名古屋センチュリーホール</a>、<a href="../Page/神戸文化ホール.md" title="wikilink">神戸文化ホール</a>、福冈サンパレス</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/さっぽろ芸术文化の馆" title="wikilink">北海道ニトリ文化ホール</a>、<a href="https://zh.wikipedia.org/wiki/西武园ゆうえんち" title="wikilink">西武园ゆうえんち 波のプール</a>、<a href="https://zh.wikipedia.org/wiki/名古屋国际会议场" title="wikilink">名古屋センチュリーホール</a>、<a href="https://zh.wikipedia.org/wiki/神戸文化ホール" title="wikilink">神戸文化ホール</a>、福冈サンパレス</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3162,7 +3170,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>单次演唱会</p></td>
 <td><p><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
 <td><p>1个场地1公演</p></td>
-<td><p>SMAP初の海外公演となるコンサート。昨年<a href="../Page/上海市.md" title="wikilink">上海での</a><a href="../Page/上海国际博覧会.md" title="wikilink">万博イベント</a>・コンサートが予定されていたが、安全上の理由などで共に中止となっていた。公演発表に伴って、舞台公演で欠席した稲垣を除くSMAPメンバーと<a href="../Page/温家宝.md" title="wikilink">温家宝首相との面会が行われた</a>。コンサートの内容自体は昨年行われた「We are SMAP! 2010 SMAP CONCERT TOUR」と殆ど同じで、一部を中国语で歌唱するなど手が加えられた。公演时间は约2时间、観客动员数は4万人。</p></td>
+<td><p>SMAP初の海外公演となるコンサート。昨年<a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海での</a><a href="https://zh.wikipedia.org/wiki/上海国际博覧会" title="wikilink">万博イベント</a>・コンサートが予定されていたが、安全上の理由などで共に中止となっていた。公演発表に伴って、舞台公演で欠席した稲垣を除くSMAPメンバーと<a href="../Page/温家宝.md" title="wikilink">温家宝首相との面会が行われた</a>。コンサートの内容自体は昨年行われた「We are SMAP! 2010 SMAP CONCERT TOUR」と殆ど同じで、一部を中国语で歌唱するなど手が加えられた。公演时间は约2时间、観客动员数は4万人。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3195,7 +3203,7 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/8月23日.md" title="wikilink">8月23日</a> - <a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
 <td><p>6个场地22公演</p></td>
-<td><p>2010年から2年ぶりの巡回演唱会。観客动员数は2006年の巡回演唱会「Pop Up! SMAP - 飞びます! トビだす! とびスマ? TOUR」以来6年ぶりに100万人を突破した。サプライズゲストとして<a href="../Page/山下智久.md" title="wikilink">山下智久や</a><a href="../Page/少女时代.md" title="wikilink">少女时代が出演し</a>、<a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2の</a><a href="../Page/北山宏光.md" title="wikilink">北山宏光と</a><a href="../Page/藤ヶ谷太辅.md" title="wikilink">藤ヶ谷太辅がバックダンサーとして参加した</a>。</p></td>
+<td><p>2010年から2年ぶりの巡回演唱会。観客动员数は2006年の巡回演唱会「Pop Up! SMAP - 飞びます! トビだす! とびスマ? TOUR」以来6年ぶりに100万人を突破した。サプライズゲストとして<a href="../Page/山下智久.md" title="wikilink">山下智久や</a><a href="../Page/少女时代.md" title="wikilink">少女时代が出演し</a>、<a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2の</a><a href="../Page/北山宏光.md" title="wikilink">北山宏光と</a><a href="https://zh.wikipedia.org/wiki/藤ヶ谷太辅" title="wikilink">藤ヶ谷太辅がバックダンサーとして参加した</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>札幌巨蛋、东京巨蛋、味の素スタジアム、ナゴヤドーム、京セラドーム大阪、福冈Yahoo!JAPANドーム</p></td>
@@ -3207,14 +3215,14 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
-<td><p><a href="../Page/Mr.S_-SAIKOU_DE_SAIKOU_NO_CONCERT_TOUR-.md" title="wikilink">Mr.S -SAIKOU DE SAIKOU NO CONCERT TOUR-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mr.S_-SAIKOU_DE_SAIKOU_NO_CONCERT_TOUR-" title="wikilink">Mr.S -SAIKOU DE SAIKOU NO CONCERT TOUR-</a></p></td>
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/9月4日.md" title="wikilink">9月4日</a> - <a href="../Page/1月12日.md" title="wikilink">1月12日</a></p></td>
 <td><p>5个场地22公演</p></td>
-<td><p>2012年から2年ぶりの巡回演唱会。2012年の6个场地から、2010年以来の5个场地に减少したが、公演数は変わらない(味の素スタジアムでの公演がない)。グループ史上初めてドーム公演のみで観客动员数100万人を达成した。この<a href="../Page/Mr.S_&quot;saikou_de_saikou_no_CONCERT_TOUR&quot;.md" title="wikilink">ライブDVDが</a>12月10日に発売された为、12月24日・25日の大阪公演と1月10日〜12日の名古屋公演はDVD発売后に行われた。</p></td>
+<td><p>2012年から2年ぶりの巡回演唱会。2012年の6个场地から、2010年以来の5个场地に减少したが、公演数は変わらない(味の素スタジアムでの公演がない)。グループ史上初めてドーム公演のみで観客动员数100万人を达成した。この<a href="https://zh.wikipedia.org/wiki/Mr.S_&quot;saikou_de_saikou_no_CONCERT_TOUR&quot;" title="wikilink">ライブDVDが</a>12月10日に発売された为、12月24日・25日の大阪公演と1月10日〜12日の名古屋公演はDVD発売后に行われた。</p></td>
 </tr>
 <tr class="even">
-<td><p>札幌巨蛋、东京巨蛋、ナゴヤドーム、京セラドーム大阪、<a href="../Page/福冈ドーム.md" title="wikilink">福冈ヤフオク!ドーム</a></p></td>
+<td><p>札幌巨蛋、东京巨蛋、ナゴヤドーム、京セラドーム大阪、<a href="https://zh.wikipedia.org/wiki/福冈ドーム" title="wikilink">福冈ヤフオク!ドーム</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3234,11 +3242,11 @@ SMAP初次出演“[FNS歌谣祭](../Page/FNS歌谣祭.md "wikilink")”（[富�
 
 ## 滑板男孩（SMAP前身）
 
-**滑板男孩**（，）是[杰尼斯事务所所属的一个](../Page/杰尼斯事务所.md "wikilink")[偶像](../Page/日本偶像.md "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，成立于1987年秋天。该团体被认为是**SMAP**组合的前身，首次亮相是在同事务所的[光GENJI的歌曲](../Page/光GENJI.md "wikilink")《[玻璃的十代](../Page/玻璃的十代.md "wikilink")》作为伴舞群出现。
+**滑板男孩**（，）是[杰尼斯事务所所属的一个](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，成立于1987年秋天。该团体被认为是**SMAP**组合的前身，首次亮相是在同事务所的[光GENJI的歌曲](../Page/光GENJI.md "wikilink")《[玻璃的十代](../Page/玻璃的十代.md "wikilink")》作为伴舞群出现。
 
 而在光GENJI的歌曲《》中，滑板男孩不仅负责伴舞，还要负责[轮滑](../Page/轮滑.md "wikilink")。1988年4月，组合的正式12名成员在各大娱乐杂志上亮相。但是，即便如此，还是有部分成员未能集体亮相。滑板男孩组合的成员一度多达20余人。
 
-事务所从滑板男孩中选定六个人，组成了“SMAP”。在SMAP组成的早期，成员在SMAP和滑板男孩中都保留了成员身份。在SMAP的成员甄选时，滑板男孩中的、，和还是[小杰尼斯的](../Page/小杰尼斯.md "wikilink")[坂本昌行](../Page/坂本昌行.md "wikilink")、佐藤功、[国分太一都曾作为SMAP的候补队员出现过](../Page/国分太一.md "wikilink")。（其中国分太一和坂本昌行还是先成为SMAP候补队员，然后再加入到滑板男孩中的。）
+事务所从滑板男孩中选定六个人，组成了“SMAP”。在SMAP组成的早期，成员在SMAP和滑板男孩中都保留了成员身份。在SMAP的成员甄选时，滑板男孩中的、，和还是[小杰尼斯的](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")[坂本昌行](../Page/坂本昌行.md "wikilink")、佐藤功、[国分太一都曾作为SMAP的候补队员出现过](../Page/国分太一.md "wikilink")。（其中国分太一和坂本昌行还是先成为SMAP候补队员，然后再加入到滑板男孩中的。）
 
 SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，但也有部分成员在1990年代早期选择退社。
 
@@ -3252,22 +3260,22 @@ SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，�
 
 </dl>
 <ul>
-<li><a href="../Page/中居正广.md" title="wikilink">中居正广</a>（时年15岁）</li>
+<li><a href="https://zh.wikipedia.org/wiki/中居正广" title="wikilink">中居正广</a>（时年15岁）</li>
 <li><a href="../Page/森且行.md" title="wikilink">森且行</a>（时年13岁）</li>
 </ul>
 <ul>
 <li><a href="../Page/木村拓哉.md" title="wikilink">木村拓哉</a>（时年15岁）</li>
-<li><a href="../Page/草彅刚.md" title="wikilink">草彅刚</a>（时年13岁）</li>
+<li><a href="https://zh.wikipedia.org/wiki/草彅刚" title="wikilink">草彅刚</a>（时年13岁）</li>
 </ul>
 <ul>
-<li><a href="../Page/稲垣吾郎.md" title="wikilink">稲垣吾郎</a>（时年14岁）</li>
+<li><a href="https://zh.wikipedia.org/wiki/稲垣吾郎" title="wikilink">稲垣吾郎</a>（时年14岁）</li>
 <li><a href="../Page/香取慎吾.md" title="wikilink">香取慎吾</a>（时年10岁）</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-  - 后加入到平家派及[TOKIO](../Page/TOKIO.md "wikilink")
+  - 后加入到平家派及[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")
 
 <!-- end list -->
 
@@ -3317,7 +3325,7 @@ SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，�
 
 ### 花絮
 
-在[SMAPXSMAP的环节](../Page/SMAPXSMAP.md "wikilink")“唱吧！偶像Kick
+在[SMAPXSMAP的环节](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")“唱吧！偶像Kick
 Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 
 ## 参考资料
@@ -3328,10 +3336,10 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 
 ## 相关条目
 
-  - [SMAP解散風波](../Page/SMAP解散風波.md "wikilink")
-  - [SMAP SHOP](../Page/SMAP_SHOP.md "wikilink")
-  - [饭岛三智](../Page/饭岛三智.md "wikilink")
-  - [滑板男孩](../Page/滑板男孩.md "wikilink")（SMAP前身）
+  - [SMAP解散風波](https://zh.wikipedia.org/wiki/SMAP解散風波 "wikilink")
+  - [SMAP SHOP](https://zh.wikipedia.org/wiki/SMAP_SHOP "wikilink")
+  - [饭岛三智](https://zh.wikipedia.org/wiki/饭岛三智 "wikilink")
+  - [滑板男孩](https://zh.wikipedia.org/wiki/滑板男孩 "wikilink")（SMAP前身）
 
 ## 外部連結
 
@@ -3392,7 +3400,7 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 25.
 26.
 27.
-28. 卒業時22歳で、[オートレースの養成学校に入れるのは](../Page/オートレース.md "wikilink")23歳が上限であるため
+28. 卒業時22歳で、[オートレースの養成学校に入れるのは](https://zh.wikipedia.org/wiki/オートレース "wikilink")23歳が上限であるため
 
 29.
 30.
@@ -3423,13 +3431,14 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 48.
 49.
 50. [SMAP分裂危機\!“育ての親”退社に4人同調、キムタクは残留](http://www.sponichi.co.jp/entertainment/news/2016/01/13/kiji/K20160113011849710.html)（Sponichi
-    Annex/[體育日本](../Page/體育日本.md "wikilink") 2016年1月13日付）
+    Annex/[體育日本](https://zh.wikipedia.org/wiki/體育日本 "wikilink")
+    2016年1月13日付）
 
 51. [SMAP解散へ\!木村拓哉以外ジャニーズから独立](http://www.nikkansports.com/entertainment/news/1591422.html)（[日刊體育](../Page/日刊體育.md "wikilink")
     2016年1月13日付）
 
 52. [SMAP存続へ 解散騒動を謝罪
-    生番組に5人出演](http://mainichi.jp/articles/20160119/k00/00m/040/110000c)（[毎日新聞](../Page/毎日新聞.md "wikilink")
+    生番組に5人出演](http://mainichi.jp/articles/20160119/k00/00m/040/110000c)（[毎日新聞](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink")
     2016年1月18日付）
 
 53. [SMAP存続\!キムタク直訴電から「空中分解」回避…スマスマで謝罪](http://www.sponichi.co.jp/entertainment/news/2016/01/19/kiji/K20160119011882940.html)（Sponichi
@@ -3451,7 +3460,8 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 62.
 63.
 64. 「[2/2 主演俳優を出していると主題歌も](http://allabout.co.jp/gm/gc/312876/2/)」[All
-    About](../Page/All_About.md "wikilink") 2014年7月14日閲覧。
+    About](https://zh.wikipedia.org/wiki/All_About "wikilink")
+    2014年7月14日閲覧。
 
 65.
 66.

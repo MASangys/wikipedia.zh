@@ -1,22 +1,22 @@
-**Unicode補完計畫**（**Unicode-at-on**，簡稱**UAO**，官方網站使用的識別系統用字是**Unicode補完計-{画}-**）是[台灣](../Page/台灣.md "wikilink")[電腦使用者針對](../Page/電腦.md "wikilink")[大五碼](../Page/大五碼.md "wikilink")（Big-5）延伸的紊亂、以及[微軟Code](../Page/微軟.md "wikilink")
+**Unicode補完計畫**（**Unicode-at-on**，簡稱**UAO**，官方網站使用的識別系統用字是**Unicode補完計-{画}-**）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦使用者針對](https://zh.wikipedia.org/wiki/電腦 "wikilink")[大五碼](../Page/大五碼.md "wikilink")（Big-5）延伸的紊亂、以及[微軟Code](https://zh.wikipedia.org/wiki/微軟 "wikilink")
 Page 950（[Microsoft
-Windows內建的Big](../Page/Microsoft_Windows.md "wikilink")-5轉碼表）未收錄某些常用字（又稱缺字問題）以及缺乏對於[倚天中文系統](../Page/倚天中文系統.md "wikilink")、[中國海字集延伸中的](../Page/中國海字集.md "wikilink")[簡體中文](../Page/簡體中文.md "wikilink")、[日文假名與](../Page/日文假名.md "wikilink")[日文漢字支援等問題所採取的其中一種解決方案](../Page/日文漢字.md "wikilink")（參看[大五碼\#影響](../Page/大五碼#.E5.BD.B1.E9.9F.BF.md "wikilink")）。透過對Code
+Windows內建的Big](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")-5轉碼表）未收錄某些常用字（又稱缺字問題）以及缺乏對於[倚天中文系統](../Page/倚天中文系統.md "wikilink")、[中國海字集延伸中的](../Page/中國海字集.md "wikilink")[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")、[日文假名與](https://zh.wikipedia.org/wiki/日文假名 "wikilink")[日文漢字支援等問題所採取的其中一種解決方案](https://zh.wikipedia.org/wiki/日文漢字 "wikilink")（參看[大五碼\#影響](https://zh.wikipedia.org/wiki/大五碼#.E5.BD.B1.E9.9F.BF "wikilink")）。透過對Code
 Page
-950的修改，使得原始採用[簡體中文或](../Page/簡體中文.md "wikilink")[日語的內容](../Page/日語.md "wikilink")，在複製至ANSI架構的程式時能轉換為Unicode補完計畫字集下的對應字元，而不會造成缺字的問題（詳細字元請參看[字元的來源](../Page/#.E5.AD.97.E5.85.83.E7.9A.84.E4.BE.86.E6.BA.90.md "wikilink")）。它是一個[自由軟體](../Page/自由軟體.md "wikilink")。
+950的修改，使得原始採用[簡體中文或](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[日語的內容](https://zh.wikipedia.org/wiki/日語 "wikilink")，在複製至ANSI架構的程式時能轉換為Unicode補完計畫字集下的對應字元，而不會造成缺字的問題（詳細字元請參看[字元的來源](https://zh.wikipedia.org/wiki/#.E5.AD.97.E5.85.83.E7.9A.84.E4.BE.86.E6.BA.90 "wikilink")）。它是一個[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 [Unicode_font_support.png](https://zh.wikipedia.org/wiki/File:Unicode_font_support.png "fig:Unicode_font_support.png")
 
-要留意的是「Unicode補完計畫」不等於[Unicode](../Page/Unicode.md "wikilink")。當你聽見有人說「我已安裝Unicode」，通常是他把「Unicode補完計畫」和Unicode混為一談。
+要留意的是「Unicode補完計畫」不等於[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。當你聽見有人說「我已安裝Unicode」，通常是他把「Unicode補完計畫」和Unicode混為一談。
 
-「Unicode補完計畫」也不是用來解決軟體顯示亂碼的問題。電腦內要有相關的字形（例如支援整個Unicode漢字的字形），才能在電腦[顯示器看到](../Page/顯示器.md "wikilink")。因為「Unicode補完計畫」只包含編碼轉換表，並不包括字形在內。而有些日語程式裝在Windows
+「Unicode補完計畫」也不是用來解決軟體顯示亂碼的問題。電腦內要有相關的字形（例如支援整個Unicode漢字的字形），才能在電腦[顯示器看到](https://zh.wikipedia.org/wiki/顯示器 "wikilink")。因為「Unicode補完計畫」只包含編碼轉換表，並不包括字形在內。而有些日語程式裝在Windows
 XP所出現的亂碼問題，應使用[Microsoft
 AppLocale等程式去作內部轉換](../Page/Microsoft_AppLocale.md "wikilink")。
 
 ## 背景與原理
 
-「Unicode補完計畫」的原理是把[大五碼造字區的區位和](../Page/大五碼#.E7.A7.81.E4.BA.BA.E9.80.A0.E5.AD.97.E5.8D.80.md "wikilink")[Unicode的相關字元作雙向對應](../Page/Unicode.md "wikilink")，以達到無須借助[外字集](../Page/外字集.md "wikilink")、也能使大五碼文件或檔名使用原先欠缺的漢字。
+「Unicode補完計畫」的原理是把[大五碼造字區的區位和](https://zh.wikipedia.org/wiki/大五碼#.E7.A7.81.E4.BA.BA.E9.80.A0.E5.AD.97.E5.8D.80 "wikilink")[Unicode的相關字元作雙向對應](https://zh.wikipedia.org/wiki/Unicode "wikilink")，以達到無須借助[外字集](https://zh.wikipedia.org/wiki/外字集 "wikilink")、也能使大五碼文件或檔名使用原先欠缺的漢字。
 
-由於大五碼僅收錄13,060個漢字\[1\]，對不少使用者而言確實不足夠，例如日語[假名](../Page/假名.md "wikilink")、人名、香港[粵語字](../Page/粵語.md "wikilink")、科學用的特殊字等等都欠缺。長久以來解決這種問題的方式都是加裝各種外字集，例如[櫻花輸入法](../Page/櫻花輸入法.md "wikilink")（支援日語假名）、[中國海字集](../Page/中國海字集.md "wikilink")、[香港增補字符集](../Page/香港增補字符集.md "wikilink")（[HKSCS](../Page/HKSCS.md "wikilink")）等。但目前世界的潮流是以使用包含最多字數的Unicode為目標。以外字集收錄字符根本難以作為資料交換之用，除非對方也安裝了該外字集。
+由於大五碼僅收錄13,060個漢字\[1\]，對不少使用者而言確實不足夠，例如日語[假名](https://zh.wikipedia.org/wiki/假名 "wikilink")、人名、香港[粵語字](https://zh.wikipedia.org/wiki/粵語 "wikilink")、科學用的特殊字等等都欠缺。長久以來解決這種問題的方式都是加裝各種外字集，例如[櫻花輸入法](https://zh.wikipedia.org/wiki/櫻花輸入法 "wikilink")（支援日語假名）、[中國海字集](../Page/中國海字集.md "wikilink")、[香港增補字符集](../Page/香港增補字符集.md "wikilink")（[HKSCS](https://zh.wikipedia.org/wiki/HKSCS "wikilink")）等。但目前世界的潮流是以使用包含最多字數的Unicode為目標。以外字集收錄字符根本難以作為資料交換之用，除非對方也安裝了該外字集。
 
 在預設狀態下，作業系統字碼表中，大五碼造字區是和「Unicode造字區」作雙向對應的，也就是說當電腦讀取到某個原先是落在造字區的內碼時，電腦會去讀取與其相對應的Unicode造字區字元。結果是，由於不是每人電腦內的Unicode造字區都使用同一造字檔案，所以把外字集的用字傳送給其他人時，對方若無安裝相同的外字集，就不能看到裡面的內容。
 
@@ -24,10 +24,10 @@ AppLocale等程式去作內部轉換](../Page/Microsoft_AppLocale.md "wikilink")
 
 ## 作業平台
 
-「Unicode補完計畫」修改作業系統中的字碼表，處理Unicode和非Unicode字碼的對應。「Unicode補完計畫」首先是在以Unicode架構為核心的[微軟](../Page/微軟.md "wikilink")[Windows
+「Unicode補完計畫」修改作業系統中的字碼表，處理Unicode和非Unicode字碼的對應。「Unicode補完計畫」首先是在以Unicode架構為核心的[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
 NT](../Page/Windows_NT.md "wikilink")（包括[Windows
 2000和](../Page/Windows_2000.md "wikilink")[Windows
-XP](../Page/Windows_XP.md "wikilink")）作業系統上開發，之後又支援了以[ANSI架構為核心的](../Page/ANSI.md "wikilink")[Windows
+XP](../Page/Windows_XP.md "wikilink")）作業系統上開發，之後又支援了以[ANSI架構為核心的](https://zh.wikipedia.org/wiki/ANSI "wikilink")[Windows
 98和](../Page/Windows_98.md "wikilink")[Windows
 Me](../Page/Windows_Me.md "wikilink")。
 
@@ -48,14 +48,14 @@ XP](../Page/Windows_XP.md "wikilink")、[Windows Server
 
   - $SYSDIR\\C_950.nls Unicode←→Big-5對照表
   - 如果使用者有安裝[Microsoft
-    Applocale](../Page/Microsoft_Applocale.md "wikilink")，安裝程式會將$WINDIR\\AppPatch\\AppLoc.tmp以一個同名的空白唯讀檔案取代。
+    Applocale](https://zh.wikipedia.org/wiki/Microsoft_Applocale "wikilink")，安裝程式會將$WINDIR\\AppPatch\\AppLoc.tmp以一個同名的空白唯讀檔案取代。
   - 如果使用者沒有安裝Microsoft
     Applocale，安裝程式會直接產生一個空白的唯讀檔案：$WINDIR\\AppPatch\\AppLoc.tmp。
 
 ### ANSI架構的Windows
 
 包括[Windows 98](../Page/Windows_98.md "wikilink")、[Windows
-ME](../Page/Windows_ME.md "wikilink")。
+ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")。
 
 修改的檔案：
 
@@ -63,10 +63,9 @@ ME](../Page/Windows_ME.md "wikilink")。
   - $SYSDIR\\unicode.bin負責跟檔案系統操作相關的轉碼表（如果您有興趣可以這樣玩：把$sysdir\\unicode.bin砍了，在重開機後，系統會使用最原始的預設CodePage:437顯示，在這情況下所有存在於檔名中的中文字都會以『__』顯示，這包括大部份的桌面捷徑和幾乎整個『開始』功能表）
   - $SYSDIR\\GDI.exe在顯示字型時，取得字型的檔案（將CodePage內碼依此檔內含之轉碼表轉換成unicode碼，再以此unicode碼到TrueType字型檔中提取字型）
 
-註：$SYSDIR是代表某[路徑的一個變數](../Page/路徑.md "wikilink")，在Windows
-XP預設是C:\\WINDOWS\\system32，在Windows
-2000預設是C:\\WINNT\\system32，在Windows 98和Windows
-ME預設是C:\\WINDOWS\\system。
+註：$SYSDIR是代表某[路徑的一個變數](https://zh.wikipedia.org/wiki/路徑 "wikilink")，在Windows
+XP預設是C:\\WINDOWS\\system32，在Windows 2000預設是C:\\WINNT\\system32，在Windows
+98和Windows ME預設是C:\\WINDOWS\\system。
 
   -
     $WINDIR也是一個路徑變數，在Windows 98、Windows ME和Windows
@@ -74,11 +73,11 @@ ME預設是C:\\WINDOWS\\system。
 
 ## 字元的來源
 
-在「Unicode補完計畫」的第2版中，字元的基本來源是參照「[中國海字集](../Page/中國海字集.md "wikilink")」，再加上中國海字集所遺漏的[簡體中文](../Page/簡體中文.md "wikilink")、[日語和部分香港用字而成](../Page/日語.md "wikilink")。
+在「Unicode補完計畫」的第2版中，字元的基本來源是參照「[中國海字集](../Page/中國海字集.md "wikilink")」，再加上中國海字集所遺漏的[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")、[日語和部分香港用字而成](https://zh.wikipedia.org/wiki/日語 "wikilink")。
 
 「Unicode補完計畫」的2.40 Alpha
-3版，除了大五碼原有的符號和漢字外，共收錄了4,916個漢字及漢字偏旁、日語的[半形及](../Page/半形.md "wikilink")[全形](../Page/全形.md "wikilink")[假名](../Page/假名.md "wikilink")、[俄語](../Page/俄語.md "wikilink")[西里爾字母等](../Page/西里爾字母.md "wikilink")，涵蓋了在[GB
-2312](../Page/GB_2312.md "wikilink")（不是[GBK或](../Page/GBK.md "wikilink")[GB
+3版，除了大五碼原有的符號和漢字外，共收錄了4,916個漢字及漢字偏旁、日語的[半形及](https://zh.wikipedia.org/wiki/半形 "wikilink")[全形](https://zh.wikipedia.org/wiki/全形 "wikilink")[假名](https://zh.wikipedia.org/wiki/假名 "wikilink")、[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")[西里爾字母等](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")，涵蓋了在[GB
+2312](../Page/GB_2312.md "wikilink")（不是[GBK或](https://zh.wikipedia.org/wiki/GBK "wikilink")[GB
 18030](../Page/GB_18030.md "wikilink")）、[Shift
 JIS之中出現的所有漢字](../Page/Shift_JIS.md "wikilink")，和[香港增補字符集之中](../Page/香港增補字符集.md "wikilink")，Unicode碼落在U+4E00～U+9FA5
 （即Unicode 1.1版定義）的漢字。（因編碼空間不足的關係，並不收錄在香港增補字符集的Unicode擴充漢字）
@@ -91,7 +90,7 @@ JIS之中出現的所有漢字](../Page/Shift_JIS.md "wikilink")，和[香港增
 
 這是「Unicode補完計畫」使用者可能會影響到其他使用者的最大問題。
 
-一般的[網頁瀏覽器或](../Page/網頁瀏覽器.md "wikilink")[電子郵件客戶端](../Page/電子郵件客戶端.md "wikilink")，在使用者打出非該軟體顯示畫面預設編碼（例如寫一封用Big-5編碼的信件）的字元時，軟體會自動把這些字元轉換成[Unicode參照碼](../Page/Unicode#HTML.E5.92.8CUnicode.md "wikilink")，例如「堃」會被自動轉換成「堃」；然而在補完後的電腦，由於即使打出的是原非大五碼預設的字元，也會被認為是大五碼的字元（裝了「Unicode補完計畫」的系統，在對照字碼表後，發現當中有這個字），因此就不會被轉換。這也就是說，其他使用者不一定能看見該使用者所打的字──除非他們也有裝「Unicode補完計畫」。於是這反而與「Unicode補完計畫」的創立宗旨背道而馳：原先避免以外字集解決缺字的「Unicode補完計畫」，反而變成另一套外字集。
+一般的[網頁瀏覽器或](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[電子郵件客戶端](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")，在使用者打出非該軟體顯示畫面預設編碼（例如寫一封用Big-5編碼的信件）的字元時，軟體會自動把這些字元轉換成[Unicode參照碼](https://zh.wikipedia.org/wiki/Unicode#HTML.E5.92.8CUnicode "wikilink")，例如「堃」會被自動轉換成「堃」；然而在補完後的電腦，由於即使打出的是原非大五碼預設的字元，也會被認為是大五碼的字元（裝了「Unicode補完計畫」的系統，在對照字碼表後，發現當中有這個字），因此就不會被轉換。這也就是說，其他使用者不一定能看見該使用者所打的字──除非他們也有裝「Unicode補完計畫」。於是這反而與「Unicode補完計畫」的創立宗旨背道而馳：原先避免以外字集解決缺字的「Unicode補完計畫」，反而變成另一套外字集。
 
 解決方案：當使用者安裝「Unicode補完計畫」時，會獲得一份「[HTML外字相容轉換器](../Page/HTML.md "wikilink")」（另外也有[網路版](https://web.archive.org/web/20031121160638/http://cpatch.org/unicode/tool/converter.html)），可以直接把原本不屬於大五碼的字元轉換為參照碼；接下來只要使用這份夾雜着參照碼的文件，就能讓其他使用者也見到這些字元。另一種做法是，像推廣櫻花輸入法一樣推廣「Unicode補完計畫」，使其也變成一種人人使用的非官方標準。然而**最終的解決方案是放棄Big-5，將網頁或信件直接改用Unicode編碼。**\[2\]
 
@@ -133,13 +132,14 @@ JIS之中出現的所有漢字](../Page/Shift_JIS.md "wikilink")，和[香港增
 <!-- end list -->
 
   - 對於不是使用系統字碼表的軟體──例如[Mozilla
-    Firefox等跨平台瀏覽器或](../Page/Mozilla_Firefox.md "wikilink")[Java軟體](../Page/Java.md "wikilink")──補完計畫會無效，這些軟體需要「個別補完」（例如有些[社群版的Firefox](../Page/Firefox社群版.md "wikilink")，就有將補完後的字碼表編譯進去）。
-  - Windows 98的[細明體字形](../Page/細明體.md "wikilink")（mingliu.ttc）比起Windows
+    Firefox等跨平台瀏覽器或](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Java軟體](../Page/Java.md "wikilink")──補完計畫會無效，這些軟體需要「個別補完」（例如有些[社群版的Firefox](https://zh.wikipedia.org/wiki/Firefox社群版 "wikilink")，就有將補完後的字碼表編譯進去）。
+  - Windows
+    98的[細明體字形](https://zh.wikipedia.org/wiki/細明體 "wikilink")（mingliu.ttc）比起Windows
     Me / 2000 / XP的版本來得舊。舊版字形有不少缺字情況；使用者必須在新版Windows中，複製細明體去更新Windows
     98的字形檔案。
   - Windows 98 / Me的使用者需要再安裝「中國海字集」，才能正常顯示純文字檔案。
   - 由於[Windows XP Service Pack
-    2改進了](../Page/Windows_XP#Windows_XP_Service_Pack_2.md "wikilink")[系統檔案保護的能力](../Page/系統檔案保護.md "wikilink")，而補完計畫需要變更一個系統檔案，故當出現一個視窗，詢問是否要還原此系統檔案時，使用者必須選擇「不還原」此檔案，才能安裝成功。
+    2改進了](https://zh.wikipedia.org/wiki/Windows_XP#Windows_XP_Service_Pack_2 "wikilink")[系統檔案保護的能力](https://zh.wikipedia.org/wiki/系統檔案保護 "wikilink")，而補完計畫需要變更一個系統檔案，故當出現一個視窗，詢問是否要還原此系統檔案時，使用者必須選擇「不還原」此檔案，才能安裝成功。
 
 ## 不屬於Unicode補完計畫但內建其字碼表的軟體
 
@@ -152,7 +152,7 @@ JIS之中出現的所有漢字](../Page/Shift_JIS.md "wikilink")，和[香港增
 
   - [大五碼](../Page/大五碼.md "wikilink")（Big-5）
   - [中國海字集](../Page/中國海字集.md "wikilink")
-  - [Unicode](../Page/Unicode.md "wikilink")
+  - [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
 
 ## 參考文獻
 

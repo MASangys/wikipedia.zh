@@ -1,6 +1,6 @@
 [KDE_Mascot_Konqi_by_Tyson_Tan.png](https://zh.wikipedia.org/wiki/File:KDE_Mascot_Konqi_by_Tyson_Tan.png "fig:KDE_Mascot_Konqi_by_Tyson_Tan.png")
-**Konqi**是[KDE的](../Page/KDE.md "wikilink")[吉祥物](../Page/吉祥物.md "wikilink")。他是一只活泼开朗的卡通小绿龙。他最早是作为KDE帮助中心的卡通助手被引入KDE，后在KDE版本3.x期间正式成为KDE的吉祥物。Konqi是象征了KDE社区的一个代表性角色，在KDE软件的版本对话框、各种有关印刷物、会议演示文档和众多KDE的相关网站上均可见到他的身影。他迄今为止有过两版设计方案，第一版的设计者是[Stefan
-Spatz](../Page/Stefan_Spatz.md "wikilink")，而目前在使用的第二版设计则来自中国的[钛山](../Page/钛山.md "wikilink")（Tyson
+**Konqi**是[KDE的](../Page/KDE.md "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。他是一只活泼开朗的卡通小绿龙。他最早是作为KDE帮助中心的卡通助手被引入KDE，后在KDE版本3.x期间正式成为KDE的吉祥物。Konqi是象征了KDE社区的一个代表性角色，在KDE软件的版本对话框、各种有关印刷物、会议演示文档和众多KDE的相关网站上均可见到他的身影。他迄今为止有过两版设计方案，第一版的设计者是[Stefan
+Spatz](https://zh.wikipedia.org/wiki/Stefan_Spatz "wikilink")，而目前在使用的第二版设计则来自中国的[钛山](https://zh.wikipedia.org/wiki/钛山 "wikilink")（Tyson
 Tan）。
 
 ## 名字
@@ -19,7 +19,7 @@ the green dragon（小绿龙Konqi）”。
 
 **Kandalf**是在Konqi之前的KDE的第一任吉祥物。他是一位留着长长白胡须的老巫师。他头顶蓝色尖帽，身披蓝色长袍，脚穿一双红白相间横条的长袜，脚踏一双褐色的拖鞋。他手执一根魔杖，魔杖所及之处会迸出闪闪的红星。至于为何他长袍的口袋里会插着一根吃剩下的鱼骨头则一直是一个谜。
 
-Kandalf的造型酷似[迪士尼卡通电影](../Page/迪士尼.md "wikilink")[石中剑中的巫师角色](../Page/石中剑_\(电影\).md "wikilink")[梅林](../Page/梅林_\(亚瑟王传说\).md "wikilink")，也与[J·R·R·托尔金笔下的](../Page/J·R·R·托尔金.md "wikilink")[奇幻小说](../Page/奇幻小说.md "wikilink")[指环王中的人物](../Page/指环王.md "wikilink")[甘道夫神似](../Page/甘道夫.md "wikilink")。[微软公司在Office](../Page/微软公司.md "wikilink")
+Kandalf的造型酷似[迪士尼卡通电影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")[石中剑中的巫师角色](https://zh.wikipedia.org/wiki/石中剑_\(电影\) "wikilink")[梅林](https://zh.wikipedia.org/wiki/梅林_\(亚瑟王传说\) "wikilink")，也与[J·R·R·托尔金笔下的](https://zh.wikipedia.org/wiki/J·R·R·托尔金 "wikilink")[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")[指环王中的人物](https://zh.wikipedia.org/wiki/指环王 "wikilink")[甘道夫神似](../Page/甘道夫.md "wikilink")。[微软公司在Office](https://zh.wikipedia.org/wiki/微软公司 "wikilink")
 97到Office
 2003期间也起用过一位相似的[Office助手角色](../Page/Office助手.md "wikilink")。曾有分析认为KDE之所以会用Konqi来替换Kandalf是为了避免卷入[版权问题](../Page/盗版.md "wikilink")，但此说法从未得到KDE方面的承认。KDE对外宣称该决定是因为他们觉得Konqi很可爱。\[2\]
 
@@ -76,7 +76,7 @@ Katie在新版时的设定是住在Konqi隔壁的女孩子，至于是不是他�
 
 ### 钛山版Konqi设计
 
-钛山版的设计全部通过[知识共享BY-SA和](../Page/知识共享.md "wikilink")[LGPL进行双重授权](../Page/GNU_Lesser_General_Public_License.md "wikilink")。
+钛山版的设计全部通过[知识共享BY-SA和](../Page/知识共享.md "wikilink")[LGPL进行双重授权](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink")。
 
 <File:KDE> Mascot Konqi by Tyson Tan.png|新版设计的核心概念图。 <File:KDE> Women
 mascot Katie for KDE development applications.png|Katie和KDE开发工具软件。
@@ -152,7 +152,7 @@ SuperTuxKart.png|Konqi在SuperTuxKart中参赛，建模者是betharatux1，jymis
 
 ## 另见
 
-  - [电子松鼠Kiki](../Page/电子松鼠Kiki.md "wikilink")，自由绘画软件[Krita的吉祥物](../Page/Krita.md "wikilink")。
+  - [电子松鼠Kiki](https://zh.wikipedia.org/wiki/电子松鼠Kiki "wikilink")，自由绘画软件[Krita的吉祥物](../Page/Krita.md "wikilink")。
 
 ## 参考资料
 

@@ -1,35 +1,35 @@
-**AJAX**即“****”（非同步的[JavaScript與](../Page/JavaScript.md "wikilink")[XML技術](../Page/XML.md "wikilink")），指的是一套综合了多項技術的[瀏覽器端](../Page/瀏覽器.md "wikilink")[網頁開發技術](../Page/網頁.md "wikilink")。Ajax的概念由[傑西·詹姆士·賈瑞特所提出](../Page/傑西·詹姆士·賈瑞特.md "wikilink")\[1\]。
+**AJAX**即“****”（非同步的[JavaScript與](../Page/JavaScript.md "wikilink")[XML技術](../Page/XML.md "wikilink")），指的是一套综合了多項技術的[瀏覽器端](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[網頁開發技術](../Page/網頁.md "wikilink")。Ajax的概念由[傑西·詹姆士·賈瑞特所提出](../Page/傑西·詹姆士·賈瑞特.md "wikilink")\[1\]。
 
 传统的Web应用允许用户端填写表单（form），当送出表单时就向[網頁伺服器发送一个请求](../Page/網頁伺服器.md "wikilink")。伺服器接收并处理传来的表单，然后送回一个新的网页，但这个做法浪费了许多带宽，因为在前后两个页面中的大部分[HTML码往往是相同的](../Page/HTML.md "wikilink")。由于每次应用的沟通都需要向伺服器发送请求，应用的回應时间依赖于伺服器的回應时间。这导致了用户界面的回應比本機应用慢得多。
 
-与此不同，AJAX应用可以仅向伺服器发送并取回必須的数据，并在客户端采用JavaScript处理来自伺服器的回應。因为在伺服器和浏览器之间交换的数据大量减少，伺服器回應更快了。同时，很多的处理工作可以在发出请求的[客户端机器上完成](../Page/客户端.md "wikilink")，因此Web伺服器的负荷也减少了。
+与此不同，AJAX应用可以仅向伺服器发送并取回必須的数据，并在客户端采用JavaScript处理来自伺服器的回應。因为在伺服器和浏览器之间交换的数据大量减少，伺服器回應更快了。同时，很多的处理工作可以在发出请求的[客户端机器上完成](https://zh.wikipedia.org/wiki/客户端 "wikilink")，因此Web伺服器的负荷也减少了。
 
-类似于[DHTML或](../Page/DHTML.md "wikilink")[LAMP](../Page/LAMP.md "wikilink")，AJAX不是指一种单一的技术，而是有机地利用了一系列相关的技术。虽然其名称包含XML，但实际上数据格式可以由[JSON代替](../Page/JSON.md "wikilink")，进一步减少数据量，形成所谓的AJAJ。而客户端与服务器也并不需要异步。一些基于AJAX的“派生／合成”式（derivative/composite）的技术也正在出现，如[AFLAX](../Page/AFLAX.md "wikilink")
+类似于[DHTML或](https://zh.wikipedia.org/wiki/DHTML "wikilink")[LAMP](../Page/LAMP.md "wikilink")，AJAX不是指一种单一的技术，而是有机地利用了一系列相关的技术。虽然其名称包含XML，但实际上数据格式可以由[JSON代替](../Page/JSON.md "wikilink")，进一步减少数据量，形成所谓的AJAJ。而客户端与服务器也并不需要异步。一些基于AJAX的“派生／合成”式（derivative/composite）的技术也正在出现，如[AFLAX](https://zh.wikipedia.org/wiki/AFLAX "wikilink")
 
 ## 应用
 
-  - 運用[XHTML](../Page/XHTML.md "wikilink")+[CSS來表達資訊](../Page/CSS.md "wikilink")；
-  - 運用[JavaScript操作](../Page/JavaScript.md "wikilink")[DOM](../Page/文件物件模型.md "wikilink")（Document
+  - 運用[XHTML](../Page/XHTML.md "wikilink")+[CSS來表達資訊](https://zh.wikipedia.org/wiki/CSS "wikilink")；
+  - 運用[JavaScript操作](../Page/JavaScript.md "wikilink")[DOM](https://zh.wikipedia.org/wiki/文件物件模型 "wikilink")（Document
     Object Model）来執行動態效果；
   - 運用[XML和](../Page/XML.md "wikilink")[XSLT操作資料](../Page/XSLT.md "wikilink")
   - 運用[XMLHttpRequest或新的Fetch](../Page/XMLHttpRequest.md "wikilink")
     API與[網頁伺服器進行非同步資料交換](../Page/網頁伺服器.md "wikilink")；
-  - 注意：AJAX與[Flash](../Page/Adobe_Flash_Player.md "wikilink")、[Silverlight和](../Page/Silverlight.md "wikilink")[Java
-    Applet等](../Page/Java_Applet.md "wikilink")[RIA技術是有區分的](../Page/丰富互联网应用程序.md "wikilink")。
+  - 注意：AJAX與[Flash](../Page/Adobe_Flash_Player.md "wikilink")、[Silverlight和](https://zh.wikipedia.org/wiki/Silverlight "wikilink")[Java
+    Applet等](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")[RIA技術是有區分的](../Page/丰富互联网应用程序.md "wikilink")。
 
 ## 发展史
 
 上个世纪90年代，几乎所有的网站都由HTML页面实现，服务器处理每一个用户请求都需要重新加载网页。这样的处理方式效率不高。用户的体验是所有页面都会消失，再重新载入，即使只是一部分页面元素改变也要重新载入整个页面，不仅要刷新改变的部分，连没有变化的部分也要刷新。这会加重服务器的负担。
 
-这可以用[异步加载来解决](../Page/异步.md "wikilink")。1995年，JAVA语言的第一版发布，随之发布的的Java
+这可以用[异步加载来解决](https://zh.wikipedia.org/wiki/异步 "wikilink")。1995年，JAVA语言的第一版发布，随之发布的的Java
 applets（JAVA小程序）首次实现了异步加载。浏览器通过运行嵌入网页中的Java
 applets与服务器交换数据，不必刷新网页。1996年，Internet
 Explorer将iframe元素加入到HTML，支持局部刷新网页。
 
 1998年前后，Outlook Web
-Access小组写成了允许[客户端脚本发送HTTP请求](../Page/客户端脚本.md "wikilink")（[XMLHTTP](../Page/XMLHTTP.md "wikilink")）的第一个组件。该组件原属于微软Exchange
+Access小组写成了允许[客户端脚本发送HTTP请求](https://zh.wikipedia.org/wiki/客户端脚本 "wikilink")（[XMLHTTP](https://zh.wikipedia.org/wiki/XMLHTTP "wikilink")）的第一个组件。该组件原属于微软Exchange
 Server，并且迅速地成为了Internet Explorer 4.0\[2\]的一部分。部分观察家认为，Outlook Web
-Access是第一个应用了Ajax技术的成功的商业应用程序，并成为包括Oddpost的网络邮件产品在内的许多产品的领头羊。但是，2005年初，许多事件使得Ajax被大众所接受。[Google在它著名的交互应用程序中使用了异步通讯](../Page/Google.md "wikilink")，如[Google讨论组](../Page/Google讨论组.md "wikilink")、[Google地图](../Page/Google地图.md "wikilink")、[Google搜索建议](../Page/Google搜索建议.md "wikilink")、[Gmail等](../Page/Gmail.md "wikilink")。Ajax这个词由《*[Ajax:
+Access是第一个应用了Ajax技术的成功的商业应用程序，并成为包括Oddpost的网络邮件产品在内的许多产品的领头羊。但是，2005年初，许多事件使得Ajax被大众所接受。[Google在它著名的交互应用程序中使用了异步通讯](../Page/Google.md "wikilink")，如[Google讨论组](https://zh.wikipedia.org/wiki/Google讨论组 "wikilink")、[Google地图](../Page/Google地图.md "wikilink")、[Google搜索建议](https://zh.wikipedia.org/wiki/Google搜索建议 "wikilink")、[Gmail等](../Page/Gmail.md "wikilink")。Ajax这个词由《*[Ajax:
 A New Approach to Web
 Applications](https://web.archive.org/web/20061107032631/http://www.adaptivepath.com/publications/essays/archives/000385.php)*》一文所创，该文的迅速流传提高了人们使用该项技术的意识。另外，对Mozilla/Gecko的支持使得该技术走向成熟，变得更为简单易用。
 
@@ -37,13 +37,13 @@ Applications](https://web.archive.org/web/20061107032631/http://www.adaptivepath
 
 使用Ajax的最大优点，就是能在不更新整个页面的前提下维护数据。这使得Web应用程序更为迅捷地回应用户动作，并避免了在网络上发送那些没有改变的信息。
 
-Ajax不需要任何浏览器插件，但需要用户**允许[JavaScript在浏览器上执行](../Page/JavaScript.md "wikilink")**。就像[DHTML应用程序那样](../Page/DHTML.md "wikilink")，Ajax应用程序必须在众多不同的浏览器和平台上经过严格的测试。随着Ajax的成熟，一些简化Ajax使用方法的程序库也相继问世。同样，也出现了另一种辅助程序设计的技术，为那些不支持[JavaScript的用户提供替代功能](../Page/JavaScript.md "wikilink")。
+Ajax不需要任何浏览器插件，但需要用户**允许[JavaScript在浏览器上执行](../Page/JavaScript.md "wikilink")**。就像[DHTML应用程序那样](https://zh.wikipedia.org/wiki/DHTML "wikilink")，Ajax应用程序必须在众多不同的浏览器和平台上经过严格的测试。随着Ajax的成熟，一些简化Ajax使用方法的程序库也相继问世。同样，也出现了另一种辅助程序设计的技术，为那些不支持[JavaScript的用户提供替代功能](../Page/JavaScript.md "wikilink")。
 
-对应用Ajax最主要的批评就是，它可能破坏浏览器的后退與加入收藏書籤功能\[3\]。在动态更新页面的情况下，用户无法回到前一个页面状态，这是因为浏览器仅能记下历史记录中的[静态页面](../Page/静态页面.md "wikilink")。一个被完整读入的页面与一个已经被动态修改过的页面之间的可能差别非常微妙；用户通常都希望单击后退按钮，就能够取消他们的前一次操作，但是在Ajax应用程序中，却无法这样做。不过开发者已想出了种种办法来解决这个问题，[HTML5](../Page/HTML5.md "wikilink")
+对应用Ajax最主要的批评就是，它可能破坏浏览器的后退與加入收藏書籤功能\[3\]。在动态更新页面的情况下，用户无法回到前一个页面状态，这是因为浏览器仅能记下历史记录中的[静态页面](https://zh.wikipedia.org/wiki/静态页面 "wikilink")。一个被完整读入的页面与一个已经被动态修改过的页面之间的可能差别非常微妙；用户通常都希望单击后退按钮，就能够取消他们的前一次操作，但是在Ajax应用程序中，却无法这样做。不过开发者已想出了种种办法来解决这个问题，[HTML5](../Page/HTML5.md "wikilink")
 之前的方法大多是在用户单击后退按钮访问历史记录时，通过建立或使用一个隐藏的IFRAME来重现页面上的变更。（例如，当用户在Google
-Maps中单击后退时，它在一个隐藏的[IFRAME中进行搜索](../Page/IFRAME.md "wikilink")，然后将搜索结果反映到Ajax元素上，以便将应用程序状态恢复到当时的状态）。
+Maps中单击后退时，它在一个隐藏的[IFRAME中进行搜索](https://zh.wikipedia.org/wiki/IFRAME "wikilink")，然后将搜索结果反映到Ajax元素上，以便将应用程序状态恢复到当时的状态）。
 
-关于無法將狀態加入收藏或書籤的問題，[HTML5之前的一種方式是使用](../Page/HTML5.md "wikilink")[URL片断标识符](../Page/URL.md "wikilink")（通常被称为[锚点](../Page/锚点.md "wikilink")，即URL中\#后面的部分）来保持追蹤，允许用户回到指定的某个应用程序状态。（许多浏览器允许JavaScript动态更新锚点，这使得Ajax应用程序能够在更新显示内容的同时更新锚点。）[HTML5](../Page/HTML5.md "wikilink")
+关于無法將狀態加入收藏或書籤的問題，[HTML5之前的一種方式是使用](../Page/HTML5.md "wikilink")[URL片断标识符](https://zh.wikipedia.org/wiki/URL "wikilink")（通常被称为[锚点](https://zh.wikipedia.org/wiki/锚点 "wikilink")，即URL中\#后面的部分）来保持追蹤，允许用户回到指定的某个应用程序状态。（许多浏览器允许JavaScript动态更新锚点，这使得Ajax应用程序能够在更新显示内容的同时更新锚点。）[HTML5](../Page/HTML5.md "wikilink")
 以後可以直接操作瀏覽歷史，並以字串形式儲存網頁狀態，將網頁加入網頁收藏夾或書籤時狀態會被隱形地保留。上述兩個方法也可以同時解決無法後退的問題。
 
 进行Ajax开发时，网络延迟——即用户发出请求到服务器发出响应之间的间隔——需要慎重考虑。如果不给予用户明确的回应\[4\]，没有恰当的预读数据\[5\]，或者对XMLHttpRequest的不恰当处理\[6\]，都会使用户感到厌烦\[7\]。通常的解决方案是，使用一个可视化的组件来告诉用户系统正在进行后台操作并且正在读取数据和内容。
@@ -72,15 +72,15 @@ if (typeof XMLHttpRequest != "undefined") {
 }
 ```
 
-AJAX支持的[浏览器有](../Page/浏览器.md "wikilink")：[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Opera](../Page/Opera電腦瀏覽器.md "wikilink")、[Konqueror及Mac](../Page/Konqueror.md "wikilink")
+AJAX支持的[浏览器有](https://zh.wikipedia.org/wiki/浏览器 "wikilink")：[Internet
+Explorer](../Page/Internet_Explorer.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")、[Konqueror及Mac](../Page/Konqueror.md "wikilink")
 OS的[Safari](../Page/Safari.md "wikilink")。但是Opera不支持[XSL格式对象](../Page/XSL-FO.md "wikilink")，也不支持[XSLT](../Page/XSLT.md "wikilink")\[8\]。
 
 ## 开发挑战及解决方案
 
 对程序员而言，开发Ajax应用最头痛的问题莫过于以下几点：
 
-  - Ajax在本质上是一个浏览器端的技术，首先面临无可避免的第一个问题即是浏览器的兼容性问题。各家浏览器对于[JavaScript](../Page/JavaScript.md "wikilink")／[DOM](../Page/DOM.md "wikilink")／[CSS的支持总有部分不太相同或是有Bug](../Page/CSS.md "wikilink")，甚至同一浏览器的各个版本间对于[JavaScript](../Page/JavaScript.md "wikilink")／[DOM](../Page/DOM.md "wikilink")／[CSS的支持也有可能部分不一样](../Page/CSS.md "wikilink")。这导致程序员在写Ajax应用时花大部分的时间在[调试浏览器的兼容性而非在应用程序本身](../Page/调试.md "wikilink")。因此，目前大部分的Ajax链接库或开发框架大多以js链接库的形式存在，以定义更高阶的JavaScript
+  - Ajax在本质上是一个浏览器端的技术，首先面临无可避免的第一个问题即是浏览器的兼容性问题。各家浏览器对于[JavaScript](../Page/JavaScript.md "wikilink")／[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")／[CSS的支持总有部分不太相同或是有Bug](https://zh.wikipedia.org/wiki/CSS "wikilink")，甚至同一浏览器的各个版本间对于[JavaScript](../Page/JavaScript.md "wikilink")／[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")／[CSS的支持也有可能部分不一样](https://zh.wikipedia.org/wiki/CSS "wikilink")。这导致程序员在写Ajax应用时花大部分的时间在[调试浏览器的兼容性而非在应用程序本身](https://zh.wikipedia.org/wiki/调试 "wikilink")。因此，目前大部分的Ajax链接库或开发框架大多以js链接库的形式存在，以定义更高阶的JavaScript
     API、JavaScript对象（模板）、或者JavaScript Widgets来解决此问题。如prototype.js。
   - Ajax技术之主要目的在于局部交换客户端及服务器之间的数据。如同传统之主从架构，无可避免的会有部分的业务逻辑会实现在客户端，或部分在客户端部分在服务器。由于业务逻辑可能分散在客户端及服务器，且以不同之程序语言实现，这导致Ajax应用程序极难维护。如有使用者接口或业务逻辑之更动需求，再加上前一个JavaScript/DOM/CSS之兼容性问题，Ajax应用往往变成程序员的梦魇。针对业务逻辑分散的问题，Ajax开发框架大致可分为两类：
 
@@ -108,20 +108,20 @@ Ajax是以异步的方式向服务器提交需求。对服务器而言，其与�
 ### 工具
 
   - [ASP.NET AJAX
-    Extension（開發階段時代號Atlas）](http://ajax.asp.net/)，[微軟AJAX工具箱](../Page/微軟.md "wikilink")。
+    Extension（開發階段時代號Atlas）](http://ajax.asp.net/)，[微軟AJAX工具箱](https://zh.wikipedia.org/wiki/微軟 "wikilink")。
   - [jQuery](http://www.jquery.com/)，開源JS框架，寫得更少，做得更多。
   - [Dojo工具箱](http://dojotoolkit.org/)，AJAX/DHTML工具箱。
   - [Prototype](https://web.archive.org/web/20051123215647/http://prototype.conio.net/)，開放源代碼框架。
-  - [Buffalo](../Page/Buffalo.md "wikilink") Web Remoting（based on
-    prototype）
-  - [openrico](../Page/openrico.md "wikilink") JS UI component（based on
-    prototype）
+  - [Buffalo](https://zh.wikipedia.org/wiki/Buffalo "wikilink") Web
+    Remoting（based on prototype）
+  - [openrico](https://zh.wikipedia.org/wiki/openrico "wikilink") JS UI
+    component（based on prototype）
   - [PHPRPC](http://www.phprpc.org/)，開放源代碼多語言支持的跨平台的安全的Web遠程過程調用框架，讓Ajax編程更容易。
   - [Sajax](http://www.modernmethod.com/sajax/)，簡單AJAX工具箱
   - [Rialto](https://web.archive.org/web/20080905145630/http://rialto.application-servers.com/)，Rich
     Internet AppLication TOolkit.
-  - [MochiKit](http://mochikit.com/)一個自稱AJAX的輕量級js庫，支持[Json](../Page/Json.md "wikilink")。
-  - [OpenLaszlo](http://www.openlaszlo.org/)原本專注在[Flash作為表現層的](../Page/Adobe_Flash_Player.md "wikilink")[Laszlo將方向轉至AJAX](../Page/Laszlo.md "wikilink")。
+  - [MochiKit](http://mochikit.com/)一個自稱AJAX的輕量級js庫，支持[Json](https://zh.wikipedia.org/wiki/Json "wikilink")。
+  - [OpenLaszlo](http://www.openlaszlo.org/)原本專注在[Flash作為表現層的](../Page/Adobe_Flash_Player.md "wikilink")[Laszlo將方向轉至AJAX](https://zh.wikipedia.org/wiki/Laszlo "wikilink")。
   - [script.aculo.us](http://script.aculo.us/)為[Ruby on
     Rails量身打造的AJAX函式庫](../Page/Ruby_on_Rails.md "wikilink")，跨平台支援。
   - [Rico](http://openrico.sourceforge.net/)知名的開源碼的AJAX函式庫，跨平台支援。
@@ -143,16 +143,18 @@ Ajax是以异步的方式向服务器提交需求。对服务器而言，其与�
 ## 參見
 
   - [Google Web
-    Toolkit是一個前端使用JavaScript](../Page/Google_Web_Toolkit.md "wikilink")，後端使用[Java的AJAX](../Page/Java.md "wikilink")
-    framework，提供[WYSIWYG設計介面](../Page/WYSIWYG.md "wikilink")。
-  - [jQuery用于简化AJAX开发的Javascript函式庫](../Page/jQuery.md "wikilink")。
-  - [Prototype](../Page/Prototype_javascript.md "wikilink") AJAX函式庫。
-  - [Yahoo\! UI Library](../Page/Yahoo!_UI_Library.md "wikilink") is a
-    set of utilities and controls, written in JavaScript, for building
-    richly interactive web applications using techniques such as DOM
-    scripting, DHTML and AJAX.
+    Toolkit是一個前端使用JavaScript](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")，後端使用[Java的AJAX](../Page/Java.md "wikilink")
+    framework，提供[WYSIWYG設計介面](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")。
+  - [jQuery用于简化AJAX开发的Javascript函式庫](https://zh.wikipedia.org/wiki/jQuery "wikilink")。
+  - [Prototype](https://zh.wikipedia.org/wiki/Prototype_javascript "wikilink")
+    AJAX函式庫。
+  - [Yahoo\! UI
+    Library](https://zh.wikipedia.org/wiki/Yahoo!_UI_Library "wikilink")
+    is a set of utilities and controls, written in JavaScript, for
+    building richly interactive web applications using techniques such
+    as DOM scripting, DHTML and AJAX.
   - [Xajax知名的開源碼開發AJAX用PHP函式庫](../Page/Xajax.md "wikilink")。
-  - [ZK](../Page/ZK.md "wikilink")，开放源代码AJAX/XUL框架，[JAVA專用](../Page/JAVA.md "wikilink")。
+  - [ZK](../Page/ZK.md "wikilink")，开放源代码AJAX/XUL框架，[JAVA專用](https://zh.wikipedia.org/wiki/JAVA "wikilink")。
   - [ASP.NET
     AJAX](../Page/ASP.NET_AJAX.md "wikilink")，由微軟專為ASP.NET應用程式所開發的AJAX基礎架構。
   - [Web 2.0](../Page/Web_2.0.md "wikilink")，一种新的互联网概念

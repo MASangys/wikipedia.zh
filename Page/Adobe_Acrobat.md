@@ -1,12 +1,12 @@
 **Adobe
-Acrobat**是由**[Adobe公司](../Page/Adobe.md "wikilink")**所開發的電子文書處理軟體集，可用於閱讀、編輯、管理和共享[PDF文檔](../Page/PDF.md "wikilink")。
+Acrobat**是由**[Adobe公司](../Page/Adobe.md "wikilink")**所開發的電子文書處理軟體集，可用於閱讀、編輯、管理和共享[PDF文檔](https://zh.wikipedia.org/wiki/PDF "wikilink")。
 
 一般包含如下套件：
 
   - **Adobe
-    Acrobat**，包括專業版和標準版。用於對[PDF文件進行編輯](../Page/PDF.md "wikilink")、共享和管理，需要購買，而3D版本，除了專業版的功能，另外也支援立體向量圖片的轉檔。
+    Acrobat**，包括專業版和標準版。用於對[PDF文件進行編輯](https://zh.wikipedia.org/wiki/PDF "wikilink")、共享和管理，需要購買，而3D版本，除了專業版的功能，另外也支援立體向量圖片的轉檔。
   - **Acrobat Reader**（2003年至2014年期间，曾使用Adobe
-    Reader作为名称），用於閱讀[PDF文件](../Page/PDF.md "wikilink")，為免費發放。
+    Reader作为名称），用於閱讀[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")，為免費發放。
 
 ## 歷史
 
@@ -24,8 +24,8 @@ Acrobat**是由**[Adobe公司](../Page/Adobe.md "wikilink")**所開發的電子�
 | Farallon Computing      | Replica          |
 | Interleaf               | WorldView        |
 
-Acrobat在90年代後期成為實質上的標準格式，其它競爭產品漸漸走入歷史。這時又有許多新的競爭對手逐一出現，它們推出了其他的PDF相關軟體，其中有[Ghostscript](../Page/Ghostscript.md "wikilink")、[Foxit與](../Page/Foxit.md "wikilink")[Nitro
-PDF](../Page/Nitro_PDF.md "wikilink")，免費或需付費版本皆有，用於建立與修改PDF檔。Adobe同時也允許第三方開發Acrobat的外掛程式，以便賦予軟體更多額外功能。
+Acrobat在90年代後期成為實質上的標準格式，其它競爭產品漸漸走入歷史。這時又有許多新的競爭對手逐一出現，它們推出了其他的PDF相關軟體，其中有[Ghostscript](../Page/Ghostscript.md "wikilink")、[Foxit與](https://zh.wikipedia.org/wiki/Foxit "wikilink")[Nitro
+PDF](https://zh.wikipedia.org/wiki/Nitro_PDF "wikilink")，免費或需付費版本皆有，用於建立與修改PDF檔。Adobe同時也允許第三方開發Acrobat的外掛程式，以便賦予軟體更多額外功能。
 
 ### 產品名稱
 
@@ -80,19 +80,19 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td><ul>
 <li>支援PDF1.0版。</li>
 <li>隨附Acrobat Exchange 1（包含PDF Writer印表機驅動程式與Acrobat Exchange軟體）。</li>
-<li>Acrobat Distiller 1.0可從<a href="../Page/Post_Script.md" title="wikilink">Post Script建立PDF檔</a>（此階段沒有印表機驅動程式）。</li>
-<li>先推出<a href="../Page/Macintosh.md" title="wikilink">Macintosh版</a>，之後再推出<a href="../Page/DOS.md" title="wikilink">DOS版與</a><a href="../Page/Windows.md" title="wikilink">Windows</a> 3.1版。</li>
-<li>此版未提供零售或免費版，整套軟體連同Acrobat Reader售價為50美元。隨後<a href="../Page/IRS.md" title="wikilink">IRS買下發放Reader</a> 1.0的權力，用戶可透過IRS免費取得此軟體。</li>
+<li>Acrobat Distiller 1.0可從<a href="https://zh.wikipedia.org/wiki/Post_Script" title="wikilink">Post Script建立PDF檔</a>（此階段沒有印表機驅動程式）。</li>
+<li>先推出<a href="https://zh.wikipedia.org/wiki/Macintosh" title="wikilink">Macintosh版</a>，之後再推出<a href="../Page/DOS.md" title="wikilink">DOS版與</a><a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a> 3.1版。</li>
+<li>此版未提供零售或免費版，整套軟體連同Acrobat Reader售價為50美元。隨後<a href="https://zh.wikipedia.org/wiki/IRS" title="wikilink">IRS買下發放Reader</a> 1.0的權力，用戶可透過IRS免費取得此軟體。</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Windows_3.1.md" title="wikilink">Windows 3.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_3.1" title="wikilink">Windows 3.1</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Macintosh.md" title="wikilink">Macintosh</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Macintosh" title="wikilink">Macintosh</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -100,17 +100,17 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <tr class="even">
 <td><p>Adobe Acrobat 2</p></td>
 <td><p>1994年9月</p></td>
-<td><p><a href="../Page/Windows_3.1.md" title="wikilink">Windows 3.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_3.1" title="wikilink">Windows 3.1</a></p></td>
 <td><ul>
 <li>支援PDF 1.1或更早之版本。</li>
 <li>推出Acrobat Exchange 2.0。</li>
 <li>推出Acrobat Professional 2.0，包含完整Acrobat Exchange並加上Distiller。</li>
 <li>更新至2.1版本。</li>
-<li>首次推出Acrobat Catalog，採用<a href="../Page/Verity,_Inc..md" title="wikilink">Verity, Inc.技術</a>，可在PDF中建立搜尋索引。而搜尋功能需特殊版本的Acrobat Reader或Acrobat Exchange。</li>
+<li>首次推出Acrobat Catalog，採用<a href="https://zh.wikipedia.org/wiki/Verity,_Inc." title="wikilink">Verity, Inc.技術</a>，可在PDF中建立搜尋索引。而搜尋功能需特殊版本的Acrobat Reader或Acrobat Exchange。</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Macintosh.md" title="wikilink">Macintosh</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Macintosh" title="wikilink">Macintosh</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -126,17 +126,17 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <li>免費的Reader可支援搜尋功能，但非預設的下載版本。</li>
 <li>Acrobat 3.0：取代Acrobat Professional 2.1。此版包含Acrobat Catalog與Distiller印表機驅動程式。</li>
 <li>更新至3.02版本；3.02版推出進階表格功能與JavaScript。</li>
-<li><a href="../Page/Windows_3.1.md" title="wikilink">Windows 3.1的最終版本</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Windows_3.1" title="wikilink">Windows 3.1的最終版本</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Windows_3.1.md" title="wikilink">Windows 3.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_3.1" title="wikilink">Windows 3.1</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac OS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,7 +153,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac OS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165,7 +165,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td><ul>
 <li>支援PDF1.4或更早之版本。</li>
 <li>從Mac版中移除Acrobat 5.0 PDFWriter。</li>
-<li>更新至5.05版本，5.05是首次原生支援<a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X的版本</a>，同時也可執行於Mac OS 9。</li>
+<li>更新至5.05版本，5.05是首次原生支援<a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X的版本</a>，同時也可執行於Mac OS 9。</li>
 <li>推出Distiller Server 5.0。</li>
 <li>Acrobat Approval 5.0：此為精簡版的Acrobat，針對僅需使用數位簽名與儲存表格填寫等功能的用戶。</li>
 <li>Acrobat Reader 5.1：支援Adobe LiveCycle Reader Extensions（當時LiveCycle Reader Extension另有其名），例如儲存表格。</li>
@@ -185,7 +185,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -195,7 +195,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td><p>2003年4月</p></td>
 <td><p><a href="../Page/Windows_NT_4.0.md" title="wikilink">Windows NT 4.0SP</a>6</p></td>
 <td><ul>
-<li>此版不支援<a href="../Page/Linux.md" title="wikilink">Linux與</a><a href="../Page/Unix.md" title="wikilink">Unix</a>。</li>
+<li>此版不支援<a href="../Page/Linux.md" title="wikilink">Linux與</a><a href="https://zh.wikipedia.org/wiki/Unix" title="wikilink">Unix</a>。</li>
 <li>支援PDF1.5或更早之版本。此版可經由Microsoft Windows CryptoAPI支援PKI，無需另外安裝外掛程式。</li>
 <li>Acrobat 6.0 Professional：取代Acrobat 5.0並增加全新功能。Distriller印表機驅動程式改名為Adobe PDF、取消PDFWriter。整合新版Catalog，並且不支援舊版搜尋。</li>
 <li>Acrobat 6.0 Standard：內含Distriller但缺少Catalog、表格填寫和印前預檢等。</li>
@@ -221,7 +221,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -235,7 +235,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Windows_ME.md" title="wikilink">Windows ME</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_ME" title="wikilink">Windows ME</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -252,7 +252,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <li>推出Acrobat 7.0 Standard。</li>
 <li>推出Acrobat 7.0 Element（最低授權用戶數目為100名）。</li>
 <li>Acrobat 3D（僅提供Windows版）：包括Acrobat 7.0 Professional版的所有功能，並支援嵌入3D物件、從OpenGL軟體擷取3D物件的工具，以及將CAD文件轉成PDF物件的Adobe Acrobat 3D Toolkit。此外還包含一個可安裝於Unix的擷取工具。</li>
-<li>其餘LiveCycle產品包括LiveCycle Barcoded Forms、LiveCycle Document Security、<a href="../Page/LiveCycle_Reader_Extensions.md" title="wikilink">LiveCycle Reader Extensions</a>（先前稱為Document Server for Reader Extensions，此外也有其它名稱）、LiveCycle Forms（先前稱為Form Sever）、LiveCycle Form Manager、LiveCycle Policy Server以及LiveCycle Workflow。這些產品中部分為適用於大型企業的伺服器解決方案。僅有LiveCycle Designer隨附於Acrobat Professional。</li>
+<li>其餘LiveCycle產品包括LiveCycle Barcoded Forms、LiveCycle Document Security、<a href="https://zh.wikipedia.org/wiki/LiveCycle_Reader_Extensions" title="wikilink">LiveCycle Reader Extensions</a>（先前稱為Document Server for Reader Extensions，此外也有其它名稱）、LiveCycle Forms（先前稱為Form Sever）、LiveCycle Form Manager、LiveCycle Policy Server以及LiveCycle Workflow。這些產品中部分為適用於大型企業的伺服器解決方案。僅有LiveCycle Designer隨附於Acrobat Professional。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -262,7 +262,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -288,7 +288,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/AIX.md" title="wikilink">AIX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AIX" title="wikilink">AIX</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -316,7 +316,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a> 10.4或以上</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a> 10.4或以上</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -357,7 +357,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a> 10.X或以上</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a> 10.X或以上</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -404,13 +404,13 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Windows_7.md" title="wikilink">Windows 7</a> SP1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a> SP1</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a> 10.5或以上</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a> 10.5或以上</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -430,19 +430,19 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td><p>title = Adobe Unveils Next Generation Acrobat XI with New Cloud Services</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Windows_7.md" title="wikilink">Windows 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Windows_8.md" title="wikilink">Windows 8</a>/<a href="../Page/Windows_8.1.md" title="wikilink">8.1</a>/10</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a>/<a href="../Page/Windows_8.1.md" title="wikilink">8.1</a>/10</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a> 10.6或以上</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a> 10.6或以上</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -469,13 +469,13 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Windows_7.md" title="wikilink">Windows 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Windows_8.md" title="wikilink">Windows 8</a>/<a href="../Page/Windows_8.1.md" title="wikilink">8.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a>/<a href="../Page/Windows_8.1.md" title="wikilink">8.1</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a> 10.9或以上</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a> 10.9或以上</p></td>
 <td></td>
 <td></td>
 <td></td>

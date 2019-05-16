@@ -55,7 +55,7 @@ space），0xCA为选择性连字号（soft hyphen）。
 ## 参见
 
   - [ASCII](../Page/ASCII.md "wikilink")
-  - [Unicode](../Page/Unicode.md "wikilink")
+  - [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
 
 ## 外部链接
 

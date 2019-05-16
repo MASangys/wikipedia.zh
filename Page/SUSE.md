@@ -1,33 +1,34 @@
-**SUSE**（發音/ˈsuːsə/\[1\]）是[Linux作業系統的](../Page/Linux作業系統.md "wikilink")[發行版之一](../Page/Linux發行版.md "wikilink")，也是[德國的一個發行版](../Page/德國.md "wikilink")。SUSE屬於[Novell旗下的業務](../Page/Novell.md "wikilink")，它同時亦是Desktop
+**SUSE**（發音/ˈsuːsə/\[1\]）是[Linux作業系統的](https://zh.wikipedia.org/wiki/Linux作業系統 "wikilink")[發行版之一](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，也是[德國的一個發行版](https://zh.wikipedia.org/wiki/德國 "wikilink")。SUSE屬於[Novell旗下的業務](../Page/Novell.md "wikilink")，它同時亦是Desktop
 Linux Consortium的發起成員之一。
 
 ## 歷史
 
 [SUSELinuxcon2016.jpg](https://zh.wikipedia.org/wiki/File:SUSELinuxcon2016.jpg "fig:SUSELinuxcon2016.jpg")
 SUSE [Linux原是以](../Page/Linux.md "wikilink")[Slackware
-Linux為基礎](../Page/Slackware_Linux.md "wikilink")，並提供完整[德文使用界面的產品](../Page/德文.md "wikilink")。1992年
-[Peter McDonald成立了](../Page/Peter_McDonald.md "wikilink")[Softlanding
+Linux為基礎](https://zh.wikipedia.org/wiki/Slackware_Linux "wikilink")，並提供完整[德文使用界面的產品](https://zh.wikipedia.org/wiki/德文 "wikilink")。1992年
+[Peter
+McDonald成立了](https://zh.wikipedia.org/wiki/Peter_McDonald "wikilink")[Softlanding
 Linux
-System](../Page/Softlanding_Linux_System.md "wikilink")（[SLS](../Page/SLS.md "wikilink")）這個發行版。這套發行版包含的軟件非常多，更首次收錄了[X
-Window及](../Page/X_Window.md "wikilink")[TCP/IP等套件](../Page/TCP/IP.md "wikilink")。Slackware就是一個基於SLS的發行版。
+System](https://zh.wikipedia.org/wiki/Softlanding_Linux_System "wikilink")（[SLS](https://zh.wikipedia.org/wiki/SLS "wikilink")）這個發行版。這套發行版包含的軟件非常多，更首次收錄了[X
+Window及](https://zh.wikipedia.org/wiki/X_Window "wikilink")[TCP/IP等套件](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")。Slackware就是一個基於SLS的發行版。
 
-SuSE於1992年末創辦，目的是成為[UNIX技術公司](../Page/UNIX.md "wikilink")，專門製為[德国人推出量身訂作的SLS](../Page/德国.md "wikilink")/Slackware[軟件及](../Page/軟件.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")/Linux說明文件。1994年，他們首次推出了SLS/[Slackware的安裝光碟](../Page/Slackware.md "wikilink")，命名為S.u.S.E.
+SuSE於1992年末創辦，目的是成為[UNIX技術公司](../Page/UNIX.md "wikilink")，專門製為[德国人推出量身訂作的SLS](../Page/德国.md "wikilink")/Slackware[軟件及](https://zh.wikipedia.org/wiki/軟件 "wikilink")[UNIX](../Page/UNIX.md "wikilink")/Linux說明文件。1994年，他們首次推出了SLS/[Slackware的安裝光碟](../Page/Slackware.md "wikilink")，命名為S.u.S.E.
 Linux 1.0。其後它綜合了[Florian La
-Roche的](../Page/Florian_La_Roche.md "wikilink")[Jurix
-distribution](../Page/Jurix_distribution.md "wikilink")（也是一個基於Slackware的發行版），於1996年推出一個完全自家打造的發行版
+Roche的](https://zh.wikipedia.org/wiki/Florian_La_Roche "wikilink")[Jurix
+distribution](https://zh.wikipedia.org/wiki/Jurix_distribution "wikilink")（也是一個基於Slackware的發行版），於1996年推出一個完全自家打造的發行版
 - S.u.S.E. Linux 4.2。其後SUSE Linux採用了不少[Red
-Hat](../Page/Red_Hat.md "wikilink")
-Linux的特質。（使用[RPM及](../Page/RPM.md "wikilink")/etc/sysconfig）
+Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")
+Linux的特質。（使用[RPM及](https://zh.wikipedia.org/wiki/RPM "wikilink")/etc/sysconfig）
 
 "S.u.S.E."後來改稱/簡短為"SuSE"，意思為"Software-und
 System-Entwicklung"，那是一句德文，英文為"Software and system
 development"。現在這家公司的名字再度更改成SUSE
 Linux，"SUSE"一字已經不包含甚麼意義了。有非官方的謠言說"SUSE"同時是指德國電腦先驅[Konrad
-Zuse的一個](../Page/Konrad_Zuse.md "wikilink")[雙關語](../Page/雙關語.md "wikilink")。
+Zuse的一個](https://zh.wikipedia.org/wiki/Konrad_Zuse "wikilink")[雙關語](https://zh.wikipedia.org/wiki/雙關語 "wikilink")。
 
-2003年11月4日，[Novell表示將會對SUSE提出](../Page/Novell.md "wikilink")[收購](../Page/收購.md "wikilink")。收購的工作於2004年1月完成。Novell也向大家保證SUSE的開發工作仍會繼續下去，Novell更把公司內全線電腦的系統換成SUSE
+2003年11月4日，[Novell表示將會對SUSE提出](../Page/Novell.md "wikilink")[收購](https://zh.wikipedia.org/wiki/收購 "wikilink")。收購的工作於2004年1月完成。Novell也向大家保證SUSE的開發工作仍會繼續下去，Novell更把公司內全線電腦的系統換成SUSE
 LINUX，並同時表示將會把SUSE特有而優秀的系統管理程式 -
-[YaST](../Page/YaST.md "wikilink")2以[GPL授權釋出](../Page/GPL.md "wikilink")。
+[YaST](../Page/YaST.md "wikilink")2以[GPL授權釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 2005年8月4日，Novell公共關係科的領導及代言人 － Bruce Lowry表示，SUSE Linux
 Professional系列的開發將變得更開放以及讓社群參與當中的工作。新的開發計劃名為openSUSE，目的是為了吸引更多的使用者及開發人員。相比以往，現在所有的開發人員及使用者能夠測試SUSE的產品並一起開發新版本的SUSE。在以往，SUSE的開發工作都是於內部進行的。SUSE
@@ -67,10 +68,10 @@ Server。它可以免費取得，但如果不付款，它只提供30天的更新
 
 [Crystal_128_yast_bootmode.png](https://zh.wikipedia.org/wiki/File:Crystal_128_yast_bootmode.png "fig:Crystal_128_yast_bootmode.png")
 
-過往，SUSE有別於其他的Linux般發行版提供立即為他們的新版本提供免費下載。SUSE首先釋出盒裝，包含說明手冊的個人版（Personal）及專業版（Professional），然後才於幾個月後提供FTP網絡安裝。近年SUSE有提供特別的專業版本，該版本缺少一些商業軟體，但此版本沒有提供一般的iso影像檔，而是要使用者下載一片小型的開機碟（[磁片或光碟](../Page/磁片.md "wikilink")）並使用上面所提及的網絡安裝。從9.2版開始，一片LiveDVD試用光碟可以免費取得。
+過往，SUSE有別於其他的Linux般發行版提供立即為他們的新版本提供免費下載。SUSE首先釋出盒裝，包含說明手冊的個人版（Personal）及專業版（Professional），然後才於幾個月後提供FTP網絡安裝。近年SUSE有提供特別的專業版本，該版本缺少一些商業軟體，但此版本沒有提供一般的iso影像檔，而是要使用者下載一片小型的開機碟（[磁片或光碟](https://zh.wikipedia.org/wiki/磁片 "wikilink")）並使用上面所提及的網絡安裝。從9.2版開始，一片LiveDVD試用光碟可以免費取得。
 
-現在，由於[openSUSE計劃](../Page/openSUSE.md "wikilink")，無論是SUSE Linux
-OSS，還是試用版光碟，都可以於SUSE Linux釋出新版本後馬上取得。
+現在，由於[openSUSE計劃](https://zh.wikipedia.org/wiki/openSUSE "wikilink")，無論是SUSE
+Linux OSS，還是試用版光碟，都可以於SUSE Linux釋出新版本後馬上取得。
 
 ## 参考文献
 
@@ -82,14 +83,15 @@ OSS，還是試用版光碟，都可以於SUSE Linux釋出新版本後馬上取�
 
 ## 参见
 
-  - [openSUSE](../Page/openSUSE.md "wikilink")
-  - [Novell Desktop](../Page/Novell_Desktop.md "wikilink")
-  - [Linux套件列表](../Page/Linux套件列表.md "wikilink")
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")
+  - [Novell
+    Desktop](https://zh.wikipedia.org/wiki/Novell_Desktop "wikilink")
+  - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
 
 {{-}}
 
 [ru:Дистрибутивы SUSE
-Linux](../Page/ru:Дистрибутивы_SUSE_Linux.md "wikilink")
+Linux](https://zh.wikipedia.org/wiki/ru:Дистрибутивы_SUSE_Linux "wikilink")
 
 [Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink")
 [Category:Linux公司](https://zh.wikipedia.org/wiki/Category:Linux公司 "wikilink")

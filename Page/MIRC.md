@@ -1,12 +1,12 @@
-**mIRC**是一個[Windows系統上的](../Page/Microsoft_Windows.md "wikilink")[即時通訊共享軟件](../Page/即時通訊軟件.md "wikilink")，由Khaled
-Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的基础上得到了极大的拓展](../Page/mIRC語言.md "wikilink")。其主要附加功能包括：
+**mIRC**是一個[Windows系統上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[即時通訊共享軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")，由Khaled
+Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的基础上得到了极大的拓展](https://zh.wikipedia.org/wiki/mIRC語言 "wikilink")。其主要附加功能包括：
 
   - 頻道[IRC自動管理](../Page/IRC.md "wikilink")
-  - 支持多人遊戲[伺服器](../Page/伺服器.md "wikilink")
+  - 支持多人遊戲[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
   - 内置MP3播放器
   - 網頁parser（多數用於觀看搜尋結果或標題）
-  - DCC、[HTTP及IRC伺服器](../Page/HTTP.md "wikilink")
-  - 遊戲平台（這些遊戲多被稱為[mIRC遊戲](../Page/mIRC遊戲.md "wikilink")）
+  - DCC、[HTTP及IRC伺服器](https://zh.wikipedia.org/wiki/HTTP "wikilink")
+  - 遊戲平台（這些遊戲多被稱為[mIRC遊戲](https://zh.wikipedia.org/wiki/mIRC遊戲 "wikilink")）
 
 它是一個很知名的軟件，曾在2004年內於CNET的[download.com](http://www.download.com/)上被下載七百萬次。而在[Neilsen網上排名](http://www.internetnews.com/stats/article.php/3096631)調查中，mIRC是2003年最受欢迎的10大网络软件之一。它的成名可能是很多mIRC的用戶會誤以為他們所用的協議與軟件的名稱相同，所以他們會想到連到“mIRC伺服器”或“加入mIRC頻道”。
 
@@ -14,9 +14,9 @@ Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的�
 
   - 同時連接至多個伺服器（新增在版本6.0）
   - 高智能的事項性及指令性的程式語言
-  - \-{zh-tw:支援;zh-cn:支持}-基本[CTCP](../Page/CTCP.md "wikilink")
+  - \-{zh-tw:支援;zh-cn:支持}-基本[CTCP](https://zh.wikipedia.org/wiki/CTCP "wikilink")
   - \-{zh-tw:支援;zh-cn:支持}-CTCP的音訊（可播放[MP3](../Page/MP3.md "wikilink")、[WAV和](../Page/WAV.md "wikilink")[MIDI](../Page/MIDI.md "wikilink")）
-  - \-{zh-tw:支援;zh-cn:支持}-[DCC的交談及檔案發送](../Page/DCC.md "wikilink")
+  - \-{zh-tw:支援;zh-cn:支持}-[DCC的交談及檔案發送](https://zh.wikipedia.org/wiki/DCC "wikilink")
   - 能停止下载隱藏的木馬
   - 檔案伺服器（由DCC交談控制）允許用戶瀏覽和下載指定的檔案
   - 支持ANSI-風格和mIRC-風格的文字

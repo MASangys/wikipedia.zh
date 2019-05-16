@@ -1,10 +1,11 @@
 **Arch Linux**（或 **Arch** )\[1\]）是一款基于
-[x86-64](../Page/x86-64.md "wikilink") 架构的
+[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") 架构的
 [Linux发行版](../Page/Linux发行版.md "wikilink")
 \[2\]。系统主要由[自由和](../Page/自由软件.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")\[3\]组成，支持社区参与。系统设计以
 [KISS原则](../Page/KISS原则.md "wikilink")（保持简单和愚蠢）为总体指导原则，注重代码正确、优雅和极简主义，期待用户能够愿意去理解系统的操作\[4\]。Arch
-Linux 系统安装、删除和更新软件的[软件包管理器叫做](../Page/软件包管理器.md "wikilink")
-[pacman](../Page/pacman.md "wikilink")。
+Linux
+系统安装、删除和更新软件的[软件包管理器叫做](https://zh.wikipedia.org/wiki/软件包管理器 "wikilink")
+[pacman](https://zh.wikipedia.org/wiki/pacman "wikilink")。
 
 Arch Linux
 采用[滾動發行模式来获取系统更新和软件的最新版本](../Page/滾動發行.md "wikilink")。系统安装映像只简单地包含系统主要元件。\[5\]
@@ -18,18 +19,22 @@ Arch Linux 以外的领域。\[9\]
   - 由[加拿大程式設計師兼吉他手](../Page/加拿大.md "wikilink") Judd Vinet 从 2001 年早期开始开发
     Arch Linux，并在 2002 年 3月 11 日正式发行 0.1 版。
   - 2007 下半年，Judd Vinet 退出了 Arch Linux 的开发而交给 [Aaron
-    Griffin](../Page/Aaron_Griffin.md "wikilink") 接手。\[10\]
+    Griffin](https://zh.wikipedia.org/wiki/Aaron_Griffin "wikilink")
+    接手。\[10\]
   - 2012 年 7 月发行的 Arch Linux 安装 [ISO
-    映像开始放弃安装框架转为使用不同的辅助脚本](../Page/ISO_映像.md "wikilink")。\[11\]
+    映像开始放弃安装框架转为使用不同的辅助脚本](https://zh.wikipedia.org/wiki/ISO_映像 "wikilink")。\[11\]
     并逐步开始将初始化系统迁移至 [Systemd](../Page/Systemd.md "wikilink") 。
-  - 2017 年 1 月，宣布将逐步放弃 [i686](../Page/P6_微架構.md "wikilink") 架构的支持，2017 年
-    2 月发布的安装介质中将不再包含 [i686](../Page/P6_微架構.md "wikilink") 环境。\[12\]
+  - 2017 年 1 月，宣布将逐步放弃
+    [i686](https://zh.wikipedia.org/wiki/P6_微架構 "wikilink")
+    架构的支持，2017 年 2 月发布的安装介质中将不再包含
+    [i686](https://zh.wikipedia.org/wiki/P6_微架構 "wikilink") 环境。\[12\]
 
 ## 设计及原则
 
-Arch Linux 是由二进制[軟體包組成的](../Page/軟體包.md "wikilink")，這些軟體包會针对
-[x86-64](../Page/x86-64.md "wikilink") 优化以配合目前的硬體。類似
-[Ports](../Page/Ports.md "wikilink")/[ebuild](../Page/ebuild.md "wikilink")
+Arch Linux
+是由二进制[軟體包組成的](https://zh.wikipedia.org/wiki/軟體包 "wikilink")，這些軟體包會针对
+[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") 优化以配合目前的硬體。類似
+[Ports](../Page/Ports.md "wikilink")/[ebuild](https://zh.wikipedia.org/wiki/ebuild "wikilink")
 也在 Arch Linux 上發展，也就是「Arch Build System」。
 
 Arch Linux
@@ -48,33 +53,33 @@ Arch Linux
 
 [Archlinux-gnome.png](https://zh.wikipedia.org/wiki/File:Archlinux-gnome.png "fig:Archlinux-gnome.png")
 Arch
-Linux是针对特定处理器而优化过的，能够更好地利用[CPU周期以提高性能](../Page/CPU.md "wikilink")。相比[Debian](../Page/Debian.md "wikilink")/[Ubuntu](../Page/Ubuntu.md "wikilink")、[SUSE](../Page/SUSE.md "wikilink")、[RedHat](../Page/RedHat.md "wikilink")/[Fedora等其他发行版](../Page/Fedora.md "wikilink")，Arch
+Linux是针对特定处理器而优化过的，能够更好地利用[CPU周期以提高性能](https://zh.wikipedia.org/wiki/CPU "wikilink")。相比[Debian](../Page/Debian.md "wikilink")/[Ubuntu](../Page/Ubuntu.md "wikilink")、[SUSE](../Page/SUSE.md "wikilink")、[RedHat](https://zh.wikipedia.org/wiki/RedHat "wikilink")/[Fedora等其他发行版](../Page/Fedora.md "wikilink")，Arch
 Linux属于轻量级选手，其简单的设计让它容易被轻松扩展和配置成为任何想要的系统类型。
 
 ### 特有的-{zh-hans:包; zh-hant:套件}-管理系统
 
 通过二进制-{zh-hans:包;
-zh-hant:套件}-管理系统[pacman](../Page/pacman.md "wikilink")，仅需一个-{zh-hans:命令;
-zh-hant:指令}-就能完成安装、升级等多个操作。同时也附带一个类似[ports的](../Page/ports.md "wikilink")-{zh-hans:包;
+zh-hant:套件}-管理系统[pacman](https://zh.wikipedia.org/wiki/pacman "wikilink")，仅需一个-{zh-hans:命令;
+zh-hant:指令}-就能完成安装、升级等多个操作。同时也附带一个类似[ports的](https://zh.wikipedia.org/wiki/ports "wikilink")-{zh-hans:包;
 zh-hant:套件}-构建系统ABS（Arch Build System）。
 
 ### 滾動更新
 
-與[Gentoo類似](../Page/Gentoo.md "wikilink")，不同於其他大部分主流Linux發行版比如[Fedora和](../Page/Fedora.md "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")。Arch
+與[Gentoo類似](https://zh.wikipedia.org/wiki/Gentoo "wikilink")，不同於其他大部分主流Linux發行版比如[Fedora和](../Page/Fedora.md "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")。Arch
 Linux並沒有跨版本升級的概念，通過更新，任何時期的Arch
-Linux都可以[滾動更新到最新版本](../Page/滾動更新.md "wikilink")。
+Linux都可以[滾動更新到最新版本](https://zh.wikipedia.org/wiki/滾動更新 "wikilink")。
 
 ## 缺点
 
   - 安装过程简陋，缺乏智能直观的错误处理，需要用户有一定的Linux环境常识才能正确安装使用。
   - 包管理系统pacman在升级过程缺乏对系统核心组件的回溯保护，如升级的Kernel有问题，即导致系统无法启动。
-  - 系统软件缺乏严谨的测试管理机制，稳定性、可靠性不如[Redhat](../Page/Redhat.md "wikilink")、[CentOS](../Page/CentOS.md "wikilink")、[Debian等发行版](../Page/Debian.md "wikilink")\[16\]，难以在企业用户中推广。
+  - 系统软件缺乏严谨的测试管理机制，稳定性、可靠性不如[Redhat](https://zh.wikipedia.org/wiki/Redhat "wikilink")、[CentOS](../Page/CentOS.md "wikilink")、[Debian等发行版](../Page/Debian.md "wikilink")\[16\]，难以在企业用户中推广。
 
 ## \-{zh-hans:包; zh-hant:套件}-管理系统
 
 ### Pacman
 
-[pacman](../Page/pacman.md "wikilink") 是 Arch Linux
+[pacman](https://zh.wikipedia.org/wiki/pacman "wikilink") 是 Arch Linux
 的软件包管理器，具有依赖处理和构建软件包的功能。
 
 ### 軟件倉庫
@@ -102,7 +107,7 @@ Linux都可以[滾動更新到最新版本](../Page/滾動更新.md "wikilink")�
 *unstable*仓库已在2008年7月撤销，其中的大部分软件包也已移动至其他仓库。\[18\]
 在官方仓库以外还存在一些非官方的用户仓库，其中最知名的是托管在Arch
 Linux站点上的[Arch User
-Repository](../Page/#AUR.md "wikilink")（AUR）。此外也有不少用户独立建立的非官方仓库。\[19\]
+Repository](https://zh.wikipedia.org/wiki/#AUR "wikilink")（AUR）。此外也有不少用户独立建立的非官方仓库。\[19\]
 
 ### ABS
 
@@ -122,20 +127,22 @@ AUR被称为Arch的新软件包的发源地，在AUR里用户贡献出他们自�
 
 ## 衍生發行
 
-官方的Arch安裝程序是基於[CLI命令行界面](../Page/CLI.md "wikilink"),對於那些需要[GUI圖形界面安裝環境的用戶](../Page/GUI.md "wikilink")，可以選擇這些Live
+官方的Arch安裝程序是基於[CLI命令行界面](https://zh.wikipedia.org/wiki/CLI "wikilink"),對於那些需要[GUI圖形界面安裝環境的用戶](https://zh.wikipedia.org/wiki/GUI "wikilink")，可以選擇這些Live
 CD:
 
   - [ArchBang](../Page/ArchBang.md "wikilink") -
     一个默认使用[OpenBox桌面环境的发行版](../Page/Openbox.md "wikilink")。
   - [Manjaro Linux](../Page/Manjaro_Linux.md "wikilink") -
     一个默认使用[XFCE桌面环境的发行版](../Page/Xfce.md "wikilink")。
-  - [Chakra GNU/Linux](../Page/Chakra_GNU/Linux.md "wikilink") - Chakra
-    项目发布的半滚动发行版。
-  - [Antergos](../Page/Antergos.md "wikilink") - 一个提供包括GNOME
+  - [Chakra
+    GNU/Linux](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")
+    - Chakra 项目发布的半滚动发行版。
+  - [Antergos](https://zh.wikipedia.org/wiki/Antergos "wikilink") -
+    一个提供包括GNOME
     3（默认）、Cinnamon、Razor-qt、Base、KDE和Xfce多种桌面环境安装的发行版（安装时可选）。
   - [Parabola
-    GNU/Linux-libre](../Page/Parabola_GNU/Linux-libre.md "wikilink") -
-    基于 Arch Linux 的一个完全自由的 GNU/Linux
+    GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink")
+    - 基于 Arch Linux 的一个完全自由的 GNU/Linux
     发行版，被收录在[自由软件基金会的完全自由发行版列表](https://www.gnu.org/distros/free-distros.en.html)中。
 
 其他流行的衍生發行版包括Arch Linux ARM等。\[21\]
@@ -240,9 +247,9 @@ Arch Linux 的首个版本发行于 2002 年，但是发行周期较不规律 \[
   - [Linux](../Page/Linux.md "wikilink")
   - [Arch之道（来自Arch
     Linux官方Wiki）](https://wiki.archlinux.org/index.php/The_Arch_Way_\(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87\))
-  - [Chakra](../Page/Chakra_GNU/Linux.md "wikilink")
+  - [Chakra](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")
   - [Manjaro Linux](../Page/Manjaro_Linux.md "wikilink")
-  - [Antergos](../Page/Antergos.md "wikilink")
+  - [Antergos](https://zh.wikipedia.org/wiki/Antergos "wikilink")
 
 ## 注释
 

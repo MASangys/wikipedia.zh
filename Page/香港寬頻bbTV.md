@@ -1,23 +1,23 @@
-**香港寬頻bbTV**（）於2003年啟播，2017年1月1日停播，是[香港的](../Page/香港.md "wikilink")[收費電視台之一](../Page/收費電視.md "wikilink")，前稱**香港寬頻電視**及**香港寬頻數碼電視**，是[香港寬頻有限公司之全資附屬公司](../Page/香港寬頻有限公司.md "wikilink")[香港寬頻網絡有限公司](../Page/香港寬頻網絡有限公司.md "wikilink")（「香港寬頻」）所提供的服務之一，以私有的自家[寬頻網絡技術傳送電視訊號](../Page/OTT.md "wikilink")。
+**香港寬頻bbTV**（）於2003年啟播，2017年1月1日停播，是[香港的](../Page/香港.md "wikilink")[收費電視台之一](https://zh.wikipedia.org/wiki/收費電視 "wikilink")，前稱**香港寬頻電視**及**香港寬頻數碼電視**，是[香港寬頻有限公司之全資附屬公司](https://zh.wikipedia.org/wiki/香港寬頻有限公司 "wikilink")[香港寬頻網絡有限公司](https://zh.wikipedia.org/wiki/香港寬頻網絡有限公司 "wikilink")（「香港寬頻」）所提供的服務之一，以私有的自家[寬頻網絡技術傳送電視訊號](https://zh.wikipedia.org/wiki/OTT "wikilink")。
 
-由於香港寬頻數碼電視獲[廣播事務管理局界定為](../Page/廣播事務管理局.md "wikilink")[互聯網電視](../Page/網絡電視.md "wikilink")，所以毋需領取電視台牌照，亦不受《廣播條例》監管，只受《淫褻及不雅物品管制條例》監管。
+由於香港寬頻數碼電視獲[廣播事務管理局界定為](../Page/廣播事務管理局.md "wikilink")[互聯網電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")，所以毋需領取電視台牌照，亦不受《廣播條例》監管，只受《淫褻及不雅物品管制條例》監管。
 
 ## 歷史
 
 2003年8月，「**香港寬頻電視**」啟播。
 
-2005年，香港寬頻電視更名為「**香港寬頻數碼電視**」，同時與[美亞電視合作引入多個香港電影台](../Page/美亞電視.md "wikilink")，以「煲戲煲劇的至強選擇」作號召，並將舊有的動畫、劇集、電影共「八大頻道」大肆宣傳\[1\]。
+2005年，香港寬頻電視更名為「**香港寬頻數碼電視**」，同時與[美亞電視合作引入多個香港電影台](https://zh.wikipedia.org/wiki/美亞電視 "wikilink")，以「煲戲煲劇的至強選擇」作號召，並將舊有的動畫、劇集、電影共「八大頻道」大肆宣傳\[1\]。
 
-2007年5月，香港寬頻數碼電視更名為「**香港寬頻bbTV**」，同時引入[AXN](../Page/AXN.md "wikilink")、[半島電視台](../Page/半島電視台.md "wikilink")、[MGM等多個外國頻道](../Page/MGM.md "wikilink")，並以衝著[香港有線電視而來的口號](../Page/香港有線電視.md "wikilink")「無需有線，一樣精彩」為宣傳口號(但比較兩者的頻道組合，bbTV的頻道與有線其實不盡相同)，為消費者提供另一個相對廉宜的收費電視平台選擇。
+2007年5月，香港寬頻數碼電視更名為「**香港寬頻bbTV**」，同時引入[AXN](../Page/AXN.md "wikilink")、[半島電視台](https://zh.wikipedia.org/wiki/半島電視台 "wikilink")、[MGM等多個外國頻道](https://zh.wikipedia.org/wiki/MGM "wikilink")，並以衝著[香港有線電視而來的口號](../Page/香港有線電視.md "wikilink")「無需有線，一樣精彩」為宣傳口號(但比較兩者的頻道組合，bbTV的頻道與有線其實不盡相同)，為消費者提供另一個相對廉宜的收費電視平台選擇。
 \[2\]。
 
-2008年，香港寬頻bbTV推出可收看[無綫電視及](../Page/無綫電視.md "wikilink")[亞洲電視高清節目之](../Page/亞洲電視.md "wikilink")[機頂盒](../Page/機頂盒.md "wikilink")，以配合[地面電視數碼廣播](../Page/香港數碼地面電視廣播.md "wikilink")。但有關高清節目乃透過[大氣電波及大廈](../Page/大氣電波.md "wikilink")[公共天線](../Page/公共天線.md "wikilink")，而非bbTV平台播放。
+2008年，香港寬頻bbTV推出可收看[無綫電視及](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[亞洲電視高清節目之](../Page/亞洲電視.md "wikilink")[機頂盒](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")，以配合[地面電視數碼廣播](../Page/香港數碼地面電視廣播.md "wikilink")。但有關高清節目乃透過[大氣電波及大廈](https://zh.wikipedia.org/wiki/大氣電波 "wikilink")[公共天線](https://zh.wikipedia.org/wiki/公共天線 "wikilink")，而非bbTV平台播放。
 
-2012年，原[香港寬頻主席](../Page/香港寬頻網絡有限公司.md "wikilink")[王維基出售香港寬頻予](../Page/王維基.md "wikilink")[CVC
+2012年，原[香港寬頻主席](https://zh.wikipedia.org/wiki/香港寬頻網絡有限公司 "wikilink")[王維基出售香港寬頻予](../Page/王維基.md "wikilink")[CVC
 Capital
-Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港寬頻bbTV停止服務，結束其接近14年的業務。
+Partners](https://zh.wikipedia.org/wiki/CVC_Capital_Partners "wikilink")。2017年1月1日，香港寬頻bbTV停止服務，結束其接近14年的業務。
 
-自2012年香港寬頻賣盤後直到2017年停止服務，香港寬頻為了減省資源，取消了多條頻道。除301台[KidsCo是全球停播外](../Page/KidsCo.md "wikilink")，其他取消的頻道是和頻道供應商取消續約，及停止購買片集和自行製作內容。
+自2012年香港寬頻賣盤後直到2017年停止服務，香港寬頻為了減省資源，取消了多條頻道。除301台[KidsCo是全球停播外](https://zh.wikipedia.org/wiki/KidsCo "wikilink")，其他取消的頻道是和頻道供應商取消續約，及停止購買片集和自行製作內容。
 
 ## 曾播放頻道
 
@@ -34,18 +34,18 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="odd">
 <td style="text-align: center;"><p><span style=>不詳</span></p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p><a href="../Page/美亞電視1台.md" title="wikilink">美亞電視1台</a>（香港影視台）</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/美亞電視1台" title="wikilink">美亞電視1台</a>（香港影視台）</p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>28</p></td>
-<td style="text-align: center;"><p><a href="../Page/香港體育台.md" title="wikilink">香港體育台</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/香港體育台" title="wikilink">香港體育台</a></p></td>
 <td style="text-align: center;"><p>因香港寬頻電視縮減製作開支而停播</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>30</p></td>
-<td style="text-align: center;"><p><a href="../Page/蓮花衛視.md" title="wikilink">蓮花衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蓮花衛視" title="wikilink">蓮花衛視</a></p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -57,7 +57,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>27</p></td>
-<td style="text-align: center;"><p><a href="../Page/歐洲體育頻道#Eurosportnews.md" title="wikilink">Eurosportnews</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/歐洲體育頻道#Eurosportnews" title="wikilink">Eurosportnews</a></p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -69,7 +69,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>708</p></td>
-<td style="text-align: center;"><p><a href="../Page/新疆衛視.md" title="wikilink">新疆衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/新疆衛視" title="wikilink">新疆衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -94,7 +94,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="odd">
 <td style="text-align: center;"><p>2006年12月31日</p></td>
 <td style="text-align: center;"><p>57</p></td>
-<td style="text-align: center;"><p><a href="../Page/法語世界.md" title="wikilink">法語世界</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/法語世界" title="wikilink">法語世界</a></p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 </tr>
 <tr class="even">
@@ -142,7 +142,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="odd">
 <td style="text-align: center;"><p>2010年</p></td>
 <td style="text-align: center;"><p>709</p></td>
-<td style="text-align: center;"><p><a href="../Page/內蒙古衛視.md" title="wikilink">內蒙古衛視</a>（漢語）</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/內蒙古衛視" title="wikilink">內蒙古衛視</a>（漢語）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -154,7 +154,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="odd">
 <td style="text-align: center;"><p>2012年2月27日</p></td>
 <td style="text-align: center;"><p>714</p></td>
-<td style="text-align: center;"><p><a href="../Page/湖南衛視國際頻道.md" title="wikilink">湖南衛視國際頻道</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/湖南衛視國際頻道" title="wikilink">湖南衛視國際頻道</a></p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 </tr>
 <tr class="even">
@@ -226,7 +226,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="odd">
 <td style="text-align: center;"><p>2013年6月26日</p></td>
 <td style="text-align: center;"><p>704</p></td>
-<td style="text-align: center;"><p><a href="../Page/遼寧衛視.md" title="wikilink">遼寧衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/遼寧衛視" title="wikilink">遼寧衛視</a></p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 </tr>
 <tr class="even">
@@ -250,7 +250,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="odd">
 <td style="text-align: center;"><p>2014月1月1日</p></td>
 <td style="text-align: center;"><p>311</p></td>
-<td style="text-align: center;"><p><a href="../Page/Disney_Channel.md" title="wikilink">Disney Channel</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Disney_Channel" title="wikilink">Disney Channel</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -268,7 +268,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="even">
 <td style="text-align: center;"><p>2014月4月1日</p></td>
 <td style="text-align: center;"><p>412</p></td>
-<td style="text-align: center;"><p><a href="../Page/tvN_Asia.md" title="wikilink">tvN</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN</a></p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 </tr>
 <tr class="odd">
@@ -291,7 +291,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>310</p></td>
-<td style="text-align: center;"><p><a href="../Page/Sony_Channel_(Asia).md" title="wikilink">索尼台</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Sony_Channel_(Asia)" title="wikilink">索尼台</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -303,13 +303,13 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>707</p></td>
-<td style="text-align: center;"><p><a href="../Page/浙江衛視.md" title="wikilink">浙江衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>711</p></td>
-<td style="text-align: center;"><p><a href="../Page/重慶國際.md" title="wikilink">重慶國際</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/重慶國際" title="wikilink">重慶國際</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -328,7 +328,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 <tr class="even">
 <td style="text-align: center;"><p>2015年8月1日</p></td>
 <td style="text-align: center;"><p>313</p></td>
-<td style="text-align: center;"><p><a href="../Page/Discovery_Channel.md" title="wikilink">Discovery Channel</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Discovery_Channel" title="wikilink">Discovery Channel</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -339,7 +339,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>315</p></td>
-<td style="text-align: center;"><p><a href="../Page/Discovery_Science.md" title="wikilink">Discovery Science</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Discovery_Science" title="wikilink">Discovery Science</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -363,7 +363,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>324</p></td>
-<td style="text-align: center;"><p><a href="../Page/w:en:Discovery_Kids_(Asia).md" title="wikilink">Discovery Kids</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/w:en:Discovery_Kids_(Asia)" title="wikilink">Discovery Kids</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -465,13 +465,13 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>320</p></td>
-<td style="text-align: center;"><p><a href="../Page/Syfy_(亞洲).md" title="wikilink">Syfy Channel</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Syfy_(亞洲)" title="wikilink">Syfy Channel</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>321</p></td>
-<td style="text-align: center;"><p><a href="../Page/環球影劇頻道_(亞洲).md" title="wikilink">Universal Channel</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/環球影劇頻道_(亞洲)" title="wikilink">Universal Channel</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -507,7 +507,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>302</p></td>
-<td style="text-align: center;"><p><a href="../Page/Nickelodeon.md" title="wikilink">Nickelodeon</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Nickelodeon" title="wikilink">Nickelodeon</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -537,13 +537,13 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>404</p></td>
-<td style="text-align: center;"><p><a href="../Page/AMC_(亞洲).md" title="wikilink">AMC</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/AMC_(亞洲)" title="wikilink">AMC</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>408</p></td>
-<td style="text-align: center;"><p><a href="../Page/天映經典頻道.md" title="wikilink">天映經典頻道</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天映經典頻道" title="wikilink">天映經典頻道</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -609,7 +609,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>508</p></td>
-<td style="text-align: center;"><p><a href="../Page/中央電視台戲曲頻道.md" title="wikilink">中央電視台戲曲頻道</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/中央電視台戲曲頻道" title="wikilink">中央電視台戲曲頻道</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -621,7 +621,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>510</p></td>
-<td style="text-align: center;"><p><a href="../Page/優質生活台.md" title="wikilink">優質生活台</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/優質生活台" title="wikilink">優質生活台</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -657,55 +657,55 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>701</p></td>
-<td style="text-align: center;"><p><a href="../Page/深圳衛視.md" title="wikilink">深圳衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/深圳衛視" title="wikilink">深圳衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>702</p></td>
-<td style="text-align: center;"><p><a href="../Page/澳亞衛視.md" title="wikilink">澳亞衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/澳亞衛視" title="wikilink">澳亞衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>703</p></td>
-<td style="text-align: center;"><p><a href="../Page/雲南衛視.md" title="wikilink">雲南衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/雲南衛視" title="wikilink">雲南衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>705</p></td>
-<td style="text-align: center;"><p><a href="../Page/廣西衛視.md" title="wikilink">廣西衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廣西衛視" title="wikilink">廣西衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>706</p></td>
-<td style="text-align: center;"><p><a href="../Page/黑龍江衛視.md" title="wikilink">黑龍江衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑龍江衛視" title="wikilink">黑龍江衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>710</p></td>
-<td style="text-align: center;"><p><a href="../Page/陝西衛視.md" title="wikilink">陝西衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陝西衛視" title="wikilink">陝西衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>712</p></td>
-<td style="text-align: center;"><p><a href="../Page/河南衛視.md" title="wikilink">河南衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河南衛視" title="wikilink">河南衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>713</p></td>
-<td style="text-align: center;"><p><a href="../Page/江蘇衛視.md" title="wikilink">江蘇衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/江蘇衛視" title="wikilink">江蘇衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>715</p></td>
-<td style="text-align: center;"><p><a href="../Page/東方衛視.md" title="wikilink">東方衛視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/東方衛視" title="wikilink">東方衛視</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -723,7 +723,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>718</p></td>
-<td style="text-align: center;"><p><a href="../Page/道通天地.md" title="wikilink">道通天地</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/道通天地" title="wikilink">道通天地</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -735,19 +735,19 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>720</p></td>
-<td style="text-align: center;"><p><a href="../Page/好消息電視台.md" title="wikilink">好消息2台</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/好消息電視台" title="wikilink">好消息2台</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>729</p></td>
-<td style="text-align: center;"><p><a href="../Page/中央電視台新聞頻道.md" title="wikilink">中央電視台新聞頻道</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/中央電視台新聞頻道" title="wikilink">中央電視台新聞頻道</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>730</p></td>
-<td style="text-align: center;"><p><a href="../Page/中央電視台中文國際頻道.md" title="wikilink">中央電視台中文國際頻道</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/中央電視台中文國際頻道" title="wikilink">中央電視台中文國際頻道</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -765,7 +765,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>734</p></td>
-<td style="text-align: center;"><p><a href="../Page/亞洲新聞台.md" title="wikilink">亞洲新聞台</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/亞洲新聞台" title="wikilink">亞洲新聞台</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -777,7 +777,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>736</p></td>
-<td style="text-align: center;"><p><a href="../Page/中國環球電視網_(頻道).md" title="wikilink">中國環球電視網</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/中國環球電視網_(頻道)" title="wikilink">中國環球電視網</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -795,7 +795,7 @@ Partners](../Page/CVC_Capital_Partners.md "wikilink")。2017年1月1日，香港
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>750</p></td>
-<td style="text-align: center;"><p><a href="../Page/中國環球電視網法語頻道.md" title="wikilink">中國環球電視網法語頻道</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/中國環球電視網法語頻道" title="wikilink">中國環球電視網法語頻道</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>

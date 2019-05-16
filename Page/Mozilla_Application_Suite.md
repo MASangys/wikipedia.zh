@@ -1,31 +1,31 @@
 **Mozilla Application Suite**（原稱**Mozilla**，簡稱**Mozilla
-Suite**）是一個[跨平台的](../Page/跨平台.md "wikilink")[互聯網套件](../Page/互聯網套件.md "wikilink")。由未被[美國線上收購的](../Page/美國線上.md "wikilink")[網景公司發起](../Page/網景公司.md "wikilink")，基於[網景通訊家的源代码](../Page/網景通訊家.md "wikilink")。1998年至2003年由[Mozilla組織帶頭發展](../Page/Mozilla基金會.md "wikilink")，2003年至2006年由[Mozilla基金會維護](../Page/Mozilla基金會.md "wikilink")。Mozilla
+Suite**）是一個[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[互聯網套件](https://zh.wikipedia.org/wiki/互聯網套件 "wikilink")。由未被[美國線上收購的](https://zh.wikipedia.org/wiki/美國線上 "wikilink")[網景公司發起](https://zh.wikipedia.org/wiki/網景公司 "wikilink")，基於[網景通訊家的源代码](../Page/網景通訊家.md "wikilink")。1998年至2003年由[Mozilla組織帶頭發展](../Page/Mozilla基金會.md "wikilink")，2003年至2006年由[Mozilla基金會維護](../Page/Mozilla基金會.md "wikilink")。Mozilla
 Suite後來被[SeaMonkey取代](../Page/SeaMonkey.md "wikilink")，SeaMonkey由社群所維謢，基於與Mozilla
 Application Suite同一原始碼。
 
 Mozilla
-Suite的元件包括Navigator（[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")）、[Mozilla
+Suite的元件包括Navigator（[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")）、[Mozilla
 Mail &
-Newsgroups](../Page/Mozilla_Mail_&_Newsgroups.md "wikilink")（[電子郵件客戶端](../Page/電子郵件客戶端.md "wikilink")）、[Mozilla
-Composer](../Page/Mozilla_Composer.md "wikilink")（網頁開發軟體）及[ChatZilla](../Page/ChatZilla.md "wikilink")（IRC用戶端軟體）。該軟體的[程式碼是完全開放的](../Page/程式碼.md "wikilink")，可在[Linux](../Page/Linux.md "wikilink")、[Windows](../Page/Windows.md "wikilink")、[Mac
-OS X下執行](../Page/Mac_OS_X.md "wikilink")。
+Newsgroups](https://zh.wikipedia.org/wiki/Mozilla_Mail_&_Newsgroups "wikilink")（[電子郵件客戶端](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")）、[Mozilla
+Composer](https://zh.wikipedia.org/wiki/Mozilla_Composer "wikilink")（網頁開發軟體）及[ChatZilla](../Page/ChatZilla.md "wikilink")（IRC用戶端軟體）。該軟體的[程式碼是完全開放的](https://zh.wikipedia.org/wiki/程式碼 "wikilink")，可在[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
+OS X下執行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 [Netscape 6到](../Page/Netscape_6.md "wikilink")[Netscape
 7版本是基於Mozilla](../Page/Netscape_7.md "wikilink") Application
 Suite所開發。Mozilla
-Suite最後的官方版本是1.7.13。因為[Mozilla基金會將重心轉而開發](../Page/Mozilla基金會.md "wikilink")[Firefox和](../Page/Mozilla_Firefox.md "wikilink")[Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")。
+Suite最後的官方版本是1.7.13。因為[Mozilla基金會將重心轉而開發](../Page/Mozilla基金會.md "wikilink")[Firefox和](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")。
 
 ## 歷史和發展
 
 [Mozilla_Application_Suite_for_Mac_OS_9_Startup_Screen.png](https://zh.wikipedia.org/wiki/File:Mozilla_Application_Suite_for_Mac_OS_9_Startup_Screen.png "fig:Mozilla_Application_Suite_for_Mac_OS_9_Startup_Screen.png")
 
 在1998年3月，網景發布了大部分[Netscape
-Communicator中的開放原始碼](../Page/Netscape_Communicator.md "wikilink")。該程式的名稱將是Mozilla，由新成立的Mozilla組織在Mozilla.org網站上協調。雖然大部分原本的Communicator程式碼（包括排版引擎和前端相關代碼）被遺棄不久，Mozilla的組織最終成功地開發出一個全功能的[網際網路套件](../Page/網際網路套件.md "wikilink")，功能、穩定性和標準相容性超越了Communicator。
+Communicator中的開放原始碼](https://zh.wikipedia.org/wiki/Netscape_Communicator "wikilink")。該程式的名稱將是Mozilla，由新成立的Mozilla組織在Mozilla.org網站上協調。雖然大部分原本的Communicator程式碼（包括排版引擎和前端相關代碼）被遺棄不久，Mozilla的組織最終成功地開發出一個全功能的[網際網路套件](https://zh.wikipedia.org/wiki/網際網路套件 "wikilink")，功能、穩定性和標準相容性超越了Communicator。
 
 在美國線上的品牌下，Mozilla組織將繼續開發瀏覽器並管理Mozilla原始碼，直到2003年7月，這項任務被傳遞給Mozilla基金會。該基金會是一個非營利組織，主要由Mozilla組織的開發人員和員工組成，並擁有Mozilla商標（但不包括原始碼的版權，原始碼由個人和公司貢獻者保留）。它最初得到了美國線上、[IBM](../Page/IBM.md "wikilink")、[昇陽電腦](../Page/昇陽電腦.md "wikilink")、[紅帽公司和](../Page/紅帽公司.md "wikilink")[米奇·卡普爾的捐款](../Page/米奇·卡普爾.md "wikilink")。
 
 根據2003年4月2日發布的Mozilla發展路線圖，Mozilla組織計劃將開發工作集中在新的獨立應用程式上：Phoenix（現稱為[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")）和Minotaur（現稱為[Mozilla
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")）和Minotaur（現稱為[Mozilla
 Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")）。為了將套件與獨立產品區分開來，套件在市場上稱作“Mozilla
 Suite”或更長的“Mozilla Application Suite”。
 
@@ -42,10 +42,10 @@ Suite的占有率大約是0.1%。
 
 ## 參見
 
-  - [網頁瀏覽器列表](../Page/網頁瀏覽器列表.md "wikilink")
-  - [電子郵件客戶端列表](../Page/電子郵件客戶端列表.md "wikilink")
-  - [網頁瀏覽器比較](../Page/網頁瀏覽器比較.md "wikilink")
-  - [電子郵件客戶端比較](../Page/電子郵件客戶端比較.md "wikilink")
+  - [網頁瀏覽器列表](https://zh.wikipedia.org/wiki/網頁瀏覽器列表 "wikilink")
+  - [電子郵件客戶端列表](https://zh.wikipedia.org/wiki/電子郵件客戶端列表 "wikilink")
+  - [網頁瀏覽器比較](https://zh.wikipedia.org/wiki/網頁瀏覽器比較 "wikilink")
+  - [電子郵件客戶端比較](https://zh.wikipedia.org/wiki/電子郵件客戶端比較 "wikilink")
 
 ## 参考资料
 

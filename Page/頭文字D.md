@@ -1,40 +1,40 @@
 《**頭文字D**》（英語：**INITIAL D**，假名：**イニシャル・ディー**
-）是一部以[山道](../Page/山道.md "wikilink")[飆車為題材的](../Page/飆車.md "wikilink")[日本](../Page/日本.md "wikilink")[青年漫畫](../Page/青年漫畫.md "wikilink")，以及以[漫畫改編的](../Page/漫畫.md "wikilink")[動畫系列](../Page/動畫.md "wikilink")（包含[電視版](../Page/電視.md "wikilink")、[OVA與](../Page/OVA.md "wikilink")[電影版](../Page/電影.md "wikilink")）。漫畫作者為，自1995年起開始在[講談社的](../Page/講談社.md "wikilink")《[週刊Young
-Magazine](../Page/週刊Young_Magazine.md "wikilink")》上連載，連載至2013年7月結束，單行本全48卷，還有多本探討[汽車駕駛技巧的周邊專書](../Page/汽車.md "wikilink")。
+）是一部以[山道](https://zh.wikipedia.org/wiki/山道 "wikilink")[飆車為題材的](https://zh.wikipedia.org/wiki/飆車 "wikilink")[日本](../Page/日本.md "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，以及以[漫畫改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")（包含[電視版](https://zh.wikipedia.org/wiki/電視 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")）。漫畫作者為，自1995年起開始在[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young
+Magazine](../Page/週刊Young_Magazine.md "wikilink")》上連載，連載至2013年7月結束，單行本全48卷，還有多本探討[汽車駕駛技巧的周邊專書](https://zh.wikipedia.org/wiki/汽車 "wikilink")。
 
 作者重野秀一決定結束在《周刊Young
 Magazine》上的連載，于2014年5月17日推出最後一話，為這部經典作品劃上句點。截至2013年，全系列漫畫單行本累積發行量約為4800萬本，相關CD為700,000張，DVD為500,000片\[1\]。
 
 漫畫《[MF
-GHOST](../Page/MF_GHOST.md "wikilink")》為重野秀一在2013年完結《頭文字D》時隔4年後於《周刊Young
+GHOST](https://zh.wikipedia.org/wiki/MF_GHOST "wikilink")》為重野秀一在2013年完結《頭文字D》時隔4年後於《周刊Young
 Magazine》上再度連載的新賽車作品\[2\]。
 
 ## 概要
 
-「**頭文字**」在[日文裡是](../Page/日文.md "wikilink")「**[字首大寫](../Page/字首大寫.md "wikilink")**」的意思，英文是「**Initial**」，源自[歐洲語文中將名詞或專有名詞的第一個字母大寫化的習慣](../Page/歐洲.md "wikilink")，而「**D**」這個字雖然沒有很明確的說明，但作者曾在接受採訪時，確認書名中的英文字母「**D**」是代表「**Drift**」之意\[3\]。Drift本意是指漂流、漂泊的意思，但在[汽車駕駛技術中是指](../Page/汽車.md "wikilink")「甩尾跑法」（亦直譯為「漂移」），與另一種咬地跑法（Grip，亦稱為「抓地」）做出區別，注重的是在汽車過彎時利用[重心轉移或瞬間](../Page/重心.md "wikilink")[扭力輸出過大的方式](../Page/扭力.md "wikilink")，讓後[車輪產生暫時性抓地力喪失的情況](../Page/車輪.md "wikilink")，再利用後車輪抓地力的恢復與否，來控制車輛的[轉向能力](../Page/轉向.md "wikilink")。甩尾式駕駛法是一種非常流行日本[山路飆車活動場合的技巧](../Page/山路.md "wikilink")，另外一種常見到類似技巧的場合是[越野賽車比賽](../Page/越野賽車.md "wikilink")。
+「**頭文字**」在[日文裡是](https://zh.wikipedia.org/wiki/日文 "wikilink")「**[字首大寫](https://zh.wikipedia.org/wiki/字首大寫 "wikilink")**」的意思，英文是「**Initial**」，源自[歐洲語文中將名詞或專有名詞的第一個字母大寫化的習慣](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，而「**D**」這個字雖然沒有很明確的說明，但作者曾在接受採訪時，確認書名中的英文字母「**D**」是代表「**Drift**」之意\[3\]。Drift本意是指漂流、漂泊的意思，但在[汽車駕駛技術中是指](https://zh.wikipedia.org/wiki/汽車 "wikilink")「甩尾跑法」（亦直譯為「漂移」），與另一種咬地跑法（Grip，亦稱為「抓地」）做出區別，注重的是在汽車過彎時利用[重心轉移或瞬間](https://zh.wikipedia.org/wiki/重心 "wikilink")[扭力輸出過大的方式](https://zh.wikipedia.org/wiki/扭力 "wikilink")，讓後[車輪產生暫時性抓地力喪失的情況](https://zh.wikipedia.org/wiki/車輪 "wikilink")，再利用後車輪抓地力的恢復與否，來控制車輛的[轉向能力](https://zh.wikipedia.org/wiki/轉向 "wikilink")。甩尾式駕駛法是一種非常流行日本[山路飆車活動場合的技巧](https://zh.wikipedia.org/wiki/山路 "wikilink")，另外一種常見到類似技巧的場合是[越野賽車比賽](https://zh.wikipedia.org/wiki/越野賽車 "wikilink")。
 
 隨著故事的演進，也透露了「**D**」其實也可以是Dream，像Project D名稱的由來其實是凉介在接家業前，為了圓一個夢想而創立的。
 
-作者[重野秀一是個車迷](../Page/重野秀一.md "wikilink")，他在《頭文字D》裡使用許多關於汽車的細節考究架構一個虛構但逼真的故事，因此受到許多車迷與汽車專業媒體的討論。除了作者本身的緣故外，他找來日本非常有名、宗師級的甩尾派賽車手[土屋圭市擔任該作品的技術顧問](../Page/土屋圭市.md "wikilink")。土屋曾代表[豐田車隊出賽](../Page/豐田.md "wikilink")[法國](../Page/法國.md "wikilink")[利曼24小時耐久賽獲得亞軍](../Page/利曼24小時耐久賽.md "wikilink")，在日本他則是房車與甩尾賽車界的名人，綽號「甩尾王」（<span lang="ja">ドリキン</span>），他甚至曾在頭文字D動畫版中客串，替男主角父親昔年在賽車界的老朋友配音（其實就是扮演自己本人），以及在許多週邊討論駕駛技巧的相關商品上講評，包括一張以頭文字D為出發點、講述自己昔年經歷的[影音光碟產品](../Page/影音光碟.md "wikilink")《<span lang="ja">頭文字D
+作者[重野秀一是個車迷](../Page/重野秀一.md "wikilink")，他在《頭文字D》裡使用許多關於汽車的細節考究架構一個虛構但逼真的故事，因此受到許多車迷與汽車專業媒體的討論。除了作者本身的緣故外，他找來日本非常有名、宗師級的甩尾派賽車手[土屋圭市擔任該作品的技術顧問](../Page/土屋圭市.md "wikilink")。土屋曾代表[豐田車隊出賽](https://zh.wikipedia.org/wiki/豐田 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[利曼24小時耐久賽獲得亞軍](https://zh.wikipedia.org/wiki/利曼24小時耐久賽 "wikilink")，在日本他則是房車與甩尾賽車界的名人，綽號「甩尾王」（<span lang="ja">ドリキン</span>），他甚至曾在頭文字D動畫版中客串，替男主角父親昔年在賽車界的老朋友配音（其實就是扮演自己本人），以及在許多週邊討論駕駛技巧的相關商品上講評，包括一張以頭文字D為出發點、講述自己昔年經歷的[影音光碟產品](https://zh.wikipedia.org/wiki/影音光碟 "wikilink")《<span lang="ja">頭文字D
 番外編～ドリキン青春グラフティー～</span>》（頭文字D外傳-甩尾王的青春[素描](../Page/素描.md "wikilink")）。
 
-除最初的漫畫連載與單行本發行外，頭文字D也多次被改編成[電視動畫](../Page/電視動畫.md "wikilink")、[OVA以及](../Page/OVA.md "wikilink")[動畫電影](../Page/動畫電影.md "wikilink")。此外还推出了以漫畫劇情而衍生的小說、汽車駕駛技巧、故事設定解析專書以及畫冊，还有許多因應而生的動畫配樂[原聲帶](../Page/原聲帶.md "wikilink")、[電腦與](../Page/電腦.md "wikilink")[電視遊樂器軟體](../Page/電視遊樂器.md "wikilink")、[模型乃至](../Page/模型.md "wikilink")[多美小汽車玩具](../Page/多美_\(公司\).md "wikilink")。
+除最初的漫畫連載與單行本發行外，頭文字D也多次被改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、[OVA以及](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。此外还推出了以漫畫劇情而衍生的小說、汽車駕駛技巧、故事設定解析專書以及畫冊，还有許多因應而生的動畫配樂[原聲帶](https://zh.wikipedia.org/wiki/原聲帶 "wikilink")、[電腦與](https://zh.wikipedia.org/wiki/電腦 "wikilink")[電視遊樂器軟體](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")、[模型乃至](https://zh.wikipedia.org/wiki/模型 "wikilink")[多美小汽車玩具](../Page/多美_\(公司\).md "wikilink")。
 
 ## 故事簡介
 
-《頭文字D》的男主角[藤原拓海是一個剛考上](../Page/藤原拓海.md "wikilink")[駕照的](../Page/駕照.md "wikilink")18歲高中生，平日的他在[加油站打工](../Page/加油站.md "wikilink")，對於汽車一點概念也沒有，因此常被身邊愛車族的友人取笑。但是私底下，拓海打從13歲時起，就被父親藤原文太要求幫忙每天凌晨時開著車到山頂上的[溫泉飯店送](../Page/溫泉飯店.md "wikilink")[豆腐](../Page/豆腐.md "wikilink")，因此擁有非常豐富的駕駛經驗。身為昔日山路賽車手的文太，刻意利用送豆腐作為理由訓練兒子成為一名賽車手，他在車上的置杯架中放了一杯水，要求拓海在不讓杯中水溢出的前提下，安然將車開上山，藉此訓練出拓海對於汽車重心轉移與運動特性的絕佳敏銳觸感。
+《頭文字D》的男主角[藤原拓海是一個剛考上](../Page/藤原拓海.md "wikilink")[駕照的](https://zh.wikipedia.org/wiki/駕照 "wikilink")18歲高中生，平日的他在[加油站打工](../Page/加油站.md "wikilink")，對於汽車一點概念也沒有，因此常被身邊愛車族的友人取笑。但是私底下，拓海打從13歲時起，就被父親藤原文太要求幫忙每天凌晨時開著車到山頂上的[溫泉飯店送](https://zh.wikipedia.org/wiki/溫泉飯店 "wikilink")[豆腐](../Page/豆腐.md "wikilink")，因此擁有非常豐富的駕駛經驗。身為昔日山路賽車手的文太，刻意利用送豆腐作為理由訓練兒子成為一名賽車手，他在車上的置杯架中放了一杯水，要求拓海在不讓杯中水溢出的前提下，安然將車開上山，藉此訓練出拓海對於汽車重心轉移與運動特性的絕佳敏銳觸感。
 
 在一次陰錯陽差下，拓海的高超駕駛技巧終於被周圍的人們發現，從此以後他開始遇到許多外地來的車手挑戰並且一一克服，並且與當初的對手高橋涼介和高橋啟介組成一支縣外遠征車隊，名為**Project
 D**（D計畫），一同征戰[關東境內群馬縣以外各地山路](../Page/關東地方.md "wikilink")。
 
 值得一提，[藤原拓海由首次接觸山路賽車比賽](../Page/藤原拓海.md "wikilink")（即與RED
-SUNS[高橋啟介的交流戰](../Page/高橋啟介.md "wikilink")）至跟**Project
-D**（D計畫）完全征服[栃木縣以及](../Page/栃木縣.md "wikilink")[埼玉縣](../Page/埼玉縣.md "wikilink")，都只是花了剛好一年時間。然後又立刻向[茨城縣進發](../Page/茨城縣.md "wikilink")，挑戰[筑波Purple](../Page/筑波.md "wikilink")
+SUNS[高橋啟介的交流戰](https://zh.wikipedia.org/wiki/高橋啟介 "wikilink")）至跟**Project
+D**（D計畫）完全征服[栃木縣以及](../Page/栃木縣.md "wikilink")[埼玉縣](../Page/埼玉縣.md "wikilink")，都只是花了剛好一年時間。然後又立刻向[茨城縣進發](../Page/茨城縣.md "wikilink")，挑戰[筑波Purple](https://zh.wikipedia.org/wiki/筑波 "wikilink")
 Shadow（紫色闇影）。
 
 ## 舞台
 
-故事最初的舞台發生在日本[群馬縣某A町](../Page/群馬縣.md "wikilink")（實際上是影射[伊香保町](../Page/伊香保町.md "wikilink")）境內一個叫“秋名山”（）的山區道路上。秋名山是以群馬縣的[榛名山](../Page/榛名山.md "wikilink")（，是榛名山東北連接山頂和伊香保町的33號縣道）為原型繪製的，與榛名山一同合稱為“[上毛三山](../Page/上毛三山.md "wikilink")”的[赤城山](../Page/赤城山.md "wikilink")（）與[妙義山](../Page/妙義山.md "wikilink")（）則以原名在漫畫中出現，作為故事劇情發生地點。當地政府為防止飆車族慕名利用這幾條山路危險駕駛，而影響一般用路人的安全，在這些山路敷設了[跳動路面等裝置防止飆車](../Page/跳動路面.md "wikilink")。同時亦在2018年起，該段山路全部改為單行路。
+故事最初的舞台發生在日本[群馬縣某A町](../Page/群馬縣.md "wikilink")（實際上是影射[伊香保町](https://zh.wikipedia.org/wiki/伊香保町 "wikilink")）境內一個叫“秋名山”（）的山區道路上。秋名山是以群馬縣的[榛名山](../Page/榛名山.md "wikilink")（，是榛名山東北連接山頂和伊香保町的33號縣道）為原型繪製的，與榛名山一同合稱為“[上毛三山](https://zh.wikipedia.org/wiki/上毛三山 "wikilink")”的[赤城山](https://zh.wikipedia.org/wiki/赤城山 "wikilink")（）與[妙義山](https://zh.wikipedia.org/wiki/妙義山 "wikilink")（）則以原名在漫畫中出現，作為故事劇情發生地點。當地政府為防止飆車族慕名利用這幾條山路危險駕駛，而影響一般用路人的安全，在這些山路敷設了[跳動路面等裝置防止飆車](https://zh.wikipedia.org/wiki/跳動路面 "wikilink")。同時亦在2018年起，該段山路全部改為單行路。
 
 ## 登場人物角色
 
@@ -45,7 +45,8 @@ Shadow（紫色闇影）。
 [缩略图](https://zh.wikipedia.org/wiki/File:HK_Skyplaza_Asia_Hollywood_Restuarant_TRUENO_17.JPG "fig:缩略图")
 
 在《頭文字D》故事的主線劇情中出現的車輛，清一色全都是日本車廠所出產的國產車型，而且其中不乏許多1980年代生產、早已停產多年的經典舊型車種，如主角藤原拓海駕駛的豐田Sprinter
-Trueno GT-Apex三門版（[AE86](../Page/AE86.md "wikilink")）、高橋涼介駕駛的馬自達RX-7
+Trueno
+GT-Apex三門版（[AE86](https://zh.wikipedia.org/wiki/AE86 "wikilink")）、高橋涼介駕駛的馬自達RX-7
 FC3S等。因為是飆車漫畫，因此漫畫內的登場車種受到重視的程度，往往不輸給漫畫人物本身。此外，由於連載時間較長的關係，雖故事設定為1990年代末期，時間也僅經過一年，但是作品仍出現了21世紀才出現的Mitsubishi
 Lancer Evolution VII、Nissan Fairlady
 Z(350Z)，在電視版的動畫中，第六季的最後一集片尾亦出現TOYOTA
@@ -67,13 +68,13 @@ Z(350Z)，在電視版的動畫中，第六季的最後一集片尾亦出現TOYO
 
 ### 駕駛技術
 
-頭文字D是屬於偏重技術的競速漫畫，自然而然駕駛技術成了[比賽勝負的關鍵更勝於車的性能](../Page/比賽.md "wikilink")。下列列出的是劇中常出現的駕駛技術(包含過彎和超車技巧)。
+頭文字D是屬於偏重技術的競速漫畫，自然而然駕駛技術成了[比賽勝負的關鍵更勝於車的性能](https://zh.wikipedia.org/wiki/比賽 "wikilink")。下列列出的是劇中常出現的駕駛技術(包含過彎和超車技巧)。
 
 #### 過彎技術
 
   - **手煞車甩尾**（原文：） ：
 
-很基本的技巧，只要在轉動[方向盤時拉起手煞車便可](../Page/方向盤.md "wikilink")。劇中最早是池谷在S13剛修好後開始練習的技術。在沒安全考量下，應該任何人都會，只是控制優劣而已，不過這招很難控制甩的幅度，名為甩尾實質是失控，幾乎都是轉180度左右，所以多用來過髮夾彎或折返用。後來其他的車手(如拓海和館智幸)在進行折返時也都用這招。
+很基本的技巧，只要在轉動[方向盤時拉起手煞車便可](https://zh.wikipedia.org/wiki/方向盤 "wikilink")。劇中最早是池谷在S13剛修好後開始練習的技術。在沒安全考量下，應該任何人都會，只是控制優劣而已，不過這招很難控制甩的幅度，名為甩尾實質是失控，幾乎都是轉180度左右，所以多用來過髮夾彎或折返用。後來其他的車手(如拓海和館智幸)在進行折返時也都用這招。
 
   - **煞車甩尾**（原文：）（Braking Drift）：
 
@@ -115,7 +116,7 @@ Z(350Z)，在電視版的動畫中，第六季的最後一集片尾亦出現TOYO
 
   - **佯攻動作**（フェイントモーション）：
 
-運用煞車增加車頭的重量再利用[方向盤反轉使車身轉向的技術](../Page/方向盤.md "wikilink")。劇中最早使出是在第一部涼介載啟介於後方觀看86和GT-R的比賽時，為了閃避因撞車而失控的GT-R而使出。後來第二部啟介在赤城被阿涉挑釁追逐時，為了閃開突然出現的事故車也使用這招。
+運用煞車增加車頭的重量再利用[方向盤反轉使車身轉向的技術](https://zh.wikipedia.org/wiki/方向盤 "wikilink")。劇中最早使出是在第一部涼介載啟介於後方觀看86和GT-R的比賽時，為了閃避因撞車而失控的GT-R而使出。後來第二部啟介在赤城被阿涉挑釁追逐時，為了閃開突然出現的事故車也使用這招。
 
   - **左腳煞車**（左足ブレーキ）：
 
@@ -123,7 +124,7 @@ Z(350Z)，在電視版的動畫中，第六季的最後一集片尾亦出現TOYO
 
   - **撞擊超車**：
 
-在彎道上撞開對手的車子強迫其讓道超車。撞車在職業賽車界裡是違規的做法，一旦發生事故將會被判禁賽，就算無出事被撞的一方亦可提告，但有種狀況例外，就是沒將對方撞到打轉，只是稍微偏移路線，如此便無證據證明而不算，因此這招也是職業賽車界裡的家常便飯。劇中最早是由專比膠帶殊死戰的[庄司慎吾在和拓海比賽時為了超車而施展](../Page/庄司慎吾.md "wikilink")，直接撞翻拓海的86，但卻因拓海技術過人導致86打轉後仍回覆路線繼續比賽，由於山道[飆車無公制規定](../Page/飆車.md "wikilink")，所以此犯規的行為無法制裁。在動畫第四部中，啟介和笑口虎酒井比賽時，為了超車亦使用相同的技巧，但並無撞翻對方，也沒立刻成功超車，兩車並駕齊驅一段路後啟介才成功超過去，而職業車手館智幸在拓海比賽時，為了第二次超車也使用這招，但畢竟是職業車手，有重視賽車倫理，所以並無將86撞翻，只是碰一下偏移路線，藉此取得最佳路線。第五部中死神北條凜經常使用這招，在和涼介的生死決戰中，死神亦不斷使用該招，但目的非超車，而是真要把涼介撞死，但隨後卻被涼介找出該招的反制術：**邊坡跑法**和**超速過彎**。
+在彎道上撞開對手的車子強迫其讓道超車。撞車在職業賽車界裡是違規的做法，一旦發生事故將會被判禁賽，就算無出事被撞的一方亦可提告，但有種狀況例外，就是沒將對方撞到打轉，只是稍微偏移路線，如此便無證據證明而不算，因此這招也是職業賽車界裡的家常便飯。劇中最早是由專比膠帶殊死戰的[庄司慎吾在和拓海比賽時為了超車而施展](https://zh.wikipedia.org/wiki/庄司慎吾 "wikilink")，直接撞翻拓海的86，但卻因拓海技術過人導致86打轉後仍回覆路線繼續比賽，由於山道[飆車無公制規定](https://zh.wikipedia.org/wiki/飆車 "wikilink")，所以此犯規的行為無法制裁。在動畫第四部中，啟介和笑口虎酒井比賽時，為了超車亦使用相同的技巧，但並無撞翻對方，也沒立刻成功超車，兩車並駕齊驅一段路後啟介才成功超過去，而職業車手館智幸在拓海比賽時，為了第二次超車也使用這招，但畢竟是職業車手，有重視賽車倫理，所以並無將86撞翻，只是碰一下偏移路線，藉此取得最佳路線。第五部中死神北條凜經常使用這招，在和涼介的生死決戰中，死神亦不斷使用該招，但目的非超車，而是真要把涼介撞死，但隨後卻被涼介找出該招的反制術：**邊坡跑法**和**超速過彎**。
 
   - **反擊超車**：
 
@@ -144,7 +145,7 @@ D在神奈川帶三戰，啟介與駕駛Supra的皆川英雄比上坡賽時，�
 
   - **盲目追擊**（原文：）：
 
-在比賽期間關掉車頭燈，讓對手看不到自己從而在對手不為意的情況下，在對手車旁超車，劇中第四部東堂塾的館智幸在比賽期間利用倒後鏡的盲點在拓海不為意的情況下超車，拓海從而得到啟發自創。該技術高度要求車手對賽道的記憶，因為關掉車頭燈後只能依靠前車的車頭燈和對賽道的記憶下駕駛。在涼介發現後亦要求啟介在這方面的訓練。劇中拓海經常在落後的情況下使用該技術。此外這招對隱藏式頭燈的車款有額外幫助，因為關閉車頭燈可降低[風阻係數](../Page/風阻係數.md "wikilink")（CD值），讓速度可稍微更快點。
+在比賽期間關掉車頭燈，讓對手看不到自己從而在對手不為意的情況下，在對手車旁超車，劇中第四部東堂塾的館智幸在比賽期間利用倒後鏡的盲點在拓海不為意的情況下超車，拓海從而得到啟發自創。該技術高度要求車手對賽道的記憶，因為關掉車頭燈後只能依靠前車的車頭燈和對賽道的記憶下駕駛。在涼介發現後亦要求啟介在這方面的訓練。劇中拓海經常在落後的情況下使用該技術。此外這招對隱藏式頭燈的車款有額外幫助，因為關閉車頭燈可降低[風阻係數](https://zh.wikipedia.org/wiki/風阻係數 "wikilink")（CD值），讓速度可稍微更快點。
 
 #### 技術理論
 
@@ -163,7 +164,7 @@ D在神奈川帶三戰，啟介與駕駛Supra的皆川英雄比上坡賽時，�
               - 正統路線派：把賽車場上培育的技術應用在公路賽上。
               - 變通路線派：純粹跑慣公路而培育出來的公路專家。
           - 藤原狀態（藤原ゾーン，Fujiwara
-            Zone）：駕駛對自己的賽車已能操控到如同手腳般，達到**人車合一**的境界，跑起來的動態和速度，有如4WD（[四輪驅動](../Page/四輪驅動.md "wikilink")）般。
+            Zone）：駕駛對自己的賽車已能操控到如同手腳般，達到**人車合一**的境界，跑起來的動態和速度，有如4WD（[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")）般。
           - 不可拋棄鬥爭心，除此之外要順從車的本性駕駛。
 
   - **ZERO理論**：
@@ -176,7 +177,7 @@ D在神奈川帶三戰，啟介與駕駛Supra的皆川英雄比上坡賽時，�
 
   - **惰性駕駛**：
 
-在下坡時，盡不踩[油門和](../Page/油門.md "wikilink")[煞車](../Page/煞車.md "wikilink")，靠[重力來](../Page/重力.md "wikilink")[加速](../Page/加速.md "wikilink")。這是響尾蛇車隊的年輕天才車手乾信司獨特的駕駛技術。
+在下坡時，盡不踩[油門和](https://zh.wikipedia.org/wiki/油門 "wikilink")[煞車](../Page/煞車.md "wikilink")，靠[重力來](https://zh.wikipedia.org/wiki/重力 "wikilink")[加速](https://zh.wikipedia.org/wiki/加速 "wikilink")。這是響尾蛇車隊的年輕天才車手乾信司獨特的駕駛技術。
 
 ## 電視動畫
 
@@ -184,71 +185,73 @@ D在神奈川帶三戰，啟介與駕駛Supra的皆川英雄比上坡賽時，�
 
 ### 主題曲
 
-《頭文字D》畢竟屬於飆車漫畫，在競速過程中為了讓畫面更熱血沸騰，配樂是不可少的，因此頭文字D的動畫小組對於主題曲和插曲的選擇也相當謹慎，許多影迷也會特地找收錄的歌，為此還出了數張專輯。頭文字D的[主題曲和插曲的](../Page/主題曲.md "wikilink")[歌手與](../Page/歌手.md "wikilink")[樂團甚多](../Page/樂團.md "wikilink")，其中主題曲部分多取自[AVEX唱片公司旗下的](../Page/AVEX.md "wikilink")[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")**[m.o.v.e](../Page/m.o.v.e.md "wikilink")**，大約佔有七成左右之多，而插曲部分多取自於****的舞曲系列，大約佔有九成左右之多，還有特別推出專輯，但**Super
+《頭文字D》畢竟屬於飆車漫畫，在競速過程中為了讓畫面更熱血沸騰，配樂是不可少的，因此頭文字D的動畫小組對於主題曲和插曲的選擇也相當謹慎，許多影迷也會特地找收錄的歌，為此還出了數張專輯。頭文字D的[主題曲和插曲的](../Page/主題曲.md "wikilink")[歌手與](../Page/歌手.md "wikilink")[樂團甚多](https://zh.wikipedia.org/wiki/樂團 "wikilink")，其中主題曲部分多取自[AVEX唱片公司旗下的](https://zh.wikipedia.org/wiki/AVEX "wikilink")[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")**[m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")**，大約佔有七成左右之多，而插曲部分多取自於****的舞曲系列，大約佔有九成左右之多，還有特別推出專輯，但**Super
 Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的音樂片段。
 
   - 《頭文字D First Stage》（第一部）
       - 「Around The World」（片頭曲，1話～19話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Break In2 The Nite」（片頭曲，20話～26話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Rage Your Dream」（片尾曲，1話～14話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「奇蹟的薔薇」（片尾曲，15話～26話）：演唱 - [Galla](../Page/Galla.md "wikilink")
 
 <!-- end list -->
 
   - 《頭文字D Second Stage》（第二部）
       - 「Blazin' Beat」（片頭曲）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「有妳存在」（片尾曲）：演唱 - [Galla](../Page/Galla.md "wikilink")
 
 <!-- end list -->
 
   - 電影《劇場版 頭文字D Third Stage》（第三部）
       - 「Gamble Rumble」（主題曲）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Jirenma」（片尾曲）：演唱 - [Every Little
-        Thing](../Page/Every_Little_Thing.md "wikilink")
+        Thing](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")
       - 「The Race Is Over」（謝幕曲）：演唱 - Dave Rodgers
 
 <!-- end list -->
 
   - 《頭文字D Fourth Stage》（第四部）
       - 「Dogfight」（片頭曲，1話～10話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Noizy Tribe」（片頭曲，11話～24話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Blast My Desire」（片尾曲，1話～10話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Nobody Reason ～ 諾亞方舟」（片尾曲，11話～24話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
 
 <!-- end list -->
 
   - 《頭文字D Fifth Stage》 （第五部）
       - 「Raise
-        Up」歌：[m.o.v.e](../Page/m.o.v.e.md "wikilink")（片頭曲，1話～14話）：演唱
-        - [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        Up」歌：[m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")（片頭曲，1話～14話）：演唱
+        - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Flyleaf」（片尾曲，1話～6話）：演唱 -
-        [CLUTCHO](../Page/CLUTCHO.md "wikilink")
-      - 「夕愁想花」（片尾曲，7話～14話）：演唱 - [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [CLUTCHO](https://zh.wikipedia.org/wiki/CLUTCHO "wikilink")
+      - 「夕愁想花」（片尾曲，7話～14話）：演唱 -
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
 
 <!-- end list -->
 
   - 《頭文字D Final Stage》 （第六部）
       - 「Outsoar The
-        Rainbow」歌：[m.o.v.e](../Page/m.o.v.e.md "wikilink")（片頭曲，1話～4話）：演唱
-        - [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        Rainbow」歌：[m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")（片頭曲，1話～4話）：演唱
+        - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Gamble Rumble」（片尾曲，1話～3話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Rage Your Dream」（片尾曲，4話）：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
 
 <!-- end list -->
 
   - OVA《頭文字D Extra Stage》（番外篇第一集）
-      - 「Get It All Right」：演唱 - [Chilu](../Page/Chilu.md "wikilink")
+      - 「Get It All Right」：演唱 -
+        [Chilu](https://zh.wikipedia.org/wiki/Chilu "wikilink")
       - 「NEXT」：演唱 -
         [根谷美智子與](../Page/根谷美智子.md "wikilink")[嘉數由美](../Page/嘉數由美.md "wikilink")（）
 
@@ -256,8 +259,9 @@ Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的
 
   - OVA《頭文字D Extra Stage2》（番外篇第二集）
       - 「<span lang="ja">蒼穹のflight</span>」：演唱 -
-        [m.o.v.e](../Page/m.o.v.e.md "wikilink")
-      - 「Key Ring」：演唱 - [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
+      - 「Key Ring」：演唱 -
+        [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
 
 <!-- end list -->
 
@@ -278,12 +282,12 @@ Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的
 
 ## 改編電影
 
-  - 《[頭文字D](../Page/頭文字D_\(電影\).md "wikilink")》（Initial
+  - 《[頭文字D](https://zh.wikipedia.org/wiki/頭文字D_\(電影\) "wikilink")》（Initial
     D）[香港](../Page/香港.md "wikilink")[寰亞電影買下故事版權](../Page/寰亞電影.md "wikilink")，於2005年6月推出頭文字D的真人電影版，目前全一集，劇情內容為動畫一\~三部篩減壓縮。2014年開始籌拍第二集，開拍時間及其他細部暫時不詳
     。
   - 導演：[劉偉強](../Page/劉偉強.md "wikilink")
-  - 演員：[周杰倫](../Page/周杰倫.md "wikilink")、[黃秋生](../Page/黃秋生.md "wikilink")、[陳冠希](../Page/陳冠希.md "wikilink")、[余文樂](../Page/余文樂.md "wikilink")、[杜汶澤](../Page/杜汶澤.md "wikilink")、[陳小春](../Page/陳小春.md "wikilink")、[鍾鎮濤](../Page/鍾鎮濤.md "wikilink")
-  - 周杰倫憑本片獲得[香港電影金像獎及](../Page/香港電影金像獎.md "wikilink")[台灣金馬獎最佳新演員](../Page/台灣金馬獎.md "wikilink")。
+  - 演員：[周杰倫](../Page/周杰倫.md "wikilink")、[黃秋生](../Page/黃秋生.md "wikilink")、[陳冠希](../Page/陳冠希.md "wikilink")、[余文樂](../Page/余文樂.md "wikilink")、[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")、[陳小春](https://zh.wikipedia.org/wiki/陳小春 "wikilink")、[鍾鎮濤](../Page/鍾鎮濤.md "wikilink")
+  - 周杰倫憑本片獲得[香港電影金像獎及](../Page/香港電影金像獎.md "wikilink")[台灣金馬獎最佳新演員](https://zh.wikipedia.org/wiki/台灣金馬獎 "wikilink")。
   - 黃秋生憑本片獲得香港電影金像獎及台灣金馬獎最佳男配角。
 
 ### 主題曲
@@ -297,11 +301,12 @@ Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的
 
 ## 遊戲
 
-知名的日本[街機廠商](../Page/街機.md "wikilink")[世嘉](../Page/世嘉.md "wikilink")（SEGA）也將頭文字D的人物、故事與車輛搬進遊樂場中，至2018年止，推出了9代的頭文字D主題遊戲。
+知名的日本[街機廠商](https://zh.wikipedia.org/wiki/街機 "wikilink")[世嘉](../Page/世嘉.md "wikilink")（SEGA）也將頭文字D的人物、故事與車輛搬進遊樂場中，至2018年止，推出了9代的頭文字D主題遊戲。
 
 遊戲中車輛並不會因碰撞欄杆而損壞，但是會因為碰撞欄杆而減速。
 
-  - 《[頭文字D Arcade Stage](../Page/頭文字D_Arcade_Stage.md "wikilink")》
+  - 《[頭文字D Arcade
+    Stage](https://zh.wikipedia.org/wiki/頭文字D_Arcade_Stage "wikilink")》
       - 為頭文字D的街機版，全共有9版，皆由SEGA出品。在2016年8月4日至8月7日，在日本特定地區（池袋、新宿及秋葉原）已可玩「頭文字D
         Arcade Stage Zero」，而不同地區有不同代表車隊(池袋為赤城Red Suns、新宿為秋名Speed
         Stars及秋葉原為妙義Night
@@ -310,8 +315,8 @@ Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的
         Stars為主題的車卡以及追加特別的AE86和Silvia
         S13及[藤原拓海和池谷浩一郎的車手頭像](../Page/藤原拓海.md "wikilink"))。
       - 第9版命名為「頭文字D Arcade Stage Zero」，於2017年3月日本地區推出。
-  - 《頭文字D》（[PS](../Page/PlayStation.md "wikilink")、[SS](../Page/Sega_Saturn.md "wikilink")）
-  - 《頭文字D 外傳》（[GB](../Page/GameBoy.md "wikilink")）
+  - 《頭文字D》（[PS](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[SS](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")）
+  - 《頭文字D 外傳》（[GB](https://zh.wikipedia.org/wiki/GameBoy "wikilink")）
   - 《頭文字D Special Stage》（[PS2](../Page/PlayStation_2.md "wikilink")）
   - 《頭文字D 山口復仇》（PC）
   - 《頭文字D Street
@@ -319,14 +324,14 @@ Eurobeat**的頭文字D專輯由於容量上限制，所以多少刪減少許的
       - 本作屬於Arcade Stage Ver.3的攜帶版。
   - 《頭文字D Another Story》（GBA）
   - 《頭文字D Extreme Stage》（[Playstation
-    3](../Page/Playstation_3.md "wikilink")）
+    3](https://zh.wikipedia.org/wiki/Playstation_3 "wikilink")）
       - 本作屬於Arcade Stage Ver.4的家用版。
 
 ## 相關條目
 
   - [重野秀一](../Page/重野秀一.md "wikilink")
   - [土屋圭市](../Page/土屋圭市.md "wikilink")
-  - [頭文字D (電影)](../Page/頭文字D_\(電影\).md "wikilink")
+  - [頭文字D (電影)](https://zh.wikipedia.org/wiki/頭文字D_\(電影\) "wikilink")
 
 ## 參考來源
 

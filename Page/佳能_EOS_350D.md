@@ -1,14 +1,14 @@
 **佳能
-EOS-350D**（2005年3月上市）是[佳能公司生產的](../Page/佳能.md "wikilink")[數碼單鏡反光相機](../Page/數碼單鏡反光相機.md "wikilink")，又稱為**EOS
+EOS-350D**（2005年3月上市）是[佳能公司生產的](../Page/佳能.md "wikilink")[數碼單鏡反光相機](https://zh.wikipedia.org/wiki/數碼單鏡反光相機 "wikilink")，又稱為**EOS
 Kiss Digital N**（[日本市場](../Page/日本.md "wikilink")）或**Digital Rebel
-XT**（[北美市場](../Page/北美.md "wikilink")）。
+XT**（[北美市場](https://zh.wikipedia.org/wiki/北美 "wikilink")）。
 
 ## 參見
 
   - [佳能 EOS 300D](../Page/佳能_EOS_300D.md "wikilink")
   - [佳能 EOS 400D](../Page/佳能_EOS_400D.md "wikilink")
-  - [佳能 EOS](../Page/佳能_EOS.md "wikilink")
-  - [尼康 D70](../Page/尼康_D70.md "wikilink")
+  - [佳能 EOS](https://zh.wikipedia.org/wiki/佳能_EOS "wikilink")
+  - [尼康 D70](https://zh.wikipedia.org/wiki/尼康_D70 "wikilink")
 
 ## 外部連結
 

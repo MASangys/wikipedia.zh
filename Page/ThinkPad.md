@@ -1,21 +1,21 @@
-**ThinkPad**是一个[筆記型電腦的品牌](../Page/筆記型電腦.md "wikilink")，此品牌的攜帶式電腦在2005年以前是由[IBM的PC事业部所设计](../Page/IBM.md "wikilink")、製作并销售。在2005年之后，由于[联想收购IBM的PC事业部](../Page/联想集团.md "wikilink")，ThinkPad商标便歸联想所有，ThinkPad品牌的计算机改由联想公司制造与销售。
+**ThinkPad**是一个[筆記型電腦的品牌](../Page/筆記型電腦.md "wikilink")，此品牌的攜帶式電腦在2005年以前是由[IBM的PC事业部所设计](../Page/IBM.md "wikilink")、製作并销售。在2005年之后，由于[联想收购IBM的PC事业部](https://zh.wikipedia.org/wiki/联想集团 "wikilink")，ThinkPad商标便歸联想所有，ThinkPad品牌的计算机改由联想公司制造与销售。
 
-ThinkPad是唯一被[国际太空站认可使用的笔记本电脑品牌](../Page/国际太空站.md "wikilink")\[1\]。
+ThinkPad是唯一被[国际太空站认可使用的笔记本电脑品牌](https://zh.wikipedia.org/wiki/国际太空站 "wikilink")\[1\]。
 
 ## 历史
 
 ### 名字
 
-“ThinkPad”这个名称的灵感来自IBM的便笺簿。每一位IBM的雇员或到IBM訓練中心受訓的人，都会拿到一本便笺簿（“便笺簿”英文为“pad”），上面印着企业的座右铭“THINK”（Think精神来源于IBM公司创始人之一、精神领袖[托马斯·J·沃森](../Page/托马斯·J·沃森.md "wikilink")）\[2\]。當時擁有IBM
+“ThinkPad”这个名称的灵感来自IBM的便笺簿。每一位IBM的雇员或到IBM訓練中心受訓的人，都会拿到一本便笺簿（“便笺簿”英文为“pad”），上面印着企业的座右铭“THINK”（Think精神来源于IBM公司创始人之一、精神领袖[托马斯·J·沃森](https://zh.wikipedia.org/wiki/托马斯·J·沃森 "wikilink")）\[2\]。當時擁有IBM
 「Think」便笺簿的IBM員工Denny
 Wainwright提議使用「ThinkPad」為產品名\[3\]\[4\]，但被IBM的公司的命名委員反對，因為當時的IBM電腦皆使用數字命名，而後因為記者和大眾的讚揚而留下。\[5\]
 
 ### 早期产品
 
 IBM在1992年10月5日发布ThinkPad产品，其中就包括ThinkPad
-700。最初的ThinkPad并没有键盘，理应属于[平板电脑的范畴](../Page/平板电脑.md "wikilink")。它装配有黑白[液晶显示屏](../Page/液晶显示屏.md "wikilink")、替代硬盘驱动器的40
-MB[闪存](../Page/闪存.md "wikilink")、基于[Go的](../Page/GO_Corporation.md "wikilink")[PenPoint
-OS操作系统和IBM研发的笔迹识别系统](../Page/PenPoint_OS.md "wikilink")。IBM随后又发布了预装Microsoft
+700。最初的ThinkPad并没有键盘，理应属于[平板电脑的范畴](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。它装配有黑白[液晶显示屏](https://zh.wikipedia.org/wiki/液晶显示屏 "wikilink")、替代硬盘驱动器的40
+MB[闪存](../Page/闪存.md "wikilink")、基于[Go的](https://zh.wikipedia.org/wiki/GO_Corporation "wikilink")[PenPoint
+OS操作系统和IBM研发的笔迹识别系统](https://zh.wikipedia.org/wiki/PenPoint_OS "wikilink")。IBM随后又发布了预装Microsoft
 Windows 3.1且带有键盘的ThinkPad，售价US$4,350，重3千克（6.5l磅），尺寸是2.2×11.7
 ×8.3英寸（56×297×210毫米）。它还装配了当时最大的10.4英寸（264毫米）液晶显示屏，25 MHz
 386SX[中央处理器](../Page/中央处理器.md "wikilink")，120
@@ -25,13 +25,13 @@ MB硬盘驱动器还有一个带有TrackPoint指点杆的键盘。红色TrackPoi
 
 [Shoukadou_bentou.jpg](https://zh.wikipedia.org/wiki/File:Shoukadou_bentou.jpg "fig:Shoukadou_bentou.jpg")
 ThinkPad最初的设计工作是由意大利設計師Richard
-Sapper和山崎和彦（IBM位于[日本](../Page/日本.md "wikilink")[神奈川县](../Page/神奈川县.md "wikilink")[大和市的設計中心主管](../Page/大和市.md "wikilink")）共同承担。ThinkPad纯黑色外观的灵感来自日本传统的一种[漆器饭盒松花堂](../Page/漆器.md "wikilink")[便當](../Page/便當.md "wikilink")，它通体黑色且常用来装午饭。
+Sapper和山崎和彦（IBM位于[日本](../Page/日本.md "wikilink")[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")[大和市的設計中心主管](../Page/大和市.md "wikilink")）共同承担。ThinkPad纯黑色外观的灵感来自日本传统的一种[漆器饭盒松花堂](../Page/漆器.md "wikilink")[便當](../Page/便當.md "wikilink")，它通体黑色且常用来装午饭。
 
-ThinkPad自问世以来一直保持着黑色的经典外观（因此被称为「小黑」）并对技术有着自己独到的见解，如[TrackPoint](../Page/TrackPoint.md "wikilink")（第三代笔记本电脑鼠标-指点杆，由于使用红色而被成为“小红帽”）、[ThinkLight](../Page/ThinkLight.md "wikilink")（键盘灯，自2012年起逐渐被背光键盘所替代）、全尺寸[键盘和](../Page/键盘.md "wikilink")[APS](../Page/APS.md "wikilink")（Active
+ThinkPad自问世以来一直保持着黑色的经典外观（因此被称为「小黑」）并对技术有着自己独到的见解，如[TrackPoint](https://zh.wikipedia.org/wiki/TrackPoint "wikilink")（第三代笔记本电脑鼠标-指点杆，由于使用红色而被成为“小红帽”）、[ThinkLight](https://zh.wikipedia.org/wiki/ThinkLight "wikilink")（键盘灯，自2012年起逐渐被背光键盘所替代）、全尺寸[键盘和](https://zh.wikipedia.org/wiki/键盘 "wikilink")[APS](../Page/APS.md "wikilink")（Active
 Protection System，主动硬盘保护系统）。
 
 尽管采用平版电脑设计的ThinkPad在商业上并不成功，但是它和[Apple
-Newton共同开创了人类使用](../Page/Apple_Newton.md "wikilink")[PDA](../Page/PDA.md "wikilink")（Personal
+Newton共同开创了人类使用](../Page/Apple_Newton.md "wikilink")[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")（Personal
 Digital Assistant，个人数字助理）和移动计算的时代。
 
 ## ThinkPad系列分类
@@ -59,22 +59,22 @@ Digital Assistant，个人数字助理）和移动计算的时代。
 
   - A系列：A系列被设计成全能型的机器，配置的硬體足以取代桌上型電腦，它的名字即是取自“All-in-one”的意思，重量重、体积大，因此它是当时体积最大和最笨重的ThinkPad机器，甚至同期T系列上没有的特性它都拥有，总共拥有三个驱动器插槽，其中兩个是可换的。部分型号以“p”结尾的机型是ThinkPad中最先使用15英寸UXGA“FlxView”液晶显示屏技术的。A系列于2002年與i系列併入R系列後停产。
   - G系列：G系列-{只}-有两种型号，G40与G41。作为一款体积庞大又笨重的机器，同时配备了桌面型处理器，因此电池续航时间短，这种型号随后被作为桌面机的替代品。G系列已于2005年停产。
-  - i系列：价钱便宜的低端机型，由第三方厂商（如[宏碁](../Page/宏碁.md "wikilink")、[长城国际](../Page/长城国际.md "wikilink")）在IBM的技术许可下代工生产。i系列引入了ThinkLight功能同时也是第一款配备了无线局域网的笔记本电脑。i系列已于2001年停产。
+  - i系列：价钱便宜的低端机型，由第三方厂商（如[宏碁](../Page/宏碁.md "wikilink")、[长城国际](https://zh.wikipedia.org/wiki/长城国际 "wikilink")）在IBM的技术许可下代工生产。i系列引入了ThinkLight功能同时也是第一款配备了无线局域网的笔记本电脑。i系列已于2001年停产。
   - Z系列：自2005年开始生产，Lenovo收购IBM
     PCD事业部后推出的首个系列，首个ThinkPad的宽屏笔记本，首次采用镁制防滚架。已停产。
   - R系列：R系列是 ThinkPad
     主要產品系列，價格平價。主要使用14英寸螢幕，採用的配置通常較T系列低，並且較同期T系列來得稍重、稍厚一些，與旗艦款與T系列做出區隔。後來由於R/T系列趨同，加上T系列價格逐漸降低使得兩系列差異愈來愈小，因此併入T系列後停產。
-  - SL系列：SL系列比R系列更低價，同時也採用了反ThinkPad系列傳統的钢琴烤漆A面板[螢幕](../Page/螢幕.md "wikilink")。
+  - SL系列：SL系列比R系列更低價，同時也採用了反ThinkPad系列傳統的钢琴烤漆A面板[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")。
   - W系列：定位為原先A系列中帶有p的工作站替代型的延伸，且專為ISV認證而設計，配備高專繪圖顯示卡，多了一個硬碟槽位。
 
 ## ThinkPad型号详细信息
 
   - ThinkPad 235
       - 2607型，即仅供日本的ThinkPad
-        235型，它是[IBM](../Page/IBM.md "wikilink")／[Ricoh](../Page/Ricoh.md "wikilink")
-        [RIOS的后续产品](../Page/RIOS.md "wikilink")。
-        它也被广泛的叫做Clavius或者Chandra2，这款机器包括许多不平常的功能，例如包括3个PCMCIA插槽和同时支持两个摄像机电池作为电源。这款机器采用一颗[英特尔](../Page/英特尔.md "wikilink")[奔腾MMX](../Page/奔腾.md "wikilink")
-        233 MHz中央处理器，并且支持最多160 MB的内存，并且包括了一块支持UDMA功能的笔记本2.5英寸硬盘。[日立在销售Chandra](../Page/日立.md "wikilink")2时用的名字叫做Prius
+        235型，它是[IBM](../Page/IBM.md "wikilink")／[Ricoh](https://zh.wikipedia.org/wiki/Ricoh "wikilink")
+        [RIOS的后续产品](https://zh.wikipedia.org/wiki/RIOS "wikilink")。
+        它也被广泛的叫做Clavius或者Chandra2，这款机器包括许多不平常的功能，例如包括3个PCMCIA插槽和同时支持两个摄像机电池作为电源。这款机器采用一颗[英特尔](../Page/英特尔.md "wikilink")[奔腾MMX](https://zh.wikipedia.org/wiki/奔腾 "wikilink")
+        233 MHz中央处理器，并且支持最多160 MB的内存，并且包括了一块支持UDMA功能的笔记本2.5英寸硬盘。[日立在销售Chandra](https://zh.wikipedia.org/wiki/日立 "wikilink")2时用的名字叫做Prius
         Note 210.
 
 <!-- end list -->
@@ -108,7 +108,7 @@ Digital Assistant，个人数字助理）和移动计算的时代。
 <!-- end list -->
 
   - ThinkPad 700系列
-      - 700系列（700、701、730（手写型）、750、755、760、765、770，许多都有子型号）是當年使用[英特爾](../Page/英特爾.md "wikilink")[處理器的ThinkPad中最尖端的](../Page/處理器.md "wikilink")。它們都擁有當畤最好的[顯示屏](../Page/顯示屏.md "wikilink")，最大容量的[硬盤](../Page/硬盤.md "wikilink")，和最高速的[處理器](../Page/處理器.md "wikilink")。
+      - 700系列（700、701、730（手写型）、750、755、760、765、770，许多都有子型号）是當年使用[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[處理器的ThinkPad中最尖端的](https://zh.wikipedia.org/wiki/處理器 "wikilink")。它們都擁有當畤最好的[顯示屏](https://zh.wikipedia.org/wiki/顯示屏 "wikilink")，最大容量的[硬盤](https://zh.wikipedia.org/wiki/硬盤 "wikilink")，和最高速的[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")。
       - 701外號“Butterfly”（[蝴蝶機](../Page/TrackWrite.md "wikilink")），因為它的鍵盤為了能夠塞進較細小的空間而分成兩部份。當它收藏時，會上、下移開塞進電腦內，到打開時又會左、右展開，就像蝴蝶展翅一樣。
 
 <!-- end list -->
@@ -124,7 +124,7 @@ Digital Assistant，个人数字助理）和移动计算的时代。
 
   - ThinkPad Transnote
       - IBM
-        Transnote是一部筆觸式筆記本電腦，資料輸入可以通過鍵盤、[TrackPoint](../Page/TrackPoint.md "wikilink")、設有感應器的紙張筆記本或用觸控筆觸碰顯示屏來進行。此ThinkPad是基於前代的筆觸式筆記型電腦（360P
+        Transnote是一部筆觸式筆記本電腦，資料輸入可以通過鍵盤、[TrackPoint](https://zh.wikipedia.org/wiki/TrackPoint "wikilink")、設有感應器的紙張筆記本或用觸控筆觸碰顯示屏來進行。此ThinkPad是基於前代的筆觸式筆記型電腦（360P
         (E)、730 (E)、755 (P)）擴展而來。
 
 <!-- end list -->
@@ -155,7 +155,7 @@ Digital Assistant，个人数字助理）和移动计算的时代。
 <!-- end list -->
 
   - ThinkPad T2x系列（T20，T21，T22，T23）
-      - T2x系列是采用移动奔腾III处理器的，中等尺寸的光软互换机型。采用的处理器从[0.18微米工艺的](../Page/0.18微米製程.md "wikilink")700MHz奔腾III处理器到[0.13微米工艺的](../Page/0.13微米製程.md "wikilink")1200MHz
+      - T2x系列是采用移动奔腾III处理器的，中等尺寸的光软互换机型。采用的处理器从[0.18微米工艺的](https://zh.wikipedia.org/wiki/0.18微米製程 "wikilink")700MHz奔腾III处理器到[0.13微米工艺的](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")1200MHz
         Tualatin核心奔腾III-M处理器。标配14.1英寸XGA显示屏，UltraBay
         2000设备仓位（内置一可替换的光驱），S3
         Savege/IX-MV显示芯片（含8MB显存，T23含16MB显存），以及Cirrus Logic
@@ -171,10 +171,10 @@ Digital Assistant，个人数字助理）和移动计算的时代。
       - \-{只}-有T30型號。使用Intel Mobile Pentium
         4，速度從1.6GHz至2.4GHz。顯示卡使用Radeon
         7500，有16MB獨立的顯示記憶體，顯示器大小為14.1吋，解析度為1024 x 768或1400 x
-        1050。包括內建安全子系統，[UltraNav](../Page/UltraNav.md "wikilink")
+        1050。包括內建安全子系統，[UltraNav](https://zh.wikipedia.org/wiki/UltraNav "wikilink")
         touchpad，256MB標準記憶體，內建20/40/60GB硬碟，[UltraBay
-        Plus](../Page/UltraBay_Plus.md "wikilink")
-        drive，無線網路，以及[Bluetooth](../Page/Bluetooth.md "wikilink")。
+        Plus](https://zh.wikipedia.org/wiki/UltraBay_Plus "wikilink")
+        drive，無線網路，以及[Bluetooth](https://zh.wikipedia.org/wiki/Bluetooth "wikilink")。
       - 它的殼是強化過的鈦合金，和T4x系列比起來稍微巨大些。
 
 <!-- end list -->
@@ -182,26 +182,26 @@ Digital Assistant，个人数字助理）和移动计算的时代。
   - ThinkPad T4x系列
       - 包括T40，T41，T42，T43以及其包含的“p”系列（高性能"Performance"例如T43p）。一台典型的T4X机器重约2.2kg（4.9磅），略比600系列小巧，而其特点是应用了[Intel
         Pentium
-        M](../Page/Intel_Pentium_M.md "wikilink")（[英特尔奔腾M](../Page/英特尔奔腾M.md "wikilink")）处理器（从[Intel](../Page/Intel.md "wikilink")
+        M](https://zh.wikipedia.org/wiki/Intel_Pentium_M "wikilink")（[英特尔奔腾M](https://zh.wikipedia.org/wiki/英特尔奔腾M "wikilink")）处理器（从[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
         Pentium M 1.3 Ghz到Intel Pentium M 770 @ 2.13
-        Ghz），14.1或15英寸LCD（[液晶显示器](../Page/液晶显示器.md "wikilink")，[XGA](../Page/XGA.md "wikilink")，[SXGA+标准](../Page/SXGA+.md "wikilink")），型使用了集成显卡Intel
+        Ghz），14.1或15英寸LCD（[液晶显示器](../Page/液晶显示器.md "wikilink")，[XGA](https://zh.wikipedia.org/wiki/XGA "wikilink")，[SXGA+标准](https://zh.wikipedia.org/wiki/SXGA+ "wikilink")），型使用了集成显卡Intel
         GMA 900（Intel Graphics Media Adapter
-        900）或独立的显卡（[ATI](../Page/ATI.md "wikilink")
+        900）或独立的显卡（[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
         [Radeon](../Page/Radeon.md "wikilink") 7500，9000，9600，X300，[Fire
-        GL](../Page/Fire_GL.md "wikilink") 9000，Fire GL T2及Fire GL
-        V3200，其硬盘有从30GB到100GB不等的容量，并应用了Active Protection
+        GL](https://zh.wikipedia.org/wiki/Fire_GL "wikilink") 9000，Fire
+        GL T2及Fire GL V3200，其硬盘有从30GB到100GB不等的容量，并应用了Active Protection
         System（活动保护系统，官方称为安全气囊技术）以保护硬盘（T41及以后的型号）。"p"系列（移动工作站型）采用14英寸SXGA+或15英寸UXGA
         FlexView显示屏（拥有超宽视角和高密度像素，分辨率可达1600x1200）。这些大屏幕型号明显地比同系列型号要重，包含光驱和电池的重量为2.7公斤。某些T42和T43型号内置有光学指纹识别装置。
 
 <!-- end list -->
 
   - ThinkPad T6x系列
-      - 到2008年为止包括T60及T61系列，作为T4x系列的换代产品，这是T系列首次采用英特尔双核技术的[酷睿处理器](../Page/酷睿.md "wikilink")。
+      - 到2008年为止包括T60及T61系列，作为T4x系列的换代产品，这是T系列首次采用英特尔双核技术的[酷睿处理器](https://zh.wikipedia.org/wiki/酷睿 "wikilink")。
 
 <!-- end list -->
 
   - ThinkPad T400\&T500系列
-      - Lenovo在2008年推出的这个系列中正式将[lenovo标志印在了ThinkPad的上盖上](../Page/lenovo.md "wikilink")，并且全部使用宽屏。该系列是T6x系列的升级，自这个系列起，ThinkPad改变了命名方式，数字第一位的4/5代表屏幕尺寸（14吋／15吋）。
+      - Lenovo在2008年推出的这个系列中正式将[lenovo标志印在了ThinkPad的上盖上](https://zh.wikipedia.org/wiki/lenovo "wikilink")，并且全部使用宽屏。该系列是T6x系列的升级，自这个系列起，ThinkPad改变了命名方式，数字第一位的4/5代表屏幕尺寸（14吋／15吋）。
 
 <!-- end list -->
 
@@ -241,7 +241,7 @@ Digital Assistant，个人数字助理）和移动计算的时代。
 <!-- end list -->
 
   - ThinkPad X6x
-    Series（[X60](../Page/X60.md "wikilink")，X60s，X60t，X61，X61s，X61t）
+    Series（[X60](https://zh.wikipedia.org/wiki/X60 "wikilink")，X60s，X60t，X61，X61s，X61t）
       - 是第一個使用Intel
         "Yonah"雙核心處理器的X系列ThinkPad。X6x系列是最後一款使用12.1英寸4:3普通屏幕的Thinkpad筆記型電腦。其後續機型均採用了寬屏的設計。由於其輕薄便攜的設計初衷，X6x系列并沒有附帶內置光驅，用戶可以另購底座來實現光碟讀寫，以及USB擴充，打印機信號輸出等功能。其中X60s和X61s為採用了低壓版本處理器的長時間續航機型。X60t和X61t為屏幕可旋轉的平板機型。
 
@@ -279,7 +279,7 @@ Digital Assistant，个人数字助理）和移动计算的时代。
 
   - ThinkPad W700\&W700ds\&W701\&W701ds
       - 定位移动图形工作站的最新系列产品，屏幕大小为17吋，其中W700ds和W701ds均带有一块大小约为10吋的抽取式屏幕，ds意为Double
-        Screen，命名方式类似[NDS](../Page/NDS.md "wikilink")。
+        Screen，命名方式类似[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")。
 
 ## ThinkPad UltraBay
 
@@ -316,15 +316,15 @@ Overview of UltraBay types and available devices
 ## 图片
 
 <File:IBM> Thinkpad R51.jpg|IBM ThinkPad R51 <File:Touchpad> -
-Trackpoint.jpg|[触摸板](../Page/触摸板.md "wikilink")。（低端R61e取消了触摸板。）
+Trackpoint.jpg|[触摸板](https://zh.wikipedia.org/wiki/触摸板 "wikilink")。（低端R61e取消了触摸板。）
 <File:Thinkpad> logo.jpg|IBM时代的ThinkPad标志 <File:Lenovo> ThinkPad
-Logo.jpg|[联想集团收购ThinkPad后的新标志](../Page/联想集团.md "wikilink")
+Logo.jpg|[联想集团收购ThinkPad后的新标志](https://zh.wikipedia.org/wiki/联想集团 "wikilink")
 
 ## 参见
 
-  - [ThinkCentre](../Page/ThinkCentre.md "wikilink")
-  - [TravelMate](../Page/TravelMate.md "wikilink")
-  - [Lifebook](../Page/Lifebook.md "wikilink")
+  - [ThinkCentre](https://zh.wikipedia.org/wiki/ThinkCentre "wikilink")
+  - [TravelMate](https://zh.wikipedia.org/wiki/TravelMate "wikilink")
+  - [Lifebook](https://zh.wikipedia.org/wiki/Lifebook "wikilink")
 
 ## 参考文献
 

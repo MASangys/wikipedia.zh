@@ -1,12 +1,12 @@
 [2008ss.jpg](https://zh.wikipedia.org/wiki/File:2008ss.jpg "fig:2008ss.jpg")[WHU_LJSS_BBS.png](https://zh.wikipedia.org/wiki/File:WHU_LJSS_BBS.png "fig:WHU_LJSS_BBS.png")
 
-**珞珈山水BBS**（缩写**LJSS**，简称**[珞珈山水](../Page/珞珈山水.md "wikilink")**或**山水**）是[武汉大学的官方](../Page/武汉大学.md "wikilink")[BBS](../Page/BBS.md "wikilink")，创建于1996年10月8日，现已成为武汉大学最大的校内交流平台。
+**珞珈山水BBS**（缩写**LJSS**，简称**[珞珈山水](https://zh.wikipedia.org/wiki/珞珈山水 "wikilink")**或**山水**）是[武汉大学的官方](../Page/武汉大学.md "wikilink")[BBS](../Page/BBS.md "wikilink")，创建于1996年10月8日，现已成为武汉大学最大的校内交流平台。
 
 ## 主要站史
 
 1996年：
 
-  - 10月8日，武汉大学软件所（现为[软件工程国家重点实验室](../Page/软件工程国家重点实验室.md "wikilink")）一台[SUN](../Page/升阳.md "wikilink")[工作站上建立了一个BBS](../Page/工作站.md "wikilink")。因武汉大学坐拥[珞珈山](../Page/珞珈山.md "wikilink")，环绕[东湖水](../Page/武汉东湖.md "wikilink")，这个BBS得名珞珈山水BBS。
+  - 10月8日，武汉大学软件所（现为[软件工程国家重点实验室](https://zh.wikipedia.org/wiki/软件工程国家重点实验室 "wikilink")）一台[SUN](https://zh.wikipedia.org/wiki/升阳 "wikilink")[工作站上建立了一个BBS](../Page/工作站.md "wikilink")。因武汉大学坐拥[珞珈山](../Page/珞珈山.md "wikilink")，环绕[东湖水](https://zh.wikipedia.org/wiki/武汉东湖 "wikilink")，这个BBS得名珞珈山水BBS。
 
 2002年：
 
@@ -41,7 +41,7 @@
 
   - [武汉大学](../Page/武汉大学.md "wikilink")
   - [BBS](../Page/BBS.md "wikilink")
-  - [中国网络审查](../Page/中国网络审查.md "wikilink")
+  - [中国网络审查](https://zh.wikipedia.org/wiki/中国网络审查 "wikilink")
 
 ## 外部链接
 

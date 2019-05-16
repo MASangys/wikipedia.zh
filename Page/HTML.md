@@ -1,6 +1,6 @@
-**超文本标记语言**（，简称：**HTML**）是一种用于创建[网页的标准](../Page/网页.md "wikilink")[标记语言](../Page/标记语言.md "wikilink")。HTML是一种基础技术，常与[CSS](../Page/CSS.md "wikilink")、[JavaScript一起被众多网站用于设计网页](../Page/JavaScript.md "wikilink")、网页应用程序以及移动应用程序的用户界面\[1\]。[网页浏览器可以读取HTML文件](../Page/网页浏览器.md "wikilink")，并将其渲染成可视化网页。HTML描述了一个网站的结构语义随着线索的呈现，使之成为一种标记语言而非[编程语言](../Page/编程语言.md "wikilink")。
+**超文本标记语言**（，简称：**HTML**）是一种用于创建[网页的标准](https://zh.wikipedia.org/wiki/网页 "wikilink")[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。HTML是一种基础技术，常与[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JavaScript一起被众多网站用于设计网页](../Page/JavaScript.md "wikilink")、网页应用程序以及移动应用程序的用户界面\[1\]。[网页浏览器可以读取HTML文件](../Page/网页浏览器.md "wikilink")，并将其渲染成可视化网页。HTML描述了一个网站的结构语义随着线索的呈现，使之成为一种标记语言而非[编程语言](../Page/编程语言.md "wikilink")。
 
-[HTML元素是构建网站的基石](../Page/HTML元素.md "wikilink")。HTML允许嵌入图像与对象，并且可以用于创建交互式表单，它被用来结构化信息——例如标题、段落和列表等等，也可用来在一定程度上描述文档的外观和[语义](../Page/语义.md "wikilink")。HTML的语言形式为[尖括号包围的HTML元素](../Page/括号.md "wikilink")（如），浏览器使用HTML标签和脚本来诠释网页内容，但不会将它们显示在页面上。
+[HTML元素是构建网站的基石](../Page/HTML元素.md "wikilink")。HTML允许嵌入图像与对象，并且可以用于创建交互式表单，它被用来结构化信息——例如标题、段落和列表等等，也可用来在一定程度上描述文档的外观和[语义](https://zh.wikipedia.org/wiki/语义 "wikilink")。HTML的语言形式为[尖括号包围的HTML元素](../Page/括号.md "wikilink")（如），浏览器使用HTML标签和脚本来诠释网页内容，但不会将它们显示在页面上。
 
 HTML可以嵌入如[JavaScript的](../Page/JavaScript.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，它们会影响HTML网页的行为。网页浏览器也可以引用[层叠样式表](../Page/层叠样式表.md "wikilink")（CSS）来定义文本和其它元素的外观与布局。维护HTML和CSS标准的组织[万维网联盟](../Page/万维网联盟.md "wikilink")（W3C）鼓励人们使用CSS替代一些用于表现的HTML元素\[2\]。
 
@@ -12,22 +12,22 @@ HTML可以嵌入如[JavaScript的](../Page/JavaScript.md "wikilink")[脚本语�
 
 [Tim_Berners-Lee_April_2009.jpg](https://zh.wikipedia.org/wiki/File:Tim_Berners-Lee_April_2009.jpg "fig:Tim_Berners-Lee_April_2009.jpg")
 \]\]
-1980年，物理学家[蒂姆·伯纳斯-李在](../Page/蒂姆·伯纳斯-李.md "wikilink")[欧洲核子研究中心](../Page/歐洲核子研究組織.md "wikilink")（CERN）在承包工程期间，为使CERN的研究人员使用并共享文档，他提出并创建原型系统[ENQUIRE](../Page/ENQUIRE.md "wikilink")。1989年，伯纳斯-李在一份备忘录中提出一个基于[互联网的](../Page/互联网.md "wikilink")[超文本系统](../Page/超文本.md "wikilink")\[3\]。他-{zh-hans:规定;
+1980年，物理学家[蒂姆·伯纳斯-李在](../Page/蒂姆·伯纳斯-李.md "wikilink")[欧洲核子研究中心](../Page/歐洲核子研究組織.md "wikilink")（CERN）在承包工程期间，为使CERN的研究人员使用并共享文档，他提出并创建原型系统[ENQUIRE](https://zh.wikipedia.org/wiki/ENQUIRE "wikilink")。1989年，伯纳斯-李在一份备忘录中提出一个基于[互联网的](../Page/互联网.md "wikilink")[超文本系统](../Page/超文本.md "wikilink")\[3\]。他-{zh-hans:规定;
 zh-tw:制定}-HTML并在1990年底写出浏览器和服务器软件。同年，伯纳斯-李与CERN的数据系统工程师[罗伯特·卡里奥联合为项目申请资助](../Page/罗伯特·卡里奥.md "wikilink")，但未被CERN正式批准。在他的个人笔记中\[4\]伯纳斯-李列举“一些使用超文本的领域”，并把百科全书列为-{zh-hans:首位;
 zh-tw:第一項}-\[5\]。
 
 HTML的首个公开描述出现于一个名为“HTML标签”的文件中，由蒂姆·伯纳斯-李于1991年底提及\[6\]\[7\]。它描述18个元素，包括HTML初始的、相对简单的设计。除了超链接标签外，其他设计都深受CERN内部一个以[标准通用标记语言](../Page/SGML.md "wikilink")（SGML）为基础的文件格式SGMLguid的影响。这些元素在HTML
 4中仍有11个存在\[8\]。
 
-伯纳斯-李认为HTML是SGML的一个应用程序。1993年中期[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）发布首个HTML规范的提案：[“超文本标记语言（HTML）”互联网草案](http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt)，由伯纳斯-李与撰写。其中包括一个SGML[文档类型定义来定义语法](../Page/文件类型描述.md "wikilink")\[9\]。草案于6个月后过期，不过值得注意的是其对[NCSA
-Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](../Page/NCSA_Mosaic.md "wikilink")，这反映IETF把标准立足于成功原型的理念\[10\]。同样，在1993年末提出的与之竞争的互联网草案“HTML+（超文本标记格式）”建议规范已经实现的功能，如表格与填写表单\[11\]。
+伯纳斯-李认为HTML是SGML的一个应用程序。1993年中期[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）发布首个HTML规范的提案：[“超文本标记语言（HTML）”互联网草案](http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt)，由伯纳斯-李与撰写。其中包括一个SGML[文档类型定义来定义语法](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")\[9\]。草案于6个月后过期，不过值得注意的是其对[NCSA
+Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](https://zh.wikipedia.org/wiki/NCSA_Mosaic "wikilink")，这反映IETF把标准立足于成功原型的理念\[10\]。同样，在1993年末提出的与之竞争的互联网草案“HTML+（超文本标记格式）”建议规范已经实现的功能，如表格与填写表单\[11\]。
 
 在HTML和HTML+的草案于1994年初到期后，IETF创建一个HTML工作组，并在1995年完成"HTML
 2.0"，这是第一个旨在成为对其后续实现标准的依据的HTML规范\[12\]。
 
 在IETF的主持下，HTML标准的进一步发展因竞争利益而遭受停滞。自1996年起，HTML规范一直由[万维网联盟](../Page/万维网联盟.md "wikilink")（W3C）维护，并由商业软件厂商出资\[13\]。不过在2000年，HTML也成为国际标准（[ISO](../Page/國際標準化組織.md "wikilink")/
-[IEC](../Page/IEC.md "wikilink")15445：2000）。HTML
-4.01于1999年末发布，进一步的勘误版本于2001年发布。2004年，[网页超文本应用技术工作小组](../Page/網頁超文本技術工作小組.md "wikilink")（WHATWG）开始开发HTML5，并在2008年与W3C共同交付，2014年10月28日完成标准化\[14\]。
+[IEC](https://zh.wikipedia.org/wiki/IEC "wikilink")15445：2000）。HTML
+4.01于1999年末发布，进一步的勘误版本于2001年发布。2004年，[网页超文本应用技术工作小组](https://zh.wikipedia.org/wiki/網頁超文本技術工作小組 "wikilink")（WHATWG）开始开发HTML5，并在2008年与W3C共同交付，2014年10月28日完成标准化\[14\]。
 
 ### 版本时间线
 
@@ -43,7 +43,7 @@ Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](../
 :\* 1997年1月：RFC 2070（[国际化](../Page/国际化与本地化.md "wikilink")）
 
   - 1997年1月14日: HTML
-    3.2\[15\]作为[W3C推荐标准发布](../Page/W3C.md "wikilink")。这是首个完全由W3C开发并标准化的版本，因IETF于1996年9月12日关闭它的HTML工作组<ref>{{cite
+    3.2\[15\]作为[W3C推荐标准发布](https://zh.wikipedia.org/wiki/W3C "wikilink")。这是首个完全由W3C开发并标准化的版本，因IETF于1996年9月12日关闭它的HTML工作组<ref>{{cite
     web
 
 `|url         = `<http://www.w3.org/MarkUp/HTML-WG/>
@@ -58,8 +58,8 @@ Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](../
 
   -
     最初代号为“威尔伯”（Wilbur）\[16\]，HTML
-    3.2完全去除数学公式，协调各种专有扩展，并采用[网景设计的大多数视觉标记标签](../Page/网景.md "wikilink")。由於兩家公司達成了-{zh-hans:协议;
-    zh-tw:協議}-，网景的和[微软的](../Page/微软.md "wikilink")被移除\[17\]。HTML对数学公式的支持最后成为另外一种被称为[MathML的标准](../Page/MathML.md "wikilink")。
+    3.2完全去除数学公式，协调各种专有扩展，并采用[网景设计的大多数视觉标记标签](https://zh.wikipedia.org/wiki/网景 "wikilink")。由於兩家公司達成了-{zh-hans:协议;
+    zh-tw:協議}-，网景的和[微软的](../Page/微软.md "wikilink")被移除\[17\]。HTML对数学公式的支持最后成为另外一种被称为[MathML的标准](https://zh.wikipedia.org/wiki/MathML "wikilink")。
 
   - 1997年12月18日: HTML 4.0\[18\]作为W3C推荐标准发布。它提供三种变化：
 
@@ -76,9 +76,9 @@ Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](../
 
   - 1998年4月24日: HTML 4.0\[21\]进行微调，不增加版本号。
     1999年12月24日: HTML
-    4.01\[22\]作为[W3C推荐标准发布](../Page/W3C.md "wikilink")。它同样提供三种变化，最终[勘误版](http://www.w3.org/MarkUp/html4-updates/errata)于2001年5月12日发布。
+    4.01\[22\]作为[W3C推荐标准发布](https://zh.wikipedia.org/wiki/W3C "wikilink")。它同样提供三种变化，最终[勘误版](http://www.w3.org/MarkUp/html4-updates/errata)于2001年5月12日发布。
     2000年5月: ISO/IEC
-    15445:2000\[23\]\[24\]（"[ISO](../Page/International_Organization_for_Standardization.md "wikilink")
+    15445:2000\[23\]\[24\]（"[ISO](https://zh.wikipedia.org/wiki/International_Organization_for_Standardization "wikilink")
     HTML"，基于HTML
     4.01严格版）作为ISO/IEC国际标准发布。在ISO中这一标准位于域（ISO/IEC联合技术委员会1、小组委员会34
     – 文档描述与处理语言）\[25\]。
@@ -93,7 +93,7 @@ Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](../
     后续有七个修订版\[30\]\[31\]\[32\]（7月15日，8月6日，8月18日，11月17日，11月19日，11月20日，11月22日）。
     1992年11月: HTML DTD 1.1（首个版本号，基于RCS修订版，版本号从1.1开始而非1.0），非正式草案。\[33\]
     1993年6月:
-    超文本标记语言\[34\]由[IETF](../Page/Internet_Engineering_Task_Force.md "wikilink")
+    超文本标记语言\[34\]由[IETF](https://zh.wikipedia.org/wiki/Internet_Engineering_Task_Force "wikilink")
     IIIR工作小组作为互联网草案（一个粗略的建议标准）。在被第二版\[35\]取代一个月后，IETF又发布6个草案\[36\]，最终在RFC1866中发布HTML
     2.0。
     1993年11月: HTML+由IETF作为互联网草案发布，是超文本标记语言草案的一个竞争性提案。它于1994年5月到期。
@@ -108,7 +108,7 @@ Mosaic浏览器自定义标签从而将在线图像嵌入的行为的认可](../
 `|archiveurl  = `<https://web.archive.org/web/20070706204926/http://www.w3.org/MarkUp/html3/CoverPage>
 `|archivedate = 2007-07-06`
 
-}}</ref>。W3C开始开发自己的[Arena浏览器作为HTML](../Page/Arena_\(瀏覽器\).md "wikilink")
+}}</ref>。W3C开始开发自己的[Arena浏览器作为HTML](https://zh.wikipedia.org/wiki/Arena_\(瀏覽器\) "wikilink")
 3和层叠样式表的\[39\]\[40\]\[41\]，但HTML
 3.0并没有获得成功。浏览器厂商，包括微软和网景，选择实现HTML3草案功能的不同子集并引入它们自己的插件（见[浏览器大战](../Page/浏览器大战.md "wikilink")）\[42\]。
 
@@ -145,7 +145,7 @@ XHTML是使用[XML](../Page/XML.md "wikilink") 1.0改写自HTML
   - XHTML 1.1\[53\]，基于XHTML 1.0 严格版，2001年5月31日
     作为W3C推荐标准发布。修订版可使用[模块化XHTML](http://www.w3.org/TR/xhtml-modularization/)的模块，2001年4月10日作为W3C推荐标准发布。
   - XHTML
-    2.0为工作草案，但为支持[HTML5与](../Page/HTML5.md "wikilink")[XHTML5的工作](../Page/XHTML#XHTML5.md "wikilink")，此草案被放弃\[54\]\[55\]\[56\]。
+    2.0为工作草案，但为支持[HTML5与](../Page/HTML5.md "wikilink")[XHTML5的工作](https://zh.wikipedia.org/wiki/XHTML#XHTML5 "wikilink")，此草案被放弃\[54\]\[55\]\[56\]。
     XHTML 2.0与XHTML 1.x不兼容，因此更确切的说这是一个XHTML风格的新语言而不是XHTML 1.x的更新。
   - 在HTML5草案中规定一个XHTML语法，称为“XHTML5.1”\[57\]。
 
@@ -251,7 +251,7 @@ HTML中存在以下几种类型的标记元素：
 <!-- end list -->
 
   - 超文本标记使文档的一部分链接到其他文档:
-    锚元素在文档中创建[超链接](../Page/超链接.md "wikilink")，其`href`属性设置链接的目标[URL](../Page/统一资源定位符.md "wikilink")。例如：HTML标记会将文字"<span class="plainlinks">[中文维基百科](https://zh.wikipedia.org/)</span>"渲染为超链接。要将图片渲染为超链接，`img`元素要作为内容插入到`a`元素中：。
+    锚元素在文档中创建[超链接](https://zh.wikipedia.org/wiki/超链接 "wikilink")，其`href`属性设置链接的目标[URL](../Page/统一资源定位符.md "wikilink")。例如：HTML标记会将文字"<span class="plainlinks">[中文维基百科](https://zh.wikipedia.org/)</span>"渲染为超链接。要将图片渲染为超链接，`img`元素要作为内容插入到`a`元素中：。
 
 #### 属性
 
@@ -281,30 +281,30 @@ HTML中存在以下几种类型的标记元素：
 在大多数浏览器中，光标指向缩写时会显示标题文字“超文本标记语言”。
 
 大多数元素采用与语言相关的属性`dir` 来指定文字方向，如
-"rtl"采用从右到左的文本，比如[阿拉伯语](../Page/阿拉伯语.md "wikilink")、[波斯语以及](../Page/波斯语.md "wikilink")[希伯来语](../Page/希伯来语.md "wikilink")\[66\]。
+"rtl"采用从右到左的文本，比如[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")、[波斯语以及](../Page/波斯语.md "wikilink")[希伯来语](../Page/希伯来语.md "wikilink")\[66\]。
 
 ### 字符与实体引用
 
-在4.0版本中，HTML定义了一系列共252个字符实体引用和1,114,050个[字元值參考](../Page/字元值參考.md "wikilink")。二者都支持单个字符通过简单的标记写入。文字字符与其对应的标记渲染的效果相同。
+在4.0版本中，HTML定义了一系列共252个字符实体引用和1,114,050个[字元值參考](https://zh.wikipedia.org/wiki/字元值參考 "wikilink")。二者都支持单个字符通过简单的标记写入。文字字符与其对应的标记渲染的效果相同。
 
 用这种方式“转义”字符的能力允许字符`<`与`&`（当分别被写作`<`和`&`时）被理解为字符数据而不是标记。例如`<`通常为标签的开头，`&`通常为字符实体引用与数字字符引用的开头；`&`或`&`或`&`将`&`作为元素的内容或属性的值。双引号字符`"`在不被用于属性值的标示时必须转义为`"`或`"`或`"`；相等地，当于单引号字符`'`不被用于属性值的标示时，也必须转义为`'`或`'`（或HTML5与XHTML文档中的`'`\[67\]\[68\]）。
 
-如果文档作者忽略了转义这样的字符，一些浏览器会尝试通过上下文猜测他们的意图。如果结果仍为无效标记，这会使其他浏览器或[用户代理难以访问到该文档](../Page/用户代理.md "wikilink")，并使它们尝试使用[搜索和索引来解析该文档](../Page/网络爬虫.md "wikilink")。
+如果文档作者忽略了转义这样的字符，一些浏览器会尝试通过上下文猜测他们的意图。如果结果仍为无效标记，这会使其他浏览器或[用户代理难以访问到该文档](../Page/用户代理.md "wikilink")，并使它们尝试使用[搜索和索引来解析该文档](https://zh.wikipedia.org/wiki/网络爬虫 "wikilink")。
 
 那些难以输入或不在该文档[字符编码中的字符也可通过转义来实现](../Page/字符编码.md "wikilink")。例如通常只在西欧或南美的键盘出现的重音符`e`（`é`），可以在HTML文档中用作实体引用`é`
 或数字引用`é`或`é`。
-诸如[UTF-8的](../Page/UTF-8.md "wikilink")[Unicode字符编码与所有的现代浏览器兼容并允许直接访问全球书写系统几乎所有的字符](../Page/Unicode.md "wikilink")
+诸如[UTF-8的](../Page/UTF-8.md "wikilink")[Unicode字符编码与所有的现代浏览器兼容并允许直接访问全球书写系统几乎所有的字符](https://zh.wikipedia.org/wiki/Unicode "wikilink")
 \[69\]。
 
 ### 数据类型
 
-HTML为元素内容定义了多种[数据类型](../Page/數據類型.md "wikilink")，如脚本数据、样式表数据以及许多属性值的类型，包括ID、名称、URI、数字长度单位、语言、媒体描述符颜色、字符编码、日期和时间等等。所有这些数据类型都是字符数据的特殊化。
+HTML为元素内容定义了多种[数据类型](https://zh.wikipedia.org/wiki/數據類型 "wikilink")，如脚本数据、样式表数据以及许多属性值的类型，包括ID、名称、URI、数字长度单位、语言、媒体描述符颜色、字符编码、日期和时间等等。所有这些数据类型都是字符数据的特殊化。
 
 ### 文档类型声明
 
 HTML文档需要以（英语非正式说法“doctype”）开头。在浏览器中，文档类型声明有助于确定渲染模式——特别是是否使用[怪异模式](../Page/怪异模式.md "wikilink")。
 
-文档类型声明的初衷是通过基于[文档类型定义](../Page/文档类型定义.md "wikilink")（DTD）的SGML工具来解析并验证HTML文档。
+文档类型声明的初衷是通过基于[文档类型定义](https://zh.wikipedia.org/wiki/文档类型定义 "wikilink")（DTD）的SGML工具来解析并验证HTML文档。
 
 [HTML5未定义DTD](../Page/HTML5.md "wikilink")，所以在HTML5中文档类型声明更为简短：\[70\]
 
@@ -326,12 +326,12 @@ HTML 4文档类型声明举例：
 
 ## 语义化HTML
 
-语义化HTML是一种编写HTML的方式，它强调编码信息的含义在其格式（样子）之上。HTML从创立之初就包括语义化标记\[72\]，但也包括标识性标记如、和标签。也存在一些语义上中立的[span与div标签](../Page/span_and_div.md "wikilink")。自1990年代末[CSS开始应用于大多数浏览器](../Page/层叠样式表.md "wikilink")，网页制作者就被鼓励使用CSS以便[呈現與內容分離](../Page/呈現與內容分離.md "wikilink")\[73\]。
+语义化HTML是一种编写HTML的方式，它强调编码信息的含义在其格式（样子）之上。HTML从创立之初就包括语义化标记\[72\]，但也包括标识性标记如、和标签。也存在一些语义上中立的[span与div标签](https://zh.wikipedia.org/wiki/span_and_div "wikilink")。自1990年代末[CSS开始应用于大多数浏览器](../Page/层叠样式表.md "wikilink")，网页制作者就被鼓励使用CSS以便[呈現與內容分離](https://zh.wikipedia.org/wiki/呈現與內容分離 "wikilink")\[73\]。
 
 在2001年一次对[语义网的讨论中](../Page/语义网.md "wikilink")，[蒂姆·伯纳斯-李等人给出了一种的方法](../Page/蒂姆·伯纳斯-李.md "wikilink")，使智能软件“代理人”可能有一天会自动抓取网页进行查找、过滤并将之前不相关的联系起来\[74\]。这种代理甚至在现在也不普遍，但一些[Web
-2.0](../Page/Web_2.0.md "wikilink")、[混搭和](../Page/混搭_\(互聯網\).md "wikilink")[价格比较网站的想法可能会结束](../Page/格價.md "wikilink")。这些网页应用程序的混合与伯纳斯-李的语义代理人的之间主要区别基于以下事实：当前的[聚合与信息混合通常由](../Page/聚合器.md "wikilink")[网页开发者设计](../Page/網頁開發者.md "wikilink")，他们早已知道网络位置和他们希望混搭、比较与结合的特定数据的[API语义](../Page/API.md "wikilink")。
+2.0](../Page/Web_2.0.md "wikilink")、[混搭和](../Page/混搭_\(互聯網\).md "wikilink")[价格比较网站的想法可能会结束](https://zh.wikipedia.org/wiki/格價 "wikilink")。这些网页应用程序的混合与伯纳斯-李的语义代理人的之间主要区别基于以下事实：当前的[聚合与信息混合通常由](../Page/聚合器.md "wikilink")[网页开发者设计](https://zh.wikipedia.org/wiki/網頁開發者 "wikilink")，他们早已知道网络位置和他们希望混搭、比较与结合的特定数据的[API语义](https://zh.wikipedia.org/wiki/API "wikilink")。
 
-网页代理的一个重要类型是[网络爬虫或搜索引擎蜘蛛](../Page/網路蜘蛛.md "wikilink")。这些软件代理依赖于它们发现的网页的语义清晰度，因为它们一天要使用各种技术与[算法来读取和索引数百万个网页并给网页用户提供](../Page/算法.md "wikilink")[搜索工具](../Page/網路搜尋引擎.md "wikilink")，没有这些万维网的有效性就会大大降低。
+网页代理的一个重要类型是[网络爬虫或搜索引擎蜘蛛](https://zh.wikipedia.org/wiki/網路蜘蛛 "wikilink")。这些软件代理依赖于它们发现的网页的语义清晰度，因为它们一天要使用各种技术与[算法来读取和索引数百万个网页并给网页用户提供](../Page/算法.md "wikilink")[搜索工具](https://zh.wikipedia.org/wiki/網路搜尋引擎 "wikilink")，没有这些万维网的有效性就会大大降低。
 
 为使搜索引擎蜘蛛评估它们在HTML文档中发现的文本片段的重要性，也为那些创建标记等混合的人与更多的自动化代理工具，HTML中的语义结构需要广泛一致地应用从而将文本的含义呈现给浏览者。\[75\]
 
@@ -345,12 +345,12 @@ HTML文档分发的方法和其他计算机文件相同。不过，它们最常�
 
 ### HTTP
 
-[万维网主要由从服务器通过](../Page/万维网.md "wikilink")[HTTP协议向浏览器发送的HTML文档组成](../Page/HTTP.md "wikilink")。但是，HTTP也可以被用于传输HTML之外的数据，例如图像、声音和其他内容。为使浏览器了解如何处理接收到的文档，在传输文档时必须同时传递[文件类型](../Page/文件类型.md "wikilink")。这种[元数据包含](../Page/元数据.md "wikilink")[MIME类型](../Page/MIME.md "wikilink")（对于HTML
+[万维网主要由从服务器通过](../Page/万维网.md "wikilink")[HTTP协议向浏览器发送的HTML文档组成](https://zh.wikipedia.org/wiki/HTTP "wikilink")。但是，HTTP也可以被用于传输HTML之外的数据，例如图像、声音和其他内容。为使浏览器了解如何处理接收到的文档，在传输文档时必须同时传递[文件类型](https://zh.wikipedia.org/wiki/文件类型 "wikilink")。这种[元数据包含](../Page/元数据.md "wikilink")[MIME类型](https://zh.wikipedia.org/wiki/MIME "wikilink")（对于HTML
 4.01或更早版本是`text/html`，而对于XHTML
-1.0或之后的版本是`application/xhtml+xml`），以及字符编码（参见[HTML字符编码方式](../Page/HTML字符编码.md "wikilink")）。
+1.0或之后的版本是`application/xhtml+xml`），以及字符编码（参见[HTML字符编码方式](https://zh.wikipedia.org/wiki/HTML字符编码 "wikilink")）。
 
 在现在的浏览器中，和HTML文档一起发送的MIME类型影响文档的解读方式。和XHTML
-MIME类型一起发送的文档被认为是良构的[XML](../Page/XML.md "wikilink")，而[语法错误会导致浏览器无法呈现文档](../Page/语法错误.md "wikilink")。完全相同的文档如果和HTML
+MIME类型一起发送的文档被认为是良构的[XML](../Page/XML.md "wikilink")，而[语法错误会导致浏览器无法呈现文档](https://zh.wikipedia.org/wiki/语法错误 "wikilink")。完全相同的文档如果和HTML
 MIME类型一起发送，则可能被正常显示，因为浏览器对HTML的语法检查更加鬆懈些。
 
 W3C的推荐指出，遵循规定的推荐指引的XHTML 1.0文档可标记二者任一的MIME类型\[77\]。XHTML 1.1还指出，XHTML
@@ -358,51 +358,51 @@ W3C的推荐指出，遵循规定的推荐指引的XHTML 1.0文档可标记二�
 
 ### HTML邮件
 
-大多数图形电子邮件客户端允许使用HTML的子集（经常界限不清）提供格式化和无法使用[纯文本的](../Page/纯文本.md "wikilink")[语义标记](../Page/语义网.md "wikilink")。这可能包括印刷信息，如彩色标题、强调和引用文本、内嵌图片和图表等。许多这样的客户包含一个编写HTML电子邮件消息的[图形用户界面编辑器和一个用于显示的渲染引擎](../Page/图形用户界面.md "wikilink")。在邮件中使用HTML受到了一些兼容性的批评，由于一些盲人或具有视觉障碍的人的访问问题，这种方式有利于伪装的[钓鱼攻击](../Page/钓鱼式攻击.md "wikilink")。因其消息大小超过明文，所以它可混淆[垃圾邮件过滤器](../Page/垃圾電郵.md "wikilink")。
+大多数图形电子邮件客户端允许使用HTML的子集（经常界限不清）提供格式化和无法使用[纯文本的](https://zh.wikipedia.org/wiki/纯文本 "wikilink")[语义标记](../Page/语义网.md "wikilink")。这可能包括印刷信息，如彩色标题、强调和引用文本、内嵌图片和图表等。许多这样的客户包含一个编写HTML电子邮件消息的[图形用户界面编辑器和一个用于显示的渲染引擎](../Page/图形用户界面.md "wikilink")。在邮件中使用HTML受到了一些兼容性的批评，由于一些盲人或具有视觉障碍的人的访问问题，这种方式有利于伪装的[钓鱼攻击](../Page/钓鱼式攻击.md "wikilink")。因其消息大小超过明文，所以它可混淆[垃圾邮件过滤器](../Page/垃圾電郵.md "wikilink")。
 
 ### 命名规则
 
-最常用的计算机[文件扩展名为](../Page/文件扩展名.md "wikilink")`.html`，通用缩写为`.htm`。它起源于某些早期操作系统与文件系统，如[DOS以及](../Page/DOS.md "wikilink")[FAT数据结构的局限性](../Page/FAT.md "wikilink")，它将文件扩展名限制为[3个字母](../Page/8.3.md "wikilink")\[80\]。
+最常用的计算机[文件扩展名为](../Page/文件扩展名.md "wikilink")`.html`，通用缩写为`.htm`。它起源于某些早期操作系统与文件系统，如[DOS以及](../Page/DOS.md "wikilink")[FAT数据结构的局限性](../Page/FAT.md "wikilink")，它将文件扩展名限制为[3个字母](https://zh.wikipedia.org/wiki/8.3 "wikilink")\[80\]。
 
 ### HTML应用程序
 
 HTML应用程序（HTA；文件扩展名".hta"）是一个[Microsoft
-Windows应用程序](../Page/Microsoft_Windows.md "wikilink")，它在浏览器中使用HTML和动态HTML提供应用程序图形界面。正规HTML文件被限制在浏览器的安全模型中，只能分别通过网页服务器和网页对象与站点[Cookie进行通信和操作](../Page/Cookie.md "wikilink")。HTA作为完全受信任的应用程序运行，因此拥有更多的权限，如创建/编辑/删除文件与[注册表项](../Page/注册表.md "wikilink")。因为它们在浏览器安全模式之外操作，所以HTA不能通过HTTP执行，必须下载（就像[EXE文件](../Page/EXE格式.md "wikilink")）并在本地文件系统执行。
+Windows应用程序](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，它在浏览器中使用HTML和动态HTML提供应用程序图形界面。正规HTML文件被限制在浏览器的安全模型中，只能分别通过网页服务器和网页对象与站点[Cookie进行通信和操作](../Page/Cookie.md "wikilink")。HTA作为完全受信任的应用程序运行，因此拥有更多的权限，如创建/编辑/删除文件与[注册表项](../Page/注册表.md "wikilink")。因为它们在浏览器安全模式之外操作，所以HTA不能通过HTTP执行，必须下载（就像[EXE文件](../Page/EXE格式.md "wikilink")）并在本地文件系统执行。
 
 ## 所见即所得编辑器
 
-[所见即所得编辑器使用](../Page/所見即所得.md "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）显示HTML文档，常常类似于[文字处理器](../Page/文字处理器.md "wikilink")，所以用户可以设计一切。编者面对的是文档，而不是代码，所以作者并不需要太多的HTML知识。这种所见即所得的编辑模式一直受到诟病\[81\]\[82\]，主要因为它生成的代码质量不高；也有人主张将其改变至[WYSIWYM模型](../Page/WYSIWYM.md "wikilink")（所见即所指）。
+[所见即所得编辑器使用](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）显示HTML文档，常常类似于[文字处理器](../Page/文字处理器.md "wikilink")，所以用户可以设计一切。编者面对的是文档，而不是代码，所以作者并不需要太多的HTML知识。这种所见即所得的编辑模式一直受到诟病\[81\]\[82\]，主要因为它生成的代码质量不高；也有人主张将其改变至[WYSIWYM模型](https://zh.wikipedia.org/wiki/WYSIWYM "wikilink")（所见即所指）。
 
 ## 参见
 
   - [面包屑导航](../Page/面包屑导航.md "wikilink")
 
-  - [HTML 解析器对比](../Page/HTML_解析器对比.md "wikilink")
+  - [HTML 解析器对比](https://zh.wikipedia.org/wiki/HTML_解析器对比 "wikilink")
 
-  - [CSS](../Page/CSS.md "wikilink")
+  - [CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")
 
-  - [动态网页](../Page/动态网页.md "wikilink")
+  - [动态网页](https://zh.wikipedia.org/wiki/动态网页 "wikilink")
 
   - [HTML5](../Page/HTML5.md "wikilink")
 
-  - [HTTP](../Page/HTTP.md "wikilink")
+  - [HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")
 
   - [JavaScript](../Page/JavaScript.md "wikilink")
 
-  - [文档标记语言列表](../Page/文档标记语言列表.md "wikilink")
+  - [文档标记语言列表](https://zh.wikipedia.org/wiki/文档标记语言列表 "wikilink")
 
   - [字符实体引用](../Page/字符实体引用.md "wikilink")
 
-  - [微数据](../Page/微数据.md "wikilink")
+  - [微数据](https://zh.wikipedia.org/wiki/微数据 "wikilink")
 
   - [微格式](../Page/微格式.md "wikilink")
 
   -
-  - [语义化HTML](../Page/语义化HTML.md "wikilink")
+  - [语义化HTML](https://zh.wikipedia.org/wiki/语义化HTML "wikilink")
 
   - [SGML](../Page/SGML.md "wikilink")
 
-  - [W3C验证服务](../Page/W3C验证服务.md "wikilink")
+  - [W3C验证服务](https://zh.wikipedia.org/wiki/W3C验证服务 "wikilink")
 
   - [XML](../Page/XML.md "wikilink")
 
@@ -410,11 +410,11 @@ Windows应用程序](../Page/Microsoft_Windows.md "wikilink")，它在浏览器�
 
 ## 外部链接
 
-  - [WHATWG当前的](../Page/WHATWG.md "wikilink")[HTML标准](http://whatwg.org/html)
+  - [WHATWG当前的](https://zh.wikipedia.org/wiki/WHATWG "wikilink")[HTML标准](http://whatwg.org/html)
 
-  - [W3C制定的](../Page/W3C.md "wikilink")[HTML 5.2，HTML的未来版本](http://www.w3.org/html/wg/drafts/html/master/)
+  - [W3C制定的](https://zh.wikipedia.org/wiki/W3C "wikilink")[HTML 5.2，HTML的未来版本](http://www.w3.org/html/wg/drafts/html/master/)
 
-  - [W3C制定的](../Page/W3C.md "wikilink")[HTML 5.1，最近完成的规范（2016年11月1日）](http://www.w3.org/TR/2014/REC-html5-20141028/)
+  - [W3C制定的](https://zh.wikipedia.org/wiki/W3C "wikilink")[HTML 5.1，最近完成的规范（2016年11月1日）](http://www.w3.org/TR/2014/REC-html5-20141028/)
 
   - [戴夫·拉格特介绍HTML](http://www.w3.org/MarkUp/Guide/)
 
@@ -577,8 +577,8 @@ Windows应用程序](../Page/Microsoft_Windows.md "wikilink")，它在浏览器�
 73.  This article notes that presentational HTML markup may be useful
     when targeting browsers "before Netscape 4.0 and Internet Explorer
     4.0". See the [list of web
-    browsers](../Page/list_of_web_browsers.md "wikilink") to confirm
-    that these were both released in 1997.
+    browsers](https://zh.wikipedia.org/wiki/list_of_web_browsers "wikilink")
+    to confirm that these were both released in 1997.
 
 74.
 

@@ -2,10 +2,10 @@
 [Nupedia.jpg](https://zh.wikipedia.org/wiki/File:Nupedia.jpg "fig:Nupedia.jpg")
 [Nupedia_oldlogo.PNG](https://zh.wikipedia.org/wiki/File:Nupedia_oldlogo.PNG "fig:Nupedia_oldlogo.PNG")
 
-**Nupedia**是一個Web版的線上[百科全書計畫](../Page/百科全書.md "wikilink")，由[吉米·威爾士創立的公司](../Page/吉米·威爾士.md "wikilink")[Bomis在](../Page/Bomis.md "wikilink")2000年3月所推出，吉米·威爾士並聘請[拉里·桑格作為該百科全書的主編](../Page/拉里·桑格.md "wikilink")。
+**Nupedia**是一個Web版的線上[百科全書計畫](https://zh.wikipedia.org/wiki/百科全書 "wikilink")，由[吉米·威爾士創立的公司](https://zh.wikipedia.org/wiki/吉米·威爾士 "wikilink")[Bomis在](../Page/Bomis.md "wikilink")2000年3月所推出，吉米·威爾士並聘請[拉里·桑格作為該百科全書的主編](../Page/拉里·桑格.md "wikilink")。
 
-Nupedia的内容是由各領域專家透過[同儕評閱](../Page/同儕評閱.md "wikilink")（peer
-review）過程，檢查確定後才發佈的，也希望專家學者能志願撰寫供公眾自由閱讀的內容，主要是為了達到專業百科全書的水準，但進行得並不十分順利。拉里·桑格便於2001年1月向[吉米·威爾士提議以Wiki作為百科全書平台](../Page/吉米·威爾士.md "wikilink")，並發起另一個稱為[維基百科](../Page/維基百科.md "wikilink")（[Wikipedia](../Page/Wikipedia.md "wikilink")）的旁系計劃，並全力投入Nupedia和Wikipedia的工作，直至2002年3月1日離職為止；2003年中旬[吉米·威爾士創立](../Page/吉米·威爾士.md "wikilink")[维基媒体基金会繼續執行](../Page/维基媒体基金会.md "wikilink")[維基百科計畫](../Page/維基百科.md "wikilink")，並發展成目前全球最大的-{zh-hans:在线;
+Nupedia的内容是由各領域專家透過[同儕評閱](https://zh.wikipedia.org/wiki/同儕評閱 "wikilink")（peer
+review）過程，檢查確定後才發佈的，也希望專家學者能志願撰寫供公眾自由閱讀的內容，主要是為了達到專業百科全書的水準，但進行得並不十分順利。拉里·桑格便於2001年1月向[吉米·威爾士提議以Wiki作為百科全書平台](https://zh.wikipedia.org/wiki/吉米·威爾士 "wikilink")，並發起另一個稱為[維基百科](https://zh.wikipedia.org/wiki/維基百科 "wikilink")（[Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia "wikilink")）的旁系計劃，並全力投入Nupedia和Wikipedia的工作，直至2002年3月1日離職為止；2003年中旬[吉米·威爾士創立](https://zh.wikipedia.org/wiki/吉米·威爾士 "wikilink")[维基媒体基金会繼續執行](../Page/维基媒体基金会.md "wikilink")[維基百科計畫](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，並發展成目前全球最大的-{zh-hans:在线;
 zh-hant:在線; zh-hk:線上; zh-tw:線上;
 zh-mo:線上;}-百科全書，而Nupedia則於2003年9月結束並下線，所以Nupedia可說是Wikipedia的前身。
 

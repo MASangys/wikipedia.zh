@@ -1,6 +1,6 @@
 [Bmybbs_telnet.gif](https://zh.wikipedia.org/wiki/File:Bmybbs_telnet.gif "fig:Bmybbs_telnet.gif")
 
-**西交兵马俑BBS**是[西安交通大学的官方BBS](../Page/西安交通大学.md "wikilink")，[中国教育网内较早的BBS之一](../Page/中国教育和科研计算机网.md "wikilink")，也是较有影响的BBS之一。下设开发技术、电脑应用、学术科学、社会科学、文学艺术、知性感性、体育运动、休闲音乐、游戏娱乐、兄弟院校、乡音乡情、校务信息、俱乐部区、本站系统、交通大学和新闻信息十六个大的讨论区。
+**西交兵马俑BBS**是[西安交通大学的官方BBS](https://zh.wikipedia.org/wiki/西安交通大学 "wikilink")，[中国教育网内较早的BBS之一](../Page/中国教育和科研计算机网.md "wikilink")，也是较有影响的BBS之一。下设开发技术、电脑应用、学术科学、社会科学、文学艺术、知性感性、体育运动、休闲音乐、游戏娱乐、兄弟院校、乡音乡情、校务信息、俱乐部区、本站系统、交通大学和新闻信息十六个大的讨论区。
 
 ## 大事记
 
@@ -17,9 +17,9 @@
 ## 三月通告
 
 该站关于禁止校外IP访问的通告中指出“接到本站上级主管部门命令，本站将在两会期间对访问策略进行调整”。从2005年3月5日起，“我校BBS只开通本校校园网范围访问。因此取消
-bbs.xanet.edu.cn的IP和功能变数名称。在防火墻上加上外网不能访问的规则”。“本站不主张校内用户随意提供到本站的穿梭。此次访问策略调整待本站上级主管部门另行通知后解除”。本公告同在同一时间其他各大BBS的通告不同，没有说是因为“系统维护”原因进行这个调整。据此，有人断定，其他BBS，如[水木清华等](../Page/水木清华.md "wikilink")，进行调整的真正原因可能不是因为系统维护，而是这里说的“上级主管部门命令”。
+bbs.xanet.edu.cn的IP和功能变数名称。在防火墻上加上外网不能访问的规则”。“本站不主张校内用户随意提供到本站的穿梭。此次访问策略调整待本站上级主管部门另行通知后解除”。本公告同在同一时间其他各大BBS的通告不同，没有说是因为“系统维护”原因进行这个调整。据此，有人断定，其他BBS，如[水木清华等](https://zh.wikipedia.org/wiki/水木清华 "wikilink")，进行调整的真正原因可能不是因为系统维护，而是这里说的“上级主管部门命令”。
 
-2005年3月17日，该站在此发出通告，指出：“接到上级主管部门通知”，“在前次调整访问策略的基础上”，“完全关闭校外访问，具体恢复时间等待上级通知”。同时希望“校外网友备份好自己的数据，以免造成更大的损失”。在3月17日左右，大部分中国大陆的高校BBS都有类似通告。此次高校BBS的调整据说是[中国大陆教育部长](../Page/中華人民共和國教育部.md "wikilink")[周济的主张](../Page/周济_\(1946年\).md "wikilink")。尽管大部分学生很不理解，很多人以各种形式抗议，到目前为止，没有消息表明政府改变决策。
+2005年3月17日，该站在此发出通告，指出：“接到上级主管部门通知”，“在前次调整访问策略的基础上”，“完全关闭校外访问，具体恢复时间等待上级通知”。同时希望“校外网友备份好自己的数据，以免造成更大的损失”。在3月17日左右，大部分中国大陆的高校BBS都有类似通告。此次高校BBS的调整据说是[中国大陆教育部长](https://zh.wikipedia.org/wiki/中華人民共和國教育部 "wikilink")[周济的主张](https://zh.wikipedia.org/wiki/周济_\(1946年\) "wikilink")。尽管大部分学生很不理解，很多人以各种形式抗议，到目前为止，没有消息表明政府改变决策。
 
 ## 兵马俑程序系统
 
@@ -32,12 +32,13 @@ gyt\[5\]、wjbta（兼任）\[6\]、clearboy\[7\]、interma\[8\]、pzhgpzhg\[9\]
 ### 代码及文档
 
 兵马俑BBS源代码遵循[GNU](../Page/GNU.md "wikilink")
-[GPL发布](../Page/GPL.md "wikilink")，任何用户均可以下载用于非商业用途。代码可以通过[SVN签出](../Page/Subversion.md "wikilink")，官方的代码仓库为
+[GPL发布](https://zh.wikipedia.org/wiki/GPL "wikilink")，任何用户均可以下载用于非商业用途。代码可以通过[SVN签出](../Page/Subversion.md "wikilink")，官方的代码仓库为
 svn co
 <http://bbs.xjtu.edu.cn/svn/src_1.8>。[Google](../Page/Google.md "wikilink")
-[Code上有一份同步镜像](../Page/Google_Code.md "wikilink")。\[10\]
+[Code上有一份同步镜像](https://zh.wikipedia.org/wiki/Google_Code "wikilink")。\[10\]
 
-正在使用的这套源代码使用C语言开发，大量使用了 [POSIX](../Page/POSIX.md "wikilink") 及其他开源库，可以在
+正在使用的这套源代码使用C语言开发，大量使用了
+[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") 及其他开源库，可以在
 [Linux](../Page/Linux.md "wikilink")/[Cygwin](../Page/Cygwin.md "wikilink")
 等环境下使用 [GCC](../Page/GCC.md "wikilink")
 等工具编译运行。兵马俑BBS的编译安装可以参考YTHT系BBS的文档，兵马俑程序组整理了安装指南《BMYBBS权威安装文档》、《nju09如何使用debian自带apahce2.2》以及《BMYBBS
@@ -53,7 +54,7 @@ BMY导读\]显示的硬件信息为：
 
   - 处理器 Intel Xeon 3GHz \*4
   - 内存 16GB EEC
-  - 存储 [SAN](../Page/SAN.md "wikilink") 1000G
+  - 存储 [SAN](https://zh.wikipedia.org/wiki/SAN "wikilink") 1000G
   - 网络 双1000Mbps
 
 ## 外部链接
@@ -70,7 +71,7 @@ BMY导读\]显示的硬件信息为：
 1.
 2.
 3.
-4.  [一塌糊涂BBS简史](../Page/Ytht#.E7.AE.80.E5.8F.B2.md "wikilink")
+4.  [一塌糊涂BBS简史](https://zh.wikipedia.org/wiki/Ytht#.E7.AE.80.E5.8F.B2 "wikilink")
 5.
 6.
 7.

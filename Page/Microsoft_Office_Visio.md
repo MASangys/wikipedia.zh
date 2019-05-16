@@ -1,6 +1,7 @@
-2000年[微软公司收购同名公司后](../Page/微软公司.md "wikilink")，**Visio**成为微软公司的产品。
+2000年[微软公司收购同名公司后](https://zh.wikipedia.org/wiki/微软公司 "wikilink")，**Visio**成为微软公司的产品。
 
-**Microsoft Visio**（，）是[Windows](../Page/Windows.md "wikilink")
+**Microsoft
+Visio**（，）是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 [操作系统下运行的流程图软件](../Page/操作系统.md "wikilink")，它现在是[Microsoft
 Office软件的一个部分](../Page/Microsoft_Office.md "wikilink")。Visio可以制作的图表范围十分广泛，有些人利用Visio的强大绘图功能绘制地图、企业标志等，同时Visio支持将档案保存为svg、dwg等[矢量图形通用格式](../Page/矢量图形.md "wikilink")，因此受到广泛欢迎。它的最新版本为2016。
 
@@ -38,8 +39,8 @@ Office软件的一个部分](../Page/Microsoft_Office.md "wikilink")。Visio可�
 ## 参见
 
   - [Dia](../Page/Dia_\(軟體\).md "wikilink")
-  - [流程图软件](../Page/流程图软件.md "wikilink")
-  - [UML工具列表](../Page/UML工具列表.md "wikilink")
+  - [流程图软件](https://zh.wikipedia.org/wiki/流程图软件 "wikilink")
+  - [UML工具列表](https://zh.wikipedia.org/wiki/UML工具列表 "wikilink")
 
 ## 外部链接
 

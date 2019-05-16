@@ -1,4 +1,4 @@
-《**QED：光和物质的奇异性**》（）是[美国](../Page/美国.md "wikilink")[物理学家](../Page/物理学家.md "wikilink")[理查德·费曼编著的一本关于](../Page/理查德·费曼.md "wikilink")[量子电动力学](../Page/量子电动力学.md "wikilink")（QED）的通俗读物。它由费曼所作的4个讲座合集而成。最早由[普林斯顿大学出版社于](../Page/普林斯顿大学.md "wikilink")1985年出版。
+《**QED：光和物质的奇异性**》（）是[美国](../Page/美国.md "wikilink")[物理学家](../Page/物理学家.md "wikilink")[理查德·费曼编著的一本关于](https://zh.wikipedia.org/wiki/理查德·费曼 "wikilink")[量子电动力学](https://zh.wikipedia.org/wiki/量子电动力学 "wikilink")（QED）的通俗读物。它由费曼所作的4个讲座合集而成。最早由[普林斯顿大学出版社于](../Page/普林斯顿大学.md "wikilink")1985年出版。
 
 ## 内容
 
@@ -23,7 +23,7 @@
 
 ## 参见
 
-  - [奇异数](../Page/奇异数.md "wikilink")
+  - [奇异数](https://zh.wikipedia.org/wiki/奇异数 "wikilink")
 
 ## 参考资料
 

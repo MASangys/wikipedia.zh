@@ -1,0 +1,87 @@
+<div style="position: absolute;">
+
+[](https://zh.wikipedia.org/wiki/File:Evolution-tasks.png "fig:")
+
+</div>
+
+<div style="margin-left: 50px;">
+
+这里有一些**[北京相關条目协作作業](https://zh.wikipedia.org/wiki/Portal:北京/Opentask "wikilink")**：
+
+  - **北京小作品（等着您来扩充）：**[冀东防共自治政府](https://zh.wikipedia.org/wiki/冀东防共自治政府 "wikilink")
+    {{\!}} [京津高速公路](../Page/京津高速公路.md "wikilink") {{\!}}
+    [京珠高速公路](../Page/京珠高速公路.md "wikilink") {{\!}}
+    [京胡](../Page/京胡.md "wikilink") {{\!}}
+    [京菜](../Page/京菜.md "wikilink") {{\!}} [爆肚
+    (食品)](https://zh.wikipedia.org/wiki/爆肚_\(食品\) "wikilink") {{\!}}
+    [京东第一瀑](https://zh.wikipedia.org/wiki/京东第一瀑 "wikilink") {{\!}}
+    [丰台](https://zh.wikipedia.org/wiki/丰台 "wikilink") {{\!}}
+    [建国门事件](../Page/建国门事件.md "wikilink") {{\!}}
+    [国子监街](../Page/国子监街.md "wikilink") {{\!}}
+    [垂杨柳](https://zh.wikipedia.org/wiki/垂杨柳 "wikilink") {{\!}}
+    [糖耳朵](https://zh.wikipedia.org/wiki/糖耳朵 "wikilink") {{\!}}
+    [吳裕泰](https://zh.wikipedia.org/wiki/吳裕泰 "wikilink") {{\!}}
+    [榮寶齋](https://zh.wikipedia.org/wiki/榮寶齋 "wikilink") {{\!}}
+    [稻香春](https://zh.wikipedia.org/wiki/稻香春 "wikilink") {{\!}}
+    [都一处](https://zh.wikipedia.org/wiki/都一处 "wikilink") {{\!}}
+    [天福号](https://zh.wikipedia.org/wiki/天福号 "wikilink") {{\!}}
+    [六必居](../Page/六必居.md "wikilink") {{\!}}
+    [天源醬園](https://zh.wikipedia.org/wiki/天源醬園 "wikilink") {{\!}}
+    [王致和](../Page/王致和.md "wikilink") {{\!}}
+    [瑞宾楼](https://zh.wikipedia.org/wiki/瑞宾楼 "wikilink") {{\!}}
+    [大栅栏](../Page/大栅栏.md "wikilink") {{\!}}
+    [西四](../Page/西四.md "wikilink") {{\!}}
+    [張一元](https://zh.wikipedia.org/wiki/張一元 "wikilink") {{\!}}
+    [小肠陈](https://zh.wikipedia.org/wiki/小肠陈 "wikilink"){{\!}}
+    [义利](../Page/义利.md "wikilink")
+  - **-{[关注](https://zh.wikipedia.org/wiki/Wikipedia:需要关注的页面 "wikilink")}-**:
+    [北京市第四中学](../Page/北京市第四中学.md "wikilink")
+  - **[待翻译文章](https://zh.wikipedia.org/wiki/Wikipedia:待翻译文章 "wikilink")**：
+  - **[請求文章](https://zh.wikipedia.org/wiki/WP:求 "wikilink")（知道就写点呗）**：
+    [鶴年堂](https://zh.wikipedia.org/wiki/鶴年堂 "wikilink") {{\!}}
+    [長春堂](https://zh.wikipedia.org/wiki/長春堂 "wikilink") {{\!}}
+    [内聯升](https://zh.wikipedia.org/wiki/内聯升 "wikilink") {{\!}}
+    [馬聚源](https://zh.wikipedia.org/wiki/馬聚源 "wikilink") {{\!}}
+    [盛錫福](../Page/盛錫福.md "wikilink") {{\!}}
+    [同升和](https://zh.wikipedia.org/wiki/同升和 "wikilink") {{\!}}
+    [步瀛斋](https://zh.wikipedia.org/wiki/步瀛斋 "wikilink") {{\!}}
+    [通三益](https://zh.wikipedia.org/wiki/通三益 "wikilink") {{\!}}
+    [王麻子](../Page/王麻子.md "wikilink") {{\!}}
+    [八大祥](https://zh.wikipedia.org/wiki/八大祥 "wikilink") {{\!}}
+    [一得閣](https://zh.wikipedia.org/wiki/一得閣 "wikilink") {{\!}}
+    [戴月軒](https://zh.wikipedia.org/wiki/戴月軒 "wikilink") {{\!}}
+    [崇古齋](https://zh.wikipedia.org/wiki/承古齋 "wikilink") {{\!}}
+    [德源興](https://zh.wikipedia.org/wiki/建華皮貨服裝公司 "wikilink")
+    {{\!}} [慶林春](https://zh.wikipedia.org/wiki/慶林春 "wikilink") {{\!}}
+    [元长厚](https://zh.wikipedia.org/wiki/元长厚 "wikilink") {{\!}}
+    [亨得利钟表眼镜商店](https://zh.wikipedia.org/wiki/亨得利钟表店 "wikilink")
+    {{\!}} [大明眼鏡店](https://zh.wikipedia.org/wiki/大明眼鏡店 "wikilink")
+    {{\!}} [精益眼鏡店](https://zh.wikipedia.org/wiki/大明眼鏡店 "wikilink")
+    {{\!}} [四大恆](https://zh.wikipedia.org/wiki/四大恆 "wikilink") {{\!}}
+    [雙合盛](https://zh.wikipedia.org/wiki/雙合盛 "wikilink") {{\!}}
+    [天惠齋](https://zh.wikipedia.org/wiki/天惠齋 "wikilink") {{\!}}
+    [東昇平](https://zh.wikipedia.org/wiki/東昇平 "wikilink") {{\!}}
+    [清華園浴池](https://zh.wikipedia.org/wiki/清華園浴池 "wikilink") {{\!}}
+    [清華池](https://zh.wikipedia.org/wiki/清華池 "wikilink") {{\!}}
+    [興華園](https://zh.wikipedia.org/wiki/興華園 "wikilink") {{\!}}
+    [来今雨轩](https://zh.wikipedia.org/wiki/来今雨轩 "wikilink"){{\!}}
+    [糖火烧](https://zh.wikipedia.org/wiki/糖火烧 "wikilink") {{\!}}
+    [豆馅烧饼](https://zh.wikipedia.org/wiki/豆馅烧饼 "wikilink") {{\!}}
+    [餛飩侯](https://zh.wikipedia.org/wiki/餛飩侯 "wikilink") {{\!}}
+    [奶酪魏](https://zh.wikipedia.org/wiki/奶酪魏 "wikilink") {{\!}}
+    [年糕杨](https://zh.wikipedia.org/wiki/年糕杨 "wikilink") {{\!}}
+    [爆肚冯](https://zh.wikipedia.org/wiki/爆肚冯 "wikilink") {{\!}}
+    [豆腐腦白](https://zh.wikipedia.org/wiki/豆腐腦白 "wikilink") {{\!}}
+    [茶汤李](https://zh.wikipedia.org/wiki/茶汤李 "wikilink") {{\!}}
+    [月盛斋](https://zh.wikipedia.org/wiki/月盛斋 "wikilink") {{\!}}
+    [天兴居](../Page/天兴居.md "wikilink") {{\!}}
+    [锦馨](https://zh.wikipedia.org/wiki/锦馨 "wikilink") {{\!}}
+    [白魁老号](https://zh.wikipedia.org/wiki/白魁老号 "wikilink") {{\!}}
+    [不老泉](https://zh.wikipedia.org/wiki/不老泉 "wikilink")
+  - **[清理](https://zh.wikipedia.org/wiki/Wikipedia:清理 "wikilink")（捋顺溜了啊得）**：[北京教育](../Page/北京教育.md "wikilink")
+    - [通州事件](../Page/通州事件.md "wikilink") -
+    [焦国标](../Page/焦国标.md "wikilink") -
+    [宛平城](../Page/宛平城.md "wikilink")
+  - **[討論](https://zh.wikipedia.org/wiki/Wikipedia:正在討論的條目 "wikilink")**：[丰台区](../Page/丰台区.md "wikilink")
+
+</div>

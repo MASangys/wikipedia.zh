@@ -1,9 +1,9 @@
 **Dingbats**，俗称**杂锦[字型](../Page/字型.md "wikilink")**
-，本来是印刷品之中使用的装饰及图形符号。在[计算机被用来制作](../Page/计算机.md "wikilink")[印刷刊物后](../Page/印刷.md "wikilink")，印刷业界便制造了各种杂锦字型，最著名的是[Adobe的](../Page/Adobe.md "wikilink")[Zapf
-Dingbats字型](../Page/Zapf_Dingbats.md "wikilink")。
+，本来是印刷品之中使用的装饰及图形符号。在[计算机被用来制作](https://zh.wikipedia.org/wiki/计算机 "wikilink")[印刷刊物后](../Page/印刷.md "wikilink")，印刷业界便制造了各种杂锦字型，最著名的是[Adobe的](../Page/Adobe.md "wikilink")[Zapf
+Dingbats字型](https://zh.wikipedia.org/wiki/Zapf_Dingbats "wikilink")。
 
 [微软于](../Page/微软.md "wikilink")[Windows
-3.1](../Page/Windows_3.x.md "wikilink")[操作系统之中](../Page/操作系统.md "wikilink")，提供了[Wingdings杂锦符号字型](../Page/Wingdings.md "wikilink")。而微软于1997年之后发行的操作系统，再加入了[Webdings杂锦符号字型](../Page/Webdings.md "wikilink")。
+3.1](../Page/Windows_3.x.md "wikilink")[操作系统之中](../Page/操作系统.md "wikilink")，提供了[Wingdings杂锦符号字型](https://zh.wikipedia.org/wiki/Wingdings "wikilink")。而微软于1997年之后发行的操作系统，再加入了[Webdings杂锦符号字型](../Page/Webdings.md "wikilink")。
 
 | **Zapf Dingbats 字符集** |
 | --------------------- |
@@ -25,7 +25,7 @@ Dingbats字型](../Page/Zapf_Dingbats.md "wikilink")。
 | Ex                    |
 | Fx                    |
 
-[Unicode的U](../Page/Unicode.md "wikilink")+2700至U+27BF[1](http://www.unicode.org/charts/PDF/U2700.pdf)，亦收录了一些杂锦字型。
+[Unicode的U](https://zh.wikipedia.org/wiki/Unicode "wikilink")+2700至U+27BF[1](http://www.unicode.org/charts/PDF/U2700.pdf)，亦收录了一些杂锦字型。
 
 <table>
 <thead>
@@ -80,12 +80,14 @@ Dingbats字型](../Page/Zapf_Dingbats.md "wikilink")。
 <center>
 
 Image:ZapfDingbats_charset.png|[ZapfDingbats
-BT](../Page/ZapfDingbats_BT.md "wikilink")
+BT](https://zh.wikipedia.org/wiki/ZapfDingbats_BT "wikilink")
 Image:Webdings-big.png|[Webdings](../Page/Webdings.md "wikilink")
-Image:Wingdings sample.png|[Wingdings](../Page/Wingdings.md "wikilink")
+Image:Wingdings
+sample.png|[Wingdings](https://zh.wikipedia.org/wiki/Wingdings "wikilink")
 Image:Wingdings 2 sample.png|[Wingdings
-2](../Page/Wingdings_2.md "wikilink") Image:Wingdings 3
-sample.png|[Wingdings 3](../Page/Wingdings_3.md "wikilink")
+2](https://zh.wikipedia.org/wiki/Wingdings_2 "wikilink") Image:Wingdings
+3 sample.png|[Wingdings
+3](https://zh.wikipedia.org/wiki/Wingdings_3 "wikilink")
 
 </center>
 

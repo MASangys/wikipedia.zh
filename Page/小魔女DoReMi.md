@@ -1,13 +1,13 @@
-《**小魔女DoReMi**》（，[日語羅馬字](../Page/日語羅馬字.md "wikilink")：****，官方[英文](../Page/英文.md "wikilink")：****）是一[魔法少女](../Page/魔法少女.md "wikilink")[動畫的系列](../Page/動畫.md "wikilink")，由[東映動畫製作](../Page/东映动画.md "wikilink")。四部小魔女DoReMi[動畫在](../Page/動畫.md "wikilink")[日本的播映時間](../Page/日本.md "wikilink")，由1999年2月開始，直至2003年1月結束。\[1\]\[2\]\[3\]\[4\]台灣地區大約在2000年左右由[台灣電視台播映](../Page/台灣電視台.md "wikilink")。是繼《[美少女戰士](../Page/美少女戰士.md "wikilink")》之後，最受日本學生歡迎的少女動畫系列之一。
+《**小魔女DoReMi**》（，[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")：****，官方[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：****）是一[魔法少女](../Page/魔法少女.md "wikilink")[動畫的系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[東映動畫製作](../Page/东映动画.md "wikilink")。四部小魔女DoReMi[動畫在](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日本的播映時間](../Page/日本.md "wikilink")，由1999年2月開始，直至2003年1月結束。\[1\]\[2\]\[3\]\[4\]台灣地區大約在2000年左右由[台灣電視台播映](https://zh.wikipedia.org/wiki/台灣電視台 "wikilink")。是繼《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》之後，最受日本學生歡迎的少女動畫系列之一。
 
 ## 概要
 
-小魔女DoReMi主要可以分成[動畫](../Page/動畫.md "wikilink")、[漫畫](../Page/漫畫.md "wikilink")、[遊戲](../Page/遊戲.md "wikilink")……等部份，其中以動畫為主。動畫內容大致可以分成4輯（容後介紹），原本只預定播映4季（1年），但因為人氣太高而延長。此外，還有2000年和2001年的兩部[劇場版](../Page/劇場版.md "wikilink")。2004年則推出了特別篇－小魔女DoReMi
+小魔女DoReMi主要可以分成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")……等部份，其中以動畫為主。動畫內容大致可以分成4輯（容後介紹），原本只預定播映4季（1年），但因為人氣太高而延長。此外，還有2000年和2001年的兩部[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。2004年則推出了特別篇－小魔女DoReMi
 童年秘密篇（港譯：小魔女 DoReMi 心之密語；台前譯：小魔女DoReMi童年回憶篇；另譯：小魔女DoReMi
 小.秘.密）。2011年12月2日推出輕小說－小魔女DoReMi 16（），以第四輯故事四年後（即女主角DoReMi
 16歲時）為背景。
 
-和動畫同時的還有[漫畫](../Page/漫畫.md "wikilink")，為漫畫家[高梨靜江所繪製的小魔女DoReMi](../Page/高梨靜江.md "wikilink")（共3集）和大\~集合！小魔女DoReMi（單行本1集和部分已完結的雜誌連載）。之外，還有由動畫改編而成的彩映版。
+和動畫同時的還有[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，為漫畫家[高梨靜江所繪製的小魔女DoReMi](https://zh.wikipedia.org/wiki/高梨靜江 "wikilink")（共3集）和大\~集合！小魔女DoReMi（單行本1集和部分已完結的雜誌連載）。之外，還有由動畫改編而成的彩映版。
 
 此外，還有同名的線上遊戲作品。
 
@@ -15,7 +15,7 @@
 
 ## 故事概要
 
-故事舞台發生在架空的城市──日本美空市美空町，除此之外還有魔女世界和魔法堂等。順帶一提，雖然[香港和](../Page/香港.md "wikilink")[台灣的小魔女DoReMi相關產品](../Page/台灣.md "wikilink")（漫畫、精品等）仍然遵照下述譯名，但動畫部分，[無綫電視播放的版本一律稱為](../Page/無綫電視.md "wikilink")《小魔女DoReMi》，並不作任何區分，[東森幼幼台方面則是以第幾部來區分](../Page/東森幼幼台.md "wikilink")。
+故事舞台發生在架空的城市──日本美空市美空町，除此之外還有魔女世界和魔法堂等。順帶一提，雖然[香港和](../Page/香港.md "wikilink")[台灣的小魔女DoReMi相關產品](https://zh.wikipedia.org/wiki/台灣 "wikilink")（漫畫、精品等）仍然遵照下述譯名，但動畫部分，[無綫電視播放的版本一律稱為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《小魔女DoReMi》，並不作任何區分，[東森幼幼台方面則是以第幾部來區分](../Page/東森幼幼台.md "wikilink")。
 
 ### 小魔女DoReMi
 
@@ -130,7 +130,7 @@
 <!-- end list -->
 
   -
-    後半期，前前任女王托比安沉浸在夢中的悲傷越來越強烈，荊棘突然侵向魔女世界，魔法師世界及人類世界，並發散令人哀傷和提不起勁的黑霧。同時小花也認識了魔女動物園的白色小象寶寶，在DoReMi等人的幫助下，同時小花利用“魔法[手風琴](../Page/手風琴.md "wikilink")”伴奏，讓小象寶寶來吸走附在人身上的哀傷黑霧（之後小象寶寶會排洩珍貴的寶珠，價值連城）。最後，6條荊棘成功被DoReMi等人消除，前前任女王也甦醒過來。之後前前任女王及全體魔女，用魔法成功把“魔女一旦被人類發現身份後，就變成魔女青蛙”的詛咒解除，所有魔女青蛙都恢復了本來面目。
+    後半期，前前任女王托比安沉浸在夢中的悲傷越來越強烈，荊棘突然侵向魔女世界，魔法師世界及人類世界，並發散令人哀傷和提不起勁的黑霧。同時小花也認識了魔女動物園的白色小象寶寶，在DoReMi等人的幫助下，同時小花利用“魔法[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")”伴奏，讓小象寶寶來吸走附在人身上的哀傷黑霧（之後小象寶寶會排洩珍貴的寶珠，價值連城）。最後，6條荊棘成功被DoReMi等人消除，前前任女王也甦醒過來。之後前前任女王及全體魔女，用魔法成功把“魔女一旦被人類發現身份後，就變成魔女青蛙”的詛咒解除，所有魔女青蛙都恢復了本來面目。
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@
 <!-- end list -->
 
   -
-    隨著小學畢業，大家都各奔前程。DoReMi繼續升上美空中學；羽月為了當小提琴家，而升往卡蓮女子學院讀書；小愛因父母復合而返回[大阪與家人同住](../Page/大阪.md "wikilink")；音符為了當專業演員而升往另一演藝中學就讀；桃子因爸爸在日本完成工作，而返回紐約居住；小花則返回魔女世界繼續成長和學習，為了當稱職的下一任女王做努力，希望未來有一天能真正完全開放人類世界和魔女世界之間的橋樑。但DoReMi因為接受不了朋友紛紛離開的事實，曾在畢業典禮前夕躲在魔法堂不肯出來，但最後在同學們訴說對DoReMi的喜愛和小花要公開魔女身分的「威脅」下，打開了心結，和大家一起參加畢業典禮。最後一幕，DoReMi也能夠在不用魔法的協助下告白了。
+    隨著小學畢業，大家都各奔前程。DoReMi繼續升上美空中學；羽月為了當小提琴家，而升往卡蓮女子學院讀書；小愛因父母復合而返回[大阪與家人同住](https://zh.wikipedia.org/wiki/大阪 "wikilink")；音符為了當專業演員而升往另一演藝中學就讀；桃子因爸爸在日本完成工作，而返回紐約居住；小花則返回魔女世界繼續成長和學習，為了當稱職的下一任女王做努力，希望未來有一天能真正完全開放人類世界和魔女世界之間的橋樑。但DoReMi因為接受不了朋友紛紛離開的事實，曾在畢業典禮前夕躲在魔法堂不肯出來，但最後在同學們訴說對DoReMi的喜愛和小花要公開魔女身分的「威脅」下，打開了心結，和大家一起參加畢業典禮。最後一幕，DoReMi也能夠在不用魔法的協助下告白了。
 
 <!-- end list -->
 
@@ -152,7 +152,7 @@
 **小魔女DoReMi 童年秘密篇**（****，
 ，港譯：小魔女DoReMi心之密語，台译：-{小魔女DoReMi心之密語}-（前）、-{小魔女DoReMi
 童年秘密篇}-（后），又译-{小魔女DoReMi
-小.秘.密}-），为正傳动画完结后推出的[OVA](../Page/OVA.md "wikilink")，首播于2004年6月26日至12月11日，共13集。以大\~集合\!
+小.秘.密}-），为正傳动画完结后推出的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，首播于2004年6月26日至12月11日，共13集。以大\~集合\!
 小魔女DoReMi為時間背景，講述穿插於第三部中的軼事。主要是在DoReMi、羽月、小愛、音符、小桃子，以及其他同學、家人和朋友間發生的小故事。
 
 ## 登場角色
@@ -162,7 +162,7 @@
 ### 制作人員
 
   - 製片人：株柳真司（ABC）、堀內孝（ASATSU-DK）、關弘美、蛭田成一
-  - 原作：[東堂いづみ](../Page/東堂いづみ.md "wikilink")
+  - 原作：[東堂いづみ](https://zh.wikipedia.org/wiki/東堂いづみ "wikilink")
   - 系列構成：山田隆司
   - 音樂：奥慶一
   - 製作擔當：風間厚德
@@ -209,7 +209,7 @@
 <td><p>{{lang|ja|私どれみ!魔女見習いになる</p></td>
 <td><p>}}</p></td>
 <td><p>我DoReMi將成為魔女見習生！</p></td>
-<td><p><a href="../Page/山田隆司.md" title="wikilink">栗山綠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山田隆司" title="wikilink">栗山綠</a></p></td>
 <td><p><a href="../Page/佐藤順一.md" title="wikilink">佐藤順一</a></p></td>
 <td><p>河野宏之</p></td>
 <td><p><strong>1999年</strong><br />
@@ -252,7 +252,7 @@
 <td><p>魔法堂改裝新開幕</p></td>
 <td></td>
 <td><p>岩井隆央</p></td>
-<td><p><a href="../Page/川村敏江.md" title="wikilink">川村敏江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川村敏江" title="wikilink">川村敏江</a></p></td>
 <td><p>3月7日</p></td>
 <td></td>
 </tr>
@@ -260,9 +260,9 @@
 <td><p>第6话</p></td>
 <td></td>
 <td><p>愛吹牛的信子</p></td>
-<td><p><a href="../Page/大和屋暁.md" title="wikilink">大和屋暁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大和屋暁" title="wikilink">大和屋暁</a></p></td>
 <td><p>岡佳広</p></td>
-<td><p><a href="../Page/稲上晃.md" title="wikilink">稲上晃</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/稲上晃" title="wikilink">稲上晃</a></p></td>
 <td><p>3月14日</p></td>
 <td></td>
 </tr>
@@ -280,7 +280,7 @@
 <td><p>第8话</p></td>
 <td></td>
 <td><p>到魔女世界去囉！</p></td>
-<td><p><a href="../Page/吉村元希.md" title="wikilink">吉村元希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉村元希" title="wikilink">吉村元希</a></p></td>
 <td><p>矢部秋則</p></td>
 <td><p>河野宏之</p></td>
 <td><p>3月28日</p></td>
@@ -509,7 +509,7 @@
 <td><p>想跟幽靈見個面</p></td>
 <td><p>大和屋暁</p></td>
 <td><p>五十嵐卓哉</p></td>
-<td><p><a href="../Page/馬越嘉彥.md" title="wikilink">馬越嘉彥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬越嘉彥" title="wikilink">馬越嘉彥</a></p></td>
 <td><p>8月29日</p></td>
 <td></td>
 </tr>
@@ -600,7 +600,7 @@
 <td></td>
 <td><p>DoReMi的男友是國中生！</p></td>
 <td><p>影山由美</p></td>
-<td><p><a href="../Page/山内重保.md" title="wikilink">山内重保</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山内重保" title="wikilink">山内重保</a></p></td>
 <td><p>生田目康裕</p></td>
 <td><p>10月31日</p></td>
 <td></td>
@@ -874,7 +874,7 @@
 <td><p>第14话</p></td>
 <td></td>
 <td><p>泡泡的初戀她愛慕的順一老師！</p></td>
-<td><p><a href="../Page/成田良美.md" title="wikilink">成田良美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
 <td><p>山吉康夫</p></td>
 <td><p>稲上晃</p></td>
 <td><p>5月7日</p></td>
@@ -1493,7 +1493,7 @@
 <td><p>孤單一個人的暑假</p></td>
 <td><p>成田良美</p></td>
 <td><p>（五十嵐卓哉）<br />
-<a href="../Page/長峯達也.md" title="wikilink">長峯達也</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/長峯達也" title="wikilink">長峯達也</a></p></td>
 <td><p>稲上晃</p></td>
 <td><p>7月29日</p></td>
 <td><p>Vol.7</p></td>
@@ -2394,8 +2394,8 @@
 <td></td>
 <td><p>西洋情人節〜羽月的秘密〜</p></td>
 <td><p>成田良美</p></td>
-<td><p>（<a href="../Page/桜井弘明.md" title="wikilink">桜井弘明</a>）<br />
-<a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/桜井弘明" title="wikilink">桜井弘明</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
 <td><p>生田目康裕</p></td>
 <td><p>11月13日</p></td>
 <td></td>
@@ -2459,7 +2459,7 @@
   - 小魔女DoReMi
     「」
       -
-        作詞：大森祥子、作曲：茅原万起、編曲：川崎真弘、歌：[しゅうさえこ](../Page/しゅうさえこ.md "wikilink")
+        作詞：大森祥子、作曲：茅原万起、編曲：川崎真弘、歌：[しゅうさえこ](https://zh.wikipedia.org/wiki/しゅうさえこ "wikilink")
   - 小魔女DoReMi ♯
     「」
       -
@@ -2467,7 +2467,7 @@
   - 大\~集合！小魔女DoReMi
     「」（寶物）
       -
-        作詞・作曲：茅原万起、編曲：安井歩、歌：[こむろゆい](../Page/こむろゆい.md "wikilink")
+        作詞・作曲：茅原万起、編曲：安井歩、歌：[こむろゆい](https://zh.wikipedia.org/wiki/こむろゆい "wikilink")
   - 小魔女DoReMi 大合奏
     「」（第1話 - 第13話、第31話 - 第51話）
       -
@@ -2484,7 +2484,7 @@
   - 小魔女DoReMi ♯ 願望之花
     「」
       -
-        作詞：[小森まなみ](../Page/小森まなみ.md "wikilink")、作曲・編曲：奥慶一、歌：小森まなみ
+        作詞：[小森まなみ](https://zh.wikipedia.org/wiki/小森まなみ "wikilink")、作曲・編曲：奥慶一、歌：小森まなみ
   - Mo\~tto！小魔女DoReMi 青蛙石的秘密
     「」
       -
@@ -2706,16 +2706,16 @@
 ### 播映情況
 
   - 日本：朝日放送（ABC）・[朝日電視台系](../Page/朝日電視台.md "wikilink")（1999年2月7日-2003年1月26日），小魔女童年秘密篇則由[Sky
-    PerfecTV\!和神奈川電視播映](../Page/Sky_PerfecTV!.md "wikilink")（2004年6月26日-12月11日，隔週）
-  - 台灣：[台視](../Page/台灣電視公司.md "wikilink")（2000年-2002年）（僅放送第一季與第二季）、[東森幼幼台](../Page/東森幼幼台.md "wikilink")
+    PerfecTV\!和神奈川電視播映](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")（2004年6月26日-12月11日，隔週）
+  - 台灣：[台視](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")（2000年-2002年）（僅放送第一季與第二季）、[東森幼幼台](../Page/東森幼幼台.md "wikilink")
     （2000年-2012年）、[MOMO親子台](../Page/MOMO親子台.md "wikilink")（2014年-2017年）
   - 香港：[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")
     (2000年-2007年)
   - 美國：[4Kids
-    TV](../Page/4Kids娱乐公司.md "wikilink")（僅放送第一季，2005年，名為Magical
+    TV](https://zh.wikipedia.org/wiki/4Kids娱乐公司 "wikilink")（僅放送第一季，2005年，名為Magical
     DoReMi）
-  - [韓國](../Page/韓國.md "wikilink")：[文化放送](../Page/文化放送.md "wikilink")（名為）
-  - 其他尚在[德國](../Page/德國.md "wikilink")、[法國](../Page/法國.md "wikilink")、[義大利](../Page/義大利.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[澳大利亞播出](../Page/澳大利亞.md "wikilink")。
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")：[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")（名為）
+  - 其他尚在[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[澳大利亞播出](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。
 
 ## 剧场版
 
@@ -2895,8 +2895,8 @@
   - ラインアート：小島美和、岡村游奈、平野ともみ、高橋彌子、浦鄉裕美
   - 本文テザイン：小宮山裕
   - 裝訂：阿部有貴子
-  - 協力：[東映動畫](../Page/東映動畫.md "wikilink")、コスモ．STUDIO、テーラーバード
-  - 連載：[講談社](../Page/講談社.md "wikilink")
+  - 協力：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、コスモ．STUDIO、テーラーバード
+  - 連載：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
   - 畫冊：たかなし♡しずえ、たのしい幼稚園、おどもだち等等
 
 ## 遊戲
@@ -2911,7 +2911,7 @@
         支援作業系統：Windows98SE/Me/2000/XP/7/8/10
         開發公司：天田印刷加工股份有限公司
         發售公司：東映動畫股份有限公司
-        總監督：[山田進剛](../Page/山田進剛.md "wikilink")
+        總監督：[山田進剛](https://zh.wikipedia.org/wiki/山田進剛 "wikilink")
         腳本：[長谷見沙貴](../Page/長谷見沙貴.md "wikilink")
         儲存媒介：CD-ROM 一片
         遊戲人數：1人
@@ -2935,7 +2935,7 @@
         儲存媒介：CD-ROM 一片
         遊戲人數：1人
         發售日：2002年6月1日
-        操作語言：[正體中文](../Page/正體中文.md "wikilink")
+        操作語言：[正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")
         定價：台幣 299元(含稅)
 
 <!-- end list -->

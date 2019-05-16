@@ -1,11 +1,11 @@
 **SKY
-PerfecTV*\!***（日文[商業名稱](../Page/商業名稱.md "wikilink")），為[日本以至全](../Page/日本.md "wikilink")[亞洲頗具規模的多頻道](../Page/亞洲.md "wikilink")[衛星電視平台](../Page/衛星電視.md "wikilink")，由[SKY
+PerfecTV*\!***（日文[商業名稱](../Page/商業名稱.md "wikilink")），為[日本以至全](../Page/日本.md "wikilink")[亞洲頗具規模的多頻道](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[衛星電視平台](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，由[SKY
 Perfect
-JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直播衛星及](../Page/直播衛星.md "wikilink")[光纖網路的](../Page/光纖網路.md "wikilink")[收費電視服務](../Page/收費電視.md "wikilink")。
+JSAT株式會社經營提供](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")[直播衛星及](https://zh.wikipedia.org/wiki/直播衛星 "wikilink")[光纖網路的](https://zh.wikipedia.org/wiki/光纖網路 "wikilink")[收費電視服務](https://zh.wikipedia.org/wiki/收費電視 "wikilink")。
 
 ## 沿革
 
-  - 1996年9月30日，日本數位放送使用JCSAT-3[通信衛星傳送節目](../Page/通信衛星.md "wikilink")[MPEG-2訊號的](../Page/MPEG-2.md "wikilink")**PerfecTV*\!***（）開播。
+  - 1996年9月30日，日本數位放送使用JCSAT-3[通信衛星傳送節目](https://zh.wikipedia.org/wiki/通信衛星 "wikilink")[MPEG-2訊號的](../Page/MPEG-2.md "wikilink")**PerfecTV*\!***（）開播。
 
   - 1998年4月25日，日本數位放送與JSkyB合併成立**SKY
     PerfecTV*\!***（）、簡稱，使用JCSAT-4通信衛星的「SKY
@@ -15,8 +15,8 @@ JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直�
     2**（）開播\[2\]。
 
   - 2004年2月25日，Opticast開始**SKY PerfecTV*\!*
-    對應[光纖TV](../Page/光纖.md "wikilink")
-    OPCAS**（）[有線電視服務](../Page/有線電視.md "wikilink")<ref>：
+    對應[光纖TV](https://zh.wikipedia.org/wiki/光纖 "wikilink")
+    OPCAS**（）[有線電視服務](https://zh.wikipedia.org/wiki/有線電視 "wikilink")<ref>：
 
   -
   - </ref>。3月1日，Plat One與SKY PerfecTV*\!* 2同樣東經110度衛星電視服務整合為**SKY
@@ -25,26 +25,27 @@ JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直�
   -
   - </ref>。
 
-  - 2005年2月1日，SKY PerfecTV*\!* 對應[光纖TV](../Page/光纖.md "wikilink")
-    OPCAS改名**光PerfecTV*\!***（）、簡稱\[3\]。3月1日，「SKY PerfecTV*\!*
-    Channel 110」（）於SKY PerfecTV*\!* 110開播\[4\]，乃自主營運頻道SKY PerfecTV*\!*
+  - 2005年2月1日，SKY PerfecTV*\!*
+    對應[光纖TV](https://zh.wikipedia.org/wiki/光纖 "wikilink")
+    OPCAS改名**光PerfecTV*\!***（）、簡稱\[3\]。3月1日，「SKY PerfecTV*\!* Channel
+    110」（）於SKY PerfecTV*\!* 110開播\[4\]，乃自主營運頻道SKY PerfecTV*\!*
     Channel之濫觴。
 
-  - 2006年4月1日，光PerfecTV*\!*更名\[5\]。7月27日，內藏160GB[硬碟的](../Page/硬碟.md "wikilink")「SKY
+  - 2006年4月1日，光PerfecTV*\!*更名\[5\]。7月27日，內藏160GB[硬碟的](https://zh.wikipedia.org/wiki/硬碟 "wikilink")「SKY
     PerfecTV*\!*
-    [數位錄影機](../Page/數位錄影機.md "wikilink")」（）問世，10月1日開始提供租用服務\[6\]。
+    [數位錄影機](https://zh.wikipedia.org/wiki/數位錄影機 "wikilink")」（）問世，10月1日開始提供租用服務\[6\]。
 
   - 2007年2月1日，SKY PerfecTV*\!* 110更名**e2 by SKY PerfecTV*\!***（）\[7\]。
 
   - 2008年10月1日，使用[H.264/MPEG-4
-    AVC](../Page/H.264/MPEG-4_AVC.md "wikilink")、[DVB](../Page/DVB.md "wikilink")-S2方式提供15個[HDTV頻道的](../Page/HDTV.md "wikilink")**SKY
+    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")、[DVB](../Page/DVB.md "wikilink")-S2方式提供15個[HDTV頻道的](https://zh.wikipedia.org/wiki/HDTV "wikilink")**SKY
     PerfecTV*\!* HD**（）開播<ref>[SKY Perfect
-    JSAT控股](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
+    JSAT控股](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
 
   -
   - </ref>，原SKY PerfecTV*\!*改名為**SKY PerfecTV*\!* SD**（）、e2 by SKY
     PerfecTV*\!*則是**SKY PerfecTV*\!* e2**（）<ref>[SKY Perfect
-    JSAT控股](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
+    JSAT控股](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
 
   -
   - </ref>。
@@ -54,7 +55,7 @@ JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直�
 
   - 2011年10月1日，新增「BS SKY PerfecTV*\!*」（）頻道在SKY PerfecTV*\!*
     e2開播<ref>[SKY Perfect
-    JSAT](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
+    JSAT](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
 
   -
   - </ref>。12月1日，推出[隨選視訊服務](../Page/隨選視訊.md "wikilink")。
@@ -62,30 +63,30 @@ JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直�
   - 2012年10月1日，更新標誌及服務一元化，SKY PerfecTV*\!* e2更名，SKY PerfecTV*\!* HD及SKY
     Perfect TV*\!* 光則分別為、。SKY PerfecTV*\!* SD列入Premium Service標準畫質服務淡出。
 
-  - 2013年1月17日，宣布除兩家購物頻道、一家數位[電臺外於翌年](../Page/電臺.md "wikilink")5月31日停播Premium
+  - 2013年1月17日，宣布除兩家購物頻道、一家數位[電臺外於翌年](https://zh.wikipedia.org/wiki/電臺 "wikilink")5月31日停播Premium
     Service標準畫質\[8\]。
 
-  - 2015年3月1日，[4K專門頻道在Premium](../Page/4K.md "wikilink")
+  - 2015年3月1日，[4K專門頻道在Premium](https://zh.wikipedia.org/wiki/4K "wikilink")
     Service開播<ref>[SKY Perfect
-    JSAT](../Page/SKY_Perfect_JSAT集團.md "wikilink")：
+    JSAT](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團 "wikilink")：
 
   -
   - </ref>\[9\]；31日，相關購物頻道皆轉高畫質播出後，Premium Service已無標準畫質電視頻道。
 
 ## 服務
 
-| 項目                                   | SKY PerfecTV*\!*                       | Premium Service                                            | Premium Service光                                     |
-| ------------------------------------ | -------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
-| [電台廣播頻道](../Page/電台廣播.md "wikilink") | 無                                      | 有（[調頻廣播](../Page/調頻廣播.md "wikilink")）                      |                                                      |
-| [電視頻道](../Page/電視頻道.md "wikilink")   | 16:9 HD+SD                             | HD（含[4K](../Page/4K.md "wikilink")）                        | （Premium Service[有線電視化](../Page/有線電視.md "wikilink")） |
-| 系統                                   | [ISDB-S](../Page/ISDB-S.md "wikilink") | [DVB](../Page/DVB.md "wikilink")-S2                        |                                                      |
-| [視訊編碼](../Page/視訊編碼.md "wikilink")   | [MPEG-2](../Page/MPEG-2.md "wikilink") | [H.264/MPEG-4 AVC](../Page/H.264/MPEG-4_AVC.md "wikilink") |                                                      |
-| [音訊編碼](../Page/音频文件格式.md "wikilink") | MPEG-2 AAC                             | [MPEG-4 AAC](../Page/進階音訊編碼.md "wikilink")                 |                                                      |
-| [加密](../Page/加密.md "wikilink")       | B-CAS                                  | multi2                                                     |                                                      |
-| [衛星](../Page/衛星.md "wikilink")       | JCSAT-110、B-SAT3a、B-SAT3b及B-SAT3c      | JCSAT-3A及JCSAT-6                                           |                                                      |
-| 開播                                   | 2002年7月1日（SKY PerfecTV*\!* 2）          | 2008年10月1日（SKY PerfecTV*\!* HD）                            | 2004年2月25日（OPCAS）                                    |
-| 播放種類                                 | 基幹播送                                   | 一般播送                                                       |                                                      |
-| 拷貝                                   | 日本Copy Once、Dubbing 10規範\[10\]         |                                                            |                                                      |
+| 項目                                                    | SKY PerfecTV*\!*                                          | Premium Service                                                               | Premium Service光                                                        |
+| ----------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [電台廣播頻道](../Page/電台廣播.md "wikilink")                  | 無                                                         | 有（[調頻廣播](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")）                      |                                                                         |
+| [電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink") | 16:9 HD+SD                                                | HD（含[4K](https://zh.wikipedia.org/wiki/4K "wikilink")）                        | （Premium Service[有線電視化](https://zh.wikipedia.org/wiki/有線電視 "wikilink")） |
+| 系統                                                    | [ISDB-S](https://zh.wikipedia.org/wiki/ISDB-S "wikilink") | [DVB](../Page/DVB.md "wikilink")-S2                                           |                                                                         |
+| [視訊編碼](https://zh.wikipedia.org/wiki/視訊編碼 "wikilink") | [MPEG-2](../Page/MPEG-2.md "wikilink")                    | [H.264/MPEG-4 AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink") |                                                                         |
+| [音訊編碼](../Page/音频文件格式.md "wikilink")                  | MPEG-2 AAC                                                | [MPEG-4 AAC](../Page/進階音訊編碼.md "wikilink")                                    |                                                                         |
+| [加密](https://zh.wikipedia.org/wiki/加密 "wikilink")     | B-CAS                                                     | multi2                                                                        |                                                                         |
+| [衛星](../Page/衛星.md "wikilink")                        | JCSAT-110、B-SAT3a、B-SAT3b及B-SAT3c                         | JCSAT-3A及JCSAT-6                                                              |                                                                         |
+| 開播                                                    | 2002年7月1日（SKY PerfecTV*\!* 2）                             | 2008年10月1日（SKY PerfecTV*\!* HD）                                               | 2004年2月25日（OPCAS）                                                       |
+| 播放種類                                                  | 基幹播送                                                      | 一般播送                                                                          |                                                                         |
+| 拷貝                                                    | 日本Copy Once、Dubbing 10規範\[10\]                            |                                                                               |                                                                         |
 
 ## 吉祥物
 
@@ -93,10 +94,10 @@ JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直�
 PerfecTV*\!*時，取雙方「Sky」跟「Perfect」意象製作標誌，但既使註冊商標也未賦予名稱\[11\]\[12\]，而俗稱；後來官方追認\[13\]，並在2013年著衣擬人化公開徵名結果叫，表示\[14\]\[15\]。
 
 [File:スカパーCARD2.JPG|舊版SKY](File:スカパーCARD2.JPG%7C舊版SKY)
-PerfecTV*\!*[智能卡](../Page/智能卡.md "wikilink")
-[File:スカパーCARD3.JPG|舊版SKY](File:スカパーCARD3.JPG%7C舊版SKY)
-PerfecTV*\!*智能卡 [File:Sphd.jpg|舊版SKY](File:Sphd.jpg%7C舊版SKY)
-PerfecTV*\!*HD智能卡 [File:スカパーCARD.JPG|舊版SKY](File:スカパーCARD.JPG%7C舊版SKY)
+PerfecTV*\!*[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")
+[File:スカパーCARD3.JPG|舊版SKY](File:スカパーCARD3.JPG%7C舊版SKY) PerfecTV*\!*智能卡
+[File:Sphd.jpg|舊版SKY](File:Sphd.jpg%7C舊版SKY) PerfecTV*\!*HD智能卡
+[File:スカパーCARD.JPG|舊版SKY](File:スカパーCARD.JPG%7C舊版SKY)
 PerfecTV*\!*智能卡
 
 ## 參考資料

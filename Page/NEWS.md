@@ -20,7 +20,7 @@
 <p><strong>出生地</strong></p>
 </div></td>
 <td><div style="text-align: center;">
-<p><strong><a href="../Page/血型.md" title="wikilink">血型</a></strong></p>
+<p><strong><a href="https://zh.wikipedia.org/wiki/血型" title="wikilink">血型</a></strong></p>
 </div></td>
 <td><div style="text-align: center;">
 <p><strong>備註</strong></p>
@@ -51,7 +51,7 @@
 <p><strong>黃色</strong></p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="../Page/増田貴久.md" title="wikilink">増田貴久</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/増田貴久" title="wikilink">増田貴久</a></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>| </p>
@@ -77,7 +77,7 @@
 <p>| </p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>A型</p>
@@ -97,7 +97,7 @@
 <p>| </p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="../Page/橫濱市.md" title="wikilink">橫濱市</a></p>
+<p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="https://zh.wikipedia.org/wiki/橫濱市" title="wikilink">橫濱市</a></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>B型</p>
@@ -124,7 +124,7 @@
 <p><strong>出生地</strong></p>
 </div></td>
 <td><div style="text-align: center;">
-<p><strong><a href="../Page/血型.md" title="wikilink">血型</a></strong></p>
+<p><strong><a href="https://zh.wikipedia.org/wiki/血型" title="wikilink">血型</a></strong></p>
 </div></td>
 <td><div style="text-align: center;">
 <p><strong>備註</strong></p>
@@ -132,7 +132,7 @@
 </tr>
 <tr class="even">
 <td><div style="text-align: center;">
-<p><strong><a href="../Page/森田貴寬.md" title="wikilink">森内貴寛</a></strong></p>
+<p><strong><a href="https://zh.wikipedia.org/wiki/森田貴寬" title="wikilink">森内貴寛</a></strong></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>| </p>
@@ -144,7 +144,7 @@
 <p>A型</p>
 </div></td>
 <td><div style="text-align: center;">
-<p>2003年12月退社以及退团NEWS，現為日本樂團<a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK的主唱</a></p>
+<p>2003年12月退社以及退团NEWS，現為日本樂團<a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK的主唱</a></p>
 </div></td>
 </tr>
 <tr class="odd">
@@ -155,7 +155,7 @@
 <p>| </p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/羽曳野市.md" title="wikilink">羽曳野市</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a><a href="../Page/羽曳野市.md" title="wikilink">羽曳野市</a></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>AB型</p>
@@ -172,7 +172,7 @@
 <p>| </p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="../Page/橫濱市.md" title="wikilink">橫濱市</a></p>
+<p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="https://zh.wikipedia.org/wiki/橫濱市" title="wikilink">橫濱市</a></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>B型</p>
@@ -183,19 +183,19 @@
 </tr>
 <tr class="odd">
 <td><div style="text-align: center;">
-<p><strong><a href="../Page/錦戸亮.md" title="wikilink">錦戸亮</a></strong></p>
+<p><strong><a href="https://zh.wikipedia.org/wiki/錦戸亮" title="wikilink">錦戸亮</a></strong></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>| </p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/門真市.md" title="wikilink">門真市</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a><a href="../Page/門真市.md" title="wikilink">門真市</a></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>O型</p>
 </div></td>
 <td><div style="text-align: center;">
-<p>2011年退团，在团体代表色为蓝色，关8的是黄色，2011年26岁的时候退团，現以<a href="../Page/関ジャニ∞.md" title="wikilink">關8兼演員身分活動</a></p>
+<p>2011年退团，在团体代表色为蓝色，关8的是黄色，2011年26岁的时候退团，現以<a href="https://zh.wikipedia.org/wiki/関ジャニ∞" title="wikilink">關8兼演員身分活動</a></p>
 </div></td>
 </tr>
 <tr class="even">
@@ -221,7 +221,7 @@
 ## 成立契機
 
 最初，[傑尼斯事務所結集了Johnny](../Page/傑尼斯事務所.md "wikilink")'s
-Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr](../Page/關東地方.md "wikilink").的手越、增田、加藤、小山、草野、森內、以及[關西Jr](../Page/近畿地方.md "wikilink").的錦戶、內（共9人）成立NEWS，目的是作為「[世界盃排球賽](../Page/世界盃排球賽.md "wikilink")2003」期間的應援團體。由於獲受好評，在錦標賽結束後事務所決定延續NEWS的活動。
+Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr](../Page/關東地方.md "wikilink").的手越、增田、加藤、小山、草野、森內、以及[關西Jr](../Page/近畿地方.md "wikilink").的錦戶、內（共9人）成立NEWS，目的是作為「[世界盃排球賽](https://zh.wikipedia.org/wiki/世界盃排球賽 "wikilink")2003」期間的應援團體。由於獲受好評，在錦標賽結束後事務所決定延續NEWS的活動。
 
 ## 重要事件
 
@@ -230,7 +230,7 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 <!-- end list -->
 
   - 9月15日，在新高輪王子大飯店（）的「」召開記者會宣佈正式成立9人男子團體NEWS，並首次以團體形式亮相。
-  - 11月7日，作為2003年度[世界盃排球賽的應援團體](../Page/世界盃排球賽.md "wikilink")，於日本全國的[7-11便利店發售限定單曲](../Page/7-11便利店.md "wikilink")「」，是音樂業界少有的出道方式。
+  - 11月7日，作為2003年度[世界盃排球賽的應援團體](https://zh.wikipedia.org/wiki/世界盃排球賽 "wikilink")，於日本全國的[7-11便利店發售限定單曲](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")「」，是音樂業界少有的出道方式。
   - 12月，成員[森內貴寬因學業問題而退出NEWS及Johnny](../Page/森內貴寬.md "wikilink")'s事務所。
 
 <!-- end list -->
@@ -239,8 +239,8 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 
 <!-- end list -->
 
-  - 5月12日，推出[雅典](../Page/雅典.md "wikilink")[奧林匹克排球賽最後預選賽的打氣歌](../Page/奧林匹克.md "wikilink")—「希望～Yell～」的單曲，正式於主流樂壇出道。
-  - 8月，與[KAT-TUN以互鬥的演唱方式在](../Page/KAT-TUN.md "wikilink")[原宿共同演出](../Page/原宿.md "wikilink")[傑尼斯事務所的歷史的娛樂秀](../Page/傑尼斯事務所.md "wikilink")「[SUMMARY](../Page/SUMMARY.md "wikilink")」。
+  - 5月12日，推出[雅典](../Page/雅典.md "wikilink")[奧林匹克排球賽最後預選賽的打氣歌](https://zh.wikipedia.org/wiki/奧林匹克 "wikilink")—「希望～Yell～」的單曲，正式於主流樂壇出道。
+  - 8月，與[KAT-TUN以互鬥的演唱方式在](../Page/KAT-TUN.md "wikilink")[原宿共同演出](../Page/原宿.md "wikilink")[傑尼斯事務所的歷史的娛樂秀](../Page/傑尼斯事務所.md "wikilink")「[SUMMARY](https://zh.wikipedia.org/wiki/SUMMARY "wikilink")」。
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 
 <!-- end list -->
 
-  - 4月1日，NEWS與[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")（）及[KAT-TUN成立聯合歌迷俱樂部](../Page/KAT-TUN.md "wikilink")「[YOU\&J](../Page/YOU&J.md "wikilink")」。
+  - 4月1日，NEWS與[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")（）及[KAT-TUN成立聯合歌迷俱樂部](../Page/KAT-TUN.md "wikilink")「[YOU\&J](https://zh.wikipedia.org/wiki/YOU&J "wikilink")」。
   - 5月1日，因成員[草野博紀未成年飲酒](../Page/草野博紀.md "wikilink")，基於連帶責任的關係，事務所決定於年內活動暫停NEWS的團體活動。
   - 12月30日，事務所對外發表NEWS（山下、小山、錦戸、手越、増田、加藤六人）將會展開團體活動，及將[內博貴暫降為事務所的研修生](../Page/內博貴.md "wikilink")。
 
@@ -289,7 +289,7 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
   - 由2008年12月30日至2009年1月1日在東京巨蛋舉行「NEWS WINTER PARTY
     DIAMOND」演唱會，是第三組藝人於東京巨蛋辦跨年演唱會。
   - 8月29日、30日主持日本電視台24小時愛地球的特別節目
-  - 8月31日，成員[錦戶亮被證實感染A型流感](../Page/錦戶亮.md "wikilink")
+  - 8月31日，成員[錦戶亮被證實感染A型流感](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")
   - 9月1日，成員[山下智久亦被是證實患上感染A型流感](../Page/山下智久.md "wikilink")
 
 <!-- end list -->
@@ -300,7 +300,7 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 
   - 9月15日，發售第四張專輯「LIVE」，同時這天也是NEWS結成七周年紀念日。
   - 9月18日至9月28日，舉辦睽違一年又八個月的演唱會「[LIVE\! LIVE\! LIVE\! NEWS DOME PARTY
-    2010](../Page/LIVE!_LIVE!_LIVE!_NEWS_DOME_PARTY_2010.md "wikilink")」，僅只在[大阪巨蛋及](../Page/大阪巨蛋.md "wikilink")[東京巨蛋演出](../Page/東京巨蛋.md "wikilink")，共七場。
+    2010](https://zh.wikipedia.org/wiki/LIVE!_LIVE!_LIVE!_NEWS_DOME_PARTY_2010 "wikilink")」，僅只在[大阪巨蛋及](../Page/大阪巨蛋.md "wikilink")[東京巨蛋演出](../Page/東京巨蛋.md "wikilink")，共七場。
 
 <!-- end list -->
 
@@ -308,7 +308,7 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 
 <!-- end list -->
 
-  - 10月7日，成員[錦戶亮及成員](../Page/錦戶亮.md "wikilink")[山下智久發表退團宣言](../Page/山下智久.md "wikilink")。今後[山下智久將以個人身分進行演藝活動](../Page/山下智久.md "wikilink")，[錦戶亮則以](../Page/錦戶亮.md "wikilink")[關西傑尼斯8成員的身分繼續進行演藝工作](../Page/關西傑尼斯8.md "wikilink")。
+  - 10月7日，成員[錦戶亮及成員](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")[山下智久發表退團宣言](../Page/山下智久.md "wikilink")。今後[山下智久將以個人身分進行演藝活動](../Page/山下智久.md "wikilink")，[錦戶亮則以](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")[關西傑尼斯8成員的身分繼續進行演藝工作](../Page/關西傑尼斯8.md "wikilink")。
   - 12月31日，於[東京巨蛋參與傑尼斯](../Page/東京巨蛋.md "wikilink")2011-2012跨年演唱會。是繼錦戶亮與山下智久退團後，四位成員首次以新生NEWS的身分公開演出。
 
 <!-- end list -->
@@ -320,12 +320,12 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
   - 4月13日，[傑尼斯娛樂官網上出現神秘的倒數計時](../Page/傑尼斯娛樂.md "wikilink")。4月15日網站上開始出現團員剪影圖片及音樂。
   - 4月18日，正式發布NEWS活動開始及精選輯發售的消息，並舉行為期13天（至4月30日截止）的投票活動，開放讓歌迷從B面曲中選出精選輯曲目。
   - 6月13日，首次發行精選專輯「[NEWS
-    BEST](../Page/NEWS_BEST.md "wikilink")」。[1](https://ja.wikipedia.org/wiki/NEWS_BEST)
+    BEST](https://zh.wikipedia.org/wiki/NEWS_BEST "wikilink")」。[1](https://ja.wikipedia.org/wiki/NEWS_BEST)
   - 7月18日，首次以四人體制發行單曲《[愛的嘉卡芭娜](../Page/愛的嘉卡芭娜.md "wikilink")》。[2](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AB%E3%83%91%E3%83%BC%E3%83%8A)
   - 8月14至9月30日，舉行首個四人體制的演唱會「NEWS LIVE TOUR
     2012～談場美麗的戀愛吧～」。NEWS第一次在2個地區：秩父宮橄欖球場（舉辦演唱會是史上第一次）和神戶綜合運動公園棒球場舉行室外演唱會。
   - 12月12日，4人體制，第一張雙A面單曲，《[WORLD
-    QUEST/拍拍肚子咕嚕叫](../Page/WORLD_QUEST/拍拍肚子咕嚕叫.md "wikilink")》。[3](https://ja.wikipedia.org/wiki/WORLD_QUEST/%E3%83%9D%E3%82%B3%E3%83%9D%E3%83%B3%E3%83%9A%E3%82%B3%E3%83%BC%E3%83%AA%E3%83%A3)
+    QUEST/拍拍肚子咕嚕叫](https://zh.wikipedia.org/wiki/WORLD_QUEST/拍拍肚子咕嚕叫 "wikilink")》。[3](https://ja.wikipedia.org/wiki/WORLD_QUEST/%E3%83%9D%E3%82%B3%E3%83%9D%E3%83%B3%E3%83%9A%E3%82%B3%E3%83%BC%E3%83%AA%E3%83%A3)
 
 <!-- end list -->
 
@@ -346,9 +346,9 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 <!-- end list -->
 
   - 3月19日，『[NEWS 10th Anniversary in Tokyo
-    Dome](../Page/NEWS_10th_Anniversary_in_Tokyo_Dome.md "wikilink")』演唱會DVD發行。
+    Dome](https://zh.wikipedia.org/wiki/NEWS_10th_Anniversary_in_Tokyo_Dome "wikilink")』演唱會DVD發行。
   - 6月11日，單曲《[ONE-for the
-    win-](../Page/ONE-for_the_win-.md "wikilink")》發行。[5](https://ja.wikipedia.org/wiki/ONE_-for_the_win-)
+    win-](https://zh.wikipedia.org/wiki/ONE-for_the_win- "wikilink")》發行。[5](https://ja.wikipedia.org/wiki/ONE_-for_the_win-)
 
 <!-- end list -->
 
@@ -356,10 +356,10 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 
 <!-- end list -->
 
-  - 1月7日，單曲《[KAGUYA](../Page/KAGUYA.md "wikilink")》發行。[6](https://ja.wikipedia.org/wiki/KAGUYA)
+  - 1月7日，單曲《[KAGUYA](https://zh.wikipedia.org/wiki/KAGUYA "wikilink")》發行。[6](https://ja.wikipedia.org/wiki/KAGUYA)
   - 3月21日至6月14日，舉行演唱會『NEWS LIVE TOUR 2015 WHITE』。
-  - 6月24日，單曲《[チュムチュム](../Page/チュムチュム.md "wikilink")》發行。[7](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%A0%E3%83%81%E3%83%A5%E3%83%A0)
-  - 11月25日，首次發行DVD單曲《[四銃士](../Page/四銃士.md "wikilink")》。[8](https://ja.wikipedia.org/wiki/%E5%9B%9B%E9%8A%83%E5%A3%AB_\(NEWS%E3%81%AE%E6%9B%B2\))
+  - 6月24日，單曲《[チュムチュム](https://zh.wikipedia.org/wiki/チュムチュム "wikilink")》發行。[7](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%A0%E3%83%81%E3%83%A5%E3%83%A0)
+  - 11月25日，首次發行DVD單曲《[四銃士](https://zh.wikipedia.org/wiki/四銃士 "wikilink")》。[8](https://ja.wikipedia.org/wiki/%E5%9B%9B%E9%8A%83%E5%A3%AB_\(NEWS%E3%81%AE%E6%9B%B2\))
 
 <!-- end list -->
 
@@ -367,12 +367,12 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 
 <!-- end list -->
 
-  - 1月20日，雙A面單曲《[ヒカリノシズク/Touch](../Page/ヒカリノシズク/Touch.md "wikilink")》發行。[9](https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%AB%E3%83%AA%E3%83%8E%E3%82%B7%E3%82%BA%E3%82%AF/Touch)
-  - 3月9日，發行專輯《[QUARTETTO](../Page/QUARTETTO.md "wikilink")》。[10](https://ja.wikipedia.org/wiki/QUARTETTO)
+  - 1月20日，雙A面單曲《[ヒカリノシズク/Touch](https://zh.wikipedia.org/wiki/ヒカリノシズク/Touch "wikilink")》發行。[9](https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%AB%E3%83%AA%E3%83%8E%E3%82%B7%E3%82%BA%E3%82%AF/Touch)
+  - 3月9日，發行專輯《[QUARTETTO](https://zh.wikipedia.org/wiki/QUARTETTO "wikilink")》。[10](https://ja.wikipedia.org/wiki/QUARTETTO)
   - 3月26至6月12日，舉行演唱會『NEWS LIVE TOUR 2016 QUARTETTO』。
   - 4月8日至9月30日，主持節目「変ラボ」播出。[11](https://ja.wikipedia.org/wiki/%E5%A4%89%E3%83%A9%E3%83%9C)。
   - 4月20日，「NEWS LIVE TOUR 2015 WHITE」演唱會DVD/BD發行。
-  - 7月13日，20th單曲《[給不懂戀愛的你](../Page/給不懂戀愛的你.md "wikilink")》發行。[12](https://ja.wikipedia.org/wiki/%E6%81%8B%E3%82%92%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E5%90%9B%E3%81%B8)
+  - 7月13日，20th單曲《[給不懂戀愛的你](https://zh.wikipedia.org/wiki/給不懂戀愛的你 "wikilink")》發行。[12](https://ja.wikipedia.org/wiki/%E6%81%8B%E3%82%92%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E5%90%9B%E3%81%B8)
   - 8月27日、28日，主持日本電視台[24小時愛地球的特別節目](../Page/24小時電視_「愛心救地球」.md "wikilink")。
 
 <!-- end list -->
@@ -381,27 +381,27 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
 
 <!-- end list -->
 
-  - 2月8日，21st單曲《[EMMA](../Page/EMMA.md "wikilink")》發行。[13](https://ja.wikipedia.org/wiki/EMMA_\(NEWS%E3%81%AE%E6%9B%B2\))
+  - 2月8日，21st單曲《[EMMA](https://zh.wikipedia.org/wiki/EMMA "wikilink")》發行。[13](https://ja.wikipedia.org/wiki/EMMA_\(NEWS%E3%81%AE%E6%9B%B2\))
   - 3月22日，8th專輯《NEVERLAND》發行。[14](https://ja.wikipedia.org/wiki/NEVERLAND_\(NEWS%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0\))
 
 ；2018年
 
-  - 1月17日，22nd單曲《[LPS](../Page/LPS.md "wikilink")》發行，為NEWS作品3連動第一彈。[15](https://ja.wikipedia.org/wiki/LPS_\(%E6%9B%B2\))
+  - 1月17日，22nd單曲《[LPS](https://zh.wikipedia.org/wiki/LPS "wikilink")》發行，為NEWS作品3連動第一彈。[15](https://ja.wikipedia.org/wiki/LPS_\(%E6%9B%B2\))
   - 1月24日，「NEWS LIVE TOUR 2017 NEVERLAND」演唱會DVD/BD發行，為NEWS作品3連動第二彈。
-  - 3月2日，應邀前往[中國](../Page/中國.md "wikilink")[上海參與](../Page/上海市.md "wikilink")「新娛樂在線」節目拍攝，該節目於4月6日播出。
-  - 3月21日，9th專輯《[EPCOTIA](../Page/EPCOTIA.md "wikilink")》發行，為NEWS作品3連動第三彈。[16](https://ja.wikipedia.org/wiki/EPCOTIA)
+  - 3月2日，應邀前往[中國](../Page/中國.md "wikilink")[上海參與](https://zh.wikipedia.org/wiki/上海市 "wikilink")「新娛樂在線」節目拍攝，該節目於4月6日播出。
+  - 3月21日，9th專輯《[EPCOTIA](https://zh.wikipedia.org/wiki/EPCOTIA "wikilink")》發行，為NEWS作品3連動第三彈。[16](https://ja.wikipedia.org/wiki/EPCOTIA)
   - 3月27日，推出團體首個真人戀愛模擬手機遊戲「NEWSに恋して」(與NEWS談戀愛)。
-  - 3月31日至5月20日，於日本[札幌](../Page/札幌市.md "wikilink")、[靜岡](../Page/靜岡縣.md "wikilink")、[大阪](../Page/大阪府.md "wikilink")、[名古屋等八個地方舉行](../Page/名古屋市.md "wikilink")「NEWS
+  - 3月31日至5月20日，於日本[札幌](../Page/札幌市.md "wikilink")、[靜岡](../Page/靜岡縣.md "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪府 "wikilink")、[名古屋等八個地方舉行](../Page/名古屋市.md "wikilink")「NEWS
     ARENA TOUR 2018
-    EPCOTIA」。同時，於4月14日至5月20日期間，[札幌](../Page/札幌市.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](../Page/大阪府.md "wikilink")、[福岡及](../Page/福岡市.md "wikilink")[琦玉先後設立NEWS](../Page/埼玉縣.md "wikilink")「NEVERLAND展」，展出去年NEVERLAND的演唱會服裝。
+    EPCOTIA」。同時，於4月14日至5月20日期間，[札幌](../Page/札幌市.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪府 "wikilink")、[福岡及](../Page/福岡市.md "wikilink")[琦玉先後設立NEWS](../Page/埼玉縣.md "wikilink")「NEVERLAND展」，展出去年NEVERLAND的演唱會服裝。
   - 4月5日起，一連四星期主持節目「NEWカップルS」。
-  - 6月27日，23nd單曲《[BLUE](../Page/BLUE.md "wikilink")》發行，為日本電視台系「俄羅斯2018世界盃」的主題曲。
+  - 6月27日，23nd單曲《[BLUE](https://zh.wikipedia.org/wiki/BLUE "wikilink")》發行，為日本電視台系「俄羅斯2018世界盃」的主題曲。
   - 7月，[加藤成亮首次擔任主角的漫畫改編劇集](../Page/加藤成亮.md "wikilink")《ZERO
     一獲千金遊戲》播出，其他成員於劇中友情演出，並由Hulu配信原創番外故事《ゼロ
     エピソードZERO》，共4回。
-  - 8月11日至8月12日，在[東京](../Page/東京.md "wikilink")[味の素スタジアム舉行](../Page/味の素スタジアム.md "wikilink")15周年演唱會『NEWS
+  - 8月11日至8月12日，在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[味の素スタジアム舉行](https://zh.wikipedia.org/wiki/味の素スタジアム "wikilink")15周年演唱會『NEWS
     15th Anniversary LIVE 2018 “Strawberry”』。
-  - 9月12日，24nd單曲《[生きろ](../Page/生きろ.md "wikilink")》發行，為[加藤成亮主演](../Page/加藤成亮.md "wikilink")《ZERO
+  - 9月12日，24nd單曲《[生きろ](https://zh.wikipedia.org/wiki/生きろ "wikilink")》發行，為[加藤成亮主演](../Page/加藤成亮.md "wikilink")《ZERO
     一獲千金遊戲》劇集的主題曲，並在一周後以銷量215,058張拿到Oricon公信榜周榜冠軍。[17](https://www.oricon.co.jp/rank/js/w/2018-09-24/)
   - 10月10日-25日，「NEWS15周年的Special企劃」，在Johnny's Online
     Shop販賣期間限定的15周年紀念周邊。
@@ -449,7 +449,7 @@ TBS電視台、富士電視台「排球賽世界最終預選」形象曲</p></td
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><strong><a href="../Page/珍惜_(NEWS單曲).md" title="wikilink">珍惜</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/珍惜_(NEWS單曲)" title="wikilink">珍惜</a></strong><br />
 （）</p></td>
 <td><p>2005年3月16日</p></td>
 <td></td>
@@ -462,7 +462,7 @@ TBS電視台、富士電視台「排球賽世界最終預選」形象曲</p></td
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><strong><a href="../Page/豌豆莢/赤腳的灰姑娘男孩.md" title="wikilink">豌豆莢/赤腳的灰姑娘男孩</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/豌豆莢/赤腳的灰姑娘男孩" title="wikilink">豌豆莢/赤腳的灰姑娘男孩</a></strong><br />
 （）</p></td>
 <td><p>2006年3月15日</p></td>
 <td><p>第一張6人體制單曲<br />
@@ -471,14 +471,14 @@ TBS電視台、富士電視台「排球賽世界最終預選」形象曲</p></td
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><strong><a href="../Page/朝着星光前進.md" title="wikilink">朝着星光前進</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/朝着星光前進" title="wikilink">朝着星光前進</a></strong><br />
 （）</p></td>
 <td><p>2007年3月21日</p></td>
-<td><p>電影「<a href="../Page/踢躂小企鵝.md" title="wikilink">踢躂小企鵝</a>」形象曲</p></td>
+<td><p>電影「<a href="https://zh.wikipedia.org/wiki/踢躂小企鵝" title="wikilink">踢躂小企鵝</a>」形象曲</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><strong><a href="../Page/weeeek.md" title="wikilink">weeeek</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/weeeek" title="wikilink">weeeek</a></strong><br />
 </p></td>
 <td><p>2007年11月7日</p></td>
 <td></td>
@@ -488,7 +488,7 @@ TBS電視台、富士電視台「排球賽世界最終預選」形象曲</p></td
 <td><p><strong><a href="../Page/太陽的眼淚.md" title="wikilink">太陽的眼淚</a></strong><br />
 （）</p></td>
 <td><p>2008年2月27日</p></td>
-<td><p>電影「<a href="../Page/詐欺獵人.md" title="wikilink">詐欺獵人</a>」主題曲</p></td>
+<td><p>電影「<a href="https://zh.wikipedia.org/wiki/詐欺獵人" title="wikilink">詐欺獵人</a>」主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
@@ -532,7 +532,7 @@ dwango.jp廣告曲</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p><strong><a href="../Page/WORLD_QUEST/拍拍肚子咕嚕叫.md" title="wikilink">WORLD QUEST/拍拍肚子咕嚕叫</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/WORLD_QUEST/拍拍肚子咕嚕叫" title="wikilink">WORLD QUEST/拍拍肚子咕嚕叫</a></strong></p></td>
 <td><p>2012年12月12日</p></td>
 <td><p>「<em>' WORLD QUEST <strong>」: 日本電視台FIFA Club World Cup Japan 2012官方指定曲<br />
 「</strong>拍拍肚子咕嚕叫</em>'」: 劇集「」主題曲</p></td>
@@ -541,7 +541,7 @@ dwango.jp廣告曲</p></td>
 <td><p>16</p></td>
 <td><p><strong></strong></p></td>
 <td><p>2014年6月11日</p></td>
-<td><p>日本電視台『<a href="../Page/2014年世界盃足球賽.md" title="wikilink">巴西2014</a>』主題曲</p></td>
+<td><p>日本電視台『<a href="https://zh.wikipedia.org/wiki/2014年世界盃足球賽" title="wikilink">巴西2014</a>』主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
@@ -560,7 +560,7 @@ dwango.jp廣告曲</p></td>
 <td><p><strong></strong></p></td>
 <td><p>2015年11月25日</p></td>
 <td><p>DVD單曲<br />
-動畫「<a href="../Page/金田一少年之事件簿_(動畫).md" title="wikilink">金田一少年之事件簿R</a>」主題曲（第26話-第37話 &amp; SP）</p></td>
+動畫「<a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(動畫)" title="wikilink">金田一少年之事件簿R</a>」主題曲（第26話-第37話 &amp; SP）</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -597,27 +597,34 @@ dwango.jp廣告曲</p></td>
 <td><p>24</p></td>
 <td><p><strong></strong></p></td>
 <td><p>2018年9月12日</p></td>
-<td><p><a href="../Page/日本电视台.md" title="wikilink">日本电视台週日連續劇</a>『ZERO 一獲千金遊戲』主題曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本电视台" title="wikilink">日本电视台週日連續劇</a>『ZERO 一獲千金遊戲』主題曲</p></td>
 </tr>
 </tbody>
 </table>
 
 ### CD專輯
 
-1.  [touch](../Page/Touch_\(NEWS專輯\).md "wikilink") （2005年4月27日）
-2.  [pacific](../Page/pacific.md "wikilink") （2007年11月7日）
-3.  [color](../Page/color_\(專輯\).md "wikilink") （2008年11月19日）
+1.  [touch](https://zh.wikipedia.org/wiki/Touch_\(NEWS專輯\) "wikilink")
+    （2005年4月27日）
+2.  [pacific](https://zh.wikipedia.org/wiki/pacific "wikilink")
+    （2007年11月7日）
+3.  [color](https://zh.wikipedia.org/wiki/color_\(專輯\) "wikilink")
+    （2008年11月19日）
 4.  [LIVE](../Page/LIVE_\(NEWS專輯\).md "wikilink") （2010年9月15日）
-5.  [NEWS](../Page/NEWS_\(NEWS專輯\).md "wikilink") （2013年7月17日）
-6.  [White](../Page/White_\(NEWS專輯\).md "wikilink") （2015年2月25日）
-7.  [QUARTETTO](../Page/QUARTETTO.md "wikilink") （2016年3月9日）
+5.  [NEWS](https://zh.wikipedia.org/wiki/NEWS_\(NEWS專輯\) "wikilink")
+    （2013年7月17日）
+6.  [White](https://zh.wikipedia.org/wiki/White_\(NEWS專輯\) "wikilink")
+    （2015年2月25日）
+7.  [QUARTETTO](https://zh.wikipedia.org/wiki/QUARTETTO "wikilink")
+    （2016年3月9日）
 8.  NEVERLAND （2017年3月22日）
 9.  EPCOTIA （2018年3月21日）
 10. WORLDISTA (2019年2月20日)
 
 #### 　精選輯
 
-1.  [NEWS BEST](../Page/NEWS_BEST.md "wikilink") （2012年6月13日）
+1.  [NEWS BEST](https://zh.wikipedia.org/wiki/NEWS_BEST "wikilink")
+    （2012年6月13日）
 
 ### 影像作品
 
@@ -629,15 +636,16 @@ dwango.jp廣告曲</p></td>
 5.  [NEWS LIVE
     DIAMOND](../Page/NEWS_LIVE_DIAMOND.md "wikilink")（2009年11月4日）
 6.  [NEWS DOME PARTY 2010 LIVE\! LIVE\! LIVE\!
-    DVD\!](../Page/NEWS_DOME_PARTY_2010_LIVE!_LIVE!_LIVE!_DVD!.md "wikilink")（2010年12月22日）
+    DVD\!](https://zh.wikipedia.org/wiki/NEWS_DOME_PARTY_2010_LIVE!_LIVE!_LIVE!_DVD! "wikilink")（2010年12月22日）
 7.  [NEWS LIVE TOUR 2012
-    ～談場美麗的戀愛吧～](../Page/NEWS_LIVE_TOUR_2012_～談場美麗的戀愛吧～.md "wikilink")（）
+    ～談場美麗的戀愛吧～](https://zh.wikipedia.org/wiki/NEWS_LIVE_TOUR_2012_～談場美麗的戀愛吧～ "wikilink")（）
     (2013年1月30日)
 8.  [NEWS 10th Anniversary in Tokyo
-    Dome](../Page/NEWS_10th_Anniversary_in_Tokyo_Dome.md "wikilink")
+    Dome](https://zh.wikipedia.org/wiki/NEWS_10th_Anniversary_in_Tokyo_Dome "wikilink")
     (2014年3月19日)
 9.  [NEWS LIVE TOUR 2015
-    WHITE](../Page/NEWS_LIVE_TOUR_2015_WHITE.md "wikilink") (2016年4月20日)
+    WHITE](https://zh.wikipedia.org/wiki/NEWS_LIVE_TOUR_2015_WHITE "wikilink")
+    (2016年4月20日)
 10. NEWS LIVE TOUR 2016 QUARTETTO (2016年12月14日)
 11. NEWS LIVE TOUR 2017 NEVERLAND (2018年1月24日)
 12. NEWS LIVE TOUR EPCOTIA (2019年1月16日)
@@ -648,24 +656,25 @@ dwango.jp廣告曲</p></td>
 
 ### 電視節目
 
-  - 《Ya-Ya-yah》（[東京放送](../Page/東京放送.md "wikilink")）- 小山、増田、加藤、手越
-  - 《》【NEWS排行榜】（2003年10月20日－11月1日、[富士電視系](../Page/富士電視.md "wikilink")）
-  - 《NEWS柳本JAPAN》（2005年6月23日（共4集）、[富士電視系](../Page/富士電視.md "wikilink")）
-  - 《走魂》（2009年11月12日－2010年3月25日、[日本電視系](../Page/日本電視.md "wikilink")）-小山、増田、加藤、手越
-  - 《4X9》（2014年10月6日、[日本電視系](../Page/日本電視.md "wikilink")）
-  - 《4vsX》（2015年4月13日、[日本電視系](../Page/日本電視.md "wikilink")）
-  - 《変ラボ》（特番播出：2015年7月20日、27日、2016年1月11日[日本電視系](../Page/日本電視.md "wikilink")）－小山、加藤
+  - 《Ya-Ya-yah》（[東京放送](https://zh.wikipedia.org/wiki/東京放送 "wikilink")）-
+    小山、増田、加藤、手越
+  - 《》【NEWS排行榜】（2003年10月20日－11月1日、[富士電視系](https://zh.wikipedia.org/wiki/富士電視 "wikilink")）
+  - 《NEWS柳本JAPAN》（2005年6月23日（共4集）、[富士電視系](https://zh.wikipedia.org/wiki/富士電視 "wikilink")）
+  - 《走魂》（2009年11月12日－2010年3月25日、[日本電視系](https://zh.wikipedia.org/wiki/日本電視 "wikilink")）-小山、増田、加藤、手越
+  - 《4X9》（2014年10月6日、[日本電視系](https://zh.wikipedia.org/wiki/日本電視 "wikilink")）
+  - 《4vsX》（2015年4月13日、[日本電視系](https://zh.wikipedia.org/wiki/日本電視 "wikilink")）
+  - 《変ラボ》（特番播出：2015年7月20日、27日、2016年1月11日[日本電視系](https://zh.wikipedia.org/wiki/日本電視 "wikilink")）－小山、加藤
 
 　　　　　　定期番（2016年4月8日 - －2016年9月29日
-[日本電視系](../Page/日本電視.md "wikilink")）小山、増田、加藤、手越
+[日本電視系](https://zh.wikipedia.org/wiki/日本電視 "wikilink")）小山、増田、加藤、手越
 輪流主持
 
   - 《NEWSな二人》（特番播出：2015年7月3日、10月2日、2016年1月8日 TBS系）－小山、加藤
 
 　　　　　　 　（2016年4月22日 [TBS系](../Page/TBS.md "wikilink")）－小山、加藤
 
-  - 《[THE少年俱樂部premium](../Page/THE少年俱樂部premium.md "wikilink")》（2016年4月
-    －2019年3月 [NHK](../Page/NHK.md "wikilink")）
+  - 《[THE少年俱樂部premium](https://zh.wikipedia.org/wiki/THE少年俱樂部premium "wikilink")》（2016年4月
+    －2019年3月 [NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
 
 ### CM
 
@@ -684,12 +693,12 @@ dwango.jp廣告曲</p></td>
 
 ### 電台
 
-  - 《》（－2005年3月21日、[文化放送](../Page/文化放送.md "wikilink")）
-  - 《》（2005年4月4日－、[文化放送](../Page/文化放送.md "wikilink")）-
+  - 《》（－2005年3月21日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）
+  - 《》（2005年4月4日－、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）-
     [小山慶一郎](../Page/小山慶一郎.md "wikilink")+メンバー1人
   - 《SHIGET TOGETHER》（2005年4月 - 2008年3月30日、FM-FUJI）-加藤成亮
   - 《》【NEWS的夜日本】（2005年4月25日、[日本放送](../Page/日本放送.md "wikilink")）
-  - 《》（毎週金曜 [bay fm](../Page/bay_fm.md "wikilink")）-
+  - 《》（毎週金曜 [bay fm](https://zh.wikipedia.org/wiki/bay_fm "wikilink")）-
     [增田貴久](../Page/增田貴久.md "wikilink")
   - 《-{SORASHIGE BOOK}-》(每週日23:00-23:30 FMヨコハマ)
   - 《-{テゴマスのらじお}-》每週三23:30-24:00 MBS Radio
@@ -698,7 +707,7 @@ dwango.jp廣告曲</p></td>
 
   - 《相信台灣》（2003年10月10日、特別出演）
   - 《A Happy "NEWS" year 2004》（2004年1月1日－4日、 「[Le Meridien Grand Pacific
-    Tokyo](../Page/Le_Meridien_Grand_Pacific_Tokyo.md "wikilink")」
+    Tokyo](https://zh.wikipedia.org/wiki/Le_Meridien_Grand_Pacific_Tokyo "wikilink")」
     、共13場）
   - 《SUMMARY of Johnnys
     World》（2004年8月8日－8月29日、[原宿](../Page/原宿.md "wikilink")）
@@ -709,7 +718,7 @@ dwango.jp廣告曲</p></td>
   - 《NEWS SPRING TOUR 2006》（2006年3月25日－4月30日、5個地點，共14場）
   - 《NEWS Concert Tour 2007》（2007年2月17日－4月15日、8個地點，共21場）
   - 《NEWS FIRST CONCERT 2007 in
-    Taipei》（2007年10月6日・7日、[台灣](../Page/台灣.md "wikilink")）
+    Taipei》（2007年10月6日・7日、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）
   - 《NEWS CONCERT TOUR pacific
     2007-2008》（2007年12月15日－2008年1月27日、10個地點，共28場）
   - 《NEWS LIVE DIAMOND|NEWS WINTER PARTY
@@ -742,12 +751,12 @@ dwango.jp廣告曲</p></td>
 
 擔任排球賽的應援及代言，並負責演唱應援歌。
 
-  - 「2003年度[世界盃排球賽](../Page/世界盃排球賽.md "wikilink")」（2003年11月）
+  - 「2003年度[世界盃排球賽](https://zh.wikipedia.org/wiki/世界盃排球賽 "wikilink")」（2003年11月）
   - 「第35屆全國高校排球賽」（2004年3月）
-  - 「[2004年夏季奧林匹克運動會排球賽最後預選賽](../Page/2004年夏季奧林匹克運動會排球比賽.md "wikilink")」（2004年5月）
-  - 「2004年度[世界盃排球賽](../Page/世界盃排球賽.md "wikilink")」（2004年7月－8月）
+  - 「[2004年夏季奧林匹克運動會排球賽最後預選賽](https://zh.wikipedia.org/wiki/2004年夏季奧林匹克運動會排球比賽 "wikilink")」（2004年5月）
+  - 「2004年度[世界盃排球賽](https://zh.wikipedia.org/wiki/世界盃排球賽 "wikilink")」（2004年7月－8月）
   - 「第36屆全國高校排球賽」（2005年3月）
-  - 「2005年度[世界盃排球賽](../Page/世界盃排球賽.md "wikilink")」（2005年6月－7月）
+  - 「2005年度[世界盃排球賽](https://zh.wikipedia.org/wiki/世界盃排球賽 "wikilink")」（2005年6月－7月）
 
 ## 注解
 
@@ -769,5 +778,5 @@ dwango.jp廣告曲</p></td>
 [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
 
 1.  有關NEWS的英文寫法:一開始事務所在組成的時候是使用NewS的，連單曲《[NEWS
-    NIPPON](../Page/NEWS_NIPPON.md "wikilink")》也是使用NewS,SHOP照現在也是，不過自從《[希望\~Yell\~](../Page/希望~Yell~.md "wikilink")》之後，就一直使用NEWS。因此"NEWS"和"NewS"都是通用的。
+    NIPPON](../Page/NEWS_NIPPON.md "wikilink")》也是使用NewS,SHOP照現在也是，不過自從《[希望\~Yell\~](https://zh.wikipedia.org/wiki/希望~Yell~ "wikilink")》之後，就一直使用NEWS。因此"NEWS"和"NewS"都是通用的。
 2.  於日本，二十歲以下是嚴禁吸煙及飲酒

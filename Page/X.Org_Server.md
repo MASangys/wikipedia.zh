@@ -1,21 +1,21 @@
 **X.Org Server**（全称）是[X Window
-System的官方](../Page/X_Window_System.md "wikilink")[参考實作](../Page/参考實作.md "wikilink")，它是[开放源代码的](../Page/开放源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
+System的官方](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[参考實作](https://zh.wikipedia.org/wiki/参考實作 "wikilink")，它是[开放源代码的](../Page/开放源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
 
-这个项目由[X.Org基金会运作](../Page/X.Org基金会.md "wikilink")，存放于[freedesktop.org的主机上](../Page/freedesktop.org.md "wikilink")。
+这个项目由[X.Org基金会运作](../Page/X.Org基金会.md "wikilink")，存放于[freedesktop.org的主机上](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")。
 
 由于在XFree86
 4.4最终版本采用新许可证问题上的分歧，Xorg服务的第一个版本X11R6.7.0从[XFree86](../Page/XFree86.md "wikilink")
 4.4
-RC2[派生出来](../Page/派生.md "wikilink")，并加入了X11R6.6的一些改动。许多原先XFree86的开发者加入了这个比XFree86更开放的项目。
+RC2[派生出来](https://zh.wikipedia.org/wiki/派生 "wikilink")，并加入了X11R6.6的一些改动。许多原先XFree86的开发者加入了这个比XFree86更开放的项目。
 
-選擇XOrg作為提供圖形與桌面服務為主的套件，逐渐在开源實作的[類Unix操作系统中流行](../Page/類Unix.md "wikilink")。
+選擇XOrg作為提供圖形與桌面服務為主的套件，逐渐在开源實作的[類Unix操作系统中流行](https://zh.wikipedia.org/wiki/類Unix "wikilink")。
 
 它被以下发行版本采用以代替XFree86：[Gentoo
 Linux](../Page/Gentoo_Linux.md "wikilink")、[Fedora
-Core](../Page/Fedora_Core.md "wikilink")、[Slackware](../Page/Slackware.md "wikilink")、[SUSE](../Page/SUSE.md "wikilink")、[Mandrake
-Linux](../Page/Mandrake_Linux.md "wikilink")、[Cygwin/X](../Page/Cygwin/X.md "wikilink")、[Debian
-GNU/Linux](../Page/Debian_GNU/Linux.md "wikilink")、[Ubuntu
-Linux](../Page/Ubuntu_Linux.md "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wikilink")[FreeBSD](../Page/FreeBSD.md "wikilink")。
+Core](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink")、[Slackware](../Page/Slackware.md "wikilink")、[SUSE](../Page/SUSE.md "wikilink")、[Mandrake
+Linux](https://zh.wikipedia.org/wiki/Mandrake_Linux "wikilink")、[Cygwin/X](https://zh.wikipedia.org/wiki/Cygwin/X "wikilink")、[Debian
+GNU/Linux](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")、[Ubuntu
+Linux](https://zh.wikipedia.org/wiki/Ubuntu_Linux "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wikilink")[FreeBSD](../Page/FreeBSD.md "wikilink")。
 
 ## 发布历史
 
@@ -35,13 +35,13 @@ Linux](../Page/Ubuntu_Linux.md "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wi
 <td></td>
 <td><p>[1]</p></td>
 <td><p>X11R7.0 (1.0.1)</p></td>
-<td><p>Initial modularized X server, <a href="../Page/EXA.md" title="wikilink">EXA</a> architecture</p></td>
+<td><p>Initial modularized X server, <a href="https://zh.wikipedia.org/wiki/EXA" title="wikilink">EXA</a> architecture</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>[2]</p></td>
 <td><p>X11R7.1 (1.1.0)</p></td>
-<td><p>KDrive integration, <a href="../Page/AIGLX.md" title="wikilink">AIGLX</a> support[3]</p></td>
+<td><p>KDrive integration, <a href="https://zh.wikipedia.org/wiki/AIGLX" title="wikilink">AIGLX</a> support[3]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -53,7 +53,7 @@ Linux](../Page/Ubuntu_Linux.md "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wi
 <td></td>
 <td><p>[6]</p></td>
 <td></td>
-<td><p><a href="../Page/RandR.md" title="wikilink">RandR</a> 1.2[7]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RandR" title="wikilink">RandR</a> 1.2[7]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -65,13 +65,13 @@ Linux](../Page/Ubuntu_Linux.md "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wi
 <td></td>
 <td><p>[11]</p></td>
 <td><p>X11R7.4 (1.5.1)</p></td>
-<td><p><a href="../Page/Multi-Pointer_X.md" title="wikilink">MPX</a>[12]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Multi-Pointer_X" title="wikilink">MPX</a>[12]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>[13]</p></td>
 <td></td>
-<td><p><a href="../Page/RandR.md" title="wikilink">RandR</a> 1.3, <a href="../Page/Direct_Rendering_Infrastructure.md" title="wikilink">DRI2</a>, XInput 1.5[14]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RandR" title="wikilink">RandR</a> 1.3, <a href="https://zh.wikipedia.org/wiki/Direct_Rendering_Infrastructure" title="wikilink">DRI2</a>, XInput 1.5[14]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -113,7 +113,7 @@ Linux](../Page/Ubuntu_Linux.md "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wi
 <td></td>
 <td><p>[26]</p></td>
 <td></td>
-<td><p>New DDX driver API, <a href="../Page/Direct_Rendering_Infrastructure.md" title="wikilink">DRI2</a> offload, <a href="../Page/RandR.md" title="wikilink">RandR</a> 1.4, <a href="../Page/OpenGL.md" title="wikilink">OpenGL</a> 3.x+ contexts, removing <a href="../Page/XFree86_Acceleration_Architecture.md" title="wikilink">XAA</a>[27]</p></td>
+<td><p>New DDX driver API, <a href="https://zh.wikipedia.org/wiki/Direct_Rendering_Infrastructure" title="wikilink">DRI2</a> offload, <a href="https://zh.wikipedia.org/wiki/RandR" title="wikilink">RandR</a> 1.4, <a href="../Page/OpenGL.md" title="wikilink">OpenGL</a> 3.x+ contexts, removing <a href="https://zh.wikipedia.org/wiki/XFree86_Acceleration_Architecture" title="wikilink">XAA</a>[27]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -131,19 +131,19 @@ Linux](../Page/Ubuntu_Linux.md "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wi
 <td></td>
 <td><p>[33]</p></td>
 <td></td>
-<td><p>XWayland DDX, GLAMOR acceleration, non-PCI devices support, <a href="../Page/Logind.md" title="wikilink">systemd-logind</a> support (rootless X),[34][35] obtained support for the <a href="../Page/libinput.md" title="wikilink">libinput</a> library in form of a wrapper called <code>xf86-input-libinput</code>[36][37]</p></td>
+<td><p>XWayland DDX, GLAMOR acceleration, non-PCI devices support, <a href="https://zh.wikipedia.org/wiki/Logind" title="wikilink">systemd-logind</a> support (rootless X),[34][35] obtained support for the <a href="https://zh.wikipedia.org/wiki/libinput" title="wikilink">libinput</a> library in form of a wrapper called <code>xf86-input-libinput</code>[36][37]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>[38]</p></td>
 <td></td>
-<td><p>Generic DRM/KMS driver <code>xf86-video-modesetting</code>,[39][40] added support for <a href="../Page/Direct_Rendering_Infrastructure#DRI2.md" title="wikilink">DRI2</a> with GLAMOR</p></td>
+<td><p>Generic DRM/KMS driver <code>xf86-video-modesetting</code>,[39][40] added support for <a href="https://zh.wikipedia.org/wiki/Direct_Rendering_Infrastructure#DRI2" title="wikilink">DRI2</a> with GLAMOR</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>[41]</p></td>
 <td></td>
-<td><p><a href="../Page/RandR.md" title="wikilink">RandR</a> 1.5</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RandR" title="wikilink">RandR</a> 1.5</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -155,7 +155,7 @@ Linux](../Page/Ubuntu_Linux.md "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wi
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Meson.md" title="wikilink">Meson</a> build system, Release Candidate available</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Meson" title="wikilink">Meson</a> build system, Release Candidate available</p></td>
 </tr>
 <tr class="even">
 <td></td>

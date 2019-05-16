@@ -3,16 +3,16 @@
 
 [D_cursiva.gif](https://zh.wikipedia.org/wiki/File:D_cursiva.gif "fig:D_cursiva.gif")
 
-[闪族语的](../Page/闪族语.md "wikilink")可能是从[雨或](../Page/雨.md "wikilink")[门的缩略图中发展而来的](../Page/门.md "wikilink")。
+[闪族语的](https://zh.wikipedia.org/wiki/闪族语 "wikilink")可能是从[雨或](../Page/雨.md "wikilink")[门的缩略图中发展而来的](https://zh.wikipedia.org/wiki/门 "wikilink")。
 
 ## 字母D的含意
 
 ## 字符编码
 
-| 字符编码                              | [ASCII](../Page/ASCII.md "wikilink") | [Unicode](../Page/Unicode.md "wikilink") | [EBCDIC](../Page/EBCDIC.md "wikilink") | [摩斯电码](../Page/摩斯电码.md "wikilink") |
-| --------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- | ---------------------------------- |
-| [大写D](../Page/大写字母.md "wikilink") | 68                                   | 0044                                     | 196                                    | `-··`                              |
-| [小写d](../Page/小写字母.md "wikilink") | 100                                  | 0064                                     | 132                                    |                                    |
+| 字符编码                                                 | [ASCII](../Page/ASCII.md "wikilink") | [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") | [EBCDIC](../Page/EBCDIC.md "wikilink") | [摩斯电码](https://zh.wikipedia.org/wiki/摩斯电码 "wikilink") |
+| ---------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------- |
+| [大写D](https://zh.wikipedia.org/wiki/大写字母 "wikilink") | 68                                   | 0044                                                        | 196                                    | `-··`                                                 |
+| [小写d](https://zh.wikipedia.org/wiki/小写字母 "wikilink") | 100                                  | 0064                                                        | 132                                    |                                                       |
 
 ## 参看
 

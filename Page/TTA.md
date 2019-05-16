@@ -2,7 +2,7 @@
 
 ## TTA压缩器
 
-  - 可将数据压缩至30%的无损[音频数据压缩](../Page/音频数据压缩.md "wikilink")
+  - 可将数据压缩至30%的无损[音频数据压缩](https://zh.wikipedia.org/wiki/音频数据压缩 "wikilink")
   - 實時編碼／解碼[算法](../Page/算法.md "wikilink")
   - 操作快捷、对系统要求低
   - 支持多平台
@@ -21,15 +21,15 @@ Audio编码，您可以将20张收藏的音频[CD存储到一张](../Page/CD.md 
   - 为所有流行媒体播放器提供插件
   - TTA [DirectShow滤波器](../Page/DirectShow.md "wikilink")
   - Tau Producer -
-    用于[Windows的图形界面压缩器](../Page/Microsoft_Windows.md "wikilink")
+    用于[Windows的图形界面压缩器](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - 各种TTA的 C/C++开发库
 
 ## 參见
 
   - [无损数据压缩](../Page/无损数据压缩.md "wikilink")
   - [有损数据压缩](../Page/有损数据压缩.md "wikilink")
-  - [音频数据压缩](../Page/音频数据压缩.md "wikilink")
-  - [音频编码格式的比较](../Page/音频编码格式的比较.md "wikilink")
+  - [音频数据压缩](https://zh.wikipedia.org/wiki/音频数据压缩 "wikilink")
+  - [音频编码格式的比较](https://zh.wikipedia.org/wiki/音频编码格式的比较 "wikilink")
 
 ## 外部链接
 

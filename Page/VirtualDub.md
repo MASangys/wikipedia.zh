@@ -1,5 +1,5 @@
 **VirtualDub**是一个[开放源代码的视频捕捉及线性处理软件](../Page/开放源代码.md "wikilink")。它由Avery
-Lee编写，遵循[GPL协议](../Page/GPL.md "wikilink")。
+Lee编写，遵循[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 介绍
 
@@ -9,12 +9,12 @@ VirtualDub的早期版本可以打开微软的\*.asf文件，后来由于软件�
 
 附加项目提供Avery
 Lee的版本中不存在的额外功能，如支持[MPEG-2和](../Page/MPEG-2.md "wikilink")[Ogg
-Theora](../Page/Ogg_Theora.md "wikilink")。
+Theora](https://zh.wikipedia.org/wiki/Ogg_Theora "wikilink")。
 
 ## 重構檔案功能
 
 [VirtualDub-AVI-Index-Reconstruction.png](https://zh.wikipedia.org/wiki/File:VirtualDub-AVI-Index-Reconstruction.png "fig:VirtualDub-AVI-Index-Reconstruction.png")
-VirtualDub的其中一個功能，在於它能夠修復在擷取錄像的過程中因為種種原因而失敗的檔案。它可以重新讀入整個[AVI檔](../Page/AVI.md "wikilink")，並重新構建它的索引模塊。
+VirtualDub的其中一個功能，在於它能夠修復在擷取錄像的過程中因為種種原因而失敗的檔案。它可以重新讀入整個[AVI檔](https://zh.wikipedia.org/wiki/AVI "wikilink")，並重新構建它的索引模塊。
 
 ## 开发
 
@@ -39,7 +39,7 @@ VirtualDub可以通过读取[DirectShow文件](../Page/DirectShow.md "wikilink")
   - [PVN](https://web.archive.org/web/20131210024935/http://forums.virtualdub.org/index.php?act=ST&f=7&t=15580)（by
     DJStealth）
   - [R3D](https://web.archive.org/web/20090301042252/http://arenafilm.hu/alsog/vdr3d/)（[Redcode
-    RAW文件](../Page/Red_Digital_Cinema_Camera_Company.md "wikilink")，by
+    RAW文件](https://zh.wikipedia.org/wiki/Red_Digital_Cinema_Camera_Company "wikilink")，by
     Gábor Kertai）
   - [DirectShow](https://web.archive.org/web/20131210032658/http://forums.virtualdub.org/index.php?act=ST&f=7&t=15093)（by
     phaeron）

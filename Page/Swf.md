@@ -1,10 +1,10 @@
 SWF 是 **<u>S</u>mall <u>W</u>eb <u>F</u>ormat** 的縮寫,
 讀作**swiff**），是用於多媒體，矢量圖形和ActionScript的Adobe
-Flash文件格式。源於FutureWave軟件，然後轉移到Macromedia，然後在Adobe的控制下，SWF文件可以包含不同程度的交互和功能的動畫或applet。它們也可包含在瀏覽器遊戲中。它的普及程度很高，現在超過99%的網絡使用者都可以讀取swf檔案，即使[任天堂](../Page/任天堂.md "wikilink")[Wii](../Page/Wii.md "wikilink")（使用[Opera](../Page/Opera.md "wikilink")[瀏覽器的話](../Page/瀏覽器.md "wikilink")）、[Sony的](../Page/Sony.md "wikilink")[PSP也能看到](../Page/PSP.md "wikilink")。
+Flash文件格式。源於FutureWave軟件，然後轉移到Macromedia，然後在Adobe的控制下，SWF文件可以包含不同程度的交互和功能的動畫或applet。它們也可包含在瀏覽器遊戲中。它的普及程度很高，現在超過99%的網絡使用者都可以讀取swf檔案，即使[任天堂](../Page/任天堂.md "wikilink")[Wii](../Page/Wii.md "wikilink")（使用[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")[瀏覽器的話](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")）、[Sony的](https://zh.wikipedia.org/wiki/Sony "wikilink")[PSP也能看到](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
 ## 介紹
 
-這個檔案格式由[FutureWave](../Page/FutureWave.md "wikilink")(後來納入[Adobe](../Page/Adobe.md "wikilink"))創建。創建這檔案格式的主要目標：創作小檔案以播放動畫。\[1\]這個計畫的理念是可以在任何[作業系統和瀏覽器中進行](../Page/作業系統.md "wikilink")，並且讓網絡較慢的人也能順利瀏覽。FutureWave於1996年5月發布了FutureSplash
+這個檔案格式由[FutureWave](https://zh.wikipedia.org/wiki/FutureWave "wikilink")(後來納入[Adobe](../Page/Adobe.md "wikilink"))創建。創建這檔案格式的主要目標：創作小檔案以播放動畫。\[1\]這個計畫的理念是可以在任何[作業系統和瀏覽器中進行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並且讓網絡較慢的人也能順利瀏覽。FutureWave於1996年5月發布了FutureSplash
 Animator。1996年12月，Macromedia收購了FutureWave，FutureSplash
 Animator成為Macromedia Flash 1.0。
 SWF的原始命名來自於Macromedia希望利用著名的Macromedia
@@ -19,7 +19,8 @@ SWF還使用顯示列表，並允許命名和重用先前定義的組件。SWF�
 
 ## 參見
 
-  - [FutureSplash Animator](../Page/FutureSplash_Animator.md "wikilink")
+  - [FutureSplash
+    Animator](https://zh.wikipedia.org/wiki/FutureSplash_Animator "wikilink")
 
 ## 參考資料
 

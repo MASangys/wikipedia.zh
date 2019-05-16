@@ -1,17 +1,18 @@
-**Picasa**是一套[應用軟體](../Page/應用軟體.md "wikilink")，用於整理和編輯[數位相片](../Page/數位攝影.md "wikilink")，起先由所創。Picasa原為一家位於美國[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[帕薩迪納的公司](../Page/帕萨迪纳_\(加利福尼亚州\).md "wikilink")，提供數位相片自動化管理服務，並發行同名軟體。2004年7月，Google收購Picasa並開始提供免費下載。此外，該公司生產的[即時通訊工具](../Page/即時通訊.md "wikilink")[Hello也一併歸Google所有](../Page/Hello_\(軟體\).md "wikilink")。
-2016年2月，Google宣布自2016年3月16日起停止對Picasa的更新與支援，同時在5月1日終止[Picasa網路相簿](../Page/Picasa網路相簿.md "wikilink")（Picasa
-Web Albums）照片共用服務，此外還將停止對部分Picasa [API的支援](../Page/API.md "wikilink")。
+**Picasa**是一套[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")，用於整理和編輯[數位相片](https://zh.wikipedia.org/wiki/數位攝影 "wikilink")，起先由所創。Picasa原為一家位於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[帕薩迪納的公司](../Page/帕萨迪纳_\(加利福尼亚州\).md "wikilink")，提供數位相片自動化管理服務，並發行同名軟體。2004年7月，Google收購Picasa並開始提供免費下載。此外，該公司生產的[即時通訊工具](../Page/即時通訊.md "wikilink")[Hello也一併歸Google所有](https://zh.wikipedia.org/wiki/Hello_\(軟體\) "wikilink")。
+2016年2月，Google宣布自2016年3月16日起停止對Picasa的更新與支援，同時在5月1日終止[Picasa網路相簿](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")（Picasa
+Web Albums）照片共用服務，此外還將停止對部分Picasa
+[API的支援](https://zh.wikipedia.org/wiki/API "wikilink")。
 
 ## 特色
 
-Picasa的名字來源於著名藝術家[畢卡索](../Page/畢卡索.md "wikilink")，它的目標是讓使用者通過一次點擊就可以完成複雜的任務，比如顏色過濾，消除紅眼等等。它也提供幻燈片放映，打印以及特別的圖像[時間線功能](../Page/時間線.md "wikilink")。
+Picasa的名字來源於著名藝術家[畢卡索](https://zh.wikipedia.org/wiki/畢卡索 "wikilink")，它的目標是讓使用者通過一次點擊就可以完成複雜的任務，比如顏色過濾，消除紅眼等等。它也提供幻燈片放映，打印以及特別的圖像[時間線功能](https://zh.wikipedia.org/wiki/時間線 "wikilink")。
 
 用戶可以把圖片組成相冊。又可以接著把相冊集合成收藏集。通過拖放的操作就可以完成圖片的放置。圖片可以改變大小再輸出，以方便作為電郵附件或者打印之用。Picasa還提供一些專業的尺寸規格供選擇。
 
-Picasa亦允許用户為相冊编制自己的插件或程序。目前官網有三個示範，分別是[Picnik](../Page/Picnik.md "wikilink")、[Booksmart和](../Page/Booksmart.md "wikilink")[ShoZu](../Page/ShoZu.md "wikilink")。Picnik可以使用戶透過浏览器编辑相片，Booksmart能將相冊中的照片编成一本书，ShoZu能使用戶透過手机上传图片至Picasa相冊。
+Picasa亦允許用户為相冊编制自己的插件或程序。目前官網有三個示範，分別是[Picnik](../Page/Picnik.md "wikilink")、[Booksmart和](https://zh.wikipedia.org/wiki/Booksmart "wikilink")[ShoZu](https://zh.wikipedia.org/wiki/ShoZu "wikilink")。Picnik可以使用戶透過浏览器编辑相片，Booksmart能將相冊中的照片编成一本书，ShoZu能使用戶透過手机上传图片至Picasa相冊。
 
-Picasa还可以直接显示编辑[RAW格式文件](../Page/RAW.md "wikilink")。類似的軟件包括，[蘋果的](../Page/蘋果電腦.md "wikilink")[iPhoto以及](../Page/iPhoto.md "wikilink")[Adobe的](../Page/Adobe_Systems.md "wikilink")[Photoshop
-Elements](../Page/Photoshop_Elements.md "wikilink")。
+Picasa还可以直接显示编辑[RAW格式文件](../Page/RAW.md "wikilink")。類似的軟件包括，[蘋果的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[iPhoto以及](https://zh.wikipedia.org/wiki/iPhoto "wikilink")[Adobe的](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[Photoshop
+Elements](https://zh.wikipedia.org/wiki/Photoshop_Elements "wikilink")。
 
 ## 版本歷史
 
@@ -20,15 +21,15 @@ Elements](../Page/Photoshop_Elements.md "wikilink")。
   - 1.618 2004年7月 -
     [Google接手以後第一個免費下載的Picasa版本](../Page/Google.md "wikilink")
   - 2.0.0 (build 18.77) 2005年1月 -
-    很多新功能，包括一個自動的相片收集整理工具，以及進一步和[Hello以及](../Page/Hello_\(軟體\).md "wikilink")[Google的](../Page/Google.md "wikilink")**[Blogger](../Page/Blogger.md "wikilink")**服務整合。
+    很多新功能，包括一個自動的相片收集整理工具，以及進一步和[Hello以及](https://zh.wikipedia.org/wiki/Hello_\(軟體\) "wikilink")[Google的](../Page/Google.md "wikilink")**[Blogger](../Page/Blogger.md "wikilink")**服務整合。
   - 2.0.0 (build 18.84) 2005年6月8日－修復bug
   - 2.1.0 (build 27.54) 2005年9月19日－簡體中文版本；9月20日－繁體中文版本
   - 2.2.0 (build 28.20) 2006年1月26日－新增了25種新的語言界面、支持[Internet Explorer
     7](../Page/Internet_Explorer_7.md "wikilink")、UNC路徑驅動器問題現已解決。
   - 2.5.0 (builds 32.01至32.71)
-    2006年6月12日包含[Picasa網路相簿支持的Beta版](../Page/Picasa網路相簿.md "wikilink")
+    2006年6月12日包含[Picasa網路相簿支持的Beta版](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")
   - 2.6.0 (build 36.19.0)
-    2007年1月[Picasa網路相簿支持的正式版](../Page/Picasa網路相簿.md "wikilink")
+    2007年1月[Picasa網路相簿支持的正式版](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")
   - 2.7
       - Build 36.37－2007年4月24日
           - 新的RAW格式處理引擎，修正新的顏色調整引擎
@@ -45,7 +46,7 @@ Elements](../Page/Photoshop_Elements.md "wikilink")。
           - 加入對來自Canon 40D RAW圖片的支援。
           - 修正某些RAW圖片呈現過度曝光的問題。
           - 恢復使用Ctrl-Alt進行全螢幕預覽。
-          - 修正上載到[Picasa網路相簿會立即導致](../Page/Picasa網路相簿.md "wikilink")「連線失敗」錯誤的問題。
+          - 修正上載到[Picasa網路相簿會立即導致](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")「連線失敗」錯誤的問題。
       - Build 37.32－2007年10月2日
           - 修正損毀的AVI檔案會造成當機的問題。
           - 修正會導致「此帳戶未啟用Picasa網頁相簿」錯誤的問題。
@@ -70,8 +71,9 @@ Elements](../Page/Photoshop_Elements.md "wikilink")。
       - Build 57.53－2008年11月20日
   - 3.1
       - Build 70.71－2008年12月16日
-          - 現在有38種語言可供使用 －最近加入對[北印度語的支援](../Page/北印度語.md "wikilink")。
-          - 加入在上傳至[Picasa網路相簿時](../Page/Picasa網路相簿.md "wikilink")，出現"Sign
+          - 現在有38種語言可供使用
+            －最近加入對[北印度語的支援](https://zh.wikipedia.org/wiki/北印度語 "wikilink")。
+          - 加入在上傳至[Picasa網路相簿時](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")，出現"Sign
             in required to view"（需登入以檢視）的選項。此選項允許你和指定的使用者分享。
           - Ability to click and drag on an image or folder to scroll up
             and down.
@@ -81,7 +83,7 @@ Elements](../Page/Photoshop_Elements.md "wikilink")。
       - Build 70.73－2009年1月8日
           - 改善某些語言的商店特色 (Shop feature)。
           - 修正對支援MAPI電子郵件的錯誤。
-          - 改善上傳至[Picasa網路相簿](../Page/Picasa網路相簿.md "wikilink")，減少重試。
+          - 改善上傳至[Picasa網路相簿](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")，減少重試。
           - 加入對[OpenType字型的支援](../Page/OpenType.md "wikilink")。
       - Build 71.18－2009年3月23日
           - 加入對ICC色彩設定檔的支援。
@@ -89,7 +91,7 @@ Elements](../Page/Photoshop_Elements.md "wikilink")。
           - 更新對新型相機的RAW支援
       - Build 71.28－2009年4月14日
           - 加入對從右到左書寫的希伯來與阿拉伯語言的支援測試。
-          - 增加從Picasa到[Picasa網路相簿的視訊上載限制至](../Page/Picasa網路相簿.md "wikilink")1GB的檔案大小，但不限制持續上載的時間長度。
+          - 增加從Picasa到[Picasa網路相簿的視訊上載限制至](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")1GB的檔案大小，但不限制持續上載的時間長度。
       - Build 71.32－2009年4月15日
           - 修正阻礙Picasa執行的錯誤。
       - Build 71.36－2009年4月23日
@@ -133,8 +135,9 @@ Elements](../Page/Photoshop_Elements.md "wikilink")。
 
 ### Mac OS X
 
-在2009年1月5日，Google釋出了第一個提供給Mac的Picasa測試版（僅有以Intel為基礎的Mac）。此外，可取代iPhoto的外掛程式，以此上傳至[Picasa網路相簿主機的服務](../Page/Picasa網路相簿.md "wikilink")。也有針對OS
-X 10.4或以後的獨立[Picasa網路相簿上傳工具](../Page/Picasa網路相簿.md "wikilink")。
+在2009年1月5日，Google釋出了第一個提供給Mac的Picasa測試版（僅有以Intel為基礎的Mac）。此外，可取代iPhoto的外掛程式，以此上傳至[Picasa網路相簿主機的服務](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")。也有針對OS
+X
+10.4或以後的獨立[Picasa網路相簿上傳工具](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")。
 
   - 3.0.0.310－2009年1月5日
   - 3.0.1－2009年1月6日
@@ -159,10 +162,10 @@ X 10.4或以後的獨立[Picasa網路相簿上傳工具](../Page/Picasa網路相
 
 ## 參見
 
-  - [Google產品列表](../Page/Google產品列表.md "wikilink")
+  - [Google產品列表](https://zh.wikipedia.org/wiki/Google產品列表 "wikilink")
   - [Picasa网络相册](../Page/Picasa网络相册.md "wikilink")
-  - [影像檢視器比較](../Page/影像檢視器比較.md "wikilink")
-  - [桌面管理器](../Page/桌面管理器.md "wikilink")
+  - [影像檢視器比較](https://zh.wikipedia.org/wiki/影像檢視器比較 "wikilink")
+  - [桌面管理器](https://zh.wikipedia.org/wiki/桌面管理器 "wikilink")
 
 {{-}}
 

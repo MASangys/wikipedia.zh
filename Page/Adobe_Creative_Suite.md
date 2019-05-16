@@ -1,5 +1,5 @@
 **Adobe Creative
-Suite**是[Adobe公司出品的集成了](../Page/Adobe.md "wikilink")[平面设计](../Page/平面设计.md "wikilink")、[视频编辑](../Page/视频编辑.md "wikilink")、[网页设计等](../Page/网页设计.md "wikilink")[应用的产品套装](../Page/应用.md "wikilink")。
+Suite**是[Adobe公司出品的集成了](../Page/Adobe.md "wikilink")[平面设计](../Page/平面设计.md "wikilink")、[视频编辑](https://zh.wikipedia.org/wiki/视频编辑 "wikilink")、[网页设计等](../Page/网页设计.md "wikilink")[应用的产品套装](https://zh.wikipedia.org/wiki/应用 "wikilink")。
 
 该套装最初主要包括电子文件制作程序[Adobe
 Acrobat](../Page/Adobe_Acrobat.md "wikilink")、矢量图形绘图程序[Adobe
@@ -23,12 +23,12 @@ Creative Cloud](../Page/Adobe_Creative_Cloud.md "wikilink")。
   - [Adobe Acrobat是專為PDF格式而設的系列軟體](../Page/Adobe_Acrobat.md "wikilink")
       - [Adobe Acrobat
         Standard與](../Page/Adobe_Acrobat.md "wikilink")[Adobe Acrobat
-        Professional](../Page/Adobe_Acrobat.md "wikilink")：用於建立[PDF檔](../Page/PDF.md "wikilink")。
+        Professional](../Page/Adobe_Acrobat.md "wikilink")：用於建立[PDF檔](https://zh.wikipedia.org/wiki/PDF "wikilink")。
       - [Adobe
-        Reader](../Page/Adobe_Reader.md "wikilink")：為一免費軟體（非開放原始碼），用於閱覽與列印[PDF檔](../Page/PDF.md "wikilink")。
+        Reader](https://zh.wikipedia.org/wiki/Adobe_Reader "wikilink")：為一免費軟體（非開放原始碼），用於閱覽與列印[PDF檔](https://zh.wikipedia.org/wiki/PDF "wikilink")。
   - [Adobe
     Audition為一](../Page/Adobe_Audition.md "wikilink")「專業級」多音軌數位音效編輯工具，其定位和[Adobe
-    Soundbooth不同](../Page/Adobe_Soundbooth.md "wikilink")。
+    Soundbooth不同](https://zh.wikipedia.org/wiki/Adobe_Soundbooth "wikilink")。
   - [Adobe After
     Effects為一數位動畫與合成軟體](../Page/Adobe_After_Effects.md "wikilink")，用於電影與影片後製。
   - [Adobe
@@ -37,25 +37,25 @@ Creative Cloud](../Page/Adobe_Creative_Cloud.md "wikilink")。
   - [Adobe
     Contribute用於網站內容的編輯](../Page/Adobe_Contribute.md "wikilink")。由於此軟體降低了設計網站所需的技術要求，讓組織中各種人都可以更新網頁。
   - [Adobe Device
-    Central用於預覽與測試行動裝置內容](../Page/Adobe_Device_Central.md "wikilink")。與Creative
+    Central用於預覽與測試行動裝置內容](https://zh.wikipedia.org/wiki/Adobe_Device_Central "wikilink")。與Creative
     Suite各軟體相整合，提供創意專業人員、網站設計人員與開發人員預覽及測試行動裝置中的檔案，諸如Flash
     Lite、點陣圖、網站與影音內容。
   - [Adobe
     Dreamweaver為一結合語法與所見即所得的網站設計程式](../Page/Adobe_Dreamweaver.md "wikilink")。
   - [Adobe Dynamic
-    Link的功用是將After](../Page/Adobe_Dynamic_Link.md "wikilink")
+    Link的功用是將After](https://zh.wikipedia.org/wiki/Adobe_Dynamic_Link "wikilink")
     Effects與Premiere和Encore相結合。
   - [Adobe
-    Encore為DVD編寫工具](../Page/Adobe_Encore.md "wikilink")，以半專業影音工作人員為主要用戶。此軟體會自動將檔案轉碼成MPEG-2影音與杜比數位音效。用戶還可以利用Photoshop的特殊圖層技術來建立和修改DVD選單。
+    Encore為DVD編寫工具](https://zh.wikipedia.org/wiki/Adobe_Encore "wikilink")，以半專業影音工作人員為主要用戶。此軟體會自動將檔案轉碼成MPEG-2影音與杜比數位音效。用戶還可以利用Photoshop的特殊圖層技術來建立和修改DVD選單。
   - [Adobe
-    Fireworks為一點陣圖與向量圖形的編輯軟體](../Page/Adobe_Fireworks.md "wikilink")，以網站設計人員為主要用戶，主要功能包含切片，添加[hotspots等](../Page/hotspots.md "wikilink")。
+    Fireworks為一點陣圖與向量圖形的編輯軟體](../Page/Adobe_Fireworks.md "wikilink")，以網站設計人員為主要用戶，主要功能包含切片，添加[hotspots等](https://zh.wikipedia.org/wiki/hotspots "wikilink")。
   - [Adobe Flash為一製作多媒體技術的系列軟體](../Page/Adobe_Flash.md "wikilink")
   - [Adobe Flash
     Professional](../Page/Adobe_Flash.md "wikilink")：為一多媒體編寫程式，用途是建立網站應用程式、遊戲、影片以及手機和其他裝置內容。Flash
     Professional的特色是支援向量圖形與點陣圖形、[ActionScript編寫語言與影音雙向串流](../Page/ActionScript.md "wikilink")。
   - [Adobe Flash
     Player為可播放Adobe](../Page/Adobe_Flash_Player.md "wikilink")
-    Flash多媒體檔案（[SWF](../Page/SWF.md "wikilink")）的免費軟體。
+    Flash多媒體檔案（[SWF](https://zh.wikipedia.org/wiki/SWF "wikilink")）的免費軟體。
   - [Adobe
     Illustrator為一向量圖形編輯軟體](../Page/Adobe_Illustrator.md "wikilink")。
   - [Adobe InDesign為一桌面出版應用軟體](../Page/Adobe_InDesign.md "wikilink")。
@@ -66,18 +66,18 @@ Creative Cloud](../Page/Adobe_Creative_Cloud.md "wikilink")。
   - [Adobe Premiere
     Pro為一以時間軸為基礎的即時影音編輯軟體](../Page/Adobe_Premiere_Pro.md "wikilink")。
   - [Adobe
-    Soundbooth為一個數位音效編輯軟體](../Page/Adobe_Soundbooth.md "wikilink")。Adobe將其稱為「Sound
+    Soundbooth為一個數位音效編輯軟體](https://zh.wikipedia.org/wiki/Adobe_Soundbooth "wikilink")。Adobe將其稱為「Sound
     Edit 16與Cool Edit 2000的精神」。Soundbooth的用意不在取代[Adobe
     Audition](../Page/Adobe_Audition.md "wikilink")，而是讓非音效專業的創意工作者也有適用軟體。
   - [Adobe Version
-    Cue可讓用戶輕易追蹤並運用檔案詮釋資料](../Page/Adobe_Version_Cue.md "wikilink")，而詮釋資料是關於電腦檔案的歷史記錄，例如一個檔案是另一舊檔案的新版本。Version
+    Cue可讓用戶輕易追蹤並運用檔案詮釋資料](https://zh.wikipedia.org/wiki/Adobe_Version_Cue "wikilink")，而詮釋資料是關於電腦檔案的歷史記錄，例如一個檔案是另一舊檔案的新版本。Version
     Cue也將群團隊間共同的文件審視程序自動化。
 
 ## 历史
 
 ### Creative Suite
 
-CS套装的第一个版本于2002年推出。从那以后Adobe公司的创意设计软件的名称，由原来的版本号结尾（如[Photoshop](../Page/Photoshop.md "wikilink")
+CS套装的第一个版本于2002年推出。从那以后Adobe公司的创意设计软件的名称，由原来的版本号结尾（如[Photoshop](https://zh.wikipedia.org/wiki/Photoshop "wikilink")
 8）变成由CS结尾（如Photoshop CS）。
 
 ### Creative Suite 2
@@ -91,10 +91,11 @@ CS2，事实版本号9.0）。包括两种套装，标准版和增强版。
 CS2（事实版本号9.0）、[Adobe
 Illustrator](../Page/Adobe_Illustrator.md "wikilink")
 CS2（事实版本号12.0）、[Adobe
-InDesign](../Page/Adobe_Indesign.md "wikilink") CS2（事实版本号4.0）、[Adobe
-Version Cue](../Page/Adobe_Version_Cue.md "wikilink") CS2、[Adobe
-Bridge和](../Page/Adobe_Bridge.md "wikilink")[Adobe Stock
-Photos](../Page/Adobe_Stock_Photos.md "wikilink")。增强版包含标准版所有软件，并增加[Adobe
+InDesign](https://zh.wikipedia.org/wiki/Adobe_Indesign "wikilink")
+CS2（事实版本号4.0）、[Adobe Version
+Cue](https://zh.wikipedia.org/wiki/Adobe_Version_Cue "wikilink")
+CS2、[Adobe Bridge和](../Page/Adobe_Bridge.md "wikilink")[Adobe Stock
+Photos](https://zh.wikipedia.org/wiki/Adobe_Stock_Photos "wikilink")。增强版包含标准版所有软件，并增加[Adobe
 GoLive](../Page/Adobe_GoLive.md "wikilink") CS2（事实版本号8.0）和[Adobe
 Acrobat](../Page/Adobe_Acrobat.md "wikilink") 7.0 Professional。
 
@@ -133,12 +134,13 @@ Adobe Production Studio增强版包括：
   - [Adobe After Effects专业版](../Page/Adobe_After_Effects.md "wikilink")
   - [Adobe Audition](../Page/Adobe_Audition.md "wikilink")
   - [Adobe Bridge](../Page/Adobe_Bridge.md "wikilink")
-  - [Adobe Encore DVD](../Page/Adobe_Encore_DVD.md "wikilink")
+  - [Adobe Encore
+    DVD](https://zh.wikipedia.org/wiki/Adobe_Encore_DVD "wikilink")
   - [Adobe Premiere Pro](../Page/Adobe_Premiere_Pro.md "wikilink")
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")
   - [Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")
   - [Adobe Dynamic
-    Link](../Page/Adobe_Dynamic_Link.md "wikilink")（不单独发售）
+    Link](https://zh.wikipedia.org/wiki/Adobe_Dynamic_Link "wikilink")（不单独发售）
 
 标准版包括
 
@@ -174,7 +176,7 @@ Illustrator取代。而Director和ColdFusion則不屬於Adobe Creative Suite，�
 
 [Adobe_Creative_Suite_3_logo.png](https://zh.wikipedia.org/wiki/File:Adobe_Creative_Suite_3_logo.png "fig:Adobe_Creative_Suite_3_logo.png")
 2007年3月27日，Adobe發佈了Adobe Creative Suite 3。代號為「剝香蕉」。公司為該系列產品的[Apple
-Macintosh版本的主要程序加入了通用二進制庫](../Page/Apple_Macintosh.md "wikilink")。套件家族中的一些產品亦開始使用曾應用於[Opera瀏覽器的Presto佈局引擎](../Page/Opera.md "wikilink")。
+Macintosh版本的主要程序加入了通用二進制庫](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")。套件家族中的一些產品亦開始使用曾應用於[Opera瀏覽器的Presto佈局引擎](https://zh.wikipedia.org/wiki/Opera "wikilink")。
 
 Adobe公司將軟件集成於6個不同的「版本」套件來發佈CS3。這與CS4的發佈相同。Design Standard/Premium和Web
 Standard/Premium套件於2007年4月16日開始發售，而Production Premium與Master
@@ -282,14 +284,14 @@ Collection</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Adobe_Soundbooth.md" title="wikilink">Soundbooth CS3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Soundbooth" title="wikilink">Soundbooth CS3</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS3</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -300,33 +302,35 @@ Collection</p></th>
 
 以上所有版本都包含共享程式與服務，包含[Adobe
 Bridge](../Page/Adobe_Bridge.md "wikilink")、[Adobe Version
-Cue](../Page/Adobe_Version_Cue.md "wikilink")（Production
+Cue](https://zh.wikipedia.org/wiki/Adobe_Version_Cue "wikilink")（Production
 Premium無此功能）、[Adobe Device
-Central](../Page/Adobe_Device_Central.md "wikilink")、[Adobe Acrobat
-Connect](../Page/Adobe_Acrobat_Connect.md "wikilink")。Production
+Central](https://zh.wikipedia.org/wiki/Adobe_Device_Central "wikilink")、[Adobe
+Acrobat
+Connect](https://zh.wikipedia.org/wiki/Adobe_Acrobat_Connect "wikilink")。Production
 Premium和Master Collection版本另包含[Adobe Dynamic
-Link](../Page/Adobe_Dynamic_Link.md "wikilink")、[Adobe
+Link](https://zh.wikipedia.org/wiki/Adobe_Dynamic_Link "wikilink")、[Adobe
 OnLocation](../Page/Adobe_OnLocation.md "wikilink")（限Windows版）與[Adobe
-Ultra](../Page/Adobe_Ultra.md "wikilink")（限Windows版）。
+Ultra](https://zh.wikipedia.org/wiki/Adobe_Ultra "wikilink")（限Windows版）。
 
-CS3包含許多由[Macromedia開發程式](../Page/Macromedia.md "wikilink")，如[Dreamweaver](../Page/Dreamweaver.md "wikilink")、[Flash與](../Page/Flash.md "wikilink")[Fireworks等軟體](../Page/Adobe_Fireworks.md "wikilink")，Macromedia原本是Adobe的競爭者，在2005年被Adobe併購。另外CS3還包括由[Serious
-Magic所開發的](../Page/Serious_Magic.md "wikilink")[Adobe
+CS3包含許多由[Macromedia開發程式](../Page/Macromedia.md "wikilink")，如[Dreamweaver](https://zh.wikipedia.org/wiki/Dreamweaver "wikilink")、[Flash與](https://zh.wikipedia.org/wiki/Flash "wikilink")[Fireworks等軟體](../Page/Adobe_Fireworks.md "wikilink")，Macromedia原本是Adobe的競爭者，在2005年被Adobe併購。另外CS3還包括由[Serious
+Magic所開發的](https://zh.wikipedia.org/wiki/Serious_Magic "wikilink")[Adobe
 OnLocation和](../Page/Adobe_OnLocation.md "wikilink")[Adobe
-Ultra兩套軟體](../Page/Adobe_Ultra.md "wikilink")，此公司在2006年也被Adobe併購。
+Ultra兩套軟體](https://zh.wikipedia.org/wiki/Adobe_Ultra "wikilink")，此公司在2006年也被Adobe併購。
 
 Adobe自CS3系列未收錄以下原本CS2包含的軟體：
 
   - [Adobe GoLive](../Page/Adobe_GoLive.md "wikilink")（被[Adobe
     Dreamweaver取代](../Page/Adobe_Dreamweaver.md "wikilink")）
-  - [Adobe ImageReady](../Page/Adobe_ImageReady.md "wikilink")（併入[Adobe
+  - [Adobe
+    ImageReady](https://zh.wikipedia.org/wiki/Adobe_ImageReady "wikilink")（併入[Adobe
     Photoshop且由](../Page/Adobe_Photoshop.md "wikilink")[Adobe
     Fireworks取代](../Page/Adobe_Fireworks.md "wikilink")）
   - [Adobe Audition](../Page/Adobe_Audition.md "wikilink")（由[Adobe
-    Soundbooth取代](../Page/Adobe_Soundbooth.md "wikilink")）
+    Soundbooth取代](https://zh.wikipedia.org/wiki/Adobe_Soundbooth "wikilink")）
 
 Adobe已經宣佈會繼續Audition研發成一獨立軟體，而GoLive則不會再延續下去。Adobe GoLive
 9於2007年6月10日推出，Adobe
-Audition則是在2007年9月6日做為一獨立軟體推出。Adobe也不再延續ImageReady，並且以[Fireworks之取代](../Page/Fireworks.md "wikilink")，ImageReady的一些特別功能則被併入[Photoshop](../Page/Photoshop.md "wikilink")。
+Audition則是在2007年9月6日做為一獨立軟體推出。Adobe也不再延續ImageReady，並且以[Fireworks之取代](https://zh.wikipedia.org/wiki/Fireworks "wikilink")，ImageReady的一些特別功能則被併入[Photoshop](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。
 
 ### Creative Suite 4
 
@@ -339,7 +343,7 @@ Audition則是在2007年9月6日做為一獨立軟體推出。Adobe也不再延�
   - Creative Suite 4制作高级版（Production Premium）
   - Creative Suite 4大师收藏版（Master Collection）
 
-CS4在2008年10月15日正式發售。它將所有軟體皆採用一貫的操作介面，此一標籤化的介面能在單一視窗內利用標籤分頁同時開啟數個應用程式與CS4專案。此外，[nVidia的](../Page/nVidia.md "wikilink")[CUDA技術可藉由第三方外掛程式加速](../Page/CUDA.md "wikilink")[H.264影像編碼](../Page/H.264.md "wikilink")。
+CS4在2008年10月15日正式發售。它將所有軟體皆採用一貫的操作介面，此一標籤化的介面能在單一視窗內利用標籤分頁同時開啟數個應用程式與CS4專案。此外，[nVidia的](https://zh.wikipedia.org/wiki/nVidia "wikilink")[CUDA技術可藉由第三方外掛程式加速](../Page/CUDA.md "wikilink")[H.264影像編碼](https://zh.wikipedia.org/wiki/H.264 "wikilink")。
 
 Adobe CS4能在64位元與多核心處裡器之下具有更佳的表現效能，且Adobe Photoshop CS4更是原生64位元軟體。Adobe
 After Effects CS4與Adobe Premiere Pro
@@ -445,7 +449,7 @@ CS4整體效能可提升8%至12%，而在工作中需處理龐大檔案的用戶
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Adobe_Soundbooth.md" title="wikilink">Soundbooth CS4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Soundbooth" title="wikilink">Soundbooth CS4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -459,7 +463,7 @@ CS4整體效能可提升8%至12%，而在工作中需處理龐大檔案的用戶
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -480,21 +484,21 @@ CS4整體效能可提升8%至12%，而在工作中需處理龐大檔案的用戶
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Adobe_Version_Cue.md" title="wikilink">Version Cue CS4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Version_Cue" title="wikilink">Version Cue CS4</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Adobe_Device_Central.md" title="wikilink">Device Central CS4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Device_Central" title="wikilink">Device Central CS4</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Adobe_Dynamic_Link.md" title="wikilink">Dynamic Link</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Dynamic_Link" title="wikilink">Dynamic Link</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -504,12 +508,13 @@ CS4整體效能可提升8%至12%，而在工作中需處理龐大檔案的用戶
 </table>
 
 [Adobe
-Ultra](../Page/Adobe_Ultra.md "wikilink")，一款功能強大的視訊去背軟體，以簡單拖放的方式即可得到高質量的去背效果（[chroma
-key](../Page/chroma_key.md "wikilink")），可在光源不足的環境下自動進行明暗調整，或將利用虛擬攝影技術，將視訊主體以外的背景自定為虛擬3D畫面，和原本列入CS3的[Adobe
+Ultra](https://zh.wikipedia.org/wiki/Adobe_Ultra "wikilink")，一款功能強大的視訊去背軟體，以簡單拖放的方式即可得到高質量的去背效果（[chroma
+key](https://zh.wikipedia.org/wiki/chroma_key "wikilink")），可在光源不足的環境下自動進行明暗調整，或將利用虛擬攝影技術，將視訊主體以外的背景自定為虛擬3D畫面，和原本列入CS3的[Adobe
 Stock
-Photos軟體](../Page/Adobe_Stock_Photos.md "wikilink")，自CS4起取消收錄於套裝軟體中。
+Photos軟體](https://zh.wikipedia.org/wiki/Adobe_Stock_Photos "wikilink")，自CS4起取消收錄於套裝軟體中。
 
-[Adobe Encore與](../Page/Adobe_Encore.md "wikilink")[Adobe
+[Adobe
+Encore與](https://zh.wikipedia.org/wiki/Adobe_Encore "wikilink")[Adobe
 OnLocation](../Page/Adobe_OnLocation.md "wikilink")（即先前的Serious Magic DV
 Rack HD2）則包含於[Adobe Premiere
 Pro之中](../Page/Adobe_Premiere_Pro.md "wikilink")，不單獨發售。
@@ -560,7 +565,7 @@ Adobe Creative Suite 4 Production Premium包含以下獨立軟體：
   - Adobe OnLocation CS4
 
 與Creative Suite 4 Production Premium對應的舊版軟體是[Adobe Production
-Studio](../Page/Adobe_Production_Studio.md "wikilink")。
+Studio](https://zh.wikipedia.org/wiki/Adobe_Production_Studio "wikilink")。
 
 #### Adobe Creative Suite 4 Web Premium & Standard
 
@@ -591,7 +596,7 @@ Adobe Creative Suite 4 Web Standard包含以下獨立軟體：
   - Adobe Flash CS4 Professional
 
 與Adobe Creative Suite 4 Web Premium與Standard對應的舊版軟體是[Macromedia Studio
-8](../Page/Macromedia_Studio_8.md "wikilink")。
+8](https://zh.wikipedia.org/wiki/Macromedia_Studio_8 "wikilink")。
 
 ### Creative Suite 5
 
@@ -717,7 +722,7 @@ Collection</p></th>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Adobe_Soundbooth.md" title="wikilink">Soundbooth CS5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Soundbooth" title="wikilink">Soundbooth CS5</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -731,7 +736,7 @@ Collection</p></th>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS5</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -752,14 +757,14 @@ Collection</p></th>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Adobe_Device_Central.md" title="wikilink">Device Central CS5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Device_Central" title="wikilink">Device Central CS5</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:B-check.svg" title="fig:B-check.svg">B-check.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Adobe_Dynamic_Link.md" title="wikilink">Dynamic Link</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adobe_Dynamic_Link" title="wikilink">Dynamic Link</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -791,7 +796,7 @@ Premium和Master Collection軟體或個別銷售的Adobe Premiere Pro。
 
 2011年7月1日，Adobe宣布推出優惠轉換升級方案，已經採購[Apple Final Cut
 Pro或](../Page/Final_Cut_Pro.md "wikilink")[Avid Media
-Composer任一版本的影像專業用戶](../Page/Avid_Media_Composer.md "wikilink")，將能以半價優惠價格選購Adobe
+Composer任一版本的影像專業用戶](https://zh.wikipedia.org/wiki/Avid_Media_Composer "wikilink")，將能以半價優惠價格選購Adobe
 Creative Suite CS5.5 Production Premium或Adobe Premiere Pro CS5.5。
 
 ### Creative Suite 6
@@ -806,35 +811,35 @@ Creative Suite CS5.5 Production Premium或Adobe Premiere Pro CS5.5。
   - [Creative Cloud](../Page/Adobe_Creative_Cloud.md "wikilink")（Adobe
     Creative Suite網路套装）
 
-| Adobe Creative Suite 6                                                   |
-| ------------------------------------------------------------------------ |
-| 產品                                                                       |
-| [Photoshop CS6](../Page/Adobe_Photoshop.md "wikilink")                   |
-| [Photoshop CS6 Extended](../Page/Adobe_Photoshop.md "wikilink")          |
-| [Illustrator CS6](../Page/Adobe_Illustrator.md "wikilink")               |
-| [InDesign CS6](../Page/Adobe_InDesign.md "wikilink")                     |
-| [Muse](../Page/Adobe_Muse.md "wikilink")                                 |
-| [Acrobat X Pro](../Page/Adobe_Acrobat.md "wikilink")                     |
-| [Flash Professional CS6](../Page/Adobe_Flash_Professional.md "wikilink") |
-| [Flash Builder 4.6 Premium](../Page/Adobe_Flash_Builder.md "wikilink")   |
-| [Dreamweaver CS6](../Page/Adobe_Dreamweaver.md "wikilink")               |
-| [Edge](../Page/Adobe_Edge.md "wikilink")                                 |
-| [Fireworks CS6](../Page/Adobe_Fireworks.md "wikilink")                   |
-| [Premiere Pro CS6](../Page/Adobe_Premiere_Pro.md "wikilink")             |
-| [After Effects CS6](../Page/Adobe_After_Effects.md "wikilink")           |
-| [Audition CS6](../Page/Adobe_Audition.md "wikilink")                     |
-| [SpeedGrade CS6](../Page/Adobe_SpeedGrade.md "wikilink")                 |
-| [Prelude CS6](../Page/Adobe_Prelude.md "wikilink")                       |
-| [Encore CS6](../Page/Adobe_Encore.md "wikilink")                         |
-| 共享應用                                                                     |
-| [Bridge CS6](../Page/Adobe_Bridge.md "wikilink")                         |
-| [Media Encoder CS6](../Page/Adobe_Media_Encoder.md "wikilink")           |
-| 服務                                                                       |
-| Device and PC sync                                                       |
-| Cloud storage                                                            |
-| [Business Catalyst](../Page/Adobe_Business_Catalyst.md "wikilink")       |
-| [Typekit](../Page/Adobe_Typekit.md "wikilink")                           |
-| [Story Plus](../Page/Adobe_Story.md "wikilink")                          |
+| Adobe Creative Suite 6                                                                      |
+| ------------------------------------------------------------------------------------------- |
+| 產品                                                                                          |
+| [Photoshop CS6](../Page/Adobe_Photoshop.md "wikilink")                                      |
+| [Photoshop CS6 Extended](../Page/Adobe_Photoshop.md "wikilink")                             |
+| [Illustrator CS6](../Page/Adobe_Illustrator.md "wikilink")                                  |
+| [InDesign CS6](../Page/Adobe_InDesign.md "wikilink")                                        |
+| [Muse](https://zh.wikipedia.org/wiki/Adobe_Muse "wikilink")                                 |
+| [Acrobat X Pro](../Page/Adobe_Acrobat.md "wikilink")                                        |
+| [Flash Professional CS6](https://zh.wikipedia.org/wiki/Adobe_Flash_Professional "wikilink") |
+| [Flash Builder 4.6 Premium](https://zh.wikipedia.org/wiki/Adobe_Flash_Builder "wikilink")   |
+| [Dreamweaver CS6](../Page/Adobe_Dreamweaver.md "wikilink")                                  |
+| [Edge](https://zh.wikipedia.org/wiki/Adobe_Edge "wikilink")                                 |
+| [Fireworks CS6](../Page/Adobe_Fireworks.md "wikilink")                                      |
+| [Premiere Pro CS6](../Page/Adobe_Premiere_Pro.md "wikilink")                                |
+| [After Effects CS6](../Page/Adobe_After_Effects.md "wikilink")                              |
+| [Audition CS6](../Page/Adobe_Audition.md "wikilink")                                        |
+| [SpeedGrade CS6](https://zh.wikipedia.org/wiki/Adobe_SpeedGrade "wikilink")                 |
+| [Prelude CS6](https://zh.wikipedia.org/wiki/Adobe_Prelude "wikilink")                       |
+| [Encore CS6](https://zh.wikipedia.org/wiki/Adobe_Encore "wikilink")                         |
+| 共享應用                                                                                        |
+| [Bridge CS6](../Page/Adobe_Bridge.md "wikilink")                                            |
+| [Media Encoder CS6](https://zh.wikipedia.org/wiki/Adobe_Media_Encoder "wikilink")           |
+| 服務                                                                                          |
+| Device and PC sync                                                                          |
+| Cloud storage                                                                               |
+| [Business Catalyst](https://zh.wikipedia.org/wiki/Adobe_Business_Catalyst "wikilink")       |
+| [Typekit](https://zh.wikipedia.org/wiki/Adobe_Typekit "wikilink")                           |
+| [Story Plus](https://zh.wikipedia.org/wiki/Adobe_Story "wikilink")                          |
 
 ## 參考資料
 

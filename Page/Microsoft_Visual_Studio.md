@@ -1,16 +1,17 @@
 **Microsoft Visual
-Studio**（简称**VS**或**MSVS**）是[微软公司的开发](../Page/微软公司.md "wikilink")[工具套件系列](../Page/工具.md "wikilink")[产品](../Page/产品.md "wikilink")。VS是一个基本完整的开发工具集，它包括了整个[軟體生命週期中所需要的大部分工具](../Page/软件生命周期.md "wikilink")，如[UML工具](../Page/UML.md "wikilink")、程式碼管控工具、[整合開發環境](../Page/集成开发环境.md "wikilink")（IDE）等等。所写的目标代码适用于微软支持的所有平台，包括[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[Windows
+Studio**（简称**VS**或**MSVS**）是[微软公司的开发](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[工具套件系列](../Page/工具.md "wikilink")[产品](https://zh.wikipedia.org/wiki/产品 "wikilink")。VS是一个基本完整的开发工具集，它包括了整个[軟體生命週期中所需要的大部分工具](https://zh.wikipedia.org/wiki/软件生命周期 "wikilink")，如[UML工具](https://zh.wikipedia.org/wiki/UML "wikilink")、程式碼管控工具、[整合開發環境](../Page/集成开发环境.md "wikilink")（IDE）等等。所写的目标代码适用于微软支持的所有平台，包括[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、[Windows
-CE](../Page/Windows_CE.md "wikilink")、[.NET
-Framework](../Page/.NET_Framework.md "wikilink")、[.NET Compact
+CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")、[.NET
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")、[.NET
+Compact
 Framework和](../Page/.NET_Compact_Framework.md "wikilink")[Microsoft
-Silverlight](../Page/Microsoft_Silverlight.md "wikilink")。
+Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")。
 
 而Visual Studio .NET是用于快速生成企业级ASP.NET Web应用程序和高性能桌面应用程序的工具。Visual
 Studio包含基于组件的开发工具（如Visual C\#、[Visual
-J\#](../Page/Visual_J#.md "wikilink")、Visual Basic和Visual
-C++），以及许多用于简化基于小组的解决方案的设计、开发和部署的其他技术。
+J\#](https://zh.wikipedia.org/wiki/Visual_J# "wikilink")、Visual
+Basic和Visual C++），以及许多用于简化基于小组的解决方案的设计、开发和部署的其他技术。
 
 ## 版本
 
@@ -133,13 +134,14 @@ Microsoft Visual Studio 有以下幾個版本：\[1\]
 ### 現在的產品
 
   - [Microsoft Visual C++](../Page/Microsoft_Visual_C++.md "wikilink")
-  - [Microsoft Visual C\#](../Page/Microsoft_Visual_C#.md "wikilink")
+  - [Microsoft Visual
+    C\#](https://zh.wikipedia.org/wiki/Microsoft_Visual_C# "wikilink")
   - [Visual Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")
   - [Microsoft Visual F\#](../Page/F♯.md "wikilink")
   - [TypeScript](../Page/TypeScript.md "wikilink")
   - [JavaScript](../Page/JavaScript.md "wikilink")
   - [Microsoft Visual Web
-    Developer](../Page/Microsoft_Visual_Web_Developer.md "wikilink")
+    Developer](https://zh.wikipedia.org/wiki/Microsoft_Visual_Web_Developer "wikilink")
   - [Team Foundation
     Server](../Page/Team_Foundation_Server.md "wikilink")
   - [Python](../Page/Python.md "wikilink")（需下载额外的官方工具后方可使用\[3\]）
@@ -147,10 +149,13 @@ Microsoft Visual Studio 有以下幾個版本：\[1\]
 ### 過去的產品
 
   - [Visual FoxPro](../Page/Visual_FoxPro.md "wikilink")
-  - [Visual SourceSafe](../Page/Visual_SourceSafe.md "wikilink")
-  - [Microsoft Visual J++](../Page/Microsoft_Visual_J++.md "wikilink")
-  - [Microsoft Visual J\#](../Page/J＃.md "wikilink")
-  - [Visual InterDev](../Page/Visual_InterDev.md "wikilink")
+  - [Visual
+    SourceSafe](https://zh.wikipedia.org/wiki/Visual_SourceSafe "wikilink")
+  - [Microsoft Visual
+    J++](https://zh.wikipedia.org/wiki/Microsoft_Visual_J++ "wikilink")
+  - [Microsoft Visual J\#](https://zh.wikipedia.org/wiki/J＃ "wikilink")
+  - [Visual
+    InterDev](https://zh.wikipedia.org/wiki/Visual_InterDev "wikilink")
 
 ## 歷史
 
@@ -161,7 +166,7 @@ Microsoft Visual Studio 有以下幾個版本：\[1\]
 FoxPro（用作xBase設計）。它亦加入當時全新的Visual InterDev，使用ASP動態製作網站。
 
 Visual Studio
-97是[Microsoft第一次嘗試對於多種語言使用同一種開發環境](../Page/Microsoft.md "wikilink")。Visual
+97是[Microsoft第一次嘗試對於多種語言使用同一種開發環境](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。Visual
 J++、InterDev、和MSDN Library全都使用同一個環境，名為Developer Studio。Visual C++和Visual
 Basic則是分開的，和Visual FoxPro相似。
 
@@ -177,14 +182,14 @@ Studio 6.0是微软开发系统这4年中的基础。
 支援.Net FrameWork 1.0。
 [微软在](../Page/微软.md "wikilink")2002年发行了代号为“Rainier”的Visual
 Studio
-.NET（2001年在[MSDN上发行过测试版](../Page/MSDN.md "wikilink")）。其最大的改进就是使用.NET框架引入了[受控代码开发环境](../Page/受控代码.md "wikilink")。使用.NET开发的程序并不会像C++那样被编译为[机器语言](../Page/机器语言.md "wikilink")，而是被编译成一种叫做[微软中间语言](../Page/微软中间语言.md "wikilink")（MSIL）或者[通用中间语言](../Page/通用中间语言.md "wikilink")（CIL）的格式。当一个MSIL应用程序被执行的时候，它会被[即时编译成适用于所运行平台的机器语言](../Page/JIT.md "wikilink")，这样就使代码可以跨平台运行。被编译成MSIL的程序只能运行在安装了[通用语言架构](../Page/通用语言架构.md "wikilink")（CLI）的平台上，而一些非微软.NET的环境，如[Mono和](../Page/Mono.md "wikilink")[DotGNU使得在](../Page/DotGNU.md "wikilink")[Linux和](../Page/Linux.md "wikilink")[Mac
-OS X上运行MSIL程序成为可能](../Page/Mac_OS_X.md "wikilink")。
+.NET（2001年在[MSDN上发行过测试版](https://zh.wikipedia.org/wiki/MSDN "wikilink")）。其最大的改进就是使用.NET框架引入了[受控代码开发环境](https://zh.wikipedia.org/wiki/受控代码 "wikilink")。使用.NET开发的程序并不会像C++那样被编译为[机器语言](../Page/机器语言.md "wikilink")，而是被编译成一种叫做[微软中间语言](https://zh.wikipedia.org/wiki/微软中间语言 "wikilink")（MSIL）或者[通用中间语言](../Page/通用中间语言.md "wikilink")（CIL）的格式。当一个MSIL应用程序被执行的时候，它会被[即时编译成适用于所运行平台的机器语言](https://zh.wikipedia.org/wiki/JIT "wikilink")，这样就使代码可以跨平台运行。被编译成MSIL的程序只能运行在安装了[通用语言架构](../Page/通用语言架构.md "wikilink")（CLI）的平台上，而一些非微软.NET的环境，如[Mono和](../Page/Mono.md "wikilink")[DotGNU使得在](../Page/DotGNU.md "wikilink")[Linux和](../Page/Linux.md "wikilink")[Mac
+OS X上运行MSIL程序成为可能](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 这是第一个必须运行于基于[Windows
 NT的Windows平台](../Page/Windows_NT.md "wikilink")\[5\]上的Visual
-Studio版本，其安装程序强化了这种需求。微软引入了一种被称为[C\#的新的编程语言](../Page/C＃.md "wikilink")，目标是.NET。它还引入了[Visual
-J\#作为](../Page/J＃.md "wikilink")[Visual
-J++的继任者](../Page/Visual_J++.md "wikilink")。Visual
+Studio版本，其安装程序强化了这种需求。微软引入了一种被称为[C\#的新的编程语言](https://zh.wikipedia.org/wiki/C＃ "wikilink")，目标是.NET。它还引入了[Visual
+J\#作为](https://zh.wikipedia.org/wiki/J＃ "wikilink")[Visual
+J++的继任者](https://zh.wikipedia.org/wiki/Visual_J++ "wikilink")。Visual
 J\#程序使用Java的语法，但是与Visual J++程序不同，Visual J\#只能以.NET
 Framework为目标，而不是像其他Java工具那样以[Java虚拟机为目标](../Page/Java虚拟机.md "wikilink")。
 
@@ -208,14 +213,14 @@ SP1\[6\]。
 支援.NetFrameWork 1.1。 2003年，微软发布了Visual Studio .NET的一个较小的升级版，称作Visual
 Studio .NET 2003，代号为“Everett”。它包含.NET框架的升级版.NET框架1.1，以及为使用ASP.NET或.NET
 Compact Framework来开发移动设备程序提供了内置支持。同时，Visual
-C++编译器也更加标准化，特别是在[模版偏特化方面](../Page/模版偏特化.md "wikilink")。Visual
+C++编译器也更加标准化，特别是在[模版偏特化方面](https://zh.wikipedia.org/wiki/模版偏特化 "wikilink")。Visual
 C++ Toolkit 2003是一个与Visual Studio .NET
 2003自带的C++编译器相同的无IDE的免费版本，它现在已经被Express
 Editions代替。
 
 Visual Studio 2003发行了4种版本：学院版（Academic）、专业版（Pro）、企业开发版（Enterprise
 Developer）、企业架构版（Enterprise Architect ）。企业架构版包含了[Microsoft
-Visio的模型技术](../Page/Microsoft_Visio.md "wikilink")，可以创建应用程序架构的基于[统一建模语言的可视化表现](../Page/统一建模语言.md "wikilink")。新增的“企业模板”也可以帮助大型开发团队标准化代码风格以及强化组件使用和属性设置的策略。
+Visio的模型技术](https://zh.wikipedia.org/wiki/Microsoft_Visio "wikilink")，可以创建应用程序架构的基于[统一建模语言的可视化表现](../Page/统一建模语言.md "wikilink")。新增的“企业模板”也可以帮助大型开发团队标准化代码风格以及强化组件使用和属性设置的策略。
 
 微软在2006年9月13日\[7\]发布了Visual Studio 2003的Service Pack 1。
 
@@ -226,9 +231,9 @@ Visual Studio .NET 2003 SP1发布于2006年9月13日。
 ### Visual Studio 2005
 
 Visual Studio 2005, 代号Whidbey。 支援.NetFramework 2.0。
-[微軟在](../Page/微軟.md "wikilink")2006年年初公佈了Visual
-Studio的免費版本Visual Studio 2005 Express。包含常會使用到的Visual Basic
-2005 Express。相關技術支援資訊請參閱[Microsoft
+[微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")2006年年初公佈了Visual
+Studio的免費版本Visual Studio 2005 Express。包含常會使用到的Visual Basic 2005
+Express。相關技術支援資訊請參閱[Microsoft
 MSDN](http://www.microsoft.com/taiwan/msdn/)，或是Visual Studio
 2005的中文網站[1](http://www.microsoft.com/taiwan/vstudio/400diff/)
 。
@@ -251,57 +256,59 @@ Visual Studio 2008 SP1发布于2008年8月11日，同时更新.NET Framework至3
 
 [VisualStudio2010.png](https://zh.wikipedia.org/wiki/File:VisualStudio2010.png "fig:VisualStudio2010.png")开发的用户界面\]\]
 Visual Studio
-2010，代号为"Hawaii"\[10\]，已於2010年4月12日上市。一个[社区技术预览](../Page/社区技术预览.md "wikilink")（CTP）版的Visual
+2010，代号为"Hawaii"\[10\]，已於2010年4月12日上市。一个[社区技术预览](https://zh.wikipedia.org/wiki/社区技术预览 "wikilink")（CTP）版的Visual
 Studio 2010以一个包含Windows Server 2008操作系统的预装虚拟硬盘的形式发布。2009年5月18日，Visual
 Studio 2010 Beta 1发布给[Microsoft developer
-network用户](../Page/MSDN.md "wikilink")，而后在2009年5月20日向公众开放。此测试版是可安装的，不像上述的CTP版本是内置于一个虚拟硬盘的\[11\]。
+network用户](https://zh.wikipedia.org/wiki/MSDN "wikilink")，而后在2009年5月20日向公众开放。此测试版是可安装的，不像上述的CTP版本是内置于一个虚拟硬盘的\[11\]。
 
 [微软称Visual](../Page/微软.md "wikilink") Studio
-2010[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）的界面被重新设计和组织，变得更加清晰和简单\[12\]。新的IDE更好的支持了多文档窗口以及浮动工具窗\[13\]，并且对于多显示器的支持也有所增强。IDE的外壳使用WPF重写\[14\]，内部使用重新设计，以提供比先前版本更好的扩展性\[15\]。新的[多重编程范式](../Page/多重编程范式.md "wikilink")[ML变体](../Page/ML语言.md "wikilink")[F\#语言将会成为Visual](../Page/F_Sharp.md "wikilink")
+2010[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）的界面被重新设计和组织，变得更加清晰和简单\[12\]。新的IDE更好的支持了多文档窗口以及浮动工具窗\[13\]，并且对于多显示器的支持也有所增强。IDE的外壳使用WPF重写\[14\]，内部使用重新设计，以提供比先前版本更好的扩展性\[15\]。新的[多重编程范式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")[ML变体](../Page/ML语言.md "wikilink")[F\#语言将会成为Visual](https://zh.wikipedia.org/wiki/F_Sharp "wikilink")
 Studio
-2010的一部分\[16\]，同时增加的还有文本模型化语言[M](../Page/M语言.md "wikilink")，以及可视化模型设计器*Quadrant*，这些都是微软[Oslo发展的一部分](../Page/Oslo.md "wikilink")\[17\]。
+2010的一部分\[16\]，同时增加的还有文本模型化语言[M](https://zh.wikipedia.org/wiki/M语言 "wikilink")，以及可视化模型设计器*Quadrant*，这些都是微软[Oslo发展的一部分](https://zh.wikipedia.org/wiki/Oslo "wikilink")\[17\]。
 
 Visual Studio 2010将会带来[.NET
-Framework](../Page/.NET_Framework.md "wikilink") 4.0并且支持开发面向[Windows
-7的应用程序](../Page/Windows_7.md "wikilink")。\[18\]除了[Microsoft SQL
-Server](../Page/Microsoft_SQL_Server.md "wikilink")，它还将会支持[IBM
-DB2和](../Page/IBM_DB2.md "wikilink")[Oracle数据库](../Page/Oracle_Database.md "wikilink")（详情参见[IBM.com](http://www.IBM.com)和[TeamFuze.net](http://www.teamfuze.net)）。\[19\]它将具有内置的[Microsoft
-Silverlight开发支持](../Page/Microsoft_Silverlight.md "wikilink")，包含一个交互设计器\[20\]。Visual
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+4.0并且支持开发面向[Windows
+7的应用程序](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。\[18\]除了[Microsoft
+SQL
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，它还将会支持[IBM
+DB2和](../Page/IBM_DB2.md "wikilink")[Oracle数据库](https://zh.wikipedia.org/wiki/Oracle_Database "wikilink")（详情参见[IBM.com](http://www.IBM.com)和[TeamFuze.net](http://www.teamfuze.net)）。\[19\]它将具有内置的[Microsoft
+Silverlight开发支持](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")，包含一个交互设计器\[20\]。Visual
 Studio 2010将会提供一些工具来使[并行计算更加简单](../Page/并行计算.md "wikilink")：除了.NET
-Framework的[本地代码](../Page/本地代码.md "wikilink")[并行扩展以及](../Page/并行扩展.md "wikilink")[并行模式库](../Page/并行模式库.md "wikilink")（Parallel
+Framework的[本地代码](https://zh.wikipedia.org/wiki/本地代码 "wikilink")[并行扩展以及](https://zh.wikipedia.org/wiki/并行扩展 "wikilink")[并行模式库](https://zh.wikipedia.org/wiki/并行模式库 "wikilink")（Parallel
 Patterns Library），Visual Studio
 2010还包含了用于调试并行程序的工具。这些新工具使并行任务以及它们的运行时[堆栈可视化](../Page/堆栈.md "wikilink")\[21\]。这些工具可以用来可视化线程等待时间以及线程在多核心之间的移动\[22\]。
 
 Visual Studio
-2010代码编辑器现在支持高亮引用；当一个符号被选择时，所有对于这个符号的引用都会被高亮\[23\]。它还提供了一个*快速查找*特性来[增量查找所有在C](../Page/增量查找.md "wikilink")++、C\#以及VB.NET工程中的符号。快速查找支持子串匹配以及[驼峰式大小写查找](../Page/驼峰式大小写.md "wikilink")\[24\]。*调用继承树*（Call
+2010代码编辑器现在支持高亮引用；当一个符号被选择时，所有对于这个符号的引用都会被高亮\[23\]。它还提供了一个*快速查找*特性来[增量查找所有在C](https://zh.wikipedia.org/wiki/增量查找 "wikilink")++、C\#以及VB.NET工程中的符号。快速查找支持子串匹配以及[驼峰式大小写查找](https://zh.wikipedia.org/wiki/驼峰式大小写 "wikilink")\[24\]。*调用继承树*（Call
 Hierarchy）特性允许开发者查看所有被当前方法调用的方法，以及所有调用当前方法的方法\[25\]。Visual
-Studio的[IntelliSense支持一个](../Page/IntelliSense.md "wikilink")*consume-first*模式，在这种模式下，IntelliSense不会自动完成标识符，这就允许开发者使用未定义的标识符（如变量或方法名）并在以后来定义它们。Visual
+Studio的[IntelliSense支持一个](https://zh.wikipedia.org/wiki/IntelliSense "wikilink")*consume-first*模式，在这种模式下，IntelliSense不会自动完成标识符，这就允许开发者使用未定义的标识符（如变量或方法名）并在以后来定义它们。Visual
 Studio 2010还可以在能够通过它们的使用情况来识别出其类型的时候自动定义他们\[26\]。
 
 **Visual Studio Team System**
-2010，代号为*Rosario*\[27\]，被定位为用于[应用程序生命周期管理](../Page/应用程序生命周期管理.md "wikilink")。它将包括新的建模工具\[28\]，包含可以图形化显示工程和类，以及它们之间关系的架构浏览器\[29\]\[30\]。它支持[UML活动图](../Page/UML.md "wikilink")、组件图、（逻辑）类图、序列图以及用例图。Visual
+2010，代号为*Rosario*\[27\]，被定位为用于[应用程序生命周期管理](https://zh.wikipedia.org/wiki/应用程序生命周期管理 "wikilink")。它将包括新的建模工具\[28\]，包含可以图形化显示工程和类，以及它们之间关系的架构浏览器\[29\]\[30\]。它支持[UML活动图](https://zh.wikipedia.org/wiki/UML "wikilink")、组件图、（逻辑）类图、序列图以及用例图。Visual
 Studio Team System 2010还包括测试影响分析（Test Impact
 Analysis），它可以在不实际运行测试用例的情况下，对于源代码的修改会影响那些测试用例给出建议。影响分析提供线索的测试案例的影响，修改的源代码，但实际运行的测试案例。由于避免了运行不需要的测试用例\[31\]，测试的速度会有所提高。Visual
 Studio Team System
 2010还包括一个历史调试器。与目前只记录当前活动栈的调试器不同，历史调试器的历史记录所有的活动，包括之前的函数调用、方法参数、事件、异常等。这允许执行代码回退到错误发生的地点，即使没有设置断点\[32\]。历史调试将导致应用程序运行速度比目前的调试器慢，并且将使用更多的内存用于记录额外的数据。微软允许配置应记录多少数据，实际上允许开发人员来平衡执行的速度和资源的使用。Visual
 Studio Team System
-2010的实验室管理组件使用[虚拟化技术来为测试者和开发人员创建一个类似的执行环境](../Page/虚拟化.md "wikilink")。这些虚拟机使用检查点来标记，这些检查点可以在以后用来检查问题，并且可以重现问题\[33\]。Visual
+2010的实验室管理组件使用[虚拟化技术来为测试者和开发人员创建一个类似的执行环境](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")。这些虚拟机使用检查点来标记，这些检查点可以在以后用来检查问题，并且可以重现问题\[33\]。Visual
 Studio Team System
 2010还包括记录测试运行的能力，可以记录操作环境的特定状态以及运行测试的必要步骤。这些步骤可以回放来重现问题\[34\]。
 
 ### Visual Studio 2012
 
-[thumb](../Page/file:vs2012.png.md "wikilink")
-在推出了若干测试版本后，微软于2012年8月2日正式发布Visual
-Studio 2012。这一版本整合了[Windows
-8的开发](../Page/Windows_8.md "wikilink")。微软重新设计了界面，以更好地配合Metro。同时，新的[HTML和](../Page/HTML.md "wikilink")[CSS编辑器更好地支持](../Page/CSS.md "wikilink")[HTML5与](../Page/HTML5.md "wikilink")[CSS3](../Page/CSS3.md "wikilink")。
+[thumb](https://zh.wikipedia.org/wiki/file:vs2012.png "wikilink")
+在推出了若干测试版本后，微软于2012年8月2日正式发布Visual Studio
+2012。这一版本整合了[Windows
+8的开发](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。微软重新设计了界面，以更好地配合Metro。同时，新的[HTML和](../Page/HTML.md "wikilink")[CSS编辑器更好地支持](https://zh.wikipedia.org/wiki/CSS "wikilink")[HTML5与](../Page/HTML5.md "wikilink")[CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink")。
 
 ### Visual Studio 2013
 
-[220px](../Page/file:vs2013.png.md "wikilink")
-[微軟於](../Page/微軟.md "wikilink")2013年10月17日正式發布Visual Studio
-2013。包括Ultimate、Premium、Professional、Test Professional、Team Foundation
-Server等版本。
+[220px](https://zh.wikipedia.org/wiki/file:vs2013.png "wikilink")
+[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2013年10月17日正式發布Visual
+Studio 2013。包括Ultimate、Premium、Professional、Test Professional、Team
+Foundation Server等版本。
 
 預覽版的Visual Studio 2013在 2013 年會上被宣布，並於當年6月26日發布。Visual Studio 2013
 RC（預發布版（Release Candidate））於當年9月9日在MSDN上面向開發者提供下載。
@@ -334,7 +341,7 @@ Bar Operations...”。
 
 [Vs2015.png](https://zh.wikipedia.org/wiki/File:Vs2015.png "fig:Vs2015.png")
 Visual Studio
-"14"的第一個[社區技術預覽版（CTP）於](../Page/Community_Technology_Preview.md "wikilink")
+"14"的第一個[社區技術預覽版（CTP）於](https://zh.wikipedia.org/wiki/Community_Technology_Preview "wikilink")
 2014年6月3日被公佈\[43\]。其第二個社區技術預覽版於2014年7月8日被公佈。\[44\]第三個社區技術預覽版在2014年8月18日發布。\[45\]Visual
 Studio 2015这个名称官方公布于2014年11月12日。\[46\]最终测试版（Release
 Candidate）发布于2015年4月29日。
@@ -355,8 +362,9 @@ RC版于2016年11月16日发布\[52\]。
 
 ## 参见
 
-  - [计算机软件列表](../Page/计算机软件列表.md "wikilink")
-  - [Microsoft Windows](../Page/Microsoft_Windows.md "wikilink")
+  - [计算机软件列表](https://zh.wikipedia.org/wiki/计算机软件列表 "wikilink")
+  - [Microsoft
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
 {{-}}
 

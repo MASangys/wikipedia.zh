@@ -1,4 +1,4 @@
-是[萬代發售的以](../Page/萬代.md "wikilink")[SD造形機動戰士的](../Page/SD.md "wikilink")[戰略遊戲系列](../Page/戰略遊戲.md "wikilink")，以[超級任天堂晚期推出的雙匣帶遊戲](../Page/超級任天堂.md "wikilink")「SD高達世紀」為基礎開發的遊戲系列。
+是[萬代發售的以](../Page/萬代.md "wikilink")[SD造形機動戰士的](https://zh.wikipedia.org/wiki/SD "wikilink")[戰略遊戲系列](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")，以[超級任天堂晚期推出的雙匣帶遊戲](../Page/超級任天堂.md "wikilink")「SD高達世紀」為基礎開發的遊戲系列。
 
 ## 系列的特徵
 
@@ -28,8 +28,8 @@ command也是一大賣點。
 
 #### SD Gundam GGENERATION
 
-1998年8月6日發售的[PS遊戲是SD鋼彈世紀的續作](../Page/PlayStation.md "wikilink")，從初代[GUNDAM到](../Page/GUNDAM.md "wikilink")[機動戰士GUNDAM
-逆襲的夏亞有](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")30幾個關卡和包括[F-91至](../Page/機動戰士GUNDAM_F91.md "wikilink")[鋼彈X的多架鋼彈系列主人公座機登場](../Page/鋼彈X.md "wikilink")。
+1998年8月6日發售的[PS遊戲是SD鋼彈世紀的續作](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，從初代[GUNDAM到](../Page/GUNDAM.md "wikilink")[機動戰士GUNDAM
+逆襲的夏亞有](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")30幾個關卡和包括[F-91至](../Page/機動戰士GUNDAM_F91.md "wikilink")[鋼彈X的多架鋼彈系列主人公座機登場](https://zh.wikipedia.org/wiki/鋼彈X "wikilink")。
 
 ##### 登場作品
 
@@ -40,11 +40,13 @@ command也是一大賣點。
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
-  - [機動戰士GUNDAM外傳系列](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
+  - [機動戰士GUNDAM外傳系列](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
@@ -59,20 +61,22 @@ command也是一大賣點。
 <td valign=top width="35%">
 
   - [MOBILE SUIT VARIATION:
-    MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+    MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
   - MS-X
   - Ζ-MSV
   - ΖΖ-MSV
   - CCA-MSV
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
-  - [MS GENERATION](../Page/機動戰士GUNDAM_MS_GENERATION.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
+  - [MS
+    GENERATION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_MS_GENERATION "wikilink")
   - [機動戰士GUNDAM CROSS
-    DIMENSION](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
-  - [機動戰士GUNDAM 基連之野望](../Page/機動戰士GUNDAM_基連之野望.md "wikilink")
+    DIMENSION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
+  - [機動戰士GUNDAM
+    基連之野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連之野望 "wikilink")
   - [GUNDAM THE BATTLE
-    MASTER](../Page/GUNDAM_THE_BATTLE_MASTER.md "wikilink")
+    MASTER](https://zh.wikipedia.org/wiki/GUNDAM_THE_BATTLE_MASTER "wikilink")
 
 </td>
 
@@ -83,10 +87,10 @@ command也是一大賣點。
 #### SD Gundam GGENERATION-ZERO
 
 1999年8月12日發售的PS遊戲，除了前作的劇本亦加入[V
-GUNDAM的劇本有](../Page/機動戰士V_GUNDAM.md "wikilink")50幾個關卡，此外在其它模式收錄「[平成三部曲](../Page/平成三部曲.md "wikilink")」作品[G
-GUNDAM](../Page/G_GUNDAM.md "wikilink")、[GUNDAM
-W和](../Page/GUNDAM_W.md "wikilink")[GUNDAM
-X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸](../Page/宇宙世紀.md "wikilink")，[平成三部曲只收錄故事中早期機體](../Page/平成三部曲.md "wikilink")。例如-{zh-hans:神高达;zh-hant:神威鋼彈;zh-hk:神高達}-，另亦收錄當時的新作品[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")。
+GUNDAM的劇本有](../Page/機動戰士V_GUNDAM.md "wikilink")50幾個關卡，此外在其它模式收錄「[平成三部曲](https://zh.wikipedia.org/wiki/平成三部曲 "wikilink")」作品[G
+GUNDAM](https://zh.wikipedia.org/wiki/G_GUNDAM "wikilink")、[GUNDAM
+W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[GUNDAM
+X登場](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")。由於本作以[宇宙世紀為主軸](../Page/宇宙世紀.md "wikilink")，[平成三部曲只收錄故事中早期機體](https://zh.wikipedia.org/wiki/平成三部曲 "wikilink")。例如-{zh-hans:神高达;zh-hant:神威鋼彈;zh-hk:神高達}-，另亦收錄當時的新作品[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")。
 
 ##### 登場作品
 
@@ -105,15 +109,17 @@ X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸
   - [機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
   - [機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")
   - [MOBILE SUIT VARIATION:
-    MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+    MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
 
 </td>
 
@@ -124,20 +130,25 @@ X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸
   - ΖΖ-MSV
   - CCA-MSV
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
-  - [機動戰士GUNDAM 影子方程式91](../Page/機動戰士GUNDAM_影子方程式91.md "wikilink")
+  - [機動戰士GUNDAM
+    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
   - [機動戰士GUNDAM Double
     Fake](../Page/Double_Fake_Under_the_Gundam.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
-  - [MS GENERATION](../Page/機動戰士GUNDAM_MS_GENERATION.md "wikilink")
-  - [模型狂四郎](../Page/模型狂四郎.md "wikilink")
-  - [新機動戰記GUNDAM W G-UNIT](../Page/新機動戰記GUNDAM_W_G-UNIT.md "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
+  - [MS
+    GENERATION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_MS_GENERATION "wikilink")
+  - [模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")
+  - [新機動戰記GUNDAM W
+    G-UNIT](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_G-UNIT "wikilink")
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")
   - [機動戰士GUNDAM CROSS
-    DIMENSION](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
-  - [機動戰士GUNDAM外傳系列](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
+    DIMENSION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
+  - [機動戰士GUNDAM外傳系列](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
   - [GUNDAM THE BATTLE
-    MASTER](../Page/GUNDAM_THE_BATTLE_MASTER.md "wikilink")
-  - [機動戰士GUNDAM 基連之野望](../Page/機動戰士GUNDAM_基連之野望.md "wikilink")
+    MASTER](https://zh.wikipedia.org/wiki/GUNDAM_THE_BATTLE_MASTER "wikilink")
+  - [機動戰士GUNDAM
+    基連之野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連之野望 "wikilink")
 
 </td>
 
@@ -172,27 +183,33 @@ X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸
       - 機動戰士GUNDAM I
       - 機動戰士GUNDAM II 哀戰士編
       - 機動戰士GUNDAM III 相逢宇宙編
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
-  - [機動戰士GUNDAM外傳系列](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
+  - [機動戰士GUNDAM外傳系列](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
   - [機動戰士GUNDAM外傳 殖民地墮落之地](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
-  - [機動戰士GUNDAM 閃光的哈薩維](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")
+  - [機動戰士GUNDAM
+    閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
-  - [機動戰士GUNDAM 影子方程式91](../Page/機動戰士GUNDAM_影子方程式91.md "wikilink")
+  - [機動戰士GUNDAM
+    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
   - [機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")
   - [機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")
-  - [新機動戰記GUNDAM W G-UNIT](../Page/新機動戰記GUNDAM_W_G-UNIT.md "wikilink")
+  - [新機動戰記GUNDAM W
+    G-UNIT](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_G-UNIT "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")
 
@@ -200,32 +217,37 @@ X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸
 
 <td valign=top width="35%">
 
-  - [模型狂四郎](../Page/模型狂四郎.md "wikilink")
+  - [模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")
   - [MOBILE SUIT VARIATION:
-    MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+    MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
   - MS-X
-  - [Ζ-MSV](../Page/Ζ-MSV.md "wikilink")
+  - [Ζ-MSV](https://zh.wikipedia.org/wiki/Ζ-MSV "wikilink")
   - ΖΖ-MSV
   - [機動戰士GUNDAM Double
     Fake](../Page/Double_Fake_Under_the_Gundam.md "wikilink")
   - CCA-MSV
   - [新機動戰記GUNDAM W BATTLEFIELD OF
-    PACIFIST](../Page/新機動戰記GUNDAM_W_BATTLEFIELD_OF_PACIFIST.md "wikilink")
+    PACIFIST](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_BATTLEFIELD_OF_PACIFIST "wikilink")
   - SD Gundam GGENERATION GATHER BEAT
-  - [MS GENERATION](../Page/機動戰士GUNDAM_MS_GENERATION.md "wikilink")
+  - [MS
+    GENERATION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_MS_GENERATION "wikilink")
   - [機動戰士GUNDAM CROSS DIMENSION
-    0079](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
+    0079](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
   - [GUNDAM THE BATTLE
-    MASTER](../Page/GUNDAM_THE_BATTLE_MASTER.md "wikilink")
-  - [機動戰士GUNDAM 基連之野望](../Page/機動戰士GUNDAM_基連之野望.md "wikilink")
-  - [GUNDAM WEAPONS](../Page/GUNDAM_WEAPONS.md "wikilink")
+    MASTER](https://zh.wikipedia.org/wiki/GUNDAM_THE_BATTLE_MASTER "wikilink")
+  - [機動戰士GUNDAM
+    基連之野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連之野望 "wikilink")
+  - [GUNDAM
+    WEAPONS](https://zh.wikipedia.org/wiki/GUNDAM_WEAPONS "wikilink")
   - [SDガンダムワールド ガチャポン戦士
-    スクランブルウォーズ](../Page/SDガンダムワールド_ガチャポン戦士.md "wikilink")
-  - [SD GUNDAM GX](../Page/SD_GUNDAM_GX.md "wikilink")
-  - [SD GUNDAM 英雄傳](../Page/SD_GUNDAM_英雄傳.md "wikilink")
+    スクランブルウォーズ](https://zh.wikipedia.org/wiki/SDガンダムワールド_ガチャポン戦士 "wikilink")
+  - [SD GUNDAM
+    GX](https://zh.wikipedia.org/wiki/SD_GUNDAM_GX "wikilink")
+  - [SD GUNDAM
+    英雄傳](https://zh.wikipedia.org/wiki/SD_GUNDAM_英雄傳 "wikilink")
   - [SD GUNDAM 武者G世紀](../Page/SD_GUNDAM_武者G世紀.md "wikilink")
   - [GUNDAM TACTICS MOBILITY
-    FLEET0079](../Page/GUNDAM_TACTICS_MOBILITY_FLEET0079.md "wikilink")
+    FLEET0079](https://zh.wikipedia.org/wiki/GUNDAM_TACTICS_MOBILITY_FLEET0079 "wikilink")
 
 </td>
 
@@ -241,7 +263,7 @@ X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸
 
 #### SD Gundam GGENERATION NEO
 
-2002年11月28日發售的[PS2遊戲](../Page/PS2.md "wikilink")，與重現原作的之前作品不同，本作有著類似[超級機器人大戰系列的跨系列鋼彈互動發展的原創劇情](../Page/超級機器人大戰系列.md "wikilink")。[SEED系列也在此作中於本系列中初登場](../Page/機動戰士GUNDAM_SEED.md "wikilink")。
+2002年11月28日發售的[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")，與重現原作的之前作品不同，本作有著類似[超級機器人大戰系列的跨系列鋼彈互動發展的原創劇情](../Page/超級機器人大戰系列.md "wikilink")。[SEED系列也在此作中於本系列中初登場](../Page/機動戰士GUNDAM_SEED.md "wikilink")。
 
 ##### 登場作品
 
@@ -252,12 +274,15 @@ X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")
-  - [機動戰士GUNDAM ZΖ](../Page/機動戰士GUNDAM_ZΖ.md "wikilink")
+  - [機動戰士GUNDAM
+    ZΖ](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_ZΖ "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - [機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")
@@ -270,17 +295,19 @@ X登場](../Page/GUNDAM_X.md "wikilink")。由於本作以[宇宙世紀為主軸
 
 <td valign=top width="35%">
 
-  - [模型狂四郎](../Page/模型狂四郎.md "wikilink")
+  - [模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")
   - [MOBILE SUIT VARIATION:
-    MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+    MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - CCA-MSV
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
   - SD GUNDAM GGENERATION 獨眼鋼彈
-  - [SD GUNDAM 英雄傳](../Page/SD_GUNDAM_英雄傳.md "wikilink")
+  - [SD GUNDAM
+    英雄傳](https://zh.wikipedia.org/wiki/SD_GUNDAM_英雄傳 "wikilink")
 
 </td>
 
@@ -302,26 +329,29 @@ Generation，而部份[Astray也有登場](../Page/機動戰士GUNDAM_SEED_ASTRA
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
   - [機動戰士GUNDAM 0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM_0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083_STARDUST_MEMORY "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - [機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 
 </td>
 
 <td valign=top width="35%">
 
-  - [模型狂四郎](../Page/模型狂四郎.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [MOBILE SUIT VARIATION:
-    MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+    MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - CCA-MSV
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
@@ -333,7 +363,8 @@ Generation，而部份[Astray也有登場](../Page/機動戰士GUNDAM_SEED_ASTRA
   - [機動戰士GUNDAM SEED
     ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")
   - SD Gundam GGENERATION 獨眼鋼彈
-  - [SD GUNDAM 英雄傳](../Page/SD_GUNDAM_英雄傳.md "wikilink")
+  - [SD GUNDAM
+    英雄傳](https://zh.wikipedia.org/wiki/SD_GUNDAM_英雄傳 "wikilink")
 
 </td>
 
@@ -355,27 +386,30 @@ Generation，而部份[Astray也有登場](../Page/機動戰士GUNDAM_SEED_ASTRA
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（劇場特別版）
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
   - [機動戰士GUNDAM MS IGLOO](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
       - 機動戰士GUNDAM MS IGLOO - 1年戰爭秘錄 -
       - 機動戰士GUNDAM MS IGLOO - 默示錄0079 -
   - [機動戰士GUNDAM 外傳 THE BLUE
-    DESTINY](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
+    DESTINY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
   - [機動戰士GUNDAM戰記 Lost War
     Chronicles](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")
   - [機動戰士GUNDAM外傳
     宇宙、閃光的盡頭…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
   - [機動戰士GUNDAM 0080
-    口袋裡的戰爭](../Page/機動戰士GUNDAM_0080_口袋裡的戰爭.md "wikilink")
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM 0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM_0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083_STARDUST_MEMORY "wikilink")
   - 機動戰士GUNDAM 0083 STARDUST MEMORY 宇宙之蜉蝣
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（劇場版）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
-  - [機動戰士GUNDAM 閃光的哈薩維](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")
+  - [機動戰士GUNDAM
+    閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
-  - [機動戰士GUNDAM 影子方程式91](../Page/機動戰士GUNDAM_影子方程式91.md "wikilink")
+  - [機動戰士GUNDAM
+    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
   - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
@@ -385,28 +419,34 @@ Generation，而部份[Astray也有登場](../Page/機動戰士GUNDAM_SEED_ASTRA
 
 <td valign=top width="35%">
 
-  - [MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+  - [MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
   - MS-X
   - [機動戰士GUNDAM外傳 殖民地墮落之地](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
-  - [自護前線 機動戰士GUNDAM 0079](../Page/自護前線_機動戰士GUNDAM_0079.md "wikilink")
+  - [自護前線 機動戰士GUNDAM
+    0079](https://zh.wikipedia.org/wiki/自護前線_機動戰士GUNDAM_0079 "wikilink")
   - [ADVANCE OF Z
-    -迪坦斯的軍旗下-](../Page/ADVANCE_OF_Z_-迪坦斯的軍旗下-.md "wikilink")
+    -迪坦斯的軍旗下-](https://zh.wikipedia.org/wiki/ADVANCE_OF_Z_-迪坦斯的軍旗下- "wikilink")
   - Z-MSV
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - CCA-MSV
   - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-  - [GUNDAM WEAPONS](../Page/GUNDAM_WEAPONS.md "wikilink")
+  - [GUNDAM
+    WEAPONS](https://zh.wikipedia.org/wiki/GUNDAM_WEAPONS "wikilink")
   - [SDガンダムワールド ガチャポン戦士
-    スクランブルウォーズ](../Page/SDガンダムワールド_ガチャポン戦士.md "wikilink")
-  - [SD GUNDAM GX](../Page/SD_GUNDAM_GX.md "wikilink")
-  - [機動戰士GUNDAM 基連的野望](../Page/機動戰士GUNDAM_基連的野望.md "wikilink")
+    スクランブルウォーズ](https://zh.wikipedia.org/wiki/SDガンダムワールド_ガチャポン戦士 "wikilink")
+  - [SD GUNDAM
+    GX](https://zh.wikipedia.org/wiki/SD_GUNDAM_GX "wikilink")
+  - [機動戰士GUNDAM
+    基連的野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連的野望 "wikilink")
   - [機動戰士GUNDAM CROSS DIMENSION 0079
-    對死去的人們祈禱](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
+    對死去的人們祈禱](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
   - [GUNDAM TACTICS MOBILITY
-    FLEET0079](../Page/GUNDAM_TACTICS_MOBILITY_FLEET0079.md "wikilink")
-  - [機動戰士GUNDAM 戰場之絆](../Page/機動戰士GUNDAM_戰場之絆.md "wikilink")
-  - [∀ GUNDAM](../Page/∀_GUNDAM.md "wikilink") (只有System－∀99
-    ∀Gundam作為最終頭目登場)
+    FLEET0079](https://zh.wikipedia.org/wiki/GUNDAM_TACTICS_MOBILITY_FLEET0079 "wikilink")
+  - [機動戰士GUNDAM
+    戰場之絆](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_戰場之絆 "wikilink")
+  - [∀ GUNDAM](https://zh.wikipedia.org/wiki/∀_GUNDAM "wikilink")
+    (只有System－∀99 ∀Gundam作為最終頭目登場)
 
 </td>
 
@@ -417,7 +457,7 @@ Generation，而部份[Astray也有登場](../Page/機動戰士GUNDAM_SEED_ASTRA
 #### SD Gundam GGENERATION WARS
 
 2009年8月6日
-發售的[Wii](../Page/Wii.md "wikilink")/[PS2遊戲](../Page/PS2.md "wikilink")，一如以往地将加入更多的参战作品，如TV动画《[高达00](../Page/高达00.md "wikilink")》；除引入前作的大型战舰单位外，还加入名为“War
+發售的[Wii](../Page/Wii.md "wikilink")/[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")，一如以往地将加入更多的参战作品，如TV动画《[高达00](https://zh.wikipedia.org/wiki/高达00 "wikilink")》；除引入前作的大型战舰单位外，还加入名为“War
 Break”的新系统，制作方称其将令系列得到惊人的进化。
 
 ##### 登場作品
@@ -429,11 +469,13 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（劇場特別版）
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
-  - [機動戰士ZGUNDAM](../Page/機動戰士ZGUNDAM.md "wikilink")（劇場版）
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
+  - [機動戰士ZGUNDAM](https://zh.wikipedia.org/wiki/機動戰士ZGUNDAM "wikilink")（劇場版）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
@@ -441,14 +483,14 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
   - [機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")
   - [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
   - [機動戰士GUNDAM SEED
     DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")
   - [機動戰士GUNDAM SEED C.E.73
-    STARGAZER](../Page/機動戰士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")
+    STARGAZER](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")
   - [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")
 
 </td>
@@ -459,29 +501,35 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
       - 機動戰士GUNDAM MS IGLOO - 1年戰爭秘錄 -
       - 機動戰士GUNDAM MS IGLOO - 默示錄0079 -
   - [機動戰士GUNDAM 外傳 THE BLUE
-    DESTINY](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
+    DESTINY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
   - [機動戰士GUNDAM外傳
     宇宙、閃光的盡頭…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
-  - [自護前線 機動戰士GUNDAM 0079](../Page/自護前線_機動戰士GUNDAM_0079.md "wikilink")
+  - [自護前線 機動戰士GUNDAM
+    0079](https://zh.wikipedia.org/wiki/自護前線_機動戰士GUNDAM_0079 "wikilink")
   - [ADVANCE OF Z
-    -迪坦斯的軍旗下-](../Page/ADVANCE_OF_Z_-迪坦斯的軍旗下-.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
-  - [機動戰士GUNDAM 閃光的哈薩維](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")
+    -迪坦斯的軍旗下-](https://zh.wikipedia.org/wiki/ADVANCE_OF_Z_-迪坦斯的軍旗下- "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
+  - [機動戰士GUNDAM
+    閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
-  - [機動戰士GUNDAM 影子方程式91](../Page/機動戰士GUNDAM_影子方程式91.md "wikilink")
+  - [機動戰士GUNDAM
+    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
   - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
   - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-  - [MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
-  - [MS-X](../Page/MS-X.md "wikilink")
+  - [MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
+  - [MS-X](https://zh.wikipedia.org/wiki/MS-X "wikilink")
   - Z-MSV
   - CCA-MSV
   - [SDガンダムワールド ガチャポン戦士
-    スクランブルウォーズ](../Page/SDガンダムワールド_ガチャポン戦士.md "wikilink")
-  - [SD GUNDAM GX](../Page/SD_GUNDAM_GX.md "wikilink")
+    スクランブルウォーズ](https://zh.wikipedia.org/wiki/SDガンダムワールド_ガチャポン戦士 "wikilink")
+  - [SD GUNDAM
+    GX](https://zh.wikipedia.org/wiki/SD_GUNDAM_GX "wikilink")
   - [機動戰士GUNDAM CROSS DIMENSION 0079
-    對死去的人們祈禱](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
-  - [機動戰士GUNDAM 戰場之絆](../Page/機動戰士GUNDAM_戰場之絆.md "wikilink")
+    對死去的人們祈禱](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
+  - [機動戰士GUNDAM
+    戰場之絆](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_戰場之絆 "wikilink")
 
 </td>
 
@@ -491,8 +539,8 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
 
 #### SD Gundam GGENERATION WORLD
 
-2011年2月24日在[PSP及](../Page/PSP.md "wikilink")[Wii上推出的遊戲](../Page/Wii.md "wikilink")。是集合至今“机动战士高达”作品的策略角色扮演游戏《SD高达
-G世代》系列作，一如以往地将加入更多的参战作品，如刚完结的TV动画《[高达00](../Page/高达00.md "wikilink")》《[高达UC](../Page/高达UC.md "wikilink")》；除引入前作的大型战舰单位外，还加入名为“Generation
+2011年2月24日在[PSP及](https://zh.wikipedia.org/wiki/PSP "wikilink")[Wii上推出的遊戲](../Page/Wii.md "wikilink")。是集合至今“机动战士高达”作品的策略角色扮演游戏《SD高达
+G世代》系列作，一如以往地将加入更多的参战作品，如刚完结的TV动画《[高达00](https://zh.wikipedia.org/wiki/高达00 "wikilink")》《[高达UC](https://zh.wikipedia.org/wiki/高达UC "wikilink")》；除引入前作的大型战舰单位外，还加入名为“Generation
 Break”的新系统，制作方称其将令系列得到惊人的进化。
 
 ##### 登場作品
@@ -504,34 +552,41 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（劇場特別版）
-  - [MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+  - [MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
   - MS-X
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
   - [機動戰士GUNDAM MS IGLOO](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
       - 機動戰士GUNDAM MS IGLOO - 1年戰爭秘錄 -
       - 機動戰士GUNDAM MS IGLOO - 默示錄0079 -
   - [機動戰士GUNDAM 外傳 THE BLUE
-    DESTINY](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
-  - [自護前線 機動戰士GUNDAM 0079](../Page/自護前線_機動戰士GUNDAM_0079.md "wikilink")
+    DESTINY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
+  - [自護前線 機動戰士GUNDAM
+    0079](https://zh.wikipedia.org/wiki/自護前線_機動戰士GUNDAM_0079 "wikilink")
   - [機動戰士GUNDAM外傳
     宇宙、閃光的盡頭…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM戰記 BATTLEFIELD RECORD
-    U.C.0081](../Page/機動戰士GUNDAM戰記_\(PS3\).md "wikilink")
+    U.C.0081](https://zh.wikipedia.org/wiki/機動戰士GUNDAM戰記_\(PS3\) "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
-  - [ADVANCE OF Ζ 迪坦斯的軍旗下-](../Page/ADVANCE_OF_Ζ_迪坦斯的軍旗下-.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
+  - [ADVANCE OF Ζ
+    迪坦斯的軍旗下-](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_迪坦斯的軍旗下- "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（劇場版）
   - Z-MSV
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - CCA-MSV
-  - [M-MSV](../Page/M-MSV.md "wikilink")
+  - [M-MSV](https://zh.wikipedia.org/wiki/M-MSV "wikilink")
   - [機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")
-  - [機動戰士GUNDAM 閃光的哈薩維](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")
+  - [機動戰士GUNDAM
+    閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
-  - [機動戰士GUNDAM 影子方程式91](../Page/機動戰士GUNDAM_影子方程式91.md "wikilink")
+  - [機動戰士GUNDAM
+    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - F91-MSV
 
@@ -542,11 +597,11 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
   - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
   - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-  - [機動戰士VGUNDAM](../Page/機動戰士VGUNDAM.md "wikilink")
+  - [機動戰士VGUNDAM](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")
   - [機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")
   - [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
@@ -557,19 +612,22 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
   - [機動戰士GUNDAM SEED
     DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")
   - [機動戰士GUNDAM SEED C.E.73
-    STARGAZER](../Page/機動戰士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")
+    STARGAZER](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")
   - [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")
   - [劇場版 機動戰士GUNDAM 00 -A wakening of the
-    Trailblazer-](../Page/劇場版_機動戰士GUNDAM_00_-A_wakening_of_the_Trailblazer-.md "wikilink")
+    Trailblazer-](https://zh.wikipedia.org/wiki/劇場版_機動戰士GUNDAM_00_-A_wakening_of_the_Trailblazer- "wikilink")
   - [SDガンダムワールド ガチャポン戦士
-    スクランブルウォーズ](../Page/SDガンダムワールド_ガチャポン戦士.md "wikilink")
-  - [SD GUNDAM GX](../Page/SD_GUNDAM_GX.md "wikilink")
-  - [機動戰士GUNDAM 基連的野望](../Page/機動戰士GUNDAM_基連的野望.md "wikilink")
+    スクランブルウォーズ](https://zh.wikipedia.org/wiki/SDガンダムワールド_ガチャポン戦士 "wikilink")
+  - [SD GUNDAM
+    GX](https://zh.wikipedia.org/wiki/SD_GUNDAM_GX "wikilink")
+  - [機動戰士GUNDAM
+    基連的野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連的野望 "wikilink")
   - [機動戰士GUNDAM CROSS DIMENSION 0079
-    對死去的人們祈禱](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
-  - [機動戰士GUNDAM 戰場之絆](../Page/機動戰士GUNDAM_戰場之絆.md "wikilink")
+    對死去的人們祈禱](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
+  - [機動戰士GUNDAM
+    戰場之絆](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_戰場之絆 "wikilink")
   - [SD GUNDAM三國傳
-    BraveBattleWarriors](../Page/SD_GUNDAM三國傳_BraveBattleWarriors.md "wikilink")
+    BraveBattleWarriors](https://zh.wikipedia.org/wiki/SD_GUNDAM三國傳_BraveBattleWarriors "wikilink")
 
 </td>
 
@@ -580,7 +638,7 @@ Break”的新系统，制作方称其将令系列得到惊人的进化。
 #### SD Gundam GGENERATION GENESIS
 
 預計在2016年11月22日在[PS4以及](../Page/PlayStation_4.md "wikilink")[PS
-Vita平台發售](../Page/PS_Vita.md "wikilink")，官方取消推出PS3平台以及收錄作品只到機動戰士高達UC。由於本作容量較大，所以PSV會有兩枚遊戲卡作遊玩。本作標題主打「傳承靈魂、回歸全新原點」，為配合高達遊戲30周年的紀念作品之一。此外，本作是官方首次釋出繁體中文版，讓玩家能對背景故事有更深入的了解。同時本作也是系列作中首次透過DLC追加登場作品及其他附加內容。
+Vita平台發售](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")，官方取消推出PS3平台以及收錄作品只到機動戰士高達UC。由於本作容量較大，所以PSV會有兩枚遊戲卡作遊玩。本作標題主打「傳承靈魂、回歸全新原點」，為配合高達遊戲30周年的紀念作品之一。此外，本作是官方首次釋出繁體中文版，讓玩家能對背景故事有更深入的了解。同時本作也是系列作中首次透過DLC追加登場作品及其他附加內容。
 
 ##### 登場作品
 
@@ -591,36 +649,41 @@ Vita平台發售](../Page/PS_Vita.md "wikilink")，官方取消推出PS3平台�
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（包括劇場特別版）
-  - [MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+  - [MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
   - MS-X
-  - [M-MSV](../Page/M-MSV.md "wikilink")
+  - [M-MSV](https://zh.wikipedia.org/wiki/M-MSV "wikilink")
   - MSV-R
   - [機動戰士GUNDAM MS IGLOO](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
       - 機動戰士GUNDAM MS IGLOO - 1年戰爭秘錄 -
       - 機動戰士GUNDAM MS IGLOO - 默示錄0079 -
       - 機動戰士GUNDAM MS IGLOO2 -重力戰線-
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
   - [機動戰士GUNDAM 外傳 THE BLUE
-    DESTINY](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
+    DESTINY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
   - [機動戰士GUNDAM外傳 殖民地墮落之地](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
-  - [自護前線 機動戰士GUNDAM 0079](../Page/自護前線_機動戰士GUNDAM_0079.md "wikilink")
-  - [機動戰士GUNDAM 相逢宇宙](../Page/機動戰士GUNDAM_相逢宇宙.md "wikilink")
+  - [自護前線 機動戰士GUNDAM
+    0079](https://zh.wikipedia.org/wiki/自護前線_機動戰士GUNDAM_0079 "wikilink")
+  - [機動戰士GUNDAM
+    相逢宇宙](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_相逢宇宙 "wikilink")
   - [機動戰士GUNDAM外傳
     宇宙、閃光的盡頭…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
   - [機動戰士GUNDAM戰記 Lost War
     Chronicles](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")
   - [機動戰士GUNDAM戰記 BATTLEFIELD RECORD
-    U.C.0081](../Page/機動戰士GUNDAM戰記_\(PS3\).md "wikilink")
+    U.C.0081](https://zh.wikipedia.org/wiki/機動戰士GUNDAM戰記_\(PS3\) "wikilink")
   - [機動戰士GUNDAM外傳 Missing
-    Link](../Page/機動戰士GUNDAM外傳_Missing_Link.md "wikilink")
+    Link](https://zh.wikipedia.org/wiki/機動戰士GUNDAM外傳_Missing_Link "wikilink")
   - [機動戰士GUNDAM CROSS DIMENSION
-    0079](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
-  - [ハーモニー・オブ・ガンダム](../Page/ハーモニー・オブ・ガンダム.md "wikilink")
-  - [機動戰士高達 戰場之絆](../Page/機動戰士高達_戰場之絆.md "wikilink")
-  - [機動戰士高達 基連的野望](../Page/機動戰士高達_基連的野望.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+    0079](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
+  - [ハーモニー・オブ・ガンダム](https://zh.wikipedia.org/wiki/ハーモニー・オブ・ガンダム "wikilink")
+  - [機動戰士高達 戰場之絆](https://zh.wikipedia.org/wiki/機動戰士高達_戰場之絆 "wikilink")
+  - [機動戰士高達
+    基連的野望](https://zh.wikipedia.org/wiki/機動戰士高達_基連的野望 "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
 
 </td>
 
@@ -631,27 +694,33 @@ Vita平台發售](../Page/PS_Vita.md "wikilink")，官方取消推出PS3平台�
   - [機動戰士Z GUNDAM劇場版](../Page/機動戰士Z_GUNDAM劇場版.md "wikilink")
   - Z-MSV
   - [ADVANCE OF Z
-    -迪坦斯的軍旗下-](../Page/ADVANCE_OF_Z_-迪坦斯的軍旗下-.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+    -迪坦斯的軍旗下-](https://zh.wikipedia.org/wiki/ADVANCE_OF_Z_-迪坦斯的軍旗下- "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - CCA-MSV
   - [機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")
   - 機動戰士GUNDAM UC-MSV
-  - [機動戰士鋼彈 閃光的哈薩威](../Page/機動戰士鋼彈_閃光的哈薩威.md "wikilink") (DLC)
-  - [GUNDAM G之复国运动](../Page/GUNDAM_G之复国运动.md "wikilink") (只有 YG-111
-    Gundam G-SELF Perfect Pack作為隱藏機登場)
+  - [機動戰士鋼彈
+    閃光的哈薩威](https://zh.wikipedia.org/wiki/機動戰士鋼彈_閃光的哈薩威 "wikilink")
+    (DLC)
+  - [GUNDAM
+    G之复国运动](https://zh.wikipedia.org/wiki/GUNDAM_G之复国运动 "wikilink")
+    (只有 YG-111 Gundam G-SELF Perfect Pack作為隱藏機登場)
   - [機動戰士GUNDAM THE
-    ORIGIN](../Page/機動戰士GUNDAM_THE_ORIGIN.md "wikilink")(在12月DLC追加)
-  - [機動戰士鋼彈 鐵血的孤兒](../Page/機動戰士鋼彈_鐵血的孤兒.md "wikilink") (Gundam Barbatos
-    Lupus在12月DLC追加)
-  - [GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink") (在2月DLC追加)
+    ORIGIN](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_THE_ORIGIN "wikilink")(在12月DLC追加)
+  - [機動戰士鋼彈
+    鐵血的孤兒](https://zh.wikipedia.org/wiki/機動戰士鋼彈_鐵血的孤兒 "wikilink")
+    (Gundam Barbatos Lupus在12月DLC追加)
+  - [GUNDAM創戰者TRY](https://zh.wikipedia.org/wiki/GUNDAM創戰者TRY "wikilink")
+    (在2月DLC追加)
   - [機動戰士GUNDAM
-    CDA年輕彗星的肖像](../Page/機動戰士GUNDAM_CDA年輕彗星的肖像.md "wikilink")(在2月DLC追加)
+    CDA年輕彗星的肖像](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CDA年輕彗星的肖像 "wikilink")(在2月DLC追加)
   - [機動戰士GUNDAM
-    Thunderbolt](../Page/機動戰士GUNDAM_Thunderbolt.md "wikilink")(在2月DLC追加)
-  - [∀ GUNDAM](../Page/∀_GUNDAM.md "wikilink") (只有System－∀99
-    ∀Gundam作為最終頭目登場)
+    Thunderbolt](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Thunderbolt "wikilink")(在2月DLC追加)
+  - [∀ GUNDAM](https://zh.wikipedia.org/wiki/∀_GUNDAM "wikilink")
+    (只有System－∀99 ∀Gundam作為最終頭目登場)
   - SD GUNDAM GX
   - SD Gundam World Gachapon warrior
   - 其他高達系列作品
@@ -682,20 +751,20 @@ Color上推出的遊戲](../Page/WonderSwan_Color.md "wikilink")。
 #### SD Gundam GGENERATION 獨眼GUNDAM
 
 2002年9月26日在[WonderSwan
-Crystal上推出的遊戲](../Page/WonderSwan_Crystal.md "wikilink")，劇情從初代高達橫跨到機動戰士Z高達，或是隨著玩家選擇路線而進入機動戰士高達ZZ的劇情。主角是原創角色，其他原創角色還有、、、等。本作亦延續了前作Gather
+Crystal上推出的遊戲](https://zh.wikipedia.org/wiki/WonderSwan_Crystal "wikilink")，劇情從初代高達橫跨到機動戰士Z高達，或是隨著玩家選擇路線而進入機動戰士高達ZZ的劇情。主角是原創角色，其他原創角色還有、、、等。本作亦延續了前作Gather
 Beat和Gather Beat 2的遊戲系統，並且罕見地以自護公國的視角展開故事。此外，前作Gather Beat
 2的機體升級系統用的零件以及機體開發系譜亦被重新編排，並且被後來的Advance和DS等作品所採納。對於前作“格鬥武器比射擊武器的傷害還要高”的設定進行了修改，變成了“射擊武器傷害較高且可先發製人但命中率較低，而格鬥武器相對的有著高命中率”的設定，並被後來的作品繼續沿用這套系統。此外除了機體人物的圖鑑外亦收錄了遊戲BGM和發生過的特殊遊戲事件，可以在通關後進行重溫閱覽。
 
 #### SD Gundam GGENERATION ADVANCE
 
-2003年11月27日在[GBA上發售的遊戲](../Page/GBA.md "wikilink")，主線是[一年战争跟](../Page/一年战争.md "wikilink")[SEED](../Page/機動戰士Gundam_SEED.md "wikilink")。
+2003年11月27日在[GBA上發售的遊戲](https://zh.wikipedia.org/wiki/GBA "wikilink")，主線是[一年战争跟](../Page/一年战争.md "wikilink")[SEED](https://zh.wikipedia.org/wiki/機動戰士Gundam_SEED "wikilink")。
 
-由于机体及卡帶容量本身限制，很多机体和机师并未出场，像《[-{zh-hk:高达W;zh-tw:鋼彈W}-](../Page/新機動戰記GUNDAM_W.md "wikilink")》里面的5人只剩下[希洛](../Page/希洛·唯.md "wikilink")，还有SEED只剩下[-{zh-hk:基拉;zh-tw:煌}-](../Page/煌·大和.md "wikilink")、[卡嘉莉和](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")[阿斯兰等等](../Page/阿斯兰.md "wikilink")。部分动画是重复的，且部分机体的表现比较让人失望，像V
+由于机体及卡帶容量本身限制，很多机体和机师并未出场，像《[-{zh-hk:高达W;zh-tw:鋼彈W}-](../Page/新機動戰記GUNDAM_W.md "wikilink")》里面的5人只剩下[希洛](../Page/希洛·唯.md "wikilink")，还有SEED只剩下[-{zh-hk:基拉;zh-tw:煌}-](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")、[卡嘉莉和](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")[阿斯兰等等](https://zh.wikipedia.org/wiki/阿斯兰 "wikilink")。部分动画是重复的，且部分机体的表现比较让人失望，像V
 GUNDAM。但是总体而言音乐动画表現和可玩性都很高，戰鬥畫面也是首次變成45度角。
 
 #### SD Gundam GGENERATION DS
 
-2005年5月26日在[NDS上發售的遊戲系列第一彈](../Page/NDS.md "wikilink")，劇情主軸在吉翁開始，算是在G世代少見的劇情表現。
+2005年5月26日在[NDS上發售的遊戲系列第一彈](https://zh.wikipedia.org/wiki/NDS "wikilink")，劇情主軸在吉翁開始，算是在G世代少見的劇情表現。
 
 實際上，本作的故事內容為獨眼高達的再編，以吉翁軍的角度重新作描寫。與獨眼高達一作不同，本作並沒有明確的主角存在，除了獨眼高達有登場的等角色外，本作還有新的原創少女角色、和與外貌完全相同的、登場。此外，本作的故事流程可分為三條路線，分別為宇宙世紀路線、平成高達路線、和隱藏的敵軍路線（以通常時為敵軍的角色的視點進行攻略）。
 
@@ -705,11 +774,11 @@ DRIVE」發售後的一段時間內，本作在二手商店的賣值比該作還
 
 #### SD Gundam GGENERATION PORTABLE
 
-2006年8月3日在[PSP上发售的游戏](../Page/PSP.md "wikilink")，收录1133部机体、787个人物及70个关卡。部分系統上使用近似NEO系，但資料庫和畫面方面，除了SEED、SEED
+2006年8月3日在[PSP上发售的游戏](https://zh.wikipedia.org/wiki/PSP "wikilink")，收录1133部机体、787个人物及70个关卡。部分系統上使用近似NEO系，但資料庫和畫面方面，除了SEED、SEED
 DESTINY及SEED MSV外只有極小量新作，其他均來自舊作GGF。
 
 此作中，被取消的故事包括[The Blue
-Destiny](../Page/機動戰士GUNDAM_The_Blue_Destiny.md "wikilink")、[S高達](../Page/GUNDAM前哨戰.md "wikilink")、[無盡的華爾茲及G](../Page/新機動戰記GUNDAM_W_無盡的華爾茲.md "wikilink")-Unit等等。
+Destiny](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_The_Blue_Destiny "wikilink")、[S高達](../Page/GUNDAM前哨戰.md "wikilink")、[無盡的華爾茲及G](../Page/新機動戰記GUNDAM_W_無盡的華爾茲.md "wikilink")-Unit等等。
 
 ##### 登場作品
 
@@ -720,10 +789,12 @@ Destiny](../Page/機動戰士GUNDAM_The_Blue_Destiny.md "wikilink")、[S高達](
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（劇場版）
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
@@ -741,35 +812,40 @@ Destiny](../Page/機動戰士GUNDAM_The_Blue_Destiny.md "wikilink")、[S高達](
 
 <td valign=top width="35%">
 
-  - [MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+  - [MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
   - MS-X
-  - [M-MSV](../Page/M-MSV.md "wikilink")
-  - [機動戰士GUNDAM外傳系列](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
+  - [M-MSV](https://zh.wikipedia.org/wiki/M-MSV "wikilink")
+  - [機動戰士GUNDAM外傳系列](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
   - [機動戰士GUNDAM MS IGLOO - 1年戰爭秘錄
     -](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
   - ADVANCE OF Ζ -{zh-hk:泰坦斯的旗下;zh-tw:-迪坦斯的軍旗下-}-
-  - [Ζ-MSV](../Page/Ζ-MSV.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+  - [Ζ-MSV](https://zh.wikipedia.org/wiki/Ζ-MSV "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - ΖΖ-MSV
   - CCA-MSV
-  - [機動戰士GUNDAM 閃光的哈薩維](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")
+  - [機動戰士GUNDAM
+    閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [機動戰士GUNDAM SEED
     ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")
   - [機動戰士GUNDAM SEED X
     ASTRAY](../Page/機動戰士GUNDAM_SEED_X_ASTRAY.md "wikilink")
-  - [GUNDAM WEAPONS](../Page/GUNDAM_WEAPONS.md "wikilink")
+  - [GUNDAM
+    WEAPONS](https://zh.wikipedia.org/wiki/GUNDAM_WEAPONS "wikilink")
   - [SDガンダムワールド ガチャポン戦士
-    スクランブルウォーズ](../Page/SDガンダムワールド_ガチャポン戦士.md "wikilink")
-  - [SD GUNDAM GX](../Page/SD_GUNDAM_GX.md "wikilink")
-  - [機動戰士GUNDAM 基連之野望](../Page/機動戰士GUNDAM_基連之野望.md "wikilink")
+    スクランブルウォーズ](https://zh.wikipedia.org/wiki/SDガンダムワールド_ガチャポン戦士 "wikilink")
+  - [SD GUNDAM
+    GX](https://zh.wikipedia.org/wiki/SD_GUNDAM_GX "wikilink")
+  - [機動戰士GUNDAM
+    基連之野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連之野望 "wikilink")
   - [機動戰士GUNDAM CROSS DIMENSION
-    0079](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
+    0079](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
   - [GUNDAM TACTICS MOBILITY
-    FLEET0079](../Page/GUNDAM_TACTICS_MOBILITY_FLEET0079.md "wikilink")
+    FLEET0079](https://zh.wikipedia.org/wiki/GUNDAM_TACTICS_MOBILITY_FLEET0079 "wikilink")
 
 </td>
 
@@ -787,7 +863,7 @@ Destiny](../Page/機動戰士GUNDAM_The_Blue_Destiny.md "wikilink")、[S高達](
     直接以最大三機的小隊出擊。
   - 開發
     部分機體須等級足夠配上部件才可以轉換成新機體，開發後即使未有機體變化也會有經驗值增加。不同改造技師會影響機體性能。另外能開發的機體大增，包括SEED、SEED
-    DESTINY、W系的非UC系列都能開發，而且不像前幾作，一些終極級機體（如[攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")、[飛翼鋼彈零式特裝型](../Page/新機動戰記GUNDAM_W_機體列表#劇場版_Endless_Waltz（無盡的華爾茲）.md "wikilink")）也可以直接開發。另外開發當中有機會隨機增加特殊部分。
+    DESTINY、W系的非UC系列都能開發，而且不像前幾作，一些終極級機體（如[攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")、[飛翼鋼彈零式特裝型](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_機體列表#劇場版_Endless_Waltz（無盡的華爾茲） "wikilink")）也可以直接開發。另外開發當中有機會隨機增加特殊部分。
 
 操控以觸控移動機體位置來決定使用的武器，特定機師加上特定機體及武器更可使出cross
 drive組合技（與一般的分別是能攻擊對方整個小隊）。首次收錄了[SEED
@@ -800,7 +876,7 @@ Astray的Astray紅藍二機及觀星者高達。
 
 #### SD Gundam GGENERATION 3D
 
-2011年12月22日在[3DS上推出的遊戲](../Page/3DS.md "wikilink")。
+2011年12月22日在[3DS上推出的遊戲](https://zh.wikipedia.org/wiki/3DS "wikilink")。
 
 ##### 登場作品
 
@@ -811,10 +887,12 @@ Astray的Astray紅藍二機及觀星者高達。
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（劇場特別版）
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（劇場版）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
@@ -830,17 +908,17 @@ Astray的Astray紅藍二機及觀星者高達。
   - [機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")
   - [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
   - [機動戰士GUNDAM SEED
     DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")
   - [機動戰士GUNDAM SEED C.E.73
-    STARGAZER](../Page/機動戰士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")
+    STARGAZER](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")
   - [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")
   - [劇場版 機動戰士GUNDAM 00 -A wakening of the
-    Trailblazer-](../Page/劇場版_機動戰士GUNDAM_00_-A_wakening_of_the_Trailblazer-.md "wikilink")
+    Trailblazer-](https://zh.wikipedia.org/wiki/劇場版_機動戰士GUNDAM_00_-A_wakening_of_the_Trailblazer- "wikilink")
   - [模型戰士GUNDAM模型製作家 起始G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")
   - [機動戰士GUNDAM
     AGE](../Page/機動戰士GUNDAM_AGE.md "wikilink")（註：只有第1部的人物和機體參戰。）
@@ -856,11 +934,11 @@ Astray的Astray紅藍二機及觀星者高達。
 2011年2月24日在PSP及Wii上推出的遊戲。
 
 *見[\#SD Gundam GGENERATION
-WORLD](../Page/#SD_Gundam_GGENERATION_WORLD.md "wikilink")*
+WORLD](https://zh.wikipedia.org/wiki/#SD_Gundam_GGENERATION_WORLD "wikilink")*
 
 #### SD Gundam GGENERATION OVER WORLD
 
-2012年9月27日在[PSP上推出的遊戲](../Page/PSP.md "wikilink")。
+2012年9月27日在[PSP上推出的遊戲](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
 ##### 登場作品
 
@@ -871,37 +949,44 @@ WORLD](../Page/#SD_Gundam_GGENERATION_WORLD.md "wikilink")*
 <td valign=top width="35%">
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（劇場特別版）
-  - [MSV](../Page/MOBILE_SUIT_VARIATION:_MSV.md "wikilink")
+  - [MSV](https://zh.wikipedia.org/wiki/MOBILE_SUIT_VARIATION:_MSV "wikilink")
   - MS-X
-  - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")
+  - [機動戰士GUNDAM
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")
   - [機動戰士GUNDAM MS IGLOO](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
       - 機動戰士GUNDAM MS IGLOO - 1年戰爭秘錄 -
       - 機動戰士GUNDAM MS IGLOO - 默示錄0079 -
       - 機動戰士GUNDAM MS IGLOO2 -重力戰線-
   - [機動戰士GUNDAM 外傳 THE BLUE
-    DESTINY](../Page/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY.md "wikilink")
+    DESTINY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_外傳_THE_BLUE_DESTINY "wikilink")
   - [機動戰士GUNDAM外傳
     宇宙、閃光的盡頭…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
-  - [自護前線 機動戰士GUNDAM 0079](../Page/自護前線_機動戰士GUNDAM_0079.md "wikilink")
-  - [機動戰士GUNDAM0080 口袋裡的戰爭](../Page/機動戰士GUNDAM0080_口袋裡的戰爭.md "wikilink")
+  - [自護前線 機動戰士GUNDAM
+    0079](https://zh.wikipedia.org/wiki/自護前線_機動戰士GUNDAM_0079 "wikilink")
+  - [機動戰士GUNDAM0080
+    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")
   - [機動戰士GUNDAM戰記 BATTLEFIELD RECORD
-    U.C.0081](../Page/機動戰士GUNDAM戰記_\(PS3\).md "wikilink")
+    U.C.0081](https://zh.wikipedia.org/wiki/機動戰士GUNDAM戰記_\(PS3\) "wikilink")
   - [機動戰士GUNDAM0083 STARDUST
-    MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")
-  - [ADVANCE OF Ζ 泰坦斯的旗下](../Page/ADVANCE_OF_Ζ_泰坦斯的旗下.md "wikilink")
+    MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")
+  - [ADVANCE OF Ζ
+    泰坦斯的旗下](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_泰坦斯的旗下 "wikilink")
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")
   - 機動戰士Z GUNDAM（劇場版）
-  - [Ζ-MSV](../Page/Ζ-MSV.md "wikilink")
-  - [GUNDAM SENTINEL](../Page/GUNDAM_SENTINEL.md "wikilink")
+  - [Ζ-MSV](https://zh.wikipedia.org/wiki/Ζ-MSV "wikilink")
+  - [GUNDAM
+    SENTINEL](https://zh.wikipedia.org/wiki/GUNDAM_SENTINEL "wikilink")
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - CCA-MSV
-  - [M-MSV](../Page/M-MSV.md "wikilink")
+  - [M-MSV](https://zh.wikipedia.org/wiki/M-MSV "wikilink")
   - [機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")
   - 機動戰士GUNDAM UC-MSV
-  - [機動戰士GUNDAM 閃光的哈薩維](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")
+  - [機動戰士GUNDAM
+    閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")
   - [機動戰士GUNDAM F90](../Page/機動戰士GUNDAM_F90.md "wikilink")
-  - [機動戰士GUNDAM 影子方程式91](../Page/機動戰士GUNDAM_影子方程式91.md "wikilink")
+  - [機動戰士GUNDAM
+    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - F91-MSV
 
@@ -912,13 +997,13 @@ WORLD](../Page/#SD_Gundam_GGENERATION_WORLD.md "wikilink")*
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
   - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
   - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-  - [機動戰士VGUNDAM](../Page/機動戰士VGUNDAM.md "wikilink")
+  - [機動戰士VGUNDAM](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")
   - [機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")
   - [新機動戰記GUNDAM W Endless
-    Waltz](../Page/新機動戰記GUNDAM_W_Endless_Waltz.md "wikilink")
+    Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")
   - [新機動戰記GUNDAM W Dual Story
-    G-UNIT](../Page/新機動戰記GUNDAM_W_Dual_Story_G-UNIT.md "wikilink")
+    G-UNIT](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Dual_Story_G-UNIT "wikilink")
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")
   - [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
@@ -931,11 +1016,12 @@ WORLD](../Page/#SD_Gundam_GGENERATION_WORLD.md "wikilink")*
     DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")
   - SEED DESTINY-MSV
   - [機動戰士GUNDAM SEED C.E.73
-    STARGAZER](../Page/機動戰士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")
+    STARGAZER](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")
   - [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")
   - [劇場版 機動戰士GUNDAM 00 -A wakening of the
-    Trailblazer-](../Page/劇場版_機動戰士GUNDAM_00_-A_wakening_of_the_Trailblazer-.md "wikilink")
-  - [機動戰士GUNDAM 00外傳](../Page/機動戰士GUNDAM_00#外傳.md "wikilink")
+    Trailblazer-](https://zh.wikipedia.org/wiki/劇場版_機動戰士GUNDAM_00_-A_wakening_of_the_Trailblazer- "wikilink")
+  - [機動戰士GUNDAM
+    00外傳](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00#外傳 "wikilink")
       - 機動戰士GUNDAM 00P
       - 機動戰士GUNDAM 00F
       - 機動戰士GUNDAM 00V
@@ -943,11 +1029,13 @@ WORLD](../Page/#SD_Gundam_GGENERATION_WORLD.md "wikilink")*
   - [模型戰士GUNDAM模型製作家 起始G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")
   - 機動戦士ガンダム シークレット・ウェポンズ ファントム・ブレット
   - [SDガンダムワールド ガチャポン戦士
-    スクランブルウォーズ](../Page/SDガンダムワールド_ガチャポン戦士.md "wikilink")
-  - [SD GUNDAM GX](../Page/SD_GUNDAM_GX.md "wikilink")
-  - [機動戰士GUNDAM 基連之野望](../Page/機動戰士GUNDAM_基連之野望.md "wikilink")
+    スクランブルウォーズ](https://zh.wikipedia.org/wiki/SDガンダムワールド_ガチャポン戦士 "wikilink")
+  - [SD GUNDAM
+    GX](https://zh.wikipedia.org/wiki/SD_GUNDAM_GX "wikilink")
+  - [機動戰士GUNDAM
+    基連之野望](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_基連之野望 "wikilink")
   - [機動戰士GUNDAM CROSS DIMENSION 0079
-    對死去的人們祈禱](../Page/機動戰士GUNDAM_CROSS_DIMENSION_0079.md "wikilink")
+    對死去的人們祈禱](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_CROSS_DIMENSION_0079 "wikilink")
   - 其他GUNDAM遊戲作品
 
 </td>
@@ -961,7 +1049,7 @@ WORLD](../Page/#SD_Gundam_GGENERATION_WORLD.md "wikilink")*
 在2016年11月22日在PS4以及PS Vita平台發售，官方取消推出PS3平台以及收錄作品只到機動戰士高達UC。
 
 *見[\#SD Gundam GGENERATION
-GENESIS](../Page/#SD_Gundam_GGENERATION_GENESIS.md "wikilink")*
+GENESIS](https://zh.wikipedia.org/wiki/#SD_Gundam_GGENERATION_GENESIS "wikilink")*
 
 #### SD Gundam GGENERATION CROSS RAYS
 

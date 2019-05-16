@@ -1,44 +1,45 @@
-1980年代，美國生物學家[查勒斯·西布萊](../Page/查勒斯·西布萊.md "wikilink")（Charles C.
-Sibley）利用以[DNA交杂之](../Page/DNA交杂.md "wikilink")[分子生物學技术对](../Page/分子生物學.md "wikilink")[鸟类的](../Page/鸟类.md "wikilink")[系统演化和](../Page/系统演化.md "wikilink")[亲缘关系进行研究](../Page/亲缘关系.md "wikilink")，总共做了12000份[鸟类的DNA](../Page/鸟类.md "wikilink")-DNA交杂實验，然後於1988-1993年发表了一系列文章。1988年查勒斯·西布萊发表了《A
+1980年代，美國生物學家[查勒斯·西布萊](https://zh.wikipedia.org/wiki/查勒斯·西布萊 "wikilink")（Charles
+C.
+Sibley）利用以[DNA交杂之](https://zh.wikipedia.org/wiki/DNA交杂 "wikilink")[分子生物學技术对](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")[鸟类的](https://zh.wikipedia.org/wiki/鸟类 "wikilink")[系统演化和](https://zh.wikipedia.org/wiki/系统演化 "wikilink")[亲缘关系进行研究](https://zh.wikipedia.org/wiki/亲缘关系 "wikilink")，总共做了12000份[鸟类的DNA](https://zh.wikipedia.org/wiki/鸟类 "wikilink")-DNA交杂實验，然後於1988-1993年发表了一系列文章。1988年查勒斯·西布萊发表了《A
 Classification of the Living Birds of the World Based on DNA-DNA
-Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥類分佈提供了優良的解釋](../Page/鳥類.md "wikilink")，同一地區的鳥類多半被歸在一起。
+Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥類分佈提供了優良的解釋](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，同一地區的鳥類多半被歸在一起。
 
 [Avesboom_(zh).jpg](https://zh.wikipedia.org/wiki/File:Avesboom_\(zh\).jpg "fig:Avesboom_(zh).jpg")
 
 ## 分類表
 
-  - [始鸟下纲Palaeognathae](../Page/始鸟下纲.md "wikilink")
-      - [平胸小纲Ratitae](../Page/平胸小纲.md "wikilink")(旧[古颚总目](../Page/古颚总目.md "wikilink"))
+  - [始鸟下纲Palaeognathae](https://zh.wikipedia.org/wiki/始鸟下纲 "wikilink")
+      - [平胸小纲Ratitae](https://zh.wikipedia.org/wiki/平胸小纲 "wikilink")(旧[古颚总目](https://zh.wikipedia.org/wiki/古颚总目 "wikilink"))
           - \-
-              - [鸵形目Struthioniformes](../Page/鸵形目.md "wikilink")(不会飞)
-                  - [鸵亚目Struthioni](../Page/鸵亚目.md "wikilink")
-                      - [鸵下目Struthionides](../Page/鸵鸟目.md "wikilink")
+              - [鸵形目Struthioniformes](https://zh.wikipedia.org/wiki/鸵形目 "wikilink")(不会飞)
+                  - [鸵亚目Struthioni](https://zh.wikipedia.org/wiki/鸵亚目 "wikilink")
+                      - [鸵下目Struthionides](https://zh.wikipedia.org/wiki/鸵鸟目 "wikilink")
                           - \-
                               - \-
-                                  - [鸵鸟科Struthionidae](../Page/鸵鸟科.md "wikilink")(非洲鸵鸟)
-                      - [美洲鸵下目Rheides](../Page/美洲鸵下目.md "wikilink")
+                                  - [鸵鸟科Struthionidae](https://zh.wikipedia.org/wiki/鸵鸟科 "wikilink")(非洲鸵鸟)
+                      - [美洲鸵下目Rheides](https://zh.wikipedia.org/wiki/美洲鸵下目 "wikilink")
                           - \-
                               - \-
-                                  - [美洲鸵科Rheidae](../Page/美洲鸵科.md "wikilink")(美洲鸵鸟)
-                  - [鹤鸵亚目Casuarii](../Page/鹤鸵亚目.md "wikilink")
+                                  - [美洲鸵科Rheidae](https://zh.wikipedia.org/wiki/美洲鸵科 "wikilink")(美洲鸵鸟)
+                  - [鹤鸵亚目Casuarii](https://zh.wikipedia.org/wiki/鹤鸵亚目 "wikilink")
                       - \-
                           - \-
                               - \-
-                                  - [鹤鸵科Casuariidae](../Page/鹤鸵目.md "wikilink")(澳洲鸵鸟)
+                                  - [鹤鸵科Casuariidae](https://zh.wikipedia.org/wiki/鹤鸵目 "wikilink")(澳洲鸵鸟)
                                       - \-
-                                          - [鹤鸵族Casuariini](../Page/鹤鸵族.md "wikilink")
-                                          - [鸸鹋族Dromariini](../Page/鸸鹋族.md "wikilink")
-                                  - [无翼鸟科Apterygidae](../Page/无翼鸟目.md "wikilink")(澳洲鹬鸵)
-              - [䳍形目Tinamiformes](../Page/䳍形目.md "wikilink")(会飞)
+                                          - [鹤鸵族Casuariini](https://zh.wikipedia.org/wiki/鹤鸵族 "wikilink")
+                                          - [鸸鹋族Dromariini](https://zh.wikipedia.org/wiki/鸸鹋族 "wikilink")
+                                  - [无翼鸟科Apterygidae](https://zh.wikipedia.org/wiki/无翼鸟目 "wikilink")(澳洲鹬鸵)
+              - [䳍形目Tinamiformes](https://zh.wikipedia.org/wiki/䳍形目 "wikilink")(会飞)
                   - \-
                       - \-
                           - \-
                               - \-
-                                  - [䳍科Tinamidae](../Page/䳍科.md "wikilink")([美洲鹬鸵](../Page/美洲鹬鸵.md "wikilink"))
-  - [三趾鹑下纲Turnicaves](../Page/三趾鹑下纲.md "wikilink")
-      - [三趾鹑小纲Turnicae](../Page/三趾鹑小纲.md "wikilink")
+                                  - [䳍科Tinamidae](https://zh.wikipedia.org/wiki/䳍科 "wikilink")([美洲鹬鸵](https://zh.wikipedia.org/wiki/美洲鹬鸵 "wikilink"))
+  - [三趾鹑下纲Turnicaves](https://zh.wikipedia.org/wiki/三趾鹑下纲 "wikilink")
+      - [三趾鹑小纲Turnicae](https://zh.wikipedia.org/wiki/三趾鹑小纲 "wikilink")
           - \-
-              - [三趾鹑目Turniciformes](../Page/三趾鹑目.md "wikilink")
+              - [三趾鹑目Turniciformes](https://zh.wikipedia.org/wiki/三趾鹑目 "wikilink")
                   - \-
                       - \-
                           - \-
@@ -47,16 +48,16 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
 
 <!-- end list -->
 
-  - [新鸟下纲Neognathae](../Page/新鸟下纲.md "wikilink")
-      - [鸡雁小纲Galloanserae](../Page/鸡雁小纲.md "wikilink")
-          - [鸡形总目Gallomorphae](../Page/鸡形总目.md "wikilink")(旧[鸡形目](../Page/鸡形目.md "wikilink"))
-              - [凤冠雉目Craciformes](../Page/凤冠雉目.md "wikilink")
+  - [新鸟下纲Neognathae](https://zh.wikipedia.org/wiki/新鸟下纲 "wikilink")
+      - [鸡雁小纲Galloanserae](https://zh.wikipedia.org/wiki/鸡雁小纲 "wikilink")
+          - [鸡形总目Gallomorphae](https://zh.wikipedia.org/wiki/鸡形总目 "wikilink")(旧[鸡形目](../Page/鸡形目.md "wikilink"))
+              - [凤冠雉目Craciformes](https://zh.wikipedia.org/wiki/凤冠雉目 "wikilink")
                   - 凤冠雉亚目Craci
                       - \-
                           - \-
                               - \-
                                   - 凤冠雉科Cracidae(拉丁美洲)
-                  - [塚雉亚目Megapodii](../Page/塚雉亚目.md "wikilink")
+                  - [塚雉亚目Megapodii](https://zh.wikipedia.org/wiki/塚雉亚目 "wikilink")
                       - \-
                           - \-
                               - \-
@@ -78,12 +79,12 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
           - 雁形总目Anserimorphae(旧雁形目)
               - [雁形目Anseriformes](../Page/雁形目.md "wikilink")
                   - \-
-                      - [叫鸭下目Anhimides](../Page/叫鸭下目.md "wikilink")
+                      - [叫鸭下目Anhimides](https://zh.wikipedia.org/wiki/叫鸭下目 "wikilink")
                           - \-
-                              - [叫鸭总科Anhimoidea](../Page/叫鸭总科.md "wikilink")
-                                  - [叫鸭科Anhimidae](../Page/叫鸭科.md "wikilink")(南美洲)
-                              - [鹊雁总科Anseranatoidea](../Page/鹊雁总科.md "wikilink")
-                                  - [鹊雁科Anseranatidae](../Page/鹊雁科.md "wikilink")(澳洲)
+                              - [叫鸭总科Anhimoidea](https://zh.wikipedia.org/wiki/叫鸭总科 "wikilink")
+                                  - [叫鸭科Anhimidae](https://zh.wikipedia.org/wiki/叫鸭科 "wikilink")(南美洲)
+                              - [鹊雁总科Anseranatoidea](https://zh.wikipedia.org/wiki/鹊雁总科 "wikilink")
+                                  - [鹊雁科Anseranatidae](https://zh.wikipedia.org/wiki/鹊雁科 "wikilink")(澳洲)
                       - 鸭下目Anserides
                           - \-
                               - \-
@@ -187,7 +188,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                   - 蜂虎科Meropidae
       - 鼠鸟小纲Coliae(舊鼠鸟目，非洲)
           - \-
-              - [鼠鸟目Coliiformes](../Page/鼠鸟目.md "wikilink")
+              - [鼠鸟目Coliiformes](https://zh.wikipedia.org/wiki/鼠鸟目 "wikilink")
                   - \-
                       - \-
                           - \-
@@ -197,7 +198,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                       - 长尾鼠鸟亚科Urocoliinae
       - 雀小纲Passerae
           - 鹃总目Cuculimorphae(舊鹃形目，蕉鹃科除外)
-              - [鹃形目Cuculiformes](../Page/鹃形目.md "wikilink")
+              - [鹃形目Cuculiformes](https://zh.wikipedia.org/wiki/鹃形目 "wikilink")
                   - \-
                       - 鹃下目Cuculides
                           - 鹃小目Cuculida
@@ -233,7 +234,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                               - \-
                                   - 雨燕科Apodidae(不樹棲)
                                   - 风头树燕科Hemiprocnidae(樹棲)
-              - [蜂鸟目Trochiliformes](../Page/蜂鸟目.md "wikilink")(舊蜂鸟科)
+              - [蜂鸟目Trochiliformes](https://zh.wikipedia.org/wiki/蜂鸟目 "wikilink")(舊蜂鸟科)
                   - \-
                       - \-
                           - \-
@@ -242,7 +243,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                       - 隐蜂鸟亚科Phaethornithinae
                                       - 蜂鸟亚科Trochilinae
           - 鸮总目Strigimorphae
-              - [蕉鹃目Musophagiformes](../Page/蕉鹃目.md "wikilink")(舊蕉鹃科，非洲)
+              - [蕉鹃目Musophagiformes](https://zh.wikipedia.org/wiki/蕉鹃目 "wikilink")(舊蕉鹃科，非洲)
                   - \-
                       - \-
                           - \-
@@ -250,7 +251,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                   - 蕉鹃科Musophagidae
                                       - 蕉鹃亚科Musophaginae
                                       - 灰蕉鹃亚科Criniferinae
-              - [鸮形目Strigiformes](../Page/鸮形目.md "wikilink")
+              - [鸮形目Strigiformes](https://zh.wikipedia.org/wiki/鸮形目 "wikilink")
                   - 鸮亚目Strigi(舊鸮形目)
                       - \-
                           - 草鸮小目Tytonida
@@ -284,14 +285,15 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                       - 美洲夜鹰亚科Chordeilinae(美洲)
                                       - 夜鹰亚科Caprimulginae
           - 雀总目Passerimorphae
-              - [鸽形目Columbiformes](../Page/鸽形目.md "wikilink")(舊鸽形目，沙鸡科除外)
+              - [鸽形目Columbiformes](https://zh.wikipedia.org/wiki/鸽形目 "wikilink")(舊鸽形目，沙鸡科除外)
                   - \-
                       - \-
                           - \-
                               - \-
                                   - 孤鸽科Raphidae(灭绝，暫列於鸽形目)
                                   - 鸠鸽科Columbidae
-              - [鹤形目Gruiformes](../Page/鹤形目.md "wikilink") (舊鹤形目，领鹑科除外)
+              - [鹤形目Gruiformes](https://zh.wikipedia.org/wiki/鹤形目 "wikilink")
+                (舊鹤形目，领鹑科除外)
                   - 鹤亚目Grui
                       - 日鳽下目Eurypygides
                           - \-
@@ -327,13 +329,13 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                           - \-
                               - \-
                                   - 拟鹑科Mesitornothidae(马达加斯加岛)
-              - [鹳形目Ciconiiformes](../Page/鹳形目.md "wikilink")
+              - [鹳形目Ciconiiformes](https://zh.wikipedia.org/wiki/鹳形目 "wikilink")
                   - 鸻亚目Charadrii
                       - 沙鸡下目Pteroclides(旧沙鸡科，旧大陆，澳洲除外)
                           - \-
                               - \-
                                   - 沙鸡科Preroclidae
-                      - 鸻下目Charadriides(旧[鸻形目](../Page/鸻形目.md "wikilink"))
+                      - 鸻下目Charadriides(旧[鸻形目](https://zh.wikipedia.org/wiki/鸻形目 "wikilink"))
                           - 鹬小目Scolopacida
                               - 鹬总科Scolopacoidea
                                   - 籽鹬科Thinocoridae(南美洲)
@@ -364,7 +366,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                           - 鸥族Larini(旧鸥科)
                                           - 燕鸥族Srernini(旧燕鸥科)
                                       - 海雀亚科Alcinae(旧海雀科)
-                      - 隼下目Falconides(旧[隼形目](../Page/隼形目.md "wikilink")，美洲鹫除外)
+                      - 隼下目Falconides(旧[隼形目](https://zh.wikipedia.org/wiki/隼形目 "wikilink")，美洲鹫除外)
                           - 鹰小目Accipitridae
                               - \-
                                   - 鹰科Accipitridae
@@ -381,7 +383,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                           - 鹲小目Phaethontida
                               - \-
                                   - 鹲科Phaethontidae
-                          - 鲣鸟小目Sulida(旧[鹈形目](../Page/鹈形目.md "wikilink"))
+                          - 鲣鸟小目Sulida(旧[鹈形目](https://zh.wikipedia.org/wiki/鹈形目 "wikilink"))
                               - 鲣鸟总科Suloidea(热带)
                                   - 鲣鸟科Sulidae
                                   - 蛇鹈科Anhingidae
@@ -406,9 +408,9 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                       - 鹳亚科Ciconiinae(旧鹳科)
                               - 鸌总科Procellarioidea
                                   - 军舰鸟科Fregatidae
-                                  - 企鹅科Spheniscidae(旧[企鹅目](../Page/企鹅目.md "wikilink"))
-                                  - 潜鸟科Gaviidae(旧[潜鸟目](../Page/潜鸟目.md "wikilink"))
-                                  - 鸌科Procellariidae(旧[鸌形目](../Page/鸌形目.md "wikilink"))
+                                  - 企鹅科Spheniscidae(旧[企鹅目](https://zh.wikipedia.org/wiki/企鹅目 "wikilink"))
+                                  - 潜鸟科Gaviidae(旧[潜鸟目](https://zh.wikipedia.org/wiki/潜鸟目 "wikilink"))
+                                  - 鸌科Procellariidae(旧[鸌形目](https://zh.wikipedia.org/wiki/鸌形目 "wikilink"))
                                       - 海燕亚科Hydrobatinae(旧海燕科)
                                       - 鸌亚科Pricellariinae
                                       - 信天翁亚科Diomedeinae(旧信天翁科)
@@ -471,7 +473,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                       - 刺嘴莺亚科Acanthizinae
                                           - 丝刺莺族Acanthizini
                                           - 刺嘴莺族Sericornithini
-                              - [鸦总科Corvoidea](../Page/鸦总科.md "wikilink")
+                              - [鸦总科Corvoidea](https://zh.wikipedia.org/wiki/鸦总科 "wikilink")
                                   - 鸲鹟科Eopsaltriidae
                                   - 和平鸟科Irenidae(亚洲)
                                   - 绿鹃科Vireonidae(美洲)

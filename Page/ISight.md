@@ -1,7 +1,7 @@
 [iSight.jpg](https://zh.wikipedia.org/wiki/File:iSight.jpg "fig:iSight.jpg")\]\]
-**iSight**是一種由[蘋果公司所製造的](../Page/蘋果公司.md "wikilink")[攝像頭](../Page/攝像頭.md "wikilink")。iSight分為內置式和外接式兩種，外接式iSight通過[FireWire連接](../Page/IEEE_1394.md "wikilink")，可以掛載在目前蘋果公司的筆記型電腦、整合式桌上型電腦，以及顯示器上。
+**iSight**是一種由[蘋果公司所製造的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[攝像頭](https://zh.wikipedia.org/wiki/攝像頭 "wikilink")。iSight分為內置式和外接式兩種，外接式iSight通過[FireWire連接](../Page/IEEE_1394.md "wikilink")，可以掛載在目前蘋果公司的筆記型電腦、整合式桌上型電腦，以及顯示器上。
 
-[蘋果電腦在](../Page/蘋果電腦.md "wikilink")2003年的[世界開發者大會推出iSight](../Page/世界開發者大會.md "wikilink")。iSight是設計給[iChat
+[蘋果電腦在](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")2003年的[世界開發者大會推出iSight](https://zh.wikipedia.org/wiki/世界開發者大會 "wikilink")。iSight是設計給[iChat
 AV](../Page/IChat.md "wikilink")，也就是蘋果電腦的視訊會議程式。[iMovie](../Page/IMovie.md "wikilink")
 4以及之後的版本可以從這個裝置擷取影像，而且也是Freeverse軟體公司出品的ToySight遊戲集中所推薦的攝影機。
 
@@ -9,9 +9,9 @@ iSight使用一條包含的FireWire纜線傳輸語音、影像和提供電源。
 
 ## 設計
 
-有些提倡者聲稱iSight擁有較優的顏色品質和非常好看的[工業設計](../Page/工業設計.md "wikilink")。1/4英吋的彩色[CCD感應器有](../Page/CCD.md "wikilink")640x480
+有些提倡者聲稱iSight擁有較優的顏色品質和非常好看的[工業設計](https://zh.wikipedia.org/wiki/工業設計 "wikilink")。1/4英吋的彩色[CCD感應器有](https://zh.wikipedia.org/wiki/CCD "wikilink")640x480
 [VGA的解析度](../Page/视频图形阵列.md "wikilink")。蘋果稱iSight的三部份F/2.8鏡頭是由自行設計的兩個非球面鏡元件組成。他擁有自動對焦和自動曝光，能夠擷取每秒30張24
-bit顏色的視訊和使用一種快門的速度。所有的iSight包含內部的[麥克風](../Page/麥克風.md "wikilink")，從蘋果的廣告上得知，他的特色有雙元件噪音抑制功能。他的獨特設計和重量輕，使用其中包含的四種掛載之一，可以懸掛在螢幕上方，這個意思是能讓視訊交談的接收人可以使用眼睛的高度而非下方來對話，就像很多webcam的需求。
+bit顏色的視訊和使用一種快門的速度。所有的iSight包含內部的[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")，從蘋果的廣告上得知，他的特色有雙元件噪音抑制功能。他的獨特設計和重量輕，使用其中包含的四種掛載之一，可以懸掛在螢幕上方，這個意思是能讓視訊交談的接收人可以使用眼睛的高度而非下方來對話，就像很多webcam的需求。
 
 ## 內置iSight攝像頭
 
@@ -29,7 +29,7 @@ Pro和iMac電腦中的FaceTime攝像頭可以輸出高清視訊。
 ## 相容性
 
 iSight跟[Mac OS
-X相容](../Page/MacOS.md "wikilink")，也能夠和[Windows以及](../Page/Microsoft_Windows.md "wikilink")[Linux電腦相容](../Page/Linux.md "wikilink")；在Linux下需要libdc1394的程式庫。然而，內部的麥克風只能在上有安裝[iChat
+X相容](../Page/MacOS.md "wikilink")，也能夠和[Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux電腦相容](../Page/Linux.md "wikilink")；在Linux下需要libdc1394的程式庫。然而，內部的麥克風只能在上有安裝[iChat
 AV軟體上運作](../Page/IChat.md "wikilink")；解碼語音協定的Linux驅動程式開發任務正在進行中。
 
 ## iSight與FaceTime

@@ -1,18 +1,18 @@
-**IRC**（的缩写，“**因特网中继聊天**”）是一个位于[应用层的](../Page/应用层.md "wikilink")[协议](../Page/协议.md "wikilink")。其主要用于群体聊天，但同样也可以用于个人对个人的聊天。IRC使用的伺服器埠有6667（明文傳輸，如<irc://irc.freenode.net>）、6697（[SSL加密傳輸](../Page/SSL.md "wikilink")，如<ircs://irc.freenode.net:6697>）等。
+**IRC**（的缩写，“**因特网中继聊天**”）是一个位于[应用层的](https://zh.wikipedia.org/wiki/应用层 "wikilink")[协议](https://zh.wikipedia.org/wiki/协议 "wikilink")。其主要用于群体聊天，但同样也可以用于个人对个人的聊天。IRC使用的伺服器埠有6667（明文傳輸，如<irc://irc.freenode.net>）、6697（[SSL加密傳輸](https://zh.wikipedia.org/wiki/SSL "wikilink")，如<ircs://irc.freenode.net:6697>）等。
 
 [芬兰人雅爾可](../Page/芬兰.md "wikilink")·歐伊卡利寧（Jarkko
-Oikarinen）于1988年8月创造了IRC来取代一个叫做[MUT的程序](../Page/MUT.md "wikilink")。
+Oikarinen）于1988年8月创造了IRC来取代一个叫做[MUT的程序](https://zh.wikipedia.org/wiki/MUT "wikilink")。
 
 ## 技术信息
 
-IRC是一种公开的协议，采用[TCP和](../Page/傳輸控制協定.md "wikilink")[SSL协议](../Page/SSL.md "wikilink")。一个IRC服务器可以连接其他的IRC服务器以扩展为一个IRC网络。IRC用户透過客户端软件和服务器相连。大多数的IRC服务器不需要客户注册登录，虽然在连接前必须设定好昵称（nickname），但客户端一般都会自动分配一个。
+IRC是一种公开的协议，采用[TCP和](https://zh.wikipedia.org/wiki/傳輸控制協定 "wikilink")[SSL协议](https://zh.wikipedia.org/wiki/SSL "wikilink")。一个IRC服务器可以连接其他的IRC服务器以扩展为一个IRC网络。IRC用户透過客户端软件和服务器相连。大多数的IRC服务器不需要客户注册登录，虽然在连接前必须设定好昵称（nickname），但客户端一般都会自动分配一个。
 
 ## IRC结构
 
 ### IRC服务器
 
-IRC是一个分布式的[客户端/服务器结构](../Page/客户端/服务器结构.md "wikilink")。通过连接到一个IRC服务器，我们可以访问这个服务器以及它所连接的其他服务器上的频道。
-要使用IRC，必须先登录到一个IRC服务器上，最常见的为[`irc.freenode.net`](../Page/freenode.md "wikilink")。
+IRC是一个分布式的[客户端/服务器结构](https://zh.wikipedia.org/wiki/客户端/服务器结构 "wikilink")。通过连接到一个IRC服务器，我们可以访问这个服务器以及它所连接的其他服务器上的频道。
+要使用IRC，必须先登录到一个IRC服务器上，最常见的为[`irc.freenode.net`](https://zh.wikipedia.org/wiki/freenode "wikilink")。
 
 ### IRC频道
 
@@ -22,18 +22,18 @@ IRC是一个分布式的[客户端/服务器结构](../Page/客户端/服务器�
 
 #### 应用程序
 
-  - [mIRC曾被認為是Windows操作系统下最受歡迎](../Page/mIRC.md "wikilink")、應用最廣的IRC用戶端軟件\[1\]。
+  - [mIRC曾被認為是Windows操作系统下最受歡迎](https://zh.wikipedia.org/wiki/mIRC "wikilink")、應用最廣的IRC用戶端軟件\[1\]。
   - [ChatZilla是](../Page/ChatZilla.md "wikilink")[Mozilla瀏覽器下的IRC用戶端程序](../Page/Mozilla.md "wikilink")，基於[JavaScript和](../Page/JavaScript.md "wikilink")[XUL語言編寫的](../Page/XUL.md "wikilink")。
-  - [Opera瀏覽器有內建的IRC用戶端軟件](../Page/Opera.md "wikilink")。
+  - [Opera瀏覽器有內建的IRC用戶端軟件](https://zh.wikipedia.org/wiki/Opera "wikilink")。
   - [Pidgin支持IRC網路](../Page/Pidgin.md "wikilink")。
   - [XChat跨平台IRC客户端軟件](../Page/XChat.md "wikilink")
-  - [HydraIRC](https://web.archive.org/web/20110128122510/http://hydrairc.com/)是[GPL授權對應Windows系統的IRC客户端軟件](../Page/GPL.md "wikilink")
-  - [KVIrc是一款注重圖形的](../Page/KVIrc.md "wikilink")[GPL授權IRC客户端軟件](../Page/GPL.md "wikilink")，基於[Qt](../Page/Qt.md "wikilink")。
+  - [HydraIRC](https://web.archive.org/web/20110128122510/http://hydrairc.com/)是[GPL授權對應Windows系統的IRC客户端軟件](https://zh.wikipedia.org/wiki/GPL "wikilink")
+  - [KVIrc是一款注重圖形的](https://zh.wikipedia.org/wiki/KVIrc "wikilink")[GPL授權IRC客户端軟件](https://zh.wikipedia.org/wiki/GPL "wikilink")，基於[Qt](../Page/Qt.md "wikilink")。
   - [Irssi](../Page/Irssi.md "wikilink")
-    [類UNIX系統下](../Page/類UNIX.md "wikilink")[命令行界面的IRC用戶端](../Page/命令行界面.md "wikilink")，常常與[Screen一起搭配使用](../Page/GNU_Screen.md "wikilink")。
+    [類UNIX系統下](https://zh.wikipedia.org/wiki/類UNIX "wikilink")[命令行界面的IRC用戶端](../Page/命令行界面.md "wikilink")，常常與[Screen一起搭配使用](../Page/GNU_Screen.md "wikilink")。
   - [Colloquy](http://colloquy.info/)是[Mac OS
-    X下的免费IRC客户端](../Page/Mac_OS_X.md "wikilink")，界面设计友好，还有Console可以监控背后针对每个频道执行所有IRC命令。
-  - [WeeChat也是一款类UNIX系统下的](../Page/WeeChat.md "wikilink")[CLI界面的IRC客户端](../Page/CLI.md "wikilink")。
+    X下的免费IRC客户端](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，界面设计友好，还有Console可以监控背后针对每个频道执行所有IRC命令。
+  - [WeeChat也是一款类UNIX系统下的](https://zh.wikipedia.org/wiki/WeeChat "wikilink")[CLI界面的IRC客户端](https://zh.wikipedia.org/wiki/CLI "wikilink")。
   - [QuasselIRC](http://www.quassel-irc.org/)是一款多平台下IRC客户端。
   - [HexChat](http://hexchat.github.io/)支持Windows、Linux、OSX平台，並且開放原始碼。
   - [LimeChat](http://limechat.net/)由日本人开发多平台IRC客户端软件。
@@ -48,7 +48,7 @@ IRC是一个分布式的[客户端/服务器结构](../Page/客户端/服务器�
 IRC机器人是一些运行在后台或者服务器上的程序，透過登陆某一个频道，分析接受到的内容并做出相应的动作。
 最著名的是[mobibot](http://www.mobitopia.org/mobibot/)，可以通过命令`mobibot:
 weather
-ZBAA`查询天气预报。[ChanServ提供IRC頻道註冊與登入服務的功能](../Page/ChanServ.md "wikilink")，也可以透過它取得頻道管理者的權限。
+ZBAA`查询天气预报。[ChanServ提供IRC頻道註冊與登入服務的功能](https://zh.wikipedia.org/wiki/ChanServ "wikilink")，也可以透過它取得頻道管理者的權限。
 
 ## 参考文献
 

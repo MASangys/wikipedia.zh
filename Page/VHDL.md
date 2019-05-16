@@ -1,7 +1,7 @@
 [Vhdl_signed_adder_source.svg](https://zh.wikipedia.org/wiki/File:Vhdl_signed_adder_source.svg "fig:Vhdl_signed_adder_source.svg")的VHDL源代码。\]\]
-**VHDL**，全称**超高速集成电路硬件描述语言**（），在基于[複雜可程式邏輯裝置](../Page/複雜可程式邏輯裝置.md "wikilink")、[现场可编程逻辑门阵列和](../Page/现场可编程逻辑门阵列.md "wikilink")[特殊應用積體電路的](../Page/特殊應用積體電路.md "wikilink")[数字系统设计中有着广泛的应用](../Page/数字电路.md "wikilink")。
+**VHDL**，全称**超高速集成电路硬件描述语言**（），在基于[複雜可程式邏輯裝置](https://zh.wikipedia.org/wiki/複雜可程式邏輯裝置 "wikilink")、[现场可编程逻辑门阵列和](../Page/现场可编程逻辑门阵列.md "wikilink")[特殊應用積體電路的](../Page/特殊應用積體電路.md "wikilink")[数字系统设计中有着广泛的应用](../Page/数字电路.md "wikilink")。
 
-VHDL语言诞生于1983年，1987年被[美国国防部和](../Page/美国国防部.md "wikilink")[IEEE确定为标准的硬件描述语言](../Page/IEEE.md "wikilink")。自从IEEE发布了VHDL的第一个标准版本IEEE
+VHDL语言诞生于1983年，1987年被[美国国防部和](../Page/美国国防部.md "wikilink")[IEEE确定为标准的硬件描述语言](https://zh.wikipedia.org/wiki/IEEE "wikilink")。自从IEEE发布了VHDL的第一个标准版本IEEE
 1076-1987后，各大EDA公司都先后推出了自己支援VHDL的EDA工具。VHDL在电子设计行业得到了广泛的认同。此后IEEE又先后发布了IEEE
 1076-1993和IEEE 1076-2000版本。
 

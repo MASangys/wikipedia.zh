@@ -1,7 +1,8 @@
 **Bindows**
-是一個[軟體發展套件](../Page/軟體發展套件.md "wikilink")，它使用DHTML，JavaScript，[層疊樣式表和](../Page/層疊樣式表.md "wikilink")[可擴展標記語言的组合来生成可以与现代桌面程序相媲美的具有丰富界面的高交互性的網際網路應用程式](../Page/可擴展標記語言.md "wikilink")。
+是一個[軟體發展套件](https://zh.wikipedia.org/wiki/軟體發展套件 "wikilink")，它使用DHTML，JavaScript，[層疊樣式表和](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")[可擴展標記語言的组合来生成可以与现代桌面程序相媲美的具有丰富界面的高交互性的網際網路應用程式](https://zh.wikipedia.org/wiki/可擴展標記語言 "wikilink")。
 
-Bindows 框架基于动态[超文件標示語言](../Page/超文件標示語言.md "wikilink")，编程语言使用
+Bindows
+框架基于动态[超文件標示語言](https://zh.wikipedia.org/wiki/超文件標示語言 "wikilink")，编程语言使用
 [JavaScript](../Page/JavaScript.md "wikilink")。当 web
 应用程序运行时，脚本将以一种被称为应用程序描述文件（ADF）的可擴展標記語言格式从服务器端下载，并在客户端执行。
 
@@ -9,8 +10,8 @@ Bindows 框架基于动态[超文件標示語言](../Page/超文件標示語言.
 对象模型](../Page/文档对象模型.md "wikilink")。类名以“Bi”开始，例如
 BiObject，BiRadioButton 等。Bindows 的名字来自
 [商业智能](../Page/商业智能.md "wikilink") (BI) 和
-[视窗](../Page/视窗.md "wikilink") 的组合，BI 是负责创建这个框架的 MB
-科技有限公司的一个兴趣点。
+[视窗](https://zh.wikipedia.org/wiki/视窗 "wikilink") 的组合，BI 是负责创建这个框架的
+MB 科技有限公司的一个兴趣点。
 
 Bindows 应用程序不依赖于：
 

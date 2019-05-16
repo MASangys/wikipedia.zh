@@ -1,12 +1,12 @@
 [TempEngXslt015.svg](https://zh.wikipedia.org/wiki/File:TempEngXslt015.svg "fig:TempEngXslt015.svg")
 
-在[计算机科学中](../Page/计算机科学.md "wikilink")，**可扩展样式-{表}-转换语言**（，[缩写](../Page/缩写.md "wikilink")）是一种樣式轉換標記语言，可以將[XML資料檔轉換為另外的XML或其它格式](../Page/XML.md "wikilink")，如HTML網頁，純文字。XSLT最末的T字母表示英语中的“转换”（transformation）。它是[XSL规范中的一部份](../Page/XSL.md "wikilink")，目前最新的建議版本為XSL
+在[计算机科学中](../Page/计算机科学.md "wikilink")，**可扩展样式-{表}-转换语言**（，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")）是一种樣式轉換標記语言，可以將[XML資料檔轉換為另外的XML或其它格式](../Page/XML.md "wikilink")，如HTML網頁，純文字。XSLT最末的T字母表示英语中的“转换”（transformation）。它是[XSL规范中的一部份](https://zh.wikipedia.org/wiki/XSL "wikilink")，目前最新的建議版本為XSL
 3.0。
 
 以XSLT進行格式轉換並不會變動原始的資料文件；而會以現有資料產生新的內容格式。作為輸入的通常是XML資料檔，或者由支援XQuery和XPath的資料模型處理器，其它來源的資料也能被轉換，例如關聯式資料庫表格或地理資訊系統。
 
 XSL规范的另外一部分是XSLF（Formatting Objects，代表格式化物件）,又称XSL-FO或XSLFO，目前已逐漸被CSS
-3.0所取代。XSLT是一種[圖靈完備的語言](../Page/圖靈完備性.md "wikilink")，它可以指定計算機能執行的任何計算。
+3.0所取代。XSLT是一種[圖靈完備的語言](https://zh.wikipedia.org/wiki/圖靈完備性 "wikilink")，它可以指定計算機能執行的任何計算。
 
 ## 歷史
 
@@ -93,7 +93,7 @@ XSLT處理器會取用一或多個XML源資料檔，加上一或多個XSLT樣式
 
 ### 效能
 
-早期大多數的XSLT處理器都是直譯器。近來[位元組碼越來越普遍](../Page/字节码.md "wikilink")，使用可移植的[中間語言](../Page/中間語言.md "wikilink")（如[Java位元組碼或](../Page/Java字节码.md "wikilink")[.NET中間語言](../Page/通用中间语言.md "wikilink")）作為目標。然而，即使是直譯器的成品通常也提供單獨的分析和執行階段，允許在記憶體中建立優化的表達式樹，並可重複使用以執行多重轉換。在線上發行應用程序時，這方式有顯著的性能優勢，其中同樣的轉換每秒可多次應用在不同的來源檔之上。這種分離處理反映在XSLT處理器的[應用編程介面](../Page/应用程序接口.md "wikilink")（如JAXP）的設計中。
+早期大多數的XSLT處理器都是直譯器。近來[位元組碼越來越普遍](https://zh.wikipedia.org/wiki/字节码 "wikilink")，使用可移植的[中間語言](../Page/中間語言.md "wikilink")（如[Java位元組碼或](../Page/Java字节码.md "wikilink")[.NET中間語言](../Page/通用中间语言.md "wikilink")）作為目標。然而，即使是直譯器的成品通常也提供單獨的分析和執行階段，允許在記憶體中建立優化的表達式樹，並可重複使用以執行多重轉換。在線上發行應用程序時，這方式有顯著的性能優勢，其中同樣的轉換每秒可多次應用在不同的來源檔之上。這種分離處理反映在XSLT處理器的[應用編程介面](../Page/应用程序接口.md "wikilink")（如JAXP）的設計中。
 
 早期XSLT處理器很少被優化過。讀取的樣式表成為[文檔物件模型](../Page/文档对象模型.md "wikilink")，而XSLT處理器會直接對它們產生作用。XPath引擎也沒有被優化過。但是漸增地，XSLT處理器利用了函數式編程和資料庫查詢語言中發現的優化技術，例如表達式樹的靜態重寫（例如，將計算移出迴圈），以及[惰性的串流評估來減少過程中所佔記憶體的足跡](../Page/惰性求值.md "wikilink")（允許處理器對子表達式求值時，“提早退出”而不必執行全部，例如`following-sibling::*[1]`）。許多處理器還使用比一般DOM實作更有效率（在空間和時間上）的樹表達式。
 
@@ -113,7 +113,7 @@ XSLT與XQuery的功能之間有互相重疊的部份，XQuery最初被認為是�
 1.0標準是由W3C內的不同工作群組開發的，它們彼此合作以確保處理作法可以共通地適用。它們都使用相同的資料模型，型別系統和函數庫，並且都包括了XPath
 2.0作為子語言。
 
-但這兩種語言因服務於不同社群的需求，而根植於不同的傳統上。XSLT主要被認為是一種樣式語言，主要目標是在網路（當作網頁模板）、在螢幕或紙張，呈現給人類讀者觀看的XML。而XQuery則類比為傳統中的[資料庫查詢語言](../Page/SQL.md "wikilink")。因為這兩種語言起源於不同的社群，XSLT偏重於處理彈性的敘述式資料應用上，而XQuery則偏重在資料處理方面，例如執行[關係聯結的操作](../Page/关系代数_\(数据库\).md "wikilink")。
+但這兩種語言因服務於不同社群的需求，而根植於不同的傳統上。XSLT主要被認為是一種樣式語言，主要目標是在網路（當作網頁模板）、在螢幕或紙張，呈現給人類讀者觀看的XML。而XQuery則類比為傳統中的[資料庫查詢語言](../Page/SQL.md "wikilink")。因為這兩種語言起源於不同的社群，XSLT偏重於處理彈性的敘述式資料應用上，而XQuery則偏重在資料處理方面，例如執行[關係聯結的操作](https://zh.wikipedia.org/wiki/关系代数_\(数据库\) "wikilink")。
 
 ## 媒體類型
 
@@ -277,9 +277,9 @@ Explorer和MSXML產品中採用這一媒體類型，而其它瀏覽器的xml樣�
 ## 参见
 
   - [XML](../Page/XML.md "wikilink")
-  - [XSL](../Page/XSL.md "wikilink")
+  - [XSL](https://zh.wikipedia.org/wiki/XSL "wikilink")
   - [XPath](../Page/XPath.md "wikilink")
-  - [XSLF](../Page/XSLF.md "wikilink")
+  - [XSLF](https://zh.wikipedia.org/wiki/XSLF "wikilink")
 
 {{-}}
 

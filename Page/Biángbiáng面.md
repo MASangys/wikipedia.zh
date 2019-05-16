@@ -1,23 +1,23 @@
 [Biang_Biang_Mian.jpg](https://zh.wikipedia.org/wiki/File:Biang_Biang_Mian.jpg "fig:Biang_Biang_Mian.jpg")[Biáng_(regular_script).svg](https://zh.wikipedia.org/wiki/File:Biáng_\(regular_script\).svg "fig:Biáng_(regular_script).svg")
-**面**（[拼音](../Page/汉语拼音.md "wikilink")：，[注音符號](../Page/注音符號.md "wikilink")：，[国际音标](../Page/國際音標.md "wikilink")：；亦称“**儿面**”，“”字有多种写法，均无法输入电脑，常被代替写为[拼音](../Page/汉语拼音.md "wikilink")：「**BiángBiáng面**」、「**biángbiáng面**」或「**彪彪面**」、「**冰冰面**」），为流行于[陕西](../Page/陕西省.md "wikilink")[关中地区的一种知名传统风味](../Page/渭河平原.md "wikilink")[面食](../Page/麵食.md "wikilink")，属于[扯面](../Page/扯面.md "wikilink")，通过揉、抻、甩、扯等步骤制作，面宽而厚，犹如“裤腰带”，口感劲道，食用前加入各色[臊子或](../Page/臊子.md "wikilink")[油泼辣子](../Page/油辣.md "wikilink")。位居[关中十大怪之首](../Page/关中十大怪.md "wikilink")“扯面像裤带”。
+**面**（[拼音](../Page/汉语拼音.md "wikilink")：，[注音符號](../Page/注音符號.md "wikilink")：，[国际音标](https://zh.wikipedia.org/wiki/國際音標 "wikilink")：；亦称“**儿面**”，“”字有多种写法，均无法输入电脑，常被代替写为[拼音](../Page/汉语拼音.md "wikilink")：「**BiángBiáng面**」、「**biángbiáng面**」或「**彪彪面**」、「**冰冰面**」），为流行于[陕西](../Page/陕西省.md "wikilink")[关中地区的一种知名传统风味](../Page/渭河平原.md "wikilink")[面食](https://zh.wikipedia.org/wiki/麵食 "wikilink")，属于[扯面](https://zh.wikipedia.org/wiki/扯面 "wikilink")，通过揉、抻、甩、扯等步骤制作，面宽而厚，犹如“裤腰带”，口感劲道，食用前加入各色[臊子或](https://zh.wikipedia.org/wiki/臊子 "wikilink")[油泼辣子](https://zh.wikipedia.org/wiki/油辣 "wikilink")。位居[关中十大怪之首](https://zh.wikipedia.org/wiki/关中十大怪 "wikilink")“扯面像裤带”。
 
 ## 读音与字型
 
 ### 读音来源
 
 [Biáng-rubbings.png](https://zh.wikipedia.org/wiki/File:Biáng-rubbings.png "fig:Biáng-rubbings.png")”字拓片，[小篆体](../Page/小篆.md "wikilink")，年代不详。其写法右侧为“刂”，内含“糸”，“穴”下无“工”或“九”，“心”位于“月”与“刂”之内。\[1\]\]\]
-关于“”一字的读音来源说法较多，民间多流传为[拟声](../Page/拟声词.md "wikilink")。
-有一種解释是[地方话里](../Page/地方话.md "wikilink")“扁扁”的讹音。在西北地区有的地方方言里，韵母“an”(注音:「ㄢ」)和“ang”(注音:「ㄤ」)会互相混淆。“扁扁”的读音会变成“BiángBiang”的声音。在传到他处的过程中，原义被遗忘，中间有人为了扩大销售，特意把它神秘化，创造新字来宣传“地方特色”。
+关于“”一字的读音来源说法较多，民间多流传为[拟声](https://zh.wikipedia.org/wiki/拟声词 "wikilink")。
+有一種解释是[地方话里](https://zh.wikipedia.org/wiki/地方话 "wikilink")“扁扁”的讹音。在西北地区有的地方方言里，韵母“an”(注音:「ㄢ」)和“ang”(注音:「ㄤ」)会互相混淆。“扁扁”的读音会变成“BiángBiang”的声音。在传到他处的过程中，原义被遗忘，中间有人为了扩大销售，特意把它神秘化，创造新字来宣传“地方特色”。
 
 此外，民间有不少的说法。
 
-  - [拟声词](../Page/拟声词.md "wikilink")，制作时擀制和拉扯过程中，面在[案板上发出](../Page/案板.md "wikilink")“BiángBiang”的声音。
-  - [拟声词](../Page/拟声词.md "wikilink")，制作时将面下锅，面碰到锅沿，发出“BiángBiang”的声音。
-  - [拟声词](../Page/拟声词.md "wikilink")，制作时将面下锅，面被扔到空中，落入滚烫的水中，发出“BiángBiang”的声音。
-  - [拟声词](../Page/拟声词.md "wikilink")，制作时捞出面和调味搅拌过程中，发出“BiángBiang”的声音。
-  - [拟声词](../Page/拟声词.md "wikilink")，吃面时，嘴巴嚼面，发出“BiángBiang”的声音。
-  - [拟声词](../Page/拟声词.md "wikilink")，源于古代妇女洗衣服时用[棒槌捶打衣服的声音](../Page/棒槌.md "wikilink")，[秦代原始制作](../Page/秦朝.md "wikilink")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面时，如同捶打衣服一样，用[棒槌捶打面团](../Page/棒槌.md "wikilink")，发出“BiángBiáng”的声音。\[2\]
-  - “饼”字演化，[秦腔剧作家](../Page/秦腔.md "wikilink")[范紫东](../Page/范紫东.md "wikilink")、语言学家[郭芹纳等人认为该字来源于古文献中经常出现的](../Page/郭芹纳.md "wikilink")“饼”字，为“饼饼面”的语音[儿化音变](../Page/儿化.md "wikilink")。\[3\]\[4\]
+  - [拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，制作时擀制和拉扯过程中，面在[案板上发出](https://zh.wikipedia.org/wiki/案板 "wikilink")“BiángBiang”的声音。
+  - [拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，制作时将面下锅，面碰到锅沿，发出“BiángBiang”的声音。
+  - [拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，制作时将面下锅，面被扔到空中，落入滚烫的水中，发出“BiángBiang”的声音。
+  - [拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，制作时捞出面和调味搅拌过程中，发出“BiángBiang”的声音。
+  - [拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，吃面时，嘴巴嚼面，发出“BiángBiang”的声音。
+  - [拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，源于古代妇女洗衣服时用[棒槌捶打衣服的声音](https://zh.wikipedia.org/wiki/棒槌 "wikilink")，[秦代原始制作](../Page/秦朝.md "wikilink")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面时，如同捶打衣服一样，用[棒槌捶打面团](https://zh.wikipedia.org/wiki/棒槌 "wikilink")，发出“BiángBiáng”的声音。\[2\]
+  - “饼”字演化，[秦腔剧作家](../Page/秦腔.md "wikilink")[范紫东](https://zh.wikipedia.org/wiki/范紫东 "wikilink")、语言学家[郭芹纳等人认为该字来源于古文献中经常出现的](https://zh.wikipedia.org/wiki/郭芹纳 "wikilink")“饼”字，为“饼饼面”的语音[儿化音变](https://zh.wikipedia.org/wiki/儿化 "wikilink")。\[3\]\[4\]
 
 ### 字型与歌谣
 
@@ -27,9 +27,9 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 
 面在[陕西关中地区广泛流传](../Page/陕西省.md "wikilink")，各地“”传统写法并非完全相同，衍生出十余种写法。各种写法[笔画不一样](../Page/笔画.md "wikilink")，最少的54画，最多的有71画以上。\[6\]对应“”字，民间流传有歌谣对应写法，但各地亦流传有不同版本。
 
-以[汉代](../Page/汉朝.md "wikilink")[许慎](../Page/許慎.md "wikilink")“[六书](../Page/六書.md "wikilink")”理论而言，“”字属于[会意造字](../Page/会意.md "wikilink")。
+以[汉代](https://zh.wikipedia.org/wiki/汉朝 "wikilink")[许慎](../Page/許慎.md "wikilink")“[六书](../Page/六書.md "wikilink")”理论而言，“”字属于[会意造字](https://zh.wikipedia.org/wiki/会意 "wikilink")。
 
-此外，[关中也有少数将其写为](../Page/渭河平原.md "wikilink")“奤”字，显然是[会意面条宽大](../Page/会意.md "wikilink")，而发音一致为“biáng”。\[7\]
+此外，[关中也有少数将其写为](../Page/渭河平原.md "wikilink")“奤”字，显然是[会意面条宽大](https://zh.wikipedia.org/wiki/会意 "wikilink")，而发音一致为“biáng”。\[7\]
 
 <table>
 <thead>
@@ -145,7 +145,7 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 <td><p>59画</p></td>
 <td><p>⿺⻍⿳⿳宀八工⿲月⿱⿲幺言幺⿲-{馬}--{長}--{長}-刂心</p></td>
 <td><p>同上[11]</p></td>
-<td><p><a href="../Page/西安市.md" title="wikilink">西安</a>、<a href="../Page/藍田.md" title="wikilink">藍田縣一带最常见</a></p></td>
+<td><p><a href="../Page/西安市.md" title="wikilink">西安</a>、<a href="https://zh.wikipedia.org/wiki/藍田" title="wikilink">藍田縣一带最常见</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v4.svg" title="fig:Biáng-v4.svg">Biáng-v4.svg</a></p></td>
@@ -156,7 +156,7 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 </tr>
 <tr class="odd">
 <td><p>……黄河两岸边……心肚底，月肚旁，留下钩搭儿挂衣裳……[13]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县</a><a href="../Page/祖庵镇.md" title="wikilink">祖庵镇一带</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县</a><a href="https://zh.wikipedia.org/wiki/祖庵镇" title="wikilink">祖庵镇一带</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -166,49 +166,49 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 <td><p>60画</p></td>
 <td><p>⿺辶⿳⿱宀八⿰月⿱⿲糸言糸⿲-{馬}--{長}--{長}-心</p></td>
 <td><p>一点儿上了天[14]，黄河两道弯，八字大张口，言字往进走；你一扭，我一扭，一下扭咧六点儿六；你一长[15]，我一长，当中儿夹个马大王；心字底，月字帮，坐个车车儿逛咸阳[16]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县最常见</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县最常见</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v3.svg" title="fig:Biáng-v3.svg">Biáng-v3.svg</a></p></td>
 <td><p>56画</p></td>
 <td><p>⿳⿱宀八⿲月⿱⿲幺言幺⿲-{馬}--{長}--{長}-戈心</p></td>
 <td><p>（同上）……拿个钩搭儿挂麻糖。[17]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县次常见</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县次常见</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v5.svg" title="fig:Biáng-v5.svg">Biáng-v5.svg</a></p></td>
 <td><p>62画</p></td>
 <td><p>⿺辶⿳⿱宀八⿲月⿱⿲糸言糸⿲-{馬}--{長}--{長}-<a href="../Page/注音符號.md" title="wikilink">ㄘ心</a></p></td>
 <td><p>一点儿上了天，黄河两大弯；八字大张口，你一扭，我一扭，言字往进走；你一长[18]，我一长，中间夹个马二郎，心肚底，月肚旁，揳个橛橛（小橛）挂衣裳，坐个车车儿游咸阳。[19]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县西南部白庙一带</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县西南部白庙一带</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v6.svg" title="fig:Biáng-v6.svg">Biáng-v6.svg</a></p></td>
 <td><p>66画</p></td>
 <td><p>⿺辶⿳⿻山⿰日日⿰月⿱⿲糸言糸⿲-{馬}--{長}--{長}-心</p></td>
 <td><p>高高山上两个日，言字两边都有丝；……心肚底，月肚旁，坐个车车儿游咸阳。[20]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县西南部白庙一带</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县西南部白庙一带</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v7.svg" title="fig:Biáng-v7.svg">Biáng-v7.svg</a></p></td>
 <td><p>66画</p></td>
 <td><p>⿺⻍⿳⿳宀八九⿲月⿱⿲糸言糸⿲-{馬}--{長}--{長}-刂心</p></td>
 <td><p>一点戳上天，黄河两岸弯；八字大张口，九字往进走；你一丝，我一丝，当中加个言进士；你一长，我一长，当中加个马二郎；心字底，月字帮，丢个钩搭儿挂麻糖，坐个车车儿上咸阳[21]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县</a><a href="../Page/渭丰乡.md" title="wikilink">渭丰乡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县</a><a href="https://zh.wikipedia.org/wiki/渭丰乡" title="wikilink">渭丰乡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v8.svg" title="fig:Biáng-v8.svg">Biáng-v8.svg</a></p></td>
 <td><p>66画</p></td>
 <td><p>⿺⻍⿳⿳宀八九⿲月⿱⿲糸言糸⿲-{馬}--{長}--{長}-丁心</p></td>
 <td><p>同上 [22]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县</a><a href="../Page/渭丰乡.md" title="wikilink">渭丰乡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县</a><a href="https://zh.wikipedia.org/wiki/渭丰乡" title="wikilink">渭丰乡</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v9.svg" title="fig:Biáng-v9.svg">Biáng-v9.svg</a></p></td>
 <td><p>67画</p></td>
 <td><p>⿺⻍⿳⿳宀八九⿲月⿱⿲糸言糸⿲-{馬}--{長}--{長}-寸心</p></td>
 <td><p>同上[23]</p></td>
-<td><p><a href="../Page/户县.md" title="wikilink">户县</a><a href="../Page/渭丰乡.md" title="wikilink">渭丰乡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/户县" title="wikilink">户县</a><a href="https://zh.wikipedia.org/wiki/渭丰乡" title="wikilink">渭丰乡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v10.svg" title="fig:Biáng-v10.svg">Biáng-v10.svg</a></p></td>
@@ -229,7 +229,7 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 <td><p>70画</p></td>
 <td><p>⿺⻍⿳⿳宀八王⿲月⿱⿲糸言糸⿲-{馬}--{長}--{長}-戈心</p></td>
 <td><p>……王字往进走…… [26]</p></td>
-<td><p><a href="../Page/泾阳县.md" title="wikilink">泾阳</a> 一带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泾阳县" title="wikilink">泾阳</a> 一带</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng-v14.svg" title="fig:Biáng-v14.svg">Biáng-v14.svg</a></p></td>
@@ -279,24 +279,24 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 
 有说法称，“”字各部分表示了做面过程。\[34\]
 
-  - “穴”字型，指[搋面](../Page/搋面.md "wikilink")\[35\]，为一种[和面方式](../Page/和面.md "wikilink")，常用瓷盆。
-  - “言”字型，即“[盐](../Page/食盐.md "wikilink")”，[同音互训](../Page/同音互训.md "wikilink")，指[和面过程中需要用盐](../Page/和面.md "wikilink")，盐是必不可少的[调味品](../Page/调味料.md "wikilink")。\[36\]
-  - “九”字型（部分写法），即“久”，[同音互训](../Page/同音互训.md "wikilink")，指搋后的面需久放至少半天，成为“[渥面](../Page/渥面.md "wikilink")”。
+  - “穴”字型，指[搋面](https://zh.wikipedia.org/wiki/搋面 "wikilink")\[35\]，为一种[和面方式](https://zh.wikipedia.org/wiki/和面 "wikilink")，常用瓷盆。
+  - “言”字型，即“[盐](https://zh.wikipedia.org/wiki/食盐 "wikilink")”，[同音互训](https://zh.wikipedia.org/wiki/同音互训 "wikilink")，指[和面过程中需要用盐](https://zh.wikipedia.org/wiki/和面 "wikilink")，盐是必不可少的[调味品](../Page/调味料.md "wikilink")。\[36\]
+  - “九”字型（部分写法），即“久”，[同音互训](https://zh.wikipedia.org/wiki/同音互训 "wikilink")，指搋后的面需久放至少半天，成为“[渥面](https://zh.wikipedia.org/wiki/渥面 "wikilink")”。
   - “幺”或“糸”字型，即“绞”，指搋后的面团需要反复揉捏，才能筋道。
   - “工”字型（部分写法），指“工夫”或“功夫”，指制作过程中所花费工夫。
   - “马”字型，代指“一马平川”，指[面条十分宽](../Page/面条.md "wikilink")，犹如裤带。
   - “长”字型，指[面条不仅宽](../Page/面条.md "wikilink")，而且长。
-  - “月”字型，即“[肉](../Page/肉.md "wikilink")”，面中可放入肉进行调味。
-  - “刂”、“戈”、“寸”、“丁”等字型，指用[菜刀剺](../Page/菜刀.md "wikilink")，可特指关中地区的[切面刀](../Page/切面刀.md "wikilink")。
+  - “月”字型，即“[肉](https://zh.wikipedia.org/wiki/肉 "wikilink")”，面中可放入肉进行调味。
+  - “刂”、“戈”、“寸”、“丁”等字型，指用[菜刀剺](../Page/菜刀.md "wikilink")，可特指关中地区的[切面刀](https://zh.wikipedia.org/wiki/切面刀 "wikilink")。
   - “心”字型，指一心一意、专心致志。
   - “辶”字型，即“噦”，即“车车儿”，古[咸阳的一种常见车辆](../Page/咸阳市.md "wikilink")。
 
 #### 秦人文化构造字型
 
-[陕西国际商贸学院教授](../Page/陕西国际商贸学院.md "wikilink")[傅功振称](../Page/傅功振.md "wikilink")，“”字各部分表示了秦人文化元素。\[37\]\[38\]
+[陕西国际商贸学院教授](https://zh.wikipedia.org/wiki/陕西国际商贸学院 "wikilink")[傅功振称](https://zh.wikipedia.org/wiki/傅功振 "wikilink")，“”字各部分表示了秦人文化元素。\[37\]\[38\]
 
-  - “穴”字型，指[渭河流域的秦人](../Page/渭河流域.md "wikilink")，古代[穴居](../Page/穴居.md "wikilink")。
-  - “言”字型，指“[盐](../Page/食盐.md "wikilink")”，为百味之祖，秦人饮食重要[调料](../Page/调料.md "wikilink")。
+  - “穴”字型，指[渭河流域的秦人](https://zh.wikipedia.org/wiki/渭河流域 "wikilink")，古代[穴居](https://zh.wikipedia.org/wiki/穴居 "wikilink")。
+  - “言”字型，指“[盐](https://zh.wikipedia.org/wiki/食盐 "wikilink")”，为百味之祖，秦人饮食重要[调料](https://zh.wikipedia.org/wiki/调料 "wikilink")。
   - “糸”和“长”字型，体现秦人制作此面过程中的动作和品尝喜悦。
   - “心”字型，体现秦人忠厚朴鲁、诚信热忱的性情。
   - “月”字型，通“肉”，指驃悍的秦人喜爱食肉，秦人为“虎狼之师”。
@@ -306,20 +306,20 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 
 #### 车夫形象构造歌谣
 
-陕西民俗学会理事[靳应禄称](../Page/靳应禄.md "wikilink")，“”字表示推[独轮车卖面车夫的形象](../Page/独轮车.md "wikilink")。\[39\][户县](../Page/户县.md "wikilink")[大王镇](../Page/大王镇_\(户县\).md "wikilink")[康王村有老人说](../Page/康王村.md "wikilink")，“”字就产生于康王村一带，与过去的地轱辘车有关。\[40\]
+陕西民俗学会理事[靳应禄称](https://zh.wikipedia.org/wiki/靳应禄 "wikilink")，“”字表示推[独轮车卖面车夫的形象](https://zh.wikipedia.org/wiki/独轮车 "wikilink")。\[39\][户县](https://zh.wikipedia.org/wiki/户县 "wikilink")[大王镇](https://zh.wikipedia.org/wiki/大王镇_\(户县\) "wikilink")[康王村有老人说](https://zh.wikipedia.org/wiki/康王村 "wikilink")，“”字就产生于康王村一带，与过去的地轱辘车有关。\[40\]
 
   - “一点撩上天”，指卖面车夫的草帽。
   - “留个钩搭挂麻糖”，指挂的麻糖。
   - “东一扭，西一扭”，指推车走路时左右扭动以保持平衡。
   - “左一长，右一长”，指车帮上搭着的长面袋子。
   - “马”字和“穴”字，分别代表了[男](../Page/男性.md "wikilink")、[女](../Page/女性.md "wikilink")。
-  - 发音“Biáng”可形容[饥饿时吃面](../Page/饥饿.md "wikilink")，嘴中所发声音，同时暗指[男女之事](../Page/性交.md "wikilink")，将[食色性聚集一体](../Page/食色性.md "wikilink")，体现百姓最淳朴的人生追求。
+  - 发音“Biáng”可形容[饥饿时吃面](../Page/饥饿.md "wikilink")，嘴中所发声音，同时暗指[男女之事](../Page/性交.md "wikilink")，将[食色性聚集一体](https://zh.wikipedia.org/wiki/食色性 "wikilink")，体现百姓最淳朴的人生追求。
 
 #### 其他说法
 
 [咸阳市有研究者认为](../Page/咸阳市.md "wikilink")字歌谣是[秦始皇大军的](../Page/秦始皇.md "wikilink")“军歌”，借以展现虎狼之师的魄力。
 
-也有说法认为，此歌谣为[秦国招贤令](../Page/秦国.md "wikilink")，招揽六国贤士归秦。\[41\]
+也有说法认为，此歌谣为[秦国招贤令](https://zh.wikipedia.org/wiki/秦国 "wikilink")，招揽六国贤士归秦。\[41\]
 
 ### 造字传说与研究
 
@@ -344,69 +344,69 @@ biang的笔画数：宀（3）八（2）馬（10）長（8）長（8）月（4�
 
 居住[咸阳的](../Page/咸阳市.md "wikilink")[秦始皇日夜操劳国事](../Page/秦始皇.md "wikilink")，厌倦了山珍海味，没有食欲。一名[宦官前往街上买了碗](../Page/宦官.md "wikilink")“面”送上，让秦始皇胃口大开。秦始皇问：“这是何物？竟比山珍海味还味美上口。”，[宦官答](../Page/宦官.md "wikilink")：“面。”
 
-秦始皇将其视为“[御用](../Page/御用.md "wikilink")”面食，不能让平民随意吃到，故御赐复杂字型，令百姓无法写出。\[43\]
+秦始皇将其视为“[御用](https://zh.wikipedia.org/wiki/御用 "wikilink")”面食，不能让平民随意吃到，故御赐复杂字型，令百姓无法写出。\[43\]
 
 一说，有诗曰：“推車咸陽街頭轉，遇見官府老爺漢，稟告君王好禦膳，君王知曉要接見，端來一碗面”
 秦始皇十分喜爱此面，高呼“保我大秦江山！”为鼓舞民心、号召保卫祖国，御笔写下此字。\[44\]
 
 #### 清初[洪帮图符研究](../Page/洪门.md "wikilink")
 
-流传于[四川盆地的两个妇孺皆知的复杂汉字](../Page/四川盆地.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”和“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”，其内部结构与“”字十分类似。类似结构的汉字流传于10多个省市，300多年来均有出现，却仅限民间相传，从无传统[典籍收录](../Page/典籍.md "wikilink")。
+流传于[四川盆地的两个妇孺皆知的复杂汉字](../Page/四川盆地.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”和“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”，其内部结构与“”字十分类似。类似结构的汉字流传于10多个省市，300多年来均有出现，却仅限民间相传，从无传统[典籍收录](https://zh.wikipedia.org/wiki/典籍 "wikilink")。
 
 [重庆一带的](../Page/重庆市.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”字和[四川一带的](../Page/四川省.md "wikilink")“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”字，均念为“
 zuí
-”，即当地[方言中的](../Page/方言.md "wikilink")“贼”，意指[强盗](../Page/强盗.md "wikilink")。为了方便记忆，它们同样也有歌谣对应\[45\]\[46\]\[47\]，在当地乡村中人人均能背诵。\[48\]\[49\]
+”，即当地[方言中的](../Page/方言.md "wikilink")“贼”，意指[强盗](https://zh.wikipedia.org/wiki/强盗 "wikilink")。为了方便记忆，它们同样也有歌谣对应\[45\]\[46\]\[47\]，在当地乡村中人人均能背诵。\[48\]\[49\]
 
-有观点认为，这些汉字与清初[东南沿海地区刚刚兴起的](../Page/中国东部经济区.md "wikilink")[洪帮图符十分类似](../Page/洪门.md "wikilink")，可能为洪帮[隐语秘符](../Page/黑话.md "wikilink")，由于洪帮各派系从南至北扩展传播，而将该图符传播各地，尤其是[四川盆地](../Page/四川盆地.md "wikilink")，演化为汉字。\[50\]
+有观点认为，这些汉字与清初[东南沿海地区刚刚兴起的](https://zh.wikipedia.org/wiki/中国东部经济区 "wikilink")[洪帮图符十分类似](../Page/洪门.md "wikilink")，可能为洪帮[隐语秘符](../Page/黑话.md "wikilink")，由于洪帮各派系从南至北扩展传播，而将该图符传播各地，尤其是[四川盆地](../Page/四川盆地.md "wikilink")，演化为汉字。\[50\]
 
 [图符-洪帮初期开香堂.jpg](https://zh.wikipedia.org/wiki/File:图符-洪帮初期开香堂.jpg "fig:图符-洪帮初期开香堂.jpg")开香堂所挂图符\]\]
-现存资料中显示，[洪帮兴起初期](../Page/洪门.md "wikilink")，东南沿海一带的[开香堂布置中有图符与](../Page/开香堂.md "wikilink")[四川盆地流行的](../Page/四川盆地.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”和“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”两字几乎完全相同。由于洪帮历来多有组装秘字作为[隐语的传统](../Page/黑话.md "wikilink")\[51\]，则可用拆字法解读该图符：\[52\]
+现存资料中显示，[洪帮兴起初期](../Page/洪门.md "wikilink")，东南沿海一带的[开香堂布置中有图符与](https://zh.wikipedia.org/wiki/开香堂 "wikilink")[四川盆地流行的](../Page/四川盆地.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”和“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”两字几乎完全相同。由于洪帮历来多有组装秘字作为[隐语的传统](../Page/黑话.md "wikilink")\[51\]，则可用拆字法解读该图符：\[52\]
 [洪帮初期开香堂.jpg](https://zh.wikipedia.org/wiki/File:洪帮初期开香堂.jpg "fig:洪帮初期开香堂.jpg")开香堂，其右上角挂有图符\[53\]\]\]
 
-  - 上部“亠、二、口、糸、糸”与下部“心”（[小篆体](../Page/小篆.md "wikilink")）构成了[繁体的](../Page/繁体中文.md "wikilink")“-{戀}-”字，指“留恋”\[54\]。
-  - 左右两旁的“月”与“戈”（或“刂”）在图符中原为对称形状，如[新月初升](../Page/新月.md "wikilink")，指“月”\[55\]，[省写代指](../Page/省写.md "wikilink")“[明（朝）](../Page/明朝.md "wikilink")”。
+  - 上部“亠、二、口、糸、糸”与下部“心”（[小篆体](../Page/小篆.md "wikilink")）构成了[繁体的](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")“-{戀}-”字，指“留恋”\[54\]。
+  - 左右两旁的“月”与“戈”（或“刂”）在图符中原为对称形状，如[新月初升](../Page/新月.md "wikilink")，指“月”\[55\]，[省写代指](https://zh.wikipedia.org/wiki/省写 "wikilink")“[明（朝）](../Page/明朝.md "wikilink")”。
   - 中部的“马”、“长”与下-{面}-的“辶”，隐含“一马当先”、“马行千里”、“长途跋涉”之类含义。
 
 因此，图符中可能隐含“**留恋大明，一马当先**”之意。在传播过程中，可能缓慢发生变化，最终演化成为当地民间字符，传播越远，其字型变化可能越大。可以看出，[四川盆地的](../Page/四川盆地.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”和“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”两字省略了“辶”，而[陕西的](../Page/陕西省.md "wikilink")“[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")”字增加了“穴”字头。
 
 ### 辞书收录
 
-  - 传统辞书《[说文解字](../Page/说文解字.md "wikilink")》、《[康熙字典](../Page/康熙字典.md "wikilink")》、《[字汇](../Page/字汇_\(梅膺祚\).md "wikilink")》、《[汉语大字典](../Page/汉语大字典.md "wikilink")》、《[中华字海](../Page/中华字海.md "wikilink")》\[56\]等中，均未收录此字。
-  - 截至[民国年间的各地传统](../Page/民國.md "wikilink")[方志中](../Page/地方志.md "wikilink")，较少涉及民间小吃，尚未发现有关[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面的记载。\[57\]
+  - 传统辞书《[说文解字](../Page/说文解字.md "wikilink")》、《[康熙字典](../Page/康熙字典.md "wikilink")》、《[字汇](https://zh.wikipedia.org/wiki/字汇_\(梅膺祚\) "wikilink")》、《[汉语大字典](../Page/汉语大字典.md "wikilink")》、《[中华字海](../Page/中华字海.md "wikilink")》\[56\]等中，均未收录此字。
+  - 截至[民国年间的各地传统](https://zh.wikipedia.org/wiki/民國 "wikilink")[方志中](../Page/地方志.md "wikilink")，较少涉及民间小吃，尚未发现有关[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面的记载。\[57\]
   - 《都市方言辞典（陕西卷）》\[58\]收录此词条，并详细介绍了相关饮食文化：
 
 ### 电脑输入与显示
 
 #### 在Unicode代码收录
 
-由于这一个汉字在当前Unicode代码-{zh-cn:里;zh-hk:裏;zh-tw:裡;}--{面}-是未收录汉字，但最近被[表意文字小组了解](../Page/表意文字小组.md "wikilink")，预计将收录至[CJK统一汉字扩充G区的版块中](../Page/CJK统一汉字.md "wikilink")。\[59\]
+由于这一个汉字在当前Unicode代码-{zh-cn:里;zh-hk:裏;zh-tw:裡;}--{面}-是未收录汉字，但最近被[表意文字小组了解](https://zh.wikipedia.org/wiki/表意文字小组 "wikilink")，预计将收录至[CJK统一汉字扩充G区的版块中](https://zh.wikipedia.org/wiki/CJK统一汉字 "wikilink")。\[59\]
 \[60\] 。-{zh-tw:正;zh-hk:繁;zh-cn:繁;}-體字的編碼將為 U+30F1D，簡化字編碼將為 U+30F1C。
 
 #### 思源字体的表示
 
 [替代=⿺辶⿳穴⿰月⿰⿲⿱-{幺}-长⿱言马⿱-{幺}-长刂心](https://zh.wikipedia.org/wiki/File:Biáng_Source_Han_Serif.png "fig:替代=⿺辶⿳穴⿰月⿰⿲⿱-{幺}-长⿱言马⿱-{幺}-长刂心")
-[思源宋体和](../Page/思源宋体.md "wikilink")[思源黑体通过组字的特性](../Page/思源黑体.md "wikilink")，可以将“⿺辶⿳穴⿰月⿰⿲⿱-{幺}-长⿱言马⿱-{幺}-长刂心”显示为“”。
+[思源宋体和](https://zh.wikipedia.org/wiki/思源宋体 "wikilink")[思源黑体通过组字的特性](https://zh.wikipedia.org/wiki/思源黑体 "wikilink")，可以将“⿺辶⿳穴⿰月⿰⿲⿱-{幺}-长⿱言马⿱-{幺}-长刂心”显示为“”。
 
 ## 饮食民俗
 
 ### 民间歌谣
 
-有[关中](../Page/渭河平原.md "wikilink")[民谣称](../Page/民歌.md "wikilink")：
-[贾平凹取其含义说](../Page/贾平凹.md "wikilink")：
-这展现了关中刚烈火辣的秦风秦味，以及他们对面和[油泼辣子的热爱](../Page/油辣.md "wikilink")。\[61\]\[62\]
+有[关中](../Page/渭河平原.md "wikilink")[民谣称](https://zh.wikipedia.org/wiki/民歌 "wikilink")：
+ [贾平凹取其含义说](../Page/贾平凹.md "wikilink")：
+这展现了关中刚烈火辣的秦风秦味，以及他们对面和[油泼辣子的热爱](https://zh.wikipedia.org/wiki/油辣 "wikilink")。\[61\]\[62\]
 
 [关中](../Page/渭河平原.md "wikilink")[俗谚称](../Page/谚语.md "wikilink")：
 
-意指过门[媳妇需要打骂以使其听话](../Page/媳妇.md "wikilink")，制作[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面需要反复揉压才能有筋道。\[63\]
+意指过门[媳妇需要打骂以使其听话](https://zh.wikipedia.org/wiki/媳妇 "wikilink")，制作[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面需要反复揉压才能有筋道。\[63\]
 
-[陕西](../Page/陕西省.md "wikilink")[民谣称](../Page/民歌.md "wikilink")：
-意指面和[秦腔对百姓生活的重要性](../Page/秦腔.md "wikilink")。\[64\]
+[陕西](../Page/陕西省.md "wikilink")[民谣称](https://zh.wikipedia.org/wiki/民歌 "wikilink")：
+  意指面和[秦腔对百姓生活的重要性](../Page/秦腔.md "wikilink")。\[64\]
 
 ### 民间传说
 
 #### 康熙皇帝相关传说
 
-相传，[清朝](../Page/清朝.md "wikilink")[康熙皇帝假扮为商人巡查](../Page/康熙.md "wikilink")[西北地区](../Page/西北地区.md "wikilink")，路过[陕西省](../Page/陕西省.md "wikilink")[临潼县](../Page/临潼区.md "wikilink")[鱼池村时](../Page/鱼池村.md "wikilink")，借住于一[房姓人家中](../Page/房姓.md "wikilink")，房家用家常面招待。康熙十分喜欢此面，称赞不已，趁机询问其做法，房家人说：“红嘴绿叶玉石板，金色鱼儿浮水-{面}-，釜中两沸即成餐”，并详细交待了原料、配料和制作方法。康熙回[京后命](../Page/北京市.md "wikilink")[御膳房进行烹制](../Page/御膳房.md "wikilink")，却制作失败，故诏令房氏进京为其做面。为表感谢，皇帝恩准鱼池村不必纳粮。此面也因此名震天下。\[65\]
+相传，[清朝](../Page/清朝.md "wikilink")[康熙皇帝假扮为商人巡查](../Page/康熙.md "wikilink")[西北地区](https://zh.wikipedia.org/wiki/西北地区 "wikilink")，路过[陕西省](../Page/陕西省.md "wikilink")[临潼县](../Page/临潼区.md "wikilink")[鱼池村时](https://zh.wikipedia.org/wiki/鱼池村 "wikilink")，借住于一[房姓人家中](https://zh.wikipedia.org/wiki/房姓 "wikilink")，房家用家常面招待。康熙十分喜欢此面，称赞不已，趁机询问其做法，房家人说：“红嘴绿叶玉石板，金色鱼儿浮水-{面}-，釜中两沸即成餐”，并详细交待了原料、配料和制作方法。康熙回[京后命](../Page/北京市.md "wikilink")[御膳房进行烹制](https://zh.wikipedia.org/wiki/御膳房 "wikilink")，却制作失败，故诏令房氏进京为其做面。为表感谢，皇帝恩准鱼池村不必纳粮。此面也因此名震天下。\[65\]
 
 ## 市场与文化推广
 
@@ -416,9 +416,9 @@ zuí
 近年来，一家名为“Noodle
 King”的面连锁店在[西安以及其他城市开设众多分店](../Page/西安市.md "wikilink")，注册商标，将面品牌化运营。
 
-2003年12月，西安眼镜山野人家的眼镜山野面被[中国烹饪协会认定为第三届](../Page/中国烹饪协会.md "wikilink")“[中华名小吃](../Page/中华名小吃.md "wikilink")”。\[66\]
+2003年12月，西安眼镜山野人家的眼镜山野面被[中国烹饪协会认定为第三届](https://zh.wikipedia.org/wiki/中国烹饪协会 "wikilink")“[中华名小吃](https://zh.wikipedia.org/wiki/中华名小吃 "wikilink")”。\[66\]
 
-作为[陕西面食的代表之一](../Page/陕西省.md "wikilink")，加之独一无二的读音与字型，面-{}-包含有丰富而独特的民俗文化。2009年10月，[西安市非物质文化遗产保护中心在](../Page/西安市非物质文化遗产保护中心.md "wikilink")面故乡的[户县](../Page/户县.md "wikilink")[康王村组织了](../Page/康王村.md "wikilink")面“老碗会”，当地村民希望将此面制作技艺申报[非物质文化遗产](../Page/非物质文化遗产.md "wikilink")，还可打造专营面的餐饮旅游村。\[67\]
+作为[陕西面食的代表之一](../Page/陕西省.md "wikilink")，加之独一无二的读音与字型，面-{}-包含有丰富而独特的民俗文化。2009年10月，[西安市非物质文化遗产保护中心在](https://zh.wikipedia.org/wiki/西安市非物质文化遗产保护中心 "wikilink")面故乡的[户县](https://zh.wikipedia.org/wiki/户县 "wikilink")[康王村组织了](https://zh.wikipedia.org/wiki/康王村 "wikilink")面“老碗会”，当地村民希望将此面制作技艺申报[非物质文化遗产](../Page/非物质文化遗产.md "wikilink")，还可打造专营面的餐饮旅游村。\[67\]
 
 ## 注释
 

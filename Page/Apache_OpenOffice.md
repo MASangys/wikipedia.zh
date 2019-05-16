@@ -1,29 +1,31 @@
 **Apache
 OpenOffice**，又稱**OpenOffice**、**AOO**，是[OpenOffice.org的後續版本之一](../Page/OpenOffice.org.md "wikilink")，並在設計上繼承[IBM
-Lotus Symphony](../Page/IBM_Lotus_Symphony.md "wikilink")。\[1\] Apache
-OpenOffice是一套[開放源代碼的](../Page/開放源代碼.md "wikilink")[辦公室軟體](../Page/辦公室軟體.md "wikilink")，可以在多種[作業系統上運作](../Page/作業系統.md "wikilink")。預設的文件交換格式是為[ISO標準的](../Page/ISO.md "wikilink")[開放文件格式](../Page/開放文件格式.md "wikilink")（[ODF](../Page/ODF.md "wikilink")，OpenDocument
+Lotus
+Symphony](https://zh.wikipedia.org/wiki/IBM_Lotus_Symphony "wikilink")。\[1\]
+Apache
+OpenOffice是一套[開放源代碼的](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")[辦公室軟體](https://zh.wikipedia.org/wiki/辦公室軟體 "wikilink")，可以在多種[作業系統上運作](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。預設的文件交換格式是為[ISO標準的](https://zh.wikipedia.org/wiki/ISO "wikilink")[開放文件格式](https://zh.wikipedia.org/wiki/開放文件格式 "wikilink")（[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")，OpenDocument
 Format）。2016年9月，Apache OpenOffice專案指出，因缺乏足夠的人力維護，考慮關閉OpenOffice專案\[2\]。
 
 ## 歷史
 
-2010年1月，[Oracle宣佈併購Sun之後](../Page/Oracle.md "wikilink")，OpenOffice.org面臨根本上的動搖。2010年9月28日，有一些原本參與OpenOffice.org專案的成員成立一個叫做[The
+2010年1月，[Oracle宣佈併購Sun之後](https://zh.wikipedia.org/wiki/Oracle "wikilink")，OpenOffice.org面臨根本上的動搖。2010年9月28日，有一些原本參與OpenOffice.org專案的成員成立一個叫做[The
 Document
-Foundation](../Page/The_Document_Foundation.md "wikilink")（簡稱TDF，下同）的新團隊，建立基於OpenOffice.org
-3.3的分支版本－[LibreOffice](../Page/LibreOffice.md "wikilink")
+Foundation](https://zh.wikipedia.org/wiki/The_Document_Foundation "wikilink")（簡稱TDF，下同）的新團隊，建立基於OpenOffice.org
+3.3的分支版本－[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
 3.3。而在2010年10月14日，Oracle要求同時具有TDF成員身份的OpenOffice.org開發者離職，理由是TDF和Oracle有[利益衝突](../Page/利益衝突.md "wikilink")\[3\]\[4\]。
 
 2011年4月15日，Oracle證實將“把OpenOffice.org完全社群化”成為一個完全由社群維護、管理的軟體，並且停售包含技術支援的商業版本，此舉視同Oracle放棄了OpenOffice.org的發展\[5\]\[6\]\[7\]。
 
-2011年6月，Oracle宣布将OpenOffice.org捐赠给[Apache軟體基金会](../Page/Apache軟體基金会.md "wikilink")，未来OpenOffice.org的发展将由Apache軟體基金会主导\[8\]\[9\]\[10\]。
+2011年6月，Oracle宣布将OpenOffice.org捐赠给[Apache軟體基金会](https://zh.wikipedia.org/wiki/Apache軟體基金会 "wikilink")，未来OpenOffice.org的发展将由Apache軟體基金会主导\[8\]\[9\]\[10\]。
 
 該專案於2011年7月13日被[Apache
-Incubator接收](../Page/Apache_Incubator.md "wikilink")，\[11\]Oracle源碼於2011年8月29日被匯入，\[12\]2012年5月8日發佈Apache
+Incubator接收](https://zh.wikipedia.org/wiki/Apache_Incubator "wikilink")，\[11\]Oracle源碼於2011年8月29日被匯入，\[12\]2012年5月8日發佈Apache
 OpenOffice 3.4版， 而且Apache
 OpenOffice於2012年10月18日成為Apache頂級專案。\[13\]\[14\]\[15\]
 
 IBM於2012年捐贈[Lotus
-Symphony源碼給Apache軟體基金會](../Page/IBM_Lotus_Symphony.md "wikilink")，Symphony被停止開發以支援Apache
-OpenOffice。\[16\]多數特性包括bug修正及重做的側邊欄被並入其中。\[17\]來自Symphony的[IAccessible2螢幕閲讀支援加入到AOO](../Page/IAccessible2.md "wikilink")
+Symphony源碼給Apache軟體基金會](https://zh.wikipedia.org/wiki/IBM_Lotus_Symphony "wikilink")，Symphony被停止開發以支援Apache
+OpenOffice。\[16\]多數特性包括bug修正及重做的側邊欄被並入其中。\[17\]來自Symphony的[IAccessible2螢幕閲讀支援加入到AOO](https://zh.wikipedia.org/wiki/IAccessible2 "wikilink")
 4.1\[18\]（2014年4月），即使其最先在開源軟體釋出版本中出現是作為2014年1月的LibreOffice
 4.2的一部分。\[19\]IBM隨著AOO 4.1.1的釋出而退出了官方的參與。\[20\]
 
@@ -33,7 +35,7 @@ Hamilton因缺乏足夠的人力維護，向專案成員發出電子郵件提議
 ## 概覽
 
 Apache OpenOffice集合了密切協同工作的不同程序，來提供一個現代辦公套件需要的功能。其中很多在設計上仿照Microsoft
-Office，但兩者多數格式（如[數學公式](../Page/數學公式.md "wikilink")）並不兼容。組件主要包括：
+Office，但兩者多數格式（如[數學公式](https://zh.wikipedia.org/wiki/數學公式 "wikilink")）並不兼容。組件主要包括：
 
 | 組件                                                                                                              | 説明            |
 | --------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -203,27 +205,28 @@ NeoOffice在開發過程中接受部分來自Apache OpenOffice的改進，即使
 
 ## 支援的作業系統
 
-Apache OpenOffice 4.1.0支援[x86版本的](../Page/x86.md "wikilink")[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")
-XP及更新版本、[Linux](../Page/Linux.md "wikilink")（32位元和64位元）、[Mac
-OS X](../Page/MacOS.md "wikilink") 10.7或者更新版本。\[22\]
+Apache OpenOffice
+4.1.0支援[x86版本的](https://zh.wikipedia.org/wiki/x86 "wikilink")[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+XP及更新版本、[Linux](../Page/Linux.md "wikilink")（32位元和64位元）、[Mac OS
+X](../Page/MacOS.md "wikilink") 10.7或者更新版本。\[22\]
 
-其他作業系統通過社群的移植得到支援；3.4.1版本的完整移植包含了其他多個Linux平臺、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OS/2和](../Page/OS/2.md "wikilink")[Solaris](../Page/Solaris.md "wikilink")
+其他作業系統通過社群的移植得到支援；3.4.1版本的完整移植包含了其他多個Linux平臺、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Solaris](../Page/Solaris.md "wikilink")
 [SPARC](../Page/SPARC.md "wikilink")，\[23\]還有3.4.0版的移植适用於[Mac OS X
 v10.4](../Page/Mac_OS_X_Tiger.md "wikilink")–[v10.5](../Page/Mac_OS_X_Leopard.md "wikilink")
 [PowerPC](../Page/PowerPC.md "wikilink")\[24\]以及Solaris
-x86。\[25\]此外還被移植於[eComStation](../Page/eComStation.md "wikilink")（[OS/2新的商標](../Page/OS/2.md "wikilink")/後續版本）。\[26\]
+x86。\[25\]此外還被移植於[eComStation](https://zh.wikipedia.org/wiki/eComStation "wikilink")（[OS/2新的商標](https://zh.wikipedia.org/wiki/OS/2 "wikilink")/後續版本）。\[26\]
 
 ## 开发
 
 Apache
-OpenOffice的[API基于被称为](../Page/应用程序接口.md "wikilink")[通用网络对象](../Page/通用网络对象.md "wikilink")（Universal
+OpenOffice的[API基于被称为](../Page/应用程序接口.md "wikilink")[通用网络对象](https://zh.wikipedia.org/wiki/通用网络对象 "wikilink")（Universal
 Network
 Objects，缩写为UNO）的组件技术。其包括各种类似于[CORBA](../Page/CORBA.md "wikilink")[接口描述语言](../Page/接口描述语言.md "wikilink")（interface
 description language）的接口定义。
 
 Apache
-OpenOffice使用[OpenDocument作爲預設](../Page/OpenDocument.md "wikilink")[文件檔案格式](../Page/文件檔案格式.md "wikilink")。Apache
+OpenOffice使用[OpenDocument作爲預設](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")[文件檔案格式](../Page/文件檔案格式.md "wikilink")。Apache
 OpenOffice對Microsoft Office檔案格式有所改進，但只能讀，不能寫。
 
 该项目现在主要仍由Apache的员工来维护，但进展十分缓慢。
@@ -262,9 +265,9 @@ OpenOffice對Microsoft Office檔案格式有所改進，但只能讀，不能寫
 
 ## 参见
 
-  - [LibreOffice](../Page/LibreOffice.md "wikilink")
-  - [辦公室套裝軟件](../Page/辦公室套裝軟件.md "wikilink")
-  - [自由軟體](../Page/自由軟體.md "wikilink")
+  - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
+  - [辦公室套裝軟件](https://zh.wikipedia.org/wiki/辦公室套裝軟件 "wikilink")
+  - [自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")
   - [Apache软件基金会](../Page/Apache软件基金会.md "wikilink")
 
 {{-}}

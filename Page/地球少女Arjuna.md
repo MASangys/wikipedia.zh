@@ -1,14 +1,14 @@
-《**地球少女Arjuna**》是一套[日本的環保](../Page/日本.md "wikilink")[動畫](../Page/動畫.md "wikilink")，由[Bandai
-Visual制作](../Page/Bandai_Visual.md "wikilink")。講述地球失衡之後世界的變化。共有六個部份13集。有[DVD發行](../Page/DVD.md "wikilink")。已在日本、香港和台灣上映。
+《**地球少女Arjuna**》是一套[日本的環保](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[Bandai
+Visual制作](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")。講述地球失衡之後世界的變化。共有六個部份13集。有[DVD發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。已在日本、香港和台灣上映。
 
 ## 登場人物
 
-  - 有吉樹奈：[東山麻美](../Page/東山麻美.md "wikilink")
+  - 有吉樹奈：[東山麻美](https://zh.wikipedia.org/wiki/東山麻美 "wikilink")
   - 大島時夫： [關智一](../Page/關智一.md "wikilink")
-  - 白河小百合： [久川綾](../Page/久川綾.md "wikilink")
-  - クリス・ホーケン：[上田祐司](../Page/うえだゆうじ.md "wikilink")
-  - シンディ・クライン：[新谷真弓](../Page/新谷真弓.md "wikilink")
-  - テレサ・ウォン：[沢海陽子](../Page/沢海陽子.md "wikilink")
+  - 白河小百合： [久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")
+  - クリス・ホーケン：[上田祐司](https://zh.wikipedia.org/wiki/うえだゆうじ "wikilink")
+  - シンディ・クライン：[新谷真弓](https://zh.wikipedia.org/wiki/新谷真弓 "wikilink")
+  - テレサ・ウォン：[沢海陽子](https://zh.wikipedia.org/wiki/沢海陽子 "wikilink")
   - 鬼塚指令：[玄田哲章](../Page/玄田哲章.md "wikilink")
 
 ## 製作人員
@@ -20,10 +20,10 @@ Visual制作](../Page/Bandai_Visual.md "wikilink")。講述地球失衡之後世
   - 動畫製作：[SATELIGHT](../Page/SATELIGHT.md "wikilink")
   - 主題曲：「マメシバ」
       - 作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-      - 作詞、歌：[坂本真绫](../Page/坂本真绫.md "wikilink")
+      - 作詞、歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
   - 插入曲：「バイク」
       - 作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-      - 作詞、歌：[坂本真绫](../Page/坂本真绫.md "wikilink")
+      - 作詞、歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
 
 ## 外部連結
 

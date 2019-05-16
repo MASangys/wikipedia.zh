@@ -1,8 +1,8 @@
 [3D0_game_console.jpg](https://zh.wikipedia.org/wiki/File:3D0_game_console.jpg "fig:3D0_game_console.jpg")製造的3DO游戏机\]\]
 
-**3DO互动多人游戏机**（簡稱3DO遊戲機，3DO，）是[3DO公司於](../Page/3DO公司.md "wikilink")1993年發行的一款[遊戲機](../Page/遊戲機.md "wikilink")。3DO不仅是该公司制作的一个游戏平台，它也是一系列可以授权给第三方的规格。3DO由企业家、艺电创始人[特里普·霍金斯构思](../Page/特里普·霍金斯.md "wikilink")，最初由New
+**3DO互动多人游戏机**（簡稱3DO遊戲機，3DO，）是[3DO公司於](../Page/3DO公司.md "wikilink")1993年發行的一款[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")。3DO不仅是该公司制作的一个游戏平台，它也是一系列可以授权给第三方的规格。3DO由企业家、艺电创始人[特里普·霍金斯构思](../Page/特里普·霍金斯.md "wikilink")，最初由New
 Technologies集团的Dave Needle和R. J.
-Mical设计。[松下公司于](../Page/松下公司.md "wikilink")1993年制作了第一批样品，之后由[三洋和GoldStar制造了硬件并于](../Page/三洋.md "wikilink")1994年发行。
+Mical设计。[松下公司于](https://zh.wikipedia.org/wiki/松下公司 "wikilink")1993年制作了第一批样品，之后由[三洋和GoldStar制造了硬件并于](https://zh.wikipedia.org/wiki/三洋 "wikilink")1994年发行。
 
 3DO公司以SMSG为名成立於1991年。一年後，SMSG改名為3DO，並推出了新一代遊戲平台——3DO遊戲機，但之后未能堅持下來，最終不得不從硬體業全線撤退，轉而成為一家純粹的軟體開發商和發行商。
 
@@ -27,7 +27,7 @@ DRAM；一个双速CD-ROM光盘驱动。
 
 ## 游戏
 
-一些收到好评的街机和PC游戏移植到3DO。而在这一时期，这些游戏却不能在其他游戏平台出现。比如《[鬼屋魔影](../Page/鬼屋魔影_\(1992年游戏\).md "wikilink")》、《[迷霧之島](../Page/迷霧之島.md "wikilink")》和《[星际控制II](../Page/星际控制II.md "wikilink")》。其他的热门游戏有《[全食之战](../Page/全食之战_\(1994年游戏\).md "wikilink")》、《[侏罗纪公园互动](../Page/侏罗纪公园互动.md "wikilink")》、《Crash
+一些收到好评的街机和PC游戏移植到3DO。而在这一时期，这些游戏却不能在其他游戏平台出现。比如《[鬼屋魔影](https://zh.wikipedia.org/wiki/鬼屋魔影_\(1992年游戏\) "wikilink")》、《[迷霧之島](../Page/迷霧之島.md "wikilink")》和《[星际控制II](https://zh.wikipedia.org/wiki/星际控制II "wikilink")》。其他的热门游戏有《[全食之战](https://zh.wikipedia.org/wiki/全食之战_\(1994年游戏\) "wikilink")》、《[侏罗纪公园互动](https://zh.wikipedia.org/wiki/侏罗纪公园互动 "wikilink")》、《Crash
 N Burn》、《Gex》、《Advanced Dungeons & Dragons: Slayer》、《Killing
 Time》、《[極速快感](../Page/極速快感_\(1994年遊戲\).md "wikilink")》、《Road
 Rash》和《Immercenary》。

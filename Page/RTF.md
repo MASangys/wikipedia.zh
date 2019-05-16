@@ -1,5 +1,5 @@
 **富文本格式**（**Rich Text
-Format**）即**RTF格式**，又称**多文本格式**，是由[微软公司开发的跨平台](../Page/微软.md "wikilink")[文档格式](../Page/文档.md "wikilink")。大多数的[文字处理软件都能读取和保存RTF文档](../Page/文字处理.md "wikilink")。
+Format**）即**RTF格式**，又称**多文本格式**，是由[微软公司开发的跨平台](../Page/微软.md "wikilink")[文档格式](https://zh.wikipedia.org/wiki/文档 "wikilink")。大多数的[文字处理软件都能读取和保存RTF文档](https://zh.wikipedia.org/wiki/文字处理 "wikilink")。
 
 ## RTF文档示例
 
@@ -40,13 +40,13 @@ Format**）即**RTF格式**，又称**多文本格式**，是由[微软公司开
 ## 支持RTF的软件
 
   - [WordPad](../Page/WordPad.md "wikilink")（[Microsoft
-    Windows](../Page/Microsoft_Windows.md "wikilink")）/
-    [文本编辑](../Page/文本编辑.md "wikilink")（[Mac
-    OS](../Page/Mac_OS.md "wikilink")）
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）/
+    [文本编辑](https://zh.wikipedia.org/wiki/文本编辑 "wikilink")（[Mac
+    OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")）
   - [Microsoft Word](../Page/Microsoft_Word.md "wikilink")
   - [Apache OpenOffice](../Page/Apache_OpenOffice.md "wikilink") /
-    [LibreOffice](../Page/LibreOffice.md "wikilink")
+    [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
   - [WPS Office](../Page/WPS_Office.md "wikilink")
-  - [EIOffice](../Page/EIOffice.md "wikilink")
+  - [EIOffice](https://zh.wikipedia.org/wiki/EIOffice "wikilink")
 
 [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")

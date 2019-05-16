@@ -1,7 +1,7 @@
-**Struts**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")（ASF）赞助的一个[开源项目](../Page/开源.md "wikilink")。它最初是[Jakarta项目中的一个子项目](../Page/Jakarta项目.md "wikilink")，并在2004年3月成为ASF的顶级项目。它通过采用[Java
+**Struts**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")（ASF）赞助的一个[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")。它最初是[Jakarta项目中的一个子项目](../Page/Jakarta项目.md "wikilink")，并在2004年3月成为ASF的顶级项目。它通过采用[Java
 Servlet](../Page/Java_Servlet.md "wikilink")／[JSP技术](../Page/JSP.md "wikilink")，实现了基于[Java
-EE](../Page/Java_EE.md "wikilink")
-[Web应用的Model](../Page/Web.md "wikilink")-View-Controller（[MVC](../Page/MVC.md "wikilink")）[设计模式的](../Page/设计模式.md "wikilink")[应用框架](../Page/軟體框架.md "wikilink")，是MVC经典设计模式中的一个经典产品。
+EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")
+[Web应用的Model](https://zh.wikipedia.org/wiki/Web "wikilink")-View-Controller（[MVC](../Page/MVC.md "wikilink")）[设计模式的](https://zh.wikipedia.org/wiki/设计模式 "wikilink")[应用框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，是MVC经典设计模式中的一个经典产品。
 
 ## MVC结构
 
@@ -9,7 +9,7 @@ EE](../Page/Java_EE.md "wikilink")
 **控制器**（**Controller**）的角色，根据描述模型、视图、控制器对应关系的*struts-config.xml*的配置文件，转发视图（**View**）的请求，组装响应数据模型（**Model**）。在[MVC的](../Page/MVC.md "wikilink")
 **模型**（**Model**）部分，经常划分为两个主要子系统（*系统的内部数据状态*与*改变数据状态的逻辑动作*），这两个概念子系统分别具体对应Struts裡的*ActionForm*与*Action*两个需要继承实现超类。在这里，Struts可以与各种标准的数据访问技术结合在一起，包括[Enterprise
 Java Beans](../Page/EJB.md "wikilink")（EJB）,
-[JDBC与](../Page/JDBC.md "wikilink")[JNDI](../Page/JNDI.md "wikilink")。在Struts的**视图**（**View**）端，除了使用标准的JavaServer
+[JDBC与](https://zh.wikipedia.org/wiki/JDBC "wikilink")[JNDI](https://zh.wikipedia.org/wiki/JNDI "wikilink")。在Struts的**视图**（**View**）端，除了使用标准的JavaServer
 Pages（JSP）以外，还提供了大量的标签库使用，同时也可以与其他表现层组件技术（产品）进行整合，比如Velocity
 Templates，XSLT等。通过应用Struts的框架，最终用户可以把大部分的关注点放在自己的业务逻辑（*Action*）与
 映射关系的配置文件（*struts-config.xml*）中。
@@ -19,18 +19,18 @@ Templates，XSLT等。通过应用Struts的框架，最终用户可以把大部�
 [Struts2_merger.png](https://zh.wikipedia.org/wiki/File:Struts2_merger.png "fig:Struts2_merger.png")
 
 在[Java
-EE的](../Page/Java_EE.md "wikilink")[Web应用发展的初期](../Page/Web.md "wikilink")，除了使用Servlet技术以外，普遍是在JavaServer
+EE的](https://zh.wikipedia.org/wiki/Java_EE "wikilink")[Web应用发展的初期](https://zh.wikipedia.org/wiki/Web "wikilink")，除了使用Servlet技术以外，普遍是在JavaServer
 Pages（[JSP](../Page/JSP.md "wikilink")）的源代码中，采用[HTML与](../Page/HTML.md "wikilink")[Java代码混合的方式进行开发](../Page/Java.md "wikilink")。因为这两种方式不可避免的要把表现与业务逻辑代码混合在一起，都给前期开发与后期维护带来巨大的复杂度。为了摆脱上述的约束与局限，把业务逻辑代码从表现层中清晰的分离出来，2000年，Craig
 McClanahan采用了[MVC的设计模式开发Struts](../Page/MVC.md "wikilink")。后来该框架产品一度被认为是最广泛、最流行JAVA的WEB应用框架。
 
-2006年，[WebWork与Struts的](../Page/WebWork.md "wikilink")[Java
-EE](../Page/Java_EE.md "wikilink")
-Web[框架的团体](../Page/软件框架.md "wikilink")，决定合作共同开发一个新的，整合了[WebWork与Struts优点](../Page/WebWork.md "wikilink")，并且更加优雅、扩展性更强的框架，命名为“**Struts
+2006年，[WebWork与Struts的](https://zh.wikipedia.org/wiki/WebWork "wikilink")[Java
+EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")
+Web[框架的团体](https://zh.wikipedia.org/wiki/软件框架 "wikilink")，决定合作共同开发一个新的，整合了[WebWork与Struts优点](https://zh.wikipedia.org/wiki/WebWork "wikilink")，并且更加优雅、扩展性更强的框架，命名为“**Struts
 2**”，原Struts的1.x版本产品称为“Struts 1”。Struts项目并行提供与维护两个主要版本的框架产品——Struts
-1与[Struts 2](../Page/Struts2.md "wikilink")。
+1与[Struts 2](https://zh.wikipedia.org/wiki/Struts2 "wikilink")。
 
 在2008年12月，Struts1发布了最后一个正式版（1.3.10），而2013年4月5日，Struts开发组宣布终止了Struts
-1的[软件开发周期](../Page/软件开发周期.md "wikilink")。\[1\]
+1的[软件开发周期](https://zh.wikipedia.org/wiki/软件开发周期 "wikilink")。\[1\]
 
 ## 优缺点
 
@@ -52,10 +52,10 @@ Struts2的漏洞处理机制常被诟病，一来OGNL的功能强大和请求处
 
 ## 参见
 
-  - [Struts2](../Page/Struts2.md "wikilink")
+  - [Struts2](https://zh.wikipedia.org/wiki/Struts2 "wikilink")
   - [MVC设计模式](../Page/MVC.md "wikilink")
   - [Apache软件基金会](../Page/Apache软件基金会.md "wikilink")
-  - [J2EE](../Page/J2EE.md "wikilink")
+  - [J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink")
 
 {{-}}
 

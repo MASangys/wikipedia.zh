@@ -1,18 +1,19 @@
-**tetsuya**（），[日本音樂人](../Page/日本.md "wikilink")，是日本[搖滾樂團](../Page/搖滾樂隊.md "wikilink")[L'Arc\~en\~Ciel的隊長兼](../Page/彩虹樂團.md "wikilink")[貝斯手](../Page/貝斯手.md "wikilink")，[P'UNK～EN～CIEL的主唱](../Page/P'UNK～EN～CIEL.md "wikilink")。
+**tetsuya**（），[日本音樂人](../Page/日本.md "wikilink")，是日本[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")[L'Arc\~en\~Ciel的隊長兼](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")，[P'UNK～EN～CIEL的主唱](https://zh.wikipedia.org/wiki/P'UNK～EN～CIEL "wikilink")。
 
 自2001年夏以TETSU69為名進行單獨表演活動，**69**就是因為他在1969年出生的意思。2005年與前Dead-End樂團主音MORRIE及前[DIE
-IN CRIES樂團吉他手MINORU組成新樂團Creature](../Page/DIE_IN_CRIES.md "wikilink")
+IN
+CRIES樂團吉他手MINORU組成新樂團Creature](https://zh.wikipedia.org/wiki/DIE_IN_CRIES "wikilink")
 Creature，並於2006年六月發行了三支單曲。2006年在彩虹樂團15週年演唱會後宣佈單飛活動由TETSU69改名為tetsu。2009年12月1日宣佈將藝名由tetsu改名為tetsuya，單飛活動時將使用大寫TETSUYA。所屬事務所為GRAVIS，於2015年成立個人歌迷會CÉLUXE，並於2017年8月舉行15周年紀念LIVE。
 
-2007年11月18日宣佈與[女演員](../Page/女演員.md "wikilink")[酒井彩名結婚](../Page/酒井彩名.md "wikilink")。
+2007年11月18日宣佈與[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")[酒井彩名結婚](../Page/酒井彩名.md "wikilink")。
 
 ## 概要
 
-1969年10月3日出生於[滋賀縣](../Page/滋賀縣.md "wikilink")[米原市](../Page/米原市.md "wikilink")，是家中的長子，底下有兩個妹妹。小時候的夢想是成為F1賽車手，從小跟奶奶一起住，回家社，討厭體育性社團。中學的時候因為學長ken的一句話，開始嘗試學習貝斯。在live上一定會表演丟香蕉給觀眾，並會問：「要吃我的香蕉嗎？」，已經成為定番。
+1969年10月3日出生於[滋賀縣](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")[米原市](../Page/米原市.md "wikilink")，是家中的長子，底下有兩個妹妹。小時候的夢想是成為F1賽車手，從小跟奶奶一起住，回家社，討厭體育性社團。中學的時候因為學長ken的一句話，開始嘗試學習貝斯。在live上一定會表演丟香蕉給觀眾，並會問：「要吃我的香蕉嗎？」，已經成為定番。
 
 高中畢業後，一邊在唱片行打工一邊找尋樂團夥伴，也曾在燈泡工廠當過作業員。彩虹第一代的成員分別是hiro（吉他）、pero（鼓手）、tetsuya（貝斯）、hyde（主唱），第一場live是在1991年5月30日，成功號召130人的小型演唱會。在打算major的前一個禮拜左右，吉他手hiro脫退，ken之後遞補；而在錄製第一張專輯{{〈}}DUNE{{〉}}不久之前，鼓手pero脫退，sakura取而代之；97年sakura因為持有違禁興奮劑黯然退團，其餘三人飛往倫敦，在潛沉一年後復出，yukihiro為正式鼓手。因此現在正式的成員為hyde（主唱）、tetsuya（貝斯）、ken（吉他）、yukihiro（鼓手）。
 
-成員[hyde和ken都是tetsuya以電話攻勢招攬而來的樂手](../Page/hyde.md "wikilink")，hyde當初才剛組了自己的樂團，ken則是考上了名古屋工業大學建築系，但都因為tetsuya的遊說下加入L'Arc\~en\~Ciel。成員中唯一不抽煙的人，酒量很好，會去有存酒式服務的bar，喜歡搬家，沒有固定的住所，約一兩年就會換房子，擁有一個專門擺bass的貨櫃。習慣穿著色彩鮮艷的衣服，live最常見的打扮是褲加裙的組合，有參與設計少女服飾cranky，buffalo也為他出了一款限定鞋，特愛粉紅色豹紋，甚至買了一台粉紅色的法拉利。
+成員[hyde和ken都是tetsuya以電話攻勢招攬而來的樂手](https://zh.wikipedia.org/wiki/hyde "wikilink")，hyde當初才剛組了自己的樂團，ken則是考上了名古屋工業大學建築系，但都因為tetsuya的遊說下加入L'Arc\~en\~Ciel。成員中唯一不抽煙的人，酒量很好，會去有存酒式服務的bar，喜歡搬家，沒有固定的住所，約一兩年就會換房子，擁有一個專門擺bass的貨櫃。習慣穿著色彩鮮艷的衣服，live最常見的打扮是褲加裙的組合，有參與設計少女服飾cranky，buffalo也為他出了一款限定鞋，特愛粉紅色豹紋，甚至買了一台粉紅色的法拉利。
 
 創作產量豐富，早期和ken幾乎包辦了團內所有的作曲，並且都被選作單曲發表，像是oricon冠軍的「DIVE TO BLUE」、「STAY
 AWAY」、「snow
@@ -21,7 +22,8 @@ way」、「Perfect Blue」、「bravery」、「time goes
 on」、「砂時計」。曲風偏明亮節奏輕快，「死の灰」、「finale」、「TRUST」算是例外的黑暗系，bass不論是彈奏跟編曲，已臻完美境界，在日本樂界有不容抹煞之地位。習慣四弦貝斯，「NEO
 UNIVERSE」和「敘情詩」裡則使用了六弦bass，喜歡使用五弦bass，理由是因為在Creature
 Creature裡為了配合七弦吉他手，另一方面也是不想輸給現在的年輕人（現在樂團貝斯手大多使用五弦貝斯）。除了貝斯和編曲之外，還擔當團裡的[和聲](../Page/和聲歌手.md "wikilink")，可以發出不輸女聲的高音，在「READY
-STEADY GO」裡的tetsu READY ，唱法幾乎跟[hyde如出一轍](../Page/hyde.md "wikilink")。
+STEADY GO」裡的tetsu READY
+，唱法幾乎跟[hyde如出一轍](https://zh.wikipedia.org/wiki/hyde "wikilink")。
 
 ## 作品
 
@@ -268,14 +270,17 @@ STEADY GO」裡的tetsu READY ，唱法幾乎跟[hyde如出一轍](../Page/hyde.
   - Providence PEC-1
   - Providence P-1MT
   - Avalon Design U5
-  - [TC Electronic](../Page/TC_Electronic.md "wikilink") Triple C
+  - [TC
+    Electronic](https://zh.wikipedia.org/wiki/TC_Electronic "wikilink")
+    Triple C
   - SamsonUR-5DJ Wireless
   - Juice Goose Rack Power 200
   - Behringer MDX1000
   - BBE 411
   - Weed Freezer
   - Xotic X-Blender
-  - [Ashdown](../Page/Ashdown_Engineering.md "wikilink") RPM-1
+  - [Ashdown](https://zh.wikipedia.org/wiki/Ashdown_Engineering "wikilink")
+    RPM-1
 
 ## 廣播節目
 

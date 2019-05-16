@@ -1,8 +1,8 @@
 **VIA
-C3**是一款[x86](../Page/x86.md "wikilink")[处理器](../Page/中央处理器.md "wikilink")，早期为继承从Cyrix收购来的智慧产权，而被命名为「**VIA
+C3**是一款[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[处理器](../Page/中央处理器.md "wikilink")，早期为继承从Cyrix收购来的智慧产权，而被命名为「**VIA
 Cyrix III**」，但它实际上是由从[Integrated Device
-Technology](../Page/Integrated_Device_Technology.md "wikilink")（IDT）中收购来的Centaur
-Technology部門的開發人員以[WinChip處理器為基礎而開發](../Page/WinChip.md "wikilink")，由[台湾的](../Page/台湾.md "wikilink")[威盛電子](../Page/威盛電子.md "wikilink")（VIA）制造，与基于**Joshua核心**的**Cyrix
+Technology](https://zh.wikipedia.org/wiki/Integrated_Device_Technology "wikilink")（IDT）中收购来的Centaur
+Technology部門的開發人員以[WinChip處理器為基礎而開發](https://zh.wikipedia.org/wiki/WinChip "wikilink")，由[台湾的](https://zh.wikipedia.org/wiki/台湾 "wikilink")[威盛電子](../Page/威盛電子.md "wikilink")（VIA）制造，与基于**Joshua核心**的**Cyrix
 III**无关。后被更名为VIA C3，是VIA“中国芯”C系列的经典版本。
 
 [VIA_C3_C5XL_CPGA.jpg](https://zh.wikipedia.org/wiki/File:VIA_C3_C5XL_CPGA.jpg "fig:VIA_C3_C5XL_CPGA.jpg")
@@ -12,47 +12,50 @@ III**无关。后被更名为VIA C3，是VIA“中国芯”C系列的经典版�
 ### Samuel核心\[1\]
 
   - L1
-    [Cache指令](../Page/Cache.md "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
-  - 16级[指令管線](../Page/指令管線.md "wikilink")
-  - 采用100或133 MHz [FSB](../Page/FSB.md "wikilink")
-  - [0.18微米製程](../Page/0.18微米製程.md "wikilink")
+    [Cache指令](https://zh.wikipedia.org/wiki/Cache "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
+  - 16级[指令管線](https://zh.wikipedia.org/wiki/指令管線 "wikilink")
+  - 采用100或133 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")
+  - [0.18微米製程](https://zh.wikipedia.org/wiki/0.18微米製程 "wikilink")
   - \-{zh-tw:支援;zh-cn:支持}-[MMX和](../Page/MMX.md "wikilink")[3DNow\!指令集](../Page/3DNow!.md "wikilink")
-  - 半倍频的[浮点运算单元](../Page/FPU.md "wikilink")
+  - 半倍频的[浮点运算单元](https://zh.wikipedia.org/wiki/FPU "wikilink")
   - 可与部分Intel Pentium II/III主板兼容
 
 ### Samuel II核心\[2\]
 
   - L1
-    [Cache指令](../Page/Cache.md "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
-  - 淘汰型(victim)L2 [Cache](../Page/Cache.md "wikilink") 64KB
-  - 12级[指令管線](../Page/指令管線.md "wikilink")
-  - 采用100或133 MHz [FSB](../Page/FSB.md "wikilink")
+    [Cache指令](https://zh.wikipedia.org/wiki/Cache "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
+  - 淘汰型(victim)L2
+    [Cache](https://zh.wikipedia.org/wiki/Cache "wikilink") 64KB
+  - 12级[指令管線](https://zh.wikipedia.org/wiki/指令管線 "wikilink")
+  - 采用100或133 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")
   - 0.15[微米制程](../Page/微米.md "wikilink")
   - \-{zh-tw:支援;zh-cn:支持}-[MMX和](../Page/MMX.md "wikilink")[3DNow\!指令集](../Page/3DNow!.md "wikilink")
-  - 半倍频的[浮点运算单元](../Page/FPU.md "wikilink")
+  - 半倍频的[浮点运算单元](https://zh.wikipedia.org/wiki/FPU "wikilink")
   - 可与部分Intel Pentium II/III主板兼容
 
 ### Ezra核心\[3\]
 
   - L1
-    [Cache指令](../Page/Cache.md "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
-  - 淘汰型(victim)L2 [Cache](../Page/Cache.md "wikilink") 64KB
-  - 12级[指令管線](../Page/指令管線.md "wikilink")
-  - 采用100或133 MHz [FSB](../Page/FSB.md "wikilink")
-  - [0.13微米製程](../Page/0.13微米製程.md "wikilink")
+    [Cache指令](https://zh.wikipedia.org/wiki/Cache "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
+  - 淘汰型(victim)L2
+    [Cache](https://zh.wikipedia.org/wiki/Cache "wikilink") 64KB
+  - 12级[指令管線](https://zh.wikipedia.org/wiki/指令管線 "wikilink")
+  - 采用100或133 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")
+  - [0.13微米製程](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")
   - \-{zh-tw:支援;zh-cn:支持}-[MMX和](../Page/MMX.md "wikilink")[3DNow\!指令集](../Page/3DNow!.md "wikilink")
-  - 半倍频的[浮点运算单元](../Page/FPU.md "wikilink")
+  - 半倍频的[浮点运算单元](https://zh.wikipedia.org/wiki/FPU "wikilink")
 
 ### Nehemiah核心\[4\]
 
   - L1
-    [Cache指令](../Page/Cache.md "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
-  - 淘汰型(victim)L2 [Cache](../Page/Cache.md "wikilink") 64KB
-  - 12级[指令管線](../Page/指令管線.md "wikilink")
-  - 采用133或200 MHz [FSB](../Page/FSB.md "wikilink")
+    [Cache指令](https://zh.wikipedia.org/wiki/Cache "wikilink")、-{zh-tw:資料;zh-cn:数据}-各有64KB
+  - 淘汰型(victim)L2
+    [Cache](https://zh.wikipedia.org/wiki/Cache "wikilink") 64KB
+  - 12级[指令管線](https://zh.wikipedia.org/wiki/指令管線 "wikilink")
+  - 采用133或200 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")
   - 0.13[微米制程](../Page/微米.md "wikilink")
   - \-{zh-tw:支援;zh-cn:支持}-[MMX和](../Page/MMX.md "wikilink")[SSE指令集](../Page/SSE.md "wikilink")
-  - 和前代[Ezra-T架构相比](../Page/Ezra-T.md "wikilink")，[浮点数处理单元](../Page/浮点数.md "wikilink")（FPU）可以在核心频率下全速工作。虽然在性能方面比當時[Intel及](../Page/Intel.md "wikilink")[AMD的处理器低](../Page/AMD.md "wikilink")，但该款处理器功耗低，放出的热力也比较少，较适合在[嵌入式系统](../Page/嵌入式系统.md "wikilink")、[工業電腦中使用](../Page/工業電腦.md "wikilink")。
+  - 和前代[Ezra-T架构相比](https://zh.wikipedia.org/wiki/Ezra-T "wikilink")，[浮点数处理单元](../Page/浮点数.md "wikilink")（FPU）可以在核心频率下全速工作。虽然在性能方面比當時[Intel及](https://zh.wikipedia.org/wiki/Intel "wikilink")[AMD的处理器低](https://zh.wikipedia.org/wiki/AMD "wikilink")，但该款处理器功耗低，放出的热力也比较少，较适合在[嵌入式系统](../Page/嵌入式系统.md "wikilink")、[工業電腦中使用](https://zh.wikipedia.org/wiki/工業電腦 "wikilink")。
 
 ## 另見
 
@@ -64,12 +67,12 @@ III**无关。后被更名为VIA C3，是VIA“中国芯”C系列的经典版�
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
   - [VIA envy](../Page/VIA_envy.md "wikilink")
-  - [VIA C3-M](../Page/VIA_C3-M.md "wikilink")
+  - [VIA C3-M](https://zh.wikipedia.org/wiki/VIA_C3-M "wikilink")
   - [VIA CoreFusion](../Page/VIA_CoreFusion.md "wikilink")
   - [VIA Eden](../Page/VIA_Eden.md "wikilink")
   - [VIA C7-D](../Page/VIA_C7-D.md "wikilink")
   - [VIA C7-M](../Page/VIA_C7-M.md "wikilink")
-  - [VIA PV530](../Page/VIA_PV530.md "wikilink")
+  - [VIA PV530](https://zh.wikipedia.org/wiki/VIA_PV530 "wikilink")
   - [VIA Nano](../Page/VIA_Nano.md "wikilink")
 
 ## 外部連結

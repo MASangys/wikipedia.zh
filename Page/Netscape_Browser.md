@@ -1,15 +1,15 @@
 **Netscape
-Browser**是Netscape[網頁瀏覽器的第](../Page/網頁瀏覽器.md "wikilink")8版，改寫自[Mozilla基金會的](../Page/Mozilla基金會.md "wikilink")[Mozilla
-Firefox瀏覽器](../Page/Mozilla_Firefox.md "wikilink")，不同於以往導航者（Navigator）與郵件軟體（Netscape
+Browser**是Netscape[網頁瀏覽器的第](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")8版，改寫自[Mozilla基金會的](../Page/Mozilla基金會.md "wikilink")[Mozilla
+Firefox瀏覽器](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，不同於以往導航者（Navigator）與郵件軟體（Netscape
 Mail &
 Newsgroups）一起推出的套裝形式。原本的HTML編輯器也被獨立出來，成為由[Linspire公司研發的](../Page/Linspire.md "wikilink")[Nvu](../Page/Nvu.md "wikilink")。
 
-該軟體僅有[Windows](../Page/Microsoft_Windows.md "wikilink")[作業系統執行的版本](../Page/作業系統.md "wikilink")。由[美國線上](../Page/美國線上.md "wikilink")（AOL）發行，開發方面則委託[加拿大公司Mercurial](../Page/加拿大.md "wikilink")
-Communications負責。該款瀏覽器是自[Netscape結束瀏覽器開發業務後](../Page/Netscape.md "wikilink")，首款以Netscape名義推出的瀏覽器，也是Netscape瀏覽器系列的延續。
+該軟體僅有[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統執行的版本](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。由[美國線上](https://zh.wikipedia.org/wiki/美國線上 "wikilink")（AOL）發行，開發方面則委託[加拿大公司Mercurial](../Page/加拿大.md "wikilink")
+Communications負責。該款瀏覽器是自[Netscape結束瀏覽器開發業務後](https://zh.wikipedia.org/wiki/Netscape "wikilink")，首款以Netscape名義推出的瀏覽器，也是Netscape瀏覽器系列的延續。
 
 特徵是並內建了兩種網頁[排版引擎](../Page/排版引擎.md "wikilink")，包含Firefox原本的[Gecko排版引擎](../Page/Gecko.md "wikilink")，與微軟[Internet
 Explorer的](../Page/Internet_Explorer.md "wikilink")[Trident
-（MSHTML）排版引擎](../Page/Trident.md "wikilink")。預設有兩種佈景主題，其中一種不跟隨微軟介面稱為Fusion的主題，或是原本Netscape使用的傳統主題設計Winscape。正式版於2005年3月19日推出，並且在發佈的同日旋即推出更新版。
+（MSHTML）排版引擎](https://zh.wikipedia.org/wiki/Trident "wikilink")。預設有兩種佈景主題，其中一種不跟隨微軟介面稱為Fusion的主題，或是原本Netscape使用的傳統主題設計Winscape。正式版於2005年3月19日推出，並且在發佈的同日旋即推出更新版。
 
 ## 版本歷史
 
@@ -39,9 +39,10 @@ Netscape Browser並未有中文化的版本或是語言套件。
 
 ## 相關文章
 
-  - [Netscape](../Page/Netscape.md "wikilink")
+  - [Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")
   - [網景 (瀏覽器)](../Page/網景_\(瀏覽器\).md "wikilink")
-  - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")
+  - [Mozilla
+    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
   - [网页浏览器列表](../Page/网页浏览器列表.md "wikilink")
   - [网页浏览器比较](../Page/网页浏览器比较.md "wikilink")
 

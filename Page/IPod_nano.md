@@ -1,56 +1,62 @@
 **iPod
-nano**是由[蘋果公司設計發售的](../Page/蘋果公司.md "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")。這是蘋果[iPod家族內的中](../Page/iPod.md "wikilink")-{zh-hans:级;zh-hant:階;}-產品。第一代的iPod
+nano**是由[蘋果公司設計發售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")。這是蘋果[iPod家族內的中](https://zh.wikipedia.org/wiki/iPod "wikilink")-{zh-hans:级;zh-hant:階;}-產品。第一代的iPod
 nano是在2005年上市\[1\]。iPod nano和[iPod
-shuffle一樣使用](../Page/iPod_shuffle.md "wikilink")[快閃記憶體](../Page/快閃記憶體.md "wikilink")，但增加一個寬型的小螢幕和[iPod
-classic上的](../Page/iPod_classic.md "wikilink")「click
-wheel」按鍵轉輪，直到第六代才取消滚轮而改为多触控屏幕。自從首次登場以來，iPod
-nano至今已改款七次。在發售後不久，iPod nano就成為有史以來最暢銷的MP3播放器，超越前一代的商品[iPod
-mini](../Page/iPod_mini.md "wikilink")。
+shuffle一樣使用](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，但增加一個寬型的小螢幕和[iPod
+classic上的](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")「click
+wheel」按鍵轉輪，直到第六代才取消滚轮而改为多触控屏幕。自從首次登場以來，iPod nano至今已改款七次。在發售後不久，iPod
+nano就成為有史以來最暢銷的MP3播放器，超越前一代的商品[iPod
+mini](https://zh.wikipedia.org/wiki/iPod_mini "wikilink")。
 
 2017年7月27日起，蘋果公司終止販售iPod Nano和[iPod
-Shuffle](../Page/iPod_Shuffle.md "wikilink")，但仍持續販售[iPod
-Touch](../Page/iPod_Touch.md "wikilink")。\[2\]
+Shuffle](https://zh.wikipedia.org/wiki/iPod_Shuffle "wikilink")，但仍持續販售[iPod
+Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。\[2\]
 
 ## 特色
 
 與[iPod
-classic使用的](../Page/iPod_classic.md "wikilink")[硬碟不同](../Page/硬碟.md "wikilink")，Nano使用[快閃記憶體作為儲存裝置](../Page/快閃記憶體.md "wikilink")。這代表機器內沒有移動元件，讓Nano在突然震動時不會跳針或暫停播放音樂。
+classic使用的](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")[硬碟不同](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，Nano使用[快閃記憶體作為儲存裝置](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。這代表機器內沒有移動元件，讓Nano在突然震動時不會跳針或暫停播放音樂。
 
-iPod nano需要搭配[Mac OS X或](../Page/Mac_OS_X.md "wikilink")[Microsoft
-Windows上的](../Page/Microsoft_Windows.md "wikilink")[iTunes軟體使用](../Page/iTunes.md "wikilink")（在其他平台上有第三方開發者推出的軟體，但蘋果公司並不提供官方支援）。iPod
-nano使用從第三代iPod以來共通的[dock連接器](../Page/dock連接器.md "wikilink")（第七代iPod
+iPod nano需要搭配[Mac OS
+X或](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft
+Windows上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[iTunes軟體使用](https://zh.wikipedia.org/wiki/iTunes "wikilink")（在其他平台上有第三方開發者推出的軟體，但蘋果公司並不提供官方支援）。iPod
+nano使用從第三代iPod以來共通的[dock連接器](https://zh.wikipedia.org/wiki/dock連接器 "wikilink")（第七代iPod
 Nano使用的是與iPhone
-5相同的[Lightning接頭](../Page/Lightning接頭.md "wikilink")）（dock
+5相同的[Lightning接頭](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")）（dock
 connector，iPod
-shuffle不適用）。也可透過蘋果公司的[FireWire](../Page/FireWire.md "wikilink")
+shuffle不適用）。也可透過蘋果公司的[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")
 iPod連接線進行充電，但並不支援透過FireWire同步檔案。iPod
-nano包含[碼表和多時區時鐘功能](../Page/碼表.md "wikilink")。同時也有[密碼鎖可利用click](../Page/密碼鎖.md "wikilink")
+nano包含[碼表和多時區時鐘功能](https://zh.wikipedia.org/wiki/碼表 "wikilink")。同時也有[密碼鎖可利用click](../Page/密碼鎖.md "wikilink")
 wheel鎖住iPod，可確保其中的行事曆和連絡人的資料安全，也可防止變更最大音量限制。
 
 如同之前的iPod機型，第一代和第二代的iPod nano包含一些內建的遊戲軟體：「打磚塊」（Brick）、「音樂猜謎」（Music
 Quiz）、「降落傘」（Parachute）和「接龍」（Solitaire）。第三代的iPod
 nano也包含了內建遊戲，同時也可在[iTunes
-Store購買遊戲安裝於iPod](../Page/iTunes_Store.md "wikilink")
+Store購買遊戲安裝於iPod](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")
 nano中。三種內建的遊戲是「打磚塊」、「接龍」和「音樂猜謎」的改版作品，「打磚塊」改名為「Vortex」，遊戲舞台變為環狀；「接龍」改名為「Klondike」，內容有些許的改變；「音樂猜謎」則另外加入了電視電影的小知識題目，並更改了遊戲界面。
 
 與前代機種iPod mini不同的是，iPod
-nano的電池是固定在[印刷電路板上](../Page/印刷電路板.md "wikilink")，因此一般使用者很難直接更換\[3\]。快閃記憶體晶片使用[表面實装方式安裝](../Page/表面實装.md "wikilink")，因此無法自行升級iPod
+nano的電池是固定在[印刷電路板上](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，因此一般使用者很難直接更換\[3\]。快閃記憶體晶片使用[表面實装方式安裝](https://zh.wikipedia.org/wiki/表面實装 "wikilink")，因此無法自行升級iPod
 nano的記憶體容量。
 
 另外與之前的iPod機種不同的是，iPod nano無法經由FireWire同步檔案，且沒有線控連接孔，因此許多第三方廠商的配件無法在iPod
 nano上使用。第一代的iPod
-nano不支援[錄音功能](../Page/錄音.md "wikilink")；第二代和第三代的機種需要第三方廠商的配件才可錄音\[4\]。此外也無法使用蘋果官方或其他廠商推出的Camera
+nano不支援[錄音功能](https://zh.wikipedia.org/wiki/錄音 "wikilink")；第二代和第三代的機種需要第三方廠商的配件才可錄音\[4\]。此外也無法使用蘋果官方或其他廠商推出的Camera
 Connector（照片傳輸裝置）\[5\]。
 
 ## 支持格式
 
-  - [AAC](../Page/Advanced_Audio_Coding.md "wikilink") (16 to 320 kbps)
-  - 受保護 AAC (來自[iTunes Store](../Page/iTunes_Store.md "wikilink"))
+  - [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink")
+    (16 to 320 kbps)
+  - 受保護 AAC (來自[iTunes
+    Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink"))
   - [MP3](../Page/MP3.md "wikilink") (16 to 320 Kib/s, including
-    [variable bitrate](../Page/variable_bitrate.md "wikilink") files)
-  - [Audible](../Page/Audible.com.md "wikilink") (formats 2, 3 and 4)
+    [variable
+    bitrate](https://zh.wikipedia.org/wiki/variable_bitrate "wikilink")
+    files)
+  - [Audible](https://zh.wikipedia.org/wiki/Audible.com "wikilink")
+    (formats 2, 3 and 4)
   - [Apple Lossless](../Page/Apple_Lossless.md "wikilink")
-  - [AIFF](../Page/AIFF.md "wikilink")
+  - [AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")
   - [WAV](../Page/WAV.md "wikilink")
   - [MP4](../Page/MP4.md "wikilink")
 
@@ -81,7 +87,7 @@ Connector（照片傳輸裝置）\[5\]。
 白</p></td>
 <td><p>USB<small>（FireWire僅能用於充電）</small></p></td>
 <td><p>2006年2月7日</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.3.md" title="wikilink">10.3</a><br />
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3" title="wikilink">10.3</a><br />
 Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></td>
 <td><p><small>176 x 132 像素<br />
 0.168mm 點距</small></p></td>
@@ -111,7 +117,7 @@ Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p
 <td></td>
 </tr>
 <tr class="even">
-<td><p>取代<a href="../Page/iPod_mini.md" title="wikilink">iPod mini</a>。配有可瀏覽照片的彩色螢幕，1GB的版本隨後推出。</p></td>
+<td><p>取代<a href="https://zh.wikipedia.org/wiki/iPod_mini" title="wikilink">iPod mini</a>。配有可瀏覽照片的彩色螢幕，1GB的版本隨後推出。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -128,7 +134,7 @@ Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p
 <td><p>銀</p></td>
 <td><p>USB<small>（FireWire僅能用於充電）</small></p></td>
 <td><p>2006年9月12日</p></td>
-<td><p><small>Mac:：<a href="../Page/Mac_OS_X_v10.3.md" title="wikilink">10.3</a><br />
+<td><p><small>Mac:：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3" title="wikilink">10.3</a><br />
 Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></td>
 <td><p><small>176 x 132 像素<br />
 0.168mm 點距</small></p></td>
@@ -180,7 +186,7 @@ Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p
 <td><p>銀</p></td>
 <td><p>USB<small>（FireWire僅能用於充電）</small></p></td>
 <td><p>2007年9月5日</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a>、<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a></small></p></td>
 <td><p><small>320 x 240 像素<br />
 204 ppi</small></p></td>
@@ -204,7 +210,7 @@ Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a>、<a href=
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>模仿iPod Classic的機身，2" <a href="../Page/QVGA.md" title="wikilink">QVGA螢幕</a>、更明亮的顯示器、新增多種顏色、更新使用者界面、能播放影片。</p></td>
+<td><p>模仿iPod Classic的機身，2" <a href="https://zh.wikipedia.org/wiki/QVGA" title="wikilink">QVGA螢幕</a>、更明亮的顯示器、新增多種顏色、更新使用者界面、能播放影片。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -230,7 +236,7 @@ Windows：<a href="../Page/Windows_2000.md" title="wikilink">2000</a>、<a href=
 粉紅</p></td>
 <td><p>USB</p></td>
 <td><p>2008年9月9日</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4.11</a><br />
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4.11</a><br />
 Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a></small></p></td>
 <td><p><small>240 x 320 像素<br />
 204 ppi</small></p></td>
@@ -264,7 +270,7 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 粉紅</p></td>
 <td><p>USB</p></td>
 <td><p>2009年9月9日</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4.11</a><br />
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4.11</a><br />
 Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a></small></p></td>
 <td><p><small>240 x 376 像素<br />
 204 ppi</small></p></td>
@@ -272,7 +278,7 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 影片：5</p></td>
 </tr>
 <tr class="odd">
-<td><p>螢幕加大成2.2吋240x376，16:9彩色TFT螢幕、增加30萬像素<a href="../Page/摄像头.md" title="wikilink">-{zh-hant:攝影機; zh-hans:摄像头;}-</a>、<a href="../Page/调频广播.md" title="wikilink">FM功能</a>、Genius Mixes、<a href="../Page/錄音.md" title="wikilink">錄音</a>、<a href="../Page/VoiceOver工具程式.md" title="wikilink">VoiceOver</a>、而且不需<a href="../Page/Nike+iPod.md" title="wikilink">Nike+跑鞋即可計步</a>。中文字體改用<a href="../Page/黑體-繁.md" title="wikilink">黑體-繁</a>/<a href="../Page/黑體-簡.md" title="wikilink">黑體-簡</a>。</p></td>
+<td><p>螢幕加大成2.2吋240x376，16:9彩色TFT螢幕、增加30萬像素<a href="../Page/摄像头.md" title="wikilink">-{zh-hant:攝影機; zh-hans:摄像头;}-</a>、<a href="../Page/调频广播.md" title="wikilink">FM功能</a>、Genius Mixes、<a href="https://zh.wikipedia.org/wiki/錄音" title="wikilink">錄音</a>、<a href="https://zh.wikipedia.org/wiki/VoiceOver工具程式" title="wikilink">VoiceOver</a>、而且不需<a href="../Page/Nike+iPod.md" title="wikilink">Nike+跑鞋即可計步</a>。中文字體改用<a href="../Page/黑體-繁.md" title="wikilink">黑體-繁</a>/<a href="../Page/黑體-簡.md" title="wikilink">黑體-簡</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -296,14 +302,14 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 粉紅</p></td>
 <td><p>USB</p></td>
 <td><p>2010年9月2日</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.5.md" title="wikilink">10.5.8</a><br />
-Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="../Page/Windows_7.md" title="wikilink">7</a></small></p></td>
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5" title="wikilink">10.5.8</a><br />
+Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a></small></p></td>
 <td><p><small>240 x 240 像素<br />
 220 ppi</small></p></td>
 <td><p>音樂：24</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="../Page/显示器.md" title="wikilink">螢幕</a>，以取代<a href="../Page/click-wheel.md" title="wikilink">click-wheel</a>。取消、錄音及影片播放功能。</p></td>
+<td><p><a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="../Page/显示器.md" title="wikilink">螢幕</a>，以取代<a href="https://zh.wikipedia.org/wiki/click-wheel" title="wikilink">click-wheel</a>。取消、錄音及影片播放功能。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -327,8 +333,8 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 <a href="../Page/Product_Red.md" title="wikilink">紅</a></p></td>
 <td><p>Lightning</p></td>
 <td><p>2012年10月</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.6.md" title="wikilink">10.6.8或更新的版本</a><br />
-Windows：<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="../Page/Windows_7.md" title="wikilink">7</a></small></p></td>
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.6" title="wikilink">10.6.8或更新的版本</a><br />
+Windows：<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a></small></p></td>
 <td><p><small>240 x 432 像素<br />
 202 ppi</small></p></td>
 <td><p>音樂：30<br />

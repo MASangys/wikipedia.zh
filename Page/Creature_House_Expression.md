@@ -1,21 +1,23 @@
 **Creature House Expression**
-是一個[矢量繪圖軟件](../Page/矢量繪圖.md "wikilink")，原本是由一間名為
+是一個[矢量繪圖軟件](https://zh.wikipedia.org/wiki/矢量繪圖 "wikilink")，原本是由一間名為
 Creature House 的[香港公司開發](../Page/香港.md "wikilink")，後來這間公司輾轉易手，賣給 Ray
 Dream，Ray Dream 後來跟 Fractal Design 合併，及後 Fractal Design 又再跟 MetaTools
 合併而成為 MetaCreations。接下來 MetaCreations 將其下的軟件部門分拆出售，Expression
 軟件的版權又重回它的創辦人 徐迢之(Alex Hsu) 及 Creature House 公司手中。
 
 此後 Creature House 分別推出 Expression 2.0 及 3.0 版。到了 2003 年 9 月，消息傳出
-[Microsoft](../Page/Microsoft.md "wikilink") 收購了 Creature House，並把旗下的
-Expression 矢量繪圖與 Living Cels 動畫技術收歸未來的
-[Sparkle](../Page/Sparkle.md "wikilink") 架構之中。
+[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") 收購了
+Creature House，並把旗下的 Expression 矢量繪圖與 Living Cels 動畫技術收歸未來的
+[Sparkle](https://zh.wikipedia.org/wiki/Sparkle "wikilink") 架構之中。
 
-到了 2004 年 6 月左右，[Microsoft](../Page/Microsoft.md "wikilink") 把更新的
-Expression 3.3 版釋放出來給用戶免費下載
+到了 2004 年 6
+月左右，[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+把更新的 Expression 3.3 版釋放出來給用戶免費下載
 [1](https://web.archive.org/web/20060424232957/http://www.microsoft.com/products/expression/en/graphic_designer/previous/expression3_home.aspx)（需註冊
-Hotmail Passport 帳號），而且同時提供了 [Mac OS X](../Page/Mac_OS_X.md "wikilink")
-版及 [Windows](../Page/Windows.md "wikilink") 版。另外，Expression 3.3
-的介面已經全面中文化，以利廣大中文用戶。
+Hotmail Passport 帳號），而且同時提供了 [Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 版及
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
+版。另外，Expression 3.3 的介面已經全面中文化，以利廣大中文用戶。
 
 於 2005 年 6 月，Microsoft Expression 推出了新的測試版本，代號名為
 [Acrylic](http://www.cgan.com/news/2724.htm)：這個新版本正處於測試階段。Acrylic
@@ -23,11 +25,12 @@ Hotmail Passport 帳號），而且同時提供了 [Mac OS X](../Page/Mac_OS_X.m
 [這個英文網頁](https://web.archive.org/web/20050617033639/http://www.studioe3.com/Acrylic/new.asp)。06年12月，Creature
 House Expression已融入[Microsoft Expression
 Studio中的](../Page/Microsoft_Expression_Studio.md "wikilink")[Microsoft
-Expression Design](../Page/Microsoft_Expression_Design.md "wikilink")。
+Expression
+Design](https://zh.wikipedia.org/wiki/Microsoft_Expression_Design "wikilink")。
 
 ## 支持文件格式
 
-可以打開[PSD](../Page/PSD.md "wikilink")、[AI](../Page/Adobe_Illustrator.md "wikilink")、[WMF等格式](../Page/WMF.md "wikilink")，導入[BMP](../Page/BMP.md "wikilink")、[GIF](../Page/GIF.md "wikilink")、[ICO](../Page/ICO.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[PNG](../Page/PNG.md "wikilink")、[TIFF等格式](../Page/TIFF.md "wikilink")，導出PNG、JPEG、GIF、TIFF、BMP、PSD、[PDF等格式](../Page/PDF.md "wikilink")。
+可以打開[PSD](https://zh.wikipedia.org/wiki/PSD "wikilink")、[AI](../Page/Adobe_Illustrator.md "wikilink")、[WMF等格式](../Page/WMF.md "wikilink")，導入[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")、[GIF](../Page/GIF.md "wikilink")、[ICO](../Page/ICO.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[PNG](../Page/PNG.md "wikilink")、[TIFF等格式](../Page/TIFF.md "wikilink")，導出PNG、JPEG、GIF、TIFF、BMP、PSD、[PDF等格式](https://zh.wikipedia.org/wiki/PDF "wikilink")。
 
 ## 相關文章及資源
 

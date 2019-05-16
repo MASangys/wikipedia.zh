@@ -1,10 +1,10 @@
 **iPod
-mini**是美国[蘋果公司於](../Page/蘋果公司.md "wikilink")2004年1月所发布的一款隨身數位音樂播放器。iPod
-mini屬於[iPod產品系列中體型較為小巧的版本](../Page/iPod.md "wikilink")，使用日本[日立](../Page/日立.md "wikilink")（Hitachi）公司所製造的[微型硬碟](../Page/微型硬碟.md "wikilink")（MicroDrive）作為儲存媒介，有4GB與6GB兩種容量，雖然在容量上相較於20GB與40GB的第四代標準型iPod小了很多，但因為使用微型硬碟而非iPod使用的小型攜帶式硬碟，因此mini擁有更精巧的體積與更輕的重量。而除了輕巧外，iPod
+mini**是美国[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2004年1月所发布的一款隨身數位音樂播放器。iPod
+mini屬於[iPod產品系列中體型較為小巧的版本](https://zh.wikipedia.org/wiki/iPod "wikilink")，使用日本[日立](https://zh.wikipedia.org/wiki/日立 "wikilink")（Hitachi）公司所製造的[微型硬碟](../Page/微型硬碟.md "wikilink")（MicroDrive）作為儲存媒介，有4GB與6GB兩種容量，雖然在容量上相較於20GB與40GB的第四代標準型iPod小了很多，但因為使用微型硬碟而非iPod使用的小型攜帶式硬碟，因此mini擁有更精巧的體積與更輕的重量。而除了輕巧外，iPod
 mini也是iPod系列裡少數擁有多種外殼顏色可以選擇的機種，只提供[USB
-2.0的电缆而无](../Page/USB.md "wikilink")[火線](../Page/火線.md "wikilink")（FireWire/[IEEE1394](../Page/IEEE1394.md "wikilink")）的电缆（1394电气接口依然存在），稍有不便利之處。由于iPod
+2.0的电缆而无](../Page/USB.md "wikilink")[火線](https://zh.wikipedia.org/wiki/火線 "wikilink")（FireWire/[IEEE1394](https://zh.wikipedia.org/wiki/IEEE1394 "wikilink")）的电缆（1394电气接口依然存在），稍有不便利之處。由于iPod
 mini 有许多不便利之处，因此，2005年9月7日，iPod mini 正式停产，继而代之的是[iPod
-Nano](../Page/iPod_nano.md "wikilink").
+Nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink").
 
 ## 型號
 
@@ -31,7 +31,7 @@ Nano](../Page/iPod_nano.md "wikilink").
 绿色<br />
 粉色<br />
 金色</p></td>
-<td><p><a href="../Page/Universal_Serial_Bus.md" title="wikilink">USB或</a><a href="../Page/IEEE_1394_interface.md" title="wikilink">FireWire</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal_Serial_Bus" title="wikilink">USB或</a><a href="https://zh.wikipedia.org/wiki/IEEE_1394_interface" title="wikilink">FireWire</a></p></td>
 <td><p>2004年1月6日</p></td>
 <td><p>Mac：<a href="../Page/Mac_OS_X_v10.1.md" title="wikilink">Mac OS X v10.1或later</a>[1]<br />
 Windows：<a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a><br />
@@ -56,9 +56,9 @@ iTunes 4.6或later</p></td>
 蓝色<br />
 绿色<br />
 粉色</p></td>
-<td><p><a href="../Page/Universal_Serial_Bus.md" title="wikilink">USB或</a><a href="../Page/IEEE_1394_interface.md" title="wikilink">FireWire</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal_Serial_Bus" title="wikilink">USB或</a><a href="https://zh.wikipedia.org/wiki/IEEE_1394_interface" title="wikilink">FireWire</a></p></td>
 <td><p>2005年1月23日</p></td>
-<td><p>Mac：<a href="../Page/Mac_OS_X_v10.2.md" title="wikilink">Mac OS X v10.2或</a><a href="../Page/Mac_OS_X_v10.3.md" title="wikilink">Mac OS X v10.3或later</a>[2]<br />
+<td><p>Mac：<a href="../Page/Mac_OS_X_v10.2.md" title="wikilink">Mac OS X v10.2或</a><a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3" title="wikilink">Mac OS X v10.3或later</a>[2]<br />
 Windows: <a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a><br />
 iTunes 4.7或later</p></td>
 <td><p>音頻：18</p></td>
@@ -90,10 +90,12 @@ iTunes 4.7或later</p></td>
 
 ## 参见
 
-  - [iPod](../Page/iPod.md "wikilink")
-  - [iPod classic](../Page/iPod_classic.md "wikilink")
-  - [iPod shuffle](../Page/iPod_shuffle.md "wikilink")
-  - [iPod nano](../Page/iPod_nano.md "wikilink")
+  - [iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")
+  - [iPod
+    classic](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")
+  - [iPod
+    shuffle](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")
+  - [iPod nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")
 
 ## 外部链接
 

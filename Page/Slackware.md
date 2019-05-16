@@ -1,14 +1,14 @@
 **Slackware**是**Slackware Linux,
-Inc**的制作的[Linux发行版本](../Page/Linux发行版本.md "wikilink")。Slackware走了一条与其他的发行版本（[Red
-Hat](../Page/Red_Hat.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、[SuSE](../Page/SuSE.md "wikilink")、[Mandriva](../Page/Mandriva_Linux.md "wikilink")、[Ubuntu等](../Page/Ubuntu.md "wikilink")）不同的道路，它力图成为“[UNIX风格](../Page/UNIX.md "wikilink")”的Linux发行版本\[1\]。它的方针是只吸收稳定版本的应用程序，并且缺少其他Linux版本中那些为发行版本定制的配置工具。
+Inc**的制作的[Linux发行版本](https://zh.wikipedia.org/wiki/Linux发行版本 "wikilink")。Slackware走了一条与其他的发行版本（[Red
+Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、[SuSE](https://zh.wikipedia.org/wiki/SuSE "wikilink")、[Mandriva](../Page/Mandriva_Linux.md "wikilink")、[Ubuntu等](../Page/Ubuntu.md "wikilink")）不同的道路，它力图成为“[UNIX风格](../Page/UNIX.md "wikilink")”的Linux发行版本\[1\]。它的方针是只吸收稳定版本的应用程序，并且缺少其他Linux版本中那些为发行版本定制的配置工具。
 
 ## 历史和命名
 
 [slackware-mascot.jpeg](https://zh.wikipedia.org/wiki/File:slackware-mascot.jpeg "fig:slackware-mascot.jpeg")\]\]
 
 第一个Slackware的版本1.00在1993年7月16日由创立者和开发领导者发布，\[2\]。 它是基于[SLS
-Linux并以](../Page/SLS_Linux.md "wikilink")3½"
-[软盘为镜像在匿名](../Page/软盘.md "wikilink")[FTP上发行](../Page/FTP.md "wikilink")。Slackware是现存最古老的Linux发行版本，在2003年度过了它的十周年纪念。
+Linux并以](https://zh.wikipedia.org/wiki/SLS_Linux "wikilink")3½"
+[软盘为镜像在匿名](../Page/软盘.md "wikilink")[FTP上发行](https://zh.wikipedia.org/wiki/FTP "wikilink")。Slackware是现存最古老的Linux发行版本，在2003年度过了它的十周年纪念。
 
 “Slackware”这个名字借用自《[大教堂和市集](../Page/大教堂和市集.md "wikilink")》（The Cathedral
 and the Bazaar）中的术语“Slack”。
@@ -24,8 +24,8 @@ Volkerding得了严重的疾病\[4\]，Slackware一下前途未卜。在他痊�
 
 在2005年，[GNOME桌面环境被从待发布的版本中刪除](../Page/GNOME.md "wikilink")，移交给了社群进行支持。GNOME的删除被Linux社群中的一些人认为是一个警訊，因为GNOME在各种Linux发行版本中都可以找到，一些由社群建立的支援計畫也因此誕生。
 
-贯穿Slackware的历史，出现一些在Slackware基础上制作的发行版本和[LiveCD](../Page/LiveCD.md "wikilink")。一些流行的发行版本就起源于Slackware，包括[SUSE](../Page/SUSE.md "wikilink")，[College
-Linux和](../Page/College_Linux.md "wikilink")[Slax](../Page/Slax.md "wikilink")。
+贯穿Slackware的历史，出现一些在Slackware基础上制作的发行版本和[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")。一些流行的发行版本就起源于Slackware，包括[SUSE](../Page/SUSE.md "wikilink")，[College
+Linux和](https://zh.wikipedia.org/wiki/College_Linux "wikilink")[Slax](../Page/Slax.md "wikilink")。
 
 ## 发布版本
 
@@ -61,17 +61,17 @@ Linux和](../Page/College_Linux.md "wikilink")[Slax](../Page/Slax.md "wikilink")
 
 x86发布历史
 
-Slackware主要为[x86](../Page/x86.md "wikilink")
-[PC开发](../Page/PC.md "wikilink")。然而曾经存在一些官方的[移植](../Page/移植_\(軟體\).md "wikilink")，像针对[DEC
-Alpha和](../Page/DEC_Alpha.md "wikilink")[SPARC架构的](../Page/SPARC.md "wikilink")。从2005年起，开始出现针对[System/390架构的官方移植](../Page/zSeries.md "wikilink")。同时也存在一些非官方的移植，[ARM](../Page/ARM.md "wikilink")，[DEC
+Slackware主要为[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")
+[PC开发](../Page/PC.md "wikilink")。然而曾经存在一些官方的[移植](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，像针对[DEC
+Alpha和](../Page/DEC_Alpha.md "wikilink")[SPARC架构的](../Page/SPARC.md "wikilink")。从2005年起，开始出现针对[System/390架构的官方移植](https://zh.wikipedia.org/wiki/zSeries "wikilink")。同时也存在一些非官方的移植，[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")，[DEC
 Alpha](../Page/DEC_Alpha.md "wikilink")，SPARC和[PowerPC](../Page/PowerPC.md "wikilink")。
 
 Slackware针对x86的最新稳定发布版本是14.2（2016年7月1日），其中包括了4.4.14版本内核，以及[KDE
 SC](../Page/KDE_Software_Compilation_4.md "wikilink")
 4.14.32（内有[Amarok](../Page/Amarok.md "wikilink")2.8.0媒体播放器）,
-[XFCE](../Page/XFCE.md "wikilink")
-4.12.1，最新版本的[Firefox和](../Page/Firefox.md "wikilink")[Thunderbird](../Page/Thunderbird.md "wikilink")，[glibc](../Page/glibc.md "wikilink")-2.23,
-[gcc](../Page/gcc.md "wikilink")-5.3.0以及其它常用软件。
+[XFCE](https://zh.wikipedia.org/wiki/XFCE "wikilink")
+4.12.1，最新版本的[Firefox和](../Page/Firefox.md "wikilink")[Thunderbird](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")，[glibc](https://zh.wikipedia.org/wiki/glibc "wikilink")-2.23,
+[gcc](https://zh.wikipedia.org/wiki/gcc "wikilink")-5.3.0以及其它常用软件。
 
 Slackware的测试／开发版本称为 '-current'，这是为了可以使用更多超前的配置。
 
@@ -82,12 +82,12 @@ Slackware 13.0，官方首次提供64位的版本下载。
 ### KISS
 
 [KISS](../Page/KISS原则.md "wikilink")，代表**“保持简洁，傻瓜”**（*Keep it Simple,
-Stupid*），是一个可以解释很多Slackware中设计选择的概念。在这个文本中，**“简洁”**（*simple*）指系统设计的观点，而不是指易用性。这也是为什么这个系统中只有极少数使用[GUI的配置工具](../Page/GUI.md "wikilink")。GUI工具（按照这理论所说）过于复杂，比起命令行工具来会引入更多的问题。这种原则导致的最终结果是Slackware以不友好的代价换取了系统非常快速、稳定和安全的特性。Slackware并不包含类似于service、chkconfig一类的用于代替用户修改系统配置的多余软件，它将系统“真实”的一面毫不隐藏的呈现给使用者，让人们看到“真正的”Linux。批评的观点一般集中于它让很多事做起来太费时而且难以学习。支持者回应到在这种灵活和透明的系统中操作得到的经验比起在那些遮掩内部细节的系统中要多得多。
+Stupid*），是一个可以解释很多Slackware中设计选择的概念。在这个文本中，**“简洁”**（*simple*）指系统设计的观点，而不是指易用性。这也是为什么这个系统中只有极少数使用[GUI的配置工具](https://zh.wikipedia.org/wiki/GUI "wikilink")。GUI工具（按照这理论所说）过于复杂，比起命令行工具来会引入更多的问题。这种原则导致的最终结果是Slackware以不友好的代价换取了系统非常快速、稳定和安全的特性。Slackware并不包含类似于service、chkconfig一类的用于代替用户修改系统配置的多余软件，它将系统“真实”的一面毫不隐藏的呈现给使用者，让人们看到“真正的”Linux。批评的观点一般集中于它让很多事做起来太费时而且难以学习。支持者回应到在这种灵活和透明的系统中操作得到的经验比起在那些遮掩内部细节的系统中要多得多。
 
 ### 启动脚本
 
 Slackware使用[BSD风格的](../Page/BSD.md "wikilink")[初始化脚本](../Page/初始化.md "wikilink")，其他的Linux发行版本大多使用[System
-V风格的初始化脚本](../Page/System_V.md "wikilink")。基本上System
+V风格的初始化脚本](https://zh.wikipedia.org/wiki/System_V "wikilink")。基本上System
 V风格的每个运行级都是存放初始化脚本的子目录，而BSD风格仅为每个运行级提供一个脚本。BSD风格的拥护者认为这样更佳，因为系统可以更容易找到，读取，编辑，和维护脚本。System
 V的拥护者认为System V的结构强大和灵活。
 
@@ -97,12 +97,12 @@ System V初始化\[5\]兼容在7.0版本之后被引入了Slackware中。
 
 Slackware的[软件包管理系统很独特](../Page/软件包管理系统.md "wikilink")。它的軟體套件管理系统和别的发行版本一样可以很容易的安装、升级、移除包。但是它不会试着去追踪或者管理涉及哪些依赖关系（也就是保证系统拥有所有的安装包内的程序需要的系统库）。如果所需要的先决条件不能满足，在程序执行之前不会有提醒和指示。
 
-包都经过[gzip压缩和](../Page/gzip.md "wikilink")[tarball打包](../Page/Tar_\(计算机科学\).md "wikilink")，但文件扩展名是`.tgz`，而不是`.tar.gz`。他们的结构是这样的：当在根目录下解压缩和释放，其中的文件会放置于它们的安装位置。因此可以不使用Slackware的包工具来安装包，而仅仅使用`tar`和`gzip`命令，如果包中有`doinst.sh`脚本，一定要运行它。
+包都经过[gzip压缩和](https://zh.wikipedia.org/wiki/gzip "wikilink")[tarball打包](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\) "wikilink")，但文件扩展名是`.tgz`，而不是`.tar.gz`。他们的结构是这样的：当在根目录下解压缩和释放，其中的文件会放置于它们的安装位置。因此可以不使用Slackware的包工具来安装包，而仅仅使用`tar`和`gzip`命令，如果包中有`doinst.sh`脚本，一定要运行它。
 
 相对的，[Red
-Hat的](../Page/Red_Hat.md "wikilink")[RPM是](../Page/RPM套件管理员.md "wikilink")[CPIO档案](../Page/CPIO.md "wikilink")，[Debian的](../Page/Debian.md "wikilink")[`.deb`](../Page/deb.md "wikilink")文件是[ar档案](../Page/ar_\(命令\).md "wikilink")。他们都包括一些依赖关系的信息，包管理器工具可以使用这些信息来寻找和安装先决条件。他们在先决条件满足前是不会安装新包的（虽然可以强制进行）。
+Hat的](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[RPM是](https://zh.wikipedia.org/wiki/RPM套件管理员 "wikilink")[CPIO档案](https://zh.wikipedia.org/wiki/CPIO "wikilink")，[Debian的](../Page/Debian.md "wikilink")[`.deb`](https://zh.wikipedia.org/wiki/deb "wikilink")文件是[ar档案](https://zh.wikipedia.org/wiki/ar_\(命令\) "wikilink")。他们都包括一些依赖关系的信息，包管理器工具可以使用这些信息来寻找和安装先决条件。他们在先决条件满足前是不会安装新包的（虽然可以强制进行）。
 
-关于追踪或者无视依赖关系孰优孰劣的争论并不很热闹，这多少让人想起了持续甚久的"[vi对](../Page/vi.md "wikilink")[Emacs](../Page/Emacs.md "wikilink")"的“宗教战争”。Slackware解决问题的方法被技巧熟练的用户群很好的接受了。
+关于追踪或者无视依赖关系孰优孰劣的争论并不很热闹，这多少让人想起了持续甚久的"[vi对](https://zh.wikipedia.org/wiki/vi "wikilink")[Emacs](../Page/Emacs.md "wikilink")"的“宗教战争”。Slackware解决问题的方法被技巧熟练的用户群很好的接受了。
 
 #### 自动依赖的解决方案
 
@@ -117,16 +117,17 @@ Hat的](../Page/Red_Hat.md "wikilink")[RPM是](../Page/RPM套件管理员.md "wi
   - [slackpkg](http://slackpkg.sourceforge.net/)
 
 Slackware
-9.1在第二张CD上提供了作为补充的[Swaret](../Page/Swaret.md "wikilink")，但是并不默认安装它。自Slackware
-10.0之后，[Swaret被从发行版本中删除但作为第三方的包仍然可用](../Page/Swaret.md "wikilink")。
+9.1在第二张CD上提供了作为补充的[Swaret](https://zh.wikipedia.org/wiki/Swaret "wikilink")，但是并不默认安装它。自Slackware
+10.0之后，[Swaret被从发行版本中删除但作为第三方的包仍然可用](https://zh.wikipedia.org/wiki/Swaret "wikilink")。
 
-[slackpkg自Slackware](../Page/slackpkg.md "wikilink") 9.1开始包含在／extra中。
+[slackpkg自Slackware](https://zh.wikipedia.org/wiki/slackpkg "wikilink")
+9.1开始包含在／extra中。
 
-[slapt-get并不提供依赖关系的解决](../Page/slapt-get.md "wikilink")。它只是提供解决依赖关系的框架，用以处理一些流行的类似APT的Slackware兼容包。一些Slackware衍生版本利用了这些功能的优点。
+[slapt-get并不提供依赖关系的解决](https://zh.wikipedia.org/wiki/slapt-get "wikilink")。它只是提供解决依赖关系的框架，用以处理一些流行的类似APT的Slackware兼容包。一些Slackware衍生版本利用了这些功能的优点。
 
 ## 互联网社区
 
-Slackware是很多现今不那么流行的[论坛的讨论主题](../Page/Internet_forum.md "wikilink")，例如[Usenet](../Page/Usenet.md "wikilink")[新闻组](../Page/新闻组.md "wikilink")[*alt.os.linux.slackware*](news://alt.os.linux.slackware)以及irc.freenode.net上的[IRC频道](../Page/IRC.md "wikilink")[*\#slackware*](http://arquivo.pt/wayback/20141125012630/http://irc.freenode.net/#slackware)。
+Slackware是很多现今不那么流行的[论坛的讨论主题](https://zh.wikipedia.org/wiki/Internet_forum "wikilink")，例如[Usenet](../Page/Usenet.md "wikilink")[新闻组](../Page/新闻组.md "wikilink")[*alt.os.linux.slackware*](news://alt.os.linux.slackware)以及irc.freenode.net上的[IRC频道](../Page/IRC.md "wikilink")[*\#slackware*](http://arquivo.pt/wayback/20141125012630/http://irc.freenode.net/#slackware)。
 
 ## 参考资料
 

@@ -31,16 +31,17 @@
 </tbody>
 </table>
 
-**Socket 754**是[AMD處理器專用插座的一種](../Page/AMD.md "wikilink")，用作取代[Athlon
-XP所使用的](../Page/Athlon_XP.md "wikilink")[Socket
-A](../Page/Socket_A.md "wikilink")，也是首款支援自家的64位平台AMD64（[x86-64](../Page/x86-64.md "wikilink")）的插座。它採用HyperTransport技術與晶片組連接。
+**Socket
+754**是[AMD處理器專用插座的一種](https://zh.wikipedia.org/wiki/AMD "wikilink")，用作取代[Athlon
+XP所使用的](https://zh.wikipedia.org/wiki/Athlon_XP "wikilink")[Socket
+A](../Page/Socket_A.md "wikilink")，也是首款支援自家的64位平台AMD64（[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）的插座。它採用HyperTransport技術與晶片組連接。
 
 這款插座屬PGA-ZIF形式，使用時-{只}-要把槓桿拉起，將處理器依正確方向插入，再把槓桿推落鎖緊即可。
 
 Socket 754支援K8微架構的[Athlon
-64](../Page/Athlon_64.md "wikilink")、[Sempron](../Page/Sempron.md "wikilink")、[Turion
+64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")、[Turion
 64及](../Page/Turion_64.md "wikilink")[Athlon
-XP-M處理器](../Page/Athlon.md "wikilink")，與[Socket
+XP-M處理器](https://zh.wikipedia.org/wiki/Athlon "wikilink")，與[Socket
 939主要不同的地方計有](../Page/Socket_939.md "wikilink")：
 
   - 支援包含最多3條DIMM插槽的單通道記憶體控制器（64位）
@@ -53,15 +54,15 @@ XP-M處理器](../Page/Athlon.md "wikilink")，與[Socket
 
 ## 使用Socket 754的處理器核心
 
-| 核心               | 品牌                                           | 型號                       | 備註                                     |
-| ---------------- | -------------------------------------------- | ------------------------ | -------------------------------------- |
-| Clawhammer       | [Athlon 64](../Page/Athlon_64.md "wikilink") | 2800+\~3700+             |                                        |
-| Newcastle        | [Athlon 64](../Page/Athlon_64.md "wikilink") | 2800+\~3400+             |                                        |
-| Venice           | [Athlon 64](../Page/Athlon_64.md "wikilink") | 3000+\~3200+             |                                        |
-| Palermo          | [Sempron](../Page/Sempron.md "wikilink")     | 2500+\~3000+             |                                        |
-| Winchester 128KB | [Sempron](../Page/Sempron.md "wikilink")     | 2600+                    |                                        |
-| Paris            | [Sempron](../Page/Sempron.md "wikilink")     | 3000+,3100+              |                                        |
-| Lancaster        | [Turion 64](../Page/Turion_64.md "wikilink") | MT-28\~MT40，ML-28\~ML-44 | 僅供[流動平台使用](../Page/流動平台.md "wikilink") |
+| 核心               | 品牌                                                              | 型號                       | 備註                                                        |
+| ---------------- | --------------------------------------------------------------- | ------------------------ | --------------------------------------------------------- |
+| Clawhammer       | [Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink") | 2800+\~3700+             |                                                           |
+| Newcastle        | [Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink") | 2800+\~3400+             |                                                           |
+| Venice           | [Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink") | 3000+\~3200+             |                                                           |
+| Palermo          | [Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")     | 2500+\~3000+             |                                                           |
+| Winchester 128KB | [Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")     | 2600+                    |                                                           |
+| Paris            | [Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")     | 3000+,3100+              |                                                           |
+| Lancaster        | [Turion 64](../Page/Turion_64.md "wikilink")                    | MT-28\~MT40，ML-28\~ML-44 | 僅供[流動平台使用](https://zh.wikipedia.org/wiki/流動平台 "wikilink") |
 
 ## 支援Socket 754的晶片組
 
@@ -75,7 +76,7 @@ XP-M處理器](../Page/Athlon.md "wikilink")，與[Socket
 
 ### nVidia
 
-  - [nForce 3](../Page/nForce_3.md "wikilink")
+  - [nForce 3](https://zh.wikipedia.org/wiki/nForce_3 "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +85,7 @@ XP-M處理器](../Page/Athlon.md "wikilink")，與[Socket
 
 <!-- end list -->
 
-  - [nForce 4](../Page/nForce_4.md "wikilink")
+  - [nForce 4](https://zh.wikipedia.org/wiki/nForce_4 "wikilink")
 
 <!-- end list -->
 

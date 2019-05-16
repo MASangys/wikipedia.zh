@@ -1,4 +1,4 @@
-是[日本](../Page/日本.md "wikilink")[東京電視台的](../Page/東京電視台.md "wikilink")[子公司](../Page/子公司.md "wikilink")，其製作的[動畫主要供應給東京電視台的主頻道及其附屬日本動畫頻道](../Page/動畫.md "wikilink")[AT-X播放](../Page/AT-X.md "wikilink")。該公司製作的動畫至今已播放的有二十套，包括、及等。
+是[日本](../Page/日本.md "wikilink")[東京電視台的](../Page/東京電視台.md "wikilink")[子公司](../Page/子公司.md "wikilink")，其製作的[動畫主要供應給東京電視台的主頻道及其附屬日本動畫頻道](https://zh.wikipedia.org/wiki/動畫 "wikilink")[AT-X播放](../Page/AT-X.md "wikilink")。該公司製作的動畫至今已播放的有二十套，包括、及等。
 
 ## 沿革
 
@@ -8,15 +8,15 @@
 
   - [神秘的世界](../Page/神秘的世界.md "wikilink")（原名：神秘の世界エルハザード）
   - [巴比倫2世](../Page/巴比倫2世.md "wikilink")（原名：バビル2世）
-  - [零戰士](../Page/零戰士.md "wikilink")（原名：コスモウォーリアー零）
-  - [幻魔大戰](../Page/幻魔大戰.md "wikilink")（原名：幻魔大戦）
-  - [魔獸戰線](../Page/魔獸戰線.md "wikilink")（原名：魔獣戦線）
-  - [寵物小精靈](../Page/寵物小精靈.md "wikilink")（亞洲）（原名：ポケットモンスター）
+  - [零戰士](https://zh.wikipedia.org/wiki/零戰士 "wikilink")（原名：コスモウォーリアー零）
+  - [幻魔大戰](https://zh.wikipedia.org/wiki/幻魔大戰 "wikilink")（原名：幻魔大戦）
+  - [魔獸戰線](https://zh.wikipedia.org/wiki/魔獸戰線 "wikilink")（原名：魔獣戦線）
+  - [寵物小精靈](https://zh.wikipedia.org/wiki/寵物小精靈 "wikilink")（亞洲）（原名：ポケットモンスター）
   - [男女蹺蹺板](../Page/男女蹺蹺板.md "wikilink")
   - [哈姆太郎](../Page/哈姆太郎.md "wikilink")（原名：とっとこハム太郎）
-  - [星夢美少女](../Page/星夢美少女.md "wikilink")（原名：カレイドスター）
+  - [星夢美少女](https://zh.wikipedia.org/wiki/星夢美少女 "wikilink")（原名：カレイドスター）
   - [魔偵探洛基](../Page/魔偵探洛基.md "wikilink")（原名：魔探偵ロキ）
-  - [守護甜心\!](../Page/守護甜心!.md "wikilink")
+  - [守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")
   - [戀愛班長](../Page/戀愛班長.md "wikilink")
   - [寶石寵物 Tinkle☆](../Page/寶石寵物.md "wikilink")
 

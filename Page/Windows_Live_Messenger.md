@@ -1,16 +1,16 @@
 **Windows Live
-Messenger**（簡寫**WLM**，俗稱**MSN**），是[微軟開發的](../Page/微軟.md "wikilink")[即時通訊軟體](../Page/即時通訊軟體.md "wikilink")，現已經結束服務。8.0版本之前称作**MSN
-Messenger**。預載於[視窗作業系統之中](../Page/視窗作業系統.md "wikilink")，是微软在线服务[Windows
+Messenger**（簡寫**WLM**，俗稱**MSN**），是[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")，現已經結束服務。8.0版本之前称作**MSN
+Messenger**。預載於[視窗作業系統之中](https://zh.wikipedia.org/wiki/視窗作業系統 "wikilink")，是微软在线服务[Windows
 Live的一部分](../Page/Windows_Live.md "wikilink")，Windows Live
 Messenger包括MSN
-Messenger的全部功能，并再加上新的连接和[共享文件方法](../Page/共享.md "wikilink")，例如支持了MSN
+Messenger的全部功能，并再加上新的连接和[共享文件方法](https://zh.wikipedia.org/wiki/共享 "wikilink")，例如支持了MSN
 Messenger所不支持的离线消息以及离线共享文件。同时，微软也从[Windows Live
 OneCare中提取出一个](../Page/Windows_Live_OneCare.md "wikilink")[-{zh-hans:杀毒组件;
-zh-hant:防毒元件;}-](../Page/防毒軟件.md "wikilink")，专供Windows Live
-Messenger用于扫描接收到的文件。
+zh-hant:防毒元件;}-](https://zh.wikipedia.org/wiki/防毒軟件 "wikilink")，专供Windows
+Live Messenger用于扫描接收到的文件。
 
 Windows Live
-Messenger曾是很多人使用的即時通訊軟體，結束服務前最晚版本除了有基本的文字通訊之外，還支援視訊會議、語音交談、多人會議、連線遊戲等等延伸功能，並且容許使用者在對話中插入它提供的[圖示](../Page/表情符號_\(圖片\).md "wikilink")，也容許使用者自己添加更多圖示。自第6版起它更能使用者個性化，例如自訂[表情符號](../Page/表情符號_\(圖片\).md "wikilink")、對話視窗的背景和主題、顯示圖片等。除此，還有一群軟體設計師為它製作第三方的附加軟體。
+Messenger曾是很多人使用的即時通訊軟體，結束服務前最晚版本除了有基本的文字通訊之外，還支援視訊會議、語音交談、多人會議、連線遊戲等等延伸功能，並且容許使用者在對話中插入它提供的[圖示](https://zh.wikipedia.org/wiki/表情符號_\(圖片\) "wikilink")，也容許使用者自己添加更多圖示。自第6版起它更能使用者個性化，例如自訂[表情符號](https://zh.wikipedia.org/wiki/表情符號_\(圖片\) "wikilink")、對話視窗的背景和主題、顯示圖片等。除此，還有一群軟體設計師為它製作第三方的附加軟體。
 
 Windows版本的MSN Messenger的最晚版本為7.5，於2005年8月23日推出。此後MSN
 Messenger停止開發，後繼版本已經更名為Windows Live
@@ -18,23 +18,25 @@ Messenger（WLM），結束服務前最新版本為2011（Windows Live Essential
 2011），實際上Windows Live Messenger等於MSN
 Messenger的新版。但其實Windows版的MSN
 Messenger仍然存在，因為WLM並不支援較舊的視窗系統，例如[Windows
-ME](../Page/Windows_ME.md "wikilink")。
+ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")。
 
-同時微軟公司還開發了[Mac OS版本的MSN](../Page/Mac_OS.md "wikilink")
+同時微軟公司還開發了[Mac
+OS版本的MSN](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")
 Messenger，被称为Microsoft Messenger。在結束服務前[Mac OS
-X版本的MSN](../Page/Mac_OS_X.md "wikilink") Messenger最新版為8.0.0，直至MSN
-Messenger for [MAC](../Page/Macintosh.md "wikilink")
+X版本的MSN](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
+Messenger最新版為8.0.0，直至MSN Messenger for
+[MAC](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
 6.0.2，其功能與Windows版本相比顯得很不周全，8.0之前的版本並不支援視訊或語音交談，所以許多Mac使用者轉而使用非官方的MSN
 Messenger軟體以補足官方軟體的不足。然而，Microsoft已經推出8.0版本并支持视频与语音交谈。Mac OS 9版本的MSN
 Messenger最新版為2.5.1。
 
-2004年8月，微軟發表可於[瀏覽器上使用的MSN](../Page/瀏覽器.md "wikilink") Messenger版本「[MSN
-Web
-Messenger](../Page/MSN_Web_Messenger.md "wikilink")」，這樣使用者只須使用瀏覽器而不需要在電腦上安裝軟體。它的服務可以在[行動電話上使用](../Page/行動電話.md "wikilink")。
+2004年8月，微軟發表可於[瀏覽器上使用的MSN](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")
+Messenger版本「[MSN Web
+Messenger](https://zh.wikipedia.org/wiki/MSN_Web_Messenger "wikilink")」，這樣使用者只須使用瀏覽器而不需要在電腦上安裝軟體。它的服務可以在[行動電話上使用](https://zh.wikipedia.org/wiki/行動電話 "wikilink")。
 
-2009年，隨著社交網站[facebook的普及](../Page/facebook.md "wikilink")，以及其附設的聊天功能（facebook
+2009年，隨著社交網站[facebook的普及](https://zh.wikipedia.org/wiki/facebook "wikilink")，以及其附設的聊天功能（facebook
 chat），Windows Live
-Messenger的部分功能被取替，使得其用戶量有所下降。2011年，隨着[智能手機的通訊軟件](../Page/智能手機.md "wikilink")[WhatsApp和](../Page/WhatsApp.md "wikilink")[LINE等的普及](../Page/LINE.md "wikilink")，Windows
+Messenger的部分功能被取替，使得其用戶量有所下降。2011年，隨着[智能手機的通訊軟件](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[WhatsApp和](../Page/WhatsApp.md "wikilink")[LINE等的普及](../Page/LINE.md "wikilink")，Windows
 Live Messenger的使用率再受打擊。
 
 2012年底，微软宣佈在2013年4月8日会在全球范围内用[Skype替换Windows](../Page/Skype.md "wikilink")
@@ -44,8 +46,8 @@ Live Messenger正式結束其生命周期。
 
 ## 功能
 
-除了[即時通訊軟體具備的基本功能外](../Page/即時通訊軟體.md "wikilink")，**Windows Live
-Messenger**亦提供以下擴展功能：
+除了[即時通訊軟體具備的基本功能外](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")，**Windows
+Live Messenger**亦提供以下擴展功能：
 
 ### 共享資料夾
 
@@ -63,7 +65,7 @@ Messenger**獨有的功能，它是「直接發送檔案」外另一種交換檔
 ### 與其他即時通訊軟體互通
 
 Windows Live
-Messenger可以和[Yahoo\!即時通互通](../Page/Yahoo!即時通.md "wikilink")，但僅限於基本的對話功能而已，像是視訊、動畫快遞，以及其他雙方軟體所各有的獨特功能仍無法互通，服務提供到
+Messenger可以和[Yahoo\!即時通互通](https://zh.wikipedia.org/wiki/Yahoo!即時通 "wikilink")，但僅限於基本的對話功能而已，像是視訊、動畫快遞，以及其他雙方軟體所各有的獨特功能仍無法互通，服務提供到
 2013年12月14日止\[4\]。
 
 ### 遊戲和應用程式
@@ -86,20 +88,20 @@ Call也支援撥打電話的功能](../Page/Windows_Live_Call.md "wikilink")，�
 
 ### i'm
 
-**i'm**是一個由[微軟於](../Page/微軟.md "wikilink")2007年3月發起的慈善活動。此活動旨在**Windows
+**i'm**是一個由[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2007年3月發起的慈善活動。此活動旨在**Windows
 Live Messenger**的部分廣告收益捐贈給下表中的組織\[6\]。使用者可以透過將對應的文字碼加入在**Windows Live
 Messenger**中的顯示名稱，以支持其喜愛的組織。
 
 截止2010年1月，i'm總捐助額已經超過241萬美元\[7\]，而**Windows Live
 Messenger**的下載量亦因而增加了2千多萬次。微軟目前將[Windows Live
-Hotmail加入此計劃](../Page/Windows_Live_Hotmail.md "wikilink")。\[8\]
+Hotmail加入此計劃](https://zh.wikipedia.org/wiki/Windows_Live_Hotmail "wikilink")。\[8\]
 
 i'm需要使用Windows Live Messenger
-8.1以上的版本，並只限於[美國及](../Page/美國.md "wikilink")[澳洲境內的使用者](../Page/澳洲.md "wikilink")。
+8.1以上的版本，並只限於[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[澳洲境內的使用者](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。
 
 | 字碼       | 受益組織                                                                                     |
 | -------- | ---------------------------------------------------------------------------------------- |
-| \*red+u  | 美國[紅十字會](../Page/紅十字會.md "wikilink")                                                     |
+| \*red+u  | 美國[紅十字會](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")                                  |
 | \*bgca   | [美國兒童群益會](https://web.archive.org/web/20100913162701/http://www.bgca.org/)               |
 | \*naf    | [美國國家愛滋基金會](http://webarchive.loc.gov/all/20011019002443/http://www.aidsfund.org/)       |
 | \*mssoc  | [美國國家多發性硬化症學會](http://www.nationalmssociety.org/)                                        |
@@ -107,7 +109,7 @@ i'm需要使用Windows Live Messenger
 | \*sierra | [地球環境協會](http://www.sierraclub.org/)                                                     |
 | \*help   | [全球防止暖化協會](https://web.archive.org/web/20070109191258/http://www.stopglobalwarming.org/) |
 | \*komen  | [乳癌基金會](http://www.komen.org/)                                                           |
-| \*unicef | [聯合國兒童基金會](../Page/聯合國兒童基金會.md "wikilink")                                               |
+| \*unicef | [聯合國兒童基金會](https://zh.wikipedia.org/wiki/聯合國兒童基金會 "wikilink")                            |
 | \*hsus   | [美國人道協會](http://www.hsus.org/)                                                           |
 
 ## 歷史
@@ -121,24 +123,24 @@ Messenger」做為它的名稱。而這段期間內，微軟總共釋出過7個�
 
 第一版（1.0.0863）的MSN Messenger
 Service是在1999年7月22日時發行。它僅包含了基本的功能，像是簡單的文字交談，以及簡略的好友清單。而它其中的功能之一在於可以連上[America
-Online's](../Page/America_Online.md "wikilink")
-[AIM的網路](../Page/AOL_Instant_Messenger.md "wikilink")。America
+Online's](https://zh.wikipedia.org/wiki/America_Online "wikilink")
+[AIM的網路](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")。America
 Online一直到這個功能被移除掉以前都嘗試著要阻止微軟的這套軟體和它們的服務相連。\[9\]而自從移除該功能之後，這套軟體便只能和微軟自己的服務連結，而這須要一個[Windows
-Live ID帳號來登入](../Page/Windows_Live_ID.md "wikilink")。
+Live ID帳號來登入](https://zh.wikipedia.org/wiki/Windows_Live_ID "wikilink")。
 
 微軟於1999年11月16日發佈第一次的主要更新，第二版（2.0.0083）的MSN Messenger
 Service。它包含了一個會循環的廣告橫幅，另外，交談的視窗在這一版中開始有了可以設置外觀的能力。它從做為[Windows
-Me的安裝選項開始出現](../Page/Windows_Me.md "wikilink")。而在2000年3月29日，它便推出了下一版，第三版（3.0.0080）。在這一版中，它包含了檔案傳輸的功能，並且透過[Net2Phone而有了PC對PC和PC對電話得語音交談功能](../Page/Net2Phone.md "wikilink")。
+Me的安裝選項開始出現](../Page/Windows_Me.md "wikilink")。而在2000年3月29日，它便推出了下一版，第三版（3.0.0080）。在這一版中，它包含了檔案傳輸的功能，並且透過[Net2Phone而有了PC對PC和PC對電話得語音交談功能](https://zh.wikipedia.org/wiki/Net2Phone "wikilink")。
 
 隨著[Windows XP的發行](../Page/Windows_XP.md "wikilink")，4.6版的MSN
 Messenger在2001年10月23日也隨之發行。
 
 它主要改變的內容包含，使用者介面的改變、群組交談的能力、以及支援語音交談。在這一版中，軟體的名稱從「MSN Messenger
 Service」改為「MSN Messenger」，而基本服務的名稱則變為「[.NET Messenger
-Service](../Page/.NET_Messenger_Service.md "wikilink")」，這名字從此便延續下去。而這一版的MSN只相容於[Windows](../Page/Windows.md "wikilink")
+Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")」，這名字從此便延續下去。而這一版的MSN只相容於[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 [95](../Page/Windows_95.md "wikilink")、
 [98](../Page/Windows_98.md "wikilink")、
-[Me](../Page/Windows_ME.md "wikilink")、 [NT
+[Me](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")、 [NT
 4.0](../Page/Windows_NT_4.0.md "wikilink")、以及
 [2000](../Page/Windows_2000.md "wikilink")，因為微軟為[Windows
 XP提供了另一版的新程式](../Page/Windows_XP.md "wikilink")，稱為[Windows
@@ -148,16 +150,17 @@ XP取代MSN Messenger。
 而這個策略隨著2002年10月24日發佈的MSN Messenger 5.0版而被改變了。這一版的MSN
 Messenger是第一版可以被允許和[Windows
 XP上的Windows](../Page/Windows_XP.md "wikilink")
-Messenger安裝在一起的版本。而它包含了支援在[通用即插即用](../Page/通用即插即用.md "wikilink")（[UPnP](../Page/Universal_Plug_and_Play.md "wikilink")）上的檔案傳輸、對於使用者介面的細部修改、以及將[Windows
-Media Player的介面放入其中](../Page/Windows_Media_Player.md "wikilink")。
+Messenger安裝在一起的版本。而它包含了支援在[通用即插即用](https://zh.wikipedia.org/wiki/通用即插即用 "wikilink")（[UPnP](https://zh.wikipedia.org/wiki/Universal_Plug_and_Play "wikilink")）上的檔案傳輸、對於使用者介面的細部修改、以及將[Windows
+Media
+Player的介面放入其中](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")。
 
 2003年7月17日，微軟發佈MSN Messenger 6.0版。MSN Messenger 6.0版是對於整個MSN
 Messenger的重大改版。他不再僅只能以文字的方式交談，也納入了像是表情符號、背景圖片等新要素。而針對這一版的升級，6.1版，則著重於交談視窗的改善，它允許使用者可以隱藏window的視窗和工具列，也允許使用者可以更換視窗的主題色彩，而使主題色彩可以和別人不一樣。接下來在2004年4月22日發佈的6.2版是MSN
 Messenger6系列的最後一版。而最值得註意的是，這一版加入了和手機交談的功能、連線疑難排除員等新功能。
 
 在2005年4月7日，MSN
-Messenger再次做出重大改版，7.0版問世。這一版加入了[動畫快遞的功能](../Page/動畫快遞.md "wikilink")，而這之前只能在[Three
-Degrees上看見](../Page/Three_Degrees.md "wikilink")；另外也加入了一些廣告，販售動畫顯示圖案、表情符號和背景圖片，同時還加入了手寫的功能。而這是最後一版支援[Windows
+Messenger再次做出重大改版，7.0版問世。這一版加入了[動畫快遞的功能](https://zh.wikipedia.org/wiki/動畫快遞 "wikilink")，而這之前只能在[Three
+Degrees上看見](https://zh.wikipedia.org/wiki/Three_Degrees "wikilink")；另外也加入了一些廣告，販售動畫顯示圖案、表情符號和背景圖片，同時還加入了手寫的功能。而這是最後一版支援[Windows
 98和](../Page/Windows_98.md "wikilink")[Windows
 Me的MSN](../Page/Windows_Me.md "wikilink") Messenger。
 
@@ -166,7 +169,7 @@ Messenger是在2005年8月23日發佈的7.5版。這一版中加入的新功能�
 
 ### Windows Live Messenger 8.0
 
-做為[微軟](../Page/微軟.md "wikilink")[Windows
+做為[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
 Live功能的一部分](../Page/Windows_Live.md "wikilink")，MSN
 Messenger也從8.0版以後被改名為「Windows Live Messenger」。
 
@@ -204,8 +207,8 @@ Refresh而言，最終推出的8.1正式版並沒有做出任何變動\[22\]。
 隨著2007年5月27日，一個名為LiveSide的網站新聞將Windows Live Messenger
 8.5的西班牙語測試版洩漏出來\[23\]後不久，第一個Windows Live
 Messenger 8.5英文版的測試版，Beta
-1，於2007年5月31日也在[美國](../Page/美國.md "wikilink")、[英國](../Page/英國.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[愛爾蘭](../Page/愛爾蘭.md "wikilink")、[印度](../Page/印度.md "wikilink")、[法國](../Page/法國.md "wikilink")、[日本](../Page/日本.md "wikilink")、[德國](../Page/德國.md "wikilink")、[中國和](../Page/中國.md "wikilink")[西班牙等地區發行](../Page/西班牙.md "wikilink")\[24\]。並於2007年6月21日時藉由[Microsoft
-Update發佈更新](../Page/Microsoft_Update.md "wikilink")。而這個版本比起先前的版本僅需要[Windows
+1，於2007年5月31日也在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")、[印度](../Page/印度.md "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[日本](../Page/日本.md "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[中國和](../Page/中國.md "wikilink")[西班牙等地區發行](../Page/西班牙.md "wikilink")\[24\]。並於2007年6月21日時藉由[Microsoft
+Update發佈更新](https://zh.wikipedia.org/wiki/Microsoft_Update "wikilink")。而這個版本比起先前的版本僅需要[Windows
 XP](../Page/Windows_XP.md "wikilink") SP1即可而言，其最低系統需求為[Windows
 XP](../Page/Windows_XP.md "wikilink") SP2。且他是第一個被安裝在「Program
 Files」資料夾下的「Windows
@@ -213,16 +216,16 @@ Live」資料夾中，並且在[開始功能表中的](../Page/開始功能表.m
 Live」資料夾建立捷徑的版本。
 
 而在Beta 1中主要變更和增加的功能包含：新的整合型安裝程式[Windows Live
-2.0](../Page/Windows_Live#Windows_Live_2.0.md "wikilink")、為了和Windows
+2.0](https://zh.wikipedia.org/wiki/Windows_Live#Windows_Live_2.0 "wikilink")、為了和Windows
 Vista的風格相配合之新玻璃外觀\[25\]、新的表情符號、\[26\]並且和[Windows Live
 OneCare家長監護服務相整合](../Page/Windows_Live_OneCare.md "wikilink")\[27\]另外，從這一版開始，Windows
 Live Messenger開始可以從[Microsoft
-Update下載並安裝](../Page/Microsoft_Update.md "wikilink")。
+Update下載並安裝](https://zh.wikipedia.org/wiki/Microsoft_Update "wikilink")。
 
 Windows Live Messenger 8.5的第二個測試版Beta 2在2007年9月5日時釋出\[28\]。在Beta
 2中，其修正了一些錯誤，但和第一個測試版相比，並沒有做出顯著的改變。而這一版中並沒有掛上「Beta」的字樣，但開發者有特別強調其並非最終發行版。而被用來安裝Windows
 Live Messenger 8.5 Beta 2的新[Windows Live
-Installer並沒有在Windows](../Page/Windows_Live_Installer.md "wikilink")
+Installer並沒有在Windows](https://zh.wikipedia.org/wiki/Windows_Live_Installer "wikilink")
 Server 2003中運行。
 
 Windows Live Messenger 8.5的最終發行版在2007年11月6日時推出，但其中並沒有重大的更新\[29\]。
@@ -234,14 +237,14 @@ Live以及](../Page/Windows_Live.md "wikilink")[Microsoft
 Office的程式](../Page/Microsoft_Office.md "wikilink")，所以將之改為14.0。
 
 在一場於Georgia Institute of Technology's IEEE Student
-Branch的介紹中，[微軟職員Andrew](../Page/微軟.md "wikilink")
-Jenks說道，Messenger團隊已經致力於達成多人語音及視訊交談，並且企圖開發出能與[AIM](../Page/AOL_Instant_Messenger.md "wikilink")／[XMPP](../Page/XMPP.md "wikilink")／[ICQ交談的Windows](../Page/ICQ.md "wikilink")
+Branch的介紹中，[微軟職員Andrew](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+Jenks說道，Messenger團隊已經致力於達成多人語音及視訊交談，並且企圖開發出能與[AIM](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")／[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")／[ICQ交談的Windows](../Page/ICQ.md "wikilink")
 Live Messenger，就如同現在與[Yahoo\!
 Messenger交談的模式一般](../Page/Yahoo!_Messenger.md "wikilink")。\[30\]然而，這個構想並沒有出現在Windows
 Live Messenger 2009的任何一個測試版中。
 
-在2008年9月17日，[微軟釋出了第一個官方測試版](../Page/微軟.md "wikilink")，Windows Live
-Messenger 2009 Beta（Milestone 3, Build 14.0.5027.908），供大眾免費下載。
+在2008年9月17日，[微軟釋出了第一個官方測試版](https://zh.wikipedia.org/wiki/微軟 "wikilink")，Windows
+Live Messenger 2009 Beta（Milestone 3, Build 14.0.5027.908），供大眾免費下載。
 而在這一版中，而其有幾個值得注意的改變，首先是為了配合Windows Live Wave
 3而設計的全新使用者介面、移除掉多餘的按鈕標籤、將「馬上回來」、「外出用餐」、「通話中」的狀態選項取消。另外，也讓使用者可以自己選擇聯絡人清單的「個人化介面」，亦即就其背景和顏色可以做出個人化的設定。最後，值得注意的是，共享資料夾在這一版中將不再繼續支援這項功能。
 
@@ -249,8 +252,8 @@ Messenger 2009 Beta（Milestone 3, Build 14.0.5027.908），供大眾免費下�
 
 2008年12月15日，微軟釋出了Windows Live Messenger 2009的RC（Build
 14.0.8050.1202）版，同時一起推出的也包含被重新命名為「[Windows Live
-Essentials](../Page/Windows_Live_Essentials.md "wikilink")」的Windows Live
-Wave
+Essentials](https://zh.wikipedia.org/wiki/Windows_Live_Essentials "wikilink")」的Windows
+Live Wave
 3之相關應用程式。\[31\]在RC版中，取消了聯絡人登入音效的功能，但仍然可以為不同的聯絡人選擇各自的登入音效。再者，這一版也修正了先前所發現超過200個錯誤。
 
 2009年1月7日，Windows Live Messenger 2009的最終發行版推出，不過其版號與RC版相同，皆為Build
@@ -263,7 +266,7 @@ Messenger 2011並不支援Windows XP，僅支援32或64位元版本的Windows 7�
 Vista之平台更新的Windows Vista‌ SP2、Windows Server 2008 R2，或具備適用於Windows
 Server 2008之平台更新的Windows Server 2008 SP2。
 
-這個版本登入後有兩種模式可以選擇：「完整模式」除會顯示Messenger的連絡人清單外，會在左側一大區域顯示所支援的社群網站更新。例如，在Messenger選擇與[facebook連線後](../Page/facebook.md "wikilink")，左側就會出現有關Facebook最近的動態。該社區網站的連絡人清單亦會被整合進Messenger連絡人清單裡。若不需檢視其它社交網站，則將Messenger切換成「精簡模式」就好。
+這個版本登入後有兩種模式可以選擇：「完整模式」除會顯示Messenger的連絡人清單外，會在左側一大區域顯示所支援的社群網站更新。例如，在Messenger選擇與[facebook連線後](https://zh.wikipedia.org/wiki/facebook "wikilink")，左側就會出現有關Facebook最近的動態。該社區網站的連絡人清單亦會被整合進Messenger連絡人清單裡。若不需檢視其它社交網站，則將Messenger切換成「精簡模式」就好。
 
 此外，分享近況的部份和前版本一樣，可以在Messenger最上方或「選項」對話方塊中修改。然而欲更改「顯示名稱」就一定要連到Windows
 Live網站修改個人資料。
@@ -273,18 +276,18 @@ Live網站修改個人資料。
 ### Windows Live Messenger 2012
 
 2012年8月7日，微软发表新版本的[Windows
-Essentials](../Page/Windows_Essentials.md "wikilink") 2012套件，其中包括Windows
-Live Messenger 2012。
+Essentials](https://zh.wikipedia.org/wiki/Windows_Essentials "wikilink")
+2012套件，其中包括Windows Live Messenger 2012。
 
 2012年12月19日微軟將下載頁面直接導向[Skype下載頁](../Page/Skype.md "wikilink")，不過已經安裝Windows
 Live
 Messenger的使用者仍可以繼續使用，服務並無斷線。但在2013年4月8日，英文版Messenger服務已經停止服務，雖然還在，但不能使用Messenger；4月25日，臺灣的Messenger也正式停止服務\[33\]。
 
-2014年10月31日Messenger的最後服務區域：[中國大陸也正式停止服務](../Page/中國大陸.md "wikilink")，長達15年歷史的Windows
+2014年10月31日Messenger的最後服務區域：[中國大陸也正式停止服務](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，長達15年歷史的Windows
 Live Messenger正式走入歷史。\[34\]
 
-據了解，截至2015年12月，只有[東歐的](../Page/東歐.md "wikilink")[摩爾多瓦氣象局網頁頁底仍有MSN](../Page/摩爾多瓦.md "wikilink")
-messenger[人仔圖標](../Page/人仔.md "wikilink")，但連結功能似乎已失效。\[35\]
+據了解，截至2015年12月，只有[東歐的](https://zh.wikipedia.org/wiki/東歐 "wikilink")[摩爾多瓦氣象局網頁頁底仍有MSN](https://zh.wikipedia.org/wiki/摩爾多瓦 "wikilink")
+messenger[人仔圖標](https://zh.wikipedia.org/wiki/人仔 "wikilink")，但連結功能似乎已失效。\[35\]
 
 ## Windows Live Web Messenger
 
@@ -293,23 +296,23 @@ messenger[人仔圖標](../Page/人仔.md "wikilink")，但連結功能似乎已
 Windows Live Web Messenger是微軟[Windows
 Live服務中的一部分](../Page/Windows_Live.md "wikilink")，為一種以瀏覽器視窗為基礎的**Windows
 Live
-Messenger**。他允許使用者在網路上透過[網路瀏覽器即時發送訊息給其他使用Windows](../Page/網路瀏覽器.md "wikilink")
+Messenger**。他允許使用者在網路上透過[網路瀏覽器即時發送訊息給其他使用Windows](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")
 Live Messenger服務的人。
 
 2008年10月30日，微軟停止了Windows Live Web Messenger，將其整合到Windows Live
 Hotmail和[Windows Live
-People](../Page/Windows_Live_People.md "wikilink")。2010年，隨Windows Live
-Wave 4發佈，Web Messenger整合到所有的Windows Live網頁頁面頂部。
+People](https://zh.wikipedia.org/wiki/Windows_Live_People "wikilink")。2010年，隨Windows
+Live Wave 4發佈，Web Messenger整合到所有的Windows Live網頁頁面頂部。
 
 ## 通訊協定
 
 Windows Live Messenger使用[Microsoft Notification
-Protocol](../Page/Microsoft_Notification_Protocol.md "wikilink")（MSNP）通過[TCP連接到](../Page/傳輸控制協定.md "wikilink")[.NET
+Protocol](https://zh.wikipedia.org/wiki/Microsoft_Notification_Protocol "wikilink")（MSNP）通過[TCP連接到](https://zh.wikipedia.org/wiki/傳輸控制協定 "wikilink")[.NET
 Messenger
-Service](../Page/.NET_Messenger_Service.md "wikilink")－提供在messenger.hotmail.com的[埠](../Page/TCP/IP端口列表.md "wikilink")1863的服務。
+Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")－提供在messenger.hotmail.com的[埠](https://zh.wikipedia.org/wiki/TCP/IP端口列表 "wikilink")1863的服務。
 
 从2011年12月15日开始，Windows Live
-Messenger正式支持开放标准网络即时消息协议[XMPP](../Page/XMPP.md "wikilink")，允许开发者开发能访问Live
+Messenger正式支持开放标准网络即时消息协议[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")，允许开发者开发能访问Live
 Messenger的IM客户端。\[36\]
 
 ## 影響
@@ -317,11 +320,11 @@ Messenger的IM客户端。\[36\]
 ### 優點
 
 Windows Live Messenger普遍之後，為人際傳播帶來很大的影響。主要是打破時間與空間的距離，只須透過Windows Live
-Messenger的軟體即可溝通與交談，只要雙方或多方都在網路線上，馬上可以進行立即性的互動交談。此外，除了利用文字進行溝通，還可以透過視訊系統，馬上聽到聲音與看到影像。此類新科技的發展，還大量運用在商業溝通層面，許多跨國性的大企業也採用網路[視訊會議進行溝通](../Page/視訊會議.md "wikilink")，節省了往返時間與花費。
+Messenger的軟體即可溝通與交談，只要雙方或多方都在網路線上，馬上可以進行立即性的互動交談。此外，除了利用文字進行溝通，還可以透過視訊系統，馬上聽到聲音與看到影像。此類新科技的發展，還大量運用在商業溝通層面，許多跨國性的大企業也採用網路[視訊會議進行溝通](https://zh.wikipedia.org/wiki/視訊會議 "wikilink")，節省了往返時間與花費。
 
 Windows Live Messenger除了在人際傳播上打破傳統觀念，帶來現代人的便利性之外，另外也為人際傳播創造娛樂性。自從MSN
 Messenger
-7.0版問世之後，其最大特色就是動畫圖像代替文字的溝通，也就是「[表情符號](../Page/表情符號.md "wikilink")」。許多字以動畫或圖像來代替之後，使用者之間廣為盛行，而後續MSN
+7.0版問世之後，其最大特色就是動畫圖像代替文字的溝通，也就是「[表情符號](https://zh.wikipedia.org/wiki/表情符號 "wikilink")」。許多字以動畫或圖像來代替之後，使用者之間廣為盛行，而後續MSN
 Messenger 7.5更將表情符號發揮最高娛樂性，連載的動畫式的表情符號為使用者們帶來更多樂趣，也吸引更多的使用者使用。
 
 ### 缺點
@@ -334,9 +337,9 @@ Live Messenger發來。另外由於其功能越來越多，亦逐漸導致其佔
 
 ## 相關條目
 
-  - [即時通訊軟體比較](../Page/即時通訊軟體比較.md "wikilink")
+  - [即時通訊軟體比較](https://zh.wikipedia.org/wiki/即時通訊軟體比較 "wikilink")
   - [Windows Live
-    Essentials](../Page/Windows_Live_Essentials.md "wikilink")
+    Essentials](https://zh.wikipedia.org/wiki/Windows_Live_Essentials "wikilink")
 
 ## 參考文獻
 

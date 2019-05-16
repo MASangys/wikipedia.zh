@@ -1,4 +1,4 @@
-**X戰警**（）是[漫威漫畫的](../Page/漫威漫畫.md "wikilink")[超級英雄團體](../Page/超級英雄.md "wikilink")，由[斯坦·李和](../Page/斯坦·李.md "wikilink")[杰克·科比創造](../Page/杰克·科比.md "wikilink")，初次登場於1963年9月漫畫X-Men
+**X戰警**（）是[漫威漫畫的](../Page/漫威漫畫.md "wikilink")[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，由[斯坦·李和](https://zh.wikipedia.org/wiki/斯坦·李 "wikilink")[杰克·科比創造](../Page/杰克·科比.md "wikilink")，初次登場於1963年9月漫畫X-Men
 \#1中。與其相關的書在當今美國主流漫畫界十分賣座，並於2000年推出同名電影，全球票房收入達3億美元，其系列電影迄今已拍攝10部。
 
 ## 出場人物
@@ -13,85 +13,86 @@
 
 <!-- end list -->
 
-  - [镭射眼](../Page/镭射眼.md "wikilink")（Cyclops）
+  - [镭射眼](https://zh.wikipedia.org/wiki/镭射眼 "wikilink")（Cyclops）
     原名：史考特·萨默斯（Scott Summers）
     異能：眼睛射出強力鐳射
     定位： X战警队长
 
 <!-- end list -->
 
-  - [火凤凰](../Page/琴·葛雷.md "wikilink")（Phoenix）
+  - [火凤凰](https://zh.wikipedia.org/wiki/琴·葛雷 "wikilink")（Phoenix）
     原名：琴·葛雷（Jean Grey）
     異能：精神力及念力、鳳凰之力
-    定位：最強变种人，有[鳳凰之力](../Page/鳳凰之力.md "wikilink")，現已復活。
+    定位：最強变种人，有[鳳凰之力](https://zh.wikipedia.org/wiki/鳳凰之力 "wikilink")，現已復活。
     漫畫：少女時期琴被野獸帶回現代與復活的成年琴相見。
 
 <!-- end list -->
 
-  - [暴風女](../Page/暴風女.md "wikilink")（Storm）
+  - [暴風女](https://zh.wikipedia.org/wiki/暴風女 "wikilink")（Storm）
     原名：奧蘿洛·摩洛（Ororo Munroe）
     異能：控制天文現象
-    定位：家族傳承異能數千年；於『[烏托邦](../Page/烏托邦.md "wikilink")』任領導層之一，目前已加入了非凡X特攻隊。
+    定位：家族傳承異能數千年；於『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』任領導層之一，目前已加入了非凡X特攻隊。
 
 <!-- end list -->
 
-  - [小淘氣](../Page/小淘氣.md "wikilink")（Rogue）
+  - [小淘氣](https://zh.wikipedia.org/wiki/小淘氣 "wikilink")（Rogue）
     原名：瑪莉（Marie）
     異能：与他人接觸時，能吸收生命力及超能力
     定位：現加入聯合小隊(非凡復仇者)。
 
 <!-- end list -->
 
-  - [鋼人](../Page/鋼人_\(漫威漫畫\).md "wikilink")（Colossus）
+  - [鋼人](https://zh.wikipedia.org/wiki/鋼人_\(漫威漫畫\) "wikilink")（Colossus）
     原名：彼得·拉斯普廷（Peter Rasputin）
     異能：全身钢化而獲得力量。
     漫畫：是秘客（Magik）的哥哥，加入了機堡帶領的隊伍。
 
 <!-- end list -->
 
-  - [野獸](../Page/野獸_\(漫畫\).md "wikilink")（Beast）
+  - [野獸](https://zh.wikipedia.org/wiki/野獸_\(漫畫\) "wikilink")（Beast）
     原名：亨利"漢克"·麥考伊（Henry "Hank" McCoy）
     職業：國防部变种管理部長及聯合國大使
     定位：科學顧問，與鐳射眼一言不合離開烏托邦，加入秘密復仇者。而從過去把原始的五位X戰警成員（史考特、琴、野獸他自己、冰人和天使）帶回。
 
 <!-- end list -->
 
-  - [白皇后](../Page/艾瑪·佛斯特.md "wikilink")（White Queen）
+  - [白皇后](https://zh.wikipedia.org/wiki/艾瑪·佛斯特 "wikilink")（White
+    Queen）
     原名：艾瑪·弗洛斯特（Emma Frost）
     異能：鑽石化，強大精神力
     原设：地狱火俱乐部的白皇后，后加入X战警。
 
 <!-- end list -->
 
-  - [天使](../Page/天使_\(漫威漫畫\).md "wikilink")（Angel）
+  - [天使](https://zh.wikipedia.org/wiki/天使_\(漫威漫畫\) "wikilink")（Angel）
     原名：華倫·沃辛頓三世（Warren Worthington III）
     異能：有翅膀飛行、適應高空和超強視覺及自癒能力
     定位：繼承了父亲的富有家業;曾為天啟四騎士「死亡」騎士，體內被天啟植入一個自己的人格，自稱「大天使」，變成此狀態時會長出金屬翅膀及藍色皮膚
 
 <!-- end list -->
 
-  - [機堡](../Page/機堡_\(漫威漫畫\).md "wikilink")（Cable）
+  - [機堡](https://zh.wikipedia.org/wiki/機堡_\(漫威漫畫\) "wikilink")（Cable）
     原名：納森·克里斯多福·桑瑪斯（Nathan Christopher Summers）
     異能：精神力及念力
     定位：一名神秘的未來戰士，史考特與玛德琳(琴的複製人)之子，左半身被感染為生化機械，撫養了 M 日後首位出生的變種女孩霍普。
 
 <!-- end list -->
 
-  - [秘客](../Page/秘客.md "wikilink")（Magik）
+  - [秘客](https://zh.wikipedia.org/wiki/秘客 "wikilink")（Magik）
     原名：伊琳雅娜·拉斯普廷（Illyana Rasputin）
     異能：穿越、魔法。
-    定位：地獄边境女王。加入了『[烏托邦](../Page/烏托邦.md "wikilink")』。
+    定位：地獄边境女王。加入了『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』。
 
 <!-- end list -->
 
-  - [靈蝶](../Page/靈蝶.md "wikilink")（Psylocke）
+  - [靈蝶](https://zh.wikipedia.org/wiki/靈蝶 "wikilink")（Psylocke）
     原名：伊莉莎白·布拉多克（Elizabeth Braddock）
     異能：具有心靈感應和精神力凝聚成刀的能力、忍者身體素質及武術。
-    定位：英國人，在一次事件中與日本女忍者互換身;哥哥是著名英雄[英國隊長](../Page/英國隊長.md "wikilink")
+    定位：英國人，在一次事件中與日本女忍者互換身;哥哥是著名英雄[英國隊長](https://zh.wikipedia.org/wiki/英國隊長 "wikilink")
 
 <!-- end list -->
 
-  - [彌賽亞](../Page/霍普·桑瑪斯.md "wikilink")（Messiah）
+  - [彌賽亞](https://zh.wikipedia.org/wiki/霍普·桑瑪斯 "wikilink")（Messiah）
     原名:霍普·桑瑪斯（Hope Summers）
     異能：能力複製、鳳凰之力、崑崙武術
     定位：M日後首個出生的變種女孩，复苏变种人异能，由"機堡"带到现代。
@@ -108,11 +109,11 @@
   - [萬磁王](../Page/萬磁王.md "wikilink")（Magneto）
     原名：艾瑞克·馬格斯·藍歇爾（Erik Magnus Lehnsherr）
     異能：控制磁场，高级体能。
-    定位：加入『[烏托邦](../Page/烏托邦.md "wikilink")』，成為戰鬥主力之一，任領導層。
+    定位：加入『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』，成為戰鬥主力之一，任領導層。
 
 #### 反派
 
-  - [天啟](../Page/天啟.md "wikilink")（Apocalypse）
+  - [天啟](https://zh.wikipedia.org/wiki/天啟 "wikilink")（Apocalypse）
     原名：恩·沙巴·努（En Sabah Nur）
     異能：強大改造力，超级体能，瞬移，飛行及操控能量
 
@@ -175,19 +176,19 @@
   - 《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》（2000年）
   - 《[X戰警2](../Page/X戰警2.md "wikilink")》（2003年）
   - 《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》（2006年）
-  - 《[X戰警：第一戰](../Page/X戰警：第一戰.md "wikilink")》（2011年）
-  - 《[X戰警：未來昔日](../Page/X戰警：未來昔日.md "wikilink")》（2014年）
+  - 《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》（2011年）
+  - 《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》（2014年）
   - 《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》（2016年）
-  - 《[X戰警：黑鳳凰](../Page/X戰警：黑鳳凰.md "wikilink")》（2019年）
+  - 《[X戰警：黑鳳凰](https://zh.wikipedia.org/wiki/X戰警：黑鳳凰 "wikilink")》（2019年）
 
-#### 回歸[漫威電影宇宙](../Page/漫威電影宇宙.md "wikilink")
+#### 回歸[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")
 
-2017年12月，華特迪士尼公司以524億美元（約1.57兆元台幣）收購福斯集團旗下部分產權，包括由21世紀福斯所擁有的X戰警、驚奇4超人等系列版權，也一併收回華特迪士尼公司旗下漫威影業。美國時間2017年12月14日，華特迪士尼公司宣布X戰警、[死侍](../Page/死侍.md "wikilink")、[驚奇4超人等角色](../Page/驚奇4超人.md "wikilink")，將正式回歸[漫威電影宇宙](../Page/漫威電影宇宙.md "wikilink")。
+2017年12月，華特迪士尼公司以524億美元（約1.57兆元台幣）收購福斯集團旗下部分產權，包括由21世紀福斯所擁有的X戰警、驚奇4超人等系列版權，也一併收回華特迪士尼公司旗下漫威影業。美國時間2017年12月14日，華特迪士尼公司宣布X戰警、[死侍](../Page/死侍.md "wikilink")、[驚奇4超人等角色](https://zh.wikipedia.org/wiki/驚奇4超人 "wikilink")，將正式回歸[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")。
 
 ### 電視劇
 
-  - 《[變種軍團](../Page/變種軍團.md "wikilink")》（2017年2月開播）
-  - 《[變種天賦](../Page/變種天賦.md "wikilink")》（2017年10月開播）
+  - 《[變種軍團](https://zh.wikipedia.org/wiki/變種軍團 "wikilink")》（2017年2月開播）
+  - 《[變種天賦](https://zh.wikipedia.org/wiki/變種天賦 "wikilink")》（2017年10月開播）
 
 ### 電子遊戲
 
@@ -196,13 +197,15 @@
   - Marvel's X-Men (Acclaim)
   - X-Men (1992, Konami)
   - X-Men: Mutant Apocalypse (Capcom)
-  - [X戰警：磁場原子人](../Page/X戰警：磁場原子人.md "wikilink") (1994, Capcom)
+  - [X戰警：磁場原子人](https://zh.wikipedia.org/wiki/X戰警：磁場原子人 "wikilink")
+    (1994, Capcom)
   - Marvel Super-Heroes (1995, Capcom)
   - X-Men vs. Street Fighter (1996, Capcom)
   - Marvel Super Heroes vs. Street Fighter (1997, Capcom)
   - Marvel vs. Capcom: Clash of Super Heroes (1998, Capcom)
   - Marvel vs. Capcom 2: New Age of Heroes (2000, Capcom)
-  - [X戰警](../Page/X戰警_\(1993年遊戲\).md "wikilink") (Sega)
+  - [X戰警](https://zh.wikipedia.org/wiki/X戰警_\(1993年遊戲\) "wikilink")
+    (Sega)
   - [X戰警2：複製人大戰](../Page/X戰警2：複製人大戰.md "wikilink") (Sega)
   - X-Men: Mutant Wars
   - X-men: Wolverine's Rage
@@ -216,7 +219,8 @@
 
 含有X戰警角色的電子遊戲：
 
-  - 《[漫威英雄 Online](../Page/漫威英雄_Online.md "wikilink")》：有多位X戰警角色可供遊玩
+  - 《[漫威英雄
+    Online](https://zh.wikipedia.org/wiki/漫威英雄_Online "wikilink")》：有多位X戰警角色可供遊玩
 
 ## 参考资料
 

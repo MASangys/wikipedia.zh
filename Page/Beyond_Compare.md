@@ -1,6 +1,6 @@
 **Beyond Compare**是一套由[Scooter
-Software推出的](../Page/Scooter_Software.md "wikilink")[內容比較工具軟件](../Page/內容比較.md "wikilink")。除了可以作[檔案比較以外](../Page/檔案比較.md "wikilink")，還可以比對檔案目錄、FTP目錄及壓縮檔案的內容等\[1\]。因為這些功能，Beyond
-Compare被應用於[版本控制及](../Page/版本控制.md "wikilink")[資料同步的工作上](../Page/資料同步.md "wikilink")。
+Software推出的](https://zh.wikipedia.org/wiki/Scooter_Software "wikilink")[內容比較工具軟件](https://zh.wikipedia.org/wiki/內容比較 "wikilink")。除了可以作[檔案比較以外](https://zh.wikipedia.org/wiki/檔案比較 "wikilink")，還可以比對檔案目錄、FTP目錄及壓縮檔案的內容等\[1\]。因為這些功能，Beyond
+Compare被應用於[版本控制及](../Page/版本控制.md "wikilink")[資料同步的工作上](https://zh.wikipedia.org/wiki/資料同步 "wikilink")。
 
 ## 外掛
 
@@ -13,7 +13,7 @@ Compare被應用於[版本控制及](../Page/版本控制.md "wikilink")[資料�
 此外，透過額外安裝的比較規則，亦可作MS Word文本、MS Excel之間的比較。
 
 Beyond
-Compare的強項在於可以設定成為[git的difftool或mergetool的預設比較工具](../Page/git.md "wikilink")\[2\]。
+Compare的強項在於可以設定成為[git的difftool或mergetool的預設比較工具](https://zh.wikipedia.org/wiki/git "wikilink")\[2\]。
 
 ## 開發平台
 

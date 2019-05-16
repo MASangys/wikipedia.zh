@@ -2,7 +2,7 @@
 
 ## 第13部分
 
-MPEG-21希望發展一種高效率之[可調性視訊編碼標準](../Page/可調性視訊編碼.md "wikilink")（Scalable
+MPEG-21希望發展一種高效率之[可調性視訊編碼標準](https://zh.wikipedia.org/wiki/可調性視訊編碼 "wikilink")（Scalable
 Video Coding; SVC）以適用於UMA之目標，並計畫將此標準納入其Part 13: Scalable Video
 Coding的標準。
 

@@ -1,29 +1,29 @@
-**Blogger.com**是公司创建，針對个人用戶，且以[因特网為平台](../Page/因特网.md "wikilink")，提供[網誌书写](../Page/網誌.md "wikilink")、发布的网站，同時也是全球最大、最为知名的个人[网志服务提供商](../Page/网志.md "wikilink")。Pyra
-Labs和Blogger.com目前已经被[Google公司收购](../Page/Google公司.md "wikilink")，成为其旗下的一项服务内容。
+**Blogger.com**是公司创建，針對个人用戶，且以[因特网為平台](https://zh.wikipedia.org/wiki/因特网 "wikilink")，提供[網誌书写](../Page/網誌.md "wikilink")、发布的网站，同時也是全球最大、最为知名的个人[网志服务提供商](https://zh.wikipedia.org/wiki/网志 "wikilink")。Pyra
+Labs和Blogger.com目前已经被[Google公司收购](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，成为其旗下的一项服务内容。
 
-Blogger服務使得網路日誌的发布更加容易。Blogger提供免費主機Blogspot.com存放網誌，用戶不必寫任何代碼或者安裝伺服器軟體或脚本，通过[所見即所得](../Page/所見即所得.md "wikilink")（WYSIWYG）界面轻松地建立、发布、维护和修改自己的网志。但Blogger也允许有经验的用户自由地設計網誌界面，并在在线帮助页面提供了详细的资料和指南。
+Blogger服務使得網路日誌的发布更加容易。Blogger提供免費主機Blogspot.com存放網誌，用戶不必寫任何代碼或者安裝伺服器軟體或脚本，通过[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（WYSIWYG）界面轻松地建立、发布、维护和修改自己的网志。但Blogger也允许有经验的用户自由地設計網誌界面，并在在线帮助页面提供了详细的资料和指南。
 
-Blogger与其他的博客提供的显著优势在于有强大的模板编辑功能，对于[HTML及](../Page/HTML.md "wikilink")[CSS的高手Blogger无疑是最好的选择](../Page/CSS.md "wikilink")，模板完全支持[HTML编辑](../Page/HTML.md "wikilink")，你可以把Blogger打造成一个专业的站点，而Blogger就好像空间提供商，而这个服务是非常稳定的。
+Blogger与其他的博客提供的显著优势在于有强大的模板编辑功能，对于[HTML及](../Page/HTML.md "wikilink")[CSS的高手Blogger无疑是最好的选择](https://zh.wikipedia.org/wiki/CSS "wikilink")，模板完全支持[HTML编辑](../Page/HTML.md "wikilink")，你可以把Blogger打造成一个专业的站点，而Blogger就好像空间提供商，而这个服务是非常稳定的。
 
 另外，使用Blogger你可以注册一个[Google
 AdSense帐号](../Page/Google_AdSense.md "wikilink")，然后就可以在您的个人網誌上投放Google的广告，从而營利。
 
 ## 歷史
 
-1999年8月三个朋友在[互联网泡沫的大潮中创建了Blogger](../Page/互联网泡沫.md "wikilink").com，它是全球第一批专用于網誌发布的工具之一，被公认对推广網誌有重要贡献。而Blogger这个名词也随之成了最新的互联网时尚名词。具体来说，用户不用手动编写HTML帖子，并且频繁上传新的帖子，而是通过提交一个Blogger网站上的表单来发布新的网志帖子。
+1999年8月三个朋友在[互联网泡沫的大潮中创建了Blogger](https://zh.wikipedia.org/wiki/互联网泡沫 "wikilink").com，它是全球第一批专用于網誌发布的工具之一，被公认对推广網誌有重要贡献。而Blogger这个名词也随之成了最新的互联网时尚名词。具体来说，用户不用手动编写HTML帖子，并且频繁上传新的帖子，而是通过提交一个Blogger网站上的表单来发布新的网志帖子。
 
 2002年，Blogger网站的用户数达到了高峰，这项服务倍受网友好评。
 
-2003年，搜索引擎巨头[Google公司收购了Pyra](../Page/Google公司.md "wikilink")
+2003年，搜索引擎巨头[Google公司收购了Pyra](https://zh.wikipedia.org/wiki/Google公司 "wikilink")
 Labs，包含Blogger网站。Google提供了Pyra需要的資源。此外，以前需要付费订购的一些高级功能在Google的幫助下全部可以免费使用了。
 
 2004年Google收購了[Picasa](../Page/Picasa.md "wikilink")，並將其相片分享功能併入Blogger。同年5月9日，在和網頁設計公司Adaptive
-Path以及Stopdesign的合作下，Blogger重新启动了一个全新的模板设计，增加的特點包括兼容[CSS标准的模板](../Page/CSS.md "wikilink")，单独的帖子和評論的归档页，以及使用電子郵件来发布网志等功能。
+Path以及Stopdesign的合作下，Blogger重新启动了一个全新的模板设计，增加的特點包括兼容[CSS标准的模板](https://zh.wikipedia.org/wiki/CSS "wikilink")，单独的帖子和評論的归档页，以及使用電子郵件来发布网志等功能。
 
 2006年8月15日，Google推出了Blogger
 Beta，增加了不少新的功能，作了大量的改进。比起舊版本，新版本增加了例如標籤、所見所得的模板更改器等新功能。如需使用這個版本，用戶需要註冊一個Google帳號以供登入。旧的Blogger可以直接转换到beta版，beta版还提供了添加多种页面元素的功能，[Google](../Page/Google.md "wikilink")
-[Adsense也被当作标签](../Page/Adsense.md "wikilink")，系统自动会匹配多种适合你的网站模板的广告，方便用户的添加。[HTML及](../Page/HTML.md "wikilink")[JavaScript是其中一种页面元素](../Page/JavaScript.md "wikilink")，你可以添加任何其他的代码，比如可以将多种[Widget嵌入Blogger中](../Page/Widget.md "wikilink")，丰富了网站的内容。或者是你的个人Blogger的[RSS或](../Page/RSS.md "wikilink")[Atom的订阅功能代码](../Page/Atom.md "wikilink")，可以从[FeedBurner得到](../Page/FeedBurner.md "wikilink")。也可以通过[Google](../Page/Google.md "wikilink")
-[API嵌入一些](../Page/API.md "wikilink")[Google的产品](../Page/Google.md "wikilink")，例如
+[Adsense也被当作标签](https://zh.wikipedia.org/wiki/Adsense "wikilink")，系统自动会匹配多种适合你的网站模板的广告，方便用户的添加。[HTML及](../Page/HTML.md "wikilink")[JavaScript是其中一种页面元素](../Page/JavaScript.md "wikilink")，你可以添加任何其他的代码，比如可以将多种[Widget嵌入Blogger中](https://zh.wikipedia.org/wiki/Widget "wikilink")，丰富了网站的内容。或者是你的个人Blogger的[RSS或](../Page/RSS.md "wikilink")[Atom的订阅功能代码](https://zh.wikipedia.org/wiki/Atom "wikilink")，可以从[FeedBurner得到](https://zh.wikipedia.org/wiki/FeedBurner "wikilink")。也可以通过[Google](../Page/Google.md "wikilink")
+[API嵌入一些](https://zh.wikipedia.org/wiki/API "wikilink")[Google的产品](../Page/Google.md "wikilink")，例如
 [Google Earth](http://earth.google.com)。
 
 2006年12月，Blogger離開了beta。2007年5月，Blogger完全轉移到Google的伺服器。
@@ -35,7 +35,7 @@ blog，遷移是從更改域名開始，新的域名是<https://webmasters.googl
 
 ## 服务
 
-Blogger默认把用户的網誌发布到免费提供的Blogspot.com主機上。2010年5月1日之前，Blogger也支持把内容发布到用户選擇的伺服器上（通過[FTP或SFTP](../Page/FTP.md "wikilink")），这项功能可以被绝大多數網頁服务器所支持。
+Blogger默认把用户的網誌发布到免费提供的Blogspot.com主機上。2010年5月1日之前，Blogger也支持把内容发布到用户選擇的伺服器上（通過[FTP或SFTP](https://zh.wikipedia.org/wiki/FTP "wikilink")），这项功能可以被绝大多數網頁服务器所支持。
 
 当前Blogger已经推出了完整的中文界面，具有成熟的中文網誌书写和发布功能。
 
@@ -56,7 +56,7 @@ Word的主界面中增加一个工具栏](../Page/Microsoft_Word.md "wikilink")�
 
 ### 從電子郵件發布Blogger
 
-如果你登录Blogger比较麻烦，或者无法登录，你可以通过[電子郵件来发布到Blogger](../Page/電子郵件.md "wikilink")，如果你的邮件是支持多文本编辑，效果会更好。方法是在Blogger中的设置--\>电子邮件--\>mail
+如果你登录Blogger比较麻烦，或者无法登录，你可以通过[電子郵件来发布到Blogger](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")，如果你的邮件是支持多文本编辑，效果会更好。方法是在Blogger中的设置--\>电子邮件--\>mail
 to blogger中填写一个个性化的好记的名字，以后你可以直接给这个完整的邮件地址写信就可以立即发布到Blogger了。
 
 ### 從Google文件發布Blogger
@@ -75,7 +75,7 @@ to blogger中填写一个个性化的好记的名字，以后你可以直接给�
 
 ### Firefox
 
-[Mozilla基金会推出的免费网络浏览器](../Page/Mozilla基金会.md "wikilink")[Firefox為所有Blogger公司內部職員使用](../Page/Firefox.md "wikilink")。而Blogger也鼓励其用戶，特別是[AOL用戶](../Page/AOL.md "wikilink")，切换到Mozilla
+[Mozilla基金会推出的免费网络浏览器](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")[Firefox為所有Blogger公司內部職員使用](../Page/Firefox.md "wikilink")。而Blogger也鼓励其用戶，特別是[AOL用戶](https://zh.wikipedia.org/wiki/AOL "wikilink")，切换到Mozilla
 [Firefox来获得最好的Blogger使用体验](../Page/Firefox.md "wikilink")。
 
 除了因为[Firefox本身是一款优秀的](../Page/Firefox.md "wikilink")[开放源代码软件之外](../Page/开放源代码.md "wikilink")，还因为[Firefox支持网友自行开发的各种插件](../Page/Firefox.md "wikilink")。通过这些插件，用户可以方便地在浏览的同时，把各种感兴趣的内容直接写成网络日志，发布到blogger.com上。

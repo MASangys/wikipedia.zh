@@ -1,9 +1,9 @@
-**SmartDraw**是一套由SmartDraw.com開發的繪圖軟體，可以用來畫[流程圖](../Page/流程圖.md "wikilink")、[時間圖等不同形式的商業圖表](../Page/時間圖.md "wikilink")。目前推出的版本為SmartDraw
+**SmartDraw**是一套由SmartDraw.com開發的繪圖軟體，可以用來畫[流程圖](https://zh.wikipedia.org/wiki/流程圖 "wikilink")、[時間圖等不同形式的商業圖表](https://zh.wikipedia.org/wiki/時間圖 "wikilink")。目前推出的版本為SmartDraw
 2009。
 
 SmartDraw是一套專門為製作流程圖所開發的軟體，有了這套軟體，就可解決製作流程圖的問題，讓制作者的文件更具有可看性。
 
-當執行SmartDraw後，就會先開啟流程圖的類型選項，其中有一般流程圖、組織圖、樹形圖、網路圖、區塊圖、工程用流程圖、平面圖、[甘特圖](../Page/甘特圖.md "wikilink")、表格、地圖、卡片和其他等等的類型，請先在此大致選擇你要設計流程圖的類型，SmartDraw會一你選擇的類型，開啟不同的工具列選項。
+當執行SmartDraw後，就會先開啟流程圖的類型選項，其中有一般流程圖、組織圖、樹形圖、網路圖、區塊圖、工程用流程圖、平面圖、[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")、表格、地圖、卡片和其他等等的類型，請先在此大致選擇你要設計流程圖的類型，SmartDraw會一你選擇的類型，開啟不同的工具列選項。
 
 進到SmartDraw的視窗後：
 
@@ -22,15 +22,15 @@ Edition和為醫療行業而設的the SmartDraw Healthcare Edition。
 "SmartDraw有權在未知會你的情況下，透過遙控監視工具，存取或審查你的電腦，
 ，以達前述之目的。"
 
-那條[條款可能會危及](../Page/條款.md "wikilink")[用戶的私隱](../Page/用戶.md "wikilink")，因為在該條款下，
-SmartDraw有權在用戶不知情的情況下，於用戶的電腦中安裝[間諜軟體](../Page/間諜軟體.md "wikilink")。
+那條[條款可能會危及](https://zh.wikipedia.org/wiki/條款 "wikilink")[用戶的私隱](https://zh.wikipedia.org/wiki/用戶 "wikilink")，因為在該條款下，
+SmartDraw有權在用戶不知情的情況下，於用戶的電腦中安裝[間諜軟體](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")。
 
 ## 參見
 
-  - [流程圖](../Page/流程圖.md "wikilink")
+  - [流程圖](https://zh.wikipedia.org/wiki/流程圖 "wikilink")
   - [資料流程圖](../Page/資料流程圖.md "wikilink")
-  - [UML工具清單](../Page/UML工具清單.md "wikilink")
-  - [概念圖](../Page/概念圖.md "wikilink")
+  - [UML工具清單](https://zh.wikipedia.org/wiki/UML工具清單 "wikilink")
+  - [概念圖](https://zh.wikipedia.org/wiki/概念圖 "wikilink")
 
 ## 外部連結
 

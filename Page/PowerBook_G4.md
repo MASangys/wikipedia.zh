@@ -2,55 +2,62 @@
 [AluminiumG4.jpg](https://zh.wikipedia.org/wiki/File:AluminiumG4.jpg "fig:AluminiumG4.jpg")
 
 **PowerBook
-G4**是由[蘋果電腦所設計生產的](../Page/蘋果電腦.md "wikilink")[筆記型電腦系列產品](../Page/筆記型電腦.md "wikilink")，使用[PowerPC](../Page/PowerPC.md "wikilink")
+G4**是由[蘋果電腦所設計生產的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[筆記型電腦系列產品](../Page/筆記型電腦.md "wikilink")，使用[PowerPC](../Page/PowerPC.md "wikilink")
 G4
-[中央處理器](../Page/中央處理器.md "wikilink")（原先是由[摩托羅拉](../Page/摩托羅拉.md "wikilink")（[Motorola](../Page/Motorola.md "wikilink")）生產，現由[IBM生產](../Page/IBM.md "wikilink")），本系列的所有產品現今都已停產。
+[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（原先是由[摩托羅拉](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")（[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")）生產，現由[IBM生產](../Page/IBM.md "wikilink")），本系列的所有產品現今都已停產。
 
 第一代的 PowerBook G4 是在 2001年1月 [MacWorld Conference &
-Expo](../Page/MacWorld_Conference_&_Expo.md "wikilink")
-的演說中由[史蒂夫·賈伯斯發表](../Page/史蒂夫·賈伯斯.md "wikilink")。特色是使用[鈦金屬作為外殼材料](../Page/鈦.md "wikilink")（因此被稱為：“鈦書”
-），搭載有 400 或 500 MHz [Motorola的](../Page/Motorola.md "wikilink")[G4
-處理器](../Page/G4_處理器.md "wikilink")。PowerBook G4
-的另一特色是有前置的（當時算是先進的）吸入式光碟機（ CD 或
-DVD ）。
+Expo](https://zh.wikipedia.org/wiki/MacWorld_Conference_&_Expo "wikilink")
+的演說中由[史蒂夫·賈伯斯發表](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")。特色是使用[鈦金屬作為外殼材料](https://zh.wikipedia.org/wiki/鈦 "wikilink")（因此被稱為：“鈦書”
+），搭載有 400 或 500 MHz
+[Motorola的](https://zh.wikipedia.org/wiki/Motorola "wikilink")[G4
+處理器](https://zh.wikipedia.org/wiki/G4_處理器 "wikilink")。PowerBook G4
+的另一特色是有前置的（當時算是先進的）吸入式光碟機（ CD 或 DVD ）。
 
 PowerBook 鈦書生產線更新了好幾次，像是 [Gigabit
-Ethernet](../Page/Gigabit_Ethernet.md "wikilink")、[DVI](../Page/DVI.md "wikilink")
-接頭，以及可選購的 [SuperDrive](../Page/SuperDrive.md "wikilink") DVD
+Ethernet](https://zh.wikipedia.org/wiki/Gigabit_Ethernet "wikilink")、[DVI](../Page/DVI.md "wikilink")
+接頭，以及可選購的
+[SuperDrive](https://zh.wikipedia.org/wiki/SuperDrive "wikilink") DVD
 燒錄機。最後的改版在2002年11月推出，有 867 和 1000 MHz 兩種型號。
 
-在2003年1月，[蘋果電腦推出了新的](../Page/蘋果電腦.md "wikilink") PowerBook G4
-產品線，12和17吋螢幕大小的鋁質外殼。著名的是，[姚明和](../Page/姚明.md "wikilink")[Verne
-Troyer](../Page/Verne_Troyer.md "wikilink") 使用 12吋和17吋的型號。
+在2003年1月，[蘋果電腦推出了新的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")
+PowerBook G4
+產品線，12和17吋螢幕大小的鋁質外殼。著名的是，[姚明和](https://zh.wikipedia.org/wiki/姚明 "wikilink")[Verne
+Troyer](https://zh.wikipedia.org/wiki/Verne_Troyer "wikilink") 使用
+12吋和17吋的型號。
 
 於2003年9月16日在[巴黎的](../Page/巴黎.md "wikilink")[Apple
-Expo](../Page/Apple_Expo.md "wikilink")，[蘋果電腦增加了](../Page/蘋果電腦.md "wikilink")15吋的鋁製外殼的（後被稱為：鋁書）
+Expo](https://zh.wikipedia.org/wiki/Apple_Expo "wikilink")，[蘋果電腦增加了](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")15吋的鋁製外殼的（後被稱為：鋁書）
 PowerBook G4筆記型電腦產品，並且小幅升級到 12 和 17 吋的型式。
 
 最終的版本，是在[2005年2月推出](../Page/2005年2月.md "wikilink")。包含有三種型號：12, 15 和 17
 吋的螢幕大小（15 和
-17吋顯示器是[寬螢幕](../Page/寬螢幕.md "wikilink")）的鋁質外殼機種。17吋的型號也是少量擁有如此大顯示器的少數筆記型電腦之一。17吋的型號天生就支援[蘋果電腦的](../Page/蘋果電腦.md "wikilink")30吋[Apple
+17吋顯示器是[寬螢幕](https://zh.wikipedia.org/wiki/寬螢幕 "wikilink")）的鋁質外殼機種。17吋的型號也是少量擁有如此大顯示器的少數筆記型電腦之一。17吋的型號天生就支援[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")30吋[Apple
 Cinema Display](../Page/Apple_Cinema_Display.md "wikilink")，對於
 15吋機種是選購配備。PowerBook 的規格範圍從 1.5 GHz 到 1.67 GHz
-[中央處理器](../Page/中央處理器.md "wikilink")；512MB 到 2GB
-的[隨機存取記憶體](../Page/隨機存取記憶體.md "wikilink")；60 到 100GB 的
-[硬碟空間](../Page/硬碟.md "wikilink")；[nVidia](../Page/nVidia.md "wikilink")
-的 GeForce FX Go 5200 和 [ATI Technologies](../Page/ATi.md "wikilink")
-Radeon 9700 Mobility [繪圖處理器](../Page/GPU.md "wikilink")（GPU），選購的 128 MB
-顯示記憶體空間和 Dual-Link DVI，以及多種其他特色。
+[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")；512MB
+到 2GB 的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")；60
+到 100GB 的
+[硬碟空間](https://zh.wikipedia.org/wiki/硬碟 "wikilink")；[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")
+的 GeForce FX Go 5200 和 [ATI
+Technologies](https://zh.wikipedia.org/wiki/ATi "wikilink") Radeon 9700
+Mobility [繪圖處理器](https://zh.wikipedia.org/wiki/GPU "wikilink")（GPU），選購的
+128 MB 顯示記憶體空間和 Dual-Link DVI，以及多種其他特色。
 
 鈦殼的 PowerBook G4 可以執行 [Mac OS 9](../Page/Mac_OS_9.md "wikilink") 或是 [Mac
-OS X](../Page/Mac_OS_X.md "wikilink")
-[作業系統](../Page/作業系統.md "wikilink")，而鋁殼的 PowerBook G4
-只能一開始就執行 [Mac OS X](../Page/Mac_OS_X.md "wikilink")。兩種系列的機器都可以在 [Mac
-OS X](../Page/Mac_OS_X.md "wikilink") 環境下用 [Classic
-Mode](../Page/:en:Classic_\(Mac_OS_X\).md "wikilink") 來執行 Mac OS 9 的程式。
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
+[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，而鋁殼的
+PowerBook G4 只能一開始就執行 [Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。兩種系列的機器都可以在 [Mac
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 環境下用 [Classic
+Mode](https://zh.wikipedia.org/wiki/:en:Classic_\(Mac_OS_X\) "wikilink")
+來執行 Mac OS 9 的程式。
 
 最終型號的 PowerBook G4
-包含更新的[觸控板驅動程式](../Page/觸控板.md "wikilink")，可以在任何視窗下使用垂直捲動（例如，[Safari瀏覽器](../Page/Safari.md "wikilink")，或是
+包含更新的[觸控板驅動程式](https://zh.wikipedia.org/wiki/觸控板 "wikilink")，可以在任何視窗下使用垂直捲動（例如，[Safari瀏覽器](../Page/Safari.md "wikilink")，或是
 [Finder](../Page/Finder.md "wikilink")。在板上使用兩跟手指頭而不是一般的單一手指）。這種經常需要的特色，也有第三方廠商提供的觸控板驅動程式（[Sidetrack](http://www.ragingmenace.com/software/sidetrack)）可以把類似的能力加入到標準的
 [PowerBook](../Page/PowerBook.md "wikilink") 和
-[iBook上](../Page/iBook.md "wikilink")。Sidetrack
+[iBook上](https://zh.wikipedia.org/wiki/iBook "wikilink")。Sidetrack
 驅動程式把觸控板分為兩個不同的區域來作不同的事情；左手方向邊緣的動作可以捲動，中間當作一般滑鼠使用等等，都可以在喜好設定裡面由使用者自行調整。另外一種工具稱為
 iScroll 2，可以在舊的型號上也有觸控板支援的機器"啟動"兩指捲動功能。
 
@@ -72,6 +79,6 @@ G4成为当时市场上最轻薄的全功能笔记本电脑。它最先配置了
     Apple.com](http://www.apple.com/support/powerbook/)
   - The Genius Behind Apple's Greatest Products (乔纳森传)
 
-[分類:筆記型電腦](../Page/分類:筆記型電腦.md "wikilink")
+[分類:筆記型電腦](https://zh.wikipedia.org/wiki/分類:筆記型電腦 "wikilink")
 
 [Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink")

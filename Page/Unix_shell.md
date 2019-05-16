@@ -4,7 +4,7 @@ shell**，一種[殼層與](../Page/殼層.md "wikilink")[命令行界面](../Pa
 普通意义上的shell就是可以接受用户输入命令的程序。它之所以被称作shell是因为它隐藏了操作系统低层的细节。同样的Unix下的图形用户界面[GNOME和](../Page/GNOME.md "wikilink")[KDE](../Page/KDE.md "wikilink")，有时也被叫做「虚拟shell」或「图形shell」。
 
 Unix操作系统下的shell既是用户交互的界面，也是控制系统的[脚本语言](../Page/脚本语言.md "wikilink")。当然在这点也有别于Windows下的命令行，虽然也提供了很简单的控制语句。在Windows操作系统下，可能有些用户从来都不会直接的使用shell，然而在Unix系列操作系统下，shell仍然是控制系统启动、[X
-Window启动和很多其他实用工具的脚本解释程序](../Page/X_Window.md "wikilink")。
+Window启动和很多其他实用工具的脚本解释程序](https://zh.wikipedia.org/wiki/X_Window "wikilink")。
 
 ## 各种Unix shell
 
@@ -14,25 +14,28 @@ shell是由[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")，仿效Multic
 ### Bourne shell兼容
 
   - [Bourne
-    shell](../Page/Bourne_shell.md "wikilink")（sh）[史蒂夫·伯恩在](../Page/史蒂夫·伯恩.md "wikilink")[贝尔实验室时编写](../Page/贝尔实验室.md "wikilink")。1978年随[Version
-    7 Unix首次发布](../Page/Version_7_Unix.md "wikilink")。
+    shell](../Page/Bourne_shell.md "wikilink")（sh）[史蒂夫·伯恩在](https://zh.wikipedia.org/wiki/史蒂夫·伯恩 "wikilink")[贝尔实验室时编写](../Page/贝尔实验室.md "wikilink")。1978年随[Version
+    7
+    Unix首次发布](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")。
       - [Almquist shell](../Page/Almquist_shell.md "wikilink")（ash）
-      - [Bourne-Again shell](../Page/bash.md "wikilink")（bash）
+      - [Bourne-Again
+        shell](https://zh.wikipedia.org/wiki/bash "wikilink")（bash）
       - [Debian Almquist
-        shell](../Page/Debian_Almquist_shell.md "wikilink")（dash）
+        shell](https://zh.wikipedia.org/wiki/Debian_Almquist_shell "wikilink")（dash）
       - [Korn
-        shell](../Page/Korn_shell.md "wikilink")（ksh）在[贝尔实验室时编写](../Page/贝尔实验室.md "wikilink")。
+        shell](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")（ksh）在[贝尔实验室时编写](../Page/贝尔实验室.md "wikilink")。
       - [Z shell](../Page/Z_shell.md "wikilink")（zsh）
 
 ### C shell兼容
 
   - [C
-    shell](../Page/C_shell.md "wikilink")（csh）[比尔·乔伊在](../Page/比尔·乔伊.md "wikilink")[加州大學伯克利分校时编写](../Page/加州大學伯克利分校.md "wikilink")。1979年随[BSD首次发布](../Page/BSD.md "wikilink")。
-      - [TENEX C shell](../Page/tcsh.md "wikilink")（tcsh）
+    shell](https://zh.wikipedia.org/wiki/C_shell "wikilink")（csh）[比尔·乔伊在](../Page/比尔·乔伊.md "wikilink")[加州大學伯克利分校时编写](https://zh.wikipedia.org/wiki/加州大學伯克利分校 "wikilink")。1979年随[BSD首次发布](../Page/BSD.md "wikilink")。
+      - [TENEX C
+        shell](https://zh.wikipedia.org/wiki/tcsh "wikilink")（tcsh）
 
 ### 其他
 
-  - [fish](../Page/Friendly_interactive_shell.md "wikilink")，第一次发布于2005年。
+  - [fish](https://zh.wikipedia.org/wiki/Friendly_interactive_shell "wikilink")，第一次发布于2005年。
 
   - （rc）[九號計畫系统的shell](../Page/貝爾實驗室九號計畫.md "wikilink")，由在[贝尔实验室时编写](../Page/贝尔实验室.md "wikilink")。随后移植回Unix和其他的操作系统。
 

@@ -1,20 +1,21 @@
 **图像互换格式**（GIF，Graphics Interchange
-Format）是一种[位图](../Page/位图.md "wikilink")[图形文件格式](../Page/图形文件格式.md "wikilink")，以8位色（即256种颜色）重现[真彩色的图像](../Page/真彩色.md "wikilink")。它实际上是一种[压缩文档](../Page/数据压缩.md "wikilink")，采用[LZW压缩算法进行编码](../Page/LZW.md "wikilink")，有效地减少了图像文件在网络上传输的时间。它是目前[全球資訊網广泛应用的](../Page/全球資訊網.md "wikilink")[网络传输图像格式之一](../Page/网络传输.md "wikilink")。
+Format）是一种[位图](../Page/位图.md "wikilink")[图形文件格式](https://zh.wikipedia.org/wiki/图形文件格式 "wikilink")，以8位色（即256种颜色）重现[真彩色的图像](../Page/真彩色.md "wikilink")。它实际上是一种[压缩文档](../Page/数据压缩.md "wikilink")，采用[LZW压缩算法进行编码](../Page/LZW.md "wikilink")，有效地减少了图像文件在网络上传输的时间。它是目前[全球資訊網广泛应用的](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")[网络传输图像格式之一](https://zh.wikipedia.org/wiki/网络传输 "wikilink")。
 
 ## 歷史
 
-图像互换格式格式自1987年由[CompuServe公司引入后](../Page/CompuServe.md "wikilink")，因其体积小而成像相对清晰，特别适合于初期慢速的[互联网](../Page/互联网.md "wikilink")，而从此大受欢迎。它采用[无损压缩技术](../Page/无损压缩.md "wikilink")，只要图像不多于256色，则可既减少文件的大小，又保持成像的质量。（当然，现在也存在一些*hack*技术，在一定的条件下克服256色的限制）然而，256色的限制大大局限了GIF文件的应用范围，如彩色相机等。（当然采用无损压缩技术的彩色相机照片亦不适合通过网络传输。）另一方面，在高彩图片上有着不俗表现的[JPG格式却在简单的折线上效果不如人意](../Page/JPG.md "wikilink")。因此图像互换格式格式普遍适用于图表，按钮等等只需少量颜色的图像（如黑白照片）。
+图像互换格式格式自1987年由[CompuServe公司引入后](../Page/CompuServe.md "wikilink")，因其体积小而成像相对清晰，特别适合于初期慢速的[互联网](../Page/互联网.md "wikilink")，而从此大受欢迎。它采用[无损压缩技术](https://zh.wikipedia.org/wiki/无损压缩 "wikilink")，只要图像不多于256色，则可既减少文件的大小，又保持成像的质量。（当然，现在也存在一些*hack*技术，在一定的条件下克服256色的限制）然而，256色的限制大大局限了GIF文件的应用范围，如彩色相机等。（当然采用无损压缩技术的彩色相机照片亦不适合通过网络传输。）另一方面，在高彩图片上有着不俗表现的[JPG格式却在简单的折线上效果不如人意](https://zh.wikipedia.org/wiki/JPG "wikilink")。因此图像互换格式格式普遍适用于图表，按钮等等只需少量颜色的图像（如黑白照片）。
 
-圖像互換格式格式的原始版本叫做**87a**。1989年，CompuServe發布了一個名為**89a**的增強版本，在这个版本中，为图像互换格式文档扩充了[图形控制区块](../Page/图形控制区块.md "wikilink")、[备注](../Page/备注.md "wikilink")、[说明](../Page/说明.md "wikilink")、[应用程序接口等四个区块](../Page/应用程序接口.md "wikilink")，并提供了对[透明色和](../Page/透明色.md "wikilink")[多帧动画的支持](../Page/多帧动画.md "wikilink")。現在我們一般所說的GIF動畫都是指89a的格式\[1\]。
+圖像互換格式格式的原始版本叫做**87a**。1989年，CompuServe發布了一個名為**89a**的增強版本，在这个版本中，为图像互换格式文档扩充了[图形控制区块](https://zh.wikipedia.org/wiki/图形控制区块 "wikilink")、[备注](https://zh.wikipedia.org/wiki/备注 "wikilink")、[说明](https://zh.wikipedia.org/wiki/说明 "wikilink")、[应用程序接口等四个区块](../Page/应用程序接口.md "wikilink")，并提供了对[透明色和](https://zh.wikipedia.org/wiki/透明色 "wikilink")[多帧动画的支持](https://zh.wikipedia.org/wiki/多帧动画 "wikilink")。現在我們一般所說的GIF動畫都是指89a的格式\[1\]。
 
-1995年9月，[Netscape Navigator](../Page/Netscape_Navigator.md "wikilink")
+1995年9月，[Netscape
+Navigator](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")
 2.0支援讓動畫GIF無限循環的功能\[2\]。
 
 2015年5月，Facebook添加了GIF支持，尽管他们最初不支持在他们的网站上使用GIF。\[3\]\[4\]
 
 ## 專利
 
-在早期，图像互换格式所用的LZW压缩算法是[CompuServe所开发的一种免费算法](../Page/CompuServe.md "wikilink")。然而令很多软件开发商感到意外的是，图像互换格式文件所采用的压缩算法忽然成了[Unisys公司的](../Page/Unisys.md "wikilink")[专利](../Page/专利.md "wikilink")。据[Unisys公司称](../Page/Unisys.md "wikilink")，他们已注册了[LZW算法中的](../Page/藍波-立夫-衛曲編碼法.md "wikilink")**W**部分。如果要开发生成（或显示）图像互换格式文件的程序，则需向该公司支付版税。在專利失效前曾引起部份開放原始碼社群發起「Burn
+在早期，图像互换格式所用的LZW压缩算法是[CompuServe所开发的一种免费算法](../Page/CompuServe.md "wikilink")。然而令很多软件开发商感到意外的是，图像互换格式文件所采用的压缩算法忽然成了[Unisys公司的](https://zh.wikipedia.org/wiki/Unisys "wikilink")[专利](../Page/专利.md "wikilink")。据[Unisys公司称](https://zh.wikipedia.org/wiki/Unisys "wikilink")，他们已注册了[LZW算法中的](https://zh.wikipedia.org/wiki/藍波-立夫-衛曲編碼法 "wikilink")**W**部分。如果要开发生成（或显示）图像互换格式文件的程序，则需向该公司支付版税。在專利失效前曾引起部份開放原始碼社群發起「Burn
 all
 GIFs」的運動抵制使用图像互换格式格式。因此，人们开始寻求一种新技术，以减少开发成本。[PNG](../Page/PNG.md "wikilink")（Portable
 Network

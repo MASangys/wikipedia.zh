@@ -1,5 +1,5 @@
 **BSD小惡魔**（BSD
-Daemon）是[BSD](../Page/BSD.md "wikilink")[作業系統的](../Page/作業系統.md "wikilink")[吉祥物](../Page/吉祥物.md "wikilink")。許多人叫他「Beastie」，因為發音跟BSD類似。他的形象是隻[惡魔](../Page/惡魔.md "wikilink")，通常帶支[三叉戟](../Page/三叉戟.md "wikilink")，代表[行程的](../Page/行程.md "wikilink")[分岔](../Page/分岔_\(電腦科學\).md "wikilink")。BSD小惡魔的[版權是由](../Page/版權.md "wikilink")[馬紹爾·克爾克·麥庫錫克持有](../Page/馬紹爾·克爾克·麥庫錫克.md "wikilink")。目前最流行的BSD小惡魔版本是由[動畫導演](../Page/動畫.md "wikilink")[约翰·雷斯特在](../Page/约翰·雷斯特.md "wikilink")1988年3月22日所畫的。而最早的BSD小惡魔版本則是由[漫畫](../Page/漫畫.md "wikilink")[畫家](../Page/畫家.md "wikilink")[費爾·弗格利歐畫的](../Page/費爾·弗格利歐.md "wikilink")。
+Daemon）是[BSD](../Page/BSD.md "wikilink")[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。許多人叫他「Beastie」，因為發音跟BSD類似。他的形象是隻[惡魔](https://zh.wikipedia.org/wiki/惡魔 "wikilink")，通常帶支[三叉戟](https://zh.wikipedia.org/wiki/三叉戟 "wikilink")，代表[行程的](../Page/行程.md "wikilink")[分岔](https://zh.wikipedia.org/wiki/分岔_\(電腦科學\) "wikilink")。BSD小惡魔的[版權是由](https://zh.wikipedia.org/wiki/版權 "wikilink")[馬紹爾·克爾克·麥庫錫克持有](https://zh.wikipedia.org/wiki/馬紹爾·克爾克·麥庫錫克 "wikilink")。目前最流行的BSD小惡魔版本是由[動畫導演](https://zh.wikipedia.org/wiki/動畫 "wikilink")[约翰·雷斯特在](https://zh.wikipedia.org/wiki/约翰·雷斯特 "wikilink")1988年3月22日所畫的。而最早的BSD小惡魔版本則是由[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[畫家](https://zh.wikipedia.org/wiki/畫家 "wikilink")[費爾·弗格利歐畫的](https://zh.wikipedia.org/wiki/費爾·弗格利歐 "wikilink")。
 
 ## ASCII 图片
 
@@ -37,8 +37,8 @@ Daemon）是[BSD](../Page/BSD.md "wikilink")[作業系統的](../Page/作業系�
     —[OpenBSD的吉祥物](../Page/OpenBSD.md "wikilink")
   - [Tux](../Page/Tux.md "wikilink")
     —[Linux的吉祥物](../Page/Linux.md "wikilink")
-  - [Hexley](../Page/Hexley.md "wikilink") —[Apple
-    Darwin的吉祥物](../Page/Apple_Darwin.md "wikilink")
+  - [Hexley](https://zh.wikipedia.org/wiki/Hexley "wikilink") —[Apple
+    Darwin的吉祥物](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")
 
 [Category:電腦吉祥物](https://zh.wikipedia.org/wiki/Category:電腦吉祥物 "wikilink")
 [Category:BSD](https://zh.wikipedia.org/wiki/Category:BSD "wikilink")

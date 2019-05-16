@@ -34,13 +34,15 @@ SP——**小神游SP**，售价[人民币](../Page/人民币.md "wikilink")688�
 
 <!-- end list -->
 
-  - **CPU：**32位 [ARM7-TDMI处理器](../Page/ARM7.md "wikilink") 和 8位 Zilog
-    Z80 处理器协同工作；
+  - **CPU：**32位
+    [ARM7-TDMI处理器](https://zh.wikipedia.org/wiki/ARM7 "wikilink")
+    和 8位 Zilog Z80 处理器协同工作；
 
 <!-- end list -->
 
-  - **内存：**32 KB + 96 KB 的[VRAM](../Page/VRAM.md "wikilink")（CPU内部），256
-    KB 的[DRAM](../Page/DRAM.md "wikilink")（CPU外）；
+  - **内存：**32 KB + 96 KB
+    的[VRAM](https://zh.wikipedia.org/wiki/VRAM "wikilink")（CPU内部），256
+    KB 的[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")（CPU外）；
 
 <!-- end list -->
 
@@ -74,7 +76,7 @@ Boy系列的掌机更容易产生划痕。主机的卡带插口被移至前端�
 
 GBA SP通过變壓充電器为其锂离子电池充电，以前的Game Boy系列游戏机则无法使用。但是它使用的软件和硬件依旧和[Game Boy
 Advance相同](../Page/Game_Boy_Advance.md "wikilink")。这个變壓充電器依旧能在初始版的[Nintendo
-DS上使用](../Page/Nintendo_DS.md "wikilink")。
+DS上使用](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
 任天堂原本希望能在GBA SP上兼容3D效果，但是由于屏幕分辨率过低而放弃。\[1\]
 
@@ -97,7 +99,7 @@ SP的改进版，新版的GBA SP改良了原有的前光光源，改用背光光
     SP控制版上端的灯光按钮功能变为调节亮度，旧版的只能打开或者关闭灯光，而新版则是调节亮度无法关闭背光。增亮版在亮度设置为正常（低）时仍然比旧版明亮。
 
 北美发售的增亮版GBA SP只有珠光红，珠光蓝，墨黑色三种颜色，之后发售了“ Toys "R"
-Us”、[海绵宝宝和](../Page/海绵宝宝.md "wikilink")[皮卡丘的限量版的增亮版GBA](../Page/皮卡丘.md "wikilink")
+Us”、[海绵宝宝和](https://zh.wikipedia.org/wiki/海绵宝宝 "wikilink")[皮卡丘的限量版的增亮版GBA](../Page/皮卡丘.md "wikilink")
 SP。
 
 2006年1月，神游科技在中国大陆发售增亮版的小神游SP，发售之初有铂金色、海蓝色和玛瑙黑三种颜色可选，后续发售的限量版主机皆为增亮版。中国成为继北美之后第二个发售增亮版GBA
@@ -109,7 +111,7 @@ SP的地区。\[2\]
 
 **小神游SP**是神游科技在2004年10月27日发售的中国大陆行货版Game Boy Advance
 SP，主机外观和内部结构与其他地区GBA
-SP几乎完全一致，只是外壳上的“Nintendo”标志变为神游的“iQue”。小神游SP首发售价为人民币688元，并在首发时发布[首日封以示纪念](../Page/首日封.md "wikilink")。\[3\]
+SP几乎完全一致，只是外壳上的“Nintendo”标志变为神游的“iQue”。小神游SP首发售价为人民币688元，并在首发时发布[首日封以示纪念](https://zh.wikipedia.org/wiki/首日封 "wikilink")。\[3\]
 
 2006年1月，神游科技发布增亮版小神游SP，成为继北美之后第二个发售增亮版GBA SP的地区。
 

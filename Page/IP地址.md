@@ -1,17 +1,17 @@
-**網際網路協定位址**（，又譯為**网际协议地址**），縮寫為**IP地址**（），是分配給[網路上使用](../Page/網路.md "wikilink")[網際協議](../Page/網際協議.md "wikilink")（）的裝置的數字標籤。常見的IP位址分為[IPv4與](../Page/IPv4.md "wikilink")[IPv6兩大類](../Page/IPv6.md "wikilink")，但是也有其他不常用的小分類。
+**網際網路協定位址**（，又譯為**网际协议地址**），縮寫為**IP地址**（），是分配給[網路上使用](https://zh.wikipedia.org/wiki/網路 "wikilink")[網際協議](https://zh.wikipedia.org/wiki/網際協議 "wikilink")（）的裝置的數字標籤。常見的IP位址分為[IPv4與](../Page/IPv4.md "wikilink")[IPv6兩大類](../Page/IPv6.md "wikilink")，但是也有其他不常用的小分類。
 
 ## IPv4位址
 
-IP地址由32位[二进制数组成](../Page/二进制.md "wikilink")，为便于使用，常以XXX.XXX.XXX.XXX形式表现，每组XXX代表小于或等于255的10进制数。例如[維基媒體的一个IP位址是](../Page/維基媒體.md "wikilink")208.80.152.2。位址可分为A、B、C、D、E五大类，其中**E类**属于特殊保留地址。
+IP地址由32位[二进制数组成](https://zh.wikipedia.org/wiki/二进制 "wikilink")，为便于使用，常以XXX.XXX.XXX.XXX形式表现，每组XXX代表小于或等于255的10进制数。例如[維基媒體的一个IP位址是](https://zh.wikipedia.org/wiki/維基媒體 "wikilink")208.80.152.2。位址可分为A、B、C、D、E五大类，其中**E类**属于特殊保留地址。
 
 IP地址是唯一的。目前IPv4技术可能使用的IP地址最多可有4,294,967,296個（即2<sup>32</sup>）。骤看可能觉得很难会用尽，但由于早期编码和分配上的問題，使很多区域的编码实际上被空出或不能使用。加上互联网的普及，使大部分家庭都至少有一部电脑，连同公司的电脑，以及连接网络的各种设备都消耗大量IPv4地址资源。
 
-隨著[互聯網的快速成長](../Page/互聯網.md "wikilink")，IPv4的42億個地址的分配最終於2011年2月3日用盡\[1\]\[2\]。相应的科研组织已研究出128位的[IPv6](../Page/IPv6.md "wikilink")，其IP位址数量最高可达3.402823669
+隨著[互聯網的快速成長](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，IPv4的42億個地址的分配最終於2011年2月3日用盡\[1\]\[2\]。相应的科研组织已研究出128位的[IPv6](../Page/IPv6.md "wikilink")，其IP位址数量最高可达3.402823669
 × 10<sup>38</sup>个，屆時每個人家居中的每件電器，每件物件，甚至地球上每一粒沙子都可以擁有自己的IP位址。
 
-在A类、B类、C类IP地址中，如果主机号是全1，那么这个地址为直接广播地址，它是用来使路由器将一个分组以广播形式发送给特定网络上的所有主机。[32位全为](../Page/32位.md "wikilink")1的**IP地址**「255.255.255.255」为**受限广播地址**（"limited
+在A类、B类、C类IP地址中，如果主机号是全1，那么这个地址为直接广播地址，它是用来使路由器将一个分组以广播形式发送给特定网络上的所有主机。[32位全为](https://zh.wikipedia.org/wiki/32位 "wikilink")1的**IP地址**「255.255.255.255」为**受限广播地址**（"limited
 broadcast" destination
-address），用来将一个分组以广播方式发送给本[网络中的所有](../Page/电脑网络.md "wikilink")[主机](../Page/主机.md "wikilink")，[路由器则阻挡该分组通过](../Page/路由器.md "wikilink")，将其广播功能限制在本网内部。
+address），用来将一个分组以广播方式发送给本[网络中的所有](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")[主机](https://zh.wikipedia.org/wiki/主机 "wikilink")，[路由器则阻挡该分组通过](../Page/路由器.md "wikilink")，将其广播功能限制在本网内部。
 
 ## IPv6位址
 

@@ -1,7 +1,7 @@
 **長QT症**又名**長QT綜合症**（Long QT
-syndrome），全稱是**QT間期延長綜合症**，簡稱**LQTS**，是一種跟[心律或](../Page/心律.md "wikilink")[心血管有關的](../Page/心血管.md "wikilink")[心臟病](../Page/心臟病.md "wikilink")。這一種病可能是先天的，也有可能是因為治療其他心臟病的[藥物而引起的後天病症](../Page/藥物.md "wikilink")。長QT症是一種在[心電圖上的QT波過長的現象](../Page/心電圖.md "wikilink")。這種病症雖然很罕見，但每一萬人中，仍然有2人有機會患上此病，而這個病症每年導致3000名美國人死亡。
+syndrome），全稱是**QT間期延長綜合症**，簡稱**LQTS**，是一種跟[心律或](https://zh.wikipedia.org/wiki/心律 "wikilink")[心血管有關的](https://zh.wikipedia.org/wiki/心血管 "wikilink")[心臟病](https://zh.wikipedia.org/wiki/心臟病 "wikilink")。這一種病可能是先天的，也有可能是因為治療其他心臟病的[藥物而引起的後天病症](https://zh.wikipedia.org/wiki/藥物 "wikilink")。長QT症是一種在[心電圖上的QT波過長的現象](https://zh.wikipedia.org/wiki/心電圖 "wikilink")。這種病症雖然很罕見，但每一萬人中，仍然有2人有機會患上此病，而這個病症每年導致3000名美國人死亡。
 
-[人類的心臟](../Page/人類.md "wikilink")，就好像一個電[泵一樣](../Page/泵.md "wikilink")，定時把血液輸送至全身。心臟的活動頻率，就叫心律，靠心臟本身的特殊電流控制。假如[心律不整](../Page/心律不整.md "wikilink")，就會影響[心室的收縮及回復頻率](../Page/心室.md "wikilink")，從而引起問題。這些心室的顫動問題，有可能使患者死亡。
+[人類的心臟](../Page/人類.md "wikilink")，就好像一個電[泵一樣](../Page/泵.md "wikilink")，定時把血液輸送至全身。心臟的活動頻率，就叫心律，靠心臟本身的特殊電流控制。假如[心律不整](../Page/心律不整.md "wikilink")，就會影響[心室的收縮及回復頻率](https://zh.wikipedia.org/wiki/心室 "wikilink")，從而引起問題。這些心室的顫動問題，有可能使患者死亡。
 
 ## 遺傳
 
@@ -67,12 +67,12 @@ Schwartz教授在1993年發表的“LQTS1993”評核。LQTS1993是一種採用�
 
 ## 治療方法
 
-治療方面可使用藥物治療，服用[β受体阻断药](../Page/β受体阻断药.md "wikilink")（β-blockers），或是手術植入心臟整流去顫器（Implantable
+治療方面可使用藥物治療，服用[β受体阻断药](https://zh.wikipedia.org/wiki/β受体阻断药 "wikilink")（β-blockers），或是手術植入心臟整流去顫器（Implantable
 Cardioverter Defibrillator, ICD）
 
 ## 參看
 
-  - [短QT症](../Page/短QT症.md "wikilink")
+  - [短QT症](https://zh.wikipedia.org/wiki/短QT症 "wikilink")
 
 ## 參考書目
 

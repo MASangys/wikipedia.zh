@@ -1,7 +1,7 @@
-**C++**是一种使用广泛的计算机程序设计语言。它是一种通用[程序設計語言](../Page/程式設計語言.md "wikilink")，支援[多重编程模式](../Page/多重编程范式.md "wikilink")，例如[程序化程序設計](../Page/程序化程式設計.md "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[面向对象程序設計](../Page/物件導向程式設計.md "wikilink")、[泛型程序設計和](../Page/泛型程式設計.md "wikilink")[设计模式等](../Page/设计模式_\(计算机\).md "wikilink")。
+**C++**是一种使用广泛的计算机程序设计语言。它是一种通用[程序設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，支援[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")，例如[程序化程序設計](https://zh.wikipedia.org/wiki/程序化程式設計 "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[面向对象程序設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[泛型程序設計和](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")[设计模式等](../Page/设计模式_\(计算机\).md "wikilink")。
 
-[比雅尼·斯特勞斯特魯普博士在](../Page/比雅尼·斯特勞斯特魯普.md "wikilink")[贝尔实验室工作期间在](../Page/贝尔实验室.md "wikilink")20世紀80年代發明並實現了C++。起初，這種語言被稱作“”（“包含‘[類](../Page/类_\(计算机科学\).md "wikilink")’的C語言”），作為[C語言的增強版出現](../Page/C語言.md "wikilink")。随后，C++不斷增加新特性。[虚函数](../Page/虚函数.md "wikilink")（）、[运算符重载](../Page/运算符重载.md "wikilink")（）、[多繼承](../Page/多重继承.md "wikilink")（）、[标准模板库](../Page/标准模板库.md "wikilink")（,
-）、[异常处理](../Page/异常处理.md "wikilink")（）、[运行时类型信息](../Page/RTTI.md "wikilink")（）、[命名空間](../Page/命名空间.md "wikilink")（）等概念逐漸納入標準。1998年，[國際標準組織](../Page/国际标准化组织.md "wikilink")（）頒布了C++程序設計語言的第一個國際標準ISO/IEC
+[比雅尼·斯特勞斯特魯普博士在](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")[贝尔实验室工作期间在](../Page/贝尔实验室.md "wikilink")20世紀80年代發明並實現了C++。起初，這種語言被稱作“”（“包含‘[類](../Page/类_\(计算机科学\).md "wikilink")’的C語言”），作為[C語言的增強版出現](https://zh.wikipedia.org/wiki/C語言 "wikilink")。随后，C++不斷增加新特性。[虚函数](../Page/虚函数.md "wikilink")（）、[运算符重载](../Page/运算符重载.md "wikilink")（）、[多繼承](../Page/多重继承.md "wikilink")（）、[标准模板库](../Page/标准模板库.md "wikilink")（,
+）、[异常处理](../Page/异常处理.md "wikilink")（）、[运行时类型信息](https://zh.wikipedia.org/wiki/RTTI "wikilink")（）、[命名空間](../Page/命名空间.md "wikilink")（）等概念逐漸納入標準。1998年，[國際標準組織](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（）頒布了C++程序設計語言的第一個國際標準ISO/IEC
 14882:1998，目前最新标准为ISO/IEC
 14882:2017。根據《C++編-{}-程思想》（）一書，C++與C的代码执行效率往往相差在±5%之間。\[1\]
 
@@ -9,40 +9,40 @@
 
 [BjarneStroustrup.jpg](https://zh.wikipedia.org/wiki/File:BjarneStroustrup.jpg "fig:BjarneStroustrup.jpg")，C++之父\]\]
 
-C++語言發展大概可以分為三個階段：第一階段從80年代到1995年。這一階段C++語言基本上是傳統類型上的[面向对象語言](../Page/面向对象程序设计.md "wikilink")，並且憑藉着接近C語言的效率，在工業界使用的開發語言中佔據了相當大份額；第二階段從1995年到2000年，這一階段由於[標準模板庫](../Page/標準模板庫.md "wikilink")（）和後來的[Boost等程式庫的出現](../Page/Boost_C++_Libraries.md "wikilink")，[泛型程序設計在C](../Page/泛型程式設計.md "wikilink")++中佔據了越來越多的比重。當然，同時由於[Java](../Page/Java.md "wikilink")、[C\#等語言的出現和硬體價格的大規模下降](../Page/C＃.md "wikilink")，C++受到了一定的衝擊；第三階段從2000年至今，由於以[Loki](../Page/Loki.md "wikilink")、[MPL(Boost)等程式庫為代表的](../Page/Boost_C++_Libraries.md "wikilink")[產生式編程和](../Page/產生式編程.md "wikilink")[模板元編程的出現](../Page/模板元編程.md "wikilink")，C++出現了發展歷史上又一個新的高峰，這些新技術的出現以及和原有技術的融合，使C++已經成為當今主流程序設計語言中最複雜的一員。
+C++語言發展大概可以分為三個階段：第一階段從80年代到1995年。這一階段C++語言基本上是傳統類型上的[面向对象語言](../Page/面向对象程序设计.md "wikilink")，並且憑藉着接近C語言的效率，在工業界使用的開發語言中佔據了相當大份額；第二階段從1995年到2000年，這一階段由於[標準模板庫](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")（）和後來的[Boost等程式庫的出現](../Page/Boost_C++_Libraries.md "wikilink")，[泛型程序設計在C](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")++中佔據了越來越多的比重。當然，同時由於[Java](../Page/Java.md "wikilink")、[C\#等語言的出現和硬體價格的大規模下降](https://zh.wikipedia.org/wiki/C＃ "wikilink")，C++受到了一定的衝擊；第三階段從2000年至今，由於以[Loki](https://zh.wikipedia.org/wiki/Loki "wikilink")、[MPL(Boost)等程式庫為代表的](../Page/Boost_C++_Libraries.md "wikilink")[產生式編程和](https://zh.wikipedia.org/wiki/產生式編程 "wikilink")[模板元編程的出現](https://zh.wikipedia.org/wiki/模板元編程 "wikilink")，C++出現了發展歷史上又一個新的高峰，這些新技術的出現以及和原有技術的融合，使C++已經成為當今主流程序設計語言中最複雜的一員。
 
-[比雅尼·史特勞斯特魯普](../Page/比雅尼·史特勞斯特魯普.md "wikilink")（）工作起於1979年的。這個構思起源於斯特劳斯特鲁普做博士論文時的一些程式撰寫經驗。他發現[Simula具備很利於大型軟體開發的特點](../Page/Simula.md "wikilink")，但的執行速度太慢，無法對現實需求發揮功效；[BCPL雖快得多](../Page/BCPL.md "wikilink")，但它過於低階的特性，使其不適於大型軟體的開發。當斯特劳斯特鲁普開始在[貝爾實驗室工作時](../Page/贝尔实验室.md "wikilink")，他有分析[UNIX](../Page/Unix.md "wikilink")[核心關於](../Page/核心.md "wikilink")[分散式計算的問題](../Page/分散式計算.md "wikilink")。回想起他的博士論文經驗，斯特劳斯特鲁普開始為C語言增強一些類似的特點。\[2\]之所以選擇C，是因為它適於各種用途、快速和可移植性。除了[C和](../Page/C.md "wikilink")[Simula之外](../Page/Simula.md "wikilink")，同時也從其它語言中取得靈感，如[ALGOL
-68](../Page/ALGOL_68.md "wikilink")、[Ada](../Page/Ada.md "wikilink")、[CLU以及](../Page/CLU.md "wikilink")[ML](../Page/ML.md "wikilink")。
+[比雅尼·史特勞斯特魯普](https://zh.wikipedia.org/wiki/比雅尼·史特勞斯特魯普 "wikilink")（）工作起於1979年的。這個構思起源於斯特劳斯特鲁普做博士論文時的一些程式撰寫經驗。他發現[Simula具備很利於大型軟體開發的特點](../Page/Simula.md "wikilink")，但的執行速度太慢，無法對現實需求發揮功效；[BCPL雖快得多](../Page/BCPL.md "wikilink")，但它過於低階的特性，使其不適於大型軟體的開發。當斯特劳斯特鲁普開始在[貝爾實驗室工作時](../Page/贝尔实验室.md "wikilink")，他有分析[UNIX](https://zh.wikipedia.org/wiki/Unix "wikilink")[核心關於](https://zh.wikipedia.org/wiki/核心 "wikilink")[分散式計算的問題](https://zh.wikipedia.org/wiki/分散式計算 "wikilink")。回想起他的博士論文經驗，斯特劳斯特鲁普開始為C語言增強一些類似的特點。\[2\]之所以選擇C，是因為它適於各種用途、快速和可移植性。除了[C和](../Page/C.md "wikilink")[Simula之外](../Page/Simula.md "wikilink")，同時也從其它語言中取得靈感，如[ALGOL
+68](../Page/ALGOL_68.md "wikilink")、[Ada](../Page/Ada.md "wikilink")、[CLU以及](https://zh.wikipedia.org/wiki/CLU "wikilink")[ML](https://zh.wikipedia.org/wiki/ML "wikilink")。
 
-剛開始時，[類別](../Page/类_\(计算机科学\).md "wikilink")、[衍生類別](../Page/继承_\(计算机科学\).md "wikilink")、儲存類型檢查、[內聯和](../Page/內聯.md "wikilink")[缺省参数特性](../Page/缺省参数.md "wikilink")，都是透過[Cfront引入C語言之中](../Page/Cfront.md "wikilink")。\[3\]
+剛開始時，[類別](../Page/类_\(计算机科学\).md "wikilink")、[衍生類別](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")、儲存類型檢查、[內聯和](https://zh.wikipedia.org/wiki/內聯 "wikilink")[缺省参数特性](../Page/缺省参数.md "wikilink")，都是透過[Cfront引入C語言之中](https://zh.wikipedia.org/wiki/Cfront "wikilink")。\[3\]
 
-1983年，改命名為C++（`++`是C语言中的[增值操作符](../Page/增值和减值操作符.md "wikilink")）。加入了新的特性，其中包括[虛擬函式](../Page/虛擬函式.md "wikilink")、函式名和運算子多載、參考、常數、使用者可控制的自由空間儲存區控制、改良的型別檢查，以及新的雙斜線（`//`）單行註解風格。
+1983年，改命名為C++（`++`是C语言中的[增值操作符](../Page/增值和减值操作符.md "wikilink")）。加入了新的特性，其中包括[虛擬函式](https://zh.wikipedia.org/wiki/虛擬函式 "wikilink")、函式名和運算子多載、參考、常數、使用者可控制的自由空間儲存區控制、改良的型別檢查，以及新的雙斜線（`//`）單行註解風格。
 
 1985年，發佈第一版《C++程式設計語言》，提供一個重點的語言參考，至此還不是官方標準。\[4\]1985年10月出現了第一個商業化發佈。
 
-1989年，發佈了。引入了多重繼承、抽象類別、靜態成員函式、[常數成員函式](../Page/常數成員函式.md "wikilink")，以及成員保護。1990年，出版了*The
+1989年，發佈了。引入了多重繼承、抽象類別、靜態成員函式、[常數成員函式](https://zh.wikipedia.org/wiki/常數成員函式 "wikilink")，以及成員保護。1990年，出版了*The
 Annotated C++ Reference
-Manual*。這本書後來成為標準化的基礎。稍後還引入了[模板](../Page/模板_\(C++\).md "wikilink")、[例外處理](../Page/例外處理.md "wikilink")、[命名空間](../Page/命名空間.md "wikilink")、新的[強制类型转换](../Page/強制类型转换.md "wikilink")，以及[布林类型](../Page/布爾_\(數據類型\).md "wikilink")。
+Manual*。這本書後來成為標準化的基礎。稍後還引入了[模板](../Page/模板_\(C++\).md "wikilink")、[例外處理](https://zh.wikipedia.org/wiki/例外處理 "wikilink")、[命名空間](https://zh.wikipedia.org/wiki/命名空間 "wikilink")、新的[強制类型转换](https://zh.wikipedia.org/wiki/強制类型转换 "wikilink")，以及[布林类型](https://zh.wikipedia.org/wiki/布爾_\(數據類型\) "wikilink")。
 
-隨著C++語言的演變，也逐漸演化出相應的標準程式庫。最先加進C++標準函式庫的是串流程式庫，其用以取代傳統的C函式，如[printf和](../Page/printf.md "wikilink")[scanf](../Page/scanf.md "wikilink")。隨後所引入的程式庫中最重要的便是[標準模板庫](../Page/標準模板庫.md "wikilink")，簡稱[STL](../Page/STL.md "wikilink")。
+隨著C++語言的演變，也逐漸演化出相應的標準程式庫。最先加進C++標準函式庫的是串流程式庫，其用以取代傳統的C函式，如[printf和](https://zh.wikipedia.org/wiki/printf "wikilink")[scanf](https://zh.wikipedia.org/wiki/scanf "wikilink")。隨後所引入的程式庫中最重要的便是[標準模板庫](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")，簡稱[STL](https://zh.wikipedia.org/wiki/STL "wikilink")。
 
-多年後，一個聯合的[ANSI](../Page/美国国家标准学会.md "wikilink")-[ISO委員會於](../Page/International_Organization_for_Standardization.md "wikilink")1998年對C++標準化（*[ISO/IEC
-14882](../Page/ISO/IEC_14882.md "wikilink")：1998*）。在官方釋出1998標準的若干年後，委員會處理缺陷報告，並於2003年發佈一個C++標準的修正版本。2005年，一份名為**[Library
+多年後，一個聯合的[ANSI](https://zh.wikipedia.org/wiki/美国国家标准学会 "wikilink")-[ISO委員會於](https://zh.wikipedia.org/wiki/International_Organization_for_Standardization "wikilink")1998年對C++標準化（*[ISO/IEC
+14882](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink")：1998*）。在官方釋出1998標準的若干年後，委員會處理缺陷報告，並於2003年發佈一個C++標準的修正版本。2005年，一份名為**[Library
 Technical Report
 1](../Page/C++_Technical_Report_1.md "wikilink")**（簡稱）的技術報告釋出。雖然還不是官方標準的一部分，不過它所提供的幾個擴展可望成為下一版C++標準的一部分。幾乎所有目前仍在維護的C++編譯器皆已支援。
 
 目前最新的C++标准是2017年12月发布的*[ISO/IEC
-14882](../Page/ISO/IEC_14882.md "wikilink"):2017*\[5\]，又称[C++17或](../Page/C++17.md "wikilink")[C++1z](../Page/C++1z.md "wikilink")。
+14882](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink"):2017*\[5\]，又称[C++17或](../Page/C++17.md "wikilink")[C++1z](https://zh.wikipedia.org/wiki/C++1z "wikilink")。
 
 雖然C++免專利，但標準文件本身並不是免費的，尽管标准文档不是免费的，但是很容易从网络中取得，最简单的就是C++标准文档之前的最后一次草稿版本，它与标准的差别几乎只在于排版上。
 
 ### C++名字的由來
 
 C++這個名字是[Rick
-Mascitti於](../Page/Rick_Mascitti.md "wikilink")1983年中所建議的，並於1983年12月首次使用。更早以前，尚在研究階段的發展中語言曾被稱為「」，之後是「」。在[電腦科學中](../Page/電腦科學.md "wikilink")，C++仍被稱為C語言的上層結構。它最後得名於C語言中的「++」運算子（其對[變數的](../Page/變數.md "wikilink")[值進行遞增](../Page/值.md "wikilink")）。而且在共同的[命名約定中](../Page/命名約定.md "wikilink")，使用「+」以表示增強的程式。斯特劳斯特鲁普說：「這個名字象徵著源自於C語言變化的自然演進」。[C+是一個和C](../Page/ABCL/c+.md "wikilink")/C++無關的早期程式語言。
+Mascitti於](https://zh.wikipedia.org/wiki/Rick_Mascitti "wikilink")1983年中所建議的，並於1983年12月首次使用。更早以前，尚在研究階段的發展中語言曾被稱為「」，之後是「」。在[電腦科學中](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")，C++仍被稱為C語言的上層結構。它最後得名於C語言中的「++」運算子（其對[變數的](../Page/變數.md "wikilink")[值進行遞增](https://zh.wikipedia.org/wiki/值 "wikilink")）。而且在共同的[命名約定中](https://zh.wikipedia.org/wiki/命名約定 "wikilink")，使用「+」以表示增強的程式。斯特劳斯特鲁普說：「這個名字象徵著源自於C語言變化的自然演進」。[C+是一個和C](https://zh.wikipedia.org/wiki/ABCL/c+ "wikilink")/C++無關的早期程式語言。
 
 [Rick
-Mascitti在](../Page/Rick_Mascitti.md "wikilink")1992年被非正式地問起名字的由來，他表示這是在半開玩笑中說出的。他從沒想過C++會成為這門語言的正式名字。
+Mascitti在](https://zh.wikipedia.org/wiki/Rick_Mascitti "wikilink")1992年被非正式地問起名字的由來，他表示這是在半開玩笑中說出的。他從沒想過C++會成為這門語言的正式名字。
 
 有一個關於C++名字的笑話是，當你使用後綴++時，附加只發生在運算之後（因此，它應該是++C，而不是C++，这个笑话是说时下某些程序员还在以使用C的方式使用C++，这通常被一些权威著作认为是不正确的）。
 
@@ -75,7 +75,7 @@ Mascitti在](../Page/Rick_Mascitti.md "wikilink")1992年被非正式地問起名
 
 在《C++語言的設計和演化》（1994）中，描述了他在設計C++時，所使用的一些原則。知道這些原則有助於理解C++為何會是現在這個樣子。以下總結了一些原則，詳盡的內容可參閱《C++語言的設計和演化》：
 
-  - C++設計成直接的和廣泛的支援多種程式設計風格（[程序化程式設計](../Page/程序化程式設計.md "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[物件導向程式設計](../Page/物件導向程式設計.md "wikilink")、[泛型程式設計](../Page/泛型程式設計.md "wikilink")）。
+  - C++設計成直接的和廣泛的支援多種程式設計風格（[程序化程式設計](https://zh.wikipedia.org/wiki/程序化程式設計 "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[物件導向程式設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[泛型程式設計](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")）。
   - C++設計成給程式設計者更多的選擇，即使可能導致程式設計者選擇錯誤。
   - C++設計成儘可能與C相容，藉此提供一個從C到C++的平滑過渡。
   - C++避免平台限定或沒有普遍用途的特性。
@@ -84,14 +84,14 @@ Mascitti在](../Page/Rick_Mascitti.md "wikilink")1992年被非正式地問起名
 
 ## 標準程序庫
 
-1998的C++[標準分為兩個部分](../Page/standardization.md "wikilink")：[核心語言和](../Page/核心語言.md "wikilink")[C++標準程式庫](../Page/C++標準程式庫.md "wikilink")；後者包含了大部分[標準模板庫和C標準程式庫的稍加修改版本](../Page/標準模板庫.md "wikilink")。存在許多不屬於標準部分的C++程式庫，且使用外部連結，程式庫甚至可以用[C撰寫](../Page/C.md "wikilink")。
+1998的C++[標準分為兩個部分](https://zh.wikipedia.org/wiki/standardization "wikilink")：[核心語言和](https://zh.wikipedia.org/wiki/核心語言 "wikilink")[C++標準程式庫](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")；後者包含了大部分[標準模板庫和C標準程式庫的稍加修改版本](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")。存在許多不屬於標準部分的C++程式庫，且使用外部連結，程式庫甚至可以用[C撰寫](../Page/C.md "wikilink")。
 
-[C++標準程式庫充分吸收了C標準程式庫](../Page/C++標準程式庫.md "wikilink")，並佐以少許的修改，使其與C++良好的運作。另一個大型的程式庫部分，是以[標準模板庫](../Page/標準模板庫.md "wikilink")（）為基礎，於1994年2月正式成為ANSI/ISO
-C++。它提供了實用的工具，如[容器类](../Page/容器_\(抽象数据类型\).md "wikilink")（如：[Array和](../Page/Array.md "wikilink")），[迭代器](../Page/迭代器.md "wikilink")（廣義[指针](../Page/指標_\(電腦科學\).md "wikilink")）提供容器以類似陣列的存取方式，以及[<u>泛型</u>算法進行搜尋和排序的運算](../Page/演算法.md "wikilink")。此外還提供了(multi)map和(multi)set，它們都共享相似的成员函数。因此，以下成為可能，使用模板撰寫泛型算法，它可以和任何容器或在任何以迭代器定義的序列上運作。如同C，使用`#include`[指令包含](../Page/directive_\(programming\).md "wikilink")[標準表頭](../Page/標準表頭.md "wikilink")，即可存取[程式庫裡的功能](../Page/程式庫.md "wikilink")。C++提供69個標準表頭，其中19個不再贊成使用。
+[C++標準程式庫充分吸收了C標準程式庫](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")，並佐以少許的修改，使其與C++良好的運作。另一個大型的程式庫部分，是以[標準模板庫](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")（）為基礎，於1994年2月正式成為ANSI/ISO
+C++。它提供了實用的工具，如[容器类](https://zh.wikipedia.org/wiki/容器_\(抽象数据类型\) "wikilink")（如：[Array和](https://zh.wikipedia.org/wiki/Array "wikilink")），[迭代器](../Page/迭代器.md "wikilink")（廣義[指针](../Page/指標_\(電腦科學\).md "wikilink")）提供容器以類似陣列的存取方式，以及[<u>泛型</u>算法進行搜尋和排序的運算](https://zh.wikipedia.org/wiki/演算法 "wikilink")。此外還提供了(multi)map和(multi)set，它們都共享相似的成员函数。因此，以下成為可能，使用模板撰寫泛型算法，它可以和任何容器或在任何以迭代器定義的序列上運作。如同C，使用`#include`[指令包含](https://zh.wikipedia.org/wiki/directive_\(programming\) "wikilink")[標準表頭](https://zh.wikipedia.org/wiki/標準表頭 "wikilink")，即可存取[程式庫裡的功能](https://zh.wikipedia.org/wiki/程式庫 "wikilink")。C++提供69個標準表頭，其中19個不再贊成使用。
 
 使用標準模板庫（例如：使用`std::vector`或`std::string`來取代C風格的数组或字符数组）有助於導向更安全和更靈活的软件。
 
-在[STL在納入C](../Page/STL.md "wikilink")++標準以前，是來自[HP和後來的](../Page/Hewlett-Packard.md "wikilink")[SGI的第三方程式庫](../Page/Silicon_Graphics.md "wikilink")，標準中並未稱之為「」，它只是標準庫中的一部分，但仍有許多人使用這個名稱，以別於其它的標準庫（輸入／輸出串流、國際化、診斷、C程式庫子集，等等）。
+在[STL在納入C](https://zh.wikipedia.org/wiki/STL "wikilink")++標準以前，是來自[HP和後來的](https://zh.wikipedia.org/wiki/Hewlett-Packard "wikilink")[SGI的第三方程式庫](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink")，標準中並未稱之為「」，它只是標準庫中的一部分，但仍有許多人使用這個名稱，以別於其它的標準庫（輸入／輸出串流、國際化、診斷、C程式庫子集，等等）。
 另外，如`std::basic_string`此类标准委员会添加的接口，有时也被误认为；实际上它们并不存在于原始的中，在标准化后才从标准库吸收加入其中。
 
 ## C++中的特色
@@ -104,14 +104,14 @@ C++在某些案例中（見下「與C不相容之處」），進行比C還要多
 
 以「`//`」起始作為註解起源自C的前身[BCPL](../Page/BCPL.md "wikilink")，而後被重新引入到C++。
 
-C++的一些特性，C不久之後也採用了，包括在循环的括号中声明，C++風格的註解（使用`//`符號，和`inline`，雖然C99定義的`inline`關鍵字與C++的定義不相容。不過，[C99也引入了不存在於C](../Page/C语言#C99.md "wikilink")++的特性，如：可变参数[巨集](../Page/巨集.md "wikilink")，和以陣列作為參數的較佳處理；某些C++編譯器可能實作若干特性，以作為擴展，但其餘部分並不符合現存的C++特性）
+C++的一些特性，C不久之後也採用了，包括在循环的括号中声明，C++風格的註解（使用`//`符號，和`inline`，雖然C99定義的`inline`關鍵字與C++的定義不相容。不過，[C99也引入了不存在於C](https://zh.wikipedia.org/wiki/C语言#C99 "wikilink")++的特性，如：可变参数[巨集](../Page/巨集.md "wikilink")，和以陣列作為參數的較佳處理；某些C++編譯器可能實作若干特性，以作為擴展，但其餘部分並不符合現存的C++特性）
 
-一個常見的混淆其實只是一個微妙的術語問題：由於它的演化來自C，在C++中的術語**物件**和C語言一樣是意味著**記憶體區域**，而不是**-{zh:類別;zh-tw:類別;zh-cn:类}-的實體**，在其它絕大多數的[物件導向語言也是如此](../Page/物件導向.md "wikilink")。舉例來說，在C和C++中，語句`int
+一個常見的混淆其實只是一個微妙的術語問題：由於它的演化來自C，在C++中的術語**物件**和C語言一樣是意味著**記憶體區域**，而不是**-{zh:類別;zh-tw:類別;zh-cn:类}-的實體**，在其它絕大多數的[物件導向語言也是如此](https://zh.wikipedia.org/wiki/物件導向 "wikilink")。舉例來說，在C和C++中，語句`int
 i;`定義一個`int`型別的物件，這就是變數的值`i`將在指派時，所存入的記憶體區域。
 
 ### C++语言中的关键字
 
-`const`是一个C和C++语言的关键字，意思是宣告一個常數(不能改變的變數)，即唯讀。使用`const`在一定程度上可以提高程序的安全性和可靠性，也便于实现对此进行优化（如把只读对象放入[ROM中](../Page/ROM.md "wikilink")）。`const`作为-{zh:型別;zh-tw:型別;zh-cn:类型}-限定符，是型別的一部分。
+`const`是一个C和C++语言的关键字，意思是宣告一個常數(不能改變的變數)，即唯讀。使用`const`在一定程度上可以提高程序的安全性和可靠性，也便于实现对此进行优化（如把只读对象放入[ROM中](https://zh.wikipedia.org/wiki/ROM "wikilink")）。`const`作为-{zh:型別;zh-tw:型別;zh-cn:类型}-限定符，是型別的一部分。
 
 以下是和C语言相容的用法：
 
@@ -133,7 +133,7 @@ const int max_len = 42;
 int a[max_len];
 ```
 
-此前C语言并不支持这样的用法，直到[C99允许用变量作为数组长度](../Page/C99.md "wikilink")（需要注意的是[C99中的](../Page/C99.md "wikilink")支持运行期确定数组长度，但C++从未支持）。此外，C++中，命名空间作用域的对象的名称隐含内部链接。这意味着直接在头文件里定义对象被多个源文件包含时，也不会重定义。
+此前C语言并不支持这样的用法，直到[C99允许用变量作为数组长度](https://zh.wikipedia.org/wiki/C99 "wikilink")（需要注意的是[C99中的](https://zh.wikipedia.org/wiki/C99 "wikilink")支持运行期确定数组长度，但C++从未支持）。此外，C++中，命名空间作用域的对象的名称隐含内部链接。这意味着直接在头文件里定义对象被多个源文件包含时，也不会重定义。
 
 在C++11及之后的C++标准中，推荐使用拥有更严格语义的`constexpr`限定符来表示一个可以出现在常量表达式中的变量。
 
@@ -141,7 +141,7 @@ int a[max_len];
 
 ## 与C不兼容之处
 
-C++有时被认为是C的[超集](../Page/超集.md "wikilink")（），但这並不严谨。
+C++有时被认为是C的[超集](https://zh.wikipedia.org/wiki/超集 "wikilink")（），但这並不严谨。
 
 各个版本的的附录C中都指出了C++和的一些不兼容之处。
 
@@ -162,9 +162,9 @@ int *i = (int *)malloc(sizeof(int) * 5);
 
 另一个常见的可移植問題是，C++定义了很多的新关键字，如`new`和`class`，它们在C程式中，是可以作为识別字（例：变量名）的。
 
-[C99去除了一些不兼容之处](../Page/C_\(programming_language\)#C99.md "wikilink")，也新增了一些C++的特性，如`//`注释，以及在代码中混合使用。不过C99也纳入几个和C++冲突的新特性（如：可变长数组、原生复数类型和复合逐字常数），而C++11已经加入了兼容C99预处理器的特性。
+[C99去除了一些不兼容之处](https://zh.wikipedia.org/wiki/C_\(programming_language\)#C99 "wikilink")，也新增了一些C++的特性，如`//`注释，以及在代码中混合使用。不过C99也纳入几个和C++冲突的新特性（如：可变长数组、原生复数类型和复合逐字常数），而C++11已经加入了兼容C99预处理器的特性。
 
-由于C++函数和C函数通常具有不同的[名字修饰和](../Page/名字修饰.md "wikilink")[调用约定](../Page/调用约定.md "wikilink")，所有在C++中呼叫的C函数，须放在`extern
+由于C++函数和C函数通常具有不同的[名字修饰和](../Page/名字修饰.md "wikilink")[调用约定](https://zh.wikipedia.org/wiki/调用约定 "wikilink")，所有在C++中呼叫的C函数，须放在`extern
 "C" { /* C函数声明 */ }`之內。
 
 ## C++的程序
@@ -252,7 +252,7 @@ C++主要有三個編譯階段：預處理、轉譯成目的碼和連結（最�
 
 #### 預處理器指令和巨集
 
-預處理指令的運作方式是根據使用者定義的規則，簡單的把記號字元序列置換成其它的記號字元序列。它們進行[巨集置換](../Page/巨集置換.md "wikilink")、含入其它的檔案（由底層至高階的特性，例如包含模組／包／單元／元件）、條件式編譯和條件式含入。例如：
+預處理指令的運作方式是根據使用者定義的規則，簡單的把記號字元序列置換成其它的記號字元序列。它們進行[巨集置換](https://zh.wikipedia.org/wiki/巨集置換 "wikilink")、含入其它的檔案（由底層至高階的特性，例如包含模組／包／單元／元件）、條件式編譯和條件式含入。例如：
 
 ``` cpp
 #define PI 3.1415926535897932384626433832795028841971693993751
@@ -267,15 +267,15 @@ C++主要有三個編譯階段：預處理、轉譯成目的碼和連結（最�
 它将標準庫头文件`iostream`中所有的声明语句都纳入调用者所在的程序块。除了以上提到的常用指令以外，還有幾個額外的預處理器指令，可以用來控制編譯流程、條件式含入或排除代碼區塊等等。
 
   -
-    *參閱[預處理器和](../Page/預處理器.md "wikilink")[C預處理器](../Page/C預處理器.md "wikilink")*
+    *參閱[預處理器和](https://zh.wikipedia.org/wiki/預處理器 "wikilink")[C預處理器](https://zh.wikipedia.org/wiki/C預處理器 "wikilink")*
 
 ### 模板
 
-模板（）指C++程式語言中的函式模板（）與類別模板（），這種觀念是取材自[Simula的泛型程式設計](../Page/Simula.md "wikilink")。它采用[typename和](../Page/typename.md "wikilink")[class两个关键字](../Page/class.md "wikilink")，来标识模板類別的型別参数。[C++11和](../Page/C++11.md "wikilink")[C++14分别引入了类型别名模板和变量模板](../Page/C++14.md "wikilink")。
+模板（）指C++程式語言中的函式模板（）與類別模板（），這種觀念是取材自[Simula的泛型程式設計](../Page/Simula.md "wikilink")。它采用[typename和](https://zh.wikipedia.org/wiki/typename "wikilink")[class两个关键字](https://zh.wikipedia.org/wiki/class "wikilink")，来标识模板類別的型別参数。[C++11和](../Page/C++11.md "wikilink")[C++14分别引入了类型别名模板和变量模板](../Page/C++14.md "wikilink")。
 
 ### 類別与对象
 
-在物件導向物件程式設計術語中，物件（）是資料（）和處理資料的指令（）的聯合（）。模擬（）實際世界（），物件有三種特質（）：狀態（）、行為（）、，並且使用訊息（）來引發彼此的互動。類別（）為物件的[藍圖或工廠](../Page/藍圖.md "wikilink")，定義了物件的抽象特質，包括物件的屬性特質和物件的行為特質，屬性的值即是物件的狀態，行為即是物件能夠做的事。
+在物件導向物件程式設計術語中，物件（）是資料（）和處理資料的指令（）的聯合（）。模擬（）實際世界（），物件有三種特質（）：狀態（）、行為（）、，並且使用訊息（）來引發彼此的互動。類別（）為物件的[藍圖或工廠](https://zh.wikipedia.org/wiki/藍圖 "wikilink")，定義了物件的抽象特質，包括物件的屬性特質和物件的行為特質，屬性的值即是物件的狀態，行為即是物件能夠做的事。
 
 C++為類別構成式物件導向程式設計語言（），類別概念具現化（）地作為二等公民（）出現在C++語言當中，在語法中明確地使用類別來做到資料抽象化、封裝、模組化、繼承、子型別多型、物件狀態的自動初始化。C++中，一個類別即為一個型別，加上封裝，一個類別即為一個[抽象資料型別](../Page/抽象資料型別.md "wikilink")（，），繼承、多型、模板都加強了類別的可抽象性。在C++可以使用或這兩個關鍵字宣告類別（），而使用運算子實體化類別產生的實體（）即為物件，是[一等公民](../Page/第一類物件.md "wikilink")。C/C++以資料成員（）表達屬性，以成員函式（）表達行為。
 
@@ -307,13 +307,13 @@ C++的類別对其成员（包括数据成员、函数成员）分为三种封�
 
 #### 繼承
 
-[繼承](../Page/繼承_\(計算機科學\).md "wikilink")（）是指派生类（）繼承基类（），會自動取得超類別除私有特質外的全部特質，同一類別的所有實體都會自動有該類別的全部特質，做到程式碼再用（）。C++只支援類別構成式繼承，雖然同一類別的所有實體都有該類別的全部特質，但是實體能夠共享的實體成員只限成員函式，類別的任何實體資料成員乃每個實體獨立一份，因此物件間並不能共享狀態，除非特質為參考型別的屬性，或使用指標來間接共享。C++支持的继承关系为：
+[繼承](https://zh.wikipedia.org/wiki/繼承_\(計算機科學\) "wikilink")（）是指派生类（）繼承基类（），會自動取得超類別除私有特質外的全部特質，同一類別的所有實體都會自動有該類別的全部特質，做到程式碼再用（）。C++只支援類別構成式繼承，雖然同一類別的所有實體都有該類別的全部特質，但是實體能夠共享的實體成員只限成員函式，類別的任何實體資料成員乃每個實體獨立一份，因此物件間並不能共享狀態，除非特質為參考型別的屬性，或使用指標來間接共享。C++支持的继承关系为：
 
   - 公有繼承（）：最常用繼承关系，含义是「」關係，代表了在完全使用公有繼承的物件類別之間的层次关系（）。
   - 受保護繼承（）：基礎類別的公有或保护内容可以被衍生類別，以及由此衍生的其他類別使用。但是基礎類別对外界用户是不可见的。衍生類別的用户不能访问基礎類別的成员、不能把派生類別转换（造型）为基礎類別的指针或引用。
   - 私有繼承（）：基礎類別的公有或保护内容仅可以被衍生類別访问。但基礎類別对衍生類別的子類別或衍生類別的用户都是不可见的。衍生類別的子類別或衍生類別的用户都不能访问基礎類別的内容、不能把衍生類別转换为基礎類別的指针或引用。
 
-C++支持多繼承（，）。多繼承（，）的優缺點一直廣為使用者所爭議，許多語言（如[Java](../Page/Java.md "wikilink")）並不支援多重繼承，而改以單一繼承和介面繼承（），而另一些語言则采用用單一繼承和混入（）。C++通过[虛繼承](../Page/虛繼承.md "wikilink")（）来解決多繼承带来的一系列问题。
+C++支持多繼承（，）。多繼承（，）的優缺點一直廣為使用者所爭議，許多語言（如[Java](../Page/Java.md "wikilink")）並不支援多重繼承，而改以單一繼承和介面繼承（），而另一些語言则采用用單一繼承和混入（）。C++通过[虛繼承](https://zh.wikipedia.org/wiki/虛繼承 "wikilink")（）来解決多繼承带来的一系列问题。
 
 ### 多态
 
@@ -330,7 +330,7 @@ Overloading   Coercion       Inclusion  Parametric</p>
 </tbody>
 </table>
 
-除了封裝與繼承外，C++還提供了[多型功能](../Page/多型_\(物件導向程式設計\).md "wikilink")，物件導向的精神在於多态（），一般的多态，是指動態多态，係使用繼承和動態绑定（）實現，使用多型可建立起繼承體系（）。類（）與繼承只是達成多态中的一種手段，所以稱物件導向而非類別導向。
+除了封裝與繼承外，C++還提供了[多型功能](https://zh.wikipedia.org/wiki/多型_\(物件導向程式設計\) "wikilink")，物件導向的精神在於多态（），一般的多态，是指動態多态，係使用繼承和動態绑定（）實現，使用多型可建立起繼承體系（）。類（）與繼承只是達成多态中的一種手段，所以稱物件導向而非類別導向。
 
 多态又分成靜態多态（）與動態多态（）。C++语言支持的動態多态必須結合繼承和动态绑定（）方式實現。靜態多态是指编译时决定的多态，包括重载和以模板（）實現多型的方法即參數化型態（），是使用巨集（）的“程序代码膨脹法”達到多型效果。
 
@@ -351,7 +351,7 @@ std::vector<std::vector<std::string>>table2;
 
 上面的显然是一个[字符串的二维](../Page/字符串.md "wikilink")[数组](../Page/数组.md "wikilink")，而则未必能通过编译：如果严格遵循分析过程，串
 \>\>
-会被解释为[右移运算符而非两个代表](../Page/移位.md "wikilink")[模板参数表结束的右尖括号](../Page/模板_\(C++\).md "wikilink")，因此出现编译错误，必须以的方式用空格区分。(在C++11发布之后，特别规定了当处理模板时，\>\>被优先视为两个\>，所以table1和table2均可通过编译.)
+会被解释为[右移运算符而非两个代表](https://zh.wikipedia.org/wiki/移位 "wikilink")[模板参数表结束的右尖括号](../Page/模板_\(C++\).md "wikilink")，因此出现编译错误，必须以的方式用空格区分。(在C++11发布之后，特别规定了当处理模板时，\>\>被优先视为两个\>，所以table1和table2均可通过编译.)
 
 ## 争议
 
@@ -367,7 +367,7 @@ std::vector<std::vector<std::string>>table2;
 概括說來[UNIX程式設計師批評C](../Page/UNIX.md "wikilink")++主要是由於社群與C++社群的文化差異。\[24\]
 
 一个值得注意的事情是[Linux之父](../Page/Linux.md "wikilink")[Linus
-Torvalds曾经炮轰C](../Page/Linus_Torvalds.md "wikilink")++；[图灵奖得主](../Page/图灵奖.md "wikilink")[尼克劳斯·维尔特也曾经批评C](../Page/尼克劳斯·维尔特.md "wikilink")++语言太复杂、语法语义模糊，是“拙劣工程学”的成果。
+Torvalds曾经炮轰C](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink")++；[图灵奖得主](../Page/图灵奖.md "wikilink")[尼克劳斯·维尔特也曾经批评C](../Page/尼克劳斯·维尔特.md "wikilink")++语言太复杂、语法语义模糊，是“拙劣工程学”的成果。
 
 事实上，对于C++语言的批评并不只来源于系统下的程序员。就像C++语言本身是一个跨平台的语言一样，对C++的批评并不局限于系统用户。
 
@@ -375,10 +375,10 @@ Torvalds曾经炮轰C](../Page/Linus_Torvalds.md "wikilink")++；[图灵奖得�
 
 ## 參閱
 
-  - 《[C++程式語言](../Page/C++程式語言_\(書\).md "wikilink")》（）
-  - [比较Java和C++](../Page/比较Java和C++.md "wikilink")
-  - [C++託管擴展](../Page/C++託管擴展.md "wikilink")
-  - [C++/CLI](../Page/C++/CLI.md "wikilink")
+  - 《[C++程式語言](https://zh.wikipedia.org/wiki/C++程式語言_\(書\) "wikilink")》（）
+  - [比较Java和C++](https://zh.wikipedia.org/wiki/比较Java和C++ "wikilink")
+  - [C++託管擴展](https://zh.wikipedia.org/wiki/C++託管擴展 "wikilink")
+  - [C++/CLI](https://zh.wikipedia.org/wiki/C++/CLI "wikilink")
   - [Boost C++ Libraries](../Page/Boost_C++_Libraries.md "wikilink")
   - [Objective-C](../Page/Objective-C.md "wikilink")
     ，另一個以C語言添加物件導向設計的程式語言
@@ -434,4 +434,4 @@ Torvalds曾经炮轰C](../Page/Linus_Torvalds.md "wikilink")++；[图灵奖得�
 23. Ian Joyner著的《C++?? A Critique of C++ and Programming and Language
     Trends of the 1990s》第3章51节
 24. Eric
-    Raymond著的《[Unix編-{}-程藝術](../Page/Unix編程藝術.md "wikilink")》一書第十四章第四節“語言評估”
+    Raymond著的《[Unix編-{}-程藝術](https://zh.wikipedia.org/wiki/Unix編程藝術 "wikilink")》一書第十四章第四節“語言評估”

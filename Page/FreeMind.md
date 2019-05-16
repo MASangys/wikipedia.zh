@@ -1,5 +1,5 @@
-**FreeMind**是一款跨平台的、基于[GPL协议的](../Page/GPL.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，用[Java編寫](../Page/Java.md "wikilink")，是一個用來繪製[思维导图的软件](../Page/思维导图.md "wikilink")。其产生的[文件格式后缀为](../Page/文件格式.md "wikilink").mm
-。可用来做笔记，脑图记录，[腦力激盪等](../Page/腦力激盪.md "wikilink")。
+**FreeMind**是一款跨平台的、基于[GPL协议的](https://zh.wikipedia.org/wiki/GPL "wikilink")[自由软件](../Page/自由软件.md "wikilink")，用[Java編寫](../Page/Java.md "wikilink")，是一個用來繪製[思维导图的软件](https://zh.wikipedia.org/wiki/思维导图 "wikilink")。其产生的[文件格式后缀为](https://zh.wikipedia.org/wiki/文件格式 "wikilink").mm
+。可用来做笔记，脑图记录，[腦力激盪等](https://zh.wikipedia.org/wiki/腦力激盪 "wikilink")。
 
 ## 特点
 
@@ -11,7 +11,7 @@ JPEG,Applet,Flash,SVG,PDF等. 支持多种语言如中文.
 ### 扩展性
 
 由于 FreeMind 使用 Java 编写，支持使用 [Python](../Page/Python.md "wikilink")
-编写的扩展插件。另外文件格式是[xml的](../Page/xml.md "wikilink")。
+编写的扩展插件。另外文件格式是[xml的](https://zh.wikipedia.org/wiki/xml "wikilink")。
 
 ## 缺陷
 

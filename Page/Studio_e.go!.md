@@ -1,20 +1,21 @@
 **Studio
-e.go\!**是[日本一家開發](../Page/日本.md "wikilink")[成人遊戲的公司](../Page/日本成人遊戲.md "wikilink")，於1998年由原畫師[山本和枝創立](../Page/山本和枝.md "wikilink")。該公司的[吉祥物為一隻胖](../Page/吉祥物.md "wikilink")[麻雀](../Page/麻雀.md "wikilink")「迪波」（），常在[遊戲軟體中出現](../Page/遊戲軟體.md "wikilink")。該公司的一些作品透過[台灣](../Page/台灣.md "wikilink")[信必優多媒體改為全年齡中文版](../Page/信必優多媒體.md "wikilink")，改動方面包括刪去[限制級情節](../Page/限制級.md "wikilink")；在推出中文版《[新聖魔大戰](../Page/新聖魔大戰.md "wikilink")》後，曾有消息指信必優會把《[IZUMO](../Page/IZUMO.md "wikilink")》中文化，但最後沒有成事，日後再無把遊戲中文化。
+e.go\!**是[日本一家開發](../Page/日本.md "wikilink")[成人遊戲的公司](../Page/日本成人遊戲.md "wikilink")，於1998年由原畫師[山本和枝創立](../Page/山本和枝.md "wikilink")。該公司的[吉祥物為一隻胖](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[麻雀](../Page/麻雀.md "wikilink")「迪波」（），常在[遊戲軟體中出現](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。該公司的一些作品透過[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[信必優多媒體改為全年齡中文版](https://zh.wikipedia.org/wiki/信必優多媒體 "wikilink")，改動方面包括刪去[限制級情節](https://zh.wikipedia.org/wiki/限制級 "wikilink")；在推出中文版《[新聖魔大戰](https://zh.wikipedia.org/wiki/新聖魔大戰 "wikilink")》後，曾有消息指信必優會把《[IZUMO](../Page/IZUMO.md "wikilink")》中文化，但最後沒有成事，日後再無把遊戲中文化。
 
 2001年，Studio
-e.go\!成立了新品牌[BlueImpact](../Page/BlueImpact.md "wikilink")，遊戲的方向以[BL十八禁遊戲為主](../Page/BL.md "wikilink")，如《Angel's
+e.go\!成立了新品牌[BlueImpact](https://zh.wikipedia.org/wiki/BlueImpact "wikilink")，遊戲的方向以[BL十八禁遊戲為主](https://zh.wikipedia.org/wiki/BL "wikilink")，如《Angel's
 Feather》系列。但首套以BlueImpact名義發行的作品《快樂的工作天》（）並非BL十八禁遊戲。
 
-除台灣外，Studio e.go\!也於[韓國推出全年齡版遊戲](../Page/韓國.md "wikilink")，包括《[Castle
+除台灣外，Studio
+e.go\!也於[韓國推出全年齡版遊戲](https://zh.wikipedia.org/wiki/韓國 "wikilink")，包括《[Castle
 Fantasia
-艾倫希亞戰記](../Page/Castle_Fantasia_艾倫希亞戰記.md "wikilink")》、《[IZUMO](../Page/IZUMO.md "wikilink")》、《[IZUMO2](../Page/IZUMO2.md "wikilink")》及《Eternal
+艾倫希亞戰記](https://zh.wikipedia.org/wiki/Castle_Fantasia_艾倫希亞戰記 "wikilink")》、《[IZUMO](../Page/IZUMO.md "wikilink")》、《[IZUMO2](../Page/IZUMO2.md "wikilink")》及《Eternal
 Kingdom》。一些遊戲又於日本透過Art-in網站推出收費下載版。
 
 2009年3月17日，山本和枝等另創立[迪波之巢製作所](../Page/迪波之巢製作所.md "wikilink")（），此後Studio
 e.go\!僅保留品牌，《Angel's Feather》系列成為BlueImpact唯一的BL十八禁遊戲系列。
 
 現時Studio e.go\!的舊網站已被刪除，但迪波之巢製作所於2014年8月取得Studio
-e.go\!作品的[著作權並且另外新建以販售下載版和提供](../Page/著作權.md "wikilink")[修正檔為主的Studio](../Page/修正檔.md "wikilink")
+e.go\!作品的[著作權並且另外新建以販售下載版和提供](../Page/著作權.md "wikilink")[修正檔為主的Studio](https://zh.wikipedia.org/wiki/修正檔 "wikilink")
 e･go\!網站，但沒有承接Studio e.go\!作品的販賣。\[1\]
 
 ## 作品列表
@@ -62,7 +63,7 @@ e･go\!網站，但沒有承接Studio e.go\!作品的販賣。\[1\]
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Castle_Fantasia_艾倫希亞戰記.md" title="wikilink">Castle Fantasia 艾倫希亞戰記</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Castle_Fantasia_艾倫希亞戰記" title="wikilink">Castle Fantasia 艾倫希亞戰記</a></p></td>
 <td><p>2000年4月21日</p></td>
 </tr>
 <tr class="odd">
@@ -77,7 +78,7 @@ e･go\!網站，但沒有承接Studio e.go\!作品的販賣。\[1\]
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/新聖魔大戰.md" title="wikilink">新聖魔大戰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新聖魔大戰" title="wikilink">新聖魔大戰</a></p></td>
 <td><p>2000年12月22日（盒裝）<br />
 2008年5月8日（下載）</p></td>
 </tr>
@@ -154,7 +155,7 @@ e･go\!網站，但沒有承接Studio e.go\!作品的販賣。\[1\]
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/魔王的女兒們.md" title="wikilink">魔王的女兒們</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔王的女兒們" title="wikilink">魔王的女兒們</a></p></td>
 <td><p>2004年4月23日</p></td>
 </tr>
 <tr class="odd">

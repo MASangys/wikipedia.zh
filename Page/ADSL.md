@@ -1,6 +1,6 @@
-[Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg](https://zh.wikipedia.org/wiki/File:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg "fig:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg")採用的[ATU-R](../Page/ATU-R.md "wikilink")（ADSL數據機）「T07AW」內含[WLAN功能](../Page/WLAN.md "wikilink")\]\]
+[Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg](https://zh.wikipedia.org/wiki/File:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg "fig:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg")採用的[ATU-R](https://zh.wikipedia.org/wiki/ATU-R "wikilink")（ADSL數據機）「T07AW」內含[WLAN功能](https://zh.wikipedia.org/wiki/WLAN "wikilink")\]\]
 **ADSL**，全名**Asymmetric Digital Subscriber
-Line**。中譯**非對稱[數位用戶線路](../Page/DSL.md "wikilink")**，或作**非對稱-{zh-hans:数字用户环路;zh-hk:數碼用戶回路;zh-tw:數位用戶回路;}-**（**Asymmetric
+Line**。中譯**非對稱[數位用戶線路](https://zh.wikipedia.org/wiki/DSL "wikilink")**，或作**非對稱-{zh-hans:数字用户环路;zh-hk:數碼用戶回路;zh-tw:數位用戶回路;}-**（**Asymmetric
 Digital Subscriber Loop**）。
 
 ## 介绍
@@ -12,11 +12,11 @@ DG632 ADSL内部结构图\]\]
 
 ## 设备
 
-ADSL是一种[异步传输模式](../Page/异步传输模式.md "wikilink")（ATM）。
+ADSL是一种[异步传输模式](https://zh.wikipedia.org/wiki/异步传输模式 "wikilink")（ATM）。
 
-在电信服务提供商端，需要将每条开通ADSL业务的电话线路连接在[数字用户线路访问多路复用器](../Page/DSLAM.md "wikilink")（DSLAM）上。而在用户端，用户需要使用一个ADSL终端（和传统的[调制解调器](../Page/调制解调器.md "wikilink")（Modem）类似）来连接电话线路。由于ADSL使用高频信号，所以在两端还都要使用ADSL信号分离器（splitter）将ADSL数据信号和普通音频电话信号分离出来，避免打电话的时候出现噪音干扰。
+在电信服务提供商端，需要将每条开通ADSL业务的电话线路连接在[数字用户线路访问多路复用器](https://zh.wikipedia.org/wiki/DSLAM "wikilink")（DSLAM）上。而在用户端，用户需要使用一个ADSL终端（和传统的[调制解调器](../Page/调制解调器.md "wikilink")（Modem）类似）来连接电话线路。由于ADSL使用高频信号，所以在两端还都要使用ADSL信号分离器（splitter）将ADSL数据信号和普通音频电话信号分离出来，避免打电话的时候出现噪音干扰。
 
-通常的ADSL终端有一个电话Line-In，一个[-{zh-hans:以太网;zh-hk:以太網;zh-tw:乙太網;}-口](../Page/乙太網.md "wikilink")，有些终端集成了ADSL信号分离器，还提供一个连接的Phone接口。
+通常的ADSL终端有一个电话Line-In，一个[-{zh-hans:以太网;zh-hk:以太網;zh-tw:乙太網;}-口](https://zh.wikipedia.org/wiki/乙太網 "wikilink")，有些终端集成了ADSL信号分离器，还提供一个连接的Phone接口。
 
 某些ADSL调制解调器使用USB接口与电脑相连，需要在电脑上安装指定的软件以添加虚拟网卡来进行通信。
 
@@ -58,8 +58,8 @@ ADSL2+还可以支持线路bonding的方式，也就是给终端用户提供多�
 
 APPLE通常提供三种网络登录方式：
 
-  - [桥接](../Page/桥接.md "wikilink")，直接提供静态[IP](../Page/IP.md "wikilink")
-  - [PPPoA](../Page/PPPoA.md "wikilink")，基于ATM的-{zh-hans:端对端;
+  - [桥接](https://zh.wikipedia.org/wiki/桥接 "wikilink")，直接提供静态[IP](https://zh.wikipedia.org/wiki/IP "wikilink")
+  - [PPPoA](https://zh.wikipedia.org/wiki/PPPoA "wikilink")，基于ATM的-{zh-hans:端对端;
     zh-hk:點對點;}-协议
   - [PPPoE](../Page/PPPoE.md "wikilink")，基于-{zh-hans:以太网;zh-hk:乙太網;zh-tw:乙太網;}-的-{zh-hans:端对端;
     zh-hk:點對點;}-协议
@@ -69,8 +69,8 @@ APPLE通常提供三种网络登录方式：
 ## 参见
 
   - [电话](../Page/电话.md "wikilink")
-  - [ISDN](../Page/ISDN.md "wikilink")（综合服务-{zh-hans:数字;zh-hk:數碼;zh-tw:數位;}-网）
-  - [DSL](../Page/DSL.md "wikilink")（數-{zh-hans:字;zh-hk:碼;zh-tw:位;}-用户線路）
+  - [ISDN](https://zh.wikipedia.org/wiki/ISDN "wikilink")（综合服务-{zh-hans:数字;zh-hk:數碼;zh-tw:數位;}-网）
+  - [DSL](https://zh.wikipedia.org/wiki/DSL "wikilink")（數-{zh-hans:字;zh-hk:碼;zh-tw:位;}-用户線路）
   - [VDSL](../Page/VDSL.md "wikilink")（超高速數位用戶線路）
 
 ## 外部链接
@@ -81,6 +81,6 @@ APPLE通常提供三种网络登录方式：
   - [ADSL应用面面俱到专题](http://www.qqread.com/z/network/adsl/index.html)
 
 [sv:Digital Subscriber
-Line\#ADSL](../Page/sv:Digital_Subscriber_Line#ADSL.md "wikilink")
+Line\#ADSL](https://zh.wikipedia.org/wiki/sv:Digital_Subscriber_Line#ADSL "wikilink")
 
 [Category:數字用戶線路](https://zh.wikipedia.org/wiki/Category:數字用戶線路 "wikilink")

@@ -3,41 +3,44 @@
 ## 图形界面
 
   - [Bullet Proof FTP
-    Server](../Page/Bullet_Proof_FTP_Server.md "wikilink")
+    Server](https://zh.wikipedia.org/wiki/Bullet_Proof_FTP_Server "wikilink")
     [1](http://www.bpftpserver.com/)
 
-  - [CesarFTP](../Page/CesarFTP.md "wikilink")
+  - [CesarFTP](https://zh.wikipedia.org/wiki/CesarFTP "wikilink")
     [2](http://webarchive.loc.gov/all/20020813115226/http%3A//www.aclogic.com/)
 
   - [3](http://www.cerberusftp.com/)
 
-  - [Gene6 FTP Server](../Page/Gene6_FTP_Server.md "wikilink")
+  - [Gene6 FTP
+    Server](https://zh.wikipedia.org/wiki/Gene6_FTP_Server "wikilink")
     [4](http://www.g6ftpserver.com/)
 
-  - [GuildFTPd](../Page/GuildFTPd.md "wikilink")
+  - [GuildFTPd](https://zh.wikipedia.org/wiki/GuildFTPd "wikilink")
     [5](http://www.guildftpd.com/)
 
-  - [RaidenFTPD](../Page/RaidenFTPD.md "wikilink")
+  - [RaidenFTPD](https://zh.wikipedia.org/wiki/RaidenFTPD "wikilink")
     [6](https://web.archive.org/web/20050318060531/http://raidenftpd.com/)
 
-  - [Serv-U FTP Server](../Page/Serv-U_FTP_Server.md "wikilink")
+  - [Serv-U FTP
+    Server](https://zh.wikipedia.org/wiki/Serv-U_FTP_Server "wikilink")
     [7](http://www.serv-u.com/)
 
   - [8](https://web.archive.org/web/20060411110306/http://www.warftp.org/)
 
-  - [WS_FTP Server](../Page/WS_FTP_Server.md "wikilink")
+  - [WS_FTP
+    Server](https://zh.wikipedia.org/wiki/WS_FTP_Server "wikilink")
     [9](https://www.ipswitch.com/ftp-server/)
 
 ## 文字界面
 
-  - [AnomicFTPD](../Page/AnomicFTPD.md "wikilink")
+  - [AnomicFTPD](https://zh.wikipedia.org/wiki/AnomicFTPD "wikilink")
     [10](https://web.archive.org/web/20050306214851/http://www.anomic.de/AnomicFTPServer/)
 
-  - [BSD ftpd](../Page/BSD_ftpd.md "wikilink")
+  - [BSD ftpd](https://zh.wikipedia.org/wiki/BSD_ftpd "wikilink")
 
   - [11](http://www.glftpd.com/)
 
-  - [ProFTPd](../Page/ProFTPd.md "wikilink")
+  - [ProFTPd](https://zh.wikipedia.org/wiki/ProFTPd "wikilink")
 
   - [12](http://www.pureftpd.org/)
 
@@ -47,7 +50,7 @@
 
 ## 参见
 
-  - [FTP服务器比较](../Page/FTP服务器比较.md "wikilink")
+  - [FTP服务器比较](https://zh.wikipedia.org/wiki/FTP服务器比较 "wikilink")
 
 [Category:FTP服务器](https://zh.wikipedia.org/wiki/Category:FTP服务器 "wikilink")
 [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")

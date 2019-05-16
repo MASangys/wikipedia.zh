@@ -1,13 +1,13 @@
 **OPAC**（全称*Online Public Access Catalogue*，图书馆联机目录），又称为“WebPAC（全称Web
 Public Access
-Catalogue，图书馆自动化系统线上公用目录）”，最新一代的产品往往也被称为“前端发现平台”，是一个电脑化的在线[图书馆资源](../Page/图书馆.md "wikilink")[目录](../Page/图书馆目录.md "wikilink")。读者可以通过万维网实现图书的查找和借阅。原来的电子书目用[TELNET作为技术支持](../Page/TELNET.md "wikilink")，但是已不能满足现今[图书馆联盟间的书目进行汇总](../Page/图书馆联盟.md "wikilink")。现在的网上书目多以地区性图书馆的书目加以汇总，能使读者的查询结果覆盖更大范围的图书馆。
+Catalogue，图书馆自动化系统线上公用目录）”，最新一代的产品往往也被称为“前端发现平台”，是一个电脑化的在线[图书馆资源](../Page/图书馆.md "wikilink")[目录](https://zh.wikipedia.org/wiki/图书馆目录 "wikilink")。读者可以通过万维网实现图书的查找和借阅。原来的电子书目用[TELNET作为技术支持](https://zh.wikipedia.org/wiki/TELNET "wikilink")，但是已不能满足现今[图书馆联盟间的书目进行汇总](https://zh.wikipedia.org/wiki/图书馆联盟 "wikilink")。现在的网上书目多以地区性图书馆的书目加以汇总，能使读者的查询结果覆盖更大范围的图书馆。
 
 ## 查找方式
 
-对于传统的图书馆联机目录来说，最常见的查找方式包括：书名检索、作者检索、[ISBN检索](../Page/ISBN.md "wikilink")、年份检索、[出版社检索](../Page/出版社.md "wikilink")。还有一些不常用，但十分重要的检索方法：分类法检索、导出词检索、丛书检索、套书检索等，以及上述检索条件组合进行的复杂检索。
+对于传统的图书馆联机目录来说，最常见的查找方式包括：书名检索、作者检索、[ISBN检索](https://zh.wikipedia.org/wiki/ISBN "wikilink")、年份检索、[出版社检索](../Page/出版社.md "wikilink")。还有一些不常用，但十分重要的检索方法：分类法检索、导出词检索、丛书检索、套书检索等，以及上述检索条件组合进行的复杂检索。
 
-受到[图书馆2.0运动的影响](../Page/图书馆2.0.md "wikilink")，2006年以后新一代的OPAC纷纷出现。其中，这新一代的“OPAC
-2.0”为了更好的适应用户在[互联网时代的新习惯](../Page/互联网.md "wikilink")，仿照[搜索引擎的搜索方式](../Page/搜索引擎.md "wikilink")，以包含全部书目数据内容“关键词”作为默认的搜索条件。
+受到[图书馆2.0运动的影响](https://zh.wikipedia.org/wiki/图书馆2.0 "wikilink")，2006年以后新一代的OPAC纷纷出现。其中，这新一代的“OPAC
+2.0”为了更好的适应用户在[互联网时代的新习惯](../Page/互联网.md "wikilink")，仿照[搜索引擎的搜索方式](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，以包含全部书目数据内容“关键词”作为默认的搜索条件。
 
 ## 正确使用
 
@@ -23,21 +23,21 @@ OPAC的正确使用是减少书目检索时间的一条重要途径。
 
 ## 举例
 
-世界上最大的图书馆联盟[OCLC的](../Page/OCLC.md "wikilink")[Worldcat目录](../Page/Worldcat.md "wikilink")\[1\]，包含了其收录的全世界范围内170个国家，72000家图书馆的2亿6千余条书目数据。\[2\]
+世界上最大的图书馆联盟[OCLC的](https://zh.wikipedia.org/wiki/OCLC "wikilink")[Worldcat目录](https://zh.wikipedia.org/wiki/Worldcat "wikilink")\[1\]，包含了其收录的全世界范围内170个国家，72000家图书馆的2亿6千余条书目数据。\[2\]
 目录采用了“OPAC
-2.0”的许多功能，包括关键词的检索方式、在搜索结果页的分面浏览、通过提供书目信息和内容提要，对资源信息的更好的解释等。同时，这个目录还采用了[FRBR的数据模型进行呈现](../Page/FRBR.md "wikilink")，方便对于资源之间的关系进行更好的揭示和导航。
+2.0”的许多功能，包括关键词的检索方式、在搜索结果页的分面浏览、通过提供书目信息和内容提要，对资源信息的更好的解释等。同时，这个目录还采用了[FRBR的数据模型进行呈现](https://zh.wikipedia.org/wiki/FRBR "wikilink")，方便对于资源之间的关系进行更好的揭示和导航。
 
 ## OPAC系統
 
   - [Evergreen](../Page/Evergreen_\(軟件\).md "wikilink")－
-    一個[開放原始碼](../Page/開放原始碼.md "wikilink")（[GNU通用公共許可證](../Page/GNU通用公共許可證.md "wikilink")）的集成圖書館系統
+    一個[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")（[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")）的集成圖書館系統
 
-  - [Koha](../Page/Koha.md "wikilink")－
-    第一個以[自由軟體](../Page/自由軟體.md "wikilink")（[GNU通用公共許可證](../Page/GNU通用公共許可證.md "wikilink")）的整合式圖書館管理系統
+  - [Koha](https://zh.wikipedia.org/wiki/Koha "wikilink")－
+    第一個以[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")（[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")）的整合式圖書館管理系統
 
   -
   -
-  - [PCLIS](../Page/PCLIS.md "wikilink")
+  - [PCLIS](https://zh.wikipedia.org/wiki/PCLIS "wikilink")
 
 ## 参考
 

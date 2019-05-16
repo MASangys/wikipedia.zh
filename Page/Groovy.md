@@ -1,4 +1,4 @@
-[Apache的](../Page/Apache软件基金会.md "wikilink")**Groovy**是[Java平台上设计的](../Page/Java平台.md "wikilink")[面向对象编程语言](../Page/面向对象编程.md "wikilink")。这门动态语言拥有类似[Python](../Page/Python.md "wikilink")、[Ruby和](../Page/Ruby.md "wikilink")[Smalltalk中的一些特性](../Page/Smalltalk.md "wikilink")，可以作为Java平台的[脚本语言使用](../Page/脚本语言.md "wikilink")，Groovy代码动态地编译成运行于Java虚拟机（JVM）上的Java字节码，并与其他Java代码和库进行互操作。由于其运行在JVM上的特性，Groovy可以使用其他Java语言编写的库。Groovy的语法与Java非常相似，大多数Java代码也符合Groovy的语法规则，尽管可能语义不同。
+[Apache的](../Page/Apache软件基金会.md "wikilink")**Groovy**是[Java平台上设计的](https://zh.wikipedia.org/wiki/Java平台 "wikilink")[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。这门动态语言拥有类似[Python](../Page/Python.md "wikilink")、[Ruby和](../Page/Ruby.md "wikilink")[Smalltalk中的一些特性](../Page/Smalltalk.md "wikilink")，可以作为Java平台的[脚本语言使用](../Page/脚本语言.md "wikilink")，Groovy代码动态地编译成运行于Java虚拟机（JVM）上的Java字节码，并与其他Java代码和库进行互操作。由于其运行在JVM上的特性，Groovy可以使用其他Java语言编写的库。Groovy的语法与Java非常相似，大多数Java代码也符合Groovy的语法规则，尽管可能语义不同。
 Groovy 1.0于2007年1月2日发布，并于2012年7月发布了Groovy
 2.0。从版本2开始，Groovy也可以静态编译，提供[类型推论和Java相近的性能](../Page/类型推论.md "wikilink")。Groovy
 2.4是Pivotal软件赞助的最后一个主要版本，截止于2015年3月。Groovy已经将其治理结构更改为Apache软件基金会的项目管理委员会（PMC）\[1\]。

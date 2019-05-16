@@ -1,11 +1,11 @@
-[微软公司的](../Page/微软公司.md "wikilink")**ADO**（）是一个用于访问数据源的[COM组件](../Page/COM.md "wikilink")，作为高层的编程界面层。ADO是在[OLE
+[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")**ADO**（）是一个用于访问数据源的[COM组件](https://zh.wikipedia.org/wiki/COM "wikilink")，作为高层的编程界面层。ADO是在[OLE
 DB之上](../Page/OLE_DB.md "wikilink")，包含了很多层次化的COM对象与集合（Collections，也是一类对象，在其里面包含了其他层级对象）。允许开发人员编写访问数据的代码而不用关心数据源是如何实现与访问驱动的，而只用关心到数据库的连接。访问[数据库的时候](../Page/数据库.md "wikilink")，关于[SQL的知识不是必要的](../Page/SQL.md "wikilink")，但是特定数据库支持的SQL命令仍可以通过ADO中的命令对象（Command）来执行。
 
 ## 版本
 
-ADO被设计来替代微软早期的数据访问对象层（包括[RDO](../Page/RDO.md "wikilink")（Remote Data
-Objects）和[DAO](../Page/DAO.md "wikilink")（Data Access
-Objects））。ADO在1996年8月与[OLE
+ADO被设计来替代微软早期的数据访问对象层（包括[RDO](https://zh.wikipedia.org/wiki/RDO "wikilink")（Remote
+Data Objects）和[DAO](https://zh.wikipedia.org/wiki/DAO "wikilink")（Data
+Access Objects））。ADO在1996年8月与[OLE
 DB一起被发布](../Page/OLE_DB.md "wikilink")。
 
 ADO文件通常保存在C:\\Program Files (x86)\\Common Files\\System\\ado\\目录下。
@@ -33,13 +33,13 @@ ADO文件通常保存在C:\\Program Files (x86)\\Common Files\\System\\ado\\目�
   - ADO 6.0(MSADO60.TLB) 包含在 Windows Vista中，作为Windows Data Access
     Components (Windows DAC) 6.0的组成部分。功能上ADO 6.0等价于ADO 2.8.
   - ADO 6.1(MSADO15.dll) ：2011年10月发布。文件名使用了15这个老号。因为[Windows 7
-    SP1的ADO](../Page/Windows_7版本列表.md "wikilink")
-    [GUID改变了](../Page/GUID.md "wikilink")，导致在此操作系统编译的使用了ADO的软件可以在Windows
+    SP1的ADO](https://zh.wikipedia.org/wiki/Windows_7版本列表 "wikilink")
+    [GUID改变了](https://zh.wikipedia.org/wiki/GUID "wikilink")，导致在此操作系统编译的使用了ADO的软件可以在Windows
     7 SP1上运行，但却无法在Windows 7 Release版或Windows Vista或[Windows
     XP上运行](../Page/Windows_XP.md "wikilink")。\[2\]
 
 2003年后在新的编程框架[.NET
-Framework中](../Page/.NET_Framework.md "wikilink")，微软提供了一个面向Internet的版本的ADO，称为[ADO.NET](../Page/ADO.NET.md "wikilink")，其对象模型和ADO差别很大，基本上需要重新彻底学习。
+Framework中](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，微软提供了一个面向Internet的版本的ADO，称为[ADO.NET](../Page/ADO.NET.md "wikilink")，其对象模型和ADO差别很大，基本上需要重新彻底学习。
 
 <table style="width:85%;">
 <colgroup>
@@ -64,8 +64,8 @@ Framework中](../Page/.NET_Framework.md "wikilink")，微软提供了一个面�
 <td><p>1996年8月</p></td>
 <td><ul>
 <li>ADC – IIS 3.0</li>
-<li>OLE DB 1.1 SDK (OLE DB 1.1 and ADO 1.0)—<a href="../Page/Visual_Studio.md" title="wikilink">Visual Studio</a></li>
-<li><a href="../Page/Visual_Interdev.md" title="wikilink">Visual Interdev</a> 1.0 and with <a href="../Page/Active_Server_Pages.md" title="wikilink">Active Server Pages</a> (随IIS 3.0发布)</li>
+<li>OLE DB 1.1 SDK (OLE DB 1.1 and ADO 1.0)—<a href="https://zh.wikipedia.org/wiki/Visual_Studio" title="wikilink">Visual Studio</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Visual_Interdev" title="wikilink">Visual Interdev</a> 1.0 and with <a href="../Page/Active_Server_Pages.md" title="wikilink">Active Server Pages</a> (随IIS 3.0发布)</li>
 </ul></td>
 <td><ul>
 <li>ODBC 3.0</li>
@@ -95,7 +95,7 @@ Framework中](../Page/.NET_Framework.md "wikilink")，微软提供了一个面�
 <td><p>2.0</p></td>
 <td><p>1998年7月1日</p></td>
 <td><ul>
-<li><a href="../Page/Visual_Studio_98.md" title="wikilink">Visual Studio 98</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Visual_Studio_98" title="wikilink">Visual Studio 98</a></li>
 <li>Data Access 2.0 SDK</li>
 </ul></td>
 <td><ul>
@@ -268,7 +268,7 @@ Framework中](../Page/.NET_Framework.md "wikilink")，微软提供了一个面�
 <td><p>ADO 6.1</p></td>
 <td><p>2011年10月</p></td>
 <td><ul>
-<li><a href="../Page/Windows_7_SP1.md" title="wikilink">Windows 7 SP1</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Windows_7_SP1" title="wikilink">Windows 7 SP1</a></li>
 </ul></td>
 <td><ul>
 <li>适用于此后版本操作系统</li>
@@ -314,7 +314,7 @@ ADO包含4个collection：
 
 ## 使用
 
-ADO组件的使用需要利用支持COM的高级语言，例如[ASP中的](../Page/ASP.md "wikilink")[VBScript或者](../Page/VBScript.md "wikilink")[Visual
+ADO组件的使用需要利用支持COM的高级语言，例如[ASP中的](https://zh.wikipedia.org/wiki/ASP "wikilink")[VBScript或者](../Page/VBScript.md "wikilink")[Visual
 Basic](../Page/Visual_Basic.md "wikilink")，甚至微软的竞争对手[Borland的产品](../Page/Borland.md "wikilink")[Delphi](../Page/Delphi.md "wikilink")，，现在也支持使用ADO来访问数据库。
 
 使用ADO存取資料的一些基本步驟：
@@ -388,31 +388,31 @@ name = myrecordset(0)
 
 ADO包含的对象能够创建、维护、删除给定数据源的记录。但是，创建与管理数据库及其所包含的对象，ADO就力有不逮了。为此，**ADOX**，即Microsoft
 ADO Ext. for DDL and Security，提供了这方面的功能，主要包括Data Definition
-Language(DDL)对象及安全管理。此外，[Jet数据库引擎的许多功能都是ADO与ADOX不具备的](../Page/Microsoft_Jet_Database_Engine.md "wikilink")；**JRO**，即Microsoft
+Language(DDL)对象及安全管理。此外，[Jet数据库引擎的许多功能都是ADO与ADOX不具备的](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")；**JRO**，即Microsoft
 Jet and Replication Objects 2.5 Library提供了这方面的补充功能。
 
-| 功能                                                                | [DAO](../Page/DAO.md "wikilink") | ADO | ADOX | JRO(MDB's Only) |
-| ----------------------------------------------------------------- | -------------------------------- | --- | ---- | --------------- |
-| Create Recordsets                                                 | ✔                                | ✔   |      |                 |
-| Edit Startup properties                                           | ✔                                | ✔   |      |                 |
-| Support ANSI92 SQL                                                |                                  | ✔   | ✔    |                 |
-| Create Tables                                                     | ✔                                |     | ✔    |                 |
-| Create New Database                                               | ✔                                |     | ✔    |                 |
-| Edit Existing Table properties                                    | ✔                                |     | ✔    |                 |
-| Create table relationships                                        | ✔                                |     | ✔    |                 |
-| Edit security settings                                            | ✔                                |     | ✔    |                 |
-| Support for Compression attribute for column data                 |                                  |     | ✔    |                 |
-| Edit stored, basic SQL queries or views                           | ✔                                |     | ✔    |                 |
-| Create permanent queries that are accessible only through code.   |                                  |     | ✔    |                 |
-| Create queries accessible through database container/UI and code. | ✔                                |     |      |                 |
-| Compact/Encode database                                           | ✔                                |     |      | ✔               |
-| Refresh Cache                                                     | ✔                                |     |      | ✔               |
-| Make Database Replicable                                          | ✔                                |     |      | ✔               |
-| Make Database Replicas                                            | ✔                                |     |      | ✔               |
-| Synchronize Replicas                                              | ✔                                |     |      | ✔               |
-| Edit Database properties                                          | ✔                                |     |      |                 |
-| Create custom database properties                                 | ✔                                |     |      |                 |
-| Edit table column properties                                      | ✔                                |     |      |                 |
+| 功能                                                                | [DAO](https://zh.wikipedia.org/wiki/DAO "wikilink") | ADO | ADOX | JRO(MDB's Only) |
+| ----------------------------------------------------------------- | --------------------------------------------------- | --- | ---- | --------------- |
+| Create Recordsets                                                 | ✔                                                   | ✔   |      |                 |
+| Edit Startup properties                                           | ✔                                                   | ✔   |      |                 |
+| Support ANSI92 SQL                                                |                                                     | ✔   | ✔    |                 |
+| Create Tables                                                     | ✔                                                   |     | ✔    |                 |
+| Create New Database                                               | ✔                                                   |     | ✔    |                 |
+| Edit Existing Table properties                                    | ✔                                                   |     | ✔    |                 |
+| Create table relationships                                        | ✔                                                   |     | ✔    |                 |
+| Edit security settings                                            | ✔                                                   |     | ✔    |                 |
+| Support for Compression attribute for column data                 |                                                     |     | ✔    |                 |
+| Edit stored, basic SQL queries or views                           | ✔                                                   |     | ✔    |                 |
+| Create permanent queries that are accessible only through code.   |                                                     |     | ✔    |                 |
+| Create queries accessible through database container/UI and code. | ✔                                                   |     |      |                 |
+| Compact/Encode database                                           | ✔                                                   |     |      | ✔               |
+| Refresh Cache                                                     | ✔                                                   |     |      | ✔               |
+| Make Database Replicable                                          | ✔                                                   |     |      | ✔               |
+| Make Database Replicas                                            | ✔                                                   |     |      | ✔               |
+| Synchronize Replicas                                              | ✔                                                   |     |      | ✔               |
+| Edit Database properties                                          | ✔                                                   |     |      |                 |
+| Create custom database properties                                 | ✔                                                   |     |      |                 |
+| Edit table column properties                                      | ✔                                                   |     |      |                 |
 
 ## 参考文献
 

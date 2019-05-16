@@ -1,26 +1,26 @@
-《**CLANNAD**》（）是由[日本遊戲品牌](../Page/日本.md "wikilink")[Key所发行的第三款](../Page/Key_\(公司\).md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，或依此為原作改编或扩充的[跨媒體製作作品](../Page/跨媒體製作.md "wikilink")。因其剧情大部分发生于[春季](../Page/春季.md "wikilink")，《CLANNAD》亦被视为Key社季节组曲中的“春”\[1\]。
+《**CLANNAD**》（）是由[日本遊戲品牌](../Page/日本.md "wikilink")[Key所发行的第三款](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，或依此為原作改编或扩充的[跨媒體製作作品](../Page/跨媒體製作.md "wikilink")。因其剧情大部分发生于[春季](../Page/春季.md "wikilink")，《CLANNAD》亦被视为Key社季节组曲中的“春”\[1\]。
 
 ## 概要
 
-《CLANNAD》是一款[戀愛](../Page/戀愛.md "wikilink")[視覺小說](../Page/視覺小說.md "wikilink")，[玩家扮演角色岡崎朋也](../Page/玩家.md "wikilink")。玩家在遊玩《CLANNAD》時將會花費大多數時間觀看出現在螢幕上的文字[敘述](../Page/叙事.md "wikilink")、人物[對話以及角色心理等](../Page/对话.md "wikilink")，藉由這樣的方式，除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。在每次閱讀故事發展以及與其他角色對話後，玩家便有機會能夠在與角色互動時從遊戲提供的數個選項中挑選其中一項，此時遊戲會暫停一會兒以提供玩家依據先前的對話作出決定。
+《CLANNAD》是一款[戀愛](https://zh.wikipedia.org/wiki/戀愛 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，[玩家扮演角色岡崎朋也](../Page/玩家.md "wikilink")。玩家在遊玩《CLANNAD》時將會花費大多數時間觀看出現在螢幕上的文字[敘述](https://zh.wikipedia.org/wiki/叙事 "wikilink")、人物[對話以及角色心理等](https://zh.wikipedia.org/wiki/对话 "wikilink")，藉由這樣的方式，除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。在每次閱讀故事發展以及與其他角色對話後，玩家便有機會能夠在與角色互動時從遊戲提供的數個選項中挑選其中一項，此時遊戲會暫停一會兒以提供玩家依據先前的對話作出決定。
 
-和[Key的前](../Page/Key_\(公司\).md "wikilink")2部作品『[Kanon](../Page/Kanon.md "wikilink")』『[AIR](../Page/AIR_\(遊戲\).md "wikilink")』不同的是，於[PC版發售之時即以全年齡版的形式發行](../Page/個人電腦.md "wikilink")\[2\]\[3\]。當初發表時是預定於2002年發售\[4\]，但在那之後預定發售日延至2003年，最後確定於2004年4月28日發售，共延期2年。PC版上带有[配音的](../Page/配音.md "wikilink")『CLANNAD
+和[Key的前](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")2部作品『[Kanon](../Page/Kanon.md "wikilink")』『[AIR](../Page/AIR_\(遊戲\).md "wikilink")』不同的是，於[PC版發售之時即以全年齡版的形式發行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")\[2\]\[3\]。當初發表時是預定於2002年發售\[4\]，但在那之後預定發售日延至2003年，最後確定於2004年4月28日發售，共延期2年。PC版上带有[配音的](../Page/配音.md "wikilink")『CLANNAD
 FULL VOICE』於2008年2月29日發售\[5\]。
 
-Key於2005年6月24日發表由[Interchannel移植的](../Page/Interchannel-Holon.md "wikilink")[PlayStation
-2版本於](../Page/PlayStation_2.md "wikilink")2006年2月23日發售（[CERO分級適合](../Page/CERO.md "wikilink")15歲以上）。Prototype的[PSP與](../Page/PSP.md "wikilink")[Xbox
-360版本也分別於](../Page/Xbox_360.md "wikilink")2008年5月29日和8月28日發售。另外，以CLANNAD中的一位角色「坂上智代」作為延伸，2005年11月25日發行了另一款名為『』的[十八禁](../Page/十八禁遊戲.md "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")\[6\]。
+Key於2005年6月24日發表由[Interchannel移植的](https://zh.wikipedia.org/wiki/Interchannel-Holon "wikilink")[PlayStation
+2版本於](../Page/PlayStation_2.md "wikilink")2006年2月23日發售（[CERO分級適合](https://zh.wikipedia.org/wiki/CERO "wikilink")15歲以上）。Prototype的[PSP與](https://zh.wikipedia.org/wiki/PSP "wikilink")[Xbox
+360版本也分別於](../Page/Xbox_360.md "wikilink")2008年5月29日和8月28日發售。另外，以CLANNAD中的一位角色「坂上智代」作為延伸，2005年11月25日發行了另一款名為『』的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")\[6\]。
 
-[漫畫版則是於](../Page/漫畫.md "wikilink")2005年開始由《月刊Comic
+[漫畫版則是於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2005年開始由《月刊Comic
 Rush》（Jive株式會社）連載中。另外、2007年[MediaWorks發行的](../Page/MediaWorks.md "wikilink")《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》中由[SHAA作畫開始連載](../Page/SHAA.md "wikilink")。
+magazine](../Page/電擊G's_magazine.md "wikilink")》中由[SHAA作畫開始連載](https://zh.wikipedia.org/wiki/SHAA "wikilink")。
 
-關於[動畫部分](../Page/動畫.md "wikilink")，2007年9月15日由[東映動畫製作的電影版動畫於日本公開上映](../Page/東映動畫.md "wikilink")\[7\]。從2007年10月4日開始由[京都動畫製作的](../Page/京都動畫.md "wikilink")[電視動畫於日本播放](../Page/電視動畫.md "wikilink")\[8\]，其第二季『Clannad
+關於[動畫部分](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2007年9月15日由[東映動畫製作的電影版動畫於日本公開上映](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")\[7\]。從2007年10月4日開始由[京都動畫製作的](../Page/京都動畫.md "wikilink")[電視動畫於日本播放](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[8\]，其第二季『Clannad
 After Story』從2008年10月2日開始播放\[9\]。
 
 『CLANNAD』一詞帶有「家族」的含義，那麼对于『CLANNAD』的主題是家族嗎？」這個疑問，編劇[麻枝准做出了如下回答](../Page/麻枝准.md "wikilink")\[10\]：
 
-實際上[愛爾蘭凱爾特語中表示家族意思的單語是](../Page/愛爾蘭語.md "wikilink")“[clann](../Page/wikt:en:clann#Irish.md "wikilink")”，而CLANNAD詞尾的A與D一般被認為是兩個縮寫。A是愛爾蘭語中的[as](../Page/wikt:en:as#Irish.md "wikilink")，相當於英語中的from或out
+實際上[愛爾蘭凱爾特語中表示家族意思的單語是](../Page/愛爾蘭語.md "wikilink")“[clann](https://zh.wikipedia.org/wiki/wikt:en:clann#Irish "wikilink")”，而CLANNAD詞尾的A與D一般被認為是兩個縮寫。A是愛爾蘭語中的[as](https://zh.wikipedia.org/wiki/wikt:en:as#Irish "wikilink")，相當於英語中的from或out
 of；對於D的含義有兩種說法，一說認為D是凯尔特的一个小镇的名字Dobhar的首字母，在这里作为小镇的象征；另一說認為其源於遊戲中虛構的動畫角色「」，「」的罗马音是Dango，D是其首字母。这两种见解能发展出两种字面不同但在核心意義上相同的含义，一个直接表示“小镇家族”；另一个则表示「糰子大家族」，并以糰子大家族象征小镇中的各个家族，以至小镇本身这个大家族。正是因此，無論哪種解釋，都脱离不了“小镇”和“家族”的游戏核心概念。並且更進一步地，從After
 Story中朋也與渚的對話台詞\[11\]中可以得知，「小鎮」和「家族」兩個概念能夠被統一到一起。
 KEY社官方對CLANNAD的描述為「」\[12\]（「從平凡的學園生活開始，人與小鎮的故事」），這樣的描述事實上間接說明了CLANNAD的主題為
@@ -28,7 +28,7 @@ KEY社官方對CLANNAD的描述為「」\[12\]（「從平凡的學園生活開�
 
 ## 故事介紹
 
-遊戲開始時間是某年的4月14日\[13\]。在某個小鎮，主角岡崎朋也因為家庭的因素而喪失了生活在這個地方的[希望](../Page/希望.md "wikilink")；與春原陽平為朋友，在光坂高等學校過著潦倒的生活，盼望終有一天能夠離開所在的小鎮。在高三的一個早晨，通往學校的坡道前發現了一個止步不前的女孩，在朋也認識了這個名為「古河渚」的女孩後，他的生活開始有了重大的變化。
+遊戲開始時間是某年的4月14日\[13\]。在某個小鎮，主角岡崎朋也因為家庭的因素而喪失了生活在這個地方的[希望](https://zh.wikipedia.org/wiki/希望 "wikilink")；與春原陽平為朋友，在光坂高等學校過著潦倒的生活，盼望終有一天能夠離開所在的小鎮。在高三的一個早晨，通往學校的坡道前發現了一個止步不前的女孩，在朋也認識了這個名為「古河渚」的女孩後，他的生活開始有了重大的變化。
 
 校園篇為主角和女主角們之間所發生的事件，After
 story為主角在學校畢業之後，以及家庭生活，其中還關聯著「幻想世界」，CLANNAD就是由這三個要素所組成的故事。
@@ -71,7 +71,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
   -
     生日：5月13日。星座：金牛。身高：160cm。體重：48kg。血型：A型。三圍：88/58/85。
-    角色曲：（法语，“关于小小的[超弦理论的研究](../Page/超弦理论.md "wikilink")”)
+    角色曲：（法语，“关于小小的[超弦理论的研究](https://zh.wikipedia.org/wiki/超弦理论 "wikilink")”)
 
 <!-- end list -->
 
@@ -184,7 +184,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
   -
     生日：不明。身高：165cm。體重：52kg。血型：B型。
-    在遊戲分歧時，朋也所遇到的一個聲音和相貌都很似女生的男生，但比朋也大一歲，是個孤兒，作為旅行者碰巧到鎮上找工作，卻意外地被藤林杏騎車撞到兼逃逸，後來由藤林椋照顧他，使他對椋深有好感。因為長相可愛時常被誤會成女生，也使春原陽平對他有好感，春原陽平在得知勝平的真實性別後，竟然還是對他抱有愛意。曾經是短跑選手，但在高校田徑決賽中，快抵達終點時跌倒，後來送醫急救，之後診斷出其[腓骨長有](../Page/腓骨.md "wikilink")[骨肉瘤](../Page/骨肉瘤.md "wikilink")，但以不想失去腿為由拒絕手術，而去服用[可待因止痛](../Page/可待因.md "wikilink")。最后被椋和朋也打动并說服，接受利用[液氮所進行的](../Page/液氮.md "wikilink")[外科手術](../Page/外科手術.md "wikilink")，不但與椋訂下婚約，並在兩年後結婚（因为这条路线能够回收椋的光玉，被部分玩家认为是椋的True
+    在遊戲分歧時，朋也所遇到的一個聲音和相貌都很似女生的男生，但比朋也大一歲，是個孤兒，作為旅行者碰巧到鎮上找工作，卻意外地被藤林杏騎車撞到兼逃逸，後來由藤林椋照顧他，使他對椋深有好感。因為長相可愛時常被誤會成女生，也使春原陽平對他有好感，春原陽平在得知勝平的真實性別後，竟然還是對他抱有愛意。曾經是短跑選手，但在高校田徑決賽中，快抵達終點時跌倒，後來送醫急救，之後診斷出其[腓骨長有](https://zh.wikipedia.org/wiki/腓骨 "wikilink")[骨肉瘤](https://zh.wikipedia.org/wiki/骨肉瘤 "wikilink")，但以不想失去腿為由拒絕手術，而去服用[可待因止痛](../Page/可待因.md "wikilink")。最后被椋和朋也打动并說服，接受利用[液氮所進行的](../Page/液氮.md "wikilink")[外科手術](../Page/外科手術.md "wikilink")，不但與椋訂下婚約，並在兩年後結婚（因为这条路线能够回收椋的光玉，被部分玩家认为是椋的True
     End）。該角色只在遊戲版本登場，而在電視動畫和電影動畫中並未登場。
 
 <!-- end list -->
@@ -227,12 +227,12 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 ## 主題曲
 
   - 片頭歌 『』
-    作詞：[riya](../Page/riya.md "wikilink")、作曲：[eufonius](../Page/eufonius.md "wikilink")、編曲：kiku、Mix：大久保將、主唱：[riya](../Page/riya.md "wikilink")
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")、作曲：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")、編曲：kiku、Mix：大久保將、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
 
 <!-- end list -->
 
   - 片尾歌 『』（形影成雙）
-    作詞：魁、作曲／編曲：、主唱：[riya](../Page/riya.md "wikilink")
+    作詞：魁、作曲／編曲：、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
 
 <!-- end list -->
 
@@ -242,11 +242,11 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <!-- end list -->
 
   - TRUE END片尾歌 『』（小小的手心）\[16\]
-    作詞／作曲：[麻枝准](../Page/麻枝准.md "wikilink")、編曲：菊地創、主唱：[riya](../Page/riya.md "wikilink")
+    作詞／作曲：[麻枝准](../Page/麻枝准.md "wikilink")、編曲：菊地創、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
 
 ## 原聲帶
 
-以下是[CLANNAD原聲帶](../Page/CLANNAD_ORIGINAL_SOUNDTRACK.md "wikilink")\[17\]：
+以下是[CLANNAD原聲帶](https://zh.wikipedia.org/wiki/CLANNAD_ORIGINAL_SOUNDTRACK "wikilink")\[17\]：
 -{
 
 <table>
@@ -327,16 +327,16 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
 ### 簡介
 
-[東映動畫於](../Page/東映動畫.md "wikilink")2006年3月23日的[東京國際動畫博覽會宣佈將製作CLANNAD電影](../Page/東京國際動畫博覽會.md "wikilink")\[22\]。2007年9月15日由東映動畫所製作的電影版動畫於日本公開上映。2006年4月1日Key的官方網頁上公開這個消息，但之後卻幾乎沒有相關的訊息發表。由東映正式發表時則是大約一年後，在那之後開始積極的進行廣告、宣傳活動。導演是由電影版『AIR』的出崎統擔任。DVD於2008年3月7日發售\[23\]。
+[東映動畫於](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")2006年3月23日的[東京國際動畫博覽會宣佈將製作CLANNAD電影](../Page/東京國際動畫博覽會.md "wikilink")\[22\]。2007年9月15日由東映動畫所製作的電影版動畫於日本公開上映。2006年4月1日Key的官方網頁上公開這個消息，但之後卻幾乎沒有相關的訊息發表。由東映正式發表時則是大約一年後，在那之後開始積極的進行廣告、宣傳活動。導演是由電影版『AIR』的出崎統擔任。DVD於2008年3月7日發售\[23\]。
 
 ### 製作人員\[24\]
 
-  - 原作：[Key](../Page/Key_\(公司\).md "wikilink")／[Visual
+  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")／[Visual
     Art's](../Page/Visual_Art's.md "wikilink")
   - 導演：[出崎統](../Page/出崎統.md "wikilink")
   - 脚本：中村誠
   - 人物設計：門之園惠美
-  - 動畫製作：[東映動畫](../Page/東映動畫.md "wikilink")
+  - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - 配音員：
       - 岡崎朋也：野島健兒
       - 古河渚：中原麻衣
@@ -347,7 +347,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 ### 主題曲
 
   - 片頭歌 『』
-    作詞：[riya](../Page/riya.md "wikilink")、作曲：[eufonius](../Page/eufonius.md "wikilink")、編曲：kiku、Mix：大久保將、主唱：[riya](../Page/riya.md "wikilink")
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")、作曲：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")、編曲：kiku、Mix：大久保將、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
 
 <!-- end list -->
 
@@ -357,7 +357,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <!-- end list -->
 
   - 片尾曲2※ 『』
-    作詞：[riya](../Page/riya.md "wikilink")、作曲：菊地創、編曲：菊地創、主唱：[eufonius](../Page/eufonius.md "wikilink")
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")、作曲：菊地創、編曲：菊地創、主唱：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")
 
 <!-- end list -->
 
@@ -409,10 +409,10 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
 #### 製作人員
 
-  - 原作：[Key](../Page/Key_\(公司\).md "wikilink") / [Visual
-    Art's](../Page/Visual_Art's.md "wikilink")
+  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") /
+    [Visual Art's](../Page/Visual_Art's.md "wikilink")
   - 製作人：中山佳久（[TBS](../Page/TBS電視台.md "wikilink")）、中村伸一（[Pony
-    Canyon](../Page/Pony_Canyon.md "wikilink")）、太布尚弘（Movic）、八田陽子（[京都動畫](../Page/京都動畫.md "wikilink")）
+    Canyon](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")）、太布尚弘（Movic）、八田陽子（[京都動畫](../Page/京都動畫.md "wikilink")）
   - 導演：[石原立也](../Page/石原立也.md "wikilink")
   - 系列構成、脚本：[志茂文彥](../Page/志茂文彥.md "wikilink")
   - 人物原案：
@@ -437,23 +437,23 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
   - 網頁設計：野口亞希子
   - 動畫製作：[京都動畫](../Page/京都動畫.md "wikilink")
   - 製作協力：[Pony
-    Canyon](../Page/Pony_Canyon.md "wikilink")、Movic、[京都動畫](../Page/京都動畫.md "wikilink")
-  - 製作：[光坂高校演劇部](../Page/製作委員會方式.md "wikilink")、[TBS](../Page/TBS電視台.md "wikilink")
+    Canyon](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")、Movic、[京都動畫](../Page/京都動畫.md "wikilink")
+  - 製作：[光坂高校演劇部](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、[TBS](../Page/TBS電視台.md "wikilink")
 
 #### 主題曲
 
   - 片頭歌 「」（歡樂島 〜cuckool mix 2007〜）
-    作詞：[riya](../Page/riya.md "wikilink")、作曲：[eufonius](../Page/eufonius.md "wikilink")、編曲：菊地創、主唱：[eufonius](../Page/eufonius.md "wikilink")
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")、作曲：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")、編曲：菊地創、主唱：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")
   - 片尾歌 「」（糰子大家族）
     作詞、作曲：[麻枝准](../Page/麻枝准.md "wikilink")、編曲：、主唱：[茶太](../Page/茶太.md "wikilink")、合聲：真理繪、、Rio、Morrigan、、[茶太](../Page/茶太.md "wikilink")、
   - 第9話插入歌「」（風之少女）
-    作詞：[Key](../Page/Key_\(公司\).md "wikilink")、作曲：、編曲：MANYO、歌：[riya](../Page/riya.md "wikilink")
+    作詞：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")、作曲：、編曲：MANYO、歌：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
   - 第9話插入歌、特别篇片尾歌「Ana」（軼事）
     作詞：、作曲：traditional、編曲：、主唱：[Lia](../Page/Lia.md "wikilink")
   - 第18話插入歌「」（Over）
-    作詞：[麻枝准](../Page/麻枝准.md "wikilink")、作曲：折戸伸治、編曲：MANYO、歌：[riya](../Page/riya.md "wikilink")
+    作詞：[麻枝准](../Page/麻枝准.md "wikilink")、作曲：折戸伸治、編曲：MANYO、歌：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
   - 第22話插入歌「」（形影成雙）
-    作詞：魁、作曲／編曲：、主唱：[riya](../Page/riya.md "wikilink")
+    作詞：魁、作曲／編曲：、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
 
 #### 各集標題
 
@@ -498,7 +498,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <td><p>流淚之後再來一次</p></td>
 <td><p>0</p></td>
 <td><p>坂本一也</p></td>
-<td><p><a href="../Page/木上益治.md" title="wikilink">三好一郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木上益治" title="wikilink">三好一郎</a></p></td>
 <td><p>植野千世子</p></td>
 </tr>
 <tr class="even">
@@ -720,17 +720,17 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">東京放送</a><br />
 （TBS）</p></td>
-<td><p><a href="../Page/JNN.md" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JNN" title="wikilink">TBS系列</a></p></td>
 <td><p>2007年10月4日－2008年3月27日</p></td>
 <td><p>星期四 25時55分 - 26時25分</p></td>
 <td><p><strong>制作台</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
-<td><p><a href="../Page/毎日放送.md" title="wikilink">毎日放送</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/毎日放送" title="wikilink">毎日放送</a><br />
 （MBS）</p></td>
 <td><p>2007年10月13日－2008年4月5日</p></td>
 <td><p>星期六 25時55分 - 26時25分</p></td>
@@ -738,7 +738,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中京廣域圈.md" title="wikilink">中京廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><a href="../Page/中部日本放送.md" title="wikilink">中部日本放送</a><br />
 （CBC）</p></td>
 <td><p>2007年10月17日－2008年4月9日</p></td>
@@ -748,11 +748,11 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 </tr>
 <tr class="even">
 <td><p>日本全国</p></td>
-<td><p><a href="../Page/BS-i.md" title="wikilink">BS-i</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS-i" title="wikilink">BS-i</a></p></td>
 <td><p><a href="../Page/卫星电视.md" title="wikilink">BS放送</a></p></td>
 <td><p>2007年10月25日－2008年4月3日</p></td>
 <td><p>星期四 25時00分 - 25時30分</p></td>
-<td><p>16:9 <a href="../Page/标准画质电视.md" title="wikilink">SD画质</a></p></td>
+<td><p>16:9 <a href="https://zh.wikipedia.org/wiki/标准画质电视" title="wikilink">SD画质</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -769,7 +769,7 @@ magazine](../Page/電擊G's_magazine.md "wikilink")》2008年5月号确定第二
 ～AFTER
 STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确定），共24话\[33\]\[34\]。另外，在于2009年7月1日發售的DVD第八卷中放入一話全新製作的杏篇\[35\]。工作人员有少许变化，配音演员同第一部。
 
-本作排名NHK[日本動畫100評選的](../Page/日本動畫100.md "wikilink")「最佳動畫100」第21名。
+本作排名NHK[日本動畫100評選的](https://zh.wikipedia.org/wiki/日本動畫100 "wikilink")「最佳動畫100」第21名。
 
 #### 工作人员的变更
 
@@ -778,21 +778,23 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 
 #### 主题曲
 
-  - 片頭歌 「[-{時を刻む唄}-](../Page/刻印時間之歌/TORCH.md "wikilink")」（刻印時間之歌）
+  - 片頭歌
+    「[-{時を刻む唄}-](https://zh.wikipedia.org/wiki/刻印時間之歌/TORCH "wikilink")」（刻印時間之歌）
     作詞、作曲：[麻枝准](../Page/麻枝准.md "wikilink")、編曲：ANANT-GARDE
     EYES、主唱：[Lia](../Page/Lia.md "wikilink")
-  - 片尾歌 「[TORCH](../Page/刻印時間之歌/TORCH.md "wikilink")」（火炬）
+  - 片尾歌
+    「[TORCH](https://zh.wikipedia.org/wiki/刻印時間之歌/TORCH "wikilink")」（火炬）
     作詞：魁、作曲：折戸伸治、編曲：福士健太郎、主唱：[Lia](../Page/Lia.md "wikilink")
   - 第19话插入歌、特别篇片尾歌 「Ana」（轶事）
     作詞：萩原ゆう、作曲：traditional、編曲：戸越まごめ、主唱：[Lia](../Page/Lia.md "wikilink")
   - 第20話插入歌 「木漏れ日」（透过树叶的日光）
-    作詞：[Key](../Page/Key_\(公司\).md "wikilink")、作曲：戸越まごめ、編曲：たくまる、主唱：[riya](../Page/riya.md "wikilink")
+    作詞：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")、作曲：戸越まごめ、編曲：たくまる、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
   - 第20話插入歌 「だんご大家族」（糰子大家族）
     作詞、作曲：[麻枝准](../Page/麻枝准.md "wikilink")、編曲：たくまる、主唱：[茶太](../Page/茶太.md "wikilink")
   - 第22話插入歌 「小さな手のひら」（小小的手心）\[36\]
-    作詞：[麻枝准](../Page/麻枝准.md "wikilink")、作曲：麻枝准、編曲：戸越まごめ、主唱：[riya](../Page/riya.md "wikilink")
+    作詞：[麻枝准](../Page/麻枝准.md "wikilink")、作曲：麻枝准、編曲：戸越まごめ、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
   - 第22話插入歌 「少女の幻想」（少女的幻想）
-    作詞：[Key](../Page/Key_\(公司\).md "wikilink")、作曲：戸越まごめ、編曲：たくまる、主唱：[riya](../Page/riya.md "wikilink")
+    作詞：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")、作曲：戸越まごめ、編曲：たくまる、主唱：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")
 
 #### 各集标题
 
@@ -849,7 +851,7 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 <td><p>8</p></td>
 <td><p>米田光良</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/秋竹齊一.md" title="wikilink">秋竹齊一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/秋竹齊一" title="wikilink">秋竹齊一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1092,16 +1094,16 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/关东广域圈.md" title="wikilink">关东广域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/关东广域圈" title="wikilink">关东广域圈</a></p></td>
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">東京放送</a><br />
 （TBS）</p></td>
-<td><p><a href="../Page/TBS系列.md" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TBS系列" title="wikilink">TBS系列</a></p></td>
 <td><p>2008年10月2日－2009年3月26日</p></td>
 <td><p>星期四 25時59分 - 26時29分</p></td>
 <td><p><strong>制作局</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:近畿广域圈.md" title="wikilink">:近畿广域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:近畿广域圈" title="wikilink">:近畿广域圈</a></p></td>
 <td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a><br />
 （MBS）</p></td>
 <td><p>2008年10月9日－2009年4月2日</p></td>
@@ -1110,7 +1112,7 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/福岡县.md" title="wikilink">福岡县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡县" title="wikilink">福岡县</a></p></td>
 <td><p><a href="../Page/RKB每日放送.md" title="wikilink">RKB每日放送</a></p></td>
 <td><p>2008年10月18日－2009年4月11日</p></td>
 <td><p>星期六 26時40分 - 27時10分</p></td>
@@ -1118,7 +1120,7 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中京广域圈.md" title="wikilink">中京广域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京广域圈" title="wikilink">中京广域圈</a></p></td>
 <td><p><a href="../Page/中部日本放送.md" title="wikilink">中部日本放送</a><br />
 （CBC）</p></td>
 <td><p>2008年10月22日－2009年4月15日</p></td>
@@ -1128,7 +1130,7 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 </tr>
 <tr class="odd">
 <td><p>全国放送</p></td>
-<td><p><a href="../Page/BS-i.md" title="wikilink">BS-i</a>/BS-TBS[41]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS-i" title="wikilink">BS-i</a>/BS-TBS[41]</p></td>
 <td><p><a href="../Page/卫星电视.md" title="wikilink">卫星电视</a></p></td>
 <td><p>2008年10月23日－2009年4月18日</p></td>
 <td><p>星期四 25時00分 - 25時30分</p></td>
@@ -1402,12 +1404,12 @@ Festival\! Comic雜誌上刊載。\[62\]\[63\]\[64\]
 ## 影響
 
 根據有限公司Peaks曾發行的[PC
-NEWS所公佈的日本全國](../Page/PC_NEWS.md "wikilink")[美少女遊戲銷售量排行榜](../Page/美少女遊戲.md "wikilink")，《CLANNAD》在2004年4月28日推出之後，於遊戲銷售量排行榜上保持第1名\[72\]，之後在2次比賽各排名第1名以及第46名\[73\]；《CLANNAD
+NEWS所公佈的日本全國](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")[美少女遊戲銷售量排行榜](../Page/美少女遊戲.md "wikilink")，《CLANNAD》在2004年4月28日推出之後，於遊戲銷售量排行榜上保持第1名\[72\]，之後在2次比賽各排名第1名以及第46名\[73\]；《CLANNAD
 普通版》在2004年8月6日推出之後，於遊戲銷售量排行榜上保持第26名\[74\]，之後在2次比賽各排名第37名以及第41名\[75\]。《CLANNAD
 通常版》於2004年銷售100560套。\[76\]《CLANNAD
 全语音版》於2008年2月的日本全国电脑游戏销售榜上排名第7名\[77\]，2008年3月排名第20名\[78\]。在2007年10月，《[電擊G's
 magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《CLANNAD》在入圍的249款遊戲中獲得114票而成為第1名。\[79\]到了2008年9月時《電擊G's
-magazine》另外舉辦了「什麼遊戲讓你哭了」的投票票選活動，其中《CLANNAD》成為前10名的行列而排名第2名，而其他同樣由[Key公司所推出的](../Page/Key_\(公司\).md "wikilink")《AIR》則排名第7名、《Kanon》排名第五名以及《[Little
+magazine》另外舉辦了「什麼遊戲讓你哭了」的投票票選活動，其中《CLANNAD》成為前10名的行列而排名第2名，而其他同樣由[Key公司所推出的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")《AIR》則排名第7名、《Kanon》排名第五名以及《[Little
 Busters\!](../Page/Little_Busters!.md "wikilink")》排名第十名。\[80\]《CLANNAD》PS3平台版本於2011年4月18日至24日賣出7466套遊戲。\[81\]《CLANNAD》Steam版于2015年11月23日推出之后，至26日在Steam的销量排行榜上排名第3名。\[82\]。
 
 另外，雖然是美少女遊戲，但女性玩家佔約10%，在業界是個非常高的比率\[83\]。
@@ -1415,8 +1417,8 @@ Busters\!](../Page/Little_Busters!.md "wikilink")》排名第十名。\[80\]《C
 ### 海外英文翻譯版企畫
 
 海外遊戲翻譯組織「Sekai
-Project」於集資網站[Kickstarter公布其對本作進行英文翻譯的企畫](../Page/Kickstarter.md "wikilink")，並計畫集資十四萬美元（約109萬2千港元，1611萬日圓）分別作支付集資網站的服務費，翻譯，製作費，以及實體商品製作及運送費用。依據集資金額不同可以獲得不同數量程度的遊戲本體和周邊產品。此次集資在澳洲西部時間（[UTC+8](../Page/UTC+8.md "wikilink")）2015年1月10日結束，結束時集資所得已經超過目標，約為五十四萬一千一百美元（約419萬4千港元，6415萬日圓），約為目標金額的三點八倍，共有5819名集資者參與。本作品牌[Key的所有者](../Page/Key社.md "wikilink")[Visual
-Art's董事總經理](../Page/Visual_Art's.md "wikilink")[馬場隆博亦為本次企劃撰寫感言](../Page/馬場隆博.md "wikilink")。根據集資網頁所說，2015年10月將給予集資者的遊戲本體及周邊產品進行配送。\[84\]
+Project」於集資網站[Kickstarter公布其對本作進行英文翻譯的企畫](../Page/Kickstarter.md "wikilink")，並計畫集資十四萬美元（約109萬2千港元，1611萬日圓）分別作支付集資網站的服務費，翻譯，製作費，以及實體商品製作及運送費用。依據集資金額不同可以獲得不同數量程度的遊戲本體和周邊產品。此次集資在澳洲西部時間（[UTC+8](https://zh.wikipedia.org/wiki/UTC+8 "wikilink")）2015年1月10日結束，結束時集資所得已經超過目標，約為五十四萬一千一百美元（約419萬4千港元，6415萬日圓），約為目標金額的三點八倍，共有5819名集資者參與。本作品牌[Key的所有者](https://zh.wikipedia.org/wiki/Key社 "wikilink")[Visual
+Art's董事總經理](../Page/Visual_Art's.md "wikilink")[馬場隆博亦為本次企劃撰寫感言](https://zh.wikipedia.org/wiki/馬場隆博 "wikilink")。根據集資網頁所說，2015年10月將給予集資者的遊戲本體及周邊產品進行配送。\[84\]
 
 ### 中國大陸
 

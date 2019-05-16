@@ -1,16 +1,16 @@
 **SyncML** (Synchronization Markup
 Language)是一平台无关的信息同步标准协议集。分为SyncML数据传输协议（SyncML-DS）和SyncML设备管理协议(SyncML-DM).
 
-现存的大部分同步解决方案绝大部分依赖于某个厂商、应用，或者是某个操作系统，而SyncML的目的就是要提供一个开放标准。目前，该标准已经得到[Nokia](../Page/Nokia.md "wikilink")、[Symbian](../Page/Symbian.md "wikilink")，[Motorola](../Page/Motorola.md "wikilink")，[Sony
-Ericsson](../Page/SonyEricsson.md "wikilink")、[Siemens
-AG等公司的产品的支持](../Page/Siemens_AG.md "wikilink")。
+现存的大部分同步解决方案绝大部分依赖于某个厂商、应用，或者是某个操作系统，而SyncML的目的就是要提供一个开放标准。目前，该标准已经得到[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")，[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")，[Sony
+Ericsson](https://zh.wikipedia.org/wiki/SonyEricsson "wikilink")、[Siemens
+AG等公司的产品的支持](https://zh.wikipedia.org/wiki/Siemens_AG "wikilink")。
 
-手机通讯录的同步和备份是SyncML协议的最主要应用，SyncML[服务器端和](../Page/服务器端.md "wikilink")[客户端数据传输基于下层的](../Page/客户端.md "wikilink")[网路传输协议](../Page/网路传输协议.md "wikilink")。如[obex](../Page/obex.md "wikilink")，[wsp](../Page/wsp.md "wikilink")，[http等](../Page/http.md "wikilink")。增值业务提供商也已经提供基于SyncML协议的同步服务，可以让手机用户通过[GPRS网络上传或下载通讯录数据](../Page/GPRS.md "wikilink")，避免手机丢失或更更换手机时遗失重要通讯录数据的麻烦。从SyncML
+手机通讯录的同步和备份是SyncML协议的最主要应用，SyncML[服务器端和](https://zh.wikipedia.org/wiki/服务器端 "wikilink")[客户端数据传输基于下层的](https://zh.wikipedia.org/wiki/客户端 "wikilink")[网路传输协议](https://zh.wikipedia.org/wiki/网路传输协议 "wikilink")。如[obex](https://zh.wikipedia.org/wiki/obex "wikilink")，[wsp](https://zh.wikipedia.org/wiki/wsp "wikilink")，[http等](https://zh.wikipedia.org/wiki/http "wikilink")。增值业务提供商也已经提供基于SyncML协议的同步服务，可以让手机用户通过[GPRS网络上传或下载通讯录数据](../Page/GPRS.md "wikilink")，避免手机丢失或更更换手机时遗失重要通讯录数据的麻烦。从SyncML
 1.2起，协议开始支持对[电子邮件](../Page/电子邮件.md "wikilink")，目录和文件进行同步。
 
 ## 应用
 
-  - [中国移动的](../Page/中国移动.md "wikilink")[号簿管家服务](../Page/号簿管家.md "wikilink")，使用了该协议。
+  - [中国移动的](https://zh.wikipedia.org/wiki/中国移动 "wikilink")[号簿管家服务](https://zh.wikipedia.org/wiki/号簿管家 "wikilink")，使用了该协议。
 
 ## SyncML托管服务
 

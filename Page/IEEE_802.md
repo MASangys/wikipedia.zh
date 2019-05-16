@@ -1,5 +1,5 @@
 **IEEE 802**
-指[IEEE标准中关于](../Page/IEEE.md "wikilink")[局域网和](../Page/局域网.md "wikilink")[城域网的一系列标准](../Page/城域网.md "wikilink")。更确切的说，IEEE
+指[IEEE标准中关于](https://zh.wikipedia.org/wiki/IEEE "wikilink")[局域网和](../Page/局域网.md "wikilink")[城域网的一系列标准](https://zh.wikipedia.org/wiki/城域网 "wikilink")。更确切的说，IEEE
 802标准仅限定在传输可变大小数据包的网络。其中最广泛使用的有[以太网](../Page/以太网.md "wikilink")、[令牌环](../Page/令牌环.md "wikilink")、[无线局域网等](../Page/无线局域网.md "wikilink")。这一系列标准中的每一个子标准都由委员会中的一个专门工作组负责。
 
 IEEE
@@ -16,73 +16,73 @@ Access Control），如下所示：
 ## 现有标准
 
   - [IEEE
-    802.1](../Page/IEEE_802.1.md "wikilink")：[高层局域网协议](../Page/高层局域网协议.md "wikilink")（Bridging
+    802.1](https://zh.wikipedia.org/wiki/IEEE_802.1 "wikilink")：[高层局域网协议](https://zh.wikipedia.org/wiki/高层局域网协议 "wikilink")（Bridging
     (networking) and Network Management）
   - [IEEE
-    802.2](../Page/IEEE_802.2.md "wikilink")：[逻辑链路控制](../Page/逻辑链路控制.md "wikilink")（Logical
+    802.2](https://zh.wikipedia.org/wiki/IEEE_802.2 "wikilink")：[逻辑链路控制](../Page/逻辑链路控制.md "wikilink")（Logical
     link control）
   - [IEEE
-    802.3](../Page/IEEE_802.3.md "wikilink")：[以太网](../Page/以太网.md "wikilink")（Ethernet）
+    802.3](https://zh.wikipedia.org/wiki/IEEE_802.3 "wikilink")：[以太网](../Page/以太网.md "wikilink")（Ethernet）
   - [IEEE
-    802.4](../Page/IEEE_802.4.md "wikilink")：[令牌总线](../Page/令牌总线.md "wikilink")（Token
+    802.4](https://zh.wikipedia.org/wiki/IEEE_802.4 "wikilink")：[令牌总线](https://zh.wikipedia.org/wiki/令牌总线 "wikilink")（Token
     bus）
   - [IEEE
-    802.5](../Page/IEEE_802.5.md "wikilink")：[令牌環](../Page/令牌環.md "wikilink")（Token-Ring）
+    802.5](https://zh.wikipedia.org/wiki/IEEE_802.5 "wikilink")：[令牌環](https://zh.wikipedia.org/wiki/令牌環 "wikilink")（Token-Ring）
   - [IEEE
-    802.6](../Page/IEEE_802.6.md "wikilink")：[城域網](../Page/城域網.md "wikilink")（MAN,
+    802.6](https://zh.wikipedia.org/wiki/IEEE_802.6 "wikilink")：[城域網](https://zh.wikipedia.org/wiki/城域網 "wikilink")（MAN,
     Metropolitan Area Network）
   - [IEEE
-    802.7](../Page/IEEE_802.7.md "wikilink")：[宽带TAG](../Page/宽带TAG.md "wikilink")（Broadband
+    802.7](https://zh.wikipedia.org/wiki/IEEE_802.7 "wikilink")：[宽带TAG](https://zh.wikipedia.org/wiki/宽带TAG "wikilink")（Broadband
     LAN using Coaxial Cable）
   - [IEEE
-    802.8](../Page/IEEE_802.8.md "wikilink")：[光纤分布式数据接口](../Page/光纤分布式数据接口.md "wikilink")（FDDI）
+    802.8](https://zh.wikipedia.org/wiki/IEEE_802.8 "wikilink")：[光纤分布式数据接口](../Page/光纤分布式数据接口.md "wikilink")（FDDI）
   - [IEEE
-    802.9](../Page/IEEE_802.9.md "wikilink")：[综合业务局域网](../Page/综合业务局域网.md "wikilink")（Integrated
+    802.9](https://zh.wikipedia.org/wiki/IEEE_802.9 "wikilink")：[综合业务局域网](https://zh.wikipedia.org/wiki/综合业务局域网 "wikilink")（Integrated
     Services LAN）
   - [IEEE
-    802.10](../Page/IEEE_802.10.md "wikilink")：[局域网网络安全](../Page/局域网网络安全.md "wikilink")（Interoperable
+    802.10](https://zh.wikipedia.org/wiki/IEEE_802.10 "wikilink")：[局域网网络安全](https://zh.wikipedia.org/wiki/局域网网络安全 "wikilink")（Interoperable
     LAN Security）
   - [IEEE
     802.11](../Page/IEEE_802.11.md "wikilink")：[无线局域网](../Page/无线局域网.md "wikilink")（Wireless
     LAN & Mesh）
   - [IEEE
-    802.12](../Page/IEEE_802.12.md "wikilink")：[需求优先级](../Page/需求优先级.md "wikilink")（Demand
+    802.12](https://zh.wikipedia.org/wiki/IEEE_802.12 "wikilink")：[需求优先级](https://zh.wikipedia.org/wiki/需求优先级 "wikilink")（Demand
     priority）
   - IEEE 802.13：（未使用）
   - [IEEE
-    802.14](../Page/IEEE_802.14.md "wikilink")：[电缆调制解调器](../Page/电缆调制解调器.md "wikilink")（Cable
+    802.14](https://zh.wikipedia.org/wiki/IEEE_802.14 "wikilink")：[电缆调制解调器](https://zh.wikipedia.org/wiki/电缆调制解调器 "wikilink")（Cable
     modems）
   - [IEEE
-    802.15](../Page/IEEE_802.15.md "wikilink")：[无线个人网](../Page/无线个人网.md "wikilink")（Wireless
+    802.15](https://zh.wikipedia.org/wiki/IEEE_802.15 "wikilink")：[无线个人网](../Page/无线个人网.md "wikilink")（Wireless
     PAN）
       - [IEEE
-        802.15.1](../Page/IEEE_802.15.1.md "wikilink")：[无线个人网络](../Page/无线个人网络.md "wikilink")（WPAN,
+        802.15.1](https://zh.wikipedia.org/wiki/IEEE_802.15.1 "wikilink")：[无线个人网络](https://zh.wikipedia.org/wiki/无线个人网络 "wikilink")（WPAN,
         Wireless Personal Area Network）
       - [IEEE
-        802.15.4](../Page/IEEE_802.15.4.md "wikilink")：[低速无线个人网络](../Page/低速无线个人网络.md "wikilink")（LR-WPAN,
+        802.15.4](https://zh.wikipedia.org/wiki/IEEE_802.15.4 "wikilink")：[低速无线个人网络](https://zh.wikipedia.org/wiki/低速无线个人网络 "wikilink")（LR-WPAN,
         Low Rate Wireless Personal Area Network）
   - [IEEE
-    802.16](../Page/IEEE_802.16.md "wikilink")：[宽带无线接入](../Page/宽带无线接入.md "wikilink")（Broadband
+    802.16](https://zh.wikipedia.org/wiki/IEEE_802.16 "wikilink")：[宽带无线接入](https://zh.wikipedia.org/wiki/宽带无线接入 "wikilink")（Broadband
     Wireless Access）
   - [IEEE
-    802.17](../Page/IEEE_802.17.md "wikilink")：[彈性封包環傳輸技術](../Page/彈性封包環傳輸技術.md "wikilink")（Resilient
+    802.17](https://zh.wikipedia.org/wiki/IEEE_802.17 "wikilink")：[彈性封包環傳輸技術](https://zh.wikipedia.org/wiki/彈性封包環傳輸技術 "wikilink")（Resilient
     packet ring）
   - [IEEE
-    802.18](../Page/IEEE_802.18.md "wikilink")：[無線電管制技術](../Page/無線電管制技術.md "wikilink")（Radio
+    802.18](https://zh.wikipedia.org/wiki/IEEE_802.18 "wikilink")：[無線電管制技術](https://zh.wikipedia.org/wiki/無線電管制技術 "wikilink")（Radio
     Regulatory TAG）
   - [IEEE
-    802.19](../Page/IEEE_802.19.md "wikilink")：[共存標籤](../Page/共存標籤.md "wikilink")（Coexistence
+    802.19](https://zh.wikipedia.org/wiki/IEEE_802.19 "wikilink")：[共存標籤](https://zh.wikipedia.org/wiki/共存標籤 "wikilink")（Coexistence
     TAG）
   - [IEEE
-    802.20](../Page/IEEE_802.20.md "wikilink")：[移動寬頻無線接入](../Page/移動寬頻無線接入.md "wikilink")（Mobile
+    802.20](https://zh.wikipedia.org/wiki/IEEE_802.20 "wikilink")：[移動寬頻無線接入](https://zh.wikipedia.org/wiki/移動寬頻無線接入 "wikilink")（Mobile
     Broadband Wireless Access）
   - [IEEE
-    802.21](../Page/IEEE_802.21.md "wikilink")：[媒介獨立換手](../Page/媒介獨立換手.md "wikilink")（Media
+    802.21](https://zh.wikipedia.org/wiki/IEEE_802.21 "wikilink")：[媒介獨立換手](https://zh.wikipedia.org/wiki/媒介獨立換手 "wikilink")（Media
     Independent Handover）
   - [IEEE 802.22](../Page/IEEE_802.22.md "wikilink")：無線区域網（Wireless
     Regional Area Network）
   - [IEEE
-    802.23](../Page/IEEE_802.23.md "wikilink")：[紧急服务工作组](../Page/紧急服务工作组.md "wikilink")（Emergency
+    802.23](https://zh.wikipedia.org/wiki/IEEE_802.23 "wikilink")：[紧急服务工作组](https://zh.wikipedia.org/wiki/紧急服务工作组 "wikilink")（Emergency
     Services Working Group），2010年3月新发布
 
 ## 另见

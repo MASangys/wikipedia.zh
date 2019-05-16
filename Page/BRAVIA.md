@@ -1,18 +1,18 @@
-**BRAVIA**是[日本索尼](../Page/日本.md "wikilink")（[SONY](../Page/SONY.md "wikilink")）的新一代[平板](../Page/平板电视.md "wikilink")[液晶電視品牌](../Page/液晶電視.md "wikilink")。BRAVIA是「Best
+**BRAVIA**是[日本索尼](../Page/日本.md "wikilink")（[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")）的新一代[平板](https://zh.wikipedia.org/wiki/平板电视 "wikilink")[液晶電視品牌](https://zh.wikipedia.org/wiki/液晶電視 "wikilink")。BRAVIA是「Best
 Resolution Audio Visual Integrated Architecture」的縮寫。
 
 ## 關於
 
 [Taipei101_by_Sony.JPG](https://zh.wikipedia.org/wiki/File:Taipei101_by_Sony.JPG "fig:Taipei101_by_Sony.JPG")
-索尼過去因錯失[液晶面板技術](../Page/液晶.md "wikilink")，使第一品牌陸續被[夏普](../Page/夏普.md "wikilink")、[松下](../Page/松下電器.md "wikilink")、[三星](../Page/三星電子.md "wikilink")、[樂金超越](../Page/樂金.md "wikilink")，電視部門的業績不佳。2005財年第一季度財報顯示，索尼電視部門淨虧損72.6億[日元](../Page/日元.md "wikilink")（約合6,500萬[美元](../Page/美元.md "wikilink")），拖垮了索尼整體的獲利。索尼希望捨棄從[映像管電視時代就使用的](../Page/映像管.md "wikilink")[WEGA品牌](../Page/WEGA.md "wikilink")，會象徵其電視事業的躍進。索尼第三號主管伊原直言：「電視是索尼事業核心中的核心，索尼能否翻身，就看索尼能否在電視機市場殺出重圍，全面搶攻成長快速的液晶電視市場，以奪回全球第一大的液晶電視品牌為目標。」
+索尼過去因錯失[液晶面板技術](../Page/液晶.md "wikilink")，使第一品牌陸續被[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")、[松下](../Page/松下電器.md "wikilink")、[三星](../Page/三星電子.md "wikilink")、[樂金超越](https://zh.wikipedia.org/wiki/樂金 "wikilink")，電視部門的業績不佳。2005財年第一季度財報顯示，索尼電視部門淨虧損72.6億[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")（約合6,500萬[美元](../Page/美元.md "wikilink")），拖垮了索尼整體的獲利。索尼希望捨棄從[映像管電視時代就使用的](https://zh.wikipedia.org/wiki/映像管 "wikilink")[WEGA品牌](https://zh.wikipedia.org/wiki/WEGA "wikilink")，會象徵其電視事業的躍進。索尼第三號主管伊原直言：「電視是索尼事業核心中的核心，索尼能否翻身，就看索尼能否在電視機市場殺出重圍，全面搶攻成長快速的液晶電視市場，以奪回全球第一大的液晶電視品牌為目標。」
 
 BRAVIA電視品牌最開始是在2005年8月24日發表於中國大陸，2005年9月陸續在美國、日本、台灣發表其最新電視品牌，並將在全球砸下1.4億美元作為BRAVIA行銷。
 
-BRAVIA品牌部份機種採用與三星合資的[S-LCD所研發的第七代液晶面板](../Page/S-LCD.md "wikilink")，目前將用在所有平面電視，包括[背投影電視](../Page/背投电视.md "wikilink")、[液晶電視](../Page/液晶電視.md "wikilink")。映像管電視則繼續沿用WEGA品牌。之後索尼將以BRAVIA品牌全面取代使用8年之久的WEGA。
+BRAVIA品牌部份機種採用與三星合資的[S-LCD所研發的第七代液晶面板](https://zh.wikipedia.org/wiki/S-LCD "wikilink")，目前將用在所有平面電視，包括[背投影電視](https://zh.wikipedia.org/wiki/背投电视 "wikilink")、[液晶電視](https://zh.wikipedia.org/wiki/液晶電視 "wikilink")。映像管電視則繼續沿用WEGA品牌。之後索尼將以BRAVIA品牌全面取代使用8年之久的WEGA。
 
-BRAVIA系列液晶電視熱賣之賜，Sony在美國數位平面電視市場的佔有率在4個月的時間內由個位數竄升至30%。根據科技市調機構iSuppli的統計，Sony為2005年第3季液晶電視市場的大贏家，市佔率由前一季的第6名躍升至第3名。在台灣，BRAVIA，以32吋的S32A10定位戰鬥機種，以[新台幣](../Page/新台幣.md "wikilink")59,900元強勢價格，使剛上市的800台在3天內銷售一空，除了對台灣二線品牌造成衝擊外，也對國際一線品牌夏普、松下、三星、樂金造成極大的降價壓力。也因BRAVIA的全球熱賣，使得原本拖垮索尼獲利的電視業務在2005年第三季財報扭轉為高度成長的獲利支柱。
+BRAVIA系列液晶電視熱賣之賜，Sony在美國數位平面電視市場的佔有率在4個月的時間內由個位數竄升至30%。根據科技市調機構iSuppli的統計，Sony為2005年第3季液晶電視市場的大贏家，市佔率由前一季的第6名躍升至第3名。在台灣，BRAVIA，以32吋的S32A10定位戰鬥機種，以[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")59,900元強勢價格，使剛上市的800台在3天內銷售一空，除了對台灣二線品牌造成衝擊外，也對國際一線品牌夏普、松下、三星、樂金造成極大的降價壓力。也因BRAVIA的全球熱賣，使得原本拖垮索尼獲利的電視業務在2005年第三季財報扭轉為高度成長的獲利支柱。
 
-BRAVIA全球行銷口號是「Color」-色彩；在[中國大陆](../Page/中國大陆.md "wikilink")，-{索尼}-（中國）的主要行銷口號是「博大晶深」；在台灣，台灣-{新力}-國際(2009年改名為台灣-{索尼}-)的2005年主要行銷口號是「感動的色彩
+BRAVIA全球行銷口號是「Color」-色彩；在[中國大陆](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")，-{索尼}-（中國）的主要行銷口號是「博大晶深」；在台灣，台灣-{新力}-國際(2009年改名為台灣-{索尼}-)的2005年主要行銷口號是「感動的色彩
 永遠值得」、「液晶電視再進化」，2006年主要行銷口號是「映在心中的色彩 感動最大」、「液晶電視再進化」，2007年主要行銷口號是「最美的承諾
 最感動的色彩」、「液晶電視再進化」，2008年主要行銷口號是「美麗的色彩 永存人心」、「完美色彩
 永不妥協」，2009年主要行銷口號是「用眼睛思考色彩」，2010年主要行銷口號是「進化完美
@@ -24,13 +24,14 @@ the Beauty」，2014年主要行銷口號是「鍾於不凡」，2015年主要�
 
 ## BRAVIA市场
 
-BRAVIA由于其特殊的品牌归属，在中国大陆的定位一向是较高的，但凭借索尼之前强大的1080i全高清产品线、Cyber-Shot和Handycam的产品号召力以及之前[WEGA](../Page/WEGA.md "wikilink")(贵翔)[平面特丽珑产品的过硬质量](../Page/特丽珑.md "wikilink")，众多中国用户都选择了BRAVIA作为他们的终端显示设备。同时，凭藉索尼一向的高端工艺设计，BRAVIA也吸引了许多希望电器外观家具化的用户购买其产品。
+BRAVIA由于其特殊的品牌归属，在中国大陆的定位一向是较高的，但凭借索尼之前强大的1080i全高清产品线、Cyber-Shot和Handycam的产品号召力以及之前[WEGA](https://zh.wikipedia.org/wiki/WEGA "wikilink")(贵翔)[平面特丽珑产品的过硬质量](../Page/特丽珑.md "wikilink")，众多中国用户都选择了BRAVIA作为他们的终端显示设备。同时，凭藉索尼一向的高端工艺设计，BRAVIA也吸引了许多希望电器外观家具化的用户购买其产品。
 
 ## BRAVIA相關技術
 
 [Sony_kdl_46x2000_bravia_display_dreambox_dm7000_receiver_by_hdtvtotal_dot_com.jpg](https://zh.wikipedia.org/wiki/File:Sony_kdl_46x2000_bravia_display_dreambox_dm7000_receiver_by_hdtvtotal_dot_com.jpg "fig:Sony_kdl_46x2000_bravia_display_dreambox_dm7000_receiver_by_hdtvtotal_dot_com.jpg")
 
-  - TRILUMINOS RGB Dynamic [LED](../Page/LED.md "wikilink") 背光
+  - TRILUMINOS RGB Dynamic
+    [LED](https://zh.wikipedia.org/wiki/LED "wikilink") 背光
 
 Sony獨創的RGB LED動態[背光技術是當今顯像技術的重大突破](../Page/背光.md "wikilink")，不但延續
 Sony特麗霓虹色彩的光學技術，最重要的是以三原色LED燈管取代過去日光燈作為光源，大幅提升紅藍綠三原色的純淨度，達到世界唯一的
@@ -39,7 +40,7 @@ Sony特麗霓虹色彩的光學技術，最重要的是以三原色LED燈管取�
   - Triluminos LED 背光
 
 Sony研發的Triluminos
-LED背光燈技術，以特別方式排列LED的紅、藍及綠[三原色](../Page/三原色.md "wikilink")，創造更廣濶的色域，顯著提升至近乎原色。Sony最早在2004年將這一技術用在消費品牌[QUALIA型號KDX](../Page/QUALIA.md "wikilink")-46Q005、KDX-40Q005（日本），2007年將這一技術用在民用消費品牌BRAVIA旗艦型號70X7000（日本）、70X3500（亞洲）上。
+LED背光燈技術，以特別方式排列LED的紅、藍及綠[三原色](https://zh.wikipedia.org/wiki/三原色 "wikilink")，創造更廣濶的色域，顯著提升至近乎原色。Sony最早在2004年將這一技術用在消費品牌[QUALIA型號KDX](../Page/QUALIA.md "wikilink")-46Q005、KDX-40Q005（日本），2007年將這一技術用在民用消費品牌BRAVIA旗艦型號70X7000（日本）、70X3500（亞洲）上。
 
   - Backlight Master Drive 極致精準直下式背光技術
 
@@ -49,7 +50,7 @@ LED背光燈技術，以特別方式排列LED的紅、藍及綠[三原色](../Pa
   - Live Color Creation
 
 Sony 開創出「Live Color Creation
-自然色再生科技」最新一代背光模組，擴大色彩在數位化顯像還原的效果，經日本[專業機構證實](../Page/專業機構.md "wikilink")，紅、藍、綠三原色彩度全面大幅提升。
+自然色再生科技」最新一代背光模組，擴大色彩在數位化顯像還原的效果，經日本[專業機構證實](https://zh.wikipedia.org/wiki/專業機構 "wikilink")，紅、藍、綠三原色彩度全面大幅提升。
 
   - WCG-CCFL
 
@@ -64,7 +65,7 @@ CCFL 背光科技相同的明亮度。
 
   - S-LCD 面板
 
-Sony第七代百萬級畫素液晶面板，無論[對比](../Page/對比.md "wikilink")、亮度、色數、層次、反應速度均領先群倫，並創造出全世界最廣178°超廣視角，有效防止室內其他光源產生反射現象。
+Sony第七代百萬級畫素液晶面板，無論[對比](https://zh.wikipedia.org/wiki/對比 "wikilink")、亮度、色數、層次、反應速度均領先群倫，並創造出全世界最廣178°超廣視角，有效防止室內其他光源產生反射現象。
 
   - BRAVIA ENGINE
 
@@ -75,9 +76,9 @@ Creation畫質精細高倍密技術，能將不良的影像訊號，轉換成精
 
 BRAVIA Engine EX 影像 CPU，採用最新一代 BRAVIA Engine Picture Enchancement
 進階版本技術，展現最佳化的 Full HD 高畫質面板效能。並搭戴「DRC-MF
-v1」全新高畫質倍頻處理，將家用[第四台的類比訊號](../Page/第四台.md "wikilink")、[DVD](../Page/DVD.md "wikilink")
+v1」全新高畫質倍頻處理，將家用[第四台的類比訊號](../Page/第四台.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
 影片...等標準訊號來源，同步倍頻強化為高於原先影像 4
-倍精密度，呈現高精密、高[解晰度的最高畫質](../Page/解晰度.md "wikilink")。
+倍精密度，呈現高精密、高[解晰度的最高畫質](https://zh.wikipedia.org/wiki/解晰度 "wikilink")。
 
   - BRAVIA ENGINE PRO
 
@@ -88,8 +89,8 @@ Full HD 1080P 無可取代的高畫質。
 
   - BRAVIA ENGINE 2
 
-BRAVIA Engine 2 影像 [CPU](../Page/CPU.md "wikilink")，為 Sony
-第二代全方位影像處理器，色彩方面不僅大幅增豔，並搭配 Advanced Contrast
+BRAVIA Engine 2 影像 [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，為
+Sony 第二代全方位影像處理器，色彩方面不僅大幅增豔，並搭配 Advanced Contrast
 Enhancer（ACE）對比增強器，能強化色彩鮮明立體的層次，展現亮部到暗部間的細微光影，讓畫面栩栩如生。在影像表現上，更能有效抑制畫面噪訊，將第四台原有的不良訊號強化為高精密畫質，重現真實精彩的節目內容。
 
   - BRAVIA ENGINE 2 EX
@@ -154,7 +155,8 @@ Sony 獨家最新 TRILUMINOS™ Display
 
   - X.V. Color
 
-“x.v.Color.” 此一革新的技術符合 “[xvYCC](../Page/xvYCC.md "wikilink")”（eXtended
+“x.v.Color.” 此一革新的技術符合
+“[xvYCC](https://zh.wikipedia.org/wiki/xvYCC "wikilink")”（eXtended
 Video YCC ，動態影像廣泛色彩空間）的國際標準，可創造接近百分之百人類肉眼可接收的色彩程度。
 
   - Mortion Flow
@@ -166,7 +168,8 @@ Sony 搭配獨有的 Algorithm 運算技術，創造出 Motion Flow 動態影像
 
 Motion Flow PRO 動態影像流暢技術，完整保留 Motion Flow 在播放極速影像上的優異表現，流暢呈現每秒 120
 張畫面，影像銳利度增強外，還可選擇「清晰」模式，透過動態
-[LED](../Page/LED.md "wikilink") 集中光源，精確控光源的調校，減去不必要的亮源。
+[LED](https://zh.wikipedia.org/wiki/LED "wikilink")
+集中光源，精確控光源的調校，減去不必要的亮源。
 
   - Mortion Flow 240Hz
 
@@ -214,20 +217,21 @@ X4500遙控器與電視機之間是採用2.4GHz波段的無線訊號，遙控器
 
   - DLNA（數位生活網路聯盟）
 
-透過家中網路共享數位影像、影片及音樂，將儲存在[DLNA相容裝置](../Page/DLNA.md "wikilink")（例如：電腦、相機）上的數位影像、影片及音樂透過家中網路在DLNA相容的[電視上播放](../Page/電視.md "wikilink")。
+透過家中網路共享數位影像、影片及音樂，將儲存在[DLNA相容裝置](https://zh.wikipedia.org/wiki/DLNA "wikilink")（例如：電腦、相機）上的數位影像、影片及音樂透過家中網路在DLNA相容的[電視上播放](https://zh.wikipedia.org/wiki/電視 "wikilink")。
 
   - BRAVIA Sync
 
 利用 [HDMI](../Page/HDMI.md "wikilink") 線輕鬆連接 BRAVIA 液晶電視與 BRAVIA
 家庭劇院組，搭配最新的 BRAVIA Sync 進階影音同步操控功能，能讓您使用一支遙控器，隨指 one
 touch，操縱開啟、關閉及音效切換，通通搞定，Sony HD
-[Handycam高畫質攝錄放影機](../Page/Handycam.md "wikilink")、Sony[DVD與](../Page/DVD.md "wikilink")[藍光播放機](../Page/藍光光碟.md "wikilink")、[PS3
-slim遊戲機也可對應](../Page/PS3_slim.md "wikilink") BRAVIA Sync 功能。
+[Handycam高畫質攝錄放影機](../Page/Handycam.md "wikilink")、Sony[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光播放機](../Page/藍光光碟.md "wikilink")、[PS3
+slim遊戲機也可對應](https://zh.wikipedia.org/wiki/PS3_slim "wikilink") BRAVIA
+Sync 功能。
 
   - SXRD
 
 全名則為Silicon X-tal Reflective
-Display（矽液晶反射顯示器）技術則為Sony開創，皆為[LCOS技術的進一步延伸](../Page/LCOS.md "wikilink")，具有高對比與壽命長等特性，主要用於投影機和內投影電視。
+Display（矽液晶反射顯示器）技術則為Sony開創，皆為[LCOS技術的進一步延伸](https://zh.wikipedia.org/wiki/LCOS "wikilink")，具有高對比與壽命長等特性，主要用於投影機和內投影電視。
 
 ## 外部链接
 

@@ -1,32 +1,32 @@
-**Brainfuck**，是一种极小化的[程序语言](../Page/程序语言.md "wikilink")，它是由[Urban
-Müller在](../Page/Urban_Müller.md "wikilink")1993年创造的。由於[fuck在](../Page/fuck.md "wikilink")[英語中是](../Page/英語.md "wikilink")[髒話](../Page/髒話.md "wikilink")，这种语言有时被称为**Brainf\*ck**或**Brainf\*\*\***，或被简称为**BF**。
+**Brainfuck**，是一种极小化的[程序语言](https://zh.wikipedia.org/wiki/程序语言 "wikilink")，它是由[Urban
+Müller在](https://zh.wikipedia.org/wiki/Urban_Müller "wikilink")1993年创造的。由於[fuck在](https://zh.wikipedia.org/wiki/fuck "wikilink")[英語中是](https://zh.wikipedia.org/wiki/英語 "wikilink")[髒話](../Page/髒話.md "wikilink")，这种语言有时被称为**Brainf\*ck**或**Brainf\*\*\***，或被简称为**BF**。
 
 ## 概述
 
-Müller的目标是建立一种简单的、可以用最小的[编译器来实现的](../Page/编译器.md "wikilink")、符合[图灵完全思想的编程语言](../Page/图灵完全.md "wikilink")。这种语言由八种[运算符构成](../Page/运算符.md "wikilink")，为[Amiga机器编写的编译器](../Page/Amiga.md "wikilink")（第二版）只有240个[字节大小](../Page/字节.md "wikilink")。\[1\]
+Müller的目标是建立一种简单的、可以用最小的[编译器来实现的](https://zh.wikipedia.org/wiki/编译器 "wikilink")、符合[图灵完全思想的编程语言](https://zh.wikipedia.org/wiki/图灵完全 "wikilink")。这种语言由八种[运算符构成](https://zh.wikipedia.org/wiki/运算符 "wikilink")，为[Amiga机器编写的编译器](../Page/Amiga.md "wikilink")（第二版）只有240个[字节大小](../Page/字节.md "wikilink")。\[1\]
 
 就象它的名字所暗示的，Brainfuck[程序很难读懂](../Page/计算机程序.md "wikilink")。尽管如此，Brainfuck[图灵机一样可以完成任何计算任务](../Page/图灵机.md "wikilink")。虽然Brainfuck的计算方式如此与众不同，但它确实能够正确运行。
 
-这种语言基于一个简单的机器模型，除了指令，这个机器还包括：一个以字节为单位、被初始化为零的[数组](../Page/数组.md "wikilink")、一个指向该数组的[指针](../Page/指针.md "wikilink")（初始时指向数组的第一个字节）、以及用于输入输出的两个[字节流](../Page/字节流.md "wikilink")。
+这种语言基于一个简单的机器模型，除了指令，这个机器还包括：一个以字节为单位、被初始化为零的[数组](../Page/数组.md "wikilink")、一个指向该数组的[指针](https://zh.wikipedia.org/wiki/指针 "wikilink")（初始时指向数组的第一个字节）、以及用于输入输出的两个[字节流](https://zh.wikipedia.org/wiki/字节流 "wikilink")。
 
 下面是这八种状态的描述，其中每个状态由一个[字符标识](../Page/字符.md "wikilink")：
 
-| 字符  | 含义                                                  |
-| --- | --------------------------------------------------- |
-| `>` | 指针加一                                                |
-| `<` | 指针减一                                                |
-| `+` | 指针指向的字节的值加一                                         |
-| `-` | 指针指向的字节的值减一                                         |
-| `.` | 输出指针指向的单元内容（[ASCII码](../Page/ASCII码.md "wikilink")） |
-| `,` | 输入内容到指针指向的单元（ASCII码）                                |
-| `[` | 如果指针指向的单元值为零，向后跳转到对应的`]`指令的次一指令处                    |
-| `]` | 如果指针指向的单元值不为零，向前跳转到对应的`[`指令的次一指令处                   |
+| 字符  | 含义                                                                     |
+| --- | ---------------------------------------------------------------------- |
+| `>` | 指针加一                                                                   |
+| `<` | 指针减一                                                                   |
+| `+` | 指针指向的字节的值加一                                                            |
+| `-` | 指针指向的字节的值减一                                                            |
+| `.` | 输出指针指向的单元内容（[ASCII码](https://zh.wikipedia.org/wiki/ASCII码 "wikilink")） |
+| `,` | 输入内容到指针指向的单元（ASCII码）                                                   |
+| `[` | 如果指针指向的单元值为零，向后跳转到对应的`]`指令的次一指令处                                       |
+| `]` | 如果指针指向的单元值不为零，向前跳转到对应的`[`指令的次一指令处                                      |
 
 按照更节省时间的简单说法，`]`也可以说成“向前跳转到对应的`[`状态”。这两解释是一样的。
 
 第三种同价的说法，`[`意思是“向後跳转到对应的`]`”，`]`意思是“向前跳转到对应的`[`指令的次一指令处，如果指针指向的字节非零。”
 
-Brainfuck程序可以用下面的替换方法翻译成[C语言](../Page/C语言.md "wikilink")（假设`ptr`是`char
+Brainfuck程序可以用下面的替换方法翻译成[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")（假设`ptr`是`char
 *`[类型](../Page/資料類型.md "wikilink")）：
 
 | Brainfuck | C                   |
@@ -44,7 +44,8 @@ Brainfuck程序可以用下面的替换方法翻译成[C语言](../Page/C语言.
 
 ### Hello World\!
 
-一个在屏幕上打印[Hello World\!的程序](../Page/Hello_World!.md "wikilink")：
+一个在屏幕上打印[Hello
+World\!的程序](https://zh.wikipedia.org/wiki/Hello_World! "wikilink")：
 
 ``` bf
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]
@@ -58,7 +59,7 @@ Brainfuck程序可以用下面的替换方法翻译成[C语言](../Page/C语言.
 [-]
 ```
 
-### 字符[I/O](../Page/I/O.md "wikilink")
+### 字符[I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")
 
 ``` bf
 ,.
@@ -72,7 +73,7 @@ Brainfuck程序可以用下面的替换方法翻译成[C语言](../Page/C语言.
 ,[.,]
 ```
 
-这是一个连续从键盘读取字符并回显到屏幕上的[循环](../Page/程式迴圈.md "wikilink")。注意，这里假定0表示输入结束，事实上有些系统并非如此。以-1和“未改变”作为判断依据的程序代码分别是
+这是一个连续从键盘读取字符并回显到屏幕上的[循环](https://zh.wikipedia.org/wiki/程式迴圈 "wikilink")。注意，这里假定0表示输入结束，事实上有些系统并非如此。以-1和“未改变”作为判断依据的程序代码分别是
 
 ``` bf
 ,+[-.,+]
@@ -163,7 +164,7 @@ Brainfuck程序可以用下面的替换方法翻译成[C语言](../Page/C语言.
 
 ## 注释
 
-  - 注意，这里[数组的每个单元都是一个字节大小](../Page/数组.md "wikilink")；`-`命令允许[溢出](../Page/算術溢出.md "wikilink")，它可以用255个`+`命令来代替。同样，如果数组单元是有限、[循环的](../Page/環形緩衝區.md "wikilink")，`<`可以用29999个`>`命令代替。每个修改动作都可以被分解为最多7条指令。可是，两个连在一起的修改动作将会破坏“图灵完全”，因为这会把可能的内存状态限制到有限个数。（更确切的说，从这个角度看，现代的计算机依然不是完全意义上的“[图灵完全](../Page/图灵完全.md "wikilink")”）
+  - 注意，这里[数组的每个单元都是一个字节大小](../Page/数组.md "wikilink")；`-`命令允许[溢出](../Page/算術溢出.md "wikilink")，它可以用255个`+`命令来代替。同样，如果数组单元是有限、[循环的](../Page/環形緩衝區.md "wikilink")，`<`可以用29999个`>`命令代替。每个修改动作都可以被分解为最多7条指令。可是，两个连在一起的修改动作将会破坏“图灵完全”，因为这会把可能的内存状态限制到有限个数。（更确切的说，从这个角度看，现代的计算机依然不是完全意义上的“[图灵完全](https://zh.wikipedia.org/wiki/图灵完全 "wikilink")”）
 
 ## 参考资料
 

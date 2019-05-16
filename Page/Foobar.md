@@ -1,6 +1,6 @@
-**foobar**是電腦程式領域裏的术语，並無實際用途和參考意義。在[计算机程序设计与计算机技术的相关文档中](../Page/计算机程序设计.md "wikilink")，术语**foobar**是一个常见的[无名氏化名](../Page/无名氏.md "wikilink")，常被作为“”使用。
+**foobar**是電腦程式領域裏的术语，並無實際用途和參考意義。在[计算机程序设计与计算机技术的相关文档中](https://zh.wikipedia.org/wiki/计算机程序设计 "wikilink")，术语**foobar**是一个常见的[无名氏化名](https://zh.wikipedia.org/wiki/无名氏 "wikilink")，常被作为“”使用。
 
-从技术上讲，“foobar”很可能在1960年代至1970年代初通过[迪吉多的系统手册传播开来](../Page/迪吉多.md "wikilink")。另一种说法是，“foobar”可能来源于电子学中反转的foo信号（\(\bar{q}\)）；这是因为如果一个数字信号是低电平有效（即负压或零电压代表“1”），那么在信号标记上方一般会标有一根水平横线，而横线的英文即为“bar”。在《》中，还提到“foo”可能早于“[FUBAR](../Page/FUBAR.md "wikilink")”出现。\[1\]
+从技术上讲，“foobar”很可能在1960年代至1970年代初通过[迪吉多的系统手册传播开来](../Page/迪吉多.md "wikilink")。另一种说法是，“foobar”可能来源于电子学中反转的foo信号（\(\bar{q}\)）；这是因为如果一个数字信号是低电平有效（即负压或零电压代表“1”），那么在信号标记上方一般会标有一根水平横线，而横线的英文即为“bar”。在《》中，还提到“foo”可能早于“[FUBAR](https://zh.wikipedia.org/wiki/FUBAR "wikilink")”出现。\[1\]
 
 ## 例子
 
@@ -9,7 +9,7 @@ World程序一样](../Page/Hello_World.md "wikilink")，它们常被用于向学
 
 “foo”“bar”常被作为函数／方法的名称或变量名。
 
-下面是一段通过“foo”和“bar”来演示如何在[Java](../Page/Java.md "wikilink")、[C及](../Page/C語言.md "wikilink")[C++中连接两个字符串的实例程序](../Page/C++.md "wikilink")：
+下面是一段通过“foo”和“bar”来演示如何在[Java](../Page/Java.md "wikilink")、[C及](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++中连接两个字符串的实例程序](../Page/C++.md "wikilink")：
 
 ``` Java
 //Java Code
@@ -63,9 +63,9 @@ print(foo + bar)
 
 ## 参见
 
-  - [无名氏](../Page/无名氏.md "wikilink")
-  - [FUBAR](../Page/FUBAR.md "wikilink")
-  - [foobar2000](../Page/foobar2000.md "wikilink")
+  - [无名氏](https://zh.wikipedia.org/wiki/无名氏 "wikilink")
+  - [FUBAR](https://zh.wikipedia.org/wiki/FUBAR "wikilink")
+  - [foobar2000](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")
 
 ## 参考文献
 

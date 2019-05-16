@@ -1,41 +1,41 @@
 **Miranda
-IM**是一个多协议的[即时通讯客户端软件](../Page/即时通讯.md "wikilink")。它运行时仅占用极少的内存，并且不需要安装，解压后即可运行。这使得用户可以从可移动的存储设备上运行他们的即时通讯客户端程序。如果仅使用少量的插件，它甚至可以被放到一张软盘里。
+IM**是一个多协议的[即时通讯客户端软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。它运行时仅占用极少的内存，并且不需要安装，解压后即可运行。这使得用户可以从可移动的存储设备上运行他们的即时通讯客户端程序。如果仅使用少量的插件，它甚至可以被放到一张软盘里。
 
 强大的插件使得Miranda
 IM拥有极好的可扩展性。只有基本的功能是内置的，其余的功能需要通过插件来实现。现在有多于350个插件可以被下载，用来扩展Miranda
 IM的功能。通过安装这些插件，Miranda
-IM可以支持[ICQ](../Page/ICQ.md "wikilink")，[AIM](../Page/AIM.md "wikilink")，[MSN](../Page/MSN.md "wikilink")，[Jabber](../Page/Jabber.md "wikilink")，[Yahoo](../Page/Yahoo.md "wikilink")，[QQ和](../Page/QQ.md "wikilink")[Google
+IM可以支持[ICQ](../Page/ICQ.md "wikilink")，[AIM](https://zh.wikipedia.org/wiki/AIM "wikilink")，[MSN](../Page/MSN.md "wikilink")，[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")，[Yahoo](https://zh.wikipedia.org/wiki/Yahoo "wikilink")，[QQ和](https://zh.wikipedia.org/wiki/QQ "wikilink")[Google
 Talk等协议](../Page/Google_Talk.md "wikilink")。
 
 ## 支持协议
 
 部分可通过插件支持的协议：
 
-  - [AIM](../Page/AIM.md "wikilink")
+  - [AIM](https://zh.wikipedia.org/wiki/AIM "wikilink")
   - [Bonjour](../Page/Bonjour.md "wikilink")
-  - [Battle.Net](../Page/Battle.Net.md "wikilink")
-  - [飞信](../Page/飞信.md "wikilink")
-  - [Gadu-Gadu](../Page/Gadu-Gadu.md "wikilink")
+  - [Battle.Net](https://zh.wikipedia.org/wiki/Battle.Net "wikilink")
+  - [飞信](https://zh.wikipedia.org/wiki/飞信 "wikilink")
+  - [Gadu-Gadu](https://zh.wikipedia.org/wiki/Gadu-Gadu "wikilink")
   - [Inter-Asterisk
-    eXchange](../Page/Inter-Asterisk_eXchange.md "wikilink")
+    eXchange](https://zh.wikipedia.org/wiki/Inter-Asterisk_eXchange "wikilink")
   - [ICQ](../Page/ICQ.md "wikilink")
   - [IRC](../Page/IRC.md "wikilink")
-  - [Jabber](../Page/Jabber.md "wikilink")（& [Google
+  - [Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")（& [Google
     Talk](../Page/Google_Talk.md "wikilink")）
   - [Lotus Sametime](../Page/Lotus_Sametime.md "wikilink")
   - Mail.ru Agent
-  - [MeBeam](../Page/MeBeam.md "wikilink")
-  - [NetSend](../Page/NetSend.md "wikilink")
-  - [MySpace](../Page/MySpace.md "wikilink")
+  - [MeBeam](https://zh.wikipedia.org/wiki/MeBeam "wikilink")
+  - [NetSend](https://zh.wikipedia.org/wiki/NetSend "wikilink")
+  - [MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")
   - [.NET Messenger
-    Service](../Page/.NET_Messenger_Service.md "wikilink")（又称[MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink")，[Windows Live
-    Messenger](../Page/Windows_Live_Messenger.md "wikilink")）
+    Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")（又称[MSN
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")，[Windows
+    Live Messenger](../Page/Windows_Live_Messenger.md "wikilink")）
   - [腾讯QQ](../Page/腾讯QQ.md "wikilink")
-  - [SIP](../Page/SIP.md "wikilink")
+  - [SIP](https://zh.wikipedia.org/wiki/SIP "wikilink")
   - [Skype](../Page/Skype.md "wikilink")
-  - [Tlen.pl](../Page/Tlen.pl.md "wikilink")
-  - [Xfire](../Page/Xfire.md "wikilink")
+  - [Tlen.pl](https://zh.wikipedia.org/wiki/Tlen.pl "wikilink")
+  - [Xfire](https://zh.wikipedia.org/wiki/Xfire "wikilink")
   - [Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")
 
 ## 开发历史
@@ -90,13 +90,13 @@ IM的插件数量继续迅速增长。当2004年4月19日，0.3.3版发布的时
 ### 0.5.x版
 
 0.5版於2006年7月28日發布。這是Miranda
-IM首次在官方網頁裡提供[Unicode版本與用戶下載](../Page/Unicode.md "wikilink")，使[Windows
+IM首次在官方網頁裡提供[Unicode版本與用戶下載](https://zh.wikipedia.org/wiki/Unicode "wikilink")，使[Windows
 NT](../Page/Windows_NT.md "wikilink")、[Windows
 2000及](../Page/Windows_2000.md "wikilink")[Windows
 XP的用戶不再因為內碼不同而使溝通出現困難](../Page/Windows_XP.md "wikilink")。在過去，Unicode支援是需要透過第三方提供下載，而且版本往往都較舊。
 
-0.5版另一個新功能是對[AIM](../Page/AIM.md "wikilink")
-[Oscar支援](../Page/OSCAR協定.md "wikilink")，使用戶可以接收檔案，並存取其他用戶的離線信息。
+0.5版另一個新功能是對[AIM](https://zh.wikipedia.org/wiki/AIM "wikilink")
+[Oscar支援](https://zh.wikipedia.org/wiki/OSCAR協定 "wikilink")，使用戶可以接收檔案，並存取其他用戶的離線信息。
 
 ### 0.6.x版
 
@@ -118,9 +118,9 @@ IM加入可支持单协议插件dll多账户的账户管理功能，核心通知
 
 ## 参看
 
-  - [即时通讯软件列表](../Page/即时通讯软件列表.md "wikilink")
+  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
   - [即时通讯软件比较](../Page/即时通讯软件比较.md "wikilink")
-  - [开源软件列表](../Page/开源软件列表.md "wikilink")
+  - [开源软件列表](https://zh.wikipedia.org/wiki/开源软件列表 "wikilink")
 
 ## 参考文献
 

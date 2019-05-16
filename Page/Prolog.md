@@ -1,5 +1,5 @@
-**Prolog**（的缩写）是一种[逻辑编程语言](../Page/逻辑编程.md "wikilink")。它建立在[逻辑学的理论基础之上](../Page/逻辑学.md "wikilink")，
-最初被运用于[自然语言等研究领域](../Page/自然语言.md "wikilink")。现在它已广泛的应用在[人工智能的研究中](../Page/人工智能.md "wikilink")，它可以用来建造[专家系统](../Page/专家系统.md "wikilink")、自然语言理解、智能知识库等。
+**Prolog**（的缩写）是一种[逻辑编程语言](https://zh.wikipedia.org/wiki/逻辑编程 "wikilink")。它建立在[逻辑学的理论基础之上](https://zh.wikipedia.org/wiki/逻辑学 "wikilink")，
+最初被运用于[自然语言等研究领域](https://zh.wikipedia.org/wiki/自然语言 "wikilink")。现在它已广泛的应用在[人工智能的研究中](../Page/人工智能.md "wikilink")，它可以用来建造[专家系统](../Page/专家系统.md "wikilink")、自然语言理解、智能知识库等。
 
 ## 历史
 
@@ -13,7 +13,7 @@ Prolog一直在北美和欧洲被广泛使用。日本政府曾经为了建造�
 
 ## 特點
 
-有別於一般的[函数式语言](../Page/函数式语言.md "wikilink")，prolog的程式是基於謂詞邏輯的理論。最基本的寫法是定立[物件與物件之間的關係](../Page/物件_\(電腦科學\).md "wikilink")，之後可以用詢問目標的方式來查詢各種物件之間的關係。系統會自動進行匹配及[回溯](../Page/回溯法.md "wikilink")，找出所詢問的答案。
+有別於一般的[函数式语言](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")，prolog的程式是基於謂詞邏輯的理論。最基本的寫法是定立[物件與物件之間的關係](https://zh.wikipedia.org/wiki/物件_\(電腦科學\) "wikilink")，之後可以用詢問目標的方式來查詢各種物件之間的關係。系統會自動進行匹配及[回溯](https://zh.wikipedia.org/wiki/回溯法 "wikilink")，找出所詢問的答案。
 
 Prolog代码中以大写字母开头的元素是**变量**，[字符串](../Page/字符串.md "wikilink")、数字或以小写字母开头的元素是**常量**。下划线（_）被称为匿名变量。
 
@@ -90,7 +90,8 @@ ordered([A|[B|T]]) :- A =< B, ordered([B|T]).   /* 此规则約束所謂的排�
 
 ### Russell's paradox
 
-示範[羅素悖論在Prolog下會導致Stack](../Page/羅素悖論.md "wikilink") Overflow：
+示範[羅素悖論在Prolog下會導致Stack](https://zh.wikipedia.org/wiki/羅素悖論 "wikilink")
+Overflow：
 
 ``` prolog
 /* tstpx.pl */
@@ -121,9 +122,11 @@ px(1) :- \+ px(1).      /* 規定此规则不成立。 i.e. 此规则為假時�
 
 ## 参见
 
-  - [Visual Prolog](../Page/Visual_Prolog.md "wikilink")
+  - [Visual
+    Prolog](https://zh.wikipedia.org/wiki/Visual_Prolog "wikilink")
   - [LISP](../Page/LISP.md "wikilink")
-  - [non-Monotonic Logic](../Page/non-Monotonic_Logic.md "wikilink")
+  - [non-Monotonic
+    Logic](https://zh.wikipedia.org/wiki/non-Monotonic_Logic "wikilink")
 
 {{-}}
 

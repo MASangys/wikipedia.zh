@@ -1,4 +1,4 @@
-**AutoCAD**是由[美國](../Page/美國.md "wikilink")[Autodesk为](../Page/Autodesk.md "wikilink")[電腦上應用](../Page/電腦.md "wikilink")[電腦輔助設計技術而开发的繪圖程序軟體包](../Page/電腦輔助設計.md "wikilink")，現已經成為國際上廣為流行的繪圖工具。該軟體推廣的[.dwg文件格式成為二維繪圖的常用標準格式](../Page/.dwg.md "wikilink")。
+**AutoCAD**是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Autodesk为](../Page/Autodesk.md "wikilink")[電腦上應用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[電腦輔助設計技術而开发的繪圖程序軟體包](https://zh.wikipedia.org/wiki/電腦輔助設計 "wikilink")，現已經成為國際上廣為流行的繪圖工具。該軟體推廣的[.dwg文件格式成為二維繪圖的常用標準格式](../Page/.dwg.md "wikilink")。
 
 ## 支持语言
 
@@ -43,7 +43,7 @@ AutoCAD的发展可分为初级阶段、发展阶段、高级发展阶段、完�
 <!-- end list -->
 
   -
-    [Dos版的最高顶峰](../Page/Dos.md "wikilink")，具有成熟完备的功能，提供完善的AutoLisp语言进行二次开发，许多机械建筑和电路设计的专业CAD就是在这一版本上开发的。这一版本具有许多即使现在的版本也不具备的特性，例如[实体爆炸后得到的是](../Page/实体.md "wikilink")3Dface，而不是像现在版本这样变成面实体——还是实体，不像3Dface那样可以对顶点进行单独拉伸。
+    [Dos版的最高顶峰](https://zh.wikipedia.org/wiki/Dos "wikilink")，具有成熟完备的功能，提供完善的AutoLisp语言进行二次开发，许多机械建筑和电路设计的专业CAD就是在这一版本上开发的。这一版本具有许多即使现在的版本也不具备的特性，例如[实体爆炸后得到的是](https://zh.wikipedia.org/wiki/实体 "wikilink")3Dface，而不是像现在版本这样变成面实体——还是实体，不像3Dface那样可以对顶点进行单独拉伸。
 
 ### 完善阶段
 
@@ -52,7 +52,7 @@ AutoCAD的发展可分为初级阶段、发展阶段、高级发展阶段、完�
 <!-- end list -->
 
   -
-    在[Unix](../Page/Unix.md "wikilink")、[DOS和Windows](../Page/DOS.md "wikilink")
+    在[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[DOS和Windows](../Page/DOS.md "wikilink")
     3.11上的最后版本
 
 <!-- end list -->
@@ -83,7 +83,7 @@ AutoCAD的发展可分为初级阶段、发展阶段、高级发展阶段、完�
 
 ## 相關條目
 
-  - [计算机软件](../Page/计算机软件.md "wikilink")
+  - [计算机软件](https://zh.wikipedia.org/wiki/计算机软件 "wikilink")
   - [计算机科学](../Page/计算机科学.md "wikilink")
 
 ## 外部連結

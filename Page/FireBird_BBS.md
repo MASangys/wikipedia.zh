@@ -1,4 +1,4 @@
-**火鸟BBS**（****）是目前中国大陸常见的[BBS系统之一](../Page/BBS.md "wikilink")，同时也有许多的变体（例如[水木清华BBS使用的](../Page/水木清华BBS.md "wikilink")[KBS论坛系统](../Page/KBS论坛系统.md "wikilink")）。该系统安装方便，支持平台多，编译、修改都比较容易，最新版本是2.66M简体中文版，该版本在
+**火鸟BBS**（****）是目前中国大陸常见的[BBS系统之一](../Page/BBS.md "wikilink")，同时也有许多的变体（例如[水木清华BBS使用的](../Page/水木清华BBS.md "wikilink")[KBS论坛系统](https://zh.wikipedia.org/wiki/KBS论坛系统 "wikilink")）。该系统安装方便，支持平台多，编译、修改都比较容易，最新版本是2.66M简体中文版，该版本在
 GNU General Public Licence下发行，可任意拷贝及修改。
 
 ## 沿革

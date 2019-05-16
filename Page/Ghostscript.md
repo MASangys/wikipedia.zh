@@ -1,30 +1,31 @@
-**Ghostscript**是一套建基於[Adobe](../Page/Adobe_Systems.md "wikilink")、[PostScript及](../Page/PostScript.md "wikilink")[可移植文檔格式](../Page/PDF.md "wikilink")（PDF）的[頁面描述語言等而編譯成的](../Page/頁面描述語言.md "wikilink")[自由軟件](../Page/自由軟件.md "wikilink")。
+**Ghostscript**是一套建基於[Adobe](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")、[PostScript及](../Page/PostScript.md "wikilink")[可移植文檔格式](https://zh.wikipedia.org/wiki/PDF "wikilink")（PDF）的[頁面描述語言等而編譯成的](https://zh.wikipedia.org/wiki/頁面描述語言 "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。
 
-现在已经从Linux版本移植到其他操作系统，如其他[Unix](../Page/Unix.md "wikilink")、[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")、[VMS](../Page/VMS.md "wikilink")、[Windows](../Page/Microsoft_Windows.md "wikilink")、[OS/2和](../Page/OS/2.md "wikilink")[Mac
-OS classic](../Page/Mac_OS.md "wikilink")。
+现在已经从Linux版本移植到其他操作系统，如其他[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Mac
+OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[VMS](https://zh.wikipedia.org/wiki/VMS "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Mac
+OS classic](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。
 
 ## 歷史
 
 Ghostview最早是由[L Peter
-Deutsch和阿拉丁企業开发的](../Page/L_Peter_Deutsch.md "wikilink")，以[Aladdin
+Deutsch和阿拉丁企業开发的](https://zh.wikipedia.org/wiki/L_Peter_Deutsch "wikilink")，以[Aladdin
 Free Public
-License](../Page/Aladdin_Free_Public_License.md "wikilink")（AFPL）发布，目前由[artofcode
-LLC拥有并维护](../Page/artofcode_LLC.md "wikilink")。推出了两个版本：一是在原来的AFPL许可下进行商业使用的**AFPL
+License](https://zh.wikipedia.org/wiki/Aladdin_Free_Public_License "wikilink")（AFPL）发布，目前由[artofcode
+LLC拥有并维护](https://zh.wikipedia.org/wiki/artofcode_LLC "wikilink")。推出了两个版本：一是在原来的AFPL许可下进行商业使用的**AFPL
 Ghostscript**，一是[GNU General Public
-License下使用的](../Page/GNU_General_Public_License.md "wikilink")**GPL
+License下使用的](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")**GPL
 Ghostscript**。
 
 GPL版本也是**Display Ghostscript**的基础，其增加了所需的功能，以便对[Display
-PostScript形成完全的支持](../Page/Display_PostScript.md "wikilink")。
+PostScript形成完全的支持](https://zh.wikipedia.org/wiki/Display_PostScript "wikilink")。
 
 ## 特色
 
 这个软件可用作：
 
-  - 计算机打印机使用的[栅格化图像处理器](../Page/栅格化图像处理器.md "wikilink")（RIP），例如，[行打印机](../Page/行打印机.md "wikilink")[lpd的输入过滤器](../Page/lpd.md "wikilink")。
-  - 以[PostScript和](../Page/PostScript.md "wikilink")[PDF阅览器使用的](../Page/可移植文件格式.md "wikilink")[栅格化图像处理器](../Page/栅格化图像处理器.md "wikilink")（RIP）引擎。
-  - 文件格式转换器，如[PostScript和](../Page/PostScript.md "wikilink")[PDF转换器](../Page/可移植文件格式.md "wikilink")。
+  - 计算机打印机使用的[栅格化图像处理器](https://zh.wikipedia.org/wiki/栅格化图像处理器 "wikilink")（RIP），例如，[行打印机](https://zh.wikipedia.org/wiki/行打印机 "wikilink")[lpd的输入过滤器](https://zh.wikipedia.org/wiki/lpd "wikilink")。
+  - 以[PostScript和](../Page/PostScript.md "wikilink")[PDF阅览器使用的](https://zh.wikipedia.org/wiki/可移植文件格式 "wikilink")[栅格化图像处理器](https://zh.wikipedia.org/wiki/栅格化图像处理器 "wikilink")（RIP）引擎。
+  - 文件格式转换器，如[PostScript和](../Page/PostScript.md "wikilink")[PDF转换器](https://zh.wikipedia.org/wiki/可移植文件格式 "wikilink")。
   - 一般用途的编程环境。
 
 ## 前端

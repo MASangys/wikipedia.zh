@@ -1,11 +1,11 @@
-是由[索尼電腦娛樂开发和发售的](../Page/索尼電腦娛樂.md "wikilink")[家用游戏机](../Page/家用游戏机.md "wikilink")。主机于12月3日在[日本发布](../Page/日本.md "wikilink")，\[1\]1995年9月9日在[北美发售](../Page/北美.md "wikilink")，1995年9月29日在[欧洲发售](../Page/欧洲.md "wikilink")，1995年11月15日在[澳大利亚发售](../Page/澳大利亚.md "wikilink")。这款游戏机是[PlayStation系列家用视频游戏机的第一款](../Page/PlayStation.md "wikilink")。作为[第五世代遊戲機的一部分](../Page/第五世代遊戲機.md "wikilink")，与其他第五时代游戏机如[任天堂64和](../Page/任天堂64.md "wikilink")[世嘉土星竞争](../Page/世嘉土星.md "wikilink")。
+是由[索尼電腦娛樂开发和发售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[家用游戏机](../Page/家用游戏机.md "wikilink")。主机于12月3日在[日本发布](../Page/日本.md "wikilink")，\[1\]1995年9月9日在[北美发售](https://zh.wikipedia.org/wiki/北美 "wikilink")，1995年9月29日在[欧洲发售](../Page/欧洲.md "wikilink")，1995年11月15日在[澳大利亚发售](../Page/澳大利亚.md "wikilink")。这款游戏机是[PlayStation系列家用视频游戏机的第一款](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。作为[第五世代遊戲機的一部分](../Page/第五世代遊戲機.md "wikilink")，与其他第五时代游戏机如[任天堂64和](../Page/任天堂64.md "wikilink")[世嘉土星竞争](../Page/世嘉土星.md "wikilink")。
 
-PlayStation是第一个“电脑娱乐系统”，其不但能游玩游戏，还能播放[音频CD](../Page/音频CD.md "wikilink")，部分机型还能播放[视频CD](../Page/影音光碟.md "wikilink")。机器出货量为1亿部，共发售了9年6个月。\[2\]2000年7月，一款名为**PS
+PlayStation是第一个“电脑娱乐系统”，其不但能游玩游戏，还能播放[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")，部分机型还能播放[视频CD](https://zh.wikipedia.org/wiki/影音光碟 "wikilink")。机器出货量为1亿部，共发售了9年6个月。\[2\]2000年7月，一款名为**PS
 one**的“超薄”版本发布，取代了最初的灰色版本主机，并重新以适当的名字命名，以避免与它的继任者[PlayStation
 2混淆](../Page/PlayStation_2.md "wikilink")。
 
 其后代游戏机PlayStation 2于2000年发布，PlayStation
-2[向后兼容PlayStation的](../Page/向后兼容.md "wikilink")[DualShock控制器和游戏](../Page/DualShock.md "wikilink")。小型机型PS
+2[向后兼容PlayStation的](https://zh.wikipedia.org/wiki/向后兼容 "wikilink")[DualShock控制器和游戏](../Page/DualShock.md "wikilink")。小型机型PS
 One的最后一批产品在2004年冬季售出，2006年正式停产。自11年前推出以来，PlayStation总计出货1.02亿件。直到2006年3月23日索尼停止了PlayStation和PlayStation游戏的生产之前，PlayStation的游戏都还在继续销售，这时距离PlayStation
 3上市还不到一年。\[3\]
 
@@ -15,8 +15,8 @@ One的最后一批产品在2004年冬季售出，2006年正式停产。自11年�
 
 [PSX-Original-Controller.jpg](https://zh.wikipedia.org/wiki/File:PSX-Original-Controller.jpg "fig:PSX-Original-Controller.jpg")控制器所取代\]\]
 
-PlayStation游戏机的问世要追溯到1986年，当时[任天堂和索尼成立了一家合资企业](../Page/任天堂.md "wikilink")。\[4\]任天堂利用软盘技术来在[红白机上补充卡带游戏的容量不足问题](../Page/红白机.md "wikilink")（即红白机的[FC磁碟機附件](../Page/FC磁碟機.md "wikilink")），并希望在其后代机型[超级任天堂上也用相同的策略](../Page/超级任天堂.md "wikilink")，即使用卡带作为游戏标准载体，并搭配其他存储方式扩展存储容量。\[5\]\[6\]任天堂找到了索尼，请求索尼为超级任天堂开发一款[CD-ROM光盘游戏附加组件](../Page/CD-ROM.md "wikilink")，暂定其名为**Play
-Station**或****。\[7\]索尼同意为任天堂开发，并签订了合同。\[8\]任天堂之所以选择索尼来开发附加组件是因为任天堂在开发超级任天堂时，索尼的[久夛良木健](../Page/久夛良木健.md "wikilink")\[9\]曾偷偷将索尼的处理器作为八通道[ADPCM音频处理器展示给任天堂](../Page/ADPCM.md "wikilink")。任天堂见该处理器高端的性能后，立刻决定选择索尼的SPC-700作为超级任天堂的音频处理芯片。\[10\]
+PlayStation游戏机的问世要追溯到1986年，当时[任天堂和索尼成立了一家合资企业](../Page/任天堂.md "wikilink")。\[4\]任天堂利用软盘技术来在[红白机上补充卡带游戏的容量不足问题](../Page/红白机.md "wikilink")（即红白机的[FC磁碟機附件](../Page/FC磁碟機.md "wikilink")），并希望在其后代机型[超级任天堂上也用相同的策略](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，即使用卡带作为游戏标准载体，并搭配其他存储方式扩展存储容量。\[5\]\[6\]任天堂找到了索尼，请求索尼为超级任天堂开发一款[CD-ROM光盘游戏附加组件](../Page/CD-ROM.md "wikilink")，暂定其名为**Play
+Station**或****。\[7\]索尼同意为任天堂开发，并签订了合同。\[8\]任天堂之所以选择索尼来开发附加组件是因为任天堂在开发超级任天堂时，索尼的[久夛良木健](https://zh.wikipedia.org/wiki/久夛良木健 "wikilink")\[9\]曾偷偷将索尼的处理器作为八通道[ADPCM音频处理器展示给任天堂](https://zh.wikipedia.org/wiki/ADPCM "wikilink")。任天堂见该处理器高端的性能后，立刻决定选择索尼的SPC-700作为超级任天堂的音频处理芯片。\[10\]
 
 而久夛良木健因为在索尼不知情的情况下偷偷与任天堂合作，差点被索尼解雇。\[11\]当时的索尼首席执行官[大賀典雄因为久夛良木健这件事认识到了SPC](../Page/大賀典雄.md "wikilink")-700芯片的潜力，并决定不开除久夛良木健，并继续在这个项目上与任天堂合作。索尼在这之前，都没有计划开发自己的游戏机。\[12\]
 
@@ -24,10 +24,10 @@ Station**或****。\[7\]索尼同意为任天堂开发，并签订了合同。\[
 
 [PSX-DualShock-Controller.jpg](https://zh.wikipedia.org/wiki/File:PSX-DualShock-Controller.jpg "fig:PSX-DualShock-Controller.jpg")控制器\]\]
 
-这款名为“”的产品在1991年5月的[消費電子展上向公众公布](../Page/消費電子展.md "wikilink")。\[15\]然而，后来任天堂的社长[山内溥回顾](../Page/山内溥.md "wikilink")1988年索尼和任天堂之间签订的的原始合同时，他意识到，这份协议实质上赋予了索尼对所有SNES的CD-ROM格式的游戏的所有权和完全控制权。山内溥认为这份合同完全不可接受，他秘密的取消了SNES-CD开发的所有计划。\[16\]并取消与索尼的合作。在消費電子展那天上午9点，美国任天堂总裁走上舞台，透露了任天堂现在与飞利浦结盟，且放弃之前和索尼合作完成的所有工作。在这之前，和美国任天堂社长[荒川實在索尼不知情的情况下](../Page/荒川實.md "wikilink")，飞抵[飞利浦在](../Page/飞利浦.md "wikilink")[荷兰的全球总部](../Page/荷兰.md "wikilink")，组成了一个性质截然不同的联盟，SNES-CD的光盘部分由飞利浦开发，且任天堂拥有所有在飞利浦开发的机器上的游戏的所有权利。\[17\]
+这款名为“”的产品在1991年5月的[消費電子展上向公众公布](../Page/消費電子展.md "wikilink")。\[15\]然而，后来任天堂的社长[山内溥回顾](../Page/山内溥.md "wikilink")1988年索尼和任天堂之间签订的的原始合同时，他意识到，这份协议实质上赋予了索尼对所有SNES的CD-ROM格式的游戏的所有权和完全控制权。山内溥认为这份合同完全不可接受，他秘密的取消了SNES-CD开发的所有计划。\[16\]并取消与索尼的合作。在消費電子展那天上午9点，美国任天堂总裁走上舞台，透露了任天堂现在与飞利浦结盟，且放弃之前和索尼合作完成的所有工作。在这之前，和美国任天堂社长[荒川實在索尼不知情的情况下](../Page/荒川實.md "wikilink")，飞抵[飞利浦在](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")[荷兰的全球总部](../Page/荷兰.md "wikilink")，组成了一个性质截然不同的联盟，SNES-CD的光盘部分由飞利浦开发，且任天堂拥有所有在飞利浦开发的机器上的游戏的所有权利。\[17\]
 
 索尼在和任天堂合作的项目失败后，曾一度考虑与[世嘉合作生产一个独立的游戏机](../Page/世嘉.md "wikilink")。当时的世嘉首席执行官汤姆·卡里因斯克将这一提议提交给了世嘉在[东京的董事会](../Page/东京.md "wikilink")。然而，董事会通过决议拒绝了这一请求。在2013年的一次采访中，汤姆·卡里因斯克回忆道：“这是一个愚蠢的想法，索尼根本不知道如何制造游戏机硬件。他们也不知道如何制作游戏软件。我们为什么要跟他合作呢？”\[18\]这使索尼停止了他们对家用视频游戏机的研究，但后来索尼决定利用之前与任天堂和世嘉合作开发的废弃产品，重新完善设计，使其变成兼容超级任天堂的完整游戏机。\[19\]结果，任天堂提起诉讼，声称索尼违反合同，并试图在美国联邦法院获得销售禁令，禁止索尼发布命名为“Play
-Station”的游戏机，理由是任天堂拥有这个名字。\[20\]而主持该案的联邦法官否认了禁令。最终，索尼于1991年10月公布了这个兼容[超级任天堂的完整游戏机](../Page/超级任天堂.md "wikilink")。然而，理论上只有200台左右的机器被生产出来。\[21\]
+Station”的游戏机，理由是任天堂拥有这个名字。\[20\]而主持该案的联邦法官否认了禁令。最终，索尼于1991年10月公布了这个兼容[超级任天堂的完整游戏机](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。然而，理论上只有200台左右的机器被生产出来。\[21\]
 
 [PSX-Memory-Card.jpg](https://zh.wikipedia.org/wiki/File:PSX-Memory-Card.jpg "fig:PSX-Memory-Card.jpg")\]\]
 
@@ -36,7 +36,7 @@ Station”，并允许其兼容超级任天堂主机游戏，但同时任天堂�
 Station”。删除超级任天堂游戏卡带插槽，去掉“Play
 Station”名称之间的空格，成为“PlayStation”。从而变成了一个完全由索尼自己开发的游戏机。\[22\]据索尼的一位工程师说，索尼与任天堂结束合作后，所有的设计方案都被废弃了，PlayStation的设计也重新开始。\[23\]索尼互动娱乐的北美分部：索尼电脑娱乐美国公司\[24\]在向公众调查之后，得知“PlayStation”的名称已经被公众厌恶。原本决定以替代名称“PSX”来推广新的游戏主机。在北美推出PlayStation之前的广告曾提到了“PSX”，但在PlayStation推出之前，这个词就被取消了。\[25\]\[26\]
 
-据時任[索尼電腦娛樂的制作人赤川良二和主席](../Page/索尼電腦娛樂.md "wikilink")[丸山茂雄说](../Page/丸山茂雄.md "wikilink")，当时还不确定游戏机应该主要集中在[2D](../Page/二维计算机图形.md "wikilink")[精灵图形还是](../Page/精灵图.md "wikilink")[3D多边形图形](../Page/三维计算机图形.md "wikilink")。直到目睹了世嘉的3D实时渲染游戏《[VR战士](../Page/VR战士_\(游戏\).md "wikilink")》在日本成功之后，“PlayStation的开发方向立刻变得清晰起来”，3D多边形图形成为了游戏机开发的主要焦点。\[27\]
+据時任[索尼電腦娛樂的制作人赤川良二和主席](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[丸山茂雄说](https://zh.wikipedia.org/wiki/丸山茂雄 "wikilink")，当时还不确定游戏机应该主要集中在[2D](../Page/二维计算机图形.md "wikilink")[精灵图形还是](../Page/精灵图.md "wikilink")[3D多边形图形](../Page/三维计算机图形.md "wikilink")。直到目睹了世嘉的3D实时渲染游戏《[VR战士](https://zh.wikipedia.org/wiki/VR战士_\(游戏\) "wikilink")》在日本成功之后，“PlayStation的开发方向立刻变得清晰起来”，3D多边形图形成为了游戏机开发的主要焦点。\[27\]
 
 与世嘉不同，索尼没有街机部门来销售游戏机，也没有其他的内部部门来解决这个问题。为了解决这个问题，索尼收购了诸如的工作室，并与热门游戏出版商[南梦宫和](../Page/南梦宫.md "wikilink")[威廉姆斯娱乐签订了独家游戏开发和发行协议](../Page/WMS产业.md "wikilink")。\[28\]
 
@@ -44,11 +44,11 @@ Station”名称之间的空格，成为“PlayStation”。从而变成了一�
 
 ### 发售
 
-PlayStation于1994年12月3日在日本发行，\[30\]北美于1995年9月9日发行，\[31\]欧洲于1995年9月29日发行，\[32\][大洋洲于](../Page/大洋洲.md "wikilink")1995年11月15日发行。\[33\]这款游戏机在日本立刻大获成功，在上市的头六个月里就卖出了200多万台。\[34\]在美国，1995年4个月之内售出80万台，使PlayStation遥遥领先于其他同时代的游戏机，\[35\]但它仍然被老的[超级任天堂和](../Page/超级任天堂.md "wikilink")[Mega
+PlayStation于1994年12月3日在日本发行，\[30\]北美于1995年9月9日发行，\[31\]欧洲于1995年9月29日发行，\[32\][大洋洲于](../Page/大洋洲.md "wikilink")1995年11月15日发行。\[33\]这款游戏机在日本立刻大获成功，在上市的头六个月里就卖出了200多万台。\[34\]在美国，1995年4个月之内售出80万台，使PlayStation遥遥领先于其他同时代的游戏机，\[35\]但它仍然被老的[超级任天堂和](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[Mega
 Drive打败](../Page/Mega_Drive.md "wikilink")。\[36\]PlayStation的美国的发售价格为。\[37\]索尼几乎在所有类型的游戏中都获得了成功，比如《》，《》，《[皇牌空战](../Page/皇牌空战_\(游戏\).md "wikilink")》，《》,
-《[山脊赛车](../Page/山脊赛车.md "wikilink")》和《[雷曼](../Page/雷曼_\(游戏\).md "wikilink")》。与当时绝大多数的游戏机不同的是，PlayStation在发布时没有捆绑销售游戏。\[38\]索尼发布后的几个月软件销售强劲，主机和游戏软件的销售量比率约为1:4。\[39\]
+《[山脊赛车](https://zh.wikipedia.org/wiki/山脊赛车 "wikilink")》和《[雷曼](https://zh.wikipedia.org/wiki/雷曼_\(游戏\) "wikilink")》。与当时绝大多数的游戏机不同的是，PlayStation在发布时没有捆绑销售游戏。\[38\]索尼发布后的几个月软件销售强劲，主机和游戏软件的销售量比率约为1:4。\[39\]
 
-[微软董事长](../Page/微软.md "wikilink")[比尔·盖茨相比世嘉而言更喜欢索尼的游戏机](../Page/比尔·盖茨.md "wikilink")，他说：“我们的游戏设计师喜欢索尼的机器。”\[40\]微软在后来设计开发了[Xbox视频游戏主机](../Page/Xbox.md "wikilink")，用来与索尼竞争。在1995年5月的一场特殊的游戏机器交叉评测中，[Fami通为PlayStation评分](../Page/Fami通.md "wikilink")19分，满分40分。\[41\]在北美上市几周后，《》的员工就对PlayStation进行了评测。他们评论说：虽然CPU是非常普通的，但是它的GPU和声音处理器等辅助硬件的功能非常强大。他们特别赞扬了它对3D技术的关注，并积极评价了PlayStation控制器的舒适性和存储卡的便利性。并给主机4.5颗星，他们总结道:“要想在这个竞争激烈的市场上取得成功，你需要强大的硬件、出色的游戏和出色的营销。”无论是凭借技术、运气还是财大气粗，索尼在这场战争的第一波攻势中取得了三分之一的好成绩。\[42\]在销售主机时的广告语是：“Live
+[微软董事长](../Page/微软.md "wikilink")[比尔·盖茨相比世嘉而言更喜欢索尼的游戏机](../Page/比尔·盖茨.md "wikilink")，他说：“我们的游戏设计师喜欢索尼的机器。”\[40\]微软在后来设计开发了[Xbox视频游戏主机](https://zh.wikipedia.org/wiki/Xbox "wikilink")，用来与索尼竞争。在1995年5月的一场特殊的游戏机器交叉评测中，[Fami通为PlayStation评分](../Page/Fami通.md "wikilink")19分，满分40分。\[41\]在北美上市几周后，《》的员工就对PlayStation进行了评测。他们评论说：虽然CPU是非常普通的，但是它的GPU和声音处理器等辅助硬件的功能非常强大。他们特别赞扬了它对3D技术的关注，并积极评价了PlayStation控制器的舒适性和存储卡的便利性。并给主机4.5颗星，他们总结道:“要想在这个竞争激烈的市场上取得成功，你需要强大的硬件、出色的游戏和出色的营销。”无论是凭借技术、运气还是财大气粗，索尼在这场战争的第一波攻势中取得了三分之一的好成绩。\[42\]在销售主机时的广告语是：“Live
 in your world. Play in ours.”。实际上标语为：“LIVE IN
 Y[PlayStationCircle.svg](https://zh.wikipedia.org/wiki/File:PlayStationCircle.svg "fig:PlayStationCircle.svg")UR
 W[PlayStationX.svg](https://zh.wikipedia.org/wiki/File:PlayStationX.svg "fig:PlayStationX.svg")RLD.
@@ -56,21 +56,21 @@ PL[PlayStationTriangle.svg](https://zh.wikipedia.org/wiki/File:PlayStationTriang
 IN
 [PlayStationSquare.svg](https://zh.wikipedia.org/wiki/File:PlayStationSquare.svg "fig:PlayStationSquare.svg")URS.」
 其他的标语类似于：“You Are Not Ready”或“U R NOT
-.”\[43\]索尼的首席文化官[李·克勞解释说](../Page/李·克勞.md "wikilink"):“这是一个终极挑战。游戏玩家喜欢回应那句口号，然后说“胡说”。让我来告诉你我准备得多么充分。\[44\]
+.”\[43\]索尼的首席文化官[李·克勞解释说](https://zh.wikipedia.org/wiki/李·克勞 "wikilink"):“这是一个终极挑战。游戏玩家喜欢回应那句口号，然后说“胡说”。让我来告诉你我准备得多么充分。\[44\]
 
 ### 市场的成功
 
 PlayStation成功的关键因素之一是索尼对第三方开发者的态度。世嘉和任天堂采用了孤立主义的方法，通常专注于第一方的开发而使第三方开发者自己开发研究游戏。索尼努力简化了游戏制作中的各种问题和麻烦。通过提供一系列的编程库在线更新，组织第三方技术支持开发团队，在某些情况下直接给第三方公司提供支持帮助等。\[45\]在1996年末，PlayStation大约有400款游戏正在开发中，相比之下，[世嘉土星大约有](../Page/世嘉土星.md "wikilink")200款游戏在开发中，[任天堂64只有](../Page/任天堂64.md "wikilink")60款。\[46\]
 
-虽然世嘉土星的销售对象是18到34岁的年轻人，但它的市场营销范围大致相当，但并不仅限于12岁至24岁的人群。\[47\]世嘉和索尼都认为，年轻的玩家通常会崇拜年长、经验丰富的玩家，他们会被针对青少年和成年人的广告所吸引。此外，索尼还发现，针对青少年的广告最适合针对成年人：根据[李·克勞的说法](../Page/李·克勞.md "wikilink")，“我们早期解决的问题之一是，每个人在玩电子游戏的时候都是17岁。”年轻人崇拜最优秀的游戏玩家，他们通常年纪更大，更老练，更有天赋。还有人开始工作、长大，但当他们走进自己的房间，坐下来玩电子游戏时，他们又年轻了起来，又回到了17岁。\[48\]起初，PlayStation的用户群偏向于成年人，但在第一次价格下跌后，用户群开始扩大。\[49\]
+虽然世嘉土星的销售对象是18到34岁的年轻人，但它的市场营销范围大致相当，但并不仅限于12岁至24岁的人群。\[47\]世嘉和索尼都认为，年轻的玩家通常会崇拜年长、经验丰富的玩家，他们会被针对青少年和成年人的广告所吸引。此外，索尼还发现，针对青少年的广告最适合针对成年人：根据[李·克勞的说法](https://zh.wikipedia.org/wiki/李·克勞 "wikilink")，“我们早期解决的问题之一是，每个人在玩电子游戏的时候都是17岁。”年轻人崇拜最优秀的游戏玩家，他们通常年纪更大，更老练，更有天赋。还有人开始工作、长大，但当他们走进自己的房间，坐下来玩电子游戏时，他们又年轻了起来，又回到了17岁。\[48\]起初，PlayStation的用户群偏向于成年人，但在第一次价格下跌后，用户群开始扩大。\[49\]
 
-1996年，市场对PlayStation游戏的高需求促使索尼决定扩大其在[俄勒冈州的CD生产工厂](../Page/斯普林菲尔德_\(俄勒冈州\).md "wikilink")，将其月产量从400万张增加到650万张。\[50\]PlayStation的销量是世嘉土星销量的两倍，当PlayStation和土星5月价格跌至199美元时，索尼的领先优势也大幅提升，这在很大程度上是因为一些零售商（如[KB_Toys](../Page/KB_Toys.md "wikilink")）没有备货土星。\[51\]1996年，PlayStation游戏机在欧洲的销量与土星不相上下。\[52\]
+1996年，市场对PlayStation游戏的高需求促使索尼决定扩大其在[俄勒冈州的CD生产工厂](../Page/斯普林菲尔德_\(俄勒冈州\).md "wikilink")，将其月产量从400万张增加到650万张。\[50\]PlayStation的销量是世嘉土星销量的两倍，当PlayStation和土星5月价格跌至199美元时，索尼的领先优势也大幅提升，这在很大程度上是因为一些零售商（如[KB_Toys](https://zh.wikipedia.org/wiki/KB_Toys "wikilink")）没有备货土星。\[51\]1996年，PlayStation游戏机在欧洲的销量与土星不相上下。\[52\]
 
 PlayStation花了更多的时间在日本取得电子游戏中的统治地位。索尼电脑娱乐总裁德中晖久表示，PlayStation和世嘉土星上市近两年之后，两家公司之间的竞争仍“非常激烈”，两款游戏机的销量在相当长的时间内都无法保持领先地位。\[53\]
 
 ## 功能
 
-PlayStation除了玩PlayStation游戏，还能播放[音频CD](../Page/音频CD.md "wikilink")。在亚洲发行的型号SCPH-5903还能播放[视频CD](../Page/影音光碟.md "wikilink")\[54\]和大多数的CD播放器一样，PlayStation能够随机播放CD歌曲、按顺序播放歌曲、重复播放单首歌曲或重复播放整张CD。后来发行的PlayStation机型可以使用一种叫做SoundScope的音乐可视化功能。\[55\]不插入游戏光盘或打开CD托盘的情况下来启动主机，就可以进入播放CD以及存储卡管理器的功能，这实际上是访问了PlayStation
+PlayStation除了玩PlayStation游戏，还能播放[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")。在亚洲发行的型号SCPH-5903还能播放[视频CD](https://zh.wikipedia.org/wiki/影音光碟 "wikilink")\[54\]和大多数的CD播放器一样，PlayStation能够随机播放CD歌曲、按顺序播放歌曲、重复播放单首歌曲或重复播放整张CD。后来发行的PlayStation机型可以使用一种叫做SoundScope的音乐可视化功能。\[55\]不插入游戏光盘或打开CD托盘的情况下来启动主机，就可以进入播放CD以及存储卡管理器的功能，这实际上是访问了PlayStation
 BIOS的菜单。\[56\]\[57\]
 
 PS
@@ -115,7 +115,7 @@ Bar都也是如此。\[66\]但是有一些游戏，比如[史克威爾的](../Pa
 
 ### 控制器
 
-PlayStation控制器使用的是四个方向按钮，而不是[十字键](../Page/十字键.md "wikilink")，市面上基本所有游戏机都使用十字键来进行定向移动。\[81\]
+PlayStation控制器使用的是四个方向按钮，而不是[十字键](https://zh.wikipedia.org/wiki/十字键 "wikilink")，市面上基本所有游戏机都使用十字键来进行定向移动。\[81\]
 
 ### 外围设备
 
@@ -129,15 +129,15 @@ PlayStation的外围设备包括存储卡、\[82\]、\[83\]、\[84\]、\[85\]多
     R3051 （[33.8688 MHz](../Page/时钟频率.md "wikilink")）\[89\]
   - **MDEC**：用于播放FMV的视频解码器\[90\]
   - **[内存](../Page/随机存取存储器.md "wikilink")**：主内存2
-    [MB](../Page/Mebibyte.md "wikilink")，[视频内存](../Page/VRAM.md "wikilink")1
+    [MB](../Page/Mebibyte.md "wikilink")，[视频内存](https://zh.wikipedia.org/wiki/VRAM "wikilink")1
     MB\[91\]
   - **图像**：专用图像处理器与几何变换引擎（GTE）\[92\]\[93\]可以进行[二维图形旋转](../Page/二维计算机图形.md "wikilink")，缩放([2.5D](../Page/偽三維.md "wikilink"))，透明度和衰落，还可以处理[三维图形的](../Page/三维计算机图形.md "wikilink")[仿射纹理映射和](../Page/材质贴图.md "wikilink")[浓淡处理](../Page/浓淡处理.md "wikilink")\[94\]
   - **输出颜色**: 1670万色([真彩色](../Page/色彩深度.md "wikilink"))\[95\]
   - **[最大图像精灵数量](../Page/精灵图.md "wikilink")**：4000\[96\]
   - ****：18万每秒（[材质贴图](../Page/材质贴图.md "wikilink")），36万每秒（）
-  - **[显示分辨率](../Page/显示分辨率列表.md "wikilink")**：256×224至640×480
-    [像素](../Page/像素.md "wikilink")（最大[480i](../Page/480i.md "wikilink")）\[97\]
-  - **音频**：16位，24通道[ADPCM](../Page/ADPCM.md "wikilink")\[98\]
+  - **[显示分辨率](https://zh.wikipedia.org/wiki/显示分辨率列表 "wikilink")**：256×224至640×480
+    [像素](../Page/像素.md "wikilink")（最大[480i](https://zh.wikipedia.org/wiki/480i "wikilink")）\[97\]
+  - **音频**：16位，24通道[ADPCM](https://zh.wikipedia.org/wiki/ADPCM "wikilink")\[98\]
 
 ## 机型
 
@@ -158,7 +158,7 @@ one。\[106\]\[107\] 一个版本的PS one包含了一块
 ## 继任者
 
 PlayStation的继任者是[PlayStation
-2](../Page/PlayStation_2.md "wikilink")，其支持[向后兼容游玩差不多所有PlayStation游戏](../Page/向后兼容.md "wikilink")。
+2](../Page/PlayStation_2.md "wikilink")，其支持[向后兼容游玩差不多所有PlayStation游戏](https://zh.wikipedia.org/wiki/向后兼容 "wikilink")。
 
 第三代PlayStation，即[PlayStation
 3](../Page/PlayStation_3.md "wikilink")，于2006年11月11日在日本上市，2006年11月17日在北美上市，2007年3月23日在欧洲上市。PlayStation
@@ -172,7 +172,7 @@ GB版本（第一个PS3版本）可以通过通过情感引擎和/或现实模�
 Now的串流服务，向后兼容PS3游戏。\[111\]\[112\]
 
 [PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")，是2004年末PlayStation系列的首个[掌上遊戲機](../Page/掌上遊戲機.md "wikilink")。PlayStation
+Portable](../Page/PlayStation_Portable.md "wikilink")，是2004年末PlayStation系列的首个[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")。PlayStation
 Portable能够通过[PlayStation
 Store下载PlayStation游戏进行游玩](../Page/PlayStation_Store.md "wikilink")，也可以通过PlayStation
 3的远程游玩功能来游玩任何PlayStation游戏。\[113\]\[114\]\[115\]
@@ -183,7 +183,7 @@ Store下载的PlayStation Portable以及PlayStation游戏。\[116\]\[117\]
 
 ## 影響
 
-1994年末，[索尼電腦娛樂是视频游戏行业的新贵](../Page/索尼電腦娛樂.md "wikilink")，上世纪90年代初，任天堂和世嘉占据了视频游戏行业的主导地位。自1985年任天堂推出[红白机以来](../Page/红白机.md "wikilink")，任天堂一直是视频游戏行业的领跑者。人们最初估计，[任天堂64将继续保持这一地位](../Page/任天堂64.md "wikilink")。PlayStation的目标受众包括15到17岁的儿童，18至29岁的成人，\[118\]是第一代玩视频游戏长大的人。1990年代末，索尼凭借PlayStation游戏机成为备受推崇的游戏机品牌，远远领先于排名第二的任天堂，世嘉则被远远甩至第三位。\[119\]
+1994年末，[索尼電腦娛樂是视频游戏行业的新贵](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")，上世纪90年代初，任天堂和世嘉占据了视频游戏行业的主导地位。自1985年任天堂推出[红白机以来](../Page/红白机.md "wikilink")，任天堂一直是视频游戏行业的领跑者。人们最初估计，[任天堂64将继续保持这一地位](../Page/任天堂64.md "wikilink")。PlayStation的目标受众包括15到17岁的儿童，18至29岁的成人，\[118\]是第一代玩视频游戏长大的人。1990年代末，索尼凭借PlayStation游戏机成为备受推崇的游戏机品牌，远远领先于排名第二的任天堂，世嘉则被远远甩至第三位。\[119\]
 
 PlayStation在基础硬件和开发者支持方面的领先地位为下一代[PlayStation
 2的成功铺平了道路](../Page/PlayStation_2.md "wikilink")。新一代[PlayStation
@@ -199,7 +199,7 @@ PlayStation在基础硬件和开发者支持方面的领先地位为下一代[Pl
 
 ## 参见
 
-  - [PlayStation游戏列表](../Page/PlayStation游戏列表.md "wikilink")
+  - [PlayStation游戏列表](https://zh.wikipedia.org/wiki/PlayStation游戏列表 "wikilink")
 
   -
   -
@@ -431,7 +431,7 @@ PlayStation在基础硬件和开发者支持方面的领先地位为下一代[Pl
      VITA
      TV](https://web.archive.org/web/20131029195146/http://scei.co.jp/corporate/release/pdf/130909c_e.pdf)
      (Corporate Release), [Sony Computer
-     Entertainment](../Page/Sony_Computer_Entertainment.md "wikilink")
+     Entertainment](https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment "wikilink")
 
 118.
 
