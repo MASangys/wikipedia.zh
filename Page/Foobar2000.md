@@ -1,14 +1,14 @@
-是一款[免費的的](../Page/免費软件.md "wikilink")[音频播放器软件](../Page/音频播放器.md "wikilink")，开发者为波兰人Piotr
+是一款[免費的的](https://zh.wikipedia.org/wiki/免費软件 "wikilink")[音频播放器软件](https://zh.wikipedia.org/wiki/音频播放器 "wikilink")，开发者为波兰人Piotr
 Pawłowski（英文名Peter
-Pawlowski，原[Winamp开发公司](../Page/Winamp.md "wikilink")[Nullsoft成员](../Page/Nullsoft.md "wikilink")）。除了播放之外，它还支持生成[媒体库](../Page/媒体库.md "wikilink")、[转换媒体文件编码](../Page/转换媒体文件.md "wikilink")、提取[CD等功能](../Page/CD.md "wikilink")。它是一款功能强大的工具。foobar2000之所以出现，在于Peter不满于[Winamp](../Page/Winamp.md "wikilink")
+Pawlowski，原[Winamp开发公司](../Page/Winamp.md "wikilink")[Nullsoft成员](https://zh.wikipedia.org/wiki/Nullsoft "wikilink")）。除了播放之外，它还支持生成[媒体库](https://zh.wikipedia.org/wiki/媒体库 "wikilink")、[转换媒体文件编码](https://zh.wikipedia.org/wiki/转换媒体文件 "wikilink")、提取[CD等功能](../Page/CD.md "wikilink")。它是一款功能强大的工具。foobar2000之所以出现，在于Peter不满于[Winamp](../Page/Winamp.md "wikilink")
 2.x的[插件体系架构和更倾向于图形](../Page/插件.md "wikilink")、外觀的发展方向的Winamp
 3。于2016年5月9日推出了Android版本\[1\]，2016年5月11日发布了iOS版本\[2\] 。
 
 ## 对MP3格式的解码性能以及回放音质
 
 in_mpg123是由Michael
-Hipp开发的一个[Unix下的](../Page/Unix.md "wikilink")[mp3](../Page/mp3.md "wikilink")
-[解码器](../Page/解码器.md "wikilink")，解码速度快且品質好，有许多软件都使用mpg123来解码mp3，如大名鼎鼎的[LAME](../Page/LAME.md "wikilink")。但[mpg123在](../Page/mpg123.md "wikilink")1999年发布了mpg123
+Hipp开发的一个[Unix下的](https://zh.wikipedia.org/wiki/Unix "wikilink")[mp3](https://zh.wikipedia.org/wiki/mp3 "wikilink")
+[解码器](https://zh.wikipedia.org/wiki/解码器 "wikilink")，解码速度快且品質好，有许多软件都使用mpg123来解码mp3，如大名鼎鼎的[LAME](../Page/LAME.md "wikilink")。但[mpg123在](https://zh.wikipedia.org/wiki/mpg123 "wikilink")1999年发布了mpg123
 pre0.59s后就停止开发了，代码中还有许多bug。
 
 而Naoki
@@ -21,9 +21,9 @@ Pawlowski)就是foobar2000的作者之一，当时开发组在讨论foobar2000�
 ## 特性
 
   - 开放的组件结构，第三方开发者得以扩充播放器的功能
-  - [Windows](../Page/Windows.md "wikilink")
-    NT/2000/XP平台下的完全[Unicode支持](../Page/Unicode.md "wikilink")
-  - 支援[回放增益](../Page/回放增益.md "wikilink")（[英文](../Page/英文.md "wikilink")：[*ReplayGain*](../Page/回放增益.md "wikilink")）
+  - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
+    NT/2000/XP平台下的完全[Unicode支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")
+  - 支援[回放增益](../Page/回放增益.md "wikilink")（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[*ReplayGain*](../Page/回放增益.md "wikilink")）
   - 低内存佔用，可高效率处理庞大的播放列表
   - 具备高级文件訊息处理能力（通用文件信息框和批量标记器）
   - 可高度自定义的播放列表
@@ -33,21 +33,21 @@ Pawlowski)就是foobar2000的作者之一，当时开发组在讨论foobar2000�
   - 音乐数据库
   - 支援流式播放
   - 支援扩展插件
-  - [免费軟體](../Page/免费軟體.md "wikilink")
+  - [免费軟體](https://zh.wikipedia.org/wiki/免费軟體 "wikilink")
 
 ## 支援的音频格式
 
 内核支援的格式：
 
-  - [MP1](../Page/MPEG-1_Audio_Layer_I.md "wikilink")、[MP2](../Page/MP2.md "wikilink")、[MP3](../Page/MP3.md "wikilink")、[MP4](../Page/MP4.md "wikilink")、[MPC](../Page/Musepack.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[Ogg
-    Vorbis](../Page/Ogg_Vorbis.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[ALAC](../Page/ALAC.md "wikilink")、[WavPack](../Page/WavPack.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[AIFF](../Page/AIFF.md "wikilink")、[AU](../Page/AU.md "wikilink")、[SND](../Page/SND.md "wikilink")、[CDDA](../Page/CDDA.md "wikilink")、[WMA](../Page/WMA.md "wikilink")、[Opus](../Page/Opus.md "wikilink")、[Speex](../Page/Speex.md "wikilink")
+  - [MP1](https://zh.wikipedia.org/wiki/MPEG-1_Audio_Layer_I "wikilink")、[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")、[MP3](../Page/MP3.md "wikilink")、[MP4](../Page/MP4.md "wikilink")、[MPC](../Page/Musepack.md "wikilink")、[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[Ogg
+    Vorbis](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[ALAC](https://zh.wikipedia.org/wiki/ALAC "wikilink")、[WavPack](../Page/WavPack.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")、[AU](https://zh.wikipedia.org/wiki/AU "wikilink")、[SND](https://zh.wikipedia.org/wiki/SND "wikilink")、[CDDA](../Page/CDDA.md "wikilink")、[WMA](https://zh.wikipedia.org/wiki/WMA "wikilink")、[Opus](https://zh.wikipedia.org/wiki/Opus "wikilink")、[Speex](https://zh.wikipedia.org/wiki/Speex "wikilink")
 
 通过插件支援的格式：
 
-  - [TTA](../Page/TTA.md "wikilink")、[APE](../Page/APE.md "wikilink")、[Mod](../Page/Mod.md "wikilink")、[SPC](../Page/SPC.md "wikilink")、[TFMX](../Page/TFMX.md "wikilink")、[Shorten](../Page/Shorten.md "wikilink")、[La](../Page/La.md "wikilink")、[OptimFROG](../Page/OptimFROG.md "wikilink")、[LPAC](../Page/LPAC.md "wikilink")、[AC-3](../Page/AC-3.md "wikilink")、[DSD](../Page/DSD.md "wikilink")、[DFF](../Page/DFF.md "wikilink")、[Midi](../Page/Midi.md "wikilink")、[PSF](../Page/PSF.md "wikilink")、[NSF](../Page/NSF.md "wikilink")、[XID](../Page/XID.md "wikilink")、[XA](../Page/XA.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")、[TAK](../Page/TAK.md "wikilink")、[GBS](../Page/GBS.md "wikilink")、[minigsf](../Page/minigsf.md "wikilink")、[lrc](../Page/lrc.md "wikilink")（動態歌詞編輯存檔）等
+  - [TTA](../Page/TTA.md "wikilink")、[APE](https://zh.wikipedia.org/wiki/APE "wikilink")、[Mod](https://zh.wikipedia.org/wiki/Mod "wikilink")、[SPC](https://zh.wikipedia.org/wiki/SPC "wikilink")、[TFMX](https://zh.wikipedia.org/wiki/TFMX "wikilink")、[Shorten](https://zh.wikipedia.org/wiki/Shorten "wikilink")、[La](https://zh.wikipedia.org/wiki/La "wikilink")、[OptimFROG](https://zh.wikipedia.org/wiki/OptimFROG "wikilink")、[LPAC](https://zh.wikipedia.org/wiki/LPAC "wikilink")、[AC-3](https://zh.wikipedia.org/wiki/AC-3 "wikilink")、[DSD](https://zh.wikipedia.org/wiki/DSD "wikilink")、[DFF](https://zh.wikipedia.org/wiki/DFF "wikilink")、[Midi](https://zh.wikipedia.org/wiki/Midi "wikilink")、[PSF](https://zh.wikipedia.org/wiki/PSF "wikilink")、[NSF](https://zh.wikipedia.org/wiki/NSF "wikilink")、[XID](https://zh.wikipedia.org/wiki/XID "wikilink")、[XA](https://zh.wikipedia.org/wiki/XA "wikilink")、[Matroska](../Page/Matroska.md "wikilink")、[TAK](../Page/TAK.md "wikilink")、[GBS](../Page/GBS.md "wikilink")、[minigsf](https://zh.wikipedia.org/wiki/minigsf "wikilink")、[lrc](https://zh.wikipedia.org/wiki/lrc "wikilink")（動態歌詞編輯存檔）等
 
 另外，foobar2000还可以通过**插件**“*ZIP/GZIP/RAR Reader*”（自带插件）和“[*7-Zip
-reader*](http://www.foobar2000.org/components/view/foo_unpack_7z)”，直接播放[RAR](../Page/RAR.md "wikilink")、[ZIP和](../Page/ZIP_\(算法\).md "wikilink")[7-Zip格式的压缩包中的音乐文件](../Page/7-Zip.md "wikilink")，而无需用户事先解压缩。
+reader*](http://www.foobar2000.org/components/view/foo_unpack_7z)”，直接播放[RAR](../Page/RAR.md "wikilink")、[ZIP和](https://zh.wikipedia.org/wiki/ZIP_\(算法\) "wikilink")[7-Zip格式的压缩包中的音乐文件](../Page/7-Zip.md "wikilink")，而无需用户事先解压缩。
 
 ## 備註
 
@@ -58,13 +58,14 @@ x86平台通过[Wine运行程序](../Page/Wine.md "wikilink")，只是Columns UI
 ## 参见
 
   - [Airplay](../Page/Airplay.md "wikilink")
-  - [Mcool](../Page/Mcool.md "wikilink")
+  - [Mcool](https://zh.wikipedia.org/wiki/Mcool "wikilink")
   - [Winamp](../Page/Winamp.md "wikilink")
-  - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink")
-  - [千千静听](../Page/千千静听.md "wikilink")
+  - [Windows Media
+    Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
+  - [千千静听](https://zh.wikipedia.org/wiki/千千静听 "wikilink")
   - [媒体播放器列表](../Page/媒体播放器列表.md "wikilink")
-  - [媒体播放器比较](../Page/媒体播放器比较.md "wikilink")
-  - [绿色软件](../Page/绿色软件.md "wikilink")
+  - [媒体播放器比较](https://zh.wikipedia.org/wiki/媒体播放器比较 "wikilink")
+  - [绿色软件](https://zh.wikipedia.org/wiki/绿色软件 "wikilink")
 
 ## 注釋
 
@@ -87,7 +88,7 @@ x86平台通过[Wine运行程序](../Page/Wine.md "wikilink")，只是Columns UI
 
   - [擴充元件下載（Official Plugins）](https://www.foobar2000.org/components/)
 
-  - [freenode上的](../Page/freenode.md "wikilink")[\#foobar2000](irc://irc.freenode.net/foobar2000)—討論及支援
+  - [freenode上的](https://zh.wikipedia.org/wiki/freenode "wikilink")[\#foobar2000](irc://irc.freenode.net/foobar2000)—討論及支援
 
 ### 其他連結
 

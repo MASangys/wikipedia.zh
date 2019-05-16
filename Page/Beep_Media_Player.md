@@ -4,7 +4,7 @@
 
 ## 全新版本
 
-在0.9.7.1發佈時，BMP開發小組同時宣佈BMP將不再開發。取而代之的是開發一個全新版本的BMP，並命名為[BMPx](../Page/BMPx.md "wikilink")。
+在0.9.7.1發佈時，BMP開發小組同時宣佈BMP將不再開發。取而代之的是開發一個全新版本的BMP，並命名為[BMPx](https://zh.wikipedia.org/wiki/BMPx "wikilink")。
 
 ## BMP分支 - [Audacious](../Page/Audacious.md "wikilink")
 
@@ -20,8 +20,8 @@
 
 ## 參見條目
 
-  - [媒體播放器列表](../Page/媒體播放器列表.md "wikilink")
-  - [媒體播放器比較](../Page/媒體播放器比較.md "wikilink")
+  - [媒體播放器列表](https://zh.wikipedia.org/wiki/媒體播放器列表 "wikilink")
+  - [媒體播放器比較](https://zh.wikipedia.org/wiki/媒體播放器比較 "wikilink")
 
 ## 外部連結
 

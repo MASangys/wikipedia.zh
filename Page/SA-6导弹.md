@@ -1,6 +1,6 @@
 [KUB_NTW_9_93.jpg](https://zh.wikipedia.org/wiki/File:KUB_NTW_9_93.jpg "fig:KUB_NTW_9_93.jpg")
 **SA-6**机动式中低空中程野战地对空导弹系统，苏联代号**2K12 立方体**，或音译‘卡勃’；或译作‘库班河’（Kub, Russian
-"Куб"）。1959年开始由苏联[托罗波夫OKB-134特种工程设计局研制](../Page/托罗波夫“信号旗”国家机械制造设计局.md "wikilink")，是[伊凡·伊凡诺维奇·托罗波夫一生的最后作品](../Page/伊凡·伊凡诺维奇·托罗波夫.md "wikilink")。莫斯科**信号旗**机械制造设计局（俄罗斯最大的空对空导弹设计局）与吉哈米洛夫仪器设计科学研究院（Tikhomirov
+"Куб"）。1959年开始由苏联[托罗波夫OKB-134特种工程设计局研制](https://zh.wikipedia.org/wiki/托罗波夫“信号旗”国家机械制造设计局 "wikilink")，是[伊凡·伊凡诺维奇·托罗波夫一生的最后作品](https://zh.wikipedia.org/wiki/伊凡·伊凡诺维奇·托罗波夫 "wikilink")。莫斯科**信号旗**机械制造设计局（俄罗斯最大的空对空导弹设计局）与吉哈米洛夫仪器设计科学研究院（Tikhomirov
 Scientific Reseach Institute of Instrument
 Design，英文简称为**NIIP**，俄罗斯最大的机载雷达设计单位）负责制造。西方称2K12为SA-6(美国防部代号)
 "**Gainful根弗**"（北约代号）（或译作‘利益’‘有利’Gainful）。1967年定型。1983－1985年停产。
@@ -29,7 +29,7 @@ Design，英文简称为**NIIP**，俄罗斯最大的机载雷达设计单位）
 
 ## 导弹
 
-导弹有效射程为3-24km有效射高为50-12000m。导弹重600kg，弹头重56kg，最大速度2.8马赫。世界上第一种采用整体式固体冲压和[固体火箭组合发动机的导弹](../Page/固体火箭.md "wikilink")，即导弹使用固体火箭起飞达到1.5马赫，燃烧完的火箭成为[冲压发动机的燃烧室](../Page/冲压发动机.md "wikilink")，这是领先于时代的推进技术。迎头拦截时目标最大速度2M，尾追攻击时目标最大速度1M。
+导弹有效射程为3-24km有效射高为50-12000m。导弹重600kg，弹头重56kg，最大速度2.8马赫。世界上第一种采用整体式固体冲压和[固体火箭组合发动机的导弹](https://zh.wikipedia.org/wiki/固体火箭 "wikilink")，即导弹使用固体火箭起飞达到1.5马赫，燃烧完的火箭成为[冲压发动机的燃烧室](../Page/冲压发动机.md "wikilink")，这是领先于时代的推进技术。迎头拦截时目标最大速度2M，尾追攻击时目标最大速度1M。
 
 ## 电子设备
 
@@ -37,7 +37,7 @@ Design，英文简称为**NIIP**，俄罗斯最大的机载雷达设计单位）
 G/H波段连续波雷达（作用距离75千米，作用高度10千米），同车配有一套作用距离25千米的光学观瞄。采用全程半主动寻的制导，1S91雷达在75千米距离上截获空中目标，在28千米距离处开始照射制导。敌我识别也由此雷达完成。1S91上部是可折叠的2.1米直径碟形雷达天线，用于圆锥扫描（conical
 scanning）作用距离28千米，也用于H波段低空搜索、目标跟踪照射。1S91下部的3.6米长抛物面形雷达天线工作于G波段，担负中空目标获取与早期预警，有效探测距离55-75千米。两部雷达可以互相独立旋转。
 
-无线电命令制导以及末段半主动雷道寻的制导（[SARH](../Page/SARH.md "wikilink")）。可同时制导3枚导弹打击一个目标。也可以同时跟踪6个空中目标并同时引导2枚导弹。出于隐蔽打击目的或强烈电磁干扰情况下也可不使用雷达通过光学观瞄作战。
+无线电命令制导以及末段半主动雷道寻的制导（[SARH](https://zh.wikipedia.org/wiki/SARH "wikilink")）。可同时制导3枚导弹打击一个目标。也可以同时跟踪6个空中目标并同时引导2枚导弹。出于隐蔽打击目的或强烈电磁干扰情况下也可不使用雷达通过光学观瞄作战。
 
 团级统一使用2K12防空作战时，还可以与下列雷达协同：
 
@@ -48,7 +48,7 @@ scanning）作用距离28千米，也用于H波段低空搜索、目标跟踪照
       - "记分板Score Board"敌我识别雷达
 
 "匙架Spoon Rest"与"薄皮Thin Skin"装在一辆卡车上，"长轨迹Long
-Track"安装在改进的[AT-T履带车上](../Page/AT-T.md "wikilink")，"平面Flat
+Track"安装在改进的[AT-T履带车上](https://zh.wikipedia.org/wiki/AT-T "wikilink")，"平面Flat
 Face" 装在越野卡车上。
 
 如果没有P-40 "长轨迹Long Track"机动雷达车，SA-6不能跟踪高空目标。
@@ -58,7 +58,7 @@ Face" 装在越野卡车上。
 在苏联军队中，SA-6编成导弹团作战。每个团辖2部P-40“Long Track”雷达，一部“Thin Skin”雷达，以及五个导弹连。
 
 每个导弹连都可独立完成防空作战，配备1部指挥车、1部履带底盘的1S91制导照射雷达、4辆三联装履带式导弹发射车、
-四辆6X6ZIL131卡车每车携带三枚备用导弹，卡车尾部有起重臂，以及1辆电源车、1辆供油车。[SA-N-3与SA](../Page/SA-N-3.md "wikilink")-6并无关系。战斗准备就绪条件下从目标截获到发射导弹反应时间为10-15秒。从卡车向发射车重装填导弹约需10分钟。从设备关机到重新部署阵地需15分钟。
+四辆6X6ZIL131卡车每车携带三枚备用导弹，卡车尾部有起重臂，以及1辆电源车、1辆供油车。[SA-N-3与SA](https://zh.wikipedia.org/wiki/SA-N-3 "wikilink")-6并无关系。战斗准备就绪条件下从目标截获到发射导弹反应时间为10-15秒。从卡车向发射车重装填导弹约需10分钟。从设备关机到重新部署阵地需15分钟。
 
 导弹连的履带底盘均为TELAR（ZIS-23-4高炮也用此底盘），[乌里扬诺夫斯克机械厂制造](../Page/乌里扬诺夫斯克.md "wikilink")，六对负重轮，驱动轮在后，无承重轮，全焊接车身，乘员舱在前，发动机舱在后。有空气滤清设备、超压核生化防护、红外夜视设备，无两栖能力。承载导弹转盘可360度旋转，导弹发射最大仰角85度。行车时导弹指向车后部，保持水平以减小发射车的高度。
 
@@ -68,9 +68,9 @@ SA-6系统与SA-4系统共享许多部件。从设计来说，二者是互补使
 
 SA-6出口到28个国家：
 
-[阿尔及利亚](../Page/阿尔及利亚.md "wikilink")、[安哥拉](../Page/安哥拉.md "wikilink")、[保加利亚](../Page/保加利亚.md "wikilink")、[古巴](../Page/古巴.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[几内亚比绍](../Page/几内亚比绍.md "wikilink")、[圭亚那](../Page/圭亚那.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[印度](../Page/印度.md "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")、[科威特](../Page/科威特.md "wikilink")、[利比亚](../Page/利比亚.md "wikilink")、[马耳他](../Page/马耳他.md "wikilink")、[莫桑比克](../Page/莫桑比克.md "wikilink")、[秘鲁](../Page/秘鲁.md "wikilink")、[波兰](../Page/波兰.md "wikilink")、[罗马尼亚](../Page/罗马尼亚.md "wikilink")、[索马里](../Page/索马里.md "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[坦桑尼亚](../Page/坦桑尼亚.md "wikilink")、[捷克](../Page/捷克.md "wikilink")、[斯洛伐克](../Page/斯洛伐克.md "wikilink")、[越南](../Page/越南.md "wikilink")、[也门](../Page/也门.md "wikilink")、[朝鲜](../Page/朝鲜.md "wikilink")、[南斯拉夫与](../Page/南斯拉夫.md "wikilink")[赞比亚](../Page/赞比亚.md "wikilink")。
+[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、[安哥拉](../Page/安哥拉.md "wikilink")、[保加利亚](https://zh.wikipedia.org/wiki/保加利亚 "wikilink")、[古巴](../Page/古巴.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[几内亚比绍](https://zh.wikipedia.org/wiki/几内亚比绍 "wikilink")、[圭亚那](../Page/圭亚那.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[印度](../Page/印度.md "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")、[科威特](../Page/科威特.md "wikilink")、[利比亚](../Page/利比亚.md "wikilink")、[马耳他](../Page/马耳他.md "wikilink")、[莫桑比克](../Page/莫桑比克.md "wikilink")、[秘鲁](../Page/秘鲁.md "wikilink")、[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")、[罗马尼亚](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")、[索马里](../Page/索马里.md "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[坦桑尼亚](../Page/坦桑尼亚.md "wikilink")、[捷克](../Page/捷克.md "wikilink")、[斯洛伐克](../Page/斯洛伐克.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[也门](../Page/也门.md "wikilink")、[朝鲜](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")、[南斯拉夫与](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")[赞比亚](../Page/赞比亚.md "wikilink")。
 
-在1973年[第四次中东战争初期](../Page/第四次中东战争.md "wikilink")，[以色列飞机上的](../Page/以色列.md "wikilink")[雷达警告接收器不能识别](../Page/雷达警告接收器.md "wikilink")[阿拉伯军队的SA](../Page/阿拉伯.md "wikilink")-6雷达信号，95枚导弹击落了64架以色列飞机。
+在1973年[第四次中东战争初期](https://zh.wikipedia.org/wiki/第四次中东战争 "wikilink")，[以色列飞机上的](../Page/以色列.md "wikilink")[雷达警告接收器不能识别](https://zh.wikipedia.org/wiki/雷达警告接收器 "wikilink")[阿拉伯军队的SA](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")-6雷达信号，95枚导弹击落了64架以色列飞机。
 
 ## 型号发展
 
@@ -81,12 +81,12 @@ Kub-M3使用3M9M3导弹。有效射程3-28千米。有效射高25米-14千米
 
 Kub-M4使用3M9M4导弹。
 
-2K12的换代武器为9K37"山毛榉Buk"（西方称之为[SA-11](../Page/SA-11.md "wikilink")
+2K12的换代武器为9K37"山毛榉Buk"（西方称之为[SA-11](https://zh.wikipedia.org/wiki/SA-11 "wikilink")
 "牛虻Gadfly"）.
 
 2K12E是2K12的早期升级型号，苏联称之为"方块 Квадрат" (square)。也是2K12的出口型号。
 
-印度的"天空Akash"现代化地对空导弹系统是基于SA-6发展而来，使用了[相控阵雷达与不同的载车等改进](../Page/相控阵.md "wikilink")。
+印度的"天空Akash"现代化地对空导弹系统是基于SA-6发展而来，使用了[相控阵雷达与不同的载车等改进](https://zh.wikipedia.org/wiki/相控阵 "wikilink")。
 
 ## 参考文献
 

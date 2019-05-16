@@ -1,18 +1,20 @@
-**Wine**是一個在[x86](../Page/x86.md "wikilink")、[x86-64上容許](../Page/x86-64.md "wikilink")[类Unix操作系统在](../Page/类Unix系统.md "wikilink")[X
-Window System下運行](../Page/X_Window_System.md "wikilink")[Microsoft
-Windows程式的軟體](../Page/Microsoft_Windows.md "wikilink")。另外，Wine也提供一个[程序运行库](../Page/程式庫.md "wikilink")（Winelib）来帮助计算机程序设计师将Windows程序移植到类Unix系统上。也有不少软件经过Wine测试后发布，比如[Picasa](../Page/Picasa.md "wikilink")，[uTorrent](../Page/uTorrent.md "wikilink")，[MediaCoder](../Page/MediaCoder.md "wikilink")。
+**Wine**是一個在[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64上容許](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[类Unix操作系统在](../Page/类Unix系统.md "wikilink")[X
+Window
+System下運行](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[Microsoft
+Windows程式的軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。另外，Wine也提供一个[程序运行库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")（Winelib）来帮助计算机程序设计师将Windows程序移植到类Unix系统上。也有不少软件经过Wine测试后发布，比如[Picasa](../Page/Picasa.md "wikilink")，[uTorrent](https://zh.wikipedia.org/wiki/uTorrent "wikilink")，[MediaCoder](../Page/MediaCoder.md "wikilink")。
 
 Wine通过提供一个兼容层来将Windows的系统调用转换成与POSIX标准的系统调用。它还提供了Windows系统运行库的替代品和一些系统组件的替代品。为了避免版权问题，Wine主要使用黑箱测试逆向工程来编写。
 
 Wine最早是“**Win**dows **E**mulator”，即Windows模擬器的缩写，但Wine现在為“**W**ine
 **I**s **N**ot an
-**E**mulator”的[遞迴縮寫](../Page/遞迴縮寫.md "wikilink")，即Wine不是模擬器。Wine的正確名稱是“Wine”，而不是全大写或全小写。\[1\]
+**E**mulator”的[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")，即Wine不是模擬器。Wine的正確名稱是“Wine”，而不是全大写或全小写。\[1\]
 
 ## 發展
 
-Wine計劃在1993年由[Bob Amstadt及](../Page/Bob_Amstadt.md "wikilink")[Eric
-Youngdale發起](../Page/Eric_Youngdale.md "wikilink")，最初目的是為了讓16位元[Windows
-3.1程式可以在](../Page/Windows_3.1.md "wikilink")[Linux上執行](../Page/Linux.md "wikilink")，但隨著電腦和時代的演進，Wine也一路支援到更新的Windows和[64位元的電腦架構](../Page/64位元.md "wikilink")。
+Wine計劃在1993年由[Bob
+Amstadt及](https://zh.wikipedia.org/wiki/Bob_Amstadt "wikilink")[Eric
+Youngdale發起](https://zh.wikipedia.org/wiki/Eric_Youngdale "wikilink")，最初目的是為了讓16位元[Windows
+3.1程式可以在](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")[Linux上執行](../Page/Linux.md "wikilink")，但隨著電腦和時代的演進，Wine也一路支援到更新的Windows和[64位元的電腦架構](../Page/64位元.md "wikilink")。
 
 由於Windows的[DLL为封閉原始碼](../Page/动态链接库.md "wikilink")，所以程式設計師只能由最底層的設計開始，耗費大量的時間來編寫和測試，最後達至兼容，這過程是困難且緩慢的。
 
@@ -20,19 +22,19 @@ Youngdale發起](../Page/Eric_Youngdale.md "wikilink")，最初目的是為了�
 Office](../Page/WordPerfect_Office.md "wikilink")，但[Corel不久便停止支持這項計劃](../Page/Corel.md "wikilink")，所以Wine的發展又逐漸趨緩，一直到2006年[Google積極參與這個計劃後](../Page/Google.md "wikilink")，Wine的發展才又恢復起色，最後終於在2008年發佈首個穩定版，其後便以每兩週發佈一個新版的速度發展著，除此之外，[Google每年所舉辦的](../Page/Google.md "wikilink")[夏日程式碼大賽活動也對Wine有著不少貢獻](../Page/Google夏日程式碼大賽.md "wikilink")。
 
 Wine雖然是從Linux開始發展，但現在已經支援多種平台，有[BSD](../Page/BSD.md "wikilink")、[Mac OS
-X與](../Page/Mac_OS_X.md "wikilink")[Solaris-x86](../Page/Solaris_Operating_Environment.md "wikilink")，在2013年的[自由及開源軟體開發者歐洲會議上](../Page/自由及開源軟體開發者歐洲會議.md "wikilink")，Wine的項目領導人表示目前將積極支援[Android平台](../Page/Android.md "wikilink")\[2\]。
+X與](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Solaris-x86](https://zh.wikipedia.org/wiki/Solaris_Operating_Environment "wikilink")，在2013年的[自由及開源軟體開發者歐洲會議上](https://zh.wikipedia.org/wiki/自由及開源軟體開發者歐洲會議 "wikilink")，Wine的項目領導人表示目前將積極支援[Android平台](../Page/Android.md "wikilink")\[2\]。
 
 ## 功能
 
 在2008年，Wine已經能夠完美運行很多知名程式，例如[Lotus
-Notes及](../Page/Lotus_Notes.md "wikilink")[Microsoft Office
-2007](../Page/Microsoft_Office_2007.md "wikilink")，[Photoshop
-CS2](../Page/Photoshop.md "wikilink")，但其可靠性及穩定性仍有待改善。如果該程式包含原生的微軟Windows系统的[函式庫](../Page/动态链接库.md "wikilink")，那樣Wine便可很順利運行該程式。
+Notes及](https://zh.wikipedia.org/wiki/Lotus_Notes "wikilink")[Microsoft
+Office 2007](../Page/Microsoft_Office_2007.md "wikilink")，[Photoshop
+CS2](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，但其可靠性及穩定性仍有待改善。如果該程式包含原生的微軟Windows系统的[函式庫](../Page/动态链接库.md "wikilink")，那樣Wine便可很順利運行該程式。
 
 有些Wine DLLs亦已能完美地取代Windows原來的DLLs，使得有些程式可完美運行。
 
 最晚到2006年，Wine上面已经可以完全基于Wine
-DLL完美地运行[暴雪发行的多款](../Page/暴雪.md "wikilink")3D游戏了，如[魔兽世界](../Page/魔兽世界.md "wikilink")、[魔兽争霸等](../Page/魔兽争霸.md "wikilink")。
+DLL完美地运行[暴雪发行的多款](https://zh.wikipedia.org/wiki/暴雪 "wikilink")3D游戏了，如[魔兽世界](../Page/魔兽世界.md "wikilink")、[魔兽争霸等](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")。
 
 ## 版本
 
@@ -95,12 +97,12 @@ DLL完美地运行[暴雪发行的多款](../Page/暴雪.md "wikilink")3D游戏�
 
 ## 輔助工具
 
-  - 《[Cedega](../Page/Cedega.md "wikilink")》為Transgaming開發的商業軟體，以Wine為基礎，在Wine更換授權後停止使用Wine的原始碼，雖然有Cedega提供原始碼下載（經由[CVS](../Page/CVS.md "wikilink")），但在不包含專利技術的情形下，功能與可用性都不高。
+  - 《[Cedega](https://zh.wikipedia.org/wiki/Cedega "wikilink")》為Transgaming開發的商業軟體，以Wine為基礎，在Wine更換授權後停止使用Wine的原始碼，雖然有Cedega提供原始碼下載（經由[CVS](https://zh.wikipedia.org/wiki/CVS "wikilink")），但在不包含專利技術的情形下，功能與可用性都不高。
   - 《[CrossOver](../Page/CrossOver.md "wikilink")》為CodeWeavers開發的商業軟體，提供應用軟體支援，CodeWeavers和Wine計畫一直保有密切的合作關係。CodeWeavers亦僱用了Alexandre
-    Juillard將CrossOver的原始碼回饋給Wine。在2005年6月22日，CodeWeavers宣布支持基於[英特爾](../Page/英特爾.md "wikilink")[處理器的](../Page/處理器.md "wikilink")[蘋果電腦](../Page/蘋果電腦.md "wikilink")。
+    Juillard將CrossOver的原始碼回饋給Wine。在2005年6月22日，CodeWeavers宣布支持基於[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[處理器的](https://zh.wikipedia.org/wiki/處理器 "wikilink")[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")。
   - 《[PlayOnLinux](../Page/PlayOnLinux.md "wikilink")》輔助安裝程式，支援非常多的商用應用程式，對於應用程式的安裝經過最佳化，所以幾乎不用設定。
-  - 《[ReactOS](../Page/ReactOS.md "wikilink")》一款模擬Windows的作業系統，和Wine有相當密切的合作，所開發的元件很多都能共用。
-  - 《[Winetricks](../Page/Winetricks.md "wikilink")》可以對wine的選項進行更多設定與微調，也可以安裝一些基本元件。
+  - 《[ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")》一款模擬Windows的作業系統，和Wine有相當密切的合作，所開發的元件很多都能共用。
+  - 《[Winetricks](https://zh.wikipedia.org/wiki/Winetricks "wikilink")》可以對wine的選項進行更多設定與微調，也可以安裝一些基本元件。
 
 ## 微軟對Wine的回應
 

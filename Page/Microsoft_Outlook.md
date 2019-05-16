@@ -1,14 +1,14 @@
 **Microsoft Outlook**是由[微軟公司所出品](../Page/微软.md "wikilink")[Microsoft
-Office內的](../Page/Microsoft_Office.md "wikilink")[个人信息管理系统](../Page/个人信息管理系统.md "wikilink")[软件](../Page/软件.md "wikilink")，功能包括收發[電子郵件](../Page/電子郵件.md "wikilink")、[行事曆等等](../Page/行事曆.md "wikilink")。它也是與[Microsoft
+Office內的](../Page/Microsoft_Office.md "wikilink")[个人信息管理系统](../Page/个人信息管理系统.md "wikilink")[软件](../Page/软件.md "wikilink")，功能包括收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[行事曆等等](https://zh.wikipedia.org/wiki/行事曆 "wikilink")。它也是與[Microsoft
 Exchange
-Server互相搭配的](../Page/Microsoft_Exchange_Server.md "wikilink")[群組軟體](../Page/群組軟體.md "wikilink")。現時最新的版本是Microsoft
+Server互相搭配的](../Page/Microsoft_Exchange_Server.md "wikilink")[群組軟體](https://zh.wikipedia.org/wiki/群組軟體 "wikilink")。現時最新的版本是Microsoft
 Outlook 2016 for Windows和2016 for Mac。
 
-雖然[Outlook主要是用來傳送電子郵件](../Page/Outlook.md "wikilink")，可是它還包含了日历、任务管理、联系人、记事本等功能。
+雖然[Outlook主要是用來傳送電子郵件](https://zh.wikipedia.org/wiki/Outlook "wikilink")，可是它還包含了日历、任务管理、联系人、记事本等功能。
 
 Outlook可以以獨立軟件的方式運行，同時也可以面向多個公司用戶與Microsoft Exchange Server和Microsoft
 SharePoint
-Server一起運行，功能例如共享郵箱與日曆、共享文件夾等。微軟也在大多數移動平台上發行了Outlook，其中包括[iOS和](../Page/iOS.md "wikilink")[Android](../Page/Android.md "wikilink")。[軟體開發者也可通過](../Page/軟體開發者.md "wikilink")[Microsoft
+Server一起運行，功能例如共享郵箱與日曆、共享文件夾等。微軟也在大多數移動平台上發行了Outlook，其中包括[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")。[軟體開發者也可通過](https://zh.wikipedia.org/wiki/軟體開發者 "wikilink")[Microsoft
 Visual
 Studio創建能夠兼容Outlook及Office組件的軟件](../Page/Microsoft_Visual_Studio.md "wikilink")。
 
@@ -16,7 +16,8 @@ Studio創建能夠兼容Outlook及Office組件的軟件](../Page/Microsoft_Visua
 
   - Outlook for [MS-DOS](../Page/MS-DOS.md "wikilink")
   - Outlook for Windows 3.1x
-  - Outlook for [Macintosh](../Page/Macintosh.md "wikilink")
+  - Outlook for
+    [Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
   - Outlook 97，1997年1月16日發行
   - Outlook 98，1998年6月7日發行
   - Outlook 2000（亦稱為 Outlook 9），1999年6月7日發行

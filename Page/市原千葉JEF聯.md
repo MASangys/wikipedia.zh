@@ -1,9 +1,9 @@
-**市原千葉JEF聯**（，一般稱為**千葉市原**）是一支[日本職業足球隊](../Page/日本.md "wikilink")，屬於[日本乙組職業足球聯賽的球隊之一](../Page/日本乙組職業足球聯賽.md "wikilink")。在日本的愛稱為「ジェフユナイテッド千葉」，即千葉JEF聯。
+**市原千葉JEF聯**（，一般稱為**千葉市原**）是一支[日本職業足球隊](../Page/日本.md "wikilink")，屬於[日本乙組職業足球聯賽的球隊之一](https://zh.wikipedia.org/wiki/日本乙組職業足球聯賽 "wikilink")。在日本的愛稱為「ジェフユナイテッド千葉」，即千葉JEF聯。
 
 ## 簡介
 
 球隊的名字JEF是[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（**J**R
-**E**ast）以及（**F**ukukawa）的簡稱。球隊的前身是古河電器工業足球部，1946年成立。他們是當時日本足球聯賽的班霸。1993年日本職業足球成立時加盟，球隊的根據地在[千葉縣](../Page/千葉縣.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")，主場是[千葉市蘇我球技場](../Page/千葉市蘇我球技場.md "wikilink")。[2009年時戰績不理想以最一名降級](../Page/2009年日本職業足球聯賽.md "wikilink")，球隊首次被降級到乙級。
+**E**ast）以及（**F**ukukawa）的簡稱。球隊的前身是古河電器工業足球部，1946年成立。他們是當時日本足球聯賽的班霸。1993年日本職業足球成立時加盟，球隊的根據地在[千葉縣](../Page/千葉縣.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")，主場是[千葉市蘇我球技場](https://zh.wikipedia.org/wiki/千葉市蘇我球技場 "wikilink")。[2009年時戰績不理想以最一名降級](../Page/2009年日本職業足球聯賽.md "wikilink")，球隊首次被降級到乙級。
 
 ## 球員名單
 
@@ -109,7 +109,7 @@ N-51</p></td>
 <td><p>47</p></td>
 <td><p>分組賽敗退</p></td>
 <td><p>3回戰敗退</p></td>
-<td><p><a href="../Page/奥寺康彦.md" title="wikilink">奥寺康彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥寺康彦" title="wikilink">奥寺康彦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>97</p></td>
@@ -167,8 +167,8 @@ N-51</p></td>
 2-22</p></td>
 <td><p>2回戰敗退</p></td>
 <td><p>3回戰敗退</p></td>
-<td><p>1st：<a href="../Page/Gert_Engels.md" title="wikilink">Gert Engels</a><br />
-2nd：<a href="../Page/Nicolae_Zamfir.md" title="wikilink">Nicolae Zamfir</a></p></td>
+<td><p>1st：<a href="https://zh.wikipedia.org/wiki/Gert_Engels" title="wikilink">Gert Engels</a><br />
+2nd：<a href="https://zh.wikipedia.org/wiki/Nicolae_Zamfir" title="wikilink">Nicolae Zamfir</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>00</p></td>
@@ -189,8 +189,8 @@ N-51</p></td>
 <td><p>2回戰敗退</p></td>
 <td><p>半準決賽敗退</p></td>
 <td><p>-2·8：Nicolae Zamfir<br />
-2·9,10：<a href="../Page/神戶清雄.md" title="wikilink">神戶清雄</a><br />
-2·11-：<a href="../Page/Zdenko_Verdenik.md" title="wikilink">Zdenko Verdenik</a></p></td>
+2·9,10：<a href="https://zh.wikipedia.org/wiki/神戶清雄" title="wikilink">神戶清雄</a><br />
+2·11-：<a href="https://zh.wikipedia.org/wiki/Zdenko_Verdenik" title="wikilink">Zdenko Verdenik</a></p></td>
 </tr>
 <tr class="even">
 <td><p>01</p></td>
@@ -231,7 +231,7 @@ N-51</p></td>
 2-19</p></td>
 <td><p>半準決賽敗退</p></td>
 <td><p>準決賽敗退</p></td>
-<td><p><a href="../Page/Jozef_Vengloš.md" title="wikilink">Jozef Vengloš</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jozef_Vengloš" title="wikilink">Jozef Vengloš</a></p></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
@@ -298,32 +298,34 @@ N-51</p></td>
 <td><p><strong>優勝</strong></p></td>
 <td><p>-</p></td>
 <td><p>-12節：伊维卡·奥西姆<br />
-13節-：<a href="../Page/Amar_Osim.md" title="wikilink">Amar Osim</a></p></td>
+13節-：<a href="https://zh.wikipedia.org/wiki/Amar_Osim" title="wikilink">Amar Osim</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ### 獲得錦標
 
-  - 1987年 [亞洲冠軍聯賽](../Page/亞洲冠軍聯賽.md "wikilink")
-  - 2005年 [J聯賽杯](../Page/J聯賽杯.md "wikilink")
-  - 2006年 [J聯賽杯](../Page/J聯賽杯.md "wikilink")
+  - 1987年 [亞洲冠軍聯賽](https://zh.wikipedia.org/wiki/亞洲冠軍聯賽 "wikilink")
+  - 2005年 [J聯賽杯](https://zh.wikipedia.org/wiki/J聯賽杯 "wikilink")
+  - 2006年 [J聯賽杯](https://zh.wikipedia.org/wiki/J聯賽杯 "wikilink")
 
 ### 獲得榮譽（個人榮譽）
 
-  - 1994年 [Frank Ordenewitz](../Page/Frank_Ordenewitz.md "wikilink")
+  - 1994年 [Frank
+    Ordenewitz](https://zh.wikipedia.org/wiki/Frank_Ordenewitz "wikilink")
   - 2005年 [Ilian
-    Stoyanov](../Page/Ilian_Stoyanov.md "wikilink")・[阿部勇樹](../Page/阿部勇樹.md "wikilink")
+    Stoyanov](https://zh.wikipedia.org/wiki/Ilian_Stoyanov "wikilink")・[阿部勇樹](https://zh.wikipedia.org/wiki/阿部勇樹 "wikilink")
 
 ## 著名前球员
 
   - [马克·米利甘](../Page/马克·米利甘.md "wikilink")
 
-  - [Matthew Bingley](../Page/Matthew_Bingley.md "wikilink")
+  - [Matthew
+    Bingley](https://zh.wikipedia.org/wiki/Matthew_Bingley "wikilink")
 
   - [瑪利歐·哈斯](../Page/瑪利歐·哈斯.md "wikilink")
 
-  - [靴高域](../Page/靴高域.md "wikilink")
+  - [靴高域](https://zh.wikipedia.org/wiki/靴高域 "wikilink")
 
   -
   - [艾利恩·史杜恩洛夫](../Page/艾利恩·史杜恩洛夫.md "wikilink")
@@ -332,15 +334,15 @@ N-51</p></td>
 
   - [皮埃尔·利特巴尔斯基](../Page/皮埃尔·利特巴尔斯基.md "wikilink")
 
-  - [弗蘭克·奧爾德內維茨](../Page/弗蘭克·奧爾德內維茨.md "wikilink")
+  - [弗蘭克·奧爾德內維茨](https://zh.wikipedia.org/wiki/弗蘭克·奧爾德內維茨 "wikilink")
 
   -
   -
-  - [Peter Bosz](../Page/Peter_Bosz.md "wikilink")
+  - [Peter Bosz](https://zh.wikipedia.org/wiki/Peter_Bosz "wikilink")
 
   - [温顿·鲁费尔](../Page/温顿·鲁费尔.md "wikilink")
 
-  - [爱德华多·阿兰达](../Page/爱德华多·阿兰达.md "wikilink")
+  - [爱德华多·阿兰达](https://zh.wikipedia.org/wiki/爱德华多·阿兰达 "wikilink")
 
   - [盖布瑞·波佩斯库](../Page/盖布瑞·波佩斯库.md "wikilink")
 

@@ -1,7 +1,7 @@
 [S125_Neva_250_brPVO_VS,_september_01,_2012.jpg](https://zh.wikipedia.org/wiki/File:S125_Neva_250_brPVO_VS,_september_01,_2012.jpg "fig:S125_Neva_250_brPVO_VS,_september_01,_2012.jpg")
 
 **S-125**
-**涅瓦河Neva**/**伯朝拉河Pechora**()地对空导弹系统，弹体编号5V24，[北约代号](../Page/北约代号.md "wikilink")：**SA-3藏原羚**（旧译**果阿**）"Goa"。苏联第二代地对空导弹系统，用于中低空防空。导弹为5V24
+**涅瓦河Neva**/**伯朝拉河Pechora**()地对空导弹系统，弹体编号5V24，[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：**SA-3藏原羚**（旧译**果阿**）"Goa"。苏联第二代地对空导弹系统，用于中低空防空。导弹为5V24
 (V-600) 两级固体发动机，无线电指令制导。舰用型为SA-N-1 **波浪Volna** (Волна - wave)。
 
 ## 資料
@@ -31,25 +31,25 @@
 
 ## 发展历史
 
-[金刚石中央设计局设计](../Page/金刚石中央设计局.md "wikilink")。
+[金刚石中央设计局设计](https://zh.wikipedia.org/wiki/金刚石中央设计局 "wikilink")。
 
 1961年SA-3系统首先在莫斯科附近部署。此型号北约命名为SA-3A。
 
 1964年重新设计了助推发动机、改进了制导系统的S-125M **"涅瓦-M Neva-M"** 以及其后的S-125M1 **"涅瓦-M1
 Neva-M1"**入役。此型号北约命名为SA-3B，其海军型北约命名为SA-N-1B.
 
-由于较短的射程与易被干扰得雷达，SA-3已经比较过时了。1999年3月27日[南斯拉夫军队在](../Page/南斯拉夫.md "wikilink")[科索沃战争中使用SA](../Page/科索沃战争.md "wikilink")-3击落了美国的[F-117隐形战斗机](../Page/F-117.md "wikilink")。在[越南战争与历次](../Page/越南战争.md "wikilink")[中东战争中](../Page/中东战争.md "wikilink")，SA-3打击低空目标卓有成效。安哥拉也宣称用它击落了四架南非空军的幻影F.1战斗机，而实际只击伤了两架。\[1\]
+由于较短的射程与易被干扰得雷达，SA-3已经比较过时了。1999年3月27日[南斯拉夫军队在](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")[科索沃战争中使用SA](../Page/科索沃战争.md "wikilink")-3击落了美国的[F-117隐形战斗机](https://zh.wikipedia.org/wiki/F-117 "wikilink")。在[越南战争与历次](../Page/越南战争.md "wikilink")[中东战争中](../Page/中东战争.md "wikilink")，SA-3打击低空目标卓有成效。安哥拉也宣称用它击落了四架南非空军的幻影F.1战斗机，而实际只击伤了两架。\[1\]
 
 改进版的**“涅瓦-M”**系统使用新的5V27
 (V-601)弹体，能够打击面目标，如舰艇。这是由于改进的制导系统允许它使用类似抛物线的弹道对目标俯冲攻击。
 
 ## 现代化升级
 
-尽管[俄罗斯使用](../Page/俄罗斯.md "wikilink")[SA-10与](../Page/SA-10.md "wikilink")[SA-12地空导弹系统替换了SA](../Page/SA-12.md "wikilink")-3，但他们对SA-3仍然做了许多升级改进使之能吸引出口客户。
+尽管[俄罗斯使用](../Page/俄罗斯.md "wikilink")[SA-10与](https://zh.wikipedia.org/wiki/SA-10 "wikilink")[SA-12地空导弹系统替换了SA](https://zh.wikipedia.org/wiki/SA-12 "wikilink")-3，但他们对SA-3仍然做了许多升级改进使之能吸引出口客户。
 
 2000年推出的**“伯朝拉-2”**系统具有更远的射程、多目标交战能力与更高的击中概率。发射架安装在卡车上使得重新部署用时更短。**“伯朝拉-2M”**系统能够击落巡航导弹。[伊拉克获得了这类升级系统](../Page/伊拉克.md "wikilink")。
 
-2001年，[波兰推出了](../Page/波兰.md "wikilink")**“Newa
+2001年，[波兰推出了](https://zh.wikipedia.org/wiki/波兰 "wikilink")**“Newa
 SC”**系统，把SA-3许多模拟制式的电子器件替换为数字式器件，从而提高了电子系统的可靠性与精确性。四联装发射器与制导雷达安装在T-55坦克底盘上以提高机动性，并且增加了敌我识别能力与数据链。
 
 俄罗斯在同一年随后推出了**“伯朝拉-M”**系统，几乎升级了SA-3的所有方面：火箭发动机、雷达、制导系统、弹头、引信与电子器件。还增加了激光／红外跟踪设备从而在不使用雷达情况下仍可作战。
@@ -58,16 +58,16 @@ SC”**系统，把SA-3许多模拟制式的电子器件替换为数字式器件
 
 ## 部署
 
-[北朝鲜装备了大约](../Page/北朝鲜.md "wikilink")32个[连的SA](../Page/连.md "wikilink")-3。此外还拥有SA-2,
+[北朝鲜装备了大约](https://zh.wikipedia.org/wiki/北朝鲜 "wikilink")32个[连的SA](https://zh.wikipedia.org/wiki/连 "wikilink")-3。此外还拥有SA-2,
 SA-5与[SA-7](../Page/9K32便携式防空导弹.md "wikilink")。
 
 南斯拉夫拥有14个连的SA-3，大约60部发射器。
 
-伊拉克在[持久自由行动之前也拥有许多SA](../Page/持久自由行动.md "wikilink")-3。
+伊拉克在[持久自由行动之前也拥有许多SA](https://zh.wikipedia.org/wiki/持久自由行动 "wikilink")-3。
 
-[阿尔及利亚](../Page/阿尔及利亚.md "wikilink")、[安哥拉](../Page/安哥拉.md "wikilink")、[保加利亚](../Page/保加利亚.md "wikilink")、[古巴](../Page/古巴.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[印度](../Page/印度.md "wikilink")、[利比亚](../Page/利比亚.md "wikilink")、[莫桑比克](../Page/莫桑比克.md "wikilink")、[秘鲁](../Page/秘鲁.md "wikilink")、[波兰](../Page/波兰.md "wikilink")、[罗马尼亚](../Page/罗马尼亚.md "wikilink")、[索马里](../Page/索马里.md "wikilink")、[南也门](../Page/南也门.md "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[坦桑尼亚](../Page/坦桑尼亚.md "wikilink")、[越南与](../Page/越南.md "wikilink")[赞比亚也拥有SA](../Page/赞比亚.md "wikilink")-3。
+[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、[安哥拉](../Page/安哥拉.md "wikilink")、[保加利亚](https://zh.wikipedia.org/wiki/保加利亚 "wikilink")、[古巴](../Page/古巴.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[印度](../Page/印度.md "wikilink")、[利比亚](../Page/利比亚.md "wikilink")、[莫桑比克](../Page/莫桑比克.md "wikilink")、[秘鲁](../Page/秘鲁.md "wikilink")、[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")、[罗马尼亚](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")、[索马里](../Page/索马里.md "wikilink")、[南也门](https://zh.wikipedia.org/wiki/南也门 "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[坦桑尼亚](../Page/坦桑尼亚.md "wikilink")、[越南与](https://zh.wikipedia.org/wiki/越南 "wikilink")[赞比亚也拥有SA](../Page/赞比亚.md "wikilink")-3。
 
-海军版的SA-N-1系统配置在[克里斯塔I级巡洋舰与](../Page/克里斯塔I级巡洋舰.md "wikilink")[卡辛级驱逐舰](../Page/卡辛级驱逐舰.md "wikilink")（艏艉各布置一套双联装系统），[肯达级巡洋舰](../Page/肯达级巡洋舰.md "wikilink")、[科特林级防空驱逐舰](../Page/科特林级防空驱逐舰.md "wikilink")、[卡宁级驱逐舰在艉部布置一套双联发射器](../Page/卡宁级驱逐舰.md "wikilink")。
+海军版的SA-N-1系统配置在[克里斯塔I级巡洋舰与](../Page/克里斯塔I级巡洋舰.md "wikilink")[卡辛级驱逐舰](../Page/卡辛级驱逐舰.md "wikilink")（艏艉各布置一套双联装系统），[肯达级巡洋舰](../Page/肯达级巡洋舰.md "wikilink")、[科特林级防空驱逐舰](https://zh.wikipedia.org/wiki/科特林级防空驱逐舰 "wikilink")、[卡宁级驱逐舰在艉部布置一套双联发射器](https://zh.wikipedia.org/wiki/卡宁级驱逐舰 "wikilink")。
 
 印度的一些[护卫舰也布置了SA](../Page/护卫舰.md "wikilink")-N-1。
 

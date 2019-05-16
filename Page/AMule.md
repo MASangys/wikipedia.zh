@@ -1,4 +1,4 @@
-**aMule**是一个[开源](../Page/开源软件.md "wikilink")[免费的](../Page/免费软件.md "wikilink")[P2P](../Page/P2P.md "wikilink")[文件共享软件](../Page/文件共享.md "wikilink")，遵循[GNU通用公共许可证协议发布](../Page/GNU通用公共许可证.md "wikilink")。类似于[eMule](../Page/eMule.md "wikilink")。基于[xMule和](../Page/xMule.md "wikilink")[lMule](../Page/lMule.md "wikilink")。可应用[eDonkey网络](../Page/eDonkey网络.md "wikilink")[协议](../Page/网络传输协议.md "wikilink")，也支持[KAD网络](../Page/Kademlia.md "wikilink")。可在包括各种[类Unix系统](../Page/类Unix.md "wikilink")、[Windows在内的多种操作系统下运行](../Page/Windows.md "wikilink")。
+**aMule**是一个[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，遵循[GNU通用公共许可证协议发布](../Page/GNU通用公共许可证.md "wikilink")。类似于[eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")。基于[xMule和](https://zh.wikipedia.org/wiki/xMule "wikilink")[lMule](https://zh.wikipedia.org/wiki/lMule "wikilink")。可应用[eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[协议](../Page/网络传输协议.md "wikilink")，也支持[KAD网络](../Page/Kademlia.md "wikilink")。可在包括各种[类Unix系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")、[Windows在内的多种操作系统下运行](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 元件
 
@@ -11,11 +11,12 @@
   - amuleweb（伺服器）- 打開後，可以在瀏覽器下使用 aMule
   - ed2k（实用程序） - ed2k 链接处理器，浏览器可以通过该命令向 aMule 添加 ed2k 链接。
   - alc（实用程序） - 计算文件 ed2k 链接的工具
-  - alcc（实用程序） - alc 的 [CLI](../Page/CLI.md "wikilink") 版本
+  - alcc（实用程序） - alc 的
+    [CLI](https://zh.wikipedia.org/wiki/CLI "wikilink") 版本
 
 ## 语言
 
-目前aMule使用[i18n](../Page/i18n.md "wikilink")，有28种语言界面供选择，包括[简体和](../Page/簡體中文.md "wikilink")[繁体中文](../Page/繁体中文.md "wikilink")。
+目前aMule使用[i18n](https://zh.wikipedia.org/wiki/i18n "wikilink")，有28种语言界面供选择，包括[简体和](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[繁体中文](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")。
 
 aMule意为。\[1\]
 
@@ -29,8 +30,8 @@ DLP 函式库中的列表，侦测出吸血驴并对其做减分或遮蔽处理�
 
 ## 参见条目
 
-  - [eDonkey网络](../Page/eDonkey网络.md "wikilink")
-  - [eMule](../Page/eMule.md "wikilink")
+  - [eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")
+  - [eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")
   - [动态反吸血驴保护](../Page/动态反吸血驴保护.md "wikilink")
 
 ## 参考资料

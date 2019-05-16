@@ -31,18 +31,19 @@ box”，由安装在载车四周的四根探测天线组成，实现360度全�
 典型战法是对每个目标发射两枚导弹以提高摧毁概率。使用中炮手必须不停旋转炮塔以搜索敌机，这使得9K31的作战效能很差。
 
 俄罗斯军队的9K31系统被已被**[9K35 "箭-10"（SA-13
-"金花鼠"）](../Page/SA-13.md "wikilink")**取代。
+"金花鼠"）](https://zh.wikipedia.org/wiki/SA-13 "wikilink")**取代。
 
 ## 部署
 
-[阿尔及利亚](../Page/阿尔及利亚.md "wikilink")，[安哥拉](../Page/安哥拉.md "wikilink")，[贝宁](../Page/贝宁.md "wikilink")，[保加利亚](../Page/保加利亚.md "wikilink")，[古巴](../Page/古巴.md "wikilink")，[克罗地亚](../Page/克罗地亚.md "wikilink")，[捷克](../Page/捷克.md "wikilink")，[埃及](../Page/埃及.md "wikilink")，[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")，
-[朝鲜](../Page/朝鲜.md "wikilink")，[匈牙利](../Page/匈牙利.md "wikilink")，[印度](../Page/印度.md "wikilink")，[伊拉克](../Page/伊拉克.md "wikilink")，[利比亚](../Page/利比亚.md "wikilink")，[毛里塔尼亚](../Page/毛里塔尼亚.md "wikilink")，[莫桑比克](../Page/莫桑比克.md "wikilink")，[尼加拉瓜](../Page/尼加拉瓜.md "wikilink")，[波兰](../Page/波兰.md "wikilink")，[罗马尼亚](../Page/罗马尼亚.md "wikilink")，[斯洛伐克](../Page/斯洛伐克.md "wikilink")，[叙利亚](../Page/叙利亚.md "wikilink")，[乌干达](../Page/乌干达.md "wikilink")，[乌克兰](../Page/乌克兰.md "wikilink")，[乌兹别克斯坦](../Page/乌兹别克斯坦.md "wikilink")，[越南](../Page/越南.md "wikilink")，[也门与](../Page/也门.md "wikilink")[前南斯拉夫](../Page/前南斯拉夫.md "wikilink")
+[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")，[安哥拉](../Page/安哥拉.md "wikilink")，[贝宁](../Page/贝宁.md "wikilink")，[保加利亚](https://zh.wikipedia.org/wiki/保加利亚 "wikilink")，[古巴](../Page/古巴.md "wikilink")，[克罗地亚](../Page/克罗地亚.md "wikilink")，[捷克](../Page/捷克.md "wikilink")，[埃及](../Page/埃及.md "wikilink")，[埃塞俄比亚](../Page/埃塞俄比亚.md "wikilink")，
+[朝鲜](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")，[匈牙利](../Page/匈牙利.md "wikilink")，[印度](../Page/印度.md "wikilink")，[伊拉克](../Page/伊拉克.md "wikilink")，[利比亚](../Page/利比亚.md "wikilink")，[毛里塔尼亚](../Page/毛里塔尼亚.md "wikilink")，[莫桑比克](../Page/莫桑比克.md "wikilink")，[尼加拉瓜](../Page/尼加拉瓜.md "wikilink")，[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")，[罗马尼亚](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")，[斯洛伐克](../Page/斯洛伐克.md "wikilink")，[叙利亚](../Page/叙利亚.md "wikilink")，[乌干达](../Page/乌干达.md "wikilink")，[乌克兰](../Page/乌克兰.md "wikilink")，[乌兹别克斯坦](../Page/乌兹别克斯坦.md "wikilink")，[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")，[也门与](../Page/也门.md "wikilink")[前南斯拉夫](https://zh.wikipedia.org/wiki/前南斯拉夫 "wikilink")
 
-9K31参加了1981年叙利亚与以色列在黎巴嫩的冲突，以及[两伊战争](../Page/两伊战争.md "wikilink")、[海湾战争](../Page/海湾战争.md "wikilink")、[安哥拉战乱](../Page/安哥拉.md "wikilink")、北约对[前南斯拉夫的军事行动](../Page/前南斯拉夫.md "wikilink")，以及[伊拉克战争](../Page/伊拉克战争.md "wikilink")。
+9K31参加了1981年叙利亚与以色列在黎巴嫩的冲突，以及[两伊战争](https://zh.wikipedia.org/wiki/两伊战争 "wikilink")、[海湾战争](../Page/海湾战争.md "wikilink")、[安哥拉战乱](../Page/安哥拉.md "wikilink")、北约对[前南斯拉夫的军事行动](https://zh.wikipedia.org/wiki/前南斯拉夫 "wikilink")，以及[伊拉克战争](../Page/伊拉克战争.md "wikilink")。
 
-1983年11月，叙利亚的一个9K31导弹连击落了一架美国海军的[A-6](../Page/A-6.md "wikilink")"入侵者"飞机。
+1983年11月，叙利亚的一个9K31导弹连击落了一架美国海军的[A-6](https://zh.wikipedia.org/wiki/A-6 "wikilink")"入侵者"飞机。
 
-[en:SA-9 Gaskin](../Page/en:SA-9_Gaskin.md "wikilink")
+[en:SA-9
+Gaskin](https://zh.wikipedia.org/wiki/en:SA-9_Gaskin "wikilink")
 
 [Category:蘇聯面對空飛彈](https://zh.wikipedia.org/wiki/Category:蘇聯面對空飛彈 "wikilink")
 [Category:點防禦防空飛彈](https://zh.wikipedia.org/wiki/Category:點防禦防空飛彈 "wikilink")

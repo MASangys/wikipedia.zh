@@ -10,7 +10,7 @@
 
 CLAMP剛出道時，就刻意營造出屬於「CLAMP的世界」，使每一部作品都有關聯性，並在每一部作品中留下一些「謎」打算在「X」中揭開。
 
-出現在「X」此部漫畫中的人物有「[CLAMP學園偵探團](../Page/CLAMP學園偵探團.md "wikilink")」中的「妹之山殘」、「伊集院玲」、「鷹村蘇芳」，「[東京巴比倫](../Page/東京巴比倫.md "wikilink")」中的「皇昴流」、「皇北都」、「櫻塚星史郎」。
+出現在「X」此部漫畫中的人物有「[CLAMP學園偵探團](https://zh.wikipedia.org/wiki/CLAMP學園偵探團 "wikilink")」中的「妹之山殘」、「伊集院玲」、「鷹村蘇芳」，「[東京巴比倫](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")」中的「皇昴流」、「皇北都」、「櫻塚星史郎」。
 
 ### 連載休止原因
 
@@ -19,7 +19,7 @@ CLAMP剛出道時，就刻意營造出屬於「CLAMP的世界」，使每一部�
 2006年2月12日CLAMP與[Production
 I.G特別座談](../Page/Production_I.G.md "wikilink")「從漫畫到動畫的創意之路」，大川緋芭說到「身為作者的尊嚴有把漫畫作品完結的責任及必要」。
 
-2006年9月15日出版的[月刊Newtype](../Page/月刊Newtype.md "wikilink")10月號增刊「CLAMP
+2006年9月15日出版的[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")10月號增刊「CLAMP
 Newtype
 (PLATINUM)」中，出現第18.5卷。其內容並未收錄在目前任何一本已出版的單行本中（月刊Newtype目前只在日本及韓國發售）。
 
@@ -30,11 +30,11 @@ Newtype
 ### 天龍
 
   -
-    天龍的神威，15歲。因身賦“神威”的命運不得不和桃生家兩兄妹封真和小鳥分別而離開[東京](../Page/東京.md "wikilink")。六年後，遵照母親斗織的遺言重返東京。擁有天龍“神威”和地龍“神威”兩種未來的神威，爲了保護桃生兩兄妹而選擇了天龍“神威”，而後小鳥被其兄封真殺害，封真失去本來人格成爲地龍神威。目前，神威爲了唤醒封真本來人格而戰鬥，但還未能夠創造球體的“結界”......。
+    天龍的神威，15歲。因身賦“神威”的命運不得不和桃生家兩兄妹封真和小鳥分別而離開[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。六年後，遵照母親斗織的遺言重返東京。擁有天龍“神威”和地龍“神威”兩種未來的神威，爲了保護桃生兩兄妹而選擇了天龍“神威”，而後小鳥被其兄封真殺害，封真失去本來人格成爲地龍神威。目前，神威爲了唤醒封真本來人格而戰鬥，但還未能夠創造球體的“結界”......。
   -
     16歲。因“七個封印”的命運，三歲時從父母身邊被帶走，交給[高野山的占星師](../Page/高野山.md "wikilink")“星見”撫養。對鬼咒嵐一見鍾情，並決定一生守護她。力量媲美高野山的開山祖，使用密宗法術和[式神](../Page/式神.md "wikilink")。
   -
-    [伊勢神宮的](../Page/伊勢神宮.md "wikilink")[巫女](../Page/巫女.md "wikilink")，16歲。生母和大學生戀愛後出走，獨自生下嵐撫養。幼時因生母身亡而被其生母舊識伊勢神宮的巫女“楓”撫養。個性冷漠，在經過與空汰長期相處後，漸漸產生情愫。可以從手中抽出刀，為伊勢神宮的本體力量。
+    [伊勢神宮的](https://zh.wikipedia.org/wiki/伊勢神宮 "wikilink")[巫女](../Page/巫女.md "wikilink")，16歲。生母和大學生戀愛後出走，獨自生下嵐撫養。幼時因生母身亡而被其生母舊識伊勢神宮的巫女“楓”撫養。個性冷漠，在經過與空汰長期相處後，漸漸產生情愫。可以從手中抽出刀，為伊勢神宮的本體力量。
   -
     “御風”一族，能夠操縱[風](../Page/風.md "wikilink")，已成家，妻子和女兒名叫嗣摩子和由花。玳透的舅舅，為[日本](../Page/日本.md "wikilink")[角川書店雜誌編集部](../Page/角川書店.md "wikilink")《野性時代》編集部員，個性溫和。
   -
@@ -42,7 +42,7 @@ Newtype
   -
     本名不詳，三峰神社女神主的孫女，14歲。對第一個看得見犬鬼的志勇草薙一見鍾情。身邊伴有犬鬼，能夠自由操控犬鬼變成劍或盾牌。（第一代犬鬼被八頭司颯姬的電腦“獸”所殺，與封真對峙期間，自體內產生第二代犬鬼）。
   -
-    《[東京巴比倫](../Page/東京巴比倫.md "wikilink")》主角，“[陰陽師](../Page/陰陽師.md "wikilink")”一族皇一門第十三代掌門人，25歲。16歲時其雙生姐姐皇北都被櫻塚星史郎殺害，此後不斷追逐著櫻塚。拯救神威從悲傷中甦醒過來，特別明白神威的感受。
+    《[東京巴比倫](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")》主角，“[陰陽師](../Page/陰陽師.md "wikilink")”一族皇一門第十三代掌門人，25歲。16歲時其雙生姐姐皇北都被櫻塚星史郎殺害，此後不斷追逐著櫻塚。拯救神威從悲傷中甦醒過來，特別明白神威的感受。
 
 ### 地龍
 
@@ -112,7 +112,7 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -237,7 +237,7 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
   - 音楽ディレクター：福田正夫
   - 製作進行：篠原昭
   - 製作デスク：齋藤優一郎
-  - 動畫製作：[Madhouse](../Page/Madhouse.md "wikilink")
+  - 動畫製作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
   - 監督：[川尻善昭](../Page/川尻善昭.md "wikilink")
   - 製作：角川書店、萬代影視、ディーライツ、マッドハウス、キャラアニ．com
 
@@ -248,7 +248,8 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
 <!-- end list -->
 
   -
-    作詞：Julian Lewis，作曲・編曲：西村麻聡，歌：[美勇士](../Page/美勇士.md "wikilink")
+    作詞：Julian
+    Lewis，作曲・編曲：西村麻聡，歌：[美勇士](https://zh.wikipedia.org/wiki/美勇士 "wikilink")
 
 <!-- end list -->
 
@@ -257,7 +258,7 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
 <!-- end list -->
 
   -
-    作詞・作曲：小泉恒平，編曲：chokkaku，歌：[小泉恒平](../Page/小泉恒平.md "wikilink")
+    作詞・作曲：小泉恒平，編曲：chokkaku，歌：[小泉恒平](https://zh.wikipedia.org/wiki/小泉恒平 "wikilink")
 
 ### 各話列表
 
@@ -353,7 +354,7 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
 <td><p>添星 - GEMINI</p></td>
 <td><p>小寺勝之</p></td>
 <td><p>遠藤卓司</p></td>
-<td><p><a href="../Page/田中将賀.md" title="wikilink">田中将賀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田中将賀" title="wikilink">田中将賀</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -361,7 +362,7 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
 <td><p>陰陽- ONMYOU</p></td>
 <td><p>陰陽 - ONMYOU</p></td>
 <td><p>杉原研二</p></td>
-<td><p><a href="../Page/浜崎博嗣.md" title="wikilink">浜崎博嗣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浜崎博嗣" title="wikilink">浜崎博嗣</a></p></td>
 <td><p>田崎聡</p></td>
 <td></td>
 </tr>
@@ -480,7 +481,7 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
 <td><p>背叛- BETRAYAL</p></td>
 <td><p>背信 - BETRAYAL</p></td>
 <td><p>筆安一幸</p></td>
-<td><p><a href="../Page/山本沙代.md" title="wikilink">山本沙代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山本沙代" title="wikilink">山本沙代</a></p></td>
 <td><p>渡辺正彦</p></td>
 <td><p>井上みゆき</p></td>
 </tr>
@@ -515,8 +516,8 @@ Newtype〈PLATINUM〉」 附贈的「18.5卷」，漫畫未收錄篇章刊載於
   - 音楽：清水靖晃（）
   - 主题音楽監督：[YOSHIKI](../Page/Yoshiki.md "wikilink")
   - 主題歌《[Forever
-    Love](../Page/Forever_Love_\(X_JAPAN單曲\).md "wikilink")》（作詞/作曲：[YOSHIKI](../Page/YOSHIKI.md "wikilink")、歌：[X
-    JAPAN](../Page/X_JAPAN.md "wikilink")）
+    Love](../Page/Forever_Love_\(X_JAPAN單曲\).md "wikilink")》（作詞/作曲：[YOSHIKI](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")、歌：[X
+    JAPAN](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")）
   - 配給：東映
   - 动画制作：Madhouse
   - 監督：

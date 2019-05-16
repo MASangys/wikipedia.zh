@@ -1,7 +1,7 @@
 **Java Development
 Kit**（**JDK**）是[昇陽電腦针对](../Page/昇陽電腦.md "wikilink")[Java开发人员发布的免费](../Page/Java.md "wikilink")[软件开发工具包](../Page/软件开发工具包.md "wikilink")（SDK，Software
 development kit）。自从Java推出以来，JDK已经成为使用最广泛的Java
-SDK。由于JDK的一部分特性采用商业许可证，而非开源\[1\]。因此，2006年昇陽電腦宣布将发布基于[GPL的开源JDK](../Page/GPL.md "wikilink")，使JDK成为[自由软件](../Page/自由软件.md "wikilink")。在去掉了少量闭源特性之后，昇陽電腦最终促成了[GPL的](../Page/GPL.md "wikilink")[OpenJDK的发布](../Page/OpenJDK.md "wikilink")。
+SDK。由于JDK的一部分特性采用商业许可证，而非开源\[1\]。因此，2006年昇陽電腦宣布将发布基于[GPL的开源JDK](https://zh.wikipedia.org/wiki/GPL "wikilink")，使JDK成为[自由软件](../Page/自由软件.md "wikilink")。在去掉了少量闭源特性之后，昇陽電腦最终促成了[GPL的](https://zh.wikipedia.org/wiki/GPL "wikilink")[OpenJDK的发布](../Page/OpenJDK.md "wikilink")。
 
 ## 用途
 
@@ -12,38 +12,38 @@ Runtime Environment）。而程序开发者必须安装JDK来编译、调试程�
 
 JDK包含了一批用于Java开发的组件，其中包括：
 
-  - [javac](../Page/javac.md "wikilink")：[编译器](../Page/编译器.md "wikilink")，将[后缀名为](../Page/后缀名.md "wikilink").java的[源代码编译成后缀名为](../Page/源代码.md "wikilink")「.class」的[字节码](../Page/字节码.md "wikilink")
+  - [javac](https://zh.wikipedia.org/wiki/javac "wikilink")：[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，将[后缀名为](https://zh.wikipedia.org/wiki/后缀名 "wikilink").java的[源代码编译成后缀名为](../Page/源代码.md "wikilink")「.class」的[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")
   - java：运行工具，运行.class的字节码
-  - [jar](../Page/jar.md "wikilink")：打包工具，将相关的类文件打包成一个文件
-  - [javadoc](../Page/javadoc.md "wikilink")：[文档生成器](../Page/文档.md "wikilink")，从源码[注释中提取文档](../Page/注释.md "wikilink")，注释需符合规范
+  - [jar](https://zh.wikipedia.org/wiki/jar "wikilink")：打包工具，将相关的类文件打包成一个文件
+  - [javadoc](https://zh.wikipedia.org/wiki/javadoc "wikilink")：[文档生成器](https://zh.wikipedia.org/wiki/文档 "wikilink")，从源码[注释中提取文档](https://zh.wikipedia.org/wiki/注释 "wikilink")，注释需符合规范
   - jdb debugger：[调试工具](../Page/调试工具.md "wikilink")
-  - jps：显示当前java程序运行的[进程状态](../Page/进程.md "wikilink")
-  - javap：[反编译程序](../Page/反編譯器.md "wikilink")
-  - appletviewer：运行和调试[applet程序的工具](../Page/applet.md "wikilink")，不需要使用[浏览器](../Page/浏览器.md "wikilink")
+  - jps：显示当前java程序运行的[进程状态](https://zh.wikipedia.org/wiki/进程 "wikilink")
+  - javap：[反编译程序](https://zh.wikipedia.org/wiki/反編譯器 "wikilink")
+  - appletviewer：运行和调试[applet程序的工具](https://zh.wikipedia.org/wiki/applet "wikilink")，不需要使用[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")
   - javah：从Java类生成C[头文件和C源文件](../Page/头文件.md "wikilink")。这些文件提供了连接胶合，使Java和C代码可进行交互。\[2\]
-  - javaws：运行[JNLP程序](../Page/JNLP.md "wikilink")
+  - javaws：运行[JNLP程序](https://zh.wikipedia.org/wiki/JNLP "wikilink")
   - extcheck：一个检测jar包冲突的工具
   - apt：注释处理工具\[3\]
-  - jhat：java[堆分析工具](../Page/堆.md "wikilink")
-  - jstack：[栈跟踪程序](../Page/栈.md "wikilink")
-  - jstat：[JVM检测统计工具](../Page/JVM.md "wikilink")
+  - jhat：java[堆分析工具](https://zh.wikipedia.org/wiki/堆 "wikilink")
+  - jstack：[栈跟踪程序](https://zh.wikipedia.org/wiki/栈 "wikilink")
+  - jstat：[JVM检测统计工具](https://zh.wikipedia.org/wiki/JVM "wikilink")
   - jstatd：jstat[守护进程](../Page/守护进程.md "wikilink")
   - jinfo：获取正在运行或崩溃的java程序配置信息
   - jmap：获取java进程内存映射信息
-  - idlj：[IDL](../Page/IDL.md "wikilink")-to-Java编译器。将[IDL语言转化为java文件](../Page/IDL.md "wikilink")\[4\]
-  - policytool：一个[GUI的](../Page/GUI.md "wikilink")[策略文件创建和管理工具](../Page/策略文件.md "wikilink")
-  - jrunscript：[命令行](../Page/命令行.md "wikilink")[脚本运行](../Page/脚本.md "wikilink")
+  - idlj：[IDL](https://zh.wikipedia.org/wiki/IDL "wikilink")-to-Java编译器。将[IDL语言转化为java文件](https://zh.wikipedia.org/wiki/IDL "wikilink")\[4\]
+  - policytool：一个[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[策略文件创建和管理工具](https://zh.wikipedia.org/wiki/策略文件 "wikilink")
+  - jrunscript：[命令行](https://zh.wikipedia.org/wiki/命令行 "wikilink")[脚本运行](https://zh.wikipedia.org/wiki/脚本 "wikilink")
 
 JDK中还包括完整的JRE（Java Runtime Environment），Java运行环境，也被称为*private*
-runtime。包括了用于产品环境的各种库类，如基础类库rt.jar，以及给开发人员使用的补充库，如[国际化与本地化的](../Page/国际化与本地化.md "wikilink")[类库](../Page/类库.md "wikilink")、[IDL库等等](../Page/IDL.md "wikilink")。
+runtime。包括了用于产品环境的各种库类，如基础类库rt.jar，以及给开发人员使用的补充库，如[国际化与本地化的](../Page/国际化与本地化.md "wikilink")[类库](https://zh.wikipedia.org/wiki/类库 "wikilink")、[IDL库等等](https://zh.wikipedia.org/wiki/IDL "wikilink")。
 
-JDK中还包括各种[样例程序](../Page/样例程序.md "wikilink")，用以展示[Java
-API中的各部分](../Page/Java_API.md "wikilink")。
+JDK中还包括各种[样例程序](https://zh.wikipedia.org/wiki/样例程序 "wikilink")，用以展示[Java
+API中的各部分](https://zh.wikipedia.org/wiki/Java_API "wikilink")。
 
 ## 系统需求
 
-无论[Linux](../Page/Linux.md "wikilink")、[Windows或者](../Page/Windows.md "wikilink")[Mac
-OS系统](../Page/Mac_OS.md "wikilink")，JDK均有[X86与](../Page/X86.md "wikilink")[X64甚至](../Page/X64.md "wikilink")[安腾架构的发行版本](../Page/安腾.md "wikilink")。且均为多语言发行，即根据系统语言的不同自动显示不同语言的信息。
+无论[Linux](../Page/Linux.md "wikilink")、[Windows或者](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
+OS系统](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，JDK均有[X86与](../Page/X86.md "wikilink")[X64甚至](https://zh.wikipedia.org/wiki/X64 "wikilink")[安腾架构的发行版本](../Page/安腾.md "wikilink")。且均为多语言发行，即根据系统语言的不同自动显示不同语言的信息。
 
 ## 版本
 

@@ -3,7 +3,7 @@
 [Square-1_edge.png](https://zh.wikipedia.org/wiki/File:Square-1_edge.png "fig:Square-1_edge.png")
 [Square-1_corner.png](https://zh.wikipedia.org/wiki/File:Square-1_corner.png "fig:Square-1_corner.png")
 **Square 1**，原称**Back to Square
-One**，是[鲁比克](../Page/厄尔诺·鲁比克.md "wikilink")[扭計骰系列之一](../Page/魔方.md "wikilink")，是由Karel
+One**，是[鲁比克](https://zh.wikipedia.org/wiki/厄尔诺·鲁比克 "wikilink")[扭計骰系列之一](../Page/魔方.md "wikilink")，是由Karel
 Hrsel和Vojtech
 Kopsky在1992年共同发明的。它与其他魔方很大的不同点就是在转动的时候会改变形状，这也是它拥有非凡难度和魅力的原因之一。目前最快的還原紀錄是5.00秒單次、6.73秒平均\[1\]。
 
@@ -17,7 +17,7 @@ Square 1的原名叫作“回到Square 1”，最初则被称为“Cube 21”。
 Square
 1魔方分为三层。顶层和底层都有风筝块和[三角块](../Page/三角形.md "wikilink")，它们也被称为角块和边块。整个魔方总共有8个角块和8个边块。相对于层的中间来讲，角块为60度，边块宽度为30度。
 
-中间层由两个[梯形组成](../Page/梯形.md "wikilink")，兩個梯形塊處於平衡的狀態，组合在一起会形成一个[六边形或者](../Page/六边形.md "wikilink")[正方形](../Page/正方形.md "wikilink")。最頂和最底的兩層可以橫向轉動。只有在最頂和最底的兩層對齊的時候，Square
+中间层由两个[梯形组成](../Page/梯形.md "wikilink")，兩個梯形塊處於平衡的狀態，组合在一起会形成一个[六边形或者](https://zh.wikipedia.org/wiki/六边形 "wikilink")[正方形](../Page/正方形.md "wikilink")。最頂和最底的兩層可以橫向轉動。只有在最頂和最底的兩層對齊的時候，Square
 1才可以垂直旋轉，交換上下層的其中一邊的塊。这样重复几次之后魔方就会被打乱。由于角块的宽度为边的两倍，所以两者能紧密结合，两个边块联合在一起能替换一个角块，反之亦然。从而Square
 1可以产生非常怪异的形状。
 
@@ -25,7 +25,7 @@ Square
 1才算完成复原。但是由于中层只能形成两种形状，有很多种方法可以使中层变换形状而不影响到其他的块。
 
 和[魔方一样](../Page/魔方.md "wikilink")，Square
-1每一面都有自己的颜色。所以魔方完成状态不应该只是[形状完成](../Page/形状.md "wikilink")，[颜色也要对准](../Page/颜色.md "wikilink")。当[魔方到达完成状态的时候](../Page/魔方.md "wikilink")，从魔方正中心的“Square
+1每一面都有自己的颜色。所以魔方完成状态不应该只是[形状完成](https://zh.wikipedia.org/wiki/形状 "wikilink")，[颜色也要对准](../Page/颜色.md "wikilink")。当[魔方到达完成状态的时候](../Page/魔方.md "wikilink")，从魔方正中心的“Square
 1”字样看去，颜色应该是这样排布的：
 
   -
@@ -45,7 +45,7 @@ Square
 [Super_Square1_scrambled-01.jpg](https://zh.wikipedia.org/wiki/File:Super_Square1_scrambled-01.jpg "fig:Super_Square1_scrambled-01.jpg")
 经过计算，Square 1总共能变化出\(170\times2\times8!\times8! = 552,738,816,000\)种状态。
 
-如果不[计算状态相同而方向不同的种类数](../Page/计算.md "wikilink")，应该是\(15!/3=435,891,456,000\)种状态。
+如果不[计算状态相同而方向不同的种类数](https://zh.wikipedia.org/wiki/计算 "wikilink")，应该是\(15!/3=435,891,456,000\)种状态。
 
 ## 外部链接
 

@@ -1,5 +1,5 @@
-**Windows正版增值计划**（，簡稱**WGA**）是一套由[微軟設計的反](../Page/微軟.md "wikilink")[盜版系統](../Page/盜版.md "wikilink")，當[Microsoft
-Windows的使用者存取某些微軟線上服務時](../Page/Microsoft_Windows.md "wikilink")，就會企圖強制要求使用者進行驗證目前所使用的Windows是否為[正版](../Page/正版.md "wikilink")，例如[Windows
+**Windows正版增值计划**（，簡稱**WGA**）是一套由[微軟設計的反](https://zh.wikipedia.org/wiki/微軟 "wikilink")[盜版系統](https://zh.wikipedia.org/wiki/盜版 "wikilink")，當[Microsoft
+Windows的使用者存取某些微軟線上服務時](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，就會企圖強制要求使用者進行驗證目前所使用的Windows是否為[正版](https://zh.wikipedia.org/wiki/正版 "wikilink")，例如[Windows
 Update](../Page/Windows_Update.md "wikilink")、以及從Microsoft Download
 Center（微軟下載中心）下載系統元件。
 
@@ -25,11 +25,11 @@ WGA認證程序包含以下步驟：
 當使用者安裝WGA後，[Internet
 Explorer就會被安裝上標示名為](../Page/Internet_Explorer.md "wikilink")「Windows
 Genuine
-Advantage」的附加元件。在早期發行的工具，可以在IE的管理附加元件選項中關閉它的功能。Windows作業系統下的[群組原則在之後的更新中被增加新的內容](../Page/群組原則.md "wikilink")，原本這個選項是預設不可使用的，如果群組原則被移除仍然可以存取它。像2006年7月，最近的更新利用其他手段來封鎖附加元件管理工具。
+Advantage」的附加元件。在早期發行的工具，可以在IE的管理附加元件選項中關閉它的功能。Windows作業系統下的[群組原則在之後的更新中被增加新的內容](https://zh.wikipedia.org/wiki/群組原則 "wikilink")，原本這個選項是預設不可使用的，如果群組原則被移除仍然可以存取它。像2006年7月，最近的更新利用其他手段來封鎖附加元件管理工具。
 
 產生WGA的原因在於，在很多國家地區，正版Windows系統使用者所佔的百分比，只有佔不到10%。在其他商業團體方面，一旦有商業的競爭對手在工作時間內沒有正常付費而使用某個小型企業所生產的軟體，這個小型企業業主就會提出國際智慧財產權的相關法律。不像以前的複製品保護計畫，這個程式會企圖在使用者的電腦上出錯。它不會關閉電腦硬體，甚至連安全性更新都會封鎖。
 
-這個WGA有兩種程式的特性，它可以是產生金鑰的獨立程式，或者，也可以是一個不管[許可授權金鑰是否有效的](../Page/Key_server_\(software_licensing\).md "wikilink")[ActiveX控制元件](../Page/ActiveX.md "wikilink")。如果WGA認定使用者的Windows作業系統是[未經授權的](../Page/Copyright_infringement_of_software.md "wikilink")，但是使用者的系統[CD卻是正版的](../Page/CD-ROM.md "wikilink")（包含微軟贈送的正版套裝產品），那麼微軟就會提供使用者一張新的系統光碟。微軟也有提供折扣給那些沒有正版光碟序號卻想要購買正版的消費者。微軟已經指出，會繼續經由自動更新服務以及微軟下載中心來提供緊急安全性更新服務。在自動更新狀態下，商業公司要使用WGA，當客戶使用未經許可或盜版的軟體時，在某種程度上要確保客戶能夠取得公司相關的軟體支援。根據微軟的說法，就算沒有WGA還是可以合法執行Microsoft
+這個WGA有兩種程式的特性，它可以是產生金鑰的獨立程式，或者，也可以是一個不管[許可授權金鑰是否有效的](https://zh.wikipedia.org/wiki/Key_server_\(software_licensing\) "wikilink")[ActiveX控制元件](../Page/ActiveX.md "wikilink")。如果WGA認定使用者的Windows作業系統是[未經授權的](https://zh.wikipedia.org/wiki/Copyright_infringement_of_software "wikilink")，但是使用者的系統[CD卻是正版的](../Page/CD-ROM.md "wikilink")（包含微軟贈送的正版套裝產品），那麼微軟就會提供使用者一張新的系統光碟。微軟也有提供折扣給那些沒有正版光碟序號卻想要購買正版的消費者。微軟已經指出，會繼續經由自動更新服務以及微軟下載中心來提供緊急安全性更新服務。在自動更新狀態下，商業公司要使用WGA，當客戶使用未經許可或盜版的軟體時，在某種程度上要確保客戶能夠取得公司相關的軟體支援。根據微軟的說法，就算沒有WGA還是可以合法執行Microsoft
 Windows。在非緊急自動更新狀態下，還是會有WGA的安裝需求。整個系統不管是驗證失敗還是驗證成功，都還是可以繼續接收緊急安全性更新。
 
 ### WGA通知
@@ -48,11 +48,11 @@ keys）到微軟的伺服器。到下一個星期，這個產品金鑰的資訊�
 微軟在某些產品上如[Windows
 Defender](../Page/Windows_Defender.md "wikilink")、[Internet Explorer
 7和](../Page/Internet_Explorer_7.md "wikilink")[Windows Media Player
-11加入了WGA認證資料庫](../Page/Windows_Media_Player.md "wikilink")，在安裝前會先自動執行認證動作。（Internet
+11加入了WGA認證資料庫](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")，在安裝前會先自動執行認證動作。（Internet
 Explorer 7最新版本已取消安裝時自動執行認證動作）
 
 微軟也發行[Office Genuine
-Advantage程式](../Page/Office_Genuine_Advantage.md "wikilink")，用在[Microsoft
+Advantage程式](https://zh.wikipedia.org/wiki/Office_Genuine_Advantage "wikilink")，用在[Microsoft
 Office安裝程序的認證動作](../Page/Microsoft_Office.md "wikilink")。
 
 ## 破解WGA與數位化千禧年著作權法案
@@ -62,30 +62,30 @@ Copyright Act）不只懲罰侵犯版權的行為，更令到製作以及散播�
 
 在2005年9月，微軟針對一些販賣未授權軟件給不知情消費者的公司和企業提出訴訟。這些案子之所以重要是因為線索就是客戶從WGA發現他們購買到的是假冒版。\[6\]
 
-在2005年11月16日，微軟發行[Netscape瀏覽器的標準WGA外掛](../Page/Netscape.md "wikilink")，完成了在[Mozilla
-Firefox和其他以](../Page/Mozilla_Firefox.md "wikilink")[Gecko為基礎的瀏覽器](../Page/Gecko.md "wikilink")（包括Netscape）中加入Windows驗證的程序，儘管它不使用Firefox延伸系統，因此不支援最新版本的瀏覽器。這件事為微軟帶來又一波批評，因為它依然不支援多種由[NPAPI支援的瀏覽器](../Page/NPAPI.md "wikilink")，例如[Opera](../Page/Opera.md "wikilink")。另一個破解WGA的元件在2005年12月25日發行，利用由一個遠端系統所產生的有效雜湊演算（[Hash](../Page/Hash.md "wikilink")）來繞過WGA驗證。微軟發出一封要求「結束並停止」（cease
+在2005年11月16日，微軟發行[Netscape瀏覽器的標準WGA外掛](https://zh.wikipedia.org/wiki/Netscape "wikilink")，完成了在[Mozilla
+Firefox和其他以](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko為基礎的瀏覽器](../Page/Gecko.md "wikilink")（包括Netscape）中加入Windows驗證的程序，儘管它不使用Firefox延伸系統，因此不支援最新版本的瀏覽器。這件事為微軟帶來又一波批評，因為它依然不支援多種由[NPAPI支援的瀏覽器](../Page/NPAPI.md "wikilink")，例如[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")。另一個破解WGA的元件在2005年12月25日發行，利用由一個遠端系統所產生的有效雜湊演算（[Hash](https://zh.wikipedia.org/wiki/Hash "wikilink")）來繞過WGA驗證。微軟發出一封要求「結束並停止」（cease
 and
 desist）的信件給提供破解的網站，這個破解元件在2006年1月6日被移除。很多人還是在有正版視窗系統的公用電腦進行驗證，並寫下其雜湊演算，然後在家裡和工作的地方使用。到2006年7月，微軟不再遏阻這個迴避方法。2006年5月4日，微軟宣佈針對位於[蒙大拿州的eDirectSoftware以及在](../Page/蒙大拿州.md "wikilink")[芝加哥地區的零售商Nathan](../Page/芝加哥.md "wikilink")
 Ballog和Easy Computers分發無授權Windows軟件的行為提出訴訟。\[7\]
 
 在互聯網上，可以取得WGA驗證的各種破解方法。在微軟發佈有關移除WGA的官方指引之前\[8\]（一個在工作列小圖示框內的桌面程式，會定期顯示訊息提醒使用者驗證作業系統），使用者只須移除兩個檔案就可以清除WGA。
 
-在2006年9月，微軟在一些程式上中止了WGA驗證要求，例如[ActiveSync](../Page/ActiveSync.md "wikilink")。
+在2006年9月，微軟在一些程式上中止了WGA驗證要求，例如[ActiveSync](https://zh.wikipedia.org/wiki/ActiveSync "wikilink")。
 
 ## WGA通知與防火牆
 
-雖然某些[防火牆在wgatray](../Page/防火牆.md "wikilink").exe啟動時會出現出現警告畫面並將它擋下，但在[Outpost
+雖然某些[防火牆在wgatray](https://zh.wikipedia.org/wiki/防火牆 "wikilink").exe啟動時會出現出現警告畫面並將它擋下，但在[Outpost
 Firewall防火牆工具中](../Page/Outpost_Firewall.md "wikilink")，它被認定為「隱藏程序」。利用[HijackThis移除工具來移除WGALOGON](../Page/HijackThis.md "wikilink").DLL檔案時，只要設定「do
 not show（不要顯示）」選項就可以有效防止WGA更新。
 
-這個工具是由小型的防火牆廠商發行，目的是防止WGA傳送使用者的個人隱私與資料給[微軟](../Page/微軟.md "wikilink")。\[9\]
+這個工具是由小型的防火牆廠商發行，目的是防止WGA傳送使用者的個人隱私與資料給[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")。\[9\]
 
 ## WGA進行的資料收集
 
 Windows Genuine Advantage會檢查以下使用者的系統元件\[10\]\[11\]：
 
-  - [BIOS](../Page/BIOS.md "wikilink")[校驗和](../Page/校驗和.md "wikilink")
-  - [MAC網卡位址](../Page/MAC位址.md "wikilink")
+  - [BIOS](../Page/BIOS.md "wikilink")[校驗和](https://zh.wikipedia.org/wiki/校驗和 "wikilink")
+  - [MAC網卡位址](https://zh.wikipedia.org/wiki/MAC位址 "wikilink")
   - 硬碟的序列號碼
   - 作業系統的地區語言版本
   - 作業系統的版本
@@ -99,27 +99,27 @@ Windows Genuine Advantage會檢查以下使用者的系統元件\[10\]\[11\]：
 ## WGA在中國
 
 從2008年10月20日起，中國的Windows
-XP用戶將可能受到遭遇“[黑屏](../Page/黑屏.md "wikilink")”。因為微軟將在其中文版本的WGA中引入視覺標簽，對于未能通過WGA驗證的Windows
+XP用戶將可能受到遭遇“[黑屏](https://zh.wikipedia.org/wiki/黑屏 "wikilink")”。因為微軟將在其中文版本的WGA中引入視覺標簽，對于未能通過WGA驗證的Windows
 XP用戶，其桌面將每60分鐘被轉變成純黑色。用戶可以重新設置背景，但是每60分鐘將再次被更改成為純黑色。用戶登錄時也將出現中斷對話框，提示“您可能是軟件盜版的受害者。”（Windows
 7中翻译为“您可能是盜版軟件的受害者。”）。不过，由于国内的大部分使用者都关闭了自动更新，改用第三方工具安装更新，所以，虽然中国的大多数电脑使用盗版系统，但WGA对中国用户的影响不大。
 
-對于微軟這個打擊盜版的舉措，中國用戶普遍表示反對。根據sohu.com、QQ.com、21cn.com等網站的調查表明，超過60%的用戶反對微軟的這項措施。該措施的實施也引起了包括[中國中央電視臺在內的各大媒體的普遍關注](../Page/中國中央電視臺.md "wikilink")，此后却不了了之。
+對于微軟這個打擊盜版的舉措，中國用戶普遍表示反對。根據sohu.com、QQ.com、21cn.com等網站的調查表明，超過60%的用戶反對微軟的這項措施。該措施的實施也引起了包括[中國中央電視臺在內的各大媒體的普遍關注](https://zh.wikipedia.org/wiki/中國中央電視臺 "wikilink")，此后却不了了之。
 
-而該事件並不僅僅在中國發生，在[馬來西亞亦有發生相同事件](../Page/馬來西亞.md "wikilink")。
+而該事件並不僅僅在中國發生，在[馬來西亞亦有發生相同事件](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。
 
 ## 批評
 
 ### 定時炸彈軟體
 
-雖然WGA不會影響其他程式的運作，但如果電腦中的[微軟產品被WGA認定是盜版](../Page/微軟.md "wikilink")，使用者將無法利用[Windows
-Update進行更新](../Page/Windows_Update.md "wikilink")，造成WGA被和[定時炸彈軟體](../Page/定時炸彈軟體.md "wikilink")（Time
+雖然WGA不會影響其他程式的運作，但如果電腦中的[微軟產品被WGA認定是盜版](https://zh.wikipedia.org/wiki/微軟 "wikilink")，使用者將無法利用[Windows
+Update進行更新](../Page/Windows_Update.md "wikilink")，造成WGA被和[定時炸彈軟體](https://zh.wikipedia.org/wiki/定時炸彈軟體 "wikilink")（Time
 bomb）\[12\]相比。[1](http://www.pcmag.com/article2/0,1895,2031647,00.asp)
 [2](https://web.archive.org/web/20070523040056/http://www.foxnews.com/story/0,2933,222518,00.html)
 [3](http://blogs.zdnet.com/Bott/?p=84)
 
 ### 被指為間諜軟體的指控
 
-微軟WGA通知工具的執行動作，這個行為被指控就像是[間諜軟體一樣](../Page/間諜軟體.md "wikilink")，而且還會定期每天執行「[背景連線通訊](../Page/背景連線通訊.md "wikilink")」（phoning
+微軟WGA通知工具的執行動作，這個行為被指控就像是[間諜軟體一樣](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")，而且還會定期每天執行「[背景連線通訊](../Page/背景連線通訊.md "wikilink")」（phoning
 home）在使用者不知情的情形之下連線到微軟伺服器。\[13\]\[14\]\[15\]隨後微軟承認的確有這個行為，但是不承認它是間諜軟體。\[16\]\[17\]微軟在隨之而來的壓力下，終於宣佈以後的WGA工具改為只會每兩星期進行背景連線通訊。\[18\]微軟也會提供WGA試驗版的移除說明。\[19\]
 
 儘管如此，微軟目前還是被控告，WGA會在反間諜軟體的狀態下顯示有「背景連線通訊」的行為。\[20\]而這個法律訴訟的結果目前還是未定案。
@@ -153,31 +153,37 @@ Sure」文章張貼在微軟的WGA幫助論壇，有很多使用者因為WGA的�
 
 1.  [Microsoft.com - Description of the Windows Genuine Advantage
     Notifications application](http://support.microsoft.com/kb/905474/),
-    retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 2.  [Digital Inspiration - WGA
     Notifications](http://labnol.blogspot.com/2006/04/wga-notifications-this-copy-of-windows.html),
-    retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 3.  Announcement on usenet entitled "Windows Genuine Advantage - warning
     appears on activated machine" by Rubert Sland
 
 4.  [Sydney Morning Herald - Microsoft back to drawing board on
     piracy](http://www.smh.com.au/news/breaking/microsoft-back-to-drawing-board-on-piracy/2005/08/08/1123353252441.html?oneclick=true),
-    retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 5.  [MSDN Blogs - New WGA Notifications
     Released](http://blogs.msdn.com/wga/archive/2006/11/29/new-wga-notifications-released.aspx),
-    retrieved [December 3](../Page/December_3.md "wikilink")、2006
+    retrieved [December
+    3](https://zh.wikipedia.org/wiki/December_3 "wikilink")、2006
 
 6.  [Microsoft.com - Microsoft Files Lawsuits to Protect Consumers and
     Software
     Resellers](http://www.microsoft.com/presspass/press/2005/sep05/09-19PiracyEnfSept05PR.mspx)
-    , retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    , retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 7.  [InformationWeek - Microsoft: Users may have to prove legal Windows
     use](http://www.informationweek.com/story/showArticle.jhtml?articleID=187200796),
-    retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 8.
 9.  [The Register - How to stop Microsoft's WGA phoning
@@ -185,41 +191,48 @@ Sure」文章張貼在微軟的WGA幫助論壇，有很多使用者因為WGA的�
 
 10. [Microsoft WGA
     FAQ](http://www.microsoft.com/genuine/downloads/StaticFAQ.aspx) ,
-    retrieved [October 20](../Page/October_20.md "wikilink")
+    retrieved [October
+    20](https://zh.wikipedia.org/wiki/October_20 "wikilink")
 
 11. [Microsoft's Calling Home Problem: It's a Matter of Informed
     Consent](http://www.groklaw.net/article.php?story=20060608002958907),
-    retrieved [October 20](../Page/October_20.md "wikilink")
+    retrieved [October
+    20](https://zh.wikipedia.org/wiki/October_20 "wikilink")
 
 12. <http://www.webopedia.com/TERM/T/timebomb.html>
 
 13. [Lauren Weinstein's Blog - Windows XP update may be classified as
     'spyware'](http://lauren.vortex.com/archive/000178.html), retrieved
-    [June 13](../Page/June_13.md "wikilink")、2006
+    [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 14. [Microsoft's antipiracy (sic) tool "phones home"
     daily](http://news.zdnet.com/2100-3513_22-6081286.html?tag=nl.e589)
-    , retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    , retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 15.
 
 16. [Ars Technica - Microsoft admits Windows Genuine Advantage phones
     home](http://arstechnica.com/news.ars/post/20060608-7017.html),
-    retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 17. [Lauren Weinstein's Blog - Microsoft responds regarding Windows XP
     update vs Spyware](http://lauren.vortex.com/archive/000179.html),
-    retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 18. [ZDNet - Microsoft to ease up on piracy (sic)
     check-ins](http://news.zdnet.com/2100-1009_22-6082334.html) ,
-    retrieved [June 13](../Page/June_13.md "wikilink")、2006
+    retrieved [June
+    13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
 
 19.
 
 20. [Lawsuit calls Microsoft's anti-piracy tool spyware | Seattle
     Post-Intelligencer](http://www.seattlepi.com/business/275780_msftsuit29.html),
-    retrieved [June 29](../Page/June_29.md "wikilink")、2006
+    retrieved [June
+    29](https://zh.wikipedia.org/wiki/June_29 "wikilink")、2006
 
 21. [Microsoft WGA Help
     Forum](http://forums.microsoft.com/Genuine/ShowForum.aspx?ForumID=442&SiteID=25)

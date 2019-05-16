@@ -1,8 +1,8 @@
 [GFTP.jpg](https://zh.wikipedia.org/wiki/File:GFTP.jpg "fig:GFTP.jpg")
 **gFTP**
-是一個在\*NIX上使用的（[unix](../Page/unix.md "wikilink")，[linux](../Page/linux.md "wikilink")，[BSD](../Page/BSD.md "wikilink")，etc.）[自由的多線程](../Page/GNU.md "wikilink")[FTP](../Page/FTP.md "wikilink")
-[客戶端](../Page/FTP_客戶端.md "wikilink")，其建基於[X11R6](../Page/X11.md "wikilink")
-或以後的版本。gFTP在[GPL下發布](../Page/GNU_General_Public_License.md "wikilink")，並且已被翻譯成41種不同語言。
+是一個在\*NIX上使用的（[unix](https://zh.wikipedia.org/wiki/unix "wikilink")，[linux](https://zh.wikipedia.org/wiki/linux "wikilink")，[BSD](../Page/BSD.md "wikilink")，etc.）[自由的多線程](../Page/GNU.md "wikilink")[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")
+[客戶端](https://zh.wikipedia.org/wiki/FTP_客戶端 "wikilink")，其建基於[X11R6](https://zh.wikipedia.org/wiki/X11 "wikilink")
+或以後的版本。gFTP在[GPL下發布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")，並且已被翻譯成41種不同語言。
 
 ## 特色
 
@@ -22,8 +22,8 @@
 
 ## 參考條目
 
-  - [FTP客戶端列表](../Page/FTP客戶端列表.md "wikilink")
-  - [FTP客戶端比較](../Page/FTP客戶端比較.md "wikilink")
+  - [FTP客戶端列表](https://zh.wikipedia.org/wiki/FTP客戶端列表 "wikilink")
+  - [FTP客戶端比較](https://zh.wikipedia.org/wiki/FTP客戶端比較 "wikilink")
 
 ## 外部連結
 

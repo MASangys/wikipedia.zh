@@ -1,12 +1,12 @@
 在[计算机科学中](../Page/计算机科学.md "wikilink")，**NAT穿越**（NAT
-traversal）涉及[TCP/IP](../Page/TCP/IP.md "wikilink")[网络中的一个常见问题](../Page/网络.md "wikilink")，即在处于使用了[NAT设备的私有TCP](../Page/NAT.md "wikilink")/IP网络中的主机之间建立连接的问题。
+traversal）涉及[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")[网络中的一个常见问题](https://zh.wikipedia.org/wiki/网络 "wikilink")，即在处于使用了[NAT设备的私有TCP](https://zh.wikipedia.org/wiki/NAT "wikilink")/IP网络中的主机之间建立连接的问题。
 
-会遇到这个问题的通常是那些客户端网络交互应用程序的开发人员，尤其是在[对等网络和](../Page/对等网络.md "wikilink")[VoIP领域中](../Page/VoIP.md "wikilink")。[IPsec](../Page/IPsec.md "wikilink")
-[VPN客户普遍使用](../Page/VPN.md "wikilink")[NAT-T来达到使](../Page/NAT-T.md "wikilink")[ESP包通过](../Page/ESP.md "wikilink")[NAT的目的](../Page/NAT.md "wikilink")。
+会遇到这个问题的通常是那些客户端网络交互应用程序的开发人员，尤其是在[对等网络和](https://zh.wikipedia.org/wiki/对等网络 "wikilink")[VoIP领域中](../Page/VoIP.md "wikilink")。[IPsec](../Page/IPsec.md "wikilink")
+[VPN客户普遍使用](https://zh.wikipedia.org/wiki/VPN "wikilink")[NAT-T来达到使](https://zh.wikipedia.org/wiki/NAT-T "wikilink")[ESP包通过](https://zh.wikipedia.org/wiki/ESP "wikilink")[NAT的目的](https://zh.wikipedia.org/wiki/NAT "wikilink")。
 
 尽管有许多穿越NAT的技术，但没有一项是完美的，这是因为NAT的行为是非标准化的。这些技术中的大多数都要求有一个公共服务器，而且这个服务器使用的是一个众所周知的、从全球任何地方都能访问得到的IP地址。一些方法仅在建立连接时需要使用这个服务器，而其它的方法则通过这个服务器中继所有的数据——这就引入了带宽开销的问题。
 
-两种常用的NAT穿越技术是：[UDP路由验证和](../Page/UDP路由验证.md "wikilink")[STUN](../Page/STUN.md "wikilink")。除此之外，還有[TURN](../Page/TURN.md "wikilink")、[ICE](../Page/互動式連接建立.md "wikilink")、[ALG](../Page/應用層閘道.md "wikilink")，以及[SBC](../Page/會談邊界控制器.md "wikilink")。
+两种常用的NAT穿越技术是：[UDP路由验证和](https://zh.wikipedia.org/wiki/UDP路由验证 "wikilink")[STUN](../Page/STUN.md "wikilink")。除此之外，還有[TURN](../Page/TURN.md "wikilink")、[ICE](../Page/互動式連接建立.md "wikilink")、[ALG](https://zh.wikipedia.org/wiki/應用層閘道 "wikilink")，以及[SBC](../Page/會談邊界控制器.md "wikilink")。
 
 ## NAT穿透與IPsec
 
@@ -49,17 +49,18 @@ traversal）涉及[TCP/IP](../Page/TCP/IP.md "wikilink")[网络中的一个常�
 
   - [Traversal Using Relay NAT](../Page/TURN.md "wikilink")（TURN）
 
-  - [NAT-T](../Page/NAT-T.md "wikilink") Negotiation of NAT-Traversal in
-    the IKE
+  - [NAT-T](https://zh.wikipedia.org/wiki/NAT-T "wikilink") Negotiation
+    of NAT-Traversal in the IKE
 
-  - [Teredo tunneling](../Page/Teredo_tunneling.md "wikilink") uses NAT
-    traversal to provide [IPv6](../Page/IPv6.md "wikilink")
+  - [Teredo
+    tunneling](https://zh.wikipedia.org/wiki/Teredo_tunneling "wikilink")
+    uses NAT traversal to provide [IPv6](../Page/IPv6.md "wikilink")
     connectivity.
 
   - [Session Border
-    Controller](../Page/Session_Border_Controller.md "wikilink")（SBC）
+    Controller](https://zh.wikipedia.org/wiki/Session_Border_Controller "wikilink")（SBC）
 
-  - [UDP打洞](../Page/UDP打洞.md "wikilink")（）
+  - [UDP打洞](https://zh.wikipedia.org/wiki/UDP打洞 "wikilink")（）
 
   - （）
 
@@ -67,15 +68,18 @@ traversal）涉及[TCP/IP](../Page/TCP/IP.md "wikilink")[网络中的一个常�
 
 ### NAT穿透基於NAT控制
 
-  - [Realm-Specific IP](../Page/Realm-Specific_IP.md "wikilink")（RSIP）
-  - [Middlebox](../Page/Middlebox.md "wikilink") Communications（MIDCOM）
+  - [Realm-Specific
+    IP](https://zh.wikipedia.org/wiki/Realm-Specific_IP "wikilink")（RSIP）
+  - [Middlebox](https://zh.wikipedia.org/wiki/Middlebox "wikilink")
+    Communications（MIDCOM）
   - [SOCKS](../Page/SOCKS.md "wikilink")
   - [NAT Port Mapping
-    Protocol](../Page/NAT_Port_Mapping_Protocol.md "wikilink")（NAT PMP）
+    Protocol](https://zh.wikipedia.org/wiki/NAT_Port_Mapping_Protocol "wikilink")（NAT
+    PMP）
   - [Internet Gateway
-    Device](../Page/Internet_Gateway_Device_Protocol.md "wikilink")（IGD）協定，由[通用即插即用](../Page/UPnP.md "wikilink")（UPnP）論壇所定義。
+    Device](https://zh.wikipedia.org/wiki/Internet_Gateway_Device_Protocol "wikilink")（IGD）協定，由[通用即插即用](../Page/UPnP.md "wikilink")（UPnP）論壇所定義。
   - [Application Layer
-    Gateway](../Page/Application_Layer_Gateway.md "wikilink")（ALG）
+    Gateway](https://zh.wikipedia.org/wiki/Application_Layer_Gateway "wikilink")（ALG）
 
 ### NAT穿透整合技術
 

@@ -1,20 +1,20 @@
 《**至Net奇兵**》（），又稱《利奧高行動》、《-{虚幻勇士}-》、《代號：利奧高》（意譯）、《密碼：利奧高》（意譯），前身是《**Garage
-Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wikilink")[卡通片](../Page/卡通.md "wikilink")。它含有[日本](../Page/日本.md "wikilink")[卡通片和](../Page/日本動畫.md "wikilink")[電腦生成（合成）動畫（CGI）的特色](../Page/CGI.md "wikilink")，由[門士戈夫](../Page/門士戈夫.md "wikilink")（Moonscoop）[動畫公司](../Page/動畫.md "wikilink")（第一輯時叫Antefilms）製作
-，[AGOGO公司也有參與品質控制相关的工作](../Page/AGOGO.md "wikilink")，由[法國3電視台](../Page/法國電視台.md "wikilink")（France
-3）、[J頻道](../Page/J頻道.md "wikilink")（[法國](../Page/法國.md "wikilink")）、[YTV](../Page/YTV.md "wikilink")（[加拿大](../Page/加拿大.md "wikilink")）、[卡通頻道](../Page/卡通頻道.md "wikilink")（[美國](../Page/美國.md "wikilink")、[英國](../Page/英國.md "wikilink")）和[無綫電視](../Page/電視廣播有限公司.md "wikilink")（[香港](../Page/香港.md "wikilink")）播映，中國大陆曾以-{虚幻勇士}-的名称播放过第一，二季，但因被查出伪造制作国籍（将法国制的本动画伪造为中国动画）而已被中國[广电总局禁播](../Page/广电总局.md "wikilink")。
+Kids**》（車庫兒童），是一套[法國出產的](https://zh.wikipedia.org/wiki/法國 "wikilink")[卡通片](../Page/卡通.md "wikilink")。它含有[日本](../Page/日本.md "wikilink")[卡通片和](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[電腦生成（合成）動畫（CGI）的特色](https://zh.wikipedia.org/wiki/CGI "wikilink")，由[門士戈夫](https://zh.wikipedia.org/wiki/門士戈夫 "wikilink")（Moonscoop）[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")（第一輯時叫Antefilms）製作
+，[AGOGO公司也有參與品質控制相关的工作](https://zh.wikipedia.org/wiki/AGOGO "wikilink")，由[法國3電視台](https://zh.wikipedia.org/wiki/法國電視台 "wikilink")（France
+3）、[J頻道](https://zh.wikipedia.org/wiki/J頻道 "wikilink")（[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")）、[YTV](../Page/YTV.md "wikilink")（[加拿大](../Page/加拿大.md "wikilink")）、[卡通頻道](../Page/卡通頻道.md "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）和[無綫電視](../Page/電視廣播有限公司.md "wikilink")（[香港](../Page/香港.md "wikilink")）播映，中國大陆曾以-{虚幻勇士}-的名称播放过第一，二季，但因被查出伪造制作国籍（将法国制的本动画伪造为中国动画）而已被中國[广电总局禁播](https://zh.wikipedia.org/wiki/广电总局 "wikilink")。
 
 目前共推出123集，每集约长24分钟，共5季。第一季、第二季和第五季均为26集，第三季仅13集，第四季有30集，另有2集前传。前四季以2D的手绘动画（现实世界）与3D的CG动画（虚拟世界）形式呈现，第五季改为真人（现实世界）配合CG动画（虚拟世界）的形式呈现。
 
 ## 剧情大概
 
-故事是講述一名[卡迪中學（初中）的學生傑理明在卡迪中學附近的棄置工廠裏](../Page/卡迪中學.md "wikilink")，找到并启动了一台拥有名叫[利奧高](../Page/利奧高.md "wikilink")（Lyoko）的[虛擬世界的](../Page/虛擬世界.md "wikilink")[超級電腦](../Page/超級電腦.md "wikilink")，发现了里面一個名叫亞烈達(Aelita)的虛擬人物，后来超级电脑内的系统XANA\[山拿\]试图在现实和虚拟世界中进行袭击，于是傑理明让阿奇、治狼及尤美进入虚拟世界并帮助亞烈達终止山拿的破坏，并随着不断的探索，发现山拿，亞烈達和山拿的发明者法兰兹的关系，並决定帮助亞烈達彻底离开lyoko世界（即将亞烈達实体化）并完全终止山拿XANA的破坏。
+故事是講述一名[卡迪中學（初中）的學生傑理明在卡迪中學附近的棄置工廠裏](https://zh.wikipedia.org/wiki/卡迪中學 "wikilink")，找到并启动了一台拥有名叫[利奧高](../Page/利奧高.md "wikilink")（Lyoko）的[虛擬世界的](https://zh.wikipedia.org/wiki/虛擬世界 "wikilink")[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")，发现了里面一個名叫亞烈達(Aelita)的虛擬人物，后来超级电脑内的系统XANA\[山拿\]试图在现实和虚拟世界中进行袭击，于是傑理明让阿奇、治狼及尤美进入虚拟世界并帮助亞烈達终止山拿的破坏，并随着不断的探索，发现山拿，亞烈達和山拿的发明者法兰兹的关系，並决定帮助亞烈達彻底离开lyoko世界（即将亞烈達实体化）并完全终止山拿XANA的破坏。
 
 ## 角色
 
 ### 主要角色
 
   - 亞烈達（）
-    配音：（法语原配），（英语），[林元春](../Page/林元春.md "wikilink")（香港）
+    配音：（法语原配），（英语），[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（香港）
     女主角，原名
     （一度被誤以為是姓Hopper，於前傳中暫時使用Maya作為其名字），於前傳中被傑理明意外發現為存在於超級電腦中的女孩，为了避免怀疑而暂时现名，并伪装为阿奇的表妹入读卡迪中学。和傑理明一样对科学事物比较感兴趣，所以和傑理明相处融洽，对傑理明有好感。对混音有一定天赋，尤其是科技音乐。\[1\]於第25集時成功實體化回到現世。
     她是Lyoko小組中唯一可以锁定XANA启动高塔的人。在第一季中，當她失去所有生命點時，她就會死亡，在Lyoko世界中能小范围改變地形。在动画52集中，曾经在Lyoko世界中失去所有生命点而死去，但賀法蘭使亞烈達复活并恢复了所有记忆，并且得到了攻擊的力量——紅色能量球，和其他成员一样，失去全部生命点后实体化返回现实世界。在Lyoko世界没有自己的交通工具，可以使用其他人的交通工具，第四季傑理明为其添加了翅膀。
@@ -23,16 +23,16 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 <!-- end list -->
 
   - 傑理明（）
-    配音：（法语原配），（英语），[林丹鳳](../Page/林丹鳳.md "wikilink")（香港）
+    配音：（法语原配），（英语），[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")（香港）
     男主角，於前傳中為了尋找零件而跑到學校附近的廢棄工廠並意外啟動了工廠地牢內的超級電腦，因而發現亞烈達及展開與山拿之間的戰爭。
-    傑理明是[利奧高小組之中](../Page/利奧高.md "wikilink")，除亞烈達外唯一可以操縱超級電腦的人(後期他製造非常厚的筆記本教導威廉以外的其他成員如何操作超級電腦，以便遇上傑理明及亞烈達皆不能過來操作超級電腦時由其他人頂上導航員位置)。他在工廠裏監察其他組員在Lyoko世界的行動和通知他們山拿的[怪獸的位置和提供支援](../Page/怪獸_\(至Net奇兵\).md "wikilink")，好讓他們提防，有如小隊中的軍師一樣。因为其后勤的重要性和对电脑技术的了解，所以小组其他人都很尊敬其并称其为爱因斯坦，他曾经根据以前的研究资料找出Lyoko世界的核心区——第五区，制作出马拉宝达——一种原来用于清楚山拿怪物的自动工具，但由于失控而不得不和山拿联合来清除掉；和亞烈達一起制作了用于前往数据海外世界的远航载具skid。
+    傑理明是[利奧高小組之中](../Page/利奧高.md "wikilink")，除亞烈達外唯一可以操縱超級電腦的人(後期他製造非常厚的筆記本教導威廉以外的其他成員如何操作超級電腦，以便遇上傑理明及亞烈達皆不能過來操作超級電腦時由其他人頂上導航員位置)。他在工廠裏監察其他組員在Lyoko世界的行動和通知他們山拿的[怪獸的位置和提供支援](https://zh.wikipedia.org/wiki/怪獸_\(至Net奇兵\) "wikilink")，好讓他們提防，有如小隊中的軍師一樣。因为其后勤的重要性和对电脑技术的了解，所以小组其他人都很尊敬其并称其为爱因斯坦，他曾经根据以前的研究资料找出Lyoko世界的核心区——第五区，制作出马拉宝达——一种原来用于清楚山拿怪物的自动工具，但由于失控而不得不和山拿联合来清除掉；和亞烈達一起制作了用于前往数据海外世界的远航载具skid。
     只有三次进入过Lyoko，不过一直没展示其在Lyoko的形象，第31集被迫进入后被李奇和陈迪形容其形象十分可笑。
 
 <!-- end list -->
 
   - 阿奇（）
     配音：（法语原配），（英语），[盧素娟](../Page/盧素娟.md "wikilink")→[謝潔貞](../Page/謝潔貞.md "wikilink")（香港）
-    阿奇的金髮尖端有一些紫色的物體黏附在那兒，並且穿的衣服都是紫色系的。他經常活動過度，而且有時違反校規，甚至有腳臭。時常約女孩出街，可見是個花花公子。他希望他長大時，成為一個音樂家。他討厭尼古拉和赫比，並經常戲弄他們。他有一隻狗叫奇異果，因為學校並不准許帶寵物回校，所以奇異果一直躲在阿奇和[治狼的宿舍](../Page/治狼.md "wikilink")。
+    阿奇的金髮尖端有一些紫色的物體黏附在那兒，並且穿的衣服都是紫色系的。他經常活動過度，而且有時違反校規，甚至有腳臭。時常約女孩出街，可見是個花花公子。他希望他長大時，成為一個音樂家。他討厭尼古拉和赫比，並經常戲弄他們。他有一隻狗叫奇異果，因為學校並不准許帶寵物回校，所以奇異果一直躲在阿奇和[治狼的宿舍](https://zh.wikipedia.org/wiki/治狼 "wikilink")。
     阿奇是唯一一個最享受到Lyoko，並且能把他的生命交給Lyoko的人。在Lyoko世界的形象为一身紫色猫装扮，衣服印有他的狗的样子，第四季还有猫耳和猫尾，一对手爪是箭头发射器，也可以生成护盾格挡，手爪也可以攀爬和抓伤但攻击力不足，使用滑板作为移动载具。曾經吐槽過自己於Lyoko的裝扮有點奇怪。
     於第五季真人版起髮型改變了，而且發色也染成棕色。
 
@@ -40,7 +40,7 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 
   - 治狼（）
     配音：（法语原配），（英语），[黃鳳英](../Page/黃鳳英.md "wikilink")（香港）
-    治狼是[利奧高小組中](../Page/利奧高.md "wikilink")，體育最棒的人。他精於功夫和足球，在[卡迪中學裏頗受歡迎](../Page/卡迪中學.md "wikilink")，連[西西也喜歡他](../Page/西西_\(至Net奇兵\).md "wikilink")，但学习成绩不太好而令父亲担心。因為他的嚴厲，他與尤美有強烈的感覺，會在某些場合微笑和很快去判斷誰對尤美有興趣。顯然先天性妨碍了他承認對尤美的愛。
+    治狼是[利奧高小組中](../Page/利奧高.md "wikilink")，體育最棒的人。他精於功夫和足球，在[卡迪中學裏頗受歡迎](https://zh.wikipedia.org/wiki/卡迪中學 "wikilink")，連[西西也喜歡他](https://zh.wikipedia.org/wiki/西西_\(至Net奇兵\) "wikilink")，但学习成绩不太好而令父亲担心。因為他的嚴厲，他與尤美有強烈的感覺，會在某些場合微笑和很快去判斷誰對尤美有興趣。顯然先天性妨碍了他承認對尤美的愛。
     在Lyoko世界的形象是一名武士，使用单把武士刀（第四季增加为两把），能使用迅速冲刺的技能，并形成「超级冲刺」、「分身三体」和「三角战阵」三种攻击招式，使用单轮摩托作为移动载具。
 
 <!-- end list -->
@@ -64,7 +64,7 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 
   - 賀法蘭（）
     配音：（法语原配，82集），（法语原配），（英语第二季），（英语第三，四季），[黃子敬](../Page/黃子敬.md "wikilink")（香港）
-    賀法蘭是亞烈達的父親。大約十年前，他是在[卡迪中學任教的科學老師](../Page/卡迪中學.md "wikilink")，同時是僻靜大屋的屋主、迦太基計劃的領導者。他也是[利奧高和山拿以及工厂](../Page/利奧高.md "wikilink")[超級電腦的創造者](../Page/超級電腦.md "wikilink")。
+    賀法蘭是亞烈達的父親。大約十年前，他是在[卡迪中學任教的科學老師](https://zh.wikipedia.org/wiki/卡迪中學 "wikilink")，同時是僻靜大屋的屋主、迦太基計劃的領導者。他也是[利奧高和山拿以及工厂](../Page/利奧高.md "wikilink")[超級電腦的創造者](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")。
     政府秘密计划「迦太基計劃」的核心人物，但十年前政府试图拘捕他们时进入了Lyoko世界躲避，但不能形成人形并与山拿谈判破裂后被山拿袭击，导致亞烈達被困Lyoko世界，自己也被迫隐藏。具有能强行恢复被山拿控制的圆塔的能力，并且不同于亞烈達所控制蓝色的白色。在第二季中为了拯救被山拿偷走记忆并失去所有生命点的亞烈達而出现，并牺牲了自己，但实际上仍存在于Lyoko世界。第四季中提供了由于第三季被破坏的Lyoko世界的重建信息，并多次保护亞烈達。最终在94集提供用于追杀外逃山拿的程序并保持程序的运行而真正地消失。
 
 <!-- end list -->
@@ -79,14 +79,14 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 
   - 尼古拉（）
     配音：[雷碧娜](../Page/雷碧娜.md "wikilink")（香港）
-    [西西的老友](../Page/西西_\(至Net奇兵\).md "wikilink")，尼古拉最喜歡嘲笑別人，且精通打鼓。他們兩個對治狼很反感，因為西西喜愛他。他們同時討厭尤美，因為[西西討厭她和阿奇](../Page/西西_\(至Net奇兵\).md "wikilink")，二人的折磨者。
+    [西西的老友](https://zh.wikipedia.org/wiki/西西_\(至Net奇兵\) "wikilink")，尼古拉最喜歡嘲笑別人，且精通打鼓。他們兩個對治狼很反感，因為西西喜愛他。他們同時討厭尤美，因為[西西討厭她和阿奇](https://zh.wikipedia.org/wiki/西西_\(至Net奇兵\) "wikilink")，二人的折磨者。
     於第五季沒有再出場。
 
 <!-- end list -->
 
   - 赫比（）
     配音：[蔡惠萍](../Page/蔡惠萍.md "wikilink")（香港）
-    [西西的老友](../Page/西西_\(至Net奇兵\).md "wikilink")，赫比滿面暗瘡，他仍暗戀西西。只要西西說什麼，他們就會做什麼。他們兩個對治狼很反感，因為西西喜愛他。他們同時討厭尤美，因為[西西討厭她和阿奇](../Page/西西_\(至Net奇兵\).md "wikilink")，二人的折磨者。在第一輯第20集「機器人」中在比賽中輸給傑理明，所以他也討厭傑理明，雖然是這樣但憑著赫比的頭腦也曾經協助到小隊們。
+    [西西的老友](https://zh.wikipedia.org/wiki/西西_\(至Net奇兵\) "wikilink")，赫比滿面暗瘡，他仍暗戀西西。只要西西說什麼，他們就會做什麼。他們兩個對治狼很反感，因為西西喜愛他。他們同時討厭尤美，因為[西西討厭她和阿奇](https://zh.wikipedia.org/wiki/西西_\(至Net奇兵\) "wikilink")，二人的折磨者。在第一輯第20集「機器人」中在比賽中輸給傑理明，所以他也討厭傑理明，雖然是這樣但憑著赫比的頭腦也曾經協助到小隊們。
     於第五季沒有再出場。
 
 <!-- end list -->
@@ -99,7 +99,7 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 
   - 艾美莉（）
     配音：[曾秀清](../Page/曾秀清.md "wikilink")（香港）
-    喜歡治狼的。長得高，黑色頭髮，戴眼鏡和性格外向，但發起脾氣來是很可怕的。她也曾表示自己對治狼有興趣，但不像[西西的追求方式](../Page/西西_\(至Net奇兵\).md "wikilink")。
+    喜歡治狼的。長得高，黑色頭髮，戴眼鏡和性格外向，但發起脾氣來是很可怕的。她也曾表示自己對治狼有興趣，但不像[西西的追求方式](https://zh.wikipedia.org/wiki/西西_\(至Net奇兵\) "wikilink")。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 <!-- end list -->
 
   - 薩曼莎（）/（）
-    配音：[梁少霞](../Page/梁少霞.md "wikilink")（香港））
+    配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")（香港））
     阿奇約過的所有女生之中最喜歡的其中一個女生。此角色出現過兩個不同的版本。
     首4季2D動畫版出場的薩曼莎為一個穿著比較男性化的短髮黑人少女，跟阿奇一樣是滑板高手，姓氏為Knight。但第五季真人版出場的薩曼莎是穿著比較簡樸，而且是染金髮的白人少女，相比之下比較文靜一點，姓氏為Suarez，故此實際上是兩個不同的角色。
 
@@ -193,7 +193,7 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
   - 卡迪中学
     本故事的主要舞台之一，主角群所就读的学校，是一所初高中连读学校，贺法兰曾经在该校任教，存在有前往工厂的隐藏路径。\[4\]外形参考了现实中法国一家名为的学校。\[5\]
   - 工廠
-    本故事的主要舞台之一，在卡迪中学附近的一个河中小岛上，已长期荒废，有一台可以使用的升降货梯能通往埋藏于地下的山拿超级计算机设施。山拿超级电脑设施在地下分三层，第一层是是操作室，用于超级电脑的操作；第二层是扫描室，有三台扫描器允许将人扫描进出Lyoko世界；第三层是超级计算机机房。外形也是参考了法国城市[布洛涅-比扬古](../Page/布洛涅-比扬古.md "wikilink")[塞纳河一个岛上的一家废置工厂](../Page/塞纳河.md "wikilink")，该工厂原形已于2004年拆毁。\[6\]。
+    本故事的主要舞台之一，在卡迪中学附近的一个河中小岛上，已长期荒废，有一台可以使用的升降货梯能通往埋藏于地下的山拿超级计算机设施。山拿超级电脑设施在地下分三层，第一层是是操作室，用于超级电脑的操作；第二层是扫描室，有三台扫描器允许将人扫描进出Lyoko世界；第三层是超级计算机机房。外形也是参考了法国城市[布洛涅-比扬古](https://zh.wikipedia.org/wiki/布洛涅-比扬古 "wikilink")[塞纳河一个岛上的一家废置工厂](../Page/塞纳河.md "wikilink")，该工厂原形已于2004年拆毁。\[6\]。
 
 ### 虛擬世界
 
@@ -202,21 +202,21 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 #### 利奧高
 
 利奧高
-(Lyoko)，主要分為五大[區域](../Page/區域.md "wikilink")，另有一個區域掉進去能殲滅一切[數據的](../Page/數據.md "wikilink")[數碼海](../Page/Lyoko#數碼海.md "wikilink")，五大區域分別為：
+(Lyoko)，主要分為五大[區域](https://zh.wikipedia.org/wiki/區域 "wikilink")，另有一個區域掉進去能殲滅一切[數據的](https://zh.wikipedia.org/wiki/數據 "wikilink")[數碼海](https://zh.wikipedia.org/wiki/Lyoko#數碼海 "wikilink")，五大區域分別為：
 
-  - [沙漠區](../Page/利奧高#沙漠.md "wikilink")
-  - [森林區](../Page/利奧高#森林.md "wikilink")
-  - [高原區](../Page/利奧高#山脈.md "wikilink")
-  - [冰川區](../Page/利奧高#冰川.md "wikilink")
-  - [第五區域](../Page/利奧高#第五區域（迦太基）.md "wikilink")（在第二輯中發现）
-      - [第五區域中心區](../Page/利奧高#第五區域中心區.md "wikilink")（在第三輯中發现）
-  - [數碼海](../Page/利奧高#數碼海.md "wikilink")（這不是利奧高的分區之一，第四輯中可以新交通工具──Skid──潛入探險）
+  - [沙漠區](https://zh.wikipedia.org/wiki/利奧高#沙漠 "wikilink")
+  - [森林區](https://zh.wikipedia.org/wiki/利奧高#森林 "wikilink")
+  - [高原區](https://zh.wikipedia.org/wiki/利奧高#山脈 "wikilink")
+  - [冰川區](https://zh.wikipedia.org/wiki/利奧高#冰川 "wikilink")
+  - [第五區域](https://zh.wikipedia.org/wiki/利奧高#第五區域（迦太基） "wikilink")（在第二輯中發现）
+      - [第五區域中心區](https://zh.wikipedia.org/wiki/利奧高#第五區域中心區 "wikilink")（在第三輯中發现）
+  - [數碼海](https://zh.wikipedia.org/wiki/利奧高#數碼海 "wikilink")（這不是利奧高的分區之一，第四輯中可以新交通工具──Skid──潛入探險）
 
-頭五個區域都在第三輯陸續被摧毀，但在第四輯[傑理明使用](../Page/傑理明.md "wikilink")[賀法蘭給他的數據](../Page/賀法蘭.md "wikilink"),成功令所有區域重生。
+頭五個區域都在第三輯陸續被摧毀，但在第四輯[傑理明使用](https://zh.wikipedia.org/wiki/傑理明 "wikilink")[賀法蘭給他的數據](https://zh.wikipedia.org/wiki/賀法蘭 "wikilink"),成功令所有區域重生。
 
 #### 高塔 （屬於利奧高）
 
-[利奧高中的](../Page/利奧高.md "wikilink")**[高塔](../Page/利奧高#高塔.md "wikilink")**，可以幫助运行[利奧高的超級電腦處理數據](../Page/利奧高.md "wikilink")，並連結利奧高和真實世界。
+[利奧高中的](../Page/利奧高.md "wikilink")**[高塔](https://zh.wikipedia.org/wiki/利奧高#高塔 "wikilink")**，可以幫助运行[利奧高的超級電腦處理數據](../Page/利奧高.md "wikilink")，並連結利奧高和真實世界。
 
 ## 各话列表
 
@@ -355,45 +355,46 @@ Kids**》（車庫兒童），是一套[法國出產的](../Page/法國.md "wiki
 | 121          | Ultime mission                 | Ultimate Mission               | 終極任務     |
 |              |                                |                                |          |
 
-註：因為[美國](../Page/美國.md "wikilink")[卡通頻道不是順序播放](../Page/卡通頻道.md "wikilink")，所以在[YouTube看到的英文版次序根原本有別](../Page/YouTube.md "wikilink")。
-（如第49集Franz Hopper（賀法蘭），在[美國是](../Page/美國.md "wikilink")47集。）
+註：因為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[卡通頻道不是順序播放](../Page/卡通頻道.md "wikilink")，所以在[YouTube看到的英文版次序根原本有別](../Page/YouTube.md "wikilink")。
+（如第49集Franz
+Hopper（賀法蘭），在[美國是](https://zh.wikipedia.org/wiki/美國 "wikilink")47集。）
 
 ## 輯與輯之間的改變
 
 ### 第二輯
 
-  - 新加入一些[怪獸](../Page/怪獸_\(至Net奇兵\).md "wikilink")。
-  - [亞烈達被實體化](../Page/亞烈達.md "wikilink")。
+  - 新加入一些[怪獸](https://zh.wikipedia.org/wiki/怪獸_\(至Net奇兵\) "wikilink")。
+  - [亞烈達被實體化](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")。
   - 加入了故事元素。
-  - [利奧高小組成員得到車輛](../Page/利奧高小組.md "wikilink")(overvehicules)，供在[利奧高內使用](../Page/利奧高.md "wikilink")。
-  - [傑理明製造了新的掃描器](../Page/傑理明.md "wikilink")。
-  - [CG特效加強](../Page/CG特效.md "wikilink")。
-  - 加了一區域：[第五區域](../Page/利奧高#第五區域（迦太基）.md "wikilink")。
+  - [利奧高小組成員得到車輛](https://zh.wikipedia.org/wiki/利奧高小組 "wikilink")(overvehicules)，供在[利奧高內使用](../Page/利奧高.md "wikilink")。
+  - [傑理明製造了新的掃描器](https://zh.wikipedia.org/wiki/傑理明 "wikilink")。
+  - [CG特效加強](https://zh.wikipedia.org/wiki/CG特效 "wikilink")。
+  - 加了一區域：[第五區域](https://zh.wikipedia.org/wiki/利奧高#第五區域（迦太基） "wikilink")。
 
 ### 第三輯
 
-  - [亞烈達可以自由進出](../Page/亞烈達.md "wikilink")[利奧高](../Page/利奧高.md "wikilink")。
-  - [亞烈達有了攻擊力](../Page/亞烈達.md "wikilink")，她的能量球(energy
-    field)攻擊會讓[怪獸被破壞](../Page/怪獸_\(至Net奇兵\).md "wikilink")。
-  - [亞烈達失去所有生命點後可自動返回真實世界](../Page/亞烈達.md "wikilink")。
-  - [賀法蘭在後期加入](../Page/賀法蘭.md "wikilink")[利奧高小組](../Page/利奧高小組.md "wikilink")。
-  - 威廉在第六十五集「決賽」進入了[利奧高](../Page/利奧高.md "wikilink")，之後被[山拿控制](../Page/山拿.md "wikilink")，並破壞[利奧高](../Page/利奧高.md "wikilink")。
+  - [亞烈達可以自由進出](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")[利奧高](../Page/利奧高.md "wikilink")。
+  - [亞烈達有了攻擊力](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")，她的能量球(energy
+    field)攻擊會讓[怪獸被破壞](https://zh.wikipedia.org/wiki/怪獸_\(至Net奇兵\) "wikilink")。
+  - [亞烈達失去所有生命點後可自動返回真實世界](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")。
+  - [賀法蘭在後期加入](https://zh.wikipedia.org/wiki/賀法蘭 "wikilink")[利奧高小組](https://zh.wikipedia.org/wiki/利奧高小組 "wikilink")。
+  - 威廉在第六十五集「決賽」進入了[利奧高](../Page/利奧高.md "wikilink")，之後被[山拿控制](https://zh.wikipedia.org/wiki/山拿 "wikilink")，並破壞[利奧高](../Page/利奧高.md "wikilink")。
   - CG特效再加強。
-  - 再加了一區：[第五區域中心區](../Page/利奧高#第五區域中心區.md "wikilink")。
+  - 再加了一區：[第五區域中心區](https://zh.wikipedia.org/wiki/利奧高#第五區域中心區 "wikilink")。
 
 ### 第四輯
 
-雖然第三輯大結局，威廉毀滅了[利奧高](../Page/利奧高.md "wikilink")，但是本輯中，[利奧高被重建了](../Page/利奧高.md "wikilink")，使利奧高小組可以繼續對付山拿。此外，[傑理明還製作了虛擬潛艇](../Page/傑理明.md "wikilink")（Skid），使利奧高小組可以到數-{碼}-海處戰鬥。在數-{碼}-海中，利奧高小組找到一個名叫「Replika」的世界，是[山拿控制其他的超級電腦而創建的](../Page/山拿.md "wikilink")。
+雖然第三輯大結局，威廉毀滅了[利奧高](../Page/利奧高.md "wikilink")，但是本輯中，[利奧高被重建了](../Page/利奧高.md "wikilink")，使利奧高小組可以繼續對付山拿。此外，[傑理明還製作了虛擬潛艇](https://zh.wikipedia.org/wiki/傑理明 "wikilink")（Skid），使利奧高小組可以到數-{碼}-海處戰鬥。在數-{碼}-海中，利奧高小組找到一個名叫「Replika」的世界，是[山拿控制其他的超級電腦而創建的](https://zh.wikipedia.org/wiki/山拿 "wikilink")。
 
   - 主角有新戰鬥服（67集開始）。
-  - [亞烈達可以飛行](../Page/亞烈達.md "wikilink")（67集開始）。
+  - [亞烈達可以飛行](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")（67集開始）。
   - 加入新怪物。
   - 加入新區域（數-{碼}-海、Replika）。
   - 威廉成了新的敵人。
   - 加入了新運載工具（Skid）。
   - 加入了新人物。
   - 加入了新背景音樂。
-  - [賀法蘭被](../Page/賀法蘭.md "wikilink")[魔鬼魚消滅](../Page/至Net奇兵怪獸列表#\(飛行\)蝙蝠怪2/魔鬼魚2\(Flying_Manta\).md "wikilink")。
+  - [賀法蘭被](https://zh.wikipedia.org/wiki/賀法蘭 "wikilink")[魔鬼魚消滅](https://zh.wikipedia.org/wiki/至Net奇兵怪獸列表#\(飛行\)蝙蝠怪2/魔鬼魚2\(Flying_Manta\) "wikilink")。
   - 和第一至三輯相比，有相對完整的結局。
 
 ### 第五輯(Code Lyoko: Evolution)
@@ -420,15 +421,15 @@ Belpois)作為筆名。
 
 ## 趣事
 
-  - 真的[卡迪中學和工廠在](../Page/卡迪中學.md "wikilink")[巴黎市郊](../Page/巴黎.md "wikilink")，工廠已於2004年拆卸。
-  - [亞烈達可能是](../Page/亞烈達.md "wikilink")[俄羅斯人](../Page/俄羅斯.md "wikilink")，另一說是加拿大人。
-  - 在第四二集《小亂》的開頭，[治狼用硬幣估誰會出來先](../Page/治狼.md "wikilink")，而那硬幣是[歐元](../Page/歐元.md "wikilink")。
-  - Lyoko迷覺得[山拿攻擊](../Page/山拿.md "wikilink")[尤美感到不可接受](../Page/尤美.md "wikilink")。
-  - [阿奇被指在第三十八集](../Page/阿奇.md "wikilink")《誘惑》使用筷子，第四十二集《小亂》卻說他不懂用。
-  - 《[始終有你](../Page/始終有你.md "wikilink")》的改版除一眾《[福佳始終有你](../Page/福佳_\(歌曲\).md "wikilink")》的片段外，還有一個片段是有關至Net奇兵的[1](http://www.youtube.com/watch?v=hnHCa6Kt2Us)，但這片段沒有包括全首歌。
+  - 真的[卡迪中學和工廠在](https://zh.wikipedia.org/wiki/卡迪中學 "wikilink")[巴黎市郊](../Page/巴黎.md "wikilink")，工廠已於2004年拆卸。
+  - [亞烈達可能是](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")[俄羅斯人](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，另一說是加拿大人。
+  - 在第四二集《小亂》的開頭，[治狼用硬幣估誰會出來先](https://zh.wikipedia.org/wiki/治狼 "wikilink")，而那硬幣是[歐元](https://zh.wikipedia.org/wiki/歐元 "wikilink")。
+  - Lyoko迷覺得[山拿攻擊](https://zh.wikipedia.org/wiki/山拿 "wikilink")[尤美感到不可接受](https://zh.wikipedia.org/wiki/尤美 "wikilink")。
+  - [阿奇被指在第三十八集](https://zh.wikipedia.org/wiki/阿奇 "wikilink")《誘惑》使用筷子，第四十二集《小亂》卻說他不懂用。
+  - 《[始終有你](../Page/始終有你.md "wikilink")》的改版除一眾《[福佳始終有你](https://zh.wikipedia.org/wiki/福佳_\(歌曲\) "wikilink")》的片段外，還有一個片段是有關至Net奇兵的[1](http://www.youtube.com/watch?v=hnHCa6Kt2Us)，但這片段沒有包括全首歌。
   - 治狼後來睡覺時經常直接把手機放在嘴邊上睡，而且還把揚聲器打開。這樣夜裡的電話就只用按一個鍵，便可邊躺著邊撥電話了。
   - 雖然在影片裡看著工廠和卡迪中學離得不遠，但是卡迪中學原形和與2004年被拆除的工廠原形的距離超過17公里。
-  - 種種跡象表明[治狼有](../Page/治狼.md "wikilink")[恐高症](../Page/恐高症.md "wikilink")。
+  - 種種跡象表明[治狼有](https://zh.wikipedia.org/wiki/治狼 "wikilink")[恐高症](https://zh.wikipedia.org/wiki/恐高症 "wikilink")。
 
 ## 反應
 

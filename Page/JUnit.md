@@ -1,6 +1,6 @@
-**JUnit**是一个[Java语言的](../Page/Java.md "wikilink")[单元测试框架](../Page/单元测试.md "wikilink")。它由[肯特·貝克和](../Page/肯特·貝克.md "wikilink")[埃里希·伽瑪](../Page/埃里希·伽瑪.md "wikilink")（Erich
+**JUnit**是一个[Java语言的](../Page/Java.md "wikilink")[单元测试框架](../Page/单元测试.md "wikilink")。它由[肯特·貝克和](../Page/肯特·貝克.md "wikilink")[埃里希·伽瑪](https://zh.wikipedia.org/wiki/埃里希·伽瑪 "wikilink")（Erich
 Gamma）建立，逐渐成为源于Kent
-Beck的[sUnit的](../Page/sUnit.md "wikilink")[xUnit家族中为最成功的一个](../Page/xUnit.md "wikilink")。
+Beck的[sUnit的](https://zh.wikipedia.org/wiki/sUnit "wikilink")[xUnit家族中为最成功的一个](https://zh.wikipedia.org/wiki/xUnit "wikilink")。
 JUnit有它自己的[JUnit扩展](https://web.archive.org/web/20051013060403/http://www.junit.org/news/extension/index.htm)生态圈。
 
 ## 例子
@@ -50,13 +50,13 @@ By Example》一书（有中文版和影印版）。
 
 ## 衍生工具
 
-  - [HttpUnit](../Page/HttpUnit.md "wikilink")
-  - [CUnit](../Page/CUnit.md "wikilink")
-  - [NUnit](../Page/NUnit.md "wikilink")
-  - [CPPUnit](../Page/CPPUnit.md "wikilink")
-  - [PHPUnit](../Page/PHPUnit.md "wikilink")
-  - [OCUnit](../Page/OCUnit.md "wikilink")
-  - [ASPUnit](../Page/ASPUnit.md "wikilink")
+  - [HttpUnit](https://zh.wikipedia.org/wiki/HttpUnit "wikilink")
+  - [CUnit](https://zh.wikipedia.org/wiki/CUnit "wikilink")
+  - [NUnit](https://zh.wikipedia.org/wiki/NUnit "wikilink")
+  - [CPPUnit](https://zh.wikipedia.org/wiki/CPPUnit "wikilink")
+  - [PHPUnit](https://zh.wikipedia.org/wiki/PHPUnit "wikilink")
+  - [OCUnit](https://zh.wikipedia.org/wiki/OCUnit "wikilink")
+  - [ASPUnit](https://zh.wikipedia.org/wiki/ASPUnit "wikilink")
 
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 [Category:軟體測試](https://zh.wikipedia.org/wiki/Category:軟體測試 "wikilink")

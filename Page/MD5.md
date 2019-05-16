@@ -1,18 +1,18 @@
-**MD5訊息摘要演算法**（），一種被廣泛使用的[密碼雜湊函數](../Page/密碼雜湊函數.md "wikilink")，可以產生出一個128位元（16[位元組](../Page/位元組.md "wikilink")）的散列值（hash
-value），用于确保信息传输完整一致。MD5由美國密碼學家[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（）設計，於1992年公開，用以取代[MD4演算法](../Page/MD4.md "wikilink")。這套演算法的程序在
+**MD5訊息摘要演算法**（），一種被廣泛使用的[密碼雜湊函數](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，可以產生出一個128位元（16[位元組](https://zh.wikipedia.org/wiki/位元組 "wikilink")）的散列值（hash
+value），用于确保信息传输完整一致。MD5由美國密碼學家[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（）設計，於1992年公開，用以取代[MD4演算法](https://zh.wikipedia.org/wiki/MD4 "wikilink")。這套演算法的程序在
 RFC 1321 中被加以規範。
 
-将[数据](../Page/数据.md "wikilink")（如一段文字）运算变为另一固定长度值，是雜湊算法的基础原理。
+将[数据](https://zh.wikipedia.org/wiki/数据 "wikilink")（如一段文字）运算变为另一固定长度值，是雜湊算法的基础原理。
 
-1996年後被證實存在弱點，可以被加以[破解](../Page/破解.md "wikilink")，對於需要高度安全性的資料，專家一般建議改用其他演算法，如[SHA-2](../Page/SHA-2.md "wikilink")。2004年，證實MD5演算法無法防止碰撞（collision），因此不適用於安全性認證，如[SSL](../Page/SSL.md "wikilink")[公開金鑰認證或是](../Page/公開金鑰認證.md "wikilink")[數位簽章等用途](../Page/數位簽章.md "wikilink")。
+1996年後被證實存在弱點，可以被加以[破解](https://zh.wikipedia.org/wiki/破解 "wikilink")，對於需要高度安全性的資料，專家一般建議改用其他演算法，如[SHA-2](../Page/SHA-2.md "wikilink")。2004年，證實MD5演算法無法防止碰撞（collision），因此不適用於安全性認證，如[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")[公開金鑰認證或是](../Page/公開金鑰認證.md "wikilink")[數位簽章等用途](../Page/數位簽章.md "wikilink")。
 
 ## 历史与密码学
 
 1992年8月，罗纳德·李维斯特向[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）提交了一份重要文件，描述了这种算法的原理。由于这种算法的公开性和安全性，在90年代被广泛使用在各种程序语言中，用以確保资料傳遞無誤等。\[1\]
 
-MD5由MD4、[MD3](../Page/MD3.md "wikilink")、[MD2改进而来](../Page/MD2.md "wikilink")，主要增强算法复杂度和不可逆性。
+MD5由MD4、[MD3](https://zh.wikipedia.org/wiki/MD3 "wikilink")、[MD2改进而来](https://zh.wikipedia.org/wiki/MD2 "wikilink")，主要增强算法复杂度和不可逆性。
 
-目前，MD5算法因其普遍、稳定、快速的特点，仍广泛应用于普通数据的错误检查领域。例如在一些[BitTorrent下载中](../Page/BitTorrent.md "wikilink")，软件将通过计算MD5检验下载到的文件片段的完整性。
+目前，MD5算法因其普遍、稳定、快速的特点，仍广泛应用于普通数据的错误检查领域。例如在一些[BitTorrent下载中](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，软件将通过计算MD5检验下载到的文件片段的完整性。
 
 ## 应用
 
@@ -120,12 +120,12 @@ var int digest := h0 append h1 append h2 append h3 //(expressed as little-endian
 
 ## 缺陷
 
-2009年，[中國科學院的謝濤和馮登國仅用了](../Page/中國科學院.md "wikilink")2<sup>20.96</sup>的碰撞算法複雜度，破解了MD5的[碰撞抵抗](../Page/碰撞抵抗.md "wikilink")，该攻击在普通计算机上运行只需要数秒钟\[2\]。
+2009年，[中國科學院的謝濤和馮登國仅用了](https://zh.wikipedia.org/wiki/中國科學院 "wikilink")2<sup>20.96</sup>的碰撞算法複雜度，破解了MD5的[碰撞抵抗](https://zh.wikipedia.org/wiki/碰撞抵抗 "wikilink")，该攻击在普通计算机上运行只需要数秒钟\[2\]。
 
 ## 参见
 
-  - [MD2](../Page/MD2.md "wikilink")
-  - [MD4](../Page/MD4.md "wikilink")
+  - [MD2](https://zh.wikipedia.org/wiki/MD2 "wikilink")
+  - [MD4](https://zh.wikipedia.org/wiki/MD4 "wikilink")
   - [SHA](../Page/SHA家族.md "wikilink")
   - [AES](../Page/高级加密标准.md "wikilink")
 

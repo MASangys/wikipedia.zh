@@ -1,4 +1,4 @@
-**XAMPP**是一个把[Apache](../Page/Apache.md "wikilink")[网页服务器与](../Page/网页服务器.md "wikilink")[PHP](../Page/PHP.md "wikilink")、[Perl及](../Page/Perl.md "wikilink")[MariaDB集合在一起的](../Page/MariaDB.md "wikilink")[安裝包](../Page/软件包.md "wikilink")，允许用戶可以在自己的电脑上轻易的建立[网页服务器](../Page/网页服务器.md "wikilink")。
+**XAMPP**是一个把[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")[网页服务器与](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")[PHP](../Page/PHP.md "wikilink")、[Perl及](../Page/Perl.md "wikilink")[MariaDB集合在一起的](../Page/MariaDB.md "wikilink")[安裝包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，允许用戶可以在自己的电脑上轻易的建立[网页服务器](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")。
 
 ## 关于命名
 

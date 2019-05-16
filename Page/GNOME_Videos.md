@@ -8,7 +8,7 @@
 
   - 可播放，与数码（经由支持）
 
-  - 可调整[亮度](../Page/亮度.md "wikilink")，[对比度](../Page/对比度.md "wikilink")，[色调及](../Page/色调.md "wikilink")[饱和度](../Page/饱和度\(色彩\).md "wikilink")
+  - 可调整[亮度](https://zh.wikipedia.org/wiki/亮度 "wikilink")，[对比度](https://zh.wikipedia.org/wiki/对比度 "wikilink")，[色调及](https://zh.wikipedia.org/wiki/色调 "wikilink")[饱和度](https://zh.wikipedia.org/wiki/饱和度\(色彩\) "wikilink")
 
   - 可以在上实现全屏，支持双头输出及视口
 
@@ -16,7 +16,7 @@
 
   - 支持多语系及字幕，而且自动载入外挂字幕
 
-  - 支持4.0，4.1，5.0，5.1声道，[立体声与](../Page/立体声.md "wikilink")[AC3音频输出](../Page/AC3.md "wikilink")
+  - 支持4.0，4.1，5.0，5.1声道，[立体声与](https://zh.wikipedia.org/wiki/立体声 "wikilink")[AC3音频输出](https://zh.wikipedia.org/wiki/AC3 "wikilink")
 
   - 可调校音量
 
@@ -43,7 +43,7 @@
 ## 参见条目
 
   - [媒体播放器列表](../Page/媒体播放器列表.md "wikilink")
-  - [媒体播放器比较](../Page/媒体播放器比较.md "wikilink")
+  - [媒体播放器比较](https://zh.wikipedia.org/wiki/媒体播放器比较 "wikilink")
 
 ## 外部链接
 

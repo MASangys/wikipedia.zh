@@ -1,6 +1,6 @@
 **埃培智集团有限公司**（**Interpublic Group of Companies, Inc.
-(IPG)**、中国大陆翻译为“埃培智市场咨询”），世界四大[广告](../Page/广告.md "wikilink")[传播集团之一](../Page/传播.md "wikilink")(其他三家为[宏盟集团](../Page/宏盟集团.md "wikilink")、[WPP集团和](../Page/WPP集团.md "wikilink")[阳狮集团](../Page/阳狮.md "wikilink"))，总部在[纽约市](../Page/纽约市.md "wikilink")。旗下拥有[万博宣伟公关](../Page/万博宣伟.md "wikilink")（Weber
-Shandwick）、McCann-Erikson[麦肯环球广告](../Page/麦肯环球广告.md "wikilink")、Lowe\&Partners[灵狮广告](../Page/灵狮广告.md "wikilink")、FCB[博达大桥广告和优势麦肯](../Page/博达大桥广告.md "wikilink")、以及Initiative媒介等。\[1\]
+(IPG)**、中国大陆翻译为“埃培智市场咨询”），世界四大[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")[传播集团之一](https://zh.wikipedia.org/wiki/传播 "wikilink")(其他三家为[宏盟集团](https://zh.wikipedia.org/wiki/宏盟集团 "wikilink")、[WPP集团和](../Page/WPP集团.md "wikilink")[阳狮集团](../Page/阳狮.md "wikilink"))，总部在[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")。旗下拥有[万博宣伟公关](https://zh.wikipedia.org/wiki/万博宣伟 "wikilink")（Weber
+Shandwick）、McCann-Erikson[麦肯环球广告](https://zh.wikipedia.org/wiki/麦肯环球广告 "wikilink")、Lowe\&Partners[灵狮广告](https://zh.wikipedia.org/wiki/灵狮广告 "wikilink")、FCB[博达大桥广告和优势麦肯](https://zh.wikipedia.org/wiki/博达大桥广告 "wikilink")、以及Initiative媒介等。\[1\]
 
 Michael Roth是现任IPG[首席执行官](../Page/首席执行官.md "wikilink").
 
@@ -18,7 +18,7 @@ IPG 收购。 1999年， Lowe & Partners 与 Lintas 合并； 2000年改名为 L
 Partners Worldwide ； 2002年1月，又改名为 Lowe & Partners Worldwide（励富）。
 
 2001年3月，在经过了与 Havas 的一番角逐后， IPG 以 21 亿美元收购 True North 传播集团。世界广告史上的元老之一的
-[FCB](../Page/FCB.md "wikilink")（[博达大桥广告](../Page/博达大桥广告.md "wikilink")）正式被纳入
+[FCB](https://zh.wikipedia.org/wiki/FCB "wikilink")（[博达大桥广告](https://zh.wikipedia.org/wiki/博达大桥广告 "wikilink")）正式被纳入
 IPG 的帐下。
 
 ## 参考

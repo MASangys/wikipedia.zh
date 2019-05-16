@@ -1,9 +1,9 @@
-****（简称**SVN**，svn），一個[开放源代码的](../Page/开放源代码.md "wikilink")[版本控制系統](../Page/版本控制.md "wikilink")，相较于[RCS](../Page/修订控制系统.md "wikilink")、[CVS](../Page/协作版本系统.md "wikilink")，它採用了分支管理系統，它的設計目標就是取代CVS。互聯網上很多版本控制服務已从CVS转移到Subversion。
+****（简称**SVN**，svn），一個[开放源代码的](../Page/开放源代码.md "wikilink")[版本控制系統](../Page/版本控制.md "wikilink")，相较于[RCS](https://zh.wikipedia.org/wiki/修订控制系统 "wikilink")、[CVS](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")，它採用了分支管理系統，它的設計目標就是取代CVS。互聯網上很多版本控制服務已从CVS转移到Subversion。
 
 ## 历史
 
-[CollabNet](../Page/CollabNet.md "wikilink")
-于2000年创建SVN项目，意在写出一款近似[CVS操作方式的版本控制系统](../Page/CVS.md "wikilink")。只不过，此款产品针对CVS的bug和一些缺失的功能，进行了修正和补充。
+[CollabNet](https://zh.wikipedia.org/wiki/CollabNet "wikilink")
+于2000年创建SVN项目，意在写出一款近似[CVS操作方式的版本控制系统](https://zh.wikipedia.org/wiki/CVS "wikilink")。只不过，此款产品针对CVS的bug和一些缺失的功能，进行了修正和补充。
 
 2000年2月，他们联系了Open Source Development with CVS（Coriolis, 1999）的作者Karl
 Fogel，问他是否愿意为这个新專案工作。巧的是这时Karl已经在和他的朋友Jim
@@ -22,21 +22,21 @@ Robbins作了恰当的推动，Subversion很快吸引了一个活跃的开发人
 FSG完全兼容。换句话说，任何人可以免费下载，修改，按自己的意愿重新分发Subversion，而不必得到来自CollabNet或其他任何人的许可。
 
 2009年11月，Subversion被[Apache
-Incubator專案所接收](../Page/Apache_Incubator.md "wikilink")。
+Incubator專案所接收](https://zh.wikipedia.org/wiki/Apache_Incubator "wikilink")。
 
 2010年1月，正式成為[Apache软件基金会的一個頂級專案](../Page/Apache软件基金会.md "wikilink")。
 
 ## 特性
 
   - 统一的版本号。CVS是对每个文件顺序编排版本号，在某一时间各文件的版本号各不相同。而Subversion下，任何一次提交都会对所有文件增加到同一个新版本号，即使是提交并不涉及的文件。所以，各文件在某任意时间的版本号是相同的。版本号相同的文件构成软件的一个版本。
-  - [原子提交](../Page/原子操作.md "wikilink")。一次提交不管是單個還是多個文件，都是作為一個整體提交的。在這當中發生的意外例如傳輸中斷，不會引起數據庫的不完整和數據損壞。
+  - [原子提交](https://zh.wikipedia.org/wiki/原子操作 "wikilink")。一次提交不管是單個還是多個文件，都是作為一個整體提交的。在這當中發生的意外例如傳輸中斷，不會引起數據庫的不完整和數據損壞。
   - 重命名、複製、刪除文件等動作都保存在版本歷史記錄當中。
   - 對於二進制文件，使用了節省空間的保存方法（簡單的理解，就是只保存和上一版本不同之處）。
   - 目錄也有版本歷史。整個目錄樹可以被移動或者複製，操作很簡單，而且能夠保留全部版本記錄。
   - 分支的開銷非常小。
   - 最佳化過的數據庫訪問，使得一些操作不必訪問數據庫就可以做到。這樣減少了很多不必要的和數據庫主機之間的網絡流量。
   - 支持元数据（Metadata）管理。每个目录或文件都可以定义属性（Property），它是一些隐藏的键值对，用户可以自定义属性内容，而且属性和文件内容一样在版本控制范围内。
-  - 支持[FSFS和](../Page/FSFS.md "wikilink")[Berkeley
+  - 支持[FSFS和](https://zh.wikipedia.org/wiki/FSFS "wikilink")[Berkeley
     DB两种资料库格式](../Page/Berkeley_DB.md "wikilink")。
 
 ## 企业级subversion
@@ -59,10 +59,10 @@ Management）是软件配置管理的未来趋势，各种软件版本工具包�
 
 ## 使用情況
 
-雖然在2006年Subversion的使用族群仍然遠少於傳統的CVS，但已經有許多[開放-{zh-tw:原碼;zh-hk:原碼;zh-cn:源码;}-團體決定將CVS轉換為Subversion](../Page/開放源代碼.md "wikilink")。已經轉換使用Subversion的包括了[FreeBSD](../Page/FreeBSD.md "wikilink")、[Apache
+雖然在2006年Subversion的使用族群仍然遠少於傳統的CVS，但已經有許多[開放-{zh-tw:原碼;zh-hk:原碼;zh-cn:源码;}-團體決定將CVS轉換為Subversion](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。已經轉換使用Subversion的包括了[FreeBSD](../Page/FreeBSD.md "wikilink")、[Apache
 Software
-Foundation](../Page/Apache_Software_Foundation.md "wikilink")、[KDE](../Page/KDE.md "wikilink")、[GNOME](../Page/GNOME.md "wikilink")、[GCC](../Page/GCC.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Samba](../Page/Samba.md "wikilink")、[Mono以及許多團體](../Page/Mono.md "wikilink")。許多開發團隊換用Subversion是因為[Trac](../Page/Trac.md "wikilink")、[SourceForge](../Page/SourceForge.md "wikilink")、[CollabNet](../Page/CollabNet.md "wikilink")、[CodeBeamer等專案協同作業軟體以及](../Page/CodeBeamer.md "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")、[NetBeans等](../Page/NetBeans.md "wikilink")[IDE提供Subversion的支援整合](../Page/IDE.md "wikilink")。除此之外，一些自由軟體開發的協作網如[SourceForge.net除了提供CVS外](../Page/SourceForge.net.md "wikilink")，現在也提供專案開發者使用Subversion作為源代码管理系統，[JavaForge](../Page/JavaForge.md "wikilink")、[Google
-Code以及](../Page/Google_Code.md "wikilink")[BountySource則以Subversion作為官方的源代码管理系統](../Page/BountySource.md "wikilink")。
+Foundation](https://zh.wikipedia.org/wiki/Apache_Software_Foundation "wikilink")、[KDE](../Page/KDE.md "wikilink")、[GNOME](../Page/GNOME.md "wikilink")、[GCC](../Page/GCC.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Samba](../Page/Samba.md "wikilink")、[Mono以及許多團體](../Page/Mono.md "wikilink")。許多開發團隊換用Subversion是因為[Trac](../Page/Trac.md "wikilink")、[SourceForge](../Page/SourceForge.md "wikilink")、[CollabNet](https://zh.wikipedia.org/wiki/CollabNet "wikilink")、[CodeBeamer等專案協同作業軟體以及](https://zh.wikipedia.org/wiki/CodeBeamer "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")、[NetBeans等](../Page/NetBeans.md "wikilink")[IDE提供Subversion的支援整合](https://zh.wikipedia.org/wiki/IDE "wikilink")。除此之外，一些自由軟體開發的協作網如[SourceForge.net除了提供CVS外](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")，現在也提供專案開發者使用Subversion作為源代码管理系統，[JavaForge](https://zh.wikipedia.org/wiki/JavaForge "wikilink")、[Google
+Code以及](https://zh.wikipedia.org/wiki/Google_Code "wikilink")[BountySource則以Subversion作為官方的源代码管理系統](https://zh.wikipedia.org/wiki/BountySource "wikilink")。
 
 2009年，绝大多数CVS服务已经改用SVN。此时CVS早已经停止维护。不过CVS也有了合适的替代品。
 

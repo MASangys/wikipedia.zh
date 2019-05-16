@@ -1,23 +1,25 @@
 **Grid.org**
-是一个以药物集成开发为主题的[分布式计算平台](../Page/分布式计算平台.md "wikilink")，它主要为一些生物医药类项目提供计算平台。
+是一个以药物集成开发为主题的[分布式计算平台](https://zh.wikipedia.org/wiki/分布式计算平台 "wikilink")，它主要为一些生物医药类项目提供计算平台。
 
 在该平台上曾经运行过的[分布式计算项目如下](../Page/分布式计算.md "wikilink")：
 
   - [Genetic Research with
-    HMMER](../Page/Genetic_Research_with_HMMER.md "wikilink")
+    HMMER](https://zh.wikipedia.org/wiki/Genetic_Research_with_HMMER "wikilink")
   - [Web Performance
-    Testing](../Page/Web_Performance_Testing.md "wikilink")
-  - [Anthrax](../Page/Anthrax.md "wikilink")
-  - [Smallpox](../Page/Smallpox.md "wikilink")
+    Testing](https://zh.wikipedia.org/wiki/Web_Performance_Testing "wikilink")
+  - [Anthrax](https://zh.wikipedia.org/wiki/Anthrax "wikilink")
+  - [Smallpox](https://zh.wikipedia.org/wiki/Smallpox "wikilink")
 
 目前运行于该平台下的分布式计算项目如下：
 
-  - [Cancer Research](../Page/Cancer_Research.md "wikilink")
+  - [Cancer
+    Research](https://zh.wikipedia.org/wiki/Cancer_Research "wikilink")
   - [Human Proteome
-    Folding](../Page/Human_Proteome_Folding.md "wikilink")
+    Folding](https://zh.wikipedia.org/wiki/Human_Proteome_Folding "wikilink")
   - [Pancreatic Cancer
-    Research](../Page/Pancreatic_Cancer_Research.md "wikilink")
-  - [United Devices](../Page/United_Devices.md "wikilink")
+    Research](https://zh.wikipedia.org/wiki/Pancreatic_Cancer_Research "wikilink")
+  - [United
+    Devices](https://zh.wikipedia.org/wiki/United_Devices "wikilink")
 
 ## 時間線
 
@@ -62,7 +64,7 @@
   - [分布式计算](../Page/分布式计算.md "wikilink")
   - [网格计算](../Page/网格计算.md "wikilink")
   - [BOINC](../Page/BOINC.md "wikilink")
-  - [分布式计算平台](../Page/分布式计算平台.md "wikilink")
+  - [分布式计算平台](https://zh.wikipedia.org/wiki/分布式计算平台 "wikilink")
 
 ## 外部链接
 

@@ -1,4 +1,4 @@
-**超重神GRAVION**（），香港[TVB譯](../Page/TVB.md "wikilink")**重力王**，是2002年10月7日至2002年12月16日，于[日本](../Page/日本.md "wikilink")[富士电视台每周一深夜](../Page/富士电视台.md "wikilink")2点10分开始播放的[动画](../Page/动画.md "wikilink")，总共13集；讲述的是现代合体机器人的故事。之後發行DVD和VHS。
+**超重神GRAVION**（），香港[TVB譯](https://zh.wikipedia.org/wiki/TVB "wikilink")**重力王**，是2002年10月7日至2002年12月16日，于[日本](../Page/日本.md "wikilink")[富士电视台每周一深夜](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")2点10分开始播放的[动画](../Page/动画.md "wikilink")，总共13集；讲述的是现代合体机器人的故事。之後發行DVD和VHS。
 
 2004年1月起播放续篇第二季**超重神GRAVION Zwei**（）共12集。
 
@@ -17,13 +17,13 @@
     在嬰兒時因為雙親過世，而被桑德曼所開的孤兒院收留、並且因此和飛認識。天生便具有很強的**G因子**。God Gravion
     、Ultimate Gravion的主駕駛，劇中，在他啟動「工學狀態」後，超重神才能進行合體。
     小時候被桑德曼從孤兒院領養，之後一直以超重神駕駛員的身分接受嚴格的訓練，由於長期未離開過城堡的緣故，在和英司相遇前，都未遇過同年紀的男孩。幾乎可說完全不懂人情世故，會毫無惡意地講出傷人的話，還會把玩笑照單全收地當真。有過和英司一起行動、離開城堡跑出去玩的事情。平常時個性相當溫厚柔和，但在戰鬥時則會變成相當冷酷的戰鬥機器，有著能夠將超重神全部的力量發揮出來的操控實力、自己本身的戰鬥力也很強。曾經因為戰鬥方面價值觀的差異而和英司起過衝突，這是因他從未在和別人相處的環境下長大、並且被施以過於偏差的教育所致。
-    他的原型來自於[童話](../Page/童話.md "wikilink")『[木偶奇遇記](../Page/木偶奇遇記.md "wikilink")』中登場的主角皮諾丘，因此本作故事就是描寫他成為更有人性的人的過程。因為對莉露的關心而對他說出**她的事實**，結果導致莉露陷入一時昏睡的狀態。之後還因為戰鬥暫時失去愛娜，大受打擊而逃走，期間還被飛邀請參加超重騎警隊，但在即將決定要加入前，因為英司的說服而決定回到地球戰騎隊中，並且知道原來自己小時候就和桑德曼約定要成為守護地球的「牙」。
-    喜歡喝的飲料是和英司一起逃出城時所喝到的[可樂](../Page/可樂.md "wikilink")，之後還勸莉露一起來喝。
+    他的原型來自於[童話](../Page/童話.md "wikilink")『[木偶奇遇記](https://zh.wikipedia.org/wiki/木偶奇遇記 "wikilink")』中登場的主角皮諾丘，因此本作故事就是描寫他成為更有人性的人的過程。因為對莉露的關心而對他說出**她的事實**，結果導致莉露陷入一時昏睡的狀態。之後還因為戰鬥暫時失去愛娜，大受打擊而逃走，期間還被飛邀請參加超重騎警隊，但在即將決定要加入前，因為英司的說服而決定回到地球戰騎隊中，並且知道原來自己小時候就和桑德曼約定要成為守護地球的「牙」。
+    喜歡喝的飲料是和英司一起逃出城時所喝到的[可樂](https://zh.wikipedia.org/wiki/可樂 "wikilink")，之後還勸莉露一起來喝。
 
 <!-- end list -->
 
   -
-    声：[鈴村健一](../Page/鈴村健一.md "wikilink")／香港：[黃啟昌](../Page/黃啟昌.md "wikilink")
+    声：[鈴村健一](../Page/鈴村健一.md "wikilink")／香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
     17歳。G攻擊機以及Geo Mirage的駕駛員。身高178cm。
     雙親已經不在，為了找到自己唯一的親人‧姐姐綾香而偷偷潛入聖日爾曼城時，剛好遇到外星異種來襲，於是就這樣成為地球戰騎隊的一員。很喜歡姐姐，也是性格直率，富有行動力且充滿精神的熱血漢。
     常常會遇到或製造出搞笑的狀況，還有穿著女裝等各式各樣以他的主觀視點來推進故事的劇情，所以也被說是另一個男主角。與他相遇的斗牙因此變得更有人性，可以說他為斗牙的人格構成帶來很大的貢獻，同時也給地球戰騎隊等成員帶來間接的影響。受到三位專屬小女僕的歡迎，被當成很好相處的大哥哥般地對待。小説版中，若將地球戰騎隊視為一家人，英司則被視為有如長男的身分。
@@ -31,7 +31,7 @@
     Gravion自月球帶來後也隨即指定他代為駕駛。原為G攻擊機的駕駛員，之後在桑德曼與斗牙的請託下改為駕駛Geo
     Mirage、並且因此受到作為超重神核心的斗牙的極大信賴。Sol
     Gravion的合體也要他喊出「工學融合」才能完成。後期『Zwei』的主題曲「紅之牙」、就是作為他和斗牙的主題曲。
-    根據編劇[志茂文彦的說法](../Page/志茂文彦.md "wikilink")、英司也是導演喜歡的角色之一。
+    根據編劇[志茂文彦的說法](https://zh.wikipedia.org/wiki/志茂文彦 "wikilink")、英司也是導演喜歡的角色之一。
 
 <!-- end list -->
 
@@ -45,9 +45,9 @@
 <!-- end list -->
 
   -
-    声：[中原麻衣](../Page/中原麻衣.md "wikilink")／香港：[梁少霞](../Page/梁少霞.md "wikilink")
-    外表年齡16歳。G鑽機的駕駛員。是個戴著眼鏡的[女僕](../Page/女僕.md "wikilink")。身高154公分。
-    雖然做事粗心大意且常常搞砸事情，但性格卻是非常認真專心、也擔任聖日爾曼城的[女僕長](../Page/女僕.md "wikilink")。從斗牙小時候就擔任母親的角色來保護他、所以也受到他很大的信賴。另外她為了斗牙，即使犧牲生命也在所不惜。真面目則是桑德曼所做的仿生人、所以她的樣子即使經過幾十年也不變。會戴眼鏡的緣故、則是避免讓斗牙發現她是個仿生人。
+    声：[中原麻衣](../Page/中原麻衣.md "wikilink")／香港：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")
+    外表年齡16歳。G鑽機的駕駛員。是個戴著眼鏡的[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")。身高154公分。
+    雖然做事粗心大意且常常搞砸事情，但性格卻是非常認真專心、也擔任聖日爾曼城的[女僕長](https://zh.wikipedia.org/wiki/女僕 "wikilink")。從斗牙小時候就擔任母親的角色來保護他、所以也受到他很大的信賴。另外她為了斗牙，即使犧牲生命也在所不惜。真面目則是桑德曼所做的仿生人、所以她的樣子即使經過幾十年也不變。會戴眼鏡的緣故、則是避免讓斗牙發現她是個仿生人。
     後來為了保護斗牙和其他成員免於外星異種的攻擊，而犧牲自己的性命。
 
 <!-- end list -->
@@ -56,7 +56,7 @@
     声：中原麻衣
     外表年齡16歳。Geo投槍機的駕駛員。實際上她就是愛娜的真正身分。與Sol
     Gravion一起沉眠於月球上。性格則和以前完全不同，較為開朗。
-    髮色從綠色變成粉紅色、戴眼鏡的次數也跟著減少、讓她的形象完全改變。另外、在本作中都通稱為愛娜、愛娜茲薇的名字由來則是來自於[情報誌的](../Page/情報誌.md "wikilink")『超重神Gravion
+    髮色從綠色變成粉紅色、戴眼鏡的次數也跟著減少、讓她的形象完全改變。另外、在本作中都通稱為愛娜、愛娜茲薇的名字由來則是來自於[情報誌的](https://zh.wikipedia.org/wiki/情報誌 "wikilink")『超重神Gravion
     Gravion設定書』的設定資料。戦鬥時、穿著相當大膽華麗類似高叉泳裝的緊身衣。
     以前的愛娜的記憶資料、在她消滅時就全部傳送到真正的她的腦中。正因為她作為守護Gravion的女神，擁有愛的力量、所以成為能讓Gravion擁有無限能源的核心、使得重力臨界點的問題因此被解決。
     最後一集中除了髮色外，都恢復成以前的樣子
@@ -67,27 +67,27 @@
     声：[淺川悠](../Page/淺川悠.md "wikilink")／香港：[陳凱婷](../Page/陳凱婷.md "wikilink")
     22歳。G打擊機和Geo刺針的駕駛員。身長178cm。
     地球戰騎隊成員中最年長者、不僅會操控G攻擊機、也擅長近身格鬥戰。和英司的姐姐‧綾香是好友。外表看起來像是個喜歡誘惑男性的女人，但實際上卻很討厭輕浮的男人。作為軍人，其能力是相當優秀。
-    實際上是地球統合政府軍EFA的軍官，階級為中尉（少尉）也因此和飛早就認識、而她的目的則是為了EFA、臥底在地球戰騎隊中要取得Gravion的設計資料(結果順利取得而完成超重戰隊)。後來完成任務後，回到EFA並且退休、不過由於對綾香和地球戰騎隊的留戀而和斗牙及英司一起去救回琉菜並且再次回到地球戰騎隊中。然後、在小說版中，她是比英司還要年長的長女、媚月自己也說出「長女有天會變成新娘(意思是不久的將來會離開城堡)」、暗示自己就是[間諜](../Page/間諜.md "wikilink")。
-    酒量很差，所以喝醉後常會做出許多搞笑的事。是個[爆乳美女](../Page/爆乳.md "wikilink")，所以也負責作中的[殺必死鏡頭](../Page/殺必死.md "wikilink")。
+    實際上是地球統合政府軍EFA的軍官，階級為中尉（少尉）也因此和飛早就認識、而她的目的則是為了EFA、臥底在地球戰騎隊中要取得Gravion的設計資料(結果順利取得而完成超重戰隊)。後來完成任務後，回到EFA並且退休、不過由於對綾香和地球戰騎隊的留戀而和斗牙及英司一起去救回琉菜並且再次回到地球戰騎隊中。然後、在小說版中，她是比英司還要年長的長女、媚月自己也說出「長女有天會變成新娘(意思是不久的將來會離開城堡)」、暗示自己就是[間諜](https://zh.wikipedia.org/wiki/間諜 "wikilink")。
+    酒量很差，所以喝醉後常會做出許多搞笑的事。是個[爆乳美女](https://zh.wikipedia.org/wiki/爆乳 "wikilink")，所以也負責作中的[殺必死鏡頭](../Page/殺必死.md "wikilink")。
 
 <!-- end list -->
 
   -
-    声：[桑島法子](../Page/桑島法子.md "wikilink")／香港：[曾秀清](../Page/曾秀清.md "wikilink")
+    声：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")／香港：[曾秀清](../Page/曾秀清.md "wikilink")
     14歳。G Shadow和Geo Calibur的駕駛員。
     在第一季的動畫和雜誌中都被介紹成「謎之少女」、雖然有參加戰鬥、但真面目完全不明，只有被桑德曼、放置聖日爾曼城的南塔上秘密保護著、由於斗牙和英司意外遇到她、才知道她是地球戰騎隊的一員。
     當初除了桑德曼外，對誰都無法放開自己的心、但因為琉菜溫柔的對待、讓她終於稍微打開內心去面對別人、第二季時，則變得較為放得開而且表情也跟著豐富許多。之後因為和英司的姪女的年紀相近、所以把他當作哥哥一樣(實際上還有叫過他「哥哥」)。在小說版中、她也是地球戰騎隊一家人中的最小的妹妹、而且因為這件事而感到相當高興、從桑德曼和英司開始、對於讓城中的大家為自己操心而感到相當抱歉。之中、因為斗牙老是保護自己並且兩人立場相同，讓他們關係變的更加親密。
-    性格溫和沉默、但內心卻很堅強。總是帶著一隻叫作羅羅多的[雪貂](../Page/雪貂.md "wikilink")，但有一次對於羅羅多喝醉後一直在斗牙頭上的事情，似乎相當耿耿於懷。
+    性格溫和沉默、但內心卻很堅強。總是帶著一隻叫作羅羅多的[雪貂](https://zh.wikipedia.org/wiki/雪貂 "wikilink")，但有一次對於羅羅多喝醉後一直在斗牙頭上的事情，似乎相當耿耿於懷。
     真面目則是桑德曼和露菲拉的女兒。在知道這件事情時，還曾一度大受打擊而陷入昏迷狀態、後來因為再次集合在一起的同伴們的溫馨對待而甦醒過來並且因此扛起和舅舅決戰的命運。
 
 ### 聖日爾曼城的人們
 
   -
     声：[速水獎](../Page/速水獎.md "wikilink")／香港：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")
-    年齢不詳(外表則像是三十歲左右)。住在有[女僕的城堡](../Page/女僕.md "wikilink")「聖日耳曼城」的謎之大富豪。188公分。
+    年齢不詳(外表則像是三十歲左右)。住在有[女僕的城堡](https://zh.wikipedia.org/wiki/女僕 "wikilink")「聖日耳曼城」的謎之大富豪。188公分。
     本名疾克・艾利塔邁亞。為地球戰騎隊的司令。作為司令時，表現相當優秀、戦鬥時會給予隊員們冷静適當的指導。另外雖然作每件事都表現得很優雅、對於歹徒也是用優雅完美的方式解決掉、因此受到女僕們的好感和信賴。反面來說、也會「想要說一次」來講出Gravion合體的話、以及用拖鞋打桌球等愛玩耍的一面。
-    使用超級的技術力打造Gravion、並且預見到外星異種將會來襲、因此在一開始就有很多謎團。在Zwei中、他謎一般的過去才被揭發。另外、劇中他雖然叫桑德曼、但他也被暗示和18世紀時，實際存在於歐洲的謎之男[聖日爾曼伯爵是同一人](../Page/聖日爾曼伯爵.md "wikilink")。實際上他並不是地球人、是另一個星球的居民、因為意外讓故鄉被毀於是捨棄故鄉來到地球，並且為了守護地球而抵禦外星異種的攻擊。原本的頭髮是金色、因為G因子轉換成永久新陳代謝的機能、讓他的金髮變成紫髮。另外如果讓G因子復活(駕駛GraΣ必須使用G因子)就會失去不死身的壞處。至少活著超過一千年、在背後干涉著地球的歷史。
-    另外，在同樣由[大張正己擔任導演的](../Page/大張正己.md "wikilink")『[獸裝機攻](../Page/獸裝機攻.md "wikilink")』的第六集中、他和菲茨傑拉德總統一起出現。
+    使用超級的技術力打造Gravion、並且預見到外星異種將會來襲、因此在一開始就有很多謎團。在Zwei中、他謎一般的過去才被揭發。另外、劇中他雖然叫桑德曼、但他也被暗示和18世紀時，實際存在於歐洲的謎之男[聖日爾曼伯爵是同一人](https://zh.wikipedia.org/wiki/聖日爾曼伯爵 "wikilink")。實際上他並不是地球人、是另一個星球的居民、因為意外讓故鄉被毀於是捨棄故鄉來到地球，並且為了守護地球而抵禦外星異種的攻擊。原本的頭髮是金色、因為G因子轉換成永久新陳代謝的機能、讓他的金髮變成紫髮。另外如果讓G因子復活(駕駛GraΣ必須使用G因子)就會失去不死身的壞處。至少活著超過一千年、在背後干涉著地球的歷史。
+    另外，在同樣由[大張正己擔任導演的](https://zh.wikipedia.org/wiki/大張正己 "wikilink")『[獸裝機攻](https://zh.wikipedia.org/wiki/獸裝機攻 "wikilink")』的第六集中、他和菲茨傑拉德總統一起出現。
 
 <!-- end list -->
 
@@ -111,14 +111,14 @@
 
   -
     声：[內川藍維](../Page/內川藍維.md "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
-    負責司令台操作的[女僕](../Page/女僕.md "wikilink")。
+    負責司令台操作的[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")。
     為三位操作女僕中的領導者。常會為別人而操心，性格認真、所以也會因為一些小事情而感到煩惱。
 
 <!-- end list -->
 
   -
     声：[高橋美佳子](../Page/高橋美佳子.md "wikilink")／香港：[張頌欣](../Page/張頌欣.md "wikilink")
-    負責司令台操作的[女僕](../Page/女僕.md "wikilink")。
+    負責司令台操作的[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")。
     三位操作女僕中的一人。個性豪爽且喜歡武術、因為發言常不合時宜讓老是讓提耶拉生氣。是三人中最年輕的一位、胸部也是最大的。
     在故事後段變嚴肅時、她成為讓氣氛變得較為輕鬆的存在。
     另外，口頭禪的「啪呦」則是來自所配音的聲優高橋美佳子和導演大張正己的點子。
@@ -127,7 +127,7 @@
 
   -
     声：[水樹奈奈](../Page/水樹奈奈.md "wikilink")／香港：[程文意](../Page/程文意.md "wikilink")
-    負責司令台操作的[女僕](../Page/女僕.md "wikilink")。
+    負責司令台操作的[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")。
     三位操作女僕中的一人。個性明智且喜歡照顧人、但在本作中因為有特色的角色太多，讓她的存在顯得相當薄弱。
     在她認真個性的背後，有著比別人更喜歡色色的事情的一面、不僅有與喬伊魯和布莉基塔一起偷看別人、自己也說過艾歷克斯是個很帥氣的男人。
     喜歡唱歌、在桑德曼送給她卡啦OK時、讓她變得相當高興。
@@ -136,38 +136,38 @@
 
   -
     声：[釘宮理惠](../Page/釘宮理惠.md "wikilink")／香港：[何璐怡](../Page/何璐怡.md "wikilink")
-    小[女僕之一](../Page/女僕.md "wikilink")。個性相當充滿精神。喜歡靠近英司，不過都把他當作自己的玩具一樣來玩弄他。
+    小[女僕之一](https://zh.wikipedia.org/wiki/女僕 "wikilink")。個性相當充滿精神。喜歡靠近英司，不過都把他當作自己的玩具一樣來玩弄他。
     因為英司在玩遊戲時輸給她、使地球戰騎隊的隊員們除了愛娜外，全都扮成女僕。
 
 <!-- end list -->
 
   -
-    声：[間宮くるみ](../Page/間宮くるみ.md "wikilink")
-    小[女僕之一](../Page/女僕.md "wikilink")。很有禮貌且個性明亮。同樣喜歡接近英司。
+    声：[間宮くるみ](https://zh.wikipedia.org/wiki/間宮くるみ "wikilink")
+    小[女僕之一](https://zh.wikipedia.org/wiki/女僕 "wikilink")。很有禮貌且個性明亮。同樣喜歡接近英司。
 
 <!-- end list -->
 
   -
     声：[大前茜](../Page/大前茜.md "wikilink")
-    小[女僕之一](../Page/女僕.md "wikilink")。為人沉默且容易害羞。同樣喜歡接近英司。
+    小[女僕之一](https://zh.wikipedia.org/wiki/女僕 "wikilink")。為人沉默且容易害羞。同樣喜歡接近英司。
 
 <!-- end list -->
 
   -
-    声：[熊井統子](../Page/熊井統子.md "wikilink")／香港：[曾佩儀](../Page/曾佩儀.md "wikilink")
-    護衛[女僕隊隊長](../Page/女僕.md "wikilink")。雖然是個女性，但體力和戰鬥力都很驚人、有著能夠扛著兩個大人、三個小孩行動的怪力。也受到桑德曼的極度信賴、在莉露出去時則擔任[司機的工作](../Page/司機.md "wikilink")。另外在Gravion戰鬥時、也多次開著G戰機擔任護援的工作。
+    声：[熊井統子](../Page/熊井統子.md "wikilink")／香港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")
+    護衛[女僕隊隊長](https://zh.wikipedia.org/wiki/女僕 "wikilink")。雖然是個女性，但體力和戰鬥力都很驚人、有著能夠扛著兩個大人、三個小孩行動的怪力。也受到桑德曼的極度信賴、在莉露出去時則擔任[司機的工作](https://zh.wikipedia.org/wiki/司機 "wikilink")。另外在Gravion戰鬥時、也多次開著G戰機擔任護援的工作。
 
 <!-- end list -->
 
   -
     声：[桃井晴子](../Page/桃井晴子.md "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
-    維修[女僕](../Page/女僕.md "wikilink")。是名超級喜愛機械的高超技術人員。對於超重神老是傷痕累累的事情感到相當頭痛。另外在Gravion戰時、也會開著G戰機擔任護援的工作。有著只要一入迷起來就不管周遭事情的性格。
+    維修[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")。是名超級喜愛機械的高超技術人員。對於超重神老是傷痕累累的事情感到相當頭痛。另外在Gravion戰時、也會開著G戰機擔任護援的工作。有著只要一入迷起來就不管周遭事情的性格。
 
 <!-- end list -->
 
   -
     声：[中島沙樹](../Page/中島沙樹.md "wikilink")／香港：[謝潔貞](../Page/謝潔貞.md "wikilink")
-    聖日耳曼城的護士[女僕](../Page/女僕.md "wikilink")。不過言行卻會讓人覺得像是瘋狂科學家一樣的危險。
+    聖日耳曼城的護士[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")。不過言行卻會讓人覺得像是瘋狂科學家一樣的危險。
 
 <!-- end list -->
 
@@ -219,13 +219,13 @@
     地球統合政府EFA的總統。有著叫作琳達的美麗妻子和叫作史蒂芬妮的美麗女兒。個性坦率且人品很好、最初對於把對抗外星異種的工作交給不知身分的民間團體相當抵抗、所以對於桑德曼的行動，到第二季結局前都抱持著警戒心。因此也派出媚月和綾香到裡面臥底去盜取Gravion的設計資料。然後、也依據那分資料開發出超重戰騎。
     最終和桑德曼和解並且約定要幫助他們。
     他的名字在作中都沒被叫過、只有在DVD特典裡，才由桑德曼叫過他名字。
-    然後、在同樣由[大張正己擔任導演的](../Page/大張正己.md "wikilink")『[獸裝機攻](../Page/獸裝機攻.md "wikilink")』第6話中、他和桑德曼有一起出現。
+    然後、在同樣由[大張正己擔任導演的](https://zh.wikipedia.org/wiki/大張正己 "wikilink")『[獸裝機攻](https://zh.wikipedia.org/wiki/獸裝機攻 "wikilink")』第6話中、他和桑德曼有一起出現。
     似乎擅於駕駛戰機。
 
 <!-- end list -->
 
   -
-    声：[淺野真澄](../Page/淺野真澄.md "wikilink")
+    声：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")
     總統的秘書。在結尾的字幕上則是寫上「井上小姐」。
 
 <!-- end list -->
@@ -237,31 +237,31 @@
 <!-- end list -->
 
   -
-    声：[臼井孝康](../Page/臼井孝康.md "wikilink")
+    声：[臼井孝康](https://zh.wikipedia.org/wiki/臼井孝康 "wikilink")
     喜歡研究Gravion和外星異種資料的科學家。
 
 ### 平民
 
   -
-    声：[折笠奈緒美](../Page/折笠奈緒美.md "wikilink")
+    声：[折笠奈緒美](https://zh.wikipedia.org/wiki/折笠奈緒美 "wikilink")
     英司的同學和青梅竹馬。對於英司常流露出很關心他的樣子。
 
 <!-- end list -->
 
   -
-    声：[淺野真澄](../Page/淺野真澄.md "wikilink")
+    声：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")
     英司的女同學。很喜歡斗亞。有染過頭髮但之後回復過來、所以故事前期和後期的髮色有所不同。
 
 <!-- end list -->
 
   -
-    声：[山岸功](../Page/山岸功.md "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")
+    声：[山岸功](https://zh.wikipedia.org/wiki/山岸功 "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")
     英司的同學。是名極端機械迷。還因此被朵莉露所欣賞、讓他沒有想到竟然得到一個女同好。
 
 <!-- end list -->
 
   -
-    声：[田坂秀樹](../Page/田坂秀樹.md "wikilink")／香港：[梁偉德](../Page/梁偉德.md "wikilink")
+    声：[田坂秀樹](https://zh.wikipedia.org/wiki/田坂秀樹 "wikilink")／香港：[梁偉德](../Page/梁偉德.md "wikilink")
     英司的同學。喜歡可愛的女孩子。對於英司被可愛的女孩子所包圍著的事情相當羨慕。
 
 <!-- end list -->
@@ -280,8 +280,8 @@
 <!-- end list -->
 
   -
-    声：[桑島法子](../Page/桑島法子.md "wikilink")
-    和修奇一起監視外星異種的女性。實際上是修奇的妹妹和桑德曼的妻子、也是莉露的母親。本人已經過世、所以陪在修奇身旁的是她的[仿生人](../Page/仿生人.md "wikilink")。
+    声：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")
+    和修奇一起監視外星異種的女性。實際上是修奇的妹妹和桑德曼的妻子、也是莉露的母親。本人已經過世、所以陪在修奇身旁的是她的[仿生人](https://zh.wikipedia.org/wiki/仿生人 "wikilink")。
 
 ## 登場機械
 
@@ -490,7 +490,7 @@ Gravion合體、之後又分離、作為分離狀態的測試。那時、能夠�
 Gravion的戦鬥能力，被給予作為守護地球的「劍」的角色。別名紅之牙、太陽神。
 
 由超重王和GEO幻象、GEO投槍、GEO聖劍、GEO刺針4架Gradiva進行「**炎皇合神**」的合體所誕生出來。要合體時需要由英司喊出「工學狀態（Ergo
-Form）」和斗牙喊出「炎皇合神」才能合體、因為超重王能發揮出和「創星機」同等的威力、讓他的力量足以破壞整個[星球](../Page/星球.md "wikilink")。與God
+Form）」和斗牙喊出「炎皇合神」才能合體、因為超重王能發揮出和「創星機」同等的威力、讓他的力量足以破壞整個[星球](https://zh.wikipedia.org/wiki/星球 "wikilink")。與God
 Gravion有別的是、合體時以及合體中的工學融合都是以GEO幻象為中心來開始。而這個工學融合還有可以將人的感情化為力量的機能、這也是Sol
 Gravion能發揮高超戰鬥能力的原因之一。還有外表也變成以紅色為基調、給人一種不精製以及威力強大的印象。開發・製造的時間需要200年。
 
@@ -565,7 +565,7 @@ Gravion。而製造出這台機體的桑德曼也稱它為「**最凶(不祥)的
 
       -
         在DVD「Gravion
-        Zwel」的包裝中，GraΣ所持有的武器、形狀和桑德曼所拿的拐杖一樣。附贈在從[スタジオハーフ・アイ發售的](../Page/スタジオハーフ・アイ.md "wikilink")「最小變形God
+        Zwel」的包裝中，GraΣ所持有的武器、形狀和桑德曼所拿的拐杖一樣。附贈在從[スタジオハーフ・アイ發售的](https://zh.wikipedia.org/wiki/スタジオハーフ・アイ "wikilink")「最小變形God
         Σ Gravion」的郵購特典中、刀身則是有著清析的紫色。
 
 <!-- end list -->
@@ -584,7 +584,7 @@ Gradiva4台、總共10台由「**最終合神（最凶合神）**」所合體出
 能從Gravi Gorath上補充重力子能源，然後放出必殺技「**超重炎皇斬**」、発動時Ultimate
 Gravion會閃耀著黄金色的光芒、並且化為火鳥之姿向敵人突擊、將敵人一刀兩斷。威力可怕到、將外星異種的本星「**豪魔**」一擊破壞掉。讓伊旺說出「已經到了無法計算的強度了」。
 
-因為『[勇者系列](../Page/勇者系列.md "wikilink")』和『[超級戰隊系列](../Page/超級戰隊系列.md "wikilink")』等作品的傳統、構成所謂的「最強（超級系機器人）合體」的觀念、一般最強合体都是以前期機體為中心加上成為追加武器或裝甲的後期機體、不過Ultimate
+因為『[勇者系列](../Page/勇者系列.md "wikilink")』和『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』等作品的傳統、構成所謂的「最強（超級系機器人）合體」的觀念、一般最強合体都是以前期機體為中心加上成為追加武器或裝甲的後期機體、不過Ultimate
 Gravion的形狀是以後期主角機Sol
 Gravion為中心、肩部則是G攻擊機和G投擲機、腰部則是G幻影機、腳部則是連接G鑽機、背部則是由GraΣ變形而成。因此、外表也較為接近Sol
 Gravion。但是成為腳部的G鑽機有大大的不同、Ultimate的胸部則是突然出現被Sol
@@ -682,26 +682,26 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 
 ## 遊戲
 
-  - 2008年9月發售的『[超級機器人大戰Z](../Page/超級機器人大戰Z.md "wikilink")』跟2009年3月發售的『超級機器人大戰Z特別版』（機種・[PS2](../Page/PS2.md "wikilink")）。內容包括第一季的「～GRAVION
+  - 2008年9月發售的『[超級機器人大戰Z](../Page/超級機器人大戰Z.md "wikilink")』跟2009年3月發售的『超級機器人大戰Z特別版』（機種・[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")）。內容包括第一季的「～GRAVION
     」以及第二季的「～Zwei」。由桑德曼出資對部隊進行援助。然後因為聲優的關係，所以英司和[真·飛鳥的關係非常好](../Page/真·飛鳥.md "wikilink")。
-  - 2011年4月11日[南夢宮萬代發售](../Page/万代南梦宫游戏.md "wikilink")[PlayStation
+  - 2011年4月11日[南夢宮萬代發售](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")[PlayStation
     Portable用遊戲軟體](../Page/PlayStation_Portable.md "wikilink")『[第2次超級機器人大戰Z
-    破界篇](../Page/第2次超級機器人大戰Z_破界篇.md "wikilink")』。
-  - 2012年4月5日[南夢宮萬代發售](../Page/万代南梦宫游戏.md "wikilink")[PlayStation
+    破界篇](https://zh.wikipedia.org/wiki/第2次超級機器人大戰Z_破界篇 "wikilink")』。
+  - 2012年4月5日[南夢宮萬代發售](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")[PlayStation
     Portable用遊戲軟體](../Page/PlayStation_Portable.md "wikilink")『[第2次超級機器人大戰Z
-    再世篇](../Page/第2次超級機器人大戰Z_再世篇.md "wikilink")』。此次收錄第一季的「～GRAVION」以及第二季的「～Zwei」。
+    再世篇](https://zh.wikipedia.org/wiki/第2次超級機器人大戰Z_再世篇 "wikilink")』。此次收錄第一季的「～GRAVION」以及第二季的「～Zwei」。
 
 ## 工作人員
 
 ### 超重神GRAVION
 
-  - 原作：[大張正己](../Page/大張正己.md "wikilink")、[赤松和光](../Page/赤松和光.md "wikilink")、[GONZO](../Page/GONZO.md "wikilink")
-  - [導演](../Page/導演.md "wikilink")：大張正己
+  - 原作：[大張正己](https://zh.wikipedia.org/wiki/大張正己 "wikilink")、[赤松和光](https://zh.wikipedia.org/wiki/赤松和光 "wikilink")、[GONZO](../Page/GONZO.md "wikilink")
+  - [導演](https://zh.wikipedia.org/wiki/導演 "wikilink")：大張正己
   - 系列構成：志茂文彦
-  - [角色設定](../Page/角色設定.md "wikilink")：うのまこと、高岡淳一
+  - [角色設定](https://zh.wikipedia.org/wiki/角色設定 "wikilink")：うのまこと、高岡淳一
   - GRAVION設定：[大河原邦男](../Page/大河原邦男.md "wikilink")
   - 產品設定：小林誠
-  - [機械設定](../Page/機械設定.md "wikilink")：福地仁、森木靖泰、椛島洋介、大張正己
+  - [機械設定](https://zh.wikipedia.org/wiki/機械設定 "wikilink")：福地仁、森木靖泰、椛島洋介、大張正己
   - 美術監督：吉原俊一郎
   - 色彩設定：中山久美子
   - 撮影監督：山田和弘
@@ -738,7 +738,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 
   - 片頭曲「****」
       - 作詞：[影山浩宣](../Page/影山浩宣.md "wikilink")
-      - 作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")、[須藤賢一](../Page/須藤賢一.md "wikilink")
+      - 作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")、[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink")
       - 編曲：須藤賢一
       - 歌：[JAM Project](../Page/JAM_Project.md "wikilink")
 
@@ -748,7 +748,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
       - 作詞：江幡育子
       - 作曲：堀江頭
       - 編曲：堀江頭
-      - 歌：[YURIA](../Page/YURIA.md "wikilink")
+      - 歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
 
 <!-- end list -->
 
@@ -771,9 +771,10 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 
   - 片尾曲「**LA♪LA♪BYE**」
       - 作詞：HAJIMEX
-      - 作曲：[YURIA](../Page/YURIA.md "wikilink")
+      - 作曲：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
       - 編曲：八七 (Yasichi)
-      - 歌：[Honey Bee](../Page/Honey_Bee.md "wikilink")
+      - 歌：[Honey
+        Bee](https://zh.wikipedia.org/wiki/Honey_Bee "wikilink")
 
 <!-- end list -->
 
@@ -807,10 +808,10 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>1</p></td>
 <td><p>巨神棲息的城堡</p></td>
 <td></td>
-<td><p><a href="../Page/志茂文彦.md" title="wikilink">志茂文彦</a></p></td>
-<td><p><a href="../Page/大張正己.md" title="wikilink">大張正己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志茂文彦" title="wikilink">志茂文彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大張正己" title="wikilink">大張正己</a></p></td>
 <td><p>椛島洋介<br />
-<a href="../Page/木崎文智.md" title="wikilink">木崎文智</a><br />
+<a href="https://zh.wikipedia.org/wiki/木崎文智" title="wikilink">木崎文智</a><br />
 浜崎賢一</p></td>
 <td><p>椛島洋介</p></td>
 <td><p>2002年10月7日</p></td>
@@ -822,8 +823,8 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td></td>
 <td><p>鈴木信吾</p></td>
 <td><p>土屋浩幸</p></td>
-<td><p><a href="../Page/石野聰.md" title="wikilink">石野聰</a></p></td>
-<td><p><a href="../Page/大塚健.md" title="wikilink">大塚健</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石野聰" title="wikilink">石野聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大塚健" title="wikilink">大塚健</a></p></td>
 <td><p>2002年10月21日</p></td>
 <td></td>
 </tr>
@@ -834,7 +835,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td></td>
 <td><p>西山明樹彦</p></td>
 <td><p>津熊健徳<br />
-<a href="../Page/齊藤良成.md" title="wikilink">齊藤良成</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/齊藤良成" title="wikilink">齊藤良成</a></p></td>
 <td><p>-</p></td>
 <td><p>2002年10月28日</p></td>
 <td></td>
@@ -856,7 +857,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>沒有笑容的少女</p></td>
 <td></td>
 <td><p>奥野健</p></td>
-<td><p><a href="../Page/神戶洋行.md" title="wikilink">神戶洋行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神戶洋行" title="wikilink">神戶洋行</a></p></td>
 <td><p>椛島洋介</p></td>
 <td><p>2002年11月11日</p></td>
 <td></td>
@@ -877,8 +878,8 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>7</p></td>
 <td><p>沙灘上的重鑽少女</p></td>
 <td></td>
-<td><p><a href="../Page/冨岡淳広.md" title="wikilink">冨岡淳広</a></p></td>
-<td><p><a href="../Page/あおきえい.md" title="wikilink">蒼井啓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冨岡淳広" title="wikilink">冨岡淳広</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/あおきえい" title="wikilink">蒼井啓</a></p></td>
 <td><p>山田弘和</p></td>
 <td><p>河野悦隆</p></td>
 <td><p>斉藤良成</p></td>
@@ -911,7 +912,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>10</p></td>
 <td><p>龜裂</p></td>
 <td></td>
-<td><p><a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
 <td><p>岡崎ユキオ</p></td>
 <td><p>斉藤良成<br />
 田村勝之<br />
@@ -981,17 +982,17 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>超重神再臨</p></td>
 <td></td>
 <td><p>吉村清子</p></td>
-<td><p><a href="../Page/大張正己.md" title="wikilink">大張正己</a><br />
-<a href="../Page/大塚健.md" title="wikilink">大塚健</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大張正己" title="wikilink">大張正己</a><br />
+<a href="https://zh.wikipedia.org/wiki/大塚健" title="wikilink">大塚健</a></p></td>
 <td><p>大張正己</p></td>
-<td><p><a href="../Page/石野聡.md" title="wikilink">石野聡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石野聡" title="wikilink">石野聡</a></p></td>
 <td><p>大塚健</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>華麗的再會</p></td>
 <td></td>
-<td><p><a href="../Page/志茂文彦.md" title="wikilink">志茂文彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志茂文彦" title="wikilink">志茂文彦</a></p></td>
 <td><p>大篭之仁</p></td>
 <td><p>清田竹一</p></td>
 <td></td>
@@ -1021,7 +1022,7 @@ Gravion對戰過。另外大張導演在DVD特典說出「如果讓Zeravion和Gr
 <td><p>5</p></td>
 <td><p>夢想的孤島</p></td>
 <td></td>
-<td><p><a href="../Page/斉藤良成.md" title="wikilink">斉藤良成</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斉藤良成" title="wikilink">斉藤良成</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,32 +1,37 @@
 在[电信和](../Page/电信.md "wikilink")[计算机网络领域](../Page/计算机网络.md "wikilink")，**ASN.1**（**Abstract
 Syntax Notation One**)
-是一套[标准](../Page/标准.md "wikilink")，是描述[数据的表示](../Page/数据.md "wikilink")、编码、传输、解码的灵活的记法。它提供了一套正式、无歧义和精确的规则以描述独立于特定计算机硬件的对象结构。
+是一套[标准](../Page/标准.md "wikilink")，是描述[数据的表示](https://zh.wikipedia.org/wiki/数据 "wikilink")、编码、传输、解码的灵活的记法。它提供了一套正式、无歧义和精确的规则以描述独立于特定计算机硬件的对象结构。
 
 ## 标准简介
 
-ASN.1是[ISO和](../Page/ISO.md "wikilink")[ITU-T的联合标准](../Page/ITU-T.md "wikilink")，最初是1984年的[CCITT
-X.409:1984的一部分](../Page/CCITT_X.409:1984.md "wikilink")。由于其广泛应用，1988年ASN.1移到独立标准**X.208**，1995年进行全面修订后变成**X.680**系列标准。
+ASN.1是[ISO和](https://zh.wikipedia.org/wiki/ISO "wikilink")[ITU-T的联合标准](https://zh.wikipedia.org/wiki/ITU-T "wikilink")，最初是1984年的[CCITT
+X.409:1984的一部分](https://zh.wikipedia.org/wiki/CCITT_X.409:1984 "wikilink")。由于其广泛应用，1988年ASN.1移到独立标准**X.208**，1995年进行全面修订后变成**X.680**系列标准。
 
-ASN.1本身只定义了表示信息的[抽象句法](../Page/抽象句法.md "wikilink")，但是没有限定其编码的方法。各种ASN.1编码规则提供了由ASN.1描述其抽象句法的数据的值的传送语法（具体表达）。标准的ASN.1编码规则有[基本编码规则](../Page/BER.md "wikilink")（BER，Basic
-Encoding Rules）、[规范编码规则](../Page/CER.md "wikilink")（CER，Canonical
-Encoding Rules）、[唯一编码规则](../Page/DER.md "wikilink")（DER，Distinguished
-Encoding Rules）、[压缩编码规则](../Page/PER.md "wikilink")（PER，Packed Encoding
-Rules）和[XML编码规则](../Page/XER.md "wikilink")（XER，[XML](../Page/XML.md "wikilink")
+ASN.1本身只定义了表示信息的[抽象句法](https://zh.wikipedia.org/wiki/抽象句法 "wikilink")，但是没有限定其编码的方法。各种ASN.1编码规则提供了由ASN.1描述其抽象句法的数据的值的传送语法（具体表达）。标准的ASN.1编码规则有[基本编码规则](https://zh.wikipedia.org/wiki/BER "wikilink")（BER，Basic
 Encoding
-Rules）。为了使ASN.1能够描述一些原先没有使用ASN.1定义，因此不适用上述任一编码规则的数据传输和表示的应用和协议，另外制订了[ECN来扩展ASN](../Page/ECN.md "wikilink").1的编码形式。ECN可以提供非常灵活的表明方法，但还没有得到普遍应用。
+Rules）、[规范编码规则](https://zh.wikipedia.org/wiki/CER "wikilink")（CER，Canonical
+Encoding
+Rules）、[唯一编码规则](https://zh.wikipedia.org/wiki/DER "wikilink")（DER，Distinguished
+Encoding
+Rules）、[压缩编码规则](https://zh.wikipedia.org/wiki/PER "wikilink")（PER，Packed
+Encoding
+Rules）和[XML编码规则](https://zh.wikipedia.org/wiki/XER "wikilink")（XER，[XML](../Page/XML.md "wikilink")
+Encoding
+Rules）。为了使ASN.1能够描述一些原先没有使用ASN.1定义，因此不适用上述任一编码规则的数据传输和表示的应用和协议，另外制订了[ECN来扩展ASN](https://zh.wikipedia.org/wiki/ECN "wikilink").1的编码形式。ECN可以提供非常灵活的表明方法，但还没有得到普遍应用。
 
 ASN.1与特定的ASN.1编码规则一起通过使用独立于计算机架构和编程语言的方法来描述数据结构，为结构化数据的交互提供了手段，特别是在网络环境的应用程序。
 
-[应用层协议如](../Page/应用层.md "wikilink")[X.400](../Page/X.400.md "wikilink")（[email](../Page/email.md "wikilink")）、[X.500和](../Page/X.500.md "wikilink")[LDAP](../Page/LDAP.md "wikilink")（[目录服务](../Page/目录服务.md "wikilink")）、[H.323](../Page/H.323.md "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）和[SNMP使用](../Page/SNMP.md "wikilink")
+[应用层协议如](https://zh.wikipedia.org/wiki/应用层 "wikilink")[X.400](https://zh.wikipedia.org/wiki/X.400 "wikilink")（[email](https://zh.wikipedia.org/wiki/email "wikilink")）、[X.500和](https://zh.wikipedia.org/wiki/X.500 "wikilink")[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")（[目录服务](../Page/目录服务.md "wikilink")）、[H.323](../Page/H.323.md "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）和[SNMP使用](https://zh.wikipedia.org/wiki/SNMP "wikilink")
 ASN.1
-描述它们交互的[协议数据单元](../Page/PDU.md "wikilink")。在[UMTS的接入和非接入层也有广泛的应用](../Page/UMTS.md "wikilink")。
+描述它们交互的[协议数据单元](https://zh.wikipedia.org/wiki/PDU "wikilink")。在[UMTS的接入和非接入层也有广泛的应用](https://zh.wikipedia.org/wiki/UMTS "wikilink")。
 ASN.1的其他应用领域参见此处[1](https://web.archive.org/web/20051023024910/http://asn1.elibel.tm.fr/en/uses/index.htm)。
 
 这里\[[http://asn1.elibel.tm.fr/links/\#tools\]列举了很多ASN.1的自由或者商业的工具](http://asn1.elibel.tm.fr/links/#tools%5D列举了很多ASN.1的自由或者商业的工具)。
 
 ## 範例
 
-[FooProtocol](../Page/Foo.md "wikilink") 結構的定義係使用 ASN.1 表示法:
+[FooProtocol](https://zh.wikipedia.org/wiki/Foo "wikilink") 結構的定義係使用
+ASN.1 表示法:
 
     FooProtocol DEFINITIONS ::= BEGIN
 
@@ -80,8 +85,9 @@ Foo協議規範應明確名稱一套編碼規則的使用，Foo的協議，使�
 
 ASN.1 的範圍與 DER 結束於此. It is possible to transmit the encoded message to
 the party by any means (utilizing
-[TCP](../Page/Transmission_Control_Protocol.md "wikilink") or any other
-protocol). The party should be able to decode the octets back using DER.
+[TCP](https://zh.wikipedia.org/wiki/Transmission_Control_Protocol "wikilink")
+or any other protocol). The party should be able to decode the octets
+back using DER.
 
 ### XER編碼的範例
 
@@ -121,14 +127,14 @@ octets:
 
 ## 参见
 
-  - [TTCN](../Page/TTCN.md "wikilink")
-  - [ECN](../Page/ECN.md "wikilink")
+  - [TTCN](https://zh.wikipedia.org/wiki/TTCN "wikilink")
+  - [ECN](https://zh.wikipedia.org/wiki/ECN "wikilink")
 
 ## 参考
 
   - [Federal Standard
-    1037C](../Page/Federal_Standard_1037C.md "wikilink")
-  - [MIL-STD-188](../Page/MIL-STD-188.md "wikilink")。
+    1037C](https://zh.wikipedia.org/wiki/Federal_Standard_1037C "wikilink")
+  - [MIL-STD-188](https://zh.wikipedia.org/wiki/MIL-STD-188 "wikilink")。
 
 ## 外部链接
 

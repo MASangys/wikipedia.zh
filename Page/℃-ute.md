@@ -1,6 +1,6 @@
 [Cute.svg](https://zh.wikipedia.org/wiki/File:Cute.svg "fig:Cute.svg")
 **℃-ute**為[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下在](../Page/Hello!_Project.md "wikilink")2005－2017年間活動的女子偶像組合。2005年6月11日，在[安倍夏美的演唱會發表了成立組合的消息](../Page/安倍夏美.md "wikilink")，起初由七名[Hello\!
+Project旗下在](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")2005－2017年間活動的女子偶像組合。2005年6月11日，在[安倍夏美的演唱會發表了成立組合的消息](../Page/安倍夏美.md "wikilink")，起初由七名[Hello\!
 Project
 Kids成員組成](../Page/Hello!_Project_Kids.md "wikilink")。2006年1月2日，制作人[淳君宣佈在](../Page/淳君.md "wikilink")「Hello\!
 pro EGG audition
@@ -113,12 +113,12 @@ Kids出身的成員](../Page/Hello!_Project_Kids.md "wikilink")。歷經3名成�
 
   - 在8人時期的初期，℃-ute排在前列的是鈴木愛理、村上愛、矢島舞美和有原栞菜。而後期是鈴木愛理、村上愛、矢島舞美和萩原舞。在7人時期的初期，排在前列的是鈴木愛理、矢島舞美和萩原舞，中島早貴間中排在前列，主要是以鈴木愛理為中心。在2008年，前列固定成員為鈴木愛理、矢島舞美和中島早貴，主要是以矢島舞美為中心。在6人時期，前列固定成員為鈴木愛理和矢島舞美，萩原舞和中島早貴輪著列在前排，繼續以矢島舞美為中心。5人時期開始，前列固定成員為鈴木愛理和矢島舞美，主要以鈴木愛理為中心。2013年7月《[悲傷的降雨
     /
-    亞當和夏娃的困境](../Page/悲傷的降雨_/_亞當和夏娃的困境.md "wikilink")》則分別以矢島舞美與岡井千聖為中心。
+    亞當和夏娃的困境](https://zh.wikipedia.org/wiki/悲傷的降雨_/_亞當和夏娃的困境 "wikilink")》則分別以矢島舞美與岡井千聖為中心。
 
 ## 名稱由來
 
 cute
-\[kjut\]〔形容詞〕（小寫）的意思是可愛的；令人憐愛的。為了表現女孩們情熱的體溫，將「C」以「[℃](../Page/℃.md "wikilink")」這個符號取代使用。
+\[kjut\]〔形容詞〕（小寫）的意思是可愛的；令人憐愛的。為了表現女孩們情熱的體溫，將「C」以「[℃](https://zh.wikipedia.org/wiki/℃ "wikilink")」這個符號取代使用。
 
 ## 歷史
 
@@ -132,12 +132,12 @@ cute
   - 6月11日，℃-ute結成，淳君在官網發表團名。
   - 6月11日～8月14日，在[安倍夏美的巡迴演唱會中](../Page/安倍夏美.md "wikilink")，與[保田圭一起擔任來賓](../Page/保田圭.md "wikilink")，演唱《[活力上路！](../Page/活力上路！.md "wikilink")》開場，也參加幾首歌演出。在木更津市民會館的第1回公演，是℃-ute第一次活動。
   - 11月27日，「℃-ute應援企畫\!
-    第2彈\!」（FC會員限定EVENT、東京・ラフォーレミュージアム六本木）。宣佈官方的正式暱稱，並發表第一首原創歌曲《[簡單啦（Z）](../Page/簡單啦（Z）.md "wikilink")》。
+    第2彈\!」（FC會員限定EVENT、東京・ラフォーレミュージアム六本木）。宣佈官方的正式暱稱，並發表第一首原創歌曲《[簡單啦（Z）](https://zh.wikipedia.org/wiki/簡單啦（Z） "wikilink")》。
 
 ### 2006年
 
   - 1月2日，在演唱會上宣佈了[有原栞菜的加入](../Page/有原栞菜.md "wikilink")。並於28日開始，正式以「℃-ute」身份開始活動。
-  - 5月6日、7日，在[早安少女組｡的演唱會上](../Page/早安少女組｡.md "wikilink")，限定販賣獨立製作的《[全新牛仔褲](../Page/全新牛仔褲.md "wikilink")》CD。接下來連續三個月都以獨立製作的形式發行單曲CD發行。
+  - 5月6日、7日，在[早安少女組｡的演唱會上](https://zh.wikipedia.org/wiki/早安少女組｡ "wikilink")，限定販賣獨立製作的《[全新牛仔褲](https://zh.wikipedia.org/wiki/全新牛仔褲 "wikilink")》CD。接下來連續三個月都以獨立製作的形式發行單曲CD發行。
   - 5月14日～9月10日，以「Cutie Circuit 2006」為名義，在全國各地舉辦大大小小迷你演唱會與握手會。
   - 9月10日，「Cutie Circuit 2006 Final in YOMIURI LAND EAST
     ～9月10日是℃-ute之日～」（よみうりランドEAST）。是以「9月10日是℃-ute之日」為名的首次活動。
@@ -162,7 +162,7 @@ cute
   - 11月26日，得到Best Hit歌謠祭2007 新人賞。
   - 12月12日，得到第40屆日本有線大賞 有線音樂賞。
   - 12月30日，得到第49屆日本唱片大賞 最優秀新人獎。
-  - 12月31日，在第58回NHK[紅白歌合戰中](../Page/紅白歌合戰.md "wikilink")，首次在[紅白歌合戰登場](../Page/紅白歌合戰.md "wikilink")。
+  - 12月31日，在第58回NHK[紅白歌合戰中](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")，首次在[紅白歌合戰登場](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
 
 ### 2008年
 
@@ -186,7 +186,7 @@ cute
 
   - 8月21日，24時間テレビ 慈善活動演出決定。
   - 11月9日，發售與[Berryz工房的合作單曲](../Page/Berryz工房.md "wikilink")《[櫻花綻放於酸甜春季](../Page/櫻花綻放於酸甜春季.md "wikilink")》。此為電影「國王遊戲」(王様ゲーム)的主題曲。
-  - 11月16日，以「Mobekimasu」的名義發行《[不醜陋的哲學](../Page/不醜陋的哲學.md "wikilink")》，為[早安少女組。](../Page/早安少女組。.md "wikilink")、Berryz工房、℃-ute、[真野惠里菜與](../Page/真野惠里菜.md "wikilink")[S/mileage的合作單曲](../Page/S/mileage.md "wikilink")。
+  - 11月16日，以「Mobekimasu」的名義發行《[不醜陋的哲學](../Page/不醜陋的哲學.md "wikilink")》，為[早安少女組。](../Page/早安少女組。.md "wikilink")、Berryz工房、℃-ute、[真野惠里菜與](../Page/真野惠里菜.md "wikilink")[S/mileage的合作單曲](https://zh.wikipedia.org/wiki/S/mileage "wikilink")。
 
 ### 2012年
 
@@ -210,7 +210,7 @@ cute
   - 6月29日，發表武道館演唱會將追加一場公演，於9月9日舉行『前夜祭』。一般社團法人日本記念日評議會亦宣佈9月10日（℃-ute之日）正式成為法定記念日\[10\]。
   - 7月5日，在法國巴黎舉行首次海外公演。
   - 7月10日，發行第22張單曲《[悲傷的降雨 /
-    亞當和夏娃的困境](../Page/悲傷的降雨_/_亞當和夏娃的困境.md "wikilink")》，出道以來初動最高、銷量最高，也是第一張破6萬的單曲。
+    亞當和夏娃的困境](https://zh.wikipedia.org/wiki/悲傷的降雨_/_亞當和夏娃的困境 "wikilink")》，出道以來初動最高、銷量最高，也是第一張破6萬的單曲。
   - 9月9日、10日，首次踏上武道館舉行演唱會《℃-ute 武道館Concert 2013 『Queen of J-POP
     ～走過風雨的女戰士～』》。
 
@@ -223,11 +223,11 @@ cute
 ### 2015年
 
   - 4月1日，發行第27張單曲《[The Middle Management ～女性中層管理者～ / 執着人生 /
-    下個角落轉彎](../Page/The_Middle_Management_～女性中層管理者～_/_執着人生_/_下個角落轉彎.md "wikilink")》
+    下個角落轉彎](https://zh.wikipedia.org/wiki/The_Middle_Management_～女性中層管理者～_/_執着人生_/_下個角落轉彎 "wikilink")》
   - 6月11日，首次踏上[橫濱體育館舉行演唱會](../Page/橫濱體育館.md "wikilink")《9→10 (℃-ute)
     周年記念 ℃-ute Concert Tour 2015春 ～The Future Departure～》
   - 10月28日，發行第28張單曲《[謝謝 ～無限的吶喊～ / 引起暴風雨的Exciting
-    Fight\!](../Page/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight!.md "wikilink")》。《謝謝
+    Fight\!](https://zh.wikipedia.org/wiki/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight! "wikilink")》。《謝謝
     ～無限的吶喊～》是日本摔跤協會公認的運動員讚歌；《引起暴風雨的Exciting
     Fight\!》是日本摔跤協會公認的應援歌曲。此單曲是℃-ute出道以來初動最高、銷量最高，也是第一張破7萬的單曲。
   - 久違的第九張原創專輯《[℃maj9](../Page/℃maj9.md "wikilink")》定於12月23日發行。
@@ -238,7 +238,7 @@ cute
     ～℃ONCERTO～》初日，發表於5月21日和22日於香港及台北舉辦海外演唱會《℃-ute
     Cutie Circuit ～Let's go to Hong Kong & Taipei～》
   - 4月20日，發行第29張單曲《[為何 人們會抗爭? / Summer Wind /
-    人生的STEP\!](../Page/為何_人們會抗爭?_/_Summer_Wind_/_人生的STEP!.md "wikilink")》
+    人生的STEP\!](https://zh.wikipedia.org/wiki/為何_人們會抗爭?_/_Summer_Wind_/_人生的STEP! "wikilink")》
   - 8月20日，宣布於2017年6月踏上[埼玉超級競技場舉行演唱會](../Page/埼玉超級競技場.md "wikilink")；演唱會過後組合將解散。
 
 ### 2017年
@@ -247,7 +247,7 @@ cute
 
 ## 作品
 
-唱片由[zetima發行](../Page/zetima.md "wikilink")，2007年起台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
+唱片由[zetima發行](https://zh.wikipedia.org/wiki/zetima "wikilink")，2007年起台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
 
 ### 單曲
 
@@ -270,7 +270,7 @@ cute
 <td><p>-</p></td>
 <td><p>2006年5月14日</p></td>
 <td></td>
-<td><p><a href="../Page/全新牛仔褲.md" title="wikilink">全新牛仔褲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全新牛仔褲" title="wikilink">全新牛仔褲</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -281,7 +281,7 @@ cute
 <td><p>-</p></td>
 <td><p>2006年6月3日</p></td>
 <td></td>
-<td><p><a href="../Page/立刻_擁抱我.md" title="wikilink">立刻 擁抱我</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/立刻_擁抱我" title="wikilink">立刻 擁抱我</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -292,18 +292,18 @@ cute
 <td><p>-</p></td>
 <td><p>2006年7月9日</p></td>
 <td></td>
-<td><p><a href="../Page/用大大的愛寵愛我.md" title="wikilink">用大大的愛寵愛我</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/用大大的愛寵愛我" title="wikilink">用大大的愛寵愛我</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>獨立製作、動畫《<a href="../Page/偶像宣言.md" title="wikilink">偶像宣言</a>》片尾曲</p></td>
+<td><p>獨立製作、動畫《<a href="https://zh.wikipedia.org/wiki/偶像宣言" title="wikilink">偶像宣言</a>》片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
 <td><p>2006年7月29日</p></td>
 <td></td>
-<td><p><a href="../Page/簡單啦（Z）.md" title="wikilink">簡單啦（Z）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡單啦（Z）" title="wikilink">簡單啦（Z）</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -329,7 +329,7 @@ cute
 <td><p>5</p></td>
 <td><p>23,810</p></td>
 <td><p>26,785</p></td>
-<td><p>第40回<a href="../Page/日本有線大賞.md" title="wikilink">日本有線大賞</a>「有線音楽賞」獲獎曲</p></td>
+<td><p>第40回<a href="https://zh.wikipedia.org/wiki/日本有線大賞" title="wikilink">日本有線大賞</a>「有線音楽賞」獲獎曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -373,7 +373,7 @@ cute
 <td><p>5</p></td>
 <td><p>27,805</p></td>
 <td><p>35,789</p></td>
-<td><p>第50回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a>「優秀作品賞」獲獎曲、第41回<a href="../Page/日本作詩大賞.md" title="wikilink">日本作詩大賞入賞</a></p></td>
+<td><p>第50回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a>「優秀作品賞」獲獎曲、第41回<a href="https://zh.wikipedia.org/wiki/日本作詩大賞" title="wikilink">日本作詩大賞入賞</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -490,7 +490,7 @@ cute
 <td><p>17th</p></td>
 <td><p>2011年9月7日</p></td>
 <td></td>
-<td><p><a href="../Page/世上最HAPPY的女孩.md" title="wikilink">世上最HAPPY的女孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/世上最HAPPY的女孩" title="wikilink">世上最HAPPY的女孩</a></p></td>
 <td><p>6</p></td>
 <td><p>16,638</p></td>
 <td><p>19,830</p></td>
@@ -545,7 +545,7 @@ cute
 <td><p>22nd</p></td>
 <td><p>2013年7月10日</p></td>
 <td></td>
-<td><p><a href="../Page/悲傷的降雨_/_亞當和夏娃的困境.md" title="wikilink">悲傷的降雨 / 亞當和夏娃的困境</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/悲傷的降雨_/_亞當和夏娃的困境" title="wikilink">悲傷的降雨 / 亞當和夏娃的困境</a></p></td>
 <td><p>4</p></td>
 <td><p>60,592</p></td>
 <td><p>64,080</p></td>
@@ -556,7 +556,7 @@ cute
 <td><p>23rd</p></td>
 <td><p>2013年11月6日</p></td>
 <td></td>
-<td><p><a href="../Page/獨自在城市裡生活_/_愛情是更嶄新的.md" title="wikilink">獨自在城市裡生活 / 愛情是更嶄新的</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獨自在城市裡生活_/_愛情是更嶄新的" title="wikilink">獨自在城市裡生活 / 愛情是更嶄新的</a></p></td>
 <td><p>3</p></td>
 <td><p>63,764</p></td>
 <td><p>67,748</p></td>
@@ -567,7 +567,7 @@ cute
 <td><p>24th</p></td>
 <td><p>2014年3月5日</p></td>
 <td></td>
-<td><p><a href="../Page/以心中的吶喊而寫的一首歌_/_Love_take_it_all.md" title="wikilink">以心中的吶喊而寫的一首歌 / Love take it all</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/以心中的吶喊而寫的一首歌_/_Love_take_it_all" title="wikilink">以心中的吶喊而寫的一首歌 / Love take it all</a></p></td>
 <td><p>2</p></td>
 <td><p>62,405</p></td>
 <td><p>67,534</p></td>
@@ -578,7 +578,7 @@ cute
 <td><p>25th</p></td>
 <td><p>2014年7月16日</p></td>
 <td></td>
-<td><p><a href="../Page/The_Power_/_悲傷的天堂_(Single_Version).md" title="wikilink">The Power / 悲傷的天堂 (Single Version)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Power_/_悲傷的天堂_(Single_Version)" title="wikilink">The Power / 悲傷的天堂 (Single Version)</a></p></td>
 <td><p>3</p></td>
 <td><p>55,570</p></td>
 <td><p>57,766</p></td>
@@ -589,7 +589,7 @@ cute
 <td><p>26th</p></td>
 <td><p>2014年11月19日</p></td>
 <td></td>
-<td><p><a href="../Page/I_miss_you_/_THE_FUTURE.md" title="wikilink">I miss you / THE FUTURE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I_miss_you_/_THE_FUTURE" title="wikilink">I miss you / THE FUTURE</a></p></td>
 <td><p>4</p></td>
 <td><p>60,120</p></td>
 <td><p>62,331</p></td>
@@ -600,7 +600,7 @@ cute
 <td><p>27th</p></td>
 <td><p>2015年4月1日</p></td>
 <td></td>
-<td><p><a href="../Page/The_Middle_Management_～女性中層管理者～_/_执着人生_/_下個角落轉彎.md" title="wikilink">The Middle Management ～女性中層管理者～ / 执着人生 / 下個角落轉彎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Middle_Management_～女性中層管理者～_/_执着人生_/_下個角落轉彎" title="wikilink">The Middle Management ～女性中層管理者～ / 执着人生 / 下個角落轉彎</a></p></td>
 <td><p>3</p></td>
 <td><p>60,689</p></td>
 <td><p>63,870</p></td>
@@ -611,18 +611,18 @@ cute
 <td><p>28th</p></td>
 <td><p>2015年10月28日</p></td>
 <td></td>
-<td><p><a href="../Page/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight!.md" title="wikilink">謝謝 ～無限的吶喊～ / 引起暴風雨的Exciting Fight!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight!" title="wikilink">謝謝 ～無限的吶喊～ / 引起暴風雨的Exciting Fight!</a></p></td>
 <td><p>2</p></td>
 <td><p>69,952</p></td>
 <td><p>73,018</p></td>
 <td><p>第六張2A單曲</p></td>
-<td><p><a href="../Page/℃OMPLETE_SINGLE_COLLECTION.md" title="wikilink">℃OMPLETE SINGLE COLLECTION</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/℃OMPLETE_SINGLE_COLLECTION" title="wikilink">℃OMPLETE SINGLE COLLECTION</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>29th</p></td>
 <td><p>2016年4月20日</p></td>
 <td></td>
-<td><p><a href="../Page/為何_人們會抗爭?_/_Summer_Wind_/_人生的STEP!.md" title="wikilink">為何 人們會抗爭? / Summer Wind / 人生的STEP!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/為何_人們會抗爭?_/_Summer_Wind_/_人生的STEP!" title="wikilink">為何 人們會抗爭? / Summer Wind / 人生的STEP!</a></p></td>
 <td><p>2</p></td>
 <td><p>59,522</p></td>
 <td><p>66,658</p></td>
@@ -633,7 +633,7 @@ cute
 <td><p>30th</p></td>
 <td><p>2016年11月2日</p></td>
 <td></td>
-<td><p><a href="../Page/夢幻高潮_/_愛情就像靜電_/_Singing_～就像那時候～.md" title="wikilink">夢幻高潮 / 愛情就像靜電 / Singing ～就像那時候～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢幻高潮_/_愛情就像靜電_/_Singing_～就像那時候～" title="wikilink">夢幻高潮 / 愛情就像靜電 / Singing ～就像那時候～</a></p></td>
 <td><p>2</p></td>
 <td><p>58,277</p></td>
 <td><p>61,668</p></td>
@@ -644,7 +644,7 @@ cute
 <td><p>31th</p></td>
 <td><p>2017年3月29日</p></td>
 <td></td>
-<td><p><a href="../Page/To_Tomorrow_/_最後的咆哮_/_The_Curtain_Rises.md" title="wikilink">To Tomorrow / 最後的咆哮 / The Curtain Rises</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/To_Tomorrow_/_最後的咆哮_/_The_Curtain_Rises" title="wikilink">To Tomorrow / 最後的咆哮 / The Curtain Rises</a></p></td>
 <td><p>2</p></td>
 <td><p>66,470</p></td>
 <td></td>
@@ -668,43 +668,44 @@ cute
 #### 單曲在[Oricon成績統計](../Page/Oricon.md "wikilink")
 
   - 最高銷量單曲：[謝謝 ～無限的吶喊～ / 引起暴風雨的Exciting
-    Fight\!](../Page/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight!.md "wikilink")，賣出73,018張
+    Fight\!](https://zh.wikipedia.org/wiki/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight! "wikilink")，賣出73,018張
   - 最高銷量排名單曲：[EVERYDAY
     超絕讚\!\!](../Page/EVERYDAY_超絕讚!!.md "wikilink")、[以心中的吶喊而寫的一首歌
     / Love take it
-    all](../Page/以心中的吶喊而寫的一首歌_/_Love_take_it_all.md "wikilink")、[謝謝
+    all](https://zh.wikipedia.org/wiki/以心中的吶喊而寫的一首歌_/_Love_take_it_all "wikilink")、[謝謝
     ～無限的吶喊～ / 引起暴風雨的Exciting
-    Fight\!](../Page/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight!.md "wikilink")、[為何
+    Fight\!](https://zh.wikipedia.org/wiki/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight! "wikilink")、[為何
     人們會抗爭? / Summer Wind /
-    人生的STEP\!](../Page/為何_人們會抗爭?_/_Summer_Wind_/_人生的STEP!.md "wikilink")、[夢幻高潮
+    人生的STEP\!](https://zh.wikipedia.org/wiki/為何_人們會抗爭?_/_Summer_Wind_/_人生的STEP! "wikilink")、[夢幻高潮
     / 愛情就像靜電 / Singing
-    ～就像那時候～](../Page/夢幻高潮_/_愛情就像靜電_/_Singing_～就像那時候～.md "wikilink")、[To
+    ～就像那時候～](https://zh.wikipedia.org/wiki/夢幻高潮_/_愛情就像靜電_/_Singing_～就像那時候～ "wikilink")、[To
     Tomorrow / 最後的咆哮 / The Curtain
-    Rise](../Page/To_Tomorrow_/_最後的咆哮_/_The_Curtain_Rise.md "wikilink")
+    Rise](https://zh.wikipedia.org/wiki/To_Tomorrow_/_最後的咆哮_/_The_Curtain_Rise "wikilink")
     ，第2位
-  - 最低銷量單曲：[世上最HAPPY的女孩](../Page/世上最HAPPY的女孩.md "wikilink")，賣出19,830張
+  - 最低銷量單曲：[世上最HAPPY的女孩](https://zh.wikipedia.org/wiki/世上最HAPPY的女孩 "wikilink")，賣出19,830張
   - 最低銷量排名單曲：[爆音Dance\!](../Page/爆音Dance!.md "wikilink")，第8位
   - 銷量創新高的單曲：[都會女孩　純情](../Page/都會女孩_純情.md "wikilink")、[你騎自行車
     我坐火車回家](../Page/你騎自行車_我坐火車回家.md "wikilink")、[想見 想見
     想見你](../Page/想見_想見_想見你.md "wikilink")、[Crazy
     完美的大人](../Page/Crazy_完美的大人.md "wikilink")、[悲傷的降雨 /
-    亞當和夏娃的困境](../Page/悲傷的降雨_/_亞當和夏娃的困境.md "wikilink")、[獨自在城市裡生活
-    / 愛情是更嶄新的](../Page/獨自在城市裡生活_/_愛情是更嶄新的.md "wikilink")、[謝謝 ～無限的吶喊～ /
-    引起暴風雨的Exciting
-    Fight\!](../Page/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight!.md "wikilink")
-  - 銷量創新低的單曲：[SHOCK\!](../Page/SHOCK!.md "wikilink")、[世上最HAPPY的女孩](../Page/世上最HAPPY的女孩.md "wikilink")
+    亞當和夏娃的困境](https://zh.wikipedia.org/wiki/悲傷的降雨_/_亞當和夏娃的困境 "wikilink")、[獨自在城市裡生活
+    /
+    愛情是更嶄新的](https://zh.wikipedia.org/wiki/獨自在城市裡生活_/_愛情是更嶄新的 "wikilink")、[謝謝
+    ～無限的吶喊～ / 引起暴風雨的Exciting
+    Fight\!](https://zh.wikipedia.org/wiki/謝謝_～無限的吶喊～_/_引起暴風雨的Exciting_Fight! "wikilink")
+  - 銷量創新低的單曲：[SHOCK\!](../Page/SHOCK!.md "wikilink")、[世上最HAPPY的女孩](https://zh.wikipedia.org/wiki/世上最HAPPY的女孩 "wikilink")
   - 週間第一位的單曲： /
   - 日間第一位的單曲：[EVERYDAY
     超絕讚\!\!](../Page/EVERYDAY_超絕讚!!.md "wikilink")、[SHOCK\!](../Page/SHOCK!.md "wikilink")、[以心中的吶喊而寫的一首歌
     / Love take it
-    all](../Page/以心中的吶喊而寫的一首歌_/_Love_take_it_all.md "wikilink")、[The
+    all](https://zh.wikipedia.org/wiki/以心中的吶喊而寫的一首歌_/_Love_take_it_all "wikilink")、[The
     Middle Management ～女性中層管理者～ / 執着人生 /
-    下個角落轉彎](../Page/The_Middle_Management_～女性中層管理者～_/_執着人生_/_下個角落轉彎.md "wikilink")
+    下個角落轉彎](https://zh.wikipedia.org/wiki/The_Middle_Management_～女性中層管理者～_/_執着人生_/_下個角落轉彎 "wikilink")
     ，共四張
 
 <!-- end list -->
 
-  - 由2007年2月21日第一張[單曲](../Page/單曲.md "wikilink")《[櫻花乍現](../Page/櫻花乍現.md "wikilink")》開始至現在，連續29張[單曲的銷量都達到Oricon週間銷量排名](../Page/單曲.md "wikilink")10位或以上的紀錄。
+  - 由2007年2月21日第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[櫻花乍現](../Page/櫻花乍現.md "wikilink")》開始至現在，連續29張[單曲的銷量都達到Oricon週間銷量排名](https://zh.wikipedia.org/wiki/單曲 "wikilink")10位或以上的紀錄。
 
 ### 專輯
 
@@ -854,7 +855,7 @@ cute
 <td><p>01st</p></td>
 <td><p>2009年11月18日</p></td>
 <td></td>
-<td><p><a href="../Page/我們是℃-ute!_所有單曲大集合囉!①.md" title="wikilink">我們是℃-ute! 所有單曲大集合囉!①</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我們是℃-ute!_所有單曲大集合囉!①" title="wikilink">我們是℃-ute! 所有單曲大集合囉!①</a></p></td>
 <td><p>17</p></td>
 <td><p>9,558</p></td>
 </tr>
@@ -870,7 +871,7 @@ cute
 <td><p>03rd</p></td>
 <td><p>2017年5月3日</p></td>
 <td></td>
-<td><p><a href="../Page/℃OMPLETE_SINGLE_COLLECTION.md" title="wikilink">℃OMPLETE SINGLE COLLECTION</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/℃OMPLETE_SINGLE_COLLECTION" title="wikilink">℃OMPLETE SINGLE COLLECTION</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -905,11 +906,11 @@ cute
 <td><p>01st</p></td>
 <td><p>2008年3月20日</p></td>
 <td></td>
-<td><p><a href="../Page/超越!_樂天金鷹.md" title="wikilink">超越! 樂天金鷹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超越!_樂天金鷹" title="wikilink">超越! 樂天金鷹</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>2008年日本職棒東北樂天金鷹隊公式應援歌</p></td>
-<td><p><a href="../Page/Petit_Best_9.md" title="wikilink">Petit Best 9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Petit_Best_9" title="wikilink">Petit Best 9</a></p></td>
 </tr>
 <tr class="even">
 <td><p>02nd</p></td>
@@ -919,7 +920,7 @@ cute
 <td><p>8</p></td>
 <td><p>24,745</p></td>
 <td><p><a href="../Page/Berryz工房.md" title="wikilink">Berryz工房和</a>℃-ute的合作單曲、電影「國王遊戲」(王様ゲーム)的主題曲</p></td>
-<td><p><a href="../Page/Petit_Best_12.md" title="wikilink">Petit Best 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Petit_Best_12" title="wikilink">Petit Best 12</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/愛的專輯⑧.md" title="wikilink">愛的專輯⑧</a></p></td>
@@ -948,17 +949,17 @@ cute
 <td><p><a href="../Page/不醜陋的哲學.md" title="wikilink">不醜陋的哲學</a></p></td>
 <td><p>4</p></td>
 <td><p>56,291</p></td>
-<td><p>以「Mobekimasu」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>、<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>、℃-ute、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="../Page/S/mileage.md" title="wikilink">S/mileage的合作單曲</a></p></td>
-<td><p><a href="../Page/Petit_Best_12.md" title="wikilink">Petit Best 12</a></p></td>
+<td><p>以「Mobekimasu」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>、<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>、℃-ute、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的合作單曲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Petit_Best_12" title="wikilink">Petit Best 12</a></p></td>
 </tr>
 <tr class="even">
 <td><p>04th</p></td>
 <td><p>2011年12月21日</p></td>
 <td></td>
-<td><p><a href="../Page/別認輸_Wasshoi!.md" title="wikilink">別認輸 Wasshoi!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/別認輸_Wasshoi!" title="wikilink">別認輸 Wasshoi!</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>以「Bekimasu」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>、℃-ute、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="../Page/S/mileage.md" title="wikilink">S/mileage的合作單曲</a></p></td>
+<td><p>以「Bekimasu」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>、℃-ute、<a href="../Page/真野惠里菜.md" title="wikilink">真野惠里菜</a>、<a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的合作單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -969,27 +970,27 @@ cute
 <td><p>3</p></td>
 <td><p>56,895</p></td>
 <td><p>Berryz工房和℃-ute的合作單曲，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a>「<a href="../Page/愛的專輯⑧.md" title="wikilink">Because happiness</a>」與℃-ute的「<a href="../Page/第七章「太美了真抱歉」.md" title="wikilink">幸福的中途</a>」結合成的版本</p></td>
-<td><p><a href="../Page/Petit_Best_13.md" title="wikilink">Petit Best 13</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Petit_Best_13" title="wikilink">Petit Best 13</a></p></td>
 </tr>
 <tr class="even">
 <td><p>06th</p></td>
 <td><p>2012年11月7日</p></td>
 <td></td>
-<td><p><a href="../Page/ForeFore_〜Forest_For_Rest〜_/_Boys_be_ambitious!.md" title="wikilink">ForeFore 〜Forest For Rest〜 / Boys be ambitious!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ForeFore_〜Forest_For_Rest〜_/_Boys_be_ambitious!" title="wikilink">ForeFore 〜Forest For Rest〜 / Boys be ambitious!</a></p></td>
 <td><p>61</p></td>
 <td><p>1,807</p></td>
-<td><p>「ForeFore 〜Forest For Rest〜」是以「DIY♡」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/飯窪春菜.md" title="wikilink">飯窪春菜</a>、<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="../Page/徳永千奈美.md" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><strong>℃-ute</strong>的<a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/中島早貴.md" title="wikilink">中島早貴的合作單曲</a>; 「Boys be ambitious!」是以「Green Fields」名義發行，<a href="../Page/光井愛佳.md" title="wikilink">光井愛佳</a>、<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="../Page/清水佐紀.md" title="wikilink">清水佐紀和宮崎由加的合作單曲</a></p></td>
+<td><p>「ForeFore 〜Forest For Rest〜」是以「DIY♡」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/飯窪春菜.md" title="wikilink">飯窪春菜</a>、<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="https://zh.wikipedia.org/wiki/徳永千奈美" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><strong>℃-ute</strong>的<a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/中島早貴.md" title="wikilink">中島早貴的合作單曲</a>; 「Boys be ambitious!」是以「Green Fields」名義發行，<a href="../Page/光井愛佳.md" title="wikilink">光井愛佳</a>、<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="https://zh.wikipedia.org/wiki/清水佐紀" title="wikilink">清水佐紀和宮崎由加的合作單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>07th</p></td>
 <td><p>2013年8月7日</p></td>
 <td></td>
-<td><p><a href="../Page/人魚小姐_/_Eiya-sa!_Brother_/_清理海灘的男孩.md" title="wikilink">人魚小姐 / Eiya-sa! Brother / 清理海灘的男孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人魚小姐_/_Eiya-sa!_Brother_/_清理海灘的男孩" title="wikilink">人魚小姐 / Eiya-sa! Brother / 清理海灘的男孩</a></p></td>
 <td><p>80</p></td>
 <td><p>1,636</p></td>
-<td><p>「人魚小姐」是以「Dia-Lady」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="../Page/菅谷梨沙子.md" title="wikilink">菅谷梨沙子和</a><strong>℃-ute</strong>的<a href="../Page/鈴木愛理.md" title="wikilink">鈴木愛理的合作單曲</a>; 「Eiya-sa! Brother」是以「Mellowquad」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="../Page/徳永千奈美.md" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><strong>℃-ute</strong>的<a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/岡井千聖.md" title="wikilink">岡井千聖的合作單曲</a>;</p>
-<p>「清理海灘的男孩」是以「HI-FIN」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<strong>℃-ute</strong>的<a href="../Page/中島早貴.md" title="wikilink">中島早貴</a>、<a href="../Page/萩原舞.md" title="wikilink">萩原舞和</a><a href="../Page/S/mileage.md" title="wikilink">S/mileage的</a><a href="../Page/福田花音.md" title="wikilink">福田花音的合作單曲</a></p></td>
+<td><p>「人魚小姐」是以「Dia-Lady」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="../Page/菅谷梨沙子.md" title="wikilink">菅谷梨沙子和</a><strong>℃-ute</strong>的<a href="../Page/鈴木愛理.md" title="wikilink">鈴木愛理的合作單曲</a>; 「Eiya-sa! Brother」是以「Mellowquad」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="https://zh.wikipedia.org/wiki/徳永千奈美" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><strong>℃-ute</strong>的<a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/岡井千聖.md" title="wikilink">岡井千聖的合作單曲</a>;</p>
+<p>「清理海灘的男孩」是以「HI-FIN」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<strong>℃-ute</strong>的<a href="../Page/中島早貴.md" title="wikilink">中島早貴</a>、<a href="https://zh.wikipedia.org/wiki/萩原舞" title="wikilink">萩原舞和</a><a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的</a><a href="../Page/福田花音.md" title="wikilink">福田花音的合作單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1039,69 +1040,69 @@ cute
 ### DVD/Blu-ray（演唱會）
 
 1.  [Cutie Circuit 2006 Final in YOMIURI LAND EAST LIVE
-    ～9月10日是℃-ute之日～](../Page/Cutie_Circuit_2006_Final_in_YOMIURI_LAND_EAST_LIVE_～9月10日是℃-ute之日～.md "wikilink")（2006年12月6日）
+    ～9月10日是℃-ute之日～](https://zh.wikipedia.org/wiki/Cutie_Circuit_2006_Final_in_YOMIURI_LAND_EAST_LIVE_～9月10日是℃-ute之日～ "wikilink")（2006年12月6日）
 2.  [℃-ute出道單獨演唱會2007春 ～要開始喲！ Cutie
-    Show～](../Page/℃-ute出道單獨演唱會2007春_～要開始喲！_Cutie_Show～.md "wikilink")（2007年4月18日）
+    Show～](https://zh.wikipedia.org/wiki/℃-ute出道單獨演唱會2007春_～要開始喲！_Cutie_Show～ "wikilink")（2007年4月18日）
 3.  [℃-ute Concert Tour 2007春
-    ～金黃色的初次約會～](../Page/℃-ute_Concert_Tour_2007春_～金黃色的初次約會～.md "wikilink")（2007年7月18日）
+    ～金黃色的初次約會～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2007春_～金黃色的初次約會～ "wikilink")（2007年7月18日）
 4.  [℃-ute Cutie Circuit 2007 ～MAGICAL CUTIE TOUR &
-    9月10日是℃-ute之日～](../Page/℃-ute_Cutie_Circuit_2007_～MAGICAL_CUTIE_TOUR_&_9月10日是℃-ute之日～.md "wikilink")（2007年11月21日）
+    9月10日是℃-ute之日～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2007_～MAGICAL_CUTIE_TOUR_&_9月10日是℃-ute之日～ "wikilink")（2007年11月21日）
 5.  [℃-ute Concert Tour 2007秋
-    ～放課後的Essence～](../Page/℃-ute_Concert_Tour_2007秋_～放課後的Essence～.md "wikilink")（2008年12月19日）
+    ～放課後的Essence～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2007秋_～放課後的Essence～ "wikilink")（2008年12月19日）
 6.  [℃-ute Cutie Circuit 2008 ～LOVE
-    Escalation\!～](../Page/℃-ute_Cutie_Circuit_2008_～LOVE_Escalation!～.md "wikilink")（2008年7月2日）
+    Escalation\!～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2008_～LOVE_Escalation!～ "wikilink")（2008年7月2日）
 7.  [Berryz工房 & ℃-ute 好朋友大戰 Concert Tour 2008春 ～Berryz假面 vs. Cutie連者～
     with °C-ute
-    tracks](../Page/Berryz工房_&_℃-ute_好朋友大戰_Concert_Tour_2008春_～Berryz假面_vs._Cutie連者～.md "wikilink")（2008年7月9日）
+    tracks](https://zh.wikipedia.org/wiki/Berryz工房_&_℃-ute_好朋友大戰_Concert_Tour_2008春_～Berryz假面_vs._Cutie連者～ "wikilink")（2008年7月9日）
 8.  [℃-ute Concert Tour 2008夏
-    ～忘我夏日～](../Page/℃-ute_Concert_Tour_2008夏_～忘我夏日～.md "wikilink")（2008年11月12日）
+    ～忘我夏日～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2008夏_～忘我夏日～ "wikilink")（2008年11月12日）
 9.  [℃-ute Cutie Circuit 2008
-    ～9月10日是℃-ute之日～](../Page/℃-ute_Cutie_Circuit_2008_～9月10日是℃-ute之日～.md "wikilink")（2008年12月17日）
+    ～9月10日是℃-ute之日～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2008_～9月10日是℃-ute之日～ "wikilink")（2008年12月17日）
 10. [℃-ute Concert Tour 2009春
-    ～AB℃～](../Page/℃-ute_Concert_Tour_2009春_～AB℃～.md "wikilink")（2009年7月22日）
+    ～AB℃～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2009春_～AB℃～ "wikilink")（2009年7月22日）
 11. [℃-ute Cutie Circuit 2009
-    ～9月10日是℃-ute之日～](../Page/℃-ute_Cutie_Circuit_2009_～9月10日是℃-ute之日～.md "wikilink")（2009年11月25日）
+    ～9月10日是℃-ute之日～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2009_～9月10日是℃-ute之日～ "wikilink")（2009年11月25日）
 12. [℃-ute Concert Tour 2009夏秋 ～Cutie
-    JUMP\!～](../Page/℃-ute_Concert_Tour_2009夏秋_～Cutie_JUMP!～.md "wikilink")（2010年1月27日）
+    JUMP\!～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2009夏秋_～Cutie_JUMP!～ "wikilink")（2010年1月27日）
 13. [℃-ute Cutie Circuit 2009
-    ～Five～](../Page/℃-ute_Cutie_Circuit_2009_～Five～.md "wikilink")（2010年2月17日）
+    ～Five～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2009_～Five～ "wikilink")（2010年2月17日）
 14. [℃-ute Concert Tour 2010春 ～SHOCKING
-    Live～](../Page/℃-ute_Concert_Tour_2010春_～SHOCKING_Live～.md "wikilink")（2010年7月7日/DVD、11月224日/Blu-ray）
+    Live～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2010春_～SHOCKING_Live～ "wikilink")（2010年7月7日/DVD、11月224日/Blu-ray）
 15. [℃-ute Cutie Circuit 2010
-    ～9月10日是℃-ute之日～](../Page/℃-ute_Cutie_Circuit_2010_～9月10日是℃-ute之日～.md "wikilink")（2010年11月24日）
+    ～9月10日是℃-ute之日～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2010_～9月10日是℃-ute之日～ "wikilink")（2010年11月24日）
 16. [℃-ute Concert Tour 2010夏秋 ～Dance Special\!\!
-    「超占イト\!\!」～](../Page/℃-ute_Concert_Tour_2010夏秋_～Dance_Special!!_「超占イト!!」～.md "wikilink")（2010年12月22日/DVD、2011年2月23日/Blu-ray）
+    「超占イト\!\!」～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2010夏秋_～Dance_Special!!_「超占イト!!」～ "wikilink")（2010年12月22日/DVD、2011年2月23日/Blu-ray）
 17. [℃-ute & S/mileage Premium Live 2011春 ～℃ & S
-    聯合大作戰～](../Page/℃-ute_&_S/mileage_Premium_Live_2011春_～℃_&_S_聯合大作戰～.md "wikilink")（2011年7月13日/DVD、8月3日/Blu-ray）
+    聯合大作戰～](https://zh.wikipedia.org/wiki/℃-ute_&_S/mileage_Premium_Live_2011春_～℃_&_S_聯合大作戰～ "wikilink")（2011年7月13日/DVD、8月3日/Blu-ray）
 18. [℃-ute Concert Tour 2011春 『超！超WONDERFUL
-    tour』](../Page/℃-ute_Concert_Tour_2011春_『超！超WONDERFUL_tour』.md "wikilink")
+    tour』](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2011春_『超！超WONDERFUL_tour』 "wikilink")
     （2011年9月28日/DVD、Blu-ray）
 19. [℃-ute Cutie Circuit 2011
-    ～9月10日是℃-ute之日～](../Page/℃-ute_Cutie_Circuit_2011_～9月10日是℃-ute之日～.md "wikilink")（2011年11月30日）
+    ～9月10日是℃-ute之日～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2011_～9月10日是℃-ute之日～ "wikilink")（2011年11月30日）
 20. [Berryz工房 & ℃-ute 聯合Concert Tour 2011秋 ～Berikyuu
-    Island～](../Page/Berryz工房_&_℃-ute_聯合Concert_Tour_2011秋_～Berikyuu_Island～.md "wikilink")（2012年2月29日/DVD、Blu-ray）
+    Island～](https://zh.wikipedia.org/wiki/Berryz工房_&_℃-ute_聯合Concert_Tour_2011秋_～Berikyuu_Island～ "wikilink")（2012年2月29日/DVD、Blu-ray）
 21. [℃-ute Concert Tour 2012春夏
-    ～太美了真抱歉～](../Page/℃-ute_Concert_Tour_2012春夏_～太美了真抱歉～.md "wikilink")（2012年8月15日/DVD、Blu-ray）
+    ～太美了真抱歉～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2012春夏_～太美了真抱歉～ "wikilink")（2012年8月15日/DVD、Blu-ray）
 22. [℃-ute Cutie Circuit 2012
-    ～9月10日是℃-ute之日～](../Page/℃-ute_Cutie_Circuit_2012_～9月10日是℃-ute之日～.md "wikilink")（2012年12月26日）
+    ～9月10日是℃-ute之日～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_2012_～9月10日是℃-ute之日～ "wikilink")（2012年12月26日）
 23. [℃-ute Concert Tour 2012～2013冬
-    ～神聖的五芒星～](../Page/℃-ute_Concert_Tour_2012～2013冬_～神聖的五芒星～.md "wikilink")（2013年5月15日/DVD、Blu-ray）
+    ～神聖的五芒星～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2012～2013冬_～神聖的五芒星～ "wikilink")（2013年5月15日/DVD、Blu-ray）
 24. [℃-ute Concert Tour 2013春 ～Treasure
-    Box～](../Page/℃-ute_Concert_Tour_2013春_～Treasure_Box～.md "wikilink")（2013年9月25日/DVD、Blu-ray）
+    Box～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2013春_～Treasure_Box～ "wikilink")（2013年9月25日/DVD、Blu-ray）
 25. [℃-ute 武道館 Concert 2013 『Queen of J-POP
-    ～走過風雨的女戰士～』](../Page/℃-ute_武道館_Concert_2013_『Queen_of_J-POP_～走過風雨的女戰士～』.md "wikilink")（2013年12月18日/DVD、Blu-ray）
+    ～走過風雨的女戰士～』](https://zh.wikipedia.org/wiki/℃-ute_武道館_Concert_2013_『Queen_of_J-POP_～走過風雨的女戰士～』 "wikilink")（2013年12月18日/DVD、Blu-ray）
 26. [℃-ute Cutie Circuit ～First Trip to
-    Taipei～](../Page/℃-ute_Cutie_Circuit_～First_Trip_to_Taipei～.md "wikilink")（2014年9月10日/DVD、Blu-ray）
+    Taipei～](https://zh.wikipedia.org/wiki/℃-ute_Cutie_Circuit_～First_Trip_to_Taipei～ "wikilink")（2014年9月10日/DVD、Blu-ray）
 27. [℃-ute Concert Tour 2014春
-    ～℃-ute之本音～](../Page/℃-ute_Concert_Tour_2014春_～℃-ute之本音～.md "wikilink")（2014年10月8日/DVD、Blu-ray）
+    ～℃-ute之本音～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2014春_～℃-ute之本音～ "wikilink")（2014年10月8日/DVD、Blu-ray）
 28. [℃-ute (910) 之日 Special Concert 2014 Thank you Berikyu\! in
-    日本武道館［前編］](../Page/℃-ute_\(910\)_之日_Special_Concert_2014_Thank_you_Berikyu!_in_日本武道館［前編］.md "wikilink")（2014年12月17日/DVD、Blu-ray）
+    日本武道館［前編］](https://zh.wikipedia.org/wiki/℃-ute_\(910\)_之日_Special_Concert_2014_Thank_you_Berikyu!_in_日本武道館［前編］ "wikilink")（2014年12月17日/DVD、Blu-ray）
 29. [℃-ute Concert Tour 2014秋
-    ～Monster～](../Page/℃-ute_Concert_Tour_2014秋_～Monster～.md "wikilink")（2015年3月4日/DVD、Blu-ray）
+    ～Monster～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2014秋_～Monster～ "wikilink")（2015年3月4日/DVD、Blu-ray）
 30. [9→10 (℃-ute) 周年記念 ℃-ute Concert Tour 2015春 ～The Future
-    Departure～](../Page/9→10_\(℃-ute\)_周年記念_℃-ute_Concert_Tour_2015春_～The_Future_Departure～.md "wikilink")（2015年9月9日/DVD、Blu-ray）
+    Departure～](https://zh.wikipedia.org/wiki/9→10_\(℃-ute\)_周年記念_℃-ute_Concert_Tour_2015春_～The_Future_Departure～ "wikilink")（2015年9月9日/DVD、Blu-ray）
 31. [℃-ute Concert Tour 2015秋 ～℃an't
-    STOP\!\!～](../Page/℃-ute_Concert_Tour_2015秋_～℃an't_STOP!!～.md "wikilink")（2016年2月24日/DVD、Blu-ray）
+    STOP\!\!～](https://zh.wikipedia.org/wiki/℃-ute_Concert_Tour_2015秋_～℃an't_STOP!!～ "wikilink")（2016年2月24日/DVD、Blu-ray）
 
 | 演唱會名稱                                                     | 日期時間・場地               |
 | --------------------------------------------------------- | --------------------- |
@@ -1197,7 +1198,8 @@ cute
 
 ## 主要獲獎紀錄
 
-  - [BEST HIT歌謠祭](../Page/BEST_HIT歌謠祭.md "wikilink") 2007 新人賞受賞
+  - [BEST HIT歌謠祭](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")
+    2007 新人賞受賞
   - 第40回[日本有線大獎](../Page/日本有線大獎.md "wikilink") 有線音樂賞受賞
   - 第49回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")
     最優秀新人賞受賞，以平均年齡13.6歲創下史上最年少領獎紀錄，此紀錄一直保持至今。就算4年後的[Fairies最多亦只以同樣](../Page/Fairies.md "wikilink")13.6歲的平均年齡與℃-ute打平。\[12\]
@@ -1205,7 +1207,8 @@ cute
 
 ## 關連項目
 
-  - [Hello\! Project](../Page/Hello!_Project.md "wikilink")
+  - [Hello\!
+    Project](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")
 
 ## 外部連結
 

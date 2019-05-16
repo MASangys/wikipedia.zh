@@ -41,7 +41,7 @@ SP1。openSUSE Leap 42.3之后命名规则又发生了改变，Leap 42的下一�
 ### YaST 控制中心
 
 **YaST**（**Yet another Setup Tool**，“另一种安装工具”）是 openSUSE
-的重要特性之一。它能让系统管理员在集成界面内处理包括磁盘分区、系统安装、网络与防火墙配置、[RPM软件包管理](../Page/RPM.md "wikilink")、在线更新、用户管理等诸多功能。
+的重要特性之一。它能让系统管理员在集成界面内处理包括磁盘分区、系统安装、网络与防火墙配置、[RPM软件包管理](https://zh.wikipedia.org/wiki/RPM "wikilink")、在线更新、用户管理等诸多功能。
 
 YaST还包括一些其他的重要功能分支。
 
@@ -61,7 +61,7 @@ ZYpp（或libzypp）是一个Linux软件管理引擎，它具有强大的依赖�
 
 ### 开放构建服务（Open Build Service）
 
-[开放构建服务为软件开发人员提供了用于编译](../Page/Open_Build_Service.md "wikilink")、发布软件的工具，它已被用于许多发行版系统，包括Mandriva、Ubuntu、Fedora、Debian和[Archlinux等](../Page/Archlinux.md "wikilink")。
+[开放构建服务为软件开发人员提供了用于编译](https://zh.wikipedia.org/wiki/Open_Build_Service "wikilink")、发布软件的工具，它已被用于许多发行版系统，包括Mandriva、Ubuntu、Fedora、Debian和[Archlinux等](https://zh.wikipedia.org/wiki/Archlinux "wikilink")。
 它通常能够有效简化打包过程，因此开发人员可以更轻松地为许多发行版以及许多 openSUSE
 发行版打包单个程序，使得无论用户使用何种分发版本都可以安装并使用。它是在[GNU
 GPLv2+协议下发布的](../Page/GNU通用公共许可证.md "wikilink")。\[8\]
@@ -97,19 +97,19 @@ Shell支持被包含在内](../Page/GNOME_Shell.md "wikilink")，并且支持在
 
 ### 其他特色
 
-  - [systemd提供了更快](../Page/systemd.md "wikilink")、功能更强大的系统启动方式\[12\]，12.2中引入了快速引导\[13\]。
-  - [GRUB2作为默认的启动管理器](../Page/GRUB2.md "wikilink")\[14\]。
+  - [systemd提供了更快](https://zh.wikipedia.org/wiki/systemd "wikilink")、功能更强大的系统启动方式\[12\]，12.2中引入了快速引导\[13\]。
+  - [GRUB2作为默认的启动管理器](https://zh.wikipedia.org/wiki/GRUB2 "wikilink")\[14\]。
   - [Plymouth提供了動人的開機動畫](../Page/Plymouth.md "wikilink")\[15\]。
-  - [Snapper配合](../Page/Snapper.md "wikilink")[btrfs提供了系统软件的快照和回退机制](../Page/btrfs.md "wikilink")\[16\]。
+  - [Snapper配合](https://zh.wikipedia.org/wiki/Snapper "wikilink")[btrfs提供了系统软件的快照和回退机制](https://zh.wikipedia.org/wiki/btrfs "wikilink")\[16\]。
   - [Xen](../Page/Xen.md "wikilink")、[VirtualBox](../Page/VirtualBox.md "wikilink")、[KVM及](../Page/基于内核的虚拟机.md "wikilink")[QEMU](../Page/QEMU.md "wikilink")：虛擬化軟體。并且可以直接运行于[Amazon
     EC2云主机](../Page/Amazon_EC2.md "wikilink")。
   - 在Linux发行版中率先提供对[Google
-    Go](../Page/Google_Go.md "wikilink")、[LLVM](../Page/LLVM.md "wikilink")
+    Go](https://zh.wikipedia.org/wiki/Google_Go "wikilink")、[LLVM](../Page/LLVM.md "wikilink")
     v3和[Clang](../Page/Clang.md "wikilink") v3的支持\[17\]。
   - [KMS支持](../Page/显示模式设定.md "wikilink")，可以保证安装过程中识别显卡，并安装相应驱动\[18\]。
   - [Btrfs文件系統的生產級支持](../Page/Btrfs.md "wikilink")，最新的Btrfs文件系統加入了改進的錯誤處理和恢復工具\[19\]。
-  - [Fcitx](../Page/Fcitx.md "wikilink")、[IBus](../Page/IBus.md "wikilink")、[gcin](../Page/gcin.md "wikilink")、[SCIM輸入法全面支援](../Page/SCIM.md "wikilink")。\[20\]
-  - [LibreOffice提供自由辦公的體驗](../Page/LibreOffice.md "wikilink")，同時又有新功能及改進。\[21\]
+  - [Fcitx](../Page/Fcitx.md "wikilink")、[IBus](../Page/IBus.md "wikilink")、[gcin](https://zh.wikipedia.org/wiki/gcin "wikilink")、[SCIM輸入法全面支援](../Page/SCIM.md "wikilink")。\[20\]
+  - [LibreOffice提供自由辦公的體驗](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")，同時又有新功能及改進。\[21\]
   - 一系列重量級科學工具。如[GNU
     Octave](../Page/GNU_Octave.md "wikilink")、[Maxima](../Page/Maxima.md "wikilink")、[Stellarium](../Page/Stellarium.md "wikilink")\[22\]等。
 
@@ -135,13 +135,13 @@ openSUSE
   - **内存：** 1GB物理内存（建议2GB）。
   - **硬盘空间：** 普通安装需要 10 GB 空间（最好 20 GB 以上）。
   - **声卡与显卡：** 没有特殊要求，绝大多数都支持。
-  - DVD光碟機：從[DVD安裝時必須具備的](../Page/DVD.md "wikilink")。
+  - DVD光碟機：從[DVD安裝時必須具備的](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 參見
 
   - [Linux发行版列表](../Page/Linux发行版列表.md "wikilink")
 
-  - [SUSE Linux](../Page/SUSE_Linux.md "wikilink")
+  - [SUSE Linux](https://zh.wikipedia.org/wiki/SUSE_Linux "wikilink")
 
   -
   -

@@ -1,43 +1,43 @@
 [Miki.png](https://zh.wikipedia.org/wiki/File:Miki.png "fig:Miki.png")
 [YES\!959期封面.jpg](https://zh.wikipedia.org/wiki/File:YES!959期封面.jpg "fig:YES!959期封面.jpg")
 
-《**Yes\!**》（1990年11月20日－2014年7月25日，），是[香港一本以](../Page/香港.md "wikilink")[青少年為對象的](../Page/青少年.md "wikilink")[雜誌](../Page/雜誌.md "wikilink")，口號為「全天候年輕人雜誌」。於[1990年](../Page/香港1990年.md "wikilink")11月20日由[倪震與](../Page/倪震.md "wikilink")[邵國華創辦](../Page/邵國華_\(主持人\).md "wikilink")。初期為逢5日、20日出版之半月刊，售價為[港幣](../Page/港幣.md "wikilink")10元，後轉為逢1日、11日、21日出版（但通常會遲3至5天才能在市面上買到），再後來轉為逢星期五出版，售價也改為12元，主要在[香港與](../Page/香港.md "wikilink")[澳門發行](../Page/澳門.md "wikilink")，另外從一些非正式渠道流向[中國大陸](../Page/中國大陸.md "wikilink")[珠江三角洲地區](../Page/珠江三角洲.md "wikilink")，但售價往往高達[人民幣](../Page/人民幣.md "wikilink")20-30元。當中較長時間出現過的虛構角色包括：Yes\!
+《**Yes\!**》（1990年11月20日－2014年7月25日，），是[香港一本以](../Page/香港.md "wikilink")[青少年為對象的](../Page/青少年.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，口號為「全天候年輕人雜誌」。於[1990年](https://zh.wikipedia.org/wiki/香港1990年 "wikilink")11月20日由[倪震與](../Page/倪震.md "wikilink")[邵國華創辦](../Page/邵國華_\(主持人\).md "wikilink")。初期為逢5日、20日出版之半月刊，售價為[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")10元，後轉為逢1日、11日、21日出版（但通常會遲3至5天才能在市面上買到），再後來轉為逢星期五出版，售價也改為12元，主要在[香港與](../Page/香港.md "wikilink")[澳門發行](../Page/澳門.md "wikilink")，另外從一些非正式渠道流向[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[珠江三角洲地區](../Page/珠江三角洲.md "wikilink")，但售價往往高達[人民幣](https://zh.wikipedia.org/wiki/人民幣 "wikilink")20-30元。當中較長時間出現過的虛構角色包括：Yes\!
 sir、古域、華少、阿四、木哥、雯雯（原名李穎雯，當時說她是邵國華的表妹）、徐意。至停刊前《Yes\!》的封面，主要都是雙封面出版，有時會以三封面出版（例：965期、974期），975、1000期《Yes\!》更特別以四封面出版，絕少會以單封面出版（除了971期、983期、984期）。每期均會送一些偶像用品（例：953、966期偶像A4文件夾）。至2014年7月25日停刊，告別號為1219期\[1\]。
 
 ## 歷史
 
-[1990年代初](../Page/香港1990年代.md "wikilink")，著名作家[倪匡之兒子](../Page/倪匡.md "wikilink")[倪震](../Page/倪震.md "wikilink")，連同[梁繼璋和邵國華在](../Page/梁繼璋.md "wikilink")[香港電台第二台主持一個名為](../Page/香港電台第二台.md "wikilink")《[三個寂寞的心](../Page/三個寂寞的心.md "wikilink")》的節目。其後，倪震和邵國華憑電台的知名度，開辦名為《Yes\!》的年青人[雜誌](../Page/雜誌.md "wikilink")。
+[1990年代初](https://zh.wikipedia.org/wiki/香港1990年代 "wikilink")，著名作家[倪匡之兒子](../Page/倪匡.md "wikilink")[倪震](../Page/倪震.md "wikilink")，連同[梁繼璋和邵國華在](../Page/梁繼璋.md "wikilink")[香港電台第二台主持一個名為](../Page/香港電台第二台.md "wikilink")《[三個寂寞的心](https://zh.wikipedia.org/wiki/三個寂寞的心 "wikilink")》的節目。其後，倪震和邵國華憑電台的知名度，開辦名為《Yes\!》的年青人[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
-《Yes\!》是當時少數以[香港](../Page/香港.md "wikilink")[青少年](../Page/青少年.md "wikilink")、[中學生為對象](../Page/中學生.md "wikilink")，以突出版面，為青少年分擔戀愛的煩惱的刊物。創刊不久即深受青少年、中學生歡迎，發行量不斷上升。後來發行以[藝人照片製作的](../Page/藝人.md "wikilink")“[Yes\!Card](../Page/Yes!Card.md "wikilink")”亦大受歡迎，主要在[旺角](../Page/旺角.md "wikilink")[信和中心等地銷售](../Page/信和中心.md "wikilink")，其銷量更曾成為藝人受歡迎與否的指標。
+《Yes\!》是當時少數以[香港](../Page/香港.md "wikilink")[青少年](../Page/青少年.md "wikilink")、[中學生為對象](https://zh.wikipedia.org/wiki/中學生 "wikilink")，以突出版面，為青少年分擔戀愛的煩惱的刊物。創刊不久即深受青少年、中學生歡迎，發行量不斷上升。後來發行以[藝人照片製作的](https://zh.wikipedia.org/wiki/藝人 "wikilink")“[Yes\!Card](../Page/Yes!Card.md "wikilink")”亦大受歡迎，主要在[旺角](../Page/旺角.md "wikilink")[信和中心等地銷售](../Page/信和中心.md "wikilink")，其銷量更曾成為藝人受歡迎與否的指標。
 
-創刊後發生了“毒瘤明”事件：當時的男歌手[劉錫明對傳媒表示欣賞](../Page/劉錫明.md "wikilink")[周慧敏](../Page/周慧敏.md "wikilink")，惹來其男友，即《Yes\!》創辦人兼主編之一的倪震不滿，於是在其[娛樂圈軼事專欄](../Page/娛樂圈.md "wikilink")，不斷抨擊一名叫“[毒瘤明](http://joenieh.blogspot.com/2006/06/blog-post.html)”的人物長達三年，包括誣衊對方偷窺、嫖妓等，引起YES\!讀者及[周慧敏支持者對](../Page/周慧敏.md "wikilink")[劉錫明的強烈反感](../Page/劉錫明.md "wikilink")，事業發展陷入低谷，逼使[劉錫明離港發展](../Page/劉錫明.md "wikilink")。
+創刊後發生了“毒瘤明”事件：當時的男歌手[劉錫明對傳媒表示欣賞](../Page/劉錫明.md "wikilink")[周慧敏](../Page/周慧敏.md "wikilink")，惹來其男友，即《Yes\!》創辦人兼主編之一的倪震不滿，於是在其[娛樂圈軼事專欄](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")，不斷抨擊一名叫“[毒瘤明](http://joenieh.blogspot.com/2006/06/blog-post.html)”的人物長達三年，包括誣衊對方偷窺、嫖妓等，引起YES\!讀者及[周慧敏支持者對](../Page/周慧敏.md "wikilink")[劉錫明的強烈反感](../Page/劉錫明.md "wikilink")，事業發展陷入低谷，逼使[劉錫明離港發展](../Page/劉錫明.md "wikilink")。
 
-[1998年](../Page/香港1998年.md "wikilink")11月20日第400期的「學生報」中，因封面小字標題「元朗愛心測試可道學生至口賤元朗官中至豪爽」引起[可道中學師生不滿](../Page/可道中學_\(嗇色園主辦\).md "wikilink")，[雜誌社總編輯黃仁傑於](../Page/雜誌.md "wikilink")404期首頁澄清事件「絕無泛指全體學生」、收回該標題並由衷致歉。
+[1998年](https://zh.wikipedia.org/wiki/香港1998年 "wikilink")11月20日第400期的「學生報」中，因封面小字標題「元朗愛心測試可道學生至口賤元朗官中至豪爽」引起[可道中學師生不滿](https://zh.wikipedia.org/wiki/可道中學_\(嗇色園主辦\) "wikilink")，[雜誌社總編輯黃仁傑於](https://zh.wikipedia.org/wiki/雜誌 "wikilink")404期首頁澄清事件「絕無泛指全體學生」、收回該標題並由衷致歉。
 
 期數跳動方面，1998年11月20日出版的定為400期（原為316期）。
 
 ### 宣布停刊
 
-2014年7月31日，《Yes\!》在其[Facebook專頁宣布停刊](../Page/Facebook.md "wikilink")，1219期（7月25日出版）為告別號。同時宣布，為了緊貼新聞媒體電子化的大趨勢，將會於不久的將來推出[電子版雜誌](../Page/電子雜誌.md "wikilink")。\[2\]\[3\]
+2014年7月31日，《Yes\!》在其[Facebook專頁宣布停刊](../Page/Facebook.md "wikilink")，1219期（7月25日出版）為告別號。同時宣布，為了緊貼新聞媒體電子化的大趨勢，將會於不久的將來推出[電子版雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")。\[2\]\[3\]
 
-1219期《Yes\!》[封面人物分別是](../Page/封面人物.md "wikilink")[江若琳](../Page/江若琳.md "wikilink")，獨家專訪江若琳入行10年的心路歷程、[日本小天后](../Page/日本.md "wikilink")[板野友美](../Page/板野友美.md "wikilink")，獨家專訪板野友美的秘密生活、和[韓流天團](../Page/韓流.md "wikilink")[Super
-Junior-M](../Page/Super_Junior-M.md "wikilink")，探討他們如何自揭自己的真面目。隨書附送偶像[海報](../Page/海報.md "wikilink")4張，分別是[李敏鎬](../Page/李敏鎬.md "wikilink")、[B.A.P](../Page/B.A.P.md "wikilink")、[G.E.M.和](../Page/鄧紫棋.md "wikilink")[BOP天堂鳥](../Page/天堂鳥_\(組合\).md "wikilink")。
+1219期《Yes\!》[封面人物分別是](https://zh.wikipedia.org/wiki/封面人物 "wikilink")[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")，獨家專訪江若琳入行10年的心路歷程、[日本小天后](../Page/日本.md "wikilink")[板野友美](../Page/板野友美.md "wikilink")，獨家專訪板野友美的秘密生活、和[韓流天團](../Page/韓流.md "wikilink")[Super
+Junior-M](../Page/Super_Junior-M.md "wikilink")，探討他們如何自揭自己的真面目。隨書附送偶像[海報](https://zh.wikipedia.org/wiki/海報 "wikilink")4張，分別是[李敏鎬](https://zh.wikipedia.org/wiki/李敏鎬 "wikilink")、[B.A.P](../Page/B.A.P.md "wikilink")、[G.E.M.和](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")[BOP天堂鳥](https://zh.wikipedia.org/wiki/天堂鳥_\(組合\) "wikilink")。
 
 ### 實體版停刊後發展
 
 2015年由新的投資者益思文化收購。在2016年6月3日於[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心Hall](../Page/香港會議展覽中心.md "wikilink")
 5BC舉辦了Yes25週年演唱會\[4\]，邀請了[譚詠麟](../Page/譚詠麟.md "wikilink")、[草蜢](../Page/草蜢.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[王灝兒](../Page/王灝兒.md "wikilink")、[葉佩雯](../Page/葉佩雯.md "wikilink")、[Super
-Girls](../Page/Super_Girls.md "wikilink")、[劉錫明等演出](../Page/劉錫明.md "wikilink")；因劉為上述“毒瘤明事件”之主角，縱使策劃人[倪震早已退股](../Page/倪震.md "wikilink")，劉參與拍攝Yes
+Girls](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")、[劉錫明等演出](../Page/劉錫明.md "wikilink")；因劉為上述“毒瘤明事件”之主角，縱使策劃人[倪震早已退股](../Page/倪震.md "wikilink")，劉參與拍攝Yes
 Card及演唱會，被傳媒視為不計前嫌的大方之舉，贏得一時佳話\[5\]\[6\]\[7\]。
 
 ## 社會影響
 
-《Yes\!》雜誌透過分擔戀愛的煩惱，初推出時深受青少年、中學生歡迎，更破天荒地設立讓學生讀者來信抨擊學校、老師的專欄，在當時老師權威龐大的[香港社會](../Page/香港社會.md "wikilink")，造成甚多的爭議和哄動，此外，雜誌內有不少鼓勵中學生談戀愛的內容，時尚潮流情報亦經常介紹名牌服飾。因而令不少家長、教育界人士不滿，批評此雜誌煽動青少年、中學生作出挑戰師權、求學時期談戀愛、崇尚名牌等「反叛」行為，視之為洪水猛獸。同時，亦有不少人跟風推出類似雜誌，令市面出現大量以英文單字為名的年青人雜誌，但都只是曇花一現，當中以[黃一山出資的](../Page/黃一山.md "wikilink")《夠Pop》支持得最長久，但也難逃在數個月內倒閉的命運。[1991年](../Page/香港1991年.md "wikilink")[暑假](../Page/暑假.md "wikilink")，更有一部名為《[Yes一族](../Page/Yes一族.md "wikilink")》的[港產片上映](../Page/香港電影.md "wikilink")。而既有市場的佔有者，如以女性讀者為主的《姊妹》以及長期以來以中學生為對象的《[突破少年](../Page/突破機構#歷史.md "wikilink")》，都因着這股衝擊而改版應付。《突破少年》及至2000年代亦停刊改為網上出版[1](https://web.archive.org/web/20061205015914/http://uzone.com.hk/)，實體版雜誌亦兩度易名為《U+》(2001年)及《突破書誌
+《Yes\!》雜誌透過分擔戀愛的煩惱，初推出時深受青少年、中學生歡迎，更破天荒地設立讓學生讀者來信抨擊學校、老師的專欄，在當時老師權威龐大的[香港社會](../Page/香港社會.md "wikilink")，造成甚多的爭議和哄動，此外，雜誌內有不少鼓勵中學生談戀愛的內容，時尚潮流情報亦經常介紹名牌服飾。因而令不少家長、教育界人士不滿，批評此雜誌煽動青少年、中學生作出挑戰師權、求學時期談戀愛、崇尚名牌等「反叛」行為，視之為洪水猛獸。同時，亦有不少人跟風推出類似雜誌，令市面出現大量以英文單字為名的年青人雜誌，但都只是曇花一現，當中以[黃一山出資的](../Page/黃一山.md "wikilink")《夠Pop》支持得最長久，但也難逃在數個月內倒閉的命運。[1991年](https://zh.wikipedia.org/wiki/香港1991年 "wikilink")[暑假](../Page/暑假.md "wikilink")，更有一部名為《[Yes一族](https://zh.wikipedia.org/wiki/Yes一族 "wikilink")》的[港產片上映](https://zh.wikipedia.org/wiki/香港電影 "wikilink")。而既有市場的佔有者，如以女性讀者為主的《姊妹》以及長期以來以中學生為對象的《[突破少年](https://zh.wikipedia.org/wiki/突破機構#歷史 "wikilink")》，都因着這股衝擊而改版應付。《突破少年》及至2000年代亦停刊改為網上出版[1](https://web.archive.org/web/20061205015914/http://uzone.com.hk/)，實體版雜誌亦兩度易名為《U+》(2001年)及《突破書誌
 Breakazine！》(2009年)。
 
-到了約[1990年代後期](../Page/香港1990年代.md "wikilink")，早期看《Yes\!》成長的中學生已進入[專上院校或投身社會工作](../Page/香港專上教育.md "wikilink")，以中學生為主要對象的青少年消閒雜誌已不適合他們。相反，他們多數改看[壹傳媒所出版的](../Page/壹傳媒.md "wikilink")《[壹本便利](../Page/壹本便利.md "wikilink")》，使這類雜誌的需求與日俱增，其他同類型的雜誌也相繼推出，各自有自己的特色。到了[2000年代](../Page/香港2000年代.md "wikilink")，亦曾出版過一本名為《Teens\!Weekly》的雜誌作為抗衡。《新假期》、《新Monday》、《Milk》、《Cream》、《COOL@Link》這類雜誌就或多或少亦能表現出年青人希望緊貼潮流脈搏的同時，亦希望自己會有獨特空間，與群眾分別出來。
+到了約[1990年代後期](https://zh.wikipedia.org/wiki/香港1990年代 "wikilink")，早期看《Yes\!》成長的中學生已進入[專上院校或投身社會工作](https://zh.wikipedia.org/wiki/香港專上教育 "wikilink")，以中學生為主要對象的青少年消閒雜誌已不適合他們。相反，他們多數改看[壹傳媒所出版的](../Page/壹傳媒.md "wikilink")《[壹本便利](../Page/壹本便利.md "wikilink")》，使這類雜誌的需求與日俱增，其他同類型的雜誌也相繼推出，各自有自己的特色。到了[2000年代](https://zh.wikipedia.org/wiki/香港2000年代 "wikilink")，亦曾出版過一本名為《Teens\!Weekly》的雜誌作為抗衡。《新假期》、《新Monday》、《Milk》、《Cream》、《COOL@Link》這類雜誌就或多或少亦能表現出年青人希望緊貼潮流脈搏的同時，亦希望自己會有獨特空間，與群眾分別出來。
 
-另，雜誌內之「城市驚喜」欄目，以[星探形式或自薦形式](../Page/星探.md "wikilink")，每期邀請不同的少女當[模特兒拍照](../Page/模特兒.md "wikilink")，因此直接或間接捧紅部分少女成為[電視](../Page/電視.md "wikilink")[藝員或](../Page/藝員.md "wikilink")[歌星](../Page/歌星.md "wikilink")（如[張栢芝](../Page/張栢芝.md "wikilink")、[韓君婷](../Page/韓君婷.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[楊愛瑾及](../Page/楊愛瑾.md "wikilink")[傅穎等](../Page/傅穎.md "wikilink")），其中息影女藝人，[李嘉誠次子](../Page/李嘉誠.md "wikilink")[李澤楷之前度女友](../Page/李澤楷.md "wikilink")[梁洛施](../Page/梁洛施.md "wikilink")，於13歲時參加《Yes\!》雜誌的城市驚喜專欄，並成為該期雜誌封面，一鳴驚人而加入[娛樂圈](../Page/娛樂圈.md "wikilink")。
+另，雜誌內之「城市驚喜」欄目，以[星探形式或自薦形式](../Page/星探.md "wikilink")，每期邀請不同的少女當[模特兒拍照](../Page/模特兒.md "wikilink")，因此直接或間接捧紅部分少女成為[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[藝員或](https://zh.wikipedia.org/wiki/藝員 "wikilink")[歌星](https://zh.wikipedia.org/wiki/歌星 "wikilink")（如[張栢芝](../Page/張栢芝.md "wikilink")、[韓君婷](../Page/韓君婷.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[楊愛瑾及](../Page/楊愛瑾.md "wikilink")[傅穎等](https://zh.wikipedia.org/wiki/傅穎 "wikilink")），其中息影女藝人，[李嘉誠次子](../Page/李嘉誠.md "wikilink")[李澤楷之前度女友](../Page/李澤楷.md "wikilink")[梁洛施](../Page/梁洛施.md "wikilink")，於13歲時參加《Yes\!》雜誌的城市驚喜專欄，並成為該期雜誌封面，一鳴驚人而加入[娛樂圈](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。
 
 ## 封面
 
@@ -478,7 +478,7 @@ Breakazine！》(2009年)。
 <tr class="even">
 <td><p>911</p></td>
 <td><p>飛輪海</p></td>
-<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a>、<a href="../Page/井上真央.md" title="wikilink">井上真央</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>、<a href="../Page/井上真央.md" title="wikilink">井上真央</a><br />
 <a href="../Page/小栗旬.md" title="wikilink">小栗旬</a>、<a href="../Page/松田翔太.md" title="wikilink">松田翔太</a><br />
 <a href="../Page/阿部力.md" title="wikilink">阿部力</a></p></td>
 <td><p>封面2為電影《<a href="../Page/花樣男子F.md" title="wikilink">花樣男子F</a>》的五位主角</p></td>
@@ -1143,7 +1143,7 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <tr class="even">
 <td><p>994</p></td>
 <td><p>飛輪海</p></td>
-<td><p><a href="../Page/李民浩.md" title="wikilink">李民浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李民浩" title="wikilink">李民浩</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2039,7 +2039,7 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <td><p>Sistar、Miss A<br />
 MBLAQ、FTIsland<br />
 4minute</p></td>
-<td><p>封面2為節目<a href="../Page/M_Countdown.md" title="wikilink">M Countdown的五隊南韓組合</a></p></td>
+<td><p>封面2為節目<a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown的五隊南韓組合</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2069,7 +2069,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1107</p></td>
-<td><p><a href="../Page/One_Direction.md" title="wikilink">One Direction</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Direction" title="wikilink">One Direction</a></p></td>
 <td><p><a href="../Page/鍾一憲.md" title="wikilink">鍾一憲</a>、<a href="../Page/麥貝夷.md" title="wikilink">麥貝夷</a></p></td>
 <td></td>
 <td></td>
@@ -2093,7 +2093,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1110</p></td>
-<td><p><a href="../Page/Justin_Bieber.md" title="wikilink">Justin Bieber</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Justin_Bieber" title="wikilink">Justin Bieber</a></p></td>
 <td><p>少女時代</p></td>
 <td></td>
 <td></td>
@@ -2117,7 +2117,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1113</p></td>
-<td><p><a href="../Page/Greyson_Chance.md" title="wikilink">Greyson Chance</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Greyson_Chance" title="wikilink">Greyson Chance</a></p></td>
 <td><p>炎亞綸</p></td>
 <td></td>
 <td></td>
@@ -2461,9 +2461,9 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1156</p></td>
-<td><p><a href="../Page/2PM.md" title="wikilink">2PM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a></p></td>
 <td><p><a href="../Page/程予希.md" title="wikilink">程予希</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a><br />
-<a href="../Page/蔡旻佑.md" title="wikilink">蔡旻佑</a>、<a href="../Page/黃仁德.md" title="wikilink">黃仁德</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/蔡旻佑" title="wikilink">蔡旻佑</a>、<a href="https://zh.wikipedia.org/wiki/黃仁德" title="wikilink">黃仁德</a></p></td>
 <td><p>封面2為劇集《<a href="../Page/原來是美男_(台灣電視劇).md" title="wikilink">原來是美男</a>》的四位主角</p></td>
 <td></td>
 <td></td>
@@ -2511,8 +2511,8 @@ MBLAQ、FTIsland<br />
 <tr class="odd">
 <td><p>1162</p></td>
 <td><p>Super Junior</p></td>
-<td><p><a href="../Page/金鍾國.md" title="wikilink">金鍾國</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a><br />
-<a href="../Page/池石鎮.md" title="wikilink">池石鎮</a>、<a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a><br />
+<a href="https://zh.wikipedia.org/wiki/池石鎮" title="wikilink">池石鎮</a>、<a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a></p></td>
 <td><p>封面2為綜藝節目《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》的四位主持</p></td>
 <td></td>
 <td></td>
@@ -2559,8 +2559,8 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1168</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a></p></td>
-<td><p><a href="../Page/金秀賢.md" title="wikilink">金秀賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金秀賢" title="wikilink">金秀賢</a></p></td>
 <td><p>黃鴻升</p></td>
 <td></td>
 <td></td>
@@ -2600,7 +2600,7 @@ MBLAQ、FTIsland<br />
 <tr class="even">
 <td><p>1173</p></td>
 <td><p>EXO</p></td>
-<td><p><a href="../Page/BEAST.md" title="wikilink">BEAST</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2679,7 +2679,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1183</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a>、<a href="../Page/李敏鎬.md" title="wikilink">李敏鎬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="https://zh.wikipedia.org/wiki/李敏鎬" title="wikilink">李敏鎬</a></p></td>
 <td><p>少女時代</p></td>
 <td><p>封面1為劇集《<a href="../Page/繼承者們.md" title="wikilink">繼承者們</a>》的兩位主角<br />
 少女時代本期佔有三個封面<br />
@@ -2771,7 +2771,7 @@ MBLAQ、FTIsland<br />
 <td><p>1194</p></td>
 <td><p><a href="../Page/吳千語.md" title="wikilink">吳千語</a>、<a href="../Page/林德信.md" title="wikilink">林德信</a></p></td>
 <td><p><a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a><br />
-<a href="../Page/胡鴻鈞.md" title="wikilink">胡鴻鈞</a>、<a href="../Page/許廷鏗.md" title="wikilink">許廷鏗</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2787,7 +2787,7 @@ MBLAQ、FTIsland<br />
 <tr class="odd">
 <td><p>1196</p></td>
 <td><p>銀赫、東海</p></td>
-<td><p><a href="../Page/4Minute.md" title="wikilink">4Minute</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/4Minute" title="wikilink">4Minute</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2868,7 +2868,7 @@ MBLAQ、FTIsland<br />
 <tr class="even">
 <td><p>1205</p></td>
 <td><p><a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a></p></td>
-<td><p><a href="../Page/Toheart.md" title="wikilink">Toheart</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Toheart" title="wikilink">Toheart</a></p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2993,7 +2993,7 @@ MBLAQ、FTIsland<br />
 
   - 〈yes\!\!〉'stuff
   - Anicom09
-      - [G.E.M.](../Page/鄧紫棋.md "wikilink")，[HotCha專輯卡](../Page/HotCha.md "wikilink")
+      - [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")，[HotCha專輯卡](../Page/HotCha.md "wikilink")
       - reader
       - just for you
       - pic it out
@@ -3032,33 +3032,33 @@ MBLAQ、FTIsland<br />
 
 ## 附送贈品
 
-| 期數  | 附送贈品            | 款式                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 950 | 偶像Meno Pad      | [HotCha](../Page/HotCha.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[G.E.M.](../Page/鄧紫棋.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[傅穎](../Page/傅穎.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")                                                                                                                                                                                                                                          |
-| 951 | 偶像Postcard Book | [G.E.M.](../Page/鄧紫棋.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[林峯](../Page/林峯.md "wikilink")、[Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")                                                                                                                                                                                                                                                                                        |
-| 952 | 偶像4R相簿          | [HotCha](../Page/HotCha.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[張敬軒](../Page/張敬軒.md "wikilink")、[陳偉霆](../Page/陳偉霆.md "wikilink")、[G.E.M.](../Page/鄧紫棋.md "wikilink")                                                                                                                                                                                                                                        |
-| 953 | 偶像A4文件夾         | [蔡卓妍](../Page/蔡卓妍.md "wikilink")、[G.E.M.](../Page/鄧紫棋.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[林峯](../Page/林峯.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[By2](../Page/BY2.md "wikilink")                                                                                                                                                                                                                                              |
-| 954 | 偶像滑鼠墊           | [蔡卓妍](../Page/蔡卓妍.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[張敬軒](../Page/張敬軒.md "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")、[G.E.M.](../Page/鄧紫棋.md "wikilink")                                                                                                                                                                                                                                            |
-| 955 | 偶像乘涼小膠扇         | [蔡卓妍](../Page/蔡卓妍.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[林峯](../Page/林峯.md "wikilink")、[張敬軒](../Page/張敬軒.md "wikilink")、[G.E.M.](../Page/鄧紫棋.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")                                                                                                                                                                            |
-| 956 | 偶像杯墊            | [張敬軒](../Page/張敬軒.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[By2](../Page/BY2.md "wikilink")、[林峯](../Page/林峯.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[鬼鬼](../Page/吳映潔.md "wikilink")                                                                                                                                                                                                                                                  |
-| 957 | 偶像相架            | [G.E.M.](../Page/鄧紫棋.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[By2](../Page/BY2.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[衛蘭](../Page/衛蘭.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")                                                                                                                                                                                                                                                    |
-| 958 | 動漫節攻略手冊         | 動漫節攻略手冊                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 959 | 偶像4R相           | [江若琳](../Page/江若琳.md "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[鬼鬼](../Page/吳映潔.md "wikilink")、[薛凱琪](../Page/薛凱琪.md "wikilink")、[Lollipop棒棒堂](../Page/Lollipop棒棒堂.md "wikilink")、[衛蘭](../Page/衛蘭.md "wikilink")                                                                                                                                                                                                                                        |
-| 960 | 偶像海報            | [韓版花樣男子](../Page/韓版花樣男子.md "wikilink")、[SS501](../Page/SS501.md "wikilink")、[Lollipop棒棒堂](../Page/Lollipop棒棒堂.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[Super Junior](../Page/Super_Junior.md "wikilink")                                                                                                                                                                                                     |
-| 961 | 偶像4R相簿          | [超克7](../Page/超克7.md "wikilink")、[By2](../Page/BY2.md "wikilink")、[鬼鬼](../Page/吳映潔.md "wikilink")、[林依晨](../Page/林依晨.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[AngelaBaby](../Page/AngelaBaby.md "wikilink")                                                                                                                                                                                                                                        |
-| 962 | 偶像長間尺           | [G.E.M.](../Page/鄧紫棋.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[鍾嘉欣](../Page/鍾嘉欣.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[By2](../Page/BY2.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[Lollipop棒棒堂](../Page/Lollipop棒棒堂.md "wikilink")、[張敬軒](../Page/張敬軒.md "wikilink")、[Hey Say Jump](../Page/Hey_Say_Jump.md "wikilink")、[鬼鬼](../Page/吳映潔.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[狄易達](../Page/狄易達.md "wikilink") |
-| 963 | 偶像筆袋            | [超克7](../Page/超克7.md "wikilink")、[By2](../Page/BY2.md "wikilink")、[鬼鬼](../Page/吳映潔.md "wikilink")、[張敬軒](../Page/張敬軒.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")、[林峯](../Page/林峯.md "wikilink")                                                                                                                                                                                                                                                        |
-| 964 | 偶像書籤            | [飛輪海](../Page/飛輪海.md "wikilink")、[棒棒堂](../Page/棒棒堂.md "wikilink")、[Super Junior-M](../Page/Super_Junior-M.md "wikilink")、[林依晨](../Page/林依晨.md "wikilink")、[By2](../Page/BY2.md "wikilink")、[AngelaBaby](../Page/AngelaBaby.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[SS501](../Page/SS501.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")                                                                     |
-| 965 | 偶像文件座           | [鄧麗欣](../Page/鄧麗欣.md "wikilink")、[By2](../Page/BY2.md "wikilink")、[G.E.M.](../Page/鄧紫棋.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[Lollipop棒棒堂](../Page/Lollipop棒棒堂.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")                                                                                                                                                                                                                              |
-| 966 | 偶像A4 文件夾        | [鄧麗欣](../Page/鄧麗欣.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")、[Choc7](../Page/Choc7.md "wikilink")、[林峯](../Page/林峯.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")                                                                                                                                                                                                                                               |
-| 967 | 偶像記事簿           | [林峯](../Page/林峯.md "wikilink")、[鬼鬼](../Page/吳映潔.md "wikilink")、[G.E.M.](../Page/鄧紫棋.md "wikilink")、[By2](../Page/BY2.md "wikilink")                                                                                                                                                                                                                                                                                                                       |
-| 968 | 偶像原子筆           | [G.E.M.](../Page/鄧紫棋.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[林峯](../Page/林峯.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")                                                                                                                                                                                                                                              |
-| 969 | 偶像4R相           | [鍾嘉欣](../Page/鍾嘉欣.md "wikilink")、[Hey Say Jump](../Page/Hey_Say_Jump.md "wikilink")、[AngelaBaby](../Page/AngelaBaby.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")、[陳偉霆](../Page/陳偉霆.md "wikilink")、[Janice Man](../Page/Janice_Man.md "wikilink")                                                                                                                                                                                                       |
-| 970 | 偶像門把吊牌          | [G.E.M.](../Page/鄧紫棋.md "wikilink")、鄧麗欣、飛輪海、洪卓立、S.H.E、[By2](../Page/BY2.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                    |
-| 971 | 偶像迷你紙相簿         | [林峯](../Page/林峯.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、鬼鬼、洪卓立、SS501、Super Junior                                                                                                                                                                                                                                                                                                                                                           |
-| 972 | 偶像散紙包           | [G.E.M.](../Page/鄧紫棋.md "wikilink")、鄧麗欣、[HotCha](../Page/HotCha.md "wikilink")、蔡卓妍、張敬軒、韓版花樣男子                                                                                                                                                                                                                                                                                                                                                             |
-| 973 | 偶像八達通套          | [G.E.M.](../Page/鄧紫棋.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、鍾嘉欣、江若琳、張敬軒、Lollipop棒棒堂                                                                                                                                                                                                                                                                                                                                                        |
-| 974 | 偶像海報            | [鄧麗欣](../Page/鄧麗欣.md "wikilink")&[方力申](../Page/方力申.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")、[鍾嘉欣](../Page/鍾嘉欣.md "wikilink")、Twins（[蔡卓妍](../Page/蔡卓妍.md "wikilink")&[鍾欣桐](../Page/鍾欣桐.md "wikilink")）                                                                                                                                                                                                                                              |
+| 期數  | 附送贈品            | 款式                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 950 | 偶像Meno Pad      | [HotCha](../Page/HotCha.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[傅穎](https://zh.wikipedia.org/wiki/傅穎 "wikilink")、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")                                                                                                                                                                                                                                                                                                                                         |
+| 951 | 偶像Postcard Book | [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 952 | 偶像4R相簿          | [HotCha](../Page/HotCha.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[陳偉霆](../Page/陳偉霆.md "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")                                                                                                                                                                                                                                                                                                                                                          |
+| 953 | 偶像A4文件夾         | [蔡卓妍](../Page/蔡卓妍.md "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")                                                                                                                                                                                                                                                                                                                                             |
+| 954 | 偶像滑鼠墊           | [蔡卓妍](../Page/蔡卓妍.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")                                                                                                                                                                                                                                                                                                                                                              |
+| 955 | 偶像乘涼小膠扇         | [蔡卓妍](../Page/蔡卓妍.md "wikilink")、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")                                                                                                                                                                                                                                                        |
+| 956 | 偶像杯墊            | [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")                                                                                                                                                                                                                                                                                                                              |
+| 957 | 偶像相架            | [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[衛蘭](../Page/衛蘭.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                      |
+| 958 | 動漫節攻略手冊         | 動漫節攻略手冊                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 959 | 偶像4R相           | [江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")、[Lollipop棒棒堂](https://zh.wikipedia.org/wiki/Lollipop棒棒堂 "wikilink")、[衛蘭](../Page/衛蘭.md "wikilink")                                                                                                                                                                                                                                                                                                                    |
+| 960 | 偶像海報            | [韓版花樣男子](https://zh.wikipedia.org/wiki/韓版花樣男子 "wikilink")、[SS501](../Page/SS501.md "wikilink")、[Lollipop棒棒堂](https://zh.wikipedia.org/wiki/Lollipop棒棒堂 "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[Super Junior](../Page/Super_Junior.md "wikilink")                                                                                                                                                                                                                                                                                                                       |
+| 961 | 偶像4R相簿          | [超克7](https://zh.wikipedia.org/wiki/超克7 "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")、[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[林依晨](../Page/林依晨.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[AngelaBaby](https://zh.wikipedia.org/wiki/AngelaBaby "wikilink")                                                                                                                                                                                                                                                                                                                    |
+| 962 | 偶像長間尺           | [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[Lollipop棒棒堂](https://zh.wikipedia.org/wiki/Lollipop棒棒堂 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[Hey Say Jump](https://zh.wikipedia.org/wiki/Hey_Say_Jump "wikilink")、[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[狄易達](https://zh.wikipedia.org/wiki/狄易達 "wikilink") |
+| 963 | 偶像筆袋            | [超克7](https://zh.wikipedia.org/wiki/超克7 "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")、[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")                                                                                                                                                                                                                                                                                              |
+| 964 | 偶像書籤            | [飛輪海](../Page/飛輪海.md "wikilink")、[棒棒堂](https://zh.wikipedia.org/wiki/棒棒堂 "wikilink")、[Super Junior-M](../Page/Super_Junior-M.md "wikilink")、[林依晨](../Page/林依晨.md "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")、[AngelaBaby](https://zh.wikipedia.org/wiki/AngelaBaby "wikilink")、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[SS501](../Page/SS501.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")                                                                                                                                                 |
+| 965 | 偶像文件座           | [鄧麗欣](../Page/鄧麗欣.md "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[Lollipop棒棒堂](https://zh.wikipedia.org/wiki/Lollipop棒棒堂 "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")                                                                                                                                                                                                                                                                                                                             |
+| 966 | 偶像A4 文件夾        | [鄧麗欣](../Page/鄧麗欣.md "wikilink")、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[Choc7](../Page/Choc7.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                 |
+| 967 | 偶像記事簿           | [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 968 | 偶像原子筆           | [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                |
+| 969 | 偶像4R相           | [鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")、[Hey Say Jump](https://zh.wikipedia.org/wiki/Hey_Say_Jump "wikilink")、[AngelaBaby](https://zh.wikipedia.org/wiki/AngelaBaby "wikilink")、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[陳偉霆](../Page/陳偉霆.md "wikilink")、[Janice Man](https://zh.wikipedia.org/wiki/Janice_Man "wikilink")                                                                                                                                                                                                                                                                |
+| 970 | 偶像門把吊牌          | [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、鄧麗欣、飛輪海、洪卓立、S.H.E、[By2](https://zh.wikipedia.org/wiki/BY2 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 971 | 偶像迷你紙相簿         | [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、鬼鬼、洪卓立、SS501、Super Junior                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 972 | 偶像散紙包           | [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、鄧麗欣、[HotCha](../Page/HotCha.md "wikilink")、蔡卓妍、張敬軒、韓版花樣男子                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 973 | 偶像八達通套          | [G.E.M.](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[HotCha](../Page/HotCha.md "wikilink")、鍾嘉欣、江若琳、張敬軒、Lollipop棒棒堂                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 974 | 偶像海報            | [鄧麗欣](../Page/鄧麗欣.md "wikilink")&[方力申](../Page/方力申.md "wikilink")、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")、Twins（[蔡卓妍](../Page/蔡卓妍.md "wikilink")&[鍾欣桐](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")）                                                                                                                                                                                                                                                                                                                                             |
 
   - 資料源自《Yes\!》網頁
   - 自962期開始，每期送出2款偶像親筆簽名相，名額2個。
@@ -3073,8 +3073,8 @@ MBLAQ、FTIsland<br />
 
   - 《一夜再成名》
   - 《潛龍追擊》
-  - 《[辣警霸王花](../Page/辣警霸王花.md "wikilink")》
-  - 《[不義之戰](../Page/不義之戰.md "wikilink")》
+  - 《[辣警霸王花](https://zh.wikipedia.org/wiki/辣警霸王花 "wikilink")》
+  - 《[不義之戰](https://zh.wikipedia.org/wiki/不義之戰 "wikilink")》
 
 ## 演唱會
 

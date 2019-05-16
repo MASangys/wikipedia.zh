@@ -1,4 +1,4 @@
-**威睿**（）是[戴爾科技旗下一家](../Page/戴爾科技.md "wikilink")[软件](../Page/电脑软件.md "wikilink")[公司](../Page/公司.md "wikilink")，它提供[云计算和](../Page/云计算.md "wikilink")[硬件虚拟化的软件和服务](../Page/硬件虚拟化.md "wikilink")\[1\]\[2\]\[3\]，并号称是第一个商业化的成功的虚拟化的[x86架构](../Page/x86.md "wikilink")\[4\]。公司成立于1998年，VMware的总部设在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[帕洛阿尔托](../Page/帕洛阿尔托.md "wikilink")。
+**威睿**（）是[戴爾科技旗下一家](https://zh.wikipedia.org/wiki/戴爾科技 "wikilink")[软件](https://zh.wikipedia.org/wiki/电脑软件 "wikilink")[公司](../Page/公司.md "wikilink")，它提供[云计算和](https://zh.wikipedia.org/wiki/云计算 "wikilink")[硬件虚拟化的软件和服务](../Page/硬件虚拟化.md "wikilink")\[1\]\[2\]\[3\]，并号称是第一个商业化的成功的虚拟化的[x86架构](https://zh.wikipedia.org/wiki/x86 "wikilink")\[4\]。公司成立于1998年，VMware的总部设在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[帕洛阿尔托](https://zh.wikipedia.org/wiki/帕洛阿尔托 "wikilink")。
 
 ## 歷史
 
@@ -9,21 +9,22 @@
 ### VMware Workstation
 
 VMware
-Workstation是VMware公司销售的[商业软件产品之一](../Page/商业软件.md "wikilink")。该工作站软件包含一个用于[英特尔](../Page/英特尔.md "wikilink")[x86相容電腦的](../Page/x86.md "wikilink")[虚拟机套装](../Page/虚拟机.md "wikilink")，其允许用户同时创建和运行多个x86虚拟机。每个虚拟机可以运行其安裝的操作系统，如（但不限于）[Windows](../Page/Microsoft_Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD变生版本](../Page/BSD.md "wikilink")。用简单术语来描述就是，VMware
-Workstation允许一台真实的電腦在一個[作業系統中同时開啟並运行数个操作系统](../Page/作業系統.md "wikilink")，其它VMware产品帮助在多个宿主電腦之间管理或移植VMware虚拟机。免费版本為[VMware
+Workstation是VMware公司销售的[商业软件产品之一](https://zh.wikipedia.org/wiki/商业软件 "wikilink")。该工作站软件包含一个用于[英特尔](../Page/英特尔.md "wikilink")[x86相容電腦的](https://zh.wikipedia.org/wiki/x86 "wikilink")[虚拟机套装](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，其允许用户同时创建和运行多个x86虚拟机。每个虚拟机可以运行其安裝的操作系统，如（但不限于）[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD变生版本](../Page/BSD.md "wikilink")。用简单术语来描述就是，VMware
+Workstation允许一台真实的電腦在一個[作業系統中同时開啟並运行数个操作系统](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其它VMware产品帮助在多个宿主電腦之间管理或移植VMware虚拟机。免费版本為[VMware
 Workstation Player](../Page/VMware_Workstation_Player.md "wikilink")。
 
 VMware官方網站提供多个经过预先配置的操作系统和应用程序的免费虚拟盘映像，这之中有不少是社会募捐的\[7\]。
 
 ### VMware Fusion
 
-VMware Fusion是VMware針對[Mac电脑推出的一款虚拟机软件](../Page/Mac电脑.md "wikilink")。
+VMware
+Fusion是VMware針對[Mac电脑推出的一款虚拟机软件](https://zh.wikipedia.org/wiki/Mac电脑 "wikilink")。
 
 ### VMware Server
 
 2006年2月6日，VMware发布了VMware Server产品的1.0版本，取代原先的VMware GSX
 Server\[8\]。VMware服务器可以创建、编辑、运行虚拟机。除了具有可以运行由其它VMware产品创建的虚拟机的功能外，它还可运行由微软[Virtual
-PC产品创建的虚拟机](../Page/Virtual_PC.md "wikilink")。VMware将VMware服务器产品作为可免费获得的产品，这是因为希望用户们最终能选择升级至VMware
+PC产品创建的虚拟机](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")。VMware将VMware服务器产品作为可免费获得的产品，这是因为希望用户们最终能选择升级至VMware
 ESX服务器产品。
 
 VMware不正式支持运行于Windows XP或专业版Windows
@@ -34,11 +35,11 @@ XP专业版下成功安装并提供VMware服务器功能的例子（但有个别
 
 ### VMware ESX服务器
 
-ESX服务器使用了衍生自[史丹佛大学開發的](../Page/史丹佛大学.md "wikilink")[SimOS核心](../Page/SimOS.md "wikilink")，該核心在硬件初始化后替换原開機的Linux内核。ESX服务器2.x的服务控制平台（亦称为“COS”或“vmnix”）是基于[Red
+ESX服务器使用了衍生自[史丹佛大学開發的](https://zh.wikipedia.org/wiki/史丹佛大学 "wikilink")[SimOS核心](https://zh.wikipedia.org/wiki/SimOS "wikilink")，該核心在硬件初始化后替换原開機的Linux内核。ESX服务器2.x的服务控制平台（亦称为“COS”或“vmnix”）是基于[Red
 Hat Linux](../Page/Red_Hat_Linux.md "wikilink")
 7.2的。ESX服务器3.0的服务控制平台源自一个Red Hat Linux
-7.2的经过修改的版本——它是作为一个用来加载vmkernel的[引导加载程序运行的](../Page/引导.md "wikilink")，并提供了各种管理界面（如[CLI](../Page/命令行界面.md "wikilink")、浏览器界面[MUI](../Page/Multilingual_User_Interface.md "wikilink")、[远程控制台](../Page/远程管理.md "wikilink")）。该[虚拟化系统管理的方式提供了更少的管理开销以及更好的控制和为虚拟机分配资源时能达到的粒度](../Page/系统管理.md "wikilink")（指精细的程度）；这也增加了安全性，从而使VMware
-ESX成为一种[企业级产品](../Page/企业级结构.md "wikilink")。
+7.2的经过修改的版本——它是作为一个用来加载vmkernel的[引导加载程序运行的](https://zh.wikipedia.org/wiki/引导 "wikilink")，并提供了各种管理界面（如[CLI](../Page/命令行界面.md "wikilink")、浏览器界面[MUI](https://zh.wikipedia.org/wiki/Multilingual_User_Interface "wikilink")、[远程控制台](https://zh.wikipedia.org/wiki/远程管理 "wikilink")）。该[虚拟化系统管理的方式提供了更少的管理开销以及更好的控制和为虚拟机分配资源时能达到的粒度](https://zh.wikipedia.org/wiki/系统管理 "wikilink")（指精细的程度）；这也增加了安全性，从而使VMware
+ESX成为一种[企业级产品](https://zh.wikipedia.org/wiki/企业级结构 "wikilink")。
 
 ### VMware ESXi服务器
 
@@ -66,7 +67,7 @@ ESX和VMware服务器（旧称为VMware GSX）。
 
 <!-- end list -->
 
-  - 数据中心亦可使用VMware服务器产品运行，但运行该产品须依赖于宿主环境的基本操作系统；此外，在运行软件的额外层面时也会产生对机器的附加开销。然而VMware服务器产品具有一点超过ESX产品的优势：它支持的设备的规格更多，例如可支持USB连接方式和某些[PCI设备](../Page/PCI.md "wikilink")。
+  - 数据中心亦可使用VMware服务器产品运行，但运行该产品须依赖于宿主环境的基本操作系统；此外，在运行软件的额外层面时也会产生对机器的附加开销。然而VMware服务器产品具有一点超过ESX产品的优势：它支持的设备的规格更多，例如可支持USB连接方式和某些[PCI设备](https://zh.wikipedia.org/wiki/PCI "wikilink")。
 
 亦请注意VMware ACE产品。
 
@@ -80,7 +81,7 @@ ESX和VMware服务器（旧称为VMware GSX）。
 
 ## 描述
 
-运行VMware工作站进程的计算机和操作系统被称为宿主机（host）。在一个虚拟机中运行的操作系统实例被称为虚拟机客户（guest）。类似[仿真器](../Page/仿真器.md "wikilink")，VMware工作站为客户操作系统提供完全虚拟化的硬件集–例如，客户机只会检测到一个AMD
+运行VMware工作站进程的计算机和操作系统被称为宿主机（host）。在一个虚拟机中运行的操作系统实例被称为虚拟机客户（guest）。类似[仿真器](https://zh.wikipedia.org/wiki/仿真器 "wikilink")，VMware工作站为客户操作系统提供完全虚拟化的硬件集–例如，客户机只会检测到一个AMD
 PCnet网络适配器，而和宿主机上真正安装的网络适配器的制造和型号无关。VMware在虚拟环境中将所有设备虚拟化，包括视频适配器、网络适配器、以及硬盘适配器。它还为USB、串行和并行设备提供传递驱动程序（pass-through
 drivers，指将对这些虚拟设备的访问传递到真实物理设备的驱动程序）。
 
@@ -88,34 +89,34 @@ drivers，指将对这些虚拟设备的访问传递到真实物理设备的驱�
 
 ## 实现
 
-傳統的模擬器，如[Bochs](../Page/Bochs.md "wikilink")，透過調用宿主機上的軟體子程序逐條執行每一道客戶機的CPU指令，以此模擬客戶機的[微處理器](../Page/微處理器.md "wikilink")。這種抽象化的方法，可使宿主機模擬出不同於自身微處理器的環境，讓客戶機運行。然而這類模擬器運行得非常慢。
+傳統的模擬器，如[Bochs](../Page/Bochs.md "wikilink")，透過調用宿主機上的軟體子程序逐條執行每一道客戶機的CPU指令，以此模擬客戶機的[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。這種抽象化的方法，可使宿主機模擬出不同於自身微處理器的環境，讓客戶機運行。然而這類模擬器運行得非常慢。
 
-一种更有效率的方式是在初次执行客户机指令时[动态地重新编译那些机器指令块](../Page/动态重编译.md "wikilink")，以后用到这些指令时直接执行经过翻译的代码。这种方式是由[微软的](../Page/微软.md "wikilink")[Virtual
-PC](../Page/Virtual_PC.md "wikilink") for [Mac OS
-X产品](../Page/Mac_OS_X.md "wikilink")、以及[Fabrice
-Bellard的](../Page/Fabrice_Bellard.md "wikilink")[QEMU产品](../Page/QEMU.md "wikilink")（不含近期的[kqemu附加模块](../Page/QEMU#lqemu.md "wikilink")）所使用的方式。
+一种更有效率的方式是在初次执行客户机指令时[动态地重新编译那些机器指令块](https://zh.wikipedia.org/wiki/动态重编译 "wikilink")，以后用到这些指令时直接执行经过翻译的代码。这种方式是由[微软的](../Page/微软.md "wikilink")[Virtual
+PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink") for [Mac OS
+X产品](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、以及[Fabrice
+Bellard的](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")[QEMU产品](../Page/QEMU.md "wikilink")（不含近期的[kqemu附加模块](https://zh.wikipedia.org/wiki/QEMU#lqemu "wikilink")）所使用的方式。
 
 和Virtual PC for
-Windows产品及带有kqemu附加模块的QEMU产品一样，VMware工作站使用了一种更加优化的方式，在尽可能的情况下直接运行程序代码，在x86中这是执行用户模式和[虚拟8086模式的程序代码的情况而言](../Page/8086仿真模式.md "wikilink")。当不能直接运行程序代码时，这几种软件产品会动态地重写代码，这是在执行内核级别和[实模式的程序代码的情况而言](../Page/实模式.md "wikilink")。在VMware中，经过翻译的代码是被放入内存的空闲区域中的，一般是在地址空间的尾部，这个区域可以随即被保护起来并通过分段机制标记为不可见的。由于这些原因，VMware比仿真器显著地快，能以超过在真实硬件上运行速度的80%的速度运行虚拟的客户操作系统。VMware对在运行高强度计算的应用程序时只有小到3%-5%的效能损耗而自豪。
+Windows产品及带有kqemu附加模块的QEMU产品一样，VMware工作站使用了一种更加优化的方式，在尽可能的情况下直接运行程序代码，在x86中这是执行用户模式和[虚拟8086模式的程序代码的情况而言](https://zh.wikipedia.org/wiki/8086仿真模式 "wikilink")。当不能直接运行程序代码时，这几种软件产品会动态地重写代码，这是在执行内核级别和[实模式的程序代码的情况而言](https://zh.wikipedia.org/wiki/实模式 "wikilink")。在VMware中，经过翻译的代码是被放入内存的空闲区域中的，一般是在地址空间的尾部，这个区域可以随即被保护起来并通过分段机制标记为不可见的。由于这些原因，VMware比仿真器显著地快，能以超过在真实硬件上运行速度的80%的速度运行虚拟的客户操作系统。VMware对在运行高强度计算的应用程序时只有小到3%-5%的效能损耗而自豪。
 
-缺点是客户操作系统的指令代码必须和宿主机的CPU兼容。因此不同于仿真器，VMware工作站不能用来在一个英特尔[x86处理器上运行Mac](../Page/x86.md "wikilink")/[PPC软件](../Page/Power_PC.md "wikilink")。另一个缺点是通常不可能有效率地嵌套使用VMware虚拟机（指在虚拟机客户中运行另一个VMware虚拟机，即以一个虚拟机客户作为宿主机再运行VMware）。最后，尽管VMware虚拟机是运行于用户模式下的，VMware工作站宿主程序本身必须在宿主操作系统下安装多种驱动程序，尤其是为了能动态切换[GDT和](../Page/GDT.md "wikilink")[IDT表](../Page/IDT.md "wikilink")。
+缺点是客户操作系统的指令代码必须和宿主机的CPU兼容。因此不同于仿真器，VMware工作站不能用来在一个英特尔[x86处理器上运行Mac](https://zh.wikipedia.org/wiki/x86 "wikilink")/[PPC软件](https://zh.wikipedia.org/wiki/Power_PC "wikilink")。另一个缺点是通常不可能有效率地嵌套使用VMware虚拟机（指在虚拟机客户中运行另一个VMware虚拟机，即以一个虚拟机客户作为宿主机再运行VMware）。最后，尽管VMware虚拟机是运行于用户模式下的，VMware工作站宿主程序本身必须在宿主操作系统下安装多种驱动程序，尤其是为了能动态切换[GDT和](https://zh.wikipedia.org/wiki/GDT "wikilink")[IDT表](https://zh.wikipedia.org/wiki/IDT "wikilink")。
 
 最后一点说明：经常有人错误地认为象VMware或Virtual
-PC这类虚拟机产品是*替换不良指令*或*简单地在用户模式下运行内核代码*。这两种方式都不能用于x86。替换指令的意思可以这么理解：假设要执行指令试图读取该指令本身的代码，它会吃惊地发现没有找到预期的内容。因为实际上不可能在允许指令正常执行的同时又保护其代码不被读取，要实现指令替换是复杂的。在用户模式下不加改变地运行代码同样也是不可能的，这是因为在用户模式下，大部分仅读取机器状态的指令不产生异常、也不能正确反映程序的真实状态，此外某些指令的行为会悄悄地有所变化。重写指令总是必需的；必要时会模拟初始位置的当前[指令指针](../Page/指令指针寄存器.md "wikilink")，硬编码的[断点也特别地会被重新映射](../Page/断点.md "wikilink")。
+PC这类虚拟机产品是*替换不良指令*或*简单地在用户模式下运行内核代码*。这两种方式都不能用于x86。替换指令的意思可以这么理解：假设要执行指令试图读取该指令本身的代码，它会吃惊地发现没有找到预期的内容。因为实际上不可能在允许指令正常执行的同时又保护其代码不被读取，要实现指令替换是复杂的。在用户模式下不加改变地运行代码同样也是不可能的，这是因为在用户模式下，大部分仅读取机器状态的指令不产生异常、也不能正确反映程序的真实状态，此外某些指令的行为会悄悄地有所变化。重写指令总是必需的；必要时会模拟初始位置的当前[指令指针](https://zh.wikipedia.org/wiki/指令指针寄存器 "wikilink")，硬编码的[断点也特别地会被重新映射](https://zh.wikipedia.org/wiki/断点 "wikilink")。
 
 ## 特点
 
 除了为到网络适配器、CD-ROM读盘机、硬盘驱动器、以及USB设备的访问提供桥梁外，VMware工作站还提供模拟某些硬件的能力。例如，能将一个ISO文件作为一张CDROM安装在系统上、也能将.vmdk文件作为硬盘驱动器安装、以及可将网络适配器驱动程序配置为通过宿主计算机使用网络地址转换（NAT）来访问网络，而非使用与宿主机桥接的方式（该方式為：宿主网络上的每个客户操作系统必須分配一个IP地址）。
 
-VMware工作站还允许无须将[LiveCD](../Page/LiveCD.md "wikilink")[烧录到真正的光盘上](../Page/CD刻录机.md "wikilink")、也无须[重启计算机](../Page/重启.md "wikilink")，而对这些[LiveCD进行测试](../Page/LiveCD.md "wikilink")。还可以捕获在VMware工作站下运行的某个操作系统的快照。每个快照可以用来在任何时候将虚拟机回滚到保存的状态。这种多快照功能使VMware工作站成为销售人员演示复杂的软件产品、开发人员建立虚拟开发和测试环境的非常流行的工具。VMware工作站包含有将多个虚拟机指定为编队的能力，编队可以作为一个物体来开机、关机、挂起和恢复—这使VMware工作站在用于测试客户端-服务器环境时特别有用。
+VMware工作站还允许无须将[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")[烧录到真正的光盘上](https://zh.wikipedia.org/wiki/CD刻录机 "wikilink")、也无须[重启计算机](https://zh.wikipedia.org/wiki/重启 "wikilink")，而对这些[LiveCD进行测试](https://zh.wikipedia.org/wiki/LiveCD "wikilink")。还可以捕获在VMware工作站下运行的某个操作系统的快照。每个快照可以用来在任何时候将虚拟机回滚到保存的状态。这种多快照功能使VMware工作站成为销售人员演示复杂的软件产品、开发人员建立虚拟开发和测试环境的非常流行的工具。VMware工作站包含有将多个虚拟机指定为编队的能力，编队可以作为一个物体来开机、关机、挂起和恢复—这使VMware工作站在用于测试客户端-服务器环境时特别有用。
 
 VMware公司新的企业级服务器和工具产品，正在使「将旧的生产服务器移植到虚拟机」的做法开始流行，这种做法能几乎不费力地将多个旧式服务器集装到一个单个的新宿主计算机中。
 
 ## 参见
 
   - [Xen](../Page/Xen.md "wikilink")
-  - [虚拟机比较](../Page/虚拟机比较.md "wikilink")
-  - [Virtual PC](../Page/Virtual_PC.md "wikilink")
+  - [虚拟机比较](https://zh.wikipedia.org/wiki/虚拟机比较 "wikilink")
+  - [Virtual PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")
   - [QEMU](../Page/QEMU.md "wikilink")
   - [VirtualBox](../Page/VirtualBox.md "wikilink")
 
@@ -127,7 +128,7 @@ VMware公司新的企业级服务器和工具产品，正在使「将旧的生�
   - [VMware on
     YouTube](https://communities.vmware.com/community/youtube)
 
-[VMware](../Page/分类:VMware.md "wikilink")
+[VMware](https://zh.wikipedia.org/wiki/分类:VMware "wikilink")
 
 [Category:美國軟體公司](https://zh.wikipedia.org/wiki/Category:美國軟體公司 "wikilink")
 [Category:1998年成立的公司](https://zh.wikipedia.org/wiki/Category:1998年成立的公司 "wikilink")

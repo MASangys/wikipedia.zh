@@ -1,11 +1,11 @@
 |series=未知 |predicted series=未知 |series
-comment=可能為[超錒系元素](../Page/超錒系元素.md "wikilink")
+comment=可能為[超錒系元素](https://zh.wikipedia.org/wiki/超錒系元素 "wikilink")
 |group=n/a |period=8 |block=g |series color= |phase color= |appearance=
 |image name= |image size= |image name comment= |image name 2= |image
 size 2= |image name 2 comment= |atomic mass=未知 |atomic mass 2= |atomic
 mass comment= |electron configuration=
-[\[Og](../Page/[Og.md "wikilink")\] 5g<sup>2</sup> 6f<sup>2</sup>
-7d<sup>1</sup> 8s<sup>2</sup> 8p<sup>1</sup>
+[\[Og](https://zh.wikipedia.org/wiki/[Og "wikilink")\] 5g<sup>2</sup>
+6f<sup>2</sup> 7d<sup>1</sup> 8s<sup>2</sup> 8p<sup>1</sup>
 （預測\[1\]） |electrons per shell=2, 8, 18, 32, 34, 20, 9, 3
 （預測） |physical properties=未知 |phase=固體 |phase comment=（預測） |density
 gplstp= |density gpcm3nrt= |density gpcm3nrt 2= |density gpcm3nrt 3=
@@ -32,11 +32,11 @@ modulus= |Shear modulus= |Bulk modulus= |Poisson ratio= |Mohs hardness=
 |Vickers hardness= |Brinell hardness= |CAS number= |isotopes=
 |isotopes comment= }}
 
-**126號元素**（**Unbihexium**）是一種尚未被發現的[化學元素](../Page/化學元素.md "wikilink")，它的暫定[化學符號是](../Page/化學符號.md "wikilink")**Ubh**，[原子序數是](../Page/原子序.md "wikilink")126，位於第8周期、g3族，屬於[g區元素之一](../Page/g區元素.md "wikilink")。雖然**126号元素**尚未被合成，但由于其处在假想的[稳定元素岛中而引起兴趣](../Page/稳定岛理论.md "wikilink")。
+**126號元素**（**Unbihexium**）是一種尚未被發現的[化學元素](../Page/化學元素.md "wikilink")，它的暫定[化學符號是](https://zh.wikipedia.org/wiki/化學符號 "wikilink")**Ubh**，[原子序數是](https://zh.wikipedia.org/wiki/原子序 "wikilink")126，位於第8周期、g3族，屬於[g區元素之一](https://zh.wikipedia.org/wiki/g區元素 "wikilink")。雖然**126号元素**尚未被合成，但由于其处在假想的[稳定元素岛中而引起兴趣](https://zh.wikipedia.org/wiki/稳定岛理论 "wikilink")。
 
 ## 历史
 
-Unbihexium的名字是作为元素周期表中的一个[占位符使用的](../Page/占位符.md "wikilink")，例如用于关于探求126号元素的科学文章中。[鈽以后的](../Page/鈽.md "wikilink")[超铀元素都是人工制造的](../Page/超铀元素.md "wikilink")，并且通常最终以科学家的名字或在原子物理中做出贡献的实验室的所在地的名字命名。
+Unbihexium的名字是作为元素周期表中的一个[占位符使用的](https://zh.wikipedia.org/wiki/占位符 "wikilink")，例如用于关于探求126号元素的科学文章中。[鈽以后的](https://zh.wikipedia.org/wiki/鈽 "wikilink")[超铀元素都是人工制造的](../Page/超铀元素.md "wikilink")，并且通常最终以科学家的名字或在原子物理中做出贡献的实验室的所在地的名字命名。
 
 第一次嘗試合成Ubh 126号元素是在1971年，Bimot等人使用了所謂的“熱核聚變反應”\[2\]：
 
@@ -44,13 +44,13 @@ Unbihexium的名字是作为元素周期表中的一个[占位符使用的](../P
 在實驗中，觀察到的具有高能量的α粒子，這可能可以視為成功合成Ubh 126号元素後發生的衰變現象，但最近的研究發現實際上該α粒子並不是來自Ubh
 126号元素，因此該次實驗並沒有成功。
 
-1976年，几位科学家宣称他们在一块[独居石中发现了](../Page/独居石.md "wikilink")126号元素以及其他一些元素。\[3\]\[4\]
+1976年，几位科学家宣称他们在一块[独居石中发现了](https://zh.wikipedia.org/wiki/独居石 "wikilink")126号元素以及其他一些元素。\[3\]\[4\]
 
 ## 性質
 
-根据使用非相对论[Skyrme能量密度按](../Page/Skyrme.md "wikilink")[Hartree-Fock-Bogoliubov法进行的计算](../Page/Hartree-Fock-Bogoliubov法.md "wikilink")，其很可能是在一个稳定性"井"中或[稳定元素岛中最稳定的元素](../Page/稳定岛理论.md "wikilink")。較早期的文獻認為[<sup>310</sup>Ubh具有](../Page/Ubh的同位素.md "wikilink")[126個](../Page/126.md "wikilink")[質子](../Page/質子.md "wikilink")，與[184個](../Page/184.md "wikilink")[中子](../Page/中子.md "wikilink")，[184和](../Page/184.md "wikilink")[126都是](../Page/126.md "wikilink")[幻數](../Page/幻數.md "wikilink")，且根據[哈特里－福克方程](../Page/哈特里－福克方程.md "wikilink")，[126個](../Page/126.md "wikilink")[質子正好填滿了一個](../Page/質子.md "wikilink")[質子殼層](../Page/核殼層模型.md "wikilink")，故<sup>310</sup>Ubh可能具有很長的[半衰期](../Page/半衰期.md "wikilink")\[5\]\[6\]，並為穩定元素島的中央。然而後來的[核殼層模型認為中子的殼層可能與質子的殼層不同](../Page/核殼層模型.md "wikilink")，而認為穩定元素島的中央可能是<sup>354</sup>Ubh\[7\]。
+根据使用非相对论[Skyrme能量密度按](https://zh.wikipedia.org/wiki/Skyrme "wikilink")[Hartree-Fock-Bogoliubov法进行的计算](https://zh.wikipedia.org/wiki/Hartree-Fock-Bogoliubov法 "wikilink")，其很可能是在一个稳定性"井"中或[稳定元素岛中最稳定的元素](https://zh.wikipedia.org/wiki/稳定岛理论 "wikilink")。較早期的文獻認為[<sup>310</sup>Ubh具有](https://zh.wikipedia.org/wiki/Ubh的同位素 "wikilink")[126個](https://zh.wikipedia.org/wiki/126 "wikilink")[質子](../Page/質子.md "wikilink")，與[184個](https://zh.wikipedia.org/wiki/184 "wikilink")[中子](../Page/中子.md "wikilink")，[184和](https://zh.wikipedia.org/wiki/184 "wikilink")[126都是](https://zh.wikipedia.org/wiki/126 "wikilink")[幻數](https://zh.wikipedia.org/wiki/幻數 "wikilink")，且根據[哈特里－福克方程](../Page/哈特里－福克方程.md "wikilink")，[126個](https://zh.wikipedia.org/wiki/126 "wikilink")[質子正好填滿了一個](../Page/質子.md "wikilink")[質子殼層](../Page/核殼層模型.md "wikilink")，故<sup>310</sup>Ubh可能具有很長的[半衰期](https://zh.wikipedia.org/wiki/半衰期 "wikilink")\[5\]\[6\]，並為穩定元素島的中央。然而後來的[核殼層模型認為中子的殼層可能與質子的殼層不同](../Page/核殼層模型.md "wikilink")，而認為穩定元素島的中央可能是<sup>354</sup>Ubh\[7\]。
 
-[日本原子能研究开发机构所使用的](../Page/日本原子能研究开发机构.md "wikilink")[核素圖中預測了小於等於](../Page/核素圖.md "wikilink")*Z*
+[日本原子能研究开发机构所使用的](../Page/日本原子能研究开发机构.md "wikilink")[核素圖中預測了小於等於](https://zh.wikipedia.org/wiki/核素圖 "wikilink")*Z*
 = 149和*N* = 256 的一系列核素之衰變方式。 而在*Z* = 126
 (右上)，β穩定（不β衰變的界線）線穿過不穩定區域向自發裂變（半衰期小於1奈秒）的區域，並延伸到N
 =
@@ -154,12 +154,13 @@ Unbihexium的名字是作为元素周期表中的一个[占位符使用的](../P
 
 由於**Ubh**会迅速氧化所以可能形成[UbhO](../Page/氧化物.md "wikilink")（氧化Ubh），由於推測的外層電子（2,
 8, 18, 32, 38, 18, 8,
-2）最外層只有兩個，故易形成[Ubh<sup>2+</sup>的陽離子所以](../Page/陽離子.md "wikilink")[UbhO溶於水將形成](../Page/氧化物.md "wikilink")[Ubh](../Page/陽離子.md "wikilink")[(OH)<sub>2</sub>](../Page/氫氧根離子.md "wikilink")。預測**Ubh**能與[酸性物質反應](../Page/酸性.md "wikilink")，與[鹽酸](../Page/鹽酸.md "wikilink")（）反應也可能形成Ubh鹽即[UbhCl<sub>2</sub>](../Page/氯化物.md "wikilink")；與[硫酸](../Page/硫酸.md "wikilink")（[H<sub>2</sub>](../Page/氫.md "wikilink")[SO<sub>4</sub>](../Page/硫酸根離子.md "wikilink")）反應也可能形成Ubh的硫酸鹽即[Ubh](../Page/陽離子.md "wikilink")[SO<sub>4</sub>](../Page/硫酸根離子.md "wikilink")。
+2）最外層只有兩個，故易形成[Ubh<sup>2+</sup>的陽離子所以](https://zh.wikipedia.org/wiki/陽離子 "wikilink")[UbhO溶於水將形成](../Page/氧化物.md "wikilink")[Ubh](https://zh.wikipedia.org/wiki/陽離子 "wikilink")[(OH)<sub>2</sub>](https://zh.wikipedia.org/wiki/氫氧根離子 "wikilink")。預測**Ubh**能與[酸性物質反應](https://zh.wikipedia.org/wiki/酸性 "wikilink")，與[鹽酸](https://zh.wikipedia.org/wiki/鹽酸 "wikilink")（）反應也可能形成Ubh鹽即[UbhCl<sub>2</sub>](https://zh.wikipedia.org/wiki/氯化物 "wikilink")；與[硫酸](../Page/硫酸.md "wikilink")（[H<sub>2</sub>](https://zh.wikipedia.org/wiki/氫 "wikilink")[SO<sub>4</sub>](https://zh.wikipedia.org/wiki/硫酸根離子 "wikilink")）反應也可能形成Ubh的硫酸鹽即[Ubh](https://zh.wikipedia.org/wiki/陽離子 "wikilink")[SO<sub>4</sub>](https://zh.wikipedia.org/wiki/硫酸根離子 "wikilink")。
 
 ## 在小說中
 
-在[John Byrne所著的](../Page/John_Byrne.md "wikilink")《[Action
-Comics](../Page/Action_Comics.md "wikilink")》一书中，将[氪星石元素虚构为](../Page/氪星石.md "wikilink")[元素周期表中的](../Page/元素周期表.md "wikilink")126号元素。\[9\]
+在[John
+Byrne所著的](https://zh.wikipedia.org/wiki/John_Byrne "wikilink")《[Action
+Comics](https://zh.wikipedia.org/wiki/Action_Comics "wikilink")》一书中，将[氪星石元素虚构为](../Page/氪星石.md "wikilink")[元素周期表中的](../Page/元素周期表.md "wikilink")126号元素。\[9\]
 
 ## 注釋
 
@@ -167,8 +168,8 @@ Comics](../Page/Action_Comics.md "wikilink")》一书中，将[氪星石元素�
 
 <references />
 
-  - [镎下元素](../Page/镎下元素.md "wikilink")（Eka-neptunium）—[钚下元素](../Page/钚下元素.md "wikilink")（Eka-plutonium）—[镅下元素](../Page/镅下元素.md "wikilink")（Eka-Americium）
-  - [125号元素](../Page/Ubp.md "wikilink")–[127号元素](../Page/Ubs.md "wikilink")
+  - [镎下元素](https://zh.wikipedia.org/wiki/镎下元素 "wikilink")（Eka-neptunium）—[钚下元素](https://zh.wikipedia.org/wiki/钚下元素 "wikilink")（Eka-plutonium）—[镅下元素](https://zh.wikipedia.org/wiki/镅下元素 "wikilink")（Eka-Americium）
+  - [125号元素](https://zh.wikipedia.org/wiki/Ubp "wikilink")–[127号元素](../Page/Ubs.md "wikilink")
 
 [Category:第8周期元素](https://zh.wikipedia.org/wiki/Category:第8周期元素 "wikilink")
 [Category:化学元素](https://zh.wikipedia.org/wiki/Category:化学元素 "wikilink")
@@ -176,7 +177,8 @@ Comics](../Page/Action_Comics.md "wikilink")》一书中，将[氪星石元素�
 1.
 
 2.  [クリプトン加速による類似研究](http://prc.aps.org/abstract/PRC/v8/i1/p375_1)Physical
-    Review C[アメリカ物理学会](../Page/アメリカ物理学会.md "wikilink")
+    Review
+    C[アメリカ物理学会](https://zh.wikipedia.org/wiki/アメリカ物理学会 "wikilink")
 
 3.  [Primordial Superheavy
     Element 126](http://prl.aps.org/abstract/PRL/v37/i11/p664_1) Phys.

@@ -1,7 +1,7 @@
 《**To
-Heart**》是由[Leaf在](../Page/Leaf.md "wikilink")1997年5月23日發售的[視覺小說類型](../Page/視覺小說.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年6月27日發售全年齡版《**To
+Heart**》是由[Leaf在](../Page/Leaf.md "wikilink")1997年5月23日發售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年6月27日發售全年齡版《**To
 Heart
-PSE**》，是PS版本再加上附加小遊戲而成。遊戲機版都是由[AQUAPLUS發售](../Page/AQUAPLUS.md "wikilink")，1999年3月25日發售加入[配音的](../Page/配音.md "wikilink")[PS版](../Page/PlayStation.md "wikilink")\[2\]，2004年12月28日發售[PS2版](../Page/PS2.md "wikilink")，2009年7月30日發售收錄1代和2代的[PSP版](../Page/PSP.md "wikilink")《**ToHeart2
+PSE**》，是PS版本再加上附加小遊戲而成。遊戲機版都是由[AQUAPLUS發售](../Page/AQUAPLUS.md "wikilink")，1999年3月25日發售加入[配音的](../Page/配音.md "wikilink")[PS版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")\[2\]，2004年12月28日發售[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")，2009年7月30日發售收錄1代和2代的[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")《**ToHeart2
 PORTABLE
 Wパック**》，2011年10月27日發售1代的PSP廉價版。\[3\]1999年4月1日到6月24日播放電視動畫\[4\]，2004年10月2日到12月25日播放第二部電視動畫《**To
 Heart 〜Remember my Memories〜**》。\[5\]
@@ -24,7 +24,7 @@ Heart 〜Remember my Memories〜**》。\[5\]
     藤田浩之的隔壁班同學，個性開朗活潑。
   -
     年齢：16歳　生日：9月10日　血型：A型　星座：處女座　身高：161cm　三圍：88/57/85
-    [眼鏡娘](../Page/眼鏡娘.md "wikilink")[班長](../Page/班長.md "wikilink")，害羞內向，巨乳成為她煩惱的根源。
+    [眼鏡娘](https://zh.wikipedia.org/wiki/眼鏡娘 "wikilink")[班長](../Page/班長.md "wikilink")，害羞內向，巨乳成為她煩惱的根源。
   -
     年齢：16歳　生日：12月21日　血型：A型　星座：射手座、身高：174cm　三圍：92/59/86
     男主角的同級生，日美混血兒，英文名是Lemmy Christopher Helen
@@ -53,7 +53,7 @@ Heart 〜Remember my Memories〜**》。\[5\]
     空手道部的部長。
   -
     身高：147cm　三圍：68/52/73
-    来栖川重工製造的試作型[機器人女僕](../Page/機械女僕.md "wikilink")，到學校學習過平常人的生活，是[貓耳娘的始祖之一](../Page/貓耳.md "wikilink")。台灣電視動畫版譯為「真崎」。
+    来栖川重工製造的試作型[機器人女僕](../Page/機械女僕.md "wikilink")，到學校學習過平常人的生活，是[貓耳娘的始祖之一](https://zh.wikipedia.org/wiki/貓耳 "wikilink")。台灣電視動畫版譯為「真崎」。
   -
     身高：160cm　三圍：83/53/82（第一部電視動畫的設定是身高：163cm　三圍：85/53/82）
     来栖川重工製造的試作型機器人，比Multi性能好，具有21世紀科技的先進機器人。
@@ -62,21 +62,21 @@ Heart 〜Remember my Memories〜**》。\[5\]
 
 ## 工作人員
 
-  - 編劇：[高橋龍也](../Page/高橋龍也.md "wikilink")、青紫（竹林明秀）、原田宇陀兒
-  - 原畫：[水無月徹](../Page/水無月徹.md "wikilink")、（河田優）
-  - 音楽：石川真也、中上和英、[下川直哉](../Page/下川直哉.md "wikilink")
+  - 編劇：[高橋龍也](https://zh.wikipedia.org/wiki/高橋龍也 "wikilink")、青紫（竹林明秀）、原田宇陀兒
+  - 原畫：[水無月徹](https://zh.wikipedia.org/wiki/水無月徹 "wikilink")、（河田優）
+  - 音楽：石川真也、中上和英、[下川直哉](https://zh.wikipedia.org/wiki/下川直哉 "wikilink")
 
 ## 主題曲
 
   - 片頭曲「Brand-new Heart」（PC版）\[6\]
-    作詞：[NEKO](../Page/NEKO.md "wikilink")　作曲：[中上和英](../Page/中上和英.md "wikilink")　歌：[あっこ](../Page/あっこ.md "wikilink")
+    作詞：[NEKO](https://zh.wikipedia.org/wiki/NEKO "wikilink")　作曲：[中上和英](https://zh.wikipedia.org/wiki/中上和英 "wikilink")　歌：[あっこ](https://zh.wikipedia.org/wiki/あっこ "wikilink")
   - 片頭曲「Feeling Heart」（PS、PSE、PS2版）\[7\]
-    作詞：[須谷尚子](../Page/須谷尚子.md "wikilink")　作曲：下川直哉　歌：[中司雅美](../Page/中司雅美.md "wikilink")
+    作詞：[須谷尚子](https://zh.wikipedia.org/wiki/須谷尚子 "wikilink")　作曲：下川直哉　歌：[中司雅美](https://zh.wikipedia.org/wiki/中司雅美 "wikilink")
 
 <!-- end list -->
 
   - 片尾曲「あたらしい予感」（PC版）
-    作詞：NEKO　作曲：下川直哉　歌：[あっこ](../Page/あっこ.md "wikilink")
+    作詞：NEKO　作曲：下川直哉　歌：[あっこ](https://zh.wikipedia.org/wiki/あっこ "wikilink")
   - 片尾曲「それぞれの未来へ」（PS、PSE、PS2版）
     作詞：須谷尚子　作曲：中上和英　歌：中司雅美
 
@@ -84,17 +84,17 @@ Heart 〜Remember my Memories〜**》。\[5\]
 
 ### To Heart
 
-從遊戲原作改編的動畫，於1999年4月1日至6月24日播放，共13話。\[8\]臺灣的[中視](../Page/中視.md "wikilink")、[中都卡通台](../Page/中都卡通台.md "wikilink")、[ET
-Jacky播放過電視動畫版](../Page/ET_Jacky.md "wikilink")，[VCD是由](../Page/VCD.md "wikilink")[木棉花國際代理發售](../Page/木棉花國際.md "wikilink")，片名譯作《**同班同學**》。香港則譯作《**青春萬歲**》，曾經在[無綫電視翡翠台播放過](../Page/無綫電視翡翠台.md "wikilink")。
+從遊戲原作改編的動畫，於1999年4月1日至6月24日播放，共13話。\[8\]臺灣的[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[中都卡通台](../Page/中都卡通台.md "wikilink")、[ET
+Jacky播放過電視動畫版](https://zh.wikipedia.org/wiki/ET_Jacky "wikilink")，[VCD是由](../Page/VCD.md "wikilink")[木棉花國際代理發售](../Page/木棉花國際.md "wikilink")，片名譯作《**同班同學**》。香港則譯作《**青春萬歲**》，曾經在[無綫電視翡翠台播放過](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。
 
 #### 主题曲
 
   - 片頭曲「Feeling Heart」
-    作詞：[須谷尚子](../Page/須谷尚子.md "wikilink")　作曲、編曲：[下川直哉](../Page/下川直哉.md "wikilink")　歌：[中司雅美](../Page/中司雅美.md "wikilink")
+    作詞：[須谷尚子](https://zh.wikipedia.org/wiki/須谷尚子 "wikilink")　作曲、編曲：[下川直哉](https://zh.wikipedia.org/wiki/下川直哉 "wikilink")　歌：[中司雅美](https://zh.wikipedia.org/wiki/中司雅美 "wikilink")
   - 片尾曲「Access」
-    作詞：[KAZUYO](../Page/KAZUYO.md "wikilink")　作曲：[長部正和](../Page/長部正和.md "wikilink")　編曲：[HIRO](../Page/HIRO.md "wikilink")　歌：[SPY](../Page/SPY.md "wikilink")
+    作詞：[KAZUYO](https://zh.wikipedia.org/wiki/KAZUYO "wikilink")　作曲：[長部正和](https://zh.wikipedia.org/wiki/長部正和 "wikilink")　編曲：[HIRO](https://zh.wikipedia.org/wiki/HIRO "wikilink")　歌：[SPY](https://zh.wikipedia.org/wiki/SPY "wikilink")
   - 片尾曲「Yell」（新潟放送・キッズステーション・ビデオ・DVD）
-    作詞：[六ッ見純代](../Page/六ッ見純代.md "wikilink")　作曲：[前田克樹](../Page/前田克樹.md "wikilink")　編曲：[坂本昌之](../Page/坂本昌之.md "wikilink")　歌：神岸明（[川澄綾子](../Page/川澄綾子.md "wikilink")）
+    作詞：[六ッ見純代](https://zh.wikipedia.org/wiki/六ッ見純代 "wikilink")　作曲：[前田克樹](https://zh.wikipedia.org/wiki/前田克樹 "wikilink")　編曲：[坂本昌之](https://zh.wikipedia.org/wiki/坂本昌之 "wikilink")　歌：神岸明（[川澄綾子](../Page/川澄綾子.md "wikilink")）
 
 #### 各话列表
 
@@ -134,7 +134,7 @@ Jacky播放過電視動畫版](../Page/ET_Jacky.md "wikilink")，[VCD是由](../
 <td></td>
 <td><p>向陽處之中</p></td>
 <td><p>藤田伸三</p></td>
-<td><p><a href="../Page/岩崎良明.md" title="wikilink">岩崎良明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩崎良明" title="wikilink">岩崎良明</a></p></td>
 <td><p>村田和也</p></td>
 <td><p>伊藤岳史</p></td>
 </tr>
@@ -266,9 +266,9 @@ Heart 青春紀事**》。
 #### 主题曲
 
   - 片頭曲「大好きだよ(Into Your Heart)」
-    作詞、作曲、編曲：[ジョー・リノイエ](../Page/ジョー・リノイエ.md "wikilink")　歌：[谷咲ナオミ](../Page/谷咲ナオミ.md "wikilink")
+    作詞、作曲、編曲：[ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink")　歌：[谷咲ナオミ](https://zh.wikipedia.org/wiki/谷咲ナオミ "wikilink")
   - 片尾曲「それぞれの未来へ」
-    作詞：[須谷尚子](../Page/須谷尚子.md "wikilink")　作曲：[中上和英](../Page/中上和英.md "wikilink")　編曲：[松岡純也](../Page/松岡純也.md "wikilink")　歌：[池田春菜](../Page/池田春菜.md "wikilink")
+    作詞：[須谷尚子](https://zh.wikipedia.org/wiki/須谷尚子 "wikilink")　作曲：[中上和英](https://zh.wikipedia.org/wiki/中上和英 "wikilink")　編曲：[松岡純也](https://zh.wikipedia.org/wiki/松岡純也 "wikilink")　歌：[池田春菜](https://zh.wikipedia.org/wiki/池田春菜 "wikilink")
 
 #### 各话列表
 
@@ -423,11 +423,11 @@ Heart 青春紀事**》。
   - To Heart
     由高雄右京擔任作畫，連載於[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")1997年10月號到1999年12月號，單行本共3集由[MediaWorks發售](../Page/MediaWorks.md "wikilink")。\[12\]
 
-| 卷數 | 發售日        | [ISBN](../Page/ISBN.md "wikilink") |
-| -- | ---------- | ---------------------------------- |
-| 1  | 1998年9月15日 | ISBN 4-8402-0978-2                 |
-| 2  | 1999年6月15日 | ISBN 4-8402-1221-X                 |
-| 3  | 2000年2月15日 | ISBN 4-8402-1460-3                 |
+| 卷數 | 發售日        | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
+| -- | ---------- | ----------------------------------------------------- |
+| 1  | 1998年9月15日 | ISBN 4-8402-0978-2                                    |
+| 2  | 1999年6月15日 | ISBN 4-8402-1221-X                                    |
+| 3  | 2000年2月15日 | ISBN 4-8402-1460-3                                    |
 
   - To Heart 〜Remember my Memories〜
     由高雄右京擔任作畫，連載於月刊Comic電擊大王2004年11月號到2005年7月號，單行本共1集由MediaWorks在2005年8月15日發售（ISBN
@@ -437,7 +437,7 @@ Heart 青春紀事**》。
 
 《[電擊G's
 magazine](../Page/電擊G's_magazine.md "wikilink")》2007年8月号舉辦的日本前五十名最佳美少女遊戲排名的票選活動，《To
-Heart》在入圍的249款遊戲中獲得14票而成為第19名\[14\]。PS版在《[ファミ通](../Page/ファミ通.md "wikilink")》537號的クロスレビュー的評分中，滿分40分獲得30分並且進入銀殿堂。\[15\]
+Heart》在入圍的249款遊戲中獲得14票而成為第19名\[14\]。PS版在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》537號的クロスレビュー的評分中，滿分40分獲得30分並且進入銀殿堂。\[15\]
 
 ## 參考來源
 
@@ -469,14 +469,15 @@ Heart》在入圍的249款遊戲中獲得14票而成為第19名\[14\]。PS版在
 
 1.  [To Heart](https://vndb.org/v18)The Visual Novel Database
 
-2.  [トゥハート](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=2808)[ファミ通.com](../Page/ファミ通.com.md "wikilink")
+2.  [トゥハート](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=2808)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
 
 3.  [ToHeart PORTABLE
     (AQUAPRICE2800)](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=24838)ファミ通.com
 
 4.  [To Heart
     (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1089)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 
 5.  [ToHeart - Remember my memories
     (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4455)Anime

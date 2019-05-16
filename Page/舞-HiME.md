@@ -1,11 +1,11 @@
-**舞-HiME**（）是以[日本](../Page/日本.md "wikilink")[日昇動畫為中心展開的](../Page/日昇動畫.md "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")、[漫畫](../Page/漫畫.md "wikilink")、[廣播](../Page/廣播.md "wikilink")、[遊戲等的](../Page/遊戲.md "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")。以私立風華學園為舞臺，描寫學生間的友情與戀愛、戰鬥。獲選為2005年第九回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
+**舞-HiME**（）是以[日本](../Page/日本.md "wikilink")[日昇動畫為中心展開的](../Page/日昇動畫.md "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[遊戲等的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")。以私立風華學園為舞臺，描寫學生間的友情與戀愛、戰鬥。獲選為2005年第九回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
 
 ## 劇情略介
 
 ### 動畫版
 
 每三百年，將會出現一次由黑曜之君展開的舞姬之戰。在戰鬥過程中，舞姬（HiME：Highly-Advanced Materializing
-Equipment）（高次物質化能力）需擊倒無依者（ORPHAN）及其同伴，成為眾多HiME之中唯一的勝出者，終能得到黑曜之君所賜予的力量：“媛星（ensei）”。HiME將會依靠她們不同的武具（Element）和子獸『心之子』（Child）作戰，有的具備相當[戰力](../Page/戰力.md "wikilink")，有的卻只能用作[偵察](../Page/偵察.md "wikilink")[情報](../Page/情報.md "wikilink")。[概念上](../Page/概念.md "wikilink")，HiME有权选择于任何情况下使用能力与否，然而說穿了，就如[黃金天使的歌一樣](../Page/黃金天使.md "wikilink")，她們只是籠中之鳥，沒法順利得到愛情也難以共持友情的少女。前半部劇情是對抗無依者（ORPHAN）及西亞斯（Searrs）財團，後半部劇情則為「蝕之祭」－HiME之間的戰鬥。
+Equipment）（高次物質化能力）需擊倒無依者（ORPHAN）及其同伴，成為眾多HiME之中唯一的勝出者，終能得到黑曜之君所賜予的力量：“媛星（ensei）”。HiME將會依靠她們不同的武具（Element）和子獸『心之子』（Child）作戰，有的具備相當[戰力](https://zh.wikipedia.org/wiki/戰力 "wikilink")，有的卻只能用作[偵察](../Page/偵察.md "wikilink")[情報](https://zh.wikipedia.org/wiki/情報 "wikilink")。[概念上](../Page/概念.md "wikilink")，HiME有权选择于任何情况下使用能力与否，然而說穿了，就如[黃金天使的歌一樣](https://zh.wikipedia.org/wiki/黃金天使 "wikilink")，她們只是籠中之鳥，沒法順利得到愛情也難以共持友情的少女。前半部劇情是對抗無依者（ORPHAN）及西亞斯（Searrs）財團，後半部劇情則為「蝕之祭」－HiME之間的戰鬥。
 
 ### 漫畫版
 
@@ -26,7 +26,7 @@ Equipment）（高次物質化能力）需擊倒無依者（ORPHAN）及其同�
 ### 背景设定
 
   - HiME的特徵
-    HiME的身上會有特殊形狀的「刻印」，而且只有她們才能看見天上的[媛星](../Page/媛星.md "wikilink")。
+    HiME的身上會有特殊形狀的「刻印」，而且只有她們才能看見天上的[媛星](https://zh.wikipedia.org/wiki/媛星 "wikilink")。
   - HiME的意思
     「HiME」在動畫中是指「**Hi**ghly-advanced **M**aterialising
     **E**quipment」，所謂高次物質化能力。HiME，可藉由自身對最重要的人的思念，發動其能力召喚心之子(チャイルド)及武具。
@@ -60,7 +60,7 @@ Equipment）（高次物質化能力）需擊倒無依者（ORPHAN）及其同�
   -
 
       -
-        作詞：[栗林美奈實](../Page/栗林美奈實.md "wikilink")／作曲、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")／歌：栗林美奈實
+        作詞：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")／作曲、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")／歌：栗林美奈實
 
   - 片尾曲
 
@@ -69,19 +69,19 @@ Equipment）（高次物質化能力）需擊倒無依者（ORPHAN）及其同�
   -
 
       -
-        作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")／作曲、編曲：飯塚昌明／歌：[美鄉秋](../Page/美鄉秋.md "wikilink")
+        作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")／作曲、編曲：飯塚昌明／歌：[美鄉秋](https://zh.wikipedia.org/wiki/美鄉秋 "wikilink")
 
   - 插入曲
 
 :; 「It's only the fairy tale」（15話）
 
 :: 作詞： [JIM
-STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../Page/梶浦由記.md "wikilink")／歌：アリッサ・シアーズ(CV:宮村優子)
+STEELE](https://zh.wikipedia.org/wiki/JIM_STEELE "wikilink")／作曲、編曲：[梶浦由記](../Page/梶浦由記.md "wikilink")／歌：アリッサ・シアーズ(CV:宮村優子)
 
 :; 「小さな星が降りる時」（15、26話）
 
 ::
-作詞：[栗林美奈實](../Page/栗林美奈實.md "wikilink")／作曲、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")／歌：栗林美奈實
+作詞：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")／作曲、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")／歌：栗林美奈實
 
 :; 「水辺の花」（16話）
 
@@ -96,7 +96,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
   -
 
       -
-        作詞、作曲：rino／編曲：[大久保薫](../Page/大久保薫.md "wikilink")／歌：鴇羽舞衣(CV:中原麻衣)
+        作詞、作曲：rino／編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")／歌：鴇羽舞衣(CV:中原麻衣)
 
 ### 各话标题
 
@@ -118,9 +118,9 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>それは☆乙女の一大事</p></td>
 <td><p>那是少女的一件大事</p></td>
 <td><p><a href="../Page/吉野弘幸.md" title="wikilink">吉野弘幸</a></p></td>
-<td><p><a href="../Page/小原正和.md" title="wikilink">小原正和</a></p></td>
-<td><p><a href="../Page/西村大樹.md" title="wikilink">西村大樹</a></p></td>
-<td><p><a href="../Page/久行宏和.md" title="wikilink">久行宏和</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西村大樹" title="wikilink">西村大樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久行宏和" title="wikilink">久行宏和</a><br />
 重田智（機械）<br />
 金田正彦（機械）</p></td>
 </tr>
@@ -129,7 +129,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>ヒミツの放課後</p></td>
 <td><p>秘密的放學後</p></td>
 <td><p>久行宏和</p></td>
-<td><p><a href="../Page/太田雅彦.md" title="wikilink">太田雅彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太田雅彦" title="wikilink">太田雅彦</a></p></td>
 <td><p>米山浩平</p></td>
 <td></td>
 </tr>
@@ -137,7 +137,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>3</p></td>
 <td><p>炎の舞/星の誓い</p></td>
 <td><p>炎之舞/星星的誓言</p></td>
-<td><p><a href="../Page/小野学_(演出家).md" title="wikilink">小野学</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小野学_(演出家)" title="wikilink">小野学</a></p></td>
 <td><p><a href="../Page/竹內浩志.md" title="wikilink">竹內浩志</a><br />
 重田智（DN機械）</p></td>
 <td></td>
@@ -147,8 +147,8 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>4</p></td>
 <td><p>風のイ・タ・ズ・ラ</p></td>
 <td><p>風的惡作劇</p></td>
-<td><p><a href="../Page/長井龍雪.md" title="wikilink">長井龍雪</a></p></td>
-<td><p><a href="../Page/新保卓郎.md" title="wikilink">新保卓郎</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/長井龍雪" title="wikilink">長井龍雪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新保卓郎" title="wikilink">新保卓郎</a><br />
 高瀨健一</p></td>
 <td></td>
 <td></td>
@@ -157,7 +157,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>5</p></td>
 <td><p>雨――。涙……</p></td>
 <td><p>雨…涙…</p></td>
-<td><p><a href="../Page/鎌倉由實.md" title="wikilink">鎌倉由實</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鎌倉由實" title="wikilink">鎌倉由實</a></p></td>
 <td><p>相坂直紀（角色）<br />
 坂本修司（機械）</p></td>
 <td></td>
@@ -169,7 +169,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>燃燒的十七歲</p></td>
 <td><p>小野学</p></td>
 <td><p><a href="../Page/實原登.md" title="wikilink">實原登</a>（角色）<br />
-<a href="../Page/大塚健.md" title="wikilink">大塚健</a>（機械）</p></td>
+<a href="https://zh.wikipedia.org/wiki/大塚健" title="wikilink">大塚健</a>（機械）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -177,7 +177,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>7</p></td>
 <td><p>迷子の仔猫たち</p></td>
 <td><p>迷路的小貓們</p></td>
-<td><p><a href="../Page/太田雅彦.md" title="wikilink">太田雅彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太田雅彦" title="wikilink">太田雅彦</a></p></td>
 <td><p>米山浩平</p></td>
 <td></td>
 <td></td>
@@ -186,8 +186,8 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>8</p></td>
 <td><p>たいせつなもの。</p></td>
 <td><p>重要的東西</p></td>
-<td><p><a href="../Page/増井壮一.md" title="wikilink">水草一馬</a></p></td>
-<td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/増井壮一" title="wikilink">水草一馬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
 <td><p>竹内浩志（角色）<br />
 市川敬三（機械）</p></td>
 <td></td>
@@ -197,7 +197,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>海とオトメとなつきのヒミツ♪</p></td>
 <td><p>海、少女和夏姬的秘密</p></td>
 <td><p>鎌倉由實</p></td>
-<td><p><a href="../Page/田中将賀.md" title="wikilink">田中将賀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田中将賀" title="wikilink">田中将賀</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -208,14 +208,14 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td></td>
 <td><p>蛋糕大戰</p></td>
 <td><p><a href="../Page/菱川直樹.md" title="wikilink">菱川直樹</a></p></td>
-<td><p><a href="../Page/石野聰.md" title="wikilink">石野聰</a>（角色）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/石野聰" title="wikilink">石野聰</a>（角色）<br />
 大塚健（機械）</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>光と闇の輪舞</p></td>
 <td><p>光與闇之輪舞</p></td>
-<td><p><a href="../Page/須永司.md" title="wikilink">須永司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/須永司" title="wikilink">須永司</a></p></td>
 <td><p>福本潔</p></td>
 <td><p>しんぼたくろう<br />
 高瀨建一</p></td>
@@ -236,7 +236,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>〜たまゆらの夜〜</p></td>
 <td><p>魂響祭之夜</p></td>
 <td><p>水草一馬</p></td>
-<td><p><a href="../Page/玉川達文.md" title="wikilink">玉川達文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玉川達文" title="wikilink">玉川達文</a></p></td>
 <td><p>米山浩平</p></td>
 <td></td>
 </tr>
@@ -264,7 +264,7 @@ STEELE](../Page/JIM_STEELE.md "wikilink")／作曲、編曲：[梶浦由記](../
 <td><p>16</p></td>
 <td><p>Parade♪</p></td>
 <td><p>遊行（Parade）</p></td>
-<td><p><a href="../Page/木村暢.md" title="wikilink">木村暢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木村暢" title="wikilink">木村暢</a></p></td>
 <td><p>須永司</p></td>
 <td><p>福本潔</p></td>
 <td><p>田中将賀</p></td>
@@ -564,13 +564,13 @@ DVD各卷3話（1卷只有2話）收錄的畫像戲劇，全26話。
 
 ### 「舞-HiME」
 
-秋田書店的漫畫雜誌「[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")」連載，原作為[矢立肇](../Page/矢立肇.md "wikilink")、背景設定（[木村暢](../Page/木村暢.md "wikilink")）、作畫[佐藤健悅](../Page/佐藤健悅.md "wikilink")、
+秋田書店的漫畫雜誌「[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")」連載，原作為[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、背景設定（[木村暢](https://zh.wikipedia.org/wiki/木村暢 "wikilink")）、作畫[佐藤健悅](https://zh.wikipedia.org/wiki/佐藤健悅 "wikilink")、
 監修由[谷口悟朗負責](../Page/谷口悟朗.md "wikilink")，構成協作吉野弘幸。台灣漫畫譯名為「舞-HiME」，由[長鴻出版社代理](../Page/長鴻出版社.md "wikilink")，共五冊。
 
 ### 「舞-HiME戰（EXA）」
 
 [ASCII Media
-Works的漫畫雜誌](../Page/ASCII_Media_Works.md "wikilink")「[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")」連載，原作[矢立肇](../Page/矢立肇.md "wikilink")、劇本[涼風涼](../Page/涼風涼.md "wikilink")、作畫[皇帝龍擔當](../Page/皇帝龍.md "wikilink")，共一冊。
+Works的漫畫雜誌](../Page/ASCII_Media_Works.md "wikilink")「[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")」連載，原作[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、劇本[涼風涼](https://zh.wikipedia.org/wiki/涼風涼 "wikilink")、作畫[皇帝龍擔當](https://zh.wikipedia.org/wiki/皇帝龍 "wikilink")，共一冊。
 
 ## 小說
 
@@ -588,7 +588,7 @@ Works的漫畫雜誌](../Page/ASCII_Media_Works.md "wikilink")「[月刊Comic電
 
   - **小說・徳間書店版「舞-HiME」**（）
       - 原作：矢立肇
-      - 著作：ナカガワヒロユキ（[海猫沢めろん](../Page/海猫沢めろん.md "wikilink")）
+      - 著作：ナカガワヒロユキ（[海猫沢めろん](https://zh.wikipedia.org/wiki/海猫沢めろん "wikilink")）
       - 插畫：久行宏和、稲吉朝子、高野和史、Maruto\!、坂本修司、稲吉智重、田中将雅
       - 全2卷
           - Side-A 秘密の花園（2005年6月發售）
@@ -610,18 +610,19 @@ Works的漫畫雜誌](../Page/ASCII_Media_Works.md "wikilink")「[月刊Comic電
   - 原畫：之、甘福あまね、秋蕎麦、八重樫南
   - 音樂：野中“まさ”雄一
   - 企畫：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 開發：CIRCUS METAL
-  - 發售：[奇妙互動](../Page/奇妙互動.md "wikilink")
+  - 發售：[奇妙互動](https://zh.wikipedia.org/wiki/奇妙互動 "wikilink")
 
 #### 主題曲
 
   - 片頭曲「阿修羅姫」
-      - 作詞：[寶野亞莉華](../Page/寶野亞莉華.md "wikilink") /
-        作曲・編曲：[片倉三起也](../Page/片倉三起也.md "wikilink")
+      - 作詞：[寶野亞莉華](https://zh.wikipedia.org/wiki/寶野亞莉華 "wikilink") /
+        作曲・編曲：[片倉三起也](https://zh.wikipedia.org/wiki/片倉三起也 "wikilink")
         / 歌：[ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
   - 片尾曲「Silent wing」
-      - 作詞：畑亜貴 / 作曲・編曲：宅見将典 / 歌：[美鄉秋](../Page/美鄉秋.md "wikilink")
+      - 作詞：畑亜貴 / 作曲・編曲：宅見将典 /
+        歌：[美鄉秋](https://zh.wikipedia.org/wiki/美鄉秋 "wikilink")
   - 插入歌「Fortuna」
       - 作詞・作曲・編曲：橘尭葉 / 歌：[妖精帝國](../Page/妖精帝國.md "wikilink")
   - 插入歌「last moment」
@@ -630,7 +631,7 @@ Works的漫畫雜誌](../Page/ASCII_Media_Works.md "wikilink")「[月刊Comic電
 #### 舞-HiME 命運的系統樹 修羅
 
 舞-HiME 命運的系統樹
-修羅（）在2006年6月30日[CIRCUS的METAL發售](../Page/CIRCUS_\(遊戲品牌\).md "wikilink")，[Windows用遊戲軟件](../Page/Microsoft_Windows.md "wikilink")，是PS2舞-HiME
+修羅（）在2006年6月30日[CIRCUS的METAL發售](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")，[Windows用遊戲軟件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，是PS2舞-HiME
 命運的系統樹的PC移植版，裏面並新增一位HIME角色天河朔夜，並增添更多CG圖片，遊戲中還有「靜留篇」的加入，為遊戲的「完全版」。
 
 ### 舞-HiME 爆裂！ 風華學園激鬥史？！
@@ -650,16 +651,16 @@ Portable用軟件](../Page/PlayStation_Portable.md "wikilink")，2006年2月23�
 
   - Shining☆Days
       -
-        電視動畫片頭主題曲。（歌：[栗林美奈實](../Page/栗林美奈實.md "wikilink")）
+        電視動畫片頭主題曲。（歌：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")）
         c/w「小さな星が降りる時」（電視動畫「舞-HiME」插入歌）
   - 君が空だった
       -
-        電視動畫片尾主題曲。（歌：[美鄉秋](../Page/美鄉秋.md "wikilink")）
+        電視動畫片尾主題曲。（歌：[美鄉秋](https://zh.wikipedia.org/wiki/美鄉秋 "wikilink")）
         c/w「TOMORROW'S TRUE」
   - Parade
       -
         「舞-HiME廣播劇
-        風華學園放送部」主題曲。（歌：[中原麻衣](../Page/中原麻衣.md "wikilink")、[千葉紗子](../Page/千葉紗子.md "wikilink")、[清水愛](../Page/清水愛.md "wikilink")）
+        風華學園放送部」主題曲。（歌：[中原麻衣](../Page/中原麻衣.md "wikilink")、[千葉紗子](../Page/千葉紗子.md "wikilink")、[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")）
         c/w「水晶の守り」（私立風華學園校歌）
   - 阿修羅姫
       -
@@ -668,7 +669,8 @@ Portable用軟件](../Page/PlayStation_Portable.md "wikilink")，2006年2月23�
         c/w「君がため、惜しからざりし命さへ」
   - Silent wing
       -
-        PS2遊戲 舞-HiME命運的系統樹片尾主題曲。（歌：[美鄉秋](../Page/美鄉秋.md "wikilink")）
+        PS2遊戲
+        舞-HiME命運的系統樹片尾主題曲。（歌：[美鄉秋](https://zh.wikipedia.org/wiki/美鄉秋 "wikilink")）
         c/w「Goal to NEW WORLD」
 
 ### 角色
@@ -686,7 +688,8 @@ Portable用軟件](../Page/PlayStation_Portable.md "wikilink")，2006年2月23�
     <!-- end list -->
     1.  愛しさの交差点
     2.  サウンドシネマ「夏の初めの贈り物」
-    3.  愛しさの交差点（[off vocal](../Page/オフヴォーカル.md "wikilink")）
+    3.  愛しさの交差点（[off
+        vocal](https://zh.wikipedia.org/wiki/オフヴォーカル "wikilink")）
   - 舞-HiME 角色單曲 VOL.2 水辺の花（2004年9月15日、LACM-4145）
       -
         歌：玖我なつき（千葉紗子）
@@ -766,7 +769,7 @@ Portable用軟件](../Page/PlayStation_Portable.md "wikilink")，2006年2月23�
 
   - 舞-HiME 原聲大碟 Vol.1 〜姫〜
       -
-        動畫版[原聲音樂第一彈](../Page/原聲音樂.md "wikilink")。
+        動畫版[原聲音樂第一彈](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
   - 舞-HiME 原聲音樂 Vol.2 〜舞〜
       -
         動畫版原聲音樂第二彈。
@@ -785,7 +788,7 @@ Portable用軟件](../Page/PlayStation_Portable.md "wikilink")，2006年2月23�
 
 ## 關聯條目
 
-  - [平井久司](../Page/平井久司.md "wikilink")
+  - [平井久司](https://zh.wikipedia.org/wiki/平井久司 "wikilink")
   - [舞-乙HiME](../Page/舞-乙HiME.md "wikilink")
 
 ## 外部連結

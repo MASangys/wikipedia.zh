@@ -1,15 +1,15 @@
 **The
-Pancakes**是[香港一支獨立一人](../Page/香港.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")，唱片公司[Rewind
-Records的唯一成員](../Page/Rewind_Records.md "wikilink")。
+Pancakes**是[香港一支獨立一人](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，唱片公司[Rewind
+Records的唯一成員](https://zh.wikipedia.org/wiki/Rewind_Records "wikilink")。
 
 The
 Pancakes的唯一成員為**Dejay**，自稱為「**阿戟**」，原名**蔡明麗**，身兼作曲、作詞、編曲、彈奏、主音。配偶是《[100毛](../Page/100毛.md "wikilink")》創辦人之一、暱稱「腦細」的[林日曦](../Page/林日曦.md "wikilink")。
-Dejay曾就讀[石蔭慈幼小學](../Page/石蔭慈幼小學.md "wikilink")，在1999年畢業於[香港大學以及](../Page/香港大學.md "wikilink")[利希慎堂](../Page/利希慎堂.md "wikilink")，主修[翻譯及](../Page/翻譯.md "wikilink")[德語](../Page/德語.md "wikilink")，於大學期間開始[音樂創作](../Page/音樂創作.md "wikilink")，畢業後任職[圖書館員](../Page/圖書館員.md "wikilink")，她曾多次將自己的示範錄音帶寄去各唱片公司。於2000年自資發行首張唱片《Les
+Dejay曾就讀[石蔭慈幼小學](https://zh.wikipedia.org/wiki/石蔭慈幼小學 "wikilink")，在1999年畢業於[香港大學以及](../Page/香港大學.md "wikilink")[利希慎堂](https://zh.wikipedia.org/wiki/利希慎堂 "wikilink")，主修[翻譯及](https://zh.wikipedia.org/wiki/翻譯 "wikilink")[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")，於大學期間開始[音樂創作](../Page/音樂創作.md "wikilink")，畢業後任職[圖書館員](../Page/圖書館員.md "wikilink")，她曾多次將自己的示範錄音帶寄去各唱片公司。於2000年自資發行首張唱片《Les
 Bonbons Sont
 Bons》，其中一首《a》獲[九龍巴士選為廣告用歌](../Page/九龍巴士.md "wikilink")，因而初露頭角，並且得到[西班牙家庭作坊式唱片公司](../Page/西班牙.md "wikilink")[Elefant
-Records賞識簽約](../Page/Elefant_Records.md "wikilink")，為她出版過一張大碟及[黑膠唱片](../Page/黑膠唱片.md "wikilink")，在其他國家發售。其後她曾發行數張唱片，絕大多數歌曲皆為英語歌，以其獨特的唱腔及[港式英語發音而著名](../Page/港式英語.md "wikilink")，被視為香港獨立樂壇的新力軍。
+Records賞識簽約](https://zh.wikipedia.org/wiki/Elefant_Records "wikilink")，為她出版過一張大碟及[黑膠唱片](../Page/黑膠唱片.md "wikilink")，在其他國家發售。其後她曾發行數張唱片，絕大多數歌曲皆為英語歌，以其獨特的唱腔及[港式英語發音而著名](../Page/港式英語.md "wikilink")，被視為香港獨立樂壇的新力軍。
 
-她的音樂曾被多個電視廣告使用，包括[九龍巴士](../Page/九龍巴士.md "wikilink")、[中華電力公司](../Page/中華電力公司.md "wikilink")、[匯豐銀行](../Page/匯豐銀行.md "wikilink")、[生力啤和在歐洲多國播放的](../Page/生力啤.md "wikilink")[起亞汽車等](../Page/起亞汽車.md "wikilink")。她又自資出版雜誌《Sofa》以及書籍《班門弄戟》，同時開始參與其他演藝製作，例如創作獨立電影《尋找真愛》以及與麥家碧和謝立文合作，為電影《[麥兜故事](../Page/麥兜故事.md "wikilink")》中的Miss
+她的音樂曾被多個電視廣告使用，包括[九龍巴士](../Page/九龍巴士.md "wikilink")、[中華電力公司](https://zh.wikipedia.org/wiki/中華電力公司 "wikilink")、[匯豐銀行](https://zh.wikipedia.org/wiki/匯豐銀行 "wikilink")、[生力啤和在歐洲多國播放的](https://zh.wikipedia.org/wiki/生力啤 "wikilink")[起亞汽車等](https://zh.wikipedia.org/wiki/起亞汽車 "wikilink")。她又自資出版雜誌《Sofa》以及書籍《班門弄戟》，同時開始參與其他演藝製作，例如創作獨立電影《尋找真愛》以及與麥家碧和謝立文合作，為電影《[麥兜故事](../Page/麥兜故事.md "wikilink")》中的Miss
 Chan及《[麥兜菠蘿油王子](../Page/麥兜菠蘿油王子.md "wikilink")》中的少女麥太配音。於2005年憑藉為《[麥兜菠蘿油王子](../Page/麥兜菠蘿油王子.md "wikilink")》製作的一首《咁咁咁》，擊敗其他著名歌手和音樂人奪得第二十四屆[香港電影金像獎最佳原創電影歌曲獎](../Page/香港電影金像獎.md "wikilink")。
 
 ## 歷年作品

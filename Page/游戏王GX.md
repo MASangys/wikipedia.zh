@@ -1,5 +1,5 @@
 《**遊戲王GX**》（），是由日本[東京電視台播出的電視動畫](../Page/東京電視台.md "wikilink")，全180集。\[1\]\[2\]台灣由[中華電視公司於](../Page/中華電視公司.md "wikilink")2005年12月18日到2006年12月10日播放第一季為止。标题中的GX是「Generation
-next（下一世代）」的缩写。另外設計主要角色和怪物的原案是由原作者[高桥和希負責](../Page/高桥和希.md "wikilink")。
+next（下一世代）」的缩写。另外設計主要角色和怪物的原案是由原作者[高桥和希負責](https://zh.wikipedia.org/wiki/高桥和希 "wikilink")。
 
 ## 故事大綱
 
@@ -7,7 +7,7 @@ next（下一世代）」的缩写。另外設計主要角色和怪物的原案�
 
 遊城十代在前往决斗學院實技測驗的途中，與傳說中的決鬥者——武藤遊戲偶遇，並從武藤遊戲手中獲得一張幸運卡「羽翼栗子球」。
 為了奪取被封印在決鬥學院地底遺跡中，擁有毀滅世界力量的三幻魔「幻魔皇拉比耶魯」、「降雷皇哈蒙」、「神炎皇烏利亞」，出現名為七星（SEVEN
-STARS）的神秘團體。遊城十代、天上院明日香、[萬丈目準](../Page/萬丈目準.md "wikilink")、三澤大地、丸藤亮、庫洛諾斯老師和大德寺老師，被選為七精門鑰匙的守護者。每場決鬥都是黑暗決鬥(三澤大地與塔妮雅的決鬥例外)，輸了的話靈魂會被封印。後來意外發現大德寺老師也是七星之一，十代打敗大德寺老師後知道了事情的原委，並得到"賢者之石"的卡片
+STARS）的神秘團體。遊城十代、天上院明日香、[萬丈目準](https://zh.wikipedia.org/wiki/萬丈目準 "wikilink")、三澤大地、丸藤亮、庫洛諾斯老師和大德寺老師，被選為七精門鑰匙的守護者。每場決鬥都是黑暗決鬥(三澤大地與塔妮雅的決鬥例外)，輸了的話靈魂會被封印。後來意外發現大德寺老師也是七星之一，十代打敗大德寺老師後知道了事情的原委，並得到"賢者之石"的卡片
 
 ### 尤貝爾篇（3年級）
 
@@ -21,7 +21,7 @@ Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發�
   - 原作：[高橋和希](../Page/高橋和希.md "wikilink")
   - 監督：辻初樹
   - 系列構成：武上純希→[吉田伸](../Page/吉田伸.md "wikilink")（第157－話 ）
-  - 腳本：武上純希、前川淳、、[吉田伸](../Page/吉田伸.md "wikilink")、面出明美、[高橋奈津子](../Page/高橋奈津子.md "wikilink")、[江夏由結](../Page/江夏由結.md "wikilink")、馬場繪麻、[加藤陽一](../Page/加藤陽一.md "wikilink")、彥久保雅博、植田浩二、坂本豐和
+  - 腳本：武上純希、前川淳、、[吉田伸](../Page/吉田伸.md "wikilink")、面出明美、[高橋奈津子](../Page/高橋奈津子.md "wikilink")、[江夏由結](../Page/江夏由結.md "wikilink")、馬場繪麻、[加藤陽一](https://zh.wikipedia.org/wiki/加藤陽一 "wikilink")、彥久保雅博、植田浩二、坂本豐和
   - 總演出：鶴田寬
   - 決鬥顧問：彦久保雅博
   - 人物／主要怪獸設計：[原憲一](../Page/原憲一.md "wikilink")
@@ -30,8 +30,8 @@ Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發�
   - 攝影監督→攝影兼修：枝光弘明→星知良
   - 音樂：蓑部雄崇
   - 音樂製作人：淺田裕之
-  - 錄音監督：[三矢雄二](../Page/三矢雄二.md "wikilink") （第1－151話） →平光琢也 （第152－156話）
-    →不在 （第157－話）
+  - 錄音監督：[三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink") （第1－151話）
+    →平光琢也 （第152－156話） →不在 （第157－話）
   - 音響監督：平光琢也
   - 製作人：山川典夫（[東京電視台](../Page/東京電視台.md "wikilink")）、笹田直樹→實松照晃（[NAS](../Page/日本AD_SYSTEMS.md "wikilink")）
   - 動畫製作人：長谷川徹→田中日出男（GALLOP）
@@ -40,7 +40,7 @@ Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發�
   - 動畫原創卡作畫：小川純平、加藤園、
   - 卡片特效：橫井正人
   - 編集：揖野允史
-  - 動畫製作：[GALLOP](../Page/GALLOP_\(動畫工作室\).md "wikilink")
+  - 動畫製作：[GALLOP](https://zh.wikipedia.org/wiki/GALLOP_\(動畫工作室\) "wikilink")
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[NAS](../Page/日本AD_SYSTEMS.md "wikilink")
 
 ## 各話列表
@@ -653,7 +653,7 @@ In Tea Sun</p></td>
 <td><p>翔VS 剣山! アニキへの熱き想いデュエル</p></td>
 <td><p>翔VS劍山！對大哥狂熱思念的決鬥</p></td>
 <td><p>江夏由結</p></td>
-<td><p><a href="../Page/吉川浩司.md" title="wikilink">吉川浩司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉川浩司" title="wikilink">吉川浩司</a></p></td>
 <td><p>Lee Kyoung Soo</p></td>
 <td><p>Park Chi Man</p></td>
 </tr>
@@ -1789,7 +1789,7 @@ You Bong Hyun</p></td>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -1861,6 +1861,7 @@ You Bong Hyun</p></td>
 
 1.  [Yu-Gi-Oh\! GX
     (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4481)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [遊☆戯☆王 デュエルモンスターズ GX
     (2004～)](http://www.allcinema.net/prog/show_c.php?num_c=321469)allcinema

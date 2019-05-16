@@ -1,4 +1,4 @@
-**ZBrush**是一个專業[三維角色](../Page/三維.md "wikilink")[建模](../Page/三維模型.md "wikilink")[軟件](../Page/軟件.md "wikilink")，由[pixologic公司出品](../Page/pixologic.md "wikilink")。被誉为革命性的建模软件，广泛应用于各电影，电视，游戏，特效等诸多领域。因为造型手段脱离传统数位手段，使得创作数字雕塑更为便捷高效。特别适合艺术家使用。最新版本为4R6（2013年6月发布）
+**ZBrush**是一个專業[三維角色](https://zh.wikipedia.org/wiki/三維 "wikilink")[建模](https://zh.wikipedia.org/wiki/三維模型 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，由[pixologic公司出品](https://zh.wikipedia.org/wiki/pixologic "wikilink")。被誉为革命性的建模软件，广泛应用于各电影，电视，游戏，特效等诸多领域。因为造型手段脱离传统数位手段，使得创作数字雕塑更为便捷高效。特别适合艺术家使用。最新版本为4R6（2013年6月发布）
 
 ZBrush 4R7將會是推出ZBrush 5.0的ZBrush
 4最後系列的版本，而4R7不只是幾項小功能改變，而是新增了數個主要功能。ZBrush
