@@ -1,0 +1,16 @@
+<div style="font-size:92%:">
+
+**维基百科：**
+[吉卜力工作室短篇動畫](https://zh.wikipedia.org/wiki/Category:吉卜力工作室短篇動畫 "wikilink"){{·}}
+[风之谷](https://zh.wikipedia.org/wiki/Category:Nausicaä_of_the_Valley_of_the_Wind "wikilink"){{·}}
+[吉卜力工作室](https://zh.wikipedia.org/wiki/Category:吉卜力工作室 "wikilink")（[动画电影](https://zh.wikipedia.org/wiki/Category:吉卜力工作室長篇動畫電影‎ "wikilink")、[人物](https://zh.wikipedia.org/wiki/Category:吉卜力工作室人物 "wikilink")）{{·}}
+[Topcraft](https://zh.wikipedia.org/wiki/Category:Topcraft "wikilink")
+**维基共享：**
+[吉卜力工作室](https://zh.wikipedia.org/wiki/:commons:Category:Studio_Ghibli "wikilink"){{·}}
+[Cosplay](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_Studio_Ghibli "wikilink")（[哈尔](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_Howl's_Moving_Castle "wikilink")、[吉卜力在美国](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_Studio_Ghibli_in_the_United_States "wikilink")、[琪琪](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_Kiki’s_Delivery_Service "wikilink")、[小桑](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_Princess_Mononoke "wikilink")、[娜乌西卡](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_Nausicaä_of_the_Valley_of_the_Wind "wikilink")、[红猪](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_Porco_Rosso "wikilink")、[龙猫](https://zh.wikipedia.org/wiki/:commons:Category:Cosplay_of_My_Neighbor_Totoro "wikilink")）{{·}}
+[电影](https://zh.wikipedia.org/wiki/:commons:Category:Studio_Ghibli_films "wikilink")（[哈尔的移动城堡](https://zh.wikipedia.org/wiki/:commons:Category:Howl's_Moving_Castle_\(film\) "wikilink")、[魔女宅急便](https://zh.wikipedia.org/wiki/:commons:Category:Kiki’s_Delivery_Service "wikilink")、[天空之城](https://zh.wikipedia.org/wiki/:commons:Category:Laputa:_Castle_in_the_Sky "wikilink")、[幽灵公主](https://zh.wikipedia.org/wiki/:commons:Category:Princess_Mononoke "wikilink")、[风之谷](https://zh.wikipedia.org/wiki/:commons:Category:Nausicaä_of_the_Valley_of_the_Wind "wikilink")、[悬崖上的金鱼公主](https://zh.wikipedia.org/wiki/:commons:Category:Ponyo "wikilink")、[红猪](https://zh.wikipedia.org/wiki/:commons:Category:Porco_Rosso "wikilink")、[千与千寻](https://zh.wikipedia.org/wiki/:commons:Category:Spirited_Away "wikilink")、['龙猫](https://zh.wikipedia.org/wiki/:commons:Category:My_Neighbor_Totoro "wikilink")、[起风了](https://zh.wikipedia.org/wiki/:commons:Category:The_Wind_Rises "wikilink")）、[博物馆](https://zh.wikipedia.org/wiki/:commons:Category:Ghibli_Museum "wikilink"){{·}}
+人物（[宫崎吾朗](https://zh.wikipedia.org/wiki/:commons:Category:Gorō_Miyazaki "wikilink")、[宫崎骏](https://zh.wikipedia.org/wiki/:commons:Category:Hayao_Miyazaki "wikilink")、[高田勋](https://zh.wikipedia.org/wiki/:commons:Category:Isao_Takahata "wikilink")）
+
+</div>
+
+<noinclude> </noinclude>

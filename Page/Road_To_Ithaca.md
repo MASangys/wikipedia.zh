@@ -1,0 +1,890 @@
+《**通往伊薩卡之路**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]，由《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》與《[奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")》的PD執導，[尹度玹](../Page/尹度玹.md "wikilink")（[YB](https://zh.wikipedia.org/wiki/YB "wikilink")）、[河鉉雨](https://zh.wikipedia.org/wiki/河鉉雨 "wikilink")（[Guckkasten](https://zh.wikipedia.org/wiki/Guckkasten "wikilink")）主演\[2\]。節目是以上傳唱歌影片至與[官方YouTube頻道](https://www.youtube.com/playlist?list=PLgbB1gJhmG7AvOeW6qa5hoUrFuyfCOL_7)，憑點擊數來決定每天的經費，讓成員及嘉賓由[土耳其前往](../Page/土耳其.md "wikilink")[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")[伊薩卡島旅行](https://zh.wikipedia.org/wiki/伊薩卡島 "wikilink")，而這20天的旅程將會以綜藝節目形式呈現\[3\]。
+
+## 節目成員
+
+### 主要成員
+
+<table>
+<thead>
+<tr class="header">
+<th><p>姓名</p></th>
+<th><p>出生日期</p></th>
+<th><p>職業</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>漢字</p></td>
+<td><p>諺文</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/河鉉雨" title="wikilink">河鉉雨</a></p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 嘉賓
+
+<table>
+<thead>
+<tr class="header">
+<th><p>姓名</p></th>
+<th><p>出生日期</p></th>
+<th><p>職業</p></th>
+<th><p>出演集數</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>漢字</p></td>
+<td><p>諺文</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/李洪基.md" title="wikilink">李洪基</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/FTIsland.md" title="wikilink">FTIsland成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搞笑藝人" title="wikilink">搞笑藝人</a>、<a href="../Page/歌手.md" title="wikilink">歌手</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## 各集內容
+
+黃色背景為用作計算旅行經費的歌曲。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播放日期</p></th>
+<th><p>拍攝日期</p></th>
+<th><p>出演嘉賓</p></th>
+<th><p>拍攝國家</p></th>
+<th><p>拍攝地點</p></th>
+<th><p>演唱歌曲</p></th>
+<th><p>原唱者</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2018年7月15日</p></td>
+<td><p>2018年4月15日</p></td>
+<td><p>rowspan=3 </p></td>
+<td></td>
+<td><p><a href="../Page/仁川廣域市.md" title="wikilink">仁川乙旺里</a></p></td>
+<td><p>《Energetic》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月16日</p></td>
+<td></td>
+<td><p><a href="../Page/安卡拉.md" title="wikilink">安卡拉城</a></p></td>
+<td><p>《送你離開》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/圖茲湖" title="wikilink">圖茲湖</a></p></td>
+<td><p>《夢》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙容弼" title="wikilink">趙容弼</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2018年7月22日</p></td>
+<td><p>2018年4月17日</p></td>
+<td><p><a href="../Page/李洪基.md" title="wikilink">李洪基</a></p></td>
+<td><p>帕夏貝溪谷</p></td>
+<td><p>《Oh 必勝Korea》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《赤色大地》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Guckkasten" title="wikilink">Guckkasten</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《魚和自行車》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2018年7月29日</p></td>
+<td><p>2018年4月18日</p></td>
+<td><p><a href="../Page/代林庫尤.md" title="wikilink">代林庫尤廢宅</a></p></td>
+<td><p>《致她的戀人》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/代林庫尤.md" title="wikilink">代林庫尤空地</a></p></td>
+<td><p>《Blood Type》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《看起來很貴》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡帕多奇亞" title="wikilink">卡帕多奇亞</a></p></td>
+<td><p>《氣球》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2018年8月5日</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/鬥球小子" title="wikilink">避球王彈平</a>》</p></td>
+<td><p>權成妍</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《宛如鳥兒》</p></td>
+<td><p><a href="../Page/卞真燮.md" title="wikilink">卞真燮</a> / <a href="../Page/FTIsland.md" title="wikilink">FTIsland</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年4月20日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安塔利亞" title="wikilink">安塔利亞瑪麗娜港口</a></p></td>
+<td><p>《預支頌》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2018年8月12日</p></td>
+<td><p>2018年4月21日</p></td>
+<td><p>《爺爺和西瓜》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《男人是船 女人是港口》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《Energetic》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/安塔利亞" title="wikilink">安塔利亞拉臘海灘</a></p></td>
+<td><p>《從海那裡 致少年》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《美麗的我的愛》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2018年8月19日</p></td>
+<td><p>2018年4月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/代尼茲利省" title="wikilink">代尼茲利省公路</a></p></td>
+<td><p>《看起來很貴》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《Bang Bang頌》</p></td>
+<td><p><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a>、<a href="https://zh.wikipedia.org/wiki/河鉉雨" title="wikilink">河鉉雨</a>、<a href="../Page/李洪基.md" title="wikilink">李洪基</a>、</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/希拉波利斯.md" title="wikilink">希拉波利斯</a></p></td>
+<td><p>《櫻花結局》</p></td>
+<td><p><a href="../Page/Busker_Busker.md" title="wikilink">Busker Busker</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《10月那美好的一天》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>2018年8月26日</p></td>
+<td><p>2018年4月23日</p></td>
+<td><p><a href="../Page/棉花堡.md" title="wikilink">棉花堡</a></p></td>
+<td><p>《我之於你，你之於我》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月24日</p></td>
+<td><p><a href="../Page/伊斯坦堡.md" title="wikilink">伊斯坦堡</a><a href="https://zh.wikipedia.org/wiki/伊斯坦堡海峽" title="wikilink">博斯普魯斯海峽</a></p></td>
+<td><p>《DNA》</p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年4月25日</p></td>
+<td><p>rowspan=3 </p></td>
+<td></td>
+<td><p><a href="../Page/索菲亞.md" title="wikilink">索菲亞火車站</a></p></td>
+<td><p>《薄荷糖》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2018年9月2日</p></td>
+<td><p><a href="../Page/維托沙山.md" title="wikilink">維托沙山村莊</a></p></td>
+<td><p>《我愛你》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年4月26日</p></td>
+<td><p><a href="../Page/索菲亞.md" title="wikilink">索菲亞</a></p></td>
+<td><p>colspan=2 </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塞薩洛尼基" title="wikilink">塞薩洛尼基</a></p></td>
+<td><p>colspan=2 </p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2018年9月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塞薩洛尼基白塔" title="wikilink">塞薩洛尼基白塔</a></p></td>
+<td><p>《Trouble Maker》</p></td>
+<td><p><a href="../Page/Trouble_Maker.md" title="wikilink">Trouble Maker</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邁泰奧拉" title="wikilink">邁泰奧拉山頂</a></p></td>
+<td><p>《呼喚我》</p></td>
+<td><p><a href="../Page/Maya_(歌手).md" title="wikilink">Maya</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年4月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡爾季察" title="wikilink">卡爾季察</a></p></td>
+<td><p>《開往世界的火車》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《秋天在郵局前》</p></td>
+<td><p><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《按照你的感覺》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《instagram》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dean" title="wikilink">Dean</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《抱抱我》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2018年9月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡爾季察" title="wikilink">卡爾季察馬路</a></p></td>
+<td><p>《回想（1982）》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年4月30日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡爾季察" title="wikilink">卡爾季察民宿</a></p></td>
+<td><p>《雨聲》</p></td>
+<td><p><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a> feat. <a href="../Page/屋頂月光.md" title="wikilink">屋頂月光</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>萊萬特郵輪甲板</p></td>
+<td><p>《Alone》</p></td>
+<td><p><a href="../Page/SISTAR.md" title="wikilink">SISTAR</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年5月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/扎金索斯州" title="wikilink">扎金索斯州</a><a href="../Page/沉船灣.md" title="wikilink">沉船灣</a></p></td>
+<td><p>《魚和自行車》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《I Miss You》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《夙願》</p></td>
+<td><p><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《You Are My Everything》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gummy" title="wikilink">Gummy</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>2018年9月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/扎金索斯州" title="wikilink">扎金索斯州山頂</a></p></td>
+<td><p>《夜信》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IU_(藝人)" title="wikilink">IU</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年5月2日</p></td>
+<td><p>rowspan=4 </p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凱法利尼亞島" title="wikilink">凱法利尼亞島</a><a href="https://zh.wikipedia.org/wiki/梅麗薩尼洞" title="wikilink">梅麗薩尼洞</a></p></td>
+<td><p>《The End Of The World》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<a href="../Page/請記住我_(皮克斯歌曲).md" title="wikilink">Remember Me</a>》</p></td>
+<td><p>feat. </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年5月3日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊薩卡島" title="wikilink">伊薩卡島德薩海灘</a></p></td>
+<td><p>《Toddle》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Guckkasten" title="wikilink">Guckkasten</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《藍鯨》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 旅行經費統計
+
+節目成員每天會上傳唱歌影片至節目Facebook專頁與官方YouTube頻道，每次點擊率等於1[韓圓](../Page/韓圓.md "wikilink")。旅行經費會以兩個頻道的總點擊率乘以演唱人數計算，節目組會將旅費換算成旅行地點當地貨幣。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>順序</p></th>
+<th><p>演唱成員</p></th>
+<th><p>演唱歌曲</p></th>
+<th><p>原唱者</p></th>
+<th><p>點擊率</p></th>
+<th><p>旅行經費</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/Facebook.md" title="wikilink">Facebook</a></p></td>
+<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>總點擊率</p></td>
+<td><p><a href="../Page/韓圓.md" title="wikilink">韓圓</a></p></td>
+<td><p>外幣</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td></td>
+<td><p>《Energetic》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a></p></td>
+<td><p>26,506</p></td>
+<td><p>16,234</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>《送你離開》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td><p>35,951</p></td>
+<td><p>13,829</p></td>
+<td><p>49,780</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td></td>
+<td><p>《赤色大地》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Guckkasten" title="wikilink">Guckkasten</a></p></td>
+<td><p>30,531</p></td>
+<td><p>45,055</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>《致她的戀人》</p></td>
+<td></td>
+<td><p>24,160</p></td>
+<td><p>50,628</p></td>
+<td><p>74,788</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>《氣球》</p></td>
+<td></td>
+<td><p>17,200</p></td>
+<td><p>52,096</p></td>
+<td><p>69,296</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>《宛如鳥兒》</p></td>
+<td><p><a href="../Page/卞真燮.md" title="wikilink">卞真燮</a> / <a href="../Page/FTIsland.md" title="wikilink">FTIsland</a></p></td>
+<td><p>21,127</p></td>
+<td><p>59,663</p></td>
+<td><p>80,790</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td></td>
+<td><p>《男人是船 女人是港口》</p></td>
+<td></td>
+<td><p>66,168</p></td>
+<td><p>115,888</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>《櫻花結局》</p></td>
+<td><p><a href="../Page/Busker_Busker.md" title="wikilink">Busker Busker</a></p></td>
+<td><p>12,166</p></td>
+<td><p>51,064</p></td>
+<td><p>63,230</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>《我之於你，你之於我》</p></td>
+<td></td>
+<td><p>16,532</p></td>
+<td><p>59,839</p></td>
+<td><p>76,371</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>《DNA》</p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
+<td><p>19,381</p></td>
+<td><p>123,813</p></td>
+<td><p>143,194</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td></td>
+<td><p>《薄荷糖》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB</a></p></td>
+<td><p>13,817</p></td>
+<td><p>50,268</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>《我愛你》</p></td>
+<td></td>
+<td><p>7,999</p></td>
+<td><p>42,264</p></td>
+<td><p>50,263</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td></td>
+<td><p>《Trouble Maker》</p></td>
+<td><p><a href="../Page/Trouble_Maker.md" title="wikilink">Trouble Maker</a></p></td>
+<td><p>20,457</p></td>
+<td><p>58,564</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>《呼喚我》</p></td>
+<td><p><a href="../Page/Maya_(歌手).md" title="wikilink">Maya</a></p></td>
+<td><p>10,465</p></td>
+<td><p>55,340</p></td>
+<td><p>65,805</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td></td>
+<td><p>《抱抱我》</p></td>
+<td></td>
+<td><p>7,164</p></td>
+<td><p>37,678</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td></td>
+<td><p>《雨聲》</p></td>
+<td><p><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a> feat. <a href="../Page/屋頂月光.md" title="wikilink">屋頂月光</a></p></td>
+<td><p>12,006</p></td>
+<td><p>31,352</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>《I Miss You》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a></p></td>
+<td><p>7,576</p></td>
+<td><p>35,584</p></td>
+<td><p>43,160</p></td>
+</tr>
+</tbody>
+</table>
+
+## 原聲帶
+
+  - Part 1（發行日期：2018年7月9日）
+
+<!-- end list -->
+
+  - Part 1-1（發行日期：2018年7月16日）
+
+<!-- end list -->
+
+  - Part 2（發行日期：2018年7月23日）
+
+<!-- end list -->
+
+  - Part 3（發行日期：2018年7月30日）
+
+<!-- end list -->
+
+  - Part 4（發行日期：2018年8月5日）
+
+<!-- end list -->
+
+  - Part 5（發行日期：2018年8月12日）
+
+<!-- end list -->
+
+  - Part 6（發行日期：2018年8月19日）
+
+<!-- end list -->
+
+  - Part 7（發行日期：2018年8月26日）
+
+<!-- end list -->
+
+  - Part 8（發行日期：2018年9月2日）
+
+<!-- end list -->
+
+  - Part 9（發行日期：2018年9月9日）
+
+<!-- end list -->
+
+  - Part 10（發行日期：2018年9月16日）
+
+<!-- end list -->
+
+  - Final（發行日期：2018年9月23日）
+
+## 收視率
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[4][5]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>大韓民國<br />
+(全國)</p></td>
+<td><p>排行</p></td>
+<td><p>首爾<br />
+(首都圈)</p></td>
+</tr>
+<tr class="even">
+<td><p>所有節目</p></td>
+<td><p>綜藝節目</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2018/07/15</p></td>
+<td><p>1.333%</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2018/07/22</p></td>
+<td><p>1.022%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2018/07/29</p></td>
+<td><p>1.065%</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2018/08/05</p></td>
+<td><p>1.345%</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2018/08/12</p></td>
+<td><p>1.081%</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2018/08/19</p></td>
+<td><p>1.403%</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>2018/08/26</p></td>
+<td><p>1.131%</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2018/09/02</p></td>
+<td><p>1.407%</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2018/09/09</p></td>
+<td><p>1.490%</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2018/09/16</p></td>
+<td><p>1.444%</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>2018/09/23</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>平均收視率</p></td>
+<td></td>
+<td><p>－</p></td>
+</tr>
+</tbody>
+</table>
+
+<small>
+
+  - 收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
+
+## 備註
+
+## 參考資料
+
+## 外部連結
+
+  -
+
+  - [Road To
+    Ithaca的官方Youtube](https://www.youtube.com/playlist?list=PLgbB1gJhmG7AvOeW6qa5hoUrFuyfCOL_7)
+
+
+  - [Road To
+    Ithaca-DAUM](https://web.archive.org/web/20180426075739/http://movie.daum.net/tv/main?tvProgramId=82751)
+
+  - [Road To Ithaca-NAVER](http://m.entertain.naver.com/tvBrand/8165011)
+
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
+
+1.
+2.
+3.
+4.
+5.

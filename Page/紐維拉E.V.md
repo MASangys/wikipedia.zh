@@ -1,0 +1,51 @@
+**紐維拉**（，），為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](../Page/棒球.md "wikilink")[選手](https://zh.wikipedia.org/wiki/選手 "wikilink")，於2008年選秀由[佛羅里達馬林魚於第](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink")27輪第808順位選中，2018年起來台發展，目前效力於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")，守備位置為[投手](../Page/投手.md "wikilink")\[1\]。2018年9月28日達成個人職業生涯首次無安打比賽。2019年4月24日，中信兄弟再度簽回。\[2\]。
+
+## 經歷
+
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[佛羅里達馬林魚](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink")→[邁阿密馬林魚](../Page/邁阿密馬林魚.md "wikilink")（小聯盟-大聯盟，2008年-2014年）
+  - 多明尼加聯盟Toros del Este（2012年-2015年）
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[巴爾的摩金鶯](https://zh.wikipedia.org/wiki/巴爾的摩金鶯 "wikilink")（小聯盟，2015年）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")（2016年2月-3月）
+  - 美國職棒獨立聯盟Lancaster Barnstormers（2017年）
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[波士頓紅襪](../Page/波士頓紅襪.md "wikilink")（小聯盟，2017年）
+  - 多明尼加聯盟Toros del Este（2017年10月-12月）
+  - 多明尼加聯盟Leones Del Escogido（2017年12月-2018年1月）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")（2016年2月-03月-2018年.2019年-）
+
+## 職棒生涯成績
+
+### 美國職棒
+
+| 年度   | 球隊                                                          | 出賽 | 先發 | 勝投 | 敗投 | 中繼 | 救援 | 完投 | 完封 | 三振 | 四死 | 責失 | 投球局數 | 自責分率 | 被上壘率  |
+| ---- | ----------------------------------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | ---- | ---- | ----- |
+| 2011 | [佛羅里達馬林魚](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink") | 1  | 1  | 0  | 1  | 0  | 0  | 0  | 0  | 2  | 5  |    | 3.0  | 3.33 | 24.00 |
+| 合計   | 1年                                                          | 1  | 1  | 0  | 1  | 0  | 0  | 0  | 0  | 2  | 5  |    | 3.0  | 3.33 | 24.00 |
+
+### 中華職棒
+
+| 年度   | 球隊                                                    | 出賽 | 先發 | 勝投 | 敗投 | 中繼 | 救援 | 完投 | 完封 | 三振 | 四死 | 責失 | 投球局數 | 自責分率 | 被上壘率 |
+| ---- | ----------------------------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | ---- | ---- | ---- |
+| 2018 | [中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink") | 12 | 12 | 4  | 3  | 0  | 0  | 1  | 1  | 54 | 21 |    | 64.1 | 5.11 | 1.54 |
+| 合計   | 1年                                                    | 12 | 12 | 4  | 3  | 0  | 0  | 1  | 1  | 54 | 21 |    | 64.1 | 5.11 | 1.54 |
+
+## 特殊事蹟
+
+  - 2018年9月28日於[洲際球場面對來訪的](../Page/臺中市洲際棒球場.md "wikilink")[Lamigo桃猿隊](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，九局投出114球，終場以1:0險勝，這也是中職史上頭一遭，同年出現2場無安打比賽，也是中華職棒史上第八位投出[無安打比賽的投手](../Page/無安打比賽.md "wikilink")。\[3\]
+
+## 參考資料與註釋
+
+## 外部連結
+
+[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
+[Category:中華職棒外籍球員](https://zh.wikipedia.org/wiki/Category:中華職棒外籍球員 "wikilink")
+[Category:邁阿密馬林魚隊球員](https://zh.wikipedia.org/wiki/Category:邁阿密馬林魚隊球員 "wikilink")
+[Category:巴爾的摩金鶯隊球員](https://zh.wikipedia.org/wiki/Category:巴爾的摩金鶯隊球員 "wikilink")
+[Category:中信兄弟隊球員](https://zh.wikipedia.org/wiki/Category:中信兄弟隊球員 "wikilink")
+[Category:波士頓紅襪隊球員](https://zh.wikipedia.org/wiki/Category:波士頓紅襪隊球員 "wikilink")
+[Category:佛羅里達州人](https://zh.wikipedia.org/wiki/Category:佛羅里達州人 "wikilink")
+[Category:邁阿密人](https://zh.wikipedia.org/wiki/Category:邁阿密人 "wikilink")
+
+1.  [中職／中信兄弟第4洋投確定　紐維拉近日來台回鍋](https://sports.ettoday.net/news/1141381)
+2.  \[<https://www.nownews.com/news/20190424/3343090/中華職棒／曾投出無安打比賽>　紐維拉再披黃衫\]
+3.  [史上第八場無安打比賽
+    中信紐維拉1:0完封桃猿](https://tw.sports.appledaily.com/realtime/20180928/1438197)

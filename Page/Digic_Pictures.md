@@ -1,0 +1,40 @@
+**DIGIC Pictures**
+是一間位於[匈牙利](../Page/匈牙利.md "wikilink")[布達佩斯Graphisoft](https://zh.wikipedia.org/wiki/布達佩斯 "wikilink")
+Park的[3D動畫工作室](https://zh.wikipedia.org/wiki/3D動畫 "wikilink")，專門製作3D動畫遊戲過場動畫。
+Digic還在自己的工作室Digic Motion提供動作捕捉服務。
+
+## 介紹
+
+DIGIC
+Pictures是一間[電腦動畫的](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[電影製片廠](https://zh.wikipedia.org/wiki/電影製片廠 "wikilink")，它可以製作完整的[3D動畫](https://zh.wikipedia.org/wiki/3D動畫 "wikilink")[電影和](https://zh.wikipedia.org/wiki/電影 "wikilink")[視覺特效](https://zh.wikipedia.org/wiki/視覺特效 "wikilink")，並與[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，故事片或商業[廣告做結合](../Page/廣告.md "wikilink")。
+
+## 歷史
+
+DIGIC Pictures的歷史可以追溯到2001年12月，當時動畫公司的第一批成員加入了遊戲影片開發公司[Black
+Hole娛樂](https://zh.wikipedia.org/wiki/Black_Hole娛樂 "wikilink")。作為Black
+Hole電影部門的Digic Pictures製作了由Black
+Hole開發的RTS遊戲的動畫開頭。早在2002年，Digic就為[EA遊戲製作了五部高品質的全](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")3D影片
+-
+Intro，Outro，Human，Beast，Fallen，從2003年開始稱為Exigo，這是有史以​​來第一個選擇電子戲劇的匈牙利製作的項目，該影片是2003年SIGGRAPH
+電腦動畫展最負盛名的選擇之一，它引領了世界領先的電腦動畫技術。
+
+由出生於匈牙利的好萊塢製片人兼合夥人[Andrew G.
+Vajna鼓勵](https://zh.wikipedia.org/wiki/Andrew_G._Vajna "wikilink")，該工作室參與製作了60部美國大片“視覺特效”電影[魔鬼終結者3](https://zh.wikipedia.org/wiki/魔鬼終結者3 "wikilink")“，並留下深刻的印象”，即使是最有聲望的專業論壇，也帶來了匈牙利電腦動畫製作的世界。
+自2006年以來，Digic
+Pictures已經從故事片轉向[電子遊戲開發者](https://zh.wikipedia.org/wiki/電子遊戲開發者 "wikilink")，並繼續為遊戲玩家製作動畫短片，其中包括開頭，過場和[預告片](https://zh.wikipedia.org/wiki/預告片 "wikilink")
+其中包括 [戰鎚
+(設定)](https://zh.wikipedia.org/wiki/戰鎚_\(設定\) "wikilink")，[末世騎士](https://zh.wikipedia.org/wiki/末世騎士 "wikilink")，[刺客教條和](https://zh.wikipedia.org/wiki/刺客教條 "wikilink")[質量效應等](https://zh.wikipedia.org/wiki/質量效應 "wikilink")。[刺客教條：大革命預告片於](https://zh.wikipedia.org/wiki/刺客教條：大革命 "wikilink")2014年在E3上推出，並在2014年Animago上獲得最佳預告片/開幕獎。2014年11月，Digic為Activision
+Publishing發行的[決勝時刻：先進戰爭遊戲製作了一部電影](https://zh.wikipedia.org/wiki/決勝時刻：先進戰爭 "wikilink")。
+2015年，[刺客教條:大革命DLC](https://zh.wikipedia.org/wiki/刺客教條:大革命 "wikilink"):帝王陵墓和[刺客教條：梟雄電影預告片發布](../Page/刺客教條：梟雄.md "wikilink")。
+2015年春季，[巫師3：狂獵電影預告片已經在德國柏林Animago](https://zh.wikipedia.org/wiki/巫師3：狂獵 "wikilink")
+2015和加拿大溫哥華Sparks動畫節獲得最佳預告片/開幕獎。在2016年，DIGIC製作了Destiny: The Taken
+King的CG電影，[Final Fantasy
+XV：王者之劍](https://zh.wikipedia.org/wiki/Final_Fantasy_XV：王者之劍 "wikilink")-
+戰鬥預告片，還有[Final Fantasy
+XV](https://zh.wikipedia.org/wiki/Final_Fantasy_XV "wikilink") - 噩夢預告片。
+2017年，DIGIC
+Pictures繼續製作動畫,如[英雄聯盟的](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")[CG預告片](https://zh.wikipedia.org/wiki/CG "wikilink")：Warwick
+The Wrath of
+Zaun，[NcSoft的](https://zh.wikipedia.org/wiki/NcSoft "wikilink")[天堂M](../Page/天堂M.md "wikilink")，[CD
+Projekt的巫師系列延伸的紙牌遊戲](../Page/CD_Projekt.md "wikilink"):[巫師之昆特牌](https://zh.wikipedia.org/wiki/巫師之昆特牌 "wikilink")，[育碧的](../Page/育碧.md "wikilink")[刺客教條：起源](https://zh.wikipedia.org/wiki/刺客教條：起源 "wikilink")。除了[CG預告片](https://zh.wikipedia.org/wiki/CG "wikilink")，DIGIC還為[Destiny
+2創作了](https://zh.wikipedia.org/wiki/Destiny_2 "wikilink")[遊戲中的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[CG電影](https://zh.wikipedia.org/wiki/CG電影 "wikilink")。
