@@ -1,12 +1,12 @@
 **EXO PLANET ＃3 - The EXO'rDIUM
--**是[韓國](../Page/韓國.md "wikilink")[男子組合](../Page/男子組合.md "wikilink")[EXO於](../Page/EXO.md "wikilink")2016年舉辦的第三次巡迴演唱會。本次演唱會主題是有「開始、緒論」意思的單字「exordium」。如同主題一般，這次演唱會將成為以正規三輯《[EX'ACT](../Page/EX'ACT.md "wikilink")》回歸的
+-**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO於](../Page/EXO.md "wikilink")2016年舉辦的第三次巡迴演唱會。本次演唱會主題是有「開始、緒論」意思的單字「exordium」。如同主題一般，這次演唱會將成為以正規三輯《[EX'ACT](../Page/EX'ACT.md "wikilink")》回歸的
 EXO，完美展現更加成長面貌的新序幕」與「演唱會將以結合 EXO 的世界觀、音樂、表演的舞台，讓觀眾陷入 EXO 的魅力中。\[1\]
 
 ## 概述
 
-2016年6月15日，[SM娛樂公佈舉辦](../Page/SM娛樂.md "wikilink")[EXO第三次單獨演唱會的消息](../Page/EXO.md "wikilink")，演唱會將於7月23－24日及29－31日（共5日）在[首爾奧林匹克體操競技場舉行](../Page/首爾奧林匹克體操競技場.md "wikilink")。演唱會門票分兩次預訂，以確保順利預訂門票，7月23－24日的門票於6月21日下午8時（[韓國標準時](../Page/韓國標準時.md "wikilink")），29－31日的門票於6月23日下午8時（[韓國標準時](../Page/韓國標準時.md "wikilink")）通過互聯網訂票網站[YES24](http://ticket.yes24.com)預訂。6月30日，[SM娛樂於](../Page/SM娛樂.md "wikilink")[Youtube官方頻道公開演唱會預告](../Page/Youtube.md "wikilink")。\[2\]
+2016年6月15日，[SM娛樂公佈舉辦](../Page/SM娛樂.md "wikilink")[EXO第三次單獨演唱會的消息](../Page/EXO.md "wikilink")，演唱會將於7月23－24日及29－31日（共5日）在[首爾奧林匹克體操競技場舉行](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")。演唱會門票分兩次預訂，以確保順利預訂門票，7月23－24日的門票於6月21日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")），29－31日的門票於6月23日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過互聯網訂票網站[YES24](http://ticket.yes24.com)預訂。6月30日，[SM娛樂於](../Page/SM娛樂.md "wikilink")[Youtube官方頻道公開演唱會預告](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[2\]
 
-7月1日，[SM娛樂公佈EXO演唱會將於](../Page/SM娛樂.md "wikilink")7月22日加開一場，而追加公演場次將於7月5日下午8時（[韓國標準時](../Page/韓國標準時.md "wikilink")）開售。\[3\]
+7月1日，[SM娛樂公佈EXO演唱會將於](../Page/SM娛樂.md "wikilink")7月22日加開一場，而追加公演場次將於7月5日下午8時（[韓國標準時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）開售。\[3\]
 
 這是EXO第三次舉辦單獨演唱會，是史上最初在體操競技場舉行六場公演的歌手，並超過了去年他們舉辦第二次演唱會時創造的五次公演紀錄。\[4\]
 
@@ -37,11 +37,11 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
 ### 燦烈生日
 
-11月27日為成員[燦烈生日](../Page/燦烈.md "wikilink")，當天於台灣[台北小巨蛋舉行的演唱會上有一萬一千名粉絲共同為](../Page/台北小巨蛋.md "wikilink")[燦烈慶生](../Page/燦烈.md "wikilink")，並以紙板排出[燦烈最喜歡的拉拉熊蛋糕](../Page/燦烈.md "wikilink")，讓[燦烈備受感動](../Page/燦烈.md "wikilink")。而當天粉絲們也特別準備拉拉熊的手幅，並全場為燦烈合唱了生日快樂歌。\[5\]
+11月27日為成員[燦烈生日](https://zh.wikipedia.org/wiki/燦烈 "wikilink")，當天於台灣[台北小巨蛋舉行的演唱會上有一萬一千名粉絲共同為](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")[燦烈慶生](https://zh.wikipedia.org/wiki/燦烈 "wikilink")，並以紙板排出[燦烈最喜歡的拉拉熊蛋糕](https://zh.wikipedia.org/wiki/燦烈 "wikilink")，讓[燦烈備受感動](https://zh.wikipedia.org/wiki/燦烈 "wikilink")。而當天粉絲們也特別準備拉拉熊的手幅，並全場為燦烈合唱了生日快樂歌。\[5\]
 
 ### 安可演唱會
 
-2017年3月29日晚間，[EXO隊長](../Page/EXO.md "wikilink")[SUHO在官網宣布即將於](../Page/SUHO.md "wikilink")5月27日、28日於可容納人數為6萬9千人的[蠶室奧林匹克主競技場舉辦安可演唱會](../Page/首爾奧林匹克主競技場.md "wikilink")，售票透過售票網站YES24在4月12日及4月18日開售。
+2017年3月29日晚間，[EXO隊長](../Page/EXO.md "wikilink")[SUHO在官網宣布即將於](https://zh.wikipedia.org/wiki/SUHO "wikilink")5月27日、28日於可容納人數為6萬9千人的[蠶室奧林匹克主競技場舉辦安可演唱會](../Page/首爾奧林匹克主競技場.md "wikilink")，售票透過售票網站YES24在4月12日及4月18日開售。
 
 ## 巡演時間表
 
@@ -58,9 +58,9 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 <tbody>
 <tr class="odd">
 <td><p>2016年7月22日（加場）[6]</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
 <td></td>
-<td><p><a href="../Page/首爾奧林匹克體操競技場.md" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>84,696名</p></td>
 </tr>
 <tr class="even">
@@ -114,7 +114,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="odd">
 <td><p>2016年9月13日</p></td>
-<td><p><a href="../Page/廣島.md" title="wikilink">廣島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣島" title="wikilink">廣島</a></p></td>
 <td></td>
 <td></td>
 <td><p>16,396名</p></td>
@@ -128,14 +128,14 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="odd">
 <td><p>2016年9月30日</p></td>
-<td><p>rowspan| <a href="../Page/杭州.md" title="wikilink">杭州</a></p></td>
+<td><p>rowspan| <a href="https://zh.wikipedia.org/wiki/杭州" title="wikilink">杭州</a></p></td>
 <td><p>rowspan| </p></td>
-<td><p>rowspan| <a href="../Page/黃龍體育中心.md" title="wikilink">黃龍體育中心</a></p></td>
+<td><p>rowspan| <a href="https://zh.wikipedia.org/wiki/黃龍體育中心" title="wikilink">黃龍體育中心</a></p></td>
 <td><p>rowspan| 12,634名</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年10月2日</p></td>
-<td><p><a href="../Page/福岡.md" title="wikilink">福岡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡" title="wikilink">福岡</a></p></td>
 <td></td>
 <td></td>
 <td><p>32,694名</p></td>
@@ -170,7 +170,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="odd">
 <td><p>2016年11月7日</p></td>
-<td><p><a href="../Page/名古屋.md" title="wikilink">名古屋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名古屋" title="wikilink">名古屋</a></p></td>
 <td></td>
 <td><p>27,371名</p></td>
 <td></td>
@@ -191,9 +191,9 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="even">
 <td><p>2016年11月26日</p></td>
-<td><p><a href="../Page/台北.md" title="wikilink">台北</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
 <td></td>
-<td><p><a href="../Page/台北小巨蛋.md" title="wikilink">台北小巨蛋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
 <td><p>23,834名</p></td>
 </tr>
 <tr class="odd">
@@ -205,7 +205,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="even">
 <td><p>2016年11月30日</p></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td></td>
 <td><p><a href="../Page/東京巨蛋.md" title="wikilink">東京巨蛋</a></p></td>
 <td><p>104,978名</p></td>
@@ -219,7 +219,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="even">
 <td><p>2016年12月9日</p></td>
-<td><p><a href="../Page/大阪.md" title="wikilink">大阪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
 <td><p><a href="../Page/大阪巨蛋.md" title="wikilink">大阪京瓷巨蛋</a></p></td>
 <td><p>135,720名</p></td>
 <td></td>
@@ -254,7 +254,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="odd">
 <td><p>2017年2月25日</p></td>
-<td><p><a href="../Page/馬尼拉.md" title="wikilink">馬尼拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
 <td></td>
 <td></td>
 <td><p>20,306名</p></td>
@@ -276,7 +276,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 <tr class="even">
 <td><p>2017年4月2日</p></td>
 <td></td>
-<td><p>rowspan| <a href="../Page/新加坡室內體育館.md" title="wikilink">新加坡室內體育館</a></p></td>
+<td><p>rowspan| <a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
 <td><p>rowspan| 10,904名</p></td>
 <td></td>
 </tr>
@@ -303,14 +303,14 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 </tr>
 <tr class="even">
 <td><p>2017年4月28日</p></td>
-<td><p>rowspan| <a href="../Page/洛杉磯.md" title="wikilink">洛杉磯</a></p></td>
+<td><p>rowspan| <a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p>rowspan| </p></td>
-<td><p>rowspan| <a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a></p></td>
+<td><p>rowspan| <a href="https://zh.wikipedia.org/wiki/論壇體育館" title="wikilink">論壇體育館</a></p></td>
 <td><p>rowspan| 8,668名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年5月27日 （安可）</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首爾奧林匹克主競技場.md" title="wikilink">蠶室奧林匹克主競技場</a></p></td>
 <td><p>70,000名[7]</p></td>
@@ -342,7 +342,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
 <!-- end list -->
 
-  - [EXO](../Page/EXO.md "wikilink")（[Xiumin](../Page/金珉錫_\(歌手\).md "wikilink")、[Suho](../Page/金俊勉.md "wikilink")、[Lay](../Page/張藝興.md "wikilink")（缺席名古屋場、吉隆坡場、新加坡場、美國場、墨西哥場、首爾安可場）、[Baekhyun](../Page/邊伯賢.md "wikilink")、[Chen](../Page/金鐘大.md "wikilink")、[Chanyeol](../Page/朴灿烈.md "wikilink")、[D.O.](../Page/都暻秀.md "wikilink")、[Kai](../Page/金鐘仁.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")）
+  - [EXO](../Page/EXO.md "wikilink")（[Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")（缺席名古屋場、吉隆坡場、新加坡場、美國場、墨西哥場、首爾安可場）、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴灿烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")）
 
 <!-- end list -->
 
@@ -350,7 +350,8 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
 <!-- end list -->
 
-  - [SM Entertainment](../Page/SM_Entertainment.md "wikilink")、Dream
+  - [SM
+    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
     Maker Entertainment
 
 <!-- end list -->
@@ -361,7 +362,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
   - 泰國－SM True
   - 台北－超級圓頂、東風衛星
-  - 香港－[寰亞娛樂](../Page/寰亞唱片.md "wikilink")、[東亞娛樂](../Page/東亞娛樂.md "wikilink")
+  - 香港－[寰亞娛樂](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")、[東亞娛樂](https://zh.wikipedia.org/wiki/東亞娛樂 "wikilink")
   - 马来西亚 - 星艺娱乐 STAR PLANET
   - 新加坡 - ONE Production
 
@@ -382,7 +383,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
 </div>
 
-[分类:EXO](../Page/分类:EXO.md "wikilink")
+[分类:EXO](https://zh.wikipedia.org/wiki/分类:EXO "wikilink")
 
 1.
 2.  [演唱會官方預告](https://www.youtube.com/watch?v=_1rQT5ltQEY)

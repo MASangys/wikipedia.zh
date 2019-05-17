@@ -1,6 +1,6 @@
 《**Good
-Luck**》是[韓國](../Page/大韩民国.md "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[AOA的第四張迷你專輯](../Page/AOA_\(韓國\).md "wikilink")，由[FNC
-Entertainment於](../Page/FNC娛樂.md "wikilink")2016年5月16日發行。
+Luck**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[AOA的第四張迷你專輯](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")，由[FNC
+Entertainment於](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")2016年5月16日發行。
 
 ## 發行
 
@@ -11,11 +11,11 @@ Luck〉\[1\]。
 Luck〉的完整MV於[YouTube及](../Page/YouTube.md "wikilink")[Naver的手機應用程式V公開](../Page/Naver_\(公司\).md "wikilink")\[2\]\[3\]。
 
 〈Good
-Luck〉的MV在[關島](../Page/關島.md "wikilink")[塔穆寧拍攝](../Page/塔穆宁.md "wikilink")。MV發佈後因背景出現汽車品牌[豐田的商標](../Page/豐田.md "wikilink")，以及成員[智珉走光而很快下架](../Page/申智珉.md "wikilink")
+Luck〉的MV在[關島](../Page/關島.md "wikilink")[塔穆寧拍攝](https://zh.wikipedia.org/wiki/塔穆宁 "wikilink")。MV發佈後因背景出現汽車品牌[豐田的商標](https://zh.wikipedia.org/wiki/豐田 "wikilink")，以及成員[智珉走光而很快下架](https://zh.wikipedia.org/wiki/申智珉 "wikilink")
  ，經重新剪輯後MV才再度發佈。
 
-AOA成員[智珉參與](../Page/申智珉.md "wikilink")〈10 Seconds〉、〈Crazy Boy〉及〈Still
-Falls the Rain〉的歌詞創作\[4\]。
+AOA成員[智珉參與](https://zh.wikipedia.org/wiki/申智珉 "wikilink")〈10
+Seconds〉、〈Crazy Boy〉及〈Still Falls the Rain〉的歌詞創作\[4\]。
 
 〈Still Falls the Rain〉是AOA第四張日語單曲專輯《Give Me the Love》內的〈Still Falls the
 Rain〉的韓語版本。
@@ -32,7 +32,7 @@ Luck》內的〈10 Seconds〉的日語版本，以及《Heart Attack》內的〈
 ## 宣傳
 
 AOA在2016年5月16日的演唱會上，演唱了〈Good Luck〉和〈10 Seconds〉以及前幾張專輯的主打歌曲。《Good
-Luck》的宣傳期只有兩星期，隨著AOA於2016年5月29日在[《SBS人氣歌謠》上的最後演出而完結](../Page/SBS人氣歌謠.md "wikilink")，FNC
+Luck》的宣傳期只有兩星期，隨著AOA於2016年5月29日在[《SBS人氣歌謠》上的最後演出而完結](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")，FNC
 Entertainment指AOA在回歸期間已開始籌備以演唱會形式舉辦的歌迷活動\[5\]。
 
 ## 曲目
@@ -41,10 +41,10 @@ Entertainment指AOA在回歸期間已開始籌備以演唱會形式舉辦的歌�
 
 ## 排行榜
 
-| 掛行榜                                                   | 最高排名 |
-| ----------------------------------------------------- | ---- |
-| 南韓[Gaon Chart每週專輯榜](../Page/Gaon_Chart.md "wikilink") | 2    |
-| 南韓[Gaon Chart每月專輯榜](../Page/Gaon_Chart.md "wikilink") | 10   |
+| 掛行榜                                                                      | 最高排名 |
+| ------------------------------------------------------------------------ | ---- |
+| 南韓[Gaon Chart每週專輯榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") | 2    |
+| 南韓[Gaon Chart每月專輯榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") | 10   |
 
 ## 參考
 

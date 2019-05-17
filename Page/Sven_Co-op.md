@@ -1,14 +1,14 @@
 **Sven
-Co-op**（通常缩写为**SC**）是[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[半条命](../Page/半条命_\(游戏\).md "wikilink")》的[合作模式版本](../Page/合作游戏模式.md "wikilink")。此游戏版本最初在1999年1月19日作为[模组发布](../Page/遊戲模組.md "wikilink")，由丹尼尔·菲尔容（）
+Co-op**（通常缩写为**SC**）是[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[半条命](../Page/半条命_\(游戏\).md "wikilink")》的[合作模式版本](https://zh.wikipedia.org/wiki/合作游戏模式 "wikilink")。此游戏版本最初在1999年1月19日作为[模组发布](../Page/遊戲模組.md "wikilink")，由丹尼尔·菲尔容（）
 制作，允许玩家在服务器上合作通关，此外也增强了许多《半条命》原有的设定，包括敌方与友方[非玩家角色所用的人工智能系统](../Page/非玩家角色.md "wikilink")。游戏的很多地图都是基于《半条命》的世界观与剧情设定，但也有其他类型的地图。
 
-2013年，《半条命》系列的制作方——[Valve公司](../Page/Valve_Corporation.md "wikilink")，授权Sven
-Co-op制作组将模组在[Steam作为独立游戏发布](../Page/Steam_\(software\).md "wikilink")，并允许SC制作组使用《半条命》的地图源文件等全部资源。2016年1月22日，此模组的5.0版作为独立游戏在Steam免费发布。
+2013年，《半条命》系列的制作方——[Valve公司](https://zh.wikipedia.org/wiki/Valve_Corporation "wikilink")，授权Sven
+Co-op制作组将模组在[Steam作为独立游戏发布](https://zh.wikipedia.org/wiki/Steam_\(software\) "wikilink")，并允许SC制作组使用《半条命》的地图源文件等全部资源。2016年1月22日，此模组的5.0版作为独立游戏在Steam免费发布。
 
 ## 玩法
 
 Sven
-Co-op是基于《[半条命](../Page/半条命_\(游戏\).md "wikilink")》的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。玩家可与其他玩家、友方[NPC合作一起挑战](../Page/NPC.md "wikilink")[关卡和其中由电脑操控的敌人](../Page/关卡.md "wikilink")。此模组最初是以《半条命》的原有关卡为基础构建的，但后来内容经过进一步拓展，囊括了其他《半条命》系列游戏以及各种玩家自制的关卡。此模组也有单人模式，带有对原版《半条命》的大幅改进，尤其是[NPC所用的人工智能系统](../Page/非玩家角色.md "wikilink")。
+Co-op是基于《[半条命](../Page/半条命_\(游戏\).md "wikilink")》的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。玩家可与其他玩家、友方[NPC合作一起挑战](https://zh.wikipedia.org/wiki/NPC "wikilink")[关卡和其中由电脑操控的敌人](https://zh.wikipedia.org/wiki/关卡 "wikilink")。此模组最初是以《半条命》的原有关卡为基础构建的，但后来内容经过进一步拓展，囊括了其他《半条命》系列游戏以及各种玩家自制的关卡。此模组也有单人模式，带有对原版《半条命》的大幅改进，尤其是[NPC所用的人工智能系统](../Page/非玩家角色.md "wikilink")。
 
 ## 开发
 

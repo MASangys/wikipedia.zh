@@ -1,4 +1,4 @@
-**AnimeJapan**（）是開始於2014年，每年3月下旬舉行的綜合性[動畫活動](../Page/動畫.md "wikilink")\[1\]，口號是「動畫的一切，都在這裡」（）。
+**AnimeJapan**（）是開始於2014年，每年3月下旬舉行的綜合性[動畫活動](https://zh.wikipedia.org/wiki/動畫 "wikilink")\[1\]，口號是「動畫的一切，都在這裡」（）。
 
 ## 執行委員會
 
@@ -10,18 +10,19 @@
   - [Frontier Works](../Page/Frontier_Works.md "wikilink")
   - [角川集團](../Page/角川集團.md "wikilink")
   - [國王唱片](../Page/國王唱片.md "wikilink")
-  - [Marvelous AQL](../Page/Marvelous_AQL.md "wikilink")
+  - [Marvelous
+    AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")
   - [NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")
   - [日本AD SYSTEMS](../Page/日本AD_SYSTEMS.md "wikilink")
   - [日本動畫公司](../Page/日本動畫公司.md "wikilink")
   - [Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
-  - [波麗佳音](../Page/波麗佳音.md "wikilink")
+  - [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
   - [Production I.G](../Page/Production_I.G.md "wikilink")
   - [SATELIGHT](../Page/SATELIGHT.md "wikilink")
   - [小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
   - [日昇動畫](../Page/日昇動畫.md "wikilink")
   - [手塚製作公司](../Page/手塚製作公司.md "wikilink")
-  - [東映動畫](../Page/東映動畫.md "wikilink")
+  - [東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - [TMS娛樂](../Page/TMS娛樂.md "wikilink")
 
 ## 註釋

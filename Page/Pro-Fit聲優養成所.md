@@ -1,4 +1,4 @@
-**Pro-Fit聲優養成所**（）是[日本一家總部位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中野區的](../Page/中野區.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[Pro-Fit附屬的聲優養成所](../Page/Pro-Fit.md "wikilink")。另有位在[新宿區的工作室](../Page/新宿區.md "wikilink")。成立於2004年4月。
+**Pro-Fit聲優養成所**（）是[日本一家總部位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中野區的](../Page/中野區.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[Pro-Fit附屬的聲優養成所](https://zh.wikipedia.org/wiki/Pro-Fit "wikilink")。另有位在[新宿區的工作室](../Page/新宿區.md "wikilink")。成立於2004年4月。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 
   - 小畑美暢（第2期生）
 
-  - [岡田幸子](../Page/岡田幸子.md "wikilink")
+  - [岡田幸子](https://zh.wikipedia.org/wiki/岡田幸子 "wikilink")
 
   -
   - [茅野愛衣](../Page/茅野愛衣.md "wikilink")（第11期生）
@@ -48,13 +48,13 @@
 
   - （第5期生）
 
-  - [中根久美子](../Page/中根久美子.md "wikilink")
+  - [中根久美子](https://zh.wikipedia.org/wiki/中根久美子 "wikilink")
 
   - （第1期生）
 
   - [西口有香](../Page/西口有香.md "wikilink")（第4期生）
 
-  - [羽月理惠](../Page/羽月理惠.md "wikilink")
+  - [羽月理惠](https://zh.wikipedia.org/wiki/羽月理惠 "wikilink")
 
   - 平井花海
 
@@ -103,7 +103,7 @@
 
   - （第2期生）
 
-  - [波多野和俊](../Page/波多野和俊.md "wikilink")（第3期生）
+  - [波多野和俊](https://zh.wikipedia.org/wiki/波多野和俊 "wikilink")（第3期生）
 
   - （第1期生）
 

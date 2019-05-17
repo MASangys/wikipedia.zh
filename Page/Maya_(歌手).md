@@ -1,4 +1,4 @@
-**Maya**（音譯，，本名**金英淑**）[大韓民國實力女](../Page/大韓民國.md "wikilink")[歌手](../Page/歌手.md "wikilink")，[作詞家](../Page/填詞.md "wikilink")，亦是參加多個[戲劇演出的](../Page/戲劇.md "wikilink")[演員](../Page/演員.md "wikilink")
+**Maya**（音譯，，本名**金英淑**）[大韓民國實力女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，[作詞家](../Page/填詞.md "wikilink")，亦是參加多個[戲劇演出的](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")
 
 ## 正規專輯
 
@@ -65,7 +65,7 @@
 <tr class="odd">
 <td><ol>
 <li>아웃사이더</li>
-<li><a href="../Page/girls&#39;_Generation_(song).md" title="wikilink">소녀시대 (Sonyeo Shidae)</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/girls&#39;_Generation_(song)" title="wikilink">소녀시대 (Sonyeo Shidae)</a></li>
 <li>춘천가는 기차</li>
 <li>못다 핀 꽃 한 송이</li>
 <li>회상</li>
@@ -222,7 +222,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/peacemaker.md" title="wikilink">peacemaker</a> OST</strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/peacemaker" title="wikilink">peacemaker</a> OST</strong>》</p>
 <ul>
 <li>發行日期：2011年</li>
 </ul></td>
@@ -233,13 +233,13 @@
 
 ### 電視劇
 
-|        |                                  |                                          |          |
-| ------ | -------------------------------- | ---------------------------------------- | -------- |
-| **年度** | **播出頻道**                         | **劇名**                                   | **飾演角色** |
-| 2008年  | [sbs](../Page/sbs.md "wikilink") | 《[家門的榮光](../Page/家門的榮光.md "wikilink")》   | 羅末淳      |
-| 2010年  | [mbc](../Page/mbc.md "wikilink") | 《[蒲公英家族](../Page/蒲公英家族.md "wikilink")》   | 美媛       |
-| 2013年  | [sbs](../Page/sbs.md "wikilink") | 《[醜小鴨大進擊](../Page/醜小鴨大進擊.md "wikilink")》 | 金敏珠      |
-|        |                                  |                                          |          |
+|        |                                                     |                                                             |          |
+| ------ | --------------------------------------------------- | ----------------------------------------------------------- | -------- |
+| **年度** | **播出頻道**                                            | **劇名**                                                      | **飾演角色** |
+| 2008年  | [sbs](https://zh.wikipedia.org/wiki/sbs "wikilink") | 《[家門的榮光](../Page/家門的榮光.md "wikilink")》                      | 羅末淳      |
+| 2010年  | [mbc](https://zh.wikipedia.org/wiki/mbc "wikilink") | 《[蒲公英家族](../Page/蒲公英家族.md "wikilink")》                      | 美媛       |
+| 2013年  | [sbs](https://zh.wikipedia.org/wiki/sbs "wikilink") | 《[醜小鴨大進擊](https://zh.wikipedia.org/wiki/醜小鴨大進擊 "wikilink")》 | 金敏珠      |
+|        |                                                     |                                                             |          |
 
 ## 獎項
 
@@ -256,42 +256,42 @@
 <tbody>
 <tr class="odd">
 <td><p>2003</p></td>
-<td><p><a href="../Page/Mnet亞洲音樂大獎[.md" title="wikilink">5th</a> [1]</p></td>
-<td><p><a href="../Page/最佳新人女歌手_(Solo_or_Group).md" title="wikilink">最佳新人女歌手</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet亞洲音樂大獎[" title="wikilink">5th</a> [1]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最佳新人女歌手_(Solo_or_Group)" title="wikilink">最佳新人女歌手</a></p></td>
 <td><p>""</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>18th <a href="../Page/金唱片獎.md" title="wikilink">金唱片獎s</a></p></td>
+<td><p>18th <a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎s</a></p></td>
 <td><p>最佳流行音樂獎</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>14th <a href="../Page/首爾歌謠大獎.md" title="wikilink">首爾歌謠大獎</a></p></td>
+<td><p>14th <a href="https://zh.wikipedia.org/wiki/首爾歌謠大獎" title="wikilink">首爾歌謠大獎</a></p></td>
 <td><p>最佳新人獎</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/KBS演技大賞.md" title="wikilink">KBS演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS演技大賞" title="wikilink">KBS演技大賞</a></p></td>
 <td><p>最佳新人女演員</p></td>
-<td><p><em><a href="../Page/保鏢_(TV_series).md" title="wikilink">保鑣</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/保鏢_(TV_series)" title="wikilink">保鑣</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><a href="../Page/2009_SBS演技大賞.md" title="wikilink">SBS演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2009_SBS演技大賞" title="wikilink">SBS演技大賞</a></p></td>
 <td><p>最佳女配角</p></td>
 <td><p><em><a href="../Page/家門的榮光.md" title="wikilink">家門的榮光</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="../Page/2010_MBC演技大賞.md" title="wikilink">MBC演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2010_MBC演技大賞" title="wikilink">MBC演技大賞</a></p></td>
 <td><p>最佳新人女演員</p></td>
 <td><p><em><a href="../Page/蒲公英家族.md" title="wikilink">蒲公英家族</a></em></p></td>
 <td></td>

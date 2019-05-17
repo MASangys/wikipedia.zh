@@ -1,9 +1,9 @@
-《**Sugar**》是[韓國組合](../Page/韓國.md "wikilink")[15&的首張專輯](../Page/15&.md "wikilink")，於2014年5月26日發行，主打曲為〈Sugar〉。
+《**Sugar**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&的首張專輯](https://zh.wikipedia.org/wiki/15& "wikilink")，於2014年5月26日發行，主打曲為〈Sugar〉。
 
 ## 概要
 
 本作收錄早前已公開的3首歌曲，分別是出道曲〈I
-Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7首新曲。專輯主軸描述15&儘管年輕但有無限可能的故事，音樂風格以[R\&B及](../Page/R&B.md "wikilink")[靈魂樂為主](../Page/靈魂樂.md "wikilink")。
+Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7首新曲。專輯主軸描述15&儘管年輕但有無限可能的故事，音樂風格以[R\&B及](https://zh.wikipedia.org/wiki/R&B "wikilink")[靈魂樂為主](../Page/靈魂樂.md "wikilink")。
 
 ## 收錄歌曲
 
@@ -31,7 +31,7 @@ Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7
 
 <!-- end list -->
 
-  - **Somebody**：在曲子中加入了[錫塔琴聲與](../Page/錫塔琴.md "wikilink")[口琴聲](../Page/口琴.md "wikilink")，並以為歌曲增加記憶點\[1\]。歌詞講述了對於愛情新鮮又撒嬌般的期待感。
+  - **Somebody**：在曲子中加入了[錫塔琴聲與](https://zh.wikipedia.org/wiki/錫塔琴 "wikilink")[口琴聲](../Page/口琴.md "wikilink")，並以為歌曲增加記憶點\[1\]。歌詞講述了對於愛情新鮮又撒嬌般的期待感。
 
 <!-- end list -->
 
@@ -49,8 +49,8 @@ Dream〉及兩首數位單曲〈Somebody〉、〈露餡了吧〉，另外公開7
 <thead>
 <tr class="header">
 <th><p>專輯／歌曲</p></th>
-<th><p>韓國<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a></p></th>
-<th><p>美國<a href="../Page/告示牌.md" title="wikilink">告示牌</a></p></th>
+<th><p>韓國<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a></p></th>
+<th><p>美國<a href="https://zh.wikipedia.org/wiki/告示牌" title="wikilink">告示牌</a></p></th>
 <th><p>銷售</p></th>
 <th><p>引用資料</p></th>
 </tr>

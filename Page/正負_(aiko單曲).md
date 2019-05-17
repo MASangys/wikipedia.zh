@@ -1,5 +1,5 @@
-《**正負**》（[日語](../Page/日語.md "wikilink")：），是[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[aiko的第](../Page/aiko.md "wikilink")34張[單曲](../Page/單曲.md "wikilink")。2015年11月18日由[PONY
-CANYON發行](../Page/PONY_CANYON.md "wikilink")。
+《**正負**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")34張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2015年11月18日由[PONY
+CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 簡介
 

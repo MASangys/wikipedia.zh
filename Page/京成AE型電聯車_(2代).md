@@ -4,7 +4,7 @@
 
 ### 開發經過
 
-有鑑於以往[京成本線及](../Page/京成本線.md "wikilink")[JR東日本的](../Page/東日本旅客鐵路.md "wikilink")[成田特快因走線較迂迴而導致行車時間長](../Page/成田特快.md "wikilink")，京成電鐵透過升級[北總線及從](../Page/北總線.md "wikilink")[印旛日本醫大站興建新線](../Page/印旛日本醫大站.md "wikilink")，提供更直接的路徑到達[成田國際機場](../Page/成田國際機場.md "wikilink")。新線擁有A型路權，可容許列車以更高速度行駛，因此開發最高營運速度達160km/h的AE型列車，比成田特快的130km/h為高。
+有鑑於以往[京成本線及](../Page/京成本線.md "wikilink")[JR東日本的](https://zh.wikipedia.org/wiki/東日本旅客鐵路 "wikilink")[成田特快因走線較迂迴而導致行車時間長](../Page/成田特快.md "wikilink")，京成電鐵透過升級[北總線及從](../Page/北總線.md "wikilink")[印旛日本醫大站興建新線](../Page/印旛日本醫大站.md "wikilink")，提供更直接的路徑到達[成田國際機場](https://zh.wikipedia.org/wiki/成田國際機場 "wikilink")。新線擁有A型路權，可容許列車以更高速度行駛，因此開發最高營運速度達160km/h的AE型列車，比成田特快的130km/h為高。
 
 ## 列車編組
 
@@ -49,7 +49,7 @@ AE1-6.jpg|6號車廂 <File:Keisei> AE series (2009) AE1-5.jpg|5號車廂
 ## 相關條目
 
   - [成田特快](../Page/成田特快.md "wikilink")
-  - [E259系電聯車](../Page/JR東日本E259系電聯車.md "wikilink")
+  - [E259系電聯車](https://zh.wikipedia.org/wiki/JR東日本E259系電聯車 "wikilink")
   - [成田機場線](../Page/成田機場線.md "wikilink")
 
 ## 參考文獻

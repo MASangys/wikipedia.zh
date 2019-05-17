@@ -1,25 +1,25 @@
 在[统计学和](../Page/统计学.md "wikilink")[机器学习中](../Page/机器学习.md "wikilink")，**Lasso算法**（英语：**least
 absolute shrinkage and selection
-operator**，又译最小绝对值收敛和选择算子、套索算法）是一种同时进行[特征选择和](../Page/特征选择.md "wikilink")[正则化](../Page/正则化.md "wikilink")（数学）的[回归分析方法](../Page/回归分析.md "wikilink")，旨在增强[统计模型的预测准确性和可解释性](../Page/统计模型.md "wikilink")，最初由[斯坦福大学统计学教授](../Page/斯坦福大学.md "wikilink")于1996年基于[Leo
-Breiman的](../Page/Leo_Breiman.md "wikilink")[非负参数推断](../Page/非负参数推断.md "wikilink")(Nonnegative
+operator**，又译最小绝对值收敛和选择算子、套索算法）是一种同时进行[特征选择和](../Page/特征选择.md "wikilink")[正则化](https://zh.wikipedia.org/wiki/正则化 "wikilink")（数学）的[回归分析方法](https://zh.wikipedia.org/wiki/回归分析 "wikilink")，旨在增强[统计模型的预测准确性和可解释性](https://zh.wikipedia.org/wiki/统计模型 "wikilink")，最初由[斯坦福大学统计学教授](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")于1996年基于[Leo
+Breiman的](https://zh.wikipedia.org/wiki/Leo_Breiman "wikilink")[非负参数推断](https://zh.wikipedia.org/wiki/非负参数推断 "wikilink")(Nonnegative
 Garrote,
-NNG)提出\[1\]\[2\]。Lasso算法最初用于计算[最小二乘法模型](../Page/最小二乘法.md "wikilink")，这个简单的算法揭示了很多[估计量的重要性质](../Page/估计量.md "wikilink")，如[估计量与](../Page/估计量.md "wikilink")[岭回归](../Page/岭回归.md "wikilink")（Ridge
+NNG)提出\[1\]\[2\]。Lasso算法最初用于计算[最小二乘法模型](../Page/最小二乘法.md "wikilink")，这个简单的算法揭示了很多[估计量的重要性质](../Page/估计量.md "wikilink")，如[估计量与](../Page/估计量.md "wikilink")[岭回归](https://zh.wikipedia.org/wiki/岭回归 "wikilink")（Ridge
 regression，也叫Tikhonov
-regularization）和最佳子集选择的关系，Lasso系数[估计值](../Page/估计值.md "wikilink")(estimate)和[软阈值](../Page/软阈值.md "wikilink")（soft
-thresholding）之间的联系。它也揭示了当[协变量](../Page/协变量.md "wikilink")[共线时](../Page/共線_\(幾何\).md "wikilink")，Lasso系数估计值不一定唯一（类似标准[线性回归](../Page/線性回歸.md "wikilink")）。
+regularization）和最佳子集选择的关系，Lasso系数[估计值](https://zh.wikipedia.org/wiki/估计值 "wikilink")(estimate)和[软阈值](https://zh.wikipedia.org/wiki/软阈值 "wikilink")（soft
+thresholding）之间的联系。它也揭示了当[协变量](https://zh.wikipedia.org/wiki/协变量 "wikilink")[共线时](../Page/共線_\(幾何\).md "wikilink")，Lasso系数估计值不一定唯一（类似标准[线性回归](../Page/線性回歸.md "wikilink")）。
 
-虽然最早是为应用最小二乘法而定义的算法，lasso正则化可以简单直接地拓展应用于许多统计学模型上，包括[广义线性模型](../Page/廣義線性模型.md "wikilink")，[广义估计方程](../Page/广义估计方程.md "wikilink")，[成比例灾难模型和](../Page/成比例灾难模型.md "wikilink")[M-估计](../Page/M-估计.md "wikilink")\[3\]\[4\]。Lasso选择子集的能力依赖于限制条件的形式并且有多种表现形式，包括[几何学](../Page/几何学.md "wikilink")，[贝叶斯统计](../Page/贝叶斯统计.md "wikilink")，和[凸分析](../Page/凸分析.md "wikilink")。
+虽然最早是为应用最小二乘法而定义的算法，lasso正则化可以简单直接地拓展应用于许多统计学模型上，包括[广义线性模型](../Page/廣義線性模型.md "wikilink")，[广义估计方程](https://zh.wikipedia.org/wiki/广义估计方程 "wikilink")，[成比例灾难模型和](https://zh.wikipedia.org/wiki/成比例灾难模型 "wikilink")[M-估计](https://zh.wikipedia.org/wiki/M-估计 "wikilink")\[3\]\[4\]。Lasso选择子集的能力依赖于限制条件的形式并且有多种表现形式，包括[几何学](../Page/几何学.md "wikilink")，[贝叶斯统计](https://zh.wikipedia.org/wiki/贝叶斯统计 "wikilink")，和[凸分析](https://zh.wikipedia.org/wiki/凸分析 "wikilink")。
 
-Lasso算法与[基追踪降噪联系紧密](../Page/基追踪降噪.md "wikilink")。
+Lasso算法与[基追踪降噪联系紧密](https://zh.wikipedia.org/wiki/基追踪降噪 "wikilink")。
 
 ## 历史来源
 
 [Robert
-Tibshirani最初使用Lasso来提高预测的准确性与回归模型的可解释性](../Page/Robert_Tibshirani.md "wikilink")，他修改了模型拟合的过程，在协变量中只选择一个子集应用到最终模型中，而非用上全部协变量。这是基于有着相似目的，但方法有所不同的Breiman的非负参数推断。
+Tibshirani最初使用Lasso来提高预测的准确性与回归模型的可解释性](https://zh.wikipedia.org/wiki/Robert_Tibshirani "wikilink")，他修改了模型拟合的过程，在协变量中只选择一个子集应用到最终模型中，而非用上全部协变量。这是基于有着相似目的，但方法有所不同的Breiman的非负参数推断。
 
-在Lasso之前，选择模型中协变量最常用的方法是[移步选择](../Page/移步选择.md "wikilink")，这种方法在某些情况下是准确的，例如一些协变量与模型输出值有强相关性情况。然而在另一些情况下，这种方法会让预测结果更差。在当时，[岭回归是提高模型预测准确性最常用的方法](../Page/岭回归.md "wikilink")。岭回归可以通过[缩小大的](../Page/缩小.md "wikilink")[回归系数来减少过拟合从而改善模型预测偏差](../Page/迴歸分析.md "wikilink")。但是它并不选择协变量，所以对模型的准确构建和解释没有帮助。
+在Lasso之前，选择模型中协变量最常用的方法是[移步选择](https://zh.wikipedia.org/wiki/移步选择 "wikilink")，这种方法在某些情况下是准确的，例如一些协变量与模型输出值有强相关性情况。然而在另一些情况下，这种方法会让预测结果更差。在当时，[岭回归是提高模型预测准确性最常用的方法](https://zh.wikipedia.org/wiki/岭回归 "wikilink")。岭回归可以通过[缩小大的](https://zh.wikipedia.org/wiki/缩小 "wikilink")[回归系数来减少过拟合从而改善模型预测偏差](../Page/迴歸分析.md "wikilink")。但是它并不选择协变量，所以对模型的准确构建和解释没有帮助。
 
-Lasso结合了上述的两种方法，它通过强制让回归系数绝对值之和小于某固定值，即强制一些回归系数变为0，有效地选择了不包括这些回归系数对应的协变量的更简单的模型。这种方法和[岭回归类似](../Page/岭回归.md "wikilink")，在岭回归中，回归系数平方和被强制小于某定值，不同点在于岭回归只改变系数的值，而不把任何值设为0。
+Lasso结合了上述的两种方法，它通过强制让回归系数绝对值之和小于某固定值，即强制一些回归系数变为0，有效地选择了不包括这些回归系数对应的协变量的更简单的模型。这种方法和[岭回归类似](https://zh.wikipedia.org/wiki/岭回归 "wikilink")，在岭回归中，回归系数平方和被强制小于某定值，不同点在于岭回归只改变系数的值，而不把任何值设为0。
 
 ## 基本形式
 
@@ -40,7 +40,7 @@ Lasso最初为了最小二乘法而被设计出来，Lasso的最小二乘法应�
 
 这里 \(\| \beta \|_p = \left( \sum_{i=1}^N | \beta_i |^p \right)^{1/p}\)
 是标准
-[\(\ell^p\)](../Page/Lp_space#The_p-norm_in_finite_dimensions.md "wikilink")
+[\(\ell^p\)](https://zh.wikipedia.org/wiki/Lp_space#The_p-norm_in_finite_dimensions "wikilink")
 [范数](../Page/范数.md "wikilink")，\(1_N\)是\(N \times 1\)维的1的向量。
 
 因为 \(\hat{\beta}_0 = \bar{y} - \bar{x}^T \beta\)，所以有
@@ -70,13 +70,15 @@ dependent.
 Some basic properties of the lasso estimator can now be considered.
 
 Assuming first that the covariates are
-[orthonormal](../Page/orthonormal.md "wikilink") so that
-\(( x_i \mid x_j ) = \delta_{ij}\), where \(( \cdot \mid \cdot )\) is
-the [inner product](../Page/inner_product.md "wikilink") and
+[orthonormal](https://zh.wikipedia.org/wiki/orthonormal "wikilink") so
+that \(( x_i \mid x_j ) = \delta_{ij}\), where \(( \cdot \mid \cdot )\)
+is the [inner
+product](https://zh.wikipedia.org/wiki/inner_product "wikilink") and
 \(\delta_{ij}\) is the [Kronecker
-delta](../Page/Kronecker_delta.md "wikilink"), or, equivalently,
-\(X^T X = I\), then using [subgradient
-methods](../Page/subgradient_methods.md "wikilink") it can be shown that
+delta](https://zh.wikipedia.org/wiki/Kronecker_delta "wikilink"), or,
+equivalently, \(X^T X = I\), then using [subgradient
+methods](https://zh.wikipedia.org/wiki/subgradient_methods "wikilink")
+it can be shown that
 
   -
     <math>
@@ -136,7 +138,7 @@ by a constant value and sets them to zero if they reach it.
 
 Returning to the general case, in which the different covariates may not
 be
-[independent](../Page/Independence_\(probability_theory\).md "wikilink"),
+[independent](https://zh.wikipedia.org/wiki/Independence_\(probability_theory\) "wikilink"),
 a special case may be considered in which two of the covariates, say *j*
 and *k*, are identical for each case, so that \(x_{(j)} = x_{(k)}\),
 where \(x_{(j),i} = x_{ij}\). Then the values of \(\beta_j\) and

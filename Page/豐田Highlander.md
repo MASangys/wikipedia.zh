@@ -1,4 +1,4 @@
-**豐田Highlander**（）是[日本](../Page/日本.md "wikilink")[豐田汽车自](../Page/豐田汽车.md "wikilink")2000年起開發製造的中型[運動型多用途車](../Page/運動型多用途車.md "wikilink")、[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方中文名稱為「**豐田漢蘭達**」，而競爭對手為[本田Avancier](../Page/本田Avancier.md "wikilink")、[別克Envision](../Page/別克Envision.md "wikilink")、[福特Edge](../Page/福特Edge.md "wikilink")、[日產Murano等](../Page/日產Murano.md "wikilink")。其[平台為](../Page/汽車平台.md "wikilink")[豐田佳美](../Page/豐田佳美.md "wikilink")，但基於[豐田Avalon底盤的尺寸](../Page/豐田Avalon.md "wikilink")。\[1\]
+**豐田Highlander**（）是[日本](../Page/日本.md "wikilink")[豐田汽车自](https://zh.wikipedia.org/wiki/豐田汽车 "wikilink")2000年起開發製造的中型[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")、[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方中文名稱為「**豐田漢蘭達**」，而競爭對手為[本田Avancier](https://zh.wikipedia.org/wiki/本田Avancier "wikilink")、[別克Envision](https://zh.wikipedia.org/wiki/別克Envision "wikilink")、[福特Edge](../Page/福特Edge.md "wikilink")、[日產Murano等](../Page/日產Murano.md "wikilink")。其[平台為](https://zh.wikipedia.org/wiki/汽車平台 "wikilink")[豐田佳美](https://zh.wikipedia.org/wiki/豐田佳美 "wikilink")，但基於[豐田Avalon底盤的尺寸](https://zh.wikipedia.org/wiki/豐田Avalon "wikilink")。\[1\]
 
 ## 歷史與概要
 
@@ -12,9 +12,9 @@
 
 Image:2014 Toyota Kluger (GSU55R) Grande wagon (2016-02-13).jpg|澳規車尾
 Image:2014 Toyota Highlander XLE NYC yellow cab
-rear.jpg|[紐約的](../Page/紐約.md "wikilink")[計程車](../Page/出租車.md "wikilink")
+rear.jpg|[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[計程車](../Page/出租車.md "wikilink")
 Image:Toyota Highlander XU50 01 China
-2016-04-01.jpg|攝於[廣東省](../Page/廣東省.md "wikilink")[湛江市](../Page/湛江市.md "wikilink")
+2016-04-01.jpg|攝於[廣東省](https://zh.wikipedia.org/wiki/廣東省 "wikilink")[湛江市](../Page/湛江市.md "wikilink")
 
 {{-}}
 

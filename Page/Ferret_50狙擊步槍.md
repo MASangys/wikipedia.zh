@@ -1,15 +1,15 @@
 **Ferret
-50**是一枝由[美国槍械製造公司蜘蛛武器公司研製及生產的競爭射擊和遠距離狩獵用途單發](../Page/美国.md "wikilink")、、[手動枪机式大口徑重型](../Page/手動槍機#旋轉後拉式槍機.md "wikilink")[狙擊步槍](../Page/狙擊步槍.md "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
-BMG）[北約](../Page/北大西洋公约组织.md "wikilink")[口徑](../Page/口徑.md "wikilink")、、[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+50**是一枝由[美国槍械製造公司蜘蛛武器公司研製及生產的競爭射擊和遠距離狩獵用途單發](../Page/美国.md "wikilink")、、[手動枪机式大口徑重型](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
+BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")、、[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 
-該槍是蜘蛛武器公司生產的AR槍族的轉換套件，因為AR槍族具有高度適應性和定制潛力。[槍托是由](../Page/槍托.md "wikilink")[聚合物所製成](../Page/聚合物.md "wikilink")；取決於其[口徑它的重量在](../Page/口徑.md "wikilink")8.6—10.89公斤（18—24磅）之間，而槍管長度則在457.2—914.4毫米（18—36英吋）的範圍以內。它是一枝單發式武器，這意味著它的內部或外部都不具有[彈匣](../Page/彈匣.md "wikilink")。它可以選用[铬](../Page/铬.md "wikilink")[钼](../Page/钼.md "wikilink")[钢或](../Page/钢.md "wikilink")[不鏽鋼其中一款表面處理](../Page/不鏽鋼.md "wikilink")。該槍還有一個重要的功能，就是其採用獨特技術設計的[魚鰓型四室式高效](../Page/魚鰓.md "wikilink")[槍口制退器](../Page/砲口制動器.md "wikilink")，而且槍托後部設有較厚的橡膠緩衝墊，與槍托下部的大型[單腳架以粗糙的底面增加與地面之間的](../Page/單腳架.md "wikilink")[摩擦力](../Page/摩擦力.md "wikilink")；這使該步槍發射大[口徑子彈也可在](../Page/口徑.md "wikilink")[精度不減為前題以下將](../Page/準確與精密.md "wikilink")[後座力降低至可控制範圍以內](../Page/後座力.md "wikilink")，甚至連小孩子都可以承受。該槍槍身有多種顏色可供選擇，拉機柄的方向也可選擇安裝在左側或者右側。
+該槍是蜘蛛武器公司生產的AR槍族的轉換套件，因為AR槍族具有高度適應性和定制潛力。[槍托是由](../Page/槍托.md "wikilink")[聚合物所製成](../Page/聚合物.md "wikilink")；取決於其[口徑它的重量在](https://zh.wikipedia.org/wiki/口徑 "wikilink")8.6—10.89公斤（18—24磅）之間，而槍管長度則在457.2—914.4毫米（18—36英吋）的範圍以內。它是一枝單發式武器，這意味著它的內部或外部都不具有[彈匣](../Page/彈匣.md "wikilink")。它可以選用[铬](../Page/铬.md "wikilink")[钼](../Page/钼.md "wikilink")[钢或](../Page/钢.md "wikilink")[不鏽鋼其中一款](../Page/不鏽鋼.md "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。該槍還有一個重要的功能，就是其採用獨特技術設計的[魚鰓型四室式高效](../Page/魚鰓.md "wikilink")[槍口制退器](../Page/砲口制動器.md "wikilink")，而且槍托後部設有較厚的橡膠緩衝墊，與槍托下部的大型[單腳架以粗糙的底面增加與地面之間的](https://zh.wikipedia.org/wiki/單腳架 "wikilink")[摩擦力](../Page/摩擦力.md "wikilink")；這使該步槍發射大[口徑子彈也可在](https://zh.wikipedia.org/wiki/口徑 "wikilink")[精度不減為前題以下將](../Page/準確與精密.md "wikilink")[後座力降低至可控制範圍以內](../Page/後座力.md "wikilink")，甚至連小孩子都可以承受。該槍槍身有多種顏色可供選擇，拉機柄的方向也可選擇安裝在左側或者右側。
 
 ## Ferret 50超級競賽型
 
 Ferret
-50**超級競賽型**（SuperComp）是該步槍的版本。它可經修改以發射上述所有[口徑](../Page/口徑.md "wikilink")（但排除[.338拉普麥格農並加入](../Page/.338拉普麥格農.md "wikilink")）的[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。它的特點是延長的[機匣](../Page/機匣.md "wikilink")，可選擇左手或右手操作的，可調節式和[槍托](../Page/槍托.md "wikilink")，以及可拆卸的後[單腳架和前](../Page/單腳架.md "wikilink")[兩腳架](../Page/兩腳架.md "wikilink")。根據其用途，超級競賽型具有很高的定制化能力，這讓很多購買者看上了該槍的優點。
+50**超級競賽型**（SuperComp）是該步槍的版本。它可經修改以發射上述所有[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（但排除[.338拉普麥格農並加入](../Page/.338拉普麥格農.md "wikilink")）的[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。它的特點是延長的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，可選擇左手或右手操作的，可調節式和[槍托](../Page/槍托.md "wikilink")，以及可拆卸的後[單腳架和前](https://zh.wikipedia.org/wiki/單腳架 "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。根據其用途，超級競賽型具有很高的定制化能力，這讓很多購買者看上了該槍的優點。
 
 ## Ferret 50運動員型
 
@@ -19,7 +19,7 @@ DTC EUROP口徑，但可以發射.338拉普麥格農。
 
 ## 參見
 
-  - [狙擊步槍](../Page/狙擊步槍.md "wikilink")
+  - [狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")
   - [反器材步槍](../Page/反器材步槍.md "wikilink")
   - [反坦克步槍](../Page/反坦克步槍.md "wikilink")
   - [阿瑪萊特AR-50](../Page/阿瑪萊特AR-50狙擊步槍.md "wikilink")
@@ -32,11 +32,12 @@ DTC EUROP口徑，但可以發射.338拉普麥格農。
   - [大毒蛇BA50](../Page/大毒蛇BA50狙擊步槍.md "wikilink")
   - [DSR-50](../Page/DSR-50狙擊步槍.md "wikilink")
   - [DT HTI](../Page/沙漠科技硬目標攔截狙擊步槍.md "wikilink")
-  - [Grizzly Big Boar](../Page/Grizzly_Big_Boar狙擊步槍.md "wikilink")
+  - [Grizzly Big
+    Boar](https://zh.wikipedia.org/wiki/Grizzly_Big_Boar狙擊步槍 "wikilink")
   - [OM 50](../Page/OM_50復仇女神狙擊步槍.md "wikilink")
   - [麥克米蘭TAC-50](../Page/TAC-50狙擊步槍.md "wikilink")
   - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
-  - [羅巴爾RC-50](../Page/羅巴爾RC-50狙擊步槍.md "wikilink")
+  - [羅巴爾RC-50](https://zh.wikipedia.org/wiki/羅巴爾RC-50狙擊步槍 "wikilink")
   - [斯泰爾HS .50](../Page/斯泰爾HS_.50狙擊步槍.md "wikilink")
   - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
   - [扎斯塔瓦M93“黑箭”](../Page/扎斯塔瓦M93黑箭狙擊步槍.md "wikilink")

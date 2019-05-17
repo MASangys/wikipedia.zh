@@ -1,9 +1,9 @@
-**SHY48**是一個在2016年於[遼寧](../Page/遼寧.md "wikilink")[瀋陽成立的中國大型女子偶像組合](../Page/瀋陽.md "wikilink")，為[SNH48的姊妹團體](../Page/SNH48.md "wikilink")，隸屬於[瀋陽絲芭文化傳媒集團有限公司](../Page/絲芭傳媒.md "wikilink")。SHY48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。SHY48目前共有27名成員，擁有「IDOLS
+**SHY48**是一個在2016年於[遼寧](https://zh.wikipedia.org/wiki/遼寧 "wikilink")[瀋陽成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[瀋陽絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。SHY48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。SHY48目前共有27名成員，擁有「IDOLS
 Ft」和「SNH48 Group海外練習生」兩項計畫。
 
 ## 概要
 
-SHY48是一個以[沈阳為中心活動的](../Page/沈阳.md "wikilink")[中國本土化大型女子偶像團體](../Page/中國.md "wikilink")，組合名稱取自「瀋陽」拼音（**Sh**en**y**ang）的縮寫「SHY」，為SNH48第三個姊妹團。2016年7月30日，絲芭傳媒於SNH48第三屆總決選演唱會宣佈SNH48第三個姊妹團SHY48成立，同時開啟一期生招募。SHY48以瀋陽為中心進行演藝活動，其專屬表演場地「[SHY48星夢劇院](../Page/SHY48星夢劇院.md "wikilink")」位於[瀋陽](../Page/瀋陽.md "wikilink")[中街](../Page/中街.md "wikilink")[豫瓏城](../Page/豫瓏城.md "wikilink")，於2017年1月12日開業\[2\]，并于2019年1月起暂停营业。
+SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[中國本土化大型女子偶像團體](../Page/中國.md "wikilink")，組合名稱取自「瀋陽」拼音（**Sh**en**y**ang）的縮寫「SHY」，為SNH48第三個姊妹團。2016年7月30日，絲芭傳媒於SNH48第三屆總決選演唱會宣佈SNH48第三個姊妹團SHY48成立，同時開啟一期生招募。SHY48以瀋陽為中心進行演藝活動，其專屬表演場地「[SHY48星夢劇院](https://zh.wikipedia.org/wiki/SHY48星夢劇院 "wikilink")」位於[瀋陽](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")[中街](https://zh.wikipedia.org/wiki/中街 "wikilink")[豫瓏城](https://zh.wikipedia.org/wiki/豫瓏城 "wikilink")，於2017年1月12日開業\[2\]，并于2019年1月起暂停营业。
 
 ## 略歷
 
@@ -32,7 +32,7 @@ SHY48是一個以[沈阳為中心活動的](../Page/沈阳.md "wikilink")[中國
   - 9月15日，發行第1張EP《[前行的力量](../Page/前行的力量.md "wikilink")》\[12\]。
   - 10月21日，Team HIII舉行「美麗世界」公演首演。
   - 12月3日，SHY48聯合SNH48、BEJ48、GNZ48、CKG48開始招募SNH48十期生、BEJ48五期生、GNZ48五期生、SHY48五期生、CKG48三期生\[13\]。
-  - 12月24日，發行第2張EP《[甜蜜盛典](../Page/SNH48原創發行作品列表#甜蜜盛典.md "wikilink")》\[14\]。
+  - 12月24日，發行第2張EP《[甜蜜盛典](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#甜蜜盛典 "wikilink")》\[14\]。
 
 <!-- end list -->
 
@@ -44,19 +44,19 @@ SHY48是一個以[沈阳為中心活動的](../Page/沈阳.md "wikilink")[中國
     HIII成员刘静晗获得。\[15\]
   - 3月3日，Team HIII舉行「怦然33℃」公演首演，並發表以下事項:
       - 曲悅萌獲委任為第一任Team HIII隊長，張愛靜為副隊長\[16\]。
-  - 3月26日，發行第3張EP《[戀愛密語](../Page/SNH48原創發行作品列表#未來的樂章.md "wikilink")》\[17\]。
+  - 3月26日，發行第3張EP《[戀愛密語](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#未來的樂章 "wikilink")》\[17\]。
   - 4月29日，Team SIII舉行「少女進化論」公演首演。
   - 5月25-26日，聯同CKG48在SNH48
     Group專屬狼人殺APP《48狼人殺》舉辦《双城记PK赛》大型狼人殺馬拉松對抗賽，SHY48与CKG48成員在24小時裏輪流進行48場馬拉松式直播比賽\[18\]。
   - 6月29日，SNH48
     Group运营方上海丝芭文化传媒集团有限公司正式宣布，将开启首次全集团最大规模偶像艺人招募，进一步推动新生代优质偶像的培养。本届招募包括SNH48
     Group成员招募、丝芭传媒集团偶像练习生（韩国模式练习生）与米娜演员工作室（影视表演艺人），不限男女，入选选手将接受国内外的专业艺人培训\[19\]。
-  - 9月1日，在[大連眾藝大劇院舉辦SHY](../Page/大連.md "wikilink")48「WE ARE THE
-    SHY」大連巡演。
-  - 9月7日，與[BEJ48參與了由中國演出行業協會主辦的](../Page/BEJ48.md "wikilink")「2018中國（北京）演藝博覽會」；同日，Team
+  - 9月1日，在[大連眾藝大劇院舉辦SHY](https://zh.wikipedia.org/wiki/大連 "wikilink")48「WE
+    ARE THE SHY」大連巡演。
+  - 9月7日，與[BEJ48參與了由中國演出行業協會主辦的](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")「2018中國（北京）演藝博覽會」；同日，Team
     HIII舉行「命運的H號」公演首演。
   - 9月22日，Team SIII舉行「Idol.S」公演首演。
-  - 9月29日，在[抚顺盛文](../Page/抚顺.md "wikilink")·北方新生活舉辦SHY48盛文·北方新生活「抚顺我们来啦」粉丝见面会。
+  - 9月29日，在[抚顺盛文](https://zh.wikipedia.org/wiki/抚顺 "wikilink")·北方新生活舉辦SHY48盛文·北方新生活「抚顺我们来啦」粉丝见面会。
   - 9月30日，冠名大地影院沈北华强店，並與大地影院合作，在影城打造SHY48冠名及專屬主題影廳，並成立「SHY48冠名廳」。
   - 10月5日，在预备生亮相公演上发表以下事项：
       - 公布12名四期生成员，其中包括于5月17日被判强制退团的原Team HIII成员王睿琦。
@@ -69,9 +69,9 @@ SHY48是一個以[沈阳為中心活動的](../Page/沈阳.md "wikilink")[中國
 <!-- end list -->
 
   - 2019年1月19日，于[SNH48 Group第五屆年度金曲大賞BEST
-    50上公布以下调整](../Page/SNH48_Group第五屆年度金曲大賞BEST_50.md "wikilink")：
+    50上公布以下调整](https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50 "wikilink")：
       - Team SIII以及Team HIII解散；
-      - 部分成员移籍至[SNH48](../Page/SNH48.md "wikilink")、[BEJ48](../Page/BEJ48.md "wikilink")、[GNZ48](../Page/GNZ48.md "wikilink")；
+      - 部分成员移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
       - 部分成员选送前往海外进行两年培训练习生；
       - 部分成员加入基于互联网的偶像养成女团「IDOLS Ft」。
 
@@ -1309,7 +1309,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2017年12月24日</p></td>
-<td><p>《<strong><a href="../Page/SNH48原創發行作品列表#甜蜜盛典.md" title="wikilink">甜蜜盛典</a></strong>》</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#甜蜜盛典" title="wikilink">甜蜜盛典</a></strong>》</p></td>
 <td><p>CD<br />
 無</p></td>
 <td><p>SNH11101110<br />
@@ -1320,7 +1320,7 @@ SNH11101110</p></td>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2018年3月26日</p></td>
-<td><p>《<strong><a href="../Page/SNH48原創發行作品列表#未来的乐章.md" title="wikilink">恋爱密语</a></strong>》</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#未来的乐章" title="wikilink">恋爱密语</a></strong>》</p></td>
 <td><p>CD<br />
 無</p></td>
 <td><p>SHY77100319<br />
@@ -1341,13 +1341,13 @@ SHY77100319</p></td>
 
 ### 公演專輯
 
-| 张      | 發行日        | 标题                                                                         | 發行形式 | 產品編號 | 备注   |
-| ------ | ---------- | -------------------------------------------------------------------------- | ---- | ---- | ---- |
-| 絲芭文化傳媒 |            |                                                                            |      |      |      |
-| 1      | 2018年4月30日 | 《**[心的旅程](../Page/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演.md "wikilink")**》 | /    | /    | 数码专辑 |
-| 2      | 2018年6月7日  | 《**[怦然33℃](../Page/Team_HIII_Waiting_Stage「怦然33℃」公演.md "wikilink")**》      | /    | /    | 数码专辑 |
-| 3      | 2018年9月27日 | 《**[Idol.S](../Page/Team_SIII_2nd_Stage「Idol.S」公演.md "wikilink")**》        | /    | /    | 数码专辑 |
-|        |            |                                                                            |      |      |      |
+| 张      | 發行日        | 标题                                                                                            | 發行形式 | 產品編號 | 备注   |
+| ------ | ---------- | --------------------------------------------------------------------------------------------- | ---- | ---- | ---- |
+| 絲芭文化傳媒 |            |                                                                                               |      |      |      |
+| 1      | 2018年4月30日 | 《**[心的旅程](https://zh.wikipedia.org/wiki/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演 "wikilink")**》 | /    | /    | 数码专辑 |
+| 2      | 2018年6月7日  | 《**[怦然33℃](https://zh.wikipedia.org/wiki/Team_HIII_Waiting_Stage「怦然33℃」公演 "wikilink")**》      | /    | /    | 数码专辑 |
+| 3      | 2018年9月27日 | 《**[Idol.S](https://zh.wikipedia.org/wiki/Team_SIII_2nd_Stage「Idol.S」公演 "wikilink")**》        | /    | /    | 数码专辑 |
+|        |            |                                                                                               |      |      |      |
 
 ### 未收錄音樂影片
 
@@ -1391,65 +1391,65 @@ SHY77100319</p></td>
 
   - 中國
 
-| 播出時間               | 中文名称  | 网站                                                                    | 备注 |
-| ------------------ | ----- | --------------------------------------------------------------------- | -- |
-| 2018年9月11日－13日     | 辣物少女  | [哔哩哔哩](../Page/哔哩哔哩.md "wikilink")                                    |    |
-| 2018年9月16日－28日     | 偶像新生记 | [新浪微博](../Page/新浪微博.md "wikilink")、[哔哩哔哩](../Page/哔哩哔哩.md "wikilink") |    |
-| 2018年11月27日－12月28日 | 爱豆下乡记 | [哔哩哔哩](../Page/哔哩哔哩.md "wikilink")                                    |    |
+| 播出時間               | 中文名称  | 网站                                                                                       | 备注 |
+| ------------------ | ----- | ---------------------------------------------------------------------------------------- | -- |
+| 2018年9月11日－13日     | 辣物少女  | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")                                    |    |
+| 2018年9月16日－28日     | 偶像新生记 | [新浪微博](../Page/新浪微博.md "wikilink")、[哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
+| 2018年11月27日－12月28日 | 爱豆下乡记 | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")                                    |    |
 
 ### 電台節目
 
   - 中國
 
-| 播出時間                  | 中文名称                               | 電台                                 | 备注 |
-| --------------------- | ---------------------------------- | ---------------------------------- | -- |
-| 2017年8月18日－2018年1月31日 | [星梦夜话](../Page/星梦夜话.md "wikilink") | [口袋48](../Page/口袋48.md "wikilink") |    |
-|                       |                                    |                                    |    |
+| 播出時間                  | 中文名称                                                  | 電台                                                    | 备注 |
+| --------------------- | ----------------------------------------------------- | ----------------------------------------------------- | -- |
+| 2017年8月18日－2018年1月31日 | [星梦夜话](https://zh.wikipedia.org/wiki/星梦夜话 "wikilink") | [口袋48](https://zh.wikipedia.org/wiki/口袋48 "wikilink") |    |
+|                       |                                                       |                                                       |    |
 
 ## 公演
 
   - Team SIII
 
-| 序號   | 公演名稱                                                                 | 日期                   | 場次  |
-| ---- | -------------------------------------------------------------------- | -------------------- | --- |
-| 1    | [心的旅程](../Page/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演.md "wikilink") | 2017年1月12日－6月25日     | 44場 |
-| 过渡公演 | [天才少女日記](../Page/Team_SIII_Waiting_Stage「天才少女日記」公演.md "wikilink")    | 2017年7月1日－2018年4月22日 | 71场 |
-| 过渡公演 | [少女進化論](../Page/Team_SIII_Waiting_Stage「少女進化論」公演.md "wikilink")      | 2018年4月29日－9月15日     | 37场 |
-| 2    | [Idol.S](../Page/Team_SIII_2nd_Stage「Idol.S」公演.md "wikilink")        | 2018年9月22日－12月22日    | 22场 |
+| 序號   | 公演名稱                                                                                    | 日期                   | 場次  |
+| ---- | --------------------------------------------------------------------------------------- | -------------------- | --- |
+| 1    | [心的旅程](https://zh.wikipedia.org/wiki/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演 "wikilink") | 2017年1月12日－6月25日     | 44場 |
+| 过渡公演 | [天才少女日記](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「天才少女日記」公演 "wikilink")    | 2017年7月1日－2018年4月22日 | 71场 |
+| 过渡公演 | [少女進化論](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「少女進化論」公演 "wikilink")      | 2018年4月29日－9月15日     | 37场 |
+| 2    | [Idol.S](https://zh.wikipedia.org/wiki/Team_SIII_2nd_Stage「Idol.S」公演 "wikilink")        | 2018年9月22日－12月22日    | 22场 |
 
   - Team HIII
 
-| 序號   | 公演名稱                                                                                                  | 日期                     | 場次  |
-| ---- | ----------------------------------------------------------------------------------------------------- | ---------------------- | --- |
-| 1    | [夢想的旗幟](../Page/Team_X_3rd_Stage「夢想的旗幟」公演#SHY48_Team_HIII_1st_Stage「夢想的旗幟」公演.md "wikilink")           | 2017年2月25日－10月15日      | 64场 |
-| 2    | [美麗世界](../Page/Team_HII_4th_Stage「Beautiful_World」公演#SHY48_Team_HIII_2nd_Stage「美麗世界」公演.md "wikilink") | 2017年10月21日－2018年2月25日 | 29場 |
-| 过渡公演 | [怦然33℃](../Page/Team_HIII_Waiting_Stage「怦然33℃」公演.md "wikilink")                                       | 2018年3月3日－8月26日        | 45场 |
-| 3    | [命運的H號](../Page/Team_X_4th_Stage「命運的X號」公演#SHY48_Team_HIII_3rd_Stage「命運的H號」公演.md "wikilink")           | 2018年9月7日－12月22日       | 26场 |
+| 序號   | 公演名稱                                                                                                                     | 日期                     | 場次  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | --- |
+| 1    | [夢想的旗幟](https://zh.wikipedia.org/wiki/Team_X_3rd_Stage「夢想的旗幟」公演#SHY48_Team_HIII_1st_Stage「夢想的旗幟」公演 "wikilink")           | 2017年2月25日－10月15日      | 64场 |
+| 2    | [美麗世界](https://zh.wikipedia.org/wiki/Team_HII_4th_Stage「Beautiful_World」公演#SHY48_Team_HIII_2nd_Stage「美麗世界」公演 "wikilink") | 2017年10月21日－2018年2月25日 | 29場 |
+| 过渡公演 | [怦然33℃](https://zh.wikipedia.org/wiki/Team_HIII_Waiting_Stage「怦然33℃」公演 "wikilink")                                       | 2018年3月3日－8月26日        | 45场 |
+| 3    | [命運的H號](https://zh.wikipedia.org/wiki/Team_X_4th_Stage「命運的X號」公演#SHY48_Team_HIII_3rd_Stage「命運的H號」公演 "wikilink")           | 2018年9月7日－12月22日       | 26场 |
 
   - 预备生
 
-| 序号 | 公演名称                                                   | 日期                | 场次 |
-| -- | ------------------------------------------------------ | ----------------- | -- |
-| 1  | [拾光寄](../Page/Team_E_2nd_Stage“奇幻加冕礼”公演.md "wikilink") | 2018年11月9日－11月30日 | 4场 |
+| 序号 | 公演名称                                                                      | 日期                | 场次 |
+| -- | ------------------------------------------------------------------------- | ----------------- | -- |
+| 1  | [拾光寄](https://zh.wikipedia.org/wiki/Team_E_2nd_Stage“奇幻加冕礼”公演 "wikilink") | 2018年11月9日－11月30日 | 4场 |
 
 ### 其他剧场的公演
 
   - Team SIII
 
-| 序號 | 公演名稱                                                                 | 日期             | 剧场                                           | 場次 |
-| -- | -------------------------------------------------------------------- | -------------- | -------------------------------------------- | -- |
-| 1  | [心的旅程](../Page/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演.md "wikilink") | 2017年5月27日、28日 | [GNZ48星梦剧院](../Page/GNZ48星梦剧院.md "wikilink") | 2場 |
-| 2  | [天才少女日記](../Page/Team_SIII_Waiting_Stage「天才少女日記」公演.md "wikilink")    | 2017年10月6日、7日  | [BEJ48星夢劇院](../Page/BEJ48星夢劇院.md "wikilink") | 2場 |
-| 3  | [少女進化論](../Page/Team_SIII_Waiting_Stage「少女進化論」公演.md "wikilink")      | 2018年6月8日、10日  | [SNH48星夢劇院](../Page/SNH48星夢劇院.md "wikilink") | 2場 |
-|    |                                                                      |                |                                              |    |
+| 序號 | 公演名稱                                                                                    | 日期             | 剧场                                                              | 場次 |
+| -- | --------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------- | -- |
+| 1  | [心的旅程](https://zh.wikipedia.org/wiki/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演 "wikilink") | 2017年5月27日、28日 | [GNZ48星梦剧院](https://zh.wikipedia.org/wiki/GNZ48星梦剧院 "wikilink") | 2場 |
+| 2  | [天才少女日記](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「天才少女日記」公演 "wikilink")    | 2017年10月6日、7日  | [BEJ48星夢劇院](https://zh.wikipedia.org/wiki/BEJ48星夢劇院 "wikilink") | 2場 |
+| 3  | [少女進化論](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「少女進化論」公演 "wikilink")      | 2018年6月8日、10日  | [SNH48星夢劇院](https://zh.wikipedia.org/wiki/SNH48星夢劇院 "wikilink") | 2場 |
+|    |                                                                                         |                |                                                                 |    |
 
   - Team HIII
 
-| 序號 | 公演名稱                                                                                        | 日期           | 剧场                                           | 場次 |
-| -- | ------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------- | -- |
-| 1  | [夢想的旗幟](../Page/Team_X_3rd_Stage「夢想的旗幟」公演#SHY48_Team_HIII_1st_Stage「夢想的旗幟」公演.md "wikilink") | 2017年4月3日、4日 | [SNH48星梦剧院](../Page/SNH48星梦剧院.md "wikilink") | 2場 |
-| 2  | [怦然33℃](../Page/Team_HIII_Waiting_Stage「怦然33℃」公演.md "wikilink")                             | 2018年5月5日、6日 | [BEJ48星梦剧院](../Page/BEJ48星梦剧院.md "wikilink") | 2場 |
-|    |                                                                                             |              |                                              |    |
+| 序號 | 公演名稱                                                                                                           | 日期           | 剧场                                                              | 場次 |
+| -- | -------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------- | -- |
+| 1  | [夢想的旗幟](https://zh.wikipedia.org/wiki/Team_X_3rd_Stage「夢想的旗幟」公演#SHY48_Team_HIII_1st_Stage「夢想的旗幟」公演 "wikilink") | 2017年4月3日、4日 | [SNH48星梦剧院](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink") | 2場 |
+| 2  | [怦然33℃](https://zh.wikipedia.org/wiki/Team_HIII_Waiting_Stage「怦然33℃」公演 "wikilink")                             | 2018年5月5日、6日 | [BEJ48星梦剧院](https://zh.wikipedia.org/wiki/BEJ48星梦剧院 "wikilink") | 2場 |
+|    |                                                                                                                |              |                                                                 |    |
 
 ## 集体代言及宣傳產品
 

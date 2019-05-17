@@ -4,11 +4,11 @@ Out》，電影獲得了正面的評價和成功的票房\[1\]。
 ## 職業生涯
 
 債務累累的桑德柏格於2013年拍了恐怖短片《Lights
-Out》而在網上獲得了關注。後來，他改編自其短片而執導了《[鬼關燈](../Page/鬼關燈.md "wikilink")》，電影於2016年上映並獲得了極高的讚譽\[2\]\[3\]。2016年3月，他被聘請擔任《[安娜貝爾：造孽](../Page/安娜貝爾：造孽.md "wikilink")》的導演，該片為2014年恐怖片《[安娜貝爾](../Page/安娜貝爾_\(電影\).md "wikilink")》的續集《[安娜貝爾：造孽](../Page/安娜貝爾：造孽.md "wikilink")》，定於2017年上映\[4\]\[5\]。2017年7月，桑德柏格成為了[DC擴展宇宙電影](../Page/DC擴展宇宙.md "wikilink")《[沙贊](../Page/沙贊_\(電影\).md "wikilink")》的導演，該片改編自[DC漫畫旗下的](../Page/DC漫畫.md "wikilink")[同名角色](../Page/驚奇隊長_\(DC漫畫\).md "wikilink")\[6\]。
+Out》而在網上獲得了關注。後來，他改編自其短片而執導了《[鬼關燈](../Page/鬼關燈.md "wikilink")》，電影於2016年上映並獲得了極高的讚譽\[2\]\[3\]。2016年3月，他被聘請擔任《[安娜貝爾：造孽](https://zh.wikipedia.org/wiki/安娜貝爾：造孽 "wikilink")》的導演，該片為2014年恐怖片《[安娜貝爾](https://zh.wikipedia.org/wiki/安娜貝爾_\(電影\) "wikilink")》的續集《[安娜貝爾：造孽](https://zh.wikipedia.org/wiki/安娜貝爾：造孽 "wikilink")》，定於2017年上映\[4\]\[5\]。2017年7月，桑德柏格成為了[DC擴展宇宙電影](../Page/DC擴展宇宙.md "wikilink")《[沙贊](https://zh.wikipedia.org/wiki/沙贊_\(電影\) "wikilink")》的導演，該片改編自[DC漫畫旗下的](../Page/DC漫畫.md "wikilink")[同名角色](https://zh.wikipedia.org/wiki/驚奇隊長_\(DC漫畫\) "wikilink")\[6\]。
 
 ## 個人生活
 
-2013年，桑德柏格與時常在他的多支短片和《鬼關燈》中合作的[蘿塔·洛斯滕結了婚](../Page/蘿塔·洛斯滕.md "wikilink")\[7\]。
+2013年，桑德柏格與時常在他的多支短片和《鬼關燈》中合作的[蘿塔·洛斯滕結了婚](https://zh.wikipedia.org/wiki/蘿塔·洛斯滕 "wikilink")\[7\]。
 
 ## 作品列表
 
@@ -26,9 +26,9 @@ Out》而在網上獲得了關注。後來，他改編自其短片而執導了�
 ### 電影
 
   - 2016：《[鬼關燈](../Page/鬼關燈.md "wikilink")》／*Lights Out*-導演
-  - 2017：《[安娜貝爾：造孽](../Page/安娜貝爾：造孽.md "wikilink")》／*Annabelle:
+  - 2017：《[安娜貝爾：造孽](https://zh.wikipedia.org/wiki/安娜貝爾：造孽 "wikilink")》／*Annabelle:
     Creation*-導演
-  - 2019：《[沙贊！](../Page/沙贊！_\(電影\).md "wikilink")》／*Shazam\!*-導演\[8\]
+  - 2019：《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》／*Shazam\!*-導演\[8\]
 
 ## 參考文獻
 

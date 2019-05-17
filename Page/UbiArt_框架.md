@@ -1,5 +1,6 @@
-**UbiArt 框架**（）是一个由[育碧蒙彼利埃开发的](../Page/育碧蒙彼利埃.md "wikilink") 2.5D
-[电子游戏引擎](../Page/游戏引擎.md "wikilink")。他可以将 2D
+**UbiArt
+框架**（）是一个由[育碧蒙彼利埃开发的](https://zh.wikipedia.org/wiki/育碧蒙彼利埃 "wikilink")
+2.5D [电子游戏引擎](../Page/游戏引擎.md "wikilink")。他可以将 2D
 动画[矢量图形](../Page/矢量图形.md "wikilink") \[1\] 组织成一个可玩的电子游戏而无需大量的编程。\[2\]
 
 ## 历史
@@ -65,12 +66,12 @@ UBIart 框架开发而成。UBIart
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><em><a href="../Page/光之子.md" title="wikilink">光之子</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/光之子" title="wikilink">光之子</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><em><a href="../Page/勇敢的心：世界大战.md" title="wikilink">勇敢的心：世界大战</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/勇敢的心：世界大战" title="wikilink">勇敢的心：世界大战</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">

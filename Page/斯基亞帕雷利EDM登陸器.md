@@ -1,19 +1,20 @@
 technology demonstrator | operator =
-[ESA](../Page/European_Space_Agency.md "wikilink"){{·}}[俄羅斯聯邦航天局](../Page/俄羅斯聯邦航天局.md "wikilink")
+[ESA](https://zh.wikipedia.org/wiki/European_Space_Agency "wikilink"){{·}}[俄羅斯聯邦航天局](https://zh.wikipedia.org/wiki/俄羅斯聯邦航天局 "wikilink")
 | COSPAR_ID = 2016-017A | SATCAT = 41388 | website =  |
 mission_duration = Planned: 2 to 8
-[sols](../Page/Timekeeping_on_Mars#Sol.md "wikilink")\[1\]
+[sols](https://zh.wikipedia.org/wiki/Timekeeping_on_Mars#Sol "wikilink")\[1\]
 
 | manufacturer = [Thales Alenia
-Space](../Page/Thales_Alenia_Space.md "wikilink") | launch_mass =  |
-landing_mass = | dimensions = Diameter:
+Space](https://zh.wikipedia.org/wiki/Thales_Alenia_Space "wikilink") |
+launch_mass =  | landing_mass = | dimensions = Diameter:
 Height:  | power =
 
 | launch_date =  UTC | launch_rocket =
 [質子M型運載火箭](../Page/質子M型運載火箭.md "wikilink")/Briz-M
-| launch_site = [拜科努爾航天發射場](../Page/拜科努爾航天發射場.md "wikilink") |
-launch_contractor =
-[赫魯尼契夫國家航天研製中心](../Page/赫魯尼契夫國家航天研製中心.md "wikilink")
+| launch_site =
+[拜科努爾航天發射場](https://zh.wikipedia.org/wiki/拜科努爾航天發射場 "wikilink")
+| launch_contractor =
+[赫魯尼契夫國家航天研製中心](https://zh.wikipedia.org/wiki/赫魯尼契夫國家航天研製中心 "wikilink")
 
 | disposal_type = | deactivated = | destroyed = | last_contact = |
 landing_date = | landing_site =
@@ -23,15 +24,17 @@ landing_date = | landing_site =
 | instruments_list =
 
 | programme = [ExoMars
-Programme](../Page/ExoMars_Programme.md "wikilink") | previous_mission
-= | next_mission = 2018
-[ExoMars火星漫遊車](../Page/ExoMars火星漫遊車.md "wikilink") &
-[ExoMars表面科學平台](../Page/ExoMars表面科學平台.md "wikilink") }}
+Programme](https://zh.wikipedia.org/wiki/ExoMars_Programme "wikilink") |
+previous_mission = | next_mission = 2018
+[ExoMars火星漫遊車](https://zh.wikipedia.org/wiki/ExoMars火星漫遊車 "wikilink")
+&
+[ExoMars表面科學平台](https://zh.wikipedia.org/wiki/ExoMars表面科學平台 "wikilink")
+}}
 
 **斯基亞帕雷利EDM登陸器**（Schiaparelli EDM
-lander）是[歐洲太空總署](../Page/歐洲太空總署.md "wikilink")（ESA）和[俄羅斯聯邦太空總署](../Page/俄羅斯聯邦太空總署.md "wikilink")（Roscosmos）合作的專案計畫，2016年[火星微量氣體任務衛星搭載斯基亞帕雷利EDM登陸器登陸](../Page/火星微量氣體任務衛星.md "wikilink")[火星](../Page/火星.md "wikilink")，是歐洲主導[ExoMars計劃的一部分](../Page/ExoMars.md "wikilink")\[2\]\[3\]。名稱來源是[意大利](../Page/意大利.md "wikilink")[天文學家及](../Page/天文學家.md "wikilink")[科學史家](../Page/科學史家.md "wikilink")[喬凡尼·斯基亞帕雷利](../Page/喬凡尼·斯基亞帕雷利.md "wikilink")，他以對火星的研究而聞名於世。
+lander）是[歐洲太空總署](https://zh.wikipedia.org/wiki/歐洲太空總署 "wikilink")（ESA）和[俄羅斯聯邦太空總署](https://zh.wikipedia.org/wiki/俄羅斯聯邦太空總署 "wikilink")（Roscosmos）合作的專案計畫，2016年[火星微量氣體任務衛星搭載斯基亞帕雷利EDM登陸器登陸](../Page/火星微量氣體任務衛星.md "wikilink")[火星](../Page/火星.md "wikilink")，是歐洲主導[ExoMars計劃的一部分](../Page/ExoMars.md "wikilink")\[2\]\[3\]。名稱來源是[意大利](../Page/意大利.md "wikilink")[天文學家及](https://zh.wikipedia.org/wiki/天文學家 "wikilink")[科學史家](https://zh.wikipedia.org/wiki/科學史家 "wikilink")[喬凡尼·斯基亞帕雷利](../Page/喬凡尼·斯基亞帕雷利.md "wikilink")，他以對火星的研究而聞名於世。
 
-斯基亞帕雷利EDM登陸器預計於2016年10月19日登陸火星，並使用非充電式[電池對地表進行研究](../Page/電池.md "wikilink")，預計運作2-8天。由于登陆器与火星高速碰撞，造成登陆计划失败。
+斯基亞帕雷利EDM登陸器預計於2016年10月19日登陸火星，並使用非充電式[電池對地表進行研究](https://zh.wikipedia.org/wiki/電池 "wikilink")，預計運作2-8天。由于登陆器与火星高速碰撞，造成登陆计划失败。
 
 ## 參考資料
 

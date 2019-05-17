@@ -1,12 +1,12 @@
-是一个有一[揚抑符的](../Page/揚抑符.md "wikilink")[拉丁字母X](../Page/拉丁字母.md "wikilink")。
+是一个有一[揚抑符的](https://zh.wikipedia.org/wiki/揚抑符 "wikilink")[拉丁字母X](../Page/拉丁字母.md "wikilink")。
 
-該字母乃是在[阿留申語和](../Page/阿留申語.md "wikilink")[海達語按照](../Page/海達語.md "wikilink")[美國](../Page/美國.md "wikilink")[阿拉斯加州於](../Page/阿拉斯加州.md "wikilink")1972年發表的《正寫法》而使用的字母\[1\]，代表着[清小舌擦音](../Page/清小舌擦音.md "wikilink")（[國際音標以](../Page/國際音標.md "wikilink")代表此音）或近似的音位。舉例說：在[白令島的阿留申語的](../Page/白令島.md "wikilink")「10」拼作，而若使用從前俄羅斯帝國時期的西里爾字母來拼寫，這個字母會被寫成\[\[Х̑|在
+該字母乃是在[阿留申語和](https://zh.wikipedia.org/wiki/阿留申語 "wikilink")[海達語按照](../Page/海達語.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[阿拉斯加州於](../Page/阿拉斯加州.md "wikilink")1972年發表的《正寫法》而使用的字母\[1\]，代表着[清小舌擦音](https://zh.wikipedia.org/wiki/清小舌擦音 "wikilink")（[國際音標以](https://zh.wikipedia.org/wiki/國際音標 "wikilink")代表此音）或近似的音位。舉例說：在[白令島的阿留申語的](https://zh.wikipedia.org/wiki/白令島 "wikilink")「10」拼作，而若使用從前俄羅斯帝國時期的西里爾字母來拼寫，這個字母會被寫成\[\[Х̑|在
 
 `Kha 上加上一個上下反轉的短音符]]。`
 
 ## 表示方式
 
-這個字母是一個複合字母，在[Unicode仍然未有單獨的區位碼](../Page/Unicode.md "wikilink")，要以下列方式來表示：
+這個字母是一個複合字母，在[Unicode仍然未有單獨的區位碼](https://zh.wikipedia.org/wiki/Unicode "wikilink")，要以下列方式來表示：
 
   - 複合字符 (基本拉丁文 + 結合附加符號) :
 

@@ -1,12 +1,12 @@
 **福特Edge**（Ford
-Edge）是[长安福特自](../Page/长安福特.md "wikilink")2010年引進[中国大陆市场的一款中型](../Page/中国大陆.md "wikilink")[SUV](../Page/运动型多用途车.md "wikilink")\[1\]、[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方中文名稱為「**福特銳界**」，而競爭對手為[本田Avancier](../Page/本田Avancier.md "wikilink")、[豐田Highlander](../Page/豐田Highlander.md "wikilink")、[別克Envision](../Page/別克Envision.md "wikilink")、[日產Murano](../Page/日產Murano.md "wikilink")。
+Edge）是[长安福特自](https://zh.wikipedia.org/wiki/长安福特 "wikilink")2010年引進[中国大陆市场的一款中型](../Page/中国大陆.md "wikilink")[SUV](../Page/运动型多用途车.md "wikilink")\[1\]、[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方中文名稱為「**福特銳界**」，而競爭對手為[本田Avancier](https://zh.wikipedia.org/wiki/本田Avancier "wikilink")、[豐田Highlander](../Page/豐田Highlander.md "wikilink")、[別克Envision](https://zh.wikipedia.org/wiki/別克Envision "wikilink")、[日產Murano](../Page/日產Murano.md "wikilink")。
 
 ## 歷史與概要
 
 ### 第一代（2006年-2014年）
 
 [07-Ford-Edge.jpg](https://zh.wikipedia.org/wiki/File:07-Ford-Edge.jpg "fig:07-Ford-Edge.jpg")
-第一代锐界在2006年1月的[底特律车展上首发](../Page/底特律车展.md "wikilink")，2011迎来中期改款。
+第一代锐界在2006年1月的[底特律车展上首发](https://zh.wikipedia.org/wiki/底特律车展 "wikilink")，2011迎来中期改款。
 
 ### 第二代（2014年迄今）
 

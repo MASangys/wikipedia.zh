@@ -1,4 +1,4 @@
-《**龍族拼圖X**》（），是[日本](../Page/日本.md "wikilink")[GungHo發行的](../Page/GungHo.md "wikilink")[任天堂3DS專用遊戲](../Page/任天堂3DS.md "wikilink")，為《[龍族拼圖](../Page/龍族拼圖.md "wikilink")》的延伸作品。遊戲於2016年7月28日發售，同時推出「神之章」及「龍之章」兩個版本。
+《**龍族拼圖X**》（），是[日本](../Page/日本.md "wikilink")[GungHo發行的](https://zh.wikipedia.org/wiki/GungHo "wikilink")[任天堂3DS專用遊戲](../Page/任天堂3DS.md "wikilink")，為《[龍族拼圖](../Page/龍族拼圖.md "wikilink")》的延伸作品。遊戲於2016年7月28日發售，同時推出「神之章」及「龍之章」兩個版本。
 
 電視動畫於2016年7月4日起在日本[東京電視台聯播網播放](../Page/東京電視台.md "wikilink")。香港[ViuTV在](../Page/ViuTV.md "wikilink")2018年10月4日起播放。
 
@@ -9,25 +9,25 @@
 ## 登場角色
 
   -
-    聲：[吉永拓斗](../Page/吉永拓斗.md "wikilink")、[田中誠人](../Page/田中誠人.md "wikilink")（幼時）（日本）；[黃尉斯](../Page/黃尉斯.md "wikilink")（香港）
+    聲：[吉永拓斗](../Page/吉永拓斗.md "wikilink")、[田中誠人](https://zh.wikipedia.org/wiki/田中誠人 "wikilink")（幼時）（日本）；[黃尉斯](https://zh.wikipedia.org/wiki/黃尉斯 "wikilink")（香港）
   -
     聲：[柿原徹也](../Page/柿原徹也.md "wikilink")、[矢島晶子](../Page/矢島晶子.md "wikilink")（幼時）（日本）；[簡懷甄](../Page/簡懷甄.md "wikilink")（香港）
   -
-    聲：[金田朋子](../Page/金田朋子.md "wikilink")（日本）（日本）；[何凱怡](../Page/何凱怡.md "wikilink")（香港）
+    聲：[金田朋子](../Page/金田朋子.md "wikilink")（日本）（日本）；[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")（香港）
   -
     聲：[坂本千夏](../Page/坂本千夏.md "wikilink")（日本）；[陳凱婷](../Page/陳凱婷.md "wikilink")（香港）
   -
-    聲：[雨宮天](../Page/雨宮天.md "wikilink")（日本）；[顧詠雪](../Page/顧詠雪.md "wikilink")（香港）
+    聲：[雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")（日本）；[顧詠雪](../Page/顧詠雪.md "wikilink")（香港）
   -
     聲：[寺崎裕香](../Page/寺崎裕香.md "wikilink")
   -
-    聲：[山下七海](../Page/山下七海.md "wikilink")（日本）；[陳雪瑩](../Page/陳雪瑩.md "wikilink")（香港）
+    聲：[山下七海](https://zh.wikipedia.org/wiki/山下七海 "wikilink")（日本）；[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")（香港）
   -
     聲：[中村悠一](../Page/中村悠一.md "wikilink")、吉永拓斗（幼少）
   -
     聲：金田朋子
   -
-    聲：[久川綾](../Page/久川綾.md "wikilink")（日本）；[陳凱婷](../Page/陳凱婷.md "wikilink")（香港）
+    聲：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")（日本）；[陳凱婷](../Page/陳凱婷.md "wikilink")（香港）
 
 ### 動畫原創角色
 
@@ -38,10 +38,10 @@
     聲：[杉田智和](../Page/杉田智和.md "wikilink")（日本）；[梁皓翔](../Page/梁皓翔.md "wikilink")（香港）
     龍人。人類城市維也納的SDF副官。視龍人等龍喚士為人類的威脅，策劃清除他們。
   -
-    聲：[橫山智佐](../Page/橫山智佐.md "wikilink")
+    聲：[橫山智佐](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")
     光之龍喚士、龍人。光之古老的後補前代斯特瓊的兒子。個性好鬥、鄙視不如己者。戰鬥力驚人。
   -
-    聲：[高田裕司](../Page/高田裕司.md "wikilink")
+    聲：[高田裕司](https://zh.wikipedia.org/wiki/高田裕司 "wikilink")
     龍人。家族守護著前往龍人故鄉的要道，某次陰謀襲擊中，公會馳援不及，全族覆滅，與怪物所生的其子斯特瓊jr.獨存。
 
 ### 多米尼翁
@@ -64,9 +64,10 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 
 ### 製作人員
 
-  - 原作：[GungHo Online Entertainment](../Page/GungHo.md "wikilink")
-  - 監督：[龜垣一](../Page/龜垣一.md "wikilink")
-  - 系列構成：[佐藤大](../Page/佐藤大.md "wikilink")、StoryRiders
+  - 原作：[GungHo Online
+    Entertainment](https://zh.wikipedia.org/wiki/GungHo "wikilink")
+  - 監督：[龜垣一](https://zh.wikipedia.org/wiki/龜垣一 "wikilink")
+  - 系列構成：[佐藤大](https://zh.wikipedia.org/wiki/佐藤大 "wikilink")、StoryRiders
   - 人物設定：秋山由樹子
   - 怪物設定：、遠藤正明、桝田浩史、
   - 道具設計：宮川治雄
@@ -106,7 +107,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 
       -
         作詞：岡野昭仁，作曲：新藤晴一，編曲：篤志、[Porno
-        Graffitti](../Page/色情塗鴉.md "wikilink")，主唱：[色情塗鴉](../Page/色情塗鴉.md "wikilink")
+        Graffitti](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")，主唱：[色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")
 
 <!-- end list -->
 
@@ -153,9 +154,9 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td><p>第1話</p></td>
 <td></td>
 <td><p>寶珠衝擊</p></td>
-<td><p><a href="../Page/永川成基.md" title="wikilink">永川成基</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/永川成基" title="wikilink">永川成基</a><br />
 </p></td>
-<td><p><a href="../Page/龜垣一.md" title="wikilink">龜垣一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龜垣一" title="wikilink">龜垣一</a></p></td>
 <td><p>秋山由樹子</p></td>
 <td></td>
 <td></td>
@@ -165,7 +166,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td></td>
 <td><p>Cross On</p></td>
 <td><p>永川成基</p></td>
-<td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a></p></td>
 <td><p>阿部達也</p></td>
 <td><p>一居一平</p></td>
 <td><p>安食圭<br />
@@ -175,8 +176,8 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td><p>第3話</p></td>
 <td></td>
 <td><p>蛋藏奪回大作戰</p></td>
-<td><p><a href="../Page/名田寬.md" title="wikilink">名田寬</a></p></td>
-<td><p><a href="../Page/影山楙倫.md" title="wikilink">影山楙倫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名田寬" title="wikilink">名田寬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影山楙倫" title="wikilink">影山楙倫</a></p></td>
 <td><p>關田修<br />
 福田皖</p></td>
 <td><p>櫻井拓郎、神戶環<br />
@@ -211,7 +212,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td><p>永川成基</p></td>
 <td><p>大庭秀昭</p></td>
 <td><p>井之川禛太郎</p></td>
-<td><p><a href="../Page/青野厚司.md" title="wikilink">青野厚司</a>、杉山了藏、神戶環<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a>、杉山了藏、神戶環<br />
 服部憲治、柳瀨讓二、櫻井拓郎</p></td>
 <td><p>遠藤裕一<br />
 秋山由樹子</p></td>
@@ -221,7 +222,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td></td>
 <td><p>公會龍喚士之路</p></td>
 <td><p>名田寬</p></td>
-<td><p><a href="../Page/細田雅弘.md" title="wikilink">細田雅弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/細田雅弘" title="wikilink">細田雅弘</a></p></td>
 <td><p>田中智也</p></td>
 <td><p>松崎正、窪詔之、山崎展義</p></td>
 <td><p>秋山由樹子</p></td>
@@ -240,7 +241,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td><p>第9話</p></td>
 <td></td>
 <td><p>來自蓋澤的男人</p></td>
-<td><p><a href="../Page/上野貴美子.md" title="wikilink">上野貴美子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上野貴美子" title="wikilink">上野貴美子</a></p></td>
 <td><p>影山楙倫</p></td>
 <td><p>福田皖</p></td>
 <td><p>村松尚雄、遠藤裕一</p></td>
@@ -267,7 +268,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td><p>松本正幸</p></td>
 <td><p>Seo Jung Duk、Kim Eun Ha<br />
 Jung Cheol Gyo、Kim Jin Young<br />
-Lee Sang Jin、<a href="../Page/石橋有希子.md" title="wikilink">石橋有希子</a><br />
+Lee Sang Jin、<a href="https://zh.wikipedia.org/wiki/石橋有希子" title="wikilink">石橋有希子</a><br />
 服部憲知</p></td>
 <td></td>
 </tr>
@@ -287,7 +288,7 @@ Lee Sang Jin、<a href="../Page/石橋有希子.md" title="wikilink">石橋有�
 <td></td>
 <td><p>公會入團考試</p></td>
 <td><p>高本宣弘</p></td>
-<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
 <td><p>相馬滿、一居一平</p></td>
 <td><p>安食圭</p></td>
 <td></td>
@@ -310,7 +311,7 @@ Lee Sang Jin、<a href="../Page/石橋有希子.md" title="wikilink">石橋有�
 <td><p>大庭秀昭</p></td>
 <td><p>井之川禛太郎<br />
 奧野浩行</p></td>
-<td><p>村松尚雄、<a href="../Page/岸義之.md" title="wikilink">岸義之</a>、柳瀨讓二<br />
+<td><p>村松尚雄、<a href="https://zh.wikipedia.org/wiki/岸義之" title="wikilink">岸義之</a>、柳瀨讓二<br />
 神戶環、櫻井拓郎</p></td>
 <td></td>
 </tr>
@@ -343,15 +344,15 @@ Lee Sang Jin、<a href="../Page/石橋有希子.md" title="wikilink">石橋有�
 <td><p>龜垣一</p></td>
 <td><p>村田光</p></td>
 <td><p>秋山由樹子、松崎正、栗原學<br />
-<a href="../Page/岸義之.md" title="wikilink">岸義之</a>、齊藤崇了、矢吹智美</p></td>
+<a href="https://zh.wikipedia.org/wiki/岸義之" title="wikilink">岸義之</a>、齊藤崇了、矢吹智美</p></td>
 <td><p>秋山由樹子</p></td>
 </tr>
 <tr class="odd">
 <td><p>第19話</p></td>
 <td></td>
 <td><p>寶珠的秘密</p></td>
-<td><p><a href="../Page/藤田伸三.md" title="wikilink">藤田伸三</a></p></td>
-<td><p><a href="../Page/松井仁之.md" title="wikilink">松井仁之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤田伸三" title="wikilink">藤田伸三</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松井仁之" title="wikilink">松井仁之</a></p></td>
 <td><p>佐藤清光</p></td>
 <td><p>石橋有希子、服部憲知<br />
 Kim Jin Young</p></td>
@@ -367,7 +368,7 @@ Kim Jin Young</p></td>
 <td><p>井之川禛太郎<br />
 左藤洋二</p></td>
 <td><p>櫻井拓郎、神戶環、柳瀨讓二<br />
-服部憲治、<a href="../Page/佐藤元.md" title="wikilink">佐藤元</a>、武內啟<br />
+服部憲治、<a href="https://zh.wikipedia.org/wiki/佐藤元" title="wikilink">佐藤元</a>、武內啟<br />
 櫻井木之實、粟井重紀</p></td>
 <td><p>栗原學</p></td>
 </tr>
@@ -456,7 +457,7 @@ Kim Jin Young</p></td>
 影山楙倫</p></td>
 <td><p>川西泰二</p></td>
 <td><p>岸義之、窪詔之、松崎正<br />
-遠藤裕一、栗原學、<a href="../Page/渡部圭祐.md" title="wikilink">渡部圭祐</a><br />
+遠藤裕一、栗原學、<a href="https://zh.wikipedia.org/wiki/渡部圭祐" title="wikilink">渡部圭祐</a><br />
 齋藤崇了、楠本祐子<br />
 Shin Hey Ran</p></td>
 <td></td>
@@ -530,7 +531,7 @@ Hue Hye Jung</p></td>
 長尾圭悟</p></td>
 <td><p>楠本祐子<br />
 秋山由樹子<br />
-<a href="../Page/芝美奈子.md" title="wikilink">芝美奈子</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/芝美奈子" title="wikilink">芝美奈子</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1021,7 +1022,7 @@ Park Sang Ho、石橋有希子<br />
 <td><p>第77話</p></td>
 <td></td>
 <td><p>冰凍的太陽</p></td>
-<td><p><a href="../Page/村田雅彥.md" title="wikilink">村田雅彥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/村田雅彥" title="wikilink">村田雅彥</a></p></td>
 <td><p>秋山由樹子、矢吹智美<br />
 遠藤裕一</p></td>
 <td></td>
@@ -1195,7 +1196,7 @@ Lee Sang Jin、Kim Jin Young</p></td>
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -1226,7 +1227,7 @@ Lee Sang Jin、Kim Jin Young</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td></td>
 <td></td>
@@ -1234,7 +1235,7 @@ Lee Sang Jin、Kim Jin Young</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td></td>
 <td></td>
@@ -1242,7 +1243,7 @@ Lee Sang Jin、Kim Jin Young</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td></td>
 <td></td>
@@ -1251,12 +1252,12 @@ Lee Sang Jin、Kim Jin Young</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/BS_JAPAN.md" title="wikilink">BS JAPAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS_JAPAN" title="wikilink">BS JAPAN</a></p></td>
 <td><p>2016年7月7日－2017年4月6日<br />
 2017年4月12日－2018年3月28日</p></td>
 <td><p>星期四 17時00分－17時29分<br />
 星期三 17時29分－17時58分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

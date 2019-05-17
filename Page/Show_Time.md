@@ -1,5 +1,5 @@
 《**Show
-Time**》是[台灣](../Page/台灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥的首張國語](../Page/羅志祥.md "wikilink")[專輯](../Page/專輯.md "wikilink")，於2003年12月5日推出，也是他自[四大天王及](../Page/四大天王_\(團體\).md "wikilink")[羅密歐解散後加盟](../Page/羅密歐_\(團體\).md "wikilink")[愛貝克思的首張大碟](../Page/愛貝克思_\(台灣\).md "wikilink")。
+Time**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥的首張國語](../Page/羅志祥.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2003年12月5日推出，也是他自[四大天王及](../Page/四大天王_\(團體\).md "wikilink")[羅密歐解散後加盟](../Page/羅密歐_\(團體\).md "wikilink")[愛貝克思的首張大碟](../Page/愛貝克思_\(台灣\).md "wikilink")。
 
 ## 曲目
 
@@ -18,32 +18,32 @@ Time**》是[台灣](../Page/台灣.md "wikilink")[歌手](../Page/歌手.md "wi
 <tbody>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=AnSCztvTjQA">Show Time</a></p></td>
-<td><p><a href="../Page/賴偉康.md" title="wikilink">賴偉康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賴偉康" title="wikilink">賴偉康</a></p></td>
 <td><p>2013年3月27日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 <td><p>第一主打歌</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.youtube.com/watch?v=wjXjBX9Zg10">沒有妳</a></p></td>
-<td><p><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>、<a href="../Page/楊冠玉.md" title="wikilink">楊冠玉</a></p></td>
+<td><p><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>、<a href="https://zh.wikipedia.org/wiki/楊冠玉" title="wikilink">楊冠玉</a></p></td>
 <td><p>2013年3月27日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=GzRlWT7uTPo">敢不敢</a></p></td>
-<td><p><a href="../Page/賴偉康.md" title="wikilink">賴偉康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賴偉康" title="wikilink">賴偉康</a></p></td>
 <td><p>2013年3月26日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 <td><p>第三主打歌</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.youtube.com/watch?v=V3lkfdfuO1Y">狐狸精</a></p></td>
-<td><p><a href="../Page/徐仁峰.md" title="wikilink">徐仁峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐仁峰" title="wikilink">徐仁峰</a></p></td>
 <td><p>2013年3月26日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 <td><p>第二主打歌<br />
-（與<a href="../Page/胡瑋琪.md" title="wikilink">胡瑋琪合唱</a>）</p></td>
+（與<a href="https://zh.wikipedia.org/wiki/胡瑋琪" title="wikilink">胡瑋琪合唱</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=5nWrsRBP7nM">妳是誰</a></p></td>

@@ -1,14 +1,14 @@
-**Puyo**（，），[日本男性](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")、[插畫家](../Page/插畫家.md "wikilink")。他的作品主要以[電子遊戲為題材](../Page/電子遊戲.md "wikilink")，在[同人漫畫選集或](../Page/漫畫選集.md "wikilink")[輕小說發表插圖為中心](../Page/輕小說.md "wikilink")。
+**Puyo**（，），[日本男性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。他的作品主要以[電子遊戲為題材](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，在[同人漫畫選集或](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")[輕小說發表插圖為中心](../Page/輕小說.md "wikilink")。
 
 ## 來歷
 
-2007年，在[角川書店旗下雜誌](../Page/角川書店.md "wikilink")《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》9月號開始連載[涼宮春日系列](../Page/涼宮春日系列.md "wikilink")（原作：[谷川流](../Page/谷川流.md "wikilink")／人物原案：[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")）衍伸外傳作品「[小涼宮春日的憂鬱](../Page/涼宮春日系列#小涼宮春日的憂鬱.md "wikilink")」（後隨著《[The
+2007年，在[角川書店旗下雜誌](../Page/角川書店.md "wikilink")《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》9月號開始連載[涼宮春日系列](../Page/涼宮春日系列.md "wikilink")（原作：[谷川流](../Page/谷川流.md "wikilink")／人物原案：[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")）衍伸外傳作品「[小涼宮春日的憂鬱](https://zh.wikipedia.org/wiki/涼宮春日系列#小涼宮春日的憂鬱 "wikilink")」（後隨著《[The
 Sneaker](../Page/The_Sneaker.md "wikilink")》在2007年10月號宣布停刊之下，移轉至《[Ace
-Assault](../Page/Ace_Assault.md "wikilink")》2007年夏季號繼續連載，直到《Ace
+Assault](https://zh.wikipedia.org/wiki/Ace_Assault "wikilink")》2007年夏季號繼續連載，直到《Ace
 Assault》在2009年春季號也宣布停刊為止）。
 
 2009年7月4日，開始在《[Young
-Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另一部衍伸外傳作品「[小長門有希的消失](../Page/小長門有希的消失.md "wikilink")」，至2016年9月號完結。同名作品於2013年12月18日宣佈製作[電視動畫](../Page/電視動畫.md "wikilink")\[1\]，首播時間2015年4月至7月。
+Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另一部衍伸外傳作品「[小長門有希的消失](../Page/小長門有希的消失.md "wikilink")」，至2016年9月號完結。同名作品於2013年12月18日宣佈製作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]，首播時間2015年4月至7月。
 
 [涼宮春日系列電視動畫播出時](../Page/涼宮春日系列.md "wikilink")，還擔任過《涼宮春日的憂鬱
 (2009年版)》和《小長門有希的消失》的第7話～第9話過場動畫插圖。
@@ -31,18 +31,18 @@ Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/涼宮春日系列#小涼宮春日的憂鬱.md" title="wikilink">小涼宮春日的憂鬱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/涼宮春日系列#小涼宮春日的憂鬱" title="wikilink">小涼宮春日的憂鬱</a><br />
 （）</p></td>
 <td><p><a href="../Page/谷川流.md" title="wikilink">谷川流</a><br />
 <a href="../Page/伊東雜音_(1999年出道).md" title="wikilink">伊東雜音</a>（人物原案）</p></td>
-<td><p>《<a href="../Page/月刊少年ACE.md" title="wikilink">月刊少年ACE</a>》<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/月刊少年ACE" title="wikilink">月刊少年ACE</a>》<br />
 2007年9月號－<strong>連載中</strong></p></td>
 <td><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a>／<a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a><br />
  <a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></td>
 <td><p>已發行11冊<br />
 （2017年2月）</p></td>
 <td><p><a href="../Page/涼宮春日系列.md" title="wikilink">涼宮春日系列官方衍生外傳漫畫</a><br />
-連載期間另外曾在《<a href="../Page/The_Sneaker.md" title="wikilink">The Sneaker</a>》、《<a href="../Page/Ace_Assault.md" title="wikilink">Ace Assault</a>》<br />
+連載期間另外曾在《<a href="../Page/The_Sneaker.md" title="wikilink">The Sneaker</a>》、《<a href="https://zh.wikipedia.org/wiki/Ace_Assault" title="wikilink">Ace Assault</a>》<br />
 及《》進行連載</p></td>
 </tr>
 <tr class="even">
@@ -52,7 +52,7 @@ Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另�
 2009年創刊號－2016年9月號</p></td>
 <td><p>全10冊</p></td>
 <td><p>涼宮春日系列官方衍生外傳漫畫<br />
-曾在2015年4月－7月播出同名<a href="../Page/電視動畫.md" title="wikilink">電視動畫</a></p></td>
+曾在2015年4月－7月播出同名<a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -105,12 +105,12 @@ Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/偶像大師_灰姑娘女孩.md" title="wikilink">神崎蘭子的日常</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩" title="wikilink">神崎蘭子的日常</a>（）</p></td>
 <td><p>《<a href="../Page/GANGAN_ONLINE.md" title="wikilink">GANGAN ONLINE</a>》2013年1月10日號</p></td>
-<td><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/刀劍神域.md" title="wikilink">刀劍神域同人漫畫選集</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/刀劍神域" title="wikilink">刀劍神域同人漫畫選集</a><br />
 「」</p></td>
 <td><p>《》Vol.28 4月號</p></td>
 <td><p><a href="../Page/ASCII_Media_Works.md" title="wikilink">ASCII Media Works</a>／KADOKAWA</p></td>
@@ -120,7 +120,8 @@ Ace](../Page/Young_Ace.md "wikilink")》創刊號連載涼宮春日系列的另�
 
 ### 插圖
 
-  - （著：，〈[電撃文庫](../Page/電撃文庫.md "wikilink")〉，[ASCII Media
+  - （著：，〈[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")〉，[ASCII
+    Media
     Works](../Page/ASCII_Media_Works.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
 
   - （著：，〈[HJ文庫](../Page/HJ文庫.md "wikilink")〉，）

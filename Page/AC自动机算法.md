@@ -22,7 +22,7 @@ Aho和Margaret](../Page/阿尔佛雷德·艾侯.md "wikilink") J.Corasick
 树中的蓝色有向边（后缀节点）代表终点对应字符串是起点对应字符串的最大严格后缀。例如对于一个节点（caa），它的严格后缀为（aa），（a）和（），其中在图中且最长的为（a），所以（caa）有一条指向（a）的蓝色有向边。一个节点的蓝色有向边可以在线性时间内通过重复遍历节点父亲节点的蓝色有向边直到横移节点（the
 traversing node）有一个属于目标节点前缀的孩子。
 
-树中的绿色有向边（字典后缀节点）代表终点是起点经过蓝色有向边到达的第一个蓝色节点（即字典中存在终点对应字符串）。例如（bca）有一条绿色边连向（a），因为（a）是（bca）通过蓝色有向边到达的第一个蓝色节点，路径为（bca）→（ca）→（a）。绿色有向边也可以在线性时间内通过遍历蓝色有向边直到找到一个蓝色节点，并用[记忆化的方法计算](../Page/记忆化.md "wikilink")。
+树中的绿色有向边（字典后缀节点）代表终点是起点经过蓝色有向边到达的第一个蓝色节点（即字典中存在终点对应字符串）。例如（bca）有一条绿色边连向（a），因为（a）是（bca）通过蓝色有向边到达的第一个蓝色节点，路径为（bca）→（ca）→（a）。绿色有向边也可以在线性时间内通过遍历蓝色有向边直到找到一个蓝色节点，并用[记忆化的方法计算](https://zh.wikipedia.org/wiki/记忆化 "wikilink")。
 
 [Ahocorasick.svg](https://zh.wikipedia.org/wiki/File:Ahocorasick.svg "fig:Ahocorasick.svg")
 
@@ -70,7 +70,7 @@ traversing node）有一个属于目标节点前缀的孩子。
     lecture slides by Pekka Kilpeläinen
   - [Aho–Corasick entry](http://www.nist.gov/dads/HTML/ahoCorasick.html)
     in NIST's [Dictionary of Algorithms and Data
-    Structures](../Page/Dictionary_of_Algorithms_and_Data_Structures.md "wikilink")
+    Structures](https://zh.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures "wikilink")
   - [Aho-Corasick implementation in
     C++](https://github.com/bigdatadev/aho_corasick)
   - [Aho-Corasick implementation in

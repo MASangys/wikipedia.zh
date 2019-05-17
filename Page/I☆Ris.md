@@ -8,7 +8,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 
 2012年11月，組合正式出道，並推出首支單曲「Color」\[3\]。
 
-組合名稱「Iris」分別源於[希臘語](../Page/希臘語.md "wikilink")（意為「[彩虹](../Page/彩虹.md "wikilink")」）及[鳶尾花](../Page/鳶尾屬.md "wikilink")，而鳶尾花的花語是「傳遞愛」\[4\]。
+組合名稱「Iris」分別源於[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（意為「[彩虹](../Page/彩虹.md "wikilink")」）及[鳶尾花](https://zh.wikipedia.org/wiki/鳶尾屬 "wikilink")，而鳶尾花的花語是「傳遞愛」\[4\]。
 
 ## 成員
 
@@ -46,20 +46,20 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/茜屋日海夏.md" title="wikilink">茜屋日海夏</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/茜屋日海夏" title="wikilink">茜屋日海夏</a><br />
 （）</p></td>
 <td></td>
-<td><p><a href="../Page/秋田縣.md" title="wikilink">秋田縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/秋田縣" title="wikilink">秋田縣</a></p></td>
 <td><p>161cm</p></td>
 <td><p><strong>紫色</strong></p></td>
 <td><p>ちゃん</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/若井友希.md" title="wikilink">若井友希</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/若井友希" title="wikilink">若井友希</a><br />
 （）</p></td>
 <td></td>
-<td><p><a href="../Page/岐阜縣.md" title="wikilink">岐阜縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜縣</a></p></td>
 <td><p>145cm</p></td>
 <td><p><strong>紅色</strong></p></td>
 <td><p>わかち</p></td>
@@ -76,7 +76,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/澀谷梓希.md" title="wikilink">澀谷梓希</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/澀谷梓希" title="wikilink">澀谷梓希</a><br />
 （）</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
@@ -320,10 +320,10 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 
   -
 
-[分類:日本配音員團體](../Page/分類:日本配音員團體.md "wikilink")
-[分類:日本演唱團體](../Page/分類:日本演唱團體.md "wikilink")
-[分類:動畫歌手](../Page/分類:動畫歌手.md "wikilink")
-[分類:愛貝克思集團藝人](../Page/分類:愛貝克思集團藝人.md "wikilink")
+[分類:日本配音員團體](https://zh.wikipedia.org/wiki/分類:日本配音員團體 "wikilink")
+[分類:日本演唱團體](https://zh.wikipedia.org/wiki/分類:日本演唱團體 "wikilink")
+[分類:動畫歌手](https://zh.wikipedia.org/wiki/分類:動畫歌手 "wikilink")
+[分類:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/分類:愛貝克思集團藝人 "wikilink")
 
 1.
 

@@ -1,17 +1,18 @@
 《**ON
-異常犯罪搜查官·藤堂比奈子**》是日本[富士電視台](../Page/富士電視台.md "wikilink")、[關西電視台](../Page/關西電視台.md "wikilink")2016年製作播出的電視劇。由[白木啟一郎](../Page/白木啟一郎.md "wikilink")、[寶來忠昭執導](../Page/寶來忠昭.md "wikilink")，
+異常犯罪搜查官·藤堂比奈子**》是日本[富士電視台](../Page/富士電視台.md "wikilink")、[關西電視台](../Page/關西電視台.md "wikilink")2016年製作播出的電視劇。由[白木啟一郎](https://zh.wikipedia.org/wiki/白木啟一郎 "wikilink")、[寶來忠昭執導](https://zh.wikipedia.org/wiki/寶來忠昭 "wikilink")，
 編劇，波瑠主演，於2016年7月12日首播，2016年9月6日結束。
 
 ## 簡介
 
 該劇改編自內藤了的小說《ON
 獵奇犯罪搜查班藤堂比奈子》，講述了擁有過目不忘的記憶力的新人刑警藤堂比奈子與充滿個性的夥伴們一起偵破各種奇案的故事。
-成績優秀的員警學校畢業生的藤堂比奈子（[波瑠飾](../Page/波瑠.md "wikilink")）是警視廳搜查一課的新人刑警，她總是隨身攜帶著母親的遺物、一個[七味粉罐子作為護身符](../Page/七味粉.md "wikilink")，吃什麼都要撒一點，周圍的人都覺得她是個怪人。憑藉著過目不忘的驚人記憶力，她與前輩刑警、死宅法醫等充滿個性的夥伴們一起，解決一個又一個十分獵奇的殺人案件。雖然表面上看起來開朗又認真，但其實比奈子的心中也有著不為人知的陰影。
+成績優秀的員警學校畢業生的藤堂比奈子（[波瑠飾](../Page/波瑠.md "wikilink")）是警視廳搜查一課的新人刑警，她總是隨身攜帶著母親的遺物、一個[七味粉罐子作為護身符](https://zh.wikipedia.org/wiki/七味粉 "wikilink")，吃什麼都要撒一點，周圍的人都覺得她是個怪人。憑藉著過目不忘的驚人記憶力，她與前輩刑警、死宅法醫等充滿個性的夥伴們一起，解決一個又一個十分獵奇的殺人案件。雖然表面上看起來開朗又認真，但其實比奈子的心中也有著不為人知的陰影。
 
 ## 主要角色
 
   - 藤堂比奈子（25）（[波瑠](../Page/波瑠.md "wikilink")
-    飾，童年：[藤澤遙](../Page/藤澤遙.md "wikilink") 飾）
+    飾，童年：[藤澤遙](https://zh.wikipedia.org/wiki/藤澤遙 "wikilink")
+    飾）
 
 <!-- end list -->
 
@@ -75,7 +76,7 @@
 
 <!-- end list -->
 
-  - 加藤邦彦（[是近敦之](../Page/是近敦之.md "wikilink") 飾）
+  - 加藤邦彦（[是近敦之](https://zh.wikipedia.org/wiki/是近敦之 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -131,7 +132,7 @@
 
 <!-- end list -->
 
-  - 藤川 （[不破萬作](../Page/不破萬作.md "wikilink") 飾）
+  - 藤川 （[不破萬作](https://zh.wikipedia.org/wiki/不破萬作 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -157,7 +158,7 @@
 
 <!-- end list -->
 
-  - 宇田川早苗（[柏原優美](../Page/柏原優美.md "wikilink") 飾）
+  - 宇田川早苗（[柏原優美](https://zh.wikipedia.org/wiki/柏原優美 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -174,7 +175,7 @@
 
 <!-- end list -->
 
-  - 柏木啓治（32）（[上地慶](../Page/上地慶.md "wikilink") 飾）
+  - 柏木啓治（32）（[上地慶](https://zh.wikipedia.org/wiki/上地慶 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -183,8 +184,8 @@
 <!-- end list -->
 
   - 宇田川早苗的父親（ 飾）
-    美洲豹快遞社長（[新富重夫](../Page/新富重夫.md "wikilink") 飾）
-    發現鈴木仁美屍體的男人（[權藤昌弘](../Page/權藤昌弘.md "wikilink") 飾）
+    美洲豹快遞社長（[新富重夫](https://zh.wikipedia.org/wiki/新富重夫 "wikilink") 飾）
+    發現鈴木仁美屍體的男人（[權藤昌弘](https://zh.wikipedia.org/wiki/權藤昌弘 "wikilink") 飾）
 
 #### 第2話
 
@@ -204,7 +205,7 @@
 
 <!-- end list -->
 
-  - 霜川榮太（38）（[神農直隆](../Page/神農直隆.md "wikilink") 飾）
+  - 霜川榮太（38）（[神農直隆](https://zh.wikipedia.org/wiki/神農直隆 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -212,7 +213,7 @@
 
 <!-- end list -->
 
-  - 霜川雄太（35）（[廣瀨剛進](../Page/廣瀨剛進.md "wikilink") 飾）
+  - 霜川雄太（35）（[廣瀨剛進](https://zh.wikipedia.org/wiki/廣瀨剛進 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -272,7 +273,7 @@
 
 <!-- end list -->
 
-  - 深町涼乃（24）（[藤波優紀](../Page/藤波優紀.md "wikilink") 飾）
+  - 深町涼乃（24）（[藤波優紀](https://zh.wikipedia.org/wiki/藤波優紀 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -289,12 +290,12 @@
 <!-- end list -->
 
   - 吉田遙香的同學們
-    （[高木煌大](../Page/高木煌大.md "wikilink")，[石倉來透](../Page/石倉來透.md "wikilink")，[荒川梨杏](../Page/荒川梨杏.md "wikilink")
+    （[高木煌大](https://zh.wikipedia.org/wiki/高木煌大 "wikilink")，[石倉來透](https://zh.wikipedia.org/wiki/石倉來透 "wikilink")，[荒川梨杏](https://zh.wikipedia.org/wiki/荒川梨杏 "wikilink")
     飾）
 
 #### 第4話
 
-  - 小野寺誠 （[藤村直樹](../Page/藤村直樹.md "wikilink") 飾）
+  - 小野寺誠 （[藤村直樹](https://zh.wikipedia.org/wiki/藤村直樹 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -302,7 +303,7 @@
 
 #### 第5話
 
-  - 久保一彌（27）（[中林大樹](../Page/中林大樹.md "wikilink") 飾）
+  - 久保一彌（27）（[中林大樹](https://zh.wikipedia.org/wiki/中林大樹 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -310,7 +311,7 @@
 
 <!-- end list -->
 
-  - 壬生 （[利重剛](../Page/利重剛.md "wikilink") 飾）
+  - 壬生 （[利重剛](https://zh.wikipedia.org/wiki/利重剛 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -318,7 +319,7 @@
 
 <!-- end list -->
 
-  - 伊勢崎久留美 （[田鍋梨梨花](../Page/田鍋梨梨花.md "wikilink") 飾）
+  - 伊勢崎久留美 （[田鍋梨梨花](https://zh.wikipedia.org/wiki/田鍋梨梨花 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -326,7 +327,7 @@
 
 <!-- end list -->
 
-  - 戶川京香 （[町田佳代](../Page/町田佳代.md "wikilink") 飾）
+  - 戶川京香 （[町田佳代](https://zh.wikipedia.org/wiki/町田佳代 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -350,7 +351,7 @@
 
 <!-- end list -->
 
-  - 稻富信吾（[浜田晃](../Page/浜田晃.md "wikilink") 飾）
+  - 稻富信吾（[浜田晃](https://zh.wikipedia.org/wiki/浜田晃 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -358,7 +359,7 @@
 
 <!-- end list -->
 
-  - 坂田 大吉（[櫻木健一](../Page/櫻木健一.md "wikilink") 飾）
+  - 坂田 大吉（[櫻木健一](https://zh.wikipedia.org/wiki/櫻木健一 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -366,7 +367,7 @@
 
 <!-- end list -->
 
-  - 大崎奈津子（[今本洋子](../Page/今本洋子.md "wikilink") 飾）
+  - 大崎奈津子（[今本洋子](https://zh.wikipedia.org/wiki/今本洋子 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -374,7 +375,7 @@
 
 <!-- end list -->
 
-  - 西澤（[大石吾朗](../Page/大石吾朗.md "wikilink") 飾）
+  - 西澤（[大石吾朗](https://zh.wikipedia.org/wiki/大石吾朗 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -382,7 +383,7 @@
 
 <!-- end list -->
 
-  - 芙巳子（[角替和枝](../Page/角替和枝.md "wikilink") 飾）
+  - 芙巳子（[角替和枝](https://zh.wikipedia.org/wiki/角替和枝 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -416,11 +417,12 @@
 
   - 浦澤清的女兒（ 飾）
     浦澤清的手下（ 飾）
-    小山管理官 （[小須康人](../Page/小須康人.md "wikilink") 飾）
+    小山管理官 （[小須康人](https://zh.wikipedia.org/wiki/小須康人 "wikilink") 飾）
 
 #### 第7話
 
-  - 伊集院希良梨（伊集院きらり）（[松本穗香](../Page/松本穗香.md "wikilink") 飾）
+  - 伊集院希良梨（伊集院きらり）（[松本穗香](https://zh.wikipedia.org/wiki/松本穗香 "wikilink")
+    飾）
 
 <!-- end list -->
 
@@ -437,7 +439,7 @@
 
 #### 第8話
 
-  - 真壁永久（[蘆名星](../Page/蘆名星.md "wikilink") 飾）
+  - 真壁永久（[蘆名星](https://zh.wikipedia.org/wiki/蘆名星 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -447,8 +449,8 @@
 
   - 原作：内藤了『ON 獵奇犯罪捜査班・藤堂比奈子』系列（刊載）
   - 企劃：[KADOKAWA](../Page/KADOKAWA.md "wikilink")
-  - 製片：[河西秀幸](../Page/河西秀幸.md "wikilink")、[萩原崇](../Page/萩原崇.md "wikilink")、[石田麻衣](../Page/石田麻衣.md "wikilink")
-  - 導演：[白木啓一郎](../Page/白木啓一郎.md "wikilink")
+  - 製片：[河西秀幸](https://zh.wikipedia.org/wiki/河西秀幸 "wikilink")、[萩原崇](https://zh.wikipedia.org/wiki/萩原崇 "wikilink")、[石田麻衣](https://zh.wikipedia.org/wiki/石田麻衣 "wikilink")
+  - 導演：[白木啓一郎](https://zh.wikipedia.org/wiki/白木啓一郎 "wikilink")
   - 劇本：古家和尚
   - 音樂：[菅野祐悟](../Page/菅野祐悟.md "wikilink")
   - 製作：[富士電視台](../Page/富士電視台.md "wikilink")
@@ -456,7 +458,7 @@
 
 ## 音乐
 
-  - 主题曲：《》，演唱：[［Alexandros］](../Page/［Alexandros］.md "wikilink")
+  - 主题曲：《》，演唱：[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")
 
 ## 播出日程及收視率
 

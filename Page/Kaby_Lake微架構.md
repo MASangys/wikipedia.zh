@@ -1,11 +1,11 @@
 **Kaby
-Lake**是[Intel发布的](../Page/Intel.md "wikilink")[14纳米处理器架构代号](../Page/14纳米制程.md "wikilink")，接替[Skylake微架構](../Page/Skylake微架構.md "wikilink")。\[1\]Kaby
+Lake**是[Intel发布的](https://zh.wikipedia.org/wiki/Intel "wikilink")[14纳米处理器架构代号](https://zh.wikipedia.org/wiki/14纳米制程 "wikilink")，接替[Skylake微架構](../Page/Skylake微架構.md "wikilink")。\[1\]Kaby
 Lake已于2017年1月发售\[2\]。
 
 Kaby Lake是Intel第一款只支持[Windows
-10以及之后版本](../Page/Windows_10.md "wikilink")[Windows作業系統的处理器架构](../Page/Windows作業系統.md "wikilink")\[3\]
+10以及之后版本](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows作業系統的处理器架构](https://zh.wikipedia.org/wiki/Windows作業系統 "wikilink")\[3\]
 
-Skylake原定继任者是[10纳米](../Page/10纳米制程.md "wikilink")，但2015年7月16日已宣布，Cannonlake被延後到14nm已無法再繼續提供更多性能後才會推出。\[4\]\[5\]
+Skylake原定继任者是[10纳米](https://zh.wikipedia.org/wiki/10纳米制程 "wikilink")，但2015年7月16日已宣布，Cannonlake被延後到14nm已無法再繼續提供更多性能後才會推出。\[4\]\[5\]
 
 ## 特性
 
@@ -23,16 +23,17 @@ Main10/10-bit和[VP9](../Page/VP9.md "wikilink")
 10-bit硬件视频解码能力。\[9\]\[10\]\[11\]
 
 另外，搭载Kaby
-Lake架构的Pentium处理器支持[超线程技术](../Page/超线程技术.md "wikilink")，即2C4T，而非以往的2C2T。
+Lake架构的Pentium处理器支持[超线程技术](https://zh.wikipedia.org/wiki/超线程技术 "wikilink")，即2C4T，而非以往的2C2T。
 
 ## 架构
 
-  - [14纳米制程](../Page/14纳米制程.md "wikilink")
-  - 采用与Skylake处理器相同[LGA 1151插座](../Page/LGA_1151.md "wikilink")，且两者可以兼容
+  - [14纳米制程](https://zh.wikipedia.org/wiki/14纳米制程 "wikilink")
+  - 采用与Skylake处理器相同[LGA
+    1151插座](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink")，且两者可以兼容
   - 200系列芯片组（Union Point）
   - [热设计功耗](../Page/热设计功耗.md "wikilink")（TDP）最高95W（LGA 1151）
-  - 最高可支持双通道记忆体，支援[DDR3L](../Page/DDR3.md "wikilink")-1600
-    (1.35V，最高32GB)及[DDR4](../Page/DDR4.md "wikilink")-2400
+  - 最高可支持双通道记忆体，支援[DDR3L](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600
+    (1.35V，最高32GB)及[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400
     (1.2V，最高64GB)，即使在100系列芯片组使用DDR4-2400也不会降至2133，但Skylake在200系列芯片组使用DDR4-2400则会降至2133
   - 支持16个[PCI Express](../Page/PCI_Express.md "wikilink")
     3.0通道从CPU，24个[PCI
@@ -42,12 +43,14 @@ Lake架构的Pentium处理器支持[超线程技术](../Page/超线程技术.md 
   - 支持[Thunderbolt 3](../Page/Thunderbolt.md "wikilink")
   - 搭载Iris Plus/Iris Pro高级显示晶片上的处理器有额外64至128MB L4 eDRAM缓存(只限U/H型处理器)
   - 最低2个核心，最多4个核心作为默认主流配置
-  - 支持Intel [Optane技术](../Page/3D_XPoint.md "wikilink")
+  - 支持Intel
+    [Optane技术](https://zh.wikipedia.org/wiki/3D_XPoint "wikilink")
   - Core i3/i5/i7支援AVX2指令集；Pentium及Celeron只支援 SSE 4.1/4.2
 
 ## 兼容性
 
-2016年1月15日，微软宣布[Windows 10将是唯一支持Kaby](../Page/Windows_10.md "wikilink")
+2016年1月15日，微软宣布[Windows
+10将是唯一支持Kaby](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
 Lake处理器的Windows平台。微软表示这是为了能把资源专注于单一版本的操作系统以及处理器，以提高稳定性，虽然有网友测试过可以安装在Windows
 7/8，但却缺少了一些安全性更新及驱动程式(如内显驱动)，玩家只能放弃内置显示核心使用独立显示卡提供螢幕输出，不过Linux
 及苹果MacOS不受影响。\[12\]\[13\]

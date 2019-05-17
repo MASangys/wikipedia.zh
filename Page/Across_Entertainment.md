@@ -22,7 +22,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
 <!-- end list -->
 
-  - [加藤健](../Page/加藤健_\(聲優\).md "wikilink")
+  - [加藤健](https://zh.wikipedia.org/wiki/加藤健_\(聲優\) "wikilink")
 
   - 龜岡孝洋
 
@@ -49,7 +49,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
 <!-- end list -->
 
-  - [長谷川芳明](../Page/長谷川芳明.md "wikilink")
+  - [長谷川芳明](https://zh.wikipedia.org/wiki/長谷川芳明 "wikilink")
 
   - [花江夏樹](../Page/花江夏樹.md "wikilink")
 
@@ -123,7 +123,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
   - [金田朋子](../Page/金田朋子.md "wikilink")
 
   -
-  - [清都亞理沙](../Page/清都亞理沙.md "wikilink")
+  - [清都亞理沙](https://zh.wikipedia.org/wiki/清都亞理沙 "wikilink")
 
   - 國仲奏繪
 
@@ -170,7 +170,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
 <!-- end list -->
 
-  - [平田裕香](../Page/平田裕香.md "wikilink")（業務提攜）
+  - [平田裕香](https://zh.wikipedia.org/wiki/平田裕香 "wikilink")（業務提攜）
 
   - 廣瀨佐夜
 
@@ -192,7 +192,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
 <!-- end list -->
 
-  - [湯淺楓](../Page/湯淺楓.md "wikilink")
+  - [湯淺楓](https://zh.wikipedia.org/wiki/湯淺楓 "wikilink")
 
 ### 預留
 
@@ -354,10 +354,10 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
   - \-{辻}-文丈
 
-  - [中川明](../Page/中川明_\(聲優\).md "wikilink")
+  - [中川明](https://zh.wikipedia.org/wiki/中川明_\(聲優\) "wikilink")
 
   - [浪川大輔](../Page/浪川大輔.md "wikilink")（現所屬：[Stay
-    Luck代表](../Page/Stay_Luck.md "wikilink")）
+    Luck代表](https://zh.wikipedia.org/wiki/Stay_Luck "wikilink")）
 
   - 野澤大悟（現所屬：bamboo）
 
@@ -376,7 +376,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
   - \[5\]
 
   -
-  - [小牧未侑](../Page/小牧未侑.md "wikilink")（現所屬：自由職業）\[6\]
+  - [小牧未侑](https://zh.wikipedia.org/wiki/小牧未侑 "wikilink")（現所屬：自由職業）\[6\]
 
   - （現所屬：Extension）\[7\]
 
@@ -398,7 +398,7 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
   - \[8\]
 
-  - [西口杏里沙](../Page/西口杏里沙.md "wikilink")（引退）\[9\]\[10\]
+  - [西口杏里沙](https://zh.wikipedia.org/wiki/西口杏里沙 "wikilink")（引退）\[9\]\[10\]
 
   - （自由職業）
 
@@ -422,7 +422,8 @@ Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
 ## 從Across Entertainment獨立的事務所
 
-  - [Stay Luck](../Page/Stay_Luck.md "wikilink")（2012年）
+  - [Stay
+    Luck](https://zh.wikipedia.org/wiki/Stay_Luck "wikilink")（2012年）
 
 ## 參考來源
 

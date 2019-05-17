@@ -22,7 +22,7 @@
 
   - [李準赫](../Page/李準赫.md "wikilink")：區公所職員 崔洙哲課長
 
-  - [金炳哲](../Page/金炳哲.md "wikilink")：區公所職員 鎮萬
+  - [金炳哲](https://zh.wikipedia.org/wiki/金炳哲 "wikilink")：區公所職員 鎮萬
 
 ## 外部連結
 

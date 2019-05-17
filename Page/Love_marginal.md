@@ -1,11 +1,11 @@
 **《Love
-marginal》**是[μ's的迷你小队](../Page/μ's.md "wikilink")“Printemps”在2011年5月25日发售的首张单曲，也是整个“LoveLive\!”企划发表的首张小队单曲。
+marginal》**是[μ's的迷你小队](https://zh.wikipedia.org/wiki/μ's "wikilink")“Printemps”在2011年5月25日发售的首张单曲，也是整个“LoveLive\!”企划发表的首张小队单曲。
 
 ## 概况
 
-“Printemps”一词在[法语中表示](../Page/法语.md "wikilink")“春天”，小组成员为高坂穗乃果（[新田惠海](../Page/新田惠海.md "wikilink")）、南小鸟（[内田彩](../Page/内田彩.md "wikilink")）和小泉花阳（[久保由利香](../Page/久保由利香.md "wikilink")）。除Printemps原版外，三人的角色个人专辑分别收录了各自的独唱版本。本单曲初回限定盘随机封入Printemps成员卡片一张（共3种）。
+“Printemps”一词在[法语中表示](../Page/法语.md "wikilink")“春天”，小组成员为高坂穗乃果（[新田惠海](../Page/新田惠海.md "wikilink")）、南小鸟（[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")）和小泉花阳（[久保由利香](https://zh.wikipedia.org/wiki/久保由利香 "wikilink")）。除Printemps原版外，三人的角色个人专辑分别收录了各自的独唱版本。本单曲初回限定盘随机封入Printemps成员卡片一张（共3种）。
 
-另外，2014年在[台北举办的](../Page/台北.md "wikilink")“[ANIMAX](../Page/ANIMAX.md "wikilink")
+另外，2014年在[台北举办的](https://zh.wikipedia.org/wiki/台北 "wikilink")“[ANIMAX](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")
 MUSIX 2014 TAIWAN
 Special”活动中，在《LoveLive\!》中为绚濑绘里配音的[南條愛乃](../Page/南條愛乃.md "wikilink")以及为圆田海未配音的[三森铃子](../Page/三森铃子.md "wikilink")在现场翻唱了《Love
 marginal》。

@@ -1,11 +1,11 @@
 **RPG Maker
-MV**為[角色扮演遊戲的製作工具](../Page/角色扮演遊戲.md "wikilink")。由[KADOKAWA的尾島陽兒帶領製作](../Page/KADOKAWA.md "wikilink")、[Spike
+MV**為[角色扮演遊戲的製作工具](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")。由[KADOKAWA的尾島陽兒帶領製作](../Page/KADOKAWA.md "wikilink")、[Spike
 Chunsoft販售](../Page/Spike_Chunsoft.md "wikilink")。Steam多語言（含中文）版在2015年10月23日發售\[1\]，日文版在2015年12月17日發售。
 
 ## 概要
 
 [RPG Maker VX
-Ace的後繼版本](../Page/RPG_Maker_VX.md "wikilink")，PC版[RPG製作大師的第](../Page/RPG製作大師.md "wikilink")11代。根據購買版本，所附贈的素材數量也不同。是歷代圖片、音樂等素材附贈最多的一次。[Steam版能透過](../Page/Steam.md "wikilink")[DLC來額外購買素材](../Page/追加下載內容.md "wikilink")。
+Ace的後繼版本](../Page/RPG_Maker_VX.md "wikilink")，PC版[RPG製作大師的第](../Page/RPG製作大師.md "wikilink")11代。根據購買版本，所附贈的素材數量也不同。是歷代圖片、音樂等素材附贈最多的一次。[Steam版能透過](../Page/Steam.md "wikilink")[DLC來額外購買素材](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")。
 
 操作性與前作無太大差異，但增加支援觸控面板、選單按鈕放大、戰鬥畫面支援第一人稱或橫版戰鬥等，官方插件也公開發布。
 
@@ -20,20 +20,20 @@ Windows版本有提供體驗版使用。體驗版製作的遊戲可以在購買�
 
 ### 多平台支援
 
-名稱中的「MV」是指「Multi-View」，即為「多觀點」的意思。遊戲可以發布在[Windows](../Page/Windows.md "wikilink")、[Mac](../Page/OS_X.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[網頁瀏覽器等平台](../Page/網頁瀏覽器.md "wikilink")。
+名稱中的「MV」是指「Multi-View」，即為「多觀點」的意思。遊戲可以發布在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[網頁瀏覽器等平台](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。
 
-基本型態是由[HTML5與](../Page/HTML5.md "wikilink")[JavaScript組成](../Page/JavaScript.md "wikilink")，專為在[網頁瀏覽器上遊玩所設計](../Page/網頁瀏覽器.md "wikilink")，經過轉換也能夠發布在各個平台
+基本型態是由[HTML5與](../Page/HTML5.md "wikilink")[JavaScript組成](../Page/JavaScript.md "wikilink")，專為在[網頁瀏覽器上遊玩所設計](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，經過轉換也能夠發布在各個平台
 
-Windows與Mac版使用NW.js格式發布。Android與iOS版使用[Crosswalk與](../Page/Crosswalk.md "wikilink")[Apache
-Cordova格式發布](../Page/Apache_Cordova.md "wikilink")。[Linux與](../Page/Linux.md "wikilink")[Windows商店版雖然尚未支援](../Page/Windows商店.md "wikilink")，但如果開發環境符合，是可以自行發布的。
+Windows與Mac版使用NW.js格式發布。Android與iOS版使用[Crosswalk與](https://zh.wikipedia.org/wiki/Crosswalk "wikilink")[Apache
+Cordova格式發布](https://zh.wikipedia.org/wiki/Apache_Cordova "wikilink")。[Linux與](../Page/Linux.md "wikilink")[Windows商店版雖然尚未支援](https://zh.wikipedia.org/wiki/Windows商店 "wikilink")，但如果開發環境符合，是可以自行發布的。
 
-在不同平台上，被讀取的音樂格式是不同的。Windows版使用[ogg格式](../Page/ogg.md "wikilink")、手機板使用[m4a格式](../Page/進階音訊編碼.md "wikilink")。如果沒有必要的文件，遊戲會強制停止。但在測試時難以察覺，這點要注意。
+在不同平台上，被讀取的音樂格式是不同的。Windows版使用[ogg格式](https://zh.wikipedia.org/wiki/ogg "wikilink")、手機板使用[m4a格式](../Page/進階音訊編碼.md "wikilink")。如果沒有必要的文件，遊戲會強制停止。但在測試時難以察覺，這點要注意。
 
 影片與圖片則建議使用[WebM與](../Page/WebM.md "wikilink")[WebP](../Page/WebP.md "wikilink")。
 
 ### Windows與Mac OSX對應
 
-過去[RPG製作大師系列僅支援Windows系統](../Page/RPG製作大師.md "wikilink")，本作是系列首次支援[Mac系統](../Page/Mac.md "wikilink")。為了Windows與Mac的相容性，部分編輯器使用[Qt來開發](../Page/Qt.md "wikilink")。Windows版由多家出版商分別販售，但Mac版僅能透過Steam購買。\[2\]
+過去[RPG製作大師系列僅支援Windows系統](../Page/RPG製作大師.md "wikilink")，本作是系列首次支援[Mac系統](https://zh.wikipedia.org/wiki/Mac "wikilink")。為了Windows與Mac的相容性，部分編輯器使用[Qt來開發](../Page/Qt.md "wikilink")。Windows版由多家出版商分別販售，但Mac版僅能透過Steam購買。\[2\]
 
 ### 操作支援
 
@@ -54,7 +54,7 @@ RTP（遊戲運行需要的檔案）機制被廢除了。由於在遊戲前安�
 ## RPG ATSUMARU
 
 日文原名為「RPG
-アツマール」，是[niconico動畫於](../Page/niconico動畫.md "wikilink")2016年11月24日推出RPGアツマール服務，能將自製遊戲上傳登錄，上傳成功的遊戲即可直接在該服務網頁上遊玩、留言。軟體的編輯工具列上也出現可直接「分享至RPGアツマール」的選項。只要擁有niconico動畫帳號，便能在不同載具間，如個人電腦或智慧型手機（Android、iOS）上持有共同存檔紀錄，投稿者也能領取及支付獎勵金。
+アツマール」，是[niconico動畫於](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")2016年11月24日推出RPGアツマール服務，能將自製遊戲上傳登錄，上傳成功的遊戲即可直接在該服務網頁上遊玩、留言。軟體的編輯工具列上也出現可直接「分享至RPGアツマール」的選項。只要擁有niconico動畫帳號，便能在不同載具間，如個人電腦或智慧型手機（Android、iOS）上持有共同存檔紀錄，投稿者也能領取及支付獎勵金。
 遊戲容量的上傳限制為300MB，其中個別檔案的限制是：圖像約5MB左右、聲音約10MB、文字約2MB左右、動畫約10MB左右。必須遵循素材的使用著作權。
 
 ## 參考資料

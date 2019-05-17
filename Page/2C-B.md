@@ -1,12 +1,12 @@
 **2,5-二甲氧基-4-溴[苯乙胺](../Page/苯乙胺.md "wikilink")**（2,5-dimethoxy-4-bromophenethylamine，**2C-B**），一種隸屬的致幻劑，由[Alexander
-Shulgin於](../Page/亚历山大·舒尔金.md "wikilink")1974年合成，其製備與應用劑量（12-24mg）在[PiHKAL一書中均有闡明](../Page/PiHKAL.md "wikilink")。可經口服或吸入途徑給藥。
+Shulgin於](../Page/亚历山大·舒尔金.md "wikilink")1974年合成，其製備與應用劑量（12-24mg）在[PiHKAL一書中均有闡明](https://zh.wikipedia.org/wiki/PiHKAL "wikilink")。可經口服或吸入途徑給藥。
 
 在街頭販售時，2C-B多以粉劑、貼片或片劑形式流通，其上印有數字或俚語，藉此區分於其他藥物。\[1\]
 
 ## 歷史
 
 2C-B由[Alexander
-Shulgin在](../Page/Alexander_Shulgin.md "wikilink")1974年開發。惠於藥效短暫、性質溫和、副作用微弱的特性\[2\]，2C-B被認為是治療[精神疾病的特效藥之一而為醫學界所歡迎](../Page/精神疾病.md "wikilink")，不久即出現對2C-B的娛樂性使用。德國製藥企業[Drittewelle將](../Page/Drittewelle.md "wikilink")2C-B以"Erox"\[3\]的商品名作為[春藥合法銷售](../Page/春藥.md "wikilink")\[4\]，此為2C-B的第一次商業應用。荷蘭境內的一度有售諢名"Nexus"的2C-B片劑。
+Shulgin在](https://zh.wikipedia.org/wiki/Alexander_Shulgin "wikilink")1974年開發。惠於藥效短暫、性質溫和、副作用微弱的特性\[2\]，2C-B被認為是治療[精神疾病的特效藥之一而為醫學界所歡迎](https://zh.wikipedia.org/wiki/精神疾病 "wikilink")，不久即出現對2C-B的娛樂性使用。德國製藥企業[Drittewelle將](https://zh.wikipedia.org/wiki/Drittewelle "wikilink")2C-B以"Erox"\[3\]的商品名作為[春藥合法銷售](https://zh.wikipedia.org/wiki/春藥 "wikilink")\[4\]，此為2C-B的第一次商業應用。荷蘭境內的一度有售諢名"Nexus"的2C-B片劑。
 
 1994年12月20日,美国缉毒局（Drug Enforcement
 Administration）於*[聯邦公報](../Page/聯邦公報.md "wikilink")*(Federal

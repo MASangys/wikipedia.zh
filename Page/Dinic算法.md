@@ -1,4 +1,4 @@
-**Dinic算法（又称Dinitz算法）**是一个在[网络流中计算](../Page/网络流.md "wikilink")[最大流的](../Page/最大流.md "wikilink")[强多项式复杂度的算法](../Page/时间复杂度.md "wikilink")，设想由[以色列](../Page/以色列.md "wikilink")（[前苏联](../Page/前苏联.md "wikilink")）的计算机科学家Yefim
+**Dinic算法（又称Dinitz算法）**是一个在[网络流中计算](../Page/网络流.md "wikilink")[最大流的](https://zh.wikipedia.org/wiki/最大流 "wikilink")[强多项式复杂度的算法](../Page/时间复杂度.md "wikilink")，设想由[以色列](../Page/以色列.md "wikilink")（[前苏联](https://zh.wikipedia.org/wiki/前苏联 "wikilink")）的计算机科学家Yefim
 (Chaim) A. Dinitz在1970年提出。\[1\] 算法 \(O(V^2 E)\)
 的时间复杂度类似于[Edmonds–Karp算法](../Page/Edmonds–Karp算法.md "wikilink")，其时间复杂度为
 \(O(VE^2)\)
@@ -8,7 +8,7 @@ graph）*以及*阻塞流（blocking flow）*实现其性能。
 ## 历史
 
 [Yefim
-Dinitz在Adel](../Page/Yefim_Dinitz.md "wikilink")'son-Vel'sky（[AVL树的发明者之一](../Page/AVL树.md "wikilink")）的算法课的课前活动上发明了这个算法。当时他不知道关于[Ford–Fulkerson算法的基本事实](../Page/Ford–Fulkerson算法.md "wikilink")。\[2\]
+Dinitz在Adel](https://zh.wikipedia.org/wiki/Yefim_Dinitz "wikilink")'son-Vel'sky（[AVL树的发明者之一](../Page/AVL树.md "wikilink")）的算法课的课前活动上发明了这个算法。当时他不知道关于[Ford–Fulkerson算法的基本事实](../Page/Ford–Fulkerson算法.md "wikilink")。\[2\]
 
 Dinitz在1969年一月向他人公布了他发明的算法，又在1970年将其发布在*Doklady Akademii nauk SSSR杂志*上。
 在1974年，Shimon Even和(他之后的博士学生)Alon Itai在海法的以色列理工学院对Dinitz的算法以及Alexander
@@ -75,13 +75,13 @@ Dinitz算法和[Edmonds–Karp算法在](../Page/Edmonds–Karp算法.md "wikili
 可以证明每轮算法中找到的阻塞流的边数至少增加1，因此整个网络中最多有\(n-1\)条阻塞流,
 \(n\)为网络中顶点的数量。高度标号\(G_L\)可以在\(O(E)\)的时间复杂度内用[BFS构建](../Page/广度优先搜索.md "wikilink")，一条阻塞流可以在\(O(VE)\)的复杂度内构建。因此，算法的时间复杂度为\(O(V^2 E)\).
 
-使用一种叫做[动态树的数据结构](../Page/动态树.md "wikilink")，找到阻塞流的时间复杂度可以降到\(O(E \log V)\)，此时Dinic算法的复杂度可以降到\(O(VE \log V)\).
+使用一种叫做[动态树的数据结构](https://zh.wikipedia.org/wiki/动态树 "wikilink")，找到阻塞流的时间复杂度可以降到\(O(E \log V)\)，此时Dinic算法的复杂度可以降到\(O(VE \log V)\).
 
 ### 特殊情况
 
 在具有单位容量的网络中，Dinic算法可以在更短的时间内输出结果。每条阻塞流可以在\(O(E)\)的时间内构建，并且阶段（phases）的数量不超过\(O(\sqrt{E})\)或\(O(V^{2/3})\)。此时算法的复杂度为\(O(\min\{V^{2/3}, E^{1/2}\}E)\)。\[4\]
 
-在[二分图匹配问题的网络中](../Page/二分图.md "wikilink")，阶段的数量不超过\(O(\sqrt{V})\)，算法的时间复杂度不超过\(O(\sqrt{V} E)\)。这种算法又被叫做[Hopcroft-Karp算法](../Page/Hopcroft-Karp算法.md "wikilink")。更普遍的情况是，这种复杂度对*unit网络*
+在[二分图匹配问题的网络中](../Page/二分图.md "wikilink")，阶段的数量不超过\(O(\sqrt{V})\)，算法的时间复杂度不超过\(O(\sqrt{V} E)\)。这种算法又被叫做[Hopcroft-Karp算法](https://zh.wikipedia.org/wiki/Hopcroft-Karp算法 "wikilink")。更普遍的情况是，这种复杂度对*unit网络*
 — 网络中的顶点要么与源点相连，要么与汇点相连，要么是一个顶点的单一外向边，并且所有的容量限制都是整数。
 
 ## 参考文献

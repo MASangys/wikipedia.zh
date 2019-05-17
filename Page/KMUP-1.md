@@ -1,4 +1,4 @@
-**KMUP-1**是一種[黄嘌呤衍生物](../Page/黄嘌呤.md "wikilink")，具有[磷酸二酯酶抑制劑活性](../Page/磷酸二酯酶抑制药.md "wikilink")\[1\]。
+**KMUP-1**是一種[黄嘌呤衍生物](../Page/黄嘌呤.md "wikilink")，具有[磷酸二酯酶抑制劑活性](https://zh.wikipedia.org/wiki/磷酸二酯酶抑制药 "wikilink")\[1\]。
 
 ## 參考文獻
 

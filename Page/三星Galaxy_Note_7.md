@@ -1,24 +1,26 @@
 **三星Galaxy Note
-7**是[三星電子於](../Page/三星電子.md "wikilink")2016年推出的[平板式](../Page/平板手機.md "wikilink")[智能手機](../Page/智能手機.md "wikilink")，于[美國東部時間](../Page/美國東部時間.md "wikilink")2016年8月2日的[紐約](../Page/紐約.md "wikilink")「Galaxy
+7**是[三星電子於](../Page/三星電子.md "wikilink")2016年推出的[平板式](https://zh.wikipedia.org/wiki/平板手機 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，于[美國東部時間](https://zh.wikipedia.org/wiki/美國東部時間 "wikilink")2016年8月2日的[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")「Galaxy
 unpacked 2016」發布會，將此手機連同第二代Samsung Gear
 VR向全球發布，並隨即進行預售。\[1\]其前代型號為[Galaxy
-Note 5](../Page/Galaxy_Note_5.md "wikilink")，跳過「6」而直接推出「7」是由於三星希望將Galaxy
+Note
+5](https://zh.wikipedia.org/wiki/Galaxy_Note_5 "wikilink")，跳過「6」而直接推出「7」是由於三星希望將Galaxy
 Note與Galaxy S兩系列往後能「世代一致」，即同一年推出同一世代兩款手機，免卻消費者因兩部手機「同年推出，不同代號」而衍生疑惑。
 
-然而，因本産品於世界各地連番引發爆炸事故，三星最終決定作全球回收並停止生産，宣傳也全面下架，實際上本產品已經被三星放棄，並為三星業績以至[大韓民國經濟造成骨牌效應](../Page/大韓民國.md "wikilink")。而後調查結果是Galaxy
+然而，因本産品於世界各地連番引發爆炸事故，三星最終決定作全球回收並停止生産，宣傳也全面下架，實際上本產品已經被三星放棄，並為三星業績以至[大韓民國經濟造成骨牌效應](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。而後調查結果是Galaxy
 Note 7的爆炸原因在於電池與組件之間過於緊密所造成。
 
 2017年中，三星決定重新推出Galaxy Note 7翻新機，命名為「Galaxy Note Fan Edition」，简称「[Note
-FE](../Page/三星Galaxy_Note_FE.md "wikilink")」，其後於2017年7月7日正式在韓國發售。\[2\]\[3\]。
+FE](https://zh.wikipedia.org/wiki/三星Galaxy_Note_FE "wikilink")」，其後於2017年7月7日正式在韓國發售。\[2\]\[3\]。
 
 ## 外觀
 
 外觀設計在前代Galaxy Note 5的基礎上整合[Galaxy Note
-Edge及](../Page/Galaxy_Note_Edge.md "wikilink")[Galaxy S7
-edge的設計](../Page/Galaxy_S7.md "wikilink")，採用前後雙曲面玻璃、金屬邊框、不可拆卸的電池的設計。玻璃材質機件採用的是[康寧最新的第五代](../Page/康寧.md "wikilink")[大猩猩玻璃](../Page/大猩猩玻璃.md "wikilink")，合金邊框採用的是
+Edge及](https://zh.wikipedia.org/wiki/Galaxy_Note_Edge "wikilink")[Galaxy
+S7
+edge的設計](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")，採用前後雙曲面玻璃、金屬邊框、不可拆卸的電池的設計。玻璃材質機件採用的是[康寧最新的第五代](https://zh.wikipedia.org/wiki/康寧 "wikilink")[大猩猩玻璃](../Page/大猩猩玻璃.md "wikilink")，合金邊框採用的是
 AL7000
 航空[鋁合金](../Page/鋁合金.md "wikilink")。首發產品是瑪瑙黑色、珊瑚藍色、鈦銀色以及鉑金色的機身顏色，且有计划发布白色机身的版本（后因召回事件未能发布）。機身及[S
-Pen均具備IP](../Page/S_Pen.md "wikilink")68級別的抗水防塵設計，S
+Pen均具備IP](https://zh.wikipedia.org/wiki/S_Pen "wikilink")68級別的抗水防塵設計，S
 Pen在本型號也將防倒插設計加回。\[4\]
 
 ## 技術規格
@@ -26,11 +28,11 @@ Pen在本型號也將防倒插設計加回。\[4\]
 ### 硬體
 
 CPU採用了兩種型號，一種是國際版型號使用的[Samsung
-Exynos](../Page/Samsung_Exynos.md "wikilink")
-8890，另一種則是[北美市場和](../Page/北美.md "wikilink")[中國大陸市場的機型使用的](../Page/中國大陸.md "wikilink")[Snapdragon](../Page/Snapdragon.md "wikilink")820，根據既有的效能測試來看，散熱良好的情況下兩者的CPU效能相差無幾、GPU效能則互有勝負，不過其它功能支援是一樣的。RAM則維持在4GB，雙通道LPDDR4
+Exynos](https://zh.wikipedia.org/wiki/Samsung_Exynos "wikilink")
+8890，另一種則是[北美市場和](https://zh.wikipedia.org/wiki/北美 "wikilink")[中國大陸市場的機型使用的](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")820，根據既有的效能測試來看，散熱良好的情況下兩者的CPU效能相差無幾、GPU效能則互有勝負，不過其它功能支援是一樣的。RAM則維持在4GB，雙通道LPDDR4
 SDRAM的規格，未來中國市場還有6GB RAM的版本。\[5\]
 
-本代的標準型號（與電信業者客制型號相對）也具備雙[Nano-SIM卡槽](../Page/Nano-SIM.md "wikilink")（其中一個與MicroSD卡槽共用位置）、雙卡雙待功能，不過仍然不能同時使用兩張[SIM卡的數據網路](../Page/SIM卡.md "wikilink")，最高支援LTE
+本代的標準型號（與電信業者客制型號相對）也具備雙[Nano-SIM卡槽](https://zh.wikipedia.org/wiki/Nano-SIM "wikilink")（其中一個與MicroSD卡槽共用位置）、雙卡雙待功能，不過仍然不能同時使用兩張[SIM卡的數據網路](../Page/SIM卡.md "wikilink")，最高支援LTE
 Cat.12網路以及VoLTE。\[6\]支援的網路類型有2G GSM/GPRS/EDGE 850/900/1800/1900 MHz、2G
 CDMA 1xRTT 800/850/1900 MHz、3G TD-SCDMA 1900/2000 MHz、3G
 UMTS/HSDPA/HSUPA/HSPA+ 850/900/AWS(1700)/1900/2000/2100 MHz、4G
@@ -38,43 +40,45 @@ LTE-Advanced（FDD & TDD） 1-5/7-8/12-13/17-20/25-26/28-30/38-41頻帶。
 
 內存空間方面，只有64GB可選，未來中國市場將會有128GB的型號\[7\]，採用UFS 2.0界面，而前代Galaxy Note
 5缺備的[Micro
-SD卡擴充槽在此代回歸](../Page/Micro_SD.md "wikilink")，最大支援到256GB容量，不過是採用了當前較為常見的雙SIM卡+單SIM卡與Micro
+SD卡擴充槽在此代回歸](https://zh.wikipedia.org/wiki/Micro_SD "wikilink")，最大支援到256GB容量，不過是採用了當前較為常見的雙SIM卡+單SIM卡與Micro
 SD卡的與或式設計。電池容量提升至3,500 mAh，支援快速充電。與[Galaxy
-S7及](../Page/Galaxy_S7.md "wikilink")[Galaxy S7
-edge不同](../Page/Galaxy_S7.md "wikilink")，Galaxy Note 7採用USB
-Type-C作為[USB
+S7及](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")[Galaxy S7
+edge不同](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")，Galaxy Note
+7採用USB Type-C作為[USB
 3.0連接埠](../Page/USB_3.0.md "wikilink")，是Samsung手機系列中的首回。此外，本機還首次配備[虹膜解鎖功能](../Page/虹膜.md "wikilink")。\[8\]
 
 螢幕使用了三星電子自家的[Super
-AMOLED](../Page/Super_AMOLED.md "wikilink")、電容式觸控+電磁[手寫筆感應](../Page/手寫筆.md "wikilink")，對角線尺寸
-5.7 英吋，具備 2560×1440 Quad HD 的高解析度。三星在作業系統中也允許用家調整為 1920×1080 FHD，甚至到
-720p HD
-的解析度以降低GPU負擔及節省電力。電磁手寫筆採用無源式設計，主控IC依舊是[Wacom出品的](../Page/Wacom.md "wikilink")，壓力感應層級達4096級。\[9\]
+AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")、電容式觸控+電磁[手寫筆感應](https://zh.wikipedia.org/wiki/手寫筆 "wikilink")，對角線尺寸
+5.7 英吋，具備 2560×1440 Quad HD 100% DCI-P3 的HDR高解析度屏幕。三星在作業系統中也允許用家調整為
+1920×1080 FHD，甚至到 720p HD
+的解析度以降低GPU負擔及節省電力。電磁手寫筆採用無源式設計，主控IC依舊是[Wacom出品的](https://zh.wikipedia.org/wiki/Wacom "wikilink")，壓力感應層級達4096級。\[9\]
 
 Galaxy Note 7 搭載的相機和 Galaxy S7 系列的一樣，較前代降低了畫素，採用三星自家的ISOCELL
-S5K2L1或是[Sony](../Page/Sony.md "wikilink") [Exmor
-R](../Page/Exmor_R.md "wikilink") IMX260感光元件。後攝像頭為 1,200
-萬[畫素](../Page/畫素.md "wikilink")、f/1.7 光圈的規格，感光元件的尺寸也有 1/2.6
-英吋，具備 [Dual Pixel](../Page/Dual_Pixel.md "wikilink") 自動對焦系統，可錄製
+S5K2L1或是[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink") [Exmor
+R](https://zh.wikipedia.org/wiki/Exmor_R "wikilink") IMX260感光元件。後攝像頭為
+1,200 萬[畫素](https://zh.wikipedia.org/wiki/畫素 "wikilink")、f/1.7
+光圈的規格，感光元件的尺寸也有 1/2.6 英吋，具備 [Dual
+Pixel](https://zh.wikipedia.org/wiki/Dual_Pixel "wikilink") 自動對焦系統，可錄製
 4K（3840 × 2160p）解析度、30幀每秒（fps）或是1080p@60fps、720p@240fps的影片。前置攝像頭是 500
 萬畫素、f/1.7
 [光圈的規格](../Page/光圈.md "wikilink")，具備自動[HDR成像功能](../Page/高动态范围成像.md "wikilink")。\[10\]
 （具備Quick Charge 2.0 高速充電功能）
 
 此外，Note
-7也是三星自[2013年推出的](../Page/2013年.md "wikilink")[S4以來](../Page/Samsung_Galaxy_S4.md "wikilink")，首部再次具有FM收音機功能的三星旗艦型號手機（Snapdragon
-820 版本），與之規格大致相同的[S7卻沒有有關功能](../Page/Samsung_Galaxy_S7.md "wikilink")。
+7也是三星自[2013年推出的](../Page/2013年.md "wikilink")[S4以來](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S4 "wikilink")，首部再次具有FM收音機功能的三星旗艦型號手機（Snapdragon
+820
+版本），與之規格大致相同的[S7卻沒有有關功能](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")。
 
 ### 軟體
 
-本機發布時預載的作業系統是載有最新[GraceUX用戶介面的](../Page/GraceUX.md "wikilink")[Android](../Page/Android.md "wikilink")
+本機發布時預載的作業系統是載有最新[GraceUX用戶介面的](https://zh.wikipedia.org/wiki/GraceUX "wikilink")[Android](../Page/Android.md "wikilink")
 6.0.1（Marshmallow）系統。\[11\]
 
 ## 販售情況
 
 8月19日開始發售，由於首批預訂名額已經爆滿，唯在2016年9月2日開始正式公開發售。然而，由於首批預售的Galaxy Note
 7因三星SDI電池質素問題而導致多起爆炸事故，導致正式發售日期延期。在韩国，新版Note
-7原计划在9月28日开始销售，但为了迅速完成韩国的手机[召回工作](../Page/召回.md "wikilink")，三星把新版Note
+7原计划在9月28日开始销售，但为了迅速完成韩国的手机[召回工作](https://zh.wikipedia.org/wiki/召回 "wikilink")，三星把新版Note
 7在韩国的重新开卖时间推迟三天，也就是10月1日。而在澳大利亚、美国市场的重启销售工作也从10月份开始\[12\]，欧盟市场也计划于10月28日开始重启销售\[13\]。原本預售的產品幾乎要全數回收。
 
 2016年10月1日，Note 7在韩国开始重启销售，当天韩国三家移动运营商SK电讯、KT、LG
@@ -87,9 +91,9 @@ U+等的总销量为2.1万部。韩国媒体报道称重启销售表现“仍然
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Security_Check_entrance_of_Guilin_Airport.jpg "fig:缩略图")安检入口处电子显示屏显示严禁旅客携带Galaxy
 Note 7手机登机\]\] 2016年8月24日，韓國發生首宗Note 7充電爆炸事件，其後世界各地亦傳出多宗Note
-7爆炸事件。三星至9月3日回收統計總共有35起。更糟的是，無論是否於充電狀況下皆可能發生爆炸，與保護裝置無關。三星表示，起因是[三星SDI製造的電池本身有瑕疵](../Page/三星SDI.md "wikilink")，導致電池電芯遇熱會突發性出現膨脹、短路情形，將導致鋰電池外殼破裂起火，燒毀使用者的財物，手機也完全被摧毀，這個情況與十年前[2006年新力筆記型電腦鋰電池全球召回事件幾乎是重現](../Page/2006年新力筆記型電腦鋰電池全球召回事件.md "wikilink")。由於此事件持續延燒，美國已經有數輛車子與一棟房子被燒毀，美國、印度及新加坡所有航空公司及前往&途經該地區航線一律禁止攜帶Note
-7登機，包含[澳洲航空](../Page/澳洲航空.md "wikilink")、[捷星航空](../Page/捷星航空.md "wikilink")、[維珍澳洲航空](../Page/維珍澳洲航空.md "wikilink")、[中華航空](../Page/中華航空.md "wikilink")、[長榮航空](../Page/長榮航空.md "wikilink")、[復興航空](../Page/復興航空.md "wikilink")、[台灣虎航及](../Page/臺灣虎航.md "wikilink")[新加坡航空在内的多家航空公司禁止乘客攜帶Note](../Page/新加坡航空.md "wikilink")
-7上機時開機使用或者充電，或建議其不要進行上述行為，以免起火造成[飛安危險](../Page/飛安.md "wikilink")。[美國聯邦航空總署也強烈建議不要在飛機上使用或者充電Note](../Page/美国联邦航空管理局.md "wikilink")
+7爆炸事件。三星至9月3日回收統計總共有35起。更糟的是，無論是否於充電狀況下皆可能發生爆炸，與保護裝置無關。三星表示，起因是[三星SDI製造的電池本身有瑕疵](https://zh.wikipedia.org/wiki/三星SDI "wikilink")，導致電池電芯遇熱會突發性出現膨脹、短路情形，將導致鋰電池外殼破裂起火，燒毀使用者的財物，手機也完全被摧毀，這個情況與十年前[2006年新力筆記型電腦鋰電池全球召回事件幾乎是重現](https://zh.wikipedia.org/wiki/2006年新力筆記型電腦鋰電池全球召回事件 "wikilink")。由於此事件持續延燒，美國已經有數輛車子與一棟房子被燒毀，美國、印度及新加坡所有航空公司及前往&途經該地區航線一律禁止攜帶Note
+7登機，包含[澳洲航空](../Page/澳洲航空.md "wikilink")、[捷星航空](../Page/捷星航空.md "wikilink")、[維珍澳洲航空](../Page/維珍澳洲航空.md "wikilink")、[中華航空](../Page/中華航空.md "wikilink")、[長榮航空](../Page/長榮航空.md "wikilink")、[復興航空](../Page/復興航空.md "wikilink")、[台灣虎航及](https://zh.wikipedia.org/wiki/臺灣虎航 "wikilink")[新加坡航空在内的多家航空公司禁止乘客攜帶Note](../Page/新加坡航空.md "wikilink")
+7上機時開機使用或者充電，或建議其不要進行上述行為，以免起火造成[飛安危險](https://zh.wikipedia.org/wiki/飛安 "wikilink")。[美國聯邦航空總署也強烈建議不要在飛機上使用或者充電Note](../Page/美国联邦航空管理局.md "wikilink")
 7，且禁止將其託運\[15\]。[日本](../Page/日本.md "wikilink")[國土交通省也通知日本各家航空公司](../Page/國土交通省.md "wikilink")，不要讓旅客在飛行中使用Note
 7或充電\[16\]。[中国民用航空局也发出安全通知](../Page/中国民用航空局.md "wikilink")，警告旅客不得在飞行过程中对Note
 7充电或在托运行李中放置Note 7。\[17\]9月22日，韩国飞行安全部门允许新版Note
@@ -112,22 +116,22 @@ Note 7手机登机\]\] 2016年8月24日，韓國發生首宗Note 7充電爆炸�
 ### 韓國、北美暫停銷售及大規模召回
 
 2016年9月1日，由於曾經發生多宗電池爆炸的事件，三星公司宣佈全球即日停售Note
-7並作出全面[回收](../Page/產品召回.md "wikilink")，计划在韩国等10个国家和地区召回至少250万部Note
-7，为用户提供退款或更换配备安全电池的手机\[31\]。原本[中国大陆不在回收之列](../Page/中国大陆.md "wikilink")\[32\]，但在9月14日，中国[国家质检总局执法司组织质检总局缺陷产品管理中心约谈了三星主要负责人以后](../Page/国家质检总局.md "wikilink")，三星向国家质检总局备案了召回计划，计划自2016年9月14日起，召回2016年7月20日至2016年8月5日期间制造的部分Galaxy
+7並作出全面[回收](https://zh.wikipedia.org/wiki/產品召回 "wikilink")，计划在韩国等10个国家和地区召回至少250万部Note
+7，为用户提供退款或更换配备安全电池的手机\[31\]。原本[中国大陆不在回收之列](../Page/中国大陆.md "wikilink")\[32\]，但在9月14日，中国[国家质检总局执法司组织质检总局缺陷产品管理中心约谈了三星主要负责人以后](https://zh.wikipedia.org/wiki/国家质检总局 "wikilink")，三星向国家质检总局备案了召回计划，计划自2016年9月14日起，召回2016年7月20日至2016年8月5日期间制造的部分Galaxy
 Note
 7，中国大陆地区受影响的手机数量为1858台。不过该部分产品为2016年9月1日正式销售前所免费提供的测试体验用的手机\[33\]\[34\]\[35\]。据报道，三星Note
-7约有65%的电池由供应，其余35%由日本[TDK集团的ATL](../Page/TDK.md "wikilink")（[新能源科技](../Page/新能源科技.md "wikilink")）制造。新能源科技表示，该公司仅为在中国销售的Note
-7提供电池\[36\]。2016年9月15日，[美国消费产品安全委员会发表声明](../Page/美国消费产品安全委员会.md "wikilink")，由于Galaxy
+7约有65%的电池由供应，其余35%由日本[TDK集团的ATL](https://zh.wikipedia.org/wiki/TDK "wikilink")（[新能源科技](../Page/新能源科技.md "wikilink")）制造。新能源科技表示，该公司仅为在中国销售的Note
+7提供电池\[36\]。2016年9月15日，[美国消费产品安全委员会发表声明](https://zh.wikipedia.org/wiki/美国消费产品安全委员会 "wikilink")，由于Galaxy
 Note 7电池存在严重安全隐患，三星电子决定在美国召回约100万部Galaxy Note
 7手机\[37\]。事件发生后，三星电子已经决定停止向三星SDI采购Note7电池。
 
-据[腾讯旗下数据分析机构](../Page/腾讯.md "wikilink")[企鹅智酷发起的关于Note](../Page/企鹅智酷.md "wikilink")
+据[腾讯旗下数据分析机构](../Page/腾讯.md "wikilink")[企鹅智酷发起的关于Note](https://zh.wikipedia.org/wiki/企鹅智酷 "wikilink")
 7事件引发的信任危机民调，在收集的近2万名智能手机用户的反馈中，有超过70%的用户表示不会再买三星，但非三星手机用户的比例则达到87.4%。有超半数的手机用户对三星的态度在变坏\[38\]。9月29日，三星中国向中国消费者发布声明，称因未对Note
 7安全性进行细致说明而让消费者不解表示歉意。声明中也再次强调，中国国行版Note
-7采用不同的电池生产商，不存在安全问题，也从未对中国市场使用双重标准\[39\]\[40\]；不过[中国中央电视台在微博上发布文章质疑这份声明](../Page/中国中央电视台.md "wikilink")\[41\]，中国大陆網友也谴责三星迴避了很多關鍵問題和細節\[42\]。另据[中国中央电视台财经频道](../Page/中国中央电视台财经频道.md "wikilink")《消费主张》栏目报道，在三星公布中国国行版爆炸原因后，由于用户表示不满，其公开对外表示自己的手机并没有交给三星，希望在第三方见证下交给质监部门进行检测。之后《消费主张》栏目组联系了[工信部下属的手机检测权威机构](../Page/中华人民共和国工业和信息化部.md "wikilink")[中国泰尔实验室](../Page/中国泰尔实验室.md "wikilink")。随后机主临时改了主意，拒绝了这一请求\[43\]。
+7采用不同的电池生产商，不存在安全问题，也从未对中国市场使用双重标准\[39\]\[40\]；不过[中国中央电视台在微博上发布文章质疑这份声明](../Page/中国中央电视台.md "wikilink")\[41\]，中国大陆網友也谴责三星迴避了很多關鍵問題和細節\[42\]。另据[中国中央电视台财经频道](../Page/中国中央电视台财经频道.md "wikilink")《消费主张》栏目报道，在三星公布中国国行版爆炸原因后，由于用户表示不满，其公开对外表示自己的手机并没有交给三星，希望在第三方见证下交给质监部门进行检测。之后《消费主张》栏目组联系了[工信部下属的手机检测权威机构](../Page/中华人民共和国工业和信息化部.md "wikilink")[中国泰尔实验室](https://zh.wikipedia.org/wiki/中国泰尔实验室 "wikilink")。随后机主临时改了主意，拒绝了这一请求\[43\]。
 
 为了防止爆炸事故再次出现，三星在韩国推出软件升级，将Note7智能手机电池的充电容量限制在60%（即将最大容量限制为2100毫安时），利用系統控制防止手机过热而导致的電池液沸騰而爆炸\[44\]。三星原預計9月28日重新開賣，隨後順延三日後，在10月於韓國首先重新發售安全版Note
-7，然而沒多久韓國又傳出手機再度冒煙，唯這次尚不能確定機種。但在发布升级版本后的2016年10月5日，美国[西南航空一架从](../Page/西南航空.md "wikilink")[肯塔基州](../Page/肯塔基州.md "wikilink")[路易斯维尔飞往](../Page/路易斯维尔.md "wikilink")[马里兰州](../Page/马里兰州.md "wikilink")[巴尔的摩的班机在起飞前](../Page/巴尔的摩.md "wikilink")，发现有一部Galaxy
+7，然而沒多久韓國又傳出手機再度冒煙，唯這次尚不能確定機種。但在发布升级版本后的2016年10月5日，美国[西南航空一架从](https://zh.wikipedia.org/wiki/西南航空 "wikilink")[肯塔基州](../Page/肯塔基州.md "wikilink")[路易斯维尔飞往](https://zh.wikipedia.org/wiki/路易斯维尔 "wikilink")[马里兰州](../Page/马里兰州.md "wikilink")[巴尔的摩的班机在起飞前](https://zh.wikipedia.org/wiki/巴尔的摩 "wikilink")，发现有一部Galaxy
 Note 7
 手机起火，疏散乘客和造成飛機地毯燒焦，經確認，属于“据称安全”的版本。三星也发表声明正与当局合作调查此事件，而西南航空已找到有关手机和证实原因\[45\]。隨後在韓國\[46\]、台灣\[47\]\[48\]等地又發生了客戶更換新機後冒煙的情況。
 
@@ -145,31 +149,31 @@ Note 7，并开始着手新舊用户的退款和补偿事宜\[52\]\[53\]；次�
 Note 7，共计190984台（包含2016年9月14日公告首次召回的1858台）。消费者可凭Note
 7到销售商免费更换其他型号三星手机，并退还两个产品之间的差价，赠送购物券300元，也可按照原购买价格全额退款，同时回收产品。而三星中国公司（生产工作由惠州三星电子负责）也宣布自2016年10月10日停止生产销售Galaxy
 Note
-7\[55\]\[56\]\[57\]。[中国消费者协会也发表声明](../Page/中国消费者协会.md "wikilink")，将监督三星中国公司做好Note
+7\[55\]\[56\]\[57\]。[中国消费者协会也发表声明](https://zh.wikipedia.org/wiki/中国消费者协会 "wikilink")，将监督三星中国公司做好Note
 7的召回工作，要求三星不得以缺失发票和配件等理由拒绝退货，同时要求三星公司应向发生爆炸问题的消费者致歉，并依法赔偿消费者损失。但在声明发布之后，三星当时仅受理经销商退货\[58\]。在2016年10月14日，三星中国发布公告，对Galaxy
 Note 7的召回作出后续措施。任何人对Galaxy Note 7进行退货的，将提供200元补贴；换购Galaxy S7
 edge/S7的，将提供600元补贴（含退货补贴200元）\[59\]。香港方面，三星香港則要到周五公布Note
 7的召回事宜。然而香港資-{}-訊科技界[立法會議員](../Page/香港立法會.md "wikilink")[莫乃光批評](../Page/莫乃光.md "wikilink")，三星香港更換手機或退款公布反應太慢，令消費者有信息混亂之感，也被指目前香港相關法例監管不足\[60\]。
 
 台灣三星電子與相關監管機構合作調查Note
-7爆炸事件，台灣三星電子也正協同各合作夥伴制定相關措施\[61\]。[中華民國](../Page/中華民國.md "wikilink")[國家通訊傳播委員會表示](../Page/國家通訊傳播委員會.md "wikilink")，已經要求台灣三星電子務必竭盡所能來處理Note
+7爆炸事件，台灣三星電子也正協同各合作夥伴制定相關措施\[61\]。[中華民國](../Page/中華民國.md "wikilink")[國家通訊傳播委員會表示](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink")，已經要求台灣三星電子務必竭盡所能來處理Note
 7問題，以維護消費者權益\[62\]。
 
-2016年10月14日，[美国运输部发布紧急命令](../Page/美国运输部.md "wikilink")，要求美国各大航空公司禁止运输所有三星Galaxy
+2016年10月14日，[美国运输部发布紧急命令](https://zh.wikipedia.org/wiki/美国运输部 "wikilink")，要求美国各大航空公司禁止运输所有三星Galaxy
 Note 7手机，声明中称Galaxy Note
-7在美国属于“被禁止的有害材料”。任何旅客试图携带的，轻则手机将被没收并处以罚款，重则将面临刑事起诉\[63\]。[中国民航局也于](../Page/中国民航局.md "wikilink")10月26日发布通知，从2016年10月27日起，要求中国大陆各大航空公司禁止旅客和机组成员随身或在手提行李中携带Galaxy
+7在美国属于“被禁止的有害材料”。任何旅客试图携带的，轻则手机将被没收并处以罚款，重则将面临刑事起诉\[63\]。[中国民航局也于](https://zh.wikipedia.org/wiki/中国民航局 "wikilink")10月26日发布通知，从2016年10月27日起，要求中国大陆各大航空公司禁止旅客和机组成员随身或在手提行李中携带Galaxy
 Note 7，也禁止将Note 7放入托运行李中托运、禁止将Note 7手机作为航空货物收运\[64\]。
 
 ### 相关安全問題恶搞
 
 自从Note 7传出爆炸事件以来，网络上出现了许多对Note 7的恶搞。这些恶搞中，大多将Note
-7恶搞为[炸弹](../Page/炸弹.md "wikilink")、[手雷一类的武器](../Page/手雷.md "wikilink")。例如有人制作了《[侠盗猎车手V](../Page/侠盗猎车手V.md "wikilink")》的[MOD](../Page/MOD.md "wikilink")，其中有一款手雷就是Note
-7造型；腾讯的第一人称射击游戏《[逆战](../Page/逆战.md "wikilink")》中，也出现了一款影射Note
+7恶搞为[炸弹](https://zh.wikipedia.org/wiki/炸弹 "wikilink")、[手雷一类的武器](https://zh.wikipedia.org/wiki/手雷 "wikilink")。例如有人制作了《[侠盗猎车手V](https://zh.wikipedia.org/wiki/侠盗猎车手V "wikilink")》的[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")，其中有一款手雷就是Note
+7造型；腾讯的第一人称射击游戏《[逆战](https://zh.wikipedia.org/wiki/逆战 "wikilink")》中，也出现了一款影射Note
 7的手雷（“会爆炸的手机”，品牌被恶搞成“SANBOMB”）。三星法律顧問一度揚言要撤下此類“不當的行為”，但未果。
 
 ### 永久停產並全面銷毀
 
-2016年10月10日，[韩联社报道称三星電子已經暫停生產Note](../Page/韩联社.md "wikilink")
+2016年10月10日，[韩联社报道称三星電子已經暫停生產Note](https://zh.wikipedia.org/wiki/韩联社 "wikilink")
 7\[65\]，但三星中国区负责人表示暂未听说此事\[66\]\[67\]。次日，三星发布声明，終止Galaxy Note
 7手机的生產，並要求所有合作运营商和经销商停止销售和置换Galaxy Note
 7手机，亦呼籲用户关机停止使用\[68\]。三星已经与美国消费者产品安全委员会一起调查手机爆炸起火的原因\[69\]\[70\]。此外回收過程中，提供快遞運送的召回袋與外箱還採用了防火設計，並附有手套。
@@ -187,7 +191,7 @@ Note 7，也禁止将Note 7放入托运行李中托运、禁止将Note 7手机�
 
 ### 限制外流Note 7進行充電
 
-三星公司在事件发生及宣布召回后，多次通过[空中更新系统固件的形式推送限制最大充电额度的固件并强制更新](../Page/空中更新.md "wikilink")，以通知用户进行更换和降低设备风险\[76\]\[77\]\[78\]\[79\]\[80\]。
+三星公司在事件发生及宣布召回后，多次通过[空中更新系统固件的形式推送限制最大充电额度的固件并强制更新](https://zh.wikipedia.org/wiki/空中更新 "wikilink")，以通知用户进行更换和降低设备风险\[76\]\[77\]\[78\]\[79\]\[80\]。
 
 ## 調查
 
@@ -197,24 +201,24 @@ Note 7，也禁止将Note 7放入托运行李中托运、禁止将Note 7手机�
 7“样品未发现外部加热痕迹，样品的热损毁由电池自燃所致，电池由右下角的位置开始燃烧”，而不是三星所说是“外部加热导致”。然而，中国泰尔实验室得出的检测结论与之前截然相反。为此，中国泰尔实验室相关人员解释，他们的检测都是对来样负责的\[81\]。
 
 [韩国科学技术院商学院管理教授张世真认为](../Page/韩国科学技术院.md "wikilink")，三星为了赶在竞争对手产品，尤其是苹果[iPhone
-7之前上市](../Page/iPhone_7.md "wikilink")，三星加快了Note
+7之前上市](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")，三星加快了Note
 7的推出周期，导致了产品的质量问题。三星电子移动业务负责人高东真表示正在整顿产品质控流程\[82\]。另据韓國證券、財經傳媒NewsTomato引述三星涉及部件維修的一批匿名人士說，Note
-7的冒煙起火是从電池和手機主板的[印刷電路板部分開始的](../Page/印刷電路板.md "wikilink")，推測是手機為採用[虹膜識別等新功能](../Page/虹膜.md "wikilink")，在加高PCB的過程出了問題。在此之前，三星的Galaxy
+7的冒煙起火是从電池和手機主板的[印刷電路板部分開始的](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，推測是手機為採用[虹膜識別等新功能](../Page/虹膜.md "wikilink")，在加高PCB的過程出了問題。在此之前，三星的Galaxy
 S7的PCB为10層，不過Note 7首次採用了12層，可能因而出事。另外，Note
 7使用不可拆卸型的電池，其缺点是遇外來撞擊會發熱，因此在設計上須格外留神。据报道称，三星可能只顧提升性能，不顾其他安全\[83\]。
 
 2016年12月，三星宣布与澳大利亚和新西兰移动运营商展开合作，将拒绝为Note7手机提供网络服务，通过这一方式让用户能尽早返还手机\[84\]。
 
-2016年12月5日，[富士比网站公布了第三方机构Instrumental关于Note](../Page/:福布斯.md "wikilink")
+2016年12月5日，[富士比网站公布了第三方机构Instrumental关于Note](https://zh.wikipedia.org/wiki/:福布斯 "wikilink")
 7电池爆炸的调查报告，表示电池爆炸是由于手机本身的“激进设计”所导致的。根据手机内部结构图，手机内部的空间十分拥挤，使得Note
 7的电池即使在日常使用中也会受到挤压，而压力会使电池正、负极的“分离装置”很容易损坏，正负接触会引发电池发热起火。报告还称，三星的工程师在设计过程中极力加大电池体积，以此换取更大的电池容量\[85\]。
 
 2016年12月10日，三星电子宣布在12月19日面向美国的Galaxy Note 7用户发布一个软件更新，安装更新后，Note
-7将无法进行充电和正常运行，从而无法使用\[86\]。起初运营商[Verizon拒绝了这一请求](../Page/Verizon.md "wikilink")\[87\]，但自2017年1月，Verizon决定对Note
+7将无法进行充电和正常运行，从而无法使用\[86\]。起初运营商[Verizon拒绝了这一请求](https://zh.wikipedia.org/wiki/Verizon "wikilink")\[87\]，但自2017年1月，Verizon决定对Note
 7用户采取极端措施，用户如果仍在使用Note 7拨打电话，则会强制性地将电话转接到Verizon的客户服务部门\[88\]。
 
 2017年1月23日，三星电子召开发布会，公布Galaxy Note 7起火事件调查结果。根据调查报告，Galaxy Note
-7的爆炸原因在于电池。随后三星电子无线事业部总裁[高東真就此事件表示痛心和抱歉](../Page/高東真.md "wikilink")。同时，三星也针对Note
+7的爆炸原因在于电池。随后三星电子无线事业部总裁[高東真就此事件表示痛心和抱歉](https://zh.wikipedia.org/wiki/高東真 "wikilink")。同时，三星也针对Note
 7起火事件，制定“8项电池安全检查措施”，保障电池安全可靠。此外，三星还在产品规划阶段采用“多层安全措施协议”，并组建了“零部件专业团队”\[89\]。
 
 ### 相关诉讼
@@ -223,12 +227,12 @@ S7的PCB为10層，不過Note 7首次採用了12層，可能因而出事。另�
     7电池问题的案件\[90\]。
   - 2016年9月20日，据韩国《朝鲜日报》援引三星电子的说法称，三星正在讨论对主张虚伪爆炸的2名中国消费者进行刑事起诉等法律应对，但三星中国方面暂无有关回应\[91\]。
   - 2016年9月29日，中國深圳消费者周李久因担心Note
-    7存在安全隐患，要求退款赔偿遭拒，一纸诉状将惠州三星电子有限公司和手机销售方告上法庭。[深圳市福田区人民法院已下达案情受理通知书并受理此案](../Page/深圳市福田区人民法院.md "wikilink")\[92\]。
+    7存在安全隐患，要求退款赔偿遭拒，一纸诉状将惠州三星电子有限公司和手机销售方告上法庭。[深圳市福田区人民法院已下达案情受理通知书并受理此案](https://zh.wikipedia.org/wiki/深圳市福田区人民法院 "wikilink")\[92\]。
   - 2016年10月14日，根据美国[新泽西州](../Page/新泽西州.md "wikilink")[纽瓦克一家地方法院公布的信息](../Page/紐華克_\(新澤西州\).md "wikilink")，针对在美Note
     7的第一起集体起诉已递交地方法院等待批准立案。这起诉讼并未针对近期传出的多起电池着火、爆炸等问题，而是三星在应对消费者过程中出现的问题，起诉方为三星电子美国分公司\[93\]。
   - 2016年10月19日，韩国57名Note
-    7消费者因多次访问卖场和更换新品，带来十分严重的心理困扰而提出索赔诉讼。韩国一家律师事务所表示，将于24日针对三星电子向[首尔中央地方法院提出索赔诉讼](../Page/首尔中央地方法院.md "wikilink")\[94\]。
-  - 2018年11月23日，[广东省广州市越秀区人民法院三星Note](../Page/广东省广州市越秀区人民法院.md "wikilink")7手机自燃引发的产品责任纠纷案作出一审宣判。法院认定，该案涉及手机存在产品缺陷，判处被告三星中国公司向原告赔偿因手机自燃而受损的笔记本电脑，同时驳回了原告赔偿三倍购机款的诉讼请求。宣判后，原告表示不服一审判决，准备提出上诉\[95\]。2019年3月，法院二审宣判，驳回原告的上诉请求，维持原判\[96\]。
+    7消费者因多次访问卖场和更换新品，带来十分严重的心理困扰而提出索赔诉讼。韩国一家律师事务所表示，将于24日针对三星电子向[首尔中央地方法院提出索赔诉讼](https://zh.wikipedia.org/wiki/首尔中央地方法院 "wikilink")\[94\]。
+  - 2018年11月23日，[广东省广州市越秀区人民法院三星Note](https://zh.wikipedia.org/wiki/广东省广州市越秀区人民法院 "wikilink")7手机自燃引发的产品责任纠纷案作出一审宣判。法院认定，该案涉及手机存在产品缺陷，判处被告三星中国公司向原告赔偿因手机自燃而受损的笔记本电脑，同时驳回了原告赔偿三倍购机款的诉讼请求。宣判后，原告表示不服一审判决，准备提出上诉\[95\]。2019年3月，法院二审宣判，驳回原告的上诉请求，维持原判\[96\]。
 
 ### 后续
 
@@ -242,7 +246,7 @@ S7的PCB为10層，不過Note 7首次採用了12層，可能因而出事。另�
 在三星Note
 7爆炸事件后，由于三星系统过于卡顿，价格高昂，韩国萨德导弹事件导致中韩关系恶化以及受到小米、华为等品牌冲击等原因，三星S8/Note
 8/S9/Note
-9等后续机型在中国大陆地区销量惨淡。2017年总销量跌至第5名，而2018年第二季度销量更是被列入其他厂商行列中，\[97\]但部分仍在使用该品牌手机的用户会遭到其余品牌手机用户的排斥、嘲笑。\[98\]
+9等后续机型在中国大陆地区销量惨淡。2017年总销量跌至第5名，而2018年第二季度销量更是被列入其他厂商行列中。\[97\]
 
 #### 天津工厂爆炸
 
@@ -469,5 +473,3 @@ S7的PCB为10層，不過Note 7首次採用了12層，可能因而出事。另�
 96.
 
 97.
-
-98.

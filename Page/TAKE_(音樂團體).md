@@ -1,5 +1,5 @@
-**TAKE**（），是[韓國](../Page/韓國.md "wikilink")[CI
-ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时隔12年，TAKE以二人组合回归\[2\]。
+**TAKE**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CI
+ENT](https://zh.wikipedia.org/wiki/CI_ENT "wikilink")\[1\]公司旗下的五人男子组合。时隔12年，TAKE以二人组合回归\[2\]。
 
 ## 成員列表
 
@@ -53,7 +53,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>To Girls</strong>》</p>
 <ul>
 <li>發行日期：2005年6月2日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -62,7 +62,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>Take It All</strong>》</p>
 <ul>
 <li>發行日期：2005年6月2日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -71,7 +71,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>One Spring Day</strong>》[3]</p>
 <ul>
 <li>發行日期：2015年4月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>Rainy Day</strong>》</p>
 <ul>
 <li>發行日期：2015年7月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p><strong>2016 Single Project 1st</strong>《<strong>Why</strong>》</p>
 <ul>
 <li>發行日期：2016年4月21日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -98,7 +98,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p><strong>2016 Single Project 2nd</strong>《<strong>Heaven</strong>》</p>
 <ul>
 <li>發行日期：2016年6月24日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -107,7 +107,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p><strong>2016 Single Project 3rd</strong>《<strong>Good-Bye</strong>》[4]</p>
 <ul>
 <li>發行日期：2016年8月30日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -116,7 +116,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p><strong>2016 Single Project 4th</strong>《<strong>Lost</strong>》[5]</p>
 <ul>
 <li>發行日期：2016年11月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -125,7 +125,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>Part.2 TAKE</strong>》</p>
 <ul>
 <li>發行日期：2017年7月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -153,7 +153,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>1 story</strong>》</p>
 <ul>
 <li>發行日期：2003年4月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -162,7 +162,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>TAKE</strong>》</p>
 <ul>
 <li>發行日期：2015年5月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -171,7 +171,7 @@ ENT](../Page/CI_ENT.md "wikilink")\[1\]公司旗下的五人男子组合。时�
 <td><p>《<strong>THE SECOND</strong>》</p>
 <ul>
 <li>發行日期：2018年2月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>

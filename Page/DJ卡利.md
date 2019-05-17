@@ -1,6 +1,6 @@
 **-{zh-cn:哈立德·穆罕默德·哈立德;
 zh-tw:卡利·穆罕默德·卡利}-**（，），艺名**DJ哈立德**（）这个称呼，是一名[美国唱片制作人](../Page/美国.md "wikilink")、广播台名人、DJ和唱片公司主管。他早期曾以**阿拉伯攻击**（Arab
-Attack）这个艺名出道，但在[九一一襲擊事件之後更改了藝名](../Page/九一一襲擊事件.md "wikilink")。曾是总部位于迈阿密的城市音乐电台WEDR的主持人和嘻哈组合恐怖小队的DJ。从2004年到2006年，DJ卡利协助制作了多张嘻哈专辑，如[神奇小子的](../Page/神奇小子.md "wikilink")〈Real
+Attack）这个艺名出道，但在[九一一襲擊事件之後更改了藝名](https://zh.wikipedia.org/wiki/九一一襲擊事件 "wikilink")。曾是总部位于迈阿密的城市音乐电台WEDR的主持人和嘻哈组合恐怖小队的DJ。从2004年到2006年，DJ卡利协助制作了多张嘻哈专辑，如[神奇小子的](https://zh.wikipedia.org/wiki/神奇小子 "wikilink")〈Real
 Talk〉。
 
 在2006年，DJ卡利发布了自己的第一章专辑《Listennn... the Album》。他陆续发布了《We the

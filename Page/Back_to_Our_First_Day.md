@@ -1,5 +1,5 @@
 《**Back To Our First
-Day**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")、[平原習作成員](../Page/平原習作.md "wikilink")[Trekkerz的第一張個人專輯](../Page/Trekkerz.md "wikilink")，於2016年7月22日推出。
+Day**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")、[平原習作成員](https://zh.wikipedia.org/wiki/平原習作 "wikilink")[Trekkerz的第一張個人專輯](https://zh.wikipedia.org/wiki/Trekkerz "wikilink")，於2016年7月22日推出。
 
 ## 曲目
 

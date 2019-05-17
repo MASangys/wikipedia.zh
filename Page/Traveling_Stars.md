@@ -1,5 +1,5 @@
 《**Traveling
-Stars**》（）是於2015年8月28日發售\[1\]的[Windows平台](../Page/Microsoft_Windows.md "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，由[HOOKSOFT製作](../Page/HOOKSOFT.md "wikilink")。2016年3月18日發售[Fandisc](../Page/Fandisc.md "wikilink")《Traveling
+Stars**》（）是於2015年8月28日發售\[1\]的[Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，由[HOOKSOFT製作](../Page/HOOKSOFT.md "wikilink")。2016年3月18日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Traveling
 Stars MiniFanDisc ジルコニアVer.》（）。2016年11月24日由GN Software發售PlayStation
 Vita平台。\[2\]
 
@@ -59,7 +59,7 @@ Stars》在日本美少女游戏与动画相关商品销售网站Getchu.com的20
 
 1.
 2.  [トラベリングスターズ -Traveling
-    Stars-](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=34050)[ファミ通.com](../Page/ファミ通.com.md "wikilink")
+    Stars-](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=34050)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
 3.
 4.
 5.

@@ -1,4 +1,4 @@
-《**鑑識英雄II正義之戰**》（），2019年[台灣鑑識劇](../Page/台灣鑑識劇.md "wikilink")，由[李昌鈺](../Page/李昌鈺.md "wikilink")、[王識賢](../Page/王識賢.md "wikilink")、[蔡淑臻](../Page/蔡淑臻.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")、[紀培慧](../Page/紀培慧.md "wikilink")、[蘇達主演](../Page/蘇達.md "wikilink")。2016年5月27日開拍，且以[電視電影方法拍攝](../Page/電視電影.md "wikilink")。[愛奇藝台灣站自](../Page/愛奇藝台灣站.md "wikilink")2019年3月27起，週一至週五晚間8點獨家播出。<ref>[李昌鈺入列《鑑識英雄２》](http://www.chinatimes.com/newspapers/20151106000825-260112)中時電子報.
+《**鑑識英雄II正義之戰**》（），2019年[台灣鑑識劇](https://zh.wikipedia.org/wiki/台灣鑑識劇 "wikilink")，由[李昌鈺](../Page/李昌鈺.md "wikilink")、[王識賢](../Page/王識賢.md "wikilink")、[蔡淑臻](../Page/蔡淑臻.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")、[紀培慧](../Page/紀培慧.md "wikilink")、[蘇達主演](../Page/蘇達.md "wikilink")。2016年5月27日開拍，且以[電視電影方法拍攝](../Page/電視電影.md "wikilink")。[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")2019年3月27起，週一至週五晚間8點獨家播出。<ref>[李昌鈺入列《鑑識英雄２》](http://www.chinatimes.com/newspapers/20151106000825-260112)中時電子報.
 2015年11月6日
 
 </ref>
@@ -45,7 +45,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/愛奇藝.md" title="wikilink">愛奇藝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
 <td></td>
 <td><p>2019年3月19日</p></td>
 <td><p>每週一至週五 20：00 更新</p></td>
@@ -151,7 +151,7 @@
 <td><center>
 <p>阿木</p></td>
 <td><center>
-<p><a href="../Page/楊震震.md" title="wikilink">楊震震</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/楊震震" title="wikilink">楊震震</a></p></td>
 <td><p>鑑識員</p></td>
 <td><center>
 <p>1-6,11-16</p></td>
@@ -160,7 +160,7 @@
 <td><center>
 <p>大漢</p></td>
 <td><center>
-<p><a href="../Page/李杰.md" title="wikilink">李杰</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李杰" title="wikilink">李杰</a></p></td>
 <td><p>警員</p></td>
 <td><center>
 <p>7-16</p></td>
@@ -215,7 +215,7 @@
 <td><center>
 <p>安法醫</p></td>
 <td><center>
-<p><a href="../Page/安歆澐.md" title="wikilink">安歆澐</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/安歆澐" title="wikilink">安歆澐</a></p></td>
 <td><p>勁辣女法醫</p></td>
 <td><center>
 <p>8-12</p></td>
@@ -233,7 +233,7 @@
 <td><center>
 <p>亮亮</p></td>
 <td><center>
-<p><a href="../Page/馬維亭.md" title="wikilink">馬維亭</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馬維亭" title="wikilink">馬維亭</a></p></td>
 <td><p>林士堯的女兒</p></td>
 <td><center>
 <p>1-2,6,14-16</p></td>
@@ -296,7 +296,7 @@
 <tr class="odd">
 <td><center></td>
 <td><center>
-<p><a href="../Page/李欣冉.md" title="wikilink">李欣冉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李欣冉" title="wikilink">李欣冉</a></p></td>
 <td><p>老鷹手下</p></td>
 <td><center>
 <p>2-4</p></td>
@@ -332,7 +332,7 @@
 <td><center>
 <p>黃柏川</p></td>
 <td><center>
-<p><a href="../Page/管謹宗.md" title="wikilink">管謹宗</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/管謹宗" title="wikilink">管謹宗</a></p></td>
 <td><p>老鷹的父親</p></td>
 <td><center>
 <p>4</p></td>
@@ -369,7 +369,7 @@
 <td><center>
 <p>貝怡萱</p></td>
 <td><center>
-<p><a href="../Page/邵雨薇.md" title="wikilink">邵雨薇</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/邵雨薇" title="wikilink">邵雨薇</a></p></td>
 <td><p>暱稱：貝兒、BELL，被害人，天才賽車手，楊茜的好友，林士堯以前當警察的時候幫助過她，很依賴林士堯</p></td>
 <td><center>
 <p>4-5,6-7(回憶)</p></td>
@@ -378,7 +378,7 @@
 <td><center>
 <p>安小喬</p></td>
 <td><center>
-<p><a href="../Page/安小蕎.md" title="wikilink">安小蕎</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/安小蕎" title="wikilink">安小蕎</a></p></td>
 <td><p>暱稱：ANGEL，職業女賽車手</p></td>
 <td><center>
 <p>4-5</p></td>
@@ -414,7 +414,7 @@
 <td><center>
 <p>游少強</p></td>
 <td><center>
-<p><a href="../Page/莊東樺.md" title="wikilink">莊東樺</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/莊東樺" title="wikilink">莊東樺</a></p></td>
 <td><p>暱稱：強哥，賽車賭盤組頭</p></td>
 <td><center>
 <p>4-5</p></td>
@@ -423,7 +423,7 @@
 <td><center>
 <p>小怡茹</p></td>
 <td><center>
-<p><a href="../Page/葛璦.md" title="wikilink">葛璦</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/葛璦" title="wikilink">葛璦</a></p></td>
 <td><p>童年的貝怡茹</p></td>
 <td><center>
 <p>5-6(回憶)</p></td>
@@ -431,7 +431,7 @@
 <tr class="odd">
 <td><center></td>
 <td><center>
-<p><a href="../Page/王俊傑.md" title="wikilink">王俊傑</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/王俊傑" title="wikilink">王俊傑</a></p></td>
 <td></td>
 <td><center></td>
 </tr>
@@ -439,7 +439,7 @@
 <td><center>
 <p>吳大雄</p></td>
 <td><center>
-<p><a href="../Page/李銘叡.md" title="wikilink">李銘叡</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李銘叡" title="wikilink">李銘叡</a></p></td>
 <td><p>明星棒球隊隊長，跟強哥合作，被抓到逼口供</p></td>
 <td><center>
 <p>4</p></td>
@@ -485,7 +485,7 @@
 <td><center>
 <p>顏士銘</p></td>
 <td><center>
-<p><a href="../Page/楊忠穎.md" title="wikilink">楊忠穎</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/楊忠穎" title="wikilink">楊忠穎</a></p></td>
 <td><p>房仲，信宗同學，高中時看見汽油走火救信宗被燒傷17年，連續縱火並殺害馬隊長。</p></td>
 <td><center>
 <p>7-10</p></td>
@@ -503,7 +503,7 @@
 <td><center>
 <p>曉鳳</p></td>
 <td><center>
-<p><a href="../Page/劉香君.md" title="wikilink">劉香君</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/劉香君" title="wikilink">劉香君</a></p></td>
 <td><p>馬隊長老婆，幫宜荷介紹相親</p></td>
 <td><center>
 <p>7-8</p></td>
@@ -521,7 +521,7 @@
 <td><center>
 <p>游學林</p></td>
 <td><center>
-<p><a href="../Page/林育賢_(演員).md" title="wikilink">林育賢</a><a href="https://www.facebook.com/ITalk.YHL/">1</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林育賢_(演員)" title="wikilink">林育賢</a><a href="https://www.facebook.com/ITalk.YHL/">1</a></p></td>
 <td><p>暱稱：赫菲斯托斯(希臘神話火神)，攝影師</p></td>
 <td><center>
 <p>7-10</p></td>
@@ -529,7 +529,7 @@
 <tr class="odd">
 <td><center></td>
 <td><center>
-<p><a href="../Page/劉育睿.md" title="wikilink">劉育睿</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/劉育睿" title="wikilink">劉育睿</a></p></td>
 <td></td>
 <td><center></td>
 </tr>
@@ -537,7 +537,7 @@
 <td><center>
 <p>周信宗(高中時期)</p></td>
 <td><center>
-<p><a href="../Page/黃冠智.md" title="wikilink">黃冠智</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃冠智" title="wikilink">黃冠智</a></p></td>
 <td><p>顏士銘的麻吉</p></td>
 <td><center>
 <p>7,10</p></td>
@@ -546,7 +546,7 @@
 <td><center>
 <p>顏士銘(高中時期)</p></td>
 <td><center>
-<p><a href="../Page/王辰博.md" title="wikilink">王辰博</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/王辰博" title="wikilink">王辰博</a></p></td>
 <td><p>周信宗的麻吉</p></td>
 <td><center>
 <p>7,10</p></td>
@@ -554,7 +554,7 @@
 <tr class="even">
 <td><center></td>
 <td><center>
-<p><a href="../Page/亮哥.md" title="wikilink">亮哥</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/亮哥" title="wikilink">亮哥</a></p></td>
 <td></td>
 <td><center></td>
 </tr>
@@ -600,7 +600,7 @@
 <td><center>
 <p>李奧</p></td>
 <td><center>
-<p><a href="../Page/段鈞豪.md" title="wikilink">段鈞豪</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/段鈞豪" title="wikilink">段鈞豪</a></p></td>
 <td><p>梁遇的經紀人，被蘇蘇殺害並偽裝成因氣喘病發導致車禍</p></td>
 <td><center>
 <p>11-13</p></td>
@@ -609,7 +609,7 @@
 <td><center>
 <p>蘇亭蘊</p></td>
 <td><center>
-<p><a href="../Page/蔡芷紜.md" title="wikilink">蔡函岑</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/蔡芷紜" title="wikilink">蔡函岑</a></p></td>
 <td><p>蘇蘇，梁遇的助理，喜愛梁遇，殺害汪添跟李奧</p></td>
 <td><center>
 <p>11-13</p></td>
@@ -689,7 +689,7 @@
 <td><center>
 <p>林麗娜</p></td>
 <td><center>
-<p><a href="../Page/薛蓓蓓.md" title="wikilink">薛蓓蓓</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/薛蓓蓓" title="wikilink">薛蓓蓓</a></p></td>
 <td><p>綽號奈美，被殺害並偽裝成自殺的網紅Coser，疑似大東為復仇所為</p></td>
 <td><center>
 <p>14</p></td>
@@ -698,7 +698,7 @@
 <td><center>
 <p>藍藍</p></td>
 <td><center>
-<p><a href="../Page/方語昕.md" title="wikilink">方語昕</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/方語昕" title="wikilink">方語昕</a></p></td>
 <td><p>被殺害並偽裝成自殺的網紅Coser，疑似大東為滅口所為(因為她疑似有大東殺害奈美的證據)</p></td>
 <td><center>
 <p>14-15</p></td>
@@ -707,7 +707,7 @@
 <td><center>
 <p>賽門</p></td>
 <td><center>
-<p><a href="../Page/康祥.md" title="wikilink">康祥</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/康祥" title="wikilink">康祥</a></p></td>
 <td><p>富小開，奈美前男友</p></td>
 <td><center>
 <p>14</p></td>
@@ -716,7 +716,7 @@
 <td><center>
 <p>周若青</p></td>
 <td><center>
-<p><a href="../Page/鄧庭雅.md" title="wikilink">鄧庭雅</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄧庭雅" title="wikilink">鄧庭雅</a></p></td>
 <td><p>綽號小綠，大東的女友，三年前被奈美網路霸凌而自殺的網紅Coser</p></td>
 <td><center>
 <p>15-16(照片)</p></td>
@@ -781,33 +781,33 @@
 | 9 || 2019年4月8日 || 0.38 || 6 ||rowspan=5| 0.42 ||rowspan=5| 6 || |- |
 10 || 2019年4月9日 || 0.41 || 6 || |- | 11 || 2019年4月10日 || 0.49 || 6 || |-
 | 12 || 2019年4月11日 || 0.40 || 6 || |- | 13 || 2019年4月12日 || 0.42 || 6 ||
-|- | 14 || 2019年4月15日 || || ||rowspan=3| ||rowspan=3| || |- |- | 15 ||
-2019年4月16日 || || || |- | 16 || 2019年4月17日 || || || |-
-\!colspan=2|平均收視率||colspan=4| ||
+|- | 14 || 2019年4月15日 || 0.44 || 6 ||rowspan=3| 0.47 ||rowspan=3| 6 ||
+|- |- | 15 || 2019年4月16日 || 0.46 || 6 || |- | 16 || 2019年4月17日 || 0.50
+|| 6 || |- \!colspan=2|平均收視率||colspan=4| 0.43 ||
 
 ## 取景
 
-  - [美國](../Page/美國.md "wikilink")[舊金山](../Page/舊金山.md "wikilink")
+  - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")
   - [瑞芳區](../Page/瑞芳區.md "wikilink")102縣道
-  - [陽明山美軍宿舍](../Page/陽明山.md "wikilink")
+  - [陽明山美軍宿舍](https://zh.wikipedia.org/wiki/陽明山 "wikilink")
   - [汐止區新山夢湖](../Page/汐止區.md "wikilink")
 
 ## 製作團隊
 
-  - 輔助製作：[行政院科技部](../Page/中華民國科技部.md "wikilink")、[文化部影視及流行音樂產業局](../Page/文化部影視及流行音樂產業局.md "wikilink")
-  - 出品單位：[超人睿奇製作有限公司](../Page/超人睿奇製作有限公司.md "wikilink")、[愛奇藝](../Page/愛奇藝.md "wikilink")
-  - 製作人：[顧超](../Page/顧超_\(超人睿奇製作人\).md "wikilink")
+  - 輔助製作：[行政院科技部](https://zh.wikipedia.org/wiki/中華民國科技部 "wikilink")、[文化部影視及流行音樂產業局](https://zh.wikipedia.org/wiki/文化部影視及流行音樂產業局 "wikilink")
+  - 出品單位：[超人睿奇製作有限公司](https://zh.wikipedia.org/wiki/超人睿奇製作有限公司 "wikilink")、[愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")
+  - 製作人：[顧超](https://zh.wikipedia.org/wiki/顧超_\(超人睿奇製作人\) "wikilink")
   - 執行製作人：顧超
-  - 製作單位：[超人睿奇製作有限公司](../Page/超人睿奇製作有限公司.md "wikilink")
-  - 發行單位：[超奇國際股份有限公司](../Page/超奇國際股份有限公司.md "wikilink")
+  - 製作單位：[超人睿奇製作有限公司](https://zh.wikipedia.org/wiki/超人睿奇製作有限公司 "wikilink")
+  - 發行單位：[超奇國際股份有限公司](https://zh.wikipedia.org/wiki/超奇國際股份有限公司 "wikilink")
   - 統籌：葉振興
   - 執行監製：
   - 企劃 / 宣傳：
   - 科學顧問：
-  - 導演：[張佳賢](../Page/張佳賢.md "wikilink")、[許肇任](../Page/許肇任.md "wikilink")
-  - 執行導演：[洪子桓](../Page/洪子桓.md "wikilink")
-  - 武術導演：[吳仁建](../Page/吳仁建.md "wikilink")
-  - 編劇：[吳毓青](../Page/吳毓青.md "wikilink")、[鄧莉芬](../Page/鄧莉芬.md "wikilink")、[費工怡](../Page/費工怡.md "wikilink")、[李登雅](../Page/李登雅.md "wikilink")、[陳萱](../Page/陳萱.md "wikilink")、[張文綺](../Page/張文綺.md "wikilink")、[洪子桓](../Page/洪子桓.md "wikilink")
+  - 導演：[張佳賢](https://zh.wikipedia.org/wiki/張佳賢 "wikilink")、[陳嘉鴻](https://zh.wikipedia.org/wiki/陳嘉鴻 "wikilink")、[許肇任](https://zh.wikipedia.org/wiki/許肇任 "wikilink")
+  - 執行導演：[洪子桓](https://zh.wikipedia.org/wiki/洪子桓 "wikilink")
+  - 武術導演：[吳仁建](https://zh.wikipedia.org/wiki/吳仁建 "wikilink")
+  - 編劇：[吳毓青](https://zh.wikipedia.org/wiki/吳毓青 "wikilink")、[鄧莉芬](https://zh.wikipedia.org/wiki/鄧莉芬 "wikilink")、[費工怡](https://zh.wikipedia.org/wiki/費工怡 "wikilink")、[李登雅](https://zh.wikipedia.org/wiki/李登雅 "wikilink")、[陳萱](https://zh.wikipedia.org/wiki/陳萱 "wikilink")、[張文綺](https://zh.wikipedia.org/wiki/張文綺 "wikilink")、[洪子桓](https://zh.wikipedia.org/wiki/洪子桓 "wikilink")
 
 ## 參考資料
 

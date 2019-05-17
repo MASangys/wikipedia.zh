@@ -1,4 +1,4 @@
-**株式會社ARIKA**（，）是一家總公司位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")\[1\]，專門從事[家用電視遊戲開發的遊戲公司](../Page/家用遊戲機.md "wikilink")。成立於1995年。
+**株式會社ARIKA**（，）是一家總公司位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")\[1\]，專門從事[家用電視遊戲開發的遊戲公司](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。成立於1995年。
 
 ## 公司概要
 
@@ -18,7 +18,7 @@
 
   - 快打旋風EX2（1998年5月）
 
-  - [俄羅斯方塊大師](../Page/俄羅斯方塊大師.md "wikilink")（1998年8月）
+  - [俄羅斯方塊大師](https://zh.wikipedia.org/wiki/俄羅斯方塊大師 "wikilink")（1998年8月）
 
   - （1998年12月）
 
@@ -41,7 +41,7 @@
   - （1997年7月17日）
 
   - [Animetic Story Game 1
-    庫洛魔法使](../Page/百變小櫻#遊戲.md "wikilink")（1999年8月5日）
+    庫洛魔法使](https://zh.wikipedia.org/wiki/百變小櫻#遊戲 "wikilink")（1999年8月5日）
 
   - 快打旋風EX2 PLUＳ（1999年12月24日）
 
@@ -51,13 +51,13 @@
 
   - 俄羅斯方塊 with 庫洛魔法使 永恆的心（2000年8月10日）
 
-  - [音樂大作戰](../Page/音樂大作戰.md "wikilink")（2001年1月25日）
+  - [音樂大作戰](https://zh.wikipedia.org/wiki/音樂大作戰 "wikilink")（2001年1月25日）
 
-  - [EVERBLUE](../Page/EVERBLUE.md "wikilink")（2001年8月9日）
+  - [EVERBLUE](https://zh.wikipedia.org/wiki/EVERBLUE "wikilink")（2001年8月9日）
 
-  - [對局麻將！](../Page/對局麻將！.md "wikilink")（2001年12月20日）
+  - [對局麻將！](https://zh.wikipedia.org/wiki/對局麻將！ "wikilink")（2001年12月20日）
 
-  - [EVERBLUE2](../Page/EVERBLUE2.md "wikilink")（2002年8月8日）
+  - [EVERBLUE2](https://zh.wikipedia.org/wiki/EVERBLUE2 "wikilink")（2002年8月8日）
 
   - （2002年11月7日）
 
@@ -70,10 +70,10 @@
   - （2004年7月29日）
 
   - [TSUBASA翼 -RESERVoir
-    CHRoNiCLE-](../Page/TSUBASA翼.md "wikilink")（2005年10月27日）
+    CHRoNiCLE-](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（2005年10月27日）
 
   - [TSUBASA翼 -RESERVoir CHRoNiCLE-
-    Vol.2](../Page/TSUBASA翼.md "wikilink")（2006年4月20日）
+    Vol.2](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（2006年4月20日）
 
   - （2005年12月10日）
 
@@ -81,15 +81,16 @@
 
   - （2007年8月2日）
 
-  - [瑪利歐醫生&細菌撲滅](../Page/馬里奥醫生&細菌撲滅.md "wikilink")（2008年3月25日）
+  - [瑪利歐醫生&細菌撲滅](https://zh.wikipedia.org/wiki/馬里奥醫生&細菌撲滅 "wikilink")（2008年3月25日）
 
-  - [瑪利歐醫生](../Page/馬里奥醫生.md "wikilink")（2008年12月24日）
+  - [瑪利歐醫生](https://zh.wikipedia.org/wiki/馬里奥醫生 "wikilink")（2008年12月24日）
 
-  - [無情剎那](../Page/無情剎那.md "wikilink")（2009年9月2日）
+  - [無情剎那](https://zh.wikipedia.org/wiki/無情剎那 "wikilink")（2009年9月2日）
 
   - （2009年9月17日）
 
-  - [立體益智泡泡龍 3D](../Page/立體益智泡泡龍_3D.md "wikilink")（2011年2月26日）
+  - [立體益智泡泡龍
+    3D](https://zh.wikipedia.org/wiki/立體益智泡泡龍_3D "wikilink")（2011年2月26日）
 
   - 3D classic （2011年6月7日）
 
@@ -97,7 +98,7 @@
 
   - （2013年6月20日）
 
-  - [路易吉醫生&細菌撲滅](../Page/路易吉醫生&細菌撲滅.md "wikilink")（2014年1月15日）
+  - [路易吉醫生&細菌撲滅](https://zh.wikipedia.org/wiki/路易吉醫生&細菌撲滅 "wikilink")（2014年1月15日）
 
   - （2018年6月28日）
 

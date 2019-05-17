@@ -1,8 +1,9 @@
 **Ford–Fulkerson方法（Ford-Fulkerson method）**或
-**Ford–Fulkerson算法（FFA）**是一类计算[网络流的](../Page/网络流.md "wikilink")[最大流的](../Page/最大流问题.md "wikilink")[贪心算法](../Page/贪心算法.md "wikilink")。
+**Ford–Fulkerson算法（FFA）**是一类计算[网络流的](../Page/网络流.md "wikilink")[最大流的](https://zh.wikipedia.org/wiki/最大流问题 "wikilink")[贪心算法](../Page/贪心算法.md "wikilink")。
 之所以称之为“方法”而不是“算法”，是因为它寻找增广路径的方式并不是完全确定的，而是有几种不同[时间复杂度的实现方式](../Page/时间复杂度.md "wikilink")\[1\]\[2\]它在1956年由[L.R.
-Ford, Jr.](../Page/L.R._Ford,_Jr..md "wikilink") 及 [D.R.
-Fulkerson](../Page/D.R._Fulkerson.md "wikilink")\[3\]发表。“Ford–Fulkerson”这个名词通常也用于[Edmonds–Karp算法](../Page/Edmonds–Karp算法.md "wikilink")，这是一个特殊的Ford–Fulkerson算法实现。
+Ford, Jr.](https://zh.wikipedia.org/wiki/L.R._Ford,_Jr. "wikilink") 及
+[D.R.
+Fulkerson](https://zh.wikipedia.org/wiki/D.R._Fulkerson "wikilink")\[3\]发表。“Ford–Fulkerson”这个名词通常也用于[Edmonds–Karp算法](../Page/Edmonds–Karp算法.md "wikilink")，这是一个特殊的Ford–Fulkerson算法实现。
 
 算法的思想如下：只要有一条从源点（开始节点）到汇点（结束节点）的路径，在所有的边上都有可用容量，就沿着这条路径发送一个流。
 然后再找到另一条路径，一直到网络中不存在这种路径为止。 一条有可用容量的路径被称为一个增广路径。
@@ -43,7 +44,7 @@ Fulkerson](../Page/D.R._Fulkerson.md "wikilink")\[3\]发表。“Ford–Fulkerso
 
 步骤2中的路径可以用[广度优先搜索或](../Page/广度优先搜索.md "wikilink")[深度优先搜索在](../Page/深度优先搜索.md "wikilink")\(G_f(V,E_f)\)中找到。如果使用了[广度优先搜索](../Page/广度优先搜索.md "wikilink")，这个算法就可以被称为[Edmonds–Karp算法](../Page/Edmonds–Karp算法.md "wikilink")。
 
-当步骤2中找不到可行路径时，\(s\)就无法在残留网络中到达\(t\)。设\(S\)是在残留网络\(s\)中可以到达的节点的集合，然后从\(S\)到\(V\)的其余部分的网络一方面等于我们找到的从\(s\)到\(t\)的所有流的总流量，另一方面所有这样的流量组成了一个上限。这说明我们找到的流是最大的。参见[最大流最小割定理](../Page/最大流最小割定理.md "wikilink")。
+当步骤2中找不到可行路径时，\(s\)就无法在残留网络中到达\(t\)。设\(S\)是在残留网络\(s\)中可以到达的节点的集合，然后从\(S\)到\(V\)的其余部分的网络一方面等于我们找到的从\(s\)到\(t\)的所有流的总流量，另一方面所有这样的流量组成了一个上限。这说明我们找到的流是最大的。参见[最大流最小割定理](https://zh.wikipedia.org/wiki/最大流最小割定理 "wikilink")。
 
 如果图\(G(V,E)\)有多个源点和汇点，可以按如下方法处理：
 设\(T=\{t|t \text{为 目 标 点 }\}\)，\(S=\{s|s \text{为 源 点 }\}\)。

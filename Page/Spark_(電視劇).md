@@ -1,5 +1,5 @@
-《[Spark](../Page/Spark.md "wikilink")》（）是羅鐘贊、南寶拉主演的網劇，由[Cube
-娛樂與](../Page/Cube_Entertainment.md "wikilink")[iHQ製作](../Page/SidusHQ.md "wikilink")，7月25日起，每周一至周四於[Naver TVcast播出](../Page/Naver.md "wikilink")，共12集。
+《[Spark](https://zh.wikipedia.org/wiki/Spark "wikilink")》（）是羅鐘贊、南寶拉主演的網劇，由[Cube
+娛樂與](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[iHQ製作](../Page/SidusHQ.md "wikilink")，7月25日起，每周一至周四於[Naver TVcast播出](https://zh.wikipedia.org/wiki/Naver "wikilink")，共12集。
 
 ## 劇情
 
@@ -13,7 +13,7 @@
 
   - [南寶拉](../Page/南寶拉.md "wikilink") 飾演 宋河娜
   - [羅鐘贊](../Page/羅鐘贊.md "wikilink") 飾演 尹可溫
-  - [Yeo One](../Page/呂暢九.md "wikilink")
+  - [Yeo One](https://zh.wikipedia.org/wiki/呂暢九 "wikilink")
     ([Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink"))飾演 知勝
   - [朱多英](../Page/朱多英.md "wikilink") 飾演 元彩京
   - [朴真珠](../Page/朴真珠.md "wikilink") 飾演 楊真順
@@ -23,7 +23,7 @@
 
   - [Hui飾演](../Page/李會澤.md "wikilink") Dexter成員
   - [E'Dawn](../Page/Pentagon_\(男子組合\).md "wikilink") 飾演 Dexter成員
-  - [Yuto飾演](../Page/安達祐人.md "wikilink") Dexter成員
+  - [Yuto飾演](https://zh.wikipedia.org/wiki/安達祐人 "wikilink") Dexter成員
   - [Woo Seok](../Page/Pentagon_\(男子組合\).md "wikilink") 飾演 Dexter成員
 
 ## OST

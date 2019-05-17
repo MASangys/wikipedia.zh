@@ -1,4 +1,4 @@
-**I.B.I**（）由[韓國](../Page/韓國.md "wikilink")[LOEN娛樂於](../Page/LOEN娛樂.md "wikilink")2016年推出的企劃女團，成員包括[李海印](../Page/李海印.md "wikilink")、[金昭希](../Page/金昭希_\(歌手\).md "wikilink")、[尹彩暻](../Page/尹彩暻.md "wikilink")、[李秀炫](../Page/李秀炫.md "wikilink")、[韓慧利](../Page/韓慧利.md "wikilink")。
+**I.B.I**（）由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2016年推出的企劃女團，成員包括[李海印](https://zh.wikipedia.org/wiki/李海印 "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、[尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、[李秀炫](https://zh.wikipedia.org/wiki/李秀炫 "wikilink")、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")。
 
 ## 經歷
 
@@ -12,19 +12,19 @@
   - 8月18日，I.B.I在首爾市YES24 MUV HALL舉辦出道Showcase。\[5\]
   - 8月18日，I.B.I透過Mnet音樂節目《M\!Countdown》公開出道舞台《MOLAE MOLAE》。\[6\]
   - I.B.I將出演JTBC新旅遊綜藝節目《[Hello
-    I.B.I](../Page/Hello_I.B.I.md "wikilink")》，預計10月播出。\[7\]
+    I.B.I](https://zh.wikipedia.org/wiki/Hello_I.B.I "wikilink")》，預計10月播出。\[7\]
 
 ## 成員資料
 
-| 成員列表                                   |
-| -------------------------------------- |
-| 藝名                                     |
-| 漢字                                     |
-| [海印](../Page/李海印.md "wikilink")        |
-| [昭希](../Page/金昭希_\(歌手\).md "wikilink") |
-| [彩暻](../Page/彩暻.md "wikilink")         |
-| [秀炫](../Page/秀炫.md "wikilink")         |
-| [慧里](../Page/慧里.md "wikilink")         |
+| 成員列表                                                      |
+| --------------------------------------------------------- |
+| 藝名                                                        |
+| 漢字                                                        |
+| [海印](https://zh.wikipedia.org/wiki/李海印 "wikilink")        |
+| [昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink") |
+| [彩暻](../Page/彩暻.md "wikilink")                            |
+| [秀炫](https://zh.wikipedia.org/wiki/秀炫 "wikilink")         |
+| [慧里](https://zh.wikipedia.org/wiki/慧里 "wikilink")         |
 
 ## 音樂作品
 
@@ -42,7 +42,7 @@
 <td><p>首張單曲《<strong>몰래몰래</strong>》</p>
 <ul>
 <li>發行日：2016年8月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -107,7 +107,7 @@
 <td><p>《시계》</p></td>
 <td><p>시계</p></td>
 <td><p>彩暻</p></td>
-<td><p><a href="../Page/採媛.md" title="wikilink">採媛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/採媛" title="wikilink">採媛</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -116,7 +116,7 @@
 <td><p>《왜 불러》</p></td>
 <td><p>왜 불러 (Feat. 미료)</p></td>
 <td><p>昭希、彩暻</p></td>
-<td><p><a href="../Page/李秀敏_(1984年).md" title="wikilink">李秀敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李秀敏_(1984年)" title="wikilink">李秀敏</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -140,7 +140,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月31日</p></td>
-<td><p>《<a href="../Page/1%的可能性.md" title="wikilink">1%的可能性</a> OST Part.1》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/1%的可能性" title="wikilink">1%的可能性</a> OST Part.1》</p></td>
 <td><p>I Want You Bad</p></td>
 <td><p>海印</p></td>
 <td><p><a href="../Page/白成鉉.md" title="wikilink">白成鉉</a></p></td>
@@ -160,17 +160,17 @@
 <td><p>2017</p></td>
 <td><p>3月3日</p></td>
 <td><p>OST</p></td>
-<td><p>《<a href="../Page/金科長.md" title="wikilink">金科长</a> OST Part.4》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/金科長" title="wikilink">金科长</a> OST Part.4》</p></td>
 <td><p>Will You Love Me</p></td>
 <td><p>昭希</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月24日</p></td>
-<td><p>《<a href="../Page/焦急的羅曼史.md" title="wikilink">焦急的罗曼史</a> OST Part.3》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/焦急的羅曼史" title="wikilink">焦急的罗曼史</a> OST Part.3》</p></td>
 <td><p>变得奇怪 （Love song）</p></td>
 <td><p>秀炫</p></td>
-<td><p><a href="../Page/殷志源.md" title="wikilink">殷志源</a>&amp;金恩菲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>&amp;金恩菲</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -204,14 +204,14 @@
 <td><p>2014</p></td>
 <td></td>
 <td></td>
-<td><p>《<a href="../Page/KARA_PROJECT-KARA_The_Beginning.md" title="wikilink">KARA PROJECT-KARA The Beginning</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/KARA_PROJECT-KARA_The_Beginning" title="wikilink">KARA PROJECT-KARA The Beginning</a>》</p></td>
 <td><p>彩暻</p></td>
 <td><p>最終排名：5</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>1月22日－4月1日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>》</p></td>
 <td><p>慧里</p></td>
 <td><p>最終排名：12</p></td>
@@ -258,8 +258,8 @@
 </tr>
 <tr class="odd">
 <td><p>6月</p></td>
-<td><p><a href="../Page/On_Style.md" title="wikilink">On Style</a></p></td>
-<td><p>《<a href="../Page/Get_It_Beauty_2016.md" title="wikilink">Get It Beauty 2016</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/On_Style" title="wikilink">On Style</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Get_It_Beauty_2016" title="wikilink">Get It Beauty 2016</a>》</p></td>
 <td><p>彩暻</p></td>
 <td></td>
 <td></td>
@@ -283,7 +283,7 @@ tagTV</p></td>
 </tr>
 <tr class="even">
 <td><p>7月15日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《連線好朋友 I.O.I》</p></td>
 <td><p>海印、昭希、秀炫、慧里</p></td>
 <td></td>
@@ -331,14 +331,14 @@ tagTV</p></td>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="../Page/偶像大師.KR.md" title="wikilink">偶像大师.KR-追逐梦想</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/偶像大師.KR" title="wikilink">偶像大师.KR-追逐梦想</a>》</p></td>
 <td><p>慧里</p></td>
 <td><p>慧里</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/OCN.md" title="wikilink">OCN</a></p></td>
-<td><p>《<a href="../Page/焦急的羅曼史.md" title="wikilink">焦急的罗曼史</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/焦急的羅曼史" title="wikilink">焦急的罗曼史</a>》</p></td>
 <td><p>海印</p></td>
 <td><p>张恩菲</p></td>
 <td></td>

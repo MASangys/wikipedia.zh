@@ -2,7 +2,7 @@
 
 ## 简介
 
-2011年，Fireforge由前[暴雪娱乐员工Tim](../Page/暴雪娱乐.md "wikilink")
+2011年，Fireforge由前[暴雪娱乐员工Tim](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")
 Campbell在[美国](../Page/美国.md "wikilink")[加利福尼亚州成立](../Page/加利福尼亚州.md "wikilink")，时任腾讯美国总经理及游戏副总经理的Brad
 Bao在之后主导了对Fireforge的投资。\[2\]
 

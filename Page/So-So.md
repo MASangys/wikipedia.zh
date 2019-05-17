@@ -1,9 +1,9 @@
-《**So-So**》（）是[韓國女歌手](../Page/韓國.md "wikilink")[白娥娟的第二張數位單曲](../Page/白娥娟.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2016年5月24日發行。
+《**So-So**》（）是[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[白娥娟的第二張數位單曲](../Page/白娥娟.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2016年5月24日發行。
 
 ## 概述
 
-主打曲〈So-So〉為白娥娟與曾為[15&創作](../Page/15&.md "wikilink")〈Love is
-Madness〉的作曲家金元（）共同創作，是一首Neo
+主打曲〈So-So〉為白娥娟與曾為[15&創作](https://zh.wikipedia.org/wiki/15& "wikilink")〈Love
+is Madness〉的作曲家金元（）共同創作，是一首Neo
 Urban風格的歌曲，歌曲描述單身者「不再期待如電視劇般的邂逅幻想，卻仍想墜入愛河」的矛盾心境，其中歌詞「即使羨慕情侶們」及「一個人也不覺得孤單」為聽者帶來真實感受，透過清淡的語氣「so-so」描述雖不孤單但仍想談戀愛的心境。\[1\]\[2\]
 
 另一首收錄曲〈想說的話〉是描述離別的瞬間，歌曲特別處理低音部份，以凸顯離別時的低落情緒。\[3\]
@@ -20,7 +20,7 @@ Urban風格的歌曲，歌曲描述單身者「不再期待如電視劇般的邂
 <thead>
 <tr class="header">
 <th><p>歌曲</p></th>
-<th><p>韓國<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a>（2016年）</p></th>
+<th><p>韓國<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a>（2016年）</p></th>
 <th><p>銷售</p></th>
 <th><p>引用資料</p></th>
 </tr>

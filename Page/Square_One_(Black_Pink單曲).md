@@ -1,5 +1,5 @@
 《**Square
-One**》是[韓國](../Page/韓國.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[BLACKPINK的出道首張單曲](../Page/BLACKPINK.md "wikilink")，由[YG娛樂製作](../Page/YG娛樂.md "wikilink")，KT音樂發行，於2016年8月8日推出，主打曲為〈[口哨](../Page/口哨_\(BLACKPINK歌曲\).md "wikilink")〉及〈[Boombayah](../Page/Boombayah.md "wikilink")〉。
+One**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK的出道首張單曲](../Page/BLACKPINK.md "wikilink")，由[YG娛樂製作](../Page/YG娛樂.md "wikilink")，KT音樂發行，於2016年8月8日推出，主打曲為〈[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")〉及〈[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")〉。
 
 ## 簡介
 
@@ -16,23 +16,23 @@ One》。\[1\]
 One》於韓國時間晚間8時正式通過數位音樂網站公開\[7\]，〈口哨〉此曲公開後隨即空降韓國主要音源網站的實時音源榜一位，〈Boombayah〉則排名第二位，其中〈口哨〉一曲在發佈後的四小時半即韓國時間8月9日午夜12時30分於八大音源榜單達成「All-Kill」\[8\]\[9\]，並於14日下午13時30分達成「Perfect
 All-Kill」\[10\]\[11\]，成為第一組出道曲達成「Perfect
 All-Kill」的組合\[12\]。之後更是強佔韓國八大數位音樂網站單日、單週音源排行榜，甚至在一線組合回歸及多首新曲不斷推出下，仍連續16日佔據排行首位以及同時包攬了六大月榜第一位，並且在韓國最具權威的音樂綜合排行榜[Gaon
-Chart](../Page/Gaon_Chart.md "wikilink")
+Chart](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")
 8月份的「數位」、「下載」、「串流」、「移動通信」皆獲得週榜及月榜一位\[13\]。8月21日，BLACKPINK出道僅14天便以〈口哨〉一曲於
-[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人氣歌謠.md "wikilink")》獲得首個地面放送音樂節目一位。
+[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得首個地面放送音樂節目一位。
 
 此外，出道作品在海外也獲得多項佳績，首張單曲《Square
-One》在公開後旋即登上多個國家[iTunes](../Page/iTunes.md "wikilink")「綜合專輯榜」、「KPOP專輯榜」、「單曲榜」第一名的成績\[14\]，並在發佈後僅兩天的時間於8月10日登上美國iTunes專輯排行榜首位\[15\]，而這張專輯已經拿下了17個國家及地區iTunes專輯排行榜冠軍\[16\]，於美國[亞馬遜](../Page/亞馬遜公司.md "wikilink")「Rap\&Hip-Hop」、「Hot
+One》在公開後旋即登上多個國家[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")「綜合專輯榜」、「KPOP專輯榜」、「單曲榜」第一名的成績\[14\]，並在發佈後僅兩天的時間於8月10日登上美國iTunes專輯排行榜首位\[15\]，而這張專輯已經拿下了17個國家及地區iTunes專輯排行榜冠軍\[16\]，於美國[亞馬遜](../Page/亞馬遜公司.md "wikilink")「Rap\&Hip-Hop」、「Hot
 New
-Release」位居第七位，於[中國最大音樂網站](../Page/中國.md "wikilink")[QQ音樂排行榜](../Page/QQ音樂.md "wikilink")「音樂週榜」、「人氣榜」、「綜合MV榜」、「K-POP
-MV榜」取得一位，另外，〈Boombayah〉及〈口哨〉在8月16日分別打進[美國告示牌世界單曲榜第一名及第二名的位置](../Page/Billboard_Hot_100.md "wikilink")\[17\]，刷新韓國歌手最初及最短的紀錄。
+Release」位居第七位，於[中國最大音樂網站](../Page/中國.md "wikilink")[QQ音樂排行榜](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink")「音樂週榜」、「人氣榜」、「綜合MV榜」、「K-POP
+MV榜」取得一位，另外，〈Boombayah〉及〈口哨〉在8月16日分別打進[美國告示牌世界單曲榜第一名及第二名的位置](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")\[17\]，刷新韓國歌手最初及最短的紀錄。
 
 BLACKPINK做為新人僅活動一個月便在韓國流行音樂創下了前所未有的新紀錄，她們是第一組出道曲達成「Perfect
 All-Kill」的組合；第一組出道曲音樂錄影帶僅用4天零4個小時突破千萬點率閱的組合\[18\]，不僅締造韓國所有團體用時最短登頂美國iTunes排行榜、美國告示牌世界單曲榜\[19\]、韓國Gaon
-Chart排行榜、中國QQ音樂排行榜以及韓國女團中在最短時間內於音樂節目獲得一位的紀錄\[20\]，亦在發行後獲得各界高度讚賞，驚人的實力使得BLACKPINK繼[WINNER](../Page/WINNER.md "wikilink")、[iKON之後第三組獲得](../Page/iKON.md "wikilink")「怪物新人」美譽的韓國歌手。\[21\]
+Chart排行榜、中國QQ音樂排行榜以及韓國女團中在最短時間內於音樂節目獲得一位的紀錄\[20\]，亦在發行後獲得各界高度讚賞，驚人的實力使得BLACKPINK繼[WINNER](../Page/WINNER.md "wikilink")、[iKON之後第三組獲得](https://zh.wikipedia.org/wiki/iKON "wikilink")「怪物新人」美譽的韓國歌手。\[21\]
 
-2017年1月31日，截至韓國時間凌晨5時，〈Boombayah〉音樂錄影帶在[YouTube平台已突破](../Page/YouTube.md "wikilink")1億觀看人次\[22\]，並以175天的用時紀錄打破[JYP娛樂旗下女子組合](../Page/JYP娛樂.md "wikilink")[TWICE在](../Page/TWICE.md "wikilink")2015年發表的出道作品〈[Like
-OOH-AHH](../Page/THE_STORY_BEGINS_\(TWICE迷你專輯\).md "wikilink")〉1年23天的紀錄，亦成為韓國組合最快突破1億的新人出道歌曲\[23\]，而在2月2日以超過1百萬的點讚量成為韓國首個音樂錄影帶點讚量破百萬的女團\[24\]，不僅如此，在4月11日繼第二張單曲《[Square
-Two](../Page/Square_Two_\(Black_Pink單曲\).md "wikilink")》收錄的主打歌〈Playing
+2017年1月31日，截至韓國時間凌晨5時，〈Boombayah〉音樂錄影帶在[YouTube平台已突破](../Page/YouTube.md "wikilink")1億觀看人次\[22\]，並以175天的用時紀錄打破[JYP娛樂旗下女子組合](../Page/JYP娛樂.md "wikilink")[TWICE在](https://zh.wikipedia.org/wiki/TWICE "wikilink")2015年發表的出道作品〈[Like
+OOH-AHH](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")〉1年23天的紀錄，亦成為韓國組合最快突破1億的新人出道歌曲\[23\]，而在2月2日以超過1百萬的點讚量成為韓國首個音樂錄影帶點讚量破百萬的女團\[24\]，不僅如此，在4月11日繼第二張單曲《[Square
+Two](https://zh.wikipedia.org/wiki/Square_Two_\(Black_Pink單曲\) "wikilink")》收錄的主打歌〈Playing
 with
 Fire〉音樂錄影帶觀看次數達到1億後，〈口哨〉也在4月15日共歷經251天突破1億大關，除了刷新自身紀錄外，也成為韓國第一位也是目前唯一一位出道未滿1年便擁有三首破億音樂錄影帶的歌手。\[25\]
 
@@ -156,7 +156,7 @@ Fire〉音樂錄影帶觀看次數達到1億後，〈口哨〉也在4月15日共
 <td><p>2016年8月8日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
 <td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></p></td>
-<td><p><a href="../Page/韓國通訊.md" title="wikilink">KT Music</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國通訊" title="wikilink">KT Music</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

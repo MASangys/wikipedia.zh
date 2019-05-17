@@ -1,11 +1,11 @@
 《**Hopeless
-Love**》是[韓國組合](../Page/韓國.md "wikilink")[15&成員](../Page/15&.md "wikilink")[朴智敏的首張個人單曲](../Page/朴智敏.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2016年4月5日發行。
+Love**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏的首張個人單曲](../Page/朴智敏.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2016年4月5日發行。
 
 ## 概要
 
 本作相距前作《[Love is
-Madness](../Page/Love_is_Madness.md "wikilink")》約二個月，亦是朴智敏的首張個人單曲。歌曲〈Hopeless
-Love〉以鋼琴加上反覆的[打擊樂](../Page/打擊樂.md "wikilink")，描述單戀著朋友卻無法實現愛情的痛苦心境。\[1\]
+Madness](https://zh.wikipedia.org/wiki/Love_is_Madness "wikilink")》約二個月，亦是朴智敏的首張個人單曲。歌曲〈Hopeless
+Love〉以鋼琴加上反覆的[打擊樂](https://zh.wikipedia.org/wiki/打擊樂 "wikilink")，描述單戀著朋友卻無法實現愛情的痛苦心境。\[1\]
 
 ## 歌曲
 
@@ -26,7 +26,7 @@ Love〉以鋼琴加上反覆的[打擊樂](../Page/打擊樂.md "wikilink")，�
 <td><p>月榜</p></td>
 </tr>
 <tr class="even">
-<td><p>韓國<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon數位綜合榜</a></p></td>
+<td><p>韓國<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon數位綜合榜</a></p></td>
 <td><p>17[2]</p></td>
 </tr>
 <tr class="odd">

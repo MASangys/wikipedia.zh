@@ -1,5 +1,5 @@
 **Hit The
-Stage**（）是韓國[Mnet電視台的舞蹈競技綜藝節目](../Page/Mnet媒體.md "wikilink")，自2016年7月27日起，逢韓國時間星期三晚間11時開始播放，每集約60分鐘。主持人為[全炫茂和](../Page/全炫茂.md "wikilink")[李秀根](../Page/李秀根.md "wikilink")。
+Stage**（）是韓國[Mnet電視台的舞蹈競技綜藝節目](../Page/Mnet媒體.md "wikilink")，自2016年7月27日起，逢韓國時間星期三晚間11時開始播放，每集約60分鐘。主持人為[全炫茂和](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")。
 
 韓國的明星和偶像在節目中與專業的舞者搭檔，每兩集以一主題為核心挑戰各種不同的舞蹈，並由200名現場觀眾及數名藝人評審票選排名。\[1\]\[2\]
 
@@ -20,24 +20,24 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 <td><p>出演集數</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金孝淵.md" title="wikilink">孝淵</a></p></td>
-<td><p><a href="../Page/少女時代.md" title="wikilink">少女時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td><p>1989</p></td>
 <td><p><a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a></p></td>
 <td><p>1-6、9-10</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李泰民.md" title="wikilink">泰民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李泰民" title="wikilink">泰民</a></p></td>
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a></p></td>
 <td><p>1993</p></td>
-<td><p><a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 <td><p>1-2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/尹寶拉.md" title="wikilink">寶拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">寶拉</a></p></td>
 <td><p><a href="../Page/SISTAR.md" title="wikilink">SISTAR</a></p></td>
 <td><p>1990</p></td>
-<td><p><a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 <td><p>1-2、5-8</p></td>
 </tr>
 <tr class="odd">
@@ -48,28 +48,28 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 <td><p>1-4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/有權.md" title="wikilink">U-Kwon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有權" title="wikilink">U-Kwon</a></p></td>
 <td><p><a href="../Page/Block_B.md" title="wikilink">Block B</a></p></td>
 <td><p>1992</p></td>
 <td><p><a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/安養市.md" title="wikilink">安養市</a></p></td>
 <td><p>1-4、7-8、10</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/孫軒宇.md" title="wikilink">Shownu</a></p></td>
-<td><p><a href="../Page/MONSTA_X.md" title="wikilink">MONSTA X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫軒宇" title="wikilink">Shownu</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a></p></td>
 <td><p>1992</p></td>
-<td><p><a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 <td><p>1-2、5-8、10</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a></p></td>
-<td><p><a href="../Page/TWICE.md" title="wikilink">TWICE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>1996</p></td>
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a><a href="../Page/京田邊市.md" title="wikilink">京田邊市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a><a href="../Page/京田邊市.md" title="wikilink">京田邊市</a></p></td>
 <td><p>1-4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Ten_(歌手).md" title="wikilink">Ten</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ten_(歌手)" title="wikilink">Ten</a></p></td>
 <td><p><a href="../Page/NCT.md" title="wikilink">NCT</a></p></td>
 <td><p>1996</p></td>
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
@@ -77,44 +77,44 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張賢勝.md" title="wikilink">張賢勝</a></p></td>
-<td><p>前<a href="../Page/BEAST.md" title="wikilink">BEAST</a></p></td>
+<td><p>前<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a></p></td>
 <td><p>1989</p></td>
 <td><p><a href="../Page/全羅南道.md" title="wikilink">全羅南道</a><a href="../Page/順天市.md" title="wikilink">順天市</a></p></td>
 <td><p>3-8</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Bigstar.md" title="wikilink">Bigstar</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bigstar" title="wikilink">Bigstar</a></p></td>
 <td><p>1992</p></td>
 <td><p><a href="../Page/釜山廣域市.md" title="wikilink">釜山廣域市</a></p></td>
 <td><p>3-8</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金請夏.md" title="wikilink">金請夏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a></p></td>
 <td><p><a href="../Page/I.O.I.md" title="wikilink">I.O.I</a></p></td>
 <td><p>1996</p></td>
-<td><p><a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 <td><p>3-4、10</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>1987</p></td>
-<td><p><a href="../Page/加利福尼亞州.md" title="wikilink">加州</a><a href="../Page/聖地牙哥_(加利福尼亞州).md" title="wikilink">聖地牙哥市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加州</a><a href="../Page/聖地牙哥_(加利福尼亞州).md" title="wikilink">聖地牙哥市</a></p></td>
 <td><p>5-6</p></td>
 </tr>
 <tr class="even">
 <td><p>Rocky</p></td>
-<td><p><a href="../Page/ASTRO.md" title="wikilink">ASTRO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a></p></td>
 <td><p>1999</p></td>
-<td><p><a href="../Page/慶尚南道.md" title="wikilink">慶尚南道</a><a href="../Page/晉州市_(韓國).md" title="wikilink">晉州市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/慶尚南道" title="wikilink">慶尚南道</a><a href="https://zh.wikipedia.org/wiki/晉州市_(韓國)" title="wikilink">晉州市</a></p></td>
 <td><p>5-6</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭龍珠.md" title="wikilink">妮可</a></p></td>
 <td></td>
 <td><p>1991</p></td>
-<td><p><a href="../Page/加利福尼亞州.md" title="wikilink">加州</a><a href="../Page/洛杉磯.md" title="wikilink">洛杉磯市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加州</a><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯市</a></p></td>
 <td><p>7-8</p></td>
 </tr>
 <tr class="even">
@@ -126,27 +126,27 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李美珠.md" title="wikilink">美珠</a></p></td>
-<td><p><a href="../Page/Lovelyz.md" title="wikilink">Lovelyz</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a></p></td>
 <td><p>1994</p></td>
 <td><p><a href="../Page/忠清北道.md" title="wikilink">忠清北道</a><a href="../Page/沃川郡.md" title="wikilink">沃川郡</a></p></td>
 <td><p>7-8</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李玟暎.md" title="wikilink">Min</a></p></td>
-<td><p><a href="../Page/miss_A.md" title="wikilink">miss A</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李玟暎" title="wikilink">Min</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a></p></td>
 <td><p>1991</p></td>
-<td><p><a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/創造_(歌手).md" title="wikilink">創造</a></p></td>
-<td><p><a href="../Page/TEEN_TOP.md" title="wikilink">TEEN TOP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a></p></td>
 <td><p>1995</p></td>
-<td><p><a href="../Page/江原道_(韓國).md" title="wikilink">江原道</a><a href="../Page/春川市.md" title="wikilink">春川市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江原道_(韓國)" title="wikilink">江原道</a><a href="../Page/春川市.md" title="wikilink">春川市</a></p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金有謙.md" title="wikilink">有謙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a></p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>1997</p></td>
 <td><p><a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/南楊州市.md" title="wikilink">南楊州市</a></p></td>
@@ -156,18 +156,18 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 <td><p>碧土</p></td>
 <td><p><a href="../Page/UP10TION.md" title="wikilink">UP10TION</a></p></td>
 <td><p>1996</p></td>
-<td><p><a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/東豆川市.md" title="wikilink">東豆川市</a></p></td>
+<td><p><a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="https://zh.wikipedia.org/wiki/東豆川市" title="wikilink">東豆川市</a></p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="even">
 <td><p>恩真</p></td>
-<td><p><a href="../Page/DIA.md" title="wikilink">DIA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a></p></td>
 <td><p>1997</p></td>
 <td><p><a href="../Page/全羅南道.md" title="wikilink">全羅南道</a><a href="../Page/木浦市.md" title="wikilink">木浦市</a></p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭采妍.md" title="wikilink">采妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">采妍</a></p></td>
 <td><p><a href="../Page/全羅南道.md" title="wikilink">全羅南道</a><a href="../Page/順天市.md" title="wikilink">順天市</a></p></td>
 <td></td>
 <td></td>
@@ -182,7 +182,7 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 
   - 播出日期：2016年7月27日、8月3日
   - 藝人評審團：<small>J
-    Black、[黃光熙](../Page/黃光熙.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[朴娜萊](../Page/朴娜萊_\(喜劇演員\).md "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")、[金希珍](../Page/金希珍.md "wikilink")、[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](../Page/g.o.d.md "wikilink")）、[具俊曄](../Page/具俊曄.md "wikilink")（[酷龍](../Page/酷龍.md "wikilink")）、、[TWICE](../Page/TWICE.md "wikilink")（[志效](../Page/朴志效.md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[定延](../Page/定延.md "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[Sana](../Page/湊崎紗夏.md "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")）</small>
+    Black、[黃光熙](../Page/黃光熙.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")、[金希珍](https://zh.wikipedia.org/wiki/金希珍 "wikilink")、[朴俊炯](https://zh.wikipedia.org/wiki/朴俊炯 "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[具俊曄](https://zh.wikipedia.org/wiki/具俊曄 "wikilink")（[酷龍](../Page/酷龍.md "wikilink")）、、[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[志效](https://zh.wikipedia.org/wiki/朴志效 "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[定延](https://zh.wikipedia.org/wiki/定延 "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")）</small>
 
 <table>
 <tbody>
@@ -230,7 +230,7 @@ Priest Kim Ver.) + Opening + Sabbath</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a></p></td>
-<td><p><a href="../Page/JYP.md" title="wikilink">JYP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JYP" title="wikilink">JYP</a></p></td>
 <td><p>REVIVE</p></td>
 <td><p>吸血鬼</p></td>
 <td><p>144</p></td>
@@ -239,7 +239,7 @@ Priest Kim Ver.) + Opening + Sabbath</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="../Page/有權.md" title="wikilink">U-Kwon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有權" title="wikilink">U-Kwon</a></p></td>
 <td><p>B.B TRIPPIN</p></td>
 <td><p>別忘記 It G Ma + King S**t + Anyway</p></td>
 <td><p>小丑</p></td>
@@ -306,24 +306,24 @@ Priest Kim Ver.) + Opening + Sabbath</p></td>
   - 藝人評審團：<small>、、黃光熙（ZE:A）、朴娜萊、文熙俊、[李國主](../Page/李國主.md "wikilink")、朴俊炯（g.o.d）、具俊燁（酷龍）、裴允貞、J
     Black</small>
 
-|    |                    |                                              |                                              |                |      |     |    |
-| -- | ------------------ | -------------------------------------------- | -------------------------------------------- | -------------- | ---- | --- | -- |
-| 集數 | 順序                 | 參賽者                                          | 舞者                                           | 配樂             | 題材   | 得票數 | 優勝 |
-| 3  | OP                 | J Black X MMARY                              | 表演舞台                                         | **Hoya X 崔孝珍** |      |     |    |
-| 1  | Ten                | 鄭詩妍                                          | Hey Momma + Hit the Road Jack Pentatonix Ver | 清新的愛情          | 135  |     |    |
-| 2  | 張賢勝                | Stephanie                                    | No Filter                                    | 一見鍾情           | 138  |     |    |
-| 3  | 金請夏                | Waack Crush                                  | Intro + Single Ladies + Run the World(Girls) | 離別的女子          | 136  |     |    |
-| 4  | U-Kwon             | [YooA](../Page/YooA.md "wikilink")           | I'm Yours + Down In The DM (DJ Flex)         | 寵物的日常          | 142  |     |    |
-| 4  | 5                  | 孝淵                                           | 劉俊善                                          | 姊姊 你太美了        | 曖昧男女 | 149 |    |
-| 6  | Feeldog            | Feel Crush\[4\]                              | Work (R3hab & Quintino Remix)                | 愛情的對立          | 159  |     |    |
-| HS | 李國主 X 孫秉賢、、金秀路、李善泰 | 表演舞台                                         |                                              |                |      |     |    |
-| 7  | Momo               | [Mina](../Page/Mina_\(TWICE\).md "wikilink") | Crazy in Love (Remix)                        | 慾望和執著          | 141  |     |    |
-| 8  | Hoya               | 崔孝珍                                          | Close (Feat. Tove Lo)                        | 悲戀             | 161  |     |    |
+|    |                    |                                                       |                                              |                |      |     |    |
+| -- | ------------------ | ----------------------------------------------------- | -------------------------------------------- | -------------- | ---- | --- | -- |
+| 集數 | 順序                 | 參賽者                                                   | 舞者                                           | 配樂             | 題材   | 得票數 | 優勝 |
+| 3  | OP                 | J Black X MMARY                                       | 表演舞台                                         | **Hoya X 崔孝珍** |      |     |    |
+| 1  | Ten                | 鄭詩妍                                                   | Hey Momma + Hit the Road Jack Pentatonix Ver | 清新的愛情          | 135  |     |    |
+| 2  | 張賢勝                | Stephanie                                             | No Filter                                    | 一見鍾情           | 138  |     |    |
+| 3  | 金請夏                | Waack Crush                                           | Intro + Single Ladies + Run the World(Girls) | 離別的女子          | 136  |     |    |
+| 4  | U-Kwon             | [YooA](https://zh.wikipedia.org/wiki/YooA "wikilink") | I'm Yours + Down In The DM (DJ Flex)         | 寵物的日常          | 142  |     |    |
+| 4  | 5                  | 孝淵                                                    | 劉俊善                                          | 姊姊 你太美了        | 曖昧男女 | 149 |    |
+| 6  | Feeldog            | Feel Crush\[4\]                                       | Work (R3hab & Quintino Remix)                | 愛情的對立          | 159  |     |    |
+| HS | 李國主 X 孫秉賢、、金秀路、李善泰 | 表演舞台                                                  |                                              |                |      |     |    |
+| 7  | Momo               | [Mina](../Page/Mina_\(TWICE\).md "wikilink")          | Crazy in Love (Remix)                        | 慾望和執著          | 141  |     |    |
+| 8  | Hoya               | 崔孝珍                                                   | Close (Feat. Tove Lo)                        | 悲戀             | 161  |     |    |
 
 ### Uniform
 
   - 播出日期：2016年8月24日、8月31日
-  - 藝人評審團：<small>具俊燁（酷龍）、朴俊炯（g.o.d）、[朴娜勑](../Page/朴娜勑.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")、李國主、文熙俊、[金在德](../Page/金在德.md "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、裴允貞、[鄭珍雲](../Page/鄭珍雲.md "wikilink")（[2AM](../Page/2AM.md "wikilink")）、J
+  - 藝人評審團：<small>具俊燁（酷龍）、朴俊炯（g.o.d）、[朴娜勑](../Page/朴娜勑.md "wikilink")、[梁世炯](https://zh.wikipedia.org/wiki/梁世炯 "wikilink")、李國主、文熙俊、[金在德](https://zh.wikipedia.org/wiki/金在德 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、裴允貞、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、J
     Black
 
 <table>

@@ -1,13 +1,13 @@
 ***predia*** ( プレディア
-)是[日本的女子](../Page/日本.md "wikilink")[偶像團體](../Page/日本偶像.md "wikilink")。宣傳語是「只是可愛已經不夠了，歡迎來到大人的遊樂場！」（)。\[1\]
+)是[日本的女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")。宣傳語是「只是可愛已經不夠了，歡迎來到大人的遊樂場！」（)。\[1\]
 [PLATINUM
-PASSPORT所屬](../Page/w:ja:プラチナムプロダクション.md "wikilink")，唱片公司為[日本皇冠旗下的品牌CROWN](../Page/w:ja:日本クラウン.md "wikilink")
+PASSPORT所屬](https://zh.wikipedia.org/wiki/w:ja:プラチナムプロダクション "wikilink")，唱片公司為[日本皇冠旗下的品牌CROWN](https://zh.wikipedia.org/wiki/w:ja:日本クラウン "wikilink")
 GOLD。
 
 ## 概要
 
-於2010年11月23日，作為**[PASSPO☆](../Page/PASSPO☆.md "wikilink")**的姊妹團體於**PASSPO☆**的單獨Live[開場表演宣布結成](../Page/w:en:opening_act.md "wikilink")。起先的團體名稱是「**pre-dia**」，取自[鑽石](../Page/鑽石.md "wikilink")(diamond)的[原石](../Page/礦石.md "wikilink")(pre-)的含意；2011年12月，將中間連字號(-)去除，正式名稱變更為「**predia**」，沿用至今。由於成員年齡比起常見的偶像團體要長許多，常自稱大人偶像（大人アイドル）\[2\]。
-編曲部分多以強烈的[電子合成器構成的](../Page/電子合成器.md "wikilink")[舞曲作為基調](../Page/舞曲.md "wikilink")，不時搭上[電吉他演奏的方式呈現](../Page/電吉他.md "wikilink")，另一方面亦有[抒情歌曲與較為輕快的歌曲](../Page/w:ja:叙情歌.md "wikilink")。將[Live演唱會稱為](../Page/演唱會.md "wikilink")「[party](../Page/派對.md "wikilink")」（），演出時成員的穿著以[高跟鞋與露肩剪裁的表演服為主](../Page/高跟鞋.md "wikilink")。經過數年[地下時期以及團體部分成員的人事更動後](../Page/獨立音樂.md "wikilink")，2014年8月6日透過日本皇冠發行單曲「**」，正式主流出道。
+於2010年11月23日，作為**[PASSPO☆](../Page/PASSPO☆.md "wikilink")**的姊妹團體於**PASSPO☆**的單獨Live[開場表演宣布結成](https://zh.wikipedia.org/wiki/w:en:opening_act "wikilink")。起先的團體名稱是「**pre-dia**」，取自[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")(diamond)的[原石](https://zh.wikipedia.org/wiki/礦石 "wikilink")(pre-)的含意；2011年12月，將中間連字號(-)去除，正式名稱變更為「**predia**」，沿用至今。由於成員年齡比起常見的偶像團體要長許多，常自稱大人偶像（大人アイドル）\[2\]。
+編曲部分多以強烈的[電子合成器構成的](https://zh.wikipedia.org/wiki/電子合成器 "wikilink")[舞曲作為基調](../Page/舞曲.md "wikilink")，不時搭上[電吉他演奏的方式呈現](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，另一方面亦有[抒情歌曲與較為輕快的歌曲](https://zh.wikipedia.org/wiki/w:ja:叙情歌 "wikilink")。將[Live演唱會稱為](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「[party](../Page/派對.md "wikilink")」（），演出時成員的穿著以[高跟鞋與露肩剪裁的表演服為主](../Page/高跟鞋.md "wikilink")。經過數年[地下時期以及團體部分成員的人事更動後](../Page/獨立音樂.md "wikilink")，2014年8月6日透過日本皇冠發行單曲「**」，正式主流出道。
 較具規模的公演，始於2016年年尾舉行的成團6周年紀念巡迴公演「**predia 6th Anniversary
 tour**」，巡迴日本全國5城市。\[3\]2017年4月起，為配合主流第6張單曲「**」的發布，於日本國內舉辦單曲發布巡迴公演「**predia
 release tour 2017
@@ -234,7 +234,7 @@ HALL舉行的同巡演最終公演，宣布青山、林、岡村、松本等4名
 
 ### 地下時期
 
-**[單曲](../Page/單曲.md "wikilink")**
+**[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")**
 
 <table>
 <thead>
@@ -242,7 +242,7 @@ HALL舉行的同巡演最終公演，宣布青山、林、岡村、松本等4名
 <th><p>#</p></th>
 <th><p>發行日期</p></th>
 <th><p>名稱</p></th>
-<th><p><a href="../Page/c/w.md" title="wikilink">c/w</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/c/w" title="wikilink">c/w</a></p></th>
 <th><p>Oricon周榜最高位</p></th>
 <th><p>商品編號</p></th>
 <th><p>發行類型</p></th>
@@ -310,7 +310,7 @@ CD</p></td>
 </tbody>
 </table>
 
-**[專輯](../Page/專輯.md "wikilink")**
+**[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")**
 
 <table>
 <thead>
@@ -363,7 +363,7 @@ PSMC-0002</p></td>
 </tbody>
 </table>
 
-**[迷你專輯](../Page/迷你專輯.md "wikilink")**
+**[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")**
 
 <table>
 <thead>
@@ -416,7 +416,7 @@ CD</p></td>
 | -- | ---------- | --------------------------------------------------- | --- | ------------------------------------ |
 | 1  | 2013年10月7日 | **predia LIVE DVD SHIBUYA-AX PARTY ON MAY 3, 2013** | DVD | 2013年5月3日のSHIBUYA-AXワンマンパーティーのLIVE映像 |
 
-**[精選輯](../Page/精選輯.md "wikilink")**
+**[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")**
 
 <table>
 <thead>
@@ -814,19 +814,20 @@ CD</p></td>
 
 ### 麻糬加起司（）
 
-湊與岡村、村上三人在2013年12月，與同事務所的女子樂團[BAND-MAID成員的廣瀨茜](../Page/BAND-MAID.md "wikilink")、遠乃歌波共組[原樂器伴奏演唱團體](../Page/原音樂.md "wikilink")「****」，由湊與村上主唱、岡村負責鍵盤樂器、廣瀨擔當木箱鼓、遠乃彈奏吉他。並曾於2015年9月時發行單曲「**」。\[31\]
+湊與岡村、村上三人在2013年12月，與同事務所的女子樂團[BAND-MAID成員的廣瀨茜](https://zh.wikipedia.org/wiki/BAND-MAID "wikilink")、遠乃歌波共組[原樂器伴奏演唱團體](https://zh.wikipedia.org/wiki/原音樂 "wikilink")「****」，由湊與村上主唱、岡村負責鍵盤樂器、廣瀨擔當木箱鼓、遠乃彈奏吉他。並曾於2015年9月時發行單曲「**」。\[31\]
 \=== Odd Eye（） ===
-澤口自2016年開始，固定擔當深夜網路廣播節目「」的每週二助理主持人。以此為契機，澤口與該節目的冠名主持人鷲崎健，以及週三助理主持人青木佑磨三人組成音樂團體「****」。並在2017年9月22日，透過節目所屬廣播公司[文化放送發行原創音樂CD](../Page/株式會社文化放送.md "wikilink")「**」。\[32\]
+澤口自2016年開始，固定擔當深夜網路廣播節目「」的每週二助理主持人。以此為契機，澤口與該節目的冠名主持人鷲崎健，以及週三助理主持人青木佑磨三人組成音樂團體「****」。並在2017年9月22日，透過節目所屬廣播公司[文化放送發行原創音樂CD](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")「**」。\[32\]
 
 ## 節目出演
 
 ### 電視劇
 
 **2015年**
-\***[給夢的女孩](../Page/w:ja:夢を与える.md "wikilink")**\[33\]（暫譯）（2015年5月16日 -
+\***[給夢的女孩](https://zh.wikipedia.org/wiki/w:ja:夢を与える "wikilink")**\[33\]（暫譯）（2015年5月16日
+-
 6月6日、[WOWOW](../Page/WOWOW.md "wikilink")）-青山、林、前田、松本、湊、村上等6人飾演[夏帆在劇中所屬的二線女子團體](../Page/夏帆.md "wikilink")「ニャンギャル7」的團員，岡村、櫻子、澤口、水野在劇中亦有客串演出。
 **2017年**
-\***[東京妄想女子](../Page/東京白日夢女.md "wikilink")**\[34\]
+\***[東京妄想女子](https://zh.wikipedia.org/wiki/東京白日夢女 "wikilink")**\[34\]
 （2017年1月18日-、[NTV](../Page/日本電視台.md "wikilink")）-前田、松本（客串）
 
 ### 綜藝節目
@@ -836,11 +837,11 @@ CD</p></td>
 ### 網路直播
 
   - **prediaの大人のオモチャ箱** （隔週四出演）\[35\] （2014年4月15日
-    -、[SHOWROOM](../Page/w:ja:SHOWROOM.md "wikilink")）
+    -、[SHOWROOM](https://zh.wikipedia.org/wiki/w:ja:SHOWROOM "wikilink")）
 
 ## 定期公演
 
-每月約一至二次不等頻率的公演。常與姊妹團體**PASSPO☆**、**[palet](../Page/w:ja:palet.md "wikilink")**等，以及同經紀公司的其他團體舉行共同售票公演，公演亦開放網路同步收看。\[36\]
+每月約一至二次不等頻率的公演。常與姊妹團體**PASSPO☆**、**[palet](https://zh.wikipedia.org/wiki/w:ja:palet "wikilink")**等，以及同經紀公司的其他團體舉行共同售票公演，公演亦開放網路同步收看。\[36\]
 
 ## 演唱會
 

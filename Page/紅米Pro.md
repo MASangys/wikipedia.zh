@@ -1,4 +1,4 @@
-**紅米Pro**是[小米科技於](../Page/小米科技.md "wikilink")2016年7月27日所推出的中階[智慧型手機](../Page/智慧型手機.md "wikilink")，為[紅米手機系列中首款雙鏡頭設計的手機](../Page/紅米手機.md "wikilink")，也是紅米系列的旗艦機種，共有三種版本，尊享版搭配[Helio](../Page/Helio_系列.md "wikilink")™
+**紅米Pro**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年7月27日所推出的中階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為[紅米手機系列中首款雙鏡頭設計的手機](https://zh.wikipedia.org/wiki/紅米手機 "wikilink")，也是紅米系列的旗艦機種，共有三種版本，尊享版搭配[Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™
 X25、4GB記憶體、128GB儲存空間，預計2016年8月6號發售。
 
 ## 詳細規格
@@ -48,21 +48,21 @@ X25、4GB記憶體、128GB儲存空間，預計2016年8月6號發售。
 <tr class="even">
 <td><p>4G通訊協定</p></td>
 <td><p><a href="../Page/長期演進技術.md" title="wikilink">FDD-LTE</a>：B1/B3/B7/B5/B8<br />
-<a href="../Page/分時長期演進.md" title="wikilink">TDD-LTE</a>：B38/B39/B40/B41(2555-2655MHz)</p></td>
+<a href="https://zh.wikipedia.org/wiki/分時長期演進" title="wikilink">TDD-LTE</a>：B38/B39/B40/B41(2555-2655MHz)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>螢幕</p></td>
-<td><p><a href="../Page/OLED.md" title="wikilink">OLED</a> 顯示器、5.5 吋、1920×1080 <a href="../Page/Full_HD.md" title="wikilink">Full HD</a> <a href="../Page/解析度.md" title="wikilink">解析度</a>、60000:1對比度、100% NTSC色域、342<a href="../Page/每英寸像素.md" title="wikilink">ppi</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/OLED" title="wikilink">OLED</a> 顯示器、5.5 吋、1920×1080 <a href="../Page/Full_HD.md" title="wikilink">Full HD</a> <a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a>、60000:1對比度、100% NTSC色域、342<a href="../Page/每英寸像素.md" title="wikilink">ppi</a><br />
 陽光屏、夜光屏、護眼模式、色溫調整</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>CPU</p></td>
-<td><p><a href="../Page/MediaTek.md" title="wikilink">MediaTek</a> <a href="../Page/Helio_系列.md" title="wikilink">Helio</a>™ X20 2.1Ghz</p></td>
-<td><p><a href="../Page/MediaTek.md" title="wikilink">MediaTek</a> <a href="../Page/Helio_系列.md" title="wikilink">Helio</a>™ X25 2.5Ghz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MediaTek" title="wikilink">MediaTek</a> <a href="https://zh.wikipedia.org/wiki/Helio_系列" title="wikilink">Helio</a>™ X20 2.1Ghz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MediaTek" title="wikilink">MediaTek</a> <a href="https://zh.wikipedia.org/wiki/Helio_系列" title="wikilink">Helio</a>™ X25 2.5Ghz</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -103,7 +103,7 @@ X25、4GB記憶體、128GB儲存空間，預計2016年8月6號發售。
 </tr>
 <tr class="odd">
 <td><p>相機</p></td>
-<td><p>主相機：1300 萬像素Sony IMX258鏡頭、F/2.0光圈、五片式鏡頭、<a href="../Page/PDAF.md" title="wikilink">PDAF</a><a href="../Page/相位.md" title="wikilink">相位對焦</a>、暗光畫質增強技術、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="../Page/fps.md" title="wikilink">fps</a> 慢動作錄影<br />
+<td><p>主相機：1300 萬像素Sony IMX258鏡頭、F/2.0光圈、五片式鏡頭、<a href="https://zh.wikipedia.org/wiki/PDAF" title="wikilink">PDAF</a><a href="https://zh.wikipedia.org/wiki/相位" title="wikilink">相位對焦</a>、暗光畫質增強技術、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="https://zh.wikipedia.org/wiki/fps" title="wikilink">fps</a> 慢動作錄影<br />
 景深輔助相機：500 萬像素三星鏡頭、F/2.0光圈<br />
 前相機：800 萬像素鏡頭、F/2.0光圈、第二代36級智慧美顏模式、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a></p></td>
 <td></td>
@@ -129,13 +129,13 @@ X25、4GB記憶體、128GB儲存空間，預計2016年8月6號發售。
 </tr>
 <tr class="odd">
 <td><p>衛星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/A-GPS.md" title="wikilink">A-GPS</a>、<a href="../Page/格洛納斯系統.md" title="wikilink">GLONASS</a>、<a href="../Page/北斗衛星導航系統.md" title="wikilink">北斗衛星導航系統</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a>、<a href="https://zh.wikipedia.org/wiki/格洛納斯系統" title="wikilink">GLONASS</a>、<a href="https://zh.wikipedia.org/wiki/北斗衛星導航系統" title="wikilink">北斗衛星導航系統</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>傳輸</p></td>
-<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/b/g/n、<a href="../Page/Wi-Fi_Direct.md" title="wikilink">Wi-Fi Direct</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> Display、<a href="../Page/藍芽.md" title="wikilink">藍芽</a>4.2、<a href="../Page/藍芽規範.md" title="wikilink">藍芽HID</a></p></td>
+<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/b/g/n、<a href="https://zh.wikipedia.org/wiki/Wi-Fi_Direct" title="wikilink">Wi-Fi Direct</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> Display、<a href="https://zh.wikipedia.org/wiki/藍芽" title="wikilink">藍芽</a>4.2、<a href="https://zh.wikipedia.org/wiki/藍芽規範" title="wikilink">藍芽HID</a></p></td>
 <td></td>
 <td></td>
 </tr>

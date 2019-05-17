@@ -1,5 +1,5 @@
 **Tesla Model
-X**是一款由美国[特斯拉公司开发的一款高性能的电动](../Page/特斯拉汽車.md "wikilink")[SUV](../Page/SUV.md "wikilink")，于2016年[日内瓦车展上发布](../Page/日内瓦车展.md "wikilink")。鹰翼门是此款车的最大特色之一，后侧门能以向上延展方式掀开，同时侦测侧边及上方的障碍物避免碰撞，达到即便在狭窄的空间范围仍可轻松进出。\[1\]
+X**是一款由美国[特斯拉公司开发的一款高性能的电动](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")，于2016年[日内瓦车展上发布](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。鹰翼门是此款车的最大特色之一，后侧门能以向上延展方式掀开，同时侦测侧边及上方的障碍物避免碰撞，达到即便在狭窄的空间范围仍可轻松进出。\[1\]
 
 | 規格          | P90D  | 90D   |
 | ----------- | ----- | ----- |

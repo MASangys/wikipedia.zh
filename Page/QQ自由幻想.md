@@ -2,7 +2,7 @@
 
 《自由幻想》中，也有不少中国元素，如元旦、新年时的财神与灯笼、“八仙过海”活动中的[神仙](../Page/神仙.md "wikilink")\[2\]、七夕的“玉兔”形象\[3\]等。
 
-该游戏可在[Windows平台上运行](../Page/Windows.md "wikilink")。
+该游戏可在[Windows平台上运行](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 参考文献
 

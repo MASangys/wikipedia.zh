@@ -1,8 +1,8 @@
 《**Unpretty
-Rapstar**》（）是2015年1月29日至2015年3月26日播出的[韩国音乐节目](../Page/韩国.md "wikilink")。“Unpretty”象徵著不刻意掩飾自我外表，而展現真正實力（real
+Rapstar**》（）是2015年1月29日至2015年3月26日播出的[韩国音乐节目](https://zh.wikipedia.org/wiki/韩国 "wikilink")。“Unpretty”象徵著不刻意掩飾自我外表，而展現真正實力（real
 me）的態度。与之前在mnet播出的《[Show Me The
-Money](../Page/SHOW_ME_THE_MONEY.md "wikilink")》系列一样是[Hiphop选秀节目](../Page/嘻哈.md "wikilink")，特点是竞赛者全部是女Rapper。此外每期都有知名Hip
-Hop制作人们参与，对选手们的实力进行评价，发行音源是用一种适者生存的方式进行。第一季[Cheetah获得了冠军](../Page/Cheetah.md "wikilink")。
+Money](https://zh.wikipedia.org/wiki/SHOW_ME_THE_MONEY "wikilink")》系列一样是[Hiphop选秀节目](../Page/嘻哈.md "wikilink")，特点是竞赛者全部是女Rapper。此外每期都有知名Hip
+Hop制作人们参与，对选手们的实力进行评价，发行音源是用一种适者生存的方式进行。第一季[Cheetah获得了冠军](https://zh.wikipedia.org/wiki/Cheetah "wikilink")。
 
 ## 节目环节
 
@@ -21,24 +21,25 @@ rap进行自我介绍以及对决口号](../Page/即興饒舌.md "wikilink")，�
 
 ## 出演者列表
 
-**冠军：**[Cheetah](../Page/Cheetah.md "wikilink")（[Show Me The
-Money第一季选手](../Page/Show_Me_The_Money.md "wikilink")）
+**冠军：**[Cheetah](https://zh.wikipedia.org/wiki/Cheetah "wikilink")（[Show
+Me The Money第一季选手](../Page/Show_Me_The_Money.md "wikilink")）
 
-**亚军：**[Jessi](../Page/Jessi.md "wikilink") ()
+**亚军：**[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink") ()
 
 **季军：**（[Show Me The
 Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")，[Unpretty
-Rapstar 3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
+Rapstar
+3选手](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3 "wikilink")）
 
 **进入半决赛：**
 
   - （[Show Me The
     Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")）(进入半决赛)
 
-  - [申智珉](../Page/申智珉.md "wikilink")
-    ([AOA](../Page/AOA_\(韓國\).md "wikilink")) (进入半决赛)
+  - [申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")
+    ([AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")) (进入半决赛)
 
-  - [Kisum](../Page/Kisum.md "wikilink")（[Show Me The
+  - [Kisum](https://zh.wikipedia.org/wiki/Kisum "wikilink")（[Show Me The
     Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")）(进入半决赛)
 
 **被淘汰选手：**
@@ -78,7 +79,7 @@ Rapstar 3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
 <td><p>年份</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">KOR (韩国)</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">KOR (韩国)</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -106,19 +107,19 @@ Rapstar 3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
 <td><p>没关系 (Prod. by SouLime)</p></td>
 </tr>
 <tr class="even">
-<td><p>Unpretty Dreams (Prod. by <a href="../Page/GRAY.md" title="wikilink">GRAY</a>)</p></td>
+<td><p>Unpretty Dreams (Prod. by <a href="https://zh.wikipedia.org/wiki/GRAY" title="wikilink">GRAY</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Puss (Prod. by )</p></td>
 </tr>
 <tr class="even">
-<td><p>On &amp; On (prod. by <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
+<td><p>On &amp; On (prod. by <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>To.Mom</p></td>
 </tr>
 <tr class="even">
-<td><p>谁也不知道 (prod. by <a href="../Page/MC夢.md" title="wikilink">MC夢</a>)</p></td>
+<td><p>谁也不知道 (prod. by <a href="https://zh.wikipedia.org/wiki/MC夢" title="wikilink">MC夢</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>"—" 表示没有图表或在该地区没有公布。</p></td>
@@ -148,8 +149,10 @@ Rapstar 3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
 
 ## 参见
 
-  - [Unpretty Rapstar 2](../Page/Unpretty_Rapstar_2.md "wikilink")
-  - [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")
+  - [Unpretty Rapstar
+    2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")
+  - [Unpretty Rapstar
+    3](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3 "wikilink")
 
 ## 外部链接
 
