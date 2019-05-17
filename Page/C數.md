@@ -1,0 +1,7 @@
+**c數**（）是<span class="ilh-all"><span class="ilh-page">狄拉克</span><span class="noprint ilh-comment">（<span class="ilh-lang">[中文](../Page/汉语.md "wikilink")</span><span class="ilh-colon">：</span><span class="ilh-link">\[//zh.wikipedia.org/wiki/保羅·狄拉克
+<span dir="auto" lang="zh">保羅·狄拉克</span>\]</span>）</span></span><span class="ilh-all"></span>用過的一種命名法，用來表示[量子力學中可以交換相乘次序而結果不变的量](../Page/量子力学.md "wikilink")（一般是[純量](../Page/标量.md "wikilink")），和對應的是q數，q數不滿足<span class="ilh-all"><span class="ilh-page">乘法交換律</span><span class="noprint ilh-comment">（<span class="ilh-lang">[中文](../Page/汉语.md "wikilink")</span><span class="ilh-colon">：</span><span class="ilh-link">\[//zh.wikipedia.org/wiki/乘法交換律
+<span dir="auto" lang="zh">乘法交換律</span>\]</span>）</span></span><span class="ilh-all"></span>，一般是<span class="ilh-all"><span class="ilh-page">算符</span><span class="noprint ilh-comment">（<span class="ilh-lang">[中文](../Page/汉语.md "wikilink")</span><span class="ilh-colon">：</span><span class="ilh-link">\[//zh.wikipedia.org/wiki/算符
+<span dir="auto" lang="zh">算符</span>\]</span>）</span></span><span class="ilh-all"></span>。
+
+[Category:物理小作品](https://zh.wikipedia.org/wiki/Category:物理小作品 "wikilink")
+[Category:量子力学](https://zh.wikipedia.org/wiki/Category:量子力学 "wikilink")

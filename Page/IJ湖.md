@@ -1,0 +1,9 @@
+**IJ湖**（IJmeer）是[荷蘭的一個湖泊](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，橫跨[北荷蘭省和](https://zh.wikipedia.org/wiki/北荷蘭省 "wikilink")[弗萊福蘭省](https://zh.wikipedia.org/wiki/弗萊福蘭省 "wikilink")\[1\]。自1998年開始至2004年，政府曾在湖中興建眾多島嶼以提供住宅用地。
+
+## 參考資料
+
+<references/>
+
+[Category:荷蘭地理](https://zh.wikipedia.org/wiki/Category:荷蘭地理 "wikilink")
+
+1.

@@ -1,0 +1,8 @@
+**Mobileye**是[以色列一家](../Page/以色列.md "wikilink")[汽车科技研发公司](../Page/汽车.md "wikilink")，于1999年創立。2017年3月，[英特爾宣布以](https://zh.wikipedia.org/wiki/英特爾 "wikilink")150億美元將其併購。
+
+[Category:自动驾驶汽车](https://zh.wikipedia.org/wiki/Category:自动驾驶汽车 "wikilink")
+[Category:耶路撒冷公司](https://zh.wikipedia.org/wiki/Category:耶路撒冷公司 "wikilink")
+[Category:以色列品牌](https://zh.wikipedia.org/wiki/Category:以色列品牌 "wikilink")
+[Category:交通工具科技](https://zh.wikipedia.org/wiki/Category:交通工具科技 "wikilink")
+[Category:預警系統](https://zh.wikipedia.org/wiki/Category:預警系統 "wikilink")
+[Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")

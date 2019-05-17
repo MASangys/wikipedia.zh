@@ -1,0 +1,262 @@
+return {
+
+`   marks = {`
+`       { lat = "33.889", long = "35.494", mark = "Location dot red.svg", marksize = "28", label = "`[`Beirut`](https://zh.wikipedia.org/wiki/Beirut "wikilink")`", link = "Beirut", label_size = "140", position = "left" },`
+`       { lat = "33.880", long = "35.498", mark = "Location dot blue.svg", marksize = "14", label = "`[`Dahieh`](https://zh.wikipedia.org/wiki/Dahieh "wikilink")`", link = "Dahieh", label_size = "70", position = "bottom" },`
+`       { lat = "33.821", long = "35.488", mark = "Fighter-jet-red-icon.svg", marksize = "11", label = "`[`Beirut``
+ ``Airport`](https://zh.wikipedia.org/wiki/Beirut_Airport "wikilink")`", link = "Beirut–Rafic Hariri International Airport", label_size = "80", position = "right" },`
+`       { lat = "34.311", long = "36.349", mark = "Fighter-jet-blue-icon.svg", marksize = "11", label = "`[`Hezbollah``
+ ``drone``
+ ``base`](https://zh.wikipedia.org/wiki/Hezbollah_military_activities "wikilink")`", link = "Hezbollah military activities", label_size = "0", position = "right" },`
+`       { lat = "34.444", long = "35.826", mark = "Location dot red.svg", marksize = "22", label = "`[`Tripoli`](https://zh.wikipedia.org/wiki/Tripoli,_Lebanon "wikilink")`", link = "Tripoli, Lebanon", label_size = "120", position = "right" },`
+`       { lat = "34.122", long = "35.660", mark = "Location dot red.svg", marksize = "22", label = "`[`Byblos`](https://zh.wikipedia.org/wiki/Byblos "wikilink")`", link = "Byblos", label_size = "120", position = "right" },`
+`       { lat = "34.504", long = "35.971", mark = "Location dot red.svg", marksize = "8", label = "`[`Mhammara`](https://zh.wikipedia.org/wiki/#Mhammara "wikilink")`", link = "Mhammara", label_size = "70", position = "right" },`
+`       { lat = "33.847", long = "35.664", mark = "Location dot red.svg", marksize = "8", label = "`[`Ras``
+ ``el``
+ ``Matn`](https://zh.wikipedia.org/wiki/Ras_el_Matn "wikilink")`", link = "Ras el Matn", label_size = "80", position = "top" },`
+`       { lat = "33.708", long = "35.903", mark = "Location dot red.svg", marksize = "8", label = "`[`Majdel``
+ ``Aanjar`](https://zh.wikipedia.org/wiki/Majdel_Aanjar "wikilink")`", link = "Majdel Aanjar", label_size = "0", position = "right" },`
+`       { lat = "33.562", long = "35.372", mark = "Location dot red.svg", marksize = "14", label = "`[`Sidon`](https://zh.wikipedia.org/wiki/Sidon,_Lebanon "wikilink")`", link = "Sidon, Lebanon", label_size = "120", position = "left" },`
+`       { lat = "33.502", long = "35.845", mark = "Location dot red.svg", marksize = "8", label = "`[`Rashayya`](https://zh.wikipedia.org/wiki/Rashayya "wikilink")`", link = "Rashayya", label_size = "0", position = "right" },`
+`       { lat = "34.009", long = "36.218", mark = "Location dot red.svg", marksize = "12", label = "`[`Baalbeck`](https://zh.wikipedia.org/wiki/Baalbeck "wikilink")`", link = "Baalbeck", label_size = "70", position = "right" },`
+`       { lat = "33.870", long = "36.134", mark = "Location dot blue.svg", marksize = "8", label = "`[`Al-Nabi``
+ ``Shayth`](https://zh.wikipedia.org/wiki/Al-Nabi_Shayth "wikilink")`", link = "#Al-Nabi Shayth", label_size = "0", position = "right" },`
+`       { lat = "33.814", long = "35.963", mark = "Location dot blue.svg", marksize = "8", label = "`[`Al``
+ ``Kassarat`](https://zh.wikipedia.org/wiki/Al_Kassarat "wikilink")`", link = "#Al Kassarat", label_size = "0", position = "right" },`
+`       { lat = "34.258", long = "36.419", mark = "Location dot red.svg", marksize = "8", label = "`[`Ras``
+ ``Baalbek`](https://zh.wikipedia.org/wiki/Ras_Baalbek "wikilink")`", link = "Ras Baalbek", label_size = "70", position = "left" },`
+`       { lat = "34.262", long = "36.447", mark = "Location dot red.svg", marksize = "6", label = "`[`Tallet``
+ ``el``
+ ``Hamra`](https://zh.wikipedia.org/wiki/Tallet_el_Hamra "wikilink")`", link = "#Tallet el Hamra", label_size = "0", position = "right" },`
+`       { lat = "34.3440", long = "36.4732", mark = "Location dot red.svg", marksize = "6", label = "`[`Qaa`](https://zh.wikipedia.org/wiki/Qaa "wikilink")`", link = "Qaa", label_size = "70", position = "left" },`
+`       { lat = "34.3412", long = "36.4805", mark = "Location dot red.svg", marksize = "6", label = "`[`Ras``
+ ``el``
+ ``Kroum`](https://zh.wikipedia.org/wiki/Ras_el_Kroum "wikilink")`", link = "Ras el Kroum", label_size = "0", position = "left" },`
+`       { lat = "34.353", long = "36.510", mark = "Location dot red.svg", marksize = "4", label = "`[`Mashari``
+ ``el``
+ ``Qaa`](https://zh.wikipedia.org/wiki/Mashari_el_Qaa "wikilink")`", link = "Mashari el Qaa", label_size = "0", position = "left" },`
+`       { lat = "34.281", long = "36.466", mark = "abm-red-icon.png", marksize = "6", label = "`[`Tallet``
+ ``Jarrash`](https://zh.wikipedia.org/wiki/Tallet_Jarrash "wikilink")`", link = "#Tallet Jarrash", label_size = "0", position = "right" },`
+`       { lat = "34.269", long = "36.494", mark = "Abm-red-icon.png", marksize = "6", label = "`[`Tallet``
+ ``Mkhairamieh`](https://zh.wikipedia.org/wiki/Tallet_Mkhairamieh "wikilink")`", link = "#Tallet Mkhairamieh", label_size = "0", position = "right" },`
+`       { lat = "34.203", long = "36.340", mark = "Abm-blue-icon.png", marksize = "7", label = "`[`Sbouba``
+ ``military``
+ ``base`](https://zh.wikipedia.org/wiki/Hezbollah_military_activities "wikilink")`", link = "#Sbouba military base", label_size = "0", position = "right" },`
+`       { lat = "34.286", long = "36.502", mark = "Abm-red-icon.png", marksize = "6", label = "`[`Wadi``
+ ``Rafeq`](https://zh.wikipedia.org/wiki/Wadi_Rafeq "wikilink")`", link = "#Wadi Rafeq", label_size = "0", position = "top" },`
+`       { lat = "34.203", long = "36.459", mark = "Location dot black.svg", marksize = "8", label = "`[`Wadi``
+ ``al``
+ ``Ḩamid`](https://zh.wikipedia.org/wiki/Wadi_al_Ḩamid "wikilink")`", link = "#Wadi al Ḩamid", label_size = "0", position = "top" },`
+`       { lat = "34.394", long = "36.385", mark = "Location dot blue.svg", marksize = "12", label = "`[`Hermel`](https://zh.wikipedia.org/wiki/Hermel "wikilink")`", link = "Hermel", label_size = "70", position = "left" },`
+`       { lat = "34.049", long = "36.492", mark = "Map-peak-blue.svg", marksize = "12", label = "`[`Tallet``
+ ``Sadr``
+ ``al-Bustan`](https://zh.wikipedia.org/wiki/Tallet_Sadr_al-Bustan "wikilink")`", link = "#Tallet Sadr al-Bustan", label_size = "0", position = "left" },`
+`       { lat = "34.042", long = "36.261", mark = "Location dot blue.svg", marksize = "8", label = "`[`Nahle`](https://zh.wikipedia.org/wiki/Nahle "wikilink")`", link = "#Nahle", label_size = "0", position = "left" },`
+`       { lat = "34.079", long = "36.270", mark = "Location dot blue.svg", marksize = "8", label = "`[`Younine`](https://zh.wikipedia.org/wiki/Younine "wikilink")`", link = "#Younine", label_size = "0", position = "left" },`
+`       { lat = "33.874", long = "36.202", mark = "Location dot blue.svg", marksize = "8", label = "`[`Ham`](https://zh.wikipedia.org/wiki/Ham "wikilink")`", link = "#Ham", label_size = "0", position = "left" },`
+`       { lat = "34.195", long = "36.356", mark = "Location dot red.svg", marksize = "8", label = "`[`Labweh`](https://zh.wikipedia.org/wiki/Labweh "wikilink")`", link = "Labweh", label_size = "70", position = "top" },`
+`       { lat = "33.934", long = "36.149", mark = "Location dot red.svg", marksize = "12", label = "`[`Britel`](https://zh.wikipedia.org/wiki/Britel "wikilink")`", link = "Britel", label_size = "0", position = "right" },`
+`       { lat = "33.918", long = "36.142", mark = "Location dot red.svg", marksize = "8", label = "`[`Hor``
+ ``Taala`](https://zh.wikipedia.org/wiki/Hor_Taala "wikilink")`", link = "Hor Taala", label_size = "0", position = "right" },`
+`       { lat = "33.987", long = "36.179", mark = "Location dot blue.svg", marksize = "8", label = "`[`Douris`](https://zh.wikipedia.org/wiki/Douris,_Lebanon "wikilink")`", link = "Douris, Lebanon", label_size = "80", position = "left" },`
+`       { lat = "33.874", long = "36.202", mark = "Location dot blue.svg", marksize = "8", label = "`[`al-Hammoudieh`](https://zh.wikipedia.org/wiki/al-Hammoudieh "wikilink")`", link = "al-Hammoudieh", label_size = "0", position = "top" },`
+`       { lat = "33.851", long = "36.189", mark = "Location dot blue.svg", marksize = "8", label = "`[`Maaraboun`](https://zh.wikipedia.org/wiki/Maaraboun "wikilink")`", link = "#Maaraboun", label_size = "0", position = "top" },`
+`       { lat = "33.824", long = "36.034", mark = "Location dot blue.svg", marksize = "8", label = "`[`Deir``
+ ``al``
+ ``Ghazaal`](https://zh.wikipedia.org/wiki/Deir_al_Ghazaal "wikilink")`", link = "Deir al Ghazaal", label_size = "0", position = "right" },`
+`       { lat = "33.812", long = "36.025", mark = "Location dot blue.svg", marksize = "8", label = "`[`Qusaya`](https://zh.wikipedia.org/wiki/Qusaya "wikilink")`", link = "Qusaya", label_size = "0", position = "right" },`
+`       { lat = "33.8495", long = "36.3683", mark = "Location dot blue.svg", marksize = "8", label = "`[`Tfail`](https://zh.wikipedia.org/wiki/Tfail "wikilink")`", link = "Tfail", label_size = "0", position = "right" },`
+`       { lat = "33.685", long = "35.975", mark = "Mountain pass 12x12 se.svg", marksize = "18" },`
+`       { lat = "33.685", long = "35.975", mark = "Location dot red.svg", marksize = "6", label = "`[`  Jdaydet``
+ ``Yaboos``
+ ``Crossing`](https://zh.wikipedia.org/wiki/#Jdaydet_Yaboos_Border_Crossing "wikilink")`", link = "#Jdaydet Yaboos Crossing", label_size = "0", position = "left" },`
+`       { lat = "34.638", long = "36.119", mark = "Mountain pass 12x12 n.svg", marksize = "18" },`
+`       { lat = "34.638", long = "36.119", mark = "Location dot red.svg", marksize = "6", label = "`[`Al``
+ ``Abboudiye``   ``Border``
+ ``Crossing`](https://zh.wikipedia.org/wiki/Al_Abboudiye_Border_Crossing "wikilink")`", link = "#Al Abboudiye Border Crossing", label_size = "0", position = "bottom" },`
+`       { lat = "34.643", long = "35.978", mark = "Mountain pass 12x12 n.svg", marksize = "18" },`
+`       { lat = "34.643", long = "35.978", mark = "Location dot red.svg", marksize = "6", label = "`[`Arida``
+ ``Crossing`](https://zh.wikipedia.org/wiki/Arida_Border_Crossing "wikilink")`", link = "Arida Border Crossing", label_size = "0", position = "bottom" },`
+`       { lat = "34.423", long = "36.554", mark = "Mountain pass 12x12 ne.svg", marksize = "18" },`
+`       { lat = "34.423", long = "36.554", mark = "Location dot red.svg", marksize = "6", label = "`[`Jawsiyah``
+ ``Crossing`](https://zh.wikipedia.org/wiki/#Jawsiyah_Border_Crossing "wikilink")`", link = "#Jawsiyah Border Crossing", label_size = "70", position = "bottom" },--[=[ INTENTIONALLY OUT OF ORDER ]=]`
+`       { lat = "34.179", long = "36.421", mark = "Location dot red.svg", marksize = "10", label = "`[`Arsal`](https://zh.wikipedia.org/wiki/Arsal "wikilink")`", link = "Arsal", label_size = "70", position = "left" },`
+`       { lat = "34.162", long = "36.44", mark = "map-peak-red.svg", marksize = "7", label = "`[`Jaroud``
+ ``Arsal`](https://zh.wikipedia.org/wiki/#Jaroud_Arsal "wikilink")`", link = "#Jaroud Arsal", label_size = "70", position = "bottom" },`
+`       { lat = "34.179", long = "36.44", mark = "Location dot black.svg", marksize = "8", label = "`[`Al``
+ ``Ajram`](https://zh.wikipedia.org/wiki/Al_Ajram "wikilink")`", link = "Al Ajram", label_size = "0", position = "top" },`
+`       { lat = "34.105", long = "36.468", mark = "Map-peak-blue.svg", marksize = "12", label = "`[`South``
+ ``Arsal``
+ ``Heights`](https://zh.wikipedia.org/wiki/South_Arsal_Heights "wikilink")`", link = "#South Arsal Heights", label_size = "0", position = "bottom" },`
+`       { lat = "34.109", long = "36.490", mark = "Location dot blue.svg", marksize = "6", label = "`[`Dhamrani`](https://zh.wikipedia.org/wiki/Dhamrani "wikilink")`", link = "#Dhmrani", label_size = "0", position = "bottom" },`
+`       { lat = "34.133", long = "36.526", mark = "Map-dot-grey-68a.svg", marksize = "6", label = "`[`Martayba`](https://zh.wikipedia.org/wiki/Martayba "wikilink")`", link = "#Martayba", label_size = "0", position = "bottom" },`
+`       { lat = "34.096", long = "36.381", mark = "4x4dot-blue.svg", marksize = "12", label = "`[`Hezbollah``
+ ``position``   ``in``   ``Arsal``
+ ``Heights`](https://zh.wikipedia.org/wiki/Hezbollah_position_in_Arsal_Heights "wikilink")`", link = "#Hezbollah position in Arsal Heights", label_size = "0", position = "bottom" },`
+`       { lat = "34.053", long = "36.406", mark = "4x4dot-blue.svg", marksize = "12", label = "`[`Hezbollah``
+ ``position``   ``in``   ``Arsal``
+ ``Heights`](https://zh.wikipedia.org/wiki/Hezbollah_position_in_Arsal_Heights "wikilink")`", link = "#Hezbollah position iM Arsal Heights", label_size = "0", position = "bottom" },`
+`       { lat = "34.006", long = "36.339", mark = "4x4dot-blue.svg", marksize = "12", label = "`[`Hezbollah``
+ ``position``   ``in``   ``Arsal``
+ ``Heights`](https://zh.wikipedia.org/wiki/Hezbollah_position_in_Arsal_Heights "wikilink")`", link = "#Hezbollah position in Arsal Heights", label_size = "0", position = "bottom" },`
+`       { lat = "33.936", long = "36.290", mark = "4x4dot-blue.svg", marksize = "12", label = "`[`Hezbollah``
+ ``position``   ``in``   ``Arsal``
+ ``Heights`](https://zh.wikipedia.org/wiki/Hezbollah_position_in_Arsal_Heights "wikilink")`", link = "#Hezbollah position in Arsal Heights", label_size = "0", position = "bottom" },`
+`       { lat = "34.189", long = "36.540", mark = "Location dot red.svg", marksize = "8", label = "`[`Wadi``
+ ``Hosn`](https://zh.wikipedia.org/wiki/Wadi_Hosn "wikilink")`", link = "#Wadi Hosn", label_size = "0", position = "top" },`
+`       { lat = "34.149", long = "36.520", mark = "80x80-grey-black-anim.gif", marksize = "7", label = "`[`Wadi``
+ ``Hmeid`](https://zh.wikipedia.org/wiki/Wadi_Hmeid "wikilink")`", link = "#Wadi Hmeid", label_size = "0", position = "bottom" },`
+`       { lat = "34.149", long = "36.550", mark = "Location dot black.svg", marksize = "7", label = "`[`Al-Zimrani`](https://zh.wikipedia.org/wiki/Al-Zimrani "wikilink")`", link = "#A-Zimrani", label_size = "0", position = "bottom" },`
+`       { lat = "34.149", long = "36.490", mark = "80x80-grey-black-anim.gif", marksize = "7", label = "`[`Wadi``
+ ``Mira`](https://zh.wikipedia.org/wiki/Wadi_Mira "wikilink")`", link = "#Wadi Mira", label_size = "0", position = "bottom" },`
+`       { lat = "34.179", long = "36.520", mark = "Location dot black.svg", marksize = "7", label = "`[`Al-Khayl`](https://zh.wikipedia.org/wiki/Al-Khayl "wikilink")`", link = "#Al-Khayl", label_size = "0", position = "bottom" },`
+`       { lat = "34.1491", long = "36.4605", mark = "Location dot black.svg", marksize = "5", label = "`[`Dahr``
+ ``al-Lezzabe`](https://zh.wikipedia.org/wiki/Dahr_al-Lezzabe "wikilink")`", link = "Dahr al-Lezzabe", label_size = "0", position = "bottom" },`
+`       { lat = "34.1370", long = "36.4860", mark = "Location dot black.svg", marksize = "5", label = "`[`Wadi``
+ ``Aaouaini`](https://zh.wikipedia.org/wiki/Wadi_Aaouaini "wikilink")`", link = "Wadi Aaouaini", label_size = "0", position = "bottom" },`
+`       { lat = "34.1370", long = "36.4960", mark = "Location dot black.svg", marksize = "5", label = "`[`Qurnat``
+ ``al-Hashishat`](https://zh.wikipedia.org/wiki/Qurnat_al-Hashishat "wikilink")`", link = "Qurnat al-Hashishat", label_size = "0", position = "bottom" },`
+`       { lat = "34.184", long = "36.488", mark = "4x4dot-black.svg", marksize = "12", label = "Northern `[`Beka'a``
+ ``Valley`](https://zh.wikipedia.org/wiki/Beka'a_Valley "wikilink")`", link = "#Northern Beka'a Valley", label_size = "0", position = "bottom" },`
+`       { lat = "33.871", long = "35.964", mark = "Location dot red.svg", marksize = "8", label = "`[`Ablah`](https://zh.wikipedia.org/wiki/Ablah "wikilink")`", link = "Ablah", label_size = "0", position = "top" },       `
+`       { lat = "33.839", long = "35.911", mark = "Location dot red.svg", marksize = "16", label = "`[`Zahlé`](https://zh.wikipedia.org/wiki/Zahlé "wikilink")`", link = "Zahlé", label_size = "120", position = "top" },`
+`       { lat = "33.821", long = "35.881", mark = "Location dot red.svg", marksize = "12", label = "`[`Saadnayel`](https://zh.wikipedia.org/wiki/Saadnayel "wikilink")`", link = "Saadnayel", label_size = "0", position = "top" },`
+`       { lat = "33.277", long = "35.200", mark = "Location dot red.svg", marksize = "14", label = "`[`Tyre`](https://zh.wikipedia.org/wiki/Tyre,_Lebanon "wikilink")`", link = "Tyre, Lebanon", label_size = "120", position = "left" },`
+`       { lat = "33.363", long = "35.487", mark = "Location dot red.svg", marksize = "7", label = "`[`Nabatieh`](https://zh.wikipedia.org/wiki/Nabatieh "wikilink")`", link = "Nabatieh", label_size = "70", position = "left" },`
+`       { lat = "34.589", long = "36.011", mark = "Fighter-jet-red-icon.svg", marksize = "11", label = "`[`Rene``
+ ``Mouawad``   ``Air``
+ ``Base`](https://zh.wikipedia.org/wiki/Rene_Mouawad_Air_Base "wikilink")`", link = "Rene Mouawad Air Base", label_size = "0", position = "right" },`
+`       { lat = "33.852", long = "35.990", mark = "Fighter-jet-red-icon.svg", marksize = "11", label = "`[`Rayak``
+ ``Air``
+ ``Base`](https://zh.wikipedia.org/wiki/Rayak_Air_Base "wikilink")`", link = "Rayak Air Base", label_size = "0", position = "right" },`
+`       { lat = "34.283", long = "35.700", mark = "Fighter-jet-red-icon.svg", marksize = "11", label = "`[`Wujah``
+ ``Al``   ``Hajar``   ``Air``
+ ``Base`](https://zh.wikipedia.org/wiki/Wujah_Al_Hajar_Air_Base "wikilink")`", link = "Wujah Al Hajar Air Base", label_size = "0", position = "right" },`
+`       { lat = "33.094167", long = "35.124722", mark = "Mountain pass 12x12 n.svg", marksize = "18" },`
+`       { lat = "33.094167", long = "35.124722", mark = "Location dot red.svg", marksize = "5", label = "Rosh HaNikra Crossing", link = "Rosh HaNikra Crossing", label_size = "0", position = "bottom" },`
+`       { lat = "33.280567", long = "35.564633", mark = "Mountain pass 12x12 se.svg", marksize = "18" },`
+`       { lat = "33.280567", long = "35.564633", mark = "Location dot red.svg", marksize = "5", label = "Fatima Gate", link = "Fatima Gate", label_size = "0", position = "bottom" },`
+`   },`
+`   containerArgs = {`
+`       'Lebanon',`
+`       float = 'center',`
+`       width = '1750',`
+`       caption = [=[`
+
+'''Hold cursor over location to display name
+
+  - [Location_dot_red.svg](https://zh.wikipedia.org/wiki/File:Location_dot_red.svg "fig:Location_dot_red.svg")
+    Under control of the [Lebanese
+    Government](https://zh.wikipedia.org/wiki/Lebanese_Government "wikilink")
+    forces
+  - [Location_dot_lime.svg](https://zh.wikipedia.org/wiki/File:Location_dot_lime.svg "fig:Location_dot_lime.svg")
+    Under control of [Lebanese Communist
+    Party](https://zh.wikipedia.org/wiki/Lebanese_Communist_Party "wikilink")
+    or [Fatah](https://zh.wikipedia.org/wiki/Fatah "wikilink") or
+    [Syrian rebels in
+    Lebanon](https://zh.wikipedia.org/wiki/Free_Syrian_Army "wikilink")
+  - [Location_dot_blue.svg](https://zh.wikipedia.org/wiki/File:Location_dot_blue.svg "fig:Location_dot_blue.svg")
+    Under control of
+    [Hezbollah](https://zh.wikipedia.org/wiki/Hezbollah "wikilink"),
+    [PFLP-GC](https://zh.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine_–_General_Command "wikilink")
+    and allies (east)/ [Israeli
+    Government](https://zh.wikipedia.org/wiki/Israeli_Government "wikilink")
+    forces (south)
+  - [Location_dot_black.svg](https://zh.wikipedia.org/wiki/File:Location_dot_black.svg "fig:Location_dot_black.svg")
+    Under control of the [Islamic State of Iraq and the
+    Levant](https://zh.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant "wikilink")
+  - [Map-dot-grey-68a.svg](https://zh.wikipedia.org/wiki/File:Map-dot-grey-68a.svg "fig:Map-dot-grey-68a.svg")
+    Under control of [Sunni
+    militants](https://zh.wikipedia.org/wiki/Sunni_Islam_in_Lebanon "wikilink")
+    and [al-Nusra
+    Front](https://zh.wikipedia.org/wiki/al-Nusra_Front "wikilink")
+
+Rural presence**:** 
+[3x3dot-red.svg](https://zh.wikipedia.org/wiki/File:3x3dot-red.svg "fig:3x3dot-red.svg") 
+[3x3dot-lime.svg](https://zh.wikipedia.org/wiki/File:3x3dot-lime.svg "fig:3x3dot-lime.svg") 
+[3x3dot-blue.svg](https://zh.wikipedia.org/wiki/File:3x3dot-blue.svg "fig:3x3dot-blue.svg") 
+[3x3dot-grey.svg](https://zh.wikipedia.org/wiki/File:3x3dot-grey.svg "fig:3x3dot-grey.svg") 
+[3x3dot-black.svg](https://zh.wikipedia.org/wiki/File:3x3dot-black.svg "fig:3x3dot-black.svg")
+   
+[4x4dot-red.svg](https://zh.wikipedia.org/wiki/File:4x4dot-red.svg "fig:4x4dot-red.svg") 
+[4x4dot-lime.svg](https://zh.wikipedia.org/wiki/File:4x4dot-lime.svg "fig:4x4dot-lime.svg") 
+[4x4dot-blue.svg](https://zh.wikipedia.org/wiki/File:4x4dot-blue.svg "fig:4x4dot-blue.svg") 
+[4x4dot-grey.svg](https://zh.wikipedia.org/wiki/File:4x4dot-grey.svg "fig:4x4dot-grey.svg") 
+[4x4dot-black.svg](https://zh.wikipedia.org/wiki/File:4x4dot-black.svg "fig:4x4dot-black.svg")
+Contested:
+
+  - [80x80-red-blue-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-red-blue-anim.gif "fig:80x80-red-blue-anim.gif")
+    Lebanese
+    Government–[Hezbollah](https://zh.wikipedia.org/wiki/Hezbollah "wikilink")
+    and
+    [PFLP-GC](https://zh.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine_–_General_Command "wikilink")
+    (east)/[Israel](https://zh.wikipedia.org/wiki/Israel "wikilink")
+    (south)
+  - [80x80-red-black-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-red-black-anim.gif "fig:80x80-red-black-anim.gif")
+    Lebanese
+    Government–[ISIL](https://zh.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant "wikilink")
+  - [80x80-red-lime-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-red-lime-anim.gif "fig:80x80-red-lime-anim.gif")
+    Lebanese Government-[Lebanese Communist
+    Party](https://zh.wikipedia.org/wiki/Lebanese_Communist_Party "wikilink")/[Fatah](https://zh.wikipedia.org/wiki/Fatah "wikilink")/[Syrian
+    rebels](https://zh.wikipedia.org/wiki/Free_Syrian_Army "wikilink")
+  - [80x80-blue-black-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-blue-black-anim.gif "fig:80x80-blue-black-anim.gif")
+    [Hezbollah](https://zh.wikipedia.org/wiki/Hezbollah "wikilink") and
+    [PFLP-GC](https://zh.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine_–_General_Command "wikilink")–[ISIL](https://zh.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant "wikilink")
+  - [80x80-red-grey-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-red-grey-anim.gif "fig:80x80-red-grey-anim.gif")
+    Lebanese Government–[Sunni
+    militants](https://zh.wikipedia.org/wiki/Sunni_Islam_in_Lebanon "wikilink")/[al-Nusra
+    Front](https://zh.wikipedia.org/wiki/al-Nusra_Front "wikilink")
+  - [80x80-grey-blue-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-grey-blue-anim.gif "fig:80x80-grey-blue-anim.gif")
+    [Hezbollah](https://zh.wikipedia.org/wiki/Hezbollah "wikilink") and
+    [PFLP-GC](https://zh.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine_–_General_Command "wikilink")–[Sunni
+    militants](https://zh.wikipedia.org/wiki/Sunni_Islam_in_Lebanon "wikilink")/[al-Nusra
+    Front](https://zh.wikipedia.org/wiki/al-Nusra_Front "wikilink")
+  - [80x80-lime-grey-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-lime-grey-anim.gif "fig:80x80-lime-grey-anim.gif")
+    [Sunni
+    militants](https://zh.wikipedia.org/wiki/Sunni_Islam_in_Lebanon "wikilink")/[al-Nusra
+    Front](https://zh.wikipedia.org/wiki/al-Nusra_Front "wikilink")–[Lebanese
+    Communist
+    Party](https://zh.wikipedia.org/wiki/Lebanese_Communist_Party "wikilink")/[Fatah](https://zh.wikipedia.org/wiki/Fatah "wikilink")/[Syrian
+    rebels](https://zh.wikipedia.org/wiki/Free_Syrian_Army "wikilink")
+  - [80x80-lime-blue-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-lime-blue-anim.gif "fig:80x80-lime-blue-anim.gif")
+    [Lebanese Communist
+    Party](https://zh.wikipedia.org/wiki/Lebanese_Communist_Party "wikilink")/[Fatah](https://zh.wikipedia.org/wiki/Fatah "wikilink")/[Syrian
+    rebels in
+    Lebanon](https://zh.wikipedia.org/wiki/Free_Syrian_Army "wikilink")–[Hezbollah](https://zh.wikipedia.org/wiki/Hezbollah "wikilink")
+    and
+    [PFLP-GC](https://zh.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine_–_General_Command "wikilink")
+  - [80x80-lime-black-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-lime-black-anim.gif "fig:80x80-lime-black-anim.gif")
+    [Lebanese Communist
+    Party](https://zh.wikipedia.org/wiki/Lebanese_Communist_Party "wikilink")/[Fatah](https://zh.wikipedia.org/wiki/Fatah "wikilink")/[Syrian
+    rebels in
+    Lebanon](https://zh.wikipedia.org/wiki/Free_Syrian_Army "wikilink")–[ISIL](https://zh.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant "wikilink")
+  - [80x80-grey-black-anim.gif](https://zh.wikipedia.org/wiki/File:80x80-grey-black-anim.gif "fig:80x80-grey-black-anim.gif")
+    [Sunni
+    militants](https://zh.wikipedia.org/wiki/Sunni_Islam_in_Lebanon "wikilink")/[al-Nusra
+    Front](https://zh.wikipedia.org/wiki/al-Nusra_Front "wikilink")–[ISIL](https://zh.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant "wikilink")
+
+Other
+
+  - [Abm-red-icon.png](https://zh.wikipedia.org/wiki/File:Abm-red-icon.png "fig:Abm-red-icon.png")
+    Military base
+  - [Fighter-jet-red-icon.svg](https://zh.wikipedia.org/wiki/File:Fighter-jet-red-icon.svg "fig:Fighter-jet-red-icon.svg")
+    Airport/Air base (jet)
+  - [Helicopter-red-icon.svg](https://zh.wikipedia.org/wiki/File:Helicopter-red-icon.svg "fig:Helicopter-red-icon.svg")
+    Airport/Air base (helicopter)
+  - [Anchor_pictogram.svg](https://zh.wikipedia.org/wiki/File:Anchor_pictogram.svg "fig:Anchor_pictogram.svg")
+    Major port or naval base
+  - [Mountain_pass_12x12_n.svg](https://zh.wikipedia.org/wiki/File:Mountain_pass_12x12_n.svg "fig:Mountain_pass_12x12_n.svg")
+    Border Post
+  - [Arch_dam_12x12_w.svg](https://zh.wikipedia.org/wiki/File:Arch_dam_12x12_w.svg "fig:Arch_dam_12x12_w.svg")
+    Dam
+  - [Icon_NuclearPowerPlant-black.svg](https://zh.wikipedia.org/wiki/File:Icon_NuclearPowerPlant-black.svg "fig:Icon_NuclearPowerPlant-black.svg")
+    Industrial complex'''
+
+
+**2 nested circles: inner controls, outer sieges // 3 nested circles:
+mixed control with stable situation // Small icons within large circle:
+situation in individual neighbourhoods/districts**\]=\]
+
+`   }`
+
+}

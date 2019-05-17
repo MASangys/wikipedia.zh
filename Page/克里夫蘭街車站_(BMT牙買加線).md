@@ -1,0 +1,66 @@
+**克里夫蘭街車站**（），舊稱「克里夫蘭大道車站」（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT牙買加線的一個](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[隔站停靠的](../Page/隔站停靠.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，設有[J線](../Page/紐約地鐵J線與Z線.md "wikilink")（任何時候停站）列車服務。[Z線列車營運時通過此站不停靠](../Page/紐約地鐵J線與Z線.md "wikilink")。
+
+## 車站結構
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>P<br />
+月台層</strong></p></td>
+<td><p>&lt;span style=color:#&gt;<strong>南行</strong></span></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-J.svg" title="fig:纽约地铁J线">纽约地铁J线</a> 往<a href="https://zh.wikipedia.org/wiki/寬街車站_(BMT納蘇街線)" title="wikilink">寬街</a><small>（繁忙時段<a href="https://zh.wikipedia.org/wiki/阿拉巴馬大道車站_(BMT牙買加線)" title="wikilink">阿拉巴馬大道</a>、其餘時段<a href="https://zh.wikipedia.org/wiki/凡希克凌大道車站_(BMT牙買加線)" title="wikilink">凡希克凌大道</a>）</small><br />
+ <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-Z.svg" title="fig:纽约地铁Z线">纽约地铁Z线</a> 不停靠</p></td>
+</tr>
+<tr class="even">
+<td><p><small><a href="../Page/島式月台.md" title="wikilink">島式月台</a>，左側開門</small></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>&lt;span style=color:#&gt;<strong>北行</strong></span></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-J.svg" title="fig:纽约地铁J线">纽约地铁J线</a> 往<a href="https://zh.wikipedia.org/wiki/牙買加中心-帕森斯/射手車站_(射手大道線)" title="wikilink">牙買加中心-帕森斯/射手</a><small>（繁忙時段<a href="../Page/克雷森街車站_(BMT牙買加線).md" title="wikilink">克雷森街</a>、其餘時段<a href="../Page/諾伍德大道車站_(BMT牙買加線).md" title="wikilink">諾伍德大道</a>）</small><br />
+ <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-Z.svg" title="fig:纽约地铁Z线">纽约地铁Z线</a> 不停靠</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>M</strong></p></td>
+<td><p>夾層</p></td>
+<td><p>閘機、車站詢問處</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>G</strong></p></td>
+<td><p>街道層</p></td>
+<td><p>出入口</p></td>
+</tr>
+</tbody>
+</table>
+
+此車站設有一個[島式月台和兩條軌道](../Page/島式月台.md "wikilink")。
+
+此高架車站起初在1893年5月30日興建，作為塞普雷斯山延伸段的首個車站，[蓋茲大道以東與百老匯高架鐵路共用](https://zh.wikipedia.org/wiki/蓋茲大道車站_\(BMT牙買加線\) "wikilink")。
+自從1950年起完全由牙買加線使用。
+
+## 參考資料
+
+## 外部連結
+
+  -
+  - Station Reporter — [J
+    Train](https://web.archive.org/web/20121108033658/http://www.stationreporter.net/jtrain.htm)
+
+  - The Subway Nut — [Cleveland Street
+    Pictures](http://www.subwaynut.com/bmt/clevelandj/index.php)
+
+  - MTA's Arts For Transit — [Cleveland Street (BMT Jamaica
+    Line)](https://web.archive.org/web/20110606073116/http://mta.info/mta/aft/permanentart/permart.html?agency=nyct&line=J&station=5&xdev=375)
+
+  - [Cleveland Street entrance from Google Maps Street
+    View](https://maps.google.com/maps?hl=en&ie=UTF8&ll=40.679556,-73.885524&spn=0,0.013314&z=17&layer=c&cbll=40.679669,-73.885556&panoid=9do9XEHv0T3v0PQorT8T5g&cbp=12,236.06,,0,6.74)
+
+  - [Platform from Google Maps Street
+    View](https://www.google.com/maps/place/Cleveland+St/@40.6800232,-73.884491,3a,75y,42.83h,88.3t/data=!3m8!1e1!3m6!1s-kSIs5T_nwhc%2FWUXg2lts_eI%2FAAAAAAAAtK0%2Fc8RRz-W5myco-B-xy1FLSItbUzX2JHzhQCLIBGAYYCw!2e4!3e11!6s%2F%2Flh5.googleusercontent.com%2F-kSIs5T_nwhc%2FWUXg2lts_eI%2FAAAAAAAAtK0%2Fc8RRz-W5myco-B-xy1FLSItbUzX2JHzhQCLIBGAYYCw%2Fw234-h106-k-no-pi-0-ya140-ro-0-fo100%2F!7i9728!8i4864!4m5!3m4!1s0x89c25db5b8218c29:0x7f89d405803dc6c0!8m2!3d40.6799464!4d-73.8846391)
+
+[Category:BMT牙買加線車站](https://zh.wikipedia.org/wiki/Category:BMT牙買加線車站 "wikilink")
+[Category:1893年紐約州建立](https://zh.wikipedia.org/wiki/Category:1893年紐約州建立 "wikilink")
+[Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink")
+[Category:1893年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1893年啟用的鐵路車站 "wikilink")

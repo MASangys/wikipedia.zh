@@ -1,0 +1,39 @@
+**藍斯佛J.L**（Jared Lansford，）
+，為[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](../Page/棒球.md "wikilink")[選手之一](https://zh.wikipedia.org/wiki/選手 "wikilink")。\[1\]。
+
+## 經歷
+
+  - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[奧克蘭運動家](../Page/奧克蘭運動家.md "wikilink")（小聯盟，2005年-2011年）
+  - 美國職棒獨立聯盟Long Island Ducks（2012年-2014年）
+  - 委內瑞拉聯盟Leones del Caracas（2014年11月-12月）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")（2015年）（譯名：蘭斯佛）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[義大犀牛](https://zh.wikipedia.org/wiki/義大犀牛 "wikilink")（2016年）（譯名：藍斯佛）
+  - 義大利棒球聯盟Unipol Bologna（2017年8月）
+  - 委內瑞拉聯盟Caribes de Anzoategui（2017年10月-）
+
+## 職棒生涯成績
+
+### 中華職棒
+
+| 年度   | 球隊                                                            | 出賽 | 先發 | 勝投 | 敗投 | 中繼 | 救援 | 完投 | 完封 | 三振  | 四壞 | 責失  | 投球局數  | 自責分率 | 被上壘率 |
+| ---- | ------------------------------------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | --- | -- | --- | ----- | ---- | ---- |
+| 2015 | [Lamigo桃猿](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink") | 28 | 28 | 16 | 7  | 0  | 0  | 2  | 0  | 111 | 43 | 82  | 178.0 | 4.15 | 1.49 |
+| 2016 | [義大犀牛](https://zh.wikipedia.org/wiki/義大犀牛 "wikilink")         | 24 | 19 | 6  | 4  | 1  | 0  | 0  | 0  | 119 | 30 | 57  | 108.0 | 4.75 | 1.40 |
+| 合計   | 2年                                                            | 52 | 47 | 22 | 11 | 1  | 0  | 2  | 0  | 230 | 73 | 139 | 286.0 | 4.37 | 1.49 |
+
+## 特殊事蹟
+
+  - 2015年10月2日對戰[中信兄弟隊](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")，達成個人中職生涯第100次奪三振。
+
+## 參考資料及註釋
+
+## 外部連結
+
+[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
+[Category:中華職棒外籍球員](https://zh.wikipedia.org/wiki/Category:中華職棒外籍球員 "wikilink")
+[Category:奧克蘭運動家隊球員](https://zh.wikipedia.org/wiki/Category:奧克蘭運動家隊球員 "wikilink")
+[Category:Lamigo桃猿隊球員](https://zh.wikipedia.org/wiki/Category:Lamigo桃猿隊球員 "wikilink")
+[Category:義大犀牛隊球員](https://zh.wikipedia.org/wiki/Category:義大犀牛隊球員 "wikilink")
+[Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink")
+
+1.  [中華職棒／外援新戰力　賈希亞、蘭斯佛加盟桃猿，20150125](https://www.nownews.com/news/20150125/1585366)
