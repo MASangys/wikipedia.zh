@@ -1,10 +1,10 @@
-是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[天野明所畫的](../Page/天野明.md "wikilink")[少年漫畫](../Page/少年漫畫.md "wikilink")。於2013年起在[集英社旗下雜誌](../Page/集英社.md "wikilink")《[Jump
+是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[天野明所畫的](../Page/天野明.md "wikilink")[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。於2013年起在[集英社旗下雜誌](../Page/集英社.md "wikilink")《[Jump
 LIVE](../Page/週刊少年Jump的增刊號.md "wikilink")》和《少年Jump+》上連載。台灣由《寶島少年EX》創刊號開始連載。2016年3月3日公佈其作品將會動畫化，並於2017年1月至3月內播放\[1\]。
 
 ## 作品簡介
 
 天野明於《[家庭教師HITMAN
-REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》完結後的連載作品，講述男子中學生當上宇宙警察的故事。最初在集英社的《JumpLIVE》上宣傳與開始連載，並發行了2冊[單行本](../Page/單行本.md "wikilink")\[2\]\[3\]。其後於2014年9月22日《少年Jump+》創刊後移至其繼續連載，並再度發行3冊單行本\[4\]\[5\]\[6\]。台灣則由東立出版社取得了代理權，並出版了4冊中文書籍\[7\]。
+REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》完結後的連載作品，講述男子中學生當上宇宙警察的故事。最初在集英社的《JumpLIVE》上宣傳與開始連載，並發行了2冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[2\]\[3\]。其後於2014年9月22日《少年Jump+》創刊後移至其繼續連載，並再度發行3冊單行本\[4\]\[5\]\[6\]。台灣則由東立出版社取得了代理權，並出版了4冊中文書籍\[7\]。
 
 ## 登場人物
 
@@ -48,7 +48,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》完結後的連載
 <!-- end list -->
 
   -
-    聲：[松岡禎丞](../Page/松岡禎丞.md "wikilink")（日本）；[郝祥海](../Page/郝祥海.md "wikilink")（中國）
+    聲：[松岡禎丞](../Page/松岡禎丞.md "wikilink")（日本）；[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")（中國）
     「超天才的科學家」。本名塔克拉**瑪幹·斯托列恩基·拉烏**（タクラマカン・ストレインジ・ラヴ）。年齡在500歲以上。與宙太等人見面時透過利用某種力量而身體外貌變回年輕的樣貌。
 
 <!-- end list -->
@@ -283,7 +283,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》完結後的連載
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -352,8 +352,8 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》完結後的連載
 ## 電視動畫
 
 2016年3月決定電視動畫化，由日本的[Studio
-Pierrot](../Page/Studio_Pierrot.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、[读卖电视台以及中国的](../Page/读卖电视台.md "wikilink")[腾讯动漫联合制作](../Page/腾讯动漫.md "wikilink")\[8\]，於2017年1月份播映。另外天野明原畫展的特別企劃，前作《[家庭教師HITMAN
-REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》x《宇宙警探élDLIVE》的合作動畫將在會場上放映。
+Pierrot](../Page/Studio_Pierrot.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、[读卖电视台以及中国的](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")[腾讯动漫联合制作](../Page/腾讯动漫.md "wikilink")\[8\]，於2017年1月份播映。另外天野明原畫展的特別企劃，前作《[家庭教師HITMAN
+REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》x《宇宙警探élDLIVE》的合作動畫將在會場上放映。
 
 ### 製作人員
 
@@ -374,13 +374,13 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》x《宇宙警探é
   - 音樂：高梨康治（Team-MAX）
   - 音響製作：HALF H·P STUDIO
   - 動畫製作：[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
-  - 製作：「élDLIVE」製作委員會（[YTE](../Page/読売テレビエンタープライズ.md "wikilink")、[Tencent
-    Japan](../Page/騰訊.md "wikilink")、ぴえろ、[ディーライツ](../Page/ディーライツ.md "wikilink")）
+  - 製作：「élDLIVE」製作委員會（[YTE](https://zh.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")、[Tencent
+    Japan](https://zh.wikipedia.org/wiki/騰訊 "wikilink")、ぴえろ、[ディーライツ](https://zh.wikipedia.org/wiki/ディーライツ "wikilink")）
 
 ### 主題曲
 
   - 片頭曲「Our sympathy」
-    作詞：[UiNA](../Page/UiNA.md "wikilink")，作曲：[小高光太郎](../Page/小高光太郎.md "wikilink")、UiNA，編曲：小高光太郎，主唱：+α/あるふぁきゅん。
+    作詞：[UiNA](https://zh.wikipedia.org/wiki/UiNA "wikilink")，作曲：[小高光太郎](https://zh.wikipedia.org/wiki/小高光太郎 "wikilink")、UiNA，編曲：小高光太郎，主唱：+α/あるふぁきゅん。
   - 片尾曲「」（第2～10、12話）
     作詞、作曲、主唱：The Super Ball，編曲：soundbreakers
     第1、11話未使用。

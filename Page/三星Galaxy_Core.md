@@ -1,5 +1,5 @@
 三星**Galaxy
-Core**是[三星電子生產的](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](../Page/智能手機.md "wikilink")。單[SIM卡型號在](../Page/SIM.md "wikilink")2013年5月初公佈，在月尾發售；而單SIM卡版本在7月發售。單SIM卡型號並不在一些國家發售，另外雙卡模式已於2013年5月中下旬發布。\[1\]
+Core**是[三星電子生產的](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。單[SIM卡型號在](https://zh.wikipedia.org/wiki/SIM "wikilink")2013年5月初公佈，在月尾發售；而單SIM卡版本在7月發售。單SIM卡型號並不在一些國家發售，另外雙卡模式已於2013年5月中下旬發布。\[1\]
 
 ## 參見
 
@@ -13,7 +13,7 @@ Core**是[三星電子生產的](../Page/三星電子.md "wikilink")[Android](..
 Plus或Galaxy Star
 Advance（SM-G350L和G350M）共享相同的型號代碼。某些型號具有300萬像素攝像頭，如SM-G350E，另見[Samsung
 Galaxy Core
-Prime](../Page/Samsung_Galaxy_Core_Prime.md "wikilink")，它是更新的版本，更新，規格更高。
+Prime](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Core_Prime "wikilink")，它是更新的版本，更新，規格更高。
 
 ### Galaxy Core Safe (SHW-M580D)
 

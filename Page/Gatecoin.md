@@ -2,10 +2,10 @@
 － Aurélien
 Menant先前是一位[投資銀行家](../Page/投资银行.md "wikilink")。\[1\] 這家公司是香港唯一一家由[香港科技園](../Page/香港科技園公司.md "wikilink")(Hong
 Kong Science and Technology Parks
-Corporation)入資的機構，\[2\]並且是[香港政府旗下的法定機構](../Page/香港特別行政區政府.md "wikilink")。Gatecoin也得到了[南京](../Page/南京.md "wikilink")[清華科技園的入資](../Page/清华科技园.md "wikilink")。\[3\]截至2015年的第一季度，Gatecoin已經從[天使投資者的籌集資金中籌得了美金五十萬元](../Page/天使投资者.md "wikilink")。.\[4\]
+Corporation)入資的機構，\[2\]並且是[香港政府旗下的法定機構](../Page/香港特別行政區政府.md "wikilink")。Gatecoin也得到了[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")[清華科技園的入資](../Page/清华科技园.md "wikilink")。\[3\]截至2015年的第一季度，Gatecoin已經從[天使投資者的籌集資金中籌得了美金五十萬元](../Page/天使投资者.md "wikilink")。.\[4\]
 
 Gatecoin在2016年一月加入了科技金融加速器Super Charger的加速計畫(accelerator
-program)。這項計畫是由[百度和](../Page/百度.md "wikilink")[渣打銀行出資贊助而成的](../Page/渣打銀行.md "wikilink")。
+program)。這項計畫是由[百度和](../Page/百度.md "wikilink")[渣打銀行出資贊助而成的](https://zh.wikipedia.org/wiki/渣打銀行 "wikilink")。
 \[5\]\[6\]
 
 ## 服務
@@ -16,14 +16,12 @@ account)提供比特幣交易的公司，\[7\]\[8\]\[9\]同時，也是香港第
 
 這個交易平台可以讓用戶使用比特幣和三個指定法幣進行交易。這三個指定法幣分別為美金，歐元和港幣。Gatecoin在2014年的第四季度推行了這項交易平台。\[13\]\[14\]
 
-Gatecoin在3月20日清盤。大量投資者損失。香港政府監管不力。
-
 ## 認證
 
 Gatecoin在2014年贏得了由Talent
-Unleashed頒發的中東亞地區最佳初創企業獎。這項比賽的評審包括了[理查德·布蘭森和](../Page/理查德·布蘭森.md "wikilink")[史蒂夫·沃茲尼克](../Page/史蒂夫·沃茲尼克.md "wikilink")。\[15\]\[16\]由Startup
+Unleashed頒發的中東亞地區最佳初創企業獎。這項比賽的評審包括了[理查德·布蘭森和](../Page/理查德·布蘭森.md "wikilink")[史蒂夫·沃茲尼克](https://zh.wikipedia.org/wiki/史蒂夫·沃茲尼克 "wikilink")。\[15\]\[16\]由Startup
 Asia舉辦的一場辯論會中，Aurélien
-Menant和[新加坡銀行的首席](../Page/新加坡銀行.md "wikilink")[經濟學家](../Page/经济学家.md "wikilink")
+Menant和[新加坡銀行的首席](https://zh.wikipedia.org/wiki/新加坡銀行 "wikilink")[經濟學家](../Page/经济学家.md "wikilink")
 － Richard Jerram在“比特幣成為主流的可能性”這項主題上進行了辯論。\[17\]\[18\]這場辯論會最後的優勝者為Richard
 Jerram。更近期的是，Gatecoin在2015年被列入為香港20大熱門創業公司之一。\[19\]
 

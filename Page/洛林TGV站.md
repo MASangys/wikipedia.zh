@@ -1,4 +1,4 @@
-**洛林TGV站**（）是法国的一个铁路车站，位于法国[摩泽尔省的](../Page/摩泽尔省.md "wikilink")[路维尼市镇范围内](../Page/路维尼.md "wikilink")，因地处原[洛林大区](../Page/洛林大区.md "wikilink")境内而得名。该站的主要服务对象是[南锡和](../Page/南锡.md "wikilink")[梅斯两座城市](../Page/梅斯.md "wikilink")，以及[卢森堡](../Page/卢森堡.md "wikilink")。
+**洛林TGV站**（）是法国的一个铁路车站，位于法国[摩泽尔省的](../Page/摩泽尔省.md "wikilink")[路维尼市镇范围内](https://zh.wikipedia.org/wiki/路维尼 "wikilink")，因地处原[洛林大区](https://zh.wikipedia.org/wiki/洛林大区 "wikilink")境内而得名。该站的主要服务对象是[南锡和](../Page/南锡.md "wikilink")[梅斯两座城市](../Page/梅斯.md "wikilink")，以及[卢森堡](../Page/卢森堡.md "wikilink")。
 
 ## 位置
 
@@ -7,7 +7,7 @@ TER Lorraine）开行了摆渡巴士（Bus Navette），以方便在洛林TGV站
 
 ## 车站选址
 
-洛林TGV站的建设与[南锡和](../Page/南锡.md "wikilink")[梅斯之间的争论有关](../Page/梅斯.md "wikilink")。由于这两座城市呈南北分布，均属于区域性的大城市，且实力不相上下，而[法国高速铁路东线却是一条东西走向的铁路](../Page/法国高速铁路东线.md "wikilink")，不可能同时经过南锡和梅斯。经过十余年的讨论，两地政府及当时的洛林大区委员最终采用了折中方案，即在南锡与梅斯之间修建了一个高铁站。而[路维尼又距离](../Page/路维尼.md "wikilink")[南锡机场较近](../Page/南锡机场.md "wikilink")，可在一定程度上扩大辐射面，提高使用效率。最终，洛林TGV站选址于此。
+洛林TGV站的建设与[南锡和](../Page/南锡.md "wikilink")[梅斯之间的争论有关](../Page/梅斯.md "wikilink")。由于这两座城市呈南北分布，均属于区域性的大城市，且实力不相上下，而[法国高速铁路东线却是一条东西走向的铁路](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")，不可能同时经过南锡和梅斯。经过十余年的讨论，两地政府及当时的洛林大区委员最终采用了折中方案，即在南锡与梅斯之间修建了一个高铁站。而[路维尼又距离](https://zh.wikipedia.org/wiki/路维尼 "wikilink")[南锡机场较近](https://zh.wikipedia.org/wiki/南锡机场 "wikilink")，可在一定程度上扩大辐射面，提高使用效率。最终，洛林TGV站选址于此。
 
 由于南锡和梅斯本身都有始发前往巴黎的TGV列车，因此洛林TGV站仅有极少量前往巴黎的列车。
 
@@ -27,19 +27,19 @@ TER Lorraine）开行了摆渡巴士（Bus Navette），以方便在洛林TGV站
 <td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/法兰克福火车总站.md" title="wikilink">法兰克福</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/戴高乐机场2号航站楼站.md" title="wikilink">戴高乐机场</a>—<a href="../Page/斯特拉斯堡站.md" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戴高乐机场2号航站楼站" title="wikilink">戴高乐机场</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="../Page/里尔欧洲站.md" title="wikilink">里尔</a>—<a href="../Page/斯特拉斯堡站.md" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/雷恩站.md" title="wikilink">雷恩</a>—<a href="../Page/斯特拉斯堡站.md" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/雷恩站.md" title="wikilink">雷恩</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="../Page/斯特拉斯堡站.md" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a>—<a href="../Page/斯特拉斯堡站.md" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/默兹TGV站.md" title="wikilink">默兹TGV</a></p></td>

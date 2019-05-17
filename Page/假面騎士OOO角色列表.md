@@ -3,7 +3,7 @@
 ## 假面騎士
 
 **火野映司（ひの
-えいじ）**（21）（[渡部秀飾](../Page/渡部秀.md "wikilink")／香港配音：[黃積權](../Page/黃積權.md "wikilink")／台灣配音：[余孟珂](../Page/余孟珂.md "wikilink")）
+えいじ）**（21）（[渡部秀飾](../Page/渡部秀.md "wikilink")／香港配音：[黃積權](../Page/黃積權.md "wikilink")／台灣配音：[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")）
 
   -
     **假面騎士OOO** 的變身者。不抱有任何夢想與追求，基本上和慾望沾不上邊的散漫青年。雙親與兄弟都是有名的政治家。
@@ -26,11 +26,11 @@
     Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>中因Ankh的幫助而取回所有（除恐龍系硬幣以外，因在48話擊敗真木後，恐龍系硬幣吸進黑洞全被破壞）變身使用的硬幣，可以再次變身成**假面騎士OOO**。得以對抗來自40年後的**假面騎士波賽頓**，並救出湊海遙。事件過後，從海遙手上得到未來的Taka，Tora，Batta硬幣，變成Super
     TATOBA COMBA，與幪面超人Fourze擊敗超銀河王。
     [假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")
-    [假面騎士ZI-O中再次登場](../Page/假面騎士ZI-O.md "wikilink")
+    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")
+    [假面騎士ZI-O中再次登場](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
 
 **伊達明（だて
-あきら）**（30）（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")/香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")、[張裕東](../Page/張裕東.md "wikilink")（代配））
+あきら）**（30）（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")/香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")（代配））
 
   -
     **假面騎士Birth** 的第一任變身者，亦是本作中第二位騎士。
@@ -54,7 +54,7 @@
     在第46話再次出場，並以試作型Birth與使用Birth的後藤一起戰鬥，並且擊敗Gamel。
 
 **後藤慎太郎（ごとう
-しんたろう）**（22）（[君嶋麻耶飾](../Page/君嶋麻耶.md "wikilink")／香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")／台灣配音：[李培松](../Page/李培松.md "wikilink")）
+しんたろう）**（22）（[君嶋麻耶飾](../Page/君嶋麻耶.md "wikilink")／香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")／台灣配音：[李培松](https://zh.wikipedia.org/wiki/李培松 "wikilink")）
 
   -
     **假面騎士Birth**的第二任變身者，亦算是本作中第三位騎士，財團所屬Ridevedor的一番隊的隊長。原本是警察的傑出人才。鴻上的忠實部下。
@@ -92,7 +92,7 @@
     Medal而誕生的（根據鴻上第16話中的說法）。
 
 **湊海遙（みなと
-ミハル）**（[荒井敦史飾](../Page/荒井敦史.md "wikilink")）（[濱田賢二聲演](../Page/濱田賢二.md "wikilink")）
+ミハル）**（[荒井敦史飾](https://zh.wikipedia.org/wiki/荒井敦史 "wikilink")）（[濱田賢二聲演](../Page/濱田賢二.md "wikilink")）
 
   -
     **假面騎士AQUA**與**假面騎士波賽頓**的變身者。只在Movie大戰Mega Max中登場。
@@ -120,7 +120,7 @@
     性格非常彆扭，偏好算計別人，同時唯利是圖，和映司正好完全相反。
     表面上其終極目的是希望搜集到幾乎所有代幣，成為一種集所有慾望接近神的存在，但其實只是想有一個完整的身體。
     在第3話與後籐對話後發現自己必須進化，而學會了使用[iPhone
-    4和](../Page/iPhone#iPhone_4.md "wikilink")[iPad](../Page/iPad.md "wikilink")。
+    4和](https://zh.wikipedia.org/wiki/iPhone#iPhone_4 "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。
     喜歡吃冰棒，但卻常常去偷別人的來吃。
     因為被鴻上基金會收取60%的代幣，加上第8話被Uva重傷時失去一部分硬幣，令本體（右手）常常不能維持平常的型態（第8話時，右手上的翼不能維持，一部分消失，要映司把硬幣拿來才回復）。
     在第17話獲得了用來裝Core Medals的盒子（比奈送的）。
@@ -140,7 +140,7 @@
     加入真木的組織後，漸漸覺得Greeed的生活很無趣，有了「自己是人類」的感覺，決心因此動搖。
     之後終於確認了自己的想法，那就是視映司為一生不可或缺的夥伴，帶著這樣的想法，最後用出所有力量幫助映司打敗真木。
     於聯動劇場版《[假面骑士×假面骑士 Fourze & OOO MOVIE大戰 Mega
-    MAX](../Page/假面骑士×假面骑士_Fourze_&_OOO_MOVIE大戰_Mega_MAX.md "wikilink")》中復活，由40年後的世界回到現在幫助映司取回變身使用的硬幣，令他可以再次變身成**假面騎士OOO**。並於打敗的**假面騎士波賽頓**後回到未來。
+    MAX](https://zh.wikipedia.org/wiki/假面骑士×假面骑士_Fourze_&_OOO_MOVIE大戰_Mega_MAX "wikilink")》中復活，由40年後的世界回到現在幫助映司取回變身使用的硬幣，令他可以再次變身成**假面騎士OOO**。並於打敗的**假面騎士波賽頓**後回到未來。
     在聯動劇場版《假面騎士平成Generations FINAL Build & EX-AID with
     傳說騎士》中因存有自身意識的碎裂硬幣注入最上魁星（EX-AID世界）所召喚的Ankh復製體而短暫復活，在幫助映司對敵並索討冰棒後再次消失。
 
@@ -158,7 +158,7 @@
     最后，与泉比奈恢复了正常的生活。
 
 **泉 比奈（いずみ
-ひな）**（18）（[高田里穂飾](../Page/高田里穂.md "wikilink")／香港配音：[凌晞](../Page/凌晞.md "wikilink")／台灣配音：[劉艾靈](../Page/劉艾靈.md "wikilink")）
+ひな）**（18）（[高田里穂飾](https://zh.wikipedia.org/wiki/高田里穂 "wikilink")／香港配音：[凌晞](../Page/凌晞.md "wikilink")／台灣配音：[劉艾靈](https://zh.wikipedia.org/wiki/劉艾靈 "wikilink")）
 
   -
     被Ankh奪取身體的泉刑警之妹。因為Ankh持有著因附身在哥哥身上，而開始負責照顧映司他們，也監督著Ankh的飲食狀況，常常禁止他吃冰棒。
@@ -170,7 +170,7 @@
     假面騎士ZI-O中再次登場
 
 **白石千世子（しらいし
-ちよこ）**（30）（飾／香港配音：[林元春](../Page/林元春.md "wikilink")、[曾佩儀](../Page/曾佩儀.md "wikilink")（代配）／台灣配音：[高嘉鎂](../Page/高嘉鎂.md "wikilink")）
+ちよこ）**（30）（飾／香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")、[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（代配）／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）
 
   -
     比奈的多國料理店的店長。
@@ -329,7 +329,7 @@
 ## 關係者
 
 **鴻上光生（こうがみ
-こうせい）**（）（43）（飾/香港配音：[招世亮](../Page/招世亮.md "wikilink")、[陳欣](../Page/陳欣.md "wikilink")（代配））
+こうせい）**（）（43）（飾/香港配音：[招世亮](../Page/招世亮.md "wikilink")、[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")（代配））
 
   -
     神秘財團—鴻上基金會的會長，常常以浮誇的語氣說話。也是Ridevendor的創立人。Ridevedor是為了對付怪人而特別培養的精銳部隊，但在第一話中其中一隊被4個Greeed全數消滅（後藤慎太郎例外）。

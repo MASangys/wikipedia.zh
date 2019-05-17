@@ -1,5 +1,5 @@
 《**Sun
-Glow**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[戴辛尉的第一張粵語EP](../Page/戴辛尉.md "wikilink")，於2003年11月7日推出，也是她在[126唱片的唯一一張EP](../Page/126唱片.md "wikilink")。專輯第一主打歌是《出於汙泥》，而第二主打為《今天不回家》。
+Glow**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[戴辛尉的第一張粵語EP](../Page/戴辛尉.md "wikilink")，於2003年11月7日推出，也是她在[126唱片的唯一一張EP](https://zh.wikipedia.org/wiki/126唱片 "wikilink")。專輯第一主打歌是《出於汙泥》，而第二主打為《今天不回家》。
 
 ## 曲目
 

@@ -25,7 +25,7 @@ $_ = "wftedskaebjgdpjgidbsmnjgc";
 tr/a-z/oh, turtleneck Phrase Jar!/; print;
 ```
 
-一段不含任何标点，只使用了Perl[关键字的代码](../Page/关键字.md "wikilink")：\[3\]
+一段不含任何标点，只使用了Perl[关键字的代码](https://zh.wikipedia.org/wiki/关键字 "wikilink")：\[3\]
 
 ``` perl
 not exp log srand xor s qq qx xor
@@ -45,7 +45,7 @@ exec return y s gt sin sort split
 ```
 
 一段只含有标点，不含任何数字和字母的代码（由[Eric
-Roode](https://metacpan.org/author/ROODE)编写，只能在[Unix和](../Page/Unix.md "wikilink")[Unix-like系统上运行](../Page/Unix-like.md "wikilink")）：
+Roode](https://metacpan.org/author/ROODE)编写，只能在[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[Unix-like系统上运行](https://zh.wikipedia.org/wiki/Unix-like "wikilink")）：
 
 ``` perl
 `$=`;$_=\%!;($_)=/(.)/;$==++$|;($.,$/,$,,$\,$",$;,$^,$#,$~,$*,$:,@%)=(
@@ -54,7 +54,7 @@ $_++;$_++;($_,$\,$,)=($~.$"."$;$/$%[$?]$_$\$,$:$%[$?]",$"&$~,$#,);$,++
 ;$,++;$^|=$";`$_$\$,$/$:$;$~$*$%[$?]$.$~$*${#}$%[$?]$;$\$"$^$~$*.>&$=`
 ```
 
-一个更短的纯标点代码，基于[CPAN上的](../Page/CPAN.md "wikilink")\[<https://metacpan.org/module/Acme>::EyeDrops
+一个更短的纯标点代码，基于[CPAN上的](https://zh.wikipedia.org/wiki/CPAN "wikilink")\[<https://metacpan.org/module/Acme>::EyeDrops
 EyeDrops\]模块生成：
 
 ``` perl
@@ -62,7 +62,7 @@ EyeDrops\]模块生成：
 ^'][)@]`}`]()`@.@]@%[`}%[@`@!#@%[').',"})')
 ```
 
-一段形状像[单峰骆驼](../Page/单峰骆驼.md "wikilink")（Perl的标志）的[ASCII艺术代码](../Page/ASCII艺术.md "wikilink")，运行后也会输出JAPH和骆驼组成的动态的ASCII字符画：\[4\]
+一段形状像[单峰骆驼](https://zh.wikipedia.org/wiki/单峰骆驼 "wikilink")（Perl的标志）的[ASCII艺术代码](../Page/ASCII艺术.md "wikilink")，运行后也会输出JAPH和骆驼组成的动态的ASCII字符画：\[4\]
 
 ``` perl
                                                        #
@@ -125,7 +125,7 @@ EyeDrops\]模块生成：
   - [Cultured Perl: The Elegance of
     JAPH](https://web.archive.org/web/20041209175230/http://www-106.ibm.com/developerworks/linux/library/l-japh.html)
   - [JAPH合集](http://www.cpan.org/misc/japh),
-    一个在[CPAN上整理的JAPH合集](../Page/CPAN.md "wikilink")。
+    一个在[CPAN上整理的JAPH合集](https://zh.wikipedia.org/wiki/CPAN "wikilink")。
   - [Obfuscated code](http://perlmonks.org/?node=Obfuscated%20Code),
     [PerlMonks中分享混乱代码的节点](../Page/PerlMonks.md "wikilink")，其中有很多JAPH。
 

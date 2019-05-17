@@ -1,5 +1,5 @@
 《**JUMPing CAR**》是[Hey\! Say\!
-JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")4張[專輯](../Page/專輯.md "wikilink")。於2015年6月24日由[J
+JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")4張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年6月24日由[J
 Storm發售](../Page/J_Storm.md "wikilink")。
 
 ## 概要
@@ -15,8 +15,8 @@ CAR**」！
     CAR**』向前進吧！」的意念，讓[Hey\! Say\!
     JUMP陪大家度過每分每秒](../Page/Hey!_Say!_JUMP.md "wikilink")。
   - 此次「JUMPing
-    CAR」推出初回限定版1、初回限定版2以及通常版。各版本共同收錄「[ウィークエンダー](../Page/Weekender/向明天的YELL.md "wikilink")
-    (週末旅行者)」、「[Chau＃](../Page/Chau＃/我_I_Need_You.md "wikilink")」等暢銷單曲以及12首未公開新曲。
+    CAR」推出初回限定版1、初回限定版2以及通常版。各版本共同收錄「[ウィークエンダー](https://zh.wikipedia.org/wiki/Weekender/向明天的YELL "wikilink")
+    (週末旅行者)」、「[Chau＃](https://zh.wikipedia.org/wiki/Chau＃/我_I_Need_You "wikilink")」等暢銷單曲以及12首未公開新曲。
 
 ## 收錄曲
 
@@ -34,8 +34,8 @@ CAR**」！
 4.  **SHen SHera SHen**
       -
         作詞：Koudaiii、作曲：Kevin Charge、Koudaiii、編曲：Kevin Charge
-5.  **[ウィークエンダー](../Page/Weekender/向明天的YELL.md "wikilink")** (週末旅行者
-    Weekender)
+5.  **[ウィークエンダー](https://zh.wikipedia.org/wiki/Weekender/向明天的YELL "wikilink")**
+    (週末旅行者 Weekender)
       -
         作詞：三井八雲、Vandrythem、作曲：原一博、編曲：原一博、KOMU、ストリングスアレンジ：今野均、コーラスアレンジ：高橋哲也
         13thシングルの1曲目。[山田涼介](../Page/山田涼介.md "wikilink")・[有岡大貴出演](../Page/有岡大貴.md "wikilink")[日本電視台系ドラマ](../Page/日本電視台.md "wikilink")『[金田一少年の事件簿N
@@ -58,7 +58,7 @@ CAR**」！
       -
         作詞：Taka Ruscar、作曲:STEVEN LEE、Andreas Stone Johansson、Fredrik
         Hult、Andreas Oberg、編曲：STEVEN LEE
-11. **[Chau＃](../Page/Chau＃/我_I_Need_You.md "wikilink")**
+11. **[Chau＃](https://zh.wikipedia.org/wiki/Chau＃/我_I_Need_You "wikilink")**
       -
         作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")、作曲・編曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink")
         14thシングルの1曲目。[Hey\! Say\!
@@ -66,10 +66,11 @@ CAR**」！
 12. **ヨワムシ★シューター** (膽小鬼★射手)
       -
         作詞・作曲・編曲：宮﨑歩
-13. **[明日へのYELL](../Page/Weekender/向明天的YELL.md "wikilink")** (向明天的YELL)
+13. **[明日へのYELL](https://zh.wikipedia.org/wiki/Weekender/向明天的YELL "wikilink")**
+    (向明天的YELL)
       -
         作詞・作曲：Takuya Harada、編曲：CHOKKAKU、コーラスアレンジ：高橋哲也
-        13thシングルの2曲目。[中島裕翔](../Page/中島裕翔.md "wikilink")・[髙木雄也出演](../Page/高木雄也.md "wikilink")[富士電視台系ドラマ](../Page/富士電視台.md "wikilink")『[水球不良少年](../Page/水球不良少年.md "wikilink")』主題歌
+        13thシングルの2曲目。[中島裕翔](../Page/中島裕翔.md "wikilink")・[髙木雄也出演](../Page/高木雄也.md "wikilink")[富士電視台系ドラマ](../Page/富士電視台.md "wikilink")『[水球不良少年](https://zh.wikipedia.org/wiki/水球不良少年 "wikilink")』主題歌
 14. **Farewell**
       -
         作詞：ma-saya、作曲・編曲：原一博
@@ -134,7 +135,7 @@ CAR**」！
         作詞：[有岡大貴](../Page/有岡大貴.md "wikilink")、[八乙女光](../Page/八乙女光.md "wikilink")、[薮宏太](../Page/薮宏太.md "wikilink")、作曲：Andreas
         Ohrn、Chris Wahle、MiNE、編曲：Andreas Ohrn、Chris Wahl
 17. **ペットショップラブモーション** (寵物店的小可愛) /
-    [知念侑李](../Page/知念侑李.md "wikilink")・[中島裕翔](../Page/中島裕翔.md "wikilink")・[髙木雄也](../Page/髙木雄也.md "wikilink")・[伊野尾慧](../Page/伊野尾慧.md "wikilink")
+    [知念侑李](../Page/知念侑李.md "wikilink")・[中島裕翔](../Page/中島裕翔.md "wikilink")・[髙木雄也](https://zh.wikipedia.org/wiki/髙木雄也 "wikilink")・[伊野尾慧](../Page/伊野尾慧.md "wikilink")
       -
         作詞：Vandrythem、作曲：Simön Janlöv、Pessi Levanto、DAICHI、編曲：Simön
         Janlöv

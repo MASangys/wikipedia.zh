@@ -1,15 +1,15 @@
-是[李法聖於](../Page/李法聖.md "wikilink")1997年在中國[長江三峽發現的](../Page/長江三峽.md "wikilink")[啮虫目](../Page/啮虫总目.md "wikilink")（Psocodea）[粉啮虫亚目物種](../Page/粉啮虫亚目.md "wikilink")。
+是[李法聖於](https://zh.wikipedia.org/wiki/李法聖 "wikilink")1997年在中國[長江三峽發現的](https://zh.wikipedia.org/wiki/長江三峽 "wikilink")[啮虫目](../Page/啮虫总目.md "wikilink")（Psocodea）[粉啮虫亚目物種](../Page/粉啮虫亚目.md "wikilink")。
 
-[觸角由](../Page/觸角#節足動物.md "wikilink")15到17節組成，有兩節[跗節](../Page/跗節.md "wikilink")\[1\]。
+[觸角由](https://zh.wikipedia.org/wiki/觸角#節足動物 "wikilink")15到17節組成，有兩節[跗節](https://zh.wikipedia.org/wiki/跗節 "wikilink")\[1\]。
 
 ## 物種
 
   - *[Ancylopsocus
-    fortuosus](../Page/Ancylopsocus_fortuosus.md "wikilink")* <small>Li,
-    1997</small>
+    fortuosus](https://zh.wikipedia.org/wiki/Ancylopsocus_fortuosus "wikilink")*
+    <small>Li, 1997</small>
   - *[Ancylopsocus
-    macrurus](../Page/Ancylopsocus_macrurus.md "wikilink")* <small>Li,
-    1997</small>
+    macrurus](https://zh.wikipedia.org/wiki/Ancylopsocus_macrurus "wikilink")*
+    <small>Li, 1997</small>
 
 ## 參考資料
 

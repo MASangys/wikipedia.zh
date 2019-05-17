@@ -1,5 +1,5 @@
 **Erased Tapes
-Records**是一間2007年成立、以[英國](../Page/英國.md "wikilink")[倫敦為據點的獨立音樂廠牌](../Page/倫敦.md "wikilink")，致力於發行前衛音樂。
+Records**是一間2007年成立、以[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦為據點的獨立音樂廠牌](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，致力於發行前衛音樂。
 
 ## 發展過程
 
@@ -12,7 +12,8 @@ Tapes Music」。
 ## 旗下藝人
 
   - A Winged Victory for the Sullen
-  - [Ólafur Arnalds](../Page/Ólafur_Arnalds.md "wikilink")
+  - [Ólafur
+    Arnalds](https://zh.wikipedia.org/wiki/Ólafur_Arnalds "wikilink")
   - The British Expeditionary Force
   - Peter Broderick
   - Codes in the Clouds
@@ -20,7 +21,7 @@ Tapes Music」。
   - Dawn of Midi
   - Masayoshi Fujita
   - Greg Gives Peter Space
-  - [Nils Frahm](../Page/Nils_Frahm.md "wikilink")
+  - [Nils Frahm](https://zh.wikipedia.org/wiki/Nils_Frahm "wikilink")
   - Nils Frahm and Anne Müller
   - Kiasmos
   - Lubomyr Melnyk

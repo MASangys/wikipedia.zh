@@ -1,4 +1,4 @@
-《**VOEZ**》是由[台湾](../Page/台湾.md "wikilink")[雷亞遊戲](../Page/雷亞遊戲.md "wikilink")（Rayark）开发的一款[音乐游戏](../Page/音乐游戏.md "wikilink")。為一款落下式音樂遊戲，遊玩過程中須全程連網（除了Switch版）。
+《**VOEZ**》是由[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[雷亞遊戲](../Page/雷亞遊戲.md "wikilink")（Rayark）开发的一款[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。為一款落下式音樂遊戲，遊玩過程中須全程連網（除了Switch版）。
 
 以炫麗的軌道變換為主打，相較於[Deemo中無軌道的表現形式](../Page/Deemo.md "wikilink")，《VOEZ》將軌道的存在發揮至極限\[1\]，隨著音樂進行，軌道會產生「出現、消失、移動、閃動、擴大、縮小」等變化。
 
@@ -6,7 +6,7 @@
 
 ### 故事場景
 
-《VOEZ》敘述六名高中生在以[宜蘭為背景的虛構城鎮](../Page/宜蘭.md "wikilink")「蘭空鎮」共同組織樂團，追逐夢想時發生的點點滴滴。
+《VOEZ》敘述六名高中生在以[宜蘭為背景的虛構城鎮](https://zh.wikipedia.org/wiki/宜蘭 "wikilink")「蘭空鎮」共同組織樂團，追逐夢想時發生的點點滴滴。
 
 ### 日記
 
@@ -32,7 +32,7 @@
 
 ### 判定
 
-由於**VOEZ**是注重玩家間互動，擁有排行榜制度的音樂遊戲，因此在判定上較[Cytus及](../Page/Cytus.md "wikilink")[Deemo嚴格](../Page/Deemo.md "wikilink")。
+由於**VOEZ**是注重玩家間互動，擁有排行榜制度的音樂遊戲，因此在判定上較[Cytus及](https://zh.wikipedia.org/wiki/Cytus "wikilink")[Deemo嚴格](../Page/Deemo.md "wikilink")。
 
 在擊中音符的評比中，有「Max Perfect」、「Perfect」、「OK」及「Miss」四種級別。
 
@@ -72,12 +72,12 @@ to Heaven”。日后的更新还会陆续追加不同作曲家的独占歌曲�
 
 ### 發行
 
-《VOEZ》於2016年2月25日在[iOS及](../Page/iOS.md "wikilink")[Android平台上分別展開為期](../Page/Android.md "wikilink")30天的封測\[7\]。
-[iOS版本於](../Page/iOS.md "wikilink")2016年5月26日在[App
-Store上架](../Page/App_Store.md "wikilink")\[8\]，
+《VOEZ》於2016年2月25日在[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android平台上分別展開為期](../Page/Android.md "wikilink")30天的封測\[7\]。
+[iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2016年5月26日在[App
+Store上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[8\]，
 [Android版本於](../Page/Android.md "wikilink")2016年6月2日在[Google
 Play商店上架](../Page/Google_Play.md "wikilink")\[9\]。大陆的龙渊版（成都龙渊网络有限公司名义发行），在2016年5月26日於iOS和Andorid版本和国际版同步在大陆区[App
-Store和中国各大Android应用商店上架](../Page/App_Store.md "wikilink")\[10\]\[11\]。而任天堂Switch版本于2017年3月3日隨主機同步在日本和欧洲上架下載版，北美则預定在3月9日上架\[12\]。
+Store和中国各大Android应用商店上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[10\]\[11\]。而任天堂Switch版本于2017年3月3日隨主機同步在日本和欧洲上架下載版，北美则預定在3月9日上架\[12\]。
 
 ### 實體咖啡廳
 

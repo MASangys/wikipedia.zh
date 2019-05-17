@@ -25,7 +25,7 @@ works在2014年4月25日發售的[成人遊戲](../Page/日本成人遊戲.md "w
 ### 主要角色
 
   - 主角
-    霧島學園2年B組的學生。原本是對戀愛沒興趣的[草食男](../Page/草食男.md "wikilink")，在叔母的勉勵下決定開始尋找自己的戀愛。
+    霧島學園2年B組的學生。原本是對戀愛沒興趣的[草食男](https://zh.wikipedia.org/wiki/草食男 "wikilink")，在叔母的勉勵下決定開始尋找自己的戀愛。
   -
     生日：10月24日（天蠍座）　血型：O型　身高：156cm　三圍：B85/W59/H86
     霧島學園2年B組的學生和班花。不希望被人知道而刻意隱瞞自己是個[御宅族](../Page/御宅族.md "wikilink")。
@@ -60,7 +60,7 @@ works在2014年4月25日發售的[成人遊戲](../Page/日本成人遊戲.md "w
 ## 主題歌
 
   - OP「Loving you」\[3\]
-    作詞/作曲/編曲：西坂恭平　歌：[霜月はるか](../Page/霜月はるか.md "wikilink")
+    作詞/作曲/編曲：西坂恭平　歌：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")
   - ED「同じ歩幅で、ずっと」
     作詞/作曲/編曲：西坂恭平　歌：西坂恭平　歌：朝霧希美（花澤さくら）、朝霧咲良（綾音まこ）、エレクトリーチカ（藤乃理香）、薬王寺小町（鈴谷まや）
 
@@ -159,13 +159,13 @@ ANIMATION》由PinkPineapple在2016年發售的成人動畫。\[4\]第一卷女�
 
 ## 評價
 
-PRETTY×CATION在Getchu.com的美少女遊戲大賞2014中獲得系統部門第5名。\[6\]另外在[萌えゲーアワード舉辦](../Page/萌えゲーアワード.md "wikilink")4月的月間賞中獲得第7名。\[7\]
+PRETTY×CATION在Getchu.com的美少女遊戲大賞2014中獲得系統部門第5名。\[6\]另外在[萌えゲーアワード舉辦](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")4月的月間賞中獲得第7名。\[7\]
 
 ## 相關條目
 
   - [LOVELY×CATION](../Page/LOVELY×CATION.md "wikilink")
   - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
+  - [新妻LOVELY×CATION](https://zh.wikipedia.org/wiki/新妻LOVELY×CATION "wikilink")
 
 ## 參考來源
 
@@ -192,4 +192,4 @@ PRETTY×CATION在Getchu.com的美少女遊戲大賞2014中獲得系統部門第5
     ＃1「初恋、それぞれの距離」](http://www.getchu.com/soft.phtml?id=885949)Getchu.com
 6.  [美少女ゲーム大賞2014
     －システム部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/system.html)Getchu.com
-7.  [2014年4月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2014&month_id=04)[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")
+7.  [2014年4月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2014&month_id=04)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")

@@ -1,6 +1,7 @@
 《**color bars**》（，*color
-bars*）是[東京事變的首張](../Page/東京事變.md "wikilink")[迷你專輯](../Page/迷你專輯.md "wikilink")，由[EMI
-Music Japan](../Page/EMI音樂_\(日本\).md "wikilink")／[Virgin
+bars*）是[東京事變的首張](../Page/東京事變.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[EMI
+Music
+Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin
 Music於](../Page/維京唱片.md "wikilink")2012年1月18日發行。初回限定為「精美外紙盒仕樣、東京事變團員相片卡、演唱會抽選券」。
 
 在專輯銷售成績方面，本張專輯在日本Oricon銷售榜上最高位居單週第2名\[1\]，名列2012年年度銷售榜第62位\[2\]。在銷售認證上，專輯《color
@@ -46,9 +47,9 @@ bars**》是東京事變首張迷你專輯，同時也是繼2011年6月發表《
 ### Oricon 銷售榜(日本)
 
 《color
-bars》於2012年1月18日發行。發行首週，在日本公信榜Oricon的專輯榜2012年1月第3週付的榜單中以78,318張銷售量居單週第二名。同週第一名是銷售量突破8萬大關的搖滾樂團[亞細亞功夫世代的專輯](../Page/亞細亞功夫世代.md "wikilink")《》\[8\]。第二週則以銷售量1.4萬張位居第六位，同週前三名分別為女歌手[倖田來未的專輯](../Page/倖田來未.md "wikilink")《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》、第二名則是團體的專輯《》及團體[EXILE](../Page/EXILE.md "wikilink")／EXILE
+bars》於2012年1月18日發行。發行首週，在日本公信榜Oricon的專輯榜2012年1月第3週付的榜單中以78,318張銷售量居單週第二名。同週第一名是銷售量突破8萬大關的搖滾樂團[亞細亞功夫世代的專輯](../Page/亞細亞功夫世代.md "wikilink")《》\[8\]。第二週則以銷售量1.4萬張位居第六位，同週前三名分別為女歌手[倖田來未的專輯](../Page/倖田來未.md "wikilink")《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》、第二名則是團體的專輯《》及團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")／EXILE
 ATSUSHI的專輯《[EXILE
-JAPAN/Solo](../Page/EXILE_JAPAN/Solo.md "wikilink")》\[9\]。總計《color
+JAPAN/Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》\[9\]。總計《color
 bars》總共在日本公信榜Oricon的專輯榜上榜9週，累積銷售達10.8萬張\[10\]。同時在2012年年銷售榜中，《color
 bars》以10.8萬張銷售量居全年第62名\[11\]。
 
@@ -119,10 +120,10 @@ color bars</p></td>
 
 ## 宣傳行程
 
-| 類型                                   | 日期                       | 名稱                                                                                           |
-| ------------------------------------ | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **[演唱會](../Page/演唱會.md "wikilink")** |                          | [東京事變 live tour 2012 Domestique Bon Voyage](../Page/Bon_Voyage_\(東京事變\)#演唱會簡介.md "wikilink") |
-| **[電視](../Page/電視.md "wikilink")**   | <small>2012/1/20</small> | 【朝日電視台】MUSIC STATION\[25\]                                                                   |
+| 類型                                                      | 日期                       | 名稱                                                                                                              |
+| ------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| **[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")** |                          | [東京事變 live tour 2012 Domestique Bon Voyage](https://zh.wikipedia.org/wiki/Bon_Voyage_\(東京事變\)#演唱會簡介 "wikilink") |
+| **[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")**   | <small>2012/1/20</small> | 【朝日電視台】MUSIC STATION\[25\]                                                                                      |
 
 ## 注釋
 

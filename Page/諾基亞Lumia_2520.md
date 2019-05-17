@@ -1,7 +1,7 @@
 **諾基亞Lumia
 2520**，是[诺基亚在](../Page/诺基亚.md "wikilink")2013年10月23日（[北京时间](../Page/北京时间.md "wikilink")）于[阿布扎比举行的Nokia](../Page/阿布扎比.md "wikilink")
 World 2013发布会上，所发布的唯一一款基于Windows RT 8.1系统的Lumia
-2520[平板电脑](../Page/平板电脑.md "wikilink")，其搭载了包含LTE基带的MSM8974
+2520[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，其搭载了包含LTE基带的MSM8974
 SoC，使用了一块分辨率为1920\*1080的10.1寸屏幕。
 
 诺基亚还为其设计了一款电源键盘，内含额外的电源、两个USB接口和一个物理键盘及鼠标。
@@ -15,9 +15,9 @@ SoC，使用了一块分辨率为1920\*1080的10.1寸屏幕。
 2520与其他Lumia手机正式亮相，这款设备意味着诺基亚进入了平板电脑的市场。
 
 2014年4月，诺基亚在发现充电过程中可能会存在漏电的隐患之后，召回了适配Lumia
-2520的AC-300[充电器](../Page/充电器.md "wikilink")。所幸这款充电器在[美国是作为单独配件销售的](../Page/美国.md "wikilink")，但不幸的是，欧洲版Lumia
+2520的AC-300[充电器](https://zh.wikipedia.org/wiki/充电器 "wikilink")。所幸这款充电器在[美国是作为单独配件销售的](../Page/美国.md "wikilink")，但不幸的是，欧洲版Lumia
 2520的包装内却包含了这个充电器。因此，诺基亚暂停了Lumia
-2520在[奧地利](../Page/奧地利.md "wikilink")、[丹麥](../Page/丹麥.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[德国](../Page/德国.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[瑞士及](../Page/瑞士.md "wikilink")[英国等地的销售](../Page/英国.md "wikilink")。\[1\]\[2\]
+2520在[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")、[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[德国](../Page/德国.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[瑞士及](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[英国等地的销售](https://zh.wikipedia.org/wiki/英国 "wikilink")。\[1\]\[2\]
 
 ## 特点
 

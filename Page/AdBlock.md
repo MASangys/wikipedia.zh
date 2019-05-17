@@ -1,7 +1,7 @@
 **AdBlock**是一个用于[Google
 Chrome](../Page/Google_Chrome.md "wikilink")、Apple
 [Safari](../Page/Safari.md "wikilink")、[Microsoft
-Edge](../Page/Microsoft_Edge.md "wikilink")、[Firefox和](../Page/Firefox.md "wikilink")[Opera网页浏览器用于](../Page/Opera.md "wikilink")[内容过滤和](../Page/内容过滤.md "wikilink")的扩展\[1\]\[2\]\[3\]\[4\]\[5\]。AdBlock允许用户阻止[广告等页面元素的显示](../Page/网络广告.md "wikilink")。此软件可以免费下载和使用，但用户可以向开发者[捐助任意数额](../Page/Pay_what_you_want.md "wikilink")\[6\]。
+Edge](../Page/Microsoft_Edge.md "wikilink")、[Firefox和](../Page/Firefox.md "wikilink")[Opera网页浏览器用于](https://zh.wikipedia.org/wiki/Opera "wikilink")[内容过滤和](https://zh.wikipedia.org/wiki/内容过滤 "wikilink")的扩展\[1\]\[2\]\[3\]\[4\]\[5\]。AdBlock允许用户阻止[广告等页面元素的显示](../Page/网络广告.md "wikilink")。此软件可以免费下载和使用，但用户可以向开发者[捐助任意数额](https://zh.wikipedia.org/wiki/Pay_what_you_want "wikilink")\[6\]。
 
 AdBlock與[Adblock
 Plus不同](../Page/Adblock_Plus.md "wikilink")\[7\]。AdBlock的開發者Michael

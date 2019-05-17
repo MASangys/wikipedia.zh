@@ -3,34 +3,34 @@ Entertainment**（）是韓國的綜合[經紀公司](../Page/經紀公司.md "w
 
 ## 歷史
 
-2005年創立之初，仍為一般公司，2006年始改為法人經紀公司。草創初期，經營相當困難，旗下僅有兩位藝人，其中一位即[李敏鎬](../Page/李敏鎬.md "wikilink")。[李敏鎬為Starhaus代表藝人](../Page/李敏鎬.md "wikilink")，從《[花樣男子](../Page/流星花園_\(韓國電視劇\).md "wikilink")》到《[城市獵人](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》，使公司逐漸步上軌道，直到2013年，公司約有5位藝人。在《[繼承者們](../Page/欲戴王冠，必承其重－繼承者們.md "wikilink")》之後，2014年公司開始快速成長，積極向海外市場發展，逐漸擴大事業版圖，並發展為綜合型經紀公司，陸續加入多位新人演員，包括[郭時暘](../Page/郭時暘.md "wikilink")、[宋元錫](../Page/宋元錫.md "wikilink")、[權度均](../Page/權度均.md "wikilink")、[安孝燮等人](../Page/安孝燮.md "wikilink")，到2015年底已有11位藝人。（2016年6月，[李敏鎬轉入由Starhaus代表張英勳及姊姊李允貞所共同創立的](../Page/李敏鎬.md "wikilink")[MYM
-Entertainment](../Page/MYM娛樂.md "wikilink")，並保留原本的工作人員繼續合作。）
+2005年創立之初，仍為一般公司，2006年始改為法人經紀公司。草創初期，經營相當困難，旗下僅有兩位藝人，其中一位即[李敏鎬](https://zh.wikipedia.org/wiki/李敏鎬 "wikilink")。[李敏鎬為Starhaus代表藝人](https://zh.wikipedia.org/wiki/李敏鎬 "wikilink")，從《[花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink")》到《[城市獵人](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》，使公司逐漸步上軌道，直到2013年，公司約有5位藝人。在《[繼承者們](https://zh.wikipedia.org/wiki/欲戴王冠，必承其重－繼承者們 "wikilink")》之後，2014年公司開始快速成長，積極向海外市場發展，逐漸擴大事業版圖，並發展為綜合型經紀公司，陸續加入多位新人演員，包括[郭時暘](../Page/郭時暘.md "wikilink")、[宋元錫](https://zh.wikipedia.org/wiki/宋元錫 "wikilink")、[權度均](https://zh.wikipedia.org/wiki/權度均 "wikilink")、[安孝燮等人](../Page/安孝燮.md "wikilink")，到2015年底已有11位藝人。（2016年6月，[李敏鎬轉入由Starhaus代表張英勳及姊姊李允貞所共同創立的](https://zh.wikipedia.org/wiki/李敏鎬 "wikilink")[MYM
+Entertainment](https://zh.wikipedia.org/wiki/MYM娛樂 "wikilink")，並保留原本的工作人員繼續合作。）
 
 ## 旗下演員
 
-  - [李敏豪](../Page/李敏豪.md "wikilink")
+  - [李敏豪](https://zh.wikipedia.org/wiki/李敏豪 "wikilink")
   - [郭時暘](../Page/郭時暘.md "wikilink")
   - [韓周完](../Page/韓周完.md "wikilink")
-  - [宋元錫](../Page/宋元錫.md "wikilink")
+  - [宋元錫](https://zh.wikipedia.org/wiki/宋元錫 "wikilink")
   - [安孝燮](../Page/安孝燮.md "wikilink")
-  - [權度均](../Page/權度均.md "wikilink")
+  - [權度均](https://zh.wikipedia.org/wiki/權度均 "wikilink")
   - [朴帥眉](../Page/朴帥眉.md "wikilink")
   - [申東美](../Page/申東美.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
-  - [金宥美](../Page/金宥美.md "wikilink")
+  - [金宥美](https://zh.wikipedia.org/wiki/金宥美 "wikilink")
   - [柳惠仁](../Page/柳惠仁.md "wikilink")
 
 ## 旗下團體
 
   - 101(One O
-    One)（企劃男團，由[郭時暘](../Page/郭時暘.md "wikilink")、[權度均](../Page/權度均.md "wikilink")、[宋元錫](../Page/宋元錫.md "wikilink")、[安孝燮等](../Page/安孝燮.md "wikilink")4人組成）
+    One)（企劃男團，由[郭時暘](../Page/郭時暘.md "wikilink")、[權度均](https://zh.wikipedia.org/wiki/權度均 "wikilink")、[宋元錫](https://zh.wikipedia.org/wiki/宋元錫 "wikilink")、[安孝燮等](../Page/安孝燮.md "wikilink")4人組成）
 
 ### 過往藝人
 
-  - [李敏鎬](../Page/李敏鎬.md "wikilink")
+  - [李敏鎬](https://zh.wikipedia.org/wiki/李敏鎬 "wikilink")
   - [鄭成雲](../Page/鄭成雲.md "wikilink")
   - [李大衛](../Page/李大衛_\(演員\).md "wikilink")
-  - [崔恩書](../Page/崔恩書.md "wikilink")
+  - [崔恩書](https://zh.wikipedia.org/wiki/崔恩書 "wikilink")
 
 ## 外部連結
 

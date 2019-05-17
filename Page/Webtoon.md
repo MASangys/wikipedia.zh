@@ -1,12 +1,12 @@
-**Webtoon**（）是一種始創於[韓國的新概念](../Page/韓國.md "wikilink")[網絡漫畫](../Page/網絡漫畫.md "wikilink")，由「**Web**（網絡）」及「Car**toon**（漫畫、卡通）」組成，只需向上下滑動就能閱讀，不需翻頁，是一種專為[電腦及](../Page/電腦.md "wikilink")[行動裝置而設的漫畫](../Page/行動裝置.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
+**Webtoon**（）是一種始創於[韓國的新概念](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡漫畫](https://zh.wikipedia.org/wiki/網絡漫畫 "wikilink")，由「**Web**（網絡）」及「Car**toon**（漫畫、卡通）」組成，只需向上下滑動就能閱讀，不需翻頁，是一種專為[電腦及](https://zh.wikipedia.org/wiki/電腦 "wikilink")[行動裝置而設的漫畫](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
 
-[Daum於](../Page/Daum.md "wikilink")2003年創立Daum
+[Daum於](https://zh.wikipedia.org/wiki/Daum "wikilink")2003年創立Daum
 Webtoon平台，隨後[NAVER也於](../Page/NAVER.md "wikilink")2004年創立Naver
 Webtoon平台。\[9\]，Daum已發佈434部Webtoon，而NAVER已發佈520部Webtoon及推出[LINE
 Webtoon](../Page/LINE_Webtoon.md "wikilink")。\[10\]Daum Webtoon及NAVER
 Webtoon均按照既定的時間表持續地發佈，讓讀者每天都能免費閱讀最新及各式各樣的Webtoon。
 
-其中一些最受歡迎的Webtoon為、、[大貴族](../Page/大貴族.md "wikilink")、[狂野少女](../Page/狂野少女.md "wikilink")、、[橘皮馬末蘭果醬](../Page/橘皮馬末蘭果醬_\(漫畫\).md "wikilink")、[觸不可及及](../Page/觸不可及_\(漫畫\).md "wikilink")[蛋男情緣等等](../Page/蛋男情緣_\(漫畫\).md "wikilink")。
+其中一些最受歡迎的Webtoon為、、[大貴族](../Page/大貴族.md "wikilink")、[狂野少女](../Page/狂野少女.md "wikilink")、、[橘皮馬末蘭果醬](../Page/橘皮馬末蘭果醬_\(漫畫\).md "wikilink")、[觸不可及及](../Page/觸不可及_\(漫畫\).md "wikilink")[蛋男情緣等等](https://zh.wikipedia.org/wiki/蛋男情緣_\(漫畫\) "wikilink")。
 
 ，市場份額亦增加。
 
@@ -36,7 +36,7 @@ Webtoon均按照既定的時間表持續地發佈，讓讀者每天都能免費�
 
 分發漫畫內容的另一種方法為於各種媒體中應用，例如電視劇、電視動畫、廣告及視頻等。\[18\]
 
-[一源多用](../Page/一源多用.md "wikilink")（，簡稱OSMU；另見[跨媒體製作](../Page/跨媒體製作.md "wikilink")）是一個營銷方法，其定義為讓使用者們「經由他們擁有的智能設備，自由分享及分發單個內容」。\[19\]\[20\]Webtoon不時用作OSMU的媒介。\[21\]
+[一源多用](https://zh.wikipedia.org/wiki/一源多用 "wikilink")（，簡稱OSMU；另見[跨媒體製作](../Page/跨媒體製作.md "wikilink")）是一個營銷方法，其定義為讓使用者們「經由他們擁有的智能設備，自由分享及分發單個內容」。\[19\]\[20\]Webtoon不時用作OSMU的媒介。\[21\]
 
 OSMU的例子：
 
@@ -50,15 +50,15 @@ OSMU的例子：
 <tbody>
 <tr class="odd">
 <td><p>電影</p></td>
-<td><p>（）、（姜草）、<a href="../Page/愛你_(韓國電視劇).md" title="wikilink">愛你</a>（姜草）、（姜草）、（고영훈）、<a href="../Page/青苔：死亡異域.md" title="wikilink">青苔：死亡異域</a>（<a href="../Page/尹胎鎬.md" title="wikilink">尹胎鎬</a>）、（<a href="../Page/朱浩民.md" title="wikilink">朱浩民</a>）、<a href="../Page/偉大的隱藏者.md" title="wikilink">偉大的隱藏者</a>（HUN）、<a href="../Page/鄰居_(電影).md" title="wikilink">鄰居</a>（姜草）、（）、（Han）</p></td>
+<td><p>（）、（姜草）、<a href="../Page/愛你_(韓國電視劇).md" title="wikilink">愛你</a>（姜草）、（姜草）、（고영훈）、<a href="../Page/青苔：死亡異域.md" title="wikilink">青苔：死亡異域</a>（<a href="../Page/尹胎鎬.md" title="wikilink">尹胎鎬</a>）、（<a href="https://zh.wikipedia.org/wiki/朱浩民" title="wikilink">朱浩民</a>）、<a href="../Page/偉大的隱藏者.md" title="wikilink">偉大的隱藏者</a>（HUN）、<a href="../Page/鄰居_(電影).md" title="wikilink">鄰居</a>（姜草）、（）、（Han）</p></td>
 </tr>
 <tr class="even">
 <td><p>電視劇</p></td>
-<td><p><a href="../Page/瑪莉外宿中.md" title="wikilink">瑪莉外宿中</a>（<a href="../Page/元秀蓮.md" title="wikilink">元秀蓮</a>）、（Jepigaru）、（）、（純kki）、<a href="../Page/未生.md" title="wikilink">未生</a>（<a href="../Page/尹胎鎬.md" title="wikilink">尹胎鎬</a>）、<a href="../Page/橘皮馬末蘭果醬_(電視劇).md" title="wikilink">橘皮馬末蘭果醬</a>（）</p></td>
+<td><p><a href="../Page/瑪莉外宿中.md" title="wikilink">瑪莉外宿中</a>（<a href="https://zh.wikipedia.org/wiki/元秀蓮" title="wikilink">元秀蓮</a>）、（Jepigaru）、（）、（純kki）、<a href="../Page/未生.md" title="wikilink">未生</a>（<a href="../Page/尹胎鎬.md" title="wikilink">尹胎鎬</a>）、<a href="../Page/橘皮馬末蘭果醬_(電視劇).md" title="wikilink">橘皮馬末蘭果醬</a>（）</p></td>
 </tr>
 <tr class="odd">
 <td><p>遊戲</p></td>
-<td><p><a href="../Page/仙境传说.md" title="wikilink">仙境传说</a>（<a href="../Page/李命進.md" title="wikilink">李命進</a>）、（）</p></td>
+<td><p><a href="../Page/仙境传说.md" title="wikilink">仙境传说</a>（<a href="https://zh.wikipedia.org/wiki/李命進" title="wikilink">李命進</a>）、（）</p></td>
 </tr>
 <tr class="even">
 <td><p>動畫</p></td>
@@ -75,7 +75,7 @@ OSMU的例子：
 </tbody>
 </table>
 
-韩国著名[搜索引擎NAVER於](../Page/搜索引擎.md "wikilink")2004年推出LINE
+韩国著名[搜索引擎NAVER於](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")2004年推出LINE
 Webtoon服務，現時擁有韓國最大的Webtoon市場。根據NAVER官方統計，韓國每天有620萬人使用LINE
 Webtoon服務，振興了韓國漫畫業。這已成為一個新的文化現象，不少NAVER
 Webtoon都被改編成電影、電視劇及推出文具等各種商品。2014年前，Webtoon只有韓文版本，少量Webtoon被愛好者翻譯成中文及英文，但由於並非官方翻譯，翻譯質素良莠不齊。由於Webtoon在海外也開始有名氣，2014年7月，NAVER挑選了42部熱門Webtoon（其中包括大貴族、高校之神及神之塔），由其附屬公司[LINE翻譯成中文及英文](../Page/LINE_\(公司\).md "wikilink")，並於LINE
@@ -101,7 +101,7 @@ Webtoon服務的市場拓展至全球，令各國都出現訂閱者，Webtoon已
 ### 海外
 
   - [LINE Webtoon](../Page/LINE_Webtoon.md "wikilink")（世界）
-  - [Comico](../Page/Comico.md "wikilink")（[日本](../Page/日本.md "wikilink")、[中國及港澳台](../Page/中國.md "wikilink")）
+  - [Comico](https://zh.wikipedia.org/wiki/Comico "wikilink")（[日本](../Page/日本.md "wikilink")、[中國及港澳台](../Page/中國.md "wikilink")）
 
 ### 韓國
 
@@ -117,9 +117,9 @@ Webtoon服務的市場拓展至全球，令各國都出現訂閱者，Webtoon已
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Naver_webtoon.md" title="wikilink">Naver webtoon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naver_webtoon" title="wikilink">Naver webtoon</a></p></td>
 <td><p><a href="http://comic.naver.com/index.nhn">http://comic.naver.com/index.nhn</a></p></td>
-<td><p><a href="../Page/NAVER_(公司).md" title="wikilink">NAVER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NAVER_(公司)" title="wikilink">NAVER</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/LINE_Webtoon.md" title="wikilink">LINE Webtoon</a></p></td>
@@ -129,7 +129,7 @@ Webtoon服務的市場拓展至全球，令各國都出現訂閱者，Webtoon已
 <tr class="odd">
 <td><p>Daum Webtoon</p></td>
 <td><p><a href="http://webtoon.daum.net/">http://webtoon.daum.net/</a></p></td>
-<td><p><a href="../Page/Daum.md" title="wikilink">Daum</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Daum" title="wikilink">Daum</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Nate Webtoon</p></td>

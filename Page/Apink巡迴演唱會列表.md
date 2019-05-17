@@ -1,14 +1,14 @@
-此頁面為[韓國](../Page/韓國.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")**[Apink](../Page/Apink.md "wikilink")**的巡迴演唱會列表，包括組合演唱會、見面會及大型公演。
+此頁面為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")**[Apink](../Page/Apink.md "wikilink")**的巡迴演唱會列表，包括組合演唱會、見面會及大型公演。
 
 ## 演唱會
 
 ### Apink首場韓國演唱會暨首場亞洲巡迴演唱會《PINK PARADISE》
 
-| 日期            | 舉行地點                                                         |
-| ------------- | ------------------------------------------------------------ |
-| 2015年1月30、31日 | 韓國首爾－[奧林匹克公園奧林匹克館](../Page/奧林匹克公園_\(首爾\).md "wikilink")\[1\] |
-| 2015年3月22日    | 新加坡－The MAX Pavilion\[2\]                                    |
-| 2015年5月30日    | 中國上海－[上海體育館](../Page/上海體育館.md "wikilink")\[3\]               |
+| 日期            | 舉行地點                                                              |
+| ------------- | ----------------------------------------------------------------- |
+| 2015年1月30、31日 | 韓國首爾－[奧林匹克公園奧林匹克館](../Page/奧林匹克公園_\(首爾\).md "wikilink")\[1\]      |
+| 2015年3月22日    | 新加坡－The MAX Pavilion\[2\]                                         |
+| 2015年5月30日    | 中國上海－[上海體育館](https://zh.wikipedia.org/wiki/上海體育館 "wikilink")\[3\] |
 
 ### Apink第二場韓國演唱會《PINK ISLAND》
 
@@ -21,10 +21,10 @@
 | 日期             | 舉行地點                                                                                                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2015年9月3日      | 日本名古屋－[名古屋國際會議場世紀廳](../Page/名古屋國際會議場.md "wikilink")<ref name="Japan_1st_live_tour">{{cite web | url=<http://ameblo.jp/apink-japan/entry-12025824388.html> | title=Apink待望の1st LIVE TOUR 日本ライブ開催決定 |
-| 2015年9月5日      | 日本福岡－[福岡太陽宮酒店及大廳](../Page/福岡太陽宮.md "wikilink")                                                                                                                                                    |
+| 2015年9月5日      | 日本福岡－[福岡太陽宮酒店及大廳](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")                                                                                                                                 |
 | 2015年9月21日（兩場） | 日本大阪－                                                                                                                                                                                             |
 | 2015年10月4日     | 日本東京－[東京國際論壇大樓A館](../Page/東京國際論壇.md "wikilink")                                                                                                                                                   |
-| 2015年10月12日    | 日本東京－[MEETS PORT](../Page/MEETS_PORT.md "wikilink")[東京巨蛋城表演廳](../Page/MEETS_PORT#東京巨蛋城表演廳.md "wikilink")\[4\]                                                                                     |
+| 2015年10月12日    | 日本東京－[MEETS PORT](../Page/MEETS_PORT.md "wikilink")[東京巨蛋城表演廳](https://zh.wikipedia.org/wiki/MEETS_PORT#東京巨蛋城表演廳 "wikilink")\[4\]                                                                  |
 
 ### Apink首場北美巡迴演唱會《Pink MEMORY: Apink North American Tour 2016》
 
@@ -41,20 +41,20 @@
 
 \[6\]
 
-| 日期         | 舉行地點                                            |
-| ---------- | ----------------------------------------------- |
-| 2016年7月7日  | 日本札幌－                                           |
-| 2016年7月9日  | 日本東京－[東京國際論壇大樓A館](../Page/東京國際論壇.md "wikilink") |
-| 2016年7月10日 |                                                 |
-| 2016年7月16日 | 日本大阪－                                           |
-| 2016年7月18日 | 日本福岡－[福岡太陽宮酒店及大廳](../Page/福岡太陽宮.md "wikilink")  |
-| 2016年7月23日 | 日本名古屋－                                          |
+| 日期         | 舉行地點                                                              |
+| ---------- | ----------------------------------------------------------------- |
+| 2016年7月7日  | 日本札幌－                                                             |
+| 2016年7月9日  | 日本東京－[東京國際論壇大樓A館](../Page/東京國際論壇.md "wikilink")                   |
+| 2016年7月10日 |                                                                   |
+| 2016年7月16日 | 日本大阪－                                                             |
+| 2016年7月18日 | 日本福岡－[福岡太陽宮酒店及大廳](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink") |
+| 2016年7月23日 | 日本名古屋－                                                            |
 
 ### Apink第三場韓國演唱會《PINK PARTY: The Secret Invitation》
 
-| 日期             | 舉行地點                                      |
-| -------------- | ----------------------------------------- |
-| 2016年12月17、18日 | 韓國首爾－[獎忠體育館](../Page/獎忠體育館.md "wikilink") |
+| 日期             | 舉行地點                                                         |
+| -------------- | ------------------------------------------------------------ |
+| 2016年12月17、18日 | 韓國首爾－[獎忠體育館](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink") |
 
 ### Apink第三場日本巡迴演唱會《3years》
 
@@ -68,17 +68,17 @@
 
 ### Apink第二場亞洲巡迴演唱會《Apink 2nd Asia TOUR -PINK UP-》
 
-| 日期         | 舉行地點                                                                                                                                      |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2017年9月23日 | [香港](../Page/香港.md "wikilink")－[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Hall 3                                                            |
-| 2017年10月8日 | [台灣](../Page/台灣.md "wikilink")[台北](../Page/台北.md "wikilink")－[國立台灣大學綜合體育館](../Page/國立台灣大學.md "wikilink")                                  |
-| 2017年11月4日 | [泰國](../Page/泰國.md "wikilink")[曼谷](../Page/曼谷.md "wikilink")－[Muang Thai Gmm Live House](../Page/Muang_Thai_Gmm_Live_House.md "wikilink") |
+| 日期         | 舉行地點                                                                                                                                                                            |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017年9月23日 | [香港](../Page/香港.md "wikilink")－[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Hall 3                                                                                                  |
+| 2017年10月8日 | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")－[國立台灣大學綜合體育館](https://zh.wikipedia.org/wiki/國立台灣大學 "wikilink")               |
+| 2017年11月4日 | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")－[Muang Thai Gmm Live House](https://zh.wikipedia.org/wiki/Muang_Thai_Gmm_Live_House "wikilink") |
 
 ### Apink第四場韓國演唱會《PINK SPACE 2018》
 
-| 日期            | 舉行地點                                                       |
-| ------------- | ---------------------------------------------------------- |
-| 2018年1月12、13日 | [首爾奧林匹克公園-SK手球競技場](../Page/首爾奧林匹克公園-SK手球競技場.md "wikilink") |
+| 日期            | 舉行地點                                                                          |
+| ------------- | ----------------------------------------------------------------------------- |
+| 2018年1月12、13日 | [首爾奧林匹克公園-SK手球競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克公園-SK手球競技場 "wikilink") |
 
 ## 音樂會
 
@@ -94,9 +94,9 @@
 
 \[10\]
 
-| 日期         | 舉行地點                                       |
-| ---------- | ------------------------------------------ |
-| 2014年9月13日 | 日本大阪－[難波Hatch](../Page/湊町PA.md "wikilink") |
+| 日期         | 舉行地點                                                          |
+| ---------- | ------------------------------------------------------------- |
+| 2014年9月13日 | 日本大阪－[難波Hatch](https://zh.wikipedia.org/wiki/湊町PA "wikilink") |
 
 ### Apink首場日本巡迴公演暨首張日本單曲《NoNoNo》發行紀念公演《最初亦是最後的》
 
@@ -143,9 +143,9 @@
 
 \[17\]
 
-| 日期          | 舉行地點                                                |
-| ----------- | --------------------------------------------------- |
-| 2015年11月29日 | 韓國首爾－[高尺Sky Dome](../Page/高尺Sky_Dome.md "wikilink") |
+| 日期          | 舉行地點                                                                   |
+| ----------- | ---------------------------------------------------------------------- |
+| 2015年11月29日 | 韓國首爾－[高尺Sky Dome](https://zh.wikipedia.org/wiki/高尺Sky_Dome "wikilink") |
 
 ### 《2016 APINK PINK MEMORY DAY in SINGAPORE Mini Concert & Fan Meeting》
 
@@ -159,7 +159,7 @@
 
 | 日期        | 舉行地點                                                                       |
 | --------- | -------------------------------------------------------------------------- |
-| 2016年8月1日 | 日本福岡－[福岡太陽宮酒店及大廳](../Page/福岡太陽宮.md "wikilink")\[19\]                       |
+| 2016年8月1日 | 日本福岡－[福岡太陽宮酒店及大廳](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")\[19\]    |
 | 2016年8月2日 | 日本廣島－[BLUE LIVE HIROSHIMA](http://bluelive.jp)                             |
 | 2016年8月3日 | 日本名古屋－名古屋\[20\]                                                            |
 | 2016年8月4日 | 日本大阪－地下2層[Herbis Hall大會堂](http://www.herbis-hall.com/hall/large-hall.html) |
@@ -210,9 +210,9 @@
 
 \[23\]\[24\]
 
-| 日期         | 舉行地點                                           |
-| ---------- | ---------------------------------------------- |
-| 2014年6月14日 | 韓國首爾－[光雲大學東海文化藝術館](../Page/光雲大學.md "wikilink") |
+| 日期         | 舉行地點                                                              |
+| ---------- | ----------------------------------------------------------------- |
+| 2014年6月14日 | 韓國首爾－[光雲大學東海文化藝術館](https://zh.wikipedia.org/wiki/光雲大學 "wikilink") |
 
 ### Apink首場日本歌迷見面會《Apink JAPAN Fanmeeting 2015 -Pink Valentine with U-》
 
@@ -226,7 +226,7 @@
 | ---------- | ------------------------ |
 | 2015年8月29日 | 泰國曼谷－ Chaengwattana Hall |
 
-### Apink《[突擊風暴](../Page/突擊風暴.md "wikilink")》歌迷見面會《和Apink一起的Pink Valentine》
+### Apink《[突擊風暴](https://zh.wikipedia.org/wiki/突擊風暴 "wikilink")》歌迷見面會《和Apink一起的Pink Valentine》
 
 \[25\]
 
@@ -276,62 +276,62 @@
 
 ## 其他大型演唱會/公演
 
-| 日期          | 演唱會名稱                                                                                                        | 舉行地點                                                                                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2011年11月20日 | 《2011日韓好朋友慈善演唱會》                                                                                             | 日本神奈川－[橫濱體育館](../Page/橫濱體育館.md "wikilink")                                                                                                           |
-| 2012年3月21日  | 《2K12 Korea Night: K-Pop Wave X Seoulsonic》\[29\]                                                            | 加拿大多倫多－[Kool Haus](https://web.archive.org/web/20150205200357/http://theguvernment.com/kool-haus/)                                                   |
-| 2012年4月25日  | 《One Asia Tour 2012 [M Countdown](../Page/M_Countdown.md "wikilink") "Hello-Japan"》                          | 日本埼玉－[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")                                                                                                        |
-| 2012年5月12日  | 《2012[夢想演唱會](../Page/夢想演唱會.md "wikilink")》                                                                   | 韓國首爾－[首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                      |
-| 2012年9月15日  | 《[MBC Korean Music Wave](../Page/MBC韓流音樂演唱會.md "wikilink") 2012》                                             | 韓國仁川－[仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                                                                                                        |
-| 2012年9月23日  | 《韓流夢想演唱會2012》\[30\]                                                                                          | 韓國慶州－                                                                                                                                                |
-| 2012年9月29日  | 《The One演唱會》                                                                                                 | 馬來西亞吉隆坡－[劉蝶廣場Boulevard](../Page/劉蝶廣場.md "wikilink") Strip                                                                                            |
-| 2012年10月4日  | 《One Asia Tour 2012 M Countdown "Smile-Thailand"》\[31\]\[32\]                                                | 泰國曼谷－[拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")                                                                                                      |
-| 2013年1月5日   | 《AIA K-POP 2013香港演唱會》                                                                                        | 中國香港－[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")                                                                                                        |
-| 2013年3月16日  | 《MBC Korean Music Wave in Bangkok 2013》                                                                      | 泰國曼谷－[蘇帕查拉賽體育場](../Page/蘇帕查拉賽體育場.md "wikilink")                                                                                                      |
-| 2013年6月30日  | 《We are Friends Concert 2013》                                                                                | 日本橫濱－[橫濱國際平和會議場](../Page/橫濱國際平和會議場.md "wikilink")                                                                                                    |
-| 2013年10月6日  | 《韓流夢想演唱會2013》\[33\]                                                                                          | 韓國慶州－慶州市民運動場                                                                                                                                         |
-| 2013年10月25日 | 《Korea Festival 2013 - Vizit Korea》                                                                          | 新加坡－                                                                                                                                                 |
-| 2014年5月5日   | 《Suprise K-POP Concert》\[34\]                                                                                | 韓國水原－[水原世界盃競技場](../Page/水原世界盃競技場.md "wikilink")                                                                                                      |
-| 2014年6月7日   | 《2014夢想演唱會》                                                                                                  | 韓國首爾－首爾世界盃競技場                                                                                                                                        |
-| 2014年8月8日   | 《SHINZU'I White Concert》\[35\]                                                                               | 印尼-{zh-hans:雅加达;zh-hant:雅加達;zh-cn:雅加达;zh-tw:雅加達;zh-hk:耶加達;zh-sg:雅加达}-－                                                                               |
-| 2014年10月1日  | 《美吉特燈都點亮申城群星演唱會》\[36\]                                                                                       | 中國上海－[上海體育場](../Page/上海體育場.md "wikilink")                                                                                                            |
-| 2014年10月12日 | 《勇敢逐夢·舞動未來－SAMSUNG公益演唱會》\[37\]                                                                               | 台灣台北－[臺北市立大學天母校區](../Page/臺北市立大學天母校區.md "wikilink")[體育館](https://web.archive.org/web/20151222161612/http://pe.utaipei.edu.tw/files/11-1028-2355.php) |
-| 2014年10月19日 | 《2014 K-Pop World Festival in Changwon》                                                                      | 韓國昌原－                                                                                                                                                |
-| 2014年10月31日 | 《2014和平演唱會》                                                                                                  | 韓國龍仁－[慶熙大學國際校區露天劇場](../Page/慶熙大學.md "wikilink")                                                                                                      |
-| 2014年11月9日  | 《樂天免稅店第19屆家族演唱會》                                                                                             | 韓國首爾－[首爾奧林匹克體操競技場](../Page/首尔奥林匹克体操竞技场.md "wikilink")                                                                                                |
-| 2014年11月15日 | 《Pepsi PEP Concert》                                                                                          |                                                                                                                                                      |
-| 2014年11月26日 | 《[第16屆中韓歌會](../Page/中韩歌会#第16屆.md "wikilink")》                                                                | 韓國首爾－[韓國放送公社總部KBS](../Page/韓國放送公社.md "wikilink") Hall                                                                                                |
-| 2015年3月28日  | 《 in Hanoi》                                                                                                  | 越南河內－[美亭國家體育場](../Page/美亭國家體育場.md "wikilink")                                                                                                        |
-| 2015年4月11日  | 《The Water Story Concert》                                                                                    | 韓國慶州－慶州市民運動場                                                                                                                                         |
-| 2015年5月2日   | 《》\[38\]                                                                                                     | 美國洛杉磯－[好萊塢露天劇場](../Page/好萊塢露天劇場.md "wikilink")                                                                                                       |
-| 2015年8月14日  | 《2015 DMZ和平演唱會：K-POP公演》                                                                                      | 韓國坡州－[臨津閣和平世界音樂之丘](../Page/臨津閣#臨津閣和平世界.md "wikilink")                                                                                                |
-| 2015年9月12日  | 《》\[39\]                                                                                                     | [馬來西亞](../Page/马来西亚.md "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")－[雙威水上樂園](http://sunwaylostworldoftambun.com)                                      |
-| 2015年9月15日  | 《2015斗山家族音樂會》                                                                                                | 韓國[昌原](../Page/昌原市.md "wikilink")－                                                                                                                   |
-| 2015年9月18日  | 《Samsung PLAY THE CHALLENGE Talk Concert in Busan》                                                           | 韓國[釜山](../Page/釜山廣域市.md "wikilink")－                                                                                                                 |
-| 2015年9月20日  | 《韓流夢想演唱會2015》                                                                                                | 韓國[慶州](../Page/慶州市.md "wikilink")－慶州市民運動場                                                                                                            |
-| 2015年11月4日  | 《G Market Concert StayG7》                                                                                    | 韓國首爾－[首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")                                                                                                        |
-| 2016年6月24日  | 《MTV Music Evolution Manila 2016》                                                                            | 菲律賓帕賽－                                                                                                                                               |
-| 2016年7月31日  | 《MBC Korean Music Wave in Fukuoka 2016》\[40\]                                                                | 日本福岡－[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")                                                                                                              |
-| 2016年10月1日  | 《-{zh-hans:2016 Busan One-Asia Festival;zh-hant:2016 Busan One-Asia Festival;zh-cn:2016釜山同一个亚洲文化节}-：開幕記念公演》  | 韓國釜山－[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                                                                    |
-| 2016年10月8日  | 《DMC Festival 2016 - MBC Korean Music Wave》                                                                  | 韓國首爾－上岩文化廣場                                                                                                                                          |
-| 2016年10月23日 | 《-{zh-hans:2016 Busan One-Asia Festival;zh-hant:2016 Busan One-Asia Festival;zh-cn:2016釜山同一个亚洲文化节}-：閉幕記念公演》  | 韓國釜山－釜山亞運會主競技場                                                                                                                                       |
-| 2016年10月22日 | 《幸福教育－KBS青少年音樂會》                                                                                             | 韓國高陽－第2展示場戶外特設舞台                                                                                                                                     |
-| 2016年11月30日 | 《MBN Hero Concert》                                                                                           | 韓國首爾－首爾綜合運動場蠶室室內體育館                                                                                                                                  |
-| 2016年12月8日  | 《Bugs Special Live: Thank You 2016》                                                                          | 韓國首爾－                                                                                                                                                |
-| 2017年4月9日   | 《kt wiz Citizen Supporters Festival 2017: SUPER SUNDAY SUPER CONCERT》                                        | 韓國水原－                                                                                                                                                |
-| 2017年4月29日  | 《The 15th Korea Times Music Festival》                                                                        | 美國洛杉磯－[好萊塢露天劇場](../Page/好萊塢露天劇場.md "wikilink")                                                                                                       |
-| 2017年5月20日  | 《[KCON 2017 JAPAN X M COUNTDOWN CONCERT](../Page/M_Countdown特別活動#KCON_2017_Japan.md "wikilink")》\[41\]\[42\] | 日本千葉－[幕張展覽館國際展示場Hall](../Page/幕張展覽館.md "wikilink") 9                                                                                                 |
-| 2017年8月5日   | 《K-Wave Music Festival》                                                                                      | 馬來西亞                                                                                                                                                 |
-| 2017年8月12日  | 《KContent EXPO》                                                                                              | 波蘭                                                                                                                                                   |
-| 2017年9月11日  | 《樂天免稅店家族音樂會》                                                                                                 | 韓國首爾 - 蠶室綜合運動場奧林匹克主競技場                                                                                                                               |
-| 2017年10月1日  | 《Korea Music Festival》                                                                                       | 韓國首爾 - 高尺巨蛋                                                                                                                                          |
-| 2017年10月15日 | 《2017大邱瘋狂K-Pop音樂節》                                                                                           | 韓國大邱體育場                                                                                                                                              |
-| 2017年10月22日 | 《2017 釜山 One Asia Festival》                                                                                  | 韓國釜山亞運會主體育場                                                                                                                                          |
-| 2018年1月25日  | 《2018 平昌冬季奧運 聖火傳遞 祝賀公演》                                                                                      | 韓國江原道麟蹄郡                                                                                                                                             |
-| 2018年3月26日  | 《Korea-UAE 文化交換日 - 阿聯酋文化交流活動》                                                                                | 阿拉伯聯合大公國阿布達比酋長國 - 阿布達比                                                                                                                               |
-| 2018年4月14日  | 《2018一起走吧仁川Festa》                                                                                            | 韓國仁川松島月光慶典公園                                                                                                                                         |
-| 2018年4月26日  | 《第64屆 京畿道運動會 開幕式》                                                                                            | 韓國[楊平楊平綜合運動場](../Page/楊平郡.md "wikilink")                                                                                                             |
-| 2018年9月7日   | 《HallyuPopFest 2018》                                                                                         | [新加坡室內體育館](../Page/新加坡室內體育館.md "wikilink")                                                                                                           |
+| 日期          | 演唱會名稱                                                                                                                           | 舉行地點                                                                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2011年11月20日 | 《2011日韓好朋友慈善演唱會》                                                                                                                | 日本神奈川－[橫濱體育館](../Page/橫濱體育館.md "wikilink")                                                                                                           |
+| 2012年3月21日  | 《2K12 Korea Night: K-Pop Wave X Seoulsonic》\[29\]                                                                               | 加拿大多倫多－[Kool Haus](https://web.archive.org/web/20150205200357/http://theguvernment.com/kool-haus/)                                                   |
+| 2012年4月25日  | 《One Asia Tour 2012 [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") "Hello-Japan"》                          | 日本埼玉－[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")                                                                                                        |
+| 2012年5月12日  | 《2012[夢想演唱會](../Page/夢想演唱會.md "wikilink")》                                                                                      | 韓國首爾－[首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                      |
+| 2012年9月15日  | 《[MBC Korean Music Wave](../Page/MBC韓流音樂演唱會.md "wikilink") 2012》                                                                | 韓國仁川－[仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                                                                                                        |
+| 2012年9月23日  | 《韓流夢想演唱會2012》\[30\]                                                                                                             | 韓國慶州－                                                                                                                                                |
+| 2012年9月29日  | 《The One演唱會》                                                                                                                    | 馬來西亞吉隆坡－[劉蝶廣場Boulevard](../Page/劉蝶廣場.md "wikilink") Strip                                                                                            |
+| 2012年10月4日  | 《One Asia Tour 2012 M Countdown "Smile-Thailand"》\[31\]\[32\]                                                                   | 泰國曼谷－[拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")                                                                                                      |
+| 2013年1月5日   | 《AIA K-POP 2013香港演唱會》                                                                                                           | 中國香港－[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")                                                                                                        |
+| 2013年3月16日  | 《MBC Korean Music Wave in Bangkok 2013》                                                                                         | 泰國曼谷－[蘇帕查拉賽體育場](../Page/蘇帕查拉賽體育場.md "wikilink")                                                                                                      |
+| 2013年6月30日  | 《We are Friends Concert 2013》                                                                                                   | 日本橫濱－[橫濱國際平和會議場](../Page/橫濱國際平和會議場.md "wikilink")                                                                                                    |
+| 2013年10月6日  | 《韓流夢想演唱會2013》\[33\]                                                                                                             | 韓國慶州－慶州市民運動場                                                                                                                                         |
+| 2013年10月25日 | 《Korea Festival 2013 - Vizit Korea》                                                                                             | 新加坡－                                                                                                                                                 |
+| 2014年5月5日   | 《Suprise K-POP Concert》\[34\]                                                                                                   | 韓國水原－[水原世界盃競技場](../Page/水原世界盃競技場.md "wikilink")                                                                                                      |
+| 2014年6月7日   | 《2014夢想演唱會》                                                                                                                     | 韓國首爾－首爾世界盃競技場                                                                                                                                        |
+| 2014年8月8日   | 《SHINZU'I White Concert》\[35\]                                                                                                  | 印尼-{zh-hans:雅加达;zh-hant:雅加達;zh-cn:雅加达;zh-tw:雅加達;zh-hk:耶加達;zh-sg:雅加达}-－                                                                               |
+| 2014年10月1日  | 《美吉特燈都點亮申城群星演唱會》\[36\]                                                                                                          | 中國上海－[上海體育場](../Page/上海體育場.md "wikilink")                                                                                                            |
+| 2014年10月12日 | 《勇敢逐夢·舞動未來－SAMSUNG公益演唱會》\[37\]                                                                                                  | 台灣台北－[臺北市立大學天母校區](../Page/臺北市立大學天母校區.md "wikilink")[體育館](https://web.archive.org/web/20151222161612/http://pe.utaipei.edu.tw/files/11-1028-2355.php) |
+| 2014年10月19日 | 《2014 K-Pop World Festival in Changwon》                                                                                         | 韓國昌原－                                                                                                                                                |
+| 2014年10月31日 | 《2014和平演唱會》                                                                                                                     | 韓國龍仁－[慶熙大學國際校區露天劇場](../Page/慶熙大學.md "wikilink")                                                                                                      |
+| 2014年11月9日  | 《樂天免稅店第19屆家族演唱會》                                                                                                                | 韓國首爾－[首爾奧林匹克體操競技場](../Page/首尔奥林匹克体操竞技场.md "wikilink")                                                                                                |
+| 2014年11月15日 | 《Pepsi PEP Concert》                                                                                                             |                                                                                                                                                      |
+| 2014年11月26日 | 《[第16屆中韓歌會](https://zh.wikipedia.org/wiki/中韩歌会#第16屆 "wikilink")》                                                                | 韓國首爾－[韓國放送公社總部KBS](../Page/韓國放送公社.md "wikilink") Hall                                                                                                |
+| 2015年3月28日  | 《 in Hanoi》                                                                                                                     | 越南河內－[美亭國家體育場](https://zh.wikipedia.org/wiki/美亭國家體育場 "wikilink")                                                                                     |
+| 2015年4月11日  | 《The Water Story Concert》                                                                                                       | 韓國慶州－慶州市民運動場                                                                                                                                         |
+| 2015年5月2日   | 《》\[38\]                                                                                                                        | 美國洛杉磯－[好萊塢露天劇場](../Page/好萊塢露天劇場.md "wikilink")                                                                                                       |
+| 2015年8月14日  | 《2015 DMZ和平演唱會：K-POP公演》                                                                                                         | 韓國坡州－[臨津閣和平世界音樂之丘](https://zh.wikipedia.org/wiki/臨津閣#臨津閣和平世界 "wikilink")                                                                             |
+| 2015年9月12日  | 《》\[39\]                                                                                                                        | [馬來西亞](../Page/马来西亚.md "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")－[雙威水上樂園](http://sunwaylostworldoftambun.com)                                      |
+| 2015年9月15日  | 《2015斗山家族音樂會》                                                                                                                   | 韓國[昌原](../Page/昌原市.md "wikilink")－                                                                                                                   |
+| 2015年9月18日  | 《Samsung PLAY THE CHALLENGE Talk Concert in Busan》                                                                              | 韓國[釜山](../Page/釜山廣域市.md "wikilink")－                                                                                                                 |
+| 2015年9月20日  | 《韓流夢想演唱會2015》                                                                                                                   | 韓國[慶州](../Page/慶州市.md "wikilink")－慶州市民運動場                                                                                                            |
+| 2015年11月4日  | 《G Market Concert StayG7》                                                                                                       | 韓國首爾－[首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")                                                                                                        |
+| 2016年6月24日  | 《MTV Music Evolution Manila 2016》                                                                                               | 菲律賓帕賽－                                                                                                                                               |
+| 2016年7月31日  | 《MBC Korean Music Wave in Fukuoka 2016》\[40\]                                                                                   | 日本福岡－[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")                                                                                                              |
+| 2016年10月1日  | 《-{zh-hans:2016 Busan One-Asia Festival;zh-hant:2016 Busan One-Asia Festival;zh-cn:2016釜山同一个亚洲文化节}-：開幕記念公演》                     | 韓國釜山－[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                                                                    |
+| 2016年10月8日  | 《DMC Festival 2016 - MBC Korean Music Wave》                                                                                     | 韓國首爾－上岩文化廣場                                                                                                                                          |
+| 2016年10月23日 | 《-{zh-hans:2016 Busan One-Asia Festival;zh-hant:2016 Busan One-Asia Festival;zh-cn:2016釜山同一个亚洲文化节}-：閉幕記念公演》                     | 韓國釜山－釜山亞運會主競技場                                                                                                                                       |
+| 2016年10月22日 | 《幸福教育－KBS青少年音樂會》                                                                                                                | 韓國高陽－第2展示場戶外特設舞台                                                                                                                                     |
+| 2016年11月30日 | 《MBN Hero Concert》                                                                                                              | 韓國首爾－首爾綜合運動場蠶室室內體育館                                                                                                                                  |
+| 2016年12月8日  | 《Bugs Special Live: Thank You 2016》                                                                                             | 韓國首爾－                                                                                                                                                |
+| 2017年4月9日   | 《kt wiz Citizen Supporters Festival 2017: SUPER SUNDAY SUPER CONCERT》                                                           | 韓國水原－                                                                                                                                                |
+| 2017年4月29日  | 《The 15th Korea Times Music Festival》                                                                                           | 美國洛杉磯－[好萊塢露天劇場](../Page/好萊塢露天劇場.md "wikilink")                                                                                                       |
+| 2017年5月20日  | 《[KCON 2017 JAPAN X M COUNTDOWN CONCERT](https://zh.wikipedia.org/wiki/M_Countdown特別活動#KCON_2017_Japan "wikilink")》\[41\]\[42\] | 日本千葉－[幕張展覽館國際展示場Hall](../Page/幕張展覽館.md "wikilink") 9                                                                                                 |
+| 2017年8月5日   | 《K-Wave Music Festival》                                                                                                         | 馬來西亞                                                                                                                                                 |
+| 2017年8月12日  | 《KContent EXPO》                                                                                                                 | 波蘭                                                                                                                                                   |
+| 2017年9月11日  | 《樂天免稅店家族音樂會》                                                                                                                    | 韓國首爾 - 蠶室綜合運動場奧林匹克主競技場                                                                                                                               |
+| 2017年10月1日  | 《Korea Music Festival》                                                                                                          | 韓國首爾 - 高尺巨蛋                                                                                                                                          |
+| 2017年10月15日 | 《2017大邱瘋狂K-Pop音樂節》                                                                                                              | 韓國大邱體育場                                                                                                                                              |
+| 2017年10月22日 | 《2017 釜山 One Asia Festival》                                                                                                     | 韓國釜山亞運會主體育場                                                                                                                                          |
+| 2018年1月25日  | 《2018 平昌冬季奧運 聖火傳遞 祝賀公演》                                                                                                         | 韓國江原道麟蹄郡                                                                                                                                             |
+| 2018年3月26日  | 《Korea-UAE 文化交換日 - 阿聯酋文化交流活動》                                                                                                   | 阿拉伯聯合大公國阿布達比酋長國 - 阿布達比                                                                                                                               |
+| 2018年4月14日  | 《2018一起走吧仁川Festa》                                                                                                               | 韓國仁川松島月光慶典公園                                                                                                                                         |
+| 2018年4月26日  | 《第64屆 京畿道運動會 開幕式》                                                                                                               | 韓國[楊平楊平綜合運動場](../Page/楊平郡.md "wikilink")                                                                                                             |
+| 2018年9月7日   | 《HallyuPopFest 2018》                                                                                                            | [新加坡室內體育館](https://zh.wikipedia.org/wiki/新加坡室內體育館 "wikilink")                                                                                        |
 
 ## 備註
 

@@ -1,5 +1,5 @@
 《**Cat and
-Mouse**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第七張錄音室專輯和第七個音樂作品](../Page/BY2.md "wikilink")\[1\]，已於2015年8月7日正式發行\[2\]。
+Mouse**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第七張錄音室專輯和第七個音樂作品](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]，已於2015年8月7日正式發行\[2\]。
 
 ## 曲目
 
@@ -52,7 +52,7 @@ Yumi<br />
 <tr class="odd">
 <td><p>04</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=vEe1_2ieou4">溫柔最痛</a></p></td>
-<td><p><a href="../Page/姚若龍.md" title="wikilink">姚若龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚若龍" title="wikilink">姚若龍</a></p></td>
 <td><p>周周</p></td>
 <td></td>
 </tr>
@@ -79,7 +79,7 @@ Yumi<br />
 Daniel Gruter<br />
 Erik Håkansson<br />
 M.Ymell.</p></td>
-<td><p><a href="../Page/網路遊戲.md" title="wikilink">網路遊戲</a>《<a href="../Page/戰龍兵團.md" title="wikilink">戰龍兵團</a>》<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/網路遊戲" title="wikilink">網路遊戲</a>《<a href="https://zh.wikipedia.org/wiki/戰龍兵團" title="wikilink">戰龍兵團</a>》<br />
 主題曲[3]</p></td>
 </tr>
 <tr class="odd">
@@ -98,7 +98,7 @@ Yumi</p></td>
 <td><p>郭德紫毅<br />
 韓佳霖</p></td>
 <td><p>艾麗雅</p></td>
-<td><p><a href="../Page/電視劇.md" title="wikilink">電視劇</a>《<a href="../Page/愛情回來了.md" title="wikilink">愛情回來了</a>》<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/電視劇" title="wikilink">電視劇</a>《<a href="https://zh.wikipedia.org/wiki/愛情回來了" title="wikilink">愛情回來了</a>》<br />
 插曲[4]</p></td>
 </tr>
 </tbody>
@@ -110,13 +110,13 @@ Yumi</p></td>
 
 ## 音樂錄影帶
 
-| 歌名                                                           | 導演                               |
-| ------------------------------------------------------------ | -------------------------------- |
-| [CAT and MOUSE](https://www.youtube.com/watch?v=l5V7Blmpd2A) | [黃中平](../Page/黃中平.md "wikilink") |
-| [當時的我們](https://www.youtube.com/watch?v=VxK5S5NOAjc)         | [黃中平](../Page/黃中平.md "wikilink") |
-| [愛我就大聲說](https://www.youtube.com/watch?v=xJoS6yHWNiM)        | [黃子然](../Page/黃子然.md "wikilink") |
-| [溫柔最痛](https://www.youtube.com/watch?v=vEe1_2ieou4)          | 黃子然                              |
-| [你沒愛過我](https://www.youtube.com/watch?v=6v_Y0JOIHbQ)         | [黃中平](../Page/黃中平.md "wikilink") |
+| 歌名                                                           | 導演                                                  |
+| ------------------------------------------------------------ | --------------------------------------------------- |
+| [CAT and MOUSE](https://www.youtube.com/watch?v=l5V7Blmpd2A) | [黃中平](../Page/黃中平.md "wikilink")                    |
+| [當時的我們](https://www.youtube.com/watch?v=VxK5S5NOAjc)         | [黃中平](../Page/黃中平.md "wikilink")                    |
+| [愛我就大聲說](https://www.youtube.com/watch?v=xJoS6yHWNiM)        | [黃子然](https://zh.wikipedia.org/wiki/黃子然 "wikilink") |
+| [溫柔最痛](https://www.youtube.com/watch?v=vEe1_2ieou4)          | 黃子然                                                 |
+| [你沒愛過我](https://www.youtube.com/watch?v=6v_Y0JOIHbQ)         | [黃中平](../Page/黃中平.md "wikilink")                    |
 
 ## 參考文獻
 
@@ -127,7 +127,7 @@ Yumi</p></td>
 |width=14.2% align=center|**第二張專輯
 [Twins](../Page/Twins_\(專輯\).md "wikilink")**
 |width=14.2% align=center|**第三張專輯
-[成人禮](../Page/成人禮_\(By2專輯\).md "wikilink")**
+[成人禮](https://zh.wikipedia.org/wiki/成人禮_\(By2專輯\) "wikilink")**
 |width=14.2% align=center|**第四張專輯
 [90'鬧Now](../Page/90'鬧Now.md "wikilink")**
 |width=14.2% align=center|**第五個作品

@@ -1,5 +1,5 @@
 《**Lanota**》是由台灣諾西遊戲（Noxy Games）開發的一款[音樂遊戲](../Page/音樂遊戲.md "wikilink")
-。遊戲的[iOS版本於](../Page/iOS.md "wikilink")2016年7月13日在全球的[App
+。遊戲的[iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2016年7月13日在全球的[App
 Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[1\]\[2\]\[3\]
 
 Lanota的遊戲進行方式以音樂遊戲為主，並含有故事劇情、地圖探索與道具收集等要素。遊戲中主要以繪本敘述故事劇情，分為主線與支線各數個章節，各章節以地圖方式進行並有數個關卡，每個關卡包含一首歌曲；在初次進入章節與每首歌曲初次遊玩結束時，會播放繪本將劇情推進。

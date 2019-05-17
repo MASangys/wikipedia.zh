@@ -13,15 +13,15 @@ Statista提供统计和调查數據與資料，結合条形图和表格來反應
 自2011年年底，该网站有一个獨家服务，提供每日最新的信息图表和市場圖表給媒体和技术領域使用。这些图表由多個媒體和网站使用，例如New York
 Times, Wall Street Journal,
 [Mashable](../Page/Mashable.md "wikilink")\[2\]，[Business
-Insider](../Page/Business_Insider.md "wikilink")\[3\],
+Insider](https://zh.wikipedia.org/wiki/Business_Insider "wikilink")\[3\],
 VentureBeat\[4\]等。
 
 ## 历史
 
 据公司资料，Statista由两名來自德國的企业家和大學教授于2007年成立，现有约500位统计专家和數據專家在其德国总部。进一步的办事处设在纽约、伦敦、馬德里、巴黎。除了歐洲，大洋洲和北美洲市場，目前也進一步扩展到了亞洲。网站Statista.com（以前Statista.org）自2008年5月以来，合作伙伴和门户包括
 Nielson、 Scarborough、 IPSO、 Mackenzie、 Deloitte, Ernst & Young、
-[德国经济研究所](../Page/德国经济研究所.md "wikilink")、[阿伦斯巴赫研究所的Einzelhandelsintitut](../Page/阿伦斯巴赫研究所.md "wikilink")
-EHI、商业信息服务，以及商業出版集团和[道琼斯出版集团等](../Page/道琼斯.md "wikilink")。\[5\]
+[德国经济研究所](https://zh.wikipedia.org/wiki/德国经济研究所 "wikilink")、[阿伦斯巴赫研究所的Einzelhandelsintitut](https://zh.wikipedia.org/wiki/阿伦斯巴赫研究所 "wikilink")
+EHI、商业信息服务，以及商業出版集团和[道琼斯出版集团等](https://zh.wikipedia.org/wiki/道琼斯 "wikilink")。\[5\]
 在德國Statista連續9年被选为德国最佳線上數據庫，\[6\]并赢得了德国金融时报最佳數據庫稱號。2010年公司被德國“創意國家”組織評為最佳學術資料庫，并获得欧洲红鲱鱼奖。2014年，[图书馆杂志还授予Statista为最佳统计數據門戶](../Page/图书馆杂志.md "wikilink")。\[7\]该公司的增长在过去几年中一直遠高於所有其他同業競爭者。2016年，Statista已经服务超过100万的注册用户，并每月约有800万网站訪問量。\[8\]
 
 ## 參考資料

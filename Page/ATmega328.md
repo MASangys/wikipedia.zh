@@ -8,21 +8,21 @@ MIPS\[1\]。
 
 ## 關鍵參數
 
-| Parameter                                                 | Value                                                                                                                                                                                         |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CPU type                                                  | 8-bit AVR                                                                                                                                                                                     |
-| Performance                                               | 20 [MIPS](../Page/Instructions_per_second.md "wikilink") at 20 MHz<ref name=m8271ds>{{cite web                                                                                                |
-| [Flash memory](../Page/Flash_memory.md "wikilink")        | 32 kB                                                                                                                                                                                         |
-| [SRAM](../Page/Static_random-access_memory.md "wikilink") | 2 kB                                                                                                                                                                                          |
-| [EEPROM](../Page/EEPROM.md "wikilink")                    | 1 kB                                                                                                                                                                                          |
-| Pin count                                                 | 28-pin [PDIP](../Page/Dual_in-line_package.md "wikilink"), [MLF](../Page/Quad_Flat_No-leads_package#Variants.md "wikilink"), 32-pin [TQFP](../Page/Quad_Flat_Package.md "wikilink"), MLF\[2\] |
-| Maximum operating frequency                               | 20 MHz                                                                                                                                                                                        |
-| Number of touch channels                                  | 16                                                                                                                                                                                            |
-| Hardware QTouch Acquisition                               | No                                                                                                                                                                                            |
-| Maximum I/O pins                                          | 26                                                                                                                                                                                            |
-| External interrupts                                       | 24                                                                                                                                                                                            |
-| [USB](../Page/USB.md "wikilink") Interface                | No                                                                                                                                                                                            |
-| USB Speed                                                 | No                                                                                                                                                                                            |
+| Parameter                                                                    | Value                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CPU type                                                                     | 8-bit AVR                                                                                                                                                                                                                                              |
+| Performance                                                                  | 20 [MIPS](https://zh.wikipedia.org/wiki/Instructions_per_second "wikilink") at 20 MHz<ref name=m8271ds>{{cite web                                                                                                                                      |
+| [Flash memory](https://zh.wikipedia.org/wiki/Flash_memory "wikilink")        | 32 kB                                                                                                                                                                                                                                                  |
+| [SRAM](https://zh.wikipedia.org/wiki/Static_random-access_memory "wikilink") | 2 kB                                                                                                                                                                                                                                                   |
+| [EEPROM](https://zh.wikipedia.org/wiki/EEPROM "wikilink")                    | 1 kB                                                                                                                                                                                                                                                   |
+| Pin count                                                                    | 28-pin [PDIP](https://zh.wikipedia.org/wiki/Dual_in-line_package "wikilink"), [MLF](https://zh.wikipedia.org/wiki/Quad_Flat_No-leads_package#Variants "wikilink"), 32-pin [TQFP](https://zh.wikipedia.org/wiki/Quad_Flat_Package "wikilink"), MLF\[2\] |
+| Maximum operating frequency                                                  | 20 MHz                                                                                                                                                                                                                                                 |
+| Number of touch channels                                                     | 16                                                                                                                                                                                                                                                     |
+| Hardware QTouch Acquisition                                                  | No                                                                                                                                                                                                                                                     |
+| Maximum I/O pins                                                             | 26                                                                                                                                                                                                                                                     |
+| External interrupts                                                          | 24                                                                                                                                                                                                                                                     |
+| [USB](../Page/USB.md "wikilink") Interface                                   | No                                                                                                                                                                                                                                                     |
+| USB Speed                                                                    | No                                                                                                                                                                                                                                                     |
 
 ## 系列方案
 
@@ -77,8 +77,8 @@ edge)時，資料則是從單晶片送出。VCC送電之前先把RESET腳與SCK�
 
 ## 參見
 
-  - [ATmega88](../Page/ATmega88.md "wikilink")
-  - [ATmega168](../Page/ATmega168.md "wikilink")
+  - [ATmega88](https://zh.wikipedia.org/wiki/ATmega88 "wikilink")
+  - [ATmega168](https://zh.wikipedia.org/wiki/ATmega168 "wikilink")
 
 ## 注釋
 

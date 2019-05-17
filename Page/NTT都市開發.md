@@ -14,11 +14,11 @@
       - 東海支店 -
         [愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中區](../Page/中區_\(名古屋市\).md "wikilink")
       - 關西支店 -
-        [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西區](../Page/西區_\(大阪市\).md "wikilink")
+        [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西區](../Page/西區_\(大阪市\).md "wikilink")
       - 中國支店 -
         [廣島縣](../Page/廣島縣.md "wikilink")[廣島市](../Page/廣島市.md "wikilink")[中區](../Page/中區_\(廣島市\).md "wikilink")
       - 九州支店 -
-        [福岡縣](../Page/福岡縣.md "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央區](../Page/中央區_\(福岡市\).md "wikilink")
+        [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央區](../Page/中央區_\(福岡市\).md "wikilink")
       - 北海道支店 -
         [北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[中央區](../Page/中央區_\(札幌市\).md "wikilink")
 
@@ -45,7 +45,7 @@
 
   - UD日比谷大廈（東京都千代田區）
 
-  - 大手町一丁目地區第一種市街地再開發事業（[日經大廈](../Page/日本經濟新聞社.md "wikilink")、[JA大廈](../Page/JA大廈.md "wikilink")、）（東京都千代田區）
+  - 大手町一丁目地區第一種市街地再開發事業（[日經大廈](https://zh.wikipedia.org/wiki/日本經濟新聞社 "wikilink")、[JA大廈](https://zh.wikipedia.org/wiki/JA大廈 "wikilink")、）（東京都千代田區）
 
   - N館（東京都港區）
 
@@ -61,7 +61,7 @@
 
   - （[仙台市](../Page/仙台市.md "wikilink")[青葉區](../Page/青葉區_\(仙台市\).md "wikilink")）
 
-  - URBANNET卸町大樓（[仙台市](../Page/仙台市.md "wikilink")[若林區](../Page/若林區.md "wikilink")）
+  - URBANNET卸町大樓（[仙台市](../Page/仙台市.md "wikilink")[若林區](https://zh.wikipedia.org/wiki/若林區 "wikilink")）
 
   - URBANNET日本橋大樓（東京都[中央區](../Page/中央區_\(東京都\).md "wikilink")）
 
@@ -93,15 +93,15 @@
 
   - URBANNET池袋大樓（東京都[豐島區](../Page/豐島區.md "wikilink")）
 
-  - URBANNET大森大樓（東京都[大田區](../Page/大田區.md "wikilink")）
+  - URBANNET大森大樓（東京都[大田區](https://zh.wikipedia.org/wiki/大田區 "wikilink")）
 
-  - URBANNET橫濱大樓（[橫濱市](../Page/橫濱市.md "wikilink")[中區](../Page/中區_\(橫濱市\).md "wikilink")）
+  - URBANNET橫濱大樓（[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[中區](../Page/中區_\(橫濱市\).md "wikilink")）
 
   - NU關內大樓（橫濱市中區）
 
   - URBANNET靜岡追手町大樓（[靜岡市](../Page/靜岡市.md "wikilink")[葵區](../Page/葵區.md "wikilink")）
 
-  - （[名古屋市](../Page/名古屋市.md "wikilink")[東區](../Page/東區_\(名古屋市\).md "wikilink")）
+  - （[名古屋市](../Page/名古屋市.md "wikilink")[東區](https://zh.wikipedia.org/wiki/東區_\(名古屋市\) "wikilink")）
 
   - URBANNET伏見大樓（名古屋市[中區](../Page/中區_\(名古屋市\).md "wikilink")）
 
@@ -119,9 +119,9 @@
 
   - URBANACE東天滿大樓（大阪市[北區](../Page/北區_\(大阪市\).md "wikilink")）
 
-  - URBANACE枚方大樓（[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")）
+  - URBANACE枚方大樓（[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[枚方市](../Page/枚方市.md "wikilink")）
 
-  - URBANACE三宮大樓（[神戶市](../Page/神戶市.md "wikilink")[中央區](../Page/中央區_\(神戶市\).md "wikilink")）
+  - URBANACE三宮大樓（[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[中央區](../Page/中央區_\(神戶市\).md "wikilink")）
 
   - （[岡山市](../Page/岡山市.md "wikilink")[北區](../Page/北區_\(岡山市\).md "wikilink")）
 
@@ -137,7 +137,7 @@
 
 ### 商業
 
-  - [東京歌劇城](../Page/東京歌劇城.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")）
+  - [東京歌劇城](https://zh.wikipedia.org/wiki/東京歌劇城 "wikilink")（[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")）
 
   - 原宿QUEST（東京都[澀谷區](../Page/澀谷區.md "wikilink")）
 
@@ -146,7 +146,7 @@
   - （[京都市](../Page/京都市.md "wikilink")[中京區](../Page/中京區.md "wikilink")）
 
   - [Grand
-    Front大阪](../Page/Grand_Front大阪.md "wikilink")（[大阪市](../Page/大阪市.md "wikilink")[北區](../Page/北區_\(大阪市\).md "wikilink")）
+    Front大阪](https://zh.wikipedia.org/wiki/Grand_Front大阪 "wikilink")（[大阪市](../Page/大阪市.md "wikilink")[北區](../Page/北區_\(大阪市\).md "wikilink")）
 
   - 代官山T-SITE（東京都[澀谷區](../Page/澀谷區.md "wikilink")[猿樂町](../Page/猿樂町_\(澀谷區\).md "wikilink")）※協力
 

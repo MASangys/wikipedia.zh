@@ -1,6 +1,6 @@
 《**E.G. SMILE -E-girls
-BEST-**》是[E-girls的第一張精選專輯](../Page/E-girls.md "wikilink")。於2016年2月10日發行。唱片公司為[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+BEST-**》是[E-girls的第一張精選專輯](https://zh.wikipedia.org/wiki/E-girls "wikilink")。於2016年2月10日發行。唱片公司為[rhythm
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -13,14 +13,16 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - 本作分「初回限定盤A（2CD+3Blu-rays）」、「初回限定盤B（2CD+3DVDs）」、「初回限定盤C（2CD+Blu-ray）」、「初回限定盤D（2CD+DVD）」和「CD盤」5種版本。
   - 專輯以雙CD發行，Disc 2為《Remix BEST》，邀請海外的頂尖DJ，以及日本國內豪華DJ陣容共同攜手參與混音製作。
   - DVD收錄了《[Follow Me](../Page/Follow_Me.md "wikilink")》、《[滿懷歉意的Kissing
-    You](../Page/滿懷歉意的Kissing_You.md "wikilink")》、《[E.G. Anthem -WE ARE
+    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")》、《[E.G.
+    Anthem -WE ARE
     VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")》、《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》、《[Dance
     Dance
     Dance](../Page/Dance_Dance_Dance_\(E-girls單曲\).md "wikilink")》等15首單曲、B面曲《[JUST
     IN LOVE](../Page/THE_NEVER_ENDING_STORY.md "wikilink")》、《[Move It\!
     -Dream & E-girls
     TIME-](../Page/Mr._Snowman.md "wikilink")》、專輯收錄曲《[RYDEEN
-    〜Dance All Night〜](../Page/COLORFUL_POP.md "wikilink")》和新曲《DANCE
+    〜Dance All
+    Night〜](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")》和新曲《DANCE
     WITH ME NOW\!》的Music Video，並收錄E-girls單獨演唱會「E-girls LIVE TOUR 2015
     "COLORFUL WORLD" in 埼玉超級競技場」全曲影像及演唱會記錄片（Documentary Movie）。
   - 在2月22日於公信榜專輯週排行榜取得第2位。
@@ -52,7 +54,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
       -
         5th單曲
 6.  **[滿懷歉意的Kissing
-    You](../Page/滿懷歉意的Kissing_You.md "wikilink")**（ごめんなさいのKissing
+    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")**（ごめんなさいのKissing
     You）
     （作詞：Yu Shimoji、作曲・編曲：CLARABELL(RzC)）
       -
@@ -61,7 +63,8 @@ zone](../Page/rhythm_zone.md "wikilink")。
     （作詞：Jam9・Yu Shimoji、作曲：Jam9・ArmySlick）
       -
         7th單曲
-8.  **[Diamond Only](../Page/Diamond_Only.md "wikilink")**
+8.  **[Diamond
+    Only](https://zh.wikipedia.org/wiki/Diamond_Only "wikilink")**
     （作詞：藤林聖子、作曲・編曲：Erik Lidbom・Albi Albertsson）
       -
         8th單曲
@@ -140,7 +143,8 @@ zone](../Page/rhythm_zone.md "wikilink")。
 7.  滿懷歉意的Kissing You
 8.  轉啊轉
 9.  Diamond Only
-10. [RYDEEN 〜Dance All Night〜](../Page/COLORFUL_POP.md "wikilink")
+10. [RYDEEN 〜Dance All
+    Night〜](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")
 11. E.G. Anthem -WE ARE VENUS-
 12. 大家來跳舞
 13. Highschool♡love
@@ -163,16 +167,21 @@ zone](../Page/rhythm_zone.md "wikilink")。
 3.  Mr. Snowman
 4.  Follow Me
 5.  滿懷歉意的Kissing You
-6.  [JUICY LOVE](../Page/JUICY_LOVE.md "wikilink") / Happiness
-7.  [Seek A Light](../Page/Seek_A_Light.md "wikilink") / Happiness
-8.  [秋風的回應](../Page/秋風的回應.md "wikilink") / Flower
-9.  [再見、愛麗絲](../Page/再見、愛麗絲_/_TOMORROW_～幸福的法則～.md "wikilink") / Flower
-10. [白雪公主](../Page/白雪公主_\(Flower單曲\).md "wikilink") / Flower
+6.  [JUICY LOVE](https://zh.wikipedia.org/wiki/JUICY_LOVE "wikilink") /
+    Happiness
+7.  [Seek A
+    Light](https://zh.wikipedia.org/wiki/Seek_A_Light "wikilink") /
+    Happiness
+8.  [秋風的回應](https://zh.wikipedia.org/wiki/秋風的回應 "wikilink") / Flower
+9.  [再見、愛麗絲](https://zh.wikipedia.org/wiki/再見、愛麗絲_/_TOMORROW_～幸福的法則～ "wikilink")
+    / Flower
+10. [白雪公主](https://zh.wikipedia.org/wiki/白雪公主_\(Flower單曲\) "wikilink") /
+    Flower
 11. [Darling](../Page/Darling.md "wikilink") / Dream
-12. [如此地](../Page/如此地.md "wikilink") / Dream
+12. [如此地](https://zh.wikipedia.org/wiki/如此地 "wikilink") / Dream
 13. DJ Erie 組曲（I SHOULD BE SO LUCKY ～ One Two Three ～ JUST IN LOVE ～ 轉啊轉
     ～ Diamond Only）
-14. [迎向未來](../Page/COLORFUL_POP.md "wikilink")
+14. [迎向未來](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")
 15. [Winter Love 〜愛的贈禮〜](../Page/轉啊轉.md "wikilink")
 16. [寡婦·搖滾曲](../Page/E.G._TIME.md "wikilink")
 17. [自由女神 〜Yuvuraia〜](../Page/E.G._TIME.md "wikilink")
@@ -188,8 +197,12 @@ zone](../Page/rhythm_zone.md "wikilink")。
 
 <!-- end list -->
 
-1.  [Blue Sky Blue](../Page/Blue_Sky_Blue.md "wikilink") / Flower
-2.  [PEACE SUNSHINE](../Page/PEACE_SUNSHINE.md "wikilink") / Dream
+1.  [Blue Sky
+    Blue](https://zh.wikipedia.org/wiki/Blue_Sky_Blue "wikilink") /
+    Flower
+2.  [PEACE
+    SUNSHINE](https://zh.wikipedia.org/wiki/PEACE_SUNSHINE "wikilink") /
+    Dream
 3.  Move It\! -Dream & E-girls TIME- / Dream & E-girls
 4.  Anniversary\!\!
 5.  Highschool♡love
@@ -203,11 +216,11 @@ zone](../Page/rhythm_zone.md "wikilink")。
 
   - 字為主唱
 
-      - [Dream](../Page/Dream.md "wikilink")：、、
-      - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](../Page/SAYAKA.md "wikilink")、[楓](../Page/土橋楓.md "wikilink")、、[MIYUU](../Page/有磯實結.md "wikilink")、[YURINO](../Page/鈴木結莉乃.md "wikilink")、、[須田安娜](../Page/須田安娜.md "wikilink")
-      - [Flower](../Page/Flower.md "wikilink")：[藤井萩花](../Page/藤井萩花.md "wikilink")、[重留真波](../Page/重留真波.md "wikilink")、[中島美央](../Page/中島美央.md "wikilink")、、[坂東希](../Page/坂東希.md "wikilink")、[佐藤晴美](../Page/佐藤晴美.md "wikilink")
+      - [Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")：、、
+      - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](https://zh.wikipedia.org/wiki/SAYAKA "wikilink")、[楓](https://zh.wikipedia.org/wiki/土橋楓 "wikilink")、、[MIYUU](https://zh.wikipedia.org/wiki/有磯實結 "wikilink")、[YURINO](https://zh.wikipedia.org/wiki/鈴木結莉乃 "wikilink")、、[須田安娜](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")
+      - [Flower](https://zh.wikipedia.org/wiki/Flower "wikilink")：[藤井萩花](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")、[重留真波](https://zh.wikipedia.org/wiki/重留真波 "wikilink")、[中島美央](https://zh.wikipedia.org/wiki/中島美央 "wikilink")、、[坂東希](https://zh.wikipedia.org/wiki/坂東希 "wikilink")、[佐藤晴美](https://zh.wikipedia.org/wiki/佐藤晴美 "wikilink")
       - Rabbit：
-      - EGD：[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](../Page/山口乃乃華.md "wikilink")
+      - EGD：[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](https://zh.wikipedia.org/wiki/山口乃乃華 "wikilink")
 
 ### 航行吧\! ～Sail Out For Someone～
 

@@ -1,4 +1,4 @@
-《**LOVE\&LETTER**》是[韓國](../Page/韓國.md "wikilink")[男子組合](../Page/男子組合.md "wikilink")[SEVENTEEN的首張正規專輯](../Page/Seventeen_\(組合\).md "wikilink")，成員均參與專輯製作、作詞、作曲及編舞\[1\]\[2\]。專輯[Pledis娛樂企劃](../Page/Pledis娛樂.md "wikilink")，[LOEN娛樂於](../Page/LOEN娛樂.md "wikilink")2016年4月25日發行，主打曲為〈Pretty
+《**LOVE\&LETTER**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的首張正規專輯](../Page/Seventeen_\(組合\).md "wikilink")，成員均參與專輯製作、作詞、作曲及編舞\[1\]\[2\]。專輯[Pledis娛樂企劃](../Page/Pledis娛樂.md "wikilink")，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2016年4月25日發行，主打曲為〈Pretty
 U（예쁘다）〉。後於2016年7月4日發行重新包裝版專輯\[3\]，主打曲為〈VERY NICE（아주
 NICE）〉。成員圓佑則因急性胃炎靜養，未參與重裝版宣傳。\[4\]
 
@@ -6,7 +6,7 @@ NICE）〉。成員圓佑則因急性胃炎靜養，未參與重裝版宣傳。\
 
 一般版以兩版本發售，分別為Love版與Letter版。
 
-重新包裝版由成員[WOOZI負責製作](../Page/李知勳_\(SEVENTEEN\).md "wikilink")\[5\]，主打曲〈VERY
+重新包裝版由成員[WOOZI負責製作](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")\[5\]，主打曲〈VERY
 NICE（非常
 NICE）〉描述男生與心儀對象度過美好一天，心情非常「Nice」的情感。音樂錄影帶則以視覺感官表現出「和心儀的異性對視心臟就像要爆炸一樣緊張心動」的情緒\[6\]。重裝版中的部分曲目已公開過，如〈NO
 F.U.N〉曾在SEVENTEEN的出道實境節目《SEVENTEEN PROJECT：Debut Big Plan》中演出。\[7\]
@@ -36,7 +36,7 @@ F.U.N〉曾在SEVENTEEN的出道實境節目《SEVENTEEN PROJECT：Debut Big Pla
 <td></td>
 </tr>
 <tr class="even">
-<td><p>韓國<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a></p></td>
+<td><p>韓國<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -375,7 +375,7 @@ F.U.N〉曾在SEVENTEEN的出道實境節目《SEVENTEEN PROJECT：Debut Big Pla
 <td><p>全球</p></td>
 <td><p>2016年4月25日</p></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis娛樂</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a>、<a href="../Page/CD.md" title="wikilink">CD</a></p></td>
 </tr>
 <tr class="even">

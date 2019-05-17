@@ -1,4 +1,4 @@
-**假面騎士Kiva角色列表**展示於[朝日電視台放映的特攝劇集](../Page/朝日電視台.md "wikilink")《**[假面騎士KIVA](../Page/假面騎士KIVA.md "wikilink")**》（原題：）各個角色。
+**假面騎士Kiva角色列表**展示於[朝日電視台放映的特攝劇集](../Page/朝日電視台.md "wikilink")《**[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")**》（原題：）各個角色。
 
 ## 主要角色
 
@@ -13,12 +13,12 @@
     **假面騎士KIVA**的變身者，於製作[小提琴的小店內居住](../Page/小提琴.md "wikilink")。行為怪異，不太會與人溝通，並以為自己對世界敏感，但被麻生惠指責是他自己的心理作用。
     夢想是製作比父親更優越的小提琴。
     背起成為KIVA的命運，與牙血鬼 戰鬥到底。
-    父親為紅音也，母親為真夜（西洋棋四幹部中的[Queen](../Page/皇后_\(國際象棋\).md "wikilink")）。
+    父親為紅音也，母親為真夜（西洋棋四幹部中的[Queen](https://zh.wikipedia.org/wiki/皇后_\(國際象棋\) "wikilink")）。
     在第19集被紅音也附身
     第37集，渡成功拔出魔皇劍，初用便暴走起來，幸得三個變身器合而為一，變為魔蝙蝠（Zanbat）後壓制住這把劍，不斷一進一出，使出激光劍斬殺敵人。
     第46至47集和太牙的決鬥中勝利，成為牙血鬼之王。
     第48集與太牙一起擊倒復活的牙血鬼 King，再進行最後的決鬥。
-    在[假面騎士DECADE中再度登場](../Page/假面騎士DECADE.md "wikilink")
+    在[假面騎士DECADE中再度登場](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
   -
     **假面騎士IXA**
-    的變身者。[賞金獵人一名](../Page/賞金獵人.md "wikilink")，除了對付牙血鬼外，更要取KIVA的命，平時也會捕捉一般的通緝犯換取賞金。
+    的變身者。[賞金獵人一名](https://zh.wikipedia.org/wiki/賞金獵人 "wikilink")，除了對付牙血鬼外，更要取KIVA的命，平時也會捕捉一般的通緝犯換取賞金。
     身手不凡，能夠在沒變身的時候把疾駛的汽車一腳踹到停車。有時會因為與通緝犯或牙血鬼打鬥時下手過重引起騷動被捕，但很快又被釋放了。根據其所指，對KIVA決鬥戰敗，是IXA的失敗而不是他的失敗。[1](http://ameblo.jp/kato-keisuke)
     每次打倒罪犯也會奪取罪犯一枚扣鈕作收集之用。
     第30集親眼目到KIVA 解除變身的一刻。
@@ -42,7 +42,7 @@
   - 麻生惠（21）（2008年）
 
 本作女主角
-[柳澤奈奈飾](../Page/柳澤奈奈.md "wikilink")/香港配音:[余欣沛](../Page/余欣沛.md "wikilink")
+[柳澤奈奈飾](https://zh.wikipedia.org/wiki/柳澤奈奈 "wikilink")/香港配音:[余欣沛](../Page/余欣沛.md "wikilink")
 「至上藍天會」成員。母親是麻生
 百合。表面是一位[模特兒](../Page/模特兒.md "wikilink")，實際上是狙擊牙血鬼的戰士。為了向殺掉親人的牙血鬼
 報仇，手持特製手槍與牙血鬼戰鬥。為人具正義感但得勢不饒人。
@@ -67,11 +67,11 @@
 
   - 襟立健吾（21）（2008年）
 
-[熊井幸平飾](../Page/熊井幸平.md "wikilink")/香港配音:[張方正](../Page/張方正.md "wikilink")
+[熊井幸平飾](https://zh.wikipedia.org/wiki/熊井幸平 "wikilink")/香港配音:[張方正](../Page/張方正.md "wikilink")
 
   -
     **假面騎士IXA**
-    的變身者。紅渡的好友，第11集登場，[吉他手一名](../Page/吉他手.md "wikilink")，夢想是建立一隊樂隊，找到好友紅渡並建立新樂隊，成員暫有紅渡、靜香、惠等人，後其因與紅渡夢想不同而折伙。[2](https://web.archive.org/web/20071008060145/http://www.watanabepro.co.jp/mypage/artist/kumaikohei.html)
+    的變身者。紅渡的好友，第11集登場，[吉他手一名](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，夢想是建立一隊樂隊，找到好友紅渡並建立新樂隊，成員暫有紅渡、靜香、惠等人，後其因與紅渡夢想不同而折伙。[2](https://web.archive.org/web/20071008060145/http://www.watanabepro.co.jp/mypage/artist/kumaikohei.html)
     在第27集中被加入至上藍天會，表現出色，但後來因手臂受傷導致無法再彈吉他。
     因被名護拋棄，第34話健吾正式加入藍天會時，跟名護劃清界線，並否認跟紅渡是好友。
     其後7集持有IXA，向敵人進行攻擊，但屢戰屢敗。
@@ -82,7 +82,7 @@
 
   - 紅音也（23）（1986年）
 
-[武田航平飾](../Page/武田航平.md "wikilink")/香港配音:[胡家豪](../Page/胡家豪.md "wikilink")
+[武田航平飾](https://zh.wikipedia.org/wiki/武田航平 "wikilink")/香港配音:[胡家豪](../Page/胡家豪.md "wikilink")
 
   -
     **假面騎士IXA**及**假面騎士Dark
@@ -93,19 +93,19 @@
     2008年，在襟立健吾的提議下，與紅渡、惠、啟介一同去尋找通靈師詢問KIVA線索。因通靈者施法導致紅音也在一段時間內間斷地附身於其兒子紅渡，其後消失。
     第45集因Kivat Bat二世無法忍受king對待真夜的態度，而讓音也變身成Dark KIVA。
     第46集，变身成Dark KIVA三次後﹐生命過度損耗而死。
-    武田航平在2018年參演後作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》，飾演**猿渡一海（假面騎士Grease）**，其劇中的軍屬編號「907101080」同時亦向本作角色**紅音也**致敬。
+    武田航平在2018年參演後作《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》，飾演**猿渡一海（假面騎士Grease）**，其劇中的軍屬編號「907101080」同時亦向本作角色**紅音也**致敬。
 
 <!-- end list -->
 
   - 麻生百合（20）（1986年）
 
-[高橋優飾](../Page/高橋優.md "wikilink")/香港配音:[林芷筠](../Page/林芷筠.md "wikilink")
+[高橋優飾](https://zh.wikipedia.org/wiki/高橋優 "wikilink")/香港配音:[林芷筠](../Page/林芷筠.md "wikilink")
 
   -
     **假面騎士IXA**的變身者。麻生
     惠的[母親](../Page/母親.md "wikilink")，於茶店『カフェ・マル・ダムール』工作。同時是狙擊牙血鬼的戰士。
     因母親麻生茜被牙血鬼殺掉，而十分痛恨那些牙血鬼，並極力爭取成為IXA，但最終失敗。
-    其殺母仇人是西洋棋四幹部中的Rook(路克)。手持特製能夠變成長鞭的伸縮型[匕首與牙血鬼戰鬥](../Page/匕首.md "wikilink")。
+    其殺母仇人是西洋棋四幹部中的Rook(路克)。手持特製能夠變成長鞭的伸縮型[匕首與牙血鬼戰鬥](https://zh.wikipedia.org/wiki/匕首 "wikilink")。
     為人比女兒更具正義感，對於不滿意的事絕不讓步，對牙血鬼更不會留情。同樣地，十分怕狗。
     现代篇中已死亡。
 
@@ -153,7 +153,8 @@
       -
         父親為Kivat Bat 二世（1986年至1987年）
         詳見下文。
-        妹妹為kivara /香港配音:[曾佩儀](../Page/曾佩儀.md "wikilink")
+        妹妹為kivara
+        /香港配音:[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")
         本作並沒有登場，而是後作幪面超人帝騎中登場。鳴瀧（未變身）/光夏海的拍檔。
         子嗣為Kivat Bat 四世（2031年）
         紅正夫的拍檔。
@@ -167,7 +168,8 @@
 
 <!-- end list -->
 
-  - Tatsulot 擴張龍/香港配音:[張裕東](../Page/張裕東.md "wikilink")
+  - Tatsulot
+    擴張龍/香港配音:[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
     現代篇KIVA變身成Emperor Form 型態的變身器，可用黃金笛子召喚出來。與Kivat Bat
     三世感情非常好，稱其為Kivat哥。
 
@@ -201,7 +203,7 @@
 
   - Rook（城堡） 路克/大大
 
-香港配音:[黃啟昌](../Page/黃啟昌.md "wikilink")
+香港配音:[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
 
   -
     **假面騎士IXA**的變身者，原型為**獅子Fangire**。第15話登場，1986年經常玩倒數計時殺人遊戲，口頭蟬有：
@@ -269,7 +271,8 @@
 
 <!-- end list -->
 
-  - 現代篇 King（國王） 登 太牙 [山本匠馬飾](../Page/山本匠馬.md "wikilink")
+  - 現代篇 King（國王） 登 太牙
+    [山本匠馬飾](https://zh.wikipedia.org/wiki/山本匠馬 "wikilink")
 
 香港配音:[關令翹](../Page/關令翹.md "wikilink")
 
@@ -288,7 +291,7 @@
 
   - 過去篇 King（國王）
 
-香港配音:[陳欣](../Page/陳欣.md "wikilink")
+香港配音:[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")
 
   -
     **假面騎士Dark
@@ -300,7 +303,7 @@
 
 ### 其他
 
-  - 糸矢 僚 [創斗飾](../Page/創斗.md "wikilink")
+  - 糸矢 僚 [創斗飾](https://zh.wikipedia.org/wiki/創斗 "wikilink")
     一名長髮男子，原型為**蜘蛛Fangire**。雖然為Fangire，但個性比較瘋癲，屬本作的搞笑角色。另分別喜歡麻生百合和麻生惠。
     第26話因喜歡上人類而被現代篇Queen（即鈴木深央）處決。
 

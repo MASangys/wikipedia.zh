@@ -9,13 +9,13 @@
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="../Page/金唱片獎.md" title="wikilink">金唱片獎</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></dt>
 
 </dl></td>
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="../Page/首爾音樂獎.md" title="wikilink">首爾音樂獎</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾音樂獎</a></dt>
 
 </dl></td>
 </tr>
@@ -69,7 +69,7 @@
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="../Page/MTV亞洲音樂大獎.md" title="wikilink">MTV亞洲音樂大獎</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/MTV亞洲音樂大獎" title="wikilink">MTV亞洲音樂大獎</a></dt>
 
 </dl></td>
 </tr>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="../Page/兒童票選獎.md" title="wikilink">兒童票選獎</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/兒童票選獎" title="wikilink">兒童票選獎</a></dt>
 
 </dl></td>
 </tr>
@@ -102,19 +102,19 @@
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></dt>
 
 </dl></td>
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="../Page/KBS音樂銀行.md" title="wikilink">Music Bank</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/KBS音樂銀行" title="wikilink">Music Bank</a></dt>
 
 </dl></td>
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="../Page/SBS人氣歌謠.md" title="wikilink">人氣歌謠</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/SBS人氣歌謠" title="wikilink">人氣歌謠</a></dt>
 
 </dl></td>
 </tr>
@@ -149,7 +149,7 @@ Girls出道以來在重要的頒獎典禮和音樂節目上獲得的獎項](../P
 
 ### 金唱片獎
 
-[金唱片獎是](../Page/金唱片獎.md "wikilink")[韓國一個年度音樂頒獎典禮](../Page/韓國.md "wikilink")，於1986年創辦，由韓國唱片產業協會主辦，主要頒發給韓國音樂界有卓越成就的音樂人。
+[金唱片獎是](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[韓國一個年度音樂頒獎典禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於1986年創辦，由韓國唱片產業協會主辦，主要頒發給韓國音樂界有卓越成就的音樂人。
 
 <table>
 <thead>
@@ -286,7 +286,7 @@ Girls出道以來在重要的頒獎典禮和音樂節目上獲得的獎項](../P
 
 ### 首爾音樂獎
 
-[首爾音樂獎是從](../Page/首爾音樂獎.md "wikilink")1990年起由首爾體育舉辦、High1
+[首爾音樂獎是從](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")1990年起由首爾體育舉辦、High1
 Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒獎典禮。
 
 <table>
@@ -340,7 +340,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### Mnet亞洲音樂大獎
 
-[Mnet亞洲音樂大獎是由](../Page/Mnet亞洲音樂大獎.md "wikilink")[Mnet舉辦的一個](../Page/Mnet.md "wikilink")[韓國主要年度音樂頒獎禮](../Page/韓國.md "wikilink")。
+[Mnet亞洲音樂大獎是由](../Page/Mnet亞洲音樂大獎.md "wikilink")[Mnet舉辦的一個](https://zh.wikipedia.org/wiki/Mnet "wikilink")[韓國主要年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 <table>
 <thead>
@@ -455,7 +455,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### 韓國音樂大獎
 
-[韓國音樂大獎是](../Page/韓國音樂大獎.md "wikilink")[韓國一個主要的年度音樂頒獎禮](../Page/韓國.md "wikilink")。由知名樂評、製作人、音樂圈專業人士等擔任評審。每年大約二月會頒發獎項給前一年表現最好的歌手。
+[韓國音樂大獎是](../Page/韓國音樂大獎.md "wikilink")[韓國一個主要的年度音樂頒獎禮](https://zh.wikipedia.org/wiki/韓國 "wikilink")。由知名樂評、製作人、音樂圈專業人士等擔任評審。每年大約二月會頒發獎項給前一年表現最好的歌手。
 
 <table>
 <thead>
@@ -626,7 +626,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### 甜瓜音樂獎
 
-[甜瓜音樂獎是韓國](../Page/甜瓜音樂獎.md "wikilink")[LOEN娛樂的在線音樂網站](../Page/LOEN娛樂.md "wikilink")「[MelOn](../Page/LOEN娛樂#Melon.md "wikilink")」自2009年開始每年舉辦的韓國主要音樂頒獎禮，只遵循該網站數位音樂銷售量和網上投票來決定得獎者。
+[甜瓜音樂獎是韓國](../Page/甜瓜音樂獎.md "wikilink")[LOEN娛樂的在線音樂網站](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")「[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")」自2009年開始每年舉辦的韓國主要音樂頒獎禮，只遵循該網站數位音樂銷售量和網上投票來決定得獎者。
 
 <table>
 <thead>
@@ -744,7 +744,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [SBS MTV](../Page/SBS_MTV.md "wikilink") Best of the Best
+### [SBS MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink") Best of the Best
 
 <table>
 <thead>
@@ -772,7 +772,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>Wonder Girls vs <a href="../Page/Girls&#39;_Generation.md" title="wikilink">Girls' Generation</a></em></p></td>
+<td><p><em>Wonder Girls vs <a href="https://zh.wikipedia.org/wiki/Girls&#39;_Generation" title="wikilink">Girls' Generation</a></em></p></td>
 <td><p>Top Rival (Live)</p></td>
 <td></td>
 <td></td>
@@ -797,7 +797,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ## 國際獎項
 
-### [MTV亞洲音樂大獎](../Page/MTV亞洲音樂大獎.md "wikilink")
+### [MTV亞洲音樂大獎](https://zh.wikipedia.org/wiki/MTV亞洲音樂大獎 "wikilink")
 
 <table>
 <thead>
@@ -820,7 +820,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [Myx Music Awards](../Page/Myx_Music_Awards.md "wikilink")
+### [Myx Music Awards](https://zh.wikipedia.org/wiki/Myx_Music_Awards "wikilink")
 
 <table>
 <thead>
@@ -935,7 +935,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [Popstar\!](../Page/Popstar!.md "wikilink") Poptastic Awards
+### [Popstar\!](https://zh.wikipedia.org/wiki/Popstar! "wikilink") Poptastic Awards
 
 <table>
 <thead>
@@ -958,7 +958,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 </tbody>
 </table>
 
-### [Shorty Awards](../Page/Shorty_Awards.md "wikilink")
+### [Shorty Awards](https://zh.wikipedia.org/wiki/Shorty_Awards "wikilink")
 
 <table>
 <thead>
@@ -1081,11 +1081,11 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 ## 音樂節目
 
 以下為[Wonder
-Girls在](../Page/Wonder_Girls.md "wikilink")[韓國音樂節目](../Page/韓國.md "wikilink")[Mnet](../Page/Mnet.md "wikilink")《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》、[KBS2](../Page/KBS2.md "wikilink")《[Music
-Bank](../Page/KBS音樂銀行.md "wikilink")》、[MBC](../Page/MBC.md "wikilink")《[Show\!
-音樂中心](../Page/Show!_音樂中心.md "wikilink")》、
-[SBS](../Page/SBS.md "wikilink")《[人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")》、MBC
+Girls在](../Page/Wonder_Girls.md "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
+Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\!
+音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、
+[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC
 Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的記錄。
 
 ### Music Bank
@@ -1207,8 +1207,8 @@ Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的�
 11. [원더걸스, \`서울가요대상\` 대상 (*Wonder Girls, "Seoul Music Awards" Artist of
     the
     Year*)](http://news.joins.com/article/3491360.html?ctg=1502&cloc=home%7Cstar%7Cstar_article).
-    *[Joins.com](../Page/JoongAng_Ilbo.md "wikilink")*. February 12,
-    2009. Retrieved February 12, 2009.
+    *[Joins.com](https://zh.wikipedia.org/wiki/JoongAng_Ilbo "wikilink")*.
+    February 12, 2009. Retrieved February 12, 2009.
 
 12.
 
@@ -1219,7 +1219,7 @@ Music《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得1位的�
 14. Kim, Shi-eun. [‘MKMF 3관왕’ 원더걸스 “변치 않는 원더걸스 되겠다” (''MKMF Triple
     Winner Wonder Girls "Will Never
     Change")](http://www.hankyung.com/news/app/newsview.php?aid=2008111638117&sid=01073305&nid=007&ltype=1&pkind=all).
-    *[HanKyung.com](../Page/Korea_Economic_Daily.md "wikilink")*.
+    *[HanKyung.com](https://zh.wikipedia.org/wiki/Korea_Economic_Daily "wikilink")*.
     November 16, 2008. Retrieved November 16, 2008.
 
 15.

@@ -1,8 +1,9 @@
 **Microsoft Azure 目錄服務** (Azure Active Directory)，簡稱 Azure AD，是
 Microsoft Azure 平台上提供身份驗證與存取管理 (Identity and Access Management)
 的主要服務，負責管理身份驗證與存取管理的工作。Azure AD 的前身是 AppFabric
-的存取控制服務，它是一個基於[HTTP通訊協定的目錄服務](../Page/HTTP.md "wikilink")
-(Directory Service)，與以[LDAP和Kerberos協定為主的](../Page/LDAP.md "wikilink")
+的存取控制服務，它是一個基於[HTTP通訊協定的目錄服務](https://zh.wikipedia.org/wiki/HTTP "wikilink")
+(Directory
+Service)，與以[LDAP和Kerberos協定為主的](https://zh.wikipedia.org/wiki/LDAP "wikilink")
 Windows Server [Active
 Directory](../Page/Active_Directory.md "wikilink") 無法直接共通，必須透過
 工具進行帳戶同步後，才能在 Azure AD 中使用 Active Directory 的帳戶。
@@ -19,9 +20,9 @@ Suites/EMS) 一起銷售 \[1\]。
 ## 架構
 
 Azure AD 本身是一個支援 HTTP 驗證協定 (如
-[SAML](../Page/SAML.md "wikilink")、[OAuth](../Page/OAuth.md "wikilink")
+[SAML](https://zh.wikipedia.org/wiki/SAML "wikilink")、[OAuth](https://zh.wikipedia.org/wiki/OAuth "wikilink")
 2.0) 的目錄服務，
-因此應用程式可以利用它來連結其他網路上的應用程式，尤其是[SaaS服務](../Page/SaaS.md "wikilink")
+因此應用程式可以利用它來連結其他網路上的應用程式，尤其是[SaaS服務](https://zh.wikipedia.org/wiki/SaaS "wikilink")
 \[2\]。
 
 ## 服務
@@ -32,7 +33,7 @@ Azure AD 提供了數種類型的身份驗證服務，除了原本的 HTTP-based
 
 Azure AD B2C 是一個為消費者端應用程式 (Consumer Application) 所設計的身份驗證服務，可支援由 OAuth
 2.0 (如
-[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Amazon](../Page/Amazon.md "wikilink")、[LinkedIn](../Page/LinkedIn.md "wikilink"))
+[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")、[LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink"))
 的社群網路身份提供者 (Identity Provider) 交互操作，並可整合同樣在 Azure AD
 內的多重要素驗證功能，以支援更高規格的安全性。
 

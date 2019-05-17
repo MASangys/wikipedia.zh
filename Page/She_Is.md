@@ -1,5 +1,5 @@
 《**She
-is**》（），是韓國男子組合[SHINee成員](../Page/SHINee.md "wikilink")[金鐘鉉首張韓語正規專輯](../Page/金鐘鉉_\(歌手\).md "wikilink")，在2016年5月24日由SM娛樂製作、KT
+is**》（），是韓國男子組合[SHINee成員](../Page/SHINee.md "wikilink")[金鐘鉉首張韓語正規專輯](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，在2016年5月24日由SM娛樂製作、KT
 Music發行\[1\]，主打曲目為《喜歡》（）。
 
 ## 曲目\[2\]
@@ -22,7 +22,7 @@ Music發行\[1\]，主打曲目為《喜歡》（）。
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年5月22日－5月28日</p></td>
 <td><p>#14</p></td>
@@ -63,7 +63,7 @@ Music發行\[1\]，主打曲目為《喜歡》（）。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2017年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2017年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
 <td><p>2017年12月</p></td>
 <td><p>#16<br />
 （10,056張）</p></td>
@@ -76,10 +76,10 @@ Music發行\[1\]，主打曲目為《喜歡》（）。
 
 ### 其他歌曲成績
 
-| 歌曲            | 榜單                                       | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
-| ------------- | ---------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
-| White T-Shirt | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月22日－5月28日 | \#65 | \[5\] |
-| 宇宙空間          | \#91                                     |                                                 |                  |      |       |
+| 歌曲            | 榜單                                                          | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
+| ------------- | ----------------------------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
+| White T-Shirt | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月22日－5月28日 | \#65 | \[5\] |
+| 宇宙空間          | \#91                                                        |                                                 |                  |      |       |
 
 ### Oricon公信榜
 
@@ -138,7 +138,7 @@ Music發行\[1\]，主打曲目為《喜歡》（）。
 <td><p>2016年5月24日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a><br />
-<a href="../Page/KT_Music.md" title="wikilink">KT Music</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/KT_Music" title="wikilink">KT Music</a></p></td>
 </tr>
 </tbody>
 </table>

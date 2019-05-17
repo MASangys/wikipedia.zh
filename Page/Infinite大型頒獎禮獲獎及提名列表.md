@@ -60,7 +60,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/BE_BACK.md" title="wikilink">BE BACK</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/BE_BACK" title="wikilink">BE BACK</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p>《<a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -468,7 +468,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p>唱片本賞</p></td>
-<td><p>《<a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a>》</p></td>
 <td><p>[8]</p></td>
 </tr>
 <tr class="odd">
@@ -620,19 +620,19 @@
 </tr>
 <tr class="odd">
 <td><p>最佳子團</p></td>
-<td><p><a href="../Page/INFINITE_H.md" title="wikilink">INFINITE H</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_H" title="wikilink">INFINITE H</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>最佳男子組合</p></td>
-<td><p><a href="../Page/BE_BACK.md" title="wikilink">Back</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BE_BACK" title="wikilink">Back</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳音樂錄影帶（男歌手）</p></td>
-<td><p>Delicious（<a href="../Page/Toheart.md" title="wikilink">Toheart</a>）</p></td>
+<td><p>Delicious（<a href="https://zh.wikipedia.org/wiki/Toheart" title="wikilink">Toheart</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -845,9 +845,9 @@
 
 ## 音樂節目獎項
 
-成員個人活動（[金聖圭](../Page/金聖圭.md "wikilink")、[南優鉉](../Page/南優賢.md "wikilink")）、及子團（[INFINITE
-H](../Page/INFINITE_H.md "wikilink")、[INFINITE
-F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")）所獲獎項請參閱各成員及子團之條目。
+成員個人活動（[金聖圭](../Page/金聖圭.md "wikilink")、[南優鉉](https://zh.wikipedia.org/wiki/南優賢 "wikilink")）、及子團（[INFINITE
+H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")、[INFINITE
+F](../Page/INFINITE_F.md "wikilink")、[Toheart](https://zh.wikipedia.org/wiki/Toheart "wikilink")）所獲獎項請參閱各成員及子團之條目。
 
 <table>
 <thead>
@@ -865,7 +865,7 @@ F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")�
 <td><p>2011年</p></td>
 <td><p>9月1日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>Be Mine</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -880,7 +880,7 @@ F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")�
 <tr class="odd">
 <td><p>10月9日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/SBS人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>Paradise</p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
@@ -895,8 +895,8 @@ F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p>12月23日</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS2</a></p></td>
-<td><p><a href="../Page/KBS音樂銀行.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS音樂銀行" title="wikilink">Music Bank</a></p></td>
 <td><p>Be Mine</p></td>
 <td><p>年終結算：22位</p></td>
 <td></td>
@@ -1015,8 +1015,8 @@ F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p>4月20日</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td><p>Man In Love</p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -1267,14 +1267,14 @@ F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")�
 <tr class="even">
 <td><p>2011</p></td>
 <td><ul>
-<li>2011年<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart專輯銷售總結排行榜</a>23位（《Over The Top》）、25位（《Paradise》）、51位（《Inspirit》、55位（《Evolution》）</li>
+<li>2011年<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart專輯銷售總結排行榜</a>23位（《Over The Top》）、25位（《Paradise》）、51位（《Inspirit》、55位（《Evolution》）</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
 <td><ul>
 <li>2012年Gaon Chart專輯銷售總結排行榜10位（《INFINITIZE》）、41位（《Paradise》）、71位（《Evolution》）、78位（《Inspirit》）、85位（《First Invasion》）</li>
-<li>美國Billboard K-POP 2012年度最佳歌曲Top20－1位（《The Chaser》）[9] [10]</li>
+<li>美國Billboard K-POP 2012年度最佳歌曲Top20－1位（《The Chaser》）[9][10]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1324,12 +1324,20 @@ F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")�
 [Category:INFINITE](https://zh.wikipedia.org/wiki/Category:INFINITE "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
 6.
+
 7.
+
 8.
+
 9.
+
 10.

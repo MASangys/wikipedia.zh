@@ -1,4 +1,4 @@
-《**Master－麵條之神**》（，）為[韓國](../Page/韓國.md "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2016年4月27日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[加油，金先生！](../Page/加油，金先生！.md "wikilink")》、《[鋼鐵人](../Page/鋼鐵人_\(電視劇\).md "wikilink")》[金鐘淵導演執導](../Page/金鐘淵.md "wikilink")、《[感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")》[蔡承代編劇執筆](../Page/蔡承代.md "wikilink")，改編自[朴寅權畫家的漫畫作品](../Page/朴寅權.md "wikilink")《**麵條之神**》，講述了為了復仇而鑽研麵條技術的男主角的成長故事。\[1\]
+《**Master－麵條之神**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2016年4月27日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[加油，金先生！](../Page/加油，金先生！.md "wikilink")》、《[鋼鐵人](https://zh.wikipedia.org/wiki/鋼鐵人_\(電視劇\) "wikilink")》[金鐘淵導演執導](https://zh.wikipedia.org/wiki/金鐘淵 "wikilink")、《[感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")》[蔡承代編劇執筆](https://zh.wikipedia.org/wiki/蔡承代 "wikilink")，改編自[朴寅權畫家的漫畫作品](https://zh.wikipedia.org/wiki/朴寅權 "wikilink")《**麵條之神**》，講述了為了復仇而鑽研麵條技術的男主角的成長故事。\[1\]
 
 ## 演員陣容
 
@@ -18,7 +18,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/千正明.md" title="wikilink">千正明</a><br />
-<small>少年：<a href="../Page/高宇臨.md" title="wikilink">高宇臨</a></small></p></td>
+<small>少年：<a href="https://zh.wikipedia.org/wiki/高宇臨" title="wikilink">高宇臨</a></small></p></td>
 <td><p>無名<br />
 崔順錫</p></td>
 <td><p><strong>等著吧，我會將你所擁有的全部搶走。</strong><br />
@@ -26,7 +26,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a><br />
-<small>少年：<a href="../Page/黃俊宇.md" title="wikilink">黃俊宇</a></small><br />
+<small>少年：<a href="https://zh.wikipedia.org/wiki/黃俊宇" title="wikilink">黃俊宇</a></small><br />
 <small>青年：<a href="../Page/Baro.md" title="wikilink">Baro</a></small></p></td>
 <td><p>金吉道<br />
 河正泰</p></td>
@@ -35,21 +35,21 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a><br />
-<small>少年：<a href="../Page/崔智苑.md" title="wikilink">崔智苑</a></small></p></td>
+<small>少年：<a href="https://zh.wikipedia.org/wiki/崔智苑" title="wikilink">崔智苑</a></small></p></td>
 <td><p>蔡汝景</p></td>
 <td><p><strong>現在不是作為大韓民國檢察官，而是以朋友的的身份戰鬥。</strong><br />
 因為父母被害而不得不到保育院的被害者。克服了重重困境，通過司法考試成為了一名檢察官。為了抓到怪物金吉道，而已朋友的身份，更是以女人的身份潛伏到其身邊。是一位從無名和泰厦兩人那獲得滿滿愛意的人物，和泰厦兩人暗藏著悲慘的隱情。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李相燁.md" title="wikilink">李相燁</a><br />
-<small>少年：<a href="../Page/李建河.md" title="wikilink">李建河</a></small></p></td>
+<small>少年：<a href="https://zh.wikipedia.org/wiki/李建河" title="wikilink">李建河</a></small></p></td>
 <td><p>朴泰厦</p></td>
 <td><p><strong>無名呀，這次是最後一次放過你了，下次我說不定會殺了你。</strong><br />
 和無名是在保育院一起長大的總角之交。代替了汝景以殺人罪服刑後，似乎繼承了父親的血脈，步入了黑暗的世界。在成為金吉道的手下後，收到了殺死無名的命令。是殺死朋友成為和金吉道一樣的怪物呢，還是和怪物鬥爭呢。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/孔昇延.md" title="wikilink">孔昇延</a><br />
-<small>少年：<a href="../Page/李高恩.md" title="wikilink">李高恩</a></small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a><br />
+<small>少年：<a href="https://zh.wikipedia.org/wiki/李高恩" title="wikilink">李高恩</a></small></p></td>
 <td><p>金多海</p></td>
 <td><p><strong>知道最深入地浸透我身體的味道是什麼嗎？死也不會抹掉的媽媽的氣息啊。</strong><br />
 擁有著絕對嗅覺，金吉道隱藏的女兒。猜測著親生母親的死和與之相關的父親吉道是犯人的事，同時為了躲避而進入了宮樂園，成為了男子堆裡唯一的女性待命熟手。吉道通過泰厦，隱秘地保護著她。多海命中註定般地愛上了泰厦，是個因為愛情而跳進地獄的人物。</p></td>
@@ -72,8 +72,8 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金宰英.md" title="wikilink">金宰英</a><br />
-<small>少年：<a href="../Page/安元鎮.md" title="wikilink">安元鎮</a></small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金宰英" title="wikilink">金宰英</a><br />
+<small>少年：<a href="https://zh.wikipedia.org/wiki/安元鎮" title="wikilink">安元鎮</a></small></p></td>
 <td><p>高吉勇</p></td>
 <td><p>是保育院四人幫中的一名。雖然是個經常闖禍的民害，卻有著溫暖的內心。暗戀著汝景，默默的在一旁守候，以長腿叔叔自稱，照顧著汝景。</p></td>
 </tr>
@@ -93,40 +93,40 @@
 
 ### 金吉道周邊人物
 
-|                                  |        |        |
-| -------------------------------- | ------ | ------ |
-| **演員**                           | **角色** | **介紹** |
-| [崔鍾元](../Page/崔鍾元.md "wikilink") | 高大千    | 金吉道的岳父 |
-| [李一花](../Page/李一花.md "wikilink") | 高江淑    | 金吉道的妻子 |
-| [孫汝恩](../Page/孫汝恩.md "wikilink") | 都賢貞    | 金吉道的情婦 |
-| [金周莞](../Page/金周莞.md "wikilink") | 黃成祿    | 金吉道的祕書 |
+|                                                     |        |        |
+| --------------------------------------------------- | ------ | ------ |
+| **演員**                                              | **角色** | **介紹** |
+| [崔鍾元](https://zh.wikipedia.org/wiki/崔鍾元 "wikilink") | 高大千    | 金吉道的岳父 |
+| [李一花](../Page/李一花.md "wikilink")                    | 高江淑    | 金吉道的妻子 |
+| [孫汝恩](../Page/孫汝恩.md "wikilink")                    | 都賢貞    | 金吉道的情婦 |
+| [金周莞](https://zh.wikipedia.org/wiki/金周莞 "wikilink") | 黃成祿    | 金吉道的祕書 |
 
 ### 其他角色
 
-|                                  |        |        |
-| -------------------------------- | ------ | ------ |
-| **演員**                           | **角色** | **介紹** |
-| [曹熙奉](../Page/曹熙奉.md "wikilink") | 都久     | 黑幫老大   |
-| [金炳基](../Page/金炳基.md "wikilink") | 蘇泰燮    | 議員     |
-| [徐宜淑](../Page/徐宜淑.md "wikilink") | 薛美子    | 美食評論家  |
-| [嚴孝燮](../Page/嚴孝燮.md "wikilink") | 崔成道    | 議員     |
-| [車道鎮](../Page/車道鎮.md "wikilink") | 李基白    | 副麵長    |
+|                                                     |        |        |
+| --------------------------------------------------- | ------ | ------ |
+| **演員**                                              | **角色** | **介紹** |
+| [曹熙奉](../Page/曹熙奉.md "wikilink")                    | 都久     | 黑幫老大   |
+| [金炳基](../Page/金炳基.md "wikilink")                    | 蘇泰燮    | 議員     |
+| [徐宜淑](https://zh.wikipedia.org/wiki/徐宜淑 "wikilink") | 薛美子    | 美食評論家  |
+| [嚴孝燮](../Page/嚴孝燮.md "wikilink")                    | 崔成道    | 議員     |
+| [車道鎮](../Page/車道鎮.md "wikilink")                    | 李基白    | 副麵長    |
 
 ### 客串演出
 
-|                                  |        |              |
-| -------------------------------- | ------ | ------------ |
-| **演員**                           | **角色** | **介紹**       |
-| [金民尚](../Page/金民尚.md "wikilink") | 閔善浩    | 麵長，後來被開除     |
-| [孫珊](../Page/孫珊.md "wikilink")   | 金珍女    | 餐長           |
-| [南文哲](../Page/南文哲.md "wikilink") | 朴文福    | 湯長           |
-| [崔大成](../Page/崔大成.md "wikilink") | 羅元尙    | 肉長           |
-| [呂茂英](../Page/呂茂英.md "wikilink") | 河泰奉    | 店長           |
-| [吳龍](../Page/吳龍.md "wikilink")   | 李明植    | 保育院院長        |
-| [朴智煥](../Page/朴智煥.md "wikilink") | 二哲     | 都久的小弟        |
-| [林度允](../Page/林度允.md "wikilink") | 洪燦英    | 餐夫，無名在宮樂園的臥底 |
-| [李英真](../Page/李英真.md "wikilink") | 金警長    | 調查員          |
-| [崔秉默](../Page/崔秉默.md "wikilink") | 安忠勇    | 大檢特殊部部長      |
+|                                                     |        |              |
+| --------------------------------------------------- | ------ | ------------ |
+| **演員**                                              | **角色** | **介紹**       |
+| [金民尚](https://zh.wikipedia.org/wiki/金民尚 "wikilink") | 閔善浩    | 麵長，後來被開除     |
+| [孫珊](https://zh.wikipedia.org/wiki/孫珊 "wikilink")   | 金珍女    | 餐長           |
+| [南文哲](https://zh.wikipedia.org/wiki/南文哲 "wikilink") | 朴文福    | 湯長           |
+| [崔大成](https://zh.wikipedia.org/wiki/崔大成 "wikilink") | 羅元尙    | 肉長           |
+| [呂茂英](https://zh.wikipedia.org/wiki/呂茂英 "wikilink") | 河泰奉    | 店長           |
+| [吳龍](https://zh.wikipedia.org/wiki/吳龍 "wikilink")   | 李明植    | 保育院院長        |
+| [朴智煥](https://zh.wikipedia.org/wiki/朴智煥 "wikilink") | 二哲     | 都久的小弟        |
+| [林度允](https://zh.wikipedia.org/wiki/林度允 "wikilink") | 洪燦英    | 餐夫，無名在宮樂園的臥底 |
+| [李英真](https://zh.wikipedia.org/wiki/李英真 "wikilink") | 金警長    | 調查員          |
+| [崔秉默](https://zh.wikipedia.org/wiki/崔秉默 "wikilink") | 安忠勇    | 大檢特殊部部長      |
 
 ### 特別演出
 
@@ -160,7 +160,7 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>TNmS 收視率[2]</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 收視率[3]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 收視率[3]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -303,9 +303,10 @@
 
 ## 同時段競爭節目
 
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[Goodbye Mr.
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[Goodbye
+    Mr.
     Black](../Page/Goodbye_Mr._Black.md "wikilink")》、《[好運羅曼史](../Page/好運羅曼史.md "wikilink")》
-  - [SBS](../Page/SBS株式會社.md "wikilink")：《[戲子](../Page/戲子_\(電視劇\).md "wikilink")》、《[Wanted](../Page/Wanted.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[戲子](../Page/戲子_\(電視劇\).md "wikilink")》、《[Wanted](../Page/Wanted.md "wikilink")》
 
 ## 獎項
 
@@ -322,9 +323,9 @@
 <tbody>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><a href="../Page/第53屆百想藝術大賞.md" title="wikilink">第53屆百想藝術大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第53屆百想藝術大賞" title="wikilink">第53屆百想藝術大賞</a></p></td>
 <td><p>女子新人演技賞</p></td>
-<td><p><a href="../Page/孔昇延.md" title="wikilink">孔昇延</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

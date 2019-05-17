@@ -1,5 +1,5 @@
 **C<sub>v</sub>
-流體係數**是流體設備有關其允許[流體流動能力的相對度量](../Page/流體.md "wikilink")，描述的是、[閥或其他組件的壓力差和流體通過](../Page/閥.md "wikilink")[流率之間的關係](../Page/體積流率.md "wikilink")。
+流體係數**是流體設備有關其允許[流體流動能力的相對度量](https://zh.wikipedia.org/wiki/流體 "wikilink")，描述的是、[閥或其他組件的壓力差和流體通過](https://zh.wikipedia.org/wiki/閥 "wikilink")[流率之間的關係](https://zh.wikipedia.org/wiki/體積流率 "wikilink")。
 
 在數學上流體係數可以用以下方式定義：
 
@@ -9,11 +9,11 @@
 
   - C<sub>v</sub>為流體係數或閥的流量等級
   - Q為流率，單位為美制單位 [加仑](../Page/加仑.md "wikilink")/分鐘
-  - SG為流體的[比重](../Page/比重.md "wikilink")，水的比重為1
+  - SG為流體的[比重](https://zh.wikipedia.org/wiki/比重 "wikilink")，水的比重為1
   - ΔP為壓力差，單位為[psi](../Page/磅力每平方英寸.md "wikilink")
 
 在實務上，流體係數C<sub>v</sub>是當閥或孔穴兩端的壓力差為1
-psi時，60°F的水通過閥或孔穴的[體積流率](../Page/體積流率.md "wikilink")（單位：[加仑](../Page/加仑.md "wikilink")/分鐘）。
+psi時，60°F的水通過閥或孔穴的[體積流率](https://zh.wikipedia.org/wiki/體積流率 "wikilink")（單位：[加仑](../Page/加仑.md "wikilink")/分鐘）。
 
 流體係數是一種比較閥性能的方式，也是在不同的應用中選用閥的依據，廣為產業界使用。，此定義可以延伸到有關液體、氣體或是蒸氣的方程式中。
 
@@ -29,7 +29,7 @@ psia 輸入時，流率為1.0 scfm）。
 
 ## 相關條目
 
-  - [Kv (流體係數)](../Page/Kv_\(流體係數\).md "wikilink")
+  - [Kv (流體係數)](https://zh.wikipedia.org/wiki/Kv_\(流體係數\) "wikilink")
 
 ## 參考資料
 

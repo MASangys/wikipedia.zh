@@ -1,5 +1,5 @@
 **AIDA64**是一个运行在[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")[操作系统上的系统信息](../Page/操作系统.md "wikilink")、诊断和审计程序，用于显示计算机的组件的详细信息。这些信息可以以[HTML](../Page/HTML.md "wikilink")、[CSV或](../Page/CSV.md "wikilink")[XML等格式保存到文件](../Page/XML.md "wikilink")。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统上的系统信息](../Page/操作系统.md "wikilink")、诊断和审计程序，用于显示计算机的组件的详细信息。这些信息可以以[HTML](../Page/HTML.md "wikilink")、[CSV或](https://zh.wikipedia.org/wiki/CSV "wikilink")[XML等格式保存到文件](../Page/XML.md "wikilink")。
 
 ## 历史
 
@@ -13,7 +13,7 @@ AIDA32在2004年3月24日停止了发展。\[1\]
 
 2004年4月,Miklós 被任命为Lavalys的软件工程研究与发展执行副总裁。
 
-AIDA32的继任者是Lavalys的商业化产品[EVEREST](../Page/EVEREST.md "wikilink")。\[2\]
+AIDA32的继任者是Lavalys的商业化产品[EVEREST](https://zh.wikipedia.org/wiki/EVEREST "wikilink")。\[2\]
 
 Lavalys发布Everest免费版直到2.20版本，但是仍可以在免费软件发布网站上获得。在2005年12月1日Everest免费家庭版（Everest
 Home Edition）停止了发展。

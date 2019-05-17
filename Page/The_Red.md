@@ -1,12 +1,13 @@
 《**The
-Red**》是[韓國](../Page/韓國.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[Red
-Velvet的首張韓語](../Page/Red_Velvet.md "wikilink")[正規專輯](../Page/音樂專輯.md "wikilink")，由[SM
-Entertainment於](../Page/SM_Entertainment.md "wikilink")2015年9月9日發行，主打曲為《Dumb
+Red**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
+Velvet的首張韓語](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[正規專輯](../Page/音樂專輯.md "wikilink")，由[SM
+Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2015年9月9日發行，主打曲為《Dumb
 Dumb》。
 
 ## 背景
 
-2015年9月4日，[SM Entertainment在Red](../Page/SM_Entertainment.md "wikilink")
+2015年9月4日，[SM
+Entertainment在Red](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 Velvet官方Instagram放上第一系列回歸照並宣布Red Velvet將帶著首張正規專輯《The
 Red》於9月9日回歸歌壇，主打歌為《Dumb
 Dumb》，並每日在官方Instagram上傳一則《Dumb Dumb》的預告片\[1\]。
@@ -21,14 +22,14 @@ app現場直播，而節目將定為五集。从4日至8日都发行了总共五
 Dumb》MV。
 
 9月9日，發行首張正規專輯《The Red》並公開主打歌《Dumb
-Dumb》的音源，當天在美國Billboard排行榜為第一，韓國GAON排行榜第一\[2\]。也再次在美國Billboard上登頂美國和全球9月份全多人觀看MV第一名\[3\]。而且也于美國[Billboard公開](../Page/Billboard.md "wikilink")2015年十大最佳KPOP專輯中，凴首張正規專輯《The
+Dumb》的音源，當天在美國Billboard排行榜為第一，韓國GAON排行榜第一\[2\]。也再次在美國Billboard上登頂美國和全球9月份全多人觀看MV第一名\[3\]。而且也于美國[Billboard公開](https://zh.wikipedia.org/wiki/Billboard "wikilink")2015年十大最佳KPOP專輯中，凴首張正規專輯《The
 Red》排行第7名\[4\]。
 
 ## 曲目
 
 ## 排行榜走勢
 
-  - [Gaon Chart](../Page/Gaon_Chart.md "wikilink")
+  - [Gaon Chart](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")
 
 | 排行榜                             | 頂峰位置 |
 | ------------------------------- | ---- |
@@ -39,14 +40,14 @@ Red》排行第7名\[4\]。
 
   - 音樂節目
 
-| 電視台                                        | 音樂節目                                                       | 頂峰位置 |
-| ------------------------------------------ | ---------------------------------------------------------- | ---- |
-| *[Mnet](../Page/Mnet媒體.md "wikilink")*     | *[M\! Countdown](../Page/M!_Countdown.md "wikilink")*      | 1    |
-| *[KBS](../Page/KBS第2頻道.md "wikilink")*     | *[Music Bank](../Page/KBS音樂銀行.md "wikilink")*              | 2    |
-| *[MBC](../Page/文化廣播_\(韓國\).md "wikilink")* | *[Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")*          | 2    |
-| *[SBS](../Page/SBS株式會社.md "wikilink")*     | *[人氣歌謠](../Page/人氣歌謠.md "wikilink")*                       | 1    |
-| **                                         | *[Show Champion](../Page/Show_Champion.md "wikilink")*     | 1    |
-| **                                         | *[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")* | 1    |
+| 電視台                                                           | 音樂節目                                                                     | 頂峰位置 |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------ | ---- |
+| *[Mnet](../Page/Mnet媒體.md "wikilink")*                        | *[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")* | 1    |
+| *[KBS](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")*     | *[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")*         | 2    |
+| *[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")* | *[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")*     | 2    |
+| *[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")*     | *[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")*                  | 1    |
+| **                                                            | *[Show Champion](../Page/Show_Champion.md "wikilink")*                   | 1    |
+| **                                                            | *[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")*               | 1    |
 
 ## 銷售及認證
 
@@ -58,10 +59,10 @@ Red》排行第7名\[4\]。
 
 ## 發行歷史
 
-| 發行地區 | 發行日期      | 發行方式                                                                | 唱片公司                                                       | 發行公司     |
-| ---- | --------- | ------------------------------------------------------------------- | ---------------------------------------------------------- | -------- |
-| 全球   | 2015年9月9日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [SM Entertainment](../Page/SM_Entertainment.md "wikilink") | KT Music |
-|      |           |                                                                     |                                                            |          |
+| 發行地區 | 發行日期      | 發行方式                                                                | 唱片公司                                                                          | 發行公司     |
+| ---- | --------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------- |
+| 全球   | 2015年9月9日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink") | KT Music |
+|      |           |                                                                     |                                                                               |          |
 
 ## 參考文獻
 

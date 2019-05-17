@@ -1,4 +1,4 @@
-《**-{zh-tw:波爾凱尼恩與機關人偶瑪機雅娜;zh-cn:波尔凯尼恩与机巧的玛机雅娜}-**》是[神奇寶貝動畫版的第十九部](../Page/神奇寶貝動畫版.md "wikilink")、同時是XY系列的第三部及最後一部電影版。標語為「**灼熱靈魂（魂心）的聲音有聽到嗎\!?**」，也是香港第二代小智[陳凱婷離職](../Page/陳凱婷.md "wikilink")[無綫後首部為小智配音的電影](../Page/無綫.md "wikilink")。
+《**-{zh-tw:波爾凱尼恩與機關人偶瑪機雅娜;zh-cn:波尔凯尼恩与机巧的玛机雅娜}-**》是[神奇寶貝動畫版的第十九部](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")、同時是XY系列的第三部及最後一部電影版。標語為「**灼熱靈魂（魂心）的聲音有聽到嗎\!?**」，也是香港第二代小智[陳凱婷離職](../Page/陳凱婷.md "wikilink")[無綫後首部為小智配音的電影](https://zh.wikipedia.org/wiki/無綫 "wikilink")。
 
 ## 劇情簡介
 
@@ -12,37 +12,37 @@
 
 ### 主要人物
 
-| 角色                                                                 | 配音員                                  | 介紹                               |
-| ------------------------------------------------------------------ | ------------------------------------ | -------------------------------- |
-| 日本                                                                 | 臺灣                                   | 香港                               |
-| [小智](../Page/小智.md "wikilink")（サトシ）                                | [松本梨香](../Page/松本梨香.md "wikilink")   | [汪世瑋](../Page/汪世瑋.md "wikilink") |
-| [-{zh-tw:莎莉娜;zh-cn:塞丽娜}-](../Page/莎莉娜_\(神奇寶貝\).md "wikilink")（セレナ） | [牧口真幸](../Page/牧口真幸.md "wikilink")   | [詹雅菁](../Page/詹雅菁.md "wikilink") |
-| [希特隆](../Page/希特隆_\(神奇寶貝\).md "wikilink")（シトロン）                    | [梶裕貴](../Page/梶裕貴.md "wikilink")     | [劉如蘋](../Page/劉如蘋.md "wikilink") |
-| 柚麗嘉（ユリーカ）                                                          | [伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink") | [林美秀](../Page/林美秀.md "wikilink") |
-| 小軟（プニちゃん）                                                          | [梶裕貴](../Page/梶裕貴.md "wikilink")     | [吳東原](../Page/吳東原.md "wikilink") |
-| 武藏（ムサシ）                                                            | [林原惠](../Page/林原惠.md "wikilink")     | [詹雅菁](../Page/詹雅菁.md "wikilink") |
-| 小次郎（コジロウ）                                                          | [三木眞一郎](../Page/三木眞一郎.md "wikilink") | [吳東原](../Page/吳東原.md "wikilink") |
-| 喵喵（ニャース）                                                           | [犬山犬子](../Page/犬山犬子.md "wikilink")   | [汪世瑋](../Page/汪世瑋.md "wikilink") |
+| 角色                                                                                    | 配音員                                                     | 介紹                                                  |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- |
+| 日本                                                                                    | 臺灣                                                      | 香港                                                  |
+| [小智](../Page/小智.md "wikilink")（サトシ）                                                   | [松本梨香](../Page/松本梨香.md "wikilink")                      | [汪世瑋](../Page/汪世瑋.md "wikilink")                    |
+| [-{zh-tw:莎莉娜;zh-cn:塞丽娜}-](https://zh.wikipedia.org/wiki/莎莉娜_\(神奇寶貝\) "wikilink")（セレナ） | [牧口真幸](../Page/牧口真幸.md "wikilink")                      | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| [希特隆](https://zh.wikipedia.org/wiki/希特隆_\(神奇寶貝\) "wikilink")（シトロン）                    | [梶裕貴](../Page/梶裕貴.md "wikilink")                        | [劉如蘋](../Page/劉如蘋.md "wikilink")                    |
+| 柚麗嘉（ユリーカ）                                                                             | [伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink")                    | [林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink") |
+| 小軟（プニちゃん）                                                                             | [梶裕貴](../Page/梶裕貴.md "wikilink")                        | [吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink") |
+| 武藏（ムサシ）                                                                               | [林原惠](../Page/林原惠.md "wikilink")                        | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 小次郎（コジロウ）                                                                             | [三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink") | [吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink") |
+| 喵喵（ニャース）                                                                              | [犬山犬子](../Page/犬山犬子.md "wikilink")                      | [汪世瑋](../Page/汪世瑋.md "wikilink")                    |
 
 ### 登場人物
 
-| 角色                            | 配音員                                  | 介紹                               |
-| ----------------------------- | ------------------------------------ | -------------------------------- |
-| 日本                            | 臺灣                                   | 香港                               |
-| 賈維斯（ジャービス）                    | [山寺宏一](../Page/山寺宏一.md "wikilink")   | [孫誠](../Page/孫誠.md "wikilink")   |
-| \-{zh-tw:奇美亞;zh-cn:齐米亚}-（キミア） | [松岡茉優](../Page/松岡茉優.md "wikilink")   | [錢欣郁](../Page/錢欣郁.md "wikilink") |
-| 拉凱爾（ラケル）                      | [中川翔子](../Page/中川翔子.md "wikilink")   | [龍顯蕙](../Page/龍顯蕙.md "wikilink") |
-| 道卡（ドーガ）                       | [加瀬康之](../Page/加瀬康之.md "wikilink")   | [吳東原](../Page/吳東原.md "wikilink") |
-| 乙紗（イーサ）                       | [東條加那子](../Page/東條加那子.md "wikilink") | [龍顯蕙](../Page/龍顯蕙.md "wikilink") |
-| 艾利法斯（エリファス）                   | [西村知道](../Page/西村知道.md "wikilink")   | [孫誠](../Page/孫誠.md "wikilink")   |
+| 角色                            | 配音員                                                     | 介紹                                                  |
+| ----------------------------- | ------------------------------------------------------- | --------------------------------------------------- |
+| 日本                            | 臺灣                                                      | 香港                                                  |
+| 賈維斯（ジャービス）                    | [山寺宏一](../Page/山寺宏一.md "wikilink")                      | [孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")   |
+| \-{zh-tw:奇美亞;zh-cn:齐米亚}-（キミア） | [松岡茉優](../Page/松岡茉優.md "wikilink")                      | [錢欣郁](../Page/錢欣郁.md "wikilink")                    |
+| 拉凱爾（ラケル）                      | [中川翔子](../Page/中川翔子.md "wikilink")                      | [龍顯蕙](../Page/龍顯蕙.md "wikilink")                    |
+| 道卡（ドーガ）                       | [加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink")   | [吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink") |
+| 乙紗（イーサ）                       | [東條加那子](https://zh.wikipedia.org/wiki/東條加那子 "wikilink") | [龍顯蕙](../Page/龍顯蕙.md "wikilink")                    |
+| 艾利法斯（エリファス）                   | [西村知道](../Page/西村知道.md "wikilink")                      | [孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")   |
 
 ### 傳說的神奇寶貝們
 
-| 角色            | 配音員                                          | 介紹                               |
-| ------------- | -------------------------------------------- | -------------------------------- |
-| 日本            | 臺灣                                           | 香港                               |
-| 波爾凱尼恩（ボルケニオン） | [市川染五郎](../Page/市川染五郎_\(七代目\).md "wikilink") | [于正昇](../Page/于正昇.md "wikilink") |
-| 瑪機雅娜（マギアナ）    | [寺崎裕香](../Page/寺崎裕香.md "wikilink")\[1\]\[2\] |                                  |
+| 角色            | 配音員                                                             | 介紹                               |
+| ------------- | --------------------------------------------------------------- | -------------------------------- |
+| 日本            | 臺灣                                                              | 香港                               |
+| 波爾凱尼恩（ボルケニオン） | [市川染五郎](https://zh.wikipedia.org/wiki/市川染五郎_\(七代目\) "wikilink") | [于正昇](../Page/于正昇.md "wikilink") |
+| 瑪機雅娜（マギアナ）    | [寺崎裕香](../Page/寺崎裕香.md "wikilink")\[1\]\[2\]                    |                                  |
 
 ## 音樂
 
@@ -55,12 +55,12 @@
 
   - 片尾曲：「**ポストに声を投げ入れて**」
       - 作詞：YUKI / 作曲：横山裕章 / 編曲：YUKI、玉井健二、百田留衣 /
-        歌：YUKI（[史詩唱片日本](../Page/史詩唱片日本.md "wikilink")）
+        歌：YUKI（[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")）
 
 ## 關聯項目
 
-  - [神奇寶貝動畫版](../Page/神奇寶貝動畫版.md "wikilink")
-  - [神奇寶貝動畫電影版](../Page/神奇寶貝動畫電影版.md "wikilink")
+  - [神奇寶貝動畫版](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")
+  - [神奇寶貝動畫電影版](https://zh.wikipedia.org/wiki/神奇寶貝動畫電影版 "wikilink")
 
 ## 備註
 

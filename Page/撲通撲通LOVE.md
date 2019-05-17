@@ -1,5 +1,5 @@
 《**撲通撲通
-LOVE**》（）（），[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/MBC.md "wikilink")2015年12月13日播出的54週年創社[特輯電視劇](../Page/MBC特輯電視劇.md "wikilink")，由[金瑟琪及](../Page/金瑟琪.md "wikilink")[尹斗俊主演](../Page/尹斗俊.md "wikilink")\[1\]
+LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/MBC "wikilink")2015年12月13日播出的54週年創社[特輯電視劇](https://zh.wikipedia.org/wiki/MBC特輯電視劇 "wikilink")，由[金瑟琪及](../Page/金瑟琪.md "wikilink")[尹斗俊主演](../Page/尹斗俊.md "wikilink")\[1\]
 。講述高三少女張丹菲（[金瑟琪](../Page/金瑟琪.md "wikilink")
 飾）與朝鮮時代世宗大王李裪（[尹斗俊](../Page/尹斗俊.md "wikilink")
 飾）之間的戀愛羅曼史，是一部能為想逃離不安現況的年輕世代帶來共鳴與勇氣的作品。
@@ -42,7 +42,7 @@ LOVE**》（）（），[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/M
 <td><p>世宗大王</p>
 <hr>
 <p>在公車上幫助丹菲撿書的人，還撿到了丹菲忘記帶下車的雨傘，就這樣，古代開始的姻緣持續下去了。</p></td>
-<td><p><a href="../Page/莊汶琦.md" title="wikilink">莊汶琦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莊汶琦" title="wikilink">莊汶琦</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -54,7 +54,7 @@ LOVE**》（）（），[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/M
 <td><p>世宗年間著名的文臣及音樂家</p>
 <hr>
 <p>電視上出現的帥氣歌手。</p></td>
-<td><p><a href="../Page/莊汶錡.md" title="wikilink">莊汶錡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莊汶錡" title="wikilink">莊汶錡</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -110,7 +110,7 @@ LOVE**》（）（），[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/M
 <td><center>
 <p><a href="../Page/金甲洙.md" title="wikilink">金甲洙</a></p></td>
 <td><p>張丹菲父親</p></td>
-<td><p><a href="../Page/黃喜.md" title="wikilink">黃喜</a>(判書)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃喜" title="wikilink">黃喜</a>(判書)</p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
 <tr class="even">
@@ -125,35 +125,36 @@ LOVE**》（）（），[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/M
 <p><a href="../Page/鄭奎洙.md" title="wikilink">鄭奎洙</a></p></td>
 <td><p>曉憲父親</p></td>
 <td><p>沈溫(府君院)</p></td>
-<td><p><a href="../Page/孫誠.md" title="wikilink">孫誠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫誠" title="wikilink">孫誠</a></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
 <td><p>丹菲的數學老師</p></td>
 <td><p>飾演(內官)</p></td>
-<td><p><a href="../Page/莊汶錡.md" title="wikilink">莊汶錡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莊汶錡" title="wikilink">莊汶錡</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
 <td><p>小孩子</p></td>
 <td><p>朴炎弟弟</p></td>
-<td><p><a href="../Page/蕭秀玲.md" title="wikilink">蕭秀玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蕭秀玲" title="wikilink">蕭秀玲</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ## 收視率
 
-| 集數                                           | 播出日期          | 收視率  |
-| -------------------------------------------- | ------------- | ---- |
-| [AGB](../Page/AGB尼爾森.md "wikilink") 收視率\[2\] | TNmS 收視率\[3\] |      |
-| 1                                            | 2015/12/13    | 3.3% |
-| 2                                            | 2015/12/20    | 2.5% |
+| 集數                                                              | 播出日期          | 收視率  |
+| --------------------------------------------------------------- | ------------- | ---- |
+| [AGB](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink") 收視率\[2\] | TNmS 收視率\[3\] |      |
+| 1                                                               | 2015/12/13    | 3.3% |
+| 2                                                               | 2015/12/20    | 2.5% |
 
 ## 其他搭配歌曲
 
   - 台灣[東森戲劇台版本](../Page/東森戲劇台.md "wikilink")
-      - 片頭曲：[李建軒](../Page/李建軒.md "wikilink")《I need to be loved》
+      - 片頭曲：[李建軒](https://zh.wikipedia.org/wiki/李建軒 "wikilink")《I need
+        to be loved》
 
 ## 腳註
 

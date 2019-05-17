@@ -27,7 +27,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/亞克傳承系列.md" title="wikilink">Arc the Lad: Kijin Fukkatsu</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞克傳承系列" title="wikilink">Arc the Lad: Kijin Fukkatsu</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -45,7 +45,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/数码宝贝系列.md" title="wikilink">Battle Spirits: Digimon Frontier</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/数码宝贝系列" title="wikilink">Battle Spirits: Digimon Frontier</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -90,7 +90,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Dicing_Knight_Period.md" title="wikilink">Dicing Knight Period</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dicing_Knight_Period" title="wikilink">Dicing Knight Period</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -108,7 +108,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/数码宝贝系列.md" title="wikilink">Digimon Card Game Ver. WS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/数码宝贝系列" title="wikilink">Digimon Card Game Ver. WS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162,7 +162,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/数码宝贝系列.md" title="wikilink">Digital Monsters: D-Project</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/数码宝贝系列" title="wikilink">Digital Monsters: D-Project</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -225,7 +225,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Final_Lap.md" title="wikilink">Final Lap Special</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Final_Lap" title="wikilink">Final Lap Special</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -237,13 +237,13 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 <td><p>Flash Koibito-Kun</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/光文社.md" title="wikilink">Kobunsha</a></p></td>
-<td><p><a href="../Page/光文社.md" title="wikilink">Kobunsha</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光文社" title="wikilink">Kobunsha</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光文社" title="wikilink">Kobunsha</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Front_Mission_(video_game).md" title="wikilink">Front Mission</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Front_Mission_(video_game)" title="wikilink">Front Mission</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -279,7 +279,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Golden_Axe.md" title="wikilink">Golden Axe</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Golden_Axe" title="wikilink">Golden Axe</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -297,7 +297,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Guilty_Gear_Petit.md" title="wikilink">Guilty Gear Petit</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Guilty_Gear_Petit" title="wikilink">Guilty Gear Petit</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -306,7 +306,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Guilty_Gear_Petit_2.md" title="wikilink">Guilty Gear Petit 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Guilty_Gear_Petit_2" title="wikilink">Guilty Gear Petit 2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -315,7 +315,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Gunpey_EX.md" title="wikilink">Gunpey EX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gunpey_EX" title="wikilink">Gunpey EX</a></p></td>
 <td></td>
 <td></td>
 <td><p>Koto Laboratory</p></td>
@@ -324,7 +324,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Hanjuku_Hero#Hanjuku_Hero:_Aa,_Sekaiyo_Hanjukunare...!.md" title="wikilink">Hanjuku Hero: Aa, Sekaiyo Hanjukunare...!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hanjuku_Hero#Hanjuku_Hero:_Aa,_Sekaiyo_Hanjukunare...!" title="wikilink">Hanjuku Hero: Aa, Sekaiyo Hanjukunare...!</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,7 +351,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/HUNTER×HUNTER.md" title="wikilink">Hunter × Hunter: GI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HUNTER×HUNTER" title="wikilink">Hunter × Hunter: GI</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -360,7 +360,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/HUNTER×HUNTER.md" title="wikilink">Hunter × Hunter: Michikareshi Mono</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HUNTER×HUNTER" title="wikilink">Hunter × Hunter: Michikareshi Mono</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -369,7 +369,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/HUNTER×HUNTER.md" title="wikilink">Hunter × Hunter: Sorezore no Ketsui</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HUNTER×HUNTER" title="wikilink">Hunter × Hunter: Sorezore no Ketsui</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -378,7 +378,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/犬夜叉.md" title="wikilink">Inuyasha 2</a> (Canceled)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/犬夜叉" title="wikilink">Inuyasha 2</a> (Canceled)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -387,7 +387,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/犬夜叉.md" title="wikilink">Inuyasha: Fuuun Emaki</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/犬夜叉" title="wikilink">Inuyasha: Fuuun Emaki</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -396,7 +396,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/犬夜叉.md" title="wikilink">Inuyasha: Kagome no Sengoku Yume Hiki</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/犬夜叉" title="wikilink">Inuyasha: Kagome no Sengoku Yume Hiki</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -405,7 +405,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/犬夜叉.md" title="wikilink">Inuyasha: Kagome no Yume Nikki</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/犬夜叉" title="wikilink">Inuyasha: Kagome no Yume Nikki</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -414,7 +414,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Judgement_Silversword_-Rebirth_Edition-.md" title="wikilink">Judgement Silversword -Rebirth Edition-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Judgement_Silversword_-Rebirth_Edition-" title="wikilink">Judgement Silversword -Rebirth Edition-</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -531,7 +531,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/秋之回憶系列.md" title="wikilink">Memories Off Festa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/秋之回憶系列" title="wikilink">Memories Off Festa</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,7 +558,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Mr._Driller.md" title="wikilink">Mr. Driller</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mr._Driller" title="wikilink">Mr. Driller</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -567,7 +567,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Namco_Super_Wars.md" title="wikilink">Namco Super Wars</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Super_Wars" title="wikilink">Namco Super Wars</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -576,7 +576,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Naruto:_Konoha_Ninpouchou.md" title="wikilink">Naruto: Konoha Ninpouchou</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naruto:_Konoha_Ninpouchou" title="wikilink">Naruto: Konoha Ninpouchou</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -594,7 +594,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/One_Piece:_Chopper_no_Daibouken.md" title="wikilink">One Piece: Chopper no Daibouken</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Piece:_Chopper_no_Daibouken" title="wikilink">One Piece: Chopper no Daibouken</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -603,7 +603,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/One_Piece:_Niji_no_Shima_Densetsu.md" title="wikilink">One Piece: Niji no Shima Densetsu</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Piece:_Niji_no_Shima_Densetsu" title="wikilink">One Piece: Niji no Shima Densetsu</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -612,7 +612,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/One_Piece:_Swan_Colosseum.md" title="wikilink">One Piece: Swan Colosseum</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Piece:_Swan_Colosseum" title="wikilink">One Piece: Swan Colosseum</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -621,7 +621,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/One_Piece:_Treasure_Wars.md" title="wikilink">One Piece: Treasure Wars</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Piece:_Treasure_Wars" title="wikilink">One Piece: Treasure Wars</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -630,7 +630,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/One_Piece:_Treasure_Wars_2.md" title="wikilink">One Piece: Treasure Wars 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Piece:_Treasure_Wars_2" title="wikilink">One Piece: Treasure Wars 2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -657,7 +657,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Rhyme_Rider_Kerorican.md" title="wikilink">Rhyme Rider Kerorican</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rhyme_Rider_Kerorican" title="wikilink">Rhyme Rider Kerorican</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -675,7 +675,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Rockman_EXE_N1_Battle.md" title="wikilink">Rockman EXE N1 Battle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rockman_EXE_N1_Battle" title="wikilink">Rockman EXE N1 Battle</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -684,7 +684,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Rockman_EXE_WS.md" title="wikilink">Rockman EXE WS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rockman_EXE_WS" title="wikilink">Rockman EXE WS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -693,7 +693,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/浪漫沙加.md" title="wikilink">Romancing SaGa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浪漫沙加" title="wikilink">Romancing SaGa</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -804,7 +804,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 <td><p>Soroban Gu</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Kaga_Create.md" title="wikilink">Kaga Tech</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kaga_Create" title="wikilink">Kaga Tech</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -890,7 +890,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/巫术：疯狂领主的试验场.md" title="wikilink">巫术：疯狂领主的试验场</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巫术：疯狂领主的试验场" title="wikilink">巫术：疯狂领主的试验场</a></p></td>
 <td><p>Wizardry</p></td>
 <td></td>
 <td></td>
@@ -918,7 +918,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Devil_Dice.md" title="wikilink">XI (sai) Little</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Devil_Dice" title="wikilink">XI (sai) Little</a></p></td>
 <td></td>
 <td></td>
 <td></td>

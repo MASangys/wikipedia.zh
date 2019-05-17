@@ -1,8 +1,9 @@
-***Arumecla***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[美灰蝶族裡的一個](../Page/美灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分佈於中南美洲\[1\]。
+***Arumecla***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[美灰蝶族裡的一個](../Page/美灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於中南美洲\[1\]。
 
 ## 物種
 
-  - [雅俏灰蝶](../Page/雅俏灰蝶.md "wikilink") *Arumecla aruma*
+  - [雅俏灰蝶](https://zh.wikipedia.org/wiki/雅俏灰蝶 "wikilink") *Arumecla
+    aruma*
   - *Arumecla galliena*
   - *Arumecla nisaee*
   - 4個未被描述之物種\[2\]

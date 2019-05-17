@@ -1,4 +1,4 @@
-**女同性恋，男同性恋，双性恋，跨性别**（**[LGBT](../Page/LGBT.md "wikilink")**）人士在**[越南](../Page/越南.md "wikilink")**可能面临非LGBT居民没有经历过的法律挑战。男性和女性的同性性活动在越南历史上是合法的，从来没有被定为犯罪。\[1\]然而，同性伴侣和家庭没有资格获得提供给异性夫妇的法律保护。尽管因为越南传统[同性恋被普遍认为是](../Page/同性恋.md "wikilink")[禁忌](../Page/禁忌.md "wikilink")，但在21世纪人们对LGBT权利的认识已经上升。2012年8月5日越南第一次[骄傲游行在](../Page/骄傲游行.md "wikilink")[河内举行](../Page/河内.md "wikilink")。\[2\]
+**女同性恋，男同性恋，双性恋，跨性别**（**[LGBT](../Page/LGBT.md "wikilink")**）人士在**[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")**可能面临非LGBT居民没有经历过的法律挑战。男性和女性的同性性活动在越南历史上是合法的，从来没有被定为犯罪。\[1\]然而，同性伴侣和家庭没有资格获得提供给异性夫妇的法律保护。尽管因为越南传统[同性恋被普遍认为是](https://zh.wikipedia.org/wiki/同性恋 "wikilink")[禁忌](../Page/禁忌.md "wikilink")，但在21世纪人们对LGBT权利的认识已经上升。2012年8月5日越南第一次[骄傲游行在](../Page/骄傲游行.md "wikilink")[河内举行](https://zh.wikipedia.org/wiki/河内 "wikilink")。\[2\]
 
 ## 关于同性性行为法
 
@@ -42,22 +42,22 @@ Tram成为第一个被越南当局在法律上承认的跨性别女性。\[26\]\
 
 ## 概况
 
-|                                                   |                                                                                                     |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 同性性行为合法                                           | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（一直合法）        |
-| 同意年龄平等                                            | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（一直合法）        |
-| 反就业歧视法律                                           | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 提供商品和服务的反歧视法律                                     | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 在所有其他领域的反歧视法律（包括间接歧视，仇恨言论）                        | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 同性婚姻                                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 同性伴侣关系                                            | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 同性伴侣收养继子女                                         | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 同性伴侣联合收养                                          | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 同性恋军人允许公开服役                                       | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")              |
-| 有权改变法律性别                                          | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")              |
-| 女同性恋试管婴儿                                          | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| 男同性恋情侣商业代孕                                        | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
-| [男男性接触人群](../Page/男男性接触人群.md "wikilink")（MSM）允许献血 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（无法律禁止）\[34\] |
+|                                                                      |                                                                                                     |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 同性性行为合法                                                              | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（一直合法）        |
+| 同意年龄平等                                                               | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（一直合法）        |
+| 反就业歧视法律                                                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 提供商品和服务的反歧视法律                                                        | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 在所有其他领域的反歧视法律（包括间接歧视，仇恨言论）                                           | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 同性婚姻                                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 同性伴侣关系                                                               | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 同性伴侣收养继子女                                                            | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 同性伴侣联合收养                                                             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 同性恋军人允许公开服役                                                          | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")              |
+| 有权改变法律性别                                                             | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")              |
+| 女同性恋试管婴儿                                                             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| 男同性恋情侣商业代孕                                                           | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                       |
+| [男男性接触人群](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")（MSM）允许献血 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（无法律禁止）\[34\] |
 
 ## 另见
 

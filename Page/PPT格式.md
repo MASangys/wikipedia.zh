@@ -7,13 +7,14 @@ PowerPoint软件](../Page/Microsoft_PowerPoint.md "wikilink")[簡報文件的常
 
   - [Microsoft PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")
   - [OpenOffice.org Writer](../Page/OpenOffice.org_Writer.md "wikilink")
-  - [LibreOffice Writer](../Page/LibreOffice#Writer.md "wikilink")
+  - [LibreOffice
+    Writer](https://zh.wikipedia.org/wiki/LibreOffice#Writer "wikilink")
   - [WPS Office](../Page/WPS_Office.md "wikilink")
 
 ## 類似文件格式
 
   - PPTX – [Microsoft Office Open
-    XML](../Page/Microsoft_Office_Open_XML.md "wikilink")
+    XML](https://zh.wikipedia.org/wiki/Microsoft_Office_Open_XML "wikilink")
   - POT（PowerPoint 97-2003 范本）
   - PPS（PowerPoint 97-2003 放映）
   - PPTM（PowerPoint 启用宏的 文件）

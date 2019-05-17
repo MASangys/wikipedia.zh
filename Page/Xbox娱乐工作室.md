@@ -5,22 +5,23 @@
 ## 旗下作品
 
   - *Every Street United* (2014)
-  - *[Miss Teen USA 2014](../Page/Miss_Teen_USA_2014.md "wikilink")*
+  - *[Miss Teen USA
+    2014](https://zh.wikipedia.org/wiki/Miss_Teen_USA_2014 "wikilink")*
     (2014, 与[Miss Universe
-    Organization合作](../Page/Miss_Universe_Organization.md "wikilink"))
+    Organization合作](https://zh.wikipedia.org/wiki/Miss_Universe_Organization "wikilink"))
   - *Signal to Noise* (2014)
   - *Atari: Game Over* (2014)
   - *Halo Nightfall* (2014, 与[Scott Free
-    Productions合作](../Page/Scott_Free_Productions.md "wikilink"))
+    Productions合作](https://zh.wikipedia.org/wiki/Scott_Free_Productions "wikilink"))
   - *Halo: The Television Series* (2015, 与[Amblin
-    Entertainment合作](../Page/Amblin_Entertainment.md "wikilink"))
+    Entertainment合作](https://zh.wikipedia.org/wiki/Amblin_Entertainment "wikilink"))
 
 ### 已取消项目
 
   - *Blake's 7*
   - *Untitled Nas autobiography*
-  - *[Humans](../Page/Humans_\(TV_series\).md "wikilink")* (picked up by
-    AMC)
+  - *[Humans](https://zh.wikipedia.org/wiki/Humans_\(TV_series\) "wikilink")*
+    (picked up by AMC)
   - *Life's Little Miracles USA*
   - *Miss Teen Universe*
 

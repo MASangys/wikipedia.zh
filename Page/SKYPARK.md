@@ -33,10 +33,11 @@ garden Lawn area 2017.jpg|天台花園「THE LAWN」草坪
 
 [The_FOREST_Atrium_201709.jpg](https://zh.wikipedia.org/wiki/File:The_FOREST_Atrium_201709.jpg "fig:The_FOREST_Atrium_201709.jpg")
 物業基座1至3樓為商場THE
-FOREST，面積逾5萬平方呎，以日本代官山的特色錯落建築物作設計藍本，並以運動文化為主題，於2017年7月開幕地下部份。地下租戶包括[Adidas](../Page/Adidas.md "wikilink")、[Nike](../Page/Nike.md "wikilink")、Jordan、允記及[PUMA等](../Page/PUMA.md "wikilink")。1樓至2樓租戶包括[asics](../Page/asics.md "wikilink")、C.P.U.、[Ray
-Ban](../Page/Ray_Ban.md "wikilink")、Champak Restaurant by ATUM
-東南亞菜餐廳、Green Common、[hmv](../Page/HMV.md "wikilink")、Big
-Pack、The Overlander、AIGLE、EGG Tart、Pops OPTIC及MOS Cafe等。
+FOREST，面積逾5萬平方呎，以日本代官山的特色錯落建築物作設計藍本，並以運動文化為主題，於2017年7月開幕地下部份。地下租戶包括[Adidas](https://zh.wikipedia.org/wiki/Adidas "wikilink")、[Nike](https://zh.wikipedia.org/wiki/Nike "wikilink")、Jordan、允記及[PUMA等](../Page/PUMA.md "wikilink")。1樓至2樓租戶包括[asics](https://zh.wikipedia.org/wiki/asics "wikilink")、C.P.U.、[Ray
+Ban](https://zh.wikipedia.org/wiki/Ray_Ban "wikilink")、Champak
+Restaurant by ATUM 東南亞菜餐廳、Green
+Common、[hmv](../Page/HMV.md "wikilink")、Big Pack、The
+Overlander、AIGLE、EGG Tart、Pops OPTIC及MOS Cafe等。
 
 The FOREST Outside view 201709.jpg|The FOREST 外貌 The FOREST GF Shops
 201707.jpg|地下商店 The FOREST Level 1 Green Common view

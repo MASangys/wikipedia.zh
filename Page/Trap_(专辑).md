@@ -1,4 +1,4 @@
-《**Trap**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林峯的第](../Page/林峯.md "wikilink")7張粵語專輯，於2016年3月23日發行。唱片在推出一星期後已獲白金銷量。\[1\]
+《**Trap**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林峯的第](https://zh.wikipedia.org/wiki/林峯 "wikilink")7張粵語專輯，於2016年3月23日發行。唱片在推出一星期後已獲白金銷量。\[1\]
 
 ## 曲目
 

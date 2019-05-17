@@ -1,11 +1,11 @@
 **lftp** 是一款[类 Unix
 系统下](../Page/类Unix系统.md "wikilink")[命令行界面的](../Page/命令行界面.md "wikilink") [FTP
 客户端软件](../Page/FTP客户端比较.md "wikilink")，作者是 Alexander Lukyanov
-，在 [GNU通用公共许可证下发布](../Page/GNU通用公共许可证.md "wikilink")。除了 [FTP](../Page/文件传输协议.md "wikilink") 外，还支持 [FTPS](../Page/FTPS.md "wikilink") 、 [HTTP](../Page/超文本传输协议.md "wikilink") 、 [HTTPS](../Page/超文本传输安全协议.md "wikilink") 、 [SFTP](../Page/SSH文件传输协议.md "wikilink") 、 [FXP](../Page/文件交换协议.md "wikilink")  等多种协议。此外，
+，在 [GNU通用公共许可证下发布](../Page/GNU通用公共许可证.md "wikilink")。除了 [FTP](../Page/文件传输协议.md "wikilink") 外，还支持 [FTPS](../Page/FTPS.md "wikilink") 、 [HTTP](../Page/超文本传输协议.md "wikilink") 、 [HTTPS](../Page/超文本传输安全协议.md "wikilink") 、 [SFTP](../Page/SSH文件传输协议.md "wikilink") 、 [FXP](https://zh.wikipedia.org/wiki/文件交换协议 "wikilink")  等多种协议。此外，
 lftp 也內含一个简单的 [BitTorrent](../Page/BitTorrent_\(协议\).md "wikilink") 客户端。
 
 lftp 提供了一个类似 [Unix
-shell](../Page/Unix_shell.md "wikilink") 的用户界面，用户可以在互动模式下运行，也可以直接使用[脚本操作](../Page/腳本.md "wikilink")。
+shell](../Page/Unix_shell.md "wikilink") 的用户界面，用户可以在互动模式下运行，也可以直接使用[脚本操作](https://zh.wikipedia.org/wiki/腳本 "wikilink")。
 
 lftp 亦支持多线程下载。
 
@@ -34,6 +34,6 @@ lftp 最初是 *ftpclass package *的一部份。渐渐地，它成为一个拥
   - [LftpFS](http://lftpfs.sf.net/) 基由
     [FUSE](../Page/FUSE.md "wikilink") 及 lftp 的文件管理系统。
   - [lftp-gtk](https://web.archive.org/web/20120324125612/http://www.lftp-gtk.com/)
-    lftp 的 [GUI](../Page/GUI.md "wikilink") 。
+    lftp 的 [GUI](https://zh.wikipedia.org/wiki/GUI "wikilink") 。
 
 [Category:HTTP客户端](https://zh.wikipedia.org/wiki/Category:HTTP客户端 "wikilink")

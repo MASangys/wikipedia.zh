@@ -1,8 +1,9 @@
-***Hemiolaus***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[旖灰蝶族裡的一個](../Page/旖灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。共有6個物種，分佈於馬達加斯加和非洲東部及南部\[1\]。
+***Hemiolaus***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[旖灰蝶族裡的一個](../Page/旖灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有6個物種，分佈於馬達加斯加和非洲東部及南部\[1\]。
 
 ## 物種
 
-  - [淡紫瑤灰蝶](../Page/淡紫瑤灰蝶.md "wikilink") *Hemiolaus caeculus*
+  - [淡紫瑤灰蝶](https://zh.wikipedia.org/wiki/淡紫瑤灰蝶 "wikilink") *Hemiolaus
+    caeculus*
   - *Hemiolaus ceres*
   - *Hemiolaus cobaltina*
   - *Hemiolaus margites*

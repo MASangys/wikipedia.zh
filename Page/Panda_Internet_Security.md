@@ -1,4 +1,4 @@
-**熊貓雲端防毒軟體**是[熊貓安全公司推出的](../Page/熊貓安全公司.md "wikilink")[防毒產品之一](../Page/防毒軟體.md "wikilink")，分免費版和付費版兩種版本。它是一個基於[雲端技術的軟體](../Page/雲端運算.md "wikilink")，也就是說，檔案掃描在遠端的伺服器上進行，而不會佔用使用者電腦的資源。熊貓安全公司的「集體智慧」（Collective
+**熊貓雲端防毒軟體**是[熊貓安全公司推出的](https://zh.wikipedia.org/wiki/熊貓安全公司 "wikilink")[防毒產品之一](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")，分免費版和付費版兩種版本。它是一個基於[雲端技術的軟體](../Page/雲端運算.md "wikilink")，也就是說，檔案掃描在遠端的伺服器上進行，而不會佔用使用者電腦的資源。熊貓安全公司的「集體智慧」（Collective
 Intelligence）技術是該軟體的基礎\[1\]
 。該軟體可以執行手動的系統掃描，或持續在背景常駐以提供即時保護對抗病毒和惡意網站，但也會稍微拖慢系統速度\[2\]
 。
@@ -30,14 +30,14 @@ Softpedia的評測說熊貓雲端防毒軟體擁有很高的偵測率，但沒�
 
 ## 授權許可
 
-免費版的熊貓雲端防毒軟體只允許在[公立學校](../Page/公立學校.md "wikilink")、非政府組織、非營利組織，和個人家庭中使用\[12\]。
+免費版的熊貓雲端防毒軟體只允許在[公立學校](https://zh.wikipedia.org/wiki/公立學校 "wikilink")、非政府組織、非營利組織，和個人家庭中使用\[12\]。
 
 ## 競爭者
 
 其他雲端防毒軟體廠商如下：
 
   - [360 Total Security](../Page/360_Total_Security.md "wikilink")
-  - [Immunet](../Page/Immunet.md "wikilink")
+  - [Immunet](https://zh.wikipedia.org/wiki/Immunet "wikilink")
   - [Comodo Cloud Scanner](../Page/科摩多网络安全套装.md "wikilink")
   - PC Tools
   - [赛门铁克](../Page/赛门铁克.md "wikilink")

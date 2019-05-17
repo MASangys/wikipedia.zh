@@ -1,5 +1,5 @@
-《**膽小鬼LINE**》（）是[日本](../Page/日本.md "wikilink")[偶像團體](../Page/日本偶像.md "wikilink")[SKE48的第](../Page/SKE48.md "wikilink")19張[單曲](../Page/單曲.md "wikilink")，2016年3月30日由[avex
-trax發行](../Page/avex_trax.md "wikilink")。
+《**膽小鬼LINE**》（）是[日本](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48的第](../Page/SKE48.md "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2016年3月30日由[avex
+trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -7,7 +7,7 @@ trax發行](../Page/avex_trax.md "wikilink")。
 D\[4\]、劇場版，星光樂園版，6個版本，其中Type
 A、B、C、D四個標準版本還分別推出了只有唱片上市初期限期發行的初回限定版，與長期發行的通常版，作詞為[秋元康](../Page/秋元康.md "wikilink")。其中，《膽小鬼LINE》和《沒有望遠鏡的天文台》收錄於所有版本，歌曲直白地描述「直接向喜歡的人傳達愛意」的重要性，聽了彷彿有就會有勇氣將自己的心情傳達出去！此曲也是動畫電影《[星光樂園
 大家的憧憬♪
-去吧☆星光巴黎](../Page/星光樂園#星光樂園_大家的憧憬♪_去吧☆星光巴黎.md "wikilink")》的主題曲。《他有女朋友》收錄於Type
+去吧☆星光巴黎](https://zh.wikipedia.org/wiki/星光樂園#星光樂園_大家的憧憬♪_去吧☆星光巴黎 "wikilink")》的主題曲。《他有女朋友》收錄於Type
 A中，《接吻位置》收錄於Type B中，《Is that your secret?》收錄於Type C中，《旅途中》收錄於Type
 D中，是宫泽佐江的畢業歌曲。全碟填詞為秋元康。Type A和Type B收錄了其音樂錄影帶和特別影片《SKE48
 倒數公演2015→2016》；Type C和Type D收錄了其音樂錄影帶和特別影片《SKE48 無法忘懷的大忘年會2015》。
@@ -53,14 +53,14 @@ D中，是宫泽佐江的畢業歌曲。全碟填詞為秋元康。Type A和Type
   - Team
     KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、惣田紗莉渚、[高柳明音](../Page/高柳明音.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")
   - Team
-    E：[木本花音](../Page/木本花音.md "wikilink")、熊崎晴香、後藤楽楽、[柴田阿彌](../Page/柴田阿彌.md "wikilink")、菅原茉椰、[須田亜香里](../Page/須田亜香里.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")
+    E：[木本花音](../Page/木本花音.md "wikilink")、熊崎晴香、後藤楽楽、[柴田阿彌](https://zh.wikipedia.org/wiki/柴田阿彌 "wikilink")、菅原茉椰、[須田亜香里](https://zh.wikipedia.org/wiki/須田亜香里 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")
 
 ### 他有女朋友
 
 （中心成員：矢方美紀）
 
   - Team
-    S：東李苑、犬塚朝奈、大矢真那、後藤理沙子、杉山愛佳、竹内舞、都築里佳、野口由芽、野島樺乃、二村春香、松井珠理奈、松本慈子、[宮前杏実](../Page/宮前杏実.md "wikilink")、[矢方美紀](../Page/矢方美紀.md "wikilink")、[山内鈴蘭](../Page/山内鈴蘭.md "wikilink")、山田樹奈
+    S：東李苑、犬塚朝奈、大矢真那、後藤理沙子、杉山愛佳、竹内舞、都築里佳、野口由芽、野島樺乃、二村春香、松井珠理奈、松本慈子、[宮前杏実](https://zh.wikipedia.org/wiki/宮前杏実 "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、山田樹奈
   - Team S / AKB48 Team 4：北川綾巴
 
 ### 接吻位置
@@ -86,7 +86,7 @@ D中，是宫泽佐江的畢業歌曲。全碟填詞為秋元康。Type A和Type
   - Team KII：江籠裕奈、大場美奈、高柳明音、松村香織
   - Team E：熊崎晴香、後藤楽楽、柴田阿弥、須田亜香里
   - NMB48 Team BII：[梅田彩佳](../Page/梅田彩佳.md "wikilink")
-  - AKB48毕业成员：[秋元才加](../Page/秋元才加.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[増田有華](../Page/増田有華.md "wikilink")
+  - AKB48毕业成员：[秋元才加](../Page/秋元才加.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")
 
 ### 沒有望遠鏡的天文台
 

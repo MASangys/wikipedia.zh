@@ -1,5 +1,5 @@
 **Panasonic
-EB-X400**是[Panasonic少數發表的折疊型手機](../Page/Panasonic.md "wikilink")。擁有30萬畫素及自行研發的小遊戲[高爾夫](../Page/高爾夫.md "wikilink")。在當時引起日本當地民眾為玩遊戲而購買此款手機。\[1\]\[2\]\[3\]
+EB-X400**是[Panasonic少數發表的折疊型手機](https://zh.wikipedia.org/wiki/Panasonic "wikilink")。擁有30萬畫素及自行研發的小遊戲[高爾夫](https://zh.wikipedia.org/wiki/高爾夫 "wikilink")。在當時引起日本當地民眾為玩遊戲而購買此款手機。\[1\]\[2\]\[3\]
 
 ## 參考資料
 

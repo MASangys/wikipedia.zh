@@ -4,8 +4,8 @@ YouTube](https://www.youtube.com/watch?v=oG8RPFnQstY) }}
 
 ，是由[万代南梦宫娱乐於](../Page/万代南梦宫娱乐.md "wikilink")2016年6月30日在[PlayStation
 3用及](../Page/PlayStation_3.md "wikilink")[PlayStation
-4上發售的回合制](../Page/PlayStation_4.md "wikilink")[戰略角色扮演遊戲](../Page/戰略角色扮演遊戲.md "wikilink")。本作是由《[超級機械人大戰系列](../Page/超級機械人大戰系列.md "wikilink")》作品中登場的原創角色構成的OG系列作品之一，為超級機械人大戰系列25周年記念作品的第一彈。宣傳詞為「超級機械人大戰OG，新篇章
-自月球與時空門（超次元之門）而來，前所未有的災難――」。本作為《[超級機械人大戰系列](../Page/超級機械人大戰系列.md "wikilink")》首次推出繁體中文版，於2016年7月7日發售\[1\]。
+4上發售的回合制](../Page/PlayStation_4.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本作是由《[超級機械人大戰系列](https://zh.wikipedia.org/wiki/超級機械人大戰系列 "wikilink")》作品中登場的原創角色構成的OG系列作品之一，為超級機械人大戰系列25周年記念作品的第一彈。宣傳詞為「超級機械人大戰OG，新篇章
+自月球與時空門（超次元之門）而來，前所未有的災難――」。本作為《[超級機械人大戰系列](https://zh.wikipedia.org/wiki/超級機械人大戰系列 "wikilink")》首次推出繁體中文版，於2016年7月7日發售\[1\]。
 
 ## 參戰作品
 
@@ -20,11 +20,11 @@ YouTube](https://www.youtube.com/watch?v=oG8RPFnQstY) }}
       - [超級機器人大戰A](../Page/超級機器人大戰A.md "wikilink")
       - [超級機器人大戰R](../Page/超級機器人大戰R.md "wikilink")
       - [超級機器人大戰D](../Page/超級機器人大戰D.md "wikilink")
-      - ☆[超級機械人大戰J](../Page/超級機械人大戰J.md "wikilink")
+      - ☆[超級機械人大戰J](https://zh.wikipedia.org/wiki/超級機械人大戰J "wikilink")
   - 其他超級機械人大戰系列遊戲作品
       - [第4次超級機器人大戰](../Page/第4次超級機器人大戰.md "wikilink")/[F/F完結篇](../Page/超級機器人大戰F.md "wikilink")
 
-      - [魔装機神系列](../Page/魔裝機神.md "wikilink")
+      - [魔装機神系列](https://zh.wikipedia.org/wiki/魔裝機神 "wikilink")
 
       - /
 
@@ -63,12 +63,12 @@ YouTube](https://www.youtube.com/watch?v=oG8RPFnQstY) }}
   - EXEX凶鳥（第2次超級機械人大戰OG）
   - 空之騎士（超級機械人大戰D）
   - 超軍神（第2次超級機械人大戰α）
-  - [SRX](../Page/SRX計画#SRX.md "wikilink")（新超級機械人大戰）
+  - [SRX](https://zh.wikipedia.org/wiki/SRX計画#SRX "wikilink")（新超級機械人大戰）
 
 <!-- end list -->
 
   - 初回限定版
-    只有PS4版。由[大張正己設計](../Page/大張正己.md "wikilink")。
+    只有PS4版。由[大張正己設計](https://zh.wikipedia.org/wiki/大張正己 "wikilink")。
 
 <!-- end list -->
 
@@ -86,7 +86,8 @@ Door」。
 
 ## 關連作品
 
-  - [PROJECT X ZONE](../Page/PROJECT_X_ZONE.md "wikilink")
+  - [PROJECT X
+    ZONE](https://zh.wikipedia.org/wiki/PROJECT_X_ZONE "wikilink")
 
 ## 註解
 

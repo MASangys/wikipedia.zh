@@ -1,8 +1,8 @@
 **三星TEC
-12**（）是一款由[美国槍械製造商](../Page/美国.md "wikilink")[三星運動武器公司所設計和生產的可](../Page/三星運動武器公司.md "wikilink")[泵動及](../Page/泵动式.md "wikilink")[半自動式兩用](../Page/半自動霰彈槍.md "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](../Page/霰彈槍.md "wikilink")，發射[12鉛徑霰彈](../Page/霰彈.md "wikilink")。
+12**（）是一款由[美国槍械製造商](../Page/美国.md "wikilink")[三星運動武器公司所設計和生產的可](https://zh.wikipedia.org/wiki/三星運動武器公司 "wikilink")[泵動及](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[半自動式兩用](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](https://zh.wikipedia.org/wiki/鎮暴霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 三星TEC
-12比較特別之處是其可選擇半自動或泵動運作的雙操作模式，在具有半自動霰彈槍的連射能力的同時還保有泵动式的可靠性和[彈藥兼容性](../Page/彈藥.md "wikilink")。
+12比較特別之處是其可選擇半自動或泵動運作的雙操作模式，在具有半自動霰彈槍的連射能力的同時還保有泵动式的可靠性和[彈藥兼容性](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
 
 ## 設計細節
 
@@ -12,7 +12,7 @@
 
 第一個設置是半自動操作，在這個模式下，氣動式系統會被鎖定並利用發射後的火藥瓦斯氣體自動完成拋殼和裝填下一發霰彈藥筒的動作而且無需作其他的操作，這時第一發需要用力向後手拉拉機柄。
 
-第二個設置是泵动式操作，在這個模式下，每次射擊以後必須手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈藥筒](../Page/彈匣#管式彈倉.md "wikilink")。此模式適合用來發射各種低壓[彈藥和](../Page/彈藥.md "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](../Page/鳥彈.md "wikilink")、[木棍彈](../Page/木棍彈.md "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](../Page/CS氣體槍榴彈.md "wikilink")）、[鹽彈或](../Page/鹽彈.md "wikilink")[塑膠棒式子彈等](../Page/塑膠棒式子彈.md "wikilink")。
+第二個設置是泵动式操作，在這個模式下，每次射擊以後必須手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈藥筒](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。此模式適合用來發射各種低壓[彈藥和](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](https://zh.wikipedia.org/wiki/鳥彈 "wikilink")、[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](https://zh.wikipedia.org/wiki/豆袋彈 "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](https://zh.wikipedia.org/wiki/CS氣體槍榴彈 "wikilink")）、[鹽彈或](https://zh.wikipedia.org/wiki/鹽彈 "wikilink")[塑膠棒式子彈等](https://zh.wikipedia.org/wiki/塑膠棒式子彈 "wikilink")。
 
 兩種操作模式之間的轉換是由內部轉換機構完成的，該轉換機構則是由護手前方右側的轉換鈕來控制。將轉換鈕扳向下方位置，轉換機構卡住槍機，使之在霰彈發射後不會自行後坐，這便是泵动式操作方式。將轉換鈕扳向上方位置，轉換裝置不再卡住槍機，槍機在霰彈發射後坐，這便是半自動方式。
 　　
@@ -20,20 +20,20 @@
 ### 槍管組件
 
 TEC
-12採用標準型滑膛槍管，槍管前端設有戰術[喉缩](../Page/喉缩.md "wikilink")。與一般霰彈槍將喉缩設在槍管內部前端而且不伸出槍管不同的是，該槍的喉縮從槍管伸出一截，並且設有大量泄氣孔以起到作用。槍管前端上方的配備了帶有護翼的[红色](../Page/红色.md "wikilink")[光纖](../Page/光導纖維.md "wikilink")[準星](../Page/照準器.md "wikilink")，以便在昏暗的條件下實施快速瞄準。
+12採用標準型滑膛槍管，槍管前端設有戰術[喉缩](https://zh.wikipedia.org/wiki/喉缩 "wikilink")。與一般霰彈槍將喉缩設在槍管內部前端而且不伸出槍管不同的是，該槍的喉縮從槍管伸出一截，並且設有大量泄氣孔以起到作用。槍管前端上方的配備了帶有護翼的[红色](../Page/红色.md "wikilink")[光纖](../Page/光導纖維.md "wikilink")[準星](../Page/照準器.md "wikilink")，以便在昏暗的條件下實施快速瞄準。
 
 ### 護木組件
 
-[聚合物製](../Page/聚合物.md "wikilink")[護木設有防滑紋以利於握持](../Page/護木.md "wikilink")。彈倉帽前方設有鈕，與[槍托底部的槍背帶鈕相配合即可安裝槍背帶](../Page/槍托.md "wikilink")。
+[聚合物製](../Page/聚合物.md "wikilink")[護木設有防滑紋以利於握持](https://zh.wikipedia.org/wiki/護木 "wikilink")。彈倉帽前方設有鈕，與[槍托底部的槍背帶鈕相配合即可安裝槍背帶](../Page/槍托.md "wikilink")。
 
 ### 機匣組件
 
-[鋁合金](../Page/鋁合金.md "wikilink")[機匣上安裝的](../Page/機匣.md "wikilink")[MIL-STD-1913戰術導軌上安裝有覘孔式](../Page/皮卡汀尼導軌.md "wikilink")[照門](../Page/照門.md "wikilink")，可以調節風偏。機匣右側、拋殼口下方設有空槍掛機解脫按鈕，無論泵动式操作方式狀態還是半自動操作方式狀態，當彈倉內的最後一發霰彈藥筒發射完畢以後，槍機後座或向後拉動護木並帶動槍機向後時，槍機隨即被掛於後方位置，此時只有按壓空槍掛機解脫按鈕才能釋放槍機。
+[鋁合金](../Page/鋁合金.md "wikilink")[機匣上安裝的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌上安裝有覘孔式](../Page/皮卡汀尼導軌.md "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，可以調節風偏。機匣右側、拋殼口下方設有空槍掛機解脫按鈕，無論泵动式操作方式狀態還是半自動操作方式狀態，當彈倉內的最後一發霰彈藥筒發射完畢以後，槍機後座或向後拉動護木並帶動槍機向後時，槍機隨即被掛於後方位置，此時只有按壓空槍掛機解脫按鈕才能釋放槍機。
 　　
 
 ### 扳機組件
 
-扳機組件是以一根固定銷固定在機匣以上。[扳機護圈右側前方設有](../Page/扳機護環.md "wikilink")待擊指示杆，當擊錘處於待擊位置時，指示杆會下移，讓指示杆上凹陷的圓點從機匣露出；當擊錘處於擊發位置之時，指示杆會上抬，指示杆上凹陷的圓點會被機匣遮擋。無論在白天或夜晚，通過觀察或手摸指示杆上是否有凹陷圓點露出，即可知曉擊錘是否待擊。擊錘待擊指示杆後面是手動保險，手動保險為橫閂式。手動保險推向左側並露出紅圈為待擊狀態；手動保險推向右側為保險狀態。保險所設位置便於射手進行操作。
+扳機組件是以一根固定銷固定在機匣以上。[扳機護圈右側前方設有](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")待擊指示杆，當擊錘處於待擊位置時，指示杆會下移，讓指示杆上凹陷的圓點從機匣露出；當擊錘處於擊發位置之時，指示杆會上抬，指示杆上凹陷的圓點會被機匣遮擋。無論在白天或夜晚，通過觀察或手摸指示杆上是否有凹陷圓點露出，即可知曉擊錘是否待擊。擊錘待擊指示杆後面是手動保險，手動保險為橫閂式。手動保險推向左側並露出紅圈為待擊狀態；手動保險推向右側為保險狀態。保險所設位置便於射手進行操作。
 　　
 
 ### 槍托組件
@@ -42,13 +42,13 @@ TEC
 
 ## 參見
 
-  - [三星眼镜蛇](../Page/三星眼镜蛇泵動式霰彈槍.md "wikilink")
-  - [三星猛禽ATAC](../Page/三星猛禽ATAC半自動霰彈槍.md "wikilink")
+  - [三星眼镜蛇](https://zh.wikipedia.org/wiki/三星眼镜蛇泵動式霰彈槍 "wikilink")
+  - [三星猛禽ATAC](https://zh.wikipedia.org/wiki/三星猛禽ATAC半自動霰彈槍 "wikilink")
   - [弗蘭基SPAS-12](../Page/弗蘭基SPAS-12戰鬥霰彈槍.md "wikilink")
   - [弗蘭基SPAS-15](../Page/弗蘭基SPAS-15戰鬥霰彈槍.md "wikilink")
   - [伯奈利M3 Super 90](../Page/伯奈利M3_Super_90霰彈槍.md "wikilink")
-  - [鎮暴霰彈槍](../Page/鎮暴霰彈槍.md "wikilink")
-  - [戰鬥霰彈槍](../Page/戰鬥霰彈槍.md "wikilink")
+  - [鎮暴霰彈槍](https://zh.wikipedia.org/wiki/鎮暴霰彈槍 "wikilink")
+  - [戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")
 
 ## 參考文獻
 

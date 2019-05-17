@@ -1,5 +1,5 @@
-是[BANDAI在](../Page/BANDAI.md "wikilink")1993年8月6日發售的[Family
-Computer平台](../Page/Family_Computer.md "wikilink")[角色扮演類型遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]，後來在[Playdia平台發售](../Page/Playdia.md "wikilink")[互動式電影類型遊戲](../Page/互動式電影.md "wikilink")《**七龍珠Z
+是[BANDAI在](https://zh.wikipedia.org/wiki/BANDAI "wikilink")1993年8月6日發售的[Family
+Computer平台](https://zh.wikipedia.org/wiki/Family_Computer "wikilink")[角色扮演類型遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]，後來在[Playdia平台發售](../Page/Playdia.md "wikilink")[互動式電影類型遊戲](../Page/互動式電影.md "wikilink")《**七龍珠Z
 真賽亞人滅絕計畫**》（），遊戲分成地球篇和宇宙篇，地球篇是在1994年9月23日發售，宇宙篇是1994年12月16日發售\[2\]。除了遊戲外也在1993年發售OVA版共有兩卷。
 
 ## 遊戲系統
@@ -13,7 +13,7 @@ Computer平台](../Page/Family_Computer.md "wikilink")[角色扮演類型遊戲]
 ## 角色
 
   - 主要角色
-    **[孫悟空](../Page/孫悟空_\(七龍珠\).md "wikilink")、[孫悟飯](../Page/孫悟飯.md "wikilink")、[比克](../Page/短笛_\(七龙珠\).md "wikilink")、[特南克斯](../Page/特南克斯.md "wikilink")、[貝吉塔](../Page/貝吉塔.md "wikilink")**
+    **[孫悟空](https://zh.wikipedia.org/wiki/孫悟空_\(七龍珠\) "wikilink")、[孫悟飯](https://zh.wikipedia.org/wiki/孫悟飯 "wikilink")、[比克](../Page/短笛_\(七龙珠\).md "wikilink")、[特南克斯](../Page/特南克斯.md "wikilink")、[貝吉塔](https://zh.wikipedia.org/wiki/貝吉塔 "wikilink")**
   - 敵方主要角色
     **卡華沙、達列斯、史拉格、[弗利扎](../Page/弗利沙.md "wikilink")、克維拉、ゴッドガードン、萊基、哈奇亞克**
     哈奇亞克在《七龍珠Z 真賽亞人滅絕計畫》中會變化成第二型態。
@@ -41,9 +41,9 @@ RAGING BLAST 2**》（）收錄播放長度約30分的重製動畫《**七龍珠
 <li>贝吉塔：<a href="../Page/堀川亮.md" title="wikilink">堀川亮</a></li>
 <li>布瑪：<a href="../Page/鶴弘美.md" title="wikilink">鶴弘美</a></li>
 <li>琪琪：<a href="../Page/渡邊菜生子.md" title="wikilink">渡邊菜生子</a></li>
-<li>丹丹：<a href="../Page/鈴木富子.md" title="wikilink">鈴木富子</a></li>
-<li>波波：<a href="../Page/西尾德.md" title="wikilink">西尾德</a></li>
-<li>莱基：<a href="../Page/小川真司.md" title="wikilink">小川真司</a></li>
+<li>丹丹：<a href="https://zh.wikipedia.org/wiki/鈴木富子" title="wikilink">鈴木富子</a></li>
+<li>波波：<a href="https://zh.wikipedia.org/wiki/西尾德" title="wikilink">西尾德</a></li>
+<li>莱基：<a href="https://zh.wikipedia.org/wiki/小川真司" title="wikilink">小川真司</a></li>
 <li>弗利扎、克維拉：<a href="../Page/中尾隆聖.md" title="wikilink">中尾隆聖</a></li>
 <li>史拉格、哈奇亚克、邦卡：<a href="../Page/屋良有作.md" title="wikilink">屋良有作</a></li>
 <li>卡華沙、ゴッドガードン：<a href="../Page/江川央生.md" title="wikilink">江川央生</a></li>
@@ -61,12 +61,12 @@ RAGING BLAST 2**》（）收錄播放長度約30分的重製動畫《**七龍珠
 <li>布瑪：<a href="../Page/鶴弘美.md" title="wikilink">鶴弘美</a></li>
 <li>琪琪：<a href="../Page/渡邊菜生子.md" title="wikilink">渡邊菜生子</a></li>
 <li>弗利扎、克維拉：<a href="../Page/中尾隆聖.md" title="wikilink">中尾隆聖</a></li>
-<li>史拉格：<a href="../Page/稻田彻.md" title="wikilink">稻田彻</a></li>
+<li>史拉格：<a href="https://zh.wikipedia.org/wiki/稻田彻" title="wikilink">稻田彻</a></li>
 <li>哈奇亚克：<a href="../Page/石川英郎.md" title="wikilink">石川英郎</a></li>
 <li>莱基：<a href="../Page/岩崎博.md" title="wikilink">岩崎博</a></li>
 <li>旁白、界王：<a href="../Page/八奈見乘兒.md" title="wikilink">八奈見乘兒</a></li>
-<li>茲夫爾人：<a href="../Page/藤本たかひろ.md" title="wikilink">藤本たかひろ</a></li>
-<li>巨大猿猴：<a href="../Page/宮坂俊藏.md" title="wikilink">宮坂俊藏</a>、<a href="../Page/赤羽根健治.md" title="wikilink">赤羽根健治</a>、<a href="../Page/角田雄二郎.md" title="wikilink">角田雄二郎</a></li>
+<li>茲夫爾人：<a href="https://zh.wikipedia.org/wiki/藤本たかひろ" title="wikilink">藤本たかひろ</a></li>
+<li>巨大猿猴：<a href="../Page/宮坂俊藏.md" title="wikilink">宮坂俊藏</a>、<a href="../Page/赤羽根健治.md" title="wikilink">赤羽根健治</a>、<a href="https://zh.wikipedia.org/wiki/角田雄二郎" title="wikilink">角田雄二郎</a></li>
 <li>リポーター：<a href="../Page/庄司宇芽香.md" title="wikilink">庄司宇芽香</a></li>
 <li>年輕女性：<a href="../Page/齊藤佑圭.md" title="wikilink">齊藤佑圭</a></li>
 </ul></td>
@@ -85,7 +85,7 @@ RAGING BLAST 2**》（）收錄播放長度約30分的重製動畫《**七龍珠
 </dl>
 <ul>
 <li>原作：<a href="../Page/鳥山明.md" title="wikilink">鳥山明</a>[8][9]</li>
-<li>企画：<a href="../Page/週刊少年Jump.md" title="wikilink">週刊少年Jump</a>、<a href="../Page/V_Jump.md" title="wikilink">V Jump</a>、<a href="../Page/東映動画.md" title="wikilink">東映動画</a></li>
+<li>企画：<a href="../Page/週刊少年Jump.md" title="wikilink">週刊少年Jump</a>、<a href="https://zh.wikipedia.org/wiki/V_Jump" title="wikilink">V Jump</a>、<a href="https://zh.wikipedia.org/wiki/東映動画" title="wikilink">東映動画</a></li>
 <li>劇本：小山高生</li>
 <li>作畫監督：島貫正弘</li>
 <li>美術監督：田尻健一</li>
@@ -139,14 +139,15 @@ RAGING BLAST 2**》（）收錄播放長度約30分的重製動畫《**七龍珠
 
 3.  [Dragon Ball Z: Plan to Destroy the Saiyajin
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2871)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 
 4.  [Dragon Ball: Plan to Eradicate the Super Saiyans
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14969)Anime
     News Network
 
 5.  [「ドラゴンボール
-    レイジングブラスト2」，TGS 2010で公開されたプロモーションムービーが公式サイトに追加](http://www.4gamer.net/games/114/G011403/20100921061/)[4Gamer.net](../Page/4Gamer.net.md "wikilink")
+    レイジングブラスト2」，TGS 2010で公開されたプロモーションムービーが公式サイトに追加](http://www.4gamer.net/games/114/G011403/20100921061/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 
 6.
 7.

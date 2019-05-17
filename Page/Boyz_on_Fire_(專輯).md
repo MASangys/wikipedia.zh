@@ -1,13 +1,13 @@
 《**Boyz on
-Fire**》是[台灣男子偶像團體](../Page/台灣.md "wikilink")[SpeXial的第四張正規專輯](../Page/SpeXial.md "wikilink")，於2016年7月19日舉行專輯記者會\[1\]，同月20日開始預購（烈火版、粉紅版），8月12日正式發行（閃亮版）\[2\]。首波主打歌為偶像劇《[終極一班4](../Page/終極一班4.md "wikilink")》主題曲《Boyz
+Fire**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial的第四張正規專輯](../Page/SpeXial.md "wikilink")，於2016年7月19日舉行專輯記者會\[1\]，同月20日開始預購（烈火版、粉紅版），8月12日正式發行（閃亮版）\[2\]。首波主打歌為偶像劇《[終極一班4](../Page/終極一班4.md "wikilink")》主題曲《Boyz
 On Fire》，第二主打為《憂傷來襲》\[3\]。專輯發行首週（2016年第33週）即登上五大金榜第一名。
 
 ## 專輯簡介
 
-  - 此專輯為團員[明-{杰}-](../Page/許名傑.md "wikilink")、[子閎退伍回歸歌壇](../Page/林子閎.md "wikilink")、以及新成員[Dylan](../Page/熊梓淇.md "wikilink")、[執加入後以十二人之姿發行的唯一專輯](../Page/趙志偉.md "wikilink")。同時也是[晨翔](../Page/連晨翔.md "wikilink")、[執和](../Page/趙志偉.md "wikilink")[以綸退團前最後一張音樂作品](../Page/以綸.md "wikilink")。
+  - 此專輯為團員[明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[子閎退伍回歸歌壇](https://zh.wikipedia.org/wiki/林子閎 "wikilink")、以及新成員[Dylan](https://zh.wikipedia.org/wiki/熊梓淇 "wikilink")、[執加入後以十二人之姿發行的唯一專輯](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")。同時也是[晨翔](https://zh.wikipedia.org/wiki/連晨翔 "wikilink")、[執和](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")[以綸退團前最後一張音樂作品](https://zh.wikipedia.org/wiki/以綸 "wikilink")。
   - 烈火版內附96頁男孩烈火寫真；粉紅版內附32頁男孩粉紅大特刊；閃亮版內附36頁寫真歌詞本。
   - 首波主打歌《Boyz On
-    Fire》為[宏正](../Page/羅弘証.md "wikilink")、[偉晉](../Page/黃偉晉.md "wikilink")、[執主演的偶像劇](../Page/趙志偉.md "wikilink")《[終極一班4](../Page/終極一班4.md "wikilink")》主題曲。
+    Fire》為[宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[偉晉](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")、[執主演的偶像劇](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")《[終極一班4](../Page/終極一班4.md "wikilink")》主題曲。
 
 ## 曲目
 

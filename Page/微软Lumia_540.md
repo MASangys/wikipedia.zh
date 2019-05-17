@@ -1,5 +1,5 @@
 **微软Lumia 540**是一款以[Windows Phone
-8.1开发的](../Page/Windows_Phone_8.1.md "wikilink")[微软Lumia](../Page/微软Lumia.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，RAM为1GB，在印度、中东、非洲和亚太市场推出。\[1\]
+8.1开发的](../Page/Windows_Phone_8.1.md "wikilink")[微软Lumia](https://zh.wikipedia.org/wiki/微软Lumia "wikilink")[智能手机](../Page/智能手机.md "wikilink")，RAM为1GB，在印度、中东、非洲和亚太市场推出。\[1\]
 其他内部规格与早期Lumia 5xx系列设备大致相同。\[2\]
 
 ## 反响
@@ -8,7 +8,7 @@
 
 ## 参见
 
-  -  [微软Lumia](../Page/微軟Lumia.md "wikilink")
+  -  [微软Lumia](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")
   -  [微软Lumia 535](../Page/微软Lumia_535.md "wikilink")
   -  [微软Lumia 550](../Page/微軟Lumia_550.md "wikilink")
   -  [微软Lumia 640](../Page/微軟Lumia_640.md "wikilink")

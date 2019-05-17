@@ -1,11 +1,15 @@
-***Pachacutia***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](../Page/屬_\(生物\).md "wikilink")，尚無正式中文學名命名。
+***Pachacutia***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，尚無正式中文學名命名。
 
 ## 物種
 
-  - [克萊鮫綃蝶](../Page/克萊鮫綃蝶.md "wikilink") *Pachacutia cleomalla*
-  - *[Pachacutia germaini](../Page/Pachacutia_germaini.md "wikilink")*
-  - *[Pachacutia mantura](../Page/Pachacutia_mantura.md "wikilink")*
-  - *[Pachacutia baroni](../Page/Pachacutia_baroni.md "wikilink")*
+  - [克萊鮫綃蝶](https://zh.wikipedia.org/wiki/克萊鮫綃蝶 "wikilink") *Pachacutia
+    cleomalla*
+  - *[Pachacutia
+    germaini](https://zh.wikipedia.org/wiki/Pachacutia_germaini "wikilink")*
+  - *[Pachacutia
+    mantura](https://zh.wikipedia.org/wiki/Pachacutia_mantura "wikilink")*
+  - *[Pachacutia
+    baroni](https://zh.wikipedia.org/wiki/Pachacutia_baroni "wikilink")*
 
 ## 參考文獻
 

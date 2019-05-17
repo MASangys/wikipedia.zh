@@ -1,11 +1,12 @@
 **IWI GL
-40**是一具在2012年由[以色列](../Page/以色列.md "wikilink")[武器工業為配合](../Page/以色列軍事工業#小型武器.md "wikilink")[IWI加利爾ACE和](../Page/IWI加利爾ACE突擊步槍.md "wikilink")[X95兩款](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")[突击步枪系列而研製和生產的單發下掛式](../Page/突击步枪.md "wikilink")[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在2012年（Eurosatory
-2012）上首度展出，發射[40×46毫米低速、中速榴彈](../Page/40毫米榴彈.md "wikilink")。由於自帶，它除了可以下掛於步槍的下護木，也可通過增加[槍托配件改裝成一個獨立的](../Page/槍托.md "wikilink")[肩射型榴彈發射器武器系統](../Page/榴弹发射器#肩射型榴弹发射器.md "wikilink")。
+40**是一具在2012年由[以色列](../Page/以色列.md "wikilink")[武器工業為配合](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")[IWI加利爾ACE和](../Page/IWI加利爾ACE突擊步槍.md "wikilink")[X95兩款](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")[突击步枪系列而研製和生產的單發下掛式](../Page/突击步枪.md "wikilink")[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在2012年（Eurosatory
+2012）上首度展出，發射[40×46毫米低速、中速榴彈](../Page/40毫米榴彈.md "wikilink")。由於自帶，它除了可以下掛於步槍的下護木，也可通過增加[槍托配件改裝成一個獨立的](../Page/槍托.md "wikilink")[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 設計
 
-作為[下掛式榴弹发射器](../Page/榴弹发射器#附加型榴弹发射器.md "wikilink")，IWI GL
-40與所有的IWI突擊步槍類型一致，不但可藉由[MIL-STD-1913戰術導軌裝在搭配於其以上的](../Page/皮卡汀尼導軌.md "wikilink")[IWI塔沃爾X95與](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")[IWI加利爾ACE兩款](../Page/IWI加利爾ACE突擊步槍.md "wikilink")[突击步枪的](../Page/突击步枪.md "wikilink")[護木下方使用](../Page/護木.md "wikilink")，也可與舊式[M16等現有的各類突擊步槍兼容](../Page/M16突擊步槍.md "wikilink")。另一方面，也可裝上由扳機、及[槍托等組件組成的擴展機匣改裝成肩射型榴彈發射器以獨立使用](../Page/槍托.md "wikilink")。[護木下方的一段](../Page/護木.md "wikilink")[MIL-STD-1913戰術導軌可讓其如](../Page/皮卡汀尼導軌.md "wikilink")[手枪般下掛戰術附件](../Page/手枪.md "wikilink")。
+作為[下掛式榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#附加型榴弹发射器 "wikilink")，IWI
+GL
+40與所有的IWI突擊步槍類型一致，不但可藉由[MIL-STD-1913戰術導軌裝在搭配於其以上的](../Page/皮卡汀尼導軌.md "wikilink")[IWI塔沃爾X95與](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")[IWI加利爾ACE兩款](../Page/IWI加利爾ACE突擊步槍.md "wikilink")[突击步枪的](../Page/突击步枪.md "wikilink")[護木下方使用](https://zh.wikipedia.org/wiki/護木 "wikilink")，也可與舊式[M16等現有的各類突擊步槍兼容](../Page/M16突擊步槍.md "wikilink")。另一方面，也可裝上由扳機、及[槍托等組件組成的擴展機匣改裝成肩射型榴彈發射器以獨立使用](../Page/槍托.md "wikilink")。[護木下方的一段](https://zh.wikipedia.org/wiki/護木 "wikilink")[MIL-STD-1913戰術導軌可讓其如](../Page/皮卡汀尼導軌.md "wikilink")[手枪般下掛戰術附件](../Page/手枪.md "wikilink")。
 
 IWI GL
 40是與[以色列國防軍合作以下](../Page/以色列國防軍.md "wikilink")，開發的一款堅固耐用、高性價比、可靠、安全、易於維護和操作簡單的武器。時與[HK
@@ -14,10 +15,10 @@ AG36相似的是](../Page/HK_AG36附加型榴彈發射器.md "wikilink")，IWI G
 使用安裝在IWI加利爾ACE以上的擴展機匣時，其扳機裝在步槍彈匣前方、無自帶握把，發射時需要以彈匣充當握把。保險位於扳機下方。
 
 使用安裝在IWI塔沃爾X95以上的擴展機匣時，發射時可以緊握其方便舒適地握持的手槍握把，所以就算安裝在[-{zh-hans:无托结构;
-zh-hant:犢牛式;}-步槍以上都能方便使用](../Page/犢牛式_\(槍械\).md "wikilink")，也比起使用彈匣充當握把（如M16／M203組合）的榴彈發射器用起來更為符合[人體工程學設計](../Page/人因工程学.md "wikilink")。大型[扳機護圈向前延伸](../Page/扳機護環.md "wikilink")，以便使用者戴上手套以下射擊。保險位於手槍握把上方，方便操作。扳機內側還裝有隔離保險。
+zh-hant:犢牛式;}-步槍以上都能方便使用](../Page/犢牛式_\(槍械\).md "wikilink")，也比起使用彈匣充當握把（如M16／M203組合）的榴彈發射器用起來更為符合[人體工程學設計](../Page/人因工程学.md "wikilink")。大型[扳機護圈向前延伸](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，以便使用者戴上手套以下射擊。保險位於手槍握把上方，方便操作。扳機內側還裝有隔離保險。
 
 裝填彈藥的方式是與[FN
-EGLM相似的槍管滑動及側擺式](../Page/FN_EGLM附加型榴彈發射器.md "wikilink")，需先按下槍管套頂部的釋放鎖鈕以解鎖並且利用[機匣內部導軌讓槍管前進](../Page/機匣.md "wikilink")，這樣一來就可輕易的退殼；而且機匣內部導軌可讓槍管側擺，便可方便地從槍管後方裝填彈藥。由於採用槍管側擺式，因而可讓榴彈發射器給左右兩手使用；亦因而可以使用更長的彈藥（例如穿甲彈、[破片彈](../Page/破片杀伤.md "wikilink")、溫壓彈、[煙霧彈](../Page/煙霧彈.md "wikilink")、照明彈、[燃燒彈](../Page/凝固汽油弹.md "wikilink")、化學彈、[催淚彈](../Page/催淚彈.md "wikilink")、[橡膠榴彈](../Page/非致命性武器.md "wikilink")），因此使用起來比較靈活，可發射所有的40×46毫米低速榴彈系列或最近推出的中速榴彈（也是與以色列國防軍合作的成果）。一旦讓槍管回復原位，[撞針便會進入待發模式](../Page/撞針.md "wikilink")，之後瞄準方向且扣下板機，即可發射榴彈。
+EGLM相似的槍管滑動及側擺式](../Page/FN_EGLM附加型榴彈發射器.md "wikilink")，需先按下槍管套頂部的釋放鎖鈕以解鎖並且利用[機匣內部導軌讓槍管前進](https://zh.wikipedia.org/wiki/機匣 "wikilink")，這樣一來就可輕易的退殼；而且機匣內部導軌可讓槍管側擺，便可方便地從槍管後方裝填彈藥。由於採用槍管側擺式，因而可讓榴彈發射器給左右兩手使用；亦因而可以使用更長的彈藥（例如穿甲彈、[破片彈](../Page/破片杀伤.md "wikilink")、溫壓彈、[煙霧彈](https://zh.wikipedia.org/wiki/煙霧彈 "wikilink")、照明彈、[燃燒彈](../Page/凝固汽油弹.md "wikilink")、化學彈、[催淚彈](../Page/催淚彈.md "wikilink")、[橡膠榴彈](../Page/非致命性武器.md "wikilink")），因此使用起來比較靈活，可發射所有的40×46毫米低速榴彈系列或最近推出的中速榴彈（也是與以色列國防軍合作的成果）。一旦讓槍管回復原位，[撞針便會進入待發模式](../Page/撞針.md "wikilink")，之後瞄準方向且扣下板機，即可發射榴彈。
 
 ## 衍生型
 
@@ -44,25 +45,28 @@ EGLM相似的槍管滑動及側擺式](../Page/FN_EGLM附加型榴彈發射器.m
   - [貝瑞塔GLX-160附加型榴彈發射器](../Page/貝瑞塔GLX-160附加型榴彈發射器.md "wikilink")
   - [CIS 40 GL附加型榴彈發射器](../Page/CIS_40_GL附加型榴彈發射器.md "wikilink")
   - [CZ 805 G1附加型榴彈發射器](../Page/CZ_805_G1附加型榴彈發射器.md "wikilink")
-  - [EAGLE附加型榴彈發射器](../Page/EAGLE附加型榴彈發射器.md "wikilink")
+  - [EAGLE附加型榴彈發射器](https://zh.wikipedia.org/wiki/EAGLE附加型榴彈發射器 "wikilink")
   - [FN EGLM附加型榴彈發射器](../Page/FN_EGLM附加型榴彈發射器.md "wikilink")
-  - [GPBO-40附加型榴彈發射器](../Page/GPBO-40附加型榴彈發射器.md "wikilink")
-  - [希爾頓HG40附加型榴彈發射器](../Page/希爾頓HG40附加型榴彈發射器.md "wikilink")
+  - [GPBO-40附加型榴彈發射器](https://zh.wikipedia.org/wiki/GPBO-40附加型榴彈發射器 "wikilink")
+  - [希爾頓HG40附加型榴彈發射器](https://zh.wikipedia.org/wiki/希爾頓HG40附加型榴彈發射器 "wikilink")
   - [HK79附加型榴彈發射器](../Page/HK79附加型榴彈發射器.md "wikilink")
   - [HK
-    AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM榴彈發射器](../Page/HK_AG-C/EGLM附加型榴彈發射器.md "wikilink")
+    AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")
   - [M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")
   - [Istec ISL-200附加型榴彈發射器](../Page/Istec_ISL-200附加型榴彈發射器.md "wikilink")
-  - [Istec ISL-274附加型榴彈發射器](../Page/Istec_ISL-274附加型榴彈發射器.md "wikilink")
+  - [Istec
+    ISL-274附加型榴彈發射器](https://zh.wikipedia.org/wiki/Istec_ISL-274附加型榴彈發射器 "wikilink")
   - [IMC-40枪挂榴弹发射器](../Page/IMC-40枪挂榴弹发射器.md "wikilink")
   - [MKEK T-40附加型榴彈發射器](../Page/MKEK_T-40附加型榴彈發射器.md "wikilink")
-  - [ML40附加型榴彈發射器](../Page/ML40附加型榴彈發射器.md "wikilink")
-  - [米爾科姆40毫米附加型榴彈發射器](../Page/米爾科姆40毫米附加型榴彈發射器.md "wikilink")
+  - [ML40附加型榴彈發射器](https://zh.wikipedia.org/wiki/ML40附加型榴彈發射器 "wikilink")
+  - [米爾科姆40毫米附加型榴彈發射器](https://zh.wikipedia.org/wiki/米爾科姆40毫米附加型榴彈發射器 "wikilink")
   - [SIG GL 5040附加型榴彈發射器](../Page/SIG_GL_5040附加型榴彈發射器.md "wikilink")
-  - [斯泰爾GL 40附加型榴彈發射器](../Page/斯泰爾GL_40附加型榴彈發射器.md "wikilink")
-  - [VHS-BG附加型榴彈發射器](../Page/VHS-BG附加型榴彈發射器.md "wikilink")
-  - [Wz. 1974鈀式附加型榴彈發射器](../Page/Wz._1974鈀式附加型榴彈發射器.md "wikilink")
-  - [AG-40附加型榴彈發射器](../Page/AG-40附加型榴彈發射器.md "wikilink")
+  - [斯泰爾GL
+    40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
+  - [VHS-BG附加型榴彈發射器](https://zh.wikipedia.org/wiki/VHS-BG附加型榴彈發射器 "wikilink")
+  - [Wz.
+    1974鈀式附加型榴彈發射器](https://zh.wikipedia.org/wiki/Wz._1974鈀式附加型榴彈發射器 "wikilink")
+  - [AG-40附加型榴彈發射器](https://zh.wikipedia.org/wiki/AG-40附加型榴彈發射器 "wikilink")
   - [GP-25／GP-30／GP-34榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")
   - [QLG-10／QLG-10A榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")
   - [M32連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")

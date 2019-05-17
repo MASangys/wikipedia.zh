@@ -1,5 +1,5 @@
 **Bridge Alliance** （原**Bridge Mobile
-Alliance**）是一個國際商業聯盟，[亞太地區最大行動通訊聯盟](../Page/亞太地區.md "wikilink")，由36個各大電信營運商公司在[亞洲](../Page/亞洲.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[非洲和](../Page/非洲.md "wikilink")[中東地區建立聯盟在國際間無縫連接的](../Page/中東.md "wikilink")[漫遊服務和提供方便且合理優惠的](../Page/漫遊.md "wikilink")[語音](../Page/語音.md "wikilink")[數據漫遊服務](../Page/數據.md "wikilink")，使所有聯盟成員的用戶，都能漫遊對方的網絡；並促進會員間產品和商業策略的合作平台。同時與在歐洲[FreeMove聯盟有合作關係](../Page/FreeMove.md "wikilink")。\[1\]
+Alliance**）是一個國際商業聯盟，[亞太地區最大行動通訊聯盟](https://zh.wikipedia.org/wiki/亞太地區 "wikilink")，由36個各大電信營運商公司在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[非洲和](../Page/非洲.md "wikilink")[中東地區建立聯盟在國際間無縫連接的](https://zh.wikipedia.org/wiki/中東 "wikilink")[漫遊服務和提供方便且合理優惠的](../Page/漫遊.md "wikilink")[語音](../Page/語音.md "wikilink")[數據漫遊服務](https://zh.wikipedia.org/wiki/數據 "wikilink")，使所有聯盟成員的用戶，都能漫遊對方的網絡；並促進會員間產品和商業策略的合作平台。同時與在歐洲[FreeMove聯盟有合作關係](https://zh.wikipedia.org/wiki/FreeMove "wikilink")。\[1\]
 
 ## Bridge Alliance 會員
 
@@ -16,33 +16,33 @@ Alliance**）是一個國際商業聯盟，[亞太地區最大行動通訊聯盟
 
   - （菲律賓）
 
-  - [MobiFone](../Page/MobiFone.md "wikilink")（越南）
+  - [MobiFone](https://zh.wikipedia.org/wiki/MobiFone "wikilink")（越南）
 
-  - [Optus](../Page/Optus.md "wikilink")（澳大利亞）
+  - [Optus](https://zh.wikipedia.org/wiki/Optus "wikilink")（澳大利亞）
 
-  - [SoftBank](../Page/SoftBank.md "wikilink")（日本）
+  - [SoftBank](https://zh.wikipedia.org/wiki/SoftBank "wikilink")（日本）
 
-  - [SK電訊](../Page/SK電訊.md "wikilink")（南韓）
+  - [SK電訊](https://zh.wikipedia.org/wiki/SK電訊 "wikilink")（南韓）
 
-  - [STC](../Page/STC.md "wikilink")（沙特阿拉伯）
+  - [STC](https://zh.wikipedia.org/wiki/STC "wikilink")（沙特阿拉伯）
 
-  - [VIVA](../Page/VIVA.md "wikilink")（科威特、巴林）
+  - [VIVA](https://zh.wikipedia.org/wiki/VIVA "wikilink")（科威特、巴林）
 
   - （印度）
 
-  - [Telkomcel](../Page/Telkomcel.md "wikilink")（東帝汶）
+  - [Telkomcel](https://zh.wikipedia.org/wiki/Telkomcel "wikilink")（東帝汶）
 
   - [台灣大哥大](../Page/台灣大哥大.md "wikilink")（臺灣）
 
-  - [香港移動通訊](../Page/香港移動通訊.md "wikilink")（香港）
+  - [香港移動通訊](https://zh.wikipedia.org/wiki/香港移動通訊 "wikilink")（香港）
 
-  - [明訊](../Page/明訊.md "wikilink")（馬來西亞）
+  - [明訊](https://zh.wikipedia.org/wiki/明訊 "wikilink")（馬來西亞）
 
-  - [新加坡電信](../Page/新加坡電信.md "wikilink")（新加坡）
+  - [新加坡電信](https://zh.wikipedia.org/wiki/新加坡電信 "wikilink")（新加坡）
 
   - [澳門電訊](../Page/澳門電訊.md "wikilink")（中國澳門）
 
-  - [中國聯通](../Page/中國聯通.md "wikilink")（中國）
+  - [中國聯通](https://zh.wikipedia.org/wiki/中國聯通 "wikilink")（中國）
 
 ## 參考文獻
 

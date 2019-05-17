@@ -1,5 +1,5 @@
 《**citrus
-～柑橘味香氣～**》是[日本女性](../Page/日本.md "wikilink")[漫畫家三郎太](../Page/漫畫家.md "wikilink")（）所作，由[一迅社出版的漫畫作品](../Page/一迅社.md "wikilink")。2012年11月17日開始連載於[漫畫雜誌月刊](../Page/日本漫畫雜誌.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》，已出版9冊[單行本](../Page/單行本.md "wikilink")。繁體中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，簡體中文版由[布卡漫畫代理進行網路連載](../Page/布卡漫畫.md "wikilink")。改編的[電視動畫於](../Page/電視動畫.md "wikilink")2018年1月6日開始播放。
+～柑橘味香氣～**》是[日本女性](../Page/日本.md "wikilink")[漫畫家三郎太](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")（）所作，由[一迅社出版的漫畫作品](../Page/一迅社.md "wikilink")。2012年11月17日開始連載於[漫畫雜誌月刊](../Page/日本漫畫雜誌.md "wikilink")《[Comic百合姬](https://zh.wikipedia.org/wiki/Comic百合姬 "wikilink")》，已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。繁體中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，簡體中文版由[布卡漫畫代理進行網路連載](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日開始播放。
 
 ## 故事簡介
 
@@ -83,12 +83,12 @@
 
   -
     銀色長髮的女初中學生。
-    在[東京車站迷路的時候](../Page/東京車站.md "wikilink")，因為芽衣的幫助，從而對芽衣一見鍾情。性格率直，即使被拒絕，也要向芽衣告白。
+    在[東京車站迷路的時候](https://zh.wikipedia.org/wiki/東京車站 "wikilink")，因為芽衣的幫助，從而對芽衣一見鍾情。性格率直，即使被拒絕，也要向芽衣告白。
 
 <!-- end list -->
 
   -
-    橘薩拉的雙胞胎妹妹，特徵是頭上佩戴紫色[髮箍](../Page/髮箍.md "wikilink")，除了身高外，外貌、髮色和髮型與姐姐橘薩拉完全相同。
+    橘薩拉的雙胞胎妹妹，特徵是頭上佩戴紫色[髮箍](https://zh.wikipedia.org/wiki/髮箍 "wikilink")，除了身高外，外貌、髮色和髮型與姐姐橘薩拉完全相同。
     支持姐姐薩拉追求芽衣，並試圖說服柚子放棄芽衣，斷絕戀爱關係。
 
 <!-- end list -->
@@ -110,7 +110,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -186,22 +186,23 @@ ISBN 978-4-7580-7874-0（特裝版）</p></td>
 ### 工作人員
 
   - 原作：三郎太（）（Comic百合姬／一迅社刊）
-  - 導演：[高橋丈夫](../Page/高橋丈夫.md "wikilink")
+  - 導演：[高橋丈夫](https://zh.wikipedia.org/wiki/高橋丈夫 "wikilink")
   - 腳本：林直樹
   - 劇本統籌：[久彌直樹](../Page/久彌直樹.md "wikilink")
   - 人物設計：伊集院
   - 音樂：高橋諒
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
-  - 製作人：[infinite](../Page/永谷敬之.md "wikilink")
+  - 製作人：[infinite](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")
   - 動畫製作：[Passione](../Page/Passione.md "wikilink")
-  - 製作：[citrus製作委員會](../Page/製作委員會方式.md "wikilink")
+  - 製作：[citrus製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ### 主題曲
 
   - 片頭曲「」
-    作詞：，作曲：佐佐木淳，編曲、主唱：[nano.RIPE](../Page/nano.RIPE.md "wikilink")，弦編曲：佐佐木淳、小田和奏
+    作詞：，作曲：佐佐木淳，編曲、主唱：[nano.RIPE](https://zh.wikipedia.org/wiki/nano.RIPE "wikilink")，弦編曲：佐佐木淳、小田和奏
   - 片尾曲「Dear Teardrop」
-    作詞：，作曲、編曲：，主唱：[Mia REGINA](../Page/Mia_REGINA.md "wikilink")
+    作詞：，作曲、編曲：，主唱：[Mia
+    REGINA](https://zh.wikipedia.org/wiki/Mia_REGINA "wikilink")
 
 ### 各話列表
 
@@ -252,7 +253,7 @@ ISBN 978-4-7580-7874-0（特裝版）</p></td>
 <tr class="even">
 <td><p>第4话</p></td>
 <td><p>love me do!</p></td>
-<td><p><a href="../Page/迫井政行.md" title="wikilink">迫井政行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迫井政行" title="wikilink">迫井政行</a></p></td>
 <td><p>西村博昭</p></td>
 <td><p>志生野好、平馬浩二<br />
 張丁、青木哲郎<br />
@@ -381,7 +382,7 @@ Nyki Ikyn</p></td>
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC+9.md" title="wikilink">UTC+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">UTC+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -392,20 +393,20 @@ Nyki Ikyn</p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2018年1月6日</p></td>
 <td><p>星期六 23時30分－24時00分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p><strong>製作参加</strong> / 有重播</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a>[25]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a>[25]</p></td>
 <td><p>2018年1月7日</p></td>
 <td><p>星期日 23時30分－24時00分</p></td>
 <td><p><a href="../Page/全國獨立放送協議會.md" title="wikilink">獨立UHF局</a></p></td>
 <td><p><strong>製作参加</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
-<td><p><a href="../Page/SUN電視台.md" title="wikilink">SUN電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUN電視台" title="wikilink">SUN電視台</a></p></td>
 <td><p>星期日 25時00分－25時30分<br />
 （星期日深夜）</p></td>
 <td><p><a href="../Page/全國獨立放送協議會.md" title="wikilink">獨立UHF局</a></p></td>
@@ -418,15 +419,15 @@ Nyki Ikyn</p></td>
 <td><p>2018年1月9日</p></td>
 <td><p>星期二 24時30分－25時00分<br />
 （星期二深夜）</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p><strong>製作参加</strong> / 『』節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全国</p></td>
-<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2018年1月7日</p></td>
 <td><p>星期日 23时30分</p></td>
-<td><p><a href="../Page/網路電視.md" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td><p>限定日本国内IP</p></td>
 </tr>
 <tr class="even">
@@ -438,7 +439,7 @@ Nyki Ikyn</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/niconico动画.md" title="wikilink">niconico动画</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/niconico动画" title="wikilink">niconico动画</a></p></td>
 <td><p>2018年1月14日</p></td>
 <td><p>星期日 23:30</p></td>
 <td><p>限定日本国内IP</p></td>
@@ -446,7 +447,7 @@ Nyki Ikyn</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/富士电视台.md" title="wikilink">富士电视台On</a>-demand</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士电视台" title="wikilink">富士电视台On</a>-demand</p></td>
 <td><p>星期日</p></td>
 <td></td>
 <td></td>
@@ -509,8 +510,8 @@ Nyki Ikyn</p></td>
 auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間\!\!備註 |-
 |[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink") || 2018年1月6日 ||
 每週六 22:30 || 與日本同步 |-
-|[crunchyroll](../Page/crunchyroll.md "wikilink")\[26\] || 2018年1月6日 ||
-每週六 11:00 EST || 限各地IP |}
+|[crunchyroll](https://zh.wikipedia.org/wiki/crunchyroll "wikilink")\[26\]
+|| 2018年1月6日 || 每週六 11:00 EST || 限各地IP |}
 
 ### BD/DVD
 

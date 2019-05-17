@@ -2,7 +2,7 @@
 
 ## 概要
 
-2001年12月，[東京都公開招募](../Page/東京都.md "wikilink")[秋葉原站電氣街口周邊的秋葉原](../Page/秋葉原站.md "wikilink")1街區與3街區（[千代田區](../Page/千代田區.md "wikilink")[外神田一丁目與外神田四丁目](../Page/外神田.md "wikilink")）1萬5728[平方公尺都有地開發案](../Page/平方公尺.md "wikilink")。2002年2月，[NTT都市開發](../Page/NTT都市開發.md "wikilink")、、[鹿島建設共同計劃案勝出](../Page/鹿島建設.md "wikilink")\[2\]\[3\]。
+2001年12月，[東京都公開招募](../Page/東京都.md "wikilink")[秋葉原站電氣街口周邊的秋葉原](https://zh.wikipedia.org/wiki/秋葉原站 "wikilink")1街區與3街區（[千代田區](../Page/千代田區.md "wikilink")[外神田一丁目與外神田四丁目](../Page/外神田.md "wikilink")）1萬5728[平方公尺都有地開發案](https://zh.wikipedia.org/wiki/平方公尺 "wikilink")。2002年2月，[NTT都市開發](../Page/NTT都市開發.md "wikilink")、、[鹿島建設共同計劃案勝出](../Page/鹿島建設.md "wikilink")\[2\]\[3\]。
 
 2005年3月，竣工。2006年1月[秋葉原UDX竣工](../Page/秋葉原UDX.md "wikilink")，同年3月9日開幕。
 
@@ -68,7 +68,7 @@ TOWER（秋葉原3－2街區）與（秋葉原3－3街區）雖不屬於秋葉�
 ## CROSSFIELD MANAGEMENT
 
 **CROSSFIELD
-MANAGEMENT**（）是NTT都市開發、DAIBIRU、鹿島建設為了秋葉原CROSSFIELD的大樓管理、清掃、租戶招募、活動企劃營運等等所成立的公司，2011年3月31日解散，同年9月26日[清算結束](../Page/清算.md "wikilink")\[9\]。
+MANAGEMENT**（）是NTT都市開發、DAIBIRU、鹿島建設為了秋葉原CROSSFIELD的大樓管理、清掃、租戶招募、活動企劃營運等等所成立的公司，2011年3月31日解散，同年9月26日[清算結束](https://zh.wikipedia.org/wiki/清算 "wikilink")\[9\]。
 
 ## 備註
 
@@ -87,7 +87,7 @@ MANAGEMENT**（）是NTT都市開發、DAIBIRU、鹿島建設為了秋葉原CROS
 3.  [秋葉原駅前都有地の売却先は鹿島建設らに決定](http://pc.watch.impress.co.jp/docs/2002/0219/akiba.htm)、PC
     Watch、2002年2月19日
 4.  [第3回 日本ベストパーキング賞
-    受賞者](https://web.archive.org/web/20070806071025/http://www.parking.or.jp/hyoushou/3_houkoku/3_jushou.pdf)、[財團法人](../Page/財團法人.md "wikilink")
+    受賞者](https://web.archive.org/web/20070806071025/http://www.parking.or.jp/hyoushou/3_houkoku/3_jushou.pdf)、[財團法人](https://zh.wikipedia.org/wiki/財團法人 "wikilink")
 5.  [2006年度 グッドデザイン賞
     受賞番号：06B02005](http://www.g-mark.org/award/describe/32819)、日本設計振興會
 6.  [2007年度 グッドデザイン賞

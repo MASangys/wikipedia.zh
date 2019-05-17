@@ -1,17 +1,17 @@
 《**Switchblade**》是[Core
-Design开发](../Page/Core_Design.md "wikilink")、[Gremlin
-Graphics](../Page/Gremlin_Graphics.md "wikilink")1989年发行的电脑[平台游戏](../Page/平台游戏.md "wikilink")。
+Design开发](https://zh.wikipedia.org/wiki/Core_Design "wikilink")、[Gremlin
+Graphics](https://zh.wikipedia.org/wiki/Gremlin_Graphics "wikilink")1989年发行的电脑[平台游戏](../Page/平台游戏.md "wikilink")。
 
-游戏对应[Amiga](../Page/Amiga.md "wikilink")、[雅达利ST](../Page/雅达利ST.md "wikilink")、[ZX
-Spectrum](../Page/ZX_Spectrum.md "wikilink")、[Commodore
-64和](../Page/Commodore_64.md "wikilink")[Amstrad
-CPC电脑](../Page/Amstrad_CPC.md "wikilink")。后有1991年的[Amstrad
-GX4000强化移植版发行](../Page/Amstrad_GX4000.md "wikilink")\[1\]。
+游戏对应[Amiga](../Page/Amiga.md "wikilink")、[雅达利ST](https://zh.wikipedia.org/wiki/雅达利ST "wikilink")、[ZX
+Spectrum](https://zh.wikipedia.org/wiki/ZX_Spectrum "wikilink")、[Commodore
+64和](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")[Amstrad
+CPC电脑](https://zh.wikipedia.org/wiki/Amstrad_CPC "wikilink")。后有1991年的[Amstrad
+GX4000强化移植版发行](https://zh.wikipedia.org/wiki/Amstrad_GX4000 "wikilink")\[1\]。
 
 游戏采用拼接卷轴式平台画面，玩家操控主人公在地下移动，未进入的地区视野模糊\[2\]。
 
 续作《[Switchblade
-II](../Page/Switchblade_II.md "wikilink")》于1991年发行\[3\]\[4\]。
+II](https://zh.wikipedia.org/wiki/Switchblade_II "wikilink")》于1991年发行\[3\]\[4\]。
 
 ## 参考文献
 

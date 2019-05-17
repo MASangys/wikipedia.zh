@@ -1,4 +1,4 @@
-**friDay音樂**（原名為**Omusic**、**全音樂**）是由[遠傳電信及](../Page/遠傳電信.md "wikilink")[豐華唱片](../Page/豐華唱片.md "wikilink")、[金牌大風](../Page/金牌大風.md "wikilink")、[華研國際音樂](../Page/華研國際音樂.md "wikilink")、[福茂唱片](../Page/福茂唱片.md "wikilink")、[環球音樂](../Page/環球音樂_\(台灣\).md "wikilink")、[台灣索尼音樂等](../Page/台灣索尼音樂娛樂.md "wikilink")[唱片公司與](../Page/唱片公司.md "wikilink")[眾來科技](../Page/眾來科技.md "wikilink")\[1\]共同挹資成立的一個「數位音樂服務平台」。提供線上聽歌、離線聽歌、MP3歌曲下載及來電鈴聲下載服務。2017年3月31日加入遠傳
+**friDay音樂**（原名為**Omusic**、**全音樂**）是由[遠傳電信及](../Page/遠傳電信.md "wikilink")[豐華唱片](../Page/豐華唱片.md "wikilink")、[金牌大風](../Page/金牌大風.md "wikilink")、[華研國際音樂](../Page/華研國際音樂.md "wikilink")、[福茂唱片](../Page/福茂唱片.md "wikilink")、[環球音樂](../Page/環球音樂_\(台灣\).md "wikilink")、[台灣索尼音樂等](../Page/台灣索尼音樂娛樂.md "wikilink")[唱片公司與](../Page/唱片公司.md "wikilink")[眾來科技](https://zh.wikipedia.org/wiki/眾來科技 "wikilink")\[1\]共同挹資成立的一個「數位音樂服務平台」。提供線上聽歌、離線聽歌、MP3歌曲下載及來電鈴聲下載服務。2017年3月31日加入遠傳
 friDay 品牌旗下，更名為 friDay音樂 。
 
 ## 簡介
@@ -22,12 +22,12 @@ friDay 品牌旗下，更名為 friDay音樂 。
 <!-- end list -->
 
   - **MP3歌曲下載**：跨平台購買下載DRM-Free MP3
-    歌曲，使用者可隨意複製音樂在[手機](../Page/手機.md "wikilink")、[PC](../Page/PC.md "wikilink")、[平板電腦或](../Page/平板電腦.md "wikilink")[隨身碟上播放](../Page/隨身碟.md "wikilink")，每首以19元收費\[5\]。
+    歌曲，使用者可隨意複製音樂在[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")、[PC](../Page/PC.md "wikilink")、[平板電腦或](../Page/平板電腦.md "wikilink")[隨身碟上播放](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")，每首以19元收費\[5\]。
 
 <!-- end list -->
 
   - **鈴聲下載**：可下載手機鈴聲，也有來電答鈴服務，支援多種裝置包含
-    [Android](../Page/Android.md "wikilink")、[iPhone](../Page/iPhone.md "wikilink")
+    [Android](../Page/Android.md "wikilink")、[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
     等。\[6\]
 
 ## 參考資料

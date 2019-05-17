@@ -1,5 +1,5 @@
 《**All My
-Pace**》是[台灣](../Page/台灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[吳佩慈的第二張個人音樂專輯](../Page/吳佩慈.md "wikilink")，於1998年7月7日推出。
+Pace**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳佩慈的第二張個人音樂專輯](../Page/吳佩慈.md "wikilink")，於1998年7月7日推出。
 
 ## 曲目
 

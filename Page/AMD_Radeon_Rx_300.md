@@ -1,7 +1,7 @@
 **AMD Radeon Rx 300**系列顯示核心，研發代號「**Pirates
-Islands**」，是[超微半導體所推出的](../Page/超微半導體.md "wikilink")[圖形處理器系列](../Page/圖形處理器.md "wikilink")。根據超微的顯示核心發展路線「Pirates
+Islands**」，是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器系列](../Page/圖形處理器.md "wikilink")。根據超微的顯示核心發展路線「Pirates
 Islands」將接替「Volcanic Islands」（即[AMD Radeon Rx
-200系列](../Page/AMD_Radeon_Rx_200.md "wikilink")）的產品線。全新核心"Fiji"為首個使用[高頻寬記憶體](../Page/高頻寬記憶體.md "wikilink")（HBM）的顯示核心系列，記憶體寬度達4096bit，記憶體總頻寬達512GB/s。
+200系列](../Page/AMD_Radeon_Rx_200.md "wikilink")）的產品線。全新核心"Fiji"為首個使用[高頻寬記憶體](https://zh.wikipedia.org/wiki/高頻寬記憶體 "wikilink")（HBM）的顯示核心系列，記憶體寬度達4096bit，記憶體總頻寬達512GB/s。
 Pirates
 Islands系列顯示核心於2015年6月16日美國E3展正式發布，並於當年6月18日展開第一波的銷售，第一波銷售的卡號皆為[AMD
 Radeon Rx
@@ -18,7 +18,7 @@ Fury系列則於當年6月24日後開始銷售。
 ### TressFX
 
 TressFX技術，是超微透過DirectX
-11所實作的3D畫面處理技術，能逼真展現像是頭髮絲等超精細的畫面細節而無需消耗過多的顯示核心資源。此次超微利用這個技術與Crytek、Illfonic聯手，基於最新的針對[GCN架構進行最佳化的CryENGINE引擎](../Page/GCN架構.md "wikilink")，重新製作了[ATI時代](../Page/ATI.md "wikilink")[Radeon系列的虛擬形象代言人Ruby](../Page/Radeon.md "wikilink")，以此作為Radeon
+11所實作的3D畫面處理技術，能逼真展現像是頭髮絲等超精細的畫面細節而無需消耗過多的顯示核心資源。此次超微利用這個技術與Crytek、Illfonic聯手，基於最新的針對[GCN架構進行最佳化的CryENGINE引擎](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")，重新製作了[ATI時代](https://zh.wikipedia.org/wiki/ATI "wikilink")[Radeon系列的虛擬形象代言人Ruby](../Page/Radeon.md "wikilink")，以此作為Radeon
 R9/R7 200系列的虛擬代言人，但這次是『真正擁有』12150根獨立的頭髮絲。
 
 ### CrossFire
@@ -29,7 +29,7 @@ Express匯流排直接存取其他GPU](../Page/PCI_Express.md "wikilink")，便�
 
 ### 多螢幕顯示
 
-此代的[Eyefinity寬域技術仍然最多支援六螢幕顯示輸出](../Page/AMD_Eyefinity.md "wikilink")，標配連接埠依舊是兩個[DVI](../Page/DVI.md "wikilink")、一個[HDMI和一個](../Page/HDMI.md "wikilink")[DisplayPort](../Page/DisplayPort.md "wikilink")。但這一代的Eyefinity技術相比以往的大大降低對DisplayPort技術的依賴。當只組建三螢幕顯示輸出時，可以完全不使用DisplayPort連接埠，只有兩個DVI
+此代的[Eyefinity寬域技術仍然最多支援六螢幕顯示輸出](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")，標配連接埠依舊是兩個[DVI](../Page/DVI.md "wikilink")、一個[HDMI和一個](../Page/HDMI.md "wikilink")[DisplayPort](../Page/DisplayPort.md "wikilink")。但這一代的Eyefinity技術相比以往的大大降低對DisplayPort技術的依賴。當只組建三螢幕顯示輸出時，可以完全不使用DisplayPort連接埠，只有兩個DVI
 +
 一個HDMI亦可以達成三螢幕輸出，而以往的技術，無論是三螢幕抑或是更多螢幕顯示輸出，都必須使用一個配備DisplayPort連接埠的螢幕方能達成多螢幕輸出。\[4\]因應技術變更，新顯示卡的DVI連接埠相應地改為使用和NVIDIA相同的標準DVI連接埠。\[5\]
 借助MTS擴展器可組建單卡六螢幕輸出。
@@ -47,36 +47,36 @@ Express匯流排直接存取其他GPU](../Page/PCI_Express.md "wikilink")，便�
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
-<th><p><a href="../Page/核心代號.md" title="wikilink">核心代號</a></p></th>
-<th><p><a href="../Page/Microarchitecture.md" title="wikilink">GCN架構版本</a></p></th>
-<th><p>製程 (<a href="../Page/Nanometer.md" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心代號" title="wikilink">核心代號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Microarchitecture" title="wikilink">GCN架構版本</a></p></th>
+<th><p>製程 (<a href="https://zh.wikipedia.org/wiki/Nanometer" title="wikilink">nm</a>)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>晶片面積 (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>晶片面積 (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>匯流排介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體<sup>6</sup></p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p>支援的<a href="../Page/Application_programming_interface.md" title="wikilink">API</a> (version)</p></th>
+<th><p>支援的<a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> (version)</p></th>
 <th><p>上市價格 (美金)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>核心時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>加速時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記憶體時脈 (<a href="../Page/Transfer_(computing).md" title="wikilink">MT/s</a>)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
+<td><p>核心時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>加速時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記憶體時脈 (<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
 <td><p>容量 (<a href="../Page/Mebibyte.md" title="wikilink">MiB</a>)</p></td>
-<td><p>顆粒頻寬(<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>顆粒頻寬(<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>類型</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">單精度浮點運算</a><sup>4</sup></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">雙精度浮點運算</a><sup>5</sup></p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">單精度浮點運算</a><sup>4</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">雙精度浮點運算</a><sup>5</sup></p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -374,7 +374,7 @@ GDDR5</p></td>
 <td><p>224</p></td>
 <td><p>4096</p></td>
 <td><p>4096</p></td>
-<td><p><a href="../Page/High_Bandwidth_Memory.md" title="wikilink">HBM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/High_Bandwidth_Memory" title="wikilink">HBM</a></p></td>
 <td><p>512</p></td>
 </tr>
 <tr class="odd">
@@ -454,7 +454,7 @@ GDDR5</p></td>
 <td><p>填充率</p></td>
 <td><p>記憶體<sup>6</sup></p></td>
 <td><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></td>
 <td><p>支援的API (version)</p></td>
 <td></td>
 <td></td>
@@ -471,14 +471,15 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-  - <sup>1</sup> [統一渲染器數量](../Page/統一渲染器.md "wikilink") :
-    [紋理對映單元](../Page/紋理對映單元.md "wikilink")（TMU）數量 :
-    [渲染輸出單元](../Page/渲染輸出單元.md "wikilink")（ROP）數量
+  - <sup>1</sup>
+    [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink")
+    : [紋理對映單元](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink")（TMU）數量 :
+    [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（ROP）數量
   - <sup>2</sup>
-    畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](../Page/時脈.md "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
+    畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](https://zh.wikipedia.org/wiki/時脈 "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
   - <sup>3</sup> 紋理填充率的計算：TMU的數量乘以基準核心時脈速率（時脈單位Hz），單位紋理數每秒（T/s）。
   - <sup>4</sup>
-    單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](../Page/FLOPS.md "wikilink")。
+    單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink")。
   - <sup>5</sup>
     「Grenada(Hawaii)」核心的圖形處理器，雙精度浮點數運算效能是單精度的1/8，其它使用28奈米製程的顯示核心都是1/16的雙精度/單精度運算效能比率。
   - <sup>6</sup> R9 380（包括OEM型號）、Nano、Fury、Fury X所使用的
@@ -499,14 +500,14 @@ GDDR5</p></td>
 <th><p>開發代號</p></th>
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
-<th><p><a href="../Page/Computer_bus.md" title="wikilink">匯流排</a> <a href="../Page/I/O_interface.md" title="wikilink">介面</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Computer_bus" title="wikilink">匯流排</a> <a href="https://zh.wikipedia.org/wiki/I/O_interface" title="wikilink">介面</a></p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
-<th><p>支援的<a href="../Page/Application_programming_interface.md" title="wikilink">API</a>(版本)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
+<th><p>支援的<a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a>(版本)</p></th>
 <th><p>TDP (Watts) GPU only</p></th>
 </tr>
 </thead>
@@ -515,12 +516,12 @@ GDDR5</p></td>
 <td><p>核心時脈 (MHz)</p></td>
 <td><p>加速時脈 (MHz)</p></td>
 <td><p>記憶體時脈 (MHz)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
-<td><p>傳輸介面 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>傳輸介面 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D支援</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGLˊ</a> 元</p></td>
 <td></td>
@@ -706,7 +707,8 @@ GDDR5</p></td>
 ## 另見
 
   - [AMD顯示核心列表](../Page/AMD顯示核心列表.md "wikilink")
-  - [NVIDIA GeForce 900](../Page/NVIDIA_GeForce_900.md "wikilink")
+  - [NVIDIA GeForce
+    900](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_900 "wikilink")
 
 ## 外部連結
 

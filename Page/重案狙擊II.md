@@ -1,4 +1,4 @@
-《**重案狙擊II**》（[英文](../Page/英语.md "wikilink")：），[馬來西亞](../Page/馬來西亞.md "wikilink")[ntv7時裝](../Page/ntv7.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，製作單位為[新傳媒製作馬來西亞分公司](../Page/新傳媒製作.md "wikilink")，由[黃啟銘](../Page/黃啟銘.md "wikilink")、[吳俐璇](../Page/吳俐璇.md "wikilink")、[王淑君](../Page/王淑君.md "wikilink")、[曾玟偉](../Page/曾玟偉.md "wikilink")、[張詠華及](../Page/張詠華.md "wikilink")[陳俐杏領銜主演](../Page/陳俐杏.md "wikilink")，監製為[黃來發](../Page/黃來發.md "wikilink")，製作人為[楊錫彬](../Page/楊錫彬.md "wikilink")。
+《**重案狙擊II**》（[英文](../Page/英语.md "wikilink")：），[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[ntv7時裝](https://zh.wikipedia.org/wiki/ntv7 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，製作單位為[新傳媒製作馬來西亞分公司](https://zh.wikipedia.org/wiki/新傳媒製作 "wikilink")，由[黃啟銘](https://zh.wikipedia.org/wiki/黃啟銘 "wikilink")、[吳俐璇](../Page/吳俐璇.md "wikilink")、[王淑君](../Page/王淑君.md "wikilink")、[曾玟偉](https://zh.wikipedia.org/wiki/曾玟偉 "wikilink")、[張詠華及](https://zh.wikipedia.org/wiki/張詠華 "wikilink")[陳俐杏領銜主演](https://zh.wikipedia.org/wiki/陳俐杏 "wikilink")，監製為[黃來發](https://zh.wikipedia.org/wiki/黃來發 "wikilink")，製作人為[楊錫彬](https://zh.wikipedia.org/wiki/楊錫彬 "wikilink")。
 
 ## 播出时间
 
@@ -11,7 +11,7 @@
 <td><p><strong>播出時間</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ntv7.md" title="wikilink">ntv7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ntv7" title="wikilink">ntv7</a></p></td>
 <td></td>
 <td><p>2016年5月11日</p></td>
 <td><p>星期一至四 21:30-22:30</p></td>
@@ -56,13 +56,13 @@
 <td><p>Madam钟</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/曾玟偉.md" title="wikilink">曾玟偉</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/曾玟偉" title="wikilink">曾玟偉</a></strong></p></td>
 <td><p>徐展飞</p></td>
 <td><p>重案组探员 暗恋赵子晴 后成其男友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張詠華.md" title="wikilink">張詠華</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張詠華" title="wikilink">張詠華</a></strong></p></td>
 <td><p>周锦安</p></td>
 <td><p>重案组探员 周可唯之父</p></td>
 <td></td>

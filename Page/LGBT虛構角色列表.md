@@ -1,4 +1,4 @@
-本條目為**LGBT虛構人物列表**，收錄出現在[電影](../Page/電影.md "wikilink")、[戲劇](../Page/戲劇.md "wikilink")、[動畫](../Page/動畫.md "wikilink")、[漫畫](../Page/漫畫.md "wikilink")、[小說](../Page/小說.md "wikilink")、[電玩等](../Page/電玩.md "wikilink")[虛構作品裡的LGBT](../Page/虛構作品.md "wikilink")[角色](../Page/角色.md "wikilink")。虛構是指憑空想像而非現實存在的人事物，許多創作者利用虛構手法，為作品構築獨特的世界觀及人事物，創造了不少藝術和娛樂價值。本列表收錄人物，以創作者明確表明或情節對話中有明示暗示者為主。創作者有可能不會表明人物角色的[性傾向或](../Page/性傾向.md "wikilink")[性別認同](../Page/性別認同.md "wikilink")，[同人愛好者亦可能對原作人物進行](../Page/同人_\(ACG\).md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，故在本列表之外[閱聽人仍保有很大的想像空間](../Page/閱聽人.md "wikilink")。
+本條目為**LGBT虛構人物列表**，收錄出現在[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[戲劇](https://zh.wikipedia.org/wiki/戲劇 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[電玩等](https://zh.wikipedia.org/wiki/電玩 "wikilink")[虛構作品裡的LGBT](../Page/虛構作品.md "wikilink")[角色](../Page/角色.md "wikilink")。虛構是指憑空想像而非現實存在的人事物，許多創作者利用虛構手法，為作品構築獨特的世界觀及人事物，創造了不少藝術和娛樂價值。本列表收錄人物，以創作者明確表明或情節對話中有明示暗示者為主。創作者有可能不會表明人物角色的[性傾向或](https://zh.wikipedia.org/wiki/性傾向 "wikilink")[性別認同](../Page/性別認同.md "wikilink")，[同人愛好者亦可能對原作人物進行](../Page/同人_\(ACG\).md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，故在本列表之外[閱聽人仍保有很大的想像空間](../Page/閱聽人.md "wikilink")。
 
 ## 影視戲劇
 
@@ -19,7 +19,7 @@
 <tr class="odd">
 <td></td>
 <td><p>1919</p></td>
-<td><p><a href="../Page/無聲電影.md" title="wikilink">無聲電影</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無聲電影" title="wikilink">無聲電影</a></p></td>
 <td><p>德國</p></td>
 <td><p>Paul Körner<br />
 Kurt Sivers</p></td>
@@ -41,7 +41,7 @@ Kurt Sivers</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/奥菲斯.md" title="wikilink">奥菲斯</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥菲斯" title="wikilink">奥菲斯</a>（）</p></td>
 <td><p>1950</p></td>
 <td><p>電影</p></td>
 <td><p>法國</p></td>
@@ -64,7 +64,7 @@ Kurt Sivers</p></td>
 <td><p>不詳</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/養子不教誰之過_(電影).md" title="wikilink">養子不教誰之過</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/養子不教誰之過_(電影)" title="wikilink">養子不教誰之過</a></p></td>
 <td><p>1955</p></td>
 <td><p>電影</p></td>
 <td><p>美國</p></td>
@@ -73,7 +73,7 @@ John Crawford (Plato)</p></td>
 <td><p>男</p></td>
 <td><p>雙[4]<br />
 同</p></td>
-<td><p><a href="../Page/詹姆斯·狄恩.md" title="wikilink">詹姆斯·狄恩</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·狄恩" title="wikilink">詹姆斯·狄恩</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -85,7 +85,7 @@ John Crawford (Plato)</p></td>
 </p></td>
 <td><p>男</p></td>
 <td><p>同[5]</p></td>
-<td><p><a href="../Page/馬龍·白蘭度.md" title="wikilink">馬龍·白蘭度</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/馬龍·白蘭度" title="wikilink">馬龍·白蘭度</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -98,9 +98,9 @@ Oliver Fish [2012-2013]<br />
 Kyle Lewis (Kish) [2012-2013]</p></td>
 <td><p>男</p></td>
 <td><p>同[6][7]</p></td>
-<td><p><a href="../Page/瑞恩·菲利普.md" title="wikilink">瑞恩·菲利普</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/瑞恩·菲利普" title="wikilink">瑞恩·菲利普</a><br />
 <br />
-<a href="../Page/布雷特·克雷韋爾.md" title="wikilink">布雷特·克雷韋爾</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/布雷特·克雷韋爾" title="wikilink">布雷特·克雷韋爾</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -139,7 +139,7 @@ Justin<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/霧港水手.md" title="wikilink">霧港水手</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霧港水手" title="wikilink">霧港水手</a></p></td>
 <td><p>1982</p></td>
 <td><p>電影</p></td>
 <td><p>德國</p></td>
@@ -158,11 +158,11 @@ Justin<br />
 世野井</p></td>
 <td><p>男</p></td>
 <td><p>同／雙[11]</p></td>
-<td><p><a href="../Page/大衛·鮑依.md" title="wikilink">大衛·鮑依</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/大衛·鮑依" title="wikilink">大衛·鮑依</a><br />
 <a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/同窗之愛.md" title="wikilink">同窗之愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/同窗之愛" title="wikilink">同窗之愛</a></p></td>
 <td><p>1984</p></td>
 <td><p>電影</p></td>
 <td><p>英國</p></td>
@@ -170,8 +170,8 @@ Justin<br />
 James Harcourt</p></td>
 <td><p>男</p></td>
 <td><p>同[12]</p></td>
-<td><p><a href="../Page/魯伯特·艾瑞特.md" title="wikilink">魯伯特·艾瑞特</a><br />
-<a href="../Page/凱瑞·艾文斯.md" title="wikilink">凱瑞·艾文斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魯伯特·艾瑞特" title="wikilink">魯伯特·艾瑞特</a><br />
+<a href="https://zh.wikipedia.org/wiki/凱瑞·艾文斯" title="wikilink">凱瑞·艾文斯</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -183,7 +183,7 @@ Johnny Berthoty</p></td>
 <td><p>男</p></td>
 <td><p>同[13]</p></td>
 <td><p><br />
-<a href="../Page/丹尼爾·戴-路易斯.md" title="wikilink">丹尼爾·戴-路易斯</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/丹尼爾·戴-路易斯" title="wikilink">丹尼爾·戴-路易斯</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孽子.md" title="wikilink">孽子</a></p></td>
@@ -204,13 +204,13 @@ Johnny Berthoty</p></td>
 <td><p>同[14]</p></td>
 <td><p><a href="../Page/邵昕.md" title="wikilink">邵昕</a>、<a href="../Page/范植偉.md" title="wikilink">范植偉</a>、<a href="../Page/莫子儀.md" title="wikilink">莫子儀</a><br />
 <a href="../Page/楊祐寧.md" title="wikilink">楊祐寧</a><br />
-<a href="../Page/蔡鵬濤.md" title="wikilink">蔡鵬濤</a>、<a href="../Page/張孝全.md" title="wikilink">張孝全</a>、<a href="../Page/李尉司.md" title="wikilink">李尉司</a><br />
-<a href="../Page/田威威.md" title="wikilink">田威威</a>、<a href="../Page/金勤.md" title="wikilink">金勤</a>、<a href="../Page/魏群翰.md" title="wikilink">魏群翰</a><br />
-<a href="../Page/馬邵君.md" title="wikilink">馬邵君</a>、<a href="../Page/吳懷中.md" title="wikilink">吳懷中</a>、<a href="../Page/許博翔.md" title="wikilink">許博翔</a><br />
-<a href="../Page/孫越_(演員).md" title="wikilink">孫越</a>、<a href="../Page/丁強.md" title="wikilink">丁強</a>、<a href="../Page/唐美雲.md" title="wikilink">唐美雲</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/蔡鵬濤" title="wikilink">蔡鵬濤</a>、<a href="../Page/張孝全.md" title="wikilink">張孝全</a>、<a href="https://zh.wikipedia.org/wiki/李尉司" title="wikilink">李尉司</a><br />
+<a href="https://zh.wikipedia.org/wiki/田威威" title="wikilink">田威威</a>、<a href="../Page/金勤.md" title="wikilink">金勤</a>、<a href="https://zh.wikipedia.org/wiki/魏群翰" title="wikilink">魏群翰</a><br />
+<a href="https://zh.wikipedia.org/wiki/馬邵君" title="wikilink">馬邵君</a>、<a href="../Page/吳懷中.md" title="wikilink">吳懷中</a>、<a href="https://zh.wikipedia.org/wiki/許博翔" title="wikilink">許博翔</a><br />
+<a href="../Page/孫越_(演員).md" title="wikilink">孫越</a>、<a href="../Page/丁強.md" title="wikilink">丁強</a>、<a href="https://zh.wikipedia.org/wiki/唐美雲" title="wikilink">唐美雲</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/墨利斯的情人.md" title="wikilink">墨利斯的情人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/墨利斯的情人" title="wikilink">墨利斯的情人</a></p></td>
 <td><p>1987</p></td>
 <td><p>電影</p></td>
 <td><p>英國</p></td>
@@ -220,11 +220,11 @@ Alec Scudder</p></td>
 <td><p>男</p></td>
 <td><p>同[15]</p></td>
 <td><p><br />
-<a href="../Page/休·葛蘭.md" title="wikilink">休·葛蘭</a><br />
-<a href="../Page/鲁珀特·格雷夫斯.md" title="wikilink">鲁珀特·格雷夫斯</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/休·葛蘭" title="wikilink">休·葛蘭</a><br />
+<a href="https://zh.wikipedia.org/wiki/鲁珀特·格雷夫斯" title="wikilink">鲁珀特·格雷夫斯</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/天使在美國.md" title="wikilink">天使在美國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天使在美國" title="wikilink">天使在美國</a></p></td>
 <td><p>1991-1993<br />
 2003<br />
 2004<br />
@@ -246,13 +246,13 @@ Prior Walter<br />
 Louis Ironson</p></td>
 <td><p>男</p></td>
 <td><p>同[16]</p></td>
-<td><p><a href="../Page/艾爾·帕西諾.md" title="wikilink">艾爾·帕西諾</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/艾爾·帕西諾" title="wikilink">艾爾·帕西諾</a><br />
 <a href="../Page/派翠克·威爾森.md" title="wikilink">派翠克·威爾森</a><br />
 <a href="../Page/賈斯汀·柯克.md" title="wikilink">賈斯汀·柯克</a>、<a href="../Page/安德魯·加菲爾德.md" title="wikilink">安德魯·加菲爾德</a><br />
 <a href="../Page/本·申克曼.md" title="wikilink">本·申克曼</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/男人的一半還是男人.md" title="wikilink">男人的一半還是男人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/男人的一半還是男人" title="wikilink">男人的一半還是男人</a></p></td>
 <td><p>1991</p></td>
 <td><p>電影</p></td>
 <td><p>美國</p></td>
@@ -262,7 +262,7 @@ Scott Favor</p></td>
 <td><p>同[17]<br />
 雙</p></td>
 <td><p><a href="../Page/瑞凡·費尼克斯.md" title="wikilink">瑞凡·費尼克斯</a><br />
-<a href="../Page/基努·李維.md" title="wikilink">基努·李維</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/基努·李維" title="wikilink">基努·李維</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/軍官和男孩_(電影).md" title="wikilink">軍官和男孩</a></p></td>
@@ -286,7 +286,7 @@ Andrew Kelley</p></td>
 <td><p>男</p></td>
 <td><p>同[19]</p></td>
 <td><p><a href="../Page/趙文瑄.md" title="wikilink">趙文瑄</a><br />
-<a href="../Page/米歇尔·利希滕斯坦.md" title="wikilink">米歇尔·利希滕斯坦</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/米歇尔·利希滕斯坦" title="wikilink">米歇尔·利希滕斯坦</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/霸王別姬_(電影).md" title="wikilink">霸王別姬</a></p></td>
@@ -329,7 +329,7 @@ Harry Thompson [2014-]</p></td>
 </p></td>
 <td><p><br />
 <br />
-<a href="../Page/Kieron_Richardson.md" title="wikilink">Kieron Richardson</a><br />
+<a href="https://zh.wikipedia.org/wiki/Kieron_Richardson" title="wikilink">Kieron Richardson</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -341,11 +341,11 @@ Harry Thompson [2014-]</p></td>
 小史</p></td>
 <td><p>男</p></td>
 <td><p>同[22]</p></td>
-<td><p><a href="../Page/司汗.md" title="wikilink">司汗</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/司汗" title="wikilink">司汗</a><br />
 <a href="../Page/胡軍.md" title="wikilink">胡軍</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/愈愛愈美麗.md" title="wikilink">愈愛愈美麗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愈愛愈美麗" title="wikilink">愈愛愈美麗</a></p></td>
 <td><p>1996</p></td>
 <td><p>電影</p></td>
 <td><p>英國</p></td>
@@ -353,11 +353,11 @@ Harry Thompson [2014-]</p></td>
 Ste Pearce</p></td>
 <td><p>男</p></td>
 <td><p>同[23]</p></td>
-<td><p><a href="../Page/格倫·貝里.md" title="wikilink">格倫·貝里</a><br />
-<a href="../Page/斯科特·尼爾.md" title="wikilink">斯科特·尼爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/格倫·貝里" title="wikilink">格倫·貝里</a><br />
+<a href="https://zh.wikipedia.org/wiki/斯科特·尼爾" title="wikilink">斯科特·尼爾</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/愛在心裡口難開.md" title="wikilink">愛在心裡口難開</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛在心裡口難開" title="wikilink">愛在心裡口難開</a></p></td>
 <td><p>1997</p></td>
 <td><p>電影</p></td>
 <td><p>美國</p></td>
@@ -415,11 +415,11 @@ Sam</p></td>
 Greg Randazzo</p></td>
 <td><p>男</p></td>
 <td><p>雙[28]</p></td>
-<td><p><a href="../Page/瑞恩·菲利普.md" title="wikilink">瑞恩·菲利普</a><br />
-<a href="../Page/布萊克金·邁耶.md" title="wikilink">布萊克金·邁耶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瑞恩·菲利普" title="wikilink">瑞恩·菲利普</a><br />
+<a href="https://zh.wikipedia.org/wiki/布萊克金·邁耶" title="wikilink">布萊克金·邁耶</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/戀愛時代_(美國電視劇).md" title="wikilink">戀愛時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀愛時代_(美國電視劇)" title="wikilink">戀愛時代</a></p></td>
 <td><p>1998-2003</p></td>
 <td><p>電視劇</p></td>
 <td><p>美國</p></td>
@@ -427,7 +427,7 @@ Greg Randazzo</p></td>
 </p></td>
 <td><p>男</p></td>
 <td><p>同[29]</p></td>
-<td><p><a href="../Page/科爾·史密斯.md" title="wikilink">科爾·史密斯</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/科爾·史密斯" title="wikilink">科爾·史密斯</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -440,7 +440,7 @@ Jack McFarland</p></td>
 <td><p>男</p></td>
 <td><p>同[30]</p></td>
 <td><p><a href="../Page/艾瑞克·麥柯馬克.md" title="wikilink">艾瑞克·麥柯馬克</a><br />
-<a href="../Page/肖恩·海斯.md" title="wikilink">肖恩·海斯</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/肖恩·海斯" title="wikilink">肖恩·海斯</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/同志亦凡人_(2000年電視劇).md" title="wikilink">同志亦凡人</a></p></td>
@@ -453,11 +453,11 @@ Justin Taylor</p></td>
 <td><p>男</p></td>
 <td><p>同[31]</p></td>
 <td><p><a href="../Page/葛尔·哈罗德.md" title="wikilink">葛爾·哈羅德</a><br />
-<a href="../Page/哈尔·斯帕克斯.md" title="wikilink">哈爾·斯帕克斯</a><br />
+<a href="https://zh.wikipedia.org/wiki/哈尔·斯帕克斯" title="wikilink">哈爾·斯帕克斯</a><br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/藍宇.md" title="wikilink">藍宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藍宇" title="wikilink">藍宇</a></p></td>
 <td><p>2001</p></td>
 <td><p>電影</p></td>
 <td><p>香港</p></td>
@@ -466,7 +466,7 @@ Justin Taylor</p></td>
 <td><p>男</p></td>
 <td><p>同[32]</p></td>
 <td><p><a href="../Page/胡軍.md" title="wikilink">胡軍</a><br />
-<a href="../Page/劉燁_(演員).md" title="wikilink">劉燁</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/劉燁_(演員)" title="wikilink">劉燁</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/藍色大門.md" title="wikilink">藍色大門</a></p></td>
@@ -499,8 +499,8 @@ Lior Amichai (Jagger)</p></td>
 Christian William Markelli</p></td>
 <td><p>男</p></td>
 <td><p>同[35]</p></td>
-<td><p><a href="../Page/Max_Sandvoss.md" title="wikilink">Max Sandvoss</a><br />
-<a href="../Page/Wes_Ramsey.md" title="wikilink">Wes Ramsey</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Max_Sandvoss" title="wikilink">Max Sandvoss</a><br />
+<a href="https://zh.wikipedia.org/wiki/Wes_Ramsey" title="wikilink">Wes Ramsey</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/壞教慾.md" title="wikilink">壞教慾</a></p></td>
@@ -527,7 +527,7 @@ Juan / Ángel Andrade</p></td>
 <a href="../Page/周群達.md" title="wikilink">周群達</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/外出用餐.md" title="wikilink">外出用餐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/外出用餐" title="wikilink">外出用餐</a></p></td>
 <td><p>2004–2012</p></td>
 <td><p>電視劇</p></td>
 <td><p>美國</p></td>
@@ -554,7 +554,7 @@ Jack Twist</p></td>
 <td><p>男</p></td>
 <td><p>雙／同[39]</p></td>
 <td><p><a href="../Page/希斯·萊傑.md" title="wikilink">希斯·萊傑</a><br />
-<a href="../Page/傑克·葛倫霍.md" title="wikilink">傑克·葛倫霍</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/傑克·葛倫霍" title="wikilink">傑克·葛倫霍</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/王的男人.md" title="wikilink">王的男人</a></p></td>
@@ -566,7 +566,7 @@ Jack Twist</p></td>
 <td><p>男</p></td>
 <td><p>雙／同[40]</p></td>
 <td><p><a href="../Page/鄭進永.md" title="wikilink">鄭進永</a><br />
-<a href="../Page/李準基.md" title="wikilink">李準基</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/情慾按摩院.md" title="wikilink">情慾按摩院</a></p></td>
@@ -651,10 +651,10 @@ Iht (Stone)</p></td>
 <td><p>男</p></td>
 <td><p>同[47]</p></td>
 <td><p><a href="../Page/马里奥·毛瑞尔.md" title="wikilink">馬力歐·莫瑞爾</a><br />
-<a href="../Page/維特維斯特·海倫亞沃恩酷.md" title="wikilink">維特維斯特·海倫亞沃恩酷</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/維特維斯特·海倫亞沃恩酷" title="wikilink">維特維斯特·海倫亞沃恩酷</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/愛的言靈_(漫畫).md" title="wikilink">愛的言靈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛的言靈_(漫畫)" title="wikilink">愛的言靈</a></p></td>
 <td><p>2007</p></td>
 <td><p>電影</p></td>
 <td><p>日本</p></td>
@@ -663,7 +663,7 @@ Iht (Stone)</p></td>
 <td><p>男</p></td>
 <td><p>同[48]</p></td>
 <td><p><a href="../Page/德山秀典.md" title="wikilink">德山秀典</a><br />
-<a href="../Page/齋藤ヤスカ.md" title="wikilink">齋藤ヤスカ</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/齋藤ヤスカ" title="wikilink">齋藤ヤスカ</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -674,8 +674,8 @@ Iht (Stone)</p></td>
 Shaun</p></td>
 <td><p>男</p></td>
 <td><p>同[49]</p></td>
-<td><p><a href="../Page/特萊沃·懷特.md" title="wikilink">特萊沃·懷特</a><br />
-<a href="../Page/布拉德·羅維.md" title="wikilink">布拉德·羅維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特萊沃·懷特" title="wikilink">特萊沃·懷特</a><br />
+<a href="https://zh.wikipedia.org/wiki/布拉德·羅維" title="wikilink">布拉德·羅維</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -690,7 +690,7 @@ Shaun</p></td>
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/同級生_(2008年電影).md" title="wikilink">同級生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/同級生_(2008年電影)" title="wikilink">同級生</a></p></td>
 <td><p>2008</p></td>
 <td><p>電影</p></td>
 <td><p>日本</p></td>
@@ -714,7 +714,7 @@ William</p></td>
 Paolo Rivero</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/自由大道_(電影).md" title="wikilink">自由大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/自由大道_(電影)" title="wikilink">自由大道</a></p></td>
 <td><p>2008</p></td>
 <td><p>電影</p></td>
 <td><p>美國</p></td>
@@ -726,7 +726,7 @@ Paolo Rivero</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/歡樂合唱團.md" title="wikilink">歡樂合唱團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歡樂合唱團" title="wikilink">歡樂合唱團</a></p></td>
 <td><p>2009-2015</p></td>
 <td><p>電視劇</p></td>
 <td><p>美國</p></td>
@@ -738,7 +738,7 @@ Paolo Rivero</p></td>
 <a href="../Page/克里斯·柯爾弗.md" title="wikilink">克里斯·柯爾弗</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/為巴比祈禱.md" title="wikilink">為巴比祈禱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/為巴比祈禱" title="wikilink">為巴比祈禱</a></p></td>
 <td><p>2009</p></td>
 <td><p><a href="../Page/電視電影.md" title="wikilink">電視電影</a></p></td>
 <td><p>美國</p></td>
@@ -746,7 +746,7 @@ Paolo Rivero</p></td>
 </p></td>
 <td><p>男</p></td>
 <td><p>同[55]</p></td>
-<td><p><a href="../Page/瑞安·凱利.md" title="wikilink">瑞安·凱利</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/瑞安·凱利" title="wikilink">瑞安·凱利</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -774,7 +774,7 @@ Francisco</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/唐頓莊園.md" title="wikilink">唐頓莊園</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唐頓莊園" title="wikilink">唐頓莊園</a></p></td>
 <td><p>2010-2015</p></td>
 <td><p>電視劇</p></td>
 <td><p>英國</p></td>
@@ -782,7 +782,7 @@ Francisco</p></td>
 </p></td>
 <td><p>男</p></td>
 <td><p>同[58]</p></td>
-<td><p><a href="../Page/羅伯·詹姆士-克里爾.md" title="wikilink">羅伯·詹姆士-克里爾</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/羅伯·詹姆士-克里爾" title="wikilink">羅伯·詹姆士-克里爾</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -798,7 +798,7 @@ Francisco</p></td>
 <a href="../Page/河合龍之介.md" title="wikilink">河合龍之介</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陰屍路.md" title="wikilink">陰屍路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陰屍路" title="wikilink">陰屍路</a></p></td>
 <td><p>2010-</p></td>
 <td><p>電視劇</p></td>
 <td><p>美國</p></td>
@@ -824,7 +824,7 @@ Ashley</p></td>
 <tr class="odd">
 <td></td>
 <td><p>2010</p></td>
-<td><p><a href="../Page/多段式電影.md" title="wikilink">多段式電影</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多段式電影" title="wikilink">多段式電影</a></p></td>
 <td><p>印度</p></td>
 <td><p>Omar<br />
 Jai<br />
@@ -832,7 +832,7 @@ Policeman</p></td>
 <td><p>男</p></td>
 <td><p>同[62]</p></td>
 <td><p><br />
-<a href="../Page/Rahul_Bose.md" title="wikilink">Rahul Bose</a><br />
+<a href="https://zh.wikipedia.org/wiki/Rahul_Bose" title="wikilink">Rahul Bose</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -844,7 +844,7 @@ Policeman</p></td>
 Nasir</p></td>
 <td><p>男</p></td>
 <td><p>同[63]</p></td>
-<td><p><a href="../Page/丹尼爾·弗雷里格爾.md" title="wikilink">丹尼爾·弗雷里格爾</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/丹尼爾·弗雷里格爾" title="wikilink">丹尼爾·弗雷里格爾</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -861,10 +861,10 @@ Ethan</p></td>
 <td><p><br />
 <br />
 Michael Johnston<br />
-<a href="../Page/查理·卡維爾.md" title="wikilink">查理·卡維爾</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/查理·卡維爾" title="wikilink">查理·卡維爾</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/冰與火之歌：權力遊戲.md" title="wikilink">冰與火之歌：權力遊戲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冰與火之歌：權力遊戲" title="wikilink">冰與火之歌：權力遊戲</a></p></td>
 <td><p>2011–</p></td>
 <td><p>電視劇</p></td>
 <td><p>美國</p></td>
@@ -872,7 +872,7 @@ Michael Johnston<br />
 Renly Baratheon</p></td>
 <td><p>男</p></td>
 <td><p>同／雙[65]</p></td>
-<td><p><a href="../Page/芬·瓊斯.md" title="wikilink">芬·瓊斯</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/芬·瓊斯" title="wikilink">芬·瓊斯</a><br />
 <a href="../Page/格辛·安東尼.md" title="wikilink">格辛·安東尼</a></p></td>
 </tr>
 <tr class="odd">
@@ -924,7 +924,7 @@ Noh</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/逍遙法外_(電視劇).md" title="wikilink">逍遙法外</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逍遙法外_(電視劇)" title="wikilink">逍遙法外</a></p></td>
 <td><p>2014–</p></td>
 <td><p>電視劇</p></td>
 <td><p>美國</p></td>
@@ -932,11 +932,11 @@ Noh</p></td>
 Oliver Hampton</p></td>
 <td><p>男</p></td>
 <td><p>同[70]</p></td>
-<td><p><a href="../Page/Jack_Falahee.md" title="wikilink">Jack Falahee</a><br />
-<a href="../Page/Conrad_Ricamora.md" title="wikilink">Conrad Ricamora</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jack_Falahee" title="wikilink">Jack Falahee</a><br />
+<a href="https://zh.wikipedia.org/wiki/Conrad_Ricamora" title="wikilink">Conrad Ricamora</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/愛，不怕.md" title="wikilink">愛，不怕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛，不怕" title="wikilink">愛，不怕</a></p></td>
 <td><p>2014</p></td>
 <td><p>電影</p></td>
 <td><p>韓國</p></td>
@@ -948,12 +948,12 @@ Oliver Hampton</p></td>
 <a href="../Page/李在濬.md" title="wikilink">李在濬</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/模仿游戏.md" title="wikilink">模仿遊戲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/模仿游戏" title="wikilink">模仿遊戲</a></p></td>
 <td><p>2014</p></td>
 <td><p>電影</p></td>
 <td><p>美國<br />
 英國</p></td>
-<td><p><a href="../Page/艾倫·圖靈.md" title="wikilink">艾倫·圖靈</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/艾倫·圖靈" title="wikilink">艾倫·圖靈</a><br />
 </p></td>
 <td><p>男</p></td>
 <td><p>同[72]</p></td>
@@ -975,7 +975,7 @@ Oliver Hampton</p></td>
 <a href="../Page/鄭人碩.md" title="wikilink">鄭人碩</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/血熱之心.md" title="wikilink">血熱之心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/血熱之心" title="wikilink">血熱之心</a></p></td>
 <td><p>2014</p></td>
 <td><p>電影</p></td>
 <td><p>美國</p></td>
@@ -983,11 +983,11 @@ Oliver Hampton</p></td>
 Felix Turner</p></td>
 <td><p>男</p></td>
 <td><p>同[75]</p></td>
-<td><p><a href="../Page/馬克·盧法洛.md" title="wikilink">馬克·盧法洛</a><br />
-<a href="../Page/馬修·波莫.md" title="wikilink">馬修·波莫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬克·盧法洛" title="wikilink">馬克·盧法洛</a><br />
+<a href="https://zh.wikipedia.org/wiki/馬修·波莫" title="wikilink">馬修·波莫</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/愛情的模樣.md" title="wikilink">愛情的模樣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛情的模樣" title="wikilink">愛情的模樣</a></p></td>
 <td><p>2014</p></td>
 <td><p>電影</p></td>
 <td><p>巴西</p></td>
@@ -1008,7 +1008,7 @@ Stacie Andree</p></td>
 <td><p>女</p></td>
 <td><p>同[77]</p></td>
 <td><p><a href="../Page/茱莉安·摩爾.md" title="wikilink">茱莉安·摩爾</a><br />
-<a href="../Page/艾倫·佩姬.md" title="wikilink">-{zh-cn:埃伦·佩奇;zh-hk:愛倫·比芝;zh-tw:艾倫·佩姬;}-</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/艾倫·佩姬" title="wikilink">-{zh-cn:埃伦·佩奇;zh-hk:愛倫·比芝;zh-tw:艾倫·佩姬;}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/石牆風暴.md" title="wikilink">石牆風暴</a></p></td>
@@ -1019,11 +1019,11 @@ Stacie Andree</p></td>
 </p></td>
 <td><p>男</p></td>
 <td><p>同[78]</p></td>
-<td><p><a href="../Page/傑瑞米·歐文.md" title="wikilink">傑瑞米·歐文</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/傑瑞米·歐文" title="wikilink">傑瑞米·歐文</a><br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戀戀飛翔.md" title="wikilink">戀戀飛翔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀戀飛翔" title="wikilink">戀戀飛翔</a></p></td>
 <td><p>2015</p></td>
 <td><p>電影</p></td>
 <td><p>立陶宛</p></td>
@@ -1047,7 +1047,7 @@ Austė</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戀愛鄰距離.md" title="wikilink">戀愛鄰距離</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀愛鄰距離" title="wikilink">戀愛鄰距離</a></p></td>
 <td><p>2015-2016</p></td>
 <td><p>電視劇</p></td>
 <td><p>台灣</p></td>
@@ -1059,15 +1059,15 @@ Austė</p></td>
 <a href="../Page/莫允雯.md" title="wikilink">莫允雯</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/丹麥女孩.md" title="wikilink">丹麥女孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丹麥女孩" title="wikilink">丹麥女孩</a></p></td>
 <td><p>2015</p></td>
 <td><p>電影</p></td>
 <td><p>美國</p></td>
-<td><p><a href="../Page/莉莉·艾爾伯.md" title="wikilink">莉莉·艾爾伯</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/莉莉·艾爾伯" title="wikilink">莉莉·艾爾伯</a><br />
 </p></td>
 <td><p>跨性別</p></td>
 <td><p>不明[82]</p></td>
-<td><p><a href="../Page/艾迪·瑞德曼.md" title="wikilink">艾迪·瑞德曼</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/艾迪·瑞德曼" title="wikilink">艾迪·瑞德曼</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -1078,10 +1078,10 @@ Austė</p></td>
 <td><p>徐正熙</p></td>
 <td><p>男</p></td>
 <td><p>同[83]</p></td>
-<td><p><a href="../Page/周藝博.md" title="wikilink">周藝博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周藝博" title="wikilink">周藝博</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/上癮_(網路劇).md" title="wikilink">上癮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上癮_(網路劇)" title="wikilink">上癮</a></p></td>
 <td><p>2016</p></td>
 <td><p>網路劇</p></td>
 <td><p>中國</p></td>
@@ -1092,12 +1092,12 @@ Austė</p></td>
 <td><p>男</p></td>
 <td><p>同／雙[84]</p></td>
 <td><p><a href="../Page/黃景瑜.md" title="wikilink">黃景瑜</a><br />
-<a href="../Page/許魏洲.md" title="wikilink">許魏洲</a><br />
-<a href="../Page/林楓松.md" title="wikilink">林楓松</a><br />
+<a href="https://zh.wikipedia.org/wiki/許魏洲" title="wikilink">許魏洲</a><br />
+<a href="https://zh.wikipedia.org/wiki/林楓松" title="wikilink">林楓松</a><br />
 <a href="../Page/陳穩.md" title="wikilink">陳穩</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/怒_(電影).md" title="wikilink">怒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/怒_(電影)" title="wikilink">怒</a></p></td>
 <td><p>2016</p></td>
 <td><p>電影</p></td>
 <td><p>日本</p></td>
@@ -1119,8 +1119,8 @@ SEAN(<a href="../Page/薛寶釵.md" title="wikilink">薛寶釵</a>)<br />
 <a href="../Page/警幻仙子.md" title="wikilink">警幻仙子</a></p></td>
 <td><p>男</p></td>
 <td><p>同[86]</p></td>
-<td><p><a href="../Page/陳彥名.md" title="wikilink">陳彥名</a><br />
-<a href="../Page/呂金象.md" title="wikilink">呂金象</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/陳彥名" title="wikilink">陳彥名</a><br />
+<a href="https://zh.wikipedia.org/wiki/呂金象" title="wikilink">呂金象</a><br />
 <a href="../Page/紀言愷.md" title="wikilink">紀言愷</a><br />
 <a href="../Page/利晴天.md" title="wikilink">利晴天</a></p></td>
 </tr>
@@ -1145,7 +1145,7 @@ SEAN(<a href="../Page/薛寶釵.md" title="wikilink">薛寶釵</a>)<br />
 <td><p><a href="../Page/生田斗真.md" title="wikilink">生田斗真</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/愚行錄.md" title="wikilink">愚行錄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愚行錄" title="wikilink">愚行錄</a></p></td>
 <td><p>2017</p></td>
 <td><p>電影</p></td>
 <td><p>日本</p></td>
@@ -1155,7 +1155,7 @@ SEAN(<a href="../Page/薛寶釵.md" title="wikilink">薛寶釵</a>)<br />
 <td><p><a href="../Page/妻夫木聰.md" title="wikilink">妻夫木聰</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/偽婚男女.md" title="wikilink">偽婚男女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偽婚男女" title="wikilink">偽婚男女</a></p></td>
 <td><p>2017</p></td>
 <td><p>網路劇</p></td>
 <td><p>臺灣</p></td>
@@ -1169,12 +1169,12 @@ SAM DOFF</p></td>
 男</p></td>
 <td><p>同[87]</p></td>
 <td><p><a href="../Page/李京恬.md" title="wikilink">李京恬</a><br />
-<a href="../Page/程茉.md" title="wikilink">程茉</a><br />
+<a href="https://zh.wikipedia.org/wiki/程茉" title="wikilink">程茉</a><br />
 <a href="../Page/唐振剛.md" title="wikilink">唐振剛</a><br />
 <a href="../Page/周厚安.md" title="wikilink">周厚安</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/阿莉芙.md" title="wikilink">阿莉芙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿莉芙" title="wikilink">阿莉芙</a></p></td>
 <td><p>2017</p></td>
 <td><p>電影</p></td>
 <td><p>臺灣</p></td>
@@ -1184,11 +1184,11 @@ SAM DOFF</p></td>
 女</p></td>
 <td><p>不明[88]<br />
 同</p></td>
-<td><p><a href="../Page/舞炯恩.md" title="wikilink">Utjung Tjakivalid</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/舞炯恩" title="wikilink">Utjung Tjakivalid</a><br />
 <a href="../Page/趙逸嵐.md" title="wikilink">趙逸嵐</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/踩過界.md" title="wikilink">踩過界</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></p></td>
 <td><p>2017</p></td>
 <td><p>電視</p></td>
 <td><p>香港</p></td>
@@ -1198,7 +1198,7 @@ SAM DOFF</p></td>
 <td><p>陳庭欣</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/紅色氣球.md" title="wikilink">紅色氣球</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紅色氣球" title="wikilink">紅色氣球</a></p></td>
 <td><p>2017</p></td>
 <td><p>網路劇</p></td>
 <td><p>臺灣</p></td>
@@ -1211,7 +1211,7 @@ SAM DOFF</p></td>
 <a href="../Page/亮哲.md" title="wikilink">亮哲</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/抱抱我的初戀.md" title="wikilink">抱抱我的初戀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/抱抱我的初戀" title="wikilink">抱抱我的初戀</a></p></td>
 <td><p>2018</p></td>
 <td><p>電影</p></td>
 <td><p>美國</p></td>
@@ -1252,9 +1252,9 @@ SAM DOFF</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/道林·格雷的畫像.md" title="wikilink">道林·格雷的畫像</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/道林·格雷的畫像" title="wikilink">道林·格雷的畫像</a></p></td>
 <td><p>1890</p></td>
-<td><p><a href="../Page/奧斯卡·王爾德.md" title="wikilink">奧斯卡·王爾德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧斯卡·王爾德" title="wikilink">奧斯卡·王爾德</a></p></td>
 <td><p>英國</p></td>
 <td><p>改編小說<br />
 電影<br />
@@ -1269,7 +1269,7 @@ Lord Henry Wotton</p></td>
 <tr class="even">
 <td></td>
 <td><p>1893</p></td>
-<td><p><a href="../Page/奧斯卡·王爾德.md" title="wikilink">奧斯卡·王爾德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧斯卡·王爾德" title="wikilink">奧斯卡·王爾德</a></p></td>
 <td><p>英國</p></td>
 <td></td>
 <td><p>Des Grieux<br />
@@ -1280,7 +1280,7 @@ Teleny</p></td>
 <tr class="odd">
 <td><p><a href="../Page/威尼斯之死.md" title="wikilink">威尼斯之死</a></p></td>
 <td><p>1912</p></td>
-<td><p><a href="../Page/湯瑪斯·曼.md" title="wikilink">湯瑪斯·曼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯瑪斯·曼" title="wikilink">湯瑪斯·曼</a></p></td>
 <td><p>德國</p></td>
 <td><p>電影<br />
 音樂劇<br />
@@ -1290,7 +1290,7 @@ Teleny</p></td>
 <td><p>雙／同[91]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/墨利斯的情人.md" title="wikilink">墨利斯的情人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/墨利斯的情人" title="wikilink">墨利斯的情人</a></p></td>
 <td><p>1914／1971</p></td>
 <td><p><a href="../Page/E·M·福斯特.md" title="wikilink">愛德華·福斯特</a></p></td>
 <td><p>英國</p></td>
@@ -1317,7 +1317,7 @@ Alec Scudder</p></td>
 <tr class="even">
 <td><p>飛絮</p></td>
 <td><p>1925</p></td>
-<td><p><a href="../Page/张资平.md" title="wikilink">张资平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/张资平" title="wikilink">张资平</a></p></td>
 <td><p>中國</p></td>
 <td></td>
 <td><p>阿琇<br />
@@ -1328,7 +1328,7 @@ Alec Scudder</p></td>
 <tr class="odd">
 <td><p>虎雛</p></td>
 <td><p>1931</p></td>
-<td><p><a href="../Page/沈從文.md" title="wikilink">沈從文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈從文" title="wikilink">沈從文</a></p></td>
 <td><p>中國</p></td>
 <td></td>
 <td><p>第一人稱<br />
@@ -1339,7 +1339,7 @@ Alec Scudder</p></td>
 <tr class="even">
 <td></td>
 <td><p>1936</p></td>
-<td><p><a href="../Page/朱娜·巴恩斯.md" title="wikilink">朱娜·巴恩斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱娜·巴恩斯" title="wikilink">朱娜·巴恩斯</a></p></td>
 <td><p>美國</p></td>
 <td></td>
 <td><p>Robin Vote<br />
@@ -1392,7 +1392,7 @@ Randolph</p></td>
 <tr class="odd">
 <td></td>
 <td><p>1951</p></td>
-<td><p><a href="../Page/瑪格麗特·尤瑟娜爾.md" title="wikilink">瑪格麗特·尤瑟娜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瑪格麗特·尤瑟娜爾" title="wikilink">瑪格麗特·尤瑟娜</a></p></td>
 <td><p>法國</p></td>
 <td></td>
 <td><p><a href="../Page/哈德良.md" title="wikilink">哈德良</a></p></td>
@@ -1433,7 +1433,7 @@ Giovanni</p></td>
 歌舞劇<br />
 遊戲<br />
 漫畫</p></td>
-<td><p><a href="../Page/東方不敗.md" title="wikilink">東方不敗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東方不敗" title="wikilink">東方不敗</a></p></td>
 <td><p>跨性別</p></td>
 <td><p>男性[106]</p></td>
 </tr>
@@ -1447,7 +1447,7 @@ Giovanni</p></td>
 <td><p><a href="../Page/瑪莉·雷諾特.md" title="wikilink">瑪莉·雷諾特</a></p></td>
 <td><p>英國</p></td>
 <td></td>
-<td><p><a href="../Page/亞歷山大大帝.md" title="wikilink">亞歷山大大帝</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/亞歷山大大帝" title="wikilink">亞歷山大大帝</a><br />
 </p></td>
 <td><p>男</p></td>
 <td><p>同／雙[107]</p></td>
@@ -1535,7 +1535,7 @@ Jonathan</p></td>
 <td></td>
 <td><p>Jess Goldberg</p></td>
 <td><p>跨性別</p></td>
-<td><p><a href="../Page/女性向.md" title="wikilink">女性向</a>[114]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/女性向" title="wikilink">女性向</a>[114]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/荒人手記.md" title="wikilink">荒人手記</a></p></td>
@@ -1618,7 +1618,7 @@ Philip Eslingen</p></td>
 <td><p>同[123]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/冰與火之歌.md" title="wikilink">冰與火之歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冰與火之歌" title="wikilink">冰與火之歌</a></p></td>
 <td><p>1996–</p></td>
 <td><p><a href="../Page/喬治·R·R·馬丁.md" title="wikilink">喬治·R·R·馬丁</a></p></td>
 <td><p>美國</p></td>
@@ -1629,9 +1629,9 @@ Renly Baratheon</p></td>
 <td><p>同[125]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/哈利波特.md" title="wikilink">哈利波特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈利波特" title="wikilink">哈利波特</a></p></td>
 <td><p>1997-2007</p></td>
-<td><p><a href="../Page/J·K·羅琳.md" title="wikilink">J·K·羅琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/J·K·羅琳" title="wikilink">J·K·羅琳</a></p></td>
 <td><p>英國</p></td>
 <td><p>電影</p></td>
 <td><p><a href="../Page/阿不思·鄧不利多.md" title="wikilink">阿不思·鄧不利多</a><br />
@@ -1663,7 +1663,7 @@ Renly Baratheon</p></td>
 不明[128]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/時時刻刻.md" title="wikilink">時時刻刻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時時刻刻" title="wikilink">時時刻刻</a></p></td>
 <td><p>1998</p></td>
 <td><p><a href="../Page/麥可·康寧漢.md" title="wikilink">麥可·康寧漢</a></p></td>
 <td><p>美國</p></td>
@@ -1733,7 +1733,7 @@ Anthony MacMurrough</p></td>
 <tr class="even">
 <td><p>桃色嘴唇</p></td>
 <td><p>2003</p></td>
-<td><p><a href="../Page/崔子恩.md" title="wikilink">崔子恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔子恩" title="wikilink">崔子恩</a></p></td>
 <td><p>中國</p></td>
 <td></td>
 <td><p>美少年小貓<br />
@@ -1940,7 +1940,7 @@ Silas August</p></td>
 <td><p><a href="../Page/DC漫畫.md" title="wikilink">DC漫畫</a>：<a href="../Page/蝙蝠俠.md" title="wikilink">蝙蝠俠</a>（Batman）</p></td>
 <td><p>1939–</p></td>
 <td><p><a href="../Page/鲍勃·凯恩.md" title="wikilink">鲍勃·凯恩</a><br />
-<a href="../Page/比尔·芬格.md" title="wikilink">比尔·芬格</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/比尔·芬格" title="wikilink">比尔·芬格</a></p></td>
 <td><p>美國</p></td>
 <td><p>動畫<br />
 電玩<br />
@@ -1948,7 +1948,7 @@ Silas August</p></td>
 電視劇</p></td>
 <td><p><a href="../Page/蝙蝠俠.md" title="wikilink">蝙蝠俠</a>（Bruce Wayne）<br />
 <a href="../Page/猫女.md" title="wikilink">猫女</a>（Selina Kyle）<br />
-<a href="../Page/蝙蝠女俠.md" title="wikilink">蝙蝠女俠</a>（Kate Kane）</p></td>
+<a href="https://zh.wikipedia.org/wiki/蝙蝠女俠" title="wikilink">蝙蝠女俠</a>（Kate Kane）</p></td>
 <td><p>男<br />
 女<br />
 女</p></td>
@@ -1957,17 +1957,17 @@ Silas August</p></td>
 同[150]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/DC漫畫.md" title="wikilink">DC漫畫</a>：<a href="../Page/神力女超人_(DC漫畫).md" title="wikilink">神力女超人</a></p></td>
+<td><p><a href="../Page/DC漫畫.md" title="wikilink">DC漫畫</a>：<a href="https://zh.wikipedia.org/wiki/神力女超人_(DC漫畫)" title="wikilink">神力女超人</a></p></td>
 <td><p>1941–</p></td>
 <td><p>William Moulton Marston</p></td>
 <td><p>美國</p></td>
 <td><p>電影</p></td>
-<td><p><a href="../Page/神力女超人_(DC漫畫).md" title="wikilink">神力女超人</a>（Diana Prince）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神力女超人_(DC漫畫)" title="wikilink">神力女超人</a>（Diana Prince）</p></td>
 <td><p>女</p></td>
 <td><p>雙[151]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/漫威漫畫.md" title="wikilink">漫威漫畫</a>：<a href="../Page/X戰警.md" title="wikilink">X戰警</a>（X-men）</p></td>
+<td><p><a href="../Page/漫威漫畫.md" title="wikilink">漫威漫畫</a>：<a href="https://zh.wikipedia.org/wiki/X戰警" title="wikilink">X戰警</a>（X-men）</p></td>
 <td><p>1963–</p></td>
 <td><p><a href="../Page/史丹·李.md" title="wikilink">史丹·李</a><br />
 <a href="../Page/杰克·科比.md" title="wikilink">傑克·科比</a></p></td>
@@ -1987,7 +1987,7 @@ Benjamin Deeds<br />
 （平行世界的鋼人）<br />
 （平行世界的<a href="../Page/金鋼狼.md" title="wikilink">金鋼狼</a>）<br />
 <a href="../Page/死侍.md" title="wikilink">死侍</a><br />
-<a href="../Page/冰人_(漫威漫畫).md" title="wikilink">冰人</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/冰人_(漫威漫畫)" title="wikilink">冰人</a></p></td>
 <td><p>男<br />
 男<br />
 男<br />
@@ -2002,7 +2002,7 @@ Benjamin Deeds<br />
 男</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/DC漫畫.md" title="wikilink">DC漫畫</a>：<a href="../Page/地獄神探.md" title="wikilink">地獄神探</a>（）</p></td>
+<td><p><a href="../Page/DC漫畫.md" title="wikilink">DC漫畫</a>：<a href="https://zh.wikipedia.org/wiki/地獄神探" title="wikilink">地獄神探</a>（）</p></td>
 <td><p>1985–</p></td>
 <td><p><a href="../Page/阿兰·摩尔.md" title="wikilink">阿蘭·摩爾</a><br />
 Stephen Bissette<br />
@@ -2011,7 +2011,7 @@ John Totleben</p></td>
 <td><p>電影<br />
 電視劇<br />
 電玩</p></td>
-<td><p><a href="../Page/約翰·康斯坦汀.md" title="wikilink">約翰·康斯坦汀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/約翰·康斯坦汀" title="wikilink">約翰·康斯坦汀</a></p></td>
 <td><p>男</p></td>
 <td><p>雙[152]</p></td>
 </tr>
@@ -2027,7 +2027,7 @@ John Totleben</p></td>
 <td><p>同[153]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/新世紀福音戰士.md" title="wikilink">新世紀福音戰士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新世紀福音戰士" title="wikilink">新世紀福音戰士</a></p></td>
 <td><p>1995–1996</p></td>
 <td><p><a href="../Page/GAINAX.md" title="wikilink">GAINAX</a></p></td>
 <td><p>日本</p></td>
@@ -2051,8 +2051,8 @@ Mel Frederics（メル・フレデリクス）</p></td>
 <tr class="even">
 <td><p><a href="../Page/機械女神.md" title="wikilink">機械女神</a>（セイバーマリオネット）</p></td>
 <td><p>1996–1999</p></td>
-<td><p><a href="../Page/赤堀悟.md" title="wikilink">赤堀悟</a><br />
-<a href="../Page/琴義弓介.md" title="wikilink">琴義弓介</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤堀悟" title="wikilink">赤堀悟</a><br />
+<a href="https://zh.wikipedia.org/wiki/琴義弓介" title="wikilink">琴義弓介</a></p></td>
 <td><p>日本</p></td>
 <td><p>漫畫<br />
 動畫</p></td>
@@ -2064,10 +2064,10 @@ Mel Frederics（メル・フレデリクス）</p></td>
 <td><p><a href="../Page/大運動會.md" title="wikilink">大運動會</a>（バトルアスリーテス 大運動会）</p></td>
 <td><p>1997–1998</p></td>
 <td><p><a href="../Page/動畫國際公司.md" title="wikilink">AIC</a><br />
-<a href="../Page/Pioneer_LDC.md" title="wikilink">Pioneer LDC</a><br />
+<a href="https://zh.wikipedia.org/wiki/Pioneer_LDC" title="wikilink">Pioneer LDC</a><br />
 <a href="../Page/東京電視台.md" title="wikilink">東京電視台</a><br />
-<a href="../Page/SOFTX.md" title="wikilink">SOFTX</a><br />
-<a href="../Page/萬年社.md" title="wikilink">萬年社</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/SOFTX" title="wikilink">SOFTX</a><br />
+<a href="https://zh.wikipedia.org/wiki/萬年社" title="wikilink">萬年社</a></p></td>
 <td><p>日本</p></td>
 <td><p>動畫</p></td>
 <td><p>克莉絲·克里斯多夫</p></td>
@@ -2091,7 +2091,7 @@ Mel Frederics（メル・フレデリクス）</p></td>
 同／雙</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/西洋古董洋菓子店.md" title="wikilink">西洋古董洋菓子店</a>（-{西洋骨董洋菓子店}-）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西洋古董洋菓子店" title="wikilink">西洋古董洋菓子店</a>（-{西洋骨董洋菓子店}-）</p></td>
 <td><p>1999–2002</p></td>
 <td><p><a href="../Page/吉永史.md" title="wikilink">吉永史</a></p></td>
 <td><p>日本</p></td>
@@ -2119,7 +2119,7 @@ Prince Lee</p></td>
 <td><p>同[161]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/愛的言靈_(漫畫).md" title="wikilink">愛的言靈</a>（愛の言霊）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛的言靈_(漫畫)" title="wikilink">愛的言靈</a>（愛の言霊）</p></td>
 <td><p>2000, 2002</p></td>
 <td></td>
 <td><p>日本</p></td>
@@ -2197,7 +2197,7 @@ Henry Cole</p></td>
 <td></td>
 <td><p>Roy（企鵝）<br />
 Silo（企鵝）</p></td>
-<td><p><a href="../Page/雄性.md" title="wikilink">雄性</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雄性" title="wikilink">雄性</a></p></td>
 <td><p>同[169]</p></td>
 </tr>
 <tr class="odd">
@@ -2380,7 +2380,7 @@ Windows</p></td>
 <td><p>雙[186]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Final_Fantasy_VII.md" title="wikilink">Final Fantasy VII</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Final_Fantasy_VII" title="wikilink">Final Fantasy VII</a></p></td>
 <td><p>1997<br />
 <br />
 2015</p></td>
@@ -2390,13 +2390,13 @@ iOS<br />
 PlayStation 4</p></td>
 <td><p>日本</p></td>
 <td><p><a href="../Page/最终幻想VII补完计划.md" title="wikilink">Final Fantasy VII補完計劃</a><br />
-<a href="../Page/Final_Fantasy_XIV.md" title="wikilink">Final Fantasy XIV</a> </p></td>
+<a href="https://zh.wikipedia.org/wiki/Final_Fantasy_XIV" title="wikilink">Final Fantasy XIV</a> </p></td>
 <td><p>Mukki</p></td>
 <td><p>男</p></td>
 <td><p>同[187][188]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/柏德之門系列.md" title="wikilink">柏德之門系列</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/柏德之門系列" title="wikilink">柏德之門系列</a><br />
 </p></td>
 <td><p>1998–2001<br />
 2012</p></td>
@@ -2448,7 +2448,7 @@ PlayStation Portable</p></td>
 <td><p>2000–</p></td>
 <td><p>Microsoft Windows<br />
 Mac OS X<br />
-<a href="../Page/行動電話.md" title="wikilink">行動電話</a><br />
+<a href="https://zh.wikipedia.org/wiki/行動電話" title="wikilink">行動電話</a><br />
 <a href="../Page/家用游戏机.md" title="wikilink">家用游戏机</a></p></td>
 <td><p>美國</p></td>
 <td><p>模擬人生Online</p></td>
@@ -2544,7 +2544,7 @@ Mac OS X</p></td>
 <td><p>雙[207]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/明星志願系列.md" title="wikilink">明星志願</a>3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明星志願系列" title="wikilink">明星志願</a>3</p></td>
 <td><p>2005</p></td>
 <td><p>Microsoft Windows</p></td>
 <td><p>台灣</p></td>
@@ -2574,7 +2574,7 @@ Yaha (ヤハ)</p></td>
 同</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/翡翠帝國.md" title="wikilink">翡翠帝國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/翡翠帝國" title="wikilink">翡翠帝國</a></p></td>
 <td><p>2005</p></td>
 <td><p>Xbox<br />
 Microsoft Windows<br />
@@ -2660,7 +2660,7 @@ PlayStation 3 (HD)</p></td>
 <td><p>同／雙[220]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/戰場女武神.md" title="wikilink">戰場女武神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰場女武神" title="wikilink">戰場女武神</a></p></td>
 <td><p>2008</p></td>
 <td><p>PlayStation 3<br />
 Microsoft Windows</p></td>
@@ -2729,7 +2729,7 @@ Koth Vortena（擴展）</p></td>
 <td><p>雙</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/上古卷軸V：無界天際.md" title="wikilink">上古卷軸V：無界天際</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上古卷軸V：無界天際" title="wikilink">上古卷軸V：無界天際</a></p></td>
 <td><p>2011</p></td>
 <td><p>Microsoft Windows<br />
 PlayStation 3<br />
@@ -2812,7 +2812,7 @@ Xbox 360</p></td>
 <tr class="odd">
 <td></td>
 <td><p>2012</p></td>
-<td><p>Windows (<a href="../Page/MMORPG.md" title="wikilink">MMORPG</a>)</p></td>
+<td><p>Windows (<a href="https://zh.wikipedia.org/wiki/MMORPG" title="wikilink">MMORPG</a>)</p></td>
 <td><p>美國</p></td>
 <td></td>
 <td><p>Oxford archaeologists<br />
@@ -2822,9 +2822,9 @@ Zaha</p></td>
 <td><p>同[231][232]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/激戰2.md" title="wikilink">激戰2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/激戰2" title="wikilink">激戰2</a></p></td>
 <td><p>2012</p></td>
-<td><p>Windows (<a href="../Page/MMORPG.md" title="wikilink">MMORPG</a>)<br />
+<td><p>Windows (<a href="https://zh.wikipedia.org/wiki/MMORPG" title="wikilink">MMORPG</a>)<br />
 Mac OS X</p></td>
 <td><p>美國</p></td>
 <td></td>
@@ -2850,12 +2850,12 @@ Xbox One<br />
 Microsoft Windows</p></td>
 <td><p>美國</p></td>
 <td><p><a href="../Page/俠盜獵車手Online.md" title="wikilink">俠盜獵車手Online</a></p></td>
-<td><p><a href="../Page/崔佛·菲利普.md" title="wikilink">崔佛·菲利普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔佛·菲利普" title="wikilink">崔佛·菲利普</a></p></td>
 <td><p>男</p></td>
 <td><p>雙[236][237]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/最後生還者.md" title="wikilink">最後生還者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最後生還者" title="wikilink">最後生還者</a></p></td>
 <td><p>2013</p></td>
 <td><p>PlayStation 3<br />
 PlayStation 4</p></td>
@@ -2955,7 +2955,7 @@ Xbox One</p></td>
 <td><p>同[245]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/聖火降魔錄_if.md" title="wikilink">聖火降魔錄 if</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖火降魔錄_if" title="wikilink">聖火降魔錄 if</a></p></td>
 <td><p>2015</p></td>
 <td><p>Nintendo 3DS</p></td>
 <td><p>日本</p></td>
@@ -3008,7 +3008,7 @@ Ishikawa Kouji</p></td>
 <td><p>同[251]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/奇妙人生.md" title="wikilink">Life Is Strange</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奇妙人生" title="wikilink">Life Is Strange</a></p></td>
 <td><p>2015</p></td>
 <td><p>Xbox 360、Xbox One<br />
 PlayStation 3、PlayStation 4<br />
@@ -3022,7 +3022,7 @@ Chloe Price</p></td>
 <td><p>同[252]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/星露谷物語.md" title="wikilink">星露-{谷}-物語</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星露谷物語" title="wikilink">星露-{谷}-物語</a></p></td>
 <td><p>2016</p></td>
 <td><p>Microsoft Windows</p></td>
 <td><p>歐美</p></td>
@@ -3038,7 +3038,7 @@ Bachelorettes</p></td>
 <tr class="even">
 <td><p>Marvel Avengers Academy</p></td>
 <td><p>2016</p></td>
-<td><p>iOS, Android (<a href="../Page/手機遊戲.md" title="wikilink">手機遊戲</a>)</p></td>
+<td><p>iOS, Android (<a href="https://zh.wikipedia.org/wiki/手機遊戲" title="wikilink">手機遊戲</a>)</p></td>
 <td><p>歐美</p></td>
 <td></td>
 <td><p>Union Jack</p></td>
@@ -3048,7 +3048,7 @@ Bachelorettes</p></td>
 <tr class="odd">
 <td><p>LongStory</p></td>
 <td><p>2016</p></td>
-<td><p>iOS, Android (<a href="../Page/手機遊戲.md" title="wikilink">手機遊戲</a>)</p></td>
+<td><p>iOS, Android (<a href="https://zh.wikipedia.org/wiki/手機遊戲" title="wikilink">手機遊戲</a>)</p></td>
 <td><p>歐美</p></td>
 <td></td>
 <td><p>玩家</p></td>
@@ -3154,10 +3154,11 @@ Rick o'Connor</p></td>
 
 ## 參見
 
-  - [LGBT相關電影列表](../Page/LGBT相關電影列表.md "wikilink")
-  - [LGBT相关电视列表](../Page/LGBT相关电视列表.md "wikilink")
+  - [LGBT相關電影列表](https://zh.wikipedia.org/wiki/LGBT相關電影列表 "wikilink")
+  - [LGBT相关电视列表](https://zh.wikipedia.org/wiki/LGBT相关电视列表 "wikilink")
   - [Yaoi](../Page/Yaoi.md "wikilink")
-  - [BL (Boys' Love)](../Page/BL_\(和製英語\).md "wikilink")
+  - [BL (Boys'
+    Love)](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")
 
 ## 注释
 

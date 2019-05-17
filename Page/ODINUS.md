@@ -1,5 +1,5 @@
 **ODINUS**（Origins, Dynamics, and Interiors of the Neptunian and Uranian
-Systems，天王星與海王星系統的起源、動力與內部）是[歐洲空間局所計劃的兩顆雙生探測器計劃](../Page/歐洲空間局.md "wikilink")，它們將分別環繞[天王星與](../Page/天王星.md "wikilink")[海王星運行](../Page/海王星.md "wikilink")。環繞天王星的探測器被命名為**Freyr**，而環繞海王星的探測器則成為**Freyja**。
+Systems，天王星與海王星系統的起源、動力與內部）是[歐洲空間局所計劃的兩顆雙生探測器計劃](https://zh.wikipedia.org/wiki/歐洲空間局 "wikilink")，它們將分別環繞[天王星與](../Page/天王星.md "wikilink")[海王星運行](../Page/海王星.md "wikilink")。環繞天王星的探測器被命名為**Freyr**，而環繞海王星的探測器則成為**Freyja**。
 
 ## 科學儀器
 

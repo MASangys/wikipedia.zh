@@ -1,11 +1,12 @@
-**KKTIX活動報名售票平台**是一家[台灣的線上售票網站](../Page/台灣.md "wikilink")。前身為2007年9月成立的Registrano\[1\]，2013年10月31日轉移到[KKBOX旗下並改名為KKTIX](../Page/KKBOX.md "wikilink")。
+**KKTIX活動報名售票平台**是一家[台灣的線上售票網站](https://zh.wikipedia.org/wiki/台灣 "wikilink")。前身為2007年9月成立的Registrano\[1\]，2013年10月31日轉移到[KKBOX旗下並改名為KKTIX](../Page/KKBOX.md "wikilink")。
 
-2015年4月23日，KKBOX分兩階段投資[華娛網路娛樂股份有限公司](http://www.walkieticket.com/)，成為華娛網路的最大[法人](../Page/法人.md "wikilink")[股東](../Page/股東.md "wikilink")\[2\]。KKTIX則與華娛售票系統整併，保留KKTIX的名稱，但由華娛網路團隊營運\[3\]。
+2015年4月23日，KKBOX分兩階段投資[華娛網路娛樂股份有限公司](http://www.walkieticket.com/)，成為華娛網路的最大[法人](../Page/法人.md "wikilink")[股東](https://zh.wikipedia.org/wiki/股東 "wikilink")\[2\]。KKTIX則與華娛售票系統整併，保留KKTIX的名稱，但由華娛網路團隊營運\[3\]。
 
 ## 逸事
 
-台灣[開放原始碼社群的年度研討會](../Page/開放原始碼.md "wikilink")
-[COSCUP](../Page/COSCUP.md "wikilink") 透過 **Registrano**
+台灣[開放原始碼社群的年度研討會](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")
+[COSCUP](https://zh.wikipedia.org/wiki/COSCUP "wikilink") 透過
+**Registrano**
 報名，2011年及2012年因為報名人潮踴躍而當機，2013年在大量系統調校與首次實施之「開放原始碼貢獻者專屬報名專案」的分流效果下，終於順利通過考驗。創辦人薛良斌也以此為題，於
 2011年\[4\]、2013年\[5\]及2014年\[6\]的COSCUP 發表技術報告。
 

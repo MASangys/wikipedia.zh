@@ -1,4 +1,4 @@
-**ThisAV**是一家[香港的免费的](../Page/香港.md "wikilink")[色情](../Page/色情.md "wikilink")[视频分享网站](../Page/视频分享网站.md "wikilink")，内容以[中文为主](../Page/中文.md "wikilink")。\[1\]
+**ThisAV**是一家[香港的免费的](../Page/香港.md "wikilink")[色情](../Page/色情.md "wikilink")[视频分享网站](https://zh.wikipedia.org/wiki/视频分享网站 "wikilink")，内容以[中文为主](https://zh.wikipedia.org/wiki/中文 "wikilink")。\[1\]
 
 ## 手机应用
 

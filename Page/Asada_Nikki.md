@@ -1,12 +1,12 @@
 **Asada
-Nikki**\[1\]（，），[日本女性](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")。出身於[島根縣](../Page/島根縣.md "wikilink")\[2\]。A型[血](../Page/血型.md "wikilink")\[3\]。[自畫像是粉紅色的兔子](../Page/自畫像.md "wikilink")\[4\]\[5\]。
+Nikki**\[1\]（，），[日本女性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。[自畫像是粉紅色的兔子](https://zh.wikipedia.org/wiki/自畫像 "wikilink")\[4\]\[5\]。
 
 ## 來歷
 
-2000年（平成12年）左右，於一般小型遊戲公司在電腦網路上架設的插畫網站（現已經關閉\[6\]）開始積極投稿[4格漫畫和雜誌插圖](../Page/四格漫畫.md "wikilink")\[7\]。之後投入[同人創作活動](../Page/同人.md "wikilink")，在4格漫畫商業雜誌正式出道\[8\]。由於Asada她自己無法將正職與同人兩方面同時兼顧，而選擇了暫時停止商業活動，回到同人業界\[9\]。於同人創作期間多次發表了以[棒球漫畫為主的](../Page/王牌投手_振臂高揮.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，並在大型[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")「[Comic
+2000年（平成12年）左右，於一般小型遊戲公司在電腦網路上架設的插畫網站（現已經關閉\[6\]）開始積極投稿[4格漫畫和雜誌插圖](../Page/四格漫畫.md "wikilink")\[7\]。之後投入[同人創作活動](https://zh.wikipedia.org/wiki/同人 "wikilink")，在4格漫畫商業雜誌正式出道\[8\]。由於Asada她自己無法將正職與同人兩方面同時兼顧，而選擇了暫時停止商業活動，回到同人業界\[9\]。於同人創作期間多次發表了以[棒球漫畫為主的](../Page/王牌投手_振臂高揮.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，並在大型[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")「[Comic
 Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 
-2008年左右，以短篇作品於商業雜誌復出\[11\]。2010年，以「新世代殘念愛情喜劇（<small></small>）\[12\]」為題材在《》（[秋田書店](../Page/秋田書店.md "wikilink")）進行短期連載全3回的《青春澀女俱樂部》，之後同名作品正式連載化至今\[13\]。同時，獲得曾翻閱過同名作品的漫畫編輯的支持，開始連載以「輕鬆推理喜劇（<small></small>）\[14\]」為主題的作品《名偵探社此後立即出動！》、及Asada以她自己的出身地為故事舞台和「有緣結神的存在（<small></small>）\[15\]」為主題的戀愛漫畫《領航的星星》\[16\]，3部作品後來都在2013年4月由[講談社](../Page/講談社.md "wikilink")、秋田書店、[角川書店三家大型出版社共同主辦的展覽活動中實施同步發行](../Page/角川書店.md "wikilink")\[17\]。
+2008年左右，以短篇作品於商業雜誌復出\[11\]。2010年，以「新世代殘念愛情喜劇（<small></small>）\[12\]」為題材在《》（[秋田書店](../Page/秋田書店.md "wikilink")）進行短期連載全3回的《青春澀女俱樂部》，之後同名作品正式連載化至今\[13\]。同時，獲得曾翻閱過同名作品的漫畫編輯的支持，開始連載以「輕鬆推理喜劇（<small></small>）\[14\]」為主題的作品《名偵探社此後立即出動！》、及Asada以她自己的出身地為故事舞台和「有緣結神的存在（<small></small>）\[15\]」為主題的戀愛漫畫《領航的星星》\[16\]，3部作品後來都在2013年4月由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、秋田書店、[角川書店三家大型出版社共同主辦的展覽活動中實施同步發行](../Page/角川書店.md "wikilink")\[17\]。
 
 另外，2013年曾經投稿大量的同人創作寄至[秋田書店舉辦的](../Page/秋田書店.md "wikilink")『[飆速宅男公式同人選集](../Page/飆速宅男.md "wikilink")
 放學後的弱蟲』和『[手塚治虫](../Page/手塚治虫.md "wikilink")「[怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")」誕生40週年紀念！[皮諾可Tribute](../Page/皮諾可.md "wikilink")
@@ -36,12 +36,12 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 <td><p>《》2009年6月號</p></td>
 <td><p><a href="../Page/秋田書店.md" title="wikilink">秋田書店</a></p></td>
 <td><p>未收錄</p></td>
-<td><p><a href="../Page/單篇.md" title="wikilink">短篇作品</a>[18]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單篇" title="wikilink">短篇作品</a>[18]</p></td>
 </tr>
 <tr class="even">
 <td><p>弱友（0話）（（0話））</p></td>
 <td><p>《PASH！》2010年11月號</p></td>
-<td><p><a href="../Page/主婦與生活社.md" title="wikilink">主婦與生活社</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/主婦與生活社" title="wikilink">主婦與生活社</a></p></td>
 <td><p>未刊行</p></td>
 <td><p>4格漫畫，之後連載化。</p></td>
 </tr>
@@ -74,14 +74,14 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 <tr class="even">
 <td></td>
 <td><p>《》2011年9號</p></td>
-<td><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></td>
 <td><p>未收錄</p></td>
-<td><p><a href="../Page/微型小說.md" title="wikilink">微型小說作品</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/微型小說" title="wikilink">微型小說作品</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>七月幻燈</p></td>
 <td><p>《》2012年6月號</p></td>
-<td><p><a href="../Page/幻冬舎.md" title="wikilink">幻冬舎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/幻冬舎" title="wikilink">幻冬舎</a></p></td>
 <td><p>短篇作品</p></td>
 <td></td>
 </tr>
@@ -169,9 +169,9 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 <tr class="odd">
 <td></td>
 <td><p>《》2011年11月號</p></td>
-<td><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></td>
 <td><p>未收錄</p></td>
-<td><p>內容收錄Asada畫的插圖與<a href="../Page/隨筆.md" title="wikilink">隨筆</a>[24]</p></td>
+<td><p>內容收錄Asada畫的插圖與<a href="https://zh.wikipedia.org/wiki/隨筆" title="wikilink">隨筆</a>[24]</p></td>
 </tr>
 <tr class="even">
 <td><p>特集「男子社團」插圖集<br />
@@ -368,7 +368,7 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 <td><p>3</p></td>
 <td><p>領航的星星<br />
 （）</p></td>
-<td><p><a href="../Page/講談社.md" title="wikilink">講談社</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a><br />
 〈〉<br />
  東立出版社</p></td>
 <td><p>1</p></td>
@@ -397,7 +397,7 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>弱友（）</p></td>
-<td><p><a href="../Page/主婦與生活社.md" title="wikilink">主婦與生活社</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/主婦與生活社" title="wikilink">主婦與生活社</a><br />
 〈PASH！COMICS〉</p></td>
 <td><p>1</p></td>
 <td><p>2014年1月16日</p></td>
@@ -555,10 +555,10 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/奏響吧！上低音號～歡迎加入北宇治高中管樂團～.md" title="wikilink">奏響吧！上低音號系列</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/奏響吧！上低音號～歡迎加入北宇治高中管樂團～" title="wikilink">奏響吧！上低音號系列</a><br />
 （）</p></td>
 <td><p><a href="../Page/武田綾乃.md" title="wikilink">武田綾乃</a></p></td>
-<td><p><a href="../Page/寶島社.md" title="wikilink">寶島社</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/寶島社" title="wikilink">寶島社</a><br />
 （）</p></td>
 <td><p>2013年12月－<strong>連載中</strong></p></td>
 <td></td>
@@ -586,7 +586,7 @@ Market](../Page/Comic_Market.md "wikilink")」出展\[10\]。
 
   - [BE·LOVE｜特殊官網｜講談社Comic
     Plus](https://web.archive.org/web/20130724032323/http://kc.kodansha.co.jp/magazine/special_detail.php/02766/7113)
-    －由[講談社](../Page/講談社.md "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")、[角川書店三家大型出版社共同特別設立的官方網站](../Page/角川書店.md "wikilink")。
+    －由[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")、[角川書店三家大型出版社共同特別設立的官方網站](../Page/角川書店.md "wikilink")。
 
   - [「或是假名」×「絕園的暴風雨」共同合作的4格漫畫特集](http://anime.webnt.jp/report/view/2972)
     －由角川書店架設的官方企畫網站。

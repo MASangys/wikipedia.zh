@@ -19,7 +19,7 @@
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>原來她不夠愛我</p></td>
-<td><p><a href="../Page/Larry_Wong.md" title="wikilink">Larry Wong</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Larry_Wong" title="wikilink">Larry Wong</a></p></td>
 <td><p><a href="../Page/林若寧.md" title="wikilink">林若寧</a></p></td>
 <td><p>Larry Wong</p></td>
 <td><p><a href="../Page/舒文.md" title="wikilink">舒文</a>@Zoo Music</p></td>
@@ -28,9 +28,9 @@
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>陽光點的歌</p></td>
-<td><p><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="../Page/Cousin_Fung.md" title="wikilink">Cousin Fung</a></p></td>
+<td><p><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="https://zh.wikipedia.org/wiki/Cousin_Fung" title="wikilink">Cousin Fung</a></p></td>
 <td><p><a href="../Page/陳詠謙.md" title="wikilink">陳詠謙</a></p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a>、Cousin Fung@emp</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a>、Cousin Fung@emp</p></td>
 <td><p>Edward Chan</p></td>
 <td><p>2nd plug</p></td>
 </tr>
@@ -64,10 +64,10 @@
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>風林火山</p></td>
-<td><p><a href="../Page/戴龍.md" title="wikilink">戴龍</a></p></td>
-<td><p><a href="../Page/梁柏堅.md" title="wikilink">梁柏堅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴龍" title="wikilink">戴龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁柏堅" title="wikilink">梁柏堅</a></p></td>
 <td><p>戴龍</p></td>
-<td><p>戴龍、<a href="../Page/丁文俊.md" title="wikilink">丁文俊</a></p></td>
+<td><p>戴龍、<a href="https://zh.wikipedia.org/wiki/丁文俊" title="wikilink">丁文俊</a></p></td>
 <td><p>與<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a>、<a href="../Page/羅孝勇.md" title="wikilink">羅孝勇</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉合唱</a><br />
 《2打6七七八八演唱會》主題曲 3rd plug</p></td>
 </tr>
@@ -179,7 +179,7 @@
 
   - [2015年勁歌金曲優秀選第一回](../Page/2015年勁歌金曲優秀選第一回得獎名單.md "wikilink")
     得獎歌曲《原來她不夠愛我》
-  - [2015年勁歌金曲優秀選第二回](../Page/2015年勁歌金曲優秀選第二回得獎名單.md "wikilink")
+  - [2015年勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2015年勁歌金曲優秀選第二回得獎名單 "wikilink")
     得獎歌曲《陽光點的歌》
   - [2015年度勁歌金曲頒獎典禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink")
     勁歌金曲獎《原來她不夠愛我》

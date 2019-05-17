@@ -1,6 +1,6 @@
-《**Snowflake**》，是[韓國](../Page/韓國.md "wikilink")[女子團體](../Page/女子團體.md "wikilink")[GFRIEND的第三張迷你專輯](../Page/GFRIEND.md "wikilink")，由[Source
-Music製作](../Page/Source_Music.md "wikilink")，[LOEN娛樂發行](../Page/LOEN娛樂.md "wikilink")，於2016年1月25日推出。此專輯為「校園系列三部曲」的最後一部曲，共有7首歌曲，主打歌為《Rough》。《Snowflake》推出後，於[Gaon
-Chart專輯週榜排列第](../Page/Gaon_Chart.md "wikilink")2，共售出33,000張。
+《**Snowflake**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND的第三張迷你專輯](../Page/GFRIEND.md "wikilink")，由[Source
+Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2016年1月25日推出。此專輯為「校園系列三部曲」的最後一部曲，共有7首歌曲，主打歌為《Rough》。《Snowflake》推出後，於[Gaon
+Chart專輯週榜排列第](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2，共售出33,000張。
 
 GFRIEND於韓國各大音樂節目表演及宣傳專輯，總共贏得15個冠軍。主打歌《Rough》的下載次數超過250萬次(截至2018年7月)，成為2月13日和20日的[Gaon
 Chart單曲週榜冠軍](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")。在專輯曲目方面，歌曲的風格與90年代末和2000年代的[韓國流行音樂十分相似](../Page/韓國流行音樂.md "wikilink")。
@@ -32,37 +32,38 @@ GFRIEND
 GFRIEND 的多樣魅力。\[6\]
 
 1月26日於《SBS MTV》音樂節目《[THE
-SHOW](../Page/THE_SHOW.md "wikilink")》中的回歸舞台正式展開第三張迷你專輯的宣傳活動。一個月後，"Rough"
+SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中的回歸舞台正式展開第三張迷你專輯的宣傳活動。一個月後，"Rough"
 MV觀看人次已超過1000萬。
 
 ### 登上美國Billboard全球專輯榜
 
 發行不到一周的《**Snowflake**》登上了美國Billboard全球專輯榜**第十**。
-該榜單統計所有在美國以外地區發售的專輯的銷量並進行排名，新專輯發售不到一周就進入前十。早在2015年1月，Billboard就曾將剛剛出道的GFRIEND評為「**2015年值得矚目的5大K-POP藝人**」之一，預言道：「GFRIEND是很久以來第一個令人想起**[少女時代](../Page/少女時代.md "wikilink")**的女團。
+該榜單統計所有在美國以外地區發售的專輯的銷量並進行排名，新專輯發售不到一周就進入前十。早在2015年1月，Billboard就曾將剛剛出道的GFRIEND評為「**2015年值得矚目的5大K-POP藝人**」之一，預言道：「GFRIEND是很久以來第一個令人想起**[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**的女團。
 氣質既古典又純淨，將扭轉2014年大行其道的性感趨勢，奠定2015年新流行的地位。
 」確實在出道一年之際進入了**Billboard專輯榜**上游，實現了這一預言。
 
 ### 獲得15個一位
 
-2月2日於《[SBS MTV](../Page/SBS_MTV.md "wikilink")》音樂節目《[THE
-SHOW](../Page/THE_SHOW.md "wikilink")》中獲得出道以來第一個一位。而又分別在3,4,5,7日於《[Show
+2月2日於《[SBS
+MTV](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink")》音樂節目《[THE
+SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中獲得出道以來第一個一位。而又分別在3,4,5,7日於《[Show
 Champion](../Page/Show_Champion.md "wikilink")》、《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》、《[Music
-Bank](../Page/Music_Bank.md "wikilink")》、《[人氣歌謠](../Page/人氣歌謠.md "wikilink")》中再獲得一位。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music
+Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中再獲得一位。
 
 2月11,12,16,17,21日於《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》、《[Music
-Bank](../Page/Music_Bank.md "wikilink")》、《[THE
-SHOW](../Page/THE_SHOW.md "wikilink")》、《[Show
-Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](../Page/人氣歌謠.md "wikilink")》中獲得**兩星期冠軍**。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music
+Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[THE
+SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》、《[Show
+Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》中獲得**兩星期冠軍**。
 
 2月18,19,24,28日於《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》、《[Music
-Bank](../Page/Music_Bank.md "wikilink")》、《[Show
-Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](../Page/人氣歌謠.md "wikilink")》連續三週獲得一位。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music
+Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》、《[Show
+Champion](../Page/Show_Champion.md "wikilink")》、《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》連續三週獲得一位。
 
 2月26日於《[Music
-Bank](../Page/Music_Bank.md "wikilink")》連續四週獲得第一，成為今年首個在電視音樂節目中連續兩週、三週、四週獲得一位的女團。主打曲《[Rough](../Page/Rough.md "wikilink")》已在打歌節目中拿到共**15**個冠軍。
+Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》連續四週獲得第一，成為今年首個在電視音樂節目中連續兩週、三週、四週獲得一位的女團。主打曲《[Rough](https://zh.wikipedia.org/wiki/Rough "wikilink")》已在打歌節目中拿到共**15**個冠軍。
 
 ### 達到完美通殺
 
@@ -160,7 +161,7 @@ All-kill）**\[7\]。截至2月22日上午8時，"Rough"
 <tr class="even">
 <td><p>2月4日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,8 +184,8 @@ All-kill）**\[7\]。截至2月22日上午8時，"Rough"
 </tr>
 <tr class="odd">
 <td><p>2月5日</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS2</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -216,7 +217,7 @@ All-kill）**\[7\]。截至2月22日上午8時，"Rough"
 <tr class="odd">
 <td><p>2月7日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -292,10 +293,10 @@ All-kill）**\[7\]。截至2月22日上午8時，"Rough"
 
 ## 發行歷史
 
-| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司         | 發行公司                                   |
-| ---- | ---------- | ------------------------------------------------------------------- | ------------ | -------------------------------------- |
-| 全球   | 2016年1月25日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | Source Music | [LOEN娛樂](../Page/LOEN娛樂.md "wikilink") |
-|      |            |                                                                     |              |                                        |
+| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司         | 發行公司                                                      |
+| ---- | ---------- | ------------------------------------------------------------------- | ------------ | --------------------------------------------------------- |
+| 全球   | 2016年1月25日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | Source Music | [LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink") |
+|      |            |                                                                     |              |                                                           |
 
 ## 外部連結
 

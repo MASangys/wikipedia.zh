@@ -12,9 +12,10 @@ Azure Backup 依照備份的需要提供不同的元件供選用：
     [Windows Server](../Page/Windows_Server.md "wikilink")
     虛擬機器或實體機器，也可以安裝在[Microsoft Azure
     虛擬機器服務的虛擬機器內](../Page/Microsoft_Azure_虛擬機器服務.md "wikilink")。
-  - [System Center](../Page/System_Center.md "wikilink") Data Protection
-    Manager (DPM)：SCDPM R2 Update 3 開始支援 Azure Backup 的功能，可備份至本地端或是
-    Azure Backup 收納庫\[1\]。
+  - [System
+    Center](https://zh.wikipedia.org/wiki/System_Center "wikilink") Data
+    Protection Manager (DPM)：SCDPM R2 Update 3 開始支援 Azure Backup
+    的功能，可備份至本地端或是 Azure Backup 收納庫\[1\]。
   - 備份伺服器 (Backup Server)：為 Azure Backup 提供的元件，可備份至本地或是 Azure Backup
     收納庫\[2\]。
   - 備份擴充套件 (Backup VM Extension)：可選擇性安裝於[Microsoft Azure
@@ -25,17 +26,17 @@ Azure Backup 依照備份的需要提供不同的元件供選用：
 
 Azure Backup 可支援下列應用或工作負載的備份能力 \[4\]：
 
-| 工作負載                                                                             | 來源機器                                                   | 備份方案                                         |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------- |
-| 檔案與資料夾                                                                           | [Windows Server](../Page/Windows_Server.md "wikilink") | Azure Backup Agent、SCDPM、Azure Backup Server |
-| 檔案與資料夾                                                                           | [Windows Client](../Page/Windows_Client.md "wikilink") | Azure Backup Agent、SCDPM、Azure Backup Server |
-| Hyper-V 虛擬機器 (Windows)                                                           | Windows Server                                         | SCDPM、Azure Backup Server                    |
-| Hyper-V 虛擬機器 (Linux)                                                             | Windows Server                                         | SCDPM、Azure Backup Server                    |
-| [Microsoft SQL Server](../Page/Microsoft_SQL_Server.md "wikilink")               | Windows Server                                         | SCDPM、Azure Backup Server                    |
-| [Microsoft Exchange Server](../Page/Microsoft_Exchange_Server.md "wikilink")     | Windows Server                                         | SCDPM、Azure Backup Server                    |
-| [Microsoft SharePoint Server](../Page/Microsoft_SharePoint_Server.md "wikilink") | Windows Server                                         | SCDPM、Azure Backup Server                    |
-| Azure 虛擬機器 (Windows)                                                             | \-                                                     | Azure Backup (VM Extension)                  |
-| Azure 虛擬機器 (Linux)                                                               | \-                                                     | Azure Backup (VM Extension)                  |
+| 工作負載                                                                                                | 來源機器                                                                      | 備份方案                                         |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------- |
+| 檔案與資料夾                                                                                              | [Windows Server](../Page/Windows_Server.md "wikilink")                    | Azure Backup Agent、SCDPM、Azure Backup Server |
+| 檔案與資料夾                                                                                              | [Windows Client](https://zh.wikipedia.org/wiki/Windows_Client "wikilink") | Azure Backup Agent、SCDPM、Azure Backup Server |
+| Hyper-V 虛擬機器 (Windows)                                                                              | Windows Server                                                            | SCDPM、Azure Backup Server                    |
+| Hyper-V 虛擬機器 (Linux)                                                                                | Windows Server                                                            | SCDPM、Azure Backup Server                    |
+| [Microsoft SQL Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")               | Windows Server                                                            | SCDPM、Azure Backup Server                    |
+| [Microsoft Exchange Server](../Page/Microsoft_Exchange_Server.md "wikilink")                        | Windows Server                                                            | SCDPM、Azure Backup Server                    |
+| [Microsoft SharePoint Server](https://zh.wikipedia.org/wiki/Microsoft_SharePoint_Server "wikilink") | Windows Server                                                            | SCDPM、Azure Backup Server                    |
+| Azure 虛擬機器 (Windows)                                                                                | \-                                                                        | Azure Backup (VM Extension)                  |
+| Azure 虛擬機器 (Linux)                                                                                  | \-                                                                        | Azure Backup (VM Extension)                  |
 
 ## 參考
 

@@ -1,5 +1,5 @@
 **Be
-Myself**是[馬來西亞](../Page/馬來西亞.md "wikilink")[華語女歌手](../Page/華語.md "wikilink")[鍾曉玉的首張專輯](../Page/鍾曉玉.md "wikilink")\[1\]。
+Myself**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華語女歌手](https://zh.wikipedia.org/wiki/華語 "wikilink")[鍾曉玉的首張專輯](https://zh.wikipedia.org/wiki/鍾曉玉 "wikilink")\[1\]。
 
 ## 曲目
 

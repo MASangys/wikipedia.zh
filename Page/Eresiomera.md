@@ -1,23 +1,37 @@
-***Eresiomera***是[灰蝶科](../Page/灰蝶科.md "wikilink")[圓灰蝶亞科](../Page/圓灰蝶亞科.md "wikilink")[琳灰蝶族裡的一個](../Page/琳灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分布於非洲熱帶區。本屬是否與[靡灰蝶屬和](../Page/靡灰蝶屬.md "wikilink")[僕灰蝶屬為同一](../Page/僕灰蝶屬.md "wikilink")[單系群仍不清楚](../Page/單系群.md "wikilink")\[1\]。
+***Eresiomera***是[灰蝶科](../Page/灰蝶科.md "wikilink")[圓灰蝶亞科](../Page/圓灰蝶亞科.md "wikilink")[琳灰蝶族裡的一個](../Page/琳灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於非洲熱帶區。本屬是否與[靡灰蝶屬和](../Page/靡灰蝶屬.md "wikilink")[僕灰蝶屬為同一](../Page/僕灰蝶屬.md "wikilink")[單系群仍不清楚](https://zh.wikipedia.org/wiki/單系群 "wikilink")\[1\]。
 
 ## 物種
 
-  - [伯尼僕灰蝶](../Page/伯尼僕灰蝶.md "wikilink") *Eresiomera beni*
-  - [雙色僕灰蝶](../Page/雙色僕灰蝶.md "wikilink") *Eresiomera bicolor*
-  - [克倫僕灰蝶](../Page/克倫僕灰蝶.md "wikilink") *Eresiomera clenchi*
-  - [科尼斯僕灰蝶](../Page/科尼斯僕灰蝶.md "wikilink") *Eresiomera cornesi*
+  - [伯尼僕灰蝶](https://zh.wikipedia.org/wiki/伯尼僕灰蝶 "wikilink") *Eresiomera
+    beni*
+  - [雙色僕灰蝶](https://zh.wikipedia.org/wiki/雙色僕灰蝶 "wikilink") *Eresiomera
+    bicolor*
+  - [克倫僕灰蝶](https://zh.wikipedia.org/wiki/克倫僕灰蝶 "wikilink") *Eresiomera
+    clenchi*
+  - [科尼斯僕灰蝶](https://zh.wikipedia.org/wiki/科尼斯僕灰蝶 "wikilink")
+    *Eresiomera cornesi*
   - *Eresiomera cornucopiae*
-  - [伊斯卡僕灰蝶](../Page/伊斯卡僕灰蝶.md "wikilink") *Eresiomera isca*
-  - [伊莎僕灰蝶](../Page/伊莎僕灰蝶.md "wikilink") *Eresiomera issia*
-  - [傑克遜僕灰蝶](../Page/傑克遜僕灰蝶.md "wikilink") *Eresiomera jacksoni*
+  - [伊斯卡僕灰蝶](https://zh.wikipedia.org/wiki/伊斯卡僕灰蝶 "wikilink")
+    *Eresiomera isca*
+  - [伊莎僕灰蝶](https://zh.wikipedia.org/wiki/伊莎僕灰蝶 "wikilink") *Eresiomera
+    issia*
+  - [傑克遜僕灰蝶](https://zh.wikipedia.org/wiki/傑克遜僕灰蝶 "wikilink")
+    *Eresiomera jacksoni*
   - *Eresiomera mapongwa*
-  - [尼日利亞僕灰蝶](../Page/尼日利亞僕灰蝶.md "wikilink") *Eresiomera nigeriana*
-  - [奧舍巴僕灰蝶](../Page/奧舍巴僕灰蝶.md "wikilink") *Eresiomera osheba*
-  - [奧僕灰蝶](../Page/奧僕灰蝶.md "wikilink") *Eresiomera ouesso*
-  - [天堂僕灰蝶](../Page/天堂僕灰蝶.md "wikilink") *Eresiomera paradoxa*
-  - [黑僕灰蝶](../Page/黑僕灰蝶.md "wikilink") *Eresiomera phaeochiton*
-  - [羅僕灰蝶](../Page/羅僕灰蝶.md "wikilink") *Eresiomera rougeoti*
-  - [金紅僕灰蝶](../Page/金紅僕灰蝶.md "wikilink") *Eresiomera rutilo*
+  - [尼日利亞僕灰蝶](https://zh.wikipedia.org/wiki/尼日利亞僕灰蝶 "wikilink")
+    *Eresiomera nigeriana*
+  - [奧舍巴僕灰蝶](https://zh.wikipedia.org/wiki/奧舍巴僕灰蝶 "wikilink")
+    *Eresiomera osheba*
+  - [奧僕灰蝶](https://zh.wikipedia.org/wiki/奧僕灰蝶 "wikilink") *Eresiomera
+    ouesso*
+  - [天堂僕灰蝶](https://zh.wikipedia.org/wiki/天堂僕灰蝶 "wikilink") *Eresiomera
+    paradoxa*
+  - [黑僕灰蝶](https://zh.wikipedia.org/wiki/黑僕灰蝶 "wikilink") *Eresiomera
+    phaeochiton*
+  - [羅僕灰蝶](https://zh.wikipedia.org/wiki/羅僕灰蝶 "wikilink") *Eresiomera
+    rougeoti*
+  - [金紅僕灰蝶](https://zh.wikipedia.org/wiki/金紅僕灰蝶 "wikilink") *Eresiomera
+    rutilo*
   - *Eresiomera campbelli*
   - *Eresiomera kiellandi*
   - *Eresiomera nancy*

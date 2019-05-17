@@ -1,4 +1,4 @@
-《**Polsat**》是[波兰第二大电视频道](../Page/波兰.md "wikilink")，成立于1992年12月5日。
+《**Polsat**》是[波兰第二大电视频道](https://zh.wikipedia.org/wiki/波兰 "wikilink")，成立于1992年12月5日。
 
 ## 其他渠道
 

@@ -1,4 +1,4 @@
-**ecute**（）是[JR東日本集團所開發與營運的站內商場](../Page/JR東日本.md "wikilink")。
+**ecute**（）是[JR東日本集團所開發與營運的站內商場](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")。
 
 ## 概要
 
@@ -16,7 +16,7 @@ ecute的意思是eki（車站）、center（中心處）、universal（綜合）
 
 ## 營運企業
 
-  - 株式會社[JR東日本車站零售](../Page/#JR東日本車站零售.md "wikilink")
+  - 株式會社[JR東日本車站零售](https://zh.wikipedia.org/wiki/#JR東日本車站零售 "wikilink")
 
       - 大宮店、品川店、立川店、日暮里店、東京店
 
@@ -67,10 +67,10 @@ ecute的意思是eki（車站）、center（中心處）、universal（綜合）
 [Ecute_Omiya.jpg](https://zh.wikipedia.org/wiki/File:Ecute_Omiya.jpg "fig:Ecute_Omiya.jpg")
 [Ueno_Sta_ecute.jpg](https://zh.wikipedia.org/wiki/File:Ueno_Sta_ecute.jpg "fig:Ueno_Sta_ecute.jpg")
 
-  - [大宮站](../Page/大宮站_\(埼玉縣\).md "wikilink") -
+  - [大宮站](https://zh.wikipedia.org/wiki/大宮站_\(埼玉縣\) "wikilink") -
     位於中央剪票口（南）內，占地2300m<sup>2</sup>，76店鋪。商店概念是「Market
     Avenue」、環境概念是「Parkside Market」\[6\]。
-  - [品川站](../Page/品川站.md "wikilink")（分為兩個營運主體）
+  - [品川站](https://zh.wikipedia.org/wiki/品川站 "wikilink")（分為兩個營運主體）
       - エキュート品川 - 位於中央剪票口內，占地1600m<sup>2</sup>，46店鋪。共有兩層。商店概念是「Premium
         Private」、環境概念是は「J-Style Terrace」\[7\]。
       - ecute品川 South\[8\] -
@@ -79,22 +79,22 @@ ecute的意思是eki（車站）、center（中心處）、universal（綜合）
   - [立川站](../Page/立川站.md "wikilink") -
     位於南剪票口內外，占地4300m<sup>2</sup>，88店鋪。共有四層。商店概念是「自我訂製」（自分カスタマイズ）、環境概念是「My
     Habit」。
-  - [日暮里站](../Page/日暮里站.md "wikilink") -
+  - [日暮里站](https://zh.wikipedia.org/wiki/日暮里站 "wikilink") -
     位於北剪票口內，占地380m<sup>2</sup>，17店鋪。商店概念是「不易流行」、環境概念是「下町摩登」。車站改建中，預計將繼續擴大營業。
-  - [東京站](../Page/東京站.md "wikilink") -
+  - [東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink") -
     位於1樓剪票口內南區（舊Dila東京Media區），占地1300m<sup>2</sup>，31店鋪。商店概念是「日本Re-STANDARD」、環境概念是「ennichi（緣日）」\[9\]<ref>
 
 [東京駅サウスコートから新たなニッポンを発信](http://www.ecute.jp/pdf/100303-1.pdf)
 JR東日本ステーションリテイリング・プレスリリース2010年3月3日</ref>\[10\]。
 
-  - [上野站](../Page/上野站.md "wikilink") -
+  - [上野站](https://zh.wikipedia.org/wiki/上野站 "wikilink") -
     位於3樓剪票口內（舊Dila上野），占地4800m<sup>2</sup>，78店鋪。商店概念是「每日工作室之旅」、環境概念是「Artisan
     Promenade（アルチザン プロムナード）」\[11\]\[12\]。開發營運為JR東日本零售網\[13\]。
   - [赤羽站](../Page/赤羽站.md "wikilink") -
     位於北剪票口內（含舊ARCARD赤羽1），占地約2100m<sup>2</sup>，55店鋪。商店概念是「心Reset」、環境概念是「PASSAGE」。開發營運為JR東日本都市開發
     \[14\]。
-  - [萬世橋站](../Page/萬世橋站.md "wikilink") - mAAch
-    ecute神田萬世橋，舊萬世橋站高架橋、車站月台內10店鋪等期間限定店鋪。為[交通博物館用地](../Page/交通博物館.md "wikilink")。是以歷史建築物再生作為營運概念。
+  - [萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink") - mAAch
+    ecute神田萬世橋，舊萬世橋站高架橋、車站月台內10店鋪等期間限定店鋪。為[交通博物館用地](https://zh.wikipedia.org/wiki/交通博物館 "wikilink")。是以歷史建築物再生作為營運概念。
 
 {{-}}
 
@@ -102,12 +102,12 @@ JR東日本ステーションリテイリング・プレスリリース2010年3�
 
 **株式會社JR東日本車站零售**（）是JR東日本集團所屬企業，總部位於東京都。
 
-經營ecute各店（上野店、品川Soth店、赤羽店除外）、エキタマ（[田町站](../Page/田町車站_\(東京都\).md "wikilink")）及mAAch
-ecute（[萬世橋站](../Page/萬世橋站.md "wikilink")）。
+經營ecute各店（上野店、品川Soth店、赤羽店除外）、エキタマ（[田町站](https://zh.wikipedia.org/wiki/田町車站_\(東京都\) "wikilink")）及mAAch
+ecute（[萬世橋站](https://zh.wikipedia.org/wiki/萬世橋站 "wikilink")）。
 
 ### 醜聞
 
-  - 2014年4月，因疑似拒絕消費稅增稅部分轉嫁而強迫租戶接受，被[公正取引委員會依](../Page/公正取引委員會.md "wikilink")《消費稅轉嫁對策特別措置法》公布公司名\[15\]。
+  - 2014年4月，因疑似拒絕消費稅增稅部分轉嫁而強迫租戶接受，被[公正取引委員會依](https://zh.wikipedia.org/wiki/公正取引委員會 "wikilink")《消費稅轉嫁對策特別措置法》公布公司名\[15\]。
 
 {{-}}
 

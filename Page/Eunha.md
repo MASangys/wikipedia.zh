@@ -1,34 +1,35 @@
-**丁恩妃**\[1\]（，，），藝名**Eunha**（），[韓國女](../Page/大韓民國.md "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任第二主唱。曾與隊友[SinB於](../Page/SinB.md "wikilink")[Big
+**丁恩妃**\[1\]（，，），藝名**Eunha**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
+Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任第二主唱。曾與隊友[SinB於](../Page/SinB.md "wikilink")[Big
 Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
 
 ## 經歷
 
 ### 早期生涯
 
-銀河在1997年5月30日出生於[韓國](../Page/韓國.md "wikilink")[首爾特別市](../Page/首爾特別市.md "wikilink")\[2\]。她在7歲時確診患上，需一直接受治療和血液測試。直至小學6年級，她才完全康復，並證實病情不會再復發\[3\]。
+銀河在1998年5月30日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")\[2\]。她在7歲時確診患上，需一直接受治療和血液測試。直至小學6年級，她才完全康復，並證實病情不會再復發\[3\]。
 
-2007年，銀河成為一位童星，並參與[KBS2劇集](../Page/KBS第2頻道.md "wikilink")「Love &
-War」（）的演出\[4\]。 她曾與[SinB一同成為](../Page/SinB.md "wikilink")[Big
-Hit娛樂的練習生](../Page/Big_Hit娛樂.md "wikilink")。她亦曾是[LOEN娛樂的練習生](../Page/LOEN娛樂.md "wikilink")。
+2007年，銀河成為一位童星，並參與[KBS2劇集](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")「Love
+& War」（）的演出\[4\]。 她曾與[SinB一同成為](../Page/SinB.md "wikilink")[Big
+Hit娛樂的練習生](../Page/Big_Hit娛樂.md "wikilink")。她亦曾是[LOEN娛樂的練習生](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
 
 ### 生涯發展
 
 銀河為女子團體[GFRIEND的成員之一](../Page/GFRIEND.md "wikilink")，在2015年1月15日以《[Glass
 Bead](../Page/Season_of_Glass.md "wikilink")》正式出道。同年10月21日，銀河與[Pro
 C合作](../Page/Pro_C.md "wikilink")，推出歌曲《漢江的夜晚（밤에 본
-한강）》\[5\]。2016年銀河首次獨唱歌曲，她為[SBS劇集](../Page/SBS有限公司.md "wikilink")《[六龍飛天](../Page/六龍飛天.md "wikilink")》主唱劇中的歌曲《離別不要來（이별로오지마）》\[6\]。
+한강）》\[5\]。2016年銀河首次獨唱歌曲，她為[SBS劇集](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")《[六龍飛天](../Page/六龍飛天.md "wikilink")》主唱劇中的歌曲《離別不要來（이별로오지마）》\[6\]。
 
 銀河曾和[Block B的朴經](../Page/Block_B.md "wikilink")，一同出演[MBC MBig
-TV的網絡情景劇Oh](../Page/文化廣播_\(韓國\).md "wikilink") My God\!
-Tip\[7\]。5月25日，銀河與朴經合作，推出歌曲《自卑心理（자격지심）》\[8\]\[9\]。
+TV的網絡情景劇Oh](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
+My God\! Tip\[7\]。5月25日，銀河與朴經合作，推出歌曲《自卑心理（자격지심）》\[8\]\[9\]。
 
 2016年11月，Eunha加入Sunny Girls
--《人氣歌謠》特別合作企劃女團，該組合其他成員4個成员分別是：[宇宙少女的](../Page/宇宙少女.md "wikilink")[程瀟](../Page/程瀟.md "wikilink")、[gu9udan](../Page/gu9udan.md "wikilink")
-的 [娜英](../Page/娜英.md "wikilink")、[Oh My
-Girl](../Page/Oh_My_Girl.md "wikilink") 的
-[YooA](../Page/YooA.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilink")
-的 [Nancy](../Page/Nancy.md "wikilink") ，一共五人所組成的特別合作女團並表演歌曲。\[10\]
+-《人氣歌謠》特別合作企劃女團，該組合其他成員4個成员分別是：[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")
+的 [娜英](https://zh.wikipedia.org/wiki/娜英 "wikilink")、[Oh My
+Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") 的
+[YooA](https://zh.wikipedia.org/wiki/YooA "wikilink")、[MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")
+的 [Nancy](https://zh.wikipedia.org/wiki/Nancy "wikilink")
+，一共五人所組成的特別合作女團並表演歌曲。\[10\]
 
 2019年1月28日，公開《成為王的男人》第三波 OST，是由 Eunha 所演唱的「告訴我」(말해줘요)。「告訴我」由 Eunha
 清爽純真的嗓音搭配感性的鋼琴、弦樂伴奏，唱出輕聲撫慰記憶裡的情人、許下一生諾言的回憶，還有會一直期待思念的情人回到身邊的心情\[11\]。
@@ -79,17 +80,41 @@ Girl](../Page/Oh_My_Girl.md "wikilink") 的
 </tbody>
 </table>
 
+### 代言
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>公司產品</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>《百事可樂》</p>
+<ul>
+<li>發行日期：2019年4月11日</li>
+<li>語言：韓語</li>
+<li>合作藝人：Ravi(Vixx), Groovyroom</li>
+</ul></td>
+<td><ol>
+<li><a href="https://www.youtube.com/watch?v=QYJDDAml6M0">Blossom</a></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
 ### 合作單曲
 
-|        |                  |                                   |                                       |
-| ------ | ---------------- | --------------------------------- | ------------------------------------- |
-| 年份     | 日期               | 歌曲名稱                              | 備註                                    |
-| 2015   | 10月21日           | 漢江的夜晚 （밤에 본 한강）                   | 與[Pro C](../Page/Pro_C.md "wikilink") |
-| 2016   | 5月25日            | 自卑心理（자격지심）                        | 與[朴經](../Page/朴經.md "wikilink")       |
-| 10月12日 | Firefly（반딧불이）    | 與[黃致列](../Page/黃致列.md "wikilink") |                                       |
-| 11月2日  | Chemistry (케미)   | 與[MC夢](../Page/MC夢.md "wikilink") |                                       |
-| 2017   | 10月26日           | 左手右手（왼손 오른손）                      | 与[天地](../Page/TEEN_TOP.md "wikilink") |
-| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | 与Yun DDan DDan                    |                                       |
+|        |                  |                                                      |                                                          |
+| ------ | ---------------- | ---------------------------------------------------- | -------------------------------------------------------- |
+| 年份     | 日期               | 歌曲名稱                                                 | 備註                                                       |
+| 2015   | 10月21日           | 漢江的夜晚 （밤에 본 한강）                                      | 與[Pro C](../Page/Pro_C.md "wikilink")                    |
+| 2016   | 5月25日            | 自卑心理（자격지심）                                           | 與[朴經](../Page/朴經.md "wikilink")                          |
+| 10月12日 | Firefly（반딧불이）    | 與[黃致列](../Page/黃致列.md "wikilink")                    |                                                          |
+| 11月2日  | Chemistry (케미)   | 與[MC夢](https://zh.wikipedia.org/wiki/MC夢 "wikilink") |                                                          |
+| 2017   | 10月26日           | 左手右手（왼손 오른손）                                         | 与[天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") |
+| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | 与Yun DDan DDan                                       |                                                          |
 
 ### 音樂現場
 
@@ -112,13 +137,13 @@ Girl](../Page/Oh_My_Girl.md "wikilink") 的
 
 ### 參演音樂影片(MV)
 
-|       |                                                            |                                                                 |                                            |    |
-| ----- | ---------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------ | -- |
-| 年份    | 發佈日期                                                       | 歌曲名稱                                                            | 歌手                                         | 備註 |
-| 2015  | 7月28日                                                      | [You're beautiful](https://www.youtube.com/watch?v=VwTmYFKkDbk) | [柳昇佑](../Page/柳昇佑.md "wikilink")           |    |
-| 10月1日 | [Sweetie Pie](https://www.youtube.com/watch?v=41BuPgxQeAQ) | 李承煥                                                             | [GFRIEND全員](../Page/GFRIEND.md "wikilink") |    |
-| 2016  | 5月26日                                                      | [멋진여자](https://www.youtube.com/watch?v=MHqIG6QWmCs)             | 鎮海成                                        |    |
-|       |                                                            |                                                                 |                                            |    |
+|       |                                                            |                                                                 |                                                     |    |
+| ----- | ---------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- | -- |
+| 年份    | 發佈日期                                                       | 歌曲名稱                                                            | 歌手                                                  | 備註 |
+| 2015  | 7月28日                                                      | [You're beautiful](https://www.youtube.com/watch?v=VwTmYFKkDbk) | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink") |    |
+| 10月1日 | [Sweetie Pie](https://www.youtube.com/watch?v=41BuPgxQeAQ) | 李承煥                                                             | [GFRIEND全員](../Page/GFRIEND.md "wikilink")          |    |
+| 2016  | 5月26日                                                      | [멋진여자](https://www.youtube.com/watch?v=MHqIG6QWmCs)             | 鎮海成                                                 |    |
+|       |                                                            |                                                                 |                                                     |    |
 
 ### 廣播節目
 

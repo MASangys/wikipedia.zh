@@ -1,7 +1,7 @@
-**《Devil》**是[韓國演唱團體](../Page/韓國.md "wikilink")[Super
-Junior的出道](../Page/Super_Junior.md "wikilink")10周年特別紀念專輯，2015年7月16日發行。\[1\]這張專輯距該組合上張韓語專輯《[Mamacita](../Page/Mamacita.md "wikilink")》相距10個月。此專輯是成員[藝聲退伍後復出的首張韓語專輯](../Page/藝聲.md "wikilink")。
+**《Devil》**是[韓國演唱團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super
+Junior的出道](../Page/Super_Junior.md "wikilink")10周年特別紀念專輯，2015年7月16日發行。\[1\]這張專輯距該組合上張韓語專輯《[Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")》相距10個月。此專輯是成員[藝聲退伍後復出的首張韓語專輯](../Page/藝聲.md "wikilink")。
 
-《Devil》的後續版本專輯《Magic》在2015年9月16日發行，追加四首歌曲，共收錄14首歌。此專輯是成員[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](../Page/始源.md "wikilink")、[厲旭與](../Page/厲旭.md "wikilink")[圭賢入伍前的最後一張專輯](../Page/圭賢.md "wikilink")。由於[神童和](../Page/神童.md "wikilink")[晟敏入伍](../Page/晟敏.md "wikilink")，所以不參與專輯錄製，共九名成員投入該專輯活動和宣傳工作。\[2\]\[3\]
+《Devil》的後續版本專輯《Magic》在2015年9月16日發行，追加四首歌曲，共收錄14首歌。此專輯是成員[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厲旭與](../Page/厲旭.md "wikilink")[圭賢入伍前的最後一張專輯](../Page/圭賢.md "wikilink")。由於[神童和](../Page/神童.md "wikilink")[晟敏入伍](../Page/晟敏.md "wikilink")，所以不參與專輯錄製，共九名成員投入該專輯活動和宣傳工作。\[2\]\[3\]
 
 ## 發行與宣傳
 
@@ -19,7 +19,7 @@ Bank》、《Show\!音樂中心》及《人氣歌謠》。\[8\]22日，公開《
 ## 錄製與音樂
 
 主打歌《Devil》是Micah
-Powell、製作團隊及韓國作曲家[Kenzie為Super](../Page/Kenzie.md "wikilink")
+Powell、製作團隊及韓國作曲家[Kenzie為Super](https://zh.wikipedia.org/wiki/Kenzie "wikilink")
 Junior製作的舞曲。\[10\]Super Junior小分隊[Super
 Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super
 Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super
@@ -27,7 +27,7 @@ Junior-M](../Page/Super_Junior-M.md "wikilink")、[Super Junior Donghae &
 Eunhyuk也會有歌曲收錄在内](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")。\[11\]專輯共收錄10首歌。抒情搖滾風的《We
 Can》由為Super Junior-K.R.Y.而創作，《Love at First Sight》由玫瑰旅館樂隊的為Super
 Junior-T而作，《Rock'n
-Shine》由[紫雨林樂隊主唱](../Page/紫雨林.md "wikilink")[金倫我創作](../Page/金倫我.md "wikilink")，抒情歌《Star
+Shine》由[紫雨林樂隊主唱](https://zh.wikipedia.org/wiki/紫雨林 "wikilink")[金倫我創作](../Page/金倫我.md "wikilink")，抒情歌《Star
 Appear...》 由歌手Epitone Project創作，《Don't Wake Me Up》由Super
 Junior成員[東海參與詞曲創作](../Page/東海_\(藝人\).md "wikilink")，Super
 Junior-M演唱的《每天》。\[12\]
@@ -51,7 +51,7 @@ Junior-M演唱的《每天》。\[12\]
 <tbody>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="../Page/金唱片獎.md" title="wikilink">第30屆金唱片獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">第30屆金唱片獎</a></p></td>
 <td><p>唱片部門－本賞</p></td>
 <td><p>《Devil》</p></td>
 <td></td>
@@ -82,7 +82,7 @@ Junior-M演唱的《每天》。\[12\]
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年7月12日－7月18日</p></td>
 <td><p>#21</p></td>
@@ -155,7 +155,8 @@ Junior-M演唱的《每天》。\[12\]
 
 ## 相關條目
 
-●[Super Camp](../Page/Super_Camp.md "wikilink")(Super Junior紀念出道十周年演唱會)
+●[Super Camp](https://zh.wikipedia.org/wiki/Super_Camp "wikilink")(Super
+Junior紀念出道十周年演唱會)
 
 ## 參考文獻
 

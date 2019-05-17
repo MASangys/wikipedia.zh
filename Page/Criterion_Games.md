@@ -1,5 +1,5 @@
 **Criterion Games**（官方称为**Criterion
-Software**），是一家总部位于[英国](../Page/英国.md "wikilink")[萨里](../Page/萨里.md "wikilink")[吉尔福德的游戏开发商](../Page/吉尔福德.md "wikilink")。该公司是最出名的是竞速游戏Burnout系列和[极品飞车系列](../Page/极品飞车系列.md "wikilink")。
+Software**），是一家总部位于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[萨里](https://zh.wikipedia.org/wiki/萨里 "wikilink")[吉尔福德的游戏开发商](https://zh.wikipedia.org/wiki/吉尔福德 "wikilink")。该公司是最出名的是竞速游戏Burnout系列和[极品飞车系列](../Page/极品飞车系列.md "wikilink")。
 
 ## 历史
 

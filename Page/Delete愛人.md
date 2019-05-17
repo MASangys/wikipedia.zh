@@ -2,8 +2,8 @@
 
 ## 劇情
 
-蘇波榮（[王祖藍飾](../Page/王祖藍.md "wikilink")）生活不如意，因他有個縮骨（[吝嗇](../Page/吝嗇.md "wikilink")）的衰老闆馬上發（[許冠文飾](../Page/許冠文.md "wikilink")），只顧榨盡兒子身上錢財的母親蘇太（[元秋飾](../Page/元秋.md "wikilink")）和阿妹蘇依時（[莊思敏](../Page/莊思敏.md "wikilink")
-飾），整天撞板的損友華Dee（[方力申飾](../Page/方力申.md "wikilink")）和文靜內向的賢淑女友鍾家寶（[王菀之飾](../Page/王菀之.md "wikilink")）。但榮的命運在他33歲生日那天發生了變化，他忽然擁有一種超能力，能將所有不喜歡的人從生命中刪除(delete)，搖身一變成為只喜歡自己、崇拜自己和服從自己的人。
+蘇波榮（[王祖藍飾](../Page/王祖藍.md "wikilink")）生活不如意，因他有個縮骨（[吝嗇](https://zh.wikipedia.org/wiki/吝嗇 "wikilink")）的衰老闆馬上發（[許冠文飾](../Page/許冠文.md "wikilink")），只顧榨盡兒子身上錢財的母親蘇太（[元秋飾](../Page/元秋.md "wikilink")）和阿妹蘇依時（[莊思敏](../Page/莊思敏.md "wikilink")
+飾），整天撞板的損友華Dee（[方力申飾](../Page/方力申.md "wikilink")）和文靜內向的賢淑女友鍾家寶（[王菀之飾](https://zh.wikipedia.org/wiki/王菀之 "wikilink")）。但榮的命運在他33歲生日那天發生了變化，他忽然擁有一種超能力，能將所有不喜歡的人從生命中刪除(delete)，搖身一變成為只喜歡自己、崇拜自己和服從自己的人。
 
 ## 演員表
 
@@ -22,7 +22,7 @@
 <td><p>懷才不遇的小人物</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王菀之.md" title="wikilink">王菀之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王菀之" title="wikilink">王菀之</a></p></td>
 <td><p>鍾家寶</p></td>
 <td><p>蘇波榮的女朋友(變身前)</p></td>
 </tr>
@@ -72,12 +72,12 @@
 <td><p>蘇波榮的妹妹(變身前)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/龍小菌.md" title="wikilink">龍小菌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍小菌" title="wikilink">龍小菌</a></p></td>
 <td><p>蘇波榮的妹妹(變身後)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Kevin仔.md" title="wikilink">Kevin仔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kevin仔" title="wikilink">Kevin仔</a></p></td>
 <td><p>型果龍</p></td>
 <td></td>
 </tr>
@@ -92,7 +92,7 @@
 <td><p>馬上發變出來的兒子</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Maria_Cordero.md" title="wikilink">Maria Cordero</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Maria_Cordero" title="wikilink">Maria Cordero</a></p></td>
 <td><p>馬上發的老婆</p></td>
 <td><p>變身前</p></td>
 </tr>
@@ -102,12 +102,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳嘉佳.md" title="wikilink">陳嘉佳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">陳嘉佳</a></p></td>
 <td><p>羅曼蒂(蘇波榮的助手)</p></td>
 <td><p>變身前</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/連詩雅.md" title="wikilink">連詩雅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a></p></td>
 <td><p>變身後</p></td>
 <td></td>
 </tr>
@@ -132,7 +132,7 @@
 <td><p>溫特福的父親</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/崔碧珈.md" title="wikilink">崔碧珈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔碧珈" title="wikilink">崔碧珈</a></p></td>
 <td><p>超模秘書</p></td>
 <td></td>
 </tr>
@@ -157,7 +157,7 @@
 <td><p>鍾家寶的母親</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/雷琛瑜.md" title="wikilink">雷琛瑜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷琛瑜" title="wikilink">雷琛瑜</a></p></td>
 <td><p>阿珠</p></td>
 <td><p>鍾家寶的妹妹</p></td>
 </tr>
@@ -207,7 +207,7 @@
 <td><p>華Dee的暗戀對象</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/路芙.md" title="wikilink">路芙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/路芙" title="wikilink">路芙</a></p></td>
 <td><p>街坊</p></td>
 <td></td>
 </tr>
@@ -237,7 +237,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李泳淇.md" title="wikilink">李泳淇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李泳淇" title="wikilink">李泳淇</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -252,22 +252,22 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林小美.md" title="wikilink">林小美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林小美" title="wikilink">林小美</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/吳凱欣.md" title="wikilink">吳凱欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳凱欣" title="wikilink">吳凱欣</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉振宇.md" title="wikilink">劉振宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉振宇" title="wikilink">劉振宇</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳婉晴.md" title="wikilink">陳婉晴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳婉晴" title="wikilink">陳婉晴</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -278,6 +278,7 @@
 
 ## 外部連結
 
+  -
   - Delete My Love
     (2014)，[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=eng)、[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=big5)
     - 香港影庫

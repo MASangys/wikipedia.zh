@@ -1,13 +1,14 @@
 **ASUS ZenFone
-3**\[1\]是[華碩於](../Page/華碩.md "wikilink")2016年5月30日在[COMPUTEX展發表之](../Page/COMPUTEX.md "wikilink")[ZenFone第三代系列產品](../Page/ZenFone.md "wikilink")，搭載[Android
-6.0](../Page/Android_6.0.md "wikilink")
+3**\[1\]是[華碩於](../Page/華碩.md "wikilink")2016年5月30日在[COMPUTEX展發表之](https://zh.wikipedia.org/wiki/COMPUTEX "wikilink")[ZenFone第三代系列產品](https://zh.wikipedia.org/wiki/ZenFone "wikilink")，搭載[Android
+6.0](https://zh.wikipedia.org/wiki/Android_6.0 "wikilink")
 、[64位元](../Page/64位元.md "wikilink") [Qualcomm
-Snapdragon處理器](../Page/Qualcomm_Snapdragon.md "wikilink")，是[ZenFone系列中首次全系列搭載非](../Page/ZenFone.md "wikilink")[英特爾Atom處理器的手機系列](../Page/英特爾.md "wikilink")，螢幕尺寸落在5.2吋到6.8吋之間，其最高規格(Deluxe)搭載了[Snapdragon](../Page/Snapdragon.md "wikilink")
-821處理器 / 6GB [RAM](../Page/隨機存取記憶體.md "wikilink") / 256GB
-[ROM](../Page/ROM.md "wikilink")。
+Snapdragon處理器](https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon "wikilink")，是[ZenFone系列中首次全系列搭載非](https://zh.wikipedia.org/wiki/ZenFone "wikilink")[英特爾Atom處理器的手機系列](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，螢幕尺寸落在5.2吋到6.8吋之間，其最高規格(Deluxe)搭載了[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
+821處理器 / 6GB [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink") /
+256GB [ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")。
 2016年7月14日在[印度發表了ZenFone](../Page/印度.md "wikilink") 3 Laser與ZenFone 3
 Max。
-2017年1月4日在[美國發表了Zenfone](../Page/美國.md "wikilink") 3 Zoom與Zenfone AR。
+2017年1月4日在[美國發表了Zenfone](https://zh.wikipedia.org/wiki/美國 "wikilink") 3
+Zoom與Zenfone AR。
 
 ## 詳細規格
 

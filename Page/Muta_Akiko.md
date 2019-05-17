@@ -1,11 +1,11 @@
 **Muta
-Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](../Page/旁白.md "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]。
+Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]。
 
 ## 人物簡介
 
 [東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")（簡稱俳協）所屬，1988年從俳協旗下附屬的養成所第16期畢業後加入\[2\]。
 
-音域為[次女高音](../Page/次女高音.md "wikilink")\[3\]。為人熟悉的代表配音作品是長壽動畫《[蠟筆小新](../Page/蠟筆小新.md "wikilink")》埼玉紅蠍隊的青春痘瑪莉和《[忍者亂太郎](../Page/忍者亂太郎.md "wikilink")》的大川繁、笹山兵太夫；[遊戲與改編動畫](../Page/電子遊戲.md "wikilink")《[漫畫派對](../Page/漫畫派對_\(遊戲\).md "wikilink")》的芳賀玲子。
+音域為[次女高音](https://zh.wikipedia.org/wiki/次女高音 "wikilink")\[3\]。為人熟悉的代表配音作品是長壽動畫《[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")》埼玉紅蠍隊的青春痘瑪莉和《[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")》的大川繁、笹山兵太夫；[遊戲與改編動畫](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[漫畫派對](../Page/漫畫派對_\(遊戲\).md "wikilink")》的芳賀玲子。
 
 興趣是參觀[美術館巡迴展](../Page/美術館.md "wikilink")\[4\]。
 
@@ -20,7 +20,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 <!-- end list -->
 
   - [風中少女 金髮珍妮](../Page/風中少女_金髮珍妮.md "wikilink")（羅莎）
-  - *[蠟筆小新](../Page/蠟筆小新.md "wikilink")*（青春痘瑪莉 等）
+  - *[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")*（青春痘瑪莉 等）
   - [超時空保姆](../Page/超時空保姆.md "wikilink")（杉田未來）
 
 <!-- end list -->
@@ -29,7 +29,8 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - *[忍者亂太郎](../Page/忍者亂太郎.md "wikilink")*（**大川繁**、**笹山兵太夫**、音吉 等）
+  - *[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")*（**大川繁**、**笹山兵太夫**、音吉
+    等）
 
 <!-- end list -->
 
@@ -95,7 +96,8 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [劇場版 忍者亂太郎](../Page/忍者亂太郎.md "wikilink")（**大川繁**、**笹山兵太夫**）
+  - [劇場版
+    忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（**大川繁**、**笹山兵太夫**）
 
 <!-- end list -->
 
@@ -103,7 +105,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [蠟筆小新：爆發！溫泉激烈大決戰](../Page/蠟筆小新：爆發！溫泉激烈大決戰.md "wikilink")（青春痘瑪莉）
+  - [蠟筆小新：爆發！溫泉激烈大決戰](https://zh.wikipedia.org/wiki/蠟筆小新：爆發！溫泉激烈大決戰 "wikilink")（青春痘瑪莉）
 
 <!-- end list -->
 
@@ -112,7 +114,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 <!-- end list -->
 
   -
-  - [蠟筆小新：風起雲湧的叢林冒險](../Page/蠟筆小新：風起雲湧的叢林冒險.md "wikilink")（青春痘瑪莉）
+  - [蠟筆小新：風起雲湧的叢林冒險](https://zh.wikipedia.org/wiki/蠟筆小新：風起雲湧的叢林冒險 "wikilink")（青春痘瑪莉）
 
 <!-- end list -->
 
@@ -120,7 +122,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [蠟筆小新：怒吼吧！春日部野生王國](../Page/蠟筆小新：怒吼吧！春日部野生王國.md "wikilink")（青春痘瑪莉）
+  - [蠟筆小新：怒吼吧！春日部野生王國](https://zh.wikipedia.org/wiki/蠟筆小新：怒吼吧！春日部野生王國 "wikilink")（青春痘瑪莉）
 
 <!-- end list -->
 
@@ -129,7 +131,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 <!-- end list -->
 
   - [劇場版
-    忍者亂太郎：忍術學園全員出動之卷！](../Page/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段.md "wikilink")（**大川繁**\[5\]、**笹山兵太夫**\[6\]）
+    忍者亂太郎：忍術學園全員出動之卷！](https://zh.wikipedia.org/wiki/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段 "wikilink")（**大川繁**\[5\]、**笹山兵太夫**\[6\]）
 
 <!-- end list -->
 
@@ -137,7 +139,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [名偵探柯南：業火的向日葵](../Page/名偵探柯南：業火的向日葵.md "wikilink")（播報員、女性記者）
+  - [名偵探柯南：業火的向日葵](https://zh.wikipedia.org/wiki/名偵探柯南：業火的向日葵 "wikilink")（播報員、女性記者）
 
 <!-- end list -->
 
@@ -145,7 +147,8 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [蠟筆小新：功夫小子 ～拉麵大亂鬥～](../Page/蠟筆小新：功夫小子〜拉麵大亂鬥〜.md "wikilink")（青春痘瑪莉）
+  - [蠟筆小新：功夫小子
+    ～拉麵大亂鬥～](https://zh.wikipedia.org/wiki/蠟筆小新：功夫小子〜拉麵大亂鬥〜 "wikilink")（青春痘瑪莉）
 
 ### 遊戲
 
@@ -197,7 +200,8 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [忍者亂太郎 學年對戰方塊！之卷](../Page/忍者亂太郎.md "wikilink")（**大川繁**）
+  - [忍者亂太郎
+    學年對戰方塊！之卷](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（**大川繁**）
 
 <!-- end list -->
 
@@ -280,15 +284,15 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 #### 電視影集
 
-  - [大偵探波洛](../Page/大偵探波洛.md "wikilink")（Mlle Blanche〈Miranda Raison
-    飾演〉）－第59集。
+  - [大偵探波洛](https://zh.wikipedia.org/wiki/大偵探波洛 "wikilink")（Mlle
+    Blanche〈Miranda Raison 飾演〉）－第59集。
   - [急診室的春天](../Page/仁心仁術.md "wikilink")（Lisa "One Night"
     Standing〈Kimberly Scott 飾演〉、〈[溫明娜](../Page/溫明娜.md "wikilink") 飾演〉）
 
 ### 廣播劇CD
 
   - 廣播劇CD  TARGET2：山口、吉岡（小學時期的壹哉）
-  - [忍者亂太郎系列](../Page/忍者亂太郎.md "wikilink")（大川繁、笹山兵太夫）
+  - [忍者亂太郎系列](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（大川繁、笹山兵太夫）
       - 忍者亂太郎 廣播劇CD 作法委員會之卷
       - 忍者亂太郎 廣播劇CD 一年葉組之卷
 
@@ -310,7 +314,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - [NHK系列](../Page/日本放送協會.md "wikilink")
+  - [NHK系列](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")
 
 <!-- end list -->
 
@@ -327,7 +331,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
 <!-- end list -->
 
-  - **[NHK-BS2](../Page/NHK衛星第2頻道.md "wikilink")**
+  - **[NHK-BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")**
       - 鋼彈宇宙世紀大全（第五夜）「福井晴敏語[鋼彈UC](../Page/機動戰士GUNDAM_UC.md "wikilink")」（旁白）
       - 鋼彈宇宙世紀大全 (第二夜)「夢見實體的鋼彈」（旁白）
 
@@ -354,7 +358,7 @@ Akiko**（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Pa
 
   - （飾演歌手志願者，1991年，[富士電視台](../Page/富士電視台.md "wikilink")）
 
-  - （早晨情報節目：[星期二專屬](../Page/星期二.md "wikilink")，[TBS](../Page/TBS電視台.md "wikilink")）
+  - （早晨情報節目：[星期二專屬](https://zh.wikipedia.org/wiki/星期二 "wikilink")，[TBS](../Page/TBS電視台.md "wikilink")）
 
   - [報道Station](../Page/報道Station.md "wikilink")（旁白：星期四、五，[朝日電視台](../Page/朝日電視台.md "wikilink")）
 

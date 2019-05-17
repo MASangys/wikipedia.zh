@@ -1,11 +1,12 @@
-**DAF-16**是人[FOXO家族蛋白在](../Page/FOX蛋白.md "wikilink")[线虫动物门](../Page/线虫动物门.md "wikilink")（如[秀麗隱桿線蟲](../Page/秀麗隱桿線蟲.md "wikilink")）中的[同源基因](../Page/同源.md "wikilink")\[1\]，在线虫的[胰岛素样生长因子1受体同源基因](../Page/胰岛素样生长因子1受体.md "wikilink")[daf-2产生延长寿命的突变后](../Page/daf-2.md "wikilink")，DAF-16是被激活的主要的[转录因子](../Page/转录因子.md "wikilink")\[2\]。
+**DAF-16**是人[FOXO家族蛋白在](https://zh.wikipedia.org/wiki/FOX蛋白 "wikilink")[线虫动物门](../Page/线虫动物门.md "wikilink")（如[秀麗隱桿線蟲](../Page/秀麗隱桿線蟲.md "wikilink")）中的[同源基因](../Page/同源.md "wikilink")\[1\]，在线虫的[胰岛素样生长因子1受体同源基因](../Page/胰岛素样生长因子1受体.md "wikilink")[daf-2产生延长寿命的突变后](https://zh.wikipedia.org/wiki/daf-2 "wikilink")，DAF-16是被激活的主要的[转录因子](../Page/转录因子.md "wikilink")\[2\]。
 
 ## 另见
 
-  - [Daf-2](../Page/Daf-2.md "wikilink")
+  - [Daf-2](https://zh.wikipedia.org/wiki/Daf-2 "wikilink")
   - [加里·鲁夫昆](../Page/加里·鲁夫昆.md "wikilink")（Gary Ruvkun）
-  - [FOX蛋白](../Page/FOX蛋白.md "wikilink")
-  - [辛西娅·凯尼恩](../Page/辛西娅·凯尼恩.md "wikilink")（Cynthia Kenyon）
+  - [FOX蛋白](https://zh.wikipedia.org/wiki/FOX蛋白 "wikilink")
+  - [辛西娅·凯尼恩](https://zh.wikipedia.org/wiki/辛西娅·凯尼恩 "wikilink")（Cynthia
+    Kenyon）
 
 ## 参考文献
 

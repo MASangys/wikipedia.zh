@@ -1,4 +1,4 @@
-《**假面騎士Amazons**》（，），是[日本](../Page/日本.md "wikilink")[東映株式會社的](../Page/東映株式會社.md "wikilink")[特攝片集](../Page/特攝.md "wikilink")，為《假面騎士系列》首輯原創網路劇。2016年4月1日起在Amazon
+《**假面騎士Amazons**》（，），是[日本](../Page/日本.md "wikilink")[東映株式會社的](https://zh.wikipedia.org/wiki/東映株式會社 "wikilink")[特攝片集](https://zh.wikipedia.org/wiki/特攝 "wikilink")，為《假面騎士系列》首輯原創網路劇。2016年4月1日起在Amazon
 Prime・video 放映，同週五提供播放，首季共13集。第二季從2017年4月7日起於Amazon Prime・video放映。
 
 ## 製作流程及本作特色
@@ -8,7 +8,7 @@ Prime・video 放映，同週五提供播放，首季共13集。第二季從2017
 作為完結篇預熱，兩季內容已確定重新編輯成兩部劇場版上映，分成《劇場版假面騎士Amazons
 Season1覺醒》與《劇場版假面騎士Amazons Season2輪迴》分別於5月5日與12日上映。
 
-本劇找來《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士電王](../Page/假面騎士電王.md "wikilink")》的編劇[小林靖子負責腳本](../Page/小林靖子.md "wikilink")，並由《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》的石田秀範、《[假面騎士555](../Page/假面騎士555.md "wikilink")》的田崎龍太與《[假面騎士1號](../Page/假面騎士1號.md "wikilink")》的金田治三位導演共同擔當導演。
+本劇找來《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》的編劇[小林靖子負責腳本](../Page/小林靖子.md "wikilink")，並由《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》的石田秀範、《[假面騎士555](../Page/假面騎士555.md "wikilink")》的田崎龍太與《[假面騎士1號](../Page/假面騎士1號.md "wikilink")》的金田治三位導演共同擔當導演。
 
 此劇與部分平成年代的作品一樣，棄用「假面騎士」的稱呼。怪人被擊敗後不會大爆炸身亡，而是被取出心臟再液化死亡。劇中的騎士及怪人皆為「Amazon」，分別在於兩名主角騎士以「Amazons
 驅動器（Amazons Driver）」腰帶變身。兩名主角騎士為「假面骑士Amazon Ω（Omega）」及 「假面骑士Amazon
@@ -217,7 +217,7 @@ Neo與謎之少女・惟由（白本彩奈）為中心描繪故事。作為Seaso
 
 ### 假面騎士Amazon Alpha（仮面ライダーアマゾンアルファ）
 
-  - 變身者：鷹山仁（替身演員：、CV：[谷口賢志](../Page/谷口賢志.md "wikilink")）
+  - 變身者：鷹山仁（替身演員：、CV：[谷口賢志](https://zh.wikipedia.org/wiki/谷口賢志 "wikilink")）
     鷹山仁變身的Amazon。因仁的為人而被形容為“ 野生 ”。
     全身的裝甲為紅色，胸部裝甲的顏色是銀色，複眼的顏色是綠色。有著無數“ 傷痕 ”遍布的粗暴的容貌，皮膚無光澤。
     S2在與Amazon Omega的某一次戰鬥中被傷及雙眼，後由綠色變為白色，視力受損，只能看見一部分。
@@ -820,39 +820,39 @@ S2中新增人類受感染後Amazon化的新種Amazon。因感染而成的Amazon
 
 ## 播放列表
 
-| 話數    | 播放日期       | 中文標題\[4\] | 英文標題                                                         | 編劇                                                        | 導演                     |
-| ----- | ---------- | --------- | ------------------------------------------------------------ | --------------------------------------------------------- | ---------------------- |
-| S1-1  | 2016/04/01 | 群魔亂舞      | <span style=color:#FF1493>**A**</span>mazonz                 | [Yasuko Kobayashi (小林靖子)](../Page/cmn:小林靖子.md "wikilink") | Hidenori Ishida (石田秀範) |
-| S1-2  | 2016/04/08 | 人面獸心      | <span style=color:#FF1493>**B**</span>east Inside            |                                                           |                        |
-| S1-3  | 2016/04/15 | 蟻附蜂屯      | <span style=color:#FF1493>**C**</span>olony of ants          | Ryuta Tasaki (田崎竜太)                                       |                        |
-| S1-4  | 2016/04/22 | 弱肉強食      | <span style=color:#FF1493>**D**</span>ie or kill             |                                                           |                        |
-| S1-5  | 2016/04/29 | 窺間伺隙      | <span style=color:#FF1493>**E**</span>yes in the dark        | Osamu Kaneda (金田治)                                        |                        |
-| S1-6  | 2016/05/06 | 為己而戰      | <span style=color:#FF1493>**F**</span>or what I fight        |                                                           |                        |
-| S1-7  | 2016/05/13 | 屠夫遊戲      | <span style=color:#FF1493>**G**</span>ame of the butchers    | Hidenori Ishida (石田秀範)                                    |                        |
-| S1-8  | 2016/05/20 | 雄飛雌伏      | <span style=color:#FF1493>**H**</span>ero or not             |                                                           |                        |
-| S1-9  | 2016/05/27 | 盛宴拜訪      | <span style=color:#FF1493>**I**</span>nto the cannibal's pot | Ryuta Tasaki (田崎竜太)                                       |                        |
-| S1-10 | 2016/06/03 | 叢林法則      | <span style=color:#FF1493>**J**</span>ungle law              |                                                           |                        |
-| S1-11 | 2016/06/10 | 殺戮之日      | <span style=color:#FF1493>**K**</span>illing day             |                                                           |                        |
-| S1-12 | 2016/06/17 | 霧中迷失      | <span style=color:#FF1493>**L**</span>ost in the fog         | Hidenori Ishida (石田秀範)                                    |                        |
-| S1-13 | 2016/06/24 | M         | <span style=color:#FF1493>**M**</span>                       |                                                           |                        |
-| S2-1  | 2017/04/07 | 新生之種      | <span style=color:#FF1493>**N**</span>eo                     |                                                           |                        |
-| S2-2  | 2017/04/14 | 孤雛腐鼠      | <span style=color:#FF1493>**O**</span>rphans                 |                                                           |                        |
-| S2-3  | 2017/04/21 | 異己分子      | <span style=color:#FF1493>**P**</span>ersona non grata       | Ryuta Tasaki (田崎竜太)                                       |                        |
-| S2-4  | 2017/04/28 | 君去何方      | <span style=color:#FF1493>**Q**</span>uo vadis?              |                                                           |                        |
-| S2-5  | 2017/05/05 | 瑰意琦行      | <span style=color:#FF1493>**R**</span>ambling roses          | Hidenori Ishida (石田秀範)                                    |                        |
-| S2-6  | 2017/05/12 | 今昔往生      | <span style=color:#FF1493>**S**</span>chooldays \[5\]        |                                                           |                        |
-| S2-7  | 2017/05/19 | 威刑肅物      | <span style=color:#FF1493>**T**</span>he third degree        | Ryuta Tasaki (田崎竜太)                                       |                        |
-| S2-8  | 2017/05/26 | 隐鳞戢翼      | <span style=color:#FF1493>**U**</span>nder wraps             |                                                           |                        |
-| S2-9  | 2017/06/02 | 鎩羽凋零      | <span style=color:#FF1493>**V**</span>anishing wings         |                                                           |                        |
-| S2-10 | 2017/06/09 | 道盡途殫      | <span style=color:#FF1493>**W**</span>ay to nowhere          | Hidenori Ishida (石田秀範)                                    |                        |
-| S2-11 | 2017/06/16 | 破釜沉舟      | <span style=color:#FF1493>**X**</span>ing the rubicon        |                                                           |                        |
-| S2-12 | 2017/06/23 | 天命攸歸      | <span style=color:#FF1493>**Y**</span>ellow brick road       | Ryuta Tasaki (田崎竜太)                                       |                        |
-| S2-13 | 2017/06/30 | 魑魅魍魉      | Amazon<span style=color:#FF1493>**Z**</span>                 |                                                           |                        |
+| 話數    | 播放日期       | 中文標題\[4\] | 英文標題                                                         | 編劇                                                                           | 導演                     |
+| ----- | ---------- | --------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------------------- |
+| S1-1  | 2016/04/01 | 群魔亂舞      | <span style=color:#FF1493>**A**</span>mazonz                 | [Yasuko Kobayashi (小林靖子)](https://zh.wikipedia.org/wiki/cmn:小林靖子 "wikilink") | Hidenori Ishida (石田秀範) |
+| S1-2  | 2016/04/08 | 人面獸心      | <span style=color:#FF1493>**B**</span>east Inside            |                                                                              |                        |
+| S1-3  | 2016/04/15 | 蟻附蜂屯      | <span style=color:#FF1493>**C**</span>olony of ants          | Ryuta Tasaki (田崎竜太)                                                          |                        |
+| S1-4  | 2016/04/22 | 弱肉強食      | <span style=color:#FF1493>**D**</span>ie or kill             |                                                                              |                        |
+| S1-5  | 2016/04/29 | 窺間伺隙      | <span style=color:#FF1493>**E**</span>yes in the dark        | Osamu Kaneda (金田治)                                                           |                        |
+| S1-6  | 2016/05/06 | 為己而戰      | <span style=color:#FF1493>**F**</span>or what I fight        |                                                                              |                        |
+| S1-7  | 2016/05/13 | 屠夫遊戲      | <span style=color:#FF1493>**G**</span>ame of the butchers    | Hidenori Ishida (石田秀範)                                                       |                        |
+| S1-8  | 2016/05/20 | 雄飛雌伏      | <span style=color:#FF1493>**H**</span>ero or not             |                                                                              |                        |
+| S1-9  | 2016/05/27 | 盛宴拜訪      | <span style=color:#FF1493>**I**</span>nto the cannibal's pot | Ryuta Tasaki (田崎竜太)                                                          |                        |
+| S1-10 | 2016/06/03 | 叢林法則      | <span style=color:#FF1493>**J**</span>ungle law              |                                                                              |                        |
+| S1-11 | 2016/06/10 | 殺戮之日      | <span style=color:#FF1493>**K**</span>illing day             |                                                                              |                        |
+| S1-12 | 2016/06/17 | 霧中迷失      | <span style=color:#FF1493>**L**</span>ost in the fog         | Hidenori Ishida (石田秀範)                                                       |                        |
+| S1-13 | 2016/06/24 | M         | <span style=color:#FF1493>**M**</span>                       |                                                                              |                        |
+| S2-1  | 2017/04/07 | 新生之種      | <span style=color:#FF1493>**N**</span>eo                     |                                                                              |                        |
+| S2-2  | 2017/04/14 | 孤雛腐鼠      | <span style=color:#FF1493>**O**</span>rphans                 |                                                                              |                        |
+| S2-3  | 2017/04/21 | 異己分子      | <span style=color:#FF1493>**P**</span>ersona non grata       | Ryuta Tasaki (田崎竜太)                                                          |                        |
+| S2-4  | 2017/04/28 | 君去何方      | <span style=color:#FF1493>**Q**</span>uo vadis?              |                                                                              |                        |
+| S2-5  | 2017/05/05 | 瑰意琦行      | <span style=color:#FF1493>**R**</span>ambling roses          | Hidenori Ishida (石田秀範)                                                       |                        |
+| S2-6  | 2017/05/12 | 今昔往生      | <span style=color:#FF1493>**S**</span>chooldays \[5\]        |                                                                              |                        |
+| S2-7  | 2017/05/19 | 威刑肅物      | <span style=color:#FF1493>**T**</span>he third degree        | Ryuta Tasaki (田崎竜太)                                                          |                        |
+| S2-8  | 2017/05/26 | 隐鳞戢翼      | <span style=color:#FF1493>**U**</span>nder wraps             |                                                                              |                        |
+| S2-9  | 2017/06/02 | 鎩羽凋零      | <span style=color:#FF1493>**V**</span>anishing wings         |                                                                              |                        |
+| S2-10 | 2017/06/09 | 道盡途殫      | <span style=color:#FF1493>**W**</span>ay to nowhere          | Hidenori Ishida (石田秀範)                                                       |                        |
+| S2-11 | 2017/06/16 | 破釜沉舟      | <span style=color:#FF1493>**X**</span>ing the rubicon        |                                                                              |                        |
+| S2-12 | 2017/06/23 | 天命攸歸      | <span style=color:#FF1493>**Y**</span>ellow brick road       | Ryuta Tasaki (田崎竜太)                                                          |                        |
+| S2-13 | 2017/06/30 | 魑魅魍魉      | Amazon<span style=color:#FF1493>**Z**</span>                 |                                                                              |                        |
 
 ## 劇場版
 
   - 《[假面騎士Amazons The Movie
-    最後的審判](../Page/假面騎士Amazons_The_Movie_最後的審判.md "wikilink")》
+    最後的審判](https://zh.wikipedia.org/wiki/假面騎士Amazons_The_Movie_最後的審判 "wikilink")》
 
 日本特攝電影《假面騎士Amazons THE MOVIE最後的審判》。《假面騎士Amazons》終於迎來了完結篇。“ 人類 ”與“ Amazon
 ”，“ 悠 ”與“ 仁 ”之間戰鬥的前方是！？“ 野生 ”與“ 圈養 ”，Amazon的未來又是如何？來親眼印證衝擊的最終戰吧！！
@@ -860,10 +860,11 @@ S2中新增人類受感染後Amazon化的新種Amazon。因感染而成的Amazon
 ## 主題曲
 
   - 「Armour Zone」（S1）
-    作詞 - [マイクスギヤマ](../Page/マイクスギヤマ.md "wikilink") / 作曲
-    - [山田信夫](../Page/山田信夫_\(歌手\).md "wikilink") / 編曲
-    - [高橋哲也](../Page/高橋哲也_\(作曲家\).md "wikilink") / 歌
-    - [小林太郎](../Page/小林太郎.md "wikilink")
+    作詞 - [マイクスギヤマ](https://zh.wikipedia.org/wiki/マイクスギヤマ "wikilink") /
+    作曲
+    - [山田信夫](https://zh.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink") /
+    編曲 - [高橋哲也](https://zh.wikipedia.org/wiki/高橋哲也_\(作曲家\) "wikilink") /
+    歌 - [小林太郎](https://zh.wikipedia.org/wiki/小林太郎 "wikilink")
 
 <!-- end list -->
 

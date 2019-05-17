@@ -1,4 +1,4 @@
-《**B-PROJECT**》（）是由MAGES.負責的虛擬偶像計劃，簡稱為「」\[1\]。總合製作人由[西川貴教擔任](../Page/西川貴教.md "wikilink")，企劃及原作由[志倉千代丸負責](../Page/志倉千代丸.md "wikilink")，而人物設定則是由[雪廣歌子負責](../Page/雪廣歌子.md "wikilink")\[2\]。
+《**B-PROJECT**》（）是由MAGES.負責的虛擬偶像計劃，簡稱為「」\[1\]。總合製作人由[西川貴教擔任](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，企劃及原作由[志倉千代丸負責](../Page/志倉千代丸.md "wikilink")，而人物設定則是由[雪廣歌子負責](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")\[2\]。
 2015年9月，B-PROJECT正式開始\[3\]。電視動畫「B-PROJECT～鼓動＊Ambitious～（B-PROJECT〜鼓動\*アンビシャス〜）」於2016年7月播放。遊戲預定於2016年年底配信，2017年初開放登錄。
 電視動畫第二季「B-PROJECT～絶頂＊エモーション～」於2019年1月11日開始播放。
 
@@ -29,7 +29,7 @@
     從外表上看會誤認為是女性。小時候常被母親作為女裝模特兒。
     喜歡甜食，特別愛吃棒棒糖。擅長做衣服，手工藝。
     家中父親是隱退演員，姊姊是髮型設計師。
-    第五集因為父親的醜聞被記者追問下不慎摔下樓梯造成短暫失憶年齡回到7歲。
+    第一季第五集因為父親的醜聞被記者追問下不慎摔下樓梯造成短暫失憶年齡回到7歲。
 
 ### THRIVE
 
@@ -198,19 +198,19 @@
 ## 電視動畫
 
 以「」為題，於2016年7月預定由[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[ABC](../Page/朝日放送.md "wikilink")、CBC電視台、[群馬電視台](../Page/群馬電視台.md "wikilink")、[栃木電視台及](../Page/栃木電視台.md "wikilink")[BS11等電視台播放](../Page/日本BS放送.md "wikilink")。
+MX](../Page/東京都會電視台.md "wikilink")、[ABC](../Page/朝日放送.md "wikilink")、CBC電視台、[群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink")、[栃木電視台及](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")[BS11等電視台播放](../Page/日本BS放送.md "wikilink")。
 
 第二季以「」為題，於2019年1月預定由[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群馬電視台.md "wikilink")、[栃木電視台](../Page/栃木電視台.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")
+MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink")、[栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")
 及[ABC等電視台放送](../Page/朝日放送.md "wikilink")。
 
 ### 第一季製作人員
 
   - 原作：「B-PROJECT」（MAGES.）
-      - 總合製作人：[西川貴教](../Page/西川貴教.md "wikilink")
+      - 總合製作人：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")
       - 企劃、原作：[志倉千代丸](../Page/志倉千代丸.md "wikilink")
-      - 原作插畫：[雪廣歌子](../Page/雪廣歌子.md "wikilink")
-  - 監督：[菅沼榮治](../Page/菅沼榮治.md "wikilink")
+      - 原作插畫：[雪廣歌子](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")
+  - 監督：[菅沼榮治](https://zh.wikipedia.org/wiki/菅沼榮治 "wikilink")
   - 系列構成：[赤尾凸](../Page/三重野瞳.md "wikilink")、MAGES.
   - 人物設定、總作畫監督：川村敏江
   - 助監督：陽
@@ -227,9 +227,9 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 ### 第二季製作人員
 
   - 原作：「B-PROJECT」（MAGES.）
-      - 總合製作人：[西川貴教](../Page/西川貴教.md "wikilink")
+      - 總合製作人：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")
       - 企劃、原作：[志倉千代丸](../Page/志倉千代丸.md "wikilink")
-      - 原作插畫：[雪廣歌子](../Page/雪廣歌子.md "wikilink")
+      - 原作插畫：[雪廣歌子](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")
   - 監督：森脇真琴
   - 系列構成：大島のぞむ、MAGES.
   - 人物設定：原 由美子
@@ -253,7 +253,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 
   - 第一季
     片頭曲「」
-    作詞：[西川貴教](../Page/西川貴教.md "wikilink")，作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：千原弘嗣，主唱：B-PROJECT（キタコレ、THRIVE、MooNs）
+    作詞：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：千原弘嗣，主唱：B-PROJECT（キタコレ、THRIVE、MooNs）
 
 <!-- end list -->
 
@@ -363,7 +363,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
   -
 
       -
-        作詞：[西川貴教](../Page/西川貴教.md "wikilink")，作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：千原弘嗣，主唱：B-PROJECT
+        作詞：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：千原弘嗣，主唱：B-PROJECT
 
 :;「」（第1話）
 
@@ -454,7 +454,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 <td><p>BOYS MEET GIRL</p></td>
 <td><p>當男孩遇見女孩</p></td>
 <td><p><a href="../Page/三重野瞳.md" title="wikilink">赤尾凸</a></p></td>
-<td><p><a href="../Page/菅沼榮治.md" title="wikilink">菅沼榮治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/菅沼榮治" title="wikilink">菅沼榮治</a></p></td>
 <td><p>淺見松雄</p></td>
 <td><p>平野繪美、仁井學、岡崎洋美<br />
 川村敏江、荒川繪里花</p></td>
@@ -607,7 +607,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 <td><p>森脇真琴</p></td>
 <td><p>宇根信也</p></td>
 <td><p>西尾公伯</p></td>
-<td><p>川島 尚、<a href="../Page/原由美子.md" title="wikilink">原 由美子</a></p></td>
+<td><p>川島 尚、<a href="https://zh.wikipedia.org/wiki/原由美子" title="wikilink">原 由美子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2話</p></td>
@@ -636,7 +636,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 <td><p>吉田香織</p></td>
 <td><p>辻橋綾佳</p></td>
 <td><p>米山浩平、尾崎正幸</p></td>
-<td><p>安田京弘、<a href="../Page/原由美子.md" title="wikilink">原 由美子</a></p></td>
+<td><p>安田京弘、<a href="https://zh.wikipedia.org/wiki/原由美子" title="wikilink">原 由美子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -656,7 +656,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 <td><p>森江美咲</p></td>
 <td><p>宇根信也</p></td>
 <td><p>清水惠蔵、山本径子、安齋佳惠、鈴木伸一、野上慎也、永井泰平、那須野 文、LEE DUK HO、桝井一平</p></td>
-<td><p>安田京弘、<a href="../Page/原由美子.md" title="wikilink">原 由美子</a></p></td>
+<td><p>安田京弘、<a href="https://zh.wikipedia.org/wiki/原由美子" title="wikilink">原 由美子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -667,7 +667,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 <td><p>宮崎なぎさ</p></td>
 <td><p>鳥羽聡</p></td>
 <td><p>江森真理子、高橋敦子、早乙女 啓</p></td>
-<td><p>川島 尚、<a href="../Page/原由美子.md" title="wikilink">原 由美子、安田京弘</a></p></td>
+<td><p>川島 尚、<a href="https://zh.wikipedia.org/wiki/原由美子" title="wikilink">原 由美子、安田京弘</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第8話</p></td>
@@ -677,7 +677,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 <td><p>島崎奈々子</p></td>
 <td><p>板橋真</p></td>
 <td><p>高倉香惠、中本 尚、上野泰寬</p></td>
-<td><p>吉田和香子、<a href="../Page/原由美子.md" title="wikilink">原 由美子</a></p></td>
+<td><p>吉田和香子、<a href="https://zh.wikipedia.org/wiki/原由美子" title="wikilink">原 由美子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第9話</p></td>
@@ -716,7 +716,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 <td><p>大島のそむ</p></td>
 <td><p>森脇真琴</p></td>
 <td><p>森脇真琴、まついひとゆき</p></td>
-<td><p>上野泰寬、尾崎正幸、中本 尚、吉田和香子、高倉香惠、<a href="../Page/原由美子.md" title="wikilink">原 由美子</a></p></td>
+<td><p>上野泰寬、尾崎正幸、中本 尚、吉田和香子、高倉香惠、<a href="https://zh.wikipedia.org/wiki/原由美子" title="wikilink">原 由美子</a></p></td>
 <td><p>安田京弘</p></td>
 </tr>
 </tbody>
@@ -724,15 +724,15 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 
 ### 播放電視台
 
-| 播放地區                                | 播放電視台                                     | 播放日期                   | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 備註 |
-| ----------------------------------- | ----------------------------------------- | ---------------------- | ----------------------------------------------------------------------- | -- |
-| [東京都](../Page/東京都.md "wikilink")    | [TOKYO MX](../Page/東京都會電視台.md "wikilink") | 2016年7月3日－9月25日        | 星期日 0時30分－1時00分（星期六深夜）                                                  |    |
-| [群馬縣](../Page/群馬縣.md "wikilink")    | [群馬電視台](../Page/群馬電視台.md "wikilink")      |                        |                                                                         |    |
-| [栃木縣](../Page/栃木縣.md "wikilink")    | [栃木電視台](../Page/栃木電視台.md "wikilink")      |                        |                                                                         |    |
-| 日本全國                                | [BS11](../Page/日本BS放送.md "wikilink")      | BS播放／「ANIME+」節目        |                                                                         |    |
-| [近畿廣域圈](../Page/近畿地方.md "wikilink") | [ABC電視台](../Page/朝日放送.md "wikilink")      | 星期日 2時15分－2時45分（星期六深夜） |                                                                         |    |
-| 中京廣域圈                               | CBC電視台                                    | 2016年7月7日－9月29日        | 星期四 2時52分－3時22分（星期三深夜）                                                  |    |
-| 日本全國                                | [Animax](../Page/Animax.md "wikilink")    | 2016年8月18日－            | 星期四 10時－10時30分                                                          |    |
+| 播放地區                                | 播放電視台                                                   | 播放日期                   | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 備註 |
+| ----------------------------------- | ------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------- | -- |
+| [東京都](../Page/東京都.md "wikilink")    | [TOKYO MX](../Page/東京都會電視台.md "wikilink")               | 2016年7月3日－9月25日        | 星期日 0時30分－1時00分（星期六深夜）                                                                                        |    |
+| [群馬縣](../Page/群馬縣.md "wikilink")    | [群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink") |                        |                                                                                                               |    |
+| [栃木縣](../Page/栃木縣.md "wikilink")    | [栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink") |                        |                                                                                                               |    |
+| 日本全國                                | [BS11](../Page/日本BS放送.md "wikilink")                    | BS播放／「ANIME+」節目        |                                                                                                               |    |
+| [近畿廣域圈](../Page/近畿地方.md "wikilink") | [ABC電視台](../Page/朝日放送.md "wikilink")                    | 星期日 2時15分－2時45分（星期六深夜） |                                                                                                               |    |
+| 中京廣域圈                               | CBC電視台                                                  | 2016年7月7日－9月29日        | 星期四 2時52分－3時22分（星期三深夜）                                                                                        |    |
+| 日本全國                                | [Animax](../Page/Animax.md "wikilink")                  | 2016年8月18日－            | 星期四 10時－10時30分                                                                                                |    |
 
 ### BD / DVD
 
@@ -748,8 +748,8 @@ MX](../Page/東京都會電視台.md "wikilink")、[群馬電視台](../Page/群
 | 6     | 2017年1月25日   | 第11話－第12話 | ANZX-12412/3  |
 | 第2季   |              |           |               |
 | 1     | 2019年3月27日   | 第1話－第2話   | ANZX-14281/2  |
-| 2     | 預定2019年4月24日 | 第3話－第4話   | ANZX-14283/4  |
-| 4     | 預定2019年6月26日 | 第7話－第8話   | ANZX-14287/8  |
+| 2     | 2019年4月24日   | 第3話－第4話   | ANZX-14283/4  |
+| 3     | 預定2019年5月29日 | 第5話－第6話   | ANZX-14285/6  |
 | 5     | 預定2019年7月24日 | 第9話－第10話  | ANZX-14289/90 |
 | 6     | 預定2019年8月28日 | 第11話－第12話 | ANZX-14291/2  |
 

@@ -1,4 +1,4 @@
-**Unity**是2010年4月建设完成的[日本与](../Page/日本.md "wikilink")[美国之间的跨](../Page/美国.md "wikilink")[太平洋](../Page/太平洋.md "wikilink")[海底電纜系统](../Page/海底電纜.md "wikilink")。\[1\]\[2\]\[3\]
+**Unity**是2010年4月建设完成的[日本与](../Page/日本.md "wikilink")[美国之间的跨](../Page/美国.md "wikilink")[太平洋](https://zh.wikipedia.org/wiki/太平洋 "wikilink")[海底電纜系统](../Page/海底電纜.md "wikilink")。\[1\]\[2\]\[3\]
 
 Unity电缆系统由多条“太比特”电缆线路组成，总长度10,000公里\[4\]，容量高达7.68 /s。\[5\]线缆施工由、Global
 Transit、[Google](../Page/Google.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、和[新加坡电信在](../Page/新加坡电信.md "wikilink")2008年2月组成的联合体出资。\[6\]Unity的安装费用约为3亿美元，在完成后将增加约20%跨太平洋电缆容量。\[7\]
@@ -13,7 +13,7 @@ Transit、Google、KDDI公司、Pacnet和新加坡电信组成的联合体宣布
 
 ## 规格
 
-Unity是一条总长度约10,000公里的跨太平洋电缆，坐落在[东京附近海岸的](../Page/东京.md "wikilink")和[美国西海岸的](../Page/美国西海岸.md "wikilink")[洛杉矶及其他网络接入点之间](../Page/洛杉矶.md "wikilink")。Unity在千仓也连通其他电缆系统。
+Unity是一条总长度约10,000公里的跨太平洋电缆，坐落在[东京附近海岸的](../Page/东京.md "wikilink")和[美国西海岸的](https://zh.wikipedia.org/wiki/美国西海岸 "wikilink")[洛杉矶及其他网络接入点之间](../Page/洛杉矶.md "wikilink")。Unity在千仓也连通其他电缆系统。
 
 新的五光纤对电缆系统具有五对光纤，每个光纤对能提供高达每秒960吉比特（Gbit/s）的容量。凭借高光纤对数，Unity可以以较低单元成本提供更高容量。\[14\]
 

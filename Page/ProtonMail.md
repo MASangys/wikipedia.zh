@@ -1,4 +1,4 @@
-[Protonmail_decentralized_hosting.png](https://zh.wikipedia.org/wiki/File:Protonmail_decentralized_hosting.png "fig:Protonmail_decentralized_hosting.png")（左）[和阿廷豪森](../Page/Attinghausen.md "wikilink")
+[Protonmail_decentralized_hosting.png](https://zh.wikipedia.org/wiki/File:Protonmail_decentralized_hosting.png "fig:Protonmail_decentralized_hosting.png")（左）[和阿廷豪森](https://zh.wikipedia.org/wiki/Attinghausen "wikilink")
 \[Attinghausen\]（右）.\]\]
 
 **ProtonMail**（在中国被非正式地称为“**质子邮箱**”）是一個加密的 Webmail
@@ -20,7 +20,7 @@ ProtonMail采用了公钥加密和对称加密协议的组合，以提供终端�
 
 从一个ProtonMail帐户发送到另一个电子邮件被自动加密与接受者的公钥。一旦加密，收件人只有私钥才能解密电子邮件。当收件人登录时，他们的邮箱密码，解密他们的私钥和解锁他们的收件箱。从ProtonMail发送到非ProtonMail的电子邮件地址的电子邮件可以自行選擇加密或不加密发送。电子邮件进行AES加密，只能用一个单独的密码进行解密。该密码必须由发送者设置，并给予通过其他通道殘給接收者。收件人只接收後链接到ProtonMail网站上，他们可以输入密码，阅读解密邮件。
 
-在2015年9月，ProtonMail添加原生支持他们的Web界面和移动应用的[良好隐私密码](../Page/良好隐私密码法.md "wikilink")（PGP）。这允许用户将其ProtonMail
+在2015年9月，ProtonMail添加原生支持他们的Web界面和移动应用的[良好隐私密码](https://zh.wikipedia.org/wiki/良好隐私密码法 "wikilink")（PGP）。这允许用户将其ProtonMail
 PGP编码公共密钥导出到他人ProtonMail以外，使他们能够使用该密钥对加密电子邮件。ProtonMail团队计划支持PGP加密从ProtonMail向外部用户。
 
 ### 服务器架构

@@ -1,10 +1,10 @@
-**HERE**是一款由[諾基亞爲](../Page/诺基亚.md "wikilink")[Android](../Page/Android.md "wikilink")、[iOS和](../Page/iOS.md "wikilink")[Windows
+**HERE**是一款由[諾基亞爲](../Page/诺基亚.md "wikilink")[Android](../Page/Android.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
 Phone平臺開發的地圖移動應用程式](../Page/Windows_Phone.md "wikilink")。 在發佈Windows
 Phone版幾年后， 該應用2014年年底和2015年年初在[Google
-Play和](../Page/Google_Play.md "wikilink")[iOS商店發售](../Page/iOS.md "wikilink")。 地圖每月更新兩至三次。\[1\]
+Play和](../Page/Google_Play.md "wikilink")[iOS商店發售](https://zh.wikipedia.org/wiki/iOS "wikilink")。 地圖每月更新兩至三次。\[1\]
 
 HERE在Google
-Play商店2014年12月10日發佈，在[iOS商店](../Page/iOS.md "wikilink")2015年3月15日發佈，在2016年6月30日停止了对一切Windows
+Play商店2014年12月10日發佈，在[iOS商店](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年3月15日發佈，在2016年6月30日停止了对一切Windows
 10设备的支持。
 
 ## 特點
@@ -21,7 +21,7 @@ HERE還包含了一系列的室內場所地圖，所如商場，機場等公共�
 ### 街景
 
 [HERE_Maps_coverage.png](https://zh.wikipedia.org/wiki/File:HERE_Maps_coverage.png "fig:HERE_Maps_coverage.png")
-街道級視圖包含[美國](../Page/美國.md "wikilink")，[法國](../Page/法國.md "wikilink")，[西班牙](../Page/西班牙.md "wikilink")，[英國](../Page/英國.md "wikilink")，[芬蘭和](../Page/芬蘭.md "wikilink")[阿聯酋等國家](../Page/阿聯酋.md "wikilink")。
+街道級視圖包含[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")，[西班牙](../Page/西班牙.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，[芬蘭和](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[阿聯酋等國家](https://zh.wikipedia.org/wiki/阿聯酋 "wikilink")。
 \[4\]
 
 | 國家或地區 | 洲   | 同期新增 | 注意事項                                                                                                                                                |

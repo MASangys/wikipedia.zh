@@ -2,10 +2,12 @@
 
 ## 物種
 
-  - [伊薩俳粉蝶](../Page/伊薩俳粉蝶.md "wikilink") *Pierphulia isabela*
-  - [霓紗俳粉蝶](../Page/霓紗俳粉蝶.md "wikilink") *Pierphulia nysias* = 尼斯拉俳粉蝶
-    *Piercolias nysiella*
-  - [羅希俳粉蝶](../Page/羅希俳粉蝶.md "wikilink") *Pierphulia rosea*
+  - [伊薩俳粉蝶](https://zh.wikipedia.org/wiki/伊薩俳粉蝶 "wikilink") *Pierphulia
+    isabela*
+  - [霓紗俳粉蝶](https://zh.wikipedia.org/wiki/霓紗俳粉蝶 "wikilink") *Pierphulia
+    nysias* = 尼斯拉俳粉蝶 *Piercolias nysiella*
+  - [羅希俳粉蝶](https://zh.wikipedia.org/wiki/羅希俳粉蝶 "wikilink") *Pierphulia
+    rosea*
 
 ## 參考文獻
 

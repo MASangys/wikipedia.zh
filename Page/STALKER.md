@@ -1,9 +1,9 @@
-《**STALKER**》是[韓國的男子組合](../Page/韓國.md "wikilink")[U-KISS第十一張韓語迷你專輯](../Page/U-KISS.md "wikilink")，於2016年6月7日發行，主打歌曲為《Stalker》\[1\]。
+《**STALKER**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS第十一張韓語迷你專輯](../Page/U-KISS.md "wikilink")，於2016年6月7日發行，主打歌曲為《Stalker》\[1\]。
 
 ## 背景
 
 2016年5月初，U-KISS隊長秀鉉曾在[Twitter表示將會在](../Page/Twitter.md "wikilink")6月回歸歌壇\[2\]；到5月24日[NH
-Media在U](../Page/NH_Media.md "wikilink")-KISS官方Facebook宣佈新專輯《STALKER》將於6月7日發行，同時公開行程表\[3\]。
+Media在U](https://zh.wikipedia.org/wiki/NH_Media "wikilink")-KISS官方Facebook宣佈新專輯《STALKER》將於6月7日發行，同時公開行程表\[3\]。
 
 5月31日，主打曲預告於官方Youtube頻道發放\[4\]；曲目名單則在6月2日公布\[5\]；6月7日隨專輯音源公開完整音樂錄影帶\[6\]。
 
@@ -89,8 +89,8 @@ Media在U](../Page/NH_Media.md "wikilink")-KISS官方Facebook宣佈新專輯《S
 <td><p>韓國</p></td>
 <td><p>2016年6月7日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="../Page/NH_Media.md" title="wikilink">NH Media</a><br />
-<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NH_Media" title="wikilink">NH Media</a><br />
+<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 </tbody>
 </table>

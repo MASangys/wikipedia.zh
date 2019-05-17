@@ -1,6 +1,6 @@
 《**Press
-It**》是[韓國男子組合](../Page/韓國.md "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[李泰民首張韓語正規專輯](../Page/李泰民.md "wikilink")\[1\]，在2016年2月23日由[SM娛樂製作](../Page/SM娛樂.md "wikilink")、[KT
-Music發行](../Page/KT_Music.md "wikilink")，先行曲為《Drip
+It**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[李泰民首張韓語正規專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2016年2月23日由[SM娛樂製作](../Page/SM娛樂.md "wikilink")、[KT
+Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")，先行曲為《Drip
 Drop》\[2\]；而主打曲目為《Press Your Number》。
 
 ## 曲目
@@ -23,7 +23,7 @@ Drop》\[2\]；而主打曲目為《Press Your Number》。
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年2月21日－2月27日</p></td>
 <td><p>#15</p></td>
@@ -76,12 +76,12 @@ Drop》\[2\]；而主打曲目為《Press Your Number》。
 
 ### 其他歌曲成績
 
-| 歌曲        | 榜單                                       | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
-| --------- | ---------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
-| Drip Drop | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年2月21日－2月27日 | \#44 | \[5\] |
-| Soldier   | \#59                                     |                                                 |                  |      |       |
-| 已經        | \#82                                     |                                                 |                  |      |       |
-| Guess Who | \#94                                     |                                                 |                  |      |       |
+| 歌曲        | 榜單                                                          | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
+| --------- | ----------------------------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
+| Drip Drop | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年2月21日－2月27日 | \#44 | \[5\] |
+| Soldier   | \#59                                                        |                                                 |                  |      |       |
+| 已經        | \#82                                                        |                                                 |                  |      |       |
+| Guess Who | \#94                                                        |                                                 |                  |      |       |
 
 ### 音樂節目榜單排名
 
@@ -131,7 +131,7 @@ Drop》\[2\]；而主打曲目為《Press Your Number》。
 <td><p>2016年2月23日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a><br />
-<a href="../Page/KT_Music.md" title="wikilink">KT Music</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/KT_Music" title="wikilink">KT Music</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>

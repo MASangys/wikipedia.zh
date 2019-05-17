@@ -1,12 +1,12 @@
 [Cpg_islands.svg](https://zh.wikipedia.org/wiki/File:Cpg_islands.svg "fig:Cpg_islands.svg")
-**CpG位点**（，或称为**CG位点**）是指DNA的某个区域，其上的[碱基序列以](../Page/碱基对.md "wikilink")[胞嘧啶接着](../Page/胞嘧啶.md "wikilink")[鸟嘌呤出现](../Page/鸟嘌呤.md "wikilink")。“CpG”是“—C—磷酸—G—”的缩写
-，指[磷酸二酯键连接了胞嘧啶和鸟嘌呤](../Page/磷酸二酯键.md "wikilink")，其中C位于5'端而G位于3'端。
+**CpG位点**（，或称为**CG位点**）是指DNA的某个区域，其上的[碱基序列以](../Page/碱基对.md "wikilink")[胞嘧啶接着](../Page/胞嘧啶.md "wikilink")[鸟嘌呤出现](https://zh.wikipedia.org/wiki/鸟嘌呤 "wikilink")。“CpG”是“—C—磷酸—G—”的缩写
+，指[磷酸二酯键连接了胞嘧啶和鸟嘌呤](https://zh.wikipedia.org/wiki/磷酸二酯键 "wikilink")，其中C位于5'端而G位于3'端。
 
-在CpG位点中的胞嘧啶可以被[甲基化为](../Page/DNA甲基化.md "wikilink")[5-甲基胞嘧啶](../Page/5-甲基胞嘧啶.md "wikilink")。在[哺乳动物中](../Page/哺乳动物.md "wikilink")，基因内CpG位点的甲基化会改变此基因的表达，对这一表达调控的研究是[表观遗传学的重要组成部分](../Page/表观遗传学.md "wikilink")。涉及添加甲基基团的[酶称为](../Page/酶.md "wikilink")。
+在CpG位点中的胞嘧啶可以被[甲基化为](../Page/DNA甲基化.md "wikilink")[5-甲基胞嘧啶](../Page/5-甲基胞嘧啶.md "wikilink")。在[哺乳动物中](../Page/哺乳动物.md "wikilink")，基因内CpG位点的甲基化会改变此基因的表达，对这一表达调控的研究是[表观遗传学的重要组成部分](https://zh.wikipedia.org/wiki/表观遗传学 "wikilink")。涉及添加甲基基团的[酶称为](../Page/酶.md "wikilink")。
 
 在哺乳动物中，70%到80%的CpG位点的[胞嘧啶是甲基化的](../Page/胞嘧啶.md "wikilink")。\[1\]
 
-未甲基化的CpG位点可以被免疫系统的[浆细胞样树突状细胞](../Page/浆细胞样树突状细胞.md "wikilink")、[单核细胞](../Page/单核细胞.md "wikilink")、[NK细胞和](../Page/NK细胞.md "wikilink")[B细胞上的](../Page/B细胞.md "wikilink")[TLR9](../Page/TLR9.md "wikilink")（Toll样受体9）识别\[2\]，来检测体内的微生物感染。
+未甲基化的CpG位点可以被免疫系统的[浆细胞样树突状细胞](../Page/浆细胞样树突状细胞.md "wikilink")、[单核细胞](https://zh.wikipedia.org/wiki/单核细胞 "wikilink")、[NK细胞和](https://zh.wikipedia.org/wiki/NK细胞 "wikilink")[B细胞上的](../Page/B细胞.md "wikilink")[TLR9](../Page/TLR9.md "wikilink")（Toll样受体9）识别\[2\]，来检测体内的微生物感染。
 [CpG_vs_C-G_bp.svg](https://zh.wikipedia.org/wiki/File:CpG_vs_C-G_bp.svg "fig:CpG_vs_C-G_bp.svg")
 
 ## 在脊椎动物基因组中的出现频率
@@ -14,7 +14,7 @@
 [Cytosine_becomes_thymine.png](https://zh.wikipedia.org/wiki/File:Cytosine_becomes_thymine.png "fig:Cytosine_becomes_thymine.png")
 一个被发现已久的现象：相对于正常的随机概率期望，CpG位点在脊椎动物基因组中出现的概率非常低。以人类基因组为例（GC含量约为42%），CpG位点的出现概率应为0.21\*0.21
 = 4.41%；而人类基因组中CpG的实际含量约为1% -- 这尚未达到随机概率的四分之一。根据E
-Scarano等的论文\[3\]，这一现象发生的原因是脊椎动物基因组中CpG的胞嘧啶被甲基化为[5-甲基胞嘧啶后再发生](../Page/5-甲基胞嘧啶.md "wikilink")[脫氨作用变成](../Page/脫氨作用.md "wikilink")[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")，从而形成了从C到T的突变，致使CpG位点的出现概率降低。这种现象被称为（CG
+Scarano等的论文\[3\]，这一现象发生的原因是脊椎动物基因组中CpG的胞嘧啶被甲基化为[5-甲基胞嘧啶后再发生](../Page/5-甲基胞嘧啶.md "wikilink")[脫氨作用变成](https://zh.wikipedia.org/wiki/脫氨作用 "wikilink")[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")，从而形成了从C到T的突变，致使CpG位点的出现概率降低。这种现象被称为（CG
 suppression）。
 
 ## CpG岛
@@ -34,18 +34,18 @@ CpG岛以至少达到60%的理论CpG位点含量（可达到4-6%）为特征，�
 island shores）而非CpG岛内部\[11\]。
 [Cpg_island_evolution.svg](https://zh.wikipedia.org/wiki/File:Cpg_island_evolution.svg "fig:Cpg_island_evolution.svg")
 
-在脊椎动物中，CpG岛往往位于基因转录起始位点附近，尤其是[持家基因](../Page/管家基因.md "wikilink")。CpG位点有被甲基化的倾向，借助这种甲基化可以分辨新合成的DNA链和母链，这在DNA序列复制后的最终校对环节起重要作用。甲基化的胞嘧啶容易脱氨转变成胸腺嘧啶，导致T/G错误配对。（TDG）是人类用于修复TG错配的酶。但由于CpG位点的稀少性，TDG在理论上没有足够高的效率来消除这些快速发生的突变。通常认为CpG岛存在的原因是因受如下选择压力导致的：需要相对更高的CpG含量、更低的甲基化水平或是调控基因需要。最近也有研究称大多数的CpG岛是由非选择压力形成的\[12\]。
+在脊椎动物中，CpG岛往往位于基因转录起始位点附近，尤其是[持家基因](https://zh.wikipedia.org/wiki/管家基因 "wikilink")。CpG位点有被甲基化的倾向，借助这种甲基化可以分辨新合成的DNA链和母链，这在DNA序列复制后的最终校对环节起重要作用。甲基化的胞嘧啶容易脱氨转变成胸腺嘧啶，导致T/G错误配对。（TDG）是人类用于修复TG错配的酶。但由于CpG位点的稀少性，TDG在理论上没有足够高的效率来消除这些快速发生的突变。通常认为CpG岛存在的原因是因受如下选择压力导致的：需要相对更高的CpG含量、更低的甲基化水平或是调控基因需要。最近也有研究称大多数的CpG岛是由非选择压力形成的\[12\]。
 
 ## 甲基化、基因沉默、癌症与老化
 
-对位于[基因启动子内部CpG位点的甲基化可能导致该基因](../Page/啟動子.md "wikilink")，这种现象在部分人类肿瘤中表现为[抑癌基因的沉默](../Page/肿瘤抑制基因.md "wikilink")。与之对应的，CpG位点的去甲基化则和某些肿瘤的[原癌基因过表达相关](../Page/原癌基因.md "wikilink")\[13\]。
+对位于[基因启动子内部CpG位点的甲基化可能导致该基因](../Page/啟動子.md "wikilink")，这种现象在部分人类肿瘤中表现为[抑癌基因的沉默](../Page/肿瘤抑制基因.md "wikilink")。与之对应的，CpG位点的去甲基化则和某些肿瘤的[原癌基因过表达相关](https://zh.wikipedia.org/wiki/原癌基因 "wikilink")\[13\]。
 
 基于衰老和上万个CpG位点的甲基化重要联系，学者已能根据DNA的甲基化情况对人类和黑猩猩的细胞组织寿命进行精确的预测\[14\]。
 
 ## 参见
 
   - [TLR9](../Page/TLR9.md "wikilink")，一种用于探测未甲基化CpG序列的受体
-  - [生物钟](../Page/生物钟.md "wikilink")
+  - [生物钟](https://zh.wikipedia.org/wiki/生物钟 "wikilink")
 
 ## 参考文献
 

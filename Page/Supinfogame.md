@@ -18,14 +18,14 @@ SNJV 赞助，并且以 ESF 和 ERDF成员的身份受欧盟资助。
 
 成立以来, Supinfogame 在业界的帮助下建立了教育体系. 在法国及海外, 游戏公司 (开发者及发行商) 均相信
 SUPINFOGAME的教育品质，并因此提供法国及世界范围的实习和职场机会
-([Ubisoft](../Page/育碧软件.md "wikilink"), [2K
+([Ubisoft](https://zh.wikipedia.org/wiki/育碧软件 "wikilink"), [2K
 Czech](../Page/2K_Czech.md "wikilink"), [Arkane
 Studios](../Page/Arkane_Studios.md "wikilink"), [Electronic
 Arts](../Page/艺电.md "wikilink"),
 [Gameloft](../Page/Gameloft.md "wikilink"), Eden Games, Ankama)。
 
 因此,
-许多学生及毕业生出现在了很多著名游戏的开发团队里，諸如《[冤罪殺機](../Page/冤罪殺機.md "wikilink")》、《[刺客信条](../Page/刺客信条.md "wikilink")》、《[孤岛危机2](../Page/孤岛危机2.md "wikilink")》、《[火線獵殺：未來戰士](../Page/火線獵殺：未來戰士.md "wikilink")》、《[孤岛惊魂3](../Page/孤岛惊魂3.md "wikilink")》、《[细胞分裂：双重间谍](../Page/细胞分裂：双重间谍.md "wikilink")》、《》、《》等等。
+许多学生及毕业生出现在了很多著名游戏的开发团队里，諸如《[冤罪殺機](../Page/冤罪殺機.md "wikilink")》、《[刺客信条](https://zh.wikipedia.org/wiki/刺客信条 "wikilink")》、《[孤岛危机2](https://zh.wikipedia.org/wiki/孤岛危机2 "wikilink")》、《[火線獵殺：未來戰士](../Page/火線獵殺：未來戰士.md "wikilink")》、《[孤岛惊魂3](../Page/孤岛惊魂3.md "wikilink")》、《[细胞分裂：双重间谍](../Page/细胞分裂：双重间谍.md "wikilink")》、《》、《》等等。
 
 ## 获奖情况
 

@@ -1,12 +1,12 @@
-**黃恩妃**\[1\]（，，），藝名**SinB**（），[韓國女](../Page/大韓民國.md "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主領舞、副唱、形象、ACE擔當。曾與隊友[Eunha於](../Page/Eunha.md "wikilink")[Big
+**黃恩妃**\[1\]（，，），藝名**SinB**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
+Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主領舞、副唱、形象、ACE擔當。曾與隊友[Eunha於](../Page/Eunha.md "wikilink")[Big
 Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
 
 ## 经历
 
 2016年7月24日，SinB在lnkigayo舞台上表演NAVILLERA時，因為用力過猛造成左肩慣性脫臼復發，之後以單手完成舞蹈，事後去醫院檢查。
 
-2016年11月3日，SinB與團員在全州全北大學演出期間，突感身體不適及暈眩，演出不久，便開始出現異樣，摸著頭後顯得軟弱無力，最後更垂頭暈倒台上之後，她去了醫院接受檢查，可正常參與活動。<sup>[\[15](../Page/GFRIEND#cite_note-15.md "wikilink")\]</sup>11月5日，Source
+2016年11月3日，SinB與團員在全州全北大學演出期間，突感身體不適及暈眩，演出不久，便開始出現異樣，摸著頭後顯得軟弱無力，最後更垂頭暈倒台上之後，她去了醫院接受檢查，可正常參與活動。<sup>[\[15](https://zh.wikipedia.org/wiki/GFRIEND#cite_note-15 "wikilink")\]</sup>11月5日，Source
 Music
 發表聲明，會停止所有演藝活動，以便讓她們休養身體。11月17日跟受傷的[Umji如常應付韓國高考](../Page/Umji.md "wikilink")。
 
@@ -22,10 +22,10 @@ Music
 
 ### 合作歌曲
 
-|            |             |                                                   |                                                                                                                                                                                                  |
-| ---------- | ----------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 日期         | 歌曲名稱        | 專輯名稱                                              | 合作藝人                                                                                                                                                                                             |
-| 2018年9月28日 | 《Wow Thing》 | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》 | [田小娟](../Page/田小娟.md "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）、[康瑟琪](../Page/康瑟琪.md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）、[金請夏](../Page/金請夏.md "wikilink") |
+|            |             |                                                   |                                                                                                                                                                                                                                                                                                 |
+| ---------- | ----------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 日期         | 歌曲名稱        | 專輯名稱                                              | 合作藝人                                                                                                                                                                                                                                                                                            |
+| 2018年9月28日 | 《Wow Thing》 | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》 | [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")（[(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")）、[康瑟琪](https://zh.wikipedia.org/wiki/康瑟琪 "wikilink")（[Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")）、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink") |
 
 ## 影視作品
 
@@ -78,10 +78,10 @@ Music
 
 ## 音樂現場
 
-| 2016年                                       |
-| ------------------------------------------- |
-| 節目名稱                                        |
-| [Music Bank](../Page/KBS音樂銀行.md "wikilink") |
+| 2016年                                                          |
+| -------------------------------------------------------------- |
+| 節目名稱                                                           |
+| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink") |
 
 ## 参考资料
 

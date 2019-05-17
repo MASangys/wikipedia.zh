@@ -1,5 +1,5 @@
 **Oh\!K TV
-Asia**是[特纳广播公司的一個](../Page/特纳广播公司.md "wikilink")[電視頻道](../Page/電視頻道.md "wikilink")，主要在[東南亞播出](../Page/東南亞.md "wikilink")。該台播出的大多数節目主要來自韓國[MBC電視台](../Page/文化广播_\(韩国\).md "wikilink")（除了[tvN的](../Page/tvN.md "wikilink")《[孤单又灿烂的神－鬼怪](../Page/孤单又灿烂的神－鬼怪.md "wikilink")》[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[师任堂，光的日记](../Page/师任堂，光的日记.md "wikilink")》），並以韓語、華語及馬來語（語言和字幕）24小時滾動播出MBC的戲劇和綜藝節目。\[1\]\[2\]
+Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广播公司 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，主要在[東南亞播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。該台播出的大多数節目主要來自韓國[MBC電視台](https://zh.wikipedia.org/wiki/文化广播_\(韩国\) "wikilink")（除了[tvN的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤单又灿烂的神－鬼怪](https://zh.wikipedia.org/wiki/孤单又灿烂的神－鬼怪 "wikilink")》[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[师任堂，光的日记](https://zh.wikipedia.org/wiki/师任堂，光的日记 "wikilink")》），並以韓語、華語及馬來語（語言和字幕）24小時滾動播出MBC的戲劇和綜藝節目。\[1\]\[2\]
 
 ## 现时节目
 
@@ -18,7 +18,7 @@ Asia**是[特纳广播公司的一個](../Page/特纳广播公司.md "wikilink")
 <td><p>星期一</p></td>
 <td><p>18:55 - 21:25（印尼）<br />
 19:55 - 22:25（新加坡 马来西亚 文莱）</p></td>
-<td><p><a href="../Page/捉迷藏_(韩国电视剧).md" title="wikilink">捉迷藏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/捉迷藏_(韩国电视剧)" title="wikilink">捉迷藏</a></p></td>
 <td><p>4月1日起，四集连播</p></td>
 <td><p><br />
 <br />
@@ -37,7 +37,7 @@ Asia**是[特纳广播公司的一個](../Page/特纳广播公司.md "wikilink")
 <td><p>星期四至五</p></td>
 <td><p>18:55 - 20:05（印尼）<br />
 19:55 - 21:05（新加坡 马来西亚 文莱）</p></td>
-<td><p><a href="../Page/The_Banker_(电视剧).md" title="wikilink">银行家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Banker_(电视剧)" title="wikilink">银行家</a></p></td>
 <td><p>3月28日起，与韩国24小时内播出</p></td>
 <td></td>
 </tr>
@@ -45,7 +45,7 @@ Asia**是[特纳广播公司的一個](../Page/特纳广播公司.md "wikilink")
 <td><p>星期二至五</p></td>
 <td><p>20:05 - 22:05（印尼）<br />
 21:05 - 23:05（新加坡 马来西亚 文莱）</p></td>
-<td><p><a href="../Page/好人_(电视剧).md" title="wikilink">好人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/好人_(电视剧)" title="wikilink">好人</a></p></td>
 <td><p>1月2日起，三集连播<br />
 雙語廣播(印尼除外)：<br />
 國/韓(新加坡)<br />
@@ -56,7 +56,7 @@ Asia**是[特纳广播公司的一個](../Page/特纳广播公司.md "wikilink")
 <td><p>星期一至五</p></td>
 <td><p>22:05 - 23:20（印尼）<br />
 23:05 - 00:20（新加坡 马来西亚 文莱）</p></td>
-<td><p><a href="../Page/我係張寶利.md" title="wikilink">張寶利來了</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我係張寶利" title="wikilink">張寶利來了</a></p></td>
 <td><p>12月13日起<br />
 雙語廣播(印尼除外)：<br />
 國/馬/韓(新加坡)<br />
@@ -75,7 +75,7 @@ Asia**是[特纳广播公司的一個](../Page/特纳广播公司.md "wikilink")
 <td><p>星期日</p></td>
 <td><p>21:55 - 23:35（印尼）<br />
 22:55 - 00:35（新加坡 马来西亚文莱）</p></td>
-<td><p><a href="../Page/我獨自生活.md" title="wikilink">我獨自生活</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我獨自生活" title="wikilink">我獨自生活</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -93,8 +93,8 @@ Asia**是[特纳广播公司的一個](../Page/特纳广播公司.md "wikilink")
 
   - [無限挑戰](../Page/無限挑戰.md "wikilink")
   - [真正的男人](../Page/真正的男人.md "wikilink")
-  - [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")
-  - [黃金漁場](../Page/黃金漁場.md "wikilink")
+  - [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")
+  - [黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")
 
 ## 参考文献
 

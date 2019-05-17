@@ -1,8 +1,8 @@
 《**C.O.S.M.O.S.
-～秋櫻～**》（）是[日本](../Page/日本.md "wikilink")[音樂團體](../Page/音樂團體.md "wikilink")[第三代J
+～秋櫻～**》（）是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[第三代J
 Soul
-Brothers的第](../Page/J_Soul_Brothers.md "wikilink")14張[單曲](../Page/單曲.md "wikilink")。於2014年10月15日由[rhythm
-zone發售](../Page/rhythm_zone.md "wikilink")。
+Brothers的第](../Page/J_Soul_Brothers.md "wikilink")14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2014年10月15日由[rhythm
+zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@ zone發售](../Page/rhythm_zone.md "wikilink")。
   - B面曲《Glory》是Acecook「スーパーカップ」的電視廣告歌曲。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《C.O.S.M.O.S. ～秋櫻～》的Music
     Video。
-  - 在10月27日於[公信榜单曲週排行榜取得第](../Page/公信榜.md "wikilink")3位。
+  - 在10月27日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")3位。
 
 ## 收錄曲目
 

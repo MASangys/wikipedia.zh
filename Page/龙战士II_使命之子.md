@@ -1,4 +1,4 @@
-是一款由[卡普空公司制作的](../Page/卡普空.md "wikilink")[角色扮演类游戏](../Page/电子角色扮演游戏.md "wikilink")。本游戏最初于1994年12月2日在日本地区[超级任天堂发行](../Page/超级任天堂.md "wikilink")。\[1\]游戏后移植至[Game
+是一款由[卡普空公司制作的](../Page/卡普空.md "wikilink")[角色扮演类游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。本游戏最初于1994年12月2日在日本地区[超级任天堂发行](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。\[1\]游戏后移植至[Game
 Boy Advance](../Page/Game_Boy_Advance.md "wikilink")。本游戏是龙战士系列第二作。
 
 《龙战士II 使命之子》是一款传统的角色扮演类游戏。本作的特征是进行了重制。

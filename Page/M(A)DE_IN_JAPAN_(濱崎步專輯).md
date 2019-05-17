@@ -5,7 +5,7 @@ JAPAN**》是日本歌手[濱崎步的第](../Page/濱崎步.md "wikilink")17張
 
 本作是繼前作《sixxxxxx》時隔近11個月，濱崎步宣佈將于6月29日發行2016年的專輯《M(A)DE IN
 JAPAN》，也是繼2015年4月發行的《[A
-ONE](../Page/A_ONE_\(濱崎步專輯\).md "wikilink")》之後的個人第17張[原創專輯](../Page/原創專輯.md "wikilink")。
+ONE](../Page/A_ONE_\(濱崎步專輯\).md "wikilink")》之後的個人第17張[原創專輯](https://zh.wikipedia.org/wiki/原創專輯 "wikilink")。
 
 「CD+DVD」「CD+Blu-ray」「CD」3形式發售，「TeamAyu」粉絲俱樂部限定盤以「CD+2DVD」「CD+Blu-ray」2形式發售，2015年為粉絲俱樂部會員限定的場次「ayumi
 hamasaki TA LIMITED LIVE TOUR」的東京公演影像追加收錄。。

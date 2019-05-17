@@ -5,7 +5,7 @@
   - 最早是從コスモスコンピューター公司的成人遊戲品牌RISE退出，並在1999年11月11日由tororo成立CIRCUS。
   - 2001年12月的[Comic Market](../Page/Comic_Market.md "wikilink")
     64，和[Witch](../Page/Witch.md "wikilink")、[NEKO NEKO
-    Software](../Page/NEKO_NEKO_Software.md "wikilink")（ねこねこソフト）共同成立[埼玉連合](../Page/埼玉連合.md "wikilink")，並且在會場發售3家共同製作的遊戲《クイズ埼玉連合の野望》。\[3\]\[4\]
+    Software](../Page/NEKO_NEKO_Software.md "wikilink")（ねこねこソフト）共同成立[埼玉連合](https://zh.wikipedia.org/wiki/埼玉連合 "wikilink")，並且在會場發售3家共同製作的遊戲《クイズ埼玉連合の野望》。\[3\]\[4\]
   - 2002年5月5日和[千代連](../Page/千代連.md "wikilink")（ちよれん）共同舉行「ちよれん大サーカス」。\[5\]
   - 2003年、呉等工作人員退出CIRCUS，並成立新公司[MOONSTONE](../Page/MOONSTONE.md "wikilink")（ムーンストーン）。
   - 2015年3月CIRCUS從S.O.F.T公司（エス・オー・エフ・ティー）變更成moby-dick公司的品牌。
@@ -76,7 +76,8 @@
   - 2017年4月28日 [D.S. i.F. -Dal Segno- in
     Future](../Page/D.S._-Dal_Segno-.md "wikilink")
   - 2017年9月29日 D.C.III DreamDays～ダ・カーポIII～ドリームデイズ
-  - 2018年4月27日 [てんぷれっ\!\!](../Page/Tenpure!!.md "wikilink")
+  - 2018年4月27日
+    [てんぷれっ\!\!](https://zh.wikipedia.org/wiki/Tenpure!! "wikilink")
   - 2018年11月30日 スペースライブ
   - 2019年5月31日 D.C.4 ～ダ・カーポ4～
 
@@ -115,7 +116,7 @@
 主要製作女性向遊戲，2011年1月成為LANTERN ROOMS公司的品牌。
 
   - 2008年9月26日 [D.C. Girl's Symphony 〜ダ・カーポ〜
-    ガールズシンフォニー](../Page/D.C._Girl's_Symphony.md "wikilink")
+    ガールズシンフォニー](https://zh.wikipedia.org/wiki/D.C._Girl's_Symphony "wikilink")
   - 2010年11月25日
   - 2014年2月27日
 

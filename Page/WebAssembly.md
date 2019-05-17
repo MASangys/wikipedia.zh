@@ -1,4 +1,4 @@
-**WebAssembly**或稱**wasm**是一個實驗性的低階[程式語言](../Page/程式語言.md "wikilink")，應用於[瀏覽器內的](../Page/瀏覽器.md "wikilink")[客戶端](../Page/客戶端.md "wikilink")。WebAssembly是可攜式的[抽象語法樹](../Page/抽象語法樹.md "wikilink")\[1\]，被設計來提供比[JavaScript更快速的](../Page/JavaScript.md "wikilink")[編譯及執行](../Page/編譯.md "wikilink")\[2\]。WebAssembly將讓開發者能運用自己熟悉的程式語言（最初以[C](../Page/C語言.md "wikilink")/[C++作為實作目標](../Page/C++.md "wikilink")）編譯，再藉虛擬機器引擎在瀏覽器內執行\[3\]。WebAssembly的開發團隊分別來自[Mozilla](../Page/Mozilla基金會.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Microsoft](../Page/微軟.md "wikilink")、[Apple](../Page/蘋果公司.md "wikilink")，代表著四大網路瀏覽器[Firefox](../Page/Firefox.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Microsoft
+**WebAssembly**或稱**wasm**是一個實驗性的低階[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，應用於[瀏覽器內的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[客戶端](https://zh.wikipedia.org/wiki/客戶端 "wikilink")。WebAssembly是可攜式的[抽象語法樹](https://zh.wikipedia.org/wiki/抽象語法樹 "wikilink")\[1\]，被設計來提供比[JavaScript更快速的](../Page/JavaScript.md "wikilink")[編譯及執行](https://zh.wikipedia.org/wiki/編譯 "wikilink")\[2\]。WebAssembly將讓開發者能運用自己熟悉的程式語言（最初以[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")/[C++作為實作目標](../Page/C++.md "wikilink")）編譯，再藉虛擬機器引擎在瀏覽器內執行\[3\]。WebAssembly的開發團隊分別來自[Mozilla](../Page/Mozilla基金會.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Microsoft](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，代表著四大網路瀏覽器[Firefox](../Page/Firefox.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Microsoft
 Edge](../Page/Microsoft_Edge.md "wikilink")、[Safari](../Page/Safari.md "wikilink")\[4\]。2017年11月，以上四個瀏覽器都開始實驗性的支援WebAssembly\[5\]\[6\]。
 
 ## 設計
@@ -17,14 +17,14 @@ Ending定律也称为终结者定律，它是Ending在2016年Emscripten技术交
 1.  定義一個可移植，具有大小與載入高效率的二進位格式，作為編譯標的。這個編譯標的必須可以被編譯至常見的平台，包含[移動端與](../Page/移动电话.md "wikilink")[物聯網](../Page/物联网.md "wikilink")，並且可以善用[硬體資源](../Page/硬件.md "wikilink")、有原生執行碼的執行速度。
 2.  規格與實作：
       - 最初的MVP(Minimum Viable
-        Product)與[Asm.js有大略相等的功能](../Page/Asm.js.md "wikilink")，並以C/C++語言為優先；
-      - 其他額外的特性最初集中在[執行緒](../Page/线程.md "wikilink")，零消耗的[-{zh-tw:例外;zh-cn:异常}-](../Page/异常处理.md "wikilink")，和[SIMD](../Page/SIMD.md "wikilink")。這些額外的特性先以回饋和實驗為主，包含C/C++以外其他語言的支持。
+        Product)與[Asm.js有大略相等的功能](https://zh.wikipedia.org/wiki/Asm.js "wikilink")，並以C/C++語言為優先；
+      - 其他額外的特性最初集中在[執行緒](../Page/线程.md "wikilink")，零消耗的[-{zh-tw:例外;zh-cn:异常}-](../Page/异常处理.md "wikilink")，和[SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")。這些額外的特性先以回饋和實驗為主，包含C/C++以外其他語言的支持。
 3.  設計可以執行在現有的網路平台之內以及與之整合：
       - 保持無版本問題、特色測試、向後相容的網路平台
       - 在與[Javascript相同的環境中執行](../Page/JavaScript.md "wikilink")
       - 允許從[Javascript中同步呼叫](../Page/JavaScript.md "wikilink")
       - 強化同源(Same-origin)和安全性權限政策
-      - 允許[瀏覽器存取相同功能的Javascript](../Page/瀏覽器.md "wikilink")
+      - 允許[瀏覽器存取相同功能的Javascript](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")
         [API](../Page/应用程序接口.md "wikilink")
       - 定義一個可人工讀取，能和二進位格式互換的純文字格式，以支援查看原始碼
 4.  設計也可以用於非瀏覽器的[嵌入式系統](../Page/嵌入式系统.md "wikilink")
@@ -39,7 +39,7 @@ Ending定律也称为终结者定律，它是Ending在2016年Emscripten技术交
 
   - 制定規格
   - [執行緒](../Page/线程.md "wikilink")
-  - 固定長度的[SIMD](../Page/单指令流多数据流.md "wikilink")
+  - 固定長度的[SIMD](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")
   - [例外處理](../Page/异常处理.md "wikilink")
   - [垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")
   - 記憶體區塊操作
@@ -55,26 +55,28 @@ Ending定律也称为终结者定律，它是Ending在2016年Emscripten技术交
   - [JavaScript](../Page/JavaScript.md "wikilink") /
     [ECMAScript](../Page/ECMAScript.md "wikilink") /
     [Ajax](../Page/AJAX.md "wikilink")
-  - [asm.js](../Page/asm.js.md "wikilink")
+  - [asm.js](https://zh.wikipedia.org/wiki/asm.js "wikilink")
   - [Dart](../Page/Dart.md "wikilink")
   - [V8](../Page/V8_\(JavaScript引擎\).md "wikilink")
   - [SpiderMonkey](../Page/SpiderMonkey.md "wikilink")
   - [Qt for WebAssembly](../Page/Qt.md "wikilink")
 
-其他逐漸被捨棄的網頁[用戶端技術與](../Page/客户端.md "wikilink")[RIA](../Page/多樣化網際網路應用程式.md "wikilink")
+其他逐漸被捨棄的網頁[用戶端技術與](https://zh.wikipedia.org/wiki/客户端 "wikilink")[RIA](https://zh.wikipedia.org/wiki/多樣化網際網路應用程式 "wikilink")
 
   - [ActiveX](../Page/ActiveX.md "wikilink")
   - [VBScript](../Page/VBScript.md "wikilink")
-  - [Flash](../Page/Flash.md "wikilink") /
+  - [Flash](https://zh.wikipedia.org/wiki/Flash "wikilink") /
     [ActionScript](../Page/ActionScript.md "wikilink")
-  - [Microsoft Silverlight](../Page/Microsoft_Silverlight.md "wikilink")
-  - [Java Applet](../Page/Java_Applet.md "wikilink") /
-    [JavaFX](../Page/JavaFX.md "wikilink")
+  - [Microsoft
+    Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
+  - [Java Applet](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")
+    / [JavaFX](../Page/JavaFX.md "wikilink")
   - [Native Client](../Page/Native_Client.md "wikilink")
 
-其他[位元組碼](../Page/字节码.md "wikilink")
+其他[位元組碼](https://zh.wikipedia.org/wiki/字节码 "wikilink")
 
-  - [Java bytecode](../Page/Java_bytecode.md "wikilink")
+  - [Java
+    bytecode](https://zh.wikipedia.org/wiki/Java_bytecode "wikilink")
   - [通用中間語言 (CIL)](../Page/通用中间语言.md "wikilink")
 
 ## 參考資料

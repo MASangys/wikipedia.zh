@@ -1,19 +1,19 @@
 《**To Be
-Continued**》（）為8月18日起，每周一至周四於[Naver TVcast網絡播出且與每周四於](../Page/Naver.md "wikilink")[MBC
+Continued**》（）為8月18日起，每周一至周四於[Naver TVcast網絡播出且與每周四於](https://zh.wikipedia.org/wiki/Naver "wikilink")[MBC
 every1頻道同時播出之節目](../Page/MBC_Plus_Media.md "wikilink")。
-[Naver TVcast每日播出一集](../Page/Naver.md "wikilink")，[MBC
+[Naver TVcast每日播出一集](https://zh.wikipedia.org/wiki/Naver "wikilink")，[MBC
 every1則每日播出四集](../Page/MBC_Plus_Media.md "wikilink")。
 
 ## 花絮
 
-[Fantagio的全新男子組合](../Page/Fantagio.md "wikilink")[ASTRO將通過網路漫畫連續劇](../Page/ASTRO.md "wikilink")《**To
+[Fantagio的全新男子組合](../Page/Fantagio.md "wikilink")[ASTRO將通過網路漫畫連續劇](https://zh.wikipedia.org/wiki/ASTRO "wikilink")《**To
 Be Continued**》揭下他們的神秘面紗，這也是國內首次採用這樣的方式。與原有的通過選拔賽模式，公開選拔過程的單一模式截然不同。
 通過漫畫連續劇公開的組合，將更賦予他們各色，成員彼此之間擁有的才能和特色，通過連續劇得以發揮。
 
 ## 劇情
 
 劇情講述即將出道的男子團體 Fantagio
-([ASTRO飾](../Page/ASTRO.md "wikilink"))，在出道前突然穿越回到過去，且在知情的雅琳(金賽綸
+([ASTRO飾](https://zh.wikipedia.org/wiki/ASTRO "wikilink"))，在出道前突然穿越回到過去，且在知情的雅琳(金賽綸
 飾)幫助下，得以圓滿成功順利出道的奇幻青春故事的成長連續劇。\[1\]
 
 ## 演員列表
@@ -21,11 +21,11 @@ Be Continued**》揭下他們的神秘面紗，這也是國內首次採用這樣
 ### 主要人物
 
   - [金賽綸](../Page/金賽綸.md "wikilink") 飾演 鄭雅琳
-  - [MJ](../Page/MJ_\(ASTRO\).md "wikilink")
-  - [JIN JIN](../Page/朴真祐（韓國歌手）.md "wikilink")
+  - [MJ](https://zh.wikipedia.org/wiki/MJ_\(ASTRO\) "wikilink")
+  - [JIN JIN](https://zh.wikipedia.org/wiki/朴真祐（韓國歌手） "wikilink")
   - [車銀優](../Page/車銀優.md "wikilink")
   - [文彬](../Page/文彬_\(韓國歌手\).md "wikilink")
-  - [Rocky](../Page/Rocky_\(韓國歌手\).md "wikilink")
+  - [Rocky](https://zh.wikipedia.org/wiki/Rocky_\(韓國歌手\) "wikilink")
   - [尹產賀](../Page/尹產賀.md "wikilink")
   - [安彩妍](../Page/Hello_Venus.md "wikilink") 飾演 夏天
 
@@ -39,16 +39,16 @@ Be Continued**》揭下他們的神秘面紗，這也是國內首次採用這樣
   - [姜泰伍](../Page/姜泰伍.md "wikilink") 飾演 黑道份子
   - [Hello Venus](../Page/Hello_Venus.md "wikilink") 飾演 SUNHYUK團體
   - [磪有情](../Page/磪有情.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki
-    Meki](../Page/Weki_Meki.md "wikilink")）
+    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
   - [金度延](../Page/金度延.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki
-    Meki](../Page/Weki_Meki.md "wikilink")）
-  - [金秀璟](../Page/金秀璟.md "wikilink")（[Weki
-    Meki](../Page/Weki_Meki.md "wikilink")）
-  - [鄭海琳](../Page/鄭海琳.md "wikilink")（[Weki
-    Meki](../Page/Weki_Meki.md "wikilink")）
-  - [魯孝靜](../Page/魯孝靜.md "wikilink")（[Weki
-    Meki](../Page/Weki_Meki.md "wikilink")）
-  - [秋藝真](../Page/秋藝真.md "wikilink")
+    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+  - [金秀璟](https://zh.wikipedia.org/wiki/金秀璟 "wikilink")（[Weki
+    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+  - [鄭海琳](https://zh.wikipedia.org/wiki/鄭海琳 "wikilink")（[Weki
+    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+  - [魯孝靜](https://zh.wikipedia.org/wiki/魯孝靜 "wikilink")（[Weki
+    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+  - [秋藝真](https://zh.wikipedia.org/wiki/秋藝真 "wikilink")
 
 ## 外部連結
 

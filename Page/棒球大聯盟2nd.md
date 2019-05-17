@@ -1,5 +1,5 @@
 《**棒球大聯盟2nd**》（MAJOR
-2nd）是[滿田拓也的](../Page/滿田拓也.md "wikilink")[少年漫畫作品](../Page/少年漫畫.md "wikilink")《**[棒球大聯盟](../Page/棒球大聯盟.md "wikilink")**》（MAJOR）的續作，從2015年開始連載在[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")（[小學館](../Page/小學館.md "wikilink")），台灣則由[青文出版社代理漫畫出版](../Page/青文出版社.md "wikilink")，2017年10月宣布動畫化，標題是片假名「****」《**棒球大聯盟2nd**》（MAJOR
+2nd）是[滿田拓也的](../Page/滿田拓也.md "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《**[棒球大聯盟](https://zh.wikipedia.org/wiki/棒球大聯盟 "wikilink")**》（MAJOR）的續作，從2015年開始連載在[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")（[小學館](../Page/小學館.md "wikilink")），台灣則由[青文出版社代理漫畫出版](../Page/青文出版社.md "wikilink")，2017年10月宣布動畫化，標題是片假名「****」《**棒球大聯盟2nd**》（MAJOR
 2nd），以茂野大吾繼承父業為主軸。
 
 ## 概要
@@ -33,7 +33,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -133,12 +133,12 @@
   - 攝影監督：山越康司
   - 音樂：[中川幸太郎](../Page/中川幸太郎.md "wikilink")（1st）
   - 音響監督：亀山俊樹（1st）
-  - 棒球監修：[里崎智也](../Page/里崎智也.md "wikilink")（1st）
+  - 棒球監修：[里崎智也](https://zh.wikipedia.org/wiki/里崎智也 "wikilink")（1st）
   - 動畫製作人：小島弘明
   - 製作統籌：米村裕子、苗代憲一郎、長谷川友紀（1st）
   - 動畫製作：[OLM](../Page/OLM.md "wikilink")（1st）
   - 共同製作：
-  - 製作、著作：[NHK](../Page/日本放送協会.md "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
+  - 製作、著作：[NHK](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
 
 ### 主題曲
 
@@ -167,7 +167,7 @@
   -
 
       -
-        作詞、作曲、主唱：[高橋優](../Page/高橋優.md "wikilink")，編曲：、[高橋優](../Page/高橋優.md "wikilink")
+        作詞、作曲、主唱：[高橋優](https://zh.wikipedia.org/wiki/高橋優 "wikilink")，編曲：、[高橋優](https://zh.wikipedia.org/wiki/高橋優 "wikilink")
 
 :; 「SAIREN」（第14－25話）
 

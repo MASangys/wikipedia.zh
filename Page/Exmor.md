@@ -1,17 +1,17 @@
 [Sony_Exmor.jpg](https://zh.wikipedia.org/wiki/File:Sony_Exmor.jpg "fig:Sony_Exmor.jpg")
 [CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg](https://zh.wikipedia.org/wiki/File:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg "fig:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg")
-**Exmor**是索尼公司应用在其部分[CMOS图像传感器上的技术名称](../Page/CMOS.md "wikilink")。其可以实现片上[模数转换以及错行像素的两步降噪并行处理](../Page/模数转换.md "wikilink")。
+**Exmor**是索尼公司应用在其部分[CMOS图像传感器上的技术名称](https://zh.wikipedia.org/wiki/CMOS "wikilink")。其可以实现片上[模数转换以及错行像素的两步降噪并行处理](https://zh.wikipedia.org/wiki/模数转换 "wikilink")。
 
 **Exmor R**则是索尼的Exmor的版本\[1\] 。索尼公司于2008年6月11日发布Exmor
 R，其也是世界上首个量产型背照式传感器技术\[2\]
 。索尼声称Exmor R约可达到传统前照式传感器（front illuminated
-sensor）两倍灵敏度。这类在一些索尼出品的拍照手机与相机中有应用，甚至[苹果公司的](../Page/苹果公司.md "wikilink")[iPhone
-4S与](../Page/iPhone_4S.md "wikilink")[iPhone
-5中也有应用](../Page/iPhone_5.md "wikilink")\[3\]\[4\] 。Exmor
-R传感器有助于帮助智能手机在低照度环境下获取高分辨率视频或静止图像。
+sensor）两倍灵敏度。这类在一些索尼出品的拍照手机与相机中有应用，甚至[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone
+4S与](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[iPhone
+5中也有应用](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")\[3\]\[4\]
+。Exmor R传感器有助于帮助智能手机在低照度环境下获取高分辨率视频或静止图像。
 
 很长一段时间，Exmor
-R仅被使用在较小的图像传感器类型中，如应用在[摄像机](../Page/摄像机.md "wikilink")、紧凑型相机以及智能设备上，而随着2015年6月，[索尼ILCE-7RM2的发布](../Page/索尼ILCE-7RM2.md "wikilink")，也意味着Exmor
+R仅被使用在较小的图像传感器类型中，如应用在[摄像机](https://zh.wikipedia.org/wiki/摄像机 "wikilink")、紧凑型相机以及智能设备上，而随着2015年6月，[索尼ILCE-7RM2的发布](https://zh.wikipedia.org/wiki/索尼ILCE-7RM2 "wikilink")，也意味着Exmor
 R型号传感器登陆[全画幅领域](../Page/全画幅.md "wikilink")。
 
 2014年11月，索尼公司宣布了新型的**Exmor
@@ -104,7 +104,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="even">
 <td><p>IMX071</p></td>
 <td><p>4928 x 3264 16 MP</p></td>
-<td><p><a href="../Page/APS-C.md" title="wikilink">APS-C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APS-C" title="wikilink">APS-C</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -117,7 +117,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="odd">
 <td><p>IMX080</p></td>
 <td><p>4928 x 3264 16 MP</p></td>
-<td><p><a href="../Page/APS-C.md" title="wikilink">APS-C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APS-C" title="wikilink">APS-C</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -130,12 +130,12 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="even">
 <td><p>IMX094[15]</p></td>
 <td><p>7360 x 4912 36.4 MP</p></td>
-<td><p><a href="../Page/Full-frame_digital_SLR.md" title="wikilink">Full-frame</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Full-frame_digital_SLR" title="wikilink">Full-frame</a></p></td>
 <td><p>4.88 μm</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Low-voltage_differential_signaling.md" title="wikilink">sub-LVDS</a> 8 channels</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Low-voltage_differential_signaling" title="wikilink">sub-LVDS</a> 8 channels</p></td>
 <td><p>RGB</p></td>
 <td></td>
 <td><p>{{Collapsible list</p></td>
@@ -143,7 +143,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="odd">
 <td><p>IMX100</p></td>
 <td><p>4952 x 3056 14 MP</p></td>
-<td><p><a href="../Page/APS-C.md" title="wikilink">APS-C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APS-C" title="wikilink">APS-C</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -156,12 +156,12 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="even">
 <td><p>IMX128[16]</p></td>
 <td><p>6000 x 4000 24.3 MP</p></td>
-<td><p><a href="../Page/Full-frame_digital_SLR.md" title="wikilink">Full-frame</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Full-frame_digital_SLR" title="wikilink">Full-frame</a></p></td>
 <td><p>5.97 μm</p></td>
 <td><p>6.9</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Low-voltage_differential_signaling.md" title="wikilink">sub-LVDS</a> 8 channels</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Low-voltage_differential_signaling" title="wikilink">sub-LVDS</a> 8 channels</p></td>
 <td><p>RGB</p></td>
 <td></td>
 <td><p>{{Collapsible list</p></td>
@@ -169,12 +169,12 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="odd">
 <td><p>IMX157</p></td>
 <td><p>6000 x 4000 24.3 MP</p></td>
-<td><p><a href="../Page/Full-frame_digital_SLR.md" title="wikilink">Full-frame</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Full-frame_digital_SLR" title="wikilink">Full-frame</a></p></td>
 <td><p>5.97 μm</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Low-voltage_differential_signaling.md" title="wikilink">sub-LVDS</a> 8 channels</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Low-voltage_differential_signaling" title="wikilink">sub-LVDS</a> 8 channels</p></td>
 <td><p>RGB</p></td>
 <td></td>
 <td><p>{{Collapsible list</p></td>
@@ -208,12 +208,12 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="even">
 <td><p>IMX193</p></td>
 <td><p>6000 x 4000 24.3 MP</p></td>
-<td><p><a href="../Page/APS-C.md" title="wikilink">APS-C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APS-C" title="wikilink">APS-C</a></p></td>
 <td><p>3.91 μm</p></td>
 <td><p>8.7</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Low-voltage_differential_signaling.md" title="wikilink">sub-LVDS</a> 8 channels</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Low-voltage_differential_signaling" title="wikilink">sub-LVDS</a> 8 channels</p></td>
 <td><p>RGB</p></td>
 <td></td>
 <td><p>{{Collapsible list</p></td>
@@ -221,7 +221,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="odd">
 <td><p>IMX210</p></td>
 <td><p>6000 x 4000 24.3 MP</p></td>
-<td><p><a href="../Page/APS-C.md" title="wikilink">APS-C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APS-C" title="wikilink">APS-C</a></p></td>
 <td><p>3.91 μm</p></td>
 <td></td>
 <td></td>
@@ -234,7 +234,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="even">
 <td><p>IMX235</p></td>
 <td><p>4240 x 2832 12.2 MP</p></td>
-<td><p><a href="../Page/Full-frame_digital_SLR.md" title="wikilink">Full-frame</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Full-frame_digital_SLR" title="wikilink">Full-frame</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -247,7 +247,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="odd">
 <td><p>IMX284</p></td>
 <td><p>6000 x 4000 24.3 MP</p></td>
-<td><p><a href="../Page/APS-C.md" title="wikilink">APS-C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APS-C" title="wikilink">APS-C</a></p></td>
 <td><p>3.91 μm</p></td>
 <td></td>
 <td></td>
@@ -300,7 +300,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Low-voltage_differential_signaling.md" title="wikilink">LVDS</a> 4 pair for signal+1 pair for clock</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Low-voltage_differential_signaling" title="wikilink">LVDS</a> 4 pair for signal+1 pair for clock</p></td>
 <td><p>RGB</p></td>
 <td></td>
 <td><p>{{Collapsible list</p></td>
@@ -556,7 +556,7 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <tr class="odd">
 <td><p>IMX251</p></td>
 <td><p>7952 x 5304  42.4 MP</p></td>
-<td><p><a href="../Page/Full-frame_digital_SLR.md" title="wikilink">Full-frame</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Full-frame_digital_SLR" title="wikilink">Full-frame</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1295,12 +1295,12 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <td><p>IMX607</p></td>
 <td><p>38MP</p></td>
 <td><p>9.900mm (1/1.8")</p></td>
-<td><p>1.12µm(高<a href="../Page/SNR.md" title="wikilink">SNR版本為</a>2.24 µm)</p></td>
+<td><p>1.12µm(高<a href="https://zh.wikipedia.org/wiki/SNR" title="wikilink">SNR版本為</a>2.24 µm)</p></td>
 <td></td>
 <td></td>
 <td><p>MIPI D-PHY 4lane/ 8lane</p></td>
 <td><p>RGB</p></td>
-<td><p>Yes(Quad pixel <a href="../Page/PDAF.md" title="wikilink">PDAF</a>)</p></td>
+<td><p>Yes(Quad pixel <a href="https://zh.wikipedia.org/wiki/PDAF" title="wikilink">PDAF</a>)</p></td>
 <td></td>
 <td></td>
 <td><p>December 2018</p></td>
@@ -1364,8 +1364,8 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 
 ## 参见
 
-  - [BIONZ索尼的图像处理引擎](../Page/BIONZ.md "wikilink")
-  - [Sony HAD CCD](../Page/HAD_CCD.md "wikilink")
+  - [BIONZ索尼的图像处理引擎](https://zh.wikipedia.org/wiki/BIONZ "wikilink")
+  - [Sony HAD CCD](https://zh.wikipedia.org/wiki/HAD_CCD "wikilink")
 
 ## 参考与引用
 

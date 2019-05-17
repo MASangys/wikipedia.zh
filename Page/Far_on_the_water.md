@@ -11,22 +11,27 @@ Records發行](../Page/SME_Records.md "wikilink")，共發行四個版本，其�
 1.  **into the water** （1：38）
 2.  **monochrome** （3：33）
 3.  **（五月的魔法）** （4：57）
-4.  **[ring your bell](../Page/ring_your_bell.md "wikilink")** （5：16）
+4.  **[ring your
+    bell](https://zh.wikipedia.org/wiki/ring_your_bell "wikilink")**
+    （5：16）
       - 電視動畫《[Fate/stay night -Unlimited Blade
-        Works-](../Page/Fate/stay_night.md "wikilink")》第二期片尾曲
+        Works-](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》第二期片尾曲
 5.  **（淡紫）** （5：11）
 6.  **identify** （4：29）
 7.  **** （3：11）
 8.  **[One Light](../Page/One_Light.md "wikilink")** （4：41）
       - 電視動畫《[亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")》第二期片尾曲
 9.  **（解開心結）** （5：21）
-10. **[heavenly blue](../Page/heavenly_blue.md "wikilink")** （5：23）
+10. **[heavenly
+    blue](https://zh.wikipedia.org/wiki/heavenly_blue "wikilink")**
+    （5：23）
       - 電視動畫《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》片頭曲
 11. **（空色的椅子）** （3：19）
-12. **[believe](../Page/believe_\(Kalafina單曲\).md "wikilink")** （4：52）
+12. **[believe](https://zh.wikipedia.org/wiki/believe_\(Kalafina單曲\) "wikilink")**
+    （4：52）
       - 電視動畫《Fate/stay night -Unlimited Blade Works-》第一期片尾曲
 13. **far on the water** （4：31）
-      - [NHK歷史特輯](../Page/NHK.md "wikilink")《[歷史秘話Historia](../Page/歷史秘話.md "wikilink")》片尾曲（2015年4月至今）
+      - [NHK歷史特輯](https://zh.wikipedia.org/wiki/NHK "wikilink")《[歷史秘話Historia](https://zh.wikipedia.org/wiki/歷史秘話 "wikilink")》片尾曲（2015年4月至今）
 
 ## 初回生產限定盤
 

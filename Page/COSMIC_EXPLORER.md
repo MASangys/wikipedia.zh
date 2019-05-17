@@ -1,6 +1,7 @@
 《COSMIC
-EXPLORER》（星際探險家）是日本[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第六張](../Page/Perfume.md "wikilink")[專輯](../Page/專輯.md "wikilink")，於2016年4月6日發行\[1\]。唱片公司為[Perfume
-Records/Universal J](../Page/環球唱片#日本環球音樂.md "wikilink")。
+EXPLORER》（星際探險家）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第六張](https://zh.wikipedia.org/wiki/Perfume "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2016年4月6日發行\[1\]。唱片公司為[Perfume
+Records/Universal
+J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
 
 ## 概要
 
@@ -8,7 +9,8 @@ Records/Universal J](../Page/環球唱片#日本環球音樂.md "wikilink")。
   - 專輯收錄了在2013至15年內發行過的四張單曲作品「[Sweet
     Refrain](../Page/Sweet_Refrain.md "wikilink")」、「[Cling
     Cling](../Page/Cling_Cling.md "wikilink")」、「[Relax In The City/Pick
-    Me Up](../Page/Relax_In_The_City/Pick_Me_Up.md "wikilink")」及「[STAR
+    Me
+    Up](https://zh.wikipedia.org/wiki/Relax_In_The_City/Pick_Me_Up "wikilink")」及「[STAR
     TRAIN](../Page/STAR_TRAIN.md "wikilink")」，同時收錄了兩首單曲內的B面曲（「[Hold Your
     Hand](../Page/Cling_Cling.md "wikilink")」和「[TOKIMEKI
     LIGHTS](../Page/STAR_TRAIN.md "wikilink")」）以及在美國德克薩斯州奧斯汀舉行的[西南偏南音樂節](../Page/西南偏南.md "wikilink")（SXSW）上演出過的歌曲「STORY」。
@@ -34,11 +36,11 @@ Records/Universal J](../Page/環球唱片#日本環球音樂.md "wikilink")。
 
 ## 商業搭配
 
-| 曲名                  | [商業搭配](../Page/商業搭配.md "wikilink")                              |
-| ------------------- | --------------------------------------------------------------- |
-| Next Stage with YOU | [梅賽德斯-賓士](../Page/梅賽德斯-賓士.md "wikilink")「A Class」廣告歌            |
-| FLASH               | 電影「[花牌情緣](../Page/花牌情緣_\(電影\).md "wikilink") 上之句」及「花牌情緣 下之句」主題曲 |
-|                     |                                                                 |
+| 曲名                  | [商業搭配](../Page/商業搭配.md "wikilink")                                                 |
+| ------------------- | ---------------------------------------------------------------------------------- |
+| Next Stage with YOU | [梅賽德斯-賓士](../Page/梅賽德斯-賓士.md "wikilink")「A Class」廣告歌                               |
+| FLASH               | 電影「[花牌情緣](https://zh.wikipedia.org/wiki/花牌情緣_\(電影\) "wikilink") 上之句」及「花牌情緣 下之句」主題曲 |
+|                     |                                                                                    |
 
 ## 参考文獻
 

@@ -1,9 +1,11 @@
-***Titea***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[褐裙灰蝶族裡的一個](../Page/褐裙灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。共有2個物種，分佈於新畿內亞高地\[1\]。
+***Titea***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[褐裙灰蝶族裡的一個](../Page/褐裙灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有2個物種，分佈於新畿內亞高地\[1\]。
 
 ## 物種
 
-  - [凱露菲灰蝶](../Page/凱露菲灰蝶.md "wikilink") *Titea caerulea*
-  - [黃下菲灰蝶](../Page/黃下菲灰蝶.md "wikilink") *Titea sublutea*
+  - [凱露菲灰蝶](https://zh.wikipedia.org/wiki/凱露菲灰蝶 "wikilink") *Titea
+    caerulea*
+  - [黃下菲灰蝶](https://zh.wikipedia.org/wiki/黃下菲灰蝶 "wikilink") *Titea
+    sublutea*
 
 ## 腳註
 

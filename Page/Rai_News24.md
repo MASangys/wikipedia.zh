@@ -1,7 +1,7 @@
 **Rai News
-24**是[義大利的](../Page/義大利.md "wikilink")24小時新聞頻道，由[意大利廣播電視公司](../Page/意大利廣播電視公司.md "wikilink")
+24**是[義大利的](https://zh.wikipedia.org/wiki/義大利 "wikilink")24小時新聞頻道，由[意大利廣播電視公司](https://zh.wikipedia.org/wiki/意大利廣播電視公司 "wikilink")
 (Rai) 營運。Rai
-News24在義大利通過[數位電視訊號播出](../Page/數位電視.md "wikilink")，並通過衛星在歐洲和北美播出。RAI的新聞頻道在1999年4月26日開始播出。現在Rai
+News24在義大利通過[數位電視訊號播出](https://zh.wikipedia.org/wiki/數位電視 "wikilink")，並通過衛星在歐洲和北美播出。RAI的新聞頻道在1999年4月26日開始播出。現在Rai
 News24在晚間8點的新聞節目收視率達5.9%。Rai News24計劃將以高清方式播出節目\[1\]。
 
 频道的内容包括 (以下所有时间都是中国时间)：

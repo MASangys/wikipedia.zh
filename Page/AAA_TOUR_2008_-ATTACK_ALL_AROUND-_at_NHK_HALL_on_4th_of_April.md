@@ -22,14 +22,14 @@ April**』是[日本團體](../Page/日本.md "wikilink")[AAA在](../Page/AAA_\(
 1.  [MIRAGE](../Page/MIRAGE_\(AAA單曲\).md "wikilink")
 2.  [Let it beat\!](../Page/Let_it_beat!.md "wikilink")
 3.  [哈利路亞](../Page/哈利路亞_\(AAA單曲\).md "wikilink")
-4.  [紅唇羅曼蒂卡](../Page/紅唇羅曼蒂卡_/_That's_Right.md "wikilink")
+4.  [紅唇羅曼蒂卡](https://zh.wikipedia.org/wiki/紅唇羅曼蒂卡_/_That's_Right "wikilink")
 5.  [DRAGON FIRE](../Page/DRAGON_FIRE.md "wikilink")
 6.  [美麗的天空](../Page/美麗的天空.md "wikilink")
 7.  [Friday Party](../Page/Friday_Party.md "wikilink")
-8.  [Get 啾\!](../Page/Get_啾!_/_SHE的真相.md "wikilink")
+8.  [Get 啾\!](https://zh.wikipedia.org/wiki/Get_啾!_/_SHE的真相 "wikilink")
 9.  ["Q"](../Page/"Q".md "wikilink")
-10. [SHE的真相](../Page/Get_啾!_/_SHE的真相.md "wikilink")
-11. [刀魂男孩](../Page/刀魂男孩_/_和服噴射女孩.md "wikilink")
+10. [SHE的真相](https://zh.wikipedia.org/wiki/Get_啾!_/_SHE的真相 "wikilink")
+11. [刀魂男孩](https://zh.wikipedia.org/wiki/刀魂男孩_/_和服噴射女孩 "wikilink")
 12. [花火](../Page/夏日風物.md "wikilink")
 13. [口香糖](../Page/口香糖_\(AAA單曲\).md "wikilink")
 14. [Shalala 希望之歌](../Page/Shalala_希望之歌.md "wikilink")
@@ -39,12 +39,14 @@ April**』是[日本團體](../Page/日本.md "wikilink")[AAA在](../Page/AAA_\(
     version)](../Page/颶風·莉莉，波士頓·瑪麗.md "wikilink")
 18. [Winter lander\!](../Page/Black_&_White_\(AAA單曲\).md "wikilink")
 19. [Samurai heart-侍魂-](../Page/Black_&_White_\(AAA單曲\).md "wikilink")
-20. [That's Right](../Page/紅唇羅曼蒂卡_/_That's_Right.md "wikilink")'''
+20. [That's
+    Right](https://zh.wikipedia.org/wiki/紅唇羅曼蒂卡_/_That's_Right "wikilink")'''
 21. [BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")
 
 ENCORE
 
-1.  [Climax Jump](../Page/Climax_Jump#Climax_Jump.md "wikilink")
+1.  [Climax
+    Jump](https://zh.wikipedia.org/wiki/Climax_Jump#Climax_Jump "wikilink")
 2.  [BEYOND～超越極限](../Page/BEYOND～超越極限.md "wikilink")
 3.  [我們的手](../Page/ATTACK_\(AAA專輯\).md "wikilink")
 4.  [SUNSHINE](../Page/夏日風物.md "wikilink")

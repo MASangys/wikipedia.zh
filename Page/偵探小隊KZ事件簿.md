@@ -1,4 +1,4 @@
-，[日本](../Page/日本.md "wikilink")[兒童文學作品](../Page/兒童文學.md "wikilink")，[藤本瞳原作](../Page/藤本瞳.md "wikilink")、[住瀧良寫作的兒童偵探冒險文學](../Page/住瀧良.md "wikilink")。2011年，成為[講談社](../Page/講談社.md "wikilink")[青鳥文庫系列作品之一](../Page/青鳥文庫.md "wikilink")。該作經改編，2015年10月7日起在[NHK教育頻道的](../Page/NHK教育頻道.md "wikilink")《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》中播放每集長10分鐘的短篇[電視動畫](../Page/電視動畫.md "wikilink")。該動畫由[IG
+，[日本](../Page/日本.md "wikilink")[兒童文學作品](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")，[藤本瞳原作](https://zh.wikipedia.org/wiki/藤本瞳 "wikilink")、[住瀧良寫作的兒童偵探冒險文學](https://zh.wikipedia.org/wiki/住瀧良 "wikilink")。2011年，成為[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")[青鳥文庫系列作品之一](https://zh.wikipedia.org/wiki/青鳥文庫 "wikilink")。該作經改編，2015年10月7日起在[NHK教育頻道的](../Page/NHK教育頻道.md "wikilink")《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》中播放每集長10分鐘的短篇[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。該動畫由[IG
 Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Signal-MD」負責製作，該公司相關之動畫企劃向來主要都是兒童向作品。
 
 ## 故事簡介
@@ -13,7 +13,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
     聲 - [巽悠衣子](../Page/巽悠衣子.md "wikilink")
     故事女主角，有一個高三的哥哥和小二的妹妹，被稱為"國語的專家"。
   - 若武 和臣（わかたけ かずおみ）
-    聲 - [齊藤壮馬](../Page/齊藤壮馬.md "wikilink")
+    聲 - [齊藤壮馬](https://zh.wikipedia.org/wiki/齊藤壮馬 "wikilink")
     足球隊KZ的王牌前鋒，同樣是偵探小組KZ的首領。最喜歡引人注目。
   - 黒木 貴和（くろき たかかず）
     聲 - [寺島拓篤](../Page/寺島拓篤.md "wikilink")
@@ -22,7 +22,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
     聲 - [西山宏太朗](../Page/西山宏太朗.md "wikilink")
     知性並冷靜，時而嚴厲的理論派。因為數學很好所以被稱為"數學的上杉"。
   - 小塚 和彦（こづか かずひこ）
-    聲 - [市来光弘](../Page/市来光弘.md "wikilink")
+    聲 - [市来光弘](https://zh.wikipedia.org/wiki/市来光弘 "wikilink")
     平和並溫柔，社會科和理科很好，所以被稱為"社理的小塚"。
   - 砂原 翔（すなはら かける）
     聲 - [梶裕貴](../Page/梶裕貴.md "wikilink")
@@ -38,7 +38,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
 <!-- end list -->
 
   - 立花裕樹
-    聲 - [中島ヨシキ](../Page/中島ヨシキ.md "wikilink")
+    聲 - [中島ヨシキ](https://zh.wikipedia.org/wiki/中島ヨシキ "wikilink")
     彩的哥哥。成績優異、運動萬能的帥哥。
 
 <!-- end list -->
@@ -54,7 +54,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
   - 原作：藤本瞳、住瀧良
   - 人物原案：駒形
   - 監督：市川量也
-  - 系列構成：[山田由香](../Page/山田由香.md "wikilink")
+  - 系列構成：[山田由香](https://zh.wikipedia.org/wiki/山田由香 "wikilink")
   - 劇本：山田由香、[筆安一幸](../Page/筆安一幸.md "wikilink")、市川量也
   - 人物設定、總作畫監督：松浦有紗
   - 美術監督：高田真理
@@ -91,7 +91,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
 <td><p>1話</p></td>
 <td></td>
 <td><p>消失的腳踏車我知道其之1</p></td>
-<td><p><a href="../Page/:ja:山田由香.md" title="wikilink">山田由香</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:ja:山田由香" title="wikilink">山田由香</a></p></td>
 <td><p>市川量也<br />
 高田真理</p></td>
 <td><p>蔦佳穂里</p></td>
@@ -129,7 +129,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
 <td><p>5話</p></td>
 <td></td>
 <td><p>雞蛋漢堡我知道其之1</p></td>
-<td><p><a href="../Page/:ja:筆安一幸.md" title="wikilink">筆安一幸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:ja:筆安一幸" title="wikilink">筆安一幸</a></p></td>
 <td><p>高橋理恵</p></td>
 <td><p>高田真理</p></td>
 <td><p>11月4日</p></td>

@@ -1,10 +1,11 @@
-***Haenschia***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](../Page/屬_\(生物\).md "wikilink")，尚無正式中文學名命名。物種分佈於[秘魯東部至](../Page/秘魯.md "wikilink")[玻利維亞一帶的](../Page/玻利維亞.md "wikilink")[雲霧森林](../Page/雲霧森林.md "wikilink")。體型細小。翅膀透明。此屬由Lamas
+***Haenschia***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，尚無正式中文學名命名。物種分佈於[秘魯東部至](https://zh.wikipedia.org/wiki/秘魯 "wikilink")[玻利維亞一帶的](../Page/玻利維亞.md "wikilink")[雲霧森林](https://zh.wikipedia.org/wiki/雲霧森林 "wikilink")。體型細小。翅膀透明。此屬由Lamas
 (2004, p. 282)從[美綃蝶屬中分離出來](../Page/美綃蝶屬.md "wikilink")\[1\]。
 
 ## 物種
 
   - *Haenschia derama*
-  - [西頓神綃蝶](../Page/西頓神綃蝶.md "wikilink") *Haenschia sidonia*
+  - [西頓神綃蝶](https://zh.wikipedia.org/wiki/西頓神綃蝶 "wikilink") *Haenschia
+    sidonia*
   - *Haenschia \[n. sp. 1\]*
   - *Haenschia \[n. sp. 2\]*
 

@@ -1,10 +1,10 @@
-**Snuper**（），為[韓國演員](../Page/韓國.md "wikilink")[洪宗玄](../Page/洪宗玄.md "wikilink")、[李己雨所屬的WID](../Page/李己雨.md "wikilink")
+**Snuper**（），為[韓國演員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[洪宗玄](../Page/洪宗玄.md "wikilink")、[李己雨所屬的WID](../Page/李己雨.md "wikilink")
 MAY娛樂首次推出的六人新男團，於2015年11月16日發表迷你專輯《Shall We 쉘 위》以《Shall We
 Dance》一曲正式出道，由泰雄、秀賢、相逸、優盛、相鎬、世賓，六名成員組成，平均身高180公分，強調像鄰家哥哥弟弟一樣，以「Boys
 Next Door親切的男朋友」為概念的偶像團體。
 
 Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」，各有各自的個性與實力，團結在一起建立成最好的團體。在未出道前曾為電視劇《[Hyde
-Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
+Jekyll，我](https://zh.wikipedia.org/wiki/Hyde_Jekyll，我 "wikilink")》演唱插曲。
 
 ## 成員列表
 
@@ -68,7 +68,7 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>首張單曲《<strong>COMPASS</strong>》</p>
 <ul>
 <li>發行日期：2016年7月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -100,7 +100,7 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>首張數位單曲《<strong>Polaroid</strong>》（폴라로이드）</p>
 <ul>
 <li>發行日期：2016年1月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -123,7 +123,7 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>首張日語單曲《<strong>YOU=HEAVEN（JPN ver.）</strong>》</p>
 <ul>
 <li>發行日期：2016年10月26日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -182,7 +182,7 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>首張迷你專輯《<strong>Shall We</strong>》（쉘 위）</p>
 <ul>
 <li>發行日期：2015年11月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -246,11 +246,11 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 
 ### 電視原聲帶
 
-|            |                                                                                                  |                     |
-| ---------- | ------------------------------------------------------------------------------------------------ | ------------------- |
-| **發行日期**   | **專輯名稱**                                                                                         | **歌曲名稱**            |
-| 2015年3月12日 | [SBS](../Page/SBS.md "wikilink")《[Hyde Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》OST Part 7 | 海德、哲基爾（Hyde Jekyll） |
-| 2016年1月5日  | [KBS](../Page/KBS.md "wikilink")《[Oh My Venus](../Page/Oh_My_Venus.md "wikilink")》OST Part 8     | Oh My Venus         |
+|            |                                                                                                                                        |                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **發行日期**   | **專輯名稱**                                                                                                                               | **歌曲名稱**            |
+| 2015年3月12日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Hyde Jekyll，我](https://zh.wikipedia.org/wiki/Hyde_Jekyll，我 "wikilink")》OST Part 7 | 海德、哲基爾（Hyde Jekyll） |
+| 2016年1月5日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Oh My Venus](../Page/Oh_My_Venus.md "wikilink")》OST Part 8                        | Oh My Venus         |
 
 ## 音樂現場
 
@@ -277,28 +277,28 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>11月18日、12月2日、12月9日、12月16日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>12月17日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>11月20日、12月11日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>11月21日、12月5日、12月12日、12月19日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p>11月29日、12月6日、12月20日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Simply K-Pop</p></td>
-<td><p><a href="../Page/Arirang_TV.md" title="wikilink">Arirang TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 <td><p>12月4日</p></td>
 </tr>
 <tr class="even">
@@ -332,28 +332,28 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>3月9日、3月16日、3月23日、4月6日、4月20日、4月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>3月10日、3月17日、3月24日、4月7日、4月21日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>3月11日、3月18日、3月25日、4月8日、4月22日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>3月11日、3月18日、3月25日、4月8日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p>3月13日、3月20日、3月27日、4月3日、4月17日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Simply K-Pop</p></td>
-<td><p><a href="../Page/Arirang_TV.md" title="wikilink">Arirang TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 <td><p>3月11日、3月25日、4月1日、4月15日</p></td>
 </tr>
 <tr class="even">
@@ -372,8 +372,8 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>7月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>7月15日</p></td>
 </tr>
 <tr class="even">
@@ -392,28 +392,28 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 <td><p>7月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>7月14日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>7月15日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>7月16日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p>7月17日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Simply K-Pop</p></td>
-<td><p><a href="../Page/Arirang_TV.md" title="wikilink">Arirang TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 <td><p>7月15日</p></td>
 </tr>
 <tr class="even">
@@ -467,13 +467,13 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 
 ### 電視戲劇
 
-|        |                                  |                                          |            |          |
-| ------ | -------------------------------- | ---------------------------------------- | ---------- | -------- |
-| **年份** | **電視台**                          | **戲劇名稱**                                 | **飾演角色**   | **參與成員** |
-| 2008   | [KBS](../Page/KBS.md "wikilink") | [大王世宗](../Page/大王世宗.md "wikilink")       | 孝寧大君年幼（客串） | 泰雄       |
-| 2009   | [MBC](../Page/MBC.md "wikilink") | [垂涎之島](../Page/飄洋過海愛上你.md "wikilink")    | 韓必鄰（客串）    | 泰雄       |
-| 2013   | [SBS](../Page/SBS.md "wikilink") | [來自星星的你](../Page/來自星星的你.md "wikilink")   | 千允才友人（客串）  | 泰雄       |
-| 2013   | [SBS](../Page/SBS.md "wikilink") | [那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink") | 東奎（客串）     | 泰雄       |
+|        |                                                     |                                                          |            |          |
+| ------ | --------------------------------------------------- | -------------------------------------------------------- | ---------- | -------- |
+| **年份** | **電視台**                                             | **戲劇名稱**                                                 | **飾演角色**   | **參與成員** |
+| 2008   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [大王世宗](../Page/大王世宗.md "wikilink")                       | 孝寧大君年幼（客串） | 泰雄       |
+| 2009   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [垂涎之島](https://zh.wikipedia.org/wiki/飄洋過海愛上你 "wikilink") | 韓必鄰（客串）    | 泰雄       |
+| 2013   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [來自星星的你](../Page/來自星星的你.md "wikilink")                   | 千允才友人（客串）  | 泰雄       |
+| 2013   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")                 | 東奎（客串）     | 泰雄       |
 
 ### 網路劇
 
@@ -491,24 +491,24 @@ Jekyll，我](../Page/Hyde_Jekyll，我.md "wikilink")》演唱插曲。
 
 ### 綜藝節目
 
-|                        |                                                |                                                  |                         |
-| ---------------------- | ---------------------------------------------- | ------------------------------------------------ | ----------------------- |
-| **日期**                 | **電視台**                                        | **節目名稱**                                         | **參與成員**                |
-| 2015年12月17日            | [Arirang TV](../Page/Arirang_TV.md "wikilink") | Pops in Seoul                                    | 全員                      |
-| 2015年12月25日            | [KBS2](../Page/KBS2.md "wikilink")             | 柳熙烈的寫生簿                                          | 世賓                      |
-| 2016年2月9日- 2016年2月10日  | [MBC](../Page/MBC.md "wikilink")               | [偶像明星運動大會](../Page/MBC偶像明星運動會.md "wikilink")     | 全員                      |
-| 2016年3月13日- 2016年3月20日 | [KBS2](../Page/KBS2.md "wikilink")             | Dream Team 2                                     | 秀賢、優盛、世賓                |
-| 2016年3月29日             | [Arirang TV](../Page/Arirang_TV.md "wikilink") | Pops in Seoul                                    | 全員                      |
-| 2016年10月2日             | [SBS](../Page/SBS.md "wikilink")               | [Running Man](../Page/Running_Man.md "wikilink") | 全員                      |
-| 2017年10月28日            | [KBS](../Page/KBS.md "wikilink")               | [The Unit](../Page/The_Unit.md "wikilink")       | 崔炯根(秀賢)、沈相逸(相逸)、張世賓(世賓) |
-|                        |                                                |                                                  |                         |
+|                        |                                                                   |                                                                 |                         |
+| ---------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------- |
+| **日期**                 | **電視台**                                                           | **節目名稱**                                                        | **參與成員**                |
+| 2015年12月17日            | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | Pops in Seoul                                                   | 全員                      |
+| 2015年12月25日            | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 柳熙烈的寫生簿                                                         | 世賓                      |
+| 2016年2月9日- 2016年2月10日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [偶像明星運動大會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 全員                      |
+| 2016年3月13日- 2016年3月20日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | Dream Team 2                                                    | 秀賢、優盛、世賓                |
+| 2016年3月29日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | Pops in Seoul                                                   | 全員                      |
+| 2016年10月2日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | [Running Man](../Page/Running_Man.md "wikilink")                | 全員                      |
+| 2017年10月28日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")   | 崔炯根(秀賢)、沈相逸(相逸)、張世賓(世賓) |
+|                        |                                                                   |                                                                 |                         |
 
 ### 廣播節目
 
-|             |                                                |          |
-| ----------- | ---------------------------------------------- | -------- |
-| **日期**      | **節目名稱**                                       | **參與成員** |
-| 2018年10月16日 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 全員       |
+|             |                                                                   |          |
+| ----------- | ----------------------------------------------------------------- | -------- |
+| **日期**      | **節目名稱**                                                          | **參與成員** |
+| 2018年10月16日 | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | 全員       |
 
 ### 廣告代言
 

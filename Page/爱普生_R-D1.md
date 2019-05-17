@@ -1,5 +1,5 @@
 **爱普生
-R-D1**是一台旁轴相机，由[精工爱普生公司在](../Page/精工爱普生.md "wikilink")2004年推出。其是世界上第一台装配数码成像传感器的[旁轴取景相机](../Page/旁轴相机.md "wikilink")。
+R-D1**是一台旁轴相机，由[精工爱普生公司在](https://zh.wikipedia.org/wiki/精工爱普生 "wikilink")2004年推出。其是世界上第一台装配数码成像传感器的[旁轴取景相机](https://zh.wikipedia.org/wiki/旁轴相机 "wikilink")。
 
 爱普生公司在之后的2006年、2007年和2009年，分别推出了作为后续改良机型的**R-D1s**、**R-D1s**与**R-D1xG**。系列中最新的R-D1xG，也在2014年宣告停产\[1\]，且并没有再推出后续机型。
 
@@ -7,14 +7,14 @@ R-D1**是一台旁轴相机，由[精工爱普生公司在](../Page/精工爱普
 
 21世纪初，许多采用CCD或CMOS传感器作为成像单元的单镜头反光照相机出现，**数码单反**逐渐成熟；而作为一大类的旁轴相机的数码化进程相对较为缓慢。
 
-R-D1在2004年问世，是世界上第一台数码旁轴相机，由[精工爱普生](../Page/精工爱普生.md "wikilink")(Seiko
-Epson)与[确善能](../Page/确善能.md "wikilink")(Cosina)联合开发制造，其中后者也运营[福伦达](../Page/福伦达.md "wikilink")(Voigtländer)系列相机产品。R-D1使用徕卡M兼容接口，同时也支持使用转接环支持较早的L型螺口镜头；机身很可能是借鉴了福伦达的Bessa相机。命名中，**R**代表了旁轴的Range
+R-D1在2004年问世，是世界上第一台数码旁轴相机，由[精工爱普生](https://zh.wikipedia.org/wiki/精工爱普生 "wikilink")(Seiko
+Epson)与[确善能](https://zh.wikipedia.org/wiki/确善能 "wikilink")(Cosina)联合开发制造，其中后者也运营[福伦达](../Page/福伦达.md "wikilink")(Voigtländer)系列相机产品。R-D1使用徕卡M兼容接口，同时也支持使用转接环支持较早的L型螺口镜头；机身很可能是借鉴了福伦达的Bessa相机。命名中，**R**代表了旁轴的Range
 Finder，而**D**为Digital Camera（数码相机）的打头字母。
 
 R-D1的设计中使用了仪表来显示参数，而不是选择像同时代的数码相机一样用数显方式呈现；另外一方面，也保留了在数码摄影中没有意义的过片扳手，使得操作上趋向旧式旁轴相机。
 
 以M系列旁轴相机驰名的徕卡公司，也在2006年末，推出了自己的数码旁轴相机产品——[Leica
-M8](../Page/Leica_M8.md "wikilink")。
+M8](https://zh.wikipedia.org/wiki/Leica_M8 "wikilink")。
 
 R-D1由于其里程碑的意义，获得了2005日本相机特别奖（カメラグランプリ 2005 特別賞）\[2\]。
 
@@ -36,10 +36,11 @@ D**,
 
   -   - JPEG+RAW模式
       - 快速浏览功能
-      - [Adobe RGB模式](../Page/Adobe_RGB.md "wikilink")
+      - [Adobe
+        RGB模式](https://zh.wikipedia.org/wiki/Adobe_RGB "wikilink")
       - 长时间曝光降噪
 
-R-D1的用户也可以通过[固件升级的方式获得相同的功能](../Page/固件.md "wikilink")。
+R-D1的用户也可以通过[固件升级的方式获得相同的功能](https://zh.wikipedia.org/wiki/固件 "wikilink")。
 
   - **R-D1x**与**R-D1xG**
 
@@ -53,8 +54,9 @@ Epson_R-D1s_IMG_2940.jpg
 
 ## 参见
 
-  - [旁轴相机](../Page/旁轴相机.md "wikilink")
-      - [Leica M8](../Page/Leica_M8.md "wikilink") 徕卡公司稍迟推出的数码旁轴相机
+  - [旁轴相机](https://zh.wikipedia.org/wiki/旁轴相机 "wikilink")
+      - [Leica M8](https://zh.wikipedia.org/wiki/Leica_M8 "wikilink")
+        徕卡公司稍迟推出的数码旁轴相机
 
 ## 外部链接
 

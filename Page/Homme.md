@@ -1,17 +1,17 @@
-**Homme**（）是[韓國](../Page/韓國.md "wikilink")[男子團體](../Page/男子團體.md "wikilink")，由[李昶旻](../Page/李昶旻.md "wikilink")、[李賢所組成](../Page/李賢_\(韓國歌手\).md "wikilink")，於2010年7月28日透過首張單曲《밥만
+**Homme**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，由[李昶旻](../Page/李昶旻.md "wikilink")、[李賢所組成](../Page/李賢_\(韓國歌手\).md "wikilink")，於2010年7月28日透過首張單曲《밥만
 잘 먹더라》 出道\[1\]。隸屬[Big Hit娛樂經紀公司旗下](../Page/Big_Hit娛樂.md "wikilink")，為Big
-Hit娛樂創辦人與音樂製作人[房時爀於](../Page/房時爀.md "wikilink")2010年推出的限定企劃團體，之後成為常態活動的團體。
+Hit娛樂創辦人與音樂製作人[房時爀於](https://zh.wikipedia.org/wiki/房時爀 "wikilink")2010年推出的限定企劃團體，之後成為常態活動的團體。
 
 ## 經歷
 
 Homme是[Big
 Hit娛樂創辦人與音樂製作人房時爀於](../Page/Big_Hit娛樂.md "wikilink")2010年推出的限定企劃團體，由當時仍分屬兩個團體的[2AM](../Page/2AM.md "wikilink")[李昶旻和](../Page/李昶旻.md "wikilink")[8Eight](../Page/8Eight.md "wikilink")[李賢組成](../Page/李賢_\(韓國歌手\).md "wikilink")。2010年7月28日推出首張數位單曲《밥만
 잘
-먹더라》，宣告出道。[2AM與](../Page/2AM.md "wikilink")[2PM等人也紛紛轉發Big](../Page/2PM.md "wikilink")
+먹더라》，宣告出道。[2AM與](../Page/2AM.md "wikilink")[2PM等人也紛紛轉發Big](https://zh.wikipedia.org/wiki/2PM "wikilink")
 Hit娛樂官方推特發佈的Homme出道消息，獻上祝賀與支持。
 
 《밥만 잘
-먹더라》這首歌曲獲得韓國[Gaon排行榜](../Page/Gaon_Chart.md "wikilink")2010年手機鈴聲銷量亞軍\[2\]，更因其正向的歌詞內容而獲得韓國青少年保護委員會的關注\[3\]。
+먹더라》這首歌曲獲得韓國[Gaon排行榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2010年手機鈴聲銷量亞軍\[2\]，更因其正向的歌詞內容而獲得韓國青少年保護委員會的關注\[3\]。
 
 ## 成員列表
 
@@ -181,22 +181,22 @@ Hit娛樂官方推特發佈的Homme出道消息，獻上祝賀與支持。
 
 ### 單獨演唱會
 
-| 年份     | 日期                                | 演唱會名稱                                        | 舉行地點                                          |
-| ------ | --------------------------------- | -------------------------------------------- | --------------------------------------------- |
-| 2014年  | 12月23日                            | Homme演唱會《옴므가 팜므를 만났을 때》                      | 韓國[世宗大學大洋廳](../Page/世宗大學.md "wikilink")       |
-| 12月24日 |                                   |                                              |                                               |
-| 2015年  | 7月23日                             | 夏日羅曼蒂克演唱會                                    | 韓國[新世界百貨公司九樓文化廳](../Page/新世界百貨.md "wikilink") |
-| 8月30日  | Homme 兩個男人的夏日故事                   | 韓國[樂天百貨公司光復店文化廳](../Page/樂天百貨.md "wikilink") |                                               |
-| 10月9日  | 2015 Homme小劇場演唱會《HOMMEXIT》        | 韓國백암아트홀                                      |                                               |
-| 10月10日 |                                   |                                              |                                               |
-| 10月11日 |                                   |                                              |                                               |
-| 2016年  | 3月12日                             | 2016 Homme白色情人節演唱會《The Homme’s Love》         | 韓國[延世大學禮堂](../Page/延世大學.md "wikilink")        |
-| 3月18日  | D-CUBE CITY 初春 Homme演唱會           | 韓國D-CUBE CITY露天廣場                            |                                               |
-| 5月29日  | HOMME 2016 First Concert in JAPAN | 日本東京涉谷區Mt.RAINIER HALL                       |                                               |
-| 12月24日 | Homme聖誕節演唱會《致探險聖誕節的情侶們的指南》        | 韓國首爾松浦區奧林匹克公園K-ART Hall                      |                                               |
-| 12月25日 |                                   |                                              |                                               |
-| 2017年  | 3月11日                             | Homme白色情人節演唱會《致探險白色情人節的情侶們的指南》               | 韓國MUV HALL                                    |
-| 3月12日  |                                   |                                              |                                               |
+| 年份     | 日期                                | 演唱會名稱                                        | 舉行地點                                                             |
+| ------ | --------------------------------- | -------------------------------------------- | ---------------------------------------------------------------- |
+| 2014年  | 12月23日                            | Homme演唱會《옴므가 팜므를 만났을 때》                      | 韓國[世宗大學大洋廳](../Page/世宗大學.md "wikilink")                          |
+| 12月24日 |                                   |                                              |                                                                  |
+| 2015年  | 7月23日                             | 夏日羅曼蒂克演唱會                                    | 韓國[新世界百貨公司九樓文化廳](https://zh.wikipedia.org/wiki/新世界百貨 "wikilink") |
+| 8月30日  | Homme 兩個男人的夏日故事                   | 韓國[樂天百貨公司光復店文化廳](../Page/樂天百貨.md "wikilink") |                                                                  |
+| 10月9日  | 2015 Homme小劇場演唱會《HOMMEXIT》        | 韓國백암아트홀                                      |                                                                  |
+| 10月10日 |                                   |                                              |                                                                  |
+| 10月11日 |                                   |                                              |                                                                  |
+| 2016年  | 3月12日                             | 2016 Homme白色情人節演唱會《The Homme’s Love》         | 韓國[延世大學禮堂](../Page/延世大學.md "wikilink")                           |
+| 3月18日  | D-CUBE CITY 初春 Homme演唱會           | 韓國D-CUBE CITY露天廣場                            |                                                                  |
+| 5月29日  | HOMME 2016 First Concert in JAPAN | 日本東京涉谷區Mt.RAINIER HALL                       |                                                                  |
+| 12月24日 | Homme聖誕節演唱會《致探險聖誕節的情侶們的指南》        | 韓國首爾松浦區奧林匹克公園K-ART Hall                      |                                                                  |
+| 12月25日 |                                   |                                              |                                                                  |
+| 2017年  | 3月11日                             | Homme白色情人節演唱會《致探險白色情人節的情侶們的指南》               | 韓國MUV HALL                                                       |
+| 3月12日  |                                   |                                              |                                                                  |
 
 ### Showcase
 
@@ -258,9 +258,9 @@ Hit娛樂官方推特發佈的Homme出道消息，獻上祝賀與支持。
 
 ### 音樂節目獎項
 
-| 年份    | 日期   | 電視台                              | 節目名稱                               | 獲獎歌曲     | 排名 |
-| ----- | ---- | -------------------------------- | ---------------------------------- | -------- | -- |
-| 2010年 | 9月3日 | [KBS](../Page/KBS.md "wikilink") | [音樂銀行](../Page/音樂銀行.md "wikilink") | 밥만 잘 먹더라 | 1位 |
+| 年份    | 日期   | 電視台                                                 | 節目名稱                                                  | 獲獎歌曲     | 排名 |
+| ----- | ---- | --------------------------------------------------- | ----------------------------------------------------- | -------- | -- |
+| 2010年 | 9月3日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink") | 밥만 잘 먹더라 | 1位 |
 
 #### 主要音樂節目榜單排名
 
@@ -278,19 +278,19 @@ Hit娛樂官方推特發佈的Homme出道消息，獻上祝賀與支持。
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/只要好好吃飯.md" title="wikilink">只要好好吃飯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/只要好好吃飯" title="wikilink">只要好好吃飯</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/男人應該笑.md" title="wikilink">男人應該笑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/男人應該笑" title="wikilink">男人應該笑</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Pour_les_femmes.md" title="wikilink">Pour les femmes</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pour_les_femmes" title="wikilink">Pour les femmes</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>

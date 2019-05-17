@@ -24,15 +24,15 @@ Close To You\!\!音樂會》2CDs。
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>近</p></td>
-<td><p><a href="../Page/David_Hal.md" title="wikilink">David Hal</a> / <a href="../Page/Burt_F_Bacharach.md" title="wikilink">Burt F Bacharach</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/David_Hal" title="wikilink">David Hal</a> / <a href="https://zh.wikipedia.org/wiki/Burt_F_Bacharach" title="wikilink">Burt F Bacharach</a></p></td>
 <td><p><a href="../Page/周耀輝.md" title="wikilink">周耀輝</a></p></td>
-<td><p><a href="../Page/Adam_Lee.md" title="wikilink">Adam Lee</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adam_Lee" title="wikilink">Adam Lee</a></p></td>
 <td><p><a href="../Page/陳永明.md" title="wikilink">陳永明</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>世界請看著我</p></td>
-<td><p><a href="../Page/莫家恆.md" title="wikilink">莫家恆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莫家恆" title="wikilink">莫家恆</a></p></td>
 <td><p>周耀輝</p></td>
 <td><p>莫家恆</p></td>
 <td><p>陳永明</p></td>
@@ -57,7 +57,7 @@ Close To You\!\!音樂會》2CDs。
 <tr class="odd">
 <td><p>5.</p></td>
 <td><p>送我一個家</p></td>
-<td><p><a href="../Page/Edmond_Tsang.md" title="wikilink">Edmond Tsang</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edmond_Tsang" title="wikilink">Edmond Tsang</a></p></td>
 <td><p>周耀輝</p></td>
 <td><p>Adam Lee</p></td>
 <td><p>陳永明</p></td>
@@ -65,8 +65,8 @@ Close To You\!\!音樂會》2CDs。
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>純情有罪</p></td>
-<td><p><a href="../Page/蔡志浩.md" title="wikilink">蔡志浩</a></p></td>
-<td><p><a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡志浩" title="wikilink">蔡志浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td><p>Adam Lee</p></td>
 <td><p>陳永明</p></td>
 </tr>
@@ -81,7 +81,7 @@ Close To You\!\!音樂會》2CDs。
 <tr class="even">
 <td><p>8.</p></td>
 <td><p>無心戀唱</p></td>
-<td><p><a href="../Page/楊振邦.md" title="wikilink">楊振邦</a>@宇宙大爆炸</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊振邦" title="wikilink">楊振邦</a>@宇宙大爆炸</p></td>
 <td><p>周耀輝 / <a href="../Page/楊熙_(填詞人).md" title="wikilink">楊熙</a></p></td>
 <td><p>Adam Lee / 楊鎮邦</p></td>
 <td><p>陳永明</p></td>
@@ -89,7 +89,7 @@ Close To You\!\!音樂會》2CDs。
 <tr class="odd">
 <td><p>9.</p></td>
 <td><p>通宵店的鏡</p></td>
-<td><p><a href="../Page/武嘉悅.md" title="wikilink">武嘉悅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/武嘉悅" title="wikilink">武嘉悅</a></p></td>
 <td><p>周耀輝</p></td>
 <td><p>Adam Lee</p></td>
 <td><p>陳永明</p></td>
@@ -151,8 +151,8 @@ Close To You\!\!音樂會》2CDs。
 4.  我懷念的
 5.  笑忘書
 6.  願
-7.  愛在記憶中找你（[泳兒](../Page/泳兒.md "wikilink")、[林峯合唱](../Page/林峯.md "wikilink")）
-8.  赤地轉機（[林峯主唱](../Page/林峯.md "wikilink")）
+7.  愛在記憶中找你（[泳兒](../Page/泳兒.md "wikilink")、[林峯合唱](https://zh.wikipedia.org/wiki/林峯 "wikilink")）
+8.  赤地轉機（[林峯主唱](https://zh.wikipedia.org/wiki/林峯 "wikilink")）
 9.  講不出聲
 10. 中國話
 11. 黛玉笑了

@@ -1,5 +1,5 @@
 **BMW 7系列
-(G11)**是[德國汽車企業](../Page/德國.md "wikilink")[BMW旗下車型](../Page/BMW.md "wikilink")[BMW
+(G11)**是[德國汽車企業](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW旗下車型](../Page/BMW.md "wikilink")[BMW
 7系列的最新車款](../Page/BMW_7系列.md "wikilink")，繼承2008年至2015年期間生產的[BMW
 F01](../Page/BMW_7系列_\(F01\).md "wikilink")。G11是BMW7系列的第六代車型，在2015年法蘭克福車展上正式登場。BMW
 7系列在2015年7月開始在德國生產\[1\]，並且在同年10月開始在世界上市銷售\[2\]。

@@ -1,16 +1,16 @@
-**massstar**（）是[韓國的](../Page/韓國.md "wikilink")[女性](../Page/女性.md "wikilink")[Webtoon創作者](../Page/Webtoon.md "wikilink")。主要風格為[浪漫](../Page/浪漫.md "wikilink")、[科幻](../Page/科幻.md "wikilink")，代表作為《[觸不可及](../Page/觸不可及_\(漫畫\).md "wikilink")》。
+**massstar**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女性](../Page/女性.md "wikilink")[Webtoon創作者](../Page/Webtoon.md "wikilink")。主要風格為[浪漫](https://zh.wikipedia.org/wiki/浪漫 "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")，代表作為《[觸不可及](../Page/觸不可及_\(漫畫\).md "wikilink")》。
 
 ## 簡歷
 
-從小就喜歡畫[漫畫](../Page/漫畫.md "wikilink")，[小学時期起就有成為漫畫家的念頭](../Page/小学.md "wikilink")，可是由於「漫畫家無法養活自己」的想法在[韓國非常普遍](../Page/大韩民国.md "wikilink")，令她猶豫了一段時間。
-後來在大學時想到人生只有一次，應盡情嘗試做自己喜歡的事，於是挑戰[NAVER舉辦的漫畫](../Page/NAVER.md "wikilink")[比賽](../Page/競賽.md "wikilink")，有幸獲得出道的機會。\[1\]
+從小就喜歡畫[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，[小学時期起就有成為漫畫家的念頭](../Page/小学.md "wikilink")，可是由於「漫畫家無法養活自己」的想法在[韓國非常普遍](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，令她猶豫了一段時間。
+後來在大學時想到人生只有一次，應盡情嘗試做自己喜歡的事，於是挑戰[NAVER舉辦的漫畫](../Page/NAVER.md "wikilink")[比賽](https://zh.wikipedia.org/wiki/競賽 "wikilink")，有幸獲得出道的機會。\[1\]
 
 2014年2月至今，《觸不可及》於NAVER
-[Webtoon上連載](../Page/Webtoon.md "wikilink")。同年7月至今，中文及英文[翻譯版本的](../Page/翻譯.md "wikilink")《觸不可及》於LINE
+[Webtoon上連載](../Page/Webtoon.md "wikilink")。同年7月至今，中文及英文[翻譯版本的](https://zh.wikipedia.org/wiki/翻譯 "wikilink")《觸不可及》於LINE
 Webtoon上連載。
 
-2015年2月，massstar與另一名漫畫家[吳城垈一同出席](../Page/吳城垈.md "wikilink")[台北國際動漫節](../Page/台北國際動漫節.md "wikilink")，於「LINE
-Webtoon每日漫畫」[攤位舉行](../Page/攤位.md "wikilink")[签名會](../Page/签名.md "wikilink")\[2\]\[3\]\[4\]。
+2015年2月，massstar與另一名漫畫家[吳城垈一同出席](../Page/吳城垈.md "wikilink")[台北國際動漫節](https://zh.wikipedia.org/wiki/台北國際動漫節 "wikilink")，於「LINE
+Webtoon每日漫畫」[攤位舉行](https://zh.wikipedia.org/wiki/攤位 "wikilink")[签名會](../Page/签名.md "wikilink")\[2\]\[3\]\[4\]。
 
 ## 作品一覽
 

@@ -1,4 +1,4 @@
-《**PRIMAL×HEARTS2**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2015年10月30日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，[PRIMAL×HEARTS的續作](../Page/PRIMAL×HEARTS.md "wikilink")。故事的時間點是在前作的6年之後，主要的場景也還是間之島學園。
+《**PRIMAL×HEARTS2**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2015年10月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，[PRIMAL×HEARTS的續作](../Page/PRIMAL×HEARTS.md "wikilink")。故事的時間點是在前作的6年之後，主要的場景也還是間之島學園。
 
 ## 故事
 
@@ -44,7 +44,7 @@
   - OP『smile again』\[3\]
     作詞：天ヶ咲麗　作曲/編曲：橋咲透　歌：[Ceui](../Page/Ceui.md "wikilink")
   - 愛莉絲緹雅ED『live forever』
-    作詞：天ヶ咲麗　作曲：iyuna　編曲：橋咲透　歌：[霜月はるか](../Page/霜月はるか.md "wikilink")
+    作詞：天ヶ咲麗　作曲：iyuna　編曲：橋咲透　歌：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")
   - 兎姫ED『step into my world』
     作詞：天ヶ咲麗　作曲/編曲：伊吹ユキヒロ　歌：nao
   - 真白ED『snow white syndrome』
@@ -72,7 +72,7 @@
 
 ## 評價
 
-PRIMAL×HEARTS2在Getchu.com舉辦的美少女遊戲大賞中獲得綜合部門第12名\[6\]、繪圖部門第4名\[7\]、影片部門第9名\[8\]、角色部門**愛莉絲緹雅·瓦倫貝利·華蔵寺**第7名和**月夜野兎姫**第16名\[9\]、エロ部門第4名。\[10\]另外在由[萌えゲーアワード舉辦的](../Page/萌えゲーアワード.md "wikilink")2015年排名中獲得第23名\[11\]和2015年10月的月間賞第4名\[12\]以及獲得2015年度エロス系作品賞PINK的金賞。\[13\]
+PRIMAL×HEARTS2在Getchu.com舉辦的美少女遊戲大賞中獲得綜合部門第12名\[6\]、繪圖部門第4名\[7\]、影片部門第9名\[8\]、角色部門**愛莉絲緹雅·瓦倫貝利·華蔵寺**第7名和**月夜野兎姫**第16名\[9\]、エロ部門第4名。\[10\]另外在由[萌えゲーアワード舉辦的](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2015年排名中獲得第23名\[11\]和2015年10月的月間賞第4名\[12\]以及獲得2015年度エロス系作品賞PINK的金賞。\[13\]
 
 ## 參考來源
 
@@ -106,7 +106,7 @@ PRIMAL×HEARTS2在Getchu.com舉辦的美少女遊戲大賞中獲得綜合部門�
     －キャラクター部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/chara.html)Getchu.com
 10. [美少女ゲーム大賞2015
     －エロ部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/eros.html)Getchu.com
-11. [2015年間ランキング](http://moe-gameaward.com/annual/2015.html)[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")
+11. [2015年間ランキング](http://moe-gameaward.com/annual/2015.html)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")
 12. [2015年10月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2015&month_id=10)萌えゲーアワード
 13. [萌えゲーアワード 2015年度
     受賞作品一覧](http://moe-gameaward.com/prize/2015/pink.html#p03)萌えゲーアワード

@@ -1,12 +1,12 @@
-**Tengine**是一個由[淘寶從](../Page/淘寶.md "wikilink")[Nginx](../Page/Nginx.md "wikilink")[複刻出來的](../Page/复刻_\(软件工程\).md "wikilink")[HTTP伺服器](../Page/HTTP伺服器.md "wikilink")\[1\]，現時版本為2.2.2\[2\]。Tengine對Nginx的修改版本是於2011年12月開始釋放出來成为开源项目\[3\]，两者配置兼容\[4\]。Tengine雖然從Nginx復刻出來，但不斷從Nginx继承其更新，所以目前的版本兼容Nginx最新版1.8.1的所有特性，亦有[HTTP2模块同步于Nginx](../Page/HTTP/2.md "wikilink")
+**Tengine**是一個由[淘寶從](https://zh.wikipedia.org/wiki/淘寶 "wikilink")[Nginx](../Page/Nginx.md "wikilink")[複刻出來的](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")[HTTP伺服器](https://zh.wikipedia.org/wiki/HTTP伺服器 "wikilink")\[1\]，現時版本為2.2.2\[2\]。Tengine對Nginx的修改版本是於2011年12月開始釋放出來成为开源项目\[3\]，两者配置兼容\[4\]。Tengine雖然從Nginx復刻出來，但不斷從Nginx继承其更新，所以目前的版本兼容Nginx最新版1.8.1的所有特性，亦有[HTTP2模块同步于Nginx](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")
 1.11.6\[5\]。相比於Nginx目前佔整個HTTP伺服器市場接近四成的巨量，目前Tengine的市場佔有率只有0.2%\[6\]。
 
 ## 與Nginx的差異
 
 淘寶的Tengine從原來的Nginx添加了下列各項內容\[7\]：
 
-  - 透過對上传到HTTP后端服务器或FastCGI服务器的請求整流，以及透過增加一致性hash模块、会话保持模块，加上對伺服器的主动健康检查，根据服务器状态而自动加添或減少服务器的[实例](../Page/实例.md "wikilink")，大量减少對服务器机器的I/O压力，大大增強其负载均衡能力；
-  - 支援[动态模块加载](../Page/动态模块加载.md "wikilink")（DSO）支持，透過把模塊編譯成為可共享程式庫，令伺服器增添模块後無需再把整個伺服器程式重新编译\[8\]；
+  - 透過對上传到HTTP后端服务器或FastCGI服务器的請求整流，以及透過增加一致性hash模块、会话保持模块，加上對伺服器的主动健康检查，根据服务器状态而自动加添或減少服务器的[实例](https://zh.wikipedia.org/wiki/实例 "wikilink")，大量减少對服务器机器的I/O压力，大大增強其负载均衡能力；
+  - 支援[动态模块加载](https://zh.wikipedia.org/wiki/动态模块加载 "wikilink")（DSO）支持，透過把模塊編譯成為可共享程式庫，令伺服器增添模块後無需再把整個伺服器程式重新编译\[8\]；
   - 受到[Apache HTTP
     Server的](../Page/Apache_HTTP_Server.md "wikilink")*modconcat*功能啟導的CONCAT模塊，可组合多个CSS、JavaScript文件的访问请求变成一个请求\[9\]，以減少數據流量及提高壓縮比；
   - 輸入過濾器主體，以更方便地管理在防火牆和事件到HTTP級別之間的連接。
@@ -16,9 +16,9 @@
 
 ## 主要使用者
 
-  - [淘寶網](../Page/淘寶網.md "wikilink")，2018年4月在[Alexa排名全球第](../Page/Alexa.md "wikilink")10位、中國第3位\[10\]；
-  - [全球速賣通](../Page/全球速賣通.md "wikilink")（[Aliexpress.com](../Page/Aliexpress.com.md "wikilink")），2018年4月在Alexa排名第52位、俄羅斯第10位\[11\]。
-  - [華文詞源百科網站](../Page/華文詞源百科.md "wikilink")
+  - [淘寶網](https://zh.wikipedia.org/wiki/淘寶網 "wikilink")，2018年4月在[Alexa排名全球第](https://zh.wikipedia.org/wiki/Alexa "wikilink")10位、中國第3位\[10\]；
+  - [全球速賣通](https://zh.wikipedia.org/wiki/全球速賣通 "wikilink")（[Aliexpress.com](https://zh.wikipedia.org/wiki/Aliexpress.com "wikilink")），2018年4月在Alexa排名第52位、俄羅斯第10位\[11\]。
+  - [華文詞源百科網站](https://zh.wikipedia.org/wiki/華文詞源百科 "wikilink")
   - [Bilibili彈幕網站](../Page/Bilibili.md "wikilink")
 
 ## 參考文獻
@@ -27,7 +27,8 @@
 
   -
   -
-  - [Launchpad](../Page/Launchpad.md "wikilink")：[Tengine Web
+  - [Launchpad](https://zh.wikipedia.org/wiki/Launchpad "wikilink")：[Tengine
+    Web
     Server](https://launchpad.net/~brightbox/+archive/ubuntu/tengine)
 
 [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")

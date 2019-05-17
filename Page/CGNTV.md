@@ -1,5 +1,5 @@
 **CGNTV**，全称为“**Christian Global Network
-Television**（基督教全球电视网）”，是[韩国的一家](../Page/韩国.md "wikilink")[基督教](../Page/基督教.md "wikilink")[电视台](../Page/电视台.md "wikilink")，由韩国创立\[1\]，通过[有线电视](../Page/有线电视.md "wikilink")、[卫星电视和](../Page/卫星电视.md "wikilink")[网络电视并使用](../Page/网络电视.md "wikilink")[韩语](../Page/韩语.md "wikilink")、[日语和](../Page/日语.md "wikilink")[汉语向全球播出](../Page/汉语.md "wikilink")。
+Television**（基督教全球电视网）”，是[韩国的一家](https://zh.wikipedia.org/wiki/韩国 "wikilink")[基督教](../Page/基督教.md "wikilink")[电视台](../Page/电视台.md "wikilink")，由韩国创立\[1\]，通过[有线电视](../Page/有线电视.md "wikilink")、[卫星电视和](../Page/卫星电视.md "wikilink")[网络电视并使用](../Page/网络电视.md "wikilink")[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")、[日语和](../Page/日语.md "wikilink")[汉语向全球播出](../Page/汉语.md "wikilink")。
 
 ## 概况
 

@@ -1,20 +1,20 @@
 《**我的Mr.
-Right**》（），是一部於[2015年上映的愛情喜劇電影](../Page/2015年電影列表.md "wikilink")。由[林美秀](../Page/林美秀_\(演員\).md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[陳為民](../Page/陳為民.md "wikilink")、[王睿](../Page/王睿.md "wikilink")、[謝麗萍](../Page/謝麗萍.md "wikilink")、[陳佑軒領銜主演](../Page/陳佑軒.md "wikilink")。[台灣於](../Page/台灣.md "wikilink")2015年3月6日上映。\[1\]
+Right**》（），是一部於[2015年上映的愛情喜劇電影](https://zh.wikipedia.org/wiki/2015年電影列表 "wikilink")。由[林美秀](../Page/林美秀_\(演員\).md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[陳為民](../Page/陳為民.md "wikilink")、[王睿](https://zh.wikipedia.org/wiki/王睿 "wikilink")、[謝麗萍](https://zh.wikipedia.org/wiki/謝麗萍 "wikilink")、[陳佑軒領銜主演](https://zh.wikipedia.org/wiki/陳佑軒 "wikilink")。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2015年3月6日上映。\[1\]
 
 ## 演員陣容
 
-|                                           |          |        |
-| ----------------------------------------- | -------- | ------ |
-| **演員姓名**                                  | **角色名稱** | **介紹** |
-| [林美秀](../Page/林美秀_\(演員\).md "wikilink")   | 秀美       |        |
-| [庹宗華](../Page/庹宗華.md "wikilink")          | 世傑       |        |
-| [王睿](../Page/王睿_\(演員\).md "wikilink")     | 王浩       |        |
-| [蘇暢](../Page/蘇暢.md "wikilink")            | 蘇小寧      |        |
-| [陳為民](../Page/陳為民.md "wikilink")          | 周英俊      |        |
-| [謝麗萍](../Page/謝麗萍.md "wikilink")          | Anna     |        |
-| [陳佑軒](../Page/陳佑軒.md "wikilink")          | Wilson   |        |
-| [陳慧敏](../Page/陳慧敏_\(馬來西亞\).md "wikilink") | Nancy    |        |
-|                                           |          |        |
+|                                                              |          |        |
+| ------------------------------------------------------------ | -------- | ------ |
+| **演員姓名**                                                     | **角色名稱** | **介紹** |
+| [林美秀](../Page/林美秀_\(演員\).md "wikilink")                      | 秀美       |        |
+| [庹宗華](../Page/庹宗華.md "wikilink")                             | 世傑       |        |
+| [王睿](https://zh.wikipedia.org/wiki/王睿_\(演員\) "wikilink")     | 王浩       |        |
+| [蘇暢](https://zh.wikipedia.org/wiki/蘇暢 "wikilink")            | 蘇小寧      |        |
+| [陳為民](../Page/陳為民.md "wikilink")                             | 周英俊      |        |
+| [謝麗萍](https://zh.wikipedia.org/wiki/謝麗萍 "wikilink")          | Anna     |        |
+| [陳佑軒](https://zh.wikipedia.org/wiki/陳佑軒 "wikilink")          | Wilson   |        |
+| [陳慧敏](https://zh.wikipedia.org/wiki/陳慧敏_\(馬來西亞\) "wikilink") | Nancy    |        |
+|                                                              |          |        |
 
 ## 電影歌曲
 
@@ -31,8 +31,8 @@ Right**》（），是一部於[2015年上映的愛情喜劇電影](../Page/2015
   - 監製：陳劍
   - 聯合監製：霍少威、拿督斯里、鄭水興、黃慶輝、林清炎
   - 製片人：許鈞
-  - 導演：[周學立Yoko](../Page/周學立.md "wikilink") Chou
-  - 編劇：[周學立Yoko](../Page/周學立.md "wikilink") Chou
+  - 導演：[周學立Yoko](https://zh.wikipedia.org/wiki/周學立 "wikilink") Chou
+  - 編劇：[周學立Yoko](https://zh.wikipedia.org/wiki/周學立 "wikilink") Chou
   - 副導：王一帆、李悟
   - 聯合編劇：李悟、許鈞
   - 製作公司：Shining Production Sdn. Bhd. / 華映娛樂

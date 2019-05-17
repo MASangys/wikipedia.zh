@@ -43,16 +43,18 @@ y Oficinas"建筑设计竞赛一等奖\[2\] , 并承接了隶属于2008世界博
     长沙*，刊登于《超越21》,中国，2014年2月[article](http://www.rrcstudio.com/immagininews-press/pdf/beyond)
   - Archea, *现代的道路*,于""第125期,2012年11月/12月
   - Massimo Frontera, *米兰, 黑色办公楼*,于 "[Il Sole 24
-    Ore](../Page/Il_Sole_24_Ore.md "wikilink")" - Progetti e Concorsi",
-    2012年7月
+    Ore](https://zh.wikipedia.org/wiki/Il_Sole_24_Ore "wikilink")" -
+    Progetti e Concorsi", 2012年7月
     [article](http://www.rrcstudio.com/immagininews-press/pdf/P&Cforcella.pdf)
   - Paola Pierotti, *Berlingo中学, RRC studio 赢得了竞标...*, 刊登于 "[Il Sole 24
-    Ore](../Page/Il_Sole_24_Ore.md "wikilink")" – 项目和竞标,2012年6月
+    Ore](https://zh.wikipedia.org/wiki/Il_Sole_24_Ore "wikilink")" –
+    项目和竞标,2012年6月
     [article](http://www.ediliziaeterritorio.ilsole24ore.com/art/progetti-e-concorsi/2012-06-14/scuola-berlingo-vince-concorso-144314.php?uuid=AbBxQHsF)
   - EDA CL, *访问 Romolo Calabrese*
     [article](https://web.archive.org/web/20131006074140/http://www.estudiantesdearquitectura.cl/2012/03/eda-entrevista-rrc-studio-espanolenglish/)
   - Stella Armando, *绿色艺术, 就这样改变中国城*， 刊登于 "[Corriere della
-    Sera](../Page/Corriere_della_Sera.md "wikilink")" , 2009年6月8日
+    Sera](https://zh.wikipedia.org/wiki/Corriere_della_Sera "wikilink")"
+    , 2009年6月8日
     [article](http://archiviostorico.corriere.it/2009/giugno/08/Arte_verde_Cosi_cambia_Chinatown_co_7_090608013.shtml)
   - *RIZOMA 地上/地下. 意大利青年建筑师双年展*, Maschietto Editore e Tagete
     Edizioni,意大利，2008年
@@ -77,14 +79,15 @@ y Oficinas"建筑设计竞赛一等奖\[2\] , 并承接了隶属于2008世界博
   - ''意大利在萨拉戈萨的建设2008世界博览会 '', 刊登于 《Tribuna Economica 》,22年 第一期, 2008年1月
     [article](http://www.rrcstudio.com/etribuna.pdf)
   - ''意大利青年建筑师在海外的设计及作品 '', 刊登于"[Il Sole 24
-    Ore](../Page/Il_Sole_24_Ore.md "wikilink")", 2008年1月
+    Ore](https://zh.wikipedia.org/wiki/Il_Sole_24_Ore "wikilink")",
+    2008年1月
     [article](http://www.ilsole24ore.com/art/SoleOnLine4/Italia/2008/01/architetti-italiani.shtml)
   - Paola Pierotti, ''萨拉戈萨,为世博会为建的意大利的塔楼 '', 刊登于 "[Il Sole 24
-    Ore](../Page/Il_Sole_24_Ore.md "wikilink")", 2007年11月
-    [article](http://www.rrcstudio.com/sole.pdf)
+    Ore](https://zh.wikipedia.org/wiki/Il_Sole_24_Ore "wikilink")",
+    2007年11月 [article](http://www.rrcstudio.com/sole.pdf)
   - Carmen Martínez Alfonso, *Más de 1.800 pisos del barrio del AVE
     tendrán propietario y diseño este año*, 刊登于 "[El Periódico de
-    Aragón](../Page/El_Periódico_de_Aragón.md "wikilink")",
+    Aragón](https://zh.wikipedia.org/wiki/El_Periódico_de_Aragón "wikilink")",
     2007年7月31日第8页
     [article](http://www.elperiodicodearagon.com/noticias/aragon/mas-de-1-800-pisos-del-barrio-del-ave-tendran-propietario-y-diseno-este-ano_340241.html)
   - M. LLorente, *Zaragoza Alta Velocidad ha elegido también el proyecto

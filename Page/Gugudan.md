@@ -1,5 +1,5 @@
 **gugudan**（）是[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2016年推出的九人女子團體，出道時成員包括美美、HANA、、
-[娜英](../Page/娜英.md "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](../Page/劉些寧.md "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear
+[娜英](https://zh.wikipedia.org/wiki/娜英 "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](https://zh.wikipedia.org/wiki/劉些寧 "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear
 Friend)。 2016年6月28日推出首張迷你專輯《Act.1 The Little
 Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂發布](../Page/Jellyfish娛樂.md "wikilink")因健康和學業原因暫時停止活動，但不離開[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")，故此因gugudan日後將以八人女子團體繼續活動\[1\]。
 
@@ -7,7 +7,7 @@ Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂發布]
 
 ### 出道前
 
-2013年11月，美美以FNC練習生的身份參演[tvN真人實境秀節目](../Page/tvN.md "wikilink")《[清潭洞111](../Page/清潭洞111.md "wikilink")》，展現FNC練習生生活，並在節目中演出[FTIsland](../Page/FTIsland.md "wikilink")《Madly》MV。2015年5月，美美參演[KBS金土連續劇](../Page/KBS金土連續劇.md "wikilink")《[製作人的那些事](../Page/製作人的那些事.md "wikilink")》。2015年12月，娜英、世正、美娜三人以Jellyfish練習生的身分參與了由[Mnet所企劃的出道競爭節目](../Page/Mnet.md "wikilink")《[PRODUCE
+2013年11月，美美以FNC練習生的身份參演[tvN真人實境秀節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《[清潭洞111](../Page/清潭洞111.md "wikilink")》，展現FNC練習生生活，並在節目中演出[FTIsland](../Page/FTIsland.md "wikilink")《Madly》MV。2015年5月，美美參演[KBS金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")《[製作人的那些事](https://zh.wikipedia.org/wiki/製作人的那些事 "wikilink")》。2015年12月，娜英、世正、美娜三人以Jellyfish練習生的身分參與了由[Mnet所企劃的出道競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
 101](../Page/PRODUCE_101.md "wikilink")》，最後世正、美娜入選成為[I.O.I成員出道](../Page/I.O.I.md "wikilink")。
 
 ### 2016年：首張迷你專輯《Act.1 The Little Mermaid 》
@@ -32,7 +32,7 @@ Me)》。\[10\]2月16日，公開首波成員HANA、NAYOUNG、MIMI個人概念�
 Girl Like Me)》MV並於隔日舉辦Showcase。
 
 7月19日，宣佈推出團體出道以來首個子團，子團成員為MINA及HYEYEON。\[15\]7月26日，公佈子團團名[gugudan
-OGUOGU](../Page/gugudan_OGUOGU.md "wikilink")。\[16\]8月10日，子團正式出道。
+OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")。\[16\]8月10日，子團正式出道。
 
 10月19日，Soyee 因肩傷理由停止活動。
 
@@ -50,14 +50,14 @@ Chococo Factory》。
 
 2月1日，發佈第二張單曲專輯及主打曲《The Boots》MV。
 
-6月28日，在SNS公開新子團SEMINA消息，從符號以及隔天照片可知成員為[金世正](../Page/金世正.md "wikilink")、[康美娜](../Page/康美娜.md "wikilink")、[金娜英](../Page/金娜英.md "wikilink")，並於7月10日正式出道。
+6月28日，在SNS公開新子團SEMINA消息，從符號以及隔天照片可知成員為[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金娜英](https://zh.wikipedia.org/wiki/金娜英 "wikilink")，並於7月10日正式出道。
 
 10月25日，HYEYEON於官咖公開手寫信，因學業和健康原因退團，日後故此gugudan將以8人體制繼續活動。\[17\]
 
 11月2日，宣佈gugudan將於11月6日攜迷你三輯《Act.5 New Action》，主打歌《NOT THAT TYPE》。
 
 [<file:181106> 구구단(gugudan) 미니앨범 'Act 5 New Action'
-쇼케이스.jpg](../Page/file:181106_구구단\(gugudan\)_미니앨범_'Act_5_New_Action'_쇼케이스.jpg.md "wikilink")
+쇼케이스.jpg](https://zh.wikipedia.org/wiki/file:181106_구구단\(gugudan\)_미니앨범_'Act_5_New_Action'_쇼케이스.jpg "wikilink")
 
 ### 2019年：一天成員MANDY加入、發佈《NOT THAT TYPE》9人版本
 
@@ -110,19 +110,19 @@ gugudan一起製造更多美好、愉快的回憶。\[23\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/娜英.md" title="wikilink">NAYOUNG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娜英" title="wikilink">NAYOUNG</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金世正.md" title="wikilink">SEJEONG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">SEJEONG</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Sally_(韓國歌手).md" title="wikilink">SALLY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sally_(韓國歌手)" title="wikilink">SALLY</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>SOYEE</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/康美娜.md" title="wikilink">MINA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/康美娜" title="wikilink">MINA</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>已退出成員</strong></p></td>
@@ -138,11 +138,13 @@ gugudan一起製造更多美好、愉快的回憶。\[23\]
 
 ### 子團
 
-  - [gugudan OGUOGU](../Page/gugudan_OGUOGU.md "wikilink")
+  - [gugudan
+    OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")
     成員：[美娜](../Page/美娜.md "wikilink")、HYEYEON，2017年8月10日出道，出道曲為《ICE
     CHU》。
-  - [gugudan SEMINA](../Page/gugudan_SEMINA.md "wikilink")
-    成員：[金世正](../Page/金世正.md "wikilink")、[康美娜](../Page/康美娜.md "wikilink")、[金娜英](../Page/金娜英.md "wikilink")，2018年7月10日出道，出道專輯為《SEMINA
+  - [gugudan
+    SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink")
+    成員：[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金娜英](https://zh.wikipedia.org/wiki/金娜英 "wikilink")，2018年7月10日出道，出道專輯為《SEMINA
     - SINGLE》，而主打曲為《SEMINA》。
 
 ### 成員變遷表
@@ -234,7 +236,7 @@ LineData =
 <td><p>《<strong>Act.1 The Little Mermaid</strong>》</p>
 <ul>
 <li>發行日期：2016年6月28日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>專輯銷量: 22,217+[24]</li>
 </ul></td>
 <td></td>
@@ -245,7 +247,7 @@ LineData =
 <td><p>《<strong>Act.2 Narcissus</strong>》</p>
 <ul>
 <li>發行日期：2017年2月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>專輯銷量: 29,113+[25]</li>
 </ul></td>
 <td></td>
@@ -256,11 +258,11 @@ LineData =
 <td><p>《<strong>Act.5 New Action</strong>》</p>
 <ul>
 <li>發行日期：2018年11月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>專輯銷量: 9,813+[26]</li>
 </ul></td>
 <td></td>
-<td><p>《<a href="../Page/瞞天過海：八面玲瓏.md" title="wikilink">盜海豪情：8美千嬌</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/瞞天過海：八面玲瓏" title="wikilink">盜海豪情：8美千嬌</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -282,7 +284,7 @@ LineData =
 <td><p>《<strong>Act.3 Chococo Factory</strong>》</p>
 <ul>
 <li>發行日期：2017年11月8日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>專輯銷量: 20,435+[27]</li>
 <li>備注：Soyee未參與回歸但有參與錄音</li>
 </ul></td>
@@ -294,7 +296,7 @@ LineData =
 <td><p>《<strong>Act.4 Cait Sith</strong>》</p>
 <ul>
 <li>發行日期：2018年2月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul>
 <p>* 專輯銷量: 19,782+<ref>{{Cite web|url=<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;termGbn=year&amp;hitYear=2018&amp;year_time=1%7Ctitle=2018년">http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;termGbn=year&amp;hitYear=2018&amp;year_time=1|title=2018년</a> Album Chart</p></td>
 <td><p>work=www.gaonchart.co.kr}}</ref></p></td>
@@ -333,13 +335,13 @@ LineData =
 <td><p>《PRODUCE 101 - 35 Girls 5 Concepts》</p></td>
 <td><p>24시간</p></td>
 <td><p>NAYOUNG、MINA</p></td>
-<td><p><a href="../Page/周潔瓊.md" title="wikilink">周潔瓊</a>、 <a href="../Page/Rena.md" title="wikilink">姜睿彬</a>、成惠珉、、<a href="../Page/李秀敏_(1999年).md" title="wikilink">李秀敏</a></p></td>
+<td><p><a href="../Page/周潔瓊.md" title="wikilink">周潔瓊</a>、 <a href="https://zh.wikipedia.org/wiki/Rena" title="wikilink">姜睿彬</a>、成惠珉、、<a href="https://zh.wikipedia.org/wiki/李秀敏_(1999年)" title="wikilink">李秀敏</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Fingertips</p></td>
 <td><p>SEJEONG</p></td>
-<td><p><a href="../Page/林娜榮.md" title="wikilink">林娜榮</a>、<a href="../Page/金請夏.md" title="wikilink">金請夏</a>、<a href="../Page/吳思佳.md" title="wikilink">吳思佳</a>、<a href="../Page/奇熙賢.md" title="wikilink">奇熙賢</a>、<a href="../Page/鄭銀雨.md" title="wikilink">鄭銀雨</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林娜榮" title="wikilink">林娜榮</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="../Page/吳思佳.md" title="wikilink">吳思佳</a>、<a href="../Page/奇熙賢.md" title="wikilink">奇熙賢</a>、<a href="https://zh.wikipedia.org/wiki/鄭銀雨" title="wikilink">鄭銀雨</a>、</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -347,10 +349,10 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>11月23日</p></td>
-<td><p>《<a href="../Page/Flower_Way_(金世正單曲).md" title="wikilink">Jelly Box - 꽃길 (Prod. By 지코(ZICO))</a>)》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Flower_Way_(金世正單曲)" title="wikilink">Jelly Box - 꽃길 (Prod. By 지코(ZICO))</a>)》</p></td>
 <td><p>꽃길<br />
 (Flower Way) [29]</p></td>
-<td><p><a href="../Page/Zico_(歌手).md" title="wikilink">ZICO</a> <small>（作詞曲）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">ZICO</a> <small>（作詞曲）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -360,7 +362,7 @@ LineData =
 <td><p>《인기가요 뮤직크러쉬 Part.2》</p></td>
 <td><p>Taxi</p></td>
 <td><p>NAYOUNG</p></td>
-<td><p><a href="../Page/Eunha.md" title="wikilink">Eunha</a>(<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="../Page/YooA.md" title="wikilink">YooA</a>(<a href="../Page/Oh_My_Girl.md" title="wikilink">Oh My Girl</a>)、<a href="../Page/程瀟.md" title="wikilink">程瀟</a>(<a href="../Page/宇宙少女.md" title="wikilink">宇宙少女</a>)、<a href="../Page/Nancy_Jewel_McDonie.md" title="wikilink">NANCY</a>(<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>)</p></td>
+<td><p><a href="../Page/Eunha.md" title="wikilink">Eunha</a>(<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="https://zh.wikipedia.org/wiki/YooA" title="wikilink">YooA</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、<a href="https://zh.wikipedia.org/wiki/程瀟" title="wikilink">程瀟</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie" title="wikilink">NANCY</a>(<a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -385,7 +387,7 @@ LineData =
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>1月12日</p></td>
-<td><p>《<a href="../Page/藍色海洋的傳說.md" title="wikilink">藍色海洋的傳說</a> OST Part.10 》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/藍色海洋的傳說" title="wikilink">藍色海洋的傳說</a> OST Part.10 》</p></td>
 <td><p>If Only<br />
 (만에 하나)[31]</p></td>
 <td><p>SEJEONG</p></td>
@@ -397,7 +399,7 @@ LineData =
 <td><p>《 봄비 》</p></td>
 <td><p>봄비（春雨）</p></td>
 <td><p>SOYEE</p></td>
-<td><p>（<a href="../Page/Brown_Eyed_Soul.md" title="wikilink">Brown Eyed Soul</a>）</p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/Brown_Eyed_Soul" title="wikilink">Brown Eyed Soul</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -416,13 +418,13 @@ LineData =
 <td><p>《좋아한다 안 한다》</p></td>
 <td><p>좋아한다 안 한다(Like or Not)[33]</p></td>
 <td><p>SEJEONG</p></td>
-<td><p><a href="../Page/泰欥.md" title="wikilink">泰欥</a>（<a href="../Page/Block_B.md" title="wikilink">Block B</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰欥" title="wikilink">泰欥</a>（<a href="../Page/Block_B.md" title="wikilink">Block B</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月17日</p></td>
-<td><p>《<a href="../Page/學校2017.md" title="wikilink">學校2017</a> OST Part.1》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/學校2017" title="wikilink">學校2017</a> OST Part.1》</p></td>
 <td><p>이 순간을 믿을게（相信這一瞬間）[34]</p></td>
 <td><p>全員</p></td>
 <td></td>
@@ -440,7 +442,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>10月10日</p></td>
-<td><p>《<a href="../Page/20世紀少男少女.md" title="wikilink">20世紀少男少女</a> OST Part.2》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/20世紀少男少女" title="wikilink">20世紀少男少女</a> OST Part.2》</p></td>
 <td><p>일기(2001 Remix.ver)</p></td>
 <td><p>HANA、MIMI、NAYOUNG、MINA</p></td>
 <td></td>
@@ -452,13 +454,13 @@ LineData =
 <td><p>《<a href="../Page/SM_STATION.md" title="wikilink">SM STATION Season 2</a>》</p></td>
 <td><p>星光綻放時(Star Blossom)[36]</p></td>
 <td><p>SEJEONG</p></td>
-<td><p><a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月17日</p></td>
-<td><p>《<a href="../Page/今生是第一次.md" title="wikilink">今生是第一次</a> OST Part.2》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/今生是第一次" title="wikilink">今生是第一次</a> OST Part.2》</p></td>
 <td><p>Everyday</p></td>
 <td><p>HAEBIN</p></td>
 <td></td>
@@ -476,7 +478,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>1月21日</p></td>
-<td><p>《<a href="../Page/操心.md" title="wikilink">操心</a> OST Part.3 》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/操心" title="wikilink">操心</a> OST Part.3 》</p></td>
 <td><p>설렘주의보（心動預報）</p></td>
 <td><p>HANA</p></td>
 <td></td>
@@ -485,7 +487,7 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p>3月13日</p></td>
-<td><p>《<a href="../Page/Radio_Romance.md" title="wikilink">Radio Romance</a> OST Part.6》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Radio_Romance" title="wikilink">Radio Romance</a> OST Part.6》</p></td>
 <td><p>길에서 (在路上)[38]</p></td>
 <td><p>HAEBIN</p></td>
 <td></td>
@@ -497,13 +499,13 @@ LineData =
 <td><p>《2018 足球國家代表隊 應援專輯 `We, the Reds`》</p></td>
 <td><p>우리는 하나(We, the Reds)[39]</p></td>
 <td><p>SEJEONG</p></td>
-<td><p><a href="../Page/鄭澤運.md" title="wikilink">Leo</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">Leo</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月16日</p></td>
-<td><p>《<a href="../Page/陽光先生.md" title="wikilink">陽光先生</a> OST Part.13》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/陽光先生" title="wikilink">陽光先生</a> OST Part.13》</p></td>
 <td><p>情人（정인 (Paramour)）<ref>{{Citation|last=Stone Music Entertainment</p></td>
 <td><p>title=[미스터 션샤인 OST Part 13] 세정 (구구단) (SEJEONG (gugudan)) - 정인 (情人) (Paramour) MV|date=2018-09-16|url=<a href="https://www.youtube.com/watch?v=8P-06-8-5HM%7Caccessdate=2018-09-24">https://www.youtube.com/watch?v=8P-06-8-5HM|accessdate=2018-09-24</a>}}</ref></p></td>
 <td></td>
@@ -636,7 +638,7 @@ LineData =
 <td><p>2018</p></td>
 <td><p>3月25日</p></td>
 <td><p>香港站</p></td>
-<td><p><a href="../Page/麥花臣室內場館.md" title="wikilink">麥花臣室內場館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥花臣室內場館" title="wikilink">麥花臣室內場館</a></p></td>
 <td><p>1st ASIA TOUR</p></td>
 </tr>
 </tbody>
@@ -712,20 +714,20 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/第一屆_SORIBADA_Best_K-Music_Awards.md" title="wikilink">第一屆 SORIBADA Best K-Music Awards</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第一屆_SORIBADA_Best_K-Music_Awards" title="wikilink">第一屆 SORIBADA Best K-Music Awards</a></p></td>
 <td><p>新韓流最佳表演獎</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">第二屆 Asia Artist Award</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">第二屆 Asia Artist Award</a></p></td>
 <td><p>Rising Star獎</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大韓民國文化演藝大賞.md" title="wikilink">大韓民國文化演藝大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大韓民國文化演藝大賞" title="wikilink">大韓民國文化演藝大賞</a></p></td>
 <td><p>K-pop 歌手賞</p></td>
 <td></td>
 <td></td>
@@ -733,7 +735,7 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">第三屆 Asia Artist Award</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">第三屆 Asia Artist Award</a></p></td>
 <td><p>New Wave獎</p></td>
 <td></td>
 <td></td>

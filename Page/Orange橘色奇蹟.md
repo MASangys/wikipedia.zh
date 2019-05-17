@@ -1,5 +1,5 @@
 《**orange橘色奇蹟**》（
-）是日本女性漫畫家[高野莓創作的日本漫畫](../Page/高野莓.md "wikilink")。最初於「[別冊瑪格麗特](../Page/別冊瑪格麗特.md "wikilink")」（[集英社](../Page/集英社.md "wikilink")）2012年4月號至12月號連載後休刊，之後轉至「[月刊Action](../Page/月刊Action.md "wikilink")」（[雙葉社](../Page/雙葉社.md "wikilink")）的2014年2月號至2015年10月號不定期連載。集英社版單行本共發行2冊、雙葉社版單行本目前共6冊，並在世界9個國家翻譯出版\[1\]。
+）是日本女性漫畫家[高野莓創作的日本漫畫](https://zh.wikipedia.org/wiki/高野莓 "wikilink")。最初於「[別冊瑪格麗特](https://zh.wikipedia.org/wiki/別冊瑪格麗特 "wikilink")」（[集英社](../Page/集英社.md "wikilink")）2012年4月號至12月號連載後休刊，之後轉至「[月刊Action](https://zh.wikipedia.org/wiki/月刊Action "wikilink")」（[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")）的2014年2月號至2015年10月號不定期連載。集英社版單行本共發行2冊、雙葉社版單行本目前共6冊，並在世界9個國家翻譯出版\[1\]。
 
 ## 故事概要
 
@@ -10,7 +10,7 @@
   -
     本作女主角。有著比起自己更以他人的幸福為優先的拘謹的性格。喜歡翔。因收到10年後的自己寫的信，而得知即將於未來發生的一切人事物。受到未來的自己所託，希望拯救翔的心，阻止他自殺。10年後與須和結婚，兩人育有一子。
   -
-    來自[東京的轉學生](../Page/東京.md "wikilink")。幼年時期雙親離異，與母親一起回到祖母家，母親（配音：[能登麻美子](../Page/能登麻美子.md "wikilink")／演員：森口瑤子）過世後（患有憂鬱症，在車內服藥自殺）寄住在祖母（配音：[高島雅羅](../Page/高島雅羅.md "wikilink")／演員：草村禮子）家。喜歡菜穗。17歳時獨自衝向疾駛而來的卡車身亡。因10年後的自己來信，他們得知翔會自殺，最後被菜穗他們拯救，在另一個平行世界生活着(在這裡的世界和菜穗結婚，遇有一子)此劇情在劇場版。非常擅長足球
+    來自[東京的轉學生](https://zh.wikipedia.org/wiki/東京 "wikilink")。幼年時期雙親離異，與母親一起回到祖母家，母親（配音：[能登麻美子](../Page/能登麻美子.md "wikilink")／演員：森口瑤子）過世後（患有憂鬱症，在車內服藥自殺）寄住在祖母（配音：[高島雅羅](../Page/高島雅羅.md "wikilink")／演員：草村禮子）家。喜歡菜穗。17歳時獨自衝向疾駛而來的卡車身亡。因10年後的自己來信，他們得知翔會自殺，最後被菜穗他們拯救，在另一個平行世界生活着(在這裡的世界和菜穗結婚，遇有一子)此劇情在劇場版。非常擅長足球
   -
     菜穗的同班同學。學校足球社隊員，邀請翔一起加入足球社。暗戀著菜穗，另一方面，也收到了10年後的自己寄來的信，受到未來的自己所託，所以全力支援菜穗和翔的戀情。10年後與菜穗結婚，兩人育有一子。
   -
@@ -41,7 +41,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -64,14 +64,14 @@
 
 #### 雙葉社版
 
-  - 高野莓「orange橘色奇蹟」，[雙葉社](../Page/雙葉社.md "wikilink")〈ACTION
+  - 高野莓「orange橘色奇蹟」，[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")〈ACTION
     COMICS〉，目前共6冊。台灣中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，趙聖媛譯。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/雙葉社.md" title="wikilink">雙葉社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/雙葉社" title="wikilink">雙葉社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 <th><p>連載時期</p></th>
 <th><p>附錄</p></th>
@@ -80,9 +80,9 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -144,14 +144,14 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/雙葉社.md" title="wikilink">雙葉社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/雙葉社" title="wikilink">雙葉社</a></p></th>
 <th><p>悅知文化</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -177,19 +177,20 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 </tbody>
 </table>
 
-  - 蒔田陽平（著）／高野莓（原作）「電影小說 orange」，[雙葉文庫](../Page/雙葉文庫.md "wikilink")，全1冊
+  - 蒔田陽平（著）／高野莓（原作）「電影小說
+    orange」，[雙葉文庫](https://zh.wikipedia.org/wiki/雙葉文庫 "wikilink")，全1冊
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/雙葉社.md" title="wikilink">雙葉社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/雙葉社" title="wikilink">雙葉社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -204,7 +205,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 
 ## 電影
 
-2015年12月12日於日本上映，[東寶電影公司出品](../Page/東寶.md "wikilink")。7月20日公佈演員人選，歷經3個半月的拍攝之後火速上映\[18\]。全片在[長野縣](../Page/長野縣.md "wikilink")[松本市拍攝](../Page/松本市.md "wikilink")（部分場景在[鹽尻市](../Page/鹽尻市.md "wikilink")、[飯田市拍攝](../Page/飯田市.md "wikilink")）。9月1日電影拍攝完成，同年10月11日正式殺青。本片為導演橋本光二郎首部長篇電影執導作品\[19\]。由NHK晨間劇《[小希](../Page/小希.md "wikilink")》女主角[土屋太鳳主演](../Page/土屋太鳳.md "wikilink")。同劇中飾演男主角暨丈夫的[山崎賢人亦參與本片的演出](../Page/山崎賢人.md "wikilink")，這是兩人繼晨間劇《[小希](../Page/小希.md "wikilink")》之後的二度合作之影視作品\[20\]\[21\]。
+2015年12月12日於日本上映，[東寶電影公司出品](../Page/東寶.md "wikilink")。7月20日公佈演員人選，歷經3個半月的拍攝之後火速上映\[18\]。全片在[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[松本市拍攝](../Page/松本市.md "wikilink")（部分場景在[鹽尻市](../Page/鹽尻市.md "wikilink")、[飯田市拍攝](../Page/飯田市.md "wikilink")）。9月1日電影拍攝完成，同年10月11日正式殺青。本片為導演橋本光二郎首部長篇電影執導作品\[19\]。由NHK晨間劇《[小希](https://zh.wikipedia.org/wiki/小希 "wikilink")》女主角[土屋太鳳主演](../Page/土屋太鳳.md "wikilink")。同劇中飾演男主角暨丈夫的[山崎賢人亦參與本片的演出](../Page/山崎賢人.md "wikilink")，這是兩人繼晨間劇《[小希](https://zh.wikipedia.org/wiki/小希 "wikilink")》之後的二度合作之影視作品\[20\]\[21\]。
 
 ### 登場人物與演員
 
@@ -218,7 +219,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
   - 上田莉緒：[真野惠里菜](../Page/真野惠里菜.md "wikilink")
   - 成瀬美由紀：森口瑤子
   - 成瀬初乃：草村礼子
-  - 小店店員：原山紅花（前[信州電視台主播](../Page/信州電視台.md "wikilink")）※飾演鯛魚燒店店員
+  - 小店店員：原山紅花（前[信州電視台主播](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")）※飾演鯛魚燒店店員
   - 加藤遥：内田菜月
   - 佐佐木由衣：須賀一天
   - 其他演員：安田聖愛、佐佐木萌詠、栗原卓也、岡駿斗、松澤有紗、笠松將、瀨戸佳穗、栗原沙也加、村田優一
@@ -226,7 +227,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 ### 製作團隊
 
   - 導演：橋本光二郎
-  - 主題歌：[可苦可樂](../Page/可苦可樂.md "wikilink")「[未來](../Page/未来_\(コブクロの曲\).md "wikilink")」（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）\[22\]
+  - 主題歌：[可苦可樂](../Page/可苦可樂.md "wikilink")「[未來](https://zh.wikipedia.org/wiki/未来_\(コブクロの曲\) "wikilink")」（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）\[22\]
   - 編劇：金子亞里莎
   - 配樂：大友良英
   - 攝影：鍋島淳裕
@@ -246,7 +247,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
   - 副導演：豬腰弘之
   - 出品：[東寶](../Page/東寶.md "wikilink")
   - 製作公司：[東寶](../Page/東寶.md "wikilink")
-  - 製作：「orange橘色奇蹟」製作委員會（東寶、[雙葉社](../Page/雙葉社.md "wikilink")、博報堂DY媒體控股公司、[日本出版販賣](../Page/日本出版販賣.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、[GYAO\!](../Page/GYAO!.md "wikilink")）
+  - 製作：「orange橘色奇蹟」製作委員會（東寶、[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")、博報堂DY媒體控股公司、[日本出版販賣](https://zh.wikipedia.org/wiki/日本出版販賣 "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、[GYAO\!](https://zh.wikipedia.org/wiki/GYAO! "wikilink")）
 
 ### 拍攝地點
 
@@ -255,7 +256,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 ## 電視動畫
 
 2016年7月起於[TOKYO
-MX](../Page/TOKYO_MX.md "wikilink")、[AT-X等多家電視台播出](../Page/AT-X.md "wikilink")。共13話。
+MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X等多家電視台播出](../Page/AT-X.md "wikilink")。共13話。
 
 ### 登場人物與配音員
 
@@ -265,48 +266,48 @@ MX](../Page/TOKYO_MX.md "wikilink")、[AT-X等多家電視台播出](../Page/AT-
   - 萩田朔：[興津和幸](../Page/興津和幸.md "wikilink")
   - 村坂梓：[高森奈津美](../Page/高森奈津美.md "wikilink")
   - 茅野貴子：[衣川里佳](../Page/衣川里佳.md "wikilink")
-  - 上田莉緒：[佐倉綾音](../Page/佐倉綾音.md "wikilink")
+  - 上田莉緒：[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")
   - 成瀬翔（孩童時代）：[藤田茜](../Page/藤田茜.md "wikilink")
   - 菜穗的母親：[井上喜久子](../Page/井上喜久子.md "wikilink")
   - 菜穗的父親：[坪井智浩](../Page/坪井智浩.md "wikilink")
   - 翔的母親：[能登麻美子](../Page/能登麻美子.md "wikilink")
   - 翔的祖母：[高島雅羅](../Page/高島雅羅.md "wikilink")
-  - 須和的母親：[淺野真澄](../Page/淺野真澄.md "wikilink")
-  - 須和的父親：[廣田實](../Page/廣田實.md "wikilink")
-  - 梓的母親：[山口享佑子](../Page/山口享佑子.md "wikilink")
+  - 須和的母親：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")
+  - 須和的父親：[廣田實](https://zh.wikipedia.org/wiki/廣田實 "wikilink")
+  - 梓的母親：[山口享佑子](https://zh.wikipedia.org/wiki/山口享佑子 "wikilink")
   - 梓的父親：[江川央生](../Page/江川央生.md "wikilink")
-  - 長坂：[寺島惇太](../Page/寺島惇太.md "wikilink")
-  - 穗高：[本橋大輔](../Page/本橋大輔.md "wikilink")
-  - 青木：[石毛翔彌](../Page/石毛翔彌.md "wikilink")
+  - 長坂：[寺島惇太](https://zh.wikipedia.org/wiki/寺島惇太 "wikilink")
+  - 穗高：[本橋大輔](https://zh.wikipedia.org/wiki/本橋大輔 "wikilink")
+  - 青木：[石毛翔彌](https://zh.wikipedia.org/wiki/石毛翔彌 "wikilink")
   - 大谷：後藤沙織
-  - 鹽尻：[秋奈](../Page/秋奈.md "wikilink")
+  - 鹽尻：[秋奈](https://zh.wikipedia.org/wiki/秋奈 "wikilink")
   - 岡谷：秋月炯
   - 伊那：櫻庭有紗
-  - 波田：[結城飛鳥](../Page/結城飛鳥.md "wikilink")
+  - 波田：[結城飛鳥](https://zh.wikipedia.org/wiki/結城飛鳥 "wikilink")
   - 原：小嶋紗里
-  - 長野：[黑木穗乃香](../Page/黑木穗乃香.md "wikilink")
+  - 長野：[黑木穗乃香](https://zh.wikipedia.org/wiki/黑木穗乃香 "wikilink")
   - 大月：吉森未沙希
-  - 朝日：[内田愛美](../Page/内田愛美.md "wikilink")
+  - 朝日：[内田愛美](https://zh.wikipedia.org/wiki/内田愛美 "wikilink")
   - 中山：峯田大夢
-  - 中野老師：[志村知幸](../Page/志村知幸.md "wikilink")
-  - 班導師：[白川周作](../Page/白川周作.md "wikilink")
+  - 中野老師：[志村知幸](https://zh.wikipedia.org/wiki/志村知幸 "wikilink")
+  - 班導師：[白川周作](https://zh.wikipedia.org/wiki/白川周作 "wikilink")
   - 英語老師：[淺川悠](../Page/淺川悠.md "wikilink")
-  - 數學老師：[利根健太郎](../Page/利根健太郎.md "wikilink")
+  - 數學老師：[利根健太郎](https://zh.wikipedia.org/wiki/利根健太郎 "wikilink")
   - 古文老師：佐藤春男
-  - 現代國語老師：[高橋圭一](../Page/高橋圭一.md "wikilink")
+  - 現代國語老師：[高橋圭一](https://zh.wikipedia.org/wiki/高橋圭一 "wikilink")
   - 保健室老師：加藤裕梨
-  - 校長：[佐佐健太](../Page/佐佐健太.md "wikilink")
+  - 校長：[佐佐健太](https://zh.wikipedia.org/wiki/佐佐健太 "wikilink")
   - 圭惠（タマエ）：[大空直美](../Page/大空直美.md "wikilink")
-  - 真理惠（マリエ）：[北川里奈](../Page/北川里奈.md "wikilink")
+  - 真理惠（マリエ）：[北川里奈](https://zh.wikipedia.org/wiki/北川里奈 "wikilink")
   - 美鈴：[長繩麻理亞](../Page/長繩麻理亞.md "wikilink")
 
 ### 製作團隊
 
-  - 原作：[高野莓](../Page/高野莓.md "wikilink")
+  - 原作：[高野莓](https://zh.wikipedia.org/wiki/高野莓 "wikilink")
   - 導演：[濱崎博嗣](../Page/濱崎博嗣.md "wikilink")
   - 系列導演：中山奈緒美
   - 助理導演：山田卓（第2－13話）
-  - 劇本：[柿原優子](../Page/柿原優子.md "wikilink")
+  - 劇本：[柿原優子](https://zh.wikipedia.org/wiki/柿原優子 "wikilink")
   - 人物設定、總作畫監督：[結城信輝](../Page/結城信輝.md "wikilink")
   - 道具設定：鈴木政彦、
   - 美術設定：藤瀬智康
@@ -328,7 +329,7 @@ MX](../Page/TOKYO_MX.md "wikilink")、[AT-X等多家電視台播出](../Page/AT-
 ### 主題曲
 
   - 片頭曲「」
-    作詞、作曲、主唱：[高橋優](../Page/高橋優_\(歌手\).md "wikilink")，編曲：池窪浩一、高橋優
+    作詞、作曲、主唱：[高橋優](https://zh.wikipedia.org/wiki/高橋優_\(歌手\) "wikilink")，編曲：池窪浩一、高橋優
   - 片尾曲「」
     作詞：[小淵健太郎](../Page/小淵健太郎.md "wikilink")，作曲：小淵健太郎、[黑田俊介](../Page/黑田俊介.md "wikilink")，編曲、主唱：[可苦可樂](../Page/可苦可樂.md "wikilink")
   - 插曲「」（第5話）
@@ -498,16 +499,16 @@ LETTER22</p></td>
 
 ### 播放電視台
 
-| 播放地區                                                    | 播放電視台                                      | 播放日期                                     | 播放時間                                 | 所屬聯播網                                  | 備註          |
-| ------------------------------------------------------- | ------------------------------------------ | ---------------------------------------- | ------------------------------------ | -------------------------------------- | ----------- |
-| [東京都](../Page/東京都.md "wikilink")                        | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 2016年7月3日－9月25日                          | 星期日 24時00分－24時30分                    | [獨立局](../Page/全國獨立放送協議會.md "wikilink") |             |
-| 日本全國                                                    | [AT-X](../Page/AT-X.md "wikilink")         | [衛星電視](../Page/衛星電視.md "wikilink")       | 有重播                                  |                                        |             |
-| [BS11](../Page/BS11.md "wikilink")                      | 星期日 24時30分－25時00分                          | [ANIME+節目](../Page/ANIME+.md "wikilink") |                                      |                                        |             |
-| [Amazon Prime Video](../Page/日本亞馬遜.md "wikilink")\[27\] | 星期日 24時30分更新                               | [網絡電視](../Page/網絡電視.md "wikilink")       | 首集於7月3日24時00分上傳                      |                                        |             |
-| [愛知縣](../Page/愛知縣.md "wikilink")                        | [愛知電視台](../Page/愛知電視台.md "wikilink")       | 星期日 25時05分－25時35分                        | [東京電視網](../Page/東京電視網.md "wikilink") |                                        |             |
-| [近畿地方](../Page/近畿地方.md "wikilink")                      | [朝日放送](../Page/朝日放送.md "wikilink")         | 2016年7月6日－9月29日                          | 星期三 26時14分－26時44分                    | [朝日電視網](../Page/朝日電視網.md "wikilink")   | 「週三動畫」第1部   |
-| [長野縣](../Page/長野縣.md "wikilink")                        | [信州電視台](../Page/信州電視台.md "wikilink")       | 2016年7月14日－10月7日                         | 星期四 26時14分－26時44分                    | [日本電視網](../Page/日本電視網.md "wikilink")   | 作品場景及作者居住地點 |
-|                                                         |                                            |                                          |                                      |                                        |             |
+| 播放地區                                                                       | 播放電視台                                                         | 播放日期                                                  | 播放時間                                 | 所屬聯播網                                                   | 備註          |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------ | ------------------------------------------------------- | ----------- |
+| [東京都](../Page/東京都.md "wikilink")                                           | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2016年7月3日－9月25日                                       | 星期日 24時00分－24時30分                    | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                  |             |
+| 日本全國                                                                       | [AT-X](../Page/AT-X.md "wikilink")                            | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | 有重播                                  |                                                         |             |
+| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")                      | 星期日 24時30分－25時00分                                             | [ANIME+節目](../Page/ANIME+.md "wikilink")              |                                      |                                                         |             |
+| [Amazon Prime Video](https://zh.wikipedia.org/wiki/日本亞馬遜 "wikilink")\[27\] | 星期日 24時30分更新                                                  | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") | 首集於7月3日24時00分上傳                      |                                                         |             |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                           | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 星期日 25時05分－25時35分                                     | [東京電視網](../Page/東京電視網.md "wikilink") |                                                         |             |
+| [近畿地方](../Page/近畿地方.md "wikilink")                                         | [朝日放送](../Page/朝日放送.md "wikilink")                            | 2016年7月6日－9月29日                                       | 星期三 26時14分－26時44分                    | [朝日電視網](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink") | 「週三動畫」第1部   |
+| [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")                        | [信州電視台](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")       | 2016年7月14日－10月7日                                      | 星期四 26時14分－26時44分                    | [日本電視網](https://zh.wikipedia.org/wiki/日本電視網 "wikilink") | 作品場景及作者居住地點 |
+|                                                                            |                                                               |                                                       |                                      |                                                         |             |
 
 ### BD和DVD
 
@@ -577,7 +578,7 @@ LETTER22</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/第39回日本電影金像獎.md" title="wikilink">第39回日本電影金像獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第39回日本電影金像獎" title="wikilink">第39回日本電影金像獎</a></p></td>
 <td><p>新人演員獎（土屋太鳳、山崎賢人）[29][30]</p></td>
 <td></td>
 </tr>

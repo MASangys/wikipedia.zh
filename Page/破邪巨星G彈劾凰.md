@@ -1,8 +1,8 @@
-『**破邪巨星G彈劾凰**』（原題：）是[朝日電視台在](../Page/朝日電視台.md "wikilink")2001年4月5日至7月5日播出，由[AIC所製作的](../Page/動畫國際公司.md "wikilink")[機械人動畫](../Page/機械人動畫.md "wikilink")，全13話。
+『**破邪巨星G彈劾凰**』（原題：）是[朝日電視台在](../Page/朝日電視台.md "wikilink")2001年4月5日至7月5日播出，由[AIC所製作的](../Page/動畫國際公司.md "wikilink")[機械人動畫](https://zh.wikipedia.org/wiki/機械人動畫 "wikilink")，全13話。
 
 ## 概要
 
-繼承[OVA](../Page/OVA.md "wikilink")『[破邪大星彈劾凰](../Page/破邪大星彈劾凰.md "wikilink")』世界觀的續編，在未完結狀態下就此畫下休止符。讓觀眾們感到困惑與不解。
+繼承[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")『[破邪大星彈劾凰](https://zh.wikipedia.org/wiki/破邪大星彈劾凰 "wikilink")』世界觀的續編，在未完結狀態下就此畫下休止符。讓觀眾們感到困惑與不解。
 
 ## 各話一覽
 
@@ -21,18 +21,18 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>決戦</p></td>
-<td><p><a href="../Page/植竹須美男.md" title="wikilink">植竹須美男</a></p></td>
-<td><p><a href="../Page/平野俊貴.md" title="wikilink">平野俊貴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/植竹須美男" title="wikilink">植竹須美男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/平野俊貴" title="wikilink">平野俊貴</a></p></td>
 <td><p>野中卓也</p></td>
-<td><p>山田正樹、<a href="../Page/高岡淳一.md" title="wikilink">高岡淳一</a><br />
-<a href="../Page/渡邊浩二.md" title="wikilink">渡邊浩二</a>（機械）</p></td>
+<td><p>山田正樹、<a href="https://zh.wikipedia.org/wiki/高岡淳一" title="wikilink">高岡淳一</a><br />
+<a href="https://zh.wikipedia.org/wiki/渡邊浩二" title="wikilink">渡邊浩二</a>（機械）</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>踊る大要塞</p></td>
 <td><p>箕輪風太郎</p></td>
 <td><p>宮田亮</p></td>
-<td><p><a href="../Page/日向正樹.md" title="wikilink">日向正樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日向正樹" title="wikilink">日向正樹</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -56,7 +56,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>天空の悪魔</p></td>
-<td><p><a href="../Page/村木靖.md" title="wikilink">村木靖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/村木靖" title="wikilink">村木靖</a></p></td>
 <td><p>山內東生雄</p></td>
 <td><p>小林多加志<br />
 箕輪悟（機械）</p></td>
@@ -66,7 +66,7 @@
 <td><p>6</p></td>
 <td><p>海王咆吼</p></td>
 <td><p>植竹須美男</p></td>
-<td><p><a href="../Page/玉川達文.md" title="wikilink">玉川達文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玉川達文" title="wikilink">玉川達文</a></p></td>
 <td><p>吉川美貴<br />
 西井正典（機械）</p></td>
 <td></td>

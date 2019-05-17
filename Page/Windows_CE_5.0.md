@@ -11,8 +11,9 @@ CE源代码树。Windows CE
 
 Windows CE 5.x是Windows Mobile 6.0,6.1和6.5的基础操作系统。在x86平台上,Windows CE
 5.0与微软的其它嵌入式操作系统之间存在竞争，如[Windows XP
-Embedded](../Page/Windows_XP_Embedded.md "wikilink") 和[Windows NT
-Embedded](../Page/Windows_NT_Embedded.md "wikilink")。
+Embedded](https://zh.wikipedia.org/wiki/Windows_XP_Embedded "wikilink")
+和[Windows NT
+Embedded](https://zh.wikipedia.org/wiki/Windows_NT_Embedded "wikilink")。
 
 Windows CE 5.0的平台集成开发环境(Platform Builder IDE for Windows CE
 5.0)是最后的开发工具,可作为独立产品获取。
@@ -35,7 +36,7 @@ Embedded要更好。以下是“选择正确的版本”的主要注意事项:
   - [Windows Embedded
     Compact](../Page/Windows_Embedded_Compact.md "wikilink")
   - [Microsoft Windows年表](../Page/Microsoft_Windows年表.md "wikilink")
-  - [掌上电脑](../Page/掌上电脑.md "wikilink")
+  - [掌上电脑](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")
   - [Pocket PC](../Page/Pocket_PC.md "wikilink")
   - [Windows Mobile](../Page/Windows_Mobile.md "wikilink")
 

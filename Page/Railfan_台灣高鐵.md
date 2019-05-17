@@ -1,5 +1,5 @@
-是一款由[音樂館和Actainment合作制作的](../Page/音樂館.md "wikilink")[铁路模拟类游戏](../Page/铁路模拟类游戏.md "wikilink")，2007年7月12日在[PlayStation
-3上发行](../Page/PlayStation_3.md "wikilink")\[1\]，根据[台湾高铁路線制作](../Page/台湾高铁.md "wikilink")，模擬駕駛[台灣高速鐵路700T型電聯車](../Page/台灣高速鐵路700T型電聯車.md "wikilink")。制作组共抓取了台湾高铁路線两旁共700公里的景色。
+是一款由[音樂館和Actainment合作制作的](https://zh.wikipedia.org/wiki/音樂館 "wikilink")[铁路模拟类游戏](https://zh.wikipedia.org/wiki/铁路模拟类游戏 "wikilink")，2007年7月12日在[PlayStation
+3上发行](../Page/PlayStation_3.md "wikilink")\[1\]，根据[台湾高铁路線制作](https://zh.wikipedia.org/wiki/台湾高铁 "wikilink")，模擬駕駛[台灣高速鐵路700T型電聯車](../Page/台灣高速鐵路700T型電聯車.md "wikilink")。制作组共抓取了台湾高铁路線两旁共700公里的景色。
 
 ## 参考资料
 
@@ -15,7 +15,7 @@
   - [Railfan THSR launch party by SCE Hong Kong, July 03, 2007,
     Taipei](http://gnn.gamer.com.tw/9/27159.html)
 
-[分類:台灣高速鐵路](../Page/分類:台灣高速鐵路.md "wikilink")
+[分類:台灣高速鐵路](https://zh.wikipedia.org/wiki/分類:台灣高速鐵路 "wikilink")
 
 [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
 [Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink")

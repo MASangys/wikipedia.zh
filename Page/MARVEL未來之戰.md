@@ -1,5 +1,5 @@
 是一款[漫威英雄主題的動作](../Page/漫威漫畫.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]。是由[Netmarble
-Games開發製作的](../Page/Netmarble_Games.md "wikilink")[iOS和](../Page/iOS.md "wikilink")[Android](../Page/Android.md "wikilink")[手機遊戲](../Page/手機遊戲.md "wikilink")。遊戲配合[漫威漫畫及](../Page/漫威漫畫.md "wikilink")[漫威電影宇宙內容更新相關內容](../Page/漫威電影宇宙.md "wikilink")\[2\]。
+Games開發製作的](../Page/Netmarble_Games.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。遊戲配合[漫威漫畫及](../Page/漫威漫畫.md "wikilink")[漫威電影宇宙內容更新相關內容](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")\[2\]。
 
 ## 遊戲內容
 
@@ -42,4 +42,4 @@ Games開發製作的](../Page/Netmarble_Games.md "wikilink")[iOS和](../Page/iOS
 
 1.
 2.  [英雄內戰即將震撼《MARVEL未來之戰》！](http://www.mofang.com.tw/NGnews/10000056-10087885-1.html),2016.04.28
-    [魔方網](../Page/魔方網.md "wikilink")
+    [魔方網](https://zh.wikipedia.org/wiki/魔方網 "wikilink")

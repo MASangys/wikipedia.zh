@@ -1,6 +1,6 @@
-**SPICA.S**（）是[韓國](../Page/韓國.md "wikilink")[B2M
-Entertainment於](../Page/B2M_Entertainment.md "wikilink")2014年9月12日所推出的女子團體[SPICA的小分隊](../Page/SPICA_\(組合\).md "wikilink")，亦為[SPICA
-Project的Part](../Page/SPICA_\(組合\)#SPICA_Project.md "wikilink")
+**SPICA.S**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B2M
+Entertainment於](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")2014年9月12日所推出的女子團體[SPICA的小分隊](../Page/SPICA_\(組合\).md "wikilink")，亦為[SPICA
+Project的Part](https://zh.wikipedia.org/wiki/SPICA_\(組合\)#SPICA_Project "wikilink")
 1，成員包括[是炫](../Page/朴是炫.md "wikilink")、[娜萊](../Page/朴娜萊.md "wikilink")、[知元](../Page/楊知元.md "wikilink")、[保亨](../Page/金保亨.md "wikilink")。
 
 SPICA.S 當中最後一個「S」代表著「Special (特別)」的意思，期望這四位成員能夠帶來比 SPICA 更加獨特、新奇的樣貌給大家看。
@@ -61,7 +61,7 @@ SPICA.S**全員亦為主唱**，[朴是炫兼任Rapper](../Page/朴是炫.md "wi
 <td style="text-align: left;"><p>首張單曲《<strong>Give Your Love</strong>》</p>
 <ul>
 <li>發行日期：2014年9月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -70,12 +70,12 @@ SPICA.S**全員亦為主唱**，[朴是炫兼任Rapper](../Page/朴是炫.md "wi
 
 ## 主打歌曲紀錄（2014年至今）
 
-| **主打歌曲成績**                                             |
-| ------------------------------------------------------ |
-| 唱片                                                     |
-| **2014年**                                              |
-| [Give Your Love](../Page/Give_Your_Love.md "wikilink") |
-|                                                        |
+| **主打歌曲成績**                                                                |
+| ------------------------------------------------------------------------- |
+| 唱片                                                                        |
+| **2014年**                                                                 |
+| [Give Your Love](https://zh.wikipedia.org/wiki/Give_Your_Love "wikilink") |
+|                                                                           |
 
 | **各台冠軍歌總數** |
 | ----------- |

@@ -6,7 +6,8 @@
   - 2011年1月15日，開始有了活動。
   - 2011年1月17日，團體結成。
   - 2011年4月11日，在渋谷VUENOS初次露面。
-  - 2012年9月22 - 23日，為同經紀公司的前輩[AAA的巡迴演唱會](../Page/AAA.md "wikilink")「AAA
+  - 2012年9月22 -
+    23日，為同經紀公司的前輩[AAA的巡迴演唱會](https://zh.wikipedia.org/wiki/AAA "wikilink")「AAA
     TOUR 2012-777- TRIPLE SEVEN」在橫濱開場。
   - 2012年12月12日，第一張迷你專輯『Da-iCE』發行\[1\]。
   - 2013年1月，第1次巡演「Da-iCE LIVE TOUR 2013 〜PHASE0〜」\[2\]。
@@ -22,9 +23,9 @@
   - 2015年1月7日，第4張單曲「もう一度だけ」發行。
   - 2015年4月15日，第5張單曲「BILLION DREAMS」發行。
   - 2015年5月5日～7月30日，第5次巡演「Da-iCE Live House Tour 2015 - PHASE 4 -」。
-  - 2015年6月12日，在[日本赤十字社舉辦的](../Page/日本赤十字社.md "wikilink")「LOVE in Action
-    Meeting (LIVE)」演出\[11\]\[12\]\[13\]。
-  - 2015年7月31日～8月6日，在愛貝克思舉辦的夏日野外LIVE「[A-nation](../Page/A-nation.md "wikilink")」演出\[14\]。
+  - 2015年6月12日，在[日本赤十字社舉辦的](https://zh.wikipedia.org/wiki/日本赤十字社 "wikilink")「LOVE
+    in Action Meeting (LIVE)」演出\[11\]\[12\]\[13\]。
+  - 2015年7月31日～8月6日，在愛貝克思舉辦的夏日野外LIVE「[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")」演出\[14\]。
   - 2015年8月12日，第6張單曲「エビバディ」發行。
   - 2015年11月4日，第7張單曲「HELLO」發行。
   - 2015年11月21日～2016年1月31日，第6次巡演「Live House Tour 2015-2016 -PHASE 4-」。
@@ -492,7 +493,7 @@ UMCK-9705【通常版】</p></td>
 <td><p><strong>EVERY SEASON</strong></p></td>
 <td><ol>
 <li>Up to the Stars</li>
-<li>SUPER FICTION casts <a href="../Page/日高光啓.md" title="wikilink">SKY-HI</a></li>
+<li>SUPER FICTION casts <a href="https://zh.wikipedia.org/wiki/日高光啓" title="wikilink">SKY-HI</a></li>
 <li>BILLION DREAMS</li>
 <li>エビバディ</li>
 <li>Cynical Life</li>
@@ -558,11 +559,11 @@ UMCK-9891【初回盤C】<br />
 收錄｢ふざけちゃってミアンなサイ～弾丸韓国旅行～｣<br />
 <br />
 UMCK-9892【Flash Price盤（Da-iCE ver.）】<br />
-1. A WHOLE NEW WORLD 　2. <a href="../Page/Ariana_Grande.md" title="wikilink">Into You</a><br />
+1. A WHOLE NEW WORLD 　2. <a href="https://zh.wikipedia.org/wiki/Ariana_Grande" title="wikilink">Into You</a><br />
 UMCK-9893【Flash Price盤（Vocal ver.）】<br />
-1. <a href="../Page/HY.md" title="wikilink">366日</a>（※花村想太solo曲）2. <a href="../Page/老鷹樂隊.md" title="wikilink">Desperado</a>（※大野雄大solo曲）<br />
+1. <a href="https://zh.wikipedia.org/wiki/HY" title="wikilink">366日</a>（※花村想太solo曲）2. <a href="https://zh.wikipedia.org/wiki/老鷹樂隊" title="wikilink">Desperado</a>（※大野雄大solo曲）<br />
 UMCK-9894【Flash Price盤（Performer ver.）】<br />
-1. <a href="../Page/Aqua_timez.md" title="wikilink">決意の朝に</a>（※岩岡徹＆和田颯solo曲） 2. <a href="../Page/松浦亞彌.md" title="wikilink">100回のKISS</a>(※工藤大輝solo曲)</p></td>
+1. <a href="https://zh.wikipedia.org/wiki/Aqua_timez" title="wikilink">決意の朝に</a>（※岩岡徹＆和田颯solo曲） 2. <a href="https://zh.wikipedia.org/wiki/松浦亞彌" title="wikilink">100回のKISS</a>(※工藤大輝solo曲)</p></td>
 <td><p>第4名</p></td>
 </tr>
 <tr class="even">
@@ -699,7 +700,7 @@ UMCK-9962【Flash Price盤】、PROS-1006【mu-mo盤】<br />
 <li>BILLION DREAMS</li>
 <li>Cynical Life</li>
 <li>TOKI -acoustic ver.-</li>
-<li>FLY AWAY casts <a href="../Page/Stevie_Hoang.md" title="wikilink">Stevie Hoang</a></li>
+<li>FLY AWAY casts <a href="https://zh.wikipedia.org/wiki/Stevie_Hoang" title="wikilink">Stevie Hoang</a></li>
 <li>もう一度だけ</li>
 <li>この曲のせい</li>
 <li>Fashionable</li>

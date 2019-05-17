@@ -19,7 +19,7 @@
   - Wanted\! -
     美国旧西部风格的模组，讲述了镇治安官追捕歹徒的故事。敌人包括响尾蛇、美国原住民与其他法外之徒。此模组包含原创配音与特定时代的武器，由Maverick
     Developments制作并作为一个免费模组发布，有时与零售版的[CS和其他同一制作组的模组捆绑](../Page/反恐精英.md "wikilink")。此制作组的另一个作品为Absolute
-    Redemption，剧情设定在《[半条命](../Page/半条命_\(游戏\).md "wikilink")》与《[半条命2](../Page/半条命2.md "wikilink")》之间。\[1\]
+    Redemption，剧情设定在《[半条命](../Page/半条命_\(游戏\).md "wikilink")》与《[半条命2](https://zh.wikipedia.org/wiki/半条命2 "wikilink")》之间。\[1\]
 
 ### 多人游戏模组
 
@@ -70,7 +70,7 @@
 Metamod修复了这个问题，允许一次运行多个模组。许多模组都是在Metamod下运行，被称为Metamod[插件](../Page/插件.md "wikilink")。\[9\]
 
 AMX
-Mod\[10\]是在Metamod下运行的插件，可使服务器载入并读取脚本。其名称来源于编译后的[Pawn语言文件的后缀名](../Page/Pawn（脚本语言）.md "wikilink")，意为“抽象机器执行指令（**A**bstract
+Mod\[10\]是在Metamod下运行的插件，可使服务器载入并读取脚本。其名称来源于编译后的[Pawn语言文件的后缀名](https://zh.wikipedia.org/wiki/Pawn（脚本语言） "wikilink")，意为“抽象机器执行指令（**A**bstract
 **M**achine e**X**ecutive）”。2007年，AMX Mod被并入了与之相关并拥有更多功能的AMX Mod
 X中。\[11\]
 

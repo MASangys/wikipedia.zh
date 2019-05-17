@@ -1,7 +1,7 @@
 《**STARTING
-OVER**》是[韓國男子偶像團體](../Page/韓國.md "wikilink")[超新星的隊長](../Page/超新星_\(韓國組合\).md "wikilink")[鄭允鶴首張日語](../Page/鄭允鶴.md "wikilink")[專輯](../Page/專輯.md "wikilink")，在2014年2月19日以四個版本：通常盤及初回限定盤推出\[1\]。三張打入Oricon單曲週榜前二十名的單曲：《[Again](../Page/Again_\(鄭允鶴單曲\).md "wikilink")》、《[WAITING
+OVER**》是[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星的隊長](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")[鄭允鶴首張日語](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年2月19日以四個版本：通常盤及初回限定盤推出\[1\]。三張打入Oricon單曲週榜前二十名的單曲：《[Again](https://zh.wikipedia.org/wiki/Again_\(鄭允鶴單曲\) "wikilink")》、《[WAITING
 4
-U](../Page/WAITING_4_U.md "wikilink")》及《[曾經愛過你的一切](../Page/曾經愛過你的一切.md "wikilink")》（）在專輯推出前預先發行。
+U](https://zh.wikipedia.org/wiki/WAITING_4_U "wikilink")》及《[曾經愛過你的一切](https://zh.wikipedia.org/wiki/曾經愛過你的一切 "wikilink")》（）在專輯推出前預先發行。
 
 ## 概觀
 
@@ -41,9 +41,9 @@ U](../Page/WAITING_4_U.md "wikilink")》及《[曾經愛過你的一切](../Page
 
 ## 發行歷史
 
-| 地區                             | 日期         | 格式                                                                        | 廠牌                                     |
-| ------------------------------ | ---------- | ------------------------------------------------------------------------- | -------------------------------------- |
-| [日本](../Page/日本.md "wikilink") | 2014年2月19日 | [CD](../Page/CD.md "wikilink")、\[9\] [數位下載](../Page/數位音樂下載.md "wikilink") | [日本環球音樂](../Page/日本環球音樂.md "wikilink") |
+| 地區                             | 日期         | 格式                                                                        | 廠牌                                                        |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [日本](../Page/日本.md "wikilink") | 2014年2月19日 | [CD](../Page/CD.md "wikilink")、\[9\] [數位下載](../Page/數位音樂下載.md "wikilink") | [日本環球音樂](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink") |
 
 ## 參考資料
 

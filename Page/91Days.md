@@ -1,8 +1,8 @@
-《**91天**》（，）是由[日本動畫公司](../Page/日本.md "wikilink")[朱夏製作的首部](../Page/朱夏_\(動畫製作公司\).md "wikilink")[原創動畫](../Page/原創動畫.md "wikilink")。在2016夏季播出。\[1\]
+《**91天**》（，）是由[日本動畫公司](../Page/日本.md "wikilink")[朱夏製作的首部](https://zh.wikipedia.org/wiki/朱夏_\(動畫製作公司\) "wikilink")[原創動畫](https://zh.wikipedia.org/wiki/原創動畫 "wikilink")。在2016夏季播出。\[1\]
 
 ## 故事簡介
 
-「復仇」為主題，以[禁酒時期](../Page/禁酒時期.md "wikilink")、黑手黨橫行霸道的時代為背景，主角阿維里奧一家因為與[黑手黨抗爭而慘遭殺害](../Page/黑手黨.md "wikilink")，只有他一人逃脫。長大後的某天，他收到一封神秘的匿名信，信中羅列了當年的殺手名字，被憤恨之心蒙蔽雙眼的他於是展開了復仇計劃。
+「復仇」為主題，以[禁酒時期](https://zh.wikipedia.org/wiki/禁酒時期 "wikilink")、黑手黨橫行霸道的時代為背景，主角阿維里奧一家因為與[黑手黨抗爭而慘遭殺害](https://zh.wikipedia.org/wiki/黑手黨 "wikilink")，只有他一人逃脫。長大後的某天，他收到一封神秘的匿名信，信中羅列了當年的殺手名字，被憤恨之心蒙蔽雙眼的他於是展開了復仇計劃。
 
 ## 登場人物
 
@@ -10,7 +10,7 @@
 
   -
     本作的重要男主角。本名為**安傑羅‧拉庫澤**（Angelo
-    Laguza），15歲（官方無明確說明，但從第一集蛋糕上的8支蠟燭推測7年後為15歲），身高175cm。有個弟弟路謝爾。為人冷靜且足智多謀，性情陰鬱，唯獨與柯魯特歐親近。有吸煙的習慣。喜愛甜食，尤其是罐頭[鳳梨](../Page/鳳梨.md "wikilink")。擅長扒手的技巧。不擅長開車。
+    Laguza），15歲（官方無明確說明，但從第一集蛋糕上的8支蠟燭推測7年後為15歲），身高175cm。有個弟弟路謝爾。為人冷靜且足智多謀，性情陰鬱，唯獨與柯魯特歐親近。有吸煙的習慣。喜愛甜食，尤其是罐頭[鳳梨](https://zh.wikipedia.org/wiki/鳳梨 "wikilink")。擅長扒手的技巧。不擅長開車。
     小時候因雙親和弟弟被黑手黨殺害，而逃出從小成長的小鎮。7年後收到一封羅列當年殺害家人的殺手名單的信件，立志要向統領法尼提家族的文森、尼祿和范諾復仇。
     在尼祿一行人陷入絕境時提出和凡格合作，成功和對方交換條件。後以自己的真正身分哄騙奧爾塞，讓他誤信自己會背叛尼祿，得以生擒奧爾塞交給凡格。
     克魯迪奧勸他放棄復仇時，向他表明「放棄復仇就失去活著的意義」。
@@ -115,8 +115,8 @@
 ### 製作人員
 
   - 原作：Vanetti Family
-  - 監督： [鏑木宏](../Page/鏑木宏.md "wikilink")
-  - 系列構成：[岸本卓](../Page/岸本卓.md "wikilink")
+  - 監督： [鏑木宏](https://zh.wikipedia.org/wiki/鏑木宏 "wikilink")
+  - 系列構成：[岸本卓](https://zh.wikipedia.org/wiki/岸本卓 "wikilink")
   - 人物設計、總作畫監督：岸友洋
   - 佈景設計：青木智由紀
   - 美術監督：小倉宏昌
@@ -139,7 +139,7 @@
 <!-- end list -->
 
   - 片尾曲「Rain or Shine」\[12\]
-    作詞：zopp，作曲：、，編曲：前島康明，主唱：[ELISA](../Page/ELISA.md "wikilink")
+    作詞：zopp，作曲：、，編曲：前島康明，主唱：[ELISA](https://zh.wikipedia.org/wiki/ELISA "wikilink")
     第12話作為插曲使用。
 
 ### 各話列表
@@ -161,8 +161,8 @@
 <td><p>Day1</p></td>
 <td></td>
 <td><p>殺人之夜</p></td>
-<td><p><a href="../Page/岸本卓.md" title="wikilink">岸本卓</a></p></td>
-<td><p><a href="../Page/鏑木宏.md" title="wikilink">鏑木宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本卓" title="wikilink">岸本卓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鏑木宏" title="wikilink">鏑木宏</a></p></td>
 <td><p>岸友洋</p></td>
 <td></td>
 </tr>

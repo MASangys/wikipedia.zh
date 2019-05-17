@@ -1,12 +1,12 @@
-**鈴木Kei方程式賽車**（）乃是[日本鈴木運動公司](../Page/日本.md "wikilink")（[IRD公司前身](../Page/IRD公司.md "wikilink")，[鈴木公司子公司](../Page/鈴木公司.md "wikilink")）製造販售的入門級方程式賽車。
+**鈴木Kei方程式賽車**（）乃是[日本鈴木運動公司](../Page/日本.md "wikilink")（[IRD公司前身](../Page/IRD公司.md "wikilink")，[鈴木公司子公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）製造販售的入門級方程式賽車。
 
 ## 內容與概要
 
 2001年起鈴木公司開始舉行「鈴木方程式」[賽車活動](../Page/賽車.md "wikilink")，由旗下鈴木運動公司（今[IRD公司](../Page/IRD公司.md "wikilink")）製造出品**鈴木Kei方程式賽車**、[鈴木隼方程式賽車等二部競技專用車款](../Page/鈴木隼方程式賽車.md "wikilink")，並於同年5月15日起發售\[1\]。其中前者搭載[鈴木Kei
 Works所使用的](../Page/鈴木Kei.md "wikilink")658c.c.直列三缸DOHC
-[K6A型](../Page/鈴木K族引擎#K6A型.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器），最高出力64ps
+[K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器），最高出力64ps
 / 6,500rpm、最大扭力10.8kg・m /
-3,500rpm，搭配五速手排變速箱。由於屬於入門級，配置[FRP引擎整流罩](../Page/玻璃鋼.md "wikilink")、15吋輪圈、四輪碟煞制動系統等，售價215萬[日圓](../Page/日圓.md "wikilink")。不過原廠至2008年為止不再舉辦鈴木方程式比賽，本車款亦不再使用。
+3,500rpm，搭配五速手排變速箱。由於屬於入門級，配置[FRP引擎整流罩](https://zh.wikipedia.org/wiki/玻璃鋼 "wikilink")、15吋輪圈、四輪碟煞制動系統等，售價215萬[日圓](../Page/日圓.md "wikilink")。不過原廠至2008年為止不再舉辦鈴木方程式比賽，本車款亦不再使用。
 
 ### 機械規格參數
 
@@ -29,7 +29,7 @@ Works所使用的](../Page/鈴木Kei.md "wikilink")658c.c.直列三缸DOHC
       - 最大扭力：10.8kg・m / 3,500rpm
   - 油箱容量：25L（FT3）
   - 變速系統：5速手動排檔
-  - 避震系統：前後[雙A臂懸吊系統](../Page/雙橫臂懸架.md "wikilink")
+  - 避震系統：前後[雙A臂懸吊系統](https://zh.wikipedia.org/wiki/雙橫臂懸架 "wikilink")
   - 制動系統：4輪碟煞
   - 輪胎規格：前175/80R15 / 後175/80R15
   - 輪圈規格：前R15×6.5J / 後R15×6.5J

@@ -1,4 +1,4 @@
-《**暖DD·食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")[食平D系列的第四輯](../Page/食平D系列.md "wikilink")，全節目共30集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年12月28日起，逢星期一至五22:30－23:00在[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](../Page/myTV.md "wikilink")。
+《**暖DD·食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")[食平D系列的第四輯](../Page/食平D系列.md "wikilink")，全節目共30集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年12月28日起，逢星期一至五22:30－23:00在[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 每集內容
 
@@ -58,7 +58,7 @@
 <td><p>05</p></td>
 <td><p>1月1日</p></td>
 <td><p>星級名菜宴良朋<br />
-（嘉賓：<a href="../Page/邵美琪.md" title="wikilink">邵美琪</a>、<a href="../Page/黃德斌.md" title="wikilink">黃德斌</a>、<a href="../Page/姚子羚.md" title="wikilink">姚子羚</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a>、<a href="../Page/龔嘉欣.md" title="wikilink">龔嘉欣</a>）</p></td>
+（嘉賓：<a href="../Page/邵美琪.md" title="wikilink">邵美琪</a>、<a href="../Page/黃德斌.md" title="wikilink">黃德斌</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a>、<a href="https://zh.wikipedia.org/wiki/龔嘉欣" title="wikilink">龔嘉欣</a>）</p></td>
 <td><ul>
 <li>石斛淮山杞子烏雞湯</li>
 <li>馬拉惹味大蝦</li>
@@ -174,7 +174,7 @@
 <td><p>15</p></td>
 <td><p>1月15日</p></td>
 <td><p>歡聚星夢幫<br />
-（嘉賓：<a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<a href="../Page/胡鴻鈞.md" title="wikilink">胡鴻鈞</a>、<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>、<a href="../Page/許廷鏗.md" title="wikilink">許廷鏗</a>）</p></td>
+（嘉賓：<a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>）</p></td>
 <td><ul>
 <li>海星紅蘿蔔豬腱湯</li>
 <li>腐乳辣醬燜鴨</li>
@@ -289,7 +289,7 @@
 <td><p>25</p></td>
 <td><p>1月29日</p></td>
 <td><p>品嘗刁鑽大茶飯<br />
-（嘉賓：<a href="../Page/Super_Girls.md" title="wikilink">Super Girls</a> ）</p></td>
+（嘉賓：<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a> ）</p></td>
 <td><ul>
 <li>雞泡魚膠蓮子百合湯</li>
 <li>紅棗紅糟蒸羊架</li>
@@ -347,7 +347,7 @@
 <td><p>30</p></td>
 <td><p>2月5日</p></td>
 <td><p>足料團年大茶飯<br />
-（嘉賓：<a href="../Page/李麗霞.md" title="wikilink">李麗霞</a>、<a href="../Page/小肥.md" title="wikilink">小肥</a>、<a href="../Page/阮兆祥.md" title="wikilink">阮兆祥</a>、<a href="../Page/姜皓文.md" title="wikilink">姜皓文</a>、<a href="../Page/王梓軒.md" title="wikilink">王梓軒</a>）</p></td>
+（嘉賓：<a href="https://zh.wikipedia.org/wiki/李麗霞" title="wikilink">李麗霞</a>、<a href="../Page/小肥.md" title="wikilink">小肥</a>、<a href="../Page/阮兆祥.md" title="wikilink">阮兆祥</a>、<a href="../Page/姜皓文.md" title="wikilink">姜皓文</a>、<a href="../Page/王梓軒.md" title="wikilink">王梓軒</a>）</p></td>
 <td><ul>
 <li>非洲海底椰川貝雪梨湯</li>
 <li>意大利式烤脆皮豬腩卷</li>
@@ -361,7 +361,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
 
 | 週次 | 集數    | 日期               | 平均收視 |
 | -- | ----- | ---------------- | ---- |

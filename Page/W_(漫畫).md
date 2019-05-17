@@ -1,4 +1,4 @@
-**W**（）為[臺灣](../Page/臺灣.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")「[黃色書刊](../Page/黃色書刊_\(漫畫家\).md "wikilink")」連載的一部集動作、科幻、奇幻之大成的漫畫作品，在[comico連載中](../Page/comico.md "wikilink")，2014年8月6日開始連載，2015年第一本單行本發行。
+**W**（）為[臺灣](../Page/臺灣.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")「[黃色書刊](../Page/黃色書刊_\(漫畫家\).md "wikilink")」連載的一部集動作、科幻、奇幻之大成的漫畫作品，在[comico連載中](https://zh.wikipedia.org/wiki/comico "wikilink")，2014年8月6日開始連載，2015年第一本單行本發行。
 
 ## 劇情簡介
 
@@ -523,7 +523,7 @@
 \*;達特
 
   -
-    光頭村的軍師兼醫生，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    光頭村的軍師兼醫生，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;推爾
 
@@ -539,7 +539,7 @@
 \*;斯拜
 
   -
-    光頭村的謀士，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    光頭村的謀士，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;忽曼
 
@@ -560,17 +560,17 @@
 \*;加德曼露
 
   -
-    加德曼的女兒，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    加德曼的女兒，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;稻草
 
   -
-    光頭村造反者的首領，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    光頭村造反者的首領，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;安娜芭芭
 
   -
-    光頭村造反者成員，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    光頭村造反者成員，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 #### 鐵人村
 
@@ -615,7 +615,7 @@
 \*;沃夫
 
   -
-    狼之國國王，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之國國王，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;奧森
 
@@ -626,42 +626,42 @@
 \*;洛克
 
   -
-    狼之國負責與高等獸族溝通的外交官，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之國負責與高等獸族溝通的外交官，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;萊恩
 
   -
-    狼之國率領親衛隊的親衛隊長，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之國率領親衛隊的親衛隊長，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;達特
 
   -
-    狼之國處理國家事務的大宰相，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之國處理國家事務的大宰相，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;鬥奇
 
   -
-    狼之國親衛隊隊員，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之國親衛隊隊員，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;埃諾
 
   -
-    狼之國親衛隊隊員，愈知詳情[\#鐵人村對照](../Page/#鐵人村.md "wikilink")。
+    狼之國親衛隊隊員，愈知詳情[\#鐵人村對照](https://zh.wikipedia.org/wiki/#鐵人村 "wikilink")。
 
 \*;艾曼露
 
   -
-    達特的搭檔，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    達特的搭檔，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;愛麗絲
 
   -
-    狼之國的外交官，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之國的外交官，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;波利比
 
   -
-    負責記錄狼之國的歷史，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    負責記錄狼之國的歷史，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;海格力獅
 
@@ -785,7 +785,7 @@
 \*;奧森
 
   -
-    派瑞特城的船長，愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    派瑞特城的船長，愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;飛鳥
 
@@ -912,67 +912,67 @@
 \*;沃夫
 
   -
-    狼之組組長，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之組組長，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;洛克
 
   -
-    狼之組的作戰策士，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    狼之組的作戰策士，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;萊恩
 
   -
-    愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;達特
 
   -
-    愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;奧森
 
   -
-    愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;愛麗絲
 
   -
-    愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;艾曼露
 
   -
-    愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;埃諾
 
   -
-    愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;鬥奇
 
   -
-    愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;波利比
 
   -
-    愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;海格力獅
 
   -
-    愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;薇多
 
   -
-    愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;奧爾
 
   -
-    愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;影鬼
 
@@ -1086,7 +1086,7 @@
 
   -
     高等獸族。
-    海格宗獅的弟弟和海格力獅的哥哥，愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    海格宗獅的弟弟和海格力獅的哥哥，愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;海格武獅
 
@@ -1100,7 +1100,7 @@
 
   -
     高等獸族。
-    「忍者團」成員，愈知詳情[\#狼之組對照](../Page/#狼之組.md "wikilink")。
+    「忍者團」成員，愈知詳情[\#狼之組對照](https://zh.wikipedia.org/wiki/#狼之組 "wikilink")。
 
 \*;佛光
 
@@ -1227,7 +1227,7 @@
 
   -
     高等獸族。
-    薇多莉亞的妹妹，愈知詳情[\#狼之村對照](../Page/#狼之村.md "wikilink")。
+    薇多莉亞的妹妹，愈知詳情[\#狼之村對照](https://zh.wikipedia.org/wiki/#狼之村 "wikilink")。
 
 \*;露易絲卡蘿
 
@@ -1239,13 +1239,13 @@
 
   -
     高等獸族。
-    海格宗獅的弟弟和海格力獅的哥哥，愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    海格宗獅的弟弟和海格力獅的哥哥，愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;奧爾
 
   -
     高等獸族。
-    愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;葛莉絲
 
@@ -1455,7 +1455,7 @@
 
   -
     高等獸族。
-    賽伯拉斯之孫，原黑犬國領主，愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    賽伯拉斯之孫，原黑犬國領主，愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;黑犬
 
@@ -1467,7 +1467,7 @@
 
   -
     高等獸族。
-    布列澤的部下，愈知詳情[\#狼之國對照](../Page/#狼之國.md "wikilink")。
+    布列澤的部下，愈知詳情[\#狼之國對照](https://zh.wikipedia.org/wiki/#狼之國 "wikilink")。
 
 \*;拳太郎
 
@@ -1534,7 +1534,7 @@
   -
     半獸人，阿拉蒙的女兒。
     末日軍六獵人之一，號稱「天堂鳥」。
-    愈知詳情[\#狼之組對照](../Page/#狼之組.md "wikilink")。
+    愈知詳情[\#狼之組對照](https://zh.wikipedia.org/wiki/#狼之組 "wikilink")。
 
 \*;修行者
 
@@ -1547,32 +1547,32 @@
 
   -
     末日軍六獵人之一，號稱「戰神」。
-    皮斯村殘黨，愈知詳情[\#皮斯村對照](../Page/#皮斯村.md "wikilink")。
+    皮斯村殘黨，愈知詳情[\#皮斯村對照](https://zh.wikipedia.org/wiki/#皮斯村 "wikilink")。
 
 \*;渥德.皮格
 
   -
-    皮斯村殘黨，愈知詳情[\#皮斯村對照](../Page/#皮斯村.md "wikilink")。
+    皮斯村殘黨，愈知詳情[\#皮斯村對照](https://zh.wikipedia.org/wiki/#皮斯村 "wikilink")。
 
 \*;貝克.皮格
 
   -
-    皮斯村殘黨，愈知詳情[\#皮斯村對照](../Page/#皮斯村.md "wikilink")。
+    皮斯村殘黨，愈知詳情[\#皮斯村對照](https://zh.wikipedia.org/wiki/#皮斯村 "wikilink")。
 
 \*;其爾貝
 
   -
-    皮斯村殘黨，愈知詳情[\#皮斯村對照](../Page/#皮斯村.md "wikilink")。
+    皮斯村殘黨，愈知詳情[\#皮斯村對照](https://zh.wikipedia.org/wiki/#皮斯村 "wikilink")。
 
 \*;席夫
 
   -
-    皮斯村殘黨，愈知詳情[\#皮斯村對照](../Page/#皮斯村.md "wikilink")。
+    皮斯村殘黨，愈知詳情[\#皮斯村對照](https://zh.wikipedia.org/wiki/#皮斯村 "wikilink")。
 
 \*;辛
 
   -
-    皮斯村殘黨，愈知詳情[\#皮斯村對照](../Page/#皮斯村.md "wikilink")。
+    皮斯村殘黨，愈知詳情[\#皮斯村對照](https://zh.wikipedia.org/wiki/#皮斯村 "wikilink")。
 
 \*;雪拉
 
@@ -1630,7 +1630,7 @@
 
   -
     高等獸族，永生者之一。
-    愈知詳情[\#狼之組對照](../Page/#狼之組.md "wikilink")。
+    愈知詳情[\#狼之組對照](https://zh.wikipedia.org/wiki/#狼之組 "wikilink")。
 
 \*;威比
 

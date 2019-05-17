@@ -1,12 +1,12 @@
 [Farglory_U-Town_20160624.jpg](https://zh.wikipedia.org/wiki/File:Farglory_U-Town_20160624.jpg "fig:Farglory_U-Town_20160624.jpg")
-**iFG遠雄廣場**是一間位於[台灣](../Page/台灣.md "wikilink")[新北市](../Page/新北市.md "wikilink")[汐止區的大型](../Page/汐止區.md "wikilink")[購物中心](../Page/購物中心.md "wikilink")，為[台灣](../Page/台灣.md "wikilink")[遠雄集團首次跨足流通事業的事業體](../Page/遠雄集團.md "wikilink")，亦為汐止區唯一的百貨商場。遠雄廣場位於[遠雄U-TOWN大樓內](../Page/遠雄U-TOWN.md "wikilink")，營業樓層為地下第一層至地上四層，營業面積約31,570坪，共有200個品牌進駐，於2015年5月[試營運](../Page/試營運.md "wikilink")\[1\]，2015年10月23日開幕營業\[2\]。2016年6月由**iFG遠雄購物中心**改名為**iFG遠雄廣場**。
+**iFG遠雄廣場**是一間位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[汐止區的大型](../Page/汐止區.md "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[遠雄集團首次跨足流通事業的事業體](https://zh.wikipedia.org/wiki/遠雄集團 "wikilink")，亦為汐止區唯一的百貨商場。遠雄廣場位於[遠雄U-TOWN大樓內](https://zh.wikipedia.org/wiki/遠雄U-TOWN "wikilink")，營業樓層為地下第一層至地上四層，營業面積約31,570坪，共有200個品牌進駐，於2015年5月[試營運](https://zh.wikipedia.org/wiki/試營運 "wikilink")\[1\]，2015年10月23日開幕營業\[2\]。2016年6月由**iFG遠雄購物中心**改名為**iFG遠雄廣場**。
 
 ## 週邊
 
   - [東方科學園區](../Page/東方科學園區.md "wikilink")
-  - [新台五路交流道](../Page/新台五路交流道.md "wikilink")
-  - [遠雄U-TOWN](../Page/遠雄U-TOWN.md "wikilink")
-  - [台鐵](../Page/台鐵.md "wikilink")[汐科車站](../Page/汐科車站.md "wikilink")
+  - [新台五路交流道](https://zh.wikipedia.org/wiki/新台五路交流道 "wikilink")
+  - [遠雄U-TOWN](https://zh.wikipedia.org/wiki/遠雄U-TOWN "wikilink")
+  - [台鐵](https://zh.wikipedia.org/wiki/台鐵 "wikilink")[汐科車站](https://zh.wikipedia.org/wiki/汐科車站 "wikilink")
 
 ## 樓層
 
@@ -24,7 +24,7 @@
 
 ## 相關條目
 
-  - [遠雄U-TOWN](../Page/遠雄U-TOWN.md "wikilink")
+  - [遠雄U-TOWN](https://zh.wikipedia.org/wiki/遠雄U-TOWN "wikilink")
 
 ## 參考文獻
 

@@ -1,4 +1,4 @@
-《**Medcezir**》（）是一套[土耳其](../Page/土耳其.md "wikilink")[電視影集](../Page/電視影集.md "wikilink")，經常被定位為[肥皂劇類型](../Page/肥皂劇.md "wikilink")。這齣電視劇為**[橘郡风云](../Page/橘郡风云.md "wikilink")**的[衍生](../Page/衍生劇.md "wikilink")[前傳](../Page/前傳.md "wikilink")。
+《**Medcezir**》（）是一套[土耳其](../Page/土耳其.md "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，經常被定位為[肥皂劇類型](https://zh.wikipedia.org/wiki/肥皂劇 "wikilink")。這齣電視劇為**[橘郡风云](../Page/橘郡风云.md "wikilink")**的[衍生](https://zh.wikipedia.org/wiki/衍生劇 "wikilink")[前傳](https://zh.wikipedia.org/wiki/前傳 "wikilink")。
 
 ## 演员
 

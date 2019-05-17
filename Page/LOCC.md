@@ -10,7 +10,7 @@ Communications（經典通訊）的縮寫，它是一種用在[量子信息上](
 \[|\psi_2\rangle = \frac{1}{\sqrt{2}}\left(|0\rangle_A\otimes|1\rangle_B + |1\rangle_A\otimes|0\rangle_B\right)\]
 A和B兩個[量子位元是分隔兩地的](../Page/量子位元.md "wikilink")，並且由*愛麗絲*對[量子位元A進行操作](../Page/量子位元.md "wikilink")，由*鲍勃*對[量子位元B進行操作](../Page/量子位元.md "wikilink")。首先*愛麗絲*測量[量子位元A並得到結果](../Page/量子位元.md "wikilink")0，此時我們仍不知道當初實驗室製備的是
 \(|\psi_1\rangle\) 還是
-\(|\psi_2\rangle\)。這時候*愛麗絲*藉由打電話把結果告訴*鲍勃*，接著*鲍勃*對[量子位元B進行測量並得到結果](../Page/量子位元.md "wikilink")0，現在*鲍勃*得知[波函數塌縮成](../Page/波函數.md "wikilink")
+\(|\psi_2\rangle\)。這時候*愛麗絲*藉由打電話把結果告訴*鲍勃*，接著*鲍勃*對[量子位元B進行測量並得到結果](../Page/量子位元.md "wikilink")0，現在*鲍勃*得知[波函數塌縮成](https://zh.wikipedia.org/wiki/波函數 "wikilink")
 \(|0\rangle_A\otimes|0\rangle_B\)，所以推得實驗室製備的是 \(|\psi_1\rangle\)。
 
 ## 糾纏轉換
@@ -28,9 +28,10 @@ Operation，現在*鲍勃*做σ<sub>x</sub>操作，於是波函數變為
 
 顯然利用 LOCC 把某個態 \(|\psi\rangle\) 轉換成
 \(|\phi\rangle\)，A與B之間的糾纏只能變小或維持不變。但是並不是只要
-\(|\phi\rangle\) 的[糾纏熵比](../Page/糾纏熵.md "wikilink") \(|\psi\rangle\)
-的[糾纏熵還小就必定能透過](../Page/糾纏熵.md "wikilink") LOCC 作轉換。要判斷可不可轉，首先，可以把
-\(|\psi\rangle\) 和 \(|\phi\rangle\) 分別做：
+\(|\phi\rangle\) 的[糾纏熵比](https://zh.wikipedia.org/wiki/糾纏熵 "wikilink")
+\(|\psi\rangle\)
+的[糾纏熵還小就必定能透過](https://zh.wikipedia.org/wiki/糾纏熵 "wikilink")
+LOCC 作轉換。要判斷可不可轉，首先，可以把 \(|\psi\rangle\) 和 \(|\phi\rangle\) 分別做：
 
 \[|\psi\rangle=\sum_{i=1}^D\sqrt{\omega_i}|a_i\rangle |b_i\rangle\]
 
@@ -102,7 +103,7 @@ style="background: green; color: white" | 2 || 0.64 || 0.65 |- | 3 ||
 style="background: green; color: white" | 6 || 0.96 || 1.00 |- | 7 ||
 1.00 || 1.00 |} 表格做完馬上看出所有顏色皆為綠色，因此根據尼爾森定理，\(|\psi\rangle |c\rangle\)
 透過LOCC轉換成 \(|\phi\rangle |c\rangle\) 是可以的。由於 \(|c\rangle\)
-只是從直積態中直接加入然後轉換完畢便可取走，很像化學反應中的[催化劑](../Page/催化劑.md "wikilink")，因此可稱
+只是從直積態中直接加入然後轉換完畢便可取走，很像化學反應中的[催化劑](https://zh.wikipedia.org/wiki/催化劑 "wikilink")，因此可稱
 \(|c\rangle\) 是催化態。
 
 ### 塔庫定理

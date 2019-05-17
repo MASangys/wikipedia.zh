@@ -1,4 +1,4 @@
-是[Atlus出品的](../Page/Atlus.md "wikilink")[后启示录风](../Page/后启示录.md "wikilink")[电子角色扮演游戏](../Page/电子角色扮演游戏.md "wikilink")，于2016年2月在日本[任天堂3DS推出](../Page/任天堂3DS.md "wikilink")。游戏为[女神转生系列作品之一](../Page/女神转生系列.md "wikilink")，继承了《[真·女神转生IV](../Page/真·女神转生IV.md "wikilink")》的世界观。
+是[Atlus出品的](../Page/Atlus.md "wikilink")[后启示录风](https://zh.wikipedia.org/wiki/后启示录 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，于2016年2月在日本[任天堂3DS推出](../Page/任天堂3DS.md "wikilink")。游戏为[女神转生系列作品之一](https://zh.wikipedia.org/wiki/女神转生系列 "wikilink")，继承了《[真·女神转生IV](../Page/真·女神转生IV.md "wikilink")》的世界观。
 
 ## 设定
 

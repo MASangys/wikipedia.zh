@@ -3,7 +3,7 @@ Bastiais**，是一支法國職業足球會，成立於1920年。他們位於科
 
 他們曾有主場球場Stade
 d'Erbajolo，但現時在法甲球會[巴斯蒂亞體育會的主場](../Page/巴斯蒂亞體育會.md "wikilink")
-[Armand-Césari作賽](../Page/Stade_Armand_Cesari.md "wikilink")。\[2\]
+[Armand-Césari作賽](https://zh.wikipedia.org/wiki/Stade_Armand_Cesari "wikilink")。\[2\]
 
 ## 参考文献
 

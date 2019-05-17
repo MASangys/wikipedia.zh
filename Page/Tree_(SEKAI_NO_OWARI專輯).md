@@ -4,10 +4,11 @@ FACTORY發行](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ## 背景與發行
 
-與前作《[ENTERTAINMENT](../Page/ENTERTAINMENT.md "wikilink")》距離約兩年半的新作，收錄單曲《[RPG](../Page/RPG_\(單曲\).md "wikilink")》、《[Death
-Disco](../Page/Death_Disco.md "wikilink")》、《[Snow Magic
-Fantasy](../Page/Snow_Magic_Fantasy.md "wikilink")》、《[火焰與森林的嘉年華](../Page/火焰與森林的嘉年華_\(單曲\).md "wikilink")》、《[Dragon
-Night](../Page/Dragon_Night.md "wikilink")》5首A面歌曲，c/w曲《Earth
+與前作《[ENTERTAINMENT](https://zh.wikipedia.org/wiki/ENTERTAINMENT "wikilink")》距離約兩年半的新作，收錄單曲《[RPG](../Page/RPG_\(單曲\).md "wikilink")》、《[Death
+Disco](https://zh.wikipedia.org/wiki/Death_Disco "wikilink")》、《[Snow
+Magic
+Fantasy](https://zh.wikipedia.org/wiki/Snow_Magic_Fantasy "wikilink")》、《[火焰與森林的嘉年華](https://zh.wikipedia.org/wiki/火焰與森林的嘉年華_\(單曲\) "wikilink")》、《[Dragon
+Night](https://zh.wikipedia.org/wiki/Dragon_Night "wikilink")》5首A面歌曲，c/w曲《Earth
 Child》、《銀河街的惡夢》、《丑角》，以及5首新曲《美人魚狂想曲》、《Moonlight
 Station》等，一共收錄13首歌\[1\]\[2\]。
 
@@ -27,17 +28,18 @@ Land篇@埼玉超級體育館』的完整影像\[3\]\[4\]。
   -
     專輯的開場曲目，全純音樂構成。
 
-**Moonlight Station**（[日語](../Page/日語.md "wikilink")：）
+**Moonlight
+Station**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）
 
   -
     專輯唯一充滿夏日風情的歌曲，使用了和太鼓、三味線、篠笛等樂器，以及充滿節日氣氛的背景音樂以表現「和風夏日祭」的感覺。此外，歌曲也使用了汽車的聲音作鼓點\[8\]。
     Fukase因為被女友要求「請為我作一首歌曲」而在創作完《RPG》後寫下了本曲，但沒有獲得很好的評價\[9\]。
 
-**美人魚狂想曲**（[日語](../Page/日語.md "wikilink")：）
+**美人魚狂想曲**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）
 
   -
     在第7張單曲《Dragon
-    Night》發售前，便已經作為[電影](../Page/電影.md "wikilink")『[海月姬](../Page/海月姬.md "wikilink")』主題曲而發表的歌曲\[10\]。
+    Night》發售前，便已經作為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")『[海月姬](../Page/海月姬.md "wikilink")』主題曲而發表的歌曲\[10\]。
     在收到電影的搭配請求後由Nakajin提議、樂隊少有先寫下歌詞的歌曲。在《火焰與森林的嘉年華》發行的期間，2014年4月開始製作，並一直於準備演唱會『TOKYO
     FANTASY』以及單曲《Dragon Night》的製作期間製作本曲\[11\]。
     使用了全球只有一台的樂器「Meteora」製造在水中吹泡沫的聲音，配合電影『海月姬』的主題\[12\]。

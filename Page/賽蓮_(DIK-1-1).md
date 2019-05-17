@@ -11,7 +11,7 @@ Johanson）曾有以下評論：「要是露西是20世紀世紀最偉大的化�
 
 ## 發現
 
-2000年12月由[衣索比亞籍古人類學家](../Page/衣索比亞.md "wikilink")率領的團隊發現，地點位於非洲古國衣索比亞的迪奇卡(Dikika)，一共花了五年的時間整理記錄出土的化石，並利用[電腦斷層掃描](../Page/電腦斷層掃描.md "wikilink")（CT
+2000年12月由[衣索比亞籍古人類學家](https://zh.wikipedia.org/wiki/衣索比亞 "wikilink")率領的團隊發現，地點位於非洲古國衣索比亞的迪奇卡(Dikika)，一共花了五年的時間整理記錄出土的化石，並利用[電腦斷層掃描](https://zh.wikipedia.org/wiki/電腦斷層掃描 "wikilink")（CT
 Scan）牙齒的部分，確認性別為女性且死時年齡為三歲。「Selam」在許多非洲國家的詞彙中意思為「和平」，團隊希望能為該地區，甚至全世界，給予和平的祝福。\[5\]而阿連賽吉德認為，賽蓮最令人驚豔的在於她不只出土了完整的軀幹、腳甚至手指，更重要的是，她還保存了整個臉。\[6\]
 
 ## 遺址埋藏學
@@ -27,9 +27,9 @@ Scan）牙齒的部分，確認性別為女性且死時年齡為三歲。「Sela
 
 ### [舌骨](../Page/舌骨.md "wikilink")（Hyoid bone）
 
-為第一個發現的阿法南猿舌骨，也是全世界僅次[尼安德塔人的第二次發現](../Page/尼安德塔人.md "wikilink")。舌骨之重要在於其後影響了人類的發聲，然而舌骨極脆弱保存相當不易，特別是幼兒，故此次為考古史上大發現。在賽蓮的化石中，舌骨明顯仍停留在猩猩的階段，\[10\]
+為第一個發現的阿法南猿舌骨，也是全世界僅次[尼安德塔人的第二次發現](https://zh.wikipedia.org/wiki/尼安德塔人 "wikilink")。舌骨之重要在於其後影響了人類的發聲，然而舌骨極脆弱保存相當不易，特別是幼兒，故此次為考古史上大發現。在賽蓮的化石中，舌骨明顯仍停留在猩猩的階段，\[10\]
 研究團隊的成員之一，英國倫敦大學學院（[University College
-London](../Page/University_College_London.md "wikilink")）的教授Fred
+London](https://zh.wikipedia.org/wiki/University_College_London "wikilink")）的教授Fred
 Spoor認為，此發現提供了研究人類聲帶[演化的初探](../Page/演化.md "wikilink")。\[11\]
 
 ### [肩胛骨](../Page/肩胛骨.md "wikilink")（Scapula）
@@ -42,7 +42,8 @@ fossa）不若黑猩猩的窄，也沒有那麼彎的脊椎，這些特徵正介
 ## 相關問題
 
 樹棲與地面活動爭議。由賽蓮的肩胛骨特徵，顯示出其會在樹上攀爬，但是究竟賽蓮仍如同猩猩一般過著樹棲的生活，抑或早已完全在地面活動？關於對賽蓮的肩胛骨看法的分歧，引發了學者們的討論。英國倫敦大學學院（[University
-College London](../Page/University_College_London.md "wikilink")）教授Fred
+College
+London](https://zh.wikipedia.org/wiki/University_College_London "wikilink")）教授Fred
 Spoor：「有些學者可能認為此特徵繼承自祖先，並顯露出些微人的生活型態；另外有些人認為他們仍經常使用手臂攀爬。然而，這並不代表他們整天擺盪在樹林間，而是某層面上他們仍會攀爬，比如夜晚在樹上築巢或覓食。」。\[13\]
 
 ## 参考资料

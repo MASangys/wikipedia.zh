@@ -1,29 +1,29 @@
-《**假面騎士EX-AID**》（，），自2016年10月2日起於[朝日電視台放映](../Page/朝日電視台.md "wikilink")，每週日08:00-08:30播出的日本[特攝電視劇](../Page/特攝.md "wikilink")，假面騎士EX-AID也是該劇主角變身的名字。本作為是假面騎士系列誕生45週年紀念作\[1\]，口號是「Game
+《**假面騎士EX-AID**》（，），自2016年10月2日起於[朝日電視台放映](../Page/朝日電視台.md "wikilink")，每週日08:00-08:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士EX-AID也是該劇主角變身的名字。本作為是假面騎士系列誕生45週年紀念作\[1\]，口號是「Game
 Start\!」、「No
 Continue來改變命運吧！！」。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第18部[平成系列作品](../Page/平成.md "wikilink")。
 
 播映方面，台灣於2017年9月9日至翌年2018年7月14日，週六08:30\~09:00在[東森綜合台雙語播出](../Page/東森綜合台.md "wikilink")，隔天（週日）16:30\~17:00於[東森超視台重播中文配音版](../Page/東森超視.md "wikilink")。
 
 香港同樣因無線電視取消假面騎士時段沒有播放本作，並蹺過前作《假面騎士Drive》和《假面騎士Ghost》推出此作相關商品，於2017年11月開始以「幪面超人EX-AID
-電玩救世篇」為題在少年雜誌《LUCKY》連載本作漫畫。而剧中主角宝生永梦已於2018年4月8日在無綫電視翡翠台播出的《[宇宙戰隊](../Page/宇宙戰隊九連者.md "wikilink")》中先行登場。其後由2019年2月28日開始，逢星期四於視頻平台[Starnext上架日語原聲版本](../Page/Starnext.md "wikilink")。
+電玩救世篇」為題在少年雜誌《LUCKY》連載本作漫畫。而剧中主角宝生永梦已於2018年4月8日在無綫電視翡翠台播出的《[宇宙戰隊](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》中先行登場。其後由2019年2月28日開始，逢星期四於視頻平台[Starnext上架日語原聲版本](https://zh.wikipedia.org/wiki/Starnext "wikilink")。
 
-中國大陸于2018年10月在[騰訊視頻全集上架雙語版本](../Page/騰訊視頻.md "wikilink")。
+中國大陸于2018年10月在[騰訊視頻全集上架雙語版本](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")。
 
 ## 本作特色
 
 被形容為「平成騎士史上超弩級的衝擊」作主打亮點。亦自《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後再次以複數假面騎士為主及使用非單元劇的連貫式劇本。
 
-及首次以[醫院相關事物作為背景題材](../Page/醫院.md "wikilink")，亦是首次以[醫生作為主角的職業](../Page/醫生.md "wikilink")。\[2\]\[3\]
+及首次以[醫院相關事物作為背景題材](../Page/醫院.md "wikilink")，亦是首次以[醫生作為主角的職業](https://zh.wikipedia.org/wiki/醫生 "wikilink")。\[2\]\[3\]
 
 假面騎士設定上擁有迷你及等身比例形態變化的特色\[4\]，加上風鏡、眼睛色膜以及模仿頭髮的配件亦偏離過去對假面騎士所認識的印象。根據製作人表示，這是為了達成「這根本不是假面騎士」而又能讓孩子強烈意識「這是假面騎士」的設定構思。此外同年旗下的超級戰隊40週年作《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》在某程度上同樣採用了的電玩元素的設計\[5\]，為免有所衝突而考慮了作出具動畫風格的差異化設定。於2016年9月7日進行的同年10月改編說明會上，[朝日電視台編成部長赤津一彦提及互聯網褒貶假面騎士EX](../Page/朝日電視台.md "wikilink")-AID設計的話題時，則表示有信心其他人會對其「越看越帥」。\[6\]
 
-系列以來首次加入[電玩的元素](../Page/電玩.md "wikilink")，過去大森在前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》企劃時已打算提案，但當時主要目標並非計對玩遊戲的兒童層年代而不獲採用。直至本作提案中雖然也有反對的意見，但因為大森接觸兒童層遊戲的機會變多，以及家長的世代亦能體驗到電腦遊戲的關係，至此深信現今熟識遊戲的存在變得廣泛而決定採用。\[7\]
+系列以來首次加入[電玩的元素](https://zh.wikipedia.org/wiki/電玩 "wikilink")，過去大森在前作《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》企劃時已打算提案，但當時主要目標並非計對玩遊戲的兒童層年代而不獲採用。直至本作提案中雖然也有反對的意見，但因為大森接觸兒童層遊戲的機會變多，以及家長的世代亦能體驗到電腦遊戲的關係，至此深信現今熟識遊戲的存在變得廣泛而決定採用。\[7\]
 
 配樂為系列史上首次動用三名作曲家進行創作。
 
-本作主題曲《Excite》於2017年《第68回NHK紅白歌合戦》中由三浦大知演唱\[8\]\[9\]，是繼2005年《[假面騎士響鬼](../Page/假面騎士響鬼.md "wikilink")》的片尾曲『少年よ』後\[10\]，相隔12年後再度有假面騎士系列歌曲踏上[NHK紅白歌合戰舞台](../Page/NHK紅白歌合戰.md "wikilink")。
+本作主題曲《Excite》於2017年《第68回NHK紅白歌合戦》中由三浦大知演唱\[8\]\[9\]，是繼2005年《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》的片尾曲『少年よ』後\[10\]，相隔12年後再度有假面騎士系列歌曲踏上[NHK紅白歌合戰舞台](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
-繼前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》後再次使用「假面騎士」的稱呼，亦是平成時代首次連續三套作品均有使用該名號直呼。
+繼前作《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》後再次使用「假面騎士」的稱呼，亦是平成時代首次連續三套作品均有使用該名號直呼。
 
 本作為系列史上首次顯示必殺技名稱，字體會因應不同卡帶而有所不同。
 
@@ -35,17 +35,18 @@ Continue來改變命運吧！！」。《[假面騎士系列](../Page/假面騎�
 
 本作是目前全假面騎士系列中最多正規女性騎士變身者\[12\]，最多惡役騎士改邪歸正，以及最多劇中死亡的騎士在後期復活\[13\]\[14\]的作品。
 
-繼《[假面騎士Kabuto](../Page/假面騎士Kabuto.md "wikilink")》後，本作的仮野明日那 /
+繼《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》後，本作的仮野明日那
+/
 Poppypipopapo為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》中少數本身並非人類（不包含因外在因素而變成非人類）的女主角，亦是第二位曾中途叛變，後期改邪歸正的女主角\[15\]。
 
 本作繼《[假面騎士Fourze](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》之後財團X再次登場，但只在《幪面超人Brave
 ～Survive吧！復活的野獸騎士・小隊～》中出現。
 
-本作自《[假面騎士Wizard](../Page/假面騎士Wizard.md "wikilink")》起至本作連續五套作品均有出现量产骑士系统\[16\]。
+本作自《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》起至本作連續五套作品均有出现量产骑士系统\[16\]。
 
 假面骑士系列作品中首次女主角在正篇使用專属變身器變身假面騎士\[17\]。
 
-本作為系列史上首次以無敵的字眼作為終極型態，並且自《[假面騎士KIVA](../Page/假面騎士KIVA.md "wikilink")》後再次於正篇中以金色為終極型態的主配色。同時亦自《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》、《[假面騎士鄂鬥](../Page/假面騎士鄂鬥.md "wikilink")》及《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後再次需要透過超進化形態才能變身成終極型態。
+本作為系列史上首次以無敵的字眼作為終極型態，並且自《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》後再次於正篇中以金色為終極型態的主配色。同時亦自《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》、《[假面騎士鄂鬥](../Page/假面騎士鄂鬥.md "wikilink")》及《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後再次需要透過超進化形態才能變身成終極型態。
 
 本作繼前作《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》後，再次與超級戰隊系列作聯動劇情，也同樣地以非全體形式出現在雙方劇情中。
 
@@ -66,7 +67,7 @@ Poppypipopapo為《[假面騎士系列](../Page/假面騎士系列.md "wikilink"
 本作中的九条貴利矢和古拉法特的演員小野塚勇人和町井祥真倆人本因在劇情前段中戰死而無後續劇情演出\[22\]，但隨後因觀眾的擁簇而再次演出，亦是假面騎士系列首次出現因受歡迎的角色初期死去中期復活的情況。
 
 於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with
-傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](../Page/假面騎士W.md "wikilink")》至本作實为同一世界觀。
+傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至本作實为同一世界觀。
 
 ## 故事概要
 
@@ -147,7 +148,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
         為騎士們最初持有的十款卡帶的原型版本，也是在本作時間5年前引發零日事件的元兇，而Genm 所持有的「原型麥提行動X（Proto
         Mighty Action X）」就是這些原型卡帶之一，除了「原型麥提行動X（Proto Mighty Action
         X）」以外的其他原型卡帶的特徵皆為整體為黑色，以及卡帶上的圖案為黑白色，根據花家大我在「裏技」第二話的說法，幻夢集團至今仍然保存著這些危險的卡帶。
-        雖然本作并非首次出現原型形態，但與以往不同的是原型形態會比正式形態較弱（如《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的Protodrive
+        雖然本作并非首次出現原型形態，但與以往不同的是原型形態會比正式形態較弱（如《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的Protodrive
         和Drive )，而本作的原型形態卻比正式形態強（即Genm 和Ex-Aid ）。
         根據帕拉德所敘述得知原型卡帶擁有深不可測的力量，但過度使用會引火自焚。
         後根據檀黎斗述說得知因遊戲病而消滅的人其身體數據全都保留在這十款原型卡帶中，可透過攻略「假面騎士編年史」遊戲使遭到消滅的人重新復活，但目前只有檀正宗使用假面騎士Cronus的力量將原型卡帶的數據將人復活。
@@ -205,7 +206,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
       - 騎士量表
         原文： / *Rider Gauge*
         每位玩家的胸口都有代表其的能量格，類似電玩中玩家的血量。當被敵人攻擊時，能量格會隨著攻擊遞減。當能量格達至零時，即代表該玩家被擊敗（稱為「[Game
-        Over](../Page/Game_Over.md "wikilink")」），然後玩家會數據化死亡。所以玩家的能量格遞減至紅色範圍内多數都會選擇解除變身以免死亡\[36\]。
+        Over](https://zh.wikipedia.org/wiki/Game_Over "wikilink")」），然後玩家會數據化死亡。所以玩家的能量格遞減至紅色範圍内多數都會選擇解除變身以免死亡\[36\]。
 
 <!-- end list -->
 
@@ -223,7 +224,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
   - 缺陷者
     原文： / *-{Burgster}-*
     本作所登場怪人的稱呼。
-    原由電玩遊戲所產生，之後進化成能夠感染人體的電腦病毒，後透過與檀正宗對話得知真相為當初在2000年的「[千禧蟲危機](../Page/千禧蟲危機.md "wikilink")」時候一時錯誤的時候所產生的新型電腦病毒。
+    原由電玩遊戲所產生，之後進化成能夠感染人體的電腦病毒，後透過與檀正宗對話得知真相為當初在2000年的「[千禧蟲危機](https://zh.wikipedia.org/wiki/千禧蟲危機 "wikilink")」時候一時錯誤的時候所產生的新型電腦病毒。
     寄生於人體後再持續增值，感染者直至稱為「遊戲病」的症狀發作後會佔據整個身體並實體化異變成巨大怪物，但當被假面騎士以Level 1
     形態分離至患者體外後會顯露原來的形態。
     一旦將缺陷者分離出患者體外後，就必須在逐漸透明化的患者消失前快速打倒，否則脫離的缺陷者就會佔據感染者的身體並取代患者的存在。
@@ -259,7 +260,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
     當時事件導致大量患者（包含幻夢集團的遊戲測試員）因感染缺陷者病毒而消失。
     之後因此使得衛生省與幻夢集團合作進行開發玩家驅動器及騎士卡帶，而當時被選上的適合者正是就職於聖都大學附屬醫院放射科的花家大我。
     透過檀黎斗得知當年因所開發的十款遊戲全都感染上缺陷者病毒，才導致引發出零日事件。
-    後透過與檀正宗對話得知真相為當初在2000年的「[千禧蟲危機](../Page/千禧蟲危機.md "wikilink")」時候一時錯誤的時候所產生的新型電腦病毒，而檀黎斗利用這種病毒在本作時間五年前引發「零日事件」，但事後卻嫁禍給自己父親檀正宗，但在第33話得知事實上檀正宗是刻意讓自己接受嫁禍遭到逮捕，目的在於給足時間讓自己兒子檀黎斗甚至帕拉德等人替他完成「假面騎士編年史」這款遊戲。
+    後透過與檀正宗對話得知真相為當初在2000年的「[千禧蟲危機](https://zh.wikipedia.org/wiki/千禧蟲危機 "wikilink")」時候一時錯誤的時候所產生的新型電腦病毒，而檀黎斗利用這種病毒在本作時間五年前引發「零日事件」，但事後卻嫁禍給自己父親檀正宗，但在第33話得知事實上檀正宗是刻意讓自己接受嫁禍遭到逮捕，目的在於給足時間讓自己兒子檀黎斗甚至帕拉德等人替他完成「假面騎士編年史」這款遊戲。
     最終話擊敗檀正宗之後，永夢為免五年前的悲劇再次發生，而與衛生省大臣官房審議官日向恭太郎商議後決定研發一種專門對抗遊戲病病毒的疫苗，並由電腦救命中心和幻夢集團合作研發。
 
 <!-- end list -->
@@ -358,7 +359,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
 
 ### 假面騎士Ex-Aid
 
-變身者：寶生永夢 / 帕拉德\[59\] （替身演員：（LV1、X（10）） / （LV2、3、4、5、XX（20）R、99、無敵）/
+變身者：寶生永夢 / 帕拉德\[59\]（替身演員：（LV1、X（10）） / （LV2、3、4、5、XX（20）R、99、無敵）/
 （XX（20）L）、CV：飯島寛騎 / 甲斐翔真（XX（20）R））
 
   -
@@ -1005,7 +1006,7 @@ Level 3</strong></p></td>
 ### 假面騎士Snipe
 
 變身者：花家大我（替身演員：藤田慧（LV1） /
-[永德](../Page/永德.md "wikilink")（LV2、3、5、50）、CV：松本享恭）
+[永德](https://zh.wikipedia.org/wiki/永德 "wikilink")（LV2、3、5、50）、CV：松本享恭）
 
   -
     原文： / *Kamen Rider Snipe*
@@ -1082,7 +1083,7 @@ Level 3</strong></p></td>
 <td><p>以「Shooting Gamer Level 2」作爲基礎再以「Combat Gamer」進行武裝的飛行型形態。此時肩膊「Surastrimers」、胸部「Guard Aero Nose」、背部「Air Force Wingers」及強化補丁「Raid Cockpit」會被武裝，而其右眼的劉海狀眼罩亦會掀起。由於裝上重型武裝，所以速度比Level 2稍微減弱。不過卻追加了飛行能力及兩個加特林大炮「Gatling Combats」，所以擅長空戰並可向敵人發動連續性的炮彈攻擊。發動必殺技時更會無差別地發出極具破壞性的炮彈攻擊。</p></td>
 <td><p><strong>Jet Critical Strike</strong><br />
 原文：<br />
-必殺技與<a href="../Page/假面騎士龍騎#.E5.81.87.E9.9D.A2.E9.A8.8E.E5.A3.AB.E9.90.B5.E5.85.B5.md" title="wikilink">假面騎士鐵兵的</a><strong>世界末日（End of World）</strong>類似。<br />
+必殺技與<a href="https://zh.wikipedia.org/wiki/假面騎士龍騎#.E5.81.87.E9.9D.A2.E9.A8.8E.E5.A3.AB.E9.90.B5.E5.85.B5" title="wikilink">假面騎士鐵兵的</a><strong>世界末日（End of World）</strong>類似。<br />
 發動時會無差別地發出極具破壞性的炮彈攻擊，直至敵人被擊破爲止。<br />
 <strong>Jet Critical Finish</strong><br />
 原文：<br />
@@ -1337,7 +1338,7 @@ Level X</strong></p></td>
 
 ### 假面騎士Genm
 
-變身者：檀黎斗 / 寶生清長\[73\] / 檀黎斗II\[74\]（替身演員：藤田慧（LV1） / （LV2、3、X（10）、X） /
+變身者：檀黎斗 / 寶生清長\[73\]/ 檀黎斗II\[74\]（替身演員：藤田慧（LV1） / （LV2、3、X（10）、X） /
 （0、X-0） / （LV2單車）、CV：岩永徹也）
 
   -
@@ -1564,7 +1565,7 @@ Level 2</strong></p></td>
 
   -
     原文：
-    為假面騎士Genm專用的手持武器，一般為平板模式。可變換雷射槍與[電鋸兩種轉換模式](../Page/電鋸.md "wikilink")。
+    為假面騎士Genm專用的手持武器，一般為平板模式。可變換雷射槍與[電鋸兩種轉換模式](https://zh.wikipedia.org/wiki/電鋸 "wikilink")。
     另外同時可作為崩源體的變身器。
     雷射槍模式的聲效『Chu Dōn\!』（原文：）；電鋸模式的聲效『Gyu Īn\!』（原文：）（台譯：撕裂）
 
@@ -1757,7 +1758,7 @@ Level 39'''</p></td>
 
 ### 騎士玩家
 
-變身者：一般市民 / 天崎戀\[87\] / 西馬妮可 / 鏡灰馬（CV：\[88\] / 小手伸也 / 黑崎莉奈 / 博多華丸）
+變身者：一般市民 / 天崎戀\[87\]/ 西馬妮可 / 鏡灰馬（CV：\[88\]/ 小手伸也 / 黑崎莉奈 / 博多華丸）
 
   -
     原文： / *Ride-Player*
@@ -2181,7 +2182,7 @@ Level 0</strong></p></td>
 ### 變身道具
 
 【「■■」代表主騎士卡帶所屬音效，詳情請見「[騎士卡帶（Rider
-Gashat）](../Page/假面騎士EX-AID#騎士卡帶（Rider_Gashat）.md "wikilink")」；「▲▲」代表騎士卡帶首個字詞，例如「Mighty
+Gashat）](https://zh.wikipedia.org/wiki/假面騎士EX-AID#騎士卡帶（Rider_Gashat） "wikilink")」；「▲▲」代表騎士卡帶首個字詞，例如「Mighty
 Action X」為「Mighty」、「Taddle Quest」為「Taddle」；「●●」代表次騎士卡帶所屬音效；「XX」代表Buggle
 Driver和Gashat Gear Dual的必殺技音效】
 
@@ -2320,7 +2321,7 @@ Driver和Gashat Gear Dual的必殺技音效】
 
 ### 能量道具
 
-<small>有關參考：[用語](../Page/假面騎士EX-AID#用語.md "wikilink")</small>
+<small>有關參考：[用語](https://zh.wikipedia.org/wiki/假面騎士EX-AID#用語 "wikilink")</small>
 
 :\*  → 一定時間內進行高速移動。
 
@@ -2392,11 +2393,11 @@ Driver和Gashat Gear Dual的必殺技音效】
 
 ### Gama
 
-<small>有關參考：[用語](../Page/假面騎士EX-AID#用語.md "wikilink")</small>
+<small>有關參考：[用語](https://zh.wikipedia.org/wiki/假面騎士EX-AID#用語 "wikilink")</small>
 
 ## 騎士卡匣（Rider Gashat）
 
-<small>有關參考：[用語](../Page/假面騎士EX-AID#用語.md "wikilink")</small>
+<small>有關參考：[用語](https://zh.wikipedia.org/wiki/假面騎士EX-AID#用語 "wikilink")</small>
 
 <table>
 <thead>
@@ -2670,7 +2671,7 @@ Level 0</p></td>
 （日文原文，中文意思「爆衝！獨衝！怒衝！亂衝！爆衝越野車！」）。<br />
 本篇第4話中成功通關。<br />
 九條貴利矢死後該卡帶由寶生永夢持有，Bike Gamer 並成爲Ex-Aid的戰騎。<br />
-因檀正宗給予的關係，使得九条貴利矢手上持有第二枚「爆衝越野車」卡帶[117] 。</p></td>
+因檀正宗給予的關係，使得九条貴利矢手上持有第二枚「爆衝越野車」卡帶[117]。</p></td>
 </tr>
 <tr class="even">
 <td><p>style="text-align:center”|Giri Giri Chambara</p></td>
@@ -2871,7 +2872,7 @@ Level XX</p></td>
 <td><p>幻想角色扮演<br />
 遊戲</p></td>
 <td><p>-</p></td>
-<td><p>《<a href="../Page/假面騎士大亂鬥_GANBARIZING.md" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIZING" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。<br />
 變身成為主要形態 <strong>冒險玩家</strong>[128]。<br />
 開啟Level 2時音效為「Taddle、Meguru、Taddle、Meguru、Taddle Quest!」<br />
 （日文原文，中文意思「探索吧、轉走吧、探索吧、轉走吧、泰特爾冒險！」）。</p></td>
@@ -2883,7 +2884,7 @@ Level XX</p></td>
 <td><p>style="text-align:center”|試作型終極火線對決</p></td>
 <td><p>射擊遊戲</p></td>
 <td><p>五年前花家大我使用的騎士卡帶[129]。<br />
-《<a href="../Page/假面騎士大亂鬥_GANBARIZING.md" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。[130]<br />
+《<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIZING" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。[130]<br />
 變身成為主要形態 <strong>射擊玩家（原型）</strong>[131]。<br />
 開啟Level 2時音效為「Ba-Bang Bang! Bang Ba-Bang! Bang Bang Bang Bang Shooting! Go!」<br />
 （日文原文，中文意思）。</p></td>
@@ -2905,7 +2906,7 @@ Level XX</p></td>
 <td><p>style="text-align:center”|試作型機戰大衝突</p></td>
 <td><p>機器人<br />
 戰鬥遊戲</p></td>
-<td><p>《<a href="../Page/假面騎士大亂鬥_GANBARIZING.md" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIZING" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定<br />
 變身形態 <strong>機械動作玩家</strong>[132]。<br />
 開啟Level 3時音效為「Buttatake! Totsugeki! Mouretsu Punch! Gekitotsu Robots!」<br />
 （日文原文，中文意思「 狠狠打擊！突擊！猛烈拳擊！激突機械！」）。<br />
@@ -2938,7 +2939,7 @@ Level XX</p></td>
 <td><p>style="text-align:center”|</p></td>
 <td><p>style="text-align:center”|試作型戰慄武士決鬥</p></td>
 <td><p>劍鬥遊戲</p></td>
-<td><p>《<a href="../Page/假面騎士大亂鬥_GANBARIZING.md" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIZING" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定<br />
 變身形態 <strong>劍擊機車玩家</strong>。<br />
 開啟Level 3時音效為「Giri Giri! Bari Bari! Chambara!」<br />
 （日文原文，中文意思「斬・斬！切・切！劍擊！」）與「戰慄武士決鬥卡帶」同樣可召喚專屬武器Gashacon Sparrow，本篇第36話由假面騎士Lazer Turbo施展必殺技。<br />
@@ -3032,7 +3033,7 @@ Wish in the dark/PEOPLE GAME♪）</p></td>
 <td><p>傳說騎士</p></td>
 <td><p>Ex-aid</p></td>
 <td><p>Level 2</p></td>
-<td><p>《<a href="../Page/假面騎士大亂鬥_GANBARIZING.md" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIZING" title="wikilink">假面騎士大亂鬥 GANBARIZING</a>》限定。<br />
 變身成為 <strong>1號玩家</strong>。<br />
 開啟Level 2時音效為「Rider Punch! Rider Kick! Rider Rider Action! Go!」<br />
 （日文原文「」，中文意思「騎士飛拳！騎士飛踢！騎士騎士動感！GO！」）。</p></td>
@@ -3262,7 +3263,7 @@ Level 2</p></td>
 
 ## 本作登場怪人
 
-<small>有關參考：[用語](../Page/假面騎士EX-AID#用語.md "wikilink")</small>
+<small>有關參考：[用語](https://zh.wikipedia.org/wiki/假面騎士EX-AID#用語 "wikilink")</small>
 
 ### 崩源體病毒
 
@@ -3275,7 +3276,7 @@ Level 2</p></td>
     會將身上的服裝及武器及外觀造型依照所屬的崩源體遊戲設定進行更換。
     第43話因為蓋姆迪烏斯克洛諾斯覺醒成超蓋姆迪烏斯的關係使得所有曾經感染過蓋姆迪烏斯崩源體病毒的患者轉變成崩源體病毒\[135\]，甚至遭到攻擊者亦受到感染而變化。
 
-#### [涅布拉崩源體](../Page/星雲.md "wikilink")
+#### [涅布拉崩源體](https://zh.wikipedia.org/wiki/星雲 "wikilink")
 
   -
     原文： / *Nebula *
@@ -3311,7 +3312,7 @@ Level 2</p></td>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/鹽.md" title="wikilink">索爾堤崩源體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鹽" title="wikilink">索爾堤崩源體</a></p></td>
 <td><p>Salty </p></td>
 <td><p>1</p></td>
 <td><p>須山颯太</p></td>
@@ -3327,14 +3328,14 @@ Action X</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/阿蘭布拉宮.md" title="wikilink">阿蘭布拉崩源體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿蘭布拉宮" title="wikilink">阿蘭布拉崩源體</a></p></td>
 <td><p>Alhambra </p></td>
 <td><p>2</p></td>
 <td><p>名取蓮介</p></td>
 <td><p>豪田麻美</p></td>
 <td><p>198.0cm</p></td>
 <td><p>103.4kg</p></td>
-<td><p>宿主發病時會變成像<a href="../Page/噬菌體.md" title="wikilink">噬菌體的巨大怪物</a>。<br />
+<td><p>宿主發病時會變成像<a href="https://zh.wikipedia.org/wiki/噬菌體" title="wikilink">噬菌體的巨大怪物</a>。<br />
 能製造發射大量矢箭的電子城牆。</p></td>
 <td><p>以拘束、麻痺、回復等多種類魔法攻擊為主。<br />
 能夠以紅色魔杖「Alhambra Staff」施展各種魔法。<br />
@@ -3342,14 +3343,14 @@ Action X</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/左輪手槍.md" title="wikilink">里波爾崩源體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/左輪手槍" title="wikilink">里波爾崩源體</a></p></td>
 <td><p>Revol </p></td>
 <td><p>3</p></td>
 <td><p>北見勇樹</p></td>
 <td><p>醫生</p></td>
 <td><p>222.0cm</p></td>
 <td><p>166.1kg</p></td>
-<td><p>宿主發病時會變成像<a href="../Page/手槍.md" title="wikilink">手槍的巨大怪物</a>。<br />
+<td><p>宿主發病時會變成像<a href="https://zh.wikipedia.org/wiki/手槍" title="wikilink">手槍的巨大怪物</a>。<br />
 能發射各種強力子彈進行射擊。</p></td>
 <td><p>以射擊攻擊及集團戰鬥為主。<br />
 能夠以右腕所裝備著的重火器「Revolver Arm」發射各種彈砲，如宿主壓力越大戰鬥力越強。<br />
@@ -3358,14 +3359,14 @@ Action X</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/馬達.md" title="wikilink">摩塔斯崩源體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬達" title="wikilink">摩塔斯崩源體</a></p></td>
 <td><p>Motors </p></td>
 <td><p>4</p></td>
 <td><p>西脇嘉高</p></td>
 <td><p>西脇莉子</p></td>
 <td><p>202.0cm</p></td>
 <td><p>98.4kg</p></td>
-<td><p>宿主發病時會變成像帶刺<a href="../Page/車輪.md" title="wikilink">車輪的巨大怪物</a>。<br />
+<td><p>宿主發病時會變成像帶刺<a href="https://zh.wikipedia.org/wiki/車輪" title="wikilink">車輪的巨大怪物</a>。<br />
 能以身體輾壓敵人。</p></td>
 <td><p>以高超的機車操縱技術及投擲爆裂物為主。<br />
 能夠以操作專用的機械「Motors Viper」在行走中投擲各種爆裂物妨礙敵人。<br />
@@ -3397,7 +3398,7 @@ Action X</p></td>
 <td><p>6</p></td>
 <td><p>205.5cm</p></td>
 <td><p>120.5kg</p></td>
-<td><p>宿主發病時會變成像無首<a href="../Page/飛龍.md" title="wikilink">飛龍的巨大怪物</a>。</p></td>
+<td><p>宿主發病時會變成像無首<a href="https://zh.wikipedia.org/wiki/飛龍" title="wikilink">飛龍的巨大怪物</a>。</p></td>
 <td><p>以音效攻撃為主。<br />
 能夠以背部的音效機組「Collabos Thunder」如同節奏遊戲形式的音效攻撃。<br />
 是搭載「DoReMiFa Beat」卡帶力量的複數個體崩源體。</p></td>
@@ -3416,7 +3417,7 @@ Action X</p></td>
 工廠員工們的生活</p></td>
 <td><p>205.5cm</p></td>
 <td><p>126.5kg</p></td>
-<td><p>宿主發病時會變成像<a href="../Page/雙頭蛇.md" title="wikilink">雙頭蛇的巨大怪物</a>。</p></td>
+<td><p>宿主發病時會變成像<a href="https://zh.wikipedia.org/wiki/雙頭蛇" title="wikilink">雙頭蛇的巨大怪物</a>。</p></td>
 <td><p>以靈巧劍術為主。<br />
 能夠以銳利的黑鐵刀「Collabos Ward」施展得意劍術，並在回避困難的情況下快速拔刀給予對手極大傷害。<br />
 是搭載「Giri Giri Chambara」卡帶力量的複數個體崩源體。<br />
@@ -3574,7 +3575,7 @@ Action X</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/腳踏車.md" title="wikilink">查理崩源體</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/腳踏車" title="wikilink">查理崩源體</a><br />
 （Level 30）</p></td>
 <td><p>Charlie <br />
 （Level 30）</p></td>
@@ -3771,7 +3772,7 @@ Action X</p></td>
 
     特色 / 能力：言語的魔力、通常攻撃無效
 
-    宿主：檀黎斗的秘書\[138\] / 路克基曼\[139\]
+    宿主：檀黎斗的秘書\[138\]/ 路克基曼\[139\]
 
     範本資料原處：『Toki Meki Crisis』
 
@@ -3822,7 +3823,7 @@ Action X</p></td>
     Turbo而失敗。
 
     其真實樣貌於《[劇場版 假面騎士EX-AID
-    True•Ending](../Page/劇場版_假面騎士EX-AID_True•Ending.md "wikilink")》的預告映像先行公開\[145\]\[146\]。
+    True•Ending](https://zh.wikipedia.org/wiki/劇場版_假面騎士EX-AID_True•Ending "wikilink")》的預告映像先行公開\[145\]\[146\]。
 
     在第41話因湊齊13枚卡帶獎盃的關係，直接從「假面騎士編年史」的遊戲介面誕生，第42話因為檀正宗在程式內動手腳的關係，可自行散播崩源體病毒。最後被憤怒的檀正宗擊敗，並且其數據資料皆被檀正宗利用「Gashacon
     Bugwiser II」吸收並殖入自身體內，並使其變身成蓋姆迪烏斯克洛諾斯。
@@ -3844,8 +3845,7 @@ Action X</p></td>
   -
 
       -
-        另外擁有可召喚出所有崩源體首領及展開相當於一個市鎮大小的遊戲領域的能力。而在該遊戲領域內會隨著時間導致遊戲病的感染率及發作率快速上升\[149\]
-        。
+        另外擁有可召喚出所有崩源體首領及展開相當於一個市鎮大小的遊戲領域的能力。而在該遊戲領域內會隨著時間導致遊戲病的感染率及發作率快速上升\[149\]。
         戰鬥時能夠以伸縮自在的雙臂「Deus Fafnir」發射炸裂光線及胴體所延伸的巨大之劍「Deus
         Calibur」切斷任何物體，甚至能以巨大身體發揮最大威力壓制敵人。
         由於檀正宗可以自由操控此型態，所以可以從人類、蓋姆迪烏斯克洛諾斯和超蓋姆迪烏斯這三者之間自由變化。
@@ -3906,7 +3906,7 @@ Action X</p></td>
 <hr/>
 <p>兩名天才 謝了不用？</p></td>
 <td><ul>
-<li>阿蘭布拉崩源體（CV：<a href="../Page/松本大.md" title="wikilink">松本大</a>）</li>
+<li>阿蘭布拉崩源體（CV：<a href="https://zh.wikipedia.org/wiki/松本大" title="wikilink">松本大</a>）</li>
 </ul></td>
 <td><p>4.6%</p></td>
 <td></td>
@@ -3936,7 +3936,7 @@ Action X</p></td>
 <hr/>
 <p>名為競速的手術！</p></td>
 <td><ul>
-<li>摩塔斯崩源體（CV：<a href="../Page/大畑伸太郎.md" title="wikilink">大畑伸太郎</a>）</li>
+<li>摩塔斯崩源體（CV：<a href="https://zh.wikipedia.org/wiki/大畑伸太郎" title="wikilink">大畑伸太郎</a>）</li>
 </ul></td>
 <td><p>4.0%</p></td>
 <td></td>
@@ -4012,7 +4012,7 @@ Action X</p></td>
 <hr/>
 <p>惡龍狩獵行動！</p></td>
 <td><ul>
-<li>暗黑古納法崩源體（CV：<a href="../Page/町井祥真.md" title="wikilink">町井祥真</a>）</li>
+<li>暗黑古納法崩源體（CV：<a href="https://zh.wikipedia.org/wiki/町井祥真" title="wikilink">町井祥真</a>）</li>
 </ul></td>
 <td><p>4.3%</p></td>
 <td></td>
@@ -4182,7 +4182,7 @@ Action X</p></td>
 <hr/>
 <p>逆風高飛！</p></td>
 <td><ul>
-<li>法尼亞崩源體 Level 30（CV：<a href="../Page/松田健一郎.md" title="wikilink">松田健一郎</a>）</li>
+<li>法尼亞崩源體 Level 30（CV：<a href="https://zh.wikipedia.org/wiki/松田健一郎" title="wikilink">松田健一郎</a>）</li>
 </ul></td>
 <td><p>4.8%</p></td>
 <td></td>
@@ -4197,7 +4197,7 @@ Action X</p></td>
 <hr/>
 <p>追尋謎團！</p></td>
 <td><ul>
-<li>凱伊登崩源體 Level 30（CV：<a href="../Page/河野靖.md" title="wikilink">河野靖</a>）</li>
+<li>凱伊登崩源體 Level 30（CV：<a href="https://zh.wikipedia.org/wiki/河野靖" title="wikilink">河野靖</a>）</li>
 </ul></td>
 <td><p>4.7%</p></td>
 <td><p>諸田敏</p></td>
@@ -4212,7 +4212,7 @@ Action X</p></td>
 <hr/>
 <p>計畫中的歷史！</p></td>
 <td><ul>
-<li>查理崩源體 Level 30（CV：<a href="../Page/穴井勇輝.md" title="wikilink">穴井勇輝</a>）</li>
+<li>查理崩源體 Level 30（CV：<a href="https://zh.wikipedia.org/wiki/穴井勇輝" title="wikilink">穴井勇輝</a>）</li>
 </ul></td>
 <td><p>4.6%</p></td>
 <td></td>
@@ -4545,7 +4545,7 @@ Action X</p></td>
 <hr/>
 <p>白袍的證明</p></td>
 <td><ul>
-<li>蓋姆迪烏斯克洛諾斯（CV：<a href="../Page/貴水博之.md" title="wikilink">貴水博之</a>）
+<li>蓋姆迪烏斯克洛諾斯（CV：<a href="https://zh.wikipedia.org/wiki/貴水博之" title="wikilink">貴水博之</a>）
 <ul>
 <li>超蓋姆迪烏斯（CV：貴水博之、菅原正志）</li>
 </ul></li>
@@ -4607,24 +4607,24 @@ Action X</p></td>
 ### 劇場版
 
   - 《[劇場版 假面騎士Ghost
-    100個眼魂與Ghost命運的瞬間](../Page/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間.md "wikilink")》（2016年8月6日上映）
+    100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》（2016年8月6日上映）
   - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with
-    傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》（2016年12月10日上映）
+    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士 "wikilink")》（2016年12月10日上映）
   - 《[假面騎士×超級戰隊 超
-    超級英雄大戰](../Page/假面騎士×超級戰隊_超_超級英雄大戰.md "wikilink")》（2017年3月25日上映）
+    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士×超級戰隊_超_超級英雄大戰 "wikilink")》（2017年3月25日上映）
   - 《[劇場版 假面騎士EX-AID
-    True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》（2017年8月5日上映）
+    True·Ending](https://zh.wikipedia.org/wiki/劇場版_假面騎士EX-AID_True·Ending "wikilink")》（2017年8月5日上映）
   - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
+    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》（2017年12月9日上映）
 
 ### 外傳
 
   - **《[EX-AID Trilogy Another・Ending 假面騎士Brave ＆
-    Snipe](../Page/EX-AID_Trilogy_Another·Ending#假面騎士Brave_＆_Snipe.md "wikilink")》**
+    Snipe](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Brave_＆_Snipe "wikilink")》**
   - **《[EX-AID Trilogy Another・Ending 假面騎士Para-DX with
-    Poppy](../Page/EX-AID_Trilogy_Another·Ending#假面騎士Para-DX_with_Poppy.md "wikilink")》**
+    Poppy](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Para-DX_with_Poppy "wikilink")》**
   - **《[EX-AID Trilogy Another・Ending 假面騎士Genm VS
-    Lazer](../Page/EX-AID_Trilogy_Another·Ending#假面騎士Genm_VS_Lazer.md "wikilink")》**
+    Lazer](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending#假面騎士Genm_VS_Lazer "wikilink")》**
 
 ### 電視劇集
 
@@ -4637,7 +4637,7 @@ Action X</p></td>
 
 <!-- end list -->
 
-  - 《[宇宙戰隊九連者](../Page/宇宙戰隊九連者.md "wikilink")》
+  - 《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》
 
 <!-- end list -->
 
@@ -4646,7 +4646,7 @@ Action X</p></td>
 
 <!-- end list -->
 
-  - 《[假面騎士ZI-O](../Page/假面騎士ZI-O.md "wikilink")》
+  - 《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》
 
 <!-- end list -->
 
@@ -4680,13 +4680,7 @@ Action X</p></td>
 ### 遊戲
 
   - 『假面騎士大亂鬥 GANBARIDE』
-
-<!-- end list -->
-
   - 『假面騎士 BUTTOBASOUL』
-
-<!-- end list -->
-
   - 『假面騎士全集合 騎士革命』
 
 ### \[裏技\]劇集
@@ -4698,7 +4692,7 @@ Action X</p></td>
   -
     （原題：）
     2016年10月，本作第一話播放後在Youtube、BANDAI Channel上隨時播放。
-      - 導演：[上堀內佳壽也](../Page/上堀內佳壽也.md "wikilink")
+      - 導演：[上堀內佳壽也](https://zh.wikipedia.org/wiki/上堀內佳壽也 "wikilink")
 
 <table>
 <thead>
@@ -4713,7 +4707,7 @@ Action X</p></td>
 <td><p>第1話</p></td>
 <td><p>Ex-Aid篇</p>
 <hr />
-<p>Poppypipopapo的跟我這樣做！<a href="../Page/假面騎士大亂鬥_GANBARIDE.md" title="wikilink">假面騎士大亂鬥 GANBARIDE</a></p></td>
+<p>Poppypipopapo的跟我這樣做！<a href="https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE" title="wikilink">假面騎士大亂鬥 GANBARIDE</a></p></td>
 <td><p><strong>2016年</strong><br />
 10月2日</p></td>
 </tr>
@@ -4752,15 +4746,16 @@ Action X</p></td>
 </tbody>
 </table>
 
-  - 《[假面騎士Genm](../Page/假面騎士Genm.md "wikilink")》\[156\]
+  - 《[假面騎士Genm](https://zh.wikipedia.org/wiki/假面騎士Genm "wikilink")》\[156\]
 
 <!-- end list -->
 
   -
     （原題：）
     2017年1月開始於Youtube頻道配信的特別篇故事作品。共兩部分。
-    該故事時間點接在《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》後，本篇第11話前。
-    另外Part 3（最終傳說舞台）限定收錄於玩具商品附帶[DVD內](../Page/DVD.md "wikilink")。
+    該故事時間點接在《[平成Generations](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士 "wikilink")》後，本篇第11話前。
+    另外Part
+    3（最終傳說舞台）限定收錄於玩具商品附帶[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 
@@ -4796,7 +4791,7 @@ Action X</p></td>
 
   -
     （原題：）
-    月刊雜誌**《てれびくん》**2017年6月號付錄的特別篇[DVD](../Page/DVD.md "wikilink")。
+    月刊雜誌**《てれびくん》**2017年6月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 
@@ -4806,7 +4801,7 @@ Action X</p></td>
 
   -
     （原題：）
-    月刊雜誌**《てれびくん》**2017年12月號付錄的特別篇[DVD](../Page/DVD.md "wikilink")。
+    月刊雜誌**《てれびくん》**2017年12月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ### 小說
 
@@ -4828,7 +4823,7 @@ Action X</p></td>
 
 「**EXCITE**」\[162\]\[163\]\[164\]\[165\]
 
-  - 演唱：[三浦大知](../Page/三浦大知.md "wikilink")
+  - 演唱：[三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")
   - 作詞：三浦大知、
   - 作曲：岡嶋かな多、Carpainter
   - 編曲：UTA、Carpainter
@@ -4909,14 +4904,14 @@ Action X</p></td>
   - 視覺效果 -
   - 分鏡 - なかの★陽
   - 特攝導演 -
-  - 動作指導 - （[JAE](../Page/JAE.md "wikilink")）
+  - 動作指導 - （[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
   - 製作單位 -
-    [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](../Page/旭通廣告.md "wikilink")
+    [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
 
 ## [超級英雄時間相關條目](../Page/超級英雄時間.md "wikilink")
 
   - 《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》
-  - 《[宇宙戰隊九連者](../Page/宇宙戰隊九連者.md "wikilink")》
+  - 《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》
 
 ## 海外播映
 
@@ -4948,7 +4943,7 @@ Action X</p></td>
 3.  [『仮面ライダーエグゼイド』にジュノンボーイの飯島寛騎さんら出演決定！
     今度の主人公はシリーズ初の“医師”！](http://www.animatetimes.com/news/details.php?id=1472529502)
 
-4.  亦是繼《[假面騎士KABUTO](../Page/假面騎士KABUTO.md "wikilink")》後再次基本形態分爲兩級，不過本作能直接從人類變成兩級
+4.  亦是繼《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》後再次基本形態分爲兩級，不過本作能直接從人類變成兩級
 
 5.  不同之處是獸王者的玩家是怪人，而本作的玩家是假面騎士
 
@@ -4977,12 +4972,12 @@ Action X</p></td>
     拉夫利卡缺陷者洗腦，加入反派缺陷者行列，並於次回變身假面騎士Poppy襲擊永夢，直至第28話因永夢使用重組化能力而恢復了自我意識和其後永夢以自身的性命阻止並且說出大家一起玩樂的話語下展開笑容，也使得「DoReMiFa
     節拍」過關和令明日那正式回歸。
 
-16. 分别为《[假面騎士Wizard](../Page/假面騎士Wizard.md "wikilink")》的假面骑士Mage，《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的黑影衛兵，《[假面骑士Drive](../Page/假面骑士Drive.md "wikilink")》的量產型假面骑士Mach，《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的假面骑士Necrom
-    P/R/B/Y和本作《[假面骑士EX-AID](../Page/假面骑士EX-AID.md "wikilink")》的骑士玩家。
+16. 分别为《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的假面骑士Mage，《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的黑影衛兵，《[假面骑士Drive](https://zh.wikipedia.org/wiki/假面骑士Drive "wikilink")》的量產型假面骑士Mach，《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的假面骑士Necrom
+    P/R/B/Y和本作《[假面骑士EX-AID](https://zh.wikipedia.org/wiki/假面骑士EX-AID "wikilink")》的骑士玩家。
 
-17. 《[假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")》中的電波女並非騎士，《[假面騎士顎門](../Page/假面騎士顎門.md "wikilink")》中的澤木雪菜,《[假面骑士龍騎](../Page/假面骑士龍騎.md "wikilink")》中的霧島美惠，《[假面骑士響鬼](../Page/假面骑士響鬼.md "wikilink")》中的天美晶和《[假面骑士鎧武](../Page/假面骑士鎧武.md "wikilink")》的凑耀子等人皆為女配角，《[假面騎士KIVA](../Page/假面騎士KIVA.md "wikilink")》中麻生惠所變身的IXA官方變身者為名護啟介，《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》光夏海和《[假面骑士Wizard](../Page/假面骑士Wizard.md "wikilink")》中的笛木歷兩位女主角則是在劇場版而非正篇內變身。
+17. 《[假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")》中的電波女並非騎士，《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》中的澤木雪菜,《[假面骑士龍騎](https://zh.wikipedia.org/wiki/假面骑士龍騎 "wikilink")》中的霧島美惠，《[假面骑士響鬼](https://zh.wikipedia.org/wiki/假面骑士響鬼 "wikilink")》中的天美晶和《[假面骑士鎧武](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")》的凑耀子等人皆為女配角，《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》中麻生惠所變身的IXA官方變身者為名護啟介，《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》光夏海和《[假面骑士Wizard](https://zh.wikipedia.org/wiki/假面骑士Wizard "wikilink")》中的笛木歷兩位女主角則是在劇場版而非正篇內變身。
 
-18. 《[假面騎士W](../Page/假面騎士W.md "wikilink")》中的菲利普和園咲琉兵衛、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》中的詩島剛和蠻野天十郎、《[假面騎士Amazons](../Page/假面騎士Amazons.md "wikilink")》中的千翼與鷹山仁等皆為這類型的角色。
+18. 《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》中的菲利普和園咲琉兵衛、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》中的詩島剛和蠻野天十郎、《[假面騎士Amazons](../Page/假面騎士Amazons.md "wikilink")》中的千翼與鷹山仁等皆為這類型的角色。
 
 19. 幾乎所有的登場騎士都有一部，共製作7部
 
@@ -5038,7 +5033,7 @@ Action X</p></td>
 
 44. 也就是帕拉德
 
-45. 與劇場版《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》劇情連動。
+45. 與劇場版《[平成Generations](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士 "wikilink")》劇情連動。
 
 46. 之後更得知是十六年前檀黎斗利用測試遊戲的方式讓永夢無形中感染了缺陷者病毒，並且讓病毒潛伏於永夢體內，直到六年前利用財前美智彥等次世代基因組成員激發病毒，使得帕拉德因此誕生。
 
@@ -5056,8 +5051,7 @@ Action X</p></td>
 
 53. 第28話被花家大我和西馬妮可再擊敗並獲得卡帶獎盃
 
-54. 第28話被花家大我和西馬妮可再擊敗並獲得卡帶獎盃
-
+54.
 55. 但由於除了騎士玩家和假面騎士Cronus之外的騎士擊倒首領並無法獲得卡帶獎盃，推測是讓變身成騎士玩家的一般市民做最後一擊後並搶走該卡帶獎盃
 
 56. 太陽房間放置「檀正宗」、「檀黎斗」、「天崎戀」幻夢集團三代社長的畫像，而解答就是三人如同父傳子般接掌幻夢集團，又因與太陽有關，而「SON」和「SUN」的英文諧音為3。
@@ -5080,7 +5074,8 @@ Action X</p></td>
 
 65. 但是对Gamedeus Cronus使用时被其用Deus Rampart挡下而无效
 
-66. 《[假面騎士大亂鬥 GANBARIDE](../Page/假面騎士大亂鬥_GANBARIDE.md "wikilink")》中使用
+66. 《[假面騎士大亂鬥
+    GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")》中使用
 
 67. 同時魔法力場内能使敵人的攻擊無效化。
 
@@ -5105,8 +5100,7 @@ Action X</p></td>
 78.
 79. 增值出來的分身具有自我意識可對敵方攻擊，本體也可因狀況將分身吸收回去。
 
-80. 官方正式名稱為**動作玩家**，一般亦稱之為**原型動作玩家**
-
+80.
 81. 但這兩者的能力只在個別Level X 喪屍玩家(腐蝕，增值分身以及召喚不死的崩源體病毒)跟Level
     0動作玩家(歸零)有明顯的展現出來而此型態從變身後就未將這兩者能力發揮出來，但綜合能力有明顯提升
 
@@ -5165,10 +5159,8 @@ Action X</p></td>
 
 109. 此護盾有極高防禦可抵擋無敵玩家的重編程並盾牌底部的爪子具有自由伸縮攻擊及放出雷電的能力
 
-110. 由於在第42話後面由檀正宗給予最後一擊，所以可以使用
-
-111. 可能借用了在有些遊戲裡面只要達成擊敗部分魔王的條件就能獲得該魔王的武器的設定
-
+110.
+111.
 112.
 113. 舞台劇沒有明確的變身而是出現其型態，而且只聽從蓋姆迪烏斯崩源體的命令，推測本身為分裂出來的抗體型態無個人意識。
 
@@ -5252,9 +5244,9 @@ Action X</p></td>
 
 153. 2017年01月01日因逢日本新年而停播一次。
 
-154. 此話與[宇宙戰隊九連者第](../Page/宇宙戰隊九連者.md "wikilink")7話劇情連動。
+154. 此話與[宇宙戰隊九連者第](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")7話劇情連動。
 
-155. 2017年06月18日因播出第117屆[美國高爾夫球公開賽停播一次](../Page/美國高爾夫球公開賽.md "wikilink")。
+155. 2017年06月18日因播出第117屆[美國高爾夫球公開賽停播一次](https://zh.wikipedia.org/wiki/美國高爾夫球公開賽 "wikilink")。
 
 156. <http://gameridernews.tumblr.com/post/154124997582/okay-i-have-no-idea-where-the-hell-this-toy>
 

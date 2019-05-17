@@ -4,14 +4,14 @@ The Red Concert 2015 演唱會」。
 
 ## 簡介
 
-自2014年11月1日首次個人演唱會之後，[星夢娛樂於](../Page/星夢娛樂.md "wikilink")2015年7月13日舉行記者會正式宣佈鄭俊弘的第二次個人演唱會《ECCO呈獻：鄭俊弘
+自2014年11月1日首次個人演唱會之後，[星夢娛樂於](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")2015年7月13日舉行記者會正式宣佈鄭俊弘的第二次個人演唱會《ECCO呈獻：鄭俊弘
 THE RED CONCERT 2015 紅色演唱會》
-，定在2015年9月5日於[九龍灣國際展貿中心舉行](../Page/九龍灣國際展貿中心.md "wikilink")。樂迷專程從[澳門](../Page/澳門.md "wikilink")、[廣州](../Page/廣州.md "wikilink")、[新](../Page/新加坡.md "wikilink")[馬](../Page/馬來西亞.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[美](../Page/美國.md "wikilink")[加等地遠赴香港觀看](../Page/加拿大.md "wikilink")。鄭俊弘以歌唱、舞蹈、演奏結他、打鼓，作突破性多元化表演中英名曲\[1\]，亦首次現場Live演唱《當狗愛上貓》。星夢娛樂於2015年10月7日在其官方網站發放Radio
+，定在2015年9月5日於[九龍灣國際展貿中心舉行](../Page/九龍灣國際展貿中心.md "wikilink")。樂迷專程從[澳門](../Page/澳門.md "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[新](../Page/新加坡.md "wikilink")[馬](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[美](https://zh.wikipedia.org/wiki/美國 "wikilink")[加等地遠赴香港觀看](../Page/加拿大.md "wikilink")。鄭俊弘以歌唱、舞蹈、演奏結他、打鼓，作突破性多元化表演中英名曲\[1\]，亦首次現場Live演唱《當狗愛上貓》。星夢娛樂於2015年10月7日在其官方網站發放Radio
 Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌及單曲銷量榜等等五大銷量排行榜冠軍，雖然在還沒有拍MV及還沒有開始宣傳的情況下上架發售，《當狗愛上貓》並且也連續九天穩佔iTunes粵語音樂銷售排行榜第一位，上榜十三天仍然佔第二位，其後更奪得IFPI香港唱片銷量大獎頒獎禮2015十大數碼暢銷歌曲。
 
 ## 演唱會主辦機構
 
-[星夢娛樂](../Page/星夢娛樂.md "wikilink")
+[星夢娛樂](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")
 
 ## 演唱會音樂總監
 
@@ -49,7 +49,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 </div></td>
 <td><p>個個讚你乖</p></td>
 <td><p><a href="../Page/江志仁.md" title="wikilink">C.Y.Kong</a></p></td>
-<td><p><a href="../Page/林敏聰.md" title="wikilink">林敏聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林敏聰" title="wikilink">林敏聰</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -75,8 +75,8 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 <p><strong>5</strong></p>
 </div></td>
 <td><p>Black or White</p></td>
-<td><p><a href="../Page/Michael_Jackson.md" title="wikilink">Michael Jackson</a></p></td>
-<td><p><a href="../Page/Michael_Jackson.md" title="wikilink">Michael Jackson</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Michael_Jackson" title="wikilink">Michael Jackson</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Michael_Jackson" title="wikilink">Michael Jackson</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -139,7 +139,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 </div></td>
 <td><p>留住我吧</p></td>
 <td><p><a href="../Page/太極樂隊.md" title="wikilink">太極</a></p></td>
-<td><p><a href="../Page/潘源良.md" title="wikilink">潘源良</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘源良" title="wikilink">潘源良</a></p></td>
 <td><p>與嘉賓<a href="../Page/鄧建明.md" title="wikilink">鄧建明及</a><a href="../Page/雷有暉.md" title="wikilink">雷有暉合唱</a></p></td>
 </tr>
 <tr class="even">
@@ -158,7 +158,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 <td><p>躍動的心</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/無綫電視.md" title="wikilink">無綫電視J</a>2翡翠二台台歌</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無綫電視" title="wikilink">無綫電視J</a>2翡翠二台台歌</p></td>
 </tr>
 <tr class="even">
 <td><div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
@@ -166,7 +166,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 </div></td>
 <td><p>投降吧</p></td>
 <td><p><a href="../Page/張家誠.md" title="wikilink">張家誠</a></p></td>
-<td><p><a href="../Page/楊熙.md" title="wikilink">楊熙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊熙" title="wikilink">楊熙</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -175,7 +175,7 @@ Edit版本，同步在iTunes供付款下載，上架一小時即排行廣東歌�
 </div></td>
 <td><p>垃圾</p></td>
 <td><p><a href="../Page/陳輝陽.md" title="wikilink">陳輝陽</a></p></td>
-<td><p><a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -305,12 +305,12 @@ Shoes](https://www.facebook.com/media/set/?set=a.857830790976589.1073741863.2411
 
 ## 到場嘉賓
 
-[何哲圖](../Page/何哲圖.md "wikilink")、[梁烈唯](../Page/梁烈唯.md "wikilink")、[許廷鏗](../Page/許廷鏗.md "wikilink")、[胡鴻鈞](../Page/胡鴻鈞.md "wikilink")、[林師杰](../Page/林師杰.md "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、[朱俊傑](../Page/朱俊傑.md "wikilink")、[張家誠](../Page/張家誠.md "wikilink")、嚴勵行、[潘盈慧](../Page/潘盈慧.md "wikilink")、朱明銳、艾力、[麥長青](../Page/麥長青.md "wikilink")、[馬海倫](../Page/馬海倫.md "wikilink")、[龔嘉欣](../Page/龔嘉欣.md "wikilink")、[張振朗](../Page/張振朗.md "wikilink")、鄭紹康
+[何哲圖](https://zh.wikipedia.org/wiki/何哲圖 "wikilink")、[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[林師杰](https://zh.wikipedia.org/wiki/林師杰 "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、[朱俊傑](../Page/朱俊傑.md "wikilink")、[張家誠](../Page/張家誠.md "wikilink")、嚴勵行、[潘盈慧](../Page/潘盈慧.md "wikilink")、朱明銳、艾力、[麥長青](../Page/麥長青.md "wikilink")、[馬海倫](../Page/馬海倫.md "wikilink")、[龔嘉欣](https://zh.wikipedia.org/wiki/龔嘉欣 "wikilink")、[張振朗](https://zh.wikipedia.org/wiki/張振朗 "wikilink")、鄭紹康
 
 ## 相關連結
 
   - [鄭俊弘](../Page/鄭俊弘.md "wikilink")
-  - [熊貓的故事](../Page/熊貓的故事.md "wikilink")
+  - [熊貓的故事](https://zh.wikipedia.org/wiki/熊貓的故事 "wikilink")
 
 ## 記事
 

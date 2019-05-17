@@ -1,5 +1,5 @@
 **Rockstar新英格兰工作室**，前称**Mad Doc
-Software**，是伊恩·莱恩·戴维斯博士在1999年成立的电脑游戏开发公司。该公司设在美国[新英格兰地区的](../Page/新英格兰.md "wikilink")[安多弗](../Page/安多弗_\(马萨诸塞州\).md "wikilink")。\[1\]
+Software**，是伊恩·莱恩·戴维斯博士在1999年成立的电脑游戏开发公司。该公司设在美国[新英格兰地区的](https://zh.wikipedia.org/wiki/新英格兰 "wikilink")[安多弗](../Page/安多弗_\(马萨诸塞州\).md "wikilink")。\[1\]
 
 ## 历史
 

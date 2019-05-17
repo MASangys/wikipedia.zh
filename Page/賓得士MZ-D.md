@@ -1,16 +1,16 @@
 **賓得士MZ-D**（**Pentax
-MZ-D**），內部開發代號**MR-52**，是一款由日本照相機生產商[賓得士生產的原型](../Page/賓得士.md "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")。該相機於2000年9月的[世界影像博覽會宣布](../Page/世界影像博覽會.md "wikilink")，並在2001年1月的中展出實體機。但在2001年10月，賓得士宣稱「生產600萬畫素原型數位單眼相機的成本代表它不是我們目標市場上的可行商品」，取消了MZ-D的上市計畫\[1\]。
+MZ-D**），內部開發代號**MR-52**，是一款由日本照相機生產商[賓得士生產的原型](../Page/賓得士.md "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")。該相機於2000年9月的[世界影像博覽會宣布](https://zh.wikipedia.org/wiki/世界影像博覽會 "wikilink")，並在2001年1月的中展出實體機。但在2001年10月，賓得士宣稱「生產600萬畫素原型數位單眼相機的成本代表它不是我們目標市場上的可行商品」，取消了MZ-D的上市計畫\[1\]。
 
 ## 機身性能
 
 MZ-D使用的感光元件是600萬畫素，由[飛利浦製造的](../Page/飛利浦.md "wikilink")[全画幅](../Page/全画幅.md "wikilink")（尺寸與[135底片大致相同](../Page/135底片.md "wikilink")，24×36 mm）[感光耦合元件](../Page/感光耦合元件.md "wikilink")，型號為FTF3020-C，與[康泰時
 N
-Digital所用的相同](../Page/康泰時_N_Digital.md "wikilink")。缺乏配合的交換鏡頭與所拍攝影像品質的問題可能是賓得士在成本以外取消MZ-D上市的原因。攝影網站
+Digital所用的相同](https://zh.wikipedia.org/wiki/康泰時_N_Digital "wikilink")。缺乏配合的交換鏡頭與所拍攝影像品質的問題可能是賓得士在成本以外取消MZ-D上市的原因。攝影網站
 *The Luminous Landscape* 的創辦人 Michael Reichmann
 表示：「無論出於什麼原因，賓得士決定不使用該感光元件製造相機；而康泰時卻決定推出。這是為了面子嗎？有可能，我們可能永遠不知道真實原因」\[2\]。
 
 MZ-D的機身開發是基於當時賓得士的頂級底片單眼相機。為了取得數位單眼相機需要的額外電路與電池電源空間，MZ-D 的外型設計融入了 MZ-S
-上屬於選購配件的[电池手柄](../Page/电池手柄.md "wikilink")。鏡頭接環為[K<sub>AF2</sub>接環](../Page/賓得士K接環.md "wikilink")。
+上屬於選購配件的[电池手柄](https://zh.wikipedia.org/wiki/电池手柄 "wikilink")。鏡頭接環為[K<sub>AF2</sub>接環](https://zh.wikipedia.org/wiki/賓得士K接環 "wikilink")。
 
 ## 註釋
 

@@ -1,12 +1,12 @@
 《**Mrs. Cop
-2**》（）為[韓國](../Page/大韓民國.md "wikilink")[SBS自](../Page/SBS株式會社.md "wikilink")2016年3月5日起播出的[週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")，是《[Mrs.
+2**》（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年3月5日起播出的[週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")，是《[Mrs.
 Cop](../Page/Mrs._Cop.md "wikilink")》系列作品第二季。由《[Mrs.
-Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilink")
+Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](https://zh.wikipedia.org/wiki/黃洙夏 "wikilink")
 作家與[劉仁植導演再次攜手打造](../Page/劉仁植.md "wikilink")。\[1\]
 
 ## 劇情大綱
 
-承接上一季的故事，崔英珍（[金喜愛飾](../Page/金喜愛.md "wikilink")）因個人理由停職，因此由原本的隊伍搭配上剛結束[FBI](../Page/FBI.md "wikilink")（聯邦調查局）研修回來的「紐約派大嬸刑警」高潤靜（[金成鈴飾](../Page/金成鈴.md "wikilink")）而開始的故事。
+承接上一季的故事，崔英珍（[金喜愛飾](../Page/金喜愛.md "wikilink")）因個人理由停職，因此由原本的隊伍搭配上剛結束[FBI](https://zh.wikipedia.org/wiki/FBI "wikilink")（聯邦調查局）研修回來的「紐約派大嬸刑警」高潤靜（[金成鈴飾](../Page/金成鈴.md "wikilink")）而開始的故事。
 
 ## 演出陣容
 
@@ -45,7 +45,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 <td><p><strong>朴宗浩</strong></p></td>
 <td><p><strong>首爾地方警察廳刑事科科長</strong><br />
 崔英珍離開後，重案1組的辦案效率隨即下滑，接到高潤靜接任組長後，對她的出身抱有介懷，並與她針鋒相對。因工作壓力患有焦慮症，平日非常狂躁之餘，還專橫獨斷，與下屬完全不合。</p></td>
-<td><p><a href="../Page/楊智聰.md" title="wikilink">楊智聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊智聰" title="wikilink">楊智聰</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -78,10 +78,10 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 <td><p>申汝玉</p></td>
 <td><p><strong>首爾地方警察廳重案1組組員</strong><br />
 前中部交通組警長，個性溫柔及體貼，在行於接無聊或打錯的電話。</p></td>
-<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金熙燦.md" title="wikilink">金熙燦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金熙燦" title="wikilink">金熙燦</a></p></td>
 <td><p>姜尚哲[2]</p></td>
 <td><p><strong>首爾地方警察廳重案1組組員</strong><br />
 劍道特科院出身，有幹勁但不聰明的小伙子。在派出所工作的小巡警，一直希望進入重案組做事。</p></td>
@@ -99,13 +99,13 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 
 ### EL Capital
 
-|                                         |        |                                                                                                                             |                                  |
-| --------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **演員**                                  | **角色** | **介紹**                                                                                                                      | **粵語配音**                         |
-| [崔鎮鎬](../Page/崔鎮鎬.md "wikilink")        | 白鐘植    | EL Capital理事，前北韓特工（[脫北者](../Page/脫北者.md "wikilink")），路俊身邊的左右手，經常為路俊作不法的事，或為他親手做的壞事作善後工作。若以一枚硬幣形容兩人，路俊是硬幣光亮的一面，白理事就是硬幣黑暗的背面。 |                                  |
-| [李哲民](../Page/李哲民_\(演員\).md "wikilink") | 朴俊英    | EL Capital理事，李范鎮的左右手，為他解決一切棘手的問題。與李路俊敵對，並希望尋找機會拉他落台，取代他的位置。                                                                 |                                  |
-| [南慶邑](../Page/南慶邑.md "wikilink")        | 李范鎮    | 路俊的爸爸，因路俊認為他不重視自己所付出的努力而被憤恨。                                                                                                |                                  |
-| [車和娟](../Page/車和娟.md "wikilink")        | 徐正美    | 路俊的媽媽，早年路俊的爸爸去世後，獨自撫養他成人。曾經營多種小生意但失敗告終，被員工稱為地獄夫人。                                                                           | [馮詠恩](../Page/馮詠恩.md "wikilink") |
+|                                                            |        |                                                                                                                             |                                                     |
+| ---------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **演員**                                                     | **角色** | **介紹**                                                                                                                      | **粵語配音**                                            |
+| [崔鎮鎬](../Page/崔鎮鎬.md "wikilink")                           | 白鐘植    | EL Capital理事，前北韓特工（[脫北者](../Page/脫北者.md "wikilink")），路俊身邊的左右手，經常為路俊作不法的事，或為他親手做的壞事作善後工作。若以一枚硬幣形容兩人，路俊是硬幣光亮的一面，白理事就是硬幣黑暗的背面。 |                                                     |
+| [李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink") | 朴俊英    | EL Capital理事，李范鎮的左右手，為他解決一切棘手的問題。與李路俊敵對，並希望尋找機會拉他落台，取代他的位置。                                                                 |                                                     |
+| [南慶邑](../Page/南慶邑.md "wikilink")                           | 李范鎮    | 路俊的爸爸，因路俊認為他不重視自己所付出的努力而被憤恨。                                                                                                |                                                     |
+| [車和娟](../Page/車和娟.md "wikilink")                           | 徐正美    | 路俊的媽媽，早年路俊的爸爸去世後，獨自撫養他成人。曾經營多種小生意但失敗告終，被員工稱為地獄夫人。                                                                           | [馮詠恩](https://zh.wikipedia.org/wiki/馮詠恩 "wikilink") |
 
 ### 高潤靜周邊人物
 
@@ -137,7 +137,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 <td><p><a href="../Page/黃志成.md" title="wikilink">黃志成</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李孝濟.md" title="wikilink">李孝濟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李孝濟" title="wikilink">李孝濟</a></p></td>
 <td><p>朴珉載</p></td>
 <td><p>潤靜的兒子，喜愛說英語而不說韓語。</p></td>
 <td><p><a href="../Page/顧詠雪.md" title="wikilink">顧詠雪</a></p></td>
@@ -149,75 +149,75 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 
   - :飾 裴秀敏 - 裴大勳的妹妹，小食店的老闆，裴大勳經常聚集組員在此開會或搜集情報。
 
-  - [劉炯官](../Page/劉炯官.md "wikilink"):首爾地方警察廳長
+  - [劉炯官](https://zh.wikipedia.org/wiki/劉炯官 "wikilink"):首爾地方警察廳長
 
-  - [孔多任](../Page/孔多任.md "wikilink")
+  - [孔多任](https://zh.wikipedia.org/wiki/孔多任 "wikilink")
 
-  - [權泰浩](../Page/權泰浩.md "wikilink")
+  - [權泰浩](https://zh.wikipedia.org/wiki/權泰浩 "wikilink")
 
-  - [韓哲宇](../Page/韓哲宇.md "wikilink")
+  - [韓哲宇](https://zh.wikipedia.org/wiki/韓哲宇 "wikilink")
 
-  - [朴英樹](../Page/朴英樹.md "wikilink"):房仲業者
+  - [朴英樹](https://zh.wikipedia.org/wiki/朴英樹 "wikilink"):房仲業者
 
-  - [李在宇](../Page/李在宇.md "wikilink")
+  - [李在宇](https://zh.wikipedia.org/wiki/李在宇 "wikilink")
 
-  - [趙善穆](../Page/趙善穆.md "wikilink")
+  - [趙善穆](https://zh.wikipedia.org/wiki/趙善穆 "wikilink")
 
-  - [玄哲浩](../Page/玄哲浩.md "wikilink")
+  - [玄哲浩](https://zh.wikipedia.org/wiki/玄哲浩 "wikilink")
 
-  - [韓基重](../Page/韓基重.md "wikilink")
+  - [韓基重](https://zh.wikipedia.org/wiki/韓基重 "wikilink")
 
-  - [仁尚浩](../Page/仁尚浩.md "wikilink")
+  - [仁尚浩](https://zh.wikipedia.org/wiki/仁尚浩 "wikilink")
 
-  - [金瑞慶](../Page/金瑞慶.md "wikilink")
+  - [金瑞慶](https://zh.wikipedia.org/wiki/金瑞慶 "wikilink")
 
-  - [周錫泰](../Page/周錫泰.md "wikilink")
+  - [周錫泰](https://zh.wikipedia.org/wiki/周錫泰 "wikilink")
 
-  - [李賢旭](../Page/李賢旭.md "wikilink")
+  - [李賢旭](https://zh.wikipedia.org/wiki/李賢旭 "wikilink")
 
-  - [金正錫](../Page/金正錫.md "wikilink")
+  - [金正錫](https://zh.wikipedia.org/wiki/金正錫 "wikilink")
 
-  - [金炳澈](../Page/金炳澈.md "wikilink")
+  - [金炳澈](https://zh.wikipedia.org/wiki/金炳澈 "wikilink")
 
 <!-- end list -->
 
-  - [徐英](../Page/徐英_\(演員\).md "wikilink")
-  - [韓智安](../Page/韓智安.md "wikilink")
-  - [鄭炫錫](../Page/鄭炫錫.md "wikilink")
-  - [崔允俊](../Page/崔允俊.md "wikilink")
+  - [徐英](https://zh.wikipedia.org/wiki/徐英_\(演員\) "wikilink")
+  - [韓智安](https://zh.wikipedia.org/wiki/韓智安 "wikilink")
+  - [鄭炫錫](https://zh.wikipedia.org/wiki/鄭炫錫 "wikilink")
+  - [崔允俊](https://zh.wikipedia.org/wiki/崔允俊 "wikilink")
   - [申承煥](../Page/申承煥.md "wikilink"):裴達煥（客串演出）
-  - [尹炳熙](../Page/尹炳熙.md "wikilink")
+  - [尹炳熙](https://zh.wikipedia.org/wiki/尹炳熙 "wikilink")
   - [李在勇](../Page/李在勇.md "wikilink")
   - [許俊碩](../Page/許俊碩.md "wikilink")
-  - [金容雲](../Page/金容雲.md "wikilink")
-  - [李勝勛](../Page/李勝勛_\(演員\).md "wikilink")
-  - [洪理杰](../Page/洪理杰.md "wikilink")
-  - [金敏荷](../Page/金敏荷.md "wikilink")
-  - [徐鎮旭](../Page/徐鎮旭.md "wikilink")
-  - [河恩珍](../Page/河恩珍.md "wikilink")
-  - [劉章英](../Page/劉章英.md "wikilink")
+  - [金容雲](https://zh.wikipedia.org/wiki/金容雲 "wikilink")
+  - [李勝勛](https://zh.wikipedia.org/wiki/李勝勛_\(演員\) "wikilink")
+  - [洪理杰](https://zh.wikipedia.org/wiki/洪理杰 "wikilink")
+  - [金敏荷](https://zh.wikipedia.org/wiki/金敏荷 "wikilink")
+  - [徐鎮旭](https://zh.wikipedia.org/wiki/徐鎮旭 "wikilink")
+  - [河恩珍](https://zh.wikipedia.org/wiki/河恩珍 "wikilink")
+  - [劉章英](https://zh.wikipedia.org/wiki/劉章英 "wikilink")
   - [朴哲民](../Page/朴哲民_\(演員\).md "wikilink")
-  - [李錫](../Page/李錫_\(韓國演員\).md "wikilink")
+  - [李錫](https://zh.wikipedia.org/wiki/李錫_\(韓國演員\) "wikilink")
 
 <!-- end list -->
 
   - [尹容賢](../Page/尹容賢.md "wikilink")
-  - [金智恩](../Page/金智恩.md "wikilink")
-  - [金蘭諱](../Page/金蘭諱.md "wikilink")
-  - [朴成根](../Page/朴成根.md "wikilink")
+  - [金智恩](https://zh.wikipedia.org/wiki/金智恩 "wikilink")
+  - [金蘭諱](https://zh.wikipedia.org/wiki/金蘭諱 "wikilink")
+  - [朴成根](https://zh.wikipedia.org/wiki/朴成根 "wikilink")
   - [政旭](../Page/政旭.md "wikilink")
-  - [閔成旭](../Page/閔成旭.md "wikilink")
-  - [李振權](../Page/李振權.md "wikilink")
-  - [閔鎮雄](../Page/閔鎮雄.md "wikilink")
-  - [鄭承吉](../Page/鄭承吉.md "wikilink")
-  - [朴泰星](../Page/朴泰星.md "wikilink")
-  - [崔宏一](../Page/崔宏一.md "wikilink")
-  - [文秀鐘](../Page/文秀鐘.md "wikilink")
-  - [朴振英](../Page/朴振英_\(演員\).md "wikilink")
+  - [閔成旭](https://zh.wikipedia.org/wiki/閔成旭 "wikilink")
+  - [李振權](https://zh.wikipedia.org/wiki/李振權 "wikilink")
+  - [閔鎮雄](https://zh.wikipedia.org/wiki/閔鎮雄 "wikilink")
+  - [鄭承吉](https://zh.wikipedia.org/wiki/鄭承吉 "wikilink")
+  - [朴泰星](https://zh.wikipedia.org/wiki/朴泰星 "wikilink")
+  - [崔宏一](https://zh.wikipedia.org/wiki/崔宏一 "wikilink")
+  - [文秀鐘](https://zh.wikipedia.org/wiki/文秀鐘 "wikilink")
+  - [朴振英](https://zh.wikipedia.org/wiki/朴振英_\(演員\) "wikilink")
   - [金旼序](../Page/金旼序.md "wikilink")
-  - [金學善](../Page/金學善.md "wikilink")
-  - [許正道](../Page/許正道.md "wikilink"):趙載德（客串演出）
-  - [金鐘洙](../Page/金鐘洙.md "wikilink"):（特別演出）
+  - [金學善](https://zh.wikipedia.org/wiki/金學善 "wikilink")
+  - [許正道](https://zh.wikipedia.org/wiki/許正道 "wikilink"):趙載德（客串演出）
+  - [金鐘洙](https://zh.wikipedia.org/wiki/金鐘洙 "wikilink"):（特別演出）
 
 ## 原聲帶
 
@@ -244,7 +244,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 <th><p>播出日期</p></th>
 <th><p>標題</p></th>
 <th><p>TNmS 收視率[3]</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 收視率[4]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 收視率[4]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -409,8 +409,8 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 
 ## 同時段競爭作品
 
-  - [KBS1](../Page/KBS第1頻道.md "wikilink")：《[蔣英實](../Page/蔣英實_\(電視劇\).md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[結婚契約](../Page/結婚契約.md "wikilink")》、《[獄中花](../Page/獄中花.md "wikilink")》
+  - [KBS1](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")：《[蔣英實](../Page/蔣英實_\(電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[結婚契約](../Page/結婚契約.md "wikilink")》、《[獄中花](../Page/獄中花.md "wikilink")》
 
 ## 獎項
 
@@ -427,7 +427,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 <tbody>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="../Page/2016_SBS演技大賞.md" title="wikilink">SBS演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2016_SBS演技大賞" title="wikilink">SBS演技大賞</a></p></td>
 <td></td>
 <td></td>
 <td></td>

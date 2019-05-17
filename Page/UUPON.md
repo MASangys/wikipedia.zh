@@ -1,7 +1,7 @@
 **UUPON
-紅利點數**是以[悠遊卡為會員載具的紅利集點](../Page/悠遊卡.md "wikilink")，獨家提供悠遊卡會員點數服務。只要加入會員並綁定悠遊卡，就可以在合作特約商和搭乘[大眾交通工具用悠遊卡消費進行累兌點](../Page/大眾交通工具.md "wikilink")。
+紅利點數**是以[悠遊卡為會員載具的紅利集點](../Page/悠遊卡.md "wikilink")，獨家提供悠遊卡會員點數服務。只要加入會員並綁定悠遊卡，就可以在合作特約商和搭乘[大眾交通工具用悠遊卡消費進行累兌點](https://zh.wikipedia.org/wiki/大眾交通工具 "wikilink")。
 
-建立使用悠遊卡通路消費和搭乘[大眾運輸的同時也可以累積紅利點數的消費模式](../Page/大眾運輸.md "wikilink")，增加悠遊卡的功能用途範圍。
+建立使用悠遊卡通路消費和搭乘[大眾運輸的同時也可以累積紅利點數的消費模式](https://zh.wikipedia.org/wiki/大眾運輸 "wikilink")，增加悠遊卡的功能用途範圍。
 提供點數兌換悠遊卡儲值金、信用卡紅利點數、航空里程及折抵超商、百貨、網購消費服務。
 
 UUPON 另外還提供多家電商平台點數轉換、折抵電信費、APP 兌好康、填問卷賺點數、看影片賺點數、推薦好友賺點數、1
@@ -21,7 +21,7 @@ UUPON 合作特約商通路。
 
 ### 組織沿革
 
-  - 2015年4月1日[悠遊卡投資控股與](../Page/悠遊卡投資控股股份有限公司.md "wikilink")[中華電信](../Page/中華電信.md "wikilink")、[伊藤忠商事株式會社日本本社](../Page/伊藤忠商事.md "wikilink")、臺灣伊藤忠、[全家便利商店](../Page/全家便利商店.md "wikilink")、[神腦國際](../Page/神腦國際.md "wikilink")、[富邦金控創投](../Page/富邦金控.md "wikilink")、[玉山創投等八家股東合資設立點鑽整合行銷股份有限公司](../Page/玉山.md "wikilink")\[3\]，以發展悠遊卡會員紅利點數服務
+  - 2015年4月1日[悠遊卡投資控股與](https://zh.wikipedia.org/wiki/悠遊卡投資控股股份有限公司 "wikilink")[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")、[伊藤忠商事株式會社日本本社](../Page/伊藤忠商事.md "wikilink")、臺灣伊藤忠、[全家便利商店](../Page/全家便利商店.md "wikilink")、[神腦國際](../Page/神腦國際.md "wikilink")、[富邦金控創投](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")、[玉山創投等八家股東合資設立點鑽整合行銷股份有限公司](../Page/玉山.md "wikilink")\[3\]，以發展悠遊卡會員紅利點數服務
     UUPON ，與[悠遊卡相關行銷服務為核心業務](../Page/悠遊卡.md "wikilink")。
   - 2015年4月1日，[悠遊卡投資控股與全家便利商店合作發展以悠遊卡紅利集點](../Page/悠遊卡投資控股.md "wikilink")；消費每
     50 元累積 UUPON 紅利 1 點，集滿 4 點則可折抵 1 元消費，回饋率達 0.5 %\[4\]。
@@ -32,30 +32,33 @@ UUPON 合作特約商通路。
 
 #### 交通
 
-  - 2015年9月1日，宣布與[台北捷運合作](../Page/台北捷運.md "wikilink")，持悠遊卡搭乘捷運，每 5 次
-    就能獲得 1
-    點，為國內首見針對大眾交通工具，祭出點數回饋的活動；持[台新銀行悠遊聯名卡的消費者](../Page/台新銀行.md "wikilink")，每搭乘
+  - 2015年9月1日，宣布與[台北捷運合作](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")，持悠遊卡搭乘捷運，每
+    5 次 就能獲得 1
+    點，為國內首見針對大眾交通工具，祭出點數回饋的活動；持[台新銀行悠遊聯名卡的消費者](https://zh.wikipedia.org/wiki/台新銀行 "wikilink")，每搭乘
     5 次 就能獲得 5 點\[7\]。
-  - 2015年10月15日，點鑽公司宣布，民眾只要用悠遊卡／悠遊聯名卡／悠遊Debit卡搭乘台北捷運、[首都客運](../Page/首都客運.md "wikilink")、[大都會客運](../Page/大都會客運.md "wikilink")、[台北客運](../Page/台北客運.md "wikilink")，以及租借[YouBike](../Page/YouBike.md "wikilink")，凡
+  - 2015年10月15日，點鑽公司宣布，民眾只要用悠遊卡／悠遊聯名卡／悠遊Debit卡搭乘台北捷運、[首都客運](../Page/首都客運.md "wikilink")、[大都會客運](../Page/大都會客運.md "wikilink")、[台北客運](https://zh.wikipedia.org/wiki/台北客運 "wikilink")，以及租借[YouBike](https://zh.wikipedia.org/wiki/YouBike "wikilink")，凡
     5 次就可累積 1 點 UUPON 點數，使用台新銀行悠遊聯名卡在活動期間內，搭公車騎 YouBike 點數五倍，搭 5 次即給 5 點
     UUPON\[8\]。
   - 2016年12月27日，點鑽公司與臺北市交通局推出「北市周五綠色運輸日（Green Friday）」活動，將自 2016 年 12 月
     30 日起至 2017 年 2 月 24
-    日止舉辦，活動期間每逢周五嗶悠遊卡（不限卡別），民眾只要用悠遊卡搭乘[台北捷運](../Page/台北捷運.md "wikilink")、[首都客運](../Page/首都客運.md "wikilink")、[台北市聯營公車及指定路線](../Page/台北市聯營公車.md "wikilink")，以及租借
-    [YouBike](../Page/YouBike.md "wikilink")，搭 1 次即可獲得 1 點 UUPON
-    紅利點數，搭乘達 10 次可獲得 10 點，依此類推。\[9\]。
+    日止舉辦，活動期間每逢周五嗶悠遊卡（不限卡別），民眾只要用悠遊卡搭乘[台北捷運](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")、[首都客運](../Page/首都客運.md "wikilink")、[台北市聯營公車及指定路線](https://zh.wikipedia.org/wiki/台北市聯營公車 "wikilink")，以及租借
+    [YouBike](https://zh.wikipedia.org/wiki/YouBike "wikilink")，搭 1
+    次即可獲得 1 點 UUPON 紅利點數，搭乘達 10 次可獲得 10 點，依此類推。\[9\]。
   - 2017年月4月21日，悠遊卡公司、點鑽公司和玉山銀行持續推出「北市周五綠色運輸日（Green
     Friday）」，希望吸引更多民眾使用公共交通運輸工具，凡於活動期間每週五上午
     6 到 9
-    點持悠遊卡搭乘[台北捷運](../Page/台北捷運.md "wikilink")、北市與新北市[聯營公車](../Page/聯營公車.md "wikilink")、或於北市與新北市租借
-    [YouBike](../Page/YouBike.md "wikilink") (不含0元交易)，搭乘 1 次即贈送 2 點
-    UUPON 點數。另外，同時段持玉山銀行悠遊聯名卡搭乘綠運輸者，搭乘 1 次即可送 4 點。\[10\]。
+    點持悠遊卡搭乘[台北捷運](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")、北市與新北市[聯營公車](https://zh.wikipedia.org/wiki/聯營公車 "wikilink")、或於北市與新北市租借
+    [YouBike](https://zh.wikipedia.org/wiki/YouBike "wikilink")
+    (不含0元交易)，搭乘 1 次即贈送 2 點 UUPON
+    點數。另外，同時段持玉山銀行悠遊聯名卡搭乘綠運輸者，搭乘
+    1 次即可送 4 點。\[10\]。
   - 2017年月7月4日，點鑽公司與臺北市交通局公運處推出「幹線公車轉乘優惠」，為鼓勵民眾搭乘，至 2017年 10 月 5
     日，公運處表示，民眾持註冊 UUPON 會員的悠遊卡，搭乘幹線公車雙向轉乘雙北或幹線公車一次，就可獲得
     UUPON 點數 1 點與 1 次抽獎機會\[11\]。
   - 2018年月3月1日，點鑽公司與臺北市交通局、悠遊卡公司、玉山銀行共同贊助推出「2018
-    年綠運輸集點活動」，鼓勵全國民眾外出通勤、出遊或購物都能使用綠運輸，每日不限時段凡持悠遊卡或悠遊聯名卡（全卡種）使用全國綠運輸（[高鐵](../Page/高鐵.md "wikilink")、[台鐵](../Page/台鐵.md "wikilink")、[北捷](../Page/北捷.md "wikilink")、[高捷](../Page/高捷.md "wikilink")、[桃捷](../Page/桃捷.md "wikilink")、各縣市[公車](../Page/公車.md "wikilink")、[YouBike](../Page/YouBike.md "wikilink")
-    及[渡輪](../Page/渡輪.md "wikilink") (不含0元交易)），每搭乘 5 次 即送 1 點 UUPON
+    年綠運輸集點活動」，鼓勵全國民眾外出通勤、出遊或購物都能使用綠運輸，每日不限時段凡持悠遊卡或悠遊聯名卡（全卡種）使用全國綠運輸（[高鐵](https://zh.wikipedia.org/wiki/高鐵 "wikilink")、[台鐵](https://zh.wikipedia.org/wiki/台鐵 "wikilink")、[北捷](https://zh.wikipedia.org/wiki/北捷 "wikilink")、[高捷](https://zh.wikipedia.org/wiki/高捷 "wikilink")、[桃捷](https://zh.wikipedia.org/wiki/桃捷 "wikilink")、各縣市[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")、[YouBike](https://zh.wikipedia.org/wiki/YouBike "wikilink")
+    及[渡輪](https://zh.wikipedia.org/wiki/渡輪 "wikilink") (不含0元交易)），每搭乘 5 次
+    即送 1 點 UUPON
     紅利點數，且不同綠運具間轉乘亦分別列入計算。另外，為配合周五綠運輸政策及延續該活動宗旨，點數再加碼；即每周五全日不限時段，凡持悠遊卡搭乘全國綠運輸即可獲得
     1 點紅利點數，且周五使用次數還可列入滿 5 次送 1
     點活動中，搭乘次數越多獲得點數越多。此外，玉山銀行共同響應再加碼推出，凡每日持玉山悠遊聯名卡使用全國綠運輸者，即可獲得
@@ -72,7 +75,7 @@ UUPON 合作特約商通路。
 
 #### 電信
 
-  - 2017年月6月21日，點鑽公司宣佈，聯手[亞太電信](../Page/亞太電信.md "wikilink")、[台灣大哥大和](../Page/台灣大哥大.md "wikilink")[中華電信三大電信業者](../Page/中華電信.md "wikilink")，全面啟動多元化集點服務。UUPON
+  - 2017年月6月21日，點鑽公司宣佈，聯手[亞太電信](../Page/亞太電信.md "wikilink")、[台灣大哥大和](../Page/台灣大哥大.md "wikilink")[中華電信三大電信業者](https://zh.wikipedia.org/wiki/中華電信 "wikilink")，全面啟動多元化集點服務。UUPON
     會員申辦亞太電信 598 吃到飽門號專案，加碼贈送 UUPON 點數 1000 點。下載「台灣大哥大 Wali
     智慧錢包」開通手機悠遊卡，且首次更換 NFC SIM 卡的 UUPON
     會員，申辦所需包括 300 元換卡費，以及 100 元記名開通費，統統享有免費優惠；且 Wali
@@ -112,7 +115,7 @@ UUPON 合作特約商通路。
 #### 娛樂
 
   - 2018年7月4日，UUPON
-    配合[世界盃足球賽話題熱潮](../Page/世界盃足球賽.md "wikilink")，推出「世足冠軍神預測」兌點抽獎活動，挑戰市場最高賠率
+    配合[世界盃足球賽話題熱潮](https://zh.wikipedia.org/wiki/世界盃足球賽 "wikilink")，推出「世足冠軍神預測」兌點抽獎活動，挑戰市場最高賠率
     1 千倍。UUPON 會員只要從四強隊伍，預測中冠軍隊，就有機會獲得 1 萬點 UUPON 紅利點數。只要憑 10 點，就可以在
     APP「兌好康」專區兌換一次預測機會，只要預測中冠軍隊伍，就可以參加抽獎，共有 5 位幸運會員，可得到 1 萬點 UUPON
     點數，相當於免費賺到 2500 元悠遊卡儲值金。\[20\]。
@@ -169,17 +172,17 @@ UUPON 合作特約商通路。
 <!-- end list -->
 
   - 電信服務
-      - [中華電信股份有限公司](../Page/中華電信股份有限公司.md "wikilink")
+      - [中華電信股份有限公司](https://zh.wikipedia.org/wiki/中華電信股份有限公司 "wikilink")
       - [神腦國際](../Page/神腦國際.md "wikilink")
-      - [台灣大哥大股份有限公司](../Page/台灣大哥大股份有限公司.md "wikilink")
-      - [亞太電信股份有限公司](../Page/亞太電信股份有限公司.md "wikilink")
+      - [台灣大哥大股份有限公司](https://zh.wikipedia.org/wiki/台灣大哥大股份有限公司 "wikilink")
+      - [亞太電信股份有限公司](https://zh.wikipedia.org/wiki/亞太電信股份有限公司 "wikilink")
       - [So-net](../Page/So-net.md "wikilink")(台灣碩網)
 
 <!-- end list -->
 
   - 金融服務
       - [玉山商業銀行](../Page/玉山商業銀行.md "wikilink")
-      - [台北富邦銀行](../Page/台北富邦銀行.md "wikilink")
+      - [台北富邦銀行](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")
       - [中國信託商業銀行](../Page/中國信託商業銀行.md "wikilink")
       - [台新國際商業銀行](../Page/台新國際商業銀行.md "wikilink")
       - [第一商業銀行](../Page/第一商業銀行.md "wikilink")
@@ -197,9 +200,10 @@ UUPON 合作特約商通路。
       - [長榮航空股份有限公司](../Page/長榮航空.md "wikilink")
       - [JAL日本航空 Japan Airlines](../Page/日本航空.md "wikilink")
       - [亞洲萬里通](../Page/亞洲萬里通.md "wikilink")
-      - 台灣[樂天市場股份有限公司](../Page/樂天.md "wikilink")
-      - [Pchome線上購物](../Page/Pchome.md "wikilink")
-      - [WakuWaku Japan](../Page/WakuWaku_Japan.md "wikilink")
+      - 台灣[樂天市場股份有限公司](https://zh.wikipedia.org/wiki/樂天 "wikilink")
+      - [Pchome線上購物](https://zh.wikipedia.org/wiki/Pchome "wikilink")
+      - [WakuWaku
+        Japan](https://zh.wikipedia.org/wiki/WakuWaku_Japan "wikilink")
       - 俥酷 iParking
       - 胡思二手書店
       - 天衣包膜

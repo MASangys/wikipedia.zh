@@ -45,3 +45,4 @@
 [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
 [Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink")
 [Category:交換身分題材漫畫](https://zh.wikipedia.org/wiki/Category:交換身分題材漫畫 "wikilink")
+[Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink")

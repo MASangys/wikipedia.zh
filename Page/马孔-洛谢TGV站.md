@@ -1,11 +1,11 @@
-**马孔-洛谢TGV站**（），简称马孔TGV站或马孔高铁站，是[法国高速铁路东南线](../Page/法国高速铁路东南线.md "wikilink")（LGV
+**马孔-洛谢TGV站**（），简称马孔TGV站或马孔高铁站，是[法国高速铁路东南线](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")（LGV
 Sud-Est）上的一个高铁车站，也是整个法国最早投入运营的高铁车站之一，位于法国城市[马孔附近](../Page/马孔.md "wikilink")。
 
 ## 位置
 
-马孔-洛谢TGV站位于马孔市区的西南部的[洛谢副镇级街区](../Page/洛谢.md "wikilink")，距离市中心大约7公里，有公交车线路连接。车站大致呈南部走向，开口朝东，面对马孔市区。车站北距[巴黎里昂站](../Page/巴黎里昂站.md "wikilink")（Paris
+马孔-洛谢TGV站位于马孔市区的西南部的[洛谢副镇级街区](https://zh.wikipedia.org/wiki/洛谢 "wikilink")，距离市中心大约7公里，有公交车线路连接。车站大致呈南部走向，开口朝东，面对马孔市区。车站北距[巴黎里昂站](https://zh.wikipedia.org/wiki/巴黎里昂站 "wikilink")（Paris
 Gare de Lyon）353公里；南距[里昂帕丢站](../Page/里昂帕尔迪厄站.md "wikilink")（Gare de
-Lyon-Part-Dieu）75公里，马孔-洛谢TGV站东南大约1公里处有联络线，由[法国高速铁路东南线里昂方向的列车可在此连接](../Page/法国高速铁路东南线.md "wikilink")[巴黎－马赛铁路前往第戎方向](../Page/巴黎－马赛铁路.md "wikilink")；再向东还有另外一条联络线与连接，可通过此线前往[布雷斯地区布尔格以及](../Page/布雷斯地区布尔格.md "wikilink")[萨瓦方向](../Page/萨瓦.md "wikilink")。
+Lyon-Part-Dieu）75公里，马孔-洛谢TGV站东南大约1公里处有联络线，由[法国高速铁路东南线里昂方向的列车可在此连接](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")[巴黎－马赛铁路前往第戎方向](https://zh.wikipedia.org/wiki/巴黎－马赛铁路 "wikilink")；再向东还有另外一条联络线与连接，可通过此线前往[布雷斯地区布尔格以及](https://zh.wikipedia.org/wiki/布雷斯地区布尔格 "wikilink")[萨瓦方向](../Page/萨瓦.md "wikilink")。
 
 ## 周围环境
 
@@ -35,16 +35,16 @@ Berthilliers），该区作为高铁新区与马孔-洛谢TGV站同期投入使�
 <td style="text-align: center;"><p>线路</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/巴黎里昂站.md" title="wikilink">巴黎</a>—<a href="../Page/阿讷西站.md" title="wikilink">阿讷西</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="../Page/阿讷西站.md" title="wikilink">阿讷西</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/巴黎里昂站.md" title="wikilink">巴黎</a>—<a href="../Page/尚贝里沙雷索站.md" title="wikilink">尚贝里</a>/<a href="../Page/布圣莫里斯站.md" title="wikilink">布圣莫里斯</a>/<a href="../Page/米兰加里波底门站.md" title="wikilink">米兰</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="https://zh.wikipedia.org/wiki/尚贝里沙雷索站" title="wikilink">尚贝里</a>/<a href="https://zh.wikipedia.org/wiki/布圣莫里斯站" title="wikilink">布圣莫里斯</a>/<a href="https://zh.wikipedia.org/wiki/米兰加里波底门站" title="wikilink">米兰</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/米拉马斯站.md" title="wikilink">米拉马斯</a>/<a href="../Page/阿维尼翁中央站.md" title="wikilink">阿维尼翁</a>→<a href="../Page/巴黎里昂站.md" title="wikilink">巴黎</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/米拉马斯站" title="wikilink">米拉马斯</a>/<a href="../Page/阿维尼翁中央站.md" title="wikilink">阿维尼翁</a>→<a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/巴黎里昂站.md" title="wikilink">巴黎</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"></td>
@@ -58,7 +58,7 @@ Berthilliers），该区作为高铁新区与马孔-洛谢TGV站同期投入使�
 
 马孔洛谢TGV站配套的长途车站位于车站正门前的广场上，有提示牌。
 
-乘坐由公司提供的线路，可前往[克吕尼](../Page/克吕尼.md "wikilink")（Cluny）、科尔马丁（Cormatin）、[索恩河畔沙隆](../Page/索恩河畔沙隆.md "wikilink")（Chalon-sur-Sâone）、马莱（Malay）、泰泽（Taizé）以及马孔市区等地，并可直达世界文化遗产—[克吕尼修道院](../Page/克吕尼修道院.md "wikilink")（Abbaye
+乘坐由公司提供的线路，可前往[克吕尼](https://zh.wikipedia.org/wiki/克吕尼 "wikilink")（Cluny）、科尔马丁（Cormatin）、[索恩河畔沙隆](../Page/索恩河畔沙隆.md "wikilink")（Chalon-sur-Sâone）、马莱（Malay）、泰泽（Taizé）以及马孔市区等地，并可直达世界文化遗产—[克吕尼修道院](https://zh.wikipedia.org/wiki/克吕尼修道院 "wikilink")（Abbaye
 de Cluny）。
 
 此外，当某条铁路线施工或罢工时，SNCF也会提供途径该线路沿途站点的大巴车。
@@ -80,7 +80,7 @@ Mâcon-Loché），站台位于马孔-洛谢TGV站正门前方，由马孔公交
 <td style="text-align: center;"><p>上行车站</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/勒克佐TGV站.md" title="wikilink">勒克佐TGV站</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/勒克佐TGV站" title="wikilink">勒克佐TGV站</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><ul>
@@ -92,7 +92,7 @@ Mâcon-Loché），站台位于马孔-洛谢TGV站正门前方，由马孔公交
 
 ## 参见
 
-  - [法国铁路车站列表](../Page/法国铁路车站列表.md "wikilink")
+  - [法国铁路车站列表](https://zh.wikipedia.org/wiki/法国铁路车站列表 "wikilink")
 
 ## 参考资料
 

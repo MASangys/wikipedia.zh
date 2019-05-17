@@ -1,7 +1,7 @@
 **Ubisoft
 Massive**，是一家总部位于瑞典[马尔默的瑞典游戏工作室](../Page/马尔默.md "wikilink")。从2008年开始该公司为育碧所有。\[1\]
 
-该工作室因制作《[冲突世界](../Page/冲突世界.md "wikilink")》和《汤姆·克兰西之[全境封锁](../Page/全境封锁.md "wikilink")》而知名。
+该工作室因制作《[冲突世界](../Page/冲突世界.md "wikilink")》和《汤姆·克兰西之[全境封锁](https://zh.wikipedia.org/wiki/全境封锁 "wikilink")》而知名。
 
 ## 历史
 
@@ -19,10 +19,10 @@ Entertainment。\[3\]2008年11月10日，育碧收购Massive Entertainment。\[4
 
 2010年12月，育碧确认Massive将制作有关刺客信条的游戏\[7\]，2011年5月5日公布Massive在合作开发《刺客信条：启示录》\[8\]。Massive在合作开发《孤岛惊魂3》。
 
-在2013年E3，Massive宣布该公司的下一款游戏是《汤姆·克兰西之[全境封锁](../Page/全境封锁.md "wikilink")》（Tom
+在2013年E3，Massive宣布该公司的下一款游戏是《汤姆·克兰西之[全境封锁](https://zh.wikipedia.org/wiki/全境封锁 "wikilink")》（Tom
 Clancy's The Division）。\[9\]
 
-2018年3月，在《全境封锁》发售两周年之际，Massive宣布《汤姆·克兰西之[全境封锁2](../Page/全境封锁2.md "wikilink")》将于2019年发售。
+2018年3月，在《全境封锁》发售两周年之际，Massive宣布《汤姆·克兰西之[全境封锁2](https://zh.wikipedia.org/wiki/全境封锁2 "wikilink")》将于2019年发售。
 
 ## 參考資料
 

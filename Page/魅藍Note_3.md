@@ -1,7 +1,7 @@
 魅族
 魅蓝note3是魅族科技在2016年4月16日发行的魅蓝系列手机。该手机有银白、灰黑、金三种颜色外观，可更换多种颜色手机外壳。产品搭载基于[Android
-5.1深度定制的](../Page/Android_5.1.md "wikilink")[Flyme
-OS](../Page/Flyme_OS.md "wikilink")5.1系统。
+5.1深度定制的](https://zh.wikipedia.org/wiki/Android_5.1 "wikilink")[Flyme
+OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")5.1系统。
 
 ## 手机制式
 

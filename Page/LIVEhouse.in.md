@@ -1,8 +1,8 @@
-**LIVEhouse.in**是台灣自製的直播平台，公司成立於2013年，網站於2014年正式上線，由[程世嘉創辦](../Page/程世嘉.md "wikilink")，總部位於台北市信義區。曾是台灣自製直播平台中規模最大者，然後來使用率下滑，於2018年起不再提供非合作使用者直播，並轉型行銷整合。
+**LIVEhouse.in**是台灣自製的直播平台，公司成立於2013年，網站於2014年正式上線，由[程世嘉創辦](https://zh.wikipedia.org/wiki/程世嘉 "wikilink")，總部位於台北市信義區。曾是台灣自製直播平台中規模最大者，然後來使用率下滑，於2018年起不再提供非合作使用者直播，並轉型行銷整合。
 
 ## 歷史
 
-**LIVEhouse.in**前身為網路卡拉OK平台**iKala**(愛卡拉)，成立於2007年，創辦人為[張澤銘](../Page/張澤銘.md "wikilink")。
+**LIVEhouse.in**前身為網路卡拉OK平台**iKala**(愛卡拉)，成立於2007年，創辦人為[張澤銘](https://zh.wikipedia.org/wiki/張澤銘 "wikilink")。
 
 2012年，張澤銘邀請當時還是[Google台灣分公司工程師的程世嘉擔任愛卡拉執行長](../Page/Google.md "wikilink")，程世嘉接手後，將Google企業文化引進愛卡拉，同時推出行動版界面，會員人數從原本的30萬人倍增至60萬人。
 
@@ -14,11 +14,11 @@
 
 ## 合作對象
 
-  - [沃草](../Page/沃草.md "wikilink")
-  - [公視](../Page/公視.md "wikilink")
-  - [批踢踢實業坊](../Page/批踢踢實業坊.md "wikilink")
+  - [沃草](https://zh.wikipedia.org/wiki/沃草 "wikilink")
+  - [公視](https://zh.wikipedia.org/wiki/公視 "wikilink")
+  - [批踢踢實業坊](https://zh.wikipedia.org/wiki/批踢踢實業坊 "wikilink")
   - [中天電視](../Page/中天電視.md "wikilink")
-  - [COMPUTEX](../Page/COMPUTEX.md "wikilink")
+  - [COMPUTEX](https://zh.wikipedia.org/wiki/COMPUTEX "wikilink")
 
 ## 節目
 
@@ -36,12 +36,12 @@
 ## 業界評價
 
   - 「LIVEhouse.in直播平台，將直播門檻降到最低，每個人都可以自己建立實況轉播頻道。」-
-    [數位時代](../Page/數位時代.md "wikilink")\[3\]
+    [數位時代](https://zh.wikipedia.org/wiki/數位時代 "wikilink")\[3\]
   - 「LIVEhouse.in 團隊擁有相當堅強的技術能力，透過網路介面，使用者無須安裝任何軟體，開啟網路就能開播。」-
-    [FreeGroup](../Page/FreeGroup.md "wikilink")\[4\]
+    [FreeGroup](https://zh.wikipedia.org/wiki/FreeGroup "wikilink")\[4\]
   - 「LIVEhouse.in
     的平台以社群互動、社群經營切入直播平台，讓小從個人、大至企業都可以非常方便地創建屬於自己的直播管道，讓更多線下的內容跟互動可以夠過這新的科技帶到網路上面來。」-
-    [MMDays](../Page/MMDays.md "wikilink")\[5\]
+    [MMDays](https://zh.wikipedia.org/wiki/MMDays "wikilink")\[5\]
 
 ## 獲獎紀錄
 

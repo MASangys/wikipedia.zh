@@ -1,5 +1,5 @@
 \-{T|_genic}-
-《**_genic**》（_時尚基因）是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠第十二張專輯](../Page/安室奈美惠.md "wikilink")，於2015年6月10日由[Avex旗下新廠牌Dimension](../Page/Avex.md "wikilink")
+《**_genic**》（_時尚基因）是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠第十二張專輯](../Page/安室奈美惠.md "wikilink")，於2015年6月10日由[Avex旗下新廠牌Dimension](https://zh.wikipedia.org/wiki/Avex "wikilink")
 Point發行。
 
 ## 簡介
@@ -9,9 +9,9 @@ Point發行。
   - 本專輯嚴格上是一張英語專輯，只有《Golden Touch》、《B Who I Want 2
     B》及《Stranger》附有不多於百分之三十的日語歌詞。有見及此，唱片內附有一張日語翻譯歌詞本。
   - 專輯的主題為「復興」，曲風以回歸80～90年代古典舞曲與R\&B氛圍傳統，色彩繽紛的舞曲與流行樂風為基調\[2\]\[3\]。
-  - 專輯收錄由曾與[女神卡卡](../Page/女神卡卡.md "wikilink")、[賽琳娜·戈梅茲合作的Joacim](../Page/賽琳娜·戈梅茲.md "wikilink")
+  - 專輯收錄由曾與[女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")、[賽琳娜·戈梅茲合作的Joacim](https://zh.wikipedia.org/wiki/賽琳娜·戈梅茲 "wikilink")
     Persson所創作的復古R\&B歌曲《Golden
-    Touch》\[4\]、安室出道以來首支慶生歌曲《Birthday》\[5\]、曾參與[碧昂絲](../Page/碧昂絲.md "wikilink")、[尚恩·保羅服務的James](../Page/尚恩·保羅.md "wikilink")
+    Touch》\[4\]、安室出道以來首支慶生歌曲《Birthday》\[5\]、曾參與[碧昂絲](../Page/碧昂絲.md "wikilink")、[尚恩·保羅服務的James](https://zh.wikipedia.org/wiki/尚恩·保羅 "wikilink")
     "KEYZ"
     Foye所創作的抒情歌曲《Anything》\[6\]、與虛擬偶像[初音未來實現跨界合作的](../Page/初音未來.md "wikilink")《B
     Who I Want 2 B feat. HATSUNE
@@ -46,7 +46,7 @@ Point發行。
   - **DISC1：CD**
       - 全14曲收錄
   - **DISC2：DVD**
-      - [音樂錄像帶全](../Page/音樂錄像帶.md "wikilink")5曲收錄
+      - [音樂錄像帶全](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")5曲收錄
   - 預購特典：B2尺寸海報。
 
 ### CD+Blu-ray
@@ -55,7 +55,7 @@ Point發行。
   - **DISC1：CD**
       - 全14曲收錄
   - **DISC2: Blu-ray**
-      - [音樂錄像帶全](../Page/音樂錄像帶.md "wikilink")5曲收錄
+      - [音樂錄像帶全](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")5曲收錄
   - 預購特典：B2尺寸海報。
 
 ### CD ONLY

@@ -1,6 +1,6 @@
 **BBC Brit**是一個付費娛樂電視頻道，主要播出紀實類娛樂節目。BBC
-Brit由[英國廣播公司商業分支所有並運營](../Page/英國廣播公司商業分支.md "wikilink")，在2015年開始播出，首個播出國家是[波蘭](../Page/波蘭.md "wikilink")\[1\]\[2\]。BBC
-Brit播出包括[英國瘋狂汽車秀等節目](../Page/英國瘋狂汽車秀.md "wikilink")\[3\]\[4\]。
+Brit由[英國廣播公司商業分支所有並運營](../Page/英國廣播公司商業分支.md "wikilink")，在2015年開始播出，首個播出國家是[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")\[1\]\[2\]。BBC
+Brit播出包括[英國瘋狂汽車秀等節目](https://zh.wikipedia.org/wiki/英國瘋狂汽車秀 "wikilink")\[3\]\[4\]。
 
 ## 參考資料
 

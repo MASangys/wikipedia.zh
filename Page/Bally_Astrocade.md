@@ -1,9 +1,9 @@
 **Bally Astrocade**（又稱為**Bally Professional Arcade**、**Bally Home
 Library Computer**或**Bally Computer
 System**\[1\]）是一款於1977年由[Midway](../Page/Midway.md "wikilink")（當時為[Bally
-Manufacturing的遊戲部門](../Page/Bally_Manufacturing.md "wikilink")）研發的第二世代[家用遊戲機](../Page/家用遊戲機.md "wikilink")。
+Manufacturing的遊戲部門](https://zh.wikipedia.org/wiki/Bally_Manufacturing "wikilink")）研發的第二世代[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。
 
-發售初期只能從有限的途徑購入Astrocade，稍後由於Bally考慮退出遊戲機市場，Bally將Astrocade的專利賣給另一間公司[Astrovision](../Page/Astrovision.md "wikilink")。最後，[1983年美國遊戲業蕭條事件令Astrovision嚴重虧損](../Page/1983年美國遊戲業蕭條事件.md "wikilink")，最終破產而倒閉。而Astrocade亦於1985年消失於遊戲機市場\[2\]。
+發售初期只能從有限的途徑購入Astrocade，稍後由於Bally考慮退出遊戲機市場，Bally將Astrocade的專利賣給另一間公司[Astrovision](https://zh.wikipedia.org/wiki/Astrovision "wikilink")。最後，[1983年美國遊戲業蕭條事件令Astrovision嚴重虧損](https://zh.wikipedia.org/wiki/1983年美國遊戲業蕭條事件 "wikilink")，最終破產而倒閉。而Astrocade亦於1985年消失於遊戲機市場\[2\]。
 
 ## 簡介
 
@@ -17,11 +17,11 @@ Computer System**。1982年，Astrovision再次更改產品的名稱，亦是最
 Astrocade**。最後，Astrovision在經過1983年的遊戲機市場大肅條後無法再維持運作而破產，而Astrocade亦於1985年正式停產並消失於遊戲機市場\[7\]\[8\]\[9\]\[10\]\[11\]。
 
 在Astrocade發售初期，Midway曾構思推出Astrocade的擴充系統，稱為**ZGRASS-100**。此系統能夠加強Astrocade的功能使它成為有完善功能的電腦。但是在其能夠推出市場之前，Bally已經將Astrocade出售至Astrovision。而Astrovision在收購Astrocade後可能將上述系統以**ZGRASS-32**的名稱作小規模發售。最後，整個系列統合為一款電腦系統稱為[Datamax
-UV-1並於](../Page/Datamax_UV-1.md "wikilink")1980年至1982年之間發售\[12\]。
+UV-1並於](https://zh.wikipedia.org/wiki/Datamax_UV-1 "wikilink")1980年至1982年之間發售\[12\]。
 
 Astrocade與同時期的其他遊戲機相似，都是使用仿木的外型設計。它的前方有一個設有24個按鈕的鍵盤供選擇遊戲及其他選項，旁邊則是插槽及2個按鈕，分別是「重置」及「彈出（卡帶）」。在頂部後方則有十分特別的設計，打開其頂部是一個可以放置15款卡帶的空間。而電源開關、控制器插頭及擴充設置插頭則在遊戲機的後方。大部分卡帶都設有2款遊戲，當插入卡帶後遊戲機會重置，之後會顯示目錄包括卡帶的遊戲、遊戲機內置的遊戲及選項，並使用前方鍵盤選擇\[13\]。
 
-Astrocade是早期使用卡帶作為儲存媒介的遊戲機。它使用的卡帶稱為*Videocades*，在設計上與[卡式錄音帶相似](../Page/卡式錄音帶.md "wikilink")（尺寸相同）\[14\]\[15\]。
+Astrocade是早期使用卡帶作為儲存媒介的遊戲機。它使用的卡帶稱為*Videocades*，在設計上與[卡式錄音帶相似](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")（尺寸相同）\[14\]\[15\]。
 
 Astrocade的控制器使用了多種不同的控制機制，在當時來說是十分特別及複雜。但是它給玩家的感覺是十分流暢及敏感。控制器的設計是類似手槍的槍柄，前方設有扳機開關。頂部則是可以向8個方向移動的搖桿，但它同時亦是旋式控制器（*Paddle*）可以左右轉動\[16\]\[17\]\[18\]\[19\]。
 
@@ -98,7 +98,7 @@ Astrocade總共推出約50款官方遊戲\[27\]\[28\]\[29\]\[30\]。
   - [雅達利2600](../Page/雅達利2600.md "wikilink")
   - [Fairchild Channel F](../Page/Fairchild_Channel_F.md "wikilink")
   - [Intellivision](../Page/Intellivision.md "wikilink")
-  - [美格福斯奧德賽²](../Page/美格福斯奧德賽².md "wikilink")
+  - [美格福斯奧德賽²](https://zh.wikipedia.org/wiki/美格福斯奧德賽² "wikilink")
 
 ## 参考资料
 

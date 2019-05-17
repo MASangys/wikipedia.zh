@@ -1,5 +1,5 @@
-**Mantle**是一个由[AMD主导开发的](../Page/AMD.md "wikilink")\[1\]面向3D游戏的[图形渲染](../Page/彩現.md "wikilink")
-[API](../Page/应用程序接口.md "wikilink")，开发从2013年开始，并在[DICE的帮助下进行](../Page/DICE.md "wikilink")。\[2\]尽管[PlayStation
+**Mantle**是一个由[AMD主导开发的](https://zh.wikipedia.org/wiki/AMD "wikilink")\[1\]面向3D游戏的[图形渲染](https://zh.wikipedia.org/wiki/彩現 "wikilink")
+[API](../Page/应用程序接口.md "wikilink")，开发从2013年开始，并在[DICE的帮助下进行](https://zh.wikipedia.org/wiki/DICE "wikilink")。\[2\]尽管[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[Xbox
 One配置的GPU也支持Mantle](../Page/Xbox_One.md "wikilink")，Mantle作为[Direct3D和](../Page/Direct3D.md "wikilink")[OpenGL的补充](../Page/OpenGL.md "wikilink")，主要用于[PC](../Page/PC.md "wikilink")。\[3\]\[4\]
 
@@ -8,8 +8,9 @@ API本身并没有公开。\[6\]
 
 ## 参见
 
-  - [Direct3D 12](../Page/Direct3D#Direct3D_12.md "wikilink") ——
-    [微软开发的底层API](../Page/微软.md "wikilink")
+  - [Direct3D
+    12](https://zh.wikipedia.org/wiki/Direct3D#Direct3D_12 "wikilink")
+    —— [微软开发的底层API](../Page/微软.md "wikilink")
   - [Vulkan](../Page/Vulkan_\(API\).md "wikilink") ——
     [科纳斯组织开发](../Page/科纳斯组织.md "wikilink")，基于Mantle的底层API
   - [Metal](../Page/Metal_\(API\).md "wikilink")

@@ -1,6 +1,6 @@
-是[德国汽车制造商](../Page/德国.md "wikilink")[BMW从](../Page/BMW.md "wikilink")开始编号的一个传统[双座敞篷车类别](../Page/双座敞篷车.md "wikilink")。Z类别已经生产了五个不同世代的四个系列，其中包括各款[轿跑车变体](../Page/轿跑车.md "wikilink")、一款[超级跑车以及一款](../Page/超级跑车.md "wikilink")[概念车](../Page/概念车.md "wikilink")。
+是[德国汽车制造商](../Page/德国.md "wikilink")[BMW从](../Page/BMW.md "wikilink")开始编号的一个传统[双座敞篷车类别](https://zh.wikipedia.org/wiki/双座敞篷车 "wikilink")。Z类别已经生产了五个不同世代的四个系列，其中包括各款[轿跑车变体](https://zh.wikipedia.org/wiki/轿跑车 "wikilink")、一款[超级跑车以及一款](https://zh.wikipedia.org/wiki/超级跑车 "wikilink")[概念车](https://zh.wikipedia.org/wiki/概念车 "wikilink")。
 
-在1989年面世的Z1是BMW仅在[欧洲限量生产的款式](../Page/欧洲.md "wikilink")，而1996年面世的[Z3则是BMW的首款量产双座敞篷车](../Page/BMW_Z3.md "wikilink")。Z1中的字符Z原本是指代（[德语](../Page/德语.md "wikilink")“未来”之意）。目前唯一在产的Z类别是第二代[Z4](../Page/BMW_Z4.md "wikilink")。
+在1989年面世的Z1是BMW仅在[欧洲限量生产的款式](../Page/欧洲.md "wikilink")，而1996年面世的[Z3则是BMW的首款量产双座敞篷车](../Page/BMW_Z3.md "wikilink")。Z1中的字符Z原本是指代（[德语](../Page/德语.md "wikilink")“未来”之意）。目前唯一在产的Z类别是第二代[Z4](https://zh.wikipedia.org/wiki/BMW_Z4 "wikilink")。
 
 ## 历史
 
@@ -29,14 +29,14 @@ Z车辆很大程度上可以从基础平台进行区分：
 <td><p>1996–2002</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/BMW_Z4.md" title="wikilink">Z4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_Z4" title="wikilink">Z4</a></p></td>
 <td></td>
 <td><p>双座敞篷车、轿跑车</p></td>
 <td><p>2002–2008</p></td>
 </tr>
 <tr class="even">
 <td><p>Z4</p></td>
-<td><p><a href="../Page/BMW_E89.md" title="wikilink">E89</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_E89" title="wikilink">E89</a></p></td>
 <td><p>双座敞篷车（带可伸缩硬顶）</p></td>
 <td><p>2009–当前</p></td>
 </tr>

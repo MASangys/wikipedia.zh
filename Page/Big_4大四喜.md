@@ -1,6 +1,6 @@
 《**Big
-4大四喜**》（[英文](../Page/英語.md "wikilink")：）是[香港](../Page/香港.md "wikilink")[無綫生活台的電視訪問](../Page/無綫生活台.md "wikilink")[清談節目](../Page/清談節目.md "wikilink")，當時逢星期六19:00-20:00於收費台播映，當天晚上23:00-00:00重播。該節目由香港組合[Big
-Four主持](../Page/Big_Four.md "wikilink")，包括[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康和](../Page/蘇永康.md "wikilink")[梁漢文](../Page/梁漢文.md "wikilink")，監製何麗全和陳旭亮。一共10集，第1-7集的節目內容已輯錄DVD推出市場，而2010年6月26日開始，本節目於翡翠台及高清翡翠台播放為期兩集的精華版本，並更名為《Big4大四喜
+4大四喜**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是[香港](../Page/香港.md "wikilink")[無綫生活台的電視訪問](https://zh.wikipedia.org/wiki/無綫生活台 "wikilink")[清談節目](https://zh.wikipedia.org/wiki/清談節目 "wikilink")，當時逢星期六19:00-20:00於收費台播映，當天晚上23:00-00:00重播。該節目由香港組合[Big
+Four主持](../Page/Big_Four.md "wikilink")，包括[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康和](../Page/蘇永康.md "wikilink")[梁漢文](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")，監製何麗全和陳旭亮。一共10集，第1-7集的節目內容已輯錄DVD推出市場，而2010年6月26日開始，本節目於翡翠台及高清翡翠台播放為期兩集的精華版本，並更名為《Big4大四喜
 喜上加喜》。
 
 ## 每集嘉賓
@@ -14,12 +14,12 @@ Four主持](../Page/Big_Four.md "wikilink")，包括[張衛健](../Page/張衛�
 </tr>
 <tr class="even">
 <td><p>第1集（2010年5月1日）</p></td>
-<td><p><a href="../Page/何韻詩.md" title="wikilink">何韻詩</a>、<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a></p></td>
 <td><p>-已推出DVD（第1輯）</p></td>
 </tr>
 <tr class="odd">
 <td><p>第2集（2010年5月8日）</p></td>
-<td><p><a href="../Page/林育群.md" title="wikilink">林育群</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林育群" title="wikilink">林育群</a></p></td>
 <td><p>-已推出DVD（第1輯）</p></td>
 </tr>
 <tr class="even">
@@ -45,7 +45,7 @@ Four主持](../Page/Big_Four.md "wikilink")，包括[張衛健](../Page/張衛�
 </tr>
 <tr class="even">
 <td><p>第7集（2010年6月12日）</p></td>
-<td><p><a href="../Page/關嘉美.md" title="wikilink">關嘉美</a>、<a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關嘉美" title="wikilink">關嘉美</a>、<a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a></p></td>
 <td><p>-已推出DVD（第2輯）</p></td>
 </tr>
 <tr class="odd">
@@ -60,7 +60,7 @@ Four主持](../Page/Big_Four.md "wikilink")，包括[張衛健](../Page/張衛�
 </tr>
 <tr class="odd">
 <td><p>第10集（2010年7月3日）</p></td>
-<td><p><a href="../Page/張衛健.md" title="wikilink">張衛健</a>、<a href="../Page/許志安.md" title="wikilink">許志安</a>、<a href="../Page/蘇永康.md" title="wikilink">蘇永康</a>、<a href="../Page/梁漢文.md" title="wikilink">梁漢文</a>、<a href="../Page/歐陽德勛.md" title="wikilink">歐陽德勛</a></p></td>
+<td><p><a href="../Page/張衛健.md" title="wikilink">張衛健</a>、<a href="../Page/許志安.md" title="wikilink">許志安</a>、<a href="../Page/蘇永康.md" title="wikilink">蘇永康</a>、<a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/歐陽德勛.md" title="wikilink">歐陽德勛</a></p></td>
 <td><p>-歐陽德勛為本集主持，Big Four作嘉賓[1]</p></td>
 </tr>
 </tbody>
@@ -79,7 +79,7 @@ Four主持](../Page/Big_Four.md "wikilink")，包括[張衛健](../Page/張衛�
 </tr>
 <tr class="even">
 <td><p>第1集（2010年6月26日）</p></td>
-<td><p><a href="../Page/何韻詩.md" title="wikilink">何韻詩</a>、<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a><br />
 <a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a></p></td>
 <td><p>-生活台版本之第1集<br />
 -生活台版本之第3集</p></td>

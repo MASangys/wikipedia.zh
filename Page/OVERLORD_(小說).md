@@ -1,12 +1,12 @@
-**OVERLORD**（）是日本小說家[丸山くがね創作的](../Page/丸山くがね.md "wikilink")[輕小說系列](../Page/輕小說.md "wikilink")，最初是發表於小說投稿網站——Arcadia，之後改在[成為小說家吧上發表的網路連載小說](../Page/成為小說家吧.md "wikilink")，2012年正式發行書籍版（故事情節有若干變動，網路上的稱為web版），動畫版2015年7月於日本開始播放第一季。第二季於2018年1月開始播放。第三季於同年7月播放。
+**OVERLORD**（）是日本小說家[丸山くがね創作的](https://zh.wikipedia.org/wiki/丸山くがね "wikilink")[輕小說系列](../Page/輕小說.md "wikilink")，最初是發表於小說投稿網站——Arcadia，之後改在[成為小說家吧上發表的網路連載小說](../Page/成為小說家吧.md "wikilink")，2012年正式發行書籍版（故事情節有若干變動，網路上的稱為web版），動畫版2015年7月於日本開始播放第一季。第二季於2018年1月開始播放。第三季於同年7月播放。
 
 ## 介紹
 
-一款席捲遊戲界的網路遊戲「YGGDRASIL（[世界樹](../Page/世界樹.md "wikilink")）」，在營運十二年後停止一切服務，一名喜歡該遊戲的普通上班族「飛鼠」，在營運的最後一刻來到遊戲中曾名噪一時、由其擔任會長的強大公會—「安茲·烏爾·恭」的根據地納薩力克大墳墓進行最後巡禮，等待營運的結束。
+一款席捲遊戲界的網路遊戲「YGGDRASIL（[世界樹](https://zh.wikipedia.org/wiki/世界樹 "wikilink")）」，在營運十二年後停止一切服務，一名喜歡該遊戲的普通上班族「飛鼠」，在營運的最後一刻來到遊戲中曾名噪一時、由其擔任會長的強大公會—「安茲·烏爾·恭」的根據地納薩力克大墳墓進行最後巡禮，等待營運的結束。
 
 —原本應該是如此。
 
-雖然營運時間結束，玩家角色卻無法登出遊戲。而公會內的[NPC也開始擁有自己的思想](../Page/NPC.md "wikilink")、如活人般地活動起來。在原本的遊戲中擁有骷髏魔法師外表的飛鼠，就這樣與他率領的公會展開前所未有的奇幻傳奇冒險。
+雖然營運時間結束，玩家角色卻無法登出遊戲。而公會內的[NPC也開始擁有自己的思想](https://zh.wikipedia.org/wiki/NPC "wikilink")、如活人般地活動起來。在原本的遊戲中擁有骷髏魔法師外表的飛鼠，就這樣與他率領的公會展開前所未有的奇幻傳奇冒險。
 
 ## 登場人物
 
@@ -158,7 +158,7 @@
 
   -
     簡稱**教國**。是鄰近納薩力克的三大國的其中之一，位於納薩力克的南方，總人口超過一千五百萬人的大國。
-    相傳為六百年前降臨的「六大神」所建立，將他國也有信仰的[地水火風四大神與本國特有的光闇兩柱神信仰立為國教的宗教國家](../Page/元素.md "wikilink")。為了找出國內留存著六大神血統、覺醒後可發揮超人力量的後裔，建立有對國民資料與天生異能進行登錄的[戶口制度](../Page/户籍.md "wikilink")，託此之賜很容易對國民進行適才適用的登用，所以得以保有人類國家中最強的國力。
+    相傳為六百年前降臨的「六大神」所建立，將他國也有信仰的[地水火風四大神與本國特有的光闇兩柱神信仰立為國教的宗教國家](https://zh.wikipedia.org/wiki/元素 "wikilink")。為了找出國內留存著六大神血統、覺醒後可發揮超人力量的後裔，建立有對國民資料與天生異能進行登錄的[戶口制度](../Page/户籍.md "wikilink")，託此之賜很容易對國民進行適才適用的登用，所以得以保有人類國家中最強的國力。
     極端的人類至上主義國家，時常派出特務部隊攻擊、屠殺週邊國家的亞人、非人類種族，但同時也會出兵協助他國抵抗強大魔物的入侵，在守護人類的存續上有其不可磨滅的功蹟。
     仍保存著許多六大神遺留下來的寶物，其中的世界級道具「傾城傾國」甚至擁有足以影響、威脅到納薩力克地下大墳墓守護者的力量。
     組織幹部有最高神官長、六大神官長、掌管司法、立法、行政的三大機關、掌管魔法研究的研究機關長、軍事機關的最高責任者的大元帥，其下屬則有六大巫女姫（其中土巫女與闇巫女已死亡）、六色聖典（陽光、漆黑、水明、火滅、風花，目前最後聖典的名稱及任務不明）。其中「」為各神官長直轄的特殊工作部隊，由六個互不隸屬的「聖典」組成。雖然多少有內部的衝突，但在信仰對外事務上的立場相當一致。
@@ -557,7 +557,7 @@
 <!-- end list -->
 
   -
-    與[三重而偉大的赫密士同音](../Page/赫密士主義.md "wikilink")。
+    與[三重而偉大的赫密士同音](https://zh.wikipedia.org/wiki/赫密士主義 "wikilink")。
     雅兒貝德所持有的鎧甲，原作外型是彷彿鐵桶般的黑色三層式鎧甲。
     毫無任何特殊能力、完全只特化物理方面的防禦力與耐久度。
     這是因為翠玉錄為了配合雅兒貝德的特殊技能而量身訂作的，將鎧甲打造成三層式也是為此。
@@ -760,7 +760,7 @@
 
 <!-- end list -->
 
-  - 屠聖之槍(「二十」[朗基努斯之槍](../Page/朗基努斯之槍.md "wikilink"))
+  - 屠聖之槍(「二十」[朗基努斯之槍](https://zh.wikipedia.org/wiki/朗基努斯之槍 "wikilink"))
 
 <!-- end list -->
 
@@ -839,16 +839,16 @@
 <th><p>集數</p></th>
 <th><p>日文標題</p></th>
 <th><p>中文標題</p></th>
-<th><p><a href="../Page/enterbrain.md" title="wikilink">enterbrain</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/enterbrain" title="wikilink">enterbrain</a></p></th>
 <th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a>/<a href="../Page/EAN.md" title="wikilink">EAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a>/<a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -945,6 +945,13 @@ ISBN 978-4-04-734231-6<small>（特裝版）</small></p></td>
 <td><p>2018年4月27日</p></td>
 <td><p>ISBN 978-4-04-734947-6</p></td>
 </tr>
+<tr class="odd">
+<td><p>特典</p></td>
+<td></td>
+<td><p>亡國的吸血公主（暫）</p></td>
+<td><p>colspan="4"  &lt;!--|-</p></td>
+<td><p>14</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -961,7 +968,7 @@ ISBN 978-4-04-734231-6<small>（特裝版）</small></p></td>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -1177,7 +1184,7 @@ ISBN 978-4-04-104680-7<small>（特裝版）</small></p></td>
   -
 
       -
-        作詞：hotaru，作曲：[大石昌良](../Page/大石昌良.md "wikilink")，編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")，主唱：[OxT](../Page/OxT.md "wikilink")
+        作詞：hotaru，作曲：[大石昌良](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")，編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")，主唱：[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
         第13話作為插入歌使用。
 
 :; 片尾曲「L.L.L.」
@@ -1185,7 +1192,8 @@ ISBN 978-4-04-104680-7<small>（特裝版）</small></p></td>
   -
 
       -
-        作詞、作曲、編曲、主唱：[MYTH & ROID](../Page/MYTH_&_ROID.md "wikilink")
+        作詞、作曲、編曲、主唱：[MYTH &
+        ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")
 
 <!-- end list -->
 
@@ -1221,7 +1229,7 @@ ISBN 978-4-04-104680-7<small>（特裝版）</small></p></td>
   -
 
       -
-        作詞：[hotaru](../Page/MYTH_&_ROID.md "wikilink")，作曲：Tom-H@ck，編曲：KanadeYUK，主唱：OxT
+        作詞：[hotaru](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")，作曲：Tom-H@ck，編曲：KanadeYUK，主唱：OxT
 
 ### 各話列表
 
@@ -1452,7 +1460,7 @@ Army of Death</p></td>
 <td><p><br />
 The freezing god</p></td>
 <td><p>冰結的武神</p></td>
-<td><p><a href="../Page/清水健一.md" title="wikilink">清水健一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清水健一" title="wikilink">清水健一</a></p></td>
 <td><p>寺澤和晃</p></td>
 <td><p>森下勇輝、</p></td>
 <td></td>
@@ -1728,27 +1736,27 @@ Player vs Player</p></td>
 
 ### 播放電視台
 
-| 第一期                                  |
-| ------------------------------------ |
-| 播放地區                                 |
-| 日本全國                                 |
-| [東京都](../Page/東京都.md "wikilink")     |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")     |
-| [京都府](../Page/京都府.md "wikilink")     |
-| [愛知縣](../Page/愛知縣.md "wikilink")     |
-| 日本全國                                 |
-| 第二期                                  |
-| 日本全國                                 |
-| [東京都](../Page/東京都.md "wikilink")     |
-| [近畿廣域圈](../Page/近畿廣域圈.md "wikilink") |
-| [愛知縣](../Page/愛知縣.md "wikilink")     |
-| 日本全國                                 |
-| 第三期                                  |
-| 日本全國                                 |
-| 東京都                                  |
-| 近畿廣域圈                                |
-| 日本全國                                 |
-| 愛知縣                                  |
+| 第一期                                                     |
+| ------------------------------------------------------- |
+| 播放地區                                                    |
+| 日本全國                                                    |
+| [東京都](../Page/東京都.md "wikilink")                        |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")     |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")     |
+| [愛知縣](../Page/愛知縣.md "wikilink")                        |
+| 日本全國                                                    |
+| 第二期                                                     |
+| 日本全國                                                    |
+| [東京都](../Page/東京都.md "wikilink")                        |
+| [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink") |
+| [愛知縣](../Page/愛知縣.md "wikilink")                        |
+| 日本全國                                                    |
+| 第三期                                                     |
+| 日本全國                                                    |
+| 東京都                                                     |
+| 近畿廣域圈                                                   |
+| 日本全國                                                    |
+| 愛知縣                                                     |
 
 ### 藍光／DVD
 
@@ -1907,7 +1915,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
 #### 製作人員
 
-  - 監督・脚本・演出：[蘆名實](../Page/蘆名實.md "wikilink")
+  - 監督・脚本・演出：[蘆名實](https://zh.wikipedia.org/wiki/蘆名實 "wikilink")
   - 迷你角色設計・作畫：
   - 動畫制作：STUDIO PUYUKAI
   - 制作協力：
@@ -2250,22 +2258,23 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
 小說第11集中宣布總集篇劇場版\[14\]。2016年11月24日宣布共有【前篇】「劇場版總集篇 OVERLORD
 不死者之王」2017年2月25日上映、【後篇】「劇場版總集篇 OVERLORD
-漆黑的英雄」2017年3月11日上映\[15\]。2017年1月15日宣布主題曲一樣由電視動畫，片頭、片尾曲的[OxT和](../Page/OxT.md "wikilink")[MYTH
-& ROID負責](../Page/MYTH_&_ROID.md "wikilink")\[16\]。
+漆黑的英雄」2017年3月11日上映\[15\]。2017年1月15日宣布主題曲一樣由電視動畫，片頭、片尾曲的[OxT和](https://zh.wikipedia.org/wiki/OxT "wikilink")[MYTH
+& ROID負責](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")\[16\]。
 
 ### 製作人員
 
-詳見[製作人員](../Page/#製作人員.md "wikilink")
+詳見[製作人員](https://zh.wikipedia.org/wiki/#製作人員 "wikilink")
 
 ### 主題曲
 
   - 前篇「Crazy Scary Holy Fantasy」
-    作詞、作曲、編曲、主唱：[MYTH & ROID](../Page/MYTH_&_ROID.md "wikilink")
+    作詞、作曲、編曲、主唱：[MYTH &
+    ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")
 
 <!-- end list -->
 
   - 後篇「Laughter Slaughter」
-    作詞：hotaru，作曲：OxT，編曲：Tom-H@ck，主唱：[OxT](../Page/OxT.md "wikilink")
+    作詞：hotaru，作曲：OxT，編曲：Tom-H@ck，主唱：[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
 
 ## 出處
 

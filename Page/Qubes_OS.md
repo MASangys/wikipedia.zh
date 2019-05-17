@@ -1,6 +1,6 @@
 **Qubes
-OS**是一个面向安全的桌面操作系统，旨在通过隔离提供安全保障。通过[Xen来执行虚拟化](../Page/Xen.md "wikilink")，用户环境可以基于[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Whonix和](../Page/Whonix.md "wikilink")[Microsoft
-Windows或其他操作系统](../Page/Microsoft_Windows.md "wikilink")。
+OS**是一个面向安全的桌面操作系统，旨在通过隔离提供安全保障。通过[Xen来执行虚拟化](../Page/Xen.md "wikilink")，用户环境可以基于[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Whonix和](https://zh.wikipedia.org/wiki/Whonix "wikilink")[Microsoft
+Windows或其他操作系统](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 2014年2月16日，Qubes入选2014年端点安全解决方案创新奖。
 

@@ -1,4 +1,4 @@
-**戈塔G轟炸機是**德國在[第一次世界大戰時的重型轟炸機](../Page/第一次世界大戰.md "wikilink")，在大戰期間主要用於轟炸英國，把死亡和恐懼帶給英國民眾。
+**戈塔G轟炸機是**德國在[第一次世界大戰時的重型轟炸機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，在大戰期間主要用於轟炸英國，把死亡和恐懼帶給英國民眾。
 
 戈塔公司創立於1898年，原本是造火車的工廠，1912年開設飛機研發部門才開始從事航空工業，在第一次世界大戰期間除了戈塔，LVG和西門子-舒克特也各生產了100架和80架。
 
@@ -21,11 +21,11 @@
 
 [Gotha-Ursinus_GUH_G.I.jpg](https://zh.wikipedia.org/wiki/File:Gotha-Ursinus_GUH_G.I.jpg "fig:Gotha-Ursinus_GUH_G.I.jpg")
 
-  - [戈塔G-I轟炸機](../Page/戈塔G-I轟炸機.md "wikilink")
-  - [戈塔G-II轟炸機](../Page/戈塔G-II轟炸機.md "wikilink")
-  - [戈塔G-III轟炸機](../Page/戈塔G-III轟炸機.md "wikilink")
-  - [戈塔G-IV轟炸機](../Page/戈塔G-IV轟炸機.md "wikilink")
-  - [戈塔G-V轟炸機](../Page/戈塔G-V轟炸機.md "wikilink")
+  - [戈塔G-I轟炸機](https://zh.wikipedia.org/wiki/戈塔G-I轟炸機 "wikilink")
+  - [戈塔G-II轟炸機](https://zh.wikipedia.org/wiki/戈塔G-II轟炸機 "wikilink")
+  - [戈塔G-III轟炸機](https://zh.wikipedia.org/wiki/戈塔G-III轟炸機 "wikilink")
+  - [戈塔G-IV轟炸機](https://zh.wikipedia.org/wiki/戈塔G-IV轟炸機 "wikilink")
+  - [戈塔G-V轟炸機](https://zh.wikipedia.org/wiki/戈塔G-V轟炸機 "wikilink")
 
 ## 發展簡史和設計特點
 
@@ -50,7 +50,7 @@
 
 同年6月13日，17架戈塔G-IV轟炸機再次轟炸倫敦並投下了4.5噸炸彈，炸死162人炸傷450人，英國報界在當日發表「這已不是戰爭而是屠殺」，此17架戈塔G-IV轟炸機之後安全回航，其中一個原因是英國高射炮打不到它們飛的高度。
 
-7月7日，戈塔G-IV轟炸機又炸死了54人和炸傷190人但有一架轟炸機被起飛的英國戰鬥機擊落，英軍當日也損失了兩架戰鬥機，而到了該年夏天結束時，戈塔G-IV轟炸機已和[U艇並列為英國的兩個最大威脅](../Page/U艇.md "wikilink")。
+7月7日，戈塔G-IV轟炸機又炸死了54人和炸傷190人但有一架轟炸機被起飛的英國戰鬥機擊落，英軍當日也損失了兩架戰鬥機，而到了該年夏天結束時，戈塔G-IV轟炸機已和[U艇並列為英國的兩個最大威脅](https://zh.wikipedia.org/wiki/U艇 "wikilink")。
 
 在實戰當中也發現戈塔G-IV轟炸機由於其燃料箱和發動機是一體的，一旦發動機艙中彈，燃料箱很易會被打中而造成漏油引發火災，新的戈塔「G-V轟炸機」把燃料箱改為在機身內。
 
@@ -73,8 +73,8 @@
 
 ## 流行文化
 
-  - 在1992年推出的[宮崎駿動畫](../Page/宮崎駿.md "wikilink")《[紅豬](../Page/紅豬.md "wikilink")》，其中當主角波魯克・羅素回憶其戰友貝爾里尼戰死時，其座機([M5戰鬥飛艇](../Page/M5戰鬥飛艇.md "wikilink"))和一隊飛機一起昇天堂，當中就有戈塔G轟炸機出現。
-  - 2016年遊戲 《[戰地風雲1](../Page/戰地風雲1.md "wikilink")》
+  - 在1992年推出的[宮崎駿動畫](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")《[紅豬](https://zh.wikipedia.org/wiki/紅豬 "wikilink")》，其中當主角波魯克・羅素回憶其戰友貝爾里尼戰死時，其座機([M5戰鬥飛艇](../Page/M5戰鬥飛艇.md "wikilink"))和一隊飛機一起昇天堂，當中就有戈塔G轟炸機出現。
+  - 2016年遊戲 《[戰地風雲1](https://zh.wikipedia.org/wiki/戰地風雲1 "wikilink")》
 
 ## 相關條目
 
@@ -82,7 +82,7 @@
   - [鴿式單翼機](../Page/鴿式單翼機.md "wikilink")
   - [齊柏林飛船](../Page/齊柏林飛船.md "wikilink")
   - [齊柏林-斯塔肯R-VI轟炸機](../Page/齊柏林-斯塔肯R-VI轟炸機.md "wikilink")
-  - [AEG-G轟炸機](../Page/AEG-G轟炸機.md "wikilink")
+  - [AEG-G轟炸機](https://zh.wikipedia.org/wiki/AEG-G轟炸機 "wikilink")
 
 ## 外部連結
 

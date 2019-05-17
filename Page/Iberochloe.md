@@ -2,7 +2,8 @@
 
 ## 物種
 
-  - [葡萄牙端粉蝶](../Page/葡萄牙端粉蝶.md "wikilink") *Iberochloe tagis*
+  - [葡萄牙端粉蝶](https://zh.wikipedia.org/wiki/葡萄牙端粉蝶 "wikilink")
+    *Iberochloe tagis*
   - *Iberochloe pechi*
 
 ## 腳註

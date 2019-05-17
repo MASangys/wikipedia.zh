@@ -1,5 +1,5 @@
-《**SPEEDSTER**》是[GENERATIONS的第](../Page/GENERATIONS_from_EXILE_TRIBE.md "wikilink")3張原創專輯。於2016年3月2日發行。唱片公司為[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+《**SPEEDSTER**》是[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")3張原創專輯。於2016年3月2日發行。唱片公司為[rhythm
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -7,7 +7,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
     EX](../Page/GENERATIONS_EX.md "wikilink")》相距約1年零1個月。
   - 收錄第8張單曲《[Evergreen](../Page/Evergreen_\(GENERATIONS單曲\).md "wikilink")》至第11張單曲《[AGEHA](../Page/AGEHA_\(GENERATIONS單曲\).md "wikilink")》4首A面曲和4首B面曲。
   - 新曲《Rainy Room》為此專輯的主打曲目。
-  - 新曲《TRANSFORM》為[樂敦製藥](../Page/樂敦製藥.md "wikilink")「OXY」的電視廣告歌曲，亦是[BOURBON](../Page/BOURBON.md "wikilink")《Fettuccine
+  - 新曲《TRANSFORM》為[樂敦製藥](../Page/樂敦製藥.md "wikilink")「OXY」的電視廣告歌曲，亦是[BOURBON](https://zh.wikipedia.org/wiki/BOURBON "wikilink")《Fettuccine
     蘇打味軟糖》的電視廣告歌曲。
   - 本作分「初回限定盤（CD+3Blue-rays）」、「初回限定盤（CD+3DVDs）」、「通常盤（CD+2Blue-rays）」、「通常盤（CD+2DVDs）」和「CD盤」5種版本
   - 「初回限定盤」收錄了《[Evergreen](../Page/Evergreen_\(GENERATIONS單曲\).md "wikilink")》、《[Hard
@@ -40,7 +40,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
     （作詞：TAKANORI (LL BROTHERS)・ALLY、作曲：T-SK・SIRIUS・BRANDNEWJIQ・BIG-F）
       -
         11th單曲、「G's RINK」主題曲、[Samantha
-        Thavasa](../Page/Samantha_Thavasa.md "wikilink")「Fashion
+        Thavasa](https://zh.wikipedia.org/wiki/Samantha_Thavasa "wikilink")「Fashion
         Show編」電視廣告歌曲
         《AGEHA》B面曲
 5.  **Gimme\!**
@@ -55,19 +55,20 @@ zone](../Page/rhythm_zone.md "wikilink")。
     （作詞：Amon Hayashi for Digz, Inc. Group、作曲：KENTZ・FAST LANE・CHRIS
     HOPE・J FAITH）
       -
-        8th單曲、[BOURBON](../Page/BOURBON.md "wikilink")《Fettuccine
+        8th單曲、[BOURBON](https://zh.wikipedia.org/wiki/BOURBON "wikilink")《Fettuccine
         可樂味軟糖》電視廣告歌曲
 8.  **TRANSFORM**
     （作詞：Amon Hayashi (Digz inc.)、作曲：SKY BEATZ, SHIKATA, CHRIS HOPE）
       -
-        [樂敦製藥](../Page/樂敦製藥.md "wikilink")「OXY」電視廣告歌曲、[BOURBON](../Page/BOURBON.md "wikilink")《Fettuccine
+        [樂敦製藥](../Page/樂敦製藥.md "wikilink")「OXY」電視廣告歌曲、[BOURBON](https://zh.wikipedia.org/wiki/BOURBON "wikilink")《Fettuccine
         蘇打味軟糖》電視廣告歌曲
 9.  **[Hard Knock Days](../Page/Hard_Knock_Days.md "wikilink")**
     （作詞：藤林聖子、作曲：HIKARI・Stephan Elfgren）
       -
         9th單曲、[富士電視台動畫](../Page/富士電視台.md "wikilink")「[ONE
         PIECE](../Page/ONE_PIECE.md "wikilink")」（海賊王）主題曲、[Moist
-        Diane](../Page/Moist_Diane.md "wikilink")《Extra Shine》電視廣告歌曲
+        Diane](https://zh.wikipedia.org/wiki/Moist_Diane "wikilink")《Extra
+        Shine》電視廣告歌曲
 10. **[I Believe In
     Miracles](../Page/ALL_FOR_YOU_\(GENERATIONS單曲\).md "wikilink")**
     （作詞・作曲：Mark Capanni・ボビー・テイラー、編曲：福田貴史）
@@ -80,7 +81,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
     （作詞：Kenn Kato、作曲：FAST LANE・MAXX SONG・Andrew Choi）
       -
         9th單曲、外國電視劇「[THE
-        FLASH](../Page/閃電俠_\(2014年電視劇\).md "wikilink")」電視廣告歌曲
+        FLASH](https://zh.wikipedia.org/wiki/閃電俠_\(2014年電視劇\) "wikilink")」電視廣告歌曲
         《Hard Knock Days》B面曲
 
 ### DVD（Disc 1）

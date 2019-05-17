@@ -1,4 +1,4 @@
-[minato為日本音樂家](../Page/minato.md "wikilink")、音樂製作人、歌手。本條目將會列出其創作及演唱的作品列表。
+[minato為日本音樂家](https://zh.wikipedia.org/wiki/minato "wikilink")、音樂製作人、歌手。本條目將會列出其創作及演唱的作品列表。
 
 ## 投稿影片
 
@@ -31,7 +31,7 @@
 | 歌曲名稱                   | 原曲作者/原唱                                              | 上傳時間              | 備註                                                                          |
 | ---------------------- | ---------------------------------------------------- | ----------------- | --------------------------------------------------------------------------- |
 | 卑怯戦隊うろたんだー             | シンP                                                  | 2008年2月15日 02:42  | 實際上是以minato名義上傳。                                                            |
-| ブラック★ロックシューター          | [ryo](../Page/ryo.md "wikilink")                     | 2008年6月18日 04:09  | 別名トゥライ的出處。                                                                  |
+| ブラック★ロックシューター          | [ryo](https://zh.wikipedia.org/wiki/ryo "wikilink")  | 2008年6月18日 04:09  | 別名トゥライ的出處。                                                                  |
 | celluloid              | baker                                                | 2008年7月28日 02:23  |                                                                             |
 | サンドリヨン(Cendrillon)     | Dios/シグナルP                                           | 2008年8月30日 00:51  | 與うさ合唱。突破140萬觀看次數\[3\]。                                                      |
 | 人柱アリス                  | 歪Ｐ                                                   | 2008年9月1日 23:51   | 飾演Kaito。與ヤマイ、 Re:A、歌和サクラ、うさ合唱。突破130萬觀看次數\[4\]。                              |
@@ -52,7 +52,7 @@
 | 慟哭ノ雨                   | [GRANRODEO](../Page/GRANRODEO.md "wikilink")         | 2010年5月11日 09:33  | 與じゃっく合唱。                                                                    |
 | 愛の唄                    | WhiteFlame/黒うさ                                       | 2010年5月25日 19:29  | うさ與ヤマイ負責合聲。「[Re：笨蛋也能拯救世界？](../Page/Re：笨蛋也能拯救世界？.md "wikilink")」Drama CD主題歌。 |
 | アカイト                   | みきとP                                                 | 2015年3月14日 19:00  |                                                                             |
-| チルドレンレコード              | [Jin](../Page/Jin.md "wikilink")                     | 2015年6月18日 19:00  |                                                                             |
+| チルドレンレコード              | [Jin](https://zh.wikipedia.org/wiki/Jin "wikilink")  | 2015年6月18日 19:00  |                                                                             |
 | 世界を壊している               | [Neru](../Page/Neru.md "wikilink")                   | 2015年7月20日 20:00  |                                                                             |
 
 ##  商業作品
@@ -85,7 +85,7 @@
 
   - 『delicious』（KarenT、2009年3月25日發售）
       - 由初音未來製造商[Crypton Future
-        Media直營品牌](../Page/CRYPTON_FUTURE_MEDIA.md "wikilink")[KarenT發售](../Page/KarenT.md "wikilink")。網路販售限定。
+        Media直營品牌](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")[KarenT發售](../Page/KarenT.md "wikilink")。網路販售限定。
     <!-- end list -->
     1.  delicious(feat. 初音未來&鏡音鈴・連)
     2.  SPICE\!(feat. 鏡音連)
@@ -212,7 +212,7 @@
   - 『EXIT TUNES PRESENTS STARDOM』（EXIT TUNES、2009年5月20日發售）
       - 收錄動畫網站上人氣歌曲的合輯。提供「Soar」。
   - 『[EXIT TUNES PRESENTS
-    Vocalostar](../Page/EXIT_TUNES_PRESENTS_Vocalostar.md "wikilink")
+    Vocalostar](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalostar "wikilink")
     feat.初音ミク』（EXIT TUNES、2009年6月17日發售）
       - 收錄了有使用初音未來的歌曲合輯。提供「RIP=RELEASE」。
   - 『初音ミク ベスト〜impacts〜』（ドワンゴ・エージー・エンタテインメント、2009年8月26日發售）
@@ -237,7 +237,7 @@
       - [PlayStation
         Portable的音樂節奏遊戲](../Page/PlayStation_Portable.md "wikilink")『[初音ミク
         -Project DIVA-
-        2nd](../Page/初音ミク_-Project_DIVA-.md "wikilink")』的官方合輯。收錄「カラフル
+        2nd](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』的官方合輯。收錄「カラフル
         × メロディ」的Remix版本，以ちーむMOER成員身分負責作詞。
   - 『MOER feat.初音ミク -2nd anniversary-』（MOER、2010年8月11日發售）
       - MOER的活動2周年紀念精選輯。提供「magnet」、「RIP=RELEASE」、「夏色☆キャンバス」。
@@ -248,13 +248,13 @@
       - marasy的鋼琴獨奏專輯。提供「magnet」。
   - 『カラフル×メロディ』（MOER、2011年3月9日發售）
       - 使用在『[初音ミク -Project DIVA-
-        2nd](../Page/初音ミク_-Project_DIVA-.md "wikilink")』上的原創歌單曲，以ちーむMOER成員身分負責作詞。
+        2nd](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』上的原創歌單曲，以ちーむMOER成員身分負責作詞。
   - 『LINK / RING』（avex trax、2011年3月9日發售）
       - うさ的個人專輯。提供「向日葵」。
   - 『サオリリス 歌ってみた 初音ミク』（日本索尼音樂娛樂、2011年4月27日發售）
       - サオリリス的個人專輯。「カラフル×メロディ」的作詞。
   - 『SUPER VOCALO BEAT』（ドワンゴ・ミュージックエンタテインメント、2011年6月1日發售）
-      - 將VOCALOID翻唱曲以[歐陸節拍Remix而成的專輯](../Page/歐陸節拍.md "wikilink")。提供疲れた男唱的「SPICE\!」、che:櫻井唱的「magnet」。
+      - 將VOCALOID翻唱曲以[歐陸節拍Remix而成的專輯](https://zh.wikipedia.org/wiki/歐陸節拍 "wikilink")。提供疲れた男唱的「SPICE\!」、che:櫻井唱的「magnet」。
   - 『VOCALOID BEST from ニコニコ動画 (あお)』（ドワンゴ・ミュージックエンタテインメント、2011年6月22日發售）
       - 收錄Niconico動畫上使用VOCALOID發表的歌曲精選輯。提供「magnet」。
   - 『Gourmet』（インディーズレーベル、2011年7月7日發售）
@@ -262,7 +262,7 @@
   - 『「[聖鬥士星矢 THE LOST CANVAS
     冥王神話](../Page/圣斗士星矢_THE_LOST_CANVAS_冥王神话.md "wikilink")」キャラクターソング
     アルバム』（dmARTS、2011年8月10日發售）
-      - 由動畫角色來演唱的印象歌曲專輯。擔任[平野綾所唱的](../Page/平野綾.md "wikilink")「azure」作詞。
+      - 由動畫角色來演唱的印象歌曲專輯。擔任[平野綾所唱的](https://zh.wikipedia.org/wiki/平野綾 "wikilink")「azure」作詞。
   - 『V love 25〜Aperios〜』（BinaryMixx Records、2011年11月16日發售）
       - 收錄VOCALOID原創曲的合輯。收錄以初音未來演唱『「聖鬥士星矢 THE LOST CANVAS
         冥王神話」角色歌專輯』中「azure」的版本。
@@ -293,7 +293,7 @@
 #### 其他
 
   - 『[初音ミク -Project
-    DIVA-](../Page/初音ミク_-Project_DIVA-.md "wikilink")』（[SEGA](../Page/世嘉.md "wikilink")、2009年7月2日發售）
+    DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』（[SEGA](../Page/世嘉.md "wikilink")、2009年7月2日發售）
       - 初音未來為主角的PlayStation Portable音樂節奏遊戲。提供遊戲中使用的歌曲「Soar」。
   - 『もっとおかわり、リン・レン ルカ』（SEGA、2010年7月1日發售）
       - 『初音ミク -Project DIVA-』的額外下載音樂集。提供「RIP=RELEASE」。

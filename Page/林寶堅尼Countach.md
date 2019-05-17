@@ -1,5 +1,5 @@
 **林寶堅尼Countach**（Lamborghini
-Countach），是[林寶堅尼車廠於](../Page/林寶堅尼.md "wikilink")1974至90年間所生產的[中置後驅](../Page/中置後驅.md "wikilink")[V12](../Page/V12发动机.md "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")。美國汽車雜誌《Sports
+Countach），是[林寶堅尼車廠於](https://zh.wikipedia.org/wiki/林寶堅尼 "wikilink")1974至90年間所生產的[中置後驅](../Page/中置後驅.md "wikilink")[V12](../Page/V12发动机.md "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")。美國汽車雜誌《Sports
 Car International》於2004年将其評為1970年代頂級跑車第三位及1980年代頂級跑車第十位。
 
 ## 引擎規格

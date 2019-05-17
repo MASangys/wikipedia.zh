@@ -5,7 +5,7 @@ Beat**）是美國女歌手[黛比·吉布森在](../Page/黛比·吉布森.md "
 
 ### 收錄專輯
 
-〈愚蠢的節奏〉最早收錄在[黛比·吉布森首張個人](../Page/黛比·吉布森.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")《[走出憂鬱](../Page/走出憂鬱_\(黛比·吉布森專輯\).md "wikilink")》（Out
+〈愚蠢的節奏〉最早收錄在[黛比·吉布森首張個人](../Page/黛比·吉布森.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[走出憂鬱](https://zh.wikipedia.org/wiki/走出憂鬱_\(黛比·吉布森專輯\) "wikilink")》（Out
 of the Blue），〈愚蠢的節奏〉是從這張專輯中所推出的第四首單曲。《走出憂鬱》專輯前三首單曲分別為〈Only In My
 Dreams〉（no.4）、〈Shake Your Love〉（no.4）和〈Out of the Blue〉（no.3）。
 

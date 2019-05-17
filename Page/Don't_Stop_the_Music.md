@@ -12,16 +12,18 @@ CD+DVD及CD ONLY 収録曲目一樣。而ONE COIN CD只収録A面曲「'Don't St
       - 作詞：SHOKICHI / 作曲：SUI・SIRIUS・BIG-F
     <!-- end list -->
       -
-        （[日本電視台](../Page/日本電視台.md "wikilink")『[スッキリ\!\!](../Page/スッキリ!!.md "wikilink")』2015年7月份結尾曲）
+        （[日本電視台](../Page/日本電視台.md "wikilink")『[スッキリ\!\!](https://zh.wikipedia.org/wiki/スッキリ!! "wikilink")』2015年7月份結尾曲）
 2.  **Freaky Cheeky**
       - 作詞：[SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")・SHOKICHI /
-        作曲：[T.Kura](../Page/T.Kura.md "wikilink")・SAKURA・SHOKICHI
-3.  **Anytime feat. [CRAZYBOY](../Page/ELLY.md "wikilink")**
+        作曲：[T.Kura](https://zh.wikipedia.org/wiki/T.Kura "wikilink")・SAKURA・SHOKICHI
+3.  **Anytime feat.
+    [CRAZYBOY](https://zh.wikipedia.org/wiki/ELLY "wikilink")**
       - 作詞：SHOKICHI・CRAZYBOY /
-        作曲：[NAKKID](../Page/NAKKID.md "wikilink")・SHOKICHI
-4.  **Y.L.S.S. feat. [PKCZ®](../Page/PKCZ.md "wikilink")**
-      - 作詞：SHOKICHI・[VERBAL](../Page/VERBAL.md "wikilink") / 作曲：Lucas
-        Valentine(AMBUSHR)・SHOKICHI
+        作曲：[NAKKID](https://zh.wikipedia.org/wiki/NAKKID "wikilink")・SHOKICHI
+4.  **Y.L.S.S. feat.
+    [PKCZ®](https://zh.wikipedia.org/wiki/PKCZ "wikilink")**
+      - 作詞：SHOKICHI・[VERBAL](https://zh.wikipedia.org/wiki/VERBAL "wikilink")
+        / 作曲：Lucas Valentine(AMBUSHR)・SHOKICHI
 5.  Don't Stop the Music (Instrumental)
 6.  Freaky Cheeky (Instrumental)
 7.  Anytime feat. CRAZYBOY (Instrumental)
@@ -31,7 +33,7 @@ CD+DVD及CD ONLY 収録曲目一樣。而ONE COIN CD只収録A面曲「'Don't St
 
 1.  Don't Stop the Music （Music Video)
       - 編舞是由[三代目 J Soul Brothers from EXILE
-        TRIBE的](../Page/J_Soul_Brothers.md "wikilink")[ELLY負責](../Page/ELLY.md "wikilink")。
+        TRIBE的](../Page/J_Soul_Brothers.md "wikilink")[ELLY負責](https://zh.wikipedia.org/wiki/ELLY "wikilink")。
 
 ### 備註
 

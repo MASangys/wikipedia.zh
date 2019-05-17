@@ -1,5 +1,5 @@
 《**I'll Be There for
-You**》是美國[搖滾樂團](../Page/搖滾.md "wikilink")[邦·喬飛](../Page/邦喬飛.md "wikilink")（）在1989年4月發行的單曲，這首單曲獲得[告示牌單曲榜冠軍](../Page/Billboard_Hot_100.md "wikilink")，成為邦·喬飛樂團第四首全美冠軍單曲，〈I'll
+You**》是美國[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[邦·喬飛](../Page/邦喬飛.md "wikilink")（）在1989年4月發行的單曲，這首單曲獲得[告示牌單曲榜冠軍](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")，成為邦·喬飛樂團第四首全美冠軍單曲，〈I'll
 Be There for You〉已經成為該樂團最具代表性的經典歌曲之一\[1\]\[2\]。
 
 ## 內容
@@ -7,7 +7,7 @@ Be There for You〉已經成為該樂團最具代表性的經典歌曲之一\[1\
 ### 歌曲簡介
 
 〈I'll Be There for
-You〉收錄於[邦·喬飛樂團](../Page/邦喬飛.md "wikilink")（）第四張[錄音室專輯](../Page/錄音室專輯.md "wikilink")《**[新澤西](../Page/新澤西_\(邦喬飛專輯\).md "wikilink")**》（），也是從這張專輯中推出的第三首單曲。該樂團主唱[瓊·邦·喬飛也參與](../Page/瓊·邦·喬飛.md "wikilink")〈I'll
+You〉收錄於[邦·喬飛樂團](../Page/邦喬飛.md "wikilink")（）第四張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《**[新澤西](../Page/新澤西_\(邦喬飛專輯\).md "wikilink")**》（），也是從這張專輯中推出的第三首單曲。該樂團主唱[瓊·邦·喬飛也參與](../Page/瓊·邦·喬飛.md "wikilink")〈I'll
 Be There for
 You〉的詞曲創作，這首抒情歌曲完美結合搖滾樂與流行音樂，歌曲中僅使用少量的樂器當主伴奏，主要在烘托主唱的聲音，瓊·邦·喬飛那聲嘶力竭的嘶吼嗓音正是整首歌曲的精神所在\[3\]。
 
@@ -16,9 +16,9 @@ You〉的詞曲創作，這首抒情歌曲完美結合搖滾樂與流行音樂�
 〈I'll Be There for You〉是專輯《新澤西》推出的第三首單曲，前兩首單曲分別為〈[Bad
 Medicine](../Page/Bad_Medicine.md "wikilink")〉（2週冠軍）和〈Born to Be My
 Baby〉（第3名）。〈I'll Be There for
-You〉在實體單曲發行之前，靠電台點播積分進入告示牌單曲榜，1989年3月4日首週進入榜中，成績為第82名，待4月4日開始發行單曲實體銷售後，該單曲名次一直向上攀升，終於在1989年5月13日踢下流行天后[瑪丹娜的百萬金曲](../Page/瑪丹娜.md "wikilink")〈[Like
+You〉在實體單曲發行之前，靠電台點播積分進入告示牌單曲榜，1989年3月4日首週進入榜中，成績為第82名，待4月4日開始發行單曲實體銷售後，該單曲名次一直向上攀升，終於在1989年5月13日踢下流行天后[瑪丹娜的百萬金曲](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")〈[Like
 a
-Prayer](../Page/Like_a_Prayer_\(歌曲\).md "wikilink")〉登上榜首位置，成為邦·喬飛樂團第四首全美冠軍單曲。〈I'll
+Prayer](https://zh.wikipedia.org/wiki/Like_a_Prayer_\(歌曲\) "wikilink")〉登上榜首位置，成為邦·喬飛樂團第四首全美冠軍單曲。〈I'll
 Be There for
 You〉雖然只待了1週冠軍就被[寶拉·阿巴杜的](../Page/寶拉·阿巴杜.md "wikilink")[Forever
 Your

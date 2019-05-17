@@ -1,13 +1,14 @@
 **電波Jack-World Wide Akihabara-**（,
-），是[富士電視台聯播網](../Page/富士電視台.md "wikilink")，於2014年10月19日到2015年3月22日間，每週一凌晨2:50-3:20（JST）播映的談話娛樂性節目。也是[電波組.inc第一個](../Page/電波組.inc.md "wikilink")[無線電視的冠名節目](../Page/無線電視.md "wikilink")\[1\]。
+），是[富士電視台聯播網](../Page/富士電視台.md "wikilink")，於2014年10月19日到2015年3月22日間，每週一凌晨2:50-3:20（JST）播映的談話娛樂性節目。也是[電波組.inc第一個](../Page/電波組.inc.md "wikilink")[無線電視的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")\[1\]。
 
 ## 簡介
 
-以[東京](../Page/東京.md "wikilink")[秋葉原的](../Page/秋葉原.md "wikilink") Live &
-Bar「秋葉原DearStage」為主場活動的[電波組.inc的成員們](../Page/電波組.inc.md "wikilink")，正好代表了日本的[動漫](../Page/動漫.md "wikilink")、[電玩](../Page/電玩.md "wikilink")、[日本偶像](../Page/日本偶像.md "wikilink")、[Cosplay](../Page/Cosplay.md "wikilink")、[人物模型](../Page/人物模型.md "wikilink")、[同人誌等等的御宅族文化](../Page/同人誌.md "wikilink")，透過這個節目將這些文化從[秋葉原發送到全世界](../Page/秋葉原.md "wikilink")。
+以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[秋葉原的](../Page/秋葉原.md "wikilink")
+Live &
+Bar「秋葉原DearStage」為主場活動的[電波組.inc的成員們](../Page/電波組.inc.md "wikilink")，正好代表了日本的[動漫](../Page/動漫.md "wikilink")、[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")、[日本偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")、[Cosplay](../Page/Cosplay.md "wikilink")、[人物模型](https://zh.wikipedia.org/wiki/人物模型 "wikilink")、[同人誌等等的御宅族文化](../Page/同人誌.md "wikilink")，透過這個節目將這些文化從[秋葉原發送到全世界](../Page/秋葉原.md "wikilink")。
 
 節目開頭都是由虛構的電視新聞節目「DPJ News」開始。在 DPJ News
-中會依播放時間杜撰當時的新聞（只有第20集是播放真實的[殺戮魅影CM的記者發表會](../Page/殺戮魅影.md "wikilink")）。然後電視畫面會變花亂，Rex
+中會依播放時間杜撰當時的新聞（只有第20集是播放真實的[殺戮魅影CM的記者發表會](https://zh.wikipedia.org/wiki/殺戮魅影 "wikilink")）。然後電視畫面會變花亂，Rex
 出現並且大喊：「富士電視台被我們奪取了！（We did it\! We took over Fuji
 TV\!）」「將秋葉原文化傳到全世界！（Now we will spread
 Akihabara culture to the whole
@@ -36,20 +37,20 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 
 ## 節目單元
 
-  - 御宅藝博覽會（）：由[最上もが](../Page/最上もが.md "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
-  - 女僕連連看（）：由[相沢梨紗](../Page/相沢梨紗.md "wikilink")、[夢眠ねむ主演](../Page/夢眠ねむ.md "wikilink")。
+  - 御宅藝博覽會（）：由[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
+  - 女僕連連看（）：由[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")、[夢眠ねむ主演](https://zh.wikipedia.org/wiki/夢眠ねむ "wikilink")。
   - 擬人化QUIZ（）：由[古川未鈴主持](../Page/古川未鈴.md "wikilink")、其他成員共同演出。
   - 妄想虛擬約會（）：由成員一位輪流演出。
-  - 明天就能用的御宅語講座（）：由[夢眠ねむ](../Page/夢眠ねむ.md "wikilink")、[成瀬瑛美主演](../Page/成瀬瑛美.md "wikilink")。
-  - 電波激熱同人誌（）：由[成瀬瑛美](../Page/成瀬瑛美.md "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
-  - 煩惱諮詢室。秋葉原之園（）：由[最上もが主持](../Page/最上もが.md "wikilink")、其他成員共同演出。
-  - [提姆·波頓](../Page/提姆·波頓.md "wikilink")
-    Interview（）：由[相沢梨紗](../Page/相沢梨紗.md "wikilink")、[成瀬瑛美](../Page/成瀬瑛美.md "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")，[提姆·波頓共同演出](../Page/提姆·波頓.md "wikilink")。
-  - 御宅訪問物語（）：由[最上もが](../Page/最上もが.md "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")，Cosplayer
-    [火将ロシエル](../Page/火将ロシエル.md "wikilink") 共同演出。
-  - 簡單！宅料理（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")、[夢眠ねむ](../Page/夢眠ねむ.md "wikilink")、[相沢梨紗主演](../Page/相沢梨紗.md "wikilink")。
+  - 明天就能用的御宅語講座（）：由[夢眠ねむ](https://zh.wikipedia.org/wiki/夢眠ねむ "wikilink")、[成瀬瑛美主演](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")。
+  - 電波激熱同人誌（）：由[成瀬瑛美](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
+  - 煩惱諮詢室。秋葉原之園（）：由[最上もが主持](https://zh.wikipedia.org/wiki/最上もが "wikilink")、其他成員共同演出。
+  - [提姆·波頓](https://zh.wikipedia.org/wiki/提姆·波頓 "wikilink")
+    Interview（）：由[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")、[成瀬瑛美](https://zh.wikipedia.org/wiki/成瀬瑛美 "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")，[提姆·波頓共同演出](https://zh.wikipedia.org/wiki/提姆·波頓 "wikilink")。
+  - 御宅訪問物語（）：由[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")，Cosplayer
+    [火将ロシエル](https://zh.wikipedia.org/wiki/火将ロシエル "wikilink") 共同演出。
+  - 簡單！宅料理（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")、[夢眠ねむ](https://zh.wikipedia.org/wiki/夢眠ねむ "wikilink")、[相沢梨紗主演](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")。
   - 殺戮魅影
-      - 殺戮魅影遊戲實況（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")、[最上もが](../Page/最上もが.md "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
+      - 殺戮魅影遊戲實況（）：由[古川未鈴](../Page/古川未鈴.md "wikilink")、[最上もが](https://zh.wikipedia.org/wiki/最上もが "wikilink")、[藤咲彩音主演](../Page/藤咲彩音.md "wikilink")。
       - 御宅公司訪問（）：由[電波組.inc全員主演](../Page/電波組.inc.md "wikilink")。
 
 ## 節目單元播出表
@@ -95,7 +96,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 <tr class="even">
 <td><p><strong>＃１</strong></p></td>
 <td><p>2014-10-19</p></td>
-<td><p><a href="../Page/藤村さおり.md" title="wikilink">藤村さおり</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤村さおり" title="wikilink">藤村さおり</a></p></td>
 <td><p>◯</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
@@ -111,7 +112,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 <tr class="odd">
 <td><p><strong>＃２</strong></p></td>
 <td><p>2014-10-26</p></td>
-<td><p><a href="../Page/戸部洋子.md" title="wikilink">戸部洋子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戸部洋子" title="wikilink">戸部洋子</a></p></td>
 <td><p>◯</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
@@ -127,7 +128,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 <tr class="even">
 <td><p><strong>＃３</strong></p></td>
 <td><p>2014-11-02</p></td>
-<td><p><a href="../Page/春日由美.md" title="wikilink">春日由美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/春日由美" title="wikilink">春日由美</a></p></td>
 <td><p>－</p></td>
 <td><p>◯</p></td>
 <td><p>◯</p></td>
@@ -182,7 +183,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 <td><p>古川</p></td>
 <td><p>◯</p></td>
 <td><p>◯</p></td>
-<td><p>◯（來賓：<a href="../Page/小林ゆう.md" title="wikilink">小林ゆう</a>）</p></td>
+<td><p>◯（來賓：<a href="https://zh.wikipedia.org/wiki/小林ゆう" title="wikilink">小林ゆう</a>）</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
@@ -202,7 +203,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 <td><p>◯</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
-<td><p><a href="../Page/提姆·波頓.md" title="wikilink">提姆·波頓</a> Interview</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/提姆·波頓" title="wikilink">提姆·波頓</a> Interview</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>＃８</strong></p></td>
@@ -218,7 +219,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 <td><p>－</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
-<td><p><a href="../Page/提姆·波頓.md" title="wikilink">提姆·波頓</a> Interview</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/提姆·波頓" title="wikilink">提姆·波頓</a> Interview</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>＃９</strong></p></td>
@@ -326,7 +327,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 <td><p>成瀬</p></td>
 <td><p>◯</p></td>
 <td><p>－</p></td>
-<td><p>◯（來賓：<a href="../Page/日本エレキテル連合.md" title="wikilink">日本エレキテル連合</a>）</p></td>
+<td><p>◯（來賓：<a href="https://zh.wikipedia.org/wiki/日本エレキテル連合" title="wikilink">日本エレキテル連合</a>）</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
@@ -375,7 +376,7 @@ Games的節目網頁連結。在該網頁中，可以免費觀看電視節目的
 （）</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
-<td><p>◯（來賓：<a href="../Page/蛭子能収.md" title="wikilink">蛭子能収</a>）</p></td>
+<td><p>◯（來賓：<a href="https://zh.wikipedia.org/wiki/蛭子能収" title="wikilink">蛭子能収</a>）</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>

@@ -1,5 +1,5 @@
 《**機動防衛者Dowl
-Masters**》是[佐島勤所著的](../Page/佐島勤.md "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由tarou](../Page/插圖.md "wikilink")2繪畫，由[ASCII
+Masters**》是[佐島勤所著的](https://zh.wikipedia.org/wiki/佐島勤 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由tarou](https://zh.wikipedia.org/wiki/插圖 "wikilink")2繪畫，由[ASCII
 Media
 Works出版](../Page/ASCII_Media_Works.md "wikilink")，中文繁體版則由[台灣角川發行](../Page/台灣角川.md "wikilink")。
 
@@ -60,7 +60,7 @@ Master－－玲音。
 <!-- end list -->
 
   -
-    位於月球公轉軌道及[第四拉格朗日點](../Page/拉格朗日點.md "wikilink")（L<sub>4</sub>）的人工天體。[史丹福圓環型的宇宙殖民地](../Page/史丹福圓環.md "wikilink")，自轉時所產生的離心力可模擬地球上的重力。
+    位於月球公轉軌道及[第四拉格朗日點](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")（L<sub>4</sub>）的人工天體。[史丹福圓環型的宇宙殖民地](https://zh.wikipedia.org/wiki/史丹福圓環 "wikilink")，自轉時所產生的離心力可模擬地球上的重力。
     磐都宇宙島的構造特徴為二重環，內側的環的重力為地面重力的一半，以供機動衛士進行例如Titanic Dowl的操作訓練等的訓練。
 
 :;
@@ -139,9 +139,9 @@ Master－－玲音。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -180,9 +180,9 @@ Master－－玲音。
 
 ## 外部連結
 
-[分類:日本科幻小說](../Page/分類:日本科幻小說.md "wikilink")
-[分類:2014年小說](../Page/分類:2014年小說.md "wikilink")
-[分類:電擊文庫](../Page/分類:電擊文庫.md "wikilink")
+[分類:日本科幻小說](https://zh.wikipedia.org/wiki/分類:日本科幻小說 "wikilink")
+[分類:2014年小說](https://zh.wikipedia.org/wiki/分類:2014年小說 "wikilink")
+[分類:電擊文庫](https://zh.wikipedia.org/wiki/分類:電擊文庫 "wikilink")
 
 [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
 

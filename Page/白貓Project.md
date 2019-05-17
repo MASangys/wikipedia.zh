@@ -1,4 +1,4 @@
-是源於[日本](../Page/日本.md "wikilink")，由在日本及[韓國營運的奇幻主題](../Page/韓國.md "wikilink")[動作角色扮演](../Page/動作角色扮演遊戲.md "wikilink")[社交網絡遊戲](../Page/社交網絡遊戲.md "wikilink")，對應[Android和](../Page/Android.md "wikilink")[iOS平台](../Page/iOS.md "wikilink")。台港澳[正體中文版版本由](../Page/正體中文.md "wikilink")[台灣碩網](../Page/So-net.md "wikilink")(So-net)代理。
+是源於[日本](../Page/日本.md "wikilink")，由在日本及[韓國營運的奇幻主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")[動作角色扮演](../Page/動作角色扮演遊戲.md "wikilink")[社交網絡遊戲](https://zh.wikipedia.org/wiki/社交網絡遊戲 "wikilink")，對應[Android和](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。台港澳[正體中文版版本由](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[台灣碩網](../Page/So-net.md "wikilink")(So-net)代理。
 
 ## 遊戲特色
 
@@ -24,7 +24,7 @@
 
 2015年10月16日，日語版遊戲實裝派遣系統（ギルドオファー），容許玩家派出最多三隊閒置角色，去專用關卡進行任務\[8\]。若任務取得達成大成功，玩家除了獲得符石等一般獎勵外，亦可以獲得一個飾品（アクセサリー）作為報酬\[9\]。根據任務難度，獲得的飾品會隨機附有最多三個正面或負面屬性\[10\]。玩家可以為每名角色裝備最多一個飾品。
 
-2016年2月19日，遊戲開發公司於官方[Youtube頻道公佈全新的遊戲任務](../Page/Youtube.md "wikilink")：塔樓。玩家需要在限時內盡量完成8層會產生隨機怪物的塔樓關卡。和以往爭挑戰通關時間的神速關卡相近，玩家每擊殺一只怪物，或是打開寶箱和木箱，皆可以延長時限。塔樓有不同難度供挑戰。限時完結後，系統將會視乎關卡的難度和完成度，以及剩餘時間給予獎品。\[11\]
+2016年2月19日，遊戲開發公司於官方[Youtube頻道公佈全新的遊戲任務](https://zh.wikipedia.org/wiki/Youtube "wikilink")：塔樓。玩家需要在限時內盡量完成8層會產生隨機怪物的塔樓關卡。和以往爭挑戰通關時間的神速關卡相近，玩家每擊殺一只怪物，或是打開寶箱和木箱，皆可以延長時限。塔樓有不同難度供挑戰。限時完結後，系統將會視乎關卡的難度和完成度，以及剩餘時間給予獎品。\[11\]
 
 2018年2月14日，遊戲新增 "Class Change" 系統
 （クラスチェンジ），讓玩家為個別角色選擇另一套操作和數值模或，以改善舊角色的操作手感。\[12\]
@@ -33,12 +33,12 @@
 
 ## 版本歷史
 
-此遊戲曾推出中國大陸[簡體中文版及英語版](../Page/簡體中文.md "wikilink")。
+此遊戲曾推出中國大陸[簡體中文版及英語版](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。
 
 中國大陸簡體中文版由-{谷}-米中國（又稱Gumi中國）及上海晨之科信息技术有限公司(簡稱晨之科)共同營運，中國大陸版（簡稱陸版）因營運問題已於2016年8月31日結束營運。
 
 2015年7月23日，由COLOPL NI
-Inc.正式發行\[13\]的英語版向[菲律賓](../Page/菲律賓.md "wikilink")、[泰國及](../Page/泰國.md "wikilink")[印度地區用戶開放](../Page/印度.md "wikilink")\[14\]，其後於8月13日在[加拿大推出](../Page/加拿大.md "wikilink")\[15\]。2015年10月21日及22日，英語版分別在Android和iOS平台對世界各國開放\[16\]\[17\]。
+Inc.正式發行\[13\]的英語版向[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[印度地區用戶開放](../Page/印度.md "wikilink")\[14\]，其後於8月13日在[加拿大推出](../Page/加拿大.md "wikilink")\[15\]。2015年10月21日及22日，英語版分別在Android和iOS平台對世界各國開放\[16\]\[17\]。
 
 ## 歌曲
 
@@ -53,9 +53,9 @@ Inc.正式發行\[13\]的英語版向[菲律賓](../Page/菲律賓.md "wikilink"
 
   - 「微力ながらGO！」
     替入「Stand Up\!」的歌曲。2月中又協力曲再度變回「Stand
-    Up\!」收錄於2016年發行的[單曲](../Page/單曲.md "wikilink")《校歌斉唱\!私立茶熊学園》內。
+    Up\!」收錄於2016年發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《校歌斉唱\!私立茶熊学園》內。
   - 「校歌斉唱\!私立茶熊学園」
-    茶熊學園活動的歌曲，收錄於2016年發行的[單曲](../Page/單曲.md "wikilink")《校歌斉唱\!私立茶熊学園》內。
+    茶熊學園活動的歌曲，收錄於2016年發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《校歌斉唱\!私立茶熊学園》內。
 
 ## 評價及迴響
 
@@ -74,7 +74,7 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 ## 成為抄襲對象
 
-有玩家發現，由[上海冰翼網絡科技有限公司開發](../Page/上海冰翼網絡科技有限公司.md "wikilink")，及由[PPTV發行的遊戲](../Page/PPTV.md "wikilink")《蜀山萌仙傳》(原名為《天天仙俠》)，或有仿照及抄襲《白貓Project》的遊戲操作系統、游戏体验方式、角色升級方式及遊戲界面。\[25\]
+有玩家發現，由[上海冰翼網絡科技有限公司開發](https://zh.wikipedia.org/wiki/上海冰翼網絡科技有限公司 "wikilink")，及由[PPTV發行的遊戲](https://zh.wikipedia.org/wiki/PPTV "wikilink")《蜀山萌仙傳》(原名為《天天仙俠》)，或有仿照及抄襲《白貓Project》的遊戲操作系統、游戏体验方式、角色升級方式及遊戲界面。\[25\]
 
 ## 合作計劃
 
@@ -113,7 +113,7 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
   -
     《白貓Project》與《黑貓維茲》在中川翔子生日及CD《》推出時進行合作計劃。合作計劃的主題歌「LUCKY
-    DIP」亦收錄在內\[29\]。值得注意的是中川翔子家中本來就養了十隻[貓](../Page/中川翔子#個人資料.md "wikilink")。
+    DIP」亦收錄在內\[29\]。值得注意的是中川翔子家中本來就養了十隻[貓](https://zh.wikipedia.org/wiki/中川翔子#個人資料 "wikilink")。
     在《白貓Project》中，中川翔子本人作為魔法師在遊戲中免費發布\[30\]。該角色除了使用她本人的配音外，技能釋放時播放的歌曲正是活動歌「LUCKY
     DIP」。
     此外，活動期間還有全套共7個原創角色的期間卡池開放\[31\]。
@@ -130,7 +130,7 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 <!-- end list -->
 
-  - [七大罪](../Page/七大罪_\(漫畫\).md "wikilink")（2015年8月）（繁體中文版:2016年11月）
+  - [七大罪](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")（2015年8月）（繁體中文版:2016年11月）
 
 <!-- end list -->
 
@@ -166,11 +166,12 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
     2015年12月28日單色小姐以魔導士職業，聯同其他7個角色在第17期普通卡池登場，每名用戶抽獎第一抽必中一個這期的角色。另外同日亦實裝角色的專屬武器。
     除此以外，《白貓Project》中的白貓凱朵拉(キャトラ)曾客串登場於2015年11月20日播放的[單色小姐 -The
     Animation-
-    第三季第](../Page/黑白小姐.md "wikilink")8話\[39\]。(單色小姐的cv和キャトラ的cv同樣為[堀江由衣](../Page/堀江由衣.md "wikilink"))
+    第三季第](https://zh.wikipedia.org/wiki/黑白小姐 "wikilink")8話\[39\]。(單色小姐的cv和キャトラ的cv同樣為[堀江由衣](../Page/堀江由衣.md "wikilink"))
 
 <!-- end list -->
 
-  - [HUNTER×HUNTER 獵人](../Page/HUNTER×HUNTER.md "wikilink")（2016年6月）
+  - [HUNTER×HUNTER
+    獵人](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（2016年6月）
 
 <!-- end list -->
 
@@ -181,20 +182,20 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 <!-- end list -->
 
   - [FAIRY
-    TAIL](../Page/FAIRY_TAIL.md "wikilink")（繁體中文版：2017年2月，日版：2017年8月）
+    TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（繁體中文版：2017年2月，日版：2017年8月）
 
 <!-- end list -->
 
   -
-    台版於2週年時推出與妖精尾巴（台譯魔導少年）的合作：推出四名主角：納茲、露西、格雷、艾爾莎的角色在一般卡池中。日版亦於三週年時也宣佈合作，推出與台版相同的主角再加上溫蒂（cv：[佐籐聰美](../Page/佐籐聰美.md "wikilink")），然兩邊角色職業略有不同，台版為劍士（艾爾莎）、弓箭手（格雷）、格鬥家（納茲）、魔導士（露西）；日版與台版相同職業的有納茲和露西，艾爾莎在日版則是雙劍士、格雷於日版則是狂戰士。
+    台版於2週年時推出與妖精尾巴（台譯魔導少年）的合作：推出四名主角：納茲、露西、格雷、艾爾莎的角色在一般卡池中。日版亦於三週年時也宣佈合作，推出與台版相同的主角再加上溫蒂（cv：[佐籐聰美](https://zh.wikipedia.org/wiki/佐籐聰美 "wikilink")），然兩邊角色職業略有不同，台版為劍士（艾爾莎）、弓箭手（格雷）、格鬥家（納茲）、魔導士（露西）；日版與台版相同職業的有納茲和露西，艾爾莎在日版則是雙劍士、格雷於日版則是狂戰士。
 
 <!-- end list -->
 
-  - [初音未來10周年Project](../Page/初音未來10周年Project.md "wikilink")（2017年9月）
+  - [初音未來10周年Project](https://zh.wikipedia.org/wiki/初音未來10周年Project "wikilink")（2017年9月）
 
 <!-- end list -->
 
-  - [RE0從零開始的白貓生活](../Page/RE0從零開始的白貓生活.md "wikilink")（2017年9月）
+  - [RE0從零開始的白貓生活](https://zh.wikipedia.org/wiki/RE0從零開始的白貓生活 "wikilink")（2017年9月）
 
 <!-- end list -->
 
@@ -215,7 +216,7 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 <!-- end list -->
 
-  - [冥戰錄](../Page/冥戰錄.md "wikilink")（繁體中文版：2018年2月）
+  - [冥戰錄](https://zh.wikipedia.org/wiki/冥戰錄 "wikilink")（繁體中文版：2018年2月）
 
 <!-- end list -->
 
@@ -224,8 +225,9 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
 
 <!-- end list -->
 
-  - [進擊的巨人聯動](../Page/進擊的巨人聯動.md "wikilink")（2018年3月）
-  - [魔法少女小圓 Project](../Page/魔法少女小圓_Project.md "wikilink")（2019年2月）
+  - [進擊的巨人聯動](https://zh.wikipedia.org/wiki/進擊的巨人聯動 "wikilink")（2018年3月）
+  - [魔法少女小圓
+    Project](https://zh.wikipedia.org/wiki/魔法少女小圓_Project "wikilink")（2019年2月）
 
 <!-- end list -->
 

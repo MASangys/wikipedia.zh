@@ -1,7 +1,7 @@
 是[Idea
-Factory和](../Page/Idea_Factory.md "wikilink")[Tamsoft开发](../Page/Tamsoft.md "wikilink")，[Compile
+Factory和](../Page/Idea_Factory.md "wikilink")[Tamsoft开发](https://zh.wikipedia.org/wiki/Tamsoft "wikilink")，[Compile
 Heart在日本](../Page/Compile_Heart.md "wikilink")、[NIS
-America在北美](../Page/NIS_America.md "wikilink")、澳洲和欧洲发行的[育成模拟游戏](../Page/育成模拟游戏.md "wikilink")。游戏为[海王星系列的衍生作品](../Page/海王星系列.md "wikilink")，在索尼[PlayStation
+America在北美](https://zh.wikipedia.org/wiki/NIS_America "wikilink")、澳洲和欧洲发行的[育成模拟游戏](https://zh.wikipedia.org/wiki/育成模拟游戏 "wikilink")。游戏为[海王星系列的衍生作品](https://zh.wikipedia.org/wiki/海王星系列 "wikilink")，在索尼[PlayStation
 Vita独占](../Page/PlayStation_Vita.md "wikilink")。游戏于2013年6月在日本发售，2014年6月在西方发售。
 
 ## 登場人物
@@ -16,7 +16,7 @@ Vita独占](../Page/PlayStation_Vita.md "wikilink")。游戏于2013年6月在日
 
       -
         作曲、作詞：[桃井晴子](../Page/桃井晴子.md "wikilink")，編曲：，主唱：[Afilia
-        Saga](../Page/Afilia_Saga.md "wikilink")
+        Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
 
   - 片尾曲
 
@@ -25,7 +25,7 @@ Vita独占](../Page/PlayStation_Vita.md "wikilink")。游戏于2013年6月在日
   -
 
       -
-        作詞、主唱：[彩音](../Page/彩音.md "wikilink")，作曲、編曲：[渡辺篤弘](../Page/渡辺篤弘.md "wikilink")
+        作詞、主唱：[彩音](../Page/彩音.md "wikilink")，作曲、編曲：[渡辺篤弘](https://zh.wikipedia.org/wiki/渡辺篤弘 "wikilink")
 
 ## 游戏评价
 

@@ -1,7 +1,7 @@
 是一个即将推出的[生活和](../Page/生活模擬遊戲.md "wikilink")[业务模拟](../Page/模拟经营游戏.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，由[西班牙独立的公司U](../Page/西班牙.md "wikilink")-Play
 online發行。2016年5月18日，[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[OS
-X平台可以在](../Page/OS_X.md "wikilink")[Steam下载早期版](../Page/Steam.md "wikilink")。之后，当游戏准备充分時会在Microsoft
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS
+X平台可以在](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Steam下载早期版](../Page/Steam.md "wikilink")。之后，当游戏准备充分時会在Microsoft
 Windows、OS X和Linux平台發佈正式版。游戏带有中文版，但翻译质量下乘。
 
 ## 游戏
@@ -11,12 +11,12 @@ Windows、OS X和Linux平台發佈正式版。游戏带有中文版，但翻译�
 ## 发展
 
 《Youtubers的生活》是由 U-Play
-online開發，它是一个在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那的独立娱乐公司](../Page/巴塞罗那.md "wikilink")。\[9\]
+online開發，它是一个在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那的独立娱乐公司](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")。\[9\]
 在2015年游戏开拍通过[Steam
 Greenlight](../Page/Steam.md "wikilink")\[10\]，2016年5月18日透过[Steam的Early](../Page/Steam.md "wikilink")
 Access（搶先體驗）在[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[OS
-X上市](../Page/OS_X.md "wikilink")。\[11\]\[12\]
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS
+X上市](https://zh.wikipedia.org/wiki/OS_X "wikilink")。\[11\]\[12\]
 
 ## 參考
 

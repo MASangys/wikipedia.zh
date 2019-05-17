@@ -1,4 +1,4 @@
-**Jell-O**是[卡夫食品公司為其旗下的一系列](../Page/卡夫食品.md "wikilink")[果凍系列產品註冊的商標](../Page/果凍.md "wikilink")，包括水果果凍、布丁、以及未經過烘培的奶油派。Jell-O由一位糖漿製造商發明於1897年\[1\]，並在20世紀初期快速普及。現在Jell-O已成為美國著名零食之一。Jell-O在[鹽湖城的消費量特別高](../Page/鹽湖城.md "wikilink")。
+**Jell-O**是[卡夫食品公司為其旗下的一系列](https://zh.wikipedia.org/wiki/卡夫食品 "wikilink")[果凍系列產品註冊的商標](../Page/果凍.md "wikilink")，包括水果果凍、布丁、以及未經過烘培的奶油派。Jell-O由一位糖漿製造商發明於1897年\[1\]，並在20世紀初期快速普及。現在Jell-O已成為美國著名零食之一。Jell-O在[鹽湖城的消費量特別高](https://zh.wikipedia.org/wiki/鹽湖城 "wikilink")。
 
 ## 參考資料
 

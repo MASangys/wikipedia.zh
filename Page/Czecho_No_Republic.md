@@ -1,5 +1,5 @@
 **Czecho No
-Republic**（チェコ・ノー・リパブリック）是一個[日本的](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")。現在的成員有武井優心、ロマンス（ex.山崎正太郎）、八木類、砂川一黄、タカハシマイ五個人。所屬唱片公司是[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")
+Republic**（チェコ・ノー・リパブリック）是一個[日本的](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。現在的成員有武井優心、ロマンス（ex.山崎正太郎）、八木類、砂川一黄、タカハシマイ五個人。所屬唱片公司是[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")
 。
 
 ## 簡介
@@ -19,8 +19,8 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
   - Veni Vidi Vicious的前貝斯手和的前支援貝斯手。
   - 撰寫了大部分的歌的詞曲，是樂團的中心。
   - 樂曲風格是受到[The Strokes的啟發](../Page/鼓擊樂團.md "wikilink")。\[3\]。
-  - 最初是因為[SPITZ的關係喜歡上音樂](../Page/SPITZ.md "wikilink")。國中的時候在音樂節目上看到SPITZ時開始覺得「我也想要組樂團」，之後開始聽各式各樣的音樂時，聽到[龐克搖滾後價值觀跟著大幅改變](../Page/龐克音樂.md "wikilink")。因為非常喜歡的和，所以開始聽他們在受訪時提到的樂團，因而有過「只有龐克最帥氣」「用木吉他太遜了」這種時期\[4\]。
-  - 高中時寫了第一首歌，由當時一起玩樂團的朋友用吉他隨便彈和弦，武井再加上旋律。寫出來的是像[雷蒙斯合唱團一樣的流行龐克曲風](../Page/雷蒙斯合唱團.md "wikilink")。在那之後完全沒有寫歌，一直到在前樂團時才又開始寫，等到Czecho樂團活動開始後才第一次讓人聽自己寫的歌。\[5\]
+  - 最初是因為[SPITZ的關係喜歡上音樂](../Page/SPITZ.md "wikilink")。國中的時候在音樂節目上看到SPITZ時開始覺得「我也想要組樂團」，之後開始聽各式各樣的音樂時，聽到[龐克搖滾後價值觀跟著大幅改變](https://zh.wikipedia.org/wiki/龐克音樂 "wikilink")。因為非常喜歡的和，所以開始聽他們在受訪時提到的樂團，因而有過「只有龐克最帥氣」「用木吉他太遜了」這種時期\[4\]。
+  - 高中時寫了第一首歌，由當時一起玩樂團的朋友用吉他隨便彈和弦，武井再加上旋律。寫出來的是像[雷蒙斯合唱團一樣的流行龐克曲風](https://zh.wikipedia.org/wiki/雷蒙斯合唱團 "wikilink")。在那之後完全沒有寫歌，一直到在前樂團時才又開始寫，等到Czecho樂團活動開始後才第一次讓人聽自己寫的歌。\[5\]
   - 2014年5月，舉辦了名為「AXドリンクバイトをクビになった武井がついに演者として帰ってきた！最初で最後！武井のAX帰還ギグ！〜そして伝説へ〜」（被AX吧台開除的武井終於以表演者的身分回來了！第一次也是最後一次！武井的AX回歸GIG！～而後成為傳奇）的個唱\[6\]。
   - 作為Veni Vidi Vicious的貝斯手時曾留過爆炸頭。喜歡吃納豆和紅甜薑。
   - 是成員裡唯一從頭到尾都有參加從2014年4月到2015年3月24日為止的Czecho No Republic的ALL NIGHT
@@ -70,14 +70,14 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
 
   - 2012年8月作為支援成員參加，2013年1月正式加入。
   - 除了作為藝人以外，同時也是模特兒。樂團演唱會時常會見到模仿她的穿著打扮的女生。
-  - 音樂是受到[múm的啟發](../Page/múm.md "wikilink")\[12\]。
-  - 從小就很喜歡唱歌，在學校時也總是很期待聲樂課。小學六年級時聽到[椎名林檎後開始喜歡上音樂](../Page/椎名林檎.md "wikilink")。因為是從未聽過的音樂類型，受到很大的衝擊，從此開始聽起她自己也介紹過的[Radiohead](../Page/電台司令.md "wikilink")、、[Björk等人的音樂](../Page/碧玉_\(歌手\).md "wikilink")。同時也開始對時尚有興趣，覺得大七歲的表姊看著『』雜誌穿著復古衣的樣子很帥氣，因此開始對獨具個性的服飾有興趣。不過因為父母管教嚴格，所以都是自己一個人偷偷到原宿買東西。\[13\]
+  - 音樂是受到[múm的啟發](https://zh.wikipedia.org/wiki/múm "wikilink")\[12\]。
+  - 從小就很喜歡唱歌，在學校時也總是很期待聲樂課。小學六年級時聽到[椎名林檎後開始喜歡上音樂](../Page/椎名林檎.md "wikilink")。因為是從未聽過的音樂類型，受到很大的衝擊，從此開始聽起她自己也介紹過的[Radiohead](https://zh.wikipedia.org/wiki/電台司令 "wikilink")、、[Björk等人的音樂](../Page/碧玉_\(歌手\).md "wikilink")。同時也開始對時尚有興趣，覺得大七歲的表姊看著『』雜誌穿著復古衣的樣子很帥氣，因此開始對獨具個性的服飾有興趣。不過因為父母管教嚴格，所以都是自己一個人偷偷到原宿買東西。\[13\]
   - 高中時開始寫歌。當時聽著像是THEE MICHELLE GUN
     ELEPHANT的[車庫搖滾也組了樂團](../Page/車庫搖滾.md "wikilink")，不過因為其他成員都是男生，身為主唱的她表演時總像是在喊叫一樣。\[14\]\[15\]。樂團在18歳時解散後，度過了一個人唱歌的時期\[16\]。
   - 18歳左右時開始和武井成為朋友。Czecho No Republic的第一張迷你專輯『erectionary』以TOWER
     RECORD限定版發行後，由朋友介紹給正在尋找女主唱的武井。之後，從獨立時期的第一張單曲Casually開始就作為合聲，參加之後所有的作品。\[17\]
   - 曾經在別的公司裡決定要獨自以歌手身分出道，但是沒辦法做自己想做的音樂的環境。煩惱得和武井和朋友商量後，婉拒了出道的事情並加入現在的樂團。\[18\]
-  - 有一點傻大姊個性。曾經很平常得把[灌籃高手的](../Page/灌籃高手.md "wikilink")[櫻木花道說成是](../Page/櫻木花道.md "wikilink")[速水茂虎道](../Page/速水茂虎道.md "wikilink")。(ALL
+  - 有一點傻大姊個性。曾經很平常得把[灌籃高手的](https://zh.wikipedia.org/wiki/灌籃高手 "wikilink")[櫻木花道說成是](https://zh.wikipedia.org/wiki/櫻木花道 "wikilink")[速水茂虎道](https://zh.wikipedia.org/wiki/速水茂虎道 "wikilink")。(ALL
     NIGHT
     NIPPON中武井優心提及)武井問她大象的英文是什麼？她的回答是「ヌー(NU)」(音似日文的大象ゾウ(ZOU))。要吃慰問品的壽司時，沒有把上面蓋著的透明膜拿掉就直接加醬油後準備吃下去。(以上兩則都來自武井撰寫的CNR
     BLOG)同時也有小時候在家裡放養蟬、在白飯上澆水之後就用手直接吃等等這種率性狂野的一面。
@@ -87,7 +87,7 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
 **吉田 アディム** （よしだ あでぃむ YOSHIDA ADEIMU、吉他手）
 
   - 2010年4月加入。
-    2012年8月25日脱退。爸爸是[坦尚尼亞人](../Page/坦尚尼亞.md "wikilink")，媽媽是日本人。現在是擔任繪製演唱會周邊商品等工作，作為幕後人員和樂團一起活動（[推特帳號](../Page/推特.md "wikilink")
+    2012年8月25日脱退。爸爸是[坦尚尼亞人](https://zh.wikipedia.org/wiki/坦尚尼亞 "wikilink")，媽媽是日本人。現在是擔任繪製演唱會周邊商品等工作，作為幕後人員和樂團一起活動（[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink")
     @adim_adim_）。
   - 現在也和樂團成員們的活動有所關連。演唱會時會作為觀眾在台下和粉絲們交流，有時候也會幫粉絲簽名和合照。
 
@@ -140,8 +140,9 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
   - 1月 - 一直以來都是以支援成員形式參加的タカハシマイ（Cho/Syn/Ag）、砂川一黄（Gt/Cho），在1月1日以正式成員身分加入。
   - 2〜4月 - 在渋谷eggman舉辦活動，連續三個月舉辦對BAND企劃「エンジョイ！春のチェコ祭り」。
   - 4月 - タカハシマイ（Cho/Syn/Ag)成為東京電視台「音流〜On Ryu〜」的主持人。
-  - 5月 - 參加[NOTTV的音樂談話性節目](../Page/NOTTV.md "wikilink")「LOVE &
-    ROCK」。\[19\]
+  - 5月 -
+    參加[NOTTV的音樂談話性節目](https://zh.wikipedia.org/wiki/NOTTV "wikilink")「LOVE
+    & ROCK」。\[19\]
   - 6月 - 發行第三張單曲「Festival」。是東京電視台「」的六月份片尾曲。
   - 7月 - 第一次以五人體制舉辦名為「エンジョイ！夏の東名阪ワンマンツアー」的巡迴個唱。在公演中發表了主流出道的消息。
   - 10月 -
@@ -158,11 +159,11 @@ Republic，因為樂團跟捷克沒有關係，所以在中間放進No這個詞\
   - 1月 - 專輯「NEVERLAND」入圍了[CD店大獎](../Page/CD店大獎.md "wikilink")。
   - 4月 - 1日開始擔任『』每個禮拜二凌晨三點 - 五點的主持人。節目名稱是。
   - 7月 -
-    發行主流出道第二張專輯「MANTLE」。不同於第一張專輯「NEVERLAND」中主要收錄重新錄製之獨立時期歌曲，此次是收錄完整的新歌。專輯更找了幾個製作人一起協力製作，音樂性也更加接近成員們想傳達的概念。首次進榜[ORICON拿到第](../Page/ORICON.md "wikilink")17名。專輯收錄曲「Amazing
+    發行主流出道第二張專輯「MANTLE」。不同於第一張專輯「NEVERLAND」中主要收錄重新錄製之獨立時期歌曲，此次是收錄完整的新歌。專輯更找了幾個製作人一起協力製作，音樂性也更加接近成員們想傳達的概念。首次進榜[ORICON拿到第](https://zh.wikipedia.org/wiki/ORICON "wikilink")17名。專輯收錄曲「Amazing
     Parade」是東京電視台毎週1:45分播出的節目[神之舌片尾曲](../Page/神之舌.md "wikilink")。
   - 8月 - 以專輯「MANTLE」召開全國巡迴演唱會。結束在關東近郊舉辦的有嘉賓形式的三場公演後(Kidori
     Kidori,go\!go\!vanillas,The
-    Flickers)，9月中旬開始在[札幌](../Page/札幌.md "wikilink")、[仙台](../Page/仙台.md "wikilink")、[新潟](../Page/新潟.md "wikilink")、[廣島](../Page/廣島.md "wikilink")、[福岡](../Page/福岡.md "wikilink")、[大阪和](../Page/大阪.md "wikilink")[名古屋舉辦個唱](../Page/名古屋.md "wikilink")。最終場是10月10日星期五在赤坂BLITZ舉行。
+    Flickers)，9月中旬開始在[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[新潟](https://zh.wikipedia.org/wiki/新潟 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[大阪和](https://zh.wikipedia.org/wiki/大阪 "wikilink")[名古屋舉辦個唱](https://zh.wikipedia.org/wiki/名古屋 "wikilink")。最終場是10月10日星期五在赤坂BLITZ舉行。
   - 8月 -
     23日在樂團官方推特發表了2014年11月7日到11月9日在[幕張展覽館舉辦的日本最大運動腳踏車展](../Page/幕張展覽館.md "wikilink")「CYCLE
     MODE international 2014」，主題曲將採用專輯「MANTLE」的收錄曲「Crazy Crazy Love」。

@@ -1,14 +1,16 @@
-***Protogoniomorpha***是[蛺蝶亞科](../Page/蛺蝶亞科.md "wikilink")[眼蛺蝶族中的一個](../Page/眼蛺蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分佈於[埃塞俄比亞界](../Page/埃塞俄比亞界.md "wikilink")\[1\]。此屬在Ackery
+***Protogoniomorpha***是[蛺蝶亞科](../Page/蛺蝶亞科.md "wikilink")[眼蛺蝶族中的一個](../Page/眼蛺蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於[埃塞俄比亞界](https://zh.wikipedia.org/wiki/埃塞俄比亞界 "wikilink")\[1\]。此屬在Ackery
 et al.
 (1995)視作[矩蛺蝶屬的](../Page/矩蛺蝶屬.md "wikilink")[異名並將物種歸入該屬](../Page/異名.md "wikilink")\[2\]，然而Wahlberg
 et al.
-(2005)指出基於分子數據*Protogoniomorpha*顯然是獨立一屬，另外曾在此屬中的[藍褐矩蛺蝶](../Page/藍褐矩蛺蝶.md "wikilink")、[藍矩蛺蝶今歸入](../Page/藍矩蛺蝶.md "wikilink")[眼蛺蝶屬](../Page/眼蛺蝶屬.md "wikilink")\[3\]。
+(2005)指出基於分子數據*Protogoniomorpha*顯然是獨立一屬，另外曾在此屬中的[藍褐矩蛺蝶](https://zh.wikipedia.org/wiki/藍褐矩蛺蝶 "wikilink")、[藍矩蛺蝶今歸入](https://zh.wikipedia.org/wiki/藍矩蛺蝶 "wikilink")[眼蛺蝶屬](../Page/眼蛺蝶屬.md "wikilink")\[3\]。
 
 ## 物種
 
-  - [安矩蛺蝶](../Page/安矩蛺蝶.md "wikilink") *Protogoniomorpha anacardii*
+  - [安矩蛺蝶](https://zh.wikipedia.org/wiki/安矩蛺蝶 "wikilink")
+    *Protogoniomorpha anacardii*
       - 杜伯矩蛺蝶 *P. a. duprei*——又有學者視作獨立一種
-  - [綠貝矩蛺蝶](../Page/綠貝矩蛺蝶.md "wikilink") *Protogoniomorpha parhassus*
+  - [綠貝矩蛺蝶](https://zh.wikipedia.org/wiki/綠貝矩蛺蝶 "wikilink")
+    *Protogoniomorpha parhassus*
 
 ## 圖集
 

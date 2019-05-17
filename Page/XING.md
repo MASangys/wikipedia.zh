@@ -1,5 +1,5 @@
 **XING**（原名OPEN Business Club
-AG，简称OpenBC，于2006年11月17日更名为XING）是一个以就业为导向的德国社交网站，为[小世界网络方面的专业人士提供服务](../Page/小世界网络.md "wikilink")。\[1\]其用户遍及200多个国家。可用语言包括[荷兰语](../Page/荷兰语.md "wikilink")、[英语](../Page/英语.md "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[朝鲜语](../Page/朝鲜语.md "wikilink")、[波兰语](../Page/波兰语.md "wikilink")、[波兰语](../Page/波兰语.md "wikilink")、[俄语](../Page/俄语.md "wikilink")、[简体中文](../Page/简体中文.md "wikilink")、[瑞典语和](../Page/瑞典语.md "wikilink")[土耳其语](../Page/土耳其语.md "wikilink")16种语言。
+AG，简称OpenBC，于2006年11月17日更名为XING）是一个以就业为导向的德国社交网站，为[小世界网络方面的专业人士提供服务](https://zh.wikipedia.org/wiki/小世界网络 "wikilink")。\[1\]其用户遍及200多个国家。可用语言包括[荷兰语](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")、[英语](../Page/英语.md "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")、[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")、[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")、[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[瑞典语和](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")[土耳其语](https://zh.wikipedia.org/wiki/土耳其语 "wikilink")16种语言。
 
 XING的主要竞争对手是[美国的](../Page/美国.md "wikilink")[领英和](../Page/領英.md "wikilink")[欧洲的](../Page/欧洲.md "wikilink")[Viadeo](../Page/Viadeo.md "wikilink")。\[2\]\[3\]约76％的页面访问量来自[德国](../Page/德国.md "wikilink")，90％来自德语区。\[4\]
 
@@ -17,17 +17,17 @@ XING的主要竞争对手是[美国的](../Page/美国.md "wikilink")[领英和]
 
 2003年8月，原名为OpenBC（英文全称：OPEN Business Club
 AG）的XING在[德国](../Page/德国.md "wikilink")[汉堡成立](../Page/汉堡.md "wikilink")，创始人为[Lars
-Hinrichs](../Page/Lars_Hinrichs.md "wikilink")。\[5\]2003年11月1日，XING正式发布其服务。2006年11月17日，OpenBC更名为XING。\[6\]
+Hinrichs](https://zh.wikipedia.org/wiki/Lars_Hinrichs "wikilink")。\[5\]2003年11月1日，XING正式发布其服务。2006年11月17日，OpenBC更名为XING。\[6\]
 
-XING吸引了大量德语媒体的关注，在德语区开始变得流行起来。2006年7月，XING在[欧洲和](../Page/欧洲.md "wikilink")[远东的用户总量突破了](../Page/远东.md "wikilink")150万大关。\[7\]
+XING吸引了大量德语媒体的关注，在德语区开始变得流行起来。2006年7月，XING在[欧洲和](../Page/欧洲.md "wikilink")[远东的用户总量突破了](https://zh.wikipedia.org/wiki/远东 "wikilink")150万大关。\[7\]
 
-2006年12月7日，XING以30欧元的发行价上市（IPO）。[股票代号是O](../Page/股票代號.md "wikilink")1BC.DE，[国际证券识别码是DE](../Page/国际证券识别码.md "wikilink")000XNG8888。XING成为第一个在欧洲上市的[Web2.0公司](../Page/Web2.0.md "wikilink")。\[8\]
+2006年12月7日，XING以30欧元的发行价上市（IPO）。[股票代号是O](../Page/股票代號.md "wikilink")1BC.DE，[国际证券识别码是DE](https://zh.wikipedia.org/wiki/国际证券识别码 "wikilink")000XNG8888。XING成为第一个在欧洲上市的[Web2.0公司](https://zh.wikipedia.org/wiki/Web2.0 "wikilink")。\[8\]
 
-2007年1月23日，XING股份公司收购了[土耳其的著名社交网络业务](../Page/土耳其.md "wikilink")[cember.net](../Page/cember.net.md "wikilink")。\[9\]
+2007年1月23日，XING股份公司收购了[土耳其的著名社交网络业务](../Page/土耳其.md "wikilink")[cember.net](https://zh.wikipedia.org/wiki/cember.net "wikilink")。\[9\]
 
-2007年3月，XING收购了[西班牙的社交网络业务](../Page/西班牙.md "wikilink")[Conozco并准备在接下来的](../Page/Conozco.md "wikilink")12个月内将Conozco的用户吸引到XING。\[10\]
+2007年3月，XING收购了[西班牙的社交网络业务](../Page/西班牙.md "wikilink")[Conozco并准备在接下来的](https://zh.wikipedia.org/wiki/Conozco "wikilink")12个月内将Conozco的用户吸引到XING。\[10\]
 
-2007年6月，XING收购了西班牙的另外一个社交网络业务[Neurona](../Page/Neurona.md "wikilink")。\[11\] 2008年3月31日，Neurona的用户全部迁移至XING中。
+2007年6月，XING收购了西班牙的另外一个社交网络业务[Neurona](https://zh.wikipedia.org/wiki/Neurona "wikilink")。\[11\] 2008年3月31日，Neurona的用户全部迁移至XING中。
 
 2008年1月，XING收购了土耳其的社交网络业务Cember。\[12\] 2008年7月26日，Cember用户全部迁移至XING中。
 
@@ -35,7 +35,7 @@ XING吸引了大量德语媒体的关注，在德语区开始变得流行起来�
 
 XING 移动允许用户通过移动端使用XING的功能，XING 移动支持HTML 3.2、XHTML MP 1.0和WML 1.1。XING
 插件是一个用于与[Lotus
-Notes](../Page/Lotus_Notes.md "wikilink")、[Microsoft
+Notes](https://zh.wikipedia.org/wiki/Lotus_Notes "wikilink")、[Microsoft
 Outlook](../Page/Microsoft_Outlook.md "wikilink")、Windows Address
 Book和[Outlook
 Express上的联系人同步的免费插件](../Page/Outlook_Express.md "wikilink")。

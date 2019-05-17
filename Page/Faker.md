@@ -1,6 +1,6 @@
-**李相赫**（，，遊戲ID：**Faker**）是一名南韓知名《[英雄聯盟](../Page/英雄聯盟.md "wikilink")》職業選手，目前效力[SK
+**李相赫**（，，遊戲ID：**Faker**）是一名南韓知名《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》職業選手，目前效力[SK
 Telecom
-T1](../Page/SK_Telecom_T1.md "wikilink")。因為其出眾的遊戲操作能力，而被玩家和對手暱稱「大魔王」、「神中之神」、「LoL傳奇人物」，被英雄聯盟公認為史上最成功和最偉大選手，曾經3度奪得[世界冠軍](../Page/英雄联盟全球总决赛.md "wikilink")、2奪[季中邀請賽冠軍](../Page/英雄联盟季中邀请赛.md "wikilink")、5奪[韓國冠軍聯賽冠軍和一個全明星賽冠軍](../Page/英雄联盟韩国冠军联赛.md "wikilink")([季中賽前身](../Page/英雄联盟季中邀请赛.md "wikilink"))。\[1\]職業生涯總獎金超過一百萬美元。\[2\]2017年和SKT
+T1](https://zh.wikipedia.org/wiki/SK_Telecom_T1 "wikilink")。因為其出眾的遊戲操作能力，而被玩家和對手暱稱「大魔王」、「神中之神」、「LoL傳奇人物」，被英雄聯盟公認為史上最成功和最偉大選手，曾經3度奪得[世界冠軍](https://zh.wikipedia.org/wiki/英雄联盟全球总决赛 "wikilink")、2奪[季中邀請賽冠軍](https://zh.wikipedia.org/wiki/英雄联盟季中邀请赛 "wikilink")、5奪[韓國冠軍聯賽冠軍和一個全明星賽冠軍](../Page/英雄联盟韩国冠军联赛.md "wikilink")([季中賽前身](https://zh.wikipedia.org/wiki/英雄联盟季中邀请赛 "wikilink"))。\[1\]職業生涯總獎金超過一百萬美元。\[2\]2017年和SKT
 T1戰隊簽下一份史上最高，年薪超過1億新台幣的合約。\[3\]2018年更簽下了一份估計超30億韓元（約7800萬台幣），年收入估計高達50億韓元（約3400萬港幣）的合同，而且為整個LCK韓國賽區最高薪金的選手。\[4\]過去在韓國伺服器的名稱為「고전파」(GoJeonPa)。現在他在韓國伺服器的名稱是「SKT
 T1 Faker」，另一個帳戶名称是「Hide on Bush」。
 
@@ -8,7 +8,7 @@ T1 Faker」，另一個帳戶名称是「Hide on Bush」。
 
 ### 早年
 
-1996年5月7日，李相赫出生在[韓國](../Page/韓國.md "wikilink")，從小熱衷拼圖及電子遊戲，如《[魔獸爭霸III](../Page/魔獸爭霸III.md "wikilink")》中的自訂地圖以及[DOTA四大遊戲分支的](../Page/DOTA.md "wikilink")《渾沌Online》。2011年底，他開始玩《[英雄聯盟](../Page/英雄聯盟.md "wikilink")》，並且很快地就成為了高手，以「GoJeonPa」(고전파)名稱登上韓國伺服器單人排位第一，並以沒有固定英雄池為玩家認知，受到職業隊伍青睞。2013年2月選擇加入SK
+1996年5月7日，李相赫出生在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，從小熱衷拼圖及電子遊戲，如《[魔獸爭霸III](https://zh.wikipedia.org/wiki/魔獸爭霸III "wikilink")》中的自訂地圖以及[DOTA四大遊戲分支的](https://zh.wikipedia.org/wiki/DOTA "wikilink")《渾沌Online》。2011年底，他開始玩《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》，並且很快地就成為了高手，以「GoJeonPa」(고전파)名稱登上韓國伺服器單人排位第一，並以沒有固定英雄池為玩家認知，受到職業隊伍青睞。2013年2月選擇加入SK
 Telecom T1戰隊，並放棄就讀高中。\[5\]
 
 ### 職業生涯
@@ -20,7 +20,7 @@ Faker最出名英雄的是奧莉安娜、雷茲、乐芙兰、劫、阿璃和璐
 
 在比賽過程中使用奈德麗單殺了當時韓國公認最強中路選手Ambition，並以2:0贏得系列賽，在韓國一戰成名。\[6\]
 
-在2013年OGN夏季赛决赛KT.Bullets对阵SKT.T1的比赛中，KT.Bullets先是打出了2：0的成绩，但随后SKT.T1连赢两局，并将比分改写为2：2。在第五盘盲选局中，Faker和Ryu均选择了劫，在第32分钟，Faker以五分之一血量反杀了满血的Ryu。SKT最終贏下第5局奪得冠軍，Faker也因此在全世界聲名大躁。\[7\]及後在2013年[英雄聯盟世界大賽首度奪得冠軍](../Page/英雄联盟全球总决赛.md "wikilink")。
+在2013年OGN夏季赛决赛KT.Bullets对阵SKT.T1的比赛中，KT.Bullets先是打出了2：0的成绩，但随后SKT.T1连赢两局，并将比分改写为2：2。在第五盘盲选局中，Faker和Ryu均选择了劫，在第32分钟，Faker以五分之一血量反杀了满血的Ryu。SKT最終贏下第5局奪得冠軍，Faker也因此在全世界聲名大躁。\[7\]及後在2013年[英雄聯盟世界大賽首度奪得冠軍](https://zh.wikipedia.org/wiki/英雄联盟全球总决赛 "wikilink")。
 
 2013年OGN冬季賽SKT T1戰隊以15戰全勝姿態奪得冠軍。
 
@@ -33,12 +33,12 @@ T1戰隊以15勝1負成績大熱姿態第2度贏得世界冠軍。
 在2016年4月23日，Faker帶領SKT獲得2016年LCK春季賽冠軍的同時，完成了個人職業生涯第300場出賽，共計221勝79負，勝率高達73.7%
 。
 
-在2016年7月11日SKT对阵MVP的比赛中，Faker使用馬爾札哈完成了职业生涯中的第1000个击杀,成為了韓國職業聯賽首位達成千殺的選手。\[9\]2016年[世界大賽決賽以](../Page/英雄联盟2016赛季全球总决赛.md "wikilink")3:2擊敗Samsung
+在2016年7月11日SKT对阵MVP的比赛中，Faker使用馬爾札哈完成了职业生涯中的第1000个击杀,成為了韓國職業聯賽首位達成千殺的選手。\[9\]2016年[世界大賽決賽以](https://zh.wikipedia.org/wiki/英雄联盟2016赛季全球总决赛 "wikilink")3:2擊敗Samsung
 Galaxy戰隊第3度贏得世界冠軍。
 
-在2017年2月6日，首次在[Twitch直播時](../Page/Twitch.tv.md "wikilink")，最高同時收看人數達到245,100人，打破當時單一實況主在Twitch實況的最高紀錄\[10\]，後被北美知名實況主Tyler1的38萬觀眾人數所超越。\[11\]
+在2017年2月6日，首次在[Twitch直播時](https://zh.wikipedia.org/wiki/Twitch.tv "wikilink")，最高同時收看人數達到245,100人，打破當時單一實況主在Twitch實況的最高紀錄\[10\]，後被北美知名實況主Tyler1的38萬觀眾人數所超越。\[11\]
 
-2017年[世界大賽決賽在](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")[北京國家體育場](../Page/国家体育场_\(北京\).md "wikilink")(鳥巢)被Samsung
+2017年[世界大賽決賽在](https://zh.wikipedia.org/wiki/英雄联盟2017赛季全球总决赛 "wikilink")[北京國家體育場](../Page/国家体育场_\(北京\).md "wikilink")(鳥巢)被Samsung
 Galaxy戰隊成功復仇，以0:3落敗，無縁三連霸。
 
 [2018年亚洲运动会新增電子競技表演項目](../Page/2018年亚洲运动会.md "wikilink")
@@ -108,20 +108,21 @@ Galaxy戰隊成功復仇，以0:3落敗，無縁三連霸。
   -
 ## 名稱由來
 
-李相赫的「Faker」是一個[英語單词](../Page/英語.md "wikilink")，即欺詐者之意，名字的由來可能與他最愛用的英雄勒布朗的稱號詐欺師有關。
+李相赫的「Faker」是一個[英語單词](https://zh.wikipedia.org/wiki/英語 "wikilink")，即欺詐者之意，名字的由來可能與他最愛用的英雄勒布朗的稱號詐欺師有關。
 
 ## 人物评价
 
-2016年12月，《[朝鲜日报](../Page/朝鲜日报.md "wikilink")》通过在此之前结束的[英雄联盟2016賽季全球总决赛介绍了](../Page/英雄联盟2016賽季全球总决赛.md "wikilink")[英雄联盟](../Page/英雄联盟.md "wikilink")，并将Faker称为国民级运动员，此外还将Faker的影响力比作[朴智星](../Page/朴智星.md "wikilink")、[金妍儿等运动员](../Page/金妍儿.md "wikilink")。\[17\]
+2016年12月，《[朝鲜日报](https://zh.wikipedia.org/wiki/朝鲜日报 "wikilink")》通过在此之前结束的[英雄联盟2016賽季全球总决赛介绍了](https://zh.wikipedia.org/wiki/英雄联盟2016賽季全球总决赛 "wikilink")[英雄联盟](../Page/英雄联盟.md "wikilink")，并将Faker称为国民级运动员，此外还将Faker的影响力比作[朴智星](../Page/朴智星.md "wikilink")、[金妍儿等运动员](https://zh.wikipedia.org/wiki/金妍儿 "wikilink")。\[17\]
 
-2019年4月，Faker入選《[富比士](../Page/富比士.md "wikilink")》年度傑出青年「30 Under
-30」亞洲區傑出青年中的「運動與體育」項目，成為[韓國首位入圍該獎項的](../Page/大韩民国.md "wikilink")[英雄聯盟選手](../Page/英雄联盟.md "wikilink")\[18\]
+2019年4月，Faker入選《[富比士](https://zh.wikipedia.org/wiki/富比士 "wikilink")》年度傑出青年「30
+Under
+30」亞洲區傑出青年中的「運動與體育」項目，成為[韓國首位入圍該獎項的](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[英雄聯盟選手](../Page/英雄联盟.md "wikilink")\[18\]
 
 ## 參考資料
 
 ## 外部連結
 
-  - [Twitch上的](../Page/Twitch.tv.md "wikilink")[Faker頻道](https://www.twitch.tv/faker)
+  - [Twitch上的](https://zh.wikipedia.org/wiki/Twitch.tv "wikilink")[Faker頻道](https://www.twitch.tv/faker)
 
   -
   -

@@ -1,5 +1,5 @@
 **Code.org** 是一个非盈利性组织由[Hadi
-Partovi兄弟](../Page/Hadi_Partovi.md "wikilink")\[1\]
+Partovi兄弟](https://zh.wikipedia.org/wiki/Hadi_Partovi "wikilink")\[1\]
 创建的与该组织同名的网站，其宗旨在于支持美国的学生学习计算机科学。\[2\]
 该网站为教育机构，以促进和提高其学校的计算机科学课程的目的，免费提供编程经验。\[3\]
 于2013年12月9日至2013年12月15日，他们成功举行一个全国性的"编程一小时2013"宣传周活动,
@@ -13,7 +13,7 @@ Code.org® 成立于 2013
 
 ## 编程一小时
 
-自2013年12月9日到15日举行为期一周的**[计算机科学教育周](../Page/计算机科学.md "wikilink")**\[8\]，Code.org在他的网站向[教师和](../Page/教师.md "wikilink")[学生开展了](../Page/学生.md "wikilink")“编程一小时”活动，指导他们完成简短的编程。\[9\]\[10\]\[11\]\[12\]编程一小时让参与者使用[Blockly来编写代码](../Page/Blockly.md "wikilink")，一种预先定义好的代码片段又有趣的[虚拟计算机编程语言](../Page/虚拟计算机编程语言.md "wikilink")，就像是[Logo语言](../Page/Logo语言.md "wikilink")。该倡议提前两个月通告，\[13\]并预期举行，倡议得到来自美国总统[贝拉克·奥巴马](../Page/贝拉克·奥巴马.md "wikilink")，以及高科技公司的高层，如[微软和](../Page/微软.md "wikilink")[苹果公司的支持](../Page/苹果公司.md "wikilink")。\[14\]\[15\]大约
+自2013年12月9日到15日举行为期一周的**[计算机科学教育周](../Page/计算机科学.md "wikilink")**\[8\]，Code.org在他的网站向[教师和](../Page/教师.md "wikilink")[学生开展了](../Page/学生.md "wikilink")“编程一小时”活动，指导他们完成简短的编程。\[9\]\[10\]\[11\]\[12\]编程一小时让参与者使用[Blockly来编写代码](https://zh.wikipedia.org/wiki/Blockly "wikilink")，一种预先定义好的代码片段又有趣的[虚拟计算机编程语言](https://zh.wikipedia.org/wiki/虚拟计算机编程语言 "wikilink")，就像是[Logo语言](https://zh.wikipedia.org/wiki/Logo语言 "wikilink")。该倡议提前两个月通告，\[13\]并预期举行，倡议得到来自美国总统[贝拉克·奥巴马](../Page/贝拉克·奥巴马.md "wikilink")，以及高科技公司的高层，如[微软和](../Page/微软.md "wikilink")[苹果公司的支持](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。\[14\]\[15\]大约
 20 万人参加，并编写了超过 600
 万行的代码。\[16\]\[17\]\[18\]2015年11月17日，[微软公司为了在全球范围内深入推广计算机科学](../Page/微软.md "wikilink")，携手
 Code.org
@@ -41,7 +41,7 @@ Code.org还特别关注女性和少数族裔的学生，因为该组织认为这
 
 引述自其网站，Code.org的目标如下:\[33\]
 
-  - 将计算机科学带到全美的[K-12学校课堂](../Page/K-12.md "wikilink")，特别是偏远的社区。
+  - 将计算机科学带到全美的[K-12学校课堂](https://zh.wikipedia.org/wiki/K-12 "wikilink")，特别是偏远的社区。
   - 在公立学校展示运用其在线课程。
   - 改变全美50个州的政策为计算机科学进行分类，作为数学/理科核心课程的一部分。
   - 利用高科技社群的集体力量来促进全球的计算机科学教育的成长。
@@ -50,9 +50,10 @@ Code.org还特别关注女性和少数族裔的学生，因为该组织认为这
 ## 反应
 
 Mike Cassidy
-在*[圣何塞信使新闻报](../Page/圣何塞信使新闻报.md "wikilink")*赞扬Code.org和[编程一小时写道](../Page/编程一小时.md "wikilink")：“他们宣传的正是我们的需要。”\[34\]
-*[PC Magazine](../Page/PC_Magazine.md "wikilink")*的[John
-Dvorak曾在其文章中评论编程一小时的活动](../Page/John_Dvorak.md "wikilink")。Dvorak写道：“我认为这是一个想让学校购买更多电脑的阴谋。”\[35\]
+在*[圣何塞信使新闻报](https://zh.wikipedia.org/wiki/圣何塞信使新闻报 "wikilink")*赞扬Code.org和[编程一小时写道](https://zh.wikipedia.org/wiki/编程一小时 "wikilink")：“他们宣传的正是我们的需要。”\[34\]
+*[PC
+Magazine](https://zh.wikipedia.org/wiki/PC_Magazine "wikilink")*的[John
+Dvorak曾在其文章中评论编程一小时的活动](https://zh.wikipedia.org/wiki/John_Dvorak "wikilink")。Dvorak写道：“我认为这是一个想让学校购买更多电脑的阴谋。”\[35\]
 
 ## 参考
 

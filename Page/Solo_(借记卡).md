@@ -1,8 +1,8 @@
-**Solo**是[英国发行的一种借记卡品牌](../Page/英国.md "wikilink")，是当时已有的[Switch卡的姊妹卡](../Page/Switch_\(借记卡\).md "wikilink")。1997年7月1日由Switch卡公司推出，是针对没有资格申请Switch（或随后的）[支票账户的持卡人](../Page/支票账户.md "wikilink")（如青少年）提供的一款储蓄卡产品。Solo卡于2011年3月31日永久退出市场。\[1\]\[2\]
+**Solo**是[英国发行的一种借记卡品牌](https://zh.wikipedia.org/wiki/英国 "wikilink")，是当时已有的[Switch卡的姊妹卡](../Page/Switch_\(借记卡\).md "wikilink")。1997年7月1日由Switch卡公司推出，是针对没有资格申请Switch（或随后的）[支票账户的持卡人](https://zh.wikipedia.org/wiki/支票账户 "wikilink")（如青少年）提供的一款储蓄卡产品。Solo卡于2011年3月31日永久退出市场。\[1\]\[2\]
 
 ## 运作
 
-早期，Solo卡被作为多功能[现金卡](../Page/现金卡.md "wikilink")，由[國民威斯敏斯特銀行](../Page/國民威斯敏斯特銀行.md "wikilink")、[苏格兰皇家银行发放给](../Page/苏格兰皇家银行.md "wikilink")11岁以上的持卡人，[汇丰银行](../Page/英国汇丰银行.md "wikilink")（早先的米特蘭銀行）发放给13岁以上的持卡人。不过如今苏格兰皇家银行\[3\]和汇丰银行已经用[Visa金融卡将其取而代之](../Page/Visa金融卡.md "wikilink")。
+早期，Solo卡被作为多功能[现金卡](https://zh.wikipedia.org/wiki/现金卡 "wikilink")，由[國民威斯敏斯特銀行](https://zh.wikipedia.org/wiki/國民威斯敏斯特銀行 "wikilink")、[苏格兰皇家银行发放给](https://zh.wikipedia.org/wiki/苏格兰皇家银行 "wikilink")11岁以上的持卡人，[汇丰银行](https://zh.wikipedia.org/wiki/英国汇丰银行 "wikilink")（早先的米特蘭銀行）发放给13岁以上的持卡人。不过如今苏格兰皇家银行\[3\]和汇丰银行已经用[Visa金融卡将其取而代之](../Page/Visa金融卡.md "wikilink")。
 
 与它的主要竞争对手（如）一样，Solo卡的所有交易均需收到来自发卡行的电子授权。如果持卡人的账户不足结清资金，授权就不会被给予。
 

@@ -1,11 +1,11 @@
-《**花美男Bromance**》是[韓國](../Page/韓國.md "wikilink")[MBC電視台為移動裝置用戶專門打造的](../Page/MBC.md "wikilink")[MBig
+《**花美男Bromance**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台為移動裝置用戶專門打造的](https://zh.wikipedia.org/wiki/MBC "wikilink")[MBig
 TV頻道所企劃的第一個網路綜藝節目](../Page/MBig_TV.md "wikilink")。
 
 節目以找尋演藝圈內鮮為人知的親密好友為主題，講述藝人之間真摯的友情故事。因以藝人私人模樣呈現為主而以狗仔隊的方式拍攝，猶如鄰近藝人私生活。\[1\]
 \[2\]
 
 2016年2月4日起，韓國時間每週四晚上11點在[Naver
-TVcast和](../Page/Naver.md "wikilink")[Youtube的](../Page/Youtube.md "wikilink")[MBig
+TVcast和](https://zh.wikipedia.org/wiki/Naver "wikilink")[Youtube的](https://zh.wikipedia.org/wiki/Youtube "wikilink")[MBig
 TV頻道播出](../Page/MBig_TV.md "wikilink")。2016年5月31日起，改為韓國時間每週二晚上11點播出。
 
 ## 集數

@@ -1,14 +1,14 @@
-[韩国](../Page/韩国.md "wikilink")[女子组合](../Page/女子組合.md "wikilink")[AOA共发行两张](../Page/AOA_\(韓國\).md "wikilink")[录音室专辑](../Page/录音室专辑.md "wikilink")、一张[合辑](../Page/合輯.md "wikilink")、四张[迷你专辑和十六首](../Page/迷你專輯.md "wikilink")[单曲](../Page/单曲.md "wikilink")（包括十首[CD单曲和六首数字单曲](../Page/CD.md "wikilink")）。
+[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子组合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[AOA共发行两张](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")、一张[合辑](https://zh.wikipedia.org/wiki/合輯 "wikilink")、四张[迷你专辑和十六首](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")[单曲](../Page/单曲.md "wikilink")（包括十首[CD单曲和六首数字单曲](../Page/CD.md "wikilink")）。
 
 2012年7月，AOA发行数字单曲《Elvis》和首张单曲专辑《[Angels'
 Story](../Page/Angels'_Story.md "wikilink")》出道\[1\]。3个月后第二张单曲专辑《[Wanna
-Be](../Page/Wanna_Be_\(AOA单曲\).md "wikilink")》推出。2013年AOA发行两首单曲《Moya》和《[Red
-Motion](../Page/RED_MOTION.md "wikilink")》。2014年，第五首单曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》发行并首次冲进Gaon榜前20名。同年，AOA发行迷你专辑《[短发](../Page/短髮_\(AOA迷你專輯\).md "wikilink")》和《[猫步轻悄](../Page/猫步轻悄_\(AOA迷你专辑\).md "wikilink")》。第三张EP《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》（2015）是AOA在韩国销量最高的专辑，实体总销量超过4.5万。第四张EP《[Good
+Be](https://zh.wikipedia.org/wiki/Wanna_Be_\(AOA单曲\) "wikilink")》推出。2013年AOA发行两首单曲《Moya》和《[Red
+Motion](../Page/RED_MOTION.md "wikilink")》。2014年，第五首单曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》发行并首次冲进Gaon榜前20名。同年，AOA发行迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》和《[猫步轻悄](https://zh.wikipedia.org/wiki/猫步轻悄_\(AOA迷你专辑\) "wikilink")》。第三张EP《[怦然心动](https://zh.wikipedia.org/wiki/怦然心动_\(AOA迷你专辑\) "wikilink")》（2015）是AOA在韩国销量最高的专辑，实体总销量超过4.5万。第四张EP《[Good
 Luck](../Page/Good_Luck_\(AOA迷你专辑\).md "wikilink")》于2016年5月释出。
 
 2014年10月，《短裙》的日语版推出，成为AOA的首张日语专辑。专辑在Oricon周单曲榜达到13名。一年后的2015年10月，AOA释出首张标准长度日语录音室专辑《[Ace
 of
-Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原生日语单曲《给我爱》于2016年4月发行，其中日本歌手[西川贵教](../Page/西川贵教.md "wikilink")（T.M.Revolution）伴唱。
+Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第四首也是首次原生日语单曲《给我爱》于2016年4月发行，其中日本歌手[西川贵教](../Page/西川贵教.md "wikilink")（T.M.Revolution）伴唱。
 
 2015年7月，AOA发布《怦然心动》中文版，这是AOA的首个中文歌。
 
@@ -28,7 +28,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">韩国</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韩国</a><br />
 [2]</p></td>
 <td><p><a href="../Page/Oricon.md" title="wikilink">日本</a><br />
 [3]</p></td>
@@ -44,11 +44,11 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Ace_of_Angels_(AOA专辑).md" title="wikilink">Ace of Angels</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ace_of_Angels_(AOA专辑)" title="wikilink">Ace of Angels</a></p></td>
 <td><ul>
 <li>发行：2015年10月14日<small>（日本）</small></li>
 <li>唱片公司：<a href="../Page/环球唱片.md" title="wikilink">环球唱片日本</a></li>
-<li>形式： <a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/数字下载.md" title="wikilink">数字下载</a></li>
+<li>形式： <a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/数字下载" title="wikilink">数字下载</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><p>2</p></td>
@@ -57,7 +57,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/Runaway_(专辑).md" title="wikilink">Runway</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/Runaway_(专辑)" title="wikilink">Runway</a></p></td>
 <td><ul>
 <li>发行：2016年11月30日<small>（日本）</small></li>
 <li>唱片公司：环球唱片日本</li>
@@ -93,7 +93,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">韩国</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韩国</a><br />
 [5]</p></td>
 <td><p><a href="../Page/Oricon.md" title="wikilink">日本</a><br />
 [6]</p></td>
@@ -106,7 +106,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 <td><ul>
 <li>发行：2014年9月26日<small>（台湾）</small></li>
 <li>唱片公司：FNC娱乐</li>
-<li>形式：CD+<a href="../Page/DVD.md" title="wikilink">DVD</a>、数字下载</li>
+<li>形式：CD+<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>、数字下载</li>
 </ul></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -138,7 +138,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">韩国</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韩国</a><br />
 <ref name="gaonalbum2"></p>
 <ul>
 <li></li>
@@ -153,7 +153,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 <p></ref></p></td>
 <td><p><a href="../Page/Oricon.md" title="wikilink">日本</a><br />
 [7]</p></td>
-<td><p><a href="../Page/Billboard_charts.md" title="wikilink">美国世界</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Billboard_charts" title="wikilink">美国世界</a><br />
 <ref>Billboard World Albums</p>
 <ul>
 <li></li>
@@ -162,7 +162,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/短发_(AOA迷你专辑).md" title="wikilink">短发</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/短发_(AOA迷你专辑)" title="wikilink">短发</a></p></td>
 <td><ul>
 <li>发行：2014年6月19日<small>（韩国）</small></li>
 <li>唱片公司：FNC娱乐</li>
@@ -182,7 +182,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/怦然心动_(AOA迷你专辑).md" title="wikilink">怦然心动</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/怦然心动_(AOA迷你专辑)" title="wikilink">怦然心动</a></p></td>
 <td><ul>
 <li>发行：2015年6月22日<small>（韩国）</small></li>
 <li>唱片公司：FNC娱乐</li>
@@ -202,7 +202,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Bingle_Bangle_(AOA迷你专辑).md" title="wikilink">Bingle Bangle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bingle_Bangle_(AOA迷你专辑)" title="wikilink">Bingle Bangle</a></p></td>
 <td><ul>
 <li>發行：2018年5月28日（韓國）</li>
 <li>唱片公司：FNC娛樂</li>
@@ -233,12 +233,12 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">韩国Gaon</a></p></td>
-<td><p>韩国 <small><a href="../Page/Korea_K-Pop_Hot_100.md" title="wikilink">Hot 100</a></small><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韩国Gaon</a></p></td>
+<td><p>韩国 <small><a href="https://zh.wikipedia.org/wiki/Korea_K-Pop_Hot_100" title="wikilink">Hot 100</a></small><br />
 [8]</p></td>
-<td><p>日本 <small><a href="../Page/Oricon单曲榜.md" title="wikilink">Oricon</a></small><br />
+<td><p>日本 <small><a href="https://zh.wikipedia.org/wiki/Oricon单曲榜" title="wikilink">Oricon</a></small><br />
 [9]</p></td>
-<td><p>日本 <small><a href="../Page/日本百强金曲榜.md" title="wikilink">Hot 100</a></small><br />
+<td><p>日本 <small><a href="https://zh.wikipedia.org/wiki/日本百强金曲榜" title="wikilink">Hot 100</a></small><br />
 [10]</p></td>
 <td></td>
 </tr>
@@ -420,7 +420,7 @@ Angels](../Page/Ace_of_Angels.md "wikilink")》。AOA的第四首也是首次原
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">韩国 Gaon</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韩国 Gaon</a><br />
 [11]</p></td>
 <td></td>
 <td></td>

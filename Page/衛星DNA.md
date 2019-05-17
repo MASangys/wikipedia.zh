@@ -2,7 +2,7 @@
 
 ## 类型
 
-衛星DNA与[小卫星和](../Page/小卫星.md "wikilink")[微卫星DNA一起被称为](../Page/微卫星.md "wikilink")[串联重复](../Page/串联重复.md "wikilink")。
+衛星DNA与[小卫星和](https://zh.wikipedia.org/wiki/小卫星 "wikilink")[微卫星DNA一起被称为](https://zh.wikipedia.org/wiki/微卫星 "wikilink")[串联重复](../Page/串联重复.md "wikilink")。
 
 一些人体内的衛星DNA类型包括：
 
@@ -48,7 +48,7 @@ RU系列的另一个区域的特征是由交替的嘌呤和嘧啶组成的对称
 
   -
   -
-[分类:重複DNA序列](../Page/分类:重複DNA序列.md "wikilink")
+[分类:重複DNA序列](https://zh.wikipedia.org/wiki/分类:重複DNA序列 "wikilink")
 
 1.
 

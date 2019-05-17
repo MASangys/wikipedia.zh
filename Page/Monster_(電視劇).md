@@ -1,4 +1,4 @@
-《**Monster**》（）為[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/文化廣播_\(韓國\).md "wikilink")2016年3月28日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")。由《[百年遺產](../Page/百年遺產.md "wikilink")》、《[湔雪的魔女](../Page/湔雪的魔女.md "wikilink")》[朱成宇导演和](../Page/朱成宇.md "wikilink")《[Giant](../Page/Giant.md "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》[張英哲](../Page/張英哲.md "wikilink")、[鄭景順作家攜手合作](../Page/鄭景順_\(編劇\).md "wikilink")。講述深受姨父陷害的男人在各種困境中，最終收穫愛情的故事。\[1\]
+《**Monster**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月28日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")。由《[百年遺產](../Page/百年遺產.md "wikilink")》、《[湔雪的魔女](https://zh.wikipedia.org/wiki/湔雪的魔女 "wikilink")》[朱成宇导演和](https://zh.wikipedia.org/wiki/朱成宇 "wikilink")《[Giant](https://zh.wikipedia.org/wiki/Giant "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》[張英哲](../Page/張英哲.md "wikilink")、[鄭景順作家攜手合作](../Page/鄭景順_\(編劇\).md "wikilink")。講述深受姨父陷害的男人在各種困境中，最終收穫愛情的故事。\[1\]
 
 ## 演員陣容
 
@@ -30,7 +30,7 @@
 </p></td>
 <td><p><strong>吳秀妍／車靜恩</strong></p></td>
 <td><p>國哲少年失明時期喜歡的人，後來加入都道集團遇上奇歎。離開都道集團後苦讀了一年成為了律師，並當選了都道集團的代表律師團。</p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴基雄.md" title="wikilink">朴基雄</a></p></td>
@@ -67,7 +67,7 @@
 <td><p><a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a></p></td>
 <td><p>邊日載</p></td>
 <td><p>未來戰略事業部法務財務室長 李國哲姨丈</p></td>
-<td><p><a href="../Page/孫誠.md" title="wikilink">孫誠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫誠" title="wikilink">孫誠</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/朴英奎.md" title="wikilink">朴英奎</a></p></td>
@@ -76,7 +76,7 @@
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李德華.md" title="wikilink">李德華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李德華" title="wikilink">李德華</a></p></td>
 <td><p>黃財萬</p></td>
 <td><p>都忠大舅子，在任國會議員</p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
@@ -140,12 +140,12 @@
 
 ### 秘密防禦組織
 
-|                                       |        |                            |                                  |
-| ------------------------------------- | ------ | -------------------------- | -------------------------------- |
-| **演員**                                | **角色** | **介紹**                     | **台灣配音**                         |
-| [崔鐘元](../Page/崔鐘元.md "wikilink")      | 趙基量    | 華平團BOSS                    | [孫中台](../Page/孫中台.md "wikilink") |
-| [李伊](../Page/李伊.md "wikilink")        | 玉彩玲    | 華平團成員，反覆游移欲脫離組織，後為了姜奇歎繼續效力 | [陳美貞](../Page/陳美貞.md "wikilink") |
-| [高允](../Page/高允_\(演員\).md "wikilink") | 車宇     | 與玉彩玲計畫欲脫離組織，計畫失控，被玉彩玲槍殺。   |                                  |
+|                                                     |        |                            |                                  |
+| --------------------------------------------------- | ------ | -------------------------- | -------------------------------- |
+| **演員**                                              | **角色** | **介紹**                     | **台灣配音**                         |
+| [崔鐘元](https://zh.wikipedia.org/wiki/崔鐘元 "wikilink") | 趙基量    | 華平團BOSS                    | [孫中台](../Page/孫中台.md "wikilink") |
+| [李伊](../Page/李伊.md "wikilink")                      | 玉彩玲    | 華平團成員，反覆游移欲脫離組織，後為了姜奇歎繼續效力 | [陳美貞](../Page/陳美貞.md "wikilink") |
+| [高允](../Page/高允_\(演員\).md "wikilink")               | 車宇     | 與玉彩玲計畫欲脫離組織，計畫失控，被玉彩玲槍殺。   |                                  |
 
 ### 其他人物
 
@@ -176,13 +176,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金元海.md" title="wikilink">金元海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金元海" title="wikilink">金元海</a></p></td>
 <td><p>閔炳浩</p></td>
 <td><p>律師</p></td>
-<td><p><a href="../Page/孫誠.md" title="wikilink">孫誠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫誠" title="wikilink">孫誠</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/南琪愛.md" title="wikilink">南琪愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南琪愛" title="wikilink">南琪愛</a></p></td>
 <td></td>
 <td><p>姜奇歎/李國哲 母親</p></td>
 <td></td>
@@ -213,7 +213,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李彩美.md" title="wikilink">李彩美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩美" title="wikilink">李彩美</a></p></td>
 <td><p>朴藝彬</p></td>
 <td><p>智愛的女兒</p></td>
 <td></td>
@@ -231,13 +231,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳藝瑟.md" title="wikilink">陳藝瑟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳藝瑟" title="wikilink">陳藝瑟</a></p></td>
 <td></td>
 <td><p>都道社員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/申柱煥.md" title="wikilink">申柱煥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申柱煥" title="wikilink">申柱煥</a></p></td>
 <td><p>金海日</p></td>
 <td><p>建宇的秘書</p></td>
 <td></td>
@@ -273,7 +273,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周錫泰.md" title="wikilink">周錫泰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周錫泰" title="wikilink">周錫泰</a></p></td>
 <td><p>姜律師</p></td>
 <td></td>
 <td></td>
@@ -482,7 +482,7 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>TNmS 收視率[2]</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 收視率[3]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 收視率[3]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -807,7 +807,7 @@
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[鄰家律師趙德浩](../Page/鄰家律師趙德浩.md "wikilink")》、《[白熙回來了](../Page/白熙回來了.md "wikilink")》、《[Beautiful
     Mind](../Page/Beautiful_Mind.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》
-  - [SBS](../Page/SBS株式會社.md "wikilink")：《[大撲](../Page/大撲.md "wikilink")》、《[Doctors](../Page/Doctors.md "wikilink")》、《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[大撲](../Page/大撲.md "wikilink")》、《[Doctors](../Page/Doctors.md "wikilink")》、《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》
 
 ## 獎項
 
@@ -830,7 +830,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2016_MBC演技大賞.md" title="wikilink">MBC演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2016_MBC演技大賞" title="wikilink">MBC演技大賞</a></p></td>
 <td><p>特別企劃部門 男子最優秀演技賞</p></td>
 <td></td>
 <td></td>
@@ -905,8 +905,8 @@
 ## 其他
 
   - [姜至奐與](../Page/姜至奐.md "wikilink")[成宥利二人繼](../Page/成宥利.md "wikilink")2008年[KBS電視台電視劇](../Page/韓國放送公社.md "wikilink")《[快刀洪吉童](../Page/快刀洪吉童.md "wikilink")》後時隔9年再度合作。
-  - [姜至奐與](../Page/姜至奐.md "wikilink")[張英哲作家二人繼](../Page/張英哲.md "wikilink")2013年[SBS電視劇](../Page/SBS株式會社.md "wikilink")《[錢的化身](../Page/錢的化身.md "wikilink")》後時隔3年再度合作。
-  - [鄭寶石](../Page/鄭寶石.md "wikilink")、[張英哲和](../Page/張英哲.md "wikilink")[李德華繼](../Page/李德華.md "wikilink")2006年[KBS播出的電視劇](../Page/韓國放送公社.md "wikilink")《[大祚榮](../Page/大祚榮_\(電視劇\).md "wikilink")》、2010年[SBS的](../Page/SBS株式會社.md "wikilink")《[Giant](../Page/巨人_\(韓國電視劇\).md "wikilink")》和2012年[SBS的](../Page/SBS株式會社.md "wikilink")《[工薪族楚漢誌](../Page/工薪族楚漢誌.md "wikilink")》後三人第四度合作。
+  - [姜至奐與](../Page/姜至奐.md "wikilink")[張英哲作家二人繼](../Page/張英哲.md "wikilink")2013年[SBS電視劇](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[錢的化身](../Page/錢的化身.md "wikilink")》後時隔3年再度合作。
+  - [鄭寶石](https://zh.wikipedia.org/wiki/鄭寶石 "wikilink")、[張英哲和](../Page/張英哲.md "wikilink")[李德華繼](https://zh.wikipedia.org/wiki/李德華 "wikilink")2006年[KBS播出的電視劇](../Page/韓國放送公社.md "wikilink")《[大祚榮](../Page/大祚榮_\(電視劇\).md "wikilink")》、2010年[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Giant](../Page/巨人_\(韓國電視劇\).md "wikilink")》和2012年[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[工薪族楚漢誌](https://zh.wikipedia.org/wiki/工薪族楚漢誌 "wikilink")》後三人第四度合作。
   - 此劇與SBS的《[Doctors](../Page/Doctors.md "wikilink")》及KBS的《[Beautiful
     Mind](../Page/Beautiful_Mind.md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。
 

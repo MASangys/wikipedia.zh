@@ -1,4 +1,4 @@
-**TBS週三深夜連續劇**（），為[TBS電視台於](../Page/TBS電視台.md "wikilink")2015年10月起，每星期三23:53（[JST](../Page/日本標準時.md "wikilink")）播出的30分鐘深夜[連續劇時段](../Page/日本電視劇.md "wikilink")\[1\]\[2\]\[3\]。
+**TBS週三深夜連續劇**（），為[TBS電視台於](../Page/TBS電視台.md "wikilink")2015年10月起，每星期三23:53（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的30分鐘深夜[連續劇時段](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 作品列表
 
@@ -11,19 +11,19 @@
 <!-- end list -->
 
   -
-    主演：[小田切讓](../Page/小田切讓.md "wikilink")
-    劇本：[石井裕也](../Page/石井裕也.md "wikilink")、登米裕一
+    主演：[小田切讓](https://zh.wikipedia.org/wiki/小田切讓 "wikilink")
+    劇本：[石井裕也](https://zh.wikipedia.org/wiki/石井裕也 "wikilink")、登米裕一
     原作協力：《うちのネコが訴えられました\!? - 実録ネコ裁判-》
 
 #### 2016年
 
-  - 1月20日－3月23日：**[惡棍跑千里](../Page/惡棍跑千里.md "wikilink")**（）
+  - 1月20日－3月23日：**[惡棍跑千里](https://zh.wikipedia.org/wiki/惡棍跑千里 "wikilink")**（）
 
 <!-- end list -->
 
   -
     主演：[室剛](../Page/室剛.md "wikilink")
-    劇本：[渡邊真子](../Page/渡邊真子.md "wikilink")
+    劇本：[渡邊真子](https://zh.wikipedia.org/wiki/渡邊真子 "wikilink")
     原作：[貫井德郎](../Page/貫井德郎.md "wikilink")《悪党たちは千里を走る》
 
 <!-- end list -->
@@ -34,22 +34,22 @@
 
   -
     主演：[前田敦子](../Page/前田敦子.md "wikilink")
-    劇本：[矢島弘一](../Page/矢島弘一.md "wikilink")
+    劇本：[矢島弘一](https://zh.wikipedia.org/wiki/矢島弘一 "wikilink")
 
 <!-- end list -->
 
   - 7月14日－9月15日：**[死幣-DEATH
-    CASH-](../Page/死幣-DEATH_CASH-.md "wikilink")**（）
+    CASH-](https://zh.wikipedia.org/wiki/死幣-DEATH_CASH- "wikilink")**（）
 
 <!-- end list -->
 
   -
     主演：松井珠理奈（SKE48）
-    劇本：[吉田海輝美](../Page/吉田海輝美.md "wikilink")、[濃部達宏](../Page/濃部達宏.md "wikilink")、[吉田真侑子](../Page/吉田真侑子.md "wikilink")
+    劇本：[吉田海輝美](https://zh.wikipedia.org/wiki/吉田海輝美 "wikilink")、[濃部達宏](https://zh.wikipedia.org/wiki/濃部達宏 "wikilink")、[吉田真侑子](https://zh.wikipedia.org/wiki/吉田真侑子 "wikilink")
 
 <!-- end list -->
 
-  - 10月20日－：**[廚師警部的晚餐會](../Page/廚師警部的晚餐會.md "wikilink")**（）
+  - 10月20日－：**[廚師警部的晚餐會](https://zh.wikipedia.org/wiki/廚師警部的晚餐會 "wikilink")**（）
 
 <!-- end list -->
 
@@ -59,38 +59,38 @@
 <!-- end list -->
 
   -
-    劇本：[船橋勸](../Page/船橋勸.md "wikilink")、[吉田香織](../Page/吉田香織.md "wikilink")
+    劇本：[船橋勸](https://zh.wikipedia.org/wiki/船橋勸 "wikilink")、[吉田香織](https://zh.wikipedia.org/wiki/吉田香織 "wikilink")
 
 #### 2017年
 
-  - 1月19日－3月23日：**[出租愛情](../Page/出租愛情.md "wikilink")**（）
+  - 1月19日－3月23日：**[出租愛情](https://zh.wikipedia.org/wiki/出租愛情 "wikilink")**（）
 
 <!-- end list -->
 
   -
     主演：[剛力彩芽](../Page/剛力彩芽.md "wikilink")
-    劇本：[田邊茂範等](../Page/田邊茂範.md "wikilink")
+    劇本：[田邊茂範等](https://zh.wikipedia.org/wiki/田邊茂範 "wikilink")
 
 <!-- end list -->
 
-  - 4月19日－6月：**[三個爸爸](../Page/三個爸爸.md "wikilink")**（）
+  - 4月19日－6月：**[三個爸爸](https://zh.wikipedia.org/wiki/三個爸爸 "wikilink")**（）
 
 <!-- end list -->
 
   -
     主演：[堀井新太](../Page/堀井新太.md "wikilink")
-    劇本：[小山正太](../Page/小山正太.md "wikilink")
+    劇本：[小山正太](https://zh.wikipedia.org/wiki/小山正太 "wikilink")
 
 <!-- end list -->
 
-  - 7月－9月：**[深海魚男](../Page/深海魚男.md "wikilink")**（）
+  - 7月－9月：**[深海魚男](https://zh.wikipedia.org/wiki/深海魚男 "wikilink")**（）
 
 <!-- end list -->
 
   -
-    主演：[有田哲平](../Page/有田哲平.md "wikilink")
+    主演：[有田哲平](https://zh.wikipedia.org/wiki/有田哲平 "wikilink")
     原作：[古谷實](../Page/古谷實.md "wikilink")
-    劇本：[高橋泉](../Page/高橋泉.md "wikilink")
+    劇本：[高橋泉](https://zh.wikipedia.org/wiki/高橋泉 "wikilink")
 
 ## 參考資料
 

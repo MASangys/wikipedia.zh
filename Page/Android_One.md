@@ -1,36 +1,36 @@
 **Android
-One**是运行[Android系统的](../Page/Android.md "wikilink")[消费电子产品系列](../Page/消费电子产品.md "wikilink")。这是由[Google開發的搭载原生](../Page/Google.md "wikilink")[Android系统的设备](../Page/Android.md "wikilink")，市场面向[发展中国家的人们和客户的第一个智能手机](../Page/发展中国家.md "wikilink")。\[1\]
+One**是运行[Android系统的](../Page/Android.md "wikilink")[消费电子产品系列](https://zh.wikipedia.org/wiki/消费电子产品 "wikilink")。这是由[Google開發的搭载原生](../Page/Google.md "wikilink")[Android系统的设备](../Page/Android.md "wikilink")，市场面向[发展中国家的人们和客户的第一个智能手机](../Page/发展中国家.md "wikilink")。\[1\]
 [Google负责设计](../Page/Google.md "wikilink")、开发、营销和支持这些设备，原始设备制造商（OEM）负责制造。Android
 One[智能手机运行Android原生系统](../Page/智能手机.md "wikilink")，没有经过制造商的定制，因此许多智能手机厂商申请加入。由Google负责安全性和系统更新，避免手机出现问题以及缺乏安全更新。\[2\]\[3\]
 第一批的Android
-One设备特性包括[联发科四核](../Page/联发科.md "wikilink")[MT6582移动芯片系统](../Page/联发科#四核.md "wikilink")。\[4\]
+One设备特性包括[联发科四核](https://zh.wikipedia.org/wiki/联发科 "wikilink")[MT6582移动芯片系统](https://zh.wikipedia.org/wiki/联发科#四核 "wikilink")。\[4\]
 
 各种新闻文章提到了Android One设备还规定了最低硬件要求标准，\[5\]\[6\]但在互联网并没有曝光真实的最低要求。
 
 ## 历史
 
 Android One由Google-{高}-级副总裁[Sundar
-Pichai推动](../Page/Sundar_Pichai.md "wikilink")。他倡议成立了印度市场的基本标准。\[7\]
+Pichai推动](https://zh.wikipedia.org/wiki/Sundar_Pichai "wikilink")。他倡议成立了印度市场的基本标准。\[7\]
 他还表示说，他很长一段时间内一直在使用Android One设备，将Android
 One作为他的“主要”设备。在各种意义上这是一个“高端计算设备”。他还指出，因为它们所基于的基准平台，最初发布的设备有着共同的硬件。因为Google扩展了这个计划，设备将在今后陆续推出。\[8\]
 
 在2014年，Android
-One手机最初向[印度](../Page/印度.md "wikilink")、[孟加拉](../Page/孟加拉.md "wikilink")、[尼泊尔](../Page/尼泊尔.md "wikilink")\[9\]、[印尼](../Page/印尼.md "wikilink")、[菲律宾](../Page/菲律宾.md "wikilink")、[斯里兰卡和其他南亚国家推出](../Page/斯里兰卡.md "wikilink")。\[10\]第一批Android
-One智能手机是由印度品牌[Micromax](../Page/Micromax.md "wikilink")、[Spice和](../Page/Spice.md "wikilink")[Karbonn在](../Page/Karbonn.md "wikilink")2014年9月推出，其他制造商如[巴基斯坦的](../Page/巴基斯坦.md "wikilink")[QMobile在](../Page/QMobile.md "wikilink")2015年7月6日推出了名为[QMobile
-A1的Android](../Page/QMobile_A1.md "wikilink")
+One手机最初向[印度](../Page/印度.md "wikilink")、[孟加拉](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")、[尼泊尔](../Page/尼泊尔.md "wikilink")\[9\]、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")、[斯里兰卡和其他南亚国家推出](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")。\[10\]第一批Android
+One智能手机是由印度品牌[Micromax](https://zh.wikipedia.org/wiki/Micromax "wikilink")、[Spice和](https://zh.wikipedia.org/wiki/Spice "wikilink")[Karbonn在](https://zh.wikipedia.org/wiki/Karbonn "wikilink")2014年9月推出，其他制造商如[巴基斯坦的](../Page/巴基斯坦.md "wikilink")[QMobile在](https://zh.wikipedia.org/wiki/QMobile "wikilink")2015年7月6日推出了名为[QMobile
+A1的Android](https://zh.wikipedia.org/wiki/QMobile_A1 "wikilink")
 One设备\[11\]。其他生产商亦加入Android One。
 
 2017年起，Google調整產品策略，將Android One提升為中階手機產品，原本針對開發中國家市場的入門產品改為[Android
-Go](../Page/Android_Go.md "wikilink")。
+Go](https://zh.wikipedia.org/wiki/Android_Go "wikilink")。
 
-常見的機型有[小米A1](../Page/小米A1.md "wikilink")、[小米A2](../Page/小米A2.md "wikilink")、[HTC
-U11 life](../Page/HTC_U11_life.md "wikilink")、[Nokia
-8.1](../Page/Nokia_8.1.md "wikilink")、[Nokia 7
-plus](../Page/Nokia_7_plus.md "wikilink")、[Nokia 8
-Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、[Nokia
-6.1](../Page/Nokia_6.1.md "wikilink")、[Nokia 6.1
-Plus](../Page/Nokia_6.1_Plus.md "wikilink")、Nokia 3.1、[LG G7
-One等等](../Page/LG_G7_One.md "wikilink")。
+常見的機型有[小米A1](https://zh.wikipedia.org/wiki/小米A1 "wikilink")、[小米A2](https://zh.wikipedia.org/wiki/小米A2 "wikilink")、[HTC
+U11 life](https://zh.wikipedia.org/wiki/HTC_U11_life "wikilink")、[Nokia
+8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")、[Nokia 7
+plus](https://zh.wikipedia.org/wiki/Nokia_7_plus "wikilink")、[Nokia 8
+Sirocco](https://zh.wikipedia.org/wiki/Nokia_8_Sirocco "wikilink")、[Nokia
+6.1](https://zh.wikipedia.org/wiki/Nokia_6.1 "wikilink")、[Nokia 6.1
+Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink")、Nokia
+3.1、[LG G7 One等等](https://zh.wikipedia.org/wiki/LG_G7_One "wikilink")。
 
 ## 引用
 

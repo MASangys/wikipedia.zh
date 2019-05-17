@@ -1,24 +1,24 @@
 《**X射線營地**》（英語：Camp
-X-Ray），又名《**戰犯風暴**》，是2014年的美國獨立[劇情片](../Page/劇情片.md "wikilink")，根據[關塔那摩灣拘押中心的X射線營地拘留設施拍攝](../Page/關塔那摩灣拘押中心.md "wikilink")。電影是由彼得·薩特勒（Peter
+X-Ray），又名《**戰犯風暴**》，是2014年的美國獨立[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，根據[關塔那摩灣拘押中心的X射線營地拘留設施拍攝](https://zh.wikipedia.org/wiki/關塔那摩灣拘押中心 "wikilink")。電影是由彼得·薩特勒（Peter
 Sattler）編導，[克莉絲汀·史都華](../Page/克莉絲汀·史都華.md "wikilink")、佩曼·莫阿迪（Peyman
-Moaadi）主演，約翰·卡羅爾·林奇、約瑟朱利安·索里亞，及[萊恩·加里森參演](../Page/萊恩·加里森.md "wikilink")。
+Moaadi）主演，約翰·卡羅爾·林奇、約瑟朱利安·索里亞，及[萊恩·加里森參演](https://zh.wikipedia.org/wiki/萊恩·加里森 "wikilink")。
 
-電影以美國戲劇競賽組別於2014年1月17日在[聖丹斯電影節](../Page/聖丹斯電影節.md "wikilink")2014上映，並於2014年10月17日由IFC電影公司發布。
+電影以美國戲劇競賽組別於2014年1月17日在[聖丹斯電影節](https://zh.wikipedia.org/wiki/聖丹斯電影節 "wikilink")2014上映，並於2014年10月17日由IFC電影公司發布。
 
 <span class="cx-segment" data-segmentid="135"></span>
 
 ## 內容
 
-電影開始時，電視上正播放著[911事件](../Page/九一一襲擊事件.md "wikilink")，當時居於[不來梅的](../Page/不來梅.md "wikilink")[突尼斯人阿里](../Page/突尼斯.md "wikilink")·阿米爾（彼得·薩特勒
-飾）剛回家並開始進行[禮拜儀式時被綁架](../Page/禮拜_\(伊斯蘭教\).md "wikilink")，並帶到[關塔那摩灣拘押中心](../Page/關塔那摩灣拘押中心.md "wikilink")，特別的德爾塔營（Camp
+電影開始時，電視上正播放著[911事件](https://zh.wikipedia.org/wiki/九一一襲擊事件 "wikilink")，當時居於[不來梅的](https://zh.wikipedia.org/wiki/不來梅 "wikilink")[突尼斯人阿里](https://zh.wikipedia.org/wiki/突尼斯 "wikilink")·阿米爾（彼得·薩特勒
+飾）剛回家並開始進行[禮拜儀式時被綁架](https://zh.wikipedia.org/wiki/禮拜_\(伊斯蘭教\) "wikilink")，並帶到[關塔那摩灣拘押中心](https://zh.wikipedia.org/wiki/關塔那摩灣拘押中心 "wikilink")，特別的德爾塔營（Camp
 Delta）。
 
 8年後，陸軍一等士兵艾美·可兒 （[克莉絲汀·史都華](../Page/克莉絲汀·史都華.md "wikilink")
-飾）被派往[關塔那摩灣拘押中心駐守](../Page/關塔那摩灣拘押中心.md "wikilink")。抵達後，她到初始反應部隊當志願者，儘管她鄙視對待拘留者的設施，但她需要對拘留者表現冷漠。艾美在營地逗留期間，阿里立即注意到她，阿里對她不斷提問，艾米對此感到惱火，不勝其煩，繼而忽略他，導致阿里有一天憤怒地向她潑糞。有一晚，艾美幾乎與下士蘭迪·蘭斯德爾（[萊恩·加里森](../Page/萊恩·加里森.md "wikilink")
+飾）被派往[關塔那摩灣拘押中心駐守](https://zh.wikipedia.org/wiki/關塔那摩灣拘押中心 "wikilink")。抵達後，她到初始反應部隊當志願者，儘管她鄙視對待拘留者的設施，但她需要對拘留者表現冷漠。艾美在營地逗留期間，阿里立即注意到她，阿里對她不斷提問，艾米對此感到惱火，不勝其煩，繼而忽略他，導致阿里有一天憤怒地向她潑糞。有一晚，艾美幾乎與下士蘭迪·蘭斯德爾（[萊恩·加里森](https://zh.wikipedia.org/wiki/萊恩·加里森 "wikilink")
 飾）發生關係，他對艾美有意，但他過於激進的行為使艾美感到反感而離開。
 <span class="cx-segment" data-segmentid="151"></span>
 
-另一天，阿里為了之前的行為接受紀律處分，艾美留意到阿里的檔案中有防止自殺的小冊子，發現他曾有自我傷害及紀律處分的記錄，並隨著時間的過去變得越來越暴力。在拘押中心設有書本借閱服務，阿里對《[哈利波特](../Page/哈利波特.md "wikilink")》系列有興趣，但他始終找不到系列的最後一冊—《[哈利波特－死神的聖物](../Page/哈利波特－死神的聖物.md "wikilink")》，那是他一直要求的，可惜希望一直落空，艾美跟阿里開始有著一種類似於朋友關係形式的互動。<span class="cx-segment" data-segmentid="158"></span>
+另一天，阿里為了之前的行為接受紀律處分，艾美留意到阿里的檔案中有防止自殺的小冊子，發現他曾有自我傷害及紀律處分的記錄，並隨著時間的過去變得越來越暴力。在拘押中心設有書本借閱服務，阿里對《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》系列有興趣，但他始終找不到系列的最後一冊—《[哈利波特－死神的聖物](https://zh.wikipedia.org/wiki/哈利波特－死神的聖物 "wikilink")》，那是他一直要求的，可惜希望一直落空，艾美跟阿里開始有著一種類似於朋友關係形式的互動。<span class="cx-segment" data-segmentid="158"></span>
 
 8個月後，蘭迪騙艾美要看著阿里淋浴，違反了標準程序及阿拉伯社會的規範。艾美發現後，向她的指揮官，詹姆斯·德拉蒙德上校（John Carroll
 Lynch
@@ -33,7 +33,8 @@ Lynch
   - 彼得·薩特勒 飾 阿里·阿米爾 \[2\]
   - Julia Duffy 飾 貝蒂·可兒
   - 約翰·卡羅爾·林奇 飾 詹姆斯·德拉蒙德上校
-  - [Lane Garrison](../Page/萊恩·加里森.md "wikilink") 飾 蘭迪·蘭斯德爾下士
+  - [Lane Garrison](https://zh.wikipedia.org/wiki/萊恩·加里森 "wikilink") 飾
+    蘭迪·蘭斯德爾下士
   - Joseph Julian Soria 飾 黎各·克魯茲 士兵
   - Tara Holt 飾 瑪莉·溫特斯 士兵
   - Ser'Darius Blain 飾 PFC 雷蒙德·傑克遜 士兵
@@ -43,28 +44,29 @@ Lynch
   - Robert Tarpinian 飾 拘留者 \#3
   - Yousuf Azami 飾 怒漢
   - Marco Khan 飾 馬哈茂德
-  - [Kyle Bornheimer](../Page/凱爾·柏海莫.md "wikilink") 飾 夜間主管 C.O.
+  - [Kyle Bornheimer](https://zh.wikipedia.org/wiki/凱爾·柏海莫 "wikilink") 飾
+    夜間主管 C.O.
   - Nawal Bengholam 飾 新聞主播
   - LaDell Preston as IRF \#1
   - Daniel Leavitt as IRF \#2
 
 ## 製作
 
-2014年2月6日，IFC電影公司宣布收購得到電影於[北美的播放權](../Page/北美.md "wikilink")\[3\]。流星LLC收購了電影於阿拉伯聯合酋長國分發電影的權利。EDGE
-娛樂將會在[丹麥](../Page/丹麥.md "wikilink")、[芬蘭](../Page/芬蘭.md "wikilink")、[挪威及](../Page/挪威.md "wikilink")[瑞典分發電影的權利](../Page/瑞典.md "wikilink")\[4\]。這部影片於2014年10月30日於[黎巴嫩及](../Page/黎巴嫩.md "wikilink")[伊拉克分發及上映](../Page/伊拉克.md "wikilink")。<span class="cx-segment" data-segmentid="224"></span>
+2014年2月6日，IFC電影公司宣布收購得到電影於[北美的播放權](https://zh.wikipedia.org/wiki/北美 "wikilink")\[3\]。流星LLC收購了電影於阿拉伯聯合酋長國分發電影的權利。EDGE
+娛樂將會在[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")、[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")、[挪威及](../Page/挪威.md "wikilink")[瑞典分發電影的權利](../Page/瑞典.md "wikilink")\[4\]。這部影片於2014年10月30日於[黎巴嫩及](../Page/黎巴嫩.md "wikilink")[伊拉克分發及上映](../Page/伊拉克.md "wikilink")。<span class="cx-segment" data-segmentid="224"></span>
 
 ### 拍攝
 
-X射線營地攝於[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[洛杉磯及](../Page/洛杉磯.md "wikilink")[惠提爾](../Page/惠提爾.md "wikilink")\[5\]。主要的拍攝在2013年7月17日，並於8月中結束\[6\]\[7\]。拍攝監獄場景的地點是加州惠蒂爾荒廢的弗雷德.C.尼爾斯青年懲教設施。\[8\]
+X射線營地攝於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯及](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[惠提爾](https://zh.wikipedia.org/wiki/惠提爾 "wikilink")\[5\]。主要的拍攝在2013年7月17日，並於8月中結束\[6\]\[7\]。拍攝監獄場景的地點是加州惠蒂爾荒廢的弗雷德.C.尼爾斯青年懲教設施。\[8\]
 
 ## 宣傳及營銷
 
 電影在2013年夏末到了後期製作。特別效果由Comen
-VFX製作\[9\]。2013年12月5日，公司宣布電影將以美國戲劇競賽組別，於1月17日在[聖丹斯電影節上映](../Page/聖丹斯電影節.md "wikilink")\[10\]。在2014年7月3日，發放了10張電影的新劇照\[11\]。IFC電影公司於2014年8月8日在[YouTube頻道發布了官方預告片](../Page/YouTube.md "wikilink")。\[12\]
+VFX製作\[9\]。2013年12月5日，公司宣布電影將以美國戲劇競賽組別，於1月17日在[聖丹斯電影節上映](https://zh.wikipedia.org/wiki/聖丹斯電影節 "wikilink")\[10\]。在2014年7月3日，發放了10張電影的新劇照\[11\]。IFC電影公司於2014年8月8日在[YouTube頻道發布了官方預告片](../Page/YouTube.md "wikilink")。\[12\]
 
-《X射線營地》因為含有粗言及短暫的裸露影像而被[美國電影協會評為R級別](../Page/美國電影協會.md "wikilink")\[13\]。電影於2014年10月17日在被選的戲院及視頻點播服務上映，包括[iTunes電影及](../Page/iTunes.md "wikilink")[Amazon.com視頻](../Page/亞馬遜公司.md "wikilink")\[14\]。此電影也被大西洋電影節、[多維爾美國電影節](../Page/多維爾美國電影節.md "wikilink")、[倫敦影展](../Page/倫敦影展.md "wikilink")、阿布扎比電影節、萊頓國際電影節、霍夫國際電影節，及[斯德哥爾摩電影節上映](../Page/斯德哥爾摩電影節.md "wikilink")\[15\]。
+《X射線營地》因為含有粗言及短暫的裸露影像而被[美國電影協會評為R級別](../Page/美國電影協會.md "wikilink")\[13\]。電影於2014年10月17日在被選的戲院及視頻點播服務上映，包括[iTunes電影及](https://zh.wikipedia.org/wiki/iTunes "wikilink")[Amazon.com視頻](../Page/亞馬遜公司.md "wikilink")\[14\]。此電影也被大西洋電影節、[多維爾美國電影節](https://zh.wikipedia.org/wiki/多維爾美國電影節 "wikilink")、[倫敦影展](../Page/倫敦影展.md "wikilink")、阿布扎比電影節、萊頓國際電影節、霍夫國際電影節，及[斯德哥爾摩電影節上映](https://zh.wikipedia.org/wiki/斯德哥爾摩電影節 "wikilink")\[15\]。
 
-X射線營地於2014年10月6日於[紐約市有個特別放映](../Page/紐約市.md "wikilink")。\[16\]
+X射線營地於2014年10月6日於[紐約市有個特別放映](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。\[16\]
 
 ## 原聲大碟
 

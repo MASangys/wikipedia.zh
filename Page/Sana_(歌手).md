@@ -2,9 +2,9 @@
 
 ## 簡歷
 
-2010年1月，開始以「鎖那」的名義在[NICONICO動畫上傳翻唱](../Page/NICONICO動畫.md "wikilink")[VOCALOID歌曲的影片](../Page/VOCALOID.md "wikilink")。
+2010年1月，開始以「鎖那」的名義在[NICONICO動畫上傳翻唱](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID歌曲的影片](../Page/VOCALOID.md "wikilink")。
 
-2015年5月，與於[NICONICO動畫活動的VOCALOID樂團](../Page/NICONICO動畫.md "wikilink")「[HoneyWorks](../Page/HoneyWorks.md "wikilink")」合作，由HoneyWorks負責作詞作曲，以「sana」的名義於2015年5月27日出道。同年7月，sana以嘉賓身分為[HoneyWorks的專輯](../Page/HoneyWorks.md "wikilink")《喜歡上你的那瞬間。》獻唱16首曲子\[4\]\[5\]。
+2015年5月，與於[NICONICO動畫活動的VOCALOID樂團](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「[HoneyWorks](../Page/HoneyWorks.md "wikilink")」合作，由HoneyWorks負責作詞作曲，以「sana」的名義於2015年5月27日出道。同年7月，sana以嘉賓身分為[HoneyWorks的專輯](../Page/HoneyWorks.md "wikilink")《喜歡上你的那瞬間。》獻唱16首曲子\[4\]\[5\]。
 
 ## 唱片
 
@@ -16,10 +16,10 @@
 曉月夜**》（）是sana和HoneyWorks合作推出的第一張單曲，而不需要言語的約定為電視動畫《[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")》的ED。單曲分為兩種版本，分別為：
 
   - 期間生產限定動畫盤
-      - [規格編號](../Page/規格編號.md "wikilink")：SMCL-382
+      - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-382
       - 封面為漩渦鳴人
   - sana / HoneyWorks盤
-      - [規格編號](../Page/規格編號.md "wikilink")：SMCL-381
+      - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-381
       - 封面為sana，由Yamako繪製
 
 ### 專輯

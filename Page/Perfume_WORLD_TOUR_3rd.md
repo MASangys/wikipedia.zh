@@ -2,7 +2,7 @@
 YouTube](http://www.youtube.com/watch?v=Y6wHbccdjyo) | video2 = [廣告 -
 YouTube](https://www.youtube.com/watch?v=A0gMGgT1EiI) }} 《**Perfume
 WORLD TOUR
-3rd**》是[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第](../Page/Perfume.md "wikilink")11張演唱會[DVD](../Page/DVD.md "wikilink")（CD附屬的DVD除外）。
+3rd**》是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume "wikilink")11張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（CD附屬的DVD除外）。
 
 ## 包裝
 
@@ -12,7 +12,7 @@ WORLD TOUR
 ## 收錄影像
 
 收錄了在2014年世界各地舉行的海外巡演『Perfume WORLD TOUR
-3rd』，當中在美國[紐約的公演全場影像](../Page/紐約.md "wikilink")，以及在其他巡演地點（台灣、新加坡、洛杉磯和倫敦）的MC和演出影像\[1\]。
+3rd』，當中在美國[紐約的公演全場影像](https://zh.wikipedia.org/wiki/紐約 "wikilink")，以及在其他巡演地點（台灣、新加坡、洛杉磯和倫敦）的MC和演出影像\[1\]。
 
 **影像作品特典**
 

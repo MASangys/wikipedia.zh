@@ -1,7 +1,7 @@
-《**新宿D×D**》（），原作為日本漫畫家[安童夕馬](../Page/安童夕馬.md "wikilink")，臺灣漫畫家[彭傑作畫](../Page/彭傑.md "wikilink")，[友善文創](../Page/友善文創.md "wikilink")（Friendly
+《**新宿D×D**》（），原作為日本漫畫家[安童夕馬](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")，臺灣漫畫家[彭傑作畫](../Page/彭傑.md "wikilink")，[友善文創](https://zh.wikipedia.org/wiki/友善文創 "wikilink")（Friendly
 Land）\[1\]協力製作。
 
-2014年於手機漫畫[app](../Page/app.md "wikilink")「[漫畫王](../Page/漫畫王.md "wikilink")」上每週連載，由《[講談社](../Page/講談社.md "wikilink")》發行單行本。2015年八月，官方[Twitter表示單行本只會出到第三集](../Page/Twitter.md "wikilink")。\[2\]
+2014年於手機漫畫[app](https://zh.wikipedia.org/wiki/app "wikilink")「[漫畫王](https://zh.wikipedia.org/wiki/漫畫王 "wikilink")」上每週連載，由《[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")》發行單行本。2015年八月，官方[Twitter表示單行本只會出到第三集](../Page/Twitter.md "wikilink")。\[2\]
 
 ## 概要
 
@@ -33,13 +33,13 @@ Land）\[1\]協力製作。
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>

@@ -1,4 +1,4 @@
-**鈴木Twin**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](../Page/鈴木公司.md "wikilink")2003年至2005年間開發製造的雙人座[輕型車](../Page/輕型車.md "wikilink")，另有版本，為日本[輕型車首創](../Page/輕型車.md "wikilink")。
+**鈴木Twin**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2003年至2005年間開發製造的雙人座[輕型車](../Page/輕型車.md "wikilink")，另有版本，為日本[輕型車首創](../Page/輕型車.md "wikilink")。
 
 ## 歷史與概要
 
@@ -6,14 +6,14 @@
 Commuter」的[概念車](../Page/概念車.md "wikilink")\[1\]\[2\]，這是一輛雙人座的[都市車](../Page/都市車.md "wikilink")。
 
 2003年 - 1月22日正式將PU-3
-Commuter量產上市，取名為**鈴木Twin**\[3\]。採用雙門雙人座、[前輪驅動之設定](../Page/前輪驅動.md "wikilink")，動力心臟為658c.c.直列三缸DOHC
-[K6A型引擎](../Page/鈴木K族引擎#K6A型.md "wikilink")，可發揮44hp / 5,500rpm以及5.8kg·m
-/
+Commuter量產上市，取名為**鈴木Twin**\[3\]。採用雙門雙人座、[前輪驅動之設定](https://zh.wikipedia.org/wiki/前輪驅動 "wikilink")，動力心臟為658c.c.直列三缸DOHC
+[K6A型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")，可發揮44hp /
+5,500rpm以及5.8kg·m /
 3,500rpm之[功率](../Page/功率.md "wikilink")。搭配五速手動排檔或三速自動排檔的變速箱，可創造出26.0km/L的平均油耗表現。
 
-另有版本，以最高出力5[kW的](../Page/瓦特#千瓦.md "wikilink")[電動馬達輔助K](../Page/电动机.md "wikilink")6A型引擎，配置先進的怠速停止運轉的功能，搭配四速自排變速箱的情況下可創造34.0km/L的平均油耗表現。此外其蓄電池亦迥異於一般油電混合動力車，乃以[摩托車用免加水MF電池改良而成](../Page/摩托車.md "wikilink")：將8個12[伏特的MF電池直列排成一組](../Page/伏特.md "wikilink")，再排成2組以輸出192伏特之功率。
+另有版本，以最高出力5[kW的](https://zh.wikipedia.org/wiki/瓦特#千瓦 "wikilink")[電動馬達輔助K](../Page/电动机.md "wikilink")6A型引擎，配置先進的怠速停止運轉的功能，搭配四速自排變速箱的情況下可創造34.0km/L的平均油耗表現。此外其蓄電池亦迥異於一般油電混合動力車，乃以[摩托車用免加水MF電池改良而成](../Page/摩托車.md "wikilink")：將8個12[伏特的MF電池直列排成一組](../Page/伏特.md "wikilink")，再排成2組以輸出192伏特之功率。
 
-不過這部車僅能乘坐2人，和[輕型車相比配備陽春](../Page/輕型車.md "wikilink")（標準配備為雙座SRS[安全氣囊](../Page/安全氣囊.md "wikilink")、四輪ABS[防鎖死煞車系統等](../Page/防鎖死煞車系統.md "wikilink")）、價格昂貴，加上當時沒有重大的[能源危機問題](../Page/能源危機.md "wikilink")。2005年9月30日此車款宣告停產，總生產數量是10,106輛。
+不過這部車僅能乘坐2人，和[輕型車相比配備陽春](../Page/輕型車.md "wikilink")（標準配備為雙座SRS[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、四輪ABS[防鎖死煞車系統等](../Page/防鎖死煞車系統.md "wikilink")）、價格昂貴，加上當時沒有重大的[能源危機問題](../Page/能源危機.md "wikilink")。2005年9月30日此車款宣告停產，總生產數量是10,106輛。
 
 ### 安全性召回
 
@@ -28,7 +28,7 @@ Twin interior.jpg|內裝
 
 ## 內部連結
 
-  - [鈴木Choinori](../Page/鈴木Choinori.md "wikilink")：秉持相同造車理念的[摩托化自行車](../Page/摩托化自行車.md "wikilink")。
+  - [鈴木Choinori](https://zh.wikipedia.org/wiki/鈴木Choinori "wikilink")：秉持相同造車理念的[摩托化自行車](https://zh.wikipedia.org/wiki/摩托化自行車 "wikilink")。
 
 ## 參考資料
 

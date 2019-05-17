@@ -1,5 +1,5 @@
 《**高捷少女角色形象歌曲
-Station.1**》是[臺灣](../Page/臺灣.md "wikilink")[高雄捷運虛擬](../Page/高雄捷運.md "wikilink")[代言人](../Page/吉祥物.md "wikilink")[高捷少女的第一張](../Page/高捷少女.md "wikilink")[單曲專輯](../Page/單曲.md "wikilink")。於2016年1月30日在[第27屆開拓動漫祭首次發售](../Page/開拓動漫祭.md "wikilink")，亦於[買動漫上架](../Page/買動漫.md "wikilink")\[1\]，已於2017年2月下架。
+Station.1**》是[臺灣](../Page/臺灣.md "wikilink")[高雄捷運虛擬](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")[代言人](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[高捷少女的第一張](../Page/高捷少女.md "wikilink")[單曲專輯](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年1月30日在[第27屆開拓動漫祭首次發售](../Page/開拓動漫祭.md "wikilink")，亦於[買動漫上架](https://zh.wikipedia.org/wiki/買動漫 "wikilink")\[1\]，已於2017年2月下架。
 
 ## 概要
 
@@ -38,7 +38,7 @@ Station](../Page/前進吧！高捷少女_Initiating_Station.md "wikilink")》�
 
 ## 相關頁面
 
-  - [高雄捷運](../Page/高雄捷運.md "wikilink")
+  - [高雄捷運](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
   - [高捷少女](../Page/高捷少女.md "wikilink")
   - [前進吧！高捷少女 Initiating
     Station](../Page/前進吧！高捷少女_Initiating_Station.md "wikilink")

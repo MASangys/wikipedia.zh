@@ -4,7 +4,7 @@ Capital**）是一所由[Alphabet](../Page/Alphabet.md "wikilink")（原[Google]
 自2013年以来，CapitalG已经投资了超过19家公司，涵盖了金融技术、医疗保险和电子学习等领域。
 
 2015年8月10日，Google宣布进行企业重组，CapitalG成为了重组后的公司——[Alphabet
-Inc.的子公司](../Page/Alphabet_Inc..md "wikilink")。\[3\]
+Inc.的子公司](https://zh.wikipedia.org/wiki/Alphabet_Inc. "wikilink")。\[3\]
 
 ## 团队
 
@@ -17,23 +17,24 @@ Fratz（在TPG有13年的工作经验）。\[4\]<span class="cx-segment" data-se
 ## 投资历史
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Google_Capital_logo.png "fig:缩略图")
-2013年，CapitalG宣布对[SurveyMonkey](../Page/SurveyMonkey.md "wikilink")（以云计算为基础的网络调查服务商）和[借贷俱乐部](../Page/借貸俱樂部.md "wikilink")（总部设在[旧金山的美国P](../Page/旧金山.md "wikilink")2P借贷平台）发起投资。\[6\]\[7\]
+2013年，CapitalG宣布对[SurveyMonkey](https://zh.wikipedia.org/wiki/SurveyMonkey "wikilink")（以云计算为基础的网络调查服务商）和[借贷俱乐部](https://zh.wikipedia.org/wiki/借貸俱樂部 "wikilink")（总部设在[旧金山的美国P](../Page/旧金山.md "wikilink")2P借贷平台）发起投资。\[6\]\[7\]
 
-2014年，CapitalG对[印度房地产门户网站](../Page/印度.md "wikilink")[CommonFloor](../Page/CommonFloor.md "wikilink")、\[8\][美国公司](../Page/美国.md "wikilink")[Freshdesk](../Page/Freshdesk.md "wikilink")、\[9\][美国财务管理平台](../Page/美国.md "wikilink")[Credit
-Karma](../Page/Credit_Karma.md "wikilink")、\[10\]和[中国高科技公司](../Page/中国.md "wikilink")[苏州旭创科技有限公司](../Page/苏州旭创科技有限公司.md "wikilink")\[11\]\[12\]等九家公司发起投资。
+2014年，CapitalG对[印度房地产门户网站](../Page/印度.md "wikilink")[CommonFloor](https://zh.wikipedia.org/wiki/CommonFloor "wikilink")、\[8\][美国公司](../Page/美国.md "wikilink")[Freshdesk](https://zh.wikipedia.org/wiki/Freshdesk "wikilink")、\[9\][美国财务管理平台](../Page/美国.md "wikilink")[Credit
+Karma](https://zh.wikipedia.org/wiki/Credit_Karma "wikilink")、\[10\]和[中国高科技公司](https://zh.wikipedia.org/wiki/中国 "wikilink")[苏州旭创科技有限公司](https://zh.wikipedia.org/wiki/苏州旭创科技有限公司 "wikilink")\[11\]\[12\]等九家公司发起投资。
 
-2015年4月，CapitalG宣布对美国薪酬计算公司[ZenPayroll发起投资](../Page/ZenPayroll.md "wikilink")。\[13\]
+2015年4月，CapitalG宣布对美国薪酬计算公司[ZenPayroll发起投资](https://zh.wikipedia.org/wiki/ZenPayroll "wikilink")。\[13\]
 
-2015年9月，CapitalG宣布对美国[医疗保险公司](../Page/医疗保险.md "wikilink")[Oscar
-Health发起投资](../Page/Oscar_Health.md "wikilink")。\[14\]
+2015年9月，CapitalG宣布对美国[医疗保险公司](https://zh.wikipedia.org/wiki/医疗保险 "wikilink")[Oscar
+Health发起投资](https://zh.wikipedia.org/wiki/Oscar_Health "wikilink")。\[14\]
 
-## 与[Google Ventures的关系](../Page/Google_Ventures.md "wikilink")
+## 与[Google Ventures的关系](https://zh.wikipedia.org/wiki/Google_Ventures "wikilink")
 
-CapitalG主要投资已有稳定的基础且准备好进行商业扩张的公司，而[GV主要投资新公司](../Page/Ventures.md "wikilink")。
+CapitalG主要投资已有稳定的基础且准备好进行商业扩张的公司，而[GV主要投资新公司](https://zh.wikipedia.org/wiki/Ventures "wikilink")。
 
 ## 相关条目
 
-  - [Google Ventures](../Page/Google_Ventures.md "wikilink")
+  - [Google
+    Ventures](https://zh.wikipedia.org/wiki/Google_Ventures "wikilink")
   - [Google](../Page/Google.md "wikilink")
   - [Alphabet](../Page/Alphabet.md "wikilink")
 

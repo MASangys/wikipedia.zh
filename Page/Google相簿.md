@@ -2,8 +2,8 @@
 
 ## 服务
 
-Google相册是一个照片和视频存储和分享服务。它的核心功能之前集成在[Google+中](../Page/Google+.md "wikilink")。新的Google相册包含无限的照片、视频存储，[Android](../Page/Android.md "wikilink")、[iOS和网页版应用](../Page/iOS.md "wikilink")。无限存储支持最大1600万像素的照片和最大分辨率为1080p的视频。更大的文件使用[Google
-Drive存储空间](../Page/Google_Drive.md "wikilink")。这项服务分析并整理图片到群组，可识别照片特征，如海滩、地平线、“多伦多的暴风雪”。\[1\]
+Google相册是一个照片和视频存储和分享服务。它的核心功能之前集成在[Google+中](../Page/Google+.md "wikilink")。新的Google相册包含无限的照片、视频存储，[Android](../Page/Android.md "wikilink")、[iOS和网页版应用](https://zh.wikipedia.org/wiki/iOS "wikilink")。无限存储支持最大1600万像素的照片和最大分辨率为1080p的视频。更大的文件使用[Google
+Drive存储空间](https://zh.wikipedia.org/wiki/Google_Drive "wikilink")。这项服务分析并整理图片到群组，可识别照片特征，如海滩、地平线、“多伦多的暴风雪”。\[1\]
 它还可以识别一个人不同年龄的脸。共享图片的接收者可浏览图库而无须下载应用。\[2\]用户可滑动屏幕调整照片编辑设置，而不使用滑块。\[3\]
 
 ## 历史
@@ -11,11 +11,11 @@ Drive存储空间](../Page/Google_Drive.md "wikilink")。这项服务分析并�
 Google相册是Google+中照片功能的独立后续。Google启动Google+以和[Facebook竞争](../Page/Facebook.md "wikilink")，但它从未十分流行，Facebook仍是互联网上图片分享的首选网站。尽管Google+缺少用户基础，Google+提供超越Facebook的图片存储和管理工具。[The
 Verge赞赏了Google](../Page/The_Verge.md "wikilink")+照片功能，尤其是和其他在线服务做对比时。他们特别提到了一个可以将连拍和视频重新包装的工具。
 Google将Google+功能分离出来，成为独立的Google相册服务，并在[Google
-I/O](../Page/Google_I/O.md "wikilink") 2015上宣布。
+I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink") 2015上宣布。
 
 在Google相册发布满1年的时刻，Google在博客上宣布此服务积累了2亿月活跃用户，为用户节省13.7
 PB的存储空间，应用了2万亿个标签，备份照片中有240亿张自拍。\[4\]Google相册负责人Anil
-Sabharwal在接受[Buzzfeed采访时评价此服务是](../Page/Buzzfeed.md "wikilink")“公司历史上发展最快的消费产品之一”，其未来的发展包括三方面：智能存储、Google助手和智能分享。\[5\]
+Sabharwal在接受[Buzzfeed采访时评价此服务是](https://zh.wikipedia.org/wiki/Buzzfeed "wikilink")“公司历史上发展最快的消费产品之一”，其未来的发展包括三方面：智能存储、Google助手和智能分享。\[5\]
 
 ## 参见
 

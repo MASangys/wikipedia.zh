@@ -1,5 +1,5 @@
 邁克 D.安吉洛（，），本名'''披拉·尼迪裴善官
-'''（），[泰國](../Page/泰國.md "wikilink")[男演員](../Page/男演員.md "wikilink")、[男歌手](../Page/男歌手.md "wikilink")，中泰混血，爺爺是中國人，中國姓氏為‘吳’。爸爸擁有皮革制品公司和Michelangelo品牌，Mike的小名和藝名均出自該品牌名稱。
+'''（），[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")、[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，中泰混血，爺爺是中國人，中國姓氏為‘吳’。爸爸擁有皮革制品公司和Michelangelo品牌，Mike的小名和藝名均出自該品牌名稱。
 
 ## 簡介
 
@@ -66,7 +66,7 @@
 <tr class="even">
 <td><CENTER>
 <p>2014年</p></td>
-<td><p>《<a href="../Page/Full_House浪漫滿屋.md" title="wikilink">Full House浪漫滿屋</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Full_House浪漫滿屋" title="wikilink">Full House浪漫滿屋</a>》</p></td>
 <td><p>Mike</p></td>
 <td><p>與<a href="../Page/李海娜.md" title="wikilink">李海娜主演</a></p></td>
 </tr>
@@ -77,7 +77,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/迷幻天使.md" title="wikilink">迷幻天使</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/迷幻天使" title="wikilink">迷幻天使</a>》</p></td>
 <td><p>拉敏</p></td>
 <td></td>
 <td></td>
@@ -85,7 +85,7 @@
 <tr class="odd">
 <td><CENTER>
 <p>2015年</p></td>
-<td><p>《<a href="../Page/無心法師.md" title="wikilink">無心法師</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/無心法師" title="wikilink">無心法師</a>》</p></td>
 <td><p>白琉璃</p></td>
 <td></td>
 </tr>
@@ -98,31 +98,31 @@
 <tr class="odd">
 <td><CENTER>
 <p>2016年</p></td>
-<td><p>《<a href="../Page/青丘狐傳說.md" title="wikilink">青丘狐傳說</a>——義狐篇·胡四》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/青丘狐傳說" title="wikilink">青丘狐傳說</a>——義狐篇·胡四》</p></td>
 <td><p>胡四</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/親愛的，公主病.md" title="wikilink">親愛的，公主病</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/親愛的，公主病" title="wikilink">親愛的，公主病</a>》</p></td>
 <td><p>江念雨</p></td>
-<td><p>與<a href="../Page/張予曦.md" title="wikilink">張予曦主演</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/張予曦" title="wikilink">張予曦主演</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><CENTER>
 <p>2017年</p></td>
-<td><p>《<a href="../Page/小情人.md" title="wikilink">小情人</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/小情人" title="wikilink">小情人</a>》</p></td>
 <td><p>宮嚴</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/無心法師II.md" title="wikilink">無心法師II</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/無心法師II" title="wikilink">無心法師II</a>》</p></td>
 <td><p>白琉璃</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/美味奇緣.md" title="wikilink">美味奇緣</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/美味奇緣" title="wikilink">美味奇緣</a>》</p></td>
 <td><p>李雨哲</p></td>
 <td><p>與<a href="../Page/毛曉彤.md" title="wikilink">毛曉彤主演</a></p></td>
 <td></td>
@@ -142,6 +142,13 @@
 <td><p>網絡劇</p></td>
 </tr>
 <tr class="even">
+<td><CENTER>
+<p>待播</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/京港爱情故事" title="wikilink">京港爱情故事</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -165,7 +172,7 @@
 <tr class="odd">
 <td><CENTER>
 <p>2010年</p></td>
-<td><p>《<a href="../Page/永恒.md" title="wikilink">永恒</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/永恒" title="wikilink">永恒</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -179,9 +186,9 @@
 <tr class="odd">
 <td><CENTER>
 <p>2015年</p></td>
-<td><p>《<a href="../Page/万万没想到：西游篇.md" title="wikilink">万万没想到：西游篇</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/万万没想到：西游篇" title="wikilink">万万没想到：西游篇</a>》</p></td>
 <td><p>豬八戒</p></td>
-<td><p>與<a href="../Page/白客.md" title="wikilink">白客</a>、<a href="../Page/陳柏霖.md" title="wikilink">陳柏霖合作主演</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/白客" title="wikilink">白客</a>、<a href="../Page/陳柏霖.md" title="wikilink">陳柏霖合作主演</a></p></td>
 </tr>
 <tr class="even">
 <td><p>《面若桃花》</p></td>
@@ -234,7 +241,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/快樂大本營.md" title="wikilink">快樂大本營</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快樂大本營" title="wikilink">快樂大本營</a></p></td>
 <td><p>20151212期</p></td>
 <td></td>
 </tr>
@@ -246,7 +253,7 @@
 <tr class="even">
 <td><CENTER>
 <p>2017年</p></td>
-<td><p><a href="../Page/中餐厅.md" title="wikilink">中餐廳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中餐厅" title="wikilink">中餐廳</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -260,7 +267,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/快樂大本營.md" title="wikilink">快樂大本營</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快樂大本營" title="wikilink">快樂大本營</a></p></td>
 <td><p>20170916期</p></td>
 <td></td>
 </tr>
@@ -272,16 +279,16 @@
 <tr class="odd">
 <td><CENTER>
 <p>2018</p></td>
-<td><p><a href="../Page/非常靜距離.md" title="wikilink">非常靜距離</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/非常靜距離" title="wikilink">非常靜距離</a></p></td>
 <td><p>20180104期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/快樂大本營.md" title="wikilink">快樂大本營</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快樂大本營" title="wikilink">快樂大本營</a></p></td>
 <td><p>20180421期</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/快樂大本營.md" title="wikilink">快樂大本營</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快樂大本營" title="wikilink">快樂大本營</a></p></td>
 <td><p>20181027期</p></td>
 <td></td>
 </tr>
@@ -296,7 +303,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/超新星全運動會.md" title="wikilink">超新星全運動會</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超新星全運動會" title="wikilink">超新星全運動會</a></p></td>
 <td><p>男子射箭, 男子跳高</p></td>
 <td></td>
 </tr>
@@ -467,17 +474,17 @@
 <td><CENTER>
 <p>2012年</p></td>
 <td><p>只是男子(不是魔術師)</p></td>
-<td><p>電視劇《<a href="../Page/善德之源.md" title="wikilink">善德之源</a>》片頭曲</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/善德之源" title="wikilink">善德之源</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><CENTER>
 <p>2013年</p></td>
 <td><p>break you off tonight</p></td>
-<td><p>電視劇《<a href="../Page/Full_House.md" title="wikilink">Full House</a>》OST</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/Full_House" title="wikilink">Full House</a>》OST</p></td>
 </tr>
 <tr class="even">
 <td><p>Oh baby I</p></td>
-<td><p>電視劇《<a href="../Page/Full_House.md" title="wikilink">Full House</a>》OST(對唱版)</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/Full_House" title="wikilink">Full House</a>》OST(對唱版)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -488,12 +495,12 @@
 </tr>
 <tr class="even">
 <td><p>Oh baby I</p></td>
-<td><p>電視劇《<a href="../Page/Full_House.md" title="wikilink">Full House</a>》OST(獨唱版)</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/Full_House" title="wikilink">Full House</a>》OST(獨唱版)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>讓我成為你愛的男人</p></td>
-<td><p>電視劇《<a href="../Page/Full_House.md" title="wikilink">Full House</a>》OST</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/Full_House" title="wikilink">Full House</a>》OST</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -516,7 +523,7 @@
 <td><CENTER>
 <p>2017年</p></td>
 <td><p>遙遠的諾言</p></td>
-<td><p>電視劇《<a href="../Page/美味奇緣.md" title="wikilink">美味奇緣</a>》片尾曲（與<a href="../Page/毛曉彤.md" title="wikilink">毛曉彤合唱</a>）</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/美味奇緣" title="wikilink">美味奇緣</a>》片尾曲（與<a href="../Page/毛曉彤.md" title="wikilink">毛曉彤合唱</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>Together forever</p></td>
@@ -549,25 +556,25 @@
 
 ### 演唱會
 
-| 年份                                         | 活動                                                     | 備註   |
-| ------------------------------------------ | ------------------------------------------------------ | ---- |
-| 2004年                                      | Bird Thongchai McIntyre's For Fan Fun Fair Concert開幕表演 | 表演嘉賓 |
-| 2006年                                      | Let's Bounce Concert                                   |      |
-| The Show Must Go On Concert                | by Golf-Mike & Friends                                 |      |
-| 2007年                                      | One By One Concert                                     |      |
-| 2008年                                      | Golf & Mike Get Ready Concert                          |      |
-| 2009年                                      | Variety Live Concert by Ice Sarunyu รวมมิตรใส่น้ำแข็ง  | 表演嘉賓 |
-| The Closer Golf-Mike National Tour Concert |                                                        |      |
-| 2010年                                      | This Is It The Concer                                  |      |
-| 2013年                                      | ทหารเสือสาว Limited Edition Live Show                  | 表演嘉賓 |
-| 2014年                                      | [音樂風雲榜年度盛典](../Page/音樂風雲榜年度盛典.md "wikilink")—中國        | 表演嘉賓 |
-| Waterzonic electronic Music-Water Festival | 表演嘉賓                                                   |      |
-| 2015年                                      | 酷音樂亞洲盛典—中國                                             | 表演嘉賓 |
-| 2017年                                      | Mike生日見面會                                              |      |
-| 2018                                       | 第四屆成龍國際動作電影節開幕式演唱會—中國                                  | 表演嘉賓 |
-| 酷狗星樂坊mini concert                          |                                                        |      |
-| QQ音乐主办的MikeAngelo粉丝见面会                     |                                                        |      |
-| 愛奇藝中國音樂公告牌                                 |                                                        |      |
+| 年份                                         | 活動                                                                 | 備註   |
+| ------------------------------------------ | ------------------------------------------------------------------ | ---- |
+| 2004年                                      | Bird Thongchai McIntyre's For Fan Fun Fair Concert開幕表演             | 表演嘉賓 |
+| 2006年                                      | Let's Bounce Concert                                               |      |
+| The Show Must Go On Concert                | by Golf-Mike & Friends                                             |      |
+| 2007年                                      | One By One Concert                                                 |      |
+| 2008年                                      | Golf & Mike Get Ready Concert                                      |      |
+| 2009年                                      | Variety Live Concert by Ice Sarunyu รวมมิตรใส่น้ำแข็ง              | 表演嘉賓 |
+| The Closer Golf-Mike National Tour Concert |                                                                    |      |
+| 2010年                                      | This Is It The Concer                                              |      |
+| 2013年                                      | ทหารเสือสาว Limited Edition Live Show                              | 表演嘉賓 |
+| 2014年                                      | [音樂風雲榜年度盛典](https://zh.wikipedia.org/wiki/音樂風雲榜年度盛典 "wikilink")—中國 | 表演嘉賓 |
+| Waterzonic electronic Music-Water Festival | 表演嘉賓                                                               |      |
+| 2015年                                      | 酷音樂亞洲盛典—中國                                                         | 表演嘉賓 |
+| 2017年                                      | Mike生日見面會                                                          |      |
+| 2018                                       | 第四屆成龍國際動作電影節開幕式演唱會—中國                                              | 表演嘉賓 |
+| 酷狗星樂坊mini concert                          |                                                                    |      |
+| QQ音乐主办的MikeAngelo粉丝见面会                     |                                                                    |      |
+| 愛奇藝中國音樂公告牌                                 |                                                                    |      |
 
 ### 專輯
 

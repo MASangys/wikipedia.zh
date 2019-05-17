@@ -1,98 +1,133 @@
-**TalonSoft**，是[美國马里兰州巴尔的摩电脑游戏开发商](../Page/美國.md "wikilink")，由吉姆·罗斯和约翰·戴维森成立于1995年。该公司专门从事战争类游戏。
+**TalonSoft**，是[美國马里兰州巴尔的摩电脑游戏开发商](https://zh.wikipedia.org/wiki/美國 "wikilink")，由吉姆·罗斯和约翰·戴维森成立于1995年。该公司专门从事战争类游戏。
 
-2000年初，TalonSoft由[Take-Two收购](../Page/Take-Two.md "wikilink")，成为Take-Two的一个品牌，直到2005年結業。2005年10月，[Matrix
-Games获得TalonSoft的大多数游戏的出版权利](../Page/Matrix_Games.md "wikilink")。
+2000年初，TalonSoft由[Take-Two收购](https://zh.wikipedia.org/wiki/Take-Two "wikilink")，成为Take-Two的一个品牌，直到2005年結業。2005年10月，[Matrix
+Games获得TalonSoft的大多数游戏的出版权利](https://zh.wikipedia.org/wiki/Matrix_Games "wikilink")。
 
 ## 由TalonSoft制作和发行
 
   - Battleground系列
       - [Battleground:
-        Bulge-Ardennes](../Page/Battleground:_Bulge-Ardennes.md "wikilink")
+        Bulge-Ardennes](https://zh.wikipedia.org/wiki/Battleground:_Bulge-Ardennes "wikilink")
         (1995)
       - [Battleground 2:
-        Gettysburg](../Page/Battleground_2:_Gettysburg.md "wikilink")
+        Gettysburg](https://zh.wikipedia.org/wiki/Battleground_2:_Gettysburg "wikilink")
         (1995)
       - [Battleground 3:
-        Waterloo](../Page/Battleground_3:_Waterloo.md "wikilink") (1996)
+        Waterloo](https://zh.wikipedia.org/wiki/Battleground_3:_Waterloo "wikilink")
+        (1996)
       - [Battleground 4:
-        Shiloh](../Page/Battleground_4:_Shiloh.md "wikilink") (1996)
+        Shiloh](https://zh.wikipedia.org/wiki/Battleground_4:_Shiloh "wikilink")
+        (1996)
       - [Battleground 5:
-        Antietam](../Page/Battleground_5:_Antietam.md "wikilink") (1996)
+        Antietam](https://zh.wikipedia.org/wiki/Battleground_5:_Antietam "wikilink")
+        (1996)
       - [Battleground 6: Napoleon in
-        Russia](../Page/Battleground_6:_Napoleon_in_Russia.md "wikilink")
+        Russia](https://zh.wikipedia.org/wiki/Battleground_6:_Napoleon_in_Russia "wikilink")
         (1997)
       - [Battleground 7: Bull
-        Run](../Page/Battleground_7:_Bull_Run.md "wikilink") (1997)
+        Run](https://zh.wikipedia.org/wiki/Battleground_7:_Bull_Run "wikilink")
+        (1997)
       - [Battleground 8: Prelude to
-        Waterloo](../Page/Battleground_8:_Prelude_to_Waterloo.md "wikilink")
+        Waterloo](https://zh.wikipedia.org/wiki/Battleground_8:_Prelude_to_Waterloo "wikilink")
         (1997)
       - [Battleground 9:
-        Chickamauga](../Page/Battleground_9:_Chickamauga.md "wikilink")
+        Chickamauga](https://zh.wikipedia.org/wiki/Battleground_9:_Chickamauga "wikilink")
         (1999)
       - [Battleground 10: Middle
-        East](../Page/Battleground_10:_Middle_East.md "wikilink") (1997)
+        East](https://zh.wikipedia.org/wiki/Battleground_10:_Middle_East "wikilink")
+        (1997)
       - [Battleground 11: East
-        Front](../Page/East_Front_\(game\).md "wikilink") (1997)
+        Front](https://zh.wikipedia.org/wiki/East_Front_\(game\) "wikilink")
+        (1997)
   - Age of Sail系列
-      - [Age of Sail](../Page/Age_of_Sail_\(game\).md "wikilink") (1996)
-      - [Age of Sail II](../Page/Age_of_Sail_II_\(game\).md "wikilink")
+      - [Age of
+        Sail](https://zh.wikipedia.org/wiki/Age_of_Sail_\(game\) "wikilink")
+        (1996)
+      - [Age of Sail
+        II](https://zh.wikipedia.org/wiki/Age_of_Sail_II_\(game\) "wikilink")
         (2001)
   - Campaign系列
-      - [West Front](../Page/West_Front_\(game\).md "wikilink") (1998)
-      - [East Front II](../Page/East_Front_II.md "wikilink") (1999)
-      - [Rising Sun](../Page/Rising_Sun_\(game\).md "wikilink") (2000)
+      - [West
+        Front](https://zh.wikipedia.org/wiki/West_Front_\(game\) "wikilink")
+        (1998)
+      - [East Front
+        II](https://zh.wikipedia.org/wiki/East_Front_II "wikilink")
+        (1999)
+      - [Rising
+        Sun](https://zh.wikipedia.org/wiki/Rising_Sun_\(game\) "wikilink")
+        (2000)
       - [Divided Ground: Middle East
-        Conflict](../Page/Divided_Ground:_Middle_East_Conflict.md "wikilink")
+        Conflict](https://zh.wikipedia.org/wiki/Divided_Ground:_Middle_East_Conflict "wikilink")
         (2001)
   - [The Operational Art of
-    War](../Page/The_Operational_Art_of_War.md "wikilink") series
+    War](https://zh.wikipedia.org/wiki/The_Operational_Art_of_War "wikilink")
+    series
       - The Operational Art of War Volume I (1998)
       - The Operational Art of War II (1999)
-  - [Age of Ironclads](../Page/Age_of_Ironclads.md "wikilink") (1997,
-    possibly cancelled)
+  - [Age of
+    Ironclads](https://zh.wikipedia.org/wiki/Age_of_Ironclads "wikilink")
+    (1997, possibly cancelled)
   - [12 O'Clock High: Bombing the
-    Reich](../Page/12_O'Clock_High:_Bombing_the_Reich.md "wikilink")
+    Reich](https://zh.wikipedia.org/wiki/12_O'Clock_High:_Bombing_the_Reich "wikilink")
     (1999)
   - [Gettysburg: The American Civil
-    War](../Page/Gettysburg:_The_American_Civil_War.md "wikilink")
+    War](https://zh.wikipedia.org/wiki/Gettysburg:_The_American_Civil_War "wikilink")
     (2006)
   - [John Tiller's Campaign
-    Series](../Page/John_Tiller's_Campaign_Series.md "wikilink") (2007)
+    Series](https://zh.wikipedia.org/wiki/John_Tiller's_Campaign_Series "wikilink")
+    (2007)
 
 ## 由TalonSoft发行
 
-  - [Tribal Rage](../Page/Tribal_Rage.md "wikilink") (1998)
+  - [Tribal Rage](https://zh.wikipedia.org/wiki/Tribal_Rage "wikilink")
+    (1998)
   - [Battle of
-    Britain](../Page/Battle_of_Britain_\(game\).md "wikilink") (1999)
-  - [Hidden & Dangerous](../Page/Hidden_&_Dangerous.md "wikilink")
+    Britain](https://zh.wikipedia.org/wiki/Battle_of_Britain_\(game\) "wikilink")
     (1999)
-  - [Jagged Alliance 2](../Page/Jagged_Alliance_2.md "wikilink") (1999)
+  - [Hidden &
+    Dangerous](https://zh.wikipedia.org/wiki/Hidden_&_Dangerous "wikilink")
+    (1999)
+  - [Jagged Alliance
+    2](https://zh.wikipedia.org/wiki/Jagged_Alliance_2 "wikilink")
+    (1999)
   - [Spec Ops II: Green
-    Berets](../Page/Spec_Ops_II:_Green_Berets.md "wikilink") (1999)
+    Berets](https://zh.wikipedia.org/wiki/Spec_Ops_II:_Green_Berets "wikilink")
+    (1999)
   - [Spec Ops II: Operation
-    Bravo](../Page/Spec_Ops_II:_Operation_Bravo.md "wikilink") (2000)
+    Bravo](https://zh.wikipedia.org/wiki/Spec_Ops_II:_Operation_Bravo "wikilink")
+    (2000)
   - [Hidden & Dangerous: Devil's
-    Bridge](../Page/Hidden_&_Dangerous:_Devil's_Bridge.md "wikilink")
+    Bridge](https://zh.wikipedia.org/wiki/Hidden_&_Dangerous:_Devil's_Bridge "wikilink")
     (2000)
-  - [Jetfighter IV](../Page/Jetfighter_IV.md "wikilink") (2000)
+  - [Jetfighter
+    IV](https://zh.wikipedia.org/wiki/Jetfighter_IV "wikilink") (2000)
   - [Martian Gothic:
-    Unification](../Page/Martian_Gothic:_Unification.md "wikilink")
+    Unification](https://zh.wikipedia.org/wiki/Martian_Gothic:_Unification "wikilink")
     (2000)
-  - [Codename Eagle](../Page/Codename_Eagle.md "wikilink") (2000)
+  - [Codename
+    Eagle](https://zh.wikipedia.org/wiki/Codename_Eagle "wikilink")
+    (2000)
   - [Dogs of
-    War](../Page/Dogs_of_War:_Battle_On_Primus_IV.md "wikilink") (2000)
-  - [Metal Fatigue](../Page/Metal_Fatigue_\(video_game\).md "wikilink")
+    War](https://zh.wikipedia.org/wiki/Dogs_of_War:_Battle_On_Primus_IV "wikilink")
+    (2000)
+  - [Metal
+    Fatigue](https://zh.wikipedia.org/wiki/Metal_Fatigue_\(video_game\) "wikilink")
     (2000)
   - [Spec Ops: Stealth
-    Patrol](../Page/Spec_Ops:_Stealth_Patrol.md "wikilink") (2000)
+    Patrol](https://zh.wikipedia.org/wiki/Spec_Ops:_Stealth_Patrol "wikilink")
+    (2000)
   - [Spec Ops: Ranger
-    Elite](../Page/Spec_Ops:_Ranger_Elite.md "wikilink") (2000)
+    Elite](https://zh.wikipedia.org/wiki/Spec_Ops:_Ranger_Elite "wikilink")
+    (2000)
   - [Tzar: The Burden of the
-    Crown](../Page/Tzar:_The_Burden_of_the_Crown.md "wikilink") (2000)
-  - [Merchant Prince II](../Page/Merchant_Prince_II.md "wikilink")
+    Crown](https://zh.wikipedia.org/wiki/Tzar:_The_Burden_of_the_Crown "wikilink")
+    (2000)
+  - [Merchant Prince
+    II](https://zh.wikipedia.org/wiki/Merchant_Prince_II "wikilink")
     (2001)
-  - [StarLeader](../Page/StarLeader.md "wikilink") (2001)
-  - [Outlive](../Page/Outlive.md "wikilink") (2001)
+  - [StarLeader](https://zh.wikipedia.org/wiki/StarLeader "wikilink")
+    (2001)
+  - [Outlive](https://zh.wikipedia.org/wiki/Outlive "wikilink") (2001)
 
 ## 外部链接
 

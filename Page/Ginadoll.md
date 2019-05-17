@@ -1,4 +1,4 @@
-《**Ginadoll**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[AGA的第三張音樂專輯](../Page/江海迦.md "wikilink")，於2016年3月14日發行。專輯名稱《Ginadoll》是其離世姐姐的[instagram帳戶名](../Page/instagram.md "wikilink")。
+《**Ginadoll**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[AGA的第三張音樂專輯](../Page/江海迦.md "wikilink")，於2016年3月14日發行。專輯名稱《Ginadoll》是其離世姐姐的[instagram帳戶名](https://zh.wikipedia.org/wiki/instagram "wikilink")。
 
 2016年5月10日推出第二版，把原有的Live CD換成Demo CD。
 

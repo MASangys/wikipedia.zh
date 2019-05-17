@@ -1,54 +1,54 @@
-Blend4Web是用于创建和在[网页浏览器中显示交互式](../Page/网页浏览器.md "wikilink")[三维计算机图形的](../Page/三维计算机图形.md "wikilink")[开源](../Page/开放源代码.md "wikilink")[框架](../Page/框架.md "wikilink")。
+Blend4Web是用于创建和在[网页浏览器中显示交互式](../Page/网页浏览器.md "wikilink")[三维计算机图形的](../Page/三维计算机图形.md "wikilink")[开源](../Page/开放源代码.md "wikilink")[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")。
 
 ## 概述
 
 Blend4Web 框架利用[Blender编辑三维场景](../Page/Blender.md "wikilink")。内容呈现依赖
-[WebGL](../Page/WebGL.md "wikilink")、网络音频和其他[网络标准](../Page/互联网标准.md "wikilink")，无需使用[插件](../Page/插件.md "wikilink")\[1\]。
+[WebGL](../Page/WebGL.md "wikilink")、网络音频和其他[网络标准](https://zh.wikipedia.org/wiki/互联网标准 "wikilink")，无需使用[插件](../Page/插件.md "wikilink")\[1\]。
 
-它具有双重许可证，分发基于[开源](../Page/开放源代码.md "wikilink")[GPLv3以及](../Page/GPLv3.md "wikilink")[商业许可证](../Page/商业软件.md "wikilink")；[源代码托管在](../Page/源代码.md "wikilink")[GitHub上](../Page/GitHub.md "wikilink")\[2\]。
+它具有双重许可证，分发基于[开源](../Page/开放源代码.md "wikilink")[GPLv3以及](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")[商业许可证](https://zh.wikipedia.org/wiki/商业软件 "wikilink")；[源代码托管在](../Page/源代码.md "wikilink")[GitHub上](../Page/GitHub.md "wikilink")\[2\]。
 
-三维场景可以在Blender中准备，然后导出为一对[JSON和](../Page/JSON.md "wikilink")[二进制文件在](../Page/二进制文件.md "wikilink")[网络应用程序中加载](../Page/网络应用程序.md "wikilink")。它也可以被导出为一个单一自包含的[HTML文件](../Page/HTML.md "wikilink")，其中导出的数据，网络播放器[GUI和引擎本身被包装在其中](../Page/图形用户界面.md "wikilink")\[3\]。HTML选项被认为是使用Blend4Web的最简单的方法\[4\]。生成的文件，据上报的最小大小为
-1 [Mb](../Page/百万字节.md "wikilink")，可以使用标准 iframe HTML
+三维场景可以在Blender中准备，然后导出为一对[JSON和](../Page/JSON.md "wikilink")[二进制文件在](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")[网络应用程序中加载](../Page/网络应用程序.md "wikilink")。它也可以被导出为一个单一自包含的[HTML文件](../Page/HTML.md "wikilink")，其中导出的数据，网络播放器[GUI和引擎本身被包装在其中](../Page/图形用户界面.md "wikilink")\[3\]。HTML选项被认为是使用Blend4Web的最简单的方法\[4\]。生成的文件，据上报的最小大小为
+1 [Mb](https://zh.wikipedia.org/wiki/百万字节 "wikilink")，可以使用标准 iframe HTML
 元素嵌入在网页中\[5\]。Blend4Web
 驱动的网络应用程序可以部署在热门[社交网站比如](../Page/社交網路服務.md "wikilink")
 [Facebook](../Page/Facebook.md "wikilink") 等\[6\]。
 
-Blend4Web工具链包括[JavaScript库](../Page/JavaScript函式庫.md "wikilink")，Blender的[插件和调整](../Page/插件.md "wikilink")3D场景参数，[调试和](../Page/调试.md "wikilink")[优化的工具集](../Page/最优化.md "wikilink")。
+Blend4Web工具链包括[JavaScript库](../Page/JavaScript函式庫.md "wikilink")，Blender的[插件和调整](../Page/插件.md "wikilink")3D场景参数，[调试和](https://zh.wikipedia.org/wiki/调试 "wikilink")[优化的工具集](../Page/最优化.md "wikilink")。
 
 Blend4Web 发展开始在2010年由总部设在[莫斯科的公司被称为](../Page/莫斯科.md "wikilink")
 Triumph。它首次公开发布 2014 年 3 月 28 日\[7\]
 
 2017年底，项目创始人Yuri和Alex
-Kovelenov退出Triumph并开始开发新的WebGL框架[Verge3D](../Page/Verge3D.md "wikilink")\[8\]。
+Kovelenov退出Triumph并开始开发新的WebGL框架[Verge3D](https://zh.wikipedia.org/wiki/Verge3D "wikilink")\[8\]。
 
 ## 功能
 
-框架有大量的典型组件在[游戏引擎发现](../Page/游戏引擎.md "wikilink")，包括[定位音频系统](../Page/立體聲.md "wikilink")、[物理引擎](../Page/物理引擎.md "wikilink")
+框架有大量的典型组件在[游戏引擎发现](../Page/游戏引擎.md "wikilink")，包括[定位音频系统](../Page/立體聲.md "wikilink")、[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")
 （[Bullet分叉移植到](../Page/Bullet.md "wikilink")
 [JavaScript](../Page/JavaScript.md "wikilink")）、
-[动画系统和游戏逻辑编程](../Page/计算机动画.md "wikilink")[抽象层](../Page/抽象層.md "wikilink")\[9\]。
+[动画系统和游戏逻辑编程](../Page/计算机动画.md "wikilink")[抽象层](https://zh.wikipedia.org/wiki/抽象層 "wikilink")\[9\]。
 
-多达8个不同类型的动画可以被分配到一个单独的物体，包括[骨骼动画和每个顶点的动画](../Page/骨骼动画.md "wikilink")。速度和动画的方向（向前/向后播放），以及粒子的系统参数（大小，初始速度和计数）虽然可以在[API来改变](../Page/应用程序接口.md "wikilink")\[10\]。
+多达8个不同类型的动画可以被分配到一个单独的物体，包括[骨骼动画和每个顶点的动画](https://zh.wikipedia.org/wiki/骨骼动画 "wikilink")。速度和动画的方向（向前/向后播放），以及粒子的系统参数（大小，初始速度和计数）虽然可以在[API来改变](../Page/应用程序接口.md "wikilink")\[10\]。
 
-在其他支持的功能有场景数据[动态加载和卸载](../Page/動態裝載.md "wikilink")，次表面散射模拟和基于[图像的照明](../Page/图像照明.md "wikilink")\[11\]。
+在其他支持的功能有场景数据[动态加载和卸载](../Page/動態裝載.md "wikilink")，次表面散射模拟和基于[图像的照明](https://zh.wikipedia.org/wiki/图像照明 "wikilink")\[11\]。
 
 用于扩展[渲染的室外环境](../Page/渲染.md "wikilink")，包括叶风相互作用、 水、
 大气和太阳光模拟存在一些的预置选项。演示这些影响的一个例子是"农场"技术演示，还设有多个动画的
 [NPC](../Page/非玩家角色.md "wikilink")
-和行走能力，物体进行交互与以[第一人称模式开车](../Page/第一人称视角游戏.md "wikilink")\[12\]。
+和行走能力，物体进行交互与以[第一人称模式开车](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")\[12\]。
 
 基于所述跨浏览器的[WebGL的](../Page/WebGL.md "wikilink")[API](../Page/应用程序接口.md "wikilink")，Blend4Web运行在大多数\[13\]的[网络浏览器](../Page/网页浏览器.md "wikilink")，包括移动装置\[14\]。还有一些注意事项虽然对WebGL实验支持的浏览器，如[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")\[15\]。也有开发应用程序运行的[Tizen系统设备](../Page/Tizen.md "wikilink")，如[三星Gear
-S2智能手表](../Page/三星Gear_S.md "wikilink")\[16\]。
+S2智能手表](https://zh.wikipedia.org/wiki/三星Gear_S "wikilink")\[16\]。
 
 高级的功能包括绘制调用批处理、
-隐藏表面测定、[线程的](../Page/线程.md "wikilink")[物理模拟和海洋仿真](../Page/物理引擎.md "wikilink")\[17\]。
+隐藏表面测定、[线程的](../Page/线程.md "wikilink")[物理模拟和海洋仿真](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")\[17\]。
 
 在14.09版本中，Blend4Web推出能添加交互性到三维场景中的[可视化编程工具](../Page/维基可视化编辑器.md "wikilink")\[18\]\[19\]。这个工具是让人想起了Blender游戏引擎的逻辑编辑器，因为它使用了放在Blender里面逻辑块。当用户与预定义的三维物体进行交互时，它能够播放由艺术家创作的动画轨\[20\]。
 
 自15.03版，Blend4Web已经支持HTML连接元件（如信息窗口）三维物体（“注解”）和[运行时复制物体](../Page/執行期.md "wikilink")（“实例化”）\[21\]。
 
-在[后期处理特效](../Page/後期製作.md "wikilink")，支持以下功能：发光，[高光](../Page/高光.md "wikilink")，[景深](../Page/景深.md "wikilink")，[云隙光](../Page/雲隙光.md "wikilink")，[运动模糊和](../Page/動態模糊.md "wikilink")[屏幕空间环境光遮蔽](../Page/屏幕空间环境光遮蔽.md "wikilink")\[22\]。
+在[后期处理特效](https://zh.wikipedia.org/wiki/後期製作 "wikilink")，支持以下功能：发光，[高光](https://zh.wikipedia.org/wiki/高光 "wikilink")，[景深](../Page/景深.md "wikilink")，[云隙光](../Page/雲隙光.md "wikilink")，[运动模糊和](../Page/動態模糊.md "wikilink")[屏幕空间环境光遮蔽](../Page/屏幕空间环境光遮蔽.md "wikilink")\[22\]。
 
 自 2015年年底以来，已支持了[虚拟现实设备](../Page/虚拟现实.md "wikilink")。具体来说，[Oculus
 Rift](../Page/Oculus_Rift.md "wikilink")[头戴式显示器工作在实验](../Page/頭戴式顯示器.md "wikilink")
@@ -58,24 +58,24 @@ API，软件现在也包括初步支持[游戏手柄](../Page/手柄.md "wikilin
 ## Blender集成
 
 Blender插件使用 [Python](../Page/Python.md "wikilink") 和
-[C](../Page/C语言.md "wikilink") 编写，可以在
+[C](https://zh.wikipedia.org/wiki/C语言 "wikilink") 编写，可以在
 [Linux](../Page/Linux.md "wikilink") x86/x64、 [OS
 X](../Page/MacOS.md "wikilink") x64 和 [MS
-Windows](../Page/Microsoft_Windows.md "wikilink") x86/x64
-[平台上编译](../Page/平台.md "wikilink")。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+x86/x64 [平台上编译](../Page/平台.md "wikilink")。
 
 Blend4Web 特定的配置文件可以在插件设置中激活。切换到此配置文件时，搅拌机界面更改，以便只显示与 Blend4Web
 有关的设置\[25\]。
 
-|                                                         |
-| ------------------------------------------------------- |
-| [thumb](../Page/文件:Blend4Web_profile.png.md "wikilink") |
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| [thumb](https://zh.wikipedia.org/wiki/文件:Blend4Web_profile.png "wikilink") |
 
 Blend4Web 支持设置Blender特定节点材质编辑器
 （视觉[着色编程的一种工具](../Page/着色器.md "wikilink")）\[26\]和[粒子系统](../Page/粒子系统.md "wikilink")\[27\]等的功能。还有对Blender的非线性动画
 (NLA) 编辑器的基本支持用于创建简单的场景。
 
-Blend4Web基本上是基于Blender实时[GLSL渲染引擎](../Page/GLSL.md "wikilink")，用户建议使用启用[所见即所得编辑](../Page/所見即所得.md "wikilink")\[28\]。
+Blend4Web基本上是基于Blender实时[GLSL渲染引擎](../Page/GLSL.md "wikilink")，用户建议使用启用[所见即所得编辑](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")\[28\]。
 
 ## 与相关的软件的比较
 
@@ -108,9 +108,9 @@ Blend4Web
 的应用程序\[39\]使它能够操作探测车，控制它的照相机和[机械臂并再现了一些](../Page/機械手臂.md "wikilink")[火星科学实验室任务的杰出事件](../Page/火星科学实验室.md "wikilink")\[40\]\[41\]。在
 [SIGGRAPH](../Page/SIGGRAPH.md "wikilink") 2015 的 WebGL 部分开头介绍应用\[42\]。
 
-|                                                             |                                                             |                                                             |
-| ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| [thumb](../Page/文件:Experience_curiosity1.png.md "wikilink") | [thumb](../Page/文件:Experience_curiosity2.png.md "wikilink") | [thumb](../Page/文件:Experience_curiosity3.png.md "wikilink") |
+|                                                                                |                                                                                |                                                                                |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [thumb](https://zh.wikipedia.org/wiki/文件:Experience_curiosity1.png "wikilink") | [thumb](https://zh.wikipedia.org/wiki/文件:Experience_curiosity2.png "wikilink") | [thumb](https://zh.wikipedia.org/wiki/文件:Experience_curiosity3.png "wikilink") |
 
 [Dassault Systèmes](../Page/达索系统.md "wikilink")
 提出了一种交互式的贺卡，以迎接顾客即将到来的圣诞假期\[43\]。

@@ -2,9 +2,11 @@
 TRIBE綜合大型原創娛樂項目](../Page/EXILE_TRIBE.md "wikilink")，項目包括由2015年開播的電視劇、漫畫和SNS社交平台互動，以及在2016年的原創音樂專輯、演唱會及電影\[1\]。
 從電視劇為出發點，以「全員主役\[2\]（中譯：全員主演）」為賣點標題，從電視劇開始到電影描寫每一個角色和團體，參演包括[LDH旗下的EXILE](../Page/LDH_\(藝能事務所\).md "wikilink")
 TRIBE：[EXILE](../Page/放浪兄弟.md "wikilink")、[劇團EXILE](../Page/劇團EXILE.md "wikilink")、[EXILE
-THE SECOND](../Page/THE_SECOND_from_EXILE.md "wikilink")、[三代目J Soul
-Brothers](../Page/J_Soul_Brothers.md "wikilink")、[GENERATIONS](../Page/放浪新世代_from_放浪一族.md "wikilink")、[E-girls等成員](../Page/E-girls.md "wikilink")，此外更有很多出名的演員參與演出，包括[林遣都](../Page/林遣都.md "wikilink")、[山田裕貴](../Page/山田裕貴.md "wikilink")、[早乙女太一](../Page/早乙女太一.md "wikilink")、[Golden
-Bomber](../Page/Golden_Bomber.md "wikilink")（金爆）、[窪田正孝](../Page/洼田正孝.md "wikilink")、YOU、[小泉今日子](../Page/小泉今日子.md "wikilink")、[BIGBANG成員](../Page/BIGBANG.md "wikilink")[勝利等人](../Page/勝利.md "wikilink")\[3\]。
+THE
+SECOND](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")、[三代目J
+Soul
+Brothers](../Page/J_Soul_Brothers.md "wikilink")、[GENERATIONS](../Page/放浪新世代_from_放浪一族.md "wikilink")、[E-girls等成員](https://zh.wikipedia.org/wiki/E-girls "wikilink")，此外更有很多出名的演員參與演出，包括[林遣都](../Page/林遣都.md "wikilink")、[山田裕貴](../Page/山田裕貴.md "wikilink")、[早乙女太一](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")、[Golden
+Bomber](../Page/Golden_Bomber.md "wikilink")（金爆）、[窪田正孝](../Page/洼田正孝.md "wikilink")、YOU、[小泉今日子](../Page/小泉今日子.md "wikilink")、[BIGBANG成員](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[勝利等人](https://zh.wikipedia.org/wiki/勝利 "wikilink")\[3\]。
 
 ## 企畫制作
 
@@ -73,7 +75,7 @@ WORRIORS**。這一場賭上尊嚴的鬥爭也隨即開始。
 居住在舊SWORD地區鄰近地區「國雙地區」的極惡兄弟。據說雅貴和廣斗二人過去曾經練過格鬥技，戰鬥力跟超過100人勢力的MUGEN不相伯仲，但在MUGEN解散的同時期消失蹤影。除了這兄弟二人，據說還有比這二人更加強的大哥，雨宮尊龍(於「電影版:紅雨」中出場)。此外，雅貴和廣斗是異父異母的兄弟。
 
   - 雨宮雅貴－[EXILE
-    TAKAHIRO](../Page/TAKAHIRO.md "wikilink")（[EXILE](../Page/放浪兄弟.md "wikilink")／ACE
+    TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")（[EXILE](../Page/放浪兄弟.md "wikilink")／ACE
     OF SPADES）
 
 <!-- end list -->
@@ -141,7 +143,7 @@ WORRIORS**。這一場賭上尊嚴的鬥爭也隨即開始。
 
   -
     本名是黑崎鐵平（黒崎鉄平），頂著雷鬼頭，是突擊隊長，興趣是聽[Black
-    Music和玩Instagram](../Page/非裔美國人音樂.md "wikilink")。老家是經營一間叫「山乃湯」的澡堂。對伊集院仁花非常在意。
+    Music和玩Instagram](https://zh.wikipedia.org/wiki/非裔美國人音樂 "wikilink")。老家是經營一間叫「山乃湯」的澡堂。對伊集院仁花非常在意。
 
 <!-- end list -->
 
@@ -176,7 +178,8 @@ WORRIORS**。這一場賭上尊嚴的鬥爭也隨即開始。
 為SWORD中的「W」。以堅守保護被男人傷害的女士為信條的星探集團，以領袖ROCKY經營的夜總會「HEAVEN」為基地。團隊的顏色為白色，別名是「「誘惑的白惡魔」。跟販賣女性的星探集團「DOUBT」是敵對關係。
 
   - **ROCKY（ロッキー）**－[黑木啓司](../Page/KEIJI.md "wikilink")（[EXILE](../Page/放浪兄弟.md "wikilink")／[EXILE
-    THE SECOND](../Page/THE_SECOND_from_EXILE.md "wikilink")）
+    THE
+    SECOND](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")）
 
 <!-- end list -->
 
@@ -229,10 +232,13 @@ WORRIORS**。這一場賭上尊嚴的鬥爭也隨即開始。
 
 <!-- end list -->
 
-  - **KIZZY （キジー）**－[稻葉友](../Page/稻葉友.md "wikilink") 在劇集第二季登場，是「White
+  - **KIZZY （キジー）**－[稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")
+    在劇集第二季登場，是「White
     Rascals」的初期成員，是「DOUBT」的前成員。說話和行為都是女性語調。在「DOUBT」當星探的時期，曾跟ROCKY對峙過，給ROCKY看出了他內心是女性後轉去和他合作。成立了「White
     Rascals」後，為了去做轉性手術而跟KAITO一起到海外一段時間。
-  - **KAITO （カイト）**－[柳俊太郎](../Page/柳俊太郎.md "wikilink") 在劇集第二季登場，是「White
+  - **KAITO
+    （カイト）**－[柳俊太郎](https://zh.wikipedia.org/wiki/柳俊太郎 "wikilink")
+    在劇集第二季登場，是「White
     Rascals」的初期成員，是「DOUBT」的前成員。沉默而看似沒感情一樣，但和KIZZY就好像心靈相通。
 
 #### 鬼邪高校
@@ -296,7 +302,7 @@ WORRIORS**。這一場賭上尊嚴的鬥爭也隨即開始。
 為SWORD中的「R」。通稱「RUDE」，集結了困擾在黑暗的人，是保護着名為「無名街」的貧民窟的團體，全員都能以輕盈的姿態做出雜技的高難度動作，而且最擅長是free
 running的跑動。別名是「無情街道的亡靈」。「無名街」的居民很多都是沒有名字寄居在這裡，大家都是互相依靠生活，因此之間的關係深厚，萬一做出危害到家族安全的人，都必須付出代價。
 
-  - **SMOKY（スモーキー）**－[窪田正孝](../Page/窪田正孝.md "wikilink")
+  - **SMOKY（スモーキー）**－[窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")
 
 <!-- end list -->
 
@@ -315,7 +321,7 @@ running的跑動。別名是「無情街道的亡靈」。「無名街」的居�
 
 <!-- end list -->
 
-  - **TAKESHI（タケシ）**－[佐野玲於](../Page/佐野玲於.md "wikilink")（[GENERATIONS](../Page/GENERATIONS_from_EXILE_TRIBE.md "wikilink")）
+  - **TAKESHI（タケシ）**－[佐野玲於](../Page/佐野玲於.md "wikilink")（[GENERATIONS](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")）
 
 <!-- end list -->
 
@@ -353,7 +359,7 @@ running的跑動。別名是「無情街道的亡靈」。「無名街」的居�
 
 <!-- end list -->
 
-  - **左京**－[阿部亮平](../Page/阿部亮平.md "wikilink")
+  - **左京**－[阿部亮平](https://zh.wikipedia.org/wiki/阿部亮平 "wikilink")
 
 <!-- end list -->
 
@@ -402,7 +408,7 @@ Rum」（中譯：紅冧酒／紅蘭姆酒）。
 <!-- end list -->
 
   - **二階堂**－[橘KENCHI](../Page/KENCHI.md "wikilink")（EXILE／[EXILE THE
-    SECOND](../Page/THE_SECOND_from_EXILE.md "wikilink")）
+    SECOND](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")）
 
 <!-- end list -->
 
@@ -455,7 +461,7 @@ JUNGLE」也是他們理想之居的其中一環。
 
   - ICE－ELLY（[三代目JSB](../Page/J_Soul_Brothers.md "wikilink")） 「MIGHTY
     WARRIORS」的領袖，是前傭兵，出生於美國海軍為基地治安惡劣的貧民窟。在小時候給音樂拯救，最後相信音樂和時裝為他帶來力量。打架是採用拳擊方式多，在拳擊會曾經可以打飛了一名黑人。
-  - **劉**－[早乙女太一](../Page/早乙女太一.md "wikilink")
+  - **劉**－[早乙女太一](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")
     中國系的成員，在嘻哈服飾為主的成員中穿著西裝是比較另類的存在。文靜的性格，常常在讀書，也會不時說出詩人般的言語。會使用柳葉刀和耍中國武術。不時會不出聲的在成員背後消失身影。
   - **SARAH**－大屋夏南 是團中唯一女性，在DOUBT的販賣中偶遇「MIGHTY
     WARRIORS」的成員而得救。起初對團的理念並不認同，但對ICE的率直的想法感到吸引而加入團。
@@ -471,7 +477,7 @@ JUNGLE」也是他們理想之居的其中一環。
 是以韓國為據點的韓國黑手黨。為了加強勢力，正計劃搶奪「SWORD地區」。跟九龍組是敵對關係。
 
   - **張**－ 白龍 在電影登場，是「張城」的BOSS。
-  - 李－V.I ([BIGBANG](../Page/BIGBANG.md "wikilink"))
+  - 李－V.I ([BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink"))
     由電視劇第二季登場，是「張城」的後裔。擁有的別墅供給「MIGHTY
     WARRIORS」作為基地，而得到他們協助的關係。為了達到「SWORD地區」，徹底調查過琥珀的過去而利用他，非常享受事情根據他計劃而進行的成功感。
 
@@ -499,7 +505,7 @@ WARRIORS」結成前便有的團體。跟「White Rascals」是敵對關係，�
 ### 山王街居民
 
   - **NOBORU（ノボル）** -
-    [町田啓太](../Page/町田啓太.md "wikilink")（[劇團EXILE](../Page/劇團EXILE.md "wikilink")）
+    [町田啓太](https://zh.wikipedia.org/wiki/町田啓太 "wikilink")（[劇團EXILE](../Page/劇團EXILE.md "wikilink")）
 
 <!-- end list -->
 
@@ -510,7 +516,7 @@ WARRIORS」結成前便有的團體。跟「White Rascals」是敵對關係，�
 <!-- end list -->
 
   - **NAOMI（ナオミ）** -
-    藤井萩花（[Flower](../Page/Flower_\(組合\).md "wikilink")/[E-girls](../Page/E-girls.md "wikilink")）
+    藤井萩花（[Flower](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")/[E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")）
 
 <!-- end list -->
 
@@ -567,7 +573,7 @@ WARRIORS」結成前便有的團體。跟「White Rascals」是敵對關係，�
 <!-- end list -->
 
   - **芝** -
-    楓（[Happiness](../Page/Happiness_\(組合\).md "wikilink")/[E-girls](../Page/E-girls.md "wikilink")）
+    楓（[Happiness](../Page/Happiness_\(組合\).md "wikilink")/[E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")）
 
 <!-- end list -->
 
@@ -578,7 +584,7 @@ WARRIORS」結成前便有的團體。跟「White Rascals」是敵對關係，�
 <!-- end list -->
 
   - **押上** -
-    佐藤晴美（[Flower](../Page/Flower_\(組合\).md "wikilink")/[E-girls](../Page/E-girls.md "wikilink")）
+    佐藤晴美（[Flower](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")/[E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")）
 
 <!-- end list -->
 
@@ -588,7 +594,8 @@ WARRIORS」結成前便有的團體。跟「White Rascals」是敵對關係，�
 
 <!-- end list -->
 
-  - **NONORIKI（ノノリキ）**- 山口乃々華（[E-girls](../Page/E-girls.md "wikilink")）
+  - **NONORIKI（ノノリキ）**-
+    山口乃々華（[E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")）
 
 <!-- end list -->
 
@@ -625,7 +632,7 @@ WARRIORS」結成前便有的團體。跟「White Rascals」是敵對關係，�
 <!-- end list -->
 
   - **伊集院仁花** -
-    坂東希（[Flower](../Page/Flower_\(組合\).md "wikilink")/[E-girls](../Page/E-girls.md "wikilink")）
+    坂東希（[Flower](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")/[E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")）
 
 <!-- end list -->
 
@@ -680,12 +687,12 @@ ALBUM**』的群星音樂專輯，收錄在電視劇和電影中的歌曲。在�
         作詞：Amon Hayashi / 作曲：Chaki Zulu, Amon Hayashi
         「White Rascals」的主題曲。
 5.  **RUN THIS TOWN** / [GENERATIONS from EXILE
-    TRIBE](../Page/GENERATIONS_from_EXILE_TRIBE.md "wikilink")
+    TRIBE](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")
       -
         作詞：P.O.S. / 作曲：KENTZ, SHIKATA, CHRIS HOPE, J FAITH
         「RUDE BOYS」的主題曲。
 6.  **STRAWBERRY
-    サディスティック** （中文意思：草莓虐待狂）/ [E-girls](../Page/E-girls.md "wikilink")
+    サディスティック** （中文意思：草莓虐待狂）/ [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")
       -
         作詞：Norihisa Hiranuma, Litz / 作曲・編曲：CLARABELL
         「苺美瑠狂」的主題曲。
@@ -699,7 +706,7 @@ ALBUM**』的群星音樂專輯，收錄在電視劇和電影中的歌曲。在�
         作詞：TAKANORI (LL BROTHERS), ALLY / 作曲：Amon Hayashi, Dirty Orange
         「九龍組・家村會」的主題曲。
 9.  **MIGHTY WARRIORS** / PKCZ®
-    feat. [AFROJACK](../Page/アフロジャック.md "wikilink"), [CRAZYBOY](../Page/ELLY.md "wikilink"), [ANARCHY](../Page/ANARCHY.md "wikilink"), SWAY,
+    feat. [AFROJACK](https://zh.wikipedia.org/wiki/アフロジャック "wikilink"), [CRAZYBOY](https://zh.wikipedia.org/wiki/ELLY "wikilink"), [ANARCHY](https://zh.wikipedia.org/wiki/ANARCHY "wikilink"), SWAY,
     MIGHTY CROWN (MASTA SIMON & SAMI-T)
       -
         作詞：CRAZYBOY, ANARCHY, SWAY, MASTA SIMON, SAMI-T / 作曲：AFROJACK
@@ -713,11 +720,12 @@ ALBUM**』的群星音樂專輯，收錄在電視劇和電影中的歌曲。在�
 ### CD Disc2
 
 1.  **HIGHER GROUND feat. Dimitri Vegas & Like Mike** / [EXILE
-    TRIBE](../Page/EXILE_TRIBE.md "wikilink")<sup>[\[3](../Page/HiGH&LOW_ORIGINAL_BEST_ALBUM.md "wikilink")\]</sup>
+    TRIBE](../Page/EXILE_TRIBE.md "wikilink")<sup>[\[3](https://zh.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")\]</sup>
       -
         作詞・作曲：Dimitri Thivaios, Michael Thivaios, Willem van Hanegem,
         Ward van der Harst, CHRIS HOPE, SHIKATA, MARIA MARCUS, [Masaya
-        Wada](../Page/和田昌哉.md "wikilink"), SHOKICHI, CRAZYBOY
+        Wada](https://zh.wikipedia.org/wiki/和田昌哉 "wikilink"), SHOKICHI,
+        CRAZYBOY
         電影『HiGH\&LOW THE MOVIE』主題曲。
 2.  **SIN** / ACE OF SPADES feat. 登坂広臣
       -
@@ -808,49 +816,49 @@ A舉行的完成披露試映會所出席的男性演出者有50人，達日本�
 
 #### 製作人員（HiGH & LOW熱血街頭 電影版）
 
-  - 導演 ：[久保茂昭](../Page/久保茂昭.md "wikilink")
+  - 導演 ：[久保茂昭](https://zh.wikipedia.org/wiki/久保茂昭 "wikilink")
   - 劇本
-    ：[渡辺啓](../Page/渡辺啓.md "wikilink")、[平沼紀久](../Page/平沼紀久.md "wikilink")、TEAM
+    ：[渡辺啓](https://zh.wikipedia.org/wiki/渡辺啓 "wikilink")、[平沼紀久](https://zh.wikipedia.org/wiki/平沼紀久 "wikilink")、TEAM
     HI-AX
-  - 演出企劃：[EXILE HIRO](../Page/五十嵐広行.md "wikilink")
-  - 動作導演 ：[大内貴仁](../Page/大内貴仁.md "wikilink")
+  - 演出企劃：[EXILE HIRO](https://zh.wikipedia.org/wiki/五十嵐広行 "wikilink")
+  - 動作導演 ：[大内貴仁](https://zh.wikipedia.org/wiki/大内貴仁 "wikilink")
   - 撮影：鯵坂輝国
   - 照明：平野勝利
   - 録音：照井康政
   - 美術：橋本創
-  - 音樂：[中野雄太](../Page/中野雄太.md "wikilink")
+  - 音樂：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")
   - 音樂製作人：佐藤達郎
   - 戲裝製作人 ：小川哲史
   - 制作：[日活](../Page/日活.md "wikilink")、
-    [ブースタープロジェクト](../Page/ブースタープロジェクト.md "wikilink")
-  - 製作：[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")
-    、[LDH](../Page/LDH_\(芸能プロダクション\).md "wikilink")
+    [ブースタープロジェクト](https://zh.wikipedia.org/wiki/ブースタープロジェクト "wikilink")
+  - 製作：[日本テレビ放送網](https://zh.wikipedia.org/wiki/日本テレビ放送網 "wikilink")
+    、[LDH](https://zh.wikipedia.org/wiki/LDH_\(芸能プロダクション\) "wikilink")
   - 發行商：[松竹](../Page/松竹.md "wikilink")
 
 ### HiGH & LOW熱血街頭 電影版～紅雨篇～
 
 『**HiGH & LOW熱血街頭 電影版～紅雨篇～**』是於2016年10月8日在日本公開的電影。
-主演是[TAKAHIRO及](../Page/TAKAHIRO.md "wikilink")[登坂廣臣](../Page/登坂廣臣.md "wikilink")。而於本作品起登場的角色有由[齋藤工飾演雨宮兄弟長男](../Page/齋藤工.md "wikilink"):雨宮尊龍\[6\]而女主角則是由[吉本實憂飾演成瀬愛華](../Page/吉本實憂.md "wikilink")\[7\]。
+主演是[TAKAHIRO及](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")[登坂廣臣](../Page/登坂廣臣.md "wikilink")。而於本作品起登場的角色有由[齋藤工飾演雨宮兄弟長男](../Page/齋藤工.md "wikilink"):雨宮尊龍\[6\]而女主角則是由[吉本實憂飾演成瀬愛華](../Page/吉本實憂.md "wikilink")\[7\]。
 
 此電影更於2016年9月27日在台灣舉行國際首映禮，主演的TAKAHIRO和登坂廣臣同時出席首映禮。\[8\]另外韓國預定在2016年10月19日舉行首映禮，主演的TAKAHIRO和登坂廣臣也預定出席首映禮。
 
 #### 製作人員（HiGH & LOW熱血街頭 電影版～紅雨篇～）
 
   - 導演：山口雄大
-  - 動作導演 ：[匠馬敏郎](../Page/坂口拓.md "wikilink")
+  - 動作導演 ：[匠馬敏郎](https://zh.wikipedia.org/wiki/坂口拓 "wikilink")
   - 劇本 ：松田裕子
-    、[牧野圭祐](../Page/牧野圭祐.md "wikilink")、[平沼紀久](../Page/平沼紀久.md "wikilink")
-    、[渡辺啓](../Page/渡辺啓.md "wikilink")
+    、[牧野圭祐](https://zh.wikipedia.org/wiki/牧野圭祐 "wikilink")、[平沼紀久](https://zh.wikipedia.org/wiki/平沼紀久 "wikilink")
+    、[渡辺啓](https://zh.wikipedia.org/wiki/渡辺啓 "wikilink")
   - 製作總指揮 ：黒崎太郎 、 森雅貴
   - 執行製作人 ：山田克也、森広貴、関佳裕、八木元
-  - 演出企劃：[EXILE HIRO](../Page/五十嵐広行.md "wikilink")
+  - 演出企劃：[EXILE HIRO](https://zh.wikipedia.org/wiki/五十嵐広行 "wikilink")
   - 企劃製作 ：HI-AX
   - 製作總括：川田真太郎
-  - 制片人：植野浩之、藤村直人、平沼紀久、[中林千賀子](../Page/中林千賀子.md "wikilink")、坂下哲也
+  - 制片人：植野浩之、藤村直人、平沼紀久、[中林千賀子](https://zh.wikipedia.org/wiki/中林千賀子 "wikilink")、坂下哲也
   - 撮影：福本淳
   - 美術：畦原唱平
   - 装飾：鈴木伸弥
-  - 音樂：[中野雄太](../Page/中野雄太.md "wikilink")
+  - 音樂：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")
   - 音樂製作人：佐藤達郎
   - 録音：原川慎平
   - 音響効果：小島彩
@@ -866,7 +874,9 @@ A舉行的完成披露試映會所出席的男性演出者有50人，達日本�
   - 特效總監：市原直
   - 特殊造型：百武朋
   - 製作著作：「HiGH\&LOW」製作委員會
-  - 製作公司：[日テレ アックスオン](../Page/日テレ_アックスオン.md "wikilink") / イメージフィールド
+  - 製作公司：[日テレ
+    アックスオン](https://zh.wikipedia.org/wiki/日テレ_アックスオン "wikilink")
+    / イメージフィールド
   - 發行商：[松竹](../Page/松竹.md "wikilink")
 
 ### HiGH\&LOW THE MOVIE 2 / END OF SKY
@@ -876,9 +886,9 @@ A舉行的完成披露試映會所出席的男性演出者有50人，達日本�
 #### 製作人員（ HiGH\&LOW THE MOVIE 2 / END OF SKY）
 
   - 導演：久保茂昭、中茎強
-  - 動作導演 ：[大内貴仁](../Page/大内貴仁.md "wikilink")
+  - 動作導演 ：[大内貴仁](https://zh.wikipedia.org/wiki/大内貴仁 "wikilink")
   - 劇本 ： 平沼紀久、渡辺啓、福田昌平、Team HI-AX
-  - 演出企劃：[EXILE HIRO](../Page/五十嵐広行.md "wikilink")
+  - 演出企劃：[EXILE HIRO](https://zh.wikipedia.org/wiki/五十嵐広行 "wikilink")
   - 企劃製作 ：HI-AX
   - 製作著作：「HiGH\&LOW」製作委員會
   - 發行商：[松竹](../Page/松竹.md "wikilink")
@@ -890,9 +900,9 @@ A舉行的完成披露試映會所出席的男性演出者有50人，達日本�
 #### 製作人員（HiGH\&LOW THE MOVIE 3 / FINAL MISSION）
 
   - 導演：久保茂昭、中茎強
-  - 動作導演 ：[大内貴仁](../Page/大内貴仁.md "wikilink")
+  - 動作導演 ：[大内貴仁](https://zh.wikipedia.org/wiki/大内貴仁 "wikilink")
   - 劇本 ： 平沼紀久、渡辺啓、福田昌平、Team HI-AX
-  - 演出企劃：[EXILE HIRO](../Page/五十嵐広行.md "wikilink")
+  - 演出企劃：[EXILE HIRO](https://zh.wikipedia.org/wiki/五十嵐広行 "wikilink")
   - 企劃製作 ：HI-AX
   - 製作著作：「HiGH\&LOW」製作委員會
   - 發行商：[松竹](../Page/松竹.md "wikilink")

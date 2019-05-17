@@ -1,4 +1,4 @@
-**株式會社AtelierRoku07**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫公司](../Page/動畫.md "wikilink")。成立於1969年，舊名「AtelierRoku」。
+**株式會社AtelierRoku07**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1969年，舊名「AtelierRoku」。
 
 ## 概要、沿革
 
@@ -6,8 +6,8 @@
   - 2006年，由內部另外成立「**Aterier KARO**（）」\[1\]。
   - 2007年11月11日，登記成為股份有限公司，同時改名今「**AtelierRoku07**\[2\]」。同時，AtelierRoku的創辦人川本征平從代表執行董事社長的職位退休，由森元茂接任。
   - 因為「AtelierRoku」是在1969年時創立的，所以創社初期的工作人員表是以「**Atelier69**」表示。
-  - 承包的公司方面。1979年開始，AtelierRoku承包了[SHIN-EI動畫委託的](../Page/SHIN-EI動畫.md "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(動畫\).md "wikilink")》的電視動畫和長篇劇場版系列的背景美術製作。並成為SHIN-EI動畫、[日本動畫公司及](../Page/日本動畫公司.md "wikilink")等多家公司的長期外包夥伴，是動畫美術界的老舗工作室。
-  - 在動畫的工作人員表記載中，部分工作人員則是使用[英文](../Page/英文.md "wikilink")[筆名表示](../Page/筆名.md "wikilink")。
+  - 承包的公司方面。1979年開始，AtelierRoku承包了[SHIN-EI動畫委託的](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(動畫\).md "wikilink")》的電視動畫和長篇劇場版系列的背景美術製作。並成為SHIN-EI動畫、[日本動畫公司及](../Page/日本動畫公司.md "wikilink")等多家公司的長期外包夥伴，是動畫美術界的老舗工作室。
+  - 在動畫的工作人員表記載中，部分工作人員則是使用[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[筆名表示](../Page/筆名.md "wikilink")。
 
 ## 主要參與作品
 
@@ -15,7 +15,7 @@
 
 ### 電視動畫
 
-  - [SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")
+  - [SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")
 
 <!-- end list -->
 
@@ -24,13 +24,15 @@
   - **[哆啦A夢
     (朝日電視台版)](../Page/哆啦A夢_\(動畫\).md "wikilink")**（1979年－2005年、2005年－）
 
-  - [怪物小王子 惡魔之劍 (1980年版)](../Page/怪物小王子_惡魔之劍.md "wikilink")（1980年－1982年）
+  - [怪物小王子 惡魔之劍
+    (1980年版)](https://zh.wikipedia.org/wiki/怪物小王子_惡魔之劍 "wikilink")（1980年－1982年）
 
-  - [電子神童](../Page/電子神童.md "wikilink")（協力製作：[土田製作公司](../Page/土田製作公司.md "wikilink")，1982年）
+  - [電子神童](https://zh.wikipedia.org/wiki/電子神童 "wikilink")（協力製作：[土田製作公司](../Page/土田製作公司.md "wikilink")，1982年）
 
   - （1982年－1984年）
 
-  - [小超人帕門 (1983年版)](../Page/小超人.md "wikilink")（1983年－1985年）
+  - [小超人帕門
+    (1983年版)](https://zh.wikipedia.org/wiki/小超人 "wikilink")（1983年－1985年）
 
   - [Q太郎 (1985年版)](../Page/Q太郎.md "wikilink")（1985年－1987年）
 
@@ -42,9 +44,9 @@
 
   - [21衛門](../Page/21衛門.md "wikilink")(1991年－1992年）
 
-  - **[蠟筆小新](../Page/蠟筆小新.md "wikilink")**（1992年－）
+  - **[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**（1992年－）
 
-  - [怪盜Joker](../Page/怪盜Joker.md "wikilink")（協力，2014年）
+  - [怪盜Joker](https://zh.wikipedia.org/wiki/怪盜Joker "wikilink")（協力，2014年）
 
 <!-- end list -->
 
@@ -61,32 +63,32 @@
       - [無家可歸的孩子蕾米](../Page/無家可歸的孩子蕾米.md "wikilink")（1996年－1997年）
       - [你好 安妮 ～Before Green
         Gables](../Page/你好_安妮_～Before_Green_Gables.md "wikilink")，又譯**清秀佳人前傳**（2009年）
-  - **[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")**（第1期：1990年－1992年／第2期：1995年－）
-  - [家有賤狗](../Page/家有賤狗.md "wikilink")（1993年－1994年）
+  - **[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")**（第1期：1990年－1992年／第2期：1995年－）
+  - [家有賤狗](https://zh.wikipedia.org/wiki/家有賤狗 "wikilink")（1993年－1994年）
   - [咕嚕咕嚕魔法陣系列](../Page/咕嚕咕嚕魔法陣.md "wikilink")
-      - [咕嚕咕嚕魔法陣](../Page/咕嚕咕嚕魔法陣#1994年『咕嚕咕嚕魔法陣』（第1作）.md "wikilink")（1994年）
+      - [咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#1994年『咕嚕咕嚕魔法陣』（第1作） "wikilink")（1994年）
       - [咕嚕咕嚕魔法陣
-        心跳♡傳說](../Page/咕嚕咕嚕魔法陣#2000年『咕嚕咕嚕魔法陣_心跳♡傳說』.md "wikilink")（2000年）
+        心跳♡傳說](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#2000年『咕嚕咕嚕魔法陣_心跳♡傳說』 "wikilink")（2000年）
   - [酷媽寶貝蛋](../Page/酷媽寶貝蛋.md "wikilink")（1995年－1996年）
-  - [中華一番！](../Page/中華一番！.md "wikilink")（1997年－1998年）
+  - [中華一番！](https://zh.wikipedia.org/wiki/中華一番！ "wikilink")（1997年－1998年）
   - [彗星公主A](../Page/彗星公主_\(動畫\).md "wikilink")（協力製作：[Synergy
     SP](../Page/Synergy_SP.md "wikilink")，2001年－2002年）
   - [完美小姐進化論](../Page/完美小姐進化論.md "wikilink")（2006年－2007年）
 
 <!-- end list -->
 
-  - [TNK](../Page/TNK.md "wikilink")
+  - [TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")
 
 <!-- end list -->
 
   - [流星戰隊Musumet](../Page/流星戰隊Musumet.md "wikilink")（2004年）
-  - [神無月的巫女](../Page/神無月的巫女.md "wikilink")（2004年）
+  - [神無月的巫女](https://zh.wikipedia.org/wiki/神無月的巫女 "wikilink")（2004年）
   - [School Days](../Page/School_Days.md "wikilink")（2007年）
   - [染红的街道](../Page/染红的街道.md "wikilink")（2008年）
 
 <!-- end list -->
 
-  - [東映動畫](../Page/東映動畫.md "wikilink")
+  - [東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
 
 <!-- end list -->
 
@@ -102,7 +104,7 @@
 
   - [網球王子](../Page/網球王子_\(動畫\).md "wikilink")（2001年－2005年）
 
-  - [韋駄天翔](../Page/IDATEN翔.md "wikilink")（協力製作：Production
+  - [韋駄天翔](https://zh.wikipedia.org/wiki/IDATEN翔 "wikilink")（協力製作：Production
     I.G，2005年－2006年）
 
   - （2007年）
@@ -124,7 +126,7 @@
 <!-- end list -->
 
   - [超能奇兵](../Page/超能奇兵.md "wikilink")（2001年）
-  - [銀魂'](../Page/銀魂_\(動畫\).md "wikilink")（協力，2011年）
+  - [銀魂'](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")（協力，2011年）
 
 <!-- end list -->
 
@@ -137,11 +139,13 @@
 
 <!-- end list -->
 
-  - [HAL FILM MAKER](../Page/HAL_FILM_MAKER.md "wikilink")
+  - [HAL FILM
+    MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
 
 <!-- end list -->
 
-  - [ARIA The ORIGINATION](../Page/水星領航員.md "wikilink")（2008年）
+  - [ARIA The
+    ORIGINATION](https://zh.wikipedia.org/wiki/水星領航員 "wikilink")（2008年）
   - [魔法使的條件 ～夏日天空～](../Page/魔法使的條件.md "wikilink")（2008年）
 
 <!-- end list -->
@@ -152,7 +156,8 @@
 
   - [鋼之鍊金術師 FULLMETAL
     ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")（協力，2010年）
-  - [Soul Eater Not！](../Page/Soul_Eater_Not!.md "wikilink")（2014年）
+  - [Soul Eater
+    Not！](https://zh.wikipedia.org/wiki/Soul_Eater_Not! "wikilink")（2014年）
 
 <!-- end list -->
 
@@ -185,7 +190,7 @@
 <!-- end list -->
 
   - [FAIRY TAIL
-    (第2期)](../Page/FAIRY_TAIL.md "wikilink")（共同製作：[Bridge](../Page/Bridge_\(公司\).md "wikilink")，2014年－2016年）
+    (第2期)](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（共同製作：[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")，2014年－2016年）
   - [魔奇少年 辛巴達的冒險](../Page/魔奇少年.md "wikilink")
 
 <!-- end list -->
@@ -212,7 +217,7 @@
 
   - （總承包商：古留美工作室，1983年－1984年）
 
-  - **[忍者亂太郎](../Page/忍者亂太郎.md "wikilink")**（總承包商：，1993年－）
+  - **[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")**（總承包商：，1993年－）
 
   - [新網球王子](../Page/網球王子_\(動畫\).md "wikilink")（總承包商：[Production
     I.G](../Page/Production_I.G.md "wikilink")、，2012年）
@@ -237,35 +242,37 @@
       - 希望宅邸 3D
       - 希望宅邸 3D PLUS
 
-  - [變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikilink")（總承包商：[J.C.STAFF](../Page/J.C.STAFF.md "wikilink")，2013年）
+  - [變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikilink")（總承包商：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")，2013年）
 
-  - [orange橘色奇蹟](../Page/orange橘色奇蹟.md "wikilink")（總承包商：，2013年）
+  - [orange橘色奇蹟](https://zh.wikipedia.org/wiki/orange橘色奇蹟 "wikilink")（總承包商：，2013年）
 
 ### OVA
 
   - [染红的街道
-    核心](../Page/染红的街道.md "wikilink")（總承包商：[TNK](../Page/TNK.md "wikilink")，2010年）
+    核心](../Page/染红的街道.md "wikilink")（總承包商：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")，2010年）
 
   - [BLACK★ROCK
     SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（協力，總承包商：[Ordet](../Page/Ordet.md "wikilink")，2010年）
 
-  - [渣和無用改革](../Page/渣和無用改革.md "wikilink")（總承包商：[TYO
-    Animations](../Page/TYO_Animations.md "wikilink")，2010年）
+  - [渣和無用改革](https://zh.wikipedia.org/wiki/渣和無用改革 "wikilink")（總承包商：[TYO
+    Animations](https://zh.wikipedia.org/wiki/TYO_Animations "wikilink")，2010年）
 
   - [新網球王子](../Page/網球王子_\(動畫\).md "wikilink")（總承包商：[Production
     I.G](../Page/Production_I.G.md "wikilink")、，2012年－2013年）
 
   - （總承包商：[ENCOURAGE
-    FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")，2014年）
+    FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")，2014年）
 
 ### 電影動畫
 
-  - [SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")
+  - [SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")
 
 <!-- end list -->
 
-  - **[劇場版 哆啦A夢系列](../Page/哆啦A夢電影作品.md "wikilink")**（1980年－2004年／2006年－）
-  - **[劇場版 蠟筆小新系列](../Page/蠟筆小新.md "wikilink")**（1993年－）
+  - **[劇場版
+    哆啦A夢系列](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")**（1980年－2004年／2006年－）
+  - **[劇場版
+    蠟筆小新系列](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**（1993年－）
 
 <!-- end list -->
 
@@ -273,11 +280,11 @@
 
 <!-- end list -->
 
-  - [忍者亂太郎系列](../Page/忍者亂太郎.md "wikilink")
+  - [忍者亂太郎系列](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")
       - （1996年）
 
       - [劇場版動畫 忍者亂太郎 忍術學園
-        全員出動！之段](../Page/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段.md "wikilink")（2011年）
+        全員出動！之段](https://zh.wikipedia.org/wiki/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段 "wikilink")（2011年）
   - [劇場版
     怪傑佐羅利系列](../Page/怪俠佐羅利.md "wikilink")（共同製作：[日昇動畫](../Page/日昇動畫.md "wikilink")）
       - 劇場版 怪傑佐羅利：大·大·大·大冒險！（協力，2012年）
@@ -290,12 +297,12 @@
 <!-- end list -->
 
   - [劇場版
-    櫻桃小丸子系列](../Page/櫻桃小丸子.md "wikilink")（總承包商：[日本動畫公司](../Page/日本動畫公司.md "wikilink")）
+    櫻桃小丸子系列](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")（總承包商：[日本動畫公司](../Page/日本動畫公司.md "wikilink")）
 
       - 劇場版 櫻桃小丸子：友情歲月（1990年）
       - 劇場版 櫻桃小丸子：我喜歡的歌（1992年）
 
-  - **[神奇寶貝系列](../Page/神奇寶貝劇場版.md "wikilink")**（總承包商：[OLM](../Page/OLM.md "wikilink")，1998年－）\[4\]
+  - **[神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝劇場版 "wikilink")**（總承包商：[OLM](../Page/OLM.md "wikilink")，1998年－）\[4\]
 
   - [新子與千年魔法](../Page/新子與千年魔法.md "wikilink")（協力，總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")，2009年）
 
@@ -304,10 +311,10 @@
   - （總承包商：「神秘之法」工作室，2012年）
 
   - [ONE PIECE FILM
-    Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")（協力，總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，2012年）
+    Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")（協力，總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，2012年）
 
   - [言葉之庭](../Page/言葉之庭.md "wikilink")（協力，總承包商：[CoMix Wave
-    Films](../Page/CoMix_Wave_Films.md "wikilink")，2013年）
+    Films](https://zh.wikipedia.org/wiki/CoMix_Wave_Films "wikilink")，2013年）
 
   - [劇場版
     偶像大師：前往光輝的另一端！](../Page/偶像大師_劇場版_前往光輝的另一端！.md "wikilink")（協力，總承包商：[A-1
@@ -318,9 +325,9 @@
 ### 網路動畫
 
   - [+tic模型姊姊](../Page/+tic模型姊姊.md "wikilink")（總承包商：[TYO
-    Animations](../Page/TYO_Animations.md "wikilink")、，2011年－2012年）
+    Animations](https://zh.wikipedia.org/wiki/TYO_Animations "wikilink")、，2011年－2012年）
 
-  - （總承包商：[SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")，2016年）
+  - （總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，2016年）
 
   - （總承包商：SHIN-EI動畫，2016年）
 

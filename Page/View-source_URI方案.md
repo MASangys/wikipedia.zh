@@ -1,11 +1,12 @@
 **view-source**
 [URI方案是部分](../Page/统一资源标志符.md "wikilink")[网页浏览器采用的一种特殊](../Page/网页浏览器.md "wikilink")[URL](../Page/统一资源定位符.md "wikilink")，功效是显示指定资源的源代码。\[1\]
 
-举例来说，显示[URI为](../Page/URI.md "wikilink") <http://www.example.com>
+举例来说，显示[URI为](https://zh.wikipedia.org/wiki/URI "wikilink")
+<http://www.example.com>
 的页面源代码只需使用：**view-source:http://www.example.com**
 
-2011年5月25日，“view-source”URI方案在[IANA](../Page/IANA.md "wikilink")\[2\]按[RFC
-4395正式注册](../Page/:rfc:4395.md "wikilink")。
+2011年5月25日，“view-source”URI方案在[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink")\[2\]按[RFC
+4395正式注册](https://zh.wikipedia.org/wiki/:rfc:4395 "wikilink")。
 
 ## 浏览器支持
 
@@ -24,11 +25,11 @@ URI\[4\]），但在问题修复后于Firefox 1.5\[5\]中继续支持。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Mozilla_Firefox.md" title="wikilink">Mozilla Firefox截止至</a>46</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" title="wikilink">Mozilla Firefox截止至</a>46</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mozilla_Firefox.md" title="wikilink">Mozilla Firefox自</a>47开始</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" title="wikilink">Mozilla Firefox自</a>47开始</p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
@@ -36,7 +37,7 @@ URI\[4\]），但在问题修复后于Firefox 1.5\[5\]中继续支持。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Netscape.md" title="wikilink">Netscape</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Netscape" title="wikilink">Netscape</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -56,11 +57,11 @@ URI\[4\]），但在问题修复后于Firefox 1.5\[5\]中继续支持。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Opera.md" title="wikilink">Opera</a> 7, 8, 9, 10, 11</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Opera" title="wikilink">Opera</a> 7, 8, 9, 10, 11</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Opera.md" title="wikilink">Opera及更新版本</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Opera" title="wikilink">Opera及更新版本</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -68,11 +69,11 @@ URI\[4\]），但在问题修复后于Firefox 1.5\[5\]中继续支持。
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Web_(web_browser).md" title="wikilink">Web</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Web_(web_browser)" title="wikilink">Web</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/webOS.md" title="wikilink">HP webOS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/webOS" title="wikilink">HP webOS</a></p></td>
 <td><p>，在名为Internalz Pro的自产浏览器内[8]</p></td>
 </tr>
 </tbody>

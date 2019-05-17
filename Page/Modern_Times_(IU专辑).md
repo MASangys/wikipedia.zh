@@ -1,5 +1,5 @@
 《**Modern
-Times**》是韩国[创作歌手](../Page/创作歌手.md "wikilink")[IU的第三张韩语录音室专辑](../Page/IU_\(歌手\).md "wikilink")。
+Times**》是韩国[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")[IU的第三张韩语录音室专辑](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。
 
 ## 曲目
 

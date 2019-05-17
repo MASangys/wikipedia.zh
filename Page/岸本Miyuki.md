@@ -1,4 +1,4 @@
-**岸本Miyuki**（，），[日本男](../Page/日本.md "wikilink")[編劇](../Page/編劇.md "wikilink")。畢業於[近畿大學文藝學部藝術學科](../Page/近畿大學.md "wikilink")。祖父為。
+**岸本Miyuki**（，），[日本男](../Page/日本.md "wikilink")[編劇](../Page/編劇.md "wikilink")。畢業於[近畿大學文藝學部藝術學科](https://zh.wikipedia.org/wiki/近畿大學 "wikilink")。祖父為。
 
 ## 作品列表
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [金田一少年之事件簿R](../Page/金田一少年之事件簿_\(動畫\).md "wikilink")
+  - [金田一少年之事件簿R](https://zh.wikipedia.org/wiki/金田一少年之事件簿_\(動畫\) "wikilink")
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - [潮與虎](../Page/潮與虎.md "wikilink")
+  - [潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")
 
 <!-- end list -->
 

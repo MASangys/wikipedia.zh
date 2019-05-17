@@ -1,5 +1,5 @@
 《**Dark Blue**》是LiLiM
-DARKNESS在2009年11月27日發售的[冒險類型](../Page/冒險遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BLUE系列的第5個作品。在2011年5月26日發售[DVDPG版](../Page/DVDPG.md "wikilink")。\[3\][OVA是由PoRO發售](../Page/OVA.md "wikilink")。\[4\]
+DARKNESS在2009年11月27日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BLUE系列的第5個作品。在2011年5月26日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\][OVA是由PoRO發售](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]
 
 ## 故事
 
@@ -16,7 +16,7 @@ DARKNESS在2009年11月27日發售的[冒險類型](../Page/冒險遊戲.md "wik
   - 哀澤鈴香（CV：早乙女綾）
     聖櫻學園3年級學生和學生會會長，雪斗的義姊，對雪斗有超越姊弟關係的感情。
   - アニス・レナフォード（CV：星野みく）
-    聖櫻學園2年級學生和人氣偶像，音羽的朋友，資産家的獨生女，母親是美國[好萊塢的知名演員](../Page/好萊塢.md "wikilink")。過去受到雪斗的幫忙而暗戀雪斗，但在知道雪斗的心儀對象後便隱藏自己的心意。
+    聖櫻學園2年級學生和人氣偶像，音羽的朋友，資産家的獨生女，母親是美國[好萊塢的知名演員](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")。過去受到雪斗的幫忙而暗戀雪斗，但在知道雪斗的心儀對象後便隱藏自己的心意。
 
 ### 其他角色
 
@@ -50,7 +50,7 @@ DARKNESS在2009年11月27日發售的[冒險類型](../Page/冒險遊戲.md "wik
 
 ## OVA
 
-[OVA是成人動畫作品](../Page/OVA.md "wikilink")，由PoRO製作發售，共2卷。
+[OVA是成人動畫作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由PoRO製作發售，共2卷。
 
 ### 發售日
 
@@ -91,7 +91,8 @@ DARKNESS在2009年11月27日發售的[冒險類型](../Page/冒險遊戲.md "wik
 
 ## 相關條目
 
-  - [Dearest Blue](../Page/Dearest_Blue.md "wikilink")：BLUE系列的第8個作品。
+  - [Dearest
+    Blue](https://zh.wikipedia.org/wiki/Dearest_Blue "wikilink")：BLUE系列的第8個作品。
 
 ## 參考來源
 
@@ -115,7 +116,8 @@ DARKNESS在2009年11月27日發售的[冒險類型](../Page/冒險遊戲.md "wik
     Blue](http://www.dennoclub.com/TitleList/dcpg/DCPG240/dcpg240.htm)電脳CLUB
 4.  [Dark Blue
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14502)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 5.  [Dark Blue](http://erogetrailers.com/soft/6636)ErogeTrailers
 6.
 7.

@@ -1,6 +1,7 @@
 多个 | released =  | latest release version = RETScreen Expert | latest
 release date = | latest preview version = | latest preview date = |
-operating system = [Windows](../Page/Windows.md "wikilink") | operating
+operating system =
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") | operating
 system desc = | size = | language = 36 种语言  | genre = 应用程序 | license = |
 website = }}
 
@@ -40,7 +41,7 @@ RETScreen是在加拿大政府下设的加拿大自然资源部洁净能源署 �
 （Langley） 研究中心、\[13\] 可再生能源和能源效率合作伙伴关系计划（REEEP）、\[14\]
 安大略省的独立电力系统运营商（IESO）、\[15\]
 联合国环境规划署（UNEP）技术、工业和经济司的能源处、\[16\]
-[全球环境基金](../Page/全球环境基金.md "wikilink")（GEF）、\[17\]
+[全球环境基金](https://zh.wikipedia.org/wiki/全球环境基金 "wikilink")（GEF）、\[17\]
 [世界银行的原型碳基金](../Page/世界银行.md "wikilink")（PCF）、\[18\]
 和约克大学的可持续能源倡议。\[19\]
 
@@ -90,8 +91,8 @@ RETScreen
 
 ## 其他相关信息
 
-  - [可再生能源](../Page/可再生能源.md "wikilink")
-  - [能源管理软件](../Page/能源管理软件.md "wikilink")
+  - [可再生能源](https://zh.wikipedia.org/wiki/可再生能源 "wikilink")
+  - [能源管理软件](https://zh.wikipedia.org/wiki/能源管理软件 "wikilink")
 
 ## 注解
 

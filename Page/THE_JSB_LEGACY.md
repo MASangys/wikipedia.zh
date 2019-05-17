@@ -1,13 +1,13 @@
 《**THE JSB LEGACY**》是[日本演唱團體](../Page/日本.md "wikilink")[第三代J Soul
 Brothers的第](../Page/J_Soul_Brothers.md "wikilink")6張原創專輯。2016年3月30日發行，唱片公司為[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - 與上一張原創專輯《[PLANET
     SEVEN](../Page/PLANET_SEVEN.md "wikilink")》相距約1年2個月。
   - 收錄第16張單曲《[starting
-    over](../Page/starting_over.md "wikilink")》至第19張單曲《[Unfair
+    over](https://zh.wikipedia.org/wiki/starting_over "wikilink")》至第19張單曲《[Unfair
     World](../Page/Unfair_World.md "wikilink")》4首A面曲、B面曲《[J.S.B.
     DREAM](../Page/STORM_RIDERS_feat._SLASH.md "wikilink")》，以及子團體「THE
     Sharehappi」歌曲、[江崎固力果](../Page/江崎固力果.md "wikilink")「Pocky」電視廣告歌曲《Share
@@ -19,15 +19,16 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - 新曲《BREAK OF DAWN》為電影《[火星異種](../Page/火星異種.md "wikilink")》的主題曲。
   - 本作分「初回限定盤（CD+2Blu-ray）」、「初回限定盤（CD+2DVD）」、「初回限定盤（CD+Blu-ray）」、「初回限定盤（CD+DVD）」、「CD盤（CD）」5種版本。
   - DVD與Blu-ray收錄了《[starting
-    over](../Page/starting_over.md "wikilink")》、《[STORM RIDERS feat.
+    over](https://zh.wikipedia.org/wiki/starting_over "wikilink")》、《[STORM
+    RIDERS feat.
     SLASH](../Page/STORM_RIDERS_feat._SLASH.md "wikilink")》、《[Summer
     Madness](../Page/Summer_Madness.md "wikilink")》、新曲《Born in the
     EXILE》和《Feel So Alive》 等7首歌曲的Music
-    Video，並收錄[a-nation演出的影像](../Page/a-nation.md "wikilink")『2015
+    Video，並收錄[a-nation演出的影像](https://zh.wikipedia.org/wiki/a-nation "wikilink")『2015
     a-nation stadium fes. 0823』。
-  - 在4月11日於[公信榜專輯週排行榜取得第](../Page/公信榜.md "wikilink")1位，繼《[MIRACLE](../Page/MIRACLE_\(第三代J_Soul_Brothers專輯\).md "wikilink")》、《[THE
+  - 在4月11日於[公信榜專輯週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，繼《[MIRACLE](../Page/MIRACLE_\(第三代J_Soul_Brothers專輯\).md "wikilink")》、《[THE
     BEST / BLUE
-    IMPACT](../Page/THE_BEST_/_BLUE_IMPACT.md "wikilink")》、《[PLANET
+    IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》、《[PLANET
     SEVEN](../Page/PLANET_SEVEN.md "wikilink")》後，連續四張專輯於排行榜取得第1位。
 
 ## 收錄內容
@@ -70,7 +71,8 @@ zone](../Page/rhythm_zone.md "wikilink")。
         [今市隆二Solo](../Page/今市隆二.md "wikilink")
 9.  **Beautiful Life**
     （作詞：Hiroomi Tosaka, Kouta Okochi、作曲：FAST LANE, ERIK LIDBOM）
-10. **[starting over](../Page/starting_over.md "wikilink")**
+10. **[starting
+    over](https://zh.wikipedia.org/wiki/starting_over "wikilink")**
     （作詞：Masato Odake、作曲：FAST LINE・MATS LIE SKARE・220・BCHO）
       -
         16th單曲、巡迴演唱會《第三代 J Soul Brothers LIVE TOUR 2015 "BLUE
@@ -106,8 +108,8 @@ zone](../Page/rhythm_zone.md "wikilink")。
 
 ### Blu-ray、DVD（Disc 2）
 
-  - **2015 [a-nation](../Page/a-nation.md "wikilink") stadium fes.
-    0823**
+  - **2015 [a-nation](https://zh.wikipedia.org/wiki/a-nation "wikilink")
+    stadium fes. 0823**
 
 <!-- end list -->
 

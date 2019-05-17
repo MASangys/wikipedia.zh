@@ -3,7 +3,7 @@
 **SIG P227**是一系列由[SIG
 Sauer所設計和生產的全尺寸](../Page/西格&紹爾.md "wikilink")、緊湊型與大尺寸軍用型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG
 P226的](../Page/SIG_P226手槍.md "wikilink")[.45
-ACP](../Page/.45_ACP.md "wikilink")[口徑](../Page/口徑.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈版本](../Page/子彈.md "wikilink")。
+ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈版本](../Page/子彈.md "wikilink")。
 
 該槍在2013年第35屆（美國著名槍展）上首次推出，以圖與市場上的大彈匣容量.45
 ACP口徑手槍競爭，並且取代因彈匣容量少而導致銷售量日漸萎縮的[SIG
@@ -15,19 +15,19 @@ P220](../Page/SIG_P220手槍.md "wikilink")。
 
 雖然SIG P227與另一把[半自動手槍](../Page/半自動手槍.md "wikilink")，SIG
 P220（其中一個口徑）同為SIG較少數的.45
-ACP口徑手枪，但是兩者並不可相混淆。因為P220與P227的主要區別是，P220的設計就像P225般，只能裝上單排[彈匣](../Page/彈匣.md "wikilink")；而P227的設計卻像P226般，裝上的是雙排彈匣。其槍身是由硬質陽極[氧化](../Page/氧化.md "wikilink")[底把加上使用](../Page/机匣.md "wikilink")[Nitron塗層表面處理的](../Page/鐵素體氮碳共滲.md "wikilink")[銑削工藝](../Page/銑削.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒所組成的](../Page/手槍套筒.md "wikilink")。
+ACP口徑手枪，但是兩者並不可相混淆。因為P220與P227的主要區別是，P220的設計就像P225般，只能裝上單排[彈匣](../Page/彈匣.md "wikilink")；而P227的設計卻像P226般，裝上的是雙排彈匣。其槍身是由硬質陽極[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")[底把加上使用](https://zh.wikipedia.org/wiki/机匣 "wikilink")[Nitron塗層](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")工藝[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒所組成](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。
 
 ### 自動方式
 
-P227採用[槍管短行程後座作用的自動操作方式](../Page/後座作用.md "wikilink")。發射時會使槍管和滑套閉鎖一起同時向後運動，並且在後座一段距離以後，槍管在開鎖機構作用下尾端下降，與滑套脫開並且停止後座，而滑套則繼續後坐，完成抽殼、拋殼等動作。當滑套後座到位以後，會在[復進簧的作用以下復進](../Page/復進簧.md "wikilink")，並將下一發子彈從彈匣中抽離並推入[膛室](../Page/膛室.md "wikilink")。滑套復進到位以後，再次與槍管閉鎖在一起。
+P227採用[槍管短行程後座作用的自動操作方式](../Page/後座作用.md "wikilink")。發射時會使槍管和滑套閉鎖一起同時向後運動，並且在後座一段距離以後，槍管在開鎖機構作用下尾端下降，與滑套脫開並且停止後座，而滑套則繼續後坐，完成抽殼、拋殼等動作。當滑套後座到位以後，會在[復進簧的作用以下復進](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，並將下一發子彈從彈匣中抽離並推入[膛室](../Page/膛室.md "wikilink")。滑套復進到位以後，再次與槍管閉鎖在一起。
 
 ### 擊發機構
 
-P227亦是一把採用[雙／單動操作式擊發機構的手槍](../Page/扳機.md "wikilink")，首發以下為雙動操作，[扳機扣力約](../Page/扳機扣力.md "wikilink")45[牛頓](../Page/牛頓_\(單位\).md "wikilink")（10[磅力](../Page/磅力.md "wikilink")）；以後後續的射擊變為單動操作，這時扣力則降為約20牛頓（4.4磅力）。
+P227亦是一把採用[雙／單動操作式擊發機構的手槍](https://zh.wikipedia.org/wiki/扳機 "wikilink")，首發以下為雙動操作，[扳機扣力約](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")45[牛頓](../Page/牛頓_\(單位\).md "wikilink")（10[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）；以後後續的射擊變為單動操作，這時扣力則降為約20牛頓（4.4磅力）。
 
 除了Nitron型和便携Nitron型採用傳統厚型扳機外，其他都採用了[SIG P226
-E2型和](../Page/SIG_P226手槍#P226_E2型.md "wikilink")[P229
-E2型上使用的縮小輪廓型扳機](../Page/SIG_P229手槍#P229_E2型.md "wikilink")，使手形比較小的射手能夠有效地扣動扳機。
+E2型和](https://zh.wikipedia.org/wiki/SIG_P226手槍#P226_E2型 "wikilink")[P229
+E2型上使用的縮小輪廓型扳機](https://zh.wikipedia.org/wiki/SIG_P229手槍#P229_E2型 "wikilink")，使手形比較小的射手能夠有效地扣動扳機。
 
 P227部份型號具有快速復位扳機（，簡稱：SRT）系統，使扳機回復原位的速度加快了60％，進而使得重複射擊既快又準。扳機復位時除了能夠聽到細微的「咔噠」聲之外，手指也會有感覺。
 
@@ -39,7 +39,7 @@ P227未設手動保險，但其內部獨特的擊針保險機構非常可靠。�
 
 雙動擊發時，扳機連杆向前運動，同時阻鐵旋轉推向後迴轉至待擊位置，當阻鐵繼續旋轉至即將解脫擊錘的瞬間，扳機連杆帶動擊針保險卡鎖解脫杆旋轉，解脫擊針保險卡鎖對擊針的鎖定，使擊針解脫限制並能夠向前移動。當擊錘被解脫時便向前迴轉打擊擊針，以實現擊發；單動擊發時，扳機連杆在阻鐵解脫擊錘之前，亦需要帶動擊針保險卡鎖解脫杆旋轉，使擊針保險卡鎖解脫擊針。
 
-除非扳機連杆運動到足以使擊針保險卡鎖解脫擊針的程度，否則擊針就始終被保險卡鎖鎖住。不管擊錘處於前方或後方位置都可以安全攜帶；即便手槍不慎落地因沒有扣動扳機而也不會[走火](../Page/走火.md "wikilink")。即使擊錘處於前方位置而且使用者遇到突發情況時也不必向後扳動擊錘，只要已經上膛即隨時可以拔出手槍並以雙動方式發射首發彈，不會因為需要先打開保險而延誤戰機。
+除非扳機連杆運動到足以使擊針保險卡鎖解脫擊針的程度，否則擊針就始終被保險卡鎖鎖住。不管擊錘處於前方或後方位置都可以安全攜帶；即便手槍不慎落地因沒有扣動扳機而也不會[走火](https://zh.wikipedia.org/wiki/走火 "wikilink")。即使擊錘處於前方位置而且使用者遇到突發情況時也不必向後扳動擊錘，只要已經上膛即隨時可以拔出手槍並以雙動方式發射首發彈，不會因為需要先打開保險而延誤戰機。
 
 ### 套筒
 
@@ -51,24 +51,24 @@ P227未設手動保險，但其內部獨特的擊針保險機構非常可靠。�
 
 ### 機械瞄具
 
-P227使用的SIGLITE夜間瞄準具為三點對比式瞄準具，是在[准星和](../Page/照準器.md "wikilink")[照门后方均安装](../Page/照门.md "wikilink")[氚光管](../Page/氚.md "wikilink")，以便在低光照环境中快速捕捉目标。
+P227使用的SIGLITE夜間瞄準具為三點對比式瞄準具，是在[准星和](../Page/照準器.md "wikilink")[照门后方均安装](https://zh.wikipedia.org/wiki/照门 "wikilink")[氚光管](../Page/氚.md "wikilink")，以便在低光照环境中快速捕捉目标。
 
 ### 套筒座
 
-儘管目前比較流行[聚合物材料滑套座](../Page/聚合物.md "wikilink")，但P227的滑套座與P226一樣採用堅固耐用的輕型[合金材料製成](../Page/合金.md "wikilink")，並且表面經過精細加工和消除反光的硬質陽極[氧化處理](../Page/氧化.md "wikilink")。
+儘管目前比較流行[聚合物材料滑套座](../Page/聚合物.md "wikilink")，但P227的滑套座與P226一樣採用堅固耐用的輕型[合金材料製成](../Page/合金.md "wikilink")，並且表面經過精細加工和消除反光的硬質陽極[氧化處理](https://zh.wikipedia.org/wiki/氧化 "wikilink")。
 
-大部份手槍型號都在滑套座前端下方整合了一段[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")（又稱：皮卡汀尼導軌），用以配裝[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](../Page/雷射瞄準器.md "wikilink")，只有P227
+大部份手槍型號都在滑套座前端下方整合了一段[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")（又稱：皮卡汀尼導軌），用以配裝[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，只有P227
 SAS Gen 2型手槍取消了該導軌。
 
 ### 握把
 
 P227還採用了全新、最先在[SIG P226
-E2型和](../Page/SIG_P226手槍#P226_E2型.md "wikilink")[P229
-E2型上使用的增強](../Page/SIG_P229手槍#P229_E2型.md "wikilink")[人體工學型](../Page/人因工程学.md "wikilink")（，縮寫“E2”；E2的英文發音為“E-squared”，意為：E-平方）環繞式握把，而非[P220的兩片式握把](../Page/SIG_P220手槍.md "wikilink")。
+E2型和](https://zh.wikipedia.org/wiki/SIG_P226手槍#P226_E2型 "wikilink")[P229
+E2型上使用的增強](https://zh.wikipedia.org/wiki/SIG_P229手槍#P229_E2型 "wikilink")[人體工學型](../Page/人因工程学.md "wikilink")（，縮寫“E2”；E2的英文發音為“E-squared”，意為：E-平方）環繞式握把，而非[P220的兩片式握把](../Page/SIG_P220手槍.md "wikilink")。
 
 P227的握把比P226和P220稍大，但其握把的形狀使其看起來比實際尺寸要小。而且握把整體比例均衡，握把護板表面制有防滑紋，握把後墊板設計合理以方便握持。
 
-儘管該槍握把後墊板為不可更換的，但其握持舒適性非常好。握把前部僅在[扳機護圈以下的窪凹處沒有防滑紋](../Page/扳機護環.md "wikilink")，其餘處都有防滑紋。握把即使在潮濕或下雨天以及在快速射擊的情況以下，都能夠牢靠握持。握把的另一個特點是其底部向外傾斜的彈匣插口，以確保流暢無障礙地插入彈匣。
+儘管該槍握把後墊板為不可更換的，但其握持舒適性非常好。握把前部僅在[扳機護圈以下的窪凹處沒有防滑紋](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，其餘處都有防滑紋。握把即使在潮濕或下雨天以及在快速射擊的情況以下，都能夠牢靠握持。握把的另一個特點是其底部向外傾斜的彈匣插口，以確保流暢無障礙地插入彈匣。
 
 ### 彈匣
 
@@ -77,20 +77,20 @@ P227亦已證實可以提供14發延長彈匣。
 
 ### 操作部件
 
-P227與P226一樣，都將操作部件設在槍身左側，位於滑套以下。槍身分解杆位於滑套座中部、扳機正上方。其後方依次是待擊解脫杆、空槍掛機解脫杆，以及位於握把中部、扳機後方的彈匣卡筍。使用者僅使用右手[拇指](../Page/拇指.md "wikilink")，即可操作擊錘待擊解脫杆、空槍掛機解脫杆和彈匣卡筍。但同樣地，因為這些操作部件均設在槍身左側，對於[左撇子使用者來說有點不便](../Page/左利手.md "wikilink")，左撇子使用者只能用扣扳機手指對這些部件進行控制操作。
+P227與P226一樣，都將操作部件設在槍身左側，位於滑套以下。槍身分解杆位於滑套座中部、扳機正上方。其後方依次是待擊解脫杆、空槍掛機解脫杆，以及位於握把中部、扳機後方的彈匣卡筍。使用者僅使用右手[拇指](https://zh.wikipedia.org/wiki/拇指 "wikilink")，即可操作擊錘待擊解脫杆、空槍掛機解脫杆和彈匣卡筍。但同樣地，因為這些操作部件均設在槍身左側，對於[左撇子使用者來說有點不便](../Page/左利手.md "wikilink")，左撇子使用者只能用扣扳機手指對這些部件進行控制操作。
 
 ## 衍生型
 
   - P227
-    Nitron型：屬於標準尺寸型手槍，全槍長195.58毫米（7.7英吋），槍管長111.76毫米（4.4英吋），採用全[Nitron塗層表面處理的黑色槍身](../Page/鐵素體氮碳共滲.md "wikilink")，設有導軌。\[1\]
-  - P227春分型：屬於標準尺寸型手槍，具有雙色調設計。其設計通過刷子將[套筒表面](../Page/手枪套筒.md "wikilink")[拋光處理和槍口內部的控件](../Page/拋光.md "wikilink")[镍實現](../Page/镍.md "wikilink")。
+    Nitron型：屬於標準尺寸型手槍，全槍長195.58毫米（7.7英吋），槍管長111.76毫米（4.4英吋），採用全[Nitron塗層](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")[表面處理的黑色槍身](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，設有導軌。\[1\]
+  - P227春分型：屬於標準尺寸型手槍，具有雙色調設計。其設計通過刷子將[套筒表面](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")[拋光處理和槍口內部的控件](https://zh.wikipedia.org/wiki/拋光 "wikilink")[镍實現](../Page/镍.md "wikilink")。
   - P227沙色型：屬於標準尺寸型手槍，具有沙色設計和黑色控件與握把。
   - P227便携型：屬於緊湊型手槍，全槍長180.34毫米（7.1英吋），槍管長99.06毫米（3.9英吋），設有導軌，並配備了兩個10發標準容量彈匣，容易。
   - P227便携Nitron型：屬於緊湊型手槍，P227
-    Carry型的[Nitron塗層表面處理版本](../Page/鐵素體氮碳共滲.md "wikilink")，同樣配備了兩個10發標準容量彈匣。\[2\]
+    Carry型的[Nitron塗層表面處理版本](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")，同樣配備了兩個10發標準容量彈匣。\[2\]
   - P227 SAS型第2代：屬於緊湊型手槍，尺寸與P227
-    Carry型相同，全槍長180.34毫米（7.1英吋），槍管長99.06毫米（3.9英吋），具有快速復位扳機（，簡稱：SRT）系統，其外觀具有將邊角進行了圓滑處理的[套筒與](../Page/手枪套筒.md "wikilink")[底把](../Page/机匣.md "wikilink")，並配備了兩個10發標準容量彈匣，但取消了導軌，適合個人防衛用途。\[3\]
-  - P227極限精英型：屬於大型尺寸型手槍，全槍長205.74毫米（8.1英吋），槍管長111.76毫米（4.4英吋），並配備了進一步提升[人體工學的延長](../Page/人因工程学.md "wikilink")[河狸尾狀握把](../Page/河狸.md "wikilink")、[套筒前方防滑紋](../Page/手槍套筒.md "wikilink")、快速復位扳機和SIGLITE夜間[照門](../Page/照門.md "wikilink")。
+    Carry型相同，全槍長180.34毫米（7.1英吋），槍管長99.06毫米（3.9英吋），具有快速復位扳機（，簡稱：SRT）系統，其外觀具有將邊角進行了圓滑處理的[套筒與](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")，並配備了兩個10發標準容量彈匣，但取消了導軌，適合個人防衛用途。\[3\]
+  - P227極限精英型：屬於大型尺寸型手槍，全槍長205.74毫米（8.1英吋），槍管長111.76毫米（4.4英吋），並配備了進一步提升[人體工學的延長](../Page/人因工程学.md "wikilink")[河狸尾狀握把](../Page/河狸.md "wikilink")、[套筒前方防滑紋](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、快速復位扳機和SIGLITE夜間[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")。
   - P227
     TACOPS型（，意為：戰術行動）：屬於大型尺寸型手槍，全槍長205.74毫米（8.1英吋），槍管長111.76毫米（4.4英吋），並配備了定制式握把、延長彈匣和四個14發[彈匣](../Page/彈匣.md "wikilink")。\[4\]
   - P227戰術型：屬於大型尺寸戰術型手槍，111.76毫米（4.4英吋）槍管上具有槍口外露螺紋以裝上[消聲器](../Page/抑制器.md "wikilink")，而且具有快速復位扳機，並帶有10發和14發彈彈匣各一個。
@@ -104,14 +104,15 @@ P227與P226一樣，都將操作部件設在槍身左側，位於滑套以下。
 
   - [SIG P220](../Page/SIG_P220手槍.md "wikilink")
   - [SIG P224](../Page/SIG_P224手槍.md "wikilink")
-  - [SIG P225](../Page/SIG_P225手槍.md "wikilink")
+  - [SIG P225](https://zh.wikipedia.org/wiki/SIG_P225手槍 "wikilink")
   - [SIG P226](../Page/SIG_P226手槍.md "wikilink")
   - [SIG P228](../Page/SIG_P228手槍.md "wikilink")
   - [SIG P229](../Page/SIG_P229手槍.md "wikilink")
-  - [SIG P245](../Page/SIG_P245手槍.md "wikilink")
-  - [SIG GSR](../Page/SIG_M1911手槍.md "wikilink")（SIG M1911）
+  - [SIG P245](https://zh.wikipedia.org/wiki/SIG_P245手槍 "wikilink")
+  - [SIG GSR](https://zh.wikipedia.org/wiki/SIG_M1911手槍 "wikilink")（SIG
+    M1911）
   - [貝瑞塔Px4 Storm手槍](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")
-  - [CZ-97手槍](../Page/CZ-97手槍.md "wikilink")
+  - [CZ-97手槍](https://zh.wikipedia.org/wiki/CZ-97手槍 "wikilink")
   - [FN FNX手槍](../Page/FN_FNX手槍.md "wikilink")
   - [格洛克21](../Page/格洛克21.md "wikilink")／[30](../Page/格洛克30.md "wikilink")／[41](../Page/格洛克41.md "wikilink")
   - [HK USP手槍](../Page/HK_USP手槍.md "wikilink")
@@ -119,7 +120,7 @@ P227與P226一樣，都將操作部件設在槍身左側，位於滑套以下。
   - [HK45手槍](../Page/HK45手槍.md "wikilink")
   - [HS2000手槍](../Page/HS2000手槍.md "wikilink")
   - [春田XDM手槍](../Page/春田XDM手槍.md "wikilink")
-  - [史密斯威森軍警型半自動手槍](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
+  - [史密斯威森軍警型半自動手槍](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")
 
 ## 資料來源
 

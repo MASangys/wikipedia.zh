@@ -1,4 +1,4 @@
-本列表為[日本](../Page/日本.md "wikilink")[動畫](../Page/動畫.md "wikilink")《[GUNDAM創戰者](../Page/GUNDAM創戰者.md "wikilink")》及其第二季動畫－GUNDAM創戰者TRY與外傳的登場原創模型。
+本列表為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[GUNDAM創戰者](../Page/GUNDAM創戰者.md "wikilink")》及其第二季動畫－GUNDAM創戰者TRY與外傳的登場原創模型。
 
 ## 第一季
 
@@ -64,7 +64,7 @@
   -
 
     外號「赤彗星」、現任聖鳳學園學生會長兼模型部會長的結城達也所製作的鋼普拉，是以在「MSV（Mobile Suit
-    Variation）」當中登場的「[高機動型薩克Ⅱ](../Page/MS-06系列機動戰士.md "wikilink")」為基礎。
+    Variation）」當中登場的「[高機動型薩克Ⅱ](https://zh.wikipedia.org/wiki/MS-06系列機動戰士 "wikilink")」為基礎。
 
     強化裝甲並在全身追加實彈武裝（有可能是顧慮到世界觀而不採用光束兵器），武裝的遠近平衡掌握得非常好，可以應付各種戰場環境，據說有部分零件是取自戰車模型的套件。
 
@@ -82,7 +82,7 @@
 
   -
     高坂千奈首次製作的鋼普拉，使用[模型戰士高達模型大師BEGINNING
-    G登場的](../Page/模型戰士高達模型大師BEGINNING_G.md "wikilink")「[熊亞凱](../Page/模型戰士高達模型大師BEGINNING_G.md "wikilink")」，加上「將可愛的布偶娃娃變成機器人」的獨自設定而成的作品，因此有著內藏大量填充棉花的特異設計（能把機體的實體攻擊反彈或以棉花拘束機體）。
+    G登場的](https://zh.wikipedia.org/wiki/模型戰士高達模型大師BEGINNING_G "wikilink")「[熊亞凱](https://zh.wikipedia.org/wiki/模型戰士高達模型大師BEGINNING_G "wikilink")」，加上「將可愛的布偶娃娃變成機器人」的獨自設定而成的作品，因此有著內藏大量填充棉花的特異設計（能把機體的實體攻擊反彈或以棉花拘束機體）。
     雖然是高坂千奈首次製作的模型，但是身為美術部員之一，其塗裝可說是非常漂亮，III的讀法為san（即日文中「先生」或「小姐」的意思），全名的原意為「熊亞凱先生」。
 
 {{-}}
@@ -92,7 +92,7 @@
 <!-- end list -->
 
   -
-    佐崎進在參加鋼彈祭的作品，強化「[強人](../Page/U.C.紀元GUNDAM作品機動兵器列表.md "wikilink")」的後繼機體。肩部裝有裝甲，擁有兩面攻守兼備的盾牌，背部裝有可以合體分離的支援機體。
+    佐崎進在參加鋼彈祭的作品，強化「[強人](https://zh.wikipedia.org/wiki/U.C.紀元GUNDAM作品機動兵器列表 "wikilink")」的後繼機體。肩部裝有裝甲，擁有兩面攻守兼備的盾牌，背部裝有可以合體分離的支援機體。
 
 {{-}}
 
@@ -174,7 +174,7 @@
 
   -
     以[機動戰士GUNDAM
-    馬沙之反擊中登場的](../Page/機動戰士GUNDAM_馬沙之反擊.md "wikilink")「[沙薩比](../Page/MSN-04型機動戰士.md "wikilink")」加以改造的高達模型。
+    馬沙之反擊中登場的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_馬沙之反擊 "wikilink")「[沙薩比](https://zh.wikipedia.org/wiki/MSN-04型機動戰士 "wikilink")」加以改造的高達模型。
     脱离“复仇女神”队的艾拉，在高坂千奈和结城达也的帮助下制作的模型。与红色的原型机相比，此机采用了灰色基调，体型如女性般细瘦，機動性高，是一部接近戰的機體。
     BANDAI于2014年3月发售的1/144 HG沙薩比小姐。
 
@@ -192,7 +192,7 @@
 <!-- end list -->
 
   -
-    以[機動戰士GUNDAM00中登場的](../Page/機動戰士GUNDAM00.md "wikilink")「[能天使GUNDAM](../Page/機動戰士GUNDAM_00登場機體列表.md "wikilink")」加以改造的高達模型，是以PPSE所持有的素體A5經過加工而成。
+    以[機動戰士GUNDAM00中登場的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM00 "wikilink")「[能天使GUNDAM](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場機體列表 "wikilink")」加以改造的高達模型，是以PPSE所持有的素體A5經過加工而成。
     在24話被星際製作攻擊鋼彈大破後，以能天使鋼彈R1的斗蓬覆蓋損壞的左肩（R1是覆蓋斷臂），身上多塊裝甲也毀損了。此型態仍可使用「Trans-AM」。
     於25話首次，也是最後一次登場。於最後跟修復後的星創攻擊鋼彈進行戰鬥（此時使用的是驚異肯普法的右手，左腳裝甲以及光束歩槍）。
 
@@ -220,7 +220,7 @@
 <!-- end list -->
 
   -
-    以[機動戰士高達0080：口袋中的戰爭中登場的](../Page/機動戰士高達0080：口袋中的戰爭.md "wikilink")「[吉姆狙擊型II](../Page/U.C.纪元GUNDAM作品机动兵器列表.md "wikilink")」為基礎進行改造的鋼普拉。機體可以使用對Newtype專用的**EXAM
+    以[機動戰士高達0080：口袋中的戰爭中登場的](https://zh.wikipedia.org/wiki/機動戰士高達0080：口袋中的戰爭 "wikilink")「[吉姆狙擊型II](../Page/U.C.纪元GUNDAM作品机动兵器列表.md "wikilink")」為基礎進行改造的鋼普拉。機體可以使用對Newtype專用的**EXAM
     SYSTEM**。
 
 {{-}}
@@ -242,7 +242,7 @@
 <!-- end list -->
 
   -
-    以[機動戰士高達中登場的](../Page/機動戰士高達.md "wikilink")「[吉翁克](../Page/U.C.纪元GUNDAM作品机动兵器列表.md "wikilink")」為基礎進行改造的水底用鋼普拉。
+    以[機動戰士高達中登場的](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")「[吉翁克](../Page/U.C.纪元GUNDAM作品机动兵器列表.md "wikilink")」為基礎進行改造的水底用鋼普拉。
     爲鋼普拉黑手黨「C」使用。在機身底部，裝有三條爪臂並內置米加粒子炮。熱能棒和爪臂可把敵人拉進水下作戰，以此抓住敵人。
 
 :;
@@ -250,7 +250,7 @@
   -
 
       -
-        以[機動戰士高達中登場的](../Page/機動戰士高達.md "wikilink")「[吉翁克](../Page/U.C.纪元GUNDAM作品机动兵器列表.md "wikilink")」為基礎進行改造的宇宙用鋼普拉。
+        以[機動戰士高達中登場的](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")「[吉翁克](../Page/U.C.纪元GUNDAM作品机动兵器列表.md "wikilink")」為基礎進行改造的宇宙用鋼普拉。
         爲鋼普拉黑手黨「C」使用。和地獄吉翁克水兵型大同小異，專門從事宇宙戰。在機身底部，裝有兩條爪臂並內置米加粒子炮，兩條爪臂也可以抓住敵人。腿的爪臂前端可以通過單獨的有線控制。由于手臂也持相同的功能，所以手腳能進行全方位攻擊。
 
 {{-}}
@@ -290,7 +290,7 @@
 
   -
     高坂祐馬根據[機動戰士GUNDAM
-    馬沙之反擊中登場的](../Page/機動戰士GUNDAM_馬沙之反擊.md "wikilink")「[靈格斯](../Page/機動戰士GUNDAM_馬沙之反擊.md "wikilink")」為基礎，而制作出的鋼彈模型。背部武器系統經過獨自改造而進化。善于長距離射擊。
+    馬沙之反擊中登場的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_馬沙之反擊 "wikilink")「[靈格斯](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_馬沙之反擊 "wikilink")」為基礎，而制作出的鋼彈模型。背部武器系統經過獨自改造而進化。善于長距離射擊。
 
 :;
 
@@ -369,7 +369,7 @@
 
   -
     佐崎薰子的鋼普拉。以[機動戰士GUNDAM
-    ZZ中登場的](../Page/機動戰士GUNDAM_ZZ.md "wikilink")「[R・查查](../Page/機動戰士GUNDAM_ZZ.md "wikilink")」為基礎，在機體的基礎上繼承「[強人](../Page/U.C.紀元GUNDAM作品機動兵器列表.md "wikilink")」的設計思想，更接近「[強人](../Page/U.C.紀元GUNDAM作品機動兵器列表.md "wikilink")」的設計而改造。
+    ZZ中登場的](../Page/機動戰士GUNDAM_ZZ.md "wikilink")「[R・查查](../Page/機動戰士GUNDAM_ZZ.md "wikilink")」為基礎，在機體的基礎上繼承「[強人](https://zh.wikipedia.org/wiki/U.C.紀元GUNDAM作品機動兵器列表 "wikilink")」的設計思想，更接近「[強人](https://zh.wikipedia.org/wiki/U.C.紀元GUNDAM作品機動兵器列表 "wikilink")」的設計而改造。
 
 {{-}}
 
@@ -526,7 +526,7 @@
 <!-- end list -->
 
   -
-    第三代川口名人（結城達也）制作、以單行本作品[模型狂四郎登場機體](../Page/模型狂四郎.md "wikilink")「Red
+    第三代川口名人（結城達也）制作、以單行本作品[模型狂四郎登場機體](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")「Red
     Warrior」為藍本改造而成，同時是向使用「[完美高達](../Page/GUNDAM系機動戰士.md "wikilink")」的伊織毅致敬（Red
     Warrior即完美高達III）；未增重而僅大幅強化了推力，保留原有肩部噴口模塊可動功能；武器種類多樣且裏面多有可組合的，根據戰況選擇使用既可對應各種局面亦不致有過重之虞。
 

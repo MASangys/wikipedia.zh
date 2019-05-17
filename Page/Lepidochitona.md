@@ -1,54 +1,58 @@
-******是[多板纲](../Page/多板纲.md "wikilink")[新石鳖亞綱](../Page/新石鳖亞綱.md "wikilink")[石鳖目](../Page/石鳖目.md "wikilink")[鬃毛石鱉總科](../Page/鬃毛石鱉總科.md "wikilink")[Lepidochitonidae科之下的一個](../Page/Lepidochitonidae.md "wikilink")[屬](../Page/屬_\(生物\).md "wikilink")。本屬曾被編入[Tonicellidae](../Page/Tonicellidae.md "wikilink")、[薄石鱉科](../Page/薄石鱉科.md "wikilink")\[1\]。
+******是[多板纲](../Page/多板纲.md "wikilink")[新石鳖亞綱](https://zh.wikipedia.org/wiki/新石鳖亞綱 "wikilink")[石鳖目](../Page/石鳖目.md "wikilink")[鬃毛石鱉總科](https://zh.wikipedia.org/wiki/鬃毛石鱉總科 "wikilink")[Lepidochitonidae科之下的一個](../Page/Lepidochitonidae.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")。本屬曾被編入[Tonicellidae](../Page/Tonicellidae.md "wikilink")、[薄石鱉科](../Page/薄石鱉科.md "wikilink")\[1\]。
 
 *[L.
-raymondi](../Page/Lepidochitona_raymondi.md "wikilink")*是多板綱唯一的一個[雌雄間性物種](../Page/雌雄間性.md "wikilink")\[2\]。
+raymondi](https://zh.wikipedia.org/wiki/Lepidochitona_raymondi "wikilink")*是多板綱唯一的一個[雌雄間性物種](../Page/雌雄間性.md "wikilink")\[2\]。
 
-本屬包括有不少[化石種](../Page/化石種.md "wikilink")，但今時今日亦有[現生種](../Page/現生種.md "wikilink")\[3\]。
+本屬包括有不少[化石種](https://zh.wikipedia.org/wiki/化石種 "wikilink")，但今時今日亦有[現生種](https://zh.wikipedia.org/wiki/現生種 "wikilink")\[3\]。
 
 ## 物種
 
-以下根據[WoRMS的紀錄詳列本屬各物種](../Page/WoRMS.md "wikilink")\[4\]：
+以下根據[WoRMS的紀錄詳列本屬各物種](https://zh.wikipedia.org/wiki/WoRMS "wikilink")\[4\]：
 
   - *[Lepidochitona
-    aleutica](../Page/Lepidochitona_aleutica.md "wikilink")*
+    aleutica](https://zh.wikipedia.org/wiki/Lepidochitona_aleutica "wikilink")*
   - *[Lepidochitona
-    bullocki](../Page/Lepidochitona_bullocki.md "wikilink")*
+    bullocki](https://zh.wikipedia.org/wiki/Lepidochitona_bullocki "wikilink")*
   - *[Lepidochitona
-    caboverdensis](../Page/Lepidochitona_caboverdensis.md "wikilink")*
+    caboverdensis](https://zh.wikipedia.org/wiki/Lepidochitona_caboverdensis "wikilink")*
   - *[Lepidochitona
-    canariensis](../Page/Lepidochitona_canariensis.md "wikilink")*
+    canariensis](https://zh.wikipedia.org/wiki/Lepidochitona_canariensis "wikilink")*
   - *[Lepidochitona
-    caprearum](../Page/Lepidochitona_caprearum.md "wikilink")*
+    caprearum](https://zh.wikipedia.org/wiki/Lepidochitona_caprearum "wikilink")*
   - *[Lepidochitona
-    cinerea](../Page/Lepidochitona_cinerea.md "wikilink")*
+    cinerea](https://zh.wikipedia.org/wiki/Lepidochitona_cinerea "wikilink")*
   - *[Lepidochitona
-    dicksae](../Page/Lepidochitona_dicksae.md "wikilink")*
+    dicksae](https://zh.wikipedia.org/wiki/Lepidochitona_dicksae "wikilink")*
   - *[Lepidochitona
-    furtiva](../Page/Lepidochitona_furtiva.md "wikilink")*
+    furtiva](https://zh.wikipedia.org/wiki/Lepidochitona_furtiva "wikilink")*
   - *[Lepidochitona
-    iberica](../Page/Lepidochitona_iberica.md "wikilink")*
-  - *[Lepidochitona kaasi](../Page/Lepidochitona_kaasi.md "wikilink")*
+    iberica](https://zh.wikipedia.org/wiki/Lepidochitona_iberica "wikilink")*
   - *[Lepidochitona
-    liozonis](../Page/Lepidochitona_liozonis.md "wikilink")*
+    kaasi](https://zh.wikipedia.org/wiki/Lepidochitona_kaasi "wikilink")*
   - *[Lepidochitona
-    monterosatoi](../Page/Lepidochitona_monterosatoi.md "wikilink")*
+    liozonis](https://zh.wikipedia.org/wiki/Lepidochitona_liozonis "wikilink")*
   - *[Lepidochitona
-    piceola](../Page/Lepidochitona_piceola.md "wikilink")*
-  - *[Lepidochitona rolani](../Page/Lepidochitona_rolani.md "wikilink")*
-  - *[Lepidochitona rosea](../Page/Lepidochitona_rosea.md "wikilink")*
-  - *[Lepidochitona rufoi](../Page/Lepidochitona_rufoi.md "wikilink")*
+    monterosatoi](https://zh.wikipedia.org/wiki/Lepidochitona_monterosatoi "wikilink")*
   - *[Lepidochitona
-    salvadorensis](../Page/Lepidochitona_salvadorensis.md "wikilink")*
+    piceola](https://zh.wikipedia.org/wiki/Lepidochitona_piceola "wikilink")*
   - *[Lepidochitona
-    severianoi](../Page/Lepidochitona_severianoi.md "wikilink")*
+    rolani](https://zh.wikipedia.org/wiki/Lepidochitona_rolani "wikilink")*
   - *[Lepidochitona
-    simrothi](../Page/Lepidochitona_simrothi.md "wikilink")*
+    rosea](https://zh.wikipedia.org/wiki/Lepidochitona_rosea "wikilink")*
   - *[Lepidochitona
-    stroemfelti](../Page/Lepidochitona_stroemfelti.md "wikilink")*
+    rufoi](https://zh.wikipedia.org/wiki/Lepidochitona_rufoi "wikilink")*
   - *[Lepidochitona
-    subaleutica](../Page/Lepidochitona_subaleutica.md "wikilink")*
+    salvadorensis](https://zh.wikipedia.org/wiki/Lepidochitona_salvadorensis "wikilink")*
   - *[Lepidochitona
-    turtoni](../Page/Lepidochitona_turtoni.md "wikilink")*
+    severianoi](https://zh.wikipedia.org/wiki/Lepidochitona_severianoi "wikilink")*
+  - *[Lepidochitona
+    simrothi](https://zh.wikipedia.org/wiki/Lepidochitona_simrothi "wikilink")*
+  - *[Lepidochitona
+    stroemfelti](https://zh.wikipedia.org/wiki/Lepidochitona_stroemfelti "wikilink")*
+  - *[Lepidochitona
+    subaleutica](https://zh.wikipedia.org/wiki/Lepidochitona_subaleutica "wikilink")*
+  - *[Lepidochitona
+    turtoni](https://zh.wikipedia.org/wiki/Lepidochitona_turtoni "wikilink")*
 
 ## 参考文献
 

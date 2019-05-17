@@ -1,7 +1,7 @@
-**ROMEO**（；），由[HUNUS旗下子公司CT娛樂於](../Page/HUNUS娛樂.md "wikilink")2015年第一個推出的七人男子組合，於2015年5月7日推出首張迷你專輯《THE
+**ROMEO**（；），由[HUNUS旗下子公司CT娛樂於](https://zh.wikipedia.org/wiki/HUNUS娛樂 "wikilink")2015年第一個推出的七人男子組合，於2015年5月7日推出首張迷你專輯《THE
 ROMEO》，以《LOVESICK》（因為漂亮／예쁘니까）正式出道。出道時平均年齡17.7歲。
 
-組合名稱「ROMEO」來自莎士比亞的名作《[羅密歐與茱麗葉](../Page/羅密歐與茱麗葉.md "wikilink")》，形象也如羅密歐一樣，洋溢著純真、心動、熱情、幸福、永恆、信任和希望七種氣息。
+組合名稱「ROMEO」來自莎士比亞的名作《[羅密歐與茱麗葉](https://zh.wikipedia.org/wiki/羅密歐與茱麗葉 "wikilink")》，形象也如羅密歐一樣，洋溢著純真、心動、熱情、幸福、永恆、信任和希望七種氣息。
 
 官方粉絲名由ROMEO成員們採不記名投票後選出，名為茱麗葉（）。
 
@@ -50,7 +50,7 @@ ROMEO》，以《LOVESICK》（因為漂亮／예쁘니까）正式出道。出�
 <td><p>首張數碼單曲《<strong>Nightmare</strong>》</p>
 <ul>
 <li>發行日期：2016年5月25日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@ ROMEO》，以《LOVESICK》（因為漂亮／예쁘니까）正式出道。出�
 <td><p>首張迷你專輯《<strong>The ROMEO</strong>》</p>
 <ul>
 <li>發行日期：2015年5月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -148,7 +148,7 @@ Special</strong></p></td>
 <td><p>首張日語單曲《<strong>WITHOUT U</strong>》</p>
 <ul>
 <li>發行日期：2017年7月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -166,68 +166,68 @@ Special</strong></p></td>
 
 ## 音樂現場
 
-| 2015年                                                    |
-| -------------------------------------------------------- |
-| 名稱                                                       |
-| **LOVESICK**                                             |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink")      |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")          |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                       |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") |
-| [Show Champion](../Page/Show_Champion.md "wikilink")     |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                       |
-| Simply K-Pop                                             |
-| **TARGET**                                               |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink")      |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                       |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                       |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")          |
-| [Show Champion](../Page/Show_Champion.md "wikilink")     |
-| Simply K-Pop                                             |
-|                                                          |
+| 2015年                                                                  |
+| ---------------------------------------------------------------------- |
+| 名稱                                                                     |
+| **LOVESICK**                                                           |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  |
+| Simply K-Pop                                                           |
+| **TARGET**                                                             |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| Simply K-Pop                                                           |
+|                                                                        |
+
+| 2016年                                                                  |
+| ---------------------------------------------------------------------- |
+| 名稱                                                                     |
+| **TARGET**                                                             |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+| Simply K-Pop                                                           |
+| **Nightmare**                                                          |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |
+| **MIRO**                                                               |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  |
+| Simply K-Pop                                                           |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+|                                                                        |
+
+| 2017年                                                                  |
+| ---------------------------------------------------------------------- |
+| 名稱                                                                     |
+| **니가 없는데(Without U)**                                                  |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  |
+| Simply K-Pop                                                           |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")               |
+|                                                                        |
+
+## 特別舞台
 
 | 2016年                                                    |
 | -------------------------------------------------------- |
 | 名稱                                                       |
-| **TARGET**                                               |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") |
-| Simply K-Pop                                             |
-| **Nightmare**                                            |
-| [Show Champion](../Page/Show_Champion.md "wikilink")     |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")          |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                       |
-| **MIRO**                                                 |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink")      |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                       |
-| [Show Champion](../Page/Show_Champion.md "wikilink")     |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                       |
-| Simply K-Pop                                             |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")          |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") |
+| **Ultra Dance Festival(Six Pack)**                       |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink") |
 |                                                          |
-
-| 2017年                                                    |
-| -------------------------------------------------------- |
-| 名稱                                                       |
-| **니가 없는데(Without U)**                                    |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink")      |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                       |
-| [Show Champion](../Page/Show_Champion.md "wikilink")     |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                       |
-| Simply K-Pop                                             |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")          |
-| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") |
-|                                                          |
-
-## 特別舞台
-
-| 2016年                                 |
-| ------------------------------------- |
-| 名稱                                    |
-| **Ultra Dance Festival(Six Pack)**    |
-| [人氣歌謠](../Page/SBS人氣歌謠.md "wikilink") |
-|                                       |
 
 ## 影視作品
 
@@ -243,16 +243,16 @@ Special</strong></p></td>
 
 #### 其他綜藝節目
 
-|              |                                          |                 |
-| ------------ | ---------------------------------------- | --------------- |
-| 日期           | 節目名稱                                     | 參與成員            |
-| 2015年12月1日   | After School Club                        | 全體              |
-| 2016年3月13日   | 出發夢之隊2                                   | 全體              |
-| 2016年7月12日   | After School Club                        | 全體              |
-| 2016年8月5日    | 我愛偶像                                     | 全體              |
-| 2017年4月10日   | 我愛偶像                                     | 全體              |
-| 2017年10月18日- | [MIXNINE](../Page/MIXNINE.md "wikilink") | 尹性、Milo、Kyle、賢敬 |
-|              |                                          |                 |
+|              |                                                             |                 |
+| ------------ | ----------------------------------------------------------- | --------------- |
+| 日期           | 節目名稱                                                        | 參與成員            |
+| 2015年12月1日   | After School Club                                           | 全體              |
+| 2016年3月13日   | 出發夢之隊2                                                      | 全體              |
+| 2016年7月12日   | After School Club                                           | 全體              |
+| 2016年8月5日    | 我愛偶像                                                        | 全體              |
+| 2017年4月10日   | 我愛偶像                                                        | 全體              |
+| 2017年10月18日- | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | 尹性、Milo、Kyle、賢敬 |
+|              |                                                             |                 |
 
 ### 網路劇
 

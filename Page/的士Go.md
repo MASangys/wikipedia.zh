@@ -1,4 +1,4 @@
-《**的士Go**》（****）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[旅遊節目](../Page/旅遊.md "wikilink")，以[的士司機作為主導](../Page/的士.md "wikilink")，節目一共有兩季，第一季於2016年7月6日至9月8日逢星期三至四22:00－22:30於[ViuTV播出](../Page/ViuTV.md "wikilink")\[1\]，第二季於2018年12月15日至2019年3月2日逢星期六22:30－23:00播出\[2\]。
+《**的士Go**》（****）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[旅遊節目](https://zh.wikipedia.org/wiki/旅遊 "wikilink")，以[的士司機作為主導](https://zh.wikipedia.org/wiki/的士 "wikilink")，節目一共有兩季，第一季於2016年7月6日至9月8日逢星期三至四22:00－22:30於[ViuTV播出](../Page/ViuTV.md "wikilink")\[1\]，第二季於2018年12月15日至2019年3月2日逢星期六22:30－23:00播出\[2\]。
 
 ## 節目簡介
 
@@ -30,7 +30,7 @@
 <td><p>Eric</p></td>
 <td><p><a href="../Page/陳俞希.md" title="wikilink">陳俞希</a></p></td>
 <td></td>
-<td><p><a href="../Page/西灣河.md" title="wikilink">西灣河</a><a href="../Page/太安樓.md" title="wikilink">太安樓</a>、<a href="../Page/中環.md" title="wikilink">中環</a><a href="../Page/卑利街.md" title="wikilink">卑利街</a>、<a href="../Page/大坑_(香港).md" title="wikilink">大坑</a><a href="../Page/京街.md" title="wikilink">京街</a>[7]</p></td>
+<td><p><a href="../Page/西灣河.md" title="wikilink">西灣河</a><a href="../Page/太安樓.md" title="wikilink">太安樓</a>、<a href="../Page/中環.md" title="wikilink">中環</a><a href="../Page/卑利街.md" title="wikilink">卑利街</a>、<a href="../Page/大坑_(香港).md" title="wikilink">大坑</a><a href="https://zh.wikipedia.org/wiki/京街" title="wikilink">京街</a>[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -40,17 +40,17 @@
 <td><p>Eric</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/灣仔.md" title="wikilink">灣仔</a><a href="../Page/春園街.md" title="wikilink">春園街</a>、<a href="../Page/交加街.md" title="wikilink">交加街</a>、<a href="../Page/太原街.md" title="wikilink">太原街</a>、<a href="../Page/日街.md" title="wikilink">日街</a>、<a href="../Page/月街.md" title="wikilink">月街</a>、<a href="../Page/星街.md" title="wikilink">星街</a>、<a href="../Page/譚臣道.md" title="wikilink">譚臣道</a></p></td>
+<td><p><a href="../Page/灣仔.md" title="wikilink">灣仔</a><a href="../Page/春園街.md" title="wikilink">春園街</a>、<a href="https://zh.wikipedia.org/wiki/交加街" title="wikilink">交加街</a>、<a href="https://zh.wikipedia.org/wiki/太原街" title="wikilink">太原街</a>、<a href="../Page/日街.md" title="wikilink">日街</a>、<a href="../Page/月街.md" title="wikilink">月街</a>、<a href="../Page/星街.md" title="wikilink">星街</a>、<a href="../Page/譚臣道.md" title="wikilink">譚臣道</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>7月13日</p></td>
 <td><p>大埔墟</p></td>
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
-<td><p><a href="../Page/鄺念恩.md" title="wikilink">Tommy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄺念恩" title="wikilink">Tommy</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/大埔.md" title="wikilink">大埔</a><a href="../Page/鄉事會街.md" title="wikilink">鄉事會街</a>（<a href="../Page/大埔墟街市.md" title="wikilink">大埔墟街市</a>）、<a href="../Page/大美督.md" title="wikilink">大美督</a>、<a href="../Page/寶湖道.md" title="wikilink">寶湖道</a>（<a href="../Page/寶湖道街市.md" title="wikilink">寶湖道街市</a>）[8]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大埔" title="wikilink">大埔</a><a href="https://zh.wikipedia.org/wiki/鄉事會街" title="wikilink">鄉事會街</a>（<a href="https://zh.wikipedia.org/wiki/大埔墟街市" title="wikilink">大埔墟街市</a>）、<a href="https://zh.wikipedia.org/wiki/大美督" title="wikilink">大美督</a>、<a href="https://zh.wikipedia.org/wiki/寶湖道" title="wikilink">寶湖道</a>（<a href="https://zh.wikipedia.org/wiki/寶湖道街市" title="wikilink">寶湖道街市</a>）[8]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -60,14 +60,14 @@
 <td><p>黃偉文</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/九龍城.md" title="wikilink">九龍城</a><a href="../Page/啟德道.md" title="wikilink">啟德道</a>、<a href="../Page/沙田.md" title="wikilink">沙田</a><a href="../Page/小瀝源路遊樂場.md" title="wikilink">小瀝源路遊樂場</a>、<a href="../Page/土瓜灣道.md" title="wikilink">土瓜灣道</a></p></td>
+<td><p><a href="../Page/九龍城.md" title="wikilink">九龍城</a><a href="https://zh.wikipedia.org/wiki/啟德道" title="wikilink">啟德道</a>、<a href="https://zh.wikipedia.org/wiki/沙田" title="wikilink">沙田</a><a href="../Page/小瀝源路遊樂場.md" title="wikilink">小瀝源路遊樂場</a>、<a href="../Page/土瓜灣道.md" title="wikilink">土瓜灣道</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/虞逸峯.md" title="wikilink">虞逸峯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞逸峯" title="wikilink">虞逸峯</a></p></td>
 <td><p>Susan Ng</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/濱海藝術中心.md" title="wikilink">濱海藝術中心</a><a href="../Page/圖書館.md" title="wikilink">圖書館</a>、<a href="../Page/黃埔巴剎熟食中心.md" title="wikilink">黃埔巴剎熟食中心</a>、</p></td>
+<td><p><a href="../Page/濱海藝術中心.md" title="wikilink">濱海藝術中心</a><a href="https://zh.wikipedia.org/wiki/圖書館" title="wikilink">圖書館</a>、<a href="https://zh.wikipedia.org/wiki/黃埔巴剎熟食中心" title="wikilink">黃埔巴剎熟食中心</a>、</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -76,36 +76,36 @@
 <td><p>5</p></td>
 <td><p>7月20日</p></td>
 <td><p>新加坡</p></td>
-<td><p><a href="../Page/虞逸峯.md" title="wikilink">虞逸峯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞逸峯" title="wikilink">虞逸峯</a></p></td>
 <td><p>Sylvester Fong（老馮）</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/濱海灣花園.md" title="wikilink">濱海灣花園</a>、、<a href="../Page/The_Projector.md" title="wikilink">The Projector</a>、、<a href="../Page/克拉碼頭.md" title="wikilink">克拉碼頭</a>[9]</p></td>
+<td><p><a href="../Page/濱海灣花園.md" title="wikilink">濱海灣花園</a>、、<a href="https://zh.wikipedia.org/wiki/The_Projector" title="wikilink">The Projector</a>、、<a href="https://zh.wikipedia.org/wiki/克拉碼頭" title="wikilink">克拉碼頭</a>[9]</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>7月21日</p></td>
 <td><p>新加坡</p></td>
-<td><p><a href="../Page/虞逸峯.md" title="wikilink">虞逸峯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞逸峯" title="wikilink">虞逸峯</a></p></td>
 <td><p>Sylvester Fong（老馮）</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/小印度.md" title="wikilink">小印度</a>、<a href="../Page/Indian_Haritage_Centre.md" title="wikilink">Indian Haritage Centre</a>、<a href="../Page/中峇魯.md" title="wikilink">中峇魯</a>、<a href="../Page/Forty_Hands.md" title="wikilink">Forty Hands</a>、<strong></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小印度" title="wikilink">小印度</a>、<a href="https://zh.wikipedia.org/wiki/Indian_Haritage_Centre" title="wikilink">Indian Haritage Centre</a>、<a href="https://zh.wikipedia.org/wiki/中峇魯" title="wikilink">中峇魯</a>、<a href="https://zh.wikipedia.org/wiki/Forty_Hands" title="wikilink">Forty Hands</a>、<strong></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>7月27日</p></td>
 <td><p>新加坡</p></td>
-<td><p><a href="../Page/虞逸峯.md" title="wikilink">虞逸峯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞逸峯" title="wikilink">虞逸峯</a></p></td>
 <td><p>Mr. Tan</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/牛車水.md" title="wikilink">牛車水大廈</a>、、<a href="../Page/Orchard_Road.md" title="wikilink">Orchard Road</a></p></td>
+<td><p><a href="../Page/牛車水.md" title="wikilink">牛車水大廈</a>、、<a href="https://zh.wikipedia.org/wiki/Orchard_Road" title="wikilink">Orchard Road</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Mr. George Lim</p></td>
 <td></td>
-<td><p><a href="../Page/Geylang_District.md" title="wikilink">Geylang District</a>、、<a href="../Page/Jln_Tampang.md" title="wikilink">Jln Tampang</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Geylang_District" title="wikilink">Geylang District</a>、、<a href="https://zh.wikipedia.org/wiki/Jln_Tampang" title="wikilink">Jln Tampang</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,8 +119,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>汪大哥</p></td>
 <td><p><a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
-<td><p><a href="../Page/深圳.md" title="wikilink">深圳</a></p></td>
-<td><p><a href="../Page/寶安區.md" title="wikilink">寶安區</a><a href="../Page/寶民一路.md" title="wikilink">寶民一路</a>、<a href="../Page/深圳市.md" title="wikilink">深圳市</a><a href="../Page/開平街.md" title="wikilink">開平街</a>、<a href="../Page/南山區.md" title="wikilink">南山區</a><a href="../Page/南新路.md" title="wikilink">南新路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寶安區" title="wikilink">寶安區</a><a href="https://zh.wikipedia.org/wiki/寶民一路" title="wikilink">寶民一路</a>、<a href="../Page/深圳市.md" title="wikilink">深圳市</a><a href="https://zh.wikipedia.org/wiki/開平街" title="wikilink">開平街</a>、<a href="https://zh.wikipedia.org/wiki/南山區" title="wikilink">南山區</a><a href="https://zh.wikipedia.org/wiki/南新路" title="wikilink">南新路</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
@@ -129,44 +129,44 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>汪大哥</p></td>
 <td><p><a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
-<td><p><a href="../Page/深圳.md" title="wikilink">深圳</a></p></td>
-<td><p><a href="../Page/南山區.md" title="wikilink">南山區</a><a href="../Page/南頭街.md" title="wikilink">南頭街與</a><a href="../Page/南山大道.md" title="wikilink">南山大道交界</a>、南山大道<a href="../Page/漢唐街.md" title="wikilink">漢唐街</a>、<a href="../Page/深南大道.md" title="wikilink">深南大道</a>（<a href="../Page/南頭古城.md" title="wikilink">南頭古城</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南山區" title="wikilink">南山區</a><a href="https://zh.wikipedia.org/wiki/南頭街" title="wikilink">南頭街與</a><a href="../Page/南山大道.md" title="wikilink">南山大道交界</a>、南山大道<a href="https://zh.wikipedia.org/wiki/漢唐街" title="wikilink">漢唐街</a>、<a href="https://zh.wikipedia.org/wiki/深南大道" title="wikilink">深南大道</a>（<a href="https://zh.wikipedia.org/wiki/南頭古城" title="wikilink">南頭古城</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>8月4日</p></td>
 <td><p>台北</p></td>
-<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
 <td><p>廖大哥</p></td>
 <td></td>
-<td><p><a href="../Page/台北.md" title="wikilink">台北</a></p></td>
-<td><p><a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/中正區.md" title="wikilink">中正區</a><a href="../Page/汀州路.md" title="wikilink">汀州路</a>（<a href="../Page/寶藏巖.md" title="wikilink">寶藏巖</a>）、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/中山區.md" title="wikilink">中山區</a><a href="../Page/中山北路.md" title="wikilink">中山北路</a>、<a href="../Page/新北市.md" title="wikilink">新北市</a><a href="../Page/新店區.md" title="wikilink">新店區</a><a href="../Page/碧潭風景區.md" title="wikilink">碧潭風景區</a>、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/大安區.md" title="wikilink">大安區</a><a href="../Page/延吉街.md" title="wikilink">延吉街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/中正區" title="wikilink">中正區</a><a href="https://zh.wikipedia.org/wiki/汀州路" title="wikilink">汀州路</a>（<a href="../Page/寶藏巖.md" title="wikilink">寶藏巖</a>）、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/中山區" title="wikilink">中山區</a><a href="https://zh.wikipedia.org/wiki/中山北路" title="wikilink">中山北路</a>、<a href="https://zh.wikipedia.org/wiki/新北市" title="wikilink">新北市</a><a href="../Page/新店區.md" title="wikilink">新店區</a><a href="https://zh.wikipedia.org/wiki/碧潭風景區" title="wikilink">碧潭風景區</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="https://zh.wikipedia.org/wiki/延吉街" title="wikilink">延吉街</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>8月10日</p></td>
 <td><p>台北</p></td>
-<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
 <td><p>小甘</p></td>
 <td><p>牛奶</p></td>
-<td><p><a href="../Page/台北.md" title="wikilink">台北</a></p></td>
-<td><p><a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/大安區.md" title="wikilink">大安區</a><a href="../Page/潮州街.md" title="wikilink">潮州街</a>、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="../Page/光明路.md" title="wikilink">光明路</a>（<a href="../Page/臺北市立圖書館.md" title="wikilink">臺北市立圖書館北投分館</a>）、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="../Page/中和街.md" title="wikilink">中和街</a>、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/中正區.md" title="wikilink">中正區</a><a href="../Page/濟南路.md" title="wikilink">濟南路</a>、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/大安區.md" title="wikilink">大安區</a><a href="../Page/安和路.md" title="wikilink">安和路</a>、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/大安區.md" title="wikilink">大安區</a><a href="../Page/復興南路.md" title="wikilink">復興南路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="https://zh.wikipedia.org/wiki/潮州街" title="wikilink">潮州街</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="https://zh.wikipedia.org/wiki/光明路" title="wikilink">光明路</a>（<a href="../Page/臺北市立圖書館.md" title="wikilink">臺北市立圖書館北投分館</a>）、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/北投區.md" title="wikilink">北投區</a><a href="https://zh.wikipedia.org/wiki/中和街" title="wikilink">中和街</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/中正區" title="wikilink">中正區</a><a href="https://zh.wikipedia.org/wiki/濟南路" title="wikilink">濟南路</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="https://zh.wikipedia.org/wiki/安和路" title="wikilink">安和路</a>、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/大安區" title="wikilink">大安區</a><a href="../Page/復興南路.md" title="wikilink">復興南路</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>8月11日</p></td>
 <td><p>台北</p></td>
-<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
 <td><p>小甘</p></td>
 <td></td>
-<td><p><a href="../Page/台北.md" title="wikilink">台北</a></p></td>
-<td><p><a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/萬華區.md" title="wikilink">萬華區</a><a href="../Page/中華路.md" title="wikilink">中華路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/萬華區.md" title="wikilink">萬華區</a><a href="../Page/中華路.md" title="wikilink">中華路</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
 <td><p>廖大哥</p></td>
 <td></td>
-<td><p><a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/信義區.md" title="wikilink">信義區</a><a href="../Page/光復南路.md" title="wikilink">光復南路</a>（<a href="../Page/光復市場.md" title="wikilink">光復市場</a>）、<a href="../Page/台北市.md" title="wikilink">台北市</a><a href="../Page/中正區.md" title="wikilink">中正區</a><a href="../Page/武昌街.md" title="wikilink">武昌街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/信義區" title="wikilink">信義區</a><a href="https://zh.wikipedia.org/wiki/光復南路" title="wikilink">光復南路</a>（<a href="https://zh.wikipedia.org/wiki/光復市場" title="wikilink">光復市場</a>）、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/中正區" title="wikilink">中正區</a><a href="https://zh.wikipedia.org/wiki/武昌街" title="wikilink">武昌街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,8 +175,8 @@
 <tr class="odd">
 <td><p>十二叔</p></td>
 <td></td>
-<td><p><a href="../Page/台中.md" title="wikilink">台中</a></p></td>
-<td><p><a href="../Page/台中.md" title="wikilink">台中</a><a href="../Page/北屯區.md" title="wikilink">北屯區</a><a href="../Page/東山路.md" title="wikilink">東山路</a>、<a href="../Page/台中市.md" title="wikilink">台中市</a><a href="../Page/西區.md" title="wikilink">西區</a><a href="../Page/林森路.md" title="wikilink">林森路</a>、<a href="../Page/台中市.md" title="wikilink">台中市</a><a href="../Page/西區.md" title="wikilink">西區</a><a href="../Page/自治街.md" title="wikilink">自治街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台中" title="wikilink">台中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台中" title="wikilink">台中</a><a href="../Page/北屯區.md" title="wikilink">北屯區</a><a href="https://zh.wikipedia.org/wiki/東山路" title="wikilink">東山路</a>、<a href="https://zh.wikipedia.org/wiki/台中市" title="wikilink">台中市</a><a href="../Page/西區.md" title="wikilink">西區</a><a href="https://zh.wikipedia.org/wiki/林森路" title="wikilink">林森路</a>、<a href="https://zh.wikipedia.org/wiki/台中市" title="wikilink">台中市</a><a href="../Page/西區.md" title="wikilink">西區</a><a href="https://zh.wikipedia.org/wiki/自治街" title="wikilink">自治街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,8 +189,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>湯大哥</p></td>
 <td><p>Cindy</p></td>
-<td><p><a href="../Page/高雄.md" title="wikilink">高雄</a></p></td>
-<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/鹽埕區.md" title="wikilink">鹽埕區</a><a href="../Page/大仁路.md" title="wikilink">大仁路</a>107號、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/苓雅區.md" title="wikilink">苓雅區</a><a href="../Page/自強三路.md" title="wikilink">自強三路</a>（<a href="../Page/高雄85大樓.md" title="wikilink">高雄85大樓</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/前鎮區.md" title="wikilink">前鎮區</a><a href="../Page/中山四路.md" title="wikilink">中山四路</a>100號、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/鼓山區.md" title="wikilink">鼓山區</a><a href="../Page/濱海一路.md" title="wikilink">濱海一路</a>76號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高雄" title="wikilink">高雄</a></p></td>
+<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/鹽埕區.md" title="wikilink">鹽埕區</a><a href="https://zh.wikipedia.org/wiki/大仁路" title="wikilink">大仁路</a>107號、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/苓雅區.md" title="wikilink">苓雅區</a><a href="https://zh.wikipedia.org/wiki/自強三路" title="wikilink">自強三路</a>（<a href="../Page/高雄85大樓.md" title="wikilink">高雄85大樓</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/前鎮區.md" title="wikilink">前鎮區</a><a href="https://zh.wikipedia.org/wiki/中山四路" title="wikilink">中山四路</a>100號、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/鼓山區.md" title="wikilink">鼓山區</a><a href="https://zh.wikipedia.org/wiki/濱海一路" title="wikilink">濱海一路</a>76號</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
@@ -199,8 +199,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>湯大哥</p></td>
 <td><p>Cindy</p></td>
-<td><p><a href="../Page/高雄.md" title="wikilink">高雄</a></p></td>
-<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/鹽埕區.md" title="wikilink">鹽埕區</a><a href="../Page/大義街.md" title="wikilink">大義街</a>2號（<a href="../Page/駁二藝術特區.md" title="wikilink">駁二藝術特區</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/左營區.md" title="wikilink">左營區</a><a href="../Page/文學路.md" title="wikilink">文學路</a>542號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高雄" title="wikilink">高雄</a></p></td>
+<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/鹽埕區.md" title="wikilink">鹽埕區</a><a href="https://zh.wikipedia.org/wiki/大義街" title="wikilink">大義街</a>2號（<a href="../Page/駁二藝術特區.md" title="wikilink">駁二藝術特區</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/左營區.md" title="wikilink">左營區</a><a href="https://zh.wikipedia.org/wiki/文學路" title="wikilink">文學路</a>542號</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -209,8 +209,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>小陳</p></td>
 <td></td>
-<td><p><a href="../Page/高雄.md" title="wikilink">高雄</a></p></td>
-<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/旗山區.md" title="wikilink">旗山區</a><a href="../Page/南寮巷.md" title="wikilink">南寮巷</a>（<a href="../Page/芭娜娜樂園.md" title="wikilink">芭娜娜樂園</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/旗山區.md" title="wikilink">旗山區</a><a href="../Page/中山路.md" title="wikilink">中山路</a>（<a href="../Page/旗山老街.md" title="wikilink">旗山老街</a>、<a href="../Page/旗山車站.md" title="wikilink">旗山車站</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/左營區.md" title="wikilink">左營區</a><a href="../Page/曾子路.md" title="wikilink">曾子路</a>105號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高雄" title="wikilink">高雄</a></p></td>
+<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/旗山區.md" title="wikilink">旗山區</a><a href="https://zh.wikipedia.org/wiki/南寮巷" title="wikilink">南寮巷</a>（<a href="https://zh.wikipedia.org/wiki/芭娜娜樂園" title="wikilink">芭娜娜樂園</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/旗山區.md" title="wikilink">旗山區</a><a href="../Page/中山路.md" title="wikilink">中山路</a>（<a href="../Page/旗山老街.md" title="wikilink">旗山老街</a>、<a href="../Page/旗山車站.md" title="wikilink">旗山車站</a>）、<a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/左營區.md" title="wikilink">左營區</a><a href="https://zh.wikipedia.org/wiki/曾子路" title="wikilink">曾子路</a>105號</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
@@ -219,8 +219,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>陳大哥</p></td>
 <td></td>
-<td><p><a href="../Page/台東.md" title="wikilink">台東</a></p></td>
-<td><p><a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/太麻里鄉.md" title="wikilink">太麻里鄉</a><a href="../Page/大王村.md" title="wikilink">大王村佳崙</a>350號（<a href="../Page/大馬力森林探險基地.md" title="wikilink">大馬力森林探險基地</a>）、<a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/大同路.md" title="wikilink">大同路</a>、<a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/中山里6鄰.md" title="wikilink">中山里6鄰</a><a href="../Page/正氣路.md" title="wikilink">正氣路</a>202號、<a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/南海路.md" title="wikilink">南海路</a>86號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東" title="wikilink">台東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="../Page/太麻里鄉.md" title="wikilink">太麻里鄉</a><a href="https://zh.wikipedia.org/wiki/大王村" title="wikilink">大王村佳崙</a>350號（<a href="https://zh.wikipedia.org/wiki/大馬力森林探險基地" title="wikilink">大馬力森林探險基地</a>）、<a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/大同路" title="wikilink">大同路</a>、<a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/中山里6鄰" title="wikilink">中山里6鄰</a><a href="https://zh.wikipedia.org/wiki/正氣路" title="wikilink">正氣路</a>202號、<a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/南海路" title="wikilink">南海路</a>86號</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
@@ -229,8 +229,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>陳大哥</p></td>
 <td></td>
-<td><p><a href="../Page/台東.md" title="wikilink">台東</a></p></td>
-<td><p>陳大哥的家、<a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/太麻里鄉.md" title="wikilink">太麻里鄉</a><a href="../Page/多良村.md" title="wikilink">多良村</a><a href="../Page/瀧溪路.md" title="wikilink">瀧溪路</a>（<a href="../Page/多良車站.md" title="wikilink">多良車站</a>）、<a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/中華路四段.md" title="wikilink">中華路四段</a>392號（<a href="../Page/臺東縣豐源國民小學.md" title="wikilink">臺東縣豐源國民小學</a>）、<a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/正氣路.md" title="wikilink">正氣路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東" title="wikilink">台東</a></p></td>
+<td><p>陳大哥的家、<a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="../Page/太麻里鄉.md" title="wikilink">太麻里鄉</a><a href="https://zh.wikipedia.org/wiki/多良村" title="wikilink">多良村</a><a href="https://zh.wikipedia.org/wiki/瀧溪路" title="wikilink">瀧溪路</a>（<a href="https://zh.wikipedia.org/wiki/多良車站" title="wikilink">多良車站</a>）、<a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/中華路四段" title="wikilink">中華路四段</a>392號（<a href="https://zh.wikipedia.org/wiki/臺東縣豐源國民小學" title="wikilink">臺東縣豐源國民小學</a>）、<a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/正氣路" title="wikilink">正氣路</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
@@ -239,8 +239,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>韓大哥</p></td>
 <td></td>
-<td><p><a href="../Page/台東.md" title="wikilink">台東</a></p></td>
-<td><p><a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/中興路二段.md" title="wikilink">中興路二段</a>191號（<a href="../Page/台東糖廠.md" title="wikilink">台東糖廠</a>、<a href="../Page/後山紀實影像館.md" title="wikilink">後山紀實影像館</a>、<a href="../Page/庫空間.md" title="wikilink">庫空間</a>）、<a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/廣東路.md" title="wikilink">廣東路</a>371號（<a href="../Page/鐵道藝術村.md" title="wikilink">鐵道藝術村</a>、<a href="../Page/鐵花村.md" title="wikilink">鐵花村</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東" title="wikilink">台東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/中興路二段" title="wikilink">中興路二段</a>191號（<a href="https://zh.wikipedia.org/wiki/台東糖廠" title="wikilink">台東糖廠</a>、<a href="https://zh.wikipedia.org/wiki/後山紀實影像館" title="wikilink">後山紀實影像館</a>、<a href="https://zh.wikipedia.org/wiki/庫空間" title="wikilink">庫空間</a>）、<a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/廣東路" title="wikilink">廣東路</a>371號（<a href="https://zh.wikipedia.org/wiki/鐵道藝術村" title="wikilink">鐵道藝術村</a>、<a href="https://zh.wikipedia.org/wiki/鐵花村" title="wikilink">鐵花村</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
@@ -249,8 +249,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>韓大哥</p></td>
 <td></td>
-<td><p><a href="../Page/台東.md" title="wikilink">台東</a></p></td>
-<td><p><a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/太麻里鄉.md" title="wikilink">太麻里鄉</a><a href="../Page/華源村8鄰.md" title="wikilink">華源村8鄰</a><a href="../Page/大坑.md" title="wikilink">大坑</a>132號、<a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/卑南鄉.md" title="wikilink">卑南鄉</a><a href="../Page/龍泉路.md" title="wikilink">龍泉路</a>、<a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/中華路一段.md" title="wikilink">中華路一段</a>586巷（<a href="../Page/鐵道藝術村.md" title="wikilink">鐵道藝術村</a>、<a href="../Page/舊台東火車站.md" title="wikilink">舊台東火車站</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東" title="wikilink">台東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="../Page/太麻里鄉.md" title="wikilink">太麻里鄉</a><a href="https://zh.wikipedia.org/wiki/華源村8鄰" title="wikilink">華源村8鄰</a><a href="https://zh.wikipedia.org/wiki/大坑" title="wikilink">大坑</a>132號、<a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="../Page/卑南鄉.md" title="wikilink">卑南鄉</a><a href="https://zh.wikipedia.org/wiki/龍泉路" title="wikilink">龍泉路</a>、<a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/中華路一段" title="wikilink">中華路一段</a>586巷（<a href="https://zh.wikipedia.org/wiki/鐵道藝術村" title="wikilink">鐵道藝術村</a>、<a href="https://zh.wikipedia.org/wiki/舊台東火車站" title="wikilink">舊台東火車站</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -259,8 +259,8 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>韓大哥</p></td>
 <td></td>
-<td><p><a href="../Page/台東.md" title="wikilink">台東</a></p></td>
-<td><p><a href="../Page/布農部落.md" title="wikilink">布農部落</a>、<a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/卑南鄉.md" title="wikilink">卑南鄉</a><a href="../Page/利民路.md" title="wikilink">利民路</a>99巷、<a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/新生路.md" title="wikilink">新生路</a>、<a href="../Page/台東縣.md" title="wikilink">台東縣</a><a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/臨海路一段.md" title="wikilink">臨海路一段</a>、<a href="../Page/台東市.md" title="wikilink">台東市</a><a href="../Page/漢陽南路.md" title="wikilink">漢陽南路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東" title="wikilink">台東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布農部落" title="wikilink">布農部落</a>、<a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="../Page/卑南鄉.md" title="wikilink">卑南鄉</a><a href="https://zh.wikipedia.org/wiki/利民路" title="wikilink">利民路</a>99巷、<a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/新生路" title="wikilink">新生路</a>、<a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a><a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/臨海路一段" title="wikilink">臨海路一段</a>、<a href="https://zh.wikipedia.org/wiki/台東市" title="wikilink">台東市</a><a href="https://zh.wikipedia.org/wiki/漢陽南路" title="wikilink">漢陽南路</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -286,7 +286,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>小唐（唐德剛）</p></td>
 <td></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -296,7 +296,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>小唐（唐德剛）</p></td>
 <td></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -306,7 +306,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>小唐（唐德剛）</p></td>
 <td></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -316,7 +316,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>小唐（唐德剛）</p></td>
 <td></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -326,7 +326,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>George</p></td>
 <td></td>
-<td><p><a href="../Page/倫敦.md" title="wikilink">倫敦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -336,7 +336,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>George</p></td>
 <td><p>rowspan="2" </p></td>
-<td><p><a href="../Page/倫敦.md" title="wikilink">倫敦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -356,7 +356,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>Gavin</p></td>
 <td></td>
-<td><p><a href="../Page/倫敦.md" title="wikilink">倫敦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -366,7 +366,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>John</p></td>
 <td></td>
-<td><p><a href="../Page/曼徹斯特.md" title="wikilink">曼徹斯特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曼徹斯特" title="wikilink">曼徹斯特</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -376,7 +376,7 @@
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>John</p></td>
 <td></td>
-<td><p><a href="../Page/曼徹斯特.md" title="wikilink">曼徹斯特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曼徹斯特" title="wikilink">曼徹斯特</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -385,7 +385,7 @@
 <td><p>澳門篇 (I)</p></td>
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>Sam Chung</p></td>
-<td><p>加蔥@<a href="../Page/微辣Manner.md" title="wikilink">微辣</a></p></td>
+<td><p>加蔥@<a href="https://zh.wikipedia.org/wiki/微辣Manner" title="wikilink">微辣</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -395,7 +395,7 @@
 <td><p>澳門篇 (II)</p></td>
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>Sam Chung</p></td>
-<td><p>霍哥@<a href="../Page/微辣Manner.md" title="wikilink">微辣</a></p></td>
+<td><p>霍哥@<a href="https://zh.wikipedia.org/wiki/微辣Manner" title="wikilink">微辣</a></p></td>
 <td></td>
 <td></td>
 </tr>

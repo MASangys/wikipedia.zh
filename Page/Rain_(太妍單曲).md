@@ -1,6 +1,6 @@
-《**Rain**》是[韓國](../Page/韓國.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[太妍](../Page/金泰耎.md "wikilink")（[韓國](../Page/韓國.md "wikilink")[女子組合](../Page/女子組合.md "wikilink")[少女時代](../Page/少女時代.md "wikilink")）的数码单曲，也是“[SM
+《**Rain**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）的数码单曲，也是“[SM
 STATION](../Page/SM_STATION.md "wikilink")”中的第一弹作品。由[SM
-Entertainment於](../Page/SM_Entertainment.md "wikilink")2016年2月3日發行。
+Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2016年2月3日發行。
 
 ## 概要
 
@@ -11,11 +11,11 @@ Entertainment於](../Page/SM_Entertainment.md "wikilink")2016年2月3日發行�
 
 ## 發行歷史
 
-|      |           |                                      |                                                            |          |
-| ---- | --------- | ------------------------------------ | ---------------------------------------------------------- | -------- |
-| 發行地區 | 發行日期      | 發行方式                                 | 唱片公司                                                       | 發行公司     |
-| 全球   | 2016年2月3日 | [數位下載](../Page/數位音樂下載.md "wikilink") | [SM Entertainment](../Page/SM_Entertainment.md "wikilink") | KT Music |
-|      |           |                                      |                                                            |          |
+|      |           |                                      |                                                                               |          |
+| ---- | --------- | ------------------------------------ | ----------------------------------------------------------------------------- | -------- |
+| 發行地區 | 發行日期      | 發行方式                                 | 唱片公司                                                                          | 發行公司     |
+| 全球   | 2016年2月3日 | [數位下載](../Page/數位音樂下載.md "wikilink") | [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink") | KT Music |
+|      |           |                                      |                                                                               |          |
 
 ## 參考文獻
 

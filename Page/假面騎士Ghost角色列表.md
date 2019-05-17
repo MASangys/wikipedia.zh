@@ -2,7 +2,8 @@
 
 ## 假面騎士
 
-**天空寺尊\[3\]（）**（[西銘駿](../Page/西銘駿.md "wikilink")\[4\]、（童年期）飾/台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（電影版））
+**天空寺尊\[3\]（）**（[西銘駿](../Page/西銘駿.md "wikilink")\[4\]、（童年期）飾/台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（電影版）/
+香港配音：[鄧燦陽](https://zh.wikipedia.org/wiki/鄧燦陽 "wikilink") ）
 
   -
     **假面騎士Ghost**的變身者，十月四日生日\[5\]，18歲。
@@ -76,7 +77,7 @@
     第44話得知自己極為信任的比爾斯一直都是伊格爾的手下後，感覺自己遭到欺騙而失落，但在尊的安慰下重新振作。
     於外傳《Ghost RE:BIRTH 假面騎士Specter》中與伊格爾一同合作將眼魔世界的混濁天空重見光明。
 
-**山之內御成（）**（[柳喬之飾](../Page/柳喬之.md "wikilink")）
+**山之內御成（）**（[柳喬之飾](https://zh.wikipedia.org/wiki/柳喬之 "wikilink")）
 
   -
     大天空寺院的代理住持，本姓山ノ内。
@@ -265,7 +266,7 @@
 
 ## 關係者
 
-**天空寺龍（）**（[西村和彦飾](../Page/西村和彦.md "wikilink")）
+**天空寺龍（）**（[西村和彦飾](https://zh.wikipedia.org/wiki/西村和彦 "wikilink")）
 
   -
     大天空寺院的前任住持，幽靈獵人，天空寺尊的父親。
@@ -328,12 +329,12 @@
     最後在看到龍所說隱藏在尊身上的無限可能性之後，將未來託付給尊等人後離去。
 
 **深海大悟（）**（[澤村一樹](../Page/澤村一樹.md "wikilink")
-飾／台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
+飾／台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
 
 ## 英雄靈魂
 
 <small>有關參考：[幽靈眼魂（Ghost
-Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink")</small>
+Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon） "wikilink")</small>
 
 **武藏魂（）**（CV：[關智一](../Page/關智一.md "wikilink")）
 
@@ -471,14 +472,14 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
 **園田義則（）**（飾）
 
   -
-    [湯瑪斯·愛迪生靈魂的共鳴者](../Page/湯瑪斯·愛迪生.md "wikilink")。
+    [湯瑪斯·愛迪生靈魂的共鳴者](https://zh.wikipedia.org/wiki/湯瑪斯·愛迪生 "wikilink")。
     對愛迪生充滿敬畏的科學家，並收藏著其生前研究用的電燈泡，甚至以其名言為信念。
     被西園寺主稅所騙和受到電力眼魔操縱意志之下，盲首開發與眼魔世界接通的傳送裝置而不自知。
 
 **白瀨瑪莉（）**（飾\[18\]）
 
   -
-    [羅賓漢靈魂的共鳴者](../Page/羅賓漢.md "wikilink")。
+    [羅賓漢靈魂的共鳴者](https://zh.wikipedia.org/wiki/羅賓漢 "wikilink")。
     具有正義感的新聞記者，曾因父親被惡意殺害所以痛恨權貴。
     受到斧眼魔暗地的煽動而化身成義賊“小約翰”，並接受西園寺主稅的委託，盜取惡質藝術商人蔵谷晃三作為收藏之一的羅賓漢弓箭。
 
@@ -492,7 +493,7 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
 **君島康介（）**（飾）
 
   -
-    [路德維希·范·貝多芬靈魂的共鳴者](../Page/路德維希·范·貝多芬.md "wikilink")。
+    [路德維希·范·貝多芬靈魂的共鳴者](https://zh.wikipedia.org/wiki/路德維希·范·貝多芬 "wikilink")。
     在有著權威性的世界音樂演奏會中獲獎的天才大學生鋼琴家，對音樂方面極度狂熱。
     受到西園寺主稅贈與貝多芬的親筆樂譜，被音符眼魔遮蔽了周圍其他聲音後，在其慫恿之下情緒變為暴躁並瘋狂地作曲及演奏。
 
@@ -511,7 +512,7 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
 **西園寺主稅（）**（森下能幸飾）
 
   -
-    [李奧納多·達文西靈魂的共鳴者](../Page/李奧納多·達文西.md "wikilink")。
+    [李奧納多·達文西靈魂的共鳴者](https://zh.wikipedia.org/wiki/李奧納多·達文西 "wikilink")。
 
 ## 英雄靈魂的附身對象
 
@@ -535,7 +536,7 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
   -
     龍馬靈魂的附身對象。
     田村薩之進的次子，從事宇宙開發的相關事業，極為崇拜坂本龍馬。
-    被龍馬的幽靈眼魂借體活動，目的在於完成其生前未完成的「[薩長同盟](../Page/薩長同盟.md "wikilink")」夢想。
+    被龍馬的幽靈眼魂借體活動，目的在於完成其生前未完成的「[薩長同盟](https://zh.wikipedia.org/wiki/薩長同盟 "wikilink")」夢想。
 
 **日野美和子（）**（飾）
 
@@ -775,7 +776,7 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
     大食愛好者，被僧兵眼魔誤認為一休的後代子孫。
     因無意間獲得一休抓老虎的屏風照片及家門外出現猜謎字題，而委託「不可思議現象研究所」調查。
 
-**笹原一美（）**（[松田瑠華](../Page/松田瑠華.md "wikilink")\[24\]飾）
+**笹原一美（）**（[松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")\[24\]飾）
 
   -
     日本機智學會的理事長，笹原真由子的妹妹。
@@ -815,7 +816,7 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
   - 不良少年 - （第31話）
   - 夢世界中的外國人 - （第34話）
   - 面試會委員 - （第36話）
-  - 登山客 - 、 [高橋光](../Page/高橋光.md "wikilink")、 （第38話）
+  - 登山客 - 、 [高橋光](https://zh.wikipedia.org/wiki/高橋光 "wikilink")、 （第38話）
   - 肌肉男 - （第43、44話）
   - OL - （第43、44話）
   - 新聞發言人 - （第45話）
@@ -826,15 +827,16 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
   - 解說 - [一條和矢](../Page/一條和矢.md "wikilink")
   - 席巴魯巴 - [土師孝也](../Page/土師孝也.md "wikilink")（傳說！騎士之魂！）
   - 終極眼魔 / 亞歷山大終極眼魔 / 闇之意志 -
-    [飯塚昭三](../Page/飯塚昭三.md "wikilink")（傳說！騎士之魂！最終章）
+    [飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")（傳說！騎士之魂！最終章）
   - 烏魯加怪人型態、巴法爾怪人型態 - （傳說！騎士之魂！最終章）
   - 巨眼 - （第11、49話）
-  - 上級眼魔 - 、[高橋孝治](../Page/高橋孝治.md "wikilink")（第22話）
-  - 豪豬改造人 - [宇垣秀成](../Page/宇垣秀成.md "wikilink")（第24話）
-  - 烏魯加 - [永德](../Page/永德.md "wikilink")\[25\]（第24話）
+  - 上級眼魔 - 、[高橋孝治](https://zh.wikipedia.org/wiki/高橋孝治 "wikilink")（第22話）
+  - 豪豬改造人 - [宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")（第24話）
+  - 烏魯加 - [永德](https://zh.wikipedia.org/wiki/永德 "wikilink")\[25\]（第24話）
   - 假面騎士一號 - [稻田徹](../Page/稻田徹.md "wikilink")（第24話）
   - 尊的母親 - [大原沙耶香](../Page/大原沙耶香.md "wikilink")\[26\]（第34、41\[27\]話）
-  - 假面騎士EX-AID - [飯島寛騎](../Page/飯島寛騎.md "wikilink")\[28\]
+  - 假面騎士EX-AID -
+    [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")\[28\]
 
 ## 相關條目
 
@@ -854,7 +856,7 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
 7.  演員本人曾在《假面騎士電王》後續的《超·電王》系列中代替當時主角[佐藤健](../Page/佐藤健.md "wikilink")，演出小良太郎這一角色。
 8.  曾在前作《假面騎士×假面騎士 OOO & W feat. Skull Movie大戰 Core》演出小森繪蓮一角
 9.  同時也是假面騎士Ghost的替身演員
-10. 第21話中由月村朱里取才自藝術家用語「Cubism」（[立體主義](../Page/立體主義.md "wikilink")）所命名
+10. 第21話中由月村朱里取才自藝術家用語「Cubism」（[立體主義](https://zh.wikipedia.org/wiki/立體主義 "wikilink")）所命名
 11. 人物範本為[巴勃羅·畢卡索](../Page/巴勃羅·畢卡索.md "wikilink")，說話風格範本為
 12. 與第6話登場的音符眼魔為同種不同個體
 13. 聲優本人曾經演出《假面騎士555》中的少女園田真理這一角色。
@@ -862,7 +864,7 @@ Eyecon）](../Page/假面騎士Ghost#幽靈眼魂（Ghost_Eyecon）.md "wikilink
 15. 官方演員表上原以深海カノン作標示，後在第18話劇情的字條中正式得知漢字為花音。
 16. 也就本作的主標語「我思故我在」。
 17. 此拍攝地點位於栃木縣的，另外第2話中出現的電燈泡收藏品也是從此處借用。
-18. 其後亦有參與後作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》，飾演滝川紗羽。
+18. 其後亦有參與後作《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》，飾演滝川紗羽。
 19. 曾在前作《假面騎士 Wizard》中演出女主角-曆（コヨミ）
 20. 曾在《假面騎士Fourze》中演出鳥居崎美紗一角
 21. 此角色最初只以「片桐教授」來客串劇情

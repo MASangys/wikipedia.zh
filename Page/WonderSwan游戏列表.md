@@ -55,7 +55,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Buffers_Evolution.md" title="wikilink">Buffers Evolution</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Buffers_Evolution" title="wikilink">Buffers Evolution</a></p></td>
 <td><p><span id="B"></span><em>Buffers Evolution</em></p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">萬代</a></p></td>
@@ -79,11 +79,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/疯狂攀登者.md" title="wikilink">疯狂攀登者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/疯狂攀登者" title="wikilink">疯狂攀登者</a></p></td>
 <td><p><span id="C"></span><em>Crazy Climber</em></p></td>
 <td><p>クレイジークライマー</p></td>
-<td><p><a href="../Page/日本物產.md" title="wikilink">日本物產</a></p></td>
-<td><p><a href="../Page/日本物產.md" title="wikilink">日本物產</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本物產" title="wikilink">日本物產</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本物產" title="wikilink">日本物產</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -103,7 +103,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/電車GO!_(遊戲).md" title="wikilink">電車GO!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電車GO!_(遊戲)" title="wikilink">電車GO!</a></p></td>
 <td><p><span id="D"></span><em>Densha de Go!</em></p></td>
 <td><p>電車でGO!</p></td>
 <td><p><a href="../Page/太東.md" title="wikilink">太東</a></p></td>
@@ -111,7 +111,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/電車GO!2高速編.md" title="wikilink">電車GO!2高速編</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電車GO!2高速編" title="wikilink">電車GO!2高速編</a></p></td>
 <td><p><span id="D"></span><em>Densha de Go! 2</em></p></td>
 <td><p>電車でGO!2</p></td>
 <td><p><a href="../Page/太東.md" title="wikilink">Taito</a></p></td>
@@ -143,7 +143,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/数码宝贝系列.md" title="wikilink">数码宝贝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/数码宝贝系列" title="wikilink">数码宝贝</a></p></td>
 <td><p><span id="D"></span><em>Digital Monster Ver.WonderSwan</em></p></td>
 <td><p>デジタルモンスター Ver. ワンダースワン</p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -151,7 +151,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/数码宝贝系列.md" title="wikilink">数码宝贝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/数码宝贝系列" title="wikilink">数码宝贝</a></p></td>
 <td><p><span id="D"></span><em>Digital Partner</em></p></td>
 <td><p>デジタルパートナー</p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -183,7 +183,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Final_Lap.md" title="wikilink">Final Lap</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Final_Lap" title="wikilink">Final Lap</a></p></td>
 <td><p><span id="F"></span><em>Final Lap 2000</em></p></td>
 <td><p>ファイナルラップ 2000</p></td>
 <td><p><a href="../Page/南梦宫.md" title="wikilink">Namco</a></p></td>
@@ -191,7 +191,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Fire_Pro_Wrestling.md" title="wikilink">Fire Pro Wrestling</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fire_Pro_Wrestling" title="wikilink">Fire Pro Wrestling</a></p></td>
 <td><p><span id="F"></span><em>Fire Pro Wrestling for WonderSwan</em></p></td>
 <td><p>ファイヤープロレスリング for ワンダースワン</p></td>
 <td><p>Kaga Tech</p></td>
@@ -216,10 +216,10 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="G"></span><a href="../Page/Ganso_JaJaMaru-kun.md" title="wikilink">Ganso JaJaMaru-kun</a></p></td>
+<td><p><span id="G"></span><a href="https://zh.wikipedia.org/wiki/Ganso_JaJaMaru-kun" title="wikilink">Ganso JaJaMaru-kun</a></p></td>
 <td><p>元祖じゃじゃ丸くん</p></td>
-<td><p><a href="../Page/Jaleco.md" title="wikilink">Jaleco</a></p></td>
-<td><p><a href="../Page/Jaleco.md" title="wikilink">Jaleco</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jaleco" title="wikilink">Jaleco</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jaleco" title="wikilink">Jaleco</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -248,7 +248,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="G"></span><a href="../Page/Gunpey.md" title="wikilink">Gunpey</a></p></td>
+<td><p><span id="G"></span><a href="https://zh.wikipedia.org/wiki/Gunpey" title="wikilink">Gunpey</a></p></td>
 <td><p>グンペイ</p></td>
 <td><p>Koto Laboratory</p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -264,15 +264,15 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="H"></span><a href="../Page/Harobots.md" title="wikilink">Harobots</a></p></td>
+<td><p><span id="H"></span><a href="https://zh.wikipedia.org/wiki/Harobots" title="wikilink">Harobots</a></p></td>
 <td><p>Harobots 〜ハロボッツ〜</p></td>
 <td></td>
-<td><p><a href="../Page/Sunrise_Interactive.md" title="wikilink">Sunrise Interactive</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sunrise_Interactive" title="wikilink">Sunrise Interactive</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="H"></span><a href="../Page/HUNTER×HUNTER.md" title="wikilink">Hunter × Hunter: Ishi o Tsugu Mono</a></p></td>
+<td><p><span id="H"></span><a href="https://zh.wikipedia.org/wiki/HUNTER×HUNTER" title="wikilink">Hunter × Hunter: Ishi o Tsugu Mono</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -290,8 +290,8 @@
 <td></td>
 <td><p><span id="K"></span>Kappa Games: Chou Denki Card Battle "Yōfu Makai" Kikuchi Hideyuki</p></td>
 <td></td>
-<td><p><a href="../Page/光文社.md" title="wikilink">Kobunsha</a></p></td>
-<td><p><a href="../Page/光文社.md" title="wikilink">Kobunsha</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光文社" title="wikilink">Kobunsha</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光文社" title="wikilink">Kobunsha</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -304,7 +304,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="K"></span><a href="../Page/Kaze_no_Klonoa:_Moonlight_Museum.md" title="wikilink">Kaze no Klonoa: Moonlight Museum</a></p></td>
+<td><p><span id="K"></span><a href="https://zh.wikipedia.org/wiki/Kaze_no_Klonoa:_Moonlight_Museum" title="wikilink">Kaze no Klonoa: Moonlight Museum</a></p></td>
 <td></td>
 <td><p><a href="../Page/南梦宫.md" title="wikilink">Namco</a></p></td>
 <td><p><a href="../Page/南梦宫.md" title="wikilink">Namco</a></p></td>
@@ -368,7 +368,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="M"></span><a href="../Page/Magical_Drop.md" title="wikilink">Magical Drop for WonderSwan</a></p></td>
+<td><p><span id="M"></span><a href="https://zh.wikipedia.org/wiki/Magical_Drop" title="wikilink">Magical Drop for WonderSwan</a></p></td>
 <td><p>マジカルドロップ for ワンダースワン</p></td>
 <td><p><a href="../Page/Data_East.md" title="wikilink">Data East</a></p></td>
 <td><p><a href="../Page/Data_East.md" title="wikilink">Data East</a></p></td>
@@ -384,7 +384,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="M"></span><a href="../Page/Makaimura_for_WonderSwan.md" title="wikilink">Makaimura for WonderSwan</a></p></td>
+<td><p><span id="M"></span><a href="https://zh.wikipedia.org/wiki/Makaimura_for_WonderSwan" title="wikilink">Makaimura for WonderSwan</a></p></td>
 <td><p>魔界村 for ワンダースワン</p></td>
 <td><p><a href="../Page/卡普空.md" title="wikilink">Capcom</a></p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -400,18 +400,18 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="M"></span><a href="../Page/Medarot.md" title="wikilink">Medarot Perfect Edition (Kabuto Version)</a></p></td>
+<td><p><span id="M"></span><a href="https://zh.wikipedia.org/wiki/Medarot" title="wikilink">Medarot Perfect Edition (Kabuto Version)</a></p></td>
 <td><p>メダロット・パーフェクトエディション カブトバージョン</p></td>
 <td></td>
-<td><p><a href="../Page/Imagineering.md" title="wikilink">Imagineering</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Imagineering" title="wikilink">Imagineering</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="M"></span><a href="../Page/Medarot.md" title="wikilink">Medarot Perfect Edition (Kuwagata Version)</a></p></td>
+<td><p><span id="M"></span><a href="https://zh.wikipedia.org/wiki/Medarot" title="wikilink">Medarot Perfect Edition (Kuwagata Version)</a></p></td>
 <td><p>メダロット・パーフェクトエディション クワガタバージョン</p></td>
 <td></td>
-<td><p><a href="../Page/Imagineering.md" title="wikilink">Imagineering</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Imagineering" title="wikilink">Imagineering</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -490,21 +490,21 @@
 <td></td>
 <td><p><span id="N"></span><a href="../Page/信長之野望系列.md" title="wikilink">Nobunaga Noyabō for WonderSwan</a></p></td>
 <td></td>
-<td><p><a href="../Page/光榮.md" title="wikilink">Koei</a></p></td>
-<td><p><a href="../Page/光榮.md" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光榮" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光榮" title="wikilink">Koei</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><span id="O"></span>Ōchan No Oekaki Logic</p></td>
 <td></td>
-<td><p><a href="../Page/Sun电子.md" title="wikilink">Sunsoft</a></p></td>
-<td><p><a href="../Page/Sun电子.md" title="wikilink">Sunsoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sun电子" title="wikilink">Sunsoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sun电子" title="wikilink">Sunsoft</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="P"></span><a href="../Page/Pocket_Fighter.md" title="wikilink">Pocket Fighter</a></p></td>
+<td><p><span id="P"></span><a href="https://zh.wikipedia.org/wiki/Pocket_Fighter" title="wikilink">Pocket Fighter</a></p></td>
 <td><p>ポケットファイター</p></td>
 <td><p><a href="../Page/卡普空.md" title="wikilink">Capcom</a></p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -514,29 +514,29 @@
 <td></td>
 <td><p><span id="P"></span>Pro Mahjong Kyoku for WonderSwan</p></td>
 <td><p>プロ麻雀 極 for ワンダースワン</p></td>
-<td><p><a href="../Page/Athena_(company).md" title="wikilink">Athena</a></p></td>
-<td><p><a href="../Page/Athena_(company).md" title="wikilink">Athena</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Athena_(company)" title="wikilink">Athena</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Athena_(company)" title="wikilink">Athena</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><span id="P"></span><a href="../Page/魔法氣泡系列.md" title="wikilink">Puyo Puyo 2</a></p></td>
 <td></td>
-<td><p><a href="../Page/Compile_(publisher).md" title="wikilink">Compile</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Compile_(publisher)" title="wikilink">Compile</a></p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="P"></span><a href="../Page/泡泡龙_(1994年游戏).md" title="wikilink">Puzzle Bobble</a></p></td>
+<td><p><span id="P"></span><a href="https://zh.wikipedia.org/wiki/泡泡龙_(1994年游戏)" title="wikilink">Puzzle Bobble</a></p></td>
 <td><p>パズルボブル</p></td>
 <td><p><a href="../Page/太東.md" title="wikilink">Taito</a></p></td>
-<td><p><a href="../Page/Sun电子.md" title="wikilink">Sunsoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sun电子" title="wikilink">Sunsoft</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="R"></span><a href="../Page/Rainbow_Islands:_Putty&#39;s_Party.md" title="wikilink">Rainbow Islands: Putty's Party</a></p></td>
+<td><p><span id="R"></span><a href="https://zh.wikipedia.org/wiki/Rainbow_Islands:_Putty&#39;s_Party" title="wikilink">Rainbow Islands: Putty's Party</a></p></td>
 <td><p><a href="../Page/太東.md" title="wikilink">Taito</a></p></td>
 <td><p>Megahouse</p></td>
 <td><p>Megahouse</p></td>
@@ -544,7 +544,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="R"></span><a href="../Page/Ring:_Infinity.md" title="wikilink">Ring: Infinity</a></p></td>
+<td><p><span id="R"></span><a href="https://zh.wikipedia.org/wiki/Ring:_Infinity" title="wikilink">Ring: Infinity</a></p></td>
 <td><p>リング∞ (インフィニティ)</p></td>
 <td><p><a href="../Page/角川書店.md" title="wikilink">Kadokawa Shoten</a></p></td>
 <td><p><a href="../Page/角川書店.md" title="wikilink">Kadokawa Shoten</a></p></td>
@@ -552,7 +552,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="R"></span><a href="../Page/Rockman_&amp;_Forte_Mirai_kara_no_Chōsensha.md" title="wikilink">Rockman &amp; Forte Mirai kara no Chōsensha</a></p></td>
+<td><p><span id="R"></span><a href="https://zh.wikipedia.org/wiki/Rockman_&amp;_Forte_Mirai_kara_no_Chōsensha" title="wikilink">Rockman &amp; Forte Mirai kara no Chōsensha</a></p></td>
 <td></td>
 <td><p><a href="../Page/卡普空.md" title="wikilink">Capcom</a></p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -563,11 +563,11 @@
 <td><p><span id="S"></span><a href="../Page/三國志.md" title="wikilink">Sangokushi for WonderSwan</a></p></td>
 <td><p>三國志 for ワンダースワン</p></td>
 <td></td>
-<td><p><a href="../Page/光榮.md" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光榮" title="wikilink">Koei</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/三國志II.md" title="wikilink">三國志II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三國志II" title="wikilink">三國志II</a></p></td>
 <td><p><span id="S"></span>Sangokushi II</p></td>
 <td><p>三國志II for ワンダースワン</p></td>
 <td><p>Koei</p></td>
@@ -619,15 +619,15 @@
 <td><p><span id="S"></span>Shanghai Pocket</p></td>
 <td><p>上海ポケット</p></td>
 <td></td>
-<td><p><a href="../Page/Sun电子.md" title="wikilink">Sunsoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sun电子" title="wikilink">Sunsoft</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><span id="S"></span>Shin Nihon Pro Wrestling: Tōkon Retsuden</p></td>
 <td></td>
-<td><p><a href="../Page/Takara_Tomy.md" title="wikilink">Tomy</a></p></td>
-<td><p><a href="../Page/Takara_Tomy.md" title="wikilink">Tomy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Takara_Tomy" title="wikilink">Tomy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Takara_Tomy" title="wikilink">Tomy</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -648,7 +648,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="S"></span><a href="../Page/Side_Pocket.md" title="wikilink">Side Pocket for WonderSwan</a></p></td>
+<td><p><span id="S"></span><a href="https://zh.wikipedia.org/wiki/Side_Pocket" title="wikilink">Side Pocket for WonderSwan</a></p></td>
 <td><p>サイドポケット for ワンダースワン</p></td>
 <td><p><a href="../Page/Data_East.md" title="wikilink">Data East</a></p></td>
 <td><p><a href="../Page/Data_East.md" title="wikilink">Data East</a></p></td>
@@ -667,7 +667,7 @@
 <td><p><span id="S"></span>Soccer Yarou!: Challenge The World</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Coconuts_Japan.md" title="wikilink">Coconuts Japan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Coconuts_Japan" title="wikilink">Coconuts Japan</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -683,7 +683,7 @@
 <td><p><span id="S"></span>Space Invaders</p></td>
 <td><p>-</p></td>
 <td></td>
-<td><p><a href="../Page/Sun电子.md" title="wikilink">Sunsoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sun电子" title="wikilink">Sunsoft</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -728,7 +728,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="T"></span><a href="../Page/Tarepanda_no_Gunpey.md" title="wikilink">Tarepanda no Gunpey</a></p></td>
+<td><p><span id="T"></span><a href="https://zh.wikipedia.org/wiki/Tarepanda_no_Gunpey" title="wikilink">Tarepanda no Gunpey</a></p></td>
 <td></td>
 <td><p>Koto Laboratory</p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
@@ -736,7 +736,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="T"></span><a href="../Page/Tekken_Card_Challenge.md" title="wikilink">Tekken Card Challenge</a></p></td>
+<td><p><span id="T"></span><a href="https://zh.wikipedia.org/wiki/Tekken_Card_Challenge" title="wikilink">Tekken Card Challenge</a></p></td>
 <td><p>鉄拳 カードチャレンジ</p></td>
 <td><p><a href="../Page/南梦宫.md" title="wikilink">Namco</a></p></td>
 <td><p><a href="../Page/南梦宫.md" title="wikilink">Namco</a></p></td>
@@ -762,15 +762,15 @@
 <td></td>
 <td><p><span id="T"></span>Trump Collection: Bottom Up Teki Trump Seikatsu</p></td>
 <td><p>トランプコレクション ボトムアップ的トランプ生活</p></td>
-<td><p><a href="../Page/Bottom_Up_(company).md" title="wikilink">Bottom Up</a></p></td>
-<td><p><a href="../Page/Bottom_Up_(company).md" title="wikilink">Bottom Up</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bottom_Up_(company)" title="wikilink">Bottom Up</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bottom_Up_(company)" title="wikilink">Bottom Up</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><span id="T"></span>Turntablist: DJ Battle</p></td>
 <td><p>TURNTABLIST －DJバトル－</p></td>
-<td><p><a href="../Page/Vestax.md" title="wikilink">Vestax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vestax" title="wikilink">Vestax</a></p></td>
 <td><p><a href="../Page/萬代.md" title="wikilink">Bandai</a></p></td>
 <td></td>
 </tr>
@@ -779,12 +779,12 @@
 <td><p><span id="U"></span>Umitsuri ni ikou!</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Coconuts_Japan.md" title="wikilink">Coconuts Japan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Coconuts_Japan" title="wikilink">Coconuts Japan</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="U"></span><a href="../Page/Uzumaki_(manga).md" title="wikilink">Uzumaki: Denshi Kaiki Hen</a></p></td>
+<td><p><span id="U"></span><a href="https://zh.wikipedia.org/wiki/Uzumaki_(manga)" title="wikilink">Uzumaki: Denshi Kaiki Hen</a></p></td>
 <td></td>
 <td><p>Omega Mikotto</p></td>
 <td><p>Omega Mikotto</p></td>
@@ -792,7 +792,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="U"></span><a href="../Page/Uzumaki_(manga).md" title="wikilink">Uzumaki: Noroi Simulation</a></p></td>
+<td><p><span id="U"></span><a href="https://zh.wikipedia.org/wiki/Uzumaki_(manga)" title="wikilink">Uzumaki: Noroi Simulation</a></p></td>
 <td></td>
 <td><p>OMega Mikotto</p></td>
 <td><p>Omega Mikotto</p></td>

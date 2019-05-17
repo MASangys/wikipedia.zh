@@ -2,10 +2,10 @@
 NT](../Page/Windows_NT.md "wikilink")[操作系统中的一种](../Page/操作系统.md "wikilink")[运行在后台的计算机程序](../Page/后台进程.md "wikilink")。\[1\]它在概念上类似于[Unix](../Page/UNIX.md "wikilink")[守护进程](../Page/守护进程.md "wikilink")。\[2\]Windows服务必须符合[服务控制管理器](../Page/服务控制管理器.md "wikilink")（负责管理Windows服务的组件）的接口规则和协议。\[3\]
 
 Windows服务可以配置为在操作系统启动时运行，并且在Windows运行期间持续在后台运行。服务也可以手动或基于某个事件而启动。<span class="cx-segment" data-segmentid="65"></span>Windows
-NT操作系统包含众多服务，分别运行在三种[用户帐户环境中](../Page/用户.md "wikilink")：系统、网络服务和本地服务。这些Windows组件通常采用[Windows服务托管进程](../Page/Svchost.exe.md "wikilink")。因为Windows服务运行在其自身的专用用户帐户中，它们可以在用户未登录时活动。
+NT操作系统包含众多服务，分别运行在三种[用户帐户环境中](../Page/用户.md "wikilink")：系统、网络服务和本地服务。这些Windows组件通常采用[Windows服务托管进程](https://zh.wikipedia.org/wiki/Svchost.exe "wikilink")。因为Windows服务运行在其自身的专用用户帐户中，它们可以在用户未登录时活动。
 
 在[Windows
-Vista之前](../Page/Windows_Vista.md "wikilink")，安装为“交互服务”的服务可以与Windows[桌面交互和显示图形用户界面](../Page/桌面.md "wikilink")。但在Windows
+Vista之前](../Page/Windows_Vista.md "wikilink")，安装为“交互服务”的服务可以与Windows[桌面交互和显示图形用户界面](https://zh.wikipedia.org/wiki/桌面 "wikilink")。但在Windows
 Vista中，交互服务已被弃用，并且可能无法正常运行。\[4\]\[5\]
 
 ## 管理
@@ -18,7 +18,7 @@ Windows管理员可以管理服务，通过：
 
 ### 服务扩展
 
-服务扩展是基于[Microsoft管理控制台提供的一个组件](../Page/Microsoft管理控制台.md "wikilink")，它可以连接到本地计算机或网络上的远程计算机，用户可以：\[6\]
+服务扩展是基于[Microsoft管理控制台提供的一个组件](https://zh.wikipedia.org/wiki/Microsoft管理控制台 "wikilink")，它可以连接到本地计算机或网络上的远程计算机，用户可以：\[6\]
 
   - 查看已安装服务的列表，包括服务名称、说明和配置
   - 开始、停止、暂停或重新启动服务\[7\]
@@ -72,8 +72,8 @@ Delphi等开发工具创建一个Windows服务](../Page/Delphi.md "wikilink")。
 ### 封装应用程序为服务
 
 Windows Resource Kit for [Windows NT
-3.51](../Page/Windows_NT_3.51.md "wikilink")、[Windows NT
-4.0和](../Page/Windows_NT_4.0.md "wikilink")[Windows
+3.51](https://zh.wikipedia.org/wiki/Windows_NT_3.51 "wikilink")、[Windows
+NT 4.0和](../Page/Windows_NT_4.0.md "wikilink")[Windows
 2000提供工具来控制服务的注册和使用](../Page/Windows_2000.md "wikilink")：`SrvAny.exe`作为服务封装器来处理预期的服务接口（例如处理`service_start`，然后响应`service_started`或`service_failed`）并允许配置任何可执行文件或脚本作为一个服务。`Sc.exe`可以安装、启动、停止和卸载新服务。\[22\]
 
 ## 参见
@@ -82,7 +82,7 @@ Windows Resource Kit for [Windows NT
 
 <!-- end list -->
 
-  - [svchost.exe](../Page/svchost.exe.md "wikilink")
+  - [svchost.exe](https://zh.wikipedia.org/wiki/svchost.exe "wikilink")
 
 <!-- end list -->
 

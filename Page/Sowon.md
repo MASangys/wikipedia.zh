@@ -1,5 +1,5 @@
-**金韶情**\[1\]（，，），藝名**Sowon**（），名字常被錯譯為**素媛**，[韓國女](../Page/大韓民國.md "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下](../Page/Source_Music.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[GFRIEND的隊長](../Page/GFRIEND.md "wikilink")，在隊內擔任主Rapper\[2\]、副領舞及黃金比例。曾為DSP媒體的練習生。
+**金韶情**\[1\]（，，），藝名**Sowon**（），名字常被錯譯為**素媛**，[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
+Music旗下](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND的隊長](../Page/GFRIEND.md "wikilink")，在隊內擔任主Rapper\[2\]、副領舞及黃金比例。曾為DSP媒體的練習生。
 
 ## 節目主持
 
@@ -15,10 +15,10 @@ Music旗下](../Page/Source_Music.md "wikilink")[女子音樂組合](../Page/女
 
 ## MV出演
 
-|           |                                          |       |
-| --------- | ---------------------------------------- | ----- |
-| 日期        | 歌手                                       | 歌曲名稱  |
-| 2011年4月8日 | [Rainbow](../Page/Rainbow.md "wikilink") | TO ME |
+|           |                                                             |       |
+| --------- | ----------------------------------------------------------- | ----- |
+| 日期        | 歌手                                                          | 歌曲名稱  |
+| 2011年4月8日 | [Rainbow](https://zh.wikipedia.org/wiki/Rainbow "wikilink") | TO ME |
 
 ## 參考資料
 
@@ -45,4 +45,4 @@ Music旗下](../Page/Source_Music.md "wikilink")[女子音樂組合](../Page/女
 
 1.
 2.  根據이력서採訪稿中的饒舌實力部分，Sowon在[Show\!
-    音樂中心](../Page/Show!_音樂中心.md "wikilink")500集特輯和[TWICE的交換舞台中演唱了](../Page/TWICE.md "wikilink")[彩瑛的饒舌部分](../Page/彩瑛.md "wikilink")
+    音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")500集特輯和[TWICE的交換舞台中演唱了](https://zh.wikipedia.org/wiki/TWICE "wikilink")[彩瑛的饒舌部分](../Page/彩瑛.md "wikilink")

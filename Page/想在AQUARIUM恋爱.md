@@ -2,11 +2,11 @@
 
 ## 概要
 
-本单曲分为[BD同捆和](../Page/藍光光碟.md "wikilink")[DVD同捆两种](../Page/DVD.md "wikilink")。除同名A面曲《想在AQUARIUM恋爱》外，还收录了另外两首歌曲以及广播剧。初回限定盘附赠线下活动的代码和Aqours成員介紹卡一张（共9种），此外各店铺也会提供不同的特典\[2\]。另外，为纪念单曲发行，日本[伊豆箱根鉄道駿豆線推出了Aqours主题涂装列车](../Page/伊豆箱根鉄道駿豆線.md "wikilink")，2016年4月27日至7月运行\[3\]\[4\]。
+本单曲分为[BD同捆和](../Page/藍光光碟.md "wikilink")[DVD同捆两种](https://zh.wikipedia.org/wiki/DVD "wikilink")。除同名A面曲《想在AQUARIUM恋爱》外，还收录了另外两首歌曲以及广播剧。初回限定盘附赠线下活动的代码和Aqours成員介紹卡一张（共9种），此外各店铺也会提供不同的特典\[2\]。另外，为纪念单曲发行，日本[伊豆箱根鉄道駿豆線推出了Aqours主题涂装列车](https://zh.wikipedia.org/wiki/伊豆箱根鉄道駿豆線 "wikilink")，2016年4月27日至7月运行\[3\]\[4\]。
 
 单曲发布首日，便在[Oricon公信榜日榜上取得了第](../Page/Oricon公信榜.md "wikilink")4名的成绩，至4月30日登上日榜首位，当周周榜上也以约4.7万张的销量取得了第3名的成绩\[5\]\[6\]，同时位列当周动画歌曲榜第1名及2016年4月月榜第7名\[7\]\[8\]。
 
-2017年9月，单曲获得[日本唱片协会的](../Page/日本唱片协会.md "wikilink")[金唱片认证](../Page/金唱片.md "wikilink")\[9\]。
+2017年9月，单曲获得[日本唱片协会的](https://zh.wikipedia.org/wiki/日本唱片协会 "wikilink")[金唱片认证](../Page/金唱片.md "wikilink")\[9\]。
 
 ## 收录曲目
 
@@ -17,7 +17,7 @@
   - CD
     1.  *****（想在AQUARIUM恋爱）*
 
-          - 作詞：[畑亚贵](../Page/畑亚贵.md "wikilink")，作曲：，编曲：
+          - 作詞：[畑亚贵](https://zh.wikipedia.org/wiki/畑亚贵 "wikilink")，作曲：，编曲：
 
     2.  *****（等待爱的歌）*
 
@@ -49,8 +49,8 @@
 ## 音樂影片製作團隊
 
   - 企画：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")
-  - 原案：[公野櫻子](../Page/公野櫻子.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
+  - 原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")
   - 監督、分镜：酒井和男
   - 演出：远藤广隆
   - 角色設計：室田雄平

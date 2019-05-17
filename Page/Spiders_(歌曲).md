@@ -1,6 +1,6 @@
-**Spiders**是[美國](../Page/美國.md "wikilink")[搖滾樂隊](../Page/搖滾.md "wikilink")[墮落體制的歌曲](../Page/墮落體制.md "wikilink")，此曲製成EP，同時也收錄於1998年的*[System
+**Spiders**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[墮落體制的歌曲](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，此曲製成EP，同時也收錄於1998年的*[System
 of a
-Down](../Page/System_Of_A_Down_\(專輯\).md "wikilink")*。這首歌被收錄於的音樂帶裡、以及出現於遊戲裡。
+Down](https://zh.wikipedia.org/wiki/System_Of_A_Down_\(專輯\) "wikilink")*。這首歌被收錄於的音樂帶裡、以及出現於遊戲裡。
 
 ## 音樂
 

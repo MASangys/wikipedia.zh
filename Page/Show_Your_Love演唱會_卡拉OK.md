@@ -1,5 +1,5 @@
 《**Show Your Love演唱會
-卡拉OK**》（）是臺灣歌手[蔡依林的第二張](../Page/蔡依林.md "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2001年5月10日發行。該專輯內容包括蔡依林於2001年2月25日於臺灣[臺北縣](../Page/新北市.md "wikilink")[板橋市](../Page/板橋區_\(台灣\).md "wikilink")[臺北縣立板橋體育場第一運動場舉辦的](../Page/板橋體育場.md "wikilink")「Show
+卡拉OK**》（）是臺灣歌手[蔡依林的第二張](../Page/蔡依林.md "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2001年5月10日發行。該專輯內容包括蔡依林於2001年2月25日於臺灣[臺北縣](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋市](https://zh.wikipedia.org/wiki/板橋區_\(台灣\) "wikilink")[臺北縣立板橋體育場第一運動場舉辦的](../Page/板橋體育場.md "wikilink")「Show
 Your Love演唱會」的現場實錄\[1\]。
 
 ## 曲目

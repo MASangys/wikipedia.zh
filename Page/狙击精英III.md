@@ -1,13 +1,13 @@
 是一款由[Rebellion
-Developments制作](../Page/Rebellion_Developments.md "wikilink")、[505游戏大街发行的](../Page/505游戏大街.md "wikilink")[第三人称](../Page/第三人称射击游戏.md "wikilink")[战术射击游戏](../Page/战术射击游戏.md "wikilink")。游戏于2014年在[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[PlayStation
+Developments制作](../Page/Rebellion_Developments.md "wikilink")、[505游戏大街发行的](https://zh.wikipedia.org/wiki/505游戏大街 "wikilink")[第三人称](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")[战术射击游戏](../Page/战术射击游戏.md "wikilink")。游戏于2014年在[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[PlayStation
 4](../Page/PlayStation_4.md "wikilink")、[Xbox
 360和](../Page/Xbox_360.md "wikilink")[Xbox
-One平台发布](../Page/Xbox_One.md "wikilink")，[任天堂Switch版計畫於](../Page/任天堂Switch.md "wikilink")2019年推出。\[1\]本作是2012年《[狙击精英V2](../Page/狙击精英V2.md "wikilink")》的前传，[狙击精英系列的第三部作品](../Page/狙击精英系列.md "wikilink")。
+One平台发布](../Page/Xbox_One.md "wikilink")，[任天堂Switch版計畫於](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")2019年推出。\[1\]本作是2012年《[狙击精英V2](https://zh.wikipedia.org/wiki/狙击精英V2 "wikilink")》的前传，[狙击精英系列的第三部作品](../Page/狙击精英系列.md "wikilink")。
 
 游戏背景设定在《狙击精英V2》事件的几年前，因美国[战略情报局特工卡尔](../Page/战略情报局.md "wikilink")·费尔伯恩（Karl
-Fairburne）成绩突出，他被派往处于二战时期的北非，在那里他将见识到纳粹军队的秘密武器\[2\]，并再次拿起[狙击枪狙杀敌军](../Page/狙击枪.md "wikilink")。
+Fairburne）成绩突出，他被派往处于二战时期的北非，在那里他将见识到纳粹军队的秘密武器\[2\]，并再次拿起[狙击枪狙杀敌军](https://zh.wikipedia.org/wiki/狙击枪 "wikilink")。
 
 ## 评价
 

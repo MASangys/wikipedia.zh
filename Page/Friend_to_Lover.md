@@ -1,4 +1,4 @@
-是日本[SMEE在](../Page/HOOKSOFT.md "wikilink")2013年6月28日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com在](../Page/DMM.com.md "wikilink")2015年2月13日發售DL版\[3\]，另外在2016年4月15日發售HD版。\[4\]2014年8月15日（[Comic
+是日本[SMEE在](../Page/HOOKSOFT.md "wikilink")2013年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com在](../Page/DMM.com.md "wikilink")2015年2月13日發售DL版\[3\]，另外在2016年4月15日發售HD版。\[4\]2014年8月15日（[Comic
 Market](../Page/Comic_Market.md "wikilink") 86）發售《**Friend to Lover Mini
 Fandisc**》（フレラバ ミニファンディスク）。\[5\]2015年3月26日由KAGA
 CREATE（加賀クリエイト）發售[PSV版](../Page/PlayStation_Vita.md "wikilink")《**Friend
@@ -38,7 +38,7 @@ to Lover 〜フレラバ〜**》。\[6\]
   -
     城彩學園2年A組的班級老師和體育老師。
   -
-    城彩學園3年級學生。《[PURE×CONNECT](../Page/PURE×CONNECT.md "wikilink")》的女主角之一。
+    城彩學園3年級學生。《[PURE×CONNECT](https://zh.wikipedia.org/wiki/PURE×CONNECT "wikilink")》的女主角之一。
   -
     城彩學園3年級學生。《PURE×CONNECT》的女主角之一。
 
@@ -134,7 +134,7 @@ to Lover 〜フレラバ〜**》。\[6\]
 ## 評價
 
 《Friend to
-Lover》在Getchu.com的美少女遊戲大賞2013中獲得綜合部門第14名。\[10\]另外PSV版在電玩周刊[ファミ通](../Page/ファミ通.md "wikilink")2015年4月2、9日合併號的クロスレビュー中獲得32分（滿分40分）並且進入金殿堂。\[11\]
+Lover》在Getchu.com的美少女遊戲大賞2013中獲得綜合部門第14名。\[10\]另外PSV版在電玩周刊[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")2015年4月2、9日合併號的クロスレビュー中獲得32分（滿分40分）並且進入金殿堂。\[11\]
 
 ## 參考來源
 
@@ -163,7 +163,7 @@ Lover》在Getchu.com的美少女遊戲大賞2013中獲得綜合部門第14名�
 5.  [Fureraba Mini Fandisk](https://vndb.org/v15602)The Visual Novel
     Database
 6.  [Friend to Lover
-    ～フレラバ～](http://www.4gamer.net/games/284/G028476/)[4Gamer.net](../Page/4Gamer.net.md "wikilink")
+    ～フレラバ～](http://www.4gamer.net/games/284/G028476/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 7.  [フレラバ ～Friend to
     Lover～](http://erogetrailers.com/soft/9939)ErogeTrailers
 8.  [Friend to Lover

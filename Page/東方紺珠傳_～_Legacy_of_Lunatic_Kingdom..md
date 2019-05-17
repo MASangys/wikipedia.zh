@@ -1,11 +1,11 @@
-是由同人組織[上海愛莉絲幻樂團發布的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](../Page/東方Project.md "wikilink")15作。
+是由同人組織[上海愛莉絲幻樂團發布的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")15作。
 [Th15_gameplay.png](https://zh.wikipedia.org/wiki/File:Th15_gameplay.png "fig:Th15_gameplay.png")
 
 ## 劇情簡介
 
-遊戲延續《[東方深秘錄](../Page/東方深秘錄.md "wikilink")》的故事。在都市傳說在幻想鄉具現化時，「阿波羅號並沒有登陸月球」這樣的傳言悄悄傳開。此時[靈夢與](../Page/博麗靈夢.md "wikilink")[早苗看見了在山上徘徊的機械蜘蛛](../Page/東風谷早苗.md "wikilink")（探測機），並且所在之處濃霧皆散、草木皆枯，走過之處萬物皆失去生息。從天空飛過的天狗也沒注意到蜘蛛。靈夢與早苗因此感到心急並出發前往。
+遊戲延續《[東方深秘錄](https://zh.wikipedia.org/wiki/東方深秘錄 "wikilink")》的故事。在都市傳說在幻想鄉具現化時，「阿波羅號並沒有登陸月球」這樣的傳言悄悄傳開。此時[靈夢與](../Page/博麗靈夢.md "wikilink")[早苗看見了在山上徘徊的機械蜘蛛](https://zh.wikipedia.org/wiki/東風谷早苗 "wikilink")（探測機），並且所在之處濃霧皆散、草木皆枯，走過之處萬物皆失去生息。從天空飛過的天狗也沒注意到蜘蛛。靈夢與早苗因此感到心急並出發前往。
 
-在眾人皆在謠傳都市傳說時，由於深秘錄突然出現七個超神祕球體、其中一個在月之都，[魔理沙為此神秘事件前往調查](../Page/霧雨魔理沙.md "wikilink")。此時不知所措的魔理沙遇見了已服用永琳的強化藥的[鈴仙](../Page/鈴仙·優曇華院·稻葉.md "wikilink")，引領靈夢等人前進。
+在眾人皆在謠傳都市傳說時，由於深秘錄突然出現七個超神祕球體、其中一個在月之都，[魔理沙為此神秘事件前往調查](../Page/霧雨魔理沙.md "wikilink")。此時不知所措的魔理沙遇見了已服用永琳的強化藥的[鈴仙](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·稻葉 "wikilink")，引領靈夢等人前進。
 
 無法阻止金屬蜘蛛淨化的步伐。
 眼睜睜看著草木枯萎。凡蜘蛛走過之處只留下荒瘠。在幻想鄉被完全淨化之時，就成為完整的世界了吧，一顆美麗且毫無生息的行星。
@@ -17,8 +17,8 @@
 
   - **[博麗靈夢](../Page/博麗靈夢.md "wikilink")**（）
   - **[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")**（）
-  - [**東風谷早苗**](../Page/東方風神錄_～_Mountain_of_Faith.#.E6.9D.B1.E9.A2.A8.E8.B0.B7_.E6.97.A9.E8.8B.97.md "wikilink")（）
-  - [**鈴仙·優曇華院·稻葉**](../Page/東方永夜抄_～_Imperishable_Night.#鈴仙·優曇華院·稻葉.md "wikilink")（）
+  - [**東風谷早苗**](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#.E6.9D.B1.E9.A2.A8.E8.B0.B7_.E6.97.A9.E8.8B.97 "wikilink")（）
+  - [**鈴仙·優曇華院·稻葉**](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#鈴仙·優曇華院·稻葉 "wikilink")（）
 
 ### 頭目角色
 
@@ -48,7 +48,7 @@
 
   - **稀神 探女**（）
     **主題曲**： 　倒轉的命運之輪（《紺珠傳》）
-    月之民的高官，拥有从口中说出便可使事态逆转的能力。和月之贤者冻结了月之都而防止被纯狐的攻击导致的污秽侵蚀，令月之民前往梦境避难，但由于长期在在梦境中精神会被侵蚀。为此利用自己的能力制造了《[深秘录](../Page/东方深秘录.md "wikilink")》的神秘珠，并在幻想乡散布“[‘NASA隐瞒了在月上所见的真相’的阴谋论](../Page/阿波罗登月计划阴谋论.md "wikilink")”，利用神秘珠的能力使月之都在幻想乡出现而实现迁都计划。后来玩家主角群成功击败其，而转而希望他们能击败纯狐。
+    月之民的高官，拥有从口中说出便可使事态逆转的能力。和月之贤者冻结了月之都而防止被纯狐的攻击导致的污秽侵蚀，令月之民前往梦境避难，但由于长期在在梦境中精神会被侵蚀。为此利用自己的能力制造了《[深秘录](https://zh.wikipedia.org/wiki/东方深秘录 "wikilink")》的神秘珠，并在幻想乡散布“[‘NASA隐瞒了在月上所见的真相’的阴谋论](../Page/阿波罗登月计划阴谋论.md "wikilink")”，利用神秘珠的能力使月之都在幻想乡出现而实现迁都计划。后来玩家主角群成功击败其，而转而希望他们能击败纯狐。
 
 <!-- end list -->
 
@@ -262,7 +262,7 @@
 <td></td>
 <td><p>Player's Score</p></td>
 <td><p>分數與Replay登錄畫面<br />
-重新收錄自<a href="../Page/妖精大戰爭.md" title="wikilink">妖精大戰爭</a></p></td>
+重新收錄自<a href="https://zh.wikipedia.org/wiki/妖精大戰爭" title="wikilink">妖精大戰爭</a></p></td>
 </tr>
 </tbody>
 </table>

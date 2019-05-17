@@ -14,13 +14,14 @@ Pub Games》。\[6\]
 ## 旗下游戏
 
   - *[South Park Scott Tenorman's
-    Revenge](../Page/South_Park_Scott_Tenorman's_Revenge.md "wikilink")*
+    Revenge](https://zh.wikipedia.org/wiki/South_Park_Scott_Tenorman's_Revenge "wikilink")*
     — Xbox 360 (2012)
   - *[South Park Let's Go Tower Defense
-    Play\!](../Page/South_Park_Let's_Go_Tower_Defense_Play!.md "wikilink")*
+    Play\!](https://zh.wikipedia.org/wiki/South_Park_Let's_Go_Tower_Defense_Play! "wikilink")*
     — Xbox 360 (2009)
-  - *[Fable II Pub Games](../Page/Fable_II_Pub_Games.md "wikilink")* —
-    Xbox 360 (2008)
+  - *[Fable II Pub
+    Games](https://zh.wikipedia.org/wiki/Fable_II_Pub_Games "wikilink")*
+    — Xbox 360 (2008)
 
 ## 参考资料
 

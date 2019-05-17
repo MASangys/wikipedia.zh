@@ -1,5 +1,5 @@
-《**Dynamix**》是一款由香港獨立開發組織[C4Cat開發的手機](../Page/C4Cat.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")\[1\]。該遊戲是一款三重落下式遊戲，其音樂風格目前以電子音樂為主\[2\]。而遊戲音樂皆為香港作曲家製作，未來預計加入來自臺灣及中國大陸作曲家所製作的音樂\[3\]。[Android版本於](../Page/Android.md "wikilink")2014年10月30日在[Google
-Play上架](../Page/Google_Play.md "wikilink")\[4\]，[iOS版本於](../Page/iOS.md "wikilink")2015年5月20日在[App
+《**Dynamix**》是一款由香港獨立開發組織[C4Cat開發的手機](https://zh.wikipedia.org/wiki/C4Cat "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")\[1\]。該遊戲是一款三重落下式遊戲，其音樂風格目前以電子音樂為主\[2\]。而遊戲音樂皆為香港作曲家製作，未來預計加入來自臺灣及中國大陸作曲家所製作的音樂\[3\]。[Android版本於](../Page/Android.md "wikilink")2014年10月30日在[Google
+Play上架](../Page/Google_Play.md "wikilink")\[4\]，[iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年5月20日在[App
 Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[5\]。
 
 ## 遊戲設計
@@ -52,24 +52,24 @@ Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[5\]。
 
 ### 曲目
 
-在《Dynamix》中，玩家可以透過遊玩曲目，增加經驗值。當一局遊戲結束後，經驗值會增加。當經驗值達到特定的等級後，可以解鎖新的曲目\[16\]。同時，玩家可以透過在Facebook或Twitter上分享《Dynamix》來解鎖指定的新曲目\[17\]。玩家也可以在[遊戲內付費購買樂曲包](../Page/微交易.md "wikilink")\[18\]，每個樂曲包內有四首歌曲\[19\]。3.0版本後，新增Event模式，玩家可利用活動賺取Frag來購買活動曲。3.7版本新增段位系統，完成段位後可以使用Frag購買每個段位第三首的全新歌曲。
+在《Dynamix》中，玩家可以透過遊玩曲目，增加經驗值。當一局遊戲結束後，經驗值會增加。當經驗值達到特定的等級後，可以解鎖新的曲目\[16\]。同時，玩家可以透過在Facebook或Twitter上分享《Dynamix》來解鎖指定的新曲目\[17\]。玩家也可以在[遊戲內付費購買樂曲包](https://zh.wikipedia.org/wiki/微交易 "wikilink")\[18\]，每個樂曲包內有四首歌曲\[19\]。3.0版本後，新增Event模式，玩家可利用活動賺取Frag來購買活動曲。3.7版本新增段位系統，完成段位後可以使用Frag購買每個段位第三首的全新歌曲。
 
 而樂譜難度分為五個等級，由Casual級漸進至Normal,Hard,Mega及Giga。\[20\]。
 
 ## 發展
 
-《Dynamix》是由[香港中文大學學生](../Page/香港中文大學.md "wikilink")[曾家俊開設的](../Page/曾家俊.md "wikilink")[C4Cat公司開發](../Page/C4Cat.md "wikilink")，也是C4Cat的第一款遊戲\[21\]。C4Cat團隊是在香港中文大學的[前期創業育成中心](../Page/Pi_Centre.md "wikilink")（，簡稱）首輪申請中獲選的九組團隊之一\[22\]。在Pi
+《Dynamix》是由[香港中文大學學生](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[曾家俊開設的](https://zh.wikipedia.org/wiki/曾家俊 "wikilink")[C4Cat公司開發](https://zh.wikipedia.org/wiki/C4Cat "wikilink")，也是C4Cat的第一款遊戲\[21\]。C4Cat團隊是在香港中文大學的[前期創業育成中心](https://zh.wikipedia.org/wiki/Pi_Centre "wikilink")（，簡稱）首輪申請中獲選的九組團隊之一\[22\]。在Pi
 Centre的支援下，開設公司\[23\]。因2011年的手機遊戲《[龍族拼圖](../Page/龍族拼圖.md "wikilink")》推出後，受到歡迎以及獲得利潤。曾家俊認為手機遊戲與傳統電子遊戲不同處在於手機遊戲不需要發行商和實體商店銷售通路，故決心創業\[24\]。而Pi
 Centre也提供辦公室給C4Cat開發，以及教授相關知識，使C4Cat進駐[香港科學園](../Page/香港科學園.md "wikilink")\[25\]\[26\]。在製作遊戲時，C4Cat也參考了許多音樂遊戲（例如：[Deemo](../Page/Deemo.md "wikilink")、[-{zh-hans:动感弹珠;
 zh-hk:REFLEC BEAT;
-zh-tw:彈指火球;}-](../Page/动感弹珠.md "wikilink")、[狂熱節拍IIDX](../Page/狂熱節拍IIDX.md "wikilink")、[jubeat等](../Page/jubeat.md "wikilink")\[27\]）。在遊戲上架前，在遊戲官方網站開放玩家事前登錄，玩家完成事前登錄後可獲得免費歌曲《Actinium》\[28\]。
+zh-tw:彈指火球;}-](../Page/动感弹珠.md "wikilink")、[狂熱節拍IIDX](https://zh.wikipedia.org/wiki/狂熱節拍IIDX "wikilink")、[jubeat等](https://zh.wikipedia.org/wiki/jubeat "wikilink")\[27\]）。在遊戲上架前，在遊戲官方網站開放玩家事前登錄，玩家完成事前登錄後可獲得免費歌曲《Actinium》\[28\]。
 
 ## 影響與評價
 
 《Dynamix》於Google Play上架後一個月內，在Google
 Play的下載次數超過五萬次\[29\]。而《Dynamix》在《2015香港資訊及通訊科技獎》中獲得最佳數碼娛樂（娛樂軟件）特別嘉許（音樂及音效）獎\[30\]。
 
-評論網站[TouchArcade對](../Page/TouchArcade.md "wikilink")《Dynamix》給出了3.5顆星的評分\[31\]。TouchArcade認為《Dynamix》是一個[可玩性高的遊戲](../Page/可玩性.md "wikilink")。而該遊戲在準確度判定的標準比較寬鬆，比較容易擊出「Perfect」。樂譜的難度在Casual時，相當於一般音樂遊戲的「初級」，但到了難度Hard，則很難掌握整個樂譜\[32\]。
+評論網站[TouchArcade對](https://zh.wikipedia.org/wiki/TouchArcade "wikilink")《Dynamix》給出了3.5顆星的評分\[31\]。TouchArcade認為《Dynamix》是一個[可玩性高的遊戲](https://zh.wikipedia.org/wiki/可玩性 "wikilink")。而該遊戲在準確度判定的標準比較寬鬆，比較容易擊出「Perfect」。樂譜的難度在Casual時，相當於一般音樂遊戲的「初級」，但到了難度Hard，則很難掌握整個樂譜\[32\]。
 
 ## 收錄曲目
 

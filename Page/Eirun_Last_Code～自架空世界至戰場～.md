@@ -1,6 +1,6 @@
 《**Eirun Last
-Code～自架空世界至戰場～**》（）是[東龍乃助所寫作的](../Page/東龍乃助.md "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由](../Page/插圖.md "wikilink")[Mikoto
-Akemi繪畫](../Page/Mikoto_Akemi.md "wikilink")，並有[汐山古埜武和](../Page/汐山古埜武.md "wikilink")[貞松龍壹負責機械相關編劇與設計](../Page/貞松龍壹.md "wikilink")。[Media
+Code～自架空世界至戰場～**》（）是[東龍乃助所寫作的](https://zh.wikipedia.org/wiki/東龍乃助 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Mikoto
+Akemi繪畫](https://zh.wikipedia.org/wiki/Mikoto_Akemi "wikilink")，並有[汐山古埜武和](https://zh.wikipedia.org/wiki/汐山古埜武 "wikilink")[貞松龍壹負責機械相關編劇與設計](https://zh.wikipedia.org/wiki/貞松龍壹 "wikilink")。[Media
 Factory出版](../Page/Media_Factory.md "wikilink")，中文版由[尖端出版發行](../Page/尖端出版.md "wikilink")。
 
 2016年《[這本輕小說真厲害！](../Page/這本輕小說真厲害！.md "wikilink")》獲得了綜合第4名、新作第1名。\[1\]
@@ -88,7 +88,7 @@ Factory出版](../Page/Media_Factory.md "wikilink")，中文版由[尖端出版�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -145,7 +145,7 @@ Factory出版](../Page/Media_Factory.md "wikilink")，中文版由[尖端出版�
 
   - [Eirun Last Code～自架空世界至戰場～](http://eirunlastcode.com/)
 
-[分類:2015年長篇小說](../Page/分類:2015年長篇小說.md "wikilink")
-[分類:MF文庫J](../Page/分類:MF文庫J.md "wikilink")
+[分類:2015年長篇小說](https://zh.wikipedia.org/wiki/分類:2015年長篇小說 "wikilink")
+[分類:MF文庫J](https://zh.wikipedia.org/wiki/分類:MF文庫J "wikilink")
 
 1.

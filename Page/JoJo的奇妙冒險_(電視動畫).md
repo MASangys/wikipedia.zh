@@ -19,7 +19,7 @@
 <td><p>人物設定<br />
 總作畫監督</p></td>
 <td><p>清水貴子（第一季）<br />
-<a href="../Page/小美野雅彥.md" title="wikilink">小美野雅彥</a>（第二季）<br />
+<a href="https://zh.wikipedia.org/wiki/小美野雅彥" title="wikilink">小美野雅彥</a>（第二季）<br />
 西位輝實（第三季）<br />
 岸田隆宏（第四季）</p></td>
 </tr>
@@ -79,7 +79,7 @@
 </tr>
 <tr class="odd">
 <td><p>音樂</p></td>
-<td><p><a href="../Page/松尾早人.md" title="wikilink">松尾早人</a>（第一季 原作Part1）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/松尾早人" title="wikilink">松尾早人</a>（第一季 原作Part1）<br />
 <a href="../Page/岩崎琢.md" title="wikilink">岩崎琢</a>（第一季 原作Part2）<br />
 <a href="../Page/菅野祐悟.md" title="wikilink">菅野祐悟</a>（第二季之後）</p></td>
 </tr>
@@ -117,7 +117,7 @@ ONE MUSIC（第二季、第三季）</p></td>
 <td><p>導演</p></td>
 <td><p>津田尚克（第一季－第三季）<br />
 高村雄太（原作第四部）<br />
-<a href="../Page/木村泰大.md" title="wikilink">木村泰大</a>、高橋秀彌（原作第五部）</p></td>
+<a href="https://zh.wikipedia.org/wiki/木村泰大" title="wikilink">木村泰大</a>、高橋秀彌（原作第五部）</p></td>
 </tr>
 <tr class="even">
 <td><p>系列導演</p></td>
@@ -138,7 +138,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 </tbody>
 </table>
 
-《**JoJo的奇妙冒險**》（）電視動畫是由[荒木飛呂彥原作的](../Page/荒木飛呂彥.md "wikilink")[同名日本漫畫改編](../Page/JoJo的奇妙冒險.md "wikilink")，由[David
+《**JoJo的奇妙冒險**》（）電視動畫是由[荒木飛呂彥原作的](../Page/荒木飛呂彥.md "wikilink")[同名日本漫畫改編](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")，由[David
 Production製作的作品](../Page/David_Production.md "wikilink")。目前預定計畫製作播放JoJo系列原作第一部至第六部\[1\]。
 
 第一季自2012年10月播放至2013年3月，第二季上半部自2014年4月播放至同年9月，下半部自2015年1月播放至同年6月，第三季自2016年4月播放至同年12月。第四季自2018年10月起開播。
@@ -148,7 +148,7 @@ Production製作的作品](../Page/David_Production.md "wikilink")。目前預�
 ## 第一季
 
 2012年7月5日舉辦的「荒木飛呂彥原畫展 JoJo展」記者發表會中透露製作第一部與第二部的電視動畫。同年10月深夜時段開始在[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送（之後改用CBC電視台表示）](../Page/CBC電視台_\(日本\).md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[RKB每日放送](../Page/RKB每日放送.md "wikilink")、[BS11等台播出](../Page/日本BS放送.md "wikilink")。
+MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送（之後改用CBC電視台表示）](https://zh.wikipedia.org/wiki/CBC電視台_\(日本\) "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[RKB每日放送](../Page/RKB每日放送.md "wikilink")、[BS11等台播出](../Page/日本BS放送.md "wikilink")。
 
 第1話至第9話內容為原作第一部《[幻影血脈](../Page/幻影血脈.md "wikilink")》，第10話至第26話（最終話）內容為原作第二部《[戰鬥潮流](../Page/戰鬥潮流.md "wikilink")》\[3\]。至2013年4月播放完畢，全26話（第1部9話+第2部17話），並於第26話的片尾曲後透露第三部故事起頭。
 
@@ -166,12 +166,12 @@ MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日
         第9話的影像軟體版附加[音效](../Page/音效.md "wikilink")。
 
 :; 「[BLOODY
-STREAM](../Page/BLOODY_STREAM.md "wikilink")」（原作第2部，第11話－第16話、第18話－第25話）
+STREAM](https://zh.wikipedia.org/wiki/BLOODY_STREAM "wikilink")」（原作第2部，第11話－第16話、第18話－第25話）
 
   -
 
       -
-        作詞：[兒玉沙織](../Page/兒玉沙織.md "wikilink")，作曲、編曲：，主唱：
+        作詞：[兒玉沙織](https://zh.wikipedia.org/wiki/兒玉沙織 "wikilink")，作曲、編曲：，主唱：
         第10話、第17話、第26話未使用，第26話（最終話）片尾曲。
         第25話附加音效。
 
@@ -185,7 +185,7 @@ STREAM](../Page/BLOODY_STREAM.md "wikilink")」（原作第2部，第11話－第
 
       -
         作詞、作曲：、[Steve
-        Howe](../Page/史蒂夫·豪.md "wikilink")，主唱、演奏：[Yes](../Page/是樂隊.md "wikilink")
+        Howe](../Page/史蒂夫·豪.md "wikilink")，主唱、演奏：[Yes](https://zh.wikipedia.org/wiki/是樂隊 "wikilink")
         第3話、第20話～第21話、第26話未使用。
         原作第1部描寫以古代遺跡作為背景，加上紅色的水（血液）像沿著河川水流般在畫面上由右側滾動至左側終端。
         原作第2部描寫戰鬥潮流的登場角色，由下往上滾動在畫面中出現。
@@ -605,7 +605,7 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
   -
 
       -
-        作詞：田無夢太郎，作曲、編曲：菅野祐悟，主唱：歐因哥（[保村真](../Page/保村真.md "wikilink")，第27話）、荷爾·荷斯（[木內秀信](../Page/木內秀信.md "wikilink")，第36話、第37話）、波因哥（[熊井統子](../Page/熊井統子.md "wikilink")）
+        作詞：田無夢太郎，作曲、編曲：菅野祐悟，主唱：歐因哥（[保村真](../Page/保村真.md "wikilink")，第27話）、荷爾·荷斯（[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")，第36話、第37話）、波因哥（[熊井統子](../Page/熊井統子.md "wikilink")）
 
 :; 「」（第48話）\[11\]
 
@@ -1053,7 +1053,7 @@ Choi Hee Eun</p></td>
 <td></td>
 <td><p>荷爾·荷斯與波因哥 其1</p></td>
 <td><p>小林靖子</p></td>
-<td><p><a href="../Page/西田正義.md" title="wikilink">西田正義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西田正義" title="wikilink">西田正義</a></p></td>
 <td><p>町谷俊輔</p></td>
 <td><p>石本峻一、伊藤公崇<br />
 Cha Myoung Jun</p></td>
@@ -1205,7 +1205,7 @@ Cha Myoung Jun<br />
 
 2015年10月24日，來自[電視動畫《JOJO的奇妙冒險》](https://twitter.com/anime_jojo?ref_src=twsrc%5Etfw)在[Twitter官網表示](../Page/Twitter.md "wikilink")，決定製作原作第4部，標題名為《JoJo的奇妙冒險
 不滅鑽石》。2016年4月至12月繼續在[TOKYO
-MX](../Page/TOKYO_MX.md "wikilink")、[MBS](../Page/每日放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[BS11等台首播](../Page/日本BS放送.md "wikilink")。主要人物的配音員方面，除了空条承太郎和虹村億泰分別由[小野大輔和](../Page/小野大輔.md "wikilink")[高木涉繼續擔任之外](../Page/高木涉.md "wikilink")，主角東方仗助、廣瀨康一及岸邊露伴從對戰格鬥遊戲《JOJO的奇妙冒險
+MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[MBS](../Page/每日放送.md "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[BS11等台首播](../Page/日本BS放送.md "wikilink")。主要人物的配音員方面，除了空条承太郎和虹村億泰分別由[小野大輔和](../Page/小野大輔.md "wikilink")[高木涉繼續擔任之外](../Page/高木涉.md "wikilink")，主角東方仗助、廣瀨康一及岸邊露伴從對戰格鬥遊戲《JOJO的奇妙冒險
 ALL STAR BATTLE》和2015年12月發行的動作遊戲《JOJO的奇妙冒險 Eyes of
 Heaven》中改由[小野友樹](../Page/小野友樹.md "wikilink")、[梶裕貴及](../Page/梶裕貴.md "wikilink")[櫻井孝宏擔任](../Page/櫻井孝宏.md "wikilink")。
 
@@ -1219,7 +1219,7 @@ Heaven》中改由[小野友樹](../Page/小野友樹.md "wikilink")、[梶裕�
 
       -
         作詞：兒玉沙織，作曲：小田和奏，編曲：MACARONI☆，主唱：THE
-        DU（[城田純](../Page/城田純.md "wikilink")、、Jeity）
+        DU（[城田純](https://zh.wikipedia.org/wiki/城田純 "wikilink")、、Jeity）
         第7話以後，追加康一的替身「Echos」的影像。
 
 :; 「Crazy Noisy Bizarre Town ～EDM arrange Ver.～」（第8話－第10話）
@@ -1254,7 +1254,7 @@ Heaven》中改由[小野友樹](../Page/小野友樹.md "wikilink")、[梶裕�
 第7話、第9話－第16話、第18話－第19話、第21話－第23話、第25話－第26話、第28話－第33話、第35話、第38話）
 
 :: 作詞：Darren Stanley Hayes，作曲：Daniel Jones，主唱、演奏：[Savage
-Garden](../Page/野人花園.md "wikilink")
+Garden](https://zh.wikipedia.org/wiki/野人花園 "wikilink")
 
 :: 描寫全篇的登場人物與杜王町的街道。另外角色則是隨著各話的故事進展在影片中追加。
 
@@ -1573,7 +1573,7 @@ Shin Hyung Woo</p></td>
 <td><p>第19話</p></td>
 <td></td>
 <td><p>「重重」的收成者 其2</p></td>
-<td><p><a href="../Page/永居慎平.md" title="wikilink">永居慎平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永居慎平" title="wikilink">永居慎平</a></p></td>
 <td><p>Kim Min Sun<br />
 </p></td>
 <td><p>Kim Bo Kyong<br />
@@ -1985,7 +1985,7 @@ Cha Myoung Jun</p></td>
 
 而在其後作者荒木飛呂彥於2018年6月21日的JoJo畫展發佈會中透露「黃金之風」動畫化消息，並在同日於官方推特正式宣佈，同年10月5日起開播\[14\]。
 
-台灣於2018年10月5日起，每週六由[friDay影音跟播](../Page/friDay影音.md "wikilink")。
+台灣於2018年10月5日起，每週六由[friDay影音跟播](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")。
 
 ### 主題曲（第四季）
 
@@ -2027,7 +2027,7 @@ Cha Myoung Jun</p></td>
 
       -
         作詞、作曲：、[Carl
-        Orff](../Page/卡爾·奧爾夫.md "wikilink")，主唱：[Enigma](../Page/謎_\(音樂團體\).md "wikilink")
+        Orff](https://zh.wikipedia.org/wiki/卡爾·奧爾夫 "wikilink")，主唱：[Enigma](https://zh.wikipedia.org/wiki/謎_\(音樂團體\) "wikilink")
 
 ### 各話標題（第四季）
 
@@ -2548,20 +2548,26 @@ SHIN HYUNG WOO<br />
 <td><p>長田伸二</p></td>
 <td><p>田中宏紀</p></td>
 <td></td>
-<td><p>4月19日&lt;!--</p></td>
+<td><p>4月19日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Episodio 28</p></td>
 <td></td>
 <td><p>在快掉下來的天空底下</p></td>
+<td><p>小林靖子</p></td>
+<td><p>高橋秀彌</p></td>
+<td><p>石本峻一<br />
+田中春香<br />
+津曲大介<br />
+橫山謙次<br />
+森田莉奈<br />
+千葉山夏惠</p></td>
+<td><p>岩崎安利</p></td>
+<td><p>石本峻一<br />
+田中春香</p></td>
+<td><p>4月26日&lt;!--</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>4月26日</p></td>
 </tr>
 <tr class="even">
 <td><p>Episodio 28.5</p></td>
@@ -2586,7 +2592,7 @@ destino</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>月日</p></td>
+<td><p>5月日</p></td>
 </tr>
 <tr class="even">
 <td><p>Episodio 30</p></td>
@@ -2598,10 +2604,34 @@ destino</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>月日</p></td>
+<td><p>5月日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Episodio 31</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>月日</p></td>
+</tr>
+<tr class="even">
+<td><p>Episodio 32</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>月日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Episodio 33</p></td>
 <td></td>
 <td></td>
 <td></td>

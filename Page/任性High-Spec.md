@@ -1,20 +1,20 @@
 是由MADOSOFT（，窗軟體
-）於2016年4月28日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。此作品為MADOSOFT的第3部作品，日文簡稱「」\[1\]。2017年8月25日發售續篇《任性High-Spec
+）於2016年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。此作品為MADOSOFT的第3部作品，日文簡稱「」\[1\]。2017年8月25日發售續篇《任性High-Spec
 OC》（）\[2\]。
 
 ## 概要
 
 《任性High-Spec》於2015年6月19日在官方網站發表，6月20日於成人遊戲雑誌《[TECH
-GIAN](../Page/TECH_GIAN.md "wikilink")》、《[PUSH\!\!](../Page/PUSH!!.md "wikilink")》刊載相關消息\[3\]\[4\]。與前2作《傲慢Delation》、《嫉妒Stream》不同，原畫師改由擔當。
+GIAN](../Page/TECH_GIAN.md "wikilink")》、《[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")》刊載相關消息\[3\]\[4\]。與前2作《傲慢Delation》、《嫉妒Stream》不同，原畫師改由擔當。
 
 2015年8月14日在遊戲還未發表發售日期時便以在「[Comic
 Market](../Page/Comic_Market.md "wikilink")88」發表改編電視動畫的消息\[5\]\[6\]\[7\]。9月25日公開遊戲宣傳影片，並發表遊戲的發售日與動畫播放皆在2016年4月的消息\[8\]。
 
 2015年10月25日於[品川 Stellar
-Ball舉辦的](../Page/品川_Stellar_Ball.md "wikilink")「[EGG -Extra
-Games
-Garden-](../Page/EGG_-Extra_Games_Garden-.md "wikilink")」中發表會由演唱主題曲《Miracle
-Heart\!\!》。11月25日公開遊戲的片頭影片及公布4位女主角的擔當聲優。12月24日於[Getchu.com公開遊戲的](../Page/Getchu.com.md "wikilink")[體驗版](../Page/體驗版.md "wikilink")\[9\]\[10\]。2015年末的「Comic
+Ball舉辦的](https://zh.wikipedia.org/wiki/品川_Stellar_Ball "wikilink")「[EGG
+-Extra Games
+Garden-](https://zh.wikipedia.org/wiki/EGG_-Extra_Games_Garden- "wikilink")」中發表會由演唱主題曲《Miracle
+Heart\!\!》。11月25日公開遊戲的片頭影片及公布4位女主角的擔當聲優。12月24日於[Getchu.com公開遊戲的](https://zh.wikipedia.org/wiki/Getchu.com "wikilink")[體驗版](https://zh.wikipedia.org/wiki/體驗版 "wikilink")\[9\]\[10\]。2015年末的「Comic
 Market
 89」中與MADOSOFT與[NanaWind合作展出](../Page/NanaWind.md "wikilink")，並販售《任性High-Spec》的相關商品\[11\]。
 
@@ -63,7 +63,7 @@ Market
 ## 電視動畫
 
 [TOKYO
-MX](../Page/TOKYO_MX.md "wikilink")、[SUN電視台於](../Page/SUN電視台.md "wikilink")2016年4月11日開始播放。\[13\]由[AXsiZ製作動畫](../Page/AXsiZ.md "wikilink")、監督為[清水聰](../Page/清水聰.md "wikilink")、系列構成由[中村浩二郎](../Page/中村浩二郎.md "wikilink")、人物設定由[野村雅史擔當](../Page/野村雅史.md "wikilink")\[14\]。
+MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[SUN電視台於](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")2016年4月11日開始播放。\[13\]由[AXsiZ製作動畫](../Page/AXsiZ.md "wikilink")、監督為[清水聰](https://zh.wikipedia.org/wiki/清水聰 "wikilink")、系列構成由[中村浩二郎](https://zh.wikipedia.org/wiki/中村浩二郎 "wikilink")、人物設定由[野村雅史擔當](https://zh.wikipedia.org/wiki/野村雅史 "wikilink")\[14\]。
 
 ### 各話列表
 
@@ -180,7 +180,7 @@ MX](../Page/TOKYO_MX.md "wikilink")、[SUN電視台於](../Page/SUN電視台.md 
 
 ## 網路廣播
 
-[網路廣播節目](../Page/網路廣播.md "wikilink")《任性High-Spec
+[網路廣播節目](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")《任性High-Spec
 RADIO》（）在[音泉從](../Page/音泉.md "wikilink")2016年4月6日到6月15日期間隔周星期三線上播放共6回，由後藤麻衣（鳴海兔亞）擔任主持人。\[17\]
 
 ## 評價
@@ -198,9 +198,9 @@ disc賞\[27\]。
   - 書籍
 
 :\*《[TECH
-GIAN](../Page/TECH_GIAN.md "wikilink")》2015年8月號28-31頁（[enterbrain](../Page/enterbrain.md "wikilink")）
+GIAN](../Page/TECH_GIAN.md "wikilink")》2015年8月號28-31頁（[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")）
 
-:\*《[PUSH\!\!](../Page/PUSH!!.md "wikilink")》2015年8月號46-49頁（MAX）
+:\*《[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")》2015年8月號46-49頁（MAX）
 
 ## 外部連結
 

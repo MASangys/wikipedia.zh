@@ -1,5 +1,5 @@
 Control T
-(2015年5月14號成立)，[臺灣樂團](../Page/臺灣.md "wikilink")，成員共有四人，由團長男主唱兼吉他正嘉、女主唱妮蓁、吉他手阿蘇和鼓手富元所組成；樂團四人皆畢業於[桃園高中](../Page/國立桃園高級中學.md "wikilink")，因創作該校畢業歌曲「足跡」而踏上音樂路。
+(2015年5月14號成立)，[臺灣樂團](../Page/臺灣.md "wikilink")，成員共有四人，由團長男主唱兼吉他正嘉、女主唱妮蓁、吉他手阿蘇和鼓手富元所組成；樂團四人皆畢業於[桃園高中](https://zh.wikipedia.org/wiki/國立桃園高級中學 "wikilink")，因創作該校畢業歌曲「足跡」而踏上音樂路。
 
 ## 成員
 
@@ -71,7 +71,7 @@ Control T
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>1st</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="../Page/.md" title="wikilink"></a></strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a></strong>》</p>
 <ul>
 <li>發行日期：</li>
 <li>唱片公司：</li>
@@ -105,7 +105,7 @@ Control T
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>1st</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="../Page/微光.md" title="wikilink">微光</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/微光" title="wikilink">微光</a></strong>》</p>
 <ul>
 <li>發行日期：2016年8月22日</li>
 <li>唱片公司：<a href="../Page/風潮音樂.md" title="wikilink">風潮音樂</a></li>
@@ -115,7 +115,7 @@ Control T
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>2nd</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="../Page/不完美練習題.md" title="wikilink">不完美練習題</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/不完美練習題" title="wikilink">不完美練習題</a></strong>》</p>
 <ul>
 <li>發行日期：2018年3月20日</li>
 <li>唱片公司：<a href="../Page/風潮音樂.md" title="wikilink">風潮音樂</a></li>
@@ -159,7 +159,7 @@ Control T
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>2st</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="../Page/為我留的光.md" title="wikilink">為我留的光</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/為我留的光" title="wikilink">為我留的光</a></strong>》</p>
 <ul>
 <li>發行日期：2016年9月13日</li>
 <li>唱片公司：<a href="../Page/風潮音樂.md" title="wikilink">風潮音樂</a></li>
@@ -182,7 +182,7 @@ Control T
 **與網路頻道SuperCover合作錄製Cover歌曲「[林俊傑](../Page/林俊杰.md "wikilink")-
 不為誰而作的歌**\[1\]**」影片上線**
 
-**受邀與[交通部觀光局東北角](../Page/交通部觀光局.md "wikilink")「台灣好行-黃金福隆線」合作，創作新站點主題曲：「海浪」（南雅南新宮站）與「水花」（黃金瀑布站）**
+**受邀與[交通部觀光局東北角](https://zh.wikipedia.org/wiki/交通部觀光局 "wikilink")「台灣好行-黃金福隆線」合作，創作新站點主題曲：「海浪」（南雅南新宮站）與「水花」（黃金瀑布站）**
 
 **與罕見疾病基金會合作廣播劇 【螢火蟲故事島】主題曲，而發行數位EP《微光》，收錄〈微光〉、〈超人〉、〈相信我〉、〈超人(罕爸合唱版)〉**
 

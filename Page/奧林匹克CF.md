@@ -1,5 +1,5 @@
 **奧林匹克CF**(**Olimpic
-CF**)是一支位於[阿爾巴尼亞](../Page/阿爾巴尼亞.md "wikilink")[地拉那的職業足球會](../Page/地拉那.md "wikilink")，目前於[阿爾巴尼亞乙組足球聯賽角逐](../Page/阿爾巴尼亞乙組足球聯賽.md "wikilink")。
+CF**)是一支位於[阿爾巴尼亞](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")[地拉那的職業足球會](../Page/地拉那.md "wikilink")，目前於[阿爾巴尼亞乙組足球聯賽角逐](https://zh.wikipedia.org/wiki/阿爾巴尼亞乙組足球聯賽 "wikilink")。
 
 ## 陣容
 

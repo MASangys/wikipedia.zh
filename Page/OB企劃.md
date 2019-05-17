@@ -1,12 +1,12 @@
-**株式會社OB企劃**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")，主要從事動畫企畫製作、生產為主要營業事項的[日本企業](../Page/日本.md "wikilink")。成立於1981年。為人熟悉的代表作有賽車動畫《[頭文字D](../Page/頭文字D.md "wikilink")》系列和[安達充](../Page/安達充.md "wikilink")、[高橋留美子等多位](../Page/高橋留美子.md "wikilink")[小學館漫畫家的作品等](../Page/小學館.md "wikilink")（但只是擔任企劃製作）。
+**株式會社OB企劃**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")，主要從事動畫企畫製作、生產為主要營業事項的[日本企業](../Page/日本.md "wikilink")。成立於1981年。為人熟悉的代表作有賽車動畫《[頭文字D](../Page/頭文字D.md "wikilink")》系列和[安達充](https://zh.wikipedia.org/wiki/安達充 "wikilink")、[高橋留美子等多位](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")[小學館漫畫家的作品等](../Page/小學館.md "wikilink")（但只是擔任企劃製作）。
 
 ## 概要、沿革
 
-1981年9月成立。初期主要承包了漫畫家[安達充的](../Page/安達充.md "wikilink")《[美雪、美雪](../Page/美雪、美雪.md "wikilink")》和《[鄰家女孩](../Page/棒球英豪.md "wikilink")》等作品改編電視動畫製作的企劃協力。之後陸續投入OVA的企劃和製作，在1980年代生產OVA作品期間主要與[小丑工作室（Studio
+1981年9月成立。初期主要承包了漫畫家[安達充的](https://zh.wikipedia.org/wiki/安達充 "wikilink")《[美雪、美雪](../Page/美雪、美雪.md "wikilink")》和《[鄰家女孩](../Page/棒球英豪.md "wikilink")》等作品改編電視動畫製作的企劃協力。之後陸續投入OVA的企劃和製作，在1980年代生產OVA作品期間主要與[小丑工作室（Studio
 Pierrot的舊名）和](../Page/Studio_Pierrot.md "wikilink")[STUDIO
 GALLOP（GALLOP的舊名）建立合作夥伴關係](../Page/GALLOP_\(動畫工作室\).md "wikilink")。
 
-1990年代前半，和OB企劃相關的動畫工作室Pastel（）成立之後。從電視動畫《[城市風雲兒](../Page/城市風雲兒.md "wikilink")》和OVA《[含羞草](../Page/含羞草_\(漫畫\).md "wikilink")》開始，動畫的實質製作由Pastel承包。到了2000年12月19日，又另外一間由當時已經停止動畫製作的前動畫公司[TRIANGLE
+1990年代前半，和OB企劃相關的動畫工作室Pastel（）成立之後。從電視動畫《[城市風雲兒](../Page/城市風雲兒.md "wikilink")》和OVA《[含羞草](https://zh.wikipedia.org/wiki/含羞草_\(漫畫\) "wikilink")》開始，動畫的實質製作由Pastel承包。到了2000年12月19日，又另外一間由當時已經停止動畫製作的前動畫公司[TRIANGLE
 STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../Page/TRIANGLE_STAFF.md "wikilink")[A.C.G.T之後](../Page/A.C.G.T.md "wikilink")，向OB企劃建立旗下合作企業關係，此時Pastel則退出動畫的實質製作。2000年代以後，OB企劃承包A.C.G.T作品3DCG製作部分的業務。
 
 2009年6月為了防止駭客竄改公司的網頁內容，短暫關閉官方網站。2010年1月結束病毒清除作業，網站再度開放。
@@ -18,7 +18,7 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 ### 電視動畫
 
   - [美雪、美雪](../Page/美雪、美雪.md "wikilink")（動畫製作：[Kitty
-    film](../Page/Kitty_film.md "wikilink")，1983年－1984年）
+    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")，1983年－1984年）
 
   - [鄰家女孩](../Page/棒球英豪.md "wikilink")（動畫製作：，1985年－1987年）
 
@@ -36,7 +36,7 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 
   - [DEAR BOYS](../Page/灌籃少年.md "wikilink")（動畫製作：A.C.G.T，2003年）
 
-  - [人間交叉點](../Page/人間交叉點.md "wikilink")（動畫製作：A.C.G.T，2003年）
+  - [人間交叉點](https://zh.wikipedia.org/wiki/人間交叉點 "wikilink")（動畫製作：A.C.G.T，2003年）
 
   - [灣岸競速](../Page/灣岸競速.md "wikilink")（動畫製作：A.C.G.T，2007年－2008年）
 
@@ -57,16 +57,17 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 
 <!-- end list -->
 
-  - [rumic world系列](../Page/高橋留美子.md "wikilink")
+  - [rumic world系列](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")
 
-      - [火焰之旅](../Page/火焰之旅.md "wikilink")（與[Studio
+      - [火焰之旅](https://zh.wikipedia.org/wiki/火焰之旅 "wikilink")（與[Studio
         Pierrot共同製作](../Page/Studio_Pierrot.md "wikilink")，1985年）
 
       - （與Studio Pierrot共同製作，1985年）
 
-      - [微笑標的](../Page/微笑標的.md "wikilink")（與Studio Pierrot共同製作，1987年）
+      - [微笑標的](https://zh.wikipedia.org/wiki/微笑標的 "wikilink")（與Studio
+        Pierrot共同製作，1987年）
 
-      - [人魚之森](../Page/人魚之森.md "wikilink")（1991年）
+      - [人魚之森](https://zh.wikipedia.org/wiki/人魚之森 "wikilink")（1991年）
 
   - （動畫製作：GALLOP，1986年）
 
@@ -86,15 +87,16 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 
   - 隔壁的所先生（1990年）
 
-  - [好色一代男](../Page/好色一代男.md "wikilink")（動畫製作：STUDIO J·A·M·P，1990年）
+  - [好色一代男](https://zh.wikipedia.org/wiki/好色一代男 "wikilink")（動畫製作：STUDIO
+    J·A·M·P，1990年）
 
   - （1991年）
 
-  - [含羞草](../Page/含羞草_\(漫畫\).md "wikilink")（動畫製作：Pastel，1991年）
+  - [含羞草](https://zh.wikipedia.org/wiki/含羞草_\(漫畫\) "wikilink")（動畫製作：Pastel，1991年）
 
   - 月（1991年）
 
-  - [潮與虎](../Page/潮與虎#OVA.md "wikilink")（動畫製作：Pastel，1992年－1993年）
+  - [潮與虎](https://zh.wikipedia.org/wiki/潮與虎#OVA "wikilink")（動畫製作：Pastel，1992年－1993年）
 
   - （動畫製作：，1994年－1995年）
 
@@ -102,7 +104,7 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 
   - [聖堂教父](../Page/聖堂教父_\(漫畫\).md "wikilink")（動畫製作：Pastel，1995年）
 
-  - （動畫製作：[J.C.STAFF](../Page/J.C.STAFF.md "wikilink")、Studio
+  - （動畫製作：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")、Studio
     March，1997年）
 
 <!-- end list -->
@@ -133,8 +135,8 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 
 ## 相關項目
 
-  - [安達充](../Page/安達充.md "wikilink")
-  - [高橋留美子](../Page/高橋留美子.md "wikilink")
+  - [安達充](https://zh.wikipedia.org/wiki/安達充 "wikilink")
+  - [高橋留美子](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")
   - [Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
   - [GALLOP](../Page/GALLOP_\(動畫工作室\).md "wikilink")
   - [OLM](../Page/OLM.md "wikilink")（由OB企劃出身的製作人創立的動畫工作室）

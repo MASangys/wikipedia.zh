@@ -1,5 +1,5 @@
 **Max
-(漫画)**，是[漫威漫画专门制作限制级漫画的漫画书](../Page/漫威漫画.md "wikilink")。于2001年推出后，该漫画书的推出为漫威首次打破[漫画准则管理局的制度并建立了自己的评级系统](../Page/漫画准则管理局.md "wikilink")。\[1\]
+(漫画)**，是[漫威漫画专门制作限制级漫画的漫画书](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")。于2001年推出后，该漫画书的推出为漫威首次打破[漫画准则管理局的制度并建立了自己的评级系统](../Page/漫画准则管理局.md "wikilink")。\[1\]
 
 ## 旗下漫画
 
@@ -63,56 +63,71 @@
     at the Unofficial Handbook of Marvel Comics Creators
 3.  [Aguirre-Sacasa talks "Dead of Night featuring
     Man-Thing"](http://www.comicbookresources.com/?page=article&id=12531),
-    [Comic Book Resources](../Page/Comic_Book_Resources.md "wikilink"),
+    [Comic Book
+    Resources](https://zh.wikipedia.org/wiki/Comic_Book_Resources "wikilink"),
     February 13, 2008
 4.  Richards, Dave [WW Philly: Devil-Slayer Returns in "Dead of
     Night"](http://www.comicbookresources.com/?page=article&id=16622),
-    [Comic Book Resources](../Page/Comic_Book_Resources.md "wikilink"),
+    [Comic Book
+    Resources](https://zh.wikipedia.org/wiki/Comic_Book_Resources "wikilink"),
     May 31, 2008
 5.  [Warren Simons & Brian Keene On Max's
     Devil-Slayer](http://www.newsarama.com/comics/080602-maxs-devil-slayer.html),
-    [Newsarama](../Page/Newsarama.md "wikilink"), June 3, 2008
+    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    June 3, 2008
 6.  [Swierczynski on “Werewolf By
     Night"](http://www.comicbookresources.com/?page=article&id=19247),
-    [Comic Book Resources](../Page/Comic_Book_Resources.md "wikilink"),
+    [Comic Book
+    Resources](https://zh.wikipedia.org/wiki/Comic_Book_Resources "wikilink"),
     December 19, 2008
 7.  [NYCC: Kirkman Talks "Destroyer
     MAX"](http://www.comicbookresources.com/?page=article&id=16082),
-    [Comic Book Resources](../Page/Comic_Book_Resources.md "wikilink"),
+    [Comic Book
+    Resources](https://zh.wikipedia.org/wiki/Comic_Book_Resources "wikilink"),
     April 19, 2008
 8.  [NYCC '08: Robert Kirkman on Destroyer
     MAX](http://forum.newsarama.com/showthread.php?t=154261) ,
-    [Newsarama](../Page/Newsarama.md "wikilink"), April 19, 2008
+    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    April 19, 2008
 9.
 10. [MAX'ing Out The Future: Azel Alonso Talks Marvel
     MAX](http://forum.newsarama.com/showthread.php?t=120373) ,
-    [Newsarama](../Page/Newsarama.md "wikilink"), July 11, 2007
+    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    July 11, 2007
 11. [Gregg Hurwitz Talks
     Foolkiller](http://forum.newsarama.com/showthread.php?t=120557) ,
-    [Newsarama](../Page/Newsarama.md "wikilink"), July 13, 2007
+    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    July 13, 2007
 12.
 13. [Corben and Lovecraft at Marvel in
     June](http://forum.newsarama.com/showthread.php?t=150798) ,
-    [Newsarama](../Page/Newsarama.md "wikilink"), March 20, 2008
+    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    March 20, 2008
 14. [Shout at the Devil: Irvine talks "Son of
     Satan"](http://www.comicbookresources.com/?page=article&id=7208),
-    [Comic Book Resources](../Page/Comic_Book_Resources.md "wikilink"),
+    [Comic Book
+    Resources](https://zh.wikipedia.org/wiki/Comic_Book_Resources "wikilink"),
     June 2, 2006
 15. [WW Philadelphia - Axel Alonso on The Return of
     Hellstrom](http://classic.newsarama.com/WWPhilly06/Marvel/MondoMvl/Alonso_Hellstorm.html)
-    , [Newsarama](../Page/Newsarama.md "wikilink"), June 2, 2006
+    , [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    June 2, 2006
 16. [Heroes Con '09: Marvel's Starr the Slayer
     Returns](http://www.newsarama.com/comics/090620-heroes-starr-slayer.html),
-    [Newsarama](../Page/Newsarama.md "wikilink"), June 19, 2009
+    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    June 19, 2009
 17. [HeroesCon: Way & Corben Talk “Starr the
     Slayer"](http://www.comicbookresources.com/?page=article&id=21671),
-    [Comic Book Resources](../Page/Comic_Book_Resources.md "wikilink"),
+    [Comic Book
+    Resources](https://zh.wikipedia.org/wiki/Comic_Book_Resources "wikilink"),
     June 20, 2009
 18. [Nick Lowe on Marvel Max's *War is Hell*
     series](http://forum.newsarama.com/showthread.php?t=142228) ,
-    [Newsarama](../Page/Newsarama.md "wikilink"), January 7, 2008
+    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
+    January 7, 2008
 19. Laura Hudson, [Ennis Moves from Punisher to Phantom
     Eagle](http://www.publishersweekly.com/article/CA6533463.html),
-    *[Publishers Weekly](../Page/Publishers_Weekly.md "wikilink")*,
+    *[Publishers
+    Weekly](https://zh.wikipedia.org/wiki/Publishers_Weekly "wikilink")*,
     February 19, 2008.
 20.

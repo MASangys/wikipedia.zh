@@ -1,4 +1,4 @@
-**Mitha**是一位[日本女性](../Page/日本.md "wikilink")[插畫家](../Page/插畫家.md "wikilink")、[原畫師](../Page/原畫師.md "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")。
+**Mitha**是一位[日本女性](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[原畫師](https://zh.wikipedia.org/wiki/原畫師 "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")。
 
 ## 作品列表
 
@@ -9,7 +9,8 @@
   - [Giftにじいろストーリーズ](../Page/Gift.md "wikilink") (MOONSTONE)
   - [Clear -クリア-](../Page/Clear_\(遊戲\).md "wikilink") (MOONSTONE)
   - [Clearクリスタルストーリーズ](../Page/Clear_\(遊戲\).md "wikilink") (MOONSTONE)
-  - [マジスキ 〜Marginal Skip〜](../Page/マジスキ_〜Marginal_Skip〜.md "wikilink")
+  - [マジスキ 〜Marginal
+    Skip〜](https://zh.wikipedia.org/wiki/マジスキ_〜Marginal_Skip〜 "wikilink")
     (MOONSTONE)
   - 七ヶ音学園 (ルナSystem)
   - ユユカナ -under the Starlight-

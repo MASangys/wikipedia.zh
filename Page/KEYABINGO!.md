@@ -1,8 +1,8 @@
-《**KEYABINGO\!**》是日本女子偶像團體[櫸坂46冠名演出的深夜](../Page/櫸坂46.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[日本電視台製播](../Page/日本電視台.md "wikilink")，節目主持人由[搞笑藝人](../Page/搞笑藝人.md "wikilink")（）擔任。自2016年首次推出以來已播出4[季](../Page/季度.md "wikilink")。
+《**KEYABINGO\!**》是日本女子偶像團體[櫸坂46冠名演出的深夜](../Page/櫸坂46.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[日本電視台製播](../Page/日本電視台.md "wikilink")，節目主持人由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")（）擔任。自2016年首次推出以來已播出4[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
 
 ## 概要
 
-作為[乃木坂46坂道系列而結成的姊妹團體](../Page/乃木坂46.md "wikilink")[櫸坂46繼](../Page/櫸坂46.md "wikilink")[AKB48的](../Page/AKB48.md "wikilink")《[AKBINGO\!](../Page/AKBINGO!.md "wikilink")》及乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》之後，推出BINGO\!系列第三彈的節目。\[1\]《KEYABINGO\!》是以「誰能掌握綜藝，誰就掌握了整個演藝圈」為核心目標。\[2\]綜藝經驗甚少的櫸坂46成員們必須突破各式各樣的綜藝考驗\[3\]，成為有如AKB48及乃木坂46的國民偶像團體。\[4\]
+作為[乃木坂46坂道系列而結成的姊妹團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[櫸坂46繼](../Page/櫸坂46.md "wikilink")[AKB48的](../Page/AKB48.md "wikilink")《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》及乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》之後，推出BINGO\!系列第三彈的節目。\[1\]《KEYABINGO\!》是以「誰能掌握綜藝，誰就掌握了整個演藝圈」為核心目標。\[2\]綜藝經驗甚少的櫸坂46成員們必須突破各式各樣的綜藝考驗\[3\]，成為有如AKB48及乃木坂46的國民偶像團體。\[4\]
 
 ## KEYABINGO\!
 
@@ -13,7 +13,7 @@
   - 主持人
       - \[5\]
   - 櫸坂46
-      - 石森虹花、今泉佑唯、上村莉菜、尾關梨香、織田奈那、小池美波、[小林由依](../Page/小林由依.md "wikilink")、齋藤冬優花、佐藤詩織、志田愛佳、[菅井友香](../Page/菅井友香.md "wikilink")、鈴本美愉、長澤菜菜香、土生瑞穂、原田葵、[平手友梨奈](../Page/平手友梨奈.md "wikilink")、守屋茜、米谷奈奈未、渡邊梨加、渡邊理佐\[6\]
+      - 石森虹花、今泉佑唯、上村莉菜、尾關梨香、織田奈那、小池美波、[小林由依](https://zh.wikipedia.org/wiki/小林由依 "wikilink")、齋藤冬優花、佐藤詩織、志田愛佳、[菅井友香](https://zh.wikipedia.org/wiki/菅井友香 "wikilink")、鈴本美愉、長澤菜菜香、土生瑞穂、原田葵、[平手友梨奈](https://zh.wikipedia.org/wiki/平手友梨奈 "wikilink")、守屋茜、米谷奈奈未、渡邊梨加、渡邊理佐\[6\]
   - 平假名櫸坂46（）
       - 長濱禰留（）\[7\]
 
@@ -193,7 +193,7 @@
   - 主持人
       -
   - 櫸坂46
-      - 石森虹花、今泉佑唯、上村莉菜、尾關梨香、織田奈那、小池美波、[小林由依](../Page/小林由依.md "wikilink")、齋藤冬優花、佐藤詩織、志田愛佳、[菅井友香](../Page/菅井友香.md "wikilink")、鈴本美愉、長澤菜菜香、土生瑞穂、原田葵、[平手友梨奈](../Page/平手友梨奈.md "wikilink")、守屋茜、米谷奈奈未、渡邊梨加、渡邊理佐
+      - 石森虹花、今泉佑唯、上村莉菜、尾關梨香、織田奈那、小池美波、[小林由依](https://zh.wikipedia.org/wiki/小林由依 "wikilink")、齋藤冬優花、佐藤詩織、志田愛佳、[菅井友香](https://zh.wikipedia.org/wiki/菅井友香 "wikilink")、鈴本美愉、長澤菜菜香、土生瑞穂、原田葵、[平手友梨奈](https://zh.wikipedia.org/wiki/平手友梨奈 "wikilink")、守屋茜、米谷奈奈未、渡邊梨加、渡邊理佐
   - 平假名櫸坂46（）
       - 長濱禰留（）
 
@@ -315,7 +315,7 @@
 
 ## KEYABINGO\! 4
 
-KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](../Page/櫸坂46#平假名櫸坂46.md "wikilink")」單獨演出，因此該季另有副標題「平假名櫸是甚麼？」（）。
+KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](https://zh.wikipedia.org/wiki/櫸坂46#平假名櫸坂46 "wikilink")」單獨演出，因此該季另有副標題「平假名櫸是甚麼？」（）。
 
 ### 演出人員
 
@@ -323,7 +323,7 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](.
 
   - 主持人
       -
-  - [平假名櫸坂46](../Page/櫸坂46#平假名櫸坂46.md "wikilink")
+  - [平假名櫸坂46](https://zh.wikipedia.org/wiki/櫸坂46#平假名櫸坂46 "wikilink")
       - 平假名1期生 :
         井口眞緒、潮紗理菜、柿崎芽實、影山優佳、加藤史帆、齊藤京子、佐佐木久美、佐佐木美玲、高瀨愛奈、高本彩花、東村芽依
       - 平假名2期生 : 金村美玖、河田陽菜、、富田鈴花、丹生明里、濱岸日和、松田好花、宮田愛萌、渡邊美穗
@@ -465,7 +465,7 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](.
 
 ### 主題曲、插曲
 
-  - 櫸坂46《[打破玻璃！](../Page/打破玻璃！.md "wikilink")》
+  - 櫸坂46《[打破玻璃！](https://zh.wikipedia.org/wiki/打破玻璃！ "wikilink")》
 
 ## 參考資料
 
@@ -475,7 +475,7 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](.
 
 ## 內容連結
 
-  - [AKBINGO\!](../Page/AKBINGO!.md "wikilink")
+  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")
   - [NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")
 
 ## 外部連結
@@ -546,7 +546,7 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](.
 
 15.
 
-16. 由於當晚直播[里約奧運賽事](../Page/里約奧運.md "wikilink")，故停播一次。
+16. 由於當晚直播[里約奧運賽事](https://zh.wikipedia.org/wiki/里約奧運 "wikilink")，故停播一次。
 
 17.
 

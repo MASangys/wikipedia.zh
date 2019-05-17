@@ -1,10 +1,9 @@
 **Applesoft
 BASIC**是[BASIC程式語言的方言之一](../Page/BASIC.md "wikilink")，分支自[Microsoft
-BASIC](../Page/Microsoft_BASIC.md "wikilink")，由與開發，在[Apple
+BASIC](https://zh.wikipedia.org/wiki/Microsoft_BASIC "wikilink")，由與開發，在[Apple
 II系列電腦上運行](../Page/Apple_II.md "wikilink")。Applesoft
 BASIC的第一個版本在1977年釋出，它没有高解析度圖形的支援。Applesoft
-II在1978年推出，語法與第一代有些不同，但已支援Apple
-II的高解析度模式。
+II在1978年推出，語法與第一代有些不同，但已支援Apple II的高解析度模式。
 
 ## 外部链接
 

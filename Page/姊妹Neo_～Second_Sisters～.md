@@ -1,7 +1,7 @@
-是日本bootUP\!在2012年11月30日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，姊妹（あねいも）系列的第3部作品。2013年5月16日由N43
-Project發售[DVDPG版](../Page/DVDPG.md "wikilink")。\[3\]2013年11月29日發售《**姊妹Neo＋
+是日本bootUP\!在2012年11月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，姊妹（あねいも）系列的第3部作品。2013年5月16日由N43
+Project發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2013年11月29日發售《**姊妹Neo＋
 ～Second Sisters～**》（あねいも Neo＋ ～Second Sisters～）\[4\]，2014年6月26日同樣由N43
-Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[Fandisc](../Page/Fandisc.md "wikilink")，共有3作和合集《**もっともっと、日向家セット**》。\[6\]
+Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")，共有3作和合集《**もっともっと、日向家セット**》。\[6\]
 
 ## 故事
 
@@ -13,13 +13,14 @@ Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[F
 
   - 日向四郎
     本作男主角，八鐘學園2年級學生。舊名是古鷹四郎，7年前父母雙亡不在的時候，透過陸奥高富成為日向家的養子。目前在藤堂武道館學習護身術，實力僅次於高美。
-  - 日向舞（[CV](../Page/聲優.md "wikilink")：[遠野そよぎ](../Page/遠野そよぎ.md "wikilink")\[7\]）
+  - 日向舞（[CV](../Page/聲優.md "wikilink")：[遠野そよぎ](https://zh.wikipedia.org/wiki/遠野そよぎ "wikilink")\[7\]）
     身高：161cm　血型：A　三圍：B87（D）/W56/H91
     四郎的義姊，八鐘學園3年級學生。成績優秀喜歡游泳，過去是游泳部的部長和王牌選手，後來辭退部長職務並指定由葉月擔任部長。
   - 日向七菜（CV：木村あやか\[8\]）
     身高：154cm　血型：B　三圍：B92（F）/W62/H88
     四郎的義妹，八鐘學園1年級學生，文藝部的部員。很喜歡四郎並且經常向他撒嬌，因此無法接受四郎離開家而強烈反對。
-  - 日向櫻（日向 桜　CV：[一色ヒカル](../Page/一色ヒカル.md "wikilink")\[9\]）
+  - 日向櫻（日向
+    桜　CV：[一色ヒカル](https://zh.wikipedia.org/wiki/一色ヒカル "wikilink")\[9\]）
     身高：158cm　血型：O　三圍：B100（I）/W65/H91
     舞、七菜的母親，四郎的養母。丈夫在過去因為意外事故而去世後便成為家中唯一的經濟支柱，想讓孩子們能順利讀大學便決定增加自己的工作量。
   - 最上佐和子（CV：野神奈奈\[10\]）

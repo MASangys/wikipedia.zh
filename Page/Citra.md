@@ -11,7 +11,7 @@ Level Emulation），并于2016年9月15日开始附带JIT編譯器。
 
 ## 參見
 
-  - [游戏机模拟器列表](../Page/游戏机模拟器列表.md "wikilink")
+  - [游戏机模拟器列表](https://zh.wikipedia.org/wiki/游戏机模拟器列表 "wikilink")
 
 ## 参考文献
 

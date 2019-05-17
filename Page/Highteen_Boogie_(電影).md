@@ -1,22 +1,22 @@
 《**Highteen
-Boogie**》（）是日本的[青春片](../Page/青春片.md "wikilink")[電影](../Page/電影.md "wikilink")，於1982年由日本[東寶公司發行](../Page/東寶.md "wikilink")。
+Boogie**》（）是日本的[青春片](https://zh.wikipedia.org/wiki/青春片 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1982年由日本[東寶公司發行](../Page/東寶.md "wikilink")。
 
 ## 概要
 
-本片由[後藤幸夫和](../Page/後藤幸夫.md "wikilink")的同名小說改編，內容以一個[暴走族和一個女中學生的愛情故事為主軸](../Page/暴走族.md "wikilink")。
+本片由[後藤幸夫和](https://zh.wikipedia.org/wiki/後藤幸夫 "wikilink")[牧野和子的同名小說改編](../Page/牧野和子.md "wikilink")，內容以一個[暴走族和一個女中學生的愛情故事為主軸](../Page/暴走族.md "wikilink")。
 
 ## 製作
 
   - 導演：[舛田利雄](../Page/舛田利雄.md "wikilink")
   - 編劇：、舛田利雄
   - 音樂：[山下達郎](../Page/山下達郎.md "wikilink")、
-  - 主題曲：[近藤真彥](../Page/近藤真彥.md "wikilink")『ハイティーン・ブギ』 （Highteen Boogie）
-    『MOMOKO』 『カモン・ロッキンロード』 （Come on Rockin' Road）
+  - 主題曲：[近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")『ハイティーン・ブギ』
+    （Highteen Boogie） 『MOMOKO』 『カモン・ロッキンロード』 （Come on Rockin' Road）
   - 片長：130分鐘
 
 ## 演員
 
-  - [近藤真彥](../Page/近藤真彥.md "wikilink")：藤丸翔
+  - [近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")：藤丸翔
 
   - ：Sammy
 
@@ -30,7 +30,7 @@ Boogie**》（）是日本的[青春片](../Page/青春片.md "wikilink")[電影
 
   - ：藤丸博子
 
-  - [川井研一郎](../Page/川井研一郎.md "wikilink")：藤丸茂
+  - [川井研一郎](https://zh.wikipedia.org/wiki/川井研一郎 "wikilink")：藤丸茂
 
   - ：藤丸武
 

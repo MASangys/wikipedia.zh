@@ -3,7 +3,7 @@ Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](
 
 ## 位置
 
-香槟-阿登TGV站位于法国东北部，[伯扎讷市镇范围内](../Page/伯扎讷.md "wikilink")，距离[兰斯市区大约](../Page/兰斯.md "wikilink")7公里。车站大致呈东西走向，开口朝北。
+香槟-阿登TGV站位于法国东北部，[伯扎讷市镇范围内](https://zh.wikipedia.org/wiki/伯扎讷 "wikilink")，距离[兰斯市区大约](../Page/兰斯.md "wikilink")7公里。车站大致呈东西走向，开口朝北。
 
 香槟-阿登TGV站共设有3个站台，其中最北侧的一个可直接与站房连接，但很少使用；中部的那个是一个岛式站台，连接北侧的普速场和下行方向的高速铁路，由法国西部城市或巴黎前往兰斯方向以及由兰斯前往斯特拉斯堡方向的乘客可实现同台换乘；最南侧的一个为侧式站台，仅供上行方向的高铁列车停靠，可通过天桥连接，设有自动升降梯。
 
@@ -25,25 +25,25 @@ Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](
 <td style="text-align: center;"><p>目的地所在大区或国家</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/法兰西岛.md" title="wikilink">法兰西岛</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/法兰西岛" title="wikilink">法兰西岛</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/大东部大区.md" title="wikilink">大东部</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大东部大区" title="wikilink">大东部</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/新阿基坦大区.md" title="wikilink">新阿基坦</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/新阿基坦大区" title="wikilink">新阿基坦</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/布列塔尼.md" title="wikilink">布列塔尼</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/布列塔尼" title="wikilink">布列塔尼</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/中央-卢瓦尔河谷大区.md" title="wikilink">中央-卢瓦尔河谷</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/中央-卢瓦尔河谷大区" title="wikilink">中央-卢瓦尔河谷</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/上法兰西大区.md" title="wikilink">上法兰西</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/上法兰西大区" title="wikilink">上法兰西</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/卢瓦尔河地区.md" title="wikilink">卢瓦尔河地区</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/卢瓦尔河地区" title="wikilink">卢瓦尔河地区</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/比利时.md" title="wikilink">比利时</a></p></td>
@@ -70,7 +70,7 @@ Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](
 <td style="text-align: center;"><p>线路</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/梅斯城站.md" title="wikilink">梅斯</a>/<a href="../Page/卢森堡车站.md" title="wikilink">卢森堡</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/梅斯城站.md" title="wikilink">梅斯</a>/<a href="https://zh.wikipedia.org/wiki/卢森堡车站" title="wikilink">卢森堡</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/南锡城站.md" title="wikilink">南锡</a></p></td>
@@ -79,10 +79,10 @@ Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](
 <td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/巴勒迪克站.md" title="wikilink">巴勒迪克</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="../Page/里尔欧洲站.md" title="wikilink">里尔</a>—<a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>—<a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/戴高乐机场2号航站楼站.md" title="wikilink">戴高乐机场</a>—<a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戴高乐机场2号航站楼站" title="wikilink">戴高乐机场</a>—<a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/雷恩站.md" title="wikilink">雷恩</a>/<a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a></p></td>
@@ -97,10 +97,10 @@ Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](
 <td style="text-align: center;"><p><strong>香槟-阿登TGV站</strong>—<a href="../Page/兰斯站.md" title="wikilink">兰斯</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><strong>香槟-阿登TGV站</strong>—<a href="../Page/沙勒维尔-梅济耶尔站.md" title="wikilink">沙勒维尔-梅济耶尔</a>/<a href="../Page/色当站.md" title="wikilink">色当</a></p></td>
+<td style="text-align: center;"><p><strong>香槟-阿登TGV站</strong>—<a href="../Page/沙勒维尔-梅济耶尔站.md" title="wikilink">沙勒维尔-梅济耶尔</a>/<a href="https://zh.wikipedia.org/wiki/色当站" title="wikilink">色当</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><strong>香槟-阿登TGV站</strong>—<a href="../Page/香槟沙隆站.md" title="wikilink">香槟沙隆</a></p></td>
+<td style="text-align: center;"><p><strong>香槟-阿登TGV站</strong>—<a href="https://zh.wikipedia.org/wiki/香槟沙隆站" title="wikilink">香槟沙隆</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"></td>
@@ -134,9 +134,9 @@ TGV**"，停靠该站的公交线路包括兰斯有轨电车B线，以及兰斯�
 <td style="text-align: center;"><p>上行车站</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/戴高乐机场2号航站楼站.md" title="wikilink">戴高乐机场2号航站楼站</a>←（联络线）↖<br />
-<a href="../Page/巴黎东站.md" title="wikilink">巴黎东站</a>⇐……⇐<a href="../Page/瓦埃尔-托尔西站.md" title="wikilink">瓦埃尔-托尔西站</a>←（正线）←<br />
-<a href="../Page/马恩拉瓦莱-谢西站.md" title="wikilink">马恩拉瓦莱-谢西站</a>←（联络线）↙</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戴高乐机场2号航站楼站" title="wikilink">戴高乐机场2号航站楼站</a>←（联络线）↖<br />
+<a href="../Page/巴黎东站.md" title="wikilink">巴黎东站</a>⇐……⇐<a href="https://zh.wikipedia.org/wiki/瓦埃尔-托尔西站" title="wikilink">瓦埃尔-托尔西站</a>←（正线）←<br />
+<a href="https://zh.wikipedia.org/wiki/马恩拉瓦莱-谢西站" title="wikilink">马恩拉瓦莱-谢西站</a>←（联络线）↙</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>（起点）</p></td>
@@ -149,7 +149,7 @@ TGV**"，停靠该站的公交线路包括兰斯有轨电车B线，以及兰斯�
 
 ## 参见
 
-  - [法国铁路车站列表](../Page/法国铁路车站列表.md "wikilink")
+  - [法国铁路车站列表](https://zh.wikipedia.org/wiki/法国铁路车站列表 "wikilink")
 
 ## 参考文献
 

@@ -1,5 +1,5 @@
 是由著、擔任插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，最初在[TECH
-GIAN連載](../Page/TECH_GIAN.md "wikilink")，由enterbrain發售，全部7集。\[1\]Schwarzesmarken是[Muv-Luv](../Page/Muv-Luv.md "wikilink")（マブラヴ）系列的[衍生作品](../Page/衍生作品.md "wikilink")，除了輕小說外也有發售電腦遊戲\[2\]，2016年1月開始播放電視動畫。Schwarzes-{}-marken是[德語](../Page/德語.md "wikilink")，意思是「黑色标记」。日本又簡稱為「」或「柴犬（）」。\[3\]\[4\]
+GIAN連載](../Page/TECH_GIAN.md "wikilink")，由enterbrain發售，全部7集。\[1\]Schwarzesmarken是[Muv-Luv](../Page/Muv-Luv.md "wikilink")（マブラヴ）系列的[衍生作品](../Page/衍生作品.md "wikilink")，除了輕小說外也有發售電腦遊戲\[2\]，2016年1月開始播放電視動畫。Schwarzes-{}-marken是[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")，意思是「黑色标记」。日本又簡稱為「」或「柴犬（）」。\[3\]\[4\]
 
 ## 設定
 
@@ -8,7 +8,7 @@ WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西
 
 ## 故事
 
-1973年外星生物BETA入侵地球後，[明斯克巢穴的BETA自](../Page/明斯克.md "wikilink")1983年開始向歐洲入侵。由於1978年由歐洲聯軍所發動的巴萊奧羅格斯作戰失敗，隔年波蘭遭到淪陷後，[東德成為抵禦BETA的前線並且陷入困境](../Page/東德.md "wikilink")。[東德國家人民軍最強的](../Page/國家人民軍.md "wikilink")[陸軍第](../Page/國家人民軍陸軍_\(東德\).md "wikilink")666戰術機中隊「黒之宣告」（）的隊員提奧多爾和中隊長愛麗絲蒂娜在戰場上解救凱蒂亞之後開始展開的歐洲戰場故事。
+1973年外星生物BETA入侵地球後，[明斯克巢穴的BETA自](../Page/明斯克.md "wikilink")1983年開始向歐洲入侵。由於1978年由歐洲聯軍所發動的巴萊奧羅格斯作戰失敗，隔年波蘭遭到淪陷後，[東德成為抵禦BETA的前線並且陷入困境](../Page/東德.md "wikilink")。[東德國家人民軍最強的](https://zh.wikipedia.org/wiki/國家人民軍 "wikilink")[陸軍第](https://zh.wikipedia.org/wiki/國家人民軍陸軍_\(東德\) "wikilink")666戰術機中隊「黒之宣告」（）的隊員提奧多爾和中隊長愛麗絲蒂娜在戰場上解救凱蒂亞之後開始展開的歐洲戰場故事。
 
 ## 登場人物
 
@@ -35,7 +35,7 @@ WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西
 <!-- end list -->
 
   -
-    7月12日生。從[德國統一社會黨派遣到第](../Page/德國統一社會黨.md "wikilink")666戰術機中隊的中尉[政治委員](../Page/政治委員.md "wikilink")，戰鬥能力低於中隊平均水平，但政治能力優秀，東柏林被卷入武装政變後，和提奥多爾以及凯蒂亞一起参加叛军，十分重視提奧多爾等中隊的人員，加入叛軍時擔任中隊指挥官，在毀掉史塔西檔案差點命喪火海，最後在醫院裡休養。
+    7月12日生。從[德國統一社會黨派遣到第](https://zh.wikipedia.org/wiki/德國統一社會黨 "wikilink")666戰術機中隊的中尉[政治委員](../Page/政治委員.md "wikilink")，戰鬥能力低於中隊平均水平，但政治能力優秀，東柏林被卷入武装政變後，和提奥多爾以及凯蒂亞一起参加叛军，十分重視提奧多爾等中隊的人員，加入叛軍時擔任中隊指挥官，在毀掉史塔西檔案差點命喪火海，最後在醫院裡休養。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@ WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西
 <!-- end list -->
 
   -
-    11月22日生，年齡29歲。第666戰術機中隊的少尉，為安妮特的老同學，[地主階級](../Page/地主.md "wikilink")，在某次作戰中為了掩護狂亂的安妮特而陣亡。
+    11月22日生，年齡29歲。第666戰術機中隊的少尉，為安妮特的老同學，[地主階級](https://zh.wikipedia.org/wiki/地主 "wikilink")，在某次作戰中為了掩護狂亂的安妮特而陣亡。
 
 <!-- end list -->
 
@@ -94,21 +94,27 @@ WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西
 戰術機（英語:Tactical Surface
 Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行攻擊機」。BETA入侵之前的人類戰爭乃是以戰鬥機為中心而爭奪制空權的形式，但在具有強大地對空火力的BETA光線屬種出現之後，戰鬥機可說完全派不上用場了。因此人類在1974年開發出與BETA戰鬥用的巨大人型兵器「戰術機」。
 
-  - [MiG-21三弦琴](../Page/MiG-21.md "wikilink")（MiG-21 バラライカ）
-    [蘇聯](../Page/蘇聯.md "wikilink")[米高揚－古列維奇設計局將F](../Page/俄羅斯米格航空器集團.md "wikilink")-4R修改而來的第1世代戰術機，東德軍的主力戰術機。
+  - [MiG-21三弦琴](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")（MiG-21
+    バラライカ）
+    [蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[米高揚－古列維奇設計局將F](../Page/俄羅斯米格航空器集團.md "wikilink")-4R修改而來的第1世代戰術機，東德軍的主力戰術機。
   - MiG-21PF三弦琴（MiG-21PF バラライカ）
     米高揚－古列維奇設計局在東德軍協助下開發出來的第1世代戰術機。
-  - [MiG-23大耳猴](../Page/MiG-23.md "wikilink")（MiG-23 チボラシュカ）
+  - [MiG-23大耳猴](https://zh.wikipedia.org/wiki/MiG-23 "wikilink")（MiG-23
+    チボラシュカ）
     針對提升MiG-21的機動格鬥戰能力而開發出來的準第二世代戰術機，由武裝警察軍使用。
   - MiG-23大耳猴改（チボラシュカ改）
     從MiG-23修改而來的戰術機。
-  - [MiG-27短吻鱷](../Page/米格-27.md "wikilink")（MiG-27 アリゲートル）
+  - [MiG-27短吻鱷](https://zh.wikipedia.org/wiki/米格-27 "wikilink")（MiG-27
+    アリゲートル）
     由武裝警察軍使用的戰術機，由蘇聯提供。
-  - [F-14雄貓](../Page/F-14.md "wikilink")（F-14 トムキャット）
+  - [F-14雄貓](https://zh.wikipedia.org/wiki/F-14 "wikilink")（F-14
+    トムキャット）
     [美國海軍所使用的第](../Page/美國海軍.md "wikilink")2世代戰術機。
-  - [A-10雷霆二式](../Page/A-10.md "wikilink")（A-10 サンダーボルトⅡ）
+  - [A-10雷霆二式](https://zh.wikipedia.org/wiki/A-10 "wikilink")（A-10
+    サンダーボルトⅡ）
     由美國開發的突擊戰術機。
-  - [F-5自由鬥士](../Page/F-5.md "wikilink")（F-5 フリーダムファイター）
+  - [F-5自由鬥士](https://zh.wikipedia.org/wiki/F-5 "wikilink")（F-5
+    フリーダムファイター）
     由美國開發的戰術機，為填補戰術機配備缺額所開發的低成本戰術機。
   - F-5G/E/I 龍捲風（F-5G/E/I トーネード）
     由西德、英國、義大利共同出資成立帕拉維亞企業（パラヴィア・インダストリアル）所開發出來的第1世代戰術機。
@@ -216,7 +222,7 @@ Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行
 
   - 原作：吉宗鋼紀（ixtl/âge）\[10\]
   - 原作劇本：內田弘樹（[Fami通文庫](../Page/Fami通文庫.md "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")
-    [enterbrain刊](../Page/enterbrain.md "wikilink")）
+    [enterbrain刊](https://zh.wikipedia.org/wiki/enterbrain "wikilink")）
   - 角色原案：CARNELIAN
   - 監督：渡邊哲哉
   - 系列構成：樋口達人
@@ -242,8 +248,8 @@ Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行
 ### 主題曲
 
   - 片頭曲「[white
-    forces](../Page/white_forces.md "wikilink")」\[11\]（第2－12話）
-    作詞、作曲、編曲：[八木沼悟志](../Page/八木沼悟志.md "wikilink")，主唱：[fripSide](../Page/fripSide.md "wikilink")
+    forces](https://zh.wikipedia.org/wiki/white_forces "wikilink")」\[11\]（第2－12話）
+    作詞、作曲、編曲：[八木沼悟志](../Page/八木沼悟志.md "wikilink")，主唱：[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
     第1話未使用
 
 <!-- end list -->
@@ -400,14 +406,14 @@ Sung-hui Han</p></td>
 
 ### 播放電視台
 
-| 播放地區                                           | 播放電視台                                | 播放日期              | 播放時間                               | 所屬聯播網                                |
-| ---------------------------------------------- | ------------------------------------ | ----------------- | ---------------------------------- | ------------------------------------ |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink")           | [東京電視台](../Page/東京電視台.md "wikilink") | 2016年1月10日－3月27日  | 星期日 25時05分－25時35分                  | [東京電視網](../Page/東京電視網.md "wikilink") |
-| [大阪府](../Page/大阪府.md "wikilink")               | [大阪電視台](../Page/大阪電視台.md "wikilink") | 2016年1月12日－3月29日  | 星期二 25時35分－26時05分                  |                                      |
-| [愛知縣](../Page/愛知縣.md "wikilink")               | [愛知電視台](../Page/愛知電視台.md "wikilink") | 2016年1月14日－3月31日  | 星期四 26時05分－26時35分                  |                                      |
-| 日本全國                                           | [AT-X](../Page/AT-X.md "wikilink")   | 星期五 23時30分－24時00分 | [衛星電視](../Page/衛星電視.md "wikilink") |                                      |
-| [NICONICO直播](../Page/NICONICO直播.md "wikilink") | 2016年1月15日－4月1日                      | 星期五 24時30分－25時00分 | [網絡電視](../Page/網絡電視.md "wikilink") |                                      |
-| [NICONICO頻道](../Page/NICONICO頻道.md "wikilink") | 星期五 25時00分 更新                        |                   |                                    |                                      |
+| 播放地區                                                              | 播放電視台                                | 播放日期              | 播放時間                                                  | 所屬聯播網                                |
+| ----------------------------------------------------------------- | ------------------------------------ | ----------------- | ----------------------------------------------------- | ------------------------------------ |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")           | [東京電視台](../Page/東京電視台.md "wikilink") | 2016年1月10日－3月27日  | 星期日 25時05分－25時35分                                     | [東京電視網](../Page/東京電視網.md "wikilink") |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")               | [大阪電視台](../Page/大阪電視台.md "wikilink") | 2016年1月12日－3月29日  | 星期二 25時35分－26時05分                                     |                                      |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                  | [愛知電視台](../Page/愛知電視台.md "wikilink") | 2016年1月14日－3月31日  | 星期四 26時05分－26時35分                                     |                                      |
+| 日本全國                                                              | [AT-X](../Page/AT-X.md "wikilink")   | 星期五 23時30分－24時00分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") |                                      |
+| [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO直播 "wikilink") | 2016年1月15日－4月1日                      | 星期五 24時30分－25時00分 | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |                                      |
+| [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink") | 星期五 25時00分 更新                        |                   |                                                       |                                      |
 
 ## 遊戲
 
@@ -523,7 +529,7 @@ Schwarzesmarken**》（ラジオ
 
   -
 [en:List of Schwarzesmarken
-episodes](../Page/en:List_of_Schwarzesmarken_episodes.md "wikilink")
+episodes](https://zh.wikipedia.org/wiki/en:List_of_Schwarzesmarken_episodes "wikilink")
 
 [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink")
 [Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
@@ -560,7 +566,8 @@ episodes](../Page/en:List_of_Schwarzesmarken_episodes.md "wikilink")
 8.
 9.  [Schwarzesmarken
     (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17670)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 
 10. [シュヴァルツェスマーケン(2016)](http://www.allcinema.net/prog/show_c.php?num_c=354178)allcinema
 
@@ -569,7 +576,7 @@ episodes](../Page/en:List_of_Schwarzesmarken_episodes.md "wikilink")
 12. [科幻輕小說改編動畫《Schwarzesmarken》第2彈宣傳影片發表，片尾曲『哀しみが時代を駆ける』於片中搶先提供試聽！](http://www.animen.com.tw/NewsArea/NewsItemDetail?NewsId=14495&categoryId=800&realCategoryId=1&subCategoryId=5)Animen
 
 13. [シュヴァルツェスマーケン
-    紅血の紋章](http://www.4gamer.net/games/318/G031880/)[4Gamer.net](../Page/4Gamer.net.md "wikilink")
+    紅血の紋章](http://www.4gamer.net/games/318/G031880/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 
 14. [シュヴァルツェスマーケン
     殉教者たち](http://www.getchu.com/soft.phtml?id=853838)Getchu.com

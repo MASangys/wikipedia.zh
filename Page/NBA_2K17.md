@@ -1,14 +1,14 @@
 《**NBA
-2K17**》是一款[籃球](../Page/籃球.md "wikilink")[電子遊戲](../Page/電子遊戲.md "wikilink")，由[Visual
+2K17**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[Visual
 Concepts開發](../Page/Visual_Concepts.md "wikilink")，[2K
 Sports發行](../Page/2K_Sports.md "wikilink")。《NBA 2K17》是《NBA
-2K16》的續作。遊戲於2016年9月20日在[Windows](../Page/Microsoft_Windows.md "wikilink")、[PlayStation
+2K16》的續作。遊戲於2016年9月20日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 4](../Page/PlayStation_4.md "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 One和](../Page/Xbox_One.md "wikilink")[Xbox
 360平台上推出](../Page/Xbox_360.md "wikilink")。
 
-在2016年4月13日，2K宣布[柯比·布萊恩將登上](../Page/柯比·布萊恩.md "wikilink")《NBA
+在2016年4月13日，2K宣布[柯比·布萊恩將登上](https://zh.wikipedia.org/wiki/柯比·布萊恩 "wikilink")《NBA
 2K17》「傳奇珍藏版」封面\[1\]，而標準版的封面人物為 Paul George。
 
 本作的MyCAREER模式由麥可·B·喬丹參與演出(飾演Justice Young)。

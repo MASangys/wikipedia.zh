@@ -2,27 +2,38 @@
 
 ## 游戏
 
-  - *[Undertow](../Page/Undertow_\(video_game\).md "wikilink")* (2007)
-  - *[Shadow Complex](../Page/Shadow_Complex.md "wikilink")* (2009)
-  - *[Infinity Blade](../Page/Infinity_Blade.md "wikilink")* (2010)
-  - *[Infinity Blade II](../Page/Infinity_Blade_II.md "wikilink")*
+  - *[Undertow](https://zh.wikipedia.org/wiki/Undertow_\(video_game\) "wikilink")*
+    (2007)
+  - *[Shadow
+    Complex](https://zh.wikipedia.org/wiki/Shadow_Complex "wikilink")*
+    (2009)
+  - *[Infinity
+    Blade](https://zh.wikipedia.org/wiki/Infinity_Blade "wikilink")*
+    (2010)
+  - *[Infinity Blade
+    II](https://zh.wikipedia.org/wiki/Infinity_Blade_II "wikilink")*
     (2011)
-  - *[Vote\!\!\! The Game](../Page/Vote!!!_The_Game.md "wikilink")*
+  - *[Vote\!\!\! The
+    Game](https://zh.wikipedia.org/wiki/Vote!!!_The_Game "wikilink")*
     (2012)
-  - *[Infinity Blade III](../Page/Infinity_Blade_III.md "wikilink")*
+  - *[Infinity Blade
+    III](https://zh.wikipedia.org/wiki/Infinity_Blade_III "wikilink")*
     (2013)
-  - *[Spyjinx](../Page/Spyjinx.md "wikilink")* (2016)
+  - *[Spyjinx](https://zh.wikipedia.org/wiki/Spyjinx "wikilink")* (2016)
 
 ## 书籍
 
-  - *[The Empire Duet](../Page/The_Empire_Duet.md "wikilink")*
-      - *[Empire](../Page/Empire_\(2006_novel\).md "wikilink")*
-      - *[Hidden Empire](../Page/Hidden_Empire.md "wikilink")*
-  - *[Infinity Blade](../Page/Infinity_Blade.md "wikilink")*
+  - *[The Empire
+    Duet](https://zh.wikipedia.org/wiki/The_Empire_Duet "wikilink")*
+      - *[Empire](https://zh.wikipedia.org/wiki/Empire_\(2006_novel\) "wikilink")*
+      - *[Hidden
+        Empire](https://zh.wikipedia.org/wiki/Hidden_Empire "wikilink")*
+  - *[Infinity
+    Blade](https://zh.wikipedia.org/wiki/Infinity_Blade "wikilink")*
       - *[Infinity Blade:
-        Awakening](../Page/Infinity_Blade:_Awakening.md "wikilink")*
+        Awakening](https://zh.wikipedia.org/wiki/Infinity_Blade:_Awakening "wikilink")*
       - *[Infinity Blade:
-        Redemption](../Page/Infinity_Blade:_Redemption.md "wikilink")*
+        Redemption](https://zh.wikipedia.org/wiki/Infinity_Blade:_Redemption "wikilink")*
 
 ## 参考资料
 

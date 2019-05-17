@@ -1,6 +1,6 @@
 是著作，插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，由[GA文庫自](../Page/GA文庫.md "wikilink")2012年11月出版發行，並於2018年10月11日出售最終卷正式完結。
 
-2015年5月發表電視動畫化消息，為『GA文庫10週年紀念企劃』第五個動畫化作品\[1\]，2015年12月宣布將於2016年4月播放\[2\]。台灣由[木棉花公司取得代理權](../Page/木棉花.md "wikilink")，並由巴哈姆特動畫瘋、LiTV線上影視等網路電視平台於2016年4月份同步放送\[3\]。
+2015年5月發表電視動畫化消息，為『GA文庫10週年紀念企劃』第五個動畫化作品\[1\]，2015年12月宣布將於2016年4月播放\[2\]。台灣由[木棉花公司取得代理權](https://zh.wikipedia.org/wiki/木棉花 "wikilink")，並由巴哈姆特動畫瘋、LiTV線上影視等網路電視平台於2016年4月份同步放送\[3\]。
 
 ## 故事簡介
 
@@ -17,7 +17,7 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
     由于想要妹妹接受最好的治疗和希望设施里的同伴们过上更好的生活，并且想要查明一直出现在梦里的少女（艾米莉亚）的真身而入学Little
     Garden，擁有歷代一位HUNDRED反應數値的新生。HUNDRED的名字為『飛燕』。
     由於是「變異者」，一旦在面對強烈危機時病毒就會活化，造成失控。雖然變得更加強力，但是屬於無意識下的狀態，如果極度失控就很危險，所以現在仍然努力的控制病毒。
-    喜歡艾米莉亞，但也被克蕾雅、櫻所喜歡，但是本人似乎沒有發覺後兩人的心意，因此使得艾米莉亞、櫻和克蕾雅之間產生了修羅場（本人完全不知道），只要稍微接近其中一個而另一個在附近看見時，就會衝進去加以阻礙，並且[吃醋](../Page/吃醋.md "wikilink")。
+    喜歡艾米莉亞，但也被克蕾雅、櫻所喜歡，但是本人似乎沒有發覺後兩人的心意，因此使得艾米莉亞、櫻和克蕾雅之間產生了修羅場（本人完全不知道），只要稍微接近其中一個而另一個在附近看見時，就會衝進去加以阻礙，並且[吃醋](https://zh.wikipedia.org/wiki/吃醋 "wikilink")。
     目前已能稍微控制蠻族病毒的活化，但如果真的發覺危險時還是會接近失控的無差別攻擊。
     結局與艾米莉亞結婚，並有一子一女。
 
@@ -34,14 +34,14 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 <!-- end list -->
 
   - <span id="克蕾亞·哈維"></span>
-    本作女主角之一，武藝科三年級生，[爆乳](../Page/爆乳.md "wikilink")、髮型為，喜歡隼人，具有作品中最頂級豐滿的體格。Little
+    本作女主角之一，武藝科三年級生，[爆乳](https://zh.wikipedia.org/wiki/爆乳 "wikilink")、髮型為，喜歡隼人，具有作品中最頂級豐滿的體格。Little
     Garden的艦長也是學生會長和民间军事企业瓦鲁斯兰公司的千金，社长君达尔·哈维的妹妹。
     非常的有责任心的大小姐。口头禅为「Noblesse
     obilge（贵族义务）」对待武艺科的学生非常的严厉，但也是由于出于对他们人身安全的担心。HUNDRED的名字為『高貴之戰姬』。
     綽號是「女王」(The Queen)，因為她的初登場就有如女王般之君臨天下的氣勢與姿態，且不容他人悖逆她。
     對於敢忤逆她的隼人提出決鬥，一開始還很輕蔑的看待，甚至對於隼人推倒甚至碰觸及胸部她也不在意（事後非常在意）。直到隼人開始暴走之後才完全認真起來，與後者勉為其難的打成平手。此後開始在乎隼人的存在，並且對於隼人的態度出現傲嬌。
     對於隼人的態度轉變後，很是介意隼人與其他女生一塊活動（尤其是艾米莉亞和櫻），且還會「吃醋」。
-    由於被隼人意外拿走第一次，包括被男性推倒、被襲胸、被[公主抱](../Page/公主抱.md "wikilink")（[新娘抱](../Page/新娘抱.md "wikilink")）、奪走[初吻](../Page/初吻.md "wikilink")、被看見她的[裸體](../Page/裸體.md "wikilink")……（全部都是意外），因此愈來愈在乎隼人，甚至與艾米莉亞和櫻彼此互相「吃醋」，互看對方不順眼。
+    由於被隼人意外拿走第一次，包括被男性推倒、被襲胸、被[公主抱](https://zh.wikipedia.org/wiki/公主抱 "wikilink")（[新娘抱](https://zh.wikipedia.org/wiki/新娘抱 "wikilink")）、奪走[初吻](https://zh.wikipedia.org/wiki/初吻 "wikilink")、被看見她的[裸體](https://zh.wikipedia.org/wiki/裸體 "wikilink")……（全部都是意外），因此愈來愈在乎隼人，甚至與艾米莉亞和櫻彼此互相「吃醋」，互看對方不順眼。
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 ### Little Garden學生會
 
   -
-    詳情請見主要人物「[克蕾亞·哈維](../Page/#克蕾亞·哈維.md "wikilink")」。
+    詳情請見主要人物「[克蕾亞·哈維](https://zh.wikipedia.org/wiki/#克蕾亞·哈維 "wikilink")」。
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 <!-- end list -->
 
   -
-    原瓦爾斯蘭公司的技术主任。擅自进行人工變異者的[非法](../Page/非法.md "wikilink")[人體試驗](../Page/人體試驗.md "wikilink")，被发现后被从瓦爾斯蘭本公司左迁到故乡拉斯亚继续进行研究。在那里为了向瓦爾斯蘭公司和Little
+    原瓦爾斯蘭公司的技术主任。擅自进行人工變異者的[非法](https://zh.wikipedia.org/wiki/非法 "wikilink")[人體試驗](https://zh.wikipedia.org/wiki/人體試驗 "wikilink")，被发现后被从瓦爾斯蘭本公司左迁到故乡拉斯亚继续进行研究。在那里为了向瓦爾斯蘭公司和Little
     Garden复仇而开发了人工『蠻族』（Savage）。
     在Little
     Garden地下室试图射击LiZA（丽莎·哈维）未果被君达尔·哈维反过来开枪射杀，並于在他的怀中长眠。後來大腦被君達爾取出來連接到電腦上。
@@ -157,7 +157,7 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 ### 不列顛尼亞聯邦
 
   -
-    不列顛尼亞聯軍兼古登柏格王國軍的軍人與武藝者。具有古登柏格王族的血統，和艾米莉亞從小就感情很好，對於艾米莉亞的感情趨近於[百合的程度](../Page/百合_\(文化\).md "wikilink")。
+    不列顛尼亞聯軍兼古登柏格王國軍的軍人與武藝者。具有古登柏格王族的血統，和艾米莉亞從小就感情很好，對於艾米莉亞的感情趨近於[百合的程度](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")。
 
 ### 其他
 
@@ -231,9 +231,9 @@ Garden」的夥伴與「Savage」的戰鬥就此開始。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -362,18 +362,19 @@ ISBN 978-4-7973-8717-9（限定特裝版）</p></td>
 
   - 原作：（[GA文庫](../Page/GA文庫.md "wikilink")/SB Creative刊）
   - 角色原案：（[Nitro+](../Page/Nitro+.md "wikilink")）
-  - 監督：[小林智樹](../Page/小林智樹.md "wikilink")
+  - 監督：[小林智樹](https://zh.wikipedia.org/wiki/小林智樹 "wikilink")
   - 系列構成：[白根秀樹](../Page/白根秀樹.md "wikilink")
   - 角色設計：田中紀衣
   - 音樂製作：DIVE II entertainment
   - 音樂：
-  - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
+  - 動畫製作：[Production
+    IMS](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")
   - 製作：HUNDRED百武裝戰記製作委員會
 
 ### 主題曲
 
   - 片頭曲「BLOODRED」
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲、編曲：，主唱：D-selections（、[澀谷梓希](../Page/澀谷梓希.md "wikilink")、[若井友希](../Page/若井友希.md "wikilink")、[青山吉能](../Page/青山吉能.md "wikilink")、[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲、編曲：，主唱：D-selections（、[澀谷梓希](https://zh.wikipedia.org/wiki/澀谷梓希 "wikilink")、[若井友希](https://zh.wikipedia.org/wiki/若井友希 "wikilink")、[青山吉能](../Page/青山吉能.md "wikilink")、[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
 
 <!-- end list -->
 
@@ -459,7 +460,7 @@ ISBN 978-4-7973-8717-9（限定特裝版）</p></td>
 <td></td>
 <td><p>Little Garden</p></td>
 <td><p><a href="../Page/白根秀樹.md" title="wikilink">白根秀樹</a></p></td>
-<td><p><a href="../Page/小林智樹.md" title="wikilink">小林智樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小林智樹" title="wikilink">小林智樹</a></p></td>
 <td><p>下司泰弘</p></td>
 <td><p>小關雅、安田祥子</p></td>
 </tr>
@@ -528,7 +529,7 @@ han sung hui</p></td>
 <td><p>湖畔的夜晚</p></td>
 <td><p>白根秀樹</p></td>
 <td><p>島津裕行</p></td>
-<td><p><a href="../Page/前園文夫.md" title="wikilink">前園文夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前園文夫" title="wikilink">前園文夫</a></p></td>
 <td><p>片山敬介、飯田清貴</p></td>
 </tr>
 <tr class="odd">

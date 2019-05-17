@@ -1,4 +1,4 @@
-《**杀破狼II**》（）中国大陆和香港联合制作的[动作片](../Page/动作片.md "wikilink")，[郑保瑞导演](../Page/郑保瑞.md "wikilink")，[李忠志动作指导](../Page/李忠志.md "wikilink")，并由[東尼嘉](../Page/東尼嘉.md "wikilink")、[吴京](../Page/吳京_\(演員\).md "wikilink")、[任达华及](../Page/任达华.md "wikilink")[张晋领衔主演](../Page/张晋.md "wikilink")；[卢惠光](../Page/卢惠光.md "wikilink")、[恭碩良](../Page/恭碩良.md "wikilink")、[林嘉华及](../Page/林嘉华.md "wikilink")[蔡瀚亿主演](../Page/蔡瀚亿.md "wikilink")；[古天乐特別演出](../Page/古天乐.md "wikilink")。\[1\]\[2\]中国大陸、香港、台灣于2015年6月18日上映。此片與前作一樣，都获得了[香港电影金像奖最佳动作设计奖](../Page/香港电影金像奖.md "wikilink")。
+《**杀破狼II**》（）中国大陆和香港联合制作的[动作片](https://zh.wikipedia.org/wiki/动作片 "wikilink")，[郑保瑞导演](../Page/郑保瑞.md "wikilink")，[李忠志动作指导](../Page/李忠志.md "wikilink")，并由[東尼嘉](https://zh.wikipedia.org/wiki/東尼嘉 "wikilink")、[吴京](../Page/吳京_\(演員\).md "wikilink")、[任达华及](https://zh.wikipedia.org/wiki/任达华 "wikilink")[张晋领衔主演](https://zh.wikipedia.org/wiki/张晋 "wikilink")；[卢惠光](https://zh.wikipedia.org/wiki/卢惠光 "wikilink")、[恭碩良](../Page/恭碩良.md "wikilink")、[林嘉华及](https://zh.wikipedia.org/wiki/林嘉华 "wikilink")[蔡瀚亿主演](https://zh.wikipedia.org/wiki/蔡瀚亿 "wikilink")；[古天乐特別演出](https://zh.wikipedia.org/wiki/古天乐 "wikilink")。\[1\]\[2\]中国大陸、香港、台灣于2015年6月18日上映。此片與前作一樣，都获得了[香港电影金像奖最佳动作设计奖](https://zh.wikipedia.org/wiki/香港电影金像奖 "wikilink")。
 
 ## 剧情
 
@@ -44,7 +44,7 @@
 <td><p>备注</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/東尼嘉.md" title="wikilink">東尼嘉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東尼嘉" title="wikilink">東尼嘉</a></p></td>
 <td><p>阿　猜</p></td>
 <td><p><a href="../Page/泰国.md" title="wikilink">泰国北孔普雷监狱獄警</a><br />
 黃光之好友<br />
@@ -60,14 +60,14 @@
 高晉、洪文剛之天敵</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/任达华.md" title="wikilink">任达华</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/任达华" title="wikilink">任达华</a></p></td>
 <td><p>陳國華</p></td>
 <td><p>西九龍重案組高級督察<br />
 陳志杰之叔父<br />
 高晉、洪文剛之天敵</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/张晋.md" title="wikilink">張　晉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/张晋" title="wikilink">張　晉</a></p></td>
 <td><p>高　晉</p></td>
 <td><p><a href="../Page/泰国.md" title="wikilink">泰国北孔普雷监狱獄長</a><br />
 泰國華僑<br />
@@ -77,7 +77,7 @@
 最後和陳志傑雙雙摔出大樓時被陳志傑扯住領帶窒息而死。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/古天乐.md" title="wikilink">古天乐</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/古天乐" title="wikilink">古天乐</a><br />
 （特別演出）</p></td>
 <td><p>洪文剛（洪爺）</p></td>
 <td><p>玩具貿易商人，實為拐人販賣內藏器官集團主腦<br />
@@ -86,7 +86,7 @@
 於結尾死亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卢惠光.md" title="wikilink">卢惠光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卢惠光" title="wikilink">卢惠光</a></p></td>
 <td><p>黃　光</p></td>
 <td><p>獄警<br />
 泰國華僑<br />
@@ -102,14 +102,14 @@
 方詠琴之夫</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林嘉华.md" title="wikilink">林嘉华</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林嘉华" title="wikilink">林嘉华</a></p></td>
 <td><p>張振東</p></td>
 <td><p>西九龍重案組高級警司<br />
 陳國華之上司<br />
 後被亞囝殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡瀚亿.md" title="wikilink">蔡瀚亿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡瀚亿" title="wikilink">蔡瀚亿</a></p></td>
 <td><p>郭俊一</p></td>
 <td><p>西九龍重案組高級警員<br />
 陳國華之下屬<br />
@@ -123,7 +123,7 @@
 後被亞囝殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Unda_Kunteera_Yhordchanng.md" title="wikilink">Unda Kunteera Yhordchanng</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Unda_Kunteera_Yhordchanng" title="wikilink">Unda Kunteera Yhordchanng</a></p></td>
 <td><p>莎</p></td>
 <td><p>阿猜之女<br />
 患有白血病，於結尾痊癒</p></td>
@@ -141,17 +141,17 @@
 <td><p>物流公司老闆，實為全東南亞最大走私生意龍頭之一，後被殺害。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭懷安.md" title="wikilink">彭懷安</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a></p></td>
 <td></td>
 <td><p>洪文剛之手下，後被殺害。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何樂軒.md" title="wikilink">何樂軒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何樂軒" title="wikilink">何樂軒</a></p></td>
 <td></td>
 <td><p>旅客</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張_馳.md" title="wikilink">張　馳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張_馳" title="wikilink">張　馳</a></p></td>
 <td><p>亞　囝</p></td>
 <td><p>洪文剛之手下<br />
 最後被陳志傑弄斷左腿後死亡</p></td>
@@ -182,13 +182,13 @@
 盧惠光擔任策劃顧問。
 
 该片泰国功夫明星[Tony
-Jaa加盟](../Page/Tony_Jaa.md "wikilink")，他曾出演《[拳霸](../Page/拳霸.md "wikilink")》。\[3\]
+Jaa加盟](https://zh.wikipedia.org/wiki/Tony_Jaa "wikilink")，他曾出演《[拳霸](../Page/拳霸.md "wikilink")》。\[3\]
 
 ## 上映
 
-《[杀破狼](../Page/杀破狼.md "wikilink")》因暴力元素曾无缘中国大陆电影市场。
+《[杀破狼](https://zh.wikipedia.org/wiki/杀破狼 "wikilink")》因暴力元素曾无缘中国大陆电影市场。
 
-《杀破狼II》于2015年6月18日在[中国大陆](../Page/中国大陆.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣上映](../Page/台灣.md "wikilink")，6月25日在[马来西亚](../Page/马来西亚.md "wikilink")、[汶莱上映](../Page/汶莱.md "wikilink")，7月2日在[新加坡上映](../Page/新加坡.md "wikilink")。
+《杀破狼II》于2015年6月18日在[中国大陆](../Page/中国大陆.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")，6月25日在[马来西亚](../Page/马来西亚.md "wikilink")、[汶莱上映](https://zh.wikipedia.org/wiki/汶莱 "wikilink")，7月2日在[新加坡上映](../Page/新加坡.md "wikilink")。
 
 ## 评价
 
@@ -199,7 +199,7 @@ Consequences」，更能表達出整個故事的感覺，因為整套電影，�
 
 ## 票房
 
-中国大陆首周四天收获2.64亿人民币，次于《[侏罗纪世界](../Page/侏罗纪世界.md "wikilink")》列第二位，第二周入账1.98亿蝉联亚军\[8\]，第三周收7500万列第四位，第四周入账2300万列第八位，累计5.6亿\[9\]。
+中国大陆首周四天收获2.64亿人民币，次于《[侏罗纪世界](https://zh.wikipedia.org/wiki/侏罗纪世界 "wikilink")》列第二位，第二周入账1.98亿蝉联亚军\[8\]，第三周收7500万列第四位，第四周入账2300万列第八位，累计5.6亿\[9\]。
 
 ## 奖项
 
@@ -216,14 +216,14 @@ Consequences」，更能表達出整個故事的感覺，因為整套電影，�
 <tbody>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p>第22屆<a href="../Page/香港电影评论学会大奖.md" title="wikilink">香港电影评论学会大奖</a></p></td>
+<td><p>第22屆<a href="https://zh.wikipedia.org/wiki/香港电影评论学会大奖" title="wikilink">香港电影评论学会大奖</a></p></td>
 <td><p>推荐电影</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p><a href="../Page/第52届金马奖.md" title="wikilink">第52届金马奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第52届金马奖" title="wikilink">第52届金马奖</a></p></td>
 <td><p>最佳動作設計</p></td>
 <td><p><a href="../Page/李忠志.md" title="wikilink">李忠志</a></p></td>
 <td></td>
@@ -237,7 +237,7 @@ Consequences」，更能表達出整個故事的感覺，因為整套電影，�
 </tr>
 <tr class="even">
 <td><p>最佳剪接</p></td>
-<td><p><a href="../Page/David_Richardson.md" title="wikilink">David Richardson</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/David_Richardson" title="wikilink">David Richardson</a></p></td>
 <td></td>
 <td></td>
 <td></td>

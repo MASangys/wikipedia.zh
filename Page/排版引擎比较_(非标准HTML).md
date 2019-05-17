@@ -1,6 +1,6 @@
 下表比较了不赞成使用和专有的[HTML](../Page/HTML.md "wikilink")[元素与](../Page/HTML元素.md "wikilink")[属性对一些](../Page/HTML.md "wikilink")[排版引擎的支持和兼容性](../Page/排版引擎.md "wikilink")。请参阅各个产品的条目以获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
 
-在[万维网发展早期](../Page/万维网.md "wikilink")，[网页浏览器和](../Page/网页浏览器.md "wikilink")[网页使用的标准还未成熟](../Page/网页.md "wikilink")。[网景](../Page/网景.md "wikilink")、[微软和](../Page/微软.md "wikilink")[WebTV等供应商相互竞争](../Page/MSN_TV.md "wikilink")，提供不同的浏览器与HTML编辑器，它们对如何构造网站都有自己的想法。这些不同的特征导致了网页开发者往往使用仅可被单一浏览器识别的元素为特定的网页浏览器编码。WebTV与IBM的WebExplorer从未被主流浏览器采用。
+在[万维网发展早期](../Page/万维网.md "wikilink")，[网页浏览器和](../Page/网页浏览器.md "wikilink")[网页使用的标准还未成熟](https://zh.wikipedia.org/wiki/网页 "wikilink")。[网景](https://zh.wikipedia.org/wiki/网景 "wikilink")、[微软和](../Page/微软.md "wikilink")[WebTV等供应商相互竞争](https://zh.wikipedia.org/wiki/MSN_TV "wikilink")，提供不同的浏览器与HTML编辑器，它们对如何构造网站都有自己的想法。这些不同的特征导致了网页开发者往往使用仅可被单一浏览器识别的元素为特定的网页浏览器编码。WebTV与IBM的WebExplorer从未被主流浏览器采用。
 
 ## 不赞成使用的HTML元素
 
@@ -95,7 +95,7 @@
 <tr class="odd">
 <td><p><code>listing</code></p></td>
 <td><p>显示格式化文本</p></td>
-<td><p><a href="../Page/IETF.md" title="wikilink">IETF</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IETF" title="wikilink">IETF</a></p></td>
 <td><p>2</p></td>
 <td><p><code>pre</code>、<code>samp</code>、<code>code</code>、CSS</p></td>
 <td><p>rowspan="3" </p></td>
@@ -121,7 +121,7 @@
 <td><p>所有内容按照HTML源代码的方式显示</p></td>
 <td><p>?</p></td>
 <td><p>3.2</p></td>
-<td><p>The <code>text/plain</code> <a href="../Page/MIME_type.md" title="wikilink">MIME type</a></p></td>
+<td><p>The <code>text/plain</code> <a href="https://zh.wikipedia.org/wiki/MIME_type" title="wikilink">MIME type</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -400,7 +400,7 @@
 <tr class="even">
 <td><p><code>version</code></p></td>
 <td><p><code>html</code></p></td>
-<td><p><a href="../Page/Document_Type_Declaration.md" title="wikilink">DTD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Document_Type_Declaration" title="wikilink">DTD</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -479,9 +479,9 @@
 <td><p>[9]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Blink_element.md" title="wikilink"><code>blink</code></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blink_element" title="wikilink"><code>blink</code></a></p></td>
 <td><p>用于显示闪烁的文字</p></td>
-<td><p><a href="../Page/Netscape.md" title="wikilink">网景</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Netscape" title="wikilink">网景</a></p></td>
 <td><p>Javascript、CSS</p></td>
 <td></td>
 <td><p>[10]</p></td>
@@ -512,7 +512,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Layer_element.md" title="wikilink"><code>ilayer</code></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Layer_element" title="wikilink"><code>ilayer</code></a></p></td>
 <td><p>内嵌层</p></td>
 <td><p>网景（仅版本4）</p></td>
 <td><p><code>iframe</code></p></td>
@@ -534,10 +534,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Layer_element.md" title="wikilink"><code>layer</code></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Layer_element" title="wikilink"><code>layer</code></a></p></td>
 <td><p>用于创建多层文本和图像，在给定的顺序下分布在彼此的顶部</p></td>
 <td><p>网景（仅版本4）</p></td>
-<td><p>CSS、<a href="../Page/Ajax.md" title="wikilink">Ajax</a></p></td>
+<td><p>CSS、<a href="https://zh.wikipedia.org/wiki/Ajax" title="wikilink">Ajax</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -545,7 +545,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Marquee_element.md" title="wikilink"><code>marquee</code></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Marquee_element" title="wikilink"><code>marquee</code></a></p></td>
 <td><p>用于显示类似滚动字幕的文本</p></td>
 <td><p>Internet Explorer、WebTV</p></td>
 <td><p>JavaScript、CSS3</p></td>

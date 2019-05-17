@@ -1,12 +1,13 @@
 《**LAUGH LAUGH
-LAUGH**》是[韓國男子組合](../Page/韓國.md "wikilink")[GOT7的第三張日語單曲](../Page/GOT7.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2015年9月23日於日本正式發行，唱片公司為[日本索尼音樂旗下的](../Page/日本索尼音樂.md "wikilink")[EPIC
-Records Japan](../Page/EPIC_Records_Japan.md "wikilink")。主打歌為《LAUGH
+LAUGH**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7的第三張日語單曲](../Page/GOT7.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2015年9月23日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC
+Records
+Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。主打歌為《LAUGH
 LAUGH
 LAUGH》。單曲發行當日即登上[Oricon公信榜單曲日榜冠軍](../Page/Oricon公信榜.md "wikilink")\[1\]，成為GOT7在日本出道以來首次獲得Oricon冠軍的作品。
 
 ## 背景
 
-2015年8月7日，GOT7日本官方[Youtube頻道釋出](../Page/Youtube.md "wikilink")《LAUGH
+2015年8月7日，GOT7日本官方[Youtube頻道釋出](https://zh.wikipedia.org/wiki/Youtube "wikilink")《LAUGH
 LAUGH
 LAUGH》首波13秒概念影片，預告GOT7即將推出日文新作。8月10日，日本索尼音樂官網公布此單曲將於9月23日發行，並同步公開封面、收錄曲目與預購資訊。\[2\]
 8月17日開放主打歌《LAUGH LAUGH LAUGH》原音鈴聲下載\[3\]，9月4日公開短版MV，23日單曲正式發行。
@@ -44,10 +45,10 @@ TRAIN》，這次成員們也參予了編舞工作，以「想讓大家露出笑
 
 ## 發行歷史
 
-| 地區                             | 日期         | 格式                                                                         | 廠牌                                                             | 備註            |
-| ------------------------------ | ---------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------- |
-| [日本](../Page/日本.md "wikilink") | 2015年9月23日 | [CD](../Page/CD.md "wikilink")、CD+DVD、[數位下載](../Page/數位音樂下載.md "wikilink") | [EPIC Records Japan](../Page/EPIC_Records_Japan.md "wikilink") |               |
-| [台灣](../Page/台灣.md "wikilink") | 2015年9月25日 | CD、[數位下載](../Page/數位音樂下載.md "wikilink")                                    | [台灣索尼音樂](../Page/台灣索尼音樂.md "wikilink")                         | 台壓只有發行通常盤，無小卡 |
+| 地區                                                | 日期         | 格式                                                                         | 廠牌                                                                                | 備註            |
+| ------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------- |
+| [日本](../Page/日本.md "wikilink")                    | 2015年9月23日 | [CD](../Page/CD.md "wikilink")、CD+DVD、[數位下載](../Page/數位音樂下載.md "wikilink") | [EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink") |               |
+| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") | 2015年9月25日 | CD、[數位下載](../Page/數位音樂下載.md "wikilink")                                    | [台灣索尼音樂](https://zh.wikipedia.org/wiki/台灣索尼音樂 "wikilink")                         | 台壓只有發行通常盤，無小卡 |
 
 ## 參考資料
 

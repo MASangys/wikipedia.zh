@@ -1,4 +1,4 @@
-**After10**為香港獨立樂隊，於2014年成立，成員為主音及結他手陳永康、低音結他手姚榮豐及鼓手陳仲偉。三人為前[RedNoon成員](../Page/RedNoon.md "wikilink")，分別於10年及11年以RedNoon名義發過兩張專輯《[Redvolution](../Page/Redvolution.md "wikilink")》、《[WHOCARES](../Page/WHOCARES.md "wikilink")》，13年RedNoon解散後另組After10。2014年8月14日，After10於香港藝穗會舉辦首個音樂會「AFTER10
+**After10**為香港獨立樂隊，於2014年成立，成員為主音及結他手陳永康、低音結他手姚榮豐及鼓手陳仲偉。三人為前[RedNoon成員](../Page/RedNoon.md "wikilink")，分別於10年及11年以RedNoon名義發過兩張專輯《[Redvolution](../Page/Redvolution.md "wikilink")》、《[WHOCARES](https://zh.wikipedia.org/wiki/WHOCARES "wikilink")》，13年RedNoon解散後另組After10。2014年8月14日，After10於香港藝穗會舉辦首個音樂會「AFTER10
 大步走向我中心 One Big Step
 Live」，同月首支單曲《大步走向我中心》派台。2015年2月第二支單曲《低沉》派台，坊間反應不俗。同年10月第三支單曲《上個你下個你》派台。2016年4月30日，After10於中環摩天輪下Milkmart市集翻唱盧冠廷歌曲《一生所愛》，原唱者盧冠廷突然中途加入合唱，現場及網上看影片的觀眾均表示感動\[1\]。2016年6月，單曲《大頭佛》派台。2017年8月，單曲《層壓時代》派台，現正錄製樂隊首張大碟。
 
@@ -7,7 +7,7 @@ Live」，同月首支單曲《大步走向我中心》派台。2015年2月第�
 ### 陳永康
 
 **陳永康**（），**After10**
-主音及結他手 。2015年中開始為[Yellow\!擔任客席結他手](../Page/Yellow!.md "wikilink")，2017年正式加入Yellow\!。成立**After10**前為[RedNoon結他手](../Page/RedNoon.md "wikilink")。
+主音及結他手 。2015年中開始為[Yellow\!擔任客席結他手](https://zh.wikipedia.org/wiki/Yellow! "wikilink")，2017年正式加入Yellow\!。成立**After10**前為[RedNoon結他手](../Page/RedNoon.md "wikilink")。
 
 ### 姚榮豐
 
@@ -43,7 +43,7 @@ Live」，同月首支單曲《大步走向我中心》派台。2015年2月第�
 <td style="text-align: left;"><p>1st</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/WHF_Home_Music.md" title="wikilink">WHF Home Music</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/WHF_Home_Music" title="wikilink">WHF Home Music</a></p></td>
 <td style="text-align: left;"><p>201-年--月--日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
@@ -92,7 +92,7 @@ Live」，同月首支單曲《大步走向我中心》派台。2015年2月第�
 <td><p>2016</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=VBJbSEYjlXU">一生所愛</a></p></td>
 <td><p>After10 X 6號@RubberBand<br />
-翻唱<a href="../Page/盧冠庭.md" title="wikilink">盧冠庭作品</a></p></td>
+翻唱<a href="https://zh.wikipedia.org/wiki/盧冠庭" title="wikilink">盧冠庭作品</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
@@ -116,13 +116,13 @@ Live」，同月首支單曲《大步走向我中心》派台。2015年2月第�
 <td><p>2016</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=EjUbsn92gKs">Love Yourself</a></p></td>
 <td><p>After10 X <a href="../Page/方皓玟.md" title="wikilink">方皓玟</a><br />
-翻唱<a href="../Page/Justin_Bieber.md" title="wikilink">Justin Bieber作品</a></p></td>
+翻唱<a href="https://zh.wikipedia.org/wiki/Justin_Bieber" title="wikilink">Justin Bieber作品</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=zQqMJhWL95M">刀槍不入</a></p></td>
 <td><p>After10<br />
-翻唱<a href="../Page/盧巧音.md" title="wikilink">盧巧音作品</a></p></td>
+翻唱<a href="https://zh.wikipedia.org/wiki/盧巧音" title="wikilink">盧巧音作品</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -147,7 +147,7 @@ Live」，同月首支單曲《大步走向我中心》派台。2015年2月第�
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>鬼叫我窮牙</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Fantasies Are...</p></td>
 </tr>
@@ -161,77 +161,77 @@ featuring 康 on Guitar</p></td>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>Marks On My Skin</p></td>
-<td><p><a href="../Page/Yeung_Tung.md" title="wikilink">Yeung Tung</a> 楊彤主唱<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yeung_Tung" title="wikilink">Yeung Tung</a> 楊彤主唱<br />
 featuring 康 on Guitar + Mixing</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>跟車太貼</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>幻影</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>這是愛</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>幾段情歌</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>薰衣草</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>暗湧</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>今生今世</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>早班火車</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>無風的秋季</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>戀愛預告</p></td>
-<td><p><a href="../Page/Ashia.md" title="wikilink">Ashia主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ashia" title="wikilink">Ashia主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>Our Splendid Times</p></td>
 </tr>
@@ -245,56 +245,56 @@ featuring 康 on Mixing</p></td>
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>唔紅有原因</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>朝如清絲</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>一生青春</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!</a> , <a href="../Page/RubberBand.md" title="wikilink">RubberBand主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!</a> , <a href="../Page/RubberBand.md" title="wikilink">RubberBand主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>十戒歌</p></td>
-<td><p><a href="../Page/艾粒.md" title="wikilink">艾粒</a> <a href="../Page/I_Love_You_Boyz.md" title="wikilink">I Love You Boyz主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/艾粒" title="wikilink">艾粒</a> <a href="../Page/I_Love_You_Boyz.md" title="wikilink">I Love You Boyz主唱</a><br />
 featuring 康 on Backing Vocal</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>老佛爺</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>嫌小姐</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>男兒當入_</p></td>
-<td><p><a href="../Page/Yellow!.md" title="wikilink">Yellow!主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!主唱</a><br />
 featuring 康 on Guitar</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
 <td><p>行行重行行</p></td>
-<td><p><a href="../Page/YuE.md" title="wikilink">YuE主唱</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/YuE" title="wikilink">YuE主唱</a><br />
 曲/編/監製/結他/和音 by 康</p></td>
 <td><p>-</p></td>
 </tr>
@@ -338,44 +338,45 @@ featuring 康 on Guitar</p></td>
     - After10 飾 After10
   - [RubberBand](../Page/RubberBand.md "wikilink")[《我是樂隊》](https://www.youtube.com/watch?v=DAkhgqR_Nzc)
     - RubberBand 邀請八隊樂隊參與 MV 演出:
-    [太極樂隊](../Page/太極樂隊.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Yellow\!](../Page/Yellow!.md "wikilink")、[觸執毛](../Page/觸執毛.md "wikilink")、[Blaster](../Page/Blaster.md "wikilink")、[雞蛋蒸肉餅](../Page/雞蛋蒸肉餅.md "wikilink")、After10
+    [太極樂隊](../Page/太極樂隊.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")、[觸執毛](../Page/觸執毛.md "wikilink")、[Blaster](https://zh.wikipedia.org/wiki/Blaster "wikilink")、[雞蛋蒸肉餅](https://zh.wikipedia.org/wiki/雞蛋蒸肉餅 "wikilink")、After10
   - [鍾舒漫](../Page/鍾舒漫.md "wikilink")
-    [鍾舒淇](../Page/鍾舒淇.md "wikilink")[《1111》](https://www.youtube.com/watch?v=HYE5POvqpLc)-
+    [鍾舒淇](https://zh.wikipedia.org/wiki/鍾舒淇 "wikilink")[《1111》](https://www.youtube.com/watch?v=HYE5POvqpLc)-
     偉飾鼓手
   - [After10](../Page/After10.md "wikilink")[《上個你
     下個你》](https://www.youtube.com/watch?v=8MW_nGY7_BM) -
     康飾男友、After10 飾 After10
   - [After10](../Page/After10.md "wikilink")[《大頭佛》](https://www.youtube.com/watch?v=jCfI83FTdtc)
     - 康飾市民、偉飾老師、豐飾職員
-  - [Yellow\!](../Page/Yellow!.md "wikilink")[《唔紅有原因》](https://www.youtube.com/watch?v=QiEbE9arkLg)
+  - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《唔紅有原因》](https://www.youtube.com/watch?v=QiEbE9arkLg)
     - 康飾新成員
-  - [Yellow\!](../Page/Yellow!.md "wikilink")[《朝如清絲》](https://www.youtube.com/watch?v=Mco2cdSQbDs)
+  - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《朝如清絲》](https://www.youtube.com/watch?v=Mco2cdSQbDs)
     - 康飾結他手
   - [RubberBand](../Page/RubberBand.md "wikilink"),
-    [Yellow\!](../Page/Yellow!.md "wikilink")[《一生青春》](https://www.youtube.com/watch?v=aLObKxS_zU4)
+    [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《一生青春》](https://www.youtube.com/watch?v=aLObKxS_zU4)
     - 康飾結他手
   - [After10](../Page/After10.md "wikilink")[《層壓時代》](https://www.youtube.com/watch?v=udK-Y7SPwZw)
     - 康、偉、豐飾同事
 
 <!-- end list -->
 
-  - [Yellow\!](../Page/Yellow!.md "wikilink")[《老佛爺》](https://www.youtube.com/watch?v=aCfWHpSffKI)
+  - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《老佛爺》](https://www.youtube.com/watch?v=aCfWHpSffKI)
     - 康飾太監
-  - [Yellow\!](../Page/Yellow!.md "wikilink")[《嫌小姐》](https://www.youtube.com/watch?v=QovcxapXF2k)
+  - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《嫌小姐》](https://www.youtube.com/watch?v=QovcxapXF2k)
     - 康飾專家
-  - [Yellow\!](../Page/Yellow!.md "wikilink")[《男兒當入_》](https://www.youtube.com/watch?v=45a1zDTb_fE)
+  - [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")[《男兒當入_》](https://www.youtube.com/watch?v=45a1zDTb_fE)
     - 康飾Bell Boy、麵檔老闆、紋身師、三輪車司機
 
 ### 舞台劇
 
 2016年
 
-  - 9月23-25日 [舞台山莊](../Page/舞台山莊.md "wikilink") 主辦《尋找快樂時代》- 康、偉飾樂隊Color
+  - 9月23-25日 [舞台山莊](https://zh.wikipedia.org/wiki/舞台山莊 "wikilink")
+    主辦《尋找快樂時代》- 康、偉飾樂隊Color
 
 2017年
 
-  - 3月30-4月2日 [舞台山莊](../Page/舞台山莊.md "wikilink") 主辦《尋找快樂時代2017》-
-    康、偉飾樂隊Color
+  - 3月30-4月2日 [舞台山莊](https://zh.wikipedia.org/wiki/舞台山莊 "wikilink")
+    主辦《尋找快樂時代2017》- 康、偉飾樂隊Color
 
 ### 電視節目
 
@@ -386,7 +387,8 @@ featuring 康 on Guitar</p></td>
 
 <!-- end list -->
 
-  - Viutv 歌度有：第四集 —— [Yellow\!](../Page/Yellow!.md "wikilink")
+  - Viutv 歌度有：第四集 ——
+    [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
     [野佬](../Page/野佬.md "wikilink") \[3\] (康參與演出)
 
 2018年
@@ -415,46 +417,51 @@ featuring 康 on Guitar</p></td>
 
   - 1月10日：**After10** - 香港青年協會 主辦「Rock On Stage 2014 V2.0」音樂會
   - 3月8日：**After10** - HMV ideal Sunday Music Brunch
-  - 3月22日：**After10** - [Popcorn](../Page/Popcorn.md "wikilink")
-    Mall「Pop Music Bar」
+  - 3月22日：**After10** -
+    [Popcorn](https://zh.wikipedia.org/wiki/Popcorn "wikilink") Mall「Pop
+    Music Bar」
   - 4月26日：**After10** - Cafe Dokuran獨樂「**After10** Acoustic Mini Live 」
-  - 5月1日：[Yellow\!](../Page/Yellow!.md "wikilink") -
-    [香港作曲家及作詞家協會](../Page/香港作曲家及作詞家協會.md "wikilink")
-    CASH Open Jam Members Party（康擔任結他手）
-  - 5月8日：[Yellow\!](../Page/Yellow!.md "wikilink") - 萬眾同心公益金
-    名廚薈萃為公益慈善晚宴（康擔任結他手）
+  - 5月1日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    [香港作曲家及作詞家協會](../Page/香港作曲家及作詞家協會.md "wikilink") CASH Open Jam
+    Members Party（康擔任結他手）
+  - 5月8日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    萬眾同心公益金 名廚薈萃為公益慈善晚宴（康擔任結他手）
   - 5月21日：[天比高創作伙伴](../Page/天比高創作伙伴.md "wikilink") - 圍音樂主辦「**After10** x
     [Ever](../Page/Ever.md "wikilink") 行運茶餐廳同樂日 」音樂會
   - 5月24日：**After10** - [新城電台](../Page/新城電台.md "wikilink") 主辦「屯門沙灘節2015
     新城Indie Band Beach Gig 」
   - 6月30日：**After10** - Re:spect Magazine 主辦「家駒音樂會2015」
-  - 7月10日：[Yellow\!](../Page/Yellow!.md "wikilink")
+  - 7月10日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
     [野佬](../Page/野佬.md "wikilink") -「Our Fantasies Are... Live
     2015」（**After10**擔任嘉賓＋康擔任結他手）
   - 8月15日：**After10** - 香港青年協會 主辦「Rock On Stage 2015」音樂會
-  - 8月24日：[Yellow\!](../Page/Yellow!.md "wikilink") - Slide In The
-    City（康擔任結他手）
+  - 8月24日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    Slide In The City（康擔任結他手）
   - 9月4日：**After10** - [時代廣場 (香港)](../Page/時代廣場_\(香港\).md "wikilink")
     Times Square Music Room Finale 2015
-  - 9月12日：[Yellow\!](../Page/Yellow!.md "wikilink") - JOOX x Dr. Martens
-    Uncle Gay Gay Groovy Saturday（康擔任結他手）
-  - 9月12日：[Yellow\!](../Page/Yellow!.md "wikilink") -
+  - 9月12日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    JOOX x Dr. Martens Uncle Gay Gay Groovy Saturday（康擔任結他手）
+  - 9月12日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
     柏斯琴行全港音樂巨聲彈唱大賽（康擔任結他手）
   - 9月13日：**After10** - 樂人地帶 ALL IN OR NOTHING 救亡音樂會
-  - 10月15日：[Yellow\!](../Page/Yellow!.md "wikilink") - Dr. Martens Stand
-    for Something 2015（康擔任結他手）
-  - 10月21日：[Ashia](../Page/Ashia.md "wikilink") - Mini Live\! Autumn
-    Jazz Evening（康擔任結他手）
+  - 10月15日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - Dr. Martens Stand for Something 2015（康擔任結他手）
+  - 10月21日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") -
+    Mini Live\! Autumn Jazz Evening（康擔任結他手）
   - 10月24日：[王灝兒](../Page/王灝兒.md "wikilink") JW - JOOX x Palladium Uncle
     Gay Gay Groovy Saturday（康擔任結他手）
-  - 10月15日：[Yellow\!](../Page/Yellow!.md "wikilink") - 香港美酒佳餚巡禮
-    2015（康擔任結他手）
+  - 10月15日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 香港美酒佳餚巡禮 2015（康擔任結他手）
   - 12月13日：**After10** - [Milk
-    Magazine](../Page/Milk_Magazine.md "wikilink") Milk Mart [Dr.
-    Martens](../Page/Dr._Martens.md "wikilink") Booth Acoustic Mini Live
-  - 12月25日：[Yellow\!](../Page/Yellow!.md "wikilink") - Fashion Walk x
-    [Spotify](../Page/Spotify.md "wikilink") FOUND THE SOUND（康擔任結他手）
-  - 12月26日：[Yellow\!](../Page/Yellow!.md "wikilink") - 新城勁爆頒獎禮（康擔任結他手）
+    Magazine](https://zh.wikipedia.org/wiki/Milk_Magazine "wikilink")
+    Milk Mart [Dr.
+    Martens](https://zh.wikipedia.org/wiki/Dr._Martens "wikilink") Booth
+    Acoustic Mini Live
+  - 12月25日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - Fashion Walk x [Spotify](../Page/Spotify.md "wikilink") FOUND THE
+    SOUND（康擔任結他手）
+  - 12月26日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 新城勁爆頒獎禮（康擔任結他手）
   - 12月27日：[方皓玟](../Page/方皓玟.md "wikilink") - [404 Not
     Found](../Page/404_Not_Found_\(專輯\).md "wikilink") Gumgumgum Mini
     Live（康擔任結他手）
@@ -468,13 +475,14 @@ featuring 康 on Guitar</p></td>
   - 2月19日：**After10** - Rockschool 主辦「Rockschool 頒獎典禮 /
     音樂會」（**After10**擔任嘉賓）
   - 2月20日：**After10** - 天比高創作伙伴 主辦「鐵樹音樂祭！」
-  - 3月1日：[楊彤](../Page/楊彤.md "wikilink") Yeung Tung - [Death Cab for
-    Cutie](../Page/Death_Cab_for_Cutie.md "wikilink") Live In Hong Kong
-    Openning Guest（康擔任結他手）
+  - 3月1日：[楊彤](https://zh.wikipedia.org/wiki/楊彤 "wikilink") Yeung Tung -
+    [Death Cab for
+    Cutie](https://zh.wikipedia.org/wiki/Death_Cab_for_Cutie "wikilink")
+    Live In Hong Kong Openning Guest（康擔任結他手）
   - 3月30日：**After10** - Live In TAIWAN \#1
-    [海邊的卡夫卡](../Page/海邊的卡夫卡.md "wikilink")
+    [海邊的卡夫卡](https://zh.wikipedia.org/wiki/海邊的卡夫卡 "wikilink")
   - 3月31日：**After10** - Live In TAIWAN \#2
-    [女巫店](../Page/女巫店.md "wikilink")
+    [女巫店](https://zh.wikipedia.org/wiki/女巫店 "wikilink")
   - 4月2日：**After10** - Live In TAIWAN \#3
     [春天吶喊](../Page/春天吶喊.md "wikilink") 2016
   - 4月29日：[岑寧兒](../Page/岑寧兒.md "wikilink") Yoyo Sham x
@@ -483,68 +491,72 @@ featuring 康 on Guitar</p></td>
     Farewell（康擔任結他手）
   - 4月30日：**After10** - Milk Magazine Milk Mart iii Uncle Gay Gay Groovy
     Weekend Acoustic Mini Live
-  - 5月1日：[Ashia](../Page/Ashia.md "wikilink"),
-    [楊彤](../Page/楊彤.md "wikilink") Yeung Tung,
+  - 5月1日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink"),
+    [楊彤](https://zh.wikipedia.org/wiki/楊彤 "wikilink") Yeung Tung,
     [勞嘉怡](../Page/勞嘉怡.md "wikilink") Yuki Lovey,
-    [Yellow\!](../Page/Yellow!.md "wikilink") - Milk Magazine Milk Mart
-    iii Uncle Gay Gay Groovy Weekend Acoustic Mini Live（康擔任結他手）
+    [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") - Milk
+    Magazine Milk Mart iii Uncle Gay Gay Groovy Weekend Acoustic Mini
+    Live（康擔任結他手）
   - 5月15日：糖衣風暴2016歌唱比賽（偉擔任鼓手）
-  - 5月28日：**After10** x [Ashia](../Page/Ashia.md "wikilink") - 元創方 PMQ
+  - 5月28日：**After10** x
+    [Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") - 元創方 PMQ
     Beef and Liberty Backstage Music Pop-up（康擔任結他手）
   - 5月29日：[王灝兒](../Page/王灝兒.md "wikilink") JW x
     [衛蘭](../Page/衛蘭.md "wikilink") Janice - 叱咤樂壇 天台音樂會（康擔任結他手）
-  - 6月4日：**After10** x [Yellow\!](../Page/Yellow!.md "wikilink") x
-    [黎曉陽](../Page/黎曉陽.md "wikilink") - Dr. Martens Music Workshop
-    Gala Show
-  - 6月11日：[Yellow\!](../Page/Yellow!.md "wikilink") - 生力啤酒節2016 -
-    香港龍舟嘉年華（康擔任結他手）
-  - 6月30日：[Ashia](../Page/Ashia.md "wikilink") - Hoegaarden 唱作音樂人花園表演
-    Gaardener's Busking（康擔任結他手）
+  - 6月4日：**After10** x
+    [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") x
+    [黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink") - Dr.
+    Martens Music Workshop Gala Show
+  - 6月11日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    生力啤酒節2016 - 香港龍舟嘉年華（康擔任結他手）
+  - 6月30日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") -
+    Hoegaarden 唱作音樂人花園表演 Gaardener's Busking（康擔任結他手）
   - 6月30日：**After10** - Re:spect Magazine 主辦「家駒音樂會2016」
   - 8月13日：**After10** - [香港青年協會](../Page/香港青年協會.md "wikilink") 主辦「Rock
     On Stage 2016」音樂會
-  - 8月14日：[Yellow\!](../Page/Yellow!.md "wikilink") - Wow and Flutter
-    Weekend Music Festival（康擔任結他手）
+  - 8月14日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    Wow and Flutter Weekend Music Festival（康擔任結他手）
   - 8月17日：**After10** - 732 Music Show
   - 8月24日：**After10** - [天比高創作伙伴](../Page/天比高創作伙伴.md "wikilink") 2016
     Rock爆鳥成果展
   - 8月27日：舞台山莊 主辦 尋找快樂的時代 愛在那年 Mini Live
   - 9月10日：[RubberBand](../Page/RubberBand.md "wikilink") - I.T. Fashion
     Week 2016 Centrestage（康擔任結他手）
-  - 9月11日：[Ashia](../Page/Ashia.md "wikilink") - 寵愛哥哥 Dear Gor Gor -
-    Tribute to Leslie（康擔任結他手）
-  - 9月17日：[Yellow\!](../Page/Yellow!.md "wikilink") x
+  - 9月11日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") - 寵愛哥哥
+    Dear Gor Gor - Tribute to Leslie（康擔任結他手）
+  - 9月17日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") x
     [RubberBand](../Page/RubberBand.md "wikilink") - JOOX mini live
     Yellow Rubber Jam（康擔任結他手）
-  - 9月27日：[Ashia](../Page/Ashia.md "wikilink") -《Our Spledid Times》CD
-    Release Party（康擔任結他手）
-  - 10月16日：[Yellow\!](../Page/Yellow!.md "wikilink") -
-    FOODSPORT「MCP為食跑2016」（康擔任結他手）
-  - 10月22日：[Ashia](../Page/Ashia.md "wikilink") - CD Warehouse
-    實睇音樂會（康擔任結他手）
+  - 9月27日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") -《Our
+    Spledid Times》CD Release Party（康擔任結他手）
+  - 10月16日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - FOODSPORT「MCP為食跑2016」（康擔任結他手）
+  - 10月22日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") - CD
+    Warehouse 實睇音樂會（康擔任結他手）
   - 10月22日：**After10** - 銀礦灣沙灘音樂節2016
-  - 10月25日：[Ashia](../Page/Ashia.md "wikilink") - JOOX 阿叔大笪地 靚聲聽真D
-    直播（康擔任結他手）
-  - 10月27日：[Ashia](../Page/Ashia.md "wikilink") - 香港美酒佳餚巡禮 2016（康擔任結他手）
-  - 11月5日：[Ashia](../Page/Ashia.md "wikilink") - JOOX x 海港城 Music in the
-    City（康擔任結他手）
+  - 10月25日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") -
+    JOOX 阿叔大笪地 靚聲聽真D 直播（康擔任結他手）
+  - 10月27日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink")
+    - 香港美酒佳餚巡禮 2016（康擔任結他手）
+  - 11月5日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") - JOOX
+    x 海港城 Music in the City（康擔任結他手）
   - 11月12日：[許靖韻](../Page/許靖韻.md "wikilink") - JOOX x 海港城 Music in the
     City（康擔任結他手，偉擔任鼓手）
-  - 11月13日：[Ashia](../Page/Ashia.md "wikilink") - <Our Splendid Time>
-    Little Showcase 01（康擔任結他手）
+  - 11月13日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") -
+    <Our Splendid Time> Little Showcase 01（康擔任結他手）
   - 11月19日：[衛詩](../Page/衛詩.md "wikilink"),
     [林欣彤](../Page/林欣彤.md "wikilink") - JOOX x 海港城 Music in
     the City（康擔任結他手，偉擔任鼓手）
   - 11月26日：[陳詠謙](../Page/陳詠謙.md "wikilink"),
     [王灝兒](../Page/王灝兒.md "wikilink") JW,
-    [Yellow\!](../Page/Yellow!.md "wikilink")
+    [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
     [野佬](../Page/野佬.md "wikilink") - JOOX x 海港城 Music in the
     City（康擔任結他手，偉擔任鼓手）
-  - 12月10日：[鄧小巧](../Page/鄧小巧.md "wikilink"),
-    [黎曉陽](../Page/黎曉陽.md "wikilink") - JOOX x 海港城 Music in
-    the City（康擔任結他手，偉擔任鼓手）
-  - 12月16日：[Yellow\!](../Page/Yellow!.md "wikilink") - 麥當勞叔叔之家慈善基金 2016
-    Rock Music Charity Concert（康擔任結他手）
+  - 12月10日：[鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink"),
+    [黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink") - JOOX x
+    海港城 Music in the City（康擔任結他手，偉擔任鼓手）
+  - 12月16日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 麥當勞叔叔之家慈善基金 2016 Rock Music Charity Concert（康擔任結他手）
   - 12月17日：[鍾舒祺](../Page/鍾舒祺.md "wikilink") - JOOX x 海港城 Music in the
     City（豐擔任低音結他手，偉擔任鼓手）
   - 12月20日：ViuTV Showtime我主場演唱會（康擔任和音）
@@ -558,15 +570,15 @@ featuring 康 on Guitar</p></td>
     City（康擔任結他手，偉擔任鼓手）
   - 12月25日：[RubberBand](../Page/RubberBand.md "wikilink") -
     香港童軍105周年紀念大露營（康擔任結他手）
-  - 12月31日：[Runoff](../Page/Runoff.md "wikilink") - JOOX x 海港城 Music in
-    the City（康擔任結他手）
+  - 12月31日：[Runoff](https://zh.wikipedia.org/wiki/Runoff "wikilink") -
+    JOOX x 海港城 Music in the City（康擔任結他手）
 
 2017年
 
-  - 1月7日：[Ashia](../Page/Ashia.md "wikilink") - JOOX x 海港城 Music in the
-    City（康擔任結他手，偉擔任鼓手）
-  - 1月12日：[Ashia](../Page/Ashia.md "wikilink") - 旭茉 Jessica 2017 Kickoff
-    Party（康擔任結他手，偉擔任鼓手）
+  - 1月7日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") - JOOX
+    x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
+  - 1月12日：[Ashia](https://zh.wikipedia.org/wiki/Ashia "wikilink") - 旭茉
+    Jessica 2017 Kickoff Party（康擔任結他手，偉擔任鼓手）
   - 1月14日：Color - 萬千星輝賀e-Print（康擔任結他手，偉擔任鼓手）
   - 1月21日：[鍾舒漫](../Page/鍾舒漫.md "wikilink"),
     [鄧穎芝](../Page/鄧穎芝.md "wikilink") - JOOX x 海港城 Music in
@@ -574,127 +586,139 @@ featuring 康 on Guitar</p></td>
   - 2月4日：**After10** - JOOX x 海港城 Music in the City
   - 2月11日：[洪卓立](../Page/洪卓立.md "wikilink") - JOOX x 海港城 Music in the
     City（康擔任結他手，偉擔任鼓手）
-  - 2月11日：[Yellow\!](../Page/Yellow!.md "wikilink") -
+  - 2月11日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
     迎回歸丁酉年元宵樂荃灣（康擔任結他手）
   - 2月17日：[RubberBand](../Page/RubberBand.md "wikilink") - 香港教育學院
     義教分享活動（康擔任結他手）
   - 2月18日: [C AllStar](../Page/C_AllStar.md "wikilink") - JOOX x 海港城
     Music in the City（康擔任結他手，偉擔任鼓手）
-  - 2月18-19日: **After10** x [KOLOR](../Page/KOLOR.md "wikilink") x
-    [新青年理髮廳](../Page/新青年理髮廳.md "wikilink") - 飛主流原音賞物創意市集音樂會
+  - 2月18-19日: **After10** x
+    [KOLOR](https://zh.wikipedia.org/wiki/KOLOR "wikilink") x
+    [新青年理髮廳](https://zh.wikipedia.org/wiki/新青年理髮廳 "wikilink")
+    - 飛主流原音賞物創意市集音樂會
   - 2月18日: [布志綸](../Page/布志綸.md "wikilink"),
     [羅孝勇](../Page/羅孝勇.md "wikilink"),
     [應昌佑](../Page/應昌佑.md "wikilink"),
     [小肥](../Page/小肥.md "wikilink")
-    [徐智勇](../Page/徐智勇.md "wikilink") - JOOX x 海港城 Music in
-    the City（康擔任結他手，偉擔任鼓手）
+    [徐智勇](https://zh.wikipedia.org/wiki/徐智勇 "wikilink") - JOOX x
+    海港城 Music in the City（康擔任結他手，偉擔任鼓手）
   - 3月11日: [張紋嘉](../Page/張紋嘉.md "wikilink"), Color - JOOX x 海港城 Music in
     the City（康擔任結他手，偉擔任鼓手）
-  - 3月12日: [Yellow\!](../Page/Yellow!.md "wikilink") -
-    燃燒吧！我們的小宇宙2017音樂會（康擔任結他手）
+  - 3月12日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 燃燒吧！我們的小宇宙2017音樂會（康擔任結他手）
   - 3月25日: [王嘉儀](../Page/王嘉儀.md "wikilink"), [Super
-    Girls](../Page/Super_Girls.md "wikilink") - JOOX x 海港城 Music in the
-    City（康擔任結他手，偉擔任鼓手）
+    Girls](https://zh.wikipedia.org/wiki/Super_Girls "wikilink") - JOOX
+    x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
   - 3月25日: Color - 舞台劇 尋找快樂時代2017 快閃宣傳活動（康擔任結他手，偉擔任鼓手）
   - 4月13日: [關楚耀](../Page/關楚耀.md "wikilink"),
-    [Yellow\!](../Page/Yellow!.md "wikilink") - JOOX x 海港城 Music in the
-    City（康擔任結他手，偉擔任鼓手）
+    [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") - JOOX
+    x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
   - 4月23日: **After10** - 卡式現場 Cassette Live Music Show
-  - 5月6日: [黃意雅](../Page/黃意雅.md "wikilink"),
-    [新青年理髮廳](../Page/新青年理髮廳.md "wikilink") -
-    JOOX x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
+  - 5月6日: [黃意雅](https://zh.wikipedia.org/wiki/黃意雅 "wikilink"),
+    [新青年理髮廳](https://zh.wikipedia.org/wiki/新青年理髮廳 "wikilink")
+    - JOOX x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
   - 5月13日: [羅力威](../Page/羅力威.md "wikilink"),
     [泳兒](../Page/泳兒.md "wikilink") - JOOX x 海港城 Music in the
     City（康擔任結他手，偉擔任鼓手）
   - 5月19-23日: [I Love You Boyz](../Page/I_Love_You_Boyz.md "wikilink") -
     艾粒拾伍年開光大典（康擔任和音及結他手）
   - 5月20日: [勞嘉怡](../Page/勞嘉怡.md "wikilink") Yuki Lovey,
-    [江若琳](../Page/江若琳.md "wikilink") - JOOX x 海港城 Music in
-    the City（偉擔任鼓手）
+    [江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink") - JOOX x
+    海港城 Music in the City（偉擔任鼓手）
   - 5月27日: [何弘軒](../Page/何弘軒.md "wikilink"),
-    [連詩雅](../Page/連詩雅.md "wikilink") - JOOX x 海港城 Music in
-    the City（康擔任結他手，偉擔任鼓手）
+    [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink") - JOOX x
+    海港城 Music in the City（康擔任結他手，偉擔任鼓手）
   - 6月3日: [After10](../Page/After10.md "wikilink") x
     [曾若華](../Page/曾若華.md "wikilink") Jude - JOOX x 海港城 Music
     in the City
-  - 6月7日: [Yellow\!](../Page/Yellow!.md "wikilink") - 燃燒吧！我們的小宇宙2017
-    Part 2 音樂會 快閃宣傳活動（康擔任結他手）
-  - 6月9日：[Yellow\!](../Page/Yellow!.md "wikilink") x
+  - 6月7日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    燃燒吧！我們的小宇宙2017 Part 2 音樂會 快閃宣傳活動（康擔任結他手）
+  - 6月9日：[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") x
     [RubberBand](../Page/RubberBand.md "wikilink") - 乾杯音樂會（康擔任結他手）
-  - 6月17日: [Yellow\!](../Page/Yellow!.md "wikilink") - 燃燒吧！我們的小宇宙2017
-    Part 2 音樂會（康擔任結他手）
-  - 7月8日: [Yellow\!](../Page/Yellow!.md "wikilink") - Gimme LiVe
-    2017（康擔任結他手）
+  - 6月17日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 燃燒吧！我們的小宇宙2017 Part 2 音樂會（康擔任結他手）
+  - 7月8日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    Gimme LiVe 2017（康擔任結他手）
   - 7月22日: **After10** - *海港城* Summer ParTea
   - 7月28日: [小肥](../Page/小肥.md "wikilink") - 睡前服音樂現場 EP5（康擔任和音及結他手）
-  - 8月12日: [Yellow\!](../Page/Yellow!.md "wikilink") - Wow and Flutter
-    本地薑 音樂節（康擔任結他手）
-  - 8月19日: [Yellow\!](../Page/Yellow!.md "wikilink") - [Mira
-    Mall](../Page/Mira_Mall.md "wikilink") 麒麟啤酒 Kirin Ichiban
-    Garden（康擔任結他手）
+  - 8月12日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - Wow and Flutter 本地薑 音樂節（康擔任結他手）
+  - 8月19日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - [Mira Mall](https://zh.wikipedia.org/wiki/Mira_Mall "wikilink")
+    麒麟啤酒 Kirin Ichiban Garden（康擔任結他手）
   - 8月25日: **After10** - [希慎廣場](../Page/希慎廣場.md "wikilink")
     [誠品書店](../Page/誠品書店.md "wikilink") 閱讀之森・音樂會
-  - 8月30日: [Yellow\!](../Page/Yellow!.md "wikilink") -
-    [香港中文大學](../Page/香港中文大學.md "wikilink")
+  - 8月30日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - [香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")
     [新亞書院](../Page/新亞書院.md "wikilink") 迎新謍（康擔任結他手）
   - 8月31日: [小肥](../Page/小肥.md "wikilink") - 睡前服音樂現場 EP6（康擔任和音及結他手）
-  - 9月6日: [Yellow\!](../Page/Yellow!.md "wikilink") - Metro Pop Facebook
-    Live（康擔任結他手）
-  - 11月1日: [陳慧敏](../Page/陳慧敏.md "wikilink") - 我們叫傻瓜演唱會（康擔任和音及結他手）
-  - 11月14日: [許廷鏗](../Page/許廷鏗.md "wikilink") - Joox
+  - 9月6日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") -
+    Metro Pop Facebook Live（康擔任結他手）
+  - 11月1日: [陳慧敏](https://zh.wikipedia.org/wiki/陳慧敏 "wikilink") -
+    我們叫傻瓜演唱會（康擔任和音及結他手）
+  - 11月14日: [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink") - Joox
     Live直播（康擔任和音及結他手，偉擔任鼓手）
   - 11月23日: [I Love You Boyz](../Page/I_Love_You_Boyz.md "wikilink") -
     艾粒 C All Moment演唱會（康擔任和音及結他手）
-  - 12月10日: [Yellow\!](../Page/Yellow!.md "wikilink") - 極地同行 x Patagonia
-    Live（康擔任結他手）
-  - 12月22日: [Yellow\!](../Page/Yellow!.md "wikilink") - 大約在冬至演唱會（康擔任結他手）
+  - 12月10日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 極地同行 x Patagonia Live（康擔任結他手）
+  - 12月22日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 大約在冬至演唱會（康擔任結他手）
 
 2018年
 
   - 1月21日：**After10** - [香港青年協會](../Page/香港青年協會.md "wikilink") 主辦「Rock
     On Stage 2017」音樂會
-  - 2月10日: [Yellow\!](../Page/Yellow!.md "wikilink") - 搖滾起義音樂會（康擔任結他手）
+  - 2月10日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 搖滾起義音樂會（康擔任結他手）
   - 2月11日: [小肥](../Page/小肥.md "wikilink") - 不再孤單演唱會（康擔任和音及結他手）
-  - 3月10日: [Yellow\!](../Page/Yellow!.md "wikilink") - 博愛歡樂傳萬家（康擔任結他手）
-  - 3月24日: [Yellow\!](../Page/Yellow!.md "wikilink") - 海洋公園歌酒節（康擔任結他手）
-  - 3月30日: [Yellow\!](../Page/Yellow!.md "wikilink") - Yellow Red Hot
-    Hits 演唱會（康擔任結他手）
-  - 4月2日: [許廷鏗](../Page/許廷鏗.md "wikilink"),
+  - 3月10日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 博愛歡樂傳萬家（康擔任結他手）
+  - 3月24日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 海洋公園歌酒節（康擔任結他手）
+  - 3月30日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - Yellow Red Hot Hits 演唱會（康擔任結他手）
+  - 4月2日: [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink"),
     [衛詩](../Page/衛詩.md "wikilink"),
     [陳詠謙](../Page/陳詠謙.md "wikilink"),
     [曾若華](../Page/曾若華.md "wikilink") Jude -
     海洋公園歌酒節（康擔任和音及結他手，偉擔任鼓手）
-  - 4月15日: [Yellow\!](../Page/Yellow!.md "wikilink") - Times Square
-    Music Room（康擔任結他手）
+  - 4月15日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - Times Square Music Room（康擔任結他手）
   - 5月15－17日: [李國祥](../Page/李國祥.md "wikilink") - Share with You
     演唱會（康擔任結他手，偉擔任鼓手）
-  - 6月16日: [Yellow\!](../Page/Yellow!.md "wikilink") - 睇波不賭波活動（康擔任結他手）
+  - 6月16日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - 睇波不賭波活動（康擔任結他手）
   - 7月28日：**After10** - HMV Bar & Resturant 夏日音樂派對 Summer Party
-  - 8月4－5日: [野仔](../Page/野仔.md "wikilink") - 年輕的我們演唱會（康擔任結他手）
-  - 8月18日: [洪嘉豪](../Page/洪嘉豪.md "wikilink"),
+  - 8月4－5日: [野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink") -
+    年輕的我們演唱會（康擔任結他手）
+  - 8月18日: [洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink"),
     [王嘉儀](../Page/王嘉儀.md "wikilink"),
     [譚杏藍](../Page/譚杏藍.md "wikilink") - 叱吒樂壇 暑期作業 洪王藍 Color
     Jam（康擔任和音及結他手，偉擔任鼓手）
-  - 8月25日: [許廷鏗](../Page/許廷鏗.md "wikilink") - 愛心滿東華 x
+  - 8月25日: [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink") - 愛心滿東華 x
     街頭音樂（康擔任和音及結他手，偉擔任鼓手）
-  - 8月25日: [Yellow\!](../Page/Yellow!.md "wikilink") - Shout it Out
-    起哄音樂會（康擔任結他手）
-  - 9月5日: [許廷鏗](../Page/許廷鏗.md "wikilink") - Joox
+  - 8月25日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - Shout it Out 起哄音樂會（康擔任結他手）
+  - 9月5日: [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink") - Joox
     Live直播（康擔任和音及結他手，偉擔任鼓手）
-  - 9月12日: [余香凝](../Page/余香凝.md "wikilink") - Joox Live直播（康擔任和音及結他手）
+  - 9月12日: [余香凝](https://zh.wikipedia.org/wiki/余香凝 "wikilink") - Joox
+    Live直播（康擔任和音及結他手）
   - 9月14日: Cheronna [吳嘉熙](../Page/吳嘉熙.md "wikilink") - Joox
     Live直播（康擔任和音及結他手）
-  - 9月26日: **After10** x [余香凝](../Page/余香凝.md "wikilink") - 誠品生活 x Joox
-    慢活音樂（康擔任和音及結他手）
+  - 9月26日: **After10** x
+    [余香凝](https://zh.wikipedia.org/wiki/余香凝 "wikilink") -
+    誠品生活 x Joox 慢活音樂（康擔任和音及結他手）
   - 9月29日: **After10** 朗豪坊 Live Stage
   - 10月3日: **After10** 葵涌廣場 Busking
   - 10月12日: Cheronna [吳嘉熙](../Page/吳嘉熙.md "wikilink") - KKBOX
     Live直播（康擔任和音及結他手）
-  - 11月4日: [Yellow\!](../Page/Yellow!.md "wikilink") - Band樂在屯門2018沙灘節
+  - 11月4日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")
+    - Band樂在屯門2018沙灘節
   - 11月10日: Cheronna [吳嘉熙](../Page/吳嘉熙.md "wikilink") 朗豪坊 Live Stage
   - 11月15－16日: [SKY](../Page/SKY.md "wikilink") Reunion
     Concert（康擔任和音及結他手，偉擔任鼓手）
-  - 11月17日: [許廷鏗](../Page/許廷鏗.md "wikilink") -
+  - 11月17日: [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink") -
     停半分鐘限定音樂會（康擔任和音及結他手，偉擔任鼓手）
   - 11月23日: **After10** FreShMAn Busking in the House @ 咖啡事多
   - 11月24日: **After10** 朗豪坊 Live Stage
@@ -703,8 +727,8 @@ featuring 康 on Guitar</p></td>
   - 11月30日: **After10** MOOV Office Live直播
   - 12月1日: **After10** Tom Lee x Mackie x After10 x Stadium CWB - Happy
     Hour Busking Tour
-  - 12月11日: [洪嘉豪](../Page/洪嘉豪.md "wikilink") - CD Release
-    （康擔任和音及結他手，偉擔任鼓手）
+  - 12月11日: [洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink") - CD
+    Release （康擔任和音及結他手，偉擔任鼓手）
   - 12月20日: **After10** - Joox Live直播
 
 2019年
@@ -729,7 +753,7 @@ WHF Home Music 是他們位於葵芳的私人Band 房。
   - [After 10再戰樂壇擔心前景](http://the-sun.on.cc/cnt/entertainment/20150417/00470_059.html)[太陽報](../Page/太陽報.md "wikilink").
     2015-04-17
   - [樂隊After10
-    有出碟情意結](http://orientaldaily.on.cc/cnt/entertainment/20150417/00282_087.html)[東方日報](../Page/東方日報.md "wikilink").
+    有出碟情意結](http://orientaldaily.on.cc/cnt/entertainment/20150417/00282_087.html)[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink").
     2015-04-17
   - [After 10新歌紀載RedNoon拆伙的情感](http://www.881903.com/Page/ZH-TW/featuredetail.aspx?itemid=833658&csid=801_3401)881903.com.
     2015-11-04

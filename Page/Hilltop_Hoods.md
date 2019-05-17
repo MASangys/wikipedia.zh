@@ -5,11 +5,12 @@ Again(又一次)*， 并在之后的时间陆续发布了七张录音室唱片�
 Hard Road(漫漫长路) 专辑*。
 
 他们的四张专辑问鼎 [Australian Record Industry Association (ARIA) Albums
-Charts](../Page/澳大利亚唱片业协会榜.md "wikilink")（澳大利亚唱片协会榜） 第一名：分别是 *The Hard
-Road* （2006）， *State of the Art* （2009）， *Drinking from the Sun* （2012）
-以及 *Walking Under Stars* （2014）。 两首单曲进入该榜单前十名，分别是—"Chase That Feeling"
-（2009） 以及 "I Love It"， featuring [Sia](../Page/希雅.md "wikilink")
-（2011）—而其最新单曲 "Cosby Sweater" （2014） 在当年11月9日成为该组合唯一此榜前五名单曲。
+Charts](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")（澳大利亚唱片协会榜） 第一名：分别是 *The
+Hard Road* （2006）， *State of the Art* （2009）， *Drinking from the Sun*
+（2012） 以及 *Walking Under Stars* （2014）。 两首单曲进入该榜单前十名，分别是—"Chase That
+Feeling" （2009） 以及 "I Love It"， featuring
+[Sia](https://zh.wikipedia.org/wiki/希雅 "wikilink") （2011）—而其最新单曲 "Cosby
+Sweater" （2014） 在当年11月9日成为该组合唯一此榜前五名单曲。
 
 Hilltop Hoods 曾在澳大利亚内部和全球巡回开过演唱会，并曾出席过下列音乐节活动： T in the Park， Oxegen，
 the Big Day Out， Clipsal 500， Southbound， The Great Escape， Splendour in
@@ -71,7 +72,7 @@ B.I.G.](../Page/聲名狼藉先生.md "wikilink")， KRS-One， Gang Starr，
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/澳大利亚唱片业协会榜.md" title="wikilink">AUS</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a><br />
 [3]</p></td>
 <td><p>NZ<br />
 [4]</p></td>
@@ -171,7 +172,7 @@ B.I.G.](../Page/聲名狼藉先生.md "wikilink")， KRS-One， Gang Starr，
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/澳大利亚唱片业协会榜.md" title="wikilink">AUS</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a><br />
 [6]</p></td>
 <td></td>
 <td></td>
@@ -215,7 +216,7 @@ B.I.G.](../Page/聲名狼藉先生.md "wikilink")， KRS-One， Gang Starr，
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/澳大利亚唱片业协会榜.md" title="wikilink">AUS</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a><br />
 [8]</p></td>
 <td><p>NZ<br />
 [9]</p></td>
@@ -295,7 +296,7 @@ B.I.G.](../Page/聲名狼藉先生.md "wikilink")， KRS-One， Gang Starr，
 </tr>
 <tr class="odd">
 <td><p>"I Love It"<br />
-<small>（featuring <a href="../Page/希雅.md" title="wikilink">Sia</a>）</small></p></td>
+<small>（featuring <a href="https://zh.wikipedia.org/wiki/希雅" title="wikilink">Sia</a>）</small></p></td>
 <td><p>2011</p></td>
 <td><p>6</p></td>
 <td><p>13</p></td>

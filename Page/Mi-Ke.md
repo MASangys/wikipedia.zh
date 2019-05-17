@@ -1,15 +1,15 @@
 **Mi-Ke**（），[日本唱片公司](../Page/日本.md "wikilink")[Being的旗下演唱團體](../Page/Being_\(公司\).md "wikilink")。是從[B.B.QUEENS中的](../Page/B.B.QUEENS.md "wikilink")3人女合音團體「**B.B.QUEENS
 SISTERS**（<small></small>）\[1\]」誕生，成員由、、組成。
 
-1991年改名「Mi-Ke」之後以獨立[偶像團體出道](../Page/偶像.md "wikilink")，但於1993年停止活動。她們的原創標識「Presented
+1991年改名「Mi-Ke」之後以獨立[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但於1993年停止活動。她們的原創標識「Presented
 by B.B.QUEENS」則是由B.B.QUEENS所書寫。
 
 ## 經歷
 
-1991年以[偶像團體出道](../Page/偶像.md "wikilink")。出道初期雖然還沒有身為偶像團體要有[偶像的意識和默契](../Page/偶像.md "wikilink")，但是仍以歌曲的選定再生、[翻唱為企劃是Mi](../Page/翻唱.md "wikilink")-Ke作為發行[專輯的主題](../Page/音樂專輯.md "wikilink")。其團名來自嘲諷當時的當紅樂團「」，並以[三色貓的](../Page/三色貓.md "wikilink")3種顏色活用在她們3人身上，宇德代表白色、村上代表茶色、渡邊代表黑色作區別。
+1991年以[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")。出道初期雖然還沒有身為偶像團體要有[偶像的意識和默契](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但是仍以歌曲的選定再生、[翻唱為企劃是Mi](https://zh.wikipedia.org/wiki/翻唱 "wikilink")-Ke作為發行[專輯的主題](../Page/音樂專輯.md "wikilink")。其團名來自嘲諷當時的當紅樂團「」，並以[三色貓的](../Page/三色貓.md "wikilink")3種顏色活用在她們3人身上，宇德代表白色、村上代表茶色、渡邊代表黑色作區別。
 
 其後成為唱片公司[Being的音響](../Page/Being_\(公司\).md "wikilink")、重編包含企劃製作之光，於[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")、[日本有線大獎](../Page/日本有線大獎.md "wikilink")、[全日本有線放送大獎](../Page/全日本有線放送大獎.md "wikilink")（今[BEST
-HITS歌謠祭大獎](../Page/BEST_HITS歌謠祭.md "wikilink")）、[日本金唱片大獎等所有音樂獎中都榮獲最優秀新人獎](../Page/日本金唱片大獎.md "wikilink")，並以出道後的首張單曲「」在『[第42回NHK紅白歌合戰](../Page/第42回NHK紅白歌合戰.md "wikilink")』出場。
+HITS歌謠祭大獎](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink")）、[日本金唱片大獎等所有音樂獎中都榮獲最優秀新人獎](../Page/日本金唱片大獎.md "wikilink")，並以出道後的首張單曲「」在『[第42回NHK紅白歌合戰](../Page/第42回NHK紅白歌合戰.md "wikilink")』出場。
 
 1992年4月至1993年3月在[NHK綜合播出的音樂節目](../Page/NHK綜合頻道.md "wikilink")『』擔任常態節目助理。
 
@@ -18,11 +18,11 @@ HITS歌謠祭大獎](../Page/BEST_HITS歌謠祭.md "wikilink")）、[日本金�
 ## 成員
 
   -
-    領唱。其歌曲的合音大多由宇德獨自合音，因此Mi-Ke歌曲的音源有9成是她的聲音。單飛之後她的個人[專輯卻登上](../Page/專輯.md "wikilink")[公信榜第](../Page/Oricon公信榜.md "wikilink")1名的記錄。
+    領唱。其歌曲的合音大多由宇德獨自合音，因此Mi-Ke歌曲的音源有9成是她的聲音。單飛之後她的個人[專輯卻登上](https://zh.wikipedia.org/wiki/專輯 "wikilink")[公信榜第](../Page/Oricon公信榜.md "wikilink")1名的記錄。
   -
     左合音。由於歌曲的合音實質上都由宇德擔任，所以在電視上演出時僅擔任副歌的合音。
   -
-    右合音。與擔任左合音的村上相同，但是在首張單曲「」的另一首收錄歌曲「」是由負責作詞的渡邊獻唱。雖然不是Mi-Ke的樂曲，不過在[Youtube可以看到渡邊於現場進行演唱的影片](../Page/Youtube.md "wikilink")。2008年2月開始，渡邊在她自己的部落格發表定期現場公演。
+    右合音。與擔任左合音的村上相同，但是在首張單曲「」的另一首收錄歌曲「」是由負責作詞的渡邊獻唱。雖然不是Mi-Ke的樂曲，不過在[Youtube可以看到渡邊於現場進行演唱的影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")。2008年2月開始，渡邊在她自己的部落格發表定期現場公演。
 
 ## 作品列表
 
@@ -292,7 +292,7 @@ HITS歌謠祭大獎](../Page/BEST_HITS歌謠祭.md "wikilink")）、[日本金�
 </tr>
 <tr class="odd">
 <td><p>藍光的橫須賀</p></td>
-<td><p>日本電視台問答節目《<a href="../Page/運財智叻星.md" title="wikilink">運財智叻星</a>》片尾主題曲</p></td>
+<td><p>日本電視台問答節目《<a href="https://zh.wikipedia.org/wiki/運財智叻星" title="wikilink">運財智叻星</a>》片尾主題曲</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -333,11 +333,11 @@ HITS歌謠祭大獎](../Page/BEST_HITS歌謠祭.md "wikilink")）、[日本金�
 
 ### NHK紅白歌合戰
 
-| 年度／放送回           | 參加次數 | 演唱歌曲       | 出演日期   | 白組對手                                   |
-| ---------------- | ---- | ---------- | ------ | -------------------------------------- |
-| 1991年（平成3年）／第42回 | 初    | 回憶的九十九里海岸  | 12月28日 | [美川憲一](../Page/美川憲一.md "wikilink")     |
-| 1992年（平成4年）／第43回 | 2    | 淚的Vacation | 5月28日  | [光GENJI](../Page/光GENJI.md "wikilink") |
-|                  |      |            |        |                                        |
+| 年度／放送回           | 參加次數 | 演唱歌曲       | 出演日期   | 白組對手                                                  |
+| ---------------- | ---- | ---------- | ------ | ----------------------------------------------------- |
+| 1991年（平成3年）／第42回 | 初    | 回憶的九十九里海岸  | 12月28日 | [美川憲一](https://zh.wikipedia.org/wiki/美川憲一 "wikilink") |
+| 1992年（平成4年）／第43回 | 2    | 淚的Vacation | 5月28日  | [光GENJI](../Page/光GENJI.md "wikilink")                |
+|                  |      |            |        |                                                       |
 
 ### 電視節目
 
@@ -349,7 +349,7 @@ HITS歌謠祭大獎](../Page/BEST_HITS歌謠祭.md "wikilink")）、[日本金�
 
   - （[日本電視台](../Page/日本電視台.md "wikilink")）
 
-  - [運財智叻星](../Page/運財智叻星.md "wikilink")（1992年8月26日，日本電視台等）
+  - [運財智叻星](https://zh.wikipedia.org/wiki/運財智叻星 "wikilink")（1992年8月26日，日本電視台等）
 
   - （TBS）
 

@@ -1,4 +1,4 @@
-**B.Gs**，為一隊[香港](../Page/香港.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")，現任成員包括鄒莉盈（Ceci）、方堯（Yona）、周汶希（Jovi）、霍柔心（Riley）及唐菲（Toffee），B.Gs
+**B.Gs**，為一隊[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，現任成員包括鄒莉盈（Ceci）、方堯（Yona）、周汶希（Jovi）、霍柔心（Riley）及唐菲（Toffee），B.Gs
 於2015年正式加入樂壇。
 
 ### EP
@@ -17,10 +17,10 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="../Page/B_for_BGs.md" title="wikilink">B for BGs</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/B_for_BGs" title="wikilink">B for BGs</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
-<td style="text-align: left;"><p><a href="../Page/KISS_K.C.V..md" title="wikilink">KISS K.C.V.</a><br />
-<a href="../Page/星娛樂.md" title="wikilink">星娛樂</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/KISS_K.C.V." title="wikilink">KISS K.C.V.</a><br />
+<a href="https://zh.wikipedia.org/wiki/星娛樂" title="wikilink">星娛樂</a></p></td>
 <td style="text-align: left;"><p>2016年5月31日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
@@ -34,8 +34,8 @@
 <td style="text-align: left;"><p>2nd</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><p><a href="../Page/KISS_K.C.V..md" title="wikilink">KISS K.C.V.</a><br />
-<a href="../Page/星娛樂.md" title="wikilink">星娛樂</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/KISS_K.C.V." title="wikilink">KISS K.C.V.</a><br />
+<a href="https://zh.wikipedia.org/wiki/星娛樂" title="wikilink">星娛樂</a></p></td>
 <td style="text-align: left;"><p>--年--月--日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>

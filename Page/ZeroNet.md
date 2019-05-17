@@ -1,6 +1,6 @@
-**ZeroNet**，中文被译为“**零网**”，是一个以[对等网络用户为基础构成的类](../Page/对等网络.md "wikilink")[互联网的](../Page/互联网.md "wikilink")[分布式](../Page/去中心化.md "wikilink")[网络](../Page/计算机网络.md "wikilink")。支持[ipv4](../Page/ipv4.md "wikilink"),[ipv6](../Page/ipv6.md "wikilink"),[cjdns协议](../Page/cjdns.md "wikilink")。ZeroNet的总部位于[匈牙利的](../Page/匈牙利.md "wikilink")[布达佩斯](../Page/布达佩斯.md "wikilink")。ZeroNet默认不提供匿名保护，但用户可以使用[Tor来隐藏IP地址以达到](../Page/Tor.md "wikilink")[匿名效果](../Page/匿名.md "wikilink")。此软件自带的[Tor网络在中国大陆被封禁](../Page/Tor.md "wikilink")，用户可能需要前置VPN才能正常下载初始配置文件。\[1\]
+**ZeroNet**，中文被译为“**零网**”，是一个以[对等网络用户为基础构成的类](https://zh.wikipedia.org/wiki/对等网络 "wikilink")[互联网的](../Page/互联网.md "wikilink")[分布式](https://zh.wikipedia.org/wiki/去中心化 "wikilink")[网络](../Page/计算机网络.md "wikilink")。支持[ipv4](https://zh.wikipedia.org/wiki/ipv4 "wikilink"),[ipv6](https://zh.wikipedia.org/wiki/ipv6 "wikilink"),[cjdns协议](https://zh.wikipedia.org/wiki/cjdns "wikilink")。ZeroNet的总部位于[匈牙利的](../Page/匈牙利.md "wikilink")[布达佩斯](../Page/布达佩斯.md "wikilink")。ZeroNet默认不提供匿名保护，但用户可以使用[Tor来隐藏IP地址以达到](../Page/Tor.md "wikilink")[匿名效果](../Page/匿名.md "wikilink")。此软件自带的[Tor网络在中国大陆被封禁](../Page/Tor.md "wikilink")，用户可能需要前置VPN才能正常下载初始配置文件。\[1\]
 
-ZeroNet使用了[比特币](../Page/比特币.md "wikilink")[加密技术和](../Page/密码学.md "wikilink")[BitTorrent网络协议](../Page/BitTorrent_\(协议\).md "wikilink")。\[2\]\[3\]\[4\]现时该平台上托管了很多热门网站，而[邮件客户端](../Page/邮件客户端.md "wikilink")、[文件管理器和新闻客户端等专有功能也为ZeroNet的生态系统增加了价值](../Page/文件管理器.md "wikilink")。\[5\]
+ZeroNet使用了[比特币](../Page/比特币.md "wikilink")[加密技术和](../Page/密码学.md "wikilink")[BitTorrent网络协议](../Page/BitTorrent_\(协议\).md "wikilink")。\[2\]\[3\]\[4\]现时该平台上托管了很多热门网站，而[邮件客户端](https://zh.wikipedia.org/wiki/邮件客户端 "wikilink")、[文件管理器和新闻客户端等专有功能也为ZeroNet的生态系统增加了价值](https://zh.wikipedia.org/wiki/文件管理器 "wikilink")。\[5\]
 
 ## 参见
 
@@ -10,7 +10,7 @@ ZeroNet使用了[比特币](../Page/比特币.md "wikilink")[加密技术和](..
   - [自由网](../Page/自由网.md "wikilink")
   - [海盜灣](../Page/海盜灣.md "wikilink")
   - [EDonkey网络](../Page/EDonkey网络.md "wikilink")
-  - [分布式网络](../Page/分布式网络.md "wikilink")
+  - [分布式网络](https://zh.wikipedia.org/wiki/分布式网络 "wikilink")
   - [對等網路](../Page/對等網路.md "wikilink")
 
 ## 参考资料

@@ -1,6 +1,6 @@
 **Trysail**（\[1\]）是[Music
-Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](../Page/聲優組合.md "wikilink")。所屬唱片公司為[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")。2014年組成\[2\]、2015年正式開始活動\[3\]。
+Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[SACRA
+MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。2014年組成\[2\]、2015年正式開始活動\[3\]。
 
 ## 概要
 
@@ -18,7 +18,7 @@ harmony」第53回中決定以「TrySail」團體名義開始活動\[7\]。
 Dreamer」\[8\]。
 
 2017年4月，由原先[Aniplex移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/Aniplex.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
+MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[9\]
 
 ## 成員
 
@@ -33,22 +33,22 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/麻倉桃.md" title="wikilink">麻倉桃</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/麻倉桃" title="wikilink">麻倉桃</a></strong></p></td>
 <td><p>1994年6月25日</p></td>
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
-<td><p><a href="../Page/粉紅色.md" title="wikilink">粉紅色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/粉紅色" title="wikilink">粉紅色</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/雨宮天.md" title="wikilink">雨宮天</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/雨宮天" title="wikilink">雨宮天</a></strong></p></td>
 <td><p>1993年8月28日</p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/藍.md" title="wikilink">藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藍" title="wikilink">藍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/夏川椎菜.md" title="wikilink">夏川椎菜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/夏川椎菜" title="wikilink">夏川椎菜</a></strong></p></td>
 <td><p>1996年7月18日</p></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/黃色.md" title="wikilink">黃色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃色" title="wikilink">黃色</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -212,7 +212,7 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 <tbody>
 <tr class="odd">
 <td><p>Youthful Dreamer</p></td>
-<td><p><a href="../Page/電視動畫.md" title="wikilink">電視動畫</a>《<a href="../Page/電波教師.md" title="wikilink">電波教師</a>》片頭曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a>《<a href="../Page/電波教師.md" title="wikilink">電波教師</a>》片頭曲</p></td>
 <td><p>2015年</p></td>
 </tr>
 <tr class="even">
@@ -237,27 +237,27 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 </tr>
 <tr class="even">
 <td><p>かかわり</p></td>
-<td><p>手機遊戲《<a href="../Page/魔法紀錄_魔法少女小圓外傳.md" title="wikilink">魔法紀錄 魔法少女小圓外傳</a>》主題曲</p></td>
+<td><p>手機遊戲《<a href="https://zh.wikipedia.org/wiki/魔法紀錄_魔法少女小圓外傳" title="wikilink">魔法紀錄 魔法少女小圓外傳</a>》主題曲</p></td>
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
 <td><p>オリジナル。</p></td>
-<td><p>電視動畫《<a href="../Page/亞人醬有話要說.md" title="wikilink">亞人醬有話要說</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/亞人醬有話要說" title="wikilink">亞人醬有話要說</a>》片頭曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>adrenaline</p></td>
 <td><p>!</p></td>
-<td><p>電視動畫《<a href="../Page/情色漫畫老師.md" title="wikilink">情色漫畫老師</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/情色漫畫老師" title="wikilink">情色漫畫老師</a>》片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>WANTED GIRL</p></td>
-<td><p>電視動畫《<a href="../Page/時間飛船24.md" title="wikilink">時間飛船24 逆襲的三惡人</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/時間飛船24" title="wikilink">時間飛船24 逆襲的三惡人</a>》片頭曲</p></td>
 <td><p>2018年</p></td>
 </tr>
 <tr class="even">
 <td><p>Truth.</p></td>
-<td><p>電視動畫《<a href="../Page/沒有心跳的少女_BEATLESS.md" title="wikilink">沒有心跳的少女 BEATLESS</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/沒有心跳的少女_BEATLESS" title="wikilink">沒有心跳的少女 BEATLESS</a>》片頭曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -293,13 +293,13 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
-1.  『[声優グランプリ](../Page/声優グランプリ.md "wikilink")』2015年3月號、[主婦之友社](../Page/主婦之友社.md "wikilink")、2015年3月、31頁。
+1.  『[声優グランプリ](https://zh.wikipedia.org/wiki/声優グランプリ "wikilink")』2015年3月號、[主婦之友社](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")、2015年3月、31頁。
 
 2.  『B.L.T. VOICE
-    GIRLS』vol.22、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")、2015年4月、37-38頁。
+    GIRLS』vol.22、[東京ニュース通信社](https://zh.wikipedia.org/wiki/東京ニュース通信社 "wikilink")、2015年4月、37-38頁。
 
 3.
-4.  『[声優グランプリ](../Page/声優グランプリ.md "wikilink")』2015年4月号、[主婦之友社](../Page/主婦之友社.md "wikilink")、2015年4月、44-45頁。
+4.  『[声優グランプリ](https://zh.wikipedia.org/wiki/声優グランプリ "wikilink")』2015年4月号、[主婦之友社](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")、2015年4月、44-45頁。
 
 5.  [＜アニメジャパン＞松井玲奈、「TrySail」の生歌を絶賛！「アニメにぴったり」 - ゲーム＆アニメ - ニュース -
     クランクイン！](http://www.crank-in.net/game_animation/news/35971)、2015年5月1日閲覧。

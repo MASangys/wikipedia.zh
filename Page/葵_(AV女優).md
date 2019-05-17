@@ -1,22 +1,22 @@
 **葵**（，1994年12月3日 -
-），[日本的](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，[秋田縣出身](../Page/秋田縣.md "wikilink")。现為「[S1](../Page/S1_\(AV公司\).md "wikilink")」的專屬女優\[1\]，所屬於「[T-POWERS](../Page/T-POWERS.md "wikilink")」事務所。
+），[日本的](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，[秋田縣出身](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")。现為「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」的專屬女優\[1\]，所屬於「[T-POWERS](../Page/T-POWERS.md "wikilink")」事務所。
 
 ## 人物
 
-  - 興趣是看[電影跟](../Page/電影.md "wikilink")[美容](../Page/美容.md "wikilink")，擅長玩[手機APP](../Page/行動應用程式.md "wikilink")《》\[2\]。
+  - 興趣是看[電影跟](https://zh.wikipedia.org/wiki/電影 "wikilink")[美容](../Page/美容.md "wikilink")，擅長玩[手機APP](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")《》\[2\]。
   - 出道之前曾擔任\[3\]。
   - 從小學開始吃冰一直到高中\[4\]。
-  - 她是[漫畫](../Page/漫畫.md "wikilink")[迷](../Page/愛好者.md "wikilink")，包括《[烙印勇士](../Page/烙印勇士.md "wikilink")》、《[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")》、《[福星小子](../Page/福星小子.md "wikilink")》，喜歡《[七龍珠](../Page/七龍珠.md "wikilink")》裡面的人物培植人（栽培マン）\[5\]。
-  - 喜歡[春天和](../Page/春天.md "wikilink")[旅行還有](../Page/旅行.md "wikilink")[貓熊](../Page/貓熊.md "wikilink")\[6\]。喜歡吃的東西有[軟糖](../Page/軟糖.md "wikilink")、[章魚燒](../Page/章魚燒.md "wikilink")、[鰻魚](../Page/鰻魚.md "wikilink")、[赤鯥](../Page/赤鯥.md "wikilink")、[麵包](../Page/麵包.md "wikilink")、[竹輪](../Page/竹輪.md "wikilink")、[黃瓜](../Page/黃瓜.md "wikilink")、[草莓](../Page/草莓.md "wikilink")、[奶油起司等等](../Page/奶油芝士.md "wikilink")，不喜歡[冷](../Page/冷.md "wikilink")、[豆沙](../Page/豆沙.md "wikilink")、[巧克力](../Page/巧克力.md "wikilink")、[餅乾](../Page/餅乾.md "wikilink")\[7\]。她也不喜歡[昆蟲和](../Page/昆蟲.md "wikilink")[蛇](../Page/蛇.md "wikilink")，但是喜歡[蜥蜴](../Page/蜥蜴.md "wikilink")\[8\]。
-  - 首次亮相的機會是透過熟人的介紹，因為沒有明確的細節，所以只演出了一部作品並在臉部打上[馬賽克](../Page/馬賽克.md "wikilink")\[9\]。
+  - 她是[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[迷](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，包括《[烙印勇士](https://zh.wikipedia.org/wiki/烙印勇士 "wikilink")》、《[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")》、《[福星小子](../Page/福星小子.md "wikilink")》，喜歡《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》裡面的人物培植人（栽培マン）\[5\]。
+  - 喜歡[春天和](https://zh.wikipedia.org/wiki/春天 "wikilink")[旅行還有](https://zh.wikipedia.org/wiki/旅行 "wikilink")[貓熊](https://zh.wikipedia.org/wiki/貓熊 "wikilink")\[6\]。喜歡吃的東西有[軟糖](https://zh.wikipedia.org/wiki/軟糖 "wikilink")、[章魚燒](../Page/章魚燒.md "wikilink")、[鰻魚](https://zh.wikipedia.org/wiki/鰻魚 "wikilink")、[赤鯥](../Page/赤鯥.md "wikilink")、[麵包](../Page/麵包.md "wikilink")、[竹輪](../Page/竹輪.md "wikilink")、[黃瓜](https://zh.wikipedia.org/wiki/黃瓜 "wikilink")、[草莓](../Page/草莓.md "wikilink")、[奶油起司等等](https://zh.wikipedia.org/wiki/奶油芝士 "wikilink")，不喜歡[冷](../Page/冷.md "wikilink")、[豆沙](https://zh.wikipedia.org/wiki/豆沙 "wikilink")、[巧克力](../Page/巧克力.md "wikilink")、[餅乾](https://zh.wikipedia.org/wiki/餅乾 "wikilink")\[7\]。她也不喜歡[昆蟲和](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")[蛇](../Page/蛇.md "wikilink")，但是喜歡[蜥蜴](../Page/蜥蜴.md "wikilink")\[8\]。
+  - 首次亮相的機會是透過熟人的介紹，因為沒有明確的細節，所以只演出了一部作品並在臉部打上[馬賽克](https://zh.wikipedia.org/wiki/馬賽克 "wikilink")\[9\]。
   - 在「葵」這個[藝名決定之前曾經有人建議叫做](../Page/藝名.md "wikilink")「冴羽葵」\[10\]。
   - 曾在個人[Twitter上發文控訴剪髮店家在](../Page/Twitter.md "wikilink")[染髮時導致她髮質嚴重受損](../Page/染髮.md "wikilink")，生活受到嚴重影響\[11\]。
 
 ## 簡歷
 
-2014年10月，在日本[AV片商](../Page/AV片商.md "wikilink")「[S1](../Page/S1_\(AV公司\).md "wikilink")」以專屬女優身分[AV](../Page/AV.md "wikilink")[出道](../Page/出道.md "wikilink")\[12\]\[13\]，所屬於「」事務所\[14\]。
+2014年10月，在日本[AV片商](https://zh.wikipedia.org/wiki/AV片商 "wikilink")「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」以專屬女優身分[AV](https://zh.wikipedia.org/wiki/AV "wikilink")[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")\[12\]\[13\]，所屬於「」事務所\[14\]。
 
-2015年3月，被提名《[DMM成人獎](../Page/DMM成人獎.md "wikilink")》2015「最優秀新人女優獎」\[15\]\[16\]\[17\]。
+2015年3月，被提名《[DMM成人獎](https://zh.wikipedia.org/wiki/DMM成人獎 "wikilink")》2015「最優秀新人女優獎」\[15\]\[16\]\[17\]。
 
 2017年9月，發行了個人出道3年的紀念作\[18\]，經紀公司「LATANA」事務所宣布不與她續約\[19\]，同時間與S1的合約也到期\[20\]。
 
@@ -26,7 +26,7 @@
 
 ### AV
 
-※所有未標示製造商的作品皆為「[S1](../Page/S1_\(AV公司\).md "wikilink")」專屬
+※所有未標示製造商的作品皆為「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」專屬
 
   - 2014年
 
@@ -51,7 +51,7 @@
   - 痴漢願望の女 変態女教師編（7月7日）
   - 下着モデルをさせられて…（8月7日）
   - 葵 S1ギリモザ8時間ベスト Vol.1（8月19日）※個人精選
-  - エスワン七姉妹と同棲ハーレム性活（9月1日）共演：[葵司](../Page/葵司.md "wikilink")、[奥田咲](../Page/奥田咲.md "wikilink")、[小島南](../Page/小島南.md "wikilink")、[美里有紗](../Page/美里有紗.md "wikilink")
+  - エスワン七姉妹と同棲ハーレム性活（9月1日）共演：[葵司](https://zh.wikipedia.org/wiki/葵司 "wikilink")、[奥田咲](../Page/奥田咲.md "wikilink")、[小島南](https://zh.wikipedia.org/wiki/小島南 "wikilink")、[美里有紗](../Page/美里有紗.md "wikilink")
     、[天使萌](../Page/天使萌.md "wikilink")
     、[星野娜美](../Page/星野娜美.md "wikilink")
   - 美乳がポロリ（9月7日）
@@ -70,7 +70,7 @@
   - 新米教師のわたしは、オッパイが大きいせいか思春期の生徒たちのオモチャにされ皆がいる前で全裸授業をさせられています。 (3月7日)
   - 完全固定されて身動きが取れない 葵 腰がガクガク砕けるまでイッてもイッても止めない無限ピストンSEX（4月7日）
   - 葵 S1ギリモザ8時間ベストVol．2
-    （ブルーレイ）（5月19日）※個人精選，同時發行[Blu-ray版本](../Page/Blu-ray.md "wikilink")
+    （ブルーレイ）（5月19日）※個人精選，同時發行[Blu-ray版本](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
   - 中から出てくる白濁汁（6月7日）
   - どこでも出張風俗デリバリー！街角で素人さんを逆ナンパしてHcup葵がご奉仕風俗プレイしちゃいます！（7月7日）
   - 1ヵ月間セックスもオナニーも禁止されムラムラ全開でアドレナリン爆発！痙攣しまくり性欲剥き出しFUCK（8月7日）
@@ -112,7 +112,7 @@
   - 3DCG同人史上もっともヌかれた名作を実写化！ 夏の約束 ～お姉ちゃんとひと夏の思い出～（9月7日）\[24\]
   - バレたくない状況で声も出せない 女教師サイレント強制レ●プ（10月7日）
   - エスワン15周年スペシャル大共演 第1弾 4大スーパーボディ4輪車
-    最高級ハーレム風俗マンションへようこそ（10月19日）共演：奥田咲、星野娜美、[松本菜奈實](../Page/松本菜奈實.md "wikilink")
+    最高級ハーレム風俗マンションへようこそ（10月19日）共演：奥田咲、星野娜美、[松本菜奈實](https://zh.wikipedia.org/wiki/松本菜奈實 "wikilink")
   - 優し過ぎて本番までご奉仕ハッスル！！ Hcupプルプルおっパブ嬢（11月7日）
   - 絶対にお持ち帰りできる海の家ナンパ相席居酒屋（12月7日）\[25\]
 
@@ -152,8 +152,8 @@
   - [週刊プレイボーイ](../Page/週刊Playboy.md "wikilink")
     2014年12月號（2014年11月25日、[集英社](../Page/集英社.md "wikilink")）
 
-  - [FRIDAY](../Page/星期五_\(雜誌\).md "wikilink")
-    2014年12月號（2014年12月19日、[講談社](../Page/講談社.md "wikilink")）
+  - [FRIDAY](https://zh.wikipedia.org/wiki/星期五_\(雜誌\) "wikilink")
+    2014年12月號（2014年12月19日、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
 
   - 2014年12月號（2014年12月18日、日本ジャーナル出版）
 
@@ -179,7 +179,7 @@
 
   - Sweet Angel（2014年10月17日、MONDO TV）
   - チャンネル生回転TV Midnightザップ\!（2015年2月11日、BSスカパー\!）
-  - もう\!バカリズムさんのドH\!（2016年2月29日、[NOTTV](../Page/NOTTV.md "wikilink")）
+  - もう\!バカリズムさんのドH\!（2016年2月29日、[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）
 
 ### V電影
 

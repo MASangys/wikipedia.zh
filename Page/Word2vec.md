@@ -1,8 +1,8 @@
-**Word2vec**，為一群用來產生[詞向量的相關模型](../Page/詞嵌入.md "wikilink")。這些模型為淺层雙層的[神經網路](../Page/神經網路.md "wikilink")，用來訓練以重新建構語言學之詞文本。網路以詞表現，並且需猜測相鄰位置的輸入詞，在word2vec中[词袋模型假設下](../Page/词袋模型.md "wikilink")，詞的順序是不重要的。
+**Word2vec**，為一群用來產生[詞向量的相關模型](https://zh.wikipedia.org/wiki/詞嵌入 "wikilink")。這些模型為淺层雙層的[神經網路](https://zh.wikipedia.org/wiki/神經網路 "wikilink")，用來訓練以重新建構語言學之詞文本。網路以詞表現，並且需猜測相鄰位置的輸入詞，在word2vec中[词袋模型假設下](../Page/词袋模型.md "wikilink")，詞的順序是不重要的。
 
 訓練完成之後，word2vec模型可用來映射每個詞到一個向量，可用來表示詞對詞之間的關係。該向量為神經網路之隱藏層\[1\]。
 
-Word2vec依賴skip-grams或[連續詞袋](../Page/詞袋模型.md "wikilink")（CBOW）來建立神經詞嵌入。Word2vec為托馬斯·米科洛夫（Tomas
+Word2vec依賴skip-grams或[連續詞袋](https://zh.wikipedia.org/wiki/詞袋模型 "wikilink")（CBOW）來建立神經詞嵌入。Word2vec為托馬斯·米科洛夫（Tomas
 Mikolov）在[Google帶領的研究團隊創造](../Page/Google.md "wikilink")。該演算法漸漸被其他人所分析和解釋\[2\]\[3\]。
 
 ## Skip-grams和CBOW
@@ -17,9 +17,9 @@ Java/Scala\[7\]實做成工具（參考下方）。Java和Python也支援推斷�
 
 ## 分析
 
-對word2vec框架為何做[词嵌入如此成功知之甚少](../Page/词嵌入.md "wikilink")，約阿夫·哥德堡（Yoav
+對word2vec框架為何做[词嵌入如此成功知之甚少](https://zh.wikipedia.org/wiki/词嵌入 "wikilink")，約阿夫·哥德堡（Yoav
 Goldberg）和歐莫·列維（Omer
-Levy）指出word2vec的功能導致相似文本擁有相似的嵌入（用[余弦相似性計算](../Page/余弦相似性.md "wikilink")）並且和[約翰·魯伯特·弗斯的](../Page/約翰·魯伯特·弗斯.md "wikilink")有關。
+Levy）指出word2vec的功能導致相似文本擁有相似的嵌入（用[余弦相似性計算](../Page/余弦相似性.md "wikilink")）並且和[約翰·魯伯特·弗斯的](https://zh.wikipedia.org/wiki/約翰·魯伯特·弗斯 "wikilink")有關。
 
 ## 實作
 

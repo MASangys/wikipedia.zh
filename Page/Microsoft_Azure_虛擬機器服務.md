@@ -23,7 +23,8 @@ A0\~A4 (Extra Small, Small, Medium, Large, Extra Large)
 ## 虛擬機器類型
 
 Azure 虛擬機器依照運算能力區分為數種類型 \[1\]，共分為一般性運算能量的 A 類型、經效能提升的 D 類型以及擁有最強運算效能的 G
-類型，未來也會推出使用[GPU運算的](../Page/GPU.md "wikilink") N 類型。
+類型，未來也會推出使用[GPU運算的](https://zh.wikipedia.org/wiki/GPU "wikilink") N
+類型。
 
 ### Azure 計算單元
 
@@ -32,9 +33,9 @@ Standard_A1 虛擬機等級為標準，數值為 100。
 
 ### A 類型
 
-A 類型是 Azure 一開始就提供的標準虛擬機器類型，使用 [AMD](../Page/AMD.md "wikilink") 的 CPU
-以及傳統 [SATA](../Page/SATA.md "wikilink")
-介面的硬碟，提供最標準不需太高運算能量的應用，早期是以五種規格推出，分別是
+A 類型是 Azure 一開始就提供的標準虛擬機器類型，使用
+[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 的 CPU 以及傳統
+[SATA](../Page/SATA.md "wikilink") 介面的硬碟，提供最標準不需太高運算能量的應用，早期是以五種規格推出，分別是
 Extra Small (XS)、Small (S)、Medium (M)、Large (L) 以及 Extra Large (XL)
 五種，除了 XS 記憶體使用 0.75GB 記憶體外，其他是以 1.75GB
 記憶體，每晉一級就會加倍，可作為衡量運算資源與成本的標準之一。不過在虛擬機器種類愈來愈多的情況下，A
@@ -76,9 +77,9 @@ Av2 系列的 ACU 為 100。
 ### D 類型
 
 D 類型是 Azure 在 2013 年推出的類型，它使用比 A 類型更好的 CPU，並且在實體伺服器上使用固態硬碟
-([SSD](../Page/SSD.md "wikilink"))，以加速在本地運算時的 I/O 速度，另外，為滿足提升虛擬機器本身的 I/O
-量的需求，微軟開發了高階儲存體 (Premium Storage) 用來保存虛擬機使用的 VHD (稱為 OS Disk)，而使用高階儲存體的
-D 類型虛擬機器，稱為 DS 類型。
+([SSD](https://zh.wikipedia.org/wiki/SSD "wikilink"))，以加速在本地運算時的 I/O
+速度，另外，為滿足提升虛擬機器本身的 I/O 量的需求，微軟開發了高階儲存體 (Premium Storage)
+用來保存虛擬機使用的 VHD (稱為 OS Disk)，而使用高階儲存體的 D 類型虛擬機器，稱為 DS 類型。
 
 D 與 DS 類型的 ACU 為 160。
 
@@ -224,9 +225,10 @@ DSv2 類型的 ACU 為 210\~250。
 ### G 類型
 
 G 類型是 Azure 擁有最強運算與 I/O 能量的虛擬機器，它使用 [Intel
-Xeon](../Page/Intel_Xeon.md "wikilink") E5 v3 系列
-CPU，並且配備較大量的記憶體，可用於需要大量又高速的運算需求，例如資料庫或是科學運算。與
-D 類型相同，G 類型也可利用高階儲存體來加速 I/O，使用高階儲存體的 G 類型虛擬機器，稱為 GS 類型。
+Xeon](https://zh.wikipedia.org/wiki/Intel_Xeon "wikilink") E5 v3 系列
+CPU，並且配備較大量的記憶體，可用於需要大量又高速的運算需求，例如資料庫或是科學運算。與 D 類型相同，G
+類型也可利用高階儲存體來加速 I/O，使用高階儲存體的 G 類型虛擬機器，稱為 GS
+類型。
 
 G/GS 系列的 ACU 為 180\~240。
 
@@ -431,8 +433,8 @@ H 系列的 ACU 為 290\~300。
 
 ## 作業系統類型
 
-Azure 虛擬機器支援 [Windows](../Page/Windows.md "wikilink") 與
-[Linux](../Page/Linux.md "wikilink") 作業系統，並且依 Azure
+Azure 虛擬機器支援 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
+與 [Linux](../Page/Linux.md "wikilink") 作業系統，並且依 Azure
 與其協力廠商或夥伴的合作關係，提供有預先搭載軟體的虛擬機器映像
 (Image)。
 
@@ -440,9 +442,9 @@ Azure 虛擬機器支援 [Windows](../Page/Windows.md "wikilink") 與
 
 Azure 支援下列 Linux 作業系統：
 
-  - [OpenLogic](../Page/OpenLogic.md "wikilink")
+  - [OpenLogic](https://zh.wikipedia.org/wiki/OpenLogic "wikilink")
     [CentOS](../Page/CentOS.md "wikilink") 6.3+, 7.0+
-  - [CoreOS](../Page/CoreOS.md "wikilink") 494.4.0+
+  - [CoreOS](https://zh.wikipedia.org/wiki/CoreOS "wikilink") 494.4.0+
   - [Debian](../Page/Debian.md "wikilink") 7.9+, 8.2+
   - [Oracle Linux](../Page/Oracle_Linux.md "wikilink") 6.4+, 7.0+
   - [Red Hat Enterprise
@@ -460,12 +462,14 @@ Azure 支援下列 Windows 作業系統:
     R2](../Page/Windows_Server_2008_R2.md "wikilink") SP1
   - [Windows Server 2012](../Page/Windows_Server_2012.md "wikilink")
   - [Windows Server 2012
-    R2](../Page/Windows_Server_2012_R2.md "wikilink")
+    R2](https://zh.wikipedia.org/wiki/Windows_Server_2012_R2 "wikilink")
   - [Windows Server 2016](../Page/Windows_Server_2016.md "wikilink")
-  - [Windows 7](../Page/Windows_7.md "wikilink")、[Windows
-    8](../Page/Windows_8.md "wikilink")、[Windows
+  - [Windows
+    7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
+    8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
     8.1](../Page/Windows_8.1.md "wikilink")、[Windows
-    10](../Page/Windows_10.md "wikilink") 等用戶端作業系統 (僅有 MSDN 訂閱戶才能使用)
+    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink") 等用戶端作業系統
+    (僅有 MSDN 訂閱戶才能使用)
 
 ### 預載軟體
 
@@ -489,8 +493,9 @@ Azure
 [Microsoft Azure 儲存體](../Page/Microsoft_Azure_儲存體.md "wikilink") 內的
 VHD，又稱為 **作業系統磁碟 (OS Disk)**，最大容量 127GB，Azure
 供應的標準作業系統都是採用這個規格建置，若是由企業自行使用
-[Hyper-V](../Page/Hyper-V.md "wikilink") 製作的映像，則視當時製作時使用的大小決定，但不可超過
-127GB (這是 VHD 的技術限制)。
+[Hyper-V](https://zh.wikipedia.org/wiki/Hyper-V "wikilink")
+製作的映像，則視當時製作時使用的大小決定，但不可超過 127GB (這是 VHD
+的技術限制)。
 
 另一個是虛擬機器所在的實體伺服器上的硬碟 (D:\\ 或 /dev/sdb)，依虛擬機器的類型不同，可以是 SATA 磁碟機 (A 類型) 或是
 SSD 磁碟機 (D 與 G 類型)，但它們的共通點是，它們都只適合用來暫存資料，因此被稱為**暫存磁碟機 (Temporary
@@ -528,8 +533,8 @@ DNS 連入，同時 Azure 負載平衡器上的通訊埠也是由Azure 雲端服
 
 ## 管理方式
 
-虛擬機器建置完成後，可採用遠端桌面 (Remote Desktop) 或是 [SSH](../Page/SSH.md "wikilink")
-的連線方式連至虛擬機器進行管理。
+虛擬機器建置完成後，可採用遠端桌面 (Remote Desktop) 或是
+[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink") 的連線方式連至虛擬機器進行管理。
 
 對虛擬機器的組態，則有幾個管道能進行:
 
@@ -544,7 +549,7 @@ DNS 連入，同時 Azure 負載平衡器上的通訊埠也是由Azure 雲端服
 為達成高可用度 (High Availability)，Azure 虛擬機器採用了可用集 (Availability Set) 的概念
 \[3\]，可用集規範了虛擬機器的失效域配置 (Fault Domain)，當虛擬機器部署在同一個可用集時，其實體的部署就不會放在同一個機架
 (Rack)
-的伺服器內，而是會分散配置，以避免因為機架出問題導致的單點失效問題。系統管理人員可依需求設定一個或多個可用集來配置虛擬機器，以提升可用度。同時，若需要實作跨區域的高可用度，系統管理人員也可以利用[Azure站台復原](../Page/Azure站台復原.md "wikilink")
+的伺服器內，而是會分散配置，以避免因為機架出問題導致的單點失效問題。系統管理人員可依需求設定一個或多個可用集來配置虛擬機器，以提升可用度。同時，若需要實作跨區域的高可用度，系統管理人員也可以利用[Azure站台復原](https://zh.wikipedia.org/wiki/Azure站台復原 "wikilink")
 (Azure Site Recovery) 備援服務處理虛擬機器雲端對雲端的備援工作。
 
 Azure 虛擬機器支援橫向 (Scale Out/In) 自動擴展 (Auto Scale)，與手動的縱向擴展 (Scale

@@ -1,4 +1,4 @@
-為[日本](../Page/日本.md "wikilink")[朝日電視台自](../Page/朝日電視台.md "wikilink")2016年4月[朝日電視台週四晚間九點連續劇播出的](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")[電視連續劇](../Page/電視連續劇.md "wikilink")，由[竹野內豐主演](../Page/竹野內豐.md "wikilink")\[1\]。
+為[日本](../Page/日本.md "wikilink")[朝日電視台自](../Page/朝日電視台.md "wikilink")2016年4月[朝日電視台週四晚間九點連續劇播出的](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[竹野內豐主演](../Page/竹野內豐.md "wikilink")\[1\]。
 
 ## 簡介
 
@@ -13,7 +13,7 @@
 
   - 咲坂健人
     演 -
-    [竹野内豐](../Page/竹野内豐.md "wikilink")（香港配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")）
+    [竹野内豐](https://zh.wikipedia.org/wiki/竹野内豐 "wikilink")（香港配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")）
     Good Partner律師。與佳惠為前夫婦關係\[3\]。
   - 夏目佳惠
     演 -
@@ -28,17 +28,17 @@
     新人助理律師\[4\]。
   - 赤星元
     演 -
-    [山崎育三郎](../Page/山崎育三郎.md "wikilink")（香港配音：[張裕東](../Page/張裕東.md "wikilink")）
+    [山崎育三郎](../Page/山崎育三郎.md "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
     助理律師\[5\]。
   - 貓田純一
     演 -
-    [杉本哲太](../Page/杉本哲太.md "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+    [杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
     Good Partner律師。
   - 城之内麻里（城ノ内麻里）
     演 - （香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
     助理律師。
   - 茂木里美（茂木さとみ）
-    演 - （香港配音：[林元春](../Page/林元春.md "wikilink")）
+    演 - （香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
     （）。
   - 朝丘理惠子
     演 - （香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
@@ -60,7 +60,7 @@
     咲坂與佳惠的女兒\[6\]。
   - 仙石雪之丞
     演 -
-    [合田雅吏](../Page/合田雅吏.md "wikilink")（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）
+    [合田雅吏](https://zh.wikipedia.org/wiki/合田雅吏 "wikilink")（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）
     [日本舞老師](../Page/日本舞.md "wikilink")。
   - 阮
     演 - （香港配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
@@ -72,7 +72,7 @@
 
   - 重國夕子
     演 -
-    [鈴木杏樹](../Page/鈴木杏樹.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+    [鈴木杏樹](https://zh.wikipedia.org/wiki/鈴木杏樹 "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
     「Mommy Design」社長。
   - 村岡雅美
     演 - （香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
@@ -96,13 +96,13 @@
     演 - 松葉洋人（香港配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
     「岬、麥堅利」法律事務所所屬律師。
   - 前園薫
-    演 - （香港配音：[馮錦堂](../Page/馮錦堂.md "wikilink")）
+    演 - （香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
     「帝都廣告」法務部長。
   - 長谷川祐二
     演 - （香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
     前園的部下。
   - 橋本直之
-    演 - （香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
+    演 - （香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
     「帝都廣告」法務部課長。
   - 柿内萌子
     演 - 前野惠（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
@@ -123,7 +123,7 @@
     [高橋光臣](../Page/高橋光臣.md "wikilink")（－第3集）（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
     「Huga cloud」的執行長。
   - 日向美紀
-    演 - （－第3集）（香港配音：[梁少霞](../Page/梁少霞.md "wikilink")）
+    演 - （－第3集）（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
     日向的妻子。
   - 小西勝也
     演 - （香港配音：[張錦江](../Page/張錦江.md "wikilink")）
@@ -139,11 +139,11 @@
     「東京開央醫科大學」老師。
   - 新谷安未
     演 -
-    [向衣琴](../Page/向衣琴.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+    [向衣琴](https://zh.wikipedia.org/wiki/向衣琴 "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
     「榮南醫療中心」職員。
   - 中井奈加子
     演 -
-    [村井美和](../Page/村井美和.md "wikilink")（香港配音：[林丹鳳](../Page/林丹鳳.md "wikilink")）
+    [村井美和](https://zh.wikipedia.org/wiki/村井美和 "wikilink")（香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
     「涮涮樓」女侍應。
 
 #### 第3集
@@ -162,17 +162,17 @@
     「Huga cloud」的員工。
   - 高井戶正樹
     演 -
-    [紀村龍](../Page/紀村龍.md "wikilink")（香港配音：[李安邦](../Page/李安邦.md "wikilink")）
+    [紀村龍](https://zh.wikipedia.org/wiki/紀村龍 "wikilink")（香港配音：[李安邦](../Page/李安邦.md "wikilink")）
     「Huga cloud」的員工。
   - 南真之
     演 -
-    [森谷勇太](../Page/森谷勇太.md "wikilink")（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
+    [森谷勇太](https://zh.wikipedia.org/wiki/森谷勇太 "wikilink")（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
     「週日媒體服務公司」員工。
   - 麗華
-    演 - [佐藤侑梨](../Page/佐藤侑梨.md "wikilink")
+    演 - [佐藤侑梨](https://zh.wikipedia.org/wiki/佐藤侑梨 "wikilink")
     俱樂部女公關。
   - 東海林綾子
-    演 - [井上貴美](../Page/井上貴美.md "wikilink")
+    演 - [井上貴美](https://zh.wikipedia.org/wiki/井上貴美 "wikilink")
     婚姻介紹網站會員。
 
 #### 第4集
@@ -198,17 +198,17 @@
     「鳥飼皮鞋」員工。
   - 大久保洋
     演 -
-    [池浪玄八](../Page/池浪玄八.md "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
+    [池浪玄八](https://zh.wikipedia.org/wiki/池浪玄八 "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
     「鳥飼皮鞋」常務。
   - 加瀬澤
     演 -
-    [出口高司](../Page/出口高司.md "wikilink")（香港配音：[馮錦堂](../Page/馮錦堂.md "wikilink")）
+    [出口高司](https://zh.wikipedia.org/wiki/出口高司 "wikilink")（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
     「鳥飼皮鞋」員工。
   - 木曾川秀夫
     演 - （香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）
     記者會官員。
   - 齊藤來夢音
-    演 - [小山希來來](../Page/小山希來來.md "wikilink")
+    演 - [小山希來來](https://zh.wikipedia.org/wiki/小山希來來 "wikilink")
     婚姻介紹網站會員。
 
 #### 第5集
@@ -231,14 +231,14 @@
     「桂綜合醫院」外科醫生。
   - 芝山利里子（芝山りり子）
     演 -
-    [深柄比菜](../Page/深柄比菜.md "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
+    [深柄比菜](https://zh.wikipedia.org/wiki/深柄比菜 "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
     「桂綜合醫院」看護師。
   - 小和田一樹
     演 - （香港配音：[陳成港](../Page/陳成港.md "wikilink")）
     「桂綜合醫院」外科醫生。
   - 久米杏奈
     演 -
-    [坂井裕美](../Page/坂井裕美.md "wikilink")（香港配音：[李潤知](../Page/李潤知.md "wikilink")）
+    [坂井裕美](https://zh.wikipedia.org/wiki/坂井裕美 "wikilink")（香港配音：[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")）
     「桂綜合醫院」員工。
   - 原真利奈
     演 - （香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
@@ -252,16 +252,16 @@
     「桂綜合醫院」住院患者。
   - 朝霧健三郎
     演 -
-    [祖父江進](../Page/祖父江進.md "wikilink")（香港配音：[馮錦堂](../Page/馮錦堂.md "wikilink")）
+    [祖父江進](https://zh.wikipedia.org/wiki/祖父江進 "wikilink")（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
     「神宮寺法律事務所」的客戶。
   - 金登楊子（キンドル陽子）
     演 - （香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
     「神宮寺法律事務所」的客戶。
   - 葛原泉美
-    演 - （香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
+    演 - （香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
     葛原的女兒。
   - 鈴木佐奈子
-    演 - [吉田直未](../Page/吉田直未.md "wikilink")
+    演 - [吉田直未](https://zh.wikipedia.org/wiki/吉田直未 "wikilink")
     婚姻介紹網站會員。
 
 #### 第6集
@@ -273,7 +273,7 @@
     演 - （香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
     根岸的妻子。
   - 白石茜
-    演 - （香港配音：[林丹鳳](../Page/林丹鳳.md "wikilink")）
+    演 - （香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
     貓田所參加的相親派對的工作人員。
   - 大田蘭子
     演 -
@@ -283,11 +283,11 @@
     演 - （－第7集）（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
     咲坂水樹的同學。
   - 仲正樹
-    演 - （香港配音：[黃啟昌](../Page/黃啟昌.md "wikilink")）
+    演 - （香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
     「東京四葉銀行」企業融資課行員。
   - 市谷幸介
     演 -
-    [中脇樹人](../Page/中脇樹人.md "wikilink")（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）
+    [中脇樹人](https://zh.wikipedia.org/wiki/中脇樹人 "wikilink")（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）
     「東京四葉銀行」赤坂分行經理。
 
 #### 第7－8集
@@ -318,7 +318,7 @@
     荒木田的秘書。
   - 原田葉一
     演 -
-    [羽場涼介](../Page/羽場涼介.md "wikilink")（香港配音：[黃積權](../Page/黃積權.md "wikilink")）
+    [羽場涼介](https://zh.wikipedia.org/wiki/羽場涼介 "wikilink")（香港配音：[黃積權](../Page/黃積權.md "wikilink")）
     「岬、麥堅利」法律事務所的助理律師。
   - 美山亞希子
     演 - （第8集）（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
@@ -326,10 +326,10 @@
 
 ## 製作團隊
 
-  - 劇本：[福田靖](../Page/福田靖.md "wikilink")
+  - 劇本：[福田靖](https://zh.wikipedia.org/wiki/福田靖 "wikilink")
   - 導演：本橋圭太、田村直己
   - 主題歌：[平井堅](../Page/平井堅.md "wikilink")「Plus One」
-  - 音樂：[林友樹](../Page/林友樹.md "wikilink")
+  - 音樂：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")
   - 日本舞蹈指導：西川扇與一
   - 和服管理、穿著指導：森荷葉
   - 市場調查：今井紳介

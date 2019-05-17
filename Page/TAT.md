@@ -48,7 +48,8 @@
 
 ## 人名縮寫
 
-  - [Thomas Alfred Taylor](../Page/Thomas_Alfred_Taylor.md "wikilink")
+  - [Thomas Alfred
+    Taylor](https://zh.wikipedia.org/wiki/Thomas_Alfred_Taylor "wikilink")
 
   -
   - [TAT](../Page/TAT.md "wikilink")：達太祖

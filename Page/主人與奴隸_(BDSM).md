@@ -1,5 +1,5 @@
 [Folsom_Bondage_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Folsom_Bondage_\(cropped\).jpg "fig:Folsom_Bondage_(cropped).jpg")
-**主人/奴隶**（英语：**Master/slave**，簡寫：**M/S**），是BDSM权力交换的关系。不同于BDSM的[支配与臣服的核心价值为爱](../Page/支配与臣服.md "wikilink")，主人/奴隶的核心价值为服务和服从。
+**主人/奴隶**（英语：**Master/slave**，簡寫：**M/S**），是BDSM权力交换的关系。不同于BDSM的[支配与臣服的核心价值为爱](https://zh.wikipedia.org/wiki/支配与臣服 "wikilink")，主人/奴隶的核心价值为服务和服从。
 
 奴隶在BDSM活动中，一个人同意顺从另一个人并成为他的奴隶，也就是他的财产。在BDSM中，性奴隶属于性幻想或角色扮演。\[1\]
 

@@ -1,4 +1,4 @@
-第二届[“MLILY梦百合杯”世界围棋公开赛于](../Page/“MLILY梦百合杯”世界围棋公开赛.md "wikilink")2015年举行（5月22日上午10点在[中国棋院开始预选赛](../Page/中国棋院.md "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]）。
+第二届[“MLILY梦百合杯”世界围棋公开赛于](https://zh.wikipedia.org/wiki/“MLILY梦百合杯”世界围棋公开赛 "wikilink")2015年举行（5月22日上午10点在[中国棋院开始预选赛](../Page/中国棋院.md "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]）。
 
 ## 综合预选赛
 
@@ -7,13 +7,14 @@
 
 ### 第1组（男子职业组）
 
-2015年5月22日：[李泰贤](../Page/李泰贤.md "wikilink")
-五段负[孙力](../Page/孙力_\(围棋棋手\).md "wikilink") 五段
+2015年5月22日：[李泰贤](https://zh.wikipedia.org/wiki/李泰贤 "wikilink")
+五段负[孙力](https://zh.wikipedia.org/wiki/孙力_\(围棋棋手\) "wikilink")
+五段
 
 ### 第2组（男子职业组）
 
-2015年5月22日：[杜阳](../Page/杜阳.md "wikilink")
-三段负[王炜](../Page/王炜.md "wikilink") 四段
+2015年5月22日：[杜阳](https://zh.wikipedia.org/wiki/杜阳 "wikilink")
+三段负[王炜](https://zh.wikipedia.org/wiki/王炜 "wikilink") 四段
 
 ### 第3组（男子职业组）
 
@@ -21,73 +22,73 @@
 
 ### 第4组（男子职业组）
 
-2015年5月22日：[夏晨琨](../Page/夏晨琨.md "wikilink")
-四段胜[林士勋](../Page/林士勋.md "wikilink") 三段
+2015年5月22日：[夏晨琨](https://zh.wikipedia.org/wiki/夏晨琨 "wikilink")
+四段胜[林士勋](https://zh.wikipedia.org/wiki/林士勋 "wikilink") 三段
 
 ### 第5组（男子职业组）
 
-2015年5月22日：[丁烈](../Page/丁烈.md "wikilink")
-五段胜[白豫林](../Page/白豫林.md "wikilink") 初段
+2015年5月22日：[丁烈](https://zh.wikipedia.org/wiki/丁烈 "wikilink")
+五段胜[白豫林](https://zh.wikipedia.org/wiki/白豫林 "wikilink") 初段
 
 ### 第6组（男子职业组）
 
-2015年5月22日：[李喆](../Page/李喆.md "wikilink")
-六段胜[国宇征](../Page/国宇征.md "wikilink") 四段
+2015年5月22日：[李喆](https://zh.wikipedia.org/wiki/李喆 "wikilink")
+六段胜[国宇征](https://zh.wikipedia.org/wiki/国宇征 "wikilink") 四段
 
 ### 第7组（男子职业组）
 
-2015年5月22日：[朴承华](../Page/朴承华.md "wikilink")
-六段胜[王晨帆](../Page/王晨帆.md "wikilink") 三段
+2015年5月22日：[朴承华](https://zh.wikipedia.org/wiki/朴承华 "wikilink")
+六段胜[王晨帆](https://zh.wikipedia.org/wiki/王晨帆 "wikilink") 三段
 
 ### 第8组（男子职业组）
 
-2015年5月22日：[韦一博](../Page/韦一博.md "wikilink")
-三段负[陈贤](../Page/陈贤.md "wikilink") 四段
+2015年5月22日：[韦一博](https://zh.wikipedia.org/wiki/韦一博 "wikilink")
+三段负[陈贤](https://zh.wikipedia.org/wiki/陈贤 "wikilink") 四段
 
 ### 第9组（男子职业组）
 
-2015年5月22日：[洪茂镇](../Page/洪茂镇.md "wikilink")
-初段负[黄世元](../Page/黄世元.md "wikilink") 初段
+2015年5月22日：[洪茂镇](https://zh.wikipedia.org/wiki/洪茂镇 "wikilink")
+初段负[黄世元](https://zh.wikipedia.org/wiki/黄世元 "wikilink") 初段
 
 ### 第10组（男子职业组）
 
-2015年5月22日：[钱留儒](../Page/钱留儒.md "wikilink")
+2015年5月22日：[钱留儒](https://zh.wikipedia.org/wiki/钱留儒 "wikilink")
 初段负[张策](../Page/张策.md "wikilink") 四段
 
 ### 第11组（男子职业组）
 
-2015年5月22日：[柳珉滢](../Page/柳珉滢.md "wikilink")
-四段胜[徐戈](../Page/徐戈.md "wikilink") 初段
+2015年5月22日：[柳珉滢](https://zh.wikipedia.org/wiki/柳珉滢 "wikilink")
+四段胜[徐戈](https://zh.wikipedia.org/wiki/徐戈 "wikilink") 初段
 
 ### 第12组（男子职业组）
 
-2015年5月22日：[崔超](../Page/崔超.md "wikilink")
-二段负[舒一笑](../Page/舒一笑.md "wikilink") 二段
+2015年5月22日：[崔超](https://zh.wikipedia.org/wiki/崔超 "wikilink")
+二段负[舒一笑](https://zh.wikipedia.org/wiki/舒一笑 "wikilink") 二段
 
 ### 第13组（男子职业组）
 
-2015年5月22日：[芝野虎丸](../Page/芝野虎丸.md "wikilink")
-初段胜[张挺英](../Page/张挺英.md "wikilink") 五段
+2015年5月22日：[芝野虎丸](https://zh.wikipedia.org/wiki/芝野虎丸 "wikilink")
+初段胜[张挺英](https://zh.wikipedia.org/wiki/张挺英 "wikilink") 五段
 
 ### 第14组（男子职业组）
 
-2015年5月22日：[陶欣然](../Page/陶欣然.md "wikilink")
-五段负[朱元豪](../Page/朱元豪.md "wikilink") 四段
+2015年5月22日：[陶欣然](https://zh.wikipedia.org/wiki/陶欣然 "wikilink")
+五段负[朱元豪](https://zh.wikipedia.org/wiki/朱元豪 "wikilink") 四段
 
 ### 第15组（男子职业组）
 
 2015年5月22日：[胡耀宇](../Page/胡耀宇.md "wikilink")
-八段胜[贾依凡](../Page/贾依凡.md "wikilink") 三段
+八段胜[贾依凡](https://zh.wikipedia.org/wiki/贾依凡 "wikilink") 三段
 
 ### 第16组（男子职业组）
 
-2015年5月22日：[张怀一](../Page/张怀一.md "wikilink")
-三段胜[吴楷](../Page/吴楷.md "wikilink") 三段
+2015年5月22日：[张怀一](https://zh.wikipedia.org/wiki/张怀一 "wikilink")
+三段胜[吴楷](https://zh.wikipedia.org/wiki/吴楷 "wikilink") 三段
 
 ### 第17组（男子职业组）
 
-2015年5月22日：[张家豪](../Page/张家豪.md "wikilink")
-三段负[孟泰龄](../Page/孟泰龄.md "wikilink") 六段
+2015年5月22日：[张家豪](https://zh.wikipedia.org/wiki/张家豪 "wikilink")
+三段负[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink") 六段
 
 ### 第18组（男子职业组）
 
@@ -129,17 +130,17 @@
 
 ### 第37组（女子职业组）
 
-2015年5月22日：[李羿蓉](../Page/李羿蓉.md "wikilink") 初段负
-[王磐](../Page/王磐.md "wikilink") 初段
+2015年5月22日：[李羿蓉](https://zh.wikipedia.org/wiki/李羿蓉 "wikilink") 初段负
+[王磐](https://zh.wikipedia.org/wiki/王磐 "wikilink") 初段
 
 ### 第38组（女子职业组）
 
-2015年5月22日：[战鹰初段](../Page/战鹰.md "wikilink")胜[郑鸿逸初段](../Page/郑鸿逸.md "wikilink")
+2015年5月22日：[战鹰初段](https://zh.wikipedia.org/wiki/战鹰 "wikilink")胜[郑鸿逸初段](https://zh.wikipedia.org/wiki/郑鸿逸 "wikilink")
 
 ### 第39组（女子职业组）
 
-2015年5月22日：[梁雅娣](../Page/梁雅娣.md "wikilink") 二段负
-[朴泰姬](../Page/朴泰姬.md "wikilink") 初段
+2015年5月22日：[梁雅娣](https://zh.wikipedia.org/wiki/梁雅娣 "wikilink") 二段负
+[朴泰姬](https://zh.wikipedia.org/wiki/朴泰姬 "wikilink") 初段
 
 ### 第40组（女子职业组）
 

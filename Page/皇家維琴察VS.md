@@ -1,4 +1,4 @@
-**皇家維琴察VS**（），一般稱為**皇家維琴察**，意大利職業足球會，成立於2010年，位於維琴察，現時於[意丙A組作賽](../Page/意丙.md "wikilink")。球會於2010年由
+**皇家維琴察VS**（），一般稱為**皇家維琴察**，意大利職業足球會，成立於2010年，位於維琴察，現時於[意丙A組作賽](https://zh.wikipedia.org/wiki/意丙 "wikilink")。球會於2010年由
 Leodari Sole、Cavazzale及Real Vicenza-Laghetto三次球會合併成立。
 
 ## 外部連結

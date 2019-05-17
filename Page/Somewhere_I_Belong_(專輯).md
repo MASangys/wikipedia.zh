@@ -79,22 +79,24 @@ Belong》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "
 
 ## 所獲獎項
 
-  - 第十四屆[華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")（獲獎）：
+  - 第十四屆[華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")（獲獎）：
 
       - 最佳爵士／藍調藝人
       - 最佳錄音：Che Ming Lin/Bi Chong Ning/Pete Hutchings
 
-  - [華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")2013年第一季 - 十大唱片（第一位）
+  - [華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")2013年第一季
+    - 十大唱片（第一位）
 
   - 第17屆[Channel
-    V](../Page/Channel_V.md "wikilink")[全球華語音樂榜中榜](../Page/全球華語音樂榜中榜.md "wikilink")
+    V](../Page/Channel_V.md "wikilink")[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")
     - Channel \[V\]最佳跨界專輯
 
-  - [南方都市報](../Page/南方都市報.md "wikilink") - 2013 十大唱片
+  - [南方都市報](https://zh.wikipedia.org/wiki/南方都市報 "wikilink") - 2013 十大唱片
 
   - 2014 - 年度最佳爵士藝人《Somewhere I Belong》
 
-  - [第十八屆新加坡金曲獎](../Page/第十八屆新加坡金曲獎.md "wikilink") - 最佳演繹女歌手獎
+  - [第十八屆新加坡金曲獎](https://zh.wikipedia.org/wiki/第十八屆新加坡金曲獎 "wikilink") -
+    最佳演繹女歌手獎
 
 ## 資料來源
 

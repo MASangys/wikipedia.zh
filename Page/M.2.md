@@ -1,9 +1,9 @@
 [右](https://zh.wikipedia.org/wiki/File:M.2_and_mSATA_SSDs_comparison.jpg "fig:右")
 (左) 与 M.2 2242 SSD (右) 的尺寸对比\]\] **M.2**，前身为**Next Generation Form
 Factor**
-(**NGFF**)，是[计算机内部扩展卡及相关](../Page/计算机.md "wikilink")[连接器规范](../Page/连接器.md "wikilink")。其採用了全新的物理布局和连接器，将取代[PCI
+(**NGFF**)，是[计算机内部扩展卡及相关](https://zh.wikipedia.org/wiki/计算机 "wikilink")[连接器规范](https://zh.wikipedia.org/wiki/连接器 "wikilink")。其採用了全新的物理布局和连接器，将取代[PCI
 Express Mini及與PCI](../Page/PCI_Express.md "wikilink") Express Mini
-相容的[mSATA标准](../Page/SATA#mSATA.md "wikilink")。M.2具有灵活的物理规范，允许更多種類的模块宽度与长度，并與更高级的[接口相配](../Page/介面_\(資訊科技\).md "wikilink")，使M.2比mSATA更适合日常應用，尤其是用於[超级本或](../Page/超级本.md "wikilink")[平板电脑等小型设备的](../Page/平板电脑.md "wikilink")[固态存储](../Page/固态硬盘.md "wikilink")。\[1\]\[2\]\[3\]理論上M.2介面最多可提供PCI
+相容的[mSATA标准](https://zh.wikipedia.org/wiki/SATA#mSATA "wikilink")。M.2具有灵活的物理规范，允许更多種類的模块宽度与长度，并與更高级的[接口相配](../Page/介面_\(資訊科技\).md "wikilink")，使M.2比mSATA更适合日常應用，尤其是用於[超级本或](https://zh.wikipedia.org/wiki/超级本 "wikilink")[平板电脑等小型设备的](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")[固态存储](../Page/固态硬盘.md "wikilink")。\[1\]\[2\]\[3\]理論上M.2介面最多可提供PCI
 Express x4的帶寬（實際情況視晶片組等情況而定）。
 
 [计算机总线将M](../Page/总线.md "wikilink").2连接器轉化为[PCI Express
@@ -12,10 +12,11 @@ Express x4的帶寬（實際情況視晶片組等情況而定）。
 3.0接口](../Page/USB_3.0.md "wikilink")，后两者則配備单个逻辑端口。取決于對主机和设备类型支援的级别，接口的支援取决于M.2主机或设备制造商的选择。M.2连接器有几种不同的固定槽，代表著M.2主机和模块不同的目的和功能，避免用户將M.2模块插入到功能不兼容的主机连接器中。\[4\]\[5\]\[6\]
 
 除了在逻辑接口的层面支持传统的[AHCI](../Page/AHCI.md "wikilink")，M.2标准还支持[NVM
-Express](../Page/NVM_Express.md "wikilink")（NVMe）作为M.2 PCI Express
+Express](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")（NVMe）作为M.2
+PCI Express
 [SSD的逻辑设备接口](../Page/固态硬盘.md "wikilink")。支持AHCI能确保软件层面对传统SATA设备和传统[操作系统的向下兼容性](../Page/操作系统.md "wikilink")，而採用[NVM
-Express的设计則能充分利用PCI](../Page/NVM_Express.md "wikilink")
-Express存储设备的高性能，同時执行大量[I/O操作](../Page/I/O.md "wikilink")。\[7\]\[8\]
+Express的设计則能充分利用PCI](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")
+Express存储设备的高性能，同時执行大量[I/O操作](https://zh.wikipedia.org/wiki/I/O "wikilink")。\[7\]\[8\]
 
 ## 特性
 
@@ -26,15 +27,15 @@ Coughlin}}</ref><sup>:14</sup>它支持传统SATA和PCI
 Express存储设备，包括[AHCI和NVMe作为逻辑设备接口](../Page/AHCI.md "wikilink")。\[9\]<sup>:4</sup>|371x371像素\]\]
 [总线分拆M](../Page/总线.md "wikilink").2连接器为[PCI
 Express](../Page/PCI_Express.md "wikilink") 3.0、Serial ATA (SATA)
-3.0和[USB](../Page/通用串行總線.md "wikilink") 3.0（对USB
-2.0[向下兼容](../Page/向下兼容.md "wikilink")）。也因如此，M.2模块可以集結多种功能，包括[Wi-Fi](../Page/Wi-Fi.md "wikilink")、[蓝牙](../Page/蓝牙.md "wikilink")、[卫星导航](../Page/卫星导航系统.md "wikilink")、[近场通信](../Page/近場通訊.md "wikilink")（NFC）、数字广播、[无线千兆联盟](../Page/WiGig.md "wikilink")（WiGig）、（WWAN）和[固态硬盘](../Page/固态硬盘.md "wikilink")（SSD）。\[10\]2013年8月[SATA](../Page/SATA.md "wikilink")
+3.0和[USB](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink") 3.0（对USB
+2.0[向下兼容](../Page/向下兼容.md "wikilink")）。也因如此，M.2模块可以集結多种功能，包括[Wi-Fi](../Page/Wi-Fi.md "wikilink")、[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")、[卫星导航](../Page/卫星导航系统.md "wikilink")、[近场通信](../Page/近場通訊.md "wikilink")（NFC）、数字广播、[无线千兆联盟](https://zh.wikipedia.org/wiki/WiGig "wikilink")（WiGig）、（WWAN）和[固态硬盘](../Page/固态硬盘.md "wikilink")（SSD）。\[10\]2013年8月[SATA](../Page/SATA.md "wikilink")
 3.2的版本规范中，正式將M.2設为新的存储设备格式，并對其硬件格式作出定義。\[11\]<sup>:12</sup>\[12\]
 
 M.2规范提供最多四个[PCI
 Express通道和一个逻辑性](../Page/PCI_Express.md "wikilink")[SATA](../Page/SATA.md "wikilink")
 3.0（6 Gbit/s）端口，且全部都是通过同一个连接器分拆而成，因此一个M.2模块可能同时存在PCI
 Express和SATA存储设备。被分拆的PCI Express通道對主机与存储设备提供一个纯PCI
-Express连接，且没有额外的总线[抽象層](../Page/抽象層.md "wikilink")。\[13\]在2013年10月的[PCI-SIG推出的M](../Page/周邊元件互連特別興趣小組.md "wikilink").2规范1.0版本中，則提供了详细的M.2规范。\[14\]<sup>:12</sup>\[15\]
+Express连接，且没有额外的总线[抽象層](https://zh.wikipedia.org/wiki/抽象層 "wikilink")。\[13\]在2013年10月的[PCI-SIG推出的M](../Page/周邊元件互連特別興趣小組.md "wikilink").2规范1.0版本中，則提供了详细的M.2规范。\[14\]<sup>:12</sup>\[15\]
 
 有三种逻辑设备接口和M.2存储设备接口命令集的选项可用，这可根据M.2存储设备的类型和[操作系统的支持性选用](../Page/操作系统.md "wikilink")：\[16\]<sup>:14</sup>\[17\]\[18\]
 
@@ -48,7 +49,7 @@ Express连接，且没有额外的总线[抽象層](../Page/抽象層.md "wikili
     Express通道提供的接口，使用AHCI访问PCI Express
     SSD，利用广泛的SATA支持在操作系统层面以提供非最佳性能的[向下兼容](../Page/向下兼容.md "wikilink")。開發AHCI的時候,
     系統的[主机总线适配器
-    (HBA)的用途是将CPU](../Page/主机总线适配器_\(HBA\).md "wikilink")/内存子系统通過一个相比慢得多的基于旋转[磁介质的存储子系统相连](../Page/磁儲存.md "wikilink")，正因如此，AHCI在用于SSD设备时有一些固有的低效能问题，因为其行为更类似[DRAM而非旋转介质](../Page/动态随机存取存储器.md "wikilink")。
+    (HBA)的用途是将CPU](https://zh.wikipedia.org/wiki/主机总线适配器_\(HBA\) "wikilink")/内存子系统通過一个相比慢得多的基于旋转[磁介质的存储子系统相连](https://zh.wikipedia.org/wiki/磁儲存 "wikilink")，正因如此，AHCI在用于SSD设备时有一些固有的低效能问题，因为其行为更类似[DRAM而非旋转介质](../Page/动态随机存取存储器.md "wikilink")。
 
 <!-- end list -->
 
@@ -78,20 +79,20 @@ configuration"或"socket 3"。\[34\]\[35\]
 
 <div align="center">
 
-| Key编号 | 卡口针数    | 提供接口                                                                                                                                                                                          |
-| ----- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A     | 8 - 15  | [PCIe](../Page/PCI_Express.md "wikilink")×2、USB 2.0、[I<sup>2</sup>C和](../Page/I²C.md "wikilink")[DP](../Page/DisplayPort.md "wikilink")×4                                                     |
-| B     | 12 - 19 | PCIe×2、SATA、USB 2.0、USB 3.0、音频、[UIM](../Page/SIM卡.md "wikilink")、 [HSIC](../Page/HSIC.md "wikilink")、[HSIC](../Page/HSIC.md "wikilink")、I<sup>2</sup>C和[SMBus](../Page/系統管理匯流排.md "wikilink") |
-| C     | 16 - 23 | 保留供未来使用                                                                                                                                                                                       |
-| D     | 20 - 27 |                                                                                                                                                                                               |
-| E     | 24 - 31 | PCIe×2、USB 2.0、[I²C](../Page/I²C.md "wikilink")、[SDIO](../Page/SD卡#SDIO.E4.BB.8B.E7.BB.8D.md "wikilink")、[UART和](../Page/UART.md "wikilink")[PCM](../Page/I²S.md "wikilink")                  |
-| F     | 28 - 35 | 未来存储器接口（FMI）                                                                                                                                                                                  |
-| G     | 39 - 46 | 保留供自定义使用（在M.2规范中未使用）                                                                                                                                                                          |
-| H     | 43 - 50 | 保留供未来使用                                                                                                                                                                                       |
-| J     | 47 - 54 |                                                                                                                                                                                               |
-| K     | 51 - 58 |                                                                                                                                                                                               |
-| L     | 55 - 62 |                                                                                                                                                                                               |
-| M     | 59 - 66 | PCIe×4、SATA和SMBus                                                                                                                                                                             |
+| Key编号 | 卡口针数    | 提供接口                                                                                                                                                                                                                                                   |
+| ----- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A     | 8 - 15  | [PCIe](../Page/PCI_Express.md "wikilink")×2、USB 2.0、[I<sup>2</sup>C和](../Page/I²C.md "wikilink")[DP](../Page/DisplayPort.md "wikilink")×4                                                                                                              |
+| B     | 12 - 19 | PCIe×2、SATA、USB 2.0、USB 3.0、音频、[UIM](../Page/SIM卡.md "wikilink")、 [HSIC](https://zh.wikipedia.org/wiki/HSIC "wikilink")、[HSIC](https://zh.wikipedia.org/wiki/HSIC "wikilink")、I<sup>2</sup>C和[SMBus](https://zh.wikipedia.org/wiki/系統管理匯流排 "wikilink") |
+| C     | 16 - 23 | 保留供未来使用                                                                                                                                                                                                                                                |
+| D     | 20 - 27 |                                                                                                                                                                                                                                                        |
+| E     | 24 - 31 | PCIe×2、USB 2.0、[I²C](../Page/I²C.md "wikilink")、[SDIO](https://zh.wikipedia.org/wiki/SD卡#SDIO.E4.BB.8B.E7.BB.8D "wikilink")、[UART和](../Page/UART.md "wikilink")[PCM](../Page/I²S.md "wikilink")                                                        |
+| F     | 28 - 35 | 未来存储器接口（FMI）                                                                                                                                                                                                                                           |
+| G     | 39 - 46 | 保留供自定义使用（在M.2规范中未使用）                                                                                                                                                                                                                                   |
+| H     | 43 - 50 | 保留供未来使用                                                                                                                                                                                                                                                |
+| J     | 47 - 54 |                                                                                                                                                                                                                                                        |
+| K     | 51 - 58 |                                                                                                                                                                                                                                                        |
+| L     | 55 - 62 |                                                                                                                                                                                                                                                        |
+| M     | 59 - 66 | PCIe×4、SATA和SMBus                                                                                                                                                                                                                                      |
 
 M.2模块卡口和提供的接口\[36\]<sup>:8</sup>\[37\]<sup>:3</sup>\[38\]
 
@@ -190,8 +191,8 @@ ID表示；它也可能指定为仅“K”，如果该模块只有一个缺口�
     by Jonathan Corbet
   - [PCIe SSD 101: An Overview of Standards, Markets and
     Performance](https://web.archive.org/web/20140202110152/http://www.snia.org/sites/default/files/SNIASSSIPCIe101WhitePaper1.12013.pdf),
-    [SNIA](../Page/全球网络存储工业协会.md "wikilink"), August 2013, archived from
-    the original on February 2, 2014
+    [SNIA](https://zh.wikipedia.org/wiki/全球网络存储工业协会 "wikilink"), August
+    2013, archived from the original on February 2, 2014
   - [<span class="plainlinks">LSI SandForce SF3700 Flash
     Controllers</span>](https://www.youtube.com/watch?v=kUSEK5JA7l0)<span contenteditable="false">
     on </span>[YouTube](../Page/YouTube.md "wikilink"), November 18,

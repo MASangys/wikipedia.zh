@@ -1,7 +1,7 @@
 Kevin Michael "GG" Allin（原名: Jesus Christ
 Allin，），是一位美國龐克搖滾歌手/創作者，其生涯與數個團體合作表演、錄音。GG
 Allin以其惡名昭彰的反社會演出行徑著稱，諸如:
-食糞、自殘、攻擊聽眾等，也因此多次讓他被捕入獄。[AllMusic](../Page/AllMusic.md "wikilink")
+食糞、自殘、攻擊聽眾等，也因此多次讓他被捕入獄。[AllMusic](https://zh.wikipedia.org/wiki/AllMusic "wikilink")
 和 G4TV的節目 That’s Tough 分別稱他為「駭人的搖滾墮落史」和「世上最硬派的搖滾巨星」。
 
 除了舞台演出的聲名狼藉，作品上他也相當多產。除了龐克搖滾以外，也涉足口白朗誦、鄉村以及較為老派的搖滾風格。他充滿仇女、戀童、瀆神以及種族主義的歌詞，在高度關注政治的龐克社群裡反應兩極。當被質問到關於他的音樂和演出時，Allin通常都回答他只是想試著讓搖滾樂再次「充滿危險」。
@@ -10,9 +10,10 @@ Allin以其惡名昭彰的反社會演出行徑著稱，諸如:
 
 ## 早年生活
 
-Allin原名Jesus Christ Allin，出生於 [蘭開斯特](../Page/蘭開斯特.md "wikilink")
-([新罕布夏州](../Page/新罕布夏州.md "wikilink"))的Weeks紀念醫院。他是Merle Colby
-Allin Sr. 和 Arleta Gunther的幼子。之所以被命名為Jesus
+Allin原名Jesus Christ Allin，出生於
+[蘭開斯特](https://zh.wikipedia.org/wiki/蘭開斯特 "wikilink")
+([新罕布夏州](https://zh.wikipedia.org/wiki/新罕布夏州 "wikilink"))的Weeks紀念醫院。他是Merle
+Colby Allin Sr. 和 Arleta Gunther的幼子。之所以被命名為Jesus
 Christ是因為他父親告訴其母說耶穌基督曾前來訪視，並告訴他說他的新生兒子會成為一位了不起的人。
 
 他的兄長Merle
@@ -37,11 +38,11 @@ Dolls的啟發。Allin指出:「當時很混亂，咱們鋌而走險碰碰運氣
 ### 初出茅廬
 
 Allin早期受到的影響主要是1960年代的英倫入侵時期的樂團，包含
-[披頭四](../Page/披頭四.md "wikilink")、[滾石樂隊](../Page/滾石樂隊.md "wikilink")
-還有[戴夫·克拉克五人組](../Page/戴夫·克拉克五人組.md "wikilink")。在七零年代前期，[埃利斯·庫珀](../Page/埃利斯·庫珀.md "wikilink")
+[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")、[滾石樂隊](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink")
+還有[戴夫·克拉克五人組](../Page/戴夫·克拉克五人組.md "wikilink")。在七零年代前期，[埃利斯·庫珀](https://zh.wikipedia.org/wiki/埃利斯·庫珀 "wikilink")
 對Allin的影響最大。Allin初出茅廬是作為鼓手，在他約15歲左右，他和他的哥哥Merle組成他們的第一個團，Little Sister's
 Date，但只持續了一年多就解散了。樂團翻唱
-[史密斯飛船](../Page/史密斯飛船.md "wikilink")、[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")
+[史密斯飛船](https://zh.wikipedia.org/wiki/史密斯飛船 "wikilink")、[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")
 還有當時其他流行硬式搖滾樂團的作品。[丑角合唱團](../Page/丑角合唱團.md "wikilink") 也是影響Allin的樂團之一。
 
 1975年，Allin從佛蒙特州的Concord 中學畢業後隨即和他哥哥以及當地的樂手Jeff Penny、Brian Demurs
@@ -68,9 +69,8 @@ Mascis擔任主吉他手、Bongwater的唱片製作人/音樂家的Mark Kramer�
 
 1980年代中期，Allin染上了海洛英和酒癮，並濫用所有他能拿到手的麻醉藥。
 
-Allin在1985年一場於 [伊利諾州](../Page/伊利諾州.md "wikilink")
-Peoria的演出中第一次在舞台上公然排泄，根據當時同台演出的Bloody
-Mess表示:
+Allin在1985年一場於 [伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")
+Peoria的演出中第一次在舞台上公然排泄，根據當時同台演出的Bloody Mess表示:
 「他當時帶了瀉藥要跟我們上台演出，但很不幸的是，他在表演前數小時就吞了那些瀉藥，所以他必須在表演之前得痛苦的忍住。等到他在舞台上公然排便，現場陷入全面的混亂…。管理場地的那群老人全部都抓狂了！數百個愣在那邊的龐克小子們開始逃出現場，因為那該死的氣味實在太「驚人」了！」。在舞台上排泄自此成了他現場演出的招牌之一。
 
 他描述他自己是「最後一個最真的搖滾歌手」，之所以這麼說是因為，他認為搖滾一開始是作為危險、反權威和反叛的象徵，但如今卻淪為市場與商業考量。Allin的音樂和演出也因此要回歸他認為的根，從商業體系裡奪回搖滾的真實。
@@ -90,8 +90,8 @@ Name」。Allin除此之外也開始嘗試各種口白朗誦式的演出，歌�
 由於不願意去尋找一份穩定的工作，Allin決定販售自己發行的唱片來餬口。
 
 Allin很著迷於連續殺人魔的故事，他曾多次寫信並親去監獄拜訪過
-[約翰·韋恩·蓋西](../Page/約翰·韋恩·蓋西.md "wikilink")
-(一名美國連環殺手和強姦犯。他在1972年和1978年之間，對至少33名年齡由14歲至21歲的男孩及年輕男性進行了性侵犯和謀殺)。[約翰·韋恩·蓋西](../Page/約翰·韋恩·蓋西.md "wikilink")
+[約翰·韋恩·蓋西](https://zh.wikipedia.org/wiki/約翰·韋恩·蓋西 "wikilink")
+(一名美國連環殺手和強姦犯。他在1972年和1978年之間，對至少33名年齡由14歲至21歲的男孩及年輕男性進行了性侵犯和謀殺)。[約翰·韋恩·蓋西](https://zh.wikipedia.org/wiki/約翰·韋恩·蓋西 "wikilink")
 也為Allin繪製了一張肖像，該圖最後被用為 GG Allin紀錄片「Hated: GG Allin And The Murder
 Junkies」原聲帶的專輯封面。
 
@@ -105,10 +105,10 @@ RocknRoll關於他想在1989年萬聖節的演出時自殺。但到了那天，A
 ### 1989年受審與入獄
 
 1989年末，Allin在
-[密西根州](../Page/密西根州.md "wikilink")[安娜堡遭到逮捕](../Page/安娜堡.md "wikilink")，被控訴「嚴重攻擊」一名女性熟人。
+[密西根州](https://zh.wikipedia.org/wiki/密西根州 "wikilink")[安娜堡遭到逮捕](../Page/安娜堡.md "wikilink")，被控訴「嚴重攻擊」一名女性熟人。
 
-這次審判安排了一次心智評估，Allin被評估為有平均智力或以上，且被形容為「彬彬有禮、合作且率真」。這個不具名的評估人員指出，Allin並沒有表現出精神病症狀，而且看似對他自己異類的生活方式感到自在。但該評估人員也斷言Allin有酒精成癮的情況，且有混合型的人格障礙，包含自戀型人格障礙、[邊緣性人格障礙](../Page/邊緣性人格障礙.md "wikilink")
-以及 [自我挫敗人格障礙](../Page/自我挫敗人格障礙.md "wikilink")。
+這次審判安排了一次心智評估，Allin被評估為有平均智力或以上，且被形容為「彬彬有禮、合作且率真」。這個不具名的評估人員指出，Allin並沒有表現出精神病症狀，而且看似對他自己異類的生活方式感到自在。但該評估人員也斷言Allin有酒精成癮的情況，且有混合型的人格障礙，包含自戀型人格障礙、[邊緣性人格障礙](https://zh.wikipedia.org/wiki/邊緣性人格障礙 "wikilink")
+以及 [自我挫敗人格障礙](https://zh.wikipedia.org/wiki/自我挫敗人格障礙 "wikilink")。
 
 起初Allin反駁這次起訴，宣稱是該名女性自願參與他們的性行為，也承認他切砍她、燒她，還有生飲她的血，但始終堅持該名女性也對他做了一樣的事。他同時宣稱該名女性供詞反覆足以為證，而法官也同意該名女性的供詞不一致。最後Allin為此嚴重攻擊案件爭取了控訴協商，他被判決有期徒刑從1989年12月25日到1991年3月26日。
 
@@ -117,7 +117,7 @@ RocknRoll關於他想在1989年萬聖節的演出時自殺。但到了那天，A
 ### 紀錄片: Hated和最後的時日
 
 出獄以後他繼續開始下一輪巡迴，Todd Phillips為這段巡迴演出製作了紀錄片「Hated: GG Allin and the Murder
-Junkies」。該片主要取材自Allin在[紐約市](../Page/紐約市.md "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[東村的搖滾俱樂部Space](../Page/東村.md "wikilink")
+Junkies」。該片主要取材自Allin在[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[東村的搖滾俱樂部Space](../Page/東村.md "wikilink")
 at
 Chase裡的演出，裡面的Allin重度用藥且坦裸全身、排泄在地板上、把自己的糞便塗抹自身或是將之扔往群眾，他也扔擲啤酒杯、打斷女人的鼻梁還有攻擊台下群眾等。裡面當然也有Allin的其他鏡頭，比如和Allin本人以及和樂團、樂迷的訪談。這部紀錄片在1994年發行，並在1997年發行DVD版本。
 
@@ -138,7 +138,7 @@ Show等。Allin過世前夕，他還在計畫製作下一張純口白的專輯�
 
 GG Allin曾和Sandra Farrow在1980年10月6日結婚，1986年離婚。
 
-在80年代中期，Allin開始和一個來自[德克薩斯州](../Page/德克薩斯州.md "wikilink")[加蘭的少女Tracy](../Page/加蘭.md "wikilink")
+在80年代中期，Allin開始和一個來自[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[加蘭的少女Tracy](https://zh.wikipedia.org/wiki/加蘭 "wikilink")
 Deneault發展關係，Tracy最後懷孕並於1986年3月13日生下一女Nico Ann Deneault，而Nico Ann
 Deneault日後選擇和她的家人保持距離。GG Allin 和Tracy Deneault沒有結婚。 GG Allin死前最後一任女友是Liz
 Mankowski，彼此在The Jerry Springer Show電視節目中同台時認識(當時
@@ -165,7 +165,7 @@ Handley的公寓和其他人開派對並濫用藥物。當晚，Allin服用了�
 
 ### 葬禮
 
-葬禮在1993年7月3日在故鄉[新罕布夏的Littleton鎮聖玫瑰墓園舉行](../Page/新罕布夏.md "wikilink")。葬禮上的Allin遺體腫脹不堪，並穿著他生前所擁有的黑色皮夾克和招牌三角褲。棺木內依照他的遺願放了一瓶[金賓威士忌](../Page/金賓威士忌.md "wikilink")，因為他曾公開在「When
+葬禮在1993年7月3日在故鄉[新罕布夏的Littleton鎮聖玫瑰墓園舉行](https://zh.wikipedia.org/wiki/新罕布夏 "wikilink")。葬禮上的Allin遺體腫脹不堪，並穿著他生前所擁有的黑色皮夾克和招牌三角褲。棺木內依照他的遺願放了一瓶[金賓威士忌](https://zh.wikipedia.org/wiki/金賓威士忌 "wikilink")，因為他曾公開在「When
 I Die」這首歌中公開表示希望如此。而其兄也指示殯儀業者不要清洗屍體和化妝，也因此屍體散發出滿身的糞便味道。
 
 葬禮成了一場低級的派對，友人紛紛在他的遺體旁擺姿勢拍照，並往遺體的嘴裡塞進毒品和威士忌。葬禮結束時，其兄Merle放了一對耳機給Allin，這組耳機連上一台隨身錄音帶播放機，撥放著專輯「Suicide

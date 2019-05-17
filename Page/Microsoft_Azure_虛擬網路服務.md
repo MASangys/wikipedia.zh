@@ -4,24 +4,26 @@
 虛擬網路服務是一種[軟體定義網路的實作](../Page/軟體定義網路.md "wikilink")，它完全使用軟體設定自動建置，無須人力介入。
 
 Azure
-平台內可使用虛擬網路的服務有：[虛擬機器](../Page/Microsoft_Azure_Virtual_Machine.md "wikilink")、[雲端服務](../Page/Microsoft_Azure_Cloud_Service.md "wikilink")
-與 [應用服務內的 Web App](../Page/Microsoft_Azure_App_Service.md "wikilink")。
+平台內可使用虛擬網路的服務有：[虛擬機器](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Machine "wikilink")、[雲端服務](https://zh.wikipedia.org/wiki/Microsoft_Azure_Cloud_Service "wikilink")
+與 [應用服務內的 Web
+App](https://zh.wikipedia.org/wiki/Microsoft_Azure_App_Service "wikilink")。
 
 ## 網路組態
 
 Azure 虛擬網路利用軟體的方式操作 Azure 資料中心內的網路建設，它本身就是一個大型的軟體定義網路解決方案，網路管理人員可在 Azure
-虛擬網路內自由劃分需要的[子網路與IP位址空間](../Page/子網路.md "wikilink")。Azure
+虛擬網路內自由劃分需要的[子網路與IP位址空間](https://zh.wikipedia.org/wiki/子網路 "wikilink")。Azure
 虛擬網路提供了三種基本位址空間供選擇 (都是 IP 位址中已定義的私人網路範圍)：
 
   - 10.0.0.0
   - 172.16.0.0
   - 192.168.0.0
 
-網路管理人員可利用 [CIDR](../Page/無類別域間路由.md "wikilink") 的網路劃分法來定義主位址空間 (例如
-10.0.0.0/8 或 10.0.0.0/16)，並在位址空間內劃分出子網路 (例如 10.0.1.0/24, 10.0.2.0/24)
-供虛擬機器配給 IP 之用，每個子網路都有自己的 DHCP 伺服器，當虛擬機器加入到子網路時，就會自動分派 IP
-位址給它，一個子網路可用的位址為該子網路劃分出的位址數量-3，Azure會保留每個子網路的前三個 IP
-(.1\~.3) 供 Azure 服務使用 \[1\]，因此可用位址均是由 .4 開始。
+網路管理人員可利用 [CIDR](https://zh.wikipedia.org/wiki/無類別域間路由 "wikilink")
+的網路劃分法來定義主位址空間 (例如 10.0.0.0/8 或 10.0.0.0/16)，並在位址空間內劃分出子網路
+(例如 10.0.1.0/24, 10.0.2.0/24) 供虛擬機器配給 IP 之用，每個子網路都有自己的 DHCP
+伺服器，當虛擬機器加入到子網路時，就會自動分派 IP
+位址給它，一個子網路可用的位址為該子網路劃分出的位址數量-3，Azure會保留每個子網路的前三個
+IP (.1\~.3) 供 Azure 服務使用 \[1\]，因此可用位址均是由 .4 開始。
 
 雖然子網路可以動態分配 IP 位址給虛擬機器，不過網路管理人員或服務也可以自訂要使用的 IP 位址。
 
@@ -68,7 +70,7 @@ Azure 的 DNS 來處理名稱解析 \[4\]。
 
 網路管理人員若需要自己的名稱解析方案 (如在虛擬網路內佈建 [Active
 Directory](../Page/Active_Directory.md "wikilink") 網域控制站) 時，仍然可以在虛擬網路內架設
-[DNS](../Page/DNS.md "wikilink") 伺服器，以供應自訂的名稱解析解決方案。
+[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink") 伺服器，以供應自訂的名稱解析解決方案。
 
 2015 年時，Azure 推出了自己的網域名稱代管服務 (DNS Hosting Service)，對外使用 Azure DNS
 的名稱，但為避免與原有的 Azure 名稱解析服務 (其原本在文件內的名稱也是 Azure DNS)，目前在
@@ -139,13 +141,14 @@ ACL 可以套用到特定的位址範圍 (例如一個 IP 或一組 IP)，或是
 ## VPN
 
 Azure
-虛擬網路為了與外界互連，因此提供了[VPN的連線能力](../Page/VPN.md "wikilink")，早期虛擬網路只支援站對站(Site-to-Site
-VPN, S2S VPN)，且要求使用 [IKEv](../Page/IKE.md "wikilink")1 的原則模式
+虛擬網路為了與外界互連，因此提供了[VPN的連線能力](https://zh.wikipedia.org/wiki/VPN "wikilink")，早期虛擬網路只支援站對站(Site-to-Site
+VPN, S2S VPN)，且要求使用
+[IKEv](https://zh.wikipedia.org/wiki/IKE "wikilink")1 的原則模式
 (Policy-based Mode)，但 2014 年起導入了 IKEv2 的路由模式 (Route-based Mode)
 後，VPN的應用範圍大幅提升，目前可支援站對站、點對站 (Point-To-Site, P2S VPN)、虛擬網路間對接
 (VNet-to-VNet VPN)、多站式對接 (Multi-site VPN) 以及與 [Microsoft Azure
-ExpressRoute](../Page/Microsoft_Azure_ExpressRoute.md "wikilink") 對接的
-VPN。
+ExpressRoute](https://zh.wikipedia.org/wiki/Microsoft_Azure_ExpressRoute "wikilink")
+對接的 VPN。
 
 VPN 需要使用網路閘道器 (Network Gateway)\[7\]，這會決定 VPN 使用的模式是 Policy-based 或是
 Route-based，並且依流量不同分成 Basic、Standard 與 Premium

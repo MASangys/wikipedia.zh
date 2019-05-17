@@ -1,5 +1,5 @@
 **Pandemic
-Studios**，是一家游戏开发商，成立于1998年。2007年到2009年之间成为了[美国艺电所拥有的公司](../Page/美国艺电.md "wikilink")，不久之后关闭。该公司是美国和澳大利亚的游戏开发商，在美国加利福尼亚州洛杉矶和澳大利亚的布里斯班有办事处。著名游戏包括《Full
+Studios**，是一家游戏开发商，成立于1998年。2007年到2009年之间成为了[美国艺电所拥有的公司](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")，不久之后关闭。该公司是美国和澳大利亚的游戏开发商，在美国加利福尼亚州洛杉矶和澳大利亚的布里斯班有办事处。著名游戏包括《Full
 Spectrum Warrior》、《星球大战前线》（2004）、《Dark Reign 2》、《Destroy All
 Humans\!》、《Mercenaries: Playground of Destruction》、《Mercenaries 2:
 World in Flames》、《星球大战前线 II》（2005）、and 《The Saboteur》。

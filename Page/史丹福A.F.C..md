@@ -1,5 +1,5 @@
 **史丹福A.F.C.**(**Stamford A.F.C.**)
-是一支位於[英格蘭](../Page/英格蘭.md "wikilink")[林肯郡](../Page/林肯郡.md "wikilink")[史丹福的職業足球會](../Page/史丹福.md "wikilink")，目前於[英格蘭北部超級聯賽角逐](../Page/英格蘭北部超級聯賽.md "wikilink")。\[1\]
+是一支位於[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[林肯郡](../Page/林肯郡.md "wikilink")[史丹福的職業足球會](https://zh.wikipedia.org/wiki/史丹福 "wikilink")，目前於[英格蘭北部超級聯賽角逐](../Page/英格蘭北部超級聯賽.md "wikilink")。\[1\]
 
 ## 陣容
 

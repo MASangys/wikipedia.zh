@@ -1,8 +1,8 @@
 《**Candy Crush Soda
 Saga**》（也译“**糖果粉碎苏打传奇**”），由英國網絡遊戲公司[King開發](../Page/King_\(遊戲公司\).md "wikilink")，为寶石方塊類遊戲《[Candy
 Crush
-Saga](../Page/Candy_Crush_Saga.md "wikilink")》的续作，于2014年10月20日推出。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](../Page/iOS.md "wikilink")[Windows
-10和](../Page/Windows_10.md "wikilink")[Windows
+Saga](../Page/Candy_Crush_Saga.md "wikilink")》的续作，于2014年10月20日推出。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
+10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
 游戏因收到欢迎带动开发公司股价上涨\[1\]。
@@ -16,7 +16,7 @@ Saga》大部分相同，並加入一些改動。關卡概分為有蘇打水瓶�
 Saga的糖果掉落方向未必是由上至下，部分關卡之糖果將往其他方向掉落，為該遊戲之最大特點，並能夠考驗玩家之破關思考邏輯。
 
 續作:「[Candy Crush Jelly
-Saga](../Page/Candy_Crush_Jelly_Saga.md "wikilink")」。
+Saga](https://zh.wikipedia.org/wiki/Candy_Crush_Jelly_Saga "wikilink")」。
 
 ## 關卡介紹
 

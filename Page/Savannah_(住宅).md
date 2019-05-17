@@ -1,5 +1,5 @@
 [Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg")
-**Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](../Page/至善街.md "wikilink")3號
+**Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](https://zh.wikipedia.org/wiki/至善街 "wikilink")3號
 ，是[會德豐集團旗下的私人住宅屋苑](../Page/會德豐.md "wikilink")。由梁黃顧建築師（香港）事務所設計，[協興建築承建](../Page/協興建築.md "wikilink")。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]
 
 ## 單位
@@ -16,7 +16,7 @@
 ## 設施
 
 項目地下設有以藝術為主題的中央公園「Savannah Central Art
-Park」，由園林設計公司Enea設計，擺放由韓國雕塑家[金炳真的作品](../Page/金炳真.md "wikilink")《蘋果》及香港雕塑家[李展輝的作品](../Page/李展輝.md "wikilink")《水滴》。
+Park」，由園林設計公司Enea設計，擺放由韓國雕塑家[金炳真的作品](https://zh.wikipedia.org/wiki/金炳真 "wikilink")《蘋果》及香港雕塑家[李展輝的作品](https://zh.wikipedia.org/wiki/李展輝 "wikilink")《水滴》。
 
 住客會所CLUB
 SAVANNAH設於項目的地庫、地下及1樓，總面積達約2.46萬平方呎，由國際級名師Glamorous設計。設施包括室內及室外游泳池、健身房、桑拿室、多用途宴會廳、卡拉OK及麻雀室、桌球室、多媒體娛樂室、瑜伽室、兒童遊戲區、休閒雅坐及室內運動場等。\[2\]
@@ -32,7 +32,7 @@ Place，但一直空置。2018年10月，[豐泰地產向會德豐購入商場](
 
 SAVANNAH的廣告宣傳以「LIVE WITH YOUR
 FLOW」為主題。發展商指SAVANNAH為美國南部著名沿河都會，鄰近優美的Savannah
-River。唯電視廣告於[澳洲](../Page/澳洲.md "wikilink")[墨爾本](../Page/墨爾本.md "wikilink")[雅拉河一帶拍攝](../Page/雅拉河.md "wikilink")。
+River。唯電視廣告於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[墨爾本](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[雅拉河一帶拍攝](../Page/雅拉河.md "wikilink")。
 
 ## 著名住客
 
@@ -40,7 +40,7 @@ River。唯電視廣告於[澳洲](../Page/澳洲.md "wikilink")[墨爾本](../P
 
 ### 代理於海港城撈客遭保安箍頸 代理永遠被禁止銷售會德豐樓盤
 
-2016年5月7日下午，一名[利嘉閣地產代理在](../Page/利嘉閣.md "wikilink")[海港城商場內拉客時被發展商外判保安何志輝](../Page/海港城.md "wikilink")[箍頸](../Page/箍頸.md "wikilink")，涉事經紀被箍頸至臉紅，表示「好辛苦」，唯最後被發展商會德豐地產禁止銷售會德豐樓盤。\[4\]而會德豐職員表示，該經紀與保安發生衝突，有關事件已處理，不接受訪問。\[5\]
+2016年5月7日下午，一名[利嘉閣地產代理在](../Page/利嘉閣.md "wikilink")[海港城商場內拉客時被發展商外判保安何志輝](../Page/海港城.md "wikilink")[箍頸](https://zh.wikipedia.org/wiki/箍頸 "wikilink")，涉事經紀被箍頸至臉紅，表示「好辛苦」，唯最後被發展商會德豐地產禁止銷售會德豐樓盤。\[4\]而會德豐職員表示，該經紀與保安發生衝突，有關事件已處理，不接受訪問。\[5\]
 
 ### 首輪開售成2016年收票王
 
@@ -55,9 +55,9 @@ Savannah於5月14日首輪推售362個單位，佔全盤單位四成半，共接
 ## 會德豐「澳南」項目
 
 1.  [The Parkside](../Page/The_Parkside.md "wikilink")
-2.  [CAPRI](../Page/CAPRI.md "wikilink")
+2.  [CAPRI](https://zh.wikipedia.org/wiki/CAPRI "wikilink")
 3.  Savannah
-4.  [MONTEREY](../Page/MONTEREY.md "wikilink")
+4.  [MONTEREY](https://zh.wikipedia.org/wiki/MONTEREY "wikilink")
 
 ## 交通
 

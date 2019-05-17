@@ -1,4 +1,4 @@
-**RedOctane**，是美国电子娱乐公司，该公司最出名的游戏是[吉他英雄系列](../Page/吉他英雄系列.md "wikilink")。2006年，RedOctane成为[动视的全资子公司](../Page/动视.md "wikilink")，在2010年2月，动视关闭该公司。\[1\]
+**RedOctane**，是美国电子娱乐公司，该公司最出名的游戏是[吉他英雄系列](https://zh.wikipedia.org/wiki/吉他英雄系列 "wikilink")。2006年，RedOctane成为[动视的全资子公司](../Page/动视.md "wikilink")，在2010年2月，动视关闭该公司。\[1\]
 
 ## 参考资料
 

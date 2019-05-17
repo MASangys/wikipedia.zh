@@ -1,5 +1,5 @@
 《**LoveLive\!
-Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制作的改编](../Page/日昇动画.md "wikilink")[电视动画](../Page/电视动画.md "wikilink")，也就是Lovelive\!系列
+Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制作的改编](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，也就是Lovelive\!系列
 的 "第二作"
 ，第1期于2016年7月2日开始播出\[1\]。2017年2月26日，官方公布了第2期制作决定的消息，於2017年10月7日[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[日本BS放送等電視台開始播出](../Page/日本BS放送.md "wikilink")\[2\]。後於2017年12月30日當天所播出的第2期最後1話結尾時正式公佈本作全新劇場版的消息。上映日期于3rd第一天正式宣布預定於2019年1月4日播出。
 
@@ -12,10 +12,10 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
 
 ## 制作人员
 
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")
-  - 原案：[公野樱子](../Page/公野樱子.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
+  - 原案：[公野樱子](https://zh.wikipedia.org/wiki/公野樱子 "wikilink")
   - 监督：酒井和男
-  - 系列构成：[花田十辉](../Page/花田十辉.md "wikilink")
+  - 系列构成：[花田十辉](https://zh.wikipedia.org/wiki/花田十辉 "wikilink")
   - 角色设计：室田雄平
   - 设计工作：河毛雅妃
   - 道具设计：高桥武之
@@ -25,11 +25,11 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
   - 摄影监督：杉山大树
   - 编辑：今井大介
   - 音响监督：长崎行男
-  - 音乐：[加藤达也](../Page/加藤达也.md "wikilink")
+  - 音乐：[加藤达也](https://zh.wikipedia.org/wiki/加藤达也 "wikilink")
   - 音乐制作：[Lantis](../Page/Lantis.md "wikilink")
-  - 动画制作：[日昇动画](../Page/日昇动画.md "wikilink")
+  - 动画制作：[日昇动画](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")
   - 制作：2016 Project LoveLive\!
-    Sunshine\!\!（日昇动画、[万代影视](../Page/万代影视.md "wikilink")、Lantis、[武士道](../Page/武士道_\(公司\).md "wikilink")、[ASCII
+    Sunshine\!\!（日昇动画、[万代影视](https://zh.wikipedia.org/wiki/万代影视 "wikilink")、Lantis、[武士道](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")、[ASCII
     Media Works](../Page/ASCII_Media_Works.md "wikilink")）\[4\]（第1期）
     2017 Project LoveLive\! Sunshine\!\!（第2期）
 
@@ -65,11 +65,12 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
 
 ### 第2期
 
-  - 片頭曲《》*（[未來的我們早已知曉](../Page/未來的我們早已知曉.md "wikilink")）*（第1話 - 第12話）
+  - 片頭曲《》*（[未來的我們早已知曉](https://zh.wikipedia.org/wiki/未來的我們早已知曉 "wikilink")）*（第1話
+    - 第12話）
     作詞：畑亞貴，作曲：光増ハジメ，編曲：EFFY
     歌：Aqours
-  - 片尾曲《》*（[勇氣在哪？在你的內心！](../Page/勇氣在哪？在你的內心！.md "wikilink")）*（第1話 -
-    第2話、第4話 - 第5話、第7話 - 第8話、第10話 - 第11話）
+  - 片尾曲《》*（[勇氣在哪？在你的內心！](https://zh.wikipedia.org/wiki/勇氣在哪？在你的內心！ "wikilink")）*（第1話
+    - 第2話、第4話 - 第5話、第7話 - 第8話、第10話 - 第11話）
     作詞：畑亞貴，作曲：、，編曲：小高光太郎
     歌（第1話）：高海千歌（伊波杏树）、樱内梨子（逢田梨香子）、渡边曜（齐藤朱夏）
     歌（第2話、第7话）：Aqours
@@ -77,22 +78,23 @@ Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制�
     歌（第5話）：樱内梨子（逢田梨香子）、津島善子（小林愛香）
     歌（第8話）：津島善子（小林愛香）、國木田花丸（高槻加奈子）、黑澤露比（降幡愛）
     歌（第10話）：松浦果南（諏訪七香）、黑澤黛雅（小宮有紗）、小原鞠莉（鈴木愛奈）
-    歌（第11话，本话收录了歌曲后段的一部分）：Aqours、高海志满（[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")）、高海美渡（[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")）、良美（[松田利冴](../Page/松田利冴.md "wikilink")）、树（[金元壽子](../Page/金元壽子.md "wikilink")）、睦（[芹澤優](../Page/芹澤優.md "wikilink")）、小香菇（[麥穗杏菜](../Page/麥穗杏菜.md "wikilink")）、解答者A（[山北早纪](../Page/山北早纪.md "wikilink")）、解答者B（[千本木彩花](../Page/千本木彩花.md "wikilink")）及其他女學生
+    歌（第11话，本话收录了歌曲后段的一部分）：Aqours、高海志满（[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")）、高海美渡（[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")）、良美（[松田利冴](https://zh.wikipedia.org/wiki/松田利冴 "wikilink")）、树（[金元壽子](../Page/金元壽子.md "wikilink")）、睦（[芹澤優](../Page/芹澤優.md "wikilink")）、小香菇（[麥穗杏菜](https://zh.wikipedia.org/wiki/麥穗杏菜 "wikilink")）、解答者A（[山北早纪](https://zh.wikipedia.org/wiki/山北早纪 "wikilink")）、解答者B（[千本木彩花](../Page/千本木彩花.md "wikilink")）及其他女學生
 
 ## 插入曲
 
 ### 第1期
 
-:; 《[START:DASH\!\!](../Page/START:DASH!!.md "wikilink")》（第1话）
+:;
+《[START:DASH\!\!](https://zh.wikipedia.org/wiki/START:DASH!! "wikilink")》（第1话）
 
   -
 
       -
         作詞：畑亞貴，作曲、編曲：
-        歌：[μ's](../Page/μ's.md "wikilink")
+        歌：[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")
 
 :;《》*（[下定決心Hand in
-Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikilink")）*（第1话）
+Hand](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就沒問題！ "wikilink")）*（第1话）
 
   -
 
@@ -109,7 +111,8 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         作词：畑亞貴，作曲、編曲：
         歌：樱内梨子（逢田梨香子）
 
-:;《》 *（[最喜歡的話就沒問題！](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikilink")）*
+:;《》
+*（[最喜歡的話就沒問題！](https://zh.wikipedia.org/wiki/下定決心Hand_in_Hand/最喜歡的話就沒問題！ "wikilink")）*
 （第3话）
 
   -
@@ -118,7 +121,7 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         作词：畑亞貴，作曲、編曲：
         歌：高海千歌（伊波杏树）、樱内梨子（逢田梨香子）、渡边曜（齐藤朱夏）
 
-:;《》*（[想用梦照亮夜空](../Page/想用梦照亮夜空/不成熟的DREAMER.md "wikilink")）*（第6話）
+:;《》*（[想用梦照亮夜空](https://zh.wikipedia.org/wiki/想用梦照亮夜空/不成熟的DREAMER "wikilink")）*（第6話）
 
   -
 
@@ -133,9 +136,9 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
       -
         作词：畑亞貴，作曲、编曲：河田贵央
         歌：Saint
-        Snow（鹿角圣良（[田野麻美](../Page/田野麻美.md "wikilink")）、鹿角理亚（[佐藤日向](../Page/佐藤日向.md "wikilink")））
+        Snow（鹿角圣良（[田野麻美](https://zh.wikipedia.org/wiki/田野麻美 "wikilink")）、鹿角理亚（[佐藤日向](https://zh.wikipedia.org/wiki/佐藤日向 "wikilink")））
 
-:;《》*（[不成熟的DREAMER](../Page/想用梦照亮夜空/不成熟的DREAMER.md "wikilink")）*（第9話）
+:;《》*（[不成熟的DREAMER](https://zh.wikipedia.org/wiki/想用梦照亮夜空/不成熟的DREAMER "wikilink")）*（第9話）
 
   -
 
@@ -144,7 +147,7 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         歌：Aqours
         第9話作為片尾曲使用，同時也作為本話的標題使用。
 
-:;《》*（[思念合而為一吧](../Page/思念合而為一吧/MIRAI_TICKET.md "wikilink")）*（第11話）
+:;《》*（[思念合而為一吧](https://zh.wikipedia.org/wiki/思念合而為一吧/MIRAI_TICKET "wikilink")）*（第11話）
 
   -
 
@@ -152,7 +155,9 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         作词：畑亞貴，作曲、編曲：佐伯高志
         歌：高海千歌（伊波杏樹）、松浦果南（諏訪七香）、黑澤黛雅（小宮有紗）、渡邊曜（齊藤朱夏）、津島善子（小林愛香）、國木田花丸（高槻加奈子）、小原鞠莉（鈴木愛奈）、黑澤露比（降幡愛）
 
-:; 《[MIRAI TICKET](../Page/思念合而為一吧/MIRAI_TICKET.md "wikilink")》 （第13話）
+:; 《[MIRAI
+TICKET](https://zh.wikipedia.org/wiki/思念合而為一吧/MIRAI_TICKET "wikilink")》
+（第13話）
 
   -
 
@@ -163,7 +168,9 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
 
 ### 第2期
 
-:; 《[MY舞☆TONIGHT](../Page/MY舞☆TONIGHT/MIRACLE_WAVE.md "wikilink")》 （第3話）
+:;
+《[MY舞☆TONIGHT](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")》
+（第3話）
 
   -
 
@@ -180,7 +187,8 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         歌：Aqours
         Aqours第一张单曲，第3話作為片尾曲使用。
 
-:; 《[CRASH MIND](../Page/Awaken_the_power.md "wikilink")》（第5話）
+:; 《[CRASH
+MIND](https://zh.wikipedia.org/wiki/Awaken_the_power "wikilink")》（第5話）
 
   -
 
@@ -188,8 +196,9 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         作词：畑亞貴，作曲、编曲：
         歌：Saint Snow
 
-:; 《[MIRACLE WAVE](../Page/MY舞☆TONIGHT/MIRACLE_WAVE.md "wikilink")》 （第6話
-- 第7話）
+:; 《[MIRACLE
+WAVE](https://zh.wikipedia.org/wiki/MY舞☆TONIGHT/MIRACLE_WAVE "wikilink")》
+（第6話 - 第7話）
 
   -
 
@@ -206,7 +215,8 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         作词：畑亞贵，作曲：原田篤（Arte Refact），编曲：脇真富（Arte Refact）
         歌：Aqours
 
-:; 《[DROPOUT\!?](../Page/Awaken_the_power.md "wikilink")》（第8話）
+:;
+《[DROPOUT\!?](https://zh.wikipedia.org/wiki/Awaken_the_power "wikilink")》（第8話）
 
   -
 
@@ -214,7 +224,8 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         作词：畑亞貴，作曲、编曲：馬渕直純
         歌：Saint Snow
 
-:; 《[Awaken the power](../Page/Awaken_the_power.md "wikilink")》（第9話）
+:; 《[Awaken the
+power](https://zh.wikipedia.org/wiki/Awaken_the_power "wikilink")》（第9話）
 
   -
 
@@ -224,7 +235,7 @@ Hand](../Page/下定決心Hand_in_Hand/最喜歡的話就沒問題！.md "wikili
         第9話作為片尾曲使用，同時也作為本話的標題使用。
 
 :; 《[WATER BLUE NEW
-WORLD](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第12話）
+WORLD](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wikilink")》（第12話）
 
   -
 
@@ -242,7 +253,7 @@ WORLD](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第12�
         歌：Aqours
 
 :; 《[WONDERFUL
-STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第13話）
+STORIES](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wikilink")》（第13話）
 
   -
 
@@ -286,7 +297,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td><p>#1</p></td>
 <td></td>
 <td><p>想要闪闪发亮</p></td>
-<td><p><a href="../Page/花田十輝.md" title="wikilink">花田十輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
 <td><p>酒井和男</p></td>
 <td><p>铃木勇<br />
 西泽千惠</p></td>
@@ -770,7 +781,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <th><p>播放地區</p></th>
 <th><p>播放平台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -786,22 +797,22 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/东京都会电视台.md" title="wikilink">TOKYO MX1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京都会电视台" title="wikilink">TOKYO MX1</a></p></td>
 <td><p>2016年7月2日－2016年9月24日</p></td>
 <td><p>星期六 22時30分－23時00分</p></td>
-<td><p><a href="../Page/獨立UHF局.md" title="wikilink">獨立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獨立UHF局" title="wikilink">獨立UHF局</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
-<td><p><a href="../Page/SUN電視台.md" title="wikilink">SUN電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUN電視台" title="wikilink">SUN電視台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">京都放送</a></p></td>
 <td></td>
 <td></td>
@@ -811,13 +822,13 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <tr class="odd">
 <td><p>日本全國</p></td>
 <td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
-<td><p><a href="../Page/網絡電視.md" title="wikilink">網絡電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/LINE_(應用程式).md" title="wikilink">LINE LIVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LINE_(應用程式)" title="wikilink">LINE LIVE</a></p></td>
 <td><p>海外可觀看（APP）</p></td>
 <td></td>
 <td></td>
@@ -825,7 +836,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/niconico動畫.md" title="wikilink">niconico生放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/niconico動畫" title="wikilink">niconico生放送</a></p></td>
 <td><p>限定日本國內IP</p></td>
 <td></td>
 <td></td>
@@ -835,7 +846,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <tr class="even">
 <td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>星期六 23時00分－23時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>《<a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>》節目</p></td>
 <td></td>
 <td></td>
@@ -850,10 +861,10 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 </tr>
 <tr class="even">
 <td><p><a href="../Page/靜岡縣.md" title="wikilink">靜岡縣</a></p></td>
-<td><p><a href="../Page/靜岡放送.md" title="wikilink">靜岡放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/靜岡放送" title="wikilink">靜岡放送</a></p></td>
 <td><p>2016年7月4日－2016年9月27日</p></td>
 <td><p>星期一 25時58分－26時28分</p></td>
-<td><p><a href="../Page/TBS电视网.md" title="wikilink">TBS电视网</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TBS电视网" title="wikilink">TBS电视网</a></p></td>
 <td><p>作品舞台<br />
 {{noteTag|2016年8月8日推迟至26:08播出<ref name="bangumi0808">{{cite web|url=<a href="http://www.lovelive-anime.jp/uranohoshi/news.php#2433">http://www.lovelive-anime.jp/uranohoshi/news.php#2433</a> |script-title=ja:【第6話】放送時間変更・変更可能性のお知らせ |publisher=ラブライブ！サンシャイン</p></td>
 </tr>
@@ -866,7 +877,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td></td>
 <td></td>
@@ -875,7 +886,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/NHK教育频道.md" title="wikilink">NHK教育频道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK教育频道" title="wikilink">NHK教育频道</a></p></td>
 <td><p>2017年8月6日 - 2017年8月20日</p></td>
 <td><p>星期六 24时25分 - 26时05分<br />
 24时25分 - 26时25分</p></td>
@@ -900,15 +911,15 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
-<td><p><a href="../Page/SUN電視台.md" title="wikilink">SUN電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUN電視台" title="wikilink">SUN電視台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">京都放送</a></p></td>
 <td></td>
 <td></td>
@@ -917,14 +928,14 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 </tr>
 <tr class="even">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/萬代频道.md" title="wikilink">萬代频道</a></p></td>
-<td><p><a href="../Page/網路電視.md" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萬代频道" title="wikilink">萬代频道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/niconico動畫.md" title="wikilink">niconico生放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/niconico動畫" title="wikilink">niconico生放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -934,7 +945,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <tr class="even">
 <td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>星期六 25时30分 - 26时00分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>《ANIME+》節目</p></td>
 <td></td>
 <td></td>
@@ -956,15 +967,15 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/静岡县.md" title="wikilink">静岡县</a></p></td>
-<td><p><a href="../Page/靜岡放送.md" title="wikilink">靜岡放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/静岡县" title="wikilink">静岡县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/靜岡放送" title="wikilink">靜岡放送</a></p></td>
 <td><p>星期二 26时58分 - 27时28分</p></td>
 <td><p>TBS电视网</p></td>
 <td><p>作品舞台</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡县.md" title="wikilink">福岡县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡县" title="wikilink">福岡县</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>星期二 26时35分 - 27时05分</p></td>
 <td><p><a href="../Page/東京電視網.md" title="wikilink">東京電視網</a></p></td>
@@ -999,13 +1010,13 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td><p><a href="../Page/MY_KIDS_TV.md" title="wikilink">MY KIDS TV</a></p></td>
 <td><p>2016年7月2日－2016年9月24日</p></td>
 <td><p>星期六 22時00分－22時30分</p></td>
-<td><p><a href="../Page/寬頻電視.md" title="wikilink">寬頻電視</a><br />
-<a href="../Page/有線電視.md" title="wikilink">有線電視</a></p></td>
-<td><p>（<a href="../Page/UTC+8.md" title="wikilink">UTC+8</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/寬頻電視" title="wikilink">寬頻電視</a><br />
+<a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）<br />
 日语原声<br />
 中文字幕</p></td>
 <td></td>
@@ -1029,8 +1040,8 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中國大陸.md" title="wikilink">中國大陸</a></p></td>
-<td><p><a href="../Page/bilibili.md" title="wikilink">bilibili</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
 <td><p>星期六 22时00分更新</p></td>
 <td></td>
 <td></td>
@@ -1038,7 +1049,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/腾訊視頻.md" title="wikilink">腾訊視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/腾訊視頻" title="wikilink">腾訊視頻</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1047,7 +1058,7 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/爱奇藝.md" title="wikilink">爱奇藝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/爱奇藝" title="wikilink">爱奇藝</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1074,13 +1085,13 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td><p><a href="../Page/MY_KIDS_TV.md" title="wikilink">MY KIDS TV</a></p></td>
 <td><p>2017年10月7日－2017年12月30日</p></td>
 <td><p>星期六 22時00分－22時30分</p></td>
-<td><p><a href="../Page/寬頻電視.md" title="wikilink">寬頻電視</a><br />
-<a href="../Page/有線電視.md" title="wikilink">有線電視</a></p></td>
-<td><p>（<a href="../Page/UTC+8.md" title="wikilink">UTC+8</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/寬頻電視" title="wikilink">寬頻電視</a><br />
+<a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）<br />
 日语原声<br />
 中文字幕</p></td>
 <td></td>
@@ -1104,8 +1115,8 @@ STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")》（第1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中國大陸.md" title="wikilink">中國大陸</a></p></td>
-<td><p><a href="../Page/bilibili.md" title="wikilink">bilibili</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
 <td><p>星期六 23時30分更新</p></td>
 <td></td>
 <td></td>
@@ -1181,7 +1192,7 @@ Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~」\[5\]。香港及澳門
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

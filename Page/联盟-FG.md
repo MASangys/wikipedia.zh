@@ -1,6 +1,6 @@
-联盟-FG[运载火箭是](../Page/运载火箭.md "wikilink")[R7火箭家族的一员](../Page/R-7火箭家族.md "wikilink")，改进自联盟-U型，由位于[萨玛拉的](../Page/薩馬拉.md "wikilink")“进步”国立科研与制造航天中心（TsSKB-Progress）设计制造。她在2001年5月20日首飞，将进步M1-6货运飞船运送到[国际空间站](../Page/国际空间站.md "wikilink")。
+联盟-FG[运载火箭是](https://zh.wikipedia.org/wiki/运载火箭 "wikilink")[R7火箭家族的一员](../Page/R-7火箭家族.md "wikilink")，改进自联盟-U型，由位于[萨玛拉的](../Page/薩馬拉.md "wikilink")“进步”国立科研与制造航天中心（TsSKB-Progress）设计制造。她在2001年5月20日首飞，将进步M1-6货运飞船运送到[国际空间站](../Page/国际空间站.md "wikilink")。
 
-从2002年10月30日开始，联盟-FG是[俄罗斯联邦航天局唯一用于向国际空间站发射](../Page/俄罗斯联邦航天局.md "wikilink")[联盟-TMA和](../Page/联盟-TMA.md "wikilink")[联盟-MS载人宇宙飞船的载具](../Page/联盟号宇宙飞船.md "wikilink")。截止到2018年10月，火箭所有56次发射的前55次均发射成功，直到第56次发射[联盟MS-10时失败](../Page/联盟MS-10.md "wikilink")。\[1\]\[2\]
+从2002年10月30日开始，联盟-FG是[俄罗斯联邦航天局唯一用于向国际空间站发射](https://zh.wikipedia.org/wiki/俄罗斯联邦航天局 "wikilink")[联盟-TMA和](https://zh.wikipedia.org/wiki/联盟-TMA "wikilink")[联盟-MS载人宇宙飞船的载具](../Page/联盟号宇宙飞船.md "wikilink")。截止到2018年10月，火箭所有56次发射的前55次均发射成功，直到第56次发射[联盟MS-10时失败](../Page/联盟MS-10.md "wikilink")。\[1\]\[2\]
 
 另一个联盟-FG的改型被称为联盟-FG/Fregat。由联盟-FG火箭加上拉沃契金联合体的[Fregat上面级组成](../Page/佛盖特上面级.md "wikilink")。
 Starsem，一个欧洲与俄罗斯合作的公司全权负责这一型号的发射。截止到2014年12月，联盟-FG/Fregat火箭已经完成了10次商业发射。\[3\] 这一型火箭首飞与2012年6月2日。
@@ -720,7 +720,7 @@ ISS 远征队48和 远征队49</p></td>
 
   - [联盟号(飞船)](../Page/联盟号宇宙飞船.md "wikilink")
   - [联盟方案](../Page/联盟计划.md "wikilink")
-  - [俄罗斯联邦的空间机构](../Page/俄罗斯联邦航天局.md "wikilink")
+  - [俄罗斯联邦的空间机构](https://zh.wikipedia.org/wiki/俄罗斯联邦航天局 "wikilink")
   - Starsem
 
 ## 参考文献

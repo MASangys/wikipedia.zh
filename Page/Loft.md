@@ -1,27 +1,27 @@
-**株式會社Loft**（，）是經營[生活雜貨連鎖店](../Page/日用品.md "wikilink")「Loft」的企業。屬[7\&I控股旗下](../Page/7&I控股.md "wikilink")[崇光·西武的子公司](../Page/崇光·西武.md "wikilink")，過去是舊的一員。
+**株式會社Loft**（，）是經營[生活雜貨連鎖店](../Page/日用品.md "wikilink")「Loft」的企業。屬[7\&I控股旗下](../Page/7&I控股.md "wikilink")[崇光·西武的子公司](https://zh.wikipedia.org/wiki/崇光·西武 "wikilink")，過去是舊的一員。
 
 登記上的本店所在地為[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[宇田川町](../Page/宇田川町.md "wikilink")，本社事務所為[千代田區](../Page/千代田區.md "wikilink")[二番町](../Page/二番町_\(千代田區\).md "wikilink")。
 
 ## 概要
 
-1987年11月21日，[西武百貨店](../Page/西武百貨店.md "wikilink")[澀谷店旁開設第一號店](../Page/澀谷.md "wikilink")**澀谷西武Loft館**（決定往澀谷以外擴展後更名為澀谷Loft）。當時由於客層及商品與鄰近的[東急手創館澀谷店相近](../Page/東急手創館.md "wikilink")，兩者常被相提並論。
+1987年11月21日，[西武百貨店](https://zh.wikipedia.org/wiki/西武百貨店 "wikilink")[澀谷店旁開設第一號店](../Page/澀谷.md "wikilink")**澀谷西武Loft館**（決定往澀谷以外擴展後更名為澀谷Loft）。當時由於客層及商品與鄰近的[東急手創館澀谷店相近](../Page/東急手創館.md "wikilink")，兩者常被相提並論。
 
 之後，Loft開始開展到日本各地，1996年設立**株式會社Loft**，自西武百貨店獨立。現在以生活雜貨為中心，與東急手創館做出區隔。
 
 由於母公司西武百貨店經營不善，2002年從西武百貨店取得Loft股權，成為最大股東。2007年3月，[7\&I控股旗下擁有西武百貨店的Millennium](../Page/7&I控股.md "wikilink")
 Retailing從森信託及取得所有Loft股份，Loft成為Millennium
-Retailing子公司。這也讓Loft首度打進[伊藤洋華堂旗下的](../Page/伊藤洋華堂.md "wikilink")[購物商場](../Page/購物商場.md "wikilink")「」。
+Retailing子公司。這也讓Loft首度打進[伊藤洋華堂旗下的](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")[購物商場](https://zh.wikipedia.org/wiki/購物商場 "wikilink")「」。
 
 2009年8月1日，母公司株式會社Millennium
-Retailing與株式會社SOGO、株式會社西武百貨店三者合併為「株式會社[崇光·西武](../Page/崇光·西武.md "wikilink")」。
+Retailing與株式會社SOGO、株式會社西武百貨店三者合併為「株式會社[崇光·西武](https://zh.wikipedia.org/wiki/崇光·西武 "wikilink")」。
 
-2014年8月1日，Loft與，為人材培養與地域振興簽署合作協議，同年9月成立日本第一個[產學合作同好會](../Page/產學合作.md "wikilink")「LOFT部」，以[京都市的京都Loft為活動據點](../Page/京都市.md "wikilink")\[1\]\[2\]。
+2014年8月1日，Loft與，為人材培養與地域振興簽署合作協議，同年9月成立日本第一個[產學合作同好會](https://zh.wikipedia.org/wiki/產學合作 "wikilink")「LOFT部」，以[京都市的京都Loft為活動據點](../Page/京都市.md "wikilink")\[1\]\[2\]。
 
 ## 營運商店
 
 [Loft_in_Siam_Discovery_201801.jpg](https://zh.wikipedia.org/wiki/File:Loft_in_Siam_Discovery_201801.jpg "fig:Loft_in_Siam_Discovery_201801.jpg")[Siam
-Discovery分店](../Page/Siam_Discovery.md "wikilink")\]\]
-Loft與[西武百貨店及](../Page/西武百貨店.md "wikilink")[SOGO皆隸屬](../Page/SOGO.md "wikilink")[崇光·西武公司](../Page/崇光·西武.md "wikilink")。
+Discovery分店](https://zh.wikipedia.org/wiki/Siam_Discovery "wikilink")\]\]
+Loft與[西武百貨店及](https://zh.wikipedia.org/wiki/西武百貨店 "wikilink")[SOGO皆隸屬](https://zh.wikipedia.org/wiki/SOGO "wikilink")[崇光·西武公司](https://zh.wikipedia.org/wiki/崇光·西武 "wikilink")。
 
 ◎…大型店
 ◇…中型店
@@ -42,8 +42,8 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 #### 宮城縣
 
   - [仙台Loft](../Page/仙台市.md "wikilink")（[仙台市](../Page/仙台市.md "wikilink")[青葉區](../Page/青葉區_\(仙台市\).md "wikilink")）◎：仙台站前開發大樓的核心店鋪。
-  - 仙台長町Loft（仙台市[太白區](../Page/太白區.md "wikilink")）◇：2樓。
-  - 仙台泉Loft（仙台市[泉區](../Page/泉區_\(仙台市\).md "wikilink")）◇：，2013年4月27日開店。\[5\]
+  - 仙台長町Loft（仙台市[太白區](https://zh.wikipedia.org/wiki/太白區 "wikilink")）◇：2樓。
+  - 仙台泉Loft（仙台市[泉區](https://zh.wikipedia.org/wiki/泉區_\(仙台市\) "wikilink")）◇：，2013年4月27日開店。\[5\]
 
 #### 秋田縣
 
@@ -65,11 +65,11 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
     vie大塚（アトレヴィ大塚）3樓。2013年9月12日以SELF\&SHELF
     LOFT形式開店。2015年3月1日改為一般店面。
 
-  - [丸之內Loft](../Page/丸之內.md "wikilink")（[千代田區](../Page/千代田區.md "wikilink")）○：[丸之內大廈內](../Page/丸之內大廈.md "wikilink")。小面積的新型實驗性店面。
+  - [丸之內Loft](../Page/丸之內.md "wikilink")（[千代田區](../Page/千代田區.md "wikilink")）○：[丸之內大廈內](https://zh.wikipedia.org/wiki/丸之內大廈 "wikilink")。小面積的新型實驗性店面。
 
   - [有樂町Loft](../Page/有樂町.md "wikilink")（千代田區）◎：（有楽町インフォス）1樓，2011年9月1日開店。
 
-  - [大井町Loft](../Page/大井町站.md "wikilink")（[品川區](../Page/品川區.md "wikilink")）○：[atre大井町內](../Page/atre.md "wikilink")。
+  - [大井町Loft](https://zh.wikipedia.org/wiki/大井町站 "wikilink")（[品川區](../Page/品川區.md "wikilink")）○：[atre大井町內](https://zh.wikipedia.org/wiki/atre "wikilink")。
 
   - [二子玉川Loft](../Page/二子玉川.md "wikilink")（[世田谷區](../Page/世田谷區.md "wikilink")）◎：
     Dogwood Plaza內。
@@ -84,9 +84,9 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
   - [龜有Loft](../Page/龜有.md "wikilink")（[葛飾區](../Page/葛飾區.md "wikilink")）◇：內，2012年4月20日開店。
 
-  - Loft（[墨田區](../Page/墨田區.md "wikilink")）○：[東京晴空塔城內東京晴空街道](../Page/東京晴空塔城.md "wikilink")3樓，2012年5月22日開店。
+  - Loft（[墨田區](../Page/墨田區.md "wikilink")）○：[東京晴空塔城內東京晴空街道](https://zh.wikipedia.org/wiki/東京晴空塔城 "wikilink")3樓，2012年5月22日開店。
 
-  - Loft店（[大田區](../Page/大田區.md "wikilink")）◇：[伊藤洋華堂大森店](../Page/伊藤洋華堂.md "wikilink")3樓，2012年7月4日開店。
+  - Loft店（[大田區](https://zh.wikipedia.org/wiki/大田區 "wikilink")）◇：[伊藤洋華堂大森店](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")3樓，2012年7月4日開店。
 
   - SELF\&SHELF LOFT
     [東京巨蛋城](../Page/東京巨蛋城.md "wikilink")店（[文京區](../Page/文京區.md "wikilink")）○：2013年4月30日開店。SELF\&SHELF
@@ -94,29 +94,29 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 ##### 多摩
 
-  - [吉祥寺Loft](../Page/吉祥寺.md "wikilink")（[武藏野市](../Page/武藏野市.md "wikilink")）◎：西武運動場舊址。
+  - [吉祥寺Loft](https://zh.wikipedia.org/wiki/吉祥寺 "wikilink")（[武藏野市](../Page/武藏野市.md "wikilink")）◎：西武運動場舊址。
   - [武藏境Loft](../Page/武藏境站.md "wikilink")（武藏野市）◇：伊藤洋華堂武藏境店西館1樓，2015年3月26日開店\[6\]。
   - [國分寺Loft](../Page/國分寺站.md "wikilink")（[國分寺市](../Page/國分寺市.md "wikilink")）○：內。
   - [立川Loft](../Page/立川市.md "wikilink")（[立川市](../Page/立川市.md "wikilink")）◎：JR立川站北口，2012年8月30日開店。
   - [LUMINE立川Loft](../Page/LUMINE.md "wikilink")（立川市）○：LUMINE立川店內，以「立川Loft」於2007年4月27日開店。2012年8月30日開設新店後更名。
-  - [八王子Loft](../Page/八王子.md "wikilink")（[八王子市](../Page/八王子市.md "wikilink")）◇：北館6樓，2012年10月25日開店。
+  - [八王子Loft](https://zh.wikipedia.org/wiki/八王子 "wikilink")（[八王子市](../Page/八王子市.md "wikilink")）◇：北館6樓，2012年10月25日開店。
   - Loft店（八王子市）○：伊藤洋華堂南大澤店1樓，2014年10月10日開店。
 
 #### 神奈川縣
 
-  - [橫濱Loft](../Page/橫濱市.md "wikilink")（[橫濱市](../Page/橫濱市.md "wikilink")[西區](../Page/西區_\(橫濱市\).md "wikilink")[橫濱站前](../Page/橫濱站.md "wikilink")）◎：內。
+  - [橫濱Loft](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")（[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[西區](../Page/西區_\(橫濱市\).md "wikilink")[橫濱站前](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")）◎：內。
 
   - [東戶塚Loft](../Page/東戶塚站.md "wikilink")（橫濱市[戶塚區](../Page/戶塚區.md "wikilink")）◇
     : AURORA MALL（オーロラモール）5樓。
 
-  - [橫濱港北Loft](../Page/港北區.md "wikilink")（橫濱市[港北區](../Page/港北區.md "wikilink")）◇
+  - [橫濱港北Loft](https://zh.wikipedia.org/wiki/港北區 "wikilink")（橫濱市[港北區](https://zh.wikipedia.org/wiki/港北區 "wikilink")）◇
     : 南棟2樓。
 
-  - [新橫濱Loft](../Page/新橫濱站.md "wikilink")（橫濱市港北區）○：內。賣場面積540m²。
+  - [新橫濱Loft](https://zh.wikipedia.org/wiki/新橫濱站 "wikilink")（橫濱市港北區）○：內。賣場面積540m²。
 
   - [川崎Loft](../Page/川崎市.md "wikilink")（[川崎市](../Page/川崎市.md "wikilink")[幸區](../Page/幸區.md "wikilink")）◎：內。
 
-  - Loft（川崎市[中原區](../Page/中原區.md "wikilink")）◇：GRAND
+  - Loft（川崎市[中原區](https://zh.wikipedia.org/wiki/中原區 "wikilink")）◇：GRAND
     TREE武藏小杉（グランツリー武蔵小杉）3樓。2014年11月22日開店。
 
   - Loft（[相模原市](../Page/相模原市.md "wikilink")[綠區](../Page/綠區_\(相模原市\).md "wikilink")）◇：內。
@@ -135,13 +135,13 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 #### 埼玉縣
 
-  - [浦和Loft](../Page/浦和區.md "wikilink")（[埼玉市](../Page/埼玉市.md "wikilink")[浦和區](../Page/浦和區.md "wikilink")）○：內。
+  - [浦和Loft](https://zh.wikipedia.org/wiki/浦和區 "wikilink")（[埼玉市](../Page/埼玉市.md "wikilink")[浦和區](https://zh.wikipedia.org/wiki/浦和區 "wikilink")）○：內。
   - [大宮Loft](../Page/大宮區.md "wikilink")（埼玉市[大宮區](../Page/大宮區.md "wikilink")）◎：內，2003年9月13日開店。
   - [埼玉新都心Loft](../Page/埼玉新都心.md "wikilink")（埼玉市大宮區）○：「COCOON1」內。2015年4月21日商店擴大。
   - Loft大宮店（埼玉市[北區](../Page/北區_\(埼玉市\).md "wikilink")）◇：伊藤洋華堂大宮宮原店3樓，2010年11月5日開店。
   - [川越Loft](../Page/川越市.md "wikilink")（[川越市](../Page/川越市.md "wikilink")）◇：[LUMINE川越內](../Page/LUMINE.md "wikilink")。
   - [所澤Loft](../Page/所澤市.md "wikilink")（[所澤市](../Page/所澤市.md "wikilink")）◇：西武所澤店內。
-  - [新三鄉Loft](../Page/三鄉市.md "wikilink")（[三鄉市](../Page/三鄉市.md "wikilink")）◎：1樓。
+  - [新三鄉Loft](https://zh.wikipedia.org/wiki/三鄉市 "wikilink")（[三鄉市](https://zh.wikipedia.org/wiki/三鄉市 "wikilink")）◎：1樓。
   - [川口Loft](../Page/川口市.md "wikilink")（[川口市](../Page/川口市.md "wikilink")）◇：內。
   - 鷲宮Loft（[久喜市](../Page/久喜市.md "wikilink")）◇：內，2012年11月22日開店。
   - 上尾ロフト（[上尾市](../Page/上尾市.md "wikilink")）◇：內，2013年6月29日開店。
@@ -166,7 +166,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 #### 新潟縣
 
-  - [新潟Loft](../Page/新潟市.md "wikilink")（[新潟市](../Page/新潟市.md "wikilink")[中央區](../Page/中央區_\(新潟市\).md "wikilink")）◎：內。
+  - [新潟Loft](../Page/新潟市.md "wikilink")（[新潟市](../Page/新潟市.md "wikilink")[中央區](https://zh.wikipedia.org/wiki/中央區_\(新潟市\) "wikilink")）◎：內。
 
 #### 石川縣
 
@@ -178,7 +178,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 #### 山梨縣
 
-  - 甲府昭和Loft（[中巨摩郡](../Page/中巨摩郡.md "wikilink")[昭和町](../Page/昭和町.md "wikilink")）◇：伊藤洋華堂甲府昭和店內，2012年9月28日開店。
+  - 甲府昭和Loft（[中巨摩郡](https://zh.wikipedia.org/wiki/中巨摩郡 "wikilink")[昭和町](https://zh.wikipedia.org/wiki/昭和町 "wikilink")）◇：伊藤洋華堂甲府昭和店內，2012年9月28日開店。
 
 #### 長野縣
 
@@ -187,9 +187,9 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 #### 靜岡縣
 
-  - [靜岡](../Page/靜岡市.md "wikilink")[PARCO](../Page/PARCO.md "wikilink")
+  - [靜岡](../Page/靜岡市.md "wikilink")[PARCO](https://zh.wikipedia.org/wiki/PARCO "wikilink")
     Loft（[靜岡市](../Page/靜岡市.md "wikilink")[葵區](../Page/葵區.md "wikilink")）◎：靜岡PARCO內
-  - [濱松Loft](../Page/濱松市.md "wikilink")（[濱松市](../Page/濱松市.md "wikilink")[中區](../Page/中區_\(濱松市\).md "wikilink")）◇：JR[濱松站大樓](../Page/濱松站.md "wikilink")「」6樓。賣場面積約1,000m<sup>2</sup>。
+  - [濱松Loft](https://zh.wikipedia.org/wiki/濱松市 "wikilink")（[濱松市](https://zh.wikipedia.org/wiki/濱松市 "wikilink")[中區](https://zh.wikipedia.org/wiki/中區_\(濱松市\) "wikilink")）◇：JR[濱松站大樓](https://zh.wikipedia.org/wiki/濱松站 "wikilink")「」6樓。賣場面積約1,000m<sup>2</sup>。
   - Loft三島店（[三島市](../Page/三島市.md "wikilink")）◇：伊藤洋華堂三島店2樓，2015年9月4日開店。
 
 #### 岐阜縣
@@ -199,7 +199,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 #### 愛知縣
 
   - Loft[名古屋](../Page/名古屋市.md "wikilink")（[名古屋市](../Page/名古屋市.md "wikilink")[中區](../Page/中區_\(名古屋市\).md "wikilink")[榮](../Page/榮_\(名古屋市\).md "wikilink")）◎：內。
-  - [名站Loft](../Page/名古屋站.md "wikilink")（名古屋市[中村區](../Page/中村區.md "wikilink")）◇：男士館5樓，2015年4月17日開店。
+  - [名站Loft](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")（名古屋市[中村區](https://zh.wikipedia.org/wiki/中村區 "wikilink")）◇：男士館5樓，2015年4月17日開店。
   - [岡崎Loft](../Page/岡崎市.md "wikilink")（[岡崎市](../Page/岡崎市.md "wikilink")）◇：內。
 
 ### 近畿
@@ -212,7 +212,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
   - [難波Loft](../Page/難波.md "wikilink")（大阪市[中央區](../Page/中央區_\(大阪市\).md "wikilink")）◇：難波中心大樓3、4樓，2014年3月1日開店。
 
-  - [阿倍野Loft](../Page/天王寺.md "wikilink")（大阪市[阿倍野區](../Page/阿倍野區.md "wikilink")）◎：複合商業設施「」內。
+  - [阿倍野Loft](https://zh.wikipedia.org/wiki/天王寺 "wikilink")（大阪市[阿倍野區](../Page/阿倍野區.md "wikilink")）◎：複合商業設施「」內。
 
   - [堺Loft](../Page/堺市.md "wikilink")（[堺市](../Page/堺市.md "wikilink")[西區](../Page/西區_\(堺市\).md "wikilink")）◇：1樓。
 
@@ -223,7 +223,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
   - Loft（[枚方市](../Page/枚方市.md "wikilink")）◇：店內。
 
-  - 大阪[和泉Loft](../Page/和泉.md "wikilink")（[和泉市](../Page/和泉市.md "wikilink")）◇：4樓，2014年10月30日開店。
+  - 大阪[和泉Loft](https://zh.wikipedia.org/wiki/和泉 "wikilink")（[和泉市](../Page/和泉市.md "wikilink")）◇：4樓，2014年10月30日開店。
 
   - 萬博公園Loft（[吹田市](../Page/吹田市.md "wikilink")）◎：內，2015年11月19日開店。
 
@@ -233,7 +233,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 #### 兵庫縣
 
-  - [戶戸Loft](../Page/神戶市.md "wikilink")（[神戶市](../Page/神戶市.md "wikilink")[中央區](../Page/中央區_\(神戶市\).md "wikilink")）◎：內。
+  - [戶戸Loft](https://zh.wikipedia.org/wiki/神戶市 "wikilink")（[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[中央區](../Page/中央區_\(神戶市\).md "wikilink")）◎：內。
   - [西宮Loft](../Page/西宮市.md "wikilink")（[西宮市](../Page/西宮市.md "wikilink")）◎：內。賣場面積1,690m²。
   - [姬路Loft](../Page/姬路市.md "wikilink")（[姬路市](../Page/姬路市.md "wikilink")）◇：西館5樓。
 
@@ -273,22 +273,22 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 #### 愛媛縣
 
-  - [松山Loft](../Page/松山.md "wikilink")（[伊予郡](../Page/伊予郡.md "wikilink")[松前町](../Page/松前町_\(愛媛縣\).md "wikilink")）◇：1樓，2014年3月20日開店。店鋪面積957m<sup>2</sup>\[14\]。
+  - [松山Loft](https://zh.wikipedia.org/wiki/松山 "wikilink")（[伊予郡](https://zh.wikipedia.org/wiki/伊予郡 "wikilink")[松前町](../Page/松前町_\(愛媛縣\).md "wikilink")）◇：1樓，2014年3月20日開店。店鋪面積957m<sup>2</sup>\[14\]。
 
 ### 九州
 
 #### 福岡縣
 
-  - [天神Loft](../Page/天神_\(福岡市\).md "wikilink")（[福岡市](../Page/福岡市.md "wikilink")[中央區](../Page/中央區_\(福岡市\).md "wikilink")）◎：內。賣場面積約5,500m<sup>2</sup>。2007年11月開店。
+  - [天神Loft](https://zh.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")（[福岡市](../Page/福岡市.md "wikilink")[中央區](../Page/中央區_\(福岡市\).md "wikilink")）◎：內。賣場面積約5,500m<sup>2</sup>。2007年11月開店。
   - [小倉Loft](../Page/小倉北區.md "wikilink")（[北九州市](../Page/北九州市.md "wikilink")[小倉北區](../Page/小倉北區.md "wikilink")）◎：內。賣場面積約1,400m<sup>2</sup>。
 
 #### 大分縣
 
-  - [大分Loft](../Page/大分.md "wikilink")（[大分市](../Page/大分市.md "wikilink")）◇：2樓。店鋪面積941m<sup>2</sup>。2014年3月14日開店。
+  - [大分Loft](https://zh.wikipedia.org/wiki/大分 "wikilink")（[大分市](../Page/大分市.md "wikilink")）◇：2樓。店鋪面積941m<sup>2</sup>。2014年3月14日開店。
 
 #### 鹿兒島縣
 
-  - [鹿兒島Loft](../Page/鹿兒島.md "wikilink")（[鹿兒島市](../Page/鹿兒島市.md "wikilink")）◎：3樓。店鋪面積2,000m<sup>2</sup>。預定2016年春開店\[15\]。
+  - [鹿兒島Loft](https://zh.wikipedia.org/wiki/鹿兒島 "wikilink")（[鹿兒島市](https://zh.wikipedia.org/wiki/鹿兒島市 "wikilink")）◎：3樓。店鋪面積2,000m<sup>2</sup>。預定2016年春開店\[15\]。
 
 ### 泰國
 

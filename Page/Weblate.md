@@ -10,7 +10,7 @@
 
 ## 项目名称
 
-项目的名称是web（[网络](../Page/网络.md "wikilink")）和translate（[翻译](../Page/翻译.md "wikilink")）的[混成词](../Page/混成詞.md "wikilink")。
+项目的名称是web（[网络](https://zh.wikipedia.org/wiki/网络 "wikilink")）和translate（[翻译](../Page/翻译.md "wikilink")）的[混成词](../Page/混成詞.md "wikilink")。
 
 ## 项目网站
 
@@ -22,7 +22,8 @@ Weblate被用于翻译诸多自由软件和深夜软件. 自由软件项目包�
 
   - MyPaint \[2\]
   - FreePBX \[3\]
-  - [phpMyAdmin](../Page/phpMyAdmin.md "wikilink") \[4\]
+  - [phpMyAdmin](https://zh.wikipedia.org/wiki/phpMyAdmin "wikilink")
+    \[4\]
   - Unknown Horizons \[5\]
   - [OpenPetra](https://www.openpetra.org/) \[6\]
   - Aptoide \[7\]
@@ -30,8 +31,8 @@ Weblate被用于翻译诸多自由软件和深夜软件. 自由软件项目包�
 ## 参见
 
   - [Translate Toolkit](../Page/Translate_Toolkit.md "wikilink")
-  - [翻译记忆](../Page/翻译记忆.md "wikilink")
-  - [计算机辅助翻译](../Page/计算机辅助翻译.md "wikilink")
+  - [翻译记忆](https://zh.wikipedia.org/wiki/翻译记忆 "wikilink")
+  - [计算机辅助翻译](https://zh.wikipedia.org/wiki/计算机辅助翻译 "wikilink")
 
 ## 外部链接
 

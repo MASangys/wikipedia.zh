@@ -1,4 +1,4 @@
-**兵蜂PARADISE**（ツインビーPARADISE）是[KONAMI的知名](../Page/KONAMI.md "wikilink")[射擊遊戲](../Page/射擊遊戲.md "wikilink")**[兵蜂](../Page/兵蜂.md "wikilink")**的[廣播劇](../Page/廣播劇.md "wikilink")，由[文化放送播放的廣播节目](../Page/文化放送_\(日本\).md "wikilink")。本节目于1993年10月10日播放，共有三个系列，于1997年3月30日结束。1998年12月28日開始發售OVA。\[1\]\[2\]
+**兵蜂PARADISE**（ツインビーPARADISE）是[KONAMI的知名](https://zh.wikipedia.org/wiki/KONAMI "wikilink")[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")**[兵蜂](../Page/兵蜂.md "wikilink")**的[廣播劇](../Page/廣播劇.md "wikilink")，由[文化放送播放的廣播节目](../Page/文化放送_\(日本\).md "wikilink")。本节目于1993年10月10日播放，共有三个系列，于1997年3月30日结束。1998年12月28日開始發售OVA。\[1\]\[2\]
 
 ## 兵蜂PARADISE
 
@@ -76,6 +76,7 @@
 
 1.  [Twin Bee Paradise
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2338)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [ツインビーPARADISE(1998)](http://www.allcinema.net/prog/show_c.php?num_c=88180)
 3.

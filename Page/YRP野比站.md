@@ -1,7 +1,7 @@
 [Keikyu_YRP-nobi_sta_003.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_003.jpg "fig:Keikyu_YRP-nobi_sta_003.jpg")
 [Keikyu_YRP-nobi_sta_002.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_002.jpg "fig:Keikyu_YRP-nobi_sta_002.jpg")
 [DocomoR\&D.JPG](https://zh.wikipedia.org/wiki/File:DocomoR&D.JPG "fig:DocomoR&D.JPG")
-**YRP野比站**（）是一個位於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市野比一丁目](../Page/橫須賀市.md "wikilink")，屬於[京濱急行電鐵](../Page/京濱急行電鐵.md "wikilink")[久里濱線的](../Page/久里濱線.md "wikilink")[鐵路車站](../Page/鐵路車站.md "wikilink")。[車站編號是](../Page/車站編號.md "wikilink")**KK68**。
+**YRP野比站**（）是一個位於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市野比一丁目](../Page/橫須賀市.md "wikilink")，屬於[京濱急行電鐵](../Page/京濱急行電鐵.md "wikilink")[久里濱線的](../Page/久里濱線.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。[車站編號是](../Page/車站編號.md "wikilink")**KK68**。
 
 ## 年表
 
@@ -19,10 +19,10 @@
 
 ### 月台配置
 
-| 月台 | 路線                                                                                                                            | 方向                                                                                                                                             | 目的地                                                                     |
-| -- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 1  | [Number_prefix_Keikyū.PNG](https://zh.wikipedia.org/wiki/File:Number_prefix_Keikyū.PNG "fig:Number_prefix_Keikyū.PNG") 久里濱線 | 下行                                                                                                                                             | [三浦海岸](../Page/三浦海岸站.md "wikilink")、[三崎口方向](../Page/三崎口站.md "wikilink") |
-| 2  | 上行                                                                                                                            | [橫須賀中央](../Page/橫須賀中央站.md "wikilink")、[橫濱](../Page/橫濱站.md "wikilink")、[品川](../Page/品川站.md "wikilink")、[新橋方向](../Page/新橋站_\(日本\).md "wikilink") |                                                                         |
+| 月台 | 路線                                                                                                                            | 方向                                                                                                                                                                                                      | 目的地                                                                     |
+| -- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1  | [Number_prefix_Keikyū.PNG](https://zh.wikipedia.org/wiki/File:Number_prefix_Keikyū.PNG "fig:Number_prefix_Keikyū.PNG") 久里濱線 | 下行                                                                                                                                                                                                      | [三浦海岸](../Page/三浦海岸站.md "wikilink")、[三崎口方向](../Page/三崎口站.md "wikilink") |
+| 2  | 上行                                                                                                                            | [橫須賀中央](../Page/橫須賀中央站.md "wikilink")、[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")、[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")、[新橋方向](https://zh.wikipedia.org/wiki/新橋站_\(日本\) "wikilink") |                                                                         |
 
 YRP野比站月台
 
@@ -183,7 +183,7 @@ YRP野比站月台
   -
   -
   -
-  - [神奈川大學野比研修所](../Page/神奈川大學.md "wikilink")
+  - [神奈川大學野比研修所](https://zh.wikipedia.org/wiki/神奈川大學 "wikilink")
 
   - 野比支店
 
@@ -236,7 +236,7 @@ YRP野比站月台
         （堀之內站以南為各站停車）
 
           -
-            [京急久里濱](../Page/京急久里濱站.md "wikilink")（KK-67）→**YRP野比（KK-68）**→[京急長澤](../Page/京急長澤站.md "wikilink")（KK-69）
+            [京急久里濱](../Page/京急久里濱站.md "wikilink")（KK-67）→**YRP野比（KK-68）**→[京急長澤](https://zh.wikipedia.org/wiki/京急長澤站 "wikilink")（KK-69）
 
         快特、特急（金澤文庫站以北為快特）、特急（堀之內站以南為各站停車）
 
@@ -249,7 +249,7 @@ YRP野比站月台
 
 ## 相關條目
 
-  - [日本鐵路車站列表 Wa](../Page/日本鐵路車站列表_Wa.md "wikilink")
+  - [日本鐵路車站列表 Wa](https://zh.wikipedia.org/wiki/日本鐵路車站列表_Wa "wikilink")
 
 ## 外部連結
 

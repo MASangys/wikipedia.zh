@@ -1,7 +1,7 @@
-《**MAD**》是[韓國男子組合](../Page/韓國.md "wikilink")[GOT7所推出的第四張](../Page/GOT7.md "wikilink")[韓語迷你專輯](../Page/韓語.md "wikilink")，於2015年9月29日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為KT
+《**MAD**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7所推出的第四張](../Page/GOT7.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2015年9月29日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為KT
 Music，主打歌曲為《If You
 Do》。2015年9月30日在香港、印尼、馬來西亞、菲律賓、新加坡、泰國的iTunes專輯排行榜上獲得第一\[1\]，
-隨後空降美國[Billboard世界專輯榜第一名](../Page/Billboard.md "wikilink")。\[2\]11月6日發行台壓版專輯，特別加收中文版《Just
+隨後空降美國[Billboard世界專輯榜第一名](https://zh.wikipedia.org/wiki/Billboard "wikilink")。\[2\]11月6日發行台壓版專輯，特別加收中文版《Just
 right》一曲，23日發行改版專輯《MAD冬季版》（MAD Winter Edition）。
 
 ## 背景
@@ -19,9 +19,10 @@ Do》MV與專輯音源，同日晚間於首爾江南站的M-Stage舉辦回歸Sho
 right》間隔僅僅兩個多月，一改GOT7以往清新可愛的「男友偶像」形象，轉而以全新的面貌—暗黑、強悍的魅力強勢回歸。
 
 主打歌曲《If You
-Do》不再由[朴軫永操刀](../Page/朴軫永.md "wikilink")，而是交由曾寫過[Sistar的](../Page/Sistar.md "wikilink")《Touch
-My Body》、[miss A](../Page/miss_A.md "wikilink")《Only You》、[Teen
-Top](../Page/Teen_Top.md "wikilink")《從早晨到早晨》等歌曲的知名作曲團隊「[黑眼必勝](../Page/黑眼必勝.md "wikilink")」（Rado&崔奎成）作曲及製作，這也是GOT7出道以來首支朴軫永完全不插手的主打歌曲。\[6\]
+Do》不再由[朴軫永操刀](../Page/朴軫永.md "wikilink")，而是交由曾寫過[Sistar的](https://zh.wikipedia.org/wiki/Sistar "wikilink")《Touch
+My Body》、[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")《Only
+You》、[Teen
+Top](https://zh.wikipedia.org/wiki/Teen_Top "wikilink")《從早晨到早晨》等歌曲的知名作曲團隊「[黑眼必勝](https://zh.wikipedia.org/wiki/黑眼必勝 "wikilink")」（Rado&崔奎成）作曲及製作，這也是GOT7出道以來首支朴軫永完全不插手的主打歌曲。\[6\]
 
 ### 改版專輯《MAD冬季版》
 
@@ -30,7 +31,7 @@ App直播透露即將發行改版專輯的消息，18日、19日分別釋出主�
 
 此張專輯不僅重新包裝，還特別加收3首新歌及1首《If You Do》的舞台混音版歌曲。其中新歌部分GOT7多位成員都有不同程度的參與詞曲創作。
 
-主打歌《告白頌》由朴軫永親自作詞作曲，描述一位缺乏勇氣的男人藉歌曲告白的心情，是一首旋律溫馨且[聖誕節氛圍濃厚的甜蜜歌曲](../Page/聖誕節.md "wikilink")。而[JB首次作曲的](../Page/林在範.md "wikilink")《每天》則向所有愛著GOT7的人們表達了自己的感激之情。[珍榮參與作詞的](../Page/朴珍榮.md "wikilink")《這顆.星》巧妙地利用[雙關語](../Page/雙關語.md "wikilink")，以夜空中的星星來比喻離別後思念的心情。\[8\]
+主打歌《告白頌》由朴軫永親自作詞作曲，描述一位缺乏勇氣的男人藉歌曲告白的心情，是一首旋律溫馨且[聖誕節氛圍濃厚的甜蜜歌曲](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")。而[JB首次作曲的](../Page/林在範.md "wikilink")《每天》則向所有愛著GOT7的人們表達了自己的感激之情。[珍榮參與作詞的](../Page/朴珍榮.md "wikilink")《這顆.星》巧妙地利用[雙關語](https://zh.wikipedia.org/wiki/雙關語 "wikilink")，以夜空中的星星來比喻離別後思念的心情。\[8\]
 
 ## 發行版本
 
@@ -67,7 +68,7 @@ App直播透露即將發行改版專輯的消息，18日、19日分別釋出主�
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年9月27日－10月3日</p></td>
 <td><p>#9</p></td>
@@ -121,7 +122,7 @@ App直播透露即將發行改版專輯的消息，18日、19日分別釋出主�
 </tr>
 <tr class="odd">
 <td><p>美國</p></td>
-<td><p><a href="../Page/Billboard.md" title="wikilink">Billboard</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Billboard" title="wikilink">Billboard</a></p></td>
 <td><p>世界專輯榜</p></td>
 <td><p>2015年10月10日－10月17日</p></td>
 <td><p>#1</p></td>

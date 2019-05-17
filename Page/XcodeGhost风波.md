@@ -1,11 +1,11 @@
 **XcodeGhost风波**，为[中国大陆地区](../Page/中国大陆.md "wikilink")[App
-Store中的部分](../Page/App_Store_\(iOS\).md "wikilink")[iOS應用程式被称为](../Page/iOS.md "wikilink")「XCodeGhost」的第三方惡意代码注入，而产生了一系列的问题，包括可能的隐私泄漏、广告点击。
+Store中的部分](../Page/App_Store_\(iOS\).md "wikilink")[iOS應用程式被称为](https://zh.wikipedia.org/wiki/iOS "wikilink")「XCodeGhost」的第三方惡意代码注入，而产生了一系列的问题，包括可能的隐私泄漏、广告点击。
 
 因为属于开发者端的程序污染，所以即便是未[越狱的iOS用户从苹果官方App](../Page/越獄_\(iOS\).md "wikilink")
 Store下载应用也可能存在风险。
 
-根據[史諾登](../Page/史諾登.md "wikilink")（Edward
-Snowden）揭露文件，該手法於2012年，[美國](../Page/美國.md "wikilink")[中情局](../Page/中情局.md "wikilink")（CIA）已有相關能力，即透過偽冒Xcode，用來監控所有使用該偽冒開發工具所開發的App及後續的修改版本，而這套偽冒開發工具所開發的App，可以在[蘋果公司的官方App](../Page/蘋果公司.md "wikilink")
+根據[史諾登](https://zh.wikipedia.org/wiki/史諾登 "wikilink")（Edward
+Snowden）揭露文件，該手法於2012年，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[中情局](https://zh.wikipedia.org/wiki/中情局 "wikilink")（CIA）已有相關能力，即透過偽冒Xcode，用來監控所有使用該偽冒開發工具所開發的App及後續的修改版本，而這套偽冒開發工具所開發的App，可以在[蘋果公司的官方App](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
 Store上架並販售，且不會被任何人員發覺有異常之處。\[1\]
 
 ## 事件发展
@@ -13,17 +13,17 @@ Store上架並販售，且不會被任何人員發覺有異常之處。\[1\]
 ### XcodeGhost植入
 
 [Xcode为苹果公司所發行](../Page/Xcode.md "wikilink")、供程式設計師開發[OS
-X](../Page/OS_X.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[watchOS與](../Page/watchOS.md "wikilink")[tvOS應用程式的](../Page/tvOS.md "wikilink")[整合開發環境](../Page/整合開發環境.md "wikilink")（IDE），在Mac
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS與](https://zh.wikipedia.org/wiki/watchOS "wikilink")[tvOS應用程式的](https://zh.wikipedia.org/wiki/tvOS "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")（IDE），在Mac
 App Store中免费提供。由于[网络审查导致中国大陆用户访问](../Page/中华人民共和国网络审查.md "wikilink")[Mac
 App
-Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出于方便选择了国内第三方渠道下载（如[百度云盘](../Page/百度云盘.md "wikilink")、[迅雷离线等](../Page/迅雷离线.md "wikilink")）或者从社交平台查找获得开发程序，由此带来了安全隐患。
+Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出于方便选择了国内第三方渠道下载（如[百度云盘](https://zh.wikipedia.org/wiki/百度云盘 "wikilink")、[迅雷离线等](https://zh.wikipedia.org/wiki/迅雷离线 "wikilink")）或者从社交平台查找获得开发程序，由此带来了安全隐患。
 
 而这部分Xcode的框架库中被加入了被称为“XcodeGhost”的框架库，导致其编译出来的App都带有后门代码，会在最终客户端运行时将隐私信息提交给第三方。
 \[2\]
 
 ### 爆发
 
-根据已经披露的文档，腾讯安全应急响应中心在跟踪某app的bug时发现异常流量，解析后上报了[国家互联网应急中心](../Page/国家互联网应急中心.md "wikilink")（CNCERT）\[3\]，后者随即在2015年9月14日发布了预警訊息\[4\]。之后也有国外信息安全组织跟进调查。
+根据已经披露的文档，腾讯安全应急响应中心在跟踪某app的bug时发现异常流量，解析后上报了[国家互联网应急中心](https://zh.wikipedia.org/wiki/国家互联网应急中心 "wikilink")（CNCERT）\[3\]，后者随即在2015年9月14日发布了预警訊息\[4\]。之后也有国外信息安全组织跟进调查。
 
 在2015年9月17日左右，[新浪微博用户](../Page/新浪微博.md "wikilink") @唐巧_boy
 发布微博声称Xcode有可能被第三方代码注入，而在社交平台上引起轩然大波。乌云网后续发布相关的知识库文章\[5\]。
@@ -42,7 +42,7 @@ Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出�
 
 受到影响的app程序众多，据称受感染的app多达76个\[8\]，而记载着app名单的截图应该来自“360安全播报平台”，其将在2015年9月19日更新的消息中将受XcodeGhost感染的app数量上调为344款\[9\]；而截至2015年9月20日下午的通报，受感染app数量为1078款\[10\]。
 
-知名度较高的部分app如：[微信](../Page/微信.md "wikilink")、[网易云音乐](../Page/网易云音乐.md "wikilink")、[滴滴打车](../Page/滴滴打车.md "wikilink")、[高德地图](../Page/高德地图.md "wikilink")、[12306](../Page/12306.md "wikilink")、[同花顺](../Page/同花顺.md "wikilink")、中信银行动卡空间、[简书等](../Page/简书.md "wikilink")。涉及包括即时通讯软件、地图应用甚至金融服务产品。
+知名度较高的部分app如：[微信](../Page/微信.md "wikilink")、[网易云音乐](../Page/网易云音乐.md "wikilink")、[滴滴打车](https://zh.wikipedia.org/wiki/滴滴打车 "wikilink")、[高德地图](https://zh.wikipedia.org/wiki/高德地图 "wikilink")、[12306](https://zh.wikipedia.org/wiki/12306 "wikilink")、[同花顺](https://zh.wikipedia.org/wiki/同花顺 "wikilink")、中信银行动卡空间、[简书等](https://zh.wikipedia.org/wiki/简书 "wikilink")。涉及包括即时通讯软件、地图应用甚至金融服务产品。
 
 苹果公司對此事进行了公开声明\[11\]，並对于部分感染app进行了下架处理\[12\]；从2015年9月20日开始，部分下架程序重新编译后上架，但各厂商对此态度不同，微信的版本更新中并未说明原因，而网易云音乐则注明为“修复XcodeGhost问题”\[13\]。
 
@@ -56,7 +56,7 @@ Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出�
   - 安全网站如乌云、腾讯安全中心，自媒体月光博客等也在该事件中作为信息发布平台提供支持。
   - 虽然苹果公司发布了声明并对感染应用做了下架处理\[15\]，然而风险仍然存在，即如果用户下载了受感染应用而没有更新，恶意代码仍然有被运行风险。苹果对此也并没有对所有用户发布推送性质的通告。
   - 腾讯科技在2015年9月21日发表了署名“梁辰”的相关评论文章\[16\]，箭头直指苹果的安全防御机制，解释相关黑色产业链的存在；然而最后段落中，对于开发者不恰当使用第三方渠道下载XCode工具采用了避重就轻的批评。结合本次受灾的[微信](../Page/微信.md "wikilink")（iOS，6.2.5版\[17\]），不免令人对其立场产生怀疑。此外，文中错误指称
-    [肯·汤普逊言及](../Page/肯·汤普逊.md "wikilink")『编译Unix代码的C编辑器里留有“[后门](../Page/軟體後門.md "wikilink")”』，事实为Ken在其论文《Reflections
+    [肯·汤普逊言及](../Page/肯·汤普逊.md "wikilink")『编译Unix代码的C编辑器里留有“[后门](https://zh.wikipedia.org/wiki/軟體後門 "wikilink")”』，事实为Ken在其论文《Reflections
     on Trusting
     Trust》中阐述的若不校验基于信任的信任，那么编译器出现问题时则会影响全局安全性\[18\]，与本次事件有相似度。
 
@@ -76,22 +76,22 @@ Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出�
 
 <!-- end list -->
 
-  - XcodeGhost作者声称这是一个实验性项目\[22\]，然而有专家对此说法表示质疑，其在事前的针对性[SEO](../Page/SEO.md "wikilink")，后门代码所能产生的更大的劫持能力，以及架设在[亚马逊云上的流量费用远超出其所声称的个人能力](../Page/Amazon_EC2.md "wikilink")。
+  - XcodeGhost作者声称这是一个实验性项目\[22\]，然而有专家对此说法表示质疑，其在事前的针对性[SEO](https://zh.wikipedia.org/wiki/SEO "wikilink")，后门代码所能产生的更大的劫持能力，以及架设在[亚马逊云上的流量费用远超出其所声称的个人能力](../Page/Amazon_EC2.md "wikilink")。
 
 ## 参见
 
-  - [iOS应用程序审核](../Page/iOS应用程序审核.md "wikilink")
+  - [iOS应用程序审核](https://zh.wikipedia.org/wiki/iOS应用程序审核 "wikilink")
   - [Xcode](../Page/Xcode.md "wikilink")（苹果开发套件）
   - [防火长城](../Page/防火长城.md "wikilink")（中国大陆访问境外网站受限的阻挡）
-  - [僵尸网络](../Page/僵尸网络.md "wikilink")
-  - [2014年8月名人照片泄露事件](../Page/2014年8月名人照片泄露事件.md "wikilink")（曾经发生的iCloud泄露事件）
+  - [僵尸网络](https://zh.wikipedia.org/wiki/僵尸网络 "wikilink")
+  - [2014年8月名人照片泄露事件](https://zh.wikipedia.org/wiki/2014年8月名人照片泄露事件 "wikilink")（曾经发生的iCloud泄露事件）
 
 ## 参考资料
 
 ## 外部链接
 
   -
-  - [Greatfire組織](../Page/Greatfire.md "wikilink")：\[//zh.greatfire.org/blog/2015/sep/popular-chinese-ios-apps-compromised-unprecedented-malware-attack
+  - [Greatfire組織](https://zh.wikipedia.org/wiki/Greatfire "wikilink")：\[//zh.greatfire.org/blog/2015/sep/popular-chinese-ios-apps-compromised-unprecedented-malware-attack
     中国流行的iOS应用遭到前所未有的恶意软件感染\]
 
   - [关于使用非苹果官方XCODE存在植入恶意代码情况的预警通报](http://www.cert.org.cn/publish/main/12/2015/20150914152821158428128/20150914152821158428128_.html)
@@ -109,7 +109,7 @@ Store有连接困难](../Page/Mac_App_Store.md "wikilink")，部分开发者出�
 
   - [Solidot](../Page/Solidot.md "wikilink")：[报道称XcodeGhost开发者已被控制](http://www.solidot.org/story?sid=45643)
 
-[分类:2015年中国网络事件](../Page/分类:2015年中国网络事件.md "wikilink")
+[分类:2015年中国网络事件](https://zh.wikipedia.org/wiki/分类:2015年中国网络事件 "wikilink")
 
 [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
 [Category:2015年9月](https://zh.wikipedia.org/wiki/Category:2015年9月 "wikilink")

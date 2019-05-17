@@ -1,6 +1,6 @@
 《**花樣年華
-pt.1**》是[韓國男子組合](../Page/韓國.md "wikilink")[防彈少年團第三張韓語迷你專輯](../Page/防彈少年團.md "wikilink")\[1\]，為「青春二部曲」系列專輯的首部曲，談述青春既美麗又不安的瞬間。\[2\]2015年4月29日由[Big
-Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Page/LOEN娛樂.md "wikilink")
+pt.1**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團第三張韓語迷你專輯](../Page/防彈少年團.md "wikilink")\[1\]，為「青春二部曲」系列專輯的首部曲，談述青春既美麗又不安的瞬間。\[2\]2015年4月29日由[Big
+Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")
 ，主打曲目為〈I NEED U〉，後續曲為〈(Dope)〉（）。
 
 ## 簡介
@@ -29,7 +29,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Pa
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年4月26日－5月2日</p></td>
 <td><p>#5</p></td>
@@ -87,7 +87,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Pa
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2017年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2017年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
 <td><p>2017年</p></td>
 <td><p>#60<br />
 （59,768張）</p></td>
@@ -96,7 +96,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Pa
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#59<br />
 （72,472張）</p></td>
@@ -117,13 +117,13 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Pa
 
 ### 其他歌曲成績
 
-| 歌曲                      | 榜單                                       | 類型                                              | 停留時間            | 最高位置 | 參考資料  |
-| ----------------------- | ---------------------------------------- | ----------------------------------------------- | --------------- | ---- | ----- |
-| Hold Me Tight           | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年4月26日－5月2日 | \#59 | \[6\] |
-| Converse High           | \#70                                     |                                                 |                 |      |       |
-| 興彈少年團                   | \#80                                     |                                                 |                 |      |       |
-| 屌 (Dope)                | \#87                                     |                                                 |                 |      |       |
-| Outro. Love is Not Over | \#98                                     |                                                 |                 |      |       |
+| 歌曲                      | 榜單                                                          | 類型                                              | 停留時間            | 最高位置 | 參考資料  |
+| ----------------------- | ----------------------------------------------------------- | ----------------------------------------------- | --------------- | ---- | ----- |
+| Hold Me Tight           | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年4月26日－5月2日 | \#59 | \[6\] |
+| Converse High           | \#70                                                        |                                                 |                 |      |       |
+| 興彈少年團                   | \#80                                                        |                                                 |                 |      |       |
+| 屌 (Dope)                | \#87                                                        |                                                 |                 |      |       |
+| Outro. Love is Not Over | \#98                                                        |                                                 |                 |      |       |
 
 ### Oricon公信榜
 
@@ -191,19 +191,19 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Pa
 <td><p>2015年4月29日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a>、<a href="../Page/CD.md" title="wikilink">CD</a></p></td>
 <td><p><a href="../Page/Big_Hit娛樂.md" title="wikilink">Big Hit娛樂</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>
 <td><p>2015年6月2日</p></td>
-<td><p><a href="../Page/CD.md" title="wikilink">CD</a>、CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
+<td><p><a href="../Page/CD.md" title="wikilink">CD</a>、CD+<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
 <td><p><a href="../Page/環球音樂_(台灣).md" title="wikilink">台灣環球音樂</a>[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本</p></td>
 <td><p>2015年9月16日</p></td>
 <td><p>CD+DVD</p></td>
-<td><p><a href="../Page/波麗佳音.md" title="wikilink">波麗佳音</a>[8]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波麗佳音" title="wikilink">波麗佳音</a>[8]</p></td>
 </tr>
 </tbody>
 </table>

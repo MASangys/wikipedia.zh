@@ -1,5 +1,5 @@
 《**配角X³**》（Supporting role Actor X³）為
-[臺灣漫畫家](../Page/臺灣.md "wikilink")[宇文風之作品](../Page/宇文風.md "wikilink")。\[1\]2015年2月正式開始於[東立出版社](../Page/東立出版社.md "wikilink")《[龍少年](../Page/龍少年.md "wikilink")》連載，單行本第一本於同年7月3日發售。
+[臺灣漫畫家](../Page/臺灣.md "wikilink")[宇文風之作品](https://zh.wikipedia.org/wiki/宇文風 "wikilink")。\[1\]2015年2月正式開始於[東立出版社](../Page/東立出版社.md "wikilink")《[龍少年](https://zh.wikipedia.org/wiki/龍少年 "wikilink")》連載，單行本第一本於同年7月3日發售。
 
 内容以「配角」的角度來描述故事。\[2\]\[3\]
 
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   - 熊（布拉克）
-    從天而降的謎樣生物，外型貌似[臺灣黑熊](../Page/臺灣黑熊.md "wikilink")，給予宗翔「物語連結」的力量。
+    從天而降的謎樣生物，外型貌似[臺灣黑熊](https://zh.wikipedia.org/wiki/臺灣黑熊 "wikilink")，給予宗翔「物語連結」的力量。
     除了宗翔，周遭的人都認知不到它的存在（包括法爾雪莉在內），會講人話。
 
 <!-- end list -->
@@ -381,7 +381,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a> / <a href="../Page/EAN.md" title="wikilink">EAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a> / <a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>

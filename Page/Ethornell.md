@@ -1,6 +1,6 @@
-**Ethornell**是日本BURIKO公司（株式会社ブリコ）開發的[遊戲引擎](../Page/遊戲引擎.md "wikilink")，正式名稱是Buriko
+**Ethornell**是日本BURIKO公司（株式会社ブリコ）開發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，正式名稱是Buriko
 General
-Interpreter，作業系統是[Windows](../Page/Windows.md "wikilink")。\[1\]\[2\]主要用於開發[冒險遊戲和](../Page/冒險遊戲.md "wikilink")[視覺小說類型的](../Page/視覺小說.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")，也能開發[角色扮演遊戲](../Page/角色扮演遊戲.md "wikilink")、[模擬遊戲](../Page/模擬遊戲.md "wikilink")。
+Interpreter，作業系統是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[1\]\[2\]主要用於開發[冒險遊戲和](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[視覺小說類型的](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")，也能開發[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")、[模擬遊戲](../Page/模擬遊戲.md "wikilink")。
 
 ## 使用Ethornell的知名遊戲作品
 
@@ -8,11 +8,11 @@ Interpreter，作業系統是[Windows](../Page/Windows.md "wikilink")。\[1\]\[2
 
 <!-- end list -->
 
-  - [夜明け前より瑠璃色な](../Page/夜明け前より瑠璃色な.md "wikilink")
+  - [夜明け前より瑠璃色な](https://zh.wikipedia.org/wiki/夜明け前より瑠璃色な "wikilink")
   - [FORTUNE ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink")
-  - [穢翼のユースティア](../Page/穢翼のユースティア.md "wikilink")
-  - [大図書館の羊飼い](../Page/大図書館の羊飼い.md "wikilink")
-  - [千の刃濤、桃花染の皇姫](../Page/千の刃濤、桃花染の皇姫.md "wikilink")
+  - [穢翼のユースティア](https://zh.wikipedia.org/wiki/穢翼のユースティア "wikilink")
+  - [大図書館の羊飼い](https://zh.wikipedia.org/wiki/大図書館の羊飼い "wikilink")
+  - [千の刃濤、桃花染の皇姫](https://zh.wikipedia.org/wiki/千の刃濤、桃花染の皇姫 "wikilink")
 
 <!-- end list -->
 
@@ -28,15 +28,16 @@ Interpreter，作業系統是[Windows](../Page/Windows.md "wikilink")。\[1\]\[2
 
 <!-- end list -->
 
-  - [タユタマ -Kiss on my Deity-](../Page/遊魂.md "wikilink")
+  - [タユタマ -Kiss on my
+    Deity-](https://zh.wikipedia.org/wiki/遊魂 "wikilink")
   - [タユタマ -It's happy
-    days-](../Page/タユタマ_-It's_happy_days-.md "wikilink")
+    days-](https://zh.wikipedia.org/wiki/タユタマ_-It's_happy_days- "wikilink")
   - [学☆王 -THE ROYAL SEVEN
-    STARS-](../Page/学☆王_-THE_ROYAL_SEVEN_STARS-.md "wikilink")
-  - [花色ヘプタグラム](../Page/花色ヘプタグラム.md "wikilink")
-  - [世界と世界の真ん中で](../Page/世界と世界の真ん中で.md "wikilink")
+    STARS-](https://zh.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS- "wikilink")
+  - [花色ヘプタグラム](https://zh.wikipedia.org/wiki/花色ヘプタグラム "wikilink")
+  - [世界と世界の真ん中で](https://zh.wikipedia.org/wiki/世界と世界の真ん中で "wikilink")
   - [タユタマ２ -You're the only
-    one-](../Page/遊魂2_-you're_the_only_one-.md "wikilink")
+    one-](https://zh.wikipedia.org/wiki/遊魂2_-you're_the_only_one- "wikilink")
 
 <!-- end list -->
 
@@ -58,14 +59,14 @@ Interpreter，作業系統是[Windows](../Page/Windows.md "wikilink")。\[1\]\[2
 
 [Sprite](../Page/Sprite_\(遊戲品牌\).md "wikilink")
 
-  - [蒼の彼方のフォーリズム](../Page/蒼の彼方のフォーリズム.md "wikilink")
+  - [蒼の彼方のフォーリズム](https://zh.wikipedia.org/wiki/蒼の彼方のフォーリズム "wikilink")
 
-[枕](../Page/枕.md "wikilink")
+[枕](https://zh.wikipedia.org/wiki/枕 "wikilink")
 
   - [H2O -FOOTPRINTS IN THE
     SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")
   - [しゅぷれ〜むキャンディ
-    〜王道には王道たる理由があるんです\!〜](../Page/しゅぷれ〜むキャンディ_〜王道には王道たる理由があるんです!〜.md "wikilink")
+    〜王道には王道たる理由があるんです\!〜](https://zh.wikipedia.org/wiki/しゅぷれ〜むキャンディ_〜王道には王道たる理由があるんです!〜 "wikilink")
 
 [向日葵の教会と長い夏休み](../Page/向日葵的教會與長夏假期.md "wikilink")
 

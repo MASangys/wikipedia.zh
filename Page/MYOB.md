@@ -1,5 +1,5 @@
 **[MYOB](https://united.com.hk/myob/)**（全称：Mind Your Own
-Business）是一所來自[澳洲的](../Page/澳洲.md "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，主要向中小型企業提供會計軟件等服務。
+Business）是一所來自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，主要向中小型企業提供會計軟件等服務。
 
 ## 產品
 
@@ -55,7 +55,8 @@ Intelligence)](https://united.com.hk/bi/)等。
 
 ## 合併與收購
 
-  - 2013年6月4日 [BankLink](../Page/BankLink.md "wikilink")  \[1\]
+  - 2013年6月4日
+    [BankLink](https://zh.wikipedia.org/wiki/BankLink "wikilink")  \[1\]
   - 2011年9月 被贝恩资本收购 
   - 2008年8月20日 收购Smartyhost 
   - 2013年8月5日 与Smartyhost分离

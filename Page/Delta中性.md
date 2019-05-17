@@ -1,6 +1,6 @@
-在[金融领域](../Page/金融.md "wikilink")，如果一个投资组合由相关的金融产品组成，而且其价值不受标的资产小幅价格变动的影响，这样的投资组合具有**delta中性**的性质。这种[投资组合的成分通常包括](../Page/投資組合.md "wikilink")[期权和相对应的标的资产](../Page/期权.md "wikilink")，让[delta正负相消](../Page/delta.md "wikilink")，使投资组合的价格对标的资产的价格相对不敏感。
+在[金融领域](../Page/金融.md "wikilink")，如果一个投资组合由相关的金融产品组成，而且其价值不受标的资产小幅价格变动的影响，这样的投资组合具有**delta中性**的性质。这种[投资组合的成分通常包括](../Page/投資組合.md "wikilink")[期权和相对应的标的资产](https://zh.wikipedia.org/wiki/期权 "wikilink")，让[delta正负相消](https://zh.wikipedia.org/wiki/delta "wikilink")，使投资组合的价格对标的资产的价格相对不敏感。
 
-delta对冲是一个与delta中性相关的概念。这种对冲描述的是保持[投资组合的](../Page/投資組合.md "wikilink")[delta尽可能等于或接近零的过程](../Page/delta.md "wikilink")。维持零delta在实际操作中的难度较大。这是由于当标的资产的价格变化很大时，再次对冲的风险较高。此外，研究表明频繁的对冲会导致投资组合的低现金流。\[1\]
+delta对冲是一个与delta中性相关的概念。这种对冲描述的是保持[投资组合的](../Page/投資組合.md "wikilink")[delta尽可能等于或接近零的过程](https://zh.wikipedia.org/wiki/delta "wikilink")。维持零delta在实际操作中的难度较大。这是由于当标的资产的价格变化很大时，再次对冲的风险较高。此外，研究表明频繁的对冲会导致投资组合的低现金流。\[1\]
 
 ## 相关术语
 
@@ -20,13 +20,13 @@ Delta值衡量的是当其他参数不变的情况下，标的资产价格变化
 
 Delta是S的函数，同时它也是[执行价格和到期时间的函数](../Page/履約價.md "wikilink")。 \[3\]
 
-因此，在标的物的[无穷小的价格变化下](../Page/无穷小.md "wikilink")，一个delta中性的头寸价格变化为零。由于[delta描述的是](../Page/delta.md "wikilink")[衍生品价格对标的物价格的敏感度](../Page/金融衍生工具.md "wikilink")，这样的投资组合是被有效对冲的。 其价格不会因为标的物价格的小幅变化而变化。
+因此，在标的物的[无穷小的价格变化下](https://zh.wikipedia.org/wiki/无穷小 "wikilink")，一个delta中性的头寸价格变化为零。由于[delta描述的是](https://zh.wikipedia.org/wiki/delta "wikilink")[衍生品价格对标的物价格的敏感度](../Page/金融衍生工具.md "wikilink")，这样的投资组合是被有效对冲的。 其价格不会因为标的物价格的小幅变化而变化。
 
 ## 设立头寸
 
 投资者可以通过买入或卖出一定数量的标的资产来建立**Delta对冲**冲所需的头寸。这个数量由投资组合的delta来决定。通过调整这一数量，投资组合的总delta之和为零，即达到delta中性的目标。
 
-期权的[做市商](../Page/做市商.md "wikilink")（或其他市场参与者）也可以用相关的期权来设立delta对冲的头寸。投资组合的delta等于各个成分期权的delta之和。在标的物本身的交易很困难时，可以使用这种方法。比如，有些标的物可能很难借贷，或者无法[做空](../Page/做空.md "wikilink")。
+期权的[做市商](../Page/做市商.md "wikilink")（或其他市场参与者）也可以用相关的期权来设立delta对冲的头寸。投资组合的delta等于各个成分期权的delta之和。在标的物本身的交易很困难时，可以使用这种方法。比如，有些标的物可能很难借贷，或者无法[做空](https://zh.wikipedia.org/wiki/做空 "wikilink")。
 
 例如，一种delta中性的策略可以是买入一份深价内看涨期权，同时卖出一份深价内看跌期权。深价内看涨期权的delta是1，而深价内看跌期权的delta是-1。这样一来，在标的资产价格一定的浮动范围内，它们的delta互相抵消。
 

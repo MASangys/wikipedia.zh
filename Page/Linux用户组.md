@@ -1,7 +1,7 @@
 [Installfest.jpg](https://zh.wikipedia.org/wiki/File:Installfest.jpg "fig:Installfest.jpg")
 
 **Linux用户组**（，缩写为
-****）或**GNU/Linux用户组**是一个为Linux用户，特别是无经验用户提供教育支持的私有组织，通常是非营利的。“用户组”主要指举办集会的本地组织，但它也可以指成员分布在各地，不举办或不基于线下集会的在线组织。多数LUG也包括了[FreeBSD等](../Page/FreeBSD.md "wikilink")[类Unix的自由操作系统](../Page/类Unix.md "wikilink")。
+****）或**GNU/Linux用户组**是一个为Linux用户，特别是无经验用户提供教育支持的私有组织，通常是非营利的。“用户组”主要指举办集会的本地组织，但它也可以指成员分布在各地，不举办或不基于线下集会的在线组织。多数LUG也包括了[FreeBSD等](../Page/FreeBSD.md "wikilink")[类Unix的自由操作系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")。
 
 ## 本地Linux用户组
 
@@ -20,7 +20,7 @@ Kionka领导，旨在推动Xenix和其它“低成本个人电脑的Unix系统�
 ## 常见活动
 
 Linux用户组通常每月举行聚会。聚会通常位于大学、学院、社区中心、私企或餐厅宴会厅等免费提供的场地进行。例如，在10年间，SVLUG都是在一家名为Carl's
-Jr的餐厅聚会的，而过去的几年，转移都[思科的会议室](../Page/思科.md "wikilink")，最近又移步[赛门铁克](../Page/赛门铁克.md "wikilink")。类似的，BALUG（[湾区Linux用户组](../Page/湾区.md "wikilink")）则总是在旧金山唐人街的四海餐厅宴会厅举办聚会。
+Jr的餐厅聚会的，而过去的几年，转移都[思科的会议室](https://zh.wikipedia.org/wiki/思科 "wikilink")，最近又移步[赛门铁克](../Page/赛门铁克.md "wikilink")。类似的，BALUG（[湾区Linux用户组](https://zh.wikipedia.org/wiki/湾区 "wikilink")）则总是在旧金山唐人街的四海餐厅宴会厅举办聚会。
 
 大多数Linux用户组都是免费的，不需要缴纳会费。很多情况下参与者都被鼓励去资助举办者。
 
@@ -35,15 +35,15 @@ Libre）在尼加拉瓜举办时，从伯利兹到巴拿马的各地的用户组
 
 ### 中国大陆地区Linux用户组
 
-起步比较早，比如1997年成立的[上海Linux用户组](../Page/上海Linux用户组.md "wikilink")\[2\]，以及后来成立的[北京GNU/Linux用户组和](../Page/北京GNU/Linux用户组.md "wikilink")[广州Linux用户组等](../Page/广州Linux用户组.md "wikilink")。经历过2007年和2008年两年的[软件自由日的发展](../Page/软件自由日.md "wikilink")，又先后出现[深圳Linux用户组](https://shenzhenlug.org)、[重庆Linux用户组](https://chongqinglug.org)和[成都Linux用户组等](../Page/成都Linux用户组.md "wikilink")。\[3\]
+起步比较早，比如1997年成立的[上海Linux用户组](https://zh.wikipedia.org/wiki/上海Linux用户组 "wikilink")\[2\]，以及后来成立的[北京GNU/Linux用户组和](https://zh.wikipedia.org/wiki/北京GNU/Linux用户组 "wikilink")[广州Linux用户组等](https://zh.wikipedia.org/wiki/广州Linux用户组 "wikilink")。经历过2007年和2008年两年的[软件自由日的发展](../Page/软件自由日.md "wikilink")，又先后出现[深圳Linux用户组](https://shenzhenlug.org)、[重庆Linux用户组](https://chongqinglug.org)和[成都Linux用户组等](https://zh.wikipedia.org/wiki/成都Linux用户组 "wikilink")。\[3\]
 
 ### 台湾地区Linux用户组
 
-[台北開放原始碼軟體使用者社群](../Page/台北開放原始碼軟體使用者社群.md "wikilink")（TOSSUG）
+[台北開放原始碼軟體使用者社群](https://zh.wikipedia.org/wiki/台北開放原始碼軟體使用者社群 "wikilink")（TOSSUG）
 
 ### 香港特别行政区Linux用户组
 
-[香港Linux用户组](../Page/香港Linux用户组.md "wikilink")
+[香港Linux用户组](https://zh.wikipedia.org/wiki/香港Linux用户组 "wikilink")
 
 ### 新加坡Linux用户组
 

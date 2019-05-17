@@ -10,7 +10,7 @@ Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作�
   - 2007年成立**Honky-Tonk Pumpkin**。
   - 2009年成立**P-ch**。
   - 2010年Berkshire Yorkshire的原畫[choco
-    chip辭職](../Page/choco_chip.md "wikilink")。\[3\]
+    chip辭職](https://zh.wikipedia.org/wiki/choco_chip "wikilink")。\[3\]
   - 2011年8月負責企劃的桐生タツヒコ和TEAM
     HEARTBEAT的原畫M\&M等部分工作人員辭職後到アルカディアワークス公司成立新品牌**Astronauts**
     （アストロノーツ）。
@@ -59,14 +59,15 @@ Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作�
 ### Berkshire Yorkshire
 
   - 2001年11月22日
-  - 2002年6月21日 [恥辱診察室](../Page/恥辱診察室.md "wikilink")
+  - 2002年6月21日 [恥辱診察室](https://zh.wikipedia.org/wiki/恥辱診察室 "wikilink")
   - 2002年12月13日 [妹汁](../Page/妹汁.md "wikilink")
   - 2003年7月25日 ドキドキお姉さん
   - 2004年2月27日
   - 2004年9月24日 ナースにおまかせ
   - 2005年4月28日 [家庭教師のおねえさん
     ～Hの偏差値あげちゃいます～](../Page/家庭教師大姊姊.md "wikilink")
-  - 2005年11月25日 [姉汁 〜白川三姉妹におまかせ〜](../Page/姐汁_～交給白川三姐妹吧～.md "wikilink")
+  - 2005年11月25日 [姉汁
+    〜白川三姉妹におまかせ〜](https://zh.wikipedia.org/wiki/姐汁_～交給白川三姐妹吧～ "wikilink")
   - 2006年6月30日 School ぷろじぇくと☆
   - 2007年2月23日 幼なじみと甘〜くエッチに過ごす方法
   - 2007年9月28日

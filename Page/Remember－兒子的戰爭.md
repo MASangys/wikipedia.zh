@@ -1,4 +1,4 @@
-《**Remember-兒子的戰爭**》（，），或稱：**記得我愛你**、**記憶復仇**，為[韓國](../Page/韓國.md "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2015年12月9日起播出的[水木迷你連續劇](../Page/SBS水木迷你連續劇.md "wikilink")，由[俞承豪](../Page/俞承豪.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[朴敏英](../Page/朴敏英.md "wikilink")、[鄭惠成及](../Page/鄭惠成.md "wikilink")[南宮珉主演](../Page/南宮珉.md "wikilink")，《[美女的誕生](../Page/美女的誕生.md "wikilink")》導演[李昌民執導以及](../Page/李昌民.md "wikilink")《[辯護人](../Page/辯護人_\(電影\).md "wikilink")》編劇[尹賢浩執筆](../Page/尹賢浩.md "wikilink")。
+《**Remember-兒子的戰爭**》（，），或稱：**記得我愛你**、**記憶復仇**，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2015年12月9日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")，由[俞承豪](../Page/俞承豪.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[朴敏英](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")、[鄭惠成及](../Page/鄭惠成.md "wikilink")[南宮珉主演](../Page/南宮珉.md "wikilink")，《[美女的誕生](../Page/美女的誕生.md "wikilink")》導演[李昌民執導以及](../Page/李昌民.md "wikilink")《[辯護人](../Page/辯護人_\(電影\).md "wikilink")》編劇[尹賢浩執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。
 
 ## 劇情簡介
 
@@ -33,7 +33,7 @@
 <td><p><strong><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a></strong></p></td>
 <td><p><strong>徐振宇</strong></p></td>
 <td><p><strong>絕對記憶的律師</strong>；6→18歲（第1~4集）→22歲（第5集開始）</p></td>
-<td><p><a href="../Page/張裕東.md" title="wikilink">張裕東</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a><br />
 </p></td>
 <td></td>
 </tr>
@@ -47,7 +47,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/朴敏英.md" title="wikilink">朴敏英</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></strong></p></td>
 <td><p><strong>李仁雅</strong></p></td>
 <td><p><strong>檢察官</strong>；23歲（第1~4集）→27歲（第5集開始）</p></td>
 <td><p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
@@ -72,12 +72,12 @@
 
 ### 邊緣律師事務所
 
-|                                  |        |                                      |                                  |          |
-| -------------------------------- | ------ | ------------------------------------ | -------------------------------- | -------- |
-| **演員**                           | **角色** | **介紹**                               | **粵語配音**                         | **國語配音** |
-| [金鎮祐](../Page/金鎮祐.md "wikilink") | 姜石權    | 32歲，李仁雅學生時代的補習老師、現職法官，後成為人權律師,喜歡李仁雅。 | [李凱傑](../Page/李凱傑.md "wikilink") |          |
-| [金亨範](../Page/金亨範.md "wikilink") | 宋在益    | 34→38歲，口吃的法援律師，第五集開始在邊緣律師事務所工作。      | [劉昭文](../Page/劉昭文.md "wikilink") |          |
-| [李姃垠](../Page/李姃垠.md "wikilink") | 延寶美    | 46→50歲，事務所事務長。                       | [謝潔貞](../Page/謝潔貞.md "wikilink") |          |
+|                                                     |        |                                      |                                  |          |
+| --------------------------------------------------- | ------ | ------------------------------------ | -------------------------------- | -------- |
+| **演員**                                              | **角色** | **介紹**                               | **粵語配音**                         | **國語配音** |
+| [金鎮祐](../Page/金鎮祐.md "wikilink")                    | 姜石權    | 32歲，李仁雅學生時代的補習老師、現職法官，後成為人權律師,喜歡李仁雅。 | [李凱傑](../Page/李凱傑.md "wikilink") |          |
+| [金亨範](../Page/金亨範.md "wikilink")                    | 宋在益    | 34→38歲，口吃的法援律師，第五集開始在邊緣律師事務所工作。      | [劉昭文](../Page/劉昭文.md "wikilink") |          |
+| [李姃垠](https://zh.wikipedia.org/wiki/李姃垠 "wikilink") | 延寶美    | 46→50歲，事務所事務長。                       | [謝潔貞](../Page/謝潔貞.md "wikilink") |          |
 
 ### 日浩集團
 
@@ -98,54 +98,54 @@
 
 ### 東浩周邊人物
 
-|                                  |        |                             |                                  |          |
-| -------------------------------- | ------ | --------------------------- | -------------------------------- | -------- |
-| **演員**                           | **角色** | **介紹**                      | **粵語配音**                         | **國語配音** |
-| [李原種](../Page/李原種.md "wikilink") | 石柱一    | 50→54歲，黑社會老大，朴東浩的養父。        | [陳永信](../Page/陳永信.md "wikilink") |          |
-| [宋英奎](../Page/宋英奎.md "wikilink") | 卓英鎮    | 38→42歲，正直的檢察官，朴東浩同伴，地方法大出身。 | [蘇強文](../Page/蘇強文.md "wikilink") |          |
-| [金智訓](../Page/金智訓.md "wikilink") | 馮相浩    | 25→29歲，朴東浩律師事務所事務長。         | [葉振聲](../Page/葉振聲.md "wikilink") |          |
-| [全世賢](../Page/全世賢.md "wikilink") | 藝媛     | 朴東浩女友                       | [曾秀清](../Page/曾秀清.md "wikilink") |          |
-| [琴東賢](../Page/琴東賢.md "wikilink") | 朴慶洙    | 朴東浩的父親                      |                                  |          |
+|                                                     |        |                             |                                  |          |
+| --------------------------------------------------- | ------ | --------------------------- | -------------------------------- | -------- |
+| **演員**                                              | **角色** | **介紹**                      | **粵語配音**                         | **國語配音** |
+| [李原種](../Page/李原種.md "wikilink")                    | 石柱一    | 50→54歲，黑社會老大，朴東浩的養父。        | [陳永信](../Page/陳永信.md "wikilink") |          |
+| [宋英奎](../Page/宋英奎.md "wikilink")                    | 卓英鎮    | 38→42歲，正直的檢察官，朴東浩同伴，地方法大出身。 | [蘇強文](../Page/蘇強文.md "wikilink") |          |
+| [金智訓](https://zh.wikipedia.org/wiki/金智訓 "wikilink") | 馮相浩    | 25→29歲，朴東浩律師事務所事務長。         | [葉振聲](../Page/葉振聲.md "wikilink") |          |
+| [全世賢](../Page/全世賢.md "wikilink")                    | 藝媛     | 朴東浩女友                       | [曾秀清](../Page/曾秀清.md "wikilink") |          |
+| [琴東賢](../Page/琴東賢.md "wikilink")                    | 朴慶洙    | 朴東浩的父親                      |                                  |          |
 
 ### 仁雅周邊人物
 
-|                                         |        |                         |                                  |          |
-| --------------------------------------- | ------ | ----------------------- | -------------------------------- | -------- |
-| **演員**                                  | **角色** | **介紹**                  | **粵語配音**                         | **國語配音** |
-| [鄭仁基](../Page/鄭仁基_\(演員\).md "wikilink") | 李賢鐘    | 50→54歲，仁雅的父親，經營比薩店。     | [張錦江](../Page/張錦江.md "wikilink") |          |
-| [朴賢淑](../Page/朴賢淑_\(演員\).md "wikilink") | 金英萱    | 48→52歲，仁雅的母親，經營比薩店。     | [伍秀霞](../Page/伍秀霞.md "wikilink") |          |
-| [房俊書](../Page/房俊書.md "wikilink")        | 李妍芝    | 11→15歲，仁雅的妹妹，中2病的青春期少女。 | [何寶珊](../Page/何寶珊.md "wikilink") |          |
+|                                                            |        |                         |                                  |          |
+| ---------------------------------------------------------- | ------ | ----------------------- | -------------------------------- | -------- |
+| **演員**                                                     | **角色** | **介紹**                  | **粵語配音**                         | **國語配音** |
+| [鄭仁基](../Page/鄭仁基_\(演員\).md "wikilink")                    | 李賢鐘    | 50→54歲，仁雅的父親，經營比薩店。     | [張錦江](../Page/張錦江.md "wikilink") |          |
+| [朴賢淑](https://zh.wikipedia.org/wiki/朴賢淑_\(演員\) "wikilink") | 金英萱    | 48→52歲，仁雅的母親，經營比薩店。     | [伍秀霞](../Page/伍秀霞.md "wikilink") |          |
+| [房俊書](https://zh.wikipedia.org/wiki/房俊書 "wikilink")        | 李妍芝    | 11→15歲，仁雅的妹妹，中2病的青春期少女。 | [何寶珊](../Page/何寶珊.md "wikilink") |          |
 
 ### 其他人物
 
-|                                      |        |                                        |                                          |          |
-| ------------------------------------ | ------ | -------------------------------------- | ---------------------------------------- | -------- |
-| **演員**                               | **角色** | **介紹**                                 | **粵語配音**                                 | **國語配音** |
-| [孟床訓](../Page/孟床訓.md "wikilink")     |        | 吳貞雅的父親，後被殺害並偽裝成自殺。                     | [張炳強](../Page/張炳強.md "wikilink")         |          |
-| [金英雄](../Page/金英雄.md "wikilink")     | 郭韓秀    | 逮捕振宇父親的刑警，與洪武錫、南日浩勾結。                  | [李錦綸](../Page/李錦綸_\(配音員\).md "wikilink") |          |
-| [申譞洙](../Page/申譞洙.md "wikilink")     | 裴鐵柱    | 富二代，南圭萬的朋友。                            | [鍾見麟](../Page/鍾見麟.md "wikilink")         |          |
-| [趙善穆](../Page/趙善穆.md "wikilink")     | 教授     |                                        | [馮志輝](../Page/馮志輝.md "wikilink")         |          |
-| [鄭元仲](../Page/鄭元仲.md "wikilink")     | 法官     |                                        | [馮志輝](../Page/馮志輝.md "wikilink")         |          |
-| [李承亨](../Page/李承亨.md "wikilink")     | 李政勳    | 徐載赫的精神科醫生，與南日浩勾結在法庭上做偽證。               | [蕭徽勇](../Page/蕭徽勇.md "wikilink")         |          |
-| [李率求](../Page/李率求.md "wikilink")     |        | 地下賭場老大                                 | [葉振聲](../Page/葉振聲.md "wikilink")         |          |
-| [李東振](../Page/李東振.md "wikilink")     |        | 聚餐勸酒者                                  |                                          |          |
-| [鄭東奎](../Page/鄭東奎.md "wikilink")     |        | 裴鐵柱的父親                                 |                                          |          |
-| [李詩雅](../Page/李詩雅.md "wikilink")     | 金漢娜    | 日浩生命實習生，為籌措母親手術費誣告姜萬秀性侵。（客串第5．6集）      | [陳琴雲](../Page/陳琴雲.md "wikilink")         |          |
-| [南明烈](../Page/南明烈.md "wikilink")     | 姜萬秀    | 日浩生命副社長，第五集被南日浩等人陷害捲入女學生性侵案，第六集被判無罪釋放。 | [朱子聰](../Page/朱子聰.md "wikilink")         |          |
-| [尹敬浩](../Page/尹敬浩.md "wikilink")     | 金浩哲    | 蠍子刺青殺手                                 | [蕭徽勇](../Page/蕭徽勇.md "wikilink")         |          |
-| [徐鎮旭](../Page/徐鎮旭.md "wikilink")     | 朴東鎮    | 教導所醫務科長                                | [張炳強](../Page/張炳強.md "wikilink")         |          |
-| [吳娜拉](../Page/吳娜拉.md "wikilink")     | 蔡真景    | 檢察官                                    | [梁少霞](../Page/梁少霞.md "wikilink")         |          |
-| [金正錫](../Page/金正錫.md "wikilink")     | 裴刑警    |                                        | [黃子敬](../Page/黃子敬.md "wikilink")         |          |
-| [李昌](../Page/李昌\(演員\).md "wikilink") | 咸智錫    |                                        |                                          |          |
-| [奇世亨](../Page/奇世亨.md "wikilink")     | 琴室長    |                                        |                                          |          |
-| [鄭奎洙](../Page/鄭奎洙.md "wikilink")     |        | 薛敏秀的父親，微笑燈泡社長。                         |                                          |          |
-| [申載夏](../Page/申載夏.md "wikilink")     | 薛敏秀    |                                        | [鄧港文](../Page/鄧港文.md "wikilink")         |          |
-| [金炳春](../Page/金炳春.md "wikilink")     | 梁玄秀    | 永遠電器社長                                 | [盧國權](../Page/盧國權.md "wikilink")         |          |
-| [金慶龍](../Page/金慶龍.md "wikilink")     | 申炳浩    | 微笑燈泡廠長                                 | [陳廷軒](../Page/陳廷軒.md "wikilink")         |          |
-| [金益泰](../Page/金益泰.md "wikilink")     | 夏社長    |                                        | [張炳強](../Page/張炳強.md "wikilink")         |          |
-| [鄭侑敏](../Page/鄭侑敏.md "wikilink")     | 宋河英    | 被南圭萬性侵的藝人                              | [羅孔柔](../Page/羅孔柔.md "wikilink")         |          |
-| [韓宥伊](../Page/韓宥伊.md "wikilink")     | 朴敏熙    | 宋河英的朋友，性侵案被害人                          |                                          |          |
-| [成昌勳](../Page/成昌勳.md "wikilink")     | 高光日    | 檢察官                                    |                                          |          |
+|                                                         |        |                                        |                                                     |          |
+| ------------------------------------------------------- | ------ | -------------------------------------- | --------------------------------------------------- | -------- |
+| **演員**                                                  | **角色** | **介紹**                                 | **粵語配音**                                            | **國語配音** |
+| [孟床訓](../Page/孟床訓.md "wikilink")                        |        | 吳貞雅的父親，後被殺害並偽裝成自殺。                     | [張炳強](../Page/張炳強.md "wikilink")                    |          |
+| [金英雄](../Page/金英雄.md "wikilink")                        | 郭韓秀    | 逮捕振宇父親的刑警，與洪武錫、南日浩勾結。                  | [李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")            |          |
+| [申譞洙](https://zh.wikipedia.org/wiki/申譞洙 "wikilink")     | 裴鐵柱    | 富二代，南圭萬的朋友。                            | [鍾見麟](../Page/鍾見麟.md "wikilink")                    |          |
+| [趙善穆](https://zh.wikipedia.org/wiki/趙善穆 "wikilink")     | 教授     |                                        | [馮志輝](../Page/馮志輝.md "wikilink")                    |          |
+| [鄭元仲](https://zh.wikipedia.org/wiki/鄭元仲 "wikilink")     | 法官     |                                        | [馮志輝](../Page/馮志輝.md "wikilink")                    |          |
+| [李承亨](../Page/李承亨.md "wikilink")                        | 李政勳    | 徐載赫的精神科醫生，與南日浩勾結在法庭上做偽證。               | [蕭徽勇](../Page/蕭徽勇.md "wikilink")                    |          |
+| [李率求](https://zh.wikipedia.org/wiki/李率求 "wikilink")     |        | 地下賭場老大                                 | [葉振聲](../Page/葉振聲.md "wikilink")                    |          |
+| [李東振](https://zh.wikipedia.org/wiki/李東振 "wikilink")     |        | 聚餐勸酒者                                  |                                                     |          |
+| [鄭東奎](https://zh.wikipedia.org/wiki/鄭東奎 "wikilink")     |        | 裴鐵柱的父親                                 |                                                     |          |
+| [李詩雅](https://zh.wikipedia.org/wiki/李詩雅 "wikilink")     | 金漢娜    | 日浩生命實習生，為籌措母親手術費誣告姜萬秀性侵。（客串第5．6集）      | [陳琴雲](../Page/陳琴雲.md "wikilink")                    |          |
+| [南明烈](../Page/南明烈.md "wikilink")                        | 姜萬秀    | 日浩生命副社長，第五集被南日浩等人陷害捲入女學生性侵案，第六集被判無罪釋放。 | [朱子聰](../Page/朱子聰.md "wikilink")                    |          |
+| [尹敬浩](../Page/尹敬浩.md "wikilink")                        | 金浩哲    | 蠍子刺青殺手                                 | [蕭徽勇](../Page/蕭徽勇.md "wikilink")                    |          |
+| [徐鎮旭](https://zh.wikipedia.org/wiki/徐鎮旭 "wikilink")     | 朴東鎮    | 教導所醫務科長                                | [張炳強](../Page/張炳強.md "wikilink")                    |          |
+| [吳娜拉](https://zh.wikipedia.org/wiki/吳娜拉 "wikilink")     | 蔡真景    | 檢察官                                    | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") |          |
+| [金正錫](https://zh.wikipedia.org/wiki/金正錫 "wikilink")     | 裴刑警    |                                        | [黃子敬](../Page/黃子敬.md "wikilink")                    |          |
+| [李昌](https://zh.wikipedia.org/wiki/李昌\(演員\) "wikilink") | 咸智錫    |                                        |                                                     |          |
+| [奇世亨](https://zh.wikipedia.org/wiki/奇世亨 "wikilink")     | 琴室長    |                                        |                                                     |          |
+| [鄭奎洙](../Page/鄭奎洙.md "wikilink")                        |        | 薛敏秀的父親，微笑燈泡社長。                         |                                                     |          |
+| [申載夏](../Page/申載夏.md "wikilink")                        | 薛敏秀    |                                        | [鄧港文](../Page/鄧港文.md "wikilink")                    |          |
+| [金炳春](../Page/金炳春.md "wikilink")                        | 梁玄秀    | 永遠電器社長                                 | [盧國權](../Page/盧國權.md "wikilink")                    |          |
+| [金慶龍](https://zh.wikipedia.org/wiki/金慶龍 "wikilink")     | 申炳浩    | 微笑燈泡廠長                                 | [陳廷軒](../Page/陳廷軒.md "wikilink")                    |          |
+| [金益泰](https://zh.wikipedia.org/wiki/金益泰 "wikilink")     | 夏社長    |                                        | [張炳強](../Page/張炳強.md "wikilink")                    |          |
+| [鄭侑敏](https://zh.wikipedia.org/wiki/鄭侑敏 "wikilink")     | 宋河英    | 被南圭萬性侵的藝人                              | [羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink") |          |
+| [韓宥伊](../Page/韓宥伊.md "wikilink")                        | 朴敏熙    | 宋河英的朋友，性侵案被害人                          |                                                     |          |
+| [成昌勳](https://zh.wikipedia.org/wiki/成昌勳 "wikilink")     | 高光日    | 檢察官                                    |                                                     |          |
 
 ## 原聲帶
 
@@ -174,8 +174,8 @@
 ### 其他搭配歌曲
 
   - 台灣[東森電視版本](../Page/東森電視.md "wikilink")
-      - 片頭曲：[有感覺](../Page/有感覺.md "wikilink")《遍體鱗傷》
-      - 片尾曲：[有感覺](../Page/有感覺.md "wikilink")《錯了嗎》
+      - 片頭曲：[有感覺](https://zh.wikipedia.org/wiki/有感覺 "wikilink")《遍體鱗傷》
+      - 片尾曲：[有感覺](https://zh.wikipedia.org/wiki/有感覺 "wikilink")《錯了嗎》
 
 ## 收視率
 
@@ -185,7 +185,7 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>TNmS 收視率[1]</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 收視率[2]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 收視率[2]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -329,7 +329,7 @@
 ## 同時段競爭節目
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[甜蜜殺氣的家族](../Page/甜蜜殺氣的家族.md "wikilink")》、《[再一次
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[甜蜜殺氣的家族](../Page/甜蜜殺氣的家族.md "wikilink")》、《[再一次
     Happy Ending](../Page/再一次_Happy_Ending.md "wikilink")》
 
 ## 獎項
@@ -347,7 +347,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p>第52屆<a href="../Page/百想藝術大賞.md" title="wikilink">百想藝術大賞</a></p></td>
+<td><p>第52屆<a href="https://zh.wikipedia.org/wiki/百想藝術大賞" title="wikilink">百想藝術大賞</a></p></td>
 <td><p>男子最優秀演技賞</p></td>
 <td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a></p></td>
 <td></td>
@@ -361,7 +361,7 @@
 </tr>
 <tr class="odd">
 <td><p>女子人氣賞</p></td>
-<td><p><a href="../Page/朴敏英.md" title="wikilink">朴敏英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -374,9 +374,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2016_SBS演技大賞.md" title="wikilink">SBS演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2016_SBS演技大賞" title="wikilink">SBS演技大賞</a></p></td>
 <td><p>幻想、體裁類電視劇 女子最優秀演技賞</p></td>
-<td><p><a href="../Page/朴敏英.md" title="wikilink">朴敏英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -403,7 +403,7 @@
 </tr>
 <tr class="odd">
 <td><p>體裁類電視劇 女子特別演技賞</p></td>
-<td><p><a href="../Page/鄭慧星.md" title="wikilink">鄭慧星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭慧星" title="wikilink">鄭慧星</a></p></td>
 <td></td>
 <td></td>
 <td></td>

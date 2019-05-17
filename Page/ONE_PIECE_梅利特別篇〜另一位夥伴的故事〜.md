@@ -1,13 +1,14 @@
 《**ONE PIECE 梅利特別篇〜另一位夥伴的故事〜**》（）是電視動畫《[ONE
-PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》的特別節目，於2013年8月24日在日本播出。
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2013年8月24日在日本播出。
 
 ## 製作
 
-該2小時特別節目為《[娜美之章](../Page/ONE_PIECE_娜美特別篇〜領航員之淚與伙伴的羈絆〜.md "wikilink")》、《[魯夫之章](../Page/ONE_PIECE_魯夫特別篇〜手掌島的冒險〜.md "wikilink")》以原著的著名篇章所重新繪製的版本接續製作\[1\]。為「週六PREMIUM」時段播出的《[ONE
-PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第三彈。
+該2小時特別節目為《[娜美之章](https://zh.wikipedia.org/wiki/ONE_PIECE_娜美特別篇〜領航員之淚與伙伴的羈絆〜 "wikilink")》、《[魯夫之章](../Page/ONE_PIECE_魯夫特別篇〜手掌島的冒險〜.md "wikilink")》以原著的著名篇章所重新繪製的版本接續製作\[1\]。為「週六PREMIUM」時段播出的《[ONE
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第三彈。
 
-至於本作挑選的原作著名篇章為「水之七島」、「司法島篇」重新繪製成這套特別篇，以[草帽海賊團的另一位同伴](../Page/草帽海賊團.md "wikilink")[前進梅利號的相遇與離別的故事](../Page/前進梅利號.md "wikilink")，以它為中心描繪一個全新的友情故事。在劇情上與原作有一定區別，本作與電影版《[ONE
-PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所關聯。
+至於本作挑選的原作著名篇章為「水之七島」、「司法島篇」重新繪製成這套特別篇，以[草帽海賊團的另一位同伴](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")[前進梅利號的相遇與離別的故事](../Page/前進梅利號.md "wikilink")，以它為中心描繪一個全新的友情故事。在劇情上與原作有一定區別，本作與電影版《[ONE
+PIECE FILM
+Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》的特別短篇也有所關聯。
 
 發售的BD/DVD光碟版將於2013年11月29日於日本地區發行。
 
@@ -28,18 +29,18 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/草帽海賊團.md" title="wikilink">草帽海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草帽海賊團" title="wikilink">草帽海賊團</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 <td><p><a href="../Page/田中真弓.md" title="wikilink">田中真弓</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
@@ -57,14 +58,14 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 <td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓</a></p></td>
@@ -78,13 +79,13 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">布魯克</a></p></td>
-<td><p><a href="../Page/長_(日本配音員).md" title="wikilink">長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/前進梅莉號.md" title="wikilink">前進梅莉號</a><br />
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/前進梅莉號" title="wikilink">前進梅莉號</a><br />
 <a href="../Page/千陽號.md" title="wikilink">千陽號</a></p></td>
-<td><p><a href="../Page/桑島法子.md" title="wikilink">桑島法子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/桑島法子" title="wikilink">桑島法子</a></p></td>
 <td><p>連婉鈞</p></td>
 </tr>
 <tr class="odd">
@@ -159,17 +160,17 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
 </tr>
 <tr class="odd">
 <td><p>'''艾斯巴古</p></td>
-<td><p><a href="../Page/及川以造.md" title="wikilink">及川以造</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/及川以造" title="wikilink">及川以造</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''可可羅</p></td>
 <td><p><a href="../Page/真山亞子.md" title="wikilink">真山亞子</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''蒂姆妮</p></td>
-<td><p><a href="../Page/齋藤千和.md" title="wikilink">齋藤千和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/齋藤千和" title="wikilink">齋藤千和</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
 <tr class="even">
@@ -182,7 +183,7 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
 摩茲</p></td>
 <td><p><a href="../Page/鹽山由佳.md" title="wikilink">鹽山由佳</a><br />
 <a href="../Page/日比愛子.md" title="wikilink">日比愛子</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a><br />
 <a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
 <tr class="even">
@@ -197,7 +198,7 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
 </tr>
 <tr class="even">
 <td><p>'''梅利</p></td>
-<td><p><a href="../Page/土門仁.md" title="wikilink">土門仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/土門仁" title="wikilink">土門仁</a></p></td>
 <td><p>孟慶府</p></td>
 </tr>
 <tr class="odd">
@@ -221,20 +222,20 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
 
 ### 片尾曲
 
-  - 電視動畫的初代[片尾曲](../Page/ONE_PIECE_\(動畫\)#片尾曲.md "wikilink")，原主唱為[大槻真希](../Page/大槻真希.md "wikilink")，使用於第1集－第30集。
+  - 電視動畫的初代[片尾曲](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#片尾曲 "wikilink")，原主唱為[大槻真希](../Page/大槻真希.md "wikilink")，使用於第1集－第30集。
 
 ### 插入曲
 
-  - 電視動畫的第六首[片尾曲](../Page/ONE_PIECE_\(動畫\)#片尾曲.md "wikilink")，使用於第264集－第278集。本作使用於逃離司法島的劇情。
+  - 電視動畫的第六首[片尾曲](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#片尾曲 "wikilink")，使用於第264集－第278集。本作使用於逃離司法島的劇情。
 
 ## 製作團隊
 
-  - 原作：[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")
+  - 原作：[尾田栄一郎](https://zh.wikipedia.org/wiki/尾田栄一郎 "wikilink")
   - 企画：情野誠人・髙木明梨須、櫻田博之
   - 監督：所勝美
   - 脚本：上坂浩彦
   - 製作担当：藤岡和実
-  - 音楽：[田中公平](../Page/田中公平.md "wikilink")、[浜口史郎](../Page/浜口史郎.md "wikilink")
+  - 音楽：[田中公平](../Page/田中公平.md "wikilink")、[浜口史郎](https://zh.wikipedia.org/wiki/浜口史郎 "wikilink")
   - 人物設計・総作画監督：井上栄作
   - 人物設計：中谷友紀子
   - 美術監督：渡辺佳人
@@ -242,14 +243,14 @@ PIECE FILM Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》的特別短篇也有所
   - 撮影監督：五十嵐慎一、桑良人
   - 作画監督：中谷友紀子、一居一平、藤﨑真吾、吉岡敏幸、金久保典江、北崎正浩、土信田和幸、横山健次、井手武生、久田和也、高木雅之、石塚勝海
   - 制作協力：[東映](../Page/東映.md "wikilink")
-  - 制作：[東映動畫](../Page/東映動畫.md "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")
+  - 制作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
 [ja:ONE PIECE エピソードオブメリー
-〜もうひとりの仲間の物語〜](../Page/ja:ONE_PIECE_エピソードオブメリー_〜もうひとりの仲間の物語〜.md "wikilink")
+〜もうひとりの仲間の物語〜](https://zh.wikipedia.org/wiki/ja:ONE_PIECE_エピソードオブメリー_〜もうひとりの仲間の物語〜 "wikilink")
 
 [Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
 [Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")

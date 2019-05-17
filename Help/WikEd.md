@@ -1,6 +1,6 @@
-这是**[wikEd](../Page/:en:User:Cacycle/wikEd.md "wikilink")**的使用說明页面。wikEd是运行于浏览器內的全功能文本编辑器，可强化维基百科和其他MediaWiki编辑页面的文字处理功能。
+这是**[wikEd](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd "wikilink")**的使用說明页面。wikEd是运行于浏览器內的全功能文本编辑器，可强化维基百科和其他MediaWiki编辑页面的文字处理功能。
 
-如果您会英文，请在[wikEd讨论页报告错误或请求功能](../Page/:en:User_talk:Cacycle/wikEd.md "wikilink")。
+如果您会英文，请在[wikEd讨论页报告错误或请求功能](https://zh.wikipedia.org/wiki/:en:User_talk:Cacycle/wikEd "wikilink")。
 
 [WikEd_screenshot.png](https://zh.wikipedia.org/wiki/File:WikEd_screenshot.png "fig:WikEd_screenshot.png")
 
@@ -35,13 +35,13 @@ wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd
 
 ### WikEd主开关、版本信息与错误指示器
 
-下文所列出的**wikEd**<u>状态指示标志</u>显示于页面的顶部，“退出”的后面。鼠标悬浮在标志上会看到当前的版本信息。**wikEd**会每20小时自动检查与更新。您也可查看[-{zh-cn:最近;zh-tw:最新}-版本](../Page/:en:User:Cacycle/wikEd_current_version.md "wikilink")，按住Shift並点击刷新頁面（或按Shift-Ctrl-R）手动更新（实质上即清除浏览器页面缓存后刷新）。
+下文所列出的**wikEd**<u>状态指示标志</u>显示于页面的顶部，“退出”的后面。鼠标悬浮在标志上会看到当前的版本信息。**wikEd**会每20小时自动检查与更新。您也可查看[-{zh-cn:最近;zh-tw:最新}-版本](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd_current_version "wikilink")，按住Shift並点击刷新頁面（或按Shift-Ctrl-R）手动更新（实质上即清除浏览器页面缓存后刷新）。
 
 | 图标                                                                                                               | 状态   | 描述                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Image:WikEd logo.png](https://zh.wikipedia.org/wiki/File:WikEd_logo.png "fig:Image:WikEd logo.png")             | 启用   | 点击此按钮可禁用**wikEd**，同时后续所有浏览器窗口和[会话也将禁用](../Page/会话_\(计算机科学\).md "wikilink")**wikEd**。再次点击标志即可重新启用**wikEd**。如果wiki数据库被锁-{}-定或页面受保护，**wikEd**将不会载入。点击此按钮將会清除撤消的历史紀錄。 |
 | [Image:WikEd disabled.png](https://zh.wikipedia.org/wiki/File:WikEd_disabled.png "fig:Image:WikEd disabled.png") | 禁用   | 该图标于**wikEd**禁用时顯示。点击即可重新启用**wikEd**。                                                                                                                             |
-| [Image:WikEd error.png](https://zh.wikipedia.org/wiki/File:WikEd_error.png "fig:Image:WikEd error.png")          | 载入错误 | 载入与安装**wikEd**时若发生错误，您将看到此图标。您可通过浏览器的“JavaScript控制台”工具检查错误信息，并回報至[wikEd讨论页](../Page/User_talk:Cacycle/wikEd.md "wikilink")。                                       |
+| [Image:WikEd error.png](https://zh.wikipedia.org/wiki/File:WikEd_error.png "fig:Image:WikEd error.png")          | 载入错误 | 载入与安装**wikEd**时若发生错误，您将看到此图标。您可通过浏览器的“JavaScript控制台”工具检查错误信息，并回報至[wikEd讨论页](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink")。                    |
 
 ### 摺疊按钮工具栏
 
@@ -351,23 +351,23 @@ wikify.png](https://zh.wikipedia.org/wiki/File:wikEd_wikify.png "fig:Image:wikEd
 <span style="color: red;">请在使用这类按钮后，**務必**利用<span style="color: none; background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd
 diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd diff.png")</span>按钮检查编辑，避免出现预期外的损毁编辑。</span>请尽可能选择較小的选区。記住它们的应用规则相當简单。只有Unicode字符的修复是绝对安全的。
 
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">**<small>图标</small>**</span>                                                                                                                 | 名稱         | 說明                                                                                                                                                                                                                                                                                                                        | 作用區域        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| colspan = "2" style="border: none; background: none;" |                                                                                                                                                                  | 上行         |                                                                                                                                                                                                                                                                                                                           |             |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix basic.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_basic.png "fig:Image:WikEd fix basic.png")</span>                   | 基本修正       | 將標題加上空白格和空行。如此，可以在不影響文章呈現方式的情況下，增進原始碼的易讀性。大多數的修復按鈕也都有此項功能，除了<u>Unicode</u>的修復以外。                                                                                                                                                                                                                                          | 選擇範圍，否則為全文  |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix html.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_html.png "fig:Image:WikEd fix html.png")</span>                      | Html 修正    | 將文章內的html代碼取代成相應的維基代碼。此功能並不支援html標籤(html tags)，修復過程中會將其刪除。                                                                                                                                                                                                                                                                | 選擇範圍，否則為全文  |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix caps.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_caps.png "fig:Image:WikEd fix caps.png")</span>                      | 大寫修正       | 將標題和列表轉為大寫                                                                                                                                                                                                                                                                                                                | 選擇範圍，否則為當前行 |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix unicode.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_unicode.png "fig:Image:WikEd fix unicode.png")</span>             | Unicode 修正 | 根據瀏覽器所能夠支援字符的程度，將[Unicode字元顯示修復轉換為](../Page/Unicode.md "wikilink")[實體字元](../Page/字符实体引用.md "wikilink")。例如：將 *°* 和 *À* 分別轉換成實體字元“°”和“.”。這是個安全轉換的按鈕，可以套用至全文且無須複檢。                                                                                                                                                           | 選擇範圍，否則為全文  |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix all.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_all.png "fig:Image:WikEd fix all.png")</span>                         | 全部修正       | 一次進行以上四種修復：基本、html、大寫以及Unicode的修復。                                                                                                                                                                                                                                                                                        | 選擇範圍，否則為全文  |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix redirect.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_redirect.png "fig:Image:WikEd fix redirect.png")</span>          | 重新導向修正     | 檢查連結是否含有[重新導向](../Page/網域名稱轉址.md "wikilink")，並將其修復導向至最終目標。原始連結文字會保留在"|"之後。這項功能使用了[AJAX技術連結伺服器](../Page/AJAX.md "wikilink")。此修復按鈕必須小心使用，請先詳讀[重新導向的介紹以及](https://zh.wikipedia.org/wiki/Wikipedia:重定向 "wikilink")[重新導向使用說明](https://zh.wikipedia.org/wiki/Help:重定向 "wikilink")                                               | 選擇範圍，否則為全文  |
-| colspan = "2" style="border: none; background: none;" |                                                                                                                                                                  | 下行         |                                                                                                                                                                                                                                                                                                                           |             |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix dash.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_dash.png "fig:Image:wikEd fix dash.png")</span>                      | 連接號修正      | 修復[em連接號](../Page/連接號#Em_dash.md "wikilink")、[en連接號](../Page/連接號#En_dash.md "wikilink")、[连字号和](../Page/连字号.md "wikilink")[減號](../Page/加号与减号.md "wikilink")，使其呈現正確字元及格式，包含：移除em連接號周邊的空格，於en連接號的兩側加入空格，將html實體字元轉換為連接號字元，--轉換為em連接號，數字前的連接號轉換為減號，日期的連接號轉換為en連接號。                                                            | 選擇範圍，否則為當段落 |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix punct.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_punct.png "fig:Image:wikEd fix punct.png")</span>                   | 標點符號修正     | 刪除標點符號前的空格。                                                                                                                                                                                                                                                                                                               | 選擇範圍，否則為當段落 |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix math.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_math.png "fig:Image:wikEd fix math.png")</span>                      | 數學式修正      | 修復一些\<math\> 維基標記外常見的問題：減號、乘號*×*<font color="#000000">、將</font>*10^3*<font color="#000000">轉換為</font>*10<sup>3</sup>*<font color="#000000">、</font>*+/-*<font color="#000000">轉換為</font>*±*以及Unicode轉換為html上標。                                                                                                            | 選擇範圍，否則為當段落 |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix chem.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_chem.png "fig:Image:wikEd fix chem.png")</span>                      | 化學式修正      | 修復未格式化的化學式。修復上標和下標符號，元素名大寫和反應箭號。此功能僅適用於較小範圍的選區。例如：*2 Na+ + 2 OH- + H2SO4 --\> 2 h2o + Na2SO4*<font color="#000000">將會轉換為</font>*2Na<sup>+</sup> + 2OH<sup>−</sup> + H<sub>2</sub>SO<sub>4</sub> → 2H<sub>2</sub>O + Na<sub>2</sub>SO<sub>4</sub>*。                                                                        | 選擇範圍，否則為當前行 |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix units.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_units.png "fig:Image:wikEd fix units.png")</span>                   | 單位修正       | 修正大多數的物理單位。單位須在數字前面。                                                                                                                                                                                                                                                                                                      | 選擇範圍，否則為當段落 |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix reg-ex-typo.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_reg-ex-typo.png "fig:Image:wikEd fix reg-ex-typo.png")</span> | 錯別字修正      | 使用[AutoWikiBrowser Typos](https://zh.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser/Typos "wikilink") 的規則修正常見的錯別字。需要在安裝**wikEd**之前，在偏好設定“外觀”分頁內的*monobook.js*頁面加入`wikEdRegExTypoFix = true;` 才能使用本功能，否則工具列上不會出現此按鈕。（詳見 [**wikEd** customization](../Page/:en:User:Cacycle/wikEd_customization#RegExTypoFix.md "wikilink")）。 | 選擇範圍，否則為全文  |
-|                                                                                                                                                                                                                          |            |                                                                                                                                                                                                                                                                                                                           |             |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">**<small>图标</small>**</span>                                                                                                                 | 名稱         | 說明                                                                                                                                                                                                                                                                                                                                           | 作用區域        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| colspan = "2" style="border: none; background: none;" |                                                                                                                                                                  | 上行         |                                                                                                                                                                                                                                                                                                                                              |             |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix basic.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_basic.png "fig:Image:WikEd fix basic.png")</span>                   | 基本修正       | 將標題加上空白格和空行。如此，可以在不影響文章呈現方式的情況下，增進原始碼的易讀性。大多數的修復按鈕也都有此項功能，除了<u>Unicode</u>的修復以外。                                                                                                                                                                                                                                                             | 選擇範圍，否則為全文  |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix html.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_html.png "fig:Image:WikEd fix html.png")</span>                      | Html 修正    | 將文章內的html代碼取代成相應的維基代碼。此功能並不支援html標籤(html tags)，修復過程中會將其刪除。                                                                                                                                                                                                                                                                                   | 選擇範圍，否則為全文  |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix caps.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_caps.png "fig:Image:WikEd fix caps.png")</span>                      | 大寫修正       | 將標題和列表轉為大寫                                                                                                                                                                                                                                                                                                                                   | 選擇範圍，否則為當前行 |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix unicode.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_unicode.png "fig:Image:WikEd fix unicode.png")</span>             | Unicode 修正 | 根據瀏覽器所能夠支援字符的程度，將[Unicode字元顯示修復轉換為](https://zh.wikipedia.org/wiki/Unicode "wikilink")[實體字元](../Page/字符实体引用.md "wikilink")。例如：將 *°* 和 *À* 分別轉換成實體字元“°”和“.”。這是個安全轉換的按鈕，可以套用至全文且無須複檢。                                                                                                                                                           | 選擇範圍，否則為全文  |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix all.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_all.png "fig:Image:WikEd fix all.png")</span>                         | 全部修正       | 一次進行以上四種修復：基本、html、大寫以及Unicode的修復。                                                                                                                                                                                                                                                                                                           | 選擇範圍，否則為全文  |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd fix redirect.png](https://zh.wikipedia.org/wiki/File:WikEd_fix_redirect.png "fig:Image:WikEd fix redirect.png")</span>          | 重新導向修正     | 檢查連結是否含有[重新導向](../Page/網域名稱轉址.md "wikilink")，並將其修復導向至最終目標。原始連結文字會保留在"|"之後。這項功能使用了[AJAX技術連結伺服器](../Page/AJAX.md "wikilink")。此修復按鈕必須小心使用，請先詳讀[重新導向的介紹以及](https://zh.wikipedia.org/wiki/Wikipedia:重定向 "wikilink")[重新導向使用說明](https://zh.wikipedia.org/wiki/Help:重定向 "wikilink")                                                                  | 選擇範圍，否則為全文  |
+| colspan = "2" style="border: none; background: none;" |                                                                                                                                                                  | 下行         |                                                                                                                                                                                                                                                                                                                                              |             |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix dash.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_dash.png "fig:Image:wikEd fix dash.png")</span>                      | 連接號修正      | 修復[em連接號](https://zh.wikipedia.org/wiki/連接號#Em_dash "wikilink")、[en連接號](https://zh.wikipedia.org/wiki/連接號#En_dash "wikilink")、[连字号和](../Page/连字号.md "wikilink")[減號](../Page/加号与减号.md "wikilink")，使其呈現正確字元及格式，包含：移除em連接號周邊的空格，於en連接號的兩側加入空格，將html實體字元轉換為連接號字元，--轉換為em連接號，數字前的連接號轉換為減號，日期的連接號轉換為en連接號。                                         | 選擇範圍，否則為當段落 |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix punct.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_punct.png "fig:Image:wikEd fix punct.png")</span>                   | 標點符號修正     | 刪除標點符號前的空格。                                                                                                                                                                                                                                                                                                                                  | 選擇範圍，否則為當段落 |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix math.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_math.png "fig:Image:wikEd fix math.png")</span>                      | 數學式修正      | 修復一些\<math\> 維基標記外常見的問題：減號、乘號*×*<font color="#000000">、將</font>*10^3*<font color="#000000">轉換為</font>*10<sup>3</sup>*<font color="#000000">、</font>*+/-*<font color="#000000">轉換為</font>*±*以及Unicode轉換為html上標。                                                                                                                               | 選擇範圍，否則為當段落 |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix chem.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_chem.png "fig:Image:wikEd fix chem.png")</span>                      | 化學式修正      | 修復未格式化的化學式。修復上標和下標符號，元素名大寫和反應箭號。此功能僅適用於較小範圍的選區。例如：*2 Na+ + 2 OH- + H2SO4 --\> 2 h2o + Na2SO4*<font color="#000000">將會轉換為</font>*2Na<sup>+</sup> + 2OH<sup>−</sup> + H<sub>2</sub>SO<sub>4</sub> → 2H<sub>2</sub>O + Na<sub>2</sub>SO<sub>4</sub>*。                                                                                           | 選擇範圍，否則為當前行 |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix units.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_units.png "fig:Image:wikEd fix units.png")</span>                   | 單位修正       | 修正大多數的物理單位。單位須在數字前面。                                                                                                                                                                                                                                                                                                                         | 選擇範圍，否則為當段落 |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fix reg-ex-typo.png](https://zh.wikipedia.org/wiki/File:wikEd_fix_reg-ex-typo.png "fig:Image:wikEd fix reg-ex-typo.png")</span> | 錯別字修正      | 使用[AutoWikiBrowser Typos](https://zh.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser/Typos "wikilink") 的規則修正常見的錯別字。需要在安裝**wikEd**之前，在偏好設定“外觀”分頁內的*monobook.js*頁面加入`wikEdRegExTypoFix = true;` 才能使用本功能，否則工具列上不會出現此按鈕。（詳見 [**wikEd** customization](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd_customization#RegExTypoFix "wikilink")）。 | 選擇範圍，否則為全文  |
+|                                                                                                                                                                                                                          |            |                                                                                                                                                                                                                                                                                                                                              |             |
 
 ### wikEd 控制按鈕
 
@@ -383,7 +383,7 @@ diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd dif
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd ref hide.png](https://zh.wikipedia.org/wiki/File:wikEd_ref_hide.png "fig:Image:wikEd ref hide.png")</span>                               | 顯示或隱藏\[參\]、\[模\] | «新手模式»的切換。新手模式會隱藏文獻參考<span style="border: 1px solid; border-color: #eee #444 #444 #eee; font-size: 65%; color: #444; background-color: #ccc; font-family: sans-serif; padding: 0.2em 0.25em;">REF</span> 標籤下方的參考資料(\<ref\>...\</ref\>)和<span style="border: 1px solid; border-color: #eee #444 #444 #eee; font-size: 65%; color: #444; background-color: #ccc; font-family: sans-serif; padding: 0.2em 0.25em;">TEMPL</span> 模板標籤下方的多行模板。當滑鼠游標移置標籤上方時，隱藏的內容會顯示以供編輯。此設定將作用至所有新開的頁面，並會儲存此設定以供未來的會話使用。 |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd font size.png](https://zh.wikipedia.org/wiki/File:wikEd_font_size.png "fig:Image:wikEd font size.png")</span>                            | 文字大小             | 改變文字編輯框內的文字大小。大小依序為*小*, *非常小*, *非常大*, and *大* 並回到*正常*。同時按住SHIFT鍵即可反向操作。                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd clear history.png](https://zh.wikipedia.org/wiki/File:wikEd_clear_history.png "fig:Image:wikEd clear history.png")</span>                | 清除歷史紀錄           | 藉由刪除cookies以清除尋找、取代和編輯摘要的歷史紀錄。                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd source.png](https://zh.wikipedia.org/wiki/File:wikEd_source.png "fig:Image:wikEd source.png")</span>                                     | 原始碼              | 顯示貼上內容或突出顯示語法的原始碼。此功能主要做為測試用。作用範圍為選擇範圍或全文。此按鈕預設為不啟用，若要啟用本功能，需要在設定中加入`var wikEdShowSourceButton = true;`，請詳見[**WikEd** customization](../Page/:en:User:Cacycle/wikEd_customization#Various.md "wikilink")。                                                                                                                                                                                                                                                                                           |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd source.png](https://zh.wikipedia.org/wiki/File:wikEd_source.png "fig:Image:wikEd source.png")</span>                                     | 原始碼              | 顯示貼上內容或突出顯示語法的原始碼。此功能主要做為測試用。作用範圍為選擇範圍或全文。此按鈕預設為不啟用，若要啟用本功能，需要在設定中加入`var wikEdShowSourceButton = true;`，請詳見[**WikEd** customization](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd_customization#Various "wikilink")。                                                                                                                                                                                                                                                                        |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd align preview down.png](https://zh.wikipedia.org/wiki/File:wikEd_align_preview_down.png "fig:Image:wikEd align preview down.png")</span> | 跳至預覽框            | 移動到預覽框。鍵盤快捷鍵：*Shift*-*Alt*-G (或*Ctrl*-*Shift*-G，按使用的瀏覽器而有所不同)。                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd align down.png](https://zh.wikipedia.org/wiki/File:wikEd_align_down.png "fig:Image:wikEd align down.png")</span>                         | 跳至編輯框            | 移動到編輯框。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | colspan = "2" style="border: none; background: none;" |                                                                                                                                                                           | 下行               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -391,8 +391,8 @@ diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd dif
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd syntax.png](https://zh.wikipedia.org/wiki/File:wikEd_syntax.png "fig:Image:wikEd syntax.png")</span>                                     | 語法突顯             | 切換語法自動突出顯示功能。此設定將會儲存並套用至所有視窗。語法突顯也會使內部和外部連結可以點選(ctrl-click)。                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd table edit.png](https://zh.wikipedia.org/wiki/File:wikEd_table_edit.png "fig:Image:wikEd table edit.png")</span>                         | 表格模式             | *尚在建置中\!* 在**WikEd**的表格編輯模式和瀏覽器內建的表格編輯模式之間切換。此按鈕目前預設為不啟用，若要啟用需要在設定中加入`var wikEdShowTableModeButton = true;`。                                                                                                                                                                                                                                                                                                                                                                                        |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd close toolbar.png](https://zh.wikipedia.org/wiki/File:wikEd_close_toolbar.png "fig:Image:wikEd close toolbar.png")</span>                | 關閉工具列            | 切換非**wikEd**的工具列。此設定將作用至所有新開的頁面，並會儲存此設定以供未來的會話使用。                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd using.png](https://zh.wikipedia.org/wiki/File:wikEd_using.png "fig:Image:wikEd using.png")</span>                                        | 使用WikEd          | 儲存編輯時，於編輯摘要中自動加入*使用WikEd*。此設定將作用至所有新開的頁面，並會儲存此設定以供未來的會話使用。此按鈕目前預設為不啟用，若要啟用需要在設定中加入`var wikEdShowUsingButton = true;`，請詳見[**WikEd** customization](../Page/:en:User:Cacycle/wikEd_customization#Various.md "wikilink")。                                                                                                                                                                                                                                                                              |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEdDiff.png](https://zh.wikipedia.org/wiki/File:wikEdDiff.png "fig:Image:wikEdDiff.png")</span>                                              | wikEd差異          | 自動開啟 [wikEd差異](../Page/:en:User:Cacycle/wikEdDiff.md "wikilink") 以顯示編輯前後的差異。此設定將作用至所有新開的頁面，並會儲存此設定以供未來的會話使用。                                                                                                                                                                                                                                                                                                                                                                                        |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd using.png](https://zh.wikipedia.org/wiki/File:wikEd_using.png "fig:Image:wikEd using.png")</span>                                        | 使用WikEd          | 儲存編輯時，於編輯摘要中自動加入*使用WikEd*。此設定將作用至所有新開的頁面，並會儲存此設定以供未來的會話使用。此按鈕目前預設為不啟用，若要啟用需要在設定中加入`var wikEdShowUsingButton = true;`，請詳見[**WikEd** customization](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd_customization#Various "wikilink")。                                                                                                                                                                                                                                                           |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEdDiff.png](https://zh.wikipedia.org/wiki/File:wikEdDiff.png "fig:Image:wikEdDiff.png")</span>                                              | wikEd差異          | 自動開啟 [wikEd差異](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEdDiff "wikilink") 以顯示編輯前後的差異。此設定將作用至所有新開的頁面，並會儲存此設定以供未來的會話使用。                                                                                                                                                                                                                                                                                                                                                                     |
 | <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:wikEd fullscreen.png](https://zh.wikipedia.org/wiki/File:wikEd_fullscreen.png "fig:Image:wikEd fullscreen.png")</span>                         | 全螢幕              | 切換至全螢幕模式。此設定將作用至所有新開的頁面，並會儲存此設定以供未來的會話使用。預覽頁面將不會啟用全螢幕模式。                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                   |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
@@ -420,7 +420,7 @@ diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd dif
 <td><p><span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;"><a href="https://zh.wikipedia.org/wiki/File:wikEd_diff.png" title="fig:Image:wikEd diff.png">Image:wikEd diff.png</a></span></p></td>
 <td><p>變更</p></td>
 <td><p>於編輯框下方顯示修訂變更。此功能和標準的差異比較並<strong>不</strong> 一樣，因為它並不是和最後一次存檔的文本作比較，而是和最後一次載入的文本比較。在“變更”</p>
-<p>區任一地方 <strong>點擊2下</strong>或點擊<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;"><a href="https://zh.wikipedia.org/wiki/File:wikEd_align_top.png" title="fig:wikEd_align_top.png">wikEd_align_top.png</a></span> 即可跳至編輯框，而點擊<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;"><a href="https://zh.wikipedia.org/wiki/File:wikEd_align_preview_down.png" title="fig:wikEd_align_preview_down.png">wikEd_align_preview_down.png</a></span> 則可跳至“變更”區。此功能使用了<a href="../Page/:en:User:Cacycle/diff.md" title="wikilink">wikEd diff library</a>。</p></td>
+<p>區任一地方 <strong>點擊2下</strong>或點擊<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;"><a href="https://zh.wikipedia.org/wiki/File:wikEd_align_top.png" title="fig:wikEd_align_top.png">wikEd_align_top.png</a></span> 即可跳至編輯框，而點擊<span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;"><a href="https://zh.wikipedia.org/wiki/File:wikEd_align_preview_down.png" title="fig:wikEd_align_preview_down.png">wikEd_align_preview_down.png</a></span> 則可跳至“變更”區。此功能使用了<a href="https://zh.wikipedia.org/wiki/:en:User:Cacycle/diff" title="wikilink">wikEd diff library</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -433,15 +433,16 @@ diff.png](https://zh.wikipedia.org/wiki/File:WikEd_diff.png "fig:Image:WikEd dif
 
 ### 編輯摘要
 
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">**<small>图标</small>**</span>                                                                                                           | 名称   | 说明                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd clear summary.png](https://zh.wikipedia.org/wiki/File:WikEd_clear_summary.png "fig:Image:WikEd clear summary.png")</span> | 清除摘要 | 清除編輯摘要框內的文字。標題名稱（*/\*標題\*/*）在第1次點擊都會保留下來，但第2次點擊此按鈕就會清除。                                                                                                                                                                             |
-| [Image:WikEd combo input.png](https://zh.wikipedia.org/wiki/File:WikEd_combo_input.png "fig:Image:WikEd combo input.png")                                                                                          | 編輯摘要 | 這是一個普通的編輯摘要框，但增加了下拉式歷史紀錄清單。清單上半部是最近輸入過的摘要歷史紀錄，最近的顯示在最上層。下半部是一些使用者定義的語句（請詳見[**WikEd** customization以參考如何設定和更改](../Page/:en:User:Cacycle/wikEd_customization#Various.md "wikilink")）。選擇的語句會附在當前輸入的文字後。摘要前的標題名稱（*/\*標題\*/*）不會記錄在歷史紀錄裡。 |
-|                                                                                                                                                                                                                    |      |                                                                                                                                                                                                                                     |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">**<small>图标</small>**</span>                                                                                                           | 名称   | 说明                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <span style="background: #d4d0cc; border: 1px outset; padding-bottom: 2px;">[Image:WikEd clear summary.png](https://zh.wikipedia.org/wiki/File:WikEd_clear_summary.png "fig:Image:WikEd clear summary.png")</span> | 清除摘要 | 清除編輯摘要框內的文字。標題名稱（*/\*標題\*/*）在第1次點擊都會保留下來，但第2次點擊此按鈕就會清除。                                                                                                                                                                                                |
+| [Image:WikEd combo input.png](https://zh.wikipedia.org/wiki/File:WikEd_combo_input.png "fig:Image:WikEd combo input.png")                                                                                          | 編輯摘要 | 這是一個普通的編輯摘要框，但增加了下拉式歷史紀錄清單。清單上半部是最近輸入過的摘要歷史紀錄，最近的顯示在最上層。下半部是一些使用者定義的語句（請詳見[**WikEd** customization以參考如何設定和更改](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd_customization#Various "wikilink")）。選擇的語句會附在當前輸入的文字後。摘要前的標題名稱（*/\*標題\*/*）不會記錄在歷史紀錄裡。 |
+|                                                                                                                                                                                                                    |      |                                                                                                                                                                                                                                                        |
 
 ## 特殊字元的語法突顯
 
-wikEd 會突出顯示某些特殊的[Unicode](../Page/Unicode.md "wikilink")
+wikEd
+會突出顯示某些特殊的[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
 字元，使它們和標準版本不一樣而得以被辨識。將滑鼠游標懸浮在突顯的字元上方以顯示它的名稱。
 
 <table>
@@ -462,28 +463,28 @@ wikEd 會突出顯示某些特殊的[Unicode](../Page/Unicode.md "wikilink")
 <td><div style="position: relative; left: 3em;">
 <p> <span style="position: absolute; left: 0;"><a href="https://zh.wikipedia.org/wiki/File:WikEd_en_space.png" title="fig:File:WikEd_en_space.png"><a href="File:WikEd_en_space.png">File:WikEd_en_space.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/空格#Unicode定義.md" title="wikilink">En space</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/空格#Unicode定義" title="wikilink">En space</a></p></td>
 <td><p>U+2002</p></td>
 </tr>
 <tr class="odd">
 <td><div style="position: relative; left: 3em;">
 <p> <span style="position: absolute; left: 0;"><a href="https://zh.wikipedia.org/wiki/File:WikEd_em_space.png" title="fig:File:WikEd_em_space.png"><a href="File:WikEd_em_space.png">File:WikEd_em_space.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/空#Unicode定義格.md" title="wikilink">Em space</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/空#Unicode定義格" title="wikilink">Em space</a></p></td>
 <td><p>U+2003</p></td>
 </tr>
 <tr class="even">
 <td><div style="position: relative; left: 3em;">
 <p> <span style="position: absolute; left: 0;"><a href="https://zh.wikipedia.org/wiki/File:WikEd_thin_space.png" title="fig:File:WikEd_thin_space.png"><a href="File:WikEd_thin_space.png">File:WikEd_thin_space.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/空格#Unicode定義.md" title="wikilink">窄空格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/空格#Unicode定義" title="wikilink">窄空格</a></p></td>
 <td><p>U+2009</p></td>
 </tr>
 <tr class="odd">
 <td><div style="position: relative; left: 3em;">
 <p> <span style="position: absolute; left: 0;"><a href="https://zh.wikipedia.org/wiki/File:WikEd_ideographic_space.png" title="fig:File:WikEd_ideographic_space.png"><a href="File:WikEd_ideographic_space.png">File:WikEd_ideographic_space.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/空格#Unicode定義.md" title="wikilink">全形空格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/空格#Unicode定義" title="wikilink">全形空格</a></p></td>
 <td><p>U+3000</p></td>
 </tr>
 <tr class="even">
@@ -504,28 +505,28 @@ wikEd 會突出顯示某些特殊的[Unicode](../Page/Unicode.md "wikilink")
 <td><div style="position: relative; left: 3em;">
 <p>‒<span style="position: absolute; left: 0; top: -0.5em"><a href="https://zh.wikipedia.org/wiki/File:WikEd_figure_dash.png" title="fig:File:WikEd_figure_dash.png"><a href="File:WikEd_figure_dash.png">File:WikEd_figure_dash.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/连接号#數字線.md" title="wikilink">數字線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/连接号#數字線" title="wikilink">數字線</a></p></td>
 <td><p>U+2012</p></td>
 </tr>
 <tr class="odd">
 <td><div style="position: relative; left: 3em;">
 <p>–<span style="position: absolute; left: 0; top: -0.5em"><a href="https://zh.wikipedia.org/wiki/File:WikEd_en_dash.png" title="fig:File:WikEd_en_dash.png"><a href="File:WikEd_en_dash.png">File:WikEd_en_dash.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/连接号#En_dash.md" title="wikilink">En dash</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/连接号#En_dash" title="wikilink">En dash</a></p></td>
 <td><p>U+2013</p></td>
 </tr>
 <tr class="even">
 <td><div style="position: relative; left: 3em;">
 <p>—<span style="position: absolute; left: 0; top: -0.5em"><a href="https://zh.wikipedia.org/wiki/File:WikEd_em_dash.png" title="fig:File:WikEd_em_dash.png"><a href="File:WikEd_em_dash.png">File:WikEd_em_dash.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/连接号#Em_dash.md" title="wikilink">Em dash</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/连接号#Em_dash" title="wikilink">Em dash</a></p></td>
 <td><p>U+2014</p></td>
 </tr>
 <tr class="odd">
 <td><div style="position: relative; left: 3em;">
 <p>―<span style="position: absolute; left: 0; top: -0.5em"><a href="https://zh.wikipedia.org/wiki/File:WikEd_bar_dash.png" title="fig:File:WikEd_bar_dash.png"><a href="File:WikEd_bar_dash.png">File:WikEd_bar_dash.png</a></a></span></p>
 </div></td>
-<td><p><a href="../Page/连接号#水平線.md" title="wikilink">水平線</a> (引文線）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/连接号#水平線" title="wikilink">水平線</a> (引文線）</p></td>
 <td><p>U+2015</p></td>
 </tr>
 <tr class="even">
@@ -582,16 +583,16 @@ logo.png](https://zh.wikipedia.org/wiki/File:wikEd_logo.png "fig:Image:wikEd log
   - If installed as a user script on a *User:YourUsername/your_skin.js*
     page make sure that you are using the right skin or move the loading
     code to
-    [User:YourUsername/common.js](../Page/Special:Mypage/common.js.md "wikilink"),
+    [User:YourUsername/common.js](https://zh.wikipedia.org/wiki/Special:Mypage/common.js "wikilink"),
     see [wikEd
-    installation](../Page/User:Cacycle/wikEd_installation.md "wikilink")
+    installation](https://zh.wikipedia.org/wiki/User:Cacycle/wikEd_installation "wikilink")
   - If you are using **wikEd** on a non-Wikipedia installation check if
     *$wgAllowUserJs* is has been set to *true* in the MediaWiki
     initialization file LocalSettings.php by an administrator
   - Check the JavaScript Error Console (under *Tools* in Firefox) for
     error messages. If there is an error message caused by **wikEd**
     please report to the [**wikEd** discussion
-    page](../Page/User_talk:Cacycle/wikEd.md "wikilink").
+    page](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink").
 
 ### 所有的wikEd的按鈕消失
 
@@ -624,8 +625,9 @@ sentence: *"The code has to be saved as UTF-8 in your editor to preserve
 Unicode characters like ♥ (heart)"* the *"♥"* symbol is replaced by a
 *"?"*.
 
-The reason is that you lost the [Unicode](../Page/Unicode.md "wikilink")
-character formatting when copying the code to your wiki. Use a
+The reason is that you lost the
+[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") character
+formatting when copying the code to your wiki. Use a
 [UTF-8](../Page/UTF-8.md "wikilink")-capable text editor when you paste
 the code to your wiki and specify UTF-8 as your file format when you
 save your text file.
@@ -641,13 +643,13 @@ There is no easy way to get only some wikEd features as most features
 are highly interdependent. However, **wikEd** is configurable and you
 could try to set the respective presets (e.g. no syntax highlighting),
 see the [customization
-section](../Page/User:Cacycle/wikEd_customization.md "wikilink").
+section](https://zh.wikipedia.org/wiki/User:Cacycle/wikEd_customization "wikilink").
 Experienced programmers could try to dissect or to remove certain
 features, but such a version would not be updated automatically with
 bugfixes and new features. Feel free to suggest new configuration
 options on the [wikEd
-talk](../Page/User_talk:Cacycle/wikEd.md "wikilink") page after having
-used **wikEd** for a few days (to get the feeling...).
+talk](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink")
+page after having used **wikEd** for a few days (to get the feeling...).
 
 ### Missing features and other shortcomings
 
@@ -668,11 +670,12 @@ for it.
 
   -
     '' Please also read an extended user essay about this under
-    [User:Cacycle/WYSIWYG](../Page/User:Cacycle/WYSIWYG.md "wikilink")
+    [User:Cacycle/WYSIWYG](https://zh.wikipedia.org/wiki/User:Cacycle/WYSIWYG "wikilink")
     (under construction)''
 
 A common feature request is to make **wikEd** a true
-[WYSIWYG](../Page/WYSIWYG.md "wikilink") ( )\[2\] editor.
+[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink") ( )\[2\]
+editor.
 
 While this sounds like a good idea at first, it is actually a step
 backwards. It would be very simple to add WYSIWYG for the basic
@@ -695,8 +698,9 @@ is more confusing and time consuming than the simple wiki-way of
 structure-oriented editing.
 
 **wikEd** tries to bring together the best of both worlds in something
-also known as [WYSIWYM](../Page/WYSIWYM.md "wikilink") – *what you see
-is what you mean*:
+also known as
+[WYSIWYM](https://zh.wikipedia.org/wiki/WYSIWYM "wikilink") – *what you
+see is what you mean*:
 
   - A simple (MS Word-like) user interface with advanced text editing
     features like search and replace (also good for learning the wiki
@@ -726,7 +730,8 @@ The design philosophy of **wikEd** is:
   - Use of the browser-internal rich-text editor
 
 <small>Please post bug reports or feature requests to the [**wikEd**
-discussion page](../Page/User_talk:Cacycle/wikEd.md "wikilink").</small>
+discussion
+page](https://zh.wikipedia.org/wiki/User_talk:Cacycle/wikEd "wikilink").</small>
 
 ### Notes
 

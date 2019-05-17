@@ -1,5 +1,5 @@
-《**READY\!\!**》是[偶像大師](../Page/偶像大師.md "wikilink")「」系列的第一張單曲，於2011年8月10日經[日本古倫美亞發行](../Page/日本古倫美亞.md "wikilink")。本曲是同名[電視動畫](../Page/電視動畫.md "wikilink")《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》的第一期片頭曲，並由動畫中的組合「[765PRO
-ALLSTARS](../Page/偶像大師_\(動畫\)#登場角色.md "wikilink")」十三人演唱。
+《**READY\!\!**》是[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")「」系列的第一張單曲，於2011年8月10日經[日本古倫美亞發行](../Page/日本古倫美亞.md "wikilink")。本曲是同名[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》的第一期片頭曲，並由動畫中的組合「[765PRO
+ALLSTARS](https://zh.wikipedia.org/wiki/偶像大師_\(動畫\)#登場角色 "wikilink")」十三人演唱。
 
 ## 概要
 
@@ -12,15 +12,15 @@ size)》、《GO MY WAY\!\! (M@STER VERSION)》兩曲，以及無字幕版的動
 《READY\!\!》曾與動畫第二期主題曲《》合成為《READY\!\! & CHANGE\!\!\!\! SPECIAL
 EDITION》，並在電視動畫最後一集的表演中播出。此曲後來收錄於2012年2月1日發售的《[THE IDOLM@STER
 ANIM@TION MASTER
-07](../Page/偶像大師CD列表#ANIM@TION_MASTER系列.md "wikilink")》中。
+07](https://zh.wikipedia.org/wiki/偶像大師CD列表#ANIM@TION_MASTER系列 "wikilink")》中。
 
 2013年《THE IDOLM@STER 8th ANNIVERSARY
 HOP\!STEP\!\!FESTIV@L\!\!\!》巡迴演唱會的各個會場內，主辦方限量售賣收錄了765PRO
 ALLSTARS個成員單獨演唱版本的專輯《THE IDOLM@STER ANIM@TION MASTER READY\!\!
-Solo・Remix》，並原定於名古屋公演後在該市[Animate分店設置特別攤位售賣](../Page/Animate.md "wikilink")\[3\]，但因CD已全數於會場內售罄而取消\[4\]。
+Solo・Remix》，並原定於名古屋公演後在該市[Animate分店設置特別攤位售賣](https://zh.wikipedia.org/wiki/Animate "wikilink")\[3\]，但因CD已全數於會場內售罄而取消\[4\]。
 
-本曲是偶像大師與[LoveLive\!成員在](../Page/LoveLive!.md "wikilink")「[Animelo Summer
-Live
+本曲是偶像大師與[LoveLive\!成員在](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")「[Animelo
+Summer Live
 2015](../Page/Animelo_Summer_Live.md "wikilink")」中共演的第一首歌曲\[5\]，這是兩個組合史上首次於同一舞台上合作演出\[6\]。
 
 ## 收錄曲目
@@ -63,10 +63,10 @@ Live
 
 ## 翻唱版本
 
-  - [Customize](../Page/EBiDAN.md "wikilink")（）：收錄於2013年4月10日發售的單曲《魔法公主》（）。
+  - [Customize](https://zh.wikipedia.org/wiki/EBiDAN "wikilink")（）：收錄於2013年4月10日發售的單曲《魔法公主》（）。
   - [福原香織](../Page/福原香織.md "wikilink")：收錄於2013年5月1日發售的單曲《Special
     Ani研Vol.1 feat.福原香織 and ARM》（）。
-  - M.O.E.（[羽多野渉](../Page/羽多野渉.md "wikilink")、[寺島拓篤](../Page/寺島拓篤.md "wikilink")）：收錄於2014年4月9日發售的專輯《那天見到夢了CD》（）。
+  - M.O.E.（[羽多野渉](https://zh.wikipedia.org/wiki/羽多野渉 "wikilink")、[寺島拓篤](../Page/寺島拓篤.md "wikilink")）：收錄於2014年4月9日發售的專輯《那天見到夢了CD》（）。
 
 ## 參考來源
 

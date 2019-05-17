@@ -1,17 +1,18 @@
 **Showtek** 是荷蘭的雙人[電子音樂團體](../Page/電子音樂.md "wikilink")。由兄弟檔Sjoerd
 Janssen (也稱做 Duro, born 1984)和Wouter Janssen (也稱做 Walt, born
-1982)組成，於2001年投入音樂創作。最初做[鐵克諾音樂](../Page/鐵克諾音樂.md "wikilink")，中期漸漸變成[Hardstyle](../Page/重派音樂.md "wikilink")，最後轉變成[前衛浩室和](../Page/前衛浩室.md "wikilink")[電子浩室](../Page/電子浩室.md "wikilink")。
+1982)組成，於2001年投入音樂創作。最初做[鐵克諾音樂](https://zh.wikipedia.org/wiki/鐵克諾音樂 "wikilink")，中期漸漸變成[Hardstyle](https://zh.wikipedia.org/wiki/重派音樂 "wikilink")，最後轉變成[前衛浩室和](https://zh.wikipedia.org/wiki/前衛浩室 "wikilink")[電子浩室](../Page/電子浩室.md "wikilink")。
 
 <div>
 
 2012年，Showtek開始和其他風格的舞曲製作人一起從事一系列的合輯，叫做Crazy
 Collabs計畫。在他們正式發表他們的合輯之前。他們和[Tiësto和](../Page/提雅斯多.md "wikilink")[Angger
-Dimas製作了We](../Page/Angger_Dimas.md "wikilink") Rock這首歌。在此計畫中他們和Tiësto,
-[Hardwell](../Page/Hardwell.md "wikilink"), [Justin
-Prime](../Page/Justin_Prime.md "wikilink"),
-[Bassjackers](../Page/Bassjackers.md "wikilink"),
-[Ookay](../Page/Ookay.md "wikilink"),
-[MAKJ](../Page/MAKJ.md "wikilink") 和Hardstyle雙人組[Noisecontrollers合作過](../Page/Noisecontrollers.md "wikilink")。
+Dimas製作了We](https://zh.wikipedia.org/wiki/Angger_Dimas "wikilink")
+Rock這首歌。在此計畫中他們和Tiësto,
+[Hardwell](https://zh.wikipedia.org/wiki/Hardwell "wikilink"), [Justin
+Prime](https://zh.wikipedia.org/wiki/Justin_Prime "wikilink"),
+[Bassjackers](https://zh.wikipedia.org/wiki/Bassjackers "wikilink"),
+[Ookay](https://zh.wikipedia.org/wiki/Ookay "wikilink"),
+[MAKJ](https://zh.wikipedia.org/wiki/MAKJ "wikilink") 和Hardstyle雙人組[Noisecontrollers合作過](https://zh.wikipedia.org/wiki/Noisecontrollers "wikilink")。
 
 2014年6月9日，消息傳出他們要回到以往傳統製作Hardstyle專輯，後來證實是他們曾經的死忠粉絲發布的謠言。並且Showtek為此在facebook聲明強調他們不會再回歸Hardstyle。
 
@@ -38,18 +39,18 @@ Prime](../Page/Justin_Prime.md "wikilink"),
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Single_Top_100.md" title="wikilink">NED</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_Top_100" title="wikilink">NED</a><br />
 [1]</p></td>
-<td><p><a href="../Page/ARIA_Charts.md" title="wikilink">AUS</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ARIA_Charts" title="wikilink">AUS</a><br />
 <ref name="AUS">Showtek peaks in Australia:</p>
 <ul>
 <li>All except noted: </li>
 <li>"Booyah": </li>
 <li>"We Like to Party": </ref></li>
 </ul></td>
-<td><p><a href="../Page/Ö3_Austria_Top_40.md" title="wikilink">AUT</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ö3_Austria_Top_40" title="wikilink">AUT</a><br />
 [2]</p></td>
-<td><p><a href="../Page/Ultratop.md" title="wikilink">BEL</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ultratop" title="wikilink">BEL</a><br />
 [3]</p></td>
 </tr>
 <tr class="even">
@@ -66,7 +67,7 @@ Prime](../Page/Justin_Prime.md "wikilink"),
 </tr>
 <tr class="even">
 <td><p>"How We Do"<br />
-<span style="font-size:85%;">(with <a href="../Page/Hardwell.md" title="wikilink">Hardwell</a>)</span></p></td>
+<span style="font-size:85%;">(with <a href="https://zh.wikipedia.org/wiki/Hardwell" title="wikilink">Hardwell</a>)</span></p></td>
 <td><p>2012</p></td>
 <td><p>91</p></td>
 <td><p>—</p></td>
@@ -92,21 +93,21 @@ Prime](../Page/Justin_Prime.md "wikilink"),
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/Booyah_(song).md" title="wikilink">Booyah</a>"<br />
-<span style="font-size:85%;">(featuring We Are Loud! and <a href="../Page/Sonny_Wilson.md" title="wikilink">Sonny Wilson</a>)</span></p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Booyah_(song)" title="wikilink">Booyah</a>"<br />
+<span style="font-size:85%;">(featuring We Are Loud! and <a href="https://zh.wikipedia.org/wiki/Sonny_Wilson" title="wikilink">Sonny Wilson</a>)</span></p></td>
 <td><p>15</p></td>
 <td><p>87</p></td>
 <td><p>50</p></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="../Page/We_Like_to_Party_(Showtek_song).md" title="wikilink">We Like to Party</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/We_Like_to_Party_(Showtek_song)" title="wikilink">We Like to Party</a>"</p></td>
 <td><p>51</p></td>
 <td><p>88</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/Bad_(David_Guetta_and_Showtek_song).md" title="wikilink">Bad</a>"<br />
-<span style="font-size:85%;">(with <a href="../Page/David_Guetta.md" title="wikilink">David Guetta</a> featuring <a href="../Page/Vassy_(singer).md" title="wikilink">Vassy</a>)</span></p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Bad_(David_Guetta_and_Showtek_song)" title="wikilink">Bad</a>"<br />
+<span style="font-size:85%;">(with <a href="https://zh.wikipedia.org/wiki/David_Guetta" title="wikilink">David Guetta</a> featuring <a href="https://zh.wikipedia.org/wiki/Vassy_(singer)" title="wikilink">Vassy</a>)</span></p></td>
 <td><p>2014</p></td>
 <td><p>13</p></td>
 <td><p>5</p></td>
@@ -120,7 +121,7 @@ Prime](../Page/Justin_Prime.md "wikilink"),
 </tr>
 <tr class="even">
 <td><p>"Cannonball (Earthquake)"<br />
-<span style="font-size:85%;">(with <a href="../Page/Justin_Prime.md" title="wikilink">Justin Prime</a> featuring <a href="../Page/Matthew_Koma.md" title="wikilink">Matthew Koma</a>)</span></p></td>
+<span style="font-size:85%;">(with <a href="https://zh.wikipedia.org/wiki/Justin_Prime" title="wikilink">Justin Prime</a> featuring <a href="https://zh.wikipedia.org/wiki/Matthew_Koma" title="wikilink">Matthew Koma</a>)</span></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -176,15 +177,15 @@ Prime](../Page/Justin_Prime.md "wikilink"),
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Syndicat_National_de_l&#39;Édition_Phonographique.md" title="wikilink">FRA</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Syndicat_National_de_l&#39;Édition_Phonographique" title="wikilink">FRA</a><br />
 [4]</p></td>
-<td><p><a href="../Page/GfK_Entertainment.md" title="wikilink">GER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GfK_Entertainment" title="wikilink">GER</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>"No Money No Love"<br />
-<small>(with <a href="../Page/David_Guetta.md" title="wikilink">David Guetta</a> featuring <a href="../Page/Elliphant.md" title="wikilink">Elliphant</a> and <a href="../Page/Ms._Dynamite.md" title="wikilink">Ms. Dynamite</a>)</small></p></td>
+<small>(with <a href="https://zh.wikipedia.org/wiki/David_Guetta" title="wikilink">David Guetta</a> featuring <a href="https://zh.wikipedia.org/wiki/Elliphant" title="wikilink">Elliphant</a> and <a href="../Page/Ms._Dynamite.md" title="wikilink">Ms. Dynamite</a>)</small></p></td>
 <td><p>2014</p></td>
 <td><p>159</p></td>
 <td><p>94</p></td>
@@ -200,39 +201,49 @@ Prime](../Page/Justin_Prime.md "wikilink"),
 
 ### 合作歌曲
 
-  - [Tiësto](../Page/Tiësto.md "wikilink") feat. Ou Est le Swimming Pool
-    - The Feeling (2014)
-  - [Sander Van Doorn](../Page/Sander_Van_Doorn.md "wikilink") & [Nicky
-    Romero](../Page/Nicky_Romero.md "wikilink") ft. [Jhene
-    Aiko](../Page/Jhene_Aiko.md "wikilink") – Happiness (2013)
-  - [Chris Brown](../Page/Chris_Brown.md "wikilink") – Nobody’s Perfect
-    (2012)
-  - [Tiësto](../Page/Tiësto.md "wikilink") &
-    [Allure](../Page/Tiësto.md "wikilink") – Pair of Dice (2012)
-  - [Marcel Woods](../Page/Marcel_Woods.md "wikilink") – Guaba (2012)
+  - [Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink") feat. Ou
+    Est le Swimming Pool - The Feeling (2014)
+  - [Sander Van
+    Doorn](https://zh.wikipedia.org/wiki/Sander_Van_Doorn "wikilink") &
+    [Nicky
+    Romero](https://zh.wikipedia.org/wiki/Nicky_Romero "wikilink") ft.
+    [Jhene Aiko](https://zh.wikipedia.org/wiki/Jhene_Aiko "wikilink") –
+    Happiness (2013)
+  - [Chris Brown](https://zh.wikipedia.org/wiki/Chris_Brown "wikilink")
+    – Nobody’s Perfect (2012)
+  - [Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink") &
+    [Allure](https://zh.wikipedia.org/wiki/Tiësto "wikilink") – Pair of
+    Dice (2012)
+  - [Marcel
+    Woods](https://zh.wikipedia.org/wiki/Marcel_Woods "wikilink") –
+    Guaba (2012)
   - Tiësto – Miami (2012)
-  - Marcel Woods & [W\&W](../Page/W&W.md "wikilink") – Trigger (2012)
+  - Marcel Woods & [W\&W](https://zh.wikipedia.org/wiki/W&W "wikilink")
+    – Trigger (2012)
   - Marcel Woods & Allure – Ready (2012)
   - Tiësto – Chasing Summers (2012)
   - Marcel Woods – Black Angus (2012)
-  - [Marco V](../Page/Marco_V.md "wikilink") & Marcel Woods – Scream
-    (2012)
+  - [Marco V](https://zh.wikipedia.org/wiki/Marco_V "wikilink") & Marcel
+    Woods – Scream (2012)
   - Boys Will Be Boys – "We Rock EP" (2011)
   - Marcel Woods – Champagne Dreams (2011)
   - Tiësto & Marcel Woods – Don’t Ditch (2011)
   - Tiësto – Maximal Crazy (2011)
   - Allure – Kiss from the Past (Album) (2011)
-  - Allure Feat. [Jes](../Page/Jes_Brieden.md "wikilink") – Show Me the
-    Way (2011)
+  - Allure Feat.
+    [Jes](https://zh.wikipedia.org/wiki/Jes_Brieden "wikilink") – Show
+    Me the Way (2011)
   - Allure Feat. Lindsey Ray – I’m Home (2011)
   - Allure Feat. Jeza – You Say It’ll Be Okay (2011)
   - Allure – Kiss from the Past (2011)
-  - Allure ft. [Emma Hewitt](../Page/Emma_Hewitt.md "wikilink") – No
+  - Allure ft. [Emma
+    Hewitt](https://zh.wikipedia.org/wiki/Emma_Hewitt "wikilink") – No
     Goodbyes (2011)
   - Allure ft. Kate Miles – My Everything (2011)
   - Allure – Guilty Pleasures (2011)
   - Allure Feat. [Christian
-    Burns](../Page/Christian_Burns.md "wikilink") – On the Wire (2011)
+    Burns](https://zh.wikipedia.org/wiki/Christian_Burns "wikilink") –
+    On the Wire (2011)
   - Allure Feat. Emma Hewitt – Stay Forever (2011)
   - Marcel Woods – Sunrise (2011)
   - Marcel Woods – Questionary (2011)
@@ -254,19 +265,22 @@ Prime](../Page/Justin_Prime.md "wikilink"),
   - Eva Shaw - "Space Jungle" (Showtek Edit) (2014)
   - First State - "Scube" (Showtek Edit) (2014)
   - Cobra Effect - "Don't Pass Go" (Showtek Edit) (2014)
-  - [MAKJ](../Page/MAKJ.md "wikilink") & M35 - "GO (Showtek Edit)"
-    (2014)
-  - [David Guetta](../Page/David_Guetta.md "wikilink") feat. [Sam
-    Martin](../Page/Sam_Martin_\(singer\).md "wikilink") - "Lovers on
-    the Sun" (Showtek Remix) (2014)
+  - [MAKJ](https://zh.wikipedia.org/wiki/MAKJ "wikilink") & M35 - "GO
+    (Showtek Edit)" (2014)
+  - [David
+    Guetta](https://zh.wikipedia.org/wiki/David_Guetta "wikilink") feat.
+    [Sam
+    Martin](https://zh.wikipedia.org/wiki/Sam_Martin_\(singer\) "wikilink")
+    - "Lovers on the Sun" (Showtek Remix) (2014)
   - Hardwell & MAKJ - "Countdown" (Showtek’s Club Edit) (2013)
   - Dirty South & Alesso feat. Ruben Haze - "City Of Dreams" (Showtek
     Remix) (2013)
   - Carly Rae Jepsen - "Tonight I'm Getting Over You" (Showtek Remix)
     (2013)
   - Showtek – "Hold Us Back" (2012 DJ Edit) (2012)
-  - [Kid Cudi](../Page/Kid_Cudi.md "wikilink") Ft. Ratatat & MGMT -
-    "Pursuit Of Happiness" (Steve Aoki Remix - Showtek Re-Edit) (2012)
+  - [Kid Cudi](https://zh.wikipedia.org/wiki/Kid_Cudi "wikilink") Ft.
+    Ratatat & MGMT - "Pursuit Of Happiness" (Steve Aoki Remix - Showtek
+    Re-Edit) (2012)
   - Marcel Woods – The Bottle (Showtek Remix) (2010)
   - System F – "Out of the Blue" (Showtek Remix) (2010)
   - Mr. Puta – "Green Stuff" (Showtek Remix) (2009)
@@ -274,8 +288,8 @@ Prime](../Page/Justin_Prime.md "wikilink"),
   - Donkey Rollers – "No One Can Stop Us" (Showtek Kwartjes Remix)
     (2009)
   - [Charly Lownoise and Mental
-    Theo](../Page/Charly_Lownoise_and_Mental_Theo.md "wikilink") –
-    "Wonderful Days 2.08" (Showtek Remix) (2008)
+    Theo](https://zh.wikipedia.org/wiki/Charly_Lownoise_and_Mental_Theo "wikilink")
+    – "Wonderful Days 2.08" (Showtek Remix) (2008)
   - Brennan Heart – "Revival X" (Showtek Remix) (2008)
   - Zushi – "La La Song" (Showtek Remix) (2008)
   - Methods of Mayhem – "F.Y.U." (Showtek Remix) (2003)

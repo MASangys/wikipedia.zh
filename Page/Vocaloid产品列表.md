@@ -1,5 +1,5 @@
 [链接=<https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm>](https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm "fig:链接=https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm")可以發音日本語(00:26-04:19)和英語(04:38-06:34)。\]\]
-以下是已發佈的[Vocaloid軟體產品列表](../Page/Vocaloid.md "wikilink")，以發佈日期爲序。
+以下是已發佈的[Vocaloid軟體產品列表](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，以發佈日期爲序。
 
 ## 製品
 
@@ -53,8 +53,8 @@
 </tr>
 <tr class="even">
 <td><p>[4]</p></td>
-<td><p><a href="../Page/山葉_(公司).md" title="wikilink">山葉公司</a>（開發商）[5]<br />
-<a href="../Page/Crypton_Future_Media.md" title="wikilink">Crypton Future Media</a>（分銷商）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山葉_(公司)" title="wikilink">山葉公司</a>（開發商）[5]<br />
+<a href="https://zh.wikipedia.org/wiki/Crypton_Future_Media" title="wikilink">Crypton Future Media</a>（分銷商）</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
 <td></td>
@@ -95,7 +95,7 @@
 <tbody>
 <tr class="odd">
 <td><p>[7]</p></td>
-<td><p><a href="../Page/PowerFX.md" title="wikilink">PowerFX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PowerFX" title="wikilink">PowerFX</a></p></td>
 <td><p>英語</p></td>
 <td><p>女性</p></td>
 <td><p>Jody</p></td>
@@ -142,7 +142,7 @@
 <td><p><a href="../Page/Internet_(公司).md" title="wikilink">Internet有限公司</a></p></td>
 <td><p>日語</p></td>
 <td><p>男性</p></td>
-<td><p><a href="../Page/Gackt.md" title="wikilink">Gackt</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gackt" title="wikilink">Gackt</a></p></td>
 <td><p><span style="display:none">2008-07-31</span>2008年7月31日</p></td>
 </tr>
 <tr class="odd">
@@ -158,7 +158,7 @@
 <td><p>Internet有限公司</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
-<td><p><a href="../Page/中島愛.md" title="wikilink">中島愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島愛" title="wikilink">中島愛</a></p></td>
 <td><p><span style="display:none">2009-06-25</span>2009年6月26日</p></td>
 </tr>
 <tr class="odd">
@@ -227,7 +227,7 @@ Internet有限公司<br />
 </p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
-<td><p>益田祐里（<a href="../Page/m.o.v.e.md" title="wikilink">m.o.v.e</a>）</p></td>
+<td><p>益田祐里（<a href="https://zh.wikipedia.org/wiki/m.o.v.e" title="wikilink">m.o.v.e</a>）</p></td>
 <td><p><span style="display:none">2010-08-25</span>2010年8月25日</p></td>
 </tr>
 <tr class="odd">
@@ -282,7 +282,7 @@ Internet有限公司<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Sega.md" title="wikilink">Sega</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
 <td><p><a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a></p></td>
@@ -325,7 +325,7 @@ Internet有限公司<br />
 <td><p>[41][42]</p></td>
 <td><p>山葉公司/Bplats</p></td>
 <td><p>日語</p></td>
-<td><p><a href="../Page/中性_(性別).md" title="wikilink">中性</a>（“女性”聲音）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中性_(性別)" title="wikilink">中性</a>（“女性”聲音）</p></td>
 <td></td>
 <td><p>2010年12月</p></td>
 </tr>
@@ -367,7 +367,7 @@ Internet有限公司<br />
 <td><p>[43][44]</p></td>
 <td><p>山葉公司/Bplats</p></td>
 <td><p>日語</p></td>
-<td><p><a href="../Page/中性_(性別).md" title="wikilink">中性</a>（“女性”聲音）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中性_(性別)" title="wikilink">中性</a>（“女性”聲音）</p></td>
 <td></td>
 <td><p>2010年12月</p></td>
 </tr>
@@ -701,7 +701,7 @@ Maui（Wil）</p></td>
 山葉公司/Bplats</p></td>
 <td><p>漢語</p></td>
 <td><p>女性</p></td>
-<td><p><a href="../Page/劉婧犖.md" title="wikilink">劉婧犖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉婧犖" title="wikilink">劉婧犖</a></p></td>
 <td><p>2013年7月11日</p></td>
 </tr>
 <tr class="odd">
@@ -855,7 +855,7 @@ Maui（Wil）</p></td>
 <td><p>上海禾念</p></td>
 <td><p>漢語</p></td>
 <td><p>女性</p></td>
-<td><p><a href="../Page/祈Inory.md" title="wikilink">祈Inory</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/祈Inory" title="wikilink">祈Inory</a></p></td>
 <td><p>2015年7月17日</p></td>
 </tr>
 <tr class="odd">
@@ -1162,11 +1162,11 @@ MTK</p></td>
 <td><p>2017年2月16日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/樂正龍牙.md" title="wikilink">樂正龍牙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樂正龍牙" title="wikilink">樂正龍牙</a></p></td>
 <td><p>上海禾念</p></td>
 <td><p>漢語</p></td>
 <td><p>男性</p></td>
-<td><p><a href="../Page/張杰_(配音演員).md" title="wikilink">張杰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張杰_(配音演員)" title="wikilink">張杰</a></p></td>
 <td><p>2017年5月10日</p></td>
 </tr>
 <tr class="odd">
@@ -1187,7 +1187,7 @@ MTK</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/LUMi.md" title="wikilink">LUMi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LUMi" title="wikilink">LUMi</a></p></td>
 <td><p>Akatsuki Virtual Artists</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -1228,7 +1228,7 @@ MTK</p></td>
 <td><p>2017年12月30日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/绁星灯.md" title="wikilink">绁星灯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/绁星灯" title="wikilink">绁星灯</a></p></td>
 <td><p>AH-Software</p></td>
 <td><p>日语</p></td>
 <td><p>女性</p></td>
@@ -1433,7 +1433,7 @@ MTK</p></td>
 <td><p>Internet有限公司</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
-<td><p><a href="../Page/中島愛.md" title="wikilink">中島愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島愛" title="wikilink">中島愛</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1441,7 +1441,7 @@ MTK</p></td>
 <td><p>Internet有限公司</p></td>
 <td><p>英語</p></td>
 <td><p>女性</p></td>
-<td><p><a href="../Page/中島愛.md" title="wikilink">中島愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島愛" title="wikilink">中島愛</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1976,7 +1976,7 @@ VocaNext</p></td>
 <td><p>山葉公司</p></td>
 <td><p>日語</p></td>
 <td><p>男性</p></td>
-<td><p><a href="../Page/hide.md" title="wikilink">hide</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/hide" title="wikilink">hide</a></p></td>
 <td><p>私有</p></td>
 </tr>
 <tr class="odd">
@@ -1990,7 +1990,7 @@ VocaNext</p></td>
 <tr class="even">
 <td></td>
 <td><p>上海禾念<br />
-<a href="../Page/網易.md" title="wikilink">網易</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/網易" title="wikilink">網易</a></p></td>
 <td><p>漢語</p></td>
 <td><p>女性</p></td>
 <td><p>龜仙人</p></td>

@@ -1,10 +1,10 @@
-《**Doctors**》（）為[韓國](../Page/韓國.md "wikilink")[SBS於](../Page/SBS株式會社.md "wikilink")2015年6月20日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由[朴信惠及](../Page/朴信惠.md "wikilink")[金來沅主演](../Page/金來沅.md "wikilink")，《[溫暖的一句話](../Page/溫暖的一句話.md "wikilink")》、《[上流社會](../Page/上流社會_\(電視劇\).md "wikilink")》[河明熙作家執筆](../Page/河明熙.md "wikilink")，以女流氓劉慧靜（[朴信惠](../Page/朴信惠.md "wikilink")
-飾）為主人公，講述她生活跌至谷底，差點進入監獄後發憤圖強成為女醫生的故事。原著《女流氓慧靜》是作家[河明熙在](../Page/河明熙.md "wikilink")2010年廣播文化振興財團主辦的第3次劇本征集活動評選的電視劇作品。
+《**Doctors**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2015年6月20日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由[朴信惠及](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[金來沅主演](https://zh.wikipedia.org/wiki/金來沅 "wikilink")，《[溫暖的一句話](../Page/溫暖的一句話.md "wikilink")》、《[上流社會](../Page/上流社會_\(電視劇\).md "wikilink")》[河明熙作家執筆](https://zh.wikipedia.org/wiki/河明熙 "wikilink")，以女流氓劉慧靜（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")
+飾）為主人公，講述她生活跌至谷底，差點進入監獄後發憤圖強成為女醫生的故事。原著《女流氓慧靜》是作家[河明熙在](https://zh.wikipedia.org/wiki/河明熙 "wikilink")2010年廣播文化振興財團主辦的第3次劇本征集活動評選的電視劇作品。
 
 ## 劇情
 
-講述生活一團糟的高中生劉慧靜（[朴信惠](../Page/朴信惠.md "wikilink")
-飾）與因手術失誤的陰影選擇逃避為生物教師的洪智弘（[金來沅](../Page/金來沅.md "wikilink")
+講述生活一團糟的高中生劉慧靜（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")
+飾）與因手術失誤的陰影選擇逃避為生物教師的洪智弘（[金來沅](https://zh.wikipedia.org/wiki/金來沅 "wikilink")
 飾）之間好感剛萌芽卻被嫉妒慧靜的同學陳瑞雨（[李聖經](../Page/李聖經.md "wikilink")
 飾）誣衊兩人有超乎師生的不當關係。13年後慧靜與瑞雨成為國日醫院的神經外科主治醫生，而智弘則成為神經外科的醫學教授，三人與鄭允道醫生（[尹鈞相](../Page/尹鈞相.md "wikilink")
 飾）及醫療團隊一起克服與面對各種醫學難題與醫療個案。允道在與慧靜共事的過程中對她暗生情愫。全劇主軸通過愛情展現主人公劉慧靜的變化與成長的故事，探討生命的意義，而劇中人物的愛恨糾葛與調查慧靜奶奶-{姜}-末順（[金姈愛](../Page/金姈愛.md "wikilink")
@@ -37,18 +37,18 @@
 <td><p><strong>登場集數</strong></p></td>
 <td><p><strong>國語配音</strong></p></td>
 <td><p><strong>粵語配音</strong> |- |-</p></td>
-<td><p><strong><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></strong><br />
-<small>童年：<a href="../Page/葛素媛.md" title="wikilink">葛素媛</a></small></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></strong><br />
+<small>童年：<a href="https://zh.wikipedia.org/wiki/葛素媛" title="wikilink">葛素媛</a></small></p></td>
 <td><p><strong>劉慧靜</strong></p></td>
 <td style="text-align: left;"><p>18歲→31歲，国日医院神经外科主治醫師(Fellow)。说做就做，下定决心就会做到底的韧性。头脑聪敏，擁有以一敵十的格鬥能力，性格活泼善良。童年經歷喪母及父親再婚而關閉了心扉，以叛逆的一面度过了学生时期。有空就去清溪川的二手书店看书，这是她的秘密，绝不放弃读书。在高中和老师志弘相遇之后，开启了她另一个世界的门。第3集因為陳瑞雨父親的緣故失去祖母決意成為醫生，13年後為了查出祖母死亡真相來到国日医院，第4集因為接收患者而遇到成为了神经外科教授的洪志弘。已和瑞雨和好。已接受洪志弘的求婚。</p></td>
 <td><p>全劇</p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><p><a href="../Page/楊婉潼.md" title="wikilink">楊婉潼</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/金來沅.md" title="wikilink">金來沅</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></strong><br />
 <small>童年：吉政佑</small><br />
-<small>少年：<a href="../Page/朴所羅門.md" title="wikilink">朴所羅門</a></small></p></td>
+<small>少年：<a href="https://zh.wikipedia.org/wiki/朴所羅門" title="wikilink">朴所羅門</a></small></p></td>
 <td><p><strong>洪智弘</strong><br />
 （李智弘）</p></td>
 <td><p>27歲→40歲，国日医院神经外科教授。童年時父母出車禍成為孤兒，高中時被国日医院理事長收養，有着与生俱来的聪明头脑，是医科大学的佼佼者。因实习期间的失误，放弃医生工作成为南陽女高的生物教师然後認識慧靜。通过慧静，领悟到他真正想做的依然是医生。第4集(13年後)接收患者時遇到成为了医生的慧静，他的心脏重新开始跳动。曾跟隨養父到美國深造。擁有世界級的開顱技術。已向劉慧靜求婚成功。</p></td>
@@ -120,10 +120,10 @@
 <td><p>慧靜的祖母，64歲，為了生存無所不賣，笑與心也包括在內。經營婆婆湯飯。因為獨生子的錯誤獨自撫養著孫女所以總是對她懷著抱歉的心。得了胃癌後，在陳明勳所主刀的手術現場死亡</p></td>
 <td><p>1-3、5-6、17</p></td>
 <td><p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
-<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王綺婷" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭海均.md" title="wikilink">鄭海均</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭海均" title="wikilink">鄭海均</a></p></td>
 <td><p>劉敏浩</p></td>
 <td><p>慧靜的父親，53歲，敏感且自尊心強，強烈的支配性格，若不依從他就會生氣。性格和慧靜母親一樣強烈，兩人總是相碰；雖非本意但慧靜母親因而逝世，後再娶李佳珍，並育有一女。對慧靜有愧疚感，因愧疚對她更冷漠。</p></td>
 <td><p>1、3、6-8、13-14、19-20</p></td>
@@ -131,12 +131,12 @@
 <td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朴志雅.md" title="wikilink">朴志雅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴志雅" title="wikilink">朴志雅</a></p></td>
 <td><p>李佳珍</p></td>
 <td><p>慧靜的繼母，47歲，情婦變為妻子。勢利的親切，在丈夫面前無條件的都說「好」。13年後，一次生病發現慧靜成為醫生後，才攀親帶故。</p></td>
 <td><p>3、6-8</p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
-<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/韓寶貝.md" title="wikilink">韓寶貝</a></p></td>
@@ -144,7 +144,7 @@
 <td><p>慧靜的異母妹妹，22歲，性格跟父親很像所以到哪裡都有領導性格，但敵人很多。對姐姐很友好，是慧靜連接家族的那條線。因媽媽感到自卑。</p></td>
 <td><p>6-7</p></td>
 <td></td>
-<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王綺婷" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金志洙.md" title="wikilink">金志洙</a><br />
@@ -153,7 +153,7 @@
 <td><p>18歲→31歲，慧靜徬徨時期出現的男性友人，高中時是他人生最精采時期，拳頭有力，人好在近東學校赫赫有名、臭美的男生。被帶刺又高貴的慧靜吸引，為得到她的心付出了很多無知的努力，現在視慧靜為妹妹。已離婚，育有一子。</p></td>
 <td><p>1-4、5、7-8</p></td>
 <td></td>
-<td><p><a href="../Page/陳漢祺.md" title="wikilink">陳漢祺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳漢祺" title="wikilink">陳漢祺</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/文知茵.md" title="wikilink">文知茵</a></strong></p></td>
@@ -192,7 +192,7 @@
 <td><p>志弘的養父，前國日集團理事長。在11集因心肌梗塞而過世。</p></td>
 <td><p>1-11</p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
-<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/劉多仁.md" title="wikilink">劉多仁</a><br />
@@ -208,12 +208,12 @@
 
 ### 瑞雨周邊人物
 
-|                                  |        |                                  |                                  |                                  |                                         |
-| -------------------------------- | ------ | -------------------------------- | -------------------------------- | -------------------------------- | --------------------------------------- |
-| **演員**                           | **角色** | **介紹**                           | **登場集數**                         | **國語配音**                         | **粵語配音**                                |
-| [全國煥](../Page/全國煥.md "wikilink") | 陳盛鐘    | 陳瑞雨的祖父，國日集團新任理事長。因貪污遭拘留調查，後獲保釋。  | 全劇                               | [曹冀魯](../Page/曹冀魯.md "wikilink") | [黃志明](../Page/黃志明_\(香港\).md "wikilink") |
-| [嚴孝燮](../Page/嚴孝燮.md "wikilink") | 陳明勳    | 陳瑞雨的爸爸，國日醫院院長。慧靜奶奶的主治醫生，慧靜的復仇對象。 | [李世揚](../Page/李世揚.md "wikilink") |                                  |                                         |
-| [尹海英](../Page/尹海英.md "wikilink") | 尹智英    | 陳瑞雨的媽媽。勢利眼。看不起慧靜。                | 1-3、6、12、15 - 16、18-20           |                                  | [冼詠儀](../Page/冼詠儀.md "wikilink")        |
+|                                  |        |                                  |                                  |                                  |                                                     |
+| -------------------------------- | ------ | -------------------------------- | -------------------------------- | -------------------------------- | --------------------------------------------------- |
+| **演員**                           | **角色** | **介紹**                           | **登場集數**                         | **國語配音**                         | **粵語配音**                                            |
+| [全國煥](../Page/全國煥.md "wikilink") | 陳盛鐘    | 陳瑞雨的祖父，國日集團新任理事長。因貪污遭拘留調查，後獲保釋。  | 全劇                               | [曹冀魯](../Page/曹冀魯.md "wikilink") | [黃志明](../Page/黃志明_\(香港\).md "wikilink")             |
+| [嚴孝燮](../Page/嚴孝燮.md "wikilink") | 陳明勳    | 陳瑞雨的爸爸，國日醫院院長。慧靜奶奶的主治醫生，慧靜的復仇對象。 | [李世揚](../Page/李世揚.md "wikilink") |                                  |                                                     |
+| [尹海英](../Page/尹海英.md "wikilink") | 尹智英    | 陳瑞雨的媽媽。勢利眼。看不起慧靜。                | 1-3、6、12、15 - 16、18-20           |                                  | [冼詠儀](https://zh.wikipedia.org/wiki/冼詠儀 "wikilink") |
 
 ### 國日醫院相關人物
 
@@ -236,7 +236,7 @@
 <td><p><strong>粵語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><em>' <a href="../Page/金玟錫.md" title="wikilink">金玟錫</a></em>'</p></td>
+<td><p><em>' <a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a></em>'</p></td>
 <td><p><strong>崔強洙</strong></p></td>
 <td><p>神經外科住院醫生一年生.網路漫畫家。名牌大學出身。聰明又誠實，對於弟弟來說是模範哥哥，基於醫生的使命感選擇了神經外科。非常崇拜慧靜。進修課程想趕快成為主治。在劇中罹患腦瘤，已痊癒。轉職為醫局秘書</p></td>
 <td><p>1、3-20</p></td>
@@ -249,7 +249,7 @@
 <td><p>神經外科住院醫生三年生。曾是瑞雨的朋友及戀愛顧問，現為交往對象。因多次留級仍是住院醫生而其他同期已是主治；卻絕不因此氣餒，是個性格樂觀、有著各種知識的人物。</p></td>
 <td><p>4-20</p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
-<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a></strong></p></td>
@@ -260,15 +260,15 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金康鉉.md" title="wikilink">金康鉉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金康鉉" title="wikilink">金康鉉</a></p></td>
 <td><p>姜慶俊</p></td>
 <td><p>神經外科住院總醫生四年生。個性追求完美對周遭人都很尖銳、孤僻又時常帶著偏見，讓他人感到非常疲憊。</p></td>
 <td><p>1、3-20</p></td>
 <td></td>
-<td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧燦陽" title="wikilink">鄧燦陽</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙賢植.md" title="wikilink">趙賢植</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙賢植" title="wikilink">趙賢植</a></p></td>
 <td><p>安忠大</p></td>
 <td><p>神經外科住院醫生二年生。是個吃貨。</p></td>
 <td><p>4-20</p></td>
@@ -300,7 +300,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/表藝珍.md" title="wikilink">表藝珍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/表藝珍" title="wikilink">表藝珍</a></p></td>
 <td><p>玄秀真</p></td>
 <td><p>神經外科護理師第五年。</p></td>
 <td><p>1、3、5-14、16-18、19-20</p></td>
@@ -351,7 +351,7 @@
 <td></td>
 <td><p>夜店DJ</p></td>
 <td></td>
-<td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧燦陽" title="wikilink">鄧燦陽</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -376,7 +376,7 @@
 <td><p>南陽女高教務主任</p></td>
 <td><p>1-2</p></td>
 <td></td>
-<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -395,7 +395,7 @@
 <td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/孫章宇.md" title="wikilink">孫章宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫章宇" title="wikilink">孫章宇</a></p></td>
 <td></td>
 <td><p>路邊暈倒的孕婦的兒子</p></td>
 <td></td>
@@ -427,7 +427,7 @@
 <td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林智妍.md" title="wikilink">林智妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a></p></td>
 <td><p>李秀晶</p></td>
 <td><p>患有手顫症的前國家射箭隊金牌選手，經過清醒開顱手術後恢復</p></td>
 <td><p>7-8</p></td>
@@ -456,7 +456,7 @@
 <td><p>南陽和南月的爸爸</p></td>
 <td><p>13-15</p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
-<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -464,14 +464,14 @@
 <td><p>患有腦瘤壓迫到神經而無法表達情緒，即使傷心也只能笑</p></td>
 <td><p>13-14</p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
-<td><p><a href="../Page/黃綺婷.md" title="wikilink">黃綺婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃綺婷" title="wikilink">黃綺婷</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/崔正厚.md" title="wikilink">崔正厚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔正厚" title="wikilink">崔正厚</a></p></td>
 <td><p>南月</p></td>
 <td><p>罹患神經母細胞腫瘤，走路會一拐一拐</p></td>
 <td></td>
-<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -491,7 +491,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/呂會鉉.md" title="wikilink">呂會鉉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/呂會鉉" title="wikilink">呂會鉉</a></p></td>
 <td><p>崔英洙</p></td>
 <td><p>當兵中， 崔強洙的弟弟</p></td>
 <td><p>17-18</p></td>
@@ -539,7 +539,7 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>TNmS 收視率[1]</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 收視率[2]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 收視率[2]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -684,7 +684,7 @@
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[Beautiful
     Mind](../Page/Beautiful_Mind.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》
 
 ## 提名&得獎列表
 
@@ -699,14 +699,14 @@
 </tr>
 <tr class="even">
 <td><p>2016 年</p></td>
-<td><p><a href="../Page/大田電視劇節#第五屆.md" title="wikilink">第五屆大田電視劇節</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大田電視劇節#第五屆" title="wikilink">第五屆大田電視劇節</a></p></td>
 <td><p>中篇男子最優秀賞</p></td>
-<td><p><a href="../Page/金來沅.md" title="wikilink">金來沅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>中篇女子最優秀賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -720,15 +720,15 @@
 </tr>
 <tr class="odd">
 <td><p>最佳情侶賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a> &amp; <a href="../Page/金來沅.md" title="wikilink">金來沅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a> &amp; <a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/韓國電視劇節#第九屆（2016年）.md" title="wikilink">第九屆韓國電視劇節</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國電視劇節#第九屆（2016年）" title="wikilink">第九屆韓國電視劇節</a></p></td>
 <td><p>演技大賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -748,35 +748,35 @@
 </tr>
 <tr class="odd">
 <td><p>女子最優秀賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第1屆<a href="../Page/Asia_Artist_Awards.md" title="wikilink">Asia Artist Awards</a></p></td>
+<td><p>第1屆<a href="https://zh.wikipedia.org/wiki/Asia_Artist_Awards" title="wikilink">Asia Artist Awards</a></p></td>
 <td><p>Best Artist</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金來沅.md" title="wikilink">金來沅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2016_SBS演技大賞.md" title="wikilink">SBS演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2016_SBS演技大賞" title="wikilink">SBS演技大賞</a></p></td>
 <td><p>幻想及體裁類電視劇 男子最優秀演技賞</p></td>
-<td><p><a href="../Page/金來沅.md" title="wikilink">金來沅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>幻想及體裁類電視劇 女子最優秀演技賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -811,27 +811,27 @@
 </tr>
 <tr class="even">
 <td><p>最佳情侶賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a> &amp; <a href="../Page/金來沅.md" title="wikilink">金來沅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a> &amp; <a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>十大明星賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>韓流明星賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金來沅.md" title="wikilink">金來沅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -839,7 +839,7 @@
 </tr>
 <tr class="even">
 <td><p>新星賞</p></td>
-<td><p><a href="../Page/金玟錫.md" title="wikilink">金玟錫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -853,27 +853,27 @@
 </tr>
 <tr class="even">
 <td><p>2017 年</p></td>
-<td><p><a href="../Page/第53屆百想藝術大賞.md" title="wikilink">第53屆百想藝術大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第53屆百想藝術大賞" title="wikilink">第53屆百想藝術大賞</a></p></td>
 <td><p>電視劇部門 女子最優秀演技賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>電視劇部門 男子新人演技賞</p></td>
-<td><p><a href="../Page/金玟錫.md" title="wikilink">金玟錫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>電視劇部門 女子人氣賞</p></td>
-<td><p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/首爾國際電視節.md" title="wikilink">首爾國際電視節</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾國際電視節" title="wikilink">首爾國際電視節</a></p></td>
 <td><p>韓流連續劇優秀作品獎</p></td>
 <td><p>Doctors</p></td>
 <td></td>
@@ -891,11 +891,11 @@
 
 ## 記事
 
-  - 此劇主角[朴信惠](../Page/朴信惠.md "wikilink")、[金來沅都是首次飾演醫生](../Page/金來沅.md "wikilink")，有別於以往的角色。
-  - 此劇主角[朴信惠與](../Page/朴信惠.md "wikilink")[白成鉉繼電視劇](../Page/白成鉉.md "wikilink")[天國的階梯後時隔](../Page/天國的階梯.md "wikilink")13年後再次合作。
-  - 此劇主角[朴信惠與](../Page/朴信惠.md "wikilink")[尹均相繼](../Page/尹均相.md "wikilink")《[皮諾丘](../Page/皮諾丘_\(電視劇\).md "wikilink")》後第二次合作。
-  - 此劇主角[朴信惠與](../Page/朴信惠.md "wikilink")[葛素媛繼電影](../Page/葛素媛.md "wikilink")[7號房的禮物後第二次飾演同一個角色的成年及童年](../Page/7號房的禮物.md "wikilink")。
-  - 此劇於6月20日開播後，與[MBC的](../Page/文化廣播_\(韓國\).md "wikilink")《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》及[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful
+  - 此劇主角[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[金來沅都是首次飾演醫生](https://zh.wikipedia.org/wiki/金來沅 "wikilink")，有別於以往的角色。
+  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[白成鉉繼電視劇](../Page/白成鉉.md "wikilink")[天國的階梯後時隔](../Page/天國的階梯.md "wikilink")13年後再次合作。
+  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[尹均相繼](https://zh.wikipedia.org/wiki/尹均相 "wikilink")《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")》後第二次合作。
+  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[葛素媛繼電影](https://zh.wikipedia.org/wiki/葛素媛 "wikilink")[7號房的禮物後第二次飾演同一個角色的成年及童年](../Page/7號房的禮物.md "wikilink")。
+  - 此劇於6月20日開播後，與[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》及[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful
     Mind](../Page/Beautiful_Mind.md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。
   - 此劇又與[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful
     Mind](../Page/Beautiful_Mind.md "wikilink")》內容皆以醫院醫療為題材共通點。

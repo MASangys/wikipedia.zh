@@ -1,4 +1,4 @@
-《**LOL**》為[Twins的](../Page/Twins.md "wikilink")[中文專輯](../Page/中文.md "wikilink")，於2015年11月26日在[香港發行](../Page/香港.md "wikilink")。
+《**LOL**》為[Twins的](https://zh.wikipedia.org/wiki/Twins "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2015年11月26日在[香港發行](../Page/香港.md "wikilink")。
 
 本唱片分了平裝版及限量版：平裝版共有不同造型封面，6首歌曲獨立EP推出；限量版則以Boxset形式發售，與[CHOCOOLATE](../Page/I.T.md "wikilink")
 X BABY MILO®合作，內送DVD、Tshirt、貼紙及明信片。
@@ -59,7 +59,7 @@ X BABY MILO®合作，內送DVD、Tshirt、貼紙及明信片。
 ## 曲目資料
 
   - 《LOL》為[Twins LOL Live in Hong
-    Kong主題曲](../Page/Twins_LOL_Live.md "wikilink")，及為2015年[國慶煙花主題音樂](../Page/香港慶祝中華人民共和國國慶煙花匯演.md "wikilink")。
+    Kong主題曲](https://zh.wikipedia.org/wiki/Twins_LOL_Live "wikilink")，及為2015年[國慶煙花主題音樂](../Page/香港慶祝中華人民共和國國慶煙花匯演.md "wikilink")。
   - 《TGIF》為2016年[賀歲煙花主題音樂](../Page/香港賀歲煙花匯演.md "wikilink")。
   - 《虛齡時代》為Twins x伍樂城‬x黃偉文睽違十一年的合作作品。
 
@@ -79,15 +79,15 @@ X BABY MILO®合作，內送DVD、Tshirt、貼紙及明信片。
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>LOL</p></td>
-<td><p><a href="../Page/比爾賈.md" title="wikilink">比爾賈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比爾賈" title="wikilink">比爾賈</a></p></td>
 <td><p>2015年7月15日</p></td>
-<td><p><a href="../Page/騰訊視頻.md" title="wikilink">騰訊視頻</a><br />
-<a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a><br />
+<a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>SNS</p></td>
-<td><p><a href="../Page/比爾賈.md" title="wikilink">比爾賈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比爾賈" title="wikilink">比爾賈</a></p></td>
 <td><p>2015年8月9日</p></td>
 <td><p>騰訊視頻<br />
 Youtube</p></td>
@@ -95,7 +95,7 @@ Youtube</p></td>
 <tr class="odd">
 <td><p>3.</p></td>
 <td><p>TGIF</p></td>
-<td><p><a href="../Page/陳映之.md" title="wikilink">陳映之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳映之" title="wikilink">陳映之</a></p></td>
 <td><p>2015年9月28日</p></td>
 <td><p>騰訊視頻<br />
 Youtube</p></td>
@@ -103,7 +103,7 @@ Youtube</p></td>
 <tr class="even">
 <td><p>4.</p></td>
 <td><p>虛齡時代</p></td>
-<td><p><a href="../Page/Lawrence_Kan.md" title="wikilink">Lawrence Kan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lawrence_Kan" title="wikilink">Lawrence Kan</a></p></td>
 <td><p>2015年12月27日</p></td>
 <td><p>騰訊視頻<br />
 Youtube</p></td>
@@ -111,7 +111,7 @@ Youtube</p></td>
 <tr class="odd">
 <td><p>5.</p></td>
 <td><p>emoji</p></td>
-<td><p><a href="../Page/Lawrence_Kan.md" title="wikilink">Lawrence Kan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lawrence_Kan" title="wikilink">Lawrence Kan</a></p></td>
 <td><p>2016年1月13日</p></td>
 <td><p>騰訊視頻<br />
 Youtube</p></td>

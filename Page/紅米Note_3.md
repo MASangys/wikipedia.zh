@@ -1,12 +1,12 @@
 **紅米Note
-3**是[小米科技於](../Page/小米科技.md "wikilink")2015年11月24日所推出的中階[智能手機](../Page/智能手機.md "wikilink")，為[紅米手機系列中的首款全金屬機身手機](../Page/紅米系列.md "wikilink")，共有兩種版本，全網通版本採用Qualcomm
+3**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年11月24日所推出的中階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，為[紅米手機系列中的首款全金屬機身手機](https://zh.wikipedia.org/wiki/紅米系列 "wikilink")，共有兩種版本，全網通版本採用Qualcomm
 [Snapdragon 650](../Page/高通驍龍元件列表.md "wikilink")
-64位元處理器，雙網通版本則採用[MediaTek](../Page/MediaTek.md "wikilink")
-[Helio](../Page/Helio_系列.md "wikilink")™ X10
+64位元處理器，雙網通版本則採用[MediaTek](https://zh.wikipedia.org/wiki/MediaTek "wikilink")
+[Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X10
 64位元處理器，搭載[Android](../Page/Android.md "wikilink")
-[6.0](../Page/Android歷史版本.md "wikilink")、5.5吋[Full
+[6.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.5吋[Full
 HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
-儲存空間，新增了指紋辨識。2016年6月16日推出台灣特製版，支援台灣[4G全頻段](../Page/4G.md "wikilink")。此機硬體上支持[VoLTE](../Page/VoLTE.md "wikilink")。
+儲存空間，新增了指紋辨識。2016年6月16日推出台灣特製版，支援台灣[4G全頻段](../Page/4G.md "wikilink")。此機硬體上支持[VoLTE](https://zh.wikipedia.org/wiki/VoLTE "wikilink")。
 
 ## 詳細規格
 
@@ -32,7 +32,7 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
-<td><p><a href="../Page/MIUI_7.md" title="wikilink">MIUI 7</a> （舊版本） <a href="../Page/MIUI.md" title="wikilink">MIUI 8</a>（舊版本）<a href="../Page/MIUI_9.md" title="wikilink">MIUI 9</a>（舊版本）<a href="../Page/MIUI_10.md" title="wikilink">MIUI 10</a>（最新版本）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MIUI_7" title="wikilink">MIUI 7</a> （舊版本） <a href="../Page/MIUI.md" title="wikilink">MIUI 8</a>（舊版本）<a href="https://zh.wikipedia.org/wiki/MIUI_9" title="wikilink">MIUI 9</a>（舊版本）<a href="https://zh.wikipedia.org/wiki/MIUI_10" title="wikilink">MIUI 10</a>（最新版本）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -67,17 +67,17 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 <tr class="even">
 <td><p>4G通訊協定</p></td>
 <td><p><a href="../Page/長期演進技術.md" title="wikilink">FDD-LTE</a>：Band 1 / 3 / 7<br />
-<a href="../Page/分時長期演進.md" title="wikilink">TDD-LTE</a>：Band 38 / 39 / 40 / 41</p></td>
+<a href="https://zh.wikipedia.org/wiki/分時長期演進" title="wikilink">TDD-LTE</a>：Band 38 / 39 / 40 / 41</p></td>
 <td><p><a href="../Page/長期演進技術.md" title="wikilink">FDD-LTE</a>：Band 1 / 3 / 4 / 5 / 7 / 8<br />
-<a href="../Page/分時長期演進.md" title="wikilink">TDD-LTE</a>：Band 38 / 39 / 40 / 41</p></td>
+<a href="https://zh.wikipedia.org/wiki/分時長期演進" title="wikilink">TDD-LTE</a>：Band 38 / 39 / 40 / 41</p></td>
 <td><p><a href="../Page/長期演進技術.md" title="wikilink">FDD-LTE</a>：Band 1 / 2 / 3 / 4 / 5 / 7 / 8 / 20 / 28<br />
-<a href="../Page/分時長期演進.md" title="wikilink">TDD-LTE</a>：Band 40</p></td>
+<a href="https://zh.wikipedia.org/wiki/分時長期演進" title="wikilink">TDD-LTE</a>：Band 40</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>螢幕</p></td>
-<td><p>IPS 顯示器、5.5 吋、1920×1080 <a href="../Page/Full_HD.md" title="wikilink">Full HD</a> <a href="../Page/解析度.md" title="wikilink">解析度</a>、401<a href="../Page/每英寸像素.md" title="wikilink">ppi</a><br />
+<td><p>IPS 顯示器、5.5 吋、1920×1080 <a href="../Page/Full_HD.md" title="wikilink">Full HD</a> <a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a>、401<a href="../Page/每英寸像素.md" title="wikilink">ppi</a><br />
 1000:1對比度、陽光屏基礎版、夜光屏、護眼模式、178°可視角</p></td>
 <td></td>
 <td></td>
@@ -86,9 +86,9 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 </tr>
 <tr class="even">
 <td><p>CPU</p></td>
-<td><p><a href="../Page/MediaTek.md" title="wikilink">MediaTek</a> <a href="../Page/Helio_系列.md" title="wikilink">Helio</a>™ X10 2.0Ghz</p></td>
-<td><p><a href="../Page/MediaTek.md" title="wikilink">MediaTek</a> <a href="../Page/Helio_系列.md" title="wikilink">Helio</a>™ X10 2.2Ghz</p></td>
-<td><p><a href="../Page/Qualcomm.md" title="wikilink">Qualcomm</a> <a href="../Page/Snapdragon.md" title="wikilink">Snapdragon 650</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MediaTek" title="wikilink">MediaTek</a> <a href="https://zh.wikipedia.org/wiki/Helio_系列" title="wikilink">Helio</a>™ X10 2.0Ghz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MediaTek" title="wikilink">MediaTek</a> <a href="https://zh.wikipedia.org/wiki/Helio_系列" title="wikilink">Helio</a>™ X10 2.2Ghz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="https://zh.wikipedia.org/wiki/Snapdragon" title="wikilink">Snapdragon 650</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -96,16 +96,16 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 <td><p>GPU</p></td>
 <td><p><a href="../Page/Imagination_Technologies.md" title="wikilink">Imagination</a> <a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> G6200 550Mhz</p></td>
 <td><p><a href="../Page/Imagination_Technologies.md" title="wikilink">Imagination</a> <a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> G6200 700Mhz</p></td>
-<td><p><a href="../Page/Qualcomm.md" title="wikilink">Qualcomm</a> <a href="../Page/Adreno.md" title="wikilink">Adreno</a> 510</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Adreno.md" title="wikilink">Adreno</a> 510</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>RAM</p></td>
-<td><p>2GB <a href="../Page/LPDDR.md" title="wikilink">LPDDR</a>3 933Mhz</p></td>
-<td><p>3GB <a href="../Page/LPDDR.md" title="wikilink">LPDDR</a>3 933Mhz</p></td>
-<td><p>2GB <a href="../Page/LPDDR.md" title="wikilink">LPDDR</a>3 933Mhz</p></td>
-<td><p>3GB <a href="../Page/LPDDR.md" title="wikilink">LPDDR</a>3 933Mhz</p></td>
+<td><p>2GB <a href="https://zh.wikipedia.org/wiki/LPDDR" title="wikilink">LPDDR</a>3 933Mhz</p></td>
+<td><p>3GB <a href="https://zh.wikipedia.org/wiki/LPDDR" title="wikilink">LPDDR</a>3 933Mhz</p></td>
+<td><p>2GB <a href="https://zh.wikipedia.org/wiki/LPDDR" title="wikilink">LPDDR</a>3 933Mhz</p></td>
+<td><p>3GB <a href="https://zh.wikipedia.org/wiki/LPDDR" title="wikilink">LPDDR</a>3 933Mhz</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -142,8 +142,8 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 </tr>
 <tr class="odd">
 <td><p>相機</p></td>
-<td><p>主相機：1300 萬像素 鏡頭、F/2.0光圈、五片式鏡頭、<a href="../Page/PDAF.md" title="wikilink">PDAF</a><a href="../Page/相位.md" title="wikilink">相位對焦</a>、0.1秒對焦、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="../Page/fps.md" title="wikilink">fps</a> <a href="../Page/HD.md" title="wikilink">HD</a>720p慢動作錄影<br />
-前相機：500 萬像素 鏡頭、F/2.4光圈、36級智慧美顏模式、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a> 使用第三方软件可实现<a href="../Page/UHD_4K.md" title="wikilink">UHD 4K录影</a></p></td>
+<td><p>主相機：1300 萬像素 鏡頭、F/2.0光圈、五片式鏡頭、<a href="https://zh.wikipedia.org/wiki/PDAF" title="wikilink">PDAF</a><a href="https://zh.wikipedia.org/wiki/相位" title="wikilink">相位對焦</a>、0.1秒對焦、雙色溫閃光燈、手動模式、水平儀、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a>、120<a href="https://zh.wikipedia.org/wiki/fps" title="wikilink">fps</a> <a href="https://zh.wikipedia.org/wiki/HD" title="wikilink">HD</a>720p慢動作錄影<br />
+前相機：500 萬像素 鏡頭、F/2.4光圈、36級智慧美顏模式、<a href="../Page/Full_HD.md" title="wikilink">1080p錄影</a> 使用第三方软件可实现<a href="https://zh.wikipedia.org/wiki/UHD_4K" title="wikilink">UHD 4K录影</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,7 +175,7 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 </tr>
 <tr class="odd">
 <td><p>衛星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/A-GPS.md" title="wikilink">A-GPS</a>、<a href="../Page/格洛納斯系統.md" title="wikilink">GLONASS</a>、<a href="../Page/北斗衛星導航系統.md" title="wikilink">北斗衛星導航系統</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a>、<a href="https://zh.wikipedia.org/wiki/格洛納斯系統" title="wikilink">GLONASS</a>、<a href="https://zh.wikipedia.org/wiki/北斗衛星導航系統" title="wikilink">北斗衛星導航系統</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,7 +183,7 @@ HD螢幕](../Page/Full_HD.md "wikilink")、2GB / 3GB記憶體、16GB / 32GB
 </tr>
 <tr class="even">
 <td><p>傳輸</p></td>
-<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/b/g/n/ac、<a href="../Page/Wi-Fi_Direct.md" title="wikilink">Wi-Fi Direct</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> Display、<a href="../Page/藍芽.md" title="wikilink">藍芽</a>4.1、<a href="../Page/藍芽規範.md" title="wikilink">藍芽HID</a>、4G雙卡雙待</p></td>
+<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/b/g/n/ac、<a href="https://zh.wikipedia.org/wiki/Wi-Fi_Direct" title="wikilink">Wi-Fi Direct</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> Display、<a href="https://zh.wikipedia.org/wiki/藍芽" title="wikilink">藍芽</a>4.1、<a href="https://zh.wikipedia.org/wiki/藍芽規範" title="wikilink">藍芽HID</a>、4G雙卡雙待</p></td>
 <td></td>
 <td></td>
 <td></td>

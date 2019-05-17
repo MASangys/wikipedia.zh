@@ -1,19 +1,19 @@
 **Samsung Galaxy Note 5**
-是[三星電子於](../Page/三星電子.md "wikilink")[美国东部时间](../Page/美国东部时间.md "wikilink")2015年8月13日，早上11时在[美国](../Page/美国.md "wikilink")[纽约市](../Page/纽约市.md "wikilink")[林肯中心](../Page/林肯中心.md "wikilink")[艾莉丝·塔利厅推出的搭載](../Page/艾莉丝·塔利厅.md "wikilink")[Android](../Page/Android.md "wikilink")
-5.1.1（Lolipop）作業系統的旗艦[智慧型大螢幕手機](../Page/智能手機.md "wikilink")，配有5.7吋1440×2560（515ppi）解析度的Quad-HD
+是[三星電子於](../Page/三星電子.md "wikilink")[美国东部时间](https://zh.wikipedia.org/wiki/美国东部时间 "wikilink")2015年8月13日，早上11时在[美国](../Page/美国.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[林肯中心](https://zh.wikipedia.org/wiki/林肯中心 "wikilink")[艾莉丝·塔利厅推出的搭載](https://zh.wikipedia.org/wiki/艾莉丝·塔利厅 "wikilink")[Android](../Page/Android.md "wikilink")
+5.1.1（Lolipop）作業系統的旗艦[智慧型大螢幕手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，配有5.7吋1440×2560（515ppi）解析度的Quad-HD
 [Super
-AMOLED螢幕](../Page/Super_AMOLED.md "wikilink")。這台智慧型手機搭載了[三星Exynos](../Page/三星Exynos.md "wikilink")
+AMOLED螢幕](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")。這台智慧型手機搭載了[三星Exynos](../Page/三星Exynos.md "wikilink")
 7420 SoC，由4個ARM Cortex-A57 核心(2.1Ghz)與4個ARM Cortex-A53
 核心(1.5Ghz)、Mali-T760MP8 GPU、4GB
-[LPDDR4](../Page/LPDDR4.md "wikilink")
-[RAM和](../Page/RAM.md "wikilink")32
-GB（或64GB）儲存空間組成。後鏡頭具有1600畫素OIS光學防手震功能，前置則是有廣角自拍和備有美顏模式。前方Home鍵上配有[指紋辨識](../Page/指紋辨識.md "wikilink")。S
+[LPDDR4](https://zh.wikipedia.org/wiki/LPDDR4 "wikilink")
+[RAM和](https://zh.wikipedia.org/wiki/RAM "wikilink")32
+GB（或64GB）儲存空間組成。後鏡頭具有1600畫素OIS光學防手震功能，前置則是有廣角自拍和備有美顏模式。前方Home鍵上配有[指紋辨識](https://zh.wikipedia.org/wiki/指紋辨識 "wikilink")。S
 Pen觸控筆也具有類似電腦滑鼠（PC Mouse-like）的多選功能，與Note 4相同。電池方面則由Galaxy Note 4
 的3220mAh，降至Note 5 的3000mAh，具有快充充電功能。\[1\]
 
 Galaxy Note 5 除了採用金属邊框以外，機身也是雙玻璃設計，跟上半年機種[Galaxy
 S6相近](../Page/三星Galaxy_S6.md "wikilink")，除了黑，白兩色，也推出金色及銀色。同期最大競爭對手是[iPhone
-6S plus](../Page/iPhone_6S.md "wikilink")、[HTC One
+6S plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[HTC One
 M9+](../Page/HTC_One_M9+.md "wikilink")、[Sony Xperia Z5
 Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")、和[华为Mate
 8](../Page/华为Mate_8.md "wikilink")。
@@ -48,12 +48,12 @@ Note 7 的新增的功能。\[3\]
 </tr>
 <tr class="odd">
 <td><p>显示屏</p></td>
-<td><p>5.7英寸 2560 x 1440(2K) Quad-HD <a href="../Page/Super_AMOLED.md" title="wikilink">Super AMOLED</a></p></td>
-<td><p>5.7英寸 2560 x 1440(2K) Quad-HD <a href="../Page/Super_AMOLED.md" title="wikilink">Super AMOLED</a></p></td>
+<td><p>5.7英寸 2560 x 1440(2K) Quad-HD <a href="https://zh.wikipedia.org/wiki/Super_AMOLED" title="wikilink">Super AMOLED</a></p></td>
+<td><p>5.7英寸 2560 x 1440(2K) Quad-HD <a href="https://zh.wikipedia.org/wiki/Super_AMOLED" title="wikilink">Super AMOLED</a></p></td>
 </tr>
 <tr class="even">
 <td><p>处理器</p></td>
-<td><p><a href="../Page/高通骁龙.md" title="wikilink">高通骁龙</a>805 2.7GHz四核处理器（SM-N9100）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/高通骁龙" title="wikilink">高通骁龙</a>805 2.7GHz四核处理器（SM-N9100）<br />
 <a href="../Page/三星Exynos.md" title="wikilink">三星Exynos</a> 5433/7410 1.3GHz+1.9GHz 双四核处理器（SM-N910U）</p></td>
 <td><p><a href="../Page/三星Exynos.md" title="wikilink">三星Exynos</a> 7420 1.5GHz+2.1GHz 八核处理器<br />
 </p></td>
@@ -122,7 +122,7 @@ Galaxy Note5被強制更新至Android
 對於不能通過記憶卡擴充內存的Galaxy Note5用戶來說，拍攝照片將會令內存更不敷應用。
 
 另外如同其他三星新手機(被強制更新至Android
-6.0後的舊型號三星手機亦然)，用户想要即席檢視剛拍攝的照片，當按下「照片預览」後，除了相機所拍而來的照片外，連螢幕擷取以至內存中任何一個資料夾(包括下載、從任何即時通訊軟件收到的圖檔，以及任何自定資料夾)，即手機內存所有圖像和影像檔案均會在「相機照片預览」按圖像建立時間而被一一羅列，但此「新功能」不能關掉。相對於舊設計以至其他品牌的安卓手機和[功能手機](../Page/功能手機.md "wikilink")，三星如此改動相機預览功能完全顛覆用戶既有使用習慣，反而為用戶造成不必要的不便和尴尬(如公事上使用手機拍照，檢閱時顯出私人照片和視頻)。
+6.0後的舊型號三星手機亦然)，用户想要即席檢視剛拍攝的照片，當按下「照片預览」後，除了相機所拍而來的照片外，連螢幕擷取以至內存中任何一個資料夾(包括下載、從任何即時通訊軟件收到的圖檔，以及任何自定資料夾)，即手機內存所有圖像和影像檔案均會在「相機照片預览」按圖像建立時間而被一一羅列，但此「新功能」不能關掉。相對於舊設計以至其他品牌的安卓手機和[功能手機](https://zh.wikipedia.org/wiki/功能手機 "wikilink")，三星如此改動相機預览功能完全顛覆用戶既有使用習慣，反而為用戶造成不必要的不便和尴尬(如公事上使用手機拍照，檢閱時顯出私人照片和視頻)。
 
 ## 参考資料
 

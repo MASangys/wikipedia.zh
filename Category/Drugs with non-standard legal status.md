@@ -28,4 +28,5 @@ This category should be empty.
   - For all countries and institutes listed here:  should have a valid
     code from the listed options only. All descriptive text should be
     added in . If this causes a problem, please report at
-    [this](../Page/Template_talk:Infobox_drug.md "wikilink") talkpage.
+    [this](https://zh.wikipedia.org/wiki/Template_talk:Infobox_drug "wikilink")
+    talkpage.

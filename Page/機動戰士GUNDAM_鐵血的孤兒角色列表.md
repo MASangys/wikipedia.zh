@@ -1,4 +1,5 @@
-**機動戰士GUNDAM 鐵血的孤兒角色列表**為[日本動畫](../Page/日本動畫.md "wikilink")《[機動戰士GUNDAM
+**機動戰士GUNDAM
+鐵血的孤兒角色列表**為[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[機動戰士GUNDAM
 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")》登場的角色。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 主要人物
@@ -130,7 +131,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[寺崎裕香](../Page/寺崎裕香.md "wikilink")；（港）[柚子蜜](../Page/柚子蜜_\(配音員\).md "wikilink")
+    聲：（日）[寺崎裕香](../Page/寺崎裕香.md "wikilink")；（港）[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     P.D.307年4月8日出生，16歲，是火星自治都市——「克里斯」的首相的女兒，參與火星獨立運動、關係到克里斯獨立的金色長卷髮少女，G罩杯。
     長相可愛，心地善良，性格單純，思想純潔；具有才能而且滿腹理想。缺點為缺乏自信，容易害羞。由於是文組生的出身，如「亞哈粒子可產生重力」等關於亞哈反應爐的相關知識卻不太清楚。
@@ -159,19 +160,19 @@
   -
     聲：（日）[河西健吾](../Page/河西健吾.md "wikilink")、[諏訪彩花](../Page/諏訪彩花.md "wikilink")（童年）；（港）[黃積權](../Page/黃積權.md "wikilink")、[袁淑珍](../Page/袁淑珍.md "wikilink")（童年）
     狀態：<font color = #8B0000>陣亡</font>。
-    參見**[主要人物](../Page/#主要人物.md "wikilink")**
+    參見**[主要人物](https://zh.wikipedia.org/wiki/#主要人物 "wikilink")**
 
 <!-- end list -->
 
   -
     聲：（日）[細谷佳正](../Page/細谷佳正.md "wikilink")、[東內麻里子](../Page/東內麻里子.md "wikilink")（童年）；（港）[李鎮然](../Page/李鎮然.md "wikilink")、[伍秀霞](../Page/伍秀霞.md "wikilink")（童年）
     狀態：<font color = #8B0000>遇害身亡</font>。
-    參見**[主要人物](../Page/#主要人物.md "wikilink")**
+    參見**[主要人物](https://zh.wikipedia.org/wiki/#主要人物 "wikilink")**
 
 <!-- end list -->
 
   -
-    聲：（日）[梅原裕一郎](../Page/梅原裕一郎.md "wikilink")；（港）[林筠翔](../Page/林筠翔.md "wikilink")
+    聲：（日）[梅原裕一郎](../Page/梅原裕一郎.md "wikilink")；（港）[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     隸屬CGS的其中一名少年，後成為鐵華團副團長。在澳加入隊之前一直是少年們的領導者。體能優秀，頭腦也好，問題是思慮不周，因此缺乏號召力。
     對於眾人對澳加的仰慕是心有不甘，起初常與澳加發生衝突。在澳加之下也一直尋找着能出人頭地的機會，為此即使是近乎自殺式的任務也敢於挑戰。
@@ -216,7 +217,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[内匠靖明](../Page/内匠靖明.md "wikilink")、[村中知](../Page/村中知.md "wikilink")（童年）；（港）[周倚天](../Page/周倚天.md "wikilink")、[陸惠玲](../Page/陸惠玲.md "wikilink")（童年）
+    聲：（日）[内匠靖明](https://zh.wikipedia.org/wiki/内匠靖明 "wikilink")、[村中知](../Page/村中知.md "wikilink")（童年）；（港）[周倚天](../Page/周倚天.md "wikilink")、[陸惠玲](../Page/陸惠玲.md "wikilink")（童年）
     狀態：<font color = #8B0000>陣亡</font>。
     和三日月等人不同，昭弘是被賣到CGS的少年——即人們口中的「低等階級」，是低等階級少年們的領袖。
     本為商人之子，幼年時家人的太空船遭受宇宙海盜襲擊，包括雙親在內的所有成年人均被殺。而他和弟弟——昌弘被擄走，自此變成低等階級的一份子，最後兩人分別被賣到不同地方而天各一方。
@@ -239,7 +240,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[花江夏樹](../Page/花江夏樹.md "wikilink")；（港）[張裕東](../Page/張裕東.md "wikilink")
+    聲：（日）[花江夏樹](../Page/花江夏樹.md "wikilink")；（港）[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     作為參謀角色去協助澳加的少年。頭腦清晰，性格穩重，體型較胖，興趣是讀書。
     多特2殖民衛星貧民區出身，在雙親意外身故後他與雙胞胎妹妹（克琪和克菈卡）均到了火星並由祖母照顧。為了賺取祖母和兩個年幼妹妹的生活費，自願加入CGS。
@@ -320,7 +321,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[齊藤壯馬](../Page/齊藤壯馬.md "wikilink")；（港）[伍秀霞](../Page/伍秀霞.md "wikilink")
+    聲：（日）[齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink")；（港）[伍秀霞](../Page/伍秀霞.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     擅長機械整修的無口少年，同性戀者，腦筋不錯。
     偶爾會被同伴意外地感動。喜歡西諾，於劇情中多次不經意地描繪。
@@ -332,7 +333,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[熊谷健太郎](../Page/熊谷健太郎.md "wikilink")；（港）[李震權](../Page/李震權.md "wikilink")
+    聲：（日）[熊谷健太郎](https://zh.wikipedia.org/wiki/熊谷健太郎 "wikilink")；（港）[李震權](../Page/李震權.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     與昌弘一起為柏瓦茲勞役的廢棄人少年兵，在戰鬥結束後，與迪魯馬和其他生還的柏瓦茲少年兵一起成為鐵華團的一員。
     鐵華團成名後兩年，和塔卡基一起配屬到地球支部。因為昭弘的意願讓所有原隸屬柏瓦茲的廢棄人們（包括他在內）都冠上他的姓氏。其機動戰士操縱技術，在地球支部是數一數二的。
@@ -361,7 +362,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[芳野由奈](../Page/芳野由奈.md "wikilink")；（港）[葉曉欣](../Page/葉曉欣.md "wikilink")
+    聲：（日）[芳野由奈](https://zh.wikipedia.org/wiki/芳野由奈 "wikilink")；（港）[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     留著金色短髮的男孩，原隸屬CGS，於第1集登場，後成為鐵華團團員，年紀在團中而言也算非常年輕。
     於第13集起與其他孩子跟隨庫德莉雅教授閱讀和寫字。
@@ -374,7 +375,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[石上靜香](../Page/石上靜香.md "wikilink")；（港）[李潤知](../Page/李潤知.md "wikilink")
+    聲：（日）[石上靜香](../Page/石上靜香.md "wikilink")；（港）[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     帶著紅色織帽的男孩，原隸屬CGS，於第1集登場，後成為鐵華團團員，年紀在團中而言也算非常年輕。
     於第13集起與其他孩子跟隨庫德莉雅教授閱讀和寫字。
@@ -411,7 +412,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[熊谷健太郎](../Page/熊谷健太郎.md "wikilink")
+    聲：（日）[熊谷健太郎](https://zh.wikipedia.org/wiki/熊谷健太郎 "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     原隸屬CGS的金髮綠眼少年，後成為鐵華團團員，與同伴關係不錯，為人冷靜且對鐵華團有著絕對忠誠，深得眾人信任，而且不少團員，包括澳加，都對他的死露出哀傷之情。作戰時有打側射擊的習慣。
     於第7集首次登場，與澳加、西諾、但丁和格特一起突襲鎚頭鯊號，潛入艦橋威脅名瀨·他賓，表現傑出。
@@ -423,7 +424,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[手塚弘道](../Page/手塚弘道.md "wikilink")
+    聲：（日）[手塚弘道](https://zh.wikipedia.org/wiki/手塚弘道 "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     原隸屬CGS的黑髮少年，後成為鐵華團團員，性格衝動魯莽，經常抱怨，作戰方式瘋狂。
     於第7集首次登場，與澳加、西諾、但丁和迪奥斯一起突襲鎚頭鯊號，潛入艦橋威脅名瀨·他賓，表現傑出。
@@ -435,7 +436,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[山下大輝](../Page/山下大輝.md "wikilink")；（港）[袁淑珍](../Page/袁淑珍.md "wikilink")
+    聲：（日）[山下大輝](https://zh.wikipedia.org/wiki/山下大輝 "wikilink")；（港）[袁淑珍](../Page/袁淑珍.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     CGS少年隊成員，達加奇的好友。
     生前曾說過自己願望是「要死那時就是要悶死在巨乳裏」，也顯示出少年兵的潛在隱憂。
@@ -499,7 +500,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[本橋大輔](../Page/本橋大輔.md "wikilink")
+    聲：（日）[本橋大輔](https://zh.wikipedia.org/wiki/本橋大輔 "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     帶著藍色頭巾的鐵華團地球支部的團員，達加奇的好友。地球支部的小頭目，估計是鐵華團成名前的舊部，有豐富的戰鬥經驗，戰鬥時會指揮其他團員。
     第31集在艾布勞與SAU一戰中，為了阻止在達加奇下了撤退命令仍繼續進攻的正規軍人而上前攔截，不幸被流彈擊中。
@@ -516,7 +517,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[斧篤志](../Page/斧篤志.md "wikilink")；（港）[陳永信](../Page/陳永信.md "wikilink")
+    聲：（日）[斧篤志](https://zh.wikipedia.org/wiki/斧篤志 "wikilink")；（港）[陳永信](../Page/陳永信.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     CGS的维修員，本來是專門做機動工兵的维修，是原CGS中唯一對澳加和三日月等小孩親切的大人，所以非常受孩子們信任與尊敬，不過老拿三日月沒轍。
     許多少年兵、包括三日月都稱他為「老爺／大叔」。
@@ -532,7 +533,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[江越彬紀](../Page/江越彬紀.md "wikilink")；（港）[陳耀楠](../Page/陳耀楠.md "wikilink")
+    聲：（日）[江越彬紀](https://zh.wikipedia.org/wiki/江越彬紀 "wikilink")；（港）[陳耀楠](../Page/陳耀楠.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     原CGS主力隊成員，是繼雪之丞後CGS裡另一位對小孩露出善意的大人。
     在三號隊叛亂後雖然想退出CGS，但因為CGS的會計一直都由他負責，歐格與比司吉遂強求他留下來，繼續擔任鐵華團的會計。
@@ -542,7 +543,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[田中理恵](../Page/田中理恵.md "wikilink")；（港）[曾秀清](../Page/曾秀清.md "wikilink")
+    聲：（日）[田中理恵](https://zh.wikipedia.org/wiki/田中理恵 "wikilink")；（港）[曾秀清](../Page/曾秀清.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     在-{zh-hk:歲星號;zh-tw:歲星;zh-cn:岁星;}-的酒吧消費的女顧客，赠送手绢给醉酒呕吐的歐格。
     原先在迪瓦茲的銀行部門工作，後來被安排作為鐵華團的財務顧問及線人隨他們上船，之後因為職務關係经常與身為團長的歐格接觸。
@@ -558,7 +559,7 @@
 <!-- end list -->
 
   - （第二季）
-    聲：（日）[深川和征](../Page/深川和征.md "wikilink")；（港）[鄧志堅](../Page/鄧志堅.md "wikilink")
+    聲：（日）[深川和征](https://zh.wikipedia.org/wiki/深川和征 "wikilink")；（港）[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")
     狀態：<font color = #8B0000>被處決</font>。
     於第二季登場，是迪瓦茲派來的鐵華團地球支部審計員兼監察員，平時擔任會計和業務的工作。
     對於鐵華團那種缺乏合理性和理論性的思考方式感到焦躁，屢次產生衝突。
@@ -588,7 +589,7 @@
 <!-- end list -->
 
   -
-    聲：（日）；（港）[馮錦堂](../Page/馮錦堂.md "wikilink")
+    聲：（日）；（港）[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")
     狀態：<font color = #8B0000>被處決</font>。
     主力隊的領導，地位僅次於馬爾邦。視三號隊為棄子，並時常以高壓和暴力手段来壓迫和命令他們。
     在三號隊叛亂時，是第一個被三日月槍殺的人。遺言是：｢等一下，你要幹什…｣。
@@ -621,9 +622,9 @@
   -
     聲：（日）[金元壽子](../Page/金元壽子.md "wikilink")；（港）[凌晞](../Page/凌晞.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
-    在[火星](../Page/火星.md "wikilink")[自治都市克里斯一間](../Page/自治都市.md "wikilink")[雜貨店](../Page/雜貨店.md "wikilink")「Haba's
+    在[火星](../Page/火星.md "wikilink")[自治都市克里斯一間](https://zh.wikipedia.org/wiki/自治都市 "wikilink")[雜貨店](../Page/雜貨店.md "wikilink")「Haba's
     Store」（夏芭-{zh-cn:小店; zh-tw:小店;
-    zh-hk:士多}-）工作的米色妹妹頭的少女，常運送[食材到CGS](../Page/食材.md "wikilink")。
+    zh-hk:士多}-）工作的米色妹妹頭的少女，常運送[食材到CGS](https://zh.wikipedia.org/wiki/食材 "wikilink")。
     性格天真淳樸，對一眾少年很親切，表現出超出年龄的成熟，但實際上喜欢胡思乱想。
     自小便失去雙親，10歲以前都是在紅燈區夜店裡當打雜，因無法忍受經常被打罵的艱苦日子而逃跑。後來巧遇三日月並在對方幫助下得到管店的夏芭收留並自此在雜貨店打工，因有接受夏芭的教導故懂看和寫字。
     因不想放棄三日月而向雜貨店辭職，並自願進入鐵華團擔任主廚。然而因為負責的職任關係始終不能像庫德莉雅般經常與三日月走在一起，開始感覺到有一種距離感。有些羡慕庫德莉雅，但还是将她視為同三日月戀愛的道路上的「戰友」。
@@ -636,7 +637,7 @@
         第19集前往地球，看到三日月有驚無險地抵達後激動地落淚。
         第20集和拉芙特、雅芝和艾歌一起在煮魚，但因看到三日月不敢吃而大怒。之後自己嚐了那條魚的味道觉得驚人地好吃。
         第22集見到比司吉遺體傷心地跑開，想到格里芬雙胞胎姐妹拜託她照顧比司吉的事而非常愧疚。
-        第24集主動請纓駕駛汽車，載著庫德莉雅和蒔苗前往會場，但汽車被艾因所阻攔而翻倒，因[安全帶而保著一命](../Page/安全帶.md "wikilink")。之後艾因企圖將庫德莉雅斬殺之時保護庫德莉雅，也得及時趕來的三日月救下。
+        第24集主動請纓駕駛汽車，載著庫德莉雅和蒔苗前往會場，但汽車被艾因所阻攔而翻倒，因[安全帶而保著一命](https://zh.wikipedia.org/wiki/安全帶 "wikilink")。之後艾因企圖將庫德莉雅斬殺之時保護庫德莉雅，也得及時趕來的三日月救下。
         第25集改乘MW，並趕及出席中樞議會之後，見證庫德莉雅發表的演說。
     第二季的動向：
       -
@@ -663,7 +664,7 @@
       -
         第14集受著諾比利斯的命令行動和提供鐵華團的情報，並被告知要讓庫德莉雅帶著煽動動亂的污名死在多特殖民衛星上。但由於與庫德莉雅相處甚久並收到其真情表白，真的開始行動時反而因心中的迷茫所遲疑，而錯失了機會。
         第15集因面具男揭穿其身份而離開庫德莉雅。
-        第16集庫德莉雅捲入多特殖民星暴動事件的最後，為庫德莉雅擋[狙擊步槍槍擊而背後中彈身亡](../Page/狙擊步槍.md "wikilink")。從回憶中得知看到小時候的庫德莉雅拿出來的《History
+        第16集庫德莉雅捲入多特殖民星暴動事件的最後，為庫德莉雅擋[狙擊步槍槍擊而背後中彈身亡](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。從回憶中得知看到小時候的庫德莉雅拿出來的《History
         of Revolution》一書中的革命少女時流淚。遺言亦是：｢宛如……那本書的……少女一般……｣。
 
 <!-- end list -->
@@ -682,7 +683,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[千本木彩花](../Page/千本木彩花.md "wikilink")；（港）[羅孔柔](../Page/羅孔柔.md "wikilink")
+    聲：（日）[千本木彩花](../Page/千本木彩花.md "wikilink")；（港）[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     比司吉的兩位雙胞胎妹妹，CGS時期經常探望比司吉。天真爛漫又文靜，非常好學。
     鐵華團成名後兩年，生活環境逐漸好轉，並且終於實現比司吉的悲願，與克琪開始就讀於受到鐵華團支援的寄宿學校，在學校休假的期間會回到外祖母的農場幫忙農事。
@@ -694,7 +695,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[鈴木黎子](../Page/鈴木黎子.md "wikilink")；（港）[林丹鳳](../Page/林丹鳳.md "wikilink")
+    聲：（日）[鈴木黎子](../Page/鈴木黎子.md "wikilink")；（港）[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     格里芬三兄妹的外祖母。為人略顯古怪，但實際是很講道理，是目前為數不多能讓三日月言聽計從的人之一。
     經營農場，主要是用來種植[生物燃料用途的](../Page/生物燃料.md "wikilink")[玉米](../Page/玉米.md "wikilink")。
@@ -711,7 +712,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[山崎遙](../Page/山崎遙.md "wikilink")；（港）[曾秀清](../Page/曾秀清.md "wikilink")
+    聲：（日）[山崎遙](https://zh.wikipedia.org/wiki/山崎遙 "wikilink")；（港）[曾秀清](../Page/曾秀清.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     7歲，塔卡基的妹妹，初時寄養在托兒所。
     鐵華團成名後兩年，和哥哥住在租借的公寓中。經常招待到家裡作客的阿斯頓。
@@ -735,7 +736,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[東内麻里子](../Page/東内麻里子.md "wikilink")
+    聲：（日）[東内麻里子](https://zh.wikipedia.org/wiki/東内麻里子 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     經營一間名為「Haba's Store」的雜貨店的女子。收留小時候的亞多娜。
 
@@ -746,12 +747,13 @@
     狀態: <font color = #32CD32>存活</font>。
     P.D.325年出生，為三日月和雅朵拉兩人之間的孩子，臉形、雙眼和雙手酷似三日月，而發色則承繼雅朵拉的粉色。
     左手戴有象徵三人的手繩，更如此地承繼了三個人的姓氏。
-    事實上他的設定是堅督[長井龍雪自身在尋求救贖的過程中制造出來的](../Page/長井龍雪.md "wikilink") 。
+    事實上他的設定是堅督[長井龍雪自身在尋求救贖的過程中制造出來的](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")
+    。
 
 ### 亞多莫斯商會
 
   -
-    聲：（日）[齊藤貴美子](../Page/齊藤貴美子.md "wikilink")；（港）[雷碧娜](../Page/雷碧娜.md "wikilink")
+    聲：（日）[齊藤貴美子](https://zh.wikipedia.org/wiki/齊藤貴美子 "wikilink")；（港）[雷碧娜](../Page/雷碧娜.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     於第二季登場，亞多莫斯商會所仰賴的秘書兼事務員。
     尊敬庫德莉雅，支持著這個令人操心的社長。
@@ -825,7 +827,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[大川透](../Page/大川透.md "wikilink")；（港）[陳欣](../Page/陳欣.md "wikilink")
+    聲：（日）[大川透](../Page/大川透.md "wikilink")；（港）[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     於第二季登場，統率末日號角的「七星勢力」之一的艾里昂家族的月球外軌道聯合艦隊——「阿麗安蘿德艦隊」的司令。
     因為豪爽的性格非常受到部下的支持，在末日號角內擁有相當穩固的勢力。注視著在組織內暗中活躍的麥吉利斯，並牽制他。
@@ -854,7 +856,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[島﨑信長](../Page/島﨑信長.md "wikilink")；（港）[李致林](../Page/李致林.md "wikilink")
+    聲：（日）[島﨑信長](https://zh.wikipedia.org/wiki/島﨑信長 "wikilink")；（港）[李致林](../Page/李致林.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     於第二季登場，統率末日號角的「七星勢力」之一的庫贊家族的後裔兼當主。
     忠於全力迎擊敵人的家訓，十分熱衷於在前線戰鬥。然而卻因此經常給自己的作為過高評價還自我感覺良好，讓身邊人經常要為他勞心勞力。
@@ -882,7 +884,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[星野充昭](../Page/星野充昭.md "wikilink")；（港）[張炳強](../Page/張炳強.md "wikilink")
+    聲：（日）[星野充昭](https://zh.wikipedia.org/wiki/星野充昭 "wikilink")；（港）[張炳強](../Page/張炳強.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     鮑德溫家族現今當主，也是蓋里奧和艾美莉亞的父親。
 
@@ -915,7 +917,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[佐々健太](../Page/佐々健太.md "wikilink")；（港）[譚炳文](../Page/譚炳文.md "wikilink")
+    聲：（日）[佐々健太](https://zh.wikipedia.org/wiki/佐々健太 "wikilink")；（港）[譚炳文](../Page/譚炳文.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     於第二季登場，統率末日號角的「七星勢力」之一的白古蘭沙恩家族的當主。
       -
@@ -936,21 +938,21 @@
 #### 阿麗安蘿德艦隊
 
   -
-    聲：（日）[大川透](../Page/大川透.md "wikilink")；（港）[陳欣](../Page/陳欣.md "wikilink")
+    聲：（日）[大川透](../Page/大川透.md "wikilink")；（港）[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
-    參見**[七星勢力](../Page/#七星勢力.md "wikilink")**
+    參見**[七星勢力](https://zh.wikipedia.org/wiki/#七星勢力 "wikilink")**
 
 <!-- end list -->
 
   -
-    聲：（日）[島﨑信長](../Page/島﨑信長.md "wikilink")；（港）[李致林](../Page/李致林.md "wikilink")
+    聲：（日）[島﨑信長](https://zh.wikipedia.org/wiki/島﨑信長 "wikilink")；（港）[李致林](../Page/李致林.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
-    參見**[七星勢力](../Page/#七星勢力.md "wikilink")**
+    參見**[七星勢力](https://zh.wikipedia.org/wiki/#七星勢力 "wikilink")**
 
 <!-- end list -->
 
   -
-    聲：（日）[M·A·O](../Page/M·A·O.md "wikilink")；（港）[張頌欣](../Page/張頌欣.md "wikilink")
+    聲：（日）[M·A·O](https://zh.wikipedia.org/wiki/M·A·O "wikilink")；（港）[張頌欣](../Page/張頌欣.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     於第二季登場，隸屬阿麗安蘿德艦隊的MS駕駛員。父母雙亡，無家世無階級，也不是末日號角其中一個貴族族員。
     初登場時奇怪地隨手捉了一隻蝴蝶來吃，故被部分觀眾稱為「蝴蝶姊姊」，但她其實是個為人正直、也有成長和煩惱的人。
@@ -991,7 +993,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[山本格](../Page/山本格.md "wikilink")
+    聲：（日）[山本格](https://zh.wikipedia.org/wiki/山本格 "wikilink")
     狀態：<font color = #8B0000>估計死亡</font>。
     萊斯達爾派的軍人之一，留著金黃色鬍子的老人，末日號角阿麗安蘿艦隊司令官，管轄一支精英艦隊，深受萊斯達爾信任。
     於第17集首次登場，奉命率軍前往多特殖民星壓制鐵華團，但礙於庫德莉亞的演說而要中斷行動，讓鐵華團通過。
@@ -1021,7 +1023,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[相馬康一](../Page/相馬康一.md "wikilink")；（港）[陳廷軒](../Page/陳廷軒.md "wikilink")
+    聲：（日）[相馬康一](https://zh.wikipedia.org/wiki/相馬康一 "wikilink")；（港）[陳廷軒](../Page/陳廷軒.md "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     原是萊斯達爾派的軍人之一，在哥拉爾戰死後，擔任代理火星支部部長。
     在破曉地平線團被瓦解後，經麥吉利斯引薦，正式接任火星支部部長。
@@ -1030,7 +1032,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[内田雄馬](../Page/内田雄馬.md "wikilink")；（港）[曹啟謙](../Page/曹啟謙.md "wikilink")
+    聲：（日）[内田雄馬](https://zh.wikipedia.org/wiki/内田雄馬 "wikilink")；（港）[曹啟謙](../Page/曹啟謙.md "wikilink")
     狀態：<font color = #8B0000>陣亡；大腦亦被完全燒壞</font>。
     隸屬於火星支部的年輕軍官，階級是少尉，經驗尚淺。
     父親是地球人而母親則是火星人。雖然靠著父親的關係進入末日號角，但如此出身讓他在純血至上主義的組織裡飽受白眼。
@@ -1053,13 +1055,13 @@
         第43集從「殘命」（蓋里歐·鮑德溫）的殘命鋼彈的駕駛艙裡顯示出，其已被燒了個大半的大腦被分析成新系統的數據，然後制造成殘命的輔助系統——「阿賴耶識系統E型」，並且和蓋里歐共用，「E」一字也是「Ein」的簡略字。
         第49集在與麥吉利斯的-{zh-hk:巴耶力;zh-tw:主魔;zh-cn:巴耶力;}-一戰中，其大腦已完全被燒壞。
     名字來自[德语當中的](../Page/德语.md "wikilink")「一」（Ein）。
-    原設定上只是個劇情初期[砲灰小兵](../Page/砲灰.md "wikilink")，但因聲優内田雄馬表現非常突出關係，而使得高層願意為這角色增加戏份。
+    原設定上只是個劇情初期[砲灰小兵](https://zh.wikipedia.org/wiki/砲灰 "wikilink")，但因聲優内田雄馬表現非常突出關係，而使得高層願意為這角色增加戏份。
     所駕駛的機體：格雷茲 → 燕式格雷茲（紫色機） → 格雷茲·艾因
 
 <!-- end list -->
 
   - （第一季）
-    聲：（日）[間宮康弘](../Page/間宮康弘.md "wikilink")；（港）[朱子聰](../Page/朱子聰.md "wikilink")
+    聲：（日）[間宮康弘](https://zh.wikipedia.org/wiki/間宮康弘 "wikilink")；（港）[朱子聰](../Page/朱子聰.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     隸屬於火星支部的資深軍官，階級是中尉。
     為性格直率老練又具有充分榮譽感和氣節的老軍人，深受部下的愛戴，右唇上留有白色的傷痕。
@@ -1071,7 +1073,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[木島隆一](../Page/木島隆一.md "wikilink")；（港）[關令翹](../Page/關令翹.md "wikilink")
+    聲：（日）[木島隆一](https://zh.wikipedia.org/wiki/木島隆一 "wikilink")；（港）[關令翹](../Page/關令翹.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     隸屬於火星支部的少尉。歌歷士的弟弟，過去曾為奎克的弟子。為主導襲擊CGS基地和其部隊的部隊指揮官。
     於第1集在襲擊CGS時刻意按兵不動放己軍的MW部隊去死，之後才施施然地開著格雷茲殺入前線，還以為值得感到愉悅。後企圖攻擊歐格的機動工兵時，被從地面破土而出的獵魔鋼彈擊破，當場戰死。
@@ -1082,19 +1084,19 @@
   -
     聲：（日）[井上喜久子](../Page/井上喜久子.md "wikilink")；（港）[劉惠雲](../Page/劉惠雲.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
-    參見**[七星勢力](../Page/#七星勢力.md "wikilink")**
+    參見**[七星勢力](https://zh.wikipedia.org/wiki/#七星勢力 "wikilink")**
 
 <!-- end list -->
 
   -
     聲：（日）[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")、[藤原夏海](../Page/藤原夏海.md "wikilink")（童年）；（港）[梁偉德](../Page/梁偉德.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
-    參見**[七星勢力](../Page/#七星勢力.md "wikilink")**
+    參見**[七星勢力](https://zh.wikipedia.org/wiki/#七星勢力 "wikilink")**
 
 <!-- end list -->
 
   - （第二季）
-    聲：（日）[前野智昭](../Page/前野智昭.md "wikilink")；（港）[黃啟昌](../Page/黃啟昌.md "wikilink")
+    聲：（日）[前野智昭](../Page/前野智昭.md "wikilink")；（港）[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     末日號角軍人，麥吉利斯所登用的部下兼副官，於第35集登場。平時沉默寡言。透過獨自的網路管道，讓他精通圈外圈的事情。
     從隸屬於監察局的時期就和麥吉利斯認識、並支持著麥吉利斯的末日號角改革思想。
@@ -1105,7 +1107,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[高梨譧吾](../Page/高梨譧吾.md "wikilink")
+    聲：（日）[高梨譧吾](https://zh.wikipedia.org/wiki/高梨譧吾 "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     末日號角的年輕軍人，於第二季登場，為麥吉利斯的部下，同時也是青年將校之領袖之一。
     對末日號角的現狀感到憂心、而在麥吉利斯的號召下挺身而出。
@@ -1181,7 +1183,7 @@
 <!-- end list -->
 
   - （第二季）
-    聲：（日）[竹内良太](../Page/竹内良太.md "wikilink")；（港）[雷霆](../Page/雷霆.md "wikilink")
+    聲：（日）[竹内良太](https://zh.wikipedia.org/wiki/竹内良太 "wikilink")；（港）[雷霆](../Page/雷霆.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     於第二季登場，迪瓦茲的專務董事，同時也是為附屬企業——「JPT信託會」的代表，相當於本組織的NO.2。
     對在短時間內一躍而上的鐵華團和與他有著兄弟輩分的名瀨·塔濱存有敵意。私下與庫贊家有聯繫，並藉以對付名瀨這顆眼中釘。
@@ -1303,7 +1305,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[久保百合花](../Page/久保百合花.md "wikilink")；（港）[葉曉欣](../Page/葉曉欣.md "wikilink")
+    聲：（日）[久保百合花](../Page/久保百合花.md "wikilink")；（港）[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     塔賓斯的女性管理支援人員，資深的MS工程師。因為鐵華團維修組對MS機體認識始終有限，於是留下來負責協助團內的MS機體整修事務，也會幫忙聯絡-{zh-hk:歲星號;zh-tw:歲星;zh-cn:岁星;}-尋求更多協助。
     所駕駛的機體：CGS機動工兵(整備型)
@@ -1324,7 +1326,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[芳野由奈](../Page/芳野由奈.md "wikilink")；（港）[李潤知](../Page/李潤知.md "wikilink")
+    聲：（日）[芳野由奈](https://zh.wikipedia.org/wiki/芳野由奈 "wikilink")；（港）[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     塔賓斯的女性管理支援人員，束馬尾的黑髮棕皮膚女性，「錘頭鯊」的操舵手。
       -
@@ -1335,7 +1337,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[石上靜香](../Page/石上靜香.md "wikilink")；（港）[廖杏茵](../Page/廖杏茵.md "wikilink")
+    聲：（日）[石上靜香](../Page/石上靜香.md "wikilink")；（港）[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")
     狀態: <font color = #32CD32>存活</font>。
     塔賓斯的女性管理支援人員，金色短髮女性，「錘頭鯊」的航行士。
       -
@@ -1360,7 +1362,7 @@
 ### 柏瓦茲（第一季）
 
   -
-    聲：（日）[武虎](../Page/武虎.md "wikilink")；（港）[蕭徽勇](../Page/蕭徽勇.md "wikilink")
+    聲：（日）[武虎](https://zh.wikipedia.org/wiki/武虎 "wikilink")；（港）[蕭徽勇](../Page/蕭徽勇.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     柏瓦茲首領，受與麥吉利斯有接點的人的委托，為了擄走庫德莉雅而襲擊鐵華團。
       -
@@ -1382,7 +1384,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[山下誠一郎](../Page/山下誠一郎.md "wikilink")、[Lynn](../Page/Lynn.md "wikilink")（童年）；（港）[李安邦](../Page/李安邦.md "wikilink")
+    聲：（日）[山下誠一郎](../Page/山下誠一郎.md "wikilink")、[Lynn](https://zh.wikipedia.org/wiki/Lynn "wikilink")（童年）；（港）[李安邦](../Page/李安邦.md "wikilink")
     狀態：<font color = #8B0000>陣亡</font>。
     與昭弘失散的弟弟，被作为廢棄人賣給了柏瓦茲，担任曼·羅迪的駕駛員。在柏瓦茲的所有廢棄人中，他是最受信賴的人。
     所駕駛的機體：曼·羅迪
@@ -1458,7 +1460,7 @@
 <!-- end list -->
 
   -
-    聲：（日）[相馬康一](../Page/相馬康一.md "wikilink")
+    聲：（日）[相馬康一](https://zh.wikipedia.org/wiki/相馬康一 "wikilink")
     狀態: <font color = #32CD32>存活</font>。。
     多特2裡的一名新聞節目製作組的攝影師，於第17集獲被庫德莉雅邀請到漁火上，其後協助她直播其演說。
 
@@ -1484,7 +1486,7 @@
 ### 艾布勞
 
   -
-    聲：（日）[麦人](../Page/麦人.md "wikilink")；（港）[黃子敬](../Page/黃子敬.md "wikilink")
+    聲：（日）[麦人](https://zh.wikipedia.org/wiki/麦人 "wikilink")；（港）[黃子敬](../Page/黃子敬.md "wikilink")
     狀態：<font color = #8B0000>去世</font>。
     P.D.137年出生，與古荻利亞進行火星混合金屬資源的限制解除會談的前艾布勞代表。
     在庫德莉雅還身處於火星時，經由隔空會談交涉而得到面談機會。然而因為被牽涉入賄賂事件，而從代表的位子上退了下來。之後在大洋洲聯邦的其中一座管轄島嶼內避風頭。
@@ -1492,9 +1494,9 @@
     第一季的動向：
       -
         第20集和鐵華團尋求合作，但同時威脅鐵華團要求護送他去艾布勞代表全體會議的會議場所，否則鐵華團地球小分隊便不能返回火星。隨後遭到嘉達·伊素的勒索。
-        第22集聽從庫德莉雅的意見而大讚她「以後一定會是個好領袖」和「很會使喚男人」，之後搭乘火車並前往[愛民頓](../Page/愛民頓.md "wikilink")。
+        第22集聽從庫德莉雅的意見而大讚她「以後一定會是個好領袖」和「很會使喚男人」，之後搭乘火車並前往[愛民頓](https://zh.wikipedia.org/wiki/愛民頓 "wikilink")。
         第23集指出鐵華團的孩子現在心裡只想著「破壞」。期間與其支持者拉斯克碰面，當拉斯克質疑蒔苗靠一群孩子怎麼可能成功抵達艾布勞時，回答說他們（鐵華團）可不是一群普通的孩子。
-        第24集由阿特拉駕車，和庫德莉雅一同前往中樞議會的會場，但汽車被艾因所阻攔而翻倒，因[安全帶而保著一命](../Page/安全帶.md "wikilink")。
+        第24集由阿特拉駕車，和庫德莉雅一同前往中樞議會的會場，但汽車被艾因所阻攔而翻倒，因[安全帶而保著一命](https://zh.wikipedia.org/wiki/安全帶 "wikilink")。
         第25集被澳加解救再改乘MW前往會場，並在鐵華團的奮鬥下藉由秘密通道成功趕及出席中樞議會，再次當選主席。其中讓出了發言時間，改由庫德莉雅在眾多議員面前發表演說。
     第二季的動向：
       -
@@ -1530,10 +1532,10 @@
 ## 其他角色
 
   - （第二季）
-    聲：（日）[長克巳](../Page/長克巳.md "wikilink")；（港）[林國雄](../Page/林國雄.md "wikilink")
+    聲：（日）[長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")；（港）[林國雄](../Page/林國雄.md "wikilink")
     狀態：<font color = #8B0000>遇害身亡</font>。
     肥胖衰老的商人，也是支持庫德莉雅進行獨立運動的金主，性格陰險狡詐。
-    其興趣是喜歡吃不同種類的甜食，和泡[桑拿](../Page/三溫暖.md "wikilink")。
+    其興趣是喜歡吃不同種類的甜食，和泡[桑拿](https://zh.wikipedia.org/wiki/三溫暖 "wikilink")。
     曾私下與哥拉爾勾結，又安插芙米妲在庫德莉雅身旁作為內應、刻意將她和鐵華團的名聲散播到殖民地激化反對情緒引發武裝衝突等，試圖將她的生死操弄在自己的掌心。
     更與迪瓦茲的麥克馬多有一定的拉線，還聯合起來一起利用庫德莉雅。
     第一季的動向：
@@ -1560,7 +1562,7 @@
 <!-- end list -->
 
   - （第二季）
-    聲：（日）[田中完](../Page/田中完.md "wikilink")；（港）[馮錦堂](../Page/馮錦堂.md "wikilink")
+    聲：（日）[田中完](../Page/田中完.md "wikilink")；（港）[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")
     狀態：<font color = #8B0000>遇害身亡</font>。
     於第二季登場，激進組織——「地球解放戰線」的代表兼思想家，過去曾在諾亞基斯七月會議推薦沒沒無聞的庫德莉雅。
     企圖巴結已經出名的庫德莉雅，以藉此提升自己的地位。
@@ -1753,7 +1755,7 @@
   - [機動戰士GUNDAM
     鐵血的孤兒登場機體列表](../Page/機動戰士GUNDAM_鐵血的孤兒登場機體列表.md "wikilink")
   - [機動戰士GUNDAM
-    鐵血的孤兒世界觀及設定](../Page/機動戰士GUNDAM_鐵血的孤兒世界觀及設定.md "wikilink")
+    鐵血的孤兒世界觀及設定](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒世界觀及設定 "wikilink")
 
 [Category:GUNDAM人物](https://zh.wikipedia.org/wiki/Category:GUNDAM人物 "wikilink")
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

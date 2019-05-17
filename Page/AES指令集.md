@@ -1,4 +1,4 @@
-**高级加密标准指令集**（或称英特尔**高级加密标准新指令**，简称**AES-NI**）是一个[x86](../Page/x86.md "wikilink")[指令集架构的扩展](../Page/指令集架构.md "wikilink")，用于[Intel和](../Page/英特尔.md "wikilink")[AMD](../Page/超威半导体.md "wikilink")[微处理器](../Page/微处理器.md "wikilink")，由Intel在2008年3月提出。\[1\]该指令集的目的是改进应用程序使用[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）执行加密和解密的速度。
+**高级加密标准指令集**（或称英特尔**高级加密标准新指令**，简称**AES-NI**）是一个[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[指令集架构的扩展](https://zh.wikipedia.org/wiki/指令集架构 "wikilink")，用于[Intel和](../Page/英特尔.md "wikilink")[AMD](../Page/超威半导体.md "wikilink")[微处理器](../Page/微处理器.md "wikilink")，由Intel在2008年3月提出。\[1\]该指令集的目的是改进应用程序使用[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）执行加密和解密的速度。
 
 ## 新指令
 
@@ -59,17 +59,18 @@
         [Haswell处理器](../Page/Haswell微架構.md "wikilink")。（i3-4000m\[10\]、奔腾和赛扬除外）
       - Intel在其网站上有一个列表，写明了支持AES-NI的处理器\[11\]
   - [AMD](../Page/超威半导体.md "wikilink")
-      - [AMD Ryzen架构处理器](../Page/AMD_Ryzen.md "wikilink")。
+      - [AMD
+        Ryzen架构处理器](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")。
       - [AMD Bulldozer架构处理器](../Page/AMD_Bulldozer.md "wikilink")。\[12\]
       - [AMD Piledriver架构处理器](../Page/AMD_Piledriver.md "wikilink")。
       - [AMD Steamroller架构处理器](../Page/AMD_Steamroller.md "wikilink")。
       - [AMD Jaguar架构处理器](../Page/AMD_Jaguar.md "wikilink")。
-      - AMD [Puma架构处理器](../Page/Puma.md "wikilink")。
+      - AMD [Puma架构处理器](https://zh.wikipedia.org/wiki/Puma "wikilink")。
 
 ## 其他架构中的硬件加速
 
 在最新的[SPARC处理器](../Page/SPARC.md "wikilink")（T4、T5、M5及之后）和最新的ARM处理器中也有非特权的处理器指令提供AES支持。2011年推出的SPARC
-T4处理器有用户级指令实现AES轮回。\[13\]这些指令补充了更高级别的加密命令。2011年宣布的[ARMv8-A处理器架构也有用户级指令实现AES轮回](../Page/ARM架構.md "wikilink")，这包括ARM
+T4处理器有用户级指令实现AES轮回。\[13\]这些指令补充了更高级别的加密命令。2011年宣布的[ARMv8-A处理器架构也有用户级指令实现AES轮回](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，这包括ARM
 Cortex-A53和A57，但不包括以前的v7处理器（如Cortex
 A5、7、8、9、11、15）。\[14\]2012年8月，[IBM宣布](../Page/IBM.md "wikilink")\[15\]即将到来的Power7+架构有望提供AES支持。这些架构中的命令不能直接与AES-NI命令兼容，但可实现类似的功能。
 
@@ -97,7 +98,7 @@ Kirkwood（ARM，mv_cesa在Linux中）使用基于驱动程序的AES加速处理
 
   - [Allwinner](../Page/全志科技.md "wikilink")
       - 使用“安全系统”的A10和A20。\[22\]
-  - [Broadcom](../Page/博通.md "wikilink")
+  - [Broadcom](https://zh.wikipedia.org/wiki/博通 "wikilink")
       - 使用“安全处理器”的BCM5801/BCM5805/BCM5820。\[23\]
 
 ### 其他架构
@@ -111,7 +112,7 @@ Kirkwood（ARM，mv_cesa在Linux中）使用基于驱动程序的AES加速处理
 进行优化的应用程序表现出了傲人成绩”。 \[25\]
 一次使用[函式庫执行的性能分析显示](../Page/函式庫.md "wikilink")，相比没有加速的[Pentium
 4](../Page/奔腾4.md "wikilink"),
-AES/[GCM的吞吐量从大约每字节](../Page/伽羅瓦/計數器模式.md "wikilink")28.0周期显著提升至每字节3.5周期。
+AES/[GCM的吞吐量从大约每字节](https://zh.wikipedia.org/wiki/伽羅瓦/計數器模式 "wikilink")28.0周期显著提升至每字节3.5周期。
 \[26\]\[27\]
 
 ## 软件支持
@@ -125,10 +126,10 @@ AES/[GCM的吞吐量从大约每字节](../Page/伽羅瓦/計數器模式.md "wi
 
   -
   - [Java](../Page/Java.md "wikilink") 7
-    [HotSpot](../Page/HotSpot.md "wikilink")
+    [HotSpot](https://zh.wikipedia.org/wiki/HotSpot "wikilink")
 
   - [Network Security
-    Services](../Page/Network_Security_Services.md "wikilink")（NSS）3.13及更高版本
+    Services](https://zh.wikipedia.org/wiki/Network_Security_Services "wikilink")（NSS）3.13及更高版本
     \[29\]（被[Firefox和](../Page/Firefox.md "wikilink")[Google
     Chrome使用](../Page/Google_Chrome.md "wikilink")）
 
@@ -144,12 +145,12 @@ AES/[GCM的吞吐量从大约每字节](../Page/伽羅瓦/計數器模式.md "wi
 
 ## 参考
 
-  - [高级矢量扩展](../Page/AVX指令集.md "wikilink")（AVX）
+  - [高级矢量扩展](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")（AVX）
 
   -
-  - [FMA指令集](../Page/熔合乘法累积指令集.md "wikilink")（FMA3、FMA4）
+  - [FMA指令集](https://zh.wikipedia.org/wiki/熔合乘法累积指令集 "wikilink")（FMA3、FMA4）
 
-  - [RdRand](../Page/RdRand.md "wikilink")
+  - [RdRand](https://zh.wikipedia.org/wiki/RdRand "wikilink")
 
 ## 参考资料
 

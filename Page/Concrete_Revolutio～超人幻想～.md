@@ -6,7 +6,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
 作品以[虛構世界為背景](../Page/虛構世界.md "wikilink")，故事敘述一個各種超人、妖怪與人類社會同時並存的世界。
 
-故事以[戰後日本高度經濟成長時期為時代背景和以](../Page/日本戰後經濟奇蹟.md "wikilink")「神化」的虛構年號紀年的日本為舞台。作品中，地球上存在特性各異、由來萬種的各種「超人」，有來自宇宙的巨人、魔科幻世界的生命體、古代即存的妖怪、科學狂人改造的機械人、遠古文明的遺產等。這些超人部分公然活動而受到民眾歡迎，也有部分在暗地裡活躍；而世間上則有和超人立場不同的各種組織、勢力存在並蠢動。
+故事以[戰後日本高度經濟成長時期為時代背景和以](https://zh.wikipedia.org/wiki/日本戰後經濟奇蹟 "wikilink")「神化」的虛構年號紀年的日本為舞台。作品中，地球上存在特性各異、由來萬種的各種「超人」，有來自宇宙的巨人、魔科幻世界的生命體、古代即存的妖怪、科學狂人改造的機械人、遠古文明的遺產等。這些超人部分公然活動而受到民眾歡迎，也有部分在暗地裡活躍；而世間上則有和超人立場不同的各種組織、勢力存在並蠢動。
 
 超人的存在，讓日本政府為了維持社會秩序，在[厚生省下設立通稱為](../Page/厚生省.md "wikilink")「超人課」的外圍組織，對外則偽稱「超過人口審議研究所」。超人課在該偽裝下，在社會上協助發現、保護、引導甚至是消滅超人。作品中，以超人課一員的「人吉爾朗」為主角。\[3\]
 
@@ -134,7 +134,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
   - 音樂：、、山本陽介
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")、I WILL
-  - 音樂製作人：伊藤善之、[齋藤滋](../Page/齋藤滋.md "wikilink")
+  - 音樂製作人：伊藤善之、[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")
   - 主製作人：藤澤宜彥
   - 製作人：大藪芳廣、中路亮輔、高梨實、小岐須泰世、柳村努、保坂拓也、金子廣孝
   - 動畫製作：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")
@@ -174,8 +174,8 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
   -
 
       -
-        作詞：[松井洋平](../Page/松井洋平.md "wikilink")，作曲、編曲：山本陽介，主唱：山本陽介 feat.
-        [玉置成實](../Page/玉置成實.md "wikilink")
+        作詞：[松井洋平](https://zh.wikipedia.org/wiki/松井洋平 "wikilink")，作曲、編曲：山本陽介，主唱：山本陽介
+        feat. [玉置成實](../Page/玉置成實.md "wikilink")
 
 :;「THE LAST SONG」（第24話）
 
@@ -295,7 +295,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
       -
         作詞、作曲：[井上陽水](../Page/井上陽水.md "wikilink")，編曲：TECHNOBOYS PULCRAFT
-        GREEN-FUND，主唱：[淺岡雄也](../Page/淺岡雄也.md "wikilink")
+        GREEN-FUND，主唱：[淺岡雄也](https://zh.wikipedia.org/wiki/淺岡雄也 "wikilink")
 
 :; 「」（第21話）
 
@@ -485,7 +485,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 <td><p>第13話</p></td>
 <td></td>
 <td><p>新宿騷亂</p></td>
-<td><p><a href="../Page/京田知己.md" title="wikilink">京田知己</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/京田知己" title="wikilink">京田知己</a><br />
 三條なみみ<br />
 黑川智之<br />
 水島精二</p></td>
@@ -643,47 +643,47 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
 ### 播放電視台
 
-| 播放地區                               | 播放電視台                                      | 播放日期              | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播網                                  | 備註                                       |
-| ---------------------------------- | ------------------------------------------ | ----------------- | ----------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| 第1期                                |                                            |                   |                                                                         |                                        |                                          |
-| [東京都](../Page/東京都.md "wikilink")   | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 2015年10月4日－12月27日 | 星期日 23時00分－23時30分                                                       | [獨立局](../Page/全國獨立放送協議會.md "wikilink") | **製作委員會參加**                              |
-| [京都府](../Page/京都府.md "wikilink")   | [KBS京都](../Page/KBS京都.md "wikilink")       | 星期日 23時30分－24時00分 |                                                                         |                                        |                                          |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")   | [SUN電視台](../Page/SUN電視台.md "wikilink")     | 星期日 24時30分－25時00分 |                                                                         |                                        |                                          |
-| 日本全國                               | [BS11](../Page/BS11.md "wikilink")         | 2015年10月6日－12月29日 | 星期二 24時30分－25時00分                                                       | [衛星電視](../Page/衛星電視.md "wikilink")     | [ANIME+節目](../Page/ANIME+.md "wikilink") |
-| [AT-X](../Page/AT-X.md "wikilink") | 2016年1月16日－4月9日                            | 星期六 21時00分－21時30分 | 有重播                                                                     |                                        |                                          |
-| 第2期                                |                                            |                   |                                                                         |                                        |                                          |
-| 東京都                                | TOKYO MX                                   | 2016年4月10日－6月19日  | 星期日 23時00分－23時30分                                                       | 獨立局                                    | **製作委員會參加**                              |
-| 京都府                                | KBS京都                                      | 星期日 23時30分－24時00分 |                                                                         |                                        |                                          |
-| 兵庫縣                                | SUN電視台                                     | 星期日 25時00分－25時30分 |                                                                         |                                        |                                          |
-| 日本全國                               | BS11                                       | 2016年4月13日－       | 星期二 24時30分－25時00分                                                       | 衛星電視                                   | ANIME+節目                                 |
-| AT-X                               | 2016年4月16日－                                | 星期六 21時00分－21時30分 | 有重播                                                                     |                                        |                                          |
-|                                    |                                            |                   |                                                                         |                                        |                                          |
+| 播放地區                                                | 播放電視台                                                         | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                 | 備註                                       |
+| --------------------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------- |
+| 第1期                                                 |                                                               |                   |                                                                                                               |                                                       |                                          |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2015年10月4日－12月27日 | 星期日 23時00分－23時30分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                | **製作委員會參加**                              |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")       | 星期日 23時30分－24時00分 |                                                                                                               |                                                       |                                          |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期日 24時30分－25時00分 |                                                                                                               |                                                       |                                          |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 2015年10月6日－12月29日 | 星期二 24時30分－25時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | [ANIME+節目](../Page/ANIME+.md "wikilink") |
+| [AT-X](../Page/AT-X.md "wikilink")                  | 2016年1月16日－4月9日                                               | 星期六 21時00分－21時30分 | 有重播                                                                                                           |                                                       |                                          |
+| 第2期                                                 |                                                               |                   |                                                                                                               |                                                       |                                          |
+| 東京都                                                 | TOKYO MX                                                      | 2016年4月10日－6月19日  | 星期日 23時00分－23時30分                                                                                             | 獨立局                                                   | **製作委員會參加**                              |
+| 京都府                                                 | KBS京都                                                         | 星期日 23時30分－24時00分 |                                                                                                               |                                                       |                                          |
+| 兵庫縣                                                 | SUN電視台                                                        | 星期日 25時00分－25時30分 |                                                                                                               |                                                       |                                          |
+| 日本全國                                                | BS11                                                          | 2016年4月13日－       | 星期二 24時30分－25時00分                                                                                             | 衛星電視                                                  | ANIME+節目                                 |
+| AT-X                                                | 2016年4月16日－                                                   | 星期六 21時00分－21時30分 | 有重播                                                                                                           |                                                       |                                          |
+|                                                     |                                                               |                   |                                                                                                               |                                                       |                                          |
 
 ## 考据
 
 ### 角色设计
 
-1.  人吉尔朗的形象参考[人造人009](../Page/人造人009.md "wikilink")、[哥斯拉](../Page/哥斯拉.md "wikilink")、[金刚](../Page/金刚.md "wikilink")，暴走设定来自[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")，出生年及能力来源来自[广岛市原子弹爆炸](../Page/广岛市原子弹爆炸.md "wikilink")。
+1.  人吉尔朗的形象参考[人造人009](../Page/人造人009.md "wikilink")、[哥斯拉](../Page/哥斯拉.md "wikilink")、[金刚](https://zh.wikipedia.org/wiki/金刚 "wikilink")，暴走设定来自[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")，出生年及能力来源来自[广岛市原子弹爆炸](../Page/广岛市原子弹爆炸.md "wikilink")。
 2.  星野辉子的形象来自日本第一部魔法少女作品，1966年的[魔法使莎莉](../Page/魔法使莎莉.md "wikilink")。
-3.  柴来的形象参考[电脑奇侠](../Page/电脑奇侠.md "wikilink")，也影射[日本赤军](../Page/日本赤军.md "wikilink")。
-4.  男女合体机器人参考[超人机梅塔路达](../Page/超人机梅塔路达.md "wikilink")
-5.  古罗斯奥肯参考[奥特曼](../Page/奥特曼.md "wikilink")。头部的火焰参考[奥特曼佐非拍摄期间皮套着火](../Page/奥特曼佐非.md "wikilink")。
-6.  机器人阿斯参考[阿童木](../Page/阿童木.md "wikilink")。
+3.  柴来的形象参考[电脑奇侠](https://zh.wikipedia.org/wiki/电脑奇侠 "wikilink")，也影射[日本赤军](https://zh.wikipedia.org/wiki/日本赤军 "wikilink")。
+4.  男女合体机器人参考[超人机梅塔路达](https://zh.wikipedia.org/wiki/超人机梅塔路达 "wikilink")
+5.  古罗斯奥肯参考[奥特曼](https://zh.wikipedia.org/wiki/奥特曼 "wikilink")。头部的火焰参考[奥特曼佐非拍摄期间皮套着火](https://zh.wikipedia.org/wiki/奥特曼佐非 "wikilink")。
+6.  机器人阿斯参考[阿童木](https://zh.wikipedia.org/wiki/阿童木 "wikilink")。
 
 ### 背景
 
 1.  年号“神化”即是[昭和](../Page/昭和.md "wikilink")
-2.  剧中美军活动影射[日美安保条约](../Page/日美安保条约.md "wikilink")
+2.  剧中美军活动影射[日美安保条约](https://zh.wikipedia.org/wiki/日美安保条约 "wikilink")
 3.  怪兽实验影射美国和前苏联的核弹试验。
 
 ### 第一季
 
 1.  八束重工影射参与第二次世界大战的三菱重工等企业。
-2.  生田研究所影射进行人体生物实验的[七三一部队](../Page/七三一部队.md "wikilink")
-3.  第一集开始的海报来自[归来的奥特曼](../Page/归来的奥特曼.md "wikilink")（帰ってきたウルトラマン）和美国电影[爱的故事](../Page/爱的故事.md "wikilink")。杂志《周刊少年キング》是少年画报社1963年7月起发行，1982年4月休刊，曾连载过人造人009。博士与S星人交易neta天蝎座ScoX-1的发现。人吉尔朗的盒子影射森永牛奶糖，后段古罗斯奥肯的黑影影射[广岛之影](../Page/广岛之影.md "wikilink")。
-4.  第二集的黑雾事件影射[佐藤荣作政府](../Page/佐藤荣作.md "wikilink")1966年下半年的一连串政治丑闻，如[共和制糖事件](../Page/共和制糖事件.md "wikilink")。
-5.  第三集的军人影射潜伏关岛28年的[横井庄一](../Page/横井庄一.md "wikilink")，插入歌《青年以荒野为目标》是当年前30名流行歌曲。后段剧情影射1972年的[日本冬季奥运会和日本赤军](../Page/日本冬季奥运会.md "wikilink")。女机器人袭击八束重工车辆的情节致敬[攻壳机动队电影第一部和OVA第一季以及](../Page/攻壳机动队.md "wikilink")[福音战士新剧场版：破](../Page/福音战士新剧场版：破.md "wikilink")。
-6.  第四集开头影射电影[金刚](../Page/金刚.md "wikilink")、[瓜达尔卡纳尔岛战役和电影](../Page/瓜达尔卡纳尔岛战役.md "wikilink")[哥斯拉](../Page/哥斯拉.md "wikilink")，章鱼怪兽neta雷欧奥特曼的圆盘怪兽アブソウバ
+2.  生田研究所影射进行人体生物实验的[七三一部队](https://zh.wikipedia.org/wiki/七三一部队 "wikilink")
+3.  第一集开始的海报来自[归来的奥特曼](https://zh.wikipedia.org/wiki/归来的奥特曼 "wikilink")（帰ってきたウルトラマン）和美国电影[爱的故事](https://zh.wikipedia.org/wiki/爱的故事 "wikilink")。杂志《周刊少年キング》是少年画报社1963年7月起发行，1982年4月休刊，曾连载过人造人009。博士与S星人交易neta天蝎座ScoX-1的发现。人吉尔朗的盒子影射森永牛奶糖，后段古罗斯奥肯的黑影影射[广岛之影](https://zh.wikipedia.org/wiki/广岛之影 "wikilink")。
+4.  第二集的黑雾事件影射[佐藤荣作政府](../Page/佐藤荣作.md "wikilink")1966年下半年的一连串政治丑闻，如[共和制糖事件](https://zh.wikipedia.org/wiki/共和制糖事件 "wikilink")。
+5.  第三集的军人影射潜伏关岛28年的[横井庄一](https://zh.wikipedia.org/wiki/横井庄一 "wikilink")，插入歌《青年以荒野为目标》是当年前30名流行歌曲。后段剧情影射1972年的[日本冬季奥运会和日本赤军](https://zh.wikipedia.org/wiki/日本冬季奥运会 "wikilink")。女机器人袭击八束重工车辆的情节致敬[攻壳机动队电影第一部和OVA第一季以及](https://zh.wikipedia.org/wiki/攻壳机动队 "wikilink")[福音战士新剧场版：破](https://zh.wikipedia.org/wiki/福音战士新剧场版：破 "wikilink")。
+6.  第四集开头影射电影[金刚](https://zh.wikipedia.org/wiki/金刚 "wikilink")、[瓜达尔卡纳尔岛战役和电影](https://zh.wikipedia.org/wiki/瓜达尔卡纳尔岛战役 "wikilink")[哥斯拉](../Page/哥斯拉.md "wikilink")，章鱼怪兽neta雷欧奥特曼的圆盘怪兽アブソウバ
 
 ## 參考資料
 

@@ -1,5 +1,5 @@
 《**Chained
-Up**》是[韓國男子組合](../Page/韓國.md "wikilink")[VIXX的第二張韓語正規專輯](../Page/VIXX.md "wikilink")，於2015年11月10日發行\[1\]，主打曲目為《Chained
+Up**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第二張韓語正規專輯](../Page/VIXX.md "wikilink")，於2015年11月10日發行\[1\]，主打曲目為《Chained
 Up》（）。
 
 ## 曲目
@@ -22,7 +22,7 @@ Up》（）。
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年11月8日－11月14日</p></td>
 <td><p>#8</p></td>
@@ -67,12 +67,12 @@ Up》（）。
 
 ### 其他歌曲成績
 
-| 歌曲           | 榜單                                       | 類型                                              | 停留時間              | 最高位置 | 參考資料  |
-| ------------ | ---------------------------------------- | ----------------------------------------------- | ----------------- | ---- | ----- |
-| MAZE         | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年11月8日－11月14日 | \#8  | \[4\] |
-| Hot Enough   | \#87                                     |                                                 |                   |      |       |
-| Stop It Girl | \#91                                     |                                                 |                   |      |       |
-| 毛躁           | \#96                                     |                                                 |                   |      |       |
+| 歌曲           | 榜單                                                          | 類型                                              | 停留時間              | 最高位置 | 參考資料  |
+| ------------ | ----------------------------------------------------------- | ----------------------------------------------- | ----------------- | ---- | ----- |
+| MAZE         | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年11月8日－11月14日 | \#8  | \[4\] |
+| Hot Enough   | \#87                                                        |                                                 |                   |      |       |
+| Stop It Girl | \#91                                                        |                                                 |                   |      |       |
+| 毛躁           | \#96                                                        |                                                 |                   |      |       |
 
 ### Oricon公信榜
 

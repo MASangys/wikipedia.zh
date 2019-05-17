@@ -1,6 +1,6 @@
-『**三上枝織的mikassho\!**』是從2015年10月5日開始在[文化放送超](../Page/文化放送.md "wikilink")\!A\&G+放送，是由Marine
+『**三上枝織的mikassho\!**』是從2015年10月5日開始在[文化放送超](https://zh.wikipedia.org/wiki/文化放送 "wikilink")\!A\&G+放送，是由Marine
 ENTERTAINMENT
-Inc.制作的[廣播電台](../Page/廣播電台.md "wikilink")。暱稱是「**mikassho\!**」。主持人為[配音員的](../Page/配音員.md "wikilink")[三上枝織](../Page/三上枝織.md "wikilink")。
+Inc.制作的[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。暱稱是「**mikassho\!**」。主持人為[配音員的](../Page/配音員.md "wikilink")[三上枝織](../Page/三上枝織.md "wikilink")。
 
 ## 節目概要
 
@@ -8,7 +8,7 @@ Inc.制作的[廣播電台](../Page/廣播電台.md "wikilink")。暱稱是「**
 節目中時常提及香腸、吃、青森縣等話題。
 
 放送開始時是三上擔任leader的「[A\&G NEXT GENERATION Lady
-Go\!\!](../Page/A&G_NEXT_GENERATION_Lady_Go!!.md "wikilink")」結束三日後，Lady
+Go\!\!](https://zh.wikipedia.org/wiki/A&G_NEXT_GENERATION_Lady_Go!! "wikilink")」結束三日後，Lady
 Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
 
 ### 播出時間
@@ -75,7 +75,7 @@ Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
   -
 
       -
-        會場：[豊洲PIT](../Page/豊洲PIT.md "wikilink")
+        會場：[豊洲PIT](https://zh.wikipedia.org/wiki/豊洲PIT "wikilink")
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@ Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
   -
 
       -
-        會場：[科学技術館サイエンスホール](../Page/科学技術館サイエンスホール.md "wikilink")
+        會場：[科学技術館サイエンスホール](https://zh.wikipedia.org/wiki/科学技術館サイエンスホール "wikilink")
         來賓: [大久保瑠美](../Page/大久保瑠美.md "wikilink")
 
 <!-- end list -->
@@ -100,7 +100,7 @@ Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
   -
 
       -
-        會場：[TKPスター貸会議室　護国寺](../Page/TKPスター貸会議室_護国寺.md "wikilink")
+        會場：[TKPスター貸会議室　護国寺](https://zh.wikipedia.org/wiki/TKPスター貸会議室_護国寺 "wikilink")
 
 ## 主題歌
 

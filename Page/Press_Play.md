@@ -1,5 +1,5 @@
 **Press
-Play**，是一家总部位于[哥本哈根的游戏开发工作室](../Page/哥本哈根.md "wikilink")。自2006年以来，该工作室在多个平台制作20多款游戏\[1\]。2012年，该工作室被微软收购，成为Microsoft
+Play**，是一家总部位于[哥本哈根的游戏开发工作室](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")。自2006年以来，该工作室在多个平台制作20多款游戏\[1\]。2012年，该工作室被微软收购，成为Microsoft
 Studios的一部分；2016年3月，微软宣布关闭工作室。
 
 ## 旗下游戏
@@ -15,12 +15,12 @@ Studios的一部分；2016年3月，微软宣布关闭工作室。
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/Android.md" title="wikilink">Droid</a></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a></p></td>
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><em><a href="../Page/Max_&amp;_the_Magic_Marker.md" title="wikilink">Max &amp; the Magic Marker</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Max_&amp;_the_Magic_Marker" title="wikilink">Max &amp; the Magic Marker</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -30,7 +30,7 @@ Studios的一部分；2016年3月，微软宣布关闭工作室。
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><em><a href="../Page/Max:_The_Curse_of_Brotherhood.md" title="wikilink">Max: The Curse of Brotherhood</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Max:_The_Curse_of_Brotherhood" title="wikilink">Max: The Curse of Brotherhood</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -40,12 +40,12 @@ Studios的一部分；2016年3月，微软宣布关闭工作室。
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><em><a href="../Page/Kalimba_(video_game).md" title="wikilink">Kalimba</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kalimba_(video_game)" title="wikilink">Kalimba</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>TBA</p></td>
-<td><p><em><a href="../Page/Project:_Knoxville.md" title="wikilink">Project: Knoxville</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Project:_Knoxville" title="wikilink">Project: Knoxville</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">

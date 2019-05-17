@@ -1,16 +1,16 @@
-**hush！**，[臺灣](../Page/臺灣.md "wikilink")[樂團](../Page/樂團.md "wikilink")，成員共有三人，由主唱[HUSH](../Page/HUSH_\(台灣男歌手\).md "wikilink")、貝斯手卡貝和鼓手熊爸組成。
+**hush！**，[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，成員共有三人，由主唱[HUSH](https://zh.wikipedia.org/wiki/HUSH_\(台灣男歌手\) "wikilink")、貝斯手卡貝和鼓手熊爸組成。
 
 ## 成員
 
-| width=|藝名                                    | width=|本名 | width=|簡介 |
-| -------------------------------------------- | --------- | --------- |
-| [HUSH](../Page/HUSH_\(台灣男歌手\).md "wikilink") | 陳家偉       | 主唱、吉他手    |
-| 卡貝                                           |           | 貝斯手       |
-| 熊爸                                           | 謝曜輿       | 鼓手        |
+| width=|藝名                                                       | width=|本名 | width=|簡介 |
+| --------------------------------------------------------------- | --------- | --------- |
+| [HUSH](https://zh.wikipedia.org/wiki/HUSH_\(台灣男歌手\) "wikilink") | 陳家偉       | 主唱、吉他手    |
+| 卡貝                                                              |           | 貝斯手       |
+| 熊爸                                                              | 謝曜輿       | 鼓手        |
 
 ## 樂團歷程
 
-「hush！」是在2010年由[HUSH](../Page/HUSH_\(台灣男歌手\).md "wikilink")、卡貝和熊爸所成立，並受邀西安、深圳草莓音樂、台北[野台開唱](../Page/野台開唱.md "wikilink")、香港呼叫音樂節、高雄大彩虹音樂節、小巨蛋犀利好大趴、上海簡單生活節等活動\[1\]。但在2014年歷經[貝斯手和](../Page/貝斯手.md "wikilink")[鼓手相繼離開樂團](../Page/鼓手.md "wikilink")\[2\]，HUSH決定解散後單飛\[3\]。
+「hush！」是在2010年由[HUSH](https://zh.wikipedia.org/wiki/HUSH_\(台灣男歌手\) "wikilink")、卡貝和熊爸所成立，並受邀西安、深圳草莓音樂、台北[野台開唱](../Page/野台開唱.md "wikilink")、香港呼叫音樂節、高雄大彩虹音樂節、小巨蛋犀利好大趴、上海簡單生活節等活動\[1\]。但在2014年歷經[貝斯手和](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[鼓手相繼離開樂團](https://zh.wikipedia.org/wiki/鼓手 "wikilink")\[2\]，HUSH決定解散後單飛\[3\]。
 
 2016年被網路溫度計提名十大台灣獨立樂團第五名\[4\]。
 

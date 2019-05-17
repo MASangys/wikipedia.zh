@@ -1,5 +1,5 @@
 [4mayrehearsal_20.jpg](https://zh.wikipedia.org/wiki/File:4mayrehearsal_20.jpg "fig:4mayrehearsal_20.jpg")上的「迴旋鏢」-BM遙控炮塔。\]\]
-**「迴旋鏢」-BM遙控炮塔**（[俄語](../Page/俄語.md "wikilink")：**Бумеранг-БМ**；[俄語羅馬化](../Page/俄语罗马化.md "wikilink")：**Bumerang-BM**）\[1\]，或稱為「**時代**」（**Epoch**）遙控炮塔\[2\]，是一款專為[T-15阿瑪塔步兵戰車](../Page/T-15步兵戰車.md "wikilink")、[庫爾干人-25步兵戰車以及](../Page/庫爾干人-25裝甲車.md "wikilink")[迴旋鏢裝甲運兵車等武器平台研發的遠端操控武裝炮塔](../Page/迴旋鏢裝甲運兵車.md "wikilink")。\[3\]首次公開亮相於[2015年莫斯科勝利日閱兵的預演中](../Page/2015年红场阅兵.md "wikilink")，當時這款炮塔被安裝於上述各款武器平台上。
+**「迴旋鏢」-BM遙控炮塔**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**Бумеранг-БМ**；[俄語羅馬化](../Page/俄语罗马化.md "wikilink")：**Bumerang-BM**）\[1\]，或稱為「**時代**」（**Epoch**）遙控炮塔\[2\]，是一款專為[T-15阿瑪塔步兵戰車](../Page/T-15步兵戰車.md "wikilink")、[庫爾干人-25步兵戰車以及](../Page/庫爾干人-25裝甲車.md "wikilink")[迴旋鏢裝甲運兵車等武器平台研發的遠端操控武裝炮塔](../Page/迴旋鏢裝甲運兵車.md "wikilink")。\[3\]首次公開亮相於[2015年莫斯科勝利日閱兵的預演中](../Page/2015年红场阅兵.md "wikilink")，當時這款炮塔被安裝於上述各款武器平台上。
 
 ## 設計
 
@@ -8,7 +8,7 @@
 ### 武裝
 
 迴旋鏢遙控炮塔的主要武裝為一門[2A42
-30毫米機炮](../Page/希普諾夫2A42機炮.md "wikilink")\[6\]\[7\]，備彈500發，並可使用[穿甲彈以及](../Page/穿甲弹.md "wikilink")[高爆彈](../Page/炸藥.md "wikilink")。次要武裝則為一挺[7.62毫米PKT同軸機槍](../Page/PK通用機槍.md "wikilink")。\[8\]\[9\]
+30毫米機炮](../Page/希普諾夫2A42機炮.md "wikilink")\[6\]\[7\]，備彈500發，並可使用[穿甲彈以及](../Page/穿甲弹.md "wikilink")[高爆彈](https://zh.wikipedia.org/wiki/炸藥 "wikilink")。次要武裝則為一挺[7.62毫米PKT同軸機槍](../Page/PK通用機槍.md "wikilink")。\[8\]\[9\]
 
 炮塔兩側亦可加掛兩具[9M133短號反坦克導彈](../Page/9M133短號反坦克导弹.md "wikilink")。\[10\]
 

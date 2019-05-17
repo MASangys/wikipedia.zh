@@ -1,22 +1,22 @@
 [MaleSub_Bondage_2.jpg](https://zh.wikipedia.org/wiki/File:MaleSub_Bondage_2.jpg "fig:MaleSub_Bondage_2.jpg")
 **顺从**（英语：**bottom**或**submissive**，为在BDSM中被动方。伙伴为主导方。
 
-顺从的行为包括[鞭打](../Page/鞭打.md "wikilink")，奴役和屈辱，可以通过束缚，制造顺从方的痛苦，顺从还包括受到的惩罚和羞辱。
+顺从的行为包括[鞭打](https://zh.wikipedia.org/wiki/鞭打 "wikilink")，奴役和屈辱，可以通过束缚，制造顺从方的痛苦，顺从还包括受到的惩罚和羞辱。
 
 ## 外部链接
 
   - Dossie Easton, Janet W Hardy. *The New Bottoming Book.* Greenery
     Press, 2003. ISBN 1-890159-36-0.
-  - [Jay Wiseman](../Page/Jay_Wiseman.md "wikilink"): *SM 101: A
-    Realistic Introduction.* Greenery Press (CA) 1998, ISBN
+  - [Jay Wiseman](https://zh.wikipedia.org/wiki/Jay_Wiseman "wikilink"):
+    *SM 101: A Realistic Introduction.* Greenery Press (CA) 1998, ISBN
     0-9639763-8-9
   - Phillip Miller, Molly Devon, William A. Granzig (Vorwort): *Screw
     the Roses, Send Me the Thorns: The Romance and Sexual Sorcery of
     Sadomasochism.* Mystic Rose Books 1995, ISBN 0-9645960-0-8
   - William A. Henkin, Sybil Holiday, *Consensual Sadomasochism : How to
     Talk About It and How to Do It Safely*, [Daedalus
-    Publishing](../Page/Daedalus_Publishing.md "wikilink"), 1996. ISBN
-    1-881943-12-7.
+    Publishing](https://zh.wikipedia.org/wiki/Daedalus_Publishing "wikilink"),
+    1996. ISBN 1-881943-12-7.
   - Different Loving: The World of Sexual Dominance and Submission ISBN
     978-0-679-76956-9
   - Breslow, Norman: [SM Research

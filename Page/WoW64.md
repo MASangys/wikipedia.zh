@@ -1,26 +1,26 @@
 **WoW64**（**W**indows 32-bit **o**n **W**indows **64**-bit）是[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")[操作系统的一个子系统](../Page/操作系统.md "wikilink")，它提供在所有Windows
-[64位系统上运行](../Page/64位.md "wikilink")[32位元](../Page/32位元.md "wikilink")[应用程序的能力](../Page/应用程序.md "wikilink")——这包括[Windows
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统的一个子系统](../Page/操作系统.md "wikilink")，它提供在所有Windows
+[64位系统上运行](https://zh.wikipedia.org/wiki/64位 "wikilink")[32位元](../Page/32位元.md "wikilink")[应用程序的能力](../Page/应用程序.md "wikilink")——这包括[Windows
 XP Professional x64
-Edition](../Page/Windows_XP_Professional_x64_Edition.md "wikilink")、[IA-64和](../Page/IA-64.md "wikilink")[Windows
+Edition](../Page/Windows_XP_Professional_x64_Edition.md "wikilink")、[IA-64和](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[Windows
 Server 2003的](../Page/Windows_Server_2003.md "wikilink")64位版本，以及[Windows
 Vista](../Page/Windows_Vista.md "wikilink")、[Windows Server
 2008](../Page/Windows_Server_2008.md "wikilink")、[Windows
-7](../Page/Windows_7.md "wikilink")、[Windows
-8](../Page/Windows_8.md "wikilink")、[Windows Server
+7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
+8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Server
 2012](../Page/Windows_Server_2012.md "wikilink")、[Windows
 8.1和](../Page/Windows_8.1.md "wikilink")[Windows
-10的](../Page/Windows_10.md "wikilink")64位版本。在[Windows Server 2008
-R2](../Page/Windows_Server_2008_R2.md "wikilink") Server
+10的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")64位版本。在[Windows
+Server 2008 R2](../Page/Windows_Server_2008_R2.md "wikilink") Server
 Core中它成为了可选组件，并在[Nano
 Server中不再提供](../Page/Windows_Server_2016.md "wikilink")。WoW64旨在解决32位与64位Windows中的许多差异，特别是涉及到Windows本身的结构变化。
 
 ## 转换-{zh:库;zh-hans:库;zh-hant:函式庫;}-
 
-WoW64[子系统由一个轻量级](../Page/系统.md "wikilink")[兼容层组成](../Page/兼容层.md "wikilink")，其在所有64位Windows版本上有类似的接口。它的目的是创建一个32位环境，为未修改的32位Windows应用程序在64位系统上运行提供一个必需的接口。在技术上，WoW64使用三个[-{zh:动态链接库;zh-hans:动态链接库;zh-hant:動態連結函式庫;}-](../Page/动态链接库.md "wikilink")（DLL）实现：
+WoW64[子系统由一个轻量级](https://zh.wikipedia.org/wiki/系统 "wikilink")[兼容层组成](../Page/兼容层.md "wikilink")，其在所有64位Windows版本上有类似的接口。它的目的是创建一个32位环境，为未修改的32位Windows应用程序在64位系统上运行提供一个必需的接口。在技术上，WoW64使用三个[-{zh:动态链接库;zh-hans:动态链接库;zh-hant:動態連結函式庫;}-](../Page/动态链接库.md "wikilink")（DLL）实现：
 
 1.  `Wow64.dll`，通往[Windows
-    NT内核的核心接口](../Page/Windows_NT体系结构.md "wikilink")，它转换32位与64位调用，包括[指针和](../Page/指標_\(電腦科學\).md "wikilink")[调用栈操作](../Page/调用栈.md "wikilink")。
+    NT内核的核心接口](../Page/Windows_NT体系结构.md "wikilink")，它转换32位与64位调用，包括[指针和](../Page/指標_\(電腦科學\).md "wikilink")[调用栈操作](https://zh.wikipedia.org/wiki/调用栈 "wikilink")。
 2.  `Wow64win.dll`，为32位应用程序提供适当的入口点。
 3.  `Wow64cpu.dll`，负责解决进程从32位切换到64位模式。
 
@@ -28,8 +28,8 @@ WoW64[子系统由一个轻量级](../Page/系统.md "wikilink")[兼容层组成
 
 尽管表面上看它在所有64位Windows版本上都表现相同，但WoW64的实现取决于目标[处理器架构](../Page/微架構.md "wikilink")。举例来说，面向[Intel](../Page/英特尔.md "wikilink")
 [Itanium
-2处理器](../Page/安腾.md "wikilink")（即[IA-64架构](../Page/IA-64.md "wikilink")）开发的64位Windows版本，会使用`Wow64win.dll`在Itanium 2的独有[指令集中设置x](../Page/指令集架構.md "wikilink")86指令的仿真。这种仿真会比
-`Wow64win.dll`的函数在[x86-64架构](../Page/x86-64.md "wikilink")（也称“Intel
+2处理器](../Page/安腾.md "wikilink")（即[IA-64架构](https://zh.wikipedia.org/wiki/IA-64 "wikilink")）开发的64位Windows版本，会使用`Wow64win.dll`在Itanium 2的独有[指令集中设置x](../Page/指令集架構.md "wikilink")86指令的仿真。这种仿真会比
+`Wow64win.dll`的函数在[x86-64架构](https://zh.wikipedia.org/wiki/x86-64 "wikilink")（也称“Intel
 64”或“AMD64”）上的计算代价更昂贵，因为当有必要执行32位[线程时](../Page/线程.md "wikilink")，处理器硬件必须从64位模式切换到兼容模式，然后再切换回64位模式。
 
 ## 注册表和文件系统
@@ -58,7 +58,7 @@ Explorer实现了](../Page/Internet_Explorer.md "wikilink")32位与64位两个�
 Explorer的32位版本被定为默认版本，并且64位版本不能被设置为默认浏览器。<span class="cx-segment" data-segmentid="111"></span>
 
 WoW64
-64位版本中透明层的一个[程序错误](../Page/Bug.md "wikilink")\[1\]\[2\]导致所有依赖[Windows
+64位版本中透明层的一个[程序错误](https://zh.wikipedia.org/wiki/Bug "wikilink")\[1\]\[2\]导致所有依赖[Windows
 API函数GetThreadContext的](../Page/Windows_API.md "wikilink")32位应用程序不兼容。此类应用包括应用程序调试器、调用堆栈跟踪器（例如<span class="cx-segment" data-segmentid="115"></span>[IDE显示调用堆栈](../Page/集成开发环境.md "wikilink")）和使用[垃圾收集](../Page/垃圾回收_\(計算機科學\).md "wikilink")（GC）引擎的应用程序。受影响最广泛的一个GC引擎是[Boehm
 GC](../Page/貝姆垃圾收集器.md "wikilink")\[3\]，它被同样流行的[Mono作为默认的垃圾收集引擎](../Page/Mono.md "wikilink")。虽然Mono截至2010年10月有一种新的、可选的GC（称作SGen-GC），但它与Boehm
 GC执行堆栈扫描的方式相同，因此它也不兼容WoW64。截至2010年11月15日，微软没有提供修复计划或变通解决方案。
@@ -67,7 +67,7 @@ GC执行堆栈扫描的方式相同，因此它也不兼容WoW64。截至2010年
 
 据微软介绍，运行在WOW64下的32位软件与在32位Windows上的执行性能相近，但可能增加少许[线程和其他开销](../Page/线程.md "wikilink")\[4\]。
 
-一个32位应用程序在64位系统上可以完全使用4GB[虚拟内存](../Page/虚拟内存.md "wikilink")，而在32位系统上，部分可寻址内存无法使用，因为那会被[内核和内存映射的外部设备](../Page/内核.md "wikilink")（如[显卡](../Page/显卡.md "wikilink")）使用。
+一个32位应用程序在64位系统上可以完全使用4GB[虚拟内存](../Page/虚拟内存.md "wikilink")，而在32位系统上，部分可寻址内存无法使用，因为那会被[内核和内存映射的外部设备](../Page/内核.md "wikilink")（如[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")）使用。
 
 ## 参见
 

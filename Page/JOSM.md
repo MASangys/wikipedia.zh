@@ -1,12 +1,12 @@
 **JOSM**（，Java
-OpenStreetMap編輯器，）是[開放街圖](../Page/開放街圖.md "wikilink")[地理資訊的](../Page/地理信息系统.md "wikilink")[自由編輯工具](../Page/自由软件.md "wikilink")，以[Java撰寫](../Page/Java.md "wikilink")。其有許多進階的功能\[1\]，但是也比預設的[iD線上編輯器有較複雜的](../Page/ID_\(軟體\).md "wikilink")[用户界面](../Page/用户界面.md "wikilink")。
+OpenStreetMap編輯器，）是[開放街圖](../Page/開放街圖.md "wikilink")[地理資訊的](../Page/地理信息系统.md "wikilink")[自由編輯工具](../Page/自由软件.md "wikilink")，以[Java撰寫](../Page/Java.md "wikilink")。其有許多進階的功能\[1\]，但是也比預設的[iD線上編輯器有較複雜的](https://zh.wikipedia.org/wiki/ID_\(軟體\) "wikilink")[用户界面](../Page/用户界面.md "wikilink")。
 
 ## 功能
 
 [Josm_presets_de.png](https://zh.wikipedia.org/wiki/File:Josm_presets_de.png "fig:Josm_presets_de.png")
-JOSM有一些重要的功能，如匯入[GPX檔案](../Page/GPX.md "wikilink")（GPS軌跡）\[2\]，也可以與[空中攝影一同運作](../Page/空中攝影.md "wikilink")（包含、TMS、）、支援多種[地图投影](../Page/地图投影.md "wikilink")、圖層、關係編輯\[3\]、資料驗證工具、資料過濾、離線工作、組合與樣式\[4\]等。JOSM提供了超過200個[快捷键給核心功能使用](../Page/快捷键.md "wikilink")。
+JOSM有一些重要的功能，如匯入[GPX檔案](../Page/GPX.md "wikilink")（GPS軌跡）\[2\]，也可以與[空中攝影一同運作](https://zh.wikipedia.org/wiki/空中攝影 "wikilink")（包含、TMS、）、支援多種[地图投影](../Page/地图投影.md "wikilink")、圖層、關係編輯\[3\]、資料驗證工具、資料過濾、離線工作、組合與樣式\[4\]等。JOSM提供了超過200個[快捷键給核心功能使用](../Page/快捷键.md "wikilink")。
 
-許多其他的功能（如繪製建築物的工具、加入維基百科的連結或是以3D方式觀看資料等）都以[外掛模組的方式提供](../Page/外掛模組.md "wikilink")\[5\]\[6\]\[7\]。
+許多其他的功能（如繪製建築物的工具、加入維基百科的連結或是以3D方式觀看資料等）都以[外掛模組的方式提供](https://zh.wikipedia.org/wiki/外掛模組 "wikilink")\[5\]\[6\]\[7\]。
 
 ## 歷史
 

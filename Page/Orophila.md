@@ -1,10 +1,12 @@
-***Orophila***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[苾蛺蝶亞科](../Page/苾蛺蝶亞科.md "wikilink")[圖蛺蝶族裡的一個](../Page/圖蛺蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分布於[新熱帶界](../Page/新熱帶界.md "wikilink")。此屬物種之翅膀形狀與同族其他物種不同，尤其前翅外緣凹凸不平\[1\]。
+***Orophila***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[苾蛺蝶亞科](../Page/苾蛺蝶亞科.md "wikilink")[圖蛺蝶族裡的一個](../Page/圖蛺蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")。此屬物種之翅膀形狀與同族其他物種不同，尤其前翅外緣凹凸不平\[1\]。
 
 ## 物種
 
-  - [落紅美蛺蝶](../Page/落紅美蛺蝶.md "wikilink") *Orophila cardases*
+  - [落紅美蛺蝶](https://zh.wikipedia.org/wiki/落紅美蛺蝶 "wikilink") *Orophila
+    cardases*
       - 串紅美蛺蝶 *O. c. campaspe*
-  - [一點紅美蛺蝶](../Page/一點紅美蛺蝶.md "wikilink") *Orophila diotima*
+  - [一點紅美蛺蝶](https://zh.wikipedia.org/wiki/一點紅美蛺蝶 "wikilink") *Orophila
+    diotima*
 
 ## 參考文獻
 

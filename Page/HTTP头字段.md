@@ -19,7 +19,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 在 RFC 7230、RFC 7231、RFC 7232、RFC 7233、RFC 7234 和 RFC 7235
 中，对一组核心字段进行了标准化。有一份对于这些字段的官方的登记册，以及
 一系列的补充规范
-，由互联网号码分配局（IANA）维护。各个应用程序也可以自行定义额外的字段名字及相应的值。[头字段的永久登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#perm-headers)和[临时登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#prov-headers)目前由[IANA维护](../Page/IANA.md "wikilink")。其他的字段名称和允许的值可以由各应用程序定义。
+，由互联网号码分配局（IANA）维护。各个应用程序也可以自行定义额外的字段名字及相应的值。[头字段的永久登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#perm-headers)和[临时登记表](http://www.iana.org/assignments/message-headers/message-headers.xml#prov-headers)目前由[IANA维护](https://zh.wikipedia.org/wiki/IANA "wikilink")。其他的字段名称和允许的值可以由各应用程序定义。
 
 按照惯例，非标准的协议头字段是在字段名称前加上`X-`\[2\]前缀来标识。但这一惯例已在2012年6月被废弃，因为按照这种惯例，非标准字段变成标准字段时会引起很多不方便之处。\[3\]以前曾经有的使用`Downgraded-`的限制也在2013年3月被解除。\[4\]。
 
@@ -27,49 +27,49 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 某些字段中可以包含注释内容（例如User-Agent、Server和Via字段中)，这些注释内容可由应用程序忽略\[5\]。
 
-很多字段的值中可以包含带有权重的[质量](../Page/质量.md "wikilink")（quality，常被简称为Q）的键值对，指定的“重量”会在[内容协商的过程中使用](../Page/内容协商.md "wikilink")\[6\]。
+很多字段的值中可以包含带有权重的[质量](../Page/质量.md "wikilink")（quality，常被简称为Q）的键值对，指定的“重量”会在[内容协商的过程中使用](https://zh.wikipedia.org/wiki/内容协商 "wikilink")\[6\]。
 
 ## 大小限制
 
-标准中没有对每个协议头字段的名称和值的大小设置任何限制，也没有限制字段的个数。然而，出于实际场景及安全性的考虑，大部分的服务器、客户端和代理软件都会实施一些限制。例如，[Apache](../Page/Apache.md "wikilink")
+标准中没有对每个协议头字段的名称和值的大小设置任何限制，也没有限制字段的个数。然而，出于实际场景及安全性的考虑，大部分的服务器、客户端和代理软件都会实施一些限制。例如，[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")
 2.3服务器在默认情况下限制每个字段的大小不得超过8190字节，同时，单个请求中最多有100个头字段\[7\]。
 
 ## 请求字段
 
-| 协议头字段名                                                                                                                       | 说明                                                                                                                                       | 示例                                                                                 | 状态       |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------- |
-| Accept                                                                                                                       | 能够接受的回应内容类型（Content-Types）。参见[内容协商](../Page/内容协商.md "wikilink")。                                                                         | `Accept: text/plain`                                                               | 常设       |
-| Accept-Charset                                                                                                               | 能够接受的字符集                                                                                                                                 | `Accept-Charset: utf-8`                                                            | 常设       |
-| Accept-Encoding                                                                                                              | 能够接受的编码方式列表。参考[HTTP压缩](../Page/HTTP压缩.md "wikilink")。                                                                                    | `Accept-Encoding: gzip, deflate`                                                   | 常设       |
-| Accept-Language                                                                                                              | 能够接受的回应内容的自然语言列表。参考 [内容协商](../Page/内容协商.md "wikilink") 。                                                                                 | `Accept-Language: en-US`                                                           | 常设       |
-| Accept-Datetime                                                                                                              | 能够接受的按照时间来表示的版本                                                                                                                          | `Accept-Datetime: Thu, 31 May 2007 20:35:00 GMT`                                   | 临时       |
-| Authorization                                                                                                                | 用于超文本传输协议的认证的认证信息                                                                                                                        | `Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==`                                | 常设       |
-| [Cache-Control](../Page/网页快照.md "wikilink")                                                                                  | 用来指定在这次的请求/响应链中的所有缓存机制 都必须 遵守的指令                                                                                                         | `Cache-Control: no-cache`                                                          | 常设       |
-| Connection                                                                                                                   | 该浏览器想要优先使用的连接类型 \[8\]                                                                                                                    | `Connection: keep-alive` `Connection: Upgrade`                                     | 常设       |
-| Cookie                                                                                                                       | 之前由服务器通过 Set- Cookie （下文详述）发送的一个 超文本传输协议Cookie                                                                                           | `Cookie: $Version=1; Skin=new;`                                                    | 常设: 标准   |
-| Content-Length                                                                                                               | 以 八位字节数组 （8位的字节）表示的请求体的长度                                                                                                                | `Content-Length: 348`                                                              | 常设       |
-| Content-MD5                                                                                                                  | 请求体的内容的二进制 MD5 散列值，以 Base64 编码的结果                                                                                                        | `Content-MD5: Q2hlY2sgSW50ZWdyaXR5IQ==`                                            | 过时的\[9\] |
-| Content-Type                                                                                                                 | 请求体的 多媒体类型 （用于POST和PUT请求中）                                                                                                               | `Content-Type: application/x-www-form-urlencoded`                                  | 常设       |
-| Date                                                                                                                         | 发送该消息的日期和时间(按照 RFC 7231 中定义的"超文本传输协议日期"格式来发送)                                                                                            | `Date: Tue, 15 Nov 1994 08:12:31 GMT`                                              | 常设       |
-| Expect                                                                                                                       | 表明客户端要求服务器做出特定的行为                                                                                                                        | `Expect: 100-continue`                                                             | 常设       |
-| From                                                                                                                         | 发起此请求的用户的邮件地址                                                                                                                            | `From: user@example.com`                                                           | 常设       |
-| Host                                                                                                                         | 服务器的域名(用于虚拟主机 )，以及服务器所监听的[传输控制协议端口号](../Page/传输控制协议.md "wikilink")。如果所请求的端口是对应的服务的标准端口，则端口号可被省略。 \[10\] 自超文件传输协议版本1.1（HTTP/1.1）开始便是必需字段。 | `Host: en.wikipedia.org:80` `Host: en.wikipedia.org`                               | 常设       |
-| If-Match                                                                                                                     | 仅当客户端提供的实体与服务器上对应的实体相匹配时，才进行对应的操作。主要作用时，用作像 PUT 这样的方法中，仅当从用户上次更新某个资源以来，该资源未被修改的情况下，才更新该资源。                                               | `If-Match: "737060cd8c284d8af7ad3082f209582d"`                                     | 常设       |
-| If-Modified-Since                                                                                                            | 允许在对应的内容未被修改的情况下返回304未修改（ 304 Not Modified ）                                                                                             | `If-Modified-Since: Sat, 29 Oct 1994 19:43:31 GMT`                                 | 常设       |
-| If-None-Match                                                                                                                | 允许在对应的内容未被修改的情况下返回304未修改（ 304 Not Modified ），参考 超文本传输协议 的[实体标记](../Page/HTTP_ETag.md "wikilink")                                         | `If-None-Match: "737060cd8c284d8af7ad3082f209582d"`                                | 常设       |
-| If-Range                                                                                                                     | 如果该实体未被修改过，则向我发送我所缺少的那一个或多个部分；否则，发送整个新的实体                                                                                                | `If-Range: "737060cd8c284d8af7ad3082f209582d"`                                     | 常设       |
-| If-Unmodified-Since                                                                                                          | 仅当该实体自某个特定时间已来未被修改的情况下，才发送回应。                                                                                                            | `If-Unmodified-Since: Sat, 29 Oct 1994 19:43:31 GMT`                               | 常设       |
-| Max-Forwards                                                                                                                 | 限制该消息可被代理及网关转发的次数。                                                                                                                       | `Max-Forwards: 10`                                                                 | 常设       |
-| Origin                                                                                                                       | 发起一个针对 跨来源资源共享 的请求（要求服务器在回应中加入一个‘访问控制-允许来源’（'Access-Control-Allow-Origin'）字段）。                                                           | `Origin: http://www.example-social-network.com`                                    | 常设: 标准   |
-| Pragma                                                                                                                       | 与具体的实现相关，这些字段可能在请求/回应链中的任何时候产生多种效果。                                                                                                      | `Pragma: no-cache`                                                                 | 常设但不常用   |
-| Proxy-Authorization                                                                                                          | 用来向代理进行认证的认证信息。                                                                                                                          | `Proxy-Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==`                          | 常设       |
-| <span id="Range" contenteditable="false"></span> Range                                                                       | 仅请求某个实体的一部分。字节偏移以0开始。参见[字节服务](../Page/字节服务.md "wikilink")。                                                                               | `Range: bytes=500-999`                                                             | 常设       |
-| [Referer](../Page/HTTP參照位址.md "wikilink")<span contenteditable="false"> </span>\[*[sic](../Page/sic.md "wikilink")*\] \[11\] | 表示浏览器所访问的前一个页面，正是那个页面上的某个链接将浏览器带到了当前所请求的这个页面。                                                                                            | `Referer: http://en.wikipedia.org/wiki/Main_Page`                                  | 常设       |
-| TE                                                                                                                           | 浏览器预期接受的传输编码方式：可使用回应协议头 Transfer-Encoding 字段中的值；另外还可用"trailers"（与"分块 "传输方式相关）这个值来表明浏览器希望在最后一个尺寸为0的块之后还接收到一些额外的字段。                        | ` TE: trailers,  `[`deflate`](../Page/DEFLATE.md "wikilink")                       | 常设       |
-| User-Agent                                                                                                                   | 浏览器的[浏览器身份标识字符串](../Page/用户代理.md "wikilink")                                                                                             | `User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/21.0` | 常设       |
-| Upgrade                                                                                                                      | 要求服务器升级到另一个协议。                                                                                                                           | `Upgrade: HTTP/2.0, SHTTP/1.3, IRC/6.9, RTA/x11`                                   | 常设       |
-| Via                                                                                                                          | 向服务器告知，这个请求是由哪些代理发出的。                                                                                                                    | `Via: 1.0 fred, 1.1 example.com (Apache/1.1)`                                      | 常设       |
-| Warning                                                                                                                      | 一个一般性的警告，告知，在实体内容体中可能存在错误。                                                                                                               | `Warning: 199 Miscellaneous warning`                                               | 常设       |
+| 协议头字段名                                                                                                                                          | 说明                                                                                                                                       | 示例                                                                                 | 状态       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------- |
+| Accept                                                                                                                                          | 能够接受的回应内容类型（Content-Types）。参见[内容协商](https://zh.wikipedia.org/wiki/内容协商 "wikilink")。                                                      | `Accept: text/plain`                                                               | 常设       |
+| Accept-Charset                                                                                                                                  | 能够接受的字符集                                                                                                                                 | `Accept-Charset: utf-8`                                                            | 常设       |
+| Accept-Encoding                                                                                                                                 | 能够接受的编码方式列表。参考[HTTP压缩](../Page/HTTP压缩.md "wikilink")。                                                                                    | `Accept-Encoding: gzip, deflate`                                                   | 常设       |
+| Accept-Language                                                                                                                                 | 能够接受的回应内容的自然语言列表。参考 [内容协商](https://zh.wikipedia.org/wiki/内容协商 "wikilink") 。                                                              | `Accept-Language: en-US`                                                           | 常设       |
+| Accept-Datetime                                                                                                                                 | 能够接受的按照时间来表示的版本                                                                                                                          | `Accept-Datetime: Thu, 31 May 2007 20:35:00 GMT`                                   | 临时       |
+| Authorization                                                                                                                                   | 用于超文本传输协议的认证的认证信息                                                                                                                        | `Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==`                                | 常设       |
+| [Cache-Control](https://zh.wikipedia.org/wiki/网页快照 "wikilink")                                                                                  | 用来指定在这次的请求/响应链中的所有缓存机制 都必须 遵守的指令                                                                                                         | `Cache-Control: no-cache`                                                          | 常设       |
+| Connection                                                                                                                                      | 该浏览器想要优先使用的连接类型 \[8\]                                                                                                                    | `Connection: keep-alive` `Connection: Upgrade`                                     | 常设       |
+| Cookie                                                                                                                                          | 之前由服务器通过 Set- Cookie （下文详述）发送的一个 超文本传输协议Cookie                                                                                           | `Cookie: $Version=1; Skin=new;`                                                    | 常设: 标准   |
+| Content-Length                                                                                                                                  | 以 八位字节数组 （8位的字节）表示的请求体的长度                                                                                                                | `Content-Length: 348`                                                              | 常设       |
+| Content-MD5                                                                                                                                     | 请求体的内容的二进制 MD5 散列值，以 Base64 编码的结果                                                                                                        | `Content-MD5: Q2hlY2sgSW50ZWdyaXR5IQ==`                                            | 过时的\[9\] |
+| Content-Type                                                                                                                                    | 请求体的 多媒体类型 （用于POST和PUT请求中）                                                                                                               | `Content-Type: application/x-www-form-urlencoded`                                  | 常设       |
+| Date                                                                                                                                            | 发送该消息的日期和时间(按照 RFC 7231 中定义的"超文本传输协议日期"格式来发送)                                                                                            | `Date: Tue, 15 Nov 1994 08:12:31 GMT`                                              | 常设       |
+| Expect                                                                                                                                          | 表明客户端要求服务器做出特定的行为                                                                                                                        | `Expect: 100-continue`                                                             | 常设       |
+| From                                                                                                                                            | 发起此请求的用户的邮件地址                                                                                                                            | `From: user@example.com`                                                           | 常设       |
+| Host                                                                                                                                            | 服务器的域名(用于虚拟主机 )，以及服务器所监听的[传输控制协议端口号](../Page/传输控制协议.md "wikilink")。如果所请求的端口是对应的服务的标准端口，则端口号可被省略。 \[10\] 自超文件传输协议版本1.1（HTTP/1.1）开始便是必需字段。 | `Host: en.wikipedia.org:80` `Host: en.wikipedia.org`                               | 常设       |
+| If-Match                                                                                                                                        | 仅当客户端提供的实体与服务器上对应的实体相匹配时，才进行对应的操作。主要作用时，用作像 PUT 这样的方法中，仅当从用户上次更新某个资源以来，该资源未被修改的情况下，才更新该资源。                                               | `If-Match: "737060cd8c284d8af7ad3082f209582d"`                                     | 常设       |
+| If-Modified-Since                                                                                                                               | 允许在对应的内容未被修改的情况下返回304未修改（ 304 Not Modified ）                                                                                             | `If-Modified-Since: Sat, 29 Oct 1994 19:43:31 GMT`                                 | 常设       |
+| If-None-Match                                                                                                                                   | 允许在对应的内容未被修改的情况下返回304未修改（ 304 Not Modified ），参考 超文本传输协议 的[实体标记](../Page/HTTP_ETag.md "wikilink")                                         | `If-None-Match: "737060cd8c284d8af7ad3082f209582d"`                                | 常设       |
+| If-Range                                                                                                                                        | 如果该实体未被修改过，则向我发送我所缺少的那一个或多个部分；否则，发送整个新的实体                                                                                                | `If-Range: "737060cd8c284d8af7ad3082f209582d"`                                     | 常设       |
+| If-Unmodified-Since                                                                                                                             | 仅当该实体自某个特定时间已来未被修改的情况下，才发送回应。                                                                                                            | `If-Unmodified-Since: Sat, 29 Oct 1994 19:43:31 GMT`                               | 常设       |
+| Max-Forwards                                                                                                                                    | 限制该消息可被代理及网关转发的次数。                                                                                                                       | `Max-Forwards: 10`                                                                 | 常设       |
+| Origin                                                                                                                                          | 发起一个针对 跨来源资源共享 的请求（要求服务器在回应中加入一个‘访问控制-允许来源’（'Access-Control-Allow-Origin'）字段）。                                                           | `Origin: http://www.example-social-network.com`                                    | 常设: 标准   |
+| Pragma                                                                                                                                          | 与具体的实现相关，这些字段可能在请求/回应链中的任何时候产生多种效果。                                                                                                      | `Pragma: no-cache`                                                                 | 常设但不常用   |
+| Proxy-Authorization                                                                                                                             | 用来向代理进行认证的认证信息。                                                                                                                          | `Proxy-Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==`                          | 常设       |
+| <span id="Range" contenteditable="false"></span> Range                                                                                          | 仅请求某个实体的一部分。字节偏移以0开始。参见[字节服务](https://zh.wikipedia.org/wiki/字节服务 "wikilink")。                                                            | `Range: bytes=500-999`                                                             | 常设       |
+| [Referer](../Page/HTTP參照位址.md "wikilink")<span contenteditable="false"> </span>\[*[sic](https://zh.wikipedia.org/wiki/sic "wikilink")*\] \[11\] | 表示浏览器所访问的前一个页面，正是那个页面上的某个链接将浏览器带到了当前所请求的这个页面。                                                                                            | `Referer: http://en.wikipedia.org/wiki/Main_Page`                                  | 常设       |
+| TE                                                                                                                                              | 浏览器预期接受的传输编码方式：可使用回应协议头 Transfer-Encoding 字段中的值；另外还可用"trailers"（与"分块 "传输方式相关）这个值来表明浏览器希望在最后一个尺寸为0的块之后还接收到一些额外的字段。                        | ` TE: trailers,  `[`deflate`](../Page/DEFLATE.md "wikilink")                       | 常设       |
+| User-Agent                                                                                                                                      | 浏览器的[浏览器身份标识字符串](../Page/用户代理.md "wikilink")                                                                                             | `User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/21.0` | 常设       |
+| Upgrade                                                                                                                                         | 要求服务器升级到另一个协议。                                                                                                                           | `Upgrade: HTTP/2.0, SHTTP/1.3, IRC/6.9, RTA/x11`                                   | 常设       |
+| Via                                                                                                                                             | 向服务器告知，这个请求是由哪些代理发出的。                                                                                                                    | `Via: 1.0 fred, 1.1 example.com (Apache/1.1)`                                      | 常设       |
+| Warning                                                                                                                                         | 一个一般性的警告，告知，在实体内容体中可能存在错误。                                                                                                               | `Warning: 199 Miscellaneous warning`                                               | 常设       |
 
 ### 常见的非标准请求字段
 
@@ -130,7 +130,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 <td><p>常设</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/网页快照.md" title="wikilink">Cache-Control</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/网页快照" title="wikilink">Cache-Control</a></p></td>
 <td><p>向从服务器直到客户端在内的所有缓存机制告知，它们是否可以缓存这个对象。其单位为秒</p></td>
 <td><p><code>Cache-Control: max-age=3600</code></p></td>
 <td><p>常设</p></td>
@@ -185,7 +185,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 </tr>
 <tr class="odd">
 <td><p>Content-Type</p></td>
-<td><p>当前内容的<a href="../Page/MIME.md" title="wikilink">MIME类型</a></p></td>
+<td><p>当前内容的<a href="https://zh.wikipedia.org/wiki/MIME" title="wikilink">MIME类型</a></p></td>
 <td><p><code>Content-Type: text/html; charset=utf-8</code></p></td>
 <td><p>常设</p></td>
 </tr>
@@ -220,14 +220,14 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 <td><p>常设</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/HTTP_Location.md" title="wikilink">Location</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HTTP_Location" title="wikilink">Location</a></p></td>
 <td><p>用来 进行重定向，或者在创建了某个新资源时使用。</p></td>
 <td><p><code>Location: http://www.w3.org/pub/WWW/People.html</code></p></td>
 <td><p>常设</p></td>
 </tr>
 <tr class="even">
 <td><p>P3P</p></td>
-<td><p>用于支持设置<a href="../Page/P3P.md" title="wikilink">P3P策略</a>，标准格式为“<code>P3P:CP="your_compact_policy"</code>”。然而P3P规范并不成功，[34]大部分现代浏览器没有完整实现该功能，而大量网站也将该值设为假值，从而足以用来欺骗浏览器的P3P插件功能并授权给第三方Cookies。</p></td>
+<td><p>用于支持设置<a href="https://zh.wikipedia.org/wiki/P3P" title="wikilink">P3P策略</a>，标准格式为“<code>P3P:CP="your_compact_policy"</code>”。然而P3P规范并不成功，[34]大部分现代浏览器没有完整实现该功能，而大量网站也将该值设为假值，从而足以用来欺骗浏览器的P3P插件功能并授权给第三方Cookies。</p></td>
 <td><p><code>P3P: CP="This is not a P3P policy!</code><code>See http://www.google.com/support/accounts/bin/answer.py?hl=en&amp;answer=151657 for more info."</code></p></td>
 <td><p>常设</p></td>
 </tr>
@@ -245,7 +245,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/HTTP公钥固定.md" title="wikilink">Public-Key-Pins</a>[35]</p></td>
-<td><p>用于缓解<a href="../Page/中间人攻击.md" title="wikilink">中间人攻击</a>，声明网站认证使用的<a href="../Page/传输层安全协议.md" title="wikilink">传输层安全协议证书的散列值</a></p></td>
+<td><p>用于缓解<a href="../Page/中间人攻击.md" title="wikilink">中间人攻击</a>，声明网站认证使用的<a href="https://zh.wikipedia.org/wiki/传输层安全协议" title="wikilink">传输层安全协议证书的散列值</a></p></td>
 <td><p><code>Public-Key-Pins: max-age=2592000; pin-sha256="E9CZ9INDbd+2eRQozYqqbQ2yXLVKB9+xcprMF+44U1g=";</code></p></td>
 <td><p>常设</p></td>
 </tr>
@@ -393,7 +393,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 ## 参见
 
-  - [cookie](../Page/cookie.md "wikilink")
+  - [cookie](https://zh.wikipedia.org/wiki/cookie "wikilink")
 
 ## 参考文献
 
@@ -430,7 +430,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 1.  <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](../Page/rfc:7230#section-3.2.4.md "wikilink").
+    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-3.2.4 "wikilink").
     ietf.org<span class="reference-accessdate">. </span></cite>
 2.
 3.
@@ -443,14 +443,16 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
     </cite>
 8.  <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](../Page/rfc:7230#section-6.1.md "wikilink"). </cite>
+    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-6.1 "wikilink").
+    </cite>
 9.  <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Semantics and
-    Content"](../Page/rfc:7231#appendix-B.md "wikilink")<span class="reference-accessdate">.
+    Content"](https://zh.wikipedia.org/wiki/rfc:7231#appendix-B "wikilink")<span class="reference-accessdate">.
     </span></cite>
 10. <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](../Page/rfc:7230#section-5.4.md "wikilink"). </cite>
+    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-5.4 "wikilink").
+    </cite>
 11. “引导者”（“referrer”）这个单词，在RFC
     中被拼错了，因此在大部分的软件实现中也拼错了，以至于，错误的拼法成为了标准的用法，还被当成了正确的术语。
 12. <cite class="citation web" contenteditable="false">["Try out the "Do
@@ -503,18 +505,19 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
     Protection"](https://docs.angularjs.org/api/ng/service/$http#cross-site-request-forgery-xsrf-protection).
     </cite>。
 28. <cite class="citation web" contenteditable="false">["RFC
-    5789"](../Page/rfc:5789#section-3.1.md "wikilink")<span class="reference-accessdate">.
+    5789"](https://zh.wikipedia.org/wiki/rfc:5789#section-3.1 "wikilink")<span class="reference-accessdate">.
     </span></cite>
 29. <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](../Page/rfc:7230#section-6.1.md "wikilink"). </cite>
+    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-6.1 "wikilink").
+    </cite>
 30. <cite class="citation web" contenteditable="false">["RFC
-    6266"](../Page/rfc:6266.md "wikilink")<span class="reference-accessdate">.
+    6266"](https://zh.wikipedia.org/wiki/rfc:6266 "wikilink")<span class="reference-accessdate">.
     </span></cite>
-31. [<https://tools.ietf.org/html/rfc7231#section-3.1.3.2>](../Page/rfc:7231#section-3.1.3.2.md "wikilink")<span>[<font size="1"><font color="black">(</font><u><font color="#CC0000">123cha</font></u><font color="black">)</font></font>](http://www.123cha.com/ip/?q=)</span>
+31. [<https://tools.ietf.org/html/rfc7231#section-3.1.3.2>](https://zh.wikipedia.org/wiki/rfc:7231#section-3.1.3.2 "wikilink")<span>[<font size="1"><font color="black">(</font><u><font color="#CC0000">123cha</font></u><font color="black">)</font></font>](http://www.123cha.com/ip/?q=)</span>
 32. <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Semantics and
-    Content"](../Page/rfc:7231#appendix-B.md "wikilink")<span class="reference-accessdate">.
+    Content"](https://zh.wikipedia.org/wiki/rfc:7231#appendix-B "wikilink")<span class="reference-accessdate">.
     </span></cite>
 33. [Indicate the canonical version of a URL by responding with the Link
     rel="canonical" HTTP
@@ -526,14 +529,16 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
     HTTP"](http://www.rfc-editor.org/rfc/rfc7469.txt). </cite>
 36. <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Semantics and
-    Content"](../Page/rfc:7231#section-7.1.3.md "wikilink")<span class="reference-accessdate">.
+    Content"](https://zh.wikipedia.org/wiki/rfc:7231#section-7.1.3 "wikilink")<span class="reference-accessdate">.
     </span></cite>
 37. <cite class="citation web" contenteditable="false">["Hypertext
     Transfer Protocol (HTTP/1.1): Message Syntax and
-    Routing"](../Page/rfc:7230#section-3.1.2.md "wikilink")<span class="reference-accessdate">.
+    Routing"](https://zh.wikipedia.org/wiki/rfc:7230#section-3.1.2 "wikilink")<span class="reference-accessdate">.
     </span></cite>
 38. <cite class="citation web" contenteditable="false">["HTTP Header
-    Field X-Frame-Options"](../Page/rfc:7034.md "wikilink"). </cite>
+    Field
+    X-Frame-Options"](https://zh.wikipedia.org/wiki/rfc:7034 "wikilink").
+    </cite>
 39. <cite class="citation web" contenteditable="false">["Content
     Security Policy
     Level 2"](http://www.w3.org/TR/CSP11/#frame-ancestors-and-frame-options)<span class="reference-accessdate">.

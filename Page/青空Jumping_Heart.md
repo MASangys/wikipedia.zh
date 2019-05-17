@@ -4,7 +4,7 @@ Heart》**（）是[Aqours的单曲](../Page/Aqours.md "wikilink")，2016年7月
 ## 概要
 
 本单曲是“LoveLive\!Sunshine\!\!”推出的组合Aqours的单曲，也是动画《[LoveLive\!
-Sunshine\!\!](../Page/LoveLive!_Sunshine!!.md "wikilink")》的[片头曲](../Page/片头曲.md "wikilink")。初回限定CD还随机附赠了Aqours人物卡片一张（共9种）。
+Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》的[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")。初回限定CD还随机附赠了Aqours人物卡片一张（共9种）。
 
 单曲发售首日，在Oricon公信榜日榜排名第6\[3\]，发行首周以约4.7万张的销量在Oricon公信榜周榜排名第4及动画歌曲榜第1位\[4\]\[5\]\[6\]。
 
@@ -14,7 +14,7 @@ Sunshine\!\!](../Page/LoveLive!_Sunshine!!.md "wikilink")》的[片头曲](../Pa
 
 1.  ****\[4:44\]
 
-      - 作詞：[畑亚贵](../Page/畑亚贵.md "wikilink")，作曲：伊藤贤、，編曲：EFFY
+      - 作詞：[畑亚贵](https://zh.wikipedia.org/wiki/畑亚贵 "wikilink")，作曲：伊藤贤、，編曲：EFFY
 
 2.  *****（Humming Friend）*\[5:10\]
 

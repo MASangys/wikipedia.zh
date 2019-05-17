@@ -4,7 +4,7 @@
 
 ## 法律地位
 
-1956年泰国将私人，成人，自愿和非商业的[同性性行為行为](../Page/同性性行為.md "wikilink")[非刑事化](../Page/除罪化.md "wikilink")。\[2\]同意年龄定为15岁。
+1956年泰国将私人，成人，自愿和非商业的[同性性行為行为](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")[非刑事化](https://zh.wikipedia.org/wiki/除罪化 "wikilink")。\[2\]同意年龄定为15岁。
 
 20世纪90年代特别是21世纪初泰国对同性恋问题开始改变态度和公共政策。2002年，泰国卫生部教育部公开宣称，同性恋不再被视为一种心理疾病或障碍。\[3\]
 
@@ -12,14 +12,14 @@
 
 2007年，泰国政府扩大了性侵犯或强奸受害者的定义，受害者包括女性和男性。\[4\]政府还禁止婚内强奸，女性或男性在法律上都可以成为受害者。
 
-2009年5月，尽管事先曾有活动，但泰国红十字会还是重申禁止[男男性接触人群](../Page/男男性接触人群.md "wikilink")（MSM）献血。\[5\]自2015年7月开始，泰国红十字会允许同性恋及双性恋男子献血，没有延迟期限。\[6\]
+2009年5月，尽管事先曾有活动，但泰国红十字会还是重申禁止[男男性接触人群](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")（MSM）献血。\[5\]自2015年7月开始，泰国红十字会允许同性恋及双性恋男子献血，没有延迟期限。\[6\]
 
 ## 基于性取向和性别认同的法律保护
 
 2015年3月13日，性别平等法“B.E.
 2558”颁布并于2015年9月9日生效。该法案指出对性与性别的歧视，包括对[LGBT的歧视是刑事犯罪](../Page/LGBT.md "wikilink")，这是提到同性恋者的第一部法律。该法律规定，不公平的歧视男性，女性或“拥有异于传统的性别表达的人”，将定为犯罪行为，教育，宗教和公共利益除外。\[7\]\[8\]
 
-，也有少数官员针对LGBT人群的暴力行为或不公平的歧视报道。例如，在工作场所对跨性别的宽容往往只是对电视喜剧演员和歌舞表演者，这是[泰國變性女性的传统工作](../Page/泰國變性女性.md "wikilink")。这方面的一个显着的例子是[芭達亞的城堡剧院](../Page/芭達亞.md "wikilink")。然而，在其他就业领域或在为公众服务的行业（例如，银行，教育，住房，执法，零售）是否存在不平等还没有正式研究。
+，也有少数官员针对LGBT人群的暴力行为或不公平的歧视报道。例如，在工作场所对跨性别的宽容往往只是对电视喜剧演员和歌舞表演者，这是[泰國變性女性的传统工作](../Page/泰國變性女性.md "wikilink")。这方面的一个显着的例子是[芭達亞的城堡剧院](https://zh.wikipedia.org/wiki/芭達亞 "wikilink")。然而，在其他就业领域或在为公众服务的行业（例如，银行，教育，住房，执法，零售）是否存在不平等还没有正式研究。
 
 ## 宪法保护
 
@@ -29,7 +29,7 @@
 
 泰国现行法律不承认同性婚姻，民事结合或同居伴侣关系，目前还不清楚同性伴侣或LGBT个人是否允许领养或拥有孩子的监护权。
 
-[艾爾頓·約翰注册](../Page/艾爾頓·約翰.md "wikilink")[民事伴侣的新闻使泰国LGBT群体批评泰国政府对他们缺乏这样法律上的承认](../Page/英國民事伴侶關係.md "wikilink")。尽管没有正式的法律认可，泰国同性伴侣往往被公众接受，尤其是在更多的城市地区，如[曼谷](../Page/曼谷.md "wikilink")，[普吉和](../Page/普吉府.md "wikilink")[芭達亞](../Page/芭達亞.md "wikilink")。
+[艾爾頓·約翰注册](../Page/艾爾頓·約翰.md "wikilink")[民事伴侣的新闻使泰国LGBT群体批评泰国政府对他们缺乏这样法律上的承认](https://zh.wikipedia.org/wiki/英國民事伴侶關係 "wikilink")。尽管没有正式的法律认可，泰国同性伴侣往往被公众接受，尤其是在更多的城市地区，如[曼谷](../Page/曼谷.md "wikilink")，[普吉和](../Page/普吉府.md "wikilink")[芭達亞](https://zh.wikipedia.org/wiki/芭達亞 "wikilink")。
 
 2011年9月，泰国国家人权委员会（政府机构）和性别多样性网络（非政府组织）提出了关于同性婚姻的法律草案，并正在寻求泰国政府对法律的支持。\[9\]\[10\]
 
@@ -45,23 +45,23 @@
 
 ## 概况
 
-|                                                   |                                                                                                |
-| ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 同性性行为合法                                           | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自1956年） |
-| 同意年龄平等                                            | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自1997年） |
-| 反就业歧视法律                                           | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2015年） |
-| 提供商品和服务的反歧视法律                                     | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2015年） |
-| 在所有其他领域的反歧视法律（包括间接歧视，仇恨言论）                        | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2015年） |
-| 同性婚姻                                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
-| 同性伴侣关系                                            | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（提议中）             |
-| 同性伴侣收养继子女                                         | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
-| 同性伴侣联合收养                                          | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
-| 同性恋军人允许公开服役                                       | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2005年） |
-| 有权手术改变性别                                          | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") \[16\]  |
-| 有权改变法律性别                                          | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
-| 女同性恋试管婴儿                                          | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") \[17\]  |
-| 男同性恋情侣商业代孕                                        | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
-| [男男性接触人群](../Page/男男性接触人群.md "wikilink")（MSM）允许献血 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")\[18\]   |
+|                                                                      |                                                                                                |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 同性性行为合法                                                              | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自1956年） |
+| 同意年龄平等                                                               | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自1997年） |
+| 反就业歧视法律                                                              | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2015年） |
+| 提供商品和服务的反歧视法律                                                        | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2015年） |
+| 在所有其他领域的反歧视法律（包括间接歧视，仇恨言论）                                           | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2015年） |
+| 同性婚姻                                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
+| 同性伴侣关系                                                               | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（提议中）             |
+| 同性伴侣收养继子女                                                            | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
+| 同性伴侣联合收养                                                             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
+| 同性恋军人允许公开服役                                                          | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2005年） |
+| 有权手术改变性别                                                             | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") \[16\]  |
+| 有权改变法律性别                                                             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
+| 女同性恋试管婴儿                                                             | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") \[17\]  |
+| 男同性恋情侣商业代孕                                                           | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                  |
+| [男男性接触人群](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")（MSM）允许献血 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")\[18\]   |
 
 ## 另见
 

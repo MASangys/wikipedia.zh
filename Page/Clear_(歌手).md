@@ -1,4 +1,4 @@
-clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等。在[NICONICO動畫上發表自己的翻唱作品](../Page/NICONICO動畫.md "wikilink")，以[VOCALOID的歌曲為主](../Page/VOCALOID.md "wikilink")。第一張專輯『Dearest』在[Oricon公信榜上得到第九名的紀錄](../Page/Oricon公信榜.md "wikilink")\[1\]。特色是和名字「clear」一樣乾淨透徹的聲音。
+clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等。在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以[VOCALOID的歌曲為主](../Page/VOCALOID.md "wikilink")。第一張專輯『Dearest』在[Oricon公信榜上得到第九名的紀錄](../Page/Oricon公信榜.md "wikilink")\[1\]。特色是和名字「clear」一樣乾淨透徹的聲音。
 
 ## niconico動畫
 
@@ -75,9 +75,9 @@ clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等�
 <td><p>Shining</p></td>
 <td><p>2011年4月27日</p></td>
 <td><p>31</p></td>
-<td><p>1. Shining ／ 作詞：<a href="../Page/川島だりあ.md" title="wikilink">川島だりあ</a>、作曲：<a href="../Page/後藤康二.md" title="wikilink">後藤康二</a><br />
+<td><p>1. Shining ／ 作詞：<a href="https://zh.wikipedia.org/wiki/川島だりあ" title="wikilink">川島だりあ</a>、作曲：<a href="https://zh.wikipedia.org/wiki/後藤康二" title="wikilink">後藤康二</a><br />
 2. ライムライトガール ／ 糞田舎Ｐ<br />
-3. <a href="../Page/君の知らない物語.md" title="wikilink">君の知らない物語</a> ／ <a href="../Page/Supercell.md" title="wikilink">ryo</a><br />
+3. <a href="https://zh.wikipedia.org/wiki/君の知らない物語" title="wikilink">君の知らない物語</a> ／ <a href="https://zh.wikipedia.org/wiki/Supercell" title="wikilink">ryo</a><br />
 4. Shining (off vocal)<br />
 5. ライムライトガール (off vocal)<br />
 6. 君の知らない物語 (off vocal)</p></td>
@@ -104,30 +104,30 @@ clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等�
 <td><p>Dearest</p></td>
 <td><p>2010年9月8日</p></td>
 <td><p>9</p></td>
-<td><p>1. Calc. ／ <a href="../Page/ジミーサムP.md" title="wikilink">ジミーサムP</a><br />
+<td><p>1. Calc. ／ <a href="https://zh.wikipedia.org/wiki/ジミーサムP" title="wikilink">ジミーサムP</a><br />
 2. 「ねぇ。」 ／ ナノウ(ほえほえP)<br />
-3. <a href="../Page/いろは唄.md" title="wikilink">いろは唄</a> feat.蛇足 ／ 銀サク<br />
+3. <a href="https://zh.wikipedia.org/wiki/いろは唄" title="wikilink">いろは唄</a> feat.蛇足 ／ 銀サク<br />
 4. Sweet Sweet Cendrillon Drug ／ 作詞：Leda、作曲・編曲：葛西ゆうじ<br />
 5. ゆびきり ／ 作詞:☆彩☆、作曲:やながもP<br />
 6. Fire◎Flower ／ 作詞・作曲：halyosy、編曲:安保一生<br />
 7. 闇色アリス ／ samfree<br />
-8. カンタレラ feat.nero ／ <a href="../Page/WhiteFlame.md" title="wikilink">WhiteFlame</a><br />
+8. カンタレラ feat.nero ／ <a href="https://zh.wikipedia.org/wiki/WhiteFlame" title="wikilink">WhiteFlame</a><br />
 9. Under the Snow ／ 作詞・作曲：clear、編曲：安保一生<br />
-10. <a href="../Page/from_Y_to_Y.md" title="wikilink">from Y to Y</a> ／ ジミーサムP</p></td>
+10. <a href="https://zh.wikipedia.org/wiki/from_Y_to_Y" title="wikilink">from Y to Y</a> ／ ジミーサムP</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Dearest II</p></td>
 <td><p>2011年7月20日</p></td>
 <td><p>21</p></td>
-<td><p>1. Just Be Friends ／ 作詞・作曲:DixieFlatline、編曲：<a href="../Page/LIT-HUM.md" title="wikilink">LIT-HUM</a><br />
+<td><p>1. Just Be Friends ／ 作詞・作曲:DixieFlatline、編曲：<a href="https://zh.wikipedia.org/wiki/LIT-HUM" title="wikilink">LIT-HUM</a><br />
 2. 教えて ／ 作詞：☆彩☆、作曲：やながも、編曲：安保一生<br />
-3. アシタへ ／ 作詞：<a href="../Page/らっぷびと.md" title="wikilink">らっぷびと</a>、作詞・編曲:ryo<br />
+3. アシタへ ／ 作詞：<a href="https://zh.wikipedia.org/wiki/らっぷびと" title="wikilink">らっぷびと</a>、作詞・編曲:ryo<br />
 4. Because of you ／ 作詞・作曲・編曲：May Flower)<br />
-5. 変わらぬ想い ／ 作詞：clear&amp;安保一生、作曲：clear、編曲：<a href="../Page/大島こうすけ.md" title="wikilink">大島こうすけ</a><br />
+5. 変わらぬ想い ／ 作詞：clear&amp;安保一生、作曲：clear、編曲：<a href="https://zh.wikipedia.org/wiki/大島こうすけ" title="wikilink">大島こうすけ</a><br />
 6. 秘事 ／ 作詞・作曲：<a href="../Page/OSTER_project.md" title="wikilink">OSTER project</a>、編曲：安保一生<br />
 7. 星屑ユートピアfeat.nero ／ 作詞・作曲：otetsu、編曲：安保一生<br />
-8. ナミダノキセキ(PSPゲーム「マスケティア」EDテーマ) ／ 作詞：MIZUE、作曲・編曲：<a href="../Page/前嶋康明.md" title="wikilink">前嶋康明</a><br />
+8. ナミダノキセキ(PSPゲーム「マスケティア」EDテーマ) ／ 作詞：MIZUE、作曲・編曲：<a href="https://zh.wikipedia.org/wiki/前嶋康明" title="wikilink">前嶋康明</a><br />
 9. Daybreak ／ 作詞：clear&amp;puruto、作曲：clear、編曲：安保一生<br />
 10. 夢喰い白黒バク ／ 作詞・作曲・編曲：Nem<br />
 11. Pianissimo ／ 作詞：clear&amp;marasy、作曲：marasy、編曲：安保一生&amp;marasy<br />
@@ -160,9 +160,9 @@ clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等�
 
 ## 相關條目
 
-  - [NICONICO動畫](../Page/NICONICO動畫.md "wikilink")
+  - [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
-  - [cleanero](../Page/cleanero.md "wikilink")
+  - [cleanero](https://zh.wikipedia.org/wiki/cleanero "wikilink")
 
 ## 參考資料
 

@@ -1,5 +1,5 @@
 **choco
-chip**是[日本女性](../Page/日本.md "wikilink")[插畫家](../Page/插畫家.md "wikilink")、[原畫師](../Page/原畫師.md "wikilink")，出身於[東京都](../Page/東京都.md "wikilink")。從小學開始學畫並且受到[Cocktail
+chip**是[日本女性](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[原畫師](https://zh.wikipedia.org/wiki/原畫師 "wikilink")，出身於[東京都](../Page/東京都.md "wikilink")。從小學開始學畫並且受到[Cocktail
 Soft的](../Page/Cocktail_Soft.md "wikilink")《》和《》的影響。\[1\]進入[Atelier
 KAGUYA後擔任旗下團隊Berkshire](../Page/Atelier_KAGUYA.md "wikilink")
 Yorkshire的主要畫師，最早是畫凌辱系遊戲，後來才改畫純愛系遊戲為主。2010年辭職離開後\[2\]，直到2013年復職並且擔任旗下團隊BARE
@@ -13,7 +13,7 @@ Yorkshire的主要畫師，最早是畫凌辱系遊戲，後來才改畫純愛�
 
   - Berkshire Yorkshire
 
-#### [戲畫](../Page/戲畫.md "wikilink")
+#### [戲畫](https://zh.wikipedia.org/wiki/戲畫 "wikilink")
 
   -
 #### よかれとおもってやったのに

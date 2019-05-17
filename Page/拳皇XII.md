@@ -1,5 +1,5 @@
 是[SNK
-Playmore](../Page/SNK_Playmore.md "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](../Page/格斗游戏.md "wikilink")，最初在2009年于日本登陆[街机平台](../Page/街机.md "wikilink")，同年移植至[PlayStation
+Playmore](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，最初在2009年于日本登陆[街机平台](../Page/街机.md "wikilink")，同年移植至[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[Xbox
 360平台](../Page/Xbox_360.md "wikilink")，並在包括日本和欧美等地发行。
 

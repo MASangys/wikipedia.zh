@@ -1,9 +1,9 @@
 **iPhone
-SE**是由[蘋果公司設計銷售的智能電話](../Page/苹果公司.md "wikilink")。於[太平洋時間](../Page/太平洋時間.md "wikilink")2016年3月21日（[臺灣](../Page/國家標準時間.md "wikilink")、[北京](../Page/北京时间.md "wikilink")、[香港時間](../Page/香港時間.md "wikilink")2016年3月22日上午1時）發佈，擁有相似[iPhone
-5s的外觀](../Page/iPhone_5s.md "wikilink")，因此被認為[iPhone
-5s的繼任](../Page/iPhone_5s.md "wikilink")\[1\]。內部硬件使用[iPhone
-6s上所使用的](../Page/iPhone_6s.md "wikilink")[苹果A9處理器以及iPhone](../Page/苹果A9.md "wikilink")
-6+的[收發訊號組件](../Page/收發訊號組件.md "wikilink")、各種感應器等外圍組件，外觀、螢幕組件則是採用iPhone
+SE**是由[蘋果公司設計銷售的智能電話](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。於[太平洋時間](https://zh.wikipedia.org/wiki/太平洋時間 "wikilink")2016年3月21日（[臺灣](../Page/國家標準時間.md "wikilink")、[北京](../Page/北京时间.md "wikilink")、[香港時間](../Page/香港時間.md "wikilink")2016年3月22日上午1時）發佈，擁有相似[iPhone
+5s的外觀](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")，因此被認為[iPhone
+5s的繼任](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")\[1\]。內部硬件使用[iPhone
+6s上所使用的](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")[苹果A9處理器以及iPhone](https://zh.wikipedia.org/wiki/苹果A9 "wikilink")
+6+的[收發訊號組件](https://zh.wikipedia.org/wiki/收發訊號組件 "wikilink")、各種感應器等外圍組件，外觀、螢幕組件則是採用iPhone
 5s的，市場定位及定價上屬於入門级價格，以供應發展中國家潛在客戶升級iPhone之用，以及取代iPhone
 5s等小螢幕使用者的手機。\[2\]2017年3月24日，該型號再推出32GB及128GB兩種容量版本。iPhone
 SE是最後一個設有3.5mm耳機埠的iPhone。
@@ -13,37 +13,39 @@ SE是最後一個設有3.5mm耳機埠的iPhone。
 ### 外觀
 
 iPhone SE沿用了[iPhone
-5s的機身設計](../Page/iPhone_5s.md "wikilink")，可以兼容相關的配件，例如保護套等等。縱使硬件配置與6s相約，但SE並沒有採用與6s相同的7000系列鋁金屬。中間蘋果標誌則是簍空設計，並是[iPhone歷來首次在](../Page/iPhone.md "wikilink")4吋機型之中加入玫瑰金配色。
+5s的機身設計](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")，可以兼容相關的配件，例如保護套等等。縱使硬件配置與6s相約，但SE並沒有採用與6s相同的7000系列鋁金屬。中間蘋果標誌則是簍空設計，並是[iPhone歷來首次在](https://zh.wikipedia.org/wiki/iPhone "wikilink")4吋機型之中加入玫瑰金配色。
 
 ### 性能
 
 iPhone SE採用與[iPhone
-6s一致的](../Page/iPhone_6s.md "wikilink")[A9晶片](../Page/Apple_A9.md "wikilink")，比起[iPhone
-5s的](../Page/iPhone_5s.md "wikilink")[A7晶片擁有](../Page/Apple_A7.md "wikilink")2倍的CPU性能、3倍的GPU性能，也因為新晶片的節能效果，使用時間大幅延長。RAM
+6s一致的](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")[A9晶片](../Page/Apple_A9.md "wikilink")，比起[iPhone
+5s的](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")[A7晶片擁有](../Page/Apple_A7.md "wikilink")2倍的CPU性能、3倍的GPU性能，也因為新晶片的節能效果，使用時間大幅延長。RAM
 亦與iPhone 6s一樣為2 GB。是市場唯一性能頂規的4吋小手機。
 
 ### 相機
 
 採用與[iPhone
-6s相同的](../Page/iPhone_6s.md "wikilink")1200萬像素iSight鏡頭，比[iPhone
-5s的](../Page/iPhone_5s.md "wikilink")800萬像素有所提升。FaceTime鏡頭維持[iPhone
-5s的](../Page/iPhone_5s.md "wikilink")120萬像素。支持Live Photos。
+6s相同的](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")1200萬像素iSight鏡頭，比[iPhone
+5s的](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")800萬像素有所提升。FaceTime鏡頭維持[iPhone
+5s的](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")120萬像素。支持Live
+Photos。
 
 ### 螢幕
 
-使用和[iPhone 5s相同的Retina顯示器](../Page/iPhone_5s.md "wikilink")，1136 x 640
-像素，326 ppi 解析度。支援Retina Flash。
+使用和[iPhone
+5s相同的Retina顯示器](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")，1136
+x 640 像素，326 ppi 解析度。支援Retina Flash。
 
 ## 顏色
 
 顏色包括：
 
-| 顏色 | 名稱                               | 英語         | 備註    |
-| -- | -------------------------------- | ---------- | ----- |
-|    | [太空灰](../Page/灰色.md "wikilink")  | Space Gray | 正面為黑色 |
-|    | [銀色](../Page/銀色.md "wikilink")   | Silver     | 正面為白色 |
-|    | [金色](../Page/金色.md "wikilink")   | Gold       | 正面為白色 |
-|    | [玫瑰金](../Page/玫瑰金.md "wikilink") | Rose Gold  | 正面為白色 |
+| 顏色 | 名稱                                                  | 英語         | 備註    |
+| -- | --------------------------------------------------- | ---------- | ----- |
+|    | [太空灰](https://zh.wikipedia.org/wiki/灰色 "wikilink")  | Space Gray | 正面為黑色 |
+|    | [銀色](https://zh.wikipedia.org/wiki/銀色 "wikilink")   | Silver     | 正面為白色 |
+|    | [金色](https://zh.wikipedia.org/wiki/金色 "wikilink")   | Gold       | 正面為白色 |
+|    | [玫瑰金](https://zh.wikipedia.org/wiki/玫瑰金 "wikilink") | Rose Gold  | 正面為白色 |
 
 ## 销售
 

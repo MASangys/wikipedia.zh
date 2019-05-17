@@ -1,6 +1,6 @@
 是日本[Visual Art's公司旗下品牌](../Page/Visual_Art's.md "wikilink")[SAGA
-PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2001年3月23日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2001年8月31日發售[Fan
-disc](../Page/Fan_disc.md "wikilink")《****》。\[1\][GN
+PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2001年3月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2001年8月31日發售[Fan
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》。\[1\][GN
 Software在](../Page/GN_Software.md "wikilink")2003年11月27日發售[Dreamcast版](../Page/Dreamcast.md "wikilink")《**戀愛CHU\!
 Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使のはじまり
 -天CHU\!スペシャルBOX-**》，收錄兩作的XP版。\[3\]除了發售遊戲外也還發售CD、小說等相關作品。
@@ -27,13 +27,13 @@ Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使
 ### 次要角色
 
   - 仁科彌生
-    男主角的班級老師和英語老師，[茶道部的顧問](../Page/茶道.md "wikilink")。
+    男主角的班級老師和英語老師，[茶道部的顧問](https://zh.wikipedia.org/wiki/茶道 "wikilink")。
 
   - 樋口若菜
     美月的親友，園藝部的部員。
 
   - 月島野花
-    花梨的姊姊，獨居的[短期大學學生](../Page/短期大學.md "wikilink")，偶爾會回到老家幫忙。
+    花梨的姊姊，獨居的[短期大學學生](https://zh.wikipedia.org/wiki/短期大學 "wikilink")，偶爾會回到老家幫忙。
 
   - ライム・リーガン
     出生在日本的美國少女，七海的英語特別課程同學，因為在日本長大而不擅長英語，喜歡七瀬。
@@ -60,7 +60,8 @@ Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使
 <!-- end list -->
 
   -
-    作詞：[KOTOKO](../Page/KOTOKO.md "wikilink")　作曲：中澤伴行　歌：KOTOKO TO AKI
+    作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")　作曲：中澤伴行　歌：KOTOKO
+    TO AKI
 
   -
 

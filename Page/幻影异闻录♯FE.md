@@ -1,6 +1,6 @@
 是一款[Wii
-U平台的](../Page/Wii_U.md "wikilink")[跨界](../Page/跨界作品.md "wikilink")[电子角色扮演游戏](../Page/电子角色扮演游戏.md "wikilink")，基于[Atlus和](../Page/Atlus.md "wikilink")[Intelligent
-Systems各自的](../Page/Intelligent_Systems.md "wikilink")[女神转生系列和](../Page/女神转生系列.md "wikilink")[火焰之纹章系列](../Page/火焰之纹章系列.md "wikilink")。游戏由[Intelligent
+U平台的](../Page/Wii_U.md "wikilink")[跨界](../Page/跨界作品.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，基于[Atlus和](../Page/Atlus.md "wikilink")[Intelligent
+Systems各自的](../Page/Intelligent_Systems.md "wikilink")[女神转生系列和](https://zh.wikipedia.org/wiki/女神转生系列 "wikilink")[火焰之纹章系列](../Page/火焰之纹章系列.md "wikilink")。游戏由[Intelligent
 Systems授权并由](../Page/Intelligent_Systems.md "wikilink")[Atlus负责开发](../Page/Atlus.md "wikilink")，由[任天堂于](../Page/任天堂.md "wikilink")2015年12月26日在日本推出，2016年在西方推出\[1\]\[2\]。本作的日本地区销量约为3.3万份，\[3\]有不少玩家认为Wii
 U自身的销量低迷限制了本作的销量。
 

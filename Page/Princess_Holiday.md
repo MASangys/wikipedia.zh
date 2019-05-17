@@ -1,6 +1,6 @@
-是由日本[AUGUST在](../Page/AUGUST.md "wikilink")2002年9月27日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2003年5月29日由[Alchemist代理發售](../Page/Alchemist.md "wikilink")[Dreamcast版](../Page/Dreamcast.md "wikilink")\[3\]和2004年5月27日發售[PlayStation
+是由日本[AUGUST在](../Page/AUGUST.md "wikilink")2002年9月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2003年5月29日由[Alchemist代理發售](../Page/Alchemist.md "wikilink")[Dreamcast版](../Page/Dreamcast.md "wikilink")\[3\]和2004年5月27日發售[PlayStation
 2版](../Page/PlayStation_2.md "wikilink")\[4\]。2004年8月27日由[AUGUST發售](../Page/AUGUST.md "wikilink")[Fan
-disc](../Page/Fan_disc.md "wikilink")。\[5\]\[6\]\[7\]
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[5\]\[6\]\[7\]
 
 ## 故事簡介
 
@@ -82,7 +82,7 @@ OVA是18禁成人動畫。由Lemon Heart代理發售。\[10\]
   - クリフ・クラウド：[平井達矢](../Page/平井達矢.md "wikilink")
   - レティシア・アップル：鳥居花音
   - シルフィ・クラウド：椎名奏子
-  - エレノア・フォートワース：[海原エレナ](../Page/海原エレナ.md "wikilink")
+  - エレノア・フォートワース：[海原エレナ](https://zh.wikipedia.org/wiki/海原エレナ "wikilink")
   - レイチェル・ハーベスト／ピア：[北都南](../Page/北都南.md "wikilink")
   - ラピス・メルクリウス・フレイヤ：野々田早苗
   - ディアナ・ペシュカ・ホリー・エリンギ：大花どん
@@ -178,4 +178,5 @@ Complete版和完全版都是合集。
     ～転がるりんご亭千夜一夜～](http://erogetrailers.com/soft/799)ErogeTrailers
 10. [Princess Holiday
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6943)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

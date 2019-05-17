@@ -1,5 +1,5 @@
 **Colossal Order**
-是一家芬兰[游戏制作公司](../Page/游戏制作.md "wikilink")，因制作[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")[都市运输系列和](../Page/都市运输系列.md "wikilink")[城市建造游戏](../Page/城市建造游戏.md "wikilink")《[都市：天际线](../Page/都市：天际线.md "wikilink")》而知名\[1\]\[2\]\[3\]\[4\]。公司于2009年在[芬兰](../Page/芬兰.md "wikilink")[坦佩雷建立](../Page/坦佩雷.md "wikilink")。它的发行商是
+是一家芬兰[游戏制作公司](https://zh.wikipedia.org/wiki/游戏制作 "wikilink")，因制作[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")[都市运输系列和](https://zh.wikipedia.org/wiki/都市运输系列 "wikilink")[城市建造游戏](https://zh.wikipedia.org/wiki/城市建造游戏 "wikilink")《[都市：天际线](https://zh.wikipedia.org/wiki/都市：天际线 "wikilink")》而知名\[1\]\[2\]\[3\]\[4\]。公司于2009年在[芬兰](../Page/芬兰.md "wikilink")[坦佩雷建立](../Page/坦佩雷.md "wikilink")。它的发行商是
 [Paradox
 Interactive](../Page/Paradox_Interactive.md "wikilink")\[5\]，Colossal
 Order的所有游戏由Paradox负责测试、销售、分发。公司的CEO为Mariina Hallikainen\[6\]。
@@ -8,9 +8,12 @@ Order的所有游戏由Paradox负责测试、销售、分发。公司的CEO为Ma
 
 ### 游戏列表
 
-  - [都市运输](../Page/都市运输.md "wikilink") (2011)\[7\]\[8\]\[9\]
-  - [都市运输2](../Page/都市运输2.md "wikilink") (2013)\[10\]\[11\]\[12\]
-  - [都市：天际线](../Page/都市：天际线.md "wikilink") (2015)\[13\]\[14\]
+  - [都市运输](https://zh.wikipedia.org/wiki/都市运输 "wikilink")
+    (2011)\[7\]\[8\]\[9\]
+  - [都市运输2](https://zh.wikipedia.org/wiki/都市运输2 "wikilink")
+    (2013)\[10\]\[11\]\[12\]
+  - [都市：天际线](https://zh.wikipedia.org/wiki/都市：天际线 "wikilink")
+    (2015)\[13\]\[14\]
 
 ## 参考资料
 

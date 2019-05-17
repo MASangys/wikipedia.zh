@@ -1,15 +1,15 @@
 **UN
-M.49**是一份由[聯合國用於地理分区和分组](../Page/聯合國.md "wikilink")[统计目標對國家及地區進行編碼的技術文件](../Page/统计.md "wikilink")，每個三位由數字組成的區域代碼可以是指各式各樣的地理、政治或經濟區域，像一個[大陸](../Page/大陸.md "wikilink")，一個[國家或](../Page/國家.md "wikilink")[人類發展分類下的一組](../Page/人類發展.md "wikilink")。
+M.49**是一份由[聯合國用於地理分区和分组](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[统计目標對國家及地區進行編碼的技術文件](https://zh.wikipedia.org/wiki/统计 "wikilink")，每個三位由數字組成的區域代碼可以是指各式各樣的地理、政治或經濟區域，像一個[大陸](https://zh.wikipedia.org/wiki/大陸 "wikilink")，一個[國家或](https://zh.wikipedia.org/wiki/國家 "wikilink")[人類發展分類下的一組](https://zh.wikipedia.org/wiki/人類發展 "wikilink")。
 
 由\[1\]維護的UN
-M49分類編碼所設計中含有[聯合國地理方案](../Page/聯合國地理方案.md "wikilink")\[2\]\[3\]\[4\]。
+M49分類編碼所設計中含有[聯合國地理方案](https://zh.wikipedia.org/wiki/聯合國地理方案 "wikilink")\[2\]\[3\]\[4\]。
 
-[萬國碼](../Page/萬國碼.md "wikilink")[Unicode](../Page/Unicode.md "wikilink")所提供的Territory
+[萬國碼](https://zh.wikipedia.org/wiki/萬國碼 "wikilink")[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")所提供的Territory
 Containment（UN M.49）則保留了世界、大陸、次大陸的三位數字編碼，而下一層的國家和地區則使用兩碼羅馬字母的國家碼\[5\]。
 
 ## 參見
 
-  - [聯合國地理方案](../Page/聯合國地理方案.md "wikilink")
+  - [聯合國地理方案](https://zh.wikipedia.org/wiki/聯合國地理方案 "wikilink")
 
 ## 参考文献
 

@@ -1,4 +1,4 @@
-**Syncthing**是一个[开源](../Page/开源.md "wikilink")<span dir="ltr" lang="zh">的</span>[文件同步客户端与服务器软件](../Page/文件同步.md "wikilink")，采用[Go语言编写](../Page/Go.md "wikilink")。它可以在本地网络上的设备之间或通过Internet在远程设备之间同步文件，使用了其独有的对等自由块交换协议。源代码托管在[GitHub上](../Page/GitHub.md "wikilink")\[1\]
+**Syncthing**是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")<span dir="ltr" lang="zh">的</span>[文件同步客户端与服务器软件](https://zh.wikipedia.org/wiki/文件同步 "wikilink")，采用[Go语言编写](../Page/Go.md "wikilink")。它可以在本地网络上的设备之间或通过Internet在远程设备之间同步文件，使用了其独有的对等自由块交换协议。源代码托管在[GitHub上](../Page/GitHub.md "wikilink")\[1\]
 
 ## 历史
 
@@ -9,11 +9,12 @@ Syncthing于2013年12月30日首次公开其二进制版本（V0.2）。
 ## 媒体关注
 
 在2014年5月20日的Security Now节目中，主持人史蒂夫·吉布森称赞Syncthing是[BitTorrent
-Sync的一个潜在的](../Page/BitTorrent_Sync.md "wikilink")[开源替代品](../Page/开源.md "wikilink")。
+Sync的一个潜在的](https://zh.wikipedia.org/wiki/BitTorrent_Sync "wikilink")[开源替代品](https://zh.wikipedia.org/wiki/开源 "wikilink")。
 
 ## 参见
 
-  - [BitTorrent Sync](../Page/BitTorrent_Sync.md "wikilink")
+  - [BitTorrent
+    Sync](https://zh.wikipedia.org/wiki/BitTorrent_Sync "wikilink")
 
   -
 ## 引用

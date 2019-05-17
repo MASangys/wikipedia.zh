@@ -1,13 +1,13 @@
 **詹姆斯·R·欣德曼**（，）\[1\]，是一名美国政治家，曾任第23届[肯塔基州副州长](../Page/肯塔基州副州长.md "wikilink")。
 
-1839年，他出生于肯塔基州。1883年，他竞选并担任[肯塔基州副州长](../Page/肯塔基州副州长.md "wikilink")。[欣德曼市以他命名](../Page/欣德曼市.md "wikilink")。
+1839年，他出生于肯塔基州。1883年，他竞选并担任[肯塔基州副州长](../Page/肯塔基州副州长.md "wikilink")。[欣德曼市以他命名](https://zh.wikipedia.org/wiki/欣德曼市 "wikilink")。
 
 ## 其他
 
   - [James Robert Hindman
     entry](http://politicalgraveyard.com/bio/hillings-hinerman.html#880.82.12)
     at [The Political
-    Graveyard](../Page/The_Political_Graveyard.md "wikilink")
+    Graveyard](https://zh.wikipedia.org/wiki/The_Political_Graveyard "wikilink")
 
 ## 参考
 

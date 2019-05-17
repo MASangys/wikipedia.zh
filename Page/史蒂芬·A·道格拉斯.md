@@ -1,5 +1,5 @@
 **史蒂芬·阿諾·道格拉斯**（Stephen Arnold
-Douglas，），美國[佛蒙特州](../Page/佛蒙特州.md "wikilink")[布蘭登人](../Page/布蘭登.md "wikilink")，[民主黨籍政治家](../Page/民主黨_\(美國\).md "wikilink")。道格拉斯曾任[眾議員](../Page/美國眾議院.md "wikilink")、[參議員](../Page/美國參議院.md "wikilink")，也是[內布拉斯加法案的設計者](../Page/內布拉斯加法案.md "wikilink")，並曾在1860年代表民主黨[參選美國總統](../Page/1860年美國總統選舉.md "wikilink")，但敗於[共和黨的](../Page/共和黨_\(美國\).md "wikilink")[亞伯拉罕·林肯](../Page/亞伯拉罕·林肯.md "wikilink")。
+Douglas，），美國[佛蒙特州](../Page/佛蒙特州.md "wikilink")[布蘭登人](https://zh.wikipedia.org/wiki/布蘭登 "wikilink")，[民主黨籍政治家](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")。道格拉斯曾任[眾議員](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")、[參議員](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")，也是[內布拉斯加法案的設計者](https://zh.wikipedia.org/wiki/內布拉斯加法案 "wikilink")，並曾在1860年代表民主黨[參選美國總統](https://zh.wikipedia.org/wiki/1860年美國總統選舉 "wikilink")，但敗於[共和黨的](../Page/共和黨_\(美國\).md "wikilink")[亞伯拉罕·林肯](https://zh.wikipedia.org/wiki/亞伯拉罕·林肯 "wikilink")。
 
 ## 參見
 
@@ -114,9 +114,10 @@ Douglas，），美國[佛蒙特州](../Page/佛蒙特州.md "wikilink")[布蘭�
 ## 外部連結
 
   -
-  - [Project Gutenberg](../Page/Project_Gutenberg.md "wikilink") text of
-    [Life of Stephen A. Douglas](http://www.gutenberg.org/etext/2593) by
-    William Gardner
+  - [Project
+    Gutenberg](https://zh.wikipedia.org/wiki/Project_Gutenberg "wikilink")
+    text of [Life of Stephen A.
+    Douglas](http://www.gutenberg.org/etext/2593) by William Gardner
 
   - [Page images of two Speeches made by Douglas, one on the Compromise
     of 1850](http://www.hti.umich.edu/cgi/t/text/text-idx?c=moa;cc=moa;view=toc;idno=AAS6856.0001.001)

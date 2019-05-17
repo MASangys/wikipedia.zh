@@ -1,7 +1,7 @@
 **WLKM “Szafir
-”**（Szafir，意為：[蓝宝石](../Page/蓝宝石.md "wikilink")）是一挺由[波兰](../Page/波兰.md "wikilink")[機械設備的研究和發展中心](../Page/機械設備的研究和發展中心.md "wikilink")（簡稱：OBRSM塔爾努夫公司）製造的車載4[槍管](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[重机枪](../Page/重机枪.md "wikilink")，於2014年國際國防工業展（MSPO
+”**（Szafir，意為：[蓝宝石](../Page/蓝宝石.md "wikilink")）是一挺由[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")[機械設備的研究和發展中心](https://zh.wikipedia.org/wiki/機械設備的研究和發展中心 "wikilink")（簡稱：OBRSM塔爾努夫公司）製造的車載4[槍管](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[重机枪](../Page/重机枪.md "wikilink")，於2014年國際國防工業展（MSPO
 2014）上首次展出，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
-BMG）[北約](../Page/北大西洋公约组织.md "wikilink")[口徑制式](../Page/口徑.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節
 
@@ -11,13 +11,14 @@ WLKM主要裝備於各種車輛、艦船和直升機（例如）、（例如LZS-
 
 ## 參見
 
-  - [重機槍](../Page/重機槍.md "wikilink")
+  - [重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")
   - [加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")
-  - [CS/LM5型转管机枪](../Page/CS/LM5型转管机枪.md "wikilink")，[中国設計的](../Page/中国.md "wikilink")12.7毫米高射機槍
+  - [CS/LM5型转管机枪](https://zh.wikipedia.org/wiki/CS/LM5型转管机枪 "wikilink")，[中国設計的](https://zh.wikipedia.org/wiki/中国 "wikilink")12.7毫米高射機槍
   - [GAU-19加特林重機槍](../Page/GAU-19加特林重機槍.md "wikilink")，[美国設計的](../Page/美国.md "wikilink")12.7毫米高射機槍
   - [Yak-B
     12.7毫米加特林重機槍](../Page/Yak-B_12.7毫米加特林重機槍.md "wikilink")，[苏联設計的](../Page/苏联.md "wikilink")12.7毫米高射機槍
-  - [斯勞頓加特林機槍](../Page/斯勞頓加特林機槍.md "wikilink")（Slostin machine gun）
+  - [斯勞頓加特林機槍](https://zh.wikipedia.org/wiki/斯勞頓加特林機槍 "wikilink")（Slostin
+    machine gun）
 
 ## 參考文獻
 

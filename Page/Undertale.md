@@ -1,21 +1,21 @@
 是[Toby
-Fox](../Page/托比·福克斯.md "wikilink")（id為tobyfox）獨立开发、發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。在遊戲要控制一位掉入地底世界，被魔法屏障隔開的人類孩子。玩家的任務是要讓人類孩子回到地表。遊戲的特色在於特殊的戰鬥系統，玩家必須閃避對手的彈幕攻擊，可以選擇寬恕（mercy）或攻擊（fight）他們。這些選擇會影響遊戲後面的對話、人物、故事和結局。遊戲製作幾乎皆為Toby
+Fox](https://zh.wikipedia.org/wiki/托比·福克斯 "wikilink")（id為tobyfox）獨立开发、發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。在遊戲要控制一位掉入地底世界，被魔法屏障隔開的人類孩子。玩家的任務是要讓人類孩子回到地表。遊戲的特色在於特殊的戰鬥系統，玩家必須閃避對手的彈幕攻擊，可以選擇寬恕（mercy）或攻擊（fight）他們。這些選擇會影響遊戲後面的對話、人物、故事和結局。遊戲製作幾乎皆為Toby
 Fox，遊戲主要美術為Temmie
-Chang。遊戲靈感來自於[地球冒險系列和瑪利歐與路易吉RPG](../Page/地球冒險系列.md "wikilink")，幽默元素則來自於英國喜劇表演者[-{zh-cn:憨豆先生;zh-hant:豆豆先生;}-](../Page/豆豆先生.md "wikilink")。Undertale最初設想的遊玩時數為兩小時，並預定在2014年年中發布，但開發被推延了一年
+Chang。遊戲靈感來自於[地球冒險系列和瑪利歐與路易吉RPG](../Page/地球冒險系列.md "wikilink")，幽默元素則來自於英國喜劇表演者[-{zh-cn:憨豆先生;zh-hant:豆豆先生;}-](https://zh.wikipedia.org/wiki/豆豆先生 "wikilink")。Undertale最初設想的遊玩時數為兩小時，並預定在2014年年中發布，但開發被推延了一年
 。
 
 遊戲在2015年9月發布於[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[OS
-X](../Page/OS_X.md "wikilink")，2016年7月於[Linux上發行](../Page/Linux.md "wikilink")，2017年8月推出[PlayStation
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")，2016年7月於[Linux上發行](../Page/Linux.md "wikilink")，2017年8月推出[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[PlayStation
-Vita版本](../Page/PlayStation_Vita.md "wikilink")，2018年9月推出[任天堂Switch版本](../Page/任天堂Switch.md "wikilink")。該遊戲備受遊戲評論家的好評，稱讚遊戲中的幽默元素（像是嘲諷遊戲中的時間流動、大量的雙關笑話等等）、直觀的戰鬥系統、音樂獨創性以及劇情中與角色深刻的情感連結。遊戲銷售超過一百萬份，被提名多個榮譽獎項。
+Vita版本](../Page/PlayStation_Vita.md "wikilink")，2018年9月推出[任天堂Switch版本](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。該遊戲備受遊戲評論家的好評，稱讚遊戲中的幽默元素（像是嘲諷遊戲中的時間流動、大量的雙關笑話等等）、直觀的戰鬥系統、音樂獨創性以及劇情中與角色深刻的情感連結。遊戲銷售超過一百萬份，被提名多個榮譽獎項。
 
 2018年10月31日，作者推出的一款擁有相似角色設定的遊戲《[Deltarune](../Page/Deltarune.md "wikilink")》先導版。Toby
 Fox 說正式版會在未來7年內推出
 
 ## 遊戲操作
 
-《Undertale》有著和一般[電子角色扮演遊戲些許不同的玩法](../Page/電子角色扮演遊戲.md "wikilink")。玩家有機會選擇和敵人戰鬥、互動或是寬恕他們。\[1\]遊戲多半採[回合制](../Page/回合制.md "wikilink")。若選擇攻擊的話，玩家必須抓準時機攻擊使得傷害增加；出手後便要開始閃避敵人的攻擊，其中有部分類似彈幕。也有其他攻擊以外的行動選項使玩家和敵人互動，如對話、傾聽甚至是調情。如果一切順利，敵人便會失去戰意；玩家便可以寬恕他們來結束戰鬥，或是趁機進行攻擊。在進入對戰畫面時，玩家的形象會化作一顆紅心並以有限的HP和敵人對抗。
+《Undertale》有著和一般[電子角色扮演遊戲些許不同的玩法](../Page/電子角色扮演遊戲.md "wikilink")。玩家有機會選擇和敵人戰鬥、互動或是寬恕他們。\[1\]遊戲多半採[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")。若選擇攻擊的話，玩家必須抓準時機攻擊使得傷害增加；出手後便要開始閃避敵人的攻擊，其中有部分類似彈幕。也有其他攻擊以外的行動選項使玩家和敵人互動，如對話、傾聽甚至是調情。如果一切順利，敵人便會失去戰意；玩家便可以寬恕他們來結束戰鬥，或是趁機進行攻擊。在進入對戰畫面時，玩家的形象會化作一顆紅心並以有限的HP和敵人對抗。
 
 根據玩家的行為，有多種不同的路線和結局——完美路線、屠殺路線,普通結局多種不同類型的中立路線及隱藏的困難模式路線。
 
@@ -134,7 +134,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    身材矮胖的[骷髏](../Page/骷髏.md "wikilink")，穿著藍色連帽外套和白色拖鞋。Papyrus的哥哥，名稱是來自[Comic
+    身材矮胖的[骷髏](https://zh.wikipedia.org/wiki/骷髏 "wikilink")，穿著藍色連帽外套和白色拖鞋。Papyrus的哥哥，名稱是來自[Comic
     Sans字體](../Page/Comic_Sans.md "wikilink")，他大部分相關對話框的文字都是使用這種字體。
     十分懶惰，經常睡覺，似乎沒有將其職責放在心上。總是想著開玩笑或說冷笑話，最拿手的是與「骷髏」一詞相關的雙關笑話。認真起來可以十分殘酷。
     十分疼愛Papyrus。是目前最受歡迎的角色之一。
@@ -153,9 +153,9 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    高大纖瘦的[骷髏](../Page/骷髏.md "wikilink")，外型及性格類似[唐吉軻德](../Page/唐吉軻德.md "wikilink")，穿著鎧甲及紅色披風。Sans的弟弟，以骨頭（白色與淺藍色）進行攻擊。名稱是來自，他所有相關對話框的文字都是使用這種字體。
+    高大纖瘦的[骷髏](https://zh.wikipedia.org/wiki/骷髏 "wikilink")，外型及性格類似[唐吉軻德](https://zh.wikipedia.org/wiki/唐吉軻德 "wikilink")，穿著鎧甲及紅色披風。Sans的弟弟，以骨頭（白色與淺藍色）進行攻擊。名稱是來自，他所有相關對話框的文字都是使用這種字體。
     為了成為其夢想中的皇家衛隊成員，而努力狩獵著人類。然而其善良和單純的性格，使Undyne不希望他上戰場，於是改為教導他烹飪。
-    有傳承自Undyne的料理技術，故事中正在學習烹調[義大利麵](../Page/義大利麵.md "wikilink")，由Sans對墜落之子的談話間可得知，他的料理技術還沒到可以吃的境界。
+    有傳承自Undyne的料理技術，故事中正在學習烹調[義大利麵](https://zh.wikipedia.org/wiki/義大利麵 "wikilink")，由Sans對墜落之子的談話間可得知，他的料理技術還沒到可以吃的境界。
     若將墜落之子取名為**Papyru**時（由於名字最多只允許六個字母），系統會說「我允許！！！」
 
 <!-- end list -->
@@ -165,7 +165,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    地下王國的守衛隊隊長，有著紅色[馬尾的女性藍色魚人](../Page/馬尾.md "wikilink")，經常穿著鎧甲。底下是黑色背心及牛仔褲，非值勤時間外出時穿著淺色毛衣洋裝及深色外套。使用青色的長矛攻擊。
+    地下王國的守衛隊隊長，有著紅色[馬尾的女性藍色魚人](https://zh.wikipedia.org/wiki/馬尾 "wikilink")，經常穿著鎧甲。底下是黑色背心及牛仔褲，非值勤時間外出時穿著淺色毛衣洋裝及深色外套。使用青色的長矛攻擊。
     少數知道和使用決心戰鬥的怪物。初次登場穿著只露出單眼的鎧甲，在雪鎮中得到相當的人氣，尤其以怪物小孩最為狂熱。
     凡事都認真和強硬執行，其中Papyrus糟糕透頂的廚藝便是得到其真傳，亦是這性格使之受國王Asgore賞識。於一次訓練後隨行中結識Alphys，漸生感情，相信其提供的[ACG漫畫作品乃人類文明的正史](../Page/ACG.md "wikilink")。雖對人類文明感到佩服，但仍堅決執行國王Asgore收集人類靈魂的計劃。
     完美路線中會請墜落之子送約會的信給Alphys（需通過中立結局之後才會觸發）。
@@ -181,9 +181,9 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    地下王國的皇家科學家。黃色的女性[蜥蜴或是](../Page/蜥蜴.md "wikilink")[恐龍怪物](../Page/恐龍.md "wikilink")，戴著圓形眼鏡、穿著白色[實驗衣](../Page/實驗衣.md "wikilink")。精通電子儀器，墜落之子從遺跡出來後，直到抵達其實驗室前，都一直用自製的鏡頭觀察墜落之子（部分鏡頭可調查），並製造了娛樂機器人Mettaton。
+    地下王國的皇家科學家。黃色的女性[蜥蜴或是](../Page/蜥蜴.md "wikilink")[恐龍怪物](https://zh.wikipedia.org/wiki/恐龍 "wikilink")，戴著圓形眼鏡、穿著白色[實驗衣](https://zh.wikipedia.org/wiki/實驗衣 "wikilink")。精通電子儀器，墜落之子從遺跡出來後，直到抵達其實驗室前，都一直用自製的鏡頭觀察墜落之子（部分鏡頭可調查），並製造了娛樂機器人Mettaton。
     在國王Asgore允許下，對於靈魂及決心進行深刻的研究，該研究牽涉和平路線的關鍵劇情，亦造就她凡事欠缺信心的性格，直到Undyne和墜落之子先後相處，狀況才稍微好轉。
-    過去經常到瀑布底下的垃圾堆，撿拾來自人類世界的物品，也因此成為一位[御宅族](../Page/御宅族.md "wikilink")，家中藏著撿來的動漫卡帶和漫畫書，對[貓耳娘有獨特的喜好](../Page/貓耳.md "wikilink")。
+    過去經常到瀑布底下的垃圾堆，撿拾來自人類世界的物品，也因此成為一位[御宅族](../Page/御宅族.md "wikilink")，家中藏著撿來的動漫卡帶和漫畫書，對[貓耳娘有獨特的喜好](https://zh.wikipedia.org/wiki/貓耳 "wikilink")。
     若將墜落之子取名為**Alphys**時，系統會說「不、不要這樣做。」。但如果取名為**Alphy**時系統會說「也...也許可以...?」
 
 <!-- end list -->
@@ -206,7 +206,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    地下王國的國王，白色[山羊型怪物](../Page/山羊.md "wikilink")，使用火球和三叉戟攻擊。
+    地下王國的國王，白色[山羊型怪物](https://zh.wikipedia.org/wiki/山羊 "wikilink")，使用火球和三叉戟攻擊。
     因為兒子Asriel被人類殺害，而致力於破壞魔法結界，以釋放地下世界怪物。
     表面上是執意要向人類復仇，實際上和藹可親，心中希望人類和怪物能和平共存。但考慮到怪物還需要希望支持生存意志，只好讓所有怪物等著七個人類在地下世界出現，殺死他們收集靈魂，並使用七個靈魂來打破屏障。實際上可以直接與一個人類靈魂融合以穿過屏障，收集到需要的靈魂後，再回來釋放怪物。此舉被Toriel評為懦弱和虛偽，是兩人分居的一大原因。
     在Chara與Asriel逝世前，與妻子Toriel經常不顧大眾的眼光，在公開場合親熱。對於命名一事相當不擅長，由他命名的地名、人名常遭到嘲笑（像是新家與親生兒子.Asriel的名字，由自己名字前半段的As跟Toriel的名字後半段riel合併）。
@@ -246,7 +246,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    地城王子，白色[山羊型怪物](../Page/山羊.md "wikilink")，穿著與第一位墜落之子.Chara相同的橫條紋上衣及短褲，名字為父母Asgore與Toriel的組合。本性善良天真，亦非常愛哭。
+    地城王子，白色[山羊型怪物](https://zh.wikipedia.org/wiki/山羊 "wikilink")，穿著與第一位墜落之子.Chara相同的橫條紋上衣及短褲，名字為父母Asgore與Toriel的組合。本性善良天真，亦非常愛哭。
     在Chara病逝後，吸收其靈魂越過結界，前往Chara墜落前生活的村莊，將其遺體放到村庄內的一處花園中。村民誤認是他殺害了Chara，因此遭襲擊而命危。回到皇宮的花床後嚥下最後一口氣、死後散開的灰燼覆蓋在第一株金色花的種子上。之後Alphys博士在花內注入靈魂，成為靈魂實驗的唯一成功品（其他失敗品位於真正的實驗室內）。
     在和平路線因Flowey吸收了人類與大量怪獸的靈魂，得以再次變回真身，並化作成熟型態。同時重新得到了感情，而此正是墜落之子戰勝他的關鍵。
     若將墜落的人類角色取名為**Asriel**時，系統會說「...」。
@@ -269,7 +269,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 
   -
     鬼魂怪物，住在垃圾場裡的假人裡面。
-    [任天堂Switch版本遊戲路線結尾前](../Page/任天堂Switch.md "wikilink")（Mettaton劇情後，僅限和平路線），它會轉附在Mew
+    [任天堂Switch版本遊戲路線結尾前](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")（Mettaton劇情後，僅限和平路線），它會轉附在Mew
     Mew人偶的軀體身上。
 
 <!-- end list -->
@@ -330,7 +330,8 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    [任天堂Switch版本專屬追加角色](../Page/任天堂Switch.md "wikilink")，前身為Mad Dummy。
+    [任天堂Switch版本專屬追加角色](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，前身為Mad
+    Dummy。
     貓娘，手上拿者貓形魔杖的魔法少女，為動畫Mew Mew Kissy
     Cutie的女主角。該動畫為Alphys最喜歡的動畫，但是因為第二季令Alphys不滿而被冷落，因而產生怨念。
     如果寬恕她，在完美結局裡致謝名單當中將會取代Mad Dummy。
@@ -338,8 +339,9 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 ## 製作
 
 《Undertale》原先一開始是在[Kickstarter平台上募資](../Page/Kickstarter.md "wikilink")，共有2,398人參與、募得51,124美元，遠超過先前5,000美元的目標。\[3\]
-在[The Escapist雜誌上的專訪時](../Page/The_Escapist.md "wikilink")，toby
-fox列出了啟發這款遊戲製作的遊戲列表：「對話系統是受《[真·女神轉生](../Page/真·女神轉生.md "wikilink")》啟發。我認為要把每個魔物塑造成獨一無二的存在是很重要的；如果你仔細想想，基本上在[FF一類的RPG裡](../Page/最終幻想系列.md "wikilink")，魔物除了外表以外都一樣。它們攻擊你、你回血、你攻擊它們、它們掛點...那根本毫無意義。」「而遊戲防禦系統則是啟發自[超級瑪利歐RPG](../Page/超級瑪利歐RPG.md "wikilink")、[瑪利歐與路易吉系列RPG遊戲以及像是](../Page/马里奥角色扮演游戏列表#马里奥与路易系列.md "wikilink")[東方系列中的彈幕系統](../Page/東方Project.md "wikilink")。是的，系統會更加有趣；我不希望有任何人因為不是閃子彈地獄\[[https://www.youtube.com/watch?v=ZC3jvBXIhg8\]高手而無法玩這款遊戲](https://www.youtube.com/watch?v=ZC3jvBXIhg8%5D高手而無法玩這款遊戲)。」\[4\]
+在[The
+Escapist雜誌上的專訪時](https://zh.wikipedia.org/wiki/The_Escapist "wikilink")，toby
+fox列出了啟發這款遊戲製作的遊戲列表：「對話系統是受《[真·女神轉生](https://zh.wikipedia.org/wiki/真·女神轉生 "wikilink")》啟發。我認為要把每個魔物塑造成獨一無二的存在是很重要的；如果你仔細想想，基本上在[FF一類的RPG裡](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")，魔物除了外表以外都一樣。它們攻擊你、你回血、你攻擊它們、它們掛點...那根本毫無意義。」「而遊戲防禦系統則是啟發自[超級瑪利歐RPG](https://zh.wikipedia.org/wiki/超級瑪利歐RPG "wikilink")、[瑪利歐與路易吉系列RPG遊戲以及像是](https://zh.wikipedia.org/wiki/马里奥角色扮演游戏列表#马里奥与路易系列 "wikilink")[東方系列中的彈幕系統](https://zh.wikipedia.org/wiki/東方Project "wikilink")。是的，系統會更加有趣；我不希望有任何人因為不是閃子彈地獄\[[https://www.youtube.com/watch?v=ZC3jvBXIhg8\]高手而無法玩這款遊戲](https://www.youtube.com/watch?v=ZC3jvBXIhg8%5D高手而無法玩這款遊戲)。」\[4\]
 
 ## 釋出
 
@@ -351,10 +353,10 @@ Fox說會在未來七年內推出正式版。
 
 ## 評價
 
-《Undertale》獲得相當的好評。在[Metacritic以及](../Page/Metacritic.md "wikilink")[GameRankings上分別獲評為](../Page/GameRankings.md "wikilink")92/100和94.26%的佳績。\[5\]\[6\]
+《Undertale》獲得相當的好評。在[Metacritic以及](../Page/Metacritic.md "wikilink")[GameRankings上分別獲評為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")92/100和94.26%的佳績。\[5\]\[6\]
 [Rock, Paper, Shotgun的Jack](../Page/Rock,_Paper,_Shotgun.md "wikilink")
 de Quidt称赞了游戏的平衡度\[7\]。[Jim
-Sterling給予遊戲高度評價](../Page/Jim_Sterling.md "wikilink")，譽其為「他一生玩過最棒的RPG遊戲之一」。\[8\][Destructoid的編輯](../Page/Destructoid.md "wikilink")
+Sterling給予遊戲高度評價](https://zh.wikipedia.org/wiki/Jim_Sterling "wikilink")，譽其為「他一生玩過最棒的RPG遊戲之一」。\[8\][Destructoid的編輯](../Page/Destructoid.md "wikilink")
 Ben Davis 讚美它的幽默和角色設計，並給予編輯賞。\[9\][Game
 Informer的](../Page/Game_Informer.md "wikilink") Daniel Tack
 給予該遊戲9.5/10的高分，稱游戏是「迷人、爽快的旅程」，「組織緊張的體驗值得你關注」。\[10\]
@@ -362,11 +364,11 @@ Toby於2016年初在推特上表示感謝[IGN授予該遊戲](../Page/IGN.md "wi
 
 ### 獲獎記錄
 
-| 年份       | 典禮                                     | 獎項     | 結果 | 參考來源   |
-| -------- | -------------------------------------- | ------ | -- | ------ |
-| 2015     | [2015遊戲大獎](../Page/遊戲大獎.md "wikilink") | 最佳獨立遊戲 | 提名 | \[12\] |
-| 最佳角色扮演遊戲 | 提名                                     |        |    |        |
-| 創新遊戲     | 提名                                     |        |    |        |
+| 年份       | 典禮                                                        | 獎項     | 結果 | 參考來源   |
+| -------- | --------------------------------------------------------- | ------ | -- | ------ |
+| 2015     | [2015遊戲大獎](https://zh.wikipedia.org/wiki/遊戲大獎 "wikilink") | 最佳獨立遊戲 | 提名 | \[12\] |
+| 最佳角色扮演遊戲 | 提名                                                        |        |    |        |
+| 創新遊戲     | 提名                                                        |        |    |        |
 
 ## 參考資料
 
@@ -412,8 +414,9 @@ Toby於2016年初在推特上表示感謝[IGN授予該遊戲](../Page/IGN.md "wi
 11.
 
 12.  The Game Awards 2015 | date = 2015-11-12 | website = [The Game
-    Awards](../Page/The_Game_Awards.md "wikilink") | publisher = [Ola
-    Balola](../Page/Ola_Balola.md "wikilink") | accessdate = 2015-11-13
-    | archive-url =
+    Awards](https://zh.wikipedia.org/wiki/The_Game_Awards "wikilink") |
+    publisher = [Ola
+    Balola](https://zh.wikipedia.org/wiki/Ola_Balola "wikilink") |
+    accessdate = 2015-11-13 | archive-url =
     <https://web.archive.org/web/20151114024126/http://thegameawards.com/nominees/>
     | archive-date = 2015-11-14 | dead-url = yes }}

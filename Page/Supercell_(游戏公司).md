@@ -1,18 +1,17 @@
-**Supercell（超級細胞）**是一家[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基的电子游戏开发商](../Page/赫尔辛基.md "wikilink")。公司成立于2010年，目前主要制作面向[智能手机等移动平台的游戏](../Page/智能手机.md "wikilink")。其最令人熟知的作品包括了《》、《[部落冲突](../Page/部落冲突.md "wikilink")》、《》、《[部落冲突：皇室战争](../Page/部落冲突：皇室战争.md "wikilink")（Clash
-Royale)》《[荒野亂鬥](../Page/荒野亂鬥.md "wikilink")(Brawl Stars)
-》据统计在2013年，《卡通农场》和《部落冲突》两款游戏每天给公司带来250万美元的收入
-\[1\]。
+**Supercell（超級細胞）**是一家[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基的电子游戏开发商](../Page/赫尔辛基.md "wikilink")。公司成立于2010年，目前主要制作面向[智能手机等移动平台的游戏](../Page/智能手机.md "wikilink")。其最令人熟知的作品包括了《》、《[部落冲突](../Page/部落冲突.md "wikilink")》、《海岛奇兵》、《[部落冲突：皇室战争](https://zh.wikipedia.org/wiki/部落冲突：皇室战争 "wikilink")（Clash
+Royale)》《[荒野亂鬥](https://zh.wikipedia.org/wiki/荒野亂鬥 "wikilink")(Brawl
+Stars) 》据统计在2013年，《卡通农场》和《部落冲突》两款游戏每天给公司带来250万美元的收入 \[1\]。
 
 ## 歷史
 
 2011年时，美国著名风险投资公司曾投资120万美元给Supercell\[2\]。
 
-2013年8月，日本游戏公司[GungHo和其母公司](../Page/GungHo.md "wikilink")[软體银行花费](../Page/软體银行.md "wikilink")21亿美元收购了Supercell的51%的股份\[3\]；2015年6月，軟體銀行再度出资收购了Supercell的22.7%股份，并以73.7%成为公司大股东\[4\]。
+2013年8月，日本游戏公司[GungHo和其母公司](https://zh.wikipedia.org/wiki/GungHo "wikilink")[软體银行花费](https://zh.wikipedia.org/wiki/软體银行 "wikilink")21亿美元收购了Supercell的51%的股份\[3\]；2015年6月，軟體銀行再度出资收购了Supercell的22.7%股份，并以73.7%成为公司大股东\[4\]。
 
 2016年6月，中国的网络公司[腾讯宣布以](../Page/腾讯.md "wikilink")86亿美元的价格收购Supercell的84.3%的股份，达成控股\[5\]。
 
 2018年1月，Supercell
-旗下《部落衝突》、《部落衝突：皇室戰爭》等遊戲，都疑似含侵犯日本著名的社群網站[GREE專利的內容](../Page/GREE.md "wikilink")，遭Gree向東京地方法院提告，並要求
+旗下《部落衝突》、《部落衝突：皇室戰爭》等遊戲，都疑似含侵犯日本著名的社群網站[GREE專利的內容](https://zh.wikipedia.org/wiki/GREE "wikilink")，遭Gree向東京地方法院提告，並要求
 Supercell 停止使用疑似侵權的十幾項專利技術，Supercell將涉及專利糾紛的部分遊戲功能停用，並向受影響的玩家致歉。\[6\]
 
 ## 公司作品
@@ -41,14 +40,14 @@ Supercell 停止使用疑似侵權的十幾項專利技術，Supercell將涉及�
 <td></td>
 <td><p>2012年</p></td>
 <td><p><a href="../Page/塔防游戏.md" title="wikilink">塔防</a></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td><p>下架</p></td>
 <td><p>2012年内下架[8]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2012年</p></td>
-<td><p><a href="../Page/战略游戏.md" title="wikilink">战略</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS</p></td>
 <td><p>下架</p></td>
 <td><p>2012年内下架[9]</p></td>
@@ -64,11 +63,11 @@ Supercell 停止使用疑似侵權的十幾項專利技術，Supercell將涉及�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/部落衝突.md" title="wikilink">部落衝突</a>》<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/部落衝突" title="wikilink">部落衝突</a>》<br />
 （Clash of Clans）</p></td>
 <td><p>2012年<small>（iOS）</small><br />
 2013年<small>（Android）</small></p></td>
-<td><p><a href="../Page/战略游戏.md" title="wikilink">战略</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
 <td><p>运营中</p></td>
 <td></td>
@@ -77,25 +76,25 @@ Supercell 停止使用疑似侵權的十幾項專利技術，Supercell將涉及�
 <td><p>《海島奇兵》<br />
 （）</p></td>
 <td><p>2014年</p></td>
-<td><p><a href="../Page/战略游戏.md" title="wikilink">战略</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
 <td><p>运营中</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/部落衝突：皇室戰爭.md" title="wikilink">部落衝突：皇室戰爭</a>》<br />
-（<a href="../Page/Clash_Royale.md" title="wikilink">Clash Royale</a>）</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/部落衝突：皇室戰爭" title="wikilink">部落衝突：皇室戰爭</a>》<br />
+（<a href="https://zh.wikipedia.org/wiki/Clash_Royale" title="wikilink">Clash Royale</a>）</p></td>
 <td><p>2016年</p></td>
-<td><p><a href="../Page/战略游戏.md" title="wikilink">战略</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
 <td><p>运营中</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/荒野亂鬥.md" title="wikilink">荒野亂鬥</a>》<br />
-（<a href="../Page/Brawl_Stars.md" title="wikilink">Brawl Stars</a>）</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/荒野亂鬥" title="wikilink">荒野亂鬥</a>》<br />
+（<a href="https://zh.wikipedia.org/wiki/Brawl_Stars" title="wikilink">Brawl Stars</a>）</p></td>
 <td><p>2017年</p></td>
-<td><p><a href="../Page/战略游戏.md" title="wikilink">战略</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
 <td><p>运营中</p></td>
 <td></td>

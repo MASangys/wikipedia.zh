@@ -1,5 +1,5 @@
 "**Toxicity**"
-是亞美尼亞裔[美國](../Page/美國.md "wikilink")[重金屬樂隊](../Page/重金屬音樂.md "wikilink")[墮落體制的EP](../Page/墮落體制.md "wikilink")，於2002年發行。此曲同時收錄於[同名專輯](../Page/Toxicity_\(專輯\).md "wikilink")。
+是亞美尼亞裔[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[重金屬樂隊](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[墮落體制的EP](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，於2002年發行。此曲同時收錄於[同名專輯](../Page/Toxicity_\(專輯\).md "wikilink")。
 被稱作新金屬的經典之作(Nu-Metal Classic)\[1\]。
 
 ## 配樂
@@ -15,11 +15,11 @@
 
 ## 各地區排名
 
-| 排行榜 (2002)                                                          | 位置 |
-| ------------------------------------------------------------------- | -- |
-| U.S. [*Billboard* Hot 100](../Page/Billboard_Hot_100.md "wikilink") | 70 |
-| U.S.                                                                | 3  |
-| U.S.                                                                | 10 |
+| 排行榜 (2002)                                                                             | 位置 |
+| -------------------------------------------------------------------------------------- | -- |
+| U.S. [*Billboard* Hot 100](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink") | 70 |
+| U.S.                                                                                   | 3  |
+| U.S.                                                                                   | 10 |
 
 ## 外部連結
 

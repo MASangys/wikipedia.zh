@@ -1,7 +1,7 @@
 「**Gossip
-Girl**」是[韓國的女子組合](../Page/韓國.md "wikilink")[Rainbow的首張迷你專輯](../Page/Rainbow.md "wikilink")。2009年11月12日由[DSP
-Media發售](../Page/DSP_Media.md "wikilink")。以專輯同名歌曲「Gossip Girl」為派台歌、「Not
-your Girl」為第二派台歌。2011年Rainbow於日本出道，重新填上日語歌詞，並以單曲形式推出。
+Girl**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rainbow的首張迷你專輯](https://zh.wikipedia.org/wiki/Rainbow "wikilink")。2009年11月12日由[DSP
+Media發售](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。以專輯同名歌曲「Gossip
+Girl」為派台歌、「Not your Girl」為第二派台歌。2011年Rainbow於日本出道，重新填上日語歌詞，並以單曲形式推出。
 
 ## 概要
 
@@ -14,7 +14,7 @@ your Girl」為第二派台歌。2011年Rainbow於日本出道，重新填上日
   - 2009年11月14日，Rainbow正式出道，以《Gossip
     Girl》及展示「跳跳舞」、「親親舞」展開正式活動，\[1\]，翌年1月再以「Not
     your girl」作為第二主打\[2\]，並展示「這個這個」舞蹈。其中 《Gossip Girl》在[DMB
-    TV](../Page/DMB_TV.md "wikilink")、電台、CATV等的放送部門、以及「全年365日24小時不休的排行榜」中獲得了的一周總結第二位。\[3\]
+    TV](https://zh.wikipedia.org/wiki/DMB_TV "wikilink")、電台、CATV等的放送部門、以及「全年365日24小時不休的排行榜」中獲得了的一周總結第二位。\[3\]
   - 專輯非派台作品「Kiss」，由同公司[SS501](../Page/SS501.md "wikilink")[朴政珉作詞](../Page/朴政珉.md "wikilink")。
 
 ## 收錄歌曲

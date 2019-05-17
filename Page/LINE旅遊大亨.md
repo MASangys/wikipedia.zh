@@ -1,5 +1,5 @@
-\[1\]，是由[Netmarble開發](../Page/Netmarble_Games.md "wikilink")，在[韓國使用](../Page/韓國.md "wikilink")[KakaoTalk進行遊戲](../Page/KakaoTalk.md "wikilink")
-，[中國大陸由](../Page/中國大陸.md "wikilink")[騰訊遊戲代理](../Page/腾讯.md "wikilink")，[臺灣](../Page/臺灣.md "wikilink")、[日本](../Page/日本.md "wikilink")(停止營運)、[泰國與](../Page/泰國.md "wikilink")[印尼則由](../Page/印尼.md "wikilink")[LINE代理](../Page/LINE_\(應用程式\).md "wikilink")。
+\[1\]，是由[Netmarble開發](../Page/Netmarble_Games.md "wikilink")，在[韓國使用](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KakaoTalk進行遊戲](../Page/KakaoTalk.md "wikilink")
+，[中國大陸由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[騰訊遊戲代理](../Page/腾讯.md "wikilink")，[臺灣](../Page/臺灣.md "wikilink")、[日本](../Page/日本.md "wikilink")(停止營運)、[泰國與](https://zh.wikipedia.org/wiki/泰國 "wikilink")[印尼則由](https://zh.wikipedia.org/wiki/印尼 "wikilink")[LINE代理](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")。
 
 與傳統的《[大富翁](../Page/地產大亨.md "wikilink")》不同，依照按住按鈕的時間長短，來影響骰子數字大小。玩家可以獲得更多的勝利條件，例如三區、整排、旅遊景點，遊戲內還有各種不同的角色和道具可以進行強化、合成，每個角色跟道具都有自己的特殊能力。\[2\]
 
@@ -7,7 +7,7 @@
 
 ### 地圖
 
-遊戲中的地圖分為世界\[3\]、台灣（各國限定地圖均不同，有[台灣](../Page/台灣.md "wikilink")\[4\]、[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[韓國](../Page/韓國.md "wikilink")、[泰國](../Page/泰國.md "wikilink")、[印尼](../Page/印尼.md "wikilink")、西亞北非[波斯灣等版本](../Page/波斯灣.md "wikilink")）、樂園\[5\]、宇宙、探險\[6\]\[7\]、要塞\[8\]、夜市（此為臺版限定地圖，在其他版本中名為殭屍地圖）\[9\]、神之手\[10\]、魔法花園、極凍時代、玩具王國、水上都市、飛天法寶、追逐海岸、宇宙基地、雪橇山、計程車拉力賽、炸彈競技場共18個。
+遊戲中的地圖分為世界\[3\]、台灣（各國限定地圖均不同，有[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[4\]、[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、西亞北非[波斯灣等版本](https://zh.wikipedia.org/wiki/波斯灣 "wikilink")）、樂園\[5\]、宇宙、探險\[6\]\[7\]、要塞\[8\]、夜市（此為臺版限定地圖，在其他版本中名為殭屍地圖）\[9\]、神之手\[10\]、魔法花園、極凍時代、玩具王國、水上都市、飛天法寶、追逐海岸、宇宙基地、雪橇山、計程車拉力賽、炸彈競技場共18個。
 
 泰印、臺、日版跟進韓國把「所屬國家地圖」改造成「Stop\&Go地圖」，該地圖和原本地圖沒什麼變化而是引進了「地契」玩法來增加遊戲規則。
 
@@ -40,10 +40,12 @@
 | 滿月骰子           |
 | 世界樹骰子          |
 | 旅行箱骰子          |
+| 夢想骰子           |
+| 福豬骰子           |
 
 ### 角色卡片與幸運道具
 
-一般而言，各個地區將按照[韓國原廠的進度進行調整](../Page/大韩民国.md "wikilink")，不過某些地區也有專屬的角色、道具或者聯動，例如：台版於2018年7月底推出的八神庵與草薙京；日版有和動畫合作的角色等。
+一般而言，各個地區將按照[韓國原廠的進度進行調整](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，不過某些地區也有專屬的角色、道具或者聯動，例如：台版於2018年7月底推出的八神庵與草薙京；日版有和動畫合作的角色等。
 
 ## 評價
 
@@ -53,7 +55,7 @@ play商店達到](../Page/Google_Play.md "wikilink")4星以上\[17\]。不過有
 ## 影響
 
 台灣發生17歲少年誆稱知道手遊「LINE
-旅遊大亨」的無限量[幸運草密技](../Page/幸運草.md "wikilink")，誘騙2名國中二年級少女到家中性侵。\[19\]
+旅遊大亨」的無限量[幸運草密技](https://zh.wikipedia.org/wiki/幸運草 "wikilink")，誘騙2名國中二年級少女到家中性侵。\[19\]
 
 ## 主辦活動
 
@@ -64,15 +66,15 @@ GAME的賽事籌劃成功起步\[20\]。主要參與有泰國、印尼及台灣�
 
 旅遊大亨在2015年起開始為配合主辦單位或合作對象所辦的合作活動，活動所限定的角色在合約期間所出現。下列是歷屆舉辦的合作活動：
 
-| 合作日期        | 合作對象                                       |
-| ----------- | ------------------------------------------ |
-| 2015年2月13日  | 《奇人密碼：古羅布之謎》\[22\]                         |
-| 2015年9月30日  | [三麗鷗家族](../Page/三麗鷗.md "wikilink")\[23\]   |
-| 2017年1月26日  | [霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")\[24\] |
-| 2017年4月15日  | 日本的奇譚俱樂部\[25\]                             |
-| 2017年12月12日 | 《[餓狼傳說](../Page/餓狼傳說.md "wikilink")》\[26\] |
-| 2018年5月14日  | [中信兄弟](../Page/中信兄弟.md "wikilink")\[27\]   |
-| 2018年7月27日  | 《拳皇98UM》\[28\]                             |
+| 合作日期        | 合作對象                                                          |
+| ----------- | ------------------------------------------------------------- |
+| 2015年2月13日  | 《奇人密碼：古羅布之謎》\[22\]                                            |
+| 2015年9月30日  | [三麗鷗家族](../Page/三麗鷗.md "wikilink")\[23\]                      |
+| 2017年1月26日  | [霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")\[24\]                    |
+| 2017年4月15日  | 日本的奇譚俱樂部\[25\]                                                |
+| 2017年12月12日 | 《[餓狼傳說](https://zh.wikipedia.org/wiki/餓狼傳說 "wikilink")》\[26\] |
+| 2018年5月14日  | [中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")\[27\]   |
+| 2018年7月27日  | 《拳皇98UM》\[28\]                                                |
 
 ## 相關條目
 

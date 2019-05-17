@@ -4,7 +4,7 @@
 
 ### 机械装置
 
-  - [存水彎](../Page/存水彎.md "wikilink")
+  - [存水彎](https://zh.wikipedia.org/wiki/存水彎 "wikilink")
 
   - [狩獵陷阱](../Page/狩獵陷阱.md "wikilink")
 
@@ -12,7 +12,7 @@
       - [梁 (渔具)](../Page/梁_\(渔具\).md "wikilink")
 
       -
-      - [捕鼠器](../Page/捕鼠器.md "wikilink")
+      - [捕鼠器](https://zh.wikipedia.org/wiki/捕鼠器 "wikilink")
 
   - [詭雷](../Page/詭雷.md "wikilink")
 
@@ -45,7 +45,7 @@
 
   - 载波陷阱（Carrier trap），[半导体中的一种缺陷](../Page/半导体.md "wikilink")
 
-  - [化學捕捉](../Page/化學捕捉.md "wikilink")
+  - [化學捕捉](https://zh.wikipedia.org/wiki/化學捕捉 "wikilink")
 
   - ，半导体材料中的晶体缺陷
 
@@ -56,7 +56,7 @@
 ### 打印和排版
 
   -
-  - [油墨擴張彌補](../Page/油墨擴張彌補.md "wikilink")
+  - [油墨擴張彌補](https://zh.wikipedia.org/wiki/油墨擴張彌補 "wikilink")
 
 ### 运输技术
 
@@ -77,7 +77,8 @@
   -
 ### 音乐
 
-  - [陷阱音樂](../Page/陷阱音樂.md "wikilink")（又名渣铺，英语：Trap music）
+  - [陷阱音樂](https://zh.wikipedia.org/wiki/陷阱音樂 "wikilink")（又名渣铺，英语：Trap
+    music）
 
   - [Trap (专辑)](../Page/Trap_\(专辑\).md "wikilink")，香港歌手林峯的第7张粤语专辑
 
@@ -118,7 +119,7 @@
   -
 ## 运动
 
-  - [擋切戰術](../Page/擋切戰術.md "wikilink")
+  - [擋切戰術](https://zh.wikipedia.org/wiki/擋切戰術 "wikilink")
 
   -
   -

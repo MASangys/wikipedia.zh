@@ -1,6 +1,6 @@
 《**七龍珠Z
-神與神**》（，），是2013年3月30日上映的第18部《[七龍珠](../Page/七龍珠.md "wikilink")》劇場版動畫\[1\]，也是首部有連接電視動畫《[七龍珠](../Page/七龍珠.md "wikilink")》的劇場版，亦是《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》的第14部劇場版動畫。这是继《[七龙珠
-最强之道](../Page/七龙珠_最强之道.md "wikilink")》后，相隔18年再度推出全新劇場版。香港是在2013年8月15日，臺灣是在2013年10月25日上映\[2\]。
+神與神**》（，），是2013年3月30日上映的第18部《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》劇場版動畫\[1\]，也是首部有連接電視動畫《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》的劇場版，亦是《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》的第14部劇場版動畫。这是继《[七龙珠
+最强之道](https://zh.wikipedia.org/wiki/七龙珠_最强之道 "wikilink")》后，相隔18年再度推出全新劇場版。香港是在2013年8月15日，臺灣是在2013年10月25日上映\[2\]。
 
 ## 故事
 
@@ -30,14 +30,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孙悟天.md" title="wikilink">孙悟天</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/谢洁贞.md" title="wikilink">谢洁贞</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/谢洁贞" title="wikilink">谢洁贞</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/達爾.md" title="wikilink">達爾</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/堀川亮.md" title="wikilink">堀川亮</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/孫悟空_(七龍珠).md" title="wikilink">比克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫悟空_(七龍珠)" title="wikilink">比克</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/古川登志夫.md" title="wikilink">古川登志夫</a></p></td>
 </tr>
 <tr class="odd">
@@ -50,7 +50,7 @@
 </tr>
 <tr class="odd">
 <td><p>人造人18号</p></td>
-<td style="text-align: center;"><p><a href="../Page/伊藤美纪.md" title="wikilink">伊藤美纪</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/伊藤美纪" title="wikilink">伊藤美纪</a></p></td>
 </tr>
 <tr class="even">
 <td><p>天津飯</p></td>
@@ -61,40 +61,40 @@
 <td style="text-align: center;"><p><a href="../Page/江森浩子.md" title="wikilink">江森浩子</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/龟仙人.md" title="wikilink">龟仙人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龟仙人" title="wikilink">龟仙人</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/佐藤正治.md" title="wikilink">佐藤正治</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>乌龙</p></td>
-<td style="text-align: center;"><p><a href="../Page/龙田直树.md" title="wikilink">龙田直树</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/龙田直树" title="wikilink">龙田直树</a></p></td>
 </tr>
 <tr class="even">
 <td><p>亞姆</p></td>
 <td style="text-align: center;"><p><a href="../Page/古谷徹.md" title="wikilink">古谷徹</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/布瑪.md" title="wikilink">布瑪</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/鹤弘美.md" title="wikilink">鹤弘美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布瑪" title="wikilink">布瑪</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鹤弘美" title="wikilink">鹤弘美</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/琪琪.md" title="wikilink">琪琪</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/渡边菜生子.md" title="wikilink">渡边菜生子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琪琪" title="wikilink">琪琪</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/渡边菜生子" title="wikilink">渡边菜生子</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/維黛兒.md" title="wikilink">維黛兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/維黛兒" title="wikilink">維黛兒</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/皆口裕子.md" title="wikilink">皆口裕子</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/撒旦先生.md" title="wikilink">撒旦先生</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/石塚运昇.md" title="wikilink">石塚运昇</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/石塚运昇" title="wikilink">石塚运昇</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/魔人普烏.md" title="wikilink">魔人普烏</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/盐屋浩三.md" title="wikilink">盐屋浩三</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔人普烏" title="wikilink">魔人普烏</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/盐屋浩三" title="wikilink">盐屋浩三</a></p></td>
 </tr>
 <tr class="even">
 <td><p>牛魔王</p></td>
-<td style="text-align: center;"><p><a href="../Page/大友龙三郎.md" title="wikilink">大友龙三郎</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大友龙三郎" title="wikilink">大友龙三郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>界王</p></td>
@@ -102,11 +102,11 @@
 </tr>
 <tr class="even">
 <td><p>界王神</p></td>
-<td style="text-align: center;"><p><a href="../Page/三ツ矢雄二.md" title="wikilink">三ツ矢雄二</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/三ツ矢雄二" title="wikilink">三ツ矢雄二</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>老界王神</p></td>
-<td style="text-align: center;"><p><a href="../Page/野本礼三.md" title="wikilink">野本礼三</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/野本礼三" title="wikilink">野本礼三</a></p></td>
 </tr>
 <tr class="even">
 <td><p>比拉夫</p></td>
@@ -134,7 +134,7 @@
 </tr>
 <tr class="even">
 <td><p>神龍</p></td>
-<td style="text-align: center;"><p><a href="../Page/内海賢二.md" title="wikilink">内海賢二</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/内海賢二" title="wikilink">内海賢二</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>旁白</p></td>
@@ -188,7 +188,8 @@
 
 1.  [Dragon Ball Z: Battle of Gods
     (movie)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14887)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [《七龍珠Z劇場版：神與神》10月25日在台上映](http://gnn.gamer.com.tw/0/85810.html)[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")
 3.  <https://natalie.mu/comic/news/72927>　映画「ドラゴンボールZ」17年ぶり新作！空白の10年間描く』17年ぶり映画で復活
     Z～GT間の“空白の10年”紡ぐ

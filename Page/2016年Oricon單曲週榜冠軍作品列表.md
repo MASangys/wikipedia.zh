@@ -1,4 +1,4 @@
-**2016年Oricon單曲週榜冠軍作品列表**列出2016年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。2016年共有51首冠軍單曲誕生，有一首單曲能蟬聯冠軍兩周或以上。
+**2016年Oricon單曲週榜冠軍作品列表**列出2016年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2016年共有51首冠軍單曲誕生，有一首單曲能蟬聯冠軍兩周或以上。
 
 ## 冠軍單曲列表
 
@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>1月11日</p></td>
-<td><p><a href="../Page/凜冽寒風與單相思_/_ENDLESS_SKY_/_One_and_Only.md" title="wikilink">凜冽寒風與單相思 / ENDLESS SKY / One and Only</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凜冽寒風與單相思_/_ENDLESS_SKY_/_One_and_Only" title="wikilink">凜冽寒風與單相思 / ENDLESS SKY / One and Only</a></p></td>
 <td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。'15</a></p></td>
 <td><p>14.3</p></td>
 <td><p>1</p></td>
@@ -31,7 +31,7 @@
 <tr class="odd">
 <td><p>1月18日</p></td>
 <td></td>
-<td><p><a href="../Page/BOYS_AND_MEN.md" title="wikilink">BOYS AND MEN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BOYS_AND_MEN" title="wikilink">BOYS AND MEN</a></p></td>
 <td><p>10.2</p></td>
 <td><p>1</p></td>
 </tr>
@@ -59,7 +59,7 @@
 <tr class="odd">
 <td><p>2月15日</p></td>
 <td></td>
-<td><p><a href="../Page/BOYS_AND_MEN.md" title="wikilink">BOYS AND MEN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BOYS_AND_MEN" title="wikilink">BOYS AND MEN</a></p></td>
 <td><p>6.3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -72,7 +72,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月29日</p></td>
-<td><p><a href="../Page/櫻花狂熱夜_/_有些天真!_豬突猛進_/_嘿!_Kobushi魂.md" title="wikilink">櫻花狂熱夜 / 有些天真! 豬突猛進 / 嘿! Kobushi魂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻花狂熱夜_/_有些天真!_豬突猛進_/_嘿!_Kobushi魂" title="wikilink">櫻花狂熱夜 / 有些天真! 豬突猛進 / 嘿! Kobushi魂</a></p></td>
 <td><p><a href="../Page/Kobushi_Factory.md" title="wikilink">Kobushi Factory</a></p></td>
 <td><p>3.4</p></td>
 <td><p>1</p></td>
@@ -101,14 +101,14 @@
 <tr class="odd">
 <td><p>3月28日</p></td>
 <td></td>
-<td><p><a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>21.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>4月4日</p></td>
 <td><p><a href="../Page/當春紫苑盛開時.md" title="wikilink">當春紫苑盛開時</a></p></td>
-<td><p><a href="../Page/乃木坂46.md" title="wikilink">乃木坂46</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>75.0</p></td>
 <td><p>1</p></td>
 </tr>
@@ -156,14 +156,14 @@
 </tr>
 <tr class="odd">
 <td><p>5月23日</p></td>
-<td><p><a href="../Page/認真SUNSHINE.md" title="wikilink">認真SUNSHINE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/認真SUNSHINE" title="wikilink">認真SUNSHINE</a></p></td>
 <td><p><a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a></p></td>
 <td><p>26.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>5月30日</p></td>
-<td><p><a href="../Page/I_seek_/_Daylight.md" title="wikilink">I seek / Daylight</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I_seek_/_Daylight" title="wikilink">I seek / Daylight</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>73.8</p></td>
 <td><p>1</p></td>
@@ -199,20 +199,20 @@
 <tr class="odd">
 <td><p>7月4日</p></td>
 <td></td>
-<td><p><a href="../Page/偶像大師_灰姑娘女孩.md" title="wikilink">偶像大師 灰姑娘女孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩" title="wikilink">偶像大師 灰姑娘女孩</a></p></td>
 <td><p>8.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>7月11日</p></td>
-<td><p><a href="../Page/涙_(GENERATIONS單曲).md" title="wikilink">涙</a></p></td>
-<td><p><a href="../Page/GENERATIONS_from_EXILE_TRIBE.md" title="wikilink">GENERATIONS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/涙_(GENERATIONS單曲)" title="wikilink">涙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE" title="wikilink">GENERATIONS</a></p></td>
 <td><p>9.4</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月18日</p></td>
-<td><p><a href="../Page/罪與夏.md" title="wikilink">罪與夏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罪與夏" title="wikilink">罪與夏</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>27.5</p></td>
 <td><p>1</p></td>
@@ -226,15 +226,15 @@
 </tr>
 <tr class="odd">
 <td><p>8月1日</p></td>
-<td><p><a href="../Page/薔薇與太陽.md" title="wikilink">薔薇與太陽</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薔薇與太陽" title="wikilink">薔薇與太陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>19.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>8月8日</p></td>
 <td><p><a href="../Page/赤腳Summer.md" title="wikilink">赤腳Summer</a></p></td>
-<td><p><a href="../Page/乃木坂46.md" title="wikilink">乃木坂46</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>72.8</p></td>
 <td><p>1</p></td>
 </tr>
@@ -254,7 +254,7 @@
 </tr>
 <tr class="odd">
 <td><p>8月29日</p></td>
-<td><p><a href="../Page/金的愛，銀的愛.md" title="wikilink">金的愛，銀的愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金的愛，銀的愛" title="wikilink">金的愛，銀的愛</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>25.2</p></td>
 <td><p>1</p></td>
@@ -262,34 +262,34 @@
 <tr class="even">
 <td><p>9月5日</p></td>
 <td></td>
-<td><p><a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>26.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月12日</p></td>
-<td><p><a href="../Page/LOVE_TRIP/分享幸福.md" title="wikilink">LOVE TRIP/分享幸福</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福" title="wikilink">LOVE TRIP/分享幸福</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>117.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>9月19日</p></td>
-<td><p><a href="../Page/最棒了唷.md" title="wikilink">最棒了唷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最棒了唷" title="wikilink">最棒了唷</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>27.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月26日</p></td>
-<td><p><a href="../Page/Power_of_the_Paradise.md" title="wikilink">Power of the Paradise</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Power_of_the_Paradise" title="wikilink">Power of the Paradise</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>42.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>10月3日</p></td>
-<td><p><a href="../Page/WILD_WILD_WILD.md" title="wikilink">WILD WILD WILD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WILD_WILD_WILD" title="wikilink">WILD WILD WILD</a></p></td>
 <td><p><a href="../Page/EXILE_THE_SECOND.md" title="wikilink">EXILE THE SECOND</a></p></td>
 <td><p>3.4</p></td>
 <td><p>1</p></td>
@@ -297,7 +297,7 @@
 <tr class="odd">
 <td><p>10月10日</p></td>
 <td></td>
-<td><p><a href="../Page/iKON.md" title="wikilink">iKON</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
 <td><p>4.9</p></td>
 <td><p>1</p></td>
 </tr>
@@ -310,7 +310,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月24日</p></td>
-<td><p><a href="../Page/Panorama_(關西傑尼斯8單曲).md" title="wikilink">Panorama</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Panorama_(關西傑尼斯8單曲)" title="wikilink">Panorama</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>16.3</p></td>
 <td><p>1</p></td>
@@ -331,42 +331,42 @@
 </tr>
 <tr class="even">
 <td><p>11月14日</p></td>
-<td><p><a href="../Page/綻放於路途上的夢之花.md" title="wikilink">綻放於路途上的夢之花</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/綻放於路途上的夢之花" title="wikilink">綻放於路途上的夢之花</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>17.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月21日</p></td>
-<td><p><a href="../Page/再見的意義.md" title="wikilink">再見的意義</a></p></td>
-<td><p><a href="../Page/乃木坂46.md" title="wikilink">乃木坂46</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/再見的意義" title="wikilink">再見的意義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>82.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>11月28日</p></td>
-<td><p><a href="../Page/High_Tension.md" title="wikilink">High Tension</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>118.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月5日</p></td>
-<td><p><a href="../Page/性感小貓的演説_/_坦率地面對對方_/_不是這樣的.md" title="wikilink">性感小貓的演説 / 坦率地面對對方 / 不是這樣的</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/性感小貓的演説_/_坦率地面對對方_/_不是這樣的" title="wikilink">性感小貓的演説 / 坦率地面對對方 / 不是這樣的</a></p></td>
 <td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。'16</a></p></td>
 <td><p>9.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>12月12日</p></td>
-<td><p><a href="../Page/兩人季節.md" title="wikilink">兩人季節</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兩人季節" title="wikilink">兩人季節</a></p></td>
 <td><p><a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a></p></td>
 <td><p>44.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月19日</p></td>
-<td><p><a href="../Page/NOROSHI.md" title="wikilink">NOROSHI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NOROSHI" title="wikilink">NOROSHI</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>23.3</p></td>
 <td><p>1</p></td>

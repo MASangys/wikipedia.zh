@@ -1,4 +1,4 @@
-是日本[MOONSTONE在](../Page/MOONSTONE.md "wikilink")2009年4月24日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是日本[MOONSTONE在](../Page/MOONSTONE.md "wikilink")2009年4月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 
@@ -19,7 +19,7 @@
   - 宮崎由紀菜（CV：[安玖深音](../Page/安玖深音.md "wikilink")）
     生日：3月16日，星座：雙魚座，身高：155cm，三圍：85(C)/53/84
     勵學館學園2年E組學生，貴之的青梅竹馬。有被父母拋棄的過去。目前在喫茶店「」打工。
-  - 天津冬子（CV：[民安友繪](../Page/民安友繪.md "wikilink")）
+  - 天津冬子（CV：[民安友繪](https://zh.wikipedia.org/wiki/民安友繪 "wikilink")）
     生日：12月3日，星座：射手座，身高：164cm，三圍：88(D)/56/86
     勵學館學園3年A組學生，貴之的青梅竹馬。偶像團體「DATE COURSE」（）的主唱，藝名是天津りさ。
   - 御狹霧奏（御狭霧かなで　CV：[風音](../Page/風音.md "wikilink")）
@@ -28,13 +28,13 @@
 
 ### 其他角色
 
-  - リッタ（CV：[みる](../Page/みる.md "wikilink")）
+  - リッタ（CV：[みる](https://zh.wikipedia.org/wiki/みる "wikilink")）
     シェーラ的使魔。真實模樣是藍色小貓，能使用魔法變成人。
   - トスク（CV：[井村屋穗乃香](../Page/井村屋穗乃香.md "wikilink")）
     ニース的使魔。真實模樣是黃色小貓，能使用魔法變成人。
   - 町田小町（CV：川崎ハレ）
     勵學館學園2年E組學生。
-  - 左京みやこ（CV：[まきいづみ](../Page/まきいづみ.md "wikilink")）
+  - 左京みやこ（CV：[まきいづみ](https://zh.wikipedia.org/wiki/まきいづみ "wikilink")）
     勵學館學園3年A組學生，冬子的朋友。
   - 梅谷小雪（CV：中瀬ひな）
     勵學館學園1年E組學生，奏的朋友。在1年多前被貴之解救而暗戀貴之。
@@ -52,11 +52,11 @@
   - 片頭曲「Promise 〜月夜的記憶〜」（）\[3\]
     作詞：夕野ヨシミ，作曲：杉山由美，歌：[佐藤裕美](../Page/佐藤裕美.md "wikilink")\&NANA
   - 片尾曲「Kiss Me Tonight」
-    作詞：夕野ヨシミ，作曲：Fishtone，歌：[加濑爱奈](../Page/加濑爱奈.md "wikilink")
+    作詞：夕野ヨシミ，作曲：Fishtone，歌：[加濑爱奈](https://zh.wikipedia.org/wiki/加濑爱奈 "wikilink")
   - 挿入曲「」
     作詞：夕野ヨシミ，作曲：キャサリン，歌：デートコース（民安智惠&みるく&加濑爱奈）
   - 挿入曲「Tomorrow keep shining」
-    作詞：呉/加濑爱奈，作曲：つきのうさぎ，歌：[民安友繪](../Page/民安友繪.md "wikilink")
+    作詞：呉/加濑爱奈，作曲：つきのうさぎ，歌：[民安友繪](https://zh.wikipedia.org/wiki/民安友繪 "wikilink")
   - 挿入曲「Brave Heart」
     作詞/作曲/歌：Cy-Rim rev.
 
@@ -70,7 +70,7 @@
   - 系統監修：薫（retouch.info）
   - BGM：Angel Note
   - 影片：菱野優希（JamJamHouse）
-  - 協助：tororo（[CIRCUS](../Page/CIRCUS_\(遊戲品牌\).md "wikilink")）
+  - 協助：tororo（[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")）
   - 製作人：
 
 ## DATE COURSE
@@ -96,7 +96,8 @@
     作詞：夕野ヨシミ，作曲：キャサリン
   - （いちゃぷり\! 〜お嬢さまとイチャラブえっちな毎日〜 片尾曲）
     作詞：夕野ヨシミ，作曲：キャサリン
-  - アイドルKiss！無敵ッス☆（[あい☆きゃん](../Page/あい☆きゃん.md "wikilink") 片頭曲）
+  - アイドルKiss！無敵ッス☆（[あい☆きゃん](https://zh.wikipedia.org/wiki/あい☆きゃん "wikilink")
+    片頭曲）
     作詞：織姫よぞら，作曲：小池雅也，編曲：ケニーK
 
 ## 相關商品

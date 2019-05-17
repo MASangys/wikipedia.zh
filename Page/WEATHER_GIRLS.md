@@ -1,5 +1,5 @@
 《**WEATHER
-GIRLS**》是[台灣女子團體](../Page/台灣.md "wikilink")**[天氣女孩](../Page/天氣女孩.md "wikilink")**(）在日本出道發行的首張專輯，由[波麗佳音於](../Page/波麗佳音.md "wikilink")2013年7月3日推出。專輯總共收錄了十首歌。包裝概念以雲為主題，封面表達的是Weather
+GIRLS**》是[台灣女子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")**[天氣女孩](https://zh.wikipedia.org/wiki/天氣女孩 "wikilink")**(）在日本出道發行的首張專輯，由[波麗佳音於](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")2013年7月3日推出。專輯總共收錄了十首歌。包裝概念以雲為主題，封面表達的是Weather
 Girls穿著雲朵，乘著高氣壓來到日本。\[1\]
 
 ## 概要

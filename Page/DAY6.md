@@ -1,7 +1,8 @@
 | 經紀公司 = [JYP娛樂](../Page/JYP娛樂.md "wikilink") | 網站 = （韓國）
-（日本） | 現任成員 =  | 過往成員 = [晙赫](../Page/晙赫.md "wikilink") }}
-**DAY6**（）是[韓國](../Page/韓國.md "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2015年推出的六人男子樂團，原由[Jae](../Page/Jae.md "wikilink")、[晟鎮](../Page/晟鎮.md "wikilink")、[晙赫](../Page/晙赫.md "wikilink")、[Young
-K](../Page/姜永晛.md "wikilink")、[元弼及](../Page/金元弼.md "wikilink")[度雲](../Page/尹度雲.md "wikilink")6位成員組成，由晟鎮擔任隊長。2016年2月27日，成員晙赫退出DAY6並與JYP娛樂終止合約，自此DAY6成為五人樂團。
+（日本） | 現任成員 =  | 過往成員 =
+[晙赫](https://zh.wikipedia.org/wiki/晙赫 "wikilink") }}
+**DAY6**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2015年推出的六人男子樂團，原由[Jae](../Page/Jae.md "wikilink")、[晟鎮](https://zh.wikipedia.org/wiki/晟鎮 "wikilink")、[晙赫](https://zh.wikipedia.org/wiki/晙赫 "wikilink")、[Young
+K](../Page/姜永晛.md "wikilink")、[元弼及](https://zh.wikipedia.org/wiki/金元弼 "wikilink")[度雲](https://zh.wikipedia.org/wiki/尹度雲 "wikilink")6位成員組成，由晟鎮擔任隊長。2016年2月27日，成員晙赫退出DAY6並與JYP娛樂終止合約，自此DAY6成為五人樂團。
 
 2015年9月7日以迷你專輯《[The
 Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》正式出道，成員們不僅參與專輯所有詞曲創作，全團同時擔任演奏與vocal的型態，是韓語流行樂壇少見的風格。團名由[朴軫永命名](../Page/朴軫永.md "wikilink")，DAY6六位成員共代表一周裡的6天，第7天則是代表歌迷，由大家組成了一周，並周而復始的不斷循環下去\[1\]。官方粉絲名為「My
@@ -14,7 +15,7 @@ Day」\[2\]\[3\]，寓意為DAY6與歌迷成為填滿彼此每一天的珍貴存
 2012年，Jae參加[SBS電視台選秀節目](../Page/SBS_\(韓國\).md "wikilink")《[K-pop
 Star](../Page/K-pop_Star_1.md "wikilink")》第一季，最終獲得第六名並與[JYP娛樂簽約](../Page/JYP娛樂.md "wikilink")\[4\]。最初JYP娛樂宣佈推出一個名為「5LIVE」的5人樂團，採Acoustic
 Band的形式表演，成員有Jae、晟鎮、Young
-K、晙赫與元弼。2013年9月，5LIVE以JYP娛樂練習生的身分於[Mnet電視台實境節目](../Page/Mnet.md "wikilink")《[WIN](../Page/WIN.md "wikilink")》第四集中首次亮相，與[YG娛樂練習生就歌唱環節進行比拚](../Page/YG娛樂.md "wikilink")\[5\]。同年11月演唱[KBS電視劇](../Page/KBS.md "wikilink")《[漂亮男人](../Page/漂亮男人.md "wikilink")》原聲帶歌曲〈Lovely
+K、晙赫與元弼。2013年9月，5LIVE以JYP娛樂練習生的身分於[Mnet電視台實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN](../Page/WIN.md "wikilink")》第四集中首次亮相，與[YG娛樂練習生就歌唱環節進行比拚](../Page/YG娛樂.md "wikilink")\[5\]。同年11月演唱[KBS電視劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[漂亮男人](../Page/漂亮男人.md "wikilink")》原聲帶歌曲〈Lovely
 Girl〉。
 
 鼓手度雲於音樂大學學習打鼓，後透過教授推薦參加JYP娛樂試鏡\[6\]。2015年7月，JYP娛樂宣布度雲加入團體，並更改團名為「DAY6」\[7\]。為了累積經驗、準備出道，DAY6在首爾陸續舉辦數場小型的Live演唱會。9月6日於弘大西橋舉辦出道Showcase。
@@ -31,8 +32,8 @@ Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》的音源與主打歌
 Hall舉行公演時，凡晙赫演唱段落台下粉絲一律靜默不予應援\[12\]，隨後數張疑似晙赫與該名女粉絲的私訊對話截圖流出\[13\]，2月25日，晙赫更改個人[Instagram帳號](../Page/Instagram.md "wikilink")，並刪除多篇貼文與簡介上的DAY6標籤。2月27日晚間，JYP娛樂宣布晙赫因個人因素退出DAY6，同時與其終止專屬合約。\[14\]
 
 2月29日，DAY6官方臉書發文表示原訂於美國舉辦的粉絲見面會以及加拿大的公演行程將會如期舉行，並懇請所有粉絲繼續給予剩下的5位團員鼓勵和支持。\[15\]
-3月22日，JYP娛樂表示DAY6將不追加新成員，以5人組的形式繼續以後的活動\[16\]，3月30日發行第二張迷你專輯《[DAYDREAM](../Page/DAYDREAM.md "wikilink")》，並在隔日於[Mnet](../Page/Mnet.md "wikilink")《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》帶來出道以來首個音樂放送舞台，此次回歸一改以往只專注公演的宣傳方式，以音樂放送節目為中心展開活動。\[17\]
+3月22日，JYP娛樂表示DAY6將不追加新成員，以5人組的形式繼續以後的活動\[16\]，3月30日發行第二張迷你專輯《[DAYDREAM](https://zh.wikipedia.org/wiki/DAYDREAM "wikilink")》，並在隔日於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》帶來出道以來首個音樂放送舞台，此次回歸一改以往只專注公演的宣傳方式，以音樂放送節目為中心展開活動。\[17\]
 
 4月12日，官方臉書宣佈DAY6將於5月28、29日舉辦第二次單獨演唱會《DREAM》的消息，預告DAY6將以更成熟、更進步的面貌跟大家見面，同時公開演唱會海報\[18\]。2016年年底，迷你二輯《DAYDREAM》因其熟練優質的創作，獲選[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")2016年最佳韓國流行音樂專輯第二名。\[19\]
 
@@ -40,17 +41,19 @@ Countdown](../Page/M!_Countdown.md "wikilink")》帶來出道以來首個音樂�
 
 迎接2017年之際，官方Facebook專頁公開年度活動計畫，預告將於每月發行歌曲及舉行演唱會\[20\]。1月2日，公開一月份歌曲〈啊
 為什麼〉（；）預告為年度計畫拉開序幕\[21\]。1月6日，單曲專輯《[Every DAY6
-一月](../Page/Every_DAY6_一月.md "wikilink")》正式發行。1月31日，公開二月歌曲〈很美〉（；）預告，描述分手後的女人回想和戀人在一起的所有瞬間「你都很漂亮」的心情(MV)\[22\]。2月5日，《[Every
-DAY6 二月](../Page/Every_DAY6_二月.md "wikilink")》發行，收錄主打曲〈很美〉及B面曲〈My
-Day〉\[23\]。《[Every DAY6
-三月](../Page/Every_DAY6_三月.md "wikilink")》於2017年3月6日發行，收錄歌曲〈怎麼說〉（；）及〈就會那樣〉（；），是時隔1年後再次攜新曲登音樂節目宣傳\[24\]\[25\]\[26\]。4月6日，《[Every
+一月](https://zh.wikipedia.org/wiki/Every_DAY6_一月 "wikilink")》正式發行。1月31日，公開二月歌曲〈很美〉（；）預告，描述分手後的女人回想和戀人在一起的所有瞬間「你都很漂亮」的心情(MV)\[22\]。2月5日，《[Every
 DAY6
-四月](../Page/Every_DAY6_四月.md "wikilink")》發行，單曲發行後取得部份國家iTunes前三位榜單\[27\]。5月8日，公開第五張單曲《[Every
-DAY6 五月](../Page/Every_DAY6_五月.md "wikilink")》，主打曲〈Dance
+二月](https://zh.wikipedia.org/wiki/Every_DAY6_二月 "wikilink")》發行，收錄主打曲〈很美〉及B面曲〈My
+Day〉\[23\]。《[Every DAY6
+三月](https://zh.wikipedia.org/wiki/Every_DAY6_三月 "wikilink")》於2017年3月6日發行，收錄歌曲〈怎麼說〉（；）及〈就會那樣〉（；），是時隔1年後再次攜新曲登音樂節目宣傳\[24\]\[25\]\[26\]。4月6日，《[Every
+DAY6
+四月](https://zh.wikipedia.org/wiki/Every_DAY6_四月 "wikilink")》發行，單曲發行後取得部份國家iTunes前三位榜單\[27\]。5月8日，公開第五張單曲《[Every
+DAY6
+五月](https://zh.wikipedia.org/wiki/Every_DAY6_五月 "wikilink")》，主打曲〈Dance
 Dance〉非描述DAY6的愛情故事，而是以自由奔放為主的歌曲，充滿輕快與能量；B面曲〈Man In A
-Movie〉則描寫與愛人在一起時，自己如同電影男主角的心境故事，歌曲以[六八音符為基調加入現代搖滾](../Page/拍號.md "wikilink")、混音及[管絃樂等元素](../Page/管絃樂.md "wikilink")。\[28\]
+Movie〉則描寫與愛人在一起時，自己如同電影男主角的心境故事，歌曲以[六八音符為基調加入現代搖滾](../Page/拍號.md "wikilink")、混音及[管絃樂等元素](https://zh.wikipedia.org/wiki/管絃樂 "wikilink")。\[28\]
 
-5月30日，公開首張正規專輯《[Sunrise](../Page/Sunrise_\(Day6專輯\).md "wikilink")》預告，透露專輯將於6月7日發行\[29\]。於2017年6月7日正式公佈官方粉絲名為「My
+5月30日，公開首張正規專輯《[Sunrise](https://zh.wikipedia.org/wiki/Sunrise_\(Day6專輯\) "wikilink")》預告，透露專輯將於6月7日發行\[29\]。於2017年6月7日正式公佈官方粉絲名為「My
 Day」，寓意為DAY6與歌迷成為填滿彼此每一天的珍貴存在\[30\]。7月6日，公開《Every DAY6
 七月》單曲，收錄2首成員自作曲\[31\]，此外相較二至六月間舉行的單獨演唱會每場約1,100人左右，七月份「Every
 DAY6 Concert in
@@ -58,12 +61,13 @@ July」規模提升兩倍上千張門票仍全數售罄，顯示樂團人氣成�
 
 2017年8月7日，《Every DAY6
 八月》發行，主打曲〈很喜歡怎麼辦〉（；）描述男子隨心儀對象而情緒起伏\[34\]\[35\]，以強烈伴奏表達對對方的感情，描述在壓抑的心情中自言自語般說著「為什麼這也做不好」的心情，在曲中營造反轉氣氛。收錄曲《Whatever\!》（）包含著同齡人的故事，由貝斯手Young
-K填詞，鍵盤手元弼則提供靈感，他希望將歌曲營造成「都一起玩耍吧！」的氣氛，其中也包括與友人見面後，對方分享因生活而勞累的煩惱\[36\]。單曲發行後，主打曲取得中國[酷狗音樂韓國新歌榜冠軍](../Page/酷狗音樂.md "wikilink")，亦在[新加坡](../Page/新加坡.md "wikilink")、[菲律賓](../Page/菲律賓.md "wikilink")、[美國等地之](../Page/美國.md "wikilink")[iTunes熱門歌曲榜進入前](../Page/iTunes.md "wikilink")10名，同時在美國、[奧地利](../Page/奧地利.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[馬來西亞](../Page/馬來西亞.md "wikilink")、菲律賓、[紐西蘭等地的iTunes韓國流行音樂榜登上](../Page/紐西蘭.md "wikilink")1位。\[37\]
+K填詞，鍵盤手元弼則提供靈感，他希望將歌曲營造成「都一起玩耍吧！」的氣氛，其中也包括與友人見面後，對方分享因生活而勞累的煩惱\[36\]。單曲發行後，主打曲取得中國[酷狗音樂韓國新歌榜冠軍](https://zh.wikipedia.org/wiki/酷狗音樂 "wikilink")，亦在[新加坡](../Page/新加坡.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[美國等地之](https://zh.wikipedia.org/wiki/美國 "wikilink")[iTunes熱門歌曲榜進入前](https://zh.wikipedia.org/wiki/iTunes "wikilink")10名，同時在美國、[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、菲律賓、[紐西蘭等地的iTunes韓國流行音樂榜登上](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")1位。\[37\]
 
 「Every DAY6」計畫第九張單曲《Every DAY6 九月》於9月6日發行，主打曲〈I Loved
 You〉（）是一首現代搖滾風格的抒情歌曲，描寫即使想忘卻仍然無限思念著的心情\[38\]\[39\]，曲名「I
-Loved You」使用了[過去式](../Page/過去式.md "wikilink")，相較於單純甜蜜的「I Love You」，「I
 Loved
+You」使用了[過去式](https://zh.wikipedia.org/wiki/過去式 "wikilink")，相較於單純甜蜜的「I
+Love You」，「I Loved
 You」包含著「愛過你」的含意，以凸顯心情鬱悶及懇切的心情，與先前發行的歌曲〈很美〉同樣帶著回想的感情。歌曲開頭使用的環境音是由樂團成員親自現場錄製，錄製時下起了瓢潑大雨而等待了近兩小時，不過最終雨聲及昆蟲鳴叫混合的效果卻更好。B面曲〈I'll
 Remember〉（\[40\]）則是回想至今為止擁有的回憶，欲將美好情節保留下來的溫暖歌曲。\[41\]
 
@@ -71,12 +75,12 @@ Remember〉（\[40\]）則是回想至今為止擁有的回憶，欲將美好情
 
 ### 2018年：日本出道、《Shoot Me : Youth Part 1》
 
-完成2017年年度計畫，同時發行兩張專輯後，JYP娛樂於年初宣布DAY6即將進軍日本，单曲《If～倘若再次相逢～》（）於3月14日發行，儘管单曲尚未正式发行，同名主打曲已被選定作為電視劇《[Repeat～改變命運的10個月～](../Page/Repeat～改變命運的10個月～.md "wikilink")》主題曲\[43\]。6月13日，DAY6舉行首次日本演唱會「The
+完成2017年年度計畫，同時發行兩張專輯後，JYP娛樂於年初宣布DAY6即將進軍日本，单曲《If～倘若再次相逢～》（）於3月14日發行，儘管单曲尚未正式发行，同名主打曲已被選定作為電視劇《[Repeat～改變命運的10個月～](https://zh.wikipedia.org/wiki/Repeat～改變命運的10個月～ "wikilink")》主題曲\[43\]。6月13日，DAY6舉行首次日本演唱會「The
 Best Day」\[44\]。第二張日本單曲《Stop The
 Rain》於7月13日發行，由日本知名吉他手生形真一擔任製作人，DAY6成員參與作曲外，還以日、英雙語作詞。\[45\]\[46\]
 
 除了日本活動，DAY6亦在6月26日發行第三張迷你專輯《[Shoot Me : Youth Part
-1](../Page/Shoot_Me_:_Youth_Part_1.md "wikilink")》\[47\]\[48\]，專輯發行首週空降韓國[Gaon專輯榜第](../Page/Gaon音樂榜.md "wikilink")3名\[49\]、美國告示牌世界專輯榜第6名\[50\]，截至8月，專輯售出約6萬張。\[51\]
+1](https://zh.wikipedia.org/wiki/Shoot_Me_:_Youth_Part_1 "wikilink")》\[47\]\[48\]，專輯發行首週空降韓國[Gaon專輯榜第](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")3名\[49\]、美國告示牌世界專輯榜第6名\[50\]，截至8月，專輯售出約6萬張。\[51\]
 
 DAY6首場世界巡迴演唱會「Youth」由6月22日至24日首爾站次揭開序幕，巡演預計在亞洲、南美洲、歐洲等24個不同城市舉行\[52\]\[53\]。
 
@@ -89,17 +93,17 @@ Live 直播。
 
 ## 成員資料
 
-| 成員列表\[54\]\[55\]                         |
-| ---------------------------------------- |
-| 藝名                                       |
-| 藝名                                       |
-| [Jae](../Page/Jae.md "wikilink")         |
-| [晟鎮](../Page/晟鎮.md "wikilink")           |
-| [Young K](../Page/Young_K.md "wikilink") |
-| [元弼](../Page/金元弼.md "wikilink")          |
-| [度雲](../Page/尹度雲.md "wikilink")          |
-| 離隊成員                                     |
-| [晙赫](../Page/晙赫.md "wikilink")           |
+| 成員列表\[54\]\[55\]                                            |
+| ----------------------------------------------------------- |
+| 藝名                                                          |
+| 藝名                                                          |
+| [Jae](../Page/Jae.md "wikilink")                            |
+| [晟鎮](https://zh.wikipedia.org/wiki/晟鎮 "wikilink")           |
+| [Young K](https://zh.wikipedia.org/wiki/Young_K "wikilink") |
+| [元弼](https://zh.wikipedia.org/wiki/金元弼 "wikilink")          |
+| [度雲](https://zh.wikipedia.org/wiki/尹度雲 "wikilink")          |
+| 離隊成員                                                        |
+| [晙赫](https://zh.wikipedia.org/wiki/晙赫 "wikilink")           |
 
 ### 成員變遷表
 
@@ -132,15 +136,15 @@ PlotData =
 
 #### 正規專輯
 
-  - [Sunrise](../Page/Sunrise_\(Day6專輯\).md "wikilink")（2017年6月7日）
-  - [Moonrise](../Page/Moonrise_\(Day6專輯\).md "wikilink")（2017年12月6日）
+  - [Sunrise](https://zh.wikipedia.org/wiki/Sunrise_\(Day6專輯\) "wikilink")（2017年6月7日）
+  - [Moonrise](https://zh.wikipedia.org/wiki/Moonrise_\(Day6專輯\) "wikilink")（2017年12月6日）
 
 #### 迷你專輯
 
   - [The Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")（2015年9月7日）
   - [Daydream](../Page/Daydream.md "wikilink")（2016年3月30日）
   - [Shoot Me : Youth Part
-    1](../Page/Shoot_Me_:_Youth_Part_1.md "wikilink")（2018年6月26日）
+    1](https://zh.wikipedia.org/wiki/Shoot_Me_:_Youth_Part_1 "wikilink")（2018年6月26日）
   - [Remember Us : Youth Part
     2](../Page/Remember_Us_:_Youth_Part_2.md "wikilink")（2018年12月10日）
 
@@ -148,17 +152,19 @@ PlotData =
 
 #### 正規專輯
 
-  - [Unlock](../Page/Unlock_\(Day6專輯\).md "wikilink")（2018年10月17日）
+  - [Unlock](https://zh.wikipedia.org/wiki/Unlock_\(Day6專輯\) "wikilink")（2018年10月17日）
 
 #### 單曲
 
   - （2018年3月14日）
 
-  - [Stop The Rain](../Page/Stop_The_Rain.md "wikilink")（2018年7月25日）
+  - [Stop The
+    Rain](https://zh.wikipedia.org/wiki/Stop_The_Rain "wikilink")（2018年7月25日）
 
 ### 精選輯
 
-  - [The Best Day](../Page/The_Best_Day.md "wikilink")（2018年6月6日）
+  - [The Best
+    Day](https://zh.wikipedia.org/wiki/The_Best_Day "wikilink")（2018年6月6日）
 
 ## 創作作品
 
@@ -199,14 +205,14 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>Sky High</p></td>
 <td><p>2015年6月5日</p></td>
 <td><p>《Sky High》</p></td>
-<td><p><a href="../Page/朴新星.md" title="wikilink">朴新星</a>、Like Likes</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴新星" title="wikilink">朴新星</a>、Like Likes</p></td>
 <td><p>colspan=2 rowspan=2 </p></td>
 <td><p>作詞</p></td>
 </tr>
 <tr class="even">
 <td><p>Beggin On My Knees</p></td>
 <td><p>2016年3月21日</p></td>
-<td><p>《<a href="../Page/Flight_Log:_Departure.md" title="wikilink">Flight Log: Departure</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Flight_Log:_Departure" title="wikilink">Flight Log: Departure</a>》</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>作詞</p></td>
 <td><p>[61]</p></td>
@@ -214,7 +220,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tr class="odd">
 <td><p>Answer</p></td>
 <td><p>2016年8月23日</p></td>
-<td><p>《<a href="../Page/從19歲到20歲.md" title="wikilink">從19歲到20歲</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/從19歲到20歲" title="wikilink">從19歲到20歲</a>》</p></td>
 <td><p><a href="../Page/朴智敏.md" title="wikilink">朴智敏</a></p></td>
 <td><p>colspan=2</p></td>
 <td><p>作詞</p></td>
@@ -230,7 +236,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tr class="odd">
 <td><p>Stuck On You</p></td>
 <td><p>2016年11月21日</p></td>
-<td><p>《<a href="../Page/Burst.md" title="wikilink">Burst</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Burst" title="wikilink">Burst</a>》</p></td>
 <td><p><a href="../Page/UP10TION.md" title="wikilink">UP10TION</a></p></td>
 <td></td>
 <td><p>作詞<br />
@@ -239,7 +245,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tr class="even">
 <td><p>In Your Eyes</p></td>
 <td><p>2017年4月25日</p></td>
-<td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊</a>》電視原聲帶</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊</a>》電視原聲帶</p></td>
 <td><p>Crude Play</p></td>
 <td><p>colspan=2 </p></td>
 <td><p>作詞</p></td>
@@ -346,14 +352,14 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tr class="even">
 <td><p>2015年9月11日</p></td>
 <td><p>KBS2</p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳熙烈的寫生簿</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a>》</p></td>
 <td><p>Young K</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年6月28日－2018年7月17日</p></td>
-<td><p><a href="../Page/阿里郎電視台.md" title="wikilink">Arirang TV</a></p></td>
-<td><p>《<a href="../Page/After_School_Club.md" title="wikilink">After School Club</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">Arirang TV</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a>》</p></td>
 <td><p>Jae</p></td>
 <td><p>固定主持</p></td>
 </tr>
@@ -366,8 +372,8 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="odd">
 <td><p>2016年7月19日</p></td>
-<td><p><a href="../Page/阿里郎電視台.md" title="wikilink">Arirang TV</a></p></td>
-<td><p>《<a href="../Page/After_School_Club.md" title="wikilink">After School Club</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">Arirang TV</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a>》</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
@@ -387,22 +393,22 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="even">
 <td><p>2016年11月15日</p></td>
-<td><p><a href="../Page/阿里郎電視台.md" title="wikilink">Arirang TV</a></p></td>
-<td><p>《<a href="../Page/After_School_Club.md" title="wikilink">After School Club</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">Arirang TV</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/After_School_Club" title="wikilink">After School Club</a>》</p></td>
 <td><p>Young K、元弼</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年1月27日－2月3日</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a></p></td>
-<td><p>《<a href="../Page/二重唱歌謠祭.md" title="wikilink">二重唱歌謠祭</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a>》</p></td>
 <td><p>晟鎮</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月8日</p></td>
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳熙烈的寫生簿</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a>》</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
@@ -514,7 +520,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tr class="even">
 <td><p>2018年9月5日</p></td>
 <td><p>tvN</p></td>
-<td><p>《<a href="../Page/周三美食匯.md" title="wikilink">周三美食匯</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/周三美食匯" title="wikilink">周三美食匯</a>》</p></td>
 <td><p>度云</p></td>
 <td></td>
 </tr>
@@ -537,40 +543,40 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 
 #### 嘉賓出演
 
-| 播出日期        | 播放平台          | 節目名稱                                             | 參與成員          | 備註     |
-| ----------- | ------------- | ------------------------------------------------ | ------------- | ------ |
-| 2015年9月17日  | MBC 標準FM      | 《 鄭俊英的深深打破》                                      | 全體            |        |
-| 2015年9月25日  | KBS Cool FM   | 《Super Junior的Kiss the radio》                    |               |        |
-| 2015年10月2日  | MBC 標準FM      | 《許景煥的星光閃耀的夜晚》                                    |               |        |
-| 2015年10月27日 | MBC FM4U      | 《朴慶林兩點的約會》                                       |               |        |
-| 2015年12月24日 | Arirang Radio | 《 MUSIC ACCESS》                                  |               |        |
-| 2016年4月4日   | Arirang Radio | 《Super K-pop》                                    |               |        |
-| 2016年4月8日   | SBS Power FM  | 《崔華靜的power time》                                 |               |        |
-| 2016年4月8日   | MBC 標準FM      | 《 박정아의 달빛낙원》                                     |               |        |
-| 2016年4月24日  | SBS POWER FM  | 《兩點出逃Cultwo Show》                                |               |        |
-| 2016年5月2日   | SBS POWER FM  | 《李國主的 YOUNG STREET》                              |               |        |
-| 2016年6月25日  | KBS Cool FM   | 《 劉智媛的屋塔房RADIO》                                  |               |        |
-| 2017年2月3日   | SBS POWER FM  | 《崔華靜的power time》                                 | Young K、元弼、度雲 |        |
-| 2017年3月18日  | KBS CoolFM    | 《朴志胤的歌謠廣場》                                       | 全體            |        |
-| 2017年4月7日   | SBS POWER FM  | 《崔華靜的power time》                                 |               |        |
-| 2017年4月27日  | SBS POWER FM  | 《NCT的night night》                                | Young K、元弼、度雲 |        |
-| 2017年5月19日  |               |                                                  |               |        |
-| 2017年5月22日  | SBS POWER FM  | 《李國主的 YOUNG STREET》                              | 全體            |        |
-| 2017年5月27日  | SBS POWER FM  | 《樸素賢的 Love Game》                                 | 晟鎮、元弼         |        |
-| 2017年6月8日   | SBS POWER FM  | 《兩點出逃Cultwo Show》                                | 全體            |        |
-| 2017年6月19日  | KBS CoolFM    | 《朴志胤的歌謠廣場》                                       | 全體            | Jae 缺席 |
-| 2017年6月22日  | SBS POWER FM  | 《NCT的night night》                                |               |        |
-| 2017年8月23日  | SBS POWER FM  | 《崔華靜的power time》                                 | 元弼、度雲         |        |
-| 2017年8月25日  | KBS CoolFM    | 《朴志胤的歌謠廣場》                                       | Young K       |        |
-| 2017年8月30日  | SBS POWER FM  | 《崔華靜的power time》                                 | 元弼、度雲         |        |
-| 2018年6月29日  | SBS POWER FM  | 《崔華靜的power time》                                 | 元弼、度雲         |        |
-| 2018年7月2日   | Arirang Radio | 《 Super K-Pop》                                   | 全體            |        |
-| 2018年7月2日   | SBS POWER FM  | 《 李國主的 YOUNG STREET》                             |               |        |
-| 2018年7月4日   | SBS Love FM   | 《 송은이, 김숙의 언니네 라디오》                              |               |        |
-| 2018年7月4日   | SBS Love FM   | 《 설레는 밤, 김예원입니다》                                 |               |        |
-| 2017年7月4日   | SBS POWER FM  | 《NCT的night night》                                |               |        |
-| 2018年7月7日   | MBC 標準FM      | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》 |               |        |
-|             |               |                                                  |               |        |
+| 播出日期        | 播放平台          | 節目名稱                                                                | 參與成員          | 備註     |
+| ----------- | ------------- | ------------------------------------------------------------------- | ------------- | ------ |
+| 2015年9月17日  | MBC 標準FM      | 《 鄭俊英的深深打破》                                                         | 全體            |        |
+| 2015年9月25日  | KBS Cool FM   | 《Super Junior的Kiss the radio》                                       |               |        |
+| 2015年10月2日  | MBC 標準FM      | 《許景煥的星光閃耀的夜晚》                                                       |               |        |
+| 2015年10月27日 | MBC FM4U      | 《朴慶林兩點的約會》                                                          |               |        |
+| 2015年12月24日 | Arirang Radio | 《 MUSIC ACCESS》                                                     |               |        |
+| 2016年4月4日   | Arirang Radio | 《Super K-pop》                                                       |               |        |
+| 2016年4月8日   | SBS Power FM  | 《崔華靜的power time》                                                    |               |        |
+| 2016年4月8日   | MBC 標準FM      | 《 박정아의 달빛낙원》                                                        |               |        |
+| 2016年4月24日  | SBS POWER FM  | 《兩點出逃Cultwo Show》                                                   |               |        |
+| 2016年5月2日   | SBS POWER FM  | 《李國主的 YOUNG STREET》                                                 |               |        |
+| 2016年6月25日  | KBS Cool FM   | 《 劉智媛的屋塔房RADIO》                                                     |               |        |
+| 2017年2月3日   | SBS POWER FM  | 《崔華靜的power time》                                                    | Young K、元弼、度雲 |        |
+| 2017年3月18日  | KBS CoolFM    | 《朴志胤的歌謠廣場》                                                          | 全體            |        |
+| 2017年4月7日   | SBS POWER FM  | 《崔華靜的power time》                                                    |               |        |
+| 2017年4月27日  | SBS POWER FM  | 《NCT的night night》                                                   | Young K、元弼、度雲 |        |
+| 2017年5月19日  |               |                                                                     |               |        |
+| 2017年5月22日  | SBS POWER FM  | 《李國主的 YOUNG STREET》                                                 | 全體            |        |
+| 2017年5月27日  | SBS POWER FM  | 《樸素賢的 Love Game》                                                    | 晟鎮、元弼         |        |
+| 2017年6月8日   | SBS POWER FM  | 《兩點出逃Cultwo Show》                                                   | 全體            |        |
+| 2017年6月19日  | KBS CoolFM    | 《朴志胤的歌謠廣場》                                                          | 全體            | Jae 缺席 |
+| 2017年6月22日  | SBS POWER FM  | 《NCT的night night》                                                   |               |        |
+| 2017年8月23日  | SBS POWER FM  | 《崔華靜的power time》                                                    | 元弼、度雲         |        |
+| 2017年8月25日  | KBS CoolFM    | 《朴志胤的歌謠廣場》                                                          | Young K       |        |
+| 2017年8月30日  | SBS POWER FM  | 《崔華靜的power time》                                                    | 元弼、度雲         |        |
+| 2018年6月29日  | SBS POWER FM  | 《崔華靜的power time》                                                    | 元弼、度雲         |        |
+| 2018年7月2日   | Arirang Radio | 《 Super K-Pop》                                                      | 全體            |        |
+| 2018年7月2日   | SBS POWER FM  | 《 李國主的 YOUNG STREET》                                                |               |        |
+| 2018年7月4日   | SBS Love FM   | 《 송은이, 김숙의 언니네 라디오》                                                 |               |        |
+| 2018年7月4日   | SBS Love FM   | 《 설레는 밤, 김예원입니다》                                                    |               |        |
+| 2017年7月4日   | SBS POWER FM  | 《NCT的night night》                                                   |               |        |
+| 2018年7月7日   | MBC 標準FM      | 《[IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")》 |               |        |
+|             |               |                                                                     |               |        |
 
 ## 演唱會及巡演
 
@@ -634,7 +640,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>12月5日</p></td>
 <td><p>2015 Fan Meeting in Singapore</p></td>
 <td><p>新加坡</p></td>
-<td><p><a href="../Page/濱海灣金沙.md" title="wikilink">濱海灣金沙會館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/濱海灣金沙" title="wikilink">濱海灣金沙會館</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -650,7 +656,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>12月10日</p></td>
 <td><p>Fan Meeting in Singapore「DayDream」</p></td>
 <td><p>新加坡</p></td>
-<td><p><a href="../Page/Megabox.md" title="wikilink">Megabox會館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Megabox" title="wikilink">Megabox會館</a></p></td>
 <td><p>[64]</p></td>
 </tr>
 <tr class="even">
@@ -688,7 +694,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tr class="even">
 <td><p>10月20日</p></td>
 <td><p>Live &amp; Meet in North America 2017</p></td>
-<td><p><a href="../Page/洛杉磯.md" title="wikilink">洛杉磯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p>La Mirada Threatre</p></td>
 <td><p>[66]</p></td>
 <td></td>
@@ -752,13 +758,13 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>2016年</p></td>
 <td><p>8月6日－7日</p></td>
 <td><p><a href="../Page/JYP娛樂.md" title="wikilink">JYP Nation演唱會</a>「Mix &amp; Match」</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">首爾蠶室體育館</a></p></td>
 <td><p>[68]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月2日－4日</p></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td><p><a href="../Page/國立代代木競技場.md" title="wikilink">國立代代木競技場第一體育館</a></p></td>
 <td></td>
 <td></td>
@@ -808,7 +814,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>11月1日</p></td>
 <td><p>2018平昌冬奧倒數百日聖火傳遞慶祝KPOP演唱會</p></td>
 <td><p>首爾</p></td>
-<td><p><a href="../Page/光化門廣場.md" title="wikilink">光化門廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光化門廣場" title="wikilink">光化門廣場</a></p></td>
 <td><p>[73]</p></td>
 <td></td>
 </tr>
@@ -905,7 +911,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>[76]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/首爾音樂獎.md" title="wikilink">首爾音樂獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾音樂獎</a></p></td>
 <td><p>2016年1月19日</p></td>
 <td><p>本賞</p></td>
 <td><p>〈<a href="../Page/The_Day_(DAY6迷你專輯).md" title="wikilink">Congratulations</a>〉</p></td>
@@ -947,7 +953,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tr class="odd">
 <td><p>2017年12月1日</p></td>
 <td><p>最佳樂團表演獎</p></td>
-<td><p>DAY6〈<a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">I Smile</a>〉</p></td>
+<td><p>DAY6〈<a href="https://zh.wikipedia.org/wiki/Sunrise_(Day6專輯)" title="wikilink">I Smile</a>〉</p></td>
 <td></td>
 <td><p>[79]</p></td>
 <td></td>
@@ -964,15 +970,15 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">甜瓜音樂獎</a></p></td>
 <td><p>2017年12月2日</p></td>
 <td><p>搖滾獎</p></td>
-<td><p>DAY6〈<a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">You Were Beautiful</a>〉</p></td>
+<td><p>DAY6〈<a href="https://zh.wikipedia.org/wiki/Sunrise_(Day6專輯)" title="wikilink">You Were Beautiful</a>〉</p></td>
 <td></td>
 <td><p>[80]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MBC_Plus_X_Genie音乐奖.md" title="wikilink">MBC Plus X Genie音乐奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_X_Genie音乐奖" title="wikilink">MBC Plus X Genie音乐奖</a></p></td>
 <td><p>2018年11月6日</p></td>
 <td><p>年度歌曲</p></td>
-<td><p>DAY6〈<a href="../Page/Shoot_Me_:_Youth_Part_1.md" title="wikilink">Shoot Me</a>〉</p></td>
+<td><p>DAY6〈<a href="https://zh.wikipedia.org/wiki/Shoot_Me_:_Youth_Part_1" title="wikilink">Shoot Me</a>〉</p></td>
 <td></td>
 <td><p>[81]</p></td>
 </tr>
@@ -1016,7 +1022,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <tbody>
 <tr class="odd">
 <td><p><small><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a><br />
-《<a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a>》</small><br />
+《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</small><br />
 <ref>主打歌曲在Mnet《M! Countdown》成績：</p>
 <ul>
 <li></li>
@@ -1024,8 +1030,8 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p><small><a href="../Page/KBS第2頻道.md" title="wikilink">KBS2</a><br />
-《<a href="../Page/KBS音樂銀行.md" title="wikilink">Music Bank</a>》</small><br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a><br />
+《<a href="https://zh.wikipedia.org/wiki/KBS音樂銀行" title="wikilink">Music Bank</a>》</small><br />
 <ref>主打歌曲在KBS《音樂銀行》成績：</p>
 <ul>
 <li>〈Congratulations〉（2015年9月第3週）</li>
@@ -1033,8 +1039,8 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <li>〈I Smile〉（2017年6月第3週）</li>
 <li>〈I Like You〉（2017年12月第2週）</ref></li>
 </ul></td>
-<td><p><small><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a><br />
-《<a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a>》</small><br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a><br />
+《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》</small><br />
 <ref>主打歌曲在MBC《Show! 音樂中心》成績：</p>
 <ul>
 <li>〈I Smile〉（2016年6月17日，#15）</li>
@@ -1059,7 +1065,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="odd">
 <td><p>Letting Go</p></td>
-<td><p><a href="../Page/DAYDREAM.md" title="wikilink">DAYDREAM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DAYDREAM" title="wikilink">DAYDREAM</a></p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="even">
@@ -1069,7 +1075,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="odd">
 <td><p>I Wait</p></td>
-<td><p><a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">Sunrise</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sunrise_(Day6專輯)" title="wikilink">Sunrise</a></p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="even">
@@ -1099,7 +1105,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="odd">
 <td><p>Hi Hello</p></td>
-<td><p><a href="../Page/Moonrise_(Day6專輯).md" title="wikilink">Moonrise</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Moonrise_(Day6專輯)" title="wikilink">Moonrise</a></p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="even">
@@ -1134,7 +1140,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="even">
 <td><p>Shoot Me</p></td>
-<td><p><a href="../Page/Shoot_Me_:_Youth_Part_1.md" title="wikilink">Shoot Me : Youth Part 1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Shoot_Me_:_Youth_Part_1" title="wikilink">Shoot Me : Youth Part 1</a></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">

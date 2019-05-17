@@ -1,6 +1,6 @@
 **Android
-Nougat**（[牛轧糖](../Page/牛轧糖.md "wikilink")，開發[代號](../Page/代號.md "wikilink")**Android
-N**）是由[Google開發的](../Page/Google.md "wikilink")[Android作業系統的第](../Page/Android.md "wikilink")7个主要版本。首个[测试版本在](../Page/軟件版本週期#Beta.md "wikilink")2016年3月9日发行，正式版本在2016年8月22日发行。[Google
+Nougat**（[牛轧糖](../Page/牛轧糖.md "wikilink")，開發[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")**Android
+N**）是由[Google開發的](../Page/Google.md "wikilink")[Android作業系統的第](../Page/Android.md "wikilink")7个主要版本。首个[测试版本在](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")2016年3月9日发行，正式版本在2016年8月22日发行。[Google
 Nexus设备可首先接受更新](../Page/Google_Nexus.md "wikilink")\[1\]。
 
 Android
@@ -11,9 +11,9 @@ Nougat引入了操作系统及其开发平台显着的变化，包括在屏幕�
 
 [Android_7.x_Nougat.jpg](https://zh.wikipedia.org/wiki/File:Android_7.x_Nougat.jpg "fig:Android_7.x_Nougat.jpg")
 谷歌于2016年3月9日的[Google
-I/O大会首次公布](../Page/Google_I/O.md "wikilink")“Android
+I/O大会首次公布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")“Android
 N开发者预览”（Android N Developer
-Preview）的[测试版本](../Page/軟件版本週期#Beta.md "wikilink")。谷歌表示，Android
+Preview）的[测试版本](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")。谷歌表示，Android
 N的五个开发者预览将会从2016年3月一直到7月按月发行，最终版本的开发者预览将在2016年第三季度发行。开发者预览版本仅仅与当前的[Nexus系列设备兼容](../Page/Google_Nexus.md "wikilink")，包括[Nexus
 5X](../Page/Nexus_5X.md "wikilink")、[6P](../Page/Nexus_6P.md "wikilink")、[6](../Page/Nexus_6.md "wikilink")、[9](../Page/Nexus_9.md "wikilink")、[Pixel
 C和](../Page/Pixel_C.md "wikilink")[Nexus
@@ -32,12 +32,13 @@ Player](../Page/Nexus_Player.md "wikilink")、[Pixel
 C和General](../Page/Pixel_C.md "wikilink") Mobile 4G（[Android
 One](../Page/Android_One.md "wikilink")）最先获得更新\[8\]。
 
-[LG在](../Page/LG.md "wikilink")2016年9月7日正式發表高階手機[LG
-V20](../Page/LG_V20.md "wikilink")，\[9\]是第一部預裝Android Nougat的手機。
+[LG在](https://zh.wikipedia.org/wiki/LG "wikilink")2016年9月7日正式發表高階手機[LG
+V20](https://zh.wikipedia.org/wiki/LG_V20 "wikilink")，\[9\]是第一部預裝Android
+Nougat的手機。
 
 ## 参见
 
-  - [Android版本历史](../Page/Android版本历史.md "wikilink")
+  - [Android版本历史](https://zh.wikipedia.org/wiki/Android版本历史 "wikilink")
 
 ## 参考资料
 

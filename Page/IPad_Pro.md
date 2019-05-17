@@ -1,14 +1,14 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:IPad_Pro_and_Apple_Pencil_\(boxed\).jpg "fig:缩略图")
 
 **iPad
-Pro**是由[蘋果公司設計](../Page/蘋果公司.md "wikilink")、開發及銷售的[平板電腦](../Page/平板電腦.md "wikilink")，面向专业用户，强调生产力。iPad
+Pro**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[平板電腦](../Page/平板電腦.md "wikilink")，面向专业用户，强调生产力。iPad
 Pro有两种尺寸，较大者为12.9寸，较小者则从第一代9.7寸到第二代10.5寸再到第三代的11寸。其往往搭载比同时代iPhone更为强大的处理器，并以Pro級規格定位为重點工作，讓Apple
 Pencil系列和Smart
 Keyboard系列的使用提供支持。它是第一款提供1TB配置的iOS裝置，儲存空間方面，第一代提供32、128和256GB版本，第二代提供64、256和512GB版本，第三代提供64、256、512GB和1TB版本。
 
 ## 第一代
 
-2015年9月9日，發佈12.9吋最大尺寸，配備[Retina显示屏的iPad](../Page/Retina.md "wikilink")
+2015年9月9日，發佈12.9吋最大尺寸，配備[Retina显示屏的iPad](https://zh.wikipedia.org/wiki/Retina "wikilink")
 Pro，標榜更輕薄的設計、指紋辨識、A9X高效處理器、八百萬像素後置相機鏡頭。
 
 2016年3月21日發佈標準9.7吋版本Pro作為補充，1200万后置摄像头，500万前置摄像头，同時提供256GB選項，新增玫瑰金色。Pro因為配件的加入使作為生產力工具的主題被更加的明確。\[1\]\[2\]
@@ -24,9 +24,9 @@ Pro，最大容量512GB，也是第一款提供512GB配置的iOS装置，屏幕�
 [IPad_Pro_11_silver.jpg](https://zh.wikipedia.org/wiki/File:IPad_Pro_11_silver.jpg "fig:IPad_Pro_11_silver.jpg")
 2018年10月30日，苹果在纽约发布第三代iPad Pro。第三代iPad Pro采用了全新设计， 屏幕大小為11吋及12.9吋，
 使用了全面屏、Face ID、类似[iPad
-第一代的硬朗外观](../Page/iPad_第一代.md "wikilink")、[USB-C接口与A](../Page/USB-C.md "wikilink")12X
+第一代的硬朗外观](https://zh.wikipedia.org/wiki/iPad_第一代 "wikilink")、[USB-C接口与A](https://zh.wikipedia.org/wiki/USB-C "wikilink")12X
 仿生
-处理器，存储空间最高达到1[TB](../Page/TB.md "wikilink")，是第一款提供1TB配置的iOS裝置。此外，Apple
+处理器，存储空间最高达到1[TB](https://zh.wikipedia.org/wiki/TB "wikilink")，是第一款提供1TB配置的iOS裝置。此外，Apple
 Pencil与Smart Keyboard也被更新到了第2代。
 
 ## 特色
@@ -36,7 +36,7 @@ Pencil与Smart Keyboard也被更新到了第2代。
   - Apple Pencil
 
 第一代Apple Pencil随第一代iPad
-Pro推出，其頂端的磁性護蓋內有[Lightning接頭](../Page/Lightning接頭.md "wikilink")，可為
+Pro推出，其頂端的磁性護蓋內有[Lightning接頭](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")，可為
 Apple Pencil 充電。Apple Pencil具壓力感應器及兩個斜度感應器，帶來真實書寫觸感。\[3\]
 
   - Apple Pencil 2
@@ -49,7 +49,7 @@ Pro边缘无线充电。此外，新一代Apple Pencil也在笔身加入了触�
   - Smart Keyboard
 
 配有全尺寸鍵盤，配置與[Apple
-Keyboard相似](../Page/Apple_Keyboard.md "wikilink")，但沒有功能鍵（F1-F12）。Smart
+Keyboard相似](https://zh.wikipedia.org/wiki/Apple_Keyboard "wikilink")，但沒有功能鍵（F1-F12）。Smart
 Keyboard采用Smart Connector接口供電，讓電力及數據能雙向傳輸，並具防水濺功能。
 
   - Logitech Crayon
@@ -58,18 +58,18 @@ Keyboard采用Smart Connector接口供電，讓電力及數據能雙向傳輸，
 
 ### 軟體
 
-iPad Pro預先安裝[iOS 11作業系統](../Page/iOS_11.md "wikilink")。像所有iOS裝置一樣，iPad
-Pro也能使用[Mac或個人電腦用](../Page/Mac.md "wikilink")[iTunes同步聯絡人與其他資料](../Page/iTunes.md "wikilink")。雖然平板不是被設計來用行動網路打電話，使用者能使用耳機或內建揚聲器、麥克風透過Wi-Fi或cellular來打網路VoIP電話（如果硬體支援），例如
+iPad Pro預先安裝[iOS
+11作業系統](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")。像所有iOS裝置一樣，iPad
+Pro也能使用[Mac或個人電腦用](https://zh.wikipedia.org/wiki/Mac "wikilink")[iTunes同步聯絡人與其他資料](https://zh.wikipedia.org/wiki/iTunes "wikilink")。雖然平板不是被設計來用行動網路打電話，使用者能使用耳機或內建揚聲器、麥克風透過Wi-Fi或Cellular來打網路VoIP電話（如果硬體支援），例如
 [Skype](../Page/Skype.md "wikilink")。
 
 ### 硬件
 
-  - 第二代采用[TSMC](../Page/TSMC.md "wikilink")10纳米级
+第二代采用[TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")10纳米级制程的A10X
+Fusion 六核处理器，性能與桌上型電腦相当；第三代采用A12X Bionic 处理器，拥有8个CPU核心与7个GPU核心
 
-制程的A10X Fusion 六核处理器，性能與桌上型電腦相当；第三代采用A12X Bionic 处理器，拥有8个CPU核心与7个GPU核心
-
-  - 显示屏拥有抗反光塗層，螢幕反光僅有1.8%，而亮度达到600尼特。[藍寶石玻璃的實用性大減](../Page/藍寶石.md "wikilink")
-  - 屏幕支持P3[广色域和原彩显示](../Page/广色域.md "wikilink")，第二代、第三代支持最高120Hz屏幕刷新率
+  - 显示屏拥有抗反光塗層，螢幕反光僅有1.8%，而亮度达到600尼特。[藍寶石玻璃的實用性大減](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")
+  - 屏幕支持P3[广色域和原彩显示](https://zh.wikipedia.org/wiki/广色域 "wikilink")，第二代、第三代支持最高120Hz屏幕刷新率
   - 机身带有磁吸接口，可以连接Smart Keyboard或Apple Pencil（仅第3代）
   - 擁有極薄機身（12.9吋為6.9mm，9.7吋及10.5吋為6.1mm, ）
   - 最大10小时续航时间
@@ -79,18 +79,18 @@ Pro也能使用[Mac或個人電腦用](../Page/Mac.md "wikilink")[iTunes同步�
   - 10.5吋iPad Pro提供太空灰色、銀色、金色及玫瑰金色機身
   - 11寸、12.9寸（第3代）iPad Pro提供深空灰色、银色机身
   - 四個扬声器與可感應機身姿勢的環繞立體聲
-  - 第三代摒弃了[Lightning接口而专用USB](../Page/Lightning接口.md "wikilink")-C接口，可以直接连接相机、显示器甚至给[iPhone供电](../Page/iPhone.md "wikilink")。
+  - 第三代摒弃了[Lightning接口而专用USB](https://zh.wikipedia.org/wiki/Lightning接口 "wikilink")-C接口，可以直接连接相机、显示器甚至给[iPhone供电](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
 ## 顏色
 
 顏色包括：
 
-| 顏色 | 名稱                                                           | 英語         | 備註    |
-| -- | ------------------------------------------------------------ | ---------- | ----- |
-|    | [<font color="ABAEB1">太空灰</font>](../Page/太空灰.md "wikilink") | Space Gray | 正面為黑色 |
-|    | [<font color=DDDFDE>銀色</font>](../Page/銀色.md "wikilink")     | Silver     | 正面為白色 |
-|    | [<font color=E3D0BA>金色</font>](../Page/金色.md "wikilink")     | Gold       | 正面為白色 |
-|    | [<font color=EDCCBD>玫瑰金</font>](../Page/玫瑰金.md "wikilink")   | Rose Gold  | 正面為白色 |
+| 顏色 | 名稱                                                                              | 英語         | 備註    |
+| -- | ------------------------------------------------------------------------------- | ---------- | ----- |
+|    | [<font color="ABAEB1">太空灰</font>](https://zh.wikipedia.org/wiki/太空灰 "wikilink") | Space Gray | 正面為黑色 |
+|    | [<font color=DDDFDE>銀色</font>](https://zh.wikipedia.org/wiki/銀色 "wikilink")     | Silver     | 正面為白色 |
+|    | [<font color=E3D0BA>金色</font>](https://zh.wikipedia.org/wiki/金色 "wikilink")     | Gold       | 正面為白色 |
+|    | [<font color=EDCCBD>玫瑰金</font>](https://zh.wikipedia.org/wiki/玫瑰金 "wikilink")   | Rose Gold  | 正面為白色 |
 
 ## iPad Pro 型號
 
@@ -107,23 +107,23 @@ Pro也能使用[Mac或個人電腦用](../Page/Mac.md "wikilink")[iTunes同步�
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a></p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">9.7吋 iPad Pro</a></p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a>（第二代）</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">10.5吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">9.7吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a>（第二代）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">10.5吋 iPad Pro</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>colspan=2 |預裝的作業系统</p></td>
 <td><p>iOS 9</p></td>
-<td><p><a href="../Page/iOS_10.md" title="wikilink">iOS 10.3.2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_10" title="wikilink">iOS 10.3.2</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作業系统</p></td>
-<td><p><a href="../Page/iOS_12.md" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -138,22 +138,22 @@ Pro也能使用[Mac或個人電腦用](../Page/Mac.md "wikilink")[iTunes同步�
 <tr class="even">
 <td><p>colspan=2 |图像</p></td>
 <td><p>12.9吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2732x2048<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2732x2048<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>：265 PPI</p></td>
 <td><p>9.7吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2048x1536<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2048x1536<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>:264 PPI</p></td>
 <td><p>12.9吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2732x2048<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2732x2048<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>：265 PPI</p></td>
 <td><p>10.5吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2224x 1668<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2224x 1668<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>：265 PPI</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
-<td><p><a href="../Page/Apple_A9X.md" title="wikilink">Apple A9X</a></p></td>
-<td><p><a href="../Page/Apple_A10X.md" title="wikilink">Apple A10X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A9X" title="wikilink">Apple A9X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10X" title="wikilink">Apple A10X</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -187,19 +187,19 @@ Pro也能使用[Mac或個人電腦用](../Page/Mac.md "wikilink")[iTunes同步�
 </tr>
 <tr class="even">
 <td><p>colspan=2 rowspan=2 |連線</p></td>
-<td><p><a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>{{\w}}<a href="../Page/HSPA.md" title="wikilink">HSPA</a>{{\w}}<a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA" title="wikilink">HSPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td><p>UMTS/HSPA/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz); GSM/EDGE (850, 900, 1800, 1900 MHz)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td><p>CDMA EV-DO Rev. A and Rev. B (800, 1900 MHz) LTE Advanced (Bands 1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 17, 18, 19, 20, 21, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41)4</p></td>
 <td></td>
 <td></td>
@@ -279,9 +279,9 @@ Wi-Fi + Cellular: 723 g（1.594磅）</p></td>
 <td><p>Wi-Fi: 437 g（0.963磅）<br />
 Wi-Fi + Cellular: 444 g（0.979磅）</p></td>
 <td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>: <br />
-Wi-Fi + <a href="../Page/蜂窩網絡.md" title="wikilink">cellular</a>: </p></td>
+Wi-Fi + <a href="https://zh.wikipedia.org/wiki/蜂窩網絡" title="wikilink">Cellular</a>: </p></td>
 <td><p>Wi-Fi: <br />
-Wi-Fi + cellular: </p></td>
+Wi-Fi + Cellular: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |發布日</p></td>
@@ -311,8 +311,8 @@ Wi-Fi + cellular: </p></td>
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a> （第三代）</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">11吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a> （第三代）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">11吋 iPad Pro</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -323,7 +323,7 @@ Wi-Fi + cellular: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作業系统</p></td>
-<td><p><a href="../Page/iOS_12.md" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -342,7 +342,7 @@ Wi-Fi + cellular: </p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
-<td><p><a href="../Page/Apple_A12X.md" title="wikilink">Apple A12X</a> 仿生晶片</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A12X" title="wikilink">Apple A12X</a> 仿生晶片</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -403,7 +403,7 @@ eSIM</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |音频解碼器</p></td>
-<td><p>AAC (8 to 320 Kbps), Protected AAC (from iTunes Store), HE-AAC, MP3 (8 to 320 Kbps), MP3 VBR, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), Audible (格式 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+), Apple Lossless, AIFF, 以及 WAV</p></td>
+<td><p>AAC (8 到 320 Kbps), 加密 AAC (来自 iTunes Store), HE-AAC, MP3 (8 到 320 Kbps), MP3 VBR, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), Audible (格式 2, 3, 4, Audible Enhanced Audio, AAX, 以及 AAX+), Apple Lossless, AIFF, 以及 WAV</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -447,9 +447,9 @@ eSIM</p></td>
 468 g (1.032 磅)</p></td>
 </tr>
 <tr class="odd">
-<td><p>Wi-Fi + cellular機型<br />
+<td><p>Wi-Fi + Cellular機型<br />
 633 g (1.396 磅)</p></td>
-<td><p>Wi-Fi + cellular機型<br />
+<td><p>Wi-Fi + Cellular機型<br />
 468 g (1.032 磅)</p></td>
 <td></td>
 </tr>

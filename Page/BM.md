@@ -1,16 +1,17 @@
-**金珍锡**（，），，藝名**BM**（，[韓國](../Page/韓國.md "wikilink")[男歌手](../Page/男歌手.md "wikilink")，現為[DSP媒體旗下韓國男女混聲團](../Page/DSP媒體.md "wikilink")[KARD成員](../Page/KARD.md "wikilink")，隊內擔當King、主领舞、领Rapper、副唱及形象。
+**金珍锡**（，），，藝名**BM**（，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，現為[DSP媒體旗下韓國男女混聲團](../Page/DSP媒體.md "wikilink")[KARD成員](https://zh.wikipedia.org/wiki/KARD "wikilink")，隊內擔當King、主领舞、领Rapper、副唱及形象。
 
 ## 音樂作品
 
   -
-    <small>— 所屬團體之作品請參閱 [KARD](../Page/KARD.md "wikilink")。</small>
+    <small>— 所屬團體之作品請參閱
+    [KARD](https://zh.wikipedia.org/wiki/KARD "wikilink")。</small>
 
 ### 配唱歌曲
 
-|            |          |                                  |
-| ---------- | -------- | -------------------------------- |
-| 發行日期       | 歌曲名稱     | 合唱歌手                             |
-| 2015年7月14日 | La La La | [具荷拉](../Page/具荷拉.md "wikilink") |
+|            |          |                                                     |
+| ---------- | -------- | --------------------------------------------------- |
+| 發行日期       | 歌曲名稱     | 合唱歌手                                                |
+| 2015年7月14日 | La La La | [具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink") |
 
 ### 創作歌曲
 
@@ -28,11 +29,11 @@
 
 ### 參演音樂錄影帶
 
-|       |                                          |                    |
-| ----- | ---------------------------------------- | ------------------ |
-| 年份    | 演唱者                                      | 歌曲名稱               |
-| 2013年 | [Rainbow](../Page/Rainbow.md "wikilink") | Sunshine           |
-| 2015年 | [具荷拉](../Page/具荷拉.md "wikilink")         | Choco chip Cookies |
+|       |                                                             |                    |
+| ----- | ----------------------------------------------------------- | ------------------ |
+| 年份    | 演唱者                                                         | 歌曲名稱               |
+| 2013年 | [Rainbow](https://zh.wikipedia.org/wiki/Rainbow "wikilink") | Sunshine           |
+| 2015年 | [具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")         | Choco chip Cookies |
 
 ### 節目主持
 

@@ -1,5 +1,5 @@
 《**慳D啦 Honey**》（**Money vs
-Honey**）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[真人騷愛情競賽節目](../Page/真人騷.md "wikilink")，2016年5月30日至6月28日期間，逢星期一至二晚上22:00-23:00在[ViuTV播出](../Page/ViuTV.md "wikilink")。節目旁白為。
+Honey**）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[真人騷愛情競賽節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年5月30日至6月28日期間，逢星期一至二晚上22:00-23:00在[ViuTV播出](../Page/ViuTV.md "wikilink")。節目旁白為。
 
 ## 節目簡介
 
@@ -27,10 +27,10 @@ Honey**）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikili
 <td><p>Pan Pan（38）</p></td>
 <td><p>背包客<br />
 阿文現於<a href="../Page/ViuTV.md" title="wikilink">ViuTV工作</a><br />
-Pan Pan現於<a href="../Page/TVB.md" title="wikilink">TVB工作</a></p></td>
+Pan Pan現於<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB工作</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朱凱頌.md" title="wikilink">朱凱頌</a>「Picco」（35）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱凱頌" title="wikilink">朱凱頌</a>「Picco」（35）</p></td>
 <td><p>呂穎恆「Vera Lui」（28）</p></td>
 <td><p>情趣用品店創辦人</p></td>
 </tr>
@@ -146,7 +146,7 @@ Pan Pan現於<a href="../Page/TVB.md" title="wikilink">TVB工作</a></p></td>
 
 有媒體報道，節目中的四對素人情侶是跟劇本演戲。\[2\]\[3\]\[4\]
 
-其中自稱無業的全職浪遊人阿文為前[無綫電視員工](../Page/無綫電視.md "wikilink")，現於[ViuTV擔任導演](../Page/ViuTV.md "wikilink")。太太現時為無綫電視員工，兩者均於節目播出後才擔任現時職位。\[5\]
+其中自稱無業的全職浪遊人阿文為前[無綫電視員工](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，現於[ViuTV擔任導演](../Page/ViuTV.md "wikilink")。太太現時為無綫電視員工，兩者均於節目播出後才擔任現時職位。\[5\]
 
 ## 備註
 

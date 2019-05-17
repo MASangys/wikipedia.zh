@@ -1,5 +1,5 @@
-是1991年在[红白机推出的横向卷轴](../Page/红白机.md "wikilink")[清版动作游戏](../Page/清版动作游戏.md "wikilink")。游戏为[双截龙系列第三款红白机游戏](../Page/双截龙系列.md "wikilink")，由[Technos
-Japan开发](../Page/Technos_Japan.md "wikilink")。游戏零散改编自街机版《[双截龙3
+是1991年在[红白机推出的横向卷轴](../Page/红白机.md "wikilink")[清版动作游戏](../Page/清版动作游戏.md "wikilink")。游戏为[双截龙系列第三款红白机游戏](https://zh.wikipedia.org/wiki/双截龙系列 "wikilink")，由[Technos
+Japan开发](https://zh.wikipedia.org/wiki/Technos_Japan "wikilink")。游戏零散改编自街机版《[双截龙3
 罗塞塔之石](../Page/双截龙3_罗塞塔之石.md "wikilink")》，但并非移植版，而是同期开发的平行项目\[1\]。
 
 ## 参考文献

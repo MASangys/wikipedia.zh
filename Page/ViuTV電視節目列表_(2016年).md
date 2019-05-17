@@ -33,10 +33,10 @@
 <tr class="odd">
 <td style="text-align: center;"><p>11/04-<br />
 27/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/物一世_人一世.md" title="wikilink">物一世 人一世</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/物一世_人一世" title="wikilink">物一世 人一世</a><br />
 Memento</p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/閻奕格.md" title="wikilink">閻奕格</a>、<a href="../Page/岑寧兒.md" title="wikilink">岑寧兒</a><br />
+<td style="text-align: center;"><p>主持：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/閻奕格" title="wikilink">閻奕格</a>、<a href="../Page/岑寧兒.md" title="wikilink">岑寧兒</a><br />
 旁白：<a href="../Page/林珊珊.md" title="wikilink">林珊珊</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
@@ -45,7 +45,7 @@ Memento</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>04/07-<br />
 24/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/風行全世界.md" title="wikilink">風行全世界</a>（第一輯）<br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/風行全世界" title="wikilink">風行全世界</a>（第一輯）<br />
 Blowing In The World (Sr.1)</p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/杜如風.md" title="wikilink">杜如風</a></p></td>
@@ -56,20 +56,20 @@ Blowing In The World (Sr.1)</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>31/10-<br />
 05/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/紀好世界.md" title="wikilink">紀好世界</a>（第二輯）<br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/紀好世界" title="wikilink">紀好世界</a>（第二輯）<br />
 Walter's World II</p></td>
 <td style="text-align: center;"><p>6<br />
 (13)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/紀曉華.md" title="wikilink">紀曉華</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/紀曉華" title="wikilink">紀曉華</a>、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/walters-world-ii">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>12/12-<br />
 10/04<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/風行全世界.md" title="wikilink">風行全世界</a>（第二輯）<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/風行全世界" title="wikilink">風行全世界</a>（第二輯）<br />
 Blowing In The World (Sr.2)</p></td>
 <td style="text-align: center;"><p>17<br />
 (18)</p></td>
@@ -108,32 +108,32 @@ Blowing In The World (Sr.2)</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>12/04-<br />
 05/07</p></td>
-<td style="text-align: center;"><p><a href="../Page/關人煮事.md" title="wikilink">關人煮事</a>（第一輯）<br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/關人煮事" title="wikilink">關人煮事</a>（第一輯）<br />
 Kelvin's Kitchen</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/關楚耀.md" title="wikilink">關楚耀</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>12/07-<br />
 16/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/Fashion_Seoul大激戰.md" title="wikilink">Fashion Seoul大激戰</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Fashion_Seoul大激戰" title="wikilink">Fashion Seoul大激戰</a><br />
 Fashion Seoul Battle</p></td>
 <td style="text-align: center;"><p>6</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/楊柳青.md" title="wikilink">楊柳青</a>、、<a href="../Page/薛凱琪.md" title="wikilink">薛凱琪</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/楊柳青" title="wikilink">楊柳青</a>、、<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a>，8月2日改為12:30-13:00播出</p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a>，8月2日改為12:30-13:00播出</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>23/08-<br />
 15/11</p></td>
-<td style="text-align: center;"><p><a href="../Page/是日B餐.md" title="wikilink">是日B餐</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/是日B餐" title="wikilink">是日B餐</a><br />
 Brilliant Table For Babies</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/梁雅琳.md" title="wikilink">梁雅琳</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁雅琳" title="wikilink">梁雅琳</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/brilliant-table-for-babies">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a></p></td>
@@ -141,14 +141,14 @@ Brilliant Table For Babies</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>22/11-<br />
 24/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/關人煮事.md" title="wikilink">關人煮事</a>（第二輯）<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/關人煮事" title="wikilink">關人煮事</a>（第二輯）<br />
 Kelvin's Kitchen II</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/關楚耀.md" title="wikilink">關楚耀</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/kelvins-kitchen-ii">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -180,10 +180,10 @@ Kelvin's Kitchen II</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>06/04-<br />
 29/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/巷弄台北.md" title="wikilink">巷弄台北</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巷弄台北" title="wikilink">巷弄台北</a><br />
 Alleys in Taipei</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a></p></td>
@@ -191,24 +191,24 @@ Alleys in Taipei</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>06/07-<br />
 24/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/一切從溫泉開始.md" title="wikilink">一切從溫泉開始</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一切從溫泉開始" title="wikilink">一切從溫泉開始</a><br />
 Start From Hotspring</p></td>
 <td style="text-align: center;"><p>8</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/衛詩雅.md" title="wikilink">衛詩雅</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>31/08-<br />
 19/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/首爾追星記.md" title="wikilink">首爾追星記</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/首爾追星記" title="wikilink">首爾追星記</a><br />
 Chasing Stars in Seoul</p></td>
 <td style="text-align: center;"><p>8</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/劉振宇.md" title="wikilink">劉振宇</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/劉振宇" title="wikilink">劉振宇</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/chasing-stars-in-seoul">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>26/10-<br />
@@ -225,7 +225,7 @@ One Life One Earth (Sr. 5)</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>21/12-<br />
 25/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/一個地球.md" title="wikilink">一個地球</a>（第六輯）<br />
 One Life One Earth (Sr. 6)</p></td>
 <td style="text-align: center;"><p>6</p></td>
@@ -263,21 +263,21 @@ One Life One Earth (Sr. 6)</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>07/04-<br />
 07/07</p></td>
-<td style="text-align: center;"><p><a href="../Page/Yo!_Gym+.md" title="wikilink">Yo! Gym+</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Yo!_Gym+" title="wikilink">Yo! Gym+</a><br />
 Yo! Gym+</p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/趙勁皓.md" title="wikilink">趙勁皓</a>、<a href="../Page/倪晨曦.md" title="wikilink">倪晨曦</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/趙勁皓.md" title="wikilink">趙勁皓</a>、<a href="../Page/倪晨曦.md" title="wikilink">倪晨曦</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>健身節目</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a>，6月9日改為12:20-13:00播出</p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a>，6月9日改為12:20-13:00播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>14/07-<br />
 24/11</p></td>
-<td style="text-align: center;"><p><a href="../Page/山步．行.md" title="wikilink">山步．行</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/山步．行" title="wikilink">山步．行</a><br />
 Hiking．Walking</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Will_Cho.md" title="wikilink">Will Cho</a>、<a href="../Page/山中遊子.md" title="wikilink">山中遊子</a>、<a href="../Page/KC_Koo.md" title="wikilink">KC Koo</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/余曉彤.md" title="wikilink">余曉彤</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Will_Cho" title="wikilink">Will Cho</a>、<a href="https://zh.wikipedia.org/wiki/山中遊子" title="wikilink">山中遊子</a>、<a href="https://zh.wikipedia.org/wiki/KC_Koo" title="wikilink">KC Koo</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/余曉彤.md" title="wikilink">余曉彤</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/hiking-walking">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a></p></td>
@@ -285,12 +285,12 @@ Hiking．Walking</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>01/12-<br />
 09/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/維他命師.md" title="wikilink">維他命師</a>（第一輯）<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/維他命師" title="wikilink">維他命師</a>（第一輯）<br />
 Healthy Planet</p></td>
 <td style="text-align: center;"><p>11<br />
 (12)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/曾志豪_(主持人).md" title="wikilink">曾志豪</a>、<a href="../Page/鄭瑩瑩.md" title="wikilink">鄭瑩瑩</a>、、<a href="../Page/蔡家富.md" title="wikilink">蔡家富</a>、<a href="../Page/林雲中.md" title="wikilink">林雲中</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/曾志豪_(主持人).md" title="wikilink">曾志豪</a>、<a href="https://zh.wikipedia.org/wiki/鄭瑩瑩" title="wikilink">鄭瑩瑩</a>、、<a href="https://zh.wikipedia.org/wiki/蔡家富" title="wikilink">蔡家富</a>、<a href="../Page/林雲中.md" title="wikilink">林雲中</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/healthy-planet">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>健康資訊節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a></p></td>
@@ -361,13 +361,13 @@ One Life One Earth (Sr. 5)</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>28/10-<br />
 30/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/台灣民宿.md" title="wikilink">台灣民宿</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/台灣民宿" title="wikilink">台灣民宿</a><br />
 Taiwan Motel Travelodge</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p>主持：</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/taiwan-motel-travelodge">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-重播<a href="../Page/Now觀星台.md" title="wikilink">Now觀星台節目</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台節目</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -401,10 +401,10 @@ Taiwan Motel Travelodge</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>11/04-<br />
 13/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/輝哥的饌賞.md" title="wikilink">輝哥的饌賞</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輝哥的饌賞" title="wikilink">輝哥的饌賞</a><br />
 Fai Gor appreciation of Bistro</p></td>
 <td style="text-align: center;"><p>9</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/吳錫輝.md" title="wikilink">吳錫輝</a><br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/吳錫輝" title="wikilink">吳錫輝</a><br />
 旁白：<a href="../Page/彭晴.md" title="wikilink">彭　晴</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
@@ -413,10 +413,10 @@ Fai Gor appreciation of Bistro</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>20/06-<br />
 12/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/輝哥的饌賞貳.md" title="wikilink">輝哥的饌賞貳</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輝哥的饌賞貳" title="wikilink">輝哥的饌賞貳</a><br />
 Fai Gor appreciation of Bistro S2</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/吳錫輝.md" title="wikilink">吳錫輝</a><br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/吳錫輝" title="wikilink">吳錫輝</a><br />
 旁白：<a href="../Page/彭晴.md" title="wikilink">彭　晴</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
@@ -425,7 +425,7 @@ Fai Gor appreciation of Bistro S2</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>19/09-<br />
 26/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/食勻全中國.md" title="wikilink">食勻全中國</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/食勻全中國" title="wikilink">食勻全中國</a><br />
 Food Star Over China</p></td>
 <td style="text-align: center;"><p>2<br />
 (27)</p></td>
@@ -464,7 +464,7 @@ Food Star Over China</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>12/04-<br />
 20/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/食勻全中國.md" title="wikilink">食勻全中國</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/食勻全中國" title="wikilink">食勻全中國</a><br />
 Food Star Over China</p></td>
 <td style="text-align: center;"><p>25<br />
 (27)</p></td>
@@ -479,7 +479,7 @@ Food Star Over China</p></td>
 <td style="text-align: center;"><p><a href="../Page/煮角.md" title="wikilink">小「煮」角</a>（第一季）<br />
 Chef Corner Junior S1</p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、、<a href="../Page/劉晉.md" title="wikilink">劉　晉</a>、<a href="../Page/蔡家富.md" title="wikilink">蔡家富</a>、<a href="../Page/鄭相賢.md" title="wikilink">鄭相賢</a>、<a href="../Page/韋兆嫻.md" title="wikilink">韋兆嫻</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、、<a href="https://zh.wikipedia.org/wiki/劉晉" title="wikilink">劉　晉</a>、<a href="https://zh.wikipedia.org/wiki/蔡家富" title="wikilink">蔡家富</a>、<a href="https://zh.wikipedia.org/wiki/鄭相賢" title="wikilink">鄭相賢</a>、<a href="https://zh.wikipedia.org/wiki/韋兆嫻" title="wikilink">韋兆嫻</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/chef-corner-junior">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食/真人秀節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，10月10日改為15:30-16:30播出，11月15日改為14:00-15:30播出</p></td>
@@ -487,11 +487,11 @@ Chef Corner Junior S1</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>21/11-<br />
 10/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/煮角.md" title="wikilink">小「煮」角</a>（第二季）<br />
 Chef Corner Junior S2</p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、、<a href="../Page/劉晉.md" title="wikilink">劉　晉</a>、<a href="../Page/蔡家富.md" title="wikilink">蔡家富</a>、<a href="../Page/鄭相賢.md" title="wikilink">鄭相賢</a>、<a href="../Page/韋兆嫻.md" title="wikilink">韋兆嫻</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、、<a href="https://zh.wikipedia.org/wiki/劉晉" title="wikilink">劉　晉</a>、<a href="https://zh.wikipedia.org/wiki/蔡家富" title="wikilink">蔡家富</a>、<a href="https://zh.wikipedia.org/wiki/鄭相賢" title="wikilink">鄭相賢</a>、<a href="https://zh.wikipedia.org/wiki/韋兆嫻" title="wikilink">韋兆嫻</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/chef-corner-junior-s2">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食/真人秀節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，12月26日、27日暫停播映</p></td>
@@ -529,7 +529,7 @@ Chef Corner Junior S2</p></td>
 <td style="text-align: center;"><p><a href="../Page/煮角.md" title="wikilink">「煮」角</a><br />
 Chef Corner</p></td>
 <td style="text-align: center;"><p>107</p></td>
-<td style="text-align: center;"><p>主持（第三輯）：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="../Page/凌瓏菲.md" title="wikilink">凌瓏菲</a>、、<a href="../Page/蔡家富.md" title="wikilink">蔡家富</a>、、<a href="../Page/陳啟華.md" title="wikilink">陳啟華</a></p></td>
+<td style="text-align: center;"><p>主持（第三輯）：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="https://zh.wikipedia.org/wiki/凌瓏菲" title="wikilink">凌瓏菲</a>、、<a href="https://zh.wikipedia.org/wiki/蔡家富" title="wikilink">蔡家富</a>、、<a href="https://zh.wikipedia.org/wiki/陳啟華" title="wikilink">陳啟華</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/chef-corner">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，4月8日暫停播映，6月9日改為15:30-16:30播出，7月1日改為15:15-16:15播出，10月21日改為12:30-13:30播出</p></td>
@@ -537,8 +537,8 @@ Chef Corner</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>07/12-<br />
 24/03<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/Home_Sweet_Home.md" title="wikilink">Home Sweet Home</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Home_Sweet_Home" title="wikilink">Home Sweet Home</a><br />
 Home Sweet Home</p></td>
 <td style="text-align: center;"><p>47<br />
 (143)</p></td>
@@ -579,12 +579,12 @@ Home Sweet Home</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>31/03-<br />
 24/03<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/快樂童盟.md" title="wikilink">快樂童盟</a><br />
 Joyous Alliance</p></td>
 <td style="text-align: center;"><p>252<br />
 ()</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/AshaCuthert.md" title="wikilink">AshaCuthert</a>、<a href="../Page/高露思.md" title="wikilink">高露思</a>、、<a href="../Page/星泰宏.md" title="wikilink">星泰宏</a>、<a href="../Page/王詠嘉.md" title="wikilink">王詠嘉</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/AshaCuthert" title="wikilink">AshaCuthert</a>、<a href="https://zh.wikipedia.org/wiki/高露思" title="wikilink">高露思</a>、、<a href="https://zh.wikipedia.org/wiki/星泰宏" title="wikilink">星泰宏</a>、<a href="https://zh.wikipedia.org/wiki/王詠嘉" title="wikilink">王詠嘉</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/joyous-alliance">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong></p></td>
 </tr>
@@ -623,14 +623,14 @@ Joyous Alliance</p></td>
 <td style="text-align: center;"><p><br />
 Forever Young</p></td>
 <td style="text-align: center;"><p>26</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>長者節目</strong><br />
 第1-2集於4月3日、10日08:30-09:00播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>26/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/一球入魂.md" title="wikilink">一球入魂</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一球入魂" title="wikilink">一球入魂</a><br />
 Hoop Dreams</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -669,7 +669,7 @@ Hoop Dreams</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>03/04-<br />
 31/05</p></td>
-<td style="text-align: center;"><p><a href="../Page/東京十人.md" title="wikilink">東京十人</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/東京十人" title="wikilink">東京十人</a><br />
 Tokyo Ten</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p>旁白：</p></td>
@@ -684,7 +684,7 @@ Tokyo Ten</p></td>
 Art in Progress</p></td>
 <td style="text-align: center;"><p>17<br />
 (18)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>藝術節目</strong></p></td>
 </tr>
@@ -722,8 +722,8 @@ Art in Progress</p></td>
 Senior</p></td>
 <td style="text-align: center;"><p>25<br />
 (30)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a><br />
-旁白：<a href="../Page/林嬋.md" title="wikilink">林　嬋</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a><br />
+旁白：<a href="https://zh.wikipedia.org/wiki/林嬋" title="wikilink">林　嬋</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>長者節目</strong></p></td>
 </tr>
@@ -761,7 +761,7 @@ Senior</p></td>
 Dream Job</p></td>
 <td style="text-align: center;"><p>21<br />
 (30)</p></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
 第1集於4月2日15:00-15:30播映</p></td>
@@ -834,12 +834,12 @@ Canton Lyrics Lovers</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>07/04-<br />
 30/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/體育係....md" title="wikilink">體育係...</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/體育係..." title="wikilink">體育係...</a><br />
 About Sports</p></td>
 <td style="text-align: center;"><p>126<br />
 (233)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/譚淇淇.md" title="wikilink">譚淇淇</a>、<a href="../Page/張紫櫻.md" title="wikilink">車車</a>、<a href="../Page/梁穎瑜.md" title="wikilink">梁穎瑜</a>、、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<a href="../Page/鄭穎翹.md" title="wikilink">鄭穎翹</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>、<br />
-運動界主持：<a href="../Page/謝德謙.md" title="wikilink">謝德謙</a>、<a href="../Page/陳偉豪.md" title="wikilink">陳偉豪</a>、<a href="../Page/紀嘉文.md" title="wikilink">紀嘉文</a>、<a href="../Page/黃曉盈.md" title="wikilink">黃曉盈</a>、<a href="../Page/劉知名.md" title="wikilink">劉知名</a>、<a href="../Page/劉慕裳.md" title="wikilink">劉慕裳</a>、<a href="../Page/余翠怡.md" title="wikilink">余翠怡</a>、<a href="../Page/施寶盛.md" title="wikilink">施寶盛</a>、<a href="../Page/仇多明.md" title="wikilink">仇多明</a>、<a href="../Page/黃耀富.md" title="wikilink">黃耀富</a>、<a href="../Page/陸俊彥.md" title="wikilink">陸俊彥</a>、<a href="../Page/蘇伊俊.md" title="wikilink">蘇伊俊</a>、<a href="../Page/呂麗瑤.md" title="wikilink">呂麗瑤</a>、<a href="../Page/陳靄然.md" title="wikilink">陳靄然</a>、<a href="../Page/吳天麗.md" title="wikilink">吳天麗</a>、<a href="../Page/何顥麟.md" title="wikilink">何顥麟</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/譚淇淇.md" title="wikilink">譚淇淇</a>、<a href="../Page/張紫櫻.md" title="wikilink">車車</a>、<a href="https://zh.wikipedia.org/wiki/梁穎瑜" title="wikilink">梁穎瑜</a>、、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、<a href="https://zh.wikipedia.org/wiki/鄭穎翹" title="wikilink">鄭穎翹</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>、<br />
+運動界主持：<a href="../Page/謝德謙.md" title="wikilink">謝德謙</a>、<a href="../Page/陳偉豪.md" title="wikilink">陳偉豪</a>、<a href="../Page/紀嘉文.md" title="wikilink">紀嘉文</a>、<a href="../Page/黃曉盈.md" title="wikilink">黃曉盈</a>、<a href="https://zh.wikipedia.org/wiki/劉知名" title="wikilink">劉知名</a>、<a href="https://zh.wikipedia.org/wiki/劉慕裳" title="wikilink">劉慕裳</a>、<a href="../Page/余翠怡.md" title="wikilink">余翠怡</a>、<a href="https://zh.wikipedia.org/wiki/施寶盛" title="wikilink">施寶盛</a>、<a href="https://zh.wikipedia.org/wiki/仇多明" title="wikilink">仇多明</a>、<a href="../Page/黃耀富.md" title="wikilink">黃耀富</a>、<a href="https://zh.wikipedia.org/wiki/陸俊彥" title="wikilink">陸俊彥</a>、<a href="../Page/蘇伊俊.md" title="wikilink">蘇伊俊</a>、<a href="../Page/呂麗瑤.md" title="wikilink">呂麗瑤</a>、<a href="https://zh.wikipedia.org/wiki/陳靄然" title="wikilink">陳靄然</a>、<a href="https://zh.wikipedia.org/wiki/吳天麗" title="wikilink">吳天麗</a>、<a href="../Page/何顥麟.md" title="wikilink">何顥麟</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/about-sports">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
 外判節目（505Media Ltd），5月11日、6月10日、7月22日、29日、8月5日、12日、15日暫停深夜重播，7月8日、11日改為19:30-19:45播映，9月1日暫停播映</p></td>
@@ -879,8 +879,8 @@ About Sports</p></td>
 <td style="text-align: center;"><p><a href="../Page/跟住矛盾去旅行.md" title="wikilink">跟住矛盾去旅行</a><br />
 Travel with Rivals</p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p>演出：<a href="../Page/林日曦.md" title="wikilink">林日曦</a>、<a href="../Page/蔣麗芸.md" title="wikilink">蔣麗芸</a>、<a href="../Page/邵音音.md" title="wikilink">邵音音</a>、<a href="../Page/戴夢夢.md" title="wikilink">戴夢夢</a>、<a href="../Page/連詩雅.md" title="wikilink">連詩雅</a>、<a href="../Page/葉蘊儀.md" title="wikilink">葉蘊儀</a>、<a href="../Page/何韻詩.md" title="wikilink">何韻詩</a>、<a href="../Page/高皓正.md" title="wikilink">高皓正</a>、<a href="../Page/梁國雄.md" title="wikilink">梁國雄</a>、<a href="../Page/曾鈺成.md" title="wikilink">曾鈺成</a>、<a href="../Page/葉頌昇.md" title="wikilink">葉頌昇</a>、<a href="../Page/陳如敏.md" title="wikilink">陳如敏</a>、<a href="../Page/周庭.md" title="wikilink">周　庭</a>、<a href="../Page/何君堯.md" title="wikilink">何君堯</a><br />
-旁白：<a href="../Page/周庭.md" title="wikilink">周　庭</a>、<a href="../Page/曾鈺成.md" title="wikilink">曾鈺成</a>、<a href="../Page/林日曦.md" title="wikilink">林日曦</a>、<a href="../Page/高皓正.md" title="wikilink">高皓正</a>、<a href="../Page/何韻詩.md" title="wikilink">何韻詩</a>、<a href="../Page/邵音音.md" title="wikilink">邵音音</a></p></td>
+<td style="text-align: center;"><p>演出：<a href="../Page/林日曦.md" title="wikilink">林日曦</a>、<a href="../Page/蔣麗芸.md" title="wikilink">蔣麗芸</a>、<a href="https://zh.wikipedia.org/wiki/邵音音" title="wikilink">邵音音</a>、<a href="../Page/戴夢夢.md" title="wikilink">戴夢夢</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/葉蘊儀.md" title="wikilink">葉蘊儀</a>、<a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/梁國雄.md" title="wikilink">梁國雄</a>、<a href="../Page/曾鈺成.md" title="wikilink">曾鈺成</a>、<a href="https://zh.wikipedia.org/wiki/葉頌昇" title="wikilink">葉頌昇</a>、<a href="../Page/陳如敏.md" title="wikilink">陳如敏</a>、<a href="../Page/周庭.md" title="wikilink">周　庭</a>、<a href="../Page/何君堯.md" title="wikilink">何君堯</a><br />
+旁白：<a href="../Page/周庭.md" title="wikilink">周　庭</a>、<a href="../Page/曾鈺成.md" title="wikilink">曾鈺成</a>、<a href="../Page/林日曦.md" title="wikilink">林日曦</a>、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="https://zh.wikipedia.org/wiki/邵音音" title="wikilink">邵音音</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目/真人秀</strong><br />
 第1集於4月6日22:00-23:00播映，第16集於5月29日00:00-01:00播映</p></td>
@@ -898,10 +898,10 @@ Money vs Honey</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>04/07-<br />
 05/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/Barter_Game價值連城.md" title="wikilink">Barter Game價值連城</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Barter_Game價值連城" title="wikilink">Barter Game價值連城</a><br />
 Barter Game</p></td>
 <td style="text-align: center;"><p>18</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/梁漢文.md" title="wikilink">梁漢文</a>、<a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>、<a href="../Page/林二汶.md" title="wikilink">林二汶</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/劉心悠.md" title="wikilink">劉心悠</a>、<a href="../Page/Eric_Kwok.md" title="wikilink">Eric Kwok</a><br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/劉心悠.md" title="wikilink">劉心悠</a>、<a href="https://zh.wikipedia.org/wiki/Eric_Kwok" title="wikilink">Eric Kwok</a><br />
 旁白：<a href="../Page/梁祖堯.md" title="wikilink">梁祖堯</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/barter-game">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目/真人秀</strong><br />
@@ -910,7 +910,7 @@ Barter Game</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>06/09-<br />
 18/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/脫獨工程.md" title="wikilink">脫獨工程</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/脫獨工程" title="wikilink">脫獨工程</a><br />
 Love Avatars</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p>旁白：</p></td>
@@ -923,9 +923,9 @@ Love Avatars</p></td>
 <td style="text-align: center;"><p><br />
 Taiwan 72 Hours</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、食螺絲<br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a>、食螺絲<br />
 旁白：<br />
-嘉賓旁白：<a href="../Page/陳雲海.md" title="wikilink">雲海</a>、<a href="../Page/Papajay.md" title="wikilink">Papajay</a></p></td>
+嘉賓旁白：<a href="../Page/陳雲海.md" title="wikilink">雲海</a>、<a href="https://zh.wikipedia.org/wiki/Papajay" title="wikilink">Papajay</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/taiwan-72-hours">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
@@ -935,7 +935,7 @@ Taiwan 72 Hours</p></td>
 <td style="text-align: center;"><p><a href="../Page/G-1格鬥會.md" title="wikilink">G-1格鬥會挑戰賽</a><br />
 G-1 Fight Club Champhion</p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/陳恩能.md" title="wikilink">陳恩能</a>、<a href="../Page/費明海.md" title="wikilink">費明海</a>、<br />
+<td style="text-align: center;"><p>主持：<a href="../Page/陳恩能.md" title="wikilink">陳恩能</a>、<a href="https://zh.wikipedia.org/wiki/費明海" title="wikilink">費明海</a>、<br />
 演出：<a href="../Page/余曉彤.md" title="wikilink">余曉彤</a>、Charlene Houghton、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/g-1-fight-club-champion">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>體育節目/真人秀</strong></p></td>
@@ -943,7 +943,7 @@ G-1 Fight Club Champhion</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>28/11-<br />
 20/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 Pets</p></td>
 <td style="text-align: center;"><p>13</p></td>
@@ -982,12 +982,12 @@ Pets</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>29/11-<br />
 21/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/貓！全部都係貓.md" title="wikilink">貓！全部都係貓</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/貓！全部都係貓" title="wikilink">貓！全部都係貓</a><br />
 Cats In Japan</p></td>
 <td style="text-align: center;"><p>13<br />
 (28)</p></td>
-<td style="text-align: center;"><p>旁白：<a href="../Page/古城望.md" title="wikilink">古城望</a>（日語原聲）</p></td>
+<td style="text-align: center;"><p>旁白：<a href="https://zh.wikipedia.org/wiki/古城望" title="wikilink">古城望</a>（日語原聲）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/cats-in-japan">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>寵物資訊節目</strong><br />
 外購節目（<a href="../Page/日本.md" title="wikilink">日本</a>）</p></td>
@@ -1025,8 +1025,8 @@ Cats In Japan</p></td>
 <td style="text-align: center;"><p><br />
 Changing Mama</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="../Page/蔡家富.md" title="wikilink">蔡家富</a><br />
-旁白：<a href="../Page/李澄_(DJ).md" title="wikilink">西　瓜</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、、<a href="https://zh.wikipedia.org/wiki/蔡家富" title="wikilink">蔡家富</a><br />
+旁白：<a href="https://zh.wikipedia.org/wiki/李澄_(DJ)" title="wikilink">西　瓜</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 第1集於4月8日22:00-23:00播映，5月11日暫停播映</p></td>
@@ -1034,10 +1034,10 @@ Changing Mama</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>18/05-<br />
 30/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/學嘢.md" title="wikilink">學嘢</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/學嘢" title="wikilink">學嘢</a><br />
 Level Up</p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 </tr>
@@ -1047,17 +1047,17 @@ Level Up</p></td>
 <td style="text-align: center;"><p><a href="../Page/的士Go.md" title="wikilink">的士Go</a><br />
 Taxi Go</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/taxi-go">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>14/09-<br />
 27/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/404不存在的國落.md" title="wikilink">404不存在的國落</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/404不存在的國落" title="wikilink">404不存在的國落</a><br />
 404 Countries Not Found</p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/吳蚊蚊.md" title="wikilink">吳蚊蚊</a><br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="https://zh.wikipedia.org/wiki/吳蚊蚊" title="wikilink">吳蚊蚊</a><br />
 嘉賓：<a href="../Page/沈旭暉.md" title="wikilink">沈旭暉</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/4-0-4-countries-not-found">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
@@ -1092,22 +1092,22 @@ Taxi Go</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>15/04-<br />
 15/07</p></td>
-<td style="text-align: center;"><p><a href="../Page/婚後試愛.md" title="wikilink">婚後試愛</a>（第一季）<br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/婚後試愛" title="wikilink">婚後試愛</a>（第一季）<br />
  (I)</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p>主持：Joseph Cilona、Logan Levkoff、Pepper Schwartz、Greg Epstein（英語原聲）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-外購節目（<a href="../Page/美國.md" title="wikilink">美國</a>），6月10日暫停播映</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a>），6月10日暫停播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>19/08-<br />
 04/11</p></td>
-<td style="text-align: center;"><p><a href="../Page/挑戰1996.md" title="wikilink">挑戰1996</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/挑戰1996" title="wikilink">挑戰1996</a><br />
 Challenge 1996</p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p>旁白：<a href="../Page/馬啟仁.md" title="wikilink">馬啟仁</a><br />
-嘉賓：<a href="../Page/王合喜.md" title="wikilink">王合喜</a>、<a href="../Page/翁金驊.md" title="wikilink">翁金驊</a>、<a href="../Page/山度士_(足球運動員).md" title="wikilink">山度士</a>、<a href="../Page/李致和.md" title="wikilink">李致和</a>、<a href="../Page/曹聲揚.md" title="wikilink">曹聲揚</a></p></td>
+<td style="text-align: center;"><p>旁白：<a href="https://zh.wikipedia.org/wiki/馬啟仁" title="wikilink">馬啟仁</a><br />
+嘉賓：<a href="https://zh.wikipedia.org/wiki/王合喜" title="wikilink">王合喜</a>、<a href="../Page/翁金驊.md" title="wikilink">翁金驊</a>、<a href="https://zh.wikipedia.org/wiki/山度士_(足球運動員)" title="wikilink">山度士</a>、<a href="../Page/李致和.md" title="wikilink">李致和</a>、<a href="https://zh.wikipedia.org/wiki/曹聲揚" title="wikilink">曹聲揚</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/challenge-1-99-6">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外判節目（505Media Ltd）</p></td>
@@ -1115,14 +1115,14 @@ Challenge 1996</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>11/11-<br />
 03/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/童心解密.md" title="wikilink">童心解密</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/童心解密" title="wikilink">童心解密</a><br />
 Life At</p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><p>旁白：Colin Friels（英語原聲）；<a href="../Page/鄧潔麗.md" title="wikilink">鄧潔麗</a>（粵語配音）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/life-at">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>紀錄片</strong><br />
-外購節目（<a href="../Page/澳洲廣播公司.md" title="wikilink">澳洲廣播公司</a>），12月2日暫停播映</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/澳洲廣播公司" title="wikilink">澳洲廣播公司</a>），12月2日暫停播映</p></td>
 </tr>
 </tbody>
 </table>
@@ -1156,7 +1156,7 @@ Life At</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>28/11-<br />
 30/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 Travel Stalker - Taiwan</p></td>
 <td style="text-align: center;"><p>10</p></td>
@@ -1194,11 +1194,11 @@ Travel Stalker - Taiwan</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>29/11-<br />
 31/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 Travel Stalker - Japan</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/李蔓瑩" title="wikilink">李蔓瑩</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/travel-stalker-japan">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
@@ -1242,11 +1242,11 @@ Le Petit Paradis</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>06/07-<br />
 01/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/暗中旅行.md" title="wikilink">暗中旅行</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/暗中旅行" title="wikilink">暗中旅行</a><br />
 Travel In Darkness</p></td>
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、、<br />
-旁白：<a href="../Page/劉思敏.md" title="wikilink">劉思敏</a><br />
+旁白：<a href="https://zh.wikipedia.org/wiki/劉思敏" title="wikilink">劉思敏</a><br />
 視障人士口述影像：<a href="../Page/彭晴.md" title="wikilink">彭　晴</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
@@ -1254,13 +1254,13 @@ Travel In Darkness</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>07/09-<br />
 06/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/阿美利堅無肉飯堂.md" title="wikilink">阿美利堅無肉飯堂</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/阿美利堅無肉飯堂" title="wikilink">阿美利堅無肉飯堂</a><br />
 Go Green USA</p></td>
 <td style="text-align: center;"><p>10<br />
 (11)</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<br />
 嘉賓主持：<a href="../Page/楊大偉.md" title="wikilink">楊大偉</a><br />
-旁白：<a href="../Page/王沛雯.md" title="wikilink">王沛雯</a></p></td>
+旁白：<a href="https://zh.wikipedia.org/wiki/王沛雯" title="wikilink">王沛雯</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/go-green-usa">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong></p></td>
 </tr>
@@ -1277,12 +1277,12 @@ Begin Again</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>21/12-<br />
 19/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 One City With 36 Frames</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/鍾晴_(藝人).md" title="wikilink">鍾晴</a>、、<br />
-攝影師：<a href="../Page/Rich_Matheson.md" title="wikilink">Rich Matheson</a>、<a href="../Page/拉鬼.md" title="wikilink">拉鬼</a>、<a href="../Page/譚銘賢.md" title="wikilink">譚銘賢</a>、<a href="../Page/李陽_(攝影師).md" title="wikilink">李陽</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a>、<a href="https://zh.wikipedia.org/wiki/鍾晴_(藝人)" title="wikilink">鍾晴</a>、、<br />
+攝影師：<a href="https://zh.wikipedia.org/wiki/Rich_Matheson" title="wikilink">Rich Matheson</a>、<a href="https://zh.wikipedia.org/wiki/拉鬼" title="wikilink">拉鬼</a>、<a href="https://zh.wikipedia.org/wiki/譚銘賢" title="wikilink">譚銘賢</a>、<a href="https://zh.wikipedia.org/wiki/李陽_(攝影師)" title="wikilink">李陽</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
@@ -1318,12 +1318,12 @@ One City With 36 Frames</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>13/04-<br />
 01/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/一大一路.md" title="wikilink">一大一路</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一大一路" title="wikilink">一大一路</a><br />
 Kids Talk</p></td>
 <td style="text-align: center;"><p>42</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a><br />
-小主持：<a href="../Page/劉皓嵐.md" title="wikilink">劉皓嵐</a>、<a href="../Page/吳偉聰.md" title="wikilink">吳偉聰</a>、<a href="../Page/簡法衡.md" title="wikilink">簡法衡</a>、<a href="../Page/王蒨珧.md" title="wikilink">王蒨珧</a>、<a href="../Page/梅浩霆.md" title="wikilink">梅浩霆</a>、<a href="../Page/陳麗兒.md" title="wikilink">陳麗兒</a>、<a href="../Page/李詠珊.md" title="wikilink">李詠珊</a>、<a href="../Page/韓正謙.md" title="wikilink">韓正謙</a>、<a href="../Page/陳亦仙.md" title="wikilink">陳亦仙</a>、<a href="../Page/黃浩晉.md" title="wikilink">黃浩晉</a>、<a href="../Page/李雪庭.md" title="wikilink">李雪庭</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a><br />
+小主持：<a href="https://zh.wikipedia.org/wiki/劉皓嵐" title="wikilink">劉皓嵐</a>、<a href="https://zh.wikipedia.org/wiki/吳偉聰" title="wikilink">吳偉聰</a>、<a href="https://zh.wikipedia.org/wiki/簡法衡" title="wikilink">簡法衡</a>、<a href="https://zh.wikipedia.org/wiki/王蒨珧" title="wikilink">王蒨珧</a>、<a href="https://zh.wikipedia.org/wiki/梅浩霆" title="wikilink">梅浩霆</a>、<a href="https://zh.wikipedia.org/wiki/陳麗兒" title="wikilink">陳麗兒</a>、<a href="https://zh.wikipedia.org/wiki/李詠珊" title="wikilink">李詠珊</a>、<a href="https://zh.wikipedia.org/wiki/韓正謙" title="wikilink">韓正謙</a>、<a href="https://zh.wikipedia.org/wiki/陳亦仙" title="wikilink">陳亦仙</a>、<a href="https://zh.wikipedia.org/wiki/黃浩晉" title="wikilink">黃浩晉</a>、<a href="https://zh.wikipedia.org/wiki/李雪庭" title="wikilink">李雪庭</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/talker-kids-talk">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 5月11日暫停播映</p></td>
@@ -1358,11 +1358,11 @@ Kids Talk</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>07/04-<br />
 <br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/又要威_又要戴頭盔.md" title="wikilink">又要威 又要戴頭盔</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a><br />
 Helmet Intercom</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="../Page/林二汶.md" title="wikilink">林二汶</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/talker-helmet-intercom">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 11月10日暫停深夜重播時段</p></td>
@@ -1397,10 +1397,10 @@ Helmet Intercom</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>08/04-<br />
 26/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/No_Money_No_Talk.md" title="wikilink">No Money No Talk</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/No_Money_No_Talk" title="wikilink">No Money No Talk</a><br />
 No Money No Talk</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/筆華棋.md" title="wikilink">筆華棋</a>、<a href="../Page/王利民.md" title="wikilink">王利民</a>、<a href="../Page/歐陽英傑.md" title="wikilink">歐陽英傑</a>、<a href="../Page/冬菇_(主持).md" title="wikilink">冬　菇</a>、<a href="../Page/金水.md" title="wikilink">金　水</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/筆華棋" title="wikilink">筆華棋</a>、<a href="https://zh.wikipedia.org/wiki/王利民" title="wikilink">王利民</a>、<a href="../Page/歐陽英傑.md" title="wikilink">歐陽英傑</a>、<a href="https://zh.wikipedia.org/wiki/冬菇_(主持)" title="wikilink">冬　菇</a>、<a href="https://zh.wikipedia.org/wiki/金水" title="wikilink">金　水</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/talker-no-money-no-talk">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 6月10日暫停播映，7月22日-8月12日改為23:45-00:15播出</p></td>
@@ -1408,12 +1408,12 @@ No Money No Talk</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>02/09-<br />
 03/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/總有一隻喺左近.md" title="wikilink">總有一隻喺左近</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/總有一隻喺左近" title="wikilink">總有一隻喺左近</a><br />
 One Beside You</p></td>
 <td style="text-align: center;"><p>22<br />
 (42)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/talker-one-beside-you">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 12月2日暫停播映</p></td>
@@ -1448,11 +1448,11 @@ One Beside You</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>06/04-<br />
 全年<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/十五分鐘熱度.md" title="wikilink">十五分鐘熱度</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><br />
 15 mins Enews</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a>、<a href="../Page/薛國斌.md" title="wikilink">薛國斌</a>、<a href="../Page/林聞恩.md" title="wikilink">林聞恩</a></p></td>
+<td style="text-align: center;"><p>794</p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a>、<a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a>、<a href="https://zh.wikipedia.org/wiki/薛國斌" title="wikilink">薛國斌</a>、<a href="https://zh.wikipedia.org/wiki/林聞恩" title="wikilink">林聞恩</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/15-mins-enews">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂新聞</strong><br />
 4月6日、12月2日改為翌日00:00-00:15播出，5月11日改為翌日00:05-00:20播出，6月10日改為翌日00:15-00:30播出並暫停深夜重播時段，7月7日深夜重播時段改為05:15-05:30，8月1日、15日、10月11日暫停深夜重播時段，8月8日改為23:45-00:00播出並暫停深夜重播時段</p></td>
@@ -1489,17 +1489,17 @@ One Beside You</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>23/08-<br />
 21/03</p></td>
-<td style="text-align: center;"><p><a href="../Page/英超.md" title="wikilink">英超精華</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/英超" title="wikilink">英超精華</a><br />
 Premier League Review</p></td>
 <td style="text-align: center;"><p>25</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/樂視體育.md" title="wikilink">樂視體育評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/樂視體育" title="wikilink">樂視體育評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
 9月6日、10月11日、11月15日、12月27日暫停播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>06/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/Kai_Pop.md" title="wikilink">Kai Pop</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Kai_Pop" title="wikilink">Kai Pop</a><br />
 Kai Pop</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -1511,13 +1511,13 @@ Kai Pop</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>11/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/阿美利堅無肉飯堂.md" title="wikilink">阿美利堅無肉飯堂</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/阿美利堅無肉飯堂" title="wikilink">阿美利堅無肉飯堂</a><br />
 Go Green USA</p></td>
 <td style="text-align: center;"><p>1<br />
 (11)</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<br />
 嘉賓主持：<a href="../Page/楊大偉.md" title="wikilink">楊大偉</a><br />
-旁白：<a href="../Page/王沛雯.md" title="wikilink">王沛雯</a></p></td>
+旁白：<a href="https://zh.wikipedia.org/wiki/王沛雯" title="wikilink">王沛雯</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/go-green-usa">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
 播映時間為23:45-00:15</p></td>
@@ -1568,7 +1568,7 @@ Stay Overnight (Season 1)</p></td>
 <td style="text-align: center;"><p><a href="../Page/借宿一宵.md" title="wikilink">借宿一宵</a>（第二季）<br />
 Stay Overnight (Season 2)</p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、<a href="https://zh.wikipedia.org/wiki/和泉素行" title="wikilink">和泉素行</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/stay-overnight-season-2">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 外判節目</p></td>
@@ -1576,8 +1576,8 @@ Stay Overnight (Season 2)</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>19/12-<br />
 23/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/唔係本地菜.md" title="wikilink">唔係本地菜</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/唔係本地菜" title="wikilink">唔係本地菜</a><br />
 Colin's Exotic Recipes</p></td>
 <td style="text-align: center;"><p>6<br />
 (16)</p></td>
@@ -1614,7 +1614,7 @@ Colin's Exotic Recipes</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>12/04-<br />
 28/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/無價道.md" title="wikilink">無價道</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/無價道" title="wikilink">無價道</a><br />
 Priceless</p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><p>主持：<br />
@@ -1626,10 +1626,10 @@ Priceless</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>05/07-<br />
 09/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/唱出香港.md" title="wikilink">唱出香港</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/唱出香港" title="wikilink">唱出香港</a><br />
 Hong Kong is Singing</p></td>
 <td style="text-align: center;"><p>6</p></td>
-<td style="text-align: center;"><p>演出：<a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/張美儀.md" title="wikilink">張美儀</a></p></td>
+<td style="text-align: center;"><p>演出：<a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="https://zh.wikipedia.org/wiki/張美儀" title="wikilink">張美儀</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong><br />
 外判節目</p></td>
@@ -1665,7 +1665,7 @@ Hong Kong is Singing</p></td>
 <td style="text-align: center;"><p><a href="../Page/衝三小.md" title="wikilink">衝三小</a><br />
 Three Cyclists</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/吳國麟_(香港).md" title="wikilink">肥仔釘</a>、<a href="../Page/黎梓駿.md" title="wikilink">提子駿</a>、<a href="../Page/梁天俊.md" title="wikilink">爆胎占</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/吳國麟_(香港)" title="wikilink">肥仔釘</a>、<a href="https://zh.wikipedia.org/wiki/黎梓駿" title="wikilink">提子駿</a>、<a href="https://zh.wikipedia.org/wiki/梁天俊" title="wikilink">爆胎占</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外判節目，4月6日改為翌日00:15-00:45播出，5月11日改為翌日00:20-00:50播出</p></td>
@@ -1673,7 +1673,7 @@ Three Cyclists</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>06/07-<br />
 21/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/活匠當下.md" title="wikilink">活匠當下</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/活匠當下" title="wikilink">活匠當下</a><br />
 Craft A Live</p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
@@ -1684,7 +1684,7 @@ Craft A Live</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>28/09-<br />
 12/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/邊X個係恭碩良.md" title="wikilink">邊X個係恭碩良</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/邊X個係恭碩良" title="wikilink">邊X個係恭碩良</a><br />
 Who the X is Jun Kun</p></td>
 <td style="text-align: center;"><p>3</p></td>
 <td style="text-align: center;"><p>演出：<a href="../Page/恭碩良.md" title="wikilink">恭碩良</a></p></td>
@@ -1695,11 +1695,11 @@ Who the X is Jun Kun</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>19/10-<br />
 11/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/夜曲13.md" title="wikilink">夜曲13</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/夜曲13" title="wikilink">夜曲13</a><br />
 The Nocturnes</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>旁白：<a href="../Page/梁雪怡.md" title="wikilink">梁雪怡</a></p></td>
+<td style="text-align: center;"><p>旁白：<a href="https://zh.wikipedia.org/wiki/梁雪怡" title="wikilink">梁雪怡</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/the-nocturnes">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
 外判節目</p></td>
@@ -1732,10 +1732,10 @@ The Nocturnes</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>07/04-<br />
 30/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/地球友善餐廳.md" title="wikilink">地球友善餐廳</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/地球友善餐廳" title="wikilink">地球友善餐廳</a><br />
 Eco Friendly Eats</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
 外判節目</p></td>
@@ -1743,10 +1743,10 @@ Eco Friendly Eats</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>07/07-<br />
 06/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/Lady_Mama.md" title="wikilink">Lady Mama</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Lady_Mama" title="wikilink">Lady Mama</a><br />
 Lady Mama</p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/梁雅琳.md" title="wikilink">梁雅琳</a>、<a href="../Page/徐碧琪.md" title="wikilink">徐碧琪</a>、<a href="../Page/龐秋雁.md" title="wikilink">龐秋雁</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁雅琳" title="wikilink">梁雅琳</a>、<a href="../Page/徐碧琪.md" title="wikilink">徐碧琪</a>、<a href="../Page/龐秋雁.md" title="wikilink">龐秋雁</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
 外判節目</p></td>
@@ -1754,7 +1754,7 @@ Lady Mama</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>13/10-<br />
 01/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/建築·我城.md" title="wikilink">建築·我城</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/建築·我城" title="wikilink">建築·我城</a><br />
 Beyond Concrete Walls</p></td>
 <td style="text-align: center;"><p>8</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/黃修平.md" title="wikilink">黃修平</a></p></td>
@@ -1765,7 +1765,7 @@ Beyond Concrete Walls</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>08/12-<br />
 15/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/呃Like旅行團.md" title="wikilink">呃Like旅行團</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/呃Like旅行團" title="wikilink">呃Like旅行團</a><br />
 Like A Trip</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p>主持：、<a href="../Page/余曉彤.md" title="wikilink">余曉彤</a></p></td>
@@ -1776,7 +1776,7 @@ Like A Trip</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>22/12-<br />
 29/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/即日上映.md" title="wikilink">即日上映</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/即日上映" title="wikilink">即日上映</a><br />
 Now Playing</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p>主持：、<a href="../Page/董敏莉.md" title="wikilink">董敏莉</a></p></td>
@@ -1812,10 +1812,10 @@ Now Playing</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>08/04-<br />
 29/04</p></td>
-<td style="text-align: center;"><p><a href="../Page/誰偷走我的….md" title="wikilink">誰偷走我的…</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/誰偷走我的…" title="wikilink">誰偷走我的…</a><br />
 Living Without</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>旁白：<a href="../Page/黃榮璋.md" title="wikilink">黃榮璋</a>、<a href="../Page/盧偉傑.md" title="wikilink">盧偉傑</a></p></td>
+<td style="text-align: center;"><p>旁白：<a href="../Page/黃榮璋.md" title="wikilink">黃榮璋</a>、<a href="https://zh.wikipedia.org/wiki/盧偉傑" title="wikilink">盧偉傑</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外判節目</p></td>
@@ -1823,10 +1823,10 @@ Living Without</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>06/05-<br />
 17/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/+886MM.md" title="wikilink">+886MM</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/+886MM" title="wikilink">+886MM</a><br />
 +886MM</p></td>
 <td style="text-align: center;"><p>6</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/丘國盛.md" title="wikilink">波　盛</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/丘國盛" title="wikilink">波　盛</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外判節目，6月10日暫停播映</p></td>
@@ -1834,10 +1834,10 @@ Living Without</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>24/06-<br />
 16/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/網絡瘋人.md" title="wikilink">網絡瘋人</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/網絡瘋人" title="wikilink">網絡瘋人</a><br />
 Creative Bomb</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/笑波子.md" title="wikilink">笑波子</a>、<a href="../Page/伍仔.md" title="wikilink">伍仔</a>、<a href="../Page/Hay_Hay.md" title="wikilink">Hay Hay</a>、<a href="../Page/Dai_Wing.md" title="wikilink">Dai Wing</a>、<a href="../Page/Mary姐.md" title="wikilink">Mary姐</a>、<a href="../Page/林偉程.md" title="wikilink">林偉程</a>、<a href="../Page/林芊妤.md" title="wikilink">林芊妤</a>、<a href="../Page/陳國熙.md" title="wikilink">陳國熙</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/笑波子" title="wikilink">笑波子</a>、<a href="https://zh.wikipedia.org/wiki/伍仔" title="wikilink">伍仔</a>、<a href="https://zh.wikipedia.org/wiki/Hay_Hay" title="wikilink">Hay Hay</a>、<a href="https://zh.wikipedia.org/wiki/Dai_Wing" title="wikilink">Dai Wing</a>、<a href="https://zh.wikipedia.org/wiki/Mary姐" title="wikilink">Mary姐</a>、<a href="https://zh.wikipedia.org/wiki/林偉程" title="wikilink">林偉程</a>、<a href="../Page/林芊妤.md" title="wikilink">林芊妤</a>、<a href="https://zh.wikipedia.org/wiki/陳國熙" title="wikilink">陳國熙</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外判節目，7月22日-8月12日改為翌日00:15-00:45播出</p></td>
@@ -1845,10 +1845,10 @@ Creative Bomb</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>23/09-<br />
 25/11</p></td>
-<td style="text-align: center;"><p><a href="../Page/喜·雙飛.md" title="wikilink">喜·雙飛</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/喜·雙飛" title="wikilink">喜·雙飛</a><br />
 Double Happiness</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃和興.md" title="wikilink">黃和興</a>、<a href="../Page/小車.md" title="wikilink">小車</a>、<a href="../Page/Connie.md" title="wikilink">Connie</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃和興" title="wikilink">黃和興</a>、<a href="https://zh.wikipedia.org/wiki/小車" title="wikilink">小車</a>、<a href="https://zh.wikipedia.org/wiki/Connie" title="wikilink">Connie</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/double-happiness">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 外判節目</p></td>
@@ -1862,7 +1862,7 @@ Double Happiness</p></td>
 
 #### 星期二／星期二-六
 
-[香港時間逢星期二](../Page/香港時間.md "wikilink")<small>（星期一深夜）</small>00:15-00:45播出；10月4日起逢星期二-六<small>（星期一-五深夜）</small>00:15-00:45播出（**如星期三凌晨需要播放[英超精華](../Page/英超.md "wikilink")，將暫停播放**）
+[香港時間逢星期二](../Page/香港時間.md "wikilink")<small>（星期一深夜）</small>00:15-00:45播出；10月4日起逢星期二-六<small>（星期一-五深夜）</small>00:15-00:45播出（**如星期三凌晨需要播放[英超精華](https://zh.wikipedia.org/wiki/英超 "wikilink")，將暫停播放**）
 
 <table style="width:240%;">
 <colgroup>
@@ -1887,20 +1887,20 @@ Double Happiness</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>12/04-<br />
 17/05</p></td>
-<td style="text-align: center;"><p><a href="../Page/西甲Online.md" title="wikilink">西甲Online</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/西甲Online" title="wikilink">西甲Online</a><br />
 La Liga Online</p></td>
 <td style="text-align: center;"><p>6</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>23/08-<br />
 27/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/西甲Online.md" title="wikilink">西甲Online</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/西甲Online" title="wikilink">西甲Online</a><br />
 La Liga Online 16/17</p></td>
 <td style="text-align: center;"><p>5</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
 9月6日暫停播映</p></td>
@@ -1908,13 +1908,13 @@ La Liga Online 16/17</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>04/10-<br />
 04/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/體育係....md" title="wikilink">體育係...</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/體育係..." title="wikilink">體育係...</a><br />
 About Sports</p></td>
 <td style="text-align: center;"><p>73<br />
 (233)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/譚淇淇.md" title="wikilink">譚淇淇</a>、<a href="../Page/張紫櫻.md" title="wikilink">車車</a>、<a href="../Page/梁穎瑜.md" title="wikilink">梁穎瑜</a>、、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<a href="../Page/鄭穎翹.md" title="wikilink">鄭穎翹</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>、<br />
-運動界主持：<a href="../Page/謝德謙.md" title="wikilink">謝德謙</a>、<a href="../Page/陳偉豪.md" title="wikilink">陳偉豪</a>、<a href="../Page/紀嘉文.md" title="wikilink">紀嘉文</a>、<a href="../Page/黃曉盈.md" title="wikilink">黃曉盈</a>、<a href="../Page/劉知名.md" title="wikilink">劉知名</a>、<a href="../Page/劉慕裳.md" title="wikilink">劉慕裳</a>、<a href="../Page/余翠怡.md" title="wikilink">余翠怡</a>、<a href="../Page/施寶盛.md" title="wikilink">施寶盛</a>、<a href="../Page/仇多明.md" title="wikilink">仇多明</a>、<a href="../Page/黃耀富.md" title="wikilink">黃耀富</a>、<a href="../Page/陸俊彥.md" title="wikilink">陸俊彥</a>、<a href="../Page/蘇伊俊.md" title="wikilink">蘇伊俊</a>、<a href="../Page/呂麗瑤.md" title="wikilink">呂麗瑤</a>、<a href="../Page/陳靄然.md" title="wikilink">陳靄然</a>、<a href="../Page/吳天麗.md" title="wikilink">吳天麗</a>、<a href="../Page/何顥麟.md" title="wikilink">何顥麟</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/譚淇淇.md" title="wikilink">譚淇淇</a>、<a href="../Page/張紫櫻.md" title="wikilink">車車</a>、<a href="https://zh.wikipedia.org/wiki/梁穎瑜" title="wikilink">梁穎瑜</a>、、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、<a href="https://zh.wikipedia.org/wiki/鄭穎翹" title="wikilink">鄭穎翹</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>、<br />
+運動界主持：<a href="../Page/謝德謙.md" title="wikilink">謝德謙</a>、<a href="../Page/陳偉豪.md" title="wikilink">陳偉豪</a>、<a href="../Page/紀嘉文.md" title="wikilink">紀嘉文</a>、<a href="../Page/黃曉盈.md" title="wikilink">黃曉盈</a>、<a href="https://zh.wikipedia.org/wiki/劉知名" title="wikilink">劉知名</a>、<a href="https://zh.wikipedia.org/wiki/劉慕裳" title="wikilink">劉慕裳</a>、<a href="../Page/余翠怡.md" title="wikilink">余翠怡</a>、<a href="https://zh.wikipedia.org/wiki/施寶盛" title="wikilink">施寶盛</a>、<a href="https://zh.wikipedia.org/wiki/仇多明" title="wikilink">仇多明</a>、<a href="../Page/黃耀富.md" title="wikilink">黃耀富</a>、<a href="https://zh.wikipedia.org/wiki/陸俊彥" title="wikilink">陸俊彥</a>、<a href="../Page/蘇伊俊.md" title="wikilink">蘇伊俊</a>、<a href="../Page/呂麗瑤.md" title="wikilink">呂麗瑤</a>、<a href="https://zh.wikipedia.org/wiki/陳靄然" title="wikilink">陳靄然</a>、<a href="https://zh.wikipedia.org/wiki/吳天麗" title="wikilink">吳天麗</a>、<a href="../Page/何顥麟.md" title="wikilink">何顥麟</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/about-sports">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
 外判節目（505Media Ltd），11月15日改為00:20-00:50播映</p></td>
@@ -1949,7 +1949,7 @@ About Sports</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>06/04-<br />
 18/05<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/Driving_in_Hong_Kong.md" title="wikilink">Driving in Hong Kong</a><br />
 Driving in Hong Kong</p></td>
 <td style="text-align: center;"></td>
@@ -1990,11 +1990,11 @@ Driving in Hong Kong</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>05/11-<br />
 29/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/昇龍道之旅.md" title="wikilink">昇龍道之旅</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/昇龍道之旅" title="wikilink">昇龍道之旅</a><br />
 The Trip of Shoryudo</p></td>
 <td style="text-align: center;"><p>24</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/羅堃尉.md" title="wikilink">羅堃尉</a>、<a href="../Page/黃書維.md" title="wikilink">黃書維</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/羅堃尉" title="wikilink">羅堃尉</a>、<a href="https://zh.wikipedia.org/wiki/黃書維" title="wikilink">黃書維</a></p></td>
 <td style="text-align: center;"><p><a href="http://www.viu.tv/encore/the-trip-of-shoryudo">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 外購節目（CBC Television Co. Limited），12月17日、18日暫停播映</p></td>
@@ -2032,8 +2032,8 @@ The Trip of Shoryudo</p></td>
 <td style="text-align: center;"><p><a href="../Page/G-1格鬥會.md" title="wikilink">G-1格鬥會</a><br />
 G-1 Fight Club</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a>、<a href="../Page/費明海.md" title="wikilink">費明海</a>、<br />
-演出：<a href="../Page/唐紫睿.md" title="wikilink">唐紫睿</a>、<a href="../Page/黎美言.md" title="wikilink">黎美言</a>、<a href="../Page/龍小菌.md" title="wikilink">龍小菌</a>、<a href="../Page/鄧穎芝.md" title="wikilink">鄧穎芝</a>、、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>、、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a>、<a href="https://zh.wikipedia.org/wiki/費明海" title="wikilink">費明海</a>、<br />
+演出：<a href="../Page/唐紫睿.md" title="wikilink">唐紫睿</a>、<a href="../Page/黎美言.md" title="wikilink">黎美言</a>、<a href="https://zh.wikipedia.org/wiki/龍小菌" title="wikilink">龍小菌</a>、<a href="../Page/鄧穎芝.md" title="wikilink">鄧穎芝</a>、、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>、、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目/真人秀</strong><br />
 第1集於4月7日（星期四）22:00-23:00播映，4月9日改為22:45-23:45播出，5月14日改為22:00-22:55播出，5月15日改為22:30-00:00播出</p></td>
@@ -2044,8 +2044,8 @@ G-1 Fight Club</p></td>
 <td style="text-align: center;"><p><a href="../Page/同2047特首上學去.md" title="wikilink">同2047特首上學去</a><br />
 Study With Chief Executive of Hong Kong 2047</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/馬浚偉.md" title="wikilink">馬浚偉</a>、<a href="../Page/卓韻芝.md" title="wikilink">卓韻芝</a>、<a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、<a href="../Page/Robynn_and_Kendy.md" title="wikilink">Robynn and Kendy</a><br />
-旁白：<a href="../Page/薛國斌.md" title="wikilink">薛國斌</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/馬浚偉.md" title="wikilink">馬浚偉</a>、<a href="../Page/卓韻芝.md" title="wikilink">卓韻芝</a>、<a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、<a href="https://zh.wikipedia.org/wiki/Robynn_and_Kendy" title="wikilink">Robynn and Kendy</a><br />
+旁白：<a href="https://zh.wikipedia.org/wiki/薛國斌" title="wikilink">薛國斌</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 6月19日改為22:45-23:45播出</p></td>
@@ -2056,7 +2056,7 @@ Study With Chief Executive of Hong Kong 2047</p></td>
 <td style="text-align: center;"><p><a href="../Page/巨門陣.md" title="wikilink">巨門陣</a><br />
 Agora</p></td>
 <td style="text-align: center;"><p>11</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/馬啟仁.md" title="wikilink">馬啟仁</a>、<a href="../Page/伍家謙.md" title="wikilink">伍家謙</a>、<a href="../Page/楊柳青.md" title="wikilink">楊柳青</a><br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/馬啟仁" title="wikilink">馬啟仁</a>、<a href="../Page/伍家謙.md" title="wikilink">伍家謙</a>、<a href="https://zh.wikipedia.org/wiki/楊柳青" title="wikilink">楊柳青</a><br />
 旁白：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>辯論節目/真人秀</strong><br />
@@ -2065,10 +2065,10 @@ Agora</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>06/08-<br />
 14/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/當衝三小遇上+886MM.md" title="wikilink">當衝三小遇上+886MM</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/當衝三小遇上+886MM" title="wikilink">當衝三小遇上+886MM</a><br />
 Three Cyclists X +886MM</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/吳國麟_(香港).md" title="wikilink">肥仔釘</a>、<a href="../Page/黎梓駿.md" title="wikilink">提子駿</a>、<a href="../Page/梁天俊.md" title="wikilink">爆胎占</a>、<a href="../Page/丘國盛.md" title="wikilink">波　盛</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/吳國麟_(香港)" title="wikilink">肥仔釘</a>、<a href="https://zh.wikipedia.org/wiki/黎梓駿" title="wikilink">提子駿</a>、<a href="https://zh.wikipedia.org/wiki/梁天俊" title="wikilink">爆胎占</a>、<a href="https://zh.wikipedia.org/wiki/丘國盛" title="wikilink">波　盛</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 8月13日改為23:00-00:00播出</p></td>
@@ -2076,7 +2076,7 @@ Three Cyclists X +886MM</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>20/08-<br />
 18/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/對不起_標籤你.md" title="wikilink">對不起 標籤你</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/對不起_標籤你" title="wikilink">對不起 標籤你</a><br />
 Tagger</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/唐劍康.md" title="wikilink">Donald</a>、<a href="../Page/少爺占.md" title="wikilink">少爺占</a><br />
@@ -2097,12 +2097,12 @@ I Wish You Happy</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>19/11-<br />
 18/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/美選D.n.A.md" title="wikilink">美選D.n.A</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/美選D.n.A" title="wikilink">美選D.n.A</a><br />
 The Queen of D.n.A</p></td>
 <td style="text-align: center;"><p>9<br />
 (13)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Eric_Kwok.md" title="wikilink">Eric Kwok</a>、<a href="../Page/方力申.md" title="wikilink">方力申</a>、<a href="../Page/火火.md" title="wikilink">火火</a><br />
-旁白：<a href="../Page/李澄_(DJ).md" title="wikilink">西瓜</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Eric_Kwok" title="wikilink">Eric Kwok</a>、<a href="../Page/方力申.md" title="wikilink">方力申</a>、<a href="../Page/火火.md" title="wikilink">火火</a><br />
+旁白：<a href="https://zh.wikipedia.org/wiki/李澄_(DJ)" title="wikilink">西瓜</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/the-queen-of-d-n-a">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>選美/真人秀</strong><br />
 11月19日改為22:45-23:45播出，12月4日-11日改為22:30-00:00播出，12月17日暫停播映，《美選D.n.A決賽》於12月18日20:30-22:45播出</p></td>
@@ -2113,7 +2113,7 @@ The Queen of D.n.A</p></td>
 Convoy: Tat Ming Pair Special</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a><br />
-演出：<a href="../Page/達明一派.md" title="wikilink">達明一派</a>、<a href="../Page/馮翰銘.md" title="wikilink">馮翰銘</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a>、<a href="../Page/觸執毛.md" title="wikilink">觸執毛</a>、<a href="../Page/Sensi_Lion.md" title="wikilink">Sensi Lion</a>、<a href="../Page/藍奕邦.md" title="wikilink">藍奕邦</a>、<a href="../Page/雞蛋蒸肉餅.md" title="wikilink">雞蛋蒸肉餅</a></p></td>
+演出：<a href="../Page/達明一派.md" title="wikilink">達明一派</a>、<a href="../Page/馮翰銘.md" title="wikilink">馮翰銘</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a>、<a href="../Page/觸執毛.md" title="wikilink">觸執毛</a>、<a href="https://zh.wikipedia.org/wiki/Sensi_Lion" title="wikilink">Sensi Lion</a>、<a href="../Page/藍奕邦.md" title="wikilink">藍奕邦</a>、<a href="https://zh.wikipedia.org/wiki/雞蛋蒸肉餅" title="wikilink">雞蛋蒸肉餅</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong></p></td>
 </tr>
@@ -2149,7 +2149,7 @@ Convoy: Tat Ming Pair Special</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>09/04-<br />
 04/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/真PK.md" title="wikilink">真PK</a><br />
 PK Show</p></td>
 <td style="text-align: center;"><p>42</p></td>
@@ -2188,11 +2188,11 @@ PK Show</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>10/04-<br />
 28/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/總有一隻喺左近.md" title="wikilink">總有一隻喺左近</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/總有一隻喺左近" title="wikilink">總有一隻喺左近</a><br />
 One Beside You</p></td>
 <td style="text-align: center;"><p>20<br />
 (42)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/陳淑蘭.md" title="wikilink">陳淑蘭</a>、<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/陳淑蘭.md" title="wikilink">陳淑蘭</a>、<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/talker-one-beside-you">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 5月15日暫停播映，6月19日改為23:45-00:15播出，7月24日改為23:15-23:45播出</p></td>
@@ -2200,11 +2200,11 @@ One Beside You</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>11/09-<br />
 06/08<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/啪啪聲，太好聽.md" title="wikilink">啪啪聲，太好聽</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/啪啪聲，太好聽" title="wikilink">啪啪聲，太好聽</a><br />
 Inside Out</p></td>
 <td style="text-align: center;"><p>48</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/梁梓禧.md" title="wikilink">梁梓禧</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/梁梓禧.md" title="wikilink">梁梓禧</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/talker-inside-out">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 12月4日、11日、25日改為翌日00:00-00:30播出</p></td>
@@ -2245,15 +2245,15 @@ Inside Out</p></td>
 Senior</p></td>
 <td style="text-align: center;"><p>3<br />
 (30)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a><br />
-旁白：<a href="../Page/林嬋.md" title="wikilink">林　嬋</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a><br />
+旁白：<a href="https://zh.wikipedia.org/wiki/林嬋" title="wikilink">林　嬋</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>長者節目</strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>29/10-<br />
 11/03<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 Two Dollar Senior Tours</p></td>
 <td style="text-align: center;"><p>20</p></td>
@@ -2296,22 +2296,22 @@ Two Dollar Senior Tours</p></td>
 Senior</p></td>
 <td style="text-align: center;"><p>2<br />
 (30)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a><br />
-旁白：<a href="../Page/林嬋.md" title="wikilink">林　嬋</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a><br />
+旁白：<a href="https://zh.wikipedia.org/wiki/林嬋" title="wikilink">林　嬋</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>長者節目</strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>28/05-<br />
 25/03<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/韓流時刻_-_勁歌排行榜.md" title="wikilink">韓流時刻 - 勁歌排行榜</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓流時刻_-_勁歌排行榜" title="wikilink">韓流時刻 - 勁歌排行榜</a><br />
 Chart Folio</p></td>
 <td style="text-align: center;"><p>44</p></td>
 <td style="text-align: center;"><p>主持：HanYu</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/chart-folio">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong><br />
-外購節目（<a href="../Page/韓國.md" title="wikilink">韓國</a>），原名《차트폴리오》，不設粵語配音，6月4日改為08:00-09:00播出</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a>），原名《차트폴리오》，不設粵語配音，6月4日改為08:00-09:00播出</p></td>
 </tr>
 </tbody>
 </table>
@@ -2343,32 +2343,32 @@ Chart Folio</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>09/04-<br />
 14/05</p></td>
-<td style="text-align: center;"><p><a href="../Page/西甲前瞻.md" title="wikilink">西甲前瞻</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/西甲前瞻" title="wikilink">西甲前瞻</a><br />
 La Liga Preview 15/16</p></td>
 <td style="text-align: center;"><p>6</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
-重播<a href="../Page/Now_Sports_2.md" title="wikilink">Now Sports 2節目</a>，4月16日改為15:30-16:00播出</p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now_Sports_2" title="wikilink">Now Sports 2節目</a>，4月16日改為15:30-16:00播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>20/08-<br />
 <br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/西甲前瞻.md" title="wikilink">西甲前瞻</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/西甲前瞻" title="wikilink">西甲前瞻</a><br />
 La Liga Preview 16/17</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
-重播<a href="../Page/Now_Sports_2.md" title="wikilink">Now Sports 2節目</a>，9月3日、10日、24日、10月8日、11月12日、12月24日、31日暫停播映</p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now_Sports_2" title="wikilink">Now Sports 2節目</a>，9月3日、10日、24日、10月8日、11月12日、12月24日、31日暫停播映</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>08/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/西甲Online.md" title="wikilink">西甲Online</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/西甲Online" title="wikilink">西甲Online</a><br />
 La Liga Online 16/17</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong></p></td>
 </tr>
@@ -2402,13 +2402,13 @@ La Liga Online 16/17</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>16/04-<br />
 17/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/ATP場內場外2016.md" title="wikilink">ATP場內場外2016</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ATP場內場外2016" title="wikilink">ATP場內場外2016</a><br />
 ATP World Tour Uncovered 2016</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
-重播<a href="../Page/Now_Sports_6.md" title="wikilink">Now Sports 6節目</a>，4月16日改為16:00-16:30播出，6月4日、12月3日暫停播映，9月3日、10日改為10:15-10:45播出</p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now_Sports_6" title="wikilink">Now Sports 6節目</a>，4月16日改為16:00-16:30播出，6月4日、12月3日暫停播映，9月3日、10日改為10:15-10:45播出</p></td>
 </tr>
 </tbody>
 </table>
@@ -2440,7 +2440,7 @@ ATP World Tour Uncovered 2016</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>17/09-<br />
 24/09</p></td>
-<td style="text-align: center;"><p><a href="../Page/天地和食.md" title="wikilink">天地和食</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天地和食" title="wikilink">天地和食</a><br />
 Blessed Japan</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、</p></td>
@@ -2451,10 +2451,10 @@ Blessed Japan</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>15/10-<br />
 22/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/饗導.md" title="wikilink">饗導</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/饗導" title="wikilink">饗導</a><br />
 On The Road</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、<a href="../Page/鄭瑩瑩.md" title="wikilink">鄭瑩瑩</a>、<a href="../Page/蔡家富.md" title="wikilink">蔡家富</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/張錦祥.md" title="wikilink">張錦祥</a>、<a href="https://zh.wikipedia.org/wiki/鄭瑩瑩" title="wikilink">鄭瑩瑩</a>、<a href="https://zh.wikipedia.org/wiki/蔡家富" title="wikilink">蔡家富</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊/飲食節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，每次播映兩集</p></td>
@@ -2462,11 +2462,11 @@ On The Road</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>24/12-<br />
 31/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/是日本人遊關西.md" title="wikilink">是日本人遊關西</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/是日本人遊關西" title="wikilink">是日本人遊關西</a><br />
 Thats What We Do In Kansai</p></td>
 <td style="text-align: center;"><p>4<br />
 (10)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/Mukoangie.md" title="wikilink">Mukoangie</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/Mukoangie" title="wikilink">Mukoangie</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，每次播映兩集</p></td>
@@ -2501,7 +2501,7 @@ Thats What We Do In Kansai</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>24/12-<br />
 04/03<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 Changing Mama</p></td>
 <td style="text-align: center;"><p>10</p></td>
@@ -2542,7 +2542,7 @@ Changing Mama</p></td>
 <td style="text-align: center;"><p>02/04,<br />
 08/10-<br />
 25/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/粵詞越愛.md" title="wikilink">粵詞越愛</a><br />
 Canton Lyrics Lovers</p></td>
 <td style="text-align: center;"><p>22<br />
@@ -2554,10 +2554,10 @@ Canton Lyrics Lovers</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>02/07-<br />
 23/07</p></td>
-<td style="text-align: center;"><p><a href="../Page/有一種幸福叫沖繩.md" title="wikilink">有一種幸福叫沖繩</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/有一種幸福叫沖繩" title="wikilink">有一種幸福叫沖繩</a><br />
 Tropic Of Happiness, Okinawa</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/倪晨曦.md" title="wikilink">倪晨曦</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/倪晨曦.md" title="wikilink">倪晨曦</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a></p></td>
@@ -2592,7 +2592,7 @@ Tropic Of Happiness, Okinawa</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>19/11-<br />
 22/04<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 University Secrets</p></td>
 <td style="text-align: center;"><p>23<br />
@@ -2636,33 +2636,33 @@ University Secrets</p></td>
 05/11-<br />
 12/11,<br />
 26/11</p></td>
-<td style="text-align: center;"><p><a href="../Page/ATP_16_精華.md" title="wikilink">ATP 16 精華</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ATP_16_精華" title="wikilink">ATP 16 精華</a><br />
 ATP 16 H/Ls</p></td>
 <td style="text-align: center;"><p>7</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
-重播<a href="../Page/Now_Sports_6.md" title="wikilink">Now Sports 6節目</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now_Sports_6" title="wikilink">Now Sports 6節目</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>07/05-<br />
 19/11</p></td>
-<td style="text-align: center;"><p><a href="../Page/PGA巡迴賽.md" title="wikilink">PGA高爾夫球巡迴賽精華</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/PGA巡迴賽" title="wikilink">PGA高爾夫球巡迴賽精華</a><br />
 PGA Tour Highlights 2016</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_8.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_8" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
-重播<a href="../Page/Now_Golf_3.md" title="wikilink">Now Golf 3節目</a>，9月24日、10月8日-22日、11月5日、12日暫停播映</p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now_Golf_3" title="wikilink">Now Golf 3節目</a>，9月24日、10月8日-22日、11月5日、12日暫停播映</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>03/12-<br />
 07/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/樂基兒「意」中人.md" title="wikilink">樂基兒「意」中人</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/樂基兒「意」中人" title="wikilink">樂基兒「意」中人</a><br />
 All Made In Italy</p></td>
 <td style="text-align: center;"><p>6</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/樂基兒.md" title="wikilink">樂基兒</a>、<a href="../Page/鄧達智.md" title="wikilink">鄧達智</a>、<a href="../Page/楊柳青.md" title="wikilink">楊柳青</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/樂基兒.md" title="wikilink">樂基兒</a>、<a href="../Page/鄧達智.md" title="wikilink">鄧達智</a>、<a href="https://zh.wikipedia.org/wiki/楊柳青" title="wikilink">楊柳青</a>、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/all-made-in-italy">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a></p></td>
@@ -2697,11 +2697,11 @@ All Made In Italy</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/04-<br />
 <br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 Happy Family Day</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/happy-family-day">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong><br />
 4月9日改為11:30-12:00播出，10月8日改為16:00-16:25播出，11月12日改為15:00-15:30播出</p></td>
@@ -2737,11 +2737,12 @@ Happy Family Day</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>09/04-<br />
-10/06<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+07/10<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 View</p></td>
-<td style="text-align: center;"><p>52</p></td>
+<td style="text-align: center;"><p>60<br />
+(91)</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/陳嘉容.md" title="wikilink">陳嘉容</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/view">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>潮流資訊節目</strong><br />
@@ -2749,28 +2750,28 @@ View</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>18/06</p></td>
-<td style="text-align: center;"><p><a href="../Page/Gin_Lee.md" title="wikilink">街頭Gin大調</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Gin_Lee" title="wikilink">街頭Gin大調</a><br />
 Gin Music on the Street</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>演出：<a href="../Page/Gin_Lee.md" title="wikilink">Gin Lee</a></p></td>
+<td style="text-align: center;"><p>演出：<a href="https://zh.wikipedia.org/wiki/Gin_Lee" title="wikilink">Gin Lee</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>13/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/一球入魂.md" title="wikilink">一球入魂</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一球入魂" title="wikilink">一球入魂</a><br />
 Hoop Dreams</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>演出：、<a href="../Page/鄭珀麟.md" title="wikilink">鄭珀麟</a>、<a href="../Page/香振強.md" title="wikilink">香振強</a>、</p></td>
+<td style="text-align: center;"><p>演出：、<a href="https://zh.wikipedia.org/wiki/鄭珀麟" title="wikilink">鄭珀麟</a>、<a href="https://zh.wikipedia.org/wiki/香振強" title="wikilink">香振強</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>27/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/Kai_Pop.md" title="wikilink">Kai Pop</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Kai_Pop" title="wikilink">Kai Pop</a><br />
 Kai Pop</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>演出：<a href="../Page/劉俊謙.md" title="wikilink">劉俊謙</a>、、<a href="../Page/江銘亮.md" title="wikilink">江銘亮</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a></p></td>
+<td style="text-align: center;"><p>演出：<a href="https://zh.wikipedia.org/wiki/劉俊謙" title="wikilink">劉俊謙</a>、、<a href="https://zh.wikipedia.org/wiki/江銘亮" title="wikilink">江銘亮</a>、<a href="https://zh.wikipedia.org/wiki/陳漢娜" title="wikilink">陳漢娜</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong></p></td>
 </tr>
@@ -2813,7 +2814,7 @@ I Am Not A Singer Jason Chan</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>09/04-<br />
 01/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/恐怖醫學.md" title="wikilink">恐怖醫學</a>（第一輯）<br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/恐怖醫學" title="wikilink">恐怖醫學</a>（第一輯）<br />
 New Medical Check Up Horrow Show (I)</p></td>
 <td style="text-align: center;"><p>24<br />
 (26)</p></td>
@@ -2863,7 +2864,7 @@ ShowTime</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>24/09-<br />
 15/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/我的Hero.md" title="wikilink">我的Hero</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的Hero" title="wikilink">我的Hero</a><br />
 My Hero</p></td>
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/張智霖.md" title="wikilink">張智霖</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
@@ -2903,25 +2904,25 @@ My Hero</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/10-<br />
 18/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/戀愛齡距離.md" title="wikilink">戀愛齡距離</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戀愛齡距離" title="wikilink">戀愛齡距離</a><br />
 Age Gap Love</p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><p>旁白：（英語原聲）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/age-gap-love">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>長者節目</strong><br />
-外購節目（<a href="../Page/英國第五台.md" title="wikilink">英國第五台</a>）</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/英國第五台" title="wikilink">英國第五台</a>）</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>25/12-<br />
 01/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/操肌無限耆.md" title="wikilink">操肌無限耆</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/操肌無限耆" title="wikilink">操肌無限耆</a><br />
 70 With A Six Pack</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>旁白：（英語原聲）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>長者節目</strong><br />
-外購節目（<a href="../Page/英國第四台.md" title="wikilink">英國第四台</a>），每次播映半集</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/英國第四台" title="wikilink">英國第四台</a>），每次播映半集</p></td>
 </tr>
 </tbody>
 </table>
@@ -2956,21 +2957,21 @@ Age Gap Love</p></td>
 Art in Progress</p></td>
 <td style="text-align: center;"><p>1<br />
 (18)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>藝術節目</strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>16/10-<br />
 26/02<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/興趣大師.md" title="wikilink">興趣大師</a><br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/興趣大師" title="wikilink">興趣大師</a><br />
 Takumi of Hobby</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p>主持：（日語原聲）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/takumi-of-hobby">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>文化節目</strong><br />
-外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/廣島HOME電視台.md" title="wikilink">廣島HOME電視台</a>），原名《》</p></td>
+外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/廣島HOME電視台" title="wikilink">廣島HOME電視台</a>），原名《》</p></td>
 </tr>
 </tbody>
 </table>
@@ -3002,7 +3003,7 @@ Takumi of Hobby</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>10/04-<br />
 29/08<br />
-<a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">續18年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2018年)" title="wikilink">續18年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/日本！我來了.md" title="wikilink">你去日本搞乜鬼</a>（第一輯）<br />
 Why did you come to Japan? (I)</p></td>
 <td style="text-align: center;"><p>10<br />
@@ -3045,7 +3046,7 @@ Why did you come to Japan? (I)</p></td>
 <td style="text-align: center;"><p><a href="../Page/Go!_Japan_TV_日本大放送.md" title="wikilink">Go! Japan TV 日本大放送</a><br />
 Go! Japan TV</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/理惠.md" title="wikilink">理惠</a>、<a href="../Page/邱忠業.md" title="wikilink">邱忠業</a>（日語原聲）；<a href="../Page/石梓晴.md" title="wikilink">石梓晴</a>、<a href="../Page/李家傑_(配音員).md" title="wikilink">李家傑</a>（粵語配音）</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/理惠" title="wikilink">理惠</a>、<a href="https://zh.wikipedia.org/wiki/邱忠業" title="wikilink">邱忠業</a>（日語原聲）；<a href="../Page/石梓晴.md" title="wikilink">石梓晴</a>、<a href="../Page/李家傑_(配音員).md" title="wikilink">李家傑</a>（粵語配音）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊/文化節目</strong><br />
 外購節目（<a href="../Page/香港.md" title="wikilink">香港R</a> by R Production），6月5日、19日暫停播映</p></td>
@@ -3080,7 +3081,7 @@ Go! Japan TV</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>17/04-<br />
 26/03<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a><br />
 Infinite Challenge</p></td>
 <td style="text-align: center;"><p>52</p></td>
@@ -3088,7 +3089,7 @@ Infinite Challenge</p></td>
 旁白：<a href="../Page/羅偉亮.md" title="wikilink">羅偉亮</a>（粵語配音）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/infinite-challenge">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-外購節目（<a href="../Page/韓國.md" title="wikilink">韓國</a><a href="../Page/MBC.md" title="wikilink">MBC</a>），原名《》，10月9日改為10月10日播映</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），原名《》，10月9日改為10月10日播映</p></td>
 </tr>
 </tbody>
 </table>
@@ -3131,7 +3132,7 @@ School Open Day</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>02/10-<br />
 26/03<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 Fun Days Out</p></td>
 <td style="text-align: center;"><p>26</p></td>
@@ -3194,8 +3195,8 @@ Love Music : Lowell</p></td>
 <td style="text-align: center;"><p><a href="../Page/Interviu.md" title="wikilink">Interviu</a><br />
 Interviu</p></td>
 <td style="text-align: center;"><p>16<br />
-()</p></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、、<a href="../Page/林聞恩.md" title="wikilink">林聞恩</a>、<a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a>、<a href="../Page/薛國斌.md" title="wikilink">薛國斌</a></p></td>
+(143)</p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a>、、<a href="https://zh.wikipedia.org/wiki/林聞恩" title="wikilink">林聞恩</a>、<a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a>、<a href="https://zh.wikipedia.org/wiki/薛國斌" title="wikilink">薛國斌</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/interviu">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂訪談節目</strong></p></td>
 </tr>
@@ -3206,7 +3207,7 @@ Interviu</p></td>
 Dream Job</p></td>
 <td style="text-align: center;"><p>9<br />
 (30)</p></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong></p></td>
 </tr>
@@ -3224,7 +3225,7 @@ University Secrets</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>27/11-<br />
 15/01<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><br />
 How Hard To Cook?</p></td>
 <td style="text-align: center;"><p>8</p></td>
@@ -3274,23 +3275,23 @@ Come on Baby</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>23/10-<br />
 11/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/玩命標靶.md" title="wikilink">玩命標靶</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玩命標靶" title="wikilink">玩命標靶</a><br />
 </p></td>
 <td style="text-align: center;"><p>8</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/凱蘭·魯茲.md" title="wikilink">凱蘭·魯茲</a>、（英語原聲）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/bullseye">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>遊戲節目/真人秀</strong><br />
-外購節目（<a href="../Page/美國.md" title="wikilink">美國</a><a href="../Page/福斯廣播公司.md" title="wikilink">福斯廣播公司</a>）</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="../Page/福斯廣播公司.md" title="wikilink">福斯廣播公司</a>）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>25/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/醉愛聖誕.md" title="wikilink">醉愛聖誕</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/醉愛聖誕" title="wikilink">醉愛聖誕</a><br />
 The Twelve Drinks Of Christmas</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/亞歷山大·阿姆斯壯.md" title="wikilink">亞歷山大·阿姆斯壯</a>、（英語原聲）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>資訊節目</strong><br />
-外購節目（<a href="../Page/英國.md" title="wikilink">英國</a><a href="../Page/BBC.md" title="wikilink">BBC</a>），播映時間為20:30-21:45</p></td>
+外購節目（<a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國</a><a href="https://zh.wikipedia.org/wiki/BBC" title="wikilink">BBC</a>），播映時間為20:30-21:45</p></td>
 </tr>
 </tbody>
 </table>
@@ -3325,7 +3326,7 @@ The Twelve Drinks Of Christmas</p></td>
 <td style="text-align: center;"><p><a href="../Page/SE7EN_(電視節目).md" title="wikilink">SE7EN</a><br />
 SE7EN</p></td>
 <td style="text-align: center;"><p>9</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong></p></td>
 </tr>
@@ -3344,12 +3345,13 @@ Come on Baby</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>28/08-<br />
-<br />
-<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">續17年</a></p></td>
+02/04<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2017年)" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/Interviu.md" title="wikilink">Interviu</a><br />
 Interviu</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、、<a href="../Page/林聞恩.md" title="wikilink">林聞恩</a>、<a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a>、<a href="../Page/薛國斌.md" title="wikilink">薛國斌</a></p></td>
+<td style="text-align: center;"><p>31<br />
+(143)</p></td>
+<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a>、、<a href="https://zh.wikipedia.org/wiki/林聞恩" title="wikilink">林聞恩</a>、<a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a>、<a href="https://zh.wikipedia.org/wiki/薛國斌" title="wikilink">薛國斌</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/interviu">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂訪談節目</strong><br />
 12月18日改為23:00-23:30播映，12月25日改為21:45-22:15播映</p></td>
@@ -3384,11 +3386,11 @@ Interviu</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>25/09-<br />
 16/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/美選D.n.A.md" title="wikilink">美選D.n.A</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/美選D.n.A" title="wikilink">美選D.n.A</a><br />
 The Queen of D.n.A</p></td>
 <td style="text-align: center;"><p>4<br />
 (13)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Eric_Kwok.md" title="wikilink">Eric Kwok</a>、<a href="../Page/方力申.md" title="wikilink">方力申</a>、<a href="../Page/火火.md" title="wikilink">火火</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Eric_Kwok" title="wikilink">Eric Kwok</a>、<a href="../Page/方力申.md" title="wikilink">方力申</a>、<a href="../Page/火火.md" title="wikilink">火火</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/the-queen-of-d-n-a">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>選美/真人秀</strong></p></td>
 </tr>
@@ -3423,14 +3425,14 @@ The Queen of D.n.A</p></td>
 <td style="text-align: center;"><p>11/06,<br />
 08/07,<br />
 11/07</p></td>
-<td style="text-align: center;"><p><a href="../Page/2016年歐洲國家盃.md" title="wikilink">歐洲國家盃Online</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/2016年歐洲國家盃" title="wikilink">歐洲國家盃Online</a><br />
 UEFA EURO 2016 Online</p></td>
 <td style="text-align: center;"><p>3<br />
 (23)</p></td>
-<td style="text-align: center;"><p>旁白：<a href="../Page/馬啟仁.md" title="wikilink">馬啟仁</a>、<a href="../Page/曾偉忠.md" title="wikilink">曾偉忠</a></p></td>
+<td style="text-align: center;"><p>旁白：<a href="https://zh.wikipedia.org/wiki/馬啟仁" title="wikilink">馬啟仁</a>、<a href="../Page/曾偉忠.md" title="wikilink">曾偉忠</a></p></td>
 <td style="text-align: center;"><p><a href="http://sports.Now.com/home/euro2016">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
-重播<a href="../Page/Now_651台.md" title="wikilink">Now 651台節目</a>，播映時間為6月11日23:30-23:45、7月8日、11日19:45-20:00</p></td>
+重播<a href="https://zh.wikipedia.org/wiki/Now_651台" title="wikilink">Now 651台節目</a>，播映時間為6月11日23:30-23:45、7月8日、11日19:45-20:00</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>02/07-<br />
@@ -3442,11 +3444,11 @@ UEFA EURO 2016 Online</p></td>
 15/10,<br />
 15/11,<br />
 27/12</p></td>
-<td style="text-align: center;"><p><a href="../Page/武井試煉場.md" title="wikilink">武井試煉場</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/武井試煉場" title="wikilink">武井試煉場</a><br />
 So Takei - The Ultimate Examiner</p></td>
 <td style="text-align: center;"><p>11<br />
 (22)</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/武井壮.md" title="wikilink">武井壮</a>（日語原聲）</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/武井壮" title="wikilink">武井壮</a>（日語原聲）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/so-takei-the-ultimate-examiner">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/東京都會電視台.md" title="wikilink">東京都會電視台</a>），原名《{{lang|ja|[[:ja:武井壮しらべ_誰もやらなきゃオレがやる</p></td>
@@ -3454,10 +3456,10 @@ So Takei - The Ultimate Examiner</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/09,<br />
 12/10</p></td>
-<td style="text-align: center;"><p><a href="../Page/撐起港隊-比賽精華.md" title="wikilink">撐起港隊-比賽精華</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/撐起港隊-比賽精華" title="wikilink">撐起港隊-比賽精華</a><br />
 Come On HK - Review</p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_3.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_3" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
 播映時間為00:45-01:00</p></td>
@@ -3477,10 +3479,10 @@ Lets Talk!</p></td>
 <td style="text-align: center;"><p>07/11,<br />
 11/11,<br />
 13/11</p></td>
-<td style="text-align: center;"><p><a href="../Page/2017年東亞盃.md" title="wikilink">2017東亞足球錦標賽-賽日精華</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/2017年東亞盃" title="wikilink">2017東亞足球錦標賽-賽日精華</a><br />
 EAFF E-1 Football Championship 2017 Matchday H/Ls</p></td>
 <td style="text-align: center;"><p>3</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/Now寬頻電視體育平台#Now_Sports_3.md" title="wikilink">Now Sports評述員</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台#Now_Sports_3" title="wikilink">Now Sports評述員</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>體育節目</strong><br />
 播映時間為11月7日01:00-01:30、11月11日00:45-01:15、11月13日01:30-02:00</p></td>

@@ -1,6 +1,6 @@
 **Samsung Galaxy
 A3**是由[三星電子製造的一款](../Page/三星電子.md "wikilink")[Android智能手機](../Page/Android.md "wikilink")，在2014年10月連同[Galaxy
-A5發佈](../Page/Samsung_Galaxy_A5.md "wikilink")。
+A5發佈](https://zh.wikipedia.org/wiki/Samsung_Galaxy_A5 "wikilink")。
 
 ## 技術規格
 
@@ -8,8 +8,8 @@ A5發佈](../Page/Samsung_Galaxy_A5.md "wikilink")。
   - 前攝像頭：500萬像素
   - 系统芯片：Qualcomm Snapdragon 410（四核1.2 GHz，ARM Cortex-A53 64位CPU）
   - 圖形處理器：Adreno 306
-  - 內存：1 GB [RAM](../Page/RAM.md "wikilink") (A300F); 1.5 GB
-    RAM（SM-A300FU）
+  - 內存：1 GB [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink") (A300F);
+    1.5 GB RAM（SM-A300FU）
   - 存儲：8 GB
   - 電池：1900 mAh
   - 屏幕尺寸：4.5英寸

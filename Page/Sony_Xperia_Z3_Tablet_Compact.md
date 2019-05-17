@@ -1,14 +1,15 @@
 **Sony Xperia Z3 Tablet
 Compact**，是索尼於2014年9月3日發佈的旗艦[平板電腦](../Page/平板電腦.md "wikilink")，與以往[Sony
-Xperia Tablet Z和](../Page/Sony_Xperia_Tablet_Z.md "wikilink")[Sony
+Xperia Tablet
+Z和](https://zh.wikipedia.org/wiki/Sony_Xperia_Tablet_Z "wikilink")[Sony
 Xperia Z2
-Tablet的](../Page/Sony_Xperia_Z2_Tablet.md "wikilink")10.1吋的大螢幕不同，改為8吋螢幕，攻佔小平板市場。
+Tablet的](https://zh.wikipedia.org/wiki/Sony_Xperia_Z2_Tablet "wikilink")10.1吋的大螢幕不同，改為8吋螢幕，攻佔小平板市場。
 榮獲2015年德國[紅點設計大獎](../Page/紅點設計大獎.md "wikilink")。
 
 ## 軟體
 
 Z3 Tablet Compact預載「Remote Play
-App」，可以將[PS4畫面投射到平板上](../Page/PS4.md "wikilink")。
+App」，可以將[PS4畫面投射到平板上](https://zh.wikipedia.org/wiki/PS4 "wikilink")。
 
 ## 外部链接
 

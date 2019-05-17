@@ -1,12 +1,12 @@
 [Woman_Using_a_Samsung_VR_Headset_at_SXSW_2015_(2015-03-15_14.10.24_by_Nan_Palmero).jpg](https://zh.wikipedia.org/wiki/File:Woman_Using_a_Samsung_VR_Headset_at_SXSW_2015_\(2015-03-15_14.10.24_by_Nan_Palmero\).jpg "fig:Woman_Using_a_Samsung_VR_Headset_at_SXSW_2015_(2015-03-15_14.10.24_by_Nan_Palmero).jpg")
 
 **三星Gear
-VR**是一个移动的[虚拟现实器件](../Page/虚拟现实.md "wikilink")，由[三星电子与](../Page/三星电子.md "wikilink")[Oculus
-VR公司合作开发](../Page/Oculus_VR.md "wikilink")。一个兼容的[Samsung
-Galaxy器件](../Page/三星Galaxy.md "wikilink") (Galaxy Note 5 或 Galaxy
-S6/S6 Edge), 分开销售, 作为头戴式器件的显示器与处理器，而Gear
-VR单元本身包含高[视野的透镜和定制的](../Page/视野.md "wikilink")[惯性测量单元（IMU）](../Page/惯性测量单元.md "wikilink")，用于以micro-USB链接智能手机做旋转跟踪。相比用于[Google
-Cardboard智能手机内部的](../Page/Google_Cardboard.md "wikilink")[惯性测量单元（IMU）](../Page/惯性测量单元.md "wikilink")，这种IMU是更准确，以及更好的校准较低延迟。
+VR**是一个移动的[虚拟现实器件](../Page/虚拟现实.md "wikilink")，由[三星电子与](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[Oculus
+VR公司合作开发](https://zh.wikipedia.org/wiki/Oculus_VR "wikilink")。一个兼容的[Samsung
+Galaxy器件](../Page/三星Galaxy.md "wikilink") (Galaxy Note 5 或 Galaxy S6/S6
+Edge), 分开销售, 作为头戴式器件的显示器与处理器，而Gear
+VR单元本身包含高[视野的透镜和定制的](https://zh.wikipedia.org/wiki/视野 "wikilink")[惯性测量单元（IMU）](https://zh.wikipedia.org/wiki/惯性测量单元 "wikilink")，用于以micro-USB链接智能手机做旋转跟踪。相比用于[Google
+Cardboard智能手机内部的](../Page/Google_Cardboard.md "wikilink")[惯性测量单元（IMU）](https://zh.wikipedia.org/wiki/惯性测量单元 "wikilink")，这种IMU是更准确，以及更好的校准较低延迟。
 
 三星Gear VR头戴式器件还包括在一侧的一个触摸板和回退按钮，以及一个接近传感器探测何时带上头戴式器件。\[1\]
 触摸板和按键允许用户与虚拟环境交互的具有最低的标准输入能力，而[Google

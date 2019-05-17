@@ -1,7 +1,7 @@
 **Sony Xperia
 M5**是一款由[索尼製造](../Page/索尼.md "wikilink")，於2015年8月3日和[Xperia
 C5
-Ultra共同發表的手機](../Page/Xperia_C5_Ultra.md "wikilink")\[1\]。市場設定為中階機種，擁有不錯的防水性能（因為其主打防水性能又稱水水機）
+Ultra共同發表的手機](https://zh.wikipedia.org/wiki/Xperia_C5_Ultra "wikilink")\[1\]。市場設定為中階機種，擁有不錯的防水性能（因為其主打防水性能又稱水水機）
 。另外，還有雙卡版本Sony Xperia M5 dual。
 
 ## 設計特點
@@ -13,12 +13,12 @@ Ultra共同發表的手機](../Page/Xperia_C5_Ultra.md "wikilink")\[1\]。市場
 
 顏色包括：
 
-| 顏色 | 名稱                                                          | 英語    | 備註 |
-| -- | ----------------------------------------------------------- | ----- | -- |
-|    | [<font color="#00000">黑色</font>](../Page/黑色.md "wikilink")  | Black |    |
-|    | [<font color="#696969">白色</font>](../Page/白色.md "wikilink") | White |    |
-|    | [<font color=#EAC100>金色</font>](../Page/金色.md "wikilink")   | Gold  |    |
-|    |                                                             |       |    |
+| 顏色 | 名稱                                                                           | 英語    | 備註 |
+| -- | ---------------------------------------------------------------------------- | ----- | -- |
+|    | [<font color="#00000">黑色</font>](../Page/黑色.md "wikilink")                   | Black |    |
+|    | [<font color="#696969">白色</font>](../Page/白色.md "wikilink")                  | White |    |
+|    | [<font color=#EAC100>金色</font>](https://zh.wikipedia.org/wiki/金色 "wikilink") | Gold  |    |
+|    |                                                                              |       |    |
 
 ## 參考資料
 

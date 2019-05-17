@@ -1,8 +1,8 @@
 **Mogwai Young
-Team**是[後搖滾樂團](../Page/後搖滾.md "wikilink")[魔怪的第一張](../Page/魔怪_\(樂團\).md "wikilink")[專輯](../Page/專輯.md "wikilink")，於1997年10月27日由[Chemikal
-Underground發行](../Page/Chemikal_Underground.md "wikilink")。有[CD和](../Page/CD.md "wikilink")[黑膠唱片二種版本](../Page/黑膠唱片.md "wikilink")。
+Team**是[後搖滾樂團](../Page/後搖滾.md "wikilink")[魔怪的第一張](../Page/魔怪_\(樂團\).md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於1997年10月27日由[Chemikal
+Underground發行](https://zh.wikipedia.org/wiki/Chemikal_Underground "wikilink")。有[CD和](../Page/CD.md "wikilink")[黑膠唱片二種版本](../Page/黑膠唱片.md "wikilink")。
 
-由於專輯封面為[富士銀行](../Page/富士銀行.md "wikilink")，因此常常被稱為富士銀行專輯。
+由於專輯封面為[富士銀行](https://zh.wikipedia.org/wiki/富士銀行 "wikilink")，因此常常被稱為富士銀行專輯。
 
 2008年5月推出復刻版，並增加收錄部分現場錄音。
 

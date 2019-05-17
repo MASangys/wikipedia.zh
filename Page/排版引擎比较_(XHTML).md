@@ -1,11 +1,11 @@
 下表比较了[XHTML对一些](../Page/XHTML.md "wikilink")[排版引擎的支持与兼容性](../Page/排版引擎.md "wikilink")。请参阅各个产品的条目获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
 
 本条目只靠路XHTML 1.1。[XHTML 1.1基于](../Page/XHTML.md "wikilink")[XHTML
-1.0严格版](../Page/XHTML#XHTML_1.0.md "wikilink")，抛弃了更多的元素与属性。[XHTML
-2.0是一个工作草案](../Page/XHTML#XHTML_2.0.md "wikilink")，现未受到任何排版引擎的支持，为支持[HTML5和](../Page/HTML5.md "wikilink")[XHTML5的工作](../Page/XHTML#XHTML5.md "wikilink")，其于2009年被废弃。XHTML
+1.0严格版](https://zh.wikipedia.org/wiki/XHTML#XHTML_1.0 "wikilink")，抛弃了更多的元素与属性。[XHTML
+2.0是一个工作草案](https://zh.wikipedia.org/wiki/XHTML#XHTML_2.0 "wikilink")，现未受到任何排版引擎的支持，为支持[HTML5和](../Page/HTML5.md "wikilink")[XHTML5的工作](https://zh.wikipedia.org/wiki/XHTML#XHTML5 "wikilink")，其于2009年被废弃。XHTML
 1.0与[HTML 4](../Page/HTML.md "wikilink")（二者均提供`text/html`）在[排版引擎比较
 (HTML)中进行了比较](../Page/排版引擎比较_\(HTML\).md "wikilink")。关于XML兼容性的比较请参见[排版引擎比较
-(XML)](../Page/排版引擎比较_\(XML\).md "wikilink")。
+(XML)](https://zh.wikipedia.org/wiki/排版引擎比较_\(XML\) "wikilink")。
 
 如给出了版本号，则说明自该版本起完全支持该特性。专有扩展不包括在内。
 
@@ -19,11 +19,11 @@
 <th><p>| <a href="../Page/互联网媒体类型.md" title="wikilink">互联网媒体类型</a></p></th>
 <th><p><a href="../Page/Trident_(排版引擎).md" title="wikilink">Trident</a></p></th>
 <th><p><a href="../Page/Tasman.md" title="wikilink">Tasman</a></p></th>
-<th><p><a href="../Page/Gecko_(layout_engine).md" title="wikilink">Gecko</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Gecko_(layout_engine)" title="wikilink">Gecko</a></p></th>
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -145,16 +145,16 @@
 <th><p>|</p></th>
 <th><p><a href="../Page/Trident_(排版引擎).md" title="wikilink">Trident</a></p></th>
 <th><p><a href="../Page/Tasman.md" title="wikilink">Tasman</a></p></th>
-<th><p><a href="../Page/Gecko_(layout_engine).md" title="wikilink">Gecko</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Gecko_(layout_engine)" title="wikilink">Gecko</a></p></th>
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/MathML.md" title="wikilink">MathML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MathML" title="wikilink">MathML</a></p></td>
 <td></td>
 <td><p>rowspan="4" </p></td>
 <td></td>
@@ -164,7 +164,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Scalable_Vector_Graphics.md" title="wikilink">SVG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Scalable_Vector_Graphics" title="wikilink">SVG</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -184,7 +184,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/VoiceXML.md" title="wikilink">VoiceXML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VoiceXML" title="wikilink">VoiceXML</a></p></td>
 <td></td>
 <td></td>
 <td></td>

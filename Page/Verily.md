@@ -7,7 +7,7 @@ Verily的研发团队并不局限于具体的疾病，而是会使用各种全�
 
 ## 参见
 
-  - [Google X](../Page/Google_X.md "wikilink")
+  - [Google X](https://zh.wikipedia.org/wiki/Google_X "wikilink")
   - [Calico](../Page/Calico.md "wikilink")
 
 ## 参考链接

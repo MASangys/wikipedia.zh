@@ -3,7 +3,7 @@
 [The_Parkside_Place_Entrance_2016.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_Entrance_2016.jpg "fig:The_Parkside_Place_Entrance_2016.jpg")
 [The_Parkside_Place_Central_Avenue_Entrance_2016.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg "fig:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg")
 **The
-Parkside**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[唐俊街](../Page/唐俊街.md "wikilink")18號
+Parkside**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[唐俊街](https://zh.wikipedia.org/wiki/唐俊街 "wikilink")18號
 ，是[會德豐集團旗下的私人住宅屋苑](../Page/會德豐.md "wikilink")。由[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")，[金門建築承建](../Page/金門建築.md "wikilink")。物業分為3座樓高28層的大廈，共提供591伙單位，於2014年11月開售，在2016年9月落成。管理公司為夏利文物業管理有限公司。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批120個單位的價單，定價由549.2萬元起，實用呎價由12,373元至15,194元。\[1\]
 
 ## 單位
@@ -23,24 +23,26 @@ Parkside**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界
 ## 商場
 
 項目地下至1樓設商場The Parkside
-Place，總面積42,473方呎。2016年1月以5.1億元連商業車位售予印度船王家族成員。\[3\]同年年尾，以5億元出售6成業權給[安祖高頓](../Page/安祖高頓.md "wikilink")，改名為**The
+Place，總面積42,473方呎。2016年1月以5.1億元連商業車位售予印度船王家族成員。\[3\]同年年尾，以5億元出售6成業權給[安祖高頓](https://zh.wikipedia.org/wiki/安祖高頓 "wikilink")，改名為**The
 Parkside
 Mall**。\[4\]現時租戶包括札幌拉麵，翠河餐廳，[大家樂及地產代理](../Page/大家樂.md "wikilink")[利嘉閣等](../Page/利嘉閣.md "wikilink")。1樓為The
 Campfire Campus和AFTER 3 at Campfire餐廳。\[5\]
 
+2019年4月30日，[宏安集團以](../Page/宏安集團.md "wikilink")7.8億購入商場，連同位於地庫樓層之49個停車位及5個摩托車停車位，可供出租總面積約為32564平方呎
+
 ## 宣傳
 
 The Parkside的廣告宣傳「A Brighter
-Living」為主題。廣告於[日本](../Page/日本.md "wikilink")[東京](../Page/東京.md "wikilink")[品川及辰巳之森](../Page/品川.md "wikilink")-綠道公園拍攝。
+Living」為主題。廣告於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[品川及辰巳之森](https://zh.wikipedia.org/wiki/品川 "wikilink")-綠道公園拍攝。
 
 ## 著名住客
 
 ## 會德豐「澳南」項目
 
 1.  **The Parkside**
-2.  [CAPRI](../Page/CAPRI.md "wikilink")
+2.  [CAPRI](https://zh.wikipedia.org/wiki/CAPRI "wikilink")
 3.  [Savannah](../Page/Savannah_\(住宅\).md "wikilink")
-4.  [MONTEREY](../Page/MONTEREY.md "wikilink")
+4.  [MONTEREY](https://zh.wikipedia.org/wiki/MONTEREY "wikilink")
 
 ## 興建圖片
 
@@ -87,7 +89,7 @@ Parkside（2015年3月） <File:The> Parkside west.jpg|The Parkside西面（2016
 
   - 中央大道
   - [嘉悅](../Page/嘉悅.md "wikilink")
-  - [天晉II](../Page/天晉#天晉II.md "wikilink")
+  - [天晉II](https://zh.wikipedia.org/wiki/天晉#天晉II "wikilink")
   - [播道書院](../Page/播道書院.md "wikilink")
 
 ## 參考

@@ -1,12 +1,13 @@
 **tmux**
-是一个优秀的[终端复用器类](../Page/终端复用器.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，功能类似
+是一个优秀的[终端复用器类](https://zh.wikipedia.org/wiki/终端复用器 "wikilink")[自由软件](../Page/自由软件.md "wikilink")，功能类似
 [GNU Screen](../Page/GNU_Screen.md "wikilink")，但使用 [BSD
 许可发布](../Page/BSD许可证.md "wikilink")。用户可以通过 tmux
-在一个[终端内管理多个分离的会话](../Page/终端.md "wikilink")，窗口及面板，对于同时使用多个[命令行](../Page/命令行.md "wikilink")，或多个任务时非常方便。
+在一个[终端内管理多个分离的会话](https://zh.wikipedia.org/wiki/终端 "wikilink")，窗口及面板，对于同时使用多个[命令行](https://zh.wikipedia.org/wiki/命令行 "wikilink")，或多个任务时非常方便。
 
 ## 概念模型
 
-tmux 采用 [client/server](../Page/client/server.md "wikilink")
+tmux 采用
+[client/server](https://zh.wikipedia.org/wiki/client/server "wikilink")
 模型，主要由以下模块组成：
 
 | 模块      | 简介                          |
@@ -50,7 +51,8 @@ tmux 采用 [client/server](../Page/client/server.md "wikilink")
 
 ## 相似软件
 
-  - [Byobu (software)](../Page/Byobu_\(software\).md "wikilink")
+  - [Byobu
+    (software)](https://zh.wikipedia.org/wiki/Byobu_\(software\) "wikilink")
   - [GNU Screen](../Page/GNU_Screen.md "wikilink")
 
 ## 参考

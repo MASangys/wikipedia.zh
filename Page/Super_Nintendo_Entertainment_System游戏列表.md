@@ -3,7 +3,7 @@
 [SNES-SFAM-Cartridges.jpg](https://zh.wikipedia.org/wiki/File:SNES-SFAM-Cartridges.jpg "fig:SNES-SFAM-Cartridges.jpg")
 
 [Super Nintendo Entertainment
-System](../Page/Super_Nintendo_Entertainment_System.md "wikilink")（超级任天堂西方版名称）的游戏存放在一个塑料卡带内。不同地区的卡带其塑料卡槽各不相同。一个地区锁芯片分别位于游戏机平台和卡带内部，这样的目的是防止不同地区的卡带在其不同的主机运行。\[1\]
+System](https://zh.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "wikilink")（超级任天堂西方版名称）的游戏存放在一个塑料卡带内。不同地区的卡带其塑料卡槽各不相同。一个地区锁芯片分别位于游戏机平台和卡带内部，这样的目的是防止不同地区的卡带在其不同的主机运行。\[1\]
 
 本表列出在西方Super Nintendo Entertainment
 System官方发行的784款游戏，其中251款北美独占，63款欧洲独占。仅在日本发行的游戏不在此列。默认依英文名列出。
@@ -81,7 +81,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>ActRaiser</em></p></td>
-<td><p><a href="../Page/雷莎出击.md" title="wikilink">雷莎出击</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷莎出击" title="wikilink">雷莎出击</a></p></td>
 <td><p>1991-11-01</p></td>
 <td><p>Quintet</p></td>
 <td><p>Enix</p></td>
@@ -203,7 +203,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Aerobiz</em></p></td>
-<td><p><a href="../Page/航空产业.md" title="wikilink">航空产业</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/航空产业" title="wikilink">航空产业</a></p></td>
 <td><p>1993-02-02</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -211,7 +211,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Aerobiz Supersonic</em></p></td>
-<td><p><a href="../Page/航空产业_超音速.md" title="wikilink">航空产业 超音速</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/航空产业_超音速" title="wikilink">航空产业 超音速</a></p></td>
 <td><p>1994-08-29</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -646,7 +646,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Breath of Fire</em></p></td>
-<td><p><a href="../Page/龙战士.md" title="wikilink">龙战士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龙战士" title="wikilink">龙战士</a></p></td>
 <td><p>1994-08-10</p></td>
 <td><p>Capcom</p></td>
 <td><p>Square</p></td>
@@ -1058,7 +1058,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Darius Twin</em></p></td>
-<td><p><a href="../Page/大流士战机Twin.md" title="wikilink">大流士战机Twin</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大流士战机Twin" title="wikilink">大流士战机Twin</a></p></td>
 <td><p>1991-11-30</p></td>
 <td><p>Taito</p></td>
 <td><p>Taito</p></td>
@@ -1315,7 +1315,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Drakkhen</em></p></td>
-<td><p><a href="../Page/屠龙传记.md" title="wikilink">屠龙传记</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/屠龙传记" title="wikilink">屠龙传记</a></p></td>
 <td><p>1991-09-01</p></td>
 <td><p>Infogrames</p></td>
 <td><p>Kemco</p></td>
@@ -1355,7 +1355,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Earth Defense Force</em></p></td>
-<td><p><a href="../Page/E.D.F..md" title="wikilink">E.D.F.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/E.D.F." title="wikilink">E.D.F.</a></p></td>
 <td><p>1992-01-01</p></td>
 <td><p>Jaleco</p></td>
 <td><p>Jaleco</p></td>
@@ -1565,7 +1565,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>FIFA International Soccer</em></p></td>
-<td><p><a href="../Page/FIFA国际足球.md" title="wikilink">FIFA国际足球</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FIFA国际足球" title="wikilink">FIFA国际足球</a></p></td>
 <td><p>1994-05-01</p></td>
 <td><p>Extended Play Productions</p></td>
 <td><p>EA Sports</p></td>
@@ -1573,7 +1573,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>FIFA Soccer 96</em></p></td>
-<td><p><a href="../Page/FIFA足球96.md" title="wikilink">FIFA足球96</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FIFA足球96" title="wikilink">FIFA足球96</a></p></td>
 <td><p>1995-07-01</p></td>
 <td><p>Extended Play Productions / Probe Entertainment</p></td>
 <td><p>EA Sports</p></td>
@@ -1581,7 +1581,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>FIFA 97: Gold Edition</em></p></td>
-<td><p><a href="../Page/FIFA_97.md" title="wikilink">FIFA 97</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FIFA_97" title="wikilink">FIFA 97</a></p></td>
 <td><p>1996-09-06</p></td>
 <td><p>Electronic Arts</p></td>
 <td><p>EA Sports</p></td>
@@ -1784,7 +1784,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Genghis Khan II: Clan of the Gray Wolf</em></p></td>
-<td><p><a href="../Page/苍狼与白鹿_元朝秘史.md" title="wikilink">苍狼与白鹿 元朝秘史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/苍狼与白鹿_元朝秘史" title="wikilink">苍狼与白鹿 元朝秘史</a></p></td>
 <td><p>1993-12-01</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -2042,7 +2042,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Hyper Zone</em></p></td>
-<td><p><a href="../Page/超次元地带.md" title="wikilink">超次元地带</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超次元地带" title="wikilink">超次元地带</a></p></td>
 <td><p>1991-09-01</p></td>
 <td><p>HAL Laboratory</p></td>
 <td><p>HAL Laboratory</p></td>
@@ -2059,7 +2059,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 <tr class="odd">
 <td><p><em>Illusion of Gaia</em><br />
 •Illusion of Time<sup>EU</sup></p></td>
-<td><p><a href="../Page/盖亚幻想记.md" title="wikilink">盖亚幻想记</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盖亚幻想记" title="wikilink">盖亚幻想记</a></p></td>
 <td><p>1994-09-01</p></td>
 <td><p>Quintet</p></td>
 <td><p>Nintendo</p></td>
@@ -2285,7 +2285,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 <tr class="odd">
 <td><p><em>Joe &amp; Mac</em><br />
 •Joe &amp; Mac: Caveman Ninja<sup>EU</sup></p></td>
-<td><p><a href="../Page/战斗原始人.md" title="wikilink">战斗原始人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/战斗原始人" title="wikilink">战斗原始人</a></p></td>
 <td><p>1992-01-07</p></td>
 <td><p>Data East</p></td>
 <td><p>Data East</p></td>
@@ -2691,7 +2691,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><span style="display: none">LoV2</span><em>The Lost Vikings 2</em></p></td>
-<td><p><a href="../Page/失落的维京人2.md" title="wikilink">失落的维京人2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/失落的维京人2" title="wikilink">失落的维京人2</a></p></td>
 <td><p>1997-05-04</p></td>
 <td><p>Blizzard Entertainment</p></td>
 <td><p>Interplay Entertainment</p></td>
@@ -2780,7 +2780,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Magic Sword</em></p></td>
-<td><p><a href="../Page/魔剑_(1990年游戏).md" title="wikilink">魔剑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔剑_(1990年游戏)" title="wikilink">魔剑</a></p></td>
 <td><p>1992-08-14</p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -2942,7 +2942,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Mega Man 7</em></p></td>
-<td><p><a href="../Page/洛克人7_宿命的對決！.md" title="wikilink">洛克人7 宿命的對決！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛克人7_宿命的對決！" title="wikilink">洛克人7 宿命的對決！</a></p></td>
 <td><p>1995-09-30</p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -2974,7 +2974,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Mega Man X3</em></p></td>
-<td><p><a href="../Page/洛克人X3.md" title="wikilink">洛克人X3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛克人X3" title="wikilink">洛克人X3</a></p></td>
 <td><p>1996-01-04</p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -3134,7 +3134,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Mortal Kombat</em></p></td>
-<td><p><a href="../Page/真人快打_(1992年游戏).md" title="wikilink">真人快打</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真人快打_(1992年游戏)" title="wikilink">真人快打</a></p></td>
 <td><p>1993-09-13</p></td>
 <td><p>Sculptured Software</p></td>
 <td><p>Acclaim Entertainment</p></td>
@@ -3142,7 +3142,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Mortal Kombat II</em></p></td>
-<td><p><a href="../Page/真人快打II.md" title="wikilink">真人快打II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真人快打II" title="wikilink">真人快打II</a></p></td>
 <td><p>1994-09-09</p></td>
 <td><p>Sculptured Software</p></td>
 <td><p>Acclaim Entertainment</p></td>
@@ -3255,7 +3255,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>NBA Live 95</em></p></td>
-<td><p><a href="../Page/勁爆美國職籃95.md" title="wikilink">勁爆美國職籃95</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勁爆美國職籃95" title="wikilink">勁爆美國職籃95</a></p></td>
 <td><p>1994</p></td>
 <td><p>Electronic Arts</p></td>
 <td><p>EA Sports</p></td>
@@ -3450,7 +3450,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Nobunaga's Ambition</em></p></td>
-<td><p><a href="../Page/信长之野望·全国版.md" title="wikilink">信长之野望·全国版</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/信长之野望·全国版" title="wikilink">信长之野望·全国版</a></p></td>
 <td><p>1993</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -3811,7 +3811,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Populous II: Trials of the Olympian Gods</em></p></td>
-<td><p><a href="../Page/上帝也疯狂2：诸神的审判.md" title="wikilink">上帝也疯狂2：诸神的审判</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上帝也疯狂2：诸神的审判" title="wikilink">上帝也疯狂2：诸神的审判</a></p></td>
 <td><p>1993-01-22</p></td>
 <td><p>Bullfrog Productions</p></td>
 <td><p>Imagineer</p></td>
@@ -4184,7 +4184,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Romance of the Three Kingdoms II</em></p></td>
-<td><p><a href="../Page/三國志II.md" title="wikilink">三國志II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三國志II" title="wikilink">三國志II</a></p></td>
 <td><p>1992-05-01</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -4192,7 +4192,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Romance of the Three Kingdoms III: Dragon of Destiny</em></p></td>
-<td><p><a href="../Page/三國志III.md" title="wikilink">三國志III</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三國志III" title="wikilink">三國志III</a></p></td>
 <td><p>1993-12-01</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -4200,7 +4200,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Romance of the Three Kingdoms IV: Wall of Fire</em></p></td>
-<td><p><a href="../Page/三國志IV.md" title="wikilink">三國志IV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三國志IV" title="wikilink">三國志IV</a></p></td>
 <td><p>1995-07-01</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -4370,7 +4370,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>SimEarth</em></p></td>
-<td><p><a href="../Page/模拟地球.md" title="wikilink">模拟地球</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/模拟地球" title="wikilink">模拟地球</a></p></td>
 <td><p>1993</p></td>
 <td><p>Tomcat System</p></td>
 <td><p>FCI</p></td>
@@ -4704,7 +4704,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Street Fighter II: The World Warrior</em></p></td>
-<td><p><a href="../Page/街頭霸王II.md" title="wikilink">街頭霸王II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/街頭霸王II" title="wikilink">街頭霸王II</a></p></td>
 <td><p>1992-07-01</p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -5094,7 +5094,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Super Ninja Boy</em></p></td>
-<td><p><a href="../Page/超级中国人世界.md" title="wikilink">超级中国人世界</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超级中国人世界" title="wikilink">超级中国人世界</a></p></td>
 <td><p>1993</p></td>
 <td><p>Culture Brain</p></td>
 <td><p>Culture Brain</p></td>
@@ -5166,7 +5166,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Super R-Type</em></p></td>
-<td><p><a href="../Page/超级异形战机.md" title="wikilink">超级异形战机</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超级异形战机" title="wikilink">超级异形战机</a></p></td>
 <td><p>1991-09-01</p></td>
 <td><p>Irem</p></td>
 <td><p>Irem</p></td>
@@ -5207,7 +5207,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Super Soccer</em></p></td>
-<td><p><a href="../Page/超统构足球.md" title="wikilink">超统构足球</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超统构足球" title="wikilink">超统构足球</a></p></td>
 <td><p>1992</p></td>
 <td><p>Human Entertainment</p></td>
 <td><p>Nintendo</p></td>
@@ -5256,7 +5256,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Super Street Fighter II: The New Challengers</em></p></td>
-<td><p><a href="../Page/超级街头霸王II_新的挑战者.md" title="wikilink">超级街头霸王II 新的挑战者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超级街头霸王II_新的挑战者" title="wikilink">超级街头霸王II 新的挑战者</a></p></td>
 <td><p>1994</p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -5622,7 +5622,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Top Gear</em></p></td>
-<td><p><a href="../Page/超越巅峰_(游戏).md" title="wikilink">超越巅峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超越巅峰_(游戏)" title="wikilink">超越巅峰</a></p></td>
 <td><p>1992-04-16</p></td>
 <td><p>Gremlin Interactive</p></td>
 <td><p>Kemco</p></td>
@@ -6096,7 +6096,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Wizardry V: Heart of the Maelstrom</em></p></td>
-<td><p><a href="../Page/巫术V：漩涡之心.md" title="wikilink">巫术V：漩涡之心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巫术V：漩涡之心" title="wikilink">巫术V：漩涡之心</a></p></td>
 <td><p>1994</p></td>
 <td><p>ASCII Entertainment</p></td>
 <td><p>Capcom</p></td>

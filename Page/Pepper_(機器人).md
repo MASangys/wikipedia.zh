@@ -1,12 +1,12 @@
-**Pepper**，是一個會表達情緒的類人型[機器人](../Page/機器人.md "wikilink")。由[鴻海精密所製造](../Page/鴻海精密.md "wikilink")。它是在2014年6月5日一个发布会上被介绍，第二天开始在日本的软银手机卖场被展示\[1\]\[2\]。它计划于2015年2月将在软银移动商店以198,000日元（$1,931）的基本价格出售\[3\]。
+**Pepper**，是一個會表達情緒的類人型[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。由[鴻海精密所製造](../Page/鴻海精密.md "wikilink")。它是在2014年6月5日一个发布会上被介绍，第二天开始在日本的软银手机卖场被展示\[1\]\[2\]。它计划于2015年2月将在软银移动商店以198,000日元（$1,931）的基本价格出售\[3\]。
 
 ## 設計
 
-[150px商店內的Pepper](../Page/file:Pepper_humanoid_robot_-_Japan_-_August_2014_.jpg.md "wikilink")\]\]
+[150px商店內的Pepper](https://zh.wikipedia.org/wiki/file:Pepper_humanoid_robot_-_Japan_-_August_2014_.jpg "wikilink")\]\]
 
-機器人的頭上有四個[麥克風](../Page/麥克風.md "wikilink")、兩個[RGB的HD相機](../Page/RGB.md "wikilink")（在口中和前額）、一個[ASUS](../Page/ASUS.md "wikilink")
+機器人的頭上有四個[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、兩個[RGB的HD相機](https://zh.wikipedia.org/wiki/RGB "wikilink")（在口中和前額）、一個[ASUS](https://zh.wikipedia.org/wiki/ASUS "wikilink")
 Xtion
-[3D傳感器](../Page/3D.md "wikilink")（眼睛後面）。在身體軀幹上有一個[陀螺儀](../Page/陀螺儀.md "wikilink")，以及頭部跟手部上有一些觸摸傳感器。其可行動的底座則擁有兩個[聲納](../Page/聲納.md "wikilink")、六個[激光器](../Page/激光器.md "wikilink")、三個保險桿傳感器、與一個陀螺儀\[4\]。
+[3D傳感器](https://zh.wikipedia.org/wiki/3D "wikilink")（眼睛後面）。在身體軀幹上有一個[陀螺儀](../Page/陀螺儀.md "wikilink")，以及頭部跟手部上有一些觸摸傳感器。其可行動的底座則擁有兩個[聲納](../Page/聲納.md "wikilink")、六個[激光器](https://zh.wikipedia.org/wiki/激光器 "wikilink")、三個保險桿傳感器、與一個陀螺儀\[4\]。
 {{-}}
 
 ## 目的
@@ -20,30 +20,30 @@ Pepper的目的是
   - 2014年6月5日，家庭用的人型機器人發表\[6\]。
   - 2015年2月27日，初次生產的300臺機器人的販賣開始(針對開發者)。
   - 2015年3月19日，[瑞穗銀行計劃於](../Page/瑞穗銀行.md "wikilink")2015年7月起在全日本的分行導入Pepper機器人服務，讓分行用以活用接待客戶\[7\]。
-  - 2015年6月18日，[軟銀公司提供](../Page/軟銀.md "wikilink")「Pepper機器人派遣服務」，本日開始提供預約申請。派遣服務從當年度7月1日開始，但初期僅提供[东京23区](../Page/东京23区.md "wikilink")\[8\]。
+  - 2015年6月18日，[軟銀公司提供](https://zh.wikipedia.org/wiki/軟銀 "wikilink")「Pepper機器人派遣服務」，本日開始提供預約申請。派遣服務從當年度7月1日開始，但初期僅提供[东京23区](https://zh.wikipedia.org/wiki/东京23区 "wikilink")\[8\]。
   - 2015年7月29日，發表商務用的Pepper，針對公司法人推出月租五萬五千日圓的出租模式\[9\]
 
 ## 規格
 
-| 技术规格                             |
-| -------------------------------- |
-| 體積                               |
-| 重量                               |
-| 電池                               |
-| 持續工作時間                           |
-| 頭部感測器                            |
-| Chest感測器                         |
-| 手部感測器                            |
-| 腿部感測器                            |
-| 运动模块                             |
-| [CPU](../Page/CPU.md "wikilink") |
-| 通信方式                             |
-| 螢幕顯示                             |
-| 作業系統                             |
-| 程式語言                             |
-| 移動速度                             |
-| 移動可能段差                           |
-|                                  |
+| 技术规格                                                |
+| --------------------------------------------------- |
+| 體積                                                  |
+| 重量                                                  |
+| 電池                                                  |
+| 持續工作時間                                              |
+| 頭部感測器                                               |
+| Chest感測器                                            |
+| 手部感測器                                               |
+| 腿部感測器                                               |
+| 运动模块                                                |
+| [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink") |
+| 通信方式                                                |
+| 螢幕顯示                                                |
+| 作業系統                                                |
+| 程式語言                                                |
+| 移動速度                                                |
+| 移動可能段差                                              |
+|                                                     |
 
 <div style="clear:left">
 
@@ -59,7 +59,7 @@ Pepper的目的是
 
 <div class="NavHead" style="text-align: center;">
 
-[海外](../Page/海外.md "wikilink")
+[海外](https://zh.wikipedia.org/wiki/海外 "wikilink")
 
 </div>
 
@@ -69,10 +69,10 @@ Pepper的目的是
 
       - 分店，2015年10月20日)
 
-  - [法國國家鐵路](../Page/法國國家鐵路.md "wikilink")　
+  - [法國國家鐵路](https://zh.wikipedia.org/wiki/法國國家鐵路 "wikilink")　
 
-      - [埃爾德爾河畔諾爾車站](../Page/埃爾德爾河畔諾爾.md "wikilink")(2015年12月9日)
-      - [萊薩布勒多洛訥車站](../Page/萊薩布勒多洛訥.md "wikilink")(2015年12月9日)
+      - [埃爾德爾河畔諾爾車站](https://zh.wikipedia.org/wiki/埃爾德爾河畔諾爾 "wikilink")(2015年12月9日)
+      - [萊薩布勒多洛訥車站](https://zh.wikipedia.org/wiki/萊薩布勒多洛訥 "wikilink")(2015年12月9日)
       - [索米尔車站](../Page/索米尔.md "wikilink")(2015年12月9日)
 
   - [亞太電信](../Page/亞太電信.md "wikilink")\[11\]
@@ -84,11 +84,11 @@ Pepper的目的是
       - [三軍總醫院](../Page/三軍總醫院.md "wikilink")
       - 致理未來超市
 
-  - [歌詩達郵輪](../Page/歌詩達郵輪.md "wikilink")　
+  - [歌詩達郵輪](https://zh.wikipedia.org/wiki/歌詩達郵輪 "wikilink")　
 
       - 豪華客船号(2016年春)
 
-  - [愛達郵輪](../Page/愛達郵輪.md "wikilink")　
+  - [愛達郵輪](https://zh.wikipedia.org/wiki/愛達郵輪 "wikilink")　
 
       - 豪華客船号(2016年春)
 

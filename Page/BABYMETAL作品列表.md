@@ -21,7 +21,7 @@
 <tr class="odd">
 <td><p>－</p></td>
 <td></td>
-<td><p><strong><a href="../Page/心跳☆早晨.md" title="wikilink">心跳☆早晨</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/心跳☆早晨" title="wikilink">心跳☆早晨</a></strong><br />
 <small>（）</small></p></td>
 <td><p>－</p></td>
 <td><p>重音部版：DVD+毛巾<br />
@@ -33,7 +33,7 @@ JOBR-0001B</p></td>
 <tr class="even">
 <td><p>1</p></td>
 <td></td>
-<td><p><strong><a href="../Page/BABYMETAL_×_Kiba_of_Akiba.md" title="wikilink">BABYMETAL × Kiba of Akiba</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BABYMETAL_×_Kiba_of_Akiba" title="wikilink">BABYMETAL × Kiba of Akiba</a></strong><br />
 <small>（）</small>[2]</p></td>
 <td><p>46</p></td>
 <td><p>CD</p></td>
@@ -53,7 +53,7 @@ JOBR-0001B</p></td>
 <tr class="even">
 <td><p>1</p></td>
 <td></td>
-<td><p><strong><a href="../Page/欺凌、絕對、不行.md" title="wikilink">欺凌、絕對、不行</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/欺凌、絕對、不行" title="wikilink">欺凌、絕對、不行</a></strong><br />
 <small>（）</small></p></td>
 <td><p>6</p></td>
 <td><p>普通版：CD<br />
@@ -69,7 +69,7 @@ TFCC-89406</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td></td>
-<td><p><strong><a href="../Page/女狐.md" title="wikilink">女狐</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/女狐" title="wikilink">女狐</a></strong><br />
 <small>（）</small></p></td>
 <td><p>7</p></td>
 <td><p>普通版：CD<br />
@@ -85,7 +85,7 @@ TFCC-89447</p></td>
 <tr class="even">
 <td><p>3</p></td>
 <td></td>
-<td><p><strong><a href="../Page/Road_of_Resistance.md" title="wikilink">Road of Resistance</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Road_of_Resistance" title="wikilink">Road of Resistance</a></strong><br />
 <small>（）</small></p></td>
 <td><p>－</p></td>
 <td><p>數位音樂下載</p></td>
@@ -105,7 +105,7 @@ TFCC-89447</p></td>
 <tr class="even">
 <td><p>5</p></td>
 <td></td>
-<td><p><strong><a href="../Page/空手道_(歌曲).md" title="wikilink">空手道</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/空手道_(歌曲)" title="wikilink">空手道</a></strong><br />
 <small>（）</small></p></td>
 <td><p>－</p></td>
 <td><p>數位音樂下載</p></td>
@@ -137,12 +137,12 @@ TFCC-89447</p></td>
 <td><p>1</p></td>
 <td><p>日版</p></td>
 <td><p>2014年2月26日</p></td>
-<td><p><strong><a href="../Page/BABYMETAL_(專輯).md" title="wikilink">BABYMETAL</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BABYMETAL_(專輯)" title="wikilink">BABYMETAL</a></strong></p></td>
 <td><p>：4<br />
 ：187</p></td>
 <td><p>CD<br />
 CD+DVD<br />
-CD+<a href="../Page/小冊子.md" title="wikilink">小冊子</a></p></td>
+CD+<a href="https://zh.wikipedia.org/wiki/小冊子" title="wikilink">小冊子</a></p></td>
 <td><p>TFCC-86461<br />
 TFCC-86460<br />
 PPTF-8058</p></td>
@@ -216,7 +216,7 @@ EMU-0210400</p></td>
 <td><p>2</p></td>
 <td><p>日版</p></td>
 <td><p>2016年4月1日</p></td>
-<td><p><strong><a href="../Page/METAL_RESISTANCE.md" title="wikilink">METAL RESISTANCE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/METAL_RESISTANCE" title="wikilink">METAL RESISTANCE</a></strong></p></td>
 <td><p>：2</p></td>
 <td><p>CD<br />
 CD+DVD<br />
@@ -302,7 +302,7 @@ WEB會員限定版</p></td>
 <td><p>1</p></td>
 <td><p>日版</p></td>
 <td><p>2015年1月7日</p></td>
-<td><p><strong><a href="../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT〜.md" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT〜" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT〜</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>CD<br />
 CD+MUSIC CARD</p></td>
@@ -325,7 +325,7 @@ TFCC-86502</p></td>
 <td><p>-</p></td>
 <td><p>—</p></td>
 <td><p>2015年1月7日</p></td>
-<td><p><strong><a href="../Page/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜.md" title="wikilink">LIVE AT BUDOKAN 〜BLACK NIGHT〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜" title="wikilink">LIVE AT BUDOKAN 〜BLACK NIGHT〜</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>CD</p></td>
 <td><p>—</p></td>
@@ -335,7 +335,7 @@ TFCC-86502</p></td>
 <td><p>-</p></td>
 <td><p>—</p></td>
 <td><p>2015年10月21日</p></td>
-<td><p><strong><a href="../Page/BABYMETAL_LEGEND_&quot;2015&quot;_〜新春キツネ祭り〜.md" title="wikilink">BABYMETAL LEGEND "2015" 〜新春キツネ祭り〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BABYMETAL_LEGEND_&quot;2015&quot;_〜新春キツネ祭り〜" title="wikilink">BABYMETAL LEGEND "2015" 〜新春キツネ祭り〜</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>CD</p></td>
 <td><p>ONEC-0001</p></td>
@@ -345,7 +345,7 @@ TFCC-86502</p></td>
 <td><p>2</p></td>
 <td><p>日版</p></td>
 <td><p>2016年12月28日</p></td>
-<td><p><strong><a href="../Page/LIVE_AT_WEMBLEY.md" title="wikilink">LIVE AT WEMBLEY</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_WEMBLEY" title="wikilink">LIVE AT WEMBLEY</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>CD</p></td>
 <td><p>TFCC-86581</p></td>
@@ -403,7 +403,7 @@ TFCC-86502</p></td>
 <td><p>1</p></td>
 <td><p>—</p></td>
 <td><p>2013年10月19日</p></td>
-<td><p><strong><a href="../Page/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜.md" title="wikilink">LIVE 〜LEGEND I、D、Z APOCALYPSE〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜" title="wikilink">LIVE 〜LEGEND I、D、Z APOCALYPSE〜</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>DVD+披風</p></td>
 <td><p>PPTF-1012</p></td>
@@ -423,7 +423,7 @@ TFCC-86502</p></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
 <td><p>2014年10月29日</p></td>
-<td><p><strong><a href="../Page/LIVE〜LEGEND_1999&amp;1997_APOCALYPSE.md" title="wikilink">LIVE〜LEGEND 1999&amp;1997 APOCALYPSE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE〜LEGEND_1999&amp;1997_APOCALYPSE" title="wikilink">LIVE〜LEGEND 1999&amp;1997 APOCALYPSE</a></strong></p></td>
 <td><p>8</p></td>
 <td><p>DVD<br />
 DVD+T恤</p></td>
@@ -448,7 +448,7 @@ WEB會員限定版</p></td>
 <td><p>3</p></td>
 <td><p>日版</p></td>
 <td><p>2015年1月7日</p></td>
-<td><p><strong><a href="../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT_&amp;_BLACK_NIGHT_APOCALYPSE〜.md" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT &amp; BLACK NIGHT APOCALYPSE〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT_&amp;_BLACK_NIGHT_APOCALYPSE〜" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT &amp; BLACK NIGHT APOCALYPSE〜</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>DVD<br />
 DVD+CD+護頸+鑰匙圈</p></td>
@@ -485,7 +485,7 @@ EMU-0210722</p></td>
 <td><p>4</p></td>
 <td><p>日版</p></td>
 <td><p>2015年5月20日</p></td>
-<td><p><strong><a href="../Page/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014-.md" title="wikilink">LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014-" title="wikilink">LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>DVD</p></td>
 <td><p>TFBQ-18167</p></td>
@@ -520,7 +520,7 @@ EMU-0210725</p></td>
 <td><p>-</p></td>
 <td><p>—</p></td>
 <td><p>2015年8月14日</p></td>
-<td><p><strong><a href="../Page/BABYMETAL_LEGEND_&quot;2015&quot;_〜新春キツネ祭り〜.md" title="wikilink">BABYMETAL LEGEND "2015" 〜新春キツネ祭り〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BABYMETAL_LEGEND_&quot;2015&quot;_〜新春キツネ祭り〜" title="wikilink">BABYMETAL LEGEND "2015" 〜新春キツネ祭り〜</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>藍光光碟</p></td>
 <td><p>ONEB-0003</p></td>
@@ -530,7 +530,7 @@ EMU-0210725</p></td>
 <td><p>-</p></td>
 <td><p>—</p></td>
 <td><p>2016年9月1日</p></td>
-<td><p><strong><a href="../Page/TRILOGY_-_METAL_RESISTANCE_EPISODE_III_-_APOCALYPSE.md" title="wikilink">TRILOGY - METAL RESISTANCE EPISODE III - APOCALYPSE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TRILOGY_-_METAL_RESISTANCE_EPISODE_III_-_APOCALYPSE" title="wikilink">TRILOGY - METAL RESISTANCE EPISODE III - APOCALYPSE</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>藍光光碟+寫真書</p></td>
 <td><p>ONEB-0004~6</p></td>
@@ -540,7 +540,7 @@ EMU-0210725</p></td>
 <td><p>5</p></td>
 <td><p>日版</p></td>
 <td><p>2016年11月23日</p></td>
-<td><p><strong><a href="../Page/LIVE_AT_WEMBLEY.md" title="wikilink">LIVE AT WEMBLEY</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_WEMBLEY" title="wikilink">LIVE AT WEMBLEY</a></strong></p></td>
 <td><p>2</p></td>
 <td><p>DVD<br />
 藍光光碟</p></td>
@@ -561,7 +561,7 @@ EMU-0210725</p></td>
 <td><p>6</p></td>
 <td><p>日版</p></td>
 <td><p>2017年4月12日</p></td>
-<td><p><strong><a href="../Page/LIVE_AT_TOKYO_DOME.md" title="wikilink">LIVE AT TOKYO DOME</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_TOKYO_DOME" title="wikilink">LIVE AT TOKYO DOME</a></strong></p></td>
 <td><p>1</p></td>
 <td><p>DVD<br />
 藍光光碟</p></td>
@@ -610,7 +610,7 @@ EMU-0210725</p></td>
 <small>*<br />
 *</small></p></td>
 <td><p>Kiba of Akiba</p></td>
-<td><p><a href="../Page/BABYMETAL_×_Kiba_of_Akiba.md" title="wikilink">BABYMETAL × Kiba of Akiba</a><small>(<em>單曲</em>)</small>[3]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BABYMETAL_×_Kiba_of_Akiba" title="wikilink">BABYMETAL × Kiba of Akiba</a><small>(<em>單曲</em>)</small>[3]</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
@@ -655,7 +655,7 @@ EMU-0210725</p></td>
 <tr class="even">
 <td><p><strong><a href="../Page/LOVE_MACHINE.md" title="wikilink">LOVE MACHINE</a></strong><br />
 <small>*</small></p></td>
-<td><p><a href="../Page/早安少女組.md" title="wikilink">早安少女組</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/早安少女組" title="wikilink">早安少女組</a></p></td>
 <td><ul>
 <li><p>獨唱</p></li>
 </ul></td>
@@ -663,7 +663,7 @@ EMU-0210725</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/魂之輪迴.md" title="wikilink">魂之輪迴</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/魂之輪迴" title="wikilink">魂之輪迴</a></strong><br />
 <small>*<br />
 *</small></p></td>
 <td></td>
@@ -700,14 +700,14 @@ EMU-0210725</p></td>
 <td><p>2010年11月28日</p></td>
 <td><p><strong>櫻花學院祭☆2010</strong>[5]</p></td>
 <td><p><a href="../Page/橫濱紅磚倉庫.md" title="wikilink">橫濱紅磚倉庫</a> 1館3樓大廳<br />
-（<a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="../Page/横濱市.md" title="wikilink">横濱市</a>）</p></td>
+（<a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="https://zh.wikipedia.org/wiki/横濱市" title="wikilink">横濱市</a>）</p></td>
 <td><p>※首次亮相<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p>2011年7月24日</p></td>
 <td><p><strong>櫻花學院 2011年度 NEW 〜Departure〜</strong></p></td>
-<td><p><a href="../Page/Shibuya_O-EAST.md" title="wikilink">DUO MUSIC EXCHANGE</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">DUO MUSIC EXCHANGE</a><br />
 （<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/澀谷區.md" title="wikilink">澀谷區</a>）</p></td>
 <td></td>
 </tr>
@@ -715,7 +715,7 @@ EMU-0210725</p></td>
 <td><p>2011年8月28日</p></td>
 <td><p><strong> 2011 Eco&amp;Smile</strong></p></td>
 <td><p><a href="../Page/御台場.md" title="wikilink">御台場</a>・<a href="../Page/青海_(江東區).md" title="wikilink">青海 (江東區)特設會場</a><br />
-（東京都<a href="../Page/江東區.md" title="wikilink">江東區</a>）</p></td>
+（東京都<a href="https://zh.wikipedia.org/wiki/江東區" title="wikilink">江東區</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -743,7 +743,7 @@ EMU-0210725</p></td>
 <td><p>2012年3月25日</p></td>
 <td><p><strong>櫻花學院 2011年度 畢業式 〜啟程〜</strong>[9]</p></td>
 <td><p><br />
-（東京都<a href="../Page/中央區.md" title="wikilink">中央區</a>）</p></td>
+（東京都<a href="https://zh.wikipedia.org/wiki/中央區" title="wikilink">中央區</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -779,7 +779,7 @@ EMU-0210725</p></td>
 <td><p>''' Headbangya Journey</p></td>
 <td><p>in大阪'''[11]</p></td>
 <td><p>難波ROCKETS<br />
-（<a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年7月8日</p></td>
@@ -800,7 +800,7 @@ EMU-0210725</p></td>
 <td><p>2012年7月21日</p></td>
 <td><p><strong>LEGEND〜護頸祭</strong>[14]</p></td>
 <td><p><br />
-（東京都<a href="../Page/目黒區.md" title="wikilink">目黒區</a>）</p></td>
+（東京都<a href="https://zh.wikipedia.org/wiki/目黒區" title="wikilink">目黒區</a>）</p></td>
 <td><p>※單曲「HeadBanger</p></td>
 </tr>
 <tr class="odd">
@@ -847,7 +847,7 @@ EMU-0210725</p></td>
 <tr class="even">
 <td><p>2012年10月6日</p></td>
 <td><p><strong>I、D、Z〜LEGEND“I”</strong></p></td>
-<td><p><a href="../Page/Shibuya_O-EAST.md" title="wikilink">Shibuya O-EAST</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">Shibuya O-EAST</a><br />
 （東京都澀谷區）</p></td>
 <td><p>※專場公演<br />
 ※同一内容早晚2次公演<br />
@@ -898,7 +898,7 @@ EMU-0210725</p></td>
 <td><p>2012年12月20日</p></td>
 <td><p><strong>I、D、Z〜LEGEND“D”暨SU-METAL聖誕祭</strong>[17]</p></td>
 <td><p><a href="../Page/赤坂BLITZ.md" title="wikilink">赤坂BLITZ</a><br />
-（東京都<a href="../Page/港區.md" title="wikilink">港區</a>）</p></td>
+（東京都<a href="https://zh.wikipedia.org/wiki/港區" title="wikilink">港區</a>）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目|</p>
 <ol>
@@ -959,7 +959,7 @@ EMU-0210725</p></td>
 <tr class="odd">
 <td><p>2013年3月31日</p></td>
 <td><p><strong>The Road to Graduation Final 〜櫻花學院 2012年度 畢業式〜</strong>[20]</p></td>
-<td><p><a href="../Page/東京國際論壇大樓.md" title="wikilink">東京國際論壇大樓</a> C館<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/東京國際論壇大樓" title="wikilink">東京國際論壇大樓</a> C館<br />
 （東京都千代田區）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <p>#"HeadBanger</p></td>
@@ -1025,7 +1025,7 @@ EMU-0210725</p></td>
 <tr class="even">
 <td><p>2013年6月30日</p></td>
 <td><p><strong>LEGEND“1999” YUIMETAL &amp; MOAMETAL聖誕祭</strong>[23]</p></td>
-<td><p><a href="../Page/NHK大廳.md" title="wikilink">NHK大廳</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK大廳" title="wikilink">NHK大廳</a><br />
 （東京都澀谷區）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目|</p>
@@ -1036,7 +1036,7 @@ EMU-0210725</p></td>
 <li>"歡樂☆午夜"</li>
 <li>"Chokotto LOVE -BIG TIMES CHANGES ver.-" 翻唱自<a href="../Page/小早安.md" title="wikilink">小早安</a><br />
 (YUIMETAL solo)</li>
-<li>"LOVE Machine -FROM HELL WITH LOVE ver.-" 翻唱自<a href="../Page/早安少女組.md" title="wikilink">早安少女組</a><br />
+<li>"LOVE Machine -FROM HELL WITH LOVE ver.-" 翻唱自<a href="https://zh.wikipedia.org/wiki/早安少女組" title="wikilink">早安少女組</a><br />
 (MOAMETAL solo)</li>
 <li>"撒嬌大作戰"</li>
 <li>"NO RAIN, NO RAINBOW"</li>
@@ -1056,7 +1056,7 @@ EMU-0210725</p></td>
 <tr class="odd">
 <td><p>2013年7月7日</p></td>
 <td><p><strong>Rock Beats Cancer FES Vol.2 supported by チューリッヒ生命</strong></p></td>
-<td><p><a href="../Page/日比谷野外音樂堂.md" title="wikilink">日比谷野外音樂堂</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/日比谷野外音樂堂" title="wikilink">日比谷野外音樂堂</a><br />
 （東京都千代田區）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <p>#"HeadBanger</p></td>
@@ -1107,7 +1107,7 @@ EMU-0210725</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年8月4日</p></td>
-<td><p><strong><a href="../Page/ROCK_IN_JAPAN_FESTIVAL.md" title="wikilink">ROCK IN JAPAN FESTIVAL</a> 2013</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL" title="wikilink">ROCK IN JAPAN FESTIVAL</a> 2013</strong></p></td>
 <td><p><br />
 （<a href="../Page/茨城縣.md" title="wikilink">茨城縣</a><a href="../Page/常陸那珂市.md" title="wikilink">常陸那珂市</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
@@ -1145,7 +1145,7 @@ EMU-0210725</p></td>
 <td><p>2013年9月7日</p></td>
 <td><p><strong>印尼  2013</strong></p></td>
 <td><p><br />
-（ <a href="../Page/印度尼西亞.md" title="wikilink">印度尼西亞</a>・<a href="../Page/雅加達.md" title="wikilink">雅加達</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/印度尼西亞" title="wikilink">印度尼西亞</a>・<a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"女狐"</li>
@@ -1159,7 +1159,7 @@ EMU-0210725</p></td>
 <td><p>2013年9月22日</p></td>
 <td><p><strong> 2013</strong></p></td>
 <td><p>芝生廣場<br />
-（<a href="../Page/滋賀縣.md" title="wikilink">滋賀縣</a><a href="../Page/草津市.md" title="wikilink">草津市</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/滋賀縣" title="wikilink">滋賀縣</a><a href="../Page/草津市.md" title="wikilink">草津市</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"女狐"</li>
@@ -1209,7 +1209,7 @@ EMU-0210725</p></td>
 <tr class="odd">
 <td><p>2013年11月9日</p></td>
 <td><p><strong>新加坡亞洲動漫節 2013</strong></p></td>
-<td><p><a href="../Page/新達城新加坡國際會議展覽中心.md" title="wikilink">新達城新加坡國際會議展覽中心</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/新達城新加坡國際會議展覽中心" title="wikilink">新達城新加坡國際會議展覽中心</a><br />
 （ 新加坡）</p></td>
 <td></td>
 </tr>
@@ -1288,9 +1288,9 @@ EMU-0210725</p></td>
 <tr class="odd">
 <td><p>2014年2月2日</p></td>
 <td><p><strong>完全櫻樂團 第壹團 重音偶像大對決<br />
-BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a> 協助:完全娛樂</strong></p></td>
+BABYMETAL×<a href="https://zh.wikipedia.org/wiki/閃靈樂團" title="wikilink">ChthoniC 閃靈</a> 協助:完全娛樂</strong></p></td>
 <td><p><a href="../Page/ATT_4_FUN.md" title="wikilink">ATT 4 FUN</a>（ATT Show Box）<br />
-（ <a href="../Page/台灣.md" title="wikilink">台灣</a>・<a href="../Page/台北市.md" title="wikilink">台北市</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a>・<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a>）</p></td>
 <td><p>※共演<br />
 ※首次來台演出<br />
 {{hidden|演出曲目|</p>
@@ -1359,7 +1359,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2014年7月1日</p></td>
 <td><p><strong>BABYMETAL WORLD TOUR 2014</strong></p></td>
 <td><p><br />
-（ <a href="../Page/法國.md" title="wikilink">法國</a>・<a href="../Page/巴黎.md" title="wikilink">巴黎</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/法國" title="wikilink">法國</a>・<a href="../Page/巴黎.md" title="wikilink">巴黎</a>）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目|</p>
 <ol>
@@ -1379,7 +1379,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <tr class="odd">
 <td><p>2014年7月3日</p></td>
 <td><p><br />
-（ <a href="../Page/德國.md" title="wikilink">德國</a>・<a href="../Page/科隆.md" title="wikilink">科隆</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國</a>・<a href="../Page/科隆.md" title="wikilink">科隆</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1388,7 +1388,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p><strong> UK</strong><br />
 <small>（BABYMETAL WORLD TOUR 2014）</small></p></td>
 <td><p>奈柏華茲公園<br />
-（ <a href="../Page/英國.md" title="wikilink">英國</a>・）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國</a>・）</p></td>
 <td><p>※首次受邀參加海外音樂節<br />
 {{hidden|演出曲目|</p>
 <ol>
@@ -1399,8 +1399,8 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <tr class="odd">
 <td><p>2014年7月7日</p></td>
 <td><p><strong>BABYMETAL WORLD TOUR 2014</strong></p></td>
-<td><p><a href="../Page/The_Forum音樂廳.md" title="wikilink">The Forum音樂廳</a><br />
-（ 英國・<a href="../Page/倫敦.md" title="wikilink">倫敦</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Forum音樂廳" title="wikilink">The Forum音樂廳</a><br />
+（ 英國・<a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a>）</p></td>
 <td><p>※專場公演<br />
 ※原定於演出，因門票供不應求改至較大場地<br />
 ※Zepp Tokyo及日本全國13間電影院直播<br />
@@ -1452,7 +1452,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2014年7月27日</p></td>
 <td><p><strong>BABYMETAL WORLD TOUR 2014</strong></p></td>
 <td><p><br />
-（ <a href="../Page/美國.md" title="wikilink">美國</a>・<a href="../Page/洛杉磯.md" title="wikilink">洛杉磯</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a>・<a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a>）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目|</p>
 <ol>
@@ -1471,9 +1471,9 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 </tr>
 <tr class="odd">
 <td><p>2014年7月30日</p></td>
-<td><p><strong><a href="../Page/女神卡卡.md" title="wikilink">女神卡卡</a>「<a href="../Page/流行藝術巡迴演唱會.md" title="wikilink">ArtRave: The Artpop Ball</a>」</strong></p></td>
-<td><p><a href="../Page/托金斯迪克度假酒店球館.md" title="wikilink">托金斯迪克度假酒店球館</a><br />
-（ 美國・<a href="../Page/鳳凰城.md" title="wikilink">鳳凰城</a>）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/女神卡卡" title="wikilink">女神卡卡</a>「<a href="https://zh.wikipedia.org/wiki/流行藝術巡迴演唱會" title="wikilink">ArtRave: The Artpop Ball</a>」</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/托金斯迪克度假酒店球館" title="wikilink">托金斯迪克度假酒店球館</a><br />
+（ 美國・<a href="https://zh.wikipedia.org/wiki/鳳凰城" title="wikilink">鳳凰城</a>）</p></td>
 <td><p>※巡演固定開場嘉賓<br />
 {{hidden|演出曲目|</p>
 <ol>
@@ -1485,21 +1485,21 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <tr class="even">
 <td><p>2014年8月1日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/拉斯維加斯.md" title="wikilink">拉斯維加斯</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/拉斯維加斯" title="wikilink">拉斯維加斯</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年8月2日</p></td>
 <td><p><br />
-（ 美國・stateline<a href="../Page/內華達州.md" title="wikilink">內華達州</a>）</p></td>
+（ 美國・stateline<a href="https://zh.wikipedia.org/wiki/內華達州" title="wikilink">內華達州</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年8月4日</p></td>
-<td><p><a href="../Page/能源方案球館.md" title="wikilink">能源方案球館</a><br />
-（ 美國・<a href="../Page/鹽湖城.md" title="wikilink">鹽湖城</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/能源方案球館" title="wikilink">能源方案球館</a><br />
+（ 美國・<a href="https://zh.wikipedia.org/wiki/鹽湖城" title="wikilink">鹽湖城</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1515,7 +1515,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p><strong></strong><br />
 <small>（BABYMETAL WORLD TOUR 2014）</small></p></td>
 <td><p><br />
-（ <a href="../Page/加拿大.md" title="wikilink">加拿大</a>・<a href="../Page/蒙特利爾.md" title="wikilink">蒙特利爾</a>）</p></td>
+（ <a href="../Page/加拿大.md" title="wikilink">加拿大</a>・<a href="https://zh.wikipedia.org/wiki/蒙特利爾" title="wikilink">蒙特利爾</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"Babymetal Death"</li>
@@ -1575,7 +1575,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2014年11月4日</p></td>
 <td><p><strong>BABYMETAL BACK TO THE USA/UK TOUR 2014</strong></p></td>
 <td><p><br />
-（ 美國・<a href="../Page/紐約.md" title="wikilink">紐約</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a>）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目| 紐約場：</p>
 <ol>
@@ -1692,7 +1692,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <tr class="even">
 <td><p>2015年5月12日</p></td>
 <td><p><br />
-（ 加拿大・<a href="../Page/多倫多.md" title="wikilink">多倫多</a>）</p></td>
+（ 加拿大・<a href="https://zh.wikipedia.org/wiki/多倫多" title="wikilink">多倫多</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1707,8 +1707,8 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2015年5月16日</p></td>
 <td><p><strong> 2015</strong><br />
 <small>（BABYMETAL WORLD TOUR 2015）</small></p></td>
-<td><p><a href="../Page/Mafure體育場.md" title="wikilink">Mafure體育場</a><br />
-（ 美國・<a href="../Page/哥倫布.md" title="wikilink">哥倫布</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mafure體育場" title="wikilink">Mafure體育場</a><br />
+（ 美國・<a href="https://zh.wikipedia.org/wiki/哥倫布" title="wikilink">哥倫布</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"神樂隊獨奏"</li>
@@ -1735,7 +1735,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2015年5月29日</p></td>
 <td><p><strong></strong><br />
 <small>（BABYMETAL WORLD TOUR 2015）</small></p></td>
-<td><p><a href="../Page/慕尼黑奧林匹克公園.md" title="wikilink">慕尼黑奧林匹克公園</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/慕尼黑奧林匹克公園" title="wikilink">慕尼黑奧林匹克公園</a><br />
 （ 德國・<a href="../Page/慕尼黑.md" title="wikilink">慕尼黑</a>）</p></td>
 <td><p>{{hidden|演出曲目| 慕尼黑場：</p>
 <ol>
@@ -1747,15 +1747,15 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2015年5月30日</p></td>
 <td><p><strong></strong><br />
 <small>（BABYMETAL WORLD TOUR 2015）</small></p></td>
-<td><p><a href="../Page/費爾廷斯競技場.md" title="wikilink">費爾廷斯競技場</a><br />
-（ 德國・<a href="../Page/蓋爾森基興.md" title="wikilink">蓋爾森基興</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/費爾廷斯競技場" title="wikilink">費爾廷斯競技場</a><br />
+（ 德國・<a href="https://zh.wikipedia.org/wiki/蓋爾森基興" title="wikilink">蓋爾森基興</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年6月1日</p></td>
 <td><p><strong>BABYMETAL WORLD TOUR 2015</strong></p></td>
 <td><p><br />
-（ 法國・<a href="../Page/史特拉斯堡.md" title="wikilink">史特拉斯堡</a>）</p></td>
+（ 法國・<a href="https://zh.wikipedia.org/wiki/史特拉斯堡" title="wikilink">史特拉斯堡</a>）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目| 史特拉斯堡與蘇黎世場：</p>
 <ol>
@@ -1777,14 +1777,14 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <tr class="odd">
 <td><p>2015年6月3日</p></td>
 <td><p><br />
-（ <a href="../Page/瑞士.md" title="wikilink">瑞士</a>・<a href="../Page/蘇黎世.md" title="wikilink">蘇黎世</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士</a>・<a href="https://zh.wikipedia.org/wiki/蘇黎世" title="wikilink">蘇黎世</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年6月5日</p></td>
 <td><p>Estragon Club<br />
-（ <a href="../Page/義大利.md" title="wikilink">義大利</a>・<a href="../Page/波隆那.md" title="wikilink">波隆那</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/義大利" title="wikilink">義大利</a>・<a href="https://zh.wikipedia.org/wiki/波隆那" title="wikilink">波隆那</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1793,7 +1793,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p><strong></strong><br />
 <small>（BABYMETAL WORLD TOUR 2015）</small></p></td>
 <td><p>Donauinsel Wien<br />
-（ <a href="../Page/奧地利.md" title="wikilink">奧地利</a>・<a href="../Page/維也納.md" title="wikilink">維也納</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/奧地利" title="wikilink">奧地利</a>・<a href="../Page/維也納.md" title="wikilink">維也納</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"Babymetal Death"</li>
@@ -1809,8 +1809,8 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2015年6月12日</p></td>
 <td><p><strong>Download Festival 2015</strong></p></td>
 <td><p><br />
-（ 英國・<a href="../Page/萊斯特郡.md" title="wikilink">萊斯特郡</a>）</p></td>
-<td><p>※<a href="../Page/DragonForce.md" title="wikilink">DragonForce的神秘嘉賓</a><br />
+（ 英國・<a href="https://zh.wikipedia.org/wiki/萊斯特郡" title="wikilink">萊斯特郡</a>）</p></td>
+<td><p>※<a href="https://zh.wikipedia.org/wiki/DragonForce" title="wikilink">DragonForce的神秘嘉賓</a><br />
 {{hidden|演出曲目|</p>
 <p>#"給我巧克力</p></td>
 </tr>
@@ -1819,7 +1819,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p><strong> GOLDEN GODS 2015 AWARD CEREMONY</strong></p></td>
 <td><p><a href="../Page/O2體育館.md" title="wikilink">O2體育館</a><br />
 （ 英國・倫敦）</p></td>
-<td><p>※在頒獎儀式上與<a href="../Page/DragonForce.md" title="wikilink">DragonForce共演</a><br />
+<td><p>※在頒獎儀式上與<a href="https://zh.wikipedia.org/wiki/DragonForce" title="wikilink">DragonForce共演</a><br />
 {{hidden|演出曲目|</p>
 <ol>
 <li>"Road of Resistance"</li>
@@ -1918,7 +1918,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2015年8月26日</p></td>
 <td><p><strong>BABYMETAL WORLD TOUR 2015</strong></p></td>
 <td><p><br />
-（ 德國・<a href="../Page/法蘭克福.md" title="wikilink">法蘭克福</a>）</p></td>
+（ 德國・<a href="https://zh.wikipedia.org/wiki/法蘭克福" title="wikilink">法蘭克福</a>）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目|</p>
 <ol>
@@ -1961,7 +1961,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <tr class="even">
 <td><p>2015年8月30日</p></td>
 <td><p><br />
-（ 英國・<a href="../Page/里茲.md" title="wikilink">里茲</a>）</p></td>
+（ 英國・<a href="https://zh.wikipedia.org/wiki/里茲" title="wikilink">里茲</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1996,7 +1996,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p><strong> 2015</strong></p></td>
 <td><p>御台場ULTRA JAPAN特設會場<br />
 （東京都江東區）</p></td>
-<td><p>※<a href="../Page/Skrillex.md" title="wikilink">Skrillex的神秘嘉賓</a><br />
+<td><p>※<a href="https://zh.wikipedia.org/wiki/Skrillex" title="wikilink">Skrillex的神秘嘉賓</a><br />
 {{hidden|演出曲目|</p>
 <p>#"給我巧克力</p></td>
 </tr>
@@ -2024,7 +2024,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <tr class="odd">
 <td><p>2015年10月2日</p></td>
 <td><p>Zepp Fukuoka<br />
-（<a href="../Page/福岡縣.md" title="wikilink">福岡縣</a><a href="../Page/福岡市.md" title="wikilink">福岡市</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a><a href="../Page/福岡市.md" title="wikilink">福岡市</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2100,7 +2100,7 @@ BABYMETAL×<a href="../Page/閃靈樂團.md" title="wikilink">ChthoniC 閃靈</a
 <td><p>2016年2月18日</p></td>
 <td><p><strong>BABYMETAL革命 〜少女たちは世界と戦う〜<br />
 NHK綜合頻道特別節目</strong></p></td>
-<td><p><a href="../Page/NHK.md" title="wikilink">NHK</a>102 Studio<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK" title="wikilink">NHK</a>102 Studio<br />
 （東京都澀谷區）</p></td>
 <td><p>※為節目預先演唱錄影<br />
 {{hidden|演出曲目|</p>
@@ -2115,7 +2115,7 @@ NHK綜合頻道特別節目</strong></p></td>
 kicks off at THE SSE ARENA WEMBLEY</p></td>
 <td><p>'''</p></td>
 <td><p><a href="../Page/溫布利體育館.md" title="wikilink">溫布利體育館</a><br />
-（ 英國・<a href="../Page/溫布利.md" title="wikilink">溫布利</a>）</p></td>
+（ 英國・<a href="https://zh.wikipedia.org/wiki/溫布利" title="wikilink">溫布利</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年4月20日</p></td>
@@ -2161,7 +2161,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <tr class="odd">
 <td><p>2016年5月5日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/波士頓.md" title="wikilink">波士頓</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/波士頓" title="wikilink">波士頓</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2177,7 +2177,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <td><p><strong> 2016</strong><br />
 <small>（BABYMETAL WORLD TOUR 2016 / US TOUR）</small></p></td>
 <td><p><br />
-（ 美國・<a href="../Page/康科德.md" title="wikilink">康科德</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/康科德" title="wikilink">康科德</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"Babymetal Death"</li>
@@ -2188,7 +2188,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <td><p>2016年5月10日</p></td>
 <td><p><strong>BABYMETAL WORLD TOUR 2016 / US TOUR</strong></p></td>
 <td><p>The Fillmore Silver Spring<br />
-（ 美國・<a href="../Page/銀泉.md" title="wikilink">銀泉</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/銀泉" title="wikilink">銀泉</a>）</p></td>
 <td><p>※專場公演<br />
 {{hidden|演出曲目|</p>
 <ol>
@@ -2210,7 +2210,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <tr class="odd">
 <td><p>2016年5月11日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/底特律.md" title="wikilink">底特律</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/底特律" title="wikilink">底特律</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2279,7 +2279,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <td><p><strong> 2016</strong><br />
 <small>（BABYMETAL WORLD TOUR 2016 / EUROPE TOUR）</small></p></td>
 <td><p>, , <br />
-（ <a href="../Page/荷蘭.md" title="wikilink">荷蘭</a>・<a href="../Page/奈美根.md" title="wikilink">奈美根</a>）</p></td>
+（ <a href="https://zh.wikipedia.org/wiki/荷蘭" title="wikilink">荷蘭</a>・<a href="https://zh.wikipedia.org/wiki/奈美根" title="wikilink">奈美根</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"Babymetal Death"</li>
@@ -2301,7 +2301,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <tr class="even">
 <td><p>2016年6月8日</p></td>
 <td><p>Longhorn<br />
-（ 德國・<a href="../Page/斯圖加特.md" title="wikilink">斯圖加特</a>）</p></td>
+（ 德國・<a href="https://zh.wikipedia.org/wiki/斯圖加特" title="wikilink">斯圖加特</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2344,13 +2344,13 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <tr class="even">
 <td><p>2016年7月14日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/舊金山.md" title="wikilink">舊金山</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/舊金山" title="wikilink">舊金山</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年7月15日</p></td>
-<td><p><a href="../Page/威尔顿剧院.md" title="wikilink">The Wiltern</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/威尔顿剧院" title="wikilink">The Wiltern</a><br />
 （ 美國・洛杉磯）</p></td>
 <td></td>
 <td></td>
@@ -2359,8 +2359,8 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <td><p>2016年7月17日</p></td>
 <td><p><strong>Chicago Open Air</strong><br />
 <small>（BABYMETAL WORLD TOUR 2016 / US TOUR）</small></p></td>
-<td><p><a href="../Page/豐田公園.md" title="wikilink">豐田公園</a><br />
-（ 美國・<a href="../Page/伊利諾伊州.md" title="wikilink">伊利諾伊州Bridgeview</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/豐田公園" title="wikilink">豐田公園</a><br />
+（ 美國・<a href="https://zh.wikipedia.org/wiki/伊利諾伊州" title="wikilink">伊利諾伊州Bridgeview</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"Babymetal Death"</li>
@@ -2371,14 +2371,14 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <td><p>2016年7月18日</p></td>
 <td><p><strong>2016 Journeys <a href="../Page/Alternative_Press.md" title="wikilink">Alternative Press</a> Awards fueled by Monster Energy</strong></p></td>
 <td><p><br />
-（ 美國・<a href="../Page/克里夫蘭.md" title="wikilink">克里夫蘭</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/克里夫蘭" title="wikilink">克里夫蘭</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年7月24日</p></td>
-<td><p><strong><a href="../Page/富士搖滾音樂祭.md" title="wikilink">FUJI ROCK FESTIVAL</a> '16</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/富士搖滾音樂祭" title="wikilink">FUJI ROCK FESTIVAL</a> '16</strong></p></td>
 <td><p><br />
-（<a href="../Page/新潟縣.md" title="wikilink">新潟縣</a><a href="../Page/湯澤町.md" title="wikilink">湯澤町</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><a href="../Page/湯澤町.md" title="wikilink">湯澤町</a>）</p></td>
 <td><p>{{hidden|演出曲目|</p>
 <ol>
 <li>"Babymetal Death"</li>
@@ -2399,7 +2399,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 <tr class="even">
 <td><p>2016年8月8日</p></td>
 <td><p><strong>APOCRYPHA - THE WHITE MASS -</strong></p></td>
-<td><p><a href="../Page/難波Hatch.md" title="wikilink">難波Hatch</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/難波Hatch" title="wikilink">難波Hatch</a><br />
 （大阪府大阪市）</p></td>
 <td><p>※WEB會員限定公演<br />
 {{hidden|演出曲目| 8月8日</p>
@@ -2539,15 +2539,15 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2016年12月8日</p></td>
-<td><p><a href="../Page/水电竞技场.md" title="wikilink">SSE Hydro體育館</a><br />
-（ 英國・<a href="../Page/格拉斯哥.md" title="wikilink">格拉斯哥</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/水电竞技场" title="wikilink">SSE Hydro體育館</a><br />
+（ 英國・<a href="https://zh.wikipedia.org/wiki/格拉斯哥" title="wikilink">格拉斯哥</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月10日</p></td>
 <td><p><br />
-（ 英國・<a href="../Page/伯明罕.md" title="wikilink">伯明罕</a>）</p></td>
+（ 英國・<a href="https://zh.wikipedia.org/wiki/伯明罕" title="wikilink">伯明罕</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2560,8 +2560,8 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月14日</p></td>
-<td><p><a href="../Page/曼彻斯特竞技场.md" title="wikilink">曼徹斯特體育場</a><br />
-（ 英國・<a href="../Page/曼徹斯特.md" title="wikilink">曼徹斯特</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曼彻斯特竞技场" title="wikilink">曼徹斯特體育場</a><br />
+（ 英國・<a href="https://zh.wikipedia.org/wiki/曼徹斯特" title="wikilink">曼徹斯特</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2581,15 +2581,15 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年1月11日</p></td>
-<td><p><strong><a href="../Page/金屬製品.md" title="wikilink">金屬製品</a>「」</strong></p></td>
-<td><p><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a><br />
-（・<a href="../Page/首爾.md" title="wikilink">首爾</a>）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/金屬製品" title="wikilink">金屬製品</a>「」</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高尺天空巨蛋" title="wikilink">高尺天空巨蛋</a><br />
+（・<a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a>）</p></td>
 <td><p>※巡演特別嘉賓<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年1月21日</p></td>
-<td><p><strong><a href="../Page/槍與玫瑰.md" title="wikilink">槍與玫瑰</a>「」</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/槍與玫瑰" title="wikilink">槍與玫瑰</a>「」</strong></p></td>
 <td><p><a href="../Page/大阪巨蛋.md" title="wikilink">大阪巨蛋</a><br />
 （大阪府大阪市）</p></td>
 <td><p>※巡演固定特別嘉賓<br />
@@ -2598,7 +2598,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <tr class="even">
 <td><p>2017年1月22日</p></td>
 <td><p><br />
-（<a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a><a href="../Page/神戶市.md" title="wikilink">神戶市</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a><a href="https://zh.wikipedia.org/wiki/神戶市" title="wikilink">神戶市</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2619,28 +2619,28 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <tr class="odd">
 <td><p>2017年4月12日</p></td>
 <td><p><strong>嗆辣紅椒「The Getaway World Tour」</strong></p></td>
-<td><p><a href="../Page/威訊中心.md" title="wikilink">威訊中心</a><br />
-（ 美國・<a href="../Page/華盛頓哥倫比亞特區.md" title="wikilink">華盛頓哥倫比亞特區</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/威訊中心" title="wikilink">威訊中心</a><br />
+（ 美國・<a href="https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區" title="wikilink">華盛頓哥倫比亞特區</a>）</p></td>
 <td><p>※巡演固定特別嘉賓<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月14日</p></td>
-<td><p><a href="../Page/飛利浦體育館.md" title="wikilink">飛利浦體育館</a><br />
-（ 美國・<a href="../Page/亞特蘭大.md" title="wikilink">亞特蘭大</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飛利浦體育館" title="wikilink">飛利浦體育館</a><br />
+（ 美國・<a href="https://zh.wikipedia.org/wiki/亞特蘭大" title="wikilink">亞特蘭大</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年4月15日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/羅里_(北卡羅來納州).md" title="wikilink">羅里</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/羅里_(北卡羅來納州)" title="wikilink">羅里</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月17日</p></td>
-<td><p><a href="../Page/光譜中心.md" title="wikilink">光譜中心</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/光譜中心" title="wikilink">光譜中心</a><br />
 （ 美國・<a href="../Page/夏洛特_(北卡羅來納州).md" title="wikilink">夏洛特</a>）</p></td>
 <td></td>
 <td></td>
@@ -2648,7 +2648,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <tr class="odd">
 <td><p>2017年4月19日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/哥倫比亞_(南卡羅來納州).md" title="wikilink">哥倫比亞</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/哥倫比亞_(南卡羅來納州)" title="wikilink">哥倫比亞</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2662,28 +2662,28 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <tr class="odd">
 <td><p>2017年4月24日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/傑克遜維爾_(佛羅里達州).md" title="wikilink">傑克遜維爾</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/傑克遜維爾_(佛羅里達州)" title="wikilink">傑克遜維爾</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月26日</p></td>
 <td><p><a href="../Page/安麗中心.md" title="wikilink">安麗中心</a><br />
-（ 美國・<a href="../Page/奧蘭多_(佛羅里達州).md" title="wikilink">奧蘭多</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/奧蘭多_(佛羅里達州)" title="wikilink">奧蘭多</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年4月27日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/坦帕_(佛羅里達州).md" title="wikilink">坦帕</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/坦帕_(佛羅里達州)" title="wikilink">坦帕</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月29日</p></td>
 <td><p><a href="../Page/美國航空球場.md" title="wikilink">美國航空球場</a><br />
-（ 美國・<a href="../Page/邁阿密.md" title="wikilink">邁阿密</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/邁阿密" title="wikilink">邁阿密</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2691,7 +2691,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <td><p>2017年6月16日</p></td>
 <td><p><strong>BABYMETAL US TOUR 2017 SPECIAL HEADLINE SHOW IN LA</strong></p></td>
 <td><p><br />
-（ 美國・<a href="../Page/洛杉磯.md" title="wikilink">洛杉磯</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a>）</p></td>
 <td><p>※專場公演</p></td>
 </tr>
 <tr class="even">
@@ -2705,13 +2705,13 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <tr class="odd">
 <td><p>2017年6月20日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/丘拉維斯塔.md" title="wikilink">丘拉維斯塔</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/丘拉維斯塔" title="wikilink">丘拉維斯塔</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年6月21日</p></td>
-<td><p><a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/論壇體育館" title="wikilink">論壇體育館</a><br />
 （ 美國・<a href="../Page/英格爾伍德_(加利福尼亞州).md" title="wikilink">英格爾伍德</a>）</p></td>
 <td></td>
 <td></td>
@@ -2719,21 +2719,21 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <tr class="odd">
 <td><p>2017年6月22日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/山景城_(加利福尼亞州).md" title="wikilink">山景城</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/山景城_(加利福尼亞州)" title="wikilink">山景城</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年6月24日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/奧本_(華盛頓州).md" title="wikilink">奧本</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/奧本_(華盛頓州)" title="wikilink">奧本</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年6月25日</p></td>
 <td><p><br />
-（ 美國・<a href="../Page/楠帕_(愛達荷州).md" title="wikilink">楠帕</a>）</p></td>
+（ 美國・<a href="https://zh.wikipedia.org/wiki/楠帕_(愛達荷州)" title="wikilink">楠帕</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2866,8 +2866,8 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink") ANNEX
     （NHK綜合頻道，2013年7月16日）
 
-  - [完全娛樂](../Page/完全娛樂.md "wikilink")
-    （[三立電視台](../Page/三立電視台.md "wikilink")，2013年11月29日、12月6日）
+  - [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")
+    （[三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")，2013年11月29日、12月6日）
 
   - [MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")
     （[朝日電視台](../Page/朝日電視台.md "wikilink")，2014年2月7日、2016年4月22日）
@@ -2883,7 +2883,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
     特別節目\[29\]
 
   - [斯蒂芬•科爾伯特晚間秀](../Page/斯蒂芬·科尔伯特晚间秀.md "wikilink")
-    （[哥倫比亞廣播公司](../Page/哥倫比亞廣播公司.md "wikilink")，2016年4月5日）
+    （[哥倫比亞廣播公司](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，2016年4月5日）
 
   - MTV INSIDE：BABYMETAL -METAL RESISTANCE-（[MTV
     Japan](../Page/MTV_Japan.md "wikilink")，2016年4月30日） - 特別節目\[30\]
@@ -2896,7 +2896,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
   - 音樂人〜ONGAKU-BEAT〜 （，2012年9月29日）
 
-  - （[JFN](../Page/JFN.md "wikilink")，2012年12月22日）
+  - （[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")，2012年12月22日）
 
   - （，2013年1月7日）
 
@@ -2914,11 +2914,11 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
     Inc，2012年8月10日－2014年2月10日）
 
   - 《VA》 1月號－6月號
-    （連載企劃；[TSUTAYA](../Page/TSUTAYA.md "wikilink")，2012年12月20日－2013年5月20日）
+    （連載企劃；[TSUTAYA](https://zh.wikipedia.org/wiki/TSUTAYA "wikilink")，2012年12月20日－2013年5月20日）
 
   - 《MARQUEE》 Vol.101（2014年2月10日、）\[31\]
 
-  - 2015年7月6日號（2015年6月29日、[朝日新聞社](../Page/朝日新聞社.md "wikilink")）\[32\]
+  - 2015年7月6日號（2015年6月29日、[朝日新聞社](https://zh.wikipedia.org/wiki/朝日新聞社 "wikilink")）\[32\]
 
   - 《METAL HAMMER》 273號（2015年7月21日、TeamRock）\[33\]
 
@@ -2928,9 +2928,8 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
   - Vol.10（2016年3月28日、）\[36\]
 
-  - [《NYLON JAPAN》](../Page/NYLON#日本版.md "wikilink")
-    2016年5月號限定版（2016年3月28日〈網路限定販售〉、株式会社NYLON
-    JAPAN）\[37\]
+  - [《NYLON JAPAN》](https://zh.wikipedia.org/wiki/NYLON#日本版 "wikilink")
+    2016年5月號限定版（2016年3月28日〈網路限定販售〉、株式会社NYLON JAPAN）\[37\]
 
   - 212號（2016年3月28日、Freeway Press）\[38\]
 
@@ -2954,18 +2953,18 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
 ### 電視廣告
 
-  - 日語字幕版（[IMAX戲院及YouTube預告片](../Page/IMAX.md "wikilink")：[波麗佳音](../Page/波麗佳音.md "wikilink")，2013年11月15日－2013年11月21日）
+  - 日語字幕版（[IMAX戲院及YouTube預告片](../Page/IMAX.md "wikilink")：[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，2013年11月15日－2013年11月21日）
 
   - [Android](../Page/Android.md "wikilink")：みんなの and（2014年10月31日 -
     12月31日、[Google](../Page/Google.md "wikilink") Japan）\[47\]
 
   - [Chromecast](../Page/Chromecast.md "wikilink")：夢中になろう。YouTube
     を、テレビへ。(
-    [Musumen.篇](../Page/Musumen..md "wikilink")）（2015年7月、Google
+    [Musumen.篇](https://zh.wikipedia.org/wiki/Musumen. "wikilink")）（2015年7月、Google
     Japan） - 網路限定CM\[48\]。
 
   - [Google Play
-    Music](../Page/Google_Play_Music.md "wikilink")：BABYMETAL篇（2015年11月20日
+    Music](https://zh.wikipedia.org/wiki/Google_Play_Music "wikilink")：BABYMETAL篇（2015年11月20日
     - 12月、Google Japan）\[49\]
 
 ## 參考資料

@@ -1,4 +1,4 @@
-**柏恩德·A·拉斯卡**（，）是德國[哲學作家](../Page/哲學.md "wikilink")、編輯、翻譯和發行商。
+**柏恩德·A·拉斯卡**（，）是德國[哲學作家](https://zh.wikipedia.org/wiki/哲學 "wikilink")、編輯、翻譯和發行商。
 
 ## 著作
 
@@ -30,7 +30,7 @@
       - Wilhelm Reich: *Christusmord*, Olten und Freiburg/Br:
         Walter-Verlag 1978 ISBN 3-530-68000-1
       - Wilhelm Reich / [Alexander S.
-        Neill](../Page/Alexander_Sutherland_Neill.md "wikilink"):
+        Neill](https://zh.wikipedia.org/wiki/Alexander_Sutherland_Neill "wikilink"):
         *Zeugnisse einer Freundschaft. Briefwechsel 1936–1957*, Köln:
         Kiepenheuer & Witsch 1986 ISBN 3-462-01784-5
       - Wilhelm Reich: *Charakteranalyse*, Köln: Kiepenheuer & Witsch

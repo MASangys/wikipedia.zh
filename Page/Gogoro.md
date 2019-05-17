@@ -9,17 +9,17 @@ Limited），負責在台的銷售及服務。
 Branch），在[中華民國內的營運資金為新台幣](../Page/中華民國.md "wikilink")17億元，負責Gogoro能源網路的營運。
 
 [Gogoro
-Smartscooter是Gogoro的第一款消費性產品](../Page/Gogoro_Smartscooter.md "wikilink")，於2015年1月在[拉斯維加斯的](../Page/拉斯维加斯.md "wikilink")[消費電子展](../Page/消費電子展.md "wikilink")（CES）上展示。同時，Gogoro發表了一個名為Gogoro
+Smartscooter是Gogoro的第一款消費性產品](https://zh.wikipedia.org/wiki/Gogoro_Smartscooter "wikilink")，於2015年1月在[拉斯維加斯的](../Page/拉斯维加斯.md "wikilink")[消費電子展](../Page/消費電子展.md "wikilink")（CES）上展示。同時，Gogoro發表了一個名為Gogoro
 Energy Network的電池交換網路。\[1\]\[2\]
 
 ## 事件
 
 2011年，Gogoro由陸學森和Matt
-Taylor創立。\[3\]在其成立之初，Gogoro從[尹衍樑和](../Page/尹衍樑.md "wikilink")[王雪紅獲得了](../Page/王雪紅.md "wikilink")5000萬[美元的](../Page/美元.md "wikilink")[種子基金](../Page/种子基金.md "wikilink")。\[4\]
+Taylor創立。\[3\]在其成立之初，Gogoro從[尹衍樑和](../Page/尹衍樑.md "wikilink")[王雪紅獲得了](../Page/王雪紅.md "wikilink")5000萬[美元的](../Page/美元.md "wikilink")[種子基金](https://zh.wikipedia.org/wiki/种子基金 "wikilink")。\[4\]
 
-2014年10月，Gogoro從一批投資者募集了額外的1億美元的[B輪融資](../Page/B輪融資.md "wikilink")。
+2014年10月，Gogoro從一批投資者募集了額外的1億美元的[B輪融資](https://zh.wikipedia.org/wiki/B輪融資 "wikilink")。
 
-2015年11月，Gogoro宣布了[Panasonic與](../Page/松下電器.md "wikilink")[行政院國家發展基金](../Page/行政院國家發展基金.md "wikilink")\[5\]的新一輪投資，將Smartscooter的創新者資本增加到1.8億美元\[6\]。
+2015年11月，Gogoro宣布了[Panasonic與](../Page/松下電器.md "wikilink")[行政院國家發展基金](https://zh.wikipedia.org/wiki/行政院國家發展基金 "wikilink")\[5\]的新一輪投資，將Smartscooter的創新者資本增加到1.8億美元\[6\]。
 
 2015年3月30日，Gogoro全球體驗中心（Global Experience
 Center，GEC）於台北市信義區松壽路18號開幕\[7\]，同時這天也被設定為
@@ -74,7 +74,7 @@ Network在台灣地區的佈建密度，GoStation電池交換站總數將會在2
 Delight新色「粉紅突襲」，成為Gogoro旗下所有車款的第17個顏色。No.17發表會的主題為「搞PINK啊！」、「\#WhatThePink」，除了特地選在8/17發表，也瞄準17歲即將考照的女性客群。\[28\]
 
 2018年9月11日，日本 [Yamaha
-發動機株式會社與](../Page/Yamaha_Motor_Co.,_Ltd..md "wikilink")
+發動機株式會社與](https://zh.wikipedia.org/wiki/Yamaha_Motor_Co.,_Ltd. "wikilink")
 Gogoro Inc. 共同宣布，對台灣市場電動車輛的商業合作案展開檢討，預計在今年內簽署正式合約，將以 Gogoro 車款為基礎，進行
 Yamaha 的品牌設計，委由 Gogoro 生產，透過台灣山葉機車的通路銷售，預計於2019年夏季推出首輛車款。\[29\]
 
@@ -121,15 +121,16 @@ Luke 提出了「結合科技產業、機車產業，一同轉型為智慧交通
 已投資新台幣116億元；預計在2019年底將達到新台幣174億元。 而針對日本車廠 SUZUKI、YAMAHA、HONDA、KAWASAKI
 宣布結盟開發電動機車及能源系統一事，Horace Luke 表示由於 Gogoro
 已掌握高性能電動馬達的小型化、低價化，針對「普通重型機車」領域，Gogoro
-大約還擁有3至5年的技術領先。 最後，關於 Gogoro 是否進行 [IPO](../Page/首次公开募股.md "wikilink")
-一事，Horace Luke 表示當前首要目標不在此，未來必定會執行，惟目前沒有確切時間表。\[38\]\[39\]\[40\]
+大約還擁有3至5年的技術領先。 最後，關於 Gogoro 是否進行
+[IPO](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink") 一事，Horace
+Luke 表示當前首要目標不在此，未來必定會執行，惟目前沒有確切時間表。\[38\]\[39\]\[40\]
 
 ## 產品
 
 ### Smartscooter 智慧雙輪
 
 [Gogoro
-Smartscooter是由其生產的一系列](../Page/Gogoro_Smartscooter.md "wikilink")[電動機車](../Page/電動機車.md "wikilink")，在臺灣的電動機車分類上屬於普通重型電動機車，其採用兩個Gogoro智慧電池串聯供應電力，目前Gogoro在台的主要商業模式為電池租賃，不允許使用者買斷\[41\]，補充能源需透過Gogoro
+Smartscooter是由其生產的一系列](https://zh.wikipedia.org/wiki/Gogoro_Smartscooter "wikilink")[電動機車](../Page/電動機車.md "wikilink")，在臺灣的電動機車分類上屬於普通重型電動機車，其採用兩個Gogoro智慧電池串聯供應電力，目前Gogoro在台的主要商業模式為電池租賃，不允許使用者買斷\[41\]，補充能源需透過Gogoro
 Energy Network所建置的GoStation電池交換站進行快速電池交換，Gogoro 2 Series 可以選購 GoCharger
 Mobile 自行充電。
 
@@ -165,7 +166,7 @@ Fun」表其訴求。
 ##### G1鋁合金水冷永磁同步馬達
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Gogoro_1_Series_的_G1_馬達外觀.jpg "fig:缩略图")
-作為動力來源的馬達，採用了自家設計、生產的G1鋁合金水冷式永磁同步馬達，並配合[MOSFET水冷馬達控制器](../Page/金屬氧化物半導體場效電晶體.md "wikilink")。G1鋁合金水冷永磁同步馬達在小體積之中，纏繞66公尺的特級無氧銅線。規格方面，宣稱其能在3250
+作為動力來源的馬達，採用了自家設計、生產的G1鋁合金水冷式永磁同步馬達，並配合[MOSFET水冷馬達控制器](https://zh.wikipedia.org/wiki/金屬氧化物半導體場效電晶體 "wikilink")。G1鋁合金水冷永磁同步馬達在小體積之中，纏繞66公尺的特級無氧銅線。規格方面，宣稱其能在3250
 rpm時達到最大功率6400W，換算為馬力8.58 hp，但並無透漏最大持續輸出功率，最大扭力在0\~2250 rpm時達到25
 Nm，經過減速齒輪並由Gates碳纖維皮帶傳導至後輪軸\[45\]，輪上扭力達到161Nm\[46\]。讓Gogoro
 1 Series可在4.2秒內從靜止加速至50 kph（需每月額外選購新台幣249元性能加值服務方得達成），極速可達95 kph，並可在定速40
@@ -190,7 +191,7 @@ S2僅配備電子油門，並無搭載Saferide線傳電子油門，因此在不�
 
 對於首次開發電動機車的Gogoro團隊而言，由於能源、動力的不確定性，使其十分重視車體的輕量化，為此重金購入了全台噸位最大的九軸沖壓機\[50\]，製造AeroFrame一體成形鋁合金車架。AeroFrame鋁合金單體車架外露的設計使其兼具外觀件及結構件功能，經過九次沖程製成，並使用[DOW
 Chemical](../Page/陶氏化工.md "wikilink")
-航太結構膠結合其餘結構件，而非焊接，其表面經[陽極氧化上色](../Page/陽極處理.md "wikilink")（Gogoro
+航太結構膠結合其餘結構件，而非焊接，其表面經[陽極氧化上色](https://zh.wikipedia.org/wiki/陽極處理 "wikilink")（Gogoro
 Lite使用粉體烤漆）。採用AeroFrame鋁合金單體車架帶給Gogoro 1
 Series絕佳的操控性及路感反饋，更有著高剛性高回收使用率的優點，呼應Gogoro的Eco-Friendly口號，成為Gogoro自豪的技術之一。不僅如此，AeroFrame鋁合金單體車架更構成聲學共振車體，能夠配合G1馬達及喇叭發出特別的音效\[51\]。
 
@@ -397,7 +398,7 @@ Series）、安裝S系列專屬配件，車體鈑件更採用消光「石墨灰�
 S獲得與Gogoro 1 Series極為不同的外觀，此外Gogoro
 S亦提升了性能，除了強化煞車系統表現，更裝載G1-S馬達，最大功率相較於G1馬達的6.4kW提升至7.2kW，約等效9.65
 hp，G1-S馬達使Gogoro S能在3.7秒內從靜止加速至50
-km/h，然而由於馬達內部使用了磁性更強的[轉子](../Page/转子.md "wikilink")，不僅運轉時的音色與G1馬達不同，在低速運轉時還會發出「喀喀」的格段聲。
+km/h，然而由於馬達內部使用了磁性更強的[轉子](https://zh.wikipedia.org/wiki/转子 "wikilink")，不僅運轉時的音色與G1馬達不同，在低速運轉時還會發出「喀喀」的格段聲。
 
 2018年5月29日，配合Gogoro S2上市，將Gogoro S更名為Gogoro S1。
 
@@ -462,7 +463,7 @@ Gogoro Energy Network既為英屬開曼群島商睿能新動力股份有限公�
 2017年7月28日，Gogoro 在臺灣新北市八里正式啟用首座太陽能 GoStation
 ，該站附有一面獨立的螢幕，顯示能源的使用情況\[70\]。
 
-2017年8月15日，發生了[全台大停電](../Page/815全臺大停電.md "wikilink")，造成全台近四分之一的GoStation暫停服務（含停電前就已停機維修）\[71\]。
+2017年8月15日，發生了[全台大停電](https://zh.wikipedia.org/wiki/815全臺大停電 "wikilink")，造成全台近四分之一的GoStation暫停服務（含停電前就已停機維修）\[71\]。
 
 2018年3月30日，Gogoro在Born Ready媒體記者會中發表Gogoro Energy Network 2.0。
 
@@ -525,7 +526,7 @@ App或使用iQ智慧鑰匙進行電池預約。
 不論母機子機，單機輸入電力規格皆為220V
 50-60Hz三相三線、最高30A，最大消耗功率為10kW。其散熱風扇及喇叭位於機器後方上部，整座站體的耐候標準為IPX4\[75\]，可以承受多變的天氣情況，根據在台灣地區營運的經驗，至今為止尚無因機體受天氣因素而停止運作的案例，而是由於台電的電力供應出現問題而不得不停止運作。
 
-在2017年8月15日發生的[全台大停電同時造成近全台四分之一的GoStation暫停服務](../Page/815全臺大停電.md "wikilink")\[76\]。
+在2017年8月15日發生的[全台大停電同時造成近全台四分之一的GoStation暫停服務](https://zh.wikipedia.org/wiki/815全臺大停電 "wikilink")\[76\]。
 
 在CES 2018展會的停電中，GoStation就成功以自身電力持續供應機台運作，成為展場中少數仍保持電力運作的機器。
 
@@ -567,7 +568,7 @@ Here」圓圈，完成身分認證並進行電池預約\[81\]；2018年回歸的
 ##### GoStation 2.0
 
 2018年3月30日，Gogoro 在 Born Ready 媒體記者會中發表 GoStation
-2.0，以[815全台大停電事件說明穩定供應服務的重要性](../Page/815全臺大停電.md "wikilink")，GoStation
+2.0，以[815全台大停電事件說明穩定供應服務的重要性](https://zh.wikipedia.org/wiki/815全臺大停電 "wikilink")，GoStation
 2.0外觀不變，但更改了內部，即便在市電供應異常時，也能依賴自主電力維持最長48小時的營運，Gogoro CEO陸學森Horace
 Luke現場示範拔除GoStaiton電源接頭，此時螢幕會顯示「獨立供電中
 市電供應中斷GoStation獨立供電並提供換電」，然而根據回放畫面，在
@@ -592,7 +593,7 @@ GoStation。\[86\]
 Archive的存檔紀錄）
 
 Gogoro於2016年國際消費電子展中正式發佈GoCharger租借服務，發表使Gogoro Enegry
-Network成為充、換電並行的系統。GoCharger智慧電池座並於同年8月開放商家申請設置為GoCharger快速充電站（作用類似[特斯拉的](../Page/特斯拉_\(公司\).md "wikilink")[目的地充電站](../Page/Destination_Charger.md "wikilink")），未開放消費者購買使用。在
+Network成為充、換電並行的系統。GoCharger智慧電池座並於同年8月開放商家申請設置為GoCharger快速充電站（作用類似[特斯拉的](../Page/特斯拉_\(公司\).md "wikilink")[目的地充電站](https://zh.wikipedia.org/wiki/Destination_Charger "wikilink")），未開放消費者購買使用。在
 2017年初時，為了彌補剛進入的台灣南部市場能源補給困難的問題，開放特定地區使用者租借GoCharger（型號為 GC11）及GoCharger
 Plus（型號為 GC12）智慧電池充電座，以每月新台幣149元（GoCharger）或新台幣249元（GoCharger
 Plus）的價格收取月租費，並每月額外贈送50公里的里程數。因為是租用，需要聯網認證，損毀的賠償為2萬多元。
@@ -647,7 +648,7 @@ Mobile，反觀 GoCharger 則具有共享性。
 ### Gogoro 智慧電池 Gogoro Smart Battery
 
 一個 Gogoro
-智慧電池模組由頂部綠色提把、30個感應器\[91\]、電腦系統、18650[鋰離子電池](../Page/锂离子电池.md "wikilink")、[NFC模組及](../Page/近場通訊.md "wikilink")[BMS系統組成](../Page/电池管理系统.md "wikilink")。單個重量約9公斤，以黑色鋁合金外殼包覆，並印有「Property
+智慧電池模組由頂部綠色提把、30個感應器\[91\]、電腦系統、18650[鋰離子電池](../Page/锂离子电池.md "wikilink")、[NFC模組及](../Page/近場通訊.md "wikilink")[BMS系統組成](https://zh.wikipedia.org/wiki/电池管理系统 "wikilink")。單個重量約9公斤，以黑色鋁合金外殼包覆，並印有「Property
 of Gogoro Energy Network」與「With Panasonic Cells」字樣（新版的Gogoro智慧電池已將With
 Panasonic Cells字樣移除），具堅固與 IPX7 防水能力，電極接頭經鍍銀處理\[92\]。透過底部的 NFC 模組與
 Smartscooter 智慧雙輪、GoStation 電池交換站、GoCharger 充電座進行認證、資料交換、車輛資料的採集（每秒十次）。
@@ -801,7 +802,7 @@ App客戶端，除了歐洲地區Coup車輛外，目前銷售的車輛（包括�
 Share及小琉球尚美租車）不支援分享數位鑰匙。
 
 Gogoro App能夠將更新檔上傳至行車電腦（Electric Control
-Unit，ECU），進而達成[空中韌體下載](../Page/空中韌體下載.md "wikilink")（Firmware
+Unit，ECU），進而達成[空中韌體下載](https://zh.wikipedia.org/wiki/空中韌體下載 "wikilink")（Firmware
 Over The Air，FOTA）更新。
 
 ### 能源資費
@@ -855,13 +856,13 @@ For Gogoro配件。
 
 ## 爭議
 
-  - [行政院環境保護署在](../Page/行政院環境保護署.md "wikilink")2015年7月20日公告修正《淘汰二行程機車及新購電動二輪車補助辦法》，其中普通重型電動機車補助較多，由於Gogoro是目前臺灣唯一符合普通重型電動機車的車種，加上公告修正日又趕在Gogoro交貨日前，引發刻意圖利Gogoro的疑慮\[109\]。
+  - [行政院環境保護署在](https://zh.wikipedia.org/wiki/行政院環境保護署 "wikilink")2015年7月20日公告修正《淘汰二行程機車及新購電動二輪車補助辦法》，其中普通重型電動機車補助較多，由於Gogoro是目前臺灣唯一符合普通重型電動機車的車種，加上公告修正日又趕在Gogoro交貨日前，引發刻意圖利Gogoro的疑慮\[109\]。
   - Gogoro初始的定價比一般的125C.C.燃油機車高出許多（台灣主流的125C.C.機車約5至8萬元），而在網路上引發許多認為售價太貴的討論，如[中央研究院院士](../Page/中央研究院院士.md "wikilink")[朱敬一認為](../Page/朱敬一.md "wikilink")「能夠花12.8萬買機車的年輕人，恐怕已經具有標籤意義，這在超過六成年輕人月薪不到3萬的情況下，尤其如此」\[110\]。而
     Gogoro
     負責人陸學森也曾於接受雜誌專訪時，認為「臺灣每個人都在比價錢，但不在乎品質，買到的產品都是爛的，從長期來看反而花更多成本，這是臺灣產業不幸的輪迴」\[111\]。
   - Gogoro是台灣品牌、在台灣製造，公司卻在英屬開曼群島註冊，引來逃漏稅的質疑。對此Gogoro行銷副總彭明義在今周刊說明表示：「2011年公司成立之際，礙於政府投資法規明定，技術持股不能超過5％。但當年陸學森接受潤泰集團總裁尹衍樑投資時，就表明希望能有50％的技術持股，未來能分給所有的Gogoro員工，所以最後才選擇在開曼註冊公司。另一個考量則是關稅，因為台灣與東南亞國家並沒有簽訂關稅協定，如果從台灣出口到東南亞國家，必須被課稅，考量價格競爭力下，才選擇可以減免稅率的開曼。針對台灣政府是否能課Gogoro的稅，彭明義指出，公司的原料、製造生產、員工都在台灣，台灣政府都可以課稅，即使是註冊在開曼的公司，未來Gogoro要是出口外銷其他國家，台灣政府也都能課稅。」\[112\]
-  - [行政院經濟部工業局在](../Page/經濟部.md "wikilink")2018年1月宣佈將投入40億元經費建置3,310座電動機車充換電站，其中佔九成的換電站將以Gogoro的電池交換站規格作為公版\[113\]。此舉引發是否有圖利廠商疑慮的討論\[114\]\[115\]，工業局則指出：「起初選用Gogoro作為標準是因為數十家機車廠商中，僅有Gogoro提出完整的可用方案。」\[116\]，在這之後便決定兩星期後會重新決策。
-    約莫兩星期後，因與眾多機車業者毫無回應或持反對聲音而呈現僵局導致毫無進展。[光陽工業亦宣稱不會採用Gogoro之規格並會推出自家標準來邀請政府機關重新審視](../Page/光陽工業.md "wikilink")，且表示：「若電動機車是用來取代傳統機車，那麼標準則應目前台灣機車市場近四成佔有率的廠商才最有資格制定。」\[117\]，引來許多抨擊和負面評論。Gogoro於同月31日發布Gogoro
+  - [行政院經濟部工業局在](https://zh.wikipedia.org/wiki/經濟部 "wikilink")2018年1月宣佈將投入40億元經費建置3,310座電動機車充換電站，其中佔九成的換電站將以Gogoro的電池交換站規格作為公版\[113\]。此舉引發是否有圖利廠商疑慮的討論\[114\]\[115\]，工業局則指出：「起初選用Gogoro作為標準是因為數十家機車廠商中，僅有Gogoro提出完整的可用方案。」\[116\]，在這之後便決定兩星期後會重新決策。
+    約莫兩星期後，因與眾多機車業者毫無回應或持反對聲音而呈現僵局導致毫無進展。[光陽工業亦宣稱不會採用Gogoro之規格並會推出自家標準來邀請政府機關重新審視](https://zh.wikipedia.org/wiki/光陽工業 "wikilink")，且表示：「若電動機車是用來取代傳統機車，那麼標準則應目前台灣機車市場近四成佔有率的廠商才最有資格制定。」\[117\]，引來許多抨擊和負面評論。Gogoro於同月31日發布Gogoro
     2 Deluxe時，一同表示「任何採用Gogoro電控系統之電動機車」將能以免專利權利金的方式使用Gogoro電池與其能源交換系統。
 
 ## 註釋

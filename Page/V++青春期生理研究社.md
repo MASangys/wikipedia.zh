@@ -1,4 +1,4 @@
-《**V++青春期生理研究社**》是中国小说家[席未来写的轻小说](../Page/席未来.md "wikilink")，为国内首部青春期生理健康题材的轻小说，在《[天漫轻小说](../Page/天漫.md "wikilink")》连载。而作者[席未来曾于](../Page/席未来.md "wikilink")《[新蕾](../Page/新蕾.md "wikilink")》、《[花溪](../Page/花溪.md "wikilink")》、《[南风](../Page/南风.md "wikilink")》、《[花火](../Page/花火.md "wikilink")》等杂志发表过作品。\[1\]插画为[于小发](../Page/于小发.md "wikilink")\[2\]。
+《**V++青春期生理研究社**》是中国小说家[席未来写的轻小说](https://zh.wikipedia.org/wiki/席未来 "wikilink")，为国内首部青春期生理健康题材的轻小说，在《[天漫轻小说](../Page/天漫.md "wikilink")》连载。而作者[席未来曾于](https://zh.wikipedia.org/wiki/席未来 "wikilink")《[新蕾](https://zh.wikipedia.org/wiki/新蕾 "wikilink")》、《[花溪](https://zh.wikipedia.org/wiki/花溪 "wikilink")》、《[南风](https://zh.wikipedia.org/wiki/南风 "wikilink")》、《[花火](https://zh.wikipedia.org/wiki/花火 "wikilink")》等杂志发表过作品。\[1\]插画为[于小发](https://zh.wikipedia.org/wiki/于小发 "wikilink")\[2\]。
 
 ## 其他
 

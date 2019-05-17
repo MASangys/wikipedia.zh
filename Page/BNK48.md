@@ -1,11 +1,11 @@
 [BNKLogo.jpg](https://zh.wikipedia.org/wiki/File:BNKLogo.jpg "fig:BNKLogo.jpg")
-**BNK48**是一個由[秋元康擔任製作人](../Page/秋元康.md "wikilink")，以[泰國](../Page/泰國.md "wikilink")[曼谷為主要活動中心的女性偶像團體](../Page/曼谷.md "wikilink")，為[AKB48在日本以外成立的第](../Page/AKB48.md "wikilink")2支姊妹團體。
+**BNK48**是一個由[秋元康擔任製作人](../Page/秋元康.md "wikilink")，以[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷為主要活動中心的女性偶像團體](../Page/曼谷.md "wikilink")，為[AKB48在日本以外成立的第](../Page/AKB48.md "wikilink")2支姊妹團體。
 
 ## 簡介
 
 ### 2016年
 
-3月26日，在[橫濱球場舉行的](../Page/橫濱球場.md "wikilink")「AKB48單獨演唱會」（）上，發表將成立BNK48、[TPE48及](../Page/TPE48.md "wikilink")[MNL48三個姊妹團體的消息](../Page/MNL48.md "wikilink")\[1\]\[2\]\[3\]。團體名稱中「**BNK**」以所在地[曼谷的簡寫](../Page/曼谷.md "wikilink")（**B**a**N**g**K**ok）命名，代表色紫羅蘭色則發想於泰國人民喜愛的蘭花\[4\]。
+3月26日，在[橫濱球場舉行的](../Page/橫濱球場.md "wikilink")「AKB48單獨演唱會」（）上，發表將成立BNK48、[TPE48及](https://zh.wikipedia.org/wiki/TPE48 "wikilink")[MNL48三個姊妹團體的消息](https://zh.wikipedia.org/wiki/MNL48 "wikilink")\[1\]\[2\]\[3\]。團體名稱中「**BNK**」以所在地[曼谷的簡寫](../Page/曼谷.md "wikilink")（**B**a**N**g**K**ok）命名，代表色紫羅蘭色則發想於泰國人民喜愛的蘭花\[4\]。
 
 7月29日，在首次官方活动中宣布正式開始招募成員。
 
@@ -24,7 +24,7 @@ Quartier」舉行\[7\]。伊豆田正式以BNK48成員身分參與演出\[8\]，
 Areekul為BNK](../Page/丘普朗·阿瑞昆.md "wikilink")48的首任隊長。
 
 8月8日，發行第1張單曲《Aitakatta
-》（AKB48《[好想見你](../Page/好想見你.md "wikilink")》泰語版）。\[9\]
+》（AKB48《[好想見你](https://zh.wikipedia.org/wiki/好想見你 "wikilink")》泰語版）。\[9\]
 
 12月20日，發行第2張單曲《Koisuru Fortune Cookie
 》（AKB48《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》泰語版）。
@@ -48,7 +48,7 @@ The Campus正式開幕後首次舉辦的劇場公演。
 
 5月12日，於BNK48 The Campus舉辦Team BIII「PARTY開始了」的首場對外售票公演\[17\]。
 
-5月至6月舉行的「[AKB48第53張單曲世界選拔總選舉](../Page/AKB48第53張單曲世界選拔總選舉.md "wikilink")」中，BNK48共有10位成員報名參選，6月16日開票結果公布，Cherprang獲得第39名，Music獲得第72名\[18\]。
+5月至6月舉行的「[AKB48第53張單曲世界選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第53張單曲世界選拔總選舉 "wikilink")」中，BNK48共有10位成員報名參選，6月16日開票結果公布，Cherprang獲得第39名，Music獲得第72名\[18\]。
 
 7月17日，新加入的2期生成員举行首场演出，正式出道\[19\]。
 
@@ -872,7 +872,7 @@ Sachiya Hanami</p></td>
 <td><p>1</p></td>
 <td><p>2017年8月8日</p></td>
 <td><p>《Aitakatta 》<br />
-（AKB48《<a href="../Page/好想見你.md" title="wikilink">好想見你</a>》泰語版）</p></td>
+（AKB48《<a href="https://zh.wikipedia.org/wiki/好想見你" title="wikilink">好想見你</a>》泰語版）</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -888,7 +888,7 @@ Sachiya Hanami</p></td>
 <td><p>3</p></td>
 <td><p>2018年5月7日</p></td>
 <td><p>《Shonichi》<br />
-（AKB48<a href="../Page/Team_B_3rd_Stage「睡衣兜風」.md" title="wikilink">「睡衣兜風」公演曲</a>《初日》泰語版）</p></td>
+（AKB48<a href="https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」" title="wikilink">「睡衣兜風」公演曲</a>《初日》泰語版）</p></td>
 <td><p>Type A<br />
 Type B</p></td>
 <td></td>
@@ -905,7 +905,7 @@ Type B</p></td>
 <td><p>5</p></td>
 <td><p>2018年12月14日</p></td>
 <td><p>《BNK Festival》<br />
-（Team Surprise《<a href="../Page/CR弹珠机AKB48#重力共鸣公演.md" title="wikilink">AKB Festival</a>》泰語版）</p></td>
+（Team Surprise《<a href="https://zh.wikipedia.org/wiki/CR弹珠机AKB48#重力共鸣公演" title="wikilink">AKB Festival</a>》泰語版）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -965,7 +965,7 @@ Type B</p></td>
   - 徵選時間：2016年7月29日－8月31日
   - 第一次審査：合格者約330名
   - 第二次審査（2016年9月17日及18日）：合格者80名
-  - 最終審査：最初定於2016年10月20日，但在一周前[拉玛九世駕崩](../Page/拉玛九世.md "wikilink")，徵選活動延後至12月18日繼續進行。
+  - 最終審査：最初定於2016年10月20日，但在一周前[拉玛九世駕崩](https://zh.wikipedia.org/wiki/拉玛九世 "wikilink")，徵選活動延後至12月18日繼續進行。
 
 **最終合格者（29名）**（粗體字者為在籍成員）
 
@@ -992,11 +992,11 @@ Type B</p></td>
 
 ### Team BIII
 
-1.  [PARTY開始了](../Page/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演.md "wikilink")：2018年5月12日\[39\]－\[40\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[39\]－\[40\]
 
 ### 研究生
 
-1.  [PARTY開始了](../Page/Team_A_1st_Stage「PARTY開始了」#BNK48_研究生「PARTY開始了」公演.md "wikilink")：2018年8月10日－
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_研究生「PARTY開始了」公演 "wikilink")：2018年8月10日－
 
 ## 演出
 
@@ -1068,7 +1068,7 @@ Bluport Huahin</p></td>
 <tr class="even">
 <td><p>2018年3月31日</p></td>
 <td><p>BNK48首場演唱會「STARTO」</p></td>
-<td><p><a href="../Page/曼谷国际贸易展览中心.md" title="wikilink">BITEC BANGNA HALL 106</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曼谷国际贸易展览中心" title="wikilink">BITEC BANGNA HALL 106</a></p></td>
 <td><p>presents</p></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-***Etesiolaus***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[瑤灰蝶族裡的一個](../Page/瑤灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。共有3個物種，分佈於非洲\[1\]。基於外表和寄主（[山欖科植物](../Page/山欖科.md "wikilink")）不同，Larsen(2005)把此屬從狹義[瑤灰蝶屬分離出](../Page/瑤灰蝶屬.md "wikilink")。
+***Etesiolaus***是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[瑤灰蝶族裡的一個](../Page/瑤灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有3個物種，分佈於非洲\[1\]。基於外表和寄主（[山欖科植物](https://zh.wikipedia.org/wiki/山欖科 "wikilink")）不同，Larsen(2005)把此屬從狹義[瑤灰蝶屬分離出](../Page/瑤灰蝶屬.md "wikilink")。
 
 ## 物種
 

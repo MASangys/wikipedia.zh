@@ -1,5 +1,5 @@
 **Hodoo
-Entertainment**（）是[韓國的](../Page/韓國.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，包括藝人管理等。當前旗下藝人包括[李聖旻](../Page/李聖旻.md "wikilink")、[申河均](../Page/申河均.md "wikilink")、[金惠秀](../Page/金惠秀.md "wikilink")、[朴藝珍等多名演員](../Page/朴藝珍.md "wikilink")。
+Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，包括藝人管理等。當前旗下藝人包括[李聖旻](../Page/李聖旻.md "wikilink")、[申河均](../Page/申河均.md "wikilink")、[金惠秀](../Page/金惠秀.md "wikilink")、[朴藝珍等多名演員](../Page/朴藝珍.md "wikilink")。
 
 ## 旗下藝人
 
@@ -8,20 +8,20 @@ Entertainment**（）是[韓國的](../Page/韓國.md "wikilink")[經紀公司](
   - [申河均](../Page/申河均.md "wikilink")
   - [崔德文](../Page/崔德文.md "wikilink")
   - [李善均](../Page/李善均.md "wikilink")
-  - [金東英](../Page/金東英.md "wikilink")
+  - [金東英](https://zh.wikipedia.org/wiki/金東英 "wikilink")
   - [金惠秀](../Page/金惠秀.md "wikilink")
   - [張英南](../Page/張英南.md "wikilink")
   - [全慧珍](../Page/全慧珍.md "wikilink")
-  - [朴孝彬](../Page/朴孝彬.md "wikilink")
-  - [李素胤](../Page/李素胤.md "wikilink")
-  - [李秀卿](../Page/李秀卿.md "wikilink")
-  - [車善玗](../Page/車善玗.md "wikilink")
+  - [朴孝彬](https://zh.wikipedia.org/wiki/朴孝彬 "wikilink")
+  - [李素胤](https://zh.wikipedia.org/wiki/李素胤 "wikilink")
+  - [李秀卿](https://zh.wikipedia.org/wiki/李秀卿 "wikilink")
+  - [車善玗](https://zh.wikipedia.org/wiki/車善玗 "wikilink")
 
 ## 離開藝人
 
   - [朴喜洵](../Page/朴喜洵.md "wikilink")
   - [朴藝珍](../Page/朴藝珍.md "wikilink")
-  - [金高恩](../Page/金高恩.md "wikilink")
+  - [金高恩](https://zh.wikipedia.org/wiki/金高恩 "wikilink")
 
 ## 外部連結
 

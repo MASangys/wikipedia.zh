@@ -1,12 +1,12 @@
-是在2012年7月27日由[Yatagarasu發售的](../Page/Yatagarasu.md "wikilink")[Windows版](../Page/Windows.md "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。而[PlayStation
+是在2012年7月27日由[Yatagarasu發售的](https://zh.wikipedia.org/wiki/Yatagarasu "wikilink")[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。而[PlayStation
 Vita版](../Page/PlayStation_Vita.md "wikilink")《**古色迷宮輪舞曲 ～La Roue de
 fortune～**》則於2013年9月26日發售。
 
 ## 概要
 
-[Yatagarasu的第四部作品](../Page/Yatagarasu.md "wikilink")。本作品遊玩系統以選擇關鍵字代替一般用的選項，關鍵字為劇情進程中文本的紅色字，加上有命運度的限制(任何一人命運歸0則強制回滚游戏进程，劇情需要而歸0除外)，而且不能自由读档、存档。而該作品亦因它的難易度十分高而成為話題。 \[1\]此外，該遊戲獲選為《[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")》2012年的金獎。
+[Yatagarasu的第四部作品](https://zh.wikipedia.org/wiki/Yatagarasu "wikilink")。本作品遊玩系統以選擇關鍵字代替一般用的選項，關鍵字為劇情進程中文本的紅色字，加上有命運度的限制(任何一人命運歸0則強制回滚游戏进程，劇情需要而歸0除外)，而且不能自由读档、存档。而該作品亦因它的難易度十分高而成為話題。 \[1\]此外，該遊戲獲選為《[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")》2012年的金獎。
 
-[PSV版本於](../Page/PSV.md "wikilink")2012年12月14日公布將會發售\[2\]。其後於2013年6月24日公布『古色迷宮輪舞曲
+[PSV版本於](https://zh.wikipedia.org/wiki/PSV "wikilink")2012年12月14日公布將會發售\[2\]。其後於2013年6月24日公布『古色迷宮輪舞曲
 〜La Roue de fortune〜』將於2013年9月26日發售\[3\]。當中的追加要素為劇情中的事件CG和改善遊戲系統\[4\]。
 
 ## 簡介
@@ -67,7 +67,7 @@ fortune～**》則於2013年9月26日發售。
 
   - 雑賀 恭平（さいが きょうへい）
     聲優：古河徹人
-    行人的同級生兼朋友。一名[腐男子](../Page/腐男.md "wikilink")，喜歡同性戀小説。
+    行人的同級生兼朋友。一名[腐男子](https://zh.wikipedia.org/wiki/腐男 "wikilink")，喜歡同性戀小説。
 
 ## 主題曲
 
@@ -87,8 +87,8 @@ Vita版主題曲《迷宮之輪舞曲》由天道紅緒作曲、作詞、編曲�
 
 ## 評價
 
-本作在「[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")2012」中獲得程式獎的金獎。\[7\]另外PlayStation
-Vita版在《[ファミ通](../Page/ファミ通.md "wikilink")》1294号的クロスレビュー中獲得29/40評分。\[8\]
+本作在「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2012」中獲得程式獎的金獎。\[7\]另外PlayStation
+Vita版在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1294号的クロスレビュー中獲得29/40評分。\[8\]
 
 ## 參考資料
 

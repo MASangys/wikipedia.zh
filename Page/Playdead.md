@@ -1,4 +1,4 @@
-**Playdead**是一家成立于2006年的[电子游戏开发商](../Page/电子游戏开发商.md "wikilink")，公司位于[丹麦](../Page/丹麦.md "wikilink")[哥本哈根](../Page/哥本哈根.md "wikilink")。其开发的首款游戏《[地狱边境](../Page/地狱边境.md "wikilink")》获得了业界的高度评价。
+**Playdead**是一家成立于2006年的[电子游戏开发商](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")，公司位于[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")。其开发的首款游戏《[地狱边境](../Page/地狱边境.md "wikilink")》获得了业界的高度评价。
 
 2016年7月，创始人之一的Dino Patti离开Playdead，并在之后成立了新的游戏公司Jumpship。\[1\]
 
@@ -24,14 +24,14 @@ Limbo</p></td>
 2014年<small>（X1、Linux）</small><br />
 2015年<small>（Android、PS4）</small><br />
 2018年<small>（NS）</small></p></td>
-<td><p><a href="../Page/益智游戏.md" title="wikilink">益智</a>、<a href="../Page/平台游戏.md" title="wikilink">平台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/益智游戏" title="wikilink">益智</a>、<a href="../Page/平台游戏.md" title="wikilink">平台</a></p></td>
 <td><p><a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<br />
 <a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a>、<br />
-<a href="../Page/Windows.md" title="wikilink">Windows</a>、<a href="../Page/OS_X.md" title="wikilink">OS X</a>、<a href="../Page/Linux.md" title="wikilink">Linux</a>、<br />
-<a href="../Page/Steam_OS.md" title="wikilink">Steam OS</a>、<a href="../Page/iOS.md" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>、<br />
-<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a>、<a href="https://zh.wikipedia.org/wiki/OS_X" title="wikilink">OS X</a>、<a href="../Page/Linux.md" title="wikilink">Linux</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/Steam_OS" title="wikilink">Steam OS</a>、<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
 <td><p>PlayStation Vita、Xbox One和PlayStation 4由英国工作室负责移植[2]<br />
-Xbox 360版由<a href="../Page/微软工作室.md" title="wikilink">微软工作室发行</a>[3]</p></td>
+Xbox 360版由<a href="https://zh.wikipedia.org/wiki/微软工作室" title="wikilink">微软工作室发行</a>[3]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Inside_(游戏).md" title="wikilink">Inside</a></p></td>

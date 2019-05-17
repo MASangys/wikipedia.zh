@@ -4,7 +4,7 @@
 [Park_YOHO_Fairyland_overview1_2017.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Fairyland_overview1_2017.jpg "fig:Park_YOHO_Fairyland_overview1_2017.jpg")
 
 **Park YOHO**，前稱**Acappella**、**峻巒**（英文：**Park
-Vista**）\[1\]，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗區](../Page/元朗區.md "wikilink")[錦田北](../Page/錦田.md "wikilink")[沙埔](../Page/沙埔.md "wikilink")[青山公路潭尾段](../Page/青山公路.md "wikilink")18號，是[新鴻基地產的大型中密度住宅項目](../Page/新鴻基地產.md "wikilink")，由[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")。
+Vista**）\[1\]，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗區](../Page/元朗區.md "wikilink")[錦田北](../Page/錦田.md "wikilink")[沙埔](https://zh.wikipedia.org/wiki/沙埔 "wikilink")[青山公路潭尾段](../Page/青山公路.md "wikilink")18號，是[新鴻基地產的大型中密度住宅項目](../Page/新鴻基地產.md "wikilink")，由[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")。
 
 物業於2014年開始興建，2016年10月至2018年分階段落成。示範單位設於[環球貿易廣場及現樓](../Page/環球貿易廣場.md "wikilink")。
 
@@ -27,7 +27,7 @@ Park YOHO是現時項目的唯一名稱。
 [Park_Yoho_Venezia_Garden_201706.jpg](https://zh.wikipedia.org/wiki/File:Park_Yoho_Venezia_Garden_201706.jpg "fig:Park_Yoho_Venezia_Garden_201706.jpg")
 住宅共設兩期，涉31座，提供逾3,000伙單位。第1期分為3部份發展。1A期涵蓋第9至第11座，涉362伙，包括2房及3房單位；1B期PARK
 YOHO Venezia涵蓋第2座、3座及第5至7座，涉499伙，包括1房至3房單位，設歐陸式園林及湖景；1C期PARK YOHO
-Sicilia前方為私人[濕地](../Page/濕地.md "wikilink")，故以[意大利](../Page/意大利.md "wikilink")[西西里島作命名](../Page/西西里島.md "wikilink")；僅涉1座，佔166伙，包括開放式至3房單位，而各期的地下及頂層均設特色單位。
+Sicilia前方為私人[濕地](https://zh.wikipedia.org/wiki/濕地 "wikilink")，故以[意大利](../Page/意大利.md "wikilink")[西西里島作命名](https://zh.wikipedia.org/wiki/西西里島 "wikilink")；僅涉1座，佔166伙，包括開放式至3房單位，而各期的地下及頂層均設特色單位。
 \[5\]
 
 第2A期PARK YOHO
@@ -57,7 +57,7 @@ Fairyland view1 2017.jpg|「候花園」內設資訊台 <File:Park> YOHO Fairyla
 Park YOHO設兩個會所，面積逾12萬呎，原稱Club Vista以及Club Vista LUXE。到2016年6月改名為Club
 COMO以及Club GARDA，連同公用花園及遊樂休憩場地，室內外總面積約為76萬方呎。\[10\]
 
-會所提供超過70項設施。當中泳池有6個，包括室內、外泳池，最大泳池長50米，同時，會所亦設有水動[健身室及繽紛水世界](../Page/健身室.md "wikilink")。設施包括5間宴會廳、2個大型健身室、4間餐廳、蒸氣及桑拿浴室、閱讀室、環巒跑步徑、兒童天地、健身站、愛寵樂園、育嬰室、大型草地、真草地網球場、單車站及[燒烤庭園等](../Page/燒烤.md "wikilink")。其中提供露營設施的「營樂園」有兩棵寓意長壽吉祥的巨型榕樹。
+會所提供超過70項設施。當中泳池有6個，包括室內、外泳池，最大泳池長50米，同時，會所亦設有水動[健身室及繽紛水世界](https://zh.wikipedia.org/wiki/健身室 "wikilink")。設施包括5間宴會廳、2個大型健身室、4間餐廳、蒸氣及桑拿浴室、閱讀室、環巒跑步徑、兒童天地、健身站、愛寵樂園、育嬰室、大型草地、真草地網球場、單車站及[燒烤庭園等](../Page/燒烤.md "wikilink")。其中提供露營設施的「營樂園」有兩棵寓意長壽吉祥的巨型榕樹。
 
 另設有三間別墅大屋供住戶使用，備學廚及室內鐵板燒設備。\[11\]
 
@@ -87,7 +87,7 @@ Club GARDA Enchanted Park 2017.jpg|會所外的中央草地
 ## 商場
 
 廣場Park Circle\[12\]
-以街舖為主，面積約7.5萬呎，共15間舖位，設[7-11便利店](../Page/7-11便利店.md "wikilink")、Fusion超級市場、[759阿信屋](../Page/759阿信屋.md "wikilink")、個人護理店[屈臣氏](../Page/屈臣氏.md "wikilink")、元朗正記小廚、Pet
+以街舖為主，面積約7.5萬呎，共15間舖位，設[7-11便利店](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")、Fusion超級市場、[759阿信屋](../Page/759阿信屋.md "wikilink")、個人護理店[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")、元朗正記小廚、Pet
 pet shop、Beauty plus、[大班麵包西餅及面積近](../Page/大班麵包西餅.md "wikilink")1萬平方呎York
 約克幼稚園。商場於2016年尾開幕。整個商場每月總租金涉約100萬，每呎約30至40元。\[13\]
 
@@ -97,49 +97,47 @@ pet shop、Beauty plus、[大班麵包西餅及面積近](../Page/大班麵包�
 
 [Park_YOHO_Bus_Terminal_201706.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Bus_Terminal_201706.jpg "fig:Park_YOHO_Bus_Terminal_201706.jpg")
 第1期地庫設交通交匯處，設巴士站，小巴站，的士站及過境巴士及Park YOHO住戶專用的貴賓候車室。發展商提供穿梭巴士來往屋苑至[YOHO
-MALL及](../Page/YOHO_MALL.md "wikilink")[九龍站](../Page/九龍站_\(港鐵\).md "wikilink")[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")。Park
-YOHO住戶日後亦可透過手機程式，查詢附近交通工具來往時間。\[14\]另外，《2016-2017年度巴士路線計劃》亦建議將[九龍巴士68F線的循環點延長至該處](../Page/九龍巴士68F線.md "wikilink")，並於2016年11月1日起實施，成為第一條駛入Park
+MALL及](https://zh.wikipedia.org/wiki/YOHO_MALL "wikilink")[九龍站](../Page/九龍站_\(港鐵\).md "wikilink")[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")。Park
+YOHO住戶日後亦可透過手機程式，查詢附近交通工具來往時間。\[14\]另外，《2016-2017年度巴士路線計劃》亦建議將[九龍巴士68F線的循環點延長至該處](https://zh.wikipedia.org/wiki/九龍巴士68F線 "wikilink")，並於2016年11月1日起實施，成為第一條駛入Park
 YOHO交通總匯的專營巴士路線\[15\]，第二條的巴士線68作為68F線的短途旅次，於2018年11月開辦，藉此加強屋苑接駁港鐵元朗站之服務。
 
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFF00; margin: 0 auto; padding: 0 10px; text-align: left;">
+<table>
+<thead>
+<tr class="header">
+<th><p>交通路線列表</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><dl>
+<dt><a href="../Page/青山公路.md" title="wikilink">青山公路</a> – <a href="https://zh.wikipedia.org/wiki/潭尾" title="wikilink">潭尾段</a></dt>
 
-<div class="NavHead" style="background-color: #FFFF00; margin: 0 auto; padding: 0 10px; font-weight:normal;">
+</dl>
+<dl>
+<dt><a href="https://zh.wikipedia.org/wiki/紅色小巴" title="wikilink">紅色小巴</a></dt>
 
-**交通路線列表**
+</dl>
+<ul>
+<li>元朗至上水線[16]</li>
+</ul>
+<dl>
+<dt><a href="https://zh.wikipedia.org/wiki/新潭路" title="wikilink">新潭路</a></dt>
 
-</div>
+</dl>
+<dl>
+<dt><a href="https://zh.wikipedia.org/wiki/紅色小巴" title="wikilink">紅色小巴</a></dt>
 
-<div class="NavContent" style="background-color: #FFFF00; margin: 0 auto; padding: 0 10px;">
-
-  - [青山公路](../Page/青山公路.md "wikilink") – [潭尾段](../Page/潭尾.md "wikilink")
-
-<!-- end list -->
-
-  - [紅色小巴](../Page/紅色小巴.md "wikilink")
-
-<!-- end list -->
-
-  - 元朗至上水線\[16\]
-
-<!-- end list -->
-
-  - [新潭路](../Page/新潭路.md "wikilink")
-
-<!-- end list -->
-
-  - [紅色小巴](../Page/紅色小巴.md "wikilink")
-
-<!-- end list -->
-
-  - 元朗至上水線
-
-</div>
-
-</div>
+</dl>
+<ul>
+<li>元朗至上水線</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ## 環境隱憂
 
-錦田河本身亦存在污染問題，沿河集水區一帶是新界主要豬隻飼養的所在地，每日不少豬糞被非法沖洗入河中，做成河水含[菌量過高](../Page/細菌.md "wikilink")，臭味以夏天最為嚴重。\[17\]
+錦田河本身亦存在污染問題，沿河集水區一帶是新界主要豬隻飼養的所在地，每日不少豬糞被非法沖洗入河中，做成河水含[菌量過高](https://zh.wikipedia.org/wiki/細菌 "wikilink")，臭味以夏天最為嚴重。\[17\]
 此外，物業與架空電纜相近，部分人士擔心對健康有影響。而物業保育區內有水塘，夏天或引起蚊患。\[18\]
 
 根據樓書，Park YOHO 1A與Park YOHO
@@ -156,9 +154,9 @@ construction in March 2015.jpg|2015年3月 <File:Park> Vista
   - [錦田河](../Page/錦田河.md "wikilink")
   - 架空電纜
   - [南生圍](../Page/南生圍.md "wikilink")
-  - [沙埔村](../Page/沙埔村.md "wikilink")
-  - [長春新村](../Page/長春新村.md "wikilink")
-  - [漁護處漁業研究站](../Page/漁護處.md "wikilink")
+  - [沙埔村](https://zh.wikipedia.org/wiki/沙埔村 "wikilink")
+  - [長春新村](https://zh.wikipedia.org/wiki/長春新村 "wikilink")
+  - [漁護處漁業研究站](https://zh.wikipedia.org/wiki/漁護處 "wikilink")
 
 ## 相關條目
 

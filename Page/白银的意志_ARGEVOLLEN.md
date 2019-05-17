@@ -1,10 +1,10 @@
 《**白银的意志
-ARGEVOLLEN**》（），是日本於2014年7月播放的原创[电视动画](../Page/电视动画.md "wikilink")。
+ARGEVOLLEN**》（），是日本於2014年7月播放的原创[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。
 
 ## 概要
 
 2014年3月22日，WARNER公司在AnimeJapan
-2014的舞台活动中公布了作为原创[机器人动画的本作将从](../Page/机器人动画.md "wikilink")2014年夏天播放的消息\[1\]\[2\]。
+2014的舞台活动中公布了作为原创[机器人动画的本作将从](https://zh.wikipedia.org/wiki/机器人动画 "wikilink")2014年夏天播放的消息\[1\]\[2\]。
 
 ## 登場人物
 
@@ -14,7 +14,7 @@ ARGEVOLLEN**》（），是日本於2014年7月播放的原创[电视动画](../
     本作的主角。獨立第八部隊的新兵。20歲。軍階是上等兵。第一次戰鬥時幫助了被英格米爾軍追擊的民間貨車，並依照吉米的指示操縱新型的機械戰騎，從此成為銀色歼灭者(Argevollen)專屬的操縱者。
     有張樸實的臉，數次違反指令且與部隊的部隊發生衝突，有著希望挽救別人生命的強烈情感。
     在8年前的事故中失去了姊姊，想在軍隊中找出當年事故的真相。
-  - （聲：[大西沙織](../Page/大西沙織.md "wikilink")）
+  - （聲：[大西沙織](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")）
     本作的女主角。民間企業Akysbernes製造公司
     的技術員。20歲。負責管理奧堅弗倫，作為一個菜鳥技術員，經常陷入焦慮中，在英格米爾攻擊中的倖存者，因此與奧堅弗倫和第八獨立部隊同行。
 
@@ -184,7 +184,7 @@ TOURMALIA 
   -
 
       -
-        作詞、主唱：[KOTOKO](../Page/KOTOKO.md "wikilink")，作曲、編曲：
+        作詞、主唱：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：
         第1話作片尾曲使用。
 
 :; 「ZoNE-iT」（第17－23話）
@@ -192,7 +192,7 @@ TOURMALIA 
   -
 
       -
-        作詞、主唱：[KOTOKO](../Page/KOTOKO.md "wikilink")，作曲、編曲：齋藤真也
+        作詞、主唱：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：齋藤真也
         第24話作插曲使用。
 
 <!-- end list -->
@@ -222,7 +222,7 @@ TOURMALIA 
   -
 
       -
-        作詞、主唱：[KOTOKO](../Page/KOTOKO.md "wikilink")，作曲、編曲：Kon-K
+        作詞、主唱：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：Kon-K
 
 ### 各話列表
 
@@ -530,7 +530,7 @@ Lee Donglk、野本正幸</p></td>
 
   -
     2014年6月25日至2015年1月28日在HiBiKi Radio
-    Station上播放的网络广播剧。周三更新。[大西沙织和](../Page/大西沙織.md "wikilink")[爱美负责播音](../Page/愛美.md "wikilink")
+    Station上播放的网络广播剧。周三更新。[大西沙织和](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")[爱美负责播音](../Page/愛美.md "wikilink")
     \[3\]。
 
 ## 参考资料

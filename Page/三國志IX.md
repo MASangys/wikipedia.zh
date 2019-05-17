@@ -1,4 +1,4 @@
-是一款由[光荣公司制作的历史类游戏](../Page/光榮公司.md "wikilink")。本游戏为[三国志系列的第九代作品](../Page/三国志系列.md "wikilink")。本游戏于2003年12月20日在[PlayStation
+是一款由[光荣公司制作的历史类游戏](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")。本游戏为[三国志系列的第九代作品](https://zh.wikipedia.org/wiki/三国志系列 "wikilink")。本游戏于2003年12月20日在[PlayStation
 2日本地区发行](../Page/PlayStation_2.md "wikilink")，于2004年2月24日在PlayStation
 2北美地区发行。\[1\]栗山和樹編曲音樂。
 
@@ -29,7 +29,7 @@ Metacritic根据17个评论者的结果给与74/100的分数。\[2\]
   - 周瑜二分天下　210年10月　
   - 曹家分裂　220年1月　
   - 西蜀動亂　264年1月　
-  - 超・三國志　208年1月　(根據[反三國演義](../Page/反三國演義.md "wikilink"))
+  - 超・三國志　208年1月　(根據[反三國演義](https://zh.wikipedia.org/wiki/反三國演義 "wikilink"))
   - 英雄集結　281年1月
 
 ## 参考资料

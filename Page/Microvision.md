@@ -20,7 +20,8 @@ Microvision共推出12款遊戲\[3\]。
   - 1979年
       - *Block Buster*（打磚塊遊戲、隨主機推出）\[4\]
       - *Bowling*（保齡球、隨主機推出）\[5\]
-      - *Connect Four*（[四子棋](../Page/屏風式四子棋.md "wikilink")、隨主機推出）\[6\]
+      - *Connect
+        Four*（[四子棋](https://zh.wikipedia.org/wiki/屏風式四子棋 "wikilink")、隨主機推出）\[6\]
       - *Pinball*（[彈珠台](../Page/彈珠台.md "wikilink")、隨主機推出）\[7\]
       - *Mindbuster*（智力遊戲）\[8\]
       - *Star Trek: Phaser Strike*（後期改稱*Phaser Strike*，另外亦稱*Shooting

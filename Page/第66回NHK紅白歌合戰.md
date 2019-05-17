@@ -1,4 +1,4 @@
-**第66回[NHK紅白歌合戰](../Page/NHK紅白歌合戰.md "wikilink")**（），於2015年（[平成](../Page/平成.md "wikilink")27年）12月31日（[JST](../Page/日本標準時間.md "wikilink")）晚19:15在[NHK音樂廳以](../Page/NHK音樂廳.md "wikilink")[現場直播的方式舉行](../Page/現場直播.md "wikilink")。
+**第66回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（），於2015年（[平成](../Page/平成.md "wikilink")27年）12月31日（[JST](../Page/日本標準時間.md "wikilink")）晚19:15在[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播的方式舉行](../Page/現場直播.md "wikilink")。
 
 ## 概要
 
@@ -8,24 +8,24 @@
     NHK放送總局局長板野裕爾在定期記者會上公佈節目播出時間。
   - 2015年11月18日
     公佈直播當天的第二聲道「紅白幕後Talk
-    Channel」及播出前的宣傳節目「紅白宣傳部」的主持人，為連續兩年擔任的二人搞笑組合「[香蕉人](../Page/香蕉人.md "wikilink")」（[設樂統及](../Page/設樂統.md "wikilink")[日村勇紀](../Page/日村勇紀.md "wikilink")）\[1\]。
+    Channel」及播出前的宣傳節目「紅白宣傳部」的主持人，為連續兩年擔任的二人搞笑組合「[香蕉人](../Page/香蕉人.md "wikilink")」（[設樂統及](../Page/設樂統.md "wikilink")[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")）\[1\]。
 
 <!-- end list -->
 
   - 2015年11月26日
     在記者會上正式公佈獲出場的歌手及組合及本年度的主持人名單。紅組主持人是[綾瀨遙](../Page/綾瀨遙.md "wikilink")，白組主持人是[V6的](../Page/V6_\(偶像團體\).md "wikilink")[井之原快彥](../Page/井之原快彥.md "wikilink")\[2\]，而綜合主持人是[黑柳徹子和NHK主播](../Page/黑柳徹子.md "wikilink")[有働由美子](../Page/有働由美子.md "wikilink")\[3\]。
     另外，今年的主題為「**這就是日本\!
-    這就是紅白\!**」，同時發表由[田邊誠一所設計](../Page/田邊誠一.md "wikilink")、本年度的的識別[標誌](../Page/標誌.md "wikilink")。
+    這就是紅白\!**」，同時發表由[田邊誠一所設計](../Page/田邊誠一.md "wikilink")、本年度的的識別[標誌](https://zh.wikipedia.org/wiki/標誌 "wikilink")。
 
 <!-- end list -->
 
   - 2015年12月17日
-    引入為[智慧型手機專用的](../Page/智慧型手機.md "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")，並開始使用\[4\]。
+    引入為[智慧型手機專用的](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")，並開始使用\[4\]。
 
 <!-- end list -->
 
   - 2015年12月18日
-    首次推出特別企劃「動画紅白」\[5\]，選用了《[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")》中的[櫻桃子及](../Page/櫻桃小丸子角色列表#櫻家.md "wikilink")《[妖怪手錶](../Page/妖怪手錶系列.md "wikilink")》中的威斯帕作為紅、白雙方的動漫主持人。
+    首次推出特別企劃「動画紅白」\[5\]，選用了《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》中的[櫻桃子及](https://zh.wikipedia.org/wiki/櫻桃小丸子角色列表#櫻家 "wikilink")《[妖怪手錶](../Page/妖怪手錶系列.md "wikilink")》中的威斯帕作為紅、白雙方的動漫主持人。
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   - 2015年12月24日
-    公布出場次序\[7\]，當中[松田聖子連續兩年成為總壓軸](../Page/松田聖子.md "wikilink")，白組壓軸為[近藤真彥](../Page/近藤真彥.md "wikilink")\[8\]，獲選理由為兩人均出道35周年。
+    公布出場次序\[7\]，當中[松田聖子連續兩年成為總壓軸](../Page/松田聖子.md "wikilink")，白組壓軸為[近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")\[8\]，獲選理由為兩人均出道35周年。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 <!-- end list -->
 
   - 2015年12月29、30日
-    節目[彩排](../Page/彩排.md "wikilink")。
+    節目[彩排](https://zh.wikipedia.org/wiki/彩排 "wikilink")。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - [綾瀨遙](../Page/綾瀨遙.md "wikilink")（2014年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[八重之櫻](../Page/八重之櫻.md "wikilink")》、2016年大河奇幻劇《[精靈守護者](../Page/精靈守護者.md "wikilink")》女主角）
+  - [綾瀨遙](../Page/綾瀨遙.md "wikilink")（2014年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[八重之櫻](../Page/八重之櫻.md "wikilink")》、2016年大河奇幻劇《[精靈守護者](https://zh.wikipedia.org/wiki/精靈守護者 "wikilink")》女主角）
 
 <!-- end list -->
 
@@ -93,25 +93,25 @@
 
 共10人。
 
-  - [有村架純](../Page/有村架純.md "wikilink")：[演員](../Page/演員.md "wikilink")，明年上映的[電影](../Page/電影.md "wikilink")《夏美的螢火蟲》（）中擔任主角
+  - [有村架純](../Page/有村架純.md "wikilink")：[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，明年上映的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《夏美的螢火蟲》（）中擔任主角
 
-  - [上橋菜穗子](../Page/上橋菜穗子.md "wikilink")：[作家](../Page/作家.md "wikilink")、特任[教授](../Page/教授.md "wikilink")，本年憑《鹿王》獲得了第12屆[書店大獎中第](../Page/書店大獎.md "wikilink")1位。
+  - [上橋菜穗子](../Page/上橋菜穗子.md "wikilink")：[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、特任[教授](../Page/教授.md "wikilink")，本年憑《鹿王》獲得了第12屆[書店大獎中第](https://zh.wikipedia.org/wiki/書店大獎 "wikilink")1位。
 
-  - [大泉洋](../Page/大泉洋.md "wikilink")：本年NHK[連續電視小說](../Page/連續電視小說.md "wikilink")《[小希](../Page/小希.md "wikilink")》及明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[真田丸](../Page/真田丸.md "wikilink")》中均有主要角色
+  - [大泉洋](../Page/大泉洋.md "wikilink")：本年NHK[連續電視小說](../Page/連續電視小說.md "wikilink")《[小希](https://zh.wikipedia.org/wiki/小希 "wikilink")》及明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[真田丸](../Page/真田丸.md "wikilink")》中均有主要角色
 
-  - [堺雅人](../Page/堺雅人.md "wikilink")：演員、明年NHK大河劇《真田丸》中擔任[男主角](../Page/主角.md "wikilink")
+  - [堺雅人](../Page/堺雅人.md "wikilink")：演員、明年NHK大河劇《真田丸》中擔任[男主角](https://zh.wikipedia.org/wiki/主角 "wikilink")
 
   - [土屋太鳳](../Page/土屋太鳳.md "wikilink")：演員，本年NHK連續電視小說《小希》主演
 
-  - ：演員、[創作歌手](../Page/創作歌手.md "wikilink")、[主持人及](../Page/主持人.md "wikilink")[電台](../Page/電台.md "wikilink")[DJ](../Page/DJ.md "wikilink")
+  - ：演員、[創作歌手](../Page/創作歌手.md "wikilink")、[主持人及](https://zh.wikipedia.org/wiki/主持人 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")
 
-  - [長澤雅美](../Page/長澤雅美.md "wikilink")：演員、明年NHK大河劇《真田丸》中擔任主要角色
+  - [長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")：演員、明年NHK大河劇《真田丸》中擔任主要角色
 
-  - [羽生結弦](../Page/羽生結弦.md "wikilink")：[花式溜冰選手](../Page/花式溜冰.md "wikilink")
+  - [羽生結弦](https://zh.wikipedia.org/wiki/羽生結弦 "wikilink")：[花式溜冰選手](https://zh.wikipedia.org/wiki/花式溜冰 "wikilink")
 
-  - [又吉直樹](../Page/又吉直樹.md "wikilink")：[搞笑藝人](../Page/搞笑藝人.md "wikilink")，今年以作家身份推出首部[小說](../Page/小說.md "wikilink")《[火花](../Page/火花_\(小説\).md "wikilink")》，並憑此獲得[芥川龍之介獎](../Page/芥川龍之介獎.md "wikilink")
+  - [又吉直樹](../Page/又吉直樹.md "wikilink")：[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，今年以作家身份推出首部[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[火花](https://zh.wikipedia.org/wiki/火花_\(小説\) "wikilink")》，並憑此獲得[芥川龍之介獎](../Page/芥川龍之介獎.md "wikilink")
 
-  - [三宅宏實](../Page/三宅宏實.md "wikilink")：女子[舉重](../Page/舉重.md "wikilink")[運動員](../Page/運動員.md "wikilink")，2016年將連續第4次參與[奧運](../Page/奧運.md "wikilink")
+  - [三宅宏實](https://zh.wikipedia.org/wiki/三宅宏實 "wikilink")：女子[舉重](https://zh.wikipedia.org/wiki/舉重 "wikilink")[運動員](https://zh.wikipedia.org/wiki/運動員 "wikilink")，2016年將連續第4次參與[奧運](https://zh.wikipedia.org/wiki/奧運 "wikilink")
 
 ### [阿淺來了紅白特別篇](../Page/阿淺來了.md "wikilink")
 
@@ -144,7 +144,7 @@
 
 <!-- end list -->
 
-  - [松下奈緒](../Page/松下奈緒.md "wikilink")：演員，2010年NHK連續電視小說《[鬼太郎之妻](../Page/鬼太郎之妻#電視劇.md "wikilink")》中飾演[武良布枝](../Page/武良布枝.md "wikilink")（於[生物股長演出前](../Page/生物股長.md "wikilink")）。
+  - [松下奈緒](../Page/松下奈緒.md "wikilink")：演員，2010年NHK連續電視小說《[鬼太郎之妻](https://zh.wikipedia.org/wiki/鬼太郎之妻#電視劇 "wikilink")》中飾演[武良布枝](https://zh.wikipedia.org/wiki/武良布枝 "wikilink")（於[生物股長演出前](https://zh.wikipedia.org/wiki/生物股長 "wikilink")）。
   - 日本女子[七人欖球隊](../Page/七人制橄欖球.md "wikilink")：將出戰[2016年夏季奧林匹克運動會的團隊](../Page/2016年夏季奧林匹克運動會.md "wikilink")（於[冰川清志演出前](../Page/冰川清志.md "wikilink")）。
   - [吉永小百合](../Page/吉永小百合.md "wikilink")：為紀念二戰結束70周年，於預錄片段中宣揚反戰的信息（於[MISIA演出前](../Page/MISIA.md "wikilink")）。
 
@@ -171,7 +171,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><strong><a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -179,11 +179,11 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><strong><a href="../Page/乃木坂46.md" title="wikilink">乃木坂46</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><a href="../Page/E-girls.md" title="wikilink">E-girls</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/E-girls" title="wikilink">E-girls</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>特別企劃「動漫紅白」</strong><br />
-<strong>（紅組主持人：<a href="../Page/綾瀨遙.md" title="wikilink">綾瀨遙</a>、<a href="../Page/櫻桃小丸子角色列表#櫻家.md" title="wikilink">櫻桃子</a>、白組主持人：<a href="../Page/井之原快彥.md" title="wikilink">井之原快彥</a>、<a href="../Page/妖怪手錶系列.md" title="wikilink">威斯帕</a>）</strong><br />
+<strong>（紅組主持人：<a href="../Page/綾瀨遙.md" title="wikilink">綾瀨遙</a>、<a href="https://zh.wikipedia.org/wiki/櫻桃小丸子角色列表#櫻家" title="wikilink">櫻桃子</a>、白組主持人：<a href="../Page/井之原快彥.md" title="wikilink">井之原快彥</a>、<a href="../Page/妖怪手錶系列.md" title="wikilink">威斯帕</a>）</strong><br />
 </p>
 <table>
 <thead>
@@ -213,16 +213,16 @@
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p><a href="../Page/miwa.md" title="wikilink">miwa</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a><br />
 <a href="../Page/石川小百合.md" title="wikilink">石川小百合</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="../Page/E-girls.md" title="wikilink">E-girls</a><br />
-<a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/E-girls" title="wikilink">E-girls</a><br />
+<a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/V6.md" title="wikilink">V6</a>、動漫紅白出場歌手<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a>、動漫紅白出場歌手<br />
 － <a href="../Page/铁臂阿童木.md" title="wikilink">铁臂阿童木</a>（<a href="../Page/铁臂阿童木.md" title="wikilink">铁臂阿童木</a>）</p></td>
 <td></td>
 </tr>
@@ -232,7 +232,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><strong><a href="../Page/μ&#39;s.md" title="wikilink">μ's</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/μ&#39;s" title="wikilink">μ's</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
@@ -248,7 +248,7 @@
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p><a href="../Page/miwa.md" title="wikilink">miwa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a></p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -256,7 +256,7 @@
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>後半</p></td>
@@ -276,11 +276,11 @@
 </tr>
 <tr class="even">
 <td><p>29</p></td>
-<td><p><a href="../Page/生物股長.md" title="wikilink">生物股長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>特別環節「這就是・SHOWTIME ～向星星許願～」<br />
-井之原快彥、綾瀨遙、V6、<a href="../Page/Perfume.md" title="wikilink">Perfume</a>、迪斯尼的好朋友</p></td>
+井之原快彥、綾瀨遙、V6、<a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a>、迪斯尼的好朋友</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -296,7 +296,7 @@
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>震災五周年特別企畫「花正在開」（<a href="../Page/羽生結弦.md" title="wikilink">羽生結弦</a>、<a href="../Page/YOSHIKI.md" title="wikilink">YOSHIKI</a>、<a href="../Page/櫻井翔.md" title="wikilink">櫻井翔</a>、紅白出場歌手）</p></td>
+<td><p>震災五周年特別企畫「花正在開」（<a href="https://zh.wikipedia.org/wiki/羽生結弦" title="wikilink">羽生結弦</a>、<a href="https://zh.wikipedia.org/wiki/YOSHIKI" title="wikilink">YOSHIKI</a>、<a href="../Page/櫻井翔.md" title="wikilink">櫻井翔</a>、紅白出場歌手）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -305,7 +305,7 @@
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
-<td><p><a href="../Page/西野加奈.md" title="wikilink">西野加奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西野加奈" title="wikilink">西野加奈</a></p></td>
 </tr>
 <tr class="even">
 <td><p>39</p></td>
@@ -313,7 +313,7 @@
 </tr>
 <tr class="odd">
 <td><p>42</p></td>
-<td><p><a href="../Page/Perfume.md" title="wikilink">Perfume</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 </tr>
 <tr class="even">
 <td><p>「這就是日本! 這就是紅白!」特別企劃<br />
@@ -351,7 +351,7 @@
 
 ## 收视率
 
-上半部分[日本关东地区的平均收视率为](../Page/关东地方.md "wikilink")34.8%，下半部分为39.2%，创下《红白》开播以来历史最低记录\[14\]。
+上半部分[日本关东地区的平均收视率为](https://zh.wikipedia.org/wiki/关东地方 "wikilink")34.8%，下半部分为39.2%，创下《红白》开播以来历史最低记录\[14\]。
 
 ## 參考資料
 

@@ -1,7 +1,7 @@
 《**The
-Moment**》是[香港](../Page/香港.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")[Supper
-Moment的第六張](../Page/Supper_Moment.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，原定於2015年推出，後因印刷問題而延至翌年推出。專輯收錄了[Supper
-Moment在](../Page/Supper_Moment.md "wikilink")2015年的所有派台歌曲，但曲目並沒有按派台次序排列。
+Moment**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[Supper
+Moment的第六張](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，原定於2015年推出，後因印刷問題而延至翌年推出。專輯收錄了[Supper
+Moment在](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")2015年的所有派台歌曲，但曲目並沒有按派台次序排列。
 
 ## 曲目
 
@@ -14,14 +14,18 @@ Moment在](../Page/Supper_Moment.md "wikilink")2015年的所有派台歌曲，�
 
 ## 專輯班底
 
-  - 全碟作曲：[Supper Moment](../Page/Supper_Moment.md "wikilink")
-  - 全碟填詞：[Supper Moment](../Page/Supper_Moment.md "wikilink")
-  - 全碟編曲：[Supper Moment](../Page/Supper_Moment.md "wikilink")、[Adrian
-    Chan](../Page/Adrian_Chan.md "wikilink")（曲目二、三由[Supper
-    Moment自行編曲](../Page/Supper_Moment.md "wikilink")；曲目五與[Bert合編](../Page/梁可耀.md "wikilink")；曲目六由[Supper
-    Moment與](../Page/Supper_Moment.md "wikilink")[Bert合編](../Page/梁可耀.md "wikilink")）
-  - 全碟監製：[Adrian Chan](../Page/Adrian_Chan.md "wikilink")（曲目六與[Supper
-    Moment共同監製](../Page/Supper_Moment.md "wikilink")）
+  - 全碟作曲：[Supper
+    Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+  - 全碟填詞：[Supper
+    Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+  - 全碟編曲：[Supper
+    Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[Adrian
+    Chan](https://zh.wikipedia.org/wiki/Adrian_Chan "wikilink")（曲目二、三由[Supper
+    Moment自行編曲](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")；曲目五與[Bert合編](../Page/梁可耀.md "wikilink")；曲目六由[Supper
+    Moment與](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")[Bert合編](../Page/梁可耀.md "wikilink")）
+  - 全碟監製：[Adrian
+    Chan](https://zh.wikipedia.org/wiki/Adrian_Chan "wikilink")（曲目六與[Supper
+    Moment共同監製](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")）
 
 ## 專輯派台歌曲成績
 

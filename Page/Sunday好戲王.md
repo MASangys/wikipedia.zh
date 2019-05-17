@@ -1,4 +1,4 @@
-《**Sunday好戲王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司繼](../Page/電視廣播有限公司.md "wikilink")《[Sunday扮嘢王](../Page/Sunday扮嘢王.md "wikilink")》、《[Sunday靚聲王](../Page/Sunday靚聲王.md "wikilink")》後延續週日「王者」系列的全新遊戲節目。由[森美](../Page/森美.md "wikilink")、[陳敏之擔任主持](../Page/陳敏之.md "wikilink")，於2016年1月17日起，逢星期日20:30-21:30於[翡翠台播出](../Page/翡翠台.md "wikilink")，並於[myTV提供節目重溫](../Page/myTV.md "wikilink")。
+《**Sunday好戲王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司繼](../Page/電視廣播有限公司.md "wikilink")《[Sunday扮嘢王](../Page/Sunday扮嘢王.md "wikilink")》、《[Sunday靚聲王](../Page/Sunday靚聲王.md "wikilink")》後延續週日「王者」系列的全新遊戲節目。由[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[陳敏之擔任主持](../Page/陳敏之.md "wikilink")，於2016年1月17日起，逢星期日20:30-21:30於[翡翠台播出](../Page/翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 節目簡介
 
@@ -6,7 +6,7 @@
 
 《Sunday好戲王》由主持森美、陳敏之坐鎮，每星期召集四位「好戲王」駕臨。TVB藝員多才多藝，四位嘉賓會先來一個維肖維炒的「扮嘢熱身賽」，展示出場「戲勢」！他們接着會接受多個「鬥戲」挑戰，包括「我係大話精」、「七情上面報新聞」、「我對手唔係人」、「認真谷戲」、「扮Friend食老虎」、「講一套做一套」，以無比「戲力」、深厚「戲功」博取嘉賓評判的歡心，爭奪每個回合的豐富獎品。
 
-此外，TVB戲劇組臥虎藏龍，好些在電視劇中未必顯眼的[綠葉角色和](../Page/綠葉演員.md "wikilink")[甘草角色](../Page/甘草演員.md "wikilink")，都起着不可或缺的作用。節目特別向這群「另類好戲王」致敬，加深劇迷對他們的認識。另外，一班近年畢業的藝訓班同學亦會帶來歌唱、舞蹈等不同表演，展示潛藏體內的演藝天份，為每集節目暖場，率先掀起激烈「戲氛」！
+此外，TVB戲劇組臥虎藏龍，好些在電視劇中未必顯眼的[綠葉角色和](https://zh.wikipedia.org/wiki/綠葉演員 "wikilink")[甘草角色](../Page/甘草演員.md "wikilink")，都起着不可或缺的作用。節目特別向這群「另類好戲王」致敬，加深劇迷對他們的認識。另外，一班近年畢業的藝訓班同學亦會帶來歌唱、舞蹈等不同表演，展示潛藏體內的演藝天份，為每集節目暖場，率先掀起激烈「戲氛」！
 
 ## 每集內容
 
@@ -23,8 +23,8 @@
 <td><p>01</p></td>
 <td><p>1月17日</p></td>
 <td><p><a href="../Page/薛家燕.md" title="wikilink">薛家燕</a></p></td>
-<td><p><a href="../Page/姚子羚.md" title="wikilink">姚子羚</a>、<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="../Page/黃智賢_(香港).md" title="wikilink">黃智賢</a>、<a href="../Page/楊詩敏.md" title="wikilink">蝦頭</a></p></td>
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="../Page/黃智賢_(香港).md" title="wikilink">黃智賢</a>、<a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">蝦頭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a><br />
 (師奶王)</p></td>
 </tr>
 <tr class="odd">
@@ -47,7 +47,7 @@
 <td><p>04</p></td>
 <td><p>2月7日</p></td>
 <td><p><a href="../Page/張堅庭.md" title="wikilink">張堅庭</a></p></td>
-<td><p><a href="../Page/陳凱琳.md" title="wikilink">陳凱琳</a>、<a href="../Page/何雁詩.md" title="wikilink">何雁詩</a>、<a href="../Page/馬蹄露_(藝人).md" title="wikilink">馬蹄露</a>、<a href="../Page/梁烈唯.md" title="wikilink">梁烈唯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳凱琳" title="wikilink">陳凱琳</a>、<a href="https://zh.wikipedia.org/wiki/何雁詩" title="wikilink">何雁詩</a>、<a href="../Page/馬蹄露_(藝人).md" title="wikilink">馬蹄露</a>、<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></p></td>
 <td><p><a href="../Page/陳勉良.md" title="wikilink">陳勉良</a><br />
 (道友王)</p></td>
 </tr>
@@ -55,15 +55,15 @@
 <td><p>05</p></td>
 <td><p>2月14日</p></td>
 <td><p><a href="../Page/汪明荃.md" title="wikilink">汪明荃</a></p></td>
-<td><p><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/何遠東.md" title="wikilink">何遠東</a>、<a href="../Page/楊秀惠.md" title="wikilink">楊秀惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/何遠東.md" title="wikilink">何遠東</a>、<a href="../Page/楊秀惠.md" title="wikilink">楊秀惠</a></p></td>
 <td><p><a href="../Page/戴耀明.md" title="wikilink">戴耀明</a><br />
 (騎呢好色王)</p></td>
 </tr>
 <tr class="odd">
 <td><p>06</p></td>
 <td><p>2月21日</p></td>
-<td><p><a href="../Page/邵音音.md" title="wikilink">邵音音</a></p></td>
-<td><p><a href="../Page/韋家雄.md" title="wikilink">韋家雄</a>、<a href="../Page/陳煒.md" title="wikilink">陳煒</a>、<a href="../Page/樂瞳.md" title="wikilink">樂瞳</a>、<a href="../Page/謝雪心.md" title="wikilink">謝雪心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邵音音" title="wikilink">邵音音</a></p></td>
+<td><p><a href="../Page/韋家雄.md" title="wikilink">韋家雄</a>、<a href="../Page/陳煒.md" title="wikilink">陳煒</a>、<a href="https://zh.wikipedia.org/wiki/樂瞳" title="wikilink">樂瞳</a>、<a href="../Page/謝雪心.md" title="wikilink">謝雪心</a></p></td>
 <td><p><a href="../Page/易智遠.md" title="wikilink">易智遠</a><br />
 (開心肥仔王)</p></td>
 </tr>
@@ -71,22 +71,22 @@
 <td><p>07</p></td>
 <td><p>3月6日</p></td>
 <td><p><a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a></p></td>
-<td><p><a href="../Page/朱慧敏.md" title="wikilink">朱慧敏</a>、<a href="../Page/黃長興.md" title="wikilink">黃長興</a>、<a href="../Page/李成昌.md" title="wikilink">李成昌</a>、<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a></p></td>
+<td><p><a href="../Page/朱慧敏.md" title="wikilink">朱慧敏</a>、<a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a>、<a href="../Page/李成昌.md" title="wikilink">李成昌</a>、<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a></p></td>
 <td><p><a href="../Page/曾守明.md" title="wikilink">曾守明</a><br />
 (突警王)</p></td>
 </tr>
 <tr class="odd">
 <td><p>08</p></td>
 <td><p>3月13日</p></td>
-<td><p><a href="../Page/陳友.md" title="wikilink">陳　友</a></p></td>
-<td><p><a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/陳瀅.md" title="wikilink">陳瀅</a>、<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a>、<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳友" title="wikilink">陳　友</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/陳瀅.md" title="wikilink">陳瀅</a>、<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a>、<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>[2]</p></td>
 <td><p><a href="../Page/陳榮峻.md" title="wikilink">陳榮峻</a><br />
 (公公王)</p></td>
 </tr>
 <tr class="even">
 <td><p>09</p></td>
 <td><p>3月20日</p></td>
-<td><p><a href="../Page/姜大偉.md" title="wikilink">姜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜大偉" title="wikilink">姜大偉</a></p></td>
 <td><p><a href="../Page/王浩信.md" title="wikilink">王浩信</a>、<a href="../Page/朱千雪.md" title="wikilink">朱千雪</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/譚凱琪.md" title="wikilink">譚凱琪</a>[3]<br />
 特別嘉賓：<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a></p></td>
 <td><p><a href="../Page/李海生.md" title="wikilink">李海生</a><br />
@@ -96,7 +96,7 @@
 <td><p>10</p></td>
 <td><p>4月10日</p></td>
 <td><p><a href="../Page/胡楓.md" title="wikilink">胡　楓</a>、<a href="../Page/羅蘭_(香港).md" title="wikilink">羅蘭</a></p></td>
-<td><p><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/李綺雯.md" title="wikilink">李綺雯</a>、<a href="../Page/陳嘉佳.md" title="wikilink">小寶</a><br />
+<td><p><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a>、<a href="../Page/李綺雯.md" title="wikilink">李綺雯</a>、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a><br />
 特別嘉賓：<a href="../Page/鄭耀軒.md" title="wikilink">鄭耀軒</a><br />
 (小戲王)</p></td>
 <td><p><a href="../Page/蘇恩磁.md" title="wikilink">蘇恩磁</a><br />
@@ -114,7 +114,7 @@
 <td><p>12</p></td>
 <td><p>5月1日</p></td>
 <td><p><a href="../Page/陳松伶.md" title="wikilink">陳松伶</a></p></td>
-<td><p><a href="../Page/龔嘉欣.md" title="wikilink">龔嘉欣</a>、<a href="../Page/何君誠.md" title="wikilink">何君誠</a>、<a href="../Page/張美妮.md" title="wikilink">張美妮</a>、<a href="../Page/喬寶寶.md" title="wikilink">喬寶寶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龔嘉欣" title="wikilink">龔嘉欣</a>、<a href="../Page/何君誠.md" title="wikilink">何君誠</a>、<a href="../Page/張美妮.md" title="wikilink">張美妮</a>、<a href="../Page/喬寶寶.md" title="wikilink">喬寶寶</a></p></td>
 <td><p><a href="../Page/曾健明.md" title="wikilink">曾健明</a><br />
 (騙子王)</p></td>
 </tr>
@@ -122,7 +122,7 @@
 <td><p>13</p></td>
 <td><p>5月8日</p></td>
 <td><p><a href="../Page/李力持.md" title="wikilink">李力持</a></p></td>
-<td><p><a href="../Page/趙希洛.md" title="wikilink">趙希洛</a>、<a href="../Page/劉佩玥.md" title="wikilink">劉佩玥</a>、<a href="../Page/張致恒.md" title="wikilink">張致恒</a>、<a href="../Page/王俊棠.md" title="wikilink">王俊棠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙希洛" title="wikilink">趙希洛</a>、<a href="../Page/劉佩玥.md" title="wikilink">劉佩玥</a>、<a href="https://zh.wikipedia.org/wiki/張致恒" title="wikilink">張致恒</a>、<a href="../Page/王俊棠.md" title="wikilink">王俊棠</a></p></td>
 <td><p><a href="../Page/李岡.md" title="wikilink">李岡</a><br />
 (管家王)</p></td>
 </tr>
@@ -138,7 +138,7 @@
 <td><p>15</p></td>
 <td><p>5月22日</p></td>
 <td><p><a href="../Page/許紹雄.md" title="wikilink">許紹雄</a></p></td>
-<td><p><a href="../Page/王君馨.md" title="wikilink">王君馨</a>、<a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>、<a href="../Page/狄易達.md" title="wikilink">狄易達</a>、<a href="../Page/程可為.md" title="wikilink">程可為</a></p></td>
+<td><p><a href="../Page/王君馨.md" title="wikilink">王君馨</a>、<a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>、<a href="https://zh.wikipedia.org/wiki/狄易達" title="wikilink">狄易達</a>、<a href="../Page/程可為.md" title="wikilink">程可為</a></p></td>
 <td><p><a href="../Page/曾慧雲.md" title="wikilink">曾慧雲</a><br />
 (八卦王)</p></td>
 </tr>
@@ -147,7 +147,7 @@
 <td><p>5月29日</p></td>
 <td><p><a href="../Page/潘志文.md" title="wikilink">潘志文</a>、<a href="../Page/魏秋樺.md" title="wikilink">魏秋樺</a></p></td>
 <td><p><a href="../Page/張文慈.md" title="wikilink">張文慈</a>、<a href="../Page/袁文傑.md" title="wikilink">袁文傑</a>、<a href="../Page/袁潔儀.md" title="wikilink">袁潔儀</a>、<a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a></p></td>
-<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a><br />
 (惡人王)</p></td>
 </tr>
 <tr class="even">
@@ -170,7 +170,7 @@
 <td><p>19</p></td>
 <td><p>6月19日</p></td>
 <td><p><a href="../Page/石修.md" title="wikilink">石修</a></p></td>
-<td><p><a href="../Page/胡蓓蔚.md" title="wikilink">胡蓓蔚</a>、<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<a href="../Page/林師傑.md" title="wikilink">林師傑</a>、<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a></p></td>
+<td><p><a href="../Page/胡蓓蔚.md" title="wikilink">胡蓓蔚</a>、<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<a href="https://zh.wikipedia.org/wiki/林師傑" title="wikilink">林師傑</a>、<a href="../Page/張惠雅.md" title="wikilink">張惠雅</a></p></td>
 <td><p><a href="../Page/邵卓堯.md" title="wikilink">邵卓堯</a><br />
 (壞蛋王)</p></td>
 </tr>
@@ -179,15 +179,15 @@
 <td><p>6月26日</p></td>
 <td><p><a href="../Page/米雪.md" title="wikilink">米雪</a></p></td>
 <td><p><a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a>、<a href="../Page/孫慧雪.md" title="wikilink">孫慧雪</a>、<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>、<a href="../Page/麥皓兒.md" title="wikilink">麥皓兒</a>[4]<br />
-特別嘉賓：<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a>、<a href="../Page/譚凱琪.md" title="wikilink">譚凱琪</a></p></td>
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a><br />
+特別嘉賓：<a href="../Page/張達倫.md" title="wikilink">張達倫</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="../Page/譚凱琪.md" title="wikilink">譚凱琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a><br />
 (衰仔王)</p></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>
 <td><p>7月10日</p></td>
 <td><p><a href="../Page/苗可秀.md" title="wikilink">苗可秀</a></p></td>
-<td><p><a href="../Page/安德尊.md" title="wikilink">安德尊</a>、<a href="../Page/陳庭欣.md" title="wikilink">陳庭欣</a>、<a href="../Page/姚瑩瑩.md" title="wikilink">姚瑩瑩</a>、<a href="../Page/郭田葰.md" title="wikilink">郭田葰</a></p></td>
+<td><p><a href="../Page/安德尊.md" title="wikilink">安德尊</a>、<a href="https://zh.wikipedia.org/wiki/陳庭欣" title="wikilink">陳庭欣</a>、<a href="../Page/姚瑩瑩.md" title="wikilink">姚瑩瑩</a>、<a href="../Page/郭田葰.md" title="wikilink">郭田葰</a></p></td>
 <td><p><a href="../Page/魏惠文.md" title="wikilink">魏惠文</a><br />
 (老闆王)</p></td>
 </tr>
@@ -195,7 +195,7 @@
 <td><p>22</p></td>
 <td><p>7月17日</p></td>
 <td><p><a href="../Page/張同祖.md" title="wikilink">張同祖</a></p></td>
-<td><p><a href="../Page/威利_(香港).md" title="wikilink">威利</a>、<a href="../Page/陳自瑤.md" title="wikilink">陳自瑤</a>、<a href="../Page/黃子恆.md" title="wikilink">黃子恆</a>、<a href="../Page/樊奕敏.md" title="wikilink">樊奕敏</a></p></td>
+<td><p><a href="../Page/威利_(香港).md" title="wikilink">威利</a>、<a href="../Page/陳自瑤.md" title="wikilink">陳自瑤</a>、<a href="../Page/黃子恆.md" title="wikilink">黃子恆</a>、<a href="https://zh.wikipedia.org/wiki/樊奕敏" title="wikilink">樊奕敏</a></p></td>
 <td><p><a href="../Page/蕭徽勇.md" title="wikilink">蕭徽勇</a><br />
 (孩子王)</p></td>
 </tr>
@@ -204,14 +204,14 @@
 <td><p>7月24日</p></td>
 <td><p><a href="../Page/泰迪羅賓.md" title="wikilink">泰迪羅賓</a></p></td>
 <td><p><a href="../Page/陳嘉輝.md" title="wikilink">陳嘉輝</a>、<a href="../Page/曾航生.md" title="wikilink">曾航生</a>、<a href="../Page/朱敏瀚.md" title="wikilink">朱敏瀚</a>、<a href="../Page/吳沚默.md" title="wikilink">吳沚默</a>、<a href="../Page/湯洛雯.md" title="wikilink">湯洛雯</a>、<a href="../Page/張慧雯_(香港).md" title="wikilink">張慧雯</a></p></td>
-<td><p><a href="../Page/劉天龍.md" title="wikilink">劉天龍</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/劉天龍" title="wikilink">劉天龍</a><br />
 (官差王)</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
 <td><p>7月31日</p></td>
 <td><p><a href="../Page/楊盼盼.md" title="wikilink">楊盼盼</a></p></td>
-<td><p><a href="../Page/車婉婉.md" title="wikilink">車婉婉</a>、<a href="../Page/胡鴻鈞.md" title="wikilink">胡鴻鈞</a>、<a href="../Page/李璧琦.md" title="wikilink">李璧琦</a>、<a href="../Page/趙永洪.md" title="wikilink">趙永洪</a></p></td>
+<td><p><a href="../Page/車婉婉.md" title="wikilink">車婉婉</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="../Page/李璧琦.md" title="wikilink">李璧琦</a>、<a href="../Page/趙永洪.md" title="wikilink">趙永洪</a></p></td>
 <td><p><a href="../Page/廖麗麗.md" title="wikilink">廖麗麗</a><br />
 (慈母王)</p></td>
 </tr>
@@ -223,7 +223,7 @@
 黃長興、李成昌、莊思敏、張振朗<br />
 小寶、魯振順、張美妮、喬寶寶<br />
 麥玲玲、謝東閔、麥美恩、張惠雅<br />
-姚瑩瑩、湯洛雯、<a href="../Page/李佳芯.md" title="wikilink">李佳芯</a>、<a href="../Page/張彥博.md" title="wikilink">張彥博</a><br />
+姚瑩瑩、湯洛雯、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a>、<a href="../Page/張彥博.md" title="wikilink">張彥博</a><br />
 特別嘉賓：<a href="../Page/安德尊.md" title="wikilink">安德尊</a></p></td>
 <td><p>-</p></td>
 </tr>
@@ -255,7 +255,7 @@
 
   - 睇你點死
 
-      - 每位「好戲王」要根據主持人[森美或](../Page/森美.md "wikilink")[陳敏之的指示](../Page/陳敏之.md "wikilink")，演出不同死亡方法，表現最出色的「好戲王」便會勝出。
+      - 每位「好戲王」要根據主持人[森美或](https://zh.wikipedia.org/wiki/森美 "wikilink")[陳敏之的指示](../Page/陳敏之.md "wikilink")，演出不同死亡方法，表現最出色的「好戲王」便會勝出。
 
   - 講一套 做一套
 
@@ -263,7 +263,7 @@
 
   - 超級遙控戲
 
-      - 每位「好戲王」要根據主持人[森美或](../Page/森美.md "wikilink")[陳敏之的指示](../Page/陳敏之.md "wikilink")，把正常的戲份加上「Pause」、「Reverse」、「Fast
+      - 每位「好戲王」要根據主持人[森美或](https://zh.wikipedia.org/wiki/森美 "wikilink")[陳敏之的指示](../Page/陳敏之.md "wikilink")，把正常的戲份加上「Pause」、「Reverse」、「Fast
         Forward」、「Slow Motion」等的特別後製效果，表現最出色的「好戲王」便會勝出。
 
   - 極速變臉王
@@ -285,7 +285,7 @@
 
 ## 獎項
 
-### [TVB 馬來西亞星光薈萃頒獎典禮2016](../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md "wikilink")
+### [TVB 馬來西亞星光薈萃頒獎典禮2016](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016 "wikilink")
 
 | 獎項           | 獲奬單位      |
 | ------------ | --------- |
@@ -307,6 +307,6 @@
 [Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
 
 1.  宣傳劇集《[愛情食物鏈](../Page/愛情食物鏈.md "wikilink")》
-2.  宣傳劇集《[潮流教主](../Page/潮流教主.md "wikilink")》
-3.  宣傳劇集《[EU超時任務](../Page/EU超時任務.md "wikilink")》
-4.  宣傳劇集《[純熟意外](../Page/純熟意外.md "wikilink")》
+2.  宣傳劇集《[潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")》
+3.  宣傳劇集《[EU超時任務](https://zh.wikipedia.org/wiki/EU超時任務 "wikilink")》
+4.  宣傳劇集《[純熟意外](https://zh.wikipedia.org/wiki/純熟意外 "wikilink")》

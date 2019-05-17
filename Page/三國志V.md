@@ -1,4 +1,4 @@
-是一款由[光荣公司制作的](../Page/光荣.md "wikilink")[历史类游戏](../Page/历史类游戏.md "wikilink")。本游戏为[三国志系列的第五代作品](../Page/三国志系列.md "wikilink")。本游戏于1996年9月27日在[世嘉土星发行](../Page/世嘉土星.md "wikilink")，于1997年2月14日在[PlayStation上发行](../Page/PlayStation.md "wikilink")。\[1\]
+是一款由[光荣公司制作的](../Page/光荣.md "wikilink")[历史类游戏](https://zh.wikipedia.org/wiki/历史类游戏 "wikilink")。本游戏为[三国志系列的第五代作品](https://zh.wikipedia.org/wiki/三国志系列 "wikilink")。本游戏于1996年9月27日在[世嘉土星发行](../Page/世嘉土星.md "wikilink")，于1997年2月14日在[PlayStation上发行](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。\[1\]
 
 本游戏增加了4个场景。光荣公司没有推出本作的英语版本。\[2\]
 

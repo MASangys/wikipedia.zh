@@ -1,7 +1,7 @@
 《**High
-5** **制霸青春**》（），2016年[台灣](../Page/台灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，由[SpeXial-宏正](../Page/羅弘証.md "wikilink")、[連晨翔](../Page/連晨翔.md "wikilink")、[Janet](../Page/謝怡芬.md "wikilink")、[邱宇辰](../Page/邱宇辰.md "wikilink")、[程予希](../Page/程予希.md "wikilink")、[A'N'D宇宙](../Page/林思宇.md "wikilink")、[路斯明](../Page/路斯明.md "wikilink")、[高英軒領銜主演](../Page/高英軒.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
-本劇以高中校園籃球為題材，2016年5月9日開鏡，2016年11月30日殺青，2016年10月15日於[八大綜合台](../Page/八大綜合台.md "wikilink")、[愛奇藝台灣站播出](../Page/愛奇藝.md "wikilink")。本劇獲得[中華民國文化部](../Page/中華民國文化部.md "wikilink")105年度高畫質電視連續劇類補助[新臺幣](../Page/新臺幣.md "wikilink")
-1,600萬元5.1聲道補助66萬元。於[第52屆金鐘獎中入圍戲劇節目男主角](../Page/第52屆金鐘獎.md "wikilink")（[宏正](../Page/羅弘証.md "wikilink")）、戲劇節目導演、攝影以及剪接四個獎項。
+5** **制霸青春**》（），2016年[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，由[SpeXial-宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[連晨翔](https://zh.wikipedia.org/wiki/連晨翔 "wikilink")、[Janet](../Page/謝怡芬.md "wikilink")、[邱宇辰](../Page/邱宇辰.md "wikilink")、[程予希](../Page/程予希.md "wikilink")、[A'N'D宇宙](https://zh.wikipedia.org/wiki/林思宇 "wikilink")、[路斯明](../Page/路斯明.md "wikilink")、[高英軒領銜主演](../Page/高英軒.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
+本劇以高中校園籃球為題材，2016年5月9日開鏡，2016年11月30日殺青，2016年10月15日於[八大綜合台](../Page/八大綜合台.md "wikilink")、[愛奇藝台灣站播出](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。本劇獲得[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")105年度高畫質電視連續劇類補助[新臺幣](../Page/新臺幣.md "wikilink")
+1,600萬元5.1聲道補助66萬元。於[第52屆金鐘獎中入圍戲劇節目男主角](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")（[宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")）、戲劇節目導演、攝影以及剪接四個獎項。
 
 ## 劇情大綱
 
@@ -28,13 +28,13 @@
 <td><p>每週六20：30－22：00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/愛奇藝.md" title="wikilink">愛奇藝台灣站</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝台灣站</a></p></td>
 <td><p>每週六20：30－22：00</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/龍華偶像台.md" title="wikilink">龍華偶像台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍華偶像台" title="wikilink">龍華偶像台</a></p></td>
 <td><p>2017年6月25日</p></td>
 <td><p>每週一至五20：00</p></td>
 <td></td>
@@ -103,18 +103,18 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/羅弘証.md" title="wikilink">宏正</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/羅弘証" title="wikilink">宏正</a></p></td>
 <td><center>
 <p>柯威震</p></td>
 <td><center>
 <p><a href="../Page/關令翹.md" title="wikilink">關令翹</a></p></td>
-<td><p>外號阿震，<a href="../Page/大仁高中.md" title="wikilink">大仁高中高三球員</a>，186cm，控球後衛，4號。大仁高中籃球隊隊長，也是隊上主將。阿震屬苦練型球員，憑藉著責任感及好強的個性，只要任何能精進球技的方法都會嘗試訓練。對籃球的熱愛及奪冠的渴望絕對是全隊之首！過分認真的性格，讓他在比賽關鍵的時刻，總會承受巨大壓力導致表現不穩定。這是阿震在高中的最後一年了，他能克服自己的侷限，帶領球隊奪下總冠軍嗎?!</p></td>
+<td><p>外號阿震，<a href="https://zh.wikipedia.org/wiki/大仁高中" title="wikilink">大仁高中高三球員</a>，186cm，控球後衛，4號。大仁高中籃球隊隊長，也是隊上主將。阿震屬苦練型球員，憑藉著責任感及好強的個性，只要任何能精進球技的方法都會嘗試訓練。對籃球的熱愛及奪冠的渴望絕對是全隊之首！過分認真的性格，讓他在比賽關鍵的時刻，總會承受巨大壓力導致表現不穩定。這是阿震在高中的最後一年了，他能克服自己的侷限，帶領球隊奪下總冠軍嗎?!</p></td>
 <td><center>
 <p>全劇</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/連晨翔.md" title="wikilink">晨翔</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/連晨翔" title="wikilink">晨翔</a></p></td>
 <td><center>
 <p>詹智凱</p></td>
 <td><center>
@@ -136,7 +136,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/邱翊橙.md" title="wikilink">毛弟</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/邱翊橙" title="wikilink">毛弟</a></p></td>
 <td><center>
 <p>周佳峰</p></td>
 <td><center>
@@ -208,7 +208,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/林思宇.md" title="wikilink">A'N'D-宇宙</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林思宇" title="wikilink">A'N'D-宇宙</a></p></td>
 <td><center>
 <p>劉小花</p></td>
 <td><center>
@@ -234,14 +234,14 @@
 <td><center>
 <p>袁華明</p></td>
 <td><center>
-<p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
 <td><p>|大仁高中籃球隊助理教練。欣賞張百勝教練的霸氣、帥氣與man，所以一直跟在張教練旁邊處理籃球隊事務。他有過人的記憶力，卻只有一般人的籃球技巧，可以一目十行，過目不忘，對於所有比賽或訓練細節，都如數家珍。不太會談戀愛，在女生面前表達能力有點弱，但在大仁籃球隊裡卻總充滿幽默感、像個大哥哥般照顧著每位球員。</p></td>
 <td><center>
 <p>全劇</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/林詠越.md" title="wikilink">林詠越</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林詠越" title="wikilink">林詠越</a></p></td>
 <td><center>
 <p>林森森</p></td>
 <td><center></td>
@@ -251,7 +251,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/張毓紘.md" title="wikilink">張毓紘</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張毓紘" title="wikilink">張毓紘</a></p></td>
 <td><center>
 <p>黑結倫</p></td>
 <td><center></td>
@@ -261,7 +261,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/余晉.md" title="wikilink">余晉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/余晉" title="wikilink">余晉</a></p></td>
 <td><center>
 <p>曹安迪</p></td>
 <td><center></td>
@@ -271,7 +271,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/陳威佐.md" title="wikilink">陳威佐</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳威佐" title="wikilink">陳威佐</a></p></td>
 <td><center>
 <p>江聰明</p></td>
 <td><center></td>
@@ -281,7 +281,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/陳柏文.md" title="wikilink">陳柏文</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳柏文" title="wikilink">陳柏文</a></p></td>
 <td><center>
 <p>陳柏青</p></td>
 <td><center></td>
@@ -291,7 +291,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/張瑋帆.md" title="wikilink">張瑋帆</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張瑋帆" title="wikilink">張瑋帆</a></p></td>
 <td><center>
 <p>張阿邦</p></td>
 <td><center></td>
@@ -311,7 +311,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/趙修武.md" title="wikilink">趙修武</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/趙修武" title="wikilink">趙修武</a></p></td>
 <td><center>
 <p>趙飛</p></td>
 <td><center></td>
@@ -321,7 +321,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/呂世偉.md" title="wikilink">呂世偉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/呂世偉" title="wikilink">呂世偉</a></p></td>
 <td><center>
 <p>田家豪</p></td>
 <td><center>
@@ -363,7 +363,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/林忻怡.md" title="wikilink">林忻怡</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林忻怡" title="wikilink">林忻怡</a></p></td>
 <td><center>
 <p>葉婷萱</p></td>
 <td><center>
@@ -374,7 +374,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/萱野可芬.md" title="wikilink">萱野可芬</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/萱野可芬" title="wikilink">萱野可芬</a></p></td>
 <td><center>
 <p>賴明雙</p></td>
 <td><center></td>
@@ -384,7 +384,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/萱野可芳.md" title="wikilink">萱野可芳</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/萱野可芳" title="wikilink">萱野可芳</a></p></td>
 <td><center>
 <p>賴明冬</p></td>
 <td><center></td>
@@ -394,7 +394,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/莫佳恩.md" title="wikilink">莫佳恩</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/莫佳恩" title="wikilink">莫佳恩</a></p></td>
 <td><center>
 <p>同學</p></td>
 <td><center></td>
@@ -404,7 +404,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/莫佳育.md" title="wikilink">莫佳育</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/莫佳育" title="wikilink">莫佳育</a></p></td>
 <td><center>
 <p>同學</p></td>
 <td><center></td>
@@ -425,7 +425,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/劉明勳.md" title="wikilink">劉明勳</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/劉明勳" title="wikilink">劉明勳</a></p></td>
 <td><center>
 <p>雜誌社主編</p></td>
 <td><center></td>
@@ -435,7 +435,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/高於夏.md" title="wikilink">高於夏</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/高於夏" title="wikilink">高於夏</a></p></td>
 <td><center>
 <p>小新</p></td>
 <td><center></td>
@@ -455,7 +455,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/李捷宇.md" title="wikilink">李捷宇</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李捷宇" title="wikilink">李捷宇</a></p></td>
 <td><center>
 <p>吳東陽</p></td>
 <td><center></td>
@@ -465,7 +465,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/游曉詩.md" title="wikilink">游曉詩</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/游曉詩" title="wikilink">游曉詩</a></p></td>
 <td><center>
 <p>Poom媽</p></td>
 <td><center></td>
@@ -506,7 +506,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/鄭宇倫.md" title="wikilink">鄭宇倫</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄭宇倫" title="wikilink">鄭宇倫</a></p></td>
 <td><center>
 <p>柳川宏</p></td>
 <td><center></td>
@@ -516,7 +516,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/蔡武雄.md" title="wikilink">蔡武雄</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/蔡武雄" title="wikilink">蔡武雄</a></p></td>
 <td><center>
 <p>寶蓋叔</p></td>
 <td><center>
@@ -527,7 +527,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/魯文學.md" title="wikilink">魯文學</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/魯文學" title="wikilink">魯文學</a></p></td>
 <td><center>
 <p>江爸爸</p></td>
 <td><center></td>
@@ -537,7 +537,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/劉越逖.md" title="wikilink">劉越逖</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/劉越逖" title="wikilink">劉越逖</a></p></td>
 <td><center>
 <p>陳校長</p></td>
 <td><center></td>
@@ -547,7 +547,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/江建維.md" title="wikilink">江建維</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/江建維" title="wikilink">江建維</a></p></td>
 <td><center>
 <p>球員</p></td>
 <td><center></td>
@@ -593,7 +593,7 @@
 <td><center>
 <p>何守正</p></td>
 <td><center>
-<p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 <td><p>HBA複賽電視轉播球評。</p></td>
 <td><center>
 <p>1</p></td>
@@ -611,7 +611,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/林煒珽.md" title="wikilink">林煒珽</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林煒珽" title="wikilink">林煒珽</a></p></td>
 <td><center>
 <p>林煒珽</p></td>
 <td><center>
@@ -655,7 +655,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/周俊三.md" title="wikilink">周俊三</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/周俊三" title="wikilink">周俊三</a></p></td>
 <td><center>
 <p>周俊三</p></td>
 <td><center>
@@ -677,7 +677,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/李亦伸.md" title="wikilink">李亦伸</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李亦伸" title="wikilink">李亦伸</a></p></td>
 <td><center>
 <p>李亦伸</p></td>
 <td><center>
@@ -691,17 +691,17 @@
 
 ## 電視劇歌曲
 
-|        |          |                                                                 |        |        |
-| ------ | -------- | --------------------------------------------------------------- | ------ | ------ |
-| **曲別** | **歌名**   | **演唱者**                                                         | **作詞** | **作曲** |
-| 片頭曲    | 青春無敵     | [蘇見信](../Page/蘇見信.md "wikilink")                                | 蘇見信    |        |
-| 片尾曲    | 凝視       | [閻奕格](../Page/閻奕格.md "wikilink")                                | 陳信延    | 楊子樸    |
-| 插曲     | 帥過頭      | [毛弟](../Page/邱翊橙.md "wikilink")、[王子](../Page/邱勝翊.md "wikilink") | 張家瑋    | 黃漢青    |
-| 插曲     | 來真的      | [動力火車](../Page/動力火車.md "wikilink")                              | 陳信延    | 張博彥    |
-| 插曲     | 都祝福      | [辰亦儒](../Page/辰亦儒.md "wikilink")                                | 張家瑋    | 陳徐超    |
-| 插曲     | 愛的積分     | [劉宇珊](../Page/劉宇珊.md "wikilink")                                | 藍小邪    | 張簡君偉   |
-| 插曲     | 洪荒之力     | [陶晶瑩](../Page/陶晶瑩.md "wikilink")                                | 陶晶瑩    |        |
-| 插曲     | 一個人想著一個人 | [曾沛慈](../Page/曾沛慈.md "wikilink")                                | 張簡君偉   |        |
+|        |          |                                                                                    |        |        |
+| ------ | -------- | ---------------------------------------------------------------------------------- | ------ | ------ |
+| **曲別** | **歌名**   | **演唱者**                                                                            | **作詞** | **作曲** |
+| 片頭曲    | 青春無敵     | [蘇見信](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")                                | 蘇見信    |        |
+| 片尾曲    | 凝視       | [閻奕格](https://zh.wikipedia.org/wiki/閻奕格 "wikilink")                                | 陳信延    | 楊子樸    |
+| 插曲     | 帥過頭      | [毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")、[王子](../Page/邱勝翊.md "wikilink") | 張家瑋    | 黃漢青    |
+| 插曲     | 來真的      | [動力火車](../Page/動力火車.md "wikilink")                                                 | 陳信延    | 張博彥    |
+| 插曲     | 都祝福      | [辰亦儒](../Page/辰亦儒.md "wikilink")                                                   | 張家瑋    | 陳徐超    |
+| 插曲     | 愛的積分     | [劉宇珊](../Page/劉宇珊.md "wikilink")                                                   | 藍小邪    | 張簡君偉   |
+| 插曲     | 洪荒之力     | [陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")                                | 陶晶瑩    |        |
+| 插曲     | 一個人想著一個人 | [曾沛慈](../Page/曾沛慈.md "wikilink")                                                   | 張簡君偉   |        |
 
 ## 相關商品
 
@@ -711,7 +711,7 @@
 ### 電視原聲帶
 
 **HIGH 5
-制霸青春電視原聲帶**由[華研國際音樂製作發行](../Page/華研國際音樂.md "wikilink")，片數為1[CD](../Page/CD.md "wikilink")。原聲帶中收錄了劇中的所有歌曲再加入九首配樂的音樂。[台灣於](../Page/台灣.md "wikilink")2016年12月9日發行。
+制霸青春電視原聲帶**由[華研國際音樂製作發行](../Page/華研國際音樂.md "wikilink")，片數為1[CD](../Page/CD.md "wikilink")。原聲帶中收錄了劇中的所有歌曲再加入九首配樂的音樂。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2016年12月9日發行。
 
 ## 收視率
 
@@ -734,7 +734,7 @@
 | 2017年1月7日   | 13 | 0.16 |       | 最終戰 |
 | 平均收視率       |    |      |       |     |
 
-  - <small>同時段節目：[華視](../Page/華視主頻.md "wikilink")《[名模出任務](../Page/名模出任務.md "wikilink")》、[民視](../Page/民視無線台.md "wikilink")《[台灣那麼旺](../Page/台灣那麼旺.md "wikilink")》、[中視](../Page/中視數位台.md "wikilink")《[萬秀豬王](../Page/萬秀豬王.md "wikilink")》、[台視](../Page/台視.md "wikilink")《[奇幻島](../Page/奇幻島.md "wikilink")》、《[綜藝三國智](../Page/綜藝三國智.md "wikilink")》
+  - <small>同時段節目：[華視](../Page/華視主頻.md "wikilink")《[名模出任務](https://zh.wikipedia.org/wiki/名模出任務 "wikilink")》、[民視](../Page/民視無線台.md "wikilink")《[台灣那麼旺](https://zh.wikipedia.org/wiki/台灣那麼旺 "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")《[萬秀豬王](https://zh.wikipedia.org/wiki/萬秀豬王 "wikilink")》、[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[奇幻島](../Page/奇幻島.md "wikilink")》、《[綜藝三國智](https://zh.wikipedia.org/wiki/綜藝三國智 "wikilink")》
   - 由[AC尼尔森調查](../Page/AC尼尔森.md "wikilink")，調查範圍是四歲以上收看電視之觀眾 。
   - 資料來源：[台灣-偶像劇場](http://dorama.info/tw/drama/d_rate.php/)、[凱絡媒體週報](https://twncarat.wordpress.com/category/%E9%9B%BB%E8%A6%96%E8%A7%80%E5%AF%9F%E7%AA%97/)、[AC尼尔森](../Page/AC尼尔森.md "wikilink")</small>
 
@@ -751,25 +751,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/第52屆金鐘獎.md" title="wikilink">第52屆金鐘獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第52屆金鐘獎" title="wikilink">第52屆金鐘獎</a></p></td>
 <td><p><a href="../Page/金鐘獎戲劇節目男主角獎得獎列表.md" title="wikilink">戲劇節目男主角獎</a></p></td>
-<td><p><a href="../Page/羅弘証.md" title="wikilink">宏正</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅弘証" title="wikilink">宏正</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金鐘獎戲劇節目導演獎.md" title="wikilink">戲劇節目導演獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎戲劇節目導演獎" title="wikilink">戲劇節目導演獎</a></p></td>
 <td><p>林子平</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金鐘獎攝影獎.md" title="wikilink">攝影獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎攝影獎" title="wikilink">攝影獎</a></p></td>
 <td><p>王晟合、孫全岑</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金鐘獎剪輯獎.md" title="wikilink">剪輯獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎剪輯獎" title="wikilink">剪輯獎</a></p></td>
 <td><p>楊邦彥</p></td>
 <td></td>
 <td></td>
@@ -785,16 +785,16 @@
 
 ## 重要場景
 
-  - [台北市臺北市立大學天母校區體育館](../Page/台北市.md "wikilink")(博愛校區)
-  - [陽明山美軍宿舍](../Page/陽明山.md "wikilink")
-  - [板橋區江翠派出所](../Page/板橋區.md "wikilink")
+  - [台北市臺北市立大學天母校區體育館](https://zh.wikipedia.org/wiki/台北市 "wikilink")(博愛校區)
+  - [陽明山美軍宿舍](https://zh.wikipedia.org/wiki/陽明山 "wikilink")
+  - [板橋區江翠派出所](https://zh.wikipedia.org/wiki/板橋區 "wikilink")
   - [新莊區輔仁大學中美堂](../Page/新莊區.md "wikilink")
-  - [桃園桃園農工](../Page/桃園.md "wikilink")
-  - [苗栗南湖國小](../Page/苗栗.md "wikilink")
-  - [宜蘭宜蘭中學](../Page/宜蘭.md "wikilink")
-  - [新竹新竹市立新科國民運動中心](../Page/新竹.md "wikilink")
-  - [台南嘉南藥理大學](../Page/台南.md "wikilink")
-  - [桃園大園國際高中](../Page/桃園.md "wikilink")
+  - [桃園桃園農工](https://zh.wikipedia.org/wiki/桃園 "wikilink")
+  - [苗栗南湖國小](https://zh.wikipedia.org/wiki/苗栗 "wikilink")
+  - [宜蘭宜蘭高中](https://zh.wikipedia.org/wiki/宜蘭 "wikilink")
+  - [新竹新竹市立新科國民運動中心](https://zh.wikipedia.org/wiki/新竹 "wikilink")
+  - [台南嘉南藥理大學](https://zh.wikipedia.org/wiki/台南 "wikilink")
+  - [桃園大園國際高中](https://zh.wikipedia.org/wiki/桃園 "wikilink")
 
 ## 製作
 

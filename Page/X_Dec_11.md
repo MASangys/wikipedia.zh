@@ -1,5 +1,5 @@
 《**X Dec
-11**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黎明的一張數碼唱片](../Page/黎明.md "wikilink")\[1\]\[2\]，於2011年12月5日在[iTunes上推出](../Page/iTunes.md "wikilink")\[3\]。
+11**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黎明的一張數碼唱片](../Page/黎明.md "wikilink")\[1\]\[2\]，於2011年12月5日在[iTunes上推出](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[3\]。
 
 ## 曲目
 

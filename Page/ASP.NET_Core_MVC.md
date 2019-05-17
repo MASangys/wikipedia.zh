@@ -1,9 +1,10 @@
 **ASP.NET Core MVC** 是 [ASP.NET
 Core](../Page/ASP.NET_Core.md "wikilink") 內，提供給 Web 應用程式開發的框架，它可視為
-[ASP.NET MVC](../Page/ASP.NET_MVC.md "wikilink") 的後繼版本，其主要功能均衍生自 ASP.NET
-MVC，但它除了基於 ASP.NET Core 外，也將 ASP.NET MVC 與類似平台進行了整合，例如負責 View 的 ASP.NET
-Web Pages 以及負責 [RESTful](../Page/REST.md "wikilink") API 的 ASP.NET Web
-API，都與 ASP.NET Core MVC 的核心合併，因此在 ASP.NET Core MVC 中將可同時並存 MVC 網頁以及
+[ASP.NET MVC](https://zh.wikipedia.org/wiki/ASP.NET_MVC "wikilink")
+的後繼版本，其主要功能均衍生自 ASP.NET MVC，但它除了基於 ASP.NET Core 外，也將 ASP.NET
+MVC 與類似平台進行了整合，例如負責 View 的 ASP.NET Web Pages 以及負責
+[RESTful](https://zh.wikipedia.org/wiki/REST "wikilink") API 的 ASP.NET
+Web API，都與 ASP.NET Core MVC 的核心合併，因此在 ASP.NET Core MVC 中將可同時並存 MVC 網頁以及
 RESTful API。
 
 ## 相關組件
@@ -11,23 +12,23 @@ RESTful API。
 ASP.NET Core MVC 包含了下列組件，基於 .NET Core 的精神，只有需要用到的才需要加入參考 (於
 project.json)，因此開發者可以自由選擇，而不必把所有的組件都加進來。
 
-| 組件                                        | 功能                                                    |
-| ----------------------------------------- | ----------------------------------------------------- |
-| Microsoft.AspNetCore.Mvc                  | ASP.NET Core MVC 引用套件                                 |
-| Microsoft.AspNetCore.Mvc.Abstractions     | ASP.NET Core MVC 功能的抽象層                               |
-| Microsoft.AspNetCore.Mvc.ApiExplorer      | ASP.NET Core MVC 的 API 文件支援                           |
-| Microsoft.AspNetCore.Mvc.Core             | ASP.NET Core MVC 核心組件                                 |
-| Microsoft.AspNetCore.Mvc.Cors             | 提供 Web API 所需要的 [CORS](../Page/CORS.md "wikilink") 能力 |
-| Microsoft.AspNetCore.Mvc.DataAnnotations  | MVC 所需的資料標示 (Data Annotation) 功能                      |
-| Microsoft.AspNetCore.Mvc.Formatters.Json  | MVC/Web API 所需的 JSON 序列化器                             |
-| Microsoft.AspNetCore.Mvc.Formatters.Xml   | MVC/Web API 所需的 XML 序列化器                              |
-| Microsoft.AspNetCore.Mvc.Localization     | MVC 應用程式本地化支援                                         |
-| Microsoft.AspNetCore.Mvc.Razor            | MVC Razor 的核心類別庫 (若要在 MVC 中使用 Razor 就必須參考此組件)         |
-| Microsoft.AspNetCore.Mvc.Razor.Host       | MVC Razor 的執行期引擎                                      |
-| Microsoft.AspNetCore.Mvc.TagHelpers       | MVC Tag Helper 的核心類別庫                                 |
-| Microsoft.AspNetCore.Mvc.ViewFeatures     | MVC View 功能的類別庫 (Controller 類別的實作在此)                  |
-| Microsoft.AspNetCore.Mvc.WebApiCompatShim | Web API 相容套件                                          |
-| Microsoft.AspNetCore.Razor                | Razor 的核心類別庫                                          |
+| 組件                                        | 功能                                                                       |
+| ----------------------------------------- | ------------------------------------------------------------------------ |
+| Microsoft.AspNetCore.Mvc                  | ASP.NET Core MVC 引用套件                                                    |
+| Microsoft.AspNetCore.Mvc.Abstractions     | ASP.NET Core MVC 功能的抽象層                                                  |
+| Microsoft.AspNetCore.Mvc.ApiExplorer      | ASP.NET Core MVC 的 API 文件支援                                              |
+| Microsoft.AspNetCore.Mvc.Core             | ASP.NET Core MVC 核心組件                                                    |
+| Microsoft.AspNetCore.Mvc.Cors             | 提供 Web API 所需要的 [CORS](https://zh.wikipedia.org/wiki/CORS "wikilink") 能力 |
+| Microsoft.AspNetCore.Mvc.DataAnnotations  | MVC 所需的資料標示 (Data Annotation) 功能                                         |
+| Microsoft.AspNetCore.Mvc.Formatters.Json  | MVC/Web API 所需的 JSON 序列化器                                                |
+| Microsoft.AspNetCore.Mvc.Formatters.Xml   | MVC/Web API 所需的 XML 序列化器                                                 |
+| Microsoft.AspNetCore.Mvc.Localization     | MVC 應用程式本地化支援                                                            |
+| Microsoft.AspNetCore.Mvc.Razor            | MVC Razor 的核心類別庫 (若要在 MVC 中使用 Razor 就必須參考此組件)                            |
+| Microsoft.AspNetCore.Mvc.Razor.Host       | MVC Razor 的執行期引擎                                                         |
+| Microsoft.AspNetCore.Mvc.TagHelpers       | MVC Tag Helper 的核心類別庫                                                    |
+| Microsoft.AspNetCore.Mvc.ViewFeatures     | MVC View 功能的類別庫 (Controller 類別的實作在此)                                     |
+| Microsoft.AspNetCore.Mvc.WebApiCompatShim | Web API 相容套件                                                             |
+| Microsoft.AspNetCore.Razor                | Razor 的核心類別庫                                                             |
 
 ## 基礎建設
 

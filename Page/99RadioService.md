@@ -1,4 +1,4 @@
-**99RadioService**（），是一個於2007年組成的[日本的](../Page/日本.md "wikilink")[搖滾](../Page/搖滾.md "wikilink")[樂團](../Page/樂團.md "wikilink")。暱稱「**Nine
+**99RadioService**（），是一個於2007年組成的[日本的](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。暱稱「**Nine
 Nine**（）」。
 
 ## 成員簡介
@@ -10,7 +10,7 @@ Nine**（）」。
   - **Ko-hey**（）
       - 主唱、吉他手。同團成員Ko-ta的胞弟\[3\]、歌手堀內孝雄的兒子\[4\]。
   - **Jigen**（）
-      - [貝斯手](../Page/貝斯.md "wikilink")。
+      - [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。
   - **riri**
       - [電子琴手](../Page/電子琴.md "wikilink")。
   - **Endo Tatsuro**
@@ -19,7 +19,7 @@ Nine**（）」。
 ### 已離開成員
 
   - **Katsu**（）
-      - [貝斯手](../Page/貝斯.md "wikilink")。2011年退出。
+      - [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。2011年退出。
   - **GOI**（）
       - [電子琴手](../Page/電子琴.md "wikilink")。2013年退出。
   - **Negi**（）
@@ -38,7 +38,7 @@ GO-GO的舞台演出。2011年6月首次在[澳門](../Page/澳門.md "wikilink"
 
 2011年11月1日，貝斯手Katsu退出99RadioSrvice\[7\]。
 
-2011年11月30日發行他們的首部單曲「YOUTHFUL」，是同年10月4日開始在[日本電視台播放電視動畫](../Page/日本電視台.md "wikilink")《[花牌情緣](../Page/花牌情緣.md "wikilink")》的片頭曲\[8\]。
+2011年11月30日發行他們的首部單曲「YOUTHFUL」，是同年10月4日開始在[日本電視台播放電視動畫](../Page/日本電視台.md "wikilink")《[花牌情緣](https://zh.wikipedia.org/wiki/花牌情緣 "wikilink")》的片頭曲\[8\]。
 
 2012年9月9日，支援的貝斯手Jigen在Live現場宣布成為99RadioSrevice正式成員。
 
@@ -262,7 +262,7 @@ VPCC-82309：通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>YOUTHFUL</p></td>
-<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a><a href="../Page/電視動畫.md" title="wikilink">電視動畫</a>《<a href="../Page/花牌情緣.md" title="wikilink">花牌情緣</a>》第1期片頭主題曲</p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a>《<a href="https://zh.wikipedia.org/wiki/花牌情緣" title="wikilink">花牌情緣</a>》第1期片頭主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>BYE×BYE</p></td>
@@ -275,7 +275,7 @@ VPCC-82309：通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>wonderland</p></td>
-<td><p>電影動畫《<a href="../Page/魯邦三世VS名偵探柯南_THE_MOVIE.md" title="wikilink">魯邦三世VS名偵探柯南 THE MOVIE</a>》劇中插入歌曲</p></td>
+<td><p>電影動畫《<a href="https://zh.wikipedia.org/wiki/魯邦三世VS名偵探柯南_THE_MOVIE" title="wikilink">魯邦三世VS名偵探柯南 THE MOVIE</a>》劇中插入歌曲</p></td>
 </tr>
 </tbody>
 </table>

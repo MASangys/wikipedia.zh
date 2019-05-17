@@ -1,4 +1,4 @@
-**LYn**（，），[韓國](../Page/韓國.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")，本名**李世真**。2001年以首張個人專輯《My
+**LYn**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，本名**李世真**。2001年以首張個人專輯《My
 First Confession》出道，2002年起改使用藝名LYn。\[1\]
 
 ## 個人經歷
@@ -37,7 +37,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>首張正規專輯《<strong>Have You Ever Had Heart Broken?</strong>》</p>
 <ul>
 <li>發行日期：2002年11月22日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -46,7 +46,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第二張正規專輯《<strong>Can U See The Bright</strong>》</p>
 <ul>
 <li>發行日期：2004年3月29日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -55,7 +55,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第三張正規專輯《<strong>One and only feeling</strong>》</p>
 <ul>
 <li>發行日期：2005年6月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -64,7 +64,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第四張正規專輯《<strong>The Pride Of The Morning</strong>》</p>
 <ul>
 <li>發行日期：2007年2月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -73,7 +73,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第五張正規專輯《<strong>Let Go,Let In,It's A New Day</strong>》</p>
 <ul>
 <li>發行日期：2009年1月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -82,7 +82,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>首張迷你專輯《<strong>6½ New Celebration</strong>》</p>
 <ul>
 <li>發行日期：2009年10月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -91,7 +91,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第6張正規重製專輯《<strong>6th Part2 Candy Train</strong>》</p>
 <ul>
 <li>發行日期：2010年5月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -100,7 +100,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第7張正規專輯《<strong>Metro Sexy 7</strong>》</p>
 <ul>
 <li>發行日期：2011年7月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -109,7 +109,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第7張正規重製專輯《<strong>LoveFiction</strong>》</p>
 <ul>
 <li>發行日期：2012年3月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -118,7 +118,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第8張正規專輯《<strong>Le Grand Bleu</strong>》</p>
 <ul>
 <li>發行日期：2014年3月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -127,7 +127,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第9張正規專輯《<strong>9X9th</strong>》</p>
 <ul>
 <li>發行日期：2015年9月9日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -136,7 +136,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>第10張正規專輯《<strong>#10</strong>》</p>
 <ul>
 <li>發行日期：2018年10月25日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -157,7 +157,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>《<strong>Misty Memories</strong>》</p>
 <ul>
 <li>發行日期：2006年3月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -178,7 +178,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>《<strong>那男人和那女人的故事</strong>》</p>
 <ul>
 <li>發行日期：2008年2月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -199,7 +199,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 <td><p>《HOME》</p>
 <ul>
 <li>發行日期：2014年9月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -209,7 +209,8 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
 ## 創作歌曲
 
   - 2005年：金昌烈《如果可以愛》〈3輯Miracle Vol.3〉（金昌烈.LYn.李在勳共同作詞）
-  - 2007年：[神話 Shinhwa](../Page/神話_\(組合\).md "wikilink")《很漂亮吧\!》〈Winter
+  - 2007年：[神話
+    Shinhwa](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")《很漂亮吧\!》〈Winter
     Story 2006-2007〉（作詞）
   - 2007年：[朴孝信](../Page/朴孝信.md "wikilink")《懷念的..懷念的..》〈5輯The Breeze Of
     Sea〉（作詞）
@@ -237,26 +238,28 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
   - 2015年：SBS《[假面](../Page/假面_\(電視劇\).md "wikilink")》原聲帶〈Only One Day〉
   - 2015年：KBS《[Oh My
     Venus](../Page/Oh_My_Venus.md "wikilink")》原聲帶〈那樣的人(Duet
-    Ver.)）〉（與[申容財](../Page/申勇在.md "wikilink")）、〈那樣的人(Woman Ver.)〉
+    Ver.)）〉（與[申容財](https://zh.wikipedia.org/wiki/申勇在 "wikilink")）、〈那樣的人(Woman
+    Ver.)〉
   - 2016年：KBS《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》原聲帶〈With You〉
   - 2016年：tvN《[Dear My
     Friends](../Page/Dear_My_Friends.md "wikilink")》原聲帶〈風停留著（바람에
     머문다）〉
-  - 2016年：SBS《[藍色海洋的傳說](../Page/藍色海洋的傳說.md "wikilink")》原聲帶〈Love Story〉
+  - 2016年：SBS《[藍色海洋的傳說](https://zh.wikipedia.org/wiki/藍色海洋的傳說 "wikilink")》原聲帶〈Love
+    Story〉
   - 2017年：SBS《[師任堂，光的日記](../Page/師任堂，光的日記.md "wikilink")》原聲帶〈任何時間，任何地方（언제든,
     어디라도）〉
-  - 2018年：KBS《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》原聲帶〈LOVE〉（與[鄭韓海](../Page/鄭韓海.md "wikilink")）
+  - 2018年：KBS《[你也是人類嗎](https://zh.wikipedia.org/wiki/你也是人類嗎 "wikilink")》原聲帶〈LOVE〉（與[鄭韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")）
 
 ## 獲獎
 
   - 2004年：SBS歌謠大戰－抒情歌手本賞
   - 2005年：第12屆大韓民國演藝藝術賞－抒情歌曲歌手賞
   - 2012年：第6屆[韓國電視劇節－最佳OST賞](../Page/韓國電視劇節.md "wikilink")
-  - 2014年：[第50屆百想藝術大賞－最佳OST賞](../Page/第50屆百想藝術大賞.md "wikilink")
-  - 2014年：第九屆[首爾國際電視節－最佳韓流電視劇主題曲賞](../Page/首爾國際電視節.md "wikilink")
+  - 2014年：[第50屆百想藝術大賞－最佳OST賞](https://zh.wikipedia.org/wiki/第50屆百想藝術大賞 "wikilink")
+  - 2014年：第九屆[首爾國際電視節－最佳韓流電視劇主題曲賞](https://zh.wikipedia.org/wiki/首爾國際電視節 "wikilink")
   - 2014年：[Melon Music Award－OST部門賞](../Page/甜瓜音樂獎.md "wikilink")
   - 2014年：[Mnet亞洲音樂大獎－最佳OST賞](../Page/Mnet亞洲音樂大獎.md "wikilink")
-  - 2015年：第24屆[首爾音樂獎－OST賞](../Page/首爾音樂獎.md "wikilink")
+  - 2015年：第24屆[首爾音樂獎－OST賞](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
 ## 參考資料
 

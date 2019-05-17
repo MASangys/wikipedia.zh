@@ -1,5 +1,5 @@
 **A.De**（）是[2ABLE
-COMPANY在](../Page/2ABLE_COMPANY.md "wikilink")2016年推出的七人女子團體，成員包括秀妍、如璘、智瑞、Rachel、海泳、礎奫以及美笑。
+COMPANY在](https://zh.wikipedia.org/wiki/2ABLE_COMPANY "wikilink")2016年推出的七人女子團體，成員包括秀妍、如璘、智瑞、Rachel、海泳、礎奫以及美笑。
 
 ## 成員檔案
 
@@ -28,7 +28,7 @@ COMPANY在](../Page/2ABLE_COMPANY.md "wikilink")2016年推出的七人女子團�
 
 2017年4月，礎奫因健康因素退出，團體改以六人體制活動。
 
-2017年10月，海泳參加《[MIXNINE](../Page/MIXNINE.md "wikilink")》選秀節目，最終排名第30名，未能透過節目出道。
+2017年10月，海泳參加《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》選秀節目，最終排名第30名，未能透過節目出道。
 
 ## 音樂作品
 
@@ -46,7 +46,7 @@ COMPANY在](../Page/2ABLE_COMPANY.md "wikilink")2016年推出的七人女子團�
 <td><p>首張單曲《<strong>STRAWBERRY</strong>》</p>
 <ul>
 <li>發行日：2016年6月23日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -72,7 +72,7 @@ COMPANY在](../Page/2ABLE_COMPANY.md "wikilink")2016年推出的七人女子團�
 <td><p>首張迷你專輯《<strong>Have a Good Time</strong>》</p>
 <ul>
 <li>發行日：2016年10月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -98,7 +98,7 @@ COMPANY在](../Page/2ABLE_COMPANY.md "wikilink")2016年推出的七人女子團�
 <td><p>首張數位單曲《<strong>Laputa (Kiss in the sky)</strong>》</p>
 <ul>
 <li>發行日：2017年8月31日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -141,14 +141,14 @@ COMPANY在](../Page/2ABLE_COMPANY.md "wikilink")2016年推出的七人女子團�
 
 #### 嘉賓出演
 
-|                      |                                                |                                                    |          |         |
-| -------------------- | ---------------------------------------------- | -------------------------------------------------- | -------- | ------- |
-| **日期**               | **電視台**                                        | **節目名稱**                                           | **參與成員** | **備註**  |
-| 2016年1月22日至2016年4月1日 | [Mnet](../Page/Mnet.md "wikilink")             | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》 | 海泳       | 最終排名：38 |
-| 美笑                   | 最終排名：73                                        |                                                    |          |         |
-| 秀妍                   | 最終排名：75                                        |                                                    |          |         |
-| 2016年11月27日          | [MBC every1](../Page/MBC_every1.md "wikilink") | 《美食地圖 第2季》                                         | 如璘、智瑞    | 第36集    |
-|                      |                                                |                                                    |          |         |
+|                      |                                                                   |                                                    |          |         |
+| -------------------- | ----------------------------------------------------------------- | -------------------------------------------------- | -------- | ------- |
+| **日期**               | **電視台**                                                           | **節目名稱**                                           | **參與成員** | **備註**  |
+| 2016年1月22日至2016年4月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》 | 海泳       | 最終排名：38 |
+| 美笑                   | 最終排名：73                                                           |                                                    |          |         |
+| 秀妍                   | 最終排名：75                                                           |                                                    |          |         |
+| 2016年11月27日          | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《美食地圖 第2季》                                         | 如璘、智瑞    | 第36集    |
+|                      |                                                                   |                                                    |          |         |
 
 ### 網絡劇
 

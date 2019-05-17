@@ -1,39 +1,39 @@
-**D-Bus**是一個[行程間通訊及](../Page/行程間通訊.md "wikilink")[远程过程调用機制](../Page/远程过程调用.md "wikilink")，可以讓多個不同的[计算机程序](../Page/计算机程序.md "wikilink")（即[行程](../Page/行程.md "wikilink")）在同一臺電腦上同時進行通訊\[1\]。D-Bus作為[freedesktop.org專案的一部份](../Page/freedesktop.org.md "wikilink")，其設計目的是使[Linux](../Page/Linux.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")（如[GNOME與](../Page/GNOME.md "wikilink")[KDE等](../Page/KDE.md "wikilink")）提供的服務標準化。
+**D-Bus**是一個[行程間通訊及](../Page/行程間通訊.md "wikilink")[远程过程调用機制](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")，可以讓多個不同的[计算机程序](../Page/计算机程序.md "wikilink")（即[行程](../Page/行程.md "wikilink")）在同一臺電腦上同時進行通訊\[1\]。D-Bus作為[freedesktop.org專案的一部份](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")，其設計目的是使[Linux](../Page/Linux.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")（如[GNOME與](../Page/GNOME.md "wikilink")[KDE等](../Page/KDE.md "wikilink")）提供的服務標準化。
 
 freedesktop.org專案同時也開發了一個稱為libdbus的[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")，作為規範的參考實作。這個函式庫常與D-Bus本身混淆。也存在著其他的D-Bus實作，像是GDBus
 (GNOME)\[2\]，QtDBus
-([Qt](../Page/Qt.md "wikilink")/KDE)\[3\]，dbus-java\[4\]以及sd-bus（[systemd的一部份](../Page/systemd.md "wikilink")）\[5\]。
+([Qt](../Page/Qt.md "wikilink")/KDE)\[3\]，dbus-java\[4\]以及sd-bus（[systemd的一部份](https://zh.wikipedia.org/wiki/systemd "wikilink")）\[5\]。
 
 ## 概觀
 
-D-Bus可用於同一個桌面会话中不同[桌面](../Page/桌面环境.md "wikilink")[应用软件間的通訊](../Page/应用软件.md "wikilink")，能整合桌面会话，也解決了行程的生命週期的問題。它也允許桌面会话與[操作系统間的通訊](../Page/操作系统.md "wikilink")，這通常包括了[内核與任何的系統](../Page/内核.md "wikilink")[守护进程或一般](../Page/守护进程.md "wikilink")[行程間的通訊](../Page/行程.md "wikilink")。
+D-Bus可用於同一個桌面会话中不同[桌面](../Page/桌面环境.md "wikilink")[应用软件間的通訊](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，能整合桌面会话，也解決了行程的生命週期的問題。它也允許桌面会话與[操作系统間的通訊](../Page/操作系统.md "wikilink")，這通常包括了[内核與任何的系統](../Page/内核.md "wikilink")[守护进程或一般](../Page/守护进程.md "wikilink")[行程間的通訊](../Page/行程.md "wikilink")。
 
 D-Bus是一個系統，即行程間通訊的媒介，讓應用程式間可以通訊並交換訊息。因此，D-Bus为應用程式增加新的功能，簡化已有功能，包含資訊分享、模組化及。例如透過[藍牙或](../Page/藍牙.md "wikilink")[Skype所接收到的通話可以傳播到任何目前執行中的音樂播放器](../Page/Skype.md "wikilink")，並可使其靜音或暫停播放，直到通話結束\[6\]。
 
-大多數的系統會實作一個具較高權限的*系統頻道*，連同給每一個已登入的使用者的*專用頻道*，這就可以讓D-Bus中可用的登錄資訊受到限制。因此，D-Bus服務同時包含了[系統守護行程](../Page/守护进程.md "wikilink")（給像是「新增硬體裝置」或是「印表機佇列變更」等事件使用）以及一個給每個使用者的登入会话（給这个使用者啟動的行程間的一般通訊使用）使用的獨有[守护进程](../Page/守护进程.md "wikilink")。應用程式透過[Unix域套接字與守護行程通訊](../Page/Unix域套接字.md "wikilink")。訊息匯流排是建基於通用的一對一訊息傳遞[框架](../Page/軟體框架.md "wikilink")，這讓任意兩個程式間可以不必透過訊息匯流排守護行程而直接通訊\[7\]。
+大多數的系統會實作一個具較高權限的*系統頻道*，連同給每一個已登入的使用者的*專用頻道*，這就可以讓D-Bus中可用的登錄資訊受到限制。因此，D-Bus服務同時包含了[系統守護行程](../Page/守护进程.md "wikilink")（給像是「新增硬體裝置」或是「印表機佇列變更」等事件使用）以及一個給每個使用者的登入会话（給这个使用者啟動的行程間的一般通訊使用）使用的獨有[守护进程](../Page/守护进程.md "wikilink")。應用程式透過[Unix域套接字與守護行程通訊](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")。訊息匯流排是建基於通用的一對一訊息傳遞[框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，這讓任意兩個程式間可以不必透過訊息匯流排守護行程而直接通訊\[7\]。
 
 ## 內部
 
 [Free_and_open-source-software_display_servers_and_UI_toolkits.svg](https://zh.wikipedia.org/wiki/File:Free_and_open-source-software_display_servers_and_UI_toolkits.svg "fig:Free_and_open-source-software_display_servers_and_UI_toolkits.svg")中扮演相當重要的角色。上面同時也有出現的Binder則是在[Android上的等價軟體](../Page/Android.md "wikilink")。\]\]
 
-D-Bus有三個[抽象層](../Page/抽象層.md "wikilink")：\[8\]
+D-Bus有三個[抽象層](https://zh.wikipedia.org/wiki/抽象層 "wikilink")：\[8\]
 
   - **`libdbus`** —— 讓兩個應用程式可以互相連結並交換訊息的函式庫
   - **`dbus-daemon`** ——
-    訊息匯流排的可執行檔，建基於`libdbus`，可連結到多個應用程式。這個守護行程可以將訊息按特定路徑轉送給零個或更多個應用程式，從而實作[发布/订阅模式](../Page/发布/订阅.md "wikilink")。
+    訊息匯流排的可執行檔，建基於`libdbus`，可連結到多個應用程式。這個守護行程可以將訊息按特定路徑轉送給零個或更多個應用程式，從而實作[发布/订阅模式](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink")。
   - 基於特定應用程式框架的封裝函式庫
 
-接收到訊息的D-Bus連線會被轉送到一個特定的[物件](../Page/对象_\(计算机科学\).md "wikilink")，而非行程。因此，客戶端只知道它們是與物件互動，但並不知道另一側是否真的有物件。
+接收到訊息的D-Bus連線會被轉送到一個特定的[物件](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")，而非行程。因此，客戶端只知道它們是與物件互動，但並不知道另一側是否真的有物件。
 
 D-Bus為每個物件定義了一個名稱，其看起來像是POSIX檔案系統路徑，但實際上並不是，例如`/org/kde/kspread/sheets/3/cells/4/5`。D-Bus物件的名稱通常會使用[命名空间以協助獨立開發程式碼模組](../Page/命名空间.md "wikilink")\[9\]。命名空間一般會以開發者的保留[域名組件作為前綴](../Page/域名.md "wikilink")（例如`/org/kde`）。
 
 ## 採用
 
 [KDE第二版與第三版使用的](../Page/KDE.md "wikilink")系統对D-Bus有深刻影响，后者在[KDE
-4中取代了前者](../Page/KDE_4.md "wikilink")。D-Bus的實作支援大多數的[POSIX作業系統](../Page/POSIX.md "wikilink")，也有一個[Windows的移植](../Page/Windows.md "wikilink")。它也在[Qt](../Page/Qt.md "wikilink")
+4中取代了前者](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")。D-Bus的實作支援大多數的[POSIX作業系統](https://zh.wikipedia.org/wiki/POSIX "wikilink")，也有一個[Windows的移植](https://zh.wikipedia.org/wiki/Windows "wikilink")。它也在[Qt](../Page/Qt.md "wikilink")
 4、[GNOME及](../Page/GNOME.md "wikilink")[Xfce中使用](../Page/Xfce.md "wikilink")。在GNOME中，它已逐漸取代了早期的機制。
 
-D-Bus最初用于桌面環境，后来使用範圍逐漸扩展，包含的系統服務越來越多。例如[NetworkManager網路守護行程](../Page/NetworkManager.md "wikilink")、BlueZ藍牙堆疊及[PulseAudio音訊伺服器都使用D](../Page/PulseAudio.md "wikilink")-Bus來提供其部份或全部的服務，[systemd也正促使傳統的系統守護行程](../Page/systemd.md "wikilink")（如logind）轉換到D-Bus服務。
+D-Bus最初用于桌面環境，后来使用範圍逐漸扩展，包含的系統服務越來越多。例如[NetworkManager網路守護行程](../Page/NetworkManager.md "wikilink")、BlueZ藍牙堆疊及[PulseAudio音訊伺服器都使用D](../Page/PulseAudio.md "wikilink")-Bus來提供其部份或全部的服務，[systemd也正促使傳統的系統守護行程](https://zh.wikipedia.org/wiki/systemd "wikilink")（如logind）轉換到D-Bus服務。
 
 它也用于[AllJoyn協定在家庭自動化中的](../Page/AllJoyn.md "wikilink")，為AllJoyn加入了探索、工作階段管理、安全、標頭壓縮、嵌入式裝置支援\[10\]。
 
@@ -46,7 +46,7 @@ D-Bus最初用于桌面環境，后来使用範圍逐漸扩展，包含的系統
 <!-- end list -->
 
   - GDBus
-    GDBus\[12\]是一個基於包含在[GLib中的](../Page/GLib.md "wikilink")的D-Bus實作，其致力於讓[GTK+與](../Page/GTK+.md "wikilink")[GNOME使用](../Page/GNOME.md "wikilink")。GDBus並不是libdbus的封裝，而是一個完整且獨立的D-Bus規範與協定的重新實作\[13\]。
+    GDBus\[12\]是一個基於包含在[GLib中的](../Page/GLib.md "wikilink")的D-Bus實作，其致力於讓[GTK+與](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[GNOME使用](../Page/GNOME.md "wikilink")。GDBus並不是libdbus的封裝，而是一個完整且獨立的D-Bus規範與協定的重新實作\[13\]。
 
 <!-- end list -->
 
@@ -56,8 +56,8 @@ D-Bus最初用于桌面環境，后来使用範圍逐漸扩展，包含的系統
 <!-- end list -->
 
   - sd-bus
-    2013年時，[systemd專案重寫了libdbus](../Page/systemd.md "wikilink")，並努力簡化程式碼\[15\]，它也使得D-Bus的整體效能有所提升。在先前的測試中，[BMW發現systemd的D](../Page/BMW.md "wikilink")-Bus函式庫效能增長了360%\[16\]。
-    而到了221版本的[systemd](../Page/systemd.md "wikilink")，sd-bus的[应用程序接口](../Page/应用程序接口.md "wikilink")（）已被宣告為穩定\[17\]
+    2013年時，[systemd專案重寫了libdbus](https://zh.wikipedia.org/wiki/systemd "wikilink")，並努力簡化程式碼\[15\]，它也使得D-Bus的整體效能有所提升。在先前的測試中，[BMW發現systemd的D](../Page/BMW.md "wikilink")-Bus函式庫效能增長了360%\[16\]。
+    而到了221版本的[systemd](https://zh.wikipedia.org/wiki/systemd "wikilink")，sd-bus的[应用程序接口](../Page/应用程序接口.md "wikilink")（）已被宣告為穩定\[17\]
 
 <!-- end list -->
 
@@ -72,14 +72,15 @@ D-Bus最初用于桌面環境，后来使用範圍逐漸扩展，包含的系統
 
 ## 參見
 
-  - [桌面應用的Linux](../Page/Linux#个人计算机.md "wikilink")
+  - [桌面應用的Linux](https://zh.wikipedia.org/wiki/Linux#个人计算机 "wikilink")
   - [通用语言架构](../Page/通用语言架构.md "wikilink")
   - [CORBA](../Page/CORBA.md "wikilink")
   - [组件对象模型](../Page/组件对象模型.md "wikilink")
-  - [Distributed COM](../Page/Distributed_COM.md "wikilink")
-  - [Java远程方法调用](../Page/Java远程方法调用.md "wikilink")
+  - [Distributed
+    COM](https://zh.wikipedia.org/wiki/Distributed_COM "wikilink")
+  - [Java远程方法调用](https://zh.wikipedia.org/wiki/Java远程方法调用 "wikilink")
   - [遠程過程調用](../Page/遠程過程調用.md "wikilink")
-  - [XPCOM](../Page/XPCOM.md "wikilink")
+  - [XPCOM](https://zh.wikipedia.org/wiki/XPCOM "wikilink")
 
 ## 參考資料
 

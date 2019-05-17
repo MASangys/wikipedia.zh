@@ -1,5 +1,5 @@
 **HOTSHOT**（）為韓國[Star
-Crew娛樂旗下的六人男子流行音樂團體](../Page/Star_Crew娛樂.md "wikilink")，成員包括晙赫、Timoteo、[太鉉](../Page/盧太鉉.md "wikilink")、[成雲](../Page/河成雲.md "wikilink")、尹山、鎬廷\[1\]。出道日期為2014年10月31日。官方粉絲名為“핫플（hotple）”，為hot
+Crew娛樂旗下的六人男子流行音樂團體](https://zh.wikipedia.org/wiki/Star_Crew娛樂 "wikilink")，成員包括晙赫、Timoteo、[太鉉](https://zh.wikipedia.org/wiki/盧太鉉 "wikilink")、[成雲](https://zh.wikipedia.org/wiki/河成雲 "wikilink")、尹山、鎬廷\[1\]。出道日期為2014年10月31日。官方粉絲名為“핫플（hotple）”，為hot
 place的縮寫，為熱門場所的意思，包含著火熱的意義。
 
 ## 發展歷程
@@ -11,7 +11,7 @@ place的縮寫，為熱門場所的意思，包含著火熱的意義。
 Timoteo曾是[SM娛樂練習生](../Page/SM娛樂.md "wikilink")，更一度被選為[EXO成員](../Page/EXO.md "wikilink")，後來因個人因素退出出道計劃\[3\]。
 
 太鉉在2007年至2008年間成為著名Krump舞團[Monster Woo
-Fam最年少的成員](../Page/Monster_Woo_Fam.md "wikilink")，並取藝名Kid
+Fam最年少的成員](https://zh.wikipedia.org/wiki/Monster_Woo_Fam "wikilink")，並取藝名Kid
 Monster活動\[4\]。
 
 尹山曾在法國居住長達8年，能說出一口流利的法語\[5\]，中途回韓國遊玩期間，在喝咖啡時被星探發現。
@@ -44,29 +44,29 @@ Monster活動\[4\]。
 
 6月8日發行單曲《Step By Step》於日本正式出道\[9\]。
 
-### 2017年：《PRODUCE 101 第二季》、 單曲《Jelly》、《[The Unit](../Page/The_Unit.md "wikilink")》、三周年紀念專輯《Time To FLY HIGH》
+### 2017年：《PRODUCE 101 第二季》、 單曲《Jelly》、《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》、三周年紀念專輯《Time To FLY HIGH》
 
 #### 盧太鉉、河成雲参加《PRODUCE 101 第二季》
 
 3月，Star Crew娛樂宣布成員[Kid
-Monster](../Page/盧太鉉.md "wikilink")、[成雲將以本名](../Page/河成雲.md "wikilink")（盧太鉉、河成雲）參加《[PRODUCE
-101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》。
+Monster](https://zh.wikipedia.org/wiki/盧太鉉 "wikilink")、[成雲將以本名](https://zh.wikipedia.org/wiki/河成雲 "wikilink")（盧太鉉、河成雲）參加《[PRODUCE
+101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》。
 
 最終太鉉獲得第25名，而成雲獲得第11名，為最後一名加入[Wanna
-One的成員](../Page/Wanna_One.md "wikilink")。
+One的成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。
 
 6月20日，HOTSHOT被SSEN 10邀請成為其服裝品牌代表人\[10\]。
 
 7月4日，Star Crew娛樂宣布HOTSHOT將於7月15日回歸，屆時太鉉合流，成雲因[Wanna
-One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。
+One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。
 
 7月11日，Star
 Crew娛樂宣布HOTSHOT將以新曲《Jelly》回歸，當中太鉉參與編舞的部分，晙赫和尹山參與作詞的部分，Timoteo則參與製作的部分\[11\]
 
 並且太鉉宣布開始以**本名**活動，日後進行HOTSHOT相關活動不再使用藝名Kid Monster。
 
-7月11日，[LOEN娛樂宣布](../Page/LOEN娛樂.md "wikilink")[JBJ出道的詳細內容正在討論中](../Page/JBJ.md "wikilink")，而Star
-Crew娛樂已經准許太鉉進行[JBJ的相關活動](../Page/JBJ.md "wikilink")，JBJ
+7月11日，[LOEN娛樂宣布](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[JBJ出道的詳細內容正在討論中](https://zh.wikipedia.org/wiki/JBJ "wikilink")，而Star
+Crew娛樂已經准許太鉉進行[JBJ的相關活動](https://zh.wikipedia.org/wiki/JBJ "wikilink")，JBJ
 將於10月18日出道。\[12\]
 
 7月15日，MBC Show\!音樂中心播放首次亮相 《Jelly》 的節目後，登上Naver立刻實時搜索語1位\[13\]。
@@ -75,22 +75,22 @@ Crew娛樂已經准許太鉉進行[JBJ的相關活動](../Page/JBJ.md "wikilink"
 place的縮寫，為熱門場所的意思，包含著火熱的意義。像HOTSHOT的意義為“有名的人們”一樣，是“有名的人們聚在一起的地方”的意義，即
 “hotple是HOTSHOT們聚在一起的地方” 的意義。
 
-#### 金Timoteo、高鎬廷參加《[The Unit](../Page/The_Unit.md "wikilink")》
+#### 金Timoteo、高鎬廷參加《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》
 
-10月28日，成員金Timoteo、高鎬廷參加[KBS2偶像再造選秀節目](../Page/KBS2.md "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》。
+10月28日，成員金Timoteo、高鎬廷參加[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
+Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
 
 11月5日，發行三周年紀念專輯《Time To FLY HIGH》。
 
 ### 2018年：《The Unit》结束、第二張迷你專輯《Early Flowering》
 
 2月11日，在選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的最後一集中，鎬廷獲得第3名，進入期間限定團體[UNB出道](../Page/UNB.md "wikilink")。金Timoteo以第10名可惜淘汰。
+Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》的最後一集中，鎬廷獲得第3名，進入期間限定團體[UNB出道](https://zh.wikipedia.org/wiki/UNB "wikilink")。金Timoteo以第10名可惜淘汰。
 
 9月4日，預計在本月底或是10月初時回歸。\[14\]。
 
 10月15日，Star Crew娛樂宣布確定於11月8日回歸，這也是太鉉和鎬廷結束JBJ、UNB活動歸隊後睽違一年的回歸，而成雲因[Wanna
-One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
+One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[15\]
 
 11月2日，原定11月8日的回歸延至11月15日，Star Crew娛樂說明爲了完成度，而全面修改編舞。\[16\]
 
@@ -100,16 +100,16 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 
 ## 成員資料
 
-| 成員列表                            |
-| ------------------------------- |
-| 藝名                              |
-| 藝名                              |
-| 晙赫                              |
-| Timoteo                         |
-| [太鉉](../Page/盧太鉉.md "wikilink") |
-| [成雲](../Page/河成雲.md "wikilink") |
-| 尹山                              |
-| 鎬廷                              |
+| 成員列表                                               |
+| -------------------------------------------------- |
+| 藝名                                                 |
+| 藝名                                                 |
+| 晙赫                                                 |
+| Timoteo                                            |
+| [太鉉](https://zh.wikipedia.org/wiki/盧太鉉 "wikilink") |
+| [成雲](https://zh.wikipedia.org/wiki/河成雲 "wikilink") |
+| 尹山                                                 |
+| 鎬廷                                                 |
 
 ## 音樂作品
 
@@ -134,9 +134,9 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <td><p>《<strong>TAKE A SHOT</strong>》</p>
 <ul>
 <li>發行日期：2014年10月30日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
-<li>發行單位：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位下載.md" title="wikilink">數位下載</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行單位：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -145,9 +145,9 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <td><p>《<strong>Jelly</strong>》</p>
 <ul>
 <li>發行日期：2017年7月15日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
-<li>發行單位：<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></li>
-<li>格式：<a href="../Page/數位下載.md" title="wikilink">數位下載</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行單位：<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></li>
+<li>格式：<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -175,10 +175,10 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <td><p>《<strong>Am I HOTSHOT?</strong>》</p>
 <ul>
 <li>發行日期：2015年4月24日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
-<li>發行單位：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位下載.md" title="wikilink">數位下載</a></li>
-<li><a href="../Page/Gaon音樂榜.md" title="wikilink">專輯銷量</a>：2,547<ref>迷你專輯《Am I Hotshot?》累積銷量：</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行單位：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">專輯銷量</a>：2,547<ref>迷你專輯《Am I Hotshot?》累積銷量：</li>
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
@@ -188,10 +188,10 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <td><p>《<strong>I'm A HOTSHOT</strong>》</p>
 <ul>
 <li>發行日期：2015年7月2日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
-<li>發行單位：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位下載.md" title="wikilink">數位下載</a></li>
-<li><a href="../Page/Gaon音樂榜.md" title="wikilink">專輯銷量</a>：1,647[17]</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行單位：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">專輯銷量</a>：1,647[17]</li>
 <li>備註：《Am I HOTSHOT?》改版</li>
 </ul></td>
 <td></td>
@@ -202,10 +202,10 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <td><p>《<strong>Early Flowering</strong>》</p>
 <ul>
 <li>發行日期：2018年11月15日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
-<li>發行單位：<a href="../Page/Mnet_Media.md" title="wikilink">Stone Music</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位下載.md" title="wikilink">數位下載</a></li>
-<li><a href="../Page/Gaon音樂榜.md" title="wikilink">專輯銷量</a>： 10,433+[18]</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行單位：<a href="https://zh.wikipedia.org/wiki/Mnet_Media" title="wikilink">Stone Music</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">專輯銷量</a>： 10,433+[18]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -233,7 +233,7 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <td><p>三周年紀念專輯《<strong>Time To FLY HIGH</strong>》</p>
 <ul>
 <li>發行日期：2017年11月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>發行單位：Star Crew娛樂</li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a></li>
 <li>備註：三周年紀念見面會門票贈品、成雲未參與此次專輯內頁拍攝活動</li>
@@ -264,9 +264,9 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <td><p>《<strong>Step By Step</strong>》</p>
 <ul>
 <li>發行日期：2016年6月8日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
-<li>發行單位：<a href="../Page/ARGS_Productions.md" title="wikilink">ARGS Productions</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位下載.md" title="wikilink">數位下載</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+<li>發行單位：<a href="https://zh.wikipedia.org/wiki/ARGS_Productions" title="wikilink">ARGS Productions</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -289,7 +289,7 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon音樂榜.md" title="wikilink">韓國</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">韓國</a><br />
 </p></td>
 <td><p><a href="../Page/Oricon.md" title="wikilink">日本</a><br />
 [19]</p></td>
@@ -377,7 +377,7 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon音樂榜.md" title="wikilink">韓國</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">韓國</a><br />
 <ref>單曲在Gaon Chart單曲週榜成績：</p>
 <ul>
 <li></li>
@@ -477,7 +477,7 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 <li>「{1}」：四星期冠軍</li>
 <li>「*」：打榜中</li>
 <li>「<span style="background:#808080">　</span>」：該段時期未有設立排行榜</li>
-<li>2015年11月14日起，《<a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a>》不設一位制度和排行榜制度，由2015年11月21日開始，改為由主持公布當週<strong>HOT3</strong>歌曲。</li>
+<li>2015年11月14日起，《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》不設一位制度和排行榜制度，由2015年11月21日開始，改為由主持公布當週<strong>HOT3</strong>歌曲。</li>
 </ul></td>
 </tr>
 </tbody>
@@ -522,69 +522,69 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 
 ## 綜藝作品
 
-| 年份                | 日期                                       | 電視台 / 平台                                                           | 節目名稱                                                       | 參與成員            | 備註          |
-| ----------------- | ---------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------- | --------------- | ----------- |
-| 2014年             | 12月2日                                    | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")                             | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》                 | 全員              |             |
-| 12月8日             | [Mnet](../Page/Mnet.md "wikilink")       | 《Meet & Greet》                                                     |                                                            |                 |             |
-| 2015年             | 1月25日                                    | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")                             | 《K-Populous》                                               |                 |             |
-| 3月28日             | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")   | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》                         |                                                            |                 |             |
-| 4月16日             | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")   | 《Rookie show》                                                      |                                                            |                 |             |
-| 5月13日             | [Mnet](../Page/Mnet.md "wikilink")       | 《Meet & Greet 》                                                    |                                                            |                 |             |
-| 6月14日             | KBS第1頻道                                  | 《偵察兵第2季》                                                           |                                                            |                 |             |
-| 6月20日             | [SBS](../Page/SBS.md "wikilink")         | 《中韓時尚王》                                                            |                                                            |                 |             |
-| 7月22日             | [KBS](../Page/KBS.md "wikilink")         | 《Yettie Studio》 EP1\[22\]                                          |                                                            |                 |             |
-| 7月30日             |                                          | 《TurnUp21》                                                         |                                                            |                 |             |
-| 8月7日              | Idolic TV                                | 《IDOL GOT 10》EP12                                                  |                                                            |                 |             |
-| 10月24日            | QQ音樂                                     | 《第二季QQ音樂巔峰對決第1期》                                                   |                                                            |                 |             |
-| 10月26日            | 碰碰網                                      | 《碰碰明星網採訪》                                                          |                                                            |                 |             |
-| 11月4日             | 優酷網                                      | 《韓伴FUN》                                                            |                                                            |                 |             |
-| 11月10日            | [中國中央電視台](../Page/中國中央電視台.md "wikilink") | 《幸福賬單》                                                             |                                                            |                 |             |
-| 2016年             | 2月27日                                    | K-STAR電視台                                                          | 《[夢想成真](../Page/夢想成真.md "wikilink")》EP1                    |                 |             |
-| 12月2日             | [GTV](../Page/GTV.md "wikilink")         | 《Hello Korea》                                                      |                                                            |                 |             |
-| 2017年             | 4月7日-6月16日                               | [Mnet](../Page/Mnet.md "wikilink")                                 | 《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》 | 太鉉、成雲           | 太鉉25名、成雲11名 |
-| 6月30日             | [Mnet](../Page/Mnet.md "wikilink")       | 《[Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")》 | 尹山                                                         | 於試鏡淘汰           |             |
-| 7月17日             | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")   | 《Super K-pop》                                                      | 全員                                                         | 成雲除外            |             |
-| 7月18日             | [TBS](../Page/TBS.md "wikilink")         | 《Fact in Star》                                                     |                                                            |                 |             |
-| 7月26日             | TongTongTV                               | 《聯合新聞》                                                             |                                                            |                 |             |
-| 7月26日             |                                          | 《K Star》                                                           |                                                            |                 |             |
-| 7月27日             | [音樂電視網](../Page/音樂電視網.md "wikilink")     | 《我愛偶像 Idols of Asia》\[23\]                                         |                                                            |                 |             |
-| 8月9日              | [SBS](../Page/SBS.md "wikilink")         | 《SBS PopAsia》                                                      |                                                            |                 |             |
-| 8月25日             | Celuv TV                                 | 《I'm Celuv TV》                                                     |                                                            |                 |             |
-| 9月9日              | [MBC](../Page/MBC.md "wikilink")         | 《Idol Tour》                                                        | 晙赫、Timoteo                                                 |                 |             |
-| 10月18日－12月21日     | 동아TV                                     | 《Kiss the beauty》                                                  | 尹山                                                         |                 |             |
-| 10月28日－2018年2月10日 | [KBS](../Page/KBS.md "wikilink")         | 《[The Unit](../Page/The_Unit.md "wikilink")》                       | Timoteo、鎬廷                                                 | Timoteo10名、鎬廷3名 |             |
-| 2018年             | 1月3日－2月21日                               | SBS PLUS                                                           | 《男子氣概，那是什麼?》                                               | 尹山              | 固定出演        |
-| 9月29日－10月27日      | [JTBC](../Page/JTBC.md "wikilink")       | 《HITMAN2 日本山形篇》                                                    | 尹山                                                         |                 |             |
-| 11月24日－12月23日     | CJ E\&M OGN                              | 《[Gamedolympic](../Page/Gamedolympic.md "wikilink")》               | 尹山                                                         | 每周五、六播出         |             |
-| 12月3日             | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")   | 《Pops in Seoul》                                                    | 全員                                                         | 成雲除外            |             |
-| 12月9日             | [MBC](../Page/MBC.md "wikilink")         | 《金申英的TMI UNDER NINETEEN》                                           | 太鉉、鎬廷                                                      |                 |             |
-| 12月11日            | [tvN](../Page/tvN.md "wikilink")         | 《[大腦性感的時代－問題的男人](../Page/大腦性感的時代－問題的男人.md "wikilink")》             | 尹山                                                         |                 |             |
-| 12月21日            | [KBS](../Page/KBS.md "wikilink")         | 《[A SONG FOR YOU為你歌唱](../Page/A_SONG_FOR_YOU為你歌唱.md "wikilink")》   | 全員                                                         | 第五季，成雲除外        |             |
-| 12月28日            | TBS                                      | 《Fact in star》                                                     | 全員                                                         | 成雲除外            |             |
-| 2019年             | 1月9日                                     | SPOTV STARK                                                        | 《IDOL LEAGUE》                                              | 全員              |             |
-| 4月1日－             | EBSe                                     | 《Cook\! 10 Minutes》                                                | Timoteo                                                    |                 |             |
+| 年份                | 日期                                                          | 電視台 / 平台                                                                              | 節目名稱                                                                          | 參與成員            | 備註          |
+| ----------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | ----------- |
+| 2014年             | 12月2日                                                       | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")                             | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》                                    | 全員              |             |
+| 12月8日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 《Meet & Greet》                                                                        |                                                                               |                 |             |
+| 2015年             | 1月25日                                                       | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")                             | 《K-Populous》                                                                  |                 |             |
+| 3月28日             | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")   | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》                                            |                                                                               |                 |             |
+| 4月16日             | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")   | 《Rookie show》                                                                         |                                                                               |                 |             |
+| 5月13日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 《Meet & Greet 》                                                                       |                                                                               |                 |             |
+| 6月14日             | KBS第1頻道                                                     | 《偵察兵第2季》                                                                              |                                                                               |                 |             |
+| 6月20日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")         | 《中韓時尚王》                                                                               |                                                                               |                 |             |
+| 7月22日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | 《Yettie Studio》 EP1\[22\]                                                             |                                                                               |                 |             |
+| 7月30日             |                                                             | 《TurnUp21》                                                                            |                                                                               |                 |             |
+| 8月7日              | Idolic TV                                                   | 《IDOL GOT 10》EP12                                                                     |                                                                               |                 |             |
+| 10月24日            | QQ音樂                                                        | 《第二季QQ音樂巔峰對決第1期》                                                                      |                                                                               |                 |             |
+| 10月26日            | 碰碰網                                                         | 《碰碰明星網採訪》                                                                             |                                                                               |                 |             |
+| 11月4日             | 優酷網                                                         | 《韓伴FUN》                                                                               |                                                                               |                 |             |
+| 11月10日            | [中國中央電視台](https://zh.wikipedia.org/wiki/中國中央電視台 "wikilink") | 《幸福賬單》                                                                                |                                                                               |                 |             |
+| 2016年             | 2月27日                                                       | K-STAR電視台                                                                             | 《[夢想成真](../Page/夢想成真.md "wikilink")》EP1                                       |                 |             |
+| 12月2日             | [GTV](https://zh.wikipedia.org/wiki/GTV "wikilink")         | 《Hello Korea》                                                                         |                                                                               |                 |             |
+| 2017年             | 4月7日-6月16日                                                  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                                 | 《[PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》 | 太鉉、成雲           | 太鉉25名、成雲11名 |
+| 6月30日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 《[Show Me The Money 6](https://zh.wikipedia.org/wiki/Show_Me_The_Money_6 "wikilink")》 | 尹山                                                                            | 於試鏡淘汰           |             |
+| 7月17日             | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")   | 《Super K-pop》                                                                         | 全員                                                                            | 成雲除外            |             |
+| 7月18日             | [TBS](../Page/TBS.md "wikilink")                            | 《Fact in Star》                                                                        |                                                                               |                 |             |
+| 7月26日             | TongTongTV                                                  | 《聯合新聞》                                                                                |                                                                               |                 |             |
+| 7月26日             |                                                             | 《K Star》                                                                              |                                                                               |                 |             |
+| 7月27日             | [音樂電視網](../Page/音樂電視網.md "wikilink")                        | 《我愛偶像 Idols of Asia》\[23\]                                                            |                                                                               |                 |             |
+| 8月9日              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")         | 《SBS PopAsia》                                                                         |                                                                               |                 |             |
+| 8月25日             | Celuv TV                                                    | 《I'm Celuv TV》                                                                        |                                                                               |                 |             |
+| 9月9日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | 《Idol Tour》                                                                           | 晙赫、Timoteo                                                                    |                 |             |
+| 10月18日－12月21日     | 동아TV                                                        | 《Kiss the beauty》                                                                     | 尹山                                                                            |                 |             |
+| 10月28日－2018年2月10日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | 《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》                       | Timoteo、鎬廷                                                                    | Timoteo10名、鎬廷3名 |             |
+| 2018年             | 1月3日－2月21日                                                  | SBS PLUS                                                                              | 《男子氣概，那是什麼?》                                                                  | 尹山              | 固定出演        |
+| 9月29日－10月27日      | [JTBC](../Page/JTBC.md "wikilink")                          | 《HITMAN2 日本山形篇》                                                                       | 尹山                                                                            |                 |             |
+| 11月24日－12月23日     | CJ E\&M OGN                                                 | 《[Gamedolympic](../Page/Gamedolympic.md "wikilink")》                                  | 尹山                                                                            | 每周五、六播出         |             |
+| 12月3日             | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")   | 《Pops in Seoul》                                                                       | 全員                                                                            | 成雲除外            |             |
+| 12月9日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | 《金申英的TMI UNDER NINETEEN》                                                              | 太鉉、鎬廷                                                                         |                 |             |
+| 12月11日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")         | 《[大腦性感的時代－問題的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")》             | 尹山                                                                            |                 |             |
+| 12月21日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | 《[A SONG FOR YOU為你歌唱](../Page/A_SONG_FOR_YOU為你歌唱.md "wikilink")》                      | 全員                                                                            | 第五季，成雲除外        |             |
+| 12月28日            | TBS                                                         | 《Fact in star》                                                                        | 全員                                                                            | 成雲除外            |             |
+| 2019年             | 1月9日                                                        | SPOTV STARK                                                                           | 《IDOL LEAGUE》                                                                 | 全員              |             |
+| 4月1日－             | EBSe                                                        | 《Cook\! 10 Minutes》                                                                   | Timoteo                                                                       |                 |             |
 
 ## 廣播節目
 
-| 年份     | 日期                                                               | 節目名稱                                                | 參與成員 | 備註 |
-| ------ | ---------------------------------------------------------------- | --------------------------------------------------- | ---- | -- |
-| 2014年  | 11月20日                                                           | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《Sound K》     | 全員   |    |
-| 11月22日 | [KBS](../Page/KBS.md "wikilink") 《Super Junior的Kiss the Radio》   |                                                     |      |    |
-| 11月24日 | SBS Power FM《崔華靜的Power Time》                                     |                                                     |      |    |
-| 12月10日 | SBS Power FM《崔華靜的Power Time》                                     |                                                     |      |    |
-| 12月24日 | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink") 《Super K-pop》             |                                                     |      |    |
-| 2015年  | 1月1日                                                             | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink") 《Sound K》    |      |    |
-| 4月30日  | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《Sound K》                  |                                                     |      |    |
-| 5月10日  | [SBS](../Page/SBS.md "wikilink")《VIXX N KPOP》                    |                                                     |      |    |
-| 5月11日  | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《K-Poppin'》                |                                                     |      |    |
-| 7月6日   | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《Sound K》                  |                                                     |      |    |
-| 7月27日  | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《K-Poppin'》                |                                                     |      |    |
-| 2017年  | 7月17日                                                            | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《Super K-pop》 | 成雲除外 |    |
-| 2018年  | 11月19日                                                           | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《K-Poppin'》   |      |    |
-| 11月28日 | MBC FM4U 《梁耀燮的夢想電台》                                              |                                                     |      |    |
-| 12月3日  | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《Super K-pop》              |                                                     |      |    |
-| 12月17日 | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")《Turn Up Party Radio GaGa》 | 公開放送、成雲除外                                           |      |    |
-|        |                                                                  |                                                     |      |    |
+| 年份     | 日期                                                                                  | 節目名稱                                                                   | 參與成員 | 備註 |
+| ------ | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---- | -- |
+| 2014年  | 11月20日                                                                              | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《Sound K》     | 全員   |    |
+| 11月22日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 《Super Junior的Kiss the Radio》   |                                                                        |      |    |
+| 11月24日 | SBS Power FM《崔華靜的Power Time》                                                        |                                                                        |      |    |
+| 12月10日 | SBS Power FM《崔華靜的Power Time》                                                        |                                                                        |      |    |
+| 12月24日 | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink") 《Super K-pop》             |                                                                        |      |    |
+| 2015年  | 1月1日                                                                                | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink") 《Sound K》    |      |    |
+| 4月30日  | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《Sound K》                  |                                                                        |      |    |
+| 5月10日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《VIXX N KPOP》                    |                                                                        |      |    |
+| 5月11日  | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《K-Poppin'》                |                                                                        |      |    |
+| 7月6日   | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《Sound K》                  |                                                                        |      |    |
+| 7月27日  | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《K-Poppin'》                |                                                                        |      |    |
+| 2017年  | 7月17日                                                                               | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《Super K-pop》 | 成雲除外 |    |
+| 2018年  | 11月19日                                                                              | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《K-Poppin'》   |      |    |
+| 11月28日 | MBC FM4U 《梁耀燮的夢想電台》                                                                 |                                                                        |      |    |
+| 12月3日  | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《Super K-pop》              |                                                                        |      |    |
+| 12月17日 | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《Turn Up Party Radio GaGa》 | 公開放送、成雲除外                                                              |      |    |
+|        |                                                                                     |                                                                        |      |    |
 
 ## 演唱會及其他演出
 
@@ -667,7 +667,7 @@ One活動限制而未能參與](../Page/Wanna_One.md "wikilink")。\[15\]
 
 ## 音樂創作
 
-[社團法人韓國音樂著作權協會(KOMCA)登記之資料](../Page/韓國音樂著作權協會.md "wikilink")
+[社團法人韓國音樂著作權協會(KOMCA)登記之資料](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
 
 | 成員  | 登記名稱 | 登記編號     | 參與歌曲列表 |
 | --- | ---- | -------- | ------ |

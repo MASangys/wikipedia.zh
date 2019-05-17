@@ -1,4 +1,4 @@
-《**歡迎SHOW**》(；)，為[韓國](../Page/韓國.md "wikilink")[KBS2製作的綜藝節目](../Page/KBS2.md "wikilink")，由[李瑞鎮](../Page/李瑞鎮.md "wikilink")、[金鍾國](../Page/金鍾國.md "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")、[金世正等人主持與出演](../Page/金世正.md "wikilink")，節目以明星才藝捐獻為主題，銷售運動家、藝術家、科學家等各界明星的才能，希望能發掘明星們的反轉魅力，是一檔新概念愛心捐款節目，自2016年5月6日開始每週五播出\[1\]。
+《**歡迎SHOW**》(；)，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS2製作的綜藝節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")，由[李瑞鎮](../Page/李瑞鎮.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")、[金世正等人主持與出演](https://zh.wikipedia.org/wiki/金世正 "wikilink")，節目以明星才藝捐獻為主題，銷售運動家、藝術家、科學家等各界明星的才能，希望能發掘明星們的反轉魅力，是一檔新概念愛心捐款節目，自2016年5月6日開始每週五播出\[1\]。
 
 ## 節目列表
 
@@ -22,22 +22,22 @@
 <td><p>1</p></td>
 <td><p>5月6日<br />
 <small><em>(4月24日)</em></small></p></td>
-<td><p><a href="../Page/安貞煥.md" title="wikilink">安貞煥</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/安貞煥" title="wikilink">安貞煥</a><br />
 <small>(退役韓國國家隊足球員、現足球評述員)</small><br />
 <br />
 <small>(国乐人)</small><br />
-<a href="../Page/吳俊浩.md" title="wikilink">吳俊浩</a><br />
+<a href="https://zh.wikipedia.org/wiki/吳俊浩" title="wikilink">吳俊浩</a><br />
 <small>(韩国科学技术院<br />
-(<a href="../Page/KAIST.md" title="wikilink">KAIST</a>) 教授)</small></p></td>
+(<a href="https://zh.wikipedia.org/wiki/KAIST" title="wikilink">KAIST</a>) 教授)</small></p></td>
 <td><p>李瑞鎮<br />
 安貞煥</p></td>
 <td><p>安貞煥的足球教室</p></td>
 <td><p>60米橫跨漢江射門挑戰<br />
 兒童足球教室</p></td>
-<td><p><a href="../Page/周宇才.md" title="wikilink">周宇才</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/周宇才" title="wikilink">周宇才</a><br />
 <a href="../Page/金信英.md" title="wikilink">金信英</a><br />
 <a href="../Page/朴煥熙.md" title="wikilink">朴煥熙</a><br />
-<a href="../Page/MC_Gree.md" title="wikilink">MC Gree</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/MC_Gree" title="wikilink">MC Gree</a></p></td>
 <td><p><code>李瑞鎮、安貞煥 勝出</code><code> </code><br />
 <code>特別演出：</code><a href="../Page/I.O.I.md" title="wikilink"><code>I.O.I</code></a><code> </code></p></td>
 </tr>
@@ -72,11 +72,11 @@
 <td><p>3</p></td>
 <td><p>5月20日<br />
 <small><em>(5月15日)</em></small></p></td>
-<td><p><a href="../Page/徐章煇.md" title="wikilink">徐章煇</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a><br />
 <small>(退役韓國國家隊籃球員、現綜藝主持)</small><br />
 <a href="../Page/河錫辰.md" title="wikilink">河錫辰</a><br />
 <small>(演員)</small><br />
-<a href="../Page/Steve_J.md" title="wikilink">Steve J</a> &amp; <a href="../Page/Yoni_P.md" title="wikilink">Yoni P</a><br />
+<a href="https://zh.wikipedia.org/wiki/Steve_J" title="wikilink">Steve J</a> &amp; <a href="https://zh.wikipedia.org/wiki/Yoni_P" title="wikilink">Yoni P</a><br />
 <small>(設計師夫婦)</small></p></td>
 <td><p>李瑞鎮<br />
 徐章煇</p></td>
@@ -84,8 +84,8 @@
 <td><p>籃球對決</p></td>
 <td><p><a href="../Page/金賽綸.md" title="wikilink">金賽綸</a><br />
 <a href="../Page/全烋星.md" title="wikilink">全烋星</a><br />
-<a href="../Page/劉在煥.md" title="wikilink">劉在煥</a><br />
-<a href="../Page/全昭彌.md" title="wikilink">全昭彌</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/劉在煥" title="wikilink">劉在煥</a><br />
+<a href="https://zh.wikipedia.org/wiki/全昭彌" title="wikilink">全昭彌</a></p></td>
 <td><p>李瑞鎮、徐章煇 勝出</p></td>
 </tr>
 <tr class="even">
@@ -119,20 +119,20 @@ Yoni P</p></td>
 <td><p>5</p></td>
 <td><p>6月3日<br />
 <small><em>(5月25日)</em></small></p></td>
-<td><p><a href="../Page/洪京民.md" title="wikilink">洪京民</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a><br />
 <small>(歌手、音樂人、演員)</small><br />
-<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a><br />
+<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a><br />
 <small>(演員、綜藝主持)</small><br />
-<a href="../Page/朴娜萊_(喜劇演員).md" title="wikilink">朴娜萊</a><br />
+<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊</a><br />
 <small>(搞笑藝人)</small><br />
-<a href="../Page/金昭熙.md" title="wikilink">金昭熙</a><br />
+<a href="https://zh.wikipedia.org/wiki/金昭熙" title="wikilink">金昭熙</a><br />
 <small>(大廚)</small></p></td>
 <td><p>李瑞鎮<br />
 朴娜萊</p></td>
 <td><p>朴娜萊的搞笑教室</p></td>
 <td><p>鋼管舞表演<br />
 Gag 教室</p></td>
-<td><p><a href="../Page/金請夏.md" title="wikilink">金請夏</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a><br />
 <a href="../Page/申奉仙.md" title="wikilink">申奉仙</a><br />
 <a href="../Page/崔熙.md" title="wikilink">崔　熙</a><br />
 <a href="../Page/李昌燮.md" title="wikilink">李昌燮</a> <small>(<a href="../Page/BTOB.md" title="wikilink">BTOB</a>)</small><br />
@@ -172,9 +172,9 @@ Gag 教室</p></td>
 <td><p>7</p></td>
 <td><p>6月17日<br />
 <small><em>(6月8日)</em></small></p></td>
-<td><p><a href="../Page/Zico_(歌手).md" title="wikilink">Zico</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)<br />
 <small>(饒舌歌手)</small><br />
-<a href="../Page/文世允.md" title="wikilink">文世允</a><br />
+<a href="https://zh.wikipedia.org/wiki/文世允" title="wikilink">文世允</a><br />
 <small>(喜劇演員)</small><br />
 <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a><br />
 <small>(音樂組合)</small></p></td>
@@ -185,7 +185,7 @@ SISTAR</p></td>
 肌肉訓練</p></td>
 <td><p>——</p></td>
 <td><p>盧弘喆、Zico 勝出<br />
-特別演出：柔術丹尼尔、李陽升(桶大叔)、Team Brothers 、朴基泰、許安娜、<a href="../Page/鄭彩妍.md" title="wikilink">鄭彩妍</a>(<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>)、<a href="../Page/鄭彩妍.md" title="wikilink">鄭彩妍父母</a></p></td>
+特別演出：柔術丹尼尔、李陽升(桶大叔)、Team Brothers 、朴基泰、許安娜、<a href="https://zh.wikipedia.org/wiki/鄭彩妍" title="wikilink">鄭彩妍</a>(<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>)、<a href="https://zh.wikipedia.org/wiki/鄭彩妍" title="wikilink">鄭彩妍父母</a></p></td>
 </tr>
 <tr class="even">
 <td><p>金鍾國<br />
@@ -225,7 +225,7 @@ Zico</p></td>
 <small>(喜劇演員)</small><br />
 <a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a><br />
 <small>(歌手、綜藝主持)</small><br />
-<a href="../Page/率智.md" title="wikilink">率智</a> (<a href="../Page/EXID.md" title="wikilink">EXID</a>)<br />
+<a href="../Page/率智.md" title="wikilink">率智</a> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)<br />
 <small>(歌手)</small></p></td>
 <td><p>李瑞鎮<br />
 朴修弘</p></td>
@@ -290,14 +290,14 @@ Zico</p></td>
 <td><p>歌唱教室<br />
 </p></td>
 <td><p>——</p></td>
-<td><p>特別演出：藝靜華、<a href="../Page/Baby_Soul.md" title="wikilink">Baby Soul</a>(<a href="../Page/Lovelyz.md" title="wikilink">Lovelyz</a>)、<a href="../Page/JIN.md" title="wikilink">JIN</a>(<a href="../Page/Lovelyz.md" title="wikilink">Lovelyz</a>)</p></td>
+<td><p>特別演出：藝靜華、<a href="https://zh.wikipedia.org/wiki/Baby_Soul" title="wikilink">Baby Soul</a>(<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>)、<a href="https://zh.wikipedia.org/wiki/JIN" title="wikilink">JIN</a>(<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>13</p></td>
 <td><p>7月29日<br />
 <small><em>(7月20日)</em></small></p></td>
-<td><p><a href="../Page/李荣杓.md" title="wikilink">李荣杓</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/李荣杓" title="wikilink">李荣杓</a><br />
 <small>(退役韓國國家隊足球員)</small><br />
 赵宇钟<br />
 <small>(藝人)</small></p></td>
@@ -306,16 +306,16 @@ Zico</p></td>
 <td><p>球技示範<br />
 足球對決</p></td>
 <td><p>——</p></td>
-<td><p>特別演出：<a href="../Page/鄭太昊.md" title="wikilink">鄭太昊</a>、<a href="../Page/吳娜美.md" title="wikilink">吳娜美</a>、<a href="../Page/李商勛.md" title="wikilink">李商勛</a>、<a href="../Page/宋英吉.md" title="wikilink">宋英吉</a>(<a href="../Page/搞笑演唱會.md" title="wikilink">搞笑演唱會</a>)</p></td>
+<td><p>特別演出：<a href="https://zh.wikipedia.org/wiki/鄭太昊" title="wikilink">鄭太昊</a>、<a href="https://zh.wikipedia.org/wiki/吳娜美" title="wikilink">吳娜美</a>、<a href="https://zh.wikipedia.org/wiki/李商勛" title="wikilink">李商勛</a>、<a href="https://zh.wikipedia.org/wiki/宋英吉" title="wikilink">宋英吉</a>(<a href="../Page/搞笑演唱會.md" title="wikilink">搞笑演唱會</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>14</p></td>
 <td><p>8月5日<br />
 <small><em>(7月20日)</em></small></p></td>
-<td><p><a href="../Page/金永哲_(喜剧演员).md" title="wikilink">金永哲</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/金永哲_(喜剧演员)" title="wikilink">金永哲</a><br />
 <small>(搞笑藝人、喜劇演員)</small><br />
-<a href="../Page/羅伊·金.md" title="wikilink">Roy Kim</a><br />
+<a href="https://zh.wikipedia.org/wiki/羅伊·金" title="wikilink">Roy Kim</a><br />
 <small>(歌手)</small></p></td>
 <td><p>——</p></td>
 <td><p>金永哲和Roy Kim的英語會話</p></td>
@@ -340,7 +340,7 @@ Zico</p></td>
 <td><p>15</p></td>
 <td><p>8月26日<br />
 <sub><em>(8月17日)</em></sub></p></td>
-<td><p><a href="../Page/柳熙烈.md" title="wikilink">柳熙烈</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/柳熙烈" title="wikilink">柳熙烈</a><br />
 <sub>(歌手)</sub></p></td>
 <td><p>——</p></td>
 <td><p>柳熙烈的森林音樂會</p></td>
@@ -354,7 +354,7 @@ Zico</p></td>
 <td><p>9月2日<br />
 <small><em>(8月)</em></small></p></td>
 <td><p><strong>好友特輯</strong><br />
-<a href="../Page/洪錫天.md" title="wikilink">洪錫天</a><br />
+<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a><br />
 <small>(模特兒、藝人、演員)</small><br />
 <a href="../Page/柳承秀.md" title="wikilink">柳承秀</a><br />
 <small>(演員)</small><br />
@@ -367,8 +367,8 @@ Zico</p></td>
 聲音測試：突襲<a href="../Page/朴明洙.md" title="wikilink">朴明洙電台</a></p></td>
 <td><p>——</p></td>
 <td><p>盧弘喆、洪錫天 勝出<br />
-特別演出：<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/朴智允.md" title="wikilink">朴智允</a>、、、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<br />
-崔秀敏 (聲優、車太鉉母親)、<a href="../Page/車太鉉.md" title="wikilink">車太鉉聲音</a>(電話)特別出演</p></td>
+特別演出：<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="https://zh.wikipedia.org/wiki/朴智允" title="wikilink">朴智允</a>、、、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<br />
+崔秀敏 (聲優、車太鉉母親)、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉聲音</a>(電話)特別出演</p></td>
 </tr>
 <tr class="even">
 <td><p>金鍾國<br />
@@ -414,13 +414,13 @@ Zico</p></td>
 <td><p><strong>1+1特輯</strong><br />
 <a href="../Page/崔民秀.md" title="wikilink">崔民秀</a><br />
 <small>(演員)</small><br />
-<a href="../Page/張度練.md" title="wikilink">張度練</a><br />
+<a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a><br />
 <small>(搞笑藝人、喜劇演員)</small><br />
 <br />
 <small>(歌手、畫家)</small><br />
 <br />
 <small>(主持、搞笑藝人、喜劇演員)</small><br />
-<a href="../Page/黃載根.md" title="wikilink">黃載根</a><br />
+<a href="https://zh.wikipedia.org/wiki/黃載根" title="wikilink">黃載根</a><br />
 <small>(設計師)</small></p></td>
 <td><p>李瑞鎮<br />
 松雨<br />
@@ -431,7 +431,7 @@ Zico</p></td>
 情侶畫報拍攝<br />
 即興繪畫主題：秋天的回憶</p></td>
 <td><p>——</p></td>
-<td><p>特別演出：朴智滿 (攝影師)、36.5℃ (崔民秀所屬樂隊)、李柄珍(喜劇演員)、金娜英 (<a href="../Page/gu9udan.md" title="wikilink">gugudan</a>) 、Outsider (rapper)</p></td>
+<td><p>特別演出：朴智滿 (攝影師)、36.5℃ (崔民秀所屬樂隊)、李柄珍(喜劇演員)、金娜英 (<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gugudan</a>) 、Outsider (rapper)</p></td>
 </tr>
 <tr class="even">
 <td><p>金鍾國<br />

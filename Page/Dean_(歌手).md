@@ -1,33 +1,33 @@
 **Dean**\[1\]（；），本名**權革**（），在創作歌曲時使用的名字為Deanfluenza，是韓國[歌手兼](../Page/歌手.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。16歲成为地下嘻哈艺人，18岁加入美国加州的JOOMBAS音乐公司。2013年开始至今参与了[John
-Park](../Page/John_Park.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block
-B](../Page/Block_B.md "wikilink")、[李夏怡等藝人團體的歌曲创作](../Page/李夏怡.md "wikilink")。2014年为新人组合[MADTOWN主打歌的制作人](../Page/MADTOWN.md "wikilink")。2015年七月和九月在美国分別发行單曲"I'm
+Park](https://zh.wikipedia.org/wiki/John_Park "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block
+B](../Page/Block_B.md "wikilink")、[李夏怡等藝人團體的歌曲创作](https://zh.wikipedia.org/wiki/李夏怡 "wikilink")。2014年为新人组合[MADTOWN主打歌的制作人](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")。2015年七月和九月在美国分別发行單曲"I'm
 Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單曲"I Love it"在韓國出道\[2\]。
 
 ## 作品
 
 ### 音樂錄影帶(MV)
 
-|     日期      |       歌曲名稱       |                    歌手                     |
-| :---------: | :--------------: | :---------------------------------------: |
-|  2016年6月1日  | Shut Up & Groove |   [Heize](../Page/Heize.md "wikilink")    |
-| 2016年6月25日  |    Starlight     |      [太妍](../Page/太妍.md "wikilink")       |
-| 2016年7月17日  |     And July     |    [Heize](../Page/張多慧.md "wikilink")     |
-| 2016年9月13日  |      CORONA      |                punchnello                 |
-| 2016年11月28日 | Bermuda Triangle | [Zico](../Page/Zico_\(歌手\).md "wikilink") |
-| 2017年5月25日  |  지나쳐(Too Much)   |    [Loco](../Page/Loco.md "wikilink")     |
-|             |                  |                                           |
+|     日期      |       歌曲名稱       |                              歌手                              |
+| :---------: | :--------------: | :----------------------------------------------------------: |
+|  2016年6月1日  | Shut Up & Groove |   [Heize](https://zh.wikipedia.org/wiki/Heize "wikilink")    |
+| 2016年6月25日  |    Starlight     |                [太妍](../Page/太妍.md "wikilink")                |
+| 2016年7月17日  |     And July     |    [Heize](https://zh.wikipedia.org/wiki/張多慧 "wikilink")     |
+| 2016年9月13日  |      CORONA      |                          punchnello                          |
+| 2016年11月28日 | Bermuda Triangle | [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") |
+| 2017年5月25日  |  지나쳐(Too Much)   |    [Loco](https://zh.wikipedia.org/wiki/Loco "wikilink")     |
+|             |                  |                                                              |
 
 ### 綜藝節目
 
-|       日期        |                電視台                 |                                       節目名稱                                       |   集數   |                          備註                           |
-| :-------------: | :--------------------------------: | :------------------------------------------------------------------------------: | :----: | :---------------------------------------------------: |
-|    2016年1月8日    |  [KBS](../Page/KBS.md "wikilink")  |                     [柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")                     |  302   |                          \-                           |
-|   2016年1月19日    | [JTBC](../Page/JTBC.md "wikilink") | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   14   |                          製作人                          |
-|    2016年3月8日    | [JTBC](../Page/JTBC.md "wikilink") | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   21   |                          製作人                          |
-|    2016年6月3日    |  [KBS](../Page/KBS.md "wikilink")  |                     [柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")                     |  322   |                          \-                           |
-|    2016年9月2日    | [Mnet](../Page/Mnet.md "wikilink") |          [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")          |   6    |                          製作人                          |
-|    2017年6月3日    |  [KBS](../Page/KBS.md "wikilink")  |                     [柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")                     |  367   |                          \-                           |
-| 2017年6月23日-9月1日 | [Mnet](../Page/Mnet.md "wikilink") |         [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")         | 特別篇-10 | 與[Zico組成製作人團隊](../Page/Zico.md "wikilink")，團隊成員獲得本屆冠軍 |
+|       日期        |                          電視台                          |                                        節目名稱                                         |   集數   |                                    備註                                    |
+| :-------------: | :---------------------------------------------------: | :---------------------------------------------------------------------------------: | :----: | :----------------------------------------------------------------------: |
+|    2016年1月8日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |             [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")             |  302   |                                    \-                                    |
+|   2016年1月19日    |          [JTBC](../Page/JTBC.md "wikilink")           |  [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")   |   14   |                                   製作人                                    |
+|    2016年3月8日    |          [JTBC](../Page/JTBC.md "wikilink")           |  [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")   |   21   |                                   製作人                                    |
+|    2016年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |             [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")             |  322   |                                    \-                                    |
+|    2016年9月2日    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |  [Unpretty Rapstar 3](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3 "wikilink")  |   6    |                                   製作人                                    |
+|    2017年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |             [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")             |  367   |                                    \-                                    |
+| 2017年6月23日-9月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 6](https://zh.wikipedia.org/wiki/Show_Me_The_Money_6 "wikilink") | 特別篇-10 | 與[Zico組成製作人團隊](https://zh.wikipedia.org/wiki/Zico "wikilink")，團隊成員獲得本屆冠軍 |
 
 ### 電台
 
@@ -57,7 +57,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>首張正式EP《<strong>130 mood : TRBL</strong>》</p>
 <ul>
 <li>發行日期 : 2016年3月24日</li>
-<li>語言 : <a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言 : <a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>首張單曲《<strong>Here &amp; Now</strong>》</p>
 <ul>
 <li>發行日期：2015年6月1日</li>
-<li>語言：<a href="../Page/英語.md" title="wikilink">英語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第二張單曲《<strong>I'm Not Sorry</strong>》</p>
 <ul>
 <li>發行日期：2015年7月30日</li>
-<li>語言：<a href="../Page/英語.md" title="wikilink">英語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -98,7 +98,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第三張單曲《<strong>Put My Hands On You</strong>》</p>
 <ul>
 <li>發行日期：2015年9月18日</li>
-<li>語言：<a href="../Page/英語.md" title="wikilink">英語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -107,7 +107,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第四張單曲《<strong>I love it</strong>》</p>
 <ul>
 <li>發行日期：2015年10月23日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -116,7 +116,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第五張單曲《<strong>Pour up</strong>》</p>
 <ul>
 <li>發行日期：2015年11月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -125,7 +125,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第六張單曲《<strong>what2do</strong>》</p>
 <ul>
 <li>發行日期：2016年1月28日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -134,7 +134,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第七張單曲《<strong>limbo</strong>》</p>
 <ul>
 <li>發行日期：2017年2月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -143,7 +143,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第八張單曲《<strong>love</strong>》</p>
 <ul>
 <li>發行日期：2017年5月19日</li>
-<li>語言：<a href="../Page/英語.md" title="wikilink">英語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -152,7 +152,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第九張單曲《<strong>instagram</strong>》</p>
 <ul>
 <li>發行日期：2017年12月26日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -161,7 +161,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>第十張單曲《<strong>dayfly</strong>》</p>
 <ul>
 <li>發行日期：2018年11月8日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -212,9 +212,9 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2016年6月1日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Heize.md" title="wikilink">Heize單曲</a>《Shut Up &amp; Groove》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Heize" title="wikilink">Heize單曲</a>《Shut Up &amp; Groove》</p></td>
 <td style="text-align: center;"><p>Shut Up &amp; Groove</p></td>
-<td style="text-align: center;"><p><a href="../Page/Heize.md" title="wikilink">Heize</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Heize" title="wikilink">Heize</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>CD</p></td>
@@ -226,30 +226,30 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="odd">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2016年7月18日</p></td>
-<td style="text-align: center;"><p><a href="../Page/張多慧.md" title="wikilink">Heize</a> 第二張迷你專輯《And July》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張多慧" title="wikilink">Heize</a> 第二張迷你專輯《And July》</p></td>
 <td style="text-align: center;"><p>And July</p></td>
-<td style="text-align: center;"><p><a href="../Page/張多慧.md" title="wikilink">Heize</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張多慧" title="wikilink">Heize</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2016年9月3日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Unpretty_Rapstar_3.md" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
 <td style="text-align: center;"><p>Ain't Got Nobody</p></td>
 <td style="text-align: center;"><p><a href="../Page/趙美慧.md" title="wikilink">Miryo</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2016年9月3日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Unpretty_Rapstar_3.md" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
 <td style="text-align: center;"><p>No Thx</p></td>
-<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran</a> &amp; 陸智譚</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a> &amp; 陸智譚</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2016年11月28日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Zico_(歌手).md" title="wikilink">Zico單曲</a>《Bermuda Triangle》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico單曲</a>《Bermuda Triangle》</p></td>
 <td style="text-align: center;"><p>Bermuda Triangle</p></td>
-<td style="text-align: center;"><p><a href="../Page/Zico_(歌手).md" title="wikilink">Zico</a> &amp; <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a> &amp; <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
@@ -276,16 +276,16 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="even">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2017年5月25日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Loco.md" title="wikilink">Loco首張正規專輯</a>《Bleached》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco首張正規專輯</a>《Bleached》</p></td>
 <td style="text-align: center;"><p>지나쳐 (Too Much)</p></td>
-<td style="text-align: center;"><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2017年6月2日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran首張迷你專輯</a>《Walkin'》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran首張迷你專輯</a>《Walkin'》</p></td>
 <td style="text-align: center;"><p>1+1=0</p></td>
-<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>CD</p></td>
@@ -304,9 +304,9 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="even">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2017年7月12日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Zico_(歌手).md" title="wikilink">Zico第二張迷你專輯</a>《Television》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico第二張迷你專輯</a>《Television》</p></td>
 <td style="text-align: center;"><p>FANXY CHILD</p></td>
-<td style="text-align: center;"><p><a href="../Page/Zico_(歌手).md" title="wikilink">Zico</a> &amp; FANXY CHILD</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a> &amp; FANXY CHILD</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
@@ -326,21 +326,21 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2017年8月4日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a> Episode1</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a> Episode1</p></td>
 <td style="text-align: center;"><p>요즘것들</p></td>
-<td style="text-align: center;"><p>&amp;  &amp;  &amp;  &amp; <a href="../Page/Zico_(歌手).md" title="wikilink">Zico</a></p></td>
+<td style="text-align: center;"><p>&amp;  &amp;  &amp;  &amp; <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2017年8月11日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a> Episode2</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a> Episode2</p></td>
 <td style="text-align: center;"><p>어디</p></td>
-<td style="text-align: center;"><p>&amp; <a href="../Page/Zico_(歌手).md" title="wikilink">Zico</a></p></td>
+<td style="text-align: center;"><p>&amp; <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2017年9月1日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a> Episode5</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a> Episode5</p></td>
 <td style="text-align: center;"><p>bestdriverZ</p></td>
 <td style="text-align: center;"><p>&amp; <a href="../Page/Zion.T.md" title="wikilink">Zion T</a></p></td>
 </tr>
@@ -408,16 +408,16 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 
   - DEAN參加的其他演唱會
 
-|              |                                                       |                |
-| ------------ | ----------------------------------------------------- | -------------- |
-| 日期           | 演唱會名稱                                                 | 舉行地點           |
-| 2016年5月7日    | 《ASIA MUSIC STAGE 最強音》演唱會                             | 台北ATT SHOW BOX |
-| 2016年7月9、10日 | Taeyeon Butterfly Kiss Concert                        | 奧林匹克公園奧林匹克大廳   |
-| 2016年7月22日   | 2016 Jisan Valley Rock Festival                       | 仁川的芝山渡假村       |
-| 2017年8月19日   | 2017 CASS Blue Playground                             | 首爾奧林匹克主競技場     |
-| 2017年10月14日  | 2017 THE CRY ground                                   | 蘭芝漢江公園         |
-| 2017年10月21日  | 2017 Gound Mint Festival                              | 首爾奧林匹克公園       |
-| 2017年11月18日  | [clockenflap](../Page/clockenflap.md "wikilink") 2017 | 香港中環海濱         |
+|              |                                                                          |                |
+| ------------ | ------------------------------------------------------------------------ | -------------- |
+| 日期           | 演唱會名稱                                                                    | 舉行地點           |
+| 2016年5月7日    | 《ASIA MUSIC STAGE 最強音》演唱會                                                | 台北ATT SHOW BOX |
+| 2016年7月9、10日 | Taeyeon Butterfly Kiss Concert                                           | 奧林匹克公園奧林匹克大廳   |
+| 2016年7月22日   | 2016 Jisan Valley Rock Festival                                          | 仁川的芝山渡假村       |
+| 2017年8月19日   | 2017 CASS Blue Playground                                                | 首爾奧林匹克主競技場     |
+| 2017年10月14日  | 2017 THE CRY ground                                                      | 蘭芝漢江公園         |
+| 2017年10月21日  | 2017 Gound Mint Festival                                                 | 首爾奧林匹克公園       |
+| 2017年11月18日  | [clockenflap](https://zh.wikipedia.org/wiki/clockenflap "wikilink") 2017 | 香港中環海濱         |
 
 ## 獎項
 
@@ -438,7 +438,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td><p>2016年</p></td>
 <td><p><a href="../Page/韓國音樂大獎.md" title="wikilink">第13屆韓國大眾音樂賞</a></p></td>
 <td><p>最佳R&amp;B/靈魂類歌曲獎</p></td>
-<td><p>《Pour Up》(Feat. <a href="../Page/Zico_(歌手).md" title="wikilink">Zico</a>)</p></td>
+<td><p>《Pour Up》(Feat. <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -449,15 +449,15 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">第19屆Mnet亞洲音樂大獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">第19屆Mnet亞洲音樂大獎</a></p></td>
 <td><p>最佳嘻哈&amp;城市音樂獎</p></td>
-<td><p>《Come Over》(Feat. <a href="../Page/白藝潾.md" title="wikilink">白藝潾</a>)</p></td>
+<td><p>《Come Over》(Feat. <a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">白藝潾</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/2018年Mnet亞洲音樂大獎.md" title="wikilink">第20屆Mnet亞洲音樂大獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎" title="wikilink">第20屆Mnet亞洲音樂大獎</a></p></td>
 <td><p>最佳作曲人獎</p></td>
 <td><p>《instagram》</p></td>
 <td></td>

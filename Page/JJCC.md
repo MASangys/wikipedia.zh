@@ -6,7 +6,7 @@ Mak五名成員組成，現由E.co、Prince Mak、Eddy、Yul、Zica、Simba和Sa
 原定2014年初出道，然而拍攝出道單曲《一開始都那樣》MV當天，成員Prince
 Mak不慎滑倒受傷，必須休養12週，因此《一開始都那樣》MV中僅有四名成員現身，JJCC亦延後出道日期\[1\]，最終於2014年3月20日在韓國出道。
 
-2015年8月再加入兩名新成員Zica和Yul，以七人體制回歸。兩人皆為已解散男子組合[A.T.O成員](../Page/A.T.O.md "wikilink")。
+2015年8月再加入兩名新成員Zica和Yul，以七人體制回歸。兩人皆為已解散男子組合[A.T.O成員](https://zh.wikipedia.org/wiki/A.T.O "wikilink")。
 
 問候口號為「A-Yo\! JJ to the double C\!」。
 
@@ -20,7 +20,7 @@ Mak表示仍為**JJCC**成員\[4\]。
 
 2017年3月2日，Jackie Chan Group Korea宣布**JJCC**成員Yul、SanCheong參加《[PRODUCE
 101
-(第二季)](../Page/PRODUCE_101_\(第二季\).md "wikilink")》而暫停活動，最终在60名外淘汰\[5\]。2017年末，成员Simba参加[MIXNINE](../Page/MIXNINE.md "wikilink")，最终在99名外淘汰。
+(第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》而暫停活動，最终在60名外淘汰\[5\]。2017年末，成员Simba参加[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，最终在99名外淘汰。
 
 ## 團名由來
 
@@ -58,7 +58,7 @@ Jackie Chan Chan」。
 <td><p>首張單曲《<strong>一開始都那樣</strong>》（첨엔 다 그래）</p>
 <ul>
 <li>發行日期：2014年3月24日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -67,7 +67,7 @@ Jackie Chan Chan」。
 <td><p>第二張單曲《<strong>Fire</strong>》（질러）</p>
 <ul>
 <li>發行日期：2015年1月4日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -76,7 +76,7 @@ Jackie Chan Chan」。
 <td><p>第三張單曲《<strong>On the Flower Bed</strong>》（꽃밭에서）</p>
 <ul>
 <li>發行日期：2015年4月9日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -85,7 +85,7 @@ Jackie Chan Chan」。
 <td><p>第四張單曲《<strong>ToDay</strong>》（오늘 한번）</p>
 <ul>
 <li>發行日期：2016年3月9日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -106,7 +106,7 @@ Jackie Chan Chan」。
 <td><p>首張迷你專輯《<strong>JJCC 1ST MINI ALBUM</strong>》</p>
 <ul>
 <li>發行日期：2014年8月21日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -115,7 +115,7 @@ Jackie Chan Chan」。
 <td><p>第二張迷你專輯《<strong>악몽</strong>》</p>
 <ul>
 <li>發行日期：2015年8月20日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -136,7 +136,7 @@ Jackie Chan Chan」。
 <td><p>首張日語單曲《<strong>現在</strong>》（今すぐに）</p>
 <ul>
 <li>發行日期：2016年5月4日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>、韓語</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、韓語</li>
 </ul></td>
 <td></td>
 </tr>
@@ -163,11 +163,11 @@ Jackie Chan Chan」。
 
 ### 電影
 
-|           |                                    |             |        |          |        |
-| --------- | ---------------------------------- | ----------- | ------ | -------- | ------ |
-| **日期**    | **名稱**                             | **參與成員**    | **性質** | **演出角色** | **備註** |
-| 2018年3月1日 | [红海行动](../Page/红海行动.md "wikilink") | Prinece Mak | 主演     | 庄羽       |        |
-|           |                                    |             |        |          |        |
+|           |                                                       |             |        |          |        |
+| --------- | ----------------------------------------------------- | ----------- | ------ | -------- | ------ |
+| **日期**    | **名稱**                                                | **參與成員**    | **性質** | **演出角色** | **備註** |
+| 2018年3月1日 | [红海行动](https://zh.wikipedia.org/wiki/红海行动 "wikilink") | Prinece Mak | 主演     | 庄羽       |        |
+|           |                                                       |             |        |          |        |
 
 ### 綜藝節目
 
@@ -312,7 +312,7 @@ Jackie Chan Chan」。
 4.  [EXCLUSIVE: Prince Mak clarifies whether he's still in
     JJCC](http://www.sbs.com.au/popasia/blog/2016/12/15/exclusive-prince-mak-clarifies-whether-hes-still-jjcc)
 5.  [JJCC 參加《PRODUCE 101》第二季？](http://kpopn.niusnews.com/=K17c5cd8)
-6.  [A.T.O活動當時藝名為](../Page/A.T.O.md "wikilink")**Rihan**
-7.  [A.T.O活動當時藝名為](../Page/A.T.O.md "wikilink")**Noah**
+6.  [A.T.O活動當時藝名為](https://zh.wikipedia.org/wiki/A.T.O "wikilink")**Rihan**
+7.  [A.T.O活動當時藝名為](https://zh.wikipedia.org/wiki/A.T.O "wikilink")**Noah**
 8.  原本的隊長是SanCheong，後來換成了Simba（2014.10.07 After School Club EP107
     15:00-16:18提及）

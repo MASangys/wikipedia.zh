@@ -1,4 +1,4 @@
-《**新兵正传III：蛙人传**》（）是2015年的一部[新加坡贺岁电影](../Page/新加坡.md "wikilink")，由[梁智强执导及联合编剧](../Page/梁智强.md "wikilink")，2015年2月19日上映。
+《**新兵正传III：蛙人传**》（）是2015年的一部[新加坡贺岁电影](../Page/新加坡.md "wikilink")，由[梁智强执导及联合编剧](https://zh.wikipedia.org/wiki/梁智强 "wikilink")，2015年2月19日上映。
 
 荣获2015海口21世纪海上丝绸之路电影节最佳编剧奖。
 
@@ -9,18 +9,22 @@ Chow（陈伟恩）和罗邦（王伟良）等人如果没有加入到陆地的�
 
 ## 演员表
 
-  - [陈伟恩](../Page/陈伟恩.md "wikilink") Joshua 饰 Ken Chow
-  - [王伟良](../Page/王伟良.md "wikilink") 饰 罗邦 Lobang
-  - [黄恺杰](../Page/黄恺杰.md "wikilink") Wesley 饰 黑龙
-  - [林俊良](../Page/林俊良.md "wikilink") Maxi 饰 Aloysius / S.L. Jin
-  - [吴清樑](../Page/吴清樑.md "wikilink") Charlie 饰 伟明
-  - [张智揚](../Page/张智揚.md "wikilink") Tosh 饰 Warrant Alex Ong
-  - [刘谦益](../Page/刘谦益.md "wikilink") Richard 饰 Ken之父
-  - [洪爱玲](../Page/洪爱玲.md "wikilink") Irene 饰 Ken之母
+  - [陈伟恩](https://zh.wikipedia.org/wiki/陈伟恩 "wikilink") Joshua 饰 Ken
+    Chow
+  - [王伟良](https://zh.wikipedia.org/wiki/王伟良 "wikilink") 饰 罗邦 Lobang
+  - [黄恺杰](https://zh.wikipedia.org/wiki/黄恺杰 "wikilink") Wesley 饰 黑龙
+  - [林俊良](https://zh.wikipedia.org/wiki/林俊良 "wikilink") Maxi 饰 Aloysius
+    / S.L. Jin
+  - [吴清樑](https://zh.wikipedia.org/wiki/吴清樑 "wikilink") Charlie 饰 伟明
+  - [张智揚](https://zh.wikipedia.org/wiki/张智揚 "wikilink") Tosh 饰 Warrant
+    Alex Ong
+  - [刘谦益](https://zh.wikipedia.org/wiki/刘谦益 "wikilink") Richard 饰 Ken之父
+  - [洪爱玲](https://zh.wikipedia.org/wiki/洪爱玲 "wikilink") Irene 饰 Ken之母
   - [王雷](../Page/王雷.md "wikilink") 饰 Ken之舅舅
-  - [陈天文](../Page/陈天文.md "wikilink") 饰 Aloysius之父
+  - [陈天文](https://zh.wikipedia.org/wiki/陈天文 "wikilink") 饰 Aloysius之父
   - [梁祖仪](../Page/梁祖仪.md "wikilink") 饰 罗薇
-  - [叶荣耀](../Page/叶荣耀.md "wikilink") Noah 饰 I.P. Man（客串演出）
+  - [叶荣耀](https://zh.wikipedia.org/wiki/叶荣耀 "wikilink") Noah 饰 I.P.
+    Man（客串演出）
 
 ## 票房
 

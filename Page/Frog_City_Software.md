@@ -13,13 +13,17 @@ Studios，该工作室在2007年关闭。\[5\]
 
 ## 旗下游戏
 
-  - *[Imperialism](../Page/Imperialism_\(game\).md "wikilink")*, 1997
+  - *[Imperialism](https://zh.wikipedia.org/wiki/Imperialism_\(game\) "wikilink")*,
+    1997
   - *[Imperialism II: Age of
-    Exploration](../Page/Imperialism_II:_Age_of_Exploration.md "wikilink")*,
+    Exploration](https://zh.wikipedia.org/wiki/Imperialism_II:_Age_of_Exploration "wikilink")*,
     1999
-  - *[Trade Empires](../Page/Trade_Empires.md "wikilink")*, 2001''\[6\]
+  - *[Trade
+    Empires](https://zh.wikipedia.org/wiki/Trade_Empires "wikilink")*,
+    2001''\[6\]
   - *[Tropico 2: Pirate
-    Cove](../Page/Tropico_2:_Pirate_Cove.md "wikilink")*, 2003.
+    Cove](https://zh.wikipedia.org/wiki/Tropico_2:_Pirate_Cove "wikilink")*,
+    2003.
   - ''Snow '', 2005\[7\]that was cancelled in 2006.\[8\]
   - *Pantheon*, 1998（2000年取消）\[9\]
 

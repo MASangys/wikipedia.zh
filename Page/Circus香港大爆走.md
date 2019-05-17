@@ -1,4 +1,4 @@
-《**Circus香港大爆走**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共13集，由[CIRCUS擔任主持](../Page/CIRCUS.md "wikilink")。本節目於2013年8月31日起[香港時間逢星期六至日](../Page/香港時間.md "wikilink")23:30-00:00在[J2播出](../Page/J2.md "wikilink")，及於[myTV提供網上節目重溫](../Page/myTV.md "wikilink")（集數上傳後兩個月後會刪除）。本節目是CIRCUS於2014年解散前的最後一個電視節目。
+《**Circus香港大爆走**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共13集，由[CIRCUS擔任主持](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")。本節目於2013年8月31日起[香港時間逢星期六至日](../Page/香港時間.md "wikilink")23:30-00:00在[J2播出](../Page/J2.md "wikilink")，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除）。本節目是CIRCUS於2014年解散前的最後一個電視節目。
 過ㄑ
 
 ## 節目簡介

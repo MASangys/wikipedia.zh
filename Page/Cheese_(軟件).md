@@ -1,4 +1,4 @@
-**Cheese**是[GNOME的攝像頭軟件](../Page/GNOME.md "wikilink")，類似[蘋果公司的](../Page/蘋果公司.md "wikilink")[Photo
+**Cheese**是[GNOME的攝像頭軟件](../Page/GNOME.md "wikilink")，類似[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Photo
 Booth](../Page/Photo_Booth.md "wikilink")\[1\]。它在2007年[Google夏日程式碼大賽由Daniel](../Page/Google夏日程式碼大賽.md "wikilink")
 G.
 Siegel開始開發。它使用[GStreamer來對影片及相片加入特效](../Page/GStreamer.md "wikilink")\[2\]。它可以輸出至[Flickr](../Page/Flickr.md "wikilink")，而且與GNOME銜接\[3\]。

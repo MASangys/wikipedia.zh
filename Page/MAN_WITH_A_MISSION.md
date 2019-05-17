@@ -4,9 +4,9 @@ eggman。官方設定為樂團由五名狼頭人身的究極生命體組成\[1\]
 
 ## 概要
 
-樂團在經紀公司的官方設定是在一個地球屢遭戰禍的時代（19XX年），在被稱為的世界盡頭，由天才生物學家的瘋狂科學所產生的生命體\[4\]\[5\]。因為吉米自身的興趣是彈吉他\[6\]，所以他亦將音樂能力複製至生命體身上\[7\]。但是，由於那些生命體擁有超人的頭腦和肉體，他們被不同的當權者如[阿道夫·希特勒及](../Page/阿道夫·希特勒.md "wikilink")[約瑟夫·維薩里奧諾維奇·斯大林利用](../Page/約瑟夫·維薩里奧諾維奇·斯大林.md "wikilink")，最終在被罪的意識所折磨的吉米以其生命作交換下，親手將他們冰封在[南極](../Page/南極.md "wikilink")\[8\]\[9\]。
+樂團在經紀公司的官方設定是在一個地球屢遭戰禍的時代（19XX年），在被稱為的世界盡頭，由天才生物學家的瘋狂科學所產生的生命體\[4\]\[5\]。因為吉米自身的興趣是彈吉他\[6\]，所以他亦將音樂能力複製至生命體身上\[7\]。但是，由於那些生命體擁有超人的頭腦和肉體，他們被不同的當權者如[阿道夫·希特勒及](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")[約瑟夫·維薩里奧諾維奇·斯大林利用](https://zh.wikipedia.org/wiki/約瑟夫·維薩里奧諾維奇·斯大林 "wikilink")，最終在被罪的意識所折磨的吉米以其生命作交換下，親手將他們冰封在[南極](https://zh.wikipedia.org/wiki/南極 "wikilink")\[8\]\[9\]。
 
-在被凍結時，狼們利用他們發達的聽覺聆聽世間上各色各樣的音樂\[10\]，並以在1997年所舉辦的搖滾音樂節上聽到的聲音為契機\[11\]\[12\]，認為音樂也許能夠讓這個世界有所改變，於是立志進行音樂活動。雖然狼們依舊處於凍結狀態，但在2010年由於[溫室效應的影響而令冰川融化](../Page/溫室效應.md "wikilink")，使他們脫離凍結狀態\[13\]\[14\]，並展開樂隊活動。
+在被凍結時，狼們利用他們發達的聽覺聆聽世間上各色各樣的音樂\[10\]，並以在1997年所舉辦的搖滾音樂節上聽到的聲音為契機\[11\]\[12\]，認為音樂也許能夠讓這個世界有所改變，於是立志進行音樂活動。雖然狼們依舊處於凍結狀態，但在2010年由於[溫室效應的影響而令冰川融化](https://zh.wikipedia.org/wiki/溫室效應 "wikilink")，使他們脫離凍結狀態\[13\]\[14\]，並展開樂隊活動。
 
 樂隊的組成時間、樂隊成員的年齡以及國籍皆沒有對外公開\[15\]。在樂曲製作方面，吉他手Jean-Ken Johnny及貝斯手Kamikaze
 Boy主要負責作詞，而作曲則是先由Jean-Ken Johnny和Kamikaze
@@ -269,29 +269,29 @@ SRCL-9810（通常盤）</p></td>
 
 ### 商業搭配
 
-| 樂曲                               | 相關作品                                                                          |
-| -------------------------------- | ----------------------------------------------------------------------------- |
-| 2013年                            |                                                                               |
-| 《Emotions》                       | 電影《[瘋狂假面](../Page/瘋狂假面.md "wikilink")》主題曲                                     |
-| 《Wake Myself Again》              | 電影《JUDGE》主題曲                                                                  |
-| 《database feat. TAKUMA(10-FEET)》 | [電視動畫](../Page/電視動畫.md "wikilink")《[記錄的地平線](../Page/記錄的地平線.md "wikilink")》片頭曲 |
-| 2014年                            |                                                                               |
-| 《evils fall》                     | 電視劇《[BORDER](../Page/BORDER.md "wikilink")》主題曲                                |
-| 2015年                            |                                                                               |
-| 《Seven Deadly Sins》              | 電視動畫《[七大罪](../Page/七大罪_\(漫畫\).md "wikilink")》片頭曲                              |
-| 《Dive》                           | 電影《新宿天鵝》主題曲                                                                   |
-| 《Falling》                        | [資生堂](../Page/資生堂.md "wikilink")「膠原蛋白」廣告歌                                     |
-| 《Raise your flag》                | 電視動畫《[機動戰士GUNDAM 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")》片頭曲           |
-| 《Far》                            | WOWWOW「[西班牙甲組足球聯賽](../Page/西班牙甲組足球聯賽.md "wikilink")15-16」主題曲                  |
-| 《Memories》                       | JR SKISKI廣告歌                                                                  |
-| 2017年                            |                                                                               |
-| 《Dead End in Tokyo》              | 電影《新宿天鵝 II》主題曲                                                                |
-| 《My Hero》                        | 電視動畫《[殺戮重生犬屋敷](../Page/殺戮重生犬屋敷.md "wikilink")》片頭曲                             |
-| 2018年                            |                                                                               |
-| 《Winding Road》                   | 電視動畫《[黃金神威](../Page/黃金神威.md "wikilink")》片頭曲                                   |
-| 《Take me Under》                  | 電影《[殺戮重生犬屋敷](../Page/殺戮重生犬屋敷.md "wikilink")》主題曲                               |
-| 2019年                            |                                                                               |
-| 《Left Alive》                     | Square Enix 電玩遊戲《[Left Alive](../Page/Left_Alive.md "wikilink")》主題曲           |
+| 樂曲                               | 相關作品                                                                                             |
+| -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2013年                            |                                                                                                  |
+| 《Emotions》                       | 電影《[瘋狂假面](../Page/瘋狂假面.md "wikilink")》主題曲                                                        |
+| 《Wake Myself Again》              | 電影《JUDGE》主題曲                                                                                     |
+| 《database feat. TAKUMA(10-FEET)》 | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[記錄的地平線](../Page/記錄的地平線.md "wikilink")》片頭曲 |
+| 2014年                            |                                                                                                  |
+| 《evils fall》                     | 電視劇《[BORDER](../Page/BORDER.md "wikilink")》主題曲                                                   |
+| 2015年                            |                                                                                                  |
+| 《Seven Deadly Sins》              | 電視動畫《[七大罪](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")》片頭曲                              |
+| 《Dive》                           | 電影《新宿天鵝》主題曲                                                                                      |
+| 《Falling》                        | [資生堂](../Page/資生堂.md "wikilink")「膠原蛋白」廣告歌                                                        |
+| 《Raise your flag》                | 電視動畫《[機動戰士GUNDAM 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")》片頭曲                              |
+| 《Far》                            | WOWWOW「[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")15-16」主題曲                  |
+| 《Memories》                       | JR SKISKI廣告歌                                                                                     |
+| 2017年                            |                                                                                                  |
+| 《Dead End in Tokyo》              | 電影《新宿天鵝 II》主題曲                                                                                   |
+| 《My Hero》                        | 電視動畫《[殺戮重生犬屋敷](https://zh.wikipedia.org/wiki/殺戮重生犬屋敷 "wikilink")》片頭曲                             |
+| 2018年                            |                                                                                                  |
+| 《Winding Road》                   | 電視動畫《[黃金神威](../Page/黃金神威.md "wikilink")》片頭曲                                                      |
+| 《Take me Under》                  | 電影《[殺戮重生犬屋敷](https://zh.wikipedia.org/wiki/殺戮重生犬屋敷 "wikilink")》主題曲                               |
+| 2019年                            |                                                                                                  |
+| 《Left Alive》                     | Square Enix 電玩遊戲《[Left Alive](https://zh.wikipedia.org/wiki/Left_Alive "wikilink")》主題曲           |
 
 ## 參考資料
 

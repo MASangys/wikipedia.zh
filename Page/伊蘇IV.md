@@ -1,7 +1,7 @@
-是[日本Falcom公司](../Page/日本Falcom.md "wikilink")[动作角色扮演游戏系列](../Page/动作角色扮演游戏.md "wikilink")[伊苏第四代一系列游戏的统称](../Page/伊苏.md "wikilink")。游戏事件接着《[伊苏](../Page/伊苏I.md "wikilink")》和《[伊苏II](../Page/伊苏II.md "wikilink")》之后，主要情节發生在「塞爾塞塔」。
+是[日本Falcom公司](../Page/日本Falcom.md "wikilink")[动作角色扮演游戏系列](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")[伊苏第四代一系列游戏的统称](https://zh.wikipedia.org/wiki/伊苏 "wikilink")。游戏事件接着《[伊苏](https://zh.wikipedia.org/wiki/伊苏I "wikilink")》和《[伊苏II](https://zh.wikipedia.org/wiki/伊苏II "wikilink")》之后，主要情节發生在「塞爾塞塔」。
 
 此代Falcom只提供故事原案，將開發授權給[Hudson與](../Page/Hudson_Soft.md "wikilink")[Tonkin
-House兩間公司](../Page/Tonkin_House.md "wikilink")。分別開發出了《[伊蘇的黎明](../Page/伊蘇的黎明.md "wikilink")》以及《[太陽的假面](../Page/太陽的假面.md "wikilink")》兩種版本。然而兩間公司的世界設定與故事，與伊蘇系列的原設定皆有所衝突。2012年Falcom自行開發了《[塞爾塞塔的樹海](../Page/塞爾塞塔的樹海.md "wikilink")》作為四代的官方正式版本。
+House兩間公司](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")。分別開發出了《[伊蘇的黎明](https://zh.wikipedia.org/wiki/伊蘇的黎明 "wikilink")》以及《[太陽的假面](https://zh.wikipedia.org/wiki/太陽的假面 "wikilink")》兩種版本。然而兩間公司的世界設定與故事，與伊蘇系列的原設定皆有所衝突。2012年Falcom自行開發了《[塞爾塞塔的樹海](https://zh.wikipedia.org/wiki/塞爾塞塔的樹海 "wikilink")》作為四代的官方正式版本。
 
 ## 登場人物
 
@@ -113,19 +113,19 @@ House兩間公司](../Page/Tonkin_House.md "wikilink")。分別開發出了《[�
 ## 游戏
 
   - \- 由[Tonkin
-    House開發](../Page/Tonkin_House.md "wikilink")，初版1993年11月19日發行於[超级任天堂平台](../Page/超级任天堂.md "wikilink")。
+    House開發](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")，初版1993年11月19日發行於[超级任天堂平台](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。
 
   - \-
     由[Hudson開發](../Page/Hudson_Soft.md "wikilink")，初版1993年12月22日發行於[PC
-    Engine與](../Page/PC_Engine.md "wikilink")[SUPER
-    CD-ROM2平台](../Page/SUPER_CD-ROM2.md "wikilink")。
+    Engine與](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[SUPER
+    CD-ROM2平台](https://zh.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")。
 
   - \- 由[Arc System
     Works所重制的新版本](../Page/Arc_System_Works.md "wikilink")，初版2005年5月26日發行於[PlayStaion
-    2平台](../Page/PlayStaion_2.md "wikilink")。
+    2平台](https://zh.wikipedia.org/wiki/PlayStaion_2 "wikilink")。
 
   - \-
-    由[Falcom自行开发的版本](../Page/Falcom.md "wikilink")，初版在2012年9月27日發行於[PlayStation
+    由[Falcom自行开发的版本](https://zh.wikipedia.org/wiki/Falcom "wikilink")，初版在2012年9月27日發行於[PlayStation
     Vita平台](../Page/PlayStation_Vita.md "wikilink")。
 
 ## 参考文献

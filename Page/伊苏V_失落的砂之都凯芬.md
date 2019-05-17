@@ -1,9 +1,9 @@
-是[日本Falcom开发](../Page/日本Falcom.md "wikilink")，并于1995年在[超级任天堂发行的](../Page/超级任天堂.md "wikilink")[动作角色扮演游戏](../Page/动作角色扮演游戏.md "wikilink")，为[伊苏系列第五代游戏](../Page/伊苏系列.md "wikilink")。2006年[太东发行](../Page/太东.md "wikilink")[PlayStation
+是[日本Falcom开发](../Page/日本Falcom.md "wikilink")，并于1995年在[超级任天堂发行的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，为[伊苏系列第五代游戏](../Page/伊苏系列.md "wikilink")。2006年[太东发行](https://zh.wikipedia.org/wiki/太东 "wikilink")[PlayStation
 2版](../Page/PlayStation_2.md "wikilink")。
 
 ## 玩法
 
-《伊蘇V》遊戲界面和以往的[伊蘇作品相似](../Page/伊蘇系列.md "wikilink")，屏幕上方顯示遊戲地圖，下方顯示金錢、[經驗值](../Page/經驗值.md "wikilink")、玩家角色和敵人的[生命槽](../Page/生命值.md "wikilink")。和系列以往的碰撞攻擊系統不同，本作玩家需要手動按鍵攻擊。
+《伊蘇V》遊戲界面和以往的[伊蘇作品相似](https://zh.wikipedia.org/wiki/伊蘇系列 "wikilink")，屏幕上方顯示遊戲地圖，下方顯示金錢、[經驗值](https://zh.wikipedia.org/wiki/經驗值 "wikilink")、玩家角色和敵人的[生命槽](../Page/生命值.md "wikilink")。和系列以往的碰撞攻擊系統不同，本作玩家需要手動按鍵攻擊。
 
 ## 情节
 

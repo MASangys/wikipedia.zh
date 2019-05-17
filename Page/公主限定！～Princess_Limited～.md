@@ -1,6 +1,6 @@
 是日本Princess
-Sugar在2011年2月25日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Princess
-Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DVDPG版](../Page/DVDPG.md "wikilink")。\[3\]後來在2012年由PoRO發售[OVA版](../Page/OVA.md "wikilink")。\[4\]
+Sugar在2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Princess
+Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]後來在2012年由PoRO發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]
 
 ## 故事
 
@@ -30,7 +30,7 @@ Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DV
   - フランチェスカ＝フジシロ（CV：倉田まりや\[9\]）
     生日：3月28日　血型：B型　身高：162cm　 三圍：B88/W57/H88
     服侍オリビア的女僕長，武稜學園三年級學生。喜歡オリビア的女同性戀。
-  - 高津涼子（CV：[水純菜菜步](../Page/水純菜菜步.md "wikilink")\[10\]）
+  - 高津涼子（CV：[水純菜菜步](https://zh.wikipedia.org/wiki/水純菜菜步 "wikilink")\[10\]）
     生日：12月31日　血型：A型　身高：158cm　 三圍：B84/W55/H83
     武稜學園三年級學生和學生會長。
   - 朝倉千明 （CV：高井戸雫\[11\]）
@@ -45,7 +45,7 @@ Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DV
 
 ## OVA
 
-[OVA版是由PoRO在](../Page/OVA.md "wikilink")2012年發售的[成人動畫](../Page/成人動畫.md "wikilink")，全部共有兩話。
+[OVA版是由PoRO在](https://zh.wikipedia.org/wiki/OVA "wikilink")2012年發售的[成人動畫](../Page/成人動畫.md "wikilink")，全部共有兩話。
 
 ### 各話列表
 

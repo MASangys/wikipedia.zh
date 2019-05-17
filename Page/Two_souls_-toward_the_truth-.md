@@ -1,12 +1,12 @@
 《**Two souls -toward the
-truth-**》是[fripSide](../Page/fripSide.md "wikilink")（第二期）的第十張單曲。於2015年12月2日由[NBCUniversal
-Entertainment發售](../Page/日本Geneon環球娛樂.md "wikilink")。
+truth-**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第十張單曲。於2015年12月2日由[NBCUniversal
+Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon環球娛樂 "wikilink")。
 
 ## 概要
 
-  - [初回限定盤](../Page/初回限定盤.md "wikilink")（GNCA-0398）及通常盤（GNCA-0399）2種版本。初回限定盤附收錄有《Two
+  - [初回限定盤](https://zh.wikipedia.org/wiki/初回限定盤 "wikilink")（GNCA-0398）及通常盤（GNCA-0399）2種版本。初回限定盤附收錄有《Two
     souls -toward the truth-》PV的DVD。
-  - 由[fripSide擔當TV動畫](../Page/fripSide.md "wikilink")《[終結的熾天使](../Page/終結的熾天使.md "wikilink")》的片頭曲《Two
+  - 由[fripSide擔當TV動畫](https://zh.wikipedia.org/wiki/fripSide "wikilink")《[終結的熾天使](../Page/終結的熾天使.md "wikilink")》的片頭曲《Two
     souls -toward the truth-》。
   - 單曲同時收錄主唱南條愛乃所作詞的《冬のかけら（冬之碎片）》。
 

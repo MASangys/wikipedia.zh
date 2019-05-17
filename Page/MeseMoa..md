@@ -1,4 +1,4 @@
-**MeseMoa.**（）是以9人组成的日本男子偶像團體。剛開始活動時以10人组成的Musumen.（）名義開始活動。以投稿翻跳[早安少女組的影片作為契機而結成](../Page/早安少女組.md "wikilink")，以及自主營運的形式進行活動\[1\]。他們以在[中野太陽廣場公演作為目標](../Page/中野太陽廣場.md "wikilink")，並在2015年8月達成該目標\[2\]。2017年2月3日，團體名字從Musumen.改成MeseMoa.。
+**MeseMoa.**（）是以9人组成的日本男子偶像團體。剛開始活動時以10人组成的Musumen.（）名義開始活動。以投稿翻跳[早安少女組的影片作為契機而結成](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")，以及自主營運的形式進行活動\[1\]。他們以在[中野太陽廣場公演作為目標](../Page/中野太陽廣場.md "wikilink")，並在2015年8月達成該目標\[2\]。2017年2月3日，團體名字從Musumen.改成MeseMoa.。
 
 Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名稱為irumii(イルミィ)
 
@@ -174,8 +174,8 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
 ### 2012年
 
   - 3月30日，白服在與共同主持的節目“星期五nico
-    radio”最後一集中收到了来自早安少女组的[铃木香音的視頻訊息](../Page/铃木香音.md "wikilink")，表示希望他能夠翻跳《[戀愛獵人](../Page/戀愛獵人.md "wikilink")》\[4\]。
-  - 5月10日，在[niconico動畫投稿了戀愛獵人的翻跳視頻](../Page/niconico動畫.md "wikilink")\[5\]。
+    radio”最後一集中收到了来自早安少女组的[铃木香音的視頻訊息](https://zh.wikipedia.org/wiki/铃木香音 "wikilink")，表示希望他能夠翻跳《[戀愛獵人](../Page/戀愛獵人.md "wikilink")》\[4\]。
+  - 5月10日，在[niconico動畫投稿了戀愛獵人的翻跳視頻](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[5\]。
   - 8月18日，在「NicoNico Dance Master4～生でニコニコいかせて！～」中以morning
     musumen.的名義參加表演了戀愛獵人。這是他們第一次出演活動。
   - 10月10日，在niconico動畫和youtube投稿了[非常興奮 Take a
@@ -190,7 +190,7 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
   - **4月27日，首張單曲『War Cry 〜アイドル気取りで何が悪い！〜』發售。**
   - 4月29日，在birth新宿舉行「Musumen.迷你單獨公演～in東京～。Tomitake作为新增成員加入。并且巫覡夜徒作为dream
     morning musumen.加入。
-  - 5月2日，在niconico動畫和youtube投稿了[One·Two·Three的翻跳視頻](../Page/One·Two·Three/The_摩天樓_Show.md "wikilink")\[8\]，這是Asupara參加的最後的翻跳視頻。
+  - 5月2日，在niconico動畫和youtube投稿了[One·Two·Three的翻跳視頻](https://zh.wikipedia.org/wiki/One·Two·Three/The_摩天樓_Show "wikilink")\[8\]，這是Asupara參加的最後的翻跳視頻。
   - **8月7日，第二張單曲『サマー☆ビーナス 〜真夏のアイドル〜』發售。**
   - 8月11日，報名參加了『[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink")
     2013「出れんの\!?サマソニ\!?」』\[9\]。
@@ -207,7 +207,7 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
     舉辦東京公演；發表將要發售第一張專輯的消息。另外為了更加方便進行Musumen.的活動，住在關西的浮躁王子和Zeararu.，以及住在北海道的Tomitake都會和住在東京的白服一起開始在東京的合租公寓生活。
   - **4月26日，首張專輯『Wonder Dream』發售。**
   - 4月26日及27日出演「NicoNico 超Party
-    Ⅲ」，表演[The☆Pea～ce\!的時候](../Page/The☆Pea～ce!_/_充滿愛的大宇宙.md "wikilink")，[石川梨華作为驚喜嘉賓登場](../Page/石川梨華.md "wikilink")\[11\]。和本家早安少女組。的畢業成員共同完成演出。
+    Ⅲ」，表演[The☆Pea～ce\!的時候](https://zh.wikipedia.org/wiki/The☆Pea～ce!_/_充滿愛的大宇宙 "wikilink")，[石川梨華作为驚喜嘉賓登場](../Page/石川梨華.md "wikilink")\[11\]。和本家早安少女組。的畢業成員共同完成演出。
   - 6月14～9月6日，在全國11個都道府縣舉行「むすめん。全国巡演 2014 〜夏☆彡MEETING\!会いドル気取り真っ最chu♡〜」
   - 8月17日，AOI和Tomitake出演中國的「深圳UF動漫遊戲嘉年華」並舉行簽名會。
   - **8月23日，第四張單曲『Honey Bee』發售。**
@@ -240,7 +240,7 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
       - ⑤發表在10月份開始於[埼玉電視台開展冠名番組節目](../Page/埼玉電視台.md "wikilink")\[13\]。同日，一直活動休止的成员Ni-chan再次開始參與活動。從這一天的中野太陽廣場公演開始，Musumen.再度以10个人的形式繼續活動。
   - 10月3日，番組節目在埼玉電視台開始放映。第1、2集播映的时候是以「むすめん。」作为節目名稱，第3集開始節目名稱改為「むすたま。」。
   - 11月19日，在「OTODAMA 空FES 2015
-    ～冬，與天空最接近的祭典～」中，與原早安少女組。的[田中麗奈為隊長的樂隊](../Page/田中麗奈.md "wikilink")[LoVendoЯ進行共同演出](../Page/LoVendoЯ.md "wikilink")。
+    ～冬，與天空最接近的祭典～」中，與原早安少女組。的[田中麗奈為隊長的樂隊](https://zh.wikipedia.org/wiki/田中麗奈 "wikilink")[LoVendoЯ進行共同演出](../Page/LoVendoЯ.md "wikilink")。
   - 12月23～12月27日，在神奈川和大阪的、舉行冬季迷你巡迴演出「むすめん。感謝祭2015冬～Re:START～」。
   - **12月23日，第七張單曲『灼熱！鬼ヶ島DANJI』發售。**
 
@@ -309,7 +309,7 @@ Musumen.結成時並未隸屬於任何事務所，長期獨立活動，而在已
 
 ### 動畫投稿網站出身
 
-組合成員全員本身都是在[niconico動畫上投稿的](../Page/niconico動畫.md "wikilink")。到現在也是使用投稿網站上的名字而非本名進行活動。成員基本上不會公開本名、年齡等個人資料，不過也有成員公開了部份資料的情況。另外成員們在進行組合活動時也同時兼顧自身的工作或學業。但是，在2015年8月[中野太陽廣場公演上](../Page/中野太陽廣場.md "wikilink")，白服明確表明為了今後的偶像活動將會把重心轉移為「以Musumen.作為自己的工作」上去\[16\]。
+組合成員全員本身都是在[niconico動畫上投稿的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。到現在也是使用投稿網站上的名字而非本名進行活動。成員基本上不會公開本名、年齡等個人資料，不過也有成員公開了部份資料的情況。另外成員們在進行組合活動時也同時兼顧自身的工作或學業。但是，在2015年8月[中野太陽廣場公演上](../Page/中野太陽廣場.md "wikilink")，白服明確表明為了今後的偶像活動將會把重心轉移為「以Musumen.作為自己的工作」上去\[16\]。
 
 ## 音樂作品
 
@@ -432,26 +432,26 @@ CD+DVD</p></td>
 <td><p>2018年5月3日～5日</p></td>
 <td><p>MeseMoa. 全国TOUR 2018<br />
 「Maze No.9」</p></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a>・SunPearl荒川</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a>・SunPearl荒川</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年5月12日</p></td>
-<td><p><a href="../Page/佐賀縣.md" title="wikilink">佐賀縣</a>・佐賀GEILS</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐賀縣" title="wikilink">佐賀縣</a>・佐賀GEILS</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月13日</p></td>
-<td><p><a href="../Page/長崎縣.md" title="wikilink">長崎縣</a>・DRUM Be-7</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長崎縣" title="wikilink">長崎縣</a>・DRUM Be-7</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年6月2日</p></td>
-<td><p><a href="../Page/香川縣.md" title="wikilink">香川縣</a>・高松MONSTER</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a>・高松MONSTER</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年6月3日</p></td>
-<td><p><a href="../Page/愛媛縣.md" title="wikilink">愛媛縣</a>・松山WstudioRED</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛媛縣" title="wikilink">愛媛縣</a>・松山WstudioRED</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -461,27 +461,27 @@ CD+DVD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年6月16日</p></td>
-<td><p><a href="../Page/福島.md" title="wikilink">福島</a>・郡山HIPSHOT JAPAN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島" title="wikilink">福島</a>・郡山HIPSHOT JAPAN</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年6月17日</p></td>
-<td><p><a href="../Page/山形縣.md" title="wikilink">山形縣</a>・MUSIC 昭和 Session</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a>・MUSIC 昭和 Session</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年6月23日</p></td>
-<td><p><a href="../Page/大分縣.md" title="wikilink">大分縣</a>・DRUM Be-0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分縣</a>・DRUM Be-0</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年6月24日</p></td>
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a>・DRUM Be-1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a>・DRUM Be-1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年6月30日～7月1日</p></td>
-<td><p><a href="../Page/大阪.md" title="wikilink">大阪</a>・松下IMP Hall</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a>・松下IMP Hall</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -520,7 +520,7 @@ CD+DVD</p></td>
 <tr class="even">
 <td><p>2018年5月19日～20日</p></td>
 <td><p>Dokomi2018</p></td>
-<td><p><a href="../Page/德國.md" title="wikilink">德國杜塞多夫</a>(Düsseldorf)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國杜塞多夫</a>(Düsseldorf)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -532,7 +532,7 @@ CD+DVD</p></td>
 <tr class="even">
 <td><p>2019年6月8日～9日</p></td>
 <td><p>Dokomi2019</p></td>
-<td><p><a href="../Page/德國.md" title="wikilink">德國杜塞多夫</a>(Düsseldorf)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國杜塞多夫</a>(Düsseldorf)</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -67,10 +67,11 @@
 ## 簡介
 
 [日本](../Page/日本.md "wikilink")[埼玉縣](../Page/埼玉縣.md "wikilink")[加須市因曾經出過一位創作](../Page/加須市.md "wikilink")"[七夕](../Page/七夕_\(日本\).md "wikilink")"，"煙火"，"野菊"等[昭和初期著名](../Page/昭和.md "wikilink")[兒歌的作曲家下総皖一](../Page/兒歌.md "wikilink")([Kan'ichi
-Shimofusa](../Page/w:en:Kan'ichi_Shimofusa.md "wikilink"), 1898年3月31日 -
+Shimofusa](https://zh.wikipedia.org/wiki/w:en:Kan'ichi_Shimofusa "wikilink"),
+1898年3月31日 -
 1962年7月8日)的緣故，遂以「兒歌之鄉」為概念來推動當地文化建設。而Pinkish是2002年9月8日作為兒歌偶像被設立了。Pinkish的目的，是對廣泛的年齡的人們使之普及兒歌，活化本地的文化·土特產產業·觀光產業·體育\[3\]\[4\]。
 
-Pinkish的名稱代表本地特產的草莓以及女性[偶像團體清新的形象喔](../Page/日本偶像.md "wikilink")\[5\]。
+Pinkish的名稱代表本地特產的草莓以及女性[偶像團體清新的形象喔](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")\[5\]。
 
 ## 在台灣的公演
 

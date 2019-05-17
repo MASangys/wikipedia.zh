@@ -1,5 +1,5 @@
 《**妖怪少女MONSTER
-GIRL**》（）是由日本漫畫家[船津一輝](../Page/船津一輝.md "wikilink")（）所作的一部漫畫，於[集英社](../Page/集英社.md "wikilink")《[週刊YOUNG
+GIRL**》（）是由日本漫畫家[船津一輝](https://zh.wikipedia.org/wiki/船津一輝 "wikilink")（）所作的一部漫畫，於[集英社](../Page/集英社.md "wikilink")《[週刊YOUNG
 JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 
 單行本日文版由[集英社出版發行](../Page/集英社.md "wikilink")，正體中文版由[東立出版社代理發行](../Page/東立出版社.md "wikilink")。
@@ -57,21 +57,21 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 
   -
     身高：115cm。三圍：B56　W51　H58
-    真身為[塗壁](../Page/塗壁.md "wikilink")，自稱200歲以上，實際年齡不詳，外貌是可愛的幼女。特技是製造透明的牆，現居住在八喜家中，和虹緒成為了好朋友。
+    真身為[塗壁](https://zh.wikipedia.org/wiki/塗壁 "wikilink")，自稱200歲以上，實際年齡不詳，外貌是可愛的幼女。特技是製造透明的牆，現居住在八喜家中，和虹緒成為了好朋友。
     能與八喜進行靈子合體。
 
 <!-- end list -->
 
   -
     身高：156cm。三圍：B82　W56　H84
-    真身為[貓又](../Page/貓又.md "wikilink")，年齡不詳，轆花和李的同校同學。貌美，成績優秀，運動神經發達的完美美少女。害怕游泳，現居住在八喜家中。
+    真身為[貓又](https://zh.wikipedia.org/wiki/貓又 "wikilink")，年齡不詳，轆花和李的同校同學。貌美，成績優秀，運動神經發達的完美美少女。害怕游泳，現居住在八喜家中。
     能與八喜進行靈子合體。
 
 <!-- end list -->
 
   -
     三圍：B78　W56　H82
-    真身為[絡新婦](../Page/絡新婦.md "wikilink")，外觀為15歲的金髮雙馬尾美少女，實際年齡不詳。喜歡格鬥遊戲。
+    真身為[絡新婦](https://zh.wikipedia.org/wiki/絡新婦 "wikilink")，外觀為15歲的金髮雙馬尾美少女，實際年齡不詳。喜歡格鬥遊戲。
     常主動誘惑八喜，喜歡稱八喜為「達令」。
     能與八喜進行靈子合體。
 
@@ -84,12 +84,12 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 <!-- end list -->
 
   -
-    真身為[タンタンコロリン](../Page/日語.md "wikilink")，外貌是40-50歲穿著拘束具的變態。聲稱自己的屁股非常香甜，被八喜擊敗後成為梛的下僕（椅子）。
+    真身為[タンタンコロリン](https://zh.wikipedia.org/wiki/日語 "wikilink")，外貌是40-50歲穿著拘束具的變態。聲稱自己的屁股非常香甜，被八喜擊敗後成為梛的下僕（椅子）。
 
 <!-- end list -->
 
   -
-    [河童玩偶的](../Page/河童.md "wikilink")[人形神](../Page/日語.md "wikilink")。特技是以刀片切碎衣服。
+    [河童玩偶的](../Page/河童.md "wikilink")[人形神](https://zh.wikipedia.org/wiki/日語 "wikilink")。特技是以刀片切碎衣服。
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@ Plasma（低温等離子）。獵犬（ハウンドメンバー）：GCUP的戰�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

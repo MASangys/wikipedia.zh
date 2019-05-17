@@ -1,11 +1,11 @@
 《**一吻定情**》是由薩拉薩瓦蒂·翁索姆佩奇執導，[Mike D.
-Angelo](../Page/Mike_D._Angelo.md "wikilink")、[李海娜主演的泰國電視劇](../Page/李海娜.md "wikilink")。改编自漫畫《[惡作劇之吻](../Page/惡作劇之吻.md "wikilink")》及日本电视剧《[惡作劇之吻](../Page/惡作劇之吻.md "wikilink")》。
+Angelo](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")、[李海娜主演的泰國電視劇](../Page/李海娜.md "wikilink")。改编自漫畫《[惡作劇之吻](../Page/淘气小亲亲.md "wikilink")》及日本电视剧《[惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")》。
 
 ## 劇情概述
 
 该剧讲述了女主Taliw（[李海娜飾](../Page/李海娜.md "wikilink")）因戏剧性的一吻对天才TenTen （[Mike
 D.
-Angelo飾](../Page/Mike_D._Angelo.md "wikilink")）进行穷追不舍的故事，用简单夸张的生活展现了坚持不懈的爱定能换得回报这样一个美好的期盼。
+Angelo飾](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")）进行穷追不舍的故事，用简单夸张的生活展现了坚持不懈的爱定能换得回报这样一个美好的期盼。
 
 ## 演員陣容
 
@@ -21,7 +21,7 @@ Angelo飾](../Page/Mike_D._Angelo.md "wikilink")）进行穷追不舍的故事�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Mike_D._Angelo.md" title="wikilink">Mike</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mike_D._Angelo" title="wikilink">Mike</a></p></td>
 <td><p>TenTen 藍天博</p></td>
 <td><p>入江直樹</p></td>
 <td><p><a href="../Page/張振熙.md" title="wikilink">張振熙</a></p></td>
@@ -35,7 +35,7 @@ Angelo飾](../Page/Mike_D._Angelo.md "wikilink")）进行穷追不舍的故事�
 <td><p><a href="../Page/李海娜.md" title="wikilink">李海娜</a></p></td>
 <td><p>Taliw 魏天妮</p></td>
 <td><p>相原琴子</p></td>
-<td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
 <td><p>想法簡單，思考直線，不懂拐彎抺角的女孩。<br />
 在開學前因為TenTen善良的幫助她一起救了一隻困在樹上的貓，而對他有好感。<br />
 父女兩人因為石油氣爆炸炸毀他們的家後，遷入TenTen的家。<br />
@@ -43,7 +43,7 @@ Angelo飾](../Page/Mike_D._Angelo.md "wikilink")）进行穷追不舍的故事�
 因為喜歡照顧別人，所以想要當護士，Han之女，於第20集成為TenTen之妻</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Tao_Phiangphor.md" title="wikilink">Tao Phiangphor</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tao_Phiangphor" title="wikilink">Tao Phiangphor</a></p></td>
 <td><p>King</p></td>
 <td><p>池澤金之助</p></td>
 <td><p><a href="../Page/梁皓翔.md" title="wikilink">梁皓翔</a></p></td>
@@ -78,7 +78,7 @@ Angelo飾](../Page/Mike_D._Angelo.md "wikilink")）进行穷追不舍的故事�
 <td><p>Yukung Watanabe</p></td>
 <td><p>Turbo 藍天保</p></td>
 <td><p>入江裕樹</p></td>
-<td><p><a href="../Page/高雅玲.md" title="wikilink">高雅玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高雅玲" title="wikilink">高雅玲</a></p></td>
 <td><p>TenTen之弟，Bom、Kaew之幼子</p></td>
 </tr>
 <tr class="even">
@@ -99,7 +99,7 @@ Angelo飾](../Page/Mike_D._Angelo.md "wikilink")）进行穷追不舍的故事�
 <td><p>Pim Bubear</p></td>
 <td><p>Namkang 戴琳嘉</p></td>
 <td><p>松本裕子</p></td>
-<td><p><a href="../Page/高雅玲.md" title="wikilink">高雅玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高雅玲" title="wikilink">高雅玲</a></p></td>
 <td><p>暗戀TenTen<br />
 後為P'Dan之女友。</p></td>
 </tr>

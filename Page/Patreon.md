@@ -1,8 +1,8 @@
-**Patreon**是一個供內容創建者進行[群眾募資的平台](../Page/群眾募資.md "wikilink")。它讓創作者向[贊助者以每件作品或定期取得資金](../Page/贊助.md "wikilink")\[1\]。該公司總部設於[舊金山](../Page/舊金山.md "wikilink")，由和開發者山姆·也創立\[2\]。Patreon曾被刊登於《[時代](../Page/時代_\(雜誌\).md "wikilink")》、《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》和《[福布斯](../Page/福布斯.md "wikilink")》。
+**Patreon**是一個供內容創建者進行[群眾募資的平台](../Page/群眾募資.md "wikilink")。它讓創作者向[贊助者以每件作品或定期取得資金](https://zh.wikipedia.org/wiki/贊助 "wikilink")\[1\]。該公司總部設於[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，由和開發者山姆·也創立\[2\]。Patreon曾被刊登於《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》、《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》和《[福布斯](../Page/福布斯.md "wikilink")》。
 
 ## 歷史
 
-於2013年5月在尋求以他受歡迎的[YouTube影片中維持生活](../Page/YouTube.md "wikilink")，所以創辦了Patreon\[3\]。他和山姆·也一同開發了一個可以讓贊助者在創作者每創作一件作品，便自動贊助創作者的平台。2013年8月，該公司從一群[創業投資者和](../Page/創業投資.md "wikilink")[天使投資者取得](../Page/天使投資者.md "wikilink")210萬美元資金\[4\]\[5\]。2014年6月，公司在一輪A系列投資中取得另外1500萬元資金\[6\]。
+於2013年5月在尋求以他受歡迎的[YouTube影片中維持生活](../Page/YouTube.md "wikilink")，所以創辦了Patreon\[3\]。他和山姆·也一同開發了一個可以讓贊助者在創作者每創作一件作品，便自動贊助創作者的平台。2013年8月，該公司從一群[創業投資者和](https://zh.wikipedia.org/wiki/創業投資 "wikilink")[天使投資者取得](https://zh.wikipedia.org/wiki/天使投資者 "wikilink")210萬美元資金\[4\]\[5\]。2014年6月，公司在一輪A系列投資中取得另外1500萬元資金\[6\]。
 
 在公司的首18個月，多達125,000名「贊助人」在Patreon註冊\[7\]。2014年末，該網站宣佈贊助人每月向創作者贊助超過100萬美元\[8\]。
 
@@ -15,7 +15,7 @@ Course和](../Page/Crash_Course.md "wikilink")頻道都改用Patreon\[9\]。
 
 ## 營運模式
 
-創作人在Patreon網站設立專頁，而贊助人便可以在專頁設定創作人每次推出作品時贊助金額，贊助人亦可設定每月贊助上限。除此以外，贊助人亦可每月設定贊助特定的金額。與[Kickstarter不同](../Page/Kickstarter.md "wikilink")，創作人無需每件作品重新籌集贊助人\[12\]。但和其他群眾募資平台相似，創作人會以獎勵回饋贊助人\[13\]\[14\]。Patreon在贊助金中取5％[佣金](../Page/佣金.md "wikilink")\[15\]。
+創作人在Patreon網站設立專頁，而贊助人便可以在專頁設定創作人每次推出作品時贊助金額，贊助人亦可設定每月贊助上限。除此以外，贊助人亦可每月設定贊助特定的金額。與[Kickstarter不同](../Page/Kickstarter.md "wikilink")，創作人無需每件作品重新籌集贊助人\[12\]。但和其他群眾募資平台相似，創作人會以獎勵回饋贊助人\[13\]\[14\]。Patreon在贊助金中取5％[佣金](https://zh.wikipedia.org/wiki/佣金 "wikilink")\[15\]。
 
 ## 參考資料
 

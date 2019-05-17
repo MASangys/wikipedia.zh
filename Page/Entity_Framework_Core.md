@@ -19,9 +19,8 @@ Entity Framework Core 1.0.0 目前支援下列功能 \[1\]：
     屬性維護、唯一性限制與索引、內建轉換、模型驗證、鍵值自動產生與關聯-表格對應等。
   - 變更追踪 (Change Tracking)：快照式變更追踪、存取已追踪的狀態與附加已解除附加的資料項目或物件結構 (graph)。
   - 儲存功能 (Save Changes)：基本資料儲存功能、樂觀式鎖定、非同步變更儲存、交易能力與批次處理。
-  - 查詢 (Query)：基本 [LINQ](../Page/LINQ.md "wikilink")
-    的支援、混合式主從架構評估、關閉追踪功能、早期載入、非同步查詢、基本
-    BCL 函式的轉換與 SQL 指令的執行。
+  - 查詢 (Query)：基本 [LINQ](https://zh.wikipedia.org/wiki/LINQ "wikilink")
+    的支援、混合式主從架構評估、關閉追踪功能、早期載入、非同步查詢、基本 BCL 函式的轉換與 SQL 指令的執行。
   - 資料庫綱要管理 (Database Schema Management)：資料庫建立與刪除的 API 支援、資料庫錯誤頁面 (由
     ASP.NET Core 提供) 與關聯性資料庫移轉等。
 
@@ -47,7 +46,7 @@ Entity Framework Core 1.0.0 目前支援下列功能 \[1\]：
 
 Entity Framework Core 支援下列資料提供者 \[2\]：
 
-1.  [SQL Server](../Page/SQL_Server.md "wikilink")
+1.  [SQL Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")
 
 2.  [SQLite](../Page/SQLite.md "wikilink")
 

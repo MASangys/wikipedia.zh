@@ -1,4 +1,4 @@
-**eco.mont**（）是一份有關山嶺[保護區的科学期刊](../Page/保護區.md "wikilink")，由2009年起开始发行\[1\]。目前的期刊主編為Axel
+**eco.mont**（）是一份有關山嶺[保護區的科学期刊](https://zh.wikipedia.org/wiki/保護區 "wikilink")，由2009年起开始发行\[1\]。目前的期刊主編為Axel
 Borsdorf和Günter Köck。2016年之時，eco.mont的影響因子為0.394。
 
 ## 參見

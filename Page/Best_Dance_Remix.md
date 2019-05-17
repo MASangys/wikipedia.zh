@@ -1,5 +1,5 @@
 《**Best Dance
-Remix**》是台灣[男子組合](../Page/男子組合.md "wikilink")[小虎隊的首張混音專輯](../Page/小虎隊_\(台灣\).md "wikilink")，於1992年1月31日發行\[1\]。
+Remix**》是台灣[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[小虎隊的首張混音專輯](https://zh.wikipedia.org/wiki/小虎隊_\(台灣\) "wikilink")，於1992年1月31日發行\[1\]。
 
 ## 曲目
 

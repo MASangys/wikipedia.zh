@@ -1,12 +1,12 @@
 **微軟Lumia
-430**\[1\]是一款由[微軟移動開發的針對新興市場的](../Page/微軟移動.md "wikilink")[行動電話](../Page/行動電話.md "wikilink").在2015年3月發佈，以對抗谷歌的[Android
+430**\[1\]是一款由[微軟移動開發的針對新興市場的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink").在2015年3月發佈，以對抗谷歌的[Android
 One](../Page/Android_One.md "wikilink").\[2\]\[3\] 這款手機裝載Lumia
-Denim并預裝*[Lumia自拍](../Page/Lumia自拍.md "wikilink")*。\[4\]\[5\]\[6\]
+Denim并預裝*[Lumia自拍](https://zh.wikipedia.org/wiki/Lumia自拍 "wikilink")*。\[4\]\[5\]\[6\]
 
 ## 參見
 
-  - [微軟Lumia](../Page/微軟Lumia.md "wikilink")
-  - [微軟Lumia 540](../Page/微軟Lumia_540.md "wikilink")
+  - [微軟Lumia](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")
+  - [微軟Lumia 540](https://zh.wikipedia.org/wiki/微軟Lumia_540 "wikilink")
 
 ## 參考文獻
 

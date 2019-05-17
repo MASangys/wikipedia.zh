@@ -1,19 +1,23 @@
 **有限公司STUDIO
-JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫工作室](../Page/動畫.md "wikilink")。成立於1970年。
+JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫工作室](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1970年。
 
 ## 概要、沿革
 
-  - STUDIO JACK的前身為「**ANIME STUDIO
-    JACK**（）」背景部門，1967年9月在[東京都](../Page/東京都.md "wikilink")[保谷市](../Page/保谷市.md "wikilink")（今[西東京市](../Page/西東京市.md "wikilink")）增設。
-  - 1968年3月，搬遷至[澀谷區](../Page/澀谷區.md "wikilink")[新宿](../Page/新宿.md "wikilink")。
-  - 1970年4月，由當時在籍的鈴木森繁與八村博也兩人共同在澀谷區[千駄谷現址](../Page/千駄谷.md "wikilink")，正式成立「**有限公司STUDIO
-    JACK**（）」。
-  - 1997年4月，STUDIO
-    JACK的創辦元老之一鈴木森繁逝世，由八村博也繼任。2013年，金村勝義就任代表取締役社長。同時，由八村博也就任代表取締役會長。
-  - 承包公司方面，主要承包[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[STUDIO
-    COMET](../Page/STUDIO_COMET.md "wikilink")、[OLM](../Page/OLM.md "wikilink")、[Diomedéa的作品的美術背景製作](../Page/Diomedéa.md "wikilink")，包括OLM的代表作品《[神奇寶貝](../Page/神奇寶貝_\(動畫\).md "wikilink")》系列大部分幾乎被STUDIO
-    JACK承包。在海外，也承包了[韓國的ARTMAX](../Page/韓國.md "wikilink")、STUDIO
-    BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
+STUDIO JACK的前身為「**ANIME STUDIO
+JACK**（<small></small>）」背景部門，1967年9月在[東京都](../Page/東京都.md "wikilink")[保谷市](https://zh.wikipedia.org/wiki/保谷市 "wikilink")（今[西東京市](../Page/西東京市.md "wikilink")）增設。
+
+1968年3月，搬遷至[澀谷區](../Page/澀谷區.md "wikilink")[新宿](../Page/新宿.md "wikilink")。
+
+1970年4月，由當時在籍的鈴木森繁與八村博也兩人共同在澀谷區[千駄谷現址](../Page/千駄谷.md "wikilink")，正式成立「**有限公司STUDIO
+JACK**（<small></small>）」。
+
+1997年4月，STUDIO
+JACK的創辦元老之一鈴木森繁逝世，由八村博也繼任。2013年，金村勝義就任代表董事社長。同時，由八村博也就任代表董事會長。
+
+主要承包[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[STUDIO
+COMET](../Page/STUDIO_COMET.md "wikilink")、[OLM](../Page/OLM.md "wikilink")、[Diomedéa的作品的美術背景製作](../Page/Diomedéa.md "wikilink")，包括OLM的代表作品《[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝_\(動畫\) "wikilink")》系列大部分幾乎被STUDIO
+JACK承包。在海外，也承包了[韓國的ARTMAX](https://zh.wikipedia.org/wiki/韓國 "wikilink")、STUDIO
+BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 ## 主要參與作品
 
@@ -65,7 +69,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [噴嚏大魔王](../Page/噴嚏大魔王.md "wikilink")（1969年）
+  - [噴嚏大魔王](https://zh.wikipedia.org/wiki/噴嚏大魔王 "wikilink")（1969年）
 
   - （1970年）
 
@@ -120,7 +124,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
   - [天才小魚郎](../Page/天才小魚郎.md "wikilink")（1997年－1998年）
 
   - [咕嚕咕嚕魔法陣
-    心跳♡傳說](../Page/咕嚕咕嚕魔法陣#2000年《咕嚕咕嚕魔法陣_心跳♡傳說》.md "wikilink")（2000年）
+    心跳♡傳說](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#2000年《咕嚕咕嚕魔法陣_心跳♡傳說》 "wikilink")（2000年）
 
 <!-- end list -->
 
@@ -180,11 +184,13 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [馬可·波羅遊記](../Page/馬可·波羅遊記.md "wikilink")（1979年－1980年）
+  - [馬可·波羅遊記](https://zh.wikipedia.org/wiki/馬可·波羅遊記 "wikilink")（1979年－1980年）
 
-  - [炸彈人 彈珠人爆外傳V](../Page/炸彈人_彈珠人爆外傳.md "wikilink")（1999年－2000年）
+  - [炸彈人
+    彈珠人爆外傳V](https://zh.wikipedia.org/wiki/炸彈人_彈珠人爆外傳 "wikilink")（1999年－2000年）
 
-  - [櫻花大戰 (TV動畫)](../Page/櫻花大戰_\(電視動畫\).md "wikilink")（2000年）
+  - [櫻花大戰
+    (TV動畫)](https://zh.wikipedia.org/wiki/櫻花大戰_\(電視動畫\) "wikilink")（2000年）
 
   - [戰鬥陀螺](../Page/戰鬥陀螺.md "wikilink")（2001年）
 
@@ -200,7 +206,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - [夢使者](../Page/夢使者.md "wikilink")（2006年）
 
-  - [背騎少女](../Page/背騎少女.md "wikilink")（2009年）
+  - [背騎少女](https://zh.wikipedia.org/wiki/背騎少女 "wikilink")（2009年）
 
   - [彩雲國物語](../Page/彩雲國物語.md "wikilink")（2006年－2008年）
 
@@ -210,9 +216,10 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - （2008年）
 
-  - [青澀文學系列：跑吧！美樂斯](../Page/青澀文學系列.md "wikilink")（2009年）
+  - [青色文學系列：跑吧！美樂斯](../Page/青色文學系列.md "wikilink")（2009年）
 
-  - [超自然檔案：THE ANIMATION](../Page/邪惡力量.md "wikilink")（背景，2011年）
+  - [超自然檔案：THE
+    ANIMATION](https://zh.wikipedia.org/wiki/邪惡力量 "wikilink")（背景，2011年）
 
 <!-- end list -->
 
@@ -222,7 +229,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - [海螺小姐](../Page/海螺小姐.md "wikilink")（1969年－）\[4\]
 
-  - [玻璃假面](../Page/玻璃假面.md "wikilink")（1984年）
+  - [玻璃假面](https://zh.wikipedia.org/wiki/玻璃假面 "wikilink")（1984年）
 
   - （1988年－1992年）
 
@@ -242,13 +249,13 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")
+  - [SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")
 
 <!-- end list -->
 
   - [忍者哈特利](../Page/忍者小靈精.md "wikilink")（1981年－1987年）
 
-  - （1999年–2001年）
+  - （1999年－2001年）
 
 <!-- end list -->
 
@@ -256,7 +263,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [宇宙小超人物語](../Page/宇宙小超人.md "wikilink")（1986年）
+  - [宇宙小超人物語](https://zh.wikipedia.org/wiki/宇宙小超人 "wikilink")（1986年）
 
   - （1996年）\[6\]
 
@@ -304,13 +311,13 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [勇者鬥惡龍](../Page/勇者鬥惡龍_\(動畫\).md "wikilink")（1989年－1991年）
+  - [勇者鬥惡龍](https://zh.wikipedia.org/wiki/勇者鬥惡龍_\(動畫\) "wikilink")（1989年－1991年）
 
   - （1991年－1992年）
 
   - （1992年）
 
-  - [小小男子漢](../Page/小小男子漢.md "wikilink")（1992年－1994年）
+  - [小小男子漢](https://zh.wikipedia.org/wiki/小小男子漢 "wikilink")（1992年－1994年）
 
   - [足球小將翼J](../Page/足球小將.md "wikilink")（1994年－1995年）
 
@@ -343,7 +350,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - [涼風](../Page/涼風.md "wikilink")（2005年）
 
-  - [極速方程式](../Page/極速方程式.md "wikilink")（2005年－2006年）
+  - [極速方程式](https://zh.wikipedia.org/wiki/極速方程式 "wikilink")（2005年－2006年）
 
   - [衝吧！徹之進](../Page/徹之進.md "wikilink")，又譯**狗狗向前衝**\[10\]（2006年）
 
@@ -372,10 +379,10 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - [愛天使傳說](../Page/愛天使傳說.md "wikilink")（1995年－1996年）
   - [宇宙小毛球](../Page/宇宙小毛球.md "wikilink")（1995年－1997年）
-  - **[神奇寶貝系列](../Page/神奇寶貝_\(動畫\).md "wikilink")**
+  - **[神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝_\(動畫\) "wikilink")**
       - [神奇寶貝](../Page/神奇寶貝_\(1997-2002年動畫\).md "wikilink")（1997年－2002年）
       - [神奇寶貝超世代](../Page/神奇寶貝超世代.md "wikilink") （2002年－2006年）
-      - [神奇寶貝鑽石&珍珠](../Page/神奇寶貝鑽石&珍珠.md "wikilink")（2006年－2010年）
+      - [神奇寶貝鑽石&珍珠](https://zh.wikipedia.org/wiki/神奇寶貝鑽石&珍珠 "wikilink")（2006年－2010年）
       - [神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")（2010年－2012年）
       - 神奇寶貝超級願望 第2季（2012年－2013年）
       - 神奇寶貝超級願望 第2季 Episode N（2013年）
@@ -391,7 +398,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  -
+  - [MAGICBUS](https://zh.wikipedia.org/wiki/MAGICBUS "wikilink")
 
 <!-- end list -->
 
@@ -409,7 +416,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [淘氣小愛神](../Page/淘氣小愛神.md "wikilink")（1995年－1996年）
+  - [淘氣小愛神](https://zh.wikipedia.org/wiki/淘氣小愛神 "wikilink")（1995年－1996年）
   - [花鈴的魔法戒](../Page/花鈴的魔法戒.md "wikilink")（2007年）
 
 <!-- end list -->
@@ -418,7 +425,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [吸血姬美夕](../Page/吸血姬美夕.md "wikilink")（1997年－1998年）
+  - [吸血姬美夕](https://zh.wikipedia.org/wiki/吸血姬美夕 "wikilink")（1997年－1998年）
   - [女孩萬歲系列](../Page/女孩萬歲.md "wikilink")
       - 女孩萬歲 first season（2004年）
       - 女孩萬歲 second season（2005年）
@@ -433,7 +440,8 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - [七小花](../Page/七小花.md "wikilink")（2002年）
 
-  - [決鬥王Duel Masters系列](../Page/決鬥王Duel_Masters.md "wikilink")\[14\]
+  - [決鬥王Duel
+    Masters系列](https://zh.wikipedia.org/wiki/決鬥王Duel_Masters "wikilink")\[14\]
 
       - 決鬥王Duel Masters（2002年－2003年）\[15\]
       - 決鬥王Duel Masters Charge（2004年－2006年）
@@ -464,7 +472,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 <!-- end list -->
 
   - [GUNSLINGER GIRL -IL
-    TEATRINO-](../Page/GUNSLINGER_GIRL.md "wikilink")（2008年）
+    TEATRINO-](https://zh.wikipedia.org/wiki/GUNSLINGER_GIRL "wikilink")（2008年）
   - [泰坦尼亞](../Page/泰坦尼亞.md "wikilink")（2008年－2009年）
 
 <!-- end list -->
@@ -501,9 +509,10 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")（2014年）
-  - [BLOOD LAD 血意少年](../Page/BLOOD_LAD_血意少年.md "wikilink")（2014年）
-  - [青春×機關槍](../Page/青春×機關槍.md "wikilink")（2015年）
+  - [我們大家的河合莊](https://zh.wikipedia.org/wiki/我們大家的河合莊 "wikilink")（2014年）
+  - [BLOOD LAD
+    血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")（2014年）
+  - [青春×機關槍](https://zh.wikipedia.org/wiki/青春×機關槍 "wikilink")（2015年）
 
 <!-- end list -->
 
@@ -513,31 +522,32 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - 5（總承包商不明，1979年）
 
-  - [北斗神拳](../Page/北斗神拳.md "wikilink")（總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，1984年－1987年）
+  - [北斗神拳](../Page/北斗神拳.md "wikilink")（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，1984年－1987年）
 
   - [奇蹟女孩](../Page/奇蹟女孩.md "wikilink")（總承包商：Japan Taps，1993年）
 
   - [劍勇傳說YAIBA](../Page/城市風雲兒.md "wikilink")（總承包商：Pastel，1993年）
 
-  - [忍者亂太郎](../Page/忍者亂太郎.md "wikilink")（總承包商：，1993年－）
+  - [忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（總承包商：，1993年－）
 
-  - [美少女戰鬥隊](../Page/美少女戰鬥隊.md "wikilink")（總承包商：[J.C.STAFF](../Page/J.C.STAFF.md "wikilink")，1994年）
+  - [美少女戰鬥隊](https://zh.wikipedia.org/wiki/美少女戰鬥隊 "wikilink")（總承包商：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")，1994年）
 
-  - [去吧！稻中桌球社](../Page/去吧！稻中乒團.md "wikilink")（總承包商：，1995年）
+  - [去吧！稻中桌球社](https://zh.wikipedia.org/wiki/去吧！稻中乒團 "wikilink")（總承包商：，1995年）
 
   - （1998年）
 
   - [星之卡比](../Page/星之卡比_\(動畫\).md "wikilink")（總承包商：，2001年－2003年）
 
-  - （總承包商：[BANDAI VISUAL](../Page/萬代影視.md "wikilink")，2002年）
+  - [寶貝婆婆](../Page/天才兒童MAX.md "wikilink")（總承包商：[BANDAI
+    VISUAL](../Page/萬代影視.md "wikilink")，2002年）
 
-  - [青青校樹](../Page/青青校樹_\(遊戲\).md "wikilink")（總承包商：[Studio
+  - [青青校樹](https://zh.wikipedia.org/wiki/青青校樹_\(遊戲\) "wikilink")（總承包商：[Studio
     Matrix](../Page/Studio_Matrix.md "wikilink")，2003年）
 
   - [真魔神
     衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")（總承包商：BEE·MEDIA、Code，2009年）
 
-  - [我們沒有翅膀](../Page/我們沒有羽翼.md "wikilink")（總承包商：[Nomad](../Page/Nomad_\(公司\).md "wikilink")，2011年）
+  - [我們沒有翅膀](https://zh.wikipedia.org/wiki/我們沒有羽翼 "wikilink")（總承包商：[Nomad](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")，2011年）
 
   - [生存遊戲社](../Page/生存遊戲社.md "wikilink")（總承包商：[Studio
     Pirrot+](../Page/Pierrot_PLUS.md "wikilink")，2014年）
@@ -546,9 +556,9 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - （1988年）\[17\]
 
-  - [美國](../Page/美國.md "wikilink")[華特迪士尼公司合作系列](../Page/華特迪士尼公司.md "wikilink")
+  - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華特迪士尼公司合作系列](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")
 
-      - [迪士尼劇場](../Page/華特迪士尼影片.md "wikilink")：[妙妙熊歷險記](../Page/妙妙熊歷險記.md "wikilink")（1985年－1991年）\[18\]
+      - [迪士尼劇場](https://zh.wikipedia.org/wiki/華特迪士尼影片 "wikilink")：[妙妙熊歷險記](../Page/妙妙熊歷險記.md "wikilink")（1985年－1991年）\[18\]
 
       - [小美人鱼](../Page/小美人鱼.md "wikilink")（1992年－1994年）
 
@@ -556,7 +566,8 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
       - （1991年）
 
-  - [X戰警 (1994年東京電視台版)](../Page/X戰警.md "wikilink")（1994年）
+  - [X戰警
+    (1994年東京電視台版)](https://zh.wikipedia.org/wiki/X戰警 "wikilink")（1994年）
 
   - （1996年）\[19\]
 
@@ -580,7 +591,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - （總承包商：東京電影新社，1980年）
 
-  - ，又譯**最後的冠軍**、**青春野球部**（總承包商：，負責第2部、第3部 (完結篇)，1983年－1984年）
+  - （總承包商：，負責第2部、第3部 (完結篇)，1983年－1984年）
 
   - [將太的壽司](../Page/將太的壽司.md "wikilink")（總承包商：[STUDIO
     COMET](../Page/STUDIO_COMET.md "wikilink")，1999年）
@@ -601,7 +612,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [數位惡魔物語](../Page/數位惡魔物語.md "wikilink")（1987年）\[21\]
+  - [數位惡魔物語](https://zh.wikipedia.org/wiki/數位惡魔物語 "wikilink")（1987年）\[21\]
 
   - （1988年）\[22\]
 
@@ -613,13 +624,13 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - [J.C.STAFF](../Page/J.C.STAFF.md "wikilink")
+  - [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
 
 <!-- end list -->
 
   - （1988年）
 
-  - （1992年）\[25\]
+  - [8號超人](https://zh.wikipedia.org/wiki/8號超人 "wikilink")（1992年）\[25\]
 
 <!-- end list -->
 
@@ -675,15 +686,16 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - [孔雀王 (OVA第2部)](../Page/孔雀王.md "wikilink")（總承包商：STUDIO SS，1989年）
 
-  - （總承包商：，1989年）
+  - （總承包商：[MAGICBUS](https://zh.wikipedia.org/wiki/MAGICBUS "wikilink")，1989年）
 
   - （總承包商：[Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")，\]1990年）
 
   - （總承包商：[圓谷Production](../Page/圓谷製作.md "wikilink")，1990年）
 
-  - [同级生 (OVA第1～3部)](../Page/同级生.md "wikilink")（總承包商：[Triple
-    X](../Page/Arms.md "wikilink")，1993年）
+  - [同级生
+    (OVA第1～3部)](https://zh.wikipedia.org/wiki/同级生 "wikilink")（總承包商：[Triple
+    X](https://zh.wikipedia.org/wiki/Arms "wikilink")，1993年）
 
   - [搞怪拍檔FLASH](../Page/搞怪拍檔.md "wikilink")（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，1995年）
 
@@ -697,7 +709,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
   - （總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，2004年）
 
-  - （總承包商：[Nomad](../Page/Nomad_\(公司\).md "wikilink")，2011年）
+  - （總承包商：[Nomad](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")，2011年）
 
 <!-- end list -->
 
@@ -723,7 +735,8 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 <!-- end list -->
 
-  - **[劇場版 神奇寶貝系列](../Page/神奇寶貝劇場版.md "wikilink")**（1998年－)
+  - **[劇場版
+    神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝劇場版 "wikilink")**（1998年－)
   - [劇場版 動物之森](../Page/劇場版_動物之森.md "wikilink")（2006年）
 
 <!-- end list -->
@@ -735,12 +748,12 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
   - [一千零一夜](../Page/一千零一夜.md "wikilink")（總承包商：[蟲製作公司](../Page/蟲製作公司.md "wikilink")，1969年）
   - [頑皮大師](../Page/頑皮大師.md "wikilink")（總承包商：，1981年）
   - [劇場版 奇諾之旅：活著的目標 -life goes
-    on.-](../Page/奇諾之旅.md "wikilink")（總承包商：[A.C.G.T](../Page/A.C.G.T.md "wikilink")，2005年）
-  - [翡翠森林狼與羊](../Page/翡翠森林狼與羊.md "wikilink")（總承包商：Sparky
+    on.-](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（總承包商：[A.C.G.T](../Page/A.C.G.T.md "wikilink")，2005年）
+  - [翡翠森林狼與羊](https://zh.wikipedia.org/wiki/翡翠森林狼與羊 "wikilink")（總承包商：Sparky
     Animation、獏Enterprise，2005年）
   - [TRIGUN THE MOVIE Badlands
     Rumble](../Page/槍神Trigun.md "wikilink")（總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")，2010年）
-  - [麵包超人：復活吧香蕉島](../Page/復活吧香蕉島.md "wikilink")（總承包商：[TMS
+  - [麵包超人：復活吧香蕉島](https://zh.wikipedia.org/wiki/復活吧香蕉島 "wikilink")（總承包商：[TMS
     Entertainment](../Page/TMS娛樂.md "wikilink")，2012年）
   - [寶石寵物電影 甜品舞公主](../Page/寶石寵物電影_甜品舞公主.md "wikilink")（總承包商：[STUDIO
     COMET](../Page/STUDIO_COMET.md "wikilink")，2012年）
@@ -824,7 +837,7 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 16. 協力製作：[TMS Entertainment](../Page/TMS娛樂.md "wikilink")。
 
-17. 日本[東京電影新社與](../Page/TMS娛樂.md "wikilink")[法國動畫公司DIC合作的動畫作品](../Page/法國.md "wikilink")。
+17. 日本[東京電影新社與](../Page/TMS娛樂.md "wikilink")[法國動畫公司DIC合作的動畫作品](https://zh.wikipedia.org/wiki/法國 "wikilink")。
 
 18. 與日本東京電影新社合作動畫作品。
 
@@ -838,7 +851,8 @@ JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](
 
 23. 協力製作：J.C.STAFF。
 
-24. 協力製作：[Studio Fantasia](../Page/Studio_Fantasia.md "wikilink")。
+24. 協力製作：[Studio
+    Fantasia](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")。
 
 25. 與Sanctuary共同製作的動畫。
 

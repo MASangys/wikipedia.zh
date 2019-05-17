@@ -1,17 +1,17 @@
 **XPRIZE** 是即X獎基金會之簡稱。XPRIZE
-是設立在美國的非營利組織性質之基金會，其設立目的在於透過贊助並組織公共競賽，以推動可對全人類有益的技術創新，其贊助的獎項多冠以X字樣，例如[安薩里X大獎](../Page/安薩里X大獎.md "wikilink")、[Google月球X大獎](../Page/Google月球X大獎.md "wikilink")。
+是設立在美國的非營利組織性質之基金會，其設立目的在於透過贊助並組織公共競賽，以推動可對全人類有益的技術創新，其贊助的獎項多冠以X字樣，例如[安薩里X大獎](../Page/安薩里X大獎.md "wikilink")、[Google月球X大獎](https://zh.wikipedia.org/wiki/Google月球X大獎 "wikilink")。
 
 ## 歷史
 
 [SpaceShipOne_Takeoff_photo_D_Ramey_Logan.jpg](https://zh.wikipedia.org/wiki/File:SpaceShipOne_Takeoff_photo_D_Ramey_Logan.jpg "fig:SpaceShipOne_Takeoff_photo_D_Ramey_Logan.jpg")起飛。\]\]
-XPRIZE 發起人[彼得·戴曼迪斯在](../Page/彼得·戴曼迪斯.md "wikilink")
+XPRIZE 發起人[彼得·戴曼迪斯在](https://zh.wikipedia.org/wiki/彼得·戴曼迪斯 "wikilink")
 1996年以1000萬美金之獎勵，徵求能完成於兩週内兩次飛入100公里外太空的飛行任務之團隊，後來亦有多國的團隊獲得此獎項。\[1\]
 此後，XPRIZE
-便持續以高額獎金將各種困難的挑戰，透過比賽的形式外包給大眾，藉由群眾的力量，以[眾包模式集思廣益](../Page/眾包.md "wikilink")、克服挑戰來創造各種對人類有益的科技創新。
+便持續以高額獎金將各種困難的挑戰，透過比賽的形式外包給大眾，藉由群眾的力量，以[眾包模式集思廣益](https://zh.wikipedia.org/wiki/眾包 "wikilink")、克服挑戰來創造各種對人類有益的科技創新。
 
 XPRIZE
 基金會最早的獎項，其靈感可朔源自1714年設立、獎勵可精準測量海洋上船舶之經度的[經度獎以及](../Page/經度獎.md "wikilink")1919
-年設立、獎勵成功跨洋飛行等創舉的飛行員[奧泰格獎](../Page/奧泰格獎.md "wikilink")。\[2\]
+年設立、獎勵成功跨洋飛行等創舉的飛行員[奧泰格獎](https://zh.wikipedia.org/wiki/奧泰格獎 "wikilink")。\[2\]
 
 ## XPRIZE 原則
 
@@ -19,7 +19,7 @@ XPRIZE 是獎勵以下三種主要目標的金錢獎勵：
 
   - 吸引對困難問題採取新辦法的投資。
   - 創造真正且有意義的重大成果。競賽有具體可衡量的目標，而且是為了促進創新的採用而產生的。
-  - 跨越國界與學科的界限，以此鼓勵世界各地的團隊投入[智慧資本](../Page/智慧資本.md "wikilink")、[財務資本以解決困難的挑戰](../Page/財務資本.md "wikilink")。
+  - 跨越國界與學科的界限，以此鼓勵世界各地的團隊投入[智慧資本](../Page/智慧資本.md "wikilink")、[財務資本以解決困難的挑戰](https://zh.wikipedia.org/wiki/財務資本 "wikilink")。
 
 ## 歷年競賽主題
 

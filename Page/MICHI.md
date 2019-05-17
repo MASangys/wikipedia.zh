@@ -1,14 +1,14 @@
-**MICHI**，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。出身於[沖繩縣](../Page/沖繩縣.md "wikilink")[沖繩市](../Page/沖繩市.md "wikilink")\[1\]。A型[血](../Page/血型.md "wikilink")\[2\]。
+**MICHI**，[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。出身於[沖繩縣](../Page/沖繩縣.md "wikilink")[沖繩市](../Page/沖繩市.md "wikilink")\[1\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[2\]。
 
 ## 來歷
 
 2013年3月，當時還在讀高中的MICHI參加當地第7代形象女孩的一般公開徵選\[3\]\[4\]，入選後曾經服務2年。
 
-2015年春天，MICHI完成高中學業之後，前往東京發展\[5\]。於同年7月首播的[電視動畫](../Page/電視動畫.md "wikilink")《[六花的勇者](../Page/六花的勇者.md "wikilink")》片尾曲主唱甄選會中合格。其後音樂製作公司[Elements
+2015年春天，MICHI完成高中學業之後，前往東京發展\[5\]。於同年7月首播的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[六花的勇者](https://zh.wikipedia.org/wiki/六花的勇者 "wikilink")》片尾曲主唱甄選會中合格。其後音樂製作公司[Elements
 Garden為MICHI歌曲負責企劃製作](../Page/Elements_Garden.md "wikilink")，並以同年7月22日發行的雙主打單曲「Cry
 for the Truth/Secret Sky」正式出道\[6\]。
 
-2018年4月，MICHI從[swallow離所](../Page/波麗佳音.md "wikilink")，加入\[7\]。
+2018年4月，MICHI從[swallow離所](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，加入\[7\]。
 
 ## 歌曲一覽
 
@@ -43,7 +43,7 @@ for the Truth/Secret Sky」正式出道\[6\]。
 <tbody>
 <tr class="odd">
 <td><p>Cry for the Truth</p></td>
-<td><p>電視動畫《<a href="../Page/六花的勇者.md" title="wikilink">六花的勇者</a>》片頭主題曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/六花的勇者" title="wikilink">六花的勇者</a>》片頭主題曲</p></td>
 <td><p>2015年</p></td>
 </tr>
 <tr class="even">
@@ -53,7 +53,7 @@ for the Truth/Secret Sky」正式出道\[6\]。
 </tr>
 <tr class="odd">
 <td><p>Checkmate!?</p></td>
-<td><p>電視動畫《<a href="../Page/粗點心戰爭.md" title="wikilink">粗點心戰爭</a>》片頭主題曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/粗點心戰爭" title="wikilink">粗點心戰爭</a>》片頭主題曲</p></td>
 <td><p>2016年</p></td>
 </tr>
 <tr class="even">
@@ -85,7 +85,7 @@ for the Truth/Secret Sky」正式出道\[6\]。
 
   - Music Spice！（，2016年4月7日－）
 
-  - （2017年－，[超！A\&G+](../Page/超！A&G+.md "wikilink")）
+  - （2017年－，[超！A\&G+](https://zh.wikipedia.org/wiki/超！A&G+ "wikilink")）
 
 ## 參考資料
 

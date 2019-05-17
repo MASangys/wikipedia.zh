@@ -1,4 +1,4 @@
-《**DEATHTOPIA**》（死托邦）是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[山田惠庸的](../Page/山田惠庸.md "wikilink")[日本漫畫作品](../Page/日本漫畫.md "wikilink")，[講談社出版](../Page/講談社.md "wikilink")，於雙周刊《[Evening](../Page/Evening.md "wikilink")》連載；中文版由[玉皇朝發行](../Page/玉皇朝.md "wikilink")。
+《**DEATHTOPIA**》（死托邦）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[山田惠庸的](https://zh.wikipedia.org/wiki/山田惠庸 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，[講談社出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")，於雙周刊《[Evening](../Page/Evening.md "wikilink")》連載；中文版由[玉皇朝發行](../Page/玉皇朝.md "wikilink")。
 
 ## 故事簡介
 
@@ -9,13 +9,13 @@
 ### 主要角色
 
   -
-    【性別：男，年齡：19歲，身高：170厘米，血型：A型（[Rh+](../Page/Rh血型系統.md "wikilink")），生日：1995年3月3日】
+    【性別：男，年齡：19歲，身高：170厘米，血型：A型（[Rh+](https://zh.wikipedia.org/wiki/Rh血型系統 "wikilink")），生日：1995年3月3日】
     因不明車禍而致使雙眼受傷，痊癒後獲得能分辨「欺詐者」的頭部「噪音」形狀（一團黑色的陰影）成為其天敵。
 
 <!-- end list -->
 
   -
-    【性別：女，年齡：17歲，身高：160厘米，血型：A型，[三圍](../Page/三圍.md "wikilink")：B88、W57、H86】
+    【性別：女，年齡：17歲，身高：160厘米，血型：A型，[三圍](https://zh.wikipedia.org/wiki/三圍 "wikilink")：B88、W57、H86】
     6科的女性刑事3人組之一。
     深藍髮色長馬尾，臉頰雙側留細長髮束的美少女，個性傲嬌、不坦率。武器是[全自動手槍](../Page/全自動手槍.md "wikilink")，肩上背有竹刀袋。劍術流派為「一神影流」。
     父母及哥哥均被欺詐者殺害。因被選入特殊犯搜查官而高中退學，保持着空閒時自學各科目的習慣。
@@ -25,7 +25,7 @@
   -
     【性別：女，年齡：19歲，身高：165厘米，血型：B型，三圍：B92、W59、H88】
     6科的女性刑事3人組之一。
-    帶有虎牙的紅色短髮美少女，個性率直。左撇子，穿着短袖服裝。武器是[左輪手槍](../Page/左輪手槍.md "wikilink")。
+    帶有虎牙的紅色短髮美少女，個性率直。左撇子，穿着短袖服裝。武器是[左輪手槍](https://zh.wikipedia.org/wiki/左輪手槍 "wikilink")。
     曾是高中拳擊冠軍，並保持着練習拳擊。為了找回因巴士意外而失蹤的姐姐八神葵而加入特殊犯搜查官。
 
 <!-- end list -->
@@ -110,14 +110,14 @@
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/玉皇朝.md" title="wikilink">玉皇朝</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

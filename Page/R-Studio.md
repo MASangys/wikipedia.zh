@@ -1,6 +1,7 @@
-**R-Studio** 是一套全功能的[数据恢复应用程序](../Page/数据恢复.md "wikilink")，适用于
-[Windows](../Page/Windows.md "wikilink")、[Mac
-OS](../Page/Mac_OS.md "wikilink") 以及
+**R-Studio**
+是一套全功能的[数据恢复应用程序](https://zh.wikipedia.org/wiki/数据恢复 "wikilink")，适用于
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
+OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") 以及
 [Linux](../Page/Linux.md "wikilink") 。它可以从[硬碟](../Page/硬盘.md "wikilink")
 (HDD)、[固态硬碟](../Page/固态硬盘.md "wikilink")
 (SSD)、[快閃記憶體及其他内部或外部的数据存储设备启动以恢复数据](../Page/闪存.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
@@ -8,13 +9,13 @@ OS](../Page/Mac_OS.md "wikilink") 以及
 R-Studio 内核的应用程序 **R-Undelete** 专为非专业用户开发，它只能在 Windows
 下工作，拥有简化的界面和十六进制编辑器，但不支持
 [RAID](../Page/RAID.md "wikilink") 和网络数据恢复功能。R-Undelete 面向家庭用户，帮助这些用户从
-[FAT32](../Page/FAT32.md "wikilink")/[NTFS](../Page/NTFS.md "wikilink")、[FAT](../Page/FAT.md "wikilink")/[exFAT等文件系统中恢复文件](../Page/exFAT.md "wikilink")，前两种主要是Windows下的[机械硬碟和固态硬碟](../Page/机械硬盘.md "wikilink")（SSD），后两种文件系统主要用于[USB以及數位相機中的](../Page/U盘.md "wikilink")
+[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")/[NTFS](../Page/NTFS.md "wikilink")、[FAT](../Page/FAT.md "wikilink")/[exFAT等文件系统中恢复文件](https://zh.wikipedia.org/wiki/exFAT "wikilink")，前两种主要是Windows下的[机械硬碟和固态硬碟](https://zh.wikipedia.org/wiki/机械硬盘 "wikilink")（SSD），后两种文件系统主要用于[USB以及數位相機中的](https://zh.wikipedia.org/wiki/U盘 "wikilink")
 [SD卡](../Page/SD卡.md "wikilink")。\[5\]
 
 ## 特性
 
   - 包括简体中文在内的多语言界面和帮助。
-  - 支持的文件系统：[FAT12](../Page/FAT12.md "wikilink")、[FAT16](../Page/FAT16.md "wikilink")、FAT32、exFAT、NTFS、NTFS5、[ReFS](../Page/ReFS.md "wikilink")、[HFS](../Page/HFS.md "wikilink")/[HFS+](../Page/HFS+.md "wikilink")
+  - 支持的文件系统：[FAT12](https://zh.wikipedia.org/wiki/FAT12 "wikilink")、[FAT16](https://zh.wikipedia.org/wiki/FAT16 "wikilink")、FAT32、exFAT、NTFS、NTFS5、[ReFS](../Page/ReFS.md "wikilink")、[HFS](https://zh.wikipedia.org/wiki/HFS "wikilink")/[HFS+](../Page/HFS+.md "wikilink")
     (Macintosh)、[Ext2](../Page/Ext2.md "wikilink")/[Ext3](../Page/Ext3.md "wikilink")/[Ext4](../Page/Ext4.md "wikilink")
     FS (Linux)、和 UFS1/UFS2 (FreeBSD/OpenBSD/NetBSD/Solaris)。
   - 支持本地化的文件和文件夹名称（简体中文、欧洲和亚洲语言）

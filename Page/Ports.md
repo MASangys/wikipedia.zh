@@ -2,13 +2,14 @@
 **ports**）是一系列由[BSD系列操作系统](../Page/BSD.md "wikilink")（比如
 [FreeBSD](../Page/FreeBSD.md "wikilink")，[NetBSD](../Page/NetBSD.md "wikilink")，和
 [OpenBSD](../Page/OpenBSD.md "wikilink")）提供的一些
-[makefile](../Page/makefile.md "wikilink") 和 [patch
-(Unix)](../Page/Patch.md "wikilink")，以作为一种简单的[安装以及创建](../Page/安装.md "wikilink")[二进制包的方法](../Page/二进制包.md "wikilink")。它们通常基于[软件包管理系统](../Page/软件包管理系统.md "wikilink")，并带有
+[makefile](https://zh.wikipedia.org/wiki/makefile "wikilink") 和 [patch
+(Unix)](https://zh.wikipedia.org/wiki/Patch "wikilink")，以作为一种简单的[安装以及创建](https://zh.wikipedia.org/wiki/安装 "wikilink")[二进制包的方法](https://zh.wikipedia.org/wiki/二进制包 "wikilink")。它们通常基于[软件包管理系统](../Page/软件包管理系统.md "wikilink")，并带有
 ports
 创建以及附加工具以对软件包删除、增添或进行其他操作。除了BSD，一些[Linux发行版有类似的软件](../Page/Linux发行版.md "wikilink")。包括
-[Gentoo的](../Page/Gentoo.md "wikilink")
-[Portage](../Page/Portage.md "wikilink")，[Archlinux](../Page/Archlinux.md "wikilink")
-的 [Arch编译系统](../Page/Arch编译系统.md "wikilink")(ABS) ， 的以及  的 Ports。
+[Gentoo的](https://zh.wikipedia.org/wiki/Gentoo "wikilink")
+[Portage](../Page/Portage.md "wikilink")，[Archlinux](https://zh.wikipedia.org/wiki/Archlinux "wikilink")
+的 [Arch编译系统](https://zh.wikipedia.org/wiki/Arch编译系统 "wikilink")(ABS) ，
+的以及  的 Ports。
 
 Ports
 的主要优点是使用现有的硬件资源对软件安装的微调与优化。例如，管理员可以容易地在64位系统安装一个64位软件，而如果还没有64位软件那就会安装一个未对64位优化的32位软件。
@@ -30,15 +31,18 @@ pkgsrc 作为他们的官方包管理系统。\[1\]但后来但后来DragonFly B
 
 ## OpenBSD 的 ports
 
-相反，[FreeBSD Ports](../Page/FreeBSD_Ports.md "wikilink")
+相反，[FreeBSD
+Ports](https://zh.wikipedia.org/wiki/FreeBSD_Ports "wikilink")
 是它最初的基础，[OpenBSD](../Page/OpenBSD.md "wikilink")
 的ports系统的目的是作为来源，以创建最终包：安装 ports 时首先创建一个包，然后进行安装。Ports 包含
-[Makefile](../Page/Makefile.md "wikilink") ，带有说明信息的
+[Makefile](https://zh.wikipedia.org/wiki/Makefile "wikilink") ，带有说明信息的
 [文本文件](../Page/文本文件.md "wikilink")，让这个程序在 OpenBSD
-运行的补丁以及一个列出本包中的文件的包列表。这个 ports 使用一系列标准的
+运行的补丁以及一个列出本包中的文件的包列表。这个 ports
+使用一系列标准的
 Makefile，其中一些和[源代码树共享](../Page/源代码.md "wikilink")，这些共共享的基础部分常常包括用于给
 ports 开发者的公共的功能，以保证 ports 可以十分简洁。为安全起见，或为开发新的 ports 的辅助，ports 编译可能在
-[systrace](../Page/systrace.md "wikilink") 下运行，并提供了一个默认的策略。
+[systrace](https://zh.wikipedia.org/wiki/systrace "wikilink")
+下运行，并提供了一个默认的策略。
 
 在2007年10月下旬, OpenBSD 开发者 Nikolay Sturm 宣布稳定版本的 ports
 应被看作无人维护的，因为缺乏资源。这强烈地驱使用户运行current版本的
@@ -61,9 +65,10 @@ Jasper Lievisse Adriaanse 的管理下复用。\[4\]
 
 ## 参见
 
-  - [Arch编译系统](../Page/Arch编译系统.md "wikilink")
+  - [Arch编译系统](https://zh.wikipedia.org/wiki/Arch编译系统 "wikilink")
 
-  - [FreeBSD Ports](../Page/FreeBSD_Ports.md "wikilink")
+  - [FreeBSD
+    Ports](https://zh.wikipedia.org/wiki/FreeBSD_Ports "wikilink")
 
   - [Portage](../Page/Portage.md "wikilink")
 

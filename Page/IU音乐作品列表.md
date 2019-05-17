@@ -1,9 +1,9 @@
-[韩国](../Page/韩国.md "wikilink")[创作歌手兼](../Page/創作歌手.md "wikilink")[演员](../Page/演員.md "wikilink")[IU共发行](../Page/IU_\(歌手\).md "wikilink")4张[录音室专辑、](../Page/录音室专辑.md "wikilink")10张[迷你专辑](../Page/迷你專輯.md "wikilink")、35首[单曲及](../Page/单曲.md "wikilink")37部[MV](../Page/音樂影片.md "wikilink")。此外，她还发行了12首[合作歌曲](../Page/合作.md "wikilink")、17首[电视剧](../Page/电视剧.md "wikilink")、[电影和](../Page/电影.md "wikilink")[网络游戏的](../Page/网络游戏.md "wikilink")[原声音乐](../Page/原声音乐.md "wikilink")（包含未正式发行的原声音乐）。
+[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[创作歌手兼](../Page/創作歌手.md "wikilink")[演员](https://zh.wikipedia.org/wiki/演員 "wikilink")[IU共发行](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")4张[录音室专辑、](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")10张[迷你专辑](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")、35首[单曲及](../Page/单曲.md "wikilink")37部[MV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。此外，她还发行了12首[合作歌曲](https://zh.wikipedia.org/wiki/合作 "wikilink")、17首[电视剧](../Page/电视剧.md "wikilink")、[电影和](../Page/电影.md "wikilink")[网络游戏的](../Page/网络游戏.md "wikilink")[原声音乐](../Page/原声音乐.md "wikilink")（包含未正式发行的原声音乐）。
 
 在Gaon专辑榜和Gaon音源榜，IU分别有2张专辑和14首歌曲获得一位。她还6次登上美国[Billboard的韩国流行音乐百强榜](../Page/告示牌_\(雜誌\).md "wikilink")（Korea
 K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的歌手。
 
-自2008年出道以来，IU在韩国专辑销量达45万张，[数字音乐下载量](../Page/数字音乐下载.md "wikilink")7000万次（包含专辑歌曲、合作歌曲、原声音乐及其他参与歌曲）。
+自2008年出道以来，IU在韩国专辑销量达45万张，[数字音乐下载量](https://zh.wikipedia.org/wiki/数字音乐下载 "wikilink")7000万次（包含专辑歌曲、合作歌曲、原声音乐及其他参与歌曲）。
 
 ## 專輯
 
@@ -21,7 +21,7 @@ K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [1]</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a><br />
 [2]</p></td>
@@ -35,10 +35,10 @@ K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Growing_Up_(IU專輯).md" title="wikilink">Growing Up</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Growing_Up_(IU專輯)" title="wikilink">Growing Up</a></p></td>
 <td><ul>
 <li>發行：2009年4月23日</li>
-<li>唱片公司：<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD、</a><a href="../Page/數位音樂下載.md" title="wikilink">數字下載</a></li>
 </ul></td>
 <td><p>34</p></td>
@@ -55,10 +55,10 @@ K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的�
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Modern_Times_(IU專輯).md" title="wikilink">Modern Times</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Modern_Times_(IU專輯)" title="wikilink">Modern Times</a></p></td>
 <td><ul>
 <li>發行：2013年10月8日</li>
-<li>唱片公司：<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN Tree</a></li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN Tree</a></li>
 <li>形式：CD、數字下載</li>
 </ul></td>
 <td><p>1</p></td>
@@ -76,7 +76,7 @@ K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Palette_(IU專輯).md" title="wikilink">Palette</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Palette_(IU專輯)" title="wikilink">Palette</a></p></td>
 <td><ul>
 <li>發行：2017年4月21日</li>
 <li>唱片公司：Fave娛樂</li>
@@ -106,7 +106,7 @@ K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/G-Music.md" title="wikilink">台灣</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/G-Music" title="wikilink">台灣</a><br />
 [3]</p></td>
 <td></td>
 <td></td>
@@ -157,7 +157,7 @@ The Stories Between U &amp; I</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [4]</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a><br />
 [5]</p></td>
@@ -171,10 +171,10 @@ The Stories Between U &amp; I</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Lost_and_Found_(IU迷你專輯).md" title="wikilink">Lost and Found</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lost_and_Found_(IU迷你專輯)" title="wikilink">Lost and Found</a></p></td>
 <td><ul>
 <li>發行：2008年9月23日</li>
-<li>唱片公司：<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD、</a><a href="../Page/數位音樂下載.md" title="wikilink">數字下載</a></li>
 </ul></td>
 <td><p>44</p></td>
@@ -191,7 +191,7 @@ The Stories Between U &amp; I</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Real_(IU迷你專輯).md" title="wikilink">Real</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Real_(IU迷你專輯)" title="wikilink">Real</a></p></td>
 <td><ul>
 <li>發行：2010年12月9日</li>
 <li>唱片公司：LOEN娛樂</li>
@@ -205,13 +205,13 @@ The Stories Between U &amp; I</p></td>
 <td><ul>
 <li>發行：2011年2月17日</li>
 <li>唱片公司：LOEN娛樂</li>
-<li>形式：<a href="../Page/單曲CD.md" title="wikilink">單曲CD</a>、數字下載</li>
+<li>形式：<a href="https://zh.wikipedia.org/wiki/單曲CD" title="wikilink">單曲CD</a>、數字下載</li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/二十歲的春天.md" title="wikilink">二十歲的春天</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/二十歲的春天" title="wikilink">二十歲的春天</a></p></td>
 <td><ul>
 <li>發行：2012年5月11日</li>
 <li>唱片公司：LOEN娛樂</li>
@@ -248,7 +248,7 @@ The Stories Between U &amp; I</p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Can_You_Hear_Me?_(IU迷你專輯).md" title="wikilink">Can You Hear Me?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Can_You_Hear_Me?_(IU迷你專輯)" title="wikilink">Can You Hear Me?</a></p></td>
 <td><ul>
 <li>發行：2013年3月20日</li>
 <li>唱片公司：EMI音樂日本</li>
@@ -280,7 +280,7 @@ The Stories Between U &amp; I</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [6]</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a><br />
 [7]</p></td>
@@ -288,17 +288,17 @@ The Stories Between U &amp; I</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/花書簽.md" title="wikilink">花書簽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花書簽" title="wikilink">花書簽</a></p></td>
 <td><ul>
 <li>發行：2014年5月16日</li>
-<li>唱片公司：<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN Tree</a></li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN Tree</a></li>
 <li>形式：CD、數字下載、<a href="../Page/密紋唱片.md" title="wikilink">密紋唱片</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>144</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/花書簽2.md" title="wikilink">花書簽2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花書簽2" title="wikilink">花書簽2</a></p></td>
 <td><ul>
 <li>發行：2017年9月22日</li>
 <li>唱片公司：FAVE娛樂</li>
@@ -333,9 +333,9 @@ The Stories Between U &amp; I</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [8]</p></td>
-<td><p><a href="../Page/Korea_K-Pop_Hot_100.md" title="wikilink">KOR<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Korea_K-Pop_Hot_100" title="wikilink">KOR<br />
 Hot 100</a><br />
 [9]</p></td>
 <td></td>
@@ -355,7 +355,7 @@ Hot 100</a><br />
 <td><p>《Boo》</p></td>
 <td><p>2009</p></td>
 <td></td>
-<td><p><a href="../Page/Growing_Up_(IU專輯).md" title="wikilink">Growing Up</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Growing_Up_(IU專輯)" title="wikilink">Growing Up</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -367,7 +367,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《棉花糖》<br />
-<small>（<a href="../Page/Block_B.md" title="wikilink">Block B</a></small>的<a href="../Page/Zico_(歌手).md" title="wikilink">Zico負責說唱</a>）</p></td>
+<small>（<a href="../Page/Block_B.md" title="wikilink">Block B</a></small>的<a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico負責說唱</a>）</p></td>
 <td><p>39</p></td>
 <td></td>
 <td><p><a href="../Page/IU...IM.md" title="wikilink">IU...IM</a></p></td>
@@ -380,7 +380,7 @@ Hot 100</a><br />
 <td><ul>
 <li>韓國：3,593,000+ </li>
 </ul></td>
-<td><p><a href="../Page/Real_(IU迷你專輯).md" title="wikilink">Real</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Real_(IU迷你專輯)" title="wikilink">Real</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>《只有我不知道的事》</p></td>
@@ -429,13 +429,13 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《星期五見面》<br />
-<small>（<a href="../Page/History.md" title="wikilink">History</a></small>的張理正參演）</p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/History" title="wikilink">History</a></small>的張理正參演）</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><ul>
 <li>韓國：2,681,000+* </li>
 </ul></td>
-<td><p><a href="../Page/Modern_Times_(IU專輯).md" title="wikilink">Modern Times – Epilogue</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Modern_Times_(IU專輯)" title="wikilink">Modern Times – Epilogue</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>《我的老故事》<br />
@@ -467,7 +467,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《愛情不太順》<small>(사랑이 잘)</small><br />
-<small>(與<a href="../Page/吳赫.md" title="wikilink">吳赫合唱</a>)</small></p></td>
+<small>(與<a href="https://zh.wikipedia.org/wiki/吳赫" title="wikilink">吳赫合唱</a>)</small></p></td>
 <td><p>2017</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -514,7 +514,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>"—" 表示無排行或未在該地區發行<br />
-"*"表示<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart榜單更新</a>，數字下載量受到壓縮<br />
+"*"表示<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart榜單更新</a>，數字下載量受到壓縮<br />
 注釋：<a href="../Page/告示牌_(雜誌).md" title="wikilink">Billboard</a> Korea K-Pop Hot 100於2011年8月開啟，2014年7月停止排行</p></td>
 <td></td>
 <td></td>
@@ -541,7 +541,7 @@ Hot 100</a><br />
 <tr class="odd">
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a><br />
 [12]</p></td>
-<td><p><a href="../Page/日本熱門100金曲榜.md" title="wikilink">日本百強金曲</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/日本熱門100金曲榜" title="wikilink">日本百強金曲</a><br />
 [13]</p></td>
 <td></td>
 <td></td>
@@ -650,9 +650,9 @@ Hot 100</a><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [17]</p></td>
-<td><p><a href="../Page/Korea_K-Pop_Hot_100.md" title="wikilink">KOR<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Korea_K-Pop_Hot_100" title="wikilink">KOR<br />
 Hot 100</a><br />
 [18]</p></td>
 <td></td>
@@ -678,7 +678,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《嘮叨》<br />
-<small>（與<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="../Page/任瑟雍.md" title="wikilink">任瑟雍合唱</a>）</small></p></td>
+<small>（與<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="https://zh.wikipedia.org/wiki/任瑟雍" title="wikilink">任瑟雍合唱</a>）</small></p></td>
 <td><p>1</p></td>
 <td><ul>
 <li>韓國：3,043,000+ </li>
@@ -708,7 +708,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《Let's Go》<br />
-<small>（群星之一；<a href="../Page/2010年二十國集團首爾峰會.md" title="wikilink">2010年二十國集團首爾峰會活動歌曲</a>）</small></p></td>
+<small>（群星之一；<a href="https://zh.wikipedia.org/wiki/2010年二十國集團首爾峰會" title="wikilink">2010年二十國集團首爾峰會活動歌曲</a>）</small></p></td>
 <td><p>—</p></td>
 <td></td>
 <td><p>rowspan="2" </p></td>
@@ -736,7 +736,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《除了春天、愛情和櫻花》<br />
-<small>（與<a href="../Page/High4.md" title="wikilink">High4合唱</a>）</small></p></td>
+<small>（與<a href="https://zh.wikipedia.org/wiki/High4" title="wikilink">High4合唱</a>）</small></p></td>
 <td><p>2014</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -776,7 +776,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《Leon》<br />
-<small>（與<a href="../Page/樸明洙.md" title="wikilink">樸明洙合唱</a>）</small></p></td>
+<small>（與<a href="https://zh.wikipedia.org/wiki/樸明洙" title="wikilink">樸明洙合唱</a>）</small></p></td>
 <td><p>2015</p></td>
 <td><p>1</p></td>
 <td><ul>
@@ -786,7 +786,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>"—" 表示無排行或未在該地區發行<br />
-"*"表示<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart榜單更新</a>，數字下載量受到壓縮<br />
+"*"表示<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart榜單更新</a>，數字下載量受到壓縮<br />
 注釋：<a href="../Page/告示牌_(雜誌).md" title="wikilink">Billboard</a> Korea K-Pop Hot 100於2011年8月開啟，2014年7月停止排行</p></td>
 <td></td>
 <td></td>
@@ -811,9 +811,9 @@ Hot 100</a><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [19]</p></td>
-<td><p><a href="../Page/Korea_K-Pop_Hot_100.md" title="wikilink">KOR<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Korea_K-Pop_Hot_100" title="wikilink">KOR<br />
 Hot 100</a><br />
 [20]</p></td>
 <td></td>
@@ -930,7 +930,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《Atreia》<br />
-<small>（出自網路游戏“<a href="../Page/永恒之塔.md" title="wikilink">永恒之塔</a>”）</small></p></td>
+<small>（出自網路游戏“<a href="https://zh.wikipedia.org/wiki/永恒之塔" title="wikilink">永恒之塔</a>”）</small></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -964,7 +964,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>"—" 表示无排行或未在该地区发行<br />
-"*"表示<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart榜单更新</a>，数字下载量受到压缩<br />
+"*"表示<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart榜单更新</a>，数字下载量受到压缩<br />
 注释：<a href="../Page/告示牌_(雜誌).md" title="wikilink">Billboard</a> Korea K-Pop Hot 100于2011年8月开启，2014年7月停止排行</p></td>
 <td></td>
 <td></td>
@@ -989,9 +989,9 @@ Hot 100</a><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [21]</p></td>
-<td><p><a href="../Page/Korea_K-Pop_Hot_100.md" title="wikilink">KOR<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Korea_K-Pop_Hot_100" title="wikilink">KOR<br />
 Hot 100</a><br />
 [22]</p></td>
 <td></td>
@@ -1014,7 +1014,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《Rain Drop》<br />
-<small>（<a href="../Page/輝晟.md" title="wikilink">輝晟原唱</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/輝晟" title="wikilink">輝晟原唱</a>）</small></p></td>
 <td><p>2010</p></td>
 <td><p>74</p></td>
 <td><ul>
@@ -1097,7 +1097,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《叔叔》<br />
-<small>（<a href="../Page/李笛.md" title="wikilink">李笛参唱</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛参唱</a>）</small></p></td>
 <td><p>4</p></td>
 <td><p>8</p></td>
 <td><ul>
@@ -1135,7 +1135,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《Teacher》<br />
-<small>（<a href="../Page/Ra.D.md" title="wikilink">Ra.D参唱</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/Ra.D" title="wikilink">Ra.D参唱</a>）</small></p></td>
 <td><p>9</p></td>
 <td><p>25</p></td>
 <td><ul>
@@ -1228,7 +1228,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《忧郁时钟》<br />
-<small>（<a href="../Page/SHINee.md" title="wikilink">SHINee的</a><a href="../Page/金钟铉_(歌手).md" title="wikilink">金钟铉参唱</a>）</small></p></td>
+<small>（<a href="../Page/SHINee.md" title="wikilink">SHINee的</a><a href="https://zh.wikipedia.org/wiki/金钟铉_(歌手)" title="wikilink">金钟铉参唱</a>）</small></p></td>
 <td><p>6</p></td>
 <td><p>11</p></td>
 <td><ul>
@@ -1265,7 +1265,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《白日梦》<br />
-<small>（<a href="../Page/杨姬银.md" title="wikilink">杨姬银参唱</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/杨姬银" title="wikilink">杨姬银参唱</a>）</small></p></td>
 <td><p>12</p></td>
 <td><p>15</p></td>
 <td><ul>
@@ -1332,7 +1332,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《当爱已逝去》<br />
-<small>（<a href="../Page/李文世.md" title="wikilink">李文世原唱</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世原唱</a>）</small></p></td>
 <td><p>4</p></td>
 <td><p>3</p></td>
 <td><ul>
@@ -1437,7 +1437,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>"—" 表示无排行或未在该地区发行<br />
-"*"表示<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart榜单更新</a>，数字下载量受到压缩<br />
+"*"表示<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart榜单更新</a>，数字下载量受到压缩<br />
 注释：<a href="../Page/告示牌_(雜誌).md" title="wikilink">Billboard</a> Korea K-Pop Hot 100于2011年8月开启，2014年7月停止排行</p></td>
 <td></td>
 <td></td>
@@ -1461,9 +1461,9 @@ Hot 100</a><br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a><br />
 [23]</p></td>
-<td><p><a href="../Page/Korea_K-Pop_Hot_100.md" title="wikilink">KOR<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Korea_K-Pop_Hot_100" title="wikilink">KOR<br />
 Hot 100</a><br />
 [24]</p></td>
 <td></td>
@@ -1487,7 +1487,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《我仍然不知道爱》<br />
-<small>（<a href="../Page/李芝娟.md" title="wikilink">李芝娟原唱</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/李芝娟" title="wikilink">李芝娟原唱</a>）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1535,7 +1535,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《为什么》<br />
-<small>(<a href="../Page/Supreme_Team.md" title="wikilink">Supreme Team和永俊合唱</a>，IU参唱）</small>[25]</p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/Supreme_Team" title="wikilink">Supreme Team和永俊合唱</a>，IU参唱）</small>[25]</p></td>
 <td><p>2010</p></td>
 <td><p>1</p></td>
 <td><ul>
@@ -1553,7 +1553,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《I KNOW》<br />
-<small>（<a href="../Page/胜利_(歌手).md" title="wikilink">胜利主唱</a>，IU参唱）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/胜利_(歌手)" title="wikilink">胜利主唱</a>，IU参唱）</small></p></td>
 <td><p>2011</p></td>
 <td><p>42</p></td>
 <td></td>
@@ -1577,7 +1577,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《Let's Catch the Bus》<br />
-<small>（出自<a href="../Page/现代汽车集团.md" title="wikilink">现代汽车集团汽车音乐会</a>）</small></p></td>
+<small>（出自<a href="https://zh.wikipedia.org/wiki/现代汽车集团" title="wikilink">现代汽车集团汽车音乐会</a>）</small></p></td>
 <td><p>—</p></td>
 <td></td>
 <td></td>
@@ -1595,7 +1595,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《为我唱歌》<br />
-<small>（<a href="../Page/g.o.d.md" title="wikilink">g.o.d主唱</a>，IU参唱）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d主唱</a>，IU参唱）</small></p></td>
 <td><p>2014</p></td>
 <td><p>9</p></td>
 <td><p>rowspan="2" </p></td>
@@ -1604,7 +1604,7 @@ Hot 100</a><br />
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>《誰都知道的秘密》 <small>（<a href="../Page/g.o.d.md" title="wikilink">Onnine Ibalgwan主唱</a>，IU参唱）</small></p></td>
+<td><p>《誰都知道的秘密》 <small>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">Onnine Ibalgwan主唱</a>，IU参唱）</small></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td></td>
@@ -1625,7 +1625,7 @@ Hot 100</a><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《Soulmate》 <small>（<a href="../Page/Zico.md" title="wikilink">Zico主唱</a>，IU参唱）</small></p></td>
+<td><p>《Soulmate》 <small>（<a href="https://zh.wikipedia.org/wiki/Zico" title="wikilink">Zico主唱</a>，IU参唱）</small></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
@@ -1633,7 +1633,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>"—" 表示无排行或未在该地区发行<br />
-"*"表示<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart榜单更新</a>，数字下载量受到压缩<br />
+"*"表示<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart榜单更新</a>，数字下载量受到压缩<br />
 注释：<a href="../Page/告示牌_(雜誌).md" title="wikilink">Billboard</a> Korea K-Pop Hot 100于2011年8月开启，2014年7月停止排行</p></td>
 <td></td>
 <td></td>
@@ -1796,7 +1796,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>《红舞鞋》</p></td>
-<td style="text-align: center;"><p><a href="../Page/柳熙烈.md" title="wikilink">柳熙烈</a>、、非凡和<a href="../Page/張基勇.md" title="wikilink">张基勇参演</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳熙烈" title="wikilink">柳熙烈</a>、、非凡和<a href="https://zh.wikipedia.org/wiki/張基勇" title="wikilink">张基勇参演</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1839,7 +1839,7 @@ Hot 100</a><br />
 <tr class="odd">
 <td style="text-align: center;"><p>《唠叨》</p></td>
 <td style="text-align: center;"><p>2010</p></td>
-<td style="text-align: center;"><p>IU和<a href="../Page/任瑟雍.md" title="wikilink">任瑟雍</a></p></td>
+<td style="text-align: center;"><p>IU和<a href="https://zh.wikipedia.org/wiki/任瑟雍" title="wikilink">任瑟雍</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -1869,7 +1869,7 @@ Hot 100</a><br />
 <tr class="even">
 <td style="text-align: center;"><p>《除了春天、爱情和樱花》</p></td>
 <td style="text-align: center;"><p>2014</p></td>
-<td style="text-align: center;"><p><a href="../Page/High4.md" title="wikilink">High4和IU</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/High4" title="wikilink">High4和IU</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">

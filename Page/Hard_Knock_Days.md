@@ -1,14 +1,15 @@
 《**Hard Knock
-Days**》是[日本](../Page/日本.md "wikilink")[音樂團體](../Page/音樂團體.md "wikilink")[GENERATIONS的第](../Page/GENERATIONS_from_EXILE_TRIBE.md "wikilink")9张[单曲](../Page/单曲.md "wikilink")，於2015年8月12日由[rhythm
-zone发售](../Page/rhythm_zone.md "wikilink")。
+Days**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")9张[单曲](../Page/单曲.md "wikilink")，於2015年8月12日由[rhythm
+zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - A面曲 《Hard Knock Days》是[富士電視台動畫](../Page/富士電視台.md "wikilink")「[ONE
     PIECE](../Page/ONE_PIECE.md "wikilink")」（海賊王）的主題曲，亦是[Moist
-    Diane](../Page/Moist_Diane.md "wikilink")《Extra Shine》的電視廣告歌曲。
+    Diane](https://zh.wikipedia.org/wiki/Moist_Diane "wikilink")《Extra
+    Shine》的電視廣告歌曲。
   - B面曲《PAGES》是外國電視劇「[THE
-    FLASH](../Page/閃電俠_\(2014年電視劇\).md "wikilink")」的電視廣告歌曲。
+    FLASH](https://zh.wikipedia.org/wiki/閃電俠_\(2014年電視劇\) "wikilink")」的電視廣告歌曲。
   - 與前作相同，此單曲收錄了上一張單曲的英語版本。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Hard Knock
     Days》和《PAGES》的Music Video。

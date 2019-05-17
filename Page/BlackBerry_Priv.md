@@ -6,13 +6,13 @@ makte等。這是黑莓首次推出基於Android系統旳[智能手机](../Page/
 
 ### 硬件
 
-螢幕採用了[三星製造的](../Page/三星.md "wikilink")5.4吋
+螢幕採用了[三星製造的](https://zh.wikipedia.org/wiki/三星 "wikilink")5.4吋
 2560x1440曲面螢幕。後鏡頭為Schneider-Kreuznach的1800萬像素鏡頭，支援4:3及1:1模式拍攝。
 
 ### 鍵盤
 
 Blackberry
-Priv具有黑莓一貫的設計語言，具有一個滑蓋式[QWERTY鍵盤](../Page/QWERTY.md "wikilink")，一般狀態下鍵盤被收入機身，可使用觸控螢幕輸入。
+Priv具有黑莓一貫的設計語言，具有一個滑蓋式[QWERTY鍵盤](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，一般狀態下鍵盤被收入機身，可使用觸控螢幕輸入。
 
 用戶可以將鍵盤按鍵設定成快捷鍵，只要長按按鍵可以開啟App。
 

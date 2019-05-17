@@ -1,11 +1,11 @@
 [Tschirnhausen_cubic.svg](https://zh.wikipedia.org/wiki/File:Tschirnhausen_cubic.svg "fig:Tschirnhausen_cubic.svg")
-**Talbot曲线**也稱為**切恩豪斯立方曲線**，為一[平面曲線](../Page/平面曲線.md "wikilink")，[極坐標方程式如下](../Page/極坐標.md "wikilink")
+**Talbot曲线**也稱為**切恩豪斯立方曲線**，為一[平面曲線](https://zh.wikipedia.org/wiki/平面曲線 "wikilink")，[極坐標方程式如下](https://zh.wikipedia.org/wiki/極坐標 "wikilink")
 
 \[r = a\sec^3(\theta/3).\]
 
 ## 歷史
 
-[埃伦弗里德·瓦尔特·冯·切恩豪斯](../Page/埃伦弗里德·瓦尔特·冯·切恩豪斯.md "wikilink")、[紀堯姆·德·洛必達及](../Page/紀堯姆·德·洛必達.md "wikilink")[歐仁·查爾斯·加泰羅尼亞都曾研究此曲線](../Page/歐仁·查爾斯·加泰羅尼亞.md "wikilink")。在R
+[埃伦弗里德·瓦尔特·冯·切恩豪斯](https://zh.wikipedia.org/wiki/埃伦弗里德·瓦尔特·冯·切恩豪斯 "wikilink")、[紀堯姆·德·洛必達及](../Page/紀堯姆·德·洛必達.md "wikilink")[歐仁·查爾斯·加泰羅尼亞都曾研究此曲線](https://zh.wikipedia.org/wiki/歐仁·查爾斯·加泰羅尼亞 "wikilink")。在R
 C Archibald於1900年發表的論文中將此稱為切恩豪斯立方曲線，不過也稱為洛必達立方曲線（de L'Hôpital's
 cubic）或加泰羅尼亞三等分角线（trisectrix of Catalan）。
 
@@ -20,7 +20,7 @@ cubic）或加泰羅尼亞三等分角线（trisectrix of Catalan）。
 \[y=a\sin \theta \sec^3 \frac{\theta}{3} = a \left(3 \cos^2 \frac{\theta}{3}\sin \frac{\theta}{3} - \sin^3 \frac{\theta}{3} \right) \sec^3 \frac{\theta}{3}\]
 
 \[= a \left(3 \tan \frac{\theta}{3} - \tan^3 \frac{\theta}{3} \right) = at(3-t^2)\]
-可以得到此曲線的[參數式](../Page/參數式.md "wikilink")。參數t可以消去，得到以下方程式
+可以得到此曲線的[參數式](https://zh.wikipedia.org/wiki/參數式 "wikilink")。參數t可以消去，得到以下方程式
 
 \[27ay^2 = (a-x)(8a+x)^2\].
 

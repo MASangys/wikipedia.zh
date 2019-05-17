@@ -1,5 +1,5 @@
 是[BANDAI NAMCO
-Online开发的一款](../Page/BANDAI_NAMCO_Online.md "wikilink")[大型多人在线第三人称射击游戏](../Page/第三人称射击游戏#大型多人在线第三人称射击游戏.md "wikilink")。
+Online开发的一款](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Online "wikilink")[大型多人在线第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏#大型多人在线第三人称射击游戏 "wikilink")。
 
 在日本由[万代南梦宫娱乐运营](../Page/万代南梦宫娱乐.md "wikilink")。在中国由[久游网代理运营](../Page/久游网.md "wikilink")。台港澳以經在2019年2月4日結束營運。
 
@@ -52,11 +52,12 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
   - [机动战士Z 高达](../Page/機動戰士Z_GUNDAM.md "wikilink")
   - [机动战士高达 ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [模型战士高达模型大师 BEGINNING G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")
-  - [机动战士高达 UC RE:0096](../Page/機動戰士GUNDAM_UC#電視動畫.md "wikilink")
+  - [机动战士高达 UC
+    RE:0096](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC#電視動畫 "wikilink")
 
 **剧场版动画**
 
-  - [机动战士高达剧场版](../Page/機動戰士GUNDAM#劇場版.md "wikilink")
+  - [机动战士高达剧场版](https://zh.wikipedia.org/wiki/機動戰士GUNDAM#劇場版 "wikilink")
   - [机动战士Z 高达剧场版](../Page/機動戰士Z_GUNDAM劇場版.md "wikilink")
   - [机动战士高达 逆袭的夏亚](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")
   - [机动战士高达 NT](../Page/机动战士GUNDAM_NT.md "wikilink")
@@ -68,11 +69,13 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
     Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")
   - [机动战士高达第08MS小队](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")
   - [机动战士高达 MS IGLOO](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
-  - [机动战士高达 UC](../Page/機動戰士GUNDAM_UC#OVA.md "wikilink")
-  - [机动战士高达 THE ORIGIN](../Page/機動戰士GUNDAM_THE_ORIGIN.md "wikilink")
+  - [机动战士高达
+    UC](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC#OVA "wikilink")
+  - [机动战士高达 THE
+    ORIGIN](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_THE_ORIGIN "wikilink")
   - [机动战士高达 Thunderbolt](../Page/机动战士GUNDAM_Thunderbolt.md "wikilink")
   - [機動戰士GUNDAM Twilight
-    AXIS](../Page/機動戰士GUNDAM_Twilight_AXIS.md "wikilink")
+    AXIS](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Twilight_AXIS "wikilink")
 
 </td>
 
@@ -89,7 +92,7 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
   - [机动战士高达外传 宇宙、闪光的尽头…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
   - Zeonic Front 机动战士高达0079
   - [机动战士高达外传 MISSING
-    LINK](../Page/机动战士GUNDAM_SIDE_STORIES#MISSING_LINK.md "wikilink")
+    LINK](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SIDE_STORIES#MISSING_LINK "wikilink")
   - \-{Harmony of Gundam}-
   - 机动战士高达战记
   - GUNDAM TACTICS MOBILITY FLEET0079
@@ -101,7 +104,7 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
 
 **小说、漫画、其他作品**
 
-  - [机动战士高达小说版](../Page/機動戰士GUNDAM#小說.md "wikilink")
+  - [机动战士高达小说版](https://zh.wikipedia.org/wiki/機動戰士GUNDAM#小說 "wikilink")
   - MSV
   - MS-X
   - M-MSV
@@ -111,11 +114,12 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
   - 机动战士高达 我们是联邦愚联队
   - 机动战士高达 KATANA
   - [机动战士高达0083
-    REBELLION](../Page/機動戰士GUNDAM_0083：Stardust_Memory#漫畫版.md "wikilink")
+    REBELLION](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083：Stardust_Memory#漫畫版 "wikilink")
   - CCA-MSV
   - Z-MSV
   - ZZ-MSV
-  - [ADVANCE OF Ζ 迪坦斯的旗下](../Page/ADVANCE_OF_Ζ_迪坦斯的旗下.md "wikilink")
+  - [ADVANCE OF Ζ
+    迪坦斯的旗下](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_迪坦斯的旗下 "wikilink")
   - 机动战士高达 战略战术大图鉴
   - [机动战士高达 UC小说版](../Page/機動戰士GUNDAM_UC.md "wikilink")
 

@@ -5,20 +5,20 @@
 
   - 於2008年9月22日和9月23日在[日本武道館舉行的三週年演唱會](../Page/日本武道館.md "wikilink")。
   - DISC 1收錄9月23日的影像、DISC
-    2收錄22日影像跟[MIRAGE的畫面](../Page/MIRAGE_\(AAAの曲\).md "wikilink")。
+    2收錄22日影像跟[MIRAGE的畫面](https://zh.wikipedia.org/wiki/MIRAGE_\(AAAの曲\) "wikilink")。
   - Oricon公信榜週排行DVD類第1名。
 
 ## 收錄曲目
 
 ### DISC 1
 
-1.  [ZERO](../Page/MUSIC!!!_/_ZERO.md "wikilink")
+1.  [ZERO](https://zh.wikipedia.org/wiki/MUSIC!!!_/_ZERO "wikilink")
 2.  [Paradise Paradise](../Page/AROUND_\(AAA專輯\).md "wikilink")
 3.  [One Night Animal](../Page/BEYOND～超越極限.md "wikilink")
-4.  [SHE的真相](../Page/Get_啾!_/_SHE的真相.md "wikilink")
+4.  [SHE的真相](https://zh.wikipedia.org/wiki/Get_啾!_/_SHE的真相 "wikilink")
 5.  [哈利路亞](../Page/哈利路亞_\(AAA單曲\).md "wikilink")
-6.  [Get 啾\!](../Page/Get_啾!_/_SHE的真相.md "wikilink")
-7.  [Wonderful Life](../Page/alohAAA!.md "wikilink")
+6.  [Get 啾\!](https://zh.wikipedia.org/wiki/Get_啾!_/_SHE的真相 "wikilink")
+7.  [Wonderful Life](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")
 8.  [我所驚覺的任性自由](../Page/CHOICE_IS_YOURS.md "wikilink")
 9.  [a piece of my word](../Page/啟程之歌_\(AAA單曲\).md "wikilink")
 10. [Love Candle](../Page/MIRAGE_\(AAA單曲\).md "wikilink")
@@ -32,7 +32,7 @@
     FIRE](../Page/BLOOD_on_FIRE.md "wikilink")
 17. \-Attraction part-::[SUNSHINE](../Page/夏日風物.md "wikilink")
 18. \-Attraction
-    part-::[MUSIC\!\!\!](../Page/MUSIC!!!_/_ZERO.md "wikilink")
+    part-::[MUSIC\!\!\!](https://zh.wikipedia.org/wiki/MUSIC!!!_/_ZERO "wikilink")
 19. [Friday Party](../Page/Friday_Party.md "wikilink") (ENCORE)
 20. [Welcome to This World](../Page/ATTACK_\(AAA專輯\).md "wikilink")
     (ENCORE)

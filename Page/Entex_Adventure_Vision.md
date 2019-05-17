@@ -6,7 +6,7 @@ Select-A-Game](../Page/Entex_Select-A-Game.md "wikilink")。
 
 主機由2組共8個按鈕及1支[控制杆所控制](../Page/控制杆.md "wikilink")，可以分別給左撇子及右撇子玩家使用。而卡帶則安裝在控制杆的前方。此外，卡帶亦可以放置在主機頂端的空間內。
 
-主機的顯示器並非使用[液晶顯示器或接駁至外部顯示器](../Page/液晶顯示器.md "wikilink")。相反，它使用[發光二極管及旋轉鏡系統](../Page/發光二極管.md "wikilink")，從而形成150×40像素的螢幕。而相同的技術亦使用在1990年代的遊戲機，任天堂的[Virtual
+主機的顯示器並非使用[液晶顯示器或接駁至外部顯示器](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")。相反，它使用[發光二極管及旋轉鏡系統](../Page/發光二極管.md "wikilink")，從而形成150×40像素的螢幕。而相同的技術亦使用在1990年代的遊戲機，任天堂的[Virtual
 Boy](../Page/Virtual_Boy.md "wikilink")。
 
 ## 遊戲列表

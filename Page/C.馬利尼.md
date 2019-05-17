@@ -1,5 +1,5 @@
 **C.馬利尼**(**Cephas
-Malele**，出生於1994年1月8日）是[安哥拉出生的](../Page/安哥拉.md "wikilink")[瑞士的職業足球運動員](../Page/瑞士.md "wikilink")，司職[前鋒](../Page/前鋒.md "wikilink")，現由[意大利足球甲級聯賽](../Page/意大利足球甲級聯賽.md "wikilink")[巴勒莫租借至](../Page/巴勒莫足球會.md "wikilink")[葡萄牙足球甲級聯賽](../Page/葡萄牙足球甲級聯賽.md "wikilink")[葡萄牙體育會](../Page/葡萄牙體育會.md "wikilink")。
+Malele**，出生於1994年1月8日）是[安哥拉出生的](../Page/安哥拉.md "wikilink")[瑞士的職業足球運動員](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，司職[前鋒](https://zh.wikipedia.org/wiki/前鋒 "wikilink")，現由[意大利足球甲級聯賽](https://zh.wikipedia.org/wiki/意大利足球甲級聯賽 "wikilink")[巴勒莫租借至](https://zh.wikipedia.org/wiki/巴勒莫足球會 "wikilink")[葡萄牙足球甲級聯賽](https://zh.wikipedia.org/wiki/葡萄牙足球甲級聯賽 "wikilink")[葡萄牙體育會](https://zh.wikipedia.org/wiki/葡萄牙體育會 "wikilink")。
 
 ## 參考
 

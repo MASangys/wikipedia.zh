@@ -1,5 +1,5 @@
-《**動畫鍛鍊！EX**》（）是[濁川敦導演](../Page/濁川敦.md "wikilink")，Rising
-Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[SUN電視台和](../Page/SUN電視台.md "wikilink")[Niconico動畫開始播放](../Page/Niconico動畫.md "wikilink")\[1\]\[2\]。故事以[第一身視覺與女孩一起做運動](../Page/漢語人稱代詞.md "wikilink")，並會有訓練的解說\[3\]。
+《**動畫鍛鍊！EX**》（）是[濁川敦導演](https://zh.wikipedia.org/wiki/濁川敦 "wikilink")，Rising
+Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[SUN電視台和](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")[Niconico動畫開始播放](../Page/Niconico動畫.md "wikilink")\[1\]\[2\]。故事以[第一身視覺與女孩一起做運動](https://zh.wikipedia.org/wiki/漢語人稱代詞 "wikilink")，並會有訓練的解說\[3\]。
 
 在第5集因[CG動畫欠佳而遭觀眾負評](../Page/计算机图形.md "wikilink")，在召開緊急反省會後\[4\]，第8集改為使用手繪的2D作畫呈現。
 
@@ -29,13 +29,13 @@ Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電�
 
   -
     17歲，高中2年級生。清秀文靜大小姐氣質的前輩。
-    留有黑色長直髮，身體發育完美。性格我行我素，極具包容力和治癒力，偶爾也會顯露出不諳世事的天然呆一面，生氣時似乎非常可怕。喜歡的東西是料理，飼養着一隻寵物雪貂（聲：[曾我部英理](../Page/曾我部英理.md "wikilink")）。
+    留有黑色長直髮，身體發育完美。性格我行我素，極具包容力和治癒力，偶爾也會顯露出不諳世事的天然呆一面，生氣時似乎非常可怕。喜歡的東西是料理，飼養着一隻寵物雪貂（聲：[曾我部英理](https://zh.wikipedia.org/wiki/曾我部英理 "wikilink")）。
 
 <!-- end list -->
 
   -
     16歲，高中1年級生。[中二病全開的不思議系女生](../Page/中二病.md "wikilink")。
-    本名「明子」。關於自己的詳細設定為「黑暗世界降臨的墮天使」，給人一種不可思議的感覺。目標是成為偶像，理由為「這是命運的指引」。偶爾也會搞錯自己的設定，成為笨手笨腳的[搞笑角色](../Page/冒失娘.md "wikilink")。
+    本名「明子」。關於自己的詳細設定為「黑暗世界降臨的墮天使」，給人一種不可思議的感覺。目標是成為偶像，理由為「這是命運的指引」。偶爾也會搞錯自己的設定，成為笨手笨腳的[搞笑角色](https://zh.wikipedia.org/wiki/冒失娘 "wikilink")。
     目前在「[Ministop](../Page/Ministop.md "wikilink")」做着兼職售貨員的工作，在動畫第一話裏便以店員身份登場。
 
 <!-- end list -->
@@ -57,7 +57,8 @@ Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電�
   - 監督：濁川敦
   - 劇本：石橋大助
   - 人物設定、總作畫監督：山本周平
-  - 動畫製作：[Rising Force](../Page/Rising_Force.md "wikilink")
+  - 動畫製作：[Rising
+    Force](https://zh.wikipedia.org/wiki/Rising_Force "wikilink")
 
 ### 主題曲
 
@@ -68,7 +69,7 @@ Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電�
   -
 
       -
-        塡詞、編曲：[やしきん](../Page/やしきん.md "wikilink")，作曲：奧井康介，主唱：星麻美（[伊藤美來](../Page/伊藤美來.md "wikilink")）、樋口繪里（[和氣杏未](../Page/和氣杏未.md "wikilink")）、早乙女靜乃（[小牧未侑](../Page/小牧未侑.md "wikilink")）、橘紫苑（[長繩麻理亞](../Page/長繩麻理亞.md "wikilink")）、平岡優（[高尾奏音](../Page/高尾奏音.md "wikilink")）
+        塡詞、編曲：[やしきん](https://zh.wikipedia.org/wiki/やしきん "wikilink")，作曲：奧井康介，主唱：星麻美（[伊藤美來](../Page/伊藤美來.md "wikilink")）、樋口繪里（[和氣杏未](../Page/和氣杏未.md "wikilink")）、早乙女靜乃（[小牧未侑](https://zh.wikipedia.org/wiki/小牧未侑 "wikilink")）、橘紫苑（[長繩麻理亞](../Page/長繩麻理亞.md "wikilink")）、平岡優（[高尾奏音](https://zh.wikipedia.org/wiki/高尾奏音 "wikilink")）
 
     編舞：RAB（Real Akiba Boys）
 
@@ -81,7 +82,7 @@ Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電�
   -
 
       -
-        塡詞：[hotaru](../Page/hotaru.md "wikilink")，作曲、編曲：[yamazo](../Page/yamazo.md "wikilink")，主唱：星麻美（伊藤美來）、樋口繪里（和氣杏未）、早乙女靜乃（小牧未侑）、橘紫苑（長繩麻理亞）、平岡優（高尾奏音）、出海櫻（[鈴木繪理](../Page/鈴木繪理.md "wikilink")）
+        塡詞：[hotaru](https://zh.wikipedia.org/wiki/hotaru "wikilink")，作曲、編曲：[yamazo](https://zh.wikipedia.org/wiki/yamazo "wikilink")，主唱：星麻美（伊藤美來）、樋口繪里（和氣杏未）、早乙女靜乃（小牧未侑）、橘紫苑（長繩麻理亞）、平岡優（高尾奏音）、出海櫻（[鈴木繪理](../Page/鈴木繪理.md "wikilink")）
 
 ### 各話列表
 
@@ -120,7 +121,7 @@ Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電�
 <td><p>EX2</p></td>
 <td><p>{{lang|ja|もっと腕立て！バストアップなんだから</p></td>
 <td><p>}}</p></td>
-<td><p>多做掌上壓！能提升<a href="../Page/胸圍.md" title="wikilink">胸圍啦</a>！！</p></td>
+<td><p>多做掌上壓！能提升<a href="https://zh.wikipedia.org/wiki/胸圍" title="wikilink">胸圍啦</a>！！</p></td>
 <td><p>浦島美紀、北島勇樹</p></td>
 <td><p>樋口繪里</p></td>
 <td></td>
@@ -203,7 +204,7 @@ Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電�
 <td><p>EX11</p></td>
 <td><p>{{lang|ja|ゆったり太極拳！体幹、鍛えるんだから</p></td>
 <td><p>}}</p></td>
-<td><p>放鬆身心<a href="../Page/太極拳.md" title="wikilink">太極拳</a>！能有效鍛鍊<a href="../Page/軀幹.md" title="wikilink">身體</a>！！</p></td>
+<td><p>放鬆身心<a href="https://zh.wikipedia.org/wiki/太極拳" title="wikilink">太極拳</a>！能有效鍛鍊<a href="../Page/軀幹.md" title="wikilink">身體</a>！！</p></td>
 <td><p>濁川敦</p></td>
 <td><p>壽夢龍</p></td>
 <td><p>全員</p></td>
@@ -342,14 +343,14 @@ Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電�
 
 ### 播放電視台
 
-| 播放地区                                           | 播放电视台                                      | 播放日期               | 播放时间              |
-| ---------------------------------------------- | ------------------------------------------ | ------------------ | ----------------- |
-| [东京都](../Page/东京都.md "wikilink")               | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 2015年10月13日－12月29日 | 星期一 25时11分－25时16分 |
-| [兵库县](../Page/兵库县.md "wikilink")               | [SUN电视台](../Page/SUN电视台.md "wikilink")     | 星期一 25时36分－25时41分  |                   |
-| 日本全国                                           | [AT-X](../Page/AT-X.md "wikilink")         | 2016年2月19日－5月6日    | 星期五 22时50分－23时00分 |
-| [niconico频道](../Page/NICONICO頻道.md "wikilink") | 2015年10月13日－12月22日                         | 星期二 12时00分 更新      |                   |
-| [GYAO\!](../Page/GYAO!.md "wikilink")          | 2015年10月13日－12月29日                         |                    |                   |
-| [万代频道](../Page/萬代頻道.md "wikilink")             |                                            |                    |                   |
+| 播放地区                                                              | 播放电视台                                                         | 播放日期               | 播放时间              |
+| ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------ | ----------------- |
+| [东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")               | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2015年10月13日－12月29日 | 星期一 25时11分－25时16分 |
+| [兵库县](../Page/兵库县.md "wikilink")                                  | [SUN电视台](https://zh.wikipedia.org/wiki/SUN电视台 "wikilink")     | 星期一 25时36分－25时41分  |                   |
+| 日本全国                                                              | [AT-X](../Page/AT-X.md "wikilink")                            | 2016年2月19日－5月6日    | 星期五 22时50分－23时00分 |
+| [niconico频道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink") | 2015年10月13日－12月22日                                            | 星期二 12时00分 更新      |                   |
+| [GYAO\!](https://zh.wikipedia.org/wiki/GYAO! "wikilink")          | 2015年10月13日－12月29日                                            |                    |                   |
+| [万代频道](../Page/萬代頻道.md "wikilink")                                |                                                               |                    |                   |
 
 ## 參考資料
 

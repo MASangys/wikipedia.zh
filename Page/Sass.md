@@ -1,29 +1,29 @@
 **Sass**（英文全称：**S**yntactically **A**wesome
 **S**tyle**s**heets）是一个最初由[Hampton
-Catlin设计并由](../Page/Hampton_Catlin.md "wikilink")[Natalie
-Weizenbaum开发的层叠样式表语言](../Page/Natalie_Weizenbaum.md "wikilink")。\[1\]\[2\]在开发最初版本之后，Weizenbaum和[Chris
-Eppstein继续通过SassScript来继续扩充Sass的功能](../Page/Chris_Eppstein.md "wikilink")。SassScript是一个在Sass文件中使用的小型脚本语言。
+Catlin设计并由](https://zh.wikipedia.org/wiki/Hampton_Catlin "wikilink")[Natalie
+Weizenbaum开发的层叠样式表语言](https://zh.wikipedia.org/wiki/Natalie_Weizenbaum "wikilink")。\[1\]\[2\]在开发最初版本之后，Weizenbaum和[Chris
+Eppstein继续通过SassScript来继续扩充Sass的功能](https://zh.wikipedia.org/wiki/Chris_Eppstein "wikilink")。SassScript是一个在Sass文件中使用的小型脚本语言。
 
-Sass是一个将脚本解析成[CSS的](../Page/CSS.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，即SassScript。Sass包括两套[语法](../Page/语法#电脑语法.md "wikilink")。最开始的语法叫做“缩进语法”，与[Haml类似](../Page/Haml.md "wikilink")\[3\]，使用[缩进来区分代码块](../Page/缩进.md "wikilink")，并且用-{zh-cn:回车;zh-tw:換行;}-将不同规则分隔开。而较新的语法叫做“SCSS”，使用和CSS一样的块语法，即使用大括号将不同的规则分开，使用分号将具体的样式分开。通常情况下，这两套语法通过.sass和.scss两个[文件扩展名区分开](../Page/文件扩展名.md "wikilink")。
+Sass是一个将脚本解析成[CSS的](https://zh.wikipedia.org/wiki/CSS "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，即SassScript。Sass包括两套[语法](https://zh.wikipedia.org/wiki/语法#电脑语法 "wikilink")。最开始的语法叫做“缩进语法”，与[Haml类似](https://zh.wikipedia.org/wiki/Haml "wikilink")\[3\]，使用[缩进来区分代码块](https://zh.wikipedia.org/wiki/缩进 "wikilink")，并且用-{zh-cn:回车;zh-tw:換行;}-将不同规则分隔开。而较新的语法叫做“SCSS”，使用和CSS一样的块语法，即使用大括号将不同的规则分开，使用分号将具体的样式分开。通常情况下，这两套语法通过.sass和.scss两个[文件扩展名区分开](../Page/文件扩展名.md "wikilink")。
 
-[CSS3包括一系列选择器和伪类选择器](../Page/CSS#CSS_3.md "wikilink")，Sass设计了一些语法，对选择器功能进行了扩展。虽然扩展功能不是CSS的语法，但是Sass解释器会把SassScript解释成合乎CSS语法的CSS文件。此外，Sass解释器也可以对.sass或.scss文件的修改进行监视，以及时更新css文件。\[4\]可以认为Sass在CSS基础上加入了许多[语法糖](../Page/语法糖.md "wikilink")。
+[CSS3包括一系列选择器和伪类选择器](https://zh.wikipedia.org/wiki/CSS#CSS_3 "wikilink")，Sass设计了一些语法，对选择器功能进行了扩展。虽然扩展功能不是CSS的语法，但是Sass解释器会把SassScript解释成合乎CSS语法的CSS文件。此外，Sass解释器也可以对.sass或.scss文件的修改进行监视，以及时更新css文件。\[4\]可以认为Sass在CSS基础上加入了许多[语法糖](../Page/语法糖.md "wikilink")。
 
-Sass的官方解释器是[开源的并且用](../Page/开源.md "wikilink")[Ruby语言写成](../Page/Ruby.md "wikilink")，但是也有用[PHP](../Page/PHP.md "wikilink")、[C语言](../Page/C语言.md "wikilink")、[Java等实现的版本](../Page/Java.md "wikilink")（C语言版本叫做llibSass，Java语言版本叫做JSass）。\[5\]\[6\]\[7\]
+Sass的官方解释器是[开源的并且用](https://zh.wikipedia.org/wiki/开源 "wikilink")[Ruby语言写成](../Page/Ruby.md "wikilink")，但是也有用[PHP](../Page/PHP.md "wikilink")、[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[Java等实现的版本](../Page/Java.md "wikilink")（C语言版本叫做llibSass，Java语言版本叫做JSass）。\[5\]\[6\]\[7\]
 
-Sass中缩进是语法的一部分。SCSS是[巢状元语言](../Page/元语言#巢状元语言.md "wikilink")，一段合法的CSS代码也是一段合法的SCSS代码。Sass支持与[Firefox](../Page/Firefox.md "wikilink")[插件](../Page/add-on_\(Mozilla\).md "wikilink")[Firebug集成](../Page/Firebug.md "wikilink")。\[8\]
+Sass中缩进是语法的一部分。SCSS是[巢状元语言](https://zh.wikipedia.org/wiki/元语言#巢状元语言 "wikilink")，一段合法的CSS代码也是一段合法的SCSS代码。Sass支持与[Firefox](../Page/Firefox.md "wikilink")[插件](https://zh.wikipedia.org/wiki/add-on_\(Mozilla\) "wikilink")[Firebug集成](../Page/Firebug.md "wikilink")。\[8\]
 
-SassScript提供以下功能：[变量](../Page/变量_\(程序设计\).md "wikilink")、嵌套、混入（Mixin）、选择器[继承](../Page/继承_\(计算机科学\).md "wikilink")。\[9\]
+SassScript提供以下功能：[变量](../Page/变量_\(程序设计\).md "wikilink")、嵌套、混入（Mixin）、选择器[继承](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")。\[9\]
 
 ## 变量
 
-Sass支持定义变量。变量以[美元符号](../Page/美元符号.md "wikilink")（`$`）作为开头。变量用冒号（`:`）[赋值](../Page/赋值.md "wikilink")。\[10\]
+Sass支持定义变量。变量以[美元符号](https://zh.wikipedia.org/wiki/美元符号 "wikilink")（`$`）作为开头。变量用冒号（`:`）[赋值](https://zh.wikipedia.org/wiki/赋值 "wikilink")。\[10\]
 
 SassScript支持四种数据类型：\[11\]
 
   - 数值（可包括单位）
   - [字符串](../Page/字符串.md "wikilink")
   - 颜色
-  - [布尔类型](../Page/布爾_\(數據類型\).md "wikilink")
+  - [布尔类型](https://zh.wikipedia.org/wiki/布爾_\(數據類型\) "wikilink")
 
 变量可以用作函数的参数或返回值。\[12\]在解释过程中，解释器会把变量的值写入最终的CSS文件中。\[13\]
 
@@ -247,7 +247,7 @@ Mixin支持参数。\[17\]
 
 ## 继承
 
-CSS3支持[DOM层次](../Page/DOM.md "wikilink")，但是不支持样式的继承。Sass语言通过@extend关键词实现了继承功能。\[18\]
+CSS3支持[DOM层次](https://zh.wikipedia.org/wiki/DOM "wikilink")，但是不支持样式的继承。Sass语言通过@extend关键词实现了继承功能。\[18\]
 
 ``` sass
 .error {
@@ -290,7 +290,7 @@ Sass支持[多重继承](../Page/多重继承.md "wikilink").\[19\]
 
 在2012年HTML5开发者大会上，Sass的创建者Hampton Catlin宣布libSass
 1.0版。libSass是一个由Catlin、Araon
-Leung和[Moovweb开发团队开发的开放源代码的C](../Page/Moovweb.md "wikilink")++实现。\[20\]\[21\]
+Leung和[Moovweb开发团队开发的开放源代码的C](https://zh.wikipedia.org/wiki/Moovweb "wikilink")++实现。\[20\]\[21\]
 Current Sass maintainer, Chris Eppstein, has expressed intent to
 contribute as well.\[22\]
 
@@ -309,16 +309,17 @@ libSass的设计目标是：
 | [Microsoft WebMatrix](../Page/Microsoft_WebMatrix.md "wikilink")           |             | <https://www.microsoft.com/web/webmatrix/>                                           |
 | [Eclipse](../Page/Eclipse.md "wikilink")                                   |             |                                                                                      |
 | [JetBrains IntelliJ IDEA (Ultimate版)](../Page/IntelliJ_IDEA.md "wikilink") |             | <https://www.jetbrains.com/idea/>                                                    |
-| [JetBrains RubyMine](../Page/RubyMine.md "wikilink")                       |             | <http://www.jetbrains.com/ruby/>                                                     |
-| [JetBrains PhpStorm](../Page/PhpStorm.md "wikilink")                       |             | <http://www.jetbrains.com/phpstorm/>                                                 |
+| [JetBrains RubyMine](https://zh.wikipedia.org/wiki/RubyMine "wikilink")    |             | <http://www.jetbrains.com/ruby/>                                                     |
+| [JetBrains PhpStorm](https://zh.wikipedia.org/wiki/PhpStorm "wikilink")    |             | <http://www.jetbrains.com/phpstorm/>                                                 |
 | [NetBeans](../Page/NetBeans.md "wikilink")                                 |             | <http://plugins.netbeans.org/plugin/34929/scss-support>                              |
 | [Emacs](../Page/Emacs.md "wikilink")                                       | SCSS Mode   | <https://github.com/antonj/scss-mode/>                                               |
 | [Vim](../Page/Vim.md "wikilink")                                           | haml.zip    | <http://www.vim.org/scripts/script.php?script_id=1433>                               |
 
 ## 参见
 
-  - [LESS (层叠样式表)](../Page/LESS_\(层叠样式表\).md "wikilink")
-  - [Stylus](../Page/Stylus.md "wikilink")
+  - [LESS
+    (层叠样式表)](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")
+  - [Stylus](https://zh.wikipedia.org/wiki/Stylus "wikilink")
 
 ## 参考
 

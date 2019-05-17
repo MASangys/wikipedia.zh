@@ -4,16 +4,16 @@ Netcom完成网络，现该公司合并入并交由新公司管理。\[2\]
 ## EAC
 
 [EAC-route.png](https://zh.wikipedia.org/wiki/File:EAC-route.png "fig:EAC-route.png")
-**EAC**（东亚海底光缆系统，），全长19500千米，使用[密集波分复用技术](../Page/波分复用.md "wikilink")，现阶段每秒160G[bit的流量](../Page/位元.md "wikilink")，计划最高能提供每秒2.5Tbit的流量。\[3\]
+**EAC**（东亚海底光缆系统，），全长19500千米，使用[密集波分复用技术](https://zh.wikipedia.org/wiki/波分复用 "wikilink")，现阶段每秒160G[bit的流量](../Page/位元.md "wikilink")，计划最高能提供每秒2.5Tbit的流量。\[3\]
 
 登陆点位于以下地方：
 
   - [新加坡](../Page/新加坡.md "wikilink")[樟宜](../Page/樟宜.md "wikilink")（1）
-  - [香港](../Page/香港.md "wikilink")[将军澳](../Page/将军澳.md "wikilink")（2）
-  - [中国](../Page/中华人民共和国.md "wikilink")[青岛](../Page/青岛.md "wikilink")（后期加建）（3）
-  - [台灣](../Page/中華民國.md "wikilink")[八里区](../Page/八里區.md "wikilink")（4）
-  - [菲律宾Capepisa](../Page/菲律宾.md "wikilink")（5）
-  - [南韩](../Page/南韩.md "wikilink")[泰安郡](../Page/泰安郡.md "wikilink")（6）
+  - [香港](../Page/香港.md "wikilink")[将军澳](https://zh.wikipedia.org/wiki/将军澳 "wikilink")（2）
+  - [中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[青岛](https://zh.wikipedia.org/wiki/青岛 "wikilink")（后期加建）（3）
+  - [台灣](../Page/中華民國.md "wikilink")[八里区](https://zh.wikipedia.org/wiki/八里區 "wikilink")（4）
+  - [菲律宾Capepisa](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")（5）
+  - [南韩](https://zh.wikipedia.org/wiki/南韩 "wikilink")[泰安郡](../Page/泰安郡.md "wikilink")（6）
   - [日本](../Page/日本.md "wikilink")
       - [志摩市](../Page/志摩市.md "wikilink")（7）
       - [常陸那珂市阿字浦](../Page/常陸那珂市.md "wikilink")（8）
@@ -25,27 +25,27 @@ Netcom完成网络，现该公司合并入并交由新公司管理。\[2\]
 C2C-route.png|完整C2C网络线路及登陆点地图 C2C-North-route.png|C2C北环地图
 C2C-South-route.png|C2C南环地图
 
-**C2C**（城市到城市间海底光缆，），同样使用[密集波分复用技术](../Page/波分复用.md "wikilink")，设计最高能提供每秒7.68Tbit的流量。\[4\]主要由东亚沿海南北环两部分构成。
+**C2C**（城市到城市间海底光缆，），同样使用[密集波分复用技术](https://zh.wikipedia.org/wiki/波分复用 "wikilink")，设计最高能提供每秒7.68Tbit的流量。\[4\]主要由东亚沿海南北环两部分构成。
 
 东亚北环与南环共同登陆点有：
 
-  - [香港](../Page/香港.md "wikilink")[南区](../Page/南區_\(香港\).md "wikilink")[舂坎角](../Page/舂坎角.md "wikilink")（南、北，1）
-  - [菲律宾](../Page/菲律宾.md "wikilink")[八打雁省](../Page/八打雁省.md "wikilink")（南、北，2）
+  - [香港](../Page/香港.md "wikilink")[南区](../Page/南區_\(香港\).md "wikilink")[舂坎角](https://zh.wikipedia.org/wiki/舂坎角 "wikilink")（南、北，1）
+  - [菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[八打雁省](../Page/八打雁省.md "wikilink")（南、北，2）
 
 东亚北环登陆点有：
 
   - [台湾](../Page/中華民國.md "wikilink")
-      - [屏东县](../Page/屏东县.md "wikilink")[枋山鄉](../Page/枋山鄉.md "wikilink")（北，3）
-      - [新北市](../Page/新北市.md "wikilink")[淡水区](../Page/淡水區.md "wikilink")（北，4）
-  - [中国](../Page/中华人民共和国.md "wikilink")[上海市](../Page/上海市.md "wikilink")[南汇区](../Page/南汇区.md "wikilink")（北，5）
-  - [南韩](../Page/南韩.md "wikilink")[釜山广域市](../Page/釜山广域市.md "wikilink")（北，6）
+      - [屏东县](https://zh.wikipedia.org/wiki/屏东县 "wikilink")[枋山鄉](https://zh.wikipedia.org/wiki/枋山鄉 "wikilink")（北，3）
+      - [新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水区](../Page/淡水區.md "wikilink")（北，4）
+  - [中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[上海市](https://zh.wikipedia.org/wiki/上海市 "wikilink")[南汇区](../Page/南汇区.md "wikilink")（北，5）
+  - [南韩](https://zh.wikipedia.org/wiki/南韩 "wikilink")[釜山广域市](https://zh.wikipedia.org/wiki/釜山广域市 "wikilink")（北，6）
   - 日本
       - [三重县](../Page/三重县.md "wikilink")[志摩市](../Page/志摩市.md "wikilink")（北，7）
-      - [千叶县](../Page/千叶县.md "wikilink")[南房總市](../Page/南房總市.md "wikilink")（北，8）
+      - [千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[南房總市](../Page/南房總市.md "wikilink")（北，8）
 
 东亚南环登陆点有：
 
-  - [越南](../Page/越南.md "wikilink")（南，3）
+  - [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")（南，3）
   - [新加坡](../Page/新加坡.md "wikilink")[樟宜](../Page/樟宜.md "wikilink")（南，4）
 
 ## 两网合并后

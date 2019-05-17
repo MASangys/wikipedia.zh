@@ -5,14 +5,16 @@ A7**是由[三星電子製造的一款](../Page/三星電子.md "wikilink")[Andr
 
   - 後置攝像頭：1300萬像素
   - 前置攝像頭：500萬像素
-  - 內存：2 [GB](../Page/GB.md "wikilink") [RAM](../Page/RAM.md "wikilink")
+  - 內存：2 [GB](https://zh.wikipedia.org/wiki/GB "wikilink")
+    [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")
   - 存儲：16 GB
   - 電池：2600 mAh
   - 尺寸：5.5 寸
   - 操作系統：Android 4.4 KitKat (已可升級Andorid 6.0.1)
   - 重量：141克
-  - [Super AMOLED](../Page/Super_AMOLED.md "wikilink")
-    電容式[觸摸屏](../Page/觸摸屏.md "wikilink")
+  - [Super
+    AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")
+    電容式[觸摸屏](https://zh.wikipedia.org/wiki/觸摸屏 "wikilink")
   - 螢幕解析度：1920\*1080 pixels
 
 ## 參考資料

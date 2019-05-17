@@ -1,5 +1,5 @@
 **Mobile
-Nations**是一家[美國的](../Page/美國.md "wikilink")[網路媒體公司](../Page/網路媒體公司.md "wikilink")，旗下網站有：**[Windows
+Nations**是一家[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[網路媒體公司](https://zh.wikipedia.org/wiki/網路媒體公司 "wikilink")，旗下網站有：**[Windows
 Central](../Page/Windows_Central.md "wikilink")**\[1\]、**Android
 Central**\[2\]、**iMore**\[3\]、**CrackBerry**\[4\]、**Connectedly**\[5\]。
 
@@ -17,10 +17,11 @@ Nations的網站各培養超過600萬註冊會員。\[6\]\[7\]
 ## 參見
 
   - [Windows Central](../Page/Windows_Central.md "wikilink")
-  - [Android Central](../Page/Android_Central.md "wikilink")
-  - [iMore](../Page/iMore.md "wikilink")
-  - [CrackBerry](../Page/CrackBerry.md "wikilink")
-  - [Connectedly](../Page/Connectedly.md "wikilink")
+  - [Android
+    Central](https://zh.wikipedia.org/wiki/Android_Central "wikilink")
+  - [iMore](https://zh.wikipedia.org/wiki/iMore "wikilink")
+  - [CrackBerry](https://zh.wikipedia.org/wiki/CrackBerry "wikilink")
+  - [Connectedly](https://zh.wikipedia.org/wiki/Connectedly "wikilink")
 
 ## 參考資料
 

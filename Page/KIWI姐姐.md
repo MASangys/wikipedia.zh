@@ -1,4 +1,4 @@
-**KIWI姐姐**（，本名**莫允樂**），[苗栗縣出身](../Page/苗栗縣.md "wikilink")，2010年畢業於[台中青年高中舞蹈科](../Page/台中青年高中.md "wikilink")，2014年畢業於[國立台灣體育大學體育舞蹈系](../Page/國立台灣體育大學.md "wikilink")，2012年6月入選[東森幼幼台水果生力軍](../Page/東森幼幼台.md "wikilink")，於2013年正式出道。现為[YOYO家族水果生力軍成员之一](../Page/YOYO家族.md "wikilink")，並擔任東森幼幼台的節目主持人。2018年11月底開設個人YouTube頻道《Hi\!kiwiwi》。
+**KIWI姐姐**（，本名**莫允樂**），[苗栗縣出身](../Page/苗栗縣.md "wikilink")，2010年畢業於[台中青年高中舞蹈科](https://zh.wikipedia.org/wiki/台中青年高中 "wikilink")，2014年畢業於[國立台灣體育大學體育舞蹈系](https://zh.wikipedia.org/wiki/國立台灣體育大學 "wikilink")，2012年6月入選[東森幼幼台水果生力軍](../Page/東森幼幼台.md "wikilink")，於2013年正式出道。现為[YOYO家族水果生力軍成员之一](https://zh.wikipedia.org/wiki/YOYO家族 "wikilink")，並擔任東森幼幼台的節目主持人。2018年11月底開設個人YouTube頻道《Hi\!kiwiwi》。
 
 ## 主持
 
@@ -23,7 +23,7 @@
 
   - 2014 國立台灣體育大學體育舞蹈系第十五屆畢業公演-淬鍊
   - 2014 【如果兒童劇團】X【YOYO家族】《Go
-    Go拯救聖誕歷險記》(舞台劇)([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[香蕉哥哥](../Page/香蕉哥哥.md "wikilink")、[雲朵姐姐](../Page/雲朵姐姐.md "wikilink")、**KIWI姐姐**)\[1\]
+    Go拯救聖誕歷險記》(舞台劇)([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[香蕉哥哥](../Page/香蕉哥哥.md "wikilink")、[雲朵姐姐](https://zh.wikipedia.org/wiki/雲朵姐姐 "wikilink")、**KIWI姐姐**)\[1\]
 
 ## 廣告、活動代言及主持
 
@@ -31,7 +31,7 @@
   - 2015 東森幼幼台偶像學園節目代言(2015～至今)\[2\]\[3\]
   - 2016 「YOYO百分百」快閃活動\[4\]\[5\]
   - 2016
-    Lamigo桃猿隊全猿主場進行兒童節開場秀並擔任開球來賓([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[彩虹姐姐](../Page/彩虹姐姐.md "wikilink")、[草莓姐姐及](../Page/草莓姐姐.md "wikilink")**KIWI姐姐**)\[6\]
+    Lamigo桃猿隊全猿主場進行兒童節開場秀並擔任開球來賓([橘子姐姐](../Page/橘子姐姐.md "wikilink")、[彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")、[草莓姐姐及](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")**KIWI姐姐**)\[6\]
     \[7\]
 
 ## 獎項
@@ -58,8 +58,8 @@
 <tbody>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/第50屆金鐘獎.md" title="wikilink">第50屆金鐘獎</a></p></td>
-<td><p><a href="../Page/兒童少年節目獎.md" title="wikilink">兒童少年節目獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第50屆金鐘獎" title="wikilink">第50屆金鐘獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兒童少年節目獎" title="wikilink">兒童少年節目獎</a></p></td>
 <td><p>《<a href="../Page/YoYo點點名.md" title="wikilink">YoYo點點名</a>》</p></td>
 <td><p>主持人</p></td>
 <td></td>

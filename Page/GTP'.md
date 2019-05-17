@@ -1,9 +1,9 @@
 **GTP**'（GTP
-prime）是一个用于[GSM和](../Page/GSM.md "wikilink")[UMTS通信网络的基于](../Page/UMTS.md "wikilink")[IP网络的协议](../Page/IP.md "wikilink")。它可以使用[UDP或](../Page/UDP.md "wikilink")[TCP的传输](../Page/TCP.md "wikilink")。尽管GTP'协议的消息结构与[GTP相同](../Page/GPRS隧道协议.md "wikilink")（包括控制面的GTP-C和用户面的GTP-U），它仍是一个独立协议。GTP'协议使用UDP/TCP端口3386。
+prime）是一个用于[GSM和](../Page/GSM.md "wikilink")[UMTS通信网络的基于](https://zh.wikipedia.org/wiki/UMTS "wikilink")[IP网络的协议](https://zh.wikipedia.org/wiki/IP "wikilink")。它可以使用[UDP或](https://zh.wikipedia.org/wiki/UDP "wikilink")[TCP的传输](https://zh.wikipedia.org/wiki/TCP "wikilink")。尽管GTP'协议的消息结构与[GTP相同](../Page/GPRS隧道协议.md "wikilink")（包括控制面的GTP-C和用户面的GTP-U），它仍是一个独立协议。GTP'协议使用UDP/TCP端口3386。
 
 GTP'的功能是在GSM和UMTS网络中将计费数据从计费数据功能（）传输到计费网关功能（）。计费数据功能是对计费功能的抽象，以具体网元为例，通常是GGSN或SGSN等。而计费网关功能通常是一台中心服务器，收集各网元的计费数据，再统一传输给网络运营商的计费中心（）最终生成账单。
 
-在3GPP定义的[GPRS核心网的](../Page/GPRS核心网.md "wikilink")[Ga接口上使用的是GTP](../Page/GPRS核心网#.E5.9C.A8GPRS.E7.BD.91.E7.BB.9C.E4.B8.AD.E7.9A.84.E6.8E.A5.E5.8F.A3.md "wikilink")'协议。
+在3GPP定义的[GPRS核心网的](../Page/GPRS核心网.md "wikilink")[Ga接口上使用的是GTP](https://zh.wikipedia.org/wiki/GPRS核心网#.E5.9C.A8GPRS.E7.BD.91.E7.BB.9C.E4.B8.AD.E7.9A.84.E6.8E.A5.E5.8F.A3 "wikilink")'协议。
 
 GTP'重用了GTP协议的诸多方面，然而在3GPP TS
 32.295中却描述为“仅仅部分重用了GTP协议的控制面”\[1\]。GTP'定义了与GTP不同的消息头结构、独有的消息类型、信元，以及一整套防止计费数据丢失或重复计算的机制。GTP'协议所传输的（）以[ASN.1协议编码](../Page/ASN.1.md "wikilink")\[2\]。

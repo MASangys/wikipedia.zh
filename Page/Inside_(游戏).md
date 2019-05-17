@@ -1,7 +1,7 @@
-《**Inside**》是一款由獨立遊戲工作室[Playdead所開發及發行的](../Page/Playdead.md "wikilink")[平台](../Page/平台遊戲.md "wikilink")[解謎及](../Page/益智遊戲.md "wikilink")[冒險遊戲](../Page/冒險遊戲.md "wikilink")。遊戲無論在主題及視覺上均類似同一公司的另一款作品《[地獄邊境](../Page/地獄邊境.md "wikilink")》，玩家需扮演一名小男孩，在黑白色的遊戲環境中解決不同的難題，並同時避免在3D滾動時死亡。
+《**Inside**》是一款由獨立遊戲工作室[Playdead所開發及發行的](../Page/Playdead.md "wikilink")[平台](https://zh.wikipedia.org/wiki/平台遊戲 "wikilink")[解謎及](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。遊戲無論在主題及視覺上均類似同一公司的另一款作品《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》，玩家需扮演一名小男孩，在黑白色的遊戲環境中解決不同的難題，並同時避免在3D滾動時死亡。
 
 《Inside》分別於2016年6月29日、7月7日和8月23日在Xbox One及Windows还有PlayStation
-4上發行，iOS平台在2017年12月15日发行以及[任天堂Switch在](../Page/任天堂Switch.md "wikilink")2018年6月28日发行。\[1\]游戏在推出後幾乎獲得一致好評，有部份評論家甚至稱本作為《[地獄邊境](../Page/地獄邊境.md "wikilink")》的優秀的[精神續作](../Page/精神續作.md "wikilink")\[2\]\[3\]\[4\]\[5\]。
+4上發行，iOS平台在2017年12月15日发行以及[任天堂Switch在](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")2018年6月28日发行。\[1\]游戏在推出後幾乎獲得一致好評，有部份評論家甚至稱本作為《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》的優秀的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")\[2\]\[3\]\[4\]\[5\]。
 
 ## 玩法
 
@@ -9,22 +9,22 @@
 
 ## 開發
 
-遊戲工作室[Playdead於](../Page/Playdead.md "wikilink")2010年7月發行了黑白色的獨立遊戲《[地獄邊境](../Page/地獄邊境.md "wikilink")》，獲得大量好評及超過一百萬的銷售量\[10\]\[11\]。在發行後的數個月，Playdead開展了第二個遊戲開發項目，並暫稱為「項目2（Project
+遊戲工作室[Playdead於](../Page/Playdead.md "wikilink")2010年7月發行了黑白色的獨立遊戲《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》，獲得大量好評及超過一百萬的銷售量\[10\]\[11\]。在發行後的數個月，Playdead開展了第二個遊戲開發項目，並暫稱為「項目2（Project
 2）」\[12\]
 \[13\]\[14\]。作為《地獄邊境》的精神續作\[15\]，雖然本作與《地獄邊境》十分相似，但本作更為「瘋狂」、「怪異」及3D\[16\]。此外，丹麥電影協會亦提供部分資金作遊戲開發用途\[17\]。
 
-雖然Playdead已經為《地獄邊境》建立了一個自定義的遊戲引擎，但最後他們選擇使用[Unity為本作的遊戲引擎](../Page/Unity_\(遊戲引擎\).md "wikilink")，以減輕工作量\[18\]\[19\]。遊戲開發團隊為Unity遊戲引擎建立了，以為本作創建具標誌性的外觀\[20\]。在2016年3月，Playdead在常見開源協議下發布了過濾器\[21\]。
+雖然Playdead已經為《地獄邊境》建立了一個自定義的遊戲引擎，但最後他們選擇使用[Unity為本作的遊戲引擎](https://zh.wikipedia.org/wiki/Unity_\(遊戲引擎\) "wikilink")，以減輕工作量\[18\]\[19\]。遊戲開發團隊為Unity遊戲引擎建立了，以為本作創建具標誌性的外觀\[20\]。在2016年3月，Playdead在常見開源協議下發布了過濾器\[21\]。
 
 與《地獄邊境》同樣，本作的音效由馬丁·斯蒂格·安德森負責。安德森受20世紀80年代的B級恐怖電影所影響，經常使用合成音樂，但他卻不想於本作使用合成音樂。相反，安德森利用真正的人頭骨來創造骨傳導的聲音，並在頭骨上接駁音頻轉換器和接觸式麥克風，以聲音合成來還原這些聲音，最終創造遊戲的音樂\[22\]。本作的遊戲玩法及音樂都具有更緊密的整合，在部份謎題上音樂更能配合遊戲畫面。這需要安德森在相比進行《地獄邊境》的音樂創作時，與本作的開發團隊有更密切的合作，這亦使有更多的視覺元素能與音樂聯繫起來。安德森指出，小男孩呼吸時的胸部動作及聲音效果皆是源於自己呼吸時的動作及聲音，而當小男孩到達遊戲內的不同位置時，小男孩所表現出的平靜或恐慌情緒亦會影響呼吸時的胸部動作及聲音效果\[23\]。安德森亦在遊戲的整體結構及節奏上提供建議予遊戲設計團隊，希望自己的音樂能有助於建立遊戲內的緊張情緒\[24\]。
 
-微軟在2014年6月的[電子娛樂展新聞發布會上公布了本作](../Page/E3.md "wikilink")\[25\]。在公布前，本作已被計劃在[PlayStation
+微軟在2014年6月的[電子娛樂展新聞發布會上公布了本作](https://zh.wikipedia.org/wiki/E3 "wikilink")\[25\]。在公布前，本作已被計劃在[PlayStation
 3及](../Page/PlayStation_3.md "wikilink")[OS
-X等非微軟平台上發行](../Page/OS_X.md "wikilink")\[26\]。為了減短公布活動及發行之間的時間，Playdead曾特意等了四年\[27\]。[IGN的瑞安](../Page/IGN.md "wikilink")·麥卡弗里表示此次公布是微軟對獨立遊戲開發的承諾的一個標誌\[28\]，並且是他本人在這一年內的最大驚喜\[29\]。開發團隊其後將本作的發行日推遲，並希望進一步完善遊戲，但沒有提及預期的發行日期\[30\]\[31\]。在發行日推遲後，原本Playdead計劃在Xbox
+X等非微軟平台上發行](https://zh.wikipedia.org/wiki/OS_X "wikilink")\[26\]。為了減短公布活動及發行之間的時間，Playdead曾特意等了四年\[27\]。[IGN的瑞安](../Page/IGN.md "wikilink")·麥卡弗里表示此次公布是微軟對獨立遊戲開發的承諾的一個標誌\[28\]，並且是他本人在這一年內的最大驚喜\[29\]。開發團隊其後將本作的發行日推遲，並希望進一步完善遊戲，但沒有提及預期的發行日期\[30\]\[31\]。在發行日推遲後，原本Playdead計劃在Xbox
 One及Windows平台上進行初始發行\[32\]，但之後表示在未來有興趣於其他平台上發行\[33\]。
 
 Playdead在2016年的電子娛樂展上公布本作的發行日期，並推出限時促銷，讓玩家們在本作發行前免費下載《地獄邊境》。本作最終於2016年6月29日及7月7日在Xbox
 One及Windows版的[Steam平台上發行](../Page/Steam.md "wikilink")\[34\]。之后游戏于同年8月23日在PlayStation
-4上发售。在2017年东京游戏展期间，Playdead在接受采访时表示游戏未来会登陆到[任天堂Switch以及](../Page/任天堂Switch.md "wikilink")[iOS上](../Page/iOS.md "wikilink")。\[35\]
+4上发售。在2017年东京游戏展期间，Playdead在接受采访时表示游戏未来会登陆到[任天堂Switch以及](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")[iOS上](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[35\]
 
 ## 评价
 
@@ -109,7 +109,7 @@ Rignall）在預覽本作後指出本作是在他玩過的眾多解謎遊戲之�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>年度<a href="../Page/Xbox.md" title="wikilink">Xbox游戏</a></p></td>
+<td><p>年度<a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox游戏</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165,7 +165,7 @@ Rignall）在預覽本作後指出本作是在他玩過的眾多解謎遊戲之�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Giant_Bomb.md" title="wikilink">Giant Bomb</a>2016年度游戏奖</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Giant_Bomb" title="wikilink">Giant Bomb</a>2016年度游戏奖</p></td>
 <td><p>最佳视觉效果游戏</p></td>
 <td></td>
 <td><p>[54]</p></td>
@@ -179,7 +179,7 @@ Rignall）在預覽本作後指出本作是在他玩過的眾多解謎遊戲之�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2016年<a href="../Page/互动艺术与科学学会.md" title="wikilink">互动艺术与科学学会奖</a></p></td>
+<td><p>2016年<a href="https://zh.wikipedia.org/wiki/互动艺术与科学学会" title="wikilink">互动艺术与科学学会奖</a></p></td>
 <td><p>年度游戏</p></td>
 <td></td>
 <td><p>[55]</p></td>
@@ -432,17 +432,17 @@ Rignall）在預覽本作後指出本作是在他玩過的眾多解謎遊戲之�
 
   - [遊戲官方網站](http://www.playdead.com/games/inside/)
 
-[分類:2016年電子遊戲](../Page/分類:2016年電子遊戲.md "wikilink")
-[分類:藝術遊戲](../Page/分類:藝術遊戲.md "wikilink")
-[分類:獨立遊戲](../Page/分類:獨立遊戲.md "wikilink")
-[分類:平台遊戲](../Page/分類:平台遊戲.md "wikilink")
-[分類:益智遊戲](../Page/分類:益智遊戲.md "wikilink")
-[分類:橫向捲軸遊戲](../Page/分類:橫向捲軸遊戲.md "wikilink") [分類:Xbox
-One遊戲](../Page/分類:Xbox_One遊戲.md "wikilink")
-[分類:Windows遊戲](../Page/分類:Windows遊戲.md "wikilink")
-[分類:僅有單人模式的電子遊戲](../Page/分類:僅有單人模式的電子遊戲.md "wikilink")
-[分類:Unity引擎遊戲](../Page/分類:Unity引擎遊戲.md "wikilink")
-[分類:丹麥開發電子遊戲](../Page/分類:丹麥開發電子遊戲.md "wikilink")
+[分類:2016年電子遊戲](https://zh.wikipedia.org/wiki/分類:2016年電子遊戲 "wikilink")
+[分類:藝術遊戲](https://zh.wikipedia.org/wiki/分類:藝術遊戲 "wikilink")
+[分類:獨立遊戲](https://zh.wikipedia.org/wiki/分類:獨立遊戲 "wikilink")
+[分類:平台遊戲](https://zh.wikipedia.org/wiki/分類:平台遊戲 "wikilink")
+[分類:益智遊戲](https://zh.wikipedia.org/wiki/分類:益智遊戲 "wikilink")
+[分類:橫向捲軸遊戲](https://zh.wikipedia.org/wiki/分類:橫向捲軸遊戲 "wikilink") [分類:Xbox
+One遊戲](https://zh.wikipedia.org/wiki/分類:Xbox_One遊戲 "wikilink")
+[分類:Windows遊戲](https://zh.wikipedia.org/wiki/分類:Windows遊戲 "wikilink")
+[分類:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/分類:僅有單人模式的電子遊戲 "wikilink")
+[分類:Unity引擎遊戲](https://zh.wikipedia.org/wiki/分類:Unity引擎遊戲 "wikilink")
+[分類:丹麥開發電子遊戲](https://zh.wikipedia.org/wiki/分類:丹麥開發電子遊戲 "wikilink")
 
 [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
 [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")

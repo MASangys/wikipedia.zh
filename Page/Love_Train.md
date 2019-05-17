@@ -1,11 +1,12 @@
 《**LOVE
-TRAIN**》是[韓國男子組合](../Page/韓國.md "wikilink")[GOT7的第二張日語單曲](../Page/GOT7.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2015年6月10日於日本正式發行，唱片公司為[日本索尼音樂旗下的](../Page/日本索尼音樂.md "wikilink")[EPIC
-Records Japan](../Page/EPIC_Records_Japan.md "wikilink")。主打歌為《LOVE
+TRAIN**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7的第二張日語單曲](../Page/GOT7.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2015年6月10日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC
+Records
+Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。主打歌為《LOVE
 TRAIN》。此單曲也是[珍榮將藝名修改後唯一一張仍以舊藝名](../Page/朴珍榮.md "wikilink")「Jr.」標記的作品。
 
 ## 背景
 
-2015年4月28日，GOT7日本官方[Youtube頻道釋出](../Page/Youtube.md "wikilink")《LOVE
+2015年4月28日，GOT7日本官方[Youtube頻道釋出](https://zh.wikipedia.org/wiki/Youtube "wikilink")《LOVE
 TRAIN》首波18秒預告影片，預告GOT7即將回歸。\[1\] 5月1日，日本索尼音樂官網公布該單曲的封面、收錄曲目與預購資訊。\[2\]
 5月5日，主打歌《LOVE
 TRAIN》的原音鈴聲在日本[RecoChoku率先公開](../Page/RecoChoku.md "wikilink")，隨即登上當日鈴聲榜首位。
@@ -17,9 +18,9 @@ TRAIN》全曲音源，並於M-On TV播出完整版MV，6月10日發行實體單
 ## 概要
 
 主打歌曲《LOVE
-TRAIN》比出道曲更加活力充沛，以「奔向愛情」為主題，描寫戀愛的心情有如疾速奔馳的列車般無法停止。曲風結合[嘻哈](../Page/嘻哈.md "wikilink")、[搖滾音樂元素](../Page/搖滾.md "wikilink")，搭配上琅琅上口的旋律，是一首帶有GOT7貫有的明亮風格，充滿夏日氣息的快節奏歌曲。\[3\]
+TRAIN》比出道曲更加活力充沛，以「奔向愛情」為主題，描寫戀愛的心情有如疾速奔馳的列車般無法停止。曲風結合[嘻哈](../Page/嘻哈.md "wikilink")、[搖滾音樂元素](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，搭配上琅琅上口的旋律，是一首帶有GOT7貫有的明亮風格，充滿夏日氣息的快節奏歌曲。\[3\]
 MV以車站和列車車廂為背景，並將終點站的站名取作「I GOT7」，是想傳達GOT7全心奔向心愛的粉絲們（I
-GOT7）之意\[4\]。而成員[珍榮與](../Page/朴珍榮.md "wikilink")[有謙也特別參與了此曲的舞蹈編排](../Page/金有謙.md "wikilink")\[5\]，舞蹈重點為代表LOVE的「L手勢」和表達疾走感的「奔跑舞」。
+GOT7）之意\[4\]。而成員[珍榮與](../Page/朴珍榮.md "wikilink")[有謙也特別參與了此曲的舞蹈編排](https://zh.wikipedia.org/wiki/金有謙 "wikilink")\[5\]，舞蹈重點為代表LOVE的「L手勢」和表達疾走感的「奔跑舞」。
 
 ### 同名粉絲見面會
 
@@ -47,10 +48,10 @@ TRAIN》，6月6日、7日於舞濱圓形劇場舉辦三場，以及6月10日大
 
 ## 發行歷史
 
-| 地區                             | 日期         | 格式                                                                         | 廠牌                                                             | 備註            |
-| ------------------------------ | ---------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------- |
-| [日本](../Page/日本.md "wikilink") | 2015年6月10日 | [CD](../Page/CD.md "wikilink")、CD+DVD、[數位下載](../Page/數位音樂下載.md "wikilink") | [EPIC Records Japan](../Page/EPIC_Records_Japan.md "wikilink") |               |
-| [台灣](../Page/台灣.md "wikilink") | 2015年6月12日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink")        | [台灣索尼音樂](../Page/台灣索尼音樂.md "wikilink")                         | 台壓只有發行通常盤，無小卡 |
+| 地區                                                | 日期         | 格式                                                                         | 廠牌                                                                                | 備註            |
+| ------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------- |
+| [日本](../Page/日本.md "wikilink")                    | 2015年6月10日 | [CD](../Page/CD.md "wikilink")、CD+DVD、[數位下載](../Page/數位音樂下載.md "wikilink") | [EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink") |               |
+| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") | 2015年6月12日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink")        | [台灣索尼音樂](https://zh.wikipedia.org/wiki/台灣索尼音樂 "wikilink")                         | 台壓只有發行通常盤，無小卡 |
 
 ## 參考資料
 

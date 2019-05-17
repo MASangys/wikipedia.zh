@@ -1,5 +1,5 @@
-**Rhino**是一個完全以[Java編寫的](../Page/Java.md "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，目前由[Mozilla基金會所管理](../Page/Mozilla基金會.md "wikilink")。Rhino計畫開始於1997年，當時，[Netscape計劃開發Java版本的](../Page/Netscape.md "wikilink")[Netscape
-Navigator](../Page/Netscape_Navigator.md "wikilink")，雖然該計劃最終被放棄，但是Rhino引擎被遺留了下來。1998年4月，Mozilla基金會宣佈開放原始碼\[1\]。引擎的命名源自於[歐萊禮所出版的](../Page/歐萊禮.md "wikilink")《JavaScript:
+**Rhino**是一個完全以[Java編寫的](../Page/Java.md "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，目前由[Mozilla基金會所管理](../Page/Mozilla基金會.md "wikilink")。Rhino計畫開始於1997年，當時，[Netscape計劃開發Java版本的](https://zh.wikipedia.org/wiki/Netscape "wikilink")[Netscape
+Navigator](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")，雖然該計劃最終被放棄，但是Rhino引擎被遺留了下來。1998年4月，Mozilla基金會宣佈開放原始碼\[1\]。引擎的命名源自於[歐萊禮所出版的](../Page/歐萊禮.md "wikilink")《JavaScript:
 The Definitive Guide》一書的封面動物\[2\]。
 
 Rhino作为[JDK脚本引擎对JavaScript支持部分包含到甲骨文JDK](../Page/JDK.md "wikilink")

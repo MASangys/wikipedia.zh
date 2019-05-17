@@ -1,4 +1,4 @@
-**Galla**（），[日本](../Page/日本.md "wikilink")[搖滾](../Page/搖滾.md "wikilink")[樂團](../Page/樂團.md "wikilink")。所屬唱片公司為[Avex](../Page/愛貝克思集團.md "wikilink")。知名的音樂作品是「奇蹟的薔薇」、「有你存在」，兩首都是賽車電視動畫『[頭文字D](../Page/頭文字D.md "wikilink")』的片尾曲。
+**Galla**（），[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。所屬唱片公司為[Avex](../Page/愛貝克思集團.md "wikilink")。知名的音樂作品是「奇蹟的薔薇」、「有你存在」，兩首都是賽車電視動畫『[頭文字D](../Page/頭文字D.md "wikilink")』的片尾曲。
 
 ## 成員
 
@@ -6,7 +6,7 @@
     **[主唱](../Page/歌手.md "wikilink")**
       -
         **麻田響也（）**
-        出身於[兵庫縣](../Page/兵庫縣.md "wikilink")[神戶市](../Page/神戶市.md "wikilink")[長田區](../Page/長田區.md "wikilink")。後改名「」，目前從事廣播節目DJ和[音樂劇演員的工作](../Page/音樂劇.md "wikilink")。並唱過「[幪面超人劍](../Page/幪面超人劍.md "wikilink")」的形象歌曲「Never
+        出身於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[長田區](../Page/長田區.md "wikilink")。後改名「」，目前從事廣播節目DJ和[音樂劇演員的工作](../Page/音樂劇.md "wikilink")。並唱過「[幪面超人劍](https://zh.wikipedia.org/wiki/幪面超人劍 "wikilink")」的形象歌曲「Never
         too
         late」和「[押忍！戰鬥！應援團](../Page/押忍！戰鬥！應援團.md "wikilink")」的翻唱歌曲、「」的主題歌曲「空色軌跡」。
 
@@ -16,13 +16,13 @@
     **[吉他](../Page/吉他.md "wikilink")**
       -
         **田中雄二（）**
-        出身於[東京都](../Page/東京都.md "wikilink")[江東區](../Page/江東區.md "wikilink")\[1\]。目前以個人樂團「KOHAK」自由參與「OUT
+        出身於[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")\[1\]。目前以個人樂團「KOHAK」自由參與「OUT
         OF MIND」等樂團的音樂活動。
 
 <!-- end list -->
 
   -
-    **[貝斯](../Page/貝斯.md "wikilink")**
+    **[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")**
       -
         **篠田達也（）**
         出身於[東京都](../Page/東京都.md "wikilink")[清瀨市](../Page/清瀨市.md "wikilink")。後與大橋組成「MUFF」，但在2011年解散。目前以支援樂手身分參加音樂活動，樂團「」的成員。
@@ -33,7 +33,7 @@
     **[鼓手](../Page/爵士鼓.md "wikilink")**
       -
         **大橋孝明（）**
-        出身於[愛知縣](../Page/愛知縣.md "wikilink")[彌富市](../Page/彌富市.md "wikilink")\[2\]。後與篠田組成「MUFF」。2005年引退，目前在名古屋當地從事樂器販售和一般音樂教室進行音樂教學指導。
+        出身於[愛知縣](../Page/愛知縣.md "wikilink")[彌富市](https://zh.wikipedia.org/wiki/彌富市 "wikilink")\[2\]。後與篠田組成「MUFF」。2005年引退，目前在名古屋當地從事樂器販售和一般音樂教室進行音樂教學指導。
 
 ## 概要
 

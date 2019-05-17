@@ -1,14 +1,14 @@
 《**ALL FOR
-YOU**》是[日本](../Page/日本.md "wikilink")[音樂團體](../Page/音樂團體.md "wikilink")[GENERATIONS的第](../Page/GENERATIONS_from_EXILE_TRIBE.md "wikilink")10张[单曲](../Page/单曲.md "wikilink")，於2015年9月16日由[rhythm
-zone发售](../Page/rhythm_zone.md "wikilink")。
+YOU**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")10张[单曲](../Page/单曲.md "wikilink")，於2015年9月16日由[rhythm
+zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - A面曲《ALL FOR
-    YOU》為[E-girls成員](../Page/E-girls.md "wikilink")[石井杏奈主演的電影](../Page/石井杏奈.md "wikilink")《Girls
+    YOU》為[E-girls成員](https://zh.wikipedia.org/wiki/E-girls "wikilink")[石井杏奈主演的電影](../Page/石井杏奈.md "wikilink")《Girls
     Step》的主題曲。
   - B面曲《I Believe In Miracles》為GENERATIONS第3首翻唱歌曲，原唱者為[The Jackson
-    Sisters](../Page/The_Jackson_Sisters.md "wikilink")
+    Sisters](https://zh.wikipedia.org/wiki/The_Jackson_Sisters "wikilink")
   - 與前作相同，此單曲收錄了上一張單曲的英語版本。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《ALL FOR YOU》的Music Video。
   - 在9月28日於公信榜单曲週排行榜取得第1位，成為GENERATIONS出道以來第1張公信榜每周銷量排名第一的單曲。

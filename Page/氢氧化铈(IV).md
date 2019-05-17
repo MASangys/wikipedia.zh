@@ -2,7 +2,7 @@
 
 ## 制备
 
-氢氧化铈(IV)可由[碳酸铈](../Page/碳酸铈.md "wikilink")(III)和醋酸反应后被[过氧化氢](../Page/过氧化氢.md "wikilink")[氧化制备](../Page/氧化.md "wikilink")，其反应过程为\[1\]：
+氢氧化铈(IV)可由[碳酸铈](../Page/碳酸铈.md "wikilink")(III)和醋酸反应后被[过氧化氢](../Page/过氧化氢.md "wikilink")[氧化制备](https://zh.wikipedia.org/wiki/氧化 "wikilink")，其反应过程为\[1\]：
 
   -
     Ce<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub> + 6 CH<sub>3</sub>COOH →

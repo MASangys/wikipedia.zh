@@ -1,4 +1,4 @@
-下表比较了[HTML5](../Page/HTML5.md "wikilink")[画布元素对绘图](../Page/Canvas_\(HTML元素\).md "wikilink")[API的支持及网页浏览器的原生支持程度](../Page/API.md "wikilink")，无任何[插件](../Page/插件.md "wikilink")、附加组件或[ECMAScript工作区](../Page/ECMAScript.md "wikilink")。
+下表比较了[HTML5](../Page/HTML5.md "wikilink")[画布元素对绘图](../Page/Canvas_\(HTML元素\).md "wikilink")[API的支持及网页浏览器的原生支持程度](https://zh.wikipedia.org/wiki/API "wikilink")，无任何[插件](../Page/插件.md "wikilink")、附加组件或[ECMAScript工作区](../Page/ECMAScript.md "wikilink")。
 
 ## 画布功能
 
@@ -7,7 +7,7 @@
 <tr class="header">
 <th><p>|</p></th>
 <th><p><a href="../Page/Trident_(排版引擎).md" title="wikilink">Trident</a></p></th>
-<th><p><a href="../Page/Gecko_(layout_engine).md" title="wikilink">Gecko</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Gecko_(layout_engine)" title="wikilink">Gecko</a></p></th>
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
 </tr>
@@ -37,7 +37,7 @@
 <tr class="header">
 <th><p>|</p></th>
 <th><p><a href="../Page/Trident_(排版引擎).md" title="wikilink">Trident</a></p></th>
-<th><p><a href="../Page/Gecko_(layout_engine).md" title="wikilink">Gecko</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Gecko_(layout_engine)" title="wikilink">Gecko</a></p></th>
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
 </tr>
@@ -67,7 +67,7 @@
 <tr class="header">
 <th><p>|</p></th>
 <th><p><a href="../Page/Trident_(排版引擎).md" title="wikilink">Trident</a>[8]</p></th>
-<th><p><a href="../Page/Gecko_(layout_engine).md" title="wikilink">Gecko</a>[9]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Gecko_(layout_engine)" title="wikilink">Gecko</a>[9]</p></th>
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a>[10]</p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a>[11][12]</p></th>
 </tr>
@@ -500,11 +500,11 @@
 
 ## 参考文献
 
-### [Trident参考](../Page/Trident.md "wikilink")
+### [Trident参考](https://zh.wikipedia.org/wiki/Trident "wikilink")
 
 ### [Gecko参考](../Page/Gecko.md "wikilink")
 
-### [Webkit参考](../Page/Webkit.md "wikilink")
+### [Webkit参考](https://zh.wikipedia.org/wiki/Webkit "wikilink")
 
 ### [Presto参考](../Page/Presto.md "wikilink")
 

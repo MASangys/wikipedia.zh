@@ -1,24 +1,26 @@
-**SoftEther VPN**是一個由[筑波大學研究生Daiyuu](../Page/筑波大學.md "wikilink")
+**SoftEther
+VPN**是一個由[筑波大學研究生Daiyuu](https://zh.wikipedia.org/wiki/筑波大學 "wikilink")
 Nobori（[登大遊](../Page/登大遊.md "wikilink")）因碩士論文而開發的開源、跨平台、多重協定的[虛擬私人網路方案](../Page/虛擬私人網路.md "wikilink")，此方案讓一些[虛擬私人網路協定像是SSL](../Page/虛擬私人網路.md "wikilink")
 VPN
-、[L2TP](../Page/L2TP.md "wikilink")、[IPsec](../Page/IPsec.md "wikilink")、[OpenVPN以及微軟](../Page/OpenVPN.md "wikilink")[SSTP都由同一個單一](../Page/SSTP.md "wikilink")[VPN伺服器提供](../Page/VPN.md "wikilink")。在2014年1月4日以[GNU通用公共授權條款的方式转变为](../Page/GNU通用公共授權條款.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")。
+、[L2TP](https://zh.wikipedia.org/wiki/L2TP "wikilink")、[IPsec](../Page/IPsec.md "wikilink")、[OpenVPN以及微軟](../Page/OpenVPN.md "wikilink")[SSTP都由同一個單一](https://zh.wikipedia.org/wiki/SSTP "wikilink")[VPN伺服器提供](https://zh.wikipedia.org/wiki/VPN "wikilink")。在2014年1月4日以[GNU通用公共授權條款的方式转变为](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")[开源软件](../Page/开源软件.md "wikilink")。
 
 SoftEther
 VPN是專門被設計為穿過防火牆的，支援[NAT穿透](../Page/NAT穿透.md "wikilink")，使其能越過政府或組織的防火牆，建立VPN通道。2013年3月，官方开始提供VPN
-Gate公共VPN中继服务器列表插件，以简化高强度[网络审查地区有](../Page/网络审查.md "wikilink")[突破网络封锁](../Page/突破网络封锁.md "wikilink")（翻墙）需求的用户的操作复杂程度。因為用了HTTPS來偽裝連接，防火牆的[深度封包檢測無法偵測到SoftEther的VPN傳送封包構成的VPN通道](../Page/深度封包檢測.md "wikilink")。但SoftEther的[SSL
-VPN協定在中國大陸的部分地區仍然被封鎖](../Page/SSL_VPN.md "wikilink")。
+Gate公共VPN中继服务器列表插件，以简化高强度[网络审查地区有](https://zh.wikipedia.org/wiki/网络审查 "wikilink")[突破网络封锁](https://zh.wikipedia.org/wiki/突破网络封锁 "wikilink")（翻墙）需求的用户的操作复杂程度。因為用了HTTPS來偽裝連接，防火牆的[深度封包檢測無法偵測到SoftEther的VPN傳送封包構成的VPN通道](https://zh.wikipedia.org/wiki/深度封包檢測 "wikilink")。但SoftEther的[SSL
+VPN協定在中國大陸的部分地區仍然被封鎖](https://zh.wikipedia.org/wiki/SSL_VPN "wikilink")。
 
 性能優化也是SoftEther
 VPN的一個目標。它使用像是利用全部乙太網幀的策略，減少了記憶體複製的操作、平行傳輸和群集，這減少了通常VPN連接會有的延遲並增加了運輸吞吐量。
 
 ## 互用性
 
-VPN伺服器和VPN橋接器支援[微軟](../Page/微軟.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
+VPN伺服器和VPN橋接器支援[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")(除了10.9.x)、[FreeBSD還有](../Page/FreeBSD.md "wikilink")[Solaris這些作業系統](../Page/Solaris.md "wikilink")。SoftEther
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")(除了10.9.x)、[FreeBSD還有](../Page/FreeBSD.md "wikilink")[Solaris這些作業系統](../Page/Solaris.md "wikilink")。SoftEther
 VPN支援自己的VPN協定但可以和[OpenVPN](../Page/OpenVPN.md "wikilink")、微軟Secure
-Socket Tunneling Protocol([SSTP](../Page/SSTP.md "wikilink"))、SSL
-VPN、EtherIP、[L2TPv3](../Page/L2TPv3.md "wikilink")、[IPsec相容](../Page/IPsec.md "wikilink")。藉由[L2TP](../Page/L2TP.md "wikilink")/[IPsec](../Page/IPsec.md "wikilink")/[OpenVPN](../Page/OpenVPN.md "wikilink")，可以支援行動裝置系統如[iOS](../Page/iOS.md "wikilink")、[安卓](../Page/安卓.md "wikilink")、微軟[Windows手機](../Page/Windows.md "wikilink")。SoftEther自身的VPN客戶端支援[微軟](../Page/微軟.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac](../Page/Mac.md "wikilink")。支援其他VPN協定的VPN客戶端和終端也可能會被使用；這包括了來自諸如[思科](../Page/思科.md "wikilink")、Juniper、Linksys(有[DD-WRT](../Page/DD-WRT.md "wikilink"))、Asus等等公司生產的各式各樣的路由器。
+Socket Tunneling
+Protocol([SSTP](https://zh.wikipedia.org/wiki/SSTP "wikilink"))、SSL
+VPN、EtherIP、[L2TPv3](https://zh.wikipedia.org/wiki/L2TPv3 "wikilink")、[IPsec相容](../Page/IPsec.md "wikilink")。藉由[L2TP](https://zh.wikipedia.org/wiki/L2TP "wikilink")/[IPsec](../Page/IPsec.md "wikilink")/[OpenVPN](../Page/OpenVPN.md "wikilink")，可以支援行動裝置系統如[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")、微軟[Windows手機](https://zh.wikipedia.org/wiki/Windows "wikilink")。SoftEther自身的VPN客戶端支援[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")。支援其他VPN協定的VPN客戶端和終端也可能會被使用；這包括了來自諸如[思科](https://zh.wikipedia.org/wiki/思科 "wikilink")、Juniper、Linksys(有[DD-WRT](../Page/DD-WRT.md "wikilink"))、Asus等等公司生產的各式各樣的路由器。
 
 ## 软件组成
 
@@ -27,7 +29,7 @@ VPN、EtherIP、[L2TPv3](../Page/L2TPv3.md "wikilink")、[IPsec相容](../Page/I
 SoftEther VPN伺服器和其他VPN伺服器一樣，功能是接聽來自客戶端或橋接器使用各式協定的連接。
 
 一個VPN伺服器可以有好幾個虛擬的集線器和交換器。虛擬集線器和實體的交換器一樣，有完整的第二層網路封包交換功能。此外，虛擬集線器能被配置來定義IP封包過濾項目，過濾經過集線器的封包。虛擬的[Network
-layer層交換器則像實體的路由器一樣](../Page/Network_layer.md "wikilink")，有第三層IP靜態路由功能。
+layer層交換器則像實體的路由器一樣](https://zh.wikipedia.org/wiki/Network_layer "wikilink")，有第三層IP靜態路由功能。
 
 一個VPN伺服器可以有自帶的橋接器。這個橋接器是一個在實體網路轉接器和虛擬集線器之間的封包交換結構。系統管理員定義連接虛擬集線器和現有的企業網路之間的橋接器，去建立一個遠端存取的或站對站的VPN伺服器。
 

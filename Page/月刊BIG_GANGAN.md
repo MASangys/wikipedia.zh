@@ -1,5 +1,5 @@
 **《月刊BIG
-GANGAN》**（），[日本](../Page/日本.md "wikilink")[史克威爾艾尼克斯發行的](../Page/史克威爾艾尼克斯.md "wikilink")[月刊](../Page/月刊.md "wikilink")[青年漫畫雜誌](../Page/青年漫畫.md "wikilink")，每月25日發售。2007年6月29日以《[YOUNG
+GANGAN》**（），[日本](../Page/日本.md "wikilink")[史克威爾艾尼克斯發行的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，每月25日發售。2007年6月29日以《[YOUNG
 GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》的增刊《増刊ヤングガンガン》不定期發行，後於2011年4月25日改名為《増刊ヤングガンガンビッグ》隔月發行。於2011年10月25日正式創刊，定名為《月刊ビッグガンガン》。
 
 ## 連載作品
@@ -26,7 +26,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》的增刊《増刊ヤングガン�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/魔域英雄傳說.md" title="wikilink">魔域英雄傳說</a></p></td>
-<td><p><a href="../Page/塩野干支郎次.md" title="wikilink">塩野干支郎次</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塩野干支郎次" title="wikilink">塩野干支郎次</a></p></td>
 <td></td>
 <td><p>2012年1月號</p></td>
 </tr>
@@ -38,14 +38,14 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》的增刊《増刊ヤングガン�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BAMBOO_BLADE.md" title="wikilink">BAMBOO BLADE C</a></p></td>
-<td><p><a href="../Page/高尾じんぐ.md" title="wikilink">高尾じんぐ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高尾じんぐ" title="wikilink">高尾じんぐ</a></p></td>
 <td></td>
 <td><p>2013年6月號</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/不起眼女主角培育法.md" title="wikilink"><strong>不起眼女主角培育法 戀愛節拍器</strong></a></p></td>
 <td><p>武者サブ</p></td>
-<td><p><a href="../Page/丸戶史明.md" title="wikilink">丸戶史明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丸戶史明" title="wikilink">丸戶史明</a></p></td>
 <td><p>2013年9月號</p></td>
 </tr>
 <tr class="even">
@@ -55,15 +55,15 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》的增刊《増刊ヤングガン�
 <td><p>2013年11月號</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Re：從零開始的異世界生活.md" title="wikilink">Re：從零開始的異世界生活第二章 宅邸一周篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Re：從零開始的異世界生活" title="wikilink">Re：從零開始的異世界生活第二章 宅邸一周篇</a></p></td>
 <td><p>楓月誠</p></td>
-<td><p><a href="../Page/長月達平.md" title="wikilink">長月達平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長月達平" title="wikilink">長月達平</a></p></td>
 <td><p>2014年12月號</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/願君勿死.md" title="wikilink">願君勿死</a></p></td>
 <td><p><a href="../Page/森山大輔.md" title="wikilink">森山大輔</a></p></td>
-<td><p><a href="../Page/横尾太郎.md" title="wikilink">横尾太郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/横尾太郎" title="wikilink">横尾太郎</a></p></td>
 <td><p>2015年1月號</p></td>
 </tr>
 <tr class="odd">
@@ -73,7 +73,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》的增刊《増刊ヤングガン�
 <td><p>2016年1月號（從YOUNG GANGAN移籍過來）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/祝姬.md" title="wikilink">祝姬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/祝姬" title="wikilink">祝姬</a></p></td>
 <td><p>タナカトモ</p></td>
 <td><p><a href="../Page/DMM.com.md" title="wikilink">DMM.com</a></p></td>
 <td><p>2015年10月号</p></td>
@@ -95,7 +95,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》的增刊《増刊ヤングガン�
 <tr class="odd">
 <td><p><a href="../Page/我女友與青梅竹馬的慘烈修羅場.md" title="wikilink">我女友與青梅竹馬的慘烈修羅場+H</a></p></td>
 <td><p>稻瀨信也</p></td>
-<td><p><a href="../Page/裕時悠示.md" title="wikilink">裕時悠示</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裕時悠示" title="wikilink">裕時悠示</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

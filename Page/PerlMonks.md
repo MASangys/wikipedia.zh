@@ -4,7 +4,7 @@ PerlMonks这个名字和整个网站的风气，都幽默地反映出[程序员�
 ## 特色
 
 通常，访问量最大的节点是[Seekers of Perl
-Wisdom](http://perlmonks.org/?node=Seekers%20of%20Perl%20Wisdom)（寻求Perl智慧的人），在这里有各种经验层次的用户提出与Perl编程相关的问题。有些是[菜鸟试图理解Perl编程基础知识的问题](../Page/菜鸟.md "wikilink")，有些是有经验的Perl程序员寻求提升[算法效率方法的问题](../Page/算法分析.md "wikilink")。在网站的[Obfuscation](http://perlmonks.org/?node=Obfuscated%20Code)（混淆）节点有很多“修道士”发表的[混淆代码](../Page/代码混淆.md "wikilink")，其中也有大量的[JAPH作品](../Page/JAPH.md "wikilink")。在[Poetry](http://perlmonks.org/?node=Perl%20Poetry)（诗歌）节点有“修道士”发表的[Perl诗歌](../Page/Perl#Perl诗经.md "wikilink")。
+Wisdom](http://perlmonks.org/?node=Seekers%20of%20Perl%20Wisdom)（寻求Perl智慧的人），在这里有各种经验层次的用户提出与Perl编程相关的问题。有些是[菜鸟试图理解Perl编程基础知识的问题](https://zh.wikipedia.org/wiki/菜鸟 "wikilink")，有些是有经验的Perl程序员寻求提升[算法效率方法的问题](../Page/算法分析.md "wikilink")。在网站的[Obfuscation](http://perlmonks.org/?node=Obfuscated%20Code)（混淆）节点有很多“修道士”发表的[混淆代码](../Page/代码混淆.md "wikilink")，其中也有大量的[JAPH作品](../Page/JAPH.md "wikilink")。在[Poetry](http://perlmonks.org/?node=Perl%20Poetry)（诗歌）节点有“修道士”发表的[Perl诗歌](https://zh.wikipedia.org/wiki/Perl#Perl诗经 "wikilink")。
 
 ## PerlMonks的软件
 

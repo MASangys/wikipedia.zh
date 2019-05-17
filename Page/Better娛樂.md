@@ -1,18 +1,18 @@
 **Better
-Entertainment**（）是[韓國的](../Page/韓國.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。原名為Storm
+Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。原名為Storm
 S
 Company在2013年更改，成立在2009年5月，由藝人[宋承憲創立的](../Page/宋承憲.md "wikilink")，包括藝人管理，當紅藝人包括演員[宋承憲等多名演員](../Page/宋承憲.md "wikilink")。
 
 ## 旗下藝人
 
   - [宋承憲](../Page/宋承憲.md "wikilink")
-  - [李哲民](../Page/李哲民_\(演員\).md "wikilink")
+  - [李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink")
   - [崔星俊](../Page/崔星俊.md "wikilink")
-  - [玄升玟](../Page/玄升玟.md "wikilink")
-  - [鄭允](../Page/鄭允.md "wikilink")
-  - [金財興](../Page/金財興.md "wikilink")
-  - [車英男](../Page/車英男.md "wikilink")
-  - [李溵祚](../Page/李溵祚.md "wikilink")
+  - [玄升玟](https://zh.wikipedia.org/wiki/玄升玟 "wikilink")
+  - [鄭允](https://zh.wikipedia.org/wiki/鄭允 "wikilink")
+  - [金財興](https://zh.wikipedia.org/wiki/金財興 "wikilink")
+  - [車英男](https://zh.wikipedia.org/wiki/車英男 "wikilink")
+  - [李溵祚](https://zh.wikipedia.org/wiki/李溵祚 "wikilink")
 
 ## 離開藝人
 

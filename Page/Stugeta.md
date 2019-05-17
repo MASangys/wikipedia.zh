@@ -1,12 +1,13 @@
 **''Stugeta**''（**Marbled
-Sapphire**）是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[瑤灰蝶族裡的一個](../Page/瑤灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。共有6個物種，分佈於非洲的乾旱地區\[1\]。幼蟲以[桑寄生科和](../Page/桑寄生科.md "wikilink")[木犀科植物作](../Page/木犀科.md "wikilink")[寄主](../Page/寄主.md "wikilink")。
+Sapphire**）是[灰蝶科](../Page/灰蝶科.md "wikilink")[線灰蝶亞科](../Page/線灰蝶亞科.md "wikilink")[瑤灰蝶族裡的一個](../Page/瑤灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有6個物種，分佈於非洲的乾旱地區\[1\]。幼蟲以[桑寄生科和](../Page/桑寄生科.md "wikilink")[木犀科植物作](https://zh.wikipedia.org/wiki/木犀科 "wikilink")[寄主](https://zh.wikipedia.org/wiki/寄主 "wikilink")。
 
 ## 物種
 
-  - [三色瑤灰蝶](../Page/三色瑤灰蝶.md "wikilink") *Stugeta bowkeri*
+  - [三色瑤灰蝶](https://zh.wikipedia.org/wiki/三色瑤灰蝶 "wikilink") *Stugeta
+    bowkeri*
   - *Stugeta carpenteri*
-  - [淡藍瑤灰蝶](../Page/淡藍瑤灰蝶.md "wikilink") *Stugeta marmoreus* = *I.
-    marmorea*
+  - [淡藍瑤灰蝶](https://zh.wikipedia.org/wiki/淡藍瑤灰蝶 "wikilink") *Stugeta
+    marmoreus* = *I. marmorea*
   - *Stugeta mimetica*
   - *Stugeta occidentalis*
   - *Stugeta somalina*

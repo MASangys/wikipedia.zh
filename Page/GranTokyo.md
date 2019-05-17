@@ -1,4 +1,4 @@
-**GranTokyo**（）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[丸之內一丁目](../Page/丸之內.md "wikilink")[東京站](../Page/東京站.md "wikilink")[八重洲口的](../Page/八重洲.md "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，分為43層的**GranTokyo北塔**（）與42層的**GranTokyo南塔**（）。
+**GranTokyo**（）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[丸之內一丁目](../Page/丸之內.md "wikilink")[東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink")[八重洲口的](../Page/八重洲.md "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，分為43層的**GranTokyo北塔**（）與42層的**GranTokyo南塔**（）。
 
 ## 概要
 
@@ -6,7 +6,7 @@
 
 建於舊址的北塔，地下1樓至地上13樓是[大丸東京新店](../Page/大丸.md "wikilink")。地上17樓至42樓為、[法國巴黎銀行集團等入駐的辦公樓層](../Page/法國巴黎銀行.md "wikilink")。
 
-南塔地下1樓至地上2樓為商店，地下1樓有與[八重洲地下街直通的商店街](../Page/八重洲地下街.md "wikilink")「GranAge」（グランアージュ）。地上5層至41層為、[BMW
+南塔地下1樓至地上2樓為商店，地下1樓有與[八重洲地下街直通的商店街](https://zh.wikipedia.org/wiki/八重洲地下街 "wikilink")「GranAge」（グランアージュ）。地上5層至41層為、[BMW
 JAPAN等入駐的辦公樓層](../Page/BMW.md "wikilink")。
 
 大廈竣工後，大樓（舊大丸東京店）拆除，開始進行II期工程－北塔低樓層（[大丸](../Page/大丸.md "wikilink")）擴建與雙塔四樓聯通道「GranRoof」（グランルーフ）建設工程。
@@ -23,7 +23,7 @@ JAPAN等入駐的辦公樓層](../Page/BMW.md "wikilink")。
   - 建築面積：12,795.01平方公尺（北棟中央部）
   - 樓板面積：212,157.78平方公尺（北棟中央部）
   - 用途：辦公室、店鋪、車站設施
-  - 建築主：[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")、[三井不動產](../Page/三井不動產.md "wikilink")、
+  - 建築主：[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")、[三井不動產](https://zh.wikipedia.org/wiki/三井不動產 "wikilink")、
   - 設計：東京站八重洲開發計畫設計共同企業體
       - 基本設計：
       - 基本、實施設計：JR東日本建築設計事務所
@@ -41,7 +41,7 @@ JAPAN等入駐的辦公樓層](../Page/BMW.md "wikilink")。
   - 建築面積：3,717.09平方公尺
   - 樓板面積：140,168.07平方公尺
   - 用途：辦公室、店鋪、車站設施
-  - 建築主：東日本旅客鐵道、鹿島八重洲開發、（現[JX日礦日石能源](../Page/JX日礦日石能源.md "wikilink")）\[1\]
+  - 建築主：東日本旅客鐵道、鹿島八重洲開發、（現[JX日礦日石能源](https://zh.wikipedia.org/wiki/JX日礦日石能源 "wikilink")）\[1\]
   - 設計：東京站八重洲開發計畫設計共同企業體
       - 基本設計：日建設計
       - 基本・実施設計：JR東日本建築設計事務所

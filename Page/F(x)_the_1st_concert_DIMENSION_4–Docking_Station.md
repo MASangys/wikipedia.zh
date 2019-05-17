@@ -1,17 +1,17 @@
 **f(x) the 1st concert DIMENSION 4–Docking
-Station**是韓國女子組合[f(x)第一次单独巡迴演唱會](../Page/f\(x\)_\(組合\).md "wikilink")。
+Station**是韓國女子組合[f(x)第一次单独巡迴演唱會](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")。
 
 ## 概述
 
-[SM娛樂在](../Page/SM娛樂.md "wikilink")2015年10月宣布舉辦這次演唱會。門票銷售從12月10日開始，當中首爾場門票更已全部售罄，f(x)為報答粉絲們的支持，決定將在29日加開一場。演唱會演出了[f(x)的出道單曲](../Page/f\(x\)_\(組合\).md "wikilink")（《[LA
+[SM娛樂在](../Page/SM娛樂.md "wikilink")2015年10月宣布舉辦這次演唱會。門票銷售從12月10日開始，當中首爾場門票更已全部售罄，f(x)為報答粉絲們的支持，決定將在29日加開一場。演唱會演出了[f(x)的出道單曲](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")（《[LA
 chA
-TA](../Page/LA_chA_TA.md "wikilink")》、《[Chu\~♡](../Page/Chu_\(歌曲\).md "wikilink")》）、兩張迷你專輯（《[Nu
+TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》、《[Chu\~♡](https://zh.wikipedia.org/wiki/Chu_\(歌曲\) "wikilink")》）、兩張迷你專輯（《[Nu
 ABO](../Page/Nu_ABO.md "wikilink")》、《[Electric
-Shock](../Page/Electric_Shock.md "wikilink")》）及五張正規專輯（《[Pinocchio](../Page/Pinocchio_\(f\(x\)_专辑\).md "wikilink")》、《[Hot
+Shock](../Page/Electric_Shock.md "wikilink")》）及五張正規專輯（《[Pinocchio](https://zh.wikipedia.org/wiki/Pinocchio_\(f\(x\)_专辑\) "wikilink")》、《[Hot
 Summer](../Page/Hot_Summer_\(Repackage\).md "wikilink")》、《[Pink
 Tape](../Page/Pink_Tape.md "wikilink")》、《[Red
 Light](../Page/Red_Light.md "wikilink")》、《[4
-Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴演唱會在六個城市舉行，以[首爾為首站拉開序幕](../Page/首爾.md "wikilink")，然後是[日本](../Page/日本.md "wikilink")，緊接著是[泰國](../Page/泰國.md "wikilink")。
+Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴演唱會在六個城市舉行，以[首爾為首站拉開序幕](https://zh.wikipedia.org/wiki/首爾 "wikilink")，然後是[日本](../Page/日本.md "wikilink")，緊接著是[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")。
 
 ## 巡演事件
 
@@ -57,7 +57,7 @@ Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴�
 </tr>
 <tr class="even">
 <td><p>2016年1月29日（加場）</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>首爾奧林匹克公園奧林匹克大廳</p></td>
 <td><p>約9,000名</p></td>
@@ -78,7 +78,7 @@ Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴�
 </tr>
 <tr class="odd">
 <td><p>2016年2月20日</p></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td></td>
 <td><p>有明競技場</p></td>
 <td><p>約20,000名</p></td>
@@ -92,14 +92,14 @@ Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴�
 </tr>
 <tr class="odd">
 <td><p>2016年2月23日</p></td>
-<td><p><a href="../Page/福岡.md" title="wikilink">福岡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡" title="wikilink">福岡</a></p></td>
 <td><p>福岡太陽宮</p></td>
 <td><p>約2,300名</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年2月25日</p></td>
-<td><p><a href="../Page/大阪.md" title="wikilink">大阪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
 <td><p>ORIX劇場</p></td>
 <td><p>約6,000名</p></td>
 <td></td>
@@ -113,7 +113,7 @@ Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴�
 </tr>
 <tr class="even">
 <td><p>2016年2月28日</p></td>
-<td><p><a href="../Page/名古屋.md" title="wikilink">名古屋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名古屋" title="wikilink">名古屋</a></p></td>
 <td><p>日本特殊陶業市民會館</p></td>
 <td><p>約6,900名</p></td>
 <td></td>
@@ -152,7 +152,7 @@ Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴�
 
 <!-- end list -->
 
-  - [f(x)](../Page/f\(x\)_\(組合\).md "wikilink")（[Victoria](../Page/宋茜.md "wikilink")、[Amber](../Page/劉逸雲.md "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")（[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
 
 <!-- end list -->
 
@@ -160,7 +160,8 @@ Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴�
 
 <!-- end list -->
 
-  - [SM Entertainment](../Page/SM_Entertainment.md "wikilink")
+  - [SM
+    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 

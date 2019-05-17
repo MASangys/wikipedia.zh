@@ -1,4 +1,4 @@
-是[日本開發的奇幻主題的問答類](../Page/日本.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，對應[Android和](../Page/Android.md "wikilink")[iOS平台](../Page/iOS.md "wikilink")。繁體中文版由[so-net於](../Page/so-net.md "wikilink")2015年開始營運。
+是[日本開發的奇幻主題的問答類](../Page/日本.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，對應[Android和](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。繁體中文版由[so-net於](https://zh.wikipedia.org/wiki/so-net "wikilink")2015年開始營運。
 
 ## 系統設定
 
@@ -19,7 +19,7 @@
 ### 中國大陸
 
 遊戲由Accessport和北京摩游在中國大陸中文化並代理，因中國大陸不普及[Google
-Play](../Page/Google_Play.md "wikilink")，遊戲投放到[360手機助手等第三方軟體市場發行](../Page/360手機助手.md "wikilink")，中國大陸已於2015年6月11日停運。
+Play](../Page/Google_Play.md "wikilink")，遊戲投放到[360手機助手等第三方軟體市場發行](https://zh.wikipedia.org/wiki/360手機助手 "wikilink")，中國大陸已於2015年6月11日停運。
 
 ### 台港澳
 
@@ -41,13 +41,14 @@ Play](../Page/Google_Play.md "wikilink")，遊戲投放到[360手機助手等第
 
   - <span id="維茲"></span>
 
-    玩家的導師。雖然年紀輕輕，卻已經是被稱為「四聖賢」之一的魔法使。與主角在港町托爾里卡執行任務時，遭遇魔[龍的襲擊](../Page/龍.md "wikilink")，之後雖保住性命，被因不明原因被變成一隻黑貓。故事就從主角為了找到幫助維茲變回人類的方法而踏上旅程開始。
+    玩家的導師。雖然年紀輕輕，卻已經是被稱為「四聖賢」之一的魔法使。與主角在港町托爾里卡執行任務時，遭遇魔[龍的襲擊](https://zh.wikipedia.org/wiki/龍 "wikilink")，之後雖保住性命，被因不明原因被變成一隻黑貓。故事就從主角為了找到幫助維茲變回人類的方法而踏上旅程開始。
 
 ### 公會會長
 
   - <span id="巴隆‧萊歐納爾"></span>
 
-    港町 托爾里卡的公會會長，種族為亞人，外表是一頭公[獅](../Page/獅.md "wikilink")。是主角第一個遇見的公會會長。
+    港町
+    托爾里卡的公會會長，種族為亞人，外表是一頭公[獅](https://zh.wikipedia.org/wiki/獅 "wikilink")。是主角第一個遇見的公會會長。
 
 <!-- end list -->
 

@@ -1,5 +1,5 @@
 **亨利·路易斯·「H·L」·孟肯**（Henry Louis "H. L."
-Mencken；），是[美國](../Page/美國.md "wikilink")[記者](../Page/記者.md "wikilink")、諷刺[作家](../Page/作家.md "wikilink")、文化評論家，以及美式英語學者。
+Mencken；），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[記者](../Page/記者.md "wikilink")、諷刺[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、文化評論家，以及美式英語學者。
 
 ## 早年生活
 
@@ -35,9 +35,10 @@ Mencken；），是[美國](../Page/美國.md "wikilink")[記者](../Page/記者
   - Stenerson, Douglas C. (1974). *HL Mencken: Iconoclast from
     Baltimore*. University of Chicago Press. ISBN 0-226-77249-7.
 
-  - [Teachout, Terry](../Page/Terry_Teachout.md "wikilink") (2002). *The
-    Skeptic : A Life of HL Mencken*. Harper Collins Publishers. ISBN
-    0-06-050528-1.
+  - [Teachout,
+    Terry](https://zh.wikipedia.org/wiki/Terry_Teachout "wikilink")
+    (2002). *The Skeptic : A Life of HL Mencken*. Harper Collins
+    Publishers. ISBN 0-06-050528-1.
 
 [Category:美國無神論者](https://zh.wikipedia.org/wiki/Category:美國無神論者 "wikilink")
 [Category:美国记者](https://zh.wikipedia.org/wiki/Category:美国记者 "wikilink")

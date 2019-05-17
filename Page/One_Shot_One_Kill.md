@@ -1,8 +1,9 @@
 《**One Shot One
-Kill**》是[韓國男子組合](../Page/韓國.md "wikilink")[U-KISS的第五張日語](../Page/U-KISS.md "wikilink")[專輯](../Page/專輯.md "wikilink")，在2016年3月23日以五個版本：CD＋Blu-ray盤、CD＋DVD盤、event
+Kill**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第五張日語](../Page/U-KISS.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年3月23日以五個版本：CD＋Blu-ray盤、CD＋DVD盤、event
 LIVE合體盤（）、通常盤及mu-mo盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[Stay
-Gold](../Page/Stay_Gold_\(U-KISS單曲\).md "wikilink")》及《[Kissing to
-feel](../Page/Kissing_to_feel.md "wikilink")》在專輯推出前預先發行。
+Gold](https://zh.wikipedia.org/wiki/Stay_Gold_\(U-KISS單曲\) "wikilink")》及《[Kissing
+to
+feel](https://zh.wikipedia.org/wiki/Kissing_to_feel "wikilink")》在專輯推出前預先發行。
 
 ## 概觀
 
@@ -45,9 +46,9 @@ Kill》，並披露專輯所有版本的封面與所有收錄曲目\[3\]。
 
 ## 發行歷史
 
-| 地區                             | 日期         | 格式                                                                         | 廠牌                                 |
-| ------------------------------ | ---------- | -------------------------------------------------------------------------- | ---------------------------------- |
-| [日本](../Page/日本.md "wikilink") | 2016年3月23日 | [CD](../Page/CD.md "wikilink")、\[12\] [數位下載](../Page/數位音樂下載.md "wikilink") | [Avex](../Page/Avex.md "wikilink") |
+| 地區                             | 日期         | 格式                                                                         | 廠牌                                                    |
+| ------------------------------ | ---------- | -------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [日本](../Page/日本.md "wikilink") | 2016年3月23日 | [CD](../Page/CD.md "wikilink")、\[12\] [數位下載](../Page/數位音樂下載.md "wikilink") | [Avex](https://zh.wikipedia.org/wiki/Avex "wikilink") |
 
 ## 參考資料
 

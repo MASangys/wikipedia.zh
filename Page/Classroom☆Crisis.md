@@ -1,6 +1,6 @@
 ，是由Lay-duce製作的日本原創電視動畫，2015年7月3日在[每日放送的](../Page/每日放送.md "wikilink")「[Animeism](../Page/Animeism.md "wikilink")」時段播出\[1\]。
 
-監督為[長崎健司](../Page/長崎健司.md "wikilink")\[2\]、系列構成由輕小說《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》的作者[丸戶史明擔任](../Page/丸戶史明.md "wikilink")\[3\]，角色原案則由負責《[我的妹妹哪有這麼可愛](../Page/我的妹妹哪有這麼可愛.md "wikilink")》插畫的[神崎廣擔任](../Page/神崎廣.md "wikilink")\[4\]。
+監督為[長崎健司](https://zh.wikipedia.org/wiki/長崎健司 "wikilink")\[2\]、系列構成由輕小說《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》的作者[丸戶史明擔任](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")\[3\]，角色原案則由負責《[我的妹妹哪有這麼可愛](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")》插畫的[神崎廣擔任](../Page/神崎廣.md "wikilink")\[4\]。
 
 ## 故事簡介
 
@@ -14,7 +14,7 @@
   -
     霧科Corporation的先行技術開發部新部長。受公司之命解散高支出卻成果不佳的「A-TEC」班，以轉學生的身份進入「A-TEC」的高等部3年級。
     霧科Corporation創業者的三男，霧羽和久與霧羽雄二的弟弟，兄弟不和。出自白崎一族，為保護白崎伊莉絲（真正的科宮渚）而偽裝成科宮渚。科宮渚是霧羽安久與科宮漣一郎的獨生女科宮千里的私生子，繼承霧科Corporation兩家創辦人的血脈。然而霧羽貴久是為了科宮千里手上30%霧科Corporation股權而來，因此想把科宮渚收入霧科本家。白崎一族為了不要讓渚落入霧羽家手上，讓他假扮渚騙過霧羽家，成為霧羽渚。遭雄二嫉恨，自幼凌虐他，羞辱其名字和出身，凡他取得的功勞都佔為己有藉此晉升，並更加憤怒地在他的背後造成各種永久的疤痕。
-    其霧羽家的背景，在組織中無聞，人事任命屢遇刁難，但因頗有能力，先後任職[歐羅巴](../Page/木衛二.md "wikilink")、[木衛三](../Page/木衛三.md "wikilink")、[木衛四等偏僻繁難之地都拿出功績](../Page/木衛四.md "wikilink")，遂入總公司為部長。任用服部花子削減「A-TEC」的經費和暗中調查雄二的不法行為。霧科Corporation的柳井副社長一派企圖拉攏然後利用他的血緣來對抗和久一派，而他則在調查中發現雄二、和久兩人似乎非法動用原屬「A-TEC」的預算，金援屬意的政治勢力星民黨。借著曲解雄二的指示，他以工會搭線大宇宙黨，以再任經濟產業大臣一職勸誘星民黨的政治名人古林健勝倒戈，成為自己的棋子，從而鬥垮雄二。連跳兩級進入董事會成為常務董事，聯合柳井等以「A-TEC」存廢一案反擊和久。
+    其霧羽家的背景，在組織中無聞，人事任命屢遇刁難，但因頗有能力，先後任職[歐羅巴](https://zh.wikipedia.org/wiki/木衛二 "wikilink")、[木衛三](https://zh.wikipedia.org/wiki/木衛三 "wikilink")、[木衛四等偏僻繁難之地都拿出功績](https://zh.wikipedia.org/wiki/木衛四 "wikilink")，遂入總公司為部長。任用服部花子削減「A-TEC」的經費和暗中調查雄二的不法行為。霧科Corporation的柳井副社長一派企圖拉攏然後利用他的血緣來對抗和久一派，而他則在調查中發現雄二、和久兩人似乎非法動用原屬「A-TEC」的預算，金援屬意的政治勢力星民黨。借著曲解雄二的指示，他以工會搭線大宇宙黨，以再任經濟產業大臣一職勸誘星民黨的政治名人古林健勝倒戈，成為自己的棋子，從而鬥垮雄二。連跳兩級進入董事會成為常務董事，聯合柳井等以「A-TEC」存廢一案反擊和久。
     其第一次提案的作戰因和久讓星民黨和大宇宙黨聯合執政而大敗。和久告訴他，一切往其策劃方向發展，故渚的各種努力，反而使得和久得以完全獲得5位得以進行軍事項目開發的關鍵人物。其中經濟產業部的古林原本會在選舉中落敗卻最終勝出，因此國防部、經濟產業部並得，技術方面解散「A-TEC」則得海斗，加上之前「A-TEC」班意外救援的海斗的指導教授，最後則是擊敗雄二的渚，和久要渚擔任該項目的管理者。和久看重渚的能力，對待他較雄二更為親近，并以早已知道渚並非科宮渚本人，只是白崎家的替身一事來動搖渚，要渚放下仇恨為他所用。迷惘又絕望的渚因此在美月溫柔的撫慰與鼓勵下卸下心防痛哭，兩人相擁並相吻。海斗跟伊莉絲目睹此景，伊莉絲飛奔離去，渚則事後遭海斗揍了一拳，對此渚表示跟美月的吻是出於雙方的意願。渚和海斗都拒絕參與軍事開發項目，積極為「A-TEC」奮鬥，然三天後渚卻為遭罷黜的雄二所刺傷，將他單人架上以X-2引擎為動力的航天器以送抵小行星帶來殺害他。渚最後為克服駕駛恐懼的白崎伊丽丝駕著新開發的X-3引擎動力航天器所救。得救後遂與和久決裂，此後離開霧科Corporation，挖角笹山與「A-TEC」原班人馬另外成立新的公司。
 
 <!-- end list -->
@@ -136,31 +136,32 @@
 ### 製作人員
 
   - 原作：MONTWO
-  - 監督：[長崎健司](../Page/長崎健司.md "wikilink")
-  - 系列構成、劇本：[丸戶史明](../Page/丸戶史明.md "wikilink") with 企画屋
+  - 監督：[長崎健司](https://zh.wikipedia.org/wiki/長崎健司 "wikilink")
+  - 系列構成、劇本：[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink") with
+    企画屋
   - 角色原案：[神崎廣](../Page/神崎廣.md "wikilink")
-  - 角色設計：神崎廣、[石野聰](../Page/石野聰.md "wikilink")
+  - 角色設計：神崎廣、[石野聰](https://zh.wikipedia.org/wiki/石野聰 "wikilink")
   - 動畫導演：石野聰
-  - 總作畫監督：石野聰、吉岡毅、[倉島亞由美](../Page/倉島亞由美.md "wikilink")
+  - 總作畫監督：石野聰、吉岡毅、[倉島亞由美](https://zh.wikipedia.org/wiki/倉島亞由美 "wikilink")
   - 概念美術設計：發智和宏
   - 機械設計：田中俊成
-  - 機械道具設計：[赤石澤貴士](../Page/赤石澤貴士.md "wikilink")
+  - 機械道具設計：[赤石澤貴士](https://zh.wikipedia.org/wiki/赤石澤貴士 "wikilink")
   - 色彩設計：
   - 美術監督：青井孝、小幡和寬
   - 美術設定：海老澤卓也
   - 攝影監督：後藤晴香
   - 剪接：定松剛
   - 音響監督：藤田亞紀子
-  - 音樂：[林友樹](../Page/林友樹.md "wikilink")
+  - 音樂：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")
   - 動畫製作：Lay-duce
   - 製作：CC PROJECT
 
 ### 主題曲
 
   - 片頭曲「」
-    作詞、作曲、編曲：[谷口尚久](../Page/谷口尚久.md "wikilink")，主唱：[TrySail](../Page/TrySail.md "wikilink")
+    作詞、作曲、編曲：[谷口尚久](https://zh.wikipedia.org/wiki/谷口尚久 "wikilink")，主唱：[TrySail](../Page/TrySail.md "wikilink")
   - 片尾曲「」
-    作詞、作曲：[KOH](../Page/KOH.md "wikilink")，編曲：[湯淺篤](../Page/湯淺篤.md "wikilink")，主唱：[ClariS](../Page/ClariS.md "wikilink")\[5\]
+    作詞、作曲：[KOH](https://zh.wikipedia.org/wiki/KOH "wikilink")，編曲：[湯淺篤](https://zh.wikipedia.org/wiki/湯淺篤 "wikilink")，主唱：[ClariS](../Page/ClariS.md "wikilink")\[5\]
 
 ### 各話列表
 
@@ -181,8 +182,8 @@
 <td><p>第1話</p></td>
 <td></td>
 <td><p>遲來的轉學生</p></td>
-<td><p><a href="../Page/丸戶史明.md" title="wikilink">丸戶史明</a></p></td>
-<td><p><a href="../Page/長崎健司.md" title="wikilink">長崎健司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丸戶史明" title="wikilink">丸戶史明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長崎健司" title="wikilink">長崎健司</a></p></td>
 <td><p>塚田拓郎<br />
 大久保朋</p></td>
 <td><p>石野聰</p></td>
@@ -192,7 +193,7 @@
 <td></td>
 <td><p>重組的教室</p></td>
 <td><p>大町生</p></td>
-<td><p><a href="../Page/熊膳貴志.md" title="wikilink">熊膳貴志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊膳貴志" title="wikilink">熊膳貴志</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -238,7 +239,7 @@
 <td><p>第6話</p></td>
 <td></td>
 <td><p>忸怩的一族</p></td>
-<td><p><a href="../Page/京田知己.md" title="wikilink">京田知己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京田知己" title="wikilink">京田知己</a></p></td>
 <td><p>政木伸一</p></td>
 <td><p>白井英介</p></td>
 <td></td>
@@ -320,7 +321,7 @@
 
 ### Classroom☆Crisis
 
-2015年7月24日發售\[6\]。為電視動畫本篇的輕小說作品\[7\]。作者為[田口一](../Page/田口一.md "wikilink")、插畫由Lay-duce、rin負責。
+2015年7月24日發售\[6\]。為電視動畫本篇的輕小說作品\[7\]。作者為[田口一](https://zh.wikipedia.org/wiki/田口一 "wikilink")、插畫由Lay-duce、rin負責。
 
 ### Classroom☆Crisis Another Crisis
 

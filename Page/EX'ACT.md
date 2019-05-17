@@ -1,4 +1,4 @@
-《**EX'ACT**》是[韩国偶像團體](../Page/韩国.md "wikilink")[EXO第三張正規專輯](../Page/EXO.md "wikilink")。距離第二張正規專輯《[EXODUS](../Page/EXODUS_\(EXO專輯\).md "wikilink")》有15個月之久，於2016年6月9日發行。改版專輯《LOTTO》於當年8月18日發行。
+《**EX'ACT**》是[韩国偶像團體](https://zh.wikipedia.org/wiki/韩国 "wikilink")[EXO第三張正規專輯](../Page/EXO.md "wikilink")。距離第二張正規專輯《[EXODUS](../Page/EXODUS_\(EXO專輯\).md "wikilink")》有15個月之久，於2016年6月9日發行。改版專輯《LOTTO》於當年8月18日發行。
 
 ## 曲目
 

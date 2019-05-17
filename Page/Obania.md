@@ -1,10 +1,13 @@
-***Obania***是[灰蝶科](../Page/灰蝶科.md "wikilink")[圓灰蝶亞科](../Page/圓灰蝶亞科.md "wikilink")[琳灰蝶族裡的一個](../Page/琳灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分佈於非洲。本屬由[琳灰蝶屬分離出來](../Page/琳灰蝶屬.md "wikilink")\[1\]。
+***Obania***是[灰蝶科](../Page/灰蝶科.md "wikilink")[圓灰蝶亞科](../Page/圓灰蝶亞科.md "wikilink")[琳灰蝶族裡的一個](../Page/琳灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於非洲。本屬由[琳灰蝶屬分離出來](../Page/琳灰蝶屬.md "wikilink")\[1\]。
 
 ## 物種
 
-  - [素琳灰蝶](../Page/素琳灰蝶.md "wikilink") *Obania subvariegata*
-  - *[Obania tullia](../Page/Obania_tullia.md "wikilink")*
-  - *[Obania tulliana](../Page/Obania_tulliana.md "wikilink")*
+  - [素琳灰蝶](https://zh.wikipedia.org/wiki/素琳灰蝶 "wikilink") *Obania
+    subvariegata*
+  - *[Obania
+    tullia](https://zh.wikipedia.org/wiki/Obania_tullia "wikilink")*
+  - *[Obania
+    tulliana](https://zh.wikipedia.org/wiki/Obania_tulliana "wikilink")*
 
 ## 參考文獻
 

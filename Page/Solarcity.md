@@ -1,36 +1,38 @@
-[SolarCity是全美國最大的太陽能發電公司](../Page/SolarCity.md "wikilink")，專門發展家用及商業光伏發電項目，總部位於[美國](../Page/美國.md "wikilink")[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[聖馬刁](../Page/聖馬刁.md "wikilink")。**SolarCity**為美国太陽能發電系統供應商龍頭，提供系統設計、安装以及融资、施工監督等全面的太陽能服務，以低於電力公司的價格向客戶供電。現時，公司員工人數超過14,000人。
+[SolarCity是全美國最大的太陽能發電公司](https://zh.wikipedia.org/wiki/SolarCity "wikilink")，專門發展家用及商業光伏發電項目，總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[聖馬刁](https://zh.wikipedia.org/wiki/聖馬刁 "wikilink")。**SolarCity**為美国太陽能發電系統供應商龍頭，提供系統設計、安装以及融资、施工監督等全面的太陽能服務，以低於電力公司的價格向客戶供電。現時，公司員工人數超過14,000人。
 
 自2006年成立以來，**SolarCity**發展迅速，太陽能安裝項目從2009年的440百萬瓦(MW)急增至2014年的6,200百萬瓦(MW)，並於2012年12月在美国[纳斯达克上市](../Page/纳斯达克.md "wikilink")
-(股票代號**SCTY**)，融资9200万美元。至2016年為止，SolarCity擁有超過33萬客戶，遍佈全美27個州份。除了太陽能業務外，**SolarCity**亦跟[特斯拉汽車](../Page/特斯拉汽車.md "wikilink")
-([Tesla Motors](../Page/Tesla_Motors.md "wikilink"))
+(股票代號**SCTY**)，融资9200万美元。至2016年為止，SolarCity擁有超過33萬客戶，遍佈全美27個州份。除了太陽能業務外，**SolarCity**亦跟[特斯拉汽車](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")
+([Tesla Motors](https://zh.wikipedia.org/wiki/Tesla_Motors "wikilink"))
 合作，提供家用能源儲備產品**Powerwall**，配合太陽能板使用。
-2016年11月17日，[特斯拉汽車以](../Page/特斯拉汽車.md "wikilink")26億美元收購SolarCity，為太陽能業史上最龐大的交易，SolarCity亦正式成為[特斯拉汽車旗下的公司](../Page/特斯拉汽車.md "wikilink")。
+2016年11月17日，[特斯拉汽車以](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")26億美元收購SolarCity，為太陽能業史上最龐大的交易，SolarCity亦正式成為[特斯拉汽車旗下的公司](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")。
 
-2017年2月，[特斯拉汽車亦正式更名為](../Page/特斯拉汽車.md "wikilink")[特斯拉](../Page/特斯拉.md "wikilink")
+2017年2月，[特斯拉汽車亦正式更名為](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")[特斯拉](../Page/特斯拉.md "wikilink")
 (Tesla Inc.)，進一步把電動汽車業務，拓展到住宅及商業太陽能蓄電系統領域，打造為清潔能源企業。
 
 ## 公司歷史
 
-[SolarCity成立於](../Page/SolarCity.md "wikilink")2006年，創辦人為[Lyndon
-Rive及](../Page/Lyndon_Rive.md "wikilink")[Peter
-Rive](../Page/Peter_Rive.md "wikilink")。成立太陽能公司這個概念主要是源自Lyndon的表兄[伊隆马斯克](../Page/伊隆·马斯克.md "wikilink")
-([Elon Musk](../Page/Elon_Musk.md "wikilink"))，而Elon
-Musk亦成為了SolarCity的主席，Lyndon擔任行政總裁。在營運初期，[SolarCity早已帶領市場](../Page/SolarCity.md "wikilink")，成為家用太陽能光伏发电项目的龍頭，提供多項全面的服務，包括安装、系统设计、融资、及施工监督。
+[SolarCity成立於](https://zh.wikipedia.org/wiki/SolarCity "wikilink")2006年，創辦人為[Lyndon
+Rive及](https://zh.wikipedia.org/wiki/Lyndon_Rive "wikilink")[Peter
+Rive](https://zh.wikipedia.org/wiki/Peter_Rive "wikilink")。成立太陽能公司這個概念主要是源自Lyndon的表兄[伊隆马斯克](../Page/伊隆·马斯克.md "wikilink")
+([Elon Musk](https://zh.wikipedia.org/wiki/Elon_Musk "wikilink"))，而Elon
+Musk亦成為了SolarCity的主席，Lyndon擔任行政總裁。在營運初期，[SolarCity早已帶領市場](https://zh.wikipedia.org/wiki/SolarCity "wikilink")，成為家用太陽能光伏发电项目的龍頭，提供多項全面的服務，包括安装、系统设计、融资、及施工监督。
 
-[SolarCity於](../Page/SolarCity.md "wikilink")2012年集資上市，正式成為全美國最大的[太陽能公司](../Page/太陽能.md "wikilink")，擁有最高的市場佔有率。
+[SolarCity於](https://zh.wikipedia.org/wiki/SolarCity "wikilink")2012年集資上市，正式成為全美國最大的[太陽能公司](https://zh.wikipedia.org/wiki/太陽能 "wikilink")，擁有最高的市場佔有率。
 此外，SolarCity於2014年首次發行總值約200萬美元的太陽能債券，為美國市場史上第一款太陽能能源債券。 2016年3月，Elon
-Musk旗下的[太空探索科技公司](../Page/太空探索科技公司.md "wikilink")[SpaceX購入超過](../Page/SpaceX.md "wikilink")90萬美元的股份。而Elon
+Musk旗下的[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")[SpaceX購入超過](../Page/SpaceX.md "wikilink")90萬美元的股份。而Elon
 Musk本人則持有約22%的股份。
 
-2016年6月，Elon Musk創辦的[特斯拉汽車](../Page/特斯拉汽車.md "wikilink")[Tesla
-Motors出價](../Page/Tesla_Motors.md "wikilink")28億美元提出收購SolarCity，目標是打造世界最大的再新能源公司，整合提供太陽能面板、家用儲能設備，以及電動汽車。同年8月，SolarCity接受Tesla
+2016年6月，Elon
+Musk創辦的[特斯拉汽車](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")[Tesla
+Motors出價](https://zh.wikipedia.org/wiki/Tesla_Motors "wikilink")28億美元提出收購SolarCity，目標是打造世界最大的再新能源公司，整合提供太陽能面板、家用儲能設備，以及電動汽車。同年8月，SolarCity接受Tesla
 Motors提出的收購方案，收購金額為26億美元。
 
 ## 特斯拉收購
 
 2016年6月21日，特斯拉汽車 (Tesla Motors)
 宣佈以全股票的方案出價收購SolarCity，收購價為每股26.50至28.50美元，較SolarCity週二的收盤價21.19美元有25%至35%的溢價率，交易總價值為28億美元。
-SolarCity董事長[伊隆馬斯克](../Page/伊隆·馬斯克.md "wikilink") (Elon Musk)
+SolarCity董事長[伊隆馬斯克](https://zh.wikipedia.org/wiki/伊隆·馬斯克 "wikilink")
+(Elon Musk)
 表示，收購SolarCity將使特斯拉轉型成為“全球唯一垂直整合的能源公司，向客戶提供端到端的清潔能源產品”，包括太陽能面板、家用儲能設備，以及電動汽車。
 SolarCity承認特斯拉的收購提議，並表示將仔細評估特斯拉的收購報價。特斯拉表示，只願在友好基礎上進行交易。
 

@@ -1,33 +1,34 @@
 [Suzuki_Every_5th&4th_generation.JPG](https://zh.wikipedia.org/wiki/File:Suzuki_Every_5th&4th_generation.JPG "fig:Suzuki_Every_5th&4th_generation.JPG")
-**鈴木Every**（）乃是[鈴木公司](../Page/鈴木公司.md "wikilink")（1990年9月以前稱為鈴木汽車工業）自1982年起開始製造發售的[輕型商用](../Page/輕型車.md "wikilink")[麵包車](../Page/微型麵包車.md "wikilink")。關於車名「Every」在[英語中意指](../Page/英語.md "wikilink")「每一個」，原廠為了營造高載貨量和行走迅速的形象，故取此車名\[1\]。
+**鈴木Every**（）乃是[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")（1990年9月以前稱為鈴木汽車工業）自1982年起開始製造發售的[輕型商用](../Page/輕型車.md "wikilink")[麵包車](https://zh.wikipedia.org/wiki/微型麵包車 "wikilink")。關於車名「Every」在[英語中意指](https://zh.wikipedia.org/wiki/英語 "wikilink")「每一個」，原廠為了營造高載貨量和行走迅速的形象，故取此車名\[1\]。
 
 ## 歷史與概要
 
 Every車系衍生自1982年發售的[鈴木Carry](../Page/鈴木Carry.md "wikilink")
 ST41V型，1999年起原廠刻意將商用車稱作「Every」、客用車稱作「Every
-Wagon」，以示區別。另外，由於鈴木與[馬自達汽車](../Page/馬自達.md "wikilink")、[三菱汽車](../Page/三菱汽車.md "wikilink")、[日產汽車等陸續簽訂OEM代工協議](../Page/日產汽車.md "wikilink")\[2\]，Every也[換牌成](../Page/換牌工程.md "wikilink")[馬自達Scrum](../Page/馬自達Scrum#第四代（旅行車、廂型車：2005年迄今；卡車：2013年迄今）.md "wikilink")、
+Wagon」，以示區別。另外，由於鈴木與[馬自達汽車](https://zh.wikipedia.org/wiki/馬自達 "wikilink")、[三菱汽車](https://zh.wikipedia.org/wiki/三菱汽車 "wikilink")、[日產汽車等陸續簽訂OEM代工協議](../Page/日產汽車.md "wikilink")\[2\]，Every也[換牌成](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")[馬自達Scrum](https://zh.wikipedia.org/wiki/馬自達Scrum#第四代（旅行車、廂型車：2005年迄今；卡車：2013年迄今） "wikilink")、
 / Clipper Rio、、等車款，造成日本車壇上共有4款兄弟車共同競逐的局面。
 
-1991年（今）曾以第八代Carry為基礎而開發[大宇Damas](../Page/鈴木Carry#大宇Damas_/_Labo_/_Attivo.md "wikilink")，[皮卡貨車車型則稱大宇Labo](../Page/皮卡.md "wikilink")，某些國家則稱大宇Attivo。目前此車款已經進化成GM
-DamasⅡ，且外銷至[南美洲換牌成雪佛蘭CMV](../Page/南美洲.md "wikilink")。再者，以[CKD全車散件](../Page/散裝料.md "wikilink")（Completely
-Knocked Down）方式將Damas進口至[越南](../Page/越南.md "wikilink")，然後在現地組裝成整車。
+1991年（今）曾以第八代Carry為基礎而開發[大宇Damas](https://zh.wikipedia.org/wiki/鈴木Carry#大宇Damas_/_Labo_/_Attivo "wikilink")，[皮卡貨車車型則稱大宇Labo](../Page/皮卡.md "wikilink")，某些國家則稱大宇Attivo。目前此車款已經進化成GM
+DamasⅡ，且外銷至[南美洲換牌成雪佛蘭CMV](../Page/南美洲.md "wikilink")。再者，以[CKD全車散件](https://zh.wikipedia.org/wiki/散裝料 "wikilink")（Completely
+Knocked
+Down）方式將Damas進口至[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")，然後在現地組裝成整車。
 
 ### Carry Van（1964年-1982年）
 
 1964年 - 9月原廠推出「鈴木Suzulight Carry
-Van」（FBD型），是為三門[微型麵包車](../Page/微型麵包車.md "wikilink")。
+Van」（FBD型），是為三門[微型麵包車](https://zh.wikipedia.org/wiki/微型麵包車 "wikilink")。
 
 1968年 -
-3月[第三代Carry小改款時新設微型麵包車L](../Page/鈴木Carry#第三代L30/L31系（1966年-1969年）.md "wikilink")30V型，車名改成「Carry
+3月[第三代Carry小改款時新設微型麵包車L](https://zh.wikipedia.org/wiki/鈴木Carry#第三代L30/L31系（1966年-1969年） "wikilink")30V型，車名改成「Carry
 Van」。
 
 1982年 -
-12月[第七代Carry實行小改款](../Page/鈴木Carry#第七代ST30/ST31/ST40/ST41/ST90系（1979年-1985年）.md "wikilink")，微型麵包車ST41V型改稱作**鈴木Every**；自此Every獨立成一個車系。
+12月[第七代Carry實行小改款](https://zh.wikipedia.org/wiki/鈴木Carry#第七代ST30/ST31/ST40/ST41/ST90系（1979年-1985年） "wikilink")，微型麵包車ST41V型改稱作**鈴木Every**；自此Every獨立成一個車系。
 
 ### 第一代（1982年-1985年）
 
 1982年 -
-12月[第七代Carry實行小改款](../Page/鈴木Carry#第七代ST30/ST31/ST40/ST41/ST90系（1979年-1985年）.md "wikilink")，微型麵包車ST41V型改稱作**鈴木Every**；自此Every獨立成一個車系。
+12月[第七代Carry實行小改款](https://zh.wikipedia.org/wiki/鈴木Carry#第七代ST30/ST31/ST40/ST41/ST90系（1979年-1985年） "wikilink")，微型麵包車ST41V型改稱作**鈴木Every**；自此Every獨立成一個車系。
 
 Image:Suzuki Every 1st 02.jpg|車尾
 
@@ -36,18 +37,18 @@ Image:Suzuki Every 1st 02.jpg|車尾
 ### 第二代（1985年-1991年）
 
 1985年 -
-隨著[第八代Carry大改款而發售](../Page/鈴木Carry#第八代DA71T/DB71T/DA81T/DA41T/DB41T/DA51T/DB51T系（1985年-1991年）.md "wikilink")。
+隨著[第八代Carry大改款而發售](https://zh.wikipedia.org/wiki/鈴木Carry#第八代DA71T/DB71T/DA81T/DA41T/DB41T/DA51T/DB51T系（1985年-1991年） "wikilink")。
 
 1986年 - 追加「Joy Pop」車型，主要差異在於與車身不同色的前後保險桿。
 
 1988年 - 進行小改款，重點在於更新中控台，其餘內外裝則小幅度變更。部份頂級車型雖仍採用F5A型引擎，但一汽缸改成三汽門。
 
 1989年 - 5月再次小改款（DA41型二輪驅動/DB41型四輪驅動），頂級車型的頭燈改成多角形，動力心臟換裝成547c.c.直列三缸SOHC
-[F5B型引擎](../Page/鈴木F族引擎#F5B型（SOHC_4汽門）.md "wikilink")。
+[F5B型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F5B型（SOHC_4汽門） "wikilink")。
 
 1990年 -
 3月復小改款（DA51型二輪驅動/DB51型四輪驅動），全車系將頭燈改成圓形，但頂級車型的頭燈則是類圓形；動力來源改為657c.c.水冷式直列三缸SOHC
-[F6A型引擎](../Page/鈴木F族引擎#F6A型（SOHC）.md "wikilink")。同年11月，F6A型引擎重新調校後的馬力增加，從38ps提高至42ps。
+[F6A型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F6A型（SOHC） "wikilink")。同年11月，F6A型引擎重新調校後的馬力增加，從38ps提高至42ps。
 
 Image:Suzuki Joy Pop van (6020143509).jpg|Joy Pop車型 Image:2nd generation
 Suzuki Every Joypop.jpg Image:2nd generation Suzuki Every Joypop
@@ -59,13 +60,13 @@ Every Intercooler Turbo PS-type.jpg|Joy Pop車型 Image:Suzuki Every 201.JPG
 ### 第三代（1991年-1998年）
 
 1991年 - 9月大改款的第三代Every上市（DE51V型二輪驅動/DF51V型四輪驅動），商用車用途的「Carry
-Van」和客用車用途的「Every」分得更清楚。引擎的佈局方式為置於後車軸前方的「後中置引擎、後輪驅動」（但是Carry貨卡車型仍維持[前置後驅佈局](../Page/前置後驅.md "wikilink")），為歷代Carry
+Van」和客用車用途的「Every」分得更清楚。引擎的佈局方式為置於後車軸前方的「後中置引擎、後輪驅動」（但是Carry貨卡車型仍維持[前置後驅佈局](https://zh.wikipedia.org/wiki/前置後驅 "wikilink")），為歷代Carry
 / Every首見。後輪[懸吊系統則跟對手第二代](../Page/懸吊系統.md "wikilink")一樣，採用（De Dion
 tube）；但本田Acty的彈簧為板發條式，Every卻是螺旋彈簧圈。同年11月，追加「Turbo RZ Super Multi
-Roof」車型，具有[天窗的高車頂](../Page/窗#天窗.md "wikilink")。
+Roof」車型，具有[天窗的高車頂](https://zh.wikipedia.org/wiki/窗#天窗 "wikilink")。
 
 1993年 - 1月推出「Joy Pop Sound」車型，昇級音響系統。同年11月原廠將Carry
-Van和Every整合，並追加高車頂車型。同時因為採用新[冷媒](../Page/工作介质.md "wikilink")，室內改用耐燃材質，並加強安全設備。
+Van和Every整合，並追加高車頂車型。同時因為採用新[冷媒](https://zh.wikipedia.org/wiki/工作介质 "wikilink")，室內改用耐燃材質，並加強安全設備。
 
 1995年 - 5月車名統一成「鈴木Every」且小改良，輪圈PCD從114.3mm縮小成100mm。提昇「Joy
 Pop」渦輪增壓版的出力至64ps / 6,000rpm，全部高車頂車型加裝第三煞車燈，廢除「Turbo
@@ -89,41 +90,41 @@ Image:Suzuki Every 004.JPG|後輪懸吊特寫
 1999年 -
 為了對應輕型車新規制，1月9日大改款的第四代Every上市（2WD為DA52型、4WD為DB52型）\[3\]。除擴大車體外，並改回半平頭式（semi
 cab over）車頭設計。動力來源共有657c.c.水冷式直列三缸SOHC
-[F6A型](../Page/鈴木F族引擎#F6A型（SOHC）.md "wikilink")、657c.c.直列三缸SOHC
-[F6A型渦輪增壓](../Page/鈴木F族引擎#F6A型（SOHC渦輪增壓附中冷器）.md "wikilink")（附中冷器）等二種引擎可選擇。
+[F6A型](https://zh.wikipedia.org/wiki/鈴木F族引擎#F6A型（SOHC） "wikilink")、657c.c.直列三缸SOHC
+[F6A型渦輪增壓](https://zh.wikipedia.org/wiki/鈴木F族引擎#F6A型（SOHC渦輪增壓附中冷器） "wikilink")（附中冷器）等二種引擎可選擇。
 
 同年6月17日追加乘用[旅行車型的](../Page/旅行車.md "wikilink")「**Every
-Wagon**」，具備雙前座[安全氣囊](../Page/安全氣囊.md "wikilink")、空調系統、立體音響、動力轉向輔助系統、天窗等配備\[4\]。在此同時，原廠亦發表「**Every+**」（[鈴木Every
+Wagon**」，具備雙前座[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、空調系統、立體音響、動力轉向輔助系統、天窗等配備\[4\]。在此同時，原廠亦發表「**Every+**」（[鈴木Every
 Landy前身](../Page/鈴木Every_Landy.md "wikilink")）\[5\]，以Every為基礎，加以延長車頭、追加第三排座椅成為2+2+3之編排方式。動力心臟為1.3L直列四缸DOHC
-[G13B型引擎](../Page/鈴木G族引擎#G13B型.md "wikilink")，可輸出最大馬力85ps /
-6,000rpm、扭力峰值11.3kg・m / 3,000rpm，搭配四速自排變速箱。
+[G13B型引擎](https://zh.wikipedia.org/wiki/鈴木G族引擎#G13B型 "wikilink")，可輸出最大馬力85ps
+/ 6,000rpm、扭力峰值11.3kg・m / 3,000rpm，搭配四速自排變速箱。
 
 同年8月9日發表「**Every電動車**」\[6\]，搭載總電壓240[伏特](../Page/伏特.md "wikilink")、總電力量2.16kWh的鉛電池，可輸出45kW
 ／ 3,000rpm的最大馬力、95N·m ／
-4,500rpm的扭力峰值。充電8[小時後可行駛](../Page/小時.md "wikilink")110[公里](../Page/公里.md "wikilink")，最高[速度可達](../Page/速度.md "wikilink")95km/hr\[7\]。
+4,500rpm的扭力峰值。充電8[小時後可行駛](https://zh.wikipedia.org/wiki/小時 "wikilink")110[公里](../Page/公里.md "wikilink")，最高[速度可達](../Page/速度.md "wikilink")95km/hr\[7\]。
 
-同年11月25日部分改良\[8\]，渦輪增壓引擎最高出力達64ps，自排變速箱改為四速自排，自然進氣引擎的低、中速域之扭力也經過改善。除「GA」、「PA」車款將助手席[安全氣囊列為選配外](../Page/安全氣囊.md "wikilink")，全車系將前雙座[安全氣囊](../Page/安全氣囊.md "wikilink")、ABS[防鎖死煞車系統列入標準配備](../Page/防鎖死煞車系統.md "wikilink")；再者調整部分車款。12月14日原廠推出使用[壓縮天然氣作為燃料的](../Page/壓縮天然氣.md "wikilink")「**Every天然瓦斯車**」\[9\]。
+同年11月25日部分改良\[8\]，渦輪增壓引擎最高出力達64ps，自排變速箱改為四速自排，自然進氣引擎的低、中速域之扭力也經過改善。除「GA」、「PA」車款將助手席[安全氣囊列為選配外](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，全車系將前雙座[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、ABS[防鎖死煞車系統列入標準配備](../Page/防鎖死煞車系統.md "wikilink")；再者調整部分車款。12月14日原廠推出使用[壓縮天然氣作為燃料的](../Page/壓縮天然氣.md "wikilink")「**Every天然瓦斯車**」\[9\]。
 
-1999年12月24日由[臺灣](../Page/臺灣.md "wikilink")[太子汽車國產化的鈴木Every正市上市](../Page/太子汽車.md "wikilink")，稱為「鈴木好伙伴」\[10\]。雖然與[福特好幫手P-RZ同為兄弟車](../Page/鈴木Carry#臺灣福特好幫手Pronto/P-RZ.md "wikilink")，但引擎改換1.3L直列四缸SOHC
-[G13BB型](../Page/鈴木G族引擎#G13BB型.md "wikilink")，可輸出最大[馬力](../Page/馬力.md "wikilink")85ps
+1999年12月24日由[臺灣](../Page/臺灣.md "wikilink")[太子汽車國產化的鈴木Every正市上市](../Page/太子汽車.md "wikilink")，稱為「鈴木好伙伴」\[10\]。雖然與[福特好幫手P-RZ同為兄弟車](https://zh.wikipedia.org/wiki/鈴木Carry#臺灣福特好幫手Pronto/P-RZ "wikilink")，但引擎改換1.3L直列四缸SOHC
+[G13BB型](https://zh.wikipedia.org/wiki/鈴木G族引擎#G13BB型 "wikilink")，可輸出最大[馬力](../Page/馬力.md "wikilink")85ps
 / 6,000rpm、最大扭力10.8kg・m /
-3,000rpm。變速系統為三速自排變速箱，並可選購全時[四輪驅動系統](../Page/四輪驅動.md "wikilink")。
+3,000rpm。變速系統為三速自排變速箱，並可選購全時[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。
 
 2000年 -
 5月17日部分改良，渦輪引擎版車型的外觀改變，追加[爆震感知器](../Page/爆震.md "wikilink")、渦輪增壓控制裝置，且改變中冷器置放位置，於是改善渦輪增壓引擎在高速域的性能表現。再者，新增[座位安全帶的高低可調裝置](../Page/座位安全帶.md "wikilink")。為了紀念鈴木公司創立80周年，2000年6月8日推出特仕車「Every
 Wagon Joy Pop Turbo EX」\[11\]，以「Joy Pop Turbo」為基礎外加高級音響系統、專用座椅表皮等配備。
 
-同年7月7日針對[身心障礙人士推出福祉車輛](../Page/身心障礙.md "wikilink")\[12\]，變速箱為三速自排，可用電動遙控升降的後排左側座椅具備固定[胸部用](../Page/胸部.md "wikilink")[安全帶](../Page/座位安全帶.md "wikilink")、扶手、腳踏板等，後方則配置可綑綁折疊式[輪椅的束帶及掛勾](../Page/輪椅.md "wikilink")。11月15日推出特仕車「Every+
+同年7月7日針對[身心障礙人士推出福祉車輛](../Page/身心障礙.md "wikilink")\[12\]，變速箱為三速自排，可用電動遙控升降的後排左側座椅具備固定[胸部用](https://zh.wikipedia.org/wiki/胸部 "wikilink")[安全帶](../Page/座位安全帶.md "wikilink")、扶手、腳踏板等，後方則配置可綑綁折疊式[輪椅的束帶及掛勾](../Page/輪椅.md "wikilink")。11月15日推出特仕車「Every+
 Limited
-II」\[13\]，具有車側電動收縮腳踏板、[MD](../Page/MD.md "wikilink")/[CD音響](../Page/CD.md "wikilink")、第二排左右和第三排上方新設出風口、專屬內裝等配備。
+II」\[13\]，具有車側電動收縮腳踏板、[MD](https://zh.wikipedia.org/wiki/MD "wikilink")/[CD音響](../Page/CD.md "wikilink")、第二排左右和第三排上方新設出風口、專屬內裝等配備。
 
 2001年 - 1月18日推出「Every 21世紀紀念Special
 EX-II」特仕車\[14\]，具有高級音響系統、專用座椅表皮等配備。同年5月24日「Every+」改名成「[鈴木Every
 Landy](../Page/鈴木Every_Landy.md "wikilink")」。
 
 9月4日一部份改良（DA62V型/DA62W型），全車系搭載全[鋁合金製的](../Page/鋁合金.md "wikilink")658c.c.直列三缸DOHC
-[K6A型或](../Page/鈴木K族引擎#K6A型.md "wikilink")658c.c.直列三缸DOHC
-[K6A型渦輪增壓引擎](../Page/鈴木K族引擎#K6A型.md "wikilink")（附中冷器），並調整部分車型。
+[K6A型或](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")658c.c.直列三缸DOHC
+[K6A型渦輪增壓引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")（附中冷器），並調整部分車型。
 
 Image:Suzuki Every wagon 002.JPG|Every Wagon車尾 Image:Suzuki Every
 (rear), Denpasar.jpg Image:Suzuki Every Join 4WD.JPG Image:Suzuki Every
@@ -135,12 +136,12 @@ Join 4WD Rear.jpg Image:Suzuki Every 002.JPG
 
 2005年 -
 8月26日原廠推出大改款的Every：商用車DA64V型、商務[旅行車DA](../Page/旅行車.md "wikilink")64W型\[15\]。二者的共通點是採用該級距首創的電動滑門，這也是新Every車系的賣點。內裝部分除了基本的黑灰色調，亦可選擇米色內裝搭配金屬飾板。動力來源具有658c.c.直列三缸DOHC
-[K6A型](../Page/鈴木K族引擎#K6A型.md "wikilink")、658c.c.直列三缸DOHC
-[K6A型渦輪增壓引擎](../Page/鈴木K族引擎#K6A型.md "wikilink")（附中冷器）等二種選擇，可搭配五速手排和四速自排變速系統。基本配備則有電動後視鏡、懸空式排檔座、鍍鉻儀表外環、置物格、置杯架等，頂級車款更可加裝恆溫空調系統、2DIN音響主機等。此外同為右駕之故，此款車亦引進[香港](../Page/香港.md "wikilink")、[澳門等地](../Page/澳門.md "wikilink")，同樣採658c.c.直列三缸DOHC
+[K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")、658c.c.直列三缸DOHC
+[K6A型渦輪增壓引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")（附中冷器）等二種選擇，可搭配五速手排和四速自排變速系統。基本配備則有電動後視鏡、懸空式排檔座、鍍鉻儀表外環、置物格、置杯架等，頂級車款更可加裝恆溫空調系統、2DIN音響主機等。此外同為右駕之故，此款車亦引進[香港](../Page/香港.md "wikilink")、[澳門等地](../Page/澳門.md "wikilink")，同樣採658c.c.直列三缸DOHC
 K6A型引擎。
 
 2006年 - 2月2日發售三種福祉車：「Every Wagon輪椅移動車」、「Every輪椅移動車」及「Every
-Wagon升降座椅車」\[16\]。前二者以4WD車型，尾門打開後可以電動遙控輔助斜坡；後者則是以電動控制左後席的迴轉、前後滑行、升降等功能，並附有腳踏板。同年10月30日推出「[汽車共享專用車](../Page/汽車共享.md "wikilink")」\[17\]，以PU車型為基礎加裝[IC卡讀取裝置和通訊裝置](../Page/智慧卡.md "wikilink")，以達到[汽車共享業者的使用目的](../Page/汽車共享.md "wikilink")。12月4日推出特仕車「Laser
+Wagon升降座椅車」\[16\]。前二者以4WD車型，尾門打開後可以電動遙控輔助斜坡；後者則是以電動控制左後席的迴轉、前後滑行、升降等功能，並附有腳踏板。同年10月30日推出「[汽車共享專用車](https://zh.wikipedia.org/wiki/汽車共享 "wikilink")」\[17\]，以PU車型為基礎加裝[IC卡讀取裝置和通訊裝置](../Page/智慧卡.md "wikilink")，以達到[汽車共享業者的使用目的](https://zh.wikipedia.org/wiki/汽車共享 "wikilink")。12月4日推出特仕車「Laser
 Selection」，乃以「PZ Turbo Special」車型為底，加裝專用座椅、木紋中控台等配備。
 
 2007年 - 7月9日實施小改良（3型）\[18\]，調整車色塗裝，變更「PZ Turbo」和「PZ Turbo
@@ -160,11 +161,11 @@ Turbo」和「PZ Turbo Special」外觀的空力套件更新，內裝也一新�
 Wagon的前、後排座椅雖仍為一體式，但頭枕面積加大。
 
 2013年 -
-4月10日Every的三速自排車型改善引擎，4WD車型改採滾動抗阻性能的[輪胎](../Page/輪胎.md "wikilink")，並變換[觸媒以淨化廢氣](../Page/催化剂.md "wikilink")。同年12月3日起，開始[換牌成](../Page/換牌工程.md "wikilink")、Clipper
+4月10日Every的三速自排車型改善引擎，4WD車型改採滾動抗阻性能的[輪胎](../Page/輪胎.md "wikilink")，並變換[觸媒以淨化廢氣](../Page/催化剂.md "wikilink")。同年12月3日起，開始[換牌成](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")、Clipper
 Rio等二種車款，供應給[日產汽車](../Page/日產汽車.md "wikilink")\[20\]。
 
 2014年 - 2月27日起鈴木復以Every和Every
-Wagon換牌成、等二種車款，再加上[馬自達Scrum](../Page/馬自達Scrum#第四代（旅行車、廂型車：2005年迄今；卡車：2013年迄今）.md "wikilink")，形成市場上共有4種兄弟車一同競逐的局面。
+Wagon換牌成、等二種車款，再加上[馬自達Scrum](https://zh.wikipedia.org/wiki/馬自達Scrum#第四代（旅行車、廂型車：2005年迄今；卡車：2013年迄今） "wikilink")，形成市場上共有4種兄弟車一同競逐的局面。
 
 Image:Suzuki Every PA 4WD DA64V Rear 0372.JPG Image:2005 Suzuki Every
 01.jpg|Wagon JP標準車頂 Image:Suzuki Every Wagon PZ Turbo Special Hi-Roof
@@ -181,18 +182,19 @@ PzTurbo Special package 4WD.JPG|馬自達Scrum Wagon PZ Turbo Special
 ### 第六代/旅行車第三代（2015年迄今）
 
 2015年 - 2月18日正式大改款，是為第六代DA17V型、第三代DA17W型（Every
-Wagon）\[21\]。二種車型在[軸距](../Page/軸距.md "wikilink")2,430mm的設定下同樣分成標準車頂和高車頂二種；按照等級的不同，具有引擎啟動按鈕（push
+Wagon）\[21\]。二種車型在[軸距](https://zh.wikipedia.org/wiki/軸距 "wikilink")2,430mm的設定下同樣分成標準車頂和高車頂二種；按照等級的不同，具有引擎啟動按鈕（push
 start system）、免鑰匙引擎啟動系統（Smart
-Key）、自動登車踏板、電動側邊雙滑門、恆溫空調系統、加熱座椅及後視鏡、雷達波煞車輔助系統、ESP[車身動態穩定系統](../Page/电子稳定程序.md "wikilink")、雙前座SRS[安全氣囊](../Page/安全氣囊.md "wikilink")、16處置物空間等配備。搭載658c.c.直列三缸DOHC
-[R06A型渦輪增壓引擎](../Page/鈴木R族引擎#R06A型.md "wikilink")（附中冷器），可輸出64hp /
-6,000rpm的馬力和9.7kg·m / 3,000rpm的扭力，為Every
+Key）、自動登車踏板、電動側邊雙滑門、恆溫空調系統、加熱座椅及後視鏡、雷達波煞車輔助系統、ESP[車身動態穩定系統](../Page/电子稳定程序.md "wikilink")、雙前座SRS[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、16處置物空間等配備。搭載658c.c.直列三缸DOHC
+[R06A型渦輪增壓引擎](https://zh.wikipedia.org/wiki/鈴木R族引擎#R06A型 "wikilink")（附中冷器），可輸出64hp
+/ 6,000rpm的馬力和9.7kg·m / 3,000rpm的扭力，為Every
 Wagon全車系標配、Every頂級車型使用。另一具心臟則是Every標配的658c.c.直列三缸DOHC
-VVT [R06A型引擎](../Page/鈴木R族引擎#R06A型.md "wikilink")，具備49hp /
-5,700rpm、6.3kg·m /
+VVT
+[R06A型引擎](https://zh.wikipedia.org/wiki/鈴木R族引擎#R06A型 "wikilink")，具備49hp
+/ 5,700rpm、6.3kg·m /
 3,500rpm的功率輸出。至於變速系統，則可選擇五速手動排檔、四速自動排檔、五速AGS自手排[半自動排檔等](../Page/半自动变速器.md "wikilink")。
 
 同年6月25日針對[身心障礙人士推出二款福祉車輛](../Page/身心障礙.md "wikilink")：「Every
-Wagon輪椅移動車」及「Every輪椅移動車」\[22\]。後車門開口高度1,450mm、寬度1,340mm的[面積](../Page/面積.md "wikilink")，以及電動控制無鋼索式升降斜坡可提供身心障礙人士方便出入；寬廣的車室空間可提供前座二人、後座看護者與身心障礙人士各一人搭乘。
+Wagon輪椅移動車」及「Every輪椅移動車」\[22\]。後車門開口高度1,450mm、寬度1,340mm的[面積](https://zh.wikipedia.org/wiki/面積 "wikilink")，以及電動控制無鋼索式升降斜坡可提供身心障礙人士方便出入；寬廣的車室空間可提供前座二人、後座看護者與身心障礙人士各一人搭乘。
 
 同年9月29日Every/Every
 Wagon獲得[好設計獎](../Page/好設計獎.md "wikilink")，同時該公司的[第八代鈴木Alto/第三代Alto

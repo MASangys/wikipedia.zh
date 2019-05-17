@@ -1,11 +1,11 @@
 **Aqours**（）是[日本](../Page/日本.md "wikilink")《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[動畫公司](../Page/動畫.md "wikilink")[日昇動畫與唱片公司](../Page/日昇動畫.md "wikilink")[Lantis共同推出的的用户互动型企划作品](../Page/Lantis.md "wikilink")[LoveLive\!
-Sunshine\!\!中登场的女性校园偶像团体或](../Page/LoveLive!_Sunshine!!.md "wikilink")[声优组成的组合](../Page/声优.md "wikilink")。由于其名称源自拉丁语“Aqua”（水）与英语“Ours”（我们的），故也被華人圈称为“水团”\[1\]。
+magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日昇動畫與唱片公司](../Page/日昇動畫.md "wikilink")[Lantis共同推出的的用户互动型企划作品](../Page/Lantis.md "wikilink")[LoveLive\!
+Sunshine\!\!中登场的女性校园偶像团体或](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")[声优组成的组合](https://zh.wikipedia.org/wiki/声优 "wikilink")。由于其名称源自拉丁语“Aqua”（水）与英语“Ours”（我们的），故也被華人圈称为“水团”\[1\]。
 
 ## 介紹
 
 2015年2月28日，官方在《[电击G's
-magazine](../Page/电击G's_magazine.md "wikilink")》杂志上预告了新企划“LoveLive\!SunShine\!\!”的诞生。之后官方为决定新组合名称举行了投票，最终“Aqours”这一名称以4644票胜出\[2\]。2015年4月30日，官方在《电击G's
+magazine](https://zh.wikipedia.org/wiki/电击G's_magazine "wikilink")》杂志上预告了新企划“LoveLive\!SunShine\!\!”的诞生。之后官方为决定新组合名称举行了投票，最终“Aqours”这一名称以4644票胜出\[2\]。2015年4月30日，官方在《电击G's
 magazine》2015年6月号上正式公布了“LoveLive\!
 Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音的声优阵容。2015年10月7日，Aqours以《[你的心灵是否光芒闪耀？](../Page/你的心灵是否光芒闪耀？.md "wikilink")》单曲正式出道\[3\]。
 
@@ -43,35 +43,35 @@ Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/高海千歌.md" title="wikilink">高海千歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高海千歌" title="wikilink">高海千歌</a></p></td>
 <td><p><a href="../Page/伊波杏樹.md" title="wikilink">伊波杏樹</a></p></td>
 <td><p>高2</p></td>
 <td><p>08 / 01</p></td>
 <td><p>B型</p></td>
 <td><p>157cm</p></td>
 <td><p>82 / 59 / 83</p></td>
-<td><p><a href="../Page/橘色.md" title="wikilink">蜜柑色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘色" title="wikilink">蜜柑色</a></p></td>
 <td><p>蜜柑</p></td>
 <td><p><strong>CYaRon!</strong></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/櫻內梨子.md" title="wikilink">櫻內梨子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻內梨子" title="wikilink">櫻內梨子</a></p></td>
 <td><p><a href="../Page/逢田梨香子.md" title="wikilink">逢田梨香子</a></p></td>
 <td><p>高2</p></td>
 <td><p>09 / 19</p></td>
 <td><p>A型</p></td>
 <td><p>160cm</p></td>
 <td><p>80 / 58 / 82</p></td>
-<td><p><a href="../Page/日本传统色系#.E7.B4.85.E7.B4.AB.E8.89.B2.E7.B3.BB.md" title="wikilink">櫻色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本传统色系#.E7.B4.85.E7.B4.AB.E8.89.B2.E7.B3.BB" title="wikilink">櫻色</a></p></td>
 <td><p>鋼琴</p></td>
 <td><p><strong>Guilty Kiss</strong></p></td>
 <td><p>3</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/松浦果南.md" title="wikilink">松浦果南</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松浦果南" title="wikilink">松浦果南</a></p></td>
 <td><p><a href="../Page/諏訪奈奈香.md" title="wikilink">諏訪奈奈香</a></p></td>
 <td><p>高3</p></td>
 <td><p>02 / 10</p></td>
@@ -85,7 +85,7 @@ Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音�
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黑澤黛雅.md" title="wikilink">黑澤黛雅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑澤黛雅" title="wikilink">黑澤黛雅</a></p></td>
 <td><p><a href="../Page/小宮有紗.md" title="wikilink">小宮有紗</a></p></td>
 <td><p>高3</p></td>
 <td><p>01 / 01</p></td>
@@ -99,35 +99,35 @@ Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音�
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/渡邊曜.md" title="wikilink">渡邊曜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊曜" title="wikilink">渡邊曜</a></p></td>
 <td><p><a href="../Page/齊藤朱夏.md" title="wikilink">齊藤朱夏</a></p></td>
 <td><p>高2</p></td>
 <td><p>04 / 17</p></td>
 <td><p>AB型</p></td>
 <td><p>157cm</p></td>
 <td><p>82 / 57 / 81</p></td>
-<td><p><a href="../Page/水色.md" title="wikilink">水藍色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/水色" title="wikilink">水藍色</a></p></td>
 <td><p>帆船</p></td>
 <td><p><strong>CYaRon!</strong></p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/津島善子.md" title="wikilink">津島善子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/津島善子" title="wikilink">津島善子</a></p></td>
 <td><p><a href="../Page/小林愛香.md" title="wikilink">小林愛香</a></p></td>
 <td><p>高1</p></td>
 <td><p>07 / 13</p></td>
 <td><p>O型</p></td>
 <td><p>156cm</p></td>
 <td><p>79 / 58 / 80</p></td>
-<td><p><a href="../Page/灰色.md" title="wikilink">灰色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灰色" title="wikilink">灰色</a></p></td>
 <td><p>小惡魔</p></td>
 <td><p><strong>Guilty Kiss</strong></p></td>
 <td><p>6</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/國木田花丸.md" title="wikilink">國木田花丸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/國木田花丸" title="wikilink">國木田花丸</a></p></td>
 <td><p><a href="../Page/高槻加奈子.md" title="wikilink">高槻加奈子</a></p></td>
 <td><p>高1</p></td>
 <td><p>03 / 04</p></td>
@@ -141,7 +141,7 @@ Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音�
 <td><p>5</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/小原鞠莉.md" title="wikilink">小原鞠莉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小原鞠莉" title="wikilink">小原鞠莉</a></p></td>
 <td><p><a href="../Page/鈴木愛奈.md" title="wikilink">鈴木愛奈</a></p></td>
 <td><p>高3</p></td>
 <td><p>06 / 13</p></td>
@@ -155,14 +155,14 @@ Sunshine\!\!”的组合名称，同时公布了成员名字以及为其配音�
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黑泽露比.md" title="wikilink">黑泽露比</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑泽露比" title="wikilink">黑泽露比</a></p></td>
 <td><p><a href="../Page/降幡愛.md" title="wikilink">降幡愛</a></p></td>
 <td><p>高1</p></td>
 <td><p>09 / 21</p></td>
 <td><p>A型</p></td>
 <td><p>154cm</p></td>
 <td><p>76 / 56 / 79</p></td>
-<td><p><a href="../Page/粉色.md" title="wikilink">粉色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/粉色" title="wikilink">粉色</a></p></td>
 <td><p>棒棒糖</p></td>
 <td><p><strong>CYaRon!</strong></p></td>
 <td><p>5</p></td>
@@ -403,7 +403,7 @@ Phoenix</p></td>
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2015年10月7日</p></td>
-<td><p><strong><a href="../Page/你的心靈是否光芒閃耀？.md" title="wikilink">你的心靈是否光芒閃耀？</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/你的心靈是否光芒閃耀？" title="wikilink">你的心靈是否光芒閃耀？</a></strong></p></td>
 <td><p>3位</p></td>
 <td><p>CD+BD<br />
 CD+DVD</p></td>
@@ -415,7 +415,7 @@ CD+DVD盤</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2016年4月27日</p></td>
-<td><p><strong><a href="../Page/想在AQUARIUM戀愛.md" title="wikilink">想在AQUARIUM戀愛</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/想在AQUARIUM戀愛" title="wikilink">想在AQUARIUM戀愛</a></strong></p></td>
 <td><p>3位</p></td>
 <td><p>CD+BD<br />
 CD+DVD</p></td>
@@ -427,7 +427,7 @@ CD+DVD盤</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2017年4月5日</p></td>
-<td><p><strong><a href="../Page/HAPPY_PARTY_TRAIN.md" title="wikilink">HAPPY PARTY TRAIN</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/HAPPY_PARTY_TRAIN" title="wikilink">HAPPY PARTY TRAIN</a></strong></p></td>
 <td><p>2位</p></td>
 <td><p>CD+BD<br />
 CD+DVD</p></td>
@@ -447,29 +447,29 @@ CD+DVD盤</p></td>
     本次演唱会安排了日本国内及国外多个转播点进行卫星直播或延时录播。
     演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours First LoveLive\! 〜Step\!
     ZERO to
-    ONE\!\!〜](../Page/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜.md "wikilink")》於2017年9月27日發行。
+    ONE\!\!〜](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜 "wikilink")》於2017年9月27日發行。
 
 <!-- end list -->
 
   - LoveLive\! Sunshine\!\! Aqours 2nd LoveLive\! HAPPY PARTY TRAIN
     TOUR（）
-    分別於2017年8月5日和6日在、8月19日和20日在[神户](../Page/神户.md "wikilink")、9月29日和30日在[埼玉](../Page/埼玉县.md "wikilink")[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")所舉辦的第二場演唱會，也是Aqours以及LoveLive\!企划首次巡回演唱会。
+    分別於2017年8月5日和6日在、8月19日和20日在[神户](https://zh.wikipedia.org/wiki/神户 "wikilink")、9月29日和30日在[埼玉](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")所舉辦的第二場演唱會，也是Aqours以及LoveLive\!企划首次巡回演唱会。
     演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours 2nd LoveLive\! HAPPY PARTY
     TRAIN
-    TOUR](../Page/LoveLive!_Sunshine!!_Aqours_2nd_LoveLive!_HAPPY_PARTY_TRAIN_TOUR.md "wikilink")》於2018年4月25日發行。
+    TOUR](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!!_Aqours_2nd_LoveLive!_HAPPY_PARTY_TRAIN_TOUR "wikilink")》於2018年4月25日發行。
 
 <!-- end list -->
 
   - Saint Snow PRESENTS LOVELIVE\! SUNSHINE\!\! HAKODATE UNIT CARNIVAL
     2018年4月27日和28日在所舉辦的其他活動演唱會，也是首場以小隊形式及Saint Snow首度參與演出的演唱會。
     演唱會當天的影片《[Saint Snow PRESENTS LOVELIVE\! SUNSHINE\!\! HAKODATE UNIT
-    CARNIVAL](../Page/Saint_Snow_PRESENTS_LOVELIVE!_SUNSHINE!!_HAKODATE_UNIT_CARNIVAL.md "wikilink")》於2018年10月24日發行。
+    CARNIVAL](https://zh.wikipedia.org/wiki/Saint_Snow_PRESENTS_LOVELIVE!_SUNSHINE!!_HAKODATE_UNIT_CARNIVAL "wikilink")》於2018年10月24日發行。
 
 <!-- end list -->
 
   - LoveLive\! Sunshine\!\! Aqours 3rd LoveLive\! Tour ～WONDERFUL
     STORIES～（）
-    2018年6月9日和10日在埼玉[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")、6月16日和17日在[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")、7月7日和8日在所舉辦的第三場演唱會，也是Aqours、Saint
+    2018年6月9日和10日在埼玉[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")、6月16日和17日在[大阪城音樂廳](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")、7月7日和8日在所舉辦的第三場演唱會，也是Aqours、Saint
     snow（Saint Aqours Snow）以及LoveLive\!企劃第二次巡回演唱会。
 
 <!-- end list -->
@@ -481,8 +481,8 @@ CD+DVD盤</p></td>
 <!-- end list -->
 
   - LOVE LIVE\! SUNSHINE\!\! Aqours World LoveLive\! ASIA TOUR 2019
-    首次[亚洲巡回演唱会](../Page/亚洲.md "wikilink")。分别于2019年3月23日和24日在[上海](../Page/上海.md "wikilink")[国家会展中心虹馆EH](../Page/国家会展中心_\(上海\).md "wikilink")、4月6日和7日在[台北](../Page/台北.md "wikilink")[国际会议中心](../Page/台北国际会议中心.md "wikilink")、预定4月13日和14日在[千叶](../Page/千叶市.md "wikilink")[幕张展览馆](../Page/幕张展览馆.md "wikilink")、4月20日和21日在[首尔](../Page/首尔.md "wikilink")[高丽大学化汀体育馆举行](../Page/高丽大学.md "wikilink")。
-    成员[小宫有纱因身体不适缺席了上海和台北两站第一天的部分演出及第二天的全部演出](../Page/小宫有纱.md "wikilink")，其后被确诊为[荨麻疹](../Page/荨麻疹.md "wikilink")，缺席千叶站和首尔站的全部演出。
+    首次[亚洲巡回演唱会](../Page/亚洲.md "wikilink")。分别于2019年3月23日和24日在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[国家会展中心虹馆EH](https://zh.wikipedia.org/wiki/国家会展中心_\(上海\) "wikilink")、4月6日和7日在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[国际会议中心](https://zh.wikipedia.org/wiki/台北国际会议中心 "wikilink")、预定4月13日和14日在[千叶](https://zh.wikipedia.org/wiki/千叶市 "wikilink")[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")、4月20日和21日在[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")[高丽大学化汀体育馆举行](https://zh.wikipedia.org/wiki/高丽大学 "wikilink")。
+    成员[小宫有纱因身体不适缺席了上海和台北两站第一天的部分演出及第二天的全部演出](https://zh.wikipedia.org/wiki/小宫有纱 "wikilink")，其后被确诊为[荨麻疹](../Page/荨麻疹.md "wikilink")，缺席东京站和首尔站的全部演出。
 
 <!-- end list -->
 

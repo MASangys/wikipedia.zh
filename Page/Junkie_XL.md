@@ -1,5 +1,5 @@
 **湯姆·霍肯伯格**（，）或稱作**Junkie
-XL**和**JXL**，是一位[荷蘭男音樂家](../Page/荷蘭.md "wikilink")、多重器樂演奏家、作曲家與監製。「Junkie」代表著「吸毒者」，他對「Junkie
+XL**和**JXL**，是一位[荷蘭男音樂家](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、多重器樂演奏家、作曲家與監製。「Junkie」代表著「吸毒者」，他對「Junkie
 XL」一名解釋，當自己過度勞累時就永不會到達那種地步，而「XL」則代表著「擴大視野」。他時常與[漢斯·季默合作](../Page/漢斯·季默.md "wikilink")。
 
 ## 作品列表
@@ -9,33 +9,34 @@ XL」一名解釋，當自己過度勞累時就永不會到達那種地步，而
   - 2011：《[功夫熊貓2](../Page/功夫熊貓2.md "wikilink")》-其他音樂
   - 2012：《[馬達加斯加3：歐洲大圍捕](../Page/馬達加斯加3：歐洲大圍捕.md "wikilink")》-作曲，更多音樂
   - 2012：《[黑暗騎士：黎明昇起](../Page/黑暗騎士：黎明昇起.md "wikilink")》-作曲，更多音樂
-  - 2013：《[超人：鋼鐵英雄](../Page/超人：鋼鐵英雄.md "wikilink")》-作曲，更多音樂
-  - 2013：《[決勝機密](../Page/決勝機密.md "wikilink")》-作曲
-  - 2014：《[300壯士：帝國崛起](../Page/300壯士：帝國崛起.md "wikilink")》-作曲
+  - 2013：《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》-作曲，更多音樂
+  - 2013：《[決勝機密](https://zh.wikipedia.org/wiki/決勝機密 "wikilink")》-作曲
+  - 2014：《[300壯士：帝國崛起](https://zh.wikipedia.org/wiki/300壯士：帝國崛起 "wikilink")》-作曲
   - 2014：《[蜘蛛人驚奇再起2：電光之戰](../Page/蜘蛛人驚奇再起2：電光之戰.md "wikilink")》-作曲（與[漢斯·季默合作](../Page/漢斯·季默.md "wikilink")）
-  - 2014：《[分歧者](../Page/分歧者_\(電影\).md "wikilink")》-作曲
+  - 2014：《[分歧者](https://zh.wikipedia.org/wiki/分歧者_\(電影\) "wikilink")》-作曲
   - 2015：《[一夜狂奔](../Page/一夜狂奔.md "wikilink")》-作曲
-  - 2015：《[瘋狂麥斯：憤怒道](../Page/瘋狂麥斯：憤怒道.md "wikilink")》-作曲\[1\]
+  - 2015：《[瘋狂麥斯：憤怒道](https://zh.wikipedia.org/wiki/瘋狂麥斯：憤怒道 "wikilink")》-作曲\[1\]
   - 2015：《[星光殺機](../Page/星光殺機.md "wikilink")》-作曲
   - 2015：《[黑勢力](../Page/黑勢力_\(2015年電影\).md "wikilink")》-作曲\[2\]
   - 2016：《[飆風特攻](../Page/飆風特攻.md "wikilink")》-作曲
   - 2016：《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》-作曲\[3\]
-  - 2016：《[蝙蝠俠對超人：正義曙光](../Page/蝙蝠俠對超人：正義曙光.md "wikilink")》-作曲（與漢斯·季默合作）\[4\]
-  - 2016：《[走過煉獄的女人](../Page/走過煉獄的女人.md "wikilink")》-作曲
-  - 2016：《[幽靈空間](../Page/幽靈空間.md "wikilink")》-作曲
-  - 2017：《[黑塔](../Page/黑塔_\(電影\).md "wikilink")》-作曲
-  - 2018：《[古墓奇兵](../Page/古墓奇兵_\(2018年電影\).md "wikilink")》-作曲
-  - 2019：《[艾莉塔：戰鬥天使](../Page/艾莉塔：戰鬥天使.md "wikilink")》-作曲
+  - 2016：《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》-作曲（與漢斯·季默合作）\[4\]
+  - 2016：《[走過煉獄的女人](https://zh.wikipedia.org/wiki/走過煉獄的女人 "wikilink")》-作曲
+  - 2016：《[幽靈空間](https://zh.wikipedia.org/wiki/幽靈空間 "wikilink")》-作曲
+  - 2017：《[黑塔](https://zh.wikipedia.org/wiki/黑塔_\(電影\) "wikilink")》-作曲
+  - 2018：《[古墓奇兵](https://zh.wikipedia.org/wiki/古墓奇兵_\(2018年電影\) "wikilink")》-作曲
+  - 2019：《[艾莉塔：戰鬥天使](https://zh.wikipedia.org/wiki/艾莉塔：戰鬥天使 "wikilink")》-作曲
 
 ### 電子遊戲
 
   - 2007：《[極速快感：職業街頭](../Page/極速快感：職業街頭.md "wikilink")》-作曲
   - 2009：《[模擬市民3](../Page/模擬市民3.md "wikilink")》-作曲
-  - 2010：《[靚影特務](../Page/靚影特務.md "wikilink")》-原始混音
+  - 2010：《[靚影特務](https://zh.wikipedia.org/wiki/靚影特務 "wikilink")》-原始混音
   - 2010：《[模擬市民3：夜店人生](../Page/模擬市民3：夜店人生.md "wikilink")》-原創音樂
   - 2011：《[黑街聖徒3](../Page/黑街聖徒3.md "wikilink")》-作曲
-  - 2011：《[暗黑孢子](../Page/暗黑孢子.md "wikilink")》-作曲
-  - 2012：《[質量效應3-Citadel DLC](../Page/質量效應3.md "wikilink")》-作曲
+  - 2011：《[暗黑孢子](https://zh.wikipedia.org/wiki/暗黑孢子 "wikilink")》-作曲
+  - 2012：《[質量效應3-Citadel
+    DLC](https://zh.wikipedia.org/wiki/質量效應3 "wikilink")》-作曲
 
 ## 參考資料
 

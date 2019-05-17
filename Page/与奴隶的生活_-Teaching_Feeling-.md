@@ -1,4 +1,4 @@
-是由日本同人社團FreakilyCharming製作的[養成類型](../Page/養成.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2015年10月27日於[DMM.com旗下網站DMM同人](../Page/DMM.com.md "wikilink").R18及[DLsite.com上以](../Page/DLsite.com.md "wikilink")[數位下載方式發售](../Page/數位下載.md "wikilink")。在遊戲中玩家將扮演一名醫生並照顧一名傷痕累累的女孩。
+是由日本同人社團FreakilyCharming製作的[養成類型](https://zh.wikipedia.org/wiki/養成 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2015年10月27日於[DMM.com旗下網站DMM同人](../Page/DMM.com.md "wikilink").R18及[DLsite.com上以](https://zh.wikipedia.org/wiki/DLsite.com "wikilink")[數位下載方式發售](https://zh.wikipedia.org/wiki/數位下載 "wikilink")。在遊戲中玩家將扮演一名醫生並照顧一名傷痕累累的女孩。
 
 ## 系統
 

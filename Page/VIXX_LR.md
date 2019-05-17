@@ -1,15 +1,15 @@
 **VIXX
-LR**（），是[韓國](../Page/韓國.md "wikilink")[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2015年所推出的[VIXX子團體](../Page/VIXX.md "wikilink")，由LEO、RAVI兩名成員組成。2015年8月17日公開首張迷你專輯《[Beautiful
+LR**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2015年所推出的[VIXX子團體](../Page/VIXX.md "wikilink")，由LEO、RAVI兩名成員組成。2015年8月17日公開首張迷你專輯《[Beautiful
 Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
 
 ## 成員列表
 
-| 成員列表                              |
-| --------------------------------- |
-| 藝名                                |
-| 原文                                |
-| [LEO](../Page/鄭澤運.md "wikilink")  |
-| [RAVI](../Page/金元植.md "wikilink") |
+| 成員列表                                                 |
+| ---------------------------------------------------- |
+| 藝名                                                   |
+| 原文                                                   |
+| [LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")  |
+| [RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink") |
 
 ## 作品
 
@@ -54,7 +54,7 @@ Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
 <td style="text-align: left;"><p>首張迷你專輯《<strong>Beautiful Liar</strong>》</p>
 <ul>
 <li>發行日期：2015年8月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -87,7 +87,7 @@ Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
 <td style="text-align: left;"><p>日本精選輯《<strong>Complete LR</strong>》</p>
 <ul>
 <li>發行日期：2018年1月24日</li>
-<li>語言：韓語、<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：韓語、<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>

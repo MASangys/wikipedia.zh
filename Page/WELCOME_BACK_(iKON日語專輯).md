@@ -1,11 +1,11 @@
 《**WELCOME
-BACK**》是[韓國男子組合](../Page/韓國.md "wikilink")[iKON首張日語](../Page/iKON.md "wikilink")[專輯](../Page/專輯.md "wikilink")，在2016年1月13日以三個版本：CD盤、CD+DVD與2CD+2DVD
+BACK**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[iKON首張日語](https://zh.wikipedia.org/wiki/iKON "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年1月13日以三個版本：CD盤、CD+DVD與2CD+2DVD
 DELUXE EDITION推出\[1\]。
 
 ## 背景
 
-早於2015年10月，[YGEX已為iKON於日本舉行粉絲見面會](../Page/YGEX.md "wikilink")「iKON FAN
-MEETING 2015 IN JAPAN ～iKONTACT～」，又在28日線上發行收錄《RHYTHM TA》、《MY
+早於2015年10月，[YGEX已為iKON於日本舉行粉絲見面會](https://zh.wikipedia.org/wiki/YGEX "wikilink")「iKON
+FAN MEETING 2015 IN JAPAN ～iKONTACT～」，又在28日線上發行收錄《RHYTHM TA》、《MY
 TYPE》、《AIRPLANE》與其純音樂版的迷你專輯《WELCOME BACK -EP-》\[2\]。
 
 到11月20日，官方公布iKON將推出正規日語專輯\[3\]，12月14日發布詳細內容，並將專輯定名為《WELCOME BACK》\[4\]。

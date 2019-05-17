@@ -53,11 +53,12 @@ SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》中以8,404分獲得**
 Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。
 
 7月21日於《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》中以9,154分獲得**第三個一位**。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以9,154分獲得**第三個一位**。
 
-7月22日於《[Music Bank](../Page/KBS音樂銀行.md "wikilink")》中以6,851分獲得**第四個一位**。
+7月22日於《[Music
+Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》中以6,851分獲得**第四個一位**。
 
-7月24日於《[人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")》中以10,328分獲得**第五個一位**。
+7月24日於《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中以10,328分獲得**第五個一位**。
 
 7月28日於《M\! Countdown》中以9,406分獲得**第六個一位**。
 
@@ -179,7 +180,7 @@ FLOWER》、以人魚公主的童話為靈感來源的《MERMAID》、柔和R\&B
 <tr class="even">
 <td><p><a href="https://www.youtube.com/watch?v=FDSgo6CMqnA">7月21日</a></p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -202,8 +203,8 @@ FLOWER》、以人魚公主的童話為靈感來源的《MERMAID》、柔和R\&B
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=shjj6wxITbM">7月22日</a></p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS2</a></p></td>
-<td><p><a href="../Page/KBS音樂銀行.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS音樂銀行" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -227,7 +228,7 @@ FLOWER》、以人魚公主的童話為靈感來源的《MERMAID》、柔和R\&B
 <tr class="even">
 <td><p>7月24日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/SBS人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -310,10 +311,10 @@ FLOWER》、以人魚公主的童話為靈感來源的《MERMAID》、柔和R\&B
 
 ## 發行歷史
 
-| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司         | 發行公司                                   |
-| ---- | ---------- | ------------------------------------------------------------------- | ------------ | -------------------------------------- |
-| 全球   | 2016年7月11日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | Source Music | [LOEN娛樂](../Page/LOEN娛樂.md "wikilink") |
-|      |            |                                                                     |              |                                        |
+| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司         | 發行公司                                                      |
+| ---- | ---------- | ------------------------------------------------------------------- | ------------ | --------------------------------------------------------- |
+| 全球   | 2016年7月11日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | Source Music | [LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink") |
+|      |            |                                                                     |              |                                                           |
 
 ## 參考資料
 

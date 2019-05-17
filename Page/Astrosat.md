@@ -5,13 +5,13 @@
 在搭載於衛星上的印度X射線天文學設備（Indian X-ray Astronomy
 Experiment，IXAE）於1996年成功進行以後，印度空间研究组织（ISRO）於2004年批准更進一步開發更加全面性的天文衛星，也就是今日的Astrosat\[3\]。
 
-Astrosat計畫有多個印度和其他國家的研究機構參與衛星的製造。而該計畫將涵蓋的天文物理學重要領域距離尺度從[太陽系天體到遙遠的](../Page/太陽系.md "wikilink")[宇宙尺度天體](../Page/宇宙學.md "wikilink")；並且從熱[白矮星脈動到](../Page/白矮星.md "wikilink")[活动星系核隨時間的變化都可使用Astrosat進行研究](../Page/活动星系核.md "wikilink")，時間尺度可從數毫秒到數日。
+Astrosat計畫有多個印度和其他國家的研究機構參與衛星的製造。而該計畫將涵蓋的天文物理學重要領域距離尺度從[太陽系天體到遙遠的](https://zh.wikipedia.org/wiki/太陽系 "wikilink")[宇宙尺度天體](https://zh.wikipedia.org/wiki/宇宙學 "wikilink")；並且從熱[白矮星脈動到](../Page/白矮星.md "wikilink")[活动星系核隨時間的變化都可使用Astrosat進行研究](https://zh.wikipedia.org/wiki/活动星系核 "wikilink")，時間尺度可從數毫秒到數日。
 
 Astrosat
-是位於近地的多波段天文衛星。它搭載的五項設備可觀測[電磁波譜上的](../Page/電磁波譜.md "wikilink")[可見光](../Page/可見光.md "wikilink")（320–530
-nm）、[近紫外線](../Page/紫外線.md "wikilink")（180–300 nm）、遠紫外線（130–180
-nm）、[軟X射線](../Page/X射线.md "wikilink") （0.3–8 keV和2–10
-keV）以及硬X射线（3–80 keV 與 10–150 keV）。
+是位於近地的多波段天文衛星。它搭載的五項設備可觀測[電磁波譜上的](https://zh.wikipedia.org/wiki/電磁波譜 "wikilink")[可見光](https://zh.wikipedia.org/wiki/可見光 "wikilink")（320–530
+nm）、[近紫外線](https://zh.wikipedia.org/wiki/紫外線 "wikilink")（180–300
+nm）、遠紫外線（130–180 nm）、[軟X射線](../Page/X射线.md "wikilink")
+（0.3–8 keV和2–10 keV）以及硬X射线（3–80 keV 與 10–150 keV）。
 
 Astrosat
 已於2015年9月28日在[萨迪什·达万航天中心以](../Page/萨迪什·达万航天中心.md "wikilink")[PSLV-XL火箭發射成功](../Page/極軌衛星運載火箭.md "wikilink")。
@@ -25,19 +25,19 @@ Astrosat 的主要科學任務集中在如下領域：
   - 可同時監測宇宙中電磁輻射源在多個不同波段的強度變化。
   - 監測是否有新的X射線瞬變現象發生。
   - 硬X射線與紫外線巡天。
-  - X射線聯星、[活动星系核](../Page/活动星系核.md "wikilink")、[超新星遗迹](../Page/超新星遗迹.md "wikilink")、星系團與星冕的寬波段光譜研究。
+  - X射線聯星、[活动星系核](https://zh.wikipedia.org/wiki/活动星系核 "wikilink")、[超新星遗迹](../Page/超新星遗迹.md "wikilink")、星系團與星冕的寬波段光譜研究。
   - X射線源期性與非週期性光度變化。
 
 Astrosat
 計畫可進行涵蓋無線電波、紅外線、可見光、紫外線與X射線的多光譜波段觀測。觀測目標可以是特定的天體，也可以進行大範圍巡天。當進行無線電波、可見光與紅外線觀測時，將會透過配合該計畫的地面望遠鏡進行；如果是較高能量的紫外線、X射線與配合的可見光觀測時，則使用Astrosat衛星上的儀器進行\[4\]。
 
-Astrosat任務也同時研究來自不同射線源的接近同時發生的多波段資料。例如在一個[聯星系統中](../Page/聯星.md "wikilink")，最接近緻密天體的區域主要發射[X射線](../Page/X射線.md "wikilink")，而[吸積盤區域主要發射紫外線與可見光](../Page/吸積盤.md "wikilink")，而伴星則主要發射可見光。
+Astrosat任務也同時研究來自不同射線源的接近同時發生的多波段資料。例如在一個[聯星系統中](../Page/聯星.md "wikilink")，最接近緻密天體的區域主要發射[X射線](https://zh.wikipedia.org/wiki/X射線 "wikilink")，而[吸積盤區域主要發射紫外線與可見光](https://zh.wikipedia.org/wiki/吸積盤 "wikilink")，而伴星則主要發射可見光。
 
 Astrosat還可進行以下研究：
 
   - 寬能帶的中低解析度光譜觀測，主要著重於X射線輻射體的研究。
   - X射線雙星時間上的周期和非週期性的變化。
-  - [X射线脉冲星脈動研究](../Page/X射线脉冲星.md "wikilink")。
+  - [X射线脉冲星脈動研究](https://zh.wikipedia.org/wiki/X射线脉冲星 "wikilink")。
   - X射線雙星的、閃爍、爆發等現象。
   - 活动星系核短期和長期輻射強度變化。
   - 軟/硬X射線與紫外線/可見光時滯研究
@@ -58,7 +58,7 @@ Asrosat 的科學儀器總重量為1513公斤，總共為以下六項：
   - 軟X射線望遠鏡（Soft X-ray imaging Telescope
     ，，SXT）則是使用聚焦系統與放置於焦平面的深耗盡[感光耦合元件](../Page/感光耦合元件.md "wikilink")（CCD）照相機拍攝能帶0.3–8.0
     keV
-    的X射線影像。它的聚焦系統是41層鍍金的同心圓錐體，類似[掠射望遠鏡](../Page/掠射望遠鏡.md "wikilink")（有效面積120平方公分）。而焦平面上的CCD照相機則非常類似[雨燕卫星的X射線望遠鏡](../Page/雨燕卫星.md "wikilink")。CCD
+    的X射線影像。它的聚焦系統是41層鍍金的同心圓錐體，類似[掠射望遠鏡](https://zh.wikipedia.org/wiki/掠射望遠鏡 "wikilink")（有效面積120平方公分）。而焦平面上的CCD照相機則非常類似[雨燕卫星的X射線望遠鏡](https://zh.wikipedia.org/wiki/雨燕卫星 "wikilink")。CCD
     工作環境則是經由至−80 °C 的溫度之下\[8\]。
 
   - X射線計時與低解析度光譜研究設備（X-ray timing and low-resolution spectral
@@ -72,7 +72,7 @@ Asrosat 的科學儀器總重量為1513公斤，總共為以下六項：
   - 成像儀（Cadmium Zinc Telluride
     Imager，CZTI）是硬X射線成像儀器。該儀器包含像素化排列的碲化鋅鎘感應器陣列，有效面積500平方公分，可偵測能帶為10
     – 150 [kev](../Page/電子伏特.md "wikilink")\[10\]。該儀器的感應器感測效率在100
-    keV下可接近100%，並且相較於和[正比计数器](../Page/正比计数器.md "wikilink")，它的能量解析度極為優異（60
+    keV下可接近100%，並且相較於和[正比计数器](https://zh.wikipedia.org/wiki/正比计数器 "wikilink")，它的能量解析度極為優異（60
     keV下約2%）。因為像素尺寸較小，可獲得中解析度的硬X射線影像。CZTI
     配備一個二維的以成像。觀測的天空背景亮度分布則是由對應感應器編碼演模的陰影模式進行計算獲得。除了光譜研究，CZTI還可在100-300
     keV 範圍進行敏銳的銀河X射線源偏振量測\[11\]。
@@ -82,7 +82,7 @@ Asrosat 的科學儀器總重量為1513公斤，總共為以下六項：
 
   - 帶電粒子監測器（Charged Particle Monitor，CPM）將是Astrosat的酬載中用來控制LAXPC、SXT 和
     SSM 操作的設備。雖然衛星的軌道傾角將在8°
-    甚至更低，它三分之二的軌道將通過[南大西洋異常區](../Page/南大西洋異常區.md "wikilink")，會有約15到20分鐘的時間內有大量帶電質子和電子撞擊。當衛星進入南太平洋異常區時，CPM將使受控制的儀器高電壓降低或暫停資料使用以避免儀器感測器損壞，並使比例計數器的老化程度下降到最低。
+    甚至更低，它三分之二的軌道將通過[南大西洋異常區](https://zh.wikipedia.org/wiki/南大西洋異常區 "wikilink")，會有約15到20分鐘的時間內有大量帶電質子和電子撞擊。當衛星進入南太平洋異常區時，CPM將使受控制的儀器高電壓降低或暫停資料使用以避免儀器感測器損壞，並使比例計數器的老化程度下降到最低。
 
 ## 地面支援
 
@@ -106,11 +106,11 @@ Astrosat 研究計畫有以下研究單位參與：
 
   - [印度空间研究组织](../Page/印度空间研究组织.md "wikilink")
 
-  - ，[孟買](../Page/孟買.md "wikilink")
+  - ，[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")
 
   - ，[班加羅爾](../Page/班加羅爾.md "wikilink")
 
-  - [拉曼研究所](../Page/拉曼研究所.md "wikilink")，班加羅爾
+  - [拉曼研究所](https://zh.wikipedia.org/wiki/拉曼研究所 "wikilink")，班加羅爾
 
   - ，[浦那](../Page/浦那.md "wikilink")
 

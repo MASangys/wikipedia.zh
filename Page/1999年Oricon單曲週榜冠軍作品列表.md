@@ -1,4 +1,4 @@
-**1999年Oricon單曲週榜冠軍作品列表**列出1999年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**1999年Oricon單曲週榜冠軍作品列表**列出1999年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有35首冠軍單曲誕生，其中[坂本龍一的](../Page/坂本龍一.md "wikilink")《energy
 flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
@@ -63,7 +63,7 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 <tr class="odd">
 <td><p>3月8日</p></td>
 <td><p><a href="../Page/不要停止的純真.md" title="wikilink">不要停止的純真</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>35.4</p></td>
 <td><p>1</p></td>
 </tr>
@@ -111,7 +111,7 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 </tr>
 <tr class="even">
 <td><p>4月26日</p></td>
-<td><p><a href="../Page/LOVE～Destiny～.md" title="wikilink">LOVE～Destiny～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOVE～Destiny～" title="wikilink">LOVE～Destiny～</a></p></td>
 <td><p><a href="../Page/濱崎步.md" title="wikilink">濱崎步</a></p></td>
 <td><p>7.0</p></td>
 <td><p>1</p></td>
@@ -119,7 +119,7 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 <tr class="odd">
 <td><p>5月3日</p></td>
 <td><p>HEAVEN'SDRIVE</p></td>
-<td><p><a href="../Page/彩虹樂團.md" title="wikilink">彩虹樂團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彩虹樂團" title="wikilink">彩虹樂團</a></p></td>
 <td><p>63.4</p></td>
 <td><p>1</p></td>
 </tr>
@@ -154,14 +154,14 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 <tr class="even">
 <td><p>6月7日</p></td>
 <td><p><a href="../Page/Flower_(近畿小子單曲).md" title="wikilink">Flower</a></p></td>
-<td><p><a href="../Page/Kinki_Kids.md" title="wikilink">Kinki Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kinki_Kids" title="wikilink">Kinki Kids</a></p></td>
 <td><p>36.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月14日</p></td>
-<td><p><a href="../Page/Pieces_(L&#39;Arc~en~ciel單曲).md" title="wikilink">Pieces</a></p></td>
-<td><p><a href="../Page/彩虹樂團.md" title="wikilink">彩虹樂團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pieces_(L&#39;Arc~en~ciel單曲)" title="wikilink">Pieces</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彩虹樂團" title="wikilink">彩虹樂團</a></p></td>
 <td><p>48.3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -286,8 +286,8 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 </tr>
 <tr class="odd">
 <td><p>10月18日</p></td>
-<td><p><a href="../Page/雨のMelody/to_Heart.md" title="wikilink">雨的旋律/to Heart</a></p></td>
-<td><p><a href="../Page/Kinki_Kids.md" title="wikilink">Kinki Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雨のMelody/to_Heart" title="wikilink">雨的旋律/to Heart</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kinki_Kids" title="wikilink">Kinki Kids</a></p></td>
 <td><p>47.0</p></td>
 <td><p>1</p></td>
 </tr>
@@ -308,13 +308,13 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 <tr class="even">
 <td><p>11月8日</p></td>
 <td><p>LOVE FLIES</p></td>
-<td><p><a href="../Page/彩虹樂團.md" title="wikilink">彩虹樂團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彩虹樂團" title="wikilink">彩虹樂團</a></p></td>
 <td><p>36.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月15日</p></td>
-<td><p><a href="../Page/A・RA・SHI.md" title="wikilink">A・RA・SHI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A・RA・SHI" title="wikilink">A・RA・SHI</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>55.7</p></td>
 <td><p>1</p></td>
@@ -335,7 +335,7 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 </tr>
 <tr class="even">
 <td><p>12月6日</p></td>
-<td><p><a href="../Page/ちょこっとLOVE.md" title="wikilink">ちょこっとLOVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ちょこっとLOVE" title="wikilink">ちょこっとLOVE</a></p></td>
 <td><p><a href="../Page/小早安.md" title="wikilink">小早安</a></p></td>
 <td><p>28.7</p></td>
 <td><p>1</p></td>
@@ -349,7 +349,7 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 </tr>
 <tr class="even">
 <td><p>12月20日</p></td>
-<td><p><a href="../Page/kanariya.md" title="wikilink">kanariya</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/kanariya" title="wikilink">kanariya</a></p></td>
 <td><p><a href="../Page/濱崎步.md" title="wikilink">濱崎步</a></p></td>
 <td><p>24.8</p></td>
 <td><p>1</p></td>
@@ -366,7 +366,7 @@ flow》（《ウラBTTB》）取得冠軍的週數最多（4週）。
 
 ## 參見
 
-  - [1999年Oricon專輯週榜冠軍作品列表](../Page/1999年Oricon專輯週榜冠軍作品列表.md "wikilink")
+  - [1999年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/1999年Oricon專輯週榜冠軍作品列表 "wikilink")
 
 ## 參考資料
 

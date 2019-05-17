@@ -1,4 +1,4 @@
-《**N.W.U**》是[韓國搖滾樂團](../Page/韓國.md "wikilink")[FTIsland的第八張](../Page/FTIsland.md "wikilink")[日語](../Page/日語.md "wikilink")[專輯](../Page/專輯.md "wikilink")，也是他們第七張由[華納唱片（日本）發行的專輯](../Page/華納音樂集團.md "wikilink")，在2016年4月6日以四個版本：通常盤、初回限定盤A、初回限定盤B及Primadonna盤推出\[1\]。打入Oricon單曲週榜首三名的單曲：《[PUPPY](../Page/PUPPY_\(FTIsland單曲\).md "wikilink")》在專輯推出前預先發行。
+《**N.W.U**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第八張](../Page/FTIsland.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們第七張由[華納唱片（日本）發行的專輯](../Page/華納音樂集團.md "wikilink")，在2016年4月6日以四個版本：通常盤、初回限定盤A、初回限定盤B及Primadonna盤推出\[1\]。打入Oricon單曲週榜首三名的單曲：《[PUPPY](../Page/PUPPY_\(FTIsland單曲\).md "wikilink")》在專輯推出前預先發行。
 
 ## 背景
 
@@ -54,10 +54,10 @@ AM》的音樂錄影帶\[8\]；後於25日提供了全碟試聽\[9\]。
 
 ## 發行歷史
 
-| 地區                             | 日期               | 格式                                                                         | 廠牌                                          |
-| ------------------------------ | ---------------- | -------------------------------------------------------------------------- | ------------------------------------------- |
-| [日本](../Page/日本.md "wikilink") | 2016年4月6日\[17\]  | [CD](../Page/CD.md "wikilink")、CD+DVD、[數位下載](../Page/數位音樂下載.md "wikilink") | [日本華納音樂](../Page/日本華納音樂.md "wikilink")      |
-| [台灣](../Page/台灣.md "wikilink") | 2016年4月15日\[18\] | CD+DVD                                                                     | [台灣華納音樂](../Page/華納音樂_\(台灣\).md "wikilink") |
+| 地區                                                | 日期               | 格式                                                                         | 廠牌                                          |
+| ------------------------------------------------- | ---------------- | -------------------------------------------------------------------------- | ------------------------------------------- |
+| [日本](../Page/日本.md "wikilink")                    | 2016年4月6日\[17\]  | [CD](../Page/CD.md "wikilink")、CD+DVD、[數位下載](../Page/數位音樂下載.md "wikilink") | [日本華納音樂](../Page/日本華納音樂.md "wikilink")      |
+| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") | 2016年4月15日\[18\] | CD+DVD                                                                     | [台灣華納音樂](../Page/華納音樂_\(台灣\).md "wikilink") |
 
 ## 參考資料
 

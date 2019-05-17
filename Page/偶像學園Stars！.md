@@ -1,23 +1,23 @@
 《**偶像活動Stars！**》（）是[BANDAI於](../Page/萬代.md "wikilink")2016年5月發售的遊戲，是繼前作《[偶像活動](../Page/Aikatsu！偶像活動！.md "wikilink")》的後繼機種，《偶像活動》系列的第2作。
 
-電視動畫第1部於2016年4月7日在[東京電視網開始播放](../Page/東京電視網.md "wikilink")。第2部於2017年4月6日起在東京電視網播放。[台灣從](../Page/台灣.md "wikilink")2017年10月22日開始在[MOMO親子台播出第](../Page/MOMO親子台.md "wikilink")1部，於2018年9月16日播出第2部。
+電視動畫第1部於2016年4月7日在[東京電視網開始播放](../Page/東京電視網.md "wikilink")。第2部於2017年4月6日起在東京電視網播放。[台灣從](https://zh.wikipedia.org/wiki/台灣 "wikilink")2017年10月22日開始在[MOMO親子台播出第一季](../Page/MOMO親子台.md "wikilink")，於2018年9月16日播出第二季。
 
 ## 遊戲概要
 
-於2016年5月開始啟用，採用DCD「[妖怪手錶](../Page/妖怪手錶.md "wikilink")"Ukiukipedia"」的O型直立式機台，同時也繼承了[隨選列印的功能](../Page/隨選列印.md "wikilink")，以直接列印卡片取代前作的機台掉卡機制。新機台更設立了衣服升級系統，並增加了[觸控螢幕與傳統按鈕一起進行遊戲](../Page/觸控螢幕.md "wikilink")。機台全面採讀取[QR碼](../Page/QR碼.md "wikilink")，至於舊版機台的卡片仍然可以應用在新機台上。
+於2016年5月開始啟用，採用DCD「[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")"Ukiukipedia"」的O型直立式機台，同時也繼承了[隨選列印的功能](https://zh.wikipedia.org/wiki/隨選列印 "wikilink")，以直接列印卡片取代前作的機台掉卡機制。新機台更設立了衣服升級系統，並增加了[觸控螢幕與傳統按鈕一起進行遊戲](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")。機台全面採讀取[QR碼](../Page/QR碼.md "wikilink")，至於舊版機台的卡片仍然可以應用在新機台上。
 
 改編電視動畫於2016年4月7日開始播放\[1\]。於Project發表會中發表於同年8月全國上映本作的劇場版。
 
 此外，為了慶祝2017年10月的《偶像活動！》的五周年，與前作的合作企劃於同年8月展開。
 
-2018年4月4日正式結束運行，日本在同年4月推出新機台[偶像活動Friends！](../Page/偶像活動Friends！.md "wikilink")。
+2018年4月4日正式結束運行，日本在同年4月推出新機台[偶像活動Friends！](https://zh.wikipedia.org/wiki/偶像活動Friends！ "wikilink")。
 
 ## 遊戲規則
 
 『**DATA CARDDASS 偶像活動Stars！**』是DATA
-CARDDASS系列的第2作。繼『[妖怪手錶](../Page/妖怪手錶.md "wikilink")』的直型最新機台『**DATA
+CARDDASS系列的第2作。繼『[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")』的直型最新機台『**DATA
 CARDDASS
-T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰式螢幕，保留舊機的三枚按鈕與觸碰式螢幕均有操作功能。卡片則改為按量印刷。而且，對比『[星光樂園](../Page/星光樂園.md "wikilink")』更能排出比通常大2倍的的卡片。
+T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰式螢幕，保留舊機的三枚按鈕與觸碰式螢幕均有操作功能。卡片則改為按量印刷。而且，對比『[星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")』更能排出比通常大2倍的的卡片。
 
 ### 遊戲方法
 
@@ -143,7 +143,7 @@ T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰�
 
   - 第2部（第51話 - 第100話）
 
-**虹野夢**大危機？！ 突然出現了一個豪華客船形態的偶像學園，名字叫做**維納斯方舟（Venus Ark）**！
+**虹野夢**大危機？！ 突然出現了一個豪華客船形態的偶像-{}-學園，名字叫做**維納斯方舟（Venus Ark）**！
 帶領著船的是完美偶像**艾爾莎・福特**， 她在環遊世界的同時，收集著優秀的偶像和品牌；
 然後發現了新的目標，就是四星學園的虹野夢。
 唱歌、跳舞、時尚秀、戲劇等等，還有維納斯方舟的偶像-{}-活動，超級頂尖，簡直是新時代的黎明。
@@ -204,7 +204,7 @@ T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰�
 <!-- end list -->
 
   -
-    學生的[電子手帳](../Page/電子手帳.md "wikilink")。收錄了「偶像活動卡片」的電子主題。
+    學生的[電子手帳](https://zh.wikipedia.org/wiki/電子手帳 "wikilink")。收錄了「偶像活動卡片」的電子主題。
 
 <!-- end list -->
 
@@ -242,7 +242,7 @@ T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰�
   - 企劃、原作：BN Pictures
   - 原案：萬代
   - 導演：佐藤照雄
-  - 總監督：[木村隆一](../Page/木村隆一.md "wikilink")
+  - 總監督：[木村隆一](https://zh.wikipedia.org/wiki/木村隆一 "wikilink")
   - 系列構成：柿原優子
   - 角色設計：愛敬由紀子
   - 設計協力：石川佳代子、森田岳士、渡部里美
@@ -330,7 +330,8 @@ T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰�
 
 :; 「So Beautiful Story」（第26話 - 第50話）
 
-:: 作詞：[こだまさおり](../Page/こだまさおり.md "wikilink")，作曲、編曲：（MONACA）
+::
+作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")，作曲、編曲：（MONACA）
 
 :: 主唱：るか（白鳥姬）、せな（虹野夢） from AIKATSU☆STARS！（第35話插入曲）
 
@@ -377,7 +378,8 @@ AIKATSU☆STARS！（第100話）
 
 :; 「ハートがスキ♡ップ」（第5、9話）
 
-:: 作詞：辻純更，作曲、編曲：[岡部啓一](../Page/岡部啓一.md "wikilink")（MONACA）
+::
+作詞：辻純更，作曲、編曲：[岡部啓一](https://zh.wikipedia.org/wiki/岡部啓一 "wikilink")（MONACA）
 
 :: 主唱：せな（虹野夢） from AIKATSU☆STARS！（第5、9話）
 
@@ -524,7 +526,7 @@ AIKATSU☆STARS！（第87話）
 :: 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：石濱翔（MONACA）
 
 :: 主唱：わか（星宮莓）、ふうり（霧矢葵）、すなお（紫吹蘭） from
-[STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")（第70話）
+[STAR☆ANIS](https://zh.wikipedia.org/wiki/STAR☆ANIS "wikilink")（第70話）
 
 :; 「Message of a Rainbow」（第73、79話）
 
@@ -562,7 +564,7 @@ AIKATSU☆STARS！（第87話）
 
 :; 「トキメキララン☆」（第13話）
 
-:: 作詞：[yura](../Page/yura.md "wikilink")，作曲、編曲：
+:: 作詞：[yura](https://zh.wikipedia.org/wiki/yura "wikilink")，作曲、編曲：
 
 :: 主唱：せな（虹野夢）、みき（早乙女亞子）from AIKATSU☆STARS！（第13話）
 
@@ -618,7 +620,7 @@ AIKATSU☆STARS！（第87話）
 <td><p>第1話</p></td>
 <td></td>
 <td><p>夢想的開端</p></td>
-<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a></p></td>
 <td><p>佐藤照雄</p></td>
 <td><p>イムガヒ<br />
 佐藤照雄</p></td>
@@ -644,8 +646,8 @@ AIKATSU☆STARS！（第87話）
 <td><p>第3話</p></td>
 <td></td>
 <td><p>朝向自我色彩的天空</p></td>
-<td><p><a href="../Page/成田良美.md" title="wikilink">成田良美</a></p></td>
-<td><p><a href="../Page/戶部敦夫.md" title="wikilink">戶部敦夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戶部敦夫" title="wikilink">戶部敦夫</a></p></td>
 <td><p>藤井康晶</p></td>
 <td></td>
 <td><p>4月21日</p></td>
@@ -657,7 +659,7 @@ AIKATSU☆STARS！（第87話）
 <td><p>無論何時都是100%！</p></td>
 <td></td>
 <td><p>北村真咲</p></td>
-<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
 <td><p>菊地功一</p></td>
 <td><p>4月28日</p></td>
 <td></td>
@@ -678,7 +680,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 <td><p>ROCK！搖滾女孩！</p></td>
 <td><p>成田良美</p></td>
-<td><p><a href="../Page/兒玉兼嗣.md" title="wikilink">兒玉兼嗣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兒玉兼嗣" title="wikilink">兒玉兼嗣</a></p></td>
 <td><p>德本善信</p></td>
 <td><p>三橋櫻子</p></td>
 <td><p>5月12日</p></td>
@@ -878,7 +880,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 <td><p>凍原歌姬，降臨！</p></td>
 <td><p>待田堂子</p></td>
-<td><p><a href="../Page/青木康直.md" title="wikilink">青木康直</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青木康直" title="wikilink">青木康直</a></p></td>
 <td><p>山地光人</p></td>
 <td><p>高橋晃</p></td>
 <td><p>9月15日</p></td>
@@ -1797,14 +1799,14 @@ AIKATSU☆STARS！（第87話）
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a></p></td>
 <td><p>2016年4月7日－2018年3月29日</p></td>
 <td><p>星期四 18:25－18:55</p></td>
@@ -1829,7 +1831,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td></td>
 <td></td>
@@ -1837,7 +1839,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td></td>
 <td></td>
@@ -1845,7 +1847,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td></td>
 <td></td>
@@ -1854,7 +1856,7 @@ AIKATSU☆STARS！（第87話）
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/BS_JAPAN.md" title="wikilink">BS JAPAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS_JAPAN" title="wikilink">BS JAPAN</a></p></td>
 <td><p>2016年4月11日－2018年4月2日</p></td>
 <td><p>星期一 17:00－17:29</p></td>
 <td><p>衛星電視</p></td>
@@ -1883,13 +1885,13 @@ AIKATSU☆STARS！（第87話）
 2016年7月14日－2018年4月5日</p></td>
 <td><p>星期二 21:30－22:00<br />
 星期四 21:30－22:00</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>有重播</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/福島縣.md" title="wikilink">福島縣</a></p></td>
-<td><p><a href="../Page/福島電視台.md" title="wikilink">福島電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島縣" title="wikilink">福島縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島電視台" title="wikilink">福島電視台</a></p></td>
 <td><p>2016年4月14日－2017年3月30日<br />
 2017年4月9日</p></td>
 <td><p>星期四 15:25－15:55<br />
@@ -1899,16 +1901,16 @@ AIKATSU☆STARS！（第87話）
 </tr>
 <tr class="even">
 <td><p><a href="../Page/廣島縣.md" title="wikilink">廣島縣</a></p></td>
-<td><p><a href="../Page/廣島HOME電視台.md" title="wikilink">廣島HOME電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣島HOME電視台" title="wikilink">廣島HOME電視台</a></p></td>
 <td><p>2016年4月17日－2017年3月26日<br />
 2017年4月2日－4月9日</p></td>
 <td><p>星期日 5:50－6:20<br />
 星期日 4:50－5:20</p></td>
-<td><p><a href="../Page/朝日電視網.md" title="wikilink">朝日電視網</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝日電視網" title="wikilink">朝日電視網</a></p></td>
 <td><p>只播到第50話</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/新潟縣.md" title="wikilink">新潟縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a></p></td>
 <td><p><a href="../Page/新潟綜合電視台.md" title="wikilink">新潟綜合電視台</a></p></td>
 <td><p>2016年5月7日－2018年4月14日</p></td>
 <td><p>星期六 11:15－11:45</p></td>
@@ -1916,16 +1918,16 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/滋賀縣.md" title="wikilink">滋賀縣</a></p></td>
-<td><p><a href="../Page/琵琶湖放送.md" title="wikilink">琵琶湖放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/滋賀縣" title="wikilink">滋賀縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琵琶湖放送" title="wikilink">琵琶湖放送</a></p></td>
 <td><p>2016年7月7日－不明</p></td>
 <td><p>星期四 17:30－18:00</p></td>
 <td><p>獨立UHF局</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/和歌山縣.md" title="wikilink">和歌山縣</a></p></td>
-<td><p><a href="../Page/和歌山電視台.md" title="wikilink">和歌山電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/和歌山縣" title="wikilink">和歌山縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/和歌山電視台" title="wikilink">和歌山電視台</a></p></td>
 <td><p>2016年9月19日－2018年8月20日</p></td>
 <td><p>星期一 17:30－18:00</p></td>
 <td></td>
@@ -2096,14 +2098,18 @@ AIKATSU☆STARS！（第87話）
 ### 前作
 
   - 機台條目 - [Aikatsu！偶像活動！](../Page/Aikatsu！偶像活動！.md "wikilink")
-  - 動畫條目 - [Aikatsu！偶像活動！(動畫)](../Page/偶像活動！_\(動畫\).md "wikilink")
+  - 動畫條目 -
+    [Aikatsu！偶像活動！(動畫)](https://zh.wikipedia.org/wiki/偶像活動！_\(動畫\) "wikilink")
   - 角色條目 - [Aikatsu！偶像活動！角色列表](../Page/Aikatsu！偶像活動！角色列表.md "wikilink")
-  - 配唱條目 - [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")、
+  - 配唱條目 -
+    [STAR☆ANIS](https://zh.wikipedia.org/wiki/STAR☆ANIS "wikilink")、
 
 ### 續作
 
-  - 機台、動畫條目 - [偶像活動Friends！](../Page/偶像活動Friends！.md "wikilink")
-  - 角色條目 - [偶像活動Friends！角色列表](../Page/偶像活動Friends！角色列表.md "wikilink")
+  - 機台、動畫條目 -
+    [偶像活動Friends！](https://zh.wikipedia.org/wiki/偶像活動Friends！ "wikilink")
+  - 角色條目 -
+    [偶像活動Friends！角色列表](https://zh.wikipedia.org/wiki/偶像活動Friends！角色列表 "wikilink")
   - 配唱條目 -
 
 ## 參考資料

@@ -1,4 +1,4 @@
-**Hanae**（，），[日本](../Page/日本.md "wikilink")[创作歌手](../Page/创作歌手.md "wikilink")，出生於[福岡縣](../Page/福岡縣.md "wikilink")。她的代表作为電視動畫《[元氣少女緣結神](../Page/元氣少女緣結神.md "wikilink")》主题曲。
+**Hanae**（，），[日本](../Page/日本.md "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，出生於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。她的代表作为電視動畫《[元氣少女緣結神](../Page/元氣少女緣結神.md "wikilink")》主题曲。
 
 ## 生平
 
@@ -138,7 +138,7 @@ Hunting」，得到唱片公司的赞赏。\[1\]
   -
   -
   -
-  - [Hanae](http://www.universal-music.co.jp/hanae/)在[日本環球音樂的官方網站](../Page/日本環球音樂.md "wikilink")
+  - [Hanae](http://www.universal-music.co.jp/hanae/)在[日本環球音樂的官方網站](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")
 
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
 [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")

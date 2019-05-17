@@ -1,23 +1,27 @@
-***Cupidesthes***是[灰蝶科](../Page/灰蝶科.md "wikilink")[眼灰蝶亞科](../Page/眼灰蝶亞科.md "wikilink")[犁灰蝶族裡的一個](../Page/犁灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。共有18個物種，分佈於非洲森林\[1\]。外型上出現[兩性異形](../Page/兩性異形.md "wikilink")。
+***Cupidesthes***是[灰蝶科](../Page/灰蝶科.md "wikilink")[眼灰蝶亞科](../Page/眼灰蝶亞科.md "wikilink")[犁灰蝶族裡的一個](../Page/犁灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有18個物種，分佈於非洲森林\[1\]。外型上出現[兩性異形](https://zh.wikipedia.org/wiki/兩性異形 "wikilink")。
 
 ## 物種
 
   - *Cupidesthes albida*
-  - [艾麗尖角灰蝶](../Page/艾麗尖角灰蝶.md "wikilink") *Cupidesthes arescopa*
+  - [艾麗尖角灰蝶](https://zh.wikipedia.org/wiki/艾麗尖角灰蝶 "wikilink")
+    *Cupidesthes arescopa*
   - *Cupidesthes caerulea*
   - *Cupidesthes cuprifascia*
   - *Cupidesthes eliasi*
   - *Cupidesthes jacksoni*
   - *Cupidesthes leonina*
-  - [石尖角灰蝶](../Page/石尖角灰蝶.md "wikilink") *Cupidesthes lithas*
+  - [石尖角灰蝶](https://zh.wikipedia.org/wiki/石尖角灰蝶 "wikilink") *Cupidesthes
+    lithas*
   - *Cupidesthes mimetica*
   - *Cupidesthes minor*
   - *Cupidesthes paludicola*
   - *Cupidesthes paralithas*
   - *Cupidesthes pungusei*
-  - [柔尖角灰蝶](../Page/柔尖角灰蝶.md "wikilink") *Cupidesthes robusta*
+  - [柔尖角灰蝶](https://zh.wikipedia.org/wiki/柔尖角灰蝶 "wikilink") *Cupidesthes
+    robusta*
   - *Cupidesthes salvatoris*
-  - [窗尖角灰蝶](../Page/窗尖角灰蝶.md "wikilink") *Cupidesthes thyrsis*
+  - [窗尖角灰蝶](https://zh.wikipedia.org/wiki/窗尖角灰蝶 "wikilink") *Cupidesthes
+    thyrsis*
   - *Cupidesthes vidua*
   - *Cupidesthes ysobelae*
 

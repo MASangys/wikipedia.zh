@@ -13,44 +13,52 @@ Studios。在收购数月后，社区关系经理Steve Hessel离开公司加盟S
 ## 由Ritual Entertainment开发的游戏
 
   - *[Quake Mission Pack No. 1: Scourge of
-    Armagon](../Page/Quake_\(video_game\)#Quake_Mission_Pack_No._1:_Scourge_of_Armagon.md "wikilink")*
-    ([Expansion pack](../Page/Expansion_pack.md "wikilink")) – (1997)
-    ([PC](../Page/IBM_PC_compatible.md "wikilink"))
-  - *[SiN](../Page/SiN.md "wikilink")* – (1998) (PC
-    ([Windows](../Page/Microsoft_Windows.md "wikilink") and
-    [Linux](../Page/Linux.md "wikilink"))
+    Armagon](https://zh.wikipedia.org/wiki/Quake_\(video_game\)#Quake_Mission_Pack_No._1:_Scourge_of_Armagon "wikilink")*
+    ([Expansion
+    pack](https://zh.wikipedia.org/wiki/Expansion_pack "wikilink")) –
+    (1997)
+    ([PC](https://zh.wikipedia.org/wiki/IBM_PC_compatible "wikilink"))
+  - *[SiN](https://zh.wikipedia.org/wiki/SiN "wikilink")* – (1998) (PC
+    ([Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+    and [Linux](../Page/Linux.md "wikilink"))
   - *[Heavy Metal:
-    F.A.K.K.²](../Page/Heavy_Metal:_F.A.K.K.².md "wikilink")* – (2000)
-    (PC (Windows and Linux),
-    [Mac](../Page/Apple_Macintosh.md "wikilink") ([Mac
-    OS](../Page/Mac_OS.md "wikilink") and [Mac OS
-    X](../Page/Mac_OS_X.md "wikilink")),
+    F.A.K.K.²](https://zh.wikipedia.org/wiki/Heavy_Metal:_F.A.K.K.² "wikilink")*
+    – (2000) (PC (Windows and Linux),
+    [Mac](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")
+    ([Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") and [Mac
+    OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")),
     [Dreamcast](../Page/Dreamcast.md "wikilink"))
   - *[Blair Witch Volume 3: The Elly Kedward
-    Tale](../Page/The_Blair_Witch_Project_\(video_games\)#Blair_Witch_Volume_3:_The_Elly_Kedward_Tale.md "wikilink")*
+    Tale](https://zh.wikipedia.org/wiki/The_Blair_Witch_Project_\(video_games\)#Blair_Witch_Volume_3:_The_Elly_Kedward_Tale "wikilink")*
     – (2000) (PC)
-  - *[SiN Gold](../Page/SiN.md "wikilink")* (port) – (2000)
-    ([Mac](../Page/Apple_Macintosh.md "wikilink"))
-  - *[反恐精英：零点行动](../Page/反恐精英：零点行动.md "wikilink")* – (PC)
+  - *[SiN Gold](https://zh.wikipedia.org/wiki/SiN "wikilink")* (port) –
+    (2000)
+    ([Mac](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink"))
+  - *[反恐精英：零点行动](https://zh.wikipedia.org/wiki/反恐精英：零点行动 "wikilink")* –
+    (PC)
   - *[Star Trek: Elite Force
-    II](../Page/Star_Trek:_Elite_Force_II.md "wikilink")* – (2003) (PC)
+    II](https://zh.wikipedia.org/wiki/Star_Trek:_Elite_Force_II "wikilink")*
+    – (2003) (PC)
   - *[Legacy of Kain:
-    Defiance](../Page/Legacy_of_Kain:_Defiance.md "wikilink")* – (2003)
-    ([PlayStation 2](../Page/PlayStation_2.md "wikilink"), Xbox, PC)
+    Defiance](https://zh.wikipedia.org/wiki/Legacy_of_Kain:_Defiance "wikilink")*
+    – (2003) ([PlayStation 2](../Page/PlayStation_2.md "wikilink"),
+    Xbox, PC)
   - *[Delta Force: Black Hawk Down: Team
-    Sabre](../Page/Delta_Force:_Black_Hawk_Down:_Team_Sabre.md "wikilink")*
+    Sabre](https://zh.wikipedia.org/wiki/Delta_Force:_Black_Hawk_Down:_Team_Sabre "wikilink")*
     (expansion) – (2004) (PC)
-  - *[SiN Episodes](../Page/SiN_Episodes.md "wikilink"): Emergence* –
-    (2006) (PC)
+  - *[SiN
+    Episodes](https://zh.wikipedia.org/wiki/SiN_Episodes "wikilink"):
+    Emergence* – (2006) (PC)
 
 ### 已取消开发的游戏
 
   - *[The Lord of the Rings: The Two
-    Towers](../Page/The_Lord_of_the_Rings:_The_Two_Towers_\(video_game\).md "wikilink")*
+    Towers](https://zh.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers_\(video_game\) "wikilink")*
     – (PC)
   - *SiN II* publisher demo – (2003) (PC)
   - *[Legacy of Kain: The Dark
-    Prophecy](../Page/Legacy_of_Kain#Development.md "wikilink")* (2004)
+    Prophecy](https://zh.wikipedia.org/wiki/Legacy_of_Kain#Development "wikilink")*
+    (2004)
   - *SiN Episode 2*
 
 ## 参考资料

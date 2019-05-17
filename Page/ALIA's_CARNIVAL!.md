@@ -1,5 +1,5 @@
 《**ALIA's
-CARNIVAL\!**》是日本[NanaWind在](../Page/NanaWind.md "wikilink")2014年3月28日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年5月29日發售續作《**ALIA's
+CARNIVAL\!**》是日本[NanaWind在](../Page/NanaWind.md "wikilink")2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年5月29日發售續作《**ALIA's
 CARNIVAL\! Flowering Sky**》。\[3\]\[4\]2015年10月29日由dramatic
 create發售[PlayStation
 Vita版](../Page/PlayStation_Vita.md "wikilink")《**ALIA's CARNIVAL\!
@@ -54,7 +54,7 @@ Wパッケージ**》。\[7\]
     圖書塔的圖書館員。
   -
     生日：8月22日（獅子座）　身高：146cm　體重：40kg　胸圍：A
-    3年19組的學生，[神秘學研究會的成員](../Page/神秘學.md "wikilink")。
+    3年19組的學生，[神秘學研究會的成員](https://zh.wikipedia.org/wiki/神秘學 "wikilink")。
   -
     生日：11月9日（天蠍座）　身高：157cm　體重：47kg　胸圍：B
     2年24組的學生，茶道部的副部長。

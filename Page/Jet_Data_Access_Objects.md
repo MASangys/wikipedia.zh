@@ -1,8 +1,8 @@
 **Jet Data Access
 Objects**是[微软的一项过时的数据库编程访问界面](../Page/微软.md "wikilink")。DAO是基于[Microsoft
 Jet Database
-Engine之上的一套面向对象的体系](../Page/Microsoft_Jet_Database_Engine.md "wikilink")，可以访问[Microsoft
-Access或](../Page/Microsoft_Access.md "wikilink")[dBase等桌面文件型数据库](../Page/dBase.md "wikilink")，或者[ODBC](../Page/ODBC.md "wikilink")。1996年发布的建于[OLE
+Engine之上的一套面向对象的体系](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")，可以访问[Microsoft
+Access或](../Page/Microsoft_Access.md "wikilink")[dBase等桌面文件型数据库](https://zh.wikipedia.org/wiki/dBase "wikilink")，或者[ODBC](../Page/ODBC.md "wikilink")。1996年发布的建于[OLE
 DB之上的](../Page/OLE_DB.md "wikilink")[ADO](../Page/ADO.md "wikilink")，取代了DAO的地位。
 
 ## 历史
@@ -15,17 +15,17 @@ DAO 2.0, 与Microsoft Access 2.0一起发布。
 DAO 2.5, 与Visual Basic 4.0一起发布，仅有16位版本。
 
 DAO 3.0, 配套于Visual Basic 4.0, Microsoft Access 95, Microsoft Excel 95,
-[Visual C++](../Page/Visual_C++.md "wikilink") 4.0。
+[Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink") 4.0。
 
 DAO 3.5，配套于Microsoft Access 97, Visual Basic 6.0。DAO 3.5能够绕过[Microsoft
 Jet Database
-Engine](../Page/Microsoft_Jet_Database_Engine.md "wikilink")，直接访问[ODBC数据源](../Page/ODBC.md "wikilink")，诸如[Microsoft
+Engine](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")，直接访问[ODBC数据源](../Page/ODBC.md "wikilink")，诸如[Microsoft
 SQL
-Server等企业型数据库](../Page/Microsoft_SQL_Server.md "wikilink")。这是通过ODBCDirect
+Server等企业型数据库](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。这是通过ODBCDirect
 database engine实现的。
 
 DAO 3.6是微软发布的最后一版，与Microsoft Access
-2000一起发布。Microsoft称不会有[64位版本的DAO](../Page/64位.md "wikilink")。\[1\][Microsoft
+2000一起发布。Microsoft称不会有[64位版本的DAO](https://zh.wikipedia.org/wiki/64位 "wikilink")。\[1\][Microsoft
 Access](../Page/Microsoft_Access.md "wikilink") 2013仅支持DAO 3.6。
 
 ## 对象体系架构
@@ -59,7 +59,7 @@ Access](../Page/Microsoft_Access.md "wikilink") 2013仅支持DAO 3.6。
   - [Microsoft Data Access
     Components](../Page/Microsoft_Data_Access_Components.md "wikilink")
   - [ADO](../Page/ADO.md "wikilink")
-  - [RDO](../Page/RDO.md "wikilink")
+  - [RDO](https://zh.wikipedia.org/wiki/RDO "wikilink")
 
 ## 参考文献
 

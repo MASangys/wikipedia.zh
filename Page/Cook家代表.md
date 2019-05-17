@@ -1,4 +1,4 @@
-《**Cook家代表**》（韓文：쿡가대표）是韓國電視台JTBC烹調綜藝節目《[拜託了冰箱](../Page/拜託了冰箱.md "wikilink")》姊妹作品，由金成珠，安貞煥，姜鎬童主持，請來《拜託了冰箱》中的韓國廚師到世界各地與當地廚師較量。由2016年2月17日至同年8月10日，每週三韓國時間22:50播出於JTBC播出。
+《**Cook家代表**》（韓文：쿡가대표）是韓國電視台JTBC烹調綜藝節目《[拜託了冰箱](https://zh.wikipedia.org/wiki/拜託了冰箱 "wikilink")》姊妹作品，由金成珠，安貞煥，姜鎬童主持，請來《拜託了冰箱》中的韓國廚師到世界各地與當地廚師較量。由2016年2月17日至同年8月10日，每週三韓國時間22:50播出於JTBC播出。
 
 ## 主持人
 
@@ -13,7 +13,7 @@
 <td><p>姓名</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/金成柱_(主持人).md" title="wikilink">金成柱</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/金成柱_(主持人)" title="wikilink">金成柱</a><br />
 <small>（김성주）</strong></small></p></td>
 </tr>
 <tr class="odd">
@@ -60,7 +60,7 @@
 冠軍隊</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李連福.md" title="wikilink">李連福</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李連福" title="wikilink">李連福</a><br />
 <small>（이연복）</strong></small></p></td>
 <td><p>中華料理</p></td>
 <td></td>
@@ -68,7 +68,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Sam_Kim.md" title="wikilink">Sam Kim</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sam_Kim" title="wikilink">Sam Kim</a><br />
 <small>（샘킴）</strong></small></p></td>
 <td><p>義式料理，自然主義</p></td>
 <td></td>
@@ -76,7 +76,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李元日.md" title="wikilink">李元日</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李元日" title="wikilink">李元日</a><br />
 <small>（이원일）</strong></small></p></td>
 <td><p>韓食</p></td>
 <td></td>
@@ -84,7 +84,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/吳世得.md" title="wikilink">吳世得</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/吳世得" title="wikilink">吳世得</a><br />
 <small>（오세득）</strong></small></p></td>
 <td><p>法式、混和式(fusion)料理</p></td>
 <td></td>
@@ -92,7 +92,7 @@
 <td><p>冠軍隊</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/鄭鎬泳.md" title="wikilink">鄭浩英</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鄭鎬泳" title="wikilink">鄭浩英</a><br />
 <small>（정호영）</strong></p></td>
 <td><p>日式料理</p></td>
 <td></td>
@@ -100,7 +100,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/李燦伍.md" title="wikilink">李燦伍</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李燦伍" title="wikilink">李燦伍</a><br />
 <small>（이찬오）</strong></p></td>
 <td><p>法式料理</p></td>
 <td></td>
@@ -108,7 +108,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/崔亨鎮.md" title="wikilink">崔亨鎮</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/崔亨鎮" title="wikilink">崔亨鎮</a><br />
 <small>（최형진）</strong></p></td>
 <td><p>中華料理</p></td>
 <td></td>

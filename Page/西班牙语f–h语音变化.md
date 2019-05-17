@@ -1,24 +1,24 @@
-**f-h語音變化**（）是屬於[羅曼語族的](../Page/羅曼語族.md "wikilink")[卡斯蒂利亞語](../Page/西班牙語.md "wikilink")（即西班牙語，後文同）最爲顯著的一個特徵。（但在[加斯科語](../Page/加斯科方言.md "wikilink")、摩爾達維亞和[特兰西瓦尼亚的](../Page/特兰西瓦尼亚.md "wikilink")[羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")，東阿斯圖里亞斯語及其他羅曼語中也有此種現象）。這種現象指卡斯蒂利亞語中來自拉丁語的詞首f-會在一些固定條件下變爲h-。在多數標準西班牙語中，該發音最終都消失了，但同時也存在一些在某些詞彙中保留其發音的方言地區，如[安達魯西亞大部分地區](../Page/安達魯西亞.md "wikilink")，[埃斯特雷马杜拉及](../Page/埃斯特雷马杜拉.md "wikilink")[拉丁美洲](../Page/拉丁美洲.md "wikilink")（[阿斯圖里亞斯語的東部方言也保留部分保留](../Page/阿斯圖里亞斯語.md "wikilink")，這也是該語言的一個特徵。在其與卡斯蒂利亞語的過渡方言[坎塔布連方言](../Page/坎塔布連方言.md "wikilink")\[1\]及[埃斯特雷馬杜拉語中也存在該現象](../Page/埃斯特雷馬杜拉語.md "wikilink")）。該條目主要闡述現有研究及其成果，此外也會提到一些關於可能的影響因素的假設和理論。<span class="cx-segment" data-segmentid="16"></span>
+**f-h語音變化**（）是屬於[羅曼語族的](https://zh.wikipedia.org/wiki/羅曼語族 "wikilink")[卡斯蒂利亞語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")（即西班牙語，後文同）最爲顯著的一個特徵。（但在[加斯科語](https://zh.wikipedia.org/wiki/加斯科方言 "wikilink")、摩爾達維亞和[特兰西瓦尼亚的](../Page/特兰西瓦尼亚.md "wikilink")[羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")，東阿斯圖里亞斯語及其他羅曼語中也有此種現象）。這種現象指卡斯蒂利亞語中來自拉丁語的詞首f-會在一些固定條件下變爲h-。在多數標準西班牙語中，該發音最終都消失了，但同時也存在一些在某些詞彙中保留其發音的方言地區，如[安達魯西亞大部分地區](https://zh.wikipedia.org/wiki/安達魯西亞 "wikilink")，[埃斯特雷马杜拉及](../Page/埃斯特雷马杜拉.md "wikilink")[拉丁美洲](../Page/拉丁美洲.md "wikilink")（[阿斯圖里亞斯語的東部方言也保留部分保留](https://zh.wikipedia.org/wiki/阿斯圖里亞斯語 "wikilink")，這也是該語言的一個特徵。在其與卡斯蒂利亞語的過渡方言[坎塔布連方言](../Page/坎塔布連方言.md "wikilink")\[1\]及[埃斯特雷馬杜拉語中也存在該現象](../Page/埃斯特雷馬杜拉語.md "wikilink")）。該條目主要闡述現有研究及其成果，此外也會提到一些關於可能的影響因素的假設和理論。<span class="cx-segment" data-segmentid="16"></span>
 
 ## 拉丁語音韻學中的音素/f/
 
-[Ethnographic_Iberia_200_BCE.PNG](https://zh.wikipedia.org/wiki/File:Ethnographic_Iberia_200_BCE.PNG "fig:Ethnographic_Iberia_200_BCE.PNG")在前羅馬時代的民族分佈。其[語言可能對這一過程有影響](../Page/前西班牙語言.md "wikilink")。\]\]
+[Ethnographic_Iberia_200_BCE.PNG](https://zh.wikipedia.org/wiki/File:Ethnographic_Iberia_200_BCE.PNG "fig:Ethnographic_Iberia_200_BCE.PNG")在前羅馬時代的民族分佈。其[語言可能對這一過程有影響](https://zh.wikipedia.org/wiki/前西班牙語言 "wikilink")。\]\]
 
 ### 輔音系統中/f/的地位
 
-在[拉丁源的詞語中](../Page/拉丁.md "wikilink")，/f/只能夠出現在詞首，其他出現在詞中的該音素通常是來自其他語言的借詞（例如<small>RUFUS，</small>意爲紅色）。當然，一些帶有前綴的詞語，其第二個語素也是可能以<small>F-</small>開頭的，這種情況下的拉丁源詞彙/f/也會出現詞中，如：<small>DE-FENDERE</small>
+在[拉丁源的詞語中](https://zh.wikipedia.org/wiki/拉丁 "wikilink")，/f/只能夠出現在詞首，其他出現在詞中的該音素通常是來自其他語言的借詞（例如<small>RUFUS，</small>意爲紅色）。當然，一些帶有前綴的詞語，其第二個語素也是可能以<small>F-</small>開頭的，這種情況下的拉丁源詞彙/f/也會出現詞中，如：<small>DE-FENDERE</small>
 「防禦」，<small>CON-FUNDERE</small>
-「混淆」等等。該輔音是唯一一個脣齒擦音（其他擦音有/s/和/h/，後者在大約[一世紀消失](../Page/一世紀.md "wikilink")），因此在整個輔音系統中顯得尤爲不穩定，從而更容易在語音演變中受到影響。\[2\]
+「混淆」等等。該輔音是唯一一個脣齒擦音（其他擦音有/s/和/h/，後者在大約[一世紀消失](https://zh.wikipedia.org/wiki/一世紀 "wikilink")），因此在整個輔音系統中顯得尤爲不穩定，從而更容易在語音演變中受到影響。\[2\]
 
 ### /f/的真實發音是否是\[f\]
 
 除了上述提及到的，[字位](../Page/字位.md "wikilink")<small>F</small>的發音有可能不是脣齒音，而是雙脣擦音<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[ɸ\]</span>。\[3\]
-而由於/f/是一個孤立音素，很有可能在實際發音中有兩種[同位異音](../Page/同位異音.md "wikilink")。一些研究者<sup>[誰？](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")</sup>認爲這也可能是卡斯蒂利亞語在當地其他[印歐語影響下獨自發展出的一種特點](../Page/印歐語族.md "wikilink")，雖然這並非普遍現象。這種假設雖然有可能，但是並沒有辦法證實。總而言之，伊比利亞半島上的羅曼方言其發音更有可能是雙脣的形式。<span class="cx-segment" data-segmentid="46"></span>
+而由於/f/是一個孤立音素，很有可能在實際發音中有兩種[同位異音](../Page/同位異音.md "wikilink")。一些研究者<sup>[誰？](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")</sup>認爲這也可能是卡斯蒂利亞語在當地其他[印歐語影響下獨自發展出的一種特點](https://zh.wikipedia.org/wiki/印歐語族 "wikilink")，雖然這並非普遍現象。這種假設雖然有可能，但是並沒有辦法證實。總而言之，伊比利亞半島上的羅曼方言其發音更有可能是雙脣的形式。<span class="cx-segment" data-segmentid="46"></span>
 
-/f/可以在[加泰隆尼亞語](../Page/加泰隆尼亞語.md "wikilink")，[法語](../Page/法語.md "wikilink")，[意大利語](../Page/意大利語.md "wikilink")，[葡萄牙語以及](../Page/葡萄牙語.md "wikilink")[羅馬尼亞語中找到](../Page/羅馬尼亞語.md "wikilink")。可以類比這些語言中<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[β\]</span>
+/f/可以在[加泰隆尼亞語](https://zh.wikipedia.org/wiki/加泰隆尼亞語 "wikilink")，[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")，[意大利語](https://zh.wikipedia.org/wiki/意大利語 "wikilink")，[葡萄牙語以及](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")[羅馬尼亞語中找到](../Page/羅馬尼亞語.md "wikilink")。可以類比這些語言中<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[β\]</span>
 \>
 <span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[v\]</span>的過程：拉丁語原本的半元音/w/在經過一系列變化後變爲<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[β\]</span>最後在口語中變成了脣齒音/v/
-；但是在[伊比利亞半島北部](../Page/伊比利半島.md "wikilink")，最後這一過程卻沒有完成。因此，如果/f/是一個脣齒擦音，它就會缺少配對的濁音從而和整個輔音系統難以調和。\[4\]
+；但是在[伊比利亞半島北部](https://zh.wikipedia.org/wiki/伊比利半島 "wikilink")，最後這一過程卻沒有完成。因此，如果/f/是一個脣齒擦音，它就會缺少配對的濁音從而和整個輔音系統難以調和。\[4\]
 
 ## 卡斯蒂利亞語中/f/的發展
 
@@ -27,14 +27,14 @@
 若/f/表現爲<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[ɸ\]</span>，其性質就會變得很不穩定<sup>[來源請求](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")，</sup>因此其發音也會根據其前後音素而變化。因此，<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[ɸ\]</span>可能表現爲「強式」或「弱式」。根據假設<sup>[來源請求](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")</sup>
 該音素可以有三種音位變體：
 
-  - <span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[h\]</span>：在[後元音](../Page/後元音.md "wikilink")/o,
+  - <span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[h\]</span>：在[後元音](https://zh.wikipedia.org/wiki/後元音 "wikilink")/o,
     u/前，
   - <span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[hɸ\]</span>（也作<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[ɸh\]</span>）：在[半元音](../Page/半元音.md "wikilink")/w/前
   - <span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[ɸ\]</span>：在其他位置，即在元音/i,
-    e, a/及[輔音](../Page/輔音.md "wikilink")/j, r, l/前。
+    e, a/及[輔音](https://zh.wikipedia.org/wiki/輔音 "wikilink")/j, r, l/前。
 
 如這裏提到的/f/，當一個音素有多個變體時，它就一定存在潛在的分佈變化可能性。一些條件會使得其發音加強（如接鼻音/-nf-/或流音/-fl-,
--fr-/）而另一些卻會使得其弱化直至成爲一個簡單的清音氣流。在[奧克語的](../Page/奧克語.md "wikilink")[加斯科方言中](../Page/加斯科方言.md "wikilink")，該發音可以忽視其前後音素而單獨表現爲<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[h\]</span>（雙元音ue前除外，參考後文語音條件）：
+-fr-/）而另一些卻會使得其弱化直至成爲一個簡單的清音氣流。在[奧克語的](https://zh.wikipedia.org/wiki/奧克語 "wikilink")[加斯科方言中](https://zh.wikipedia.org/wiki/加斯科方言 "wikilink")，該發音可以忽視其前後音素而單獨表現爲<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[h\]</span>（雙元音ue前除外，參考後文語音條件）：
 
   - <small>FRATRE</small> \> *hray* 「兄弟」，卡斯蒂利亞語*fraile (fray)*
   - <small>FRUCTU</small> \> *heruto*，卡斯蒂利亞語*fruto*
@@ -45,7 +45,7 @@
   - <small>CONFINE</small> \> *couhí*，卡斯蒂利亞語*confín*
   - <small>PROFUNDU</small> \> *prouhoun*，卡斯蒂利亞語*profundo*
 
-值得一提的是，在[拉丁歐洲其他一些地區同樣也發生過這樣的變化](../Page/拉丁歐洲.md "wikilink")，例如[意大利的](../Page/意大利.md "wikilink")[卡拉布里亞存在着以](../Page/卡拉布里亞.md "wikilink")*h-*
+值得一提的是，在[拉丁歐洲其他一些地區同樣也發生過這樣的變化](https://zh.wikipedia.org/wiki/拉丁歐洲 "wikilink")，例如[意大利的](../Page/意大利.md "wikilink")[卡拉布里亞存在着以](https://zh.wikipedia.org/wiki/卡拉布里亞 "wikilink")*h-*
 對應拉丁語F-的情形： <small>FABA</small> \> *hava*
 （卡斯蒂利亞語*haba*），<small>FEMINA</small> \> *hímmina*
 （卡斯蒂利亞語*hembra*<small>），FERRU</small> \> *hierru*
@@ -62,9 +62,9 @@
 ### 歷史上卡斯蒂利亞語變化的首個書面證據
 
 歷史上最早能證明/f /\>
-/h/的變化或完全丟失/f/的卡斯蒂利亞語文書（包括[拉里奥哈](../Page/拉里奥哈.md "wikilink")）出現在9世紀。其中一份863年的文檔名<small>FORTICIUS</small>以*Ortiço*的形式出現而另一份927年的文件則作*Hortiço。*從11世紀開始，這種現象開始逐漸增多，並且在卡斯蒂利亞之外也出現了。由此觀之，既然書面上已經開始斷續出現這樣的情況，那麼口語上變化應該已經在更早之前就完成了。\[6\]
+/h/的變化或完全丟失/f/的卡斯蒂利亞語文書（包括[拉里奥哈](https://zh.wikipedia.org/wiki/拉里奥哈 "wikilink")）出現在9世紀。其中一份863年的文檔名<small>FORTICIUS</small>以*Ortiço*的形式出現而另一份927年的文件則作*Hortiço。*從11世紀開始，這種現象開始逐漸增多，並且在卡斯蒂利亞之外也出現了。由此觀之，既然書面上已經開始斷續出現這樣的情況，那麼口語上變化應該已經在更早之前就完成了。\[6\]
 
-但是這樣的情況是否是普遍發生在卡斯蒂利亞地區，我們還不得而知。可能這種變化僅限於在社會較低階層發生<sup>[來源請求](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")</sup>，而教育良好的界層則更爲保守，並且在所有的詞彙中都維持着<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[f\]</span>或<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[ɸ\]</span>的發音，或者僅僅在後元音前發成<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[h\]</span>音。但是在直到語音現象被反映到書面上之前，並不能輕易下結論，因爲數個世紀以來單純的清喉擦音也被寫作*f-*<sup>[來源請求](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")</sup>。這一點在[熙德之歌中有充分反映](../Page/熙德之歌.md "wikilink")：其中的一個源自[阿拉伯語的介詞hasta](../Page/阿拉伯語.md "wikilink")
+但是這樣的情況是否是普遍發生在卡斯蒂利亞地區，我們還不得而知。可能這種變化僅限於在社會較低階層發生<sup>[來源請求](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")</sup>，而教育良好的界層則更爲保守，並且在所有的詞彙中都維持着<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[f\]</span>或<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[ɸ\]</span>的發音，或者僅僅在後元音前發成<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[h\]</span>音。但是在直到語音現象被反映到書面上之前，並不能輕易下結論，因爲數個世紀以來單純的清喉擦音也被寫作*f-*<sup>[來源請求](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")</sup>。這一點在[熙德之歌中有充分反映](../Page/熙德之歌.md "wikilink")：其中的一個源自[阿拉伯語的介詞hasta](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")
 (\<
 ḥatta)以*fasta*的形式出現。同時，阿拉伯語的*<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">al-ḥanbal</span>*
 在卡斯蒂利亞語中發音是*alfombra*。所有這些都表明當時的卡斯蒂利亞語使用者並不能區分<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[f\]</span>和<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[h\]</span>。以上就是Alarcos
@@ -80,8 +80,8 @@ Llorach的斷定 (1951, 39):\[7\]
   - <small>FILIU</small> \> *hijo*
   - <small>FOLIA</small> \> *hoja*
   - <small>FUMU</small> \> *humo*
-  - 有例外（主要是[教養語](../Page/教養語.md "wikilink")）*：febrero*, *fiebre*,
-    *fiesta*, *filo*, *fin*.
+  - 有例外（主要是[教養語](https://zh.wikipedia.org/wiki/教養語 "wikilink")）*：febrero*,
+    *fiebre*, *fiesta*, *filo*, *fin*.
 
 帶有前綴的詞彙同樣參與了這種變化：
 
@@ -91,14 +91,15 @@ Llorach的斷定 (1951, 39):\[7\]
 相反，單純的元音間-F-則通常從元來的清輔音發展爲了<span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" contenteditable="false">\[β\]</span>（在書面上寫作v或b）：
 
   - <small>PROFECTU</small> \> *provecho*
-  - <small>RAPHANU</small> (\< [gr.](../Page/希腊语.md "wikilink") ῥάφανος)
+  - <small>RAPHANU</small> (\<
+    [gr.](https://zh.wikipedia.org/wiki/希腊语 "wikilink") ῥάφανος)
     \> *rábano*
 
 當然同時也存在例外：
 
   - <small>DEFENSAM</small> \> *dehesa*
 
-在[古卡斯蒂利亞語中](../Page/中世紀西班牙語.md "wikilink")，輔音串-NF-變爲了*-f*
+在[古卡斯蒂利亞語中](https://zh.wikipedia.org/wiki/中世紀西班牙語 "wikilink")，輔音串-NF-變爲了*-f*
 （或*-ff-*）：<small>INFANTE</small> \> *ifante* 或
 *iffante*，而之後則引入了詞源的形式並在現代西班牙語中固化爲*infante*。
 
@@ -112,15 +113,15 @@ F-在輔音前一般保留，在半元音<span class="IPA" title="Representació
   - <small>FOCUS</small> \> *fuego*
 
 但是也有少數一些輔音串FL-丟失了F-（如<small>FLACCIDU</small> \>
-*lacio*），因爲這種情況下可能會出現\[hl-\]這樣的發音；不過總的來說大多數這樣的條件下f都會得以保留（當然也會有其他因素影響，比如[顎化作用下](../Page/顎化.md "wikilink")<small>CL</small>-和<small>PL</small>-會變爲ll-）。
+*lacio*），因爲這種情況下可能會出現\[hl-\]這樣的發音；不過總的來說大多數這樣的條件下f都會得以保留（當然也會有其他因素影響，比如[顎化作用下](https://zh.wikipedia.org/wiki/顎化 "wikilink")<small>CL</small>-和<small>PL</small>-會變爲ll-）。
 
 ## /f /\> /h/的變化與巴斯克語-拉丁語雙語使用
 
 ### 巴斯克語底層的爭議
 
-[拉蒙·梅嫩德斯·皮达尔提出了所有解釋當中最爲系統的假設](../Page/拉蒙·梅嫩德斯·皮达尔.md "wikilink")，並且被廣泛接受。根據他的學說，巴斯克-坎塔布里-伊比利亞底層是導致這一變化的元音。理論指出，[巴斯克及](../Page/巴斯克.md "wikilink")<span class="cx-segment" data-segmentid="214"></span>[坎塔布里人](../Page/坎塔布里人.md "wikilink")（也包括[伊比利亞人](../Page/伊比利人.md "wikilink")）的語言中缺少\[f\]，由於在聽感上的相似性，他們便使用\[h\]來代替這一讀音。這和這一變化首先始於卡斯蒂利亞北部這一事實相吻合：在這一區域人們使用巴斯克語，此外在[比利牛斯山的另一邊](../Page/比利牛斯山.md "wikilink")，在[古代史中](../Page/古代史.md "wikilink")[加斯科涅的原住民也使用](../Page/加斯科涅.md "wikilink")[巴斯克語以及一種相似的語言](../Page/巴斯克語.md "wikilink")。<span class="cx-segment" data-segmentid="220"></span>
+[拉蒙·梅嫩德斯·皮达尔提出了所有解釋當中最爲系統的假設](../Page/拉蒙·梅嫩德斯·皮达尔.md "wikilink")，並且被廣泛接受。根據他的學說，巴斯克-坎塔布里-伊比利亞底層是導致這一變化的元音。理論指出，[巴斯克及](https://zh.wikipedia.org/wiki/巴斯克 "wikilink")<span class="cx-segment" data-segmentid="214"></span>[坎塔布里人](https://zh.wikipedia.org/wiki/坎塔布里人 "wikilink")（也包括[伊比利亞人](https://zh.wikipedia.org/wiki/伊比利人 "wikilink")）的語言中缺少\[f\]，由於在聽感上的相似性，他們便使用\[h\]來代替這一讀音。這和這一變化首先始於卡斯蒂利亞北部這一事實相吻合：在這一區域人們使用巴斯克語，此外在[比利牛斯山的另一邊](../Page/比利牛斯山.md "wikilink")，在[古代史中](../Page/古代史.md "wikilink")[加斯科涅的原住民也使用](https://zh.wikipedia.org/wiki/加斯科涅 "wikilink")[巴斯克語以及一種相似的語言](../Page/巴斯克語.md "wikilink")。<span class="cx-segment" data-segmentid="220"></span>
 
-雖然在[羅馬尼亞的其他地區也發生了同樣的變化](../Page/拉丁歐洲.md "wikilink")，但是只有卡斯蒂利亞及[加斯科語最終穩固並普及開來](../Page/加斯科方言.md "wikilink")。也就是說這兩個地區的存在證明了巴斯克-阿基坦人在羅馬人到來之前就已經生活在這一帶了。
+雖然在[羅馬尼亞的其他地區也發生了同樣的變化](https://zh.wikipedia.org/wiki/拉丁歐洲 "wikilink")，但是只有卡斯蒂利亞及[加斯科語最終穩固並普及開來](https://zh.wikipedia.org/wiki/加斯科方言 "wikilink")。也就是說這兩個地區的存在證明了巴斯克-阿基坦人在羅馬人到來之前就已經生活在這一帶了。
 
 ### 對底層理論的反對意見
 
@@ -136,23 +137,23 @@ Mitxelena 提出的(1957, 126):\[8\]。
 ### 其他假設
 
 出了上述假設，也有一些專家從更爲抽象的角度上分析了這一問題。例如西班牙語言學家Gregorio Salvador
-在其1983年的著作《地質學假說》中稱這一現象的導致原因是[卡斯蒂利亞語使用者居住地區的水中缺少](../Page/卡斯蒂利亞.md "wikilink")[氟](../Page/氟.md "wikilink")，使得他們的牙齒更易脫落而難以發出\[f\]。爲了證明其假說，他甚至進行了對卡斯蒂利亞和阿拉貢的[水文學分析](../Page/水文學.md "wikilink")，然而其結果卻表明，兩地之間水體含氟量並沒有顯著差異。1986年，[納瓦拉大學的José](../Page/納瓦拉大學.md "wikilink")
+在其1983年的著作《地質學假說》中稱這一現象的導致原因是[卡斯蒂利亞語使用者居住地區的水中缺少](https://zh.wikipedia.org/wiki/卡斯蒂利亞 "wikilink")[氟](../Page/氟.md "wikilink")，使得他們的牙齒更易脫落而難以發出\[f\]。爲了證明其假說，他甚至進行了對卡斯蒂利亞和阿拉貢的[水文學分析](https://zh.wikipedia.org/wiki/水文學 "wikilink")，然而其結果卻表明，兩地之間水體含氟量並沒有顯著差異。1986年，[納瓦拉大學的José](https://zh.wikipedia.org/wiki/納瓦拉大學 "wikilink")
 Ramón Maruri對Gregorio Salvador的假設提出了諷刺的結論：\[10\]
 
 ## 結論
 
 迄今爲止所有理論的問題所在都在於過度簡化了這個問題。所有的研究者，像是底層假說及其反對者，都試圖將這個問題歸因於一個簡單孤立的原因。但是有時一個因素並不能導致整個語言學上的音變，所以這個過程可能會比想象的更加複雜。<span class="cx-segment" data-segmentid="283"></span>
 
-將這一現象和巴斯克底層聯繫起來的假設並沒有詳細解釋這一變化具體是怎樣進行的，也沒有去驗證其他的可能情況。此外，在這裏使用「底層」這一名詞也不是很恰當，因爲這表示在拉丁人征服伊比利亞半島之前這一過程就已經開始發生了。然而，從已知資料可以得知，這一變化是在8-10世紀才發生的。所以，在這裏使用「[傍層](../Page/傍層.md "wikilink")」（adstratum）也許比「[底層](../Page/底層.md "wikilink")」（substratum）更恰當。\[11\]
+將這一現象和巴斯克底層聯繫起來的假設並沒有詳細解釋這一變化具體是怎樣進行的，也沒有去驗證其他的可能情況。此外，在這裏使用「底層」這一名詞也不是很恰當，因爲這表示在拉丁人征服伊比利亞半島之前這一過程就已經開始發生了。然而，從已知資料可以得知，這一變化是在8-10世紀才發生的。所以，在這裏使用「[傍層](https://zh.wikipedia.org/wiki/傍層 "wikilink")」（adstratum）也許比「[底層](https://zh.wikipedia.org/wiki/底層 "wikilink")」（substratum）更恰當。\[11\]
 
-同時，支持底層理論的人一再強調[巴斯克](../Page/巴斯克.md "wikilink")[羅曼語](../Page/羅曼語族.md "wikilink")[雙語對這一變化的影響](../Page/雙語.md "wikilink")。而試圖以「這一現象也在[羅馬尼亞的一些地方發生了](../Page/羅馬尼亞.md "wikilink")」來解釋的人則忽略了同樣的語音變化在不同的地區也有可能是由完全不同的原因造成的。<span class="cx-segment" data-segmentid="297"></span>
+同時，支持底層理論的人一再強調[巴斯克](https://zh.wikipedia.org/wiki/巴斯克 "wikilink")[羅曼語](https://zh.wikipedia.org/wiki/羅曼語族 "wikilink")[雙語對這一變化的影響](https://zh.wikipedia.org/wiki/雙語 "wikilink")。而試圖以「這一現象也在[羅馬尼亞的一些地方發生了](../Page/羅馬尼亞.md "wikilink")」來解釋的人則忽略了同樣的語音變化在不同的地區也有可能是由完全不同的原因造成的。<span class="cx-segment" data-segmentid="297"></span>
 
 總而言之，目前並沒有人真正分析透徹了這一現象的複雜性，也可以說巴斯克羅曼語雙語和語言內部結構都可以在這個過程中產生影響。另一個令人遺憾的問題是，儘管現在已經有很多相關研究並且還有更多跟進的新研究，這些成果卻被最新的語言學出版物忽略。最後，值得一提的是，出現在現代西班牙語中的*f-*是通過教養語及半教養語形式重新傳入西班牙語的。
 
 ## 參看
 
   -
-  - [古卡斯蒂利亞語](../Page/中世紀西班牙語.md "wikilink")
+  - [古卡斯蒂利亞語](https://zh.wikipedia.org/wiki/中世紀西班牙語 "wikilink")
 
   - [西班牙語噝音變化](../Page/西班牙語噝音變化.md "wikilink")
 
@@ -168,7 +169,9 @@ Ramón Maruri對Gregorio Salvador的假設提出了諷刺的結論：\[10\]
     [Filadelfia](../Page/費城.md "wikilink"), 1987, págs. 212–223
     (citado como **Lloyd**)
   - *Historia de la lengua española*, Rafael Cano (coord.), Ariel
-    Lingüística, [Barcelona](../Page/巴塞罗那.md "wikilink"), 2005.
+    Lingüística,
+    [Barcelona](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink"),
+    2005.
   - *Manual de dialectología hispánica. El Español de España*, Manuel
     Alvar (director), 4.ª edición, Ariel Lingüística, Barcelona, 1996,
     2007.
@@ -176,7 +179,7 @@ Ramón Maruri對Gregorio Salvador的假設提出了諷刺的結論：\[10\]
 ## 外部連結
 
   - *[西班牙語詞典](https://web.archive.org/web/20120624014757/http://rae.es/drae/)*
-    ([西班牙皇家學院](../Page/西班牙皇家學院.md "wikilink"))
+    ([西班牙皇家學院](https://zh.wikipedia.org/wiki/西班牙皇家學院 "wikilink"))
 
 [Category:歷史語言學](https://zh.wikipedia.org/wiki/Category:歷史語言學 "wikilink")
 [Category:西班牙语历史](https://zh.wikipedia.org/wiki/Category:西班牙语历史 "wikilink")

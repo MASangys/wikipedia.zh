@@ -11,11 +11,11 @@
   - [黑色代碼](../Page/黑色代碼.md "wikilink")
 
   -
-  - [老媽闖入電視台](../Page/老媽實習生.md "wikilink")
+  - [老媽闖入電視台](https://zh.wikipedia.org/wiki/老媽實習生 "wikilink")
 
   - [醫者有情人](../Page/實習醫生_\(電視劇\).md "wikilink")
 
-  - [逍遙法外](../Page/逍遙法外_\(電視劇\).md "wikilink")
+  - [逍遙法外](https://zh.wikipedia.org/wiki/逍遙法外_\(電視劇\) "wikilink")
 
   - [處女情緣](../Page/處女情緣.md "wikilink")
 
@@ -23,9 +23,9 @@
   - [國務卿夫人](../Page/國務卿女士.md "wikilink")
 
   -
-  - [鄉謠天后鬥](../Page/音樂之鄉.md "wikilink")
+  - [鄉謠天后鬥](https://zh.wikipedia.org/wiki/音樂之鄉 "wikilink")
 
-  - [醜聞](../Page/醜聞_\(電視劇\).md "wikilink")
+  - [醜聞](https://zh.wikipedia.org/wiki/醜聞_\(電視劇\) "wikilink")
 
   - [爆笑超市](../Page/爆笑超市.md "wikilink")
 
@@ -39,17 +39,17 @@
   - [法證伊人](../Page/逝者之證.md "wikilink")
 
   -
-  - [芝加哥正義](../Page/芝加哥正義.md "wikilink")
+  - [芝加哥正義](https://zh.wikipedia.org/wiki/芝加哥正義 "wikilink")
 
   -
   -
   - [Damages](../Page/法網裂痕.md "wikilink")
 
-  - [靚太一族](../Page/絕望的主婦.md "wikilink")
+  - [靚太一族](https://zh.wikipedia.org/wiki/絕望的主婦 "wikilink")
 
   - [肯醫師](../Page/肯醫師煩事多.md "wikilink")
 
-  - [靚模上錯身](../Page/美女上錯身.md "wikilink")
+  - [靚模上錯身](https://zh.wikipedia.org/wiki/美女上錯身 "wikilink")
 
   - [靈感應](../Page/靈感應.md "wikilink")
 
@@ -62,7 +62,7 @@
   -
   - [心靈厲人](../Page/辣女隊醫.md "wikilink")
 
-  - [暗夜仁心](../Page/夜班醫生.md "wikilink")（亦稱：夜班醫生）
+  - [暗夜仁心](https://zh.wikipedia.org/wiki/夜班醫生 "wikilink")（亦稱：夜班醫生）
 
   -
   -
@@ -72,7 +72,7 @@
 
   - [Sherlock](../Page/神探夏洛克.md "wikilink")
 
-  - [國務危情](../Page/國務危情.md "wikilink")
+  - [國務危情](https://zh.wikipedia.org/wiki/國務危情 "wikilink")
 
   - [狼少年](../Page/少狼_\(電視劇\).md "wikilink")（亦稱：少年狼）
 

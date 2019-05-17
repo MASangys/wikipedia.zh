@@ -1,5 +1,5 @@
 「**LoveLive\! μ's Go→Go\! LoveLive\! 2015 〜Dream
-Sensation\!〜**」是[μ's在](../Page/μ's.md "wikilink")2015年1月31日和2月1日於[埼玉超級體育館舉辦的演唱會](../Page/埼玉超級體育館.md "wikilink")，並於2015年9月30日發售收錄演唱會的[藍光光碟與](../Page/藍光光碟.md "wikilink")[DVD](../Page/DVD.md "wikilink")。
+Sensation\!〜**」是[μ's在](https://zh.wikipedia.org/wiki/μ's "wikilink")2015年1月31日和2月1日於[埼玉超級體育館舉辦的演唱會](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")，並於2015年9月30日發售收錄演唱會的[藍光光碟與](../Page/藍光光碟.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@ Forever〜」中，在全日本的電影院播出了演唱會的劇場特別版
 2015年10月12日止共賣出4.9萬份，獲得了[Oricon公信榜上BD總和與BD音樂每周排名第一名](../Page/Oricon公信榜.md "wikilink")\[1\]。是動漫音樂作品得到的最高成績。
 
 它也是從「[μ's Best Album Best Live\! collection
-II](../Page/μ's_Best_Album_Best_Live!_collection_II.md "wikilink")」以來，首次獲得Oricon每周排名冠軍。
+II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wikilink")」以來，首次獲得Oricon每周排名冠軍。
 
 在此之後，2015年共售出57,971份，於[Oricon公信榜年度BD音樂排名獲得第七名](../Page/Oricon公信榜.md "wikilink")\[2\]。
 

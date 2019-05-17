@@ -22,7 +22,7 @@ SHIBUYA-AX**』是[日本團體](../Page/日本.md "wikilink")[AAA在](../Page/A
 2.  [Friday Party](../Page/Friday_Party.md "wikilink")
 3.  [美麗的天空](../Page/美麗的天空.md "wikilink")
 4.  [VIRGIN F](../Page/ATTACK_\(AAA專輯\).md "wikilink")
-5.  [邂逅的力量](../Page/邂逅的力量.md "wikilink")
+5.  [邂逅的力量](https://zh.wikipedia.org/wiki/邂逅的力量 "wikilink")
 6.  [最強Babe](../Page/ATTACK_\(AAA專輯\).md "wikilink")
 7.  [Get or Lose](../Page/ATTACK_\(AAA專輯\).md "wikilink")
 8.  [Bomb A

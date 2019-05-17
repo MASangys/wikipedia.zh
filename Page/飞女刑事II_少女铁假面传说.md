@@ -1,7 +1,7 @@
 **飞女刑事II 少女鉄仮面伝説**（スケバンデカツー
 しょうじょてつかめんでんせつ）是1985年11月7日至1986年10月23日毎週四19:30
 -
-20:00在[富士電視台系放送的日本的](../Page/富士電視台.md "wikilink")[学園劇](../Page/学園劇.md "wikilink")，由[南野陽子主演](../Page/南野陽子.md "wikilink")。
+20:00在[富士電視台系放送的日本的](../Page/富士電視台.md "wikilink")[学園劇](https://zh.wikipedia.org/wiki/学園劇 "wikilink")，由[南野陽子主演](https://zh.wikipedia.org/wiki/南野陽子 "wikilink")。
 
 ## 介绍
 
@@ -11,13 +11,14 @@
 
   - 企画 - 岡正、植田泰治
   - 脚本 -
-    [土屋斗紀雄](../Page/土屋斗紀雄.md "wikilink")、[橋本以蔵](../Page/橋本以蔵.md "wikilink")、[杉村升](../Page/杉村升.md "wikilink")、[戸田博史](../Page/戸田博史.md "wikilink")、[山中伊知郎](../Page/山中伊知郎.md "wikilink")
+    [土屋斗紀雄](https://zh.wikipedia.org/wiki/土屋斗紀雄 "wikilink")、[橋本以蔵](https://zh.wikipedia.org/wiki/橋本以蔵 "wikilink")、[杉村升](../Page/杉村升.md "wikilink")、[戸田博史](https://zh.wikipedia.org/wiki/戸田博史 "wikilink")、[山中伊知郎](https://zh.wikipedia.org/wiki/山中伊知郎 "wikilink")
   - 音楽 - 新田一郎
   - 監督 -
-    [田中秀夫](../Page/田中秀夫.md "wikilink")、[大井利夫](../Page/大井利夫.md "wikilink")、[坂本太郎](../Page/坂本太郎.md "wikilink")、前嶋守男
+    [田中秀夫](https://zh.wikipedia.org/wiki/田中秀夫 "wikilink")、[大井利夫](https://zh.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](https://zh.wikipedia.org/wiki/坂本太郎 "wikilink")、前嶋守男
   - 主題歌
-      - 吉沢秋絵 with おニャン子クラブ「[なぜ?の嵐](../Page/なぜ?の嵐.md "wikilink")」（）（第1話 -
-        第15話）
+      - 吉沢秋絵 with
+        おニャン子クラブ「[なぜ?の嵐](https://zh.wikipedia.org/wiki/なぜ?の嵐 "wikilink")」（）（第1話
+        - 第15話）
       - 南野陽子「」（[CBSソニー](../Page/Sony_Music_Records.md "wikilink")）（第16話
         - 第32話）
       - 南野陽子「」（CBSソニー）（第33話 - 第42話）
@@ -28,33 +29,35 @@
   - 撮影 - 奥村正祐、池田健策、林迪雄、大町進、村上俊郎
   - 助監督 -　前嶋守男、武田秀雄
   - アクションクリエーター -
-    [岡田勝](../Page/岡田勝.md "wikilink")、[上田弘司](../Page/上田弘司.md "wikilink")
-  - 编导 - 前田和也、中曽根千治・[手塚治](../Page/手塚治.md "wikilink")
+    [岡田勝](https://zh.wikipedia.org/wiki/岡田勝 "wikilink")、[上田弘司](https://zh.wikipedia.org/wiki/上田弘司 "wikilink")
+  - 编导 - 前田和也、中曽根千治・[手塚治](https://zh.wikipedia.org/wiki/手塚治 "wikilink")
   - 制作 -
-    [富士电视台](../Page/富士电视台.md "wikilink")、[東映](../Page/東映.md "wikilink")
+    [富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")、[東映](../Page/東映.md "wikilink")
 
 ## 劇場版
 
 ### 人员（劇場版）
 
-  - 監督 - [田中秀夫](../Page/田中秀夫.md "wikilink")
+  - 監督 - [田中秀夫](https://zh.wikipedia.org/wiki/田中秀夫 "wikilink")
   - 脚本 -
-    [橋本以蔵](../Page/橋本以蔵.md "wikilink")、[土屋斗紀雄](../Page/土屋斗紀雄.md "wikilink")
-  - 主題歌 - 南野陽子「[楽園のDoor](../Page/楽園のDoor.md "wikilink")」（CBSソニー）
+    [橋本以蔵](https://zh.wikipedia.org/wiki/橋本以蔵 "wikilink")、[土屋斗紀雄](https://zh.wikipedia.org/wiki/土屋斗紀雄 "wikilink")
+  - 主題歌 -
+    南野陽子「[楽園のDoor](https://zh.wikipedia.org/wiki/楽園のDoor "wikilink")」（CBSソニー）
   - 撮影 - 大町進
-  - 助監督 - 伊与田一雄、井上隆、[道木広志](../Page/道木広志.md "wikilink")
+  - 助監督 -
+    伊与田一雄、井上隆、[道木広志](https://zh.wikipedia.org/wiki/道木広志 "wikilink")
   - 製作 - 東映、フジテレビ
 
 ## 関連書籍
 
   - 「ビー・クラブ・スペシャル-5 スケバン刑事研究
-    セーラー服は学園の戦闘服だ\!」[バンダイ](../Page/バンダイ.md "wikilink")
+    セーラー服は学園の戦闘服だ\!」[バンダイ](https://zh.wikipedia.org/wiki/バンダイ "wikilink")
     ISBN 4-89189-320-6
   - 「ビー・クラブ・スペシャル-6 スケバン刑事II
-    少女鉄仮面伝説　完全シナリオ集」[バンダイ](../Page/バンダイ.md "wikilink")
+    少女鉄仮面伝説　完全シナリオ集」[バンダイ](https://zh.wikipedia.org/wiki/バンダイ "wikilink")
     ISBN 4-89189-321-4
   - 「映画版 スケバン刑事 YOHKO MINAMINO
-    (ヒットブックス3)」[講談社](../Page/講談社.md "wikilink")
+    (ヒットブックス3)」[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
     ISBN 4-06-177703-3
 
 ## 脚注
@@ -66,7 +69,7 @@
   - [スケバン刑事](http://movie.walkerplus.com/mv17608/) - Movie Walker
 
   - [スケバン刑事](http://eiga.com/movie/37346/) -
-    [映画.com](../Page/映画.com.md "wikilink")
+    [映画.com](https://zh.wikipedia.org/wiki/映画.com "wikilink")
 
 [Category:飞女刑事](https://zh.wikipedia.org/wiki/Category:飞女刑事 "wikilink")
 [Category:1980年代特摄作品](https://zh.wikipedia.org/wiki/Category:1980年代特摄作品 "wikilink")

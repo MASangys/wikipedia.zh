@@ -1,11 +1,11 @@
-**Passione株式會社**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")\[1\]的[動畫製作公司](../Page/動畫.md "wikilink")。成立於2011年1月26日。至今已製作過《[RAIL
-WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、《[六花的勇者](../Page/六花的勇者.md "wikilink")》、《[雛子的筆記](../Page/雛子的筆記.md "wikilink")》\[2\]在內等多部作品。
+**Passione株式會社**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2011年1月26日。至今已製作過《[RAIL
+WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、《[六花的勇者](https://zh.wikipedia.org/wiki/六花的勇者 "wikilink")》、《[雛子的筆記](https://zh.wikipedia.org/wiki/雛子的筆記 "wikilink")》\[2\]在內等多部作品。
 
 ## 主要客戶
 
   - [龍之子製作公司](../Page/龍之子製作公司.md "wikilink")
-  - [吉卜力工作室](../Page/吉卜力工作室.md "wikilink")
-  - [波麗佳音](../Page/波麗佳音.md "wikilink")
+  - [吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")
+  - [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
   - [集英社](../Page/集英社.md "wikilink")
   - [8bit](../Page/8bit.md "wikilink")
 
@@ -34,7 +34,7 @@ WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、�
 <td><p><a href="../Page/你好_七葉.md" title="wikilink">你好七葉</a></p></td>
 <td></td>
 <td><p>10月6日－12月29日</p></td>
-<td><p><a href="../Page/木村寬.md" title="wikilink">木村寬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木村寬" title="wikilink">木村寬</a></p></td>
 <td><p>原創</p></td>
 <td><p>5分鐘短篇電視動畫</p></td>
 </tr>
@@ -58,16 +58,16 @@ WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、�
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/六花的勇者.md" title="wikilink">六花的勇者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/六花的勇者" title="wikilink">六花的勇者</a></p></td>
 <td></td>
 <td><p>7月4日－9月19日</p></td>
-<td><p><a href="../Page/高橋丈夫.md" title="wikilink">高橋丈夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋丈夫" title="wikilink">高橋丈夫</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/雛子的筆記.md" title="wikilink">雛子的筆記</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雛子的筆記" title="wikilink">雛子的筆記</a></p></td>
 <td></td>
 <td><p>4月7日－6月22日</p></td>
 <td><p>喜多幡徹</p></td>
@@ -76,7 +76,7 @@ WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、�
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/citrus_～柑橘味香氣～.md" title="wikilink">citrus ～柑橘味香氣～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/citrus_～柑橘味香氣～" title="wikilink">citrus ～柑橘味香氣～</a></p></td>
 <td></td>
 <td><p>1月6日－3月24日</p></td>
 <td><p>高橋丈夫</p></td>
@@ -84,7 +84,7 @@ WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/惡魔高校D×D.md" title="wikilink">惡魔高校D×D HERO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/惡魔高校D×D" title="wikilink">惡魔高校D×D HERO</a></p></td>
 <td></td>
 <td><p>4月10日－7月3日</p></td>
 <td><p>末田宜史</p></td>
@@ -159,9 +159,9 @@ OVA
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/來自紅花坂.md" title="wikilink">來自紅花坂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/來自紅花坂" title="wikilink">來自紅花坂</a></p></td>
 <td></td>
-<td><p><a href="../Page/吉卜力工作室.md" title="wikilink">吉卜力工作室</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉卜力工作室" title="wikilink">吉卜力工作室</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -226,7 +226,7 @@ OVA
 <td><p>2015年</p></td>
 <td><p>聖劍使的禁咒詠唱</p></td>
 <td></td>
-<td><p><a href="../Page/diomedéa.md" title="wikilink">diomedéa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/diomedéa" title="wikilink">diomedéa</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -240,14 +240,14 @@ OVA
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/星光樂園#星光樂園_大家的憧憬♪_去吧☆星光巴黎.md" title="wikilink">星光樂園 大家的憧憬♪ 去吧☆星光巴黎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星光樂園#星光樂園_大家的憧憬♪_去吧☆星光巴黎" title="wikilink">星光樂園 大家的憧憬♪ 去吧☆星光巴黎</a></p></td>
 <td></td>
 <td><p>龍之子製作公司</p></td>
 <td><p>動畫協力製作</p></td>
 <td><p>電影動畫</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/少年女僕.md" title="wikilink">少年女僕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少年女僕" title="wikilink">少年女僕</a></p></td>
 <td></td>
 <td><p>8bit</p></td>
 <td><p>各話協力製作</p></td>
@@ -283,4 +283,4 @@ OVA
 3.
 4.
 
-5.  前面3期都由[TNK製作](../Page/TNK.md "wikilink")。
+5.  前面3期都由[TNK製作](https://zh.wikipedia.org/wiki/TNK "wikilink")。

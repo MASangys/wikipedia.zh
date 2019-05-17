@@ -1,5 +1,5 @@
 《**煙起的地方
-pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[原住民族電視台](../Page/原住民族電視台.md "wikilink")[電視電影](../Page/電視電影.md "wikilink")。由[琇琴](../Page/琇琴.md "wikilink")、[葉瑋庭](../Page/葉瑋庭.md "wikilink")、[千苡桐領銜主演](../Page/千苡桐.md "wikilink")。\[1\]\[2\]故事描述部落青年外流，造成靈媒文化中斷無法傳承。\[3\]
+pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[原住民族電視台](https://zh.wikipedia.org/wiki/原住民族電視台 "wikilink")[電視電影](../Page/電視電影.md "wikilink")。由[琇琴](../Page/琇琴.md "wikilink")、[葉瑋庭](https://zh.wikipedia.org/wiki/葉瑋庭 "wikilink")、[千苡桐領銜主演](https://zh.wikipedia.org/wiki/千苡桐 "wikilink")。\[1\]\[2\]故事描述部落青年外流，造成靈媒文化中斷無法傳承。\[3\]
 2016年9月7日開鏡，2017年4月16日上檔。
 
 ## 播出時間
@@ -17,7 +17,7 @@ pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/原住民族電視台.md" title="wikilink">原住民族電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/原住民族電視台" title="wikilink">原住民族電視台</a></p></td>
 <td></td>
 <td><p>2017年4月16日</p></td>
 <td><p>每週日21：00</p></td>
@@ -49,7 +49,7 @@ pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/葉瑋庭.md" title="wikilink">葉瑋庭</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/葉瑋庭" title="wikilink">葉瑋庭</a></p></td>
 <td><center>
 <p>少尼謠(Sauniau)</p></td>
 <td></td>
@@ -63,7 +63,7 @@ pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/千苡桐.md" title="wikilink">千苡桐</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/千苡桐" title="wikilink">千苡桐</a></p></td>
 <td><center>
 <p>裘布朗</p></td>
 <td></td>
@@ -80,7 +80,7 @@ pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[�
 
   - 導演：高翊峰
   - 編劇：高翊峰
-  - 製作人：[呂綵庭](../Page/呂綵庭.md "wikilink")
+  - 製作人：[呂綵庭](https://zh.wikipedia.org/wiki/呂綵庭 "wikilink")
   - 製作公司：寶田文創工作室‬
   - 贊助單位：
 

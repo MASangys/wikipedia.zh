@@ -1,6 +1,6 @@
 **HTTP压缩**是一种内置到[网页服务器和](../Page/網頁伺服器.md "wikilink")[网页客户端中以改进传输速度和带宽利用率的方式](../Page/网页浏览器.md "wikilink")。\[1\]
 
-[HTTP数据在从服务器发送前就已](../Page/超文本传输协议.md "wikilink")[压缩](../Page/数据压缩.md "wikilink")：兼容的浏览器将在下载所需的格式前宣告支持何种方法给服务器；不支持压缩方法的浏览器将下载未经压缩的数据。最常见的压缩方案包括[gzip和](../Page/gzip.md "wikilink")[Deflate](../Page/DEFLATE.md "wikilink")，但可用方案的完整列表由[IANA维护](../Page/互联网号码分配局.md "wikilink")。\[2\]此外，第三方可能开发新的方法并纳入到其自身的产品，例如Google的面向HTTP共享字典压缩（SDCH）方案就实现在[Google
+[HTTP数据在从服务器发送前就已](../Page/超文本传输协议.md "wikilink")[压缩](../Page/数据压缩.md "wikilink")：兼容的浏览器将在下载所需的格式前宣告支持何种方法给服务器；不支持压缩方法的浏览器将下载未经压缩的数据。最常见的压缩方案包括[gzip和](https://zh.wikipedia.org/wiki/gzip "wikilink")[Deflate](../Page/DEFLATE.md "wikilink")，但可用方案的完整列表由[IANA维护](../Page/互联网号码分配局.md "wikilink")。\[2\]此外，第三方可能开发新的方法并纳入到其自身的产品，例如Google的面向HTTP共享字典压缩（SDCH）方案就实现在[Google
 Chrome浏览器和使用在Google的服务器上](../Page/Google_Chrome.md "wikilink")。
 
 在HTTP中有两种不同的方式可以完成压缩。在较低层级，Transfer-Encoding头可以指示HTTP消息的有效载荷被压缩。在较高层级，Content-Encoding头可以指示一个被转码、缓存或引用的资源已压缩。使用Content-Encoding的压缩比Transfer-Encoding有更广泛的支持，并且某些浏览器不宣告Transfer-Encoding压缩以避免触发服务器的缺陷。\[3\]
@@ -45,10 +45,10 @@ Content-Encoding: gzip
   - deflate – 基于[deflate算法](../Page/DEFLATE.md "wikilink")（定义于RFC
     1951）的压缩，使用zlib数据格式（RFC 1950）封装
   - exi – W3C高效XML交换
-  - [gzip](../Page/gzip.md "wikilink") – GNU zip格式（定义于RFC
-    1952）。此方法截至2011年3月，是应用程序支持最广泛的方法。\[5\]
+  - [gzip](https://zh.wikipedia.org/wiki/gzip "wikilink") – GNU
+    zip格式（定义于RFC 1952）。此方法截至2011年3月，是应用程序支持最广泛的方法。\[5\]
   - identity – 不转换内容。这是内容编码的默认值。
-  - [pack200-gzip](../Page/Pack200.md "wikilink") –
+  - [pack200-gzip](https://zh.wikipedia.org/wiki/Pack200 "wikilink") –
     传输Java存档文件的网络传输格式\[6\]
 
 除此之外，一些非官方或非标准化的标记也已被一些服务器或客户端使用：
@@ -56,9 +56,9 @@ Content-Encoding: gzip
   - br –
     [Brotli](../Page/Brotli.md "wikilink")，一种新的开源压缩算法，专为HTTP内容的编码而设计，已在[Mozilla
     Firefox
-    44中实现](../Page/Mozilla_Firefox_44.md "wikilink")，并且[Chromium正准备实施](../Page/Chromium.md "wikilink")。
-  - [bzip2](../Page/bzip2.md "wikilink") –
-    基于自由格式bzip2的压缩，被[lighttpd](../Page/lighttpd.md "wikilink")\[7\]
+    44中实现](https://zh.wikipedia.org/wiki/Mozilla_Firefox_44 "wikilink")，并且[Chromium正准备实施](../Page/Chromium.md "wikilink")。
+  - [bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink") –
+    基于自由格式bzip2的压缩，被[lighttpd](https://zh.wikipedia.org/wiki/lighttpd "wikilink")\[7\]
   - [lzma](../Page/LZMA.md "wikilink") – 基于原始LZMA的压缩，在Opera
     20中可用，elinks使用一个编译时选项也可启用\[8\]
   - peerdist\[9\] – [Microsoft对等端内容缓存和检索](../Page/微软.md "wikilink")
@@ -66,9 +66,10 @@ Content-Encoding: gzip
     [Google的面向HTTP共享字典压缩](../Page/Google.md "wikilink")，基于VCDIFF（RFC
     3284）；在最近的[Google
     Chrome](../Page/Google_Chrome.md "wikilink")、Chromium和Android版本中原生支持，并被Google的网站支持。
-  - xpress - [Windows商店](../Page/Windows商店.md "wikilink")（Windows
+  - xpress -
+    [Windows商店](https://zh.wikipedia.org/wiki/Windows商店 "wikilink")（Windows
     8及之后版本）的应用程序更新时使用的微软压缩协议。可选使用一个霍夫曼编码的基于LZ77的压缩。\[12\]
-  - [xz](../Page/xz.md "wikilink") -
+  - [xz](https://zh.wikipedia.org/wiki/xz "wikilink") -
     基于LZMA2的内容压缩，Firefox可使用非官方补丁支持；\[13\]mget自从2013年12月31日已完整实现。\[14\]
 
 ## 支持HTTP压缩的服务器
@@ -83,8 +84,8 @@ Content-Encoding: gzip
     server](../Page/Cherokee_\(Web服务器\).md "wikilink")，即时完成gzip和deflate压缩
   - Oracle iPlanet Web Server
   - Zeus Web Server
-  - [lighttpd](../Page/lighttpd.md "wikilink")，通过**mod_compress**和较新的**mod_deflate**（1.5.x）
-  - [nginx](../Page/nginx.md "wikilink") – 内置
+  - [lighttpd](https://zh.wikipedia.org/wiki/lighttpd "wikilink")，通过**mod_compress**和较新的**mod_deflate**（1.5.x）
+  - [nginx](https://zh.wikipedia.org/wiki/nginx "wikilink") – 内置
   - 基于[Tornado的应用程序](../Page/Tornado.md "wikilink")，如果“compress_response”在应用设置中设置为True（对4.0之前的版本，设置“gzip”为True）
   - [Jetty Server](../Page/Jetty.md "wikilink") –
     内置到默认的静态内容服务并在servlet过滤器配置中可用
@@ -100,13 +101,13 @@ HTTP中的压缩也可以使用服务器脚本语言（例如[PHP](../Page/PHP.m
 ## 阻碍使用HTTP压缩的问题
 
 2009年Google工程师Arvind Jain和Jason
-Glasgow的文章指出，每天有超过99[人年的时间由于用户没有接收到已压缩内容而增加的页面加载时间而浪费](../Page/人年.md "wikilink")\[18\]。这可能发生于：[反病毒软件检查连接导致内容变为未压缩](../Page/反病毒软件.md "wikilink")；使用[代理服务器](../Page/代理服务器.md "wikilink")（网页服务器为保兼容性而放弃压缩）；服务器配置不当；浏览器遇到问题而停止使用压缩。Internet
+Glasgow的文章指出，每天有超过99[人年的时间由于用户没有接收到已压缩内容而增加的页面加载时间而浪费](https://zh.wikipedia.org/wiki/人年 "wikilink")\[18\]。这可能发生于：[反病毒软件检查连接导致内容变为未压缩](https://zh.wikipedia.org/wiki/反病毒软件 "wikilink")；使用[代理服务器](../Page/代理服务器.md "wikilink")（网页服务器为保兼容性而放弃压缩）；服务器配置不当；浏览器遇到问题而停止使用压缩。Internet
 Explorer 6在使用代理服务器时会回退到使用HTTP
 1.0（没有压缩、流水线等特性）——这是企业环境中的常见配置——这也是主流浏览器最常遇到的，回落到未压缩HTTP的情况。\[19\]
 
 另一个大规模部署HTTP压缩遇到的问题是，**deflate**编码的定义：HTTP
 1.1将**deflate**编码定义为将deflate压缩（RFC
-1951）的数据放入一个[zlib格式的数据流](../Page/zlib.md "wikilink")（RFC
+1951）的数据放入一个[zlib格式的数据流](https://zh.wikipedia.org/wiki/zlib "wikilink")（RFC
 1950），而微软服务器和客户端产品历来将它实现为“原样”（"raw"）数据流，\[20\]这使其部署是不可靠的。\[21\]\[22\]出于此原因，部分软件（包括[Apache
 HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")）只实现**gzip**编码。
 

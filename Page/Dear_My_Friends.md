@@ -1,5 +1,5 @@
 《**Dear My
-Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.md "wikilink")2016年5月13日起播出的[金土連續劇](../Page/tvN金土連續劇.md "wikilink")，同時本劇也為tvN創社10周年特別企劃，由《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》[盧熙京作家與](../Page/盧熙京.md "wikilink")《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[我的秘密飯店](../Page/我的秘密飯店.md "wikilink")》[洪鍾燦導演聯手打造的作品](../Page/洪鍾燦.md "wikilink")。“人生還沒有結束，我們還活著”黃昏青春的人生禮贊，走向人生盡頭的朋友們之間的故事。此劇集集合多位演技深厚的資深演員共同擔綱演出，為罕有以老齡人生的故事作題材的電視劇。
+Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年5月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，同時本劇也為tvN創社10周年特別企劃，由《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》[盧熙京作家與](../Page/盧熙京.md "wikilink")《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[我的秘密飯店](https://zh.wikipedia.org/wiki/我的秘密飯店 "wikilink")》[洪鍾燦導演聯手打造的作品](../Page/洪鍾燦.md "wikilink")。“人生還沒有結束，我們還活著”黃昏青春的人生禮贊，走向人生盡頭的朋友們之間的故事。此劇集集合多位演技深厚的資深演員共同擔綱演出，為罕有以老齡人生的故事作題材的電視劇。
 
 ## 演員陣容
 
@@ -21,7 +21,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 </tr>
 <tr class="even">
 <td><p><a href="../Page/申久.md" title="wikilink">申久</a><br />
-<small>（青年：<a href="../Page/禹尚旭.md" title="wikilink">禹尚旭</a>）</small></p></td>
+<small>（青年：<a href="https://zh.wikipedia.org/wiki/禹尚旭" title="wikilink">禹尚旭</a>）</small></p></td>
 <td><p>金石鈞</p></td>
 <td><p><a href="../Page/譚炳文.md" title="wikilink">譚炳文</a></p></td>
 <td><p>75歲，晶雅的丈夫。傳統的大男人主義者，無時無刻都在規管晶雅的生活及使喚她。</p></td>
@@ -41,7 +41,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <tr class="odd">
 <td><p><a href="../Page/羅文姬.md" title="wikilink">羅文姬</a></p></td>
 <td><p>文晶雅</p></td>
-<td><p><a href="../Page/林丹鳳.md" title="wikilink">林丹鳳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林丹鳳" title="wikilink">林丹鳳</a></p></td>
 <td><p>72歲，喜慈的小學同學，石鈞的妻子。</p></td>
 </tr>
 <tr class="even">
@@ -71,13 +71,13 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <tr class="even">
 <td><p><a href="../Page/高賢廷.md" title="wikilink">高賢廷</a></p></td>
 <td><p>朴莞</p></td>
-<td><p><a href="../Page/曾佩儀.md" title="wikilink">曾佩儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
 <td><p>37歲，日語翻譯作家。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/申成宇.md" title="wikilink">申成宇</a></p></td>
 <td><p>韓東振</p></td>
-<td><p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 <td><p>40歲出頭，出版社代表，總編。</p></td>
 </tr>
 <tr class="even">
@@ -112,43 +112,43 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金正煥.md" title="wikilink">金正煥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金正煥" title="wikilink">金正煥</a></p></td>
 <td><p>張仁奉</p></td>
 <td></td>
 <td><p>雙芬的兒子，莞的舅舅。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/白承道.md" title="wikilink">白承道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白承道" title="wikilink">白承道</a></p></td>
 <td><p>楊周榮</p></td>
 <td></td>
 <td><p>忠南的姪子。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/邊佑錫.md" title="wikilink">邊佑錫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邊佑錫" title="wikilink">邊佑錫</a></p></td>
 <td><p>孫鍾錫</p></td>
 <td></td>
 <td><p>忠南的外甥。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/廉惠蘭.md" title="wikilink">廉惠蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廉惠蘭" title="wikilink">廉惠蘭</a></p></td>
 <td><p>金順英</p></td>
 <td></td>
 <td><p>晶雅的大女兒。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/權赫.md" title="wikilink">權赫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權赫" title="wikilink">權赫</a></p></td>
 <td><p>吳敘方</p></td>
 <td><p><a href="../Page/雷霆.md" title="wikilink">雷霆</a></p></td>
 <td><p>晶雅的大女婿，順英的丈夫。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/姜恩貞.md" title="wikilink">姜恩貞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜恩貞" title="wikilink">姜恩貞</a></p></td>
 <td><p>金浩英</p></td>
 <td></td>
 <td><p>晶雅的二女兒。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/韓貞賢.md" title="wikilink">韓貞賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓貞賢" title="wikilink">韓貞賢</a></p></td>
 <td><p>金秀英</p></td>
 <td></td>
 <td><p>晶雅的三女兒。</p></td>
@@ -160,7 +160,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td><p>大發炒碼麵店員工。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭宜淳.md" title="wikilink">鄭宜淳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭宜淳" title="wikilink">鄭宜淳</a></p></td>
 <td></td>
 <td></td>
 <td><p>大發炒碼麵店員工。</p></td>
@@ -172,13 +172,13 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙勝淵.md" title="wikilink">趙勝淵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙勝淵" title="wikilink">趙勝淵</a></p></td>
 <td></td>
 <td></td>
 <td><p>喜慈的兒子。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高寶潔.md" title="wikilink">高寶潔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高寶潔" title="wikilink">高寶潔</a></p></td>
 <td><p>荷娜</p></td>
 <td></td>
 <td><p>喜慈的媳婦，民浩的妻子。</p></td>
@@ -190,7 +190,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金太勳_(韓國演員).md" title="wikilink">金太勳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金太勳_(韓國演員)" title="wikilink">金太勳</a></p></td>
 <td><p>李教授</p></td>
 <td></td>
 <td></td>
@@ -213,57 +213,57 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李光世.md" title="wikilink">李光世</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李光世" title="wikilink">李光世</a></p></td>
 <td><p>奉伊</p></td>
 <td><p>石鈞的小學同窗。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高振明.md" title="wikilink">高振明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高振明" title="wikilink">高振明</a></p></td>
 <td></td>
 <td><p>石鈞的警衛同事。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朱福珍.md" title="wikilink">朱福珍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱福珍" title="wikilink">朱福珍</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/崔在燮.md" title="wikilink">崔在燮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔在燮" title="wikilink">崔在燮</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朴成妍.md" title="wikilink">朴成妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴成妍" title="wikilink">朴成妍</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朴秀敏.md" title="wikilink">朴秀敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴秀敏" title="wikilink">朴秀敏</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姜文慶.md" title="wikilink">姜文慶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜文慶" title="wikilink">姜文慶</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉弼蘭.md" title="wikilink">劉弼蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉弼蘭" title="wikilink">劉弼蘭</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金弼.md" title="wikilink">金弼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金弼" title="wikilink">金弼</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙慧元.md" title="wikilink">趙慧元</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙慧元" title="wikilink">趙慧元</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金暻愛.md" title="wikilink">金暻愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金暻愛" title="wikilink">金暻愛</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -273,12 +273,12 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金學善.md" title="wikilink">金學善</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金學善" title="wikilink">金學善</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/玉周梨.md" title="wikilink">玉周梨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玉周梨" title="wikilink">玉周梨</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -288,42 +288,42 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/南錫盧.md" title="wikilink">南錫盧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南錫盧" title="wikilink">南錫盧</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/權宰鉉.md" title="wikilink">權宰鉉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權宰鉉" title="wikilink">權宰鉉</a></p></td>
 <td><p>順哲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李正求.md" title="wikilink">李正求</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李正求" title="wikilink">李正求</a></p></td>
 <td><p>神父</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朴恩京.md" title="wikilink">朴恩京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴恩京" title="wikilink">朴恩京</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/具本英.md" title="wikilink">具本英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/具本英" title="wikilink">具本英</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金熙延.md" title="wikilink">金熙延</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金熙延" title="wikilink">金熙延</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/申新範.md" title="wikilink">申新範</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申新範" title="wikilink">申新範</a></p></td>
 <td></td>
 <td><p>石鈞的弟弟。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金美良.md" title="wikilink">金美良</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金美良" title="wikilink">金美良</a></p></td>
 <td></td>
 <td><p>石鈞的弟媳。</p></td>
 </tr>
@@ -365,12 +365,12 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <td><p>蘭熙店裡的常客。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李元鐘.md" title="wikilink">李元鐘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李元鐘" title="wikilink">李元鐘</a></p></td>
 <td></td>
 <td><p>雙芬的丈夫，蘭熙的父親。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/宋龍台.md" title="wikilink">宋龍台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋龍台" title="wikilink">宋龍台</a></p></td>
 <td><p>劉政哲</p></td>
 <td><p>喜慈的丈夫。</p></td>
 </tr>
@@ -420,7 +420,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>標題</p></th>
-<th><p><a href="../Page/AC尼爾森.md" title="wikilink">AGB</a> 收視率[1]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB</a> 收視率[1]</p></th>
 <th><p>排行</p></th>
 <th><p>TNmS 全國收視率[2]</p></th>
 </tr>
@@ -590,7 +590,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <!-- end list -->
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[怪異家族](../Page/怪異家族.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[工作媽媽，育兒爸爸](../Page/工作媽媽，育兒爸爸.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[工作媽媽，育兒爸爸](../Page/工作媽媽，育兒爸爸.md "wikilink")》
 
 <!-- end list -->
 
@@ -599,8 +599,8 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <!-- end list -->
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[五個孩子](../Page/五個孩子.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[家和萬事成](../Page/家和萬事成.md "wikilink")》
-  - [SBS](../Page/SBS株式會社.md "wikilink")：《[對，就是那樣](../Page/對，就是那樣.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[家和萬事成](../Page/家和萬事成.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[對，就是那樣](../Page/對，就是那樣.md "wikilink")》
 
 ## 獎項
 
@@ -617,7 +617,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 <tbody>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="../Page/tvN10_Awards.md" title="wikilink">tvN10 Awards</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN10_Awards" title="wikilink">tvN10 Awards</a></p></td>
 <td><p>電視劇本賞</p></td>
 <td><p>《Dear My Friends》</p></td>
 <td></td>
@@ -659,7 +659,7 @@ Friends**》（）為[韓國](../Page/韓國.md "wikilink")[tvN自](../Page/tvN.
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><a href="../Page/第53屆百想藝術大賞.md" title="wikilink">第53屆百想藝術大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第53屆百想藝術大賞" title="wikilink">第53屆百想藝術大賞</a></p></td>
 <td><p>電視劇作品賞</p></td>
 <td><p>《Dear My Friends》</p></td>
 <td></td>

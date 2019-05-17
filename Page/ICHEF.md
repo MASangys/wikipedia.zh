@@ -1,6 +1,6 @@
 **iCHEF**為一餐廳[行動銷售時點情報系統](../Page/行動銷售時點情報系統.md "wikilink")（），於2012年由資廚管理顧問股份有限公司（iCHEF
 Co.,
-Ltd.）發表，為一[行動應用程式](../Page/行動應用程式.md "wikilink")（[app](../Page/app.md "wikilink")），目前以[iOS為主要下載平台](../Page/iOS.md "wikilink")。運作模式為多台[iPad操作](../Page/iPad.md "wikilink")，從點餐、結帳、報表管理，完成餐廳服務。餐廳在網路斷線的離線模式，會同步將資料儲存至[雲端](../Page/雲端.md "wikilink")。透過[雲端處理交易資料](../Page/雲端.md "wikilink")，自動產出營業報表及各類別菜單銷售情況，進行自動分析。系統服務模式在餐廳內需[iPad](../Page/iPad.md "wikilink")、出單機、以及[Wi-Fi](../Page/Wi-Fi.md "wikilink")，避免傳統電腦或其他機體設備的空間佔據。\[1\]在使用架構上，在使用者的[智慧型電話或](../Page/智慧型電話.md "wikilink")[平板電腦進行操作介面設置及營業報表檢視](../Page/平板電腦.md "wikilink")，在iPad上進行餐廳內的點餐流程，包括提醒客人等待時間、桌位安排及點菜、口味標記、出餐確認、以及結帳或折扣，系統進行自動運算並產生報表。\[2\]
+Ltd.）發表，為一[行動應用程式](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")（[app](https://zh.wikipedia.org/wiki/app "wikilink")），目前以[iOS為主要下載平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。運作模式為多台[iPad操作](https://zh.wikipedia.org/wiki/iPad "wikilink")，從點餐、結帳、報表管理，完成餐廳服務。餐廳在網路斷線的離線模式，會同步將資料儲存至[雲端](https://zh.wikipedia.org/wiki/雲端 "wikilink")。透過[雲端處理交易資料](https://zh.wikipedia.org/wiki/雲端 "wikilink")，自動產出營業報表及各類別菜單銷售情況，進行自動分析。系統服務模式在餐廳內需[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、出單機、以及[Wi-Fi](../Page/Wi-Fi.md "wikilink")，避免傳統電腦或其他機體設備的空間佔據。\[1\]在使用架構上，在使用者的[智慧型電話或](https://zh.wikipedia.org/wiki/智慧型電話 "wikilink")[平板電腦進行操作介面設置及營業報表檢視](../Page/平板電腦.md "wikilink")，在iPad上進行餐廳內的點餐流程，包括提醒客人等待時間、桌位安排及點菜、口味標記、出餐確認、以及結帳或折扣，系統進行自動運算並產生報表。\[2\]
 
 ## 歷史沿革
 
@@ -11,15 +11,19 @@ Ltd.）發表，為一[行動應用程式](../Page/行動應用程式.md "wikili
   - 2014.06 舉辦 iCHEF Day 予餐廳經營者參與。
   - 2014.06.10 Echelon 2014評審團獎Global Brain Award。 \[3\]
   - 2014.07
-    [全聯董事長林敏雄投資](../Page/全聯.md "wikilink")150萬美元（約新台幣4600萬元），林敏雄取得iCHEF約25％股權。
+    [全聯董事長林敏雄投資](https://zh.wikipedia.org/wiki/全聯 "wikilink")150萬美元（約新台幣4600萬元），林敏雄取得iCHEF約25％股權。
     \[4\]
-  - 2014.10.30 與[中國信託合作](../Page/中國信託.md "wikilink")，推出桌邊刷卡服務功能。 \[5\]
+  - 2014.10.30
+    與[中國信託合作](https://zh.wikipedia.org/wiki/中國信託 "wikilink")，推出桌邊刷卡服務功能。
+    \[5\]
   - 2014.11.24 與foodpanda台灣的線上外送平台結合。 \[6\]
   - 2014.11.25 Startup Nation Summit Top 15。 \[7\]
   - 2014.12.19 Global Brain Alliance Forum（GBAF）舉辦World Ventures Pitch
     Battle 2014首獎。 \[8\]
   - 2015.03.04 推出iCHEF 2.0版本。 \[9\]
-  - 2015.03.13 與[中國信託合作](../Page/中國信託.md "wikilink")，推出藍芽直接付功能。 \[10\]
+  - 2015.03.13
+    與[中國信託合作](https://zh.wikipedia.org/wiki/中國信託 "wikilink")，推出藍芽直接付功能。
+    \[10\]
   - 2015.05.05 Future Commerce商務創新獎最佳科技應用獎及最佳流程管理優勝。 \[11\]
   - 2015.05.25 使用店家數達到 500 家。
   - 2015.08.14 紅茶店搶劫事件\[12\]\[13\]
@@ -43,11 +47,11 @@ Ltd.）發表，為一[行動應用程式](../Page/行動應用程式.md "wikili
 
 ### 分析報表
 
-增加雲端報表、營收走勢、人員效率、收銀正確性等門市管理的全自動分析，並有促銷成效、季節性變化、營收增減原因、內用外帶偏好、餐點口味人氣、團體點餐偏好、最佳套餐組合、時段客戶偏好設定等[行銷相關的分析功能](../Page/行銷.md "wikilink")。\[21\]
+增加雲端報表、營收走勢、人員效率、收銀正確性等門市管理的全自動分析，並有促銷成效、季節性變化、營收增減原因、內用外帶偏好、餐點口味人氣、團體點餐偏好、最佳套餐組合、時段客戶偏好設定等[行銷相關的分析功能](https://zh.wikipedia.org/wiki/行銷 "wikilink")。\[21\]
 
 ### 手機支付
 
-與[中國信託合作手機付款](../Page/中國信託.md "wikilink")，iPad會將帳單明細透過[iBeacon技術直接送到客人](../Page/iBeacon.md "wikilink")[iPhone上](../Page/iPhone.md "wikilink")，客人確認後輸入密碼就完成[信用卡交易](../Page/信用卡.md "wikilink")，直接透過手機付款。
+與[中國信託合作手機付款](https://zh.wikipedia.org/wiki/中國信託 "wikilink")，iPad會將帳單明細透過[iBeacon技術直接送到客人](https://zh.wikipedia.org/wiki/iBeacon "wikilink")[iPhone上](https://zh.wikipedia.org/wiki/iPhone "wikilink")，客人確認後輸入密碼就完成[信用卡交易](../Page/信用卡.md "wikilink")，直接透過手機付款。
 \[22\]
 
 ## 相關獎項

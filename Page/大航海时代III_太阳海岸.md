@@ -1,4 +1,4 @@
-是日本[光荣公司出品的](../Page/光荣公司.md "wikilink")[模拟类游戏](../Page/模拟游戏.md "wikilink")[大航海时代系列的第三部](../Page/大航海时代系列.md "wikilink")，于1996年11月29日发行。
+是日本[光荣公司出品的](https://zh.wikipedia.org/wiki/光荣公司 "wikilink")[模拟类游戏](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")[大航海时代系列的第三部](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")，于1996年11月29日发行。
 
 对应机种Windows和Macintosh，无[家用游戏机移植版](../Page/家用游戏机.md "wikilink")。
 
@@ -6,7 +6,7 @@
 
 ## 時代背景
 
-本作的背景设定于《大航海时代II》开始年代之前的1480年，也就是[地理大发现的萌芽阶段](../Page/地理大发现.md "wikilink")。此时，西班牙的[收复失地运动尚未完成](../Page/收复失地运动.md "wikilink")，[伊比利亚半岛南部的](../Page/伊比利亚半岛.md "wikilink")[格拉纳达仍是](../Page/格拉纳达.md "wikilink")[伊斯兰的势力范围](../Page/伊斯兰.md "wikilink")。随着时间的推移，游戏的进程也根据历史的发展向前推进，并在一定程度上受到玩家的影响。
+本作的背景设定于《大航海时代II》开始年代之前的1480年，也就是[地理大发现的萌芽阶段](../Page/地理大发现.md "wikilink")。此时，西班牙的[收复失地运动尚未完成](https://zh.wikipedia.org/wiki/收复失地运动 "wikilink")，[伊比利亚半岛南部的](../Page/伊比利亚半岛.md "wikilink")[格拉纳达仍是](https://zh.wikipedia.org/wiki/格拉纳达 "wikilink")[伊斯兰的势力范围](https://zh.wikipedia.org/wiki/伊斯兰 "wikilink")。随着时间的推移，游戏的进程也根据历史的发展向前推进，并在一定程度上受到玩家的影响。
 
 此外，游戏中存在因政治原因造成的进港困难。玩家扮演的航海者在进入与基督教国家敌对的伊斯兰的城市以及实行[海禁的明朝都市时都会遇到阻碍](../Page/海禁.md "wikilink")。1494年西班牙和葡萄牙签订《[托尔德西里亚斯条约](../Page/托尔德西里亚斯条约.md "wikilink")》之后，两国之中一国的玩家进入另一国的城市也会被阻拦。这些城市可以通过金钱交涉进入，或者冒着失败的风险秘密潜入，也可以通过武力进攻强行占领。
 
@@ -18,15 +18,15 @@
 
 玩家会与历史上的航海家们竞争，争取在他们之前完成相关的地理大发现。
 
-  - [巴尔托洛梅乌·迪亚士](../Page/巴尔托洛梅乌·迪亚士.md "wikilink")
+  - [巴尔托洛梅乌·迪亚士](https://zh.wikipedia.org/wiki/巴尔托洛梅乌·迪亚士 "wikilink")
   - [克里斯托弗·哥伦布](../Page/克里斯托弗·哥伦布.md "wikilink")
   - [亚美利哥·韦斯普奇](../Page/亚美利哥·韦斯普奇.md "wikilink")
   - [费尔南多·德·麦哲伦](../Page/斐迪南·麥哲倫.md "wikilink")
   - [胡安·塞巴斯蒂安·埃尔卡诺](../Page/胡安·塞巴斯蒂安·埃尔卡诺.md "wikilink")
-  - [瓦斯科·达伽马](../Page/瓦斯科·达伽马.md "wikilink")
+  - [瓦斯科·达伽马](https://zh.wikipedia.org/wiki/瓦斯科·达伽马 "wikilink")
   - [阿方索·德·阿尔布克尔克](../Page/阿方索·德·阿尔布克尔克.md "wikilink")
-  - [埃尔南·科尔特斯](../Page/埃尔南·科尔特斯.md "wikilink")
-  - [弗朗西斯科·皮萨罗](../Page/弗朗西斯科·皮萨罗.md "wikilink")
+  - [埃尔南·科尔特斯](https://zh.wikipedia.org/wiki/埃尔南·科尔特斯 "wikilink")
+  - [弗朗西斯科·皮萨罗](https://zh.wikipedia.org/wiki/弗朗西斯科·皮萨罗 "wikilink")
 
 #### 其他
 
@@ -38,10 +38,10 @@
   - [尼古拉·哥白尼](../Page/尼古拉·哥白尼.md "wikilink")
   - [米开朗基罗](../Page/米开朗基罗.md "wikilink")
   - [弗拉德三世](../Page/弗拉德三世.md "wikilink")
-  - [瑪琳娜利](../Page/瑪琳娜利.md "wikilink")
+  - [瑪琳娜利](https://zh.wikipedia.org/wiki/瑪琳娜利 "wikilink")
   - Gerónimo de Aguilar
-  - [方济·沙勿略](../Page/方济·沙勿略.md "wikilink")
-  - [塚原卜传](../Page/塚原卜传.md "wikilink")
+  - [方济·沙勿略](https://zh.wikipedia.org/wiki/方济·沙勿略 "wikilink")
+  - [塚原卜传](https://zh.wikipedia.org/wiki/塚原卜传 "wikilink")
 
 ## 外部链接
 

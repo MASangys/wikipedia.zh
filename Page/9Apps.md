@@ -1,6 +1,6 @@
-**9Apps**是[阿里巴巴集团移动事业群旗下的](../Page/阿里巴巴集团.md "wikilink")[移动应用](../Page/移动应用.md "wikilink")[分发平台](../Page/分发平台.md "wikilink")，是国际第三方[安卓应用和游戏商店](../Page/安卓.md "wikilink")，海外安卓手机用户可以以免登录的方式下载手机应用和游戏\[1\]\[2\]。
+**9Apps**是[阿里巴巴集团移动事业群旗下的](../Page/阿里巴巴集团.md "wikilink")[移动应用](https://zh.wikipedia.org/wiki/移动应用 "wikilink")[分发平台](https://zh.wikipedia.org/wiki/分发平台 "wikilink")，是国际第三方[安卓应用和游戏商店](https://zh.wikipedia.org/wiki/安卓 "wikilink")，海外安卓手机用户可以以免登录的方式下载手机应用和游戏\[1\]\[2\]。
 
-9Apps品牌创建于2013年12月，用户覆盖[印度](../Page/印度.md "wikilink")、[印尼](../Page/印尼.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[东南亚和](../Page/东南亚.md "wikilink")[中东地区等](../Page/中东.md "wikilink")10个新兴国家。截止2016年4月，该平台日均应用/游戏发行量超过2600万，月活跃用户超过2.5亿\[3\]。
+9Apps品牌创建于2013年12月，用户覆盖[印度](../Page/印度.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[东南亚和](https://zh.wikipedia.org/wiki/东南亚 "wikilink")[中东地区等](../Page/中东.md "wikilink")10个新兴国家。截止2016年4月，该平台日均应用/游戏发行量超过2600万，月活跃用户超过2.5亿\[3\]。
 
 ## 品牌历史
 

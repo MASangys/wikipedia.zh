@@ -1,11 +1,11 @@
 **UNDER LOVER**，又稱**地下情人**，是於影音網站發跡的男子雙人組合，團員為胡睿兒與楊琳。
 
-胡睿兒與楊琳都是[花蓮縣](../Page/花蓮縣.md "wikilink")[阿美族人](../Page/阿美族.md "wikilink")，但胡睿兒少年時遷居臺北，在[花蓮](../Page/花蓮.md "wikilink")[服役期間認識楊琳](../Page/服役.md "wikilink")，相約一起作音樂，胡睿兒不顧家中反對，堅持與楊琳合作，2010年開始在網路深耕，2012年胡睿兒以與[玖壹壹團員](../Page/玖壹壹.md "wikilink")「洋蔥」合作的《癡情的男子漢》一曲爆紅，成為知名的網路歌手。2015年正式發行首張實體專輯，兩人又以與[玖壹壹的](../Page/玖壹壹.md "wikilink")「春風」合作的一曲《癡情玫瑰花》攻佔各大排行榜，還在YouTube
+胡睿兒與楊琳都是[花蓮縣](../Page/花蓮縣.md "wikilink")[阿美族人](../Page/阿美族.md "wikilink")，但胡睿兒少年時遷居臺北，在[花蓮](https://zh.wikipedia.org/wiki/花蓮 "wikilink")[服役期間認識楊琳](https://zh.wikipedia.org/wiki/服役 "wikilink")，相約一起作音樂，胡睿兒不顧家中反對，堅持與楊琳合作，2010年開始在網路深耕，2012年胡睿兒以與[玖壹壹團員](https://zh.wikipedia.org/wiki/玖壹壹 "wikilink")「洋蔥」合作的《癡情的男子漢》一曲爆紅，成為知名的網路歌手。2015年正式發行首張實體專輯，兩人又以與[玖壹壹的](https://zh.wikipedia.org/wiki/玖壹壹 "wikilink")「春風」合作的一曲《癡情玫瑰花》攻佔各大排行榜，還在YouTube
 破了一億兩千兩百萬多觀看次數。
 
-2016年9月22日，胡睿兒與其女友[林采緹涉及吸食](../Page/林采緹.md "wikilink")[大麻](../Page/大麻.md "wikilink")，遭到法辦。而後兩人情感不變，並於2018年結婚，7月生下一子，[小名](../Page/小名.md "wikilink")「夏天」。
+2016年9月22日，胡睿兒與其女友[林采緹涉及吸食](https://zh.wikipedia.org/wiki/林采緹 "wikilink")[大麻](../Page/大麻.md "wikilink")，遭到法辦。而後兩人情感不變，並於2018年結婚，7月生下一子，[小名](https://zh.wikipedia.org/wiki/小名 "wikilink")「夏天」。
 
-2018年6月，胡睿兒被指控在[台北東區夜店](../Page/台北東區.md "wikilink")[性侵一名女性](../Page/性侵.md "wikilink")，胡睿兒稱兩人是酒後的[一夜情](../Page/一夜情.md "wikilink")，而且只是[愛撫](../Page/愛撫.md "wikilink")，並未真正發生[性交](../Page/性交.md "wikilink")，而後賠償該女[新臺幣](../Page/新臺幣.md "wikilink")40萬元，但法庭審理時，該女依然向法庭陳述，不希望胡睿兒得到[緩刑](../Page/緩刑.md "wikilink")。2019年2月，胡睿兒被依照[乘機性交罪](../Page/乘機性交.md "wikilink")，判處[有期徒刑二年](../Page/有期徒刑.md "wikilink")，不得緩刑。
+2018年6月，胡睿兒被指控在[台北東區夜店](https://zh.wikipedia.org/wiki/台北東區 "wikilink")[性侵一名女性](https://zh.wikipedia.org/wiki/性侵 "wikilink")，胡睿兒稱兩人是酒後的[一夜情](../Page/一夜情.md "wikilink")，而且只是[愛撫](../Page/愛撫.md "wikilink")，並未真正發生[性交](../Page/性交.md "wikilink")，而後賠償該女[新臺幣](../Page/新臺幣.md "wikilink")40萬元，但法庭審理時，該女依然向法庭陳述，不希望胡睿兒得到[緩刑](https://zh.wikipedia.org/wiki/緩刑 "wikilink")。2019年2月，胡睿兒被依照[乘機性交罪](https://zh.wikipedia.org/wiki/乘機性交 "wikilink")，判處[有期徒刑二年](../Page/有期徒刑.md "wikilink")，不得緩刑。
 
 ## 成員簡介
 
@@ -31,8 +31,8 @@
 <!-- end list -->
 
   -
-    12月19日《癡情的男子漢》[玖壹壹](../Page/玖壹壹.md "wikilink")─春風 ft.UNDER
-    LOVER─睿兒（mix by DJ 西瓜 蘇昭文）
+    12月19日《癡情的男子漢》[玖壹壹](https://zh.wikipedia.org/wiki/玖壹壹 "wikilink")─春風
+    ft.UNDER LOVER─睿兒（mix by DJ 西瓜 蘇昭文）
 
 <!-- end list -->
 
@@ -84,10 +84,11 @@
 
 ## 大麻事件
 
-2016年9月22日，臺北警方持搜索票，搜索團員胡睿兒的大安區住處，搜出1.24公克[大麻](../Page/大麻.md "wikilink")（臺灣定為[二級毒品](../Page/二級毒品.md "wikilink")），胡睿兒與邵姓友人被捕，而在同一屋內其他房間的團員楊琳，及胡睿兒的女友藝人[林采緹否認吸毒](../Page/林采緹.md "wikilink")，經警方帶回偵訊及驗尿後，先行請回。胡則被移送[臺北地檢署複訊](../Page/臺北地檢署.md "wikilink")，並以[新臺幣一萬元交保候傳](../Page/新臺幣.md "wikilink")，胡睿兒吸食大麻的消息，隔天立馬召開記者會，對粉絲、團員及家人道歉，也為這件事件做出簡單說明，並表示自己不會再做出不良示範。而這次呼麻事件也令許多[粉絲相當驚訝](../Page/粉絲.md "wikilink")。\[1\]\[2\]\[3\]2016年11月檢察官考量認罪且是初犯，將他緩起訴2年，須進行戒癮治療2年，並各服40小時義務勞務\[4\]。
+2016年9月22日，臺北警方持搜索票，搜索團員胡睿兒的大安區住處，搜出1.24公克[大麻](../Page/大麻.md "wikilink")（臺灣定為[二級毒品](https://zh.wikipedia.org/wiki/二級毒品 "wikilink")），胡睿兒與邵姓友人被捕，而在同一屋內其他房間的團員楊琳，及胡睿兒的女友藝人[林采緹否認吸毒](https://zh.wikipedia.org/wiki/林采緹 "wikilink")，經警方帶回偵訊及驗尿後，先行請回。胡則被移送[臺北地檢署複訊](https://zh.wikipedia.org/wiki/臺北地檢署 "wikilink")，並以[新臺幣一萬元交保候傳](../Page/新臺幣.md "wikilink")，胡睿兒吸食大麻的消息，隔天立馬召開記者會，對粉絲、團員及家人道歉，也為這件事件做出簡單說明，並表示自己不會再做出不良示範。而這次呼麻事件也令許多[粉絲相當驚訝](https://zh.wikipedia.org/wiki/粉絲 "wikilink")。\[1\]\[2\]\[3\]2016年11月檢察官考量認罪且是初犯，將他緩起訴2年，須進行戒癮治療2年，並各服40小時義務勞務\[4\]。
 
-由於胡睿兒與[玖壹壹的健志曾經共同創作歌曲](../Page/玖壹壹.md "wikilink")《Mary Jane瑪麗珍》，加上「Mary
-Jane」在[美國是](../Page/美國.md "wikilink")「大麻」的[黑話](../Page/黑話.md "wikilink")，[MV有吸](../Page/MV.md "wikilink")[水煙的畫面](../Page/水煙.md "wikilink")，這首歌又掀起討論，健志則解釋這首歌只是寫給前女友的故事。\[5\]\[6\]
+由於胡睿兒與[玖壹壹的健志曾經共同創作歌曲](https://zh.wikipedia.org/wiki/玖壹壹 "wikilink")《Mary
+Jane瑪麗珍》，加上「Mary
+Jane」在[美國是](https://zh.wikipedia.org/wiki/美國 "wikilink")「大麻」的[黑話](https://zh.wikipedia.org/wiki/黑話 "wikilink")，[MV有吸](https://zh.wikipedia.org/wiki/MV "wikilink")[水煙的畫面](../Page/水煙.md "wikilink")，這首歌又掀起討論，健志則解釋這首歌只是寫給前女友的故事。\[5\]\[6\]
 
 胡睿兒先前因吸食毒品獲緩起訴，卻在緩起訴期間再涉犯有期徒刑之罪，台北地檢署2018年11月15日依規定撤銷其毒品案的緩起訴，改依吸食二級毒品罪將他提起公訴\[7\]。
 
@@ -98,7 +99,7 @@ up》Feat. 李起光 & Electroboyz)
 
 ## 相關條目
 
-  - [玖壹壹](../Page/玖壹壹.md "wikilink")
+  - [玖壹壹](https://zh.wikipedia.org/wiki/玖壹壹 "wikilink")
 
 ## 参考资料
 

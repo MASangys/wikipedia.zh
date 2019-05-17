@@ -1,13 +1,13 @@
-是一款在[索尼](../Page/索尼.md "wikilink")[PlayStation上发行的](../Page/PlayStation.md "wikilink")[竞速游戏](../Page/竞速游戏.md "wikilink")。GT赛车2由[Polyphony
+是一款在[索尼](../Page/索尼.md "wikilink")[PlayStation上发行的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")。GT赛车2由[Polyphony
 Digital](../Page/Polyphony_Digital.md "wikilink")
-制作、[索尼電腦娛樂于](../Page/索尼電腦娛樂.md "wikilink")1999年发行。本游戏是《[GT賽車](../Page/GT賽車_\(遊戲\).md "wikilink")》的续作。本游戏收到好评，在日本共售出171万份，在东南亚售出2万份，在北美地区售出396万份，在欧洲守护368万份。至2008年4月30日，共售出937万份。\[1\]\[2\]并最终成为索尼[Greatest
-Hits](../Page/Greatest_Hits.md "wikilink") 游戏。
+制作、[索尼電腦娛樂于](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")1999年发行。本游戏是《[GT賽車](https://zh.wikipedia.org/wiki/GT賽車_\(遊戲\) "wikilink")》的续作。本游戏收到好评，在日本共售出171万份，在东南亚售出2万份，在北美地区售出396万份，在欧洲守护368万份。至2008年4月30日，共售出937万份。\[1\]\[2\]并最终成为索尼[Greatest
+Hits](https://zh.wikipedia.org/wiki/Greatest_Hits "wikilink") 游戏。
 
 本作收到[Metacritic](../Page/Metacritic.md "wikilink")93%的关注。GT赛车2也是第一款在[Dreamcast上通过Bleemcast模拟的游戏](../Page/Dreamcast.md "wikilink")。
 
 ## 制作
 
-在收到《[GT賽車](../Page/GT賽車_\(遊戲\).md "wikilink")》的未期待的成功之后，开发领导者[山內一典开始计划制作一部更为优秀的作品](../Page/山內一典.md "wikilink")《GT赛车2》。\[3\]索尼电脑娱乐市场总监曾高度期望到“令人震撼和持续流行的《GT赛车》清楚的说明《GT赛车2》在假日之中以及之后成为最为火热的一款游戏之一”。\[4\]Jack
+在收到《[GT賽車](https://zh.wikipedia.org/wiki/GT賽車_\(遊戲\) "wikilink")》的未期待的成功之后，开发领导者[山內一典开始计划制作一部更为优秀的作品](https://zh.wikipedia.org/wiki/山內一典 "wikilink")《GT赛车2》。\[3\]索尼电脑娱乐市场总监曾高度期望到“令人震撼和持续流行的《GT赛车》清楚的说明《GT赛车2》在假日之中以及之后成为最为火热的一款游戏之一”。\[4\]Jack
 Tretton（索尼电脑娱乐的销售副主管）具有同样的热情。他期望“《GT赛车2》能够比初代销售得更好，并且持续具有这一系列游戏的动能”。\[5\]
 
 在游戏发行之初，玩家很快发现一些错误和故障。索尼电脑娱乐并没有忽略这个投诉。如果出现任何错误之后，他们提供更换。\[6\]

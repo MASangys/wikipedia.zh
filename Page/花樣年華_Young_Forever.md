@@ -1,6 +1,6 @@
 《**花樣年華 Young
-Forever**》是[韓國](../Page/韓國.md "wikilink")[男子團體](../Page/男子團體.md "wikilink")[防彈少年團的韓語特別專輯](../Page/防彈少年團.md "wikilink")，「青春二部曲」系列專輯的收尾作品。2016年5月2日由[Big
-Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Page/LOEN娛樂.md "wikilink")\[1\]，主打曲目為〈불타오르네（FIRE）〉。
+Forever**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團的韓語特別專輯](../Page/防彈少年團.md "wikilink")，「青春二部曲」系列專輯的收尾作品。2016年5月2日由[Big
+Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]，主打曲目為〈불타오르네（FIRE）〉。
 
 ## 簡介
 
@@ -18,7 +18,7 @@ Me〉和〈Epilogue: Young
 Forever〉成為該排行榜前三名\[13\]。6月9日，Youtube5月份全球K-POP
 MV觀看次數，〈FIRE〉和〈Save ME〉分別奪下冠亞軍\[14\]。
 
-9月7日，[蘋果公司舉行](../Page/蘋果公司.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")7發表會並且介紹Apple
+9月7日，[蘋果公司舉行](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")7發表會並且介紹Apple
 Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專輯當中唯一的韓語專輯。\[15\]
 
 ## 曲目
@@ -41,7 +41,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年5月1日－5月7日</p></td>
 <td><p>#7</p></td>
@@ -98,7 +98,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2017年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2017年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
 <td><p>2017年</p></td>
 <td><p>#37<br />
 （89,761張）</p></td>
@@ -107,7 +107,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#33<br />
 （129,819張）</p></td>
@@ -169,7 +169,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <tr class="even">
 <td><p>美國</p></td>
 <td><p><a href="../Page/告示牌_(雜誌).md" title="wikilink">告示牌專輯榜</a></p></td>
-<td><p><a href="../Page/告示牌200大專輯榜.md" title="wikilink">200大專輯榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/告示牌200大專輯榜" title="wikilink">200大專輯榜</a></p></td>
 <td><p>2016年5月15日－5月21日</p></td>
 <td><p>#107<br />
 （6,000張）</p></td>
@@ -192,7 +192,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/告示牌200大專輯榜.md" title="wikilink">國際專輯榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/告示牌200大專輯榜" title="wikilink">國際專輯榜</a></p></td>
 <td><p>#2</p></td>
 <td><p>[25]</p></td>
 <td></td>
@@ -213,17 +213,17 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 
 ### 其他歌曲成績
 
-| 歌曲                                              | 榜單                                              | 類型                                              | 停留時間           | 最高位置 | 參考資料   |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | -------------- | ---- | ------ |
-| Save ME                                         | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink")        | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月1日－5月7日 | \#19 | \[27\] |
-| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月                                         | \#52                                            |                |      |        |
-| EPILOGUE：Young Forever                          | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月1日－5月7日                                  | \#31           |      |        |
-| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月                                         | \#86                                            |                |      |        |
-| Butterfly（Prologue Mix）                         | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月1日－5月7日                                  | \#57           |      |        |
-| Love is Not Over（Full Length Edition）           | \#60                                            |                                                 |                |      |        |
-| House Of Cards（Full Length Edition）             | \#61                                            |                                                 |                |      |        |
-| RUN（Ballad Mix）                                 | \#68                                            |                                                 |                |      |        |
-| I NEED U（Urban Mix）                             | \#97                                            |                                                 |                |      |        |
+| 歌曲                                              | 榜單                                                          | 類型                                              | 停留時間           | 最高位置 | 參考資料   |
+| ----------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | -------------- | ---- | ------ |
+| Save ME                                         | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月1日－5月7日 | \#19 | \[27\] |
+| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月                                                     | \#52                                            |                |      |        |
+| EPILOGUE：Young Forever                          | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")             | 2016年5月1日－5月7日                                  | \#31           |      |        |
+| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月                                                     | \#86                                            |                |      |        |
+| Butterfly（Prologue Mix）                         | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")             | 2016年5月1日－5月7日                                  | \#57           |      |        |
+| Love is Not Over（Full Length Edition）           | \#60                                                        |                                                 |                |      |        |
+| House Of Cards（Full Length Edition）             | \#61                                                        |                                                 |                |      |        |
+| RUN（Ballad Mix）                                 | \#68                                                        |                                                 |                |      |        |
+| I NEED U（Urban Mix）                             | \#97                                                        |                                                 |                |      |        |
 
 #### 日本版
 
@@ -281,7 +281,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <td><p>2016年5月2日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a>、<a href="../Page/CD.md" title="wikilink">CD</a></p></td>
 <td><p><a href="../Page/Big_Hit娛樂.md" title="wikilink">Big Hit娛樂</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>
@@ -292,7 +292,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <tr class="odd">
 <td><p>日本</p></td>
 <td><p>2017年3月15日</p></td>
-<td><p><a href="../Page/波麗佳音.md" title="wikilink">波麗佳音</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波麗佳音" title="wikilink">波麗佳音</a></p></td>
 <td></td>
 </tr>
 </tbody>

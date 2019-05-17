@@ -1,6 +1,6 @@
 [JW_Marriott_Hotel_Lobby_night_view_2016.jpg](https://zh.wikipedia.org/wiki/File:JW_Marriott_Hotel_Lobby_night_view_2016.jpg "fig:JW_Marriott_Hotel_Lobby_night_view_2016.jpg")
 
-**澳門JW萬豪酒店**（）是亞洲最大的[JW萬豪酒店](../Page/JW萬豪酒店.md "wikilink")。於2015年5月開幕，位於[澳門](../Page/澳門.md "wikilink")[綜合度假城](../Page/綜合度假城.md "wikilink")[澳門銀河第](../Page/澳門銀河.md "wikilink")2期。被《米芝蓮指南香港澳門2016》評價為「高級舒適」酒店。酒店位於地下至31樓，擁有1,015間客房及套房。\[1\]
+**澳門JW萬豪酒店**（）是亞洲最大的[JW萬豪酒店](../Page/JW萬豪酒店.md "wikilink")。於2015年5月開幕，位於[澳門](../Page/澳門.md "wikilink")[綜合度假城](https://zh.wikipedia.org/wiki/綜合度假城 "wikilink")[澳門銀河第](../Page/澳門銀河.md "wikilink")2期。被《米芝蓮指南香港澳門2016》評價為「高級舒適」酒店。酒店位於地下至31樓，擁有1,015間客房及套房。\[1\]
 
 ## 設施
 

@@ -1,7 +1,7 @@
 **Windows系统评估工具**（，简称**WinSAT**）是[微软](../Page/微软.md "wikilink")[Windows
 Vista](../Page/Windows_Vista.md "wikilink")、[Windows
-7和](../Page/Windows_7.md "wikilink")[Windows
-8中的一个模块](../Page/Windows_8.md "wikilink")，可以在[控制面板的性能信息和工具中找到](../Page/控制面板.md "wikilink")（[Windows
+7和](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows
+8中的一个模块](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，可以在[控制面板的性能信息和工具中找到](../Page/控制面板.md "wikilink")（[Windows
 8.1中除外](../Page/Windows_8.1.md "wikilink")）。此工具可以测量当前运行硬件的各项特征和能力，然后将其报告为**Windows体验指数**（，简称**WEI**）得分。体验指数包括五项子分数：处理器、内存、2D图形、3D图形和磁盘。最终的体验指数得分是分数最低的子分数，而**不是**五个子分数的平均值。\[1\]\[2\]Windows
 Vista中的WinSAT将体验指数报告为一个从1.0至5.9的得分，\[3\]Windows 7中上限增至7.9\[4\]Windows
 8中增至9.9。\[5\]
@@ -23,7 +23,7 @@ Windows体验指数在[Windows
 在2003年的[Game Developers
 Conference上](../Page/游戏开发者大会.md "wikilink")，微软的Windows图形和游戏总经理Dean
 Lester在[GameSpot的采访中指出](../Page/GameSpot.md "wikilink")，微软打算在Windows的下一版本（代号“Longhorn”，后来的[Windows
-Vista](../Page/Windows_Vista.md "wikilink")）中将改善PC游戏体验作为新游戏倡议的一部分。莱斯特表示，这项倡议的一部分是操作系统将包含一个[游戏文件夹以集中化游戏的设置](../Page/Games_for_Windows.md "wikilink")，以及其他功能，[显卡驱动的精简](../Page/Windows_Display_Driver_Model.md "wikilink")、和在安装时[可以直接从光盘启动Windows游戏](../Page/Games_for_Windows.md "wikilink")——类似[電子遊戲機的设计方式](../Page/電子遊戲機.md "wikilink")。微软还想要求在适用于Windows游戏的零售包装上使用新的系统需求说明系统，使用一个数字评分分类需求。\[15\]在2004年，Lester说明微软想进一步扩展与硬件厂商的合作，使用一个“级别系统”标定系统硬件的性能和功能，创建适用于Windows
+Vista](../Page/Windows_Vista.md "wikilink")）中将改善PC游戏体验作为新游戏倡议的一部分。莱斯特表示，这项倡议的一部分是操作系统将包含一个[游戏文件夹以集中化游戏的设置](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")，以及其他功能，[显卡驱动的精简](../Page/Windows_Display_Driver_Model.md "wikilink")、和在安装时[可以直接从光盘启动Windows游戏](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")——类似[電子遊戲機的设计方式](../Page/電子遊戲機.md "wikilink")。微软还想要求在适用于Windows游戏的零售包装上使用新的系统需求说明系统，使用一个数字评分分类需求。\[15\]在2004年，Lester说明微软想进一步扩展与硬件厂商的合作，使用一个“级别系统”标定系统硬件的性能和功能，创建适用于Windows
 Vista的PC，以及[Xbox
 360外围设备将会与操作系统完全兼容](../Page/Xbox_360.md "wikilink")。\[16\]Windows
 Vista中的Windows体验指数依赖于WinSAT的测量结果，它可以提供准确的评估系统的能力——这些评级表示系统的能力，较高的得分表示更好的性能。
@@ -42,7 +42,7 @@ Windows Vista和Windows 7中的WinSAT执行下列测试：
   - Direct3D 9 Batch评估
   - Direct3D 9 评估
   - Direct3D 9 [Texture](../Page/材质贴图.md "wikilink") Load评估
-  - Direct3D 9 [ALU评估](../Page/算術邏輯單元.md "wikilink")
+  - Direct3D 9 [ALU评估](https://zh.wikipedia.org/wiki/算術邏輯單元 "wikilink")
   - Direct3D 10 Batch评估
   - Direct3D 10 Alpha Blend评估
   - Direct3D 10 Texture Load评估
@@ -61,7 +61,7 @@ Glass以便工具能准确评估显卡和CPU。
 在 Windows 7 和 Windows 8
 中，WinSAT会在每周维护计划时自动运行，计划任务位置：\\Microsoft\\Windows\\Maintenance。默认时间安排是星期日上午1时。维护计划整合各类操作系统任务到一个计划任务，以便计算机不会被各个任务随机打断。计划任务会将计算机从睡眠中唤醒，运行所有计划的任务，然后让计算机进入睡眠。在每周任务中，WinSAT会运行足够长的时间以检测是否已有任何硬件变更。如果发现，会重新运行各项测试。如果没有，WinSAT则只是自动结束并认定现有得分有效。
 
-WinSAT在[笔记本电脑使用电池供电时不会运行上述测试](../Page/笔记本电脑.md "wikilink")。
+WinSAT在[笔记本电脑使用电池供电时不会运行上述测试](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。
 
 ## 参考资料
 

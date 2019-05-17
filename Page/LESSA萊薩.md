@@ -1,4 +1,4 @@
-**LESSA萊薩**（，）是一部[韓國](../Page/韓國.md "wikilink")[網絡](../Page/網絡.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")，由漫畫家[POGO所繪](../Page/POGO.md "wikilink")，2012年開始於[NAVER](../Page/Naver_\(公司\).md "wikilink")
+**LESSA萊薩**（，）是一部[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，由漫畫家[POGO所繪](https://zh.wikipedia.org/wiki/POGO "wikilink")，2012年開始於[NAVER](../Page/Naver_\(公司\).md "wikilink")
 [Webtoon連載](../Page/Webtoon.md "wikilink")\[1\]。
 
 ## 劇情簡介
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   - 露西‧博格（，）
-    女性，拉諾的妹妹，詳見[主要角色](../Page/#主要角色.md "wikilink")。\[9\]
+    女性，拉諾的妹妹，詳見[主要角色](https://zh.wikipedia.org/wiki/#主要角色 "wikilink")。\[9\]
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@
 ## 特殊用語
 
   - 敵蠻（，）
-    五年前開始於赫斯坤島出現的怪人，頭上長有兩隻犄角，有發達的[臼齒](../Page/臼齒.md "wikilink")，對陽光沒有免疫力，身體能力極高，大量獵殺人類，吸走人類的魂魄以維持自己永恆的生命。人類稱其為「敵蠻」，即惡魔（Demon）與人類（Human）的合成詞；敵蠻則把自己稱為「信徒」或「神之子孫」。人類只要吸入一種名為「神之蒸氣」的氣體就能變成敵蠻，他們為了獲得力量、名利或長生不老等原因而捨棄人類身份，把人類看成異類並獵殺他們。
+    五年前開始於赫斯坤島出現的怪人，頭上長有兩隻犄角，有發達的[臼齒](https://zh.wikipedia.org/wiki/臼齒 "wikilink")，對陽光沒有免疫力，身體能力極高，大量獵殺人類，吸走人類的魂魄以維持自己永恆的生命。人類稱其為「敵蠻」，即惡魔（Demon）與人類（Human）的合成詞；敵蠻則把自己稱為「信徒」或「神之子孫」。人類只要吸入一種名為「神之蒸氣」的氣體就能變成敵蠻，他們為了獲得力量、名利或長生不老等原因而捨棄人類身份，把人類看成異類並獵殺他們。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   - 赫斯坤保護區（，）
-    政府為了保護赫斯坤島國民而建立的太陽之城，位於赫斯坤島正中央，以[六边形的](../Page/六边形.md "wikilink")[城牆分隔著外面的地區](../Page/城牆.md "wikilink")，拐角有哨兵看守著城門。普通人不能隨便進入保護區，只有少部分國民受到保護。不少國民盼望移居至保護區，但由於地價非常昂貴而無法實現。
+    政府為了保護赫斯坤島國民而建立的太陽之城，位於赫斯坤島正中央，以[六边形的](https://zh.wikipedia.org/wiki/六边形 "wikilink")[城牆分隔著外面的地區](https://zh.wikipedia.org/wiki/城牆 "wikilink")，拐角有哨兵看守著城門。普通人不能隨便進入保護區，只有少部分國民受到保護。不少國民盼望移居至保護區，但由於地價非常昂貴而無法實現。
 
 ## 評價及影響
 

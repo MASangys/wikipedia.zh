@@ -56,8 +56,8 @@ Service Fabric 在概念上有分為有狀態 (Stateful) 以及無狀態 (Statel
 所開發的應用程式，因此它雖然是放在 Service Fabric 內，但本身並不參與 Service
 Fabric 裡面的互動，通常也不會使用 Service Fabric 的 API 取得資訊 (例如服務的 Proxy
 或是網路位址等)，它就只是單純的可執行檔，通常會作為前端介面，例如
-[node.js](../Page/node.js.md "wikilink") 網站。客座可執行檔在 Service Fabric
-中是以無狀態的概念管理。
+[node.js](https://zh.wikipedia.org/wiki/node.js "wikilink") 網站。客座可執行檔在
+Service Fabric 中是以無狀態的概念管理。
 
 可靠動作者是以 Actor Model 的概念開發的，每個應用程式都是一個動作者 (Actor)，每個動作者是一個獨立的單執行緒執行空間，但一個
 Service Fabric 內可以有很多個動作者，而且每個動作者之間是隔離的空間，而每個動作者可以被建立出多個執行個體，簡單的說，一個遊戲者

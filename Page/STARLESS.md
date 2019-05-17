@@ -1,8 +1,8 @@
-《**STARLESS**》是由[日本成人遊戲製作公司](../Page/日本成人遊戲.md "wikilink")[WillPlus旗下的](../Page/WillPlus.md "wikilink")[Empress製作的成人遊戲](../Page/Empress.md "wikilink")，在2011年5月27日發售。
+《**STARLESS**》是由[日本成人遊戲製作公司](../Page/日本成人遊戲.md "wikilink")[WillPlus旗下的](../Page/WillPlus.md "wikilink")[Empress製作的成人遊戲](https://zh.wikipedia.org/wiki/Empress "wikilink")，在2011年5月27日發售。
 
 ## 故事
 
-在[暑假時尋找打工的男主角偶然看到了一則徵人啟事](../Page/暑假.md "wikilink")，便前往位在深山的間宮家豪宅應徵[僕人](../Page/僕人.md "wikilink")，但他卻因此踏入了一個充斥著變態性慾的家族之中。
+在[暑假時尋找打工的男主角偶然看到了一則徵人啟事](../Page/暑假.md "wikilink")，便前往位在深山的間宮家豪宅應徵[僕人](https://zh.wikipedia.org/wiki/僕人 "wikilink")，但他卻因此踏入了一個充斥著變態性慾的家族之中。
 
 ## 人物
 
@@ -26,7 +26,7 @@
 
   - 間宮 麻理華（まみや まりか）
     配音員：[一色光](../Page/一色光.md "wikilink")
-    麻理繪的長女，聰明而且個性溫和，是間宮家中稍微具有常識的人。她名下有多輛高級[汽車](../Page/汽車.md "wikilink")。
+    麻理繪的長女，聰明而且個性溫和，是間宮家中稍微具有常識的人。她名下有多輛高級[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")。
 
 <!-- end list -->
 

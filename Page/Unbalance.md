@@ -115,7 +115,8 @@ Secret**，由Anime 18和Critical Mass Video代理發售合集。\[6\]\[7\]
 4.
 5.  [Sibling Secret
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3417)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 6.  [Sibling Secret
     (DVD/R0)](http://www.animenewsnetwork.com/encyclopedia/releases.php?id=16006)Anime
     News Network

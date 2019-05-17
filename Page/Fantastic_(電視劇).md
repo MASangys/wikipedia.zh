@@ -1,4 +1,4 @@
-《**Fantastic**》（）為[韓國](../Page/韓國.md "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2016年9月2日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[LAST](../Page/LAST_\(電視劇\).md "wikilink")》[趙南國執導與](../Page/趙南國.md "wikilink")《[吸血鬼偶像](../Page/吸血鬼偶像.md "wikilink")》李成恩作家共同打造的作品，講述韓流明星與生命即將走到盡頭的電視劇編劇相遇的浪漫喜劇。
+《**Fantastic**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2016年9月2日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[LAST](../Page/LAST_\(電視劇\).md "wikilink")》[趙南國執導與](../Page/趙南國.md "wikilink")《[吸血鬼偶像](../Page/吸血鬼偶像.md "wikilink")》李成恩作家共同打造的作品，講述韓流明星與生命即將走到盡頭的電視劇編劇相遇的浪漫喜劇。
 
 ## 演員陣容
 
@@ -34,14 +34,14 @@
 <tr class="even">
 <td><p><a href="../Page/朴時妍.md" title="wikilink">朴時妍</a></p></td>
 <td><p>白雪</p></td>
-<td><p><a href="../Page/廖欣怡.md" title="wikilink">廖欣怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廖欣怡" title="wikilink">廖欣怡</a></p></td>
 <td><p>名門家的兒媳婦，表面看起來擁有著華麗的人生令人稱羨，事實上在家中卻受盡了屈辱。<br />
 素惠、美善的高中同學。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金志洙.md" title="wikilink">金志洙</a></p></td>
 <td><p>金相昱</p></td>
-<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
 <td><p>完美帥氣，卻從沒談過戀愛的律師，直到他遇到了白雪後，擦出了愛的火花。</p></td>
 </tr>
 <tr class="even">
@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p><a href="../Page/尹知原.md" title="wikilink">尹知原</a></p></td>
 <td><p>洪尚花</p></td>
-<td><p><a href="../Page/廖欣怡.md" title="wikilink">廖欣怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廖欣怡" title="wikilink">廖欣怡</a></p></td>
 <td><p>補助作家</p></td>
 </tr>
 <tr class="even">
@@ -98,11 +98,11 @@
 
 ### Adonis 經紀公司
 
-|                                  |        |                                  |              |
-| -------------------------------- | ------ | -------------------------------- | ------------ |
-| **演員**                           | **角色** | **粵語配音**                         | **介紹**       |
-| [金正蘭](../Page/金正蘭.md "wikilink") | 崔真淑    | [陳子瑩](../Page/陳子瑩.md "wikilink") | 經紀公司代表，白雪的大姑 |
-| [趙在允](../Page/趙在允.md "wikilink") | 吳昌錫    | [羅偉亮](../Page/羅偉亮.md "wikilink") | 柳海星的經紀人      |
+|                                  |        |                                                     |              |
+| -------------------------------- | ------ | --------------------------------------------------- | ------------ |
+| **演員**                           | **角色** | **粵語配音**                                            | **介紹**       |
+| [金正蘭](../Page/金正蘭.md "wikilink") | 崔真淑    | [陳子瑩](https://zh.wikipedia.org/wiki/陳子瑩 "wikilink") | 經紀公司代表，白雪的大姑 |
+| [趙在允](../Page/趙在允.md "wikilink") | 吳昌錫    | [羅偉亮](../Page/羅偉亮.md "wikilink")                    | 柳海星的經紀人      |
 
 ### 其他人物
 
@@ -167,11 +167,11 @@
 
 ### 特別出演
 
-|                                  |        |                                  |                   |
-| -------------------------------- | ------ | -------------------------------- | ----------------- |
-| **演員**                           | **角色** | **粵語配音**                         | **介紹**            |
-| [李周妍](../Page/李周妍.md "wikilink") |        | [鄭家蕙](../Page/鄭家蕙.md "wikilink") | 出演電視劇《HITMAN》的女演員 |
-| [朴元相](../Page/朴元相.md "wikilink") |        | [蔡威賢](../Page/蔡威賢.md "wikilink") | 柳海星的演技指導          |
+|                                  |        |                                                     |                   |
+| -------------------------------- | ------ | --------------------------------------------------- | ----------------- |
+| **演員**                           | **角色** | **粵語配音**                                            | **介紹**            |
+| [李周妍](../Page/李周妍.md "wikilink") |        | [鄭家蕙](../Page/鄭家蕙.md "wikilink")                    | 出演電視劇《HITMAN》的女演員 |
+| [朴元相](../Page/朴元相.md "wikilink") |        | [蔡威賢](https://zh.wikipedia.org/wiki/蔡威賢 "wikilink") | 柳海星的演技指導          |
 
 ## 原聲帶
 
@@ -224,7 +224,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="../Page/AC尼爾森.md" title="wikilink">AGB</a> 收視率[1]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB</a> 收視率[1]</p></th>
 <th><p>排行</p></th>
 <th><p>TNmS 全國收視率[2]</p></th>
 </tr>
@@ -377,7 +377,7 @@
 <!-- end list -->
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[怪異家族](../Page/怪異家族.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[工作媽媽，育兒爸爸](../Page/工作媽媽，育兒爸爸.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[工作媽媽，育兒爸爸](../Page/工作媽媽，育兒爸爸.md "wikilink")》
 
 <!-- end list -->
 
@@ -386,8 +386,8 @@
 <!-- end list -->
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[月桂樹西裝店的紳士們](../Page/月桂樹西裝店的紳士們.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[吹吧，美風啊](../Page/吹吧，美風啊.md "wikilink")》
-  - [SBS](../Page/SBS株式會社.md "wikilink")：《[我們的甲順](../Page/我們的甲順.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[吹吧，美風啊](../Page/吹吧，美風啊.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[我們的甲順](../Page/我們的甲順.md "wikilink")》
 
 ## 海外播放
 

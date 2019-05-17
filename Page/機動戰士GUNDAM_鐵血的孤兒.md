@@ -1,27 +1,27 @@
 《**機動戰士高達
-鐵血的孤兒**》（）是2015年10月4日播出的[鋼彈動畫作品](../Page/鋼彈.md "wikilink")。這套作品的消息，由[每日放送](../Page/每日放送.md "wikilink")(MBS)於2015年7月15日首次公布\[1\]\[2\]，於2016年10月2日上映第二季。本作口號為「生命之糧，就在戰場」，並受日本知名雜誌「[Animage](../Page/Animage.md "wikilink")」獲選為ANIME
-GRAND-PRIX第39回年度最佳動畫大獎第一名，並且在同年由日本[NHK電視台所舉辦的](../Page/NHK電視台.md "wikilink")「BestAnime100」萬作票選中得到了第70名的殊榮，為前一百名內的三部鋼彈作品之一。
+鐵血的孤兒**》（）是2015年10月4日播出的[鋼彈動畫作品](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")。這套作品的消息，由[每日放送](../Page/每日放送.md "wikilink")(MBS)於2015年7月15日首次公布\[1\]\[2\]，於2016年10月2日上映第二季。本作口號為「生命之糧，就在戰場」，並受日本知名雜誌「[Animage](../Page/Animage.md "wikilink")」獲選為ANIME
+GRAND-PRIX第39回年度最佳動畫大獎第一名，並且在同年由日本[NHK電視台所舉辦的](https://zh.wikipedia.org/wiki/NHK電視台 "wikilink")「BestAnime100」萬作票選中得到了第70名的殊榮，為前一百名內的三部鋼彈作品之一。
 
 ## 製作背景
 
-由聯手創作過《[我們仍未知道那天所看見的花的名字。](../Page/我們仍未知道那天所看見的花的名字。.md "wikilink")》的[長井龍雪和](../Page/長井龍雪.md "wikilink")[岡田麿里擔當監督和系列构成](../Page/岡田麿里.md "wikilink")。作品將圍繞兩種關鍵字展開，一是「具有強烈戲劇性，以少年故事為主的鋼彈」，二是「實現階段性變革的鋼彈」。與其他鋼彈作品不同之处是，監督長井龍雪曾在雜誌訪談裡表示「戰艦會被一發光束幹掉太奇怪」，所以本作是自鋼彈誕生至今以來首部完全沒有採用「光束兵器」，而是採用「實體質量兵器」為主的新鋼彈系列作品，除此之外由於監督本人也表明「沒有體驗過戰爭」，因此本作是以描寫日本黑社會歴史作品《[無仁義之戰](../Page/無仁義之戰.md "wikilink")》作為參考題材。
+由聯手創作過《[我們仍未知道那天所看見的花的名字。](https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花的名字。 "wikilink")》的[長井龍雪和](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")[岡田麿里擔當監督和系列构成](../Page/岡田麿里.md "wikilink")。作品將圍繞兩種關鍵字展開，一是「具有強烈戲劇性，以少年故事為主的鋼彈」，二是「實現階段性變革的鋼彈」。與其他鋼彈作品不同之处是，監督長井龍雪曾在雜誌訪談裡表示「戰艦會被一發光束幹掉太奇怪」，所以本作是自鋼彈誕生至今以來首部完全沒有採用「光束兵器」，而是採用「實體質量兵器」為主的新鋼彈系列作品，除此之外由於監督本人也表明「沒有體驗過戰爭」，因此本作是以描寫日本黑社會歴史作品《[無仁義之戰](https://zh.wikipedia.org/wiki/無仁義之戰 "wikilink")》作為參考題材。
 
 ## 故事簡介
 
 ### 第一季
 
 本作開始於P.D.（Post
-Disaster）323年。三百年前，地球發生了名為「[厄祭戰爭](../Page/機動戰士GUNDAM_鐵血的孤兒#世界觀、歷史.md "wikilink")」的大戰，大戰結束後，[地球圈捨棄了過去的統治方式](../Page/機動戰士GUNDAM_鐵血的孤兒#地球.md "wikilink")，以新的支配體系，構築了全新的世界。但就在遙遠的[火星圈裏](../Page/機動戰士GUNDAM_鐵血的孤兒#火星.md "wikilink")，那些從屬於地球圈的殖民地上，開始了來自民眾的不滿與躁動。火星都市[克里斯上的人](../Page/機動戰士GUNDAM_鐵血的孤兒#地名、設施.md "wikilink")，希望從地球勢力統治下經濟獨立。身為獨立派領袖的[庫德莉雅·藍那·伯恩斯坦](../Page/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物.md "wikilink")，成為地球勢力一方的眼中釘。地球勢力一方派遣「[加拉爾號角](../Page/機動戰士GUNDAM_鐵血的孤兒#地球.md "wikilink")」前去火星，企圖暗殺或控制庫德莉雅。「加拉爾號角」是個以戰力凌人的武裝組織，負責摘除任何叛亂、危害地球圈利益的可能因子。
+Disaster）323年。三百年前，地球發生了名為「[厄祭戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#世界觀、歷史 "wikilink")」的大戰，大戰結束後，[地球圈捨棄了過去的統治方式](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地球 "wikilink")，以新的支配體系，構築了全新的世界。但就在遙遠的[火星圈裏](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#火星 "wikilink")，那些從屬於地球圈的殖民地上，開始了來自民眾的不滿與躁動。火星都市[克里斯上的人](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地名、設施 "wikilink")，希望從地球勢力統治下經濟獨立。身為獨立派領袖的[庫德莉雅·藍那·伯恩斯坦](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物 "wikilink")，成為地球勢力一方的眼中釘。地球勢力一方派遣「[加拉爾號角](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#地球 "wikilink")」前去火星，企圖暗殺或控制庫德莉雅。「加拉爾號角」是個以戰力凌人的武裝組織，負責摘除任何叛亂、危害地球圈利益的可能因子。
 
-主角[三日月·奧格斯是一間獨立自治區的民營保全公司](../Page/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物.md "wikilink")「[克里斯護衛保全](../Page/機動戰士GUNDAM_鐵血的孤兒#勢力和組織.md "wikilink")」（簡稱：CGS）三號隊的成員。CGS收留窮苦無依的孤兒編入三號隊，並強行施予「[阿賴耶識植入手術](../Page/機動戰士GUNDAM_鐵血的孤兒#技術.md "wikilink")」方便駕馭機動工兵。在內部管理上，三號隊視為CGS主力部隊一號隊的後備部隊，即使擁有不凡駕駛技術的隊員三日月、[昭弘](../Page/機動戰士GUNDAM_鐵血的孤兒角色列表#主要成員.md "wikilink")、[尤真等人](../Page/機動戰士GUNDAM_鐵血的孤兒角色列表#主要成員.md "wikilink")，仍受到相當大差別的待遇。
+主角[三日月·奧格斯是一間獨立自治區的民營保全公司](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物 "wikilink")「[克里斯護衛保全](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#勢力和組織 "wikilink")」（簡稱：CGS）三號隊的成員。CGS收留窮苦無依的孤兒編入三號隊，並強行施予「[阿賴耶識植入手術](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#技術 "wikilink")」方便駕馭機動工兵。在內部管理上，三號隊視為CGS主力部隊一號隊的後備部隊，即使擁有不凡駕駛技術的隊員三日月、[昭弘](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要成員 "wikilink")、[尤真等人](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要成員 "wikilink")，仍受到相當大差別的待遇。
 
-在一次CGS特別承攬的護衛庫德莉雅的任務中，三日月和同伴遭受加拉爾號角襲擊。CGS的主力部隊一號隊企圖利用三號隊作為誘餌，挾同庫德莉雅偷偷撤退。三號隊領袖[歐格·伊茲卡](../Page/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物.md "wikilink")，領導著被視為棄卒的三號隊，對以庫德莉雅為目標的加拉爾號角進行負隅頑抗。就在此時，三日月啟動了以往在厄祭戰爭中使用過，而目前作為CGS能源爐的機動戰士—「[獵魔鋼彈](../Page/機動戰士GUNDAM_鐵血的孤兒登場機體列表#本篇.md "wikilink")」。該機體長期以來藏在基地地底，當成電力來源，無人知曉它所蘊藏的力量。最終，三日月依賴「阿賴耶識」首次駕駛「[獵魔鋼彈](../Page/機動戰士GUNDAM_鐵血的孤兒登場機體列表#本篇.md "wikilink")」出色地擊退來襲的加拉爾號角。隨著加拉爾號角的撤退，一號隊歸還，三號隊與一號隊長年以來的對立矛盾即將爆發。就此，故事揭開序幕。\[3\]\[4\]\[5\]\[6\]
+在一次CGS特別承攬的護衛庫德莉雅的任務中，三日月和同伴遭受加拉爾號角襲擊。CGS的主力部隊一號隊企圖利用三號隊作為誘餌，挾同庫德莉雅偷偷撤退。三號隊領袖[歐格·伊茲卡](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表#主要人物 "wikilink")，領導著被視為棄卒的三號隊，對以庫德莉雅為目標的加拉爾號角進行負隅頑抗。就在此時，三日月啟動了以往在厄祭戰爭中使用過，而目前作為CGS能源爐的機動戰士—「[獵魔鋼彈](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒登場機體列表#本篇 "wikilink")」。該機體長期以來藏在基地地底，當成電力來源，無人知曉它所蘊藏的力量。最終，三日月依賴「阿賴耶識」首次駕駛「[獵魔鋼彈](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒登場機體列表#本篇 "wikilink")」出色地擊退來襲的加拉爾號角。隨著加拉爾號角的撤退，一號隊歸還，三號隊與一號隊長年以來的對立矛盾即將爆發。就此，故事揭開序幕。\[3\]\[4\]\[5\]\[6\]
 
 ### 第二季
 
 主角「三日月・奧古斯」所隸屬的鐵華團，因為護送「古荻利亞・藍那・伯恩斯坦」到地球艾布勞代表選舉的戰鬥而一舉成名；同時這場戰鬥也暴露出末日號角腐敗的一面，世界正逐漸產生改變。因為和艾布勞交涉而成功獲得了半金屬權益，讓屬於迪瓦茲直系的鐵華團在資金面更加寬裕、想要入團的人也增加了，其規模擴展到能在地球設立支部的程度，就這樣，兩年過去了…。
 
-P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[亞多莫斯商會](../Page/機動戰士GUNDAM_鐵血的孤兒#商會.md "wikilink")」，雖然能從旁在現實及實務面為火星的經濟獨立提供助力，但是對於擴展出名聲並踏上新道路的她感到不悅的人也很多。亞多莫斯商會決定要到半金屬挖掘場進行視察，收到護衛委託的鐵華團團長「歐格・伊茲卡」察覺到了新的敵人。在歐格的指揮之下、鐵華團、還有三日月也以MS「[天狼型獵魔鋼彈](../Page/機動戰士GUNDAM_鐵血的孤兒登場機體列表#本篇.md "wikilink")」一起前往擊退敵人。
+P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[亞多莫斯商會](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒#商會 "wikilink")」，雖然能從旁在現實及實務面為火星的經濟獨立提供助力，但是對於擴展出名聲並踏上新道路的她感到不悅的人也很多。亞多莫斯商會決定要到半金屬挖掘場進行視察，收到護衛委託的鐵華團團長「歐格・伊茲卡」察覺到了新的敵人。在歐格的指揮之下、鐵華團、還有三日月也以MS「[天狼型獵魔鋼彈](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒登場機體列表#本篇 "wikilink")」一起前往擊退敵人。
 
 ## 登場人物
 
@@ -34,8 +34,8 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 ## 製作人員
 
   - 企劃：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
-  - 監督：[長井龍雪](../Page/長井龍雪.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
+  - 監督：[長井龍雪](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")
   - 系列構成：[岡田麿里](../Page/岡田麿里.md "wikilink")
   - 角色原案：伊藤悠
   - 人物設定：[千葉道德](../Page/千葉道德.md "wikilink")
@@ -49,13 +49,13 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
   - 攝影監督：後藤春陽、元木洋介
   - 編集：野尻由紀子
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
-  - 音樂：[橫山克](../Page/橫山克.md "wikilink")
+  - 音樂：[橫山克](https://zh.wikipedia.org/wiki/橫山克 "wikilink")
   - 音樂製作人：外村敬一、山田智子
   - 執行製片人：佐佐木新、丸山博雄
   - 製片人：小川正和、前田俊博
   - 企劃協力：BANDAI HOBBY事業部
-  - 製作協力：[創通](../Page/創通.md "wikilink")、[ADK](../Page/ADK.md "wikilink")
-  - 製作：[日昇動畫](../Page/日昇動畫.md "wikilink")、[MBS](../Page/MBS.md "wikilink")
+  - 製作協力：[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
+  - 製作：[日昇動畫](../Page/日昇動畫.md "wikilink")、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")
 
 ## 主題曲
 
@@ -75,7 +75,8 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
   -
 
       -
-        作詞、作曲：田邊駿一，主唱：[BLUE ENCOUNT](../Page/BLUE_ENCOUNT.md "wikilink")
+        作詞、作曲：田邊駿一，主唱：[BLUE
+        ENCOUNT](https://zh.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")
 
 :;「RAGE OF DUST」（第27－38話）
 
@@ -195,7 +196,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <td><p>與鐵和血</p></td>
 <td><p>鐵與血</p></td>
 <td><p><a href="../Page/岡田麿里.md" title="wikilink">岡田麿里</a></p></td>
-<td><p><a href="../Page/長井龍雪.md" title="wikilink">長井龍雪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長井龍雪" title="wikilink">長井龍雪</a></p></td>
 <td><p>長井龍雪<br />
 大和直道</p></td>
 <td><p><a href="../Page/千葉道德.md" title="wikilink">千葉道德</a></p></td>
@@ -254,7 +255,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <td><p>红色天空的彼方</p></td>
 <td><p>紅色天空的另一端</p></td>
 <td><p>飛出紅色天空</p></td>
-<td><p><a href="../Page/鴨志田一.md" title="wikilink">鴨志田一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鴨志田一" title="wikilink">鴨志田一</a></p></td>
 <td><p>大塚健</p></td>
 <td><p><a href="../Page/上田茂.md" title="wikilink">上田茂</a></p></td>
 <td><p>新保卓郎</p></td>
@@ -1139,7 +1140,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -1154,7 +1155,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a></p></td>
 <td><p>2015年10月4日－2016年3月27日</p></td>
 <td><p>星期日 17時00分－17時30分</p></td>
@@ -1175,17 +1176,17 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <tr class="even">
 <td><p>-{GUNDAM}- Fanclub</p></td>
 <td><p>星期日 17時30分 更新</p></td>
-<td><p><a href="../Page/網絡電視.md" title="wikilink">網絡電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
 <td><p><a href="../Page/流動應用程式.md" title="wikilink">流動應用程式</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td><p><a href="../Page/MY_KIDS_TV.md" title="wikilink">MY KIDS TV</a></p></td>
 <td><p>星期日 18時30分－19時00分</p></td>
 <td><p><a href="../Page/IPTV.md" title="wikilink">IPTV</a></p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">UTC+8</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a><br />
 有字幕<br />
 日語廣播<br />
 有重播</p></td>
@@ -1212,11 +1213,11 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <td><p><a href="../Page/J2.md" title="wikilink">J2</a></p></td>
 <td><p>2015年10月23日－2016年4月15日</p></td>
 <td><p>星期五 24時05分－24時35分</p></td>
-<td><p><a href="../Page/數碼地面電視.md" title="wikilink">數碼地面電視</a></p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">UTC+8</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/數碼地面電視" title="wikilink">數碼地面電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a><br />
 有字幕<br />
 雙語廣播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14天重溫</p></td>
 </tr>
 <tr class="odd">
 <td><p>第二季</p></td>
@@ -1227,7 +1228,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a></p></td>
 <td><p>2016年10月2日－2017年4月2日</p></td>
 <td><p>星期日 17時00分－17時30分</p></td>
@@ -1248,7 +1249,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <tr class="even">
 <td><p>-{GUNDAM}- Fanclub</p></td>
 <td><p>星期日 17時30分 更新</p></td>
-<td><p><a href="../Page/網絡電視.md" title="wikilink">網絡電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
 <td><p><a href="../Page/流動應用程式.md" title="wikilink">流動應用程式</a></p></td>
 <td></td>
 <td></td>
@@ -1258,13 +1259,13 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 <td><p><a href="../Page/J2.md" title="wikilink">J2</a></p></td>
 <td><p>2017年4月16日－2017年10月8日</p></td>
 <td><p>星期日 24時05分－24時35分</p></td>
-<td><p><a href="../Page/數碼地面電視.md" title="wikilink">數碼地面電視</a></p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">UTC+8</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/數碼地面電視" title="wikilink">數碼地面電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a><br />
 有字幕<br />
 第26集沒有重播<br />
 第27-50集有重播<br />
 雙語廣播<br />
-<a href="../Page/myTV_SUPER.md" title="wikilink">myTV SUPER</a>（免費區）提供7天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV_SUPER" title="wikilink">myTV SUPER</a>（免費區）提供7天重溫</p></td>
 </tr>
 </tbody>
 </table>
@@ -1295,7 +1296,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
 
 ## 评价
 
-电视动画第48话中，铁华团在被通缉后，奥尔加等人在准备去消除铁华团成员的个人资料时被杀手袭击。奥尔加被袭身亡时的煽情演出，和对剧情推动无作用与演出中存在有违常理的表现形成对比，成为[网络迷因而广泛传播](../Page/网络迷因.md "wikilink")。
+电视动画第48话中，铁华团在被通缉后，奥尔加等人在准备去消除铁华团成员的个人资料时被杀手袭击。奥尔加被袭身亡时的煽情演出，和对剧情推动无作用与演出中存在有违常理的表现形成对比，成为[网络迷因而广泛传播](https://zh.wikipedia.org/wiki/网络迷因 "wikilink")。
 
 ## 參考資料
 

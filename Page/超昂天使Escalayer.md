@@ -1,7 +1,7 @@
-是日本[ALICESOFT在](../Page/ALICESOFT.md "wikilink")2002年8月2日發售的[冒險類型](../Page/冒險遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年7月25日發售重製版《超昂天使Escalayer
+是日本[ALICESOFT在](../Page/ALICESOFT.md "wikilink")2002年8月2日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年7月25日發售重製版《超昂天使Escalayer
 R》（超昂天使エスカレイヤー・リブート）\[3\]\[4\]，同時附贈收錄在《Alice 2010》（アリス2010）的FD《[超昂閃忍遥 ～遥
-vs Escalayer～](../Page/超昂閃忍遥.md "wikilink")》（超昂閃忍ハルカ ～ハルカ vs
-エスカレイヤー～）。\[5\]除了遊戲外也發售OVA、漫畫、小說等相關作品。
+vs Escalayer～](https://zh.wikipedia.org/wiki/超昂閃忍遥 "wikilink")》（超昂閃忍ハルカ
+～ハルカ vs エスカレイヤー～）。\[5\]除了遊戲外也發售OVA、漫畫、小說等相關作品。
 
 ## 故事
 
@@ -120,7 +120,7 @@ Media代理發售。\[8\]
 ### 漫畫
 
   - 超昂天使エスカレイヤー アンソロジーコミックス\[9\]
-    由[enterbrain於](../Page/enterbrain.md "wikilink")2002年11月30日發售共一冊（ISBN
+    由[enterbrain於](https://zh.wikipedia.org/wiki/enterbrain "wikilink")2002年11月30日發售共一冊（ISBN
     4-7577-1235-9）。
 
 <!-- end list -->
@@ -138,14 +138,14 @@ Media代理發售。\[8\]
 ### 小說
 
   - 超昂天使エスカレイヤー
-    作者：雑賀匡　插畫：[みけおう](../Page/みけおう.md "wikilink")　文庫：PARADIGM
+    作者：雑賀匡　插畫：[みけおう](https://zh.wikipedia.org/wiki/みけおう "wikilink")　文庫：PARADIGM
     NOVELS　出版社：[PARADIGM](../Page/PARADIGM.md "wikilink")
 
-| 卷名 | 發售日        | [ISBN](../Page/ISBN.md "wikilink") |
-| -- | ---------- | ---------------------------------- |
-| 上巻 | 2003年3月15日 | ISBN 4-89490-177-3                 |
-| 中巻 | 2003年5月17日 | ISBN 4-89490-185-4                 |
-| 下巻 | 2003年7月17日 | ISBN 4-89490-191-9                 |
+| 卷名 | 發售日        | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
+| -- | ---------- | ----------------------------------------------------- |
+| 上巻 | 2003年3月15日 | ISBN 4-89490-177-3                                    |
+| 中巻 | 2003年5月17日 | ISBN 4-89490-185-4                                    |
+| 下巻 | 2003年7月17日 | ISBN 4-89490-191-9                                    |
 
 ### 書籍
 
@@ -179,9 +179,10 @@ Media代理發售。\[8\]
 7.  [超昂天使エスカレイヤー・リブート](http://erogetrailers.com/soft/12112)ErogeTrailers
 8.  [Beat Angel Escalayer
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4057)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 9.  [超昂天使エスカレイヤー
-    アンソロジーコミックス](http://www.enterbrain.co.jp/product/comic/comic_mgcalcute/02307701.html)[enterbrain](../Page/enterbrain.md "wikilink")
+    アンソロジーコミックス](http://www.enterbrain.co.jp/product/comic/comic_mgcalcute/02307701.html)[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")
 10.
 11. [超昂天使エスカレイヤー
     ビジュアルファンブック](http://www.enterbrain.co.jp/product/mook/mook_entame/214_magi_cu/02307401.html)enterbrain

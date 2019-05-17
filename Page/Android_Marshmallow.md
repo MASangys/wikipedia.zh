@@ -1,11 +1,11 @@
 **Android
 6.x“Marshmallow”**\[1\]是[Google繼](../Page/Google.md "wikilink")[Android
-5.1之後开发的](../Page/Android_5.1.md "wikilink")[Android](../Page/Android.md "wikilink")[移动操作系统](../Page/移动操作系统.md "wikilink")，于2015年10月正式发布\[2\]。Marshmallow的中文名稱為[棉花糖](../Page/棉花糖.md "wikilink")。
+5.1之後开发的](https://zh.wikipedia.org/wiki/Android_5.1 "wikilink")[Android](../Page/Android.md "wikilink")[移动操作系统](https://zh.wikipedia.org/wiki/移动操作系统 "wikilink")，于2015年10月正式发布\[2\]。Marshmallow的中文名稱為[棉花糖](https://zh.wikipedia.org/wiki/棉花糖 "wikilink")。
 
 ## 历史
 
 第一次的揭露時間是2015年5月28日的[Google
-I/O大會](../Page/Google_I/O.md "wikilink")。2015年5月28日，針對[Nexus
+I/O大會](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。2015年5月28日，針對[Nexus
 5](../Page/Nexus_5.md "wikilink")，[Nexus
 6](../Page/Nexus_6.md "wikilink")，[Nexus
 9](../Page/Nexus_9.md "wikilink")，和[Nexus
@@ -22,7 +22,7 @@ Marshmallow也支援[USB Type-C](../Page/USB_Type-C.md "wikilink")。
 
 ## 参见
 
-  - [Android版本历史](../Page/Android版本历史.md "wikilink")
+  - [Android版本历史](https://zh.wikipedia.org/wiki/Android版本历史 "wikilink")
 
 ## 参考资料
 

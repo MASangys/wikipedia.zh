@@ -4,7 +4,7 @@
 ## 概述
 
   - 與同系列前作《[FILM LOTUS Ⅴ ～SOUTHERN COMFORT
-    2006～](../Page/FILM_LOTUS_Ⅴ_～SOUTHERN_COMFORT_2006～.md "wikilink")》相隔約1年的新作。
+    2006～](https://zh.wikipedia.org/wiki/FILM_LOTUS_Ⅴ_～SOUTHERN_COMFORT_2006～ "wikilink")》相隔約1年的新作。
   - 本作收錄自《[MY SUGAR
     CAT](../Page/MY_SUGAR_CAT.md "wikilink")》至《[真實的自我](../Page/真實的自我.md "wikilink")》五首歌曲的音樂錄影帶，以及當中的製作花絮和發售廣告。
 

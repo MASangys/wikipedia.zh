@@ -1,4 +1,4 @@
-**有限公司Anime工房婆娑羅**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")，專門從事[動畫的](../Page/動畫.md "wikilink")[原畫作業及美術背景製作的日本動畫公司](../Page/原畫.md "wikilink")。
+**有限公司Anime工房婆娑羅**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")，專門從事[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[原畫作業及美術背景製作的日本動畫公司](https://zh.wikipedia.org/wiki/原畫 "wikilink")。
 
 ## 概要、沿革
 
@@ -30,7 +30,7 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
   - 卡片鬥爭\!\! 先導者G 齒輪危機篇（2015年－2016年）
 
   - [魯邦三世
-    (2015年系列)](../Page/魯邦三世_\(2015年系列\).md "wikilink")（2015年－**播放中**）\[3\]
+    (2015年系列)](https://zh.wikipedia.org/wiki/魯邦三世_\(2015年系列\) "wikilink")（2015年－**播放中**）\[3\]
 
   - 卡片鬥爭\!\! 先導者G 超越之門篇（2016年）
 
@@ -51,11 +51,11 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
   - [冰菓](../Page/古籍研究社系列.md "wikilink")（2012年）
   - [中二病也想談戀愛！](../Page/中二病也想談戀愛！.md "wikilink")（2012年）
   - [Free！](../Page/Free!.md "wikilink")（共同製作：[Animation
-    Do](../Page/京都動畫#Animation_Do.md "wikilink")，2013年）
+    Do](https://zh.wikipedia.org/wiki/京都動畫#Animation_Do "wikilink")，2013年）
   - 中二病也想談戀愛！戀（2014年）
   - Free！-Eternal Summer-（共同製作：Animation Do，2014年）
   - [甘城輝煌樂園救世主](../Page/甘城輝煌樂園救世主.md "wikilink")（2014年）
-  - [奏響吧！上低音號](../Page/奏響吧！上低音號.md "wikilink")（2015年、2016年）
+  - [奏響吧！上低音號](https://zh.wikipedia.org/wiki/奏響吧！上低音號 "wikilink")（2015年、2016年）
   - [無彩限的幻影世界](../Page/無彩限的幻影世界.md "wikilink")（2016年）
   - [小林家的龍女僕](../Page/小林家的龍女僕.md "wikilink")（2017年）
 
@@ -66,7 +66,8 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
 <!-- end list -->
 
   - [HAMATORA](../Page/HAMATORA_─超能偵探社─.md "wikilink")（2014年）
-  - [DRAMAtical Murder](../Page/DRAMAtical_Murder.md "wikilink")（2014年）
+  - [DRAMAtical
+    Murder](https://zh.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")（2014年）
 
 <!-- end list -->
 
@@ -84,7 +85,7 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
 <!-- end list -->
 
   - [原子小金剛
-    (2003年版)](../Page/鐵臂阿童木_\(2003年動畫\).md "wikilink")（總承包商：[手塚製作公司](../Page/手塚製作公司.md "wikilink")，2003年－2004年）
+    (2003年版)](https://zh.wikipedia.org/wiki/鐵臂阿童木_\(2003年動畫\) "wikilink")（總承包商：[手塚製作公司](../Page/手塚製作公司.md "wikilink")，2003年－2004年）
 
   - （總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")，2006年）
 
@@ -93,7 +94,7 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
   - [骷髅13](../Page/骷髅13.md "wikilink")（總承包商：，2008年－2009年）
 
   - [Angel Beats！](../Page/Angel_Beats!.md "wikilink")（總承包商：[P.A.
-    Works](../Page/P.A._Works.md "wikilink")，2010年）
+    Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，2010年）
 
   - [頭文字D Fifth Stage](../Page/頭文字D.md "wikilink")（總承包商：[Synergy
     SP](../Page/Synergy_SP.md "wikilink")，2012年）
@@ -101,7 +102,7 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
   - [請問您今天要來點兔子嗎？](../Page/請問您今天要來點兔子嗎？.md "wikilink")（總承包商：[WHITE
     FOX](../Page/WHITE_FOX.md "wikilink")，2014年）
 
-  - [學園奶爸](../Page/學園奶爸.md "wikilink")（總承包商：[Brain's
+  - [學園奶爸](https://zh.wikipedia.org/wiki/學園奶爸 "wikilink")（總承包商：[Brain's
     Base](../Page/Brain's_Base.md "wikilink")，2018年）
 
 ### OVA
@@ -116,7 +117,7 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
 <!-- end list -->
 
   - [跳躍吧！時空少女](../Page/跳躍吧！時空少女.md "wikilink")（2006年）
-  - [琴之森](../Page/琴之森.md "wikilink")（2007年）
+  - [琴之森](https://zh.wikipedia.org/wiki/琴之森 "wikilink")（2007年）
 
 <!-- end list -->
 
@@ -126,13 +127,14 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
 
   - [涼宮春日的消失](../Page/涼宮春日的消失.md "wikilink")（（2010年）
   - [小鳥遊六花·改 ～劇場版
-    中二病也想談戀愛！～](../Page/中二病也想談戀愛！#劇場版.md "wikilink")（2013年）
+    中二病也想談戀愛！～](https://zh.wikipedia.org/wiki/中二病也想談戀愛！#劇場版 "wikilink")（2013年）
 
 <!-- end list -->
 
   - [劇場版 境界的彼方 -I'LL BE
-    HERE-－未來篇－](../Page/境界的彼方#劇場版.md "wikilink")（2015年）
-  - [劇場版 奏響吧！上低音號 ～歡迎加入北宇治高中管樂團～](../Page/奏響吧！上低音號.md "wikilink")（2016年）
+    HERE-－未來篇－](https://zh.wikipedia.org/wiki/境界的彼方#劇場版 "wikilink")（2015年）
+  - [劇場版 奏響吧！上低音號
+    ～歡迎加入北宇治高中管樂團～](https://zh.wikipedia.org/wiki/奏響吧！上低音號 "wikilink")（2016年）
 
 <!-- end list -->
 
@@ -140,17 +142,17 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
 
 <!-- end list -->
 
-  - [名偵探柯南：第十四號獵物](../Page/名偵探柯南：第十四號獵物.md "wikilink")（總承包商：[Kyokuichi東京電影](../Page/TMS娛樂.md "wikilink")，1998年）
+  - [名偵探柯南：第十四號獵物](https://zh.wikipedia.org/wiki/名偵探柯南：第十四號獵物 "wikilink")（總承包商：[Kyokuichi東京電影](../Page/TMS娛樂.md "wikilink")，1998年）
   - [劇場版
-    AIR](../Page/AIR_\(遊戲\).md "wikilink")（總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，2005年）
-  - [翡翠森林狼與羊](../Page/翡翠森林狼與羊.md "wikilink")（總承包商：，2005年）
+    AIR](../Page/AIR_\(遊戲\).md "wikilink")（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，2005年）
+  - [翡翠森林狼與羊](https://zh.wikipedia.org/wiki/翡翠森林狼與羊 "wikilink")（總承包商：，2005年）
 
 ## 注釋
 
 ## 相關人物
 
   - 鈴木信一
-  - [田村盛揮](../Page/田村盛揮.md "wikilink")
+  - [田村盛揮](https://zh.wikipedia.org/wiki/田村盛揮 "wikilink")
 
 ## 相關項目
 

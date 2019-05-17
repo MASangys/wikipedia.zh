@@ -1,5 +1,5 @@
 **《Kinfolk》**是一本提倡慢生活的獨立雜誌，由 Ouur
-發行，希望能夠藉由它們的方式來讓讀者的生活更輕鬆簡單、並花上更多的時間陪伴家人與朋友，總部設於[美國](../Page/美國.md "wikilink")[俄勒岡州](../Page/俄勒岡州.md "wikilink")[波特蘭](../Page/波特蘭.md "wikilink")。
+發行，希望能夠藉由它們的方式來讓讀者的生活更輕鬆簡單、並花上更多的時間陪伴家人與朋友，總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[俄勒岡州](https://zh.wikipedia.org/wiki/俄勒岡州 "wikilink")[波特蘭](https://zh.wikipedia.org/wiki/波特蘭 "wikilink")。
 
 ## 雜誌簡介
 
@@ -8,13 +8,13 @@
 
 ## 媒體評價
 
-Kinfolk簡潔的排版設計以及攝影美學\[2\]，被雜誌《》形容為「出版世界獨特的漣漪\[3\]」，《[紐約時報](../Page/紐約時報.md "wikilink")》則是稱呼他為「波特蘭版的[瑪莎·史都華生活](../Page/瑪莎·史都華.md "wikilink")\[4\]」，臺灣方面有出版人[黃威融將](../Page/黃威融.md "wikilink")《Kinfolk》納入「2013年讓人拍手叫好的6本外文雜誌」之一\[5\]。
+Kinfolk簡潔的排版設計以及攝影美學\[2\]，被雜誌《》形容為「出版世界獨特的漣漪\[3\]」，《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》則是稱呼他為「波特蘭版的[瑪莎·史都華生活](../Page/瑪莎·史都華.md "wikilink")\[4\]」，臺灣方面有出版人[黃威融將](https://zh.wikipedia.org/wiki/黃威融 "wikilink")《Kinfolk》納入「2013年讓人拍手叫好的6本外文雜誌」之一\[5\]。
 
 ## 國際版本
 
 除了核心的美國讀者群之外，近年來Kinfolk已經在全球擁有無數的追蹤讀者，現已經發行了日本語、中國簡體字、俄羅斯語、韓文⋯⋯等版本\[6\]。
 
-  - 中文版：由中國精品購物指南發行《精彩KINFOLK四季》，中文書寫為[簡體字](../Page/簡體字.md "wikilink")。
+  - 中文版：由中國精品購物指南發行《精彩KINFOLK四季》，中文書寫為[簡體字](https://zh.wikipedia.org/wiki/簡體字 "wikilink")。
 
   - 日文版：由發行《Kinfolk Japan Edition》\[7\]，每期並附贈日本版特別夾冊《Book in Book》。
 
@@ -26,7 +26,7 @@ Kinfolk簡潔的排版設計以及攝影美學\[2\]，被雜誌《》形容為�
 
   - 2013年10月15日，Kinfolk請發行了他們的第一本精裝食譜書《The Kinfolk Table: Recipes for
     Small
-    Gatherings》，內容是由Kinfolk社群裡的朋友家族們所提供的85道傳統食譜，涵蓋[波特蘭](../Page/波特蘭.md "wikilink")、[布魯克林](../Page/布魯克林.md "wikilink")、[哥本哈根](../Page/哥本哈根.md "wikilink")、[英國](../Page/英國.md "wikilink")⋯⋯等地，臺灣正體中文版《KINFOLK餐桌：獻給生活中的每一場小聚會》則是由[三采於](../Page/三采.md "wikilink")2014年3月7日發行。
+    Gatherings》，內容是由Kinfolk社群裡的朋友家族們所提供的85道傳統食譜，涵蓋[波特蘭](https://zh.wikipedia.org/wiki/波特蘭 "wikilink")、[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")、[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")⋯⋯等地，臺灣正體中文版《KINFOLK餐桌：獻給生活中的每一場小聚會》則是由[三采於](https://zh.wikipedia.org/wiki/三采 "wikilink")2014年3月7日發行。
   - 2015年10月20日，由發行《The Kinfolk Home》介紹 Kinfolk 社群的居家生活風格。
 
 ## 引用來源

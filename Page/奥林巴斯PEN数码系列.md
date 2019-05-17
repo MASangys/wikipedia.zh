@@ -1,36 +1,38 @@
 [Olympus_MFT_concept_1.jpg](https://zh.wikipedia.org/wiki/File:Olympus_MFT_concept_1.jpg "fig:Olympus_MFT_concept_1.jpg")
 
-**PEN数码系列**是[奥林巴斯公司推出的](../Page/奥林巴斯.md "wikilink")[可换镜头数码相机系列产品](../Page/電子式取景可換鏡頭相機.md "wikilink")，属于[微4/3系统](../Page/微4/3系统.md "wikilink")，在外观风格上承袭经典的[奧林巴斯PEN系列](../Page/奧林巴斯PEN系列.md "wikilink")，强调便携。
+**PEN数码系列**是[奥林巴斯公司推出的](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[可换镜头数码相机系列产品](https://zh.wikipedia.org/wiki/電子式取景可換鏡頭相機 "wikilink")，属于[微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，在外观风格上承袭经典的[奧林巴斯PEN系列](../Page/奧林巴斯PEN系列.md "wikilink")，强调便携。
 
 与PEN系列相对的，是奥林巴斯同样采用微4/3系统的**OM-D**系列，两者可以互换镜头及闪光灯等附件使用。
 
 ## 背景
 
 [Olympus_Pen_FT_5988.jpeg](https://zh.wikipedia.org/wiki/File:Olympus_Pen_FT_5988.jpeg "fig:Olympus_Pen_FT_5988.jpeg")半幅单反相机\]\]
-奥林巴斯的PEN系列于1959年推出，以初代PEN机型为标志。该机器使用常规易得的[135胶片](../Page/135胶片.md "wikilink")，但以[半幅进行拍摄](../Page/半幅.md "wikilink")，一卷胶卷可以拍摄72张照片，加上该系列机型定价低廉而画质表现尚可，使得其在六十年代日本，掀起了一股135半格机的流行趋势。由传奇设计师[米谷美久初出道负责研发的PEN系列胶片相机](../Page/米谷美久.md "wikilink")，在二十世纪60～70年代十分活跃，最终在全世界累计贩售超过1700万台\[1\]，而成为奥林巴斯历史上的经典畅销机型。
+奥林巴斯的PEN系列于1959年推出，以初代PEN机型为标志。该机器使用常规易得的[135胶片](https://zh.wikipedia.org/wiki/135胶片 "wikilink")，但以[半幅进行拍摄](../Page/半幅.md "wikilink")，一卷胶卷可以拍摄72张照片，加上该系列机型定价低廉而画质表现尚可，使得其在六十年代日本，掀起了一股135半格机的流行趋势。由传奇设计师[米谷美久初出道负责研发的PEN系列胶片相机](https://zh.wikipedia.org/wiki/米谷美久 "wikilink")，在二十世纪60～70年代十分活跃，最终在全世界累计贩售超过1700万台\[1\]，而成为奥林巴斯历史上的经典畅销机型。
 
-2008年，奥林巴斯与松下宣布了[微4/3系统诞生](../Page/微4/3系统.md "wikilink")，同年在Photokina公开了原型机；2009年6月，发布了数码系列第一款的[PEN
-E-P1](../Page/奥林巴斯_PEN_E-P1.md "wikilink")\[2\]。
+2008年，奥林巴斯与松下宣布了[微4/3系统诞生](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，同年在Photokina公开了原型机；2009年6月，发布了数码系列第一款的[PEN
+E-P1](https://zh.wikipedia.org/wiki/奥林巴斯_PEN_E-P1 "wikilink")\[2\]。
 
 ## 设计
 
-与PEN系列产品不同，数码PEN系列从类型上属于[无反光镜电子式取景](../Page/電子式取景可換鏡頭相機.md "wikilink")（PEN系固定镜头机型为[旁轴](../Page/旁轴相机.md "wikilink")，而PEN
-F系为[单反](../Page/单反.md "wikilink")），且[底片格式存在差异](../Page/底片格式.md "wikilink")（胶片机型为半格，而数码机型为更小的4/3规格）。
+与PEN系列产品不同，数码PEN系列从类型上属于[无反光镜电子式取景](https://zh.wikipedia.org/wiki/電子式取景可換鏡頭相機 "wikilink")（PEN系固定镜头机型为[旁轴](https://zh.wikipedia.org/wiki/旁轴相机 "wikilink")，而PEN
+F系为[单反](https://zh.wikipedia.org/wiki/单反 "wikilink")），且[底片格式存在差异](../Page/底片格式.md "wikilink")（胶片机型为半格，而数码机型为更小的4/3规格）。
 
 为了向之前的PEN系列致敬，数码PEN系列产品外观设计上保留了PEN系军舰部的斜肩；且在E-P5世代开始\[3\]，提供银黑配色选项。
 
-PEN系列，乃至奥林巴斯所有微43系统机型，均具备[机身防抖功能](../Page/防抖.md "wikilink")，安装[适配镜头情况下](../Page/微4/3系统镜头列表.md "wikilink")，可以在半按快门状态下启动以达到图像稳定的效果。初期为垂直于光轴的两轴防抖；从E-P5世代开始\[4\]，PEN系主流产品装配**五轴防抖**\[5\]；且增加WiFi模块，可以使用智能手机/平板设备查看机内图像，或进行遥控拍摄等操作。
+PEN系列，乃至奥林巴斯所有微43系统机型，均具备[机身防抖功能](https://zh.wikipedia.org/wiki/防抖 "wikilink")，安装[适配镜头情况下](https://zh.wikipedia.org/wiki/微4/3系统镜头列表 "wikilink")，可以在半按快门状态下启动以达到图像稳定的效果。初期为垂直于光轴的两轴防抖；从E-P5世代开始\[4\]，PEN系主流产品装配**五轴防抖**\[5\]；且增加WiFi模块，可以使用智能手机/平板设备查看机内图像，或进行遥控拍摄等操作。
 
 ## 系列机型
 
 PEN数码系列按照市场划分为具体三个子系列：
 
   - PEN 主流机型
-      - [PEN E-P1](../Page/奥林巴斯_PEN_E-P1.md "wikilink")
+      - [PEN
+        E-P1](https://zh.wikipedia.org/wiki/奥林巴斯_PEN_E-P1 "wikilink")
       - PEN E-P2
       - PEN E-P3
-      - [PEN E-P5](../Page/奥林巴斯_PEN_E-P5.md "wikilink")
-      - [PEN-F](../Page/PEN-F.md "wikilink")
+      - [PEN
+        E-P5](https://zh.wikipedia.org/wiki/奥林巴斯_PEN_E-P5 "wikilink")
+      - [PEN-F](https://zh.wikipedia.org/wiki/PEN-F "wikilink")
   - PEN Lite 经济机型
       - PEN E-PL1
       - PEN E-PL2
@@ -65,9 +67,9 @@ Port）进行扩展\[6\]。
 
   - [奧林巴斯PEN系列](../Page/奧林巴斯PEN系列.md "wikilink")
       - [奥林巴斯PEN F系列](../Page/奥林巴斯PEN_F系列.md "wikilink")
-        于二十世纪60年代风靡的[半格单反机型](../Page/半格.md "wikilink")
+        于二十世纪60年代风靡的[半格单反机型](https://zh.wikipedia.org/wiki/半格 "wikilink")
       - **奥林巴斯PEN数码系列**
-  - [米谷美久](../Page/米谷美久.md "wikilink")
+  - [米谷美久](https://zh.wikipedia.org/wiki/米谷美久 "wikilink")
 
 ## 参考与引用
 

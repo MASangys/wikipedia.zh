@@ -60,7 +60,7 @@
 </tr>
 <tr class="odd">
 <td><p>最佳歌詞</p></td>
-<td><p><a href="../Page/羅生門_(歌曲).md" title="wikilink">羅生門</a> / <a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="../Page/羅生門_(歌曲).md" title="wikilink">羅生門</a> / <a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -94,7 +94,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第16屆<a href="../Page/華語音樂傳媒大獎.md" title="wikilink">華語音樂傳媒大獎</a></p></td>
+<td><p>第16屆<a href="https://zh.wikipedia.org/wiki/華語音樂傳媒大獎" title="wikilink">華語音樂傳媒大獎</a></p></td>
 <td><p>年度粵語歌曲</p></td>
 <td><p>瑕疵</p></td>
 <td></td>
@@ -220,7 +220,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/IFPI香港唱片銷量大獎頒奬禮2015.md" title="wikilink">IFPI香港唱片銷量大獎2015</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2015" title="wikilink">IFPI香港唱片銷量大獎2015</a></p></td>
 <td><p>十大銷量廣東唱片</p></td>
 <td><p>《<strong>Addendum</strong>》</p></td>
 <td></td>

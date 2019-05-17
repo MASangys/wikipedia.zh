@@ -1,16 +1,16 @@
-[阿拉伯聯合大公國包含](../Page/阿拉伯聯合大公國.md "wikilink")[杜拜](../Page/杜拜.md "wikilink")、[阿布達比](../Page/阿布達比.md "wikilink")、[拉斯海瑪](../Page/拉斯海瑪.md "wikilink")、[烏姆蓋萬](../Page/烏姆蓋萬.md "wikilink")、[阿治曼](../Page/阿治曼.md "wikilink")、[富吉拉和](../Page/富吉拉.md "wikilink")[夏爾迦等七個酋長國](../Page/夏爾迦.md "wikilink")。在傳統異性戀婚姻之外的性關係都是一種犯罪。同性戀可能被判死刑。刑罰從監禁、罰款[驅逐出境到死刑都有](../Page/驅逐出境.md "wikilink")。通姦與也是犯罪，犯下同性戀罪的人，如果與同性發生性關係時自己也有配偶，也會面臨通姦的罪刑。
+[阿拉伯聯合大公國包含](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國 "wikilink")[杜拜](../Page/杜拜.md "wikilink")、[阿布達比](https://zh.wikipedia.org/wiki/阿布達比 "wikilink")、[拉斯海瑪](https://zh.wikipedia.org/wiki/拉斯海瑪 "wikilink")、[烏姆蓋萬](../Page/烏姆蓋萬.md "wikilink")、[阿治曼](https://zh.wikipedia.org/wiki/阿治曼 "wikilink")、[富吉拉和](../Page/富吉拉.md "wikilink")[夏爾迦等七個酋長國](https://zh.wikipedia.org/wiki/夏爾迦 "wikilink")。在傳統異性戀婚姻之外的性關係都是一種犯罪。同性戀可能被判死刑。刑罰從監禁、罰款[驅逐出境到死刑都有](https://zh.wikipedia.org/wiki/驅逐出境 "wikilink")。通姦與也是犯罪，犯下同性戀罪的人，如果與同性發生性關係時自己也有配偶，也會面臨通姦的罪刑。
 
 ## 聯邦刑法
 
-阿拉伯聯合大公國聯邦刑法典第354條規定：「凡是強姦女性或雞姦男性者，處死刑。」，然而對於該阿拉伯文獻的英文翻譯有些爭議，因為這項法律被普遍認為是在禁止強姦，以及合意的[雞姦](../Page/雞姦.md "wikilink")。
+阿拉伯聯合大公國聯邦刑法典第354條規定：「凡是強姦女性或雞姦男性者，處死刑。」，然而對於該阿拉伯文獻的英文翻譯有些爭議，因為這項法律被普遍認為是在禁止強姦，以及合意的[雞姦](https://zh.wikipedia.org/wiki/雞姦 "wikilink")。
 
 聯邦的並不會取代每個酋長國的司法體系，除非它違反了聯邦法律，因此[伊斯蘭教法仍然有效](../Page/伊斯蘭教法.md "wikilink")。因此犯下此罪的人，可能會根據聯邦刑法典或是地方（酋長國）刑法典來判刑。
 
-在2013年，所有[海灣阿拉伯國家合作委員會的會員國宣布同意要建立某種型式的檢驗](../Page/海灣阿拉伯國家合作委員會.md "wikilink")，以禁止或驅逐外國同性戀者，然而該檢驗的型式仍然未知。\[1\]
+在2013年，所有[海灣阿拉伯國家合作委員會的會員國宣布同意要建立某種型式的檢驗](https://zh.wikipedia.org/wiki/海灣阿拉伯國家合作委員會 "wikilink")，以禁止或驅逐外國同性戀者，然而該檢驗的型式仍然未知。\[1\]
 
 ## 生存現狀
 
-[美國國務院](../Page/美國國務院.md "wikilink")2011年的人權報告指出：
+[美國國務院](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")2011年的人權報告指出：
 
 > 無論民法或伊斯蘭教法皆將同性戀行為定為刑事犯罪。根據伊斯蘭教法的規定〔，〕凡是從事合意同性戀行為者皆處死刑。在……〔2011年〕間，沒有任何關於同性戀行為的起訴。有時候〔，〕政府強制他們接受關於同性戀行為的心理治療或是諮詢輔導。穿著反串服裝是一項可以被懲罰的犯罪。政府將穿著反串服裝的外國居民驅逐出境，並把本國公民提交給公訴檢察官。\[2\]
 
@@ -26,7 +26,7 @@ Dhahiri）說：「UAE不會容忍任何同性戀或同性性行為。我們的�
 
 杜拜刑法典第177條將合意雞姦判處最多10年的監禁。在當地的媒體上最常見的對於[LGBT人士的描述都與外國人](../Page/LGBT.md "wikilink")、疾病以及性犯罪如強姦有關。
 
-在2007年曾有一個案件是一名法國－瑞士混血的16歲男孩被綁架並強姦。\[7\]最初，警察將該男孩視為嫌疑犯，男孩與其家人也因為害怕違反第177條的規定而被迫離開阿拉伯聯合大公國。\[8\]最後，在該男孩回去作證指控強姦他的犯人時，他並沒有遭到正式起訴。此事件引起國際媒體的關注，政府代表維護他們反同性戀的刑事法律，說：「這是保守的社會，從事同性戀是違法行為。我們並不以此為恥。」，該男孩的母親因為杜拜對他兒子的待遇而發動了一項國際運動以抵制杜拜，但該運動最後因為政府同意某些要求而終止。\[9\]該男孩最後獲得了1500萬[阿聯酋迪拉姆](../Page/阿聯酋迪拉姆.md "wikilink")（400萬美金）的民事賠償。\[10\]
+在2007年曾有一個案件是一名法國－瑞士混血的16歲男孩被綁架並強姦。\[7\]最初，警察將該男孩視為嫌疑犯，男孩與其家人也因為害怕違反第177條的規定而被迫離開阿拉伯聯合大公國。\[8\]最後，在該男孩回去作證指控強姦他的犯人時，他並沒有遭到正式起訴。此事件引起國際媒體的關注，政府代表維護他們反同性戀的刑事法律，說：「這是保守的社會，從事同性戀是違法行為。我們並不以此為恥。」，該男孩的母親因為杜拜對他兒子的待遇而發動了一項國際運動以抵制杜拜，但該運動最後因為政府同意某些要求而終止。\[9\]該男孩最後獲得了1500萬[阿聯酋迪拉姆](https://zh.wikipedia.org/wiki/阿聯酋迪拉姆 "wikilink")（400萬美金）的民事賠償。\[10\]
 
 在2008年，二名女同性戀遊客在海灘上公開接吻，被以此判處1個月徒刑，然後驅逐出境。\[11\]該審判，據說是首開了此一先例，迫使警察不得不建立一個特別小組，以打擊在海灘發生的同性戀及其他猥褻行為。\[12\]
 
@@ -39,28 +39,28 @@ Club）」的夜店為LGBT社群主辦了一場特別的夜晚活動，請來英
 
 ## 總表
 
-|                                          |                                                                                                      |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 同性性行為合法                                  | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（罰則：驅逐出境、化學閹割、罰款、死刑或監禁） |
-| 平等的最低合法性交年齡                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 職場上的反歧視法律                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 在提供商品及服務的反歧視法                            | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 其他全部領域的反歧視法（包括但不限於間接歧視、仇恨言論）             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 同性婚姻                                     | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 承認同性伴侶                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 同性伴侶對繼子女的收養                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 同性伴侶的共同收養                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 男女同性戀允許在軍隊中公開服役                          | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 改變法定性別的權利                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 女同性戀可以使用試管嬰兒                             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| 男同性戀伴侶的商業代孕                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
-| [MSM可以捐血](../Page/男男性接觸人群.md "wikilink") | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+|                                                             |                                                                                                      |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 同性性行為合法                                                     | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（罰則：驅逐出境、化學閹割、罰款、死刑或監禁） |
+| 平等的最低合法性交年齡                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 職場上的反歧視法律                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 在提供商品及服務的反歧視法                                               | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 其他全部領域的反歧視法（包括但不限於間接歧視、仇恨言論）                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 同性婚姻                                                        | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 承認同性伴侶                                                      | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 同性伴侶對繼子女的收養                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 同性伴侶的共同收養                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 男女同性戀允許在軍隊中公開服役                                             | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 改變法定性別的權利                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 女同性戀可以使用試管嬰兒                                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 男同性戀伴侶的商業代孕                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| [MSM可以捐血](https://zh.wikipedia.org/wiki/男男性接觸人群 "wikilink") | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
 
 ## 參見
 
   - [阿拉伯聯合大公國人權](../Page/阿拉伯聯合大公國人權.md "wikilink")
   - [各地LGBT權利](../Page/各地LGBT權利.md "wikilink")
-  - [亞洲LGBT權益](../Page/亞洲LGBT權益.md "wikilink")
+  - [亞洲LGBT權益](https://zh.wikipedia.org/wiki/亞洲LGBT權益 "wikilink")
 
 ## 參考資料
 

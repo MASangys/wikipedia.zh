@@ -1,8 +1,10 @@
 **Shoes** 是一套基于 [Ruby](../Page/Ruby.md "wikilink") 语言的
-[GUI](../Page/GUI.md "wikilink") 开发工具。其最初由  开发，在他停止了一切公开活动之后，社区接手了该项目并继续开发。Shoes
-可以在 [Microsoft Windows](../Page/Microsoft_Windows.md "wikilink")、[Mac OS
-X](../Page/OS_X.md "wikilink") 和 [Linux](../Page/Linux.md "wikilink")（[GTK+](../Page/GTK+.md "wikilink")）上运行，底层使用了
-[Cairo](../Page/Cairo_\(繪圖\).md "wikilink") 和 [Pango](../Page/Pango.md "wikilink") 函数库。
+[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink") 开发工具。其最初由  开发，在他停止了一切公开活动之后，社区接手了该项目并继续开发。Shoes
+可以在 [Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
+OS
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink") 和 [Linux](../Page/Linux.md "wikilink")（[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")）上运行，底层使用了
+[Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink") 和 [Pango](../Page/Pango.md "wikilink") 函数库。
 
 Shoes 的设计哲学是应用程序的编写越简单越好。下面是一个 Shoes 应用的范例：
 
@@ -16,8 +18,8 @@ Shoes.app :title => "Push Button" do
 end
 ```
 
-Shoes 不仅提供了标准的视窗控件部件，它还能通过 [Chipmunk](../Page/Chipmunk.md "wikilink")
-实现基础的绘图功能。
+Shoes 不仅提供了标准的视窗控件部件，它还能通过
+[Chipmunk](https://zh.wikipedia.org/wiki/Chipmunk "wikilink") 实现基础的绘图功能。
 
 ## 版本
 
@@ -39,7 +41,8 @@ Shoes 不仅提供了标准的视窗控件部件，它还能通过 [Chipmunk](..
 1.  3.0-3.1 Policeman
 2.  3.2 Federales
 
-目前最新的发行版是 3.2，这些版本均由 [C](../Page/C语言.md "wikilink") 语言实现，现由社区维护。
+目前最新的发行版是 3.2，这些版本均由 [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
+语言实现，现由社区维护。
 
 ### Shoes 4
 
@@ -52,7 +55,7 @@ Shoes 不仅提供了标准的视窗控件部件，它还能通过 [Chipmunk](..
 除了官方的实现版本之外，[GitHub](../Page/GitHub.md "wikilink") 上亦有各种各样的 Shoes
 版本，它们的名字大多是在 Shoes 前加上特定的颜色。如 [Green
 Shoes](https://github.com/ashbb/green_shoes) 是由
-[GTK+](../Page/GTK+.md "wikilink") 实现的版本，[Blue
+[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink") 实现的版本，[Blue
 Shoes](https://github.com/hacketyhack/blue_shoes) 是
 [Qt](../Page/Qt.md "wikilink") 的版本，[Brown
 Shoes](https://github.com/swerner/brown_shoes) 是

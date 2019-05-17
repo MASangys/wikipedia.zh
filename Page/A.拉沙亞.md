@@ -1,5 +1,5 @@
 **A.拉沙亞**（**Achraf Lazaar**）
-（；出生於1992年1月22日）是[摩洛哥的職業足球運動員](../Page/摩洛哥.md "wikilink")，司職[左後衛](../Page/左後衛.md "wikilink")、[左翼鋒](../Page/左翼鋒.md "wikilink")，現時被[英超球隊](../Page/英超.md "wikilink")[纽卡斯尔联外借至](../Page/纽卡斯尔联足球俱乐部.md "wikilink")[英冠球隊](../Page/英冠.md "wikilink")[錫周三](../Page/謝周三足球俱樂部.md "wikilink")。
+（；出生於1992年1月22日）是[摩洛哥的職業足球運動員](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，司職[左後衛](https://zh.wikipedia.org/wiki/左後衛 "wikilink")、[左翼鋒](https://zh.wikipedia.org/wiki/左翼鋒 "wikilink")，現時被[英超球隊](https://zh.wikipedia.org/wiki/英超 "wikilink")[纽卡斯尔联外借至](../Page/纽卡斯尔联足球俱乐部.md "wikilink")[英冠球隊](https://zh.wikipedia.org/wiki/英冠 "wikilink")[錫周三](https://zh.wikipedia.org/wiki/謝周三足球俱樂部 "wikilink")。
 
 ## 參考
 

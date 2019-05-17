@@ -1,9 +1,9 @@
 **C POSIX
-library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")。包含了一些在[C语言标准库之外的函数](../Page/C标准库.md "wikilink")。
+library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki/POSIX "wikilink")。包含了一些在[C语言标准库之外的函数](https://zh.wikipedia.org/wiki/C标准库 "wikilink")。
 
 ## C POSIX library头文件
 
-下表列出不在[C语言标准库之内的POSIX标准的头文件](../Page/C标准库.md "wikilink")：
+下表列出不在[C语言标准库之内的POSIX标准的头文件](https://zh.wikipedia.org/wiki/C标准库 "wikilink")：
 
 <table>
 <thead>
@@ -16,7 +16,7 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 <tbody>
 <tr class="odd">
 <td><p><em>' &lt;aio.h&gt;</em>'</p></td>
-<td><p><a href="../Page/异步I/O.md" title="wikilink">异步I/O</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/异步I/O" title="wikilink">异步I/O</a></p></td>
 <td><p>Issue 5</p></td>
 </tr>
 <tr class="even">
@@ -26,22 +26,22 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><em>' &lt;cpio.h&gt;</em>'</p></td>
-<td><p>用于<a href="../Page/cpio.md" title="wikilink">cpio的</a><a href="../Page/文件格式#Magic_number.md" title="wikilink">文件格式#Magic number</a></p></td>
+<td><p>用于<a href="https://zh.wikipedia.org/wiki/cpio" title="wikilink">cpio的</a><a href="https://zh.wikipedia.org/wiki/文件格式#Magic_number" title="wikilink">文件格式#Magic number</a></p></td>
 <td><p>Issue 3</p></td>
 </tr>
 <tr class="even">
-<td><p><em>' &lt;<a href="../Page/dirent.h.md" title="wikilink">dirent.h</a>&gt;</em>'</p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/dirent.h" title="wikilink">dirent.h</a>&gt;</em>'</p></td>
 <td><p>打开与列出<a href="../Page/目录_(文件系统).md" title="wikilink">目录</a>.</p></td>
 <td><p>Issue 2</p></td>
 </tr>
 <tr class="odd">
 <td><p>''' &lt;dlfcn.h&gt; '''</p></td>
-<td><p><a href="../Page/动态链接.md" title="wikilink">动态链接</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/动态链接" title="wikilink">动态链接</a></p></td>
 <td><p>Issue 5</p></td>
 </tr>
 <tr class="even">
-<td><p><em>' &lt;<a href="../Page/fcntl.h.md" title="wikilink">fcntl.h</a>&gt;</em>'</p></td>
-<td><p>文件打开、<a href="../Page/文件加锁.md" title="wikilink">加锁等操作</a></p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/fcntl.h" title="wikilink">fcntl.h</a>&gt;</em>'</p></td>
+<td><p>文件打开、<a href="https://zh.wikipedia.org/wiki/文件加锁" title="wikilink">加锁等操作</a></p></td>
 <td><p>Issue 1</p></td>
 </tr>
 <tr class="odd">
@@ -101,7 +101,7 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p>''' &lt;net/if.h&gt; '''</p></td>
-<td><p>本地<a href="../Page/网络接口.md" title="wikilink">网络接口列表</a></p></td>
+<td><p>本地<a href="https://zh.wikipedia.org/wiki/网络接口" title="wikilink">网络接口列表</a></p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="odd">
@@ -116,7 +116,7 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p>''' &lt;netinet/tcp.h&gt; '''</p></td>
-<td><p>额外的<a href="../Page/Transmission_Control_Protocol.md" title="wikilink">TCP的控制选项</a>。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字的一部分</a></p></td>
+<td><p>额外的<a href="https://zh.wikipedia.org/wiki/Transmission_Control_Protocol" title="wikilink">TCP的控制选项</a>。是<a href="../Page/Berkeley套接字.md" title="wikilink">Berkeley套接字的一部分</a></p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="even">
@@ -135,8 +135,8 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 <td><p>Issue 5</p></td>
 </tr>
 <tr class="odd">
-<td><p>''' &lt;<a href="../Page/pwd.h.md" title="wikilink">pwd.h</a>&gt; '''</p></td>
-<td><p><a href="../Page/passwd.md" title="wikilink">passwd文件访问与控制</a></p></td>
+<td><p>''' &lt;<a href="https://zh.wikipedia.org/wiki/pwd.h" title="wikilink">pwd.h</a>&gt; '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/passwd" title="wikilink">passwd文件访问与控制</a></p></td>
 <td><p>Issue 1</p></td>
 </tr>
 <tr class="even">
@@ -171,17 +171,17 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p>''' &lt;stropts.h&gt;</p></td>
-<td><p>流操作，包括<a href="../Page/ioctl.md" title="wikilink">ioctl</a></p></td>
+<td><p>流操作，包括<a href="https://zh.wikipedia.org/wiki/ioctl" title="wikilink">ioctl</a></p></td>
 <td><p>Issue 4</p></td>
 </tr>
 <tr class="odd">
-<td><p><em>' &lt;<a href="../Page/sys/ipc.h.md" title="wikilink">sys/ipc.h</a>&gt;</em>'</p></td>
-<td><p><a href="../Page/进程间通信.md" title="wikilink">进程间通信</a> (IPC).</p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/sys/ipc.h" title="wikilink">sys/ipc.h</a>&gt;</em>'</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/进程间通信" title="wikilink">进程间通信</a> (IPC).</p></td>
 <td><p>Issue 2</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>&lt;sys/mman.h&gt;</strong></p></td>
-<td><p>内存管理，包括POSIX <a href="../Page/共享内存_(进程间通信).md" title="wikilink">共享内存 (进程间通信)与</a><a href="../Page/内存映射文件.md" title="wikilink">内存映射文件</a></p></td>
+<td><p>内存管理，包括POSIX <a href="https://zh.wikipedia.org/wiki/共享内存_(进程间通信)" title="wikilink">共享内存 (进程间通信)与</a><a href="https://zh.wikipedia.org/wiki/内存映射文件" title="wikilink">内存映射文件</a></p></td>
 <td><p>Issue 4</p></td>
 </tr>
 <tr class="odd">
@@ -201,22 +201,22 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p><strong>&lt;sys/sem.h&gt;</strong></p></td>
-<td><p>XSI (<a href="../Page/Unix_System_V.md" title="wikilink">SysV风格的</a>) <a href="../Page/信号量.md" title="wikilink">信号量</a></p></td>
+<td><p>XSI (<a href="https://zh.wikipedia.org/wiki/Unix_System_V" title="wikilink">SysV风格的</a>) <a href="../Page/信号量.md" title="wikilink">信号量</a></p></td>
 <td><p>Issue 2</p></td>
 </tr>
 <tr class="odd">
 <td><p>'''&lt;sys/shm.h&gt;</p></td>
-<td><p>XSI (<a href="../Page/Unix_System_V.md" title="wikilink">SysV风格的</a>)<a href="../Page/共享内存_(进程间通信).md" title="wikilink">共享内存 (进程间通信)</a></p></td>
+<td><p>XSI (<a href="https://zh.wikipedia.org/wiki/Unix_System_V" title="wikilink">SysV风格的</a>)<a href="https://zh.wikipedia.org/wiki/共享内存_(进程间通信)" title="wikilink">共享内存 (进程间通信)</a></p></td>
 <td><p>Issue 2</p></td>
 </tr>
 <tr class="even">
 <td><p>'''&lt;sys/socket.h&gt; '''</p></td>
-<td><p><a href="../Page/Berkley套接字.md" title="wikilink">Berkley套接字主要头文件</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Berkley套接字" title="wikilink">Berkley套接字主要头文件</a></p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>&lt;sys/stat.h&gt;</strong></p></td>
-<td><p>文件信息(<a href="../Page/stat_(Unix).md" title="wikilink">stat (Unix)等</a>)</p></td>
+<td><p>文件信息(<a href="https://zh.wikipedia.org/wiki/stat_(Unix)" title="wikilink">stat (Unix)等</a>)</p></td>
 <td><p>Issue 1</p></td>
 </tr>
 <tr class="even">
@@ -235,7 +235,7 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 <td><p>Issue 1</p></td>
 </tr>
 <tr class="odd">
-<td><p><em>' &lt;<a href="../Page/sys/types.h.md" title="wikilink">sys/types.h</a>&gt;</em>'</p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/sys/types.h" title="wikilink">sys/types.h</a>&gt;</em>'</p></td>
 <td><p>不同的数据类型</p></td>
 <td><p>Issue 1</p></td>
 </tr>
@@ -246,32 +246,32 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><strong>&lt;sys/un.h&gt;</strong></p></td>
-<td><p><a href="../Page/Unix域套接字.md" title="wikilink">Unix域套接字</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Unix域套接字" title="wikilink">Unix域套接字</a></p></td>
 <td><p>Issue 6</p></td>
 </tr>
 <tr class="even">
-<td><p><em>' &lt;<a href="../Page/sys/utsname.h.md" title="wikilink">sys/utsname.h</a>&gt;</em>'</p></td>
-<td><p>操作系统信息，包括<a href="../Page/uname.md" title="wikilink">uname</a></p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/sys/utsname.h" title="wikilink">sys/utsname.h</a>&gt;</em>'</p></td>
+<td><p>操作系统信息，包括<a href="https://zh.wikipedia.org/wiki/uname" title="wikilink">uname</a></p></td>
 <td><p>Issue 1</p></td>
 </tr>
 <tr class="odd">
-<td><p><em>' &lt;<a href="../Page/sys/wait.h.md" title="wikilink">sys/wait.h</a>&gt;</em>'</p></td>
-<td><p>终止子进程的状态(见<a href="../Page/wait_(Unix).md" title="wikilink">wait (Unix)</a>)</p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/sys/wait.h" title="wikilink">sys/wait.h</a>&gt;</em>'</p></td>
+<td><p>终止子进程的状态(见<a href="https://zh.wikipedia.org/wiki/wait_(Unix)" title="wikilink">wait (Unix)</a>)</p></td>
 <td><p>Issue 3</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>&lt;syslog.h&gt;</strong></p></td>
-<td><p><a href="../Page/syslog.md" title="wikilink">syslog系统日志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/syslog" title="wikilink">syslog系统日志</a></p></td>
 <td><p>Issue 4</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>&lt;tar.h&gt;</strong></p></td>
-<td><p><a href="../Page/tar.md" title="wikilink">tar文件格式的Magic</a> number</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tar" title="wikilink">tar文件格式的Magic</a> number</p></td>
 <td><p>Issue 3</p></td>
 </tr>
 <tr class="even">
-<td><p><em>' &lt;<a href="../Page/termios.h.md" title="wikilink">termios.h</a>&gt;</em>'</p></td>
-<td><p>允许<a href="../Page/串口.md" title="wikilink">串口界面</a></p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/termios.h" title="wikilink">termios.h</a>&gt;</em>'</p></td>
+<td><p>允许<a href="https://zh.wikipedia.org/wiki/串口" title="wikilink">串口界面</a></p></td>
 <td><p>Issue 3</p></td>
 </tr>
 <tr class="odd">
@@ -285,13 +285,13 @@ library**是C语言的[POSIX系统下的标准库](../Page/POSIX.md "wikilink")�
 <td><p>Issue 1</p></td>
 </tr>
 <tr class="odd">
-<td><p><em>' &lt;<a href="../Page/unistd.h.md" title="wikilink">unistd.h</a>&gt;</em>'</p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/unistd.h" title="wikilink">unistd.h</a>&gt;</em>'</p></td>
 <td><p>多种必要的POSIX函数与常量</p></td>
 <td><p>Issue 1</p></td>
 </tr>
 <tr class="even">
-<td><p><em>' &lt;<a href="../Page/utime.h.md" title="wikilink">utime.h</a>&gt;</em>'</p></td>
-<td><p><a href="../Page/inode.md" title="wikilink">inode访问与修改时间</a></p></td>
+<td><p><em>' &lt;<a href="https://zh.wikipedia.org/wiki/utime.h" title="wikilink">utime.h</a>&gt;</em>'</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/inode" title="wikilink">inode访问与修改时间</a></p></td>
 <td><p>Issue 3</p></td>
 </tr>
 <tr class="odd">

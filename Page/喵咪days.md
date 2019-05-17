@@ -1,8 +1,8 @@
 ，是由所作的日本[四格漫畫](../Page/四格漫畫.md "wikilink")。于2014年8月27日開始發表於《[月刊Comic
 Alive](../Page/月刊Comic_Alive.md "wikilink")》中的一個四格漫畫欄目《COMIC
 CUNE》\[1\]，後來轉移至於2015年8月27日正式創刊的四格漫畫雜誌《[COMIC
-CUNE](../Page/COMIC_CUNE.md "wikilink")》發表\[2\]。ComicWalker網站也發表該四格漫畫。\[3\]第1冊[單行本於](../Page/單行本.md "wikilink")2015年12月26日發售。由[EMT
-Squared負責動畫製作的](../Page/EMT_Squared.md "wikilink")[電視動畫於](../Page/電視動畫.md "wikilink")2017年1月8日開始播放。
+CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》發表\[2\]。ComicWalker網站也發表該四格漫畫。\[3\]第1冊[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2015年12月26日發售。由[EMT
+Squared負責動畫製作的](https://zh.wikipedia.org/wiki/EMT_Squared "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年1月8日開始播放。
 
 ## 故事簡介
 
@@ -29,7 +29,7 @@ Squared負責動畫製作的](../Page/EMT_Squared.md "wikilink")[電視動畫於
 
 | 卷數   | [KADOKAWA](../Page/KADOKAWA.md "wikilink") / [Media Factory](../Page/Media_Factory.md "wikilink") |
 | ---- | ------------------------------------------------------------------------------------------------- |
-| 發售日期 | [ISBN](../Page/ISBN.md "wikilink")                                                                |
+| 發售日期 | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink")                                             |
 | 1    | 2015年12月26日\[4\]                                                                                  |
 | 2    | 2016年12月24日\[5\]                                                                                  |
 | 3    | 2017年10月27日\[6\]                                                                                  |
@@ -37,26 +37,27 @@ Squared負責動畫製作的](../Page/EMT_Squared.md "wikilink")[電視動畫於
 ## 電視動畫
 
 於《COMIC
-CUNE》2016年11月號發布電視動畫化消息\[7\]。於2017年1月8日開始播出。\[8\][Blu-ray和](../Page/Blu-ray.md "wikilink")[DVD預定於](../Page/DVD.md "wikilink")2017年春天發售。\[9\]
+CUNE》2016年11月號發布電視動畫化消息\[7\]。於2017年1月8日開始播出。\[8\][Blu-ray和](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD預定於](https://zh.wikipedia.org/wiki/DVD "wikilink")2017年春天發售。\[9\]
 
 ### 製作人員
 
   - 原作：
   - 導演：[平池芳正](../Page/平池芳正.md "wikilink")
-  - 人物設定、作畫監督：[大島美和](../Page/大島美和.md "wikilink")
+  - 人物設定、作畫監督：[大島美和](https://zh.wikipedia.org/wiki/大島美和 "wikilink")
   - 美術監督：針﨑義士
   - 色彩設計：鈴木依里
   - 攝影監督：竹澤裕一、本間綾子
   - 音樂製作人：長島幸司
   - 音響監督：阿部信行
   - 音響製作：Quatre Stella
-  - 動畫製作：[EMT Squared](../Page/EMT_Squared.md "wikilink")
+  - 動畫製作：[EMT
+    Squared](https://zh.wikipedia.org/wiki/EMT_Squared "wikilink")
   - 製作：喵咪同盟
 
 ### 主題曲
 
   - 「 is L♥VE\!」
-    作詞、作曲、編曲：[前山田健一](../Page/前山田健一.md "wikilink")，主唱：[every♥ing\!](../Page/every♥ing!.md "wikilink")
+    作詞、作曲、編曲：[前山田健一](../Page/前山田健一.md "wikilink")，主唱：[every♥ing\!](https://zh.wikipedia.org/wiki/every♥ing! "wikilink")
 
 ### 各話列表
 
@@ -78,7 +79,7 @@ CUNE》2016年11月號發布電視動畫化消息\[7\]。於2017年1月8日開�
 <td></td>
 <td><p>我與喵咪們</p></td>
 <td><p><a href="../Page/平池芳正.md" title="wikilink">平池芳正</a></p></td>
-<td><p><a href="../Page/大島美和.md" title="wikilink">大島美和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大島美和" title="wikilink">大島美和</a></p></td>
 <td></td>
 <td></td>
 </tr>

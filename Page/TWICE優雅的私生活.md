@@ -1,4 +1,4 @@
-《**TWICE優雅的私生活**》（）是以[韓國](../Page/韓國.md "wikilink")[JYP娛樂公司旗下的女子團體](../Page/JYP娛樂.md "wikilink")[TWICE為主角所拍攝的](../Page/TWICE.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開。2016年3月1日於韓國[Mnet頻道首播](../Page/Mnet.md "wikilink")\[1\]。
+《**TWICE優雅的私生活**》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂公司旗下的女子團體](../Page/JYP娛樂.md "wikilink")[TWICE為主角所拍攝的](https://zh.wikipedia.org/wiki/TWICE "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開。2016年3月1日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]。
 
 2016年3月8日起，日本網路數位平台Mnet Smart同步播出\[2\]。5月8日起於日本Mnet Japan頻道播出。
 
@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td></td>
 <td><p>2016年3月1日－2016年4月19日</p></td>
 <td><p>每周二 23:00－24:00</p></td>
@@ -41,7 +41,7 @@
 
 ## 概要
 
-《TWICE優雅的私生活》是以團體[TWICE為主角](../Page/TWICE.md "wikilink")，團體九名成員宛如近在眼前般栩栩如生的實境節目。為了更加貼近少女們的日常生活，動員各種異想天開的方法，使節目更添趣味性。從TWICE成員們的開朗能量、藝術家的可能性到平凡的日常為止，所有之前在電視上看不到的多樣面貌，都能在這個節目中一探究竟。\[3\]
+《TWICE優雅的私生活》是以團體[TWICE為主角](https://zh.wikipedia.org/wiki/TWICE "wikilink")，團體九名成員宛如近在眼前般栩栩如生的實境節目。為了更加貼近少女們的日常生活，動員各種異想天開的方法，使節目更添趣味性。從TWICE成員們的開朗能量、藝術家的可能性到平凡的日常為止，所有之前在電視上看不到的多樣面貌，都能在這個節目中一探究竟。\[3\]
 
 ## 節目內容
 
@@ -73,8 +73,9 @@
 1.  [Mnet 측 "트와이스 단독 리얼리티, 3월 1일 첫방송
     확정"(공식)](http://entertain.naver.com/read?oid=076&aid=0002893647)
 
+
 2.  [TWICE初のリアリティ番組「TWICEの優雅な私生活」の日韓同時配信がMnet
     Smartでスタート](https://www.instagram.com/p/BCrwe5FQNri/?taken-by=mnetsmart)
 
-3.  [Mnet 측 "트와이스 단독 리얼리티, 3월 1일 첫방송
-    확정"(공식)](http://entertain.naver.com/read?oid=076&aid=0002893647)
+
+3.

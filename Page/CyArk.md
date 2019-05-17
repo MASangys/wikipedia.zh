@@ -1,4 +1,4 @@
-**CyArk**是在[美国](../Page/美国.md "wikilink")[加利福尼亚州注册的](../Page/加利福尼亚州.md "wikilink")[501(c)(3)](../Page/501\(c\)\(3\).md "wikilink")[免税](../Page/免税.md "wikilink")、[非营利](../Page/非营利.md "wikilink")、[慈善机构](../Page/慈善.md "wikilink")。该机构的网站介绍自己是“世界遗产的数字档案馆，主要目的是用于教育和保护”，机构宗旨为“依靠和[3D建模技术来收集](../Page/三维模型.md "wikilink")，保存文化遗产的数字数据，并将其提供给公众”。该组织及其目标也被称为“数字方舟”\[1\]。
+**CyArk**是在[美国](../Page/美国.md "wikilink")[加利福尼亚州注册的](../Page/加利福尼亚州.md "wikilink")[501(c)(3)](https://zh.wikipedia.org/wiki/501\(c\)\(3\) "wikilink")[免税](https://zh.wikipedia.org/wiki/免税 "wikilink")、[非营利](https://zh.wikipedia.org/wiki/非营利 "wikilink")、[慈善机构](../Page/慈善.md "wikilink")。该机构的网站介绍自己是“世界遗产的数字档案馆，主要目的是用于教育和保护”，机构宗旨为“依靠和[3D建模技术来收集](../Page/三维模型.md "wikilink")，保存文化遗产的数字数据，并将其提供给公众”。该组织及其目标也被称为“数字方舟”\[1\]。
 
 CyArk的创始人本·凯希拉在2011年的[TED大会上表示该机构的成立是为了应对世界遗产遭到日益严重的人为和自然破坏的情况](../Page/TED大会.md "wikilink")，确保这些“人类集体的记忆”能够依托包括互联网和移动平台等现代的传播技术而免于彻底消失的困境\[2\]。
 
@@ -7,13 +7,13 @@ CyArk的创始人本·凯希拉在2011年的[TED大会上表示该机构的成�
 ## 历史
 
 [Cyark_Tikal_Temple_II.jpg](https://zh.wikipedia.org/wiki/File:Cyark_Tikal_Temple_II.jpg "fig:Cyark_Tikal_Temple_II.jpg")
-[土木工程师本](../Page/土木工程师.md "wikilink")·凯希拉（[美籍](../Page/美籍.md "wikilink")[伊拉克人](../Page/伊拉克人.md "wikilink")）于2003年创立了CyArk。20世纪90年代，凯希拉在第一个便携式[三维扫描仪的发明和市场化中扮演了重要的角色](../Page/三维扫描仪.md "wikilink")。由Cyra科技生产的第一个扫描仪叫做，最初设计就是用于调查等相关目的\[7\]。
+[土木工程师本](https://zh.wikipedia.org/wiki/土木工程师 "wikilink")·凯希拉（[美籍](https://zh.wikipedia.org/wiki/美籍 "wikilink")[伊拉克人](https://zh.wikipedia.org/wiki/伊拉克人 "wikilink")）于2003年创立了CyArk。20世纪90年代，凯希拉在第一个便携式[三维扫描仪的发明和市场化中扮演了重要的角色](https://zh.wikipedia.org/wiki/三维扫描仪 "wikilink")。由Cyra科技生产的第一个扫描仪叫做，最初设计就是用于调查等相关目的\[7\]。
 
 2001年，Cyra科技及其所有发明专利被卖给了瑞士的[徕卡测量系统](../Page/徕卡测量系统.md "wikilink")\[8\]。
 
 在Cyra科技被出售之后，本·凯希拉开始专注于使用激光扫描技术来记录历史和文化遗产，并创立了CyArk\[9\]。
 
-CyArk的推广最初主要围绕凯希拉的出生地--伊拉克。在伊拉克战争期间，伊拉克大量的文化遗产遭到掠夺。一些历史遗迹例如[巴比伦和](../Page/巴比伦.md "wikilink")[萨迈拉遭到了军事打击](../Page/萨迈拉.md "wikilink")。此外，作为CyArk公众形象的凯希拉多次在一些大会上发表演讲。他于2008年参加了谷歌举办的Zeitgeist大会，2011年又参加了[TED大会](../Page/TED大会.md "wikilink")，并在其中发表了演讲。他在演讲中讲述自己的人生以及利用数字手段保护“人类记忆”的可能性。不过在此后几年，由于CyArk已经获得了可观的关注度，本·凯希拉更多的扮演顾问的角色。
+CyArk的推广最初主要围绕凯希拉的出生地--伊拉克。在伊拉克战争期间，伊拉克大量的文化遗产遭到掠夺。一些历史遗迹例如[巴比伦和](../Page/巴比伦.md "wikilink")[萨迈拉遭到了军事打击](https://zh.wikipedia.org/wiki/萨迈拉 "wikilink")。此外，作为CyArk公众形象的凯希拉多次在一些大会上发表演讲。他于2008年参加了谷歌举办的Zeitgeist大会，2011年又参加了[TED大会](../Page/TED大会.md "wikilink")，并在其中发表了演讲。他在演讲中讲述自己的人生以及利用数字手段保护“人类记忆”的可能性。不过在此后几年，由于CyArk已经获得了可观的关注度，本·凯希拉更多的扮演顾问的角色。
 
 ## CyArk 500
 

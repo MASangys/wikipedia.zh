@@ -1,7 +1,7 @@
 **Brotli**是一个Jyrki
-Alakuijala和开发的[开源](../Page/开源软件.md "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")[程序库](../Page/程序库.md "wikilink")。\[1\]\[2\]Brotli基于[LZ77算法的一个现代变体](../Page/LZ77与LZ78.md "wikilink")、[霍夫曼编码和二阶](../Page/霍夫曼编码.md "wikilink")。
+Alakuijala和开发的[开源](../Page/开源软件.md "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")[程序库](https://zh.wikipedia.org/wiki/程序库 "wikilink")。\[1\]\[2\]Brotli基于[LZ77算法的一个现代变体](../Page/LZ77与LZ78.md "wikilink")、[霍夫曼编码和二阶](../Page/霍夫曼编码.md "wikilink")。
 
-在[Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](../Page/Opera.md "wikilink")[Firefox中](../Page/Firefox.md "wikilink")，它已被用于加速[万维网的传输速度](../Page/万维网.md "wikilink")。\[3\]类似[Google的压缩算法](../Page/Google.md "wikilink")[zopfli](../Page/zopfli.md "wikilink")，brotli这个名字来自瑞士的烘培产品。\[4\]
+在[Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Firefox中](../Page/Firefox.md "wikilink")，它已被用于加速[万维网的传输速度](../Page/万维网.md "wikilink")。\[3\]类似[Google的压缩算法](../Page/Google.md "wikilink")[zopfli](https://zh.wikipedia.org/wiki/zopfli "wikilink")，brotli这个名字来自瑞士的烘培产品。\[4\]
 
 ## 演变
 
@@ -17,13 +17,14 @@ Brotli最初发布于2015年，用于[网络字体的离线压缩](../Page/Web�
     44中实现Brotli。\[10\]\[11\]
   - [Google Chrome从Chrome](../Page/Google_Chrome.md "wikilink")
     49开始支持Brotli。\[12\]
-  - [Opera从Opera](../Page/Opera.md "wikilink") 36开始支持Brotli。\[13\]
+  - [Opera从Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
+    36开始支持Brotli。\[13\]
 
 ## 註解
 
 ## 参见
 
-  - [SDCH](../Page/SDCH.md "wikilink")
+  - [SDCH](https://zh.wikipedia.org/wiki/SDCH "wikilink")
 
 ## 参考资料
 

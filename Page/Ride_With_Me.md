@@ -1,5 +1,5 @@
 「**Ride With
-Me**」是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")11张[单曲](../Page/單曲.md "wikilink")。於2013年12月25日由[J
+Me**」是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")11张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2013年12月25日由[J
 Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 概要
@@ -10,7 +10,7 @@ House](../Page/Come_On_A_My_House.md "wikilink")」相隔约6个月後发售。�
 分为初回限定盘1、初回限定盘2、通常盘3种形式发售。
 
 标题曲「Ride With Me」是由Hey\!Say\!JUMP成員山田涼介及有岡大貴所參演的電視劇『[金田一少年の事件簿
-獄門塾殺人事件](../Page/金田一少年之事件簿.md "wikilink")』的主題歌。
+獄門塾殺人事件](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")』的主題歌。
 
 ## 收录曲
 
@@ -19,8 +19,9 @@ House](../Page/Come_On_A_My_House.md "wikilink")」相隔约6个月後发售。�
 #### CD
 
 1.  **Ride With Me** \[4:28\]
-      - 作詞：[Staxx T](../Page/CREAM.md "wikilink")、作曲：[☆Taku
-        Takahashi](../Page/☆Taku_Takahashi.md "wikilink")・[Minami](../Page/CREAM.md "wikilink")、編曲：☆Taku
+      - 作詞：[Staxx
+        T](https://zh.wikipedia.org/wiki/CREAM "wikilink")、作曲：[☆Taku
+        Takahashi](https://zh.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")・[Minami](https://zh.wikipedia.org/wiki/CREAM "wikilink")、編曲：☆Taku
         Takahashi
 2.  **Ride With Me**（Instrumental）
 
@@ -34,7 +35,7 @@ House](../Page/Come_On_A_My_House.md "wikilink")」相隔约6个月後发售。�
 
 1.  **Ride With Me**
 2.  **Go To The Future** \[3:36\]
-      - 作詞：ma-saya、作曲：[清水昭男](../Page/清水昭男.md "wikilink")、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
+      - 作詞：ma-saya、作曲：[清水昭男](https://zh.wikipedia.org/wiki/清水昭男 "wikilink")、編曲：[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")
 3.  **GIFT** \[5:38\]
       - 作詞：小川貴生、作曲：加藤裕介、編曲：牧戸太郎
 4.  Ride With Me（Instrumental）

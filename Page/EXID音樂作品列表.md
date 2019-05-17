@@ -1,8 +1,8 @@
-**EXID音樂作品列表**主要列舉[韓國](../Page/韓國.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[EXID自](../Page/EXID.md "wikilink")2012年出道至今所發行的音樂作品。該團體原先隸屬於AB娛樂（2014年更名為Gamgak娛樂），以單曲《[Whoz
+**EXID音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID自](https://zh.wikipedia.org/wiki/EXID "wikilink")2012年出道至今所發行的音樂作品。該團體原先隸屬於AB娛樂（2014年更名為Gamgak娛樂），以單曲《[Whoz
 That
-Girl](../Page/Holla_\(EXID單曲\).md "wikilink")》在2012年2月16日出道，後在2014年6月27日，轉至[Yedang娛樂](../Page/Imagine_Asia.md "wikilink")，即現在的（2016年更名），同年推出數位單曲《[Up
+Girl](https://zh.wikipedia.org/wiki/Holla_\(EXID單曲\) "wikilink")》在2012年2月16日出道，後在2014年6月27日，轉至[Yedang娛樂](../Page/Imagine_Asia.md "wikilink")，即現在的（2016年更名），同年推出數位單曲《[Up
 &
-Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單曲為EXID演藝生涯的轉捩點，她們為少數例子因歌迷上傳拍攝表演影片而爆紅的女子組合。迄今，EXID在韓國共發行了1張正規專輯、4張迷你專輯、4張單曲、2張中文單曲。
+Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")》回歸樂壇，這首單曲為EXID演藝生涯的轉捩點，她們為少數例子因歌迷上傳拍攝表演影片而爆紅的女子組合。迄今，EXID在韓國共發行了1張正規專輯、4張迷你專輯、4張單曲、2張中文單曲。
 
 ## 錄音室專輯
 
@@ -17,7 +17,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">KOR</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">KOR</a><br />
 <ref>韓國Gaon專輯排行榜：</p>
 <ul>
 <li></li>
@@ -33,7 +33,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Street_(EXID專輯).md" title="wikilink">Street</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Street_(EXID專輯)" title="wikilink">Street</a></p></td>
 <td><ul>
 <li>發行日期：2016年6月1日</li>
 <li>廠牌：、<a href="../Page/索尼音樂娛樂.md" title="wikilink">索尼音樂娛樂</a></li>
@@ -64,7 +64,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Chart.md" title="wikilink">KOR</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">KOR</a><br />
 <ref>韓國Gaon專輯排行榜：</p>
 <ul>
 <li></li>
@@ -95,7 +95,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Ah_Yeah_(EXID迷你專輯).md" title="wikilink">Ah Yeah</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ah_Yeah_(EXID迷你專輯)" title="wikilink">Ah Yeah</a></p></td>
 <td><ul>
 <li>發行日期：2015年4月13日</li>
 <li>廠牌：<a href="../Page/Imagine_Asia.md" title="wikilink">Yedang娛樂</a>、索尼音樂娛樂</li>
@@ -105,7 +105,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <td><p>272</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Eclipse_(EXID迷你專輯).md" title="wikilink">Eclipse</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eclipse_(EXID迷你專輯)" title="wikilink">Eclipse</a></p></td>
 <td><ul>
 <li>發行日期：2017年4月10日</li>
 <li>廠牌：香蕉文化、索尼音樂娛樂</li>
@@ -115,7 +115,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Full_Moon_(EXID迷你專輯).md" title="wikilink">Full Moon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Full_Moon_(EXID迷你專輯)" title="wikilink">Full Moon</a></p></td>
 <td><ul>
 <li>發行日期：2017年11月7日</li>
 <li>廠牌：香蕉文化、索尼音樂娛樂</li>
@@ -149,9 +149,9 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Music_Chart.md" title="wikilink">KOR<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Music_Chart" title="wikilink">KOR<br />
 {{small</a><br />
-<ref name="KOR_Gaon-Single">Peak positions for singles on the <a href="../Page/Gaon_Digital_Chart.md" title="wikilink">Gaon Digital Chart</a>:</p>
+<ref name="KOR_Gaon-Single">Peak positions for singles on the <a href="https://zh.wikipedia.org/wiki/Gaon_Digital_Chart" title="wikilink">Gaon Digital Chart</a>:</p>
 <ul>
 <li>"Whoz That Girl": </li>
 <li>"I Feel Good": </li>
@@ -162,15 +162,15 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <li>"L.I.E": </li>
 <li>"DDD": </ref></li>
 </ul></td>
-<td><p><a href="../Page/Billboard_Charts.md" title="wikilink">US<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Billboard_Charts" title="wikilink">US<br />
 {{small</a><br />
-<ref>Peak positions for singles on the <a href="../Page/World_Digital_Songs.md" title="wikilink">World Digital Songs</a>:</p>
+<ref>Peak positions for singles on the <a href="https://zh.wikipedia.org/wiki/World_Digital_Songs" title="wikilink">World Digital Songs</a>:</p>
 <ul>
 <li></li>
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p><a href="../Page/Billboard_Charts.md" title="wikilink">CHN<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Billboard_Charts" title="wikilink">CHN<br />
 {{small</a><br />
 <ref>China V Chart Weekly Ranking</p>
 <ul>
@@ -204,7 +204,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <td><p><em><a href="../Page/Hippity_Hop_(EXID迷你專輯).md" title="wikilink">Hippity Hop</a></em></p></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="../Page/Every_Night_(EXID單曲).md" title="wikilink">Every Night</a>"<br />
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Every_Night_(EXID單曲)" title="wikilink">Every Night</a>"<br />
 ()</p></td>
 <td><p>43</p></td>
 <td><p>—</p></td>
@@ -248,7 +248,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p><em><a href="../Page/Street_(EXID專輯).md" title="wikilink">Street</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Street_(EXID專輯)" title="wikilink">Street</a></em></p></td>
 </tr>
 <tr class="odd">
 <td><p>"L.I.E"<br />
@@ -281,7 +281,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/Lady_(EXID_song).md" title="wikilink">Lady</a>" <small>()</small></p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Lady_(EXID_song)" title="wikilink">Lady</a>" <small>()</small></p></td>
 <td><p>2018</p></td>
 <td><p>32</p></td>
 <td><p>—</p></td>
@@ -355,7 +355,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Gaon_Music_Chart.md" title="wikilink">KOR<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Music_Chart" title="wikilink">KOR<br />
 {{small</a></p></td>
 <td></td>
 <td></td>
@@ -575,7 +575,7 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 <td><p>2013</p></td>
 <td><p>53</p></td>
 <td><ul>
-<li>KOR: 51,000+ <ref name="gaonost"> <a href="../Page/Gaon数字榜.md" title="wikilink"><em>Gaon</em> Download Chart</a>. <a href="../Page/Gaon_Music_Chart.md" title="wikilink">Gaon Music Chart</a>. Retrieved January 15, 2015.</li>
+<li>KOR: 51,000+ <ref name="gaonost"> <a href="https://zh.wikipedia.org/wiki/Gaon数字榜" title="wikilink"><em>Gaon</em> Download Chart</a>. <a href="https://zh.wikipedia.org/wiki/Gaon_Music_Chart" title="wikilink">Gaon Music Chart</a>. Retrieved January 15, 2015.</li>
 <li>"Up &amp; Down"
 <ul>
 <li></li>
@@ -596,29 +596,32 @@ Down](../Page/Up_&_Down_\(EXID單曲\).md "wikilink")》回歸樂壇，這首單
 
 ## 音樂錄影帶
 
-| Title                                                                  | Year                      | Director(s)                     | Ref.          |
-| ---------------------------------------------------------------------- | ------------------------- | ------------------------------- | ------------- |
-| "Whoz That Girl"                                                       | 2012                      | {{tsl|en|Hong Won-ki            | Hong Won-ki}} |
-| "I Feel Good"                                                          | \[11\]                    |                                 |               |
-| "I Feel Good (R.Tee Remix)"                                            | Joo Tae-woong             | \[12\]                          |               |
-| "Every Night"                                                          | Song Won-young            | \[13\]                          |               |
-| "Goodbye" (as Dasoni)                                                  | 2013                      | Kang Seong-gyu & Park Seong-hoo | \[14\]        |
-| "Up & Down"                                                            | 2014                      | {{tsl|en|Digipedi               | Digipedi}}    |
-| "Up & Down" (Special version for [LG U+](../Page/LG_U+.md "wikilink")) | 2015                      | Kim Eun-you                     | \[15\]        |
-| "Ah Yeah"                                                              | Naive Creative Production | \[16\]                          |               |
-| "Hot Pink"                                                             | Digipedi                  | \[17\]                          |               |
-| "L.I.E"                                                                | 2016                      | Kim Se-hui                      | \[18\]        |
-| "L.I.E" (Dance version)                                                | Lee Ki-baek               | \[19\]                          |               |
-| "Cream" (Chinese Version)                                              | rowspan="2"               | \[20\]                          |               |
-| "Up & Down" (Chinese Version)                                          | 2017                      |                                 |               |
-| "Night Rather Than Day"                                                | Lee Ki-baek               | \[21\]                          |               |
-| "DDD"                                                                  | Digipedi                  | \[22\]                          |               |
+| Title                                                                                     | Year                      | Director(s)                     | Ref.          |
+| ----------------------------------------------------------------------------------------- | ------------------------- | ------------------------------- | ------------- |
+| "Whoz That Girl"                                                                          | 2012                      | {{tsl|en|Hong Won-ki            | Hong Won-ki}} |
+| "I Feel Good"                                                                             | \[11\]                    |                                 |               |
+| "I Feel Good (R.Tee Remix)"                                                               | Joo Tae-woong             | \[12\]                          |               |
+| "Every Night"                                                                             | Song Won-young            | \[13\]                          |               |
+| "Goodbye" (as Dasoni)                                                                     | 2013                      | Kang Seong-gyu & Park Seong-hoo | \[14\]        |
+| "Up & Down"                                                                               | 2014                      | {{tsl|en|Digipedi               | Digipedi}}    |
+| "Up & Down" (Special version for [LG U+](https://zh.wikipedia.org/wiki/LG_U+ "wikilink")) | 2015                      | Kim Eun-you                     | \[15\]        |
+| "Ah Yeah"                                                                                 | Naive Creative Production | \[16\]                          |               |
+| "Hot Pink"                                                                                | Digipedi                  | \[17\]                          |               |
+| "L.I.E"                                                                                   | 2016                      | Kim Se-hui                      | \[18\]        |
+| "L.I.E" (Dance version)                                                                   | Lee Ki-baek               | \[19\]                          |               |
+| "Cream" (Chinese Version)                                                                 | rowspan="2"               | \[20\]                          |               |
+| "Up & Down" (Chinese Version)                                                             | 2017                      |                                 |               |
+| "Night Rather Than Day"                                                                   | Lee Ki-baek               | \[21\]                          |               |
+| "DDD"                                                                                     | Digipedi                  | \[22\]                          |               |
 
 List of music videos, showing year released and director
 
 ## 創作作品
 
-**`韓國音樂著作權協會之登記編號：LE（10002393），58首。`\[23\]**
+**`韓國音樂著作權協會之登記編號：LE（10002393），60首。`\[23\]**
+**`韓國音樂著作權協會之登記編號：正花(PP)（10016499），2首。`\[24\]**
+**`韓國音樂著作權協會之登記編號：慧潾（10016622），1首。`\[25\]**
+**`韓國音樂著作權協會之登記編號：率智（W0804500），6首``。`\[26\]**
 
 <table>
 <thead>
@@ -758,7 +761,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="even">
 <td><p>10月11日</p></td>
-<td><p><a href="../Page/Jewelry.md" title="wikilink">Jewelry</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jewelry" title="wikilink">Jewelry</a></p></td>
 <td><p>LOOK AT ME</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -781,7 +784,7 @@ List of music videos, showing year released and director
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p>2月21日</p></td>
-<td><p>|<a href="../Page/BEAST.md" title="wikilink">俊亨</a>、LE、<a href="../Page/Bigstar.md" title="wikilink">FeelDog</a></p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">俊亨</a>、LE、<a href="https://zh.wikipedia.org/wiki/Bigstar" title="wikilink">FeelDog</a></p></td>
 <td><p>You Got Some Nerve</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -813,7 +816,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="odd">
 <td><p>6月26日</p></td>
-<td><p>|<a href="../Page/K.Will.md" title="wikilink">K.Will</a>、LE</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a>、LE</p></td>
 <td><p>SWEET GIRL</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -857,7 +860,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="odd">
 <td><p>11月12日</p></td>
-<td><p><a href="../Page/少年共和國.md" title="wikilink">少年共和國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少年共和國" title="wikilink">少年共和國</a></p></td>
 <td><p>Round</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -868,7 +871,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="even">
 <td><p>12月29日</p></td>
-<td><p><a href="../Page/The_Seeya.md" title="wikilink">The Seeya</a>、LE</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Seeya" title="wikilink">The Seeya</a>、LE</p></td>
 <td><p>愛情之歌</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -880,7 +883,7 @@ List of music videos, showing year released and director
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>1月13日</p></td>
-<td><p><a href="../Page/ALi.md" title="wikilink">ALi</a>、LE</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ALi" title="wikilink">ALi</a>、LE</p></td>
 <td><p>잘가요 Mr.Kim</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -956,7 +959,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="even">
 <td><p>8月31日</p></td>
-<td><p><a href="../Page/Verbal_Jint.md" title="wikilink">Verbal Jint</a>、<a href="../Page/Sanchez.md" title="wikilink">Sanchez</a>、LE</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Verbal_Jint" title="wikilink">Verbal Jint</a>、<a href="https://zh.wikipedia.org/wiki/Sanchez" title="wikilink">Sanchez</a>、LE</p></td>
 <td><p>耳朵下</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -967,7 +970,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="odd">
 <td><p>9月14日</p></td>
-<td><p><a href="../Page/DIA.md" title="wikilink">DIA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a></p></td>
 <td><p>My Friend's Boyfriend</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -978,7 +981,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="even">
 <td><p>10月20日</p></td>
-<td><p><a href="../Page/DIA.md" title="wikilink">DIA</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>、</p></td>
 <td><p>My Friend's Boyfriend</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -1122,7 +1125,7 @@ List of music videos, showing year released and director
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>1月4日</p></td>
-<td><p>LE、<a href="../Page/FIESTAR.md" title="wikilink">Yezi</a>、<a href="../Page/張基勇.md" title="wikilink">張基勇</a></p></td>
+<td><p>LE、<a href="../Page/FIESTAR.md" title="wikilink">Yezi</a>、<a href="https://zh.wikipedia.org/wiki/張基勇" title="wikilink">張基勇</a></p></td>
 <td><p>GOOD</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -1132,7 +1135,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="even">
 <td><p>1月11日</p></td>
-<td><p><a href="../Page/嘻哈民族第二季.md" title="wikilink">SeSeSe、Hot Chicks、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/嘻哈民族第二季" title="wikilink">SeSeSe、Hot Chicks、<br />
 BRAND NEW、HI-LITE</a></p></td>
 <td><p>왕좌의 게임</p></td>
 <td><p>LE</p></td>
@@ -1277,7 +1280,7 @@ BRAND NEW、HI-LITE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7月31日</p></td>
-<td><p><a href="../Page/鄭澤運.md" title="wikilink">LEO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">LEO</a></p></td>
 <td><p>COVER GIRL</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -1298,6 +1301,39 @@ BRAND NEW、HI-LITE</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>7月16日</p></td>
+<td><p>EXID</p></td>
+<td><p>Better Together(2018 REMASTERED VER.)</p></td>
+<td><p>LE</p></td>
+<td></td>
+<td></td>
+<td><p>100002407644</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月14日</p></td>
+<td><p>正花(PP), PINKMOON</p></td>
+<td><p>느낌적인느낌</p></td>
+<td><p>正花</p></td>
+<td></td>
+<td></td>
+<td><p>100002443297</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>3月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方容國" title="wikilink">方容國</a></p></td>
+<td><p>XIE XIE REMIX (FT. SWAYD, LIQUOR, LE)</p></td>
+<td><p>LE</p></td>
+<td></td>
+<td></td>
+<td><p>100002466201</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1329,7 +1365,7 @@ BRAND NEW、HI-LITE</a></p></td>
 <td><p>《<strong>不朽的名曲 - 家族喜悅</strong>》</p>
 <ul>
 <li>發行日期：2015年1月17日</li>
-<li>歌手：<a href="../Page/EXID.md" title="wikilink">EXID等</a></li>
+<li>歌手：<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID等</a></li>
 </ul></td>
 <td><p>4. 你喜歡我 我喜歡你</p>
 <p>|- style="background:linear-gradient(#FFE6FB, #FFC0CB)</p></td>
@@ -1401,7 +1437,7 @@ EXID成員曾協助多首歌曲之聲音出演。
 </tr>
 <tr class="even">
 <td><p>10月14日</p></td>
-<td><p><a href="../Page/MBLAQ.md" title="wikilink">MBLAQ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBLAQ" title="wikilink">MBLAQ</a></p></td>
 <td><p>《JUST BLAQ》</p></td>
 <td><p>Oh Yeah</p></td>
 <td></td>
@@ -1438,7 +1474,7 @@ EXID成員曾協助多首歌曲之聲音出演。
 <tr class="even">
 <td><p>2010年</p></td>
 <td><p>12月2日</p></td>
-<td><p><a href="../Page/Untouchable.md" title="wikilink">Untouchable</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Untouchable" title="wikilink">Untouchable</a></p></td>
 <td><p>《Who’s HOT》</p></td>
 <td><p>Jiggy Get Down</p></td>
 <td></td>
@@ -1501,7 +1537,7 @@ EXID成員曾協助多首歌曲之聲音出演。
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p>2月24日</p></td>
-<td><p><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a>、<a href="../Page/Bigstar.md" title="wikilink">FeelDog</a></p></td>
+<td><p><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a>、<a href="https://zh.wikipedia.org/wiki/Bigstar" title="wikilink">FeelDog</a></p></td>
 <td><p>《You Got Some Nerve》</p></td>
 <td><p>You Got Some Nerve</p></td>
 <td></td>
@@ -1545,7 +1581,7 @@ EXID成員曾協助多首歌曲之聲音出演。
 </tr>
 <tr class="even">
 <td><p>9月11日</p></td>
-<td><p><a href="../Page/T-ara.md" title="wikilink">T-ara</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a></p></td>
 <td><p>《Sugar Free》</p></td>
 <td><p>Sugar Free</p></td>
 <td></td>
@@ -1554,7 +1590,7 @@ EXID成員曾協助多首歌曲之聲音出演。
 </tr>
 <tr class="odd">
 <td><p>11月23日</p></td>
-<td><p><a href="../Page/Lim_Chang_Jung.md" title="wikilink">Lim Chang Jung</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Lim_Chang_Jung" title="wikilink">Lim Chang Jung</a><br />
 Dr. Lee</p></td>
 <td><p>《Ordinary Song... Ordinary Melody》</p></td>
 <td><p>Shall We Dance With Dr. Lim</p></td>
@@ -1574,7 +1610,7 @@ Dr. Lee</p></td>
 <tr class="odd">
 <td><p>rowspan ="7" | 2015年</p></td>
 <td><p>1月13日</p></td>
-<td><p><a href="../Page/ALi.md" title="wikilink">ALi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ALi" title="wikilink">ALi</a></p></td>
 <td><p>《Goodbye Mr.Kim》</p></td>
 <td><p>Goodbye Mr.Kim</p></td>
 <td></td>
@@ -1618,7 +1654,7 @@ Dr. Lee</p></td>
 </tr>
 <tr class="even">
 <td><p>8月31日</p></td>
-<td><p>VerbalJint、<a href="../Page/Sanchez.md" title="wikilink">Sanchez</a></p></td>
+<td><p>VerbalJint、<a href="https://zh.wikipedia.org/wiki/Sanchez" title="wikilink">Sanchez</a></p></td>
 <td><p>《女人》</p></td>
 <td><p>耳朵下邊</p></td>
 <td></td>
@@ -1637,7 +1673,7 @@ Dr. Lee</p></td>
 <tr class="even">
 <td><p>rowspan ="2" | 2016年</p></td>
 <td><p>6月14日</p></td>
-<td><p><a href="../Page/輝星.md" title="wikilink">輝星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/輝星" title="wikilink">輝星</a></p></td>
 <td><p>《Transformation》</p></td>
 <td><p>제껴<br />
 （Hold Over）</p></td>
@@ -1647,7 +1683,7 @@ Dr. Lee</p></td>
 <tr class="odd">
 <td><p>7月20日</p></td>
 <td><p>Summer Eleven<br />
-[24]</p></td>
+[27]</p></td>
 <td></td>
 <td><p>우리의 밤은 당신의 낮보다 아름답다<br />
 （我們的夜晚比你們的白天更美麗）</p></td>
@@ -1692,7 +1728,7 @@ Dr. Lee</p></td>
 <tr class="even">
 <td><p>2008年</p></td>
 <td><p>7月16日</p></td>
-<td><p>MBC《<a href="../Page/大韓民國律師.md" title="wikilink">大韓民國律師</a>》</p></td>
+<td><p>MBC《<a href="https://zh.wikipedia.org/wiki/大韓民國律師" title="wikilink">大韓民國律師</a>》</p></td>
 <td><p>Love Shake</p></td>
 <td></td>
 <td></td>
@@ -1709,7 +1745,7 @@ Dr. Lee</p></td>
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p>10月11日</p></td>
-<td><p>MBC《<a href="../Page/第一千個男人.md" title="wikilink">第一千個男人</a>》</p></td>
+<td><p>MBC《<a href="https://zh.wikipedia.org/wiki/第一千個男人" title="wikilink">第一千個男人</a>》</p></td>
 <td><p>Hey Boy</p></td>
 <td></td>
 <td></td>
@@ -1725,7 +1761,7 @@ Dr. Lee</p></td>
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>11月6日</p></td>
-<td><p>SBS《<a href="../Page/對我而言可愛的她.md" title="wikilink">對我而言可愛的她</a>》</p></td>
+<td><p>SBS《<a href="https://zh.wikipedia.org/wiki/對我而言可愛的她" title="wikilink">對我而言可愛的她</a>》</p></td>
 <td><p>Kiss me</p></td>
 <td></td>
 <td></td>
@@ -1733,14 +1769,14 @@ Dr. Lee</p></td>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>5月7日</p></td>
-<td><p>電影《<a href="../Page/Home.md" title="wikilink">Home</a>》</p></td>
+<td><p>電影《<a href="https://zh.wikipedia.org/wiki/Home" title="wikilink">Home</a>》</p></td>
 <td><p>Feel The Light</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月23日</p></td>
-<td><p>KBS《<a href="../Page/製作人.md" title="wikilink">製作人</a>》</p></td>
+<td><p>KBS《<a href="https://zh.wikipedia.org/wiki/製作人" title="wikilink">製作人</a>》</p></td>
 <td><p>Love Sweet</p></td>
 <td></td>
 <td></td>
@@ -1757,14 +1793,14 @@ Dr. Lee</p></td>
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>10月20日</p></td>
-<td><p>KBS《<a href="../Page/魔女的法庭.md" title="wikilink">魔女的法庭</a>》</p></td>
+<td><p>KBS《<a href="https://zh.wikipedia.org/wiki/魔女的法庭" title="wikilink">魔女的法庭</a>》</p></td>
 <td><p>在风中等待</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月30日</p></td>
-<td><p>MBC《<a href="../Page/金錢之花.md" title="wikilink">金錢之花</a>》</p></td>
+<td><p>MBC《<a href="https://zh.wikipedia.org/wiki/金錢之花" title="wikilink">金錢之花</a>》</p></td>
 <td><p>Flame</p></td>
 <td></td>
 <td></td>
@@ -1830,3 +1866,9 @@ Dr. Lee</p></td>
 23.
 
 24.
+
+25.
+
+26.
+
+27.

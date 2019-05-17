@@ -1,5 +1,5 @@
 **つばきファクトリー**（****），[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體](../Page/Hello!_Project.md "wikilink")。目前有九名成員（九人均為原[Hello\!
+Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。目前有九名成員（九人均為原[Hello\!
 Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日結成，結成當時成員人數為六人，同日宣布新團名。2016年8月13日宣佈加入三位新成員成為目前的九人體制。
 
 ## 成員
@@ -22,7 +22,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/山岸理子.md" title="wikilink">山岸理子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山岸理子" title="wikilink">山岸理子</a></p></td>
 <td><p>やまぎし りこ</p></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
 <td></td>
@@ -33,7 +33,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>隊長，原<a href="../Page/Hello!_Pro研修生.md" title="wikilink">Hello! Pro研修生第</a>16期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/小片リサ.md" title="wikilink">小片リサ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小片リサ" title="wikilink">小片リサ</a></p></td>
 <td><p>おがた りさ</p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td></td>
@@ -44,7 +44,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/新沼希空.md" title="wikilink">新沼希空</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新沼希空" title="wikilink">新沼希空</a></p></td>
 <td><p>にいぬま きそら</p></td>
 <td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
 <td></td>
@@ -55,7 +55,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/谷本安美.md" title="wikilink">谷本安美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/谷本安美" title="wikilink">谷本安美</a></p></td>
 <td><p>たにもと あみ</p></td>
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
 <td></td>
@@ -66,9 +66,9 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岸本ゆめの.md" title="wikilink">岸本ゆめの</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本ゆめの" title="wikilink">岸本ゆめの</a></p></td>
 <td><p>きしもと ゆめの</p></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td></td>
 <td></td>
 <td><p>B型</p></td>
@@ -77,7 +77,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/浅倉樹樹.md" title="wikilink">浅倉樹樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浅倉樹樹" title="wikilink">浅倉樹樹</a></p></td>
 <td><p>あさくら きき</p></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
 <td></td>
@@ -88,7 +88,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/小野瑞步.md" title="wikilink">小野瑞步</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小野瑞步" title="wikilink">小野瑞步</a></p></td>
 <td><p>おの みずほ</p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td></td>
@@ -99,7 +99,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>原Hello! Pro研修生第24期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/小野田紗栞.md" title="wikilink">小野田紗栞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小野田紗栞" title="wikilink">小野田紗栞</a></p></td>
 <td><p>おのだ さおり</p></td>
 <td><p><a href="../Page/靜岡縣.md" title="wikilink">靜岡縣</a></p></td>
 <td></td>
@@ -110,9 +110,9 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/秋山眞緒.md" title="wikilink">秋山眞緒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/秋山眞緒" title="wikilink">秋山眞緒</a></p></td>
 <td><p>あきやま まお</p></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td></td>
 <td></td>
 <td><p>B型</p></td>
@@ -146,7 +146,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <!-- end list -->
 
   - 4月29日，組合宣佈结成，取名《つばきファクトリー》。
-  - 於9月6日發行地下出道作《[青春之中\!](../Page/青春之中!.md "wikilink")》。
+  - 於9月6日發行地下出道作《[青春之中\!](https://zh.wikipedia.org/wiki/青春之中! "wikilink")》。
 
 <!-- end list -->
 
@@ -154,7 +154,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 
 <!-- end list -->
 
-  - 8月13日，宣佈新成員[小野瑞歩](../Page/小野瑞歩.md "wikilink")、[小野田紗栞](../Page/小野田紗栞.md "wikilink")、[秋山眞緒加入つばきファクトリー](../Page/秋山眞緒.md "wikilink")
+  - 8月13日，宣佈新成員[小野瑞歩](https://zh.wikipedia.org/wiki/小野瑞歩 "wikilink")、[小野田紗栞](https://zh.wikipedia.org/wiki/小野田紗栞 "wikilink")、[秋山眞緒加入つばきファクトリー](https://zh.wikipedia.org/wiki/秋山眞緒 "wikilink")
   - 9月4日，於Hello\! Project研修生演唱會中宣佈，Tsubaki Factory將在2017年2月主流出道。
 
 <!-- end list -->
@@ -164,9 +164,9 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <!-- end list -->
 
   - 2月22日主流出道。
-  - 6月16日官方公告，成員[淺倉樹樹經整形外科診斷](../Page/淺倉樹樹.md "wikilink")，確診為腰椎間盤突出症。由於此病症必須專心進行療養，因此至6月30日止，活動全面停止。之後的相關活動必須聽從醫師指示。
-  - 6月30日官方公告，成員[淺倉樹樹再診斷之結果](../Page/淺倉樹樹.md "wikilink")，尚未達到活動再開的狀態，因此7月中旬為止的活動將暫時停止。
-  - 7月11日官方公告，成員[淺倉樹樹經醫師判斷恢復良好](../Page/淺倉樹樹.md "wikilink")，亦可開始階段性的舞台活動；從7月15日開始的家族夏季演唱會中將缺席大阪、福岡、札幌三公演，今後為了避免再復發的可能性，仍會持續進行治療，舞台活動也會視其狀況進行調整。
+  - 6月16日官方公告，成員[淺倉樹樹經整形外科診斷](https://zh.wikipedia.org/wiki/淺倉樹樹 "wikilink")，確診為腰椎間盤突出症。由於此病症必須專心進行療養，因此至6月30日止，活動全面停止。之後的相關活動必須聽從醫師指示。
+  - 6月30日官方公告，成員[淺倉樹樹再診斷之結果](https://zh.wikipedia.org/wiki/淺倉樹樹 "wikilink")，尚未達到活動再開的狀態，因此7月中旬為止的活動將暫時停止。
+  - 7月11日官方公告，成員[淺倉樹樹經醫師判斷恢復良好](https://zh.wikipedia.org/wiki/淺倉樹樹 "wikilink")，亦可開始階段性的舞台活動；從7月15日開始的家族夏季演唱會中將缺席大阪、福岡、札幌三公演，今後為了避免再復發的可能性，仍會持續進行治療，舞台活動也會視其狀況進行調整。
   - 11月9日，[日本有線大獎公布山茶花](../Page/日本有線大獎.md "wikilink")
     Factory(つばきファクトリ－)獲提名「第50回
     日本有線大獎」新人獎。於12月4日在其節目中受賞。
@@ -207,7 +207,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>獨立製作</p></td>
-<td><p><a href="../Page/Tsubaki_Factory_SOUND_+_VISION_Vol._1.md" title="wikilink">Tsubaki Factory SOUND + VISION Vol. 1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tsubaki_Factory_SOUND_+_VISION_Vol._1" title="wikilink">Tsubaki Factory SOUND + VISION Vol. 1</a></p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
@@ -227,13 +227,13 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>獨立製作、DVD單曲</p></td>
-<td><p><a href="../Page/first_bloom.md" title="wikilink">first bloom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/first_bloom" title="wikilink">first bloom</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2017年2月22日</p></td>
 <td></td>
-<td><p><a href="../Page/初戀日出_/_Just_Try!_/_美麗的山茶花.md" title="wikilink">初戀日出 / Just Try! / 美麗的山茶花</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/初戀日出_/_Just_Try!_/_美麗的山茶花" title="wikilink">初戀日出 / Just Try! / 美麗的山茶花</a></p></td>
 <td><p>3</p></td>
 <td><p>38,208+</p></td>
 <td><p>出道單曲、第1張3A單曲。</p></td>
@@ -243,7 +243,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>2nd</p></td>
 <td><p>2017年7月26日</p></td>
 <td></td>
-<td><p><a href="../Page/求職Sensation_/_笑吧_/_花模樣.md" title="wikilink">求職Sensation / 笑吧 / 花模樣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/求職Sensation_/_笑吧_/_花模樣" title="wikilink">求職Sensation / 笑吧 / 花模樣</a></p></td>
 <td><p>5</p></td>
 <td><p>34,744+</p></td>
 <td><p>第2張3A單曲。</p></td>
@@ -253,7 +253,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>3rd</p></td>
 <td><p>2018年2月21日</p></td>
 <td></td>
-<td><p><a href="../Page/低溫火傷_/_春戀歌_/_I_Need_You～夜空中的摩天輪～.md" title="wikilink">低溫火傷 / 春戀歌 / I Need You～夜空中的摩天輪～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/低溫火傷_/_春戀歌_/_I_Need_You～夜空中的摩天輪～" title="wikilink">低溫火傷 / 春戀歌 / I Need You～夜空中的摩天輪～</a></p></td>
 <td><p>2</p></td>
 <td><p>68,266+</p></td>
 <td><p>第3張3A單曲。</p></td>
@@ -263,7 +263,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>4th</p></td>
 <td><p>2018年7月18日</p></td>
 <td></td>
-<td><p><a href="../Page/約會日要沖澡兩次再出門／純情cm(公分)／今晚就好我想放縱一下.md" title="wikilink">約會日要沖澡兩次再出門／純情cm(公分)／今晚就好我想放縱一下</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/約會日要沖澡兩次再出門／純情cm(公分)／今晚就好我想放縱一下" title="wikilink">約會日要沖澡兩次再出門／純情cm(公分)／今晚就好我想放縱一下</a></p></td>
 <td><p>2</p></td>
 <td><p>58,170</p></td>
 <td><p>第4張3A單曲。</p></td>
@@ -273,7 +273,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>5th</p></td>
 <td><p>2019年2月27日</p></td>
 <td></td>
-<td><p><a href="../Page/第三次的約會神話_/_軟綿綿、戀愛時鐘.md" title="wikilink">第三次的約會神話 / 軟綿綿、戀愛時鐘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第三次的約會神話_/_軟綿綿、戀愛時鐘" title="wikilink">第三次的約會神話 / 軟綿綿、戀愛時鐘</a></p></td>
 <td><p>2</p></td>
 <td><p>62,620</p></td>
 <td><p>第1張2A單曲。</p></td>
@@ -310,7 +310,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>01st</p></td>
 <td><p>2018年11月14日</p></td>
 <td></td>
-<td><p><a href="../Page/first_bloom.md" title="wikilink">first bloom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/first_bloom" title="wikilink">first bloom</a></p></td>
 <td><p>6</p></td>
 <td><p>16,139</p></td>
 </tr>
@@ -343,7 +343,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日�
 <td><p>01st</p></td>
 <td><p>2016年5月17日</p></td>
 <td></td>
-<td><p><a href="../Page/Tsubaki_Factory_SOUND_+_VISION_Vol._1.md" title="wikilink">Tsubaki Factory SOUND + VISION Vol. 1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tsubaki_Factory_SOUND_+_VISION_Vol._1" title="wikilink">Tsubaki Factory SOUND + VISION Vol. 1</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>

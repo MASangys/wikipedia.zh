@@ -1,12 +1,13 @@
 「**Et
-cetera**」是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[ONE
-OK ROCK的第三張單曲](../Page/ONE_OK_ROCK.md "wikilink")\[1\]。
+cetera**」是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ONE
+OK
+ROCK的第三張單曲](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")\[1\]。
 
 ## 簡介
 
-  - 和上一張單曲「[努努-夢夢-](../Page/努努-夢夢-.md "wikilink")」相隔僅三個月發售的單曲。
+  - 和上一張單曲「[努努-夢夢-](https://zh.wikipedia.org/wiki/努努-夢夢- "wikilink")」相隔僅三個月發售的單曲。
   - 「**Et cetera**」就是平常英文裡常用的「etc.」，意思是「之類的，等等...」\[2\]。
-  - 是[Alex和女友吵架做出的曲子](../Page/Alex.md "wikilink")，也是[Taka剛好和女友分手時](../Page/森內貴寬.md "wikilink")，放入真心所作的詞\[3\]。
+  - 是[Alex和女友吵架做出的曲子](https://zh.wikipedia.org/wiki/Alex "wikilink")，也是[Taka剛好和女友分手時](../Page/森內貴寬.md "wikilink")，放入真心所作的詞\[3\]。
 
 ## 収録曲
 

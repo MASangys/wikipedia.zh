@@ -2,7 +2,7 @@
 
 ## 適居性
 
-在TRAPPIST-1行星系統的形成期間，其中的行星可能在系統的前適居帶中發生液態水流失的狀況\[1\]。取決於最原始形成時的條件，TRAPPIST-1d可能是該系統中唯一仍有足夠液態水存在的行星。估計系統中另兩顆行星[TRAPPIST-1b和](../Page/TRAPPIST-1b.md "wikilink")[TRAPPIST-1c可能失去了相當於地球海洋水量四倍的水](../Page/TRAPPIST-1c.md "wikilink")\[2\]。
+在TRAPPIST-1行星系統的形成期間，其中的行星可能在系統的前適居帶中發生液態水流失的狀況\[1\]。取決於最原始形成時的條件，TRAPPIST-1d可能是該系統中唯一仍有足夠液態水存在的行星。估計系統中另兩顆行星[TRAPPIST-1b和](https://zh.wikipedia.org/wiki/TRAPPIST-1b "wikilink")[TRAPPIST-1c可能失去了相當於地球海洋水量四倍的水](https://zh.wikipedia.org/wiki/TRAPPIST-1c "wikilink")\[2\]。
 
 ## 參考資料
 

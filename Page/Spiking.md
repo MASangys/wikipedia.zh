@@ -7,10 +7,10 @@ Spiking会跟踪来自8个国家10家股票市场的资深投资者([ASX](../Pag
 [BSE](../Page/孟买证券交易所.md "wikilink") ,
 [NSE](../Page/印度国家证券交易所.md "wikilink"),
 [MYX](../Page/马来西亚股票交易所.md "wikilink"),
-[PSE](../Page/菲律宾港交易.md "wikilink"),
+[PSE](https://zh.wikipedia.org/wiki/菲律宾港交易 "wikilink"),
 [SGX](../Page/新加坡交易所.md "wikilink"),
 [SET](../Page/泰國證券交易所.md "wikilink"),
-[HNX](../Page/河內證券交易所.md "wikilink"),
+[HNX](https://zh.wikipedia.org/wiki/河內證券交易所 "wikilink"),
 [HOSE](../Page/胡志明市證券交易所.md "wikilink"))，每当他们做交易并公布其文档时，就会向用户发送实时通知。\[1\]\[2\]该平台整合了这些交易市场中发布的最新披露，几乎瞬间将之发送至用户的手机设备上。来自公开上市公司及真诚的投资者的所有信息，都将使用机读算法来扫描证券交易所的文档，以进行验证。\[3\]每分钟完成一次扫描，信息几乎立即被上传至该应用上。\[4\]\[5\]
 
 Spiking用户可以看到公司里最大的20名股东都有谁，他们最新的交易价格和数量，以及这些投资者在其投资组合中所持有的其他股票。该手机应用还允许用户“跟踪”其最喜欢的计数器或名人投资者，并密切关注他们的动态。用户可以创建私人聊天群组。\[6\]
@@ -21,7 +21,7 @@ Spiking 金融汇聚了最新新闻头条、发布、推文，以及由用户挑
 论坛由公司组织讨论话题，方便会员之间的讨论。\[8\]\[9\]
 
 Spiking
-可用于[iOS](../Page/iOS.md "wikilink")\[10\]和[Android](../Page/Android.md "wikilink")\[11\]手机操作系统中。
+可用于[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[10\]和[Android](../Page/Android.md "wikilink")\[11\]手机操作系统中。
 
 ## 历史
 
@@ -29,7 +29,7 @@ Spiking
 Chiang)博士，Aly私人有限公司的首席执行官和创始人曾提到过，作为一名拥有15年经验的私人投资者，他以其个人的想法开发了这个手机应用。很多时候，决策过程不得不依赖太多的猜测和谣言。为了更好地理解市场活动中难以解释的起伏，他想到了用一个平台来加强大型数据和相关信息，并花费了20个月的时间和25万新元来开发此应用。\[12\]\[13\]
 
 一名早期的投资者是Quest
-Ventures，中国领先的技术风险投资基金公司，且在大型互联网社区中拥有可扩展性和可推广性。依据其i.JAM的重新提案，Spiking也由[国家研究基金会](../Page/新加坡总理公署#国家研究基金会.md "wikilink")、总理办公室、及新加坡所颁发的一笔款项支持。它被评选去参加在香港举行的2015年度创业训练营金融科技推销会（Startupbootcamp
+Ventures，中国领先的技术风险投资基金公司，且在大型互联网社区中拥有可扩展性和可推广性。依据其i.JAM的重新提案，Spiking也由[国家研究基金会](https://zh.wikipedia.org/wiki/新加坡总理公署#国家研究基金会 "wikilink")、总理办公室、及新加坡所颁发的一笔款项支持。它被评选去参加在香港举行的2015年度创业训练营金融科技推销会（Startupbootcamp
 FinTech Pitch Day 2015），以及在新加坡举行的2015年度金融训练营选举会（Startupbootcamp FinTech
 Pitch Day 2015）。它也是在纽约举行的2015年度Benzinga金融科技奖（Benzinga Fintech
 Awards）参选研究平台及工具——同类最佳应用的决赛者之一。\[14\]
@@ -57,12 +57,11 @@ Awards）参选研究平台及工具——同类最佳应用的决赛者之一�
   - 印度 - [孟买证券交易所](../Page/孟买证券交易所.md "wikilink") (BSE) 和
     [印度国家证券交易所](../Page/印度国家证券交易所.md "wikilink") (NSE)
   - [马来西亚股票交易所](../Page/马来西亚股票交易所.md "wikilink") (MYX)
-  - [菲律宾港交易所](../Page/菲律宾港交易所.md "wikilink") (PSE)
+  - [菲律宾港交易所](https://zh.wikipedia.org/wiki/菲律宾港交易所 "wikilink") (PSE)
   - [新加坡交易所](../Page/新加坡交易所.md "wikilink") (SGX)
   - [泰國證券交易所](../Page/泰國證券交易所.md "wikilink") (SET)
-  - 越南 - [河內證券交易所](../Page/河內證券交易所.md "wikilink") (HNX) 和
-    [胡志明市證券交易所](../Page/胡志明市證券交易所.md "wikilink")
-    (HOSE)
+  - 越南 - [河內證券交易所](https://zh.wikipedia.org/wiki/河內證券交易所 "wikilink")
+    (HNX) 和 [胡志明市證券交易所](../Page/胡志明市證券交易所.md "wikilink") (HOSE)
 
 ## 参考
 

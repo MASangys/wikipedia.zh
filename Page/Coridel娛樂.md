@@ -1,4 +1,4 @@
-**Coridel娛樂**（）是[韓國的](../Page/韓國.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，在2012年成立，旗下藝人包括[潔西卡](../Page/Jessica_\(韓國歌手\).md "wikilink")、[Playback等藝人](../Page/Playback.md "wikilink")\[1\]。
+**Coridel娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，在2012年成立，旗下藝人包括[潔西卡](../Page/Jessica_\(韓國歌手\).md "wikilink")、[Playback等藝人](https://zh.wikipedia.org/wiki/Playback "wikilink")\[1\]。
 
 ## 旗下藝人
 
@@ -31,11 +31,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2007年（<a href="../Page/少女時代.md" title="wikilink">少女時代</a>）<br />
+<td><p>2007年（<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）<br />
 2016年（Solo）</p></td>
 <td><p><a href="../Page/Jessica_(韓國歌手).md" title="wikilink">Jessica</a></p></td>
 <td><p>女</p></td>
-<td><p>曾屬<a href="../Page/少女時代.md" title="wikilink">少女時代</a></p></td>
+<td><p>曾屬<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td><p>Golden Stars</p></td>
 <td><p><strong></strong></p></td>
 <td><p>2016年</p></td>
@@ -46,24 +46,11 @@
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>馬恩珍</p></td>
-<td><p><a href="../Page/PLAYBACK.md" title="wikilink">PLAYBACK</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PLAYBACK" title="wikilink">PLAYBACK</a></p></td>
 <td><p>—</p></td>
 <td><p>2017年</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2006年（<a href="../Page/XING.md" title="wikilink">XING</a>）<br />
-2008年（<a href="../Page/U-KISS.md" title="wikilink">U-KISS</a>）<br />
-2018年（Solo）</p></td>
-<td><p>Kevin</p></td>
-<td><p>男</p></td>
-<td><p>曾屬<a href="../Page/XING.md" title="wikilink">XING</a>、<a href="../Page/U-KISS.md" title="wikilink">U-KISS</a></p></td>
-<td><p>Klover</p></td>
-<td><p>―</p></td>
-<td><p>2018年</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -89,7 +76,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/PLAYBACK.md" title="wikilink">PLAYBACK</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PLAYBACK" title="wikilink">PLAYBACK</a></p></td>
 <td><p>女</p></td>
 <td><p>Yunji、Hayoung、Soyun、Woolim、Eunjin</p></td>
 <td><p>Woolim</p></td>

@@ -1,17 +1,17 @@
-**C.I.V.A**（）是音樂人李尚民、卓在勳通過共同企劃的紀錄形綜藝節目《音樂之神》第二季組成企劃女子組合，成員包括演員[李秀敏與曾經參加](../Page/李秀敏_\(1984年\).md "wikilink")《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》的[金昭希](../Page/金昭希_\(歌手\).md "wikilink")、[尹彩暻](../Page/尹彩暻.md "wikilink")。
+**C.I.V.A**（）是音樂人李尚民、卓在勳通過共同企劃的紀錄形綜藝節目《音樂之神》第二季組成企劃女子組合，成員包括演員[李秀敏與曾經參加](https://zh.wikipedia.org/wiki/李秀敏_\(1984年\) "wikilink")《[PRODUCE
+101](../Page/PRODUCE_101.md "wikilink")》的[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、[尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")。
 
-取名之原因為希望成員們能比「著名女歌唱家」（其英文寫法為[DIVA](../Page/DIVA.md "wikilink")）還要更強，所以取名為「C.I.V.A.」,但因為在韓語與髒話發音相似，所以只能把字母分開拼讀。\[1\]
+取名之原因為希望成員們能比「著名女歌唱家」（其英文寫法為[DIVA](https://zh.wikipedia.org/wiki/DIVA "wikilink")）還要更強，所以取名為「C.I.V.A.」,但因為在韓語與髒話發音相似，所以只能把字母分開拼讀。\[1\]
 
 ## 成員資料
 
-| 成員列表                                       |
-| ------------------------------------------ |
-| 藝名                                         |
-| 漢字                                         |
-| [李秀敏](../Page/李秀敏_\(1984年\).md "wikilink") |
-| [金昭希](../Page/金昭希_\(歌手\).md "wikilink")    |
-| [尹彩暻](../Page/尹彩暻.md "wikilink")           |
+| 成員列表                                                          |
+| ------------------------------------------------------------- |
+| 藝名                                                            |
+| 漢字                                                            |
+| [李秀敏](https://zh.wikipedia.org/wiki/李秀敏_\(1984年\) "wikilink") |
+| [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")    |
+| [尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")           |
 
 ## 音樂作品
 
@@ -29,7 +29,7 @@
 <td><p>《<strong>왜 불러</strong>》</p>
 <ul>
 <li>發行日期：2016年7月8日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li><strong>왜 불러 (Feat. 미료)</strong></li>
@@ -42,13 +42,13 @@
 
 ### 其他歌曲
 
-|             |                                     |                                                          |         |                                                                                                                                         |                                                  |
-| ----------- | ----------------------------------- | -------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 發行日期        | 形式                                  | 專輯名稱                                                     | 歌曲名稱    | 參與成員                                                                                                                                    | 合作藝人                                             |
-| 2015年12月17日 | 數位單曲                                | 《PRODUCE 101 - PICK ME》                                  | PICK ME | 昭希、彩暻                                                                                                                                   | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") |
-| 2016年3月19日  | 《PRODUCE 101 - 35 Girls 5 Concepts》 | 같은 곳에서                                                   | 昭希、彩暻   | 姜詩羅、[韓慧利](../Page/韓慧利.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[俞璉靜](../Page/俞璉靜.md "wikilink")、[金度延](../Page/金度延.md "wikilink") |                                                  |
-| 2016年6月1日   | 시계                                  | 시계 (with. [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")) | 彩暻      | [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")                                                                                           |                                                  |
-| 2016年8月18日  | MOLAE MOLAE                         | MOLAE MOLAE                                              | 昭希、彩暻   | 李海仁、李秀炫、[韓慧利](../Page/韓慧利.md "wikilink")                                                                                                |                                                  |
+|             |                                     |                                                                             |         |                                                                                                                                                                               |                                                  |
+| ----------- | ----------------------------------- | --------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 發行日期        | 形式                                  | 專輯名稱                                                                        | 歌曲名稱    | 參與成員                                                                                                                                                                          | 合作藝人                                             |
+| 2015年12月17日 | 數位單曲                                | 《PRODUCE 101 - PICK ME》                                                     | PICK ME | 昭希、彩暻                                                                                                                                                                         | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") |
+| 2016年3月19日  | 《PRODUCE 101 - 35 Girls 5 Concepts》 | 같은 곳에서                                                                      | 昭希、彩暻   | 姜詩羅、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")、[金度延](../Page/金度延.md "wikilink") |                                                  |
+| 2016年6月1日   | 시계                                  | 시계 (with. [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")) | 彩暻      | [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")                                                                                                              |                                                  |
+| 2016年8月18日  | MOLAE MOLAE                         | MOLAE MOLAE                                                                 | 昭希、彩暻   | 李海仁、李秀炫、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")                                                                                                                   |                                                  |
 
 ## 影音作品
 
@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>2016年1月22日－4月1日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>》</p></td>
 <td><p>昭希</p></td>
 <td><p>最終排名：15</p></td>
@@ -103,8 +103,8 @@
 </tr>
 <tr class="odd">
 <td><p>2016年6月</p></td>
-<td><p><a href="../Page/On_Style.md" title="wikilink">On Style</a></p></td>
-<td><p>《<a href="../Page/Get_It_Beauty_2016.md" title="wikilink">Get It Beauty 2016</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/On_Style" title="wikilink">On Style</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Get_It_Beauty_2016" title="wikilink">Get It Beauty 2016</a>》</p></td>
 <td><p>彩暻</p></td>
 <td></td>
 </tr>
@@ -125,7 +125,7 @@ tagTV</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年7月15日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《連線好朋友 I.O.I》</p></td>
 <td><p>昭希</p></td>
 <td></td>
@@ -133,7 +133,7 @@ tagTV</p></td>
 <tr class="odd">
 <td><p>2016年8月6日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="../Page/我要開動了.md" title="wikilink">我要開動了</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/我要開動了" title="wikilink">我要開動了</a>》</p></td>
 <td><p>C.I.V.A</p></td>
 <td></td>
 </tr>

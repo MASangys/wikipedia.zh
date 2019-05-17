@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:PANTOMIME-PABLO.jpg "fig:缩略图")
 **巴勃罗Zibes**（Pablo
-Zibes，），1971年出生于[阿根廷首都](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯](../Page/布宜诺斯艾利斯.md "wikilink")，是一名阿根廷演员和[哑剧表演者](../Page/哑剧.md "wikilink")；他于1995年移居[德国](../Page/德国.md "wikilink")。
+Zibes，），1971年出生于[阿根廷首都](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")，是一名阿根廷演员和[哑剧表演者](https://zh.wikipedia.org/wiki/哑剧 "wikilink")；他于1995年移居[德国](../Page/德国.md "wikilink")。
 
 ## 档案
 

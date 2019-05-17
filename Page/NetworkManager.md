@@ -1,8 +1,8 @@
-在[電腦運算中](../Page/電腦運算.md "wikilink")，**NetworkManager**軟體工具的目標是降低在[Linux與其他](../Page/Linux.md "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统上的](../Page/操作系统.md "wikilink")[计算机网络使用難度](../Page/计算机网络.md "wikilink")。它可以協助使用者在無線網路間漫遊時管理要使用的網路。
+在[電腦運算中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，**NetworkManager**軟體工具的目標是降低在[Linux與其他](../Page/Linux.md "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统上的](../Page/操作系统.md "wikilink")[计算机网络使用難度](../Page/计算机网络.md "wikilink")。它可以協助使用者在無線網路間漫遊時管理要使用的網路。
 
 ## 歷史
 
-[紅帽公司在](../Page/紅帽公司.md "wikilink")2004年發起了NetworkManager專案，其目標是讓Linux使用者能夠更容易的處理現代的網路需求，特別是[無線網路](../Page/无线局域网.md "wikilink")。NetworkManager以一些取巧的方法來選取網路，嘗試在連線中斷或是使用者在不同的無線網路間漫遊時使用最佳的可用連線。相較“已知的”無線網路，它會使用[以太网進行連線](../Page/以太网.md "wikilink")，且會在同時有[SSID與從未連線過的無線網路間選擇有SSID的](../Page/SSID.md "wikilink")。使用者會被提示該無線網路是使用[WEP或](../Page/有線等效加密.md "wikilink")[WPA做為金鑰加密](../Page/WPA.md "wikilink")。
+[紅帽公司在](../Page/紅帽公司.md "wikilink")2004年發起了NetworkManager專案，其目標是讓Linux使用者能夠更容易的處理現代的網路需求，特別是[無線網路](../Page/无线局域网.md "wikilink")。NetworkManager以一些取巧的方法來選取網路，嘗試在連線中斷或是使用者在不同的無線網路間漫遊時使用最佳的可用連線。相較“已知的”無線網路，它會使用[以太网進行連線](../Page/以太网.md "wikilink")，且會在同時有[SSID與從未連線過的無線網路間選擇有SSID的](https://zh.wikipedia.org/wiki/SSID "wikilink")。使用者會被提示該無線網路是使用[WEP或](../Page/有線等效加密.md "wikilink")[WPA做為金鑰加密](../Page/WPA.md "wikilink")。
 
 NetworkManager專案是第一個在Linux桌面上廣泛使用[D-Bus與](../Page/D-Bus.md "wikilink")的組件。但自2009年6月起，NetworkManager已不再依賴於HAL。而自0.9.10
 (2014年起)開始，NetworkManager也不再需要[D-Bus守護行程來執行根使用者操作](../Page/D-Bus.md "wikilink")\[1\]。
@@ -14,13 +14,14 @@ NetworkManager有兩個組成部份：
 1.  NetworkManager[守护进程](../Page/守护进程.md "wikilink")，其為實際管理連線並回報網路狀態及變更的軟體
 2.  多種不同外觀的[圖形前端](../Page/图形用户界面.md "wikilink")，包含了[GNOME
     Shell](../Page/GNOME_Shell.md "wikilink")、[GNOME
-    Panel](../Page/GNOME_Panel.md "wikilink")、[KDE Plasma
-    Workspaces](../Page/KDE_Plasma_Workspaces.md "wikilink")、[Cinnamon等等](../Page/Cinnamon.md "wikilink")。
+    Panel](https://zh.wikipedia.org/wiki/GNOME_Panel "wikilink")、[KDE
+    Plasma
+    Workspaces](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")、[Cinnamon等等](../Page/Cinnamon.md "wikilink")。
 
 這兩個組成部份的目的是讓開發者有合理的可移植性，而小工具在多種[桌面环境都可用](../Page/桌面环境.md "wikilink")，均實作了[Freedesktop.org的系統匣協定](../Page/Freedesktop.org.md "wikilink")\[2\]，包含了[GNOME](../Page/GNOME.md "wikilink")、[KDE
 Plasma
-Workspaces](../Page/KDE_Plasma_Workspaces.md "wikilink")、[Enlightenment及](../Page/Enlightenment.md "wikilink")[Xfce](../Page/Xfce.md "wikilink")。作為透過D-Bus溝通的組件之一，應用程式可被編寫為“[連結感知](../Page/数据链路.md "wikilink")”，或是完全取代已提供的小工具。其中一個例子為KNetworkManager，其為一個KDE的NetworkManager前端，由[Novell公司開發給](../Page/Novell.md "wikilink")[SUSE
-Linux所使用](../Page/SUSE_Linux.md "wikilink")。
+Workspaces](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")、[Enlightenment及](../Page/Enlightenment.md "wikilink")[Xfce](../Page/Xfce.md "wikilink")。作為透過D-Bus溝通的組件之一，應用程式可被編寫為“[連結感知](https://zh.wikipedia.org/wiki/数据链路 "wikilink")”，或是完全取代已提供的小工具。其中一個例子為KNetworkManager，其為一個KDE的NetworkManager前端，由[Novell公司開發給](../Page/Novell.md "wikilink")[SUSE
+Linux所使用](https://zh.wikipedia.org/wiki/SUSE_Linux "wikilink")。
 
 ### 圖形化前端及命令列介面
 
@@ -28,9 +29,10 @@ Linux所使用](../Page/SUSE_Linux.md "wikilink")。
 3.10.png
 
 \*;NetworkManagement：[KDE SC
-4的NetworkManager前端](../Page/KDE_SC_4.md "wikilink")，[plasma](../Page/KDE_Plasma_Workspaces.md "wikilink")[控件前端](../Page/控件.md "wikilink")\[3\]。
+4的NetworkManager前端](https://zh.wikipedia.org/wiki/KDE_SC_4 "wikilink")，[plasma](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")[控件前端](../Page/控件.md "wikilink")\[3\]。
 
-\*;KNetworkManager：由Novell所開發的[KDE 3前端](../Page/KDE_3.md "wikilink")。
+\*;KNetworkManager：由Novell所開發的[KDE
+3前端](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")。
 
 \*;nm-applet：[GNOME的NetworkManager小工具](../Page/GNOME.md "wikilink")。
 
@@ -48,7 +50,7 @@ Kaijanmäki在2008年4月公佈了NetworkManager行動寬頻設定助手的開�
 
 ## 參見
 
-  - [Linux的桌面應用](../Page/Linux#个人计算机.md "wikilink")
+  - [Linux的桌面應用](https://zh.wikipedia.org/wiki/Linux#个人计算机 "wikilink")
   - [GNOME 鑰匙圈](../Page/GNOME_鑰匙圈.md "wikilink")
   - [wicked](https://web.archive.org/web/20150403062212/https://gitorious.org/wicked/)工具與函式庫提供了一個新的、實驗性的網路設定框架，以GPLv2授權，於2010-09-13建立
 

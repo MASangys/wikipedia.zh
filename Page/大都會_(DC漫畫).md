@@ -1,25 +1,25 @@
-[乔·舒斯特](../Page/乔·舒斯特.md "wikilink") | genre =
+[乔·舒斯特](https://zh.wikipedia.org/wiki/乔·舒斯特 "wikilink") | genre =
 [超级英雄漫画](../Page/超级英雄漫画.md "wikilink") | type =
-[城市](../Page/城市.md "wikilink") | locations =  | people =  | population =
-1,100万 | first = 《[动作漫画](../Page/动作漫画.md "wikilink")》第16期
+[城市](../Page/城市.md "wikilink") | locations =  | people =  |
+population = 1,100万 | first = 《[动作漫画](../Page/动作漫画.md "wikilink")》第16期
 （1939年9月出版） | last = }}
 
-**大都会**（）是一个虚构的[美国](../Page/美国.md "wikilink")[城市](../Page/城市.md "wikilink")，出现在[DC漫画出版的漫画书中](../Page/DC漫画.md "wikilink")，以[超人的家乡而闻名](../Page/超人.md "wikilink")。大都会首次出现在1939年9月出版的《[动作漫画](../Page/动作漫画.md "wikilink")》第16期；它被设定成位于[美国东北部的大型繁荣城市且紧邻](../Page/美国东北部.md "wikilink")[哥谭市](../Page/哥谭市.md "wikilink")。
+**大都会**（）是一个虚构的[美国](../Page/美国.md "wikilink")[城市](../Page/城市.md "wikilink")，出现在[DC漫画出版的漫画书中](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")，以[超人的家乡而闻名](../Page/超人.md "wikilink")。大都会首次出现在1939年9月出版的《[动作漫画](../Page/动作漫画.md "wikilink")》第16期；它被设定成位于[美国东北部的大型繁荣城市且紧邻](https://zh.wikipedia.org/wiki/美国东北部 "wikilink")[哥谭市](https://zh.wikipedia.org/wiki/哥谭市 "wikilink")。
 
-超人的原型设计者和故事共同创作者——[乔·舒斯特在设计大都会](../Page/乔·舒斯特.md "wikilink")[天际线的时候模仿了](../Page/天际线.md "wikilink")[多伦多](../Page/多伦多.md "wikilink")，他在那里出生并居住到10岁。\[1\]
-但随后的发展中，大都会的外观和风格受[纽约市的影响越来越大](../Page/纽约市.md "wikilink")。\[2\]\[3\]\[4\]
+超人的原型设计者和故事共同创作者——[乔·舒斯特在设计大都会](https://zh.wikipedia.org/wiki/乔·舒斯特 "wikilink")[天际线的时候模仿了](https://zh.wikipedia.org/wiki/天际线 "wikilink")[多伦多](../Page/多伦多.md "wikilink")，他在那里出生并居住到10岁。\[1\]
+但随后的发展中，大都会的外观和风格受[纽约市的影响越来越大](https://zh.wikipedia.org/wiki/纽约市 "wikilink")。\[2\]\[3\]\[4\]
 
 在[DC宇宙的设定中](../Page/DC宇宙.md "wikilink")，大都会是这个世界上最大和最富裕的城市之一，拥有1,100万人口。\[5\]\[6\]
 
 ## 城市起源
 
 [1_Manhattan,_New_York_City.jpg](https://zh.wikipedia.org/wiki/File:1_Manhattan,_New_York_City.jpg "fig:1_Manhattan,_New_York_City.jpg")经常被认为是现实生活中的大都会，\[7\]
-而大都会的地标则是基于[曼哈顿的真实情况所改编](../Page/曼哈顿.md "wikilink")。\[8\]\]\]
+而大都会的地标则是基于[曼哈顿的真实情况所改编](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")。\[8\]\]\]
 
-与[DC漫画中其他虚构城市一样](../Page/DC漫画.md "wikilink")，大都会的位置在这些年的发展中屡有变动，但基本上都被描绘成是[美国东北部的一个主要城市](../Page/美国东北部.md "wikilink")，与[纽约市有诸多相似之处](../Page/纽约市.md "wikilink")。
+与[DC漫画中其他虚构城市一样](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")，大都会的位置在这些年的发展中屡有变动，但基本上都被描绘成是[美国东北部的一个主要城市](https://zh.wikipedia.org/wiki/美国东北部 "wikilink")，与[纽约市有诸多相似之处](https://zh.wikipedia.org/wiki/纽约市 "wikilink")。
 
-超人的联合创作者[乔·舒斯特在](../Page/乔·舒斯特.md "wikilink")10岁的时候就搬到了[克利夫兰](../Page/克利夫兰.md "wikilink")，他在这里遇到是俄亥俄州本地人，同时也将在未来和他一起成为超人共同创作者的的。他俩原本计划将《超人》这个故事出售给克利夫兰本地的报纸，因此他们将故事的背景设置在当地；但当他们最后将这个故事用于漫画书时，他们将超人的故事背景修改为虚构的大都会。舒斯特自己表示在为大都会这个虚构城市构建都市风景的时候参考了他的家乡[多伦多](../Page/多伦多.md "wikilink")，\[9\]
-而且早期的超人故事中，[克拉克·肯特在为一家](../Page/克拉克·肯特.md "wikilink")《[每日星报](../Page/每日星报_\(DC漫画\).md "wikilink")》的报社工作，而这份报纸的原型就是《[多伦多星报](../Page/多伦多星报.md "wikilink")》。\[10\]\[11\]
+超人的联合创作者[乔·舒斯特在](https://zh.wikipedia.org/wiki/乔·舒斯特 "wikilink")10岁的时候就搬到了[克利夫兰](../Page/克利夫兰.md "wikilink")，他在这里遇到是俄亥俄州本地人，同时也将在未来和他一起成为超人共同创作者的的。他俩原本计划将《超人》这个故事出售给克利夫兰本地的报纸，因此他们将故事的背景设置在当地；但当他们最后将这个故事用于漫画书时，他们将超人的故事背景修改为虚构的大都会。舒斯特自己表示在为大都会这个虚构城市构建都市风景的时候参考了他的家乡[多伦多](../Page/多伦多.md "wikilink")，\[9\]
+而且早期的超人故事中，[克拉克·肯特在为一家](https://zh.wikipedia.org/wiki/克拉克·肯特 "wikilink")《[每日星报](https://zh.wikipedia.org/wiki/每日星报_\(DC漫画\) "wikilink")》的报社工作，而这份报纸的原型就是《[多伦多星报](https://zh.wikipedia.org/wiki/多伦多星报 "wikilink")》。\[10\]\[11\]
 但是在《[动作漫画](../Page/动作漫画.md "wikilink")》第2期中，克拉克·肯特被错误地描写成《克利夫兰晚新闻报（）》的记者。
 
 除了超人之外，大都会也是其他几位[超级英雄的家园](../Page/超级英雄.md "wikilink")，例如：[金色先锋和](../Page/金色先锋.md "wikilink")[蓝甲虫](../Page/蓝甲虫.md "wikilink")。
@@ -28,8 +28,8 @@
 
 ## 城市历史
 
-1644年，[美国原住民将大都会岛出售给来自](../Page/美国原住民.md "wikilink")[欧洲的第一批定居者](../Page/欧洲.md "wikilink")。\[12\]
-这与[纽约市的历史相似](../Page/纽约市.md "wikilink")，1626年，美国原住民将[曼哈顿岛出售给了来自](../Page/曼哈顿岛.md "wikilink")[荷兰的定居者](../Page/荷兰.md "wikilink")。\[13\]
+1644年，[美国原住民将大都会岛出售给来自](https://zh.wikipedia.org/wiki/美国原住民 "wikilink")[欧洲的第一批定居者](../Page/欧洲.md "wikilink")。\[12\]
+这与[纽约市的历史相似](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，1626年，美国原住民将[曼哈顿岛出售给了来自](https://zh.wikipedia.org/wiki/曼哈顿岛 "wikilink")[荷兰的定居者](../Page/荷兰.md "wikilink")。\[13\]
 
 ## 地标建筑
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - **弗莱明市长（）**：弗莱明市长是一位[非裔美国人女性](../Page/非裔美国人.md "wikilink")，她是在编写的故事《[吉米·奥尔森](../Page/吉米·奥尔森.md "wikilink")》中引入。她选择吉米·奥尔森和塞巴斯蒂安·马洛里（）来展示达尔威亚外星人（）的城市。
+  - **弗莱明市长（）**：弗莱明市长是一位[非裔美国人女性](../Page/非裔美国人.md "wikilink")，她是在编写的故事《[吉米·奥尔森](https://zh.wikipedia.org/wiki/吉米·奥尔森 "wikilink")》中引入。她选择吉米·奥尔森和塞巴斯蒂安·马洛里（）来展示达尔威亚外星人（）的城市。
 
 ### 大都会警局
 
@@ -60,15 +60,15 @@
 
 ## 当地媒体
 
-大都会首屈一指的报纸就是《[星球日报](../Page/星球日报.md "wikilink")》，这也是[DC宇宙中最知名的新闻机构之一](../Page/DC宇宙.md "wikilink")。同时，大都会也是国家级杂志《新闻时代（）》的总部所在地。在的故事中，[克拉克·肯特是这家杂志的](../Page/克拉克·肯特.md "wikilink")[编辑](../Page/编辑.md "wikilink")，直至他的主管科林·桑顿（Collin
-Thornton）在《[超人历险记](../Page/超人_\(漫画书\).md "wikilink")》因为歼灭者而变得行为古怪而导致他被解雇。
+大都会首屈一指的报纸就是《[星球日报](https://zh.wikipedia.org/wiki/星球日报 "wikilink")》，这也是[DC宇宙中最知名的新闻机构之一](../Page/DC宇宙.md "wikilink")。同时，大都会也是国家级杂志《新闻时代（）》的总部所在地。在的故事中，[克拉克·肯特是这家杂志的](https://zh.wikipedia.org/wiki/克拉克·肯特 "wikilink")[编辑](https://zh.wikipedia.org/wiki/编辑 "wikilink")，直至他的主管科林·桑顿（Collin
+Thornton）在《[超人历险记](https://zh.wikipedia.org/wiki/超人_\(漫画书\) "wikilink")》因为歼灭者而变得行为古怪而导致他被解雇。
 
-位于大都会的其他重要媒体包括，这是[电视网旗下的旗舰频道](../Page/电视联播网.md "wikilink")，而它们都是的[子公司](../Page/子公司.md "wikilink")。\[14\]
-该台最受欢迎的电视节目就是《约翰尼·内华达的午夜秀（）》，这是一档根据[全国广播公司节目](../Page/全国广播公司.md "wikilink")《》而虚构出来的节目，而约翰尼·内华达则是根据该节目的主持人[约翰尼·卡森虚拟出来的](../Page/约翰尼·卡森.md "wikilink")。\[15\]
+位于大都会的其他重要媒体包括，这是[电视网旗下的旗舰频道](https://zh.wikipedia.org/wiki/电视联播网 "wikilink")，而它们都是的[子公司](../Page/子公司.md "wikilink")。\[14\]
+该台最受欢迎的电视节目就是《约翰尼·内华达的午夜秀（）》，这是一档根据[全国广播公司节目](../Page/全国广播公司.md "wikilink")《》而虚构出来的节目，而约翰尼·内华达则是根据该节目的主持人[约翰尼·卡森虚拟出来的](https://zh.wikipedia.org/wiki/约翰尼·卡森 "wikilink")。\[15\]
 
 在二十世纪70年代到80年代中期，由于银河传播买下了《星球日报》，因而克拉克·肯特和露易丝·莱恩都前往工作，克拉克甚至还担任其《晚间新闻》的主播。\[16\]
 最后，他与一起成为联合主播。\[17\] 在约翰·伯恩（John
-Byrne）的改造超人的起源之后，克拉克·肯特和露易丝·莱恩又返回到《星球日报》工作。银河广播公司和WGBS-TV在也一直存在，甚至在任何故事里需要出现电视台或电视网的时候都会出现它们。在后危机时代，克拉克·肯特和露易丝·莱恩从来没有为任何电视媒体工作过。不过，[吉米·奥尔森和](../Page/吉米·奥尔森.md "wikilink")都在那里工作。
+Byrne）的改造超人的起源之后，克拉克·肯特和露易丝·莱恩又返回到《星球日报》工作。银河广播公司和WGBS-TV在也一直存在，甚至在任何故事里需要出现电视台或电视网的时候都会出现它们。在后危机时代，克拉克·肯特和露易丝·莱恩从来没有为任何电视媒体工作过。不过，[吉米·奥尔森和](https://zh.wikipedia.org/wiki/吉米·奥尔森 "wikilink")都在那里工作。
 
 ## 居民与体育
 
@@ -77,20 +77,20 @@ Byrne）的改造超人的起源之后，克拉克·肯特和露易丝·莱恩�
 ### 体育
 
 与其他大城市一样，大都会在各主要体育大联盟内都有参赛队伍。\[18\]
-和[纽约市相似](../Page/纽约市.md "wikilink")，大都会也有两支[棒球队伍和](../Page/棒球.md "wikilink")[美式橄榄球队伍](../Page/美式橄榄球.md "wikilink")。
+和[纽约市相似](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，大都会也有两支[棒球队伍和](../Page/棒球.md "wikilink")[美式橄榄球队伍](https://zh.wikipedia.org/wiki/美式橄榄球 "wikilink")。
 
-在两支棒球队中，[克拉克·肯特最喜欢的队伍是](../Page/克拉克·肯特.md "wikilink")“大都会君王队（）”；\[19\]
-而另一支棒球队，“大都会流星队（）”则在中被提及曾与[圣路易红雀队有过一战](../Page/聖路易紅雀.md "wikilink")。而在[美式橄榄球方面](../Page/美式橄榄球.md "wikilink")，大都会拥有“大都会地铁队（）”和“大都会流星队（）”两支球队。大都会流星队曾经以为明星[四分卫](../Page/四分卫.md "wikilink")。\[20\]
+在两支棒球队中，[克拉克·肯特最喜欢的队伍是](https://zh.wikipedia.org/wiki/克拉克·肯特 "wikilink")“大都会君王队（）”；\[19\]
+而另一支棒球队，“大都会流星队（）”则在中被提及曾与[圣路易红雀队有过一战](../Page/聖路易紅雀.md "wikilink")。而在[美式橄榄球方面](https://zh.wikipedia.org/wiki/美式橄榄球 "wikilink")，大都会拥有“大都会地铁队（）”和“大都会流星队（）”两支球队。大都会流星队曾经以为明星[四分卫](https://zh.wikipedia.org/wiki/四分卫 "wikilink")。\[20\]
 
 在电视剧《[超人前传](../Page/超人前传.md "wikilink")》中，大都会还有一支名为“大都会鲨鱼队（）”的[足球队](../Page/足球.md "wikilink")。
 
 大都会的[篮球队名叫](../Page/篮球.md "wikilink")“大都会将军队（）”，以舒斯特体育馆为主场。\[21\]
-这个体育馆大概是以《超人》故事的共同创作者[乔·舒斯特的姓氏命名的](../Page/乔·舒斯特.md "wikilink")。
+这个体育馆大概是以《超人》故事的共同创作者[乔·舒斯特的姓氏命名的](https://zh.wikipedia.org/wiki/乔·舒斯特 "wikilink")。
 
-大都会也拥有自己的职业[冰球队伍](../Page/冰球.md "wikilink")，代表大都会出战[国家冰球联盟的队伍是](../Page/国家冰球联盟.md "wikilink")“大都会猛犸象队（）”。\[22\]
+大都会也拥有自己的职业[冰球队伍](../Page/冰球.md "wikilink")，代表大都会出战[国家冰球联盟的队伍是](https://zh.wikipedia.org/wiki/国家冰球联盟 "wikilink")“大都会猛犸象队（）”。\[22\]
 
 在漫画发行的这些年里，一直提及大都会拥有数个体育馆。其中一个体育馆名为“大都会体育馆”（在终极地球危机前，这个体育馆在地球2上被称之为“运动人体育馆”），\[23\]
-这个球馆可能受到现实生活里[圣路易市](../Page/聖路易市.md "wikilink")的影响，运动人公园体育馆是[圣路易红雀队和](../Page/聖路易紅雀.md "wikilink")的主场。
+这个球馆可能受到现实生活里[圣路易市](https://zh.wikipedia.org/wiki/聖路易市 "wikilink")的影响，运动人公园体育馆是[圣路易红雀队和](../Page/聖路易紅雀.md "wikilink")的主场。
 
 ## 军团时代
 
@@ -98,7 +98,7 @@ Byrne）的改造超人的起源之后，克拉克·肯特和露易丝·莱恩�
 
 ## 同名城市
 
-[伊利诺伊州一个名为](../Page/伊利诺伊州.md "wikilink")“[大都会](../Page/梅特罗波利斯_\(伊利诺伊州\).md "wikilink")”的市镇被伊利诺伊州州议会宣布为“超人故乡”，该市正尽其所有能力为“本地英雄”而庆祝。大都会市庆祝“[超人](../Page/超人.md "wikilink")”这个角色的方式包括：在当地兴建了一座超人雕塑、一栋超人博物馆；并设立了一个年度超人庆典；而且当地报纸的名称《大都会星球报（）》就源自《超人》漫画中大都会里的虚构新闻报纸——《[星球日报](../Page/星球日报.md "wikilink")》。这个市镇被绘进了漫画当中，作为一个当地居民非常崇拜其“姊妹城市”超级英雄的城市。\[24\]
+[伊利诺伊州一个名为](../Page/伊利诺伊州.md "wikilink")“[大都会](../Page/梅特罗波利斯_\(伊利诺伊州\).md "wikilink")”的市镇被伊利诺伊州州议会宣布为“超人故乡”，该市正尽其所有能力为“本地英雄”而庆祝。大都会市庆祝“[超人](../Page/超人.md "wikilink")”这个角色的方式包括：在当地兴建了一座超人雕塑、一栋超人博物馆；并设立了一个年度超人庆典；而且当地报纸的名称《大都会星球报（）》就源自《超人》漫画中大都会里的虚构新闻报纸——《[星球日报](https://zh.wikipedia.org/wiki/星球日报 "wikilink")》。这个市镇被绘进了漫画当中，作为一个当地居民非常崇拜其“姊妹城市”超级英雄的城市。\[24\]
 
 ## 参考资料
 

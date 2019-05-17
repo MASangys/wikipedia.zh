@@ -1,7 +1,7 @@
 **微軟Lumia 950**\[1\]和**微軟Lumia
-950XL**\[2\]是由[微軟移動開發的](../Page/微軟移動.md "wikilink")[Windows
+950XL**\[2\]是由[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[Windows
 10
-Mobile智慧型手機](../Page/Windows_10_Mobile.md "wikilink")。在2015年10月6日發佈。\[3\] \[4\]
+Mobile智慧型手機](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。在2015年10月6日發佈。\[3\] \[4\]
 Windows 10 推出後，Microsoft 已表示著手開發 Windows 10 Mobile。10 月 6 日 Microsoft
 舉行發佈會，正式推出旗艦級手機 Lumia 950、Lumia 950 XL，\[5\]\[6\]\[7\]\[8\]\[9\]
 \[10\] 且此手機為 Microsoft Lumia系列中最後一台旗艦型手機。
@@ -16,7 +16,7 @@ Windows 10 Mobile 正式版。
 ### Display Dock 和 Continuum
 
 微软为 Lumia 950 (XL) 推出了名为 Continuum 的新功能，即通过 Display
-Dock（微软手机盒子）连接显示器和键鼠，即可化身为桌面[计算机](../Page/计算机.md "wikilink")，可以通过UWP（Universal
+Dock（微软手机盒子）连接显示器和键鼠，即可化身为桌面[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")，可以通过UWP（Universal
 Windows Platform）应用实现与桌面无异的办公体验。微软已经演示了 Lumia 950 XL 上的通用 Office
 应用在桌面上的操作效果。\[11\]\[12\]\[13\]
 
@@ -26,8 +26,8 @@ Windows Platform）应用实现与桌面无异的办公体验。微软已经演�
 
 ### Windows Hello 与虹膜解锁
 
-不同于时下流行的[指纹验证方式](../Page/指纹.md "wikilink")，Lumia 950(XL)使用虹膜解锁方式，并搭配
-Windows Hello 来使用。
+不同于时下流行的[指纹验证方式](https://zh.wikipedia.org/wiki/指纹 "wikilink")，Lumia
+950(XL)使用虹膜解锁方式，并搭配 Windows Hello 来使用。
 
 ## 問題
 
@@ -59,8 +59,9 @@ Windows Hello 来使用。
 
 ## 參見
 
-  - [微軟Lumia](../Page/微軟Lumia.md "wikilink")
-  - [Windows 10 Mobile](../Page/Windows_10_Mobile.md "wikilink")
+  - [微軟Lumia](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")
+  - [Windows 10
+    Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")
   - [Windows Phone](../Page/Windows_Phone.md "wikilink")
 
 ## 參考文獻

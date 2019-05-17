@@ -1,5 +1,5 @@
 **C+
-頻道**是[香港](../Page/香港.md "wikilink")[美亞電視與](../Page/美亞電視.md "wikilink")[中國移動香港附屬的流動電視服務](../Page/中國移動香港.md "wikilink")[UTV經營而擁有的一條以](../Page/UTV.md "wikilink")[廣東話廣播的娛樂性綜合頻道](../Page/廣東話.md "wikilink")，並同時取代已停播的[UOne](../Page/UOne.md "wikilink")。
+頻道**是[香港](../Page/香港.md "wikilink")[美亞電視與](https://zh.wikipedia.org/wiki/美亞電視 "wikilink")[中國移動香港附屬的流動電視服務](../Page/中國移動香港.md "wikilink")[UTV經營而擁有的一條以](../Page/UTV.md "wikilink")[廣東話廣播的娛樂性綜合頻道](https://zh.wikipedia.org/wiki/廣東話 "wikilink")，並同時取代已停播的[UOne](../Page/UOne.md "wikilink")。
 
 ## 歷史
 
@@ -7,7 +7,7 @@
 
 ## 播放節目
 
-  - [賽馬直擊](../Page/賽馬直擊.md "wikilink")
+  - [賽馬直擊](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")
   - 放眼馬世界
   - 跑馬地Fever
   - 鮮浪潮電影
@@ -36,7 +36,7 @@
 
 ## 參見
 
-  - [美亞電視](../Page/美亞電視.md "wikilink")
+  - [美亞電視](https://zh.wikipedia.org/wiki/美亞電視 "wikilink")
   - [美亞娛樂](../Page/美亞娛樂.md "wikilink")
   - [中國移動香港](../Page/中國移動香港.md "wikilink")
 

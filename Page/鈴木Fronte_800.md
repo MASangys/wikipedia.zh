@@ -1,20 +1,20 @@
 **鈴木Fronte
-800**乃是[日本鈴木汽車工業](../Page/日本.md "wikilink")（今[鈴木公司](../Page/鈴木公司.md "wikilink")）於1965年至1969年間製造發售的[次緊湊型車](../Page/次緊湊型車.md "wikilink")，該款車的基本機械構造和[第一代Fronte](../Page/鈴木Fronte#第一代TLA/FEA/FEA-II型（1962年-1967年）.md "wikilink")（FEA-II型）相似，但車身尺碼加以放大。
+800**乃是[日本鈴木汽車工業](../Page/日本.md "wikilink")（今[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1965年至1969年間製造發售的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，該款車的基本機械構造和[第一代Fronte](https://zh.wikipedia.org/wiki/鈴木Fronte#第一代TLA/FEA/FEA-II型（1962年-1967年） "wikilink")（FEA-II型）相似，但車身尺碼加以放大。
 
-這款車是該公司從[輕型車跨入](../Page/輕型車.md "wikilink")[次緊湊型車級距的首部代表作](../Page/次緊湊型車.md "wikilink")，也是日本國產首部[前置前驅小型車](../Page/前置前驅.md "wikilink")\[1\]。主要競爭對手有、[第一代馬自達Familia](../Page/馬自達323#第一代（1963年-1968年）.md "wikilink")、、等車款，大約3年半的產品生命週期中總共製造2,717輛、出售2,612輛\[2\]。
+這款車是該公司從[輕型車跨入](../Page/輕型車.md "wikilink")[次緊湊型車級距的首部代表作](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，也是日本國產首部[前置前驅小型車](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")\[1\]。主要競爭對手有、[第一代馬自達Familia](https://zh.wikipedia.org/wiki/馬自達323#第一代（1963年-1968年） "wikilink")、、等車款，大約3年半的產品生命週期中總共製造2,717輛、出售2,612輛\[2\]。
 
 ## 歷史與概要
 
-雖然四輪開業作[鈴木Suzulight屬於](../Page/鈴木Suzulight.md "wikilink")[輕型車之範疇](../Page/輕型車.md "wikilink")，1962年第9屆全日本汽車展覽（今[東京車展](../Page/東京車展.md "wikilink")）鈴木首度公開表達進軍[次緊湊型車市場的意圖](../Page/次緊湊型車.md "wikilink")。翌年第10屆全日本汽車展覽展出一輛公司內部稱為「HAX」的四門[轎車](../Page/轎車.md "wikilink")，即使這輛原型車未透露更多進一步的細節，但車身曲線令人聯想到[義大利汽車設計師](../Page/義大利.md "wikilink")所經手的和。事實上這是由曾經參與開發的佐佐木享所領導，內部開發代號「Y4」的後車窗採曲面[玻璃以獲得更大視野](../Page/玻璃.md "wikilink")，也是日本車壇首見\[3\]。
+雖然四輪開業作[鈴木Suzulight屬於](../Page/鈴木Suzulight.md "wikilink")[輕型車之範疇](../Page/輕型車.md "wikilink")，1962年第9屆全日本汽車展覽（今[東京車展](../Page/東京車展.md "wikilink")）鈴木首度公開表達進軍[次緊湊型車市場的意圖](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")。翌年第10屆全日本汽車展覽展出一輛公司內部稱為「HAX」的四門[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")，即使這輛原型車未透露更多進一步的細節，但車身曲線令人聯想到[義大利汽車設計師](https://zh.wikipedia.org/wiki/義大利 "wikilink")所經手的和。事實上這是由曾經參與開發的佐佐木享所領導，內部開發代號「Y4」的後車窗採曲面[玻璃以獲得更大視野](../Page/玻璃.md "wikilink")，也是日本車壇首見\[3\]。
 
-動力心臟為785c.c.直列三缸氣冷式二衝程[C10型引擎](../Page/鈴木引擎列表#直列三缸.md "wikilink")，最高[馬力表現為](../Page/馬力.md "wikilink")41ps
+動力心臟為785c.c.直列三缸氣冷式二衝程[C10型引擎](https://zh.wikipedia.org/wiki/鈴木引擎列表#直列三缸 "wikilink")，最高[馬力表現為](../Page/馬力.md "wikilink")41ps
 / 4,000rpm，扭力峰值8.1kg·m /
-3,500rpm，以左傾30度縱置的方式設於引擎室內。此具引擎仿自[德國](../Page/德國.md "wikilink")（Auto
+3,500rpm，以左傾30度縱置的方式設於引擎室內。此具引擎仿自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（Auto
 Union AG）的引擎\[4\]，後者的構造同樣為直列三缸二衝程，衝程同樣是68.0mm，缸徑多了0.5mm，但最大馬力僅有34ps /
 4,300rpm。前輪[懸吊系統為單A臂懸吊加縱置扭力桿](../Page/懸吊系統.md "wikilink")，後輪則為縱臂式懸吊加橫置扭力桿，因此可以調整車身高低。
 
 總共製造2,717輛、出售2,612輛的成績並不佳，與其定價策略有關。Fronte
-800的標準車型售價46.5萬[日圓](../Page/日圓.md "wikilink")、高級車型則是54.5萬日圓；反觀較早推出的，標準版才44.8萬、高級版49.5萬。此外，1965年11月[第一代馬自達Familia改換](../Page/馬自達323#第一代（1963年-1968年）.md "wikilink")1.0L新引擎，1966年4月搭載1.0L引擎的上市，同年5月則是[速霸陸1000](../Page/速霸陸1000.md "wikilink")，11月為[豐田Corolla](../Page/丰田卡罗拉#第一代（E10）.md "wikilink")。日本車壇最競爭的級距已經演變成以1.0L引擎為主力，鈴木仍以0.8L引擎應付，難怪銷售成績萎靡不振。
+800的標準車型售價46.5萬[日圓](../Page/日圓.md "wikilink")、高級車型則是54.5萬日圓；反觀較早推出的，標準版才44.8萬、高級版49.5萬。此外，1965年11月[第一代馬自達Familia改換](https://zh.wikipedia.org/wiki/馬自達323#第一代（1963年-1968年） "wikilink")1.0L新引擎，1966年4月搭載1.0L引擎的上市，同年5月則是[速霸陸1000](../Page/速霸陸1000.md "wikilink")，11月為[豐田Corolla](https://zh.wikipedia.org/wiki/丰田卡罗拉#第一代（E10） "wikilink")。日本車壇最競爭的級距已經演變成以1.0L引擎為主力，鈴木仍以0.8L引擎應付，難怪銷售成績萎靡不振。
 
 不過還有個說法認為鈴木一開始便不打算讓Fronte
 800成為主力車款，1960年代日本面臨乘用汽車進口自由化的壓力，通商產業省（今[經濟產業省](../Page/經濟產業省.md "wikilink")）於1965年主動提出整併國內汽車界的構想。原來只打算一切靠自己開發的鈴木擔心被整併後，連具有實績的二輪[摩托車與](../Page/摩托車.md "wikilink")[輕型車也不能做下去](../Page/輕型車.md "wikilink")，於是迫於這種危機而開發Fronte
@@ -23,8 +23,8 @@ Union AG）的引擎\[4\]，後者的構造同樣為直列三缸二衝程，衝�
 ### 胎死腹中的Fronte 1100
 
 本來原廠還計劃開發車型代號C20的「Fronte
-1100」，亦參考仿製汽車聯盟的1,175c.c.直列三缸二衝程引擎，但配合三個[法國](../Page/法國.md "wikilink")提供的[化油器](../Page/化油器.md "wikilink")，使得前輪配置碟煞的Fronte
-1100之最大馬力達80ps、極速達160km/hr。但是相較於[豐田](../Page/豐田汽車.md "wikilink")、[日產等強敵](../Page/日產汽車.md "wikilink")，鈴木的公司規模實在無法匹敵\[6\]。再者，採用二衝程引擎的DKW
+1100」，亦參考仿製汽車聯盟的1,175c.c.直列三缸二衝程引擎，但配合三個[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")提供的[化油器](../Page/化油器.md "wikilink")，使得前輪配置碟煞的Fronte
+1100之最大馬力達80ps、極速達160km/hr。但是相較於[豐田](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")、[日產等強敵](../Page/日產汽車.md "wikilink")，鈴木的公司規模實在無法匹敵\[6\]。再者，採用二衝程引擎的DKW
 F102卻在市場上失敗，有了這個前車之鑑，使得鈴木決定中止此開發案。 {{-}}
 
 ## 內部連結

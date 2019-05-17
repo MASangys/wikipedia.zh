@@ -1,10 +1,10 @@
 **秋葉原UDX**（、*Akihabara Urban Development
-X*）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[外神田](../Page/外神田.md "wikilink")（[秋葉原](../Page/秋葉原.md "wikilink")）[秋葉原Crossfield內的大樓](../Page/秋葉原Crossfield.md "wikilink")。2007年度[好設計獎得主](../Page/好設計獎.md "wikilink")\[1\]。
+X*）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[外神田](../Page/外神田.md "wikilink")（[秋葉原](../Page/秋葉原.md "wikilink")）[秋葉原Crossfield內的大樓](https://zh.wikipedia.org/wiki/秋葉原Crossfield "wikilink")。2007年度[好設計獎得主](../Page/好設計獎.md "wikilink")\[1\]。
 
 ## 概要
 
-2006年3月開幕，是秋葉原Crossfield的核心設施。大樓位在[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）[秋葉原站西側交通廣場與神田明神通北側](../Page/秋葉原站.md "wikilink")，有空中迴廊（AKIBA
-BRIDGE）連接JR秋葉原站電氣街口與。面對交通廣場的大樓南側正面有540吋（高6.52公尺、寬11.90公尺）的高解析[大型數位看板](../Page/數位標牌.md "wikilink")「秋葉原UDX
+2006年3月開幕，是秋葉原Crossfield的核心設施。大樓位在[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）[秋葉原站西側交通廣場與神田明神通北側](https://zh.wikipedia.org/wiki/秋葉原站 "wikilink")，有空中迴廊（AKIBA
+BRIDGE）連接JR秋葉原站電氣街口與。面對交通廣場的大樓南側正面有540吋（高6.52公尺、寬11.90公尺）的高解析[大型數位看板](https://zh.wikipedia.org/wiki/數位標牌 "wikilink")「秋葉原UDX
 VISION」。
 
 建築東西長44.9公尺、南北長137.1公尺、標準出租空間面積最大4,808.46平方公尺（1,454.56坪）、樓板面積161,482平方公尺，是[東京都內重要的辦公大樓](../Page/東京都區部.md "wikilink")。
@@ -18,7 +18,7 @@ VISION」。
   - 樓層：地上22層、頂樓1層、地下3層
   - 建物高度：最高部107公尺、屋頂99.72公尺
   - 建地面積：11,547平方公尺
-  - [建築面積](../Page/建築面積.md "wikilink")：8,559平方公尺
+  - [建築面積](https://zh.wikipedia.org/wiki/建築面積 "wikilink")：8,559平方公尺
   - 樓板面積：161,482.72平方公尺（48,848.52坪）
   - 建築主：UDX特定目的會社（[NTT都市開發](../Page/NTT都市開發.md "wikilink")、[鹿島建設](../Page/鹿島建設.md "wikilink")）
   - 設計者：NTT都市開發、鹿島建設、、
@@ -33,7 +33,7 @@ VISION」。
   - 1 - 3樓：防災中心、店鋪（AKIBA ICHI）、[警視廳](../Page/警視廳.md "wikilink")秋葉原交番
   - 2樓：AKIBA Square、AKIBA Information
   - 4樓：UDX Gallery、UDX Gallery Next、UDX Theater、UDX Open
-    College、[東京動畫中心](../Page/東京動畫中心.md "wikilink")
+    College、[東京動畫中心](https://zh.wikipedia.org/wiki/東京動畫中心 "wikilink")
   - 5樓：Sky Lobby（辦公區出入層）
   - 6樓：UDX Conference、UDX Clinic Mall、秋葉原UDX總合管理事務所
   - 7 - 22樓：辦公室
@@ -42,7 +42,7 @@ VISION」。
 
 ## 入駐企業
 
-步行至JR東日本秋葉原站僅需2分，至[東京地下鐵銀座線](../Page/東京地下鐵銀座線.md "wikilink")[末廣町站](../Page/末廣町站_\(東京都\).md "wikilink")、[東京地下鐵日比谷線與](../Page/東京地下鐵日比谷線.md "wikilink")[筑波快線秋葉原站步行僅](../Page/筑波快線.md "wikilink")3分，交通十分便利，有多間、、相關企業入駐。
+步行至JR東日本秋葉原站僅需2分，至[東京地下鐵銀座線](https://zh.wikipedia.org/wiki/東京地下鐵銀座線 "wikilink")[末廣町站](../Page/末廣町站_\(東京都\).md "wikilink")、[東京地下鐵日比谷線與](https://zh.wikipedia.org/wiki/東京地下鐵日比谷線 "wikilink")[筑波快線秋葉原站步行僅](../Page/筑波快線.md "wikilink")3分，交通十分便利，有多間、、相關企業入駐。
 
   -
   -
@@ -54,7 +54,7 @@ VISION」。
   -
   - [BASE](http://www.basenet.co.jp/)
 
-  - [三菱日聯日本信販股份](../Page/三菱日聯日本信販股份.md "wikilink")
+  - [三菱日聯日本信販股份](https://zh.wikipedia.org/wiki/三菱日聯日本信販股份 "wikilink")
 
   -
   -
@@ -75,8 +75,8 @@ VISION」。
 ## AKIBA ICHI
 
 一至三樓是以餐飲店為主的商店街「AKIBA
-ICHI」（アキバ・イチ）。1樓有24小時營業的[超市](../Page/超市.md "wikilink")「」、[DOCOMO
-Shop秋葉原UDX店](../Page/NTT_DOCOMO#DOCOMO_Shop.md "wikilink")、秋葉原UDX內[郵便局](../Page/郵便局.md "wikilink")、[三菱東京UFJ銀行ATM據點](../Page/三菱東京UFJ銀行.md "wikilink")。
+ICHI」（アキバ・イチ）。1樓有24小時營業的[超市](https://zh.wikipedia.org/wiki/超市 "wikilink")「」、[DOCOMO
+Shop秋葉原UDX店](https://zh.wikipedia.org/wiki/NTT_DOCOMO#DOCOMO_Shop "wikilink")、秋葉原UDX內[郵便局](https://zh.wikipedia.org/wiki/郵便局 "wikilink")、[三菱東京UFJ銀行ATM據點](https://zh.wikipedia.org/wiki/三菱東京UFJ銀行 "wikilink")。
 
 ## 停車場
 
@@ -87,7 +87,7 @@ ICHI或秋葉原電氣街振興會加盟店的合作店家消費可獲得一定�
 
 ## 與動漫的關連
 
-在動漫[LoveLive\!中](../Page/LoveLive!.md "wikilink")，偶像團體A-RISE成員就讀的UTX高校原型即為此大樓。
+在動漫[LoveLive\!中](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")，偶像團體A-RISE成員就讀的UTX高校原型即為此大樓。
 
 ## 備註
 

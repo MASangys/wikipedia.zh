@@ -1,5 +1,5 @@
 **LoveLive\! μ's Best Album Best Live\!
-collection**（）是[μ's的第一张](../Page/μ's.md "wikilink")[精选辑](../Page/精选辑.md "wikilink")，2013年1月9日由[Lantis发行](../Page/Lantis.md "wikilink")。
+collection**（）是[μ's的第一张](https://zh.wikipedia.org/wiki/μ's "wikilink")[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")，2013年1月9日由[Lantis发行](../Page/Lantis.md "wikilink")。
 
 ## 发行
 
@@ -12,7 +12,7 @@ white”出道以来的所有共31首歌曲。\[1\]
 
 ## 销售表现
 
-本专辑在2013年1月21日公布的Oricon周榜以卖出9000份的成绩获得第12名，创下了《[LoveLive\!](../Page/LoveLive!.md "wikilink")》相关音乐作品发售首周排名最高记录。随后成为畅销专辑，截至2014年9月，总共卖出8万份\[5\]。发售第79周时，本专辑在2014年7月8日公布的Oricon日榜中排名第6，时隔一年半刷新专辑在该榜的最高排名记录。截至2016年，本专辑在Oricon周榜共入榜150次以上\[6\]。
+本专辑在2013年1月21日公布的Oricon周榜以卖出9000份的成绩获得第12名，创下了《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》相关音乐作品发售首周排名最高记录。随后成为畅销专辑，截至2014年9月，总共卖出8万份\[5\]。发售第79周时，本专辑在2014年7月8日公布的Oricon日榜中排名第6，时隔一年半刷新专辑在该榜的最高排名记录。截至2016年，本专辑在Oricon周榜共入榜150次以上\[6\]。
 
 另外本专辑在[TOWER
 RECORDS新宿店](../Page/淘兒唱片.md "wikilink")2013年1月7日至13日的动画歌曲销量排行榜中排名第一位\[7\]，同年12月又在animelo
@@ -26,7 +26,7 @@ CD总共收录31首歌曲，其中第一张光盘14首，包含μ's以及其三�
 
 ### CD
 
-  - 全部歌曲作词：[畑亚贵](../Page/畑亚贵.md "wikilink")
+  - 全部歌曲作词：[畑亚贵](https://zh.wikipedia.org/wiki/畑亚贵 "wikilink")
 
 ### Blu-ray
 

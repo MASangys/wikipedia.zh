@@ -19,65 +19,65 @@ Games Poland，\[2\]然而在2015年6月24日，该公司宣布独立并恢复�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/PC.md" title="wikilink">PC</a></p></td>
-<td><p><a href="../Page/Xbox_(游戏机).md" title="wikilink">Xbox</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Xbox_(游戏机)" title="wikilink">Xbox</a></p></td>
 <td><p><a href="../Page/PlayStation_3.md" title="wikilink">PS3</a></p></td>
 <td><p><a href="../Page/Xbox_360.md" title="wikilink">X360</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><em><a href="../Page/Painkiller_(video_game).md" title="wikilink">Painkiller</a></em></p></td>
-<td><p><a href="../Page/DreamCatcher_Interactive.md" title="wikilink">DreamCatcher Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Painkiller_(video_game)" title="wikilink">Painkiller</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DreamCatcher_Interactive" title="wikilink">DreamCatcher Interactive</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><em><a href="../Page/Painkiller:_Battle_Out_of_Hell.md" title="wikilink">Painkiller: Battle Out of Hell</a></em></p></td>
-<td><p><a href="../Page/DreamCatcher_Interactive.md" title="wikilink">DreamCatcher Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Painkiller:_Battle_Out_of_Hell" title="wikilink">Painkiller: Battle Out of Hell</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DreamCatcher_Interactive" title="wikilink">DreamCatcher Interactive</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p><em><a href="../Page/Painkiller:_Hell_Wars.md" title="wikilink">Painkiller: Hell Wars</a></em></p></td>
-<td><p><a href="../Page/DreamCatcher_Interactive.md" title="wikilink">DreamCatcher Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Painkiller:_Hell_Wars" title="wikilink">Painkiller: Hell Wars</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DreamCatcher_Interactive" title="wikilink">DreamCatcher Interactive</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p><a href="../Page/战争机器_(游戏).md" title="wikilink">战争机器</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/战争机器_(游戏)" title="wikilink">战争机器</a><br />
 Gears of War</p></td>
-<td><p><a href="../Page/Microsoft_Game_Studios.md" title="wikilink">Microsoft Game Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Game_Studios" title="wikilink">Microsoft Game Studios</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
-<td><p><a href="../Page/战争机器2.md" title="wikilink">战争机器2</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/战争机器2" title="wikilink">战争机器2</a><br />
 Gears of War 2</p></td>
-<td><p><a href="../Page/Microsoft_Game_Studios.md" title="wikilink">Microsoft Game Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Game_Studios" title="wikilink">Microsoft Game Studios</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><em><a href="../Page/Bulletstorm#Marketing.md" title="wikilink">Duty Calls: The Calm Before the Storm</a></em></p></td>
-<td><p><a href="../Page/Electronic_Arts.md" title="wikilink">Electronic Arts</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bulletstorm#Marketing" title="wikilink">Duty Calls: The Calm Before the Storm</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
 <td><p><a href="../Page/狂彈風暴.md" title="wikilink">狂彈風暴</a><br />
 Bulletstorm</p></td>
-<td><p><a href="../Page/Electronic_Arts.md" title="wikilink">Electronic Arts</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="../Page/战争机器：审判.md" title="wikilink">战争机器：审判</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/战争机器：审判" title="wikilink">战争机器：审判</a><br />
 Gears of War: Judgment</p></td>
-<td><p><a href="../Page/Microsoft_Studios.md" title="wikilink">Microsoft Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="../Page/堡垒之夜.md" title="wikilink">堡垒之夜</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/堡垒之夜" title="wikilink">堡垒之夜</a><br />
 Fortnite</p></td>
 <td><p><a href="../Page/Epic_Games.md" title="wikilink">Epic Games</a></p></td>
 <td></td>
@@ -85,7 +85,7 @@ Fortnite</p></td>
 <tr class="odd">
 <td><p>已取消</p></td>
 <td><p><em>Come Midnight</em></p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td></td>
 </tr>
 </tbody>

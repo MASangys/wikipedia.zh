@@ -1,12 +1,12 @@
 **SIG
-522LR**（）是一把由[德国槍械公司](../Page/德国.md "wikilink")[西格&紹爾研製及生產的](../Page/西格&紹爾.md "wikilink")[反沖作用式](../Page/反沖作用_\(槍械\).md "wikilink")[半自動步槍](../Page/半自動步槍.md "wikilink")，外觀與[SIG
+522LR**（）是一把由[德国槍械公司](../Page/德国.md "wikilink")[西格&紹爾研製及生產的](../Page/西格&紹爾.md "wikilink")[反沖作用式](../Page/反沖作用_\(槍械\).md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，外觀與[SIG
 SG 55X](../Page/SIG_SG_550突擊步槍.md "wikilink")
-[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](../Page/北大西洋公约组织.md "wikilink")[口徑系列](../Page/口徑.md "wikilink")[突击步枪相似](../Page/突击步枪.md "wikilink")，發射[.22
-LR](../Page/.22_LR.md "wikilink")[口徑](../Page/口徑.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
+[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑系列](https://zh.wikipedia.org/wiki/口徑 "wikilink")[突击步枪相似](../Page/突击步枪.md "wikilink")，發射[.22
+LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 設計細節
 
-由於控件和功能大多是與相同的，522可作為其較大的[中央式底火口徑](../Page/中央式底火.md "wikilink")[彈藥的步槍的訓練平台使用](../Page/彈藥.md "wikilink")。相對的，它與中央式底火口徑彈藥步槍的不同之處也只在一小部份。522系列沒有55X系列所裝有的可調節式導氣箍。相反，它裝上一個假導氣箍。\[2\]SIG將之稱為一個儲存容器。522系列可採用由黑狗機器製造並在與SIG
+由於控件和功能大多是與相同的，522可作為其較大的[中央式底火口徑](../Page/中央式底火.md "wikilink")[彈藥的步槍的訓練平台使用](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。相對的，它與中央式底火口徑彈藥步槍的不同之處也只在一小部份。522系列沒有55X系列所裝有的可調節式導氣箍。相反，它裝上一個假導氣箍。\[2\]SIG將之稱為一個儲存容器。522系列可採用由黑狗機器製造並在與SIG
 522配送更改品牌名字的10發或25發[彈匣](../Page/彈匣.md "wikilink")，而非30發彈匣。
 
 ## 衍生型
@@ -34,7 +34,7 @@ SWAT突擊隊型具有與裝在突擊隊型以上相同的假[消聲器](../Page
 ### 522目標型
 
 SIG
-522目標型是522產品線之中最新型號，具有鋁管製自由浮動式前護木，浮動於槍管四周以提高[精度](../Page/準確與精密.md "wikilink")。它配備了藉由頂部[MIL-STD-1913戰術導軌安裝的可變倍率式](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準鏡和一根](../Page/瞄準鏡.md "wikilink")20英寸槍管。總重為7磅1盎司，無槍口裝置。
+522目標型是522產品線之中最新型號，具有鋁管製自由浮動式前護木，浮動於槍管四周以提高[精度](../Page/準確與精密.md "wikilink")。它配備了藉由頂部[MIL-STD-1913戰術導軌安裝的可變倍率式](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準鏡和一根](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")20英寸槍管。總重為7磅1盎司，無槍口裝置。
 
 ## 參見
 

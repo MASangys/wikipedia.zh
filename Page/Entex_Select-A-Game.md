@@ -1,11 +1,11 @@
 **Entex Select-a-game**是由[Entex
-Industries於](../Page/Entex_Industries.md "wikilink")1981年發售的掌上遊戲機。它的生命週期十分短，總共只有6款遊戲發售\[1\]\[2\]。
+Industries於](https://zh.wikipedia.org/wiki/Entex_Industries "wikilink")1981年發售的掌上遊戲機。它的生命週期十分短，總共只有6款遊戲發售\[1\]\[2\]。
 
 ## 簡介
 
-Select-A-Game使用7×16的[真空熒光顯示器為主要顯示器](../Page/真空熒光顯示器.md "wikilink")，並能夠顯示2種顏色：紅色及藍色。而每款遊戲會在顯示器加上標示。主機本身沒有任何處理器，而遊戲需要靠安裝在卡帶上的微處理器來進行。
+Select-A-Game使用7×16的[真空熒光顯示器為主要顯示器](https://zh.wikipedia.org/wiki/真空熒光顯示器 "wikilink")，並能夠顯示2種顏色：紅色及藍色。而每款遊戲會在顯示器加上標示。主機本身沒有任何處理器，而遊戲需要靠安裝在卡帶上的微處理器來進行。
 
-主機的電源可以由4枚C型電池提供，也可以使用外部[電源供應器](../Page/電源供應器.md "wikilink")。但是電源供應器在當時需要經郵件購買，以現在來說難以入手，而使用[交流適配器也可以令主機正常運作](../Page/交流適配器.md "wikilink")。
+主機的電源可以由4枚C型電池提供，也可以使用外部[電源供應器](../Page/電源供應器.md "wikilink")。但是電源供應器在當時需要經郵件購買，以現在來說難以入手，而使用[交流適配器也可以令主機正常運作](https://zh.wikipedia.org/wiki/交流適配器 "wikilink")。
 
 ## 遊戲列表
 
@@ -15,8 +15,8 @@ Select-A-Game使用7×16的[真空熒光顯示器為主要顯示器](../Page/真
   - *Pinball*（彈珠台）
   - *Baseball 4*（棒球4）
   - *Pac-Man
-    2*（[食鬼2](../Page/食鬼.md "wikilink")，只有少量發售，因為被當時持有食鬼掌上遊戲機版權的控告侵犯版權）
-  - *Battleship*（[海戰](../Page/海戰_\(遊戲\).md "wikilink")，沒有發售）
+    2*（[食鬼2](https://zh.wikipedia.org/wiki/食鬼 "wikilink")，只有少量發售，因為被當時持有食鬼掌上遊戲機版權的控告侵犯版權）
+  - *Battleship*（[海戰](https://zh.wikipedia.org/wiki/海戰_\(遊戲\) "wikilink")，沒有發售）
   - *Turtles*（烏龜）\[3\]\[4\]
 
 ## 參見

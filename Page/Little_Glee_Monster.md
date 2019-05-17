@@ -18,7 +18,7 @@
 </p></td>
 <td><p>長谷川芹奈</p></td>
 <td></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p>藍</p></td>
 </tr>
 <tr class="even">
@@ -81,7 +81,7 @@
 </p></td>
 <td><p>荒井麻珠</p></td>
 <td></td>
-<td><p><a href="../Page/山梨縣.md" title="wikilink">山梨縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨縣</a></p></td>
 <td><p>紅</p></td>
 </tr>
 </tbody>
@@ -99,7 +99,7 @@ Glee Monster」。
 2014年10月29日，以首張單曲《放課後ハイファイブ》正式出道。
 
 2017年6月30日，麻珠隨合約到期退出組合。
-2017年12月31日，[第68回NHK紅白歌合戰](../Page/第68回NHK紅白歌合戰.md "wikilink")，第一次登場。
+2017年12月31日，[第68回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰 "wikilink")，第一次登場。
 
 ## 音樂作品
 
@@ -200,7 +200,7 @@ Glee Monster」。
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2017年11月8日</p></td>
-<td><p><a href="../Page/OVER/光碎片.md" title="wikilink">OVER/光碎片</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OVER/光碎片" title="wikilink">OVER/光碎片</a></p></td>
 <td><p>SRCL-9620/1</p></td>
 <td><p>SRCL-9622</p></td>
 <td><p>SRCL-9623|</p></td>
@@ -234,27 +234,27 @@ Glee Monster」。
 
 ### 數位單曲
 
-|     | 發行日期       | 名稱      | 規格   | 收錄專輯                                                               |
-| --- | ---------- | ------- | ---- | ------------------------------------------------------------------ |
-| 1st | 2017年12月3日 | Jupiter | 數位下載 | **[juice](../Page/juice_\(Little_Glee_Monster專輯\).md "wikilink")** |
+|     | 發行日期       | 名稱      | 規格   | 收錄專輯                                                                                  |
+| --- | ---------- | ------- | ---- | ------------------------------------------------------------------------------------- |
+| 1st | 2017年12月3日 | Jupiter | 數位下載 | **[juice](https://zh.wikipedia.org/wiki/juice_\(Little_Glee_Monster專輯\) "wikilink")** |
 
 ### 迷你專輯
 
-| \#         | 發行日期        | 名稱                                                                                         | 規格       | 公信榜排名 |
-| ---------- | ----------- | ------------------------------------------------------------------------------------------ | -------- | ----- |
-| 通常盤        |             |                                                                                            |          |       |
-| 1st        | 2014年3月16日  | [Little Glee Monster](../Page/Little_Glee_Monster_\(Little_Glee_Monster專輯\).md "wikilink") | UXCL0062 | \-    |
-| 2016年11月9日 | SRCL-9221/2 | 7位                                                                                         |          |       |
+| \#         | 發行日期        | 名稱                                                                                                            | 規格       | 公信榜排名 |
+| ---------- | ----------- | ------------------------------------------------------------------------------------------------------------- | -------- | ----- |
+| 通常盤        |             |                                                                                                               |          |       |
+| 1st        | 2014年3月16日  | [Little Glee Monster](https://zh.wikipedia.org/wiki/Little_Glee_Monster_\(Little_Glee_Monster專輯\) "wikilink") | UXCL0062 | \-    |
+| 2016年11月9日 | SRCL-9221/2 | 7位                                                                                                            |          |       |
 
 ### 正規專輯
 
-| \#      | 發行日期       | 名稱                                                            | 規格          | 公信榜排名       |
-| ------- | ---------- | ------------------------------------------------------------- | ----------- | ----------- |
-| 完全生産限定盤 | 初回生産限定盤    | 通常盤                                                           | 期間生産限定盤     |             |
-| 1st     | 2016年1月6日  | [Colorful Monster](../Page/Colorful_Monster.md "wikilink")    |             | SRCL-8962/3 |
-| 2nd     | 2017年1月6日  | [Joyful Monster](../Page/Joyful_Monster.md "wikilink")        | SRCL-9274/5 | SRCL-0276/7 |
-| 3rd     | 2018年1月17日 | [juice](../Page/juice_\(Little_Glee_Monste專輯\).md "wikilink") |             | SRCL-9638/9 |
-| 4th     | 2019年1月16日 | [FLAVA](../Page/FLAVA.md "wikilink")                          |             |             |
+| \#      | 發行日期       | 名稱                                                                               | 規格          | 公信榜排名       |
+| ------- | ---------- | -------------------------------------------------------------------------------- | ----------- | ----------- |
+| 完全生産限定盤 | 初回生産限定盤    | 通常盤                                                                              | 期間生産限定盤     |             |
+| 1st     | 2016年1月6日  | [Colorful Monster](https://zh.wikipedia.org/wiki/Colorful_Monster "wikilink")    |             | SRCL-8962/3 |
+| 2nd     | 2017年1月6日  | [Joyful Monster](https://zh.wikipedia.org/wiki/Joyful_Monster "wikilink")        | SRCL-9274/5 | SRCL-0276/7 |
+| 3rd     | 2018年1月17日 | [juice](https://zh.wikipedia.org/wiki/juice_\(Little_Glee_Monste專輯\) "wikilink") |             | SRCL-9638/9 |
+| 4th     | 2019年1月16日 | [FLAVA](https://zh.wikipedia.org/wiki/FLAVA "wikilink")                          |             |             |
 
 ## 參考資料
 

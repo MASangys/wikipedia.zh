@@ -1,10 +1,10 @@
 **Claws Mail**
-是一款[免费](../Page/免费软件.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")，基于[GTK+语言编写的](../Page/GTK+.md "wikilink")[电子邮件客户端和](../Page/电子邮件客户端.md "wikilink")[新闻聚合器](../Page/新闻聚合器.md "wikilink")。它提供了简单的配置和丰富的功能。它也可以通过插件支持及的邮件格式。
+是一款[免费](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，基于[GTK+语言编写的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[电子邮件客户端和](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")[新闻聚合器](https://zh.wikipedia.org/wiki/新闻聚合器 "wikilink")。它提供了简单的配置和丰富的功能。它也可以通过插件支持及的邮件格式。
 Claws
-Mail支持的系统包括[Windows](../Page/Microsoft_Windows.md "wikilink")、[Unix-like](../Page/Unix-like.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris和](../Page/Solaris.md "wikilink")[Mac
-OS X](../Page/Mac_OS_X.md "wikilink")。
+Mail支持的系统包括[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris和](../Page/Solaris.md "wikilink")[Mac
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
-它包含[Windows的一款加密组件](../Page/Microsoft_Windows.md "wikilink")[Gpg4win](../Page/Gpg4win.md "wikilink")
+它包含[Windows的一款加密组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Gpg4win](https://zh.wikipedia.org/wiki/Gpg4win "wikilink")
 。\[1\]
 
 ## 历史
@@ -17,7 +17,7 @@ Claws，开发于2001年4月，2005年8月与[Sylpheed分离成为独立程序](
 Claws Mail 提供了丰富的功能，\[2\]其中包括：
 
   - 搜索及过滤
-  - 安全（[GPG](../Page/GPG.md "wikilink")，[SSL](../Page/SSL.md "wikilink")，防[钓鱼式攻击](../Page/钓鱼式攻击.md "wikilink")）
+  - 安全（[GPG](https://zh.wikipedia.org/wiki/GPG "wikilink")，[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，防[钓鱼式攻击](../Page/钓鱼式攻击.md "wikilink")）
   - 导入/导出标准格式
   - 外部编辑器
   - 模板
@@ -32,11 +32,11 @@ Claws Mail 提供了丰富的功能，\[2\]其中包括：
 
 Claws Mail亦支持扩展插件，\[3\] 像是：
 
-  - 反垃圾邮件（[SpamAssassin](../Page/SpamAssassin.md "wikilink")，[Bogofilter](../Page/Bogofilter.md "wikilink")）
+  - 反垃圾邮件（[SpamAssassin](../Page/SpamAssassin.md "wikilink")，[Bogofilter](https://zh.wikipedia.org/wiki/Bogofilter "wikilink")）
 
-  - [新闻聚合器](../Page/新闻聚合器.md "wikilink")
+  - [新闻聚合器](https://zh.wikipedia.org/wiki/新闻聚合器 "wikilink")
 
-  - HTML查看器（[Dillo](../Page/Dillo.md "wikilink")，[Gtkhtml2](../Page/Gtkhtml2.md "wikilink")，排版（[WebKit](../Page/WebKit.md "wikilink")））
+  - HTML查看器（[Dillo](../Page/Dillo.md "wikilink")，[Gtkhtml2](https://zh.wikipedia.org/wiki/Gtkhtml2 "wikilink")，排版（[WebKit](../Page/WebKit.md "wikilink")））
 
   - 托盘图标
 

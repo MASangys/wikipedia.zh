@@ -1,22 +1,31 @@
 **Fitbit**（全稱：**Fitbit,
-Inc.**）是[美國的](../Page/美國.md "wikilink")[智能手錶研製企業](../Page/智能手錶.md "wikilink")，成立於2007年10月。
+Inc.**）是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[智能手錶研製企業](https://zh.wikipedia.org/wiki/智能手錶 "wikilink")，成立於2007年10月。
 
 ## 產品
 
-  - [Fitbit One](../Page/Fitbit_One.md "wikilink")
-  - [Fitbit Alta](../Page/Fitbit_Alta.md "wikilink")
-  - [Fitbit Aria](../Page/Fitbit_Aria.md "wikilink")
-  - [Fitbit Blaze](../Page/Fitbit_Blaze.md "wikilink")
-  - [Fitbit Charge](../Page/Fitbit_Charge.md "wikilink")
-  - [Fitbit Charge 2](../Page/Fitbit_Charge_2.md "wikilink")
-  - [Fitbit Charge HR](../Page/Fitbit_Charge_HR.md "wikilink")
-  - [Fitbit Flex](../Page/Fitbit_Flex.md "wikilink")
-  - [Fitbit Flex 2](../Page/Fitbit_Flex_2.md "wikilink")
-  - [Fitbit Force](../Page/Fitbit_Force.md "wikilink")
-  - [Fitbit Surge](../Page/Fitbit_Surge.md "wikilink")
-  - [Fitbit Tracker](../Page/Fitbit_Tracker.md "wikilink")
-  - [Fitbit Ultra](../Page/Fitbit_Ultra.md "wikilink")
-  - [Fitbit Zip](../Page/Fitbit_Zip.md "wikilink")
+  - [Fitbit One](https://zh.wikipedia.org/wiki/Fitbit_One "wikilink")
+  - [Fitbit Alta](https://zh.wikipedia.org/wiki/Fitbit_Alta "wikilink")
+  - [Fitbit Aria](https://zh.wikipedia.org/wiki/Fitbit_Aria "wikilink")
+  - [Fitbit
+    Blaze](https://zh.wikipedia.org/wiki/Fitbit_Blaze "wikilink")
+  - [Fitbit
+    Charge](https://zh.wikipedia.org/wiki/Fitbit_Charge "wikilink")
+  - [Fitbit Charge
+    2](https://zh.wikipedia.org/wiki/Fitbit_Charge_2 "wikilink")
+  - [Fitbit Charge
+    HR](https://zh.wikipedia.org/wiki/Fitbit_Charge_HR "wikilink")
+  - [Fitbit Flex](https://zh.wikipedia.org/wiki/Fitbit_Flex "wikilink")
+  - [Fitbit Flex
+    2](https://zh.wikipedia.org/wiki/Fitbit_Flex_2 "wikilink")
+  - [Fitbit
+    Force](https://zh.wikipedia.org/wiki/Fitbit_Force "wikilink")
+  - [Fitbit
+    Surge](https://zh.wikipedia.org/wiki/Fitbit_Surge "wikilink")
+  - [Fitbit
+    Tracker](https://zh.wikipedia.org/wiki/Fitbit_Tracker "wikilink")
+  - [Fitbit
+    Ultra](https://zh.wikipedia.org/wiki/Fitbit_Ultra "wikilink")
+  - [Fitbit Zip](https://zh.wikipedia.org/wiki/Fitbit_Zip "wikilink")
 
 ## 参考文獻
 

@@ -2,7 +2,7 @@
 
 ## 主要特点
 
-在Treatstock网站上，用户不仅能够购买由设计师上传的[3D模型](../Page/3D模型.md "wikilink")，还可以享受一系列由打印供应商提供的[3D打印服务](../Page/3D打印.md "wikilink")。确定购买3D模型后，客户可以根据打印需求和收费情况选择最合适的打印供应商。网站设计简单实用，相较于其他3D打印网站，Treatstock的优势在于简化了客户从选择模型到收到成品的步骤。“Treatstock就像在Shapeways中融入了一点Thingiverse，另外又添加了点3D
+在Treatstock网站上，用户不仅能够购买由设计师上传的[3D模型](https://zh.wikipedia.org/wiki/3D模型 "wikilink")，还可以享受一系列由打印供应商提供的[3D打印服务](../Page/3D打印.md "wikilink")。确定购买3D模型后，客户可以根据打印需求和收费情况选择最合适的打印供应商。网站设计简单实用，相较于其他3D打印网站，Treatstock的优势在于简化了客户从选择模型到收到成品的步骤。“Treatstock就像在Shapeways中融入了一点Thingiverse，另外又添加了点3D
 Hubs
 。砍去通常所需的繁杂步骤，Treatstock让3D模型打印变得简单易行。”一个3D打印媒体这样评价Treatstock网站。\[2\]
 

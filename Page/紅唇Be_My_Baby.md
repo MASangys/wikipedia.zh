@@ -1,15 +1,15 @@
 《**紅唇Be My
-Baby**》（）是[日本](../Page/日本.md "wikilink")[女子組合](../Page/女子組合.md "wikilink")[AKB48的第](../Page/AKB48.md "wikilink")42張單曲作品，[Center](../Page/AKB48組合構成#中心職位.md "wikilink")（中央站位）由[高橋南擔任](../Page/高橋南.md "wikilink")，是高橋自AKB48首張單曲《[櫻花的花瓣們](../Page/櫻花的花瓣們.md "wikilink")》以來，近10年後再次單獨擔任A面曲的[Center](../Page/AKB48團體構成#中心職位.md "wikilink")。
+Baby**》（）是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[AKB48的第](../Page/AKB48.md "wikilink")42張單曲作品，[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心職位 "wikilink")（中央站位）由[高橋南擔任](../Page/高橋南.md "wikilink")，是高橋自AKB48首張單曲《[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")》以來，近10年後再次單獨擔任A面曲的[Center](https://zh.wikipedia.org/wiki/AKB48團體構成#中心職位 "wikilink")。
 
 ## 簡介
 
 此單曲於2015年11月19日的《Best
 Hit歌謡祭》節目中首唱，並於2015年11月23日在[YouTube公開短版MV](../Page/YouTube.md "wikilink")，完整版約13分鐘。
 
-唱片中收錄之單曲《365天的紙飛機》為[NHK電視台下半年的](../Page/NHK.md "wikilink")[晨間連續劇](../Page/連續電視小說.md "wikilink")《[阿淺來了](../Page/阿淺來了.md "wikilink")》主題曲，除了是AKB48初次擔任晨間劇主題曲之演唱\[1\]\[2\]，亦是史上首次由女子偶像團體演唱晨間劇主題曲。
+唱片中收錄之單曲《365天的紙飛機》為[NHK電視台下半年的](https://zh.wikipedia.org/wiki/NHK "wikilink")[晨間連續劇](../Page/連續電視小說.md "wikilink")《[阿淺來了](../Page/阿淺來了.md "wikilink")》主題曲，除了是AKB48初次擔任晨間劇主題曲之演唱\[1\]\[2\]，亦是史上首次由女子偶像團體演唱晨間劇主題曲。
 
 《紅唇Be My
-Baby》的MV導演為與AKB48合作多次的[高橋榮樹](../Page/高橋榮樹.md "wikilink")。背景為[千葉縣](../Page/千葉縣.md "wikilink")[館山市的](../Page/館山市.md "wikilink")[洲埼燈塔](../Page/洲埼燈塔.md "wikilink")，2015年迎來10週年的AKB48舊地重遊，再次回到主流出道的第一張單曲《[好想見你](../Page/想见你_\(AKB48单曲\).md "wikilink")》MV的外景地進行拍攝，主題為「接棒」。
+Baby》的MV導演為與AKB48合作多次的[高橋榮樹](../Page/高橋榮樹.md "wikilink")。背景為[千葉縣](../Page/千葉縣.md "wikilink")[館山市的](../Page/館山市.md "wikilink")[洲埼燈塔](https://zh.wikipedia.org/wiki/洲埼燈塔 "wikilink")，2015年迎來10週年的AKB48舊地重遊，再次回到主流出道的第一張單曲《[好想見你](../Page/想见你_\(AKB48单曲\).md "wikilink")》MV的外景地進行拍攝，主題為「接棒」。
 [Sunosaki_Lighthouse,_Japan.jpg](https://zh.wikipedia.org/wiki/File:Sunosaki_Lighthouse,_Japan.jpg "fig:Sunosaki_Lighthouse,_Japan.jpg")\]\]
 
 ## 銷售成績
@@ -128,10 +128,10 @@ My Baby》的舞蹈拍攝。
 **Center：[高橋南](../Page/高橋南.md "wikilink")**
 
   - Team
-    A：[入山杏奈](../Page/入山杏奈.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、島崎遙香、高橋南、[横山由依](../Page/横山由依.md "wikilink")
+    A：[入山杏奈](../Page/入山杏奈.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、島崎遙香、高橋南、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")
   - Team K：[峯岸南](../Page/峯岸南.md "wikilink")
   - Team
-    B：[柏木由紀](../Page/柏木由紀.md "wikilink")（兼任[NGT48](../Page/NGT48.md "wikilink")）、[加藤玲奈](../Page/加藤玲奈.md "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")
+    B：[柏木由紀](../Page/柏木由紀.md "wikilink")（兼任[NGT48](../Page/NGT48.md "wikilink")）、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")
   - SKE48 Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")（兼任AKB48 Team K）
   - NMB48 Team N：[山本彩](../Page/山本彩.md "wikilink")（兼任AKB48 Team K）
   - HKT48 Team H：[指原莉乃](../Page/指原莉乃.md "wikilink")
@@ -164,11 +164,12 @@ My Baby》的舞蹈拍攝。
   - Team
     A：[大和田南那](../Page/大和田南那.md "wikilink")、[谷口惠](../Page/谷口惠.md "wikilink")
   - Team
-    K：[田野優花](../Page/田野優花.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[武藤十夢](../Page/武藤十夢.md "wikilink")
+    K：[田野優花](../Page/田野優花.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
   - Team B：[大島涼花](../Page/大島涼花.md "wikilink")
   - Team
-    4：[岡田奈奈](../Page/岡田奈奈.md "wikilink")、[川本紗矢](../Page/川本紗矢.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[西野未姫](../Page/西野未姫.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
-  - Team 8：[坂口渚沙](../Page/坂口渚沙.md "wikilink")（兼任Team B）
+    4：[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")、[川本紗矢](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
+  - Team 8：[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（兼任Team
+    B）
   - NMB48 Team BII：渡邊美優紀（兼任AKB48 Team B）
   - HKT48 Team H：兒玉遙（兼任AKB48 Team K）
 
@@ -180,12 +181,12 @@ My Baby》的舞蹈拍攝。
 
   - 入山杏奈、[岩田華怜](../Page/岩田華怜.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、大和田南那、[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、小嶋陽菜、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、島崎遥香、白間美瑠（NMB48
     Team
-    M兼任）、高橋南、[田北香世子](../Page/田北香世子.md "wikilink")、谷口惠、[中西智代梨](../Page/中西智代梨.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[西山怜那](../Page/西山怜那.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[前田亜美](../Page/前田亜美.md "wikilink")、[宮崎美穂](../Page/宮崎美穂.md "wikilink")、宮脇咲良（HKT48
+    M兼任）、高橋南、[田北香世子](https://zh.wikipedia.org/wiki/田北香世子 "wikilink")、谷口惠、[中西智代梨](../Page/中西智代梨.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[西山怜那](https://zh.wikipedia.org/wiki/西山怜那 "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[前田亜美](https://zh.wikipedia.org/wiki/前田亜美 "wikilink")、[宮崎美穂](https://zh.wikipedia.org/wiki/宮崎美穂 "wikilink")、宮脇咲良（HKT48
     Team KIV兼任）、[山田菜菜美](../Page/山田菜菜美.md "wikilink")（Team 8兼任）、横山由依
 
 ### 班花的選擇
 
-**“[玲奈七选拔](../Page/加藤玲奈.md "wikilink")”名义**
+**“[玲奈七选拔](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")”名义**
 
 **Center：[田中菜津美](../Page/田中菜津美.md "wikilink")**
 
@@ -206,14 +207,14 @@ My Baby》的舞蹈拍攝。
 
 **Center：向井地美音**
 
-  - [相笠萌](../Page/相笠萌.md "wikilink")、[阿部瑪利亞](../Page/阿部瑪利亞.md "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、兒玉遙（HKT48
+  - [相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[市川愛美](https://zh.wikipedia.org/wiki/市川愛美 "wikilink")、兒玉遙（HKT48
     Team
-    H兼任）、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](../Page/下口绯奈奈.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（SNH48
+    H兼任）、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（SNH48
     Team
     SII兼任）、[高城亞樹](../Page/高城亞樹.md "wikilink")、田野優花、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")（Team
     8兼任）、[藤田奈那](../Page/藤田奈那.md "wikilink")、松井珠理奈（SKE48 Team
     S兼任）、峯岸南、向井地美音、武藤十夢、茂木忍、山本彩（NMB48 Team
-    N兼任）、[湯本亞美](../Page/湯本亞美.md "wikilink")
+    N兼任）、[湯本亞美](https://zh.wikipedia.org/wiki/湯本亞美 "wikilink")
 
 ### 搗蛋鬼小蝗蟲
 
@@ -233,10 +234,11 @@ My Baby》的舞蹈拍攝。
 
 **Center：加藤玲奈、木崎由里亞**
 
-  - [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内山奈月](../Page/内山奈月.md "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、大島涼花、柏木由紀（兼任NGT48）、加藤玲奈、木﨑由里亞、[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[坂口渚沙](../Page/坂口渚沙.md "wikilink")（Team
-    8兼任）、[竹内美宥](../Page/竹内美宥.md "wikilink")、[達家真姫宝](../Page/達家真姫宝.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")（HKT48
-    Team H兼任）、[横島亜衿](../Page/横島亜衿.md "wikilink")、渡邊麻友、渡邊美優紀（NMB48 Team
-    BII兼任）
+  - [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、大島涼花、柏木由紀（兼任NGT48）、加藤玲奈、木﨑由里亞、[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（Team
+    8兼任）、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫宝](https://zh.wikipedia.org/wiki/達家真姫宝 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[福岡聖菜](https://zh.wikipedia.org/wiki/福岡聖菜 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")（HKT48
+    Team
+    H兼任）、[横島亜衿](https://zh.wikipedia.org/wiki/横島亜衿 "wikilink")、渡邊麻友、渡邊美優紀（NMB48
+    Team BII兼任）
 
 ### 鼓勵的話
 
@@ -259,11 +261,12 @@ My Baby》的舞蹈拍攝。
 
 **Center：川本紗矢、小嶋真子**
 
-  - [飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](../Page/岩立沙穂.md "wikilink")、[大川莉央](../Page/大川莉央.md "wikilink")、[大森美優](../Page/大森美優.md "wikilink")、[岡田彩花](../Page/岡田彩花.md "wikilink")、岡田奈奈、川本紗矢、[北川綾巴](../Page/北川綾巴.md "wikilink")（SKE48
+  - [飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[大森美優](https://zh.wikipedia.org/wiki/大森美優 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、岡田奈奈、川本紗矢、[北川綾巴](../Page/北川綾巴.md "wikilink")（SKE48
     Team
-    S兼任）、[北澤早紀](../Page/北澤早紀.md "wikilink")、小嶋真子、込山榛香、[佐藤妃星](../Page/佐藤妃星.md "wikilink")、[渋谷凪咲](../Page/渋谷凪咲.md "wikilink")（NMB48
-    Team BII兼任）、高橋朱里、[朝長美桜](../Page/朝長美桜.md "wikilink")（HKT48 Team
-    KIV兼任）、西野未姫、[野澤玲奈](../Page/野澤玲奈.md "wikilink")、村山彩希
+    S兼任）、[北澤早紀](../Page/北澤早紀.md "wikilink")、小嶋真子、込山榛香、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[渋谷凪咲](https://zh.wikipedia.org/wiki/渋谷凪咲 "wikilink")（NMB48
+    Team
+    BII兼任）、高橋朱里、[朝長美桜](https://zh.wikipedia.org/wiki/朝長美桜 "wikilink")（HKT48
+    Team KIV兼任）、西野未姫、[野澤玲奈](../Page/野澤玲奈.md "wikilink")、村山彩希
 
 ### 直到刚才还是Ice Tea
 
@@ -272,15 +275,16 @@ My Baby》的舞蹈拍攝。
 **Center：込山榛香、薮下柊**
 
   - Team
-    B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")
-  - Team 4：[込山榛香](../Page/込山榛香.md "wikilink")
-  - Team 8：[坂口渚沙](../Page/坂口渚沙.md "wikilink")（兼任Team B）
-  - SKE48 Team KII：[小畑優奈](../Page/小畑優奈.md "wikilink")
-  - SKE48 Team E：[後藤乐乐](../Page/後藤乐乐.md "wikilink")
-  - NMB48 Team M：[植村梓](../Page/植村梓.md "wikilink")
+    B：[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[福岡聖菜](https://zh.wikipedia.org/wiki/福岡聖菜 "wikilink")
+  - Team 4：[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")
+  - Team 8：[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（兼任Team
+    B）
+  - SKE48 Team KII：[小畑優奈](https://zh.wikipedia.org/wiki/小畑優奈 "wikilink")
+  - SKE48 Team E：[後藤乐乐](https://zh.wikipedia.org/wiki/後藤乐乐 "wikilink")
+  - NMB48 Team M：[植村梓](https://zh.wikipedia.org/wiki/植村梓 "wikilink")
   - NMB48 Team BII：[薮下柊](../Page/薮下柊.md "wikilink")
-  - HKT48研究生：[荒巻美咲](../Page/荒巻美咲.md "wikilink")、[今村麻莉愛](../Page/今村麻莉愛.md "wikilink")
-  - NGT48研究生：[小熊倫实](../Page/小熊倫实.md "wikilink")、[高倉萌香](../Page/高倉萌香.md "wikilink")
+  - HKT48研究生：[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")、[今村麻莉愛](https://zh.wikipedia.org/wiki/今村麻莉愛 "wikilink")
+  - NGT48研究生：[小熊倫实](https://zh.wikipedia.org/wiki/小熊倫实 "wikilink")、[高倉萌香](https://zh.wikipedia.org/wiki/高倉萌香 "wikilink")
 
 ## 獎項
 
@@ -305,7 +309,7 @@ My Baby》的舞蹈拍攝。
 
       - [Type-D](https://store.warnermusic.com.tw/store/item/4680)
 
-[分類:NHK紅白歌合戰演唱歌曲](../Page/分類:NHK紅白歌合戰演唱歌曲.md "wikilink")
+[分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
 [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink")

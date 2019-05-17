@@ -1,12 +1,12 @@
 **松下Lumix G 20mm F1.7
-ASPH.镜头**是一款应用于[微4/3系统的](../Page/微4/3系统.md "wikilink")[定焦](../Page/定焦镜头.md "wikilink")[饼干镜头](../Page/饼干镜头.md "wikilink")，由松下公司最早于2008年Photokina上披露\[1\]，并于2009年与[DMC-GF1同期发布](../Page/松下_Lumix_DMC-GF1.md "wikilink")\[2\]。
+ASPH.镜头**是一款应用于[微4/3系统的](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")[定焦](../Page/定焦镜头.md "wikilink")[饼干镜头](../Page/饼干镜头.md "wikilink")，由松下公司最早于2008年Photokina上披露\[1\]，并于2009年与[DMC-GF1同期发布](https://zh.wikipedia.org/wiki/松下_Lumix_DMC-GF1 "wikilink")\[2\]。
 
 由于其小巧的体积和不俗的成像，爱好者中通常简称为“20饼”，或者“神饼”。
 
 ## 概述
 
 [Olympus_MFT_concept_1.jpg](https://zh.wikipedia.org/wiki/File:Olympus_MFT_concept_1.jpg "fig:Olympus_MFT_concept_1.jpg")
-[可换镜头数码无反相机](../Page/電子式取景可換鏡頭相機.md "wikilink")，在2008年随着[微4/3系统的出现而宣告诞生](../Page/微4/3系统.md "wikilink")。其中，松下公司提供了类单反造型（SLR-Like）的DMC-G1，而奥林巴斯公司则公开了如普通数码相机造型的[E-P1原型](../Page/奥林巴斯_PEN_E-P1.md "wikilink")；后者的造型和便携特性更引人关注，而饼干镜头无疑是这类机型的良好搭配。松下公司在Photokina上即公开了对于饼干镜头的路线计划\[3\]。
+[可换镜头数码无反相机](https://zh.wikipedia.org/wiki/電子式取景可換鏡頭相機 "wikilink")，在2008年随着[微4/3系统的出现而宣告诞生](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")。其中，松下公司提供了类单反造型（SLR-Like）的DMC-G1，而奥林巴斯公司则公开了如普通数码相机造型的[E-P1原型](https://zh.wikipedia.org/wiki/奥林巴斯_PEN_E-P1 "wikilink")；后者的造型和便携特性更引人关注，而饼干镜头无疑是这类机型的良好搭配。松下公司在Photokina上即公开了对于饼干镜头的路线计划\[3\]。
 
 2009年9月，在**E-P1**发布两个月后，松下公司也推出了自己的便携款M43机型，**DMC-GF1**，同期作为套装发布的即为这枚新设计的20mm
 F1.7饼干镜头。
@@ -29,8 +29,8 @@ Lens.jpg 2015 0826 Panasonic GX8 02.jpg
 
 ## 参见
 
-  - [微4/3系統](../Page/微4/3系統.md "wikilink")
-      - [微4/3系统镜头列表](../Page/微4/3系统镜头列表.md "wikilink")
+  - [微4/3系統](https://zh.wikipedia.org/wiki/微4/3系統 "wikilink")
+      - [微4/3系统镜头列表](https://zh.wikipedia.org/wiki/微4/3系统镜头列表 "wikilink")
   - [饼干镜头](../Page/饼干镜头.md "wikilink")
 
 ## 参考与引用

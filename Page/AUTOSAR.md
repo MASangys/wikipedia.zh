@@ -4,13 +4,13 @@
 ## 历史
 
 AUTOSAR
-由宝马集团（[BMW](../Page/BMW.md "wikilink")）、[博世公司](../Page/罗伯特·博世公司.md "wikilink")（Bosch）、[大陆集团](../Page/Continental_GT.md "wikilink")（Continental）、[戴姆勒-克莱斯勒公司](../Page/Daimler.md "wikilink")（DaimlerChrysler）、西门子威迪欧（[Siemens](../Page/Siemens.md "wikilink")
-VDO）[汽车电子公司以及大众公司（Volkswagen）于](../Page/Volkswagen_Group.md "wikilink")
+由宝马集团（[BMW](../Page/BMW.md "wikilink")）、[博世公司](../Page/罗伯特·博世公司.md "wikilink")（Bosch）、[大陆集团](https://zh.wikipedia.org/wiki/Continental_GT "wikilink")（Continental）、[戴姆勒-克莱斯勒公司](https://zh.wikipedia.org/wiki/Daimler "wikilink")（DaimlerChrysler）、西门子威迪欧（[Siemens](https://zh.wikipedia.org/wiki/Siemens "wikilink")
+VDO）[汽车电子公司以及大众公司（Volkswagen）于](https://zh.wikipedia.org/wiki/Volkswagen_Group "wikilink")
 2003年 7 月联合建立，旨在为汽车电气/电子构架开发一套开放的行业标准。2003 [年福特汽车公司（Ford Motor
 Company）加入联盟](../Page/福特汽车.md "wikilink")，成为其核心成员。2003 年 12
 月，[标致雪铁龙汽车公司（Peugeot Citroën Automobiles
-S.A.）](../Page/Peugeot.md "wikilink")[和丰田汽车公司（Toyota Motor
-Corporation）加入联盟](../Page/丰田汽车.md "wikilink")。2004 年 11
+S.A.）](https://zh.wikipedia.org/wiki/Peugeot "wikilink")[和丰田汽车公司（Toyota
+Motor Corporation）加入联盟](../Page/丰田汽车.md "wikilink")。2004 年 11
 月通用汽车公司（[General
 Motors](../Page/通用汽车.md "wikilink")）成为其核心成员\[3\] 。
 
@@ -43,8 +43,8 @@ AUTOSAR 制订了一系列标准规范，包括基础软件模块规范介绍、
 AUTOSAR采用三层架构\[10\]：
 
   - 基础软件：标准化的软件模块（大多数），本身并不参加实际工作，但能够为上层软件功能正常运行提供必需服务\[11\] 。
-  - 运行环境([RTE](../Page/运行时系统.md "wikilink"))：源自网络扑拓结构中的中介软件，用以实现
-    [ECU](../Page/ECU.md "wikilink") 内部及不同 ECU
+  - 运行环境([RTE](https://zh.wikipedia.org/wiki/运行时系统 "wikilink"))：源自网络扑拓结构中的中介软件，用以实现
+    [ECU](https://zh.wikipedia.org/wiki/ECU "wikilink") 内部及不同 ECU
     间的通信交换（应用软件组件之间以及基础软件和应用软件之间）\[12\]。
   - 应用层：应用软件组件与运行环境相辅相成\[13\]。
 
@@ -87,7 +87,8 @@ BSW分为三个主要层次并具有复杂的驱动因素：
 它们可支持远程和分布式服务，例如远程诊断、空中下载（OTA）更新、修复和交换处理。
 
 AUTOSAR目前正在对AUTOSAR自适应平台进行标准化处理，使其支持客户应用的动态部署，并为需要高端计算能力的应用提供适宜的环境。
-该平台的核心是基于 [POSIX](../Page/POSIX.md "wikilink") 标准的操作系统。
+该平台的核心是基于
+[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") 标准的操作系统。
 根据IEEE1003.13（即PSE51），操作系统可以通过POSIX的子集从应用中调用。 自适应平台的一个关键特性是面向服务的通信。
 
 自适应平台可以使用两种类型的接口：服务和应用程序编程接口（API）。 该平台由分布在服务层中的功能聚类和AUTOSAR自适应平台基础组成。

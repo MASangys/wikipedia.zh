@@ -1,11 +1,11 @@
-**株式會社TAKURANKE**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，專門承包[動畫的作畫作業為主要從事內容的日本動畫工作室](../Page/動畫.md "wikilink")。成立於1987年。
+**株式會社TAKURANKE**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，專門承包[動畫的作畫作業為主要從事內容的日本動畫工作室](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1987年。
 
 ## 概要、沿革
 
 株式會社TAKURANKE的前身為「**有限公司STUDIO
-TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近藤康彦](../Page/日昇動畫.md "wikilink")、山田浩之等人，以向總承包商承包[動畫的原畫](../Page/動畫.md "wikilink")、作畫分鏡作業為主要內容，在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上井草正式成立](../Page/上井草.md "wikilink")。成立之後還是會派部分的工作人員前往參與動畫製作的[演出一職](../Page/演出.md "wikilink")。
+TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近藤康彦](../Page/日昇動畫.md "wikilink")、山田浩之等人，以向總承包商承包[動畫的原畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、作畫分鏡作業為主要內容，在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上井草正式成立](../Page/上井草.md "wikilink")。成立之後還是會派部分的工作人員前往參與動畫製作的[演出一職](https://zh.wikipedia.org/wiki/演出 "wikilink")。
 
-2014年2月6日，登記成為股份有限公司之際改為現在的名稱，同時將總部搬遷至東京都[練馬區](../Page/練馬區.md "wikilink")[石神井町](../Page/石神井.md "wikilink")。
+2014年2月6日，登記成為股份有限公司之際改為現在的名稱，同時將總部搬遷至東京都[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")[石神井町](https://zh.wikipedia.org/wiki/石神井 "wikilink")。
 
 「TAKURANKE（）」源自於日語「傻瓜（）」「無賴、惡童（）」的念法。
 
@@ -19,7 +19,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [日昇動畫](../Page/日昇動畫.md "wikilink")
 
-  - [吉卜力工作室](../Page/吉卜力工作室.md "wikilink")
+  - [吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")
 
   - [STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
 
@@ -33,7 +33,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
   - [Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
   - [Production I.G](../Page/Production_I.G.md "wikilink")
   - [MADHOUSE](../Page/MADHOUSE.md "wikilink")
-  - [夢太公司](../Page/TYO動畫.md "wikilink")
+  - [夢太公司](https://zh.wikipedia.org/wiki/TYO動畫 "wikilink")
 
 </div>
 
@@ -52,7 +52,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 <!-- end list -->
 
   - [機甲戰記威龍](../Page/機甲戰記威龍.md "wikilink")（1987年－1989年）
-  - [城市獵人系列](../Page/城市獵人.md "wikilink")
+  - [城市獵人系列](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")
       - 城市獵人2（1988年）
       - 城市獵人3（1989年）
       - 城市獵人'91（1991年）
@@ -67,8 +67,8 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
   - [餓沙羅鬼](../Page/餓沙羅鬼.md "wikilink")（1998年－1999年）
   - [The Big O](../Page/The_Big_O.md "wikilink")（1999年／2003年）
   - [∀鋼彈](../Page/∀GUNDAM.md "wikilink")（1999年）
-  - [沉默的未知](../Page/沉默的未知.md "wikilink")（2000年－2001年）
-  - [犬夜叉](../Page/犬夜叉.md "wikilink")（2000年－2004年）
+  - [沉默的未知](https://zh.wikipedia.org/wiki/沉默的未知 "wikilink")（2000年－2001年）
+  - [犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")（2000年－2004年）
   - [帝皇戰紀](../Page/帝皇戰紀.md "wikilink")（2002年－2003年）
   - [惑星奇航](../Page/惑星奇航.md "wikilink")（2003年－2004年）
   - [Keroro軍曹](../Page/Keroro軍曹_\(動畫\).md "wikilink")（2004年－2013年）
@@ -76,14 +76,15 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
     DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（2004年－2005年）
   - [結界師](../Page/結界師.md "wikilink")（2006年－2007年）
   - [ZEGAPAIN](../Page/ZEGAPAIN.md "wikilink")（2006年）
-  - [銀魂](../Page/銀魂_\(動畫\).md "wikilink")（2006年－）
-  - [Code Geass反叛的魯路修R2](../Page/Code_Geass反叛的魯路修.md "wikilink")（2008年）
+  - [銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")（2006年－）
+  - [Code
+    Geass反叛的魯路修R2](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")（2008年）
   - [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")（2009年）
   - [加速世界](../Page/加速世界.md "wikilink")（2012年）
   - [窮神](../Page/窮神_\(漫畫\).md "wikilink")（2012年）
   - [革命機Valvrave](../Page/革命機Valvrave.md "wikilink")（2012年－2013年）
   - [鋼彈創戰者](../Page/GUNDAM創戰者.md "wikilink")（2013年－2014年）
-  - [鋼彈G之復國運動](../Page/GUNDAM_G之復國運動.md "wikilink")（2014年－2015年）
+  - [鋼彈G之復國運動](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")（2014年－2015年）
 
 <!-- end list -->
 
@@ -94,7 +95,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
   - [碧奇魂](../Page/碧奇魂.md "wikilink")（1994年）\[1\]
 
   - [攻殻機動隊 S.A.C. 2nd
-    GIG](../Page/攻殻機動隊_S.A.C._2nd_GIG.md "wikilink")（2004年－2005年）
+    GIG](https://zh.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG "wikilink")（2004年－2005年）
 
   - [BLOOD+](../Page/血戰.md "wikilink")（2005年－2006年）
 
@@ -114,10 +115,10 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <!-- end list -->
 
-  - **[神奇寶貝系列](../Page/神奇寶貝_\(動畫\).md "wikilink")**
+  - **[神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝_\(動畫\) "wikilink")**
       - [神奇寶貝](../Page/神奇寶貝_\(1997-2002年動畫\).md "wikilink")（1997年－2002年）
       - [神奇寶貝超世代](../Page/神奇寶貝超世代.md "wikilink")（2002年－2006年）
-      - [神奇寶貝鑽石&珍珠](../Page/神奇寶貝鑽石&珍珠.md "wikilink")（2006年－2010年）
+      - [神奇寶貝鑽石&珍珠](https://zh.wikipedia.org/wiki/神奇寶貝鑽石&珍珠 "wikilink")（2006年－2010年）
       - [神奇寶貝超級願望系列](../Page/神奇寶貝超級願望.md "wikilink")
           - 神奇寶貝超級願望（2011年－2012年）
           - 神奇寶貝超級願望 第2季（2012年）
@@ -134,10 +135,10 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [ANGELIC LAYER
     天使領域](../Page/ANGELIC_LAYER_天使領域.md "wikilink")（2001年）
-  - [鋼之鍊金術師](../Page/鋼之鍊金術師_\(動畫\).md "wikilink")（2003年－2004年）
+  - [鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")（2003年－2004年）
   - [絢爛舞踏祭](../Page/絢爛舞踏祭.md "wikilink")（2004年）
-  - [交響詩篇艾蕾卡7](../Page/交響詩篇.md "wikilink")（2005年－2006年）
-  - [獸王星](../Page/獸王星.md "wikilink")（2006年）
+  - [交響詩篇艾蕾卡7](https://zh.wikipedia.org/wiki/交響詩篇 "wikilink")（2005年－2006年）
+  - [獸王星](https://zh.wikipedia.org/wiki/獸王星 "wikilink")（2006年）
   - [櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")（2006年）
   - [天保異聞 妖奇士](../Page/天保異聞_妖奇士.md "wikilink")（2006年－2007年）
   - [THE SKULL MAN](../Page/鬼面騎士.md "wikilink")（2007年）
@@ -153,7 +154,8 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - （1988年－1989年）
 
-  - [Fate/stay night](../Page/Fate/stay_night.md "wikilink")（2006年）
+  - [Fate/stay
+    night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（2006年）
 
   - [Dragon Crisis\!](../Page/Dragon_Crisis!.md "wikilink")（2011年）
 
@@ -165,9 +167,9 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - （1990年－1991年）
 
-  - [幽☆遊☆白書](../Page/幽遊白書.md "wikilink")（1992年－1995年）
+  - [幽☆遊☆白書](https://zh.wikipedia.org/wiki/幽遊白書 "wikilink")（1992年－1995年）
 
-  - [夢幻遊戲](../Page/夢幻遊戲.md "wikilink")（1995年－1996年）
+  - [夢幻遊戲](https://zh.wikipedia.org/wiki/夢幻遊戲 "wikilink")（1995年－1996年）
 
   - [學校怪談](../Page/學校怪談_\(動畫\).md "wikilink")（2000年－2001年）
 
@@ -198,7 +200,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 <!-- end list -->
 
   - [世紀末超自然學院](../Page/世紀末超自然學院.md "wikilink")（2010年）
-  - [刀劍神域](../Page/刀劍神域.md "wikilink")（2012年）
+  - [刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")（2012年）
   - [超速變形螺旋傑特](../Page/超速變形螺旋傑特.md "wikilink")（2012年－2013年）
 
 <!-- end list -->
@@ -209,9 +211,9 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - （總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，1987年）
 
-  - **[蠟筆小新](../Page/蠟筆小新.md "wikilink")**（總承包商：[SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")，1992年－）
+  - **[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，1992年－）
 
-  - [袖珍女侍小梅](../Page/袖珍女侍小梅.md "wikilink")（總承包商：[TNK](../Page/TNK.md "wikilink")，2000年）
+  - [袖珍女侍小梅](../Page/袖珍女侍小梅.md "wikilink")（總承包商：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")，2000年）
 
   - [神魂合體](../Page/神魂合體.md "wikilink")（總承包商：OLM、[AIC](../Page/動畫國際公司.md "wikilink")→AIC，2003年－2004年）
 
@@ -221,23 +223,24 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [索斯機械獸IV](../Page/索斯機械獸IV.md "wikilink")（總承包商：，2004年－2005年）
 
-  - [電腦線圈](../Page/電腦線圈.md "wikilink")（總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")，2007年）
+  - [電腦線圈](https://zh.wikipedia.org/wiki/電腦線圈 "wikilink")（總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")，2007年）
 
   - [WHITE ALBUM](../Page/白色相簿.md "wikilink")（總承包商：[Seven
     Arcs](../Page/Seven_Arcs.md "wikilink")，2009年）
 
-  - **[Aikatsu！偶像活動！](../Page/Aikatsu！偶像活動！_\(動畫\).md "wikilink")**（總承包商：日昇動畫→[BANDAI
-    NAMCO Pictures](../Page/萬代南夢宮控股.md "wikilink")，2012年－）
+  - **[Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Aikatsu！偶像活動！_\(動畫\) "wikilink")**（總承包商：日昇動畫→[BANDAI
+    NAMCO
+    Pictures](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")，2012年－）
 
   - [進擊的巨人](../Page/進擊的巨人.md "wikilink")（總承包商：[WIT
-    STUDIO](../Page/WIT_STUDIO.md "wikilink")，2013年）
+    STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，2013年）
 
   - [惡之華](../Page/惡之華_\(2009年漫畫\).md "wikilink")（總承包商：[ZEXCS](../Page/ZEXCS.md "wikilink")，2013年）
 
   - [KILL la
     KILL](../Page/KILL_la_KILL.md "wikilink")（總承包商：[TRIGGER](../Page/TRIGGER.md "wikilink")，2013年－2014年）
 
-  - [天體運行式](../Page/天體的秩序.md "wikilink")（總承包商：[3Hz](../Page/3Hz.md "wikilink")，2014年）
+  - [天體運行式](https://zh.wikipedia.org/wiki/天體的秩序 "wikilink")（總承包商：[3Hz](https://zh.wikipedia.org/wiki/3Hz "wikilink")，2014年）
 
 ### OVA
 
@@ -262,7 +265,8 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <!-- end list -->
 
-  - [Studio Fantasia](../Page/Studio_Fantasia.md "wikilink")
+  - [Studio
+    Fantasia](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")
 
 <!-- end list -->
 
@@ -278,7 +282,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")（1991年－1993年）
 
-  - [萬能文化貓娘](../Page/萬能文化貓娘.md "wikilink")（1992年）
+  - [萬能文化貓娘](https://zh.wikipedia.org/wiki/萬能文化貓娘 "wikilink")（1992年）
 
   - （1994年）
 
@@ -292,7 +296,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - （1993年）
 
-  - [駭客任務立體動畫特集](../Page/黑客帝國動畫版.md "wikilink")（2003年）\[3\]
+  - [駭客任務立體動畫特集](https://zh.wikipedia.org/wiki/黑客帝國動畫版 "wikilink")（2003年）\[3\]
 
   - [BLACK LAGOON: Roberta's Blood
     Trail](../Page/企業傭兵.md "wikilink")（2010年）
@@ -317,7 +321,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <!-- end list -->
 
-  - （總承包商：[Takara](../Page/Takara.md "wikilink")，1991年－1992年）
+  - （總承包商：[Takara](https://zh.wikipedia.org/wiki/Takara "wikilink")，1991年－1992年）
 
   - [機械巨神
     地球靜止之日](../Page/機械巨神_地球靜止之日.md "wikilink")（總承包商：[萬代影視](../Page/萬代影視.md "wikilink")、Amuse
@@ -329,7 +333,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
   - [非常偶像Key](../Page/非常偶像Key.md "wikilink")（總承包商：[Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")，1994年）
 
-  - [新·甜心戰士](../Page/甜心戰士.md "wikilink")（總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，1994年－1995年）
+  - [新·甜心戰士](../Page/甜心戰士.md "wikilink")（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，1994年－1995年）
 
   - [宇宙騎士BLADE
     II](../Page/宇宙騎士BLADE.md "wikilink")（總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，1994年－1995年）
@@ -346,7 +350,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [出包王女](../Page/出包王女.md "wikilink")（總承包商：[XEBEC](../Page/XEBEC.md "wikilink")，2009年）
 
-  - [小魔女學園](../Page/小魔女學園.md "wikilink")（總承包商：[TRIGGER](../Page/TRIGGER.md "wikilink")，2013年）
+  - [小魔女學園](https://zh.wikipedia.org/wiki/小魔女學園 "wikilink")（總承包商：[TRIGGER](../Page/TRIGGER.md "wikilink")，2013年）
 
 <!-- end list -->
 
@@ -366,18 +370,18 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 ### 電影動畫
 
-  - [吉卜力工作室](../Page/吉卜力工作室.md "wikilink")
+  - [吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")
 
 <!-- end list -->
 
-  - [紅豬](../Page/紅豬.md "wikilink")（1992年）
+  - [紅豬](https://zh.wikipedia.org/wiki/紅豬 "wikilink")（1992年）
   - [心之谷](../Page/心之谷.md "wikilink")（1995年）
   - [魔法公主](../Page/魔法公主.md "wikilink")（1997年）
-  - [隔壁的山田君](../Page/隔壁的山田君.md "wikilink")（1999年）
-  - [神隱少女](../Page/千與千尋.md "wikilink")（2001年）
-  - [霍爾的移動城堡](../Page/哈爾的移動城堡.md "wikilink")（2004年）
+  - [隔壁的山田君](https://zh.wikipedia.org/wiki/隔壁的山田君 "wikilink")（1999年）
+  - [神隱少女](https://zh.wikipedia.org/wiki/千與千尋 "wikilink")（2001年）
+  - [霍爾的移動城堡](https://zh.wikipedia.org/wiki/哈爾的移動城堡 "wikilink")（2004年）
   - [地海戰記](../Page/地海傳說.md "wikilink")（2006年）
-  - [借物少女艾莉緹](../Page/借物少女艾莉緹.md "wikilink")（2010年）
+  - [借物少女艾莉緹](https://zh.wikipedia.org/wiki/借物少女艾莉緹 "wikilink")（2010年）
   - [風起](../Page/風起.md "wikilink")（2013年）
   - [輝耀姬物語](../Page/輝耀姬物語.md "wikilink")（2013年）
 
@@ -398,7 +402,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 <!-- end list -->
 
   - [新世紀福音戰士劇場版：THE END OF
-    EVANGELION](../Page/新世紀福音戰士劇場版：THE_END_OF_EVANGELION.md "wikilink")（共同製作：[GAINAX](../Page/GAINAX.md "wikilink")，1997年）
+    EVANGELION](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")（共同製作：[GAINAX](../Page/GAINAX.md "wikilink")，1997年）
 
   - [劇場版 秋葉原電腦組：2011年的暑假](../Page/秋葉原電腦組.md "wikilink")（1999年）
 
@@ -406,7 +410,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [人狼 JIN-ROH](../Page/人狼_JIN-ROH.md "wikilink")（2000年）
 
-  - [空中殺手](../Page/空中殺手.md "wikilink")（2008年）
+  - [空中殺手](https://zh.wikipedia.org/wiki/空中殺手 "wikilink")（2008年）
 
   - （2014年）
 
@@ -416,15 +420,15 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <!-- end list -->
 
-  - **[劇場版 神奇寶貝系列](../Page/神奇寶貝劇場版.md "wikilink")**
+  - **[劇場版 神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝劇場版 "wikilink")**
       - [劇場版 神奇寶貝：夢幻之神奇寶貝
         洛奇亞爆誕](../Page/神奇寶貝劇場版：夢幻之神奇寶貝_洛奇亞爆誕.md "wikilink")（1999年）
-          - [皮卡丘的探險隊](../Page/神奇寶貝劇場版：夢幻之神奇寶貝_洛奇亞爆誕#附篇作品.md "wikilink")（1999年）
+          - [皮卡丘的探險隊](https://zh.wikipedia.org/wiki/神奇寶貝劇場版：夢幻之神奇寶貝_洛奇亞爆誕#附篇作品 "wikilink")（1999年）
       - [劇場版 神奇寶貝：結晶塔的帝王](../Page/神奇寶貝劇場版：結晶塔的帝王.md "wikilink")（2000年）
       - [劇場版 神奇寶貝：夢幻與波導的勇者
         路卡利歐](../Page/神奇寶貝劇場版：夢幻與波導的勇者_路卡利歐.md "wikilink")（2005年）
       - [劇場版 神奇寶貝：神奇寶貝保育家與蒼海的王子
-        瑪納霏](../Page/神奇寶貝劇場版：神奇寶貝保育家與蒼海的王子_瑪納霏.md "wikilink")（2006年）
+        瑪納霏](https://zh.wikipedia.org/wiki/神奇寶貝劇場版：神奇寶貝保育家與蒼海的王子_瑪納霏 "wikilink")（2006年）
       - [劇場版 神奇寶貝：決戰時空之塔
         帝牙盧卡VS帕路奇犽VS達克萊伊](../Page/神奇寶貝劇場版：決戰時空之塔_帝牙盧卡VS帕路奇犽VS達克萊伊.md "wikilink")（2007年）
   - [劇場版 動物之森](../Page/劇場版_動物之森.md "wikilink")（2006年）
@@ -439,7 +443,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
   - [超時空甩尾](../Page/超時空甩尾.md "wikilink")（2009年）
   - [劇場版 HUNTER×HUNTER 緋色之幻影](../Page/獵人：緋色之幻影.md "wikilink")（2013年）
   - [劇場版 HUNTER×HUNTER -The LAST
-    MISSION-](../Page/HUNTER×HUNTER.md "wikilink")（2013年）
+    MISSION-](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（2013年）
 
 <!-- end list -->
 
@@ -454,21 +458,21 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <!-- end list -->
 
-  - [SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")
+  - [SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")
 
 <!-- end list -->
 
-  - **[劇場版 哆啦A夢系列](../Page/哆啦A夢電影作品.md "wikilink")**
+  - **[劇場版 哆啦A夢系列](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")**
       - [哆啦A夢：大雄的貓狗時空傳](../Page/大雄的貓狗時空傳.md "wikilink")（2004年）
       - [哆啦A夢：新·大雄的恐龍](../Page/大雄的恐龍2006.md "wikilink")（2006年）
       - [哆啦A夢：新·大雄的魔界大冒險
-        ～7人魔法使～](../Page/新·大雄的魔界大冒險~7人魔法使~.md "wikilink")（2007年）
-  - **[劇場版 蠟筆小新系列](../Page/蠟筆小新.md "wikilink")**
-      - [蠟筆小新：3分鐘百變大進擊](../Page/蠟筆小新：3分鐘百變大進擊.md "wikilink")（2005年）
-      - [蠟筆小新：Amigo！森巴入侵計畫](../Page/蠟筆小新：Amigo！森巴入侵計畫.md "wikilink")（2006年）
-      - [蠟筆小新：小白的屁屁炸彈](../Page/蠟筆小新：小白的屁屁炸彈.md "wikilink")（2007年）
-      - [蠟筆小新：超級美味！B級美食大逃亡\!\!](../Page/蠟筆小新：超級美味！B級美食大逃亡！！.md "wikilink")（2013年）
-      - [蠟筆小新：爆睡！夢世界大作戰](../Page/蠟筆小新：爆睡！夢世界大作戰.md "wikilink")（2016年）
+        ～7人魔法使～](https://zh.wikipedia.org/wiki/新·大雄的魔界大冒險~7人魔法使~ "wikilink")（2007年）
+  - **[劇場版 蠟筆小新系列](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**
+      - [蠟筆小新：3分鐘百變大進擊](https://zh.wikipedia.org/wiki/蠟筆小新：3分鐘百變大進擊 "wikilink")（2005年）
+      - [蠟筆小新：Amigo！森巴入侵計畫](https://zh.wikipedia.org/wiki/蠟筆小新：Amigo！森巴入侵計畫 "wikilink")（2006年）
+      - [蠟筆小新：小白的屁屁炸彈](https://zh.wikipedia.org/wiki/蠟筆小新：小白的屁屁炸彈 "wikilink")（2007年）
+      - [蠟筆小新：超級美味！B級美食大逃亡\!\!](https://zh.wikipedia.org/wiki/蠟筆小新：超級美味！B級美食大逃亡！！ "wikilink")（2013年）
+      - [蠟筆小新：爆睡！夢世界大作戰](https://zh.wikipedia.org/wiki/蠟筆小新：爆睡！夢世界大作戰 "wikilink")（2016年）
 
 <!-- end list -->
 
@@ -492,7 +496,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
     4℃](../Page/STUDIO_4℃.md "wikilink")，1998年）
 
   - [劇場版
-    幸運女神](../Page/幸運女神#劇場版.md "wikilink")（總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，2000年）
+    幸運女神](https://zh.wikipedia.org/wiki/幸運女神#劇場版 "wikilink")（總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，2000年）
 
   - （總承包商：，2002年）
 
@@ -500,12 +504,12 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [勇者物語](../Page/勇者物語.md "wikilink")（總承包商：[GONZO](../Page/GONZO.md "wikilink")，2006年）
 
-  - [瑪麗與魔女之花](../Page/瑪麗與魔女之花.md "wikilink")（總承包商：[Studio
-    Ponoc](../Page/Studio_Ponoc.md "wikilink")，2017年）
+  - [瑪麗與魔女之花](https://zh.wikipedia.org/wiki/瑪麗與魔女之花 "wikilink")（總承包商：[Studio
+    Ponoc](https://zh.wikipedia.org/wiki/Studio_Ponoc "wikilink")，2017年）
 
 ### 網路動畫
 
-  - [SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")
+  - [SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")
 
 <!-- end list -->
 
@@ -549,7 +553,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
   - [赤井俊文](../Page/赤井俊文.md "wikilink")
   - 新城真
   - 伊藤邦彥
-  - [菅野宏紀](../Page/菅野宏紀.md "wikilink")
+  - [菅野宏紀](https://zh.wikipedia.org/wiki/菅野宏紀 "wikilink")
   - 久壽米木信彌
   - 小池智史
 
@@ -557,7 +561,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [田中良](../Page/田中良.md "wikilink")
+  - [田中良](https://zh.wikipedia.org/wiki/田中良 "wikilink")
 
   - 常木志伸
 
@@ -578,7 +582,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 ## 外部連結
 
   - [STUDIO TAKURANKE（舊版）公式官網](http://takuranke.jp/)
-    （2013年8月11日的[檔案館](../Page/網際網路檔案館.md "wikilink")）
+    （2013年8月11日的[檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")）
   - [株式會社STUDIO TAKURANKE公式官網](http://takuranke.jp/)
 
 [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")

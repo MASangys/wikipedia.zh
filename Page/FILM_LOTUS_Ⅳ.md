@@ -4,7 +4,7 @@
 ## 概述
 
   - 與同系列前作《[FILM LOTUS
-    Ⅲ](../Page/FILM_LOTUS_Ⅲ.md "wikilink")》相隔約1年4個月的新作，收錄自《[SEVEN](../Page/SEVEN_\(中島美嘉單曲\).md "wikilink")》至《[櫻花紛飛時](../Page/櫻花紛飛時.md "wikilink")》五首歌曲的音樂錄影帶，以及當中的製作花絮和發售廣告。
+    Ⅲ](https://zh.wikipedia.org/wiki/FILM_LOTUS_Ⅲ "wikilink")》相隔約1年4個月的新作，收錄自《[SEVEN](../Page/SEVEN_\(中島美嘉單曲\).md "wikilink")》至《[櫻花紛飛時](../Page/櫻花紛飛時.md "wikilink")》五首歌曲的音樂錄影帶，以及當中的製作花絮和發售廣告。
   - 本作額外收錄去年6月2日於演唱會「MIKA NAKASHIMA concert tour 2004」安哥演唱《[A MIRACLE
     FOR YOU](../Page/TRUE_唯美生存.md "wikilink")》的珍貴片段。
 

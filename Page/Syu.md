@@ -8,9 +8,9 @@
 小學四年級時受到[X
 JAPAN的鼓手與吉他手影響](../Page/X_Japan.md "wikilink")，之後決定成為一個專業的吉他手\[2\]。
 
-1998年，加入[視覺系樂團Valkyr](../Page/視覺系樂團.md "wikilink")\[3\]。
+1998年，加入[視覺系樂團Valkyr](https://zh.wikipedia.org/wiki/視覺系樂團 "wikilink")\[3\]。
 
-2001年，[重金屬樂團Galneryus成軍](../Page/重金屬樂團.md "wikilink")\[4\]。
+2001年，[重金屬樂團Galneryus成軍](https://zh.wikipedia.org/wiki/重金屬樂團 "wikilink")\[4\]。
 
 2002年，VALKYR解散之後、擔任AUSHVITZ樂團的吉他手（該團之後改名為Spinalcord）\[5\]。
 

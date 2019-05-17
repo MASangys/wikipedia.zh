@@ -1,9 +1,9 @@
-《**TU**》是[堂本剛總計發行的第](../Page/堂本剛.md "wikilink")9張\[1\][專輯](../Page/專輯.md "wikilink")。於2015年5月20日由[SHAMANIPPON發行](../Page/傑尼斯娛樂.md "wikilink")。\[2\]
+《**TU**》是[堂本剛總計發行的第](../Page/堂本剛.md "wikilink")9張\[1\][專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年5月20日由[SHAMANIPPON發行](../Page/傑尼斯娛樂.md "wikilink")。\[2\]
 
 ## 概要
 
 堂本剛於其36岁生日2015年4月10日0時0分，在其官網「SHAMANIPPON」發表本作品發行的消息。本作品是自2014年發行的《[shamanippon
--色顏的命生-](../Page/shamanippon_-色顏的命生-.md "wikilink")》以來，相隔1年3個月的作品。
+-色顏的命生-](https://zh.wikipedia.org/wiki/shamanippon_-色顏的命生- "wikilink")》以來，相隔1年3個月的作品。
 
 本作為堂本剛SOLO
 project「shamanippon」的第三張專輯。本作並沒有像前兩作品一樣以shamanippon冠名亦沒有繼續使用副標題，而是直接使用『TU』作為本作名稱。TU是堂本剛用靈魂、FUNK精神製作出的最新專輯，從封面到樂曲都充滿Crystal永恆的概念。\[3\]FUNK風格經典曲滿載，曲中蘊含著堂本剛對於「現在」這個時代的訊息。
@@ -12,18 +12,19 @@ project「shamanippon」的第三張專輯。本作並沒有像前兩作品一�
 Member之間的流行述語，常會用於替代日語中的「とう」和「す」等發音，例如把「ありがとう」(謝謝)變成「ありが
 TU」。
 
-[佐佐木润首次作為Band](../Page/佐佐木润.md "wikilink") Member参加，亦為本作品擔任编曲。
+[佐佐木润首次作為Band](https://zh.wikipedia.org/wiki/佐佐木润 "wikilink")
+Member参加，亦為本作品擔任编曲。
 
 前作以后發表的作品，在2014年用Web限定發售的單曲「[PANTIES が だしたいんだ
-どしても](../Page/PANTIES_が_だしたいんだ_どしても.md "wikilink")」中的2曲：「紅得像戀愛
+どしても](https://zh.wikipedia.org/wiki/PANTIES_が_だしたいんだ_どしても "wikilink")」中的2曲：「紅得像戀愛
 紅得像愛情」和「就是想FUNK」亦被收錄於本作之中，而 果真
 剛剛好版（初回版A）則特別收錄2014年首次在平安神宮演唱的好評歌曲「鮮紅跳動的心」。
 
 除此之外，堂本剛的個人首張黑膠唱片（れこーどうもとつよし）亦以完全予約生産限定模式於同年9月2日發行。黑膠唱片預定會收錄本專輯其中8首歌曲。(黑膠唱片發行時為其中10首歌曲收錄)
 
 在[Oricon的專輯周榜中](../Page/Oricon.md "wikilink")，獲得初登場的第一位。是繼《[shamanippon
--量力的人-](../Page/shamanippon_-量力的人-.md "wikilink")》（2012年4月發行）、《[翻唱河馬](../Page/翻唱河馬.md "wikilink")》（2013年5月發行）及《[shamanippon
--色顏的命生-](../Page/shamanippon_-色顏的命生-.md "wikilink")》來連續4作品，總計7作品獲得專輯周榜的第一位\[4\]。
+-量力的人-](https://zh.wikipedia.org/wiki/shamanippon_-量力的人- "wikilink")》（2012年4月發行）、《[翻唱河馬](https://zh.wikipedia.org/wiki/翻唱河馬 "wikilink")》（2013年5月發行）及《[shamanippon
+-色顏的命生-](https://zh.wikipedia.org/wiki/shamanippon_-色顏的命生- "wikilink")》來連續4作品，總計7作品獲得專輯周榜的第一位\[4\]。
 
 ## 收錄歌曲
 

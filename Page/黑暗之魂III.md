@@ -1,6 +1,6 @@
 是一款由日本電子遊戲公司[From
-Software製作的](../Page/From_Software.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，亦是《黑暗之魂》系列的第三部作品，於2016年于[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[PlayStation
+Software製作的](https://zh.wikipedia.org/wiki/From_Software "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，亦是《黑暗之魂》系列的第三部作品，於2016年于[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[Xbox
 One平台上发行](../Page/Xbox_One.md "wikilink")。\[1\]
 
@@ -32,27 +32,27 @@ Cinder）。視乎玩家選擇，遊戲共有四個結局。
 
 ## 遊戲玩法
 
-遊戲維持使用第三人身視角。總監[宫崎英高表示玩法與](../Page/宫崎英高.md "wikilink")《[黑暗靈魂](../Page/黑暗靈魂.md "wikilink")》相近\[2\]，玩家可使用一系列武器，包括短弓、炸彈、大劍、雙手劍等，以及使用盾牌格開敵攻擊以免受傷\[3\]，敵攻擊也能透過翻滾進行迴避\[4\]。作為檢查點的「篝火」（Bonfires）也重臨\[5\]；灰燼（Ashen
-one）在遊戲中扮演重要的角色\[6\]；曾於《[惡魔靈魂](../Page/惡魔靈魂.md "wikilink")》中採用的魔力計回歸，使用魔法攻擊將耗用魔力值，事後需使用「原素灰瓶」（Ash
+遊戲維持使用第三人身視角。總監[宫崎英高表示玩法與](https://zh.wikipedia.org/wiki/宫崎英高 "wikilink")《[黑暗靈魂](https://zh.wikipedia.org/wiki/黑暗靈魂 "wikilink")》相近\[2\]，玩家可使用一系列武器，包括短弓、炸彈、大劍、雙手劍等，以及使用盾牌格開敵攻擊以免受傷\[3\]，敵攻擊也能透過翻滾進行迴避\[4\]。作為檢查點的「篝火」（Bonfires）也重臨\[5\]；灰燼（Ashen
+one）在遊戲中扮演重要的角色\[6\]；曾於《[惡魔靈魂](https://zh.wikipedia.org/wiki/惡魔靈魂 "wikilink")》中採用的魔力計回歸，使用魔法攻擊將耗用魔力值，事後需使用「原素灰瓶」（Ash
 Estus Flask）回復。「原素灰瓶」是遊戲中兩種元素瓶之一，另一是能回復生命值的普通「原素瓶」（Estus Flask）\[7\]。
 
 遊戲的戰鬥和行動速度變得更快捷和流暢\[8\]\[9\]，包括背刺和揮舞重型武器在內的部分動作可更快速地進行\[10\]，使玩家能在短時間內對敵人造成更大傷害\[11\]。各敵人均有不同的行為，部分能在戰鬥中改變其作戰方式\[12\]。遊戲引進了名為「戰技」（Skills）的新元素：各武器和盾牌均可透過耗用魔力發動其獨特能力\[13\]。遊戲也加強了角色扮演的成分，改善了武器和容許玩家對遊戲主角進行更多設定以提供更自由的戰術選擇\[14\]。遊戲的地圖數量比前作少但面積更大和更細緻以鼓勵玩家進行探索\[15\]。遊戲廢除了前作的角色數值「適應力」（Adaptability），其餘各數值亦被調整\[16\]。與前兩作相同，遊戲也設有線上多人模式\[17\]。
 
 ## 開發
 
-本作的開發始於2013年年中，早於《[黑暗靈魂II](../Page/黑暗靈魂II.md "wikilink")》發售，《黑暗靈魂II》是由谷村唯、渋谷知廣擔任總監，而非系列創始人[宮崎英高](../Page/宮崎英高.md "wikilink")。\[18\]本作與《[血源詛咒](../Page/血源诅咒.md "wikilink")》同時開發，不過是由兩個不同的團隊分別進行。在開發完《血源詛咒》之後宮崎英高也回歸到《黑暗靈魂III》的總監職位，此外《[重鐵騎](../Page/重铁骑.md "wikilink")》總監岡野勇也加入開發團隊擔任副總監，《黑暗靈魂II》總監谷村唯也有參與開發。\[19\]
+本作的開發始於2013年年中，早於《[黑暗靈魂II](https://zh.wikipedia.org/wiki/黑暗靈魂II "wikilink")》發售，《黑暗靈魂II》是由谷村唯、渋谷知廣擔任總監，而非系列創始人[宮崎英高](https://zh.wikipedia.org/wiki/宮崎英高 "wikilink")。\[18\]本作與《[血源詛咒](../Page/血源诅咒.md "wikilink")》同時開發，不過是由兩個不同的團隊分別進行。在開發完《血源詛咒》之後宮崎英高也回歸到《黑暗靈魂III》的總監職位，此外《[重鐵騎](../Page/重铁骑.md "wikilink")》總監岡野勇也加入開發團隊擔任副總監，《黑暗靈魂II》總監谷村唯也有參與開發。\[19\]
 
 ## 評價
 
 遊戲獲一致好評，評論員對圖像和戰鬥機制予以讚揚，認為與From
-Software的另一遊戲《[血源詛咒](../Page/血源詛咒.md "wikilink")》相似\[20\]\[21\]\[22\]\[23\]\[24\]。《[IGN](../Page/IGN.md "wikilink")》成員Chloi
+Software的另一遊戲《[血源詛咒](https://zh.wikipedia.org/wiki/血源詛咒 "wikilink")》相似\[20\]\[21\]\[22\]\[23\]\[24\]。《[IGN](../Page/IGN.md "wikilink")》成員Chloi
 Rad為遊戲給予9.5/10分，表示《黑暗靈魂III》作為《靈魂系列》的最後作品，是一款及格的送別作\[25\]；《[Eurogamer](../Page/Eurogamer.md "wikilink")》成員Rich
 Stanton以「必須要玩的」形容遊戲，指出《黑暗靈魂III》非常出色，是《靈魂系列》的合適最終作\[26\]；《[Ars
 Technica](../Page/Ars_Technica.md "wikilink")》成員Steven
 Strom認為遊戲保留了《靈魂系列》的流暢和[渲染](../Page/渲染.md "wikilink")，部分頭目戰也屬系列之冠\[27\]；《[衛報](../Page/衛報.md "wikilink")》成員Simon
 Parkin為遊戲給予5/5分，認為遊戲也許欠缺首作的創新，但稱得上是系列中最嶄新和完成程度最高的作品。\[28\]
 
-遊戲的[畫面更新率](../Page/畫面更新率.md "wikilink")、性能表現、直線性質的地圖設計、以及[萬代對遊戲發行的處理手法備受批評](../Page/萬代.md "wikilink")\[29\]\[30\]\[31\]\[32\]\[33\]。《[Polygon](../Page/Polygon.md "wikilink")》成員Philip
+遊戲的[畫面更新率](https://zh.wikipedia.org/wiki/畫面更新率 "wikilink")、性能表現、直線性質的地圖設計、以及[萬代對遊戲發行的處理手法備受批評](../Page/萬代.md "wikilink")\[29\]\[30\]\[31\]\[32\]\[33\]。《[Polygon](../Page/Polygon.md "wikilink")》成員Philip
 Kollar為遊戲給予7/10分，對遊戲缺乏驚喜和隨意式的設計表示失望，認為不論在世界設計、節奏和技術層面，《黑暗靈魂III》均未達水準\[34\]。在4月9日推出的修補檔案修正了部分評論員提及的畫面更新率與技術問題\[35\]。
 
 ## 行銷

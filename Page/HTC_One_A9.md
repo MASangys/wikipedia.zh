@@ -1,5 +1,5 @@
 **HTC One
-A9**是一支由[HTC製造的安卓智慧型手機](../Page/HTC.md "wikilink")，該部手機發表於美國時間的2015年10月20日。.
+A9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機發表於美國時間的2015年10月20日。.
 
 這部手機是基於HTC 2015年旗艦機皇HTC One M9/M9+的重新設計姊妹機，然而這部手機在全球市場定位上是屬於中階手機。
 
@@ -28,7 +28,7 @@ A9**是一支由[HTC製造的安卓智慧型手機](../Page/HTC.md "wikilink")�
 <tr class="even">
 <td><p>通訊協定<br />
 2G</p></td>
-<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a> 國際版：850/900/1800/1900 MHz<br />
+<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a> 國際版：850/900/1800/1900 MHz<br />
 Unlocked, AT&amp;T, T-Mobile and Verizon：2G GSM/GPRS/EDGE: 850/900/1800/1900<br />
 Sprint：2G GSM/GPRS/EDGE: 850/900/1800/1900[2]</p></td>
 </tr>
@@ -45,16 +45,16 @@ Sprint：850/AWS(1700)/1900/2100</p></td>
 <td><p>國際版：FDD：1、3、5、7、8、20、28 頻段 TDD：38、40、41 頻段<br />
 Unlocked, AT&amp;T, T-Mobile and Verizon：FDD 2,3,4,5,7,12,13,17,29<br />
 Sprint：FDD 2,4,5,12,25,26 TDD: 41</p>
-<p>支持<a href="../Page/載波聚合.md" title="wikilink">載波聚合</a>、LTE Cat.7</p></td>
+<p>支持<a href="https://zh.wikipedia.org/wiki/載波聚合" title="wikilink">載波聚合</a>、LTE Cat.7</p></td>
 </tr>
 <tr class="odd">
 <td><p>螢幕</p></td>
-<td><p>Amoled 5 吋、1920×1080<a href="../Page/解析度.md" title="wikilink">解析度</a>(<a href="../Page/1080p.md" title="wikilink">FULL HD 1080p</a>)<br />
+<td><p>Amoled 5 吋、1920×1080<a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a>(<a href="../Page/1080p.md" title="wikilink">FULL HD 1080p</a>)<br />
 <a href="../Page/康寧公司.md" title="wikilink">康寧</a> Gorilla 強化玻璃 4</p></td>
 </tr>
 <tr class="even">
 <td><p>CPU</p></td>
-<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="../Page/Snapdragon.md" title="wikilink">Snapdragon</a> 617八核心，64 位元，4 核 1.5GHz + 4 核 1.2GHz 處理器</p></td>
+<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="https://zh.wikipedia.org/wiki/Snapdragon" title="wikilink">Snapdragon</a> 617八核心，64 位元，4 核 1.5GHz + 4 核 1.2GHz 處理器</p></td>
 </tr>
 <tr class="odd">
 <td><p>GPU</p></td>
@@ -84,7 +84,7 @@ Sprint：FDD 2,4,5,12,25,26 TDD: 41</p>
 <td><p>相機</p></td>
 <td><p>主相機：1300萬畫素<a href="http://en.wikipedia.org/wiki/Backside_illumination">BSI</a> 感測器（SONY IMX214感光元件）<br />
 感測器尺寸 1/3 吋、雙色溫LED 智慧閃光燈 (自動調節亮度)、光學防手震（OIS）<br />
-F2.0 大光圈、1080P錄影、<strong>Hyperlapse 高動態縮時攝影</strong>、<a href="../Page/HDR.md" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿<br />
+F2.0 大光圈、1080P錄影、<strong>Hyperlapse 高動態縮時攝影</strong>、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿<br />
 魔法幻境、影像配對功能的相片集<br />
 藍寶石水晶鏡頭護蓋</p></td>
 </tr>
@@ -95,7 +95,7 @@ F2.0 大光圈、具備 HDR 功能、1080p Full HD 錄影</p></td>
 </tr>
 <tr class="odd">
 <td><p>音效</p></td>
-<td><p>3.5mm 耳機孔、支援<a href="../Page/Hi-res.md" title="wikilink">Hi-res</a>（須由耳機輸出）、搭載<em>' Dolby Audio™</em>' 的HTC BoomSound™ 音響（須由耳機輸出）</p></td>
+<td><p>3.5mm 耳機孔、支援<a href="https://zh.wikipedia.org/wiki/Hi-res" title="wikilink">Hi-res</a>（須由耳機輸出）、搭載<em>' Dolby Audio™</em>' 的HTC BoomSound™ 音響（須由耳機輸出）</p></td>
 </tr>
 <tr class="even">
 <td><p>顏色</p></td>
@@ -103,16 +103,16 @@ F2.0 大光圈、具備 HDR 功能、1080p Full HD 錄影</p></td>
 </tr>
 <tr class="odd">
 <td><p>感應</p></td>
-<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="../Page/重力感應器.md" title="wikilink">重力感應器</a>、<a href="../Page/趨近感應器.md" title="wikilink">趨近感應器</a>、<a href="../Page/照度感測器.md" title="wikilink">環境光線感應器</a>、<a href="../Page/數位羅盤.md" title="wikilink">數位羅盤</a>、加速度感測器、Sensor Hub、<a href="../Page/指紋辨識器.md" title="wikilink">指紋辨識器</a>、<a href="../Page/磁力感應器.md" title="wikilink">磁力感應器</a></p></td>
+<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="https://zh.wikipedia.org/wiki/重力感應器" title="wikilink">重力感應器</a>、<a href="https://zh.wikipedia.org/wiki/趨近感應器" title="wikilink">趨近感應器</a>、<a href="https://zh.wikipedia.org/wiki/照度感測器" title="wikilink">環境光線感應器</a>、<a href="https://zh.wikipedia.org/wiki/數位羅盤" title="wikilink">數位羅盤</a>、加速度感測器、Sensor Hub、<a href="https://zh.wikipedia.org/wiki/指紋辨識器" title="wikilink">指紋辨識器</a>、<a href="https://zh.wikipedia.org/wiki/磁力感應器" title="wikilink">磁力感應器</a></p></td>
 </tr>
 <tr class="even">
 <td><p>衛星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/GLONASS.md" title="wikilink">GLONASS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>傳輸</p></td>
-<td><p><a href="../Page/microUSB.md" title="wikilink">microUSB</a> 2.0<br />
-<a href="../Page/NFC.md" title="wikilink">NFC</a>、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="../Page/A2DP.md" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/microUSB" title="wikilink">microUSB</a> 2.0<br />
+<a href="https://zh.wikipedia.org/wiki/NFC" title="wikilink">NFC</a>、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="https://zh.wikipedia.org/wiki/A2DP" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -125,10 +125,12 @@ F2.0 大光圈、具備 HDR 功能、1080p Full HD 錄影</p></td>
 
 ### 硬體
 
-外型相似於 [One M8](../Page/HTC_One_\(M8\).md "wikilink")，這部手機採用一體成型的金屬機身，全機重
+外型相似於 [One
+M8](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")，這部手機採用一體成型的金屬機身，全機重
 ，機身高度145.75公釐，寬度70.8公釐，厚度7.26公釐\[4\]。面板採用五吋的[Super
-AMOLED](../Page/AMOLED#Super_AMOLED.md "wikilink")， 1920 x 1080
-[畫素](../Page/畫素.md "wikilink")，以及 440 ppi\[5\]。
+AMOLED](https://zh.wikipedia.org/wiki/AMOLED#Super_AMOLED "wikilink")，
+1920 x 1080 [畫素](https://zh.wikipedia.org/wiki/畫素 "wikilink")，以及 440
+ppi\[5\]。
 
 中央處理器採用高通Snapdragon 617八核心處理器。但該手機有兩個不同的版本一種是內部記憶體(ROM) 16 GB搭配 2 GB RAM
 ；另外一種是內部記憶體32 GB搭配 3 GB RAM。兩種裝置都可以透過microSD card 擴充，上限至2 TB。
@@ -153,8 +155,8 @@ Marshmallow](../Page/Android_Marshmallow.md "wikilink")
 ## 軼事
 
 A9外觀太像[IPhone
-6](../Page/IPhone_6.md "wikilink")，包括凸起的後鏡頭、閃光燈、指紋辨識器，背面天線，就連未發佈之前的諜照也長的太像[IPhone
-6](../Page/IPhone_6.md "wikilink")，外媒還稱：「一台跑著Android
+6](https://zh.wikipedia.org/wiki/IPhone_6 "wikilink")，包括凸起的後鏡頭、閃光燈、指紋辨識器，背面天線，就連未發佈之前的諜照也長的太像[IPhone
+6](https://zh.wikipedia.org/wiki/IPhone_6 "wikilink")，外媒還稱：「一台跑著Android
 6.0系統、售價399美元的iPhone」。
 
 ## 發售資訊

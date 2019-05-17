@@ -1,6 +1,6 @@
-《**LAST**》（）為[韓國](../Page/韓國.md "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2015年7月24日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[黃金帝國](../Page/黃金帝國.md "wikilink")》、《[追擊者
+《**LAST**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC自](../Page/JTBC.md "wikilink")2015年7月24日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[黃金帝國](../Page/黃金帝國.md "wikilink")》、《[追擊者
 THE
-CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Page/趙南國.md "wikilink")《[狗與狼的時間](../Page/狗與狼的時間.md "wikilink")》[韓智勳編劇攜手打造](../Page/韓智勳.md "wikilink")。講述了原本在證券行業呼風喚雨的男主人公因一次投資失敗而在一夜間失去一切淪為流浪漢，在有森嚴等級制度的流浪漢組織中一步一步往上爬，最終推翻組織頭目掌握組織主導權的故事。\[1\]
+CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Page/趙南國.md "wikilink")《[狗與狼的時間](https://zh.wikipedia.org/wiki/狗與狼的時間 "wikilink")》[韓智勳編劇攜手打造](https://zh.wikipedia.org/wiki/韓智勳 "wikilink")。講述了原本在證券行業呼風喚雨的男主人公因一次投資失敗而在一夜間失去一切淪為流浪漢，在有森嚴等級制度的流浪漢組織中一步一步往上爬，最終推翻組織頭目掌握組織主導權的故事。\[1\]
 
 ## 演員陣容
 
@@ -17,42 +17,42 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 
 ### 地下世界
 
-|                                         |        |                                                     |
-| --------------------------------------- | ------ | --------------------------------------------------- |
-| **演員**                                  | **角色** | **介紹**                                              |
-| [孔炯軫](../Page/孔炯軫.md "wikilink")        | 車海震    | 37歲                                                 |
-| [鄭鐘俊](../Page/鄭鐘俊.md "wikilink")        | 趙會長    | 64歲                                                 |
-| [安世河](../Page/安世河.md "wikilink")        | 孔英七    | 27歲                                                 |
-| [金池勳](../Page/金池勳.md "wikilink")        | 吳工頭    | 46歲                                                 |
-| [金亨奎](../Page/金亨奎.md "wikilink")        | 螳螂     | 30代，郭興三的保鑣兼殺手                                       |
-| [尹帝文](../Page/尹帝文.md "wikilink")        | 鍘刀     | 40代，流浪者No.3，神秘的人物。因得知裴中士死亡消息，決意離開首爾站                |
-| [李哲民](../Page/李哲民_\(演員\).md "wikilink") | 毒蛇     | 36歲，流浪者No.4                                         |
-| [張元英](../Page/張元英_\(演員\).md "wikilink") | 鱷魚     | 39歲，流浪者No.5                                         |
-| [金英雄](../Page/金英雄.md "wikilink")        | 裴中士    | 41歲，流浪者No.6，收受回扣。因為不滿泰浩快速上位，想悄無聲息的殺掉泰浩，最後被興三派來的螳螂殺死 |
-| [趙在允](../Page/趙在允.md "wikilink")        | 蛇眼     | 35歲，流浪者No.7，首爾地區回扣管理                                |
+|                                                            |        |                                                     |
+| ---------------------------------------------------------- | ------ | --------------------------------------------------- |
+| **演員**                                                     | **角色** | **介紹**                                              |
+| [孔炯軫](../Page/孔炯軫.md "wikilink")                           | 車海震    | 37歲                                                 |
+| [鄭鐘俊](https://zh.wikipedia.org/wiki/鄭鐘俊 "wikilink")        | 趙會長    | 64歲                                                 |
+| [安世河](https://zh.wikipedia.org/wiki/安世河 "wikilink")        | 孔英七    | 27歲                                                 |
+| [金池勳](https://zh.wikipedia.org/wiki/金池勳 "wikilink")        | 吳工頭    | 46歲                                                 |
+| [金亨奎](../Page/金亨奎.md "wikilink")                           | 螳螂     | 30代，郭興三的保鑣兼殺手                                       |
+| [尹帝文](../Page/尹帝文.md "wikilink")                           | 鍘刀     | 40代，流浪者No.3，神秘的人物。因得知裴中士死亡消息，決意離開首爾站                |
+| [李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink") | 毒蛇     | 36歲，流浪者No.4                                         |
+| [張元英](https://zh.wikipedia.org/wiki/張元英_\(演員\) "wikilink") | 鱷魚     | 39歲，流浪者No.5                                         |
+| [金英雄](../Page/金英雄.md "wikilink")                           | 裴中士    | 41歲，流浪者No.6，收受回扣。因為不滿泰浩快速上位，想悄無聲息的殺掉泰浩，最後被興三派來的螳螂殺死 |
+| [趙在允](../Page/趙在允.md "wikilink")                           | 蛇眼     | 35歲，流浪者No.7，首爾地區回扣管理                                |
 
 ### 其他人物
 
-|                                  |          |                              |
-| -------------------------------- | -------- | ---------------------------- |
-| **演員**                           | **角色**   | **介紹**                       |
-| [李龍宇](../Page/李龍宇.md "wikilink") | 姜世勳（郭興秀） | 35歲，韓中集團企劃戰略室次長，貞敏的戀人，郭興三的弟弟 |
-| [具在伊](../Page/具在伊.md "wikilink") | 尹貞敏      | 32歲，泰浩的舊情人，韓中集團尹日中會長的私生女     |
-| [李道慶](../Page/李道慶.md "wikilink") | 鄭萬出      | 54歲，明洞地區惡名昭彰的高利貸社長           |
-| [金鐘九](../Page/金鐘九.md "wikilink") | 尹日中會長    | 66歲，韓日集團會長，貞敏的父親             |
-| [潘曉靜](../Page/潘曉靜.md "wikilink") | 將軍奶奶     | 68歲，大園食堂主人，娜拉的奶奶             |
-| [朴赫權](../Page/朴赫權.md "wikilink") | 朴民秀      | 36歲，泰浩大學前輩                   |
-| [朴宰雄](../Page/朴宰雄.md "wikilink") |          |                              |
+|                                                     |          |                              |
+| --------------------------------------------------- | -------- | ---------------------------- |
+| **演員**                                              | **角色**   | **介紹**                       |
+| [李龍宇](../Page/李龍宇.md "wikilink")                    | 姜世勳（郭興秀） | 35歲，韓中集團企劃戰略室次長，貞敏的戀人，郭興三的弟弟 |
+| [具在伊](../Page/具在伊.md "wikilink")                    | 尹貞敏      | 32歲，泰浩的舊情人，韓中集團尹日中會長的私生女     |
+| [李道慶](https://zh.wikipedia.org/wiki/李道慶 "wikilink") | 鄭萬出      | 54歲，明洞地區惡名昭彰的高利貸社長           |
+| [金鐘九](https://zh.wikipedia.org/wiki/金鐘九 "wikilink") | 尹日中會長    | 66歲，韓日集團會長，貞敏的父親             |
+| [潘曉靜](../Page/潘曉靜.md "wikilink")                    | 將軍奶奶     | 68歲，大園食堂主人，娜拉的奶奶             |
+| [朴赫權](../Page/朴赫權.md "wikilink")                    | 朴民秀      | 36歲，泰浩大學前輩                   |
+| [朴宰雄](https://zh.wikipedia.org/wiki/朴宰雄 "wikilink") |          |                              |
 
 ### 特別出演
 
-|                                  |        |        |
-| -------------------------------- | ------ | ------ |
-| **演員**                           | **角色** | **介紹** |
-| [朴根瀅](../Page/朴根瀅.md "wikilink") |        |        |
-| [張成奎](../Page/張成奎.md "wikilink") |        |        |
-| [宋民教](../Page/宋民教.md "wikilink") |        |        |
-| [趙敏兒](../Page/趙敏兒.md "wikilink") | 柳恩智    | 柳忠九的女兒 |
+|                                                     |        |        |
+| --------------------------------------------------- | ------ | ------ |
+| **演員**                                              | **角色** | **介紹** |
+| [朴根瀅](../Page/朴根瀅.md "wikilink")                    |        |        |
+| [張成奎](https://zh.wikipedia.org/wiki/張成奎 "wikilink") |        |        |
+| [宋民教](https://zh.wikipedia.org/wiki/宋民教 "wikilink") |        |        |
+| [趙敏兒](https://zh.wikipedia.org/wiki/趙敏兒 "wikilink") | 柳恩智    | 柳忠九的女兒 |
 
 ## 原聲帶
 
@@ -86,7 +86,7 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>標題</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 全國收視率[2]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 全國收視率[2]</p></th>
 <th><p>排行</p></th>
 <th><p>TNmS 全國收視率[3]</p></th>
 </tr>
@@ -255,7 +255,7 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 <!-- end list -->
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[守護家族](../Page/守護家族.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[像你的女兒](../Page/像你的女兒.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[像你的女兒](../Page/像你的女兒.md "wikilink")》
 
 <!-- end list -->
 
@@ -264,7 +264,7 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 <!-- end list -->
 
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[青鳥之家](../Page/青鳥之家.md "wikilink")》、《[拜託了，媽媽](../Page/拜託了，媽媽.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》、《[媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》、《[媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink")》
 
 ## 腳註
 

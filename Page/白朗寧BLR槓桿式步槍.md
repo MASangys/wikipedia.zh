@@ -1,23 +1,23 @@
 **白朗寧BLR**（全稱：**B**rowning **L**ever-action
-**R**ifle，意為：白朗寧槓桿式步槍）是一款由[美国槍械公司](../Page/美国.md "wikilink")[白朗寧武器公司所生產的](../Page/白朗寧武器公司.md "wikilink")[步枪](../Page/步枪.md "wikilink")。它具有許多不同的[口徑與衍生型](../Page/口徑.md "wikilink")，可發射由、到等傳統[口徑的](../Page/口徑.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
+**R**ifle，意為：白朗寧槓桿式步槍）是一款由[美国槍械公司](../Page/美国.md "wikilink")[白朗寧武器公司所生產的](https://zh.wikipedia.org/wiki/白朗寧武器公司 "wikilink")[步枪](../Page/步枪.md "wikilink")。它具有許多不同的[口徑與衍生型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，可發射由、到等傳統[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 設計
 
-BLR採用的是可拆卸式彈匣。正因如此，BLR可以裝填[彈頭型子彈](../Page/彈丸.md "wikilink")，而通常的[步枪都因較為常用](../Page/步枪.md "wikilink")[管式彈倉而不適合該彈頭](../Page/彈匣#管式彈倉.md "wikilink")。另一個區別是齒輪傳動桿和槍機設計，可適應高膛壓的現代麥格農子彈。另一個顯著特點是，槓桿正被操作時，其亦會與槓桿一起移動，這樣使控制桿復位關閉時，可以防止射手扣扳機的手指被夾住在槓桿和[槍托之間](../Page/槍托.md "wikilink")。
+BLR採用的是可拆卸式彈匣。正因如此，BLR可以裝填[彈頭型子彈](https://zh.wikipedia.org/wiki/彈丸 "wikilink")，而通常的[步枪都因較為常用](../Page/步枪.md "wikilink")[管式彈倉而不適合該彈頭](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。另一個區別是齒輪傳動桿和槍機設計，可適應高膛壓的現代麥格農子彈。另一個顯著特點是，槓桿正被操作時，其亦會與槓桿一起移動，這樣使控制桿復位關閉時，可以防止射手扣扳機的手指被夾住在槓桿和[槍托之間](../Page/槍托.md "wikilink")。
 
 [Browning_BLR_Steel_7mm.jpg](https://zh.wikipedia.org/wiki/File:Browning_BLR_Steel_7mm.jpg "fig:Browning_BLR_Steel_7mm.jpg")的白朗寧BLR（請注意在槍機開放在露出的齒輪）\]\]
 
 ## 衍生型
 
 1960年代，白朗寧武器公司生產BLR。\[2\]原來的“M81
-BLR”修訂型具有[钢製](../Page/钢.md "wikilink")[機匣](../Page/機匣.md "wikilink")；在後來的1995年，這被改為[鋁合金製機匣並以](../Page/鋁合金.md "wikilink")“M81輕型BLR”之名推出。雖然這使得得步槍較為輕便，有些持有者還是喜歡鋼製機匣版本。M81還包括改變槍機的改進。\[3\]\[4\]步槍被製成短槍機型和長槍機型型號以適應各種的[口徑](../Page/口徑.md "wikilink")，並可選用直握把或手槍握把的槍托。此外還可選用型號，以便於運輸和航運。\[5\]黑色標籤版本包括一個堅固的直握把式層壓木製槍托，具有磨砂黑色表面處理的金屬製品，眾多的[皮卡汀尼](../Page/皮卡汀尼導軌.md "wikilink")[瞄准镜基座](../Page/瞄准镜.md "wikilink")，還有安裝在16英寸的槍管末端的圓滑。
+BLR”修訂型具有[钢製](../Page/钢.md "wikilink")[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")；在後來的1995年，這被改為[鋁合金製機匣並以](../Page/鋁合金.md "wikilink")“M81輕型BLR”之名推出。雖然這使得得步槍較為輕便，有些持有者還是喜歡鋼製機匣版本。M81還包括改變槍機的改進。\[3\]\[4\]步槍被製成短槍機型和長槍機型型號以適應各種的[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，並可選用直握把或手槍握把的槍托。此外還可選用型號，以便於運輸和航運。\[5\]黑色標籤版本包括一個堅固的直握把式層壓木製槍托，具有磨砂黑色[表面處理的金屬製品](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，眾多的[皮卡汀尼](../Page/皮卡汀尼導軌.md "wikilink")[瞄准镜基座](../Page/瞄准镜.md "wikilink")，還有安裝在16英寸的槍管末端的圓滑。
 
 ## 可發射子弹
 
 白朗寧BLR提供的口徑是：\[6\]
 
   -
-  - [.223雷明登](../Page/.223_Remington.md "wikilink")（[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](../Page/北大西洋公约组织.md "wikilink")\]）
+  - [.223雷明登](../Page/.223_Remington.md "wikilink")（[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")\]）
 
   -
   -
@@ -28,7 +28,7 @@ BLR”修訂型具有[钢製](../Page/钢.md "wikilink")[機匣](../Page/機匣.
   - [.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")
 
   -
-  - [.308溫徹斯特](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約口徑](../Page/北大西洋公约组织.md "wikilink")）
+  - [.308溫徹斯特](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")）
 
   -
   -
@@ -38,8 +38,8 @@ BLR”修訂型具有[钢製](../Page/钢.md "wikilink")[機匣](../Page/機匣.
   -
 ## 參見
 
-  - [溫徹斯特連發步槍](../Page/溫徹斯特連發步槍.md "wikilink")
-  - [溫徹斯特M1895槓桿式步槍](../Page/溫徹斯特M1895槓桿式步槍.md "wikilink")
+  - [溫徹斯特連發步槍](https://zh.wikipedia.org/wiki/溫徹斯特連發步槍 "wikilink")
+  - [溫徹斯特M1895槓桿式步槍](https://zh.wikipedia.org/wiki/溫徹斯特M1895槓桿式步槍 "wikilink")
 
 ## 資料來源
 

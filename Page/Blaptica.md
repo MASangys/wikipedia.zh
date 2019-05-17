@@ -1,4 +1,4 @@
-**Blaptica屬**為[節肢動物門](../Page/節肢動物門.md "wikilink")[蜚蠊目](../Page/蜚蠊目.md "wikilink")[匍蜚蠊科的](../Page/匍蜚蠊科.md "wikilink")[昆蟲](../Page/昆蟲.md "wikilink")，當中以[杜比亞蟑螂](../Page/杜比亞蟑螂.md "wikilink")（學名：）常用作爬蟲[飼料用途](../Page/飼料.md "wikilink")。
+**Blaptica屬**為[節肢動物門](https://zh.wikipedia.org/wiki/節肢動物門 "wikilink")[蜚蠊目](../Page/蜚蠊目.md "wikilink")[匍蜚蠊科的](../Page/匍蜚蠊科.md "wikilink")[昆蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")，當中以[杜比亞蟑螂](https://zh.wikipedia.org/wiki/杜比亞蟑螂 "wikilink")（學名：）常用作爬蟲[飼料用途](https://zh.wikipedia.org/wiki/飼料 "wikilink")。
 
 ## 物種列表
 

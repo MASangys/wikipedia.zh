@@ -1,5 +1,5 @@
 《**Cars
-3：閃電再起**》（）是一部由[皮克斯動畫工作室製作](../Page/皮克斯動畫工作室.md "wikilink")、並由[華特迪士尼發行的](../Page/華特迪士尼影業.md "wikilink")2017年美國[3D](../Page/3D電影.md "wikilink")[電腦動畫電影](../Page/電腦動畫.md "wikilink")，為執導。本片為2011年的電影《[Cars
+3：閃電再起**》（）是一部由[皮克斯動畫工作室製作](https://zh.wikipedia.org/wiki/皮克斯動畫工作室 "wikilink")、並由[華特迪士尼發行的](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")2017年美國[3D](../Page/3D電影.md "wikilink")[電腦動畫電影](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，為執導。本片為2011年的電影《[Cars
 2：世界大賽](../Page/Cars_2：世界大賽.md "wikilink")》的續集，北美於2017年6月16日上映\[1\]。
 
 ## 劇情
@@ -41,12 +41,12 @@ Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新�
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王牌接线员拉里.md" title="wikilink">王牌接线员拉里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王牌接线员拉里" title="wikilink">王牌接线员拉里</a></p></td>
 <td><p><a href="../Page/康康.md" title="wikilink">康康</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/艾米·汉莫.md" title="wikilink">艾米·汉莫</a></p></td>
-<td><p><a href="../Page/張騰.md" title="wikilink">張騰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾米·汉莫" title="wikilink">艾米·汉莫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張騰" title="wikilink">張騰</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -63,7 +63,7 @@ Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/杜素真.md" title="wikilink">杜素真</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜素真" title="wikilink">杜素真</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/凯莉·华盛顿.md" title="wikilink">凯莉·华盛顿</a></p></td>
@@ -86,7 +86,7 @@ Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新�
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鮑伯·彼得森.md" title="wikilink">鮑伯·彼得森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鮑伯·彼得森" title="wikilink">鮑伯·彼得森</a></p></td>
 <td><p><a href="../Page/陳國偉_(配音員).md" title="wikilink">陳國偉</a></p></td>
 </tr>
 <tr class="even">
@@ -179,14 +179,14 @@ Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/陳旭升.md" title="wikilink">陳旭升</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳旭升" title="wikilink">陳旭升</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/安德拉·戴.md" title="wikilink">安德拉·戴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安德拉·戴" title="wikilink">安德拉·戴</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -202,7 +202,7 @@ Disney
 
 ### 評價
 
-[爛番茄上根據](../Page/爛番茄.md "wikilink")211條評論，持有69%的新鮮度，平均得分為6.1/10\[8\]，而在[Metacritic上則獲得了](../Page/Metacritic.md "wikilink")59分，綜合結果為「混合或中等評價」\[9\]。據[CinemaScore所進行的調查](../Page/影院評分.md "wikilink")，觀眾的平均評價於A+至F間落於「A」\[10\]。
+[爛番茄上根據](../Page/爛番茄.md "wikilink")211條評論，持有69%的新鮮度，平均得分為6.1/10\[8\]，而在[Metacritic上則獲得了](../Page/Metacritic.md "wikilink")59分，綜合結果為「混合或中等評價」\[9\]。據[CinemaScore所進行的調查](https://zh.wikipedia.org/wiki/影院評分 "wikilink")，觀眾的平均評價於A+至F間落於「A」\[10\]。
 
 ### 票房
 
@@ -210,8 +210,8 @@ Disney
 
 ## 參見
 
-  - [皮克斯](../Page/皮克斯.md "wikilink")
-  - [迪士尼](../Page/迪士尼.md "wikilink")
+  - [皮克斯](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")
+  - [迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")
   - [汽車總動員](../Page/汽車總動員.md "wikilink")
   - [Cars 2：世界大賽](../Page/Cars_2：世界大賽.md "wikilink")
 

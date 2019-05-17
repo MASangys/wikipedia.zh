@@ -1,5 +1,5 @@
-RSA號碼列表，[英文](../Page/英文.md "wikilink"):是一系列的RSA加密演算法所使用的序號列表。許多人相信，合理使用下這些序號是能保護一些重要機密。目前被用來當作病毒使用的有768/1024/2048。據知他們均是變種來的電腦綁架病毒。
-目前要破解2048僅只能依靠[超級電腦](../Page/超級電腦.md "wikilink")。受感染的檔案將上傳至某伺服器，對方會要求贖金，並威脅不繳交贖金即撕票。\[1\]\[2\]\[3\]\[4\]\[5\]
+RSA號碼列表，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink"):是一系列的RSA加密演算法所使用的序號列表。許多人相信，合理使用下這些序號是能保護一些重要機密。目前被用來當作病毒使用的有768/1024/2048。據知他們均是變種來的電腦綁架病毒。
+目前要破解2048僅只能依靠[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")。受感染的檔案將上傳至某伺服器，對方會要求贖金，並威脅不繳交贖金即撕票。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 <table>
 <thead>
@@ -10,19 +10,19 @@ RSA號碼列表，[英文](../Page/英文.md "wikilink"):是一系列的RSA加�
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="../Page/#RSA-100.md" title="wikilink">RSA-100</a></li>
-<li><a href="../Page/#RSA-110.md" title="wikilink">RSA-110</a></li>
-<li><a href="../Page/#RSA-120.md" title="wikilink">RSA-120</a></li>
-<li><a href="../Page/#RSA-129.md" title="wikilink">RSA-129</a></li>
-<li><a href="../Page/#RSA-130.md" title="wikilink">RSA-130</a></li>
-<li><a href="../Page/#RSA-140.md" title="wikilink">RSA-140</a></li>
-<li><a href="../Page/#RSA-150.md" title="wikilink">RSA-150</a></li>
-<li><a href="../Page/#RSA-155.md" title="wikilink">RSA-155</a></li>
-<li><a href="../Page/#RSA-160.md" title="wikilink">RSA-160</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-100" title="wikilink">RSA-100</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-110" title="wikilink">RSA-110</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-120" title="wikilink">RSA-120</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-129" title="wikilink">RSA-129</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-130" title="wikilink">RSA-130</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-140" title="wikilink">RSA-140</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-150" title="wikilink">RSA-150</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-155" title="wikilink">RSA-155</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/#RSA-160" title="wikilink">RSA-160</a></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>  <a href="../Page/#See_also.md" title="wikilink">See also</a>     <a href="../Page/#Notes.md" title="wikilink">Notes</a>     <a href="../Page/#References.md" title="wikilink">References</a>     <a href="../Page/#External_links.md" title="wikilink">External links</a> __NOTOC__</p></td>
+<td><p>  <a href="https://zh.wikipedia.org/wiki/#See_also" title="wikilink">See also</a>     <a href="https://zh.wikipedia.org/wiki/#Notes" title="wikilink">Notes</a>     <a href="https://zh.wikipedia.org/wiki/#References" title="wikilink">References</a>     <a href="https://zh.wikipedia.org/wiki/#External_links" title="wikilink">External links</a> __NOTOC__</p></td>
 </tr>
 </tbody>
 </table>

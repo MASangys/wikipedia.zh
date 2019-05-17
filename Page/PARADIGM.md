@@ -9,7 +9,7 @@
   - 2002年5月**Can♥d select**（キャンディセレクト）創刊，2004年7月停刊。
   - 2002年9月**GLASS BLUE NOVELS**（グラスブルーノベルス）創刊，2003年4月停刊。
   - 2008年10月協助[Visual
-    Art's的](../Page/Visual_Art's.md "wikilink")**[VA文庫](../Page/VA文庫.md "wikilink")**創刊和發售。
+    Art's的](../Page/Visual_Art's.md "wikilink")**[VA文庫](https://zh.wikipedia.org/wiki/VA文庫 "wikilink")**創刊和發售。
   - 2009年10月**ぷちぱら文庫**創刊。
   - 2010年2月**heroine select**（ヒロインセレクト）創刊，2010年9月停刊。
   - 2010年12月**まるち文庫**創刊，2013年12月停刊。

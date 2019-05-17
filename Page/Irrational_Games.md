@@ -2,7 +2,7 @@
 Ltd**），成立于1997年，由Looking Glass
 Studios的三名前雇员：肯·莱文，崔泰源乔纳森和Robert
 Fermier创立。
-2006年1月9日，[Take-Two宣布](../Page/Take-Two.md "wikilink")，他们已经购买该工作室，并会在[2K
+2006年1月9日，[Take-Two宣布](https://zh.wikipedia.org/wiki/Take-Two "wikilink")，他们已经购买该工作室，并会在[2K
 Games品牌发布游戏](../Page/2K_Games.md "wikilink")。
 
 Irrational Games最大的两个工作室分别在美国马萨诸塞州昆西和澳大利亚堪培拉。
@@ -26,53 +26,53 @@ Australia进行《生化奇兵2》的工作。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac</a></p></td>
 <td><p><a href="../Page/PlayStation_3.md" title="wikilink">PS3</a></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Win</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Win</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
-<td><p><em><a href="../Page/System_Shock_2.md" title="wikilink">System Shock 2</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/System_Shock_2" title="wikilink">System Shock 2</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
-<td><p><em><a href="../Page/Freedom_Force_(2002_video_game).md" title="wikilink">Freedom Force</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Freedom_Force_(2002_video_game)" title="wikilink">Freedom Force</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><em><a href="../Page/Tribes:_Vengeance.md" title="wikilink">Tribes: Vengeance</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tribes:_Vengeance" title="wikilink">Tribes: Vengeance</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2005</p></td>
-<td><p><em><a href="../Page/Freedom_Force_vs_the_3rd_Reich.md" title="wikilink">Freedom Force vs the 3rd Reich</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Freedom_Force_vs_the_3rd_Reich" title="wikilink">Freedom Force vs the 3rd Reich</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><em><a href="../Page/SWAT_4.md" title="wikilink">SWAT 4</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SWAT_4" title="wikilink">SWAT 4</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
-<td><p><em><a href="../Page/SWAT_4:_The_Stetchkov_Syndicate.md" title="wikilink">SWAT 4: The Stetchkov Syndicate</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SWAT_4:_The_Stetchkov_Syndicate" title="wikilink">SWAT 4: The Stetchkov Syndicate</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><em><a href="../Page/BioShock.md" title="wikilink">BioShock</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock" title="wikilink">BioShock</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><em><a href="../Page/BioShock_2.md" title="wikilink">BioShock 2</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock_2" title="wikilink">BioShock 2</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><em><a href="../Page/BioShock_Infinite.md" title="wikilink">BioShock Infinite</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock_Infinite" title="wikilink">BioShock Infinite</a></em></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -83,9 +83,11 @@ Australia进行《生化奇兵2》的工作。
   - *Deep Cover*
   - *Division 9*
   - *Monster Island*
-  - *[The Lost](../Page/The_Lost_\(video_game\).md "wikilink")*
+  - *[The
+    Lost](https://zh.wikipedia.org/wiki/The_Lost_\(video_game\) "wikilink")*
   - *Freedom Force 3*
-  - *Untitled [BioShock](../Page/BioShock_\(series\).md "wikilink")
+  - *Untitled
+    [BioShock](https://zh.wikipedia.org/wiki/BioShock_\(series\) "wikilink")
     [Vita](../Page/PlayStation_Vita.md "wikilink") game*
 
 ## 参考资料
@@ -100,7 +102,7 @@ Australia进行《生化奇兵2》的工作。
   - [2K Australia (Canberra, ACT)](http://www.2kaustralia.com/)
   - [*Irrational
     Games*](http://www.mobygames.com/company/irrational-games) profile
-    on [MobyGames](../Page/MobyGames.md "wikilink")
+    on [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
 [Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
 [Category:2014年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2014年結業電子遊戲公司 "wikilink")

@@ -1,48 +1,48 @@
-《**我要當歌手**2》（）是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")（台視）[綜藝節目](../Page/綜藝節目.md "wikilink")，是《[紅白紅白我勝利](../Page/紅白紅白我勝利.md "wikilink")》、《[綜藝十八班](../Page/綜藝十八班.md "wikilink")》、《[百萬大明星](../Page/百萬大明星.md "wikilink")》的續作，號稱全台最大格局選秀節目，[友松傳播製作](../Page/友松傳播.md "wikilink")，製作人為[薛聖棻](../Page/薛聖棻.md "wikilink")、陳俊良、黃琳容、翁偉祥、沈丹桂，主持人為[黃子佼](../Page/黃子佼.md "wikilink")，阿毛老師率領Super
-Band伴奏，2015年4月19日起每[週日](../Page/週日.md "wikilink")[晚上](../Page/晚上.md "wikilink")08:00首播。\[1\]
+《**我要當歌手**2》（）是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")（台視）[綜藝節目](../Page/綜藝節目.md "wikilink")，是《[紅白紅白我勝利](../Page/紅白紅白我勝利.md "wikilink")》、《[綜藝十八班](../Page/綜藝十八班.md "wikilink")》、《[百萬大明星](../Page/百萬大明星.md "wikilink")》的續作，號稱全台最大格局選秀節目，[友松傳播製作](https://zh.wikipedia.org/wiki/友松傳播 "wikilink")，製作人為[薛聖棻](../Page/薛聖棻.md "wikilink")、陳俊良、黃琳容、翁偉祥、沈丹桂，主持人為[黃子佼](../Page/黃子佼.md "wikilink")，阿毛老師率領Super
+Band伴奏，2015年4月19日起每[週日](https://zh.wikipedia.org/wiki/週日 "wikilink")[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")08:00首播。\[1\]
 
 2015年4月19日改版，由愛妮雅化妝品集團（Altamoda Cosmetics
-Group）冠名[贊助](../Page/贊助.md "wikilink")，其正式節目名稱變更為《**愛妮雅化妝品Super
+Group）冠名[贊助](https://zh.wikipedia.org/wiki/贊助 "wikilink")，其正式節目名稱變更為《**愛妮雅化妝品Super
 Star我要當歌手**》。
 
 ## 每集评审
 
-|       |                                  |                                  |                                  |
-| ----- | -------------------------------- | -------------------------------- | -------------------------------- |
-| 集數    | 評審一                              | 評審二                              | 評審三                              |
-| 第99集  | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第100集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第101集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第102集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第103集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第104集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第105集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [陳嘉樺](../Page/陳嘉樺.md "wikilink") |
-| 第106集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [林隆璇](../Page/林隆璇.md "wikilink") |
-| 第107集 | [王治平](../Page/王治平.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第108集 | [陳建寧](../Page/陳建寧.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第109集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第110集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第111集 | [王治平](../Page/王治平.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第112集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第113集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第114集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第115集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第116集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第117集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第118集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第119集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [王治平](../Page/王治平.md "wikilink") |
-| 第120集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [王治平](../Page/王治平.md "wikilink") |
-| 第121集 | [金智娟](../Page/金智娟.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [王治平](../Page/王治平.md "wikilink") |
-| 第122集 | [巫啟賢](../Page/巫啟賢.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [王治平](../Page/王治平.md "wikilink") |
-| 第123集 | [張宇](../Page/張宇.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第124集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第125集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](../Page/張小燕.md "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
-| 第126集 | [陳建寧](../Page/陳建寧.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [邱瓈寬](../Page/邱瓈寬.md "wikilink") |
-| 第127集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [陳建寧](../Page/陳建寧.md "wikilink") |
-| 第128集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [王治平](../Page/王治平.md "wikilink") |
-| 第129集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [李聖傑](../Page/李聖傑.md "wikilink") |
-| 第130集 | [王治平](../Page/王治平.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [黃品源](../Page/黃品源.md "wikilink") |
-| 第131集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](../Page/張小燕.md "wikilink") | [王治平](../Page/王治平.md "wikilink") |
+|       |                                  |                                                     |                                  |
+| ----- | -------------------------------- | --------------------------------------------------- | -------------------------------- |
+| 集數    | 評審一                              | 評審二                                                 | 評審三                              |
+| 第99集  | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第100集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第101集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第102集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第103集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第104集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第105集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [陳嘉樺](../Page/陳嘉樺.md "wikilink") |
+| 第106集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [林隆璇](../Page/林隆璇.md "wikilink") |
+| 第107集 | [王治平](../Page/王治平.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第108集 | [陳建寧](../Page/陳建寧.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第109集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第110集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第111集 | [王治平](../Page/王治平.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第112集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第113集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第114集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第115集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第116集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第117集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第118集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第119集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [王治平](../Page/王治平.md "wikilink") |
+| 第120集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [王治平](../Page/王治平.md "wikilink") |
+| 第121集 | [金智娟](../Page/金智娟.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [王治平](../Page/王治平.md "wikilink") |
+| 第122集 | [巫啟賢](../Page/巫啟賢.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [王治平](../Page/王治平.md "wikilink") |
+| 第123集 | [張宇](../Page/張宇.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第124集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第125集 | [品冠](../Page/品冠.md "wikilink")   | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [游鴻明](../Page/游鴻明.md "wikilink") |
+| 第126集 | [陳建寧](../Page/陳建寧.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [邱瓈寬](../Page/邱瓈寬.md "wikilink") |
+| 第127集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [陳建寧](../Page/陳建寧.md "wikilink") |
+| 第128集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [王治平](../Page/王治平.md "wikilink") |
+| 第129集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [李聖傑](../Page/李聖傑.md "wikilink") |
+| 第130集 | [王治平](../Page/王治平.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [黃品源](../Page/黃品源.md "wikilink") |
+| 第131集 | [邱瓈寬](../Page/邱瓈寬.md "wikilink") | [張小燕](https://zh.wikipedia.org/wiki/張小燕 "wikilink") | [王治平](../Page/王治平.md "wikilink") |
 
 ## 比賽內容
 
@@ -57,11 +57,11 @@ Star我要當歌手**》。
 总分较高的一组全员晋级，较低一组队长选择淘汰两位队员，平手兩隊各淘汰一位隊員。
 第103集起，新增大来宾帮帮唱回合。
 
-| 队伍 | 队长                               |
-| -- | -------------------------------- |
-| 红队 | [梁文音](../Page/梁文音.md "wikilink") |
-| 白队 | [蔡旻佑](../Page/蔡旻佑.md "wikilink") |
-| 黄队 | [黄子佼](../Page/黄子佼.md "wikilink") |
+| 队伍 | 队长                                                  |
+| -- | --------------------------------------------------- |
+| 红队 | [梁文音](../Page/梁文音.md "wikilink")                    |
+| 白队 | [蔡旻佑](https://zh.wikipedia.org/wiki/蔡旻佑 "wikilink") |
+| 黄队 | [黄子佼](https://zh.wikipedia.org/wiki/黄子佼 "wikilink") |
 
 **获胜次数**
 
@@ -3403,4 +3403,4 @@ ONE NIGHT IN 北京</p></td>
 [Category:友松傳播製作電視節目](https://zh.wikipedia.org/wiki/Category:友松傳播製作電視節目 "wikilink")
 
 1.  [選秀節目新改版 參賽者出絕招"求存活"　紅白合唱兩隊大PK 隊長帶領團隊爭取勝利　殘酷舞台淘汰賽
-    選手使渾身解數拚了\!](http://www.ttv.com.tw/104/04/1040419/10404190024500L.htm?from=568)，《[台视新闻](../Page/台视新闻.md "wikilink")》，2015年4月19日
+    選手使渾身解數拚了\!](http://www.ttv.com.tw/104/04/1040419/10404190024500L.htm?from=568)，《[台视新闻](https://zh.wikipedia.org/wiki/台视新闻 "wikilink")》，2015年4月19日

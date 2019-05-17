@@ -1,5 +1,5 @@
 《**NORN9 命運九重奏**》（）是於2013年5月30日發售的[PlayStation
-Portable戀愛](../Page/PlayStation_Portable.md "wikilink")[遊戲](../Page/遊戲.md "wikilink")。
+Portable戀愛](../Page/PlayStation_Portable.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。
 
 ## 遊戲概要
 
@@ -93,16 +93,16 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
     動畫版最後和驅在一起。
   -
     配音員：[高垣彩陽](../Page/高垣彩陽.md "wikilink")
-    18歲　星座／處女座　血型／[A型](../Page/A型.md "wikilink")
+    18歲　星座／處女座　血型／[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")
     遊戲的女主角之一（可改名）。 成熟美少女。
-    因為是[公家出身](../Page/公家.md "wikilink")，周遭的人都視她為掌上名珠般養育。[姬髮式並在左面配有白色絲帶](../Page/姬髮式.md "wikilink")，黑色眼瞳。
+    因為是[公家出身](../Page/公家.md "wikilink")，周遭的人都視她為掌上名珠般養育。[姬髮式並在左面配有白色絲帶](https://zh.wikipedia.org/wiki/姬髮式 "wikilink")，黑色眼瞳。
     雖然有大小姐的脾氣，但是責任感勁強，很會照顧別人。因為從來沒有跟青梅竹馬以外的男性接觸，所以在船上生活有點吃力。
     能力是開展「結界」，曾經自身能力守護神社和權貴。
     從小就被教育「能力是由神所賜予的東西，十分珍貴」，所以一直炫耀自己的能力。
     動畫版最後和夏彥在一起。
   -
     配音員：[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")
-    16歲　星座／白羊座　血型／[AB型](../Page/AB型.md "wikilink")
+    16歲　星座／白羊座　血型／[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")
     遊戲的女主角之一（可改名）。在傳統的[忍者家族出生](../Page/忍者.md "wikilink")，所以體質不錯，善於隱藏痕跡。淺紫色短曲髮，紫色眼瞳，左眼角下有一粒淚痣。有著人偶般的美麗卻沉默寡言的少女。
     因為甚少表示自己的意思，所以難懂她的感受。雖然帶給人的感覺很古怪和違和感，卻對人心微妙地敏感。
     能力是消除「記憶」。小時候一直被命令消除別人的記憶。對於自己的能力打從心底般的恐懼，一向討厭它。
@@ -113,7 +113,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
   -
     配音員：[梶裕貴](../Page/梶裕貴.md "wikilink")　戀愛主題：**純愛**\[4\]
-    18歲　生日／7月25日　星座／獅子座　血型／[B型](../Page/B型.md "wikilink")。
+    18歲　生日／7月25日　星座／獅子座　血型／[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
     金色短髮配有金色眼瞳。開朗溫柔的好青年。
     腦筋靈活，結合積極和自己方式把大家集結起來。
     也有用人唯才的策士一面，卻有一部分被認為是腹黑。
@@ -122,7 +122,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
     動畫版最後和小春在一起。
   -
     配音員：[下野紘](../Page/下野紘.md "wikilink")　戀愛主題：**渇望**\[5\]
-    16歲　生日／2月22日　星座／雙魚座　血型／[B型](../Page/B型.md "wikilink")。
+    16歲　生日／2月22日　星座／雙魚座　血型／[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
     茶色短髮配有藍色眼瞳，臉上有刺青。
     雖然是個長得英俊的美少年，思想卻極為消極。
     因為有被周遭的人欺凌的過去，所以不擅於跟不信任的人類相處。
@@ -133,7 +133,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
   -
     配音員：[佐藤拓也](../Page/佐藤拓也.md "wikilink")　戀愛主題：**運命**\[6\]
-    24歲　生日／1月4日　星座／魔羯座　血型／[A型](../Page/A型.md "wikilink")。
+    24歲　生日／1月4日　星座／魔羯座　血型／[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     棕色短髮配有綠色眼瞳。
     很會照顧別人，就像各位年輕成員的大哥哥般存在。
     頭腦聰明，最笨拙的地方是手。時常成為爭吵的裁判，吃虧的事滿多。
@@ -146,7 +146,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
   -
     配音員：[小野大輔](../Page/小野大輔.md "wikilink")　戀愛主題：**敵對**\[7\]
-    22歲　生日／10月11日　星座／天秤座　血型／[O型](../Page/O型.md "wikilink")。
+    22歲　生日／10月11日　星座／天秤座　血型／[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     茶色短髮配有茶色眼瞳。
     冷靜思考，臨危不亂。
     因為有苦衷，而追殺乘搭NORN的能力者。
@@ -252,7 +252,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 <!-- end list -->
 
   -
-    配音員：[浜田賢二](../Page/浜田賢二.md "wikilink")
+    配音員：[浜田賢二](https://zh.wikipedia.org/wiki/浜田賢二 "wikilink")
     在能力使用者之前偶爾出現的壯年男士。
     與特定的會人物關係頗深，而且對世界滿清楚似的…
     遊戲第1季開始時名字不明，但事實上是驅的義父。而且，曾是小春的保護者「旅人先生」。
@@ -260,7 +260,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 <!-- end list -->
 
   -
-    配音員：[市来光弘](../Page/市来光弘.md "wikilink")
+    配音員：[市来光弘](https://zh.wikipedia.org/wiki/市来光弘 "wikilink")
     與夏彦共同行動的少年。
     精通機械，並以行動支持夏彦。
     不過因為異常的言行還滿多的，所以被人冷漠對待。
@@ -290,7 +290,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 <!-- end list -->
 
   -
-    球體狀的巨大飛船，名字『NORN』是希臘神話中「[命運三女神](../Page/命運三女神.md "wikilink")」。
+    球體狀的巨大飛船，名字『NORN』是希臘神話中「[命運三女神](https://zh.wikipedia.org/wiki/命運三女神 "wikilink")」。
     它的構造就像由城市改遠而成的飛船，有居住區、郊外、森林和水邊。
     沒有引擎，彷彿就如浮雲般無聲，飄浮似地前進。
     儘管這首船只乘載了能力者和小雞……
@@ -341,13 +341,13 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 ### NORN9 命運九重奏
 
   - 片頭曲「Melee」
-    作曲：[小野貴光](../Page/小野貴光.md "wikilink")／編曲：戶田章世／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
+    作曲：[小野貴光](https://zh.wikipedia.org/wiki/小野貴光 "wikilink")／編曲：戶田章世／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
 
 <!-- end list -->
 
   - 片尾曲「Many Universes」
     作曲、編曲 -
-    [藤末樹](../Page/藤末樹.md "wikilink")／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
+    [藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
 
 <!-- end list -->
 
@@ -357,7 +357,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 ### NORN9 LAST ERA
 
   - 片頭曲「Foe」
-    作曲：[小野貴光](../Page/小野貴光.md "wikilink")／編曲：戶田章世／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
+    作曲：[小野貴光](https://zh.wikipedia.org/wiki/小野貴光 "wikilink")／編曲：戶田章世／作詞、歌：[柳柳](../Page/柳柳.md "wikilink")
 
 <!-- end list -->
 
@@ -369,7 +369,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 ### 網上廣播
 
 「NORN9
-命運九重奏」NORN廣播局於2013年11月8日至2014年7月25日，向[電視動畫發佈網上廣播劇組](../Page/電視動畫.md "wikilink")。主持是遊佐浩二（飾演
+命運九重奏」NORN廣播局於2013年11月8日至2014年7月25日，向[電視動畫發佈網上廣播劇組](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。主持是遊佐浩二（飾演
 加賀見一月）。每月2次更新。
 
   - 嘉賓
@@ -394,7 +394,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
 ## 流動情報
 
-  - 本作的角色咕牌於[社交遊戲](../Page/社交遊戲.md "wikilink")[生命之樹〜時間之世界樹〜中參戰](../Page/生命之樹〜時間之世界樹〜.md "wikilink")。
+  - 本作的角色咕牌於[社交遊戲](https://zh.wikipedia.org/wiki/社交遊戲 "wikilink")[生命之樹〜時間之世界樹〜中參戰](https://zh.wikipedia.org/wiki/生命之樹〜時間之世界樹〜 "wikilink")。
 
 ## 電視動畫
 
@@ -438,7 +438,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 
   - 插曲「」（第12話）
     作詞：日山尚，作曲、編曲：kevin
-    penkin，主唱：[愛音](../Page/愛音.md "wikilink")（[柳柳](../Page/柳柳.md "wikilink")）
+    penkin，主唱：[愛音](https://zh.wikipedia.org/wiki/愛音 "wikilink")（[柳柳](../Page/柳柳.md "wikilink")）
 
 ### 各話標題
 
@@ -482,7 +482,7 @@ ACT TUNE**』（ノルン＋ノネット アクト チューン）的PS Vita光�
 <td></td>
 <td><p>萌芽之春</p></td>
 <td><p>高木聖子</p></td>
-<td><p><a href="../Page/入江泰浩.md" title="wikilink">入江泰浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/入江泰浩" title="wikilink">入江泰浩</a></p></td>
 <td><p>飯野慎也</p></td>
 <td><p>Lee Duk Ho<br />
 Kim Jung Eun<br />
@@ -494,7 +494,7 @@ Cha Sang Hoon</p></td>
 <td><p>4</p></td>
 <td></td>
 <td><p>那是誰的小夜曲</p></td>
-<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
 <td><p>松前武生</p></td>
 <td><p><a href="../Page/中山由美.md" title="wikilink">中山由美</a></p></td>
 <td></td>
@@ -551,7 +551,7 @@ Cha Sang Hoon</p></td>
 <td><p>9</p></td>
 <td></td>
 <td><p>各自的真實</p></td>
-<td><p><a href="../Page/大橋譽志光.md" title="wikilink">大橋譽志光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大橋譽志光" title="wikilink">大橋譽志光</a></p></td>
 <td><p>松前武生</p></td>
 <td><p>Lee Duk Ho<br />
 Cha Sang Hoon</p></td>
@@ -641,13 +641,13 @@ kinemacitrus</p></td>
 
 ### 播放電視台
 
-| 播放地區                             | 播放電視台                                      | 播放日期              | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播局                                    | 備註  |
-| -------------------------------- | ------------------------------------------ | ----------------- | ----------------------------------------------------------------------- | ---------------------------------------- | --- |
-| 日本全國                             | [AT-X](../Page/AT-X.md "wikilink")         | 2016年1月7日－3月31日   | 星期四 21時30分－22時00分                                                       | [衛星電視](../Page/衛星電視.md "wikilink")       | 有重播 |
-| [東京都](../Page/東京都.md "wikilink") | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 星期四 23時30分－24時00分 | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                                  |                                          |     |
-| 日本全國                             | [BS11](../Page/BS11.md "wikilink")         | 星期四 25時00分－25時30分 | 衛星電視                                                                    | [ANIME+節目](../Page/ANIME+.md "wikilink") |     |
-| [兵庫縣](../Page/兵庫縣.md "wikilink") | [SUN電視台](../Page/SUN電視台.md "wikilink")     | 星期四 25時30分－26時00分 | 獨立局                                                                     |                                          |     |
-|                                  |                                            |                   |                                                                         |                                          |     |
+| 播放地區                                                | 播放電視台                                                         | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播局                                                 | 備註  |
+| --------------------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --- |
+| 日本全國                                                | [AT-X](../Page/AT-X.md "wikilink")                            | 2016年1月7日－3月31日   | 星期四 21時30分－22時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | 有重播 |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 星期四 23時30分－24時00分 | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                                                                        |                                                       |     |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期四 25時00分－25時30分 | 衛星電視                                                                                                          | [ANIME+節目](../Page/ANIME+.md "wikilink")              |     |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期四 25時30分－26時00分 | 獨立局                                                                                                           |                                                       |     |
+|                                                     |                                                               |                   |                                                                                                               |                                                       |     |
 
 ## 參考資料
 

@@ -1,5 +1,5 @@
 **HTC One
-X9**是一支由[HTC製造的安卓智慧型手機](../Page/HTC.md "wikilink")，該部手機首次發表於北京時間的2015年12月24日。而後又在2016年[MWC上發表該機的國際版並追加金](../Page/MWC.md "wikilink")、粉雙色。這部手機在全球市場定位上是屬於中階手機。
+X9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機首次發表於北京時間的2015年12月24日。而後又在2016年[MWC上發表該機的國際版並追加金](https://zh.wikipedia.org/wiki/MWC "wikilink")、粉雙色。這部手機在全球市場定位上是屬於中階手機。
 
 ## 詳細規格
 
@@ -13,7 +13,7 @@ X9**是一支由[HTC製造的安卓智慧型手機](../Page/HTC.md "wikilink")�
 <tbody>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="../Page/Android歷史版本.md" title="wikilink">6.0(Marshmallow)</a>（中國版最初為5.0）</p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="https://zh.wikipedia.org/wiki/Android歷史版本" title="wikilink">6.0(Marshmallow)</a>（中國版最初為5.0）</p></td>
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
@@ -26,7 +26,7 @@ X9**是一支由[HTC製造的安卓智慧型手機](../Page/HTC.md "wikilink")�
 <tr class="even">
 <td><p>通訊協定<br />
 2G</p></td>
-<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
+<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
 </tr>
 <tr class="odd">
 <td><p>協定<br />
@@ -40,12 +40,12 @@ X9**是一支由[HTC製造的安卓智慧型手機](../Page/HTC.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p>螢幕</p></td>
-<td><p>Amoled 5.5 吋、1920×1080<a href="../Page/解析度.md" title="wikilink">解析度</a>（<a href="../Page/1080p.md" title="wikilink">FULL HD 1080p</a>）<br />
+<td><p>Amoled 5.5 吋、1920×1080<a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a>（<a href="../Page/1080p.md" title="wikilink">FULL HD 1080p</a>）<br />
 <a href="../Page/康寧公司.md" title="wikilink">康寧</a> Gorilla 強化玻璃</p></td>
 </tr>
 <tr class="even">
 <td><p>CPU</p></td>
-<td><p><a href="../Page/聯發科.md" title="wikilink">聯發科</a> Helio X10（6795T） 八核心，64 位元，8 核 2.2GHz 處理器</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聯發科" title="wikilink">聯發科</a> Helio X10（6795T） 八核心，64 位元，8 核 2.2GHz 處理器</p></td>
 </tr>
 <tr class="odd">
 <td><p>GPU</p></td>
@@ -75,7 +75,7 @@ X9**是一支由[HTC製造的安卓智慧型手機](../Page/HTC.md "wikilink")�
 <td><p>相機</p></td>
 <td><p>主相機：1300萬畫素<a href="http://en.wikipedia.org/wiki/Backside_illumination">BSI</a> 感測器（SONY IMX214感光元件）<br />
 感測器尺寸 1/3 吋、雙色溫LED智慧閃光燈（自動調節亮度）、光學防手震（OIS）<br />
-F2.0 大光圈、4K錄影、<strong>Hyperlapse 高動態縮時攝影</strong>、<a href="../Page/HDR.md" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿、27.3mm廣角<br />
+F2.0 大光圈、4K錄影、<strong>Hyperlapse 高動態縮時攝影</strong>、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿、27.3mm廣角<br />
 魔法幻境、影像配對功能的相片集<br />
 </p></td>
 </tr>
@@ -86,7 +86,7 @@ F2.8光圈、33.7mm廣角、具備 HDR 功能、1080p Full HD 錄影</p></td>
 </tr>
 <tr class="odd">
 <td><p>音效</p></td>
-<td><p>3.5mm 耳機孔、支援<a href="../Page/Hi-res.md" title="wikilink">Hi-res</a>（須由耳機輸出）、雙前置喇叭、搭載<em>' Dolby Audio™</em>' 的HTC BoomSound™ 音響（須由耳機輸出）</p></td>
+<td><p>3.5mm 耳機孔、支援<a href="https://zh.wikipedia.org/wiki/Hi-res" title="wikilink">Hi-res</a>（須由耳機輸出）、雙前置喇叭、搭載<em>' Dolby Audio™</em>' 的HTC BoomSound™ 音響（須由耳機輸出）</p></td>
 </tr>
 <tr class="even">
 <td><p>顏色</p></td>
@@ -94,16 +94,16 @@ F2.8光圈、33.7mm廣角、具備 HDR 功能、1080p Full HD 錄影</p></td>
 </tr>
 <tr class="odd">
 <td><p>感應</p></td>
-<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="../Page/重力感應器.md" title="wikilink">重力感應器</a>、<a href="../Page/趨近感應器.md" title="wikilink">趨近感應器</a>、<a href="../Page/照度感測器.md" title="wikilink">環境光線感應器</a>、<a href="../Page/數位羅盤.md" title="wikilink">數位羅盤</a>、加速度感測器、Sensor Hub</p></td>
+<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="https://zh.wikipedia.org/wiki/重力感應器" title="wikilink">重力感應器</a>、<a href="https://zh.wikipedia.org/wiki/趨近感應器" title="wikilink">趨近感應器</a>、<a href="https://zh.wikipedia.org/wiki/照度感測器" title="wikilink">環境光線感應器</a>、<a href="https://zh.wikipedia.org/wiki/數位羅盤" title="wikilink">數位羅盤</a>、加速度感測器、Sensor Hub</p></td>
 </tr>
 <tr class="even">
 <td><p>衛星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/GLONASS.md" title="wikilink">GLONASS</a>、<a href="../Page/北斗衛星.md" title="wikilink">北斗衛星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a>、<a href="https://zh.wikipedia.org/wiki/北斗衛星" title="wikilink">北斗衛星</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>傳輸</p></td>
-<td><p><a href="../Page/microUSB.md" title="wikilink">microUSB</a> 2.0<br />
-<a href="../Page/NFC.md" title="wikilink">NFC</a>（中國版無）、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="../Page/A2DP.md" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/microUSB" title="wikilink">microUSB</a> 2.0<br />
+<a href="https://zh.wikipedia.org/wiki/NFC" title="wikilink">NFC</a>（中國版無）、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="https://zh.wikipedia.org/wiki/A2DP" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
 </tr>
 <tr class="even">
 <td></td>

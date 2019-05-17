@@ -1,23 +1,23 @@
 **AOA Cream**（韓文：**에이오에이
-크림**），為韓國女子團體[AOA的子團體](../Page/AOA_\(韓國\).md "wikilink")。由AOA中的三位成員[徐酉奈](../Page/徐酉奈.md "wikilink")、[申惠晶和](../Page/申惠晶.md "wikilink")[金澯美組成](../Page/金澯美.md "wikilink")，並在V
+크림**），為韓國女子團體[AOA的子團體](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")。由AOA中的三位成員[徐酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[申惠晶和](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")[金澯美組成](https://zh.wikipedia.org/wiki/金澯美 "wikilink")，並在V
 APP直播節目中選出最年長的**徐酉奈**擔任隊長 。有別於本團AOA性感的風格，AOA Cream為可愛活潑帶點性感的風格。
 
 ## 成員資料
 
-| 成員列表\[1\]                                    |
-| -------------------------------------------- |
-| 藝名                                           |
-| 漢字                                           |
-| [酉奈](../Page/酉奈.md "wikilink")               |
-| [惠晶](../Page/:ko:혜정.md "wikilink")           |
-| [澯美](../Page/:ko:찬미_\(1996년\).md "wikilink") |
+| 成員列表\[1\]                                                       |
+| --------------------------------------------------------------- |
+| 藝名                                                              |
+| 漢字                                                              |
+| [酉奈](../Page/酉奈.md "wikilink")                                  |
+| [惠晶](https://zh.wikipedia.org/wiki/:ko:혜정 "wikilink")           |
+| [澯美](https://zh.wikipedia.org/wiki/:ko:찬미_\(1996년\) "wikilink") |
 
 ## 摘要
 
 ### 2016年
 
 AOA
-Cream是[韓國女子團體](../Page/韓國.md "wikilink")[AOA的子團體](../Page/AOA.md "wikilink")，由團體中的[徐酉奈](../Page/徐酉奈.md "wikilink")、[申惠晶和](../Page/申惠晶.md "wikilink")[金澯美組成](../Page/金澯美.md "wikilink")，她們的風格有別於AOA的性感路線，為可愛活潑帶點性感的風格，帶著數位新單曲《질투
+Cream是[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[AOA的子團體](../Page/AOA.md "wikilink")，由團體中的[徐酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[申惠晶和](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")[金澯美組成](https://zh.wikipedia.org/wiki/金澯美 "wikilink")，她們的風格有別於AOA的性感路線，為可愛活潑帶點性感的風格，帶著數位新單曲《질투
 나요 BABY（I'm Jelly BABY）》於2月12日，通過在You Tube上公開MV與韓國各音源站公開音源正式出道。
 
 ## 單曲
@@ -83,7 +83,7 @@ Cream是[韓國女子團體](../Page/韓國.md "wikilink")[AOA的子團體](../P
 
   -
 
-  - [AOA](http://cafe.daum.net/aceofangels)的[Daum](../Page/Daum.md "wikilink")
+  - [AOA](http://cafe.daum.net/aceofangels)的[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink")
     cafe專頁
 
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

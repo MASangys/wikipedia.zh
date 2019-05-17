@@ -1,13 +1,13 @@
 **SIG
 P938**是一系列由[西格-紹爾研製研製及生產的袖珍型單動型](../Page/西格&紹爾.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，並且在2012年（美國著名槍展）以上首度展出，是[SIG
-P238手槍的](../Page/SIG_P238手槍.md "wikilink")[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑版本](../Page/口徑.md "wikilink")。
+P238手槍的](../Page/SIG_P238手槍.md "wikilink")[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 ## 設計細節
 
 ### 基本指標
 
 SIG P938是[SIG
-P238以及其前身](../Page/SIG_P238手槍.md "wikilink")（都是）的稍微加大版本。與其他許多9毫米袖珍手槍不同，其[底把為金屬製造](../Page/机匣.md "wikilink")。所有P938型號所採用的是[陽極氧化](../Page/陽極氧化.md "wikilink")[鋁合金底把](../Page/鋁合金.md "wikilink")，而套筒是由[不銹鋼製造並有著裸露或SIG的](../Page/不銹鋼.md "wikilink")塗層兩種表面處理。[扳機扣力固定在](../Page/扳機扣力.md "wikilink")7.5—8.5英鎊之間。\[1\]
+P238以及其前身](../Page/SIG_P238手槍.md "wikilink")（都是）的稍微加大版本。與其他許多9毫米袖珍手槍不同，其[底把為金屬製造](https://zh.wikipedia.org/wiki/机匣 "wikilink")。所有P938型號所採用的是[陽極氧化](https://zh.wikipedia.org/wiki/陽極處理 "wikilink")[鋁合金底把](../Page/鋁合金.md "wikilink")，而套筒是由[不銹鋼製造並有著裸露或SIG的](https://zh.wikipedia.org/wiki/不銹鋼 "wikilink")塗層兩種[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。[扳機扣力固定在](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")7.5—8.5英鎊之間。\[1\]
 
 SIG
 P938有三款握把護板，分別是木製握把、極限型G-10[复合材料製握把或是在](../Page/复合材料.md "wikilink")“運動”型號時包裹握把周圍的黑色[橡膠製握把](../Page/橡膠.md "wikilink")。
@@ -16,7 +16,7 @@ P938手槍的齊平適型彈匣的容量為6發，另外原廠也提供7發延�
 
 ### 構造設計
 
-P938手槍呈Ｕ形的握把護板將握把的前端及左右兩側全部包裹住，護板兩側製有大型顆粒的麻點型防滑紋，能在手心出汗以下保持良好的握持。握把護板前方、[扳機護圈以下亦設有讓手指休息的手指凹槽完全按照手指的形狀設計](../Page/扳機護環.md "wikilink")。而未被握把護板包裹住的握把後部下方則設有波浪狀防滑紋。這些設計均使握持握把時非常牢固、舒適，[人機工效較好](../Page/人因工程学.md "wikilink")。
+P938手槍呈Ｕ形的握把護板將握把的前端及左右兩側全部包裹住，護板兩側製有大型顆粒的麻點型防滑紋，能在手心出汗以下保持良好的握持。握把護板前方、[扳機護圈以下亦設有讓手指休息的手指凹槽完全按照手指的形狀設計](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。而未被握把護板包裹住的握把後部下方則設有波浪狀防滑紋。這些設計均使握持握把時非常牢固、舒適，[人機工效較好](../Page/人因工程学.md "wikilink")。
 
 P938手槍的手動保險位於套筒座後部兩側，將保險扳向上方為保險狀態，無論位於待擊位置還是擊發位置均能將擊錘鎖定，使之無法轉動而確保安全；將保險扳至下方的解除保險狀態即可進行射擊。
 
@@ -24,7 +24,7 @@ P938手槍的彈匣卡筍位於握把左側、扳機護圈後方，彈匣卡筍�
 
 位於套筒座左側的槍身分解桿兼作空槍挂機桿，平時的空槍挂機桿處於下方位置。當打光彈匣內的子彈以後、套筒後座到位時，彈匣托彈板將空槍挂機桿後端向上抬起，空槍挂機桿後端上部突起部卡入套筒前部空槍挂機槽以內，將套筒阻於後方位置呈空槍挂機狀態，提示使用者需要更換彈匣。裝上新彈匣以後、將空槍挂機桿後端向下扳動，或是直接向後拉一下套筒並鬆開，即可解脫空槍挂機狀態；套筒復進時將彈匣最上方一發子彈推入膛室並且閉鎖，完成下一發子彈的射擊準備。
 
-P938手槍的[機械瞄具為前方片狀](../Page/機械瞄具.md "wikilink")[準星及後方缺口式](../Page/照準器.md "wikilink")[照門所組成的SIGLITE三點式準星](../Page/照門.md "wikilink")。為了便於光線昏暗條件以下瞄準，其準星和照門後方均裝有[氚光管](../Page/氚.md "wikilink")。
+P938手槍的[機械瞄具為前方片狀](../Page/機械瞄具.md "wikilink")[準星及後方缺口式](../Page/照準器.md "wikilink")[照門所組成的SIGLITE三點式準星](https://zh.wikipedia.org/wiki/照門 "wikilink")。為了便於光線昏暗條件以下瞄準，其準星和照門後方均裝有[氚光管](../Page/氚.md "wikilink")。
 
 ## 衍生型
 
@@ -33,22 +33,25 @@ P938製有多個衍生型，分別是AG型、黑木型、春分型、極限型�
 ### P938-22
 
 另外，2015年，[西格-紹爾也推出了P](../Page/西格&紹爾.md "wikilink")938手槍的[.22
-LR](../Page/.22_LR.md "wikilink")[口徑版本](../Page/口徑.md "wikilink")，專門針對女性和兒童射擊娛樂。除了擴大了其外形尺寸，還採用了延長的彈匣設計，彈匣容彈量為10發。有採用紅木製和[橡膠製握把護板兩種](../Page/橡膠.md "wikilink")。其中標靶型還把槍管和套筒增長到全尺寸手槍的長度。
+LR](../Page/.22_LR.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")，專門針對女性和兒童射擊娛樂。除了擴大了其外形尺寸，還採用了延長的彈匣設計，彈匣容彈量為10發。有採用紅木製和[橡膠製握把護板兩種](../Page/橡膠.md "wikilink")。其中標靶型還把槍管和套筒增長到全尺寸手槍的長度。
 
 ## 參見
 
   - [貝瑞塔BU9 Nano手槍](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")
   - [格洛克43](../Page/格洛克43.md "wikilink")
-  - [Hi-Point C-9手槍](../Page/Hi-Point_C-9手槍.md "wikilink")
-  - [Kel-Tec PF-9手槍](../Page/Kel-Tec_PF-9手槍.md "wikilink")
-  - [莫斯伯格MC1sc手槍](../Page/莫斯伯格MC1sc手槍.md "wikilink")
+  - [Hi-Point
+    C-9手槍](https://zh.wikipedia.org/wiki/Hi-Point_C-9手槍 "wikilink")
+  - [Kel-Tec
+    PF-9手槍](https://zh.wikipedia.org/wiki/Kel-Tec_PF-9手槍 "wikilink")
+  - [莫斯伯格MC1sc手槍](https://zh.wikipedia.org/wiki/莫斯伯格MC1sc手槍 "wikilink")
   - [雷明登R51手槍](../Page/雷明登R51手槍.md "wikilink")
-  - [儒格LC9手槍](../Page/儒格LC9手槍.md "wikilink")
+  - [儒格LC9手槍](https://zh.wikipedia.org/wiki/儒格LC9手槍 "wikilink")
   - [春田XD-S手槍](../Page/春田XD-S手槍.md "wikilink")
   - [SIG P239手槍](../Page/SIG_P239手槍.md "wikilink")
-  - [S\&W M\&P護盾型](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
+  - [S\&W
+    M\&P護盾型](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")
   - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-PPS手槍](../Page/瓦爾特PPS手槍.md "wikilink")
-  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-CCP手槍](../Page/瓦爾特CCP手槍.md "wikilink")
+  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-CCP手槍](https://zh.wikipedia.org/wiki/瓦爾特CCP手槍 "wikilink")
   - [SIG P238手槍](../Page/SIG_P238手槍.md "wikilink")
 
 ## 資料來源

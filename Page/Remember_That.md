@@ -1,5 +1,5 @@
 《**Remember
-That**》是[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/男子音樂組合.md "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")8張韓語迷你專輯，於2016年3月28日發行，主打歌曲為《春天的記憶》（）\[1\]。
+That**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")8張韓語迷你專輯，於2016年3月28日發行，主打歌曲為《春天的記憶》（）\[1\]。
 
 ## 曲目
 
@@ -43,31 +43,31 @@ COMEBACK V LIVE</a></p></td>
 | ------------------------------------------------------------ |
 | 電視台                                                          |
 | colspan=6 style="background:\#9be6ff | So Pretty             |
-| [Mnet](../Page/Mnet.md "wikilink")                           |
-| [KBS](../Page/KBS.md "wikilink")                             |
-| [SBS](../Page/SBS.md "wikilink")                             |
+| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")        |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")          |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")          |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")            |
 | colspan=6 style="background:\#9be6ff | 봄날의기억 (Remember that) |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")            |
 | 4月20日                                                        |
 | 最高名次：                                                        |
-| [Mnet](../Page/Mnet.md "wikilink")                           |
+| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")        |
 | 4月7日                                                         |
 | 最高名次：                                                        |
-| [KBS](../Page/KBS.md "wikilink")                             |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")          |
 | 4月8日                                                         |
 | 4月15日                                                        |
 | 4月22日                                                        |
 | 最高名次：                                                        |
-| [MBC](../Page/MBC.md "wikilink")                             |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")          |
 | 4月23日                                                        |
 | 最高名次：                                                        |
-| [SBS](../Page/SBS.md "wikilink")                             |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")          |
 | 4月10日                                                        |
 | 4月17日                                                        |
 | 4月24日                                                        |
 | 最高名次：                                                        |
-| [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")                       |
+| [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")    |
 | 4月29日                                                        |
 | colspan=6 style="background:\#FFFF77 | 非打歌期間                 |
 | Mnet                                                         |
@@ -92,7 +92,7 @@ COMEBACK V LIVE</a></p></td>
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年3月27日－4月2日</p></td>
 <td><p>#11</p></td>
@@ -135,14 +135,14 @@ COMEBACK V LIVE</a></p></td>
 
 ### 其他歌曲成績
 
-| 歌曲          | 榜單                                       | 類型                                              | 停留時間            | 最高位置 | 參考資料  |
-| ----------- | ---------------------------------------- | ----------------------------------------------- | --------------- | ---- | ----- |
-| Killing Me  | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年3月27日－4月2日 | \#66 | \[4\] |
-| 試著描繪（我所畫的畫） | \#78                                     |                                                 |                 |      |       |
-| 因為像你        | \#88                                     |                                                 |                 |      |       |
-| 空下位置        | \#94                                     |                                                 |                 |      |       |
-| So Pretty   | \#99                                     |                                                 |                 |      |       |
-| Anymore     | \#104                                    |                                                 |                 |      |       |
+| 歌曲          | 榜單                                                          | 類型                                              | 停留時間            | 最高位置 | 參考資料  |
+| ----------- | ----------------------------------------------------------- | ----------------------------------------------- | --------------- | ---- | ----- |
+| Killing Me  | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年3月27日－4月2日 | \#66 | \[4\] |
+| 試著描繪（我所畫的畫） | \#78                                                        |                                                 |                 |      |       |
+| 因為像你        | \#88                                                        |                                                 |                 |      |       |
+| 空下位置        | \#94                                                        |                                                 |                 |      |       |
+| So Pretty   | \#99                                                        |                                                 |                 |      |       |
+| Anymore     | \#104                                                       |                                                 |                 |      |       |
 
 ### 音樂節目榜單排名
 
@@ -191,12 +191,12 @@ COMEBACK V LIVE</a></p></td>
 <td><p>2016年3月28日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂</a><br />
-<a href="../Page/環球唱片.md" title="wikilink">環球音樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/環球唱片" title="wikilink">環球音樂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>
 <td><p>2016年3月29日 [5]</p></td>
-<td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
+<td><p>CD+<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
 <td><p><a href="../Page/環球音樂_(台灣).md" title="wikilink">台灣環球音樂</a></p></td>
 </tr>
 </tbody>

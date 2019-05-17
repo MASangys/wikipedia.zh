@@ -1,4 +1,4 @@
-《**Reality**》是[韓國男子組合](../Page/韓國.md "wikilink")[INFINITE的第五張韓語迷你專輯](../Page/INFINITE.md "wikilink")，於2015年7月13日發行\[1\]，主打曲為《Bad》。
+《**Reality**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE的第五張韓語迷你專輯](../Page/INFINITE.md "wikilink")，於2015年7月13日發行\[1\]，主打曲為《Bad》。
 
 ## 曲目
 
@@ -20,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年7月12日－7月18日</p></td>
 <td><p>#6</p></td>
@@ -65,16 +65,16 @@
 
 ### 其他歌曲成績
 
-| 歌曲                                              | 榜單                                              | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
-| Moonlight                                       | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink")        | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月12日－7月18日 | \#24 | \[4\] |
-| [單曲月榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月                                         | \#88                                            |                  |      |       |
-| 面對面站著                                           | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月12日－7月18日                                | \#33             |      |       |
-| [單曲月榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月                                         | \#94                                            |                  |      |       |
-| Love Letter                                     | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月12日－7月18日                                | \#36             |      |       |
-| 腳步                                              | \#38                                            |                                                 |                  |      |       |
-| Ending 拜託了                                      | \#46                                            |                                                 |                  |      |       |
-| Betting                                         | \#57                                            |                                                 |                  |      |       |
+| 歌曲                                              | 榜單                                                          | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
+| ----------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
+| Moonlight                                       | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月12日－7月18日 | \#24 | \[4\] |
+| [單曲月榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月                                                     | \#88                                            |                  |      |       |
+| 面對面站著                                           | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink")             | 2015年7月12日－7月18日                                | \#33             |      |       |
+| [單曲月榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月                                                     | \#94                                            |                  |      |       |
+| Love Letter                                     | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink")             | 2015年7月12日－7月18日                                | \#36             |      |       |
+| 腳步                                              | \#38                                                        |                                                 |                  |      |       |
+| Ending 拜託了                                      | \#46                                                        |                                                 |                  |      |       |
+| Betting                                         | \#57                                                        |                                                 |                  |      |       |
 
 ### Oricon公信榜
 
@@ -133,7 +133,7 @@
 <td><p>2015年7月13日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 </tbody>
 </table>

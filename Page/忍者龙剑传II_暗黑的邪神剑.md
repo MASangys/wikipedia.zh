@@ -1,10 +1,10 @@
 是一款由[特库摩在FC游戏上制作和发行的横向卷轴类](../Page/特库摩.md "wikilink")[动作平台类游戏](../Page/平台游戏.md "wikilink")。\[1\]
-本游戏于1990年4月6日在日本地区[FC游戏机上发行](../Page/FC游戏机.md "wikilink")。\[2\]游戏后移植至[Commodore
-Amiga和](../Page/Commodore_Amiga.md "wikilink")[DOS](../Page/DOS.md "wikilink")。
+本游戏于1990年4月6日在日本地区[FC游戏机上发行](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")。\[2\]游戏后移植至[Commodore
+Amiga和](https://zh.wikipedia.org/wiki/Commodore_Amiga "wikilink")[DOS](../Page/DOS.md "wikilink")。
 
-故事发生于初代《[忍者龙剑传](../Page/忍者龙剑传_\(FC\).md "wikilink")》的1年之前。游戏开始于黑暗境地的恶魔领主阿斯塔。他计划打开黑暗之门来统治地球。
+故事发生于初代《[忍者龙剑传](https://zh.wikipedia.org/wiki/忍者龙剑传_\(FC\) "wikilink")》的1年之前。游戏开始于黑暗境地的恶魔领主阿斯塔。他计划打开黑暗之门来统治地球。
 
-《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》于1989年末和1990年初预览了《忍者龙剑传II》。本游戏最初在杂志的1989年9月10月号出现，之后再次刊登在1989年11月之上。他们提到了新的关卡、能量提升以及一个具有曲折的爆炸性故事。\[3\]\[4\]
+《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》于1989年末和1990年初预览了《忍者龙剑传II》。本游戏最初在杂志的1989年9月10月号出现，之后再次刊登在1989年11月之上。他们提到了新的关卡、能量提升以及一个具有曲折的爆炸性故事。\[3\]\[4\]
 
 ## 情节
 
@@ -24,7 +24,8 @@ Amiga和](../Page/Commodore_Amiga.md "wikilink")[DOS](../Page/DOS.md "wikilink")
 
 1.  [*ninja-gaiden
     ii*](http://www.mobygames.com/game/ninja-gaiden-ii-the-dark-sword-of-chaos)
-    game overview at [MobyGames](../Page/MobyGames.md "wikilink")
+    game overview at
+    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 2.
 3.
 4.

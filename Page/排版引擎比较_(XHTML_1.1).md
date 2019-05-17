@@ -3,7 +3,7 @@
 
 XHTML 1.1主要是对[XHTML
 1.0的模块化](../Page/XHTML.md "wikilink")，其由20个元素模块（其中7个是子模块）组成，
-包括额外的[旁注模块与两个属性模块](../Page/旁註標記.md "wikilink")（服务器端图像映射模块和内部事件模块）。
+包括额外的[旁注模块与两个属性模块](https://zh.wikipedia.org/wiki/旁註標記 "wikilink")（服务器端图像映射模块和内部事件模块）。
 
 ## 元素
 
@@ -21,7 +21,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -90,7 +90,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -359,7 +359,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -388,15 +388,15 @@ XHTML 1.1主要是对[XHTML
 
 #### 列表模块
 
-|      | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](../Page/iCab.md "wikilink") |
-| ---- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- |
-| `dl` | rowspan="6" <ref>{{cite web                       | url = <http://webref.info/?ID=116>     | title = Lists                        | publisher = webref.info                | accessdate = 29 May 2011 }}</ref>    | rowspan="6"                            | rowspan="6"                        |
-| `dt` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `dd` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `ol` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `ul` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `li` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-|      |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
+|      | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](https://zh.wikipedia.org/wiki/iCab "wikilink") |
+| ---- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------------------- |
+| `dl` | rowspan="6" <ref>{{cite web                       | url = <http://webref.info/?ID=116>     | title = Lists                        | publisher = webref.info                | accessdate = 29 May 2011 }}</ref>    | rowspan="6"                            | rowspan="6"                                           |
+| `dt` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `dd` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `ol` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `ul` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `li` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+|      |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
 
 ### 文本扩展模块
 
@@ -412,7 +412,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -511,11 +511,11 @@ XHTML 1.1主要是对[XHTML
 
 #### 编辑模块
 
-|       | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](../Page/iCab.md "wikilink") |
-| ----- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- |
-| `del` | rowspan="2"                                       | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                        |
-| `ins` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-|       |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
+|       | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](https://zh.wikipedia.org/wiki/iCab "wikilink") |
+| ----- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------------------- |
+| `del` | rowspan="2"                                       | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                                           |
+| `ins` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+|       |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
 
 #### 双向文本模块
 
@@ -529,7 +529,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -558,19 +558,19 @@ XHTML 1.1主要是对[XHTML
 
 ### 表单模块
 
-|            | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](../Page/iCab.md "wikilink") |
-| ---------- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- |
-| `form`     | rowspan="10"                                      | rowspan="10"                           | rowspan="10"                         | rowspan="10"                           | rowspan="10"                         | rowspan="10"                           | rowspan="10"                       |
-| `input`    |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `select`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `option`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `textarea` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `button`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `fieldset` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `label`    |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `legend`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `optgroup` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-|            |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
+|            | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](https://zh.wikipedia.org/wiki/iCab "wikilink") |
+| ---------- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------------------- |
+| `form`     | rowspan="10"                                      | rowspan="10"                           | rowspan="10"                         | rowspan="10"                           | rowspan="10"                         | rowspan="10"                           | rowspan="10"                                          |
+| `input`    |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `select`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `option`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `textarea` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `button`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `fieldset` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `label`    |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `legend`   |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `optgroup` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+|            |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
 
 ### 表格模块
 
@@ -584,7 +584,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -713,7 +713,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -742,19 +742,19 @@ XHTML 1.1主要是对[XHTML
 
 ### 客户端图像映射模块
 
-|        | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](../Page/iCab.md "wikilink") |
-| ------ | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- |
-| `area` | rowspan="2" \[17\]                                | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                        |
-| `map`  |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-|        |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
+|        | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](https://zh.wikipedia.org/wiki/iCab "wikilink") |
+| ------ | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------------------- |
+| `area` | rowspan="2" \[17\]                                | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                                           |
+| `map`  |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+|        |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
 
 ### 对象模块
 
-|          | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](../Page/iCab.md "wikilink") |
-| -------- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- |
-| `object` | rowspan="2" \[18\]                                | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                        |
-| `param`  |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-|          |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
+|          | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](https://zh.wikipedia.org/wiki/iCab "wikilink") |
+| -------- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------------------- |
+| `object` | rowspan="2" \[18\]                                | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                          | rowspan="2"                            | rowspan="2"                                           |
+| `param`  |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+|          |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
 
 ### 元信息模块
 
@@ -768,7 +768,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -807,7 +807,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -856,7 +856,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -896,7 +896,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -935,7 +935,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -974,7 +974,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1055,12 +1055,12 @@ XHTML 1.1主要是对[XHTML
 
 ### 核心
 
-|         | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](../Page/iCab.md "wikilink") |
-| ------- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- |
-| `class` | rowspan="3"                                       | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                        |
-| `id`    |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `title` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-|         |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
+|         | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](https://zh.wikipedia.org/wiki/iCab "wikilink") |
+| ------- | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------------------- |
+| `class` | rowspan="3"                                       | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                                           |
+| `id`    |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `title` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+|         |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
 
 ### 国际化
 
@@ -1074,7 +1074,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1123,7 +1123,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1272,7 +1272,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1311,7 +1311,7 @@ XHTML 1.1主要是对[XHTML
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>

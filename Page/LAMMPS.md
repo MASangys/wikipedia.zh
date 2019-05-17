@@ -1,8 +1,8 @@
 **LAMMPS** （"Large-scale Atomic/Molecular Massively Parallel
-Simulator"，大尺度原子/分子并行模拟工具）是由[桑迪亚国家实验室开发的一套](../Page/桑迪亚国家实验室.md "wikilink")[分子动力学模拟的开源程序包](../Page/分子动力学.md "wikilink")。\[1\]
+Simulator"，大尺度原子/分子并行模拟工具）是由[桑迪亚国家实验室开发的一套](https://zh.wikipedia.org/wiki/桑迪亚国家实验室 "wikilink")[分子动力学模拟的开源程序包](../Page/分子动力学.md "wikilink")。\[1\]
 LAMMPS使用[MPI实现多机器并行计算](../Page/訊息傳遞介面.md "wikilink")，在新的版本中，支持基于[CUDA和](../Page/CUDA.md "wikilink")[OpenCL的GPU计算](../Page/OpenCL.md "wikilink")。其以[GNU通用公共许可证发布](../Page/GNU通用公共许可证.md "wikilink")，因而开源自由。\[2\]
 
-LAMMPS最初为一美国政府与私人机构合作项目，由[美国能源部与另外三所私有企业实验室合作开发](../Page/美国能源部.md "wikilink")。\[3\]目前由桑迪亚国家实验室负责维护和发布。\[4\]LAMMPS当前使用C++编写，早期版本使用[Fortran77以及Fortran](../Page/Fortran.md "wikilink")90。
+LAMMPS最初为一美国政府与私人机构合作项目，由[美国能源部与另外三所私有企业实验室合作开发](https://zh.wikipedia.org/wiki/美国能源部 "wikilink")。\[3\]目前由桑迪亚国家实验室负责维护和发布。\[4\]LAMMPS当前使用C++编写，早期版本使用[Fortran77以及Fortran](../Page/Fortran.md "wikilink")90。
 
 ## 特性
 

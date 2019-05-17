@@ -1,4 +1,4 @@
-**LIBRIS**是的縮寫，意為**圖書館資訊系統**，是一個[瑞典的全國](../Page/瑞典.md "wikilink")[聯合目錄](../Page/聯合目錄.md "wikilink")，由位於[斯德哥爾摩的](../Page/斯德哥爾摩.md "wikilink")[瑞典皇家圖書館維護](../Page/瑞典皇家圖書館.md "wikilink")\[1\]。全國大約650萬個書目，可供自由搜尋\[2\]。
+**LIBRIS**是的縮寫，意為**圖書館資訊系統**，是一個[瑞典的全國](../Page/瑞典.md "wikilink")[聯合目錄](https://zh.wikipedia.org/wiki/聯合目錄 "wikilink")，由位於[斯德哥爾摩的](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")[瑞典皇家圖書館維護](../Page/瑞典皇家圖書館.md "wikilink")\[1\]。全國大約650萬個書目，可供自由搜尋\[2\]。
 
 除了書目紀錄，對於每本書或出版物，LIBRIS都包含一個關於人物的[作者檔案](../Page/權威控制.md "wikilink")。每一個人物都有一筆紀錄，把名稱、出生日期和職業連繫到一個獨一無二的標識符。
 

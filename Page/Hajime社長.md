@@ -1,6 +1,6 @@
-**Hajime社長**（，），[日本](../Page/日本.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")，中文常譯為「哈吉咩社長」、「哈基咩社長」、「哈基麵社長」、「第一社長」、「初次社長」、「豆芽菜社長」等。名稱來自本名中漢字「元」的唸法。\[1\]。上傳的影片主題包括生活實驗、惡作劇、靈異探索、文具介紹、遊戲實況、商品介紹與企業合作等，例如「[全身黏滿曼陀珠後跳進裝滿可樂的浴缸](../Page/可樂加曼陀珠噴發現象.md "wikilink")」\[2\]、「將超商全部的飲料混合之後喝掉」\[3\]、「用橡皮筋捆綁哈密瓜使其爆炸」\[4\]。
+**Hajime社長**（，），[日本](../Page/日本.md "wikilink")[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，中文常譯為「哈吉咩社長」、「哈基咩社長」、「哈基麵社長」、「第一社長」、「初次社長」、「豆芽菜社長」等。名稱來自本名中漢字「元」的唸法。\[1\]。上傳的影片主題包括生活實驗、惡作劇、靈異探索、文具介紹、遊戲實況、商品介紹與企業合作等，例如「[全身黏滿曼陀珠後跳進裝滿可樂的浴缸](../Page/可樂加曼陀珠噴發現象.md "wikilink")」\[2\]、「將超商全部的飲料混合之後喝掉」\[3\]、「用橡皮筋捆綁哈密瓜使其爆炸」\[4\]。
 
-2016年3月，YouTube個人頻道訂閱人數排名達到日本第一位，超越[HIKAKIN經營的主頻道HikakinTV](../Page/HIKAKIN.md "wikilink")。目前仍然為最高紀錄保持人
+2016年3月，YouTube個人頻道訂閱人數排名達到日本第一位，超越[HIKAKIN經營的主頻道HikakinTV](https://zh.wikipedia.org/wiki/HIKAKIN "wikilink")。目前仍然為最高紀錄保持人
 （截至2018年3月），影片總點閱數超過47億\[5\]，[推特專頁追蹤人數亦超過](../Page/Twitter.md "wikilink")387萬，在日本總排名中位居第5名。\[6\]
 
 ## 生平
@@ -23,7 +23,7 @@
 
 ## 紀錄
 
-2015年11月22日上傳的影片中，Hajime社長召集粉絲參加一二三木頭人大會，並邀請[金氏世界紀錄官方進行審查](../Page/金氏世界紀錄.md "wikilink")，以740位玩家的數量（739位粉絲與社長）成功打破原先448位的紀錄，成為新的「最多人同時進行一二三木頭人遊戲」的紀錄保持人。\[9\]
+2015年11月22日上傳的影片中，Hajime社長召集粉絲參加一二三木頭人大會，並邀請[金氏世界紀錄官方進行審查](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")，以740位玩家的數量（739位粉絲與社長）成功打破原先448位的紀錄，成為新的「最多人同時進行一二三木頭人遊戲」的紀錄保持人。\[9\]
 
 2018年3月4日，Hajime社長達到六百萬訂閱\[10\]，是日本第1個達到六百萬的YouTuber
 ，也是日本訂閱人數最高的YouTuber。
@@ -50,8 +50,8 @@
 
 ## 參見
 
-  - [YouTuber](../Page/YouTuber.md "wikilink")
-  - [HIKAKIN](../Page/HIKAKIN.md "wikilink")
+  - [YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")
+  - [HIKAKIN](https://zh.wikipedia.org/wiki/HIKAKIN "wikilink")
 
 ## 外部連結
 

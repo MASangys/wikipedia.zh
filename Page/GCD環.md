@@ -16,7 +16,7 @@ GCD環中每個[不可約元素都是](../Page/不可約元素.md "wikilink")[�
 
 ## 舉例
 
-  - [唯一分解整環是GCD環](../Page/唯一分解整環.md "wikilink")，唯一分解整環是GCD環中恰好也是[原子環](../Page/原子環.md "wikilink")（每一個非零非單位元素，至少有一種分解為不可約元素乘積的方式）的部份。
+  - [唯一分解整環是GCD環](../Page/唯一分解整環.md "wikilink")，唯一分解整環是GCD環中恰好也是[原子環](https://zh.wikipedia.org/wiki/原子環 "wikilink")（每一個非零非單位元素，至少有一種分解為不可約元素乘積的方式）的部份。
 
   - （每個有限生成的[理想都是主要理想的整環](../Page/理想_\(环论\).md "wikilink")）是GCD環。Bézout環不同於（每個理想都是主要理想），Bézout環不一定要是唯一分解整環，例如一個[整函数的環是非原子性的Bézout環](../Page/整函数.md "wikilink")，也有許多其他類似的例子。整環是的GCD環的充份必要條件是其為Bézout環<ref>.
     P. 84: "It is easy to see that an integral domain is a Prüfer

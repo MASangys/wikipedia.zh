@@ -1,5 +1,5 @@
-《**無敵A噪咖**》是[東森超視製播的](../Page/東森超視.md "wikilink")[飲食節目](../Page/飲食節目.md "wikilink")，自2015年9月25日─2016年3月13日播出，主持人為[酷酷兄弟](http://www.liveworld.tw/wiki/KouKou_Brothers_%E9%85%B7%E9%85%B7%E5%85%84%E5%BC%9F#.E7.AF.80.E7.9B.AE.E7.B3.BB.E5.88.97)、[大谷主水
-(夢多)](../Page/大谷主水_\(夢多\).md "wikilink")、[法比歐](../Page/法比歐.md "wikilink")、[杜力](../Page/杜力.md "wikilink")、
+《**無敵A噪咖**》是[東森超視製播的](../Page/東森超視.md "wikilink")[飲食節目](https://zh.wikipedia.org/wiki/飲食節目 "wikilink")，自2015年9月25日─2016年3月13日播出，主持人為[酷酷兄弟](http://www.liveworld.tw/wiki/KouKou_Brothers_%E9%85%B7%E9%85%B7%E5%85%84%E5%BC%9F#.E7.AF.80.E7.9B.AE.E7.B3.BB.E5.88.97)、[大谷主水
+(夢多)](https://zh.wikipedia.org/wiki/大谷主水_\(夢多\) "wikilink")、[法比歐](https://zh.wikipedia.org/wiki/法比歐 "wikilink")、[杜力](https://zh.wikipedia.org/wiki/杜力 "wikilink")、
 [郭子乾](../Page/郭子乾.md "wikilink")。
 
 ## 節目簡介
@@ -8,11 +8,11 @@
 
 ## 節目主持人
 
-  - [酷酷兄弟](http://www.liveworld.tw/wiki/KouKou_Brothers_%E9%85%B7%E9%85%B7%E5%85%84%E5%BC%9F#.E7.AF.80.E7.9B.AE.E7.B3.BB.E5.88.97)：由兩個[臺灣人](../Page/中華民國.md "wikilink")[阿神與阿謙所組成的團體](../Page/阿神.md "wikilink")，兩人皆由遊戲實況主出身，現為製作網路節目酷酷兄弟的YouTubers及主持人
+  - [酷酷兄弟](http://www.liveworld.tw/wiki/KouKou_Brothers_%E9%85%B7%E9%85%B7%E5%85%84%E5%BC%9F#.E7.AF.80.E7.9B.AE.E7.B3.BB.E5.88.97)：由兩個[臺灣人](../Page/中華民國.md "wikilink")[阿神與阿謙所組成的團體](https://zh.wikipedia.org/wiki/阿神 "wikilink")，兩人皆由遊戲實況主出身，現為製作網路節目酷酷兄弟的YouTubers及主持人
   - [大谷主水
-    (夢多)](../Page/大谷主水_\(夢多\).md "wikilink")：[日本跆拳道國手](../Page/日本.md "wikilink")、空手道日本冠軍，現在在亞洲演藝圈發展的演員、模特兒、節目主持及武術指導
-  - [法比歐](../Page/法比歐.md "wikilink")：[法國模特兒](../Page/法國.md "wikilink")、演員，現在為台灣綜藝節目主持人、通告藝人
-  - [杜力](../Page/杜力.md "wikilink")：來自[美國](../Page/美國.md "wikilink")[亞利桑那州](../Page/亞利桑那州.md "wikilink")，是樂團的主唱。活躍於台灣綜藝節目，有著幽默的談吐，所以也是相當優秀的節目主持人
+    (夢多)](https://zh.wikipedia.org/wiki/大谷主水_\(夢多\) "wikilink")：[日本跆拳道國手](../Page/日本.md "wikilink")、空手道日本冠軍，現在在亞洲演藝圈發展的演員、模特兒、節目主持及武術指導
+  - [法比歐](https://zh.wikipedia.org/wiki/法比歐 "wikilink")：[法國模特兒](https://zh.wikipedia.org/wiki/法國 "wikilink")、演員，現在為台灣綜藝節目主持人、通告藝人
+  - [杜力](https://zh.wikipedia.org/wiki/杜力 "wikilink")：來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[亞利桑那州](../Page/亞利桑那州.md "wikilink")，是樂團的主唱。活躍於台灣綜藝節目，有著幽默的談吐，所以也是相當優秀的節目主持人
   - [郭子乾](../Page/郭子乾.md "wikilink") ：2015年12月13日加入；台灣綜藝模仿天王。
 
 ## 每集主題

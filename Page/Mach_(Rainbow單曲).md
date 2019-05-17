@@ -1,11 +1,11 @@
-「**Mach**」是[韓國的女子組合](../Page/韓國.md "wikilink")[Rainbow的第](../Page/Rainbow.md "wikilink")2張數位[單曲](../Page/單曲.md "wikilink")。2010年10月20日由[DSP
-Media發售](../Page/DSP_Media.md "wikilink")。與上張單曲「A」同樣，分別推出韓文版及日文版。此曲與「A」、「Tell
+「**Mach**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rainbow的第](https://zh.wikipedia.org/wiki/Rainbow "wikilink")2張數位[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年10月20日由[DSP
+Media發售](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。與上張單曲「A」同樣，分別推出韓文版及日文版。此曲與「A」、「Tell
 Me Tell Me」，至今仍然是Rainbow在現場表演的必唱作品。
 
 ## 概要
 
   - 《Mach》是Rainbow第2張以數位下載的單曲，其後收錄在第二張迷你專輯《[SO
-    女](../Page/SO_女.md "wikilink")》，由之前負責創作「A」的[Sweetune再次打造新曲](../Page/Sweetune.md "wikilink")，以「兜風舞」為標誌舞蹈。
+    女](../Page/SO_女.md "wikilink")》，由之前負責創作「A」的[Sweetune再次打造新曲](https://zh.wikipedia.org/wiki/Sweetune "wikilink")，以「兜風舞」為標誌舞蹈。
   - 單曲造型照於10月18日公開\[1\]
 
 ## 收錄歌曲

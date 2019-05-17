@@ -1,4 +1,4 @@
-**上皮卡第TGV站**（）是法国北部的一个高速铁路车站，位于[法國](../Page/法國.md "wikilink")[上法兰西大区境内](../Page/上法兰西大区.md "wikilink")。
+**上皮卡第TGV站**（）是法国北部的一个高速铁路车站，位于[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[上法兰西大区境内](https://zh.wikipedia.org/wiki/上法兰西大区 "wikilink")。
 
 ## 位置
 
@@ -17,25 +17,25 @@
 <td style="text-align: center;"><p>线路</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/佩皮尼昂站.md" title="wikilink">佩皮尼昂</a>/<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a>/<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>—<a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="../Page/里尔欧洲站.md" title="wikilink">里尔</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/佩皮尼昂站.md" title="wikilink">佩皮尼昂</a>/<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a>/<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>—<a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a>—<a href="../Page/里尔欧洲站.md" title="wikilink">里尔</a>/<a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a>—<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>/<a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a>—里尔</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/雷恩站.md" title="wikilink">雷恩</a>/<a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="../Page/里尔欧洲站.md" title="wikilink">里尔</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/雷恩站.md" title="wikilink">雷恩</a>/<a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="../Page/图尔宽站.md" title="wikilink">图尔宽</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="https://zh.wikipedia.org/wiki/图尔宽站" title="wikilink">图尔宽</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a>—图尔宽</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a>—<a href="../Page/图尔宽站.md" title="wikilink">图尔宽</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a>—<a href="https://zh.wikipedia.org/wiki/图尔宽站" title="wikilink">图尔宽</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"></td>
@@ -47,7 +47,7 @@
 
 ### 大巴车
 
-上皮卡第TGV站对应的大巴车上下车地点位于车站前方的广场上，SNCF提供该站直达[亚眠和](../Page/亚眠.md "wikilink")[圣康坦两地的大巴车](../Page/圣康坦.md "wikilink")，发车时间基本上能衔接上皮卡第TGV站列车的到达时刻，车票可与TGV车票联程购买。
+上皮卡第TGV站对应的大巴车上下车地点位于车站前方的广场上，SNCF提供该站直达[亚眠和](https://zh.wikipedia.org/wiki/亚眠 "wikilink")[圣康坦两地的大巴车](https://zh.wikipedia.org/wiki/圣康坦 "wikilink")，发车时间基本上能衔接上皮卡第TGV站列车的到达时刻，车票可与TGV车票联程购买。
 
 ### 市区公交
 
@@ -65,8 +65,8 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><div style="display:inline-block; text-align:right; vertical-align:middle;">
-<p><a href="../Page/巴黎北站.md" title="wikilink">巴黎北站</a><span style="color:#A9A9A9">←……←</span><a href="../Page/维里耶勒贝勒站.md" title="wikilink"><span style="color:#A9A9A9">维里耶勒贝勒站</span></a>←（正线）↖<br />
-<a href="../Page/戴高乐机场2号航站楼站.md" title="wikilink">戴高乐机场2号航站楼站</a>←（联络线）↙</p>
+<p><a href="../Page/巴黎北站.md" title="wikilink">巴黎北站</a><span style="color:#A9A9A9">←……←</span><a href="https://zh.wikipedia.org/wiki/维里耶勒贝勒站" title="wikilink"><span style="color:#A9A9A9">维里耶勒贝勒站</span></a>←（正线）↖<br />
+<a href="https://zh.wikipedia.org/wiki/戴高乐机场2号航站楼站" title="wikilink">戴高乐机场2号航站楼站</a>←（联络线）↙</p>
 <div></td>
 </tr>
 <tr class="even">

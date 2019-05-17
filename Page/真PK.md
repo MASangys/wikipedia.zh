@@ -1,4 +1,4 @@
-《**真PK**》（）是由[香港電視娛樂製作的清談](../Page/香港電視娛樂.md "wikilink")[整蠱節目](../Page/整蠱.md "wikilink")，主持為[火火](../Page/火火.md "wikilink")、[Kevin](../Page/李健宏.md "wikilink")，於[ViuTV清談節目時段](../Page/ViuTV.md "wikilink")《[晚吹](../Page/晚吹.md "wikilink")》首播，播放時間為逢星期六23:30－00:00。
+《**真PK**》（）是由[香港電視娛樂製作的清談](../Page/香港電視娛樂.md "wikilink")[整蠱節目](https://zh.wikipedia.org/wiki/整蠱 "wikilink")，主持為[火火](../Page/火火.md "wikilink")、[Kevin](../Page/李健宏.md "wikilink")，於[ViuTV清談節目時段](../Page/ViuTV.md "wikilink")《[晚吹](../Page/晚吹.md "wikilink")》首播，播放時間為逢星期六23:30－00:00。
 
 2017年因《[晚吹](../Page/晚吹.md "wikilink")》系列重組，此節目於2017年2月4日後停止播放。
 
@@ -8,7 +8,7 @@
 
 「真PK表面為清談節目，實質上是整蠱節目。」\[1\]每集主持揭露嘉賓真性情。\[2\]
 
-由於節目中內容含有不雅行為，不雅用語及[粗口](../Page/粗口.md "wikilink")，故此於電視播放時，除設定為[M成年觀眾外](../Page/香港電視節目分類制度.md "wikilink")，節目內部分內容會以動物叫聲過濾相關字句，與平時的嘟聲有所分別，以符合電視播放尺度。
+由於節目中內容含有不雅行為，不雅用語及[粗口](https://zh.wikipedia.org/wiki/粗口 "wikilink")，故此於電視播放時，除設定為[M成年觀眾外](../Page/香港電視節目分類制度.md "wikilink")，節目內部分內容會以動物叫聲過濾相關字句，與平時的嘟聲有所分別，以符合電視播放尺度。
 
 當懲罰環節進行時，畫面皆會顯示警語，提醒觀眾內容涉及危險動作及不安畫面，切勿模仿。另自第三季中期起，節目完結時工作人員名單有特別加插聲明，指節目內容純粹戲劇效果，當中無人遭脅迫、非法或惡意傷害，該聲明又指懲罰環節所使用的食材「經過特別處理，可以食用」。
 
@@ -73,7 +73,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>4月16日</p></td>
-<td><p><a href="../Page/Eric_Kwok.md" title="wikilink">Eric Kwok</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Kwok" title="wikilink">Eric Kwok</a></p></td>
 <td><p><strong>主持</strong> </p></td>
 </tr>
 <tr class="even">
@@ -85,7 +85,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>4月30日</p></td>
-<td><p><a href="../Page/錢國偉_(香港).md" title="wikilink">錢國偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/錢國偉_(香港)" title="wikilink">錢國偉</a></p></td>
 <td><p><strong>主持</strong> </p></td>
 </tr>
 <tr class="even">
@@ -149,14 +149,14 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>7月16日</p></td>
-<td><p><a href="../Page/崔碧珈.md" title="wikilink">崔碧珈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔碧珈" title="wikilink">崔碧珈</a></p></td>
 <td><p><strong>一同受罰</strong><br />
 主持未能問完暗題，嘉賓猜錯「暗題」三次 </p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>7月23日</p></td>
-<td><p><a href="../Page/邵音音.md" title="wikilink">邵音音</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邵音音" title="wikilink">邵音音</a></p></td>
 <td><p><strong>主持</strong> </p></td>
 </tr>
 <tr class="odd">
@@ -218,7 +218,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>10月1日</p></td>
-<td><p><a href="../Page/雷琛瑜.md" title="wikilink">J.Arie</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷琛瑜" title="wikilink">J.Arie</a></p></td>
 <td><p><strong>嘉賓、火火<br />
 三位「大隻佬」頂替火火受罰</strong> </p></td>
 </tr>
@@ -238,14 +238,14 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="even">
 <td><p>28</p></td>
 <td><p>10月22日</p></td>
-<td><p><a href="../Page/蘇耀宗.md" title="wikilink">細So</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇耀宗" title="wikilink">細So</a></p></td>
 <td><p><strong>Kevin、火火</strong><br />
 <strong>嘉賓頂替部份懲罰</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>10月29日</p></td>
-<td><p><a href="../Page/劉家輝_(攝影師).md" title="wikilink">劉翁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉家輝_(攝影師)" title="wikilink">劉翁</a></p></td>
 <td><p><strong>嘉賓、Kevin<br />
 三位「大隻佬」頂替Kevin受罰</strong></p></td>
 </tr>
@@ -271,13 +271,13 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>11月26日</p></td>
-<td><p><a href="../Page/龍小菌.md" title="wikilink">龍小菌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍小菌" title="wikilink">龍小菌</a></p></td>
 <td><p><strong>Kevin</strong> </p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
 <td><p>12月3日</p></td>
-<td><p><a href="../Page/新青年理髮廳.md" title="wikilink">新青年理髮廳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新青年理髮廳" title="wikilink">新青年理髮廳</a></p></td>
 <td><p><strong>嘉賓、Kevin</strong><br />
 由於最低分有兩位，因此兩人一同受罰<br />
 <strong>由歐陽作為嘉賓代表受罰</strong> </p></td>
@@ -298,21 +298,21 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>12月25日</p></td>
-<td><p><a href="../Page/雞蛋蒸肉餅.md" title="wikilink">雞蛋蒸肉餅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雞蛋蒸肉餅" title="wikilink">雞蛋蒸肉餅</a></p></td>
 <td><p><strong>嘉賓 (雞蛋組)</strong><br />
 該集為兩人一組分組作賽，火火及Kevin被編為一組，嘉賓分為雞蛋組及肉餅組 </p></td>
 </tr>
 <tr class="even">
 <td><p>38</p></td>
 <td><p>1月7日</p></td>
-<td><p><a href="../Page/李靖筠.md" title="wikilink">李靖筠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a></p></td>
 <td><p><strong>Kevin</strong><br />
 <strong>嘉賓頂替部份懲罰</strong> </p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
 <td><p>1月14日</p></td>
-<td><p><a href="../Page/Vivek_Mahbubani.md" title="wikilink">Vivek Mahbubani</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vivek_Mahbubani" title="wikilink">Vivek Mahbubani</a></p></td>
 <td><p><strong>嘉賓</strong><br />
 由於「大隻佬」三次射不中嘉賓身上番茄，攝製組一致通過<strong>由「大隻佬」頂替嘉賓受罰</strong> </p></td>
 </tr>
@@ -326,7 +326,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>41（真OK）</p></td>
 <td><p>1月28日</p></td>
-<td><p><a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a></p></td>
+<td><p><a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a></p></td>
 <td><p><strong>嘉賓</strong> </p></td>
 </tr>
 <tr class="even">
@@ -340,27 +340,27 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 
 ## 節目調動
 
-  - 2016年4月9日：由於播出《[偵探的偵探](../Page/偵探的偵探.md "wikilink")》第一集加長版，《[恐怖醫學](../Page/恐怖醫學.md "wikilink")》第一集及《[G-1格鬥會](../Page/G-1格鬥會.md "wikilink")》第一集順延播出，本節目首集順延15分鐘播映（即23:45-00:15）。
-  - 2016年5月14日：由於直播《[西班牙甲組足球聯賽](../Page/西班牙甲組足球聯賽.md "wikilink")
-    [格蘭納達](../Page/格蘭納達足球會.md "wikilink") 對
-    [巴塞隆拿](../Page/巴塞隆拿足球會.md "wikilink")》，本節目暫停播映。
-  - 2016年6月11日：由於播出《[歐洲國家盃Online](../Page/2016年歐洲國家盃.md "wikilink")》，本節目順延至23:45-00:15播映。
+  - 2016年4月9日：由於播出《[偵探的偵探](../Page/偵探的偵探.md "wikilink")》第一集加長版，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》第一集及《[G-1格鬥會](../Page/G-1格鬥會.md "wikilink")》第一集順延播出，本節目首集順延15分鐘播映（即23:45-00:15）。
+  - 2016年5月14日：由於直播《[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")
+    [格蘭納達](https://zh.wikipedia.org/wiki/格蘭納達足球會 "wikilink") 對
+    [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")》，本節目暫停播映。
+  - 2016年6月11日：由於播出《[歐洲國家盃Online](https://zh.wikipedia.org/wiki/2016年歐洲國家盃 "wikilink")》，本節目順延至23:45-00:15播映。
   - 2016年7月2日至23日：由於播出《》第一至四集，本節目順延至23:45-00:15播映。
   - 2016年7月30日：由於直播《[AGA](../Page/江海迦.md "wikilink") Ginadoll Concert
-    Live》超時，《[恐怖醫學](../Page/恐怖醫學.md "wikilink")》順延播出，本節目順延至翌日（7月31日）00:15-00:45播映。
-  - 2016年8月13日：由於直播《[本地薑週末](../Page/本地薑週末.md "wikilink")》超時，《[當衝三小遇上+886MM](../Page/當衝三小遇上+886MM.md "wikilink")》第三集順延播出，本節目順延至翌日（8月14日）00:00-00:30播映。
-  - 2016年9月24日及10月1日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第一及二集加長版，《[恐怖醫學](../Page/恐怖醫學.md "wikilink")》、《》第一及二集及《》第七及八集順延播出，本節目順延至23:45-00:30播映。
-  - 2016年10月8日：由於重播《[2016電動房車挑戰賽](../Page/2016電動房車挑戰賽.md "wikilink")》完整版，本節目順延至23:50-00:35播映。
-  - 2016年11月12日：由於17:45-20:00直播《[2017東亞足球錦標賽](../Page/2017年東亞盃.md "wikilink")
-    男子第二圈 - [香港](../Page/香港足球代表隊.md "wikilink") 對
+    Live》超時，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》順延播出，本節目順延至翌日（7月31日）00:15-00:45播映。
+  - 2016年8月13日：由於直播《[本地薑週末](https://zh.wikipedia.org/wiki/本地薑週末 "wikilink")》超時，《[當衝三小遇上+886MM](https://zh.wikipedia.org/wiki/當衝三小遇上+886MM "wikilink")》第三集順延播出，本節目順延至翌日（8月14日）00:00-00:30播映。
+  - 2016年9月24日及10月1日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第一及二集加長版，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》、《》第一及二集及《》第七及八集順延播出，本節目順延至23:45-00:30播映。
+  - 2016年10月8日：由於重播《[2016電動房車挑戰賽](https://zh.wikipedia.org/wiki/2016電動房車挑戰賽 "wikilink")》完整版，本節目順延至23:50-00:35播映。
+  - 2016年11月12日：由於17:45-20:00直播《[2017東亞足球錦標賽](https://zh.wikipedia.org/wiki/2017年東亞盃 "wikilink")
+    男子第二圈 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對
     [朝鮮](../Page/朝鮮國家足球隊.md "wikilink")》，當日《[6點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並改為於當日23:30-00:00播出《[深宵新聞](../Page/Now深宵新聞.md "wikilink")》。本節目順延至翌日（11月13日）00:00-00:30播映。
-  - 2016年11月19日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第八集加長版，《[ShowTime我主場](../Page/ShowTime我主場.md "wikilink")》第七集及《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》第五集順延播出，本節目順延至23:45-00:15播映。
-  - 2016年12月10日：由於播出《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》第十一集加長版，本節目順延至翌日（12月11日）00:00-00:30播映。
+  - 2016年11月19日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第八集加長版，《[ShowTime我主場](https://zh.wikipedia.org/wiki/ShowTime我主場 "wikilink")》第七集及《[美選D.n.A](https://zh.wikipedia.org/wiki/美選D.n.A "wikilink")》第五集順延播出，本節目順延至23:45-00:15播映。
+  - 2016年12月10日：由於播出《[美選D.n.A](https://zh.wikipedia.org/wiki/美選D.n.A "wikilink")》第十一集加長版，本節目順延至翌日（12月11日）00:00-00:30播映。
   - 2016年12月17日：由於播出《[陳柏宇The](../Page/陳柏宇.md "wikilink")
     Players-10週年演唱會》，本節目順延至翌日（12月18日）00:30-01:00播映。
-  - 2016年12月24日：由於播出《[釜山同一個亞洲文化節](../Page/釜山同一個亞洲文化節.md "wikilink")》第一集，本節目順延至翌日（12月25日）00:45-01:15播映。
-  - 2016年12月31日：由於播出《[我們不離地倒數](../Page/我們不離地倒數.md "wikilink")》，本節目暫停播映。
-  - 2017年1月21日：由於19:00-22:35直播《[第十二屆KKBOX風雲榜](../Page/KKBOX數位音樂風雲榜#第十二屆_2017.md "wikilink")》，當日《[8點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並改為於當日22:35-23:00播出《[新聞報道](../Page/Now新聞報道.md "wikilink")》，《[財金智識Fight！](../Page/財金智識Fight！.md "wikilink")》第五集及《[碌卡大導](../Page/碌卡大導.md "wikilink")》第五集順延播出。本節目順延至翌日（1月22日）00:00-00:30播映。
+  - 2016年12月24日：由於播出《[釜山同一個亞洲文化節](https://zh.wikipedia.org/wiki/釜山同一個亞洲文化節 "wikilink")》第一集，本節目順延至翌日（12月25日）00:45-01:15播映。
+  - 2016年12月31日：由於播出《[我們不離地倒數](https://zh.wikipedia.org/wiki/我們不離地倒數 "wikilink")》，本節目暫停播映。
+  - 2017年1月21日：由於19:00-22:35直播《[第十二屆KKBOX風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜#第十二屆_2017 "wikilink")》，當日《[8點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並改為於當日22:35-23:00播出《[新聞報道](../Page/Now新聞報道.md "wikilink")》，《[財金智識Fight！](https://zh.wikipedia.org/wiki/財金智識Fight！ "wikilink")》第五集及《[碌卡大導](https://zh.wikipedia.org/wiki/碌卡大導 "wikilink")》第五集順延播出。本節目順延至翌日（1月22日）00:00-00:30播映。
 
 ## 投訴事件
 

@@ -1,19 +1,23 @@
 **PAM Development**，又称**Power and Magic
 Development**，是总部设在法国巴黎的一家游戏开发商。公司成立于1995年，在2006年被[Take
 Two
-Interactive收购](../Page/Take_Two_Interactive.md "wikilink")。\[1\]\[2\]\[3\]
+Interactive收购](https://zh.wikipedia.org/wiki/Take_Two_Interactive "wikilink")。\[1\]\[2\]\[3\]
 
 2008年6月，在发布《Top Spin 3》后不久，该工作室被[2K
 Games关闭](../Page/2K_Games.md "wikilink")。
 
 ## 游戏
 
-  - [Mister Nutz](../Page/Mister_Nutz.md "wikilink")
-  - [Ronaldo V Football](../Page/Ronaldo_V_Football.md "wikilink")
-  - [Pro Beach Soccer](../Page/Pro_Beach_Soccer.md "wikilink")
-  - [Top Spin Tennis](../Page/Top_Spin_Tennis.md "wikilink")
-  - [Top Spin 2](../Page/Top_Spin_2.md "wikilink")
-  - [Top Spin 3](../Page/Top_Spin_3.md "wikilink")\[4\]
+  - [Mister Nutz](https://zh.wikipedia.org/wiki/Mister_Nutz "wikilink")
+  - [Ronaldo V
+    Football](https://zh.wikipedia.org/wiki/Ronaldo_V_Football "wikilink")
+  - [Pro Beach
+    Soccer](https://zh.wikipedia.org/wiki/Pro_Beach_Soccer "wikilink")
+  - [Top Spin
+    Tennis](https://zh.wikipedia.org/wiki/Top_Spin_Tennis "wikilink")
+  - [Top Spin 2](https://zh.wikipedia.org/wiki/Top_Spin_2 "wikilink")
+  - [Top Spin
+    3](https://zh.wikipedia.org/wiki/Top_Spin_3 "wikilink")\[4\]
 
 ## 参考资料
 

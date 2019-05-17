@@ -1,6 +1,6 @@
-是1993年12月17日[卡普空發行於](../Page/卡普空.md "wikilink")[超級任天堂上的](../Page/超級任天堂.md "wikilink")[電視遊戲](../Page/電視遊戲.md "wikilink")，[洛克人系列的第一個分支](../Page/洛克人系列.md "wikilink")，也是[洛克人X系列主軸故事的最初作品](../Page/洛克人X系列.md "wikilink")。
+是1993年12月17日[卡普空發行於](../Page/卡普空.md "wikilink")[超級任天堂上的](../Page/超級任天堂.md "wikilink")[電視遊戲](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，[洛克人系列的第一個分支](../Page/洛克人系列.md "wikilink")，也是[洛克人X系列主軸故事的最初作品](../Page/洛克人X系列.md "wikilink")。
 
-除最初的[超級任天堂版本外亦有移植](../Page/超級任天堂.md "wikilink")、1996年5月24日推出[Windows版](../Page/Microsoft_Windows.md "wikilink")、2012年1月12日推出[iphone版本](../Page/iphone.md "wikilink")，而在2013年5月22日推出了[WiiU的完全移植版](../Page/WiiU.md "wikilink")。
+除最初的[超級任天堂版本外亦有移植](../Page/超級任天堂.md "wikilink")、1996年5月24日推出[Windows版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2012年1月12日推出[iphone版本](https://zh.wikipedia.org/wiki/iphone "wikilink")，而在2013年5月22日推出了[WiiU的完全移植版](https://zh.wikipedia.org/wiki/WiiU "wikilink")。
 
 ## 概要
 
@@ -60,7 +60,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 ### 八大頭目
 
   - 「深海的武裝將軍」魚雷烏賊((Launcher Octopuld) /)
-    原非正規獵人第6艦隊的隊員，[章魚型機器人](../Page/章魚.md "wikilink")。
+    原非正規獵人第6艦隊的隊員，[章魚型機器人](https://zh.wikipedia.org/wiki/章魚 "wikilink")。
     本身火力強大，戰略知識也相當豐富，戰鬥時非常講究美學，所以打倒對手時常常使用華麗的手法。
     因為長久以來對保護人類的想法感到不解，又剛好碰上西格瑪的叛亂，所以欣然加入了西格瑪的麾下，以海軍部隊的火力鎮壓了海上都市。
     為[洛克人X5中閃電烏賊的前輩兼好友](../Page/洛克人X5.md "wikilink")。
@@ -75,8 +75,8 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 <!-- end list -->
 
   - 「灼熱的油箱」石油豪豬 ((Burnin' Noumander) /)
-    原非正規獵人第4陸上部隊的隊長，[猛瑪象型機器人](../Page/猛瑪象.md "wikilink")。
-    曾有在[中東沙漠參與戰爭的經驗](../Page/中東.md "wikilink")，因為體型巨大且力量強大，所以會霸凌比自己弱小的敵人，甚至連非正規獵人都不放過。
+    原非正規獵人第4陸上部隊的隊長，[猛瑪象型機器人](https://zh.wikipedia.org/wiki/猛瑪象 "wikilink")。
+    曾有在[中東沙漠參與戰爭的經驗](https://zh.wikipedia.org/wiki/中東 "wikilink")，因為體型巨大且力量強大，所以會霸凌比自己弱小的敵人，甚至連非正規獵人都不放過。
     一直以來都渴望能找到讓能夠盡情攻擊弱小敵人的戰場而加入了西格瑪的叛亂，然而自身以大欺小的惡劣個性導致沒有任何其他第4陸上部隊的部下願意與他一起加入西格瑪的叛亂行動，所以單獨以強大火力拿下了機器人廢棄場，準備改造成一座新型兵器工廠。
     與階級較低但實力卻不相上下的冰凍企鵝關係極差。
 
@@ -86,7 +86,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
     原非正規獵人第17精銳部隊的隊員，[鍬形蟲型機器人](../Page/鍬形蟲.md "wikilink")。
     戰鬥方式為快速移動來混淆對手，相當擅長資料處理與分析，為講求理性的理論派戰鬥家，並不太在意是非善惡是什麼。
     雖然自稱「覺得站在這一邊比較有趣」而加入西格瑪的麾下來叛亂，但實際上是在冷靜分析後得到「不這麼做的話是死路一條」的結論，而作出這決定，攻佔了都市高塔作為戰鬥的基地。
-    [X3登場的鐮刀甲蟲為他的弟弟](../Page/洛克人X3.md "wikilink")。
+    [X3登場的鐮刀甲蟲為他的弟弟](https://zh.wikipedia.org/wiki/洛克人X3 "wikilink")。
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 <!-- end list -->
 
   - 「天空的貴公子」暴風鐵鷹((Storm Eagleed) /)
-    原非正規獵人第7空艇部隊的隊長，[老鷹型機器人](../Page/老鷹.md "wikilink")。
+    原非正規獵人第7空艇部隊的隊長，[老鷹型機器人](https://zh.wikipedia.org/wiki/老鷹 "wikilink")。
     擅長在空中進行高速纏鬥，個性十分冷靜沉著，部下對他的評價非常的高，因為曾在第17精銳部隊受訓過，所以也是艾克斯和傑洛的舊識兼老朋友。
     在西格瑪叛亂初期作為反抗軍領導者反抗西格瑪，但因不敵西格瑪的壓倒性力量，只好加入西格瑪麾下一同叛亂，佔領了空中機場。
     在[洛克人X6使用特殊武器](../Page/洛克人X6.md "wikilink")「金屬錨」的聚氣版時，會出現大量用資料重現的金屬暴風鐵鷹來攻擊對手。
@@ -114,7 +114,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 <!-- end list -->
 
   - 「鋼鐵的裝甲鬥士」裝甲犰狳((Armor Armarge) /)
-    原非正規獵人第8裝甲部隊的隊長，[犰狳型機器人](../Page/犰狳.md "wikilink")。
+    原非正規獵人第8裝甲部隊的隊長，[犰狳型機器人](https://zh.wikipedia.org/wiki/犰狳 "wikilink")。
     擁有相當高的防禦力，身上的裝備能將多數攻擊給抵擋掉，有著強烈的武士魂和軍人個性。
     因為非正規獵人實質上的首領是西格瑪，所以西格瑪叛亂時便忠心的作為下屬協助攻佔礦坑，對西格瑪的行動的一率不予評論。
 
@@ -129,7 +129,7 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 
   - 混亂壁畫( /)
     西格瑪城第二關的守門頭目，[壁畫型機器人](../Page/壁畫.md "wikilink")。
-    其設計是西格瑪過去執行任務在東南亞發現的遺跡壁畫，從壁畫上畫的[巫婆中得到的靈感](../Page/巫婆.md "wikilink")。
+    其設計是西格瑪過去執行任務在東南亞發現的遺跡壁畫，從壁畫上畫的[巫婆中得到的靈感](https://zh.wikipedia.org/wiki/巫婆 "wikilink")。
     後續的[X5中亦有出現改良型的混亂壁畫W](../Page/洛克人X5.md "wikilink")。
 
 <!-- end list -->
@@ -164,11 +164,11 @@ Portable發行的](../Page/PlayStation_Portable.md "wikilink")《[反亂獵人X]
 
   - RT-55J
 
-於變色龍關卡出現的中級頭目。[力士型機器人](../Page/力士.md "wikilink")。曾經在「機器人大相撲比賽」中的超人氣橫綱力士冠軍，力量很強，可以使用伸縮型的機械手臂攻擊對手。
+於變色龍關卡出現的中級頭目。[力士型機器人](https://zh.wikipedia.org/wiki/力士 "wikilink")。曾經在「機器人大相撲比賽」中的超人氣橫綱力士冠軍，力量很強，可以使用伸縮型的機械手臂攻擊對手。
 
   - 閃電黏液者( /)
 
-於電氣金剛關卡出現的中級頭目。巨大[細胞型機器](../Page/細胞.md "wikilink")。於10年前的實驗誕生的細胞製造機，由於因為無法控制的製造太多細胞而導致高度的危險，雷霆黏液者被關閉於一個發電廠房間內。雷霆黏液者的核心機器被包覆於果凍狀的黏液物質之中，可以將自身上的黏液分離黏住入侵者，並利用發電廠吸收的電力來發射電擊。
+於電氣金剛關卡出現的中級頭目。巨大[細胞型機器](https://zh.wikipedia.org/wiki/細胞 "wikilink")。於10年前的實驗誕生的細胞製造機，由於因為無法控制的製造太多細胞而導致高度的危險，雷霆黏液者被關閉於一個發電廠房間內。雷霆黏液者的核心機器被包覆於果凍狀的黏液物質之中，可以將自身上的黏液分離黏住入侵者，並利用發電廠吸收的電力來發射電擊。
 
 ## 歌曲
 

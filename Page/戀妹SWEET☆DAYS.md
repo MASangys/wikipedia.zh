@@ -1,4 +1,4 @@
-是日本[Parasol在](../Page/Parasol.md "wikilink")2012年5月25日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是日本[Parasol在](https://zh.wikipedia.org/wiki/Parasol "wikilink")2012年5月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 
@@ -25,10 +25,10 @@
 
 ### 其他角色
 
-  - 八千穂梓（CV：[かわしまりの](../Page/かわしまりの.md "wikilink")）
+  - 八千穂梓（CV：[かわしまりの](https://zh.wikipedia.org/wiki/かわしまりの "wikilink")）
     生日：11月8日　身高：168cm　 三圍：B87（E）/W56/H89
     八千穗家的長女，響迦院學園的保健醫生。
-  - 普門寺綺依里（CV：[青葉りんご](../Page/青葉りんご.md "wikilink")）
+  - 普門寺綺依里（CV：[青葉りんご](https://zh.wikipedia.org/wiki/青葉りんご "wikilink")）
     生日：10月19日　身高：163cm　三圍：B74（B）/W48/H75
     三年級學生，和百合香是表姊妹關係，擔任百合香的隨從。
   - 茅野侑子（CV：[小倉結衣](../Page/小倉結衣.md "wikilink")）

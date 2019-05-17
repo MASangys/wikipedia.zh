@@ -1,4 +1,4 @@
-《**Hinabita**》(英：HinaBitter♪、日：ひなビタ♪)是[KONAMI公司的虛擬偶像企劃](../Page/KONAMI.md "wikilink")(正式名稱：[Web聯動型音樂配信企畫](../Page/Web聯動型音樂配信企劃.md "wikilink"))。\[1\]
+《**Hinabita**》(英：HinaBitter♪、日：ひなビタ♪)是[KONAMI公司的虛擬偶像企劃](https://zh.wikipedia.org/wiki/KONAMI "wikilink")(正式名稱：[Web聯動型音樂配信企畫](https://zh.wikipedia.org/wiki/Web聯動型音樂配信企劃 "wikilink"))。\[1\]
 本是企劃監修是由〈Zektbach敘事詩〉的音樂製作人TOMOSUKE(舟木智介)，原畫為韓國籍日系插畫家CUTEG。
 
 ## 概要
@@ -30,36 +30,36 @@
 《Hinabita》故事的主角群，是日向美商店街的少女為了拯救曾經繁榮現以冷漠的商店街，組成了樂團《日向美Bitter
 Sweets♪》，以《宛如凜風中綻放的花》(凜として咲く花の如く)正式演出。
 
-  - 山形茉莉花（やまがた まりか） [声優](../Page/声优.md "wikilink") -
+  - 山形茉莉花（やまがた まりか） [声優](https://zh.wikipedia.org/wiki/声优 "wikilink") -
     [日高里菜](../Page/日高里菜.md "wikilink")
     16歲，9月22日出生。
     日向美商店街唱片店「Saudade」(サウダージ)的女兒，《日向美Bitter
-    Sweets♪》的隊長，位置是[鍵盤手](../Page/键盘手.md "wikilink")。喜歡甜食。
+    Sweets♪》的隊長，位置是[鍵盤手](https://zh.wikipedia.org/wiki/键盘手 "wikilink")。喜歡甜食。
     主題曲：戀愛與金剛（戀とキングコング）
-  - 和泉一舞（いずみ いぶき）[声優](../Page/声优.md "wikilink") -
+  - 和泉一舞（いずみ いぶき）[声優](https://zh.wikipedia.org/wiki/声优 "wikilink") -
     [津田美波](../Page/津田美波.md "wikilink")
     16歲，8月10號出生。
     日向美商店街唱片店「和泉洋裝」(いずみ洋装店)的女兒，《日向美Bitter
-    Sweets♪》的初期成員(樂團一開始只有茉莉花和一舞)，位置是[貝斯手](../Page/貝斯.md "wikilink")，茉莉花的[青梅竹馬](../Page/青梅竹馬.md "wikilink")，喜愛[VOCALOID音樂](../Page/VOCALOID.md "wikilink")，喜歡的暱稱是「伊芙」(イブ)，特別受到[女孩子喜歡](../Page/百合_\(文化\).md "wikilink")，樂團成立後變本加厲，甚至地方上有了「伊芙大人粉絲俱樂部」。
+    Sweets♪》的初期成員(樂團一開始只有茉莉花和一舞)，位置是[貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，茉莉花的[青梅竹馬](../Page/青梅竹馬.md "wikilink")，喜愛[VOCALOID音樂](../Page/VOCALOID.md "wikilink")，喜歡的暱稱是「伊芙」(イブ)，特別受到[女孩子喜歡](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")，樂團成立後變本加厲，甚至地方上有了「伊芙大人粉絲俱樂部」。
     主題曲：伊芙的時代！（イブの時代っ\!)
-  - 芽兔咩嗚（めう めう）[声優](../Page/声优.md "wikilink") -
+  - 芽兔咩嗚（めう めう）[声優](https://zh.wikipedia.org/wiki/声优 "wikilink") -
     [五十嵐裕美](../Page/五十嵐裕美.md "wikilink")
     14歲，8月5日出生。(備註：自稱永遠的14歲，實際年齡不詳)
     日向美商店街印章店「兔月堂」的女兒，《日向美Bitter
-    Sweets♪》的成員之一，學校成績不理想，卻以「天才鼓手」的傳說被茉莉花看上，位置是[爵士鼓手](../Page/爵士鼓.md "wikilink")，擁有自己作曲的能力，一直帶著的耳機兩側皆有「兔」字，是一個[電波女並喜愛著](../Page/電波系.md "wikilink")[秋叶原文化](../Page/秋葉原.md "wikilink")，時常將樂團成員和自己進行[COSPLAY](../Page/COSPLAY.md "wikilink")，口頭禪是MEU(同自己的名子咩嗚)，喜愛[DrumMania街機](../Page/狂热鼓手系列.md "wikilink")，能力十分強能輕鬆將高難度普面FC(FULL
+    Sweets♪》的成員之一，學校成績不理想，卻以「天才鼓手」的傳說被茉莉花看上，位置是[爵士鼓手](../Page/爵士鼓.md "wikilink")，擁有自己作曲的能力，一直帶著的耳機兩側皆有「兔」字，是一個[電波女並喜愛著](../Page/電波系.md "wikilink")[秋叶原文化](../Page/秋葉原.md "wikilink")，時常將樂團成員和自己進行[COSPLAY](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，口頭禪是MEU(同自己的名子咩嗚)，喜愛[DrumMania街機](../Page/狂热鼓手系列.md "wikilink")，能力十分強能輕鬆將高難度普面FC(FULL
     COMBLE)。
     主題曲：芽兔芽兔平坦坦！！（めうめうぺったんたん\!\!）
-  - 春日 咲子（かすが さきこ）[声優](../Page/声优.md "wikilink")-
+  - 春日 咲子（かすが さきこ）[声優](https://zh.wikipedia.org/wiki/声优 "wikilink")-
     [山口愛](../Page/山口愛.md "wikilink")
     15歲，2月4日生。
     日向美商店街女僕咖啡廳「Chat Noir」的女兒，《日向美Bitter
     Sweets♪》的成員之一，位置是原聲吉他手(搭配樂團也會使用電吉他)，工作能力良好，經常穿女僕裝幫忙店裡的事情。父母親離婚，關係複雜。成績優秀，和茉莉花等人同校
     主題曲：非常非常，感謝你。（とってもとっても、ありがとう。）
-  - 霜月 凛（しもつき りん）[声優](../Page/声优.md "wikilink") -
-    [水原薫](../Page/水原薫.md "wikilink")
+  - 霜月 凛（しもつき りん）[声優](https://zh.wikipedia.org/wiki/声优 "wikilink") -
+    [水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")
     17歲，11月3日生。
     日向美商店街舊書店「霜月書林」的女兒。《日向美Bitter
-    Sweets♪》的成員之一，位置是電吉他手。左眼下有一個淚痣，喜歡[澁澤龍彦](../Page/澁澤龍彦.md "wikilink")、[三島由紀夫](../Page/三島由紀夫.md "wikilink")、[夢野久作的小說](../Page/夢野久作.md "wikilink")。個性上是[無口和](../Page/無口.md "wikilink")[中二病](../Page/中二病.md "wikilink")，會用其他人家中的商店名稱作為稱呼。
+    Sweets♪》的成員之一，位置是電吉他手。左眼下有一個淚痣，喜歡[澁澤龍彦](https://zh.wikipedia.org/wiki/澁澤龍彦 "wikilink")、[三島由紀夫](https://zh.wikipedia.org/wiki/三島由紀夫 "wikilink")、[夢野久作的小說](../Page/夢野久作.md "wikilink")。個性上是[無口和](../Page/無口.md "wikilink")[中二病](../Page/中二病.md "wikilink")，會用其他人家中的商店名稱作為稱呼。
     主題曲：虛空與光明的演講稿(虛空と光明のディスクール)
 
 ### Coconatsu（ここなつ）
@@ -69,18 +69,19 @@ Sweets♪》互相當成對手的另一個樂團，在第三季正式豋場。�
 Sweets♪》不同的是《Coconatsu》為職業偶像，是商務設施「未來之塔‧星夢」的代言人。因為過度練習而累倒了，最後解除經濟人的企劃，姐姐東雲夏陽也從敵對關係變成稍微友好，成為自由偶像後和《日向美Bitter
 Sweets♪》等人合作。
 
-  - 東雲 夏陽（しののめ なつひ）[声優](../Page/声优.md "wikilink") - 日南結里
+  - 東雲 夏陽（しののめ なつひ）[声優](https://zh.wikipedia.org/wiki/声优 "wikilink") -
+    日南結里
     櫻野高校一年級偶像雙胞胎的姐姐。6月12日生。
     都市的少女，不息冠鄉村氣息。具有職業級的偶像自覺，一開始覺得自己的隊伍《Coconatsu》比起《日向美Bitter
     Sweets♪》而自負，妹妹心菜卻很喜歡《日向美Bitter
     Sweets♪》。喜歡[電子音樂](../Page/電子舞曲.md "wikilink")(EDM)。
     會用自創的方式稱呼別人，習慣是商品加樂器，例如竹輪鍵盤(茉莉花)、印章爵士鼓(咩嗚)。和一舞不合。
     造型是紅髮藍眼。
-  - 東雲 心菜（しののめ ここな）[声優](../Page/声优.md "wikilink") -
+  - 東雲 心菜（しののめ ここな）[声優](https://zh.wikipedia.org/wiki/声优 "wikilink") -
     [小澤亞李](../Page/小澤亞李.md "wikilink")
     櫻野高校一年級偶像雙胞胎的妹妹。6月12日生。
     不擅長與人溝通，會使用平板電腦作為交流工具，喜歡小動物，特別是貓，愛吃甜食。因為和《日向美Bitter
-    Sweets♪》成員很親近而常常被姐姐唸。。喜歡[流行電音](../Page/流行電音.md "wikilink")，[電子樂](../Page/電子音樂.md "wikilink")(實際名稱:Electronica)，
+    Sweets♪》成員很親近而常常被姐姐唸。。喜歡[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")，[電子樂](../Page/電子音樂.md "wikilink")(實際名稱:Electronica)，
     平日會帶眼鏡，在舞台上則會拿掉。
     造形是藍髮紅眼。和姐姐顏色相反。
 
@@ -111,18 +112,18 @@ Sweets♪》由[科樂美數位娛樂發行的專輯](../Page/科樂美數位娛
 
 1.  戀愛與金剛(恋とキングコング)
       -
-        （作詞・作曲：[ササキトモコ](../Page/ササキトモコ.md "wikilink")）
+        （作詞・作曲：[ササキトモコ](https://zh.wikipedia.org/wiki/ササキトモコ "wikilink")）
         山形茉莉花的主題曲。『[pop'n
-        music](../Page/流行音乐_\(游戏\).md "wikilink")』系列中的名稱是「スイーツポップ」。
+        music](https://zh.wikipedia.org/wiki/流行音乐_\(游戏\) "wikilink")』系列中的名稱是「スイーツポップ」。
 2.  伊芙的時代！(イブの時代っ\!)
       -
-        （作詞：[末永茉己](../Page/末永茉己.md "wikilink")、作曲：[藤田淳平](../Page/藤田淳平.md "wikilink")([Elements
+        （作詞：[末永茉己](https://zh.wikipedia.org/wiki/末永茉己 "wikilink")、作曲：[藤田淳平](../Page/藤田淳平.md "wikilink")([Elements
         Garden](../Page/Elements_Garden.md "wikilink"))）
         和泉一舞的主題曲。『『[pop'n
-        music](../Page/流行音乐_\(游戏\).md "wikilink")』系列中的名稱是「ハイテンションギャルロック」。
+        music](https://zh.wikipedia.org/wiki/流行音乐_\(游戏\) "wikilink")』系列中的名稱是「ハイテンションギャルロック」。
 3.  芽兔芽兔平坦坦！！(めうめうぺったんたん\!\!)
       -
-        （作詞：[夕野ヨシミ](../Page/夕野ヨシミ.md "wikilink")([IOSYS](../Page/IOSYS.md "wikilink"))、作曲：[ARM](../Page/ARM_\(作曲家\).md "wikilink")(IOSYS)）
+        （作詞：[夕野ヨシミ](https://zh.wikipedia.org/wiki/夕野ヨシミ "wikilink")([IOSYS](../Page/IOSYS.md "wikilink"))、作曲：[ARM](https://zh.wikipedia.org/wiki/ARM_\(作曲家\) "wikilink")(IOSYS)）
         芽兎咩嗚的主題曲。『pop'n music』系列中的名稱是「萌えおこし電波ソング」。
 4.  非常非常，感謝你。(とってもとっても、ありがとう。)
       -

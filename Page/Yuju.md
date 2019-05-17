@@ -1,12 +1,12 @@
-**崔裕娜**\[1\]（，，），藝名**Yuju**（），[韓國女](../Page/大韓民國.md "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下](../Page/Source_Music.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主唱、高音擔當，是4代K-pop女團中音域較高的出色主唱，曾經是[Cube娛樂](../Page/Cube娛樂.md "wikilink")(2011年)和[LOEN娛樂](../Page/LOEN娛樂.md "wikilink")(2012年)的練習生，練習生生涯總長為2-3年(國二至高二)，中間休息過一段時間，高一離開了練習了一年半的公司([LOEN娛樂](../Page/LOEN娛樂.md "wikilink"))
+**崔裕娜**\[1\]（，，），藝名**Yuju**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
+Music旗下](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主唱、高音擔當，是4代K-pop女團中音域較高的出色主唱，曾經是[Cube娛樂](../Page/Cube娛樂.md "wikilink")(2011年)和[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")(2012年)的練習生，練習生生涯總長為2-3年(國二至高二)，中間休息過一段時間，高一離開了練習了一年半的公司([LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink"))
 
 ## 簡歷
 
 ### 出道前
 
 她在2011年參加《[K-pop Star
-1](../Page/K-pop_Star_1.md "wikilink")》，演唱[GUMMY的](../Page/GUMMY.md "wikilink")《Because
+1](../Page/K-pop_Star_1.md "wikilink")》，演唱[GUMMY的](https://zh.wikipedia.org/wiki/GUMMY "wikilink")《Because
 It's You》，結果第一回合被淘汰。
 
 她在2012年參加\[京畿道高陽市青少年綜合藝術節\]，獲得最優秀獎（初三）。
@@ -16,7 +16,7 @@ It's You》，結果第一回合被淘汰。
 ### 2015年
 
 她與Loco為電視劇《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》演唱的OST《偶然的春天》備受關注。這首歌曲**連續十周**獲得《[Music
-Bank](../Page/KBS音樂銀行.md "wikilink")》OST榜首位，並在第7屆[甜瓜音樂獎獲得](../Page/甜瓜音樂獎.md "wikilink")**原聲帶獎**。
+Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》OST榜首位，並在第7屆[甜瓜音樂獎獲得](../Page/甜瓜音樂獎.md "wikilink")**原聲帶獎**。
 
 9月5日，GFRIEND在江原道參加公演時因下雨致舞台濕滑而發生多次摔倒，該影片在網路上傳播後點擊觀看超過1000萬次，並得到了世界各地網友稱讚成員敬業。\[2\]\[3\]
 
@@ -25,7 +25,7 @@ Idol](../Page/Weekly_Idol.md "wikilink")》對於最近在雨中表演摔倒而�
 
 ### 2016年
 
-2月，在第11屆《[MBC偶像明星運動會](../Page/MBC偶像明星運動會.md "wikilink")》以全勝姿態奪下女子田徑60米金牌。
+2月，在第11屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》以全勝姿態奪下女子田徑60米金牌。
 
 3月，她與[UP10TION的善燏推出合作單曲](../Page/UP10TION.md "wikilink")《Cherish》。\[4\]
 
@@ -39,13 +39,14 @@ Idol](../Page/Weekly_Idol.md "wikilink")》對於最近在雨中表演摔倒而�
 
 1月，在第13屆《MBC偶像明星運動會》奪下女子田徑60米銀牌，亦首度挑戰女子韻律體操。
 
-10月27日，与[IZ的志厚推出合作单曲](../Page/IZ.md "wikilink")《Heart Signal (하트시그널)》。
+10月27日，与[IZ的志厚推出合作单曲](https://zh.wikipedia.org/wiki/IZ "wikilink")《Heart
+Signal (하트시그널)》。
 
 ### 2018年: 首張單曲專輯《Love Rain》
 
 6月24日，透過官方SNS公開Yuju將於29日發首張單曲專輯的預告。公開的預告圖中畫有一朵淋著雨的紅色花朵，上方寫有Yuju的名字，但單曲名稱、風格和伴唱歌手的身份尚未公開，讓粉絲十分好奇與期待。
 
-27日，GFRIEND透過官方SNS正式公開資訊，Yuju將於與[Suran](../Page/Suran.md "wikilink")（申秀蘭）合作新曲《Love
+27日，GFRIEND透過官方SNS正式公開資訊，Yuju將於與[Suran](https://zh.wikipedia.org/wiki/Suran "wikilink")（申秀蘭）合作新曲《Love
 Rain》，本次的《Love Rain》是Yuju在出道後首次以個人名義發行的單曲。28日，《Love Rain》的歌詞版預告短片，Yuju
 溫柔清亮的歌聲和 Suran 沙啞中略帶稚氣的獨特音質既能鮮明獨立也能完美融合。 由知名製作人 EDEN 創作的 "Love Rain"
 是一首奠基在 swing 風格上的中板 R\&B 歌曲，藉由傾瀉而下的大雨比喻以不同態度面對愛情的女子。
@@ -127,21 +128,21 @@ This Song》是一首由簡潔的鋼琴旋律組合而成的抒情曲，歌詞�
 <td><p>2017年10月27日</p></td>
 <td><p>《Heart Signal (하트시그널)》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=A6-T9TVHaEI">Heart Signal (하트시그널)</a></p></td>
-<td><p><a href="../Page/IZ.md" title="wikilink">志厚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IZ" title="wikilink">志厚</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月5日</p></td>
 <td><p>《CHERISH》</p></td>
 <td><p>첫사랑</p></td>
-<td><p><a href="../Page/Jung_Key.md" title="wikilink">정키(Jung Key)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jung_Key" title="wikilink">정키(Jung Key)</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年6月29日</p></td>
 <td><p>《Love Rain》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=YA_QoIh78eA">Love Rain</a></p></td>
-<td><p><a href="../Page/SURAN.md" title="wikilink">수란(SURAN)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SURAN" title="wikilink">수란(SURAN)</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -223,21 +224,21 @@ This Song》是一首由簡潔的鋼琴旋律組合而成的抒情曲，歌詞�
 
 ## 音樂現場
 
-| 2015年                                           |
-| ----------------------------------------------- |
-| 節目名稱                                            |
-| KBS歌谣大祝祭                                        |
-| 2016年                                           |
-| [人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")           |
-| [Music Bank](../Page/KBS音樂銀行.md "wikilink")     |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink") |
-| 人氣歌謠                                            |
-| Dream Concert                                   |
-| Music Bank                                      |
-| 人氣歌謠                                            |
-| 2017年                                           |
-| Music Bank                                      |
-| SBS歌謠大戰2部                                       |
+| 2015年                                                              |
+| ------------------------------------------------------------------ |
+| 節目名稱                                                               |
+| KBS歌谣大祝祭                                                           |
+| 2016年                                                              |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")           |
+| [Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")     |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") |
+| 人氣歌謠                                                               |
+| Dream Concert                                                      |
+| Music Bank                                                         |
+| 人氣歌謠                                                               |
+| 2017年                                                              |
+| Music Bank                                                         |
+| SBS歌謠大戰2部                                                          |
 
 ## 榮譽獎項
 

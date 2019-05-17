@@ -1,5 +1,5 @@
 **Dear
-Santa**是[韩國](../Page/韩國.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[少女時代子團體](../Page/少女時代.md "wikilink")[少女時代-太蒂徐的第一張聖誕特別迷你專輯](../Page/少女時代-太蒂徐.md "wikilink")，於2015年12月4日發行。
+Santa**是[韩國](https://zh.wikipedia.org/wiki/韩國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[少女時代-太蒂徐的第一張聖誕特別迷你專輯](../Page/少女時代-太蒂徐.md "wikilink")，於2015年12月4日發行。
 
 ## 發行
 
@@ -28,7 +28,7 @@ Story》現場聲樂版本的影片。
 <td><p>2016</p></td>
 <td><p>707+ <ref>Sales references for "Dear Santa" in 2016:</p>
 <ul>
-<li><a href="https://web.archive.org/web/20160215040808/http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=01&amp;hitYear=2016&amp;termGbn=month">South Korea's Gaon chart's 2016 Monthly Albums Chart – January</a> Originally from <a href="../Page/Gaon_Music_Chart.md" title="wikilink">Gaon Music Chart</a> (January 2015). Archived on February 28, 2016. Retrieved on February 28, 2016.</li>
+<li><a href="https://web.archive.org/web/20160215040808/http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=01&amp;hitYear=2016&amp;termGbn=month">South Korea's Gaon chart's 2016 Monthly Albums Chart – January</a> Originally from <a href="https://zh.wikipedia.org/wiki/Gaon_Music_Chart" title="wikilink">Gaon Music Chart</a> (January 2015). Archived on February 28, 2016. Retrieved on February 28, 2016.</li>
 </ul>
 <p></ref></p></td>
 </tr>

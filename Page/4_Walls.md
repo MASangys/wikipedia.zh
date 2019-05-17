@@ -1,5 +1,5 @@
 **《4
-Walls》**為[韓國女子組合](../Page/韓國.md "wikilink")[f(x)的第四張正規專輯](../Page/f\(x\)_\(組合\).md "wikilink")，由[SM娛樂於](../Page/SM娛樂.md "wikilink")2015年10月27日發行音源和唱片。此專輯也是成員[Sulli退團後發行的第一張專輯](../Page/崔真理.md "wikilink")。
+Walls》**為[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[f(x)的第四張正規專輯](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")，由[SM娛樂於](../Page/SM娛樂.md "wikilink")2015年10月27日發行音源和唱片。此專輯也是成員[Sulli退團後發行的第一張專輯](../Page/崔真理.md "wikilink")。
 
 ## 「4 Walls」
 
@@ -25,14 +25,17 @@ Walls》**為[韓國女子組合](../Page/韓國.md "wikilink")[f(x)的第四張
     Best K-Pop Songs of 2015: K-Town
     Picks》「第1位」、《[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")
     The 10 Best K-Pop Albums of 2015》最佳韓文專輯「第2位」。
-  - 10月29日透過《 [M\! Countdown](../Page/M!_Countdown.md "wikilink")》正式回歸。
+  - 10月29日透過《 [M\!
+    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式回歸。
   - 主打曲目「4 Walls」於多個音樂節目取得1位。
       - [M\!
-        Countdown](../Page/M!_Countdown.md "wikilink")：2015年11月5日、11月19日
-      - [Music Bank](../Page/Music_Bank.md "wikilink")：2015年11月6日、11月13日
-      - [THE SHOW](../Page/THE_SHOW.md "wikilink")：2015年11月10日
+        Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")：2015年11月5日、11月19日
+      - [Music
+        Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")：2015年11月6日、11月13日
+      - [THE
+        SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")：2015年11月10日
   - 《4
-    Walls》已於2015年11月15日[SBS人氣歌謠結束本次打歌活動](../Page/SBS人氣歌謠.md "wikilink")，並將中心投入在2016年1月29-31日於首爾舉辦的演唱會做全力準備。
+    Walls》已於2015年11月15日[SBS人氣歌謠結束本次打歌活動](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")，並將中心投入在2016年1月29-31日於首爾舉辦的演唱會做全力準備。
   - 《4
     Walls》發行後不僅創下多個新紀錄，除了成為女子組合首周銷售第一名的紀錄外，同時也是2015年女子組合專輯總銷售量第一名，可謂前所未見的多項紀錄。
 

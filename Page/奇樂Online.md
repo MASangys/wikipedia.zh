@@ -1,12 +1,12 @@
 **《奇樂Online》**（英語：Kira
-Online）是由[香港電子遊戲公司](../Page/香港.md "wikilink")[雲起所開發](../Page/雲起遊戲.md "wikilink")，其在台灣所成立之分公司[歡樂派](https://www.funmily.com/)營運的網頁遊戲。於2015年推出手機版。以[殺手遊戲為底](../Page/殺手遊戲.md "wikilink")，集[交友](../Page/交友網站.md "wikilink")[聊天](../Page/聊天.md "wikilink")、[邏輯推理](../Page/邏輯推理.md "wikilink")、[心理分析於一身的](../Page/心理分析.md "wikilink")[休閒](../Page/休閒.md "wikilink")[互動](../Page/互動娛樂.md "wikilink")[網頁遊戲](../Page/網頁遊戲.md "wikilink")。以簡單的[遊戲方式](../Page/遊戲.md "wikilink")，配合豐富的[策略元素為最大特色](../Page/策略.md "wikilink")。曾於2016年獲[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")「GAME
+Online）是由[香港電子遊戲公司](../Page/香港.md "wikilink")[雲起所開發](../Page/雲起遊戲.md "wikilink")，其在台灣所成立之分公司[歡樂派](https://www.funmily.com/)營運的網頁遊戲。於2015年推出手機版。以[殺手遊戲為底](https://zh.wikipedia.org/wiki/殺手遊戲 "wikilink")，集[交友](https://zh.wikipedia.org/wiki/交友網站 "wikilink")[聊天](https://zh.wikipedia.org/wiki/聊天 "wikilink")、[邏輯推理](https://zh.wikipedia.org/wiki/邏輯推理 "wikilink")、[心理分析於一身的](https://zh.wikipedia.org/wiki/心理分析 "wikilink")[休閒](https://zh.wikipedia.org/wiki/休閒 "wikilink")[互動](https://zh.wikipedia.org/wiki/互動娛樂 "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")。以簡單的[遊戲方式](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，配合豐富的[策略元素為最大特色](https://zh.wikipedia.org/wiki/策略 "wikilink")。曾於2016年獲[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")「GAME
 STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 
 ## 遊戲玩法
 
-遊戲內一共分為[警察](../Page/警察.md "wikilink")、[殺手兩大陣營](../Page/殺手.md "wikilink")，玩家於每一局遊戲中均隨機飾演[平民](../Page/平民.md "wikilink")、[警察](../Page/警察.md "wikilink")、[殺手](../Page/殺手.md "wikilink")、[醫生](../Page/醫生.md "wikilink")、[狙擊手等不同角色](../Page/狙擊手.md "wikilink")，根據各自的身份在[遊戲中制定不同](../Page/游戏.md "wikilink")[策略](../Page/策略.md "wikilink")，以最短時間查出敵對勢力身份，並將對方消滅為最終目標。
+遊戲內一共分為[警察](../Page/警察.md "wikilink")、[殺手兩大陣營](../Page/殺手.md "wikilink")，玩家於每一局遊戲中均隨機飾演[平民](https://zh.wikipedia.org/wiki/平民 "wikilink")、[警察](../Page/警察.md "wikilink")、[殺手](../Page/殺手.md "wikilink")、[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")、[狙擊手等不同角色](../Page/狙擊手.md "wikilink")，根據各自的身份在[遊戲中制定不同](../Page/游戏.md "wikilink")[策略](https://zh.wikipedia.org/wiki/策略 "wikilink")，以最短時間查出敵對勢力身份，並將對方消滅為最終目標。
 
-玩家透過主題的選擇可以參與該遊戲模式。遊戲玩法亦與[殺手遊戲](../Page/殺手遊戲.md "wikilink")（天黑請閉眼）等雷同。進入夜晚後由殺手、警察與「特殊職業」（以主題決定而有所不同）展開行動，殺手與警察會有專用對話框。白天將會進行「輿論表決」，在時間內過半票數的人將會被處死。死亡的人可在時限內做出字數限制（32個英文字元或16個中文字元）以內的留言內容（有些特殊死法無法留下遺言）。
+玩家透過主題的選擇可以參與該遊戲模式。遊戲玩法亦與[殺手遊戲](https://zh.wikipedia.org/wiki/殺手遊戲 "wikilink")（天黑請閉眼）等雷同。進入夜晚後由殺手、警察與「特殊職業」（以主題決定而有所不同）展開行動，殺手與警察會有專用對話框。白天將會進行「輿論表決」，在時間內過半票數的人將會被處死。死亡的人可在時限內做出字數限制（32個英文字元或16個中文字元）以內的留言內容（有些特殊死法無法留下遺言）。
 
 遊戲分為三方：
 
@@ -56,14 +56,14 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <td><p>殺手們知道彼此身分，有獨立溝通頻道，但無法與其他紅底角色溝通。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/平民.md" title="wikilink">平民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/平民" title="wikilink">平民</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>沒有特殊能力，但為人數最多的職業，在幫助警察投票時能夠發揮極大優勢。</p></td>
 <td><p>英文代號pin、ping</p></td>
 <td><p>平民無法知道任何其他人的職業，除非那個人已死亡，或者是屁孩身分被曝光</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/醫生.md" title="wikilink">醫生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/醫生" title="wikilink">醫生</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一位目標（包含自己）進行施針，若該晚目標同時遭到死亡時則目標會當場復活。但若目標沒遭殺害則目標會累積一次空針，累積兩次空針則會死亡，包括醫生自己。滿18人之遊戲房中，只有4次施針機會。</p></td>
 <td><p>英文代號E</p></td>
@@ -78,21 +78,21 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <td><p>無法與殺手直接溝通，通常殺手死後會留G單，告訴狙擊手該狙擊誰，照著單狙可避免狙到殺手。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/特工.md" title="wikilink">特工</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特工" title="wikilink">特工</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一名目標進行保護，被保護的目標不會遭到攻擊。但若自己遭到殺害（無論是哪一陣營的殺人方式）會一同讓保護的目標死亡。</p></td>
 <td><p>代稱：特</p></td>
 <td><p>無法保護恐怖攻擊、死靈4魂攻擊、縱火狂魔點火、藤魔種子發芽、喪屍攻擊、綁匪撕票。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/恐怖份子.md" title="wikilink">恐怖份子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/恐怖份子" title="wikilink">恐怖份子</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上能選擇一名目標進行自殺式轟炸，自己與目標即時死亡也無法留下遺言，恐怖攻擊無法抵擋。若目標為殺手陣營則會轟炸失敗，當場自爆。</p></td>
 <td><p>代稱：馬鈴薯</p></td>
 <td><p>被警察搜查時結果會顯示為平民；醫生若成功雙針恐怖分子會被連累炸死。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/牛仔.md" title="wikilink">牛仔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/牛仔" title="wikilink">牛仔</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一名目標進行射殺，但需用俄羅斯輪盤的方式決定攻擊效果。</p></td>
 <td><p>代稱：牛、C</p></td>
@@ -102,7 +102,7 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <p>若攻擊當晚牛仔死亡，則攻擊失敗。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/绑匪.md" title="wikilink">綁匪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/绑匪" title="wikilink">綁匪</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上能選擇一名目標進行綁架，目標該晚無法進行任何動作。若被警察查出身分，則被綁架的目標會被撕票死亡。</p></td>
 <td><p>代稱：綁、小丑</p></td>
@@ -116,14 +116,14 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <td><p>存活玩家中有一半以上的人變成喪屍，喪屍陣營獨自勝出。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/防暴警察.md" title="wikilink">防暴警察</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/防暴警察" title="wikilink">防暴警察</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一名目標投擲煙霧彈，被煙霧包圍後的目標無法成為其他玩家的目標也無法進行任何動作，被投擲兩次煙霧彈的目標會即時死亡。滿18人之遊戲房中，只有4次投擲煙霧彈機會。</p></td>
 <td></td>
 <td><p>煙霧彈可以被特工擋/天煞吸收</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/縱火狂.md" title="wikilink">縱火狂魔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/縱火狂" title="wikilink">縱火狂魔</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上能選擇一名目標投擲汽油瓶，或將被投擲過汽油瓶的所有目標同時被燒死。</p></td>
 <td></td>
@@ -141,7 +141,7 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <td><p>無法吸收恐怖攻擊、死靈4魂攻擊、縱火狂魔點火、藤魔種子發芽、喪屍攻擊、綁匪撕票</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/紫藤.md" title="wikilink">藤魔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紫藤" title="wikilink">藤魔</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上能選擇一名目標種下種子，只要種子成功發芽，藤魔將喪失一切能力。</p></td>
 <td><p>代稱：藤</p></td>
@@ -153,14 +153,14 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <p>種子可以被特工擋/天煞吸收</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/屁孩.md" title="wikilink">屁孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/屁孩" title="wikilink">屁孩</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>與平民一樣晚上無法行動；但在被投票表決而死亡時會公開身份並原地復活，不過身分會被公開也會喪失一切能力；復活後也會失去投票權。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/惡夢.md" title="wikilink">夢魔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/惡夢" title="wikilink">夢魔</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上能選擇一名目標進行攻擊，若目標是平民或屁孩則會即時死亡；若不是則攻擊會失效，但能得知目標的身分。</p></td>
 <td><p>代稱：雞爪、雞</p></td>
@@ -174,7 +174,7 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <td><p>妖魔的剋星</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/死靈魂.md" title="wikilink">死靈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/死靈魂" title="wikilink">死靈</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>每當場上有角色死亡時（不包含自己殺害的），就會累積1條靈魂；累積到2條以上就能在晚上能選擇一名目標進行攻擊，攻擊後累積的靈魂數歸零；累積的靈魂數不同則會有不同的攻擊效果（最多累積4條靈魂），進入夜晚前若未持有2條以上靈魂該晚將無法行動。</p>
 <ul>
@@ -193,7 +193,7 @@ STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 <td><p>淨化世間一切惡靈</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/怨靈.md" title="wikilink">怨靈獸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/怨靈" title="wikilink">怨靈獸</a></p></td>
 <td><p>第三方陣營</p></td>
 <td><p>擁有獨立的怨靈獸頻道。晚上能選擇一名目標進行審判，從而調查該名玩家的職業。根據被審判者的職業，會有不同的效果。</p>
 <ul>

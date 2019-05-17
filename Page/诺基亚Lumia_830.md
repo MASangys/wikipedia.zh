@@ -1,5 +1,7 @@
-**诺基亚Lumia 830**是一款由[微軟移動開發的](../Page/微軟移動.md "wikilink")[Windows Phone
-8.1](../Page/Windows_Phone_8.1.md "wikilink")[智能手機](../Page/智能手機.md "wikilink")。也是最后一台诺基亚品牌的Lumia手机。
+**诺基亚Lumia
+830**是一款由[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[Windows
+Phone
+8.1](../Page/Windows_Phone_8.1.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。也是最后一台诺基亚品牌的Lumia手机。
 
 ## 硬件 
 
@@ -9,9 +11,9 @@
 
 诺基亚 Lumia 830 使用 MSM8926 [SoC](../Page/系统芯片.md "wikilink")，这款SoC搭载四核
 1.2GHz [ARM
-Cortex-A7构架的CPU](../Page/ARM_Cortex-A7_MPCore.md "wikilink")，以及一个
-[Adreno](../Page/AMD_Imageon.md "wikilink") 305
-[显示芯片](../Page/显示芯片.md "wikilink")。该手机内存大小为1GB，内置存储器容量为16 GB，用户可以使用Micro-SD卡将ROM扩展最高128GB。
+Cortex-A7构架的CPU](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")，以及一个
+[Adreno](https://zh.wikipedia.org/wiki/AMD_Imageon "wikilink") 305
+[显示芯片](https://zh.wikipedia.org/wiki/显示芯片 "wikilink")。该手机内存大小为1GB，内置存储器容量为16 GB，用户可以使用Micro-SD卡将ROM扩展最高128GB。
 
 ### 显示
 

@@ -1,8 +1,8 @@
-《**BLUEMING**》是[韓國搖滾樂團](../Page/韓國.md "wikilink")[CNBLUE的第六張韓語迷你專輯](../Page/CNBLUE.md "wikilink")，於2016年4月4日發行\[1\]，主打曲目為《美好的你》（）。
+《**BLUEMING**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第六張韓語迷你專輯](../Page/CNBLUE.md "wikilink")，於2016年4月4日發行\[1\]，主打曲目為《美好的你》（）。
 
 ## 背景
 
-2016年3月16日，韓國媒體《mydaily》報導CNBLUE將會在4月推出新作品\[2\]，隨後3月22日[FNC娛樂公佈CNBLUE會在](../Page/FNC娛樂.md "wikilink")4月4日發行迷你專輯《BLUEMING》\[3\]。
+2016年3月16日，韓國媒體《mydaily》報導CNBLUE將會在4月推出新作品\[2\]，隨後3月22日[FNC娛樂公佈CNBLUE會在](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")4月4日發行迷你專輯《BLUEMING》\[3\]。
 
 3月30日，官方公開完整專輯曲目名單\[4\]；專輯歌曲試聽影片則於4月1日在官方[YouTube頻道推出](../Page/YouTube.md "wikilink")\[5\]；而主打曲《美好的你》音樂錄影帶在4月4日隨專輯音源公開\[6\]。
 
@@ -26,7 +26,7 @@
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年4月3日－4月9日</p></td>
 <td><p>#19</p></td>
@@ -119,8 +119,8 @@
 <td><p>韓國</p></td>
 <td><p>2016年4月4日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC娛樂</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC娛樂</a><br />
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>

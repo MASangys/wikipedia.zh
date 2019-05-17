@@ -1,10 +1,10 @@
 《**White
-forces**》是[fripSide](../Page/fripSide.md "wikilink")（第二期）的第十一張單曲。於2016年2月10日由[愛貝克思集團發售](../Page/愛貝克思集團.md "wikilink")。
+forces**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第十一張單曲。於2016年2月10日由[愛貝克思集團發售](../Page/愛貝克思集團.md "wikilink")。
 
 ## 概要
 
   - 初回限定盤（EYCA-10774）及通常盤（EYCA-10775）2種版本。初回限定盤附收錄有《White forces》PV的DVD。
-  - 由[fripSide擔當TV動畫](../Page/fripSide.md "wikilink")《[Schwarzesmarken](../Page/Schwarzesmarken.md "wikilink")》的片頭曲《White
+  - 由[fripSide擔當TV動畫](https://zh.wikipedia.org/wiki/fripSide "wikilink")《[Schwarzesmarken](../Page/Schwarzesmarken.md "wikilink")》的片頭曲《White
     forces》。
   - 單曲同時收錄pc game《 シュヴァルツェスマーケン 紅血の紋章》的主題曲《1983-schwarzesmarken-》。
 

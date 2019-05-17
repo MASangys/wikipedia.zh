@@ -1,11 +1,11 @@
 《**ONE PIECE 魯夫特別篇〜手掌島的冒險〜**》（）是電視動畫《[ONE
-PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》的特別節目，於2012年12月15日在日本播出。
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2012年12月15日在日本播出。
 
 ## 製作
 
 該2小時特別節目為紀念電影《[ONE PIECE FILM
-Z](../Page/ONE_PIECE_FILM_Z.md "wikilink")》上映而製作，在上映日於電視台同日播出\[1\]。為「週六PREMIUM」時段播出的《[ONE
-PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
+Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》上映而製作，在上映日於電視台同日播出\[1\]。為「週六PREMIUM」時段播出的《[ONE
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第二彈。
 
 至於本作魯夫與傑克的回憶為重新繪製的版本，在劇情上與原作有一定區別。
 
@@ -30,18 +30,18 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/草帽海賊團.md" title="wikilink">草帽海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草帽海賊團" title="wikilink">草帽海賊團</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 <td><p><a href="../Page/田中真弓.md" title="wikilink">田中真弓</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
@@ -59,14 +59,14 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">賓什莫克·香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 <td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓</a></p></td>
@@ -80,7 +80,7 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">布魯克</a></p></td>
-<td><p><a href="../Page/長_(日本配音員).md" title="wikilink">長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="even">
@@ -116,12 +116,12 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 </tr>
 <tr class="even">
 <td><p>'''拉奇·魯</p></td>
-<td><p><a href="../Page/土門仁.md" title="wikilink">土門仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/土門仁" title="wikilink">土門仁</a></p></td>
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''耶穌布</p></td>
-<td><p><a href="../Page/小林通孝.md" title="wikilink">小林通孝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小林通孝" title="wikilink">小林通孝</a></p></td>
 <td><p><a href="../Page/陳彥鈞.md" title="wikilink">陳彥鈞</a></p></td>
 </tr>
 <tr class="even">
@@ -131,12 +131,12 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 </tr>
 <tr class="odd">
 <td><p>'''瑪姬</p></td>
-<td><p><a href="../Page/大本眞基子.md" title="wikilink">大本眞基子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大本眞基子" title="wikilink">大本眞基子</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''烏普·史拉布</p></td>
-<td><p><a href="../Page/園部啓一.md" title="wikilink">園部啓一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/園部啓一" title="wikilink">園部啓一</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="odd">
@@ -151,8 +151,8 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 </tr>
 <tr class="odd">
 <td><p>'''亞爾麗塔</p></td>
-<td><p><a href="../Page/松岡洋子.md" title="wikilink">松岡洋子</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松岡洋子" title="wikilink">松岡洋子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''哥爾·D·羅傑</p></td>
@@ -173,10 +173,10 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
     聲優：[菅生隆之](../Page/菅生隆之.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
     手掌島的蠟雕工匠，兒子是赫吉斯。會將自己所見過的知名海賊製成蠟像，曾將海賊蠟像秀給魯夫看。劇中結尾中製作出魯夫的蠟像。
   -
-    聲優：[桐本琢也](../Page/桐本琢也.md "wikilink")（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")（台灣）
+    聲優：[桐本琢也](https://zh.wikipedia.org/wiki/桐本琢也 "wikilink")（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")（台灣）
     迪亞哥的兒子，海兵。因意外知道比力奇准將的邪惡目的，但比力奇囚禁並封鎖了消息。後來被潛入海軍基地的魯夫汗香吉士救出。
   -
-    聲優：[龍田直樹](../Page/龍田直樹.md "wikilink")（日本）；[林谷珍](../Page/林谷珍.md "wikilink")、[孟慶府](../Page/孟慶府.md "wikilink")【布偶腹語術】（台灣）
+    聲優：[龍田直樹](../Page/龍田直樹.md "wikilink")（日本）；[林谷珍](../Page/林谷珍.md "wikilink")、[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")【布偶腹語術】（台灣）
     海軍准將兼手掌島海軍基地的司令官，特別崇拜上將黃猿。欺騙手掌島民為其製造私人武器，但並不是為了守護和平、維護正義而製造，僅是要滿足升官的慾望。劇中最後被魯夫擊敗。
 
 <!-- end list -->
@@ -194,7 +194,7 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -204,14 +204,14 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 </tr>
 <tr class="odd">
 <td><p>'''餐具店店員</p></td>
-<td><p><a href="../Page/照井春佳.md" title="wikilink">照井春佳</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/照井春佳" title="wikilink">照井春佳</a><br />
 <a href="../Page/藤井幸代.md" title="wikilink">藤井幸代</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a><br />
 連婉鈞</p></td>
 </tr>
 <tr class="even">
 <td><p>'''工具店老闆</p></td>
-<td><p><a href="../Page/平井啓二.md" title="wikilink">平井啓二</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/平井啓二" title="wikilink">平井啓二</a></p></td>
 <td><p><a href="../Page/林谷珍.md" title="wikilink">林谷珍</a></p></td>
 </tr>
 <tr class="odd">
@@ -222,7 +222,7 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 <tr class="even">
 <td><p>'''小女孩</p></td>
 <td><p><a href="../Page/日比愛子.md" title="wikilink">日比愛子</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''小男孩</p></td>
@@ -254,22 +254,22 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
 
 ## 音樂
 
-  - 電視動畫的初代[片頭曲](../Page/ONE_PIECE_\(動畫\)#片頭曲.md "wikilink")，原主唱為[北谷洋](../Page/北谷洋.md "wikilink")，使用於第1集－第47集。
+  - 電視動畫的初代[片頭曲](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#片頭曲 "wikilink")，原主唱為[北谷洋](../Page/北谷洋.md "wikilink")，使用於第1集－第47集。
 
 ## 製作團隊
 
-  - 原作：[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")
+  - 原作：[尾田栄一郎](https://zh.wikipedia.org/wiki/尾田栄一郎 "wikilink")
   - 企画：情野誠人、木戸睦
   - 脚本：堤泰之
-  - 音楽：[田中公平](../Page/田中公平.md "wikilink")、[浜口史郎](../Page/浜口史郎.md "wikilink")
-  - 時尚設計：[工藤静香](../Page/工藤静香.md "wikilink")
+  - 音楽：[田中公平](../Page/田中公平.md "wikilink")、[浜口史郎](https://zh.wikipedia.org/wiki/浜口史郎 "wikilink")
+  - 時尚設計：[工藤静香](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")
   - 人物設計：久田和也、中谷友紀子
   - 機械設計：横田晋一
-  - 美術監督：[中村隆](../Page/中村隆_\(美術監督\).md "wikilink")
+  - 美術監督：[中村隆](https://zh.wikipedia.org/wiki/中村隆_\(美術監督\) "wikilink")
   - 色彩設計・色指定・検査：大武恭子
   - 撮影監督：梅田俊之
   - 音響監督：長崎行男
-  - 分鏡・演出：[森田宏幸](../Page/森田宏幸.md "wikilink")、[高柳哲司](../Page/高柳哲司.md "wikilink")、本郷満、佐佐木忍
+  - 分鏡・演出：[森田宏幸](../Page/森田宏幸.md "wikilink")、[高柳哲司](https://zh.wikipedia.org/wiki/高柳哲司 "wikilink")、本郷満、佐佐木忍
   - 総作画監督：清水洋
   - 作画監督：浜津武広、加野晃、東出太、濱川修二郎、吉井弘幸、松井章
   - 動画検査：成田達司、井上高宏、西田政司
@@ -292,14 +292,14 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第二彈。
   - 監督：[森田宏幸](../Page/森田宏幸.md "wikilink")、本郷みつる
   - 制作協力：[東映](../Page/東映.md "wikilink")
   - 動畫製作合作：上升、ドリーム・フォース
-  - 制作：[東映動畫](../Page/東映動畫.md "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")
+  - 制作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
 [ja:ONE PIECE エピソードオブルフィ
-〜ハンドアイランドの冒険〜](../Page/ja:ONE_PIECE_エピソードオブルフィ_〜ハンドアイランドの冒険〜.md "wikilink")
+〜ハンドアイランドの冒険〜](https://zh.wikipedia.org/wiki/ja:ONE_PIECE_エピソードオブルフィ_〜ハンドアイランドの冒険〜 "wikilink")
 
 [Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
 [Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")

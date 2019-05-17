@@ -4,7 +4,7 @@ SE**是[德国一家时尚](../Page/德国.md "wikilink")[电子商务互联网�
 ## 发展历史
 
 [Amazon_Phoenixsee_Dortmund.jpg](https://zh.wikipedia.org/wiki/File:Amazon_Phoenixsee_Dortmund.jpg "fig:Amazon_Phoenixsee_Dortmund.jpg"),
-[Dortmund](../Page/Dortmund.md "wikilink")\]\]
+[Dortmund](https://zh.wikipedia.org/wiki/Dortmund "wikilink")\]\]
 Zalando是由罗伯特·根茨和大卫·施耐德于2008年创建的，最初的名字叫做Ifansho\[3\]
 。Zalando的成立主要受美国的在线零售商Zappos.com的启发\[4\]。一开始，Zalando专门销售鞋类产品，但后来公司的零售业务逐渐发展，并涵盖了时尚、生活、体育等领域。
 
@@ -64,7 +64,8 @@ Zalando在2011年推出英国本土化的域名，zalando.co.uk，为英国的�
 7.  [Zalando kauft Berliner Modemesse Bread &
     Butter](http://www.berliner-zeitung.de/wirtschaft/onlinehaendler-und-fashion-plattform-zalando-kauft-berliner-modemesse-bread---butter,10808230,30899220.html)
     (German), [Berliner
-    Zeitung](../Page/Berliner_Zeitung.md "wikilink"), 8 June 2015
+    Zeitung](https://zh.wikipedia.org/wiki/Berliner_Zeitung "wikilink"),
+    8 June 2015
 
 8.   Retrieved on 22 May 2015
 

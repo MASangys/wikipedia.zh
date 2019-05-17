@@ -1,5 +1,5 @@
 《**You Will Love
-Me**》（），為[韓國自](../Page/韓國.md "wikilink")2015年10月29日起於與TRENDY同步首播的電視劇，同時本劇為Drama
+Me**》（），為[韓國自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2015年10月29日起於與TRENDY同步首播的電視劇，同時本劇為Drama
 H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink")[李泰林時隔](../Page/李泰林.md "wikilink")6個月繼《[我的心一閃一閃](../Page/我的心一閃一閃.md "wikilink")》後再度合作。故事講述一名被誤以為是男生的女生，在社交網路上成了傳說級的戀愛高手，給毫無戀愛經驗的「屌絲男」來個脫胎換骨的戀愛養成計畫大改造。\[1\]
 
 ## 演員陣容
@@ -27,7 +27,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 <!-- end list -->
 
   - [李敏英](../Page/李敏英.md "wikilink") 飾演
-    高雅瑩（粵語配音：[梁少霞](../Page/梁少霞.md "wikilink")）
+    高雅瑩（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 ### 根白周邊人物
 
-  - [許俊](../Page/許俊_\(演員\).md "wikilink") 飾演
+  - [許俊](https://zh.wikipedia.org/wiki/許俊_\(演員\) "wikilink") 飾演
     尚萬（粵語配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
 <!-- end list -->
@@ -56,7 +56,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 <!-- end list -->
 
-  - [朴熙珍](../Page/朴熙珍.md "wikilink") 飾演
+  - [朴熙珍](https://zh.wikipedia.org/wiki/朴熙珍 "wikilink") 飾演
     鄭組長（粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
 
 <!-- end list -->
@@ -66,7 +66,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 <!-- end list -->
 
-  - [蔡江元](../Page/蔡江元.md "wikilink") 飾演
+  - [蔡江元](https://zh.wikipedia.org/wiki/蔡江元 "wikilink") 飾演
     總夏（粵語配音：[黃積權](../Page/黃積權.md "wikilink")）
 
 <!-- end list -->
@@ -76,7 +76,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 ### 芝禾周邊人物
 
-  - [申曉靜](../Page/申曉靜.md "wikilink") 飾演
+  - [申曉靜](https://zh.wikipedia.org/wiki/申曉靜 "wikilink") 飾演
     朴泰熙（粵語配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
 
 <!-- end list -->
@@ -86,7 +86,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 <!-- end list -->
 
-  - [朴元斌](../Page/朴元斌.md "wikilink") 飾演
+  - [朴元斌](https://zh.wikipedia.org/wiki/朴元斌 "wikilink") 飾演
     金承玖（粵語配音：[陳耀楠](../Page/陳耀楠.md "wikilink")）
 
 <!-- end list -->
@@ -106,7 +106,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 <!-- end list -->
 
-  - [方正植](../Page/方正植.md "wikilink") 飾演
+  - [方正植](https://zh.wikipedia.org/wiki/方正植 "wikilink") 飾演
     印教授（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
@@ -116,7 +116,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 <!-- end list -->
 
-  - [金京振](../Page/金京振.md "wikilink") 飾演 傑浩
+  - [金京振](https://zh.wikipedia.org/wiki/金京振 "wikilink") 飾演 傑浩
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 <!-- end list -->
 
-  - [羅勇勳](../Page/羅勇勳.md "wikilink") 飾演 微笑
+  - [羅勇勳](https://zh.wikipedia.org/wiki/羅勇勳 "wikilink") 飾演 微笑
 
 <!-- end list -->
 
@@ -134,7 +134,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 ### 健雄周邊人物
 
-  - [孫建佑](../Page/孫建佑.md "wikilink") 飾演
+  - [孫建佑](https://zh.wikipedia.org/wiki/孫建佑 "wikilink") 飾演
     楊社長（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
@@ -144,7 +144,7 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 <!-- end list -->
 
-  - [裴俊秀](../Page/裴俊秀.md "wikilink") 飾演 裴秘書
+  - [裴俊秀](https://zh.wikipedia.org/wiki/裴俊秀 "wikilink") 飾演 裴秘書
 
 <!-- end list -->
 
@@ -153,13 +153,13 @@ H首部自製電視劇。本劇為[吳昶錫與](../Page/吳昶錫.md "wikilink"
 
 ### 雅瑩周邊人物
 
-  - [郭賢花](../Page/郭賢花.md "wikilink") 飾演
-    白允晶（粵語配音：[林元春](../Page/林元春.md "wikilink")）
+  - [郭賢花](https://zh.wikipedia.org/wiki/郭賢花 "wikilink") 飾演
+    白允晶（粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
 <!-- end list -->
 
   -
-    [大醬女](../Page/大醬女.md "wikilink")，JD精品Outlet職員
+    [大醬女](https://zh.wikipedia.org/wiki/大醬女 "wikilink")，JD精品Outlet職員
 
 ## 集數
 

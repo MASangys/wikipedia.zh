@@ -1,12 +1,12 @@
-**朴秀彬**\[1\]（，，），藝名**Tina**（），[韓國女](../Page/韓國.md "wikilink")[歌手](../Page/歌手.md "wikilink")。2013年加入Star
+**朴秀彬**\[1\]（，，），藝名**Tina**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。2013年加入Star
 Planet娛樂旗下女子組合[BLADY](../Page/BLADY.md "wikilink")\[2\]。
 
 ## 經歷
 
   - 韓文本名為**박수빈**，漢字為**朴秀彬**
   - 英文本名為**Christine Joy Park**。
-  - 2013年11月18日，加入第2期的[BLADY](../Page/BLADY.md "wikilink")，初擔任領唱、領舞。成員變動後，改為擔任[主Rapper](../Page/饒舌擔當.md "wikilink")、副唱、領舞。
-  - 離隊後成為[YouTuber](../Page/YouTuber.md "wikilink")，以「Idol
+  - 2013年11月18日，加入第2期的[BLADY](../Page/BLADY.md "wikilink")，初擔任領唱、領舞。成員變動後，改為擔任[主Rapper](https://zh.wikipedia.org/wiki/饒舌擔當 "wikilink")、副唱、領舞。
+  - 離隊後成為[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，以「Idol
     Insider」為名，透露韓國偶像內部消息，也透露自己從服裝設計師轉為歌手，和離開團隊的原因和經過。\[3\]
 
 ## 音樂
@@ -22,11 +22,11 @@ Planet娛樂旗下女子組合[BLADY](../Page/BLADY.md "wikilink")\[2\]。
 
 ### 綜藝節目
 
-| 日期      | 頻道                                      | 節目                                               | 備註 |
-| ------- | --------------------------------------- | ------------------------------------------------ | -- |
-| 2012年   | [SBS](../Page/SBS.md "wikilink")        | [Kpop Star 2](../Page/Kpop_Star_2.md "wikilink") |    |
-| 2013年   | [阿里郎電視台](../Page/阿里郎電視台.md "wikilink")  | [阿里郎電台Kpoppin](../Page/阿里郎電台.md "wikilink")      |    |
-| 2016年至今 | [韓國音樂流行榜](../Page/韓國勁歌傳真.md "wikilink") | 與[JJCC成員](../Page/JJCC.md "wikilink")            |    |
+| 日期      | 頻道                                                         | 節目                                                                  | 備註 |
+| ------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | -- |
+| 2012年   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | [Kpop Star 2](https://zh.wikipedia.org/wiki/Kpop_Star_2 "wikilink") |    |
+| 2013年   | [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")  | [阿里郎電台Kpoppin](https://zh.wikipedia.org/wiki/阿里郎電台 "wikilink")      |    |
+| 2016年至今 | [韓國音樂流行榜](https://zh.wikipedia.org/wiki/韓國勁歌傳真 "wikilink") | 與[JJCC成員](../Page/JJCC.md "wikilink")                               |    |
 
 ## 参考资料
 

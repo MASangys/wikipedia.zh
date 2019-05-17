@@ -33,7 +33,7 @@
 <tr class="odd">
 <td><div class="plainlinks hlist navbar mini" id="576" style="position: absolute; right: 15px; display: none;">
 <ul>
-<li><a href="../Page/Template:Unix-stub.md" title="wikilink"><span title="View this template">v</span></a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Template:Unix-stub" title="wikilink"><span title="View this template">v</span></a></li>
 <li><span title="Discuss this template">t</span></li>
 <li>[//en.wikipedia.org/w/index.php?title=Template:Unix-stub&amp;action=edit <span title="Edit this template">e</span>]</li>
 </ul>

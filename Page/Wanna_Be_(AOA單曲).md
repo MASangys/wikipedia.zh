@@ -1,11 +1,11 @@
 「**Wanna
-be**」是[韓國的女子樂團和舞蹈團體](../Page/韓國.md "wikilink")[AOA的第](../Page/AOA_\(韓國\).md "wikilink")2張單曲。於2012年10月10日發行。唱片公司為[FNC
-Entertainment](../Page/FNC_Entertainment.md "wikilink")。
+be**」是[韓國的女子樂團和舞蹈團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[AOA的第](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")2張單曲。於2012年10月10日發行。唱片公司為[FNC
+Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
 
 ## 概要
 
   - 《Get Out》為此單曲專輯的主打曲目。
-      - 舞蹈版本由7名成員（[有慶以外](../Page/徐有慶.md "wikilink")）演唱。
+      - 舞蹈版本由7名成員（[有慶以外](https://zh.wikipedia.org/wiki/徐有慶 "wikilink")）演唱。
       - 樂團（Band）版本由AOA Black演唱。
 
 ## 曲目

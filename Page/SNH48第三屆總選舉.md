@@ -1,4 +1,4 @@
-**SNH48第三屆總決選「比翼齊飛」**，亦稱作「SNH48第三屆偶像年度人氣總決選」，是中國女子團體[SNH48於](../Page/SNH48.md "wikilink")2016年6月至7月間舉辦的投票活動，由歌迷以投票的方式，選出第1至16名（即高飛組「Top
+**SNH48第三屆總決選「比翼齊飛」**，亦稱作「SNH48第三屆偶像年度人氣總決選」，是中國女子團體[SNH48於](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2016年6月至7月間舉辦的投票活動，由歌迷以投票的方式，選出第1至16名（即高飛組「Top
 Girls」）、第17至32名（即夢想組「Under Girls」）成員、第33至48名（即起飛組「Next
 Girls」）成員，選出成員演唱新EP的歌曲，配合是次總選舉推出的EP《[夢想島](../Page/夢想島.md "wikilink")》於5月20日發售。\[1\]
 由本屆總選舉開始，官方從總選舉一詞改稱為“總決選”。另外政見發布也更名為“總選宣言”。
@@ -10,7 +10,7 @@ Girls」）成員，選出成員演唱新EP的歌曲，配合是次總選舉推�
 
 經紀公司於6月1日舉行總決選啟動儀式並由演唱總選EP同名歌曲《[夢想島](../Page/夢想島.md "wikilink")》的其中15位成員作首次現場表演\[2\]，同時公開為總決選製作的紀錄片《比翼齐飞——偶像绝密档案全纪录》。《比翼齐飞》全片已於翌日上載至各大視頻網站\[3\]。
 
-本屆總選舉投票由6月10日早上10:00開始，直到7月30日中午12時結束，同日傍晚6時48分在上海[梅賽德斯-奔馳文化中心舉行總選舉開票演唱會及公佈結果](../Page/梅賽德斯-奔馳文化中心.md "wikilink")，期間會作一次速報及一次中期結果公佈。
+本屆總選舉投票由6月10日早上10:00開始，直到7月30日中午12時結束，同日傍晚6時48分在上海[梅賽德斯-奔馳文化中心舉行總選舉開票演唱會及公佈結果](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")，期間會作一次速報及一次中期結果公佈。
 
 配合是次總決選推出的EP《[夢想島](../Page/夢想島.md "wikilink")》於5月20日起發售。\[4\]
 
@@ -46,18 +46,18 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 <tbody>
 <tr class="odd">
 <td><p>Team SII</p></td>
-<td><p><a href="../Page/陳觀慧.md" title="wikilink">陳觀慧</a>、成珏、<a href="../Page/陳思_(SNH48).md" title="wikilink">陳思</a>、<a href="../Page/戴萌.md" title="wikilink">戴萌</a>、蔣芸、孔肖吟、劉力瑋、李宇琪、<a href="../Page/莫寒.md" title="wikilink">莫寒</a>、錢蓓婷、<a href="../Page/邱欣怡.md" title="wikilink">邱欣怡</a>、<a href="../Page/孫芮.md" title="wikilink">孫芮</a>、申月姣、沈之琳<br />
-溫晶婕、吳哲晗（兼任Team X）、徐晨辰、<a href="../Page/許佳琪.md" title="wikilink">許佳琪</a>、徐子軒、袁丹妮（兼任Team HII）、袁雨楨、趙曄、<a href="../Page/張語格.md" title="wikilink">張語格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳觀慧" title="wikilink">陳觀慧</a>、成珏、<a href="https://zh.wikipedia.org/wiki/陳思_(SNH48)" title="wikilink">陳思</a>、<a href="https://zh.wikipedia.org/wiki/戴萌" title="wikilink">戴萌</a>、蔣芸、孔肖吟、劉力瑋、李宇琪、<a href="https://zh.wikipedia.org/wiki/莫寒" title="wikilink">莫寒</a>、錢蓓婷、<a href="../Page/邱欣怡.md" title="wikilink">邱欣怡</a>、<a href="https://zh.wikipedia.org/wiki/孫芮" title="wikilink">孫芮</a>、申月姣、沈之琳<br />
+溫晶婕、吳哲晗（兼任Team X）、徐晨辰、<a href="https://zh.wikipedia.org/wiki/許佳琪" title="wikilink">許佳琪</a>、徐子軒、袁丹妮（兼任Team HII）、袁雨楨、趙曄、<a href="https://zh.wikipedia.org/wiki/張語格" title="wikilink">張語格</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Team NII</p></td>
-<td><p>陳佳瑩、陳問言、鄧豔秋菲、<a href="../Page/馮薪朵.md" title="wikilink">馮薪朵</a>、<a href="../Page/龔詩淇.md" title="wikilink">龔詩淇</a>、黃彤揚、<a href="../Page/黃婷婷.md" title="wikilink">黃婷婷</a>、何曉玉、<a href="../Page/鞠婧禕.md" title="wikilink">鞠婧禕</a>、羅蘭<br />
-<a href="../Page/林思意.md" title="wikilink">林思意</a>、<a href="../Page/陆婷_(SNH48).md" title="wikilink">陸婷</a>、<a href="../Page/李藝彤.md" title="wikilink">李藝彤</a>、錢藝、<a href="../Page/唐安琪.md" title="wikilink">唐安琪</a>、<a href="../Page/萬麗娜.md" title="wikilink">萬麗娜</a>、<a href="../Page/易嘉愛.md" title="wikilink">易嘉愛</a>、<a href="../Page/趙粵.md" title="wikilink">趙粵</a>、周怡、<a href="../Page/曾艷芬.md" title="wikilink">曾艷芬</a>、張雨鑫</p></td>
+<td><p>陳佳瑩、陳問言、鄧豔秋菲、<a href="../Page/馮薪朵.md" title="wikilink">馮薪朵</a>、<a href="https://zh.wikipedia.org/wiki/龔詩淇" title="wikilink">龔詩淇</a>、黃彤揚、<a href="https://zh.wikipedia.org/wiki/黃婷婷" title="wikilink">黃婷婷</a>、何曉玉、<a href="../Page/鞠婧禕.md" title="wikilink">鞠婧禕</a>、羅蘭<br />
+<a href="https://zh.wikipedia.org/wiki/林思意" title="wikilink">林思意</a>、<a href="https://zh.wikipedia.org/wiki/陆婷_(SNH48)" title="wikilink">陸婷</a>、<a href="../Page/李藝彤.md" title="wikilink">李藝彤</a>、錢藝、<a href="https://zh.wikipedia.org/wiki/唐安琪" title="wikilink">唐安琪</a>、<a href="https://zh.wikipedia.org/wiki/萬麗娜" title="wikilink">萬麗娜</a>、<a href="https://zh.wikipedia.org/wiki/易嘉愛" title="wikilink">易嘉愛</a>、<a href="../Page/趙粵.md" title="wikilink">趙粵</a>、周怡、<a href="https://zh.wikipedia.org/wiki/曾艷芬" title="wikilink">曾艷芬</a>、張雨鑫</p></td>
 </tr>
 <tr class="odd">
 <td><p>Team HII</p></td>
 <td><p>陳怡馨、郝婉晴、劉炅然、林楠、劉佩鑫、李清揚、沈夢瑤、孫珍妮、王柏碩、王金銘<br />
-王璐、王露皎、吳燕文、徐晗、謝妮、徐伊人、<a href="../Page/許楊玉琢.md" title="wikilink">許楊玉琢</a>、楊惠婷、袁航、張昕</p></td>
+王璐、王露皎、吳燕文、徐晗、謝妮、徐伊人、<a href="https://zh.wikipedia.org/wiki/許楊玉琢" title="wikilink">許楊玉琢</a>、楊惠婷、袁航、張昕</p></td>
 </tr>
 <tr class="even">
 <td><p>Team X</p></td>
@@ -66,7 +66,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>Team XII</p></td>
-<td><p>陳音、陳韞凌、<a href="../Page/費沁源.md" title="wikilink">費沁源</a>、<a href="../Page/洪珮雲.md" title="wikilink">洪珮-{雲}-</a>、<a href="../Page/姜杉.md" title="wikilink">姜杉</a>、蔣舒婷、李佳恩、呂夢瑩<br />
+<td><p>陳音、陳韞凌、<a href="../Page/費沁源.md" title="wikilink">費沁源</a>、<a href="../Page/洪珮雲.md" title="wikilink">洪珮-{雲}-</a>、<a href="https://zh.wikipedia.org/wiki/姜杉" title="wikilink">姜杉</a>、蔣舒婷、李佳恩、呂夢瑩<br />
 劉增艷、潘瑛琪、宋雨珊、嚴佼君、-{於}-佳怡、鄒佳佳、張文靜、張怡</p></td>
 </tr>
 </tbody>
@@ -84,13 +84,13 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 <tbody>
 <tr class="odd">
 <td><p>Team B</p></td>
-<td><p>陳美君、<a href="../Page/段藝璇.md" title="wikilink">段藝璇</a>、馮雪瑩、胡博文、胡曉慧、劉姝賢、林溪荷、牛聰聰<br />
+<td><p>陳美君、<a href="https://zh.wikipedia.org/wiki/段藝璇" title="wikilink">段藝璇</a>、馮雪瑩、胡博文、胡曉慧、劉姝賢、林溪荷、牛聰聰<br />
 青鈺雯、孫珊、宋思嫻、田姝麗、文妍、徐佳麗、熊素君、夏越、張菡筱、張夢慧</p></td>
 </tr>
 <tr class="even">
 <td><p>Team E</p></td>
 <td><p>畢夢媛、陳姣荷、陳倩楠、馮思佳、林堃、劉勝男、李詩彥、李想<br />
-羅雪麗、李媛媛、李梓、馬玉靈、<a href="../Page/蘇杉杉.md" title="wikilink">蘇杉杉</a>、頊澌煬、易妍倩、張笑盈、鄭一帆</p></td>
+羅雪麗、李媛媛、李梓、馬玉靈、<a href="https://zh.wikipedia.org/wiki/蘇杉杉" title="wikilink">蘇杉杉</a>、頊澌煬、易妍倩、張笑盈、鄭一帆</p></td>
 </tr>
 </tbody>
 </table>
@@ -108,11 +108,11 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 <tr class="odd">
 <td><p>Team G</p></td>
 <td><p>陳珂、陳雨琪、杜雨微、高源婧、胡怡瑩、李沁潔、林嘉佩、劉夢雅<br />
-劉筱筱、羅寒月、王馨悅、<a href="../Page/謝蕾蕾.md" title="wikilink">謝蕾蕾</a>、陽青穎、曾艾佳、張凱棋、張琼予、周倩玉</p></td>
+劉筱筱、羅寒月、王馨悅、<a href="https://zh.wikipedia.org/wiki/謝蕾蕾" title="wikilink">謝蕾蕾</a>、陽青穎、曾艾佳、張凱棋、張琼予、周倩玉</p></td>
 </tr>
 <tr class="even">
 <td><p>Team NIII</p></td>
-<td><p>陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、<a href="../Page/劉力菲.md" title="wikilink">劉力菲</a>、劉倩倩、盧靜<br />
+<td><p>陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、<a href="https://zh.wikipedia.org/wiki/劉力菲" title="wikilink">劉力菲</a>、劉倩倩、盧靜<br />
 孫馨、唐莉佳、冼燊楠、肖文鈴、熊心瑤、鄭丹妮、左嘉欣、左靖媛</p></td>
 </tr>
 </tbody>
@@ -276,7 +276,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 
 ### SNH48第三屆總決選貼吧特別活動
 
-由6月14日起，部分SNH48成員不定期在SNH48[百度貼吧發表表演視頻](../Page/百度貼吧.md "wikilink")。以下是已發表視頻列表:
+由6月14日起，部分SNH48成員不定期在SNH48[百度貼吧發表表演視頻](https://zh.wikipedia.org/wiki/百度貼吧 "wikilink")。以下是已發表視頻列表:
 
 | 發表日期  | 參與成員         | 表演名稱                |
 | ----- | ------------ | ------------------- |
@@ -313,59 +313,59 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
           - Team NIII: 1名
   - BEJ48和GNZ48在當晚亦公佈了在各自團體中得票最多的七位成員的名字，但并无公布票数。
 
-| 速報排名            | 成員名稱                             | 所屬團體  | 所屬隊伍      | 票數       |
-| --------------- | -------------------------------- | ----- | --------- | -------- |
-| Top Girls 高飛組   |                                  |       |           |          |
-| 1               | [李藝彤](../Page/李藝彤.md "wikilink") | SNH48 | Team NII  | 22,582.3 |
-| 2               | [鞠婧禕](../Page/鞠婧禕.md "wikilink") | SNH48 | Team NII  | 20,377.4 |
-| 3               | 孫珍妮                              | SNH48 | Team HII  | 6,181.7  |
-| 4               | 林思意                              | SNH48 | Team NII  | 4,627.7  |
-| 5               | 邱欣怡                              | SNH48 | Team SII  | 4,546.8  |
-| 6               | [黃婷婷](../Page/黃婷婷.md "wikilink") | SNH48 | Team NII  | 4,207.0  |
-| 7               | 許楊玉琢                             | SNH48 | Team HII  | 3,331.3  |
-| 8               | 盧靜                               | GNZ48 | Team NIII | 3,295.9  |
-| 9               | 孔肖吟                              | SNH48 | Team SII  | 3,228.5  |
-| 10              | 萬麗娜                              | SNH48 | Team NII  | 2,988.1  |
-| 11              | [戴萌](../Page/戴萌.md "wikilink")   | SNH48 | Team SII  | 2,976.3  |
-| 12              | [馮薪朵](../Page/馮薪朵.md "wikilink") | SNH48 | Team NII  | 2,954.5  |
-| 13              | 林楠                               | SNH48 | Team HII  | 2,829.5  |
-| 14              | 楊惠婷                              | SNH48 | Team HII  | 2,814.2  |
-| 15              | 徐子軒                              | SNH48 | Team SII  | 2,805.2  |
-| 16              | 楊冰怡                              | SNH48 | Team X    | 2,785.8  |
-| Under Girls 夢想組 |                                  |       |           |          |
-| 17              | 宋昕冉                              | SNH48 | Team X    | 2,712.6  |
-| 18              | 汪束                               | SNH48 | Team X    | 2,658.4  |
-| 19              | 王璐                               | SNH48 | Team HII  | 2,618.4  |
-| 20              | 謝蕾蕾                              | GNZ48 | Team G    | 2,592.3  |
-| 21              | 劉炅然                              | SNH48 | Team HII  | 2,566.0  |
-| 22              | 陳思                               | SNH48 | Team SII  | 2,512.2  |
-| 23              | 袁雨楨                              | SNH48 | Team SII  | 2,449.4  |
-| 24              | 洪珮-{雲}-                          | SNH48 | Team XII  | 2,385.4  |
-| 25              | 陳佳瑩                              | SNH48 | Team NII  | 2,305.5  |
-| 26              | 嚴佼君                              | SNH48 | Team XII  | 2,284.5  |
-| 27              | [孫芮](../Page/孫芮.md "wikilink")   | SNH48 | Team SII  | 2,275.8  |
-| 28              | 陳觀慧                              | SNH48 | Team SII  | 2,259.9  |
-| 29              | 李釗                               | SNH48 | Team X    | 2,255.6  |
-| 30              | 郝婉晴                              | SNH48 | Team HII  | 2,228.2  |
-| 31              | 陳雨琪                              | GNZ48 | Team G    | 2,185.6  |
-| 32              | 劉佩鑫                              | SNH48 | Team HII  | 2,181.4  |
-| Next Girls 起飛組  |                                  |       |           |          |
-| 33              | 何曉玉                              | SNH48 | Team NII  | 2,056.1  |
-| 34              | 王柏碩                              | SNH48 | Team HII  | 1,975.4  |
-| 35              | 宋思嫻                              | BEJ48 | Team B    | 1,876.8  |
-| 36              | [莫寒](../Page/莫寒.md "wikilink")   | SNH48 | Team SII  | 1,872.1  |
-| 37              | 陳琳                               | SNH48 | Team X    | 1,842.2  |
-| 38              | 徐晨辰                              | SNH48 | Team SII  | 1,830.9  |
-| 39              | 龔詩淇                              | SNH48 | Team NII  | 1,811.5  |
-| 40              | 張怡                               | SNH48 | Team XII  | 1,799.8  |
-| 41              | 蔣芸                               | SNH48 | Team SII  | 1,695.3  |
-| 42              | 徐伊人                              | SNH48 | Team HII  | 1,692.7  |
-| 43              | 陳怡馨                              | SNH48 | Team HII  | 1,682.1  |
-| 44              | 趙曄                               | SNH48 | Team SII  | 1,623.1  |
-| 45              | 牛聰聰                              | BEJ48 | Team B    | 1,612.6  |
-| 46              | 張韵雯                              | SNH48 | Team X    | 1,546.3  |
-| 47              | 吳燕文                              | SNH48 | Team HII  | 1,534.9  |
-| 48              | 謝妮                               | SNH48 | Team HII  | 1,518.1  |
+| 速報排名            | 成員名稱                                                | 所屬團體  | 所屬隊伍      | 票數       |
+| --------------- | --------------------------------------------------- | ----- | --------- | -------- |
+| Top Girls 高飛組   |                                                     |       |           |          |
+| 1               | [李藝彤](../Page/李藝彤.md "wikilink")                    | SNH48 | Team NII  | 22,582.3 |
+| 2               | [鞠婧禕](../Page/鞠婧禕.md "wikilink")                    | SNH48 | Team NII  | 20,377.4 |
+| 3               | 孫珍妮                                                 | SNH48 | Team HII  | 6,181.7  |
+| 4               | 林思意                                                 | SNH48 | Team NII  | 4,627.7  |
+| 5               | 邱欣怡                                                 | SNH48 | Team SII  | 4,546.8  |
+| 6               | [黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink") | SNH48 | Team NII  | 4,207.0  |
+| 7               | 許楊玉琢                                                | SNH48 | Team HII  | 3,331.3  |
+| 8               | 盧靜                                                  | GNZ48 | Team NIII | 3,295.9  |
+| 9               | 孔肖吟                                                 | SNH48 | Team SII  | 3,228.5  |
+| 10              | 萬麗娜                                                 | SNH48 | Team NII  | 2,988.1  |
+| 11              | [戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")   | SNH48 | Team SII  | 2,976.3  |
+| 12              | [馮薪朵](../Page/馮薪朵.md "wikilink")                    | SNH48 | Team NII  | 2,954.5  |
+| 13              | 林楠                                                  | SNH48 | Team HII  | 2,829.5  |
+| 14              | 楊惠婷                                                 | SNH48 | Team HII  | 2,814.2  |
+| 15              | 徐子軒                                                 | SNH48 | Team SII  | 2,805.2  |
+| 16              | 楊冰怡                                                 | SNH48 | Team X    | 2,785.8  |
+| Under Girls 夢想組 |                                                     |       |           |          |
+| 17              | 宋昕冉                                                 | SNH48 | Team X    | 2,712.6  |
+| 18              | 汪束                                                  | SNH48 | Team X    | 2,658.4  |
+| 19              | 王璐                                                  | SNH48 | Team HII  | 2,618.4  |
+| 20              | 謝蕾蕾                                                 | GNZ48 | Team G    | 2,592.3  |
+| 21              | 劉炅然                                                 | SNH48 | Team HII  | 2,566.0  |
+| 22              | 陳思                                                  | SNH48 | Team SII  | 2,512.2  |
+| 23              | 袁雨楨                                                 | SNH48 | Team SII  | 2,449.4  |
+| 24              | 洪珮-{雲}-                                             | SNH48 | Team XII  | 2,385.4  |
+| 25              | 陳佳瑩                                                 | SNH48 | Team NII  | 2,305.5  |
+| 26              | 嚴佼君                                                 | SNH48 | Team XII  | 2,284.5  |
+| 27              | [孫芮](https://zh.wikipedia.org/wiki/孫芮 "wikilink")   | SNH48 | Team SII  | 2,275.8  |
+| 28              | 陳觀慧                                                 | SNH48 | Team SII  | 2,259.9  |
+| 29              | 李釗                                                  | SNH48 | Team X    | 2,255.6  |
+| 30              | 郝婉晴                                                 | SNH48 | Team HII  | 2,228.2  |
+| 31              | 陳雨琪                                                 | GNZ48 | Team G    | 2,185.6  |
+| 32              | 劉佩鑫                                                 | SNH48 | Team HII  | 2,181.4  |
+| Next Girls 起飛組  |                                                     |       |           |          |
+| 33              | 何曉玉                                                 | SNH48 | Team NII  | 2,056.1  |
+| 34              | 王柏碩                                                 | SNH48 | Team HII  | 1,975.4  |
+| 35              | 宋思嫻                                                 | BEJ48 | Team B    | 1,876.8  |
+| 36              | [莫寒](https://zh.wikipedia.org/wiki/莫寒 "wikilink")   | SNH48 | Team SII  | 1,872.1  |
+| 37              | 陳琳                                                  | SNH48 | Team X    | 1,842.2  |
+| 38              | 徐晨辰                                                 | SNH48 | Team SII  | 1,830.9  |
+| 39              | 龔詩淇                                                 | SNH48 | Team NII  | 1,811.5  |
+| 40              | 張怡                                                  | SNH48 | Team XII  | 1,799.8  |
+| 41              | 蔣芸                                                  | SNH48 | Team SII  | 1,695.3  |
+| 42              | 徐伊人                                                 | SNH48 | Team HII  | 1,692.7  |
+| 43              | 陳怡馨                                                 | SNH48 | Team HII  | 1,682.1  |
+| 44              | 趙曄                                                  | SNH48 | Team SII  | 1,623.1  |
+| 45              | 牛聰聰                                                 | BEJ48 | Team B    | 1,612.6  |
+| 46              | 張韵雯                                                 | SNH48 | Team X    | 1,546.3  |
+| 47              | 吳燕文                                                 | SNH48 | Team HII  | 1,534.9  |
+| 48              | 謝妮                                                  | SNH48 | Team HII  | 1,518.1  |
 
 | BEJ48 速報前七 |
 | ---------- |
@@ -409,59 +409,59 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
           - Team NIII: 1名
   - BEJ48和GNZ48在当晚亦公布了在各自团体中得票最多的七位成员的名字，但并无公布票数。
 
-| 中報排名            | 成員名稱                             | 所屬團體  | 所屬隊伍                             | 票數        | 速报排名 |
-| --------------- | -------------------------------- | ----- | -------------------------------- | --------- | ---- |
-| Top Girls 高飛組   |                                  |       |                                  |           |      |
-| 1               | [鞠婧禕](../Page/鞠婧禕.md "wikilink") | SNH48 | Team NII                         | 120,407.7 | 2    |
-| 2               | [李藝彤](../Page/李藝彤.md "wikilink") | SNH48 | Team NII                         | 75,479.5  | 1    |
-| 3               | [黃婷婷](../Page/黃婷婷.md "wikilink") | SNH48 | Team NII                         | 58,568.6  | 6    |
-| 4               | 張語格                              | SNH48 | Team SII                         | 23,947.0  | 未入選  |
-| 5               | 莫寒                               | SNH48 | Team SII                         | 23,792.1  | 36   |
-| 6               | [曾艷芬](../Page/曾艷芬.md "wikilink") | SNH48 | Team NII                         | 22,825.9  | 未入選  |
-| 7               | [趙粵](../Page/趙粵.md "wikilink")   | SNH48 | Team NII                         | 21,347.1  | 未入選  |
-| 8               | 邱欣怡                              | SNH48 | Team SII                         | 17,464.7  | 5    |
-| 9               | 孫珍妮                              | SNH48 | Team HII                         | 15,238.9  | 3    |
-| 10              | 劉炅然                              | SNH48 | Team HII                         | 13.715.9  | 21   |
-| 11              | [馮薪朵](../Page/馮薪朵.md "wikilink") | SNH48 | Team NII                         | 12.265.9  | 12   |
-| 12              | 陸婷                               | SNH48 | Team NII                         | 12,119.7  | 未入選  |
-| 13              | 許佳琪                              | SNH48 | Team SII                         | 12,060.6  | 未入選  |
-| 14              | 費沁源                              | SNH48 | Team XII                         | 11,711.9  | 未入選  |
-| 15              | 宋昕冉                              | SNH48 | Team X                           | 11,372.5  | 17   |
-| 16              | 張丹三                              | SNH48 | Team X                           | 11,270.2  | 未入選  |
-| Under Girls 夢想組 |                                  |       |                                  |           |      |
-| 17              | 謝妮                               | SNH48 | Team HII                         | 9,534.6   | 48   |
-| 18              | 林思意                              | SNH48 | Team NII                         | 9,078.0   | 4    |
-| 19              | 萬麗娜                              | SNH48 | Team NII                         | 8,893.9   | 10   |
-| 20              | 孔肖吟                              | SNH48 | Team SII                         | 8,185.2   | 9    |
-| 21              | [戴萌](../Page/戴萌.md "wikilink")   | SNH48 | Team SII                         | 8,141.9   | 11   |
-| 22              | 龔詩淇                              | SNH48 | Team NII                         | 7,969.9   | 39   |
-| 23              | 吳哲晗                              | SNH48 | Team SII<small> / Team X</small> | 7,808.2   | 未入選  |
-| 24              | 謝蕾蕾                              | GNZ48 | Team G                           | 7,405.4   | 20   |
-| 25              | 楊冰怡                              | SNH48 | Team X                           | 7,226.3   | 16   |
-| 26              | 李宇琪                              | SNH48 | Team SII                         | 6,977.0   | 未入選  |
-| 27              | 嚴佼君                              | SNH48 | Team XII                         | 6,811.6   | 26   |
-| 28              | 劉佩鑫                              | SNH48 | Team HII                         | 6,651.9   | 32   |
-| 29              | 楊韞玉                              | SNH48 | Team X                           | 6,339.1   | 未入選  |
-| 30              | 王曉佳                              | SNH48 | Team X                           | 6,284.6   | 未入選  |
-| 31              | 徐子軒                              | SNH48 | Team SII                         | 6,186.9   | 15   |
-| 32              | 楊惠婷                              | SNH48 | Team HII                         | 6,129.1   | 14   |
-| Next Girls 起飛組  |                                  |       |                                  |           |      |
-| 33              | 錢蓓婷                              | SNH48 | Team SII                         | 6,095.8   | 未入選  |
-| 34              | 王璐                               | SNH48 | Team HII                         | 5,717.4   | 19   |
-| 35              | 許楊玉琢                             | SNH48 | Team HII                         | 5,638.8   | 7    |
-| 36              | 段藝璇                              | BEJ48 | Team B                           | 5,560.3   | 未入選  |
-| 37              | 易嘉愛                              | SNH48 | Team NII                         | 5,456.6   | 未入選  |
-| 38              | 徐晗                               | SNH48 | Team HII                         | 5,135.9   | 未入選  |
-| 39              | 張怡                               | SNH48 | Team XII                         | 5,112.5   | 40   |
-| 40              | 孫姗                               | BEJ48 | Team B                           | 5,099.1   | 未入選  |
-| 41              | 洪珮-{雲}-                          | SNH48 | Team XII                         | 5,070.8   | 24   |
-| 42              | 陳怡馨                              | SNH48 | Team HII                         | 5,030.9   | 43   |
-| 43              | 袁雨楨                              | SNH48 | Team SII                         | 4,967.8   | 23   |
-| 44              | 盧靜                               | GNZ48 | Team NIII                        | 4,845.7   | 8    |
-| 45              | 孫芮                               | SNH48 | Team SII                         | 4,794.1   | 27   |
-| 46              | 胡曉慧                              | BEJ48 | Team B                           | 4,751.9   | 未入選  |
-| 47              | 陳觀慧                              | SNH48 | Team SII                         | 4,615.2   | 28   |
-| 48              | 邵雪聰                              | SNH48 | Team X                           | 4,595.3   | 未入選  |
+| 中報排名            | 成員名稱                                                | 所屬團體  | 所屬隊伍                             | 票數        | 速报排名 |
+| --------------- | --------------------------------------------------- | ----- | -------------------------------- | --------- | ---- |
+| Top Girls 高飛組   |                                                     |       |                                  |           |      |
+| 1               | [鞠婧禕](../Page/鞠婧禕.md "wikilink")                    | SNH48 | Team NII                         | 120,407.7 | 2    |
+| 2               | [李藝彤](../Page/李藝彤.md "wikilink")                    | SNH48 | Team NII                         | 75,479.5  | 1    |
+| 3               | [黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink") | SNH48 | Team NII                         | 58,568.6  | 6    |
+| 4               | 張語格                                                 | SNH48 | Team SII                         | 23,947.0  | 未入選  |
+| 5               | 莫寒                                                  | SNH48 | Team SII                         | 23,792.1  | 36   |
+| 6               | [曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink") | SNH48 | Team NII                         | 22,825.9  | 未入選  |
+| 7               | [趙粵](../Page/趙粵.md "wikilink")                      | SNH48 | Team NII                         | 21,347.1  | 未入選  |
+| 8               | 邱欣怡                                                 | SNH48 | Team SII                         | 17,464.7  | 5    |
+| 9               | 孫珍妮                                                 | SNH48 | Team HII                         | 15,238.9  | 3    |
+| 10              | 劉炅然                                                 | SNH48 | Team HII                         | 13.715.9  | 21   |
+| 11              | [馮薪朵](../Page/馮薪朵.md "wikilink")                    | SNH48 | Team NII                         | 12.265.9  | 12   |
+| 12              | 陸婷                                                  | SNH48 | Team NII                         | 12,119.7  | 未入選  |
+| 13              | 許佳琪                                                 | SNH48 | Team SII                         | 12,060.6  | 未入選  |
+| 14              | 費沁源                                                 | SNH48 | Team XII                         | 11,711.9  | 未入選  |
+| 15              | 宋昕冉                                                 | SNH48 | Team X                           | 11,372.5  | 17   |
+| 16              | 張丹三                                                 | SNH48 | Team X                           | 11,270.2  | 未入選  |
+| Under Girls 夢想組 |                                                     |       |                                  |           |      |
+| 17              | 謝妮                                                  | SNH48 | Team HII                         | 9,534.6   | 48   |
+| 18              | 林思意                                                 | SNH48 | Team NII                         | 9,078.0   | 4    |
+| 19              | 萬麗娜                                                 | SNH48 | Team NII                         | 8,893.9   | 10   |
+| 20              | 孔肖吟                                                 | SNH48 | Team SII                         | 8,185.2   | 9    |
+| 21              | [戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")   | SNH48 | Team SII                         | 8,141.9   | 11   |
+| 22              | 龔詩淇                                                 | SNH48 | Team NII                         | 7,969.9   | 39   |
+| 23              | 吳哲晗                                                 | SNH48 | Team SII<small> / Team X</small> | 7,808.2   | 未入選  |
+| 24              | 謝蕾蕾                                                 | GNZ48 | Team G                           | 7,405.4   | 20   |
+| 25              | 楊冰怡                                                 | SNH48 | Team X                           | 7,226.3   | 16   |
+| 26              | 李宇琪                                                 | SNH48 | Team SII                         | 6,977.0   | 未入選  |
+| 27              | 嚴佼君                                                 | SNH48 | Team XII                         | 6,811.6   | 26   |
+| 28              | 劉佩鑫                                                 | SNH48 | Team HII                         | 6,651.9   | 32   |
+| 29              | 楊韞玉                                                 | SNH48 | Team X                           | 6,339.1   | 未入選  |
+| 30              | 王曉佳                                                 | SNH48 | Team X                           | 6,284.6   | 未入選  |
+| 31              | 徐子軒                                                 | SNH48 | Team SII                         | 6,186.9   | 15   |
+| 32              | 楊惠婷                                                 | SNH48 | Team HII                         | 6,129.1   | 14   |
+| Next Girls 起飛組  |                                                     |       |                                  |           |      |
+| 33              | 錢蓓婷                                                 | SNH48 | Team SII                         | 6,095.8   | 未入選  |
+| 34              | 王璐                                                  | SNH48 | Team HII                         | 5,717.4   | 19   |
+| 35              | 許楊玉琢                                                | SNH48 | Team HII                         | 5,638.8   | 7    |
+| 36              | 段藝璇                                                 | BEJ48 | Team B                           | 5,560.3   | 未入選  |
+| 37              | 易嘉愛                                                 | SNH48 | Team NII                         | 5,456.6   | 未入選  |
+| 38              | 徐晗                                                  | SNH48 | Team HII                         | 5,135.9   | 未入選  |
+| 39              | 張怡                                                  | SNH48 | Team XII                         | 5,112.5   | 40   |
+| 40              | 孫姗                                                  | BEJ48 | Team B                           | 5,099.1   | 未入選  |
+| 41              | 洪珮-{雲}-                                             | SNH48 | Team XII                         | 5,070.8   | 24   |
+| 42              | 陳怡馨                                                 | SNH48 | Team HII                         | 5,030.9   | 43   |
+| 43              | 袁雨楨                                                 | SNH48 | Team SII                         | 4,967.8   | 23   |
+| 44              | 盧靜                                                  | GNZ48 | Team NIII                        | 4,845.7   | 8    |
+| 45              | 孫芮                                                  | SNH48 | Team SII                         | 4,794.1   | 27   |
+| 46              | 胡曉慧                                                 | BEJ48 | Team B                           | 4,751.9   | 未入選  |
+| 47              | 陳觀慧                                                 | SNH48 | Team SII                         | 4,615.2   | 28   |
+| 48              | 邵雪聰                                                 | SNH48 | Team X                           | 4,595.3   | 未入選  |
 
 | BEJ48 中報前七 |
 | ---------- |
@@ -487,7 +487,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 
 ## 開票日演唱會
 
-  - 在总决选发布演唱会上，SNH48最新原创EP《[梦想岛](../Page/梦想岛.md "wikilink")》、《[源动力](../Page/源动力.md "wikilink")》中的新歌将首次在演唱会上表演，而SNH48成立三年来最受欢迎的人气曲目也将由三团成员进行全新演绎，现场将有超过4小时的歌舞和总决选结果发布环节。\[7\]
+  - 在总决选发布演唱会上，SNH48最新原创EP《[梦想岛](https://zh.wikipedia.org/wiki/梦想岛 "wikilink")》、《[源动力](https://zh.wikipedia.org/wiki/源动力 "wikilink")》中的新歌将首次在演唱会上表演，而SNH48成立三年来最受欢迎的人气曲目也将由三团成员进行全新演绎，现场将有超过4小时的歌舞和总决选结果发布环节。\[7\]
   - 为迎合SNH48以及BEJ48、GNZ48的不同曲风，本次演唱会将采用顶级的舞美和灯光配置，首创的三角型延展台向外延伸，并设有多级阶梯和升降台，让粉丝无论身处何处都能对喜爱成员的表演一览无余。整台演唱会将由国际顶级水准的舞美团队操刀制作。\[8\]
   - SNH48第三届偶像年度人气总决选，将继续通过卫视和网络平台进行同步直播，向全国观众展现成员们这一年来在“梦想、汗水和坚持”的文化价值观的指引下为了追逐梦想，挥洒青春汗水，不断实现成长的正能量和勇于进取的拼搏精神。全场共将设置16机位，使用摇臂、电兔、飞猫空中摄像机等技术提高直播画面的质量。\[9\]
 
@@ -498,42 +498,45 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 3.  《[媽咪媽咪轟](../Page/源動力.md "wikilink")》 - Team XII
 4.  《[我想對你說](../Page/源動力.md "wikilink")》 - Team X
 5.  《[Shake it\! Shake
-    it\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》
+    it\!](https://zh.wikipedia.org/wiki/Team_NII_5th_Stage「專屬派對」公演 "wikilink")》
     - Team NII
 6.  《[少女進化論](../Page/源動力.md "wikilink")》 - Team HII
-7.  《[Don't touch](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 -
-    [馮薪朵](../Page/馮薪朵.md "wikilink")、陸婷、[趙粵](../Page/趙粵.md "wikilink")
+7.  《[Don't
+    touch](https://zh.wikipedia.org/wiki/Team_NII_5th_Stage「專屬派對」公演 "wikilink")》
+    - [馮薪朵](../Page/馮薪朵.md "wikilink")、陸婷、[趙粵](../Page/趙粵.md "wikilink")
 8.  《[相遇的季節](../Page/夢想島.md "wikilink")》 - Team X
-9.  《[新世界](../Page/心的旅程.md "wikilink")》 -
+9.  《[新世界](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 -
     李宇琪、莫寒、[李藝彤](../Page/李藝彤.md "wikilink")
 10. 《[戀愛味道](../Page/夢想島.md "wikilink")》 - Team XII
-11. 《[少女的遺憾](../Page/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演.md "wikilink")》
-    - 萬麗娜、易嘉愛、[曾艷芬](../Page/曾艷芬.md "wikilink")
+11. 《[少女的遺憾](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》
+    - 萬麗娜、易嘉愛、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
 12. 《[LA LA LA](../Page/夢想島.md "wikilink")》 - Team SII
-13. 《[紳士](../Page/紳士_\(歌曲\).md "wikilink")》 -
-    [朴載相](../Page/朴載相.md "wikilink")
+13. 《[紳士](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》 -
+    [朴載相](https://zh.wikipedia.org/wiki/朴載相 "wikilink")
 14. 《[江南Style](../Page/江南Style.md "wikilink")》 - 朴載相
 15. 《[青春的約定](../Page/青春的約定.md "wikilink")》 - BEJ48
-16. 《[第一隻兔子](../Page/嗚吒.md "wikilink")》 - GNZ48
-17. 《[紐約夢](../Page/心的旅程.md "wikilink")》 - Team SII
+16. 《[第一隻兔子](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - GNZ48
+17. 《[紐約夢](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - Team SII
 18. 《[正義之手](../Page/源動力.md "wikilink")》 - Team NII
-19. 《[巧克力之吻](../Page/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演.md "wikilink")》
+19. 《[巧克力之吻](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》
     - 孔肖吟、邱欣怡、張語格
 20. 《[夏日悸動](../Page/夢想島.md "wikilink")》 - Team HII
-21. 《[暮蟬之戀](../Page/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演.md "wikilink")》
-    - [戴萌](../Page/戴萌.md "wikilink")、[黃婷婷](../Page/黃婷婷.md "wikilink")
-22. 《[女王殿下](../Page/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演.md "wikilink")》<small>(電音版本)</small>
+21. 《[暮蟬之戀](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演 "wikilink")》
+    -
+    [戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[黃婷婷](https://zh.wikipedia.org/wiki/黃婷婷 "wikilink")
+22. 《[女王殿下](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#SNH48_Team_NII_4th_Stage「我的太陽」公演 "wikilink")》<small>(電音版本)</small>
     - [鞠婧禕](../Page/鞠婧禕.md "wikilink")
 23. 《[源動力](../Page/源動力.md "wikilink")》 - MV選拔組
 24. 《二次元大冒險》 - Color Girls
 25. 《[開拓者](../Page/愛的幸運曲奇.md "wikilink")》 - Team SII
-26. 《[BINGO\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 - Team
-    NII
-27. 《[正義之拳](../Page/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演.md "wikilink")》
+26. 《[BINGO\!](https://zh.wikipedia.org/wiki/Team_NII_5th_Stage「專屬派對」公演 "wikilink")》
+    - Team NII
+27. 《[正義之拳](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》
     - Team HII
-28. 《[青春號角](../Page/心的旅程.md "wikilink")》 - Team X+Team XII
+28. 《[青春號角](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - Team
+    X+Team XII
 29. 《[一心向前](../Page/一心向前.md "wikilink")》 - 全員
-30. 《[我的舞台](../Page/心的旅程.md "wikilink")》 - 全員
+30. 《[我的舞台](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - 全員
 31. 《[比翼齊飛](../Page/你鼓舞了我.md "wikilink")》 - 第二屆總選16人
 
 ## 最終結果
@@ -620,7 +623,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="../Page/黃婷婷.md" title="wikilink">黃婷婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃婷婷" title="wikilink">黃婷婷</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team NII</p></td>
 <td><p>130,258.3</p></td>
@@ -633,7 +636,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="../Page/曾艷芬.md" title="wikilink">曾艷芬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾艷芬" title="wikilink">曾艷芬</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team NII</p></td>
 <td><p>88,656.8</p></td>
@@ -659,7 +662,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="../Page/莫寒.md" title="wikilink">莫寒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莫寒" title="wikilink">莫寒</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team SII</p></td>
 <td><p>73,362.6</p></td>
@@ -672,7 +675,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="../Page/陸婷_(SNH48).md" title="wikilink">陸婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陸婷_(SNH48)" title="wikilink">陸婷</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team NII</p></td>
 <td><p>71,639.6</p></td>
@@ -685,7 +688,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="../Page/張語格.md" title="wikilink">張語格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張語格" title="wikilink">張語格</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team SII</p></td>
 <td><p>66,867.5</p></td>
@@ -724,7 +727,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="../Page/許佳琪.md" title="wikilink">許佳琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許佳琪" title="wikilink">許佳琪</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team SII</p></td>
 <td><p>41,740.5</p></td>
@@ -737,7 +740,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="../Page/戴萌.md" title="wikilink">戴萌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴萌" title="wikilink">戴萌</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team SII</p></td>
 <td><p>41,511.8</p></td>
@@ -750,7 +753,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="../Page/林思意.md" title="wikilink">林思意</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林思意" title="wikilink">林思意</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team NII</p></td>
 <td><p>38,786.4</p></td>
@@ -839,7 +842,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p><a href="../Page/許楊玉琢.md" title="wikilink">許楊玉琢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許楊玉琢" title="wikilink">許楊玉琢</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team HII</p></td>
 <td><p>22,974.8</p></td>
@@ -999,7 +1002,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p><a href="../Page/姜杉.md" title="wikilink">姜杉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜杉" title="wikilink">姜杉</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team XII</p></td>
 <td><p>16,134.4</p></td>
@@ -1023,7 +1026,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
-<td><p><a href="../Page/張怡_(SNH48).md" title="wikilink">張怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張怡_(SNH48)" title="wikilink">張怡</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team XII</p></td>
 <td><p>15,009.7</p></td>
@@ -1084,7 +1087,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><a href="../Page/陳思_(SNH48).md" title="wikilink">陳思</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳思_(SNH48)" title="wikilink">陳思</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team SII</p></td>
 <td><p>14,243.0</p></td>
@@ -1194,7 +1197,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
-<td><p><a href="../Page/陳觀慧.md" title="wikilink">陳觀慧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳觀慧" title="wikilink">陳觀慧</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team SII</p></td>
 <td><p>11,712.6</p></td>
@@ -1250,7 +1253,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 
 ### 音樂及MV作品
 
-本屆總決選所决定的成员演唱的三首歌曲，將邀請亞洲著名歌手及音樂制作人[林俊傑](../Page/林俊傑.md "wikilink")、[陶喆親自操刀制作](../Page/陶喆.md "wikilink")。
+本屆總決選所决定的成员演唱的三首歌曲，將邀請亞洲著名歌手及音樂制作人[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[陶喆親自操刀制作](../Page/陶喆.md "wikilink")。
 
   - 高飛組（Top
     Girls）將赴[西班牙](../Page/西班牙.md "wikilink")[马德里拍攝MV](../Page/马德里.md "wikilink")，並將同時錄制VR版本。
@@ -1261,7 +1264,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 
 ### 電影及影視劇作品
 
-上海絲芭影視有限公司極其合作夥伴為SNH48第三屆年度偶像人氣總決選的入選成員準備了三部即將投入拍攝的影視劇和電影作品作為匯報獎勵項目，其中，由著名導演[滕華濤監制](../Page/滕華濤.md "wikilink")，林妍導演的青春閨蜜題材大電影《那時，可愛的她們》將由五名SNH48本屆總決選TOP16成員擔任主角，該電影也將成為SNH48專屬大電影的處女作。
+上海絲芭影視有限公司極其合作夥伴為SNH48第三屆年度偶像人氣總決選的入選成員準備了三部即將投入拍攝的影視劇和電影作品作為匯報獎勵項目，其中，由著名導演[滕華濤監制](https://zh.wikipedia.org/wiki/滕華濤 "wikilink")，林妍導演的青春閨蜜題材大電影《那時，可愛的她們》將由五名SNH48本屆總決選TOP16成員擔任主角，該電影也將成為SNH48專屬大電影的處女作。
 
 ### 大型綜藝節目
 

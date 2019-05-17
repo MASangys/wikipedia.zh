@@ -1,11 +1,12 @@
-***Phoenicurusia***是[灰蝶科](../Page/灰蝶科.md "wikilink")[灰蝶亞科](../Page/灰蝶亞科.md "wikilink")[灰蝶族裡的一個](../Page/灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分佈於中亞。基於雄蝶的外生殖器構造獨特，Bozano
+***Phoenicurusia***是[灰蝶科](../Page/灰蝶科.md "wikilink")[灰蝶亞科](../Page/灰蝶亞科.md "wikilink")[灰蝶族裡的一個](../Page/灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於中亞。基於雄蝶的外生殖器構造獨特，Bozano
 & Weidenhoffer (2001) 把此屬從[灰蝶屬分離出來](../Page/灰蝶屬.md "wikilink")\[1\]。
 
 ## 物種
 
-  - [錦灰蝶](../Page/錦灰蝶.md "wikilink") *Phoenicurusia euphratica*
-  - [馬夾灰蝶](../Page/馬夾灰蝶.md "wikilink") *Phoenicurusia margelanica* =
-    紫紅灰蝶 *Lycaena phoenicurus*
+  - [錦灰蝶](https://zh.wikipedia.org/wiki/錦灰蝶 "wikilink") *Phoenicurusia
+    euphratica*
+  - [馬夾灰蝶](https://zh.wikipedia.org/wiki/馬夾灰蝶 "wikilink") *Phoenicurusia
+    margelanica* = 紫紅灰蝶 *Lycaena phoenicurus*
 
 ## 參考文獻
 

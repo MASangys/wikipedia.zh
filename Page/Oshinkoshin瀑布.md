@@ -1,5 +1,5 @@
 [Waterfall_of_Oshinkoshin_03.JPG](https://zh.wikipedia.org/wiki/File:Waterfall_of_Oshinkoshin_03.JPG "fig:Waterfall_of_Oshinkoshin_03.JPG")
-**Oshinkoshin瀑布**（[日文](../Page/日文.md "wikilink")：****）是位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[斜里郡](../Page/斜里郡.md "wikilink")[斜里町的](../Page/斜里町.md "wikilink")[瀑布](../Page/瀑布.md "wikilink")，瀑布寬度約30公尺，高低落差50公尺，為之一，也被列為[日本瀑布百選之一](../Page/日本瀑布百選.md "wikilink")。\[1\]
+**Oshinkoshin瀑布**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[斜里郡](../Page/斜里郡.md "wikilink")[斜里町的](../Page/斜里町.md "wikilink")[瀑布](../Page/瀑布.md "wikilink")，瀑布寬度約30公尺，高低落差50公尺，為之一，也被列為[日本瀑布百選之一](../Page/日本瀑布百選.md "wikilink")。\[1\]
 
 瀑布目前沒有正式的中文漢字名稱，而Oshinkoshin也不是日文，其名稱來自[阿伊努語o](../Page/阿伊努語.md "wikilink")-sunku-us-i，意思為「河川下游有許多的地方」\[2\]。由於瀑布在中途被分為左右兩段，因此也被稱為「雙美瀑布」（）。
 

@@ -1,4 +1,4 @@
-是[SNK开发的](../Page/SNK.md "wikilink")[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](../Page/格斗游戏.md "wikilink")，游戏的[PlayStation
+是[SNK开发的](../Page/SNK.md "wikilink")[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，游戏的[PlayStation
 4平台版本于](../Page/PlayStation_4.md "wikilink")2016年8月在日本、北美、欧洲、中国大陆发行\[1\]\[2\]\[3\]\[4\]；Windows版本将于2017年6月在全球通过Steam在线发行。\[5\]本作是拳皇系列第四部完全使用3D画面的游戏，前三部為KOF極限衝擊1-2及規則A。而其余前作均为2D画面。
 
 ## 劇情

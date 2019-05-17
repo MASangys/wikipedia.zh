@@ -1,26 +1,34 @@
-***Triclema***是[灰蝶科](../Page/灰蝶科.md "wikilink")[眼灰蝶亞科](../Page/眼灰蝶亞科.md "wikilink")[犁灰蝶族裡的一個](../Page/犁灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。共有20個物種，分佈於非洲森林\[1\]。
+***Triclema***是[灰蝶科](../Page/灰蝶科.md "wikilink")[眼灰蝶亞科](../Page/眼灰蝶亞科.md "wikilink")[犁灰蝶族裡的一個](../Page/犁灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有20個物種，分佈於非洲森林\[1\]。
 
 ## 物種
 
   - *Triclema coerulea*
   - *Triclema fasciatus*
-  - [哈德斯尖角灰蝶](../Page/哈德斯尖角灰蝶.md "wikilink") *Triclema hades*
+  - [哈德斯尖角灰蝶](https://zh.wikipedia.org/wiki/哈德斯尖角灰蝶 "wikilink")
+    *Triclema hades*
   - *Triclema inconspicua*
   - *Triclema inferna*
-  - [卡米尖角灰蝶](../Page/卡米尖角灰蝶.md "wikilink") *Triclema kamilila*
+  - [卡米尖角灰蝶](https://zh.wikipedia.org/wiki/卡米尖角灰蝶 "wikilink") *Triclema
+    kamilila*
   - *Triclema kimboza*
   - *Triclema krokosua*
   - *Triclema lacides*
-  - [薄翅尖角灰蝶](../Page/薄翅尖角灰蝶.md "wikilink") *Triclema lamias*
-  - [光亮尖角灰蝶](../Page/光亮尖角灰蝶.md "wikilink") *Triclema lucretilis*
+  - [薄翅尖角灰蝶](https://zh.wikipedia.org/wiki/薄翅尖角灰蝶 "wikilink") *Triclema
+    lamias*
+  - [光亮尖角灰蝶](https://zh.wikipedia.org/wiki/光亮尖角灰蝶 "wikilink") *Triclema
+    lucretilis*
   - *Triclema lutzi*
   - *Triclema maesseni*
-  - [馬尖角灰蝶](../Page/馬尖角灰蝶.md "wikilink") *Triclema marshalli*
-  - [尼日利亞尖角灰蝶](../Page/尼日利亞尖角灰蝶.md "wikilink") *Triclema nigeriae*
+  - [馬尖角灰蝶](https://zh.wikipedia.org/wiki/馬尖角灰蝶 "wikilink") *Triclema
+    marshalli*
+  - [尼日利亞尖角灰蝶](https://zh.wikipedia.org/wiki/尼日利亞尖角灰蝶 "wikilink")
+    *Triclema nigeriae*
   - *Triclema obscura*
   - *Triclema oculatus*
-  - [紫紅尖角灰蝶](../Page/紫紅尖角灰蝶.md "wikilink") *Triclema phoenicis*
-  - [斜紋尖角灰蝶](../Page/斜紋尖角灰蝶.md "wikilink") *Triclema rufoplagata*
+  - [紫紅尖角灰蝶](https://zh.wikipedia.org/wiki/紫紅尖角灰蝶 "wikilink") *Triclema
+    phoenicis*
+  - [斜紋尖角灰蝶](https://zh.wikipedia.org/wiki/斜紋尖角灰蝶 "wikilink") *Triclema
+    rufoplagata*
   - *Triclema tisamenus*
 
 ## 腳註

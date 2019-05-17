@@ -1,4 +1,4 @@
-**Kotlin**是一種在[Java虛擬機上執行的](../Page/Java虛擬機.md "wikilink")[靜態型別](../Page/類型系統.md "wikilink")[程式語言](../Page/程式語言.md "wikilink")，它也可以被編譯成為[JavaScript原始碼](../Page/JavaScript.md "wikilink")。它主要是由俄羅斯[聖彼得堡的](../Page/聖彼得堡.md "wikilink")[JetBrains開發團隊所發展出來的程式語言](../Page/JetBrains.md "wikilink")，其名稱來自於聖彼得堡附近的[科特林島](../Page/科特林島.md "wikilink")。\[1\]2012年1月，著名期刊《》中Kotlin被认定为該月的最佳語言。\[2\]雖然与Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如[Java集合框架等的現有](../Page/Java集合框架.md "wikilink")[Java類別庫](../Page/Java類別庫.md "wikilink")。Hathibelagal写道，“如果你正在为Android开发寻找一种替代编程语言，那么应该试下Kotlin。它很容易在Android项目中替代Java或者同Java一起使用。”
+**Kotlin**是一種在[Java虛擬機上執行的](https://zh.wikipedia.org/wiki/Java虛擬機 "wikilink")[靜態型別](../Page/類型系統.md "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，它也可以被編譯成為[JavaScript原始碼](../Page/JavaScript.md "wikilink")。它主要是由俄羅斯[聖彼得堡的](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")[JetBrains開發團隊所發展出來的程式語言](../Page/JetBrains.md "wikilink")，其名稱來自於聖彼得堡附近的[科特林島](https://zh.wikipedia.org/wiki/科特林島 "wikilink")。\[1\]2012年1月，著名期刊《》中Kotlin被认定为該月的最佳語言。\[2\]雖然与Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如[Java集合框架等的現有](../Page/Java集合框架.md "wikilink")[Java類別庫](https://zh.wikipedia.org/wiki/Java類別庫 "wikilink")。Hathibelagal写道，“如果你正在为Android开发寻找一种替代编程语言，那么应该试下Kotlin。它很容易在Android项目中替代Java或者同Java一起使用。”
 
 ## 历史
 
@@ -12,7 +12,7 @@ IDEA的销售](../Page/IntelliJ_IDEA.md "wikilink")。\[6\]
 Kotlin
 v1.0于2016年2月15日发布。\[7\]这被认为是第一个官方稳定版本，并且JetBrains已准备从该版本开始的长期向后兼容性。
 
-在[Google I/O](../Page/Google_I/O.md "wikilink")
+在[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")
 2017中，[Google宣布在](../Page/Google.md "wikilink")[Android上为Kotlin提供最佳支持](../Page/Android.md "wikilink")。\[8\]
 
 ## 语法
@@ -54,9 +54,10 @@ fun sum(a: Int, b: Int): Int {
 ### Main 進入點
 
 Kotlin的main函数是不依赖类別的，所以main函数是一个top-level函数。支持[Perl和Unix](../Page/Perl.md "wikilink")/Linux
-[shell script的字符串插值](../Page/shell_script.md "wikilink")（String
+[shell
+script的字符串插值](https://zh.wikipedia.org/wiki/shell_script "wikilink")（String
 interpolation），同樣也支持类型推定（[en:Type
-inference](../Page/en:Type_inference.md "wikilink"))。
+inference](https://zh.wikipedia.org/wiki/en:Type_inference "wikilink"))。
 
 ``` kotlin numberLines
 
@@ -325,17 +326,17 @@ fun String.print() = println(this)
 
 Kotlin对可以为空（nullable）的变量和不可以为空（non-nullable）的变量作了区分。所有的可空对象（nullable
 objects）必須在定义時加上 "?" 後置於类型之後。開發人员遇到nullable objects時要先確認: null-check
-須被執行過，才能赋值。可空性是Kotlin类型系统中帮助开发者避免以往Java的[NullPointerException错误的特性](../Page/NullPointerException.md "wikilink")。
+須被執行過，才能赋值。可空性是Kotlin类型系统中帮助开发者避免以往Java的[NullPointerException错误的特性](https://zh.wikipedia.org/wiki/NullPointerException "wikilink")。
 
 Kotlin 提供空安全（null-safe）运算符給開發人員:
 
   - ([safe navigation
-    operator](../Page/safe_navigation_operator.md "wikilink"))
-    可用於安全存取（safely access） 可能是空对象的函數或屬性。如果 object
-    為空（null）, the method 將不被调用，而且表达式必运算（evaluate）為空（null）。
+    operator](https://zh.wikipedia.org/wiki/safe_navigation_operator "wikilink"))
+    可用於安全存取（safely access） 可能是空对象的函數或屬性。如果 object 為空（null）, the method
+    將不被调用，而且表达式必运算（evaluate）為空（null）。
 
   - ([null coalescing
-    operator](../Page/null_coalescing_operator.md "wikilink"))
+    operator](https://zh.wikipedia.org/wiki/null_coalescing_operator "wikilink"))
     經常參照到艾维斯运算符（Elvis operator）:
 
 <!-- end list -->

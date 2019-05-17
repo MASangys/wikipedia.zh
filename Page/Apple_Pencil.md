@@ -1,17 +1,17 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Apple_Pencil.jpg "fig:缩略图")
 [缩略图](https://zh.wikipedia.org/wiki/File:IPad_\(Apple_Pencil\).jpg "fig:缩略图")
 **Apple
-Pencil**，是一個由[蘋果公司所設計的](../Page/蘋果公司.md "wikilink")[觸控筆](../Page/觸控筆.md "wikilink")，只能在[iPad
-Pro和](../Page/iPad_Pro.md "wikilink")[iPad
-(第六代)等特定型號的](../Page/iPad_\(第六代\).md "wikilink")[iPad系列](../Page/iPad.md "wikilink")[平板電腦使用](../Page/平板電腦.md "wikilink")，不支援[iPhone](../Page/iPhone.md "wikilink")、[iPod
-Touch及其他廠牌的行動裝置](../Page/iPod_Touch.md "wikilink")\[1\]\[2\]。Apple
+Pencil**，是一個由[蘋果公司所設計的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[觸控筆](../Page/觸控筆.md "wikilink")，只能在[iPad
+Pro和](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")[iPad
+(第六代)等特定型號的](https://zh.wikipedia.org/wiki/iPad_\(第六代\) "wikilink")[iPad系列](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板電腦使用](../Page/平板電腦.md "wikilink")，不支援[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
+Touch及其他廠牌的行動裝置](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")\[1\]\[2\]。Apple
 Pencil 在2015年9月9日的秋季產品發表會上首次公開，並於2015年11月開始發售\[3\]。
 
 ## 產品介紹
 
-Apple Pencil以[藍芽和iPad](../Page/藍芽.md "wikilink")
+Apple Pencil以[藍芽和iPad](https://zh.wikipedia.org/wiki/藍芽 "wikilink")
 Pro連線\[4\]。擁有壓力感測及角度偵測系統\[5\]，可以偵測力道，例如：利用筆壓下更深或更淺的筆觸由使用者的力道決定。使用Apple
-Pencil更能在使用時減少[延遲並順暢的繪畫](../Page/延遲.md "wikilink")\[6\]。
+Pencil更能在使用時減少[延遲並順暢的繪畫](https://zh.wikipedia.org/wiki/延遲 "wikilink")\[6\]。
 
 iPad Pro能夠同時使用Apple
 Pencil與手指，且可偵測避免手掌誤觸控，因此可像一般書寫或繪畫時，將手掌放置於螢幕上而無須懸空\[7\]\[8\]。

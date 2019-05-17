@@ -1,4 +1,4 @@
-**Achtung**(**악퉁**)是[韓國的三人樂團](../Page/大韩民国.md "wikilink")。樂團僅包括吉他、鼓和貝斯，以搖滾即pop為基礎，並融入各式風格於他們音樂中。曲風從一直到令人心碎的抒情曲。他們融合不同的音樂元素，創造其獨特音樂風格。\[1\]
+**Achtung**(**악퉁**)是[韓國的三人樂團](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。樂團僅包括吉他、鼓和貝斯，以搖滾即pop為基礎，並融入各式風格於他們音樂中。曲風從一直到令人心碎的抒情曲。他們融合不同的音樂元素，創造其獨特音樂風格。\[1\]
 
 ## 團名由來
 
@@ -7,7 +7,7 @@ Achtung源自德文，有“attention”以及
 
 ## 成員
 
-  - 秋升燁 - [主唱](../Page/主唱.md "wikilink"),
+  - 秋升燁 - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink"),
     [吉他](../Page/原聲吉他.md "wikilink")
 
   - \- [爵士鼓](../Page/爵士鼓.md "wikilink")
@@ -58,8 +58,9 @@ Achtung源自德文，有“attention”以及
 ### 合作單曲專輯
 
   - 那天(그 날)(with [尹度玹](../Page/尹度玹.md "wikilink"))\[4\] - (2014年 5月 22日)
-  - 鏡中的你(거울속의 너)(with [鄭燁](../Page/鄭燁.md "wikilink"))\[5\] - (2014年 8月
-    14日)
+  - 鏡中的你(거울속의 너)(with
+    [鄭燁](https://zh.wikipedia.org/wiki/鄭燁 "wikilink"))\[5\] -
+    (2014年 8月 14日)
   - 戀戀(연연)(with [金慶皓](../Page/金慶皓.md "wikilink"))\[6\] - (2014年 10月 14日)
 
 ## 參考資料

@@ -1,5 +1,5 @@
 《**初森BEMARS**》（）為2015年7月11日至9月26日由[東京電視台](../Page/東京電視台.md "wikilink")[電視劇24系列開始播出以壘球為題材的電視劇](../Page/電視劇24.md "wikilink")。\[1\]
-[秋元康在](../Page/秋元康.md "wikilink")[電視劇24裡的製作往常是以偶像團體](../Page/電視劇24.md "wikilink")[AKB48和其姊妹團體一起共同主演的](../Page/AKB48.md "wikilink")[馬路須加學園展開序幕](../Page/馬路須加學園.md "wikilink")，這次，則是由[AKB48的官方對手](../Page/AKB48.md "wikilink")，同時也是[秋元康所創立的偶像團體](../Page/秋元康.md "wikilink")[乃木坂46第一次主演的電視劇](../Page/乃木坂46.md "wikilink")。\[2\]
+[秋元康在](../Page/秋元康.md "wikilink")[電視劇24裡的製作往常是以偶像團體](../Page/電視劇24.md "wikilink")[AKB48和其姊妹團體一起共同主演的](../Page/AKB48.md "wikilink")[馬路須加學園展開序幕](../Page/馬路須加學園.md "wikilink")，這次，則是由[AKB48的官方對手](../Page/AKB48.md "wikilink")，同時也是[秋元康所創立的偶像團體](../Page/秋元康.md "wikilink")[乃木坂46第一次主演的電視劇](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。\[2\]
 
 ## 劇情概要
 
@@ -11,7 +11,7 @@
 ### 初森第二女子商業高等學校
 
   - 七丸 （） -
-    [西野七瀨](../Page/西野七瀨.md "wikilink")（幼年期：岩崎愛香）\[8\]（粤语配音：[何凱怡](../Page/何凱怡.md "wikilink")）
+    [西野七瀨](../Page/西野七瀨.md "wikilink")（幼年期：岩崎愛香）\[8\]（粤语配音：[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")）
     球衣背號1號，守備位置為[投手](../Page/投手.md "wikilink")。\[9\]
     故事的主角。
     店的獨生女。
@@ -31,31 +31,31 @@
 <!-- end list -->
 
   - 蕭邦 （） -
-    [生田繪梨花](../Page/生田繪梨花.md "wikilink")（粵語配音：[陳頴琪](../Page/陳頴琪.md "wikilink")）
-    球衣背號3號，守備位置為[游擊手](../Page/游擊手.md "wikilink")。\[11\]
-    擁有[絕對音感的天份](../Page/絕對音感.md "wikilink")，並從小就志願當鋼琴家的少女。
+    [生田繪梨花](../Page/生田繪梨花.md "wikilink")（粵語配音：[陳頴琪](https://zh.wikipedia.org/wiki/陳頴琪 "wikilink")）
+    球衣背號3號，守備位置為[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")。\[11\]
+    擁有[絕對音感的天份](https://zh.wikipedia.org/wiki/絕對音感 "wikilink")，並從小就志願當鋼琴家的少女。
 
 <!-- end list -->
 
   - 時下 （，今時） -
-    [若月佑美](../Page/若月佑美.md "wikilink")（粵語配音：[廖欣怡](../Page/廖欣怡.md "wikilink")）
-    球衣背號4號，守備位置為[一壘手](../Page/一壘手.md "wikilink")。\[12\]
+    [若月佑美](../Page/若月佑美.md "wikilink")（粵語配音：[廖欣怡](https://zh.wikipedia.org/wiki/廖欣怡 "wikilink")）
+    球衣背號4號，守備位置為[一壘手](https://zh.wikipedia.org/wiki/一壘手 "wikilink")。\[12\]
     是個時常拿著球棒到處遊蕩，有著昭和時期味道的不良少女。
     打架時有78勝2敗3平的戰績。
 
 <!-- end list -->
 
   - 奧斯卡（） -
-    [生駒里奈](../Page/生駒里奈.md "wikilink")（幼年期：）（粵語配音：[黎皓宜](../Page/黎皓宜.md "wikilink")）
-    球衣背號5號，守備位置為[二壘手](../Page/二壘手.md "wikilink")。\[13\]
+    [生駒里奈](../Page/生駒里奈.md "wikilink")（幼年期：）（粵語配音：[黎皓宜](https://zh.wikipedia.org/wiki/黎皓宜 "wikilink")）
+    球衣背號5號，守備位置為[二壘手](https://zh.wikipedia.org/wiki/二壘手 "wikilink")。\[13\]
     隸屬於演劇部。
-    夢想成為[奧斯卡金像獎女演員](../Page/奧斯卡金像獎.md "wikilink")。
+    夢想成為[奧斯卡金像獎女演員](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。
     雖然在舞台上能保持優異的演劇台風，但台下卻是個極其怕生的少女。
 
 <!-- end list -->
 
   - 無難 （）- [櫻井玲香](../Page/櫻井玲香.md "wikilink")
-    球衣背號6號，守備位置為[右外野手](../Page/右外野手.md "wikilink")。\[14\]
+    球衣背號6號，守備位置為[右外野手](https://zh.wikipedia.org/wiki/右外野手 "wikilink")。\[14\]
     [投機主義的學生會會長](../Page/投機主義.md "wikilink")。
     有著優柔寡斷、不引發是非的無難性格。
 
@@ -71,7 +71,7 @@
 
   - 哈佛 （） -
     [秋元真夏](../Page/秋元真夏.md "wikilink")（粵語配音：[石梓晴](../Page/石梓晴.md "wikilink")）
-    球衣背號8號，守備位置為[中外野手](../Page/中外野手.md "wikilink")。\[16\]
+    球衣背號8號，守備位置為[中外野手](https://zh.wikipedia.org/wiki/中外野手 "wikilink")。\[16\]
     擅長數學和物理學的天才少女。
     為七丸的魔球「寸止」的發明者。
 
@@ -79,7 +79,7 @@
 
   - 媽媽 （） -
     [深川麻衣](../Page/深川麻衣.md "wikilink")（粵語配音：[鄭家蕙](../Page/鄭家蕙.md "wikilink")）
-    球衣背號9號，守備位置為[左外野手](../Page/左外野手.md "wikilink")。\[17\]
+    球衣背號9號，守備位置為[左外野手](https://zh.wikipedia.org/wiki/左外野手 "wikilink")。\[17\]
     打理家裡的家事，並照顧弟弟、妹妹及一名性別不明的嬰兒。
     時常流露出異於高校生的成熟言語及思想。
 
@@ -87,7 +87,7 @@
 
   - 09 （） -
     [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（粵語配音：[姜嘉蕾](../Page/姜嘉蕾.md "wikilink")）
-    球衣背號10號，守備位置為[三壘手](../Page/三壘手.md "wikilink")。\[18\]
+    球衣背號10號，守備位置為[三壘手](https://zh.wikipedia.org/wiki/三壘手 "wikilink")。\[18\]
     個性冷靜的時髦美少女。
     高校休學中並在時尚店"209"工作。
     由於是球隊中唯一一個壘球經驗者，所以為球隊中不可或缺的主要戰力。
@@ -107,7 +107,7 @@
 <!-- end list -->
 
   - 雪莉 （） -
-    [衛藤美彩](../Page/衛藤美彩.md "wikilink")（粤语配音：[杨婉潼](../Page/杨婉潼.md "wikilink")）
+    [衛藤美彩](../Page/衛藤美彩.md "wikilink")（粤语配音：[杨婉潼](https://zh.wikipedia.org/wiki/杨婉潼 "wikilink")）
     球衣背號2號，守備位置為[捕手](../Page/捕手.md "wikilink")。\[21\]
     聖田園調布北極星學園壘球部副隊長。
     壘球實力僅次於美麗。
@@ -149,7 +149,7 @@
 
 <!-- end list -->
 
-  - 西野蘭子 - （粵語配音：[陳雪瑩](../Page/陳雪瑩.md "wikilink")）
+  - 西野蘭子 - （粵語配音：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")）
     七丸的媽媽
     文字燒店店主
 
@@ -206,12 +206,12 @@
 
 第四戰的對手，擁有許多短跑選手的速度型隊伍，只靠速度就可拿下許多分數的特快軍團。
 
-  - 希望（）- [新內真衣](../Page/新內真衣.md "wikilink")\[28\]
+  - 希望（）- [新內真衣](https://zh.wikipedia.org/wiki/新內真衣 "wikilink")\[28\]
     守備位置為投手。
 
 <!-- end list -->
 
-  - 光芒（）- [相樂伊織](../Page/相樂伊織.md "wikilink")\[29\]
+  - 光芒（）- [相樂伊織](https://zh.wikipedia.org/wiki/相樂伊織 "wikilink")\[29\]
     守備位置為捕手。
 
 #### 須決鬪國際學校（第7球）
@@ -222,7 +222,7 @@
 
 準決賽的對手，打者每年都能打出100支全壘打的強打隊伍。
 
-  - 旗魚（）- [齊藤優里](../Page/齊藤優里.md "wikilink")\[30\]
+  - 旗魚（）- [齊藤優里](https://zh.wikipedia.org/wiki/齊藤優里 "wikilink")\[30\]
     守備位置為捕手，同時也身兼隊長。
 
 <!-- end list -->
@@ -253,7 +253,8 @@
 
 #### 第2球
 
-  - 鎌田的學生 - [渡邊米莉愛](../Page/渡邊米莉愛.md "wikilink")\[34\]
+  - 鎌田的學生 -
+    [渡邊米莉愛](https://zh.wikipedia.org/wiki/渡邊米莉愛 "wikilink")\[34\]
     鎌田俊郎早期在學校當壘球部教練時的學生。即使鎌田不小心因為指導過度而將她弄受傷了，她也依然不責怪鎌田。
 
 #### 第3球
@@ -268,7 +269,7 @@
 
 #### 第5球
 
-  - 坎城（）- [鈴木絢音](../Page/鈴木絢音.md "wikilink")\[37\]
+  - 坎城（）- [鈴木絢音](https://zh.wikipedia.org/wiki/鈴木絢音 "wikilink")\[37\]
     初森第二女子商業高等學校演劇部學生，奧斯卡的後輩。
 
 <!-- end list -->
@@ -278,7 +279,8 @@
 
 #### 第6球
 
-  - 佐佐木幸次郎（）- [真劍佑](../Page/真劍佑.md "wikilink")\[39\]
+  - 佐佐木幸次郎（）-
+    [真劍佑](https://zh.wikipedia.org/wiki/真劍佑 "wikilink")\[39\]
     小手單戀的對象。
 
 #### 第7球
@@ -293,12 +295,13 @@
 
 <!-- end list -->
 
-  - 時時（）- [和田真彩](../Page/和田真彩.md "wikilink")\[42\]
+  - 時時（）- [和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")\[42\]
     初森第二女子商業高等學校裡的學生，勝時的搭檔。
 
 <!-- end list -->
 
-  - 瀧谷小百合（）- [井上小百合](../Page/井上小百合.md "wikilink")\[43\]
+  - 瀧谷小百合（）-
+    [井上小百合](https://zh.wikipedia.org/wiki/井上小百合 "wikilink")\[43\]
     以下四名皆為黑薔薇女子學院的不良少女們。
 
 <!-- end list -->
@@ -311,11 +314,12 @@
 
 <!-- end list -->
 
-  - 片桐琴子（）- [佐佐木琴子](../Page/佐佐木琴子.md "wikilink")
+  - 片桐琴子（）- [佐佐木琴子](https://zh.wikipedia.org/wiki/佐佐木琴子 "wikilink")
 
 ##### 特別客串
 
-  - 上野投手 - [上野由岐子](../Page/上野由岐子.md "wikilink")\[44\]
+  - 上野投手 -
+    [上野由岐子](https://zh.wikipedia.org/wiki/上野由岐子 "wikilink")\[44\]
     日本女子壘球國家代表隊的王牌，和搭檔山本皆稱呼鎌田教練為「小鎌」（），鎌田則稱呼她為yukirin（）。傳授七丸四蠟投的招式。
 
 <!-- end list -->
@@ -362,7 +366,7 @@
 <!-- end list -->
 
   -
-    作詞:[秋元康](../Page/秋元康.md "wikilink")，作曲:[黒須克彥](../Page/黒須克彥.md "wikilink")，[N46Div.發行](../Page/日本索尼音樂娛樂.md "wikilink")
+    作詞:[秋元康](../Page/秋元康.md "wikilink")，作曲:[黒須克彥](https://zh.wikipedia.org/wiki/黒須克彥 "wikilink")，[N46Div.發行](../Page/日本索尼音樂娛樂.md "wikilink")
 
 ### 片尾曲
 
@@ -378,7 +382,7 @@
 
   - [AKB48](../Page/AKB48.md "wikilink") -
     [戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")
-  - [乃木坂46](../Page/乃木坂46.md "wikilink") -
+  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink") -
     [你就是希望](../Page/你就是希望.md "wikilink")
 
 ## 集數列表
@@ -537,9 +541,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圏.md" title="wikilink">關東廣域圏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圏" title="wikilink">關東廣域圏</a></p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>【制作局】</p></td>
-<td><p><a href="../Page/TXN.md" title="wikilink">東京電視台系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">東京電視台系列</a></p></td>
 <td><p>2015年7月11日 -</p></td>
 <td><p>周六 0:12 - 0:52 (周五 24:12 - 24:52)</p></td>
 </tr>
@@ -559,65 +563,65 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a><br />
-<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td><p>2015年7月13日 -</p></td>
 <td><p>周一23:58 - 0:40 (周一 23:58 - 24:40)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/長野縣.md" title="wikilink">長野縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長野縣" title="wikilink">長野縣</a></p></td>
 <td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
-<td><p><a href="../Page/Japan_News_Network.md" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
 <td><p>2015年7月17日 -</p></td>
 <td><p>周五 0:43 - 1:23（周四 24:43 - 25:23）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福島縣.md" title="wikilink">福島縣</a></p></td>
-<td><p><a href="../Page/福島中央電視台.md" title="wikilink">福島中央電視台</a></p></td>
-<td><p><a href="../Page/NNS.md" title="wikilink">日本電視台系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島縣" title="wikilink">福島縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島中央電視台" title="wikilink">福島中央電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NNS" title="wikilink">日本電視台系列</a></p></td>
 <td><p>周五 1:44 - 2:24（周四 25:44 - 26:24）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/奈良縣.md" title="wikilink">奈良縣</a></p></td>
-<td><p><a href="../Page/奈良電視台.md" title="wikilink">奈良電視台</a></p></td>
-<td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良電視台" title="wikilink">奈良電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国独立放送協議会" title="wikilink">独立局</a></p></td>
 <td><p>2015年7月18日 -</p></td>
 <td><p>周六 0:30 - 1:05（周五 24:30 - 25:05）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/和歌山縣.md" title="wikilink">和歌山縣</a></p></td>
-<td><p><a href="../Page/和歌山電視台.md" title="wikilink">和歌山電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/和歌山縣" title="wikilink">和歌山縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/和歌山電視台" title="wikilink">和歌山電視台</a></p></td>
 <td><p>2015年7月26日 -</p></td>
 <td><p>周日 0:15 - 0:55（周六 24:15 - 24:55）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/新潟縣.md" title="wikilink">新潟縣</a></p></td>
-<td><p><a href="../Page/TV新潟放送網.md" title="wikilink">TV新潟放送網</a></p></td>
-<td><p><a href="../Page/NNS.md" title="wikilink">日本電視台系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TV新潟放送網" title="wikilink">TV新潟放送網</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NNS" title="wikilink">日本電視台系列</a></p></td>
 <td><p>2015年8月2日 -</p></td>
 <td><p>周日 1:40 - 2:20（周六 25:40 - 26:20）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鳥取縣.md" title="wikilink">鳥取縣</a><br />
-<a href="../Page/島根縣.md" title="wikilink">島根縣</a></p></td>
-<td><p><a href="../Page/日本海電視台.md" title="wikilink">日本海電視台</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/島根縣" title="wikilink">島根縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本海電視台" title="wikilink">日本海電視台</a></p></td>
 <td><p>2015年8月22日 -</p></td>
 <td><p>周六 2:05 - 2:45（周五 26:05 - 26:45）</p></td>
 <td></td>

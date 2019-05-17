@@ -1,6 +1,6 @@
-**hyukoh**（，讀音為「hyeoko」），韓國獨立[樂團](../Page/流行樂團.md "wikilink")，成立於 2014 年
-5 月，2015 年簽约
-[HIGHGRND](../Page/HIGHGRND.md "wikilink")。團員四人為主唱兼吉他手[吳赫](../Page/吳赫.md "wikilink")、吉他手[林賢帝](../Page/林賢帝.md "wikilink")、貝斯手[任童健](../Page/任童健.md "wikilink")、鼓手[李仁雨](../Page/李仁雨.md "wikilink")。團名的由來為主唱吳赫「Oh
+**hyukoh**（，讀音為「hyeoko」），韓國獨立[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成立於
+2014 年 5 月，2015 年簽约
+[HIGHGRND](https://zh.wikipedia.org/wiki/HIGHGRND "wikilink")。團員四人為主唱兼吉他手[吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink")、吉他手[林賢帝](https://zh.wikipedia.org/wiki/林賢帝 "wikilink")、貝斯手[任童健](https://zh.wikipedia.org/wiki/任童健 "wikilink")、鼓手[李仁雨](https://zh.wikipedia.org/wiki/李仁雨 "wikilink")。團名的由來為主唱吳赫「Oh
 Hyuk」的名字倒過來念。
 
 2014 年 9 月 hyukoh 發行首張
@@ -11,15 +11,15 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ## 成員資料
 
-| 成員列表                                     |
-| ---------------------------------------- |
-| 本名                                       |
-| 漢字                                       |
-| [吳赫](../Page/吳赫.md "wikilink")           |
-| [林賢帝](../Page/林賢帝_\(吉他手\).md "wikilink") |
-| [任童健](../Page/任童健.md "wikilink")         |
-| [李仁雨](../Page/李仁雨.md "wikilink")         |
-|                                          |
+| 成員列表                                                        |
+| ----------------------------------------------------------- |
+| 本名                                                          |
+| 漢字                                                          |
+| [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink")           |
+| [林賢帝](https://zh.wikipedia.org/wiki/林賢帝_\(吉他手\) "wikilink") |
+| [任童健](https://zh.wikipedia.org/wiki/任童健 "wikilink")         |
+| [李仁雨](https://zh.wikipedia.org/wiki/李仁雨 "wikilink")         |
+|                                                             |
 
 ## 音樂作品
 
@@ -106,42 +106,43 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ### 合作單曲
 
-| 年份     | 發佈日期                   | 歌曲名稱                                                                      | 歌手                                 | 參與成員                           |
-| ------ | ---------------------- | ------------------------------------------------------------------------- | ---------------------------------- | ------------------------------ |
-| 2015年  | 3月23日                  | Etunnel                                                                   | Primary                            | [吳赫](../Page/吳赫.md "wikilink") |
-| 3月23日  | Bawling                | Primary                                                                   |                                    |                                |
-| 3月23日  | Island                 | Primary                                                                   |                                    |                                |
-| 3月23日  | Gondry                 | Primary、Lim Kim                                                           |                                    |                                |
-| 3月24日  | Bushwick               | Car, the garden                                                           |                                    |                                |
-| 8月10日  | Rubber                 | Primary                                                                   |                                    |                                |
-| 10月21日 | Parachute              | Code Kunst、[Dok2](../Page/Dok2.md "wikilink")                             |                                    |                                |
-| 2016年  | 1月28日                  | Moonstruck                                                                | Peejay、Qim Isle                    |                                |
-| 12月31日 | Your Night             | [光熙](../Page/光熙.md "wikilink")、[Gaeko](../Page/Dynamic_Duo.md "wikilink") |                                    |                                |
-| 2017年  | 1月19日                  | Goodbye (与[CL作词](../Page/李彩麟.md "wikilink"))                              | [2NE1](../Page/2NE1.md "wikilink") |                                |
-| 4月7日   | Can't Love You Anymore | [IU](../Page/IU_\(歌手\).md "wikilink")                                     |                                    |                                |
+| 年份     | 發佈日期                   | 歌曲名稱                                                                      | 歌手                                 | 參與成員                                              |
+| ------ | ---------------------- | ------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------- |
+| 2015年  | 3月23日                  | Etunnel                                                                   | Primary                            | [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink") |
+| 3月23日  | Bawling                | Primary                                                                   |                                    |                                                   |
+| 3月23日  | Island                 | Primary                                                                   |                                    |                                                   |
+| 3月23日  | Gondry                 | Primary、Lim Kim                                                           |                                    |                                                   |
+| 3月24日  | Bushwick               | Car, the garden                                                           |                                    |                                                   |
+| 8月10日  | Rubber                 | Primary                                                                   |                                    |                                                   |
+| 10月21日 | Parachute              | Code Kunst、[Dok2](../Page/Dok2.md "wikilink")                             |                                    |                                                   |
+| 2016年  | 1月28日                  | Moonstruck                                                                | Peejay、Qim Isle                    |                                                   |
+| 12月31日 | Your Night             | [光熙](../Page/光熙.md "wikilink")、[Gaeko](../Page/Dynamic_Duo.md "wikilink") |                                    |                                                   |
+| 2017年  | 1月19日                  | Goodbye (与[CL作词](https://zh.wikipedia.org/wiki/李彩麟 "wikilink"))           | [2NE1](../Page/2NE1.md "wikilink") |                                                   |
+| 4月7日   | Can't Love You Anymore | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")                  |                                    |                                                   |
 
 ### OST
 
-| 發佈日期        | 電視劇名稱                                                  | 歌曲名稱                | 參與成員                           |
-| ----------- | ------------------------------------------------------ | ------------------- | ------------------------------ |
-| 2015年11月22日 | [請回答1988](../Page/請回答1988.md "wikilink")               | 少女 (소녀)             | [吳赫](../Page/吳赫.md "wikilink") |
-| 2016年11月5日  | [Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink") | MASITNONSOUL (맛있는술) | 全員                             |
-| 2018年10月15日 | [壞爸爸](../Page/壞爸爸.md "wikilink")                       | Golden Goat         | [吳赫](../Page/吳赫.md "wikilink") |
+| 發佈日期        | 電視劇名稱                                                  | 歌曲名稱                | 參與成員                                              |
+| ----------- | ------------------------------------------------------ | ------------------- | ------------------------------------------------- |
+| 2015年11月22日 | [請回答1988](../Page/請回答1988.md "wikilink")               | 少女 (소녀)             | [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink") |
+| 2016年11月5日  | [Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink") | MASITNONSOUL (맛있는술) | 全員                                                |
+| 2018年10月15日 | [壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")    | Golden Goat         | [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink") |
 
 ## 電視劇
 
-  - 2016年：[tvN](../Page/tvN.md "wikilink")《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》（特別演出）
+  - 2016年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》（特別演出）
 
 ## 綜藝節目
 
-  - 2015年：《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》(4月24日、10月16日)
+  - 2015年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》(4月24日、10月16日)
   - 2015年：《[無限挑戰
     嶺東高速公路歌謠祭](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")》(7月4日、11日、18日、25日、8月1日、8日、22日)
-  - 2016年：《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》(12月3日)
-  - 2016年：《[無限挑戰 偉大的遺產](../Page/無限挑戰_偉大的遺產.md "wikilink")》（吳赫）（12月31日）
-  - 2017年：《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》（吳赫）(4月15日、4月29日)
-  - 2017年：《[本業是歌手－這些傢伙的兩種生活](../Page/本業是歌手－這些傢伙的兩種生活.md "wikilink")》（吳赫）(11月23日－2018年1月11日)
-  - 2018年：《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》（6月3日、6月10日）
+  - 2016年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》(12月3日)
+  - 2016年：《[無限挑戰
+    偉大的遺產](https://zh.wikipedia.org/wiki/無限挑戰_偉大的遺產 "wikilink")》（吳赫）（12月31日）
+  - 2017年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》（吳赫）(4月15日、4月29日)
+  - 2017年：《[本業是歌手－這些傢伙的兩種生活](https://zh.wikipedia.org/wiki/本業是歌手－這些傢伙的兩種生活 "wikilink")》（吳赫）(11月23日－2018年1月11日)
+  - 2018年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》（6月3日、6月10日）
 
 ## 演唱會
 
@@ -186,29 +187,29 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ### 其他大型演唱會
 
-|             |                                         |                                         |
-| ----------- | --------------------------------------- | --------------------------------------- |
-| 日期          | 演唱會名稱                                   | 舉行地點                                    |
-| 2015年11月7日  | 2015《MelOn Music Awards》                | 韓國 首爾奧林匹克公園體操競技場                        |
-| 2015年12月27日 | 2015《SBS Awards Festival》               | 韓國 首爾市三成洞COEX                           |
-| 2016年2月17日  | 第五屆《Gaon Chart K-Pop Awards》            | 韓國 首爾奧林匹克廳                              |
-| 2016年2月29日  | 第13屆韓國大眾音樂頒獎典禮                          | 韓國 首爾                                   |
-| 2016年4月30日  | 2016上海草莓音乐节                             | 上海世博公园                                  |
-| 2016年5月28日  | Seoul Jazz Festival 2016                | HEINEKEN HOUSE                          |
-| 2016年7月22日  | 2016 Jisan Valley Rock Festival (芝山音樂節) | 韓國 仁川芝山渡假村                              |
-| 2016年8月20日  | SUMMER SONIC 2016                       | 日本 大阪舞洲體育島                              |
-| 2016年8月21日  | 日本 東京千葉海洋球場                             |                                         |
-| 2016年11月26日 | Clockenflap 香港音樂及藝術節                    | 香港 中環海濱                                 |
-| 2017年7月30日  | 2017 Jisan Valley Rock Festival (芝山音樂節) | 韓國 仁川芝山渡假村                              |
-| 2017年8月19日  | SUMMER SONIC 2017                       | 日本 東京千葉海洋球場                             |
-| 2017年8月25日  | ACC 世界音樂節                               | 韓國 光州國立亞洲文化殿堂                           |
-| 2017年8月27日  | FireBall 火球祭                            | 台灣 高雄展覽館                                |
-| 2017年9月2日   | Limetree 音樂節                            | 韓國 蘭芝漢江公園                               |
-| 2017年9月14日  | Albatross 音樂節                           | 溫哥華 喜士定馬場                               |
-| 2017年9月23日  | 摩登天空音樂節                                 | 洛杉磯 Santa Anita Park                    |
-| 2017年10月14日 | KT\&G 想像實現音樂節                           | 韓國 春川                                   |
-| 2017年10月25日 | MBC 罷工演唱會                               | 首爾市政廳廣場                                 |
-| 2018年6月23日  | 第29屆金曲獎\[1\]                            | 台灣 [台北小巨蛋](../Page/臺北小巨蛋.md "wikilink") |
+|             |                                         |                                                            |
+| ----------- | --------------------------------------- | ---------------------------------------------------------- |
+| 日期          | 演唱會名稱                                   | 舉行地點                                                       |
+| 2015年11月7日  | 2015《MelOn Music Awards》                | 韓國 首爾奧林匹克公園體操競技場                                           |
+| 2015年12月27日 | 2015《SBS Awards Festival》               | 韓國 首爾市三成洞COEX                                              |
+| 2016年2月17日  | 第五屆《Gaon Chart K-Pop Awards》            | 韓國 首爾奧林匹克廳                                                 |
+| 2016年2月29日  | 第13屆韓國大眾音樂頒獎典禮                          | 韓國 首爾                                                      |
+| 2016年4月30日  | 2016上海草莓音乐节                             | 上海世博公园                                                     |
+| 2016年5月28日  | Seoul Jazz Festival 2016                | HEINEKEN HOUSE                                             |
+| 2016年7月22日  | 2016 Jisan Valley Rock Festival (芝山音樂節) | 韓國 仁川芝山渡假村                                                 |
+| 2016年8月20日  | SUMMER SONIC 2016                       | 日本 大阪舞洲體育島                                                 |
+| 2016年8月21日  | 日本 東京千葉海洋球場                             |                                                            |
+| 2016年11月26日 | Clockenflap 香港音樂及藝術節                    | 香港 中環海濱                                                    |
+| 2017年7月30日  | 2017 Jisan Valley Rock Festival (芝山音樂節) | 韓國 仁川芝山渡假村                                                 |
+| 2017年8月19日  | SUMMER SONIC 2017                       | 日本 東京千葉海洋球場                                                |
+| 2017年8月25日  | ACC 世界音樂節                               | 韓國 光州國立亞洲文化殿堂                                              |
+| 2017年8月27日  | FireBall 火球祭                            | 台灣 高雄展覽館                                                   |
+| 2017年9月2日   | Limetree 音樂節                            | 韓國 蘭芝漢江公園                                                  |
+| 2017年9月14日  | Albatross 音樂節                           | 溫哥華 喜士定馬場                                                  |
+| 2017年9月23日  | 摩登天空音樂節                                 | 洛杉磯 Santa Anita Park                                       |
+| 2017年10月14日 | KT\&G 想像實現音樂節                           | 韓國 春川                                                      |
+| 2017年10月25日 | MBC 罷工演唱會                               | 首爾市政廳廣場                                                    |
+| 2018年6月23日  | 第29屆金曲獎\[1\]                            | 台灣 [台北小巨蛋](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink") |
 
 ## 獎項
 
@@ -349,10 +350,10 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ### 音樂節目獎項
 
-|       |       |                                    |                                                     |        |    |
-| ----- | ----- | ---------------------------------- | --------------------------------------------------- | ------ | -- |
-| 年份    | 日期    | 電視台                                | 節目名稱                                                | 獲獎歌曲   | 排名 |
-| 2017年 | 5月11日 | [Mnet](../Page/Mnet.md "wikilink") | [M\! Countdown](../Page/M!_Countdown.md "wikilink") | Tomboy | 1位 |
+|       |       |                                                       |                                                                        |        |    |
+| ----- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------- | ------ | -- |
+| 年份    | 日期    | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲   | 排名 |
+| 2017年 | 5月11日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Tomboy | 1位 |
 
 ## 參考資料
 

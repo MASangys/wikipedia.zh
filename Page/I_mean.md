@@ -1,5 +1,5 @@
 《**I
-mean**》是[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/男子音樂組合.md "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")7張韓語迷你專輯，於2015年10月12日發行，主打歌曲為《回家的路》（）\[1\]。
+mean**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")7張韓語迷你專輯，於2015年10月12日發行，主打歌曲為《回家的路》（）\[1\]。
 
 ## 曲目
 
@@ -10,26 +10,26 @@ mean**》是[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/�
 | 電視台                                                             |
 | colspan=6 style="background:\#9be6ff | 심장어택 (Heart Attack)      |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")               |
-| [Mnet](../Page/Mnet.md "wikilink")                              |
-| [SBS](../Page/SBS.md "wikilink")                                |
+| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")             |
 | colspan=6 style="background:\#9be6ff | 집으로 가는 길 (Way Back Home) |
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")               |
 | 10月21日                                                          |
 | 最高名次：                                                           |
-| [Mnet](../Page/Mnet.md "wikilink")                              |
+| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           |
 | 10月22日                                                          |
 | 10月29日                                                          |
 | 11月5日                                                           |
 | 最高名次：                                                           |
-| [KBS](../Page/KBS.md "wikilink")                                |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")             |
 | 10月23日                                                          |
 | 10月30日                                                          |
 | 最高名次：                                                           |
-| [MBC](../Page/MBC.md "wikilink")                                |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")             |
 | 11月7日                                                           |
 | 11月14日                                                          |
 | 最高名次：                                                           |
-| [SBS](../Page/SBS.md "wikilink")                                |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")             |
 | 10月25日                                                          |
 | 11月1日                                                           |
 | 11月8日                                                           |
@@ -55,7 +55,7 @@ mean**》是[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/�
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年10月11日－10月17日</p></td>
 <td><p>#5</p></td>
@@ -112,7 +112,7 @@ mean**》是[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/�
 <tbody>
 <tr class="odd">
 <td><p>Last Day</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年10月11日－10月17日</p></td>
 <td><p>#49</p></td>
@@ -163,18 +163,18 @@ mean**》是[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/�
 
 ### 音源榜排行
 
-| 音源榜                                    | 最高名次  |
-| -------------------------------------- | ----- |
-| 實時榜                                    |       |
-| [MelOn](../Page/Kakao_M.md "wikilink") | 2     |
-| [Mnet](../Page/Mnet.md "wikilink")     | **1** |
-| Bugs                                   | **1** |
-| Olleh                                  | **1** |
-| Soribada                               | **1** |
-| [Genie](../Page/Genie.md "wikilink")   | **1** |
-| [Naver](../Page/Naver.md "wikilink")   | **1** |
-| Monkey3                                | **1** |
-|                                        |       |
+| 音源榜                                                     | 最高名次  |
+| ------------------------------------------------------- | ----- |
+| 實時榜                                                     |       |
+| [MelOn](../Page/Kakao_M.md "wikilink")                  | 2     |
+| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | **1** |
+| Bugs                                                    | **1** |
+| Olleh                                                   | **1** |
+| Soribada                                                | **1** |
+| [Genie](https://zh.wikipedia.org/wiki/Genie "wikilink") | **1** |
+| [Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") | **1** |
+| Monkey3                                                 | **1** |
+|                                                         |       |
 
 ### 音樂節目榜單排名
 
@@ -223,12 +223,12 @@ mean**》是[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/�
 <td><p>2015年10月12日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂</a><br />
-<a href="../Page/環球唱片.md" title="wikilink">環球音樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/環球唱片" title="wikilink">環球音樂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>
 <td><p>2015年11月10日 [4]</p></td>
-<td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
+<td><p>CD+<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
 <td><p><a href="../Page/環球音樂_(台灣).md" title="wikilink">台灣環球音樂</a></p></td>
 </tr>
 </tbody>

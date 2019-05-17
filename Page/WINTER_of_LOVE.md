@@ -3,7 +3,7 @@
 ## 簡介
 
   - 本次發行共有「CD+DVD」、「CD+藍光」、「CD
-    ONLY」、「CD+DVD粉絲俱樂部限定盤」四種版本，其中「CD+藍光」與「CD+DVD」收錄音樂錄影帶，而「CD+DVD粉絲俱樂部限定盤」特別收錄於2015年8月2日於[a-nation舉辦的限定演唱會](../Page/a-nation.md "wikilink")「Koda
+    ONLY」、「CD+DVD粉絲俱樂部限定盤」四種版本，其中「CD+藍光」與「CD+DVD」收錄音樂錄影帶，而「CD+DVD粉絲俱樂部限定盤」特別收錄於2015年8月2日於[a-nation舉辦的限定演唱會](https://zh.wikipedia.org/wiki/a-nation "wikilink")「Koda
     Kumi 15th Anniversary Premium Live」演唱會影像\[1\]。
   - 本作為企劃精選輯，收錄「抒情」類型的曲目\[2\]。
 
@@ -126,8 +126,8 @@
 
 ## 外部連結
 
-[分類:倖田來未音樂專輯](../Page/分類:倖田來未音樂專輯.md "wikilink")
-[分類:2016年音樂專輯](../Page/分類:2016年音樂專輯.md "wikilink")
+[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink")
+[分類:2016年音樂專輯](https://zh.wikipedia.org/wiki/分類:2016年音樂專輯 "wikilink")
 
 1.
 2.

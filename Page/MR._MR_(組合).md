@@ -1,9 +1,9 @@
 **MR.
-MR**（），為[韓國E](../Page/韓國.md "wikilink")-HO娛樂的6人男子組合，出道時為5人組合，於2012年10月4日，發行數碼單曲《Who's
+MR**（），為[韓國E](https://zh.wikipedia.org/wiki/韓國 "wikilink")-HO娛樂的6人男子組合，出道時為5人組合，於2012年10月4日，發行數碼單曲《Who's
 That Girl》，主打曲為單曲同名歌曲《Who\`s That Girl》。\[1\]
 
-2012年10月5日，踏上[KBS2](../Page/KBS第2頻道.md "wikilink")《[Music
-Bank](../Page/KBS音樂銀行.md "wikilink")》舞台作正式出道。\[2\]
+2012年10月5日，踏上[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music
+Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》舞台作正式出道。\[2\]
 
 2013年10月，原定加入第六名成員JI WON（）。\[3\]，但因為JI WON受傷，2013年11月，改為加入HON（）。\[4\]
 

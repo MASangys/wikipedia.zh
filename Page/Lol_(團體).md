@@ -1,10 +1,10 @@
 **lol**（）是[avex
-trax培訓的](../Page/avex_trax.md "wikilink")[日本男女混合五人歌舞表演團體](../Page/日本.md "wikilink")。2015年8月12日以首張單曲『[fire\!](../Page/fire!.md "wikilink")』主流出道。
+trax培訓的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[日本男女混合五人歌舞表演團體](../Page/日本.md "wikilink")。2015年8月12日以首張單曲『[fire\!](https://zh.wikipedia.org/wiki/fire! "wikilink")』主流出道。
 
 ## 概要
 
 2014年9月結成，繼[TRF跟](../Page/TRF.md "wikilink")[AAA之後](../Page/AAA_\(團體\).md "wikilink")[avex
-trax推出的男女混合歌舞團體](../Page/avex_trax.md "wikilink")，全體成員都兼任舞蹈與歌唱職務。團體名稱的由來是**laugh
+trax推出的男女混合歌舞團體](https://zh.wikipedia.org/wiki/avex_trax "wikilink")，全體成員都兼任舞蹈與歌唱職務。團體名稱的由來是**laugh
 out loud**的字母簡稱，意為讓人展露出笑容。飽含著感動大家、讓大家綻放笑容的象徵意義。\[1\]。粉絲的名稱為**lol
 family**，又稱為**L Fami（エルファミ）**。
 
@@ -38,7 +38,7 @@ Actors Studio北海道本部出身。</p></td>
 <tr class="even">
 <td><p><strong>小見山直人</strong><br />
 (Komiyama Naoto)</p></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p>1994年9月18日</p></td>
 <td><p>B</p></td>
 <td><p>藍色</p></td>
@@ -47,7 +47,7 @@ avex artist academy大阪校出身。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>moca</strong></p></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p>2001年2月13日</p></td>
 <td><p>O</p></td>
 <td><p>綠色</p></td>
@@ -55,16 +55,16 @@ avex artist academy大阪校出身。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>hibiki</strong></p></td>
-<td><p><a href="../Page/愛知県.md" title="wikilink">愛知県</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td><p>1997年8月3日</p></td>
 <td><p>A</p></td>
 <td><p>粉紅</p></td>
-<td><p>2014年9月6日，「TOKYO GIRLS AUDITION 2014 秋/冬 Powered by Ameba」中，藝人部門準Grand Prix獲獎(請參照<a href="../Page/avex_dream_2000#avex_audition_2002以降.md" title="wikilink">avex dream 2000</a>)。<br />
+<td><p>2014年9月6日，「TOKYO GIRLS AUDITION 2014 秋/冬 Powered by Ameba」中，藝人部門準Grand Prix獲獎(請參照<a href="https://zh.wikipedia.org/wiki/avex_dream_2000#avex_audition_2002以降" title="wikilink">avex dream 2000</a>)。<br />
 avex artist academy名古屋校出身。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>honoka</strong></p></td>
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
 <td><p>1996年8月26日</p></td>
 <td><p>B</p></td>
 <td><p>黃色</p></td>
@@ -82,36 +82,38 @@ avex artist academy大阪校出身。</p></td>
 
   - 4月17日、佐藤友祐獲獎「avex audition MAX 2013」演員部門Grand Prix。
   - 9月6日、hibiki通過「第19回 [東京 Girls
-    Collection](../Page/東京_Girls_Collection.md "wikilink") 2014
-    秋/冬」內舉行的「TOKYO GIRLS AUDITION 2014 AUTUMN/WINTER Powered by
+    Collection](https://zh.wikipedia.org/wiki/東京_Girls_Collection "wikilink")
+    2014 秋/冬」內舉行的「TOKYO GIRLS AUDITION 2014 AUTUMN/WINTER Powered by
     meba」最終審查、獲獎藝人部門準Grand Prix。
   - 9月某日、1萬人以上參加徵選合格的佐藤友祐、小見山直人、moca、hibiki、honoka5人結成團體「**lol**」。
   - 9月23日、「[Tribe Cool
-    Crew](../Page/Tribe_Cool_Crew.md "wikilink")」製作發表記者見面會首次公開。
-  - 9月28日、主題曲及擔任寫實部分的領航者[電視動畫](../Page/電視動畫.md "wikilink")「[Tribe Cool
-    Crew](../Page/Tribe_Cool_Crew.md "wikilink")」([朝日電視台系列](../Page/朝日電視台.md "wikilink"))開始播送。(其餘Tie
-    Up請參照[\#Tie Up總表](../Page/#Tie_Up總表.md "wikilink")。)
+    Crew](https://zh.wikipedia.org/wiki/Tribe_Cool_Crew "wikilink")」製作發表記者見面會首次公開。
+  - 9月28日、主題曲及擔任寫實部分的領航者[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")「[Tribe
+    Cool
+    Crew](https://zh.wikipedia.org/wiki/Tribe_Cool_Crew "wikilink")」([朝日電視台系列](../Page/朝日電視台.md "wikilink"))開始播送。(其餘Tie
+    Up請參照[\#Tie
+    Up總表](https://zh.wikipedia.org/wiki/#Tie_Up總表 "wikilink")。)
   - 11月16日、官方TwitCasting「[lolo](http://twitcasting.tv/lol_avex)」開始配信。
 
 ### 2015年
 
-  - 5月30日、[東京](../Page/東京.md "wikilink")・[池袋](../Page/池袋.md "wikilink")[PARCO](../Page/PARCO.md "wikilink")
-    Nico袋Studio發表8月12日首張單曲『[fire\!](../Page/fire!.md "wikilink")』CD出道。同時發表舉行全國迷你巡演特典會「lol
+  - 5月30日、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[池袋](../Page/池袋.md "wikilink")[PARCO](https://zh.wikipedia.org/wiki/PARCO "wikilink")
+    Nico袋Studio發表8月12日首張單曲『[fire\!](https://zh.wikipedia.org/wiki/fire! "wikilink")』CD出道。同時發表舉行全國迷你巡演特典會「lol
     live circuit
-    2015～fire\!～」。且透過[NicoNico生放送即時轉播](../Page/NicoNico.md "wikilink")。
+    2015～fire\!～」。且透過[NicoNico生放送即時轉播](https://zh.wikipedia.org/wiki/NicoNico "wikilink")。
   - 5月31日- 8月16日、舉辦CD出道記念Mini Live Tour「lol live circuit
     2015～fire\!～」，共31場。
-  - 8月2日、[iTunes進行先行限定配信](../Page/iTunes.md "wikilink")『fire\! -debut
-    edition-』。
+  - 8月2日、[iTunes進行先行限定配信](https://zh.wikipedia.org/wiki/iTunes "wikilink")『fire\!
+    -debut edition-』。
   - 8月10日、「lol live circuit 2015～fire\!～」全部完成。
   - 8月12日、1st單曲『fire\!』CD出道。
   - 8月15日、佐藤友祐出演「dTV原創影劇『[進撃の巨人
-    反撃の狼煙](../Page/進撃の巨人#スピンオフドラマ.md "wikilink")』」公開。
+    反撃の狼煙](https://zh.wikipedia.org/wiki/進撃の巨人#スピンオフドラマ "wikilink")』」公開。
   - 8月23日、「a-nation stadium fes. 」大阪公演首次販售原創週邊商品。
   - 10月1日、開始新節目「lol studio」。節目內發表了2nd單曲『ladi dadi』系列及相關Tour第2彈「lol live
     circuit 2015-2016～ladi dadi～」。
-  - 10月2日、受音樂獎項「[MTV](../Page/MTV.md "wikilink") VMAJ 2015」特別部門 Next
-    Break Artist獎提名。
+  - 10月2日、受音樂獎項「[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") VMAJ
+    2015」特別部門 Next Break Artist獎提名。
   - 10月10日- 2016年1月31日、舉辦2nd單曲『ladi dadi』系列記念Mini Live Tour「lol live
     circuit 2015-2016～ladi dadi～」，共49場。
   - 11月20日、受「第57回 日本唱片大賞 新人獎」提名。
@@ -336,10 +338,10 @@ AVCD-94388</p></td>
 
 ### 映像作品
 
-|     | 發售日期       | 標題                                                                                   | 販售型態        | 商品規格           | 公信榜排名 |
-| --- | ---------- | ------------------------------------------------------------------------------------ | ----------- | -------------- | ----- |
-| 1st | 2019年1月30日 | **[lol live tour 2018 -scream-](../Page/lol_live_tour_2018_-scream-.md "wikilink")** | DVD/Blu-ray | AVBD-92751/752 | 位     |
-|     |            |                                                                                      |             |                |       |
+|     | 發售日期       | 標題                                                                                                      | 販售型態        | 商品規格           | 公信榜排名 |
+| --- | ---------- | ------------------------------------------------------------------------------------------------------- | ----------- | -------------- | ----- |
+| 1st | 2019年1月30日 | **[lol live tour 2018 -scream-](https://zh.wikipedia.org/wiki/lol_live_tour_2018_-scream- "wikilink")** | DVD/Blu-ray | AVBD-92751/752 | 位     |
+|     |            |                                                                                                         |             |                |       |
 
 ### 專輯
 
@@ -358,7 +360,7 @@ AVCD-94388</p></td>
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2017年8月2日</p></td>
-<td><p><strong><a href="../Page/lolol.md" title="wikilink">lolol</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/lolol" title="wikilink">lolol</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>AVCD-93705/B<br />
@@ -369,7 +371,7 @@ AVCD-93706/B</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p><strong><a href="../Page/lml.md" title="wikilink">lml</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/lml" title="wikilink">lml</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>AVCD-96004/B<br />
@@ -539,7 +541,7 @@ AVCG-70113</p></td>
 <td><p><a href="https://avex.jp/thankyoudisney/">Thank You Disney</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-93755</p></td>
-<td><p><a href="../Page/ホール・ニュー・ワールド.md" title="wikilink">A Whole New World</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ホール・ニュー・ワールド" title="wikilink">A Whole New World</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年8月15日</p></td>
@@ -547,7 +549,7 @@ AVCG-70113</p></td>
 <td><p><a href="https://avexnewrevival.jp">90S &amp; NEW REVIVAL</a></p></td>
 <td><p>配信</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/EZ_DO_DANCE.md" title="wikilink">EZ DO DANCE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EZ_DO_DANCE" title="wikilink">EZ DO DANCE</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -666,15 +668,15 @@ AVCG-70113</p></td>
   - 10月18日、「Next Star Stage Vol4～SPECIAL～」擔任來賓演出。
   - 11月8日、「キラットエンタメチャレンジコンテスト2014 決勝大会」擔任來賓演出。
   - 11月16日、「高校生Live MUSIC DAYS 2014 FINAL」演出。
-  - 12月13日-14日、[Avex舉辦的](../Page/Avex.md "wikilink")「VOCAL TRY
-    STAGE東京」擔任來賓演出。
+  - 12月13日-14日、[Avex舉辦的](https://zh.wikipedia.org/wiki/Avex "wikilink")「VOCAL
+    TRY STAGE東京」擔任來賓演出。
   - 12月26日、「OSAKA REVORHYTHM Vol.3～年末Special～」擔任特別嘉賓演出。
   - 12月31日、倒數活動「PiNuP Winters Collection～COUNTDOWN PARTY～」演出。
 
 ### 2015年
 
   - 1月10日、「TRANS CITY - ENTERTAINMENT CITY BEPPU 2015 -」擔任來賓演出。
-  - 1月17日-18日、『HEARTBEAT』擔任世界最大型舞蹈活動[JSDA主題曲](../Page/JSDA.md "wikilink")，於「[JSDA](../Page/JSDA.md "wikilink")
+  - 1月17日-18日、『HEARTBEAT』擔任世界最大型舞蹈活動[JSDA主題曲](https://zh.wikipedia.org/wiki/JSDA "wikilink")，於「[JSDA](https://zh.wikipedia.org/wiki/JSDA "wikilink")
     presents DANCE NATION」舞台演出。
   - 2月21日、aaa音樂課程大型活動「a★Star2015」演出。
   - 2月22日、「DANCE KINGDOM NAGOYA」演出。
@@ -682,7 +684,7 @@ AVCG-70113</p></td>
   - 5月9日、「oricon Sound Blowin'2015～spring～」演出。
   - 5月16日、「メ～テレ KAZOKU FES 2015」擔任開場嘉賓演出。
   - 7月4日、日本電視台大型音樂節目「THE MUSIC DAY
-    音樂是太陽。」的[汐留舞台演出](../Page/汐留.md "wikilink")。[NicoNico生放送即時轉播](../Page/NicoNico.md "wikilink")。
+    音樂是太陽。」的[汐留舞台演出](../Page/汐留.md "wikilink")。[NicoNico生放送即時轉播](https://zh.wikipedia.org/wiki/NicoNico "wikilink")。
   - 7月20日、「SUMMER FES in LAGUNA TEN BOSCH」演出。
   - 7月24日、Kaleido×iTSCOM主催「Fanfare」演出。
   - 7月25日、「CBCラジオ 夏祭2015」演出。
@@ -691,47 +693,47 @@ AVCG-70113</p></td>
     God Bless Saturday SPECIAL」官方生放送演出。
   - 8月2日、「音靈 OTODAMA SEA STUDIO 2015 我們的暑假 2015'」演出。
   - 8月6日、「[a-nation
-    island](../Page/a-nation.md "wikilink")　AsiaProgress～Twinkle～」擔任開場嘉賓演出。
+    island](https://zh.wikipedia.org/wiki/a-nation "wikilink")　AsiaProgress～Twinkle～」擔任開場嘉賓演出。
   - 8月7日、「Campus summit 2015」演出。
 
 ### 2016年
 
   - 3月31日、「制服High School 卒業PARTY 2016」演出。
   - 4月11日、「Coming Next 2016」演出。
-  - 11月26日、擔任[FlowBack三週年演唱會神秘嘉賓](../Page/FlowBack.md "wikilink")。
+  - 11月26日、擔任[FlowBack三週年演唱會神秘嘉賓](https://zh.wikipedia.org/wiki/FlowBack "wikilink")。
 
 ## Tie Up總表
 
-| 曲名                                            | Tie Up                                                                               | 收錄專輯                                                         |
-| --------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| HEARTBEAT                                     | 朝日電視台動畫『Tribe Cool Crew』片頭曲                                                          | 1st單曲「fire\!」                                                |
-| 「JSDA presents DANCE NATION」官方主題曲             |                                                                                      |                                                              |
-| fire\!                                        | 日本電視台節目『バズリズム』2015年7月片頭曲                                                             |                                                              |
-| 札幌電視台『ジョシスタ あいく的』2015年7月片頭曲                   |                                                                                      |                                                              |
-| 岩手電視台『期待Dokaaaan！』2015年7月片尾曲                  |                                                                                      |                                                              |
-| 熊本縣民電視台『SaturdayココSmile Saturdayココ』2015年7月片尾曲 |                                                                                      |                                                              |
-| UHB『週六Presentation hour』2015年9月片尾曲            |                                                                                      |                                                              |
-| 「avex artist academy」廣告主題曲                    |                                                                                      |                                                              |
-| gimme gimme                                   | 全國高中舞蹈社選手權『DANCE CULB CHAMPIONSHIP vol.3』官方主題曲                                       |                                                              |
-| pop that                                      |                                                                                      | 朝日電視台動畫『[Brave Beats](../Page/Brave_Beats.md "wikilink")』片頭曲 |
-| ladi dadi                                     | 日本電視台節目『バズリズム』2015年11月片頭曲                                                            |                                                              |
-| 中京電視『』2015年11月片尾曲                             |                                                                                      |                                                              |
-| woooooh                                       |                                                                                      | ​近鉄パッセ 「網路福袋」2015年11月廣告主題曲                                   |
-| bye bye                                       | 日本電視台節目『バズリズム』2016年11月片頭曲                                                            | 4nd單曲「bye bye」                                               |
-| sync                                          | ​動畫「[雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")」片頭曲                                       |                                                              |
-| xmas kiss                                     | 「アピタ・ピアゴ」聖誕CM（サーモン篇／悠然鶏篇）                                                            | 配信限定「xmas kiss」                                              |
-| party up                                      |                                                                                      | 「住宅情報館」TVCM 舞蹈篇                                              |
-| blue ocean                                    | 除毛品牌「ヴィート」廣告主題曲                                                                      | 1st專輯「lolol」                                                 |
-| perfrct summer                                | 「スッキリ！！」2015年7月主題曲                                                                   |                                                              |
-| hikari                                        | 『[假面騎士](../Page/假面騎士.md "wikilink") 平成世代 Dr.Pacman對Exaid＆Ghost with Legend Rider』主題歌 |                                                              |
-| hanauta                                       | 拼圖遊戲「ねこ島日記」主題曲                                                                       |                                                              |
-| chance                                        | 「誰だって波瀾爆笑」片尾曲                                                                        |                                                              |
-| アイタイキモチ                                       | 日本電視台節目『バズリズム０２』2017年12月片頭曲                                                          | 6th單曲「アイタイキモチ/nanana」                                        |
-| nanana                                        | AbemaTV×ABC共同製作劇集「ハケンのキャバ嬢・彩華」主題曲                                                    |                                                              |
-| think of you                                  | 電影「一礼して、キス」主題曲                                                                       |                                                              |
-| ice cream                                     | 札幌電視台「ジョシスタ あいく的」３月片頭曲                                                               | 7th單曲「ice cream/ワスレナイ」                                       |
-| 岩手電視台「５きげんどようび」３月片尾曲                          |                                                                                      |                                                              |
-|                                               |                                                                                      |                                                              |
+| 曲名                                            | Tie Up                                                                               | 收錄專輯                                                                            |
+| --------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| HEARTBEAT                                     | 朝日電視台動畫『Tribe Cool Crew』片頭曲                                                          | 1st單曲「fire\!」                                                                   |
+| 「JSDA presents DANCE NATION」官方主題曲             |                                                                                      |                                                                                 |
+| fire\!                                        | 日本電視台節目『バズリズム』2015年7月片頭曲                                                             |                                                                                 |
+| 札幌電視台『ジョシスタ あいく的』2015年7月片頭曲                   |                                                                                      |                                                                                 |
+| 岩手電視台『期待Dokaaaan！』2015年7月片尾曲                  |                                                                                      |                                                                                 |
+| 熊本縣民電視台『SaturdayココSmile Saturdayココ』2015年7月片尾曲 |                                                                                      |                                                                                 |
+| UHB『週六Presentation hour』2015年9月片尾曲            |                                                                                      |                                                                                 |
+| 「avex artist academy」廣告主題曲                    |                                                                                      |                                                                                 |
+| gimme gimme                                   | 全國高中舞蹈社選手權『DANCE CULB CHAMPIONSHIP vol.3』官方主題曲                                       |                                                                                 |
+| pop that                                      |                                                                                      | 朝日電視台動畫『[Brave Beats](https://zh.wikipedia.org/wiki/Brave_Beats "wikilink")』片頭曲 |
+| ladi dadi                                     | 日本電視台節目『バズリズム』2015年11月片頭曲                                                            |                                                                                 |
+| 中京電視『』2015年11月片尾曲                             |                                                                                      |                                                                                 |
+| woooooh                                       |                                                                                      | ​近鉄パッセ 「網路福袋」2015年11月廣告主題曲                                                      |
+| bye bye                                       | 日本電視台節目『バズリズム』2016年11月片頭曲                                                            | 4nd單曲「bye bye」                                                                  |
+| sync                                          | ​動畫「[雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")」片頭曲                                       |                                                                                 |
+| xmas kiss                                     | 「アピタ・ピアゴ」聖誕CM（サーモン篇／悠然鶏篇）                                                            | 配信限定「xmas kiss」                                                                 |
+| party up                                      |                                                                                      | 「住宅情報館」TVCM 舞蹈篇                                                                 |
+| blue ocean                                    | 除毛品牌「ヴィート」廣告主題曲                                                                      | 1st專輯「lolol」                                                                    |
+| perfrct summer                                | 「スッキリ！！」2015年7月主題曲                                                                   |                                                                                 |
+| hikari                                        | 『[假面騎士](../Page/假面騎士.md "wikilink") 平成世代 Dr.Pacman對Exaid＆Ghost with Legend Rider』主題歌 |                                                                                 |
+| hanauta                                       | 拼圖遊戲「ねこ島日記」主題曲                                                                       |                                                                                 |
+| chance                                        | 「誰だって波瀾爆笑」片尾曲                                                                        |                                                                                 |
+| アイタイキモチ                                       | 日本電視台節目『バズリズム０２』2017年12月片頭曲                                                          | 6th單曲「アイタイキモチ/nanana」                                                           |
+| nanana                                        | AbemaTV×ABC共同製作劇集「ハケンのキャバ嬢・彩華」主題曲                                                    |                                                                                 |
+| think of you                                  | 電影「一礼して、キス」主題曲                                                                       |                                                                                 |
+| ice cream                                     | 札幌電視台「ジョシスタ あいく的」３月片頭曲                                                               | 7th單曲「ice cream/ワスレナイ」                                                          |
+| 岩手電視台「５きげんどようび」３月片尾曲                          |                                                                                      |                                                                                 |
+|                                               |                                                                                      |                                                                                 |
 
 ## 脚注
 
@@ -745,10 +747,10 @@ AVCG-70113</p></td>
 [Facebook](../Page/Facebook.md "wikilink")
 
 :\*[Official Youtube Channel](https://www.youtube.com/user/lolavextrax)
-- [youtube](../Page/youtube.md "wikilink")
+- [youtube](https://zh.wikipedia.org/wiki/youtube "wikilink")
 
 :\*[lol 官方 Casting (lolo)](http://twitcasting.tv/lol_avex) -
-[TwitCasting](../Page/TwitCasting.md "wikilink")
+[TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting "wikilink")
 
   - Twitter
 
@@ -793,7 +795,7 @@ AVCG-70113</p></td>
   - 其他
 
 :\*[lol(エルオーエル) hibikiオフィシャルブログ](http://s.ameblo.jp/lol-hibiki/) -
-[アメーバブログ](../Page/アメーバブログ.md "wikilink")
+[アメーバブログ](https://zh.wikipedia.org/wiki/アメーバブログ "wikilink")
 
 [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
 [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")

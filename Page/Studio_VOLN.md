@@ -1,14 +1,14 @@
 **株式會社Studio
-VOLN**（，）於2014年成立，是[日本一家](../Page/日本.md "wikilink")[動畫製作公司](../Page/動畫.md "wikilink")。
+VOLN**（，）於2014年成立，是[日本一家](../Page/日本.md "wikilink")[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 概要
 
 Studio
 VOLN是一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2014年8月12日，由[MADHOUSE動畫製作人一職出身的三田圭志成立](../Page/MADHOUSE.md "wikilink")\[1\]。
 
-次年2015年7月至2016年6月播映，與（同樣從MADHOUSE獨立）[MAPPA共同製作的電視動畫](../Page/MAPPA.md "wikilink")《[潮與虎](../Page/潮與虎.md "wikilink")》第一次投入統包製作\[2\]。
+次年2015年7月至2016年6月播映，與（同樣從MADHOUSE獨立）[MAPPA共同製作的電視動畫](https://zh.wikipedia.org/wiki/MAPPA "wikilink")《[潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")》第一次投入統包製作\[2\]。
 
-2018年10月起目前播映的另一齣電視動畫《[傀儡馬戲團](../Page/傀儡馬戲團.md "wikilink")》開始，Studio
+2018年10月起目前播映的另一齣電視動畫《[傀儡馬戲團](https://zh.wikipedia.org/wiki/傀儡馬戲團 "wikilink")》開始，Studio
 VOLN全面挑戰獨自統包製作。
 
 其公司命名來自成語「溫故知新」的英文「**V**isiting **O**ld **L**earn
@@ -34,18 +34,18 @@ VOLN全面挑戰獨自統包製作。
 <tbody>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/潮與虎.md" title="wikilink">潮與虎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潮與虎" title="wikilink">潮與虎</a></p></td>
 <td></td>
 <td><p>第1期：7月－12月<br />
 第2期：2016年4月－6月</p></td>
 <td><p>西村聰</p></td>
 <td><p>漫畫</p></td>
-<td><p><a href="../Page/MAPPA.md" title="wikilink">MAPPA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAPPA" title="wikilink">MAPPA</a></p></td>
 <td><p>由漫畫原作者兼任劇本統籌</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/偶像事變.md" title="wikilink">偶像事變</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偶像事變" title="wikilink">偶像事變</a></p></td>
 <td></td>
 <td><p>1月－3月</p></td>
 <td><p>吉田大輔</p></td>
@@ -55,7 +55,7 @@ VOLN全面挑戰獨自統包製作。
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/傀儡馬戲團.md" title="wikilink">傀儡馬戲團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傀儡馬戲團" title="wikilink">傀儡馬戲團</a></p></td>
 <td></td>
 <td><p>10月－<strong>播放中</strong></p></td>
 <td><p>西村聰</p></td>
@@ -81,7 +81,7 @@ VOLN全面挑戰獨自統包製作。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/我想吃掉你的胰臟.md" title="wikilink">我想吃掉你的胰臟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我想吃掉你的胰臟" title="wikilink">我想吃掉你的胰臟</a></p></td>
 <td></td>
 <td><p>2018年9月1日</p></td>
 <td><p>牛嶋新一郎</p></td>
@@ -105,7 +105,7 @@ VOLN全面挑戰獨自統包製作。
 ## 相關項目
 
   - [MADHOUSE](../Page/MADHOUSE.md "wikilink")
-  - [MAPPA](../Page/MAPPA.md "wikilink")
+  - [MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")
   - [丸山正雄](../Page/丸山正雄.md "wikilink")
 
 ## 外部連結

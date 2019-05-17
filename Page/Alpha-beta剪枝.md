@@ -20,7 +20,7 @@ Alpha-beta的优点是减少搜索树的分枝，将搜索时间用在“更有�
 =
 *O*(√*b*<sup>*d*</sup>)）。其中层数为偶数时，搜索因子相当于减少了其[平方根](../Page/平方根.md "wikilink")，等于能以同深度搜索两次\[10\]。*b*\*1\**b*\*1\*...意义为，对第一名玩家必须搜索全部招法找到最佳招式，但对于它们，只用将第二名玩家的最佳招法截断——alpha-beta确保无需考虑第二名玩家的其他招法。但因节点生成顺序随机，实际需要评估的节点平均约为*O*(*b*<sup>3*d*/4</sup>)\[11\]。
 
-一般在alpha-beta中，子树会由先手方优势或后手方优势暂时占据主导。若招式排序错误，这一优势会多次切换，每次让效率下降。随着层数深入，局面数量会呈指数性增长，因此排序早期招式价值很大。尽管改善任意深度的排序，都以能指数性减少总搜索局面，但排序临近根节点深度的全部局面相对经济。在实践中，招法排序常由早期、小型搜索决定，如通过[迭代加深](../Page/迭代加深深度优先搜索.md "wikilink")。
+一般在alpha-beta中，子树会由先手方优势或后手方优势暂时占据主导。若招式排序错误，这一优势会多次切换，每次让效率下降。随着层数深入，局面数量会呈指数性增长，因此排序早期招式价值很大。尽管改善任意深度的排序，都以能指数性减少总搜索局面，但排序临近根节点深度的全部局面相对经济。在实践中，招法排序常由早期、小型搜索决定，如通过[迭代加深](https://zh.wikipedia.org/wiki/迭代加深深度优先搜索 "wikilink")。
 
 算法使用两个值alpha和beta，分别代表大分玩家放心的最高分，以及小分玩家放心的最低分。alpha和beta的初始值分别为正负无穷大，即双玩家都以可能的最低分开始游戏。在选择某节点的特定分枝后，可能发生小分玩家放心的最小分小于大分玩家放心的最大分（beta
 \<= alpha）。这种情况下，父节点不应选择这个节点，否则父节点分数会降低，因此该分枝的其他节点没有必要继续探索。
@@ -53,7 +53,7 @@ Alpha-beta的优点是减少搜索树的分枝，将搜索时间用在“更有�
 `19          `**`return`**` v`
 
 ***`(*``   ``初始调用``   ``*)`***
-`alphabeta(origin, depth, -`[`∞`](../Page/Infinity.md "wikilink")`, +`[`∞`](../Page/Infinity.md "wikilink")`, TRUE) `*`//``
+`alphabeta(origin, depth, -`[`∞`](https://zh.wikipedia.org/wiki/Infinity "wikilink")`, +`[`∞`](https://zh.wikipedia.org/wiki/Infinity "wikilink")`, TRUE) `*`//``
  ``origin``   ``=``   ``初始节点`*
 
 在这个有限可靠性的alpha-beta中，当v超出调用参数α和β构成的集合时（v \< α或v \>
@@ -62,8 +62,8 @@ Alpha-beta的优点是减少搜索树的分枝，将搜索时间用在“更有�
 ## 参考文献
 
   -
-  - [Judea Pearl](../Page/Judea_Pearl.md "wikilink"), *Heuristics*,
-    Addison-Wesley, 1984
+  - [Judea Pearl](https://zh.wikipedia.org/wiki/Judea_Pearl "wikilink"),
+    *Heuristics*, Addison-Wesley, 1984
 
   -
 

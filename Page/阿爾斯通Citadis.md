@@ -1,19 +1,19 @@
-**阿爾斯通Citadis**，是[法國](../Page/法國.md "wikilink")[阿爾斯通公司於法國](../Page/阿爾斯通公司.md "wikilink")[拉羅歇爾及](../Page/拉羅歇爾.md "wikilink")[西班牙](../Page/西班牙.md "wikilink")[巴塞隆拿生產的低地台電車](../Page/巴塞隆拿.md "wikilink")，至2008年已經生產了1,140架次，並且在全球28個城市中使用\[1\]。
+**阿爾斯通Citadis**，是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[阿爾斯通公司於法國](https://zh.wikipedia.org/wiki/阿爾斯通公司 "wikilink")[拉羅歇爾及](https://zh.wikipedia.org/wiki/拉羅歇爾 "wikilink")[西班牙](../Page/西班牙.md "wikilink")[巴塞隆拿生產的低地台電車](https://zh.wikipedia.org/wiki/巴塞隆拿 "wikilink")，至2008年已經生產了1,140架次，並且在全球28個城市中使用\[1\]。
 
 ## 車廂種類
 
-Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "wikilink")，及3、5或7廂列車的選擇：
+Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/特低地台電車 "wikilink")，及3、5或7廂列車的選擇：
 
   - Citadis X-00
       - Citadis 100 –
-        3個車廂，70%低地台，於[波蘭](../Page/波蘭.md "wikilink")[霍茹夫生產](../Page/霍茹夫.md "wikilink")
+        3個車廂，70%低地台，於[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[霍茹夫生產](../Page/霍茹夫.md "wikilink")
 
 <!-- end list -->
 
   - Citadis X-01
       - Citadis 301 – 3個車廂，70%低地台
           - Citadis 301 CIS –
-            3個車廂，100%低地台，帶有IPOMOS轉向架，轉向架適合[俄羅斯使用](../Page/俄羅斯.md "wikilink")，軌距為1524mm
+            3個車廂，100%低地台，帶有IPOMOS轉向架，轉向架適合[俄羅斯使用](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，軌距為1524mm
       - Citadis 401 – 5個車廂，70%低地台
 
 <!-- end list -->
@@ -80,7 +80,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/君士坦丁_(阿爾及利亞).md" title="wikilink">君士坦丁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/君士坦丁_(阿爾及利亞)" title="wikilink">君士坦丁</a></p></td>
 <td></td>
 <td><p>402</p></td>
 <td><p>101–127</p></td>
@@ -102,7 +102,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/卡薩布蘭卡.md" title="wikilink">卡薩布蘭卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡薩布蘭卡" title="wikilink">卡薩布蘭卡</a></p></td>
 <td></td>
 <td><p>302</p></td>
 <td></td>
@@ -124,13 +124,13 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/突尼斯市.md" title="wikilink">突尼斯市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/突尼斯市" title="wikilink">突尼斯市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Metro_mourouj.jpg" title="fig:Metro_mourouj.jpg">Metro_mourouj.jpg</a></p></td>
 <td><p>302</p></td>
 <td><p>401–430</p></td>
 <td><p>30</p></td>
 <td><p>2007</p></td>
-<td><p>32 - 64 in <a href="../Page/Multiple-unit_train_control.md" title="wikilink">MU</a></p></td>
+<td><p>32 - 64 in <a href="https://zh.wikipedia.org/wiki/Multiple-unit_train_control" title="wikilink">MU</a></p></td>
 <td><p>2.4</p></td>
 </tr>
 </tbody>
@@ -156,7 +156,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/高雄捷運.md" title="wikilink">高雄捷運</a> - <a href="../Page/環狀輕軌.md" title="wikilink">環狀輕軌</a></p></td>
+<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="https://zh.wikipedia.org/wiki/高雄捷運" title="wikilink">高雄捷運</a> - <a href="https://zh.wikipedia.org/wiki/環狀輕軌" title="wikilink">環狀輕軌</a></p></td>
 <td></td>
 <td><p>Citadis X05 - Citadis 305</p></td>
 <td></td>
@@ -168,7 +168,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/成都市.md" title="wikilink">成都市</a><a href="../Page/成都有轨电车.md" title="wikilink">有轨电车</a> - <a href="../Page/成都有轨电车蓉2号线.md" title="wikilink">蓉2号线</a></p></td>
+<td><p><a href="../Page/成都市.md" title="wikilink">成都市</a><a href="https://zh.wikipedia.org/wiki/成都有轨电车" title="wikilink">有轨电车</a> - <a href="https://zh.wikipedia.org/wiki/成都有轨电车蓉2号线" title="wikilink">蓉2号线</a></p></td>
 <td></td>
 <td><p>Citadis X02 - Citadis 302</p></td>
 <td></td>
@@ -212,7 +212,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/渥太華.md" title="wikilink">渥太華</a> - <a href="../Page/聯邦線.md" title="wikilink">聯邦線</a></p></td>
+<td><p><a href="../Page/渥太華.md" title="wikilink">渥太華</a> - <a href="https://zh.wikipedia.org/wiki/聯邦線" title="wikilink">聯邦線</a></p></td>
 <td></td>
 <td><p>Citadis Spirit（302的延伸型）</p></td>
 <td></td>
@@ -254,7 +254,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/里約熱內盧.md" title="wikilink">里約熱內盧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/里約熱內盧" title="wikilink">里約熱內盧</a></p></td>
 <td></td>
 <td><p>402</p></td>
 <td><p>101-132</p></td>
@@ -265,7 +265,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/昆卡_(厄瓜多爾).md" title="wikilink">昆卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/昆卡_(厄瓜多爾)" title="wikilink">昆卡</a></p></td>
 <td></td>
 <td><p>302</p></td>
 <td></td>
@@ -349,7 +349,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/昂熱.md" title="wikilink">昂熱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/昂熱" title="wikilink">昂熱</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:3,52_Verneau_Citadis_n°1016_(tram_Angers)_par_Cramos.JPG" title="fig:3,52_Verneau_Citadis_n°1016_(tram_Angers)_par_Cramos.JPG">3,52_Verneau_Citadis_n°1016_(tram_Angers)_par_Cramos.JPG</a></p></td>
 <td><p>302</p></td>
 <td><p>1001-1017</p></td>
@@ -360,7 +360,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/歐巴涅.md" title="wikilink">歐巴涅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐巴涅" title="wikilink">歐巴涅</a></p></td>
 <td></td>
 <td><p>Compact</p></td>
 <td></td>
@@ -402,7 +402,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/格勒諾布爾.md" title="wikilink">格勒諾布爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/格勒諾布爾" title="wikilink">格勒諾布爾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:TAG_-_Citadis_6010_-_2012.jpg" title="fig:TAG_-_Citadis_6010_-_2012.jpg">TAG_-_Citadis_6010_-_2012.jpg</a></p></td>
 <td><p>402[11]</p></td>
 <td><p>6001 - 6035, 6036 - 6050</p></td>
@@ -413,7 +413,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/勒阿弗爾.md" title="wikilink">勒阿弗爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勒阿弗爾" title="wikilink">勒阿弗爾</a></p></td>
 <td></td>
 <td><p>302</p></td>
 <td></td>
@@ -479,7 +479,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/米盧斯.md" title="wikilink">米盧斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/米盧斯" title="wikilink">米盧斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Tramway_Mulhouse_Porte_Jeune.JPG" title="fig:Tramway_Mulhouse_Porte_Jeune.JPG">Tramway_Mulhouse_Porte_Jeune.JPG</a></p></td>
 <td><p>302</p></td>
 <td><p>01 - 27</p></td>
@@ -501,7 +501,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/奧爾良.md" title="wikilink">奧爾良</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧爾良" title="wikilink">奧爾良</a></p></td>
 <td></td>
 <td><p>301</p></td>
 <td><p>39 - 60</p></td>
@@ -567,7 +567,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/蘭斯_(法國城市).md" title="wikilink">蘭斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘭斯_(法國城市)" title="wikilink">蘭斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Tramway_de_Reims.jpg" title="fig:Tramway_de_Reims.jpg">Tramway_de_Reims.jpg</a></p></td>
 <td><p>302</p></td>
 <td><p>101 - 118</p></td>
@@ -578,7 +578,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/魯昂.md" title="wikilink">魯昂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魯昂" title="wikilink">魯昂</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Rouen_Citadis_trams_II.jpg" title="fig:Rouen_Citadis_trams_II.jpg">Rouen_Citadis_trams_II.jpg</a></p></td>
 <td><p>402</p></td>
 <td></td>
@@ -589,7 +589,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/史特拉斯堡.md" title="wikilink">史特拉斯堡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/史特拉斯堡" title="wikilink">史特拉斯堡</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Alstom_Citadis_403_n°2021_Strasbourg_-_Langstross_tram_A.jpg" title="fig:Alstom_Citadis_403_n°2021_Strasbourg_-_Langstross_tram_A.jpg">Alstom_Citadis_403_n°2021_Strasbourg_-_Langstross_tram_A.jpg</a></p></td>
 <td><p>403</p></td>
 <td><p>2001–2041</p></td>
@@ -611,7 +611,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/圖爾.md" title="wikilink">圖爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圖爾" title="wikilink">圖爾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Tram_tours_5.jpg" title="fig:Tram_tours_5.jpg">Tram_tours_5.jpg</a></p></td>
 <td><p>402</p></td>
 <td></td>
@@ -655,7 +655,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/都柏林现代轻轨系统.md" title="wikilink">都柏林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/都柏林现代轻轨系统" title="wikilink">都柏林</a></p></td>
 <td></td>
 <td><p>301</p></td>
 <td><p>3001 - 3026</p></td>
@@ -666,7 +666,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/都柏林现代轻轨系统.md" title="wikilink">都柏林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/都柏林现代轻轨系统" title="wikilink">都柏林</a></p></td>
 <td></td>
 <td><p>401</p></td>
 <td><p>4001 - 4014</p></td>
@@ -677,7 +677,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/都柏林现代轻轨系统.md" title="wikilink">都柏林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/都柏林现代轻轨系统" title="wikilink">都柏林</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Citadis_dublin.jpg" title="fig:Citadis_dublin.jpg">Citadis_dublin.jpg</a></p></td>
 <td><p>402</p></td>
 <td><p>5001 - 5026</p></td>
@@ -732,7 +732,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/卡托維治.md" title="wikilink">卡托維治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡托維治" title="wikilink">卡托維治</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Karlik.JPG" title="fig:Karlik.JPG">Karlik.JPG</a></p></td>
 <td><p>116Nd</p></td>
 <td><p>800–816</p></td>
@@ -743,7 +743,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/巴塞隆拿.md" title="wikilink">巴塞隆拿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴塞隆拿" title="wikilink">巴塞隆拿</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Barcelona_Tram_01.jpg" title="fig:Barcelona_Tram_01.jpg">Barcelona_Tram_01.jpg</a></p></td>
 <td><p>302</p></td>
 <td></td>
@@ -765,7 +765,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/哈恩_(西班牙).md" title="wikilink">哈恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈恩_(西班牙)" title="wikilink">哈恩</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Jaén_-_Tranvía_en_Las_Batallas.JPG" title="fig:Jaén_-_Tranvía_en_Las_Batallas.JPG">Jaén_-_Tranvía_en_Las_Batallas.JPG</a></p></td>
 <td><p>302</p></td>
 <td></td>
@@ -776,7 +776,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/馬德里.md" title="wikilink">馬德里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬德里" title="wikilink">馬德里</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aravacametroligero.jpg" title="fig:Aravacametroligero.jpg">Aravacametroligero.jpg</a></p></td>
 <td><p>302</p></td>
 <td></td>
@@ -787,7 +787,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/特內里費島.md" title="wikilink">特內里費島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特內里費島" title="wikilink">特內里費島</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Cabildo_de_Tenerife,_Spain_EMW_2006.jpg" title="fig:Cabildo_de_Tenerife,_Spain_EMW_2006.jpg">Cabildo_de_Tenerife,_Spain_EMW_2006.jpg</a></p></td>
 <td><p>302</p></td>
 <td></td>
@@ -798,7 +798,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/莫夕亞.md" title="wikilink">莫夕亞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莫夕亞" title="wikilink">莫夕亞</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Citadis_302_Tranvia_de_Murcia.JPG" title="fig:Citadis_302_Tranvia_de_Murcia.JPG">Citadis_302_Tranvia_de_Murcia.JPG</a></p></td>
 <td><p>302</p></td>
 <td></td>
@@ -820,7 +820,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/諾定咸.md" title="wikilink">諾定咸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/諾定咸" title="wikilink">諾定咸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Alstom_Citadis_tram_at_Nottingham_Express_Transit_depot.jpg" title="fig:Alstom_Citadis_tram_at_Nottingham_Express_Transit_depot.jpg">Alstom_Citadis_tram_at_Nottingham_Express_Transit_depot.jpg</a></p></td>
 <td><p>302</p></td>
 <td><p>216 - 237</p></td>
@@ -851,7 +851,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/阿德雷德.md" title="wikilink">阿德雷德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿德雷德" title="wikilink">阿德雷德</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:CT_202_glenelg,_2012.JPG" title="fig:CT_202_glenelg,_2012.JPG">CT_202_glenelg,_2012.JPG</a></p></td>
 <td><p>302[22]</p></td>
 <td></td>
@@ -862,7 +862,7 @@ Citadis系列提供略低及[特低地台電車](../Page/特低地台電車.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/墨爾本.md" title="wikilink">墨爾本</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/墨爾本" title="wikilink">墨爾本</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:C_3010_in_La_Trobe_St_on_route_24,_2013.JPG" title="fig:C_3010_in_La_Trobe_St_on_route_24,_2013.JPG">C_3010_in_La_Trobe_St_on_route_24,_2013.JPG</a></p></td>
 <td><p>202[25]</p></td>
 <td><p>3001–3036[26]</p></td>

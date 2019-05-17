@@ -1,13 +1,13 @@
 **RCA Studio
 II**是一款由[RCA于](../Page/RCA.md "wikilink")1977年1月推出的[家用游戏机](../Page/家用游戏机.md "wikilink")。Studio
-II游戏的图像是黑白色\[1\]并且与早期的[Pong和它們的克隆机类似](../Page/Pong.md "wikilink")。Studio
+II游戏的图像是黑白色\[1\]并且与早期的[Pong和它們的克隆机类似](https://zh.wikipedia.org/wiki/Pong "wikilink")。Studio
 II同样也没有游戏手柄或其他游戏控制器。游戏机内嵌两个具有十个按键的键盘。游戏平台能够发出一些简单的声响。
 
 以遊戲機來說，它有兩個特別之處。第一，它內置5款遊戲\[2\]；第二，它使用外置開關盒，同時進行將遊戲機的影像轉化成訊號並傳送至電視機，以及為遊戲機提供[直流電](../Page/直流電.md "wikilink")。
 
 Studio II是一款失敗的產品。在機能及畫面上，它都比稍早前發售的[Fairchild Channel
 F差](../Page/Fairchild_Channel_F.md "wikilink")。加上10個月後，機能及畫面更強的[Atari
-2600亦正式發售](../Page/Atari_2600.md "wikilink")。當1977年聖誕節的銷量未符合預期後，RCA決定停止生產Studio
+2600亦正式發售](https://zh.wikipedia.org/wiki/Atari_2600 "wikilink")。當1977年聖誕節的銷量未符合預期後，RCA決定停止生產Studio
 II並將餘下的遊戲機在市場上以極低價值出售。
 
 ## 簡介
@@ -15,14 +15,14 @@ II並將餘下的遊戲機在市場上以極低價值出售。
 Studio II的規格如下：
 
   - [RCA
-    1802微處理器](../Page/RCA_1802.md "wikilink")，1.78[MHz](../Page/MHz.md "wikilink")
-  - 2 [KB](../Page/KB.md "wikilink")
-    [ROM](../Page/ROM.md "wikilink")（包含5款內置遊戲）
-  - 512 [Byte](../Page/Byte.md "wikilink")
-    [RAM](../Page/隨機存取記憶體.md "wikilink")
+    1802微處理器](https://zh.wikipedia.org/wiki/RCA_1802 "wikilink")，1.78[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")
+  - 2 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")
+    [ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")（包含5款內置遊戲）
+  - 512 [Byte](https://zh.wikipedia.org/wiki/Byte "wikilink")
+    [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")
   - RCA CDP 1861 "Pixie" 影像晶片，64x32，單色影像\[3\]
 
-在遊戲機歷史上，它是第2款使用[ROM卡帶的遊戲機](../Page/ROM卡帶.md "wikilink")。但是，與第1款（Fairchild
+在遊戲機歷史上，它是第2款使用[ROM卡帶的遊戲機](https://zh.wikipedia.org/wiki/ROM卡帶 "wikilink")。但是，與第1款（Fairchild
 Channel F）及第3款（Atari
 2600）使用ROM卡帶的遊戲機比較，它猶如上一世代的產品。當第二世代的遊戲機都能夠呈現彩色畫面及使用以電線連接的控制器時，Studio
 II兩者都缺乏。
@@ -34,7 +34,7 @@ II的生產線。雖然RCA沒有公佈虧損數字，但RCA解雇120位負責在
 Studio II只能呈現單色畫面，未能夠與呈現彩色畫面的遊戲機競爭。\[5\]
 
 除了Studio
-II外，其他國家也生產相似的克隆機。例如由法國或奧地利生產的MPT-02\[6\]及日本[東芝生產的Visicom](../Page/東芝.md "wikilink")
+II外，其他國家也生產相似的克隆機。例如由法國或奧地利生產的MPT-02\[6\]及日本[東芝生產的Visicom](https://zh.wikipedia.org/wiki/東芝 "wikilink")
 COM-100\[7\]\[8\]。但是在遊戲機性能及畫面上都比Studio
 II優勢，例如遊戲畫面並非單色而是四色或以上；部分克隆機的控制器能夠抽出並由電線連接，又或是加設操縱桿等\[9\]。
 
@@ -94,11 +94,11 @@ II在其他國家也有不同的克隆機，當中有少量遊戲並沒有在美
 ## 參見
 
   - [Fairchild Channel F](../Page/Fairchild_Channel_F.md "wikilink")
-  - [Atari 5200](../Page/Atari_5200.md "wikilink")
+  - [Atari 5200](https://zh.wikipedia.org/wiki/Atari_5200 "wikilink")
 
 ## 参考资料
 
-[分類:1970年代玩具](../Page/分類:1970年代玩具.md "wikilink")
+[分類:1970年代玩具](https://zh.wikipedia.org/wiki/分類:1970年代玩具 "wikilink")
 
 [Category:家用遊戲機](https://zh.wikipedia.org/wiki/Category:家用遊戲機 "wikilink")
 [Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink")
@@ -120,7 +120,7 @@ II在其他國家也有不同的克隆機，當中有少量遊戲並沒有在美
 
 6.
 
-7.  定價為54,800[日元](../Page/日元.md "wikilink")
+7.  定價為54,800[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")
 
 8.
 

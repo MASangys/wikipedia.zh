@@ -5,7 +5,7 @@ Technology Group*
 被出售于[东芝后形成的子品牌](../Page/东芝.md "wikilink")，代表前卫，狂热，以及酷份子，为电竞及视觉改装（Modding）族群研发SSD解决方案。在2002年，*OCZ
 Technology*
 进入内存市场之后，OCZ的产品定位于计算机硬件狂热市场，制造性能級的DDR内存，[显示卡](../Page/显示卡.md "wikilink")，USB设备和各种散热产品。其目前开发的SSD介面使用SATA3、[PCI
-Express](../Page/PCI_Express.md "wikilink")、[SAS](../Page/SAS.md "wikilink")\[1\]和[USB
+Express](../Page/PCI_Express.md "wikilink")、[SAS](https://zh.wikipedia.org/wiki/SAS "wikilink")\[1\]和[USB
 3.0接口](../Page/USB_3.0.md "wikilink")，提供客户端和企业解决方案。
 
 2016年4月1日，*OCZ Storage Solutions*

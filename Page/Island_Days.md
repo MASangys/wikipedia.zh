@@ -1,4 +1,4 @@
-是[日本KLON](../Page/日本.md "wikilink")（）公司在2014年7月3日於[任天堂3DS平台上發售的](../Page/任天堂3DS.md "wikilink")[戀愛冒險](../Page/戀愛冒險.md "wikilink")、[塔防類型](../Page/塔防.md "wikilink")[電子遊戲](../Page/電子遊戲.md "wikilink")。\[1\]原本最初預定是在5月1日發售\[2\]，後來延期到6月26日發售但因為要清除增加語音所帶來的BUG而又再次延期到7月3日發售。\[3\]
+是[日本KLON](../Page/日本.md "wikilink")（）公司在2014年7月3日於[任天堂3DS平台上發售的](../Page/任天堂3DS.md "wikilink")[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")、[塔防類型](https://zh.wikipedia.org/wiki/塔防 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。\[1\]原本最初預定是在5月1日發售\[2\]，後來延期到6月26日發售但因為要清除增加語音所帶來的BUG而又再次延期到7月3日發售。\[3\]
 
 ## 故事介紹
 
@@ -10,9 +10,9 @@
     榊野學園1年3組學生。
   - 桂言葉（[CV](../Page/配音員.md "wikilink")：[岡嶋妙](../Page/岡嶋妙.md "wikilink")）
     榊野學園1年2組學生。
-  - 桂心（CV：[やなせなつみ](../Page/やなせなつみ.md "wikilink")）
+  - 桂心（CV：[やなせなつみ](https://zh.wikipedia.org/wiki/やなせなつみ "wikilink")）
     言葉的妹妹，目前是小學生。
-  - 西園寺世界（CV：[河原木志穂](../Page/河原木志穂.md "wikilink")）
+  - 西園寺世界（CV：[河原木志穂](https://zh.wikipedia.org/wiki/河原木志穂 "wikilink")）
     榊野學園1年3組學生。
   - 清浦剎那（CV：井本ケイ）
     榊野學園1年3組學生。
@@ -22,7 +22,7 @@
     乙女的妹妹。
   - 黑田光（CV：[田中涼子](../Page/田中涼子.md "wikilink")）
     榊野學園1年3組學生。
-  - 山縣愛（CV：[小林眞紀](../Page/小林眞紀.md "wikilink")）
+  - 山縣愛（CV：[小林眞紀](https://zh.wikipedia.org/wiki/小林眞紀 "wikilink")）
     榊野學園1年3組學生。
 
 ## 主題曲

@@ -1,5 +1,5 @@
 《**For
-You**》，是[韓國的男子組合](../Page/韓國.md "wikilink")[INFINITE的第二張日語專輯](../Page/INFINITE.md "wikilink")，於2015年12月16日發行\[1\]。這是他們自加盟[日本環球音樂屬下](../Page/環球音樂_\(日本\).md "wikilink")[維京唱片之](../Page/維京唱片.md "wikilink")品牌後首張正規專輯。
+You**》，是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE的第二張日語專輯](../Page/INFINITE.md "wikilink")，於2015年12月16日發行\[1\]。這是他們自加盟[日本環球音樂屬下](../Page/環球音樂_\(日本\).md "wikilink")[維京唱片之](../Page/維京唱片.md "wikilink")品牌後首張正規專輯。
 
 ## 背景
 

@@ -1,5 +1,5 @@
 **C. C. Catch** (本名：Caroline Catherine Müller,
-1964年7月31日生于[荷兰](../Page/荷兰.md "wikilink")[Oss](../Page/Oss.md "wikilink"))
+1964年7月31日生于[荷兰](../Page/荷兰.md "wikilink")[Oss](https://zh.wikipedia.org/wiki/Oss "wikilink"))
 是一名流行音乐女歌手，以其在1980年代与合作的音乐创作表演而闻名。\[1\]\[2\]
 
 ## 早期
@@ -25,11 +25,12 @@ Catch希望有更多的演唱作品，但无法与Bohlen达成一致，因此198
 为了保持她的艺名，必须付诸法庭，最终判决赢得了继续拥有艺名C.C. Catch的权利。\[14\]
 
 在西班牙的一次新年电视秀活动中，C.C. Catch遇到了Simon Napier Bell
-([威猛乐队的](../Page/威猛乐队.md "wikilink")[乔治·迈克尔的经纪人](../Page/乔治·迈克尔.md "wikilink"))。不久，Bell成为她的经纪人，并与宝丽金的Metronome音乐公司签约。新的唱片*Hear
-What I Say*由(曾经为[Duran Duran制作](../Page/Duran_Duran.md "wikilink")),
-(曾经为[乔治·迈克尔与](../Page/乔治·迈克尔.md "wikilink")[U2工作](../Page/U2.md "wikilink")),
+([威猛乐队的](https://zh.wikipedia.org/wiki/威猛乐队 "wikilink")[乔治·迈克尔的经纪人](../Page/乔治·迈克尔.md "wikilink"))。不久，Bell成为她的经纪人，并与宝丽金的Metronome音乐公司签约。新的唱片*Hear
+What I Say*由(曾经为[Duran
+Duran制作](https://zh.wikipedia.org/wiki/Duran_Duran "wikilink")),
+(曾经为[乔治·迈克尔与](../Page/乔治·迈克尔.md "wikilink")[U2工作](https://zh.wikipedia.org/wiki/U2 "wikilink")),
 以及Jo Dworniak。\[15\] 1989还发布单曲"[Big
-Time](../Page/Big_Time_\(C.C._Catch_song\).md "wikilink")",
+Time](https://zh.wikipedia.org/wiki/Big_Time_\(C.C._Catch_song\) "wikilink")",
 在德国排行榜No.26。\[16\]
 
 在此期间，BMG唱片公司发布单曲"Baby I Need Your
@@ -60,11 +61,11 @@ Fun*与*Diamonds*。
 <tr class="odd">
 <td><p><br />
 [18]</p></td>
-<td><p><a href="../Page/AUT.md" title="wikilink">AUT</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AUT" title="wikilink">AUT</a><br />
 [19]</p></td>
-<td><p><a href="../Page/NOR.md" title="wikilink">NOR</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/NOR" title="wikilink">NOR</a><br />
 [20]</p></td>
-<td><p><a href="../Page/SPA.md" title="wikilink">SPA</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/SPA" title="wikilink">SPA</a><br />
 [21]</p></td>
 </tr>
 <tr class="even">
@@ -72,7 +73,7 @@ Fun*与*Diamonds*。
 <td><ul>
 <li>发布: 28 April 1986</li>
 <li>公司: </li>
-<li>载体: <a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/密纹唱片.md" title="wikilink">密纹唱片</a>, <a href="../Page/卡带.md" title="wikilink">卡带</a></li>
+<li>载体: <a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/密纹唱片" title="wikilink">密纹唱片</a>, <a href="https://zh.wikipedia.org/wiki/卡带" title="wikilink">卡带</a></li>
 </ul></td>
 <td><p>6</p></td>
 <td><p>24</p></td>
@@ -141,7 +142,7 @@ Fun*与*Diamonds*。
 <tr class="odd">
 <td><p><br />
 [22]</p></td>
-<td><p><a href="../Page/SPA.md" title="wikilink">SPA</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/SPA" title="wikilink">SPA</a><br />
 [23]</p></td>
 <td></td>
 <td></td>
@@ -300,11 +301,11 @@ Fun*与*Diamonds*。
 <tr class="odd">
 <td><p><br />
 [24]</p></td>
-<td><p><a href="../Page/Ö3_Austria_Top_40.md" title="wikilink">AUT</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ö3_Austria_Top_40" title="wikilink">AUT</a><br />
 [25]</p></td>
-<td><p><a href="../Page/Ultratop.md" title="wikilink">BEL (FLA)</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Ultratop" title="wikilink">BEL (FLA)</a><br />
 [26]</p></td>
-<td><p><a href="../Page/SPA.md" title="wikilink">SPA</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/SPA" title="wikilink">SPA</a><br />
 [27]</p></td>
 </tr>
 <tr class="even">

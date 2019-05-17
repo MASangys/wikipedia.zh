@@ -1,22 +1,22 @@
 [Khan_Academy_Metro_app_(player).png](https://zh.wikipedia.org/wiki/File:Khan_Academy_Metro_app_\(player\).png "fig:Khan_Academy_Metro_app_(player).png")
-[Wikipedia_App_snapped_to_Windows_8_desktop.png](https://zh.wikipedia.org/wiki/File:Wikipedia_App_snapped_to_Windows_8_desktop.png "fig:Wikipedia_App_snapped_to_Windows_8_desktop.png")，粗邊框和[用戶界面](../Page/用戶界面.md "wikilink")。
+[Wikipedia_App_snapped_to_Windows_8_desktop.png](https://zh.wikipedia.org/wiki/File:Wikipedia_App_snapped_to_Windows_8_desktop.png "fig:Wikipedia_App_snapped_to_Windows_8_desktop.png")，粗邊框和[用戶界面](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")。
 右邊：Metro風格應用程式；主要由內容組成\]\]
-**通用Windows平台应用**，也称**Metro风格应用**，是一种通過[Windows应用商店向](../Page/Windows应用商店.md "wikilink")[Microsoft
-Windows作業系統分發的](../Page/Microsoft_Windows.md "wikilink")[移動應用程式](../Page/移动应用程序.md "wikilink")，它們不同於在設計、開發、分發以及內容上不同於傳統桌面應用程式。
+**通用Windows平台应用**，也称**Metro风格应用**，是一种通過[Windows应用商店向](https://zh.wikipedia.org/wiki/Windows应用商店 "wikilink")[Microsoft
+Windows作業系統分發的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[移動應用程式](https://zh.wikipedia.org/wiki/移动应用程序 "wikilink")，它們不同於在設計、開發、分發以及內容上不同於傳統桌面應用程式。
 
 ## 感觀
 
 [Window_(windowing_system).svg](https://zh.wikipedia.org/wiki/File:Window_\(windowing_system\).svg "fig:Window_(windowing_system).svg")
-傳統的桌面軟體運行於[窗口內](../Page/窗口_\(计算机\).md "wikilink")，有它們自己的邊框，以區分彼此。邊框上還會附著用於顯示應用程式標題的標題欄，系統菜單、偶爾也會有一組最大化、最小化、關閉和求助按鈕置於其上。框圍軟體的窗口可水平或垂直的更改尺寸。它們是由用戶界面中可見的元素控制，包括[菜單](../Page/菜单_\(计算机\).md "wikilink")、[工具欄](../Page/工具栏.md "wikilink")、[繃帶](../Page/ribbon.md "wikilink")、滾動條以及窗口邊框。在Windows
+傳統的桌面軟體運行於[窗口內](https://zh.wikipedia.org/wiki/窗口_\(计算机\) "wikilink")，有它們自己的邊框，以區分彼此。邊框上還會附著用於顯示應用程式標題的標題欄，系統菜單、偶爾也會有一組最大化、最小化、關閉和求助按鈕置於其上。框圍軟體的窗口可水平或垂直的更改尺寸。它們是由用戶界面中可見的元素控制，包括[菜單](https://zh.wikipedia.org/wiki/菜单_\(计算机\) "wikilink")、[工具欄](../Page/工具栏.md "wikilink")、[繃帶](https://zh.wikipedia.org/wiki/ribbon "wikilink")、滾動條以及窗口邊框。在Windows
 Vista和Windows 7中這些元素變得更加複雜，以至於需要特定的應用程式來做截屏。
 
 在[Windows
-8中](../Page/Windows_8.md "wikilink")，Metro風格應用程式不運行於窗口中。它們或者是佔據了整個熒屏；或者是移到熒屏的一側，而佔據了熒屏的那個垂直部分。Metro風格應用程式沒有傳統的用戶界面，沒有標題欄、沒有系統窗口、沒有窗口邊框、也沒有控制按鈕等等，真正的應和了微軟常說的“內容才是主角”的口號。但必要的命令界面像滾動條這樣的界面元素還是有的，不過起初被隱藏起來。Metro風格應用程式在他們自己的界面中並沒有菜單，而是借用置於[Settings
-charm中的特製菜單](../Page/Windows_shell#The_charms.md "wikilink")。
+8中](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，Metro風格應用程式不運行於窗口中。它們或者是佔據了整個熒屏；或者是移到熒屏的一側，而佔據了熒屏的那個垂直部分。Metro風格應用程式沒有傳統的用戶界面，沒有標題欄、沒有系統窗口、沒有窗口邊框、也沒有控制按鈕等等，真正的應和了微軟常說的“內容才是主角”的口號。但必要的命令界面像滾動條這樣的界面元素還是有的，不過起初被隱藏起來。Metro風格應用程式在他們自己的界面中並沒有菜單，而是借用置於[Settings
+charm中的特製菜單](https://zh.wikipedia.org/wiki/Windows_shell#The_charms "wikilink")。
 
 根據用戶的反饋，微軟逐漸寬鬆了這種無界面元素的規則。在[Windows
 8.1中](../Page/Windows_8.1.md "wikilink")，標題欄被引入但處於隱藏的狀態，除非用戶將滑鼠滑越於熒屏頂端，否則它決不會現身。[Windows
-10引入了](../Page/Windows_10.md "wikilink")[平板模式](../Page/平板模式.md "wikilink")，平板電腦安裝後會自動開啟這種模式；而在桌面或筆電中它被默認是關閉的，但卻可手動開啟與關閉。當這種模式關閉時，運行於桌面的Metro風格應用程式有可見的標題欄，大小也是可調的。當平板模式開啟後，Metro風格應用回退至Windows
+10引入了](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[平板模式](https://zh.wikipedia.org/wiki/平板模式 "wikilink")，平板電腦安裝後會自動開啟這種模式；而在桌面或筆電中它被默認是關閉的，但卻可手動開啟與關閉。當這種模式關閉時，運行於桌面的Metro風格應用程式有可見的標題欄，大小也是可調的。當平板模式開啟後，Metro風格應用回退至Windows
 8.1時的樣式，所有應用程式都以最大化呈現佔據著整個熒屏，不可調節尺寸。\[1\]\[2\]\[3\]
 
 此外，Windows 10也將設定Charm移除，被一種稱之為“漢堡菜單”的系統菜單變體所取代。
@@ -45,19 +45,19 @@ API庫函數在計算機語言下開發的](../Page/Windows_API.md "wikilink")�
 並不是每個使用WinRT運行時庫的應用都是Metro風格應用；WinRT中的有些功能也可被桌面應用程式所利用。\[5\]
 
 Metro風格應用程式只能使用微軟自家的開發工具開發。雖然聲稱可以在多種語言下互操作，但自行嘗試實現對窗口運行時的綁定將導致失敗。根據[Embarcadero
-Technologies的首席科學家Allen](../Page/Embarcadero_Technologies.md "wikilink")
+Technologies的首席科學家Allen](https://zh.wikipedia.org/wiki/Embarcadero_Technologies "wikilink")
 Bauer所說，這裡有些編程接口幾乎是所有程式開始者所必須調用的，但是卻得到微軟的禁止，除非是使用微軟自家的[Visual
-C++運行時才行](../Page/Visual_C++.md "wikilink")。\[6\]\[7\]\[8\]
+C++運行時才行](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")。\[6\]\[7\]\[8\]
 
 ### 通用應用
 
-可同時運行於[智慧型電話](../Page/智慧型電話.md "wikilink")、[個人電腦](../Page/個人電腦.md "wikilink")、[遊戲終端和](../Page/遊戲終端.md "wikilink")[HoloLens的應用稱之](../Page/HoloLens.md "wikilink")*為通用應用*。這是通過使用通用應用接口來完成的，最早出現於Windows
+可同時運行於[智慧型電話](https://zh.wikipedia.org/wiki/智慧型電話 "wikilink")、[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[遊戲終端和](https://zh.wikipedia.org/wiki/遊戲終端 "wikilink")[HoloLens的應用稱之](https://zh.wikipedia.org/wiki/HoloLens "wikilink")*為通用應用*。這是通過使用通用應用接口來完成的，最早出現於Windows
 8.1和[Windows Phone
 8.1中](../Page/Windows_Phone_8.1.md "wikilink")。[Visual Studio
-2013](../Page/Visual_Studio_2013.md "wikilink") with Update
-2起可以開發這類應用程式。\[9\]\[10\]Windows
-10為開發通用應用而引入了通用Windows平台10。使用Visual Studio
-2015可以利用這一平台開發這樣的應用。早先的Windows 8.1、Windows Phone
+2013](https://zh.wikipedia.org/wiki/Visual_Studio_2013 "wikilink") with
+Update 2起可以開發這類應用程式。\[9\]\[10\]Windows
+10為開發通用應用而引入了通用Windows平台10。使用Visual
+Studio 2015可以利用這一平台開發這樣的應用。早先的Windows 8.1、Windows Phone
 8.1的應用需要經過修改後才可遷移至此平台。\[11\]\[12\]
 
 特定Windows平台並不是一個不同於WinRT的開發庫，相反只是它的擴展。通用應用不再是為特定作業系統而編寫的，相反，它們定位於一個或多個不同的設備，比如桌面、移動、電玩XBox以至于物聯網。只要設備能力允許，那麼它們便可運行。一個通用應用可以在智慧型電話和平板上運行，並提供差不多的體驗。運行於智慧型電話的通用應用在連接到熒屏後會可能會與運行於平板之上相同。\[13\]
@@ -79,7 +79,7 @@ Windows軟體只要它們希望便有使用和改變他們生態系統的能力�
 ## 参见
 
   - [通用Windows平台](../Page/通用Windows平台.md "wikilink")（UWP）
-  - [Modern UI](../Page/Modern_UI.md "wikilink")
+  - [Modern UI](https://zh.wikipedia.org/wiki/Modern_UI "wikilink")
 
 ## 參考资料
 

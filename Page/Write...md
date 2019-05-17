@@ -1,8 +1,8 @@
-《**Write..**》是[韓國的男子組合](../Page/韓國.md "wikilink")[INFINITE成員](../Page/INFINITE.md "wikilink")[南優賢首張韓語迷你專輯](../Page/南優賢.md "wikilink")，於2016年5月10日發行，主打歌曲為《點頭點頭》（）\[1\]。
+《**Write..**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE成員](../Page/INFINITE.md "wikilink")[南優賢首張韓語迷你專輯](https://zh.wikipedia.org/wiki/南優賢 "wikilink")，於2016年5月10日發行，主打歌曲為《點頭點頭》（）\[1\]。
 
 ## 背景
 
-2016年4月，韓國媒體《[STARNEWS](../Page/STARNEWS.md "wikilink")》報導指出優賢會在5月發行個人專輯，經紀公司[Woollim娛樂很快回應說明他的專輯仍在籌備中](../Page/Woollim娛樂.md "wikilink")\[2\]。直到4月27日，官方正式宣告優賢將在5月9日推出SOLO專輯\[3\]。
+2016年4月，韓國媒體《[STARNEWS](https://zh.wikipedia.org/wiki/STARNEWS "wikilink")》報導指出優賢會在5月發行個人專輯，經紀公司[Woollim娛樂很快回應說明他的專輯仍在籌備中](../Page/Woollim娛樂.md "wikilink")\[2\]。直到4月27日，官方正式宣告優賢將在5月9日推出SOLO專輯\[3\]。
 
 4月29日，Woollim娛樂公開專輯預告照片及在Youtube頻道發布預告片\[4\]，曲目名單於5月4日公布\[5\]，而音樂錄影帶隨專輯發行時一併釋放\[6\]。
 
@@ -28,7 +28,7 @@
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年5月8日－5月14日</p></td>
 <td><p>#11</p></td>
@@ -73,12 +73,12 @@
 
 ### 其他歌曲成績
 
-| 歌曲          | 榜單                                       | 類型                                              | 停留時間            | 最高位置 | 參考資料   |
-| ----------- | ---------------------------------------- | ----------------------------------------------- | --------------- | ---- | ------ |
-| 那個人         | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月8日－5月14日 | \#68 | \[11\] |
-| 香氣          | \#71                                     |                                                 |                 |      |        |
-| Gravity     | \#72                                     |                                                 |                 |      |        |
-| Stand by me | \#77                                     |                                                 |                 |      |        |
+| 歌曲          | 榜單                                                          | 類型                                              | 停留時間            | 最高位置 | 參考資料   |
+| ----------- | ----------------------------------------------------------- | ----------------------------------------------- | --------------- | ---- | ------ |
+| 那個人         | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年5月8日－5月14日 | \#68 | \[11\] |
+| 香氣          | \#71                                                        |                                                 |                 |      |        |
+| Gravity     | \#72                                                        |                                                 |                 |      |        |
+| Stand by me | \#77                                                        |                                                 |                 |      |        |
 
 ### Oricon公信榜
 
@@ -131,7 +131,7 @@
 <td><p>2016年5月9日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 </tbody>
 </table>

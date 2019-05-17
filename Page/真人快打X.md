@@ -1,19 +1,19 @@
 是一款由[NetherRealm
-Studios开发的](../Page/NetherRealm_Studios.md "wikilink")[格斗游戏](../Page/格斗游戏.md "wikilink")，是[真人快打系列的第十部](../Page/真人快打系列.md "wikilink")
-作品，2015年4月14日登陆[PS4](../Page/PS4.md "wikilink")、[Xbox
+Studios开发的](https://zh.wikipedia.org/wiki/NetherRealm_Studios "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，是[真人快打系列的第十部](../Page/真人快打系列.md "wikilink")
+作品，2015年4月14日登陆[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Xbox
 One和](../Page/Xbox_One.md "wikilink")[Microsoft
-Windows平台](../Page/Microsoft_Windows.md "wikilink")。NetherRealm的移动平台工作组开发了[IOS和](../Page/IOS.md "wikilink")
-[安卓版本](../Page/安卓.md "wikilink")，IOS版已于2015年4月7日在世界范围内发布，安卓版于2015年5月4日发布。\[1\]
+Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。NetherRealm的移动平台工作组开发了[IOS和](../Page/IOS.md "wikilink")
+[安卓版本](https://zh.wikipedia.org/wiki/安卓 "wikilink")，IOS版已于2015年4月7日在世界范围内发布，安卓版于2015年5月4日发布。\[1\]
 
-真人快打X一经发布就得到了积极的评价，从操作性、游戏画面、剧情和角色而言，有评论者认为该作是真人快打系列中最佳的一作。但也有人认为游戏的教程、[收费](../Page/微收费.md "wikilink")、[DLC和在线游戏可玩性有一定的问题](../Page/追加下载内容.md "wikilink")。游戏的PC版本也由于许多
+真人快打X一经发布就得到了积极的评价，从操作性、游戏画面、剧情和角色而言，有评论者认为该作是真人快打系列中最佳的一作。但也有人认为游戏的教程、[收费](https://zh.wikipedia.org/wiki/微收费 "wikilink")、[DLC和在线游戏可玩性有一定的问题](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。游戏的PC版本也由于许多
 技术问题遭到批评。
 
 ## 游戏性
 
-真人快打X是一款[格斗游戏](../Page/格斗游戏.md "wikilink")，玩家可以使用各种攻击招式、特殊招式和毛骨悚然的终结技同其他玩家对抗，从上一代加入的能量条系统能够使玩家释放特殊招式例如“X光技”\[2\]。如同[NetherRealm
-Studios开发的](../Page/NetherRealm_Studios.md "wikilink")[不义联盟：人间之神](../Page/不义联盟：人间之神.md "wikilink")，玩家能够与环境互动，利用环境来进行移动或利用环境来进行攻击。\[3\]此外，每位游戏角色都拥有三个不同的专精，每种专精都会有不同的招式例如角色使用[忍术专精可以挥舞双剑](../Page/忍术.md "wikilink")，地狱火专精更依赖于火焰招式，炼狱专精可以让他召唤爪牙协助战斗。\[4\]本作另一个亮点是新加入了两种终结方式，在多人对战中中途退出则会被快速终结\[5\]以及根据玩家所加入的派系而拥有的派系终结技。奔跑动作回归本作，真人快打3中的必杀也回归本作，可以在向对手进行最后一击时触发直接杀死对手，\[6\]此外，也可以利用环境进行必杀。
+真人快打X是一款[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，玩家可以使用各种攻击招式、特殊招式和毛骨悚然的终结技同其他玩家对抗，从上一代加入的能量条系统能够使玩家释放特殊招式例如“X光技”\[2\]。如同[NetherRealm
+Studios开发的](https://zh.wikipedia.org/wiki/NetherRealm_Studios "wikilink")[不义联盟：人间之神](https://zh.wikipedia.org/wiki/不义联盟：人间之神 "wikilink")，玩家能够与环境互动，利用环境来进行移动或利用环境来进行攻击。\[3\]此外，每位游戏角色都拥有三个不同的专精，每种专精都会有不同的招式例如角色使用[忍术专精可以挥舞双剑](../Page/忍术.md "wikilink")，地狱火专精更依赖于火焰招式，炼狱专精可以让他召唤爪牙协助战斗。\[4\]本作另一个亮点是新加入了两种终结方式，在多人对战中中途退出则会被快速终结\[5\]以及根据玩家所加入的派系而拥有的派系终结技。奔跑动作回归本作，真人快打3中的必杀也回归本作，可以在向对手进行最后一击时触发直接杀死对手，\[6\]此外，也可以利用环境进行必杀。
 
-游戏模式包括剧情模式、1对1排位赛、山丘之王、生存模式、运气测试。新加入的生存塔模式由系列旧有的挑战塔演变而成，在这个模式中，战斗的环境将会每小时改变一次，让玩家可以享受不同的战斗体验。同时还新加入了派系战争，玩家可以从黑龙会、暗影兄弟会、林魁、特种部队和白莲教中挑选并加入其中派系来进行[跨平台竞争](../Page/跨平台.md "wikilink")，以此获得积分为所选派系做出贡献，同时提升个人排名并赢取特殊奖励例如派系终结技。\[7\]\[8\]
+游戏模式包括剧情模式、1对1排位赛、山丘之王、生存模式、运气测试。新加入的生存塔模式由系列旧有的挑战塔演变而成，在这个模式中，战斗的环境将会每小时改变一次，让玩家可以享受不同的战斗体验。同时还新加入了派系战争，玩家可以从黑龙会、暗影兄弟会、林魁、特种部队和白莲教中挑选并加入其中派系来进行[跨平台竞争](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，以此获得积分为所选派系做出贡献，同时提升个人排名并赢取特殊奖励例如派系终结技。\[7\]\[8\]
 
 ### 游戏角色
 
@@ -56,7 +56,7 @@ Studios开发的](../Page/NetherRealm_Studios.md "wikilink")[不义联盟：人�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/面具杰森魔.md" title="wikilink">杰森·沃里斯</a> <small>(Jason Voorhees)</small></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/面具杰森魔" title="wikilink">杰森·沃里斯</a> <small>(Jason Voorhees)</small></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -100,7 +100,7 @@ Studios开发的](../Page/NetherRealm_Studios.md "wikilink")[不义联盟：人�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/終極战士_(虚构生物).md" title="wikilink">終極战士</a> <small>(Predator)</small></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/終極战士_(虚构生物)" title="wikilink">終極战士</a> <small>(Predator)</small></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">

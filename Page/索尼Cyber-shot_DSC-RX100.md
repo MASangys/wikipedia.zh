@@ -1,18 +1,18 @@
 **索尼 Cyber-shot
 DSC-RX100**（简称**RX100**）是由[索尼于](../Page/索尼.md "wikilink")2012年6月发布的紧凑型不可换镜头[数码相机](../Page/数码相机.md "wikilink")，特色为在紧凑的空间内设计配置了1英寸规格传感器与高表现的镜头，上市初7万円/$650\[1\]\[2\]定价一度被认为难以接受，随后RX100在各类评测中的优异表现则证明物有所值。
 
-RX100在发布后获得了业界与市场认可，其于2012年入选[时代杂志评出的年度](../Page/时代杂志.md "wikilink")50佳发明(50
+RX100在发布后获得了业界与市场认可，其于2012年入选[时代杂志评出的年度](https://zh.wikipedia.org/wiki/时代杂志 "wikilink")50佳发明(50
 'best inventions' of 2012)\[3\]\[4\]。索尼也推出了后续系列机型，最新一款为2016年10月发布的RX100
 V\[5\]。
 
 ## 概述
 
 固定镜头数码相机（Fixed Lens Digital
-Camera）在20世纪末期进入民用领域，并且在21世纪初迅猛发展。但伴随[数码单反的普及潮](../Page/数码单反.md "wikilink")（以廉价机型[佳能
+Camera）在20世纪末期进入民用领域，并且在21世纪初迅猛发展。但伴随[数码单反的普及潮](https://zh.wikipedia.org/wiki/数码单反 "wikilink")（以廉价机型[佳能
 EOS
-300D](../Page/佳能_EOS_300D.md "wikilink")、[尼康D50](../Page/尼康D50.md "wikilink")、[奥林巴斯
-E-330等推出为标志](../Page/奥林巴斯_E-330.md "wikilink")），固定镜头数码相机中的[桥式相机或称类单眼相机](../Page/類單眼相機.md "wikilink")（Bridge
-Camera、DSLR-like）受冲击较大。而[拍照手机的诞生与普及](../Page/拍照手机.md "wikilink")，特别是以[iPhone为代表的智能手机](../Page/iPhone.md "wikilink")，在这一时期冲击了低端入门数码相机的市场。
+300D](../Page/佳能_EOS_300D.md "wikilink")、[尼康D50](https://zh.wikipedia.org/wiki/尼康D50 "wikilink")、[奥林巴斯
+E-330等推出为标志](https://zh.wikipedia.org/wiki/奥林巴斯_E-330 "wikilink")），固定镜头数码相机中的[桥式相机或称类单眼相机](../Page/類單眼相機.md "wikilink")（Bridge
+Camera、DSLR-like）受冲击较大。而[拍照手机的诞生与普及](https://zh.wikipedia.org/wiki/拍照手机 "wikilink")，特别是以[iPhone为代表的智能手机](https://zh.wikipedia.org/wiki/iPhone "wikilink")，在这一时期冲击了低端入门数码相机的市场。
 
 在这一系列外部因素影响下，部分厂家推出了画质出众，而体积控制优秀的高级卡片随身机，其中的代表有
 松下LX3(2008)、佳能S90(2009)以及奥林巴斯XZ-1(2011)等。这类机型（日语：高級コンパクトデジカメ
@@ -26,7 +26,7 @@ Camera、DSLR-like）受冲击较大。而[拍照手机的诞生与普及](../Pa
 这类机型获得了一段时期内的市场关注，日本的相机器材媒体DC Watch也曾经进行过对比\[6\]\[7\]。
 
 [Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg](https://zh.wikipedia.org/wiki/File:Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg "fig:Sony_Cyber-shot_DSC-RX100_vs_Sony_Alpha_ILCE-6000.jpg")，分置左右\]\]
-而随着以[微4/3系统和](../Page/微4/3系统.md "wikilink")[索尼NEX为代表的](../Page/索尼NEX系列.md "wikilink")[数码无反机型的诞生](../Page/無反光鏡可換鏡頭相機.md "wikilink")，这类机型也受到了挑战。
+而随着以[微4/3系统和](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")[索尼NEX为代表的](../Page/索尼NEX系列.md "wikilink")[数码无反机型的诞生](../Page/無反光鏡可換鏡頭相機.md "wikilink")，这类机型也受到了挑战。
 
 以此为背景，索尼公司在2012年推出了新型的高级紧凑型数码相机**RX100**，采用了较之前这一系列更大的一英寸规格的感光元件，体积仍然保持在宽10cm，高不到6cm，厚度3.5cm的范围。其推出后受到了广泛好评，业界评测对其画质与便携性给予好评，认为足可作为专业人士的备用机或普通用户的主机使用\[8\]。
 
@@ -139,9 +139,9 @@ II\[10\]，据信为索尼RX100的贴牌产品，分别对应RX100与RX100 II。
 <td><p>MPEG-4, AVCHD (28 Mbit/s)<br />
 <a href="../Page/Full_HD.md" title="wikilink">Full HD</a></p></td>
 <td><p>MPEG-4, AVCHD (28 Mbit/s),<br />
-<a href="../Page/XAVC.md" title="wikilink">XAVC S</a> (50 Mbit/s) <a href="../Page/Full_HD.md" title="wikilink">Full HD</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/XAVC" title="wikilink">XAVC S</a> (50 Mbit/s) <a href="../Page/Full_HD.md" title="wikilink">Full HD</a></p></td>
 <td><p>MPEG-4, AVCHD (28 Mbit/s),<br />
-<a href="../Page/XAVC.md" title="wikilink">XAVC S</a> (100 Mbit/s) <a href="../Page/4K_video.md" title="wikilink">4K video</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/XAVC" title="wikilink">XAVC S</a> (100 Mbit/s) <a href="https://zh.wikipedia.org/wiki/4K_video" title="wikilink">4K video</a></p></td>
 <td><p>MPEG-4, AVCHD (28 Mbit/s),</p>
 <p>XAVC S (100 Mbit/s) 4K video</p></td>
 <td></td>
@@ -170,7 +170,7 @@ II\[10\]，据信为索尼RX100的贴牌产品，分别对应RX100与RX100 II。
 <td><p>No</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
-<td><p>Picture Profile w/<a href="../Page/Gamma_correction.md" title="wikilink">CineGamma</a>,<br />
+<td><p>Picture Profile w/<a href="https://zh.wikipedia.org/wiki/Gamma_correction" title="wikilink">CineGamma</a>,<br />
 Timecode, Userbit</p></td>
 <td></td>
 <td></td>
@@ -204,7 +204,7 @@ at Auto ISO</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/LCD.md" title="wikilink">LCD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD</a></p></td>
 <td><p>3英寸，固定式</p></td>
 <td><p>3英寸，可翻转(上90/下40度)</p></td>
 <td><p>3英寸，可翻转(上180/-45度)</p></td>
@@ -308,24 +308,28 @@ at Auto ISO</p></td>
 </tbody>
 </table>
 
-*此外，RX系还包含桥式相机类型的[RX10与全画幅规格](../Page/RX10.md "wikilink")[RX1](../Page/RX1.md "wikilink")，因与RX100系列产品差异过大，并未一同列出说明。*
+*此外，RX系还包含桥式相机类型的[RX10与全画幅规格](https://zh.wikipedia.org/wiki/RX10 "wikilink")[RX1](https://zh.wikipedia.org/wiki/RX1 "wikilink")，因与RX100系列产品差异过大，并未一同列出说明。*
 
 ## 参见
 
   - [索尼](../Page/索尼.md "wikilink")
-      - [索尼Cybershot](../Page/Cyber-shot.md "wikilink") 索尼的不可换镜头数码相机系列
+      - [索尼Cybershot](https://zh.wikipedia.org/wiki/Cyber-shot "wikilink")
+        索尼的不可换镜头数码相机系列
           - [索尼Cyber-Shot
             DSC-R1](../Page/索尼Cyber-Shot_DSC-R1.md "wikilink")
             索尼于2005年推出的高级固定镜头机型
-      - [SONY α](../Page/SONY_α.md "wikilink") 索尼的可换镜头数码相机系列
+      - [SONY α](https://zh.wikipedia.org/wiki/SONY_α "wikilink")
+        索尼的可换镜头数码相机系列
 
 <!-- end list -->
 
   - 高级不可换镜头紧凑机型
-      - [奥林巴斯XZ-1](../Page/奥林巴斯XZ-1.md "wikilink")
-      - [松下LX100](../Page/松下LX100.md "wikilink")
-      - [佳能 Powershot G1 X](../Page/佳能_Powershot_G1_X.md "wikilink")
-      - [佳能 Powershot G7 X](../Page/佳能_Powershot_G7_X.md "wikilink")
+      - [奥林巴斯XZ-1](https://zh.wikipedia.org/wiki/奥林巴斯XZ-1 "wikilink")
+      - [松下LX100](https://zh.wikipedia.org/wiki/松下LX100 "wikilink")
+      - [佳能 Powershot G1
+        X](https://zh.wikipedia.org/wiki/佳能_Powershot_G1_X "wikilink")
+      - [佳能 Powershot G7
+        X](https://zh.wikipedia.org/wiki/佳能_Powershot_G7_X "wikilink")
 
 ## 参考与引用
 

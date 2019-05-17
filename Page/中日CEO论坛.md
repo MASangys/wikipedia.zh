@@ -52,7 +52,7 @@
 ## 地址
 
   -
-    中日CEO论坛组委会　[中国](../Page/中国.md "wikilink")[北京市朝阳区东三环中路](../Page/北京市.md "wikilink")1号环球金融中心东塔10层
+    中日CEO论坛组委会　[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京市朝阳区东三环中路](../Page/北京市.md "wikilink")1号环球金融中心东塔10层
 
 ## 脚注
 

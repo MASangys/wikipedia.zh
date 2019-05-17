@@ -1,4 +1,4 @@
-《**失憶煽動WIXOSS**》（、）是[J.C.STAFF製作的原創電視動畫](../Page/J.C.STAFF.md "wikilink")。2016年10月起首播\[1\]。
+《**失憶煽動WIXOSS**》（、）是[J.C.STAFF製作的原創電視動畫](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2016年10月起首播\[1\]。
 
 在動畫第12話尾段，宣告推出續篇《失憶融合WIXOSS》（Lostorage conflated
 WIXOSS），並從2018年4月起播出\[2\]，前作《**[Selector](../Page/Selector_infected_WIXOSS.md "wikilink")**》篇的主角們也再次登場\[3\]。
@@ -6,11 +6,11 @@ WIXOSS），並從2018年4月起播出\[2\]，前作《**[Selector](../Page/Sele
 ## 概要
 
 本作是[Takara
-Tomy發行的](../Page/Takara_Tomy.md "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")《》自2014年播出《selector》系列以來（《[selector
+Tomy發行的](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")《》自2014年播出《selector》系列以來（《[selector
 infected
-WIXOSS](../Page/selector_infected_WIXOSS.md "wikilink")》及《selector
+WIXOSS](https://zh.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")》及《selector
 spread
-WIXOSS》），全新的電視動畫系列\[4\]。2016年4月16日，由擔任嘉賓的[日本華納娛樂製作人](../Page/日本華納娛樂.md "wikilink")參加出席「WIXOSS
+WIXOSS》），全新的電視動畫系列\[4\]。2016年4月16日，由擔任嘉賓的[日本華納娛樂製作人](https://zh.wikipedia.org/wiki/日本華納娛樂 "wikilink")參加出席「WIXOSS
 2週年紀念賞花大會」的活動上宣布動畫製作決定和首播時期的訊息\[5\]。同年8月7日在活動『WIXOSS Summer
 Store』公布製作人員和[聲優陣容](../Page/聲優.md "wikilink")\[6\]。
 
@@ -209,16 +209,16 @@ Store』公布製作人員和[聲優陣容](../Page/聲優.md "wikilink")\[6\]�
   - 音響監督：[岩浪美和](../Page/岩浪美和.md "wikilink")
   - 音響效果：小山恭正
   - 錄音調整：山口貴之
-  - 音樂：[井內舞子](../Page/井內舞子.md "wikilink")
+  - 音樂：[井內舞子](https://zh.wikipedia.org/wiki/井內舞子 "wikilink")
   - WIXOSS監修：山口朋
-  - 動畫製作：[J.C.STAFF](../Page/J.C.STAFF.md "wikilink")
+  - 動畫製作：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
   - 製作：Project Lostorage
 
 ### 主題曲
 
   - 第1期
     片頭曲「Lostorage」
-    作詞：[KOTOKO](../Page/KOTOKO.md "wikilink")，作曲、編曲：[井內舞子](../Page/井內舞子.md "wikilink")，主唱：[井口裕香](../Page/井口裕香.md "wikilink")
+    作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：[井內舞子](https://zh.wikipedia.org/wiki/井內舞子 "wikilink")，主唱：[井口裕香](../Page/井口裕香.md "wikilink")
   - 片尾曲「undeletable」
     作詞：[矢吹香那](../Page/矢吹香那.md "wikilink")，作曲・編曲：，主唱：
 
@@ -288,7 +288,7 @@ Store』公布製作人員和[聲優陣容](../Page/聲優.md "wikilink")\[6\]�
 <td><p><a href="../Page/待田堂子.md" title="wikilink">待田堂子</a></p></td>
 <td><p>倉川英揚</p></td>
 <td><p>森義博</p></td>
-<td><p><a href="../Page/山內則康.md" title="wikilink">山內則康</a>、鎌田均<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/山內則康" title="wikilink">山內則康</a>、鎌田均<br />
 BSP、Hwang In Chcol<br />
 金正男、吉岡幸惠<br />
 齊藤美香、芝田千紗</p></td>

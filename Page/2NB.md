@@ -1,7 +1,7 @@
 **2NB**
-（）是[韓國Friday娛樂於](../Page/韓國.md "wikilink")2006年3月成立的女子二人重唱團體。2NB的意思為「兩色的[R\&B](../Page/R&B.md "wikilink")」，號稱是女子版的「[Fly
+（）是[韓國Friday娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2006年3月成立的女子二人重唱團體。2NB的意思為「兩色的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")」，號稱是女子版的「[Fly
 to the
-Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與[許率智](../Page/許率智.md "wikilink")。2007年金嘉熙退出。2008年新成員[金頌怡加入](../Page/加頻.md "wikilink")\[2\]。2011年許率智退出。2012年金頌怡退出，組合解散。2016年8月31日甜甜圈文化的社長宣佈解散五年的2NB將以2期回歸，新的團員為金孝珍、孫酉奈\[3\]。
+Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與[許率智](https://zh.wikipedia.org/wiki/許率智 "wikilink")。2007年金嘉熙退出。2008年新成員[金頌怡加入](../Page/加頻.md "wikilink")\[2\]。2011年許率智退出。2012年金頌怡退出，組合解散。2016年8月31日甜甜圈文化的社長宣佈解散五年的2NB將以2期回歸，新的團員為金孝珍、孫酉奈\[3\]。
 
 ## 經歷
 
@@ -24,7 +24,7 @@ Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與
 
 ### 2011年 許率智退出
 
-2011年，許率智退出\[8\]，退出後擔任聲樂老師，2012年加入女子團體[EXID](../Page/EXID.md "wikilink")\[9\]。
+2011年，許率智退出\[8\]，退出後擔任聲樂老師，2012年加入女子團體[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")\[9\]。
 
 ### 2012年 組合解散
 
@@ -79,19 +79,19 @@ Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與
 <li></li>
 <li>本名：金泫珠（김현주）</li>
 <li>生日：1983年5月14日</li>
-<li>出生地：<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a></li>
+<li>出生地：<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></li>
 <li>離開後以個人歌手活動，現在在直播平台AfreecaTV擔任BJ[16]。</li>
 <li>隊內擔當：第一任隊長、主唱</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許率智.md" title="wikilink">許率智</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許率智" title="wikilink">許率智</a></p></td>
 <td><ul>
 <li>本名：許率智（허솔지）</li>
 <li>生日：1989年1月10日</li>
 <li>出生地：<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/城南市.md" title="wikilink">城南市</a></li>
 <li>教育程度： 畢業</li>
-<li>現為女子團體<a href="../Page/EXID.md" title="wikilink">EXID隊長</a><strong>率智</strong>[17]</li>
+<li>現為女子團體<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID隊長</a><strong>率智</strong>[17]</li>
 <li>隊內擔當：第二任隊長、主唱</li>
 </ul></td>
 </tr>
@@ -112,15 +112,15 @@ Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與
 
 ### 成員變遷時序表
 
-| 2NB成員變遷表                         |
-| -------------------------------- |
-| 成員                               |
-| 6月                               |
-| 金嘉熙                              |
-| [許率智](../Page/許率智.md "wikilink") |
-| [金頌怡](../Page/加頻.md "wikilink")  |
-| 金孝珍                              |
-| 孫酉奈                              |
+| 2NB成員變遷表                                            |
+| --------------------------------------------------- |
+| 成員                                                  |
+| 6月                                                  |
+| 金嘉熙                                                 |
+| [許率智](https://zh.wikipedia.org/wiki/許率智 "wikilink") |
+| [金頌怡](../Page/加頻.md "wikilink")                     |
+| 金孝珍                                                 |
+| 孫酉奈                                                 |
 
 註：2007年11月30日[金頌怡即以](../Page/加頻.md "wikilink")2NB的隊員身份參與了W7'Project的專輯，並出現在MV中。
 2013年5月4日播出的[隱藏歌手](../Page/隱藏歌手.md "wikilink")，[金頌怡稱已經結束合約](../Page/加頻.md "wikilink")，復學\[20\]。
@@ -129,7 +129,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 
 ## 音樂作品
 
-  - 個別成員的音樂作品，請參考成員的條目：[許率智](../Page/許率智.md "wikilink")、[金頌怡](../Page/加頻.md "wikilink")。
+  - 個別成員的音樂作品，請參考成員的條目：[許率智](https://zh.wikipedia.org/wiki/許率智 "wikilink")、[金頌怡](../Page/加頻.md "wikilink")。
 
 ### 專輯
 
@@ -220,7 +220,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <tbody>
 <tr class="odd">
 <td><p>2006年3月31日</p></td>
-<td><p><a href="../Page/單曲.md" title="wikilink">單曲</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/單曲" title="wikilink">單曲</a><br />
 《첫 번째 향기 最初的香氣》</p></td>
 <td><ol>
 <li>Intro</li>
@@ -281,7 +281,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 </ol></td>
 <td><ul>
 <li>因為是女人 原唱 <a href="../Page/Kiss_(韓國音樂團體).md" title="wikilink">KISS</a></li>
-<li>給記憶中遙遠的你 原唱 <a href="../Page/朴美靜.md" title="wikilink">朴美靜</a></li>
+<li>給記憶中遙遠的你 原唱 <a href="https://zh.wikipedia.org/wiki/朴美靜" title="wikilink">朴美靜</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -429,14 +429,14 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <li>My Grown Up Christmas List （<strong>2NB</strong>）</li>
 <li>사랑이 내려요 (Inst.)</li>
 </ol></td>
-<td><p>W7 Project 的成員有 2NB（<a href="../Page/許率智.md" title="wikilink">許率智</a>, <a href="../Page/加頻.md" title="wikilink">金頌怡</a>），<br />
+<td><p>W7 Project 的成員有 2NB（<a href="https://zh.wikipedia.org/wiki/許率智" title="wikilink">許率智</a>, <a href="../Page/加頻.md" title="wikilink">金頌怡</a>），<br />
 前成員<a href="../Page/李河璘.md" title="wikilink">李河璘</a>、한예원，<br />
 前Bubble Sisters成員영지<br />
 <a href="../Page/二段横踢.md" title="wikilink">朴長根</a>、Hoony Hoon</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年9月24日</p></td>
-<td><p><a href="../Page/迷你專輯.md" title="wikilink">迷你專輯</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/迷你專輯" title="wikilink">迷你專輯</a><br />
 《사랑은 너 하나뿐 愛你的只有一個》</p></td>
 <td><p>As One</p></td>
 <td><ol>
@@ -459,7 +459,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <li><strong>Happy Ending (Feat. 2NB, 하린, 오윤혜, 하루)</strong></li>
 <li>Anything For You (Feat. <a href="../Page/加頻.md" title="wikilink">金頌怡</a>, 하루)</li>
 </ol></td>
-<td><p>Voicemate 的成員有2NB（<a href="../Page/許率智.md" title="wikilink">許率智</a>, <a href="../Page/加頻.md" title="wikilink">金頌怡</a>）,<br />
+<td><p>Voicemate 的成員有2NB（<a href="https://zh.wikipedia.org/wiki/許率智" title="wikilink">許率智</a>, <a href="../Page/加頻.md" title="wikilink">金頌怡</a>）,<br />
 <a href="../Page/李河璘.md" title="wikilink">李河璘</a>, 오윤혜, 하루</p></td>
 </tr>
 <tr class="odd">
@@ -560,7 +560,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <tr class="even">
 <td><p>2017年3月28日</p></td>
 <td><p>數位單曲<br />
-《초인가족 2017 <a href="../Page/超人家族_2017.md" title="wikilink">超人家族 2017</a> OST Part 4》</p></td>
+《초인가족 2017 <a href="https://zh.wikipedia.org/wiki/超人家族_2017" title="wikilink">超人家族 2017</a> OST Part 4》</p></td>
 <td><ol>
 <li><strong>핑크핑크해 PINK PINK</strong></li>
 <li>핑크핑크해 (Inst.)</li>
@@ -606,8 +606,8 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <tr class="odd">
 <td><p>2007年5月7日</p></td>
 <td><p>JAEWON</p></td>
-<td><p><a href="../Page/李載沅.md" title="wikilink">李在元</a></p></td>
-<td><p>⒉ World is yours (feat. <a href="../Page/Untouchable_(南韓組合).md" title="wikilink">Untouchable</a>／2NB)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李載沅" title="wikilink">李在元</a></p></td>
+<td><p>⒉ World is yours (feat. <a href="https://zh.wikipedia.org/wiki/Untouchable_(南韓組合)" title="wikilink">Untouchable</a>／2NB)</p></td>
 <td></td>
 </tr>
 <tr class="even">

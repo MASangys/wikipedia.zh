@@ -1,6 +1,6 @@
 是由Hangar 13與[2K Czech共同開發](../Page/2K_Czech.md "wikilink")、[2K
-Games發行的一款](../Page/2K_Games.md "wikilink")[動作冒險遊戲](../Page/動作冒險遊戲.md "wikilink")。本作是2K
-Games2010年遊戲《[四海兄弟II](../Page/黑手黨II.md "wikilink")》的續作，目前已發行在市面上。其講述的是主角林肯‧克雷遭黑手黨家族背叛，而進行復仇的故事。結局多樣性，可供玩家選擇。
+Games發行的一款](../Page/2K_Games.md "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")。本作是2K
+Games2010年遊戲《[四海兄弟II](https://zh.wikipedia.org/wiki/黑手黨II "wikilink")》的續作，目前已發行在市面上。其講述的是主角林肯‧克雷遭黑手黨家族背叛，而進行復仇的故事。結局多樣性，可供玩家選擇。
 
 ## 劇情
 

@@ -1,7 +1,7 @@
 **NVIDIA GeForce
 10系列**\[1\]是[英伟达研发並推出的图形处理器系列](../Page/英伟达.md "wikilink")，被用以取代[NVIDIA
 GeForce
-900系列圖形處理器](../Page/NVIDIA_GeForce_900.md "wikilink")。新系列采用[帕斯卡微架构来代替之前的麦克斯韦微架构](../Page/帕斯卡_\(微架构\).md "wikilink")，并采用[台积电的](../Page/台灣積體電路製造公司.md "wikilink")16纳米及[Samsung的](../Page/Samsung.md "wikilink")14纳米鰭式[多閘極電晶體工藝](../Page/多閘極電晶體.md "wikilink")（[Fin-FET](../Page/FinFET.md "wikilink")）來製造。\[2\]
+900系列圖形處理器](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_900 "wikilink")。新系列采用[帕斯卡微架构来代替之前的麦克斯韦微架构](https://zh.wikipedia.org/wiki/帕斯卡_\(微架构\) "wikilink")，并采用[台积电的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")16纳米及[Samsung的](https://zh.wikipedia.org/wiki/Samsung "wikilink")14纳米鰭式[多閘極電晶體工藝](../Page/多閘極電晶體.md "wikilink")（[Fin-FET](https://zh.wikipedia.org/wiki/FinFET "wikilink")）來製造。\[2\]
 
 ## 架构特性
 
@@ -9,7 +9,7 @@ NVIDIA GeForce
 10系列的微架构命名为帕斯卡，根据17世纪的法国数学家[布莱兹·帕斯卡而得名](../Page/布莱兹·帕斯卡.md "wikilink")，Nvidia在2016年5月6日召开发布会。\[3\]
 
 Nvidia已经宣布，帕斯卡GPU最高規格采用四組4-Hi
-HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm製程及FinFET技术\[5\]，其中面向高效能運算的，核心代號為「GP100」的GPU，還配備[共享内存技術以及](../Page/共享内存.md "wikilink")[NVLink匯流排](../Page/NVLink.md "wikilink")。\[6\]
+HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm製程及FinFET技术\[5\]，其中面向高效能運算的，核心代號為「GP100」的GPU，還配備[共享内存技術以及](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[NVLink匯流排](../Page/NVLink.md "wikilink")。\[6\]
 
 ## 晶片規格
 
@@ -18,8 +18,8 @@ HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm
 ### 桌上型平台顯示核心
 
   - [NVIDIA SLI支援](../Page/NVIDIA_SLI.md "wikilink")2路[SLI
-    HB](../Page/SLI.md "wikilink")，或2/3/4路普通SLI配置。只有NVIDIA TITAN
-    X/Xp、GeForce GTX 1080 Ti/1080/1070 Ti/1070開放SLI功能，其餘的不支援SLI。
+    HB](https://zh.wikipedia.org/wiki/SLI "wikilink")，或2/3/4路普通SLI配置。只有NVIDIA
+    TITAN X/Xp、GeForce GTX 1080 Ti/1080/1070 Ti/1070開放SLI功能，其餘的不支援SLI。
   - 基於GP102的顯示卡没有DVI插槽，GeForce GTX 1080 Ti只有3組DP及一組HDMI插槽。
 
 <table>
@@ -29,7 +29,7 @@ HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm
 <th><p>推出年分</p></th>
 <th><p>核心代號</p></th>
 <th><p>製程<br />
-(<a href="../Page/奈米.md" title="wikilink">奈米</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/奈米" title="wikilink">奈米</a>)</p></th>
 <th><p>電晶體數<br />
 &amp;<br />
 晶粒面積</p></th>
@@ -40,10 +40,10 @@ HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm
 <th><p>時脈配置</p></th>
 <th><p>填充率</p></th>
 <th><p>顯示記憶體配置</p></th>
-<th><p><a href="../Page/應用程式介面.md" title="wikilink">API支援</a>（版本）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支援</a>（版本）</p></th>
 <th><p>運算效能<br />
 （GFLOPS）</p></th>
-<th><p><a href="../Page/熱設計功耗.md" title="wikilink">熱設計功耗</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">熱設計功耗</a><br />
 (W)</p></th>
 <th><p>發售<br />
 價格 (美金)</p></th>
@@ -52,29 +52,29 @@ HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm
 <tbody>
 <tr class="odd">
 <td><p>預設<br />
-(<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
 <td><p>加速<br />
-(<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
 <td><p>記憶體<br />
-(<a href="../Page/Transfer_(computing).md" title="wikilink">MT/s</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
 <td><p>像素<br />
-(<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>材質<br />
-(<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
 <td><p>容量<br />
-(<a href="../Page/GiB.md" title="wikilink">GiB</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/GiB" title="wikilink">GiB</a>)</p></td>
 <td><p>匯流排<br />
 類型</p></td>
 <td><p>匯流排<br />
 寬度<br />
 (<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
 <td><p>頻寬<br />
-(<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
-<td><p><a href="../Page/半精度浮點數.md" title="wikilink">半精度<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/半精度浮點數" title="wikilink">半精度<br />
 浮點</a></p></td>
 </tr>
 <tr class="even">
@@ -83,7 +83,7 @@ HBM2显存，高端消费级显卡显存可达16GB，\[4\]採用台積電的16nm
 <td><p>GP108-300-A1</p></td>
 <td><p>14</p></td>
 <td><p>18亿<br />
-70 <a href="../Page/平方毫米.md" title="wikilink">mm<sup>2</sup></a></p></td>
+70 <a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a></p></td>
 <td><p>PCIe 3.0 x16</p></td>
 <td><p>384:24:16<br />
 （3 SM）</p></td>
@@ -213,7 +213,7 @@ $449 (創始版)</p></td>
 <td><p>10000</p></td>
 <td><p>102.8</p></td>
 <td><p>257.1</p></td>
-<td><p><a href="../Page/GDDR5#下一代接替品.md" title="wikilink">GDDR5X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR5#下一代接替品" title="wikilink">GDDR5X</a></p></td>
 <td><p>320</p></td>
 <td><p>128</p></td>
 <td><p>8228</p></td>
@@ -294,7 +294,7 @@ $699 (創始版)</p></td>
 <th><p>推出年分</p></th>
 <th><p>核心代號</p></th>
 <th><p>製程<br />
-(<a href="../Page/奈米.md" title="wikilink">奈米</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/奈米" title="wikilink">奈米</a>)</p></th>
 <th><p>電晶體數<br />
 (十億個)</p></th>
 <th><p>晶粒面積<br />
@@ -305,26 +305,26 @@ $699 (創始版)</p></td>
 <th><p>時脈配置</p></th>
 <th><p>填充率</p></th>
 <th><p>顯示記憶體配置</p></th>
-<th><p><a href="../Page/應用程式介面.md" title="wikilink">API支援</a>（版本）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支援</a>（版本）</p></th>
 <th><p>運算效能<br />
 （GFLOPS）</p></th>
 <th><p>SLI技術支援</p></th>
-<th><p><a href="../Page/熱設計功耗.md" title="wikilink">熱設計功耗</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">熱設計功耗</a><br />
 (W)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>預設<br />
-(<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
 <td><p>加速<br />
-(<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
 <td><p>記憶體<br />
-(<a href="../Page/Transfer_(computing).md" title="wikilink">MT/s</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
 <td><p>像素<br />
-(<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>材質<br />
-(<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
 <td><p>容量<br />
 ( GiB</p>
 <p>)</p></td>
@@ -332,13 +332,13 @@ $699 (創始版)</p></td>
 <td><p>匯流排寬度<br />
 (<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
 <td><p>頻寬<br />
-(<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
-<td><p><a href="../Page/半精度浮點數.md" title="wikilink">半精度浮點數</a></p></td>
-<td><p><a href="../Page/單精度浮點數.md" title="wikilink">單精度浮點數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/半精度浮點數" title="wikilink">半精度浮點數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單精度浮點數" title="wikilink">單精度浮點數</a></p></td>
 </tr>
 <tr class="even">
 <td><p>GeForce MX110</p></td>
@@ -360,8 +360,7 @@ $699 (創始版)</p></td>
 </tr>
 <tr class="odd">
 <td><p>GeForce MX130</p></td>
-<td><p>GM108</p>
-<p>(N16S-GTR)</p></td>
+<td><p>GM108</p></td>
 <td><p>1122</p></td>
 <td><p>1242</p></td>
 <td><p>9.936</p></td>
@@ -469,7 +468,7 @@ $699 (創始版)</p></td>
 <td><p>10000</p></td>
 <td><p>99.6</p></td>
 <td><p>249</p></td>
-<td><p><a href="../Page/GDDR5#下一代接替品.md" title="wikilink">GDDR5X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR5#下一代接替品" title="wikilink">GDDR5X</a></p></td>
 <td><p>320</p></td>
 <td><p>?</p></td>
 <td><p>249</p></td>
@@ -503,22 +502,40 @@ $699 (創始版)</p></td>
 [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
 6.
+
 7.
+
 8.
+
 9.
+
 10.
+
 11.
+
 12.
+
 13.
+
 14.
+
 15.
+
 16.
+
 17.
+
 18.
+
 19.
+
 20.

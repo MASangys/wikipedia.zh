@@ -1,11 +1,13 @@
-***Serradinga***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[眼蝶亞科](../Page/眼蝶亞科.md "wikilink")[絡眼蝶族裡的一個](../Page/絡眼蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分布於非洲南部\[1\]。
+***Serradinga***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[眼蝶亞科](../Page/眼蝶亞科.md "wikilink")[絡眼蝶族裡的一個](../Page/絡眼蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於非洲南部\[1\]。
 
 ## 物種
 
-  - [白斑玎眼蝶](../Page/白斑玎眼蝶.md "wikilink") *Serradinga bowkeri*
-  - *[Serradinga clarki](../Page/Serradinga_clarki.md "wikilink")*
+  - [白斑玎眼蝶](https://zh.wikipedia.org/wiki/白斑玎眼蝶 "wikilink") *Serradinga
+    bowkeri*
   - *[Serradinga
-    kammanassiensis](../Page/Serradinga_kammanassiensis.md "wikilink")*
+    clarki](https://zh.wikipedia.org/wiki/Serradinga_clarki "wikilink")*
+  - *[Serradinga
+    kammanassiensis](https://zh.wikipedia.org/wiki/Serradinga_kammanassiensis "wikilink")*
 
 ## 參考文獻
 

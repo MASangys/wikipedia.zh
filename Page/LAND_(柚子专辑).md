@@ -1,11 +1,11 @@
 [LAND_Yuzu.jpg](https://zh.wikipedia.org/wiki/File:LAND_Yuzu.jpg "fig:LAND_Yuzu.jpg")
-《LAND》（ランド）是[日本二人乐队](../Page/日本.md "wikilink")[柚子](../Page/ゆず.md "wikilink")（ゆず）的第11张原创专辑。2013年5月1日由其所属公司发售。\[1\]
+《LAND》（ランド）是[日本二人乐队](../Page/日本.md "wikilink")[柚子](https://zh.wikipedia.org/wiki/ゆず "wikilink")（ゆず）的第11张原创专辑。2013年5月1日由其所属公司发售。\[1\]
 
 ## 概要
 
 《LAND》的发售与前作《》时隔2年3个月，是至今柚子发表原创专辑间隔最长的一次。\[2\]专辑封面由现代艺术家[村上隆绘制](../Page/村上隆.md "wikilink")。\[3\]\[4\]
 
-2013年5月13日专辑销量达到[oricon榜第一位](../Page/Oricon公信榜.md "wikilink")。\[5\]后又被第55回[日本唱片大奖选为最优秀专辑](../Page/日本唱片大奖.md "wikilink")。\[6\]
+2013年5月13日专辑销量达到[oricon榜第一位](../Page/Oricon公信榜.md "wikilink")。\[5\]后又被第55回[日本唱片大奖选为最优秀专辑](https://zh.wikipedia.org/wiki/日本唱片大奖 "wikilink")。\[6\]
 
 6月15日以[北海道为起点举行了全国巡演](../Page/北海道.md "wikilink")“YUZU ARENA TOUR 2013 GO
 LAND”，首演动员数约25万人。\[7\]\[8\]
@@ -13,8 +13,8 @@ LAND”，首演动员数约25万人。\[7\]\[8\]
 ## 收录曲
 
 1.  **** <small>（理由）</small>
-      - 作词・作曲：[北川悠仁](../Page/北川悠仁.md "wikilink")・[岩泽厚治](../Page/岩泽厚治.md "wikilink")・[前山田健一](../Page/前山田健一.md "wikilink")
-        <small>柚子的第37张单曲；日本电视动漫《[HUNTER×HUNTER](../Page/HUNTER×HUNTER.md "wikilink")》（貪婪之島篇）片尾曲及电影《剧场版
+      - 作词・作曲：[北川悠仁](../Page/北川悠仁.md "wikilink")・[岩泽厚治](https://zh.wikipedia.org/wiki/岩泽厚治 "wikilink")・[前山田健一](../Page/前山田健一.md "wikilink")
+        <small>柚子的第37张单曲；日本电视动漫《[HUNTER×HUNTER](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")》（貪婪之島篇）片尾曲及电影《剧场版
         HUNTER×HUNTER 緋色的幻影》主題曲。</small>
 
 2.  **** <small>（土地）</small>
@@ -43,7 +43,7 @@ LAND”，首演动员数约25万人。\[7\]\[8\]
 
 9.  **** <small>（流星閃爍，柚子版）</small>
       - 作词：北川悠仁・岩泽厚治 / 作曲：北川悠仁
-        <small>日本电视动漫《[HUNTER×HUNTER](../Page/HUNTER×HUNTER.md "wikilink")》（奇美拉蚁篇）片尾曲。</small>
+        <small>日本电视动漫《[HUNTER×HUNTER](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")》（奇美拉蚁篇）片尾曲。</small>
 
 10. ****<small>（明天见）</small>
       - 作词・作曲：岩泽厚治

@@ -1,13 +1,13 @@
 《**PRODUCE
-101**》（）是[Mnet在](../Page/Mnet_Media.md "wikilink")2016年推出的韓國第一個「經紀公司大型企劃女團」新女團選拔／生存實境節目，以101名來自不同經紀公司的女練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，以[YMC
-Entertainment旗下藝人的身份進行為期一年的活動](../Page/YMC_Entertainment.md "wikilink")。節目最終回中公布團體名為
+101**》（）是[Mnet在](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")2016年推出的韓國第一個「經紀公司大型企劃女團」新女團選拔／生存實境節目，以101名來自不同經紀公司的女練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，以[YMC
+Entertainment旗下藝人的身份進行為期一年的活動](https://zh.wikipedia.org/wiki/YMC_Entertainment "wikilink")。節目最終回中公布團體名為
 **[I.O.I](../Page/I.O.I.md "wikilink")**（）。
 
-2017年，[Mnet決定制作](../Page/Mnet_Media.md "wikilink")[第二季](../Page/PRODUCE_101_第二季.md "wikilink")，改為新男團選拔／生存實境節目，並由[寶兒
+2017年，[Mnet決定制作](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")，改為新男團選拔／生存實境節目，並由[寶兒
 (BoA)擔任國民製作人代表](../Page/寶兒.md "wikilink")\[1\]；2018年，Mnet与日本[AKB48
 Group合作推出](../Page/AKB48.md "wikilink")[PRODUCE
-48](../Page/PRODUCE_48.md "wikilink")，進行共96位選手的女團選拔節目，並由[李昇基擔任國民製作人代表](../Page/李昇基.md "wikilink")；2019年，Mnet即將推出第四季名稱確定為[PRODUCE
-X101](../Page/PRODUCE_X101.md "wikilink")，本季重回男團選秀，並由[李棟旭擔任國民製作人代表](../Page/李棟旭.md "wikilink")。
+48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")，進行共96位選手的女團選拔節目，並由[李昇基擔任國民製作人代表](../Page/李昇基.md "wikilink")；2019年，Mnet即將推出第四季名稱確定為[PRODUCE
+X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink")，本季重回男團選秀，並由[李棟旭擔任國民製作人代表](../Page/李棟旭.md "wikilink")。
 
 ## 比賽方式
 
@@ -21,15 +21,16 @@ ONE、Facebook和Twitter的帳號後，經由《PRODUCE
 
 <!-- end list -->
 
-  - 歌唱導師：[JeA](../Page/金孝珍_\(歌手\).md "wikilink") & 金盛恩
+  - 歌唱導師：[JeA](../Page/金孝珍_\(歌手\).md "wikilink") & 金聖恩 （[Big Hit
+    娛樂](../Page/Big_Hit娛樂.md "wikilink") 聲樂導師）\[2\]
 
 <!-- end list -->
 
-  - 舞蹈導師：[嘉熙](../Page/嘉熙_\(歌手\).md "wikilink") & 裴允貞
+  - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") & 裴允貞
 
 <!-- end list -->
 
-  - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink")
+  - Rap導師：[Cheetah](https://zh.wikipedia.org/wiki/Cheetah "wikilink")
 
 ## 成員
 
@@ -148,42 +149,42 @@ ONE、Facebook和Twitter的帳號後，經由《PRODUCE
 
   - 成員出場介紹並自由選擇排名1-101的座位，依照經紀公司分組進行表演後，由主持人及導師群分配至最佳的A級到最差的F級。分級不受經紀公司團體所限，每位練習生依表現得到相應的分級，再給予相應程度的練習課程。
 
-| 第一集節目內容                                      |
-| -------------------------------------------- |
-| 經紀公司                                         |
-| [STARSHIP](../Page/STARSHIP娛樂.md "wikilink") |
-| 沈彩恩                                          |
-| 俞璉靜                                          |
-| REDLINE                                      |
-| MBK                                          |
-| 金岱妮                                          |
-| 鄭彩娟                                          |
-| Jellyfish                                    |
-| 金娜英                                          |
-| 金世正                                          |
-| [Cube](../Page/CUBE.md "wikilink")           |
-| 李允書                                          |
-| 田小娟                                          |
-| [DSP](../Page/DSP媒體.md "wikilink")           |
-| 曹時倫                                          |
-| CANI STAR                                    |
-| ECUBE MEDIA                                  |
-| STAR PLANET                                  |
-| M2 project                                   |
-| 个人练习生                                        |
-| 成惠珉                                          |
-| \&August                                     |
-| Duble Kick                                   |
-| [PLEDIS](../Page/Pledis娛樂.md "wikilink")     |
-| 姜藝彬                                          |
-| 金珉京                                          |
-| 朴施妍                                          |
-| 林娜榮                                          |
-| 鄭銀雨                                          |
-| 周潔瓊                                          |
-| [JYP](../Page/JYP.md "wikilink")             |
-| [music K](../Page/Keyeast.md "wikilink")     |
-|                                              |
+| 第一集節目內容                                               |
+| ----------------------------------------------------- |
+| 經紀公司                                                  |
+| [STARSHIP](../Page/STARSHIP娛樂.md "wikilink")          |
+| 沈彩恩                                                   |
+| 俞璉靜                                                   |
+| REDLINE                                               |
+| MBK                                                   |
+| 金岱妮                                                   |
+| 鄭彩娟                                                   |
+| Jellyfish                                             |
+| 金娜英                                                   |
+| 金世正                                                   |
+| [Cube](https://zh.wikipedia.org/wiki/CUBE "wikilink") |
+| 李允書                                                   |
+| 田小娟                                                   |
+| [DSP](../Page/DSP媒體.md "wikilink")                    |
+| 曹時倫                                                   |
+| CANI STAR                                             |
+| ECUBE MEDIA                                           |
+| STAR PLANET                                           |
+| M2 project                                            |
+| 个人练习生                                                 |
+| 成惠珉                                                   |
+| \&August                                              |
+| Duble Kick                                            |
+| [PLEDIS](../Page/Pledis娛樂.md "wikilink")              |
+| 姜藝彬                                                   |
+| 金珉京                                                   |
+| 朴施妍                                                   |
+| 林娜榮                                                   |
+| 鄭銀雨                                                   |
+| 周潔瓊                                                   |
+| [JYP](https://zh.wikipedia.org/wiki/JYP "wikilink")   |
+| [music K](../Page/Keyeast.md "wikilink")              |
+|                                                       |
 
 | 第一集排名 |
 | ----- |
@@ -363,7 +364,7 @@ ONE、Facebook和Twitter的帳號後，經由《PRODUCE
 <td><p>CHOROK BAEM JUNA</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/LOEN娛樂.md" title="wikilink">LOEN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2ABLE</p></td>
@@ -726,7 +727,7 @@ Conquer</p></td>
 <td><p>Kconic</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/少女時代.md" title="wikilink">少女時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2ABLE</p></td>
@@ -1146,7 +1147,7 @@ Baobao</p></td>
 <td><p>BLESSING</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/miss_A.md" title="wikilink">miss A</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Kconic</p></td>
@@ -1177,7 +1178,7 @@ Baobao</p></td>
 <td><p>ANNYEONG MUSIC</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>BLESSING</p></td>
@@ -1302,7 +1303,7 @@ PRO</p></td>
 | 11     |
 
   - 第一次排名儀式 ( 特別MC ( 轉播席 )
-    ：[申寶羅](../Page/申寶羅.md "wikilink")、[齡智](../Page/許齡智.md "wikilink")、[朴經](../Page/朴經.md "wikilink")
+    ：[申寶羅](https://zh.wikipedia.org/wiki/申寶羅 "wikilink")、[齡智](../Page/許齡智.md "wikilink")、[朴經](../Page/朴經.md "wikilink")
     ( [Block B](../Page/Block_B.md "wikilink") ) )
 
 <table>
@@ -1628,40 +1629,40 @@ PRO</p></td>
 
   - 位置評價。練習生從唱歌、RAP、跳舞中選擇其中一個類別的一首歌，依照排名順序選擇歌曲。每一個類別裡票數最高的練習生獲得十萬票。
 
-| 第六集節目內容 ( Vocal組 )                                                         |
-| -------------------------------------------------------------------------- |
-| 原唱                                                                         |
-| [BIGBANG](../Page/BIGBANG.md "wikilink")                                   |
-| Pledis                                                                     |
-| SS                                                                         |
-| Pledis                                                                     |
-| Fantagio                                                                   |
-| Kconic                                                                     |
-| [Zion.T](../Page/Zion.T.md "wikilink")                                     |
-| Jellyfish                                                                  |
-| DSP                                                                        |
-| M\&H                                                                       |
-| [GFRIEND](../Page/GFRIEND.md "wikilink")                                   |
-| Star Empire                                                                |
-| Pledis                                                                     |
-| Fantagio                                                                   |
-| SS                                                                         |
-| Tashannie                                                                  |
-| STARSHIP                                                                   |
-| DSP                                                                        |
-| \&August                                                                   |
-| Tipping                                                                    |
-| Fantagio                                                                   |
-| [EXO](../Page/EXO.md "wikilink")                                           |
-| MUSIC WORKS                                                                |
-| MAJESTY                                                                    |
-| [許閣](../Page/許閣.md "wikilink")、[John Park](../Page/約翰•安德魯•朴.md "wikilink") |
-| SHOW WORKS                                                                 |
-| Kconic                                                                     |
-| MIDAS                                                                      |
-| 个人练习生                                                                      |
-| <big>Vocal組第一名</big>                                                       |
-|                                                                            |
+| 第六集節目內容 ( Vocal組 )                                                                            |
+| --------------------------------------------------------------------------------------------- |
+| 原唱                                                                                            |
+| [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")                                   |
+| Pledis                                                                                        |
+| SS                                                                                            |
+| Pledis                                                                                        |
+| Fantagio                                                                                      |
+| Kconic                                                                                        |
+| [Zion.T](../Page/Zion.T.md "wikilink")                                                        |
+| Jellyfish                                                                                     |
+| DSP                                                                                           |
+| M\&H                                                                                          |
+| [GFRIEND](../Page/GFRIEND.md "wikilink")                                                      |
+| Star Empire                                                                                   |
+| Pledis                                                                                        |
+| Fantagio                                                                                      |
+| SS                                                                                            |
+| Tashannie                                                                                     |
+| STARSHIP                                                                                      |
+| DSP                                                                                           |
+| \&August                                                                                      |
+| Tipping                                                                                       |
+| Fantagio                                                                                      |
+| [EXO](../Page/EXO.md "wikilink")                                                              |
+| MUSIC WORKS                                                                                   |
+| MAJESTY                                                                                       |
+| [許閣](../Page/許閣.md "wikilink")、[John Park](https://zh.wikipedia.org/wiki/約翰•安德魯•朴 "wikilink") |
+| SHOW WORKS                                                                                    |
+| Kconic                                                                                        |
+| MIDAS                                                                                         |
+| 个人练习生                                                                                         |
+| <big>Vocal組第一名</big>                                                                          |
+|                                                                                               |
 
 | 第六集排名 |
 | ----- |
@@ -1732,49 +1733,49 @@ PRO</p></td>
 
   - 延續上一集繼續進行位置評價。
 
-| 第七集節目內容 ( Rap組 )                   |
-| ---------------------------------- |
-| 原唱                                 |
-| [iKON](../Page/iKON.md "wikilink") |
-| CHOROK BAEM JUNA                   |
-| Star Empire                        |
-| Verbal Jint                        |
-| Kconic                             |
-| Happy Face                         |
-| Paloalto                           |
-| Happy Face                         |
-| Cube                               |
-| STARSHIP                           |
-| <big>RAP組第一名</big>                 |
-|                                    |
+| 第七集節目內容 ( Rap組 )                                      |
+| ----------------------------------------------------- |
+| 原唱                                                    |
+| [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink") |
+| CHOROK BAEM JUNA                                      |
+| Star Empire                                           |
+| Verbal Jint                                           |
+| Kconic                                                |
+| Happy Face                                            |
+| Paloalto                                              |
+| Happy Face                                            |
+| Cube                                                  |
+| STARSHIP                                              |
+| <big>RAP組第一名</big>                                    |
+|                                                       |
 
-| 第七集節目內容 ( Dance組 )                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 原唱                                                                                                                                               |
-| [李善美](../Page/李善美.md "wikilink")                                                                                                                 |
-| Pledis                                                                                                                                           |
-| REDLINE                                                                                                                                          |
-| [Destiny's Child](../Page/天命真女.md "wikilink")                                                                                                    |
-| Jellyfish                                                                                                                                        |
-| 个人练习生                                                                                                                                            |
-| 个人练习生                                                                                                                                            |
-| Cube                                                                                                                                             |
-| [Jessie J](../Page/Jessie_J.md "wikilink")、[Ariana Grande](../Page/Ariana_Grande.md "wikilink")、[Nicki Minaj](../Page/Nicki_Minaj.md "wikilink") |
-| JYP                                                                                                                                              |
-| Fantagio                                                                                                                                         |
-| Fantagio                                                                                                                                         |
-| 个人练习生                                                                                                                                            |
-| M\&H                                                                                                                                             |
-| Cube                                                                                                                                             |
-| [EXO](../Page/EXO.md "wikilink")                                                                                                                 |
-| YAMA\&HOTCHICKS                                                                                                                                  |
-| CANI STAR                                                                                                                                        |
-| 个人练习生                                                                                                                                            |
-| MJ                                                                                                                                               |
-| 2ABLE                                                                                                                                            |
-| Astory                                                                                                                                           |
-| <big>DANCE組第一名</big>                                                                                                                             |
-|                                                                                                                                                  |
+| 第七集節目內容 ( Dance組 )                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 原唱                                                                                                                                                                                                        |
+| [李善美](https://zh.wikipedia.org/wiki/李善美 "wikilink")                                                                                                                                                       |
+| Pledis                                                                                                                                                                                                    |
+| REDLINE                                                                                                                                                                                                   |
+| [Destiny's Child](../Page/天命真女.md "wikilink")                                                                                                                                                             |
+| Jellyfish                                                                                                                                                                                                 |
+| 个人练习生                                                                                                                                                                                                     |
+| 个人练习生                                                                                                                                                                                                     |
+| Cube                                                                                                                                                                                                      |
+| [Jessie J](https://zh.wikipedia.org/wiki/Jessie_J "wikilink")、[Ariana Grande](https://zh.wikipedia.org/wiki/Ariana_Grande "wikilink")、[Nicki Minaj](https://zh.wikipedia.org/wiki/Nicki_Minaj "wikilink") |
+| JYP                                                                                                                                                                                                       |
+| Fantagio                                                                                                                                                                                                  |
+| Fantagio                                                                                                                                                                                                  |
+| 个人练习生                                                                                                                                                                                                     |
+| M\&H                                                                                                                                                                                                      |
+| Cube                                                                                                                                                                                                      |
+| [EXO](../Page/EXO.md "wikilink")                                                                                                                                                                          |
+| YAMA\&HOTCHICKS                                                                                                                                                                                           |
+| CANI STAR                                                                                                                                                                                                 |
+| 个人练习生                                                                                                                                                                                                     |
+| MJ                                                                                                                                                                                                        |
+| 2ABLE                                                                                                                                                                                                     |
+| Astory                                                                                                                                                                                                    |
+| <big>DANCE組第一名</big>                                                                                                                                                                                      |
+|                                                                                                                                                                                                           |
 
 ### 第八集
 
@@ -2364,7 +2365,7 @@ PRO</p></td>
 
 播出日期：2016年4月15日
 
-  - 幕後花絮特輯 \[2\]
+  - 幕後花絮特輯 \[3\]
 
 ## 排名
 
@@ -2510,9 +2511,9 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p><a href="../Page/金請夏.md" title="wikilink">金請夏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a></p></td>
 <td><p>김청하</p></td>
-<td><p><a href="../Page/M&amp;H娛樂.md" title="wikilink">M&amp;H</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M&amp;H娛樂" title="wikilink">M&amp;H</a></p></td>
 <td></td>
 <td></td>
 <td><p>37</p></td>
@@ -2594,7 +2595,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>56</p></td>
-<td><p><a href="../Page/娜榮.md" title="wikilink">林娜荣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娜榮" title="wikilink">林娜荣</a></p></td>
 <td><p>임나영</p></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis</a></p></td>
 <td></td>
@@ -2636,7 +2637,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>65</p></td>
-<td><p><a href="../Page/韓慧里.md" title="wikilink">韓慧里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓慧里" title="wikilink">韓慧里</a></p></td>
 <td><p>한혜리</p></td>
 <td><p><a href="../Page/明星帝國娛樂.md" title="wikilink">Star Empire</a></p></td>
 <td></td>
@@ -2650,7 +2651,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>61</p></td>
-<td><p><a href="../Page/李秀炫.md" title="wikilink">李秀炫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李秀炫" title="wikilink">李秀炫</a></p></td>
 <td><p>이수현</p></td>
 <td><p>SS</p></td>
 <td></td>
@@ -2664,7 +2665,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p><a href="../Page/娜英.md" title="wikilink">金娜英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娜英" title="wikilink">金娜英</a></p></td>
 <td><p>김나영</p></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish</a></p></td>
 <td></td>
@@ -2678,7 +2679,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>77</p></td>
-<td><p><a href="../Page/金昭希_(歌手).md" title="wikilink">金昭希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金昭希_(歌手)" title="wikilink">金昭希</a></p></td>
 <td><p>김소희</p></td>
 <td></td>
 <td></td>
@@ -2706,7 +2707,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>62</p></td>
-<td><p><a href="../Page/李海印.md" title="wikilink">李海印</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李海印" title="wikilink">李海印</a></p></td>
 <td><p>이해인</p></td>
 <td><p>SS</p></td>
 <td></td>
@@ -2722,7 +2723,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 <td><p>28</p></td>
 <td><p>朴昭妍</p></td>
 <td><p>박소연</p></td>
-<td><p><a href="../Page/LOEN娛樂.md" title="wikilink">LOEN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN</a></p></td>
 <td></td>
 <td></td>
 <td><p>30</p></td>
@@ -2734,7 +2735,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
-<td><p><a href="../Page/喜賢.md" title="wikilink">奇喜贤</a></p></td>
+<td><p><a href="../Page/奇熙賢.md" title="wikilink">奇熙賢</a></p></td>
 <td><p>기희현</p></td>
 <td><p><a href="../Page/MBK娛樂.md" title="wikilink">MBK</a></p></td>
 <td></td>
@@ -2748,7 +2749,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="../Page/田小娟.md" title="wikilink">田小娟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
 <td><p>전소연</p></td>
 <td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube</a></p></td>
 <td></td>
@@ -2762,7 +2763,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>57</p></td>
-<td><p>郑银雨</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郑银雨" title="wikilink">郑银雨</a></p></td>
 <td><p>정은우</p></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis</a></p></td>
 <td></td>
@@ -2776,7 +2777,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>91</p></td>
-<td><p><a href="../Page/姜诗罗.md" title="wikilink">姜诗罗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜诗罗" title="wikilink">姜诗罗</a></p></td>
 <td><p>강시라</p></td>
 <td><p>CHUNGCHUN MUSIC</p></td>
 <td></td>
@@ -2832,7 +2833,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>55</p></td>
-<td><p><a href="../Page/施妍.md" title="wikilink">朴施妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/施妍" title="wikilink">朴施妍</a></p></td>
 <td><p>박시연</p></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis</a></p></td>
 <td></td>
@@ -2958,7 +2959,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
-<td><p><a href="../Page/金珠娜.md" title="wikilink">金珠娜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金珠娜" title="wikilink">金珠娜</a></p></td>
 <td><p>김주나</p></td>
 <td><p><a href="../Page/Music_K娛樂.md" title="wikilink">Music K</a></p></td>
 <td></td>
@@ -2972,7 +2973,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="../Page/權恩彬.md" title="wikilink">權恩彬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權恩彬" title="wikilink">權恩彬</a></p></td>
 <td><p>권은빈</p></td>
 <td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube</a></p></td>
 <td></td>
@@ -3028,7 +3029,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>95</p></td>
-<td><p><a href="../Page/朴海泳.md" title="wikilink">朴海泳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴海泳" title="wikilink">朴海泳</a></p></td>
 <td><p>박해영</p></td>
 <td><p>2ABLE</p></td>
 <td></td>
@@ -3056,7 +3057,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>70</p></td>
-<td><p>金施賢</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金施賢" title="wikilink">金施賢</a></p></td>
 <td><p>김시현</p></td>
 <td><p>个人练习生</p></td>
 <td></td>
@@ -3184,7 +3185,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 <td><p>33</p></td>
 <td><p>吴书晶</p></td>
 <td><p>오서정</p></td>
-<td><p><a href="../Page/M&amp;H娛樂.md" title="wikilink">M&amp;H</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M&amp;H娛樂" title="wikilink">M&amp;H</a></p></td>
 <td></td>
 <td></td>
 <td><p>51</p></td>
@@ -3196,7 +3197,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>85</p></td>
-<td><p>金泰河</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰河" title="wikilink">金泰河</a></p></td>
 <td><p>김태하</p></td>
 <td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
 <td></td>
@@ -3337,7 +3338,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>86</p></td>
-<td><p><a href="../Page/沈彩恩.md" title="wikilink">沈彩恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈彩恩" title="wikilink">沈彩恩</a></p></td>
 <td><p>심채은</p></td>
 <td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
 <td></td>
@@ -3351,7 +3352,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>63</p></td>
-<td><p><a href="../Page/姜詩賢.md" title="wikilink">姜詩賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜詩賢" title="wikilink">姜詩賢</a></p></td>
 <td><p>강시현</p></td>
 <td><p><a href="../Page/明星帝國娛樂.md" title="wikilink">Star Empire</a></p></td>
 <td></td>
@@ -3437,7 +3438,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 <td><p>51</p></td>
 <td><p>黄利宥</p></td>
 <td><p>황리유</p></td>
-<td><p><a href="../Page/NH媒体.md" title="wikilink">Nh emg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NH媒体" title="wikilink">Nh emg</a></p></td>
 <td></td>
 <td></td>
 <td><p>96</p></td>
@@ -3604,7 +3605,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>34</p></td>
-<td><p><a href="../Page/片姜允.md" title="wikilink">片姜允</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/片姜允" title="wikilink">片姜允</a></p></td>
 <td><p>편강윤</p></td>
 <td><p>M2 project</p></td>
 <td></td>
@@ -3977,7 +3978,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 <td><p>數位單曲《<strong>PRODUCE 101 - PICK ME</strong>》</p>
 <ul>
 <li>發行日期：2015年12月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>組合名稱：PRODUCE 101</li>
 </ul></td>
 <td></td>
@@ -3987,7 +3988,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 <td><p>數位專輯《<strong>PRODUCE 101 - 35 Girls 5 Concepts</strong>》</p>
 <ul>
 <li>發行日期：2016年3月19日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>組合名稱：Make Some Noise、Pinkrush、화려강산、마카롱 꿀떡、소녀온탑</li>
 </ul></td>
 <td></td>
@@ -4006,12 +4007,12 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 
 ### 演出
 
-| 日期          | 活動名稱                                                       | 地點    | 參加人員                                                                                                                                                                                                                                                                                                                           |
-| ----------- | ---------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2016年1月10日  | [KBL](../Page/韓國籃球聯賽.md "wikilink") NBA全明星賽（KBL 프로농구 올스타전） | \-    | 全員（金荷允、任京荷、林孝宣、馬恩珍除外）                                                                                                                                                                                                                                                                                                          |
-| 2016年3月26日  | 游擊演唱會                                                      | 大邱東城路 | 最終排名的前22名成員                                                                                                                                                                                                                                                                                                                    |
-| 2017年11月30日 | 2017 MAMA Japan                                            | 日本橫濱  | [金請夏](../Page/金請夏.md "wikilink")、[PRISTIN](../Page/PRISTIN.md "wikilink")（[林娜榮](../Page/林娜榮.md "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、朴施妍、金珉炅、姜京元、姜睿彬、鄭銀雨）、[Weki Meki](../Page/Weki_Meki.md "wikilink")（[磪有情](../Page/磪有情.md "wikilink")、[金度延](../Page/金度延.md "wikilink")、鄭海琳、李書靜）、[李海印](../Page/李海印.md "wikilink")\[3\] |
-|             |                                                            |       |                                                                                                                                                                                                                                                                                                                                |
+| 日期          | 活動名稱                                                       | 地點    | 參加人員                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------- | ---------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2016年1月10日  | [KBL](../Page/韓國籃球聯賽.md "wikilink") NBA全明星賽（KBL 프로농구 올스타전） | \-    | 全員（金荷允、任京荷、林孝宣、馬恩珍除外）                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2016年3月26日  | 游擊演唱會                                                      | 大邱東城路 | 最終排名的前22名成員                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2017年11月30日 | 2017 MAMA Japan                                            | 日本橫濱  | [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")（[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、朴施妍、金珉炅、姜京元、姜睿彬、鄭銀雨）、[Weki Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")（[磪有情](../Page/磪有情.md "wikilink")、[金度延](../Page/金度延.md "wikilink")、鄭海琳、李書靜）、[李海印](https://zh.wikipedia.org/wiki/李海印 "wikilink")\[4\] |
+|             |                                                            |       |                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## 收視率
 
@@ -4121,5 +4122,8 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
 
 1.  <http://entertain.naver.com/read?oid=108&aid=0002592584>
-2.  [프로듀스 101 비하인드](http://www.mnet.com/tv/vod/173107) Mnet
-3.  偶像學校育成成員名義
+2.   Mira
+    咪拉|url=[https://www.youtube.com/watch?v=-tgrDvCN7C8\&t=5s|date=2019-04-25|accessdate=2019-04-29|last=Mira's](https://www.youtube.com/watch?v=-tgrDvCN7C8&t=5s%7Cdate=2019-04-25%7Caccessdate=2019-04-29%7Clast=Mira's)
+    Garden}}
+3.  [프로듀스 101 비하인드](http://www.mnet.com/tv/vod/173107) Mnet
+4.  偶像學校育成成員名義

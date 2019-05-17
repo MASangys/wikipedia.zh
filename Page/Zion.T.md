@@ -1,4 +1,4 @@
-**Zion.T**（，），原名**金海率**（音譯，），[韓國男歌手](../Page/韓國.md "wikilink")。他從與其他歌手合作開始他的職業生涯，並推出廣受好評的個人專輯\[1\]。[MTV伊基將其](../Page/MTV.md "wikilink")2013年的正規專輯《Red
+**Zion.T**（，），原名**金海率**（音譯，），[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")。他從與其他歌手合作開始他的職業生涯，並推出廣受好評的個人專輯\[1\]。[MTV伊基將其](https://zh.wikipedia.org/wiki/MTV "wikilink")2013年的正規專輯《Red
 Light》稱作「2013年度最佳R\&B/靈魂專輯」\[2\]。
 
 ## 介紹
@@ -107,7 +107,7 @@ click me click, click me」。與其說是歌手，Zion. T
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>11th</strong></p></td>
-<td style="text-align: left;"><p>《<strong>눈(SNOW)</strong>》（<a href="../Page/李文世.md" title="wikilink">李文世</a>）</p>
+<td style="text-align: left;"><p>《<strong>눈(SNOW)</strong>》（<a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a>）</p>
 <ul>
 <li>發行日期：2017年12月4日</li>
 <li>語言：韓語</li>
@@ -141,7 +141,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <td style="text-align: left;"><p>第二張迷你專輯《<strong>OO</strong>》</p>
 <ul>
 <li>發行日期：2017年2月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -164,7 +164,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <td style="text-align: left;"><p>首張專輯《<strong>Red Light</strong>》</p>
 <ul>
 <li>發行日期：2013年4月9日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -195,7 +195,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>2012</p></td>
 <td><p>5月16日</p></td>
 <td><p>忘記（깜빡)</p></td>
-<td><p><a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>( Feat.、Zion.T )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>( Feat.、Zion.T )</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -230,13 +230,13 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>2013</p></td>
 <td><p>1月11日</p></td>
 <td><p>Without You</p></td>
-<td><p><a href="../Page/INFINITE_H.md" title="wikilink">INFINITE H</a>( Feat. Zion.T )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_H" title="wikilink">INFINITE H</a>( Feat. Zion.T )</p></td>
 <td><p>Fly High</p></td>
 </tr>
 <tr class="even">
 <td><p>8月11日</p></td>
 <td><p>A Real Lady</p></td>
-<td><p>( Feat.、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、Zion.T )</p></td>
+<td><p>( Feat.、<a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>、Zion.T )</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -244,13 +244,13 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>2014</p></td>
 <td><p>5月21日</p></td>
 <td><p>Go Hard</p></td>
-<td><p><a href="../Page/ILLIONAIRE_RECORDS.md" title="wikilink">ILLIONAIRE RECORDS</a>( Feat. Zion.T )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS" title="wikilink">ILLIONAIRE RECORDS</a>( Feat. Zion.T )</p></td>
 <td><p>11:11</p></td>
 </tr>
 <tr class="even">
 <td><p>10月15日</p></td>
 <td><p>No make up(화장 지웠어)</p></td>
-<td><p>( Feat. Zion.T、<a href="../Page/譽恩.md" title="wikilink">譽恩</a> )</p></td>
+<td><p>( Feat. Zion.T、<a href="https://zh.wikipedia.org/wiki/譽恩" title="wikilink">譽恩</a> )</p></td>
 <td><p>REDINGRAY</p></td>
 <td></td>
 </tr>
@@ -278,7 +278,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="even">
 <td><p>5月27日</p></td>
 <td><p>SOLD OUT</p></td>
-<td><p>( Feat. <a href="../Page/Tablo.md" title="wikilink">Tablo</a>、<a href="../Page/Loco.md" title="wikilink">Loco</a>、Zion.T )</p></td>
+<td><p>( Feat. <a href="https://zh.wikipedia.org/wiki/Tablo" title="wikilink">Tablo</a>、<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、Zion.T )</p></td>
 <td><p>Andre</p></td>
 <td></td>
 </tr>
@@ -292,14 +292,14 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="even">
 <td><p>10月23日</p></td>
 <td><p>Red Queen</p></td>
-<td><p><a href="../Page/IU_(歌手).md" title="wikilink">IU</a>( Feat. Zion.T )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a>( Feat. Zion.T )</p></td>
 <td><p>Chat-Shire</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10月27日</p></td>
 <td><p>一週(247)</p></td>
-<td><p><a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>( Feat. <a href="../Page/DEAN.md" title="wikilink">DEAN</a>、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>、Zion.T )</p></td>
+<td><p><a href="../Page/鄭基高.md" title="wikilink">鄭基高</a>( Feat. <a href="https://zh.wikipedia.org/wiki/DEAN" title="wikilink">DEAN</a>、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>、Zion.T )</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -313,7 +313,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="odd">
 <td><p>12月6日</p></td>
 <td><p>Eureka(유레카)</p></td>
-<td><p><a href="../Page/Zico_(歌手).md" title="wikilink">Zico</a>( Feat.Zion.T )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>( Feat.Zion.T )</p></td>
 <td><p>Gallery</p></td>
 <td></td>
 </tr>
@@ -321,28 +321,28 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>2016</p></td>
 <td><p>6月10日</p></td>
 <td><p>MACHINE GUN</p></td>
-<td><p>&amp; Zion.T(Feat. <a href="../Page/宋旻浩.md" title="wikilink">宋旻浩</a>)</p></td>
-<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a><br />
+<td><p>&amp; Zion.T(Feat. <a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a><br />
 製作人特別舞台</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月17日</p></td>
 <td><p>신사($insa)</p></td>
-<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> &amp;  &amp; (Feat. Zion.T)</p></td>
-<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> &amp;  &amp; (Feat. Zion.T)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月1日</p></td>
 <td><p>鼓手 (Drummer)</p></td>
 <td><p>(Feat. Zion.T、)</p></td>
-<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月28日</p></td>
 <td><p>味道 Flavor</p></td>
-<td><p><a href="../Page/方大同.md" title="wikilink">方大同</a>( Feat. Zion.T、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a> )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a>( Feat. Zion.T、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a> )</p></td>
 <td><p>JTW 西遊記</p></td>
 <td></td>
 </tr>
@@ -350,8 +350,8 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>2017</p></td>
 <td><p>9月1日</p></td>
 <td><p>bestdriverZ</p></td>
-<td><p>( Feat. <a href="../Page/DEAN.md" title="wikilink">DEAN</a>、Zion.T )</p></td>
-<td><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a><br />
+<td><p>( Feat. <a href="https://zh.wikipedia.org/wiki/DEAN" title="wikilink">DEAN</a>、Zion.T )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a><br />
 總決賽表演曲</p></td>
 </tr>
 <tr class="odd">
@@ -366,11 +366,11 @@ click me click, click me」。與其說是歌手，Zion. T
 
 ### OST
 
-| 年份   | 發布日期   | 劇名                                         | 歌曲名稱    |
-| ---- | ------ | ------------------------------------------ | ------- |
-| 2014 | 12月24日 | 《[皮諾丘](../Page/皮諾丘_\(電視劇\).md "wikilink")》 | Kiss Me |
-| 2018 | 1月11日  | 《[機智牢房生活](../Page/機智牢房生活.md "wikilink")》   | 一天日程    |
-|      |        |                                            |         |
+| 年份   | 發布日期   | 劇名                                                            | 歌曲名稱    |
+| ---- | ------ | ------------------------------------------------------------- | ------- |
+| 2014 | 12月24日 | 《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")》 | Kiss Me |
+| 2018 | 1月11日  | 《[機智牢房生活](https://zh.wikipedia.org/wiki/機智牢房生活 "wikilink")》   | 一天日程    |
+|      |        |                                                               |         |
 
 ## 綜藝節目
 
@@ -390,17 +390,17 @@ click me click, click me」。與其說是歌手，Zion. T
 </tr>
 <tr class="even">
 <td><p>2012年9月8日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>《<a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a>》 E65</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年11月16日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E166</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E166</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年12月29日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>《<a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a>》 E81</p></td>
 </tr>
 <tr class="odd">
@@ -410,32 +410,32 @@ click me click, click me」。與其說是歌手，Zion. T
 </tr>
 <tr class="even">
 <td><p>2013年10月4日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E205</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E205</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年11月14日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《》 E03</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年10月17日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E246</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E246</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年2月6日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E260</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E260</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年1月13日、2月17日、3月3日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p>《<a href="../Page/4種秀.md" title="wikilink">4種秀</a>》 E01、E06、E08 總整理篇</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/4種秀" title="wikilink">4種秀</a>》 E01、E06、E08 總整理篇</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年2月15日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Yaman_TV.md" title="wikilink">Yaman TV</a>》 E05</p></td>
 </tr>
 <tr class="even">
@@ -450,43 +450,43 @@ click me click, click me」。與其說是歌手，Zion. T
 </tr>
 <tr class="even">
 <td><p>2015年7月3日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E280</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E280</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年7月4日-8月22日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a>：<a href="../Page/無限挑戰_嶺東高速公路歌謠祭.md" title="wikilink">2015無限挑戰歌謠祭</a>》 E435-E442</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年8月27日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>《》 E02</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年9月2日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/黄金渔场_Radio_Star.md" title="wikilink">黄金渔场 Radio Star</a>》 E443</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年2月13日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a>：介·醜·朋慶典2（中）》 E467 祝賀表演</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年5月3日</p></td>
-<td><p><a href="../Page/tvN.md" title="wikilink">tvN</a></p></td>
-<td><p>《<a href="../Page/現場脫口秀Taxi.md" title="wikilink">現場脫口秀Taxi</a>》 E426</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/現場脫口秀Taxi" title="wikilink">現場脫口秀Taxi</a>》 E426</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年5月13日-7月15日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p>《<a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a>》 E01-E10</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a>》 E01-E10</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年6月8日-6月15日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="../Page/Vocal_戰爭：神的聲音.md" title="wikilink">Vocal戰爭-神的聲音</a>》 E09-E10</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Vocal_戰爭：神的聲音" title="wikilink">Vocal戰爭-神的聲音</a>》 E09-E10</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年10月23日、11月6日</p></td>
@@ -495,63 +495,63 @@ click me click, click me」。與其說是歌手，Zion. T
 </tr>
 <tr class="odd">
 <td><p>2016年11月26日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E343</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E343</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年2月12日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E351</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E351</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年2月17日</p></td>
-<td><p><a href="../Page/MBS.md" title="wikilink">MBS</a></p></td>
-<td><p>《<a href="../Page/我獨自生活.md" title="wikilink">我獨自生活</a>》 E197</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/我獨自生活" title="wikilink">我獨自生活</a>》 E197</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年3月26日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p>《<a href="../Page/柳熙烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a>》 E357</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳喜烈的寫生簿</a>》 E357</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年5月17日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/黄金渔场_Radio_Star.md" title="wikilink">黄金渔场 Radio Star</a>》 E527</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年10月28日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="../Page/MIXNINE.md" title="wikilink">MIXNINE</a>》 Showcase</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/MIXNINE" title="wikilink">MIXNINE</a>》 Showcase</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年11月5日、11月26日-12月3日、2017年12月17日、2018年1月26日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="../Page/MIXNINE.md" title="wikilink">MIXNINE</a>》 E02、E05-E06、E08-E09、E14</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/MIXNINE" title="wikilink">MIXNINE</a>》 E02、E05-E06、E08-E09、E14</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年12月6日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="../Page/請給一頓飯Show.md" title="wikilink">請給一頓飯Show</a>》 E59</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/請給一頓飯Show" title="wikilink">請給一頓飯Show</a>》 E59</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月7日</p></td>
 <td><p><a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
-<td><p>《<a href="../Page/人生酒館.md" title="wikilink">人生酒館</a>》 E48</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/人生酒館" title="wikilink">人生酒館</a>》 E48</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年12月10日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a>》 E36</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Fantastic_Duo_2" title="wikilink">Fantastic Duo 2</a>》 E36</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月20日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="../Page/黄金渔场_Radio_Star.md" title="wikilink">黄金渔场 Radio Star</a>》 E548</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年2月26日、3月5日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p>《<a href="../Page/平凡的英雄.md" title="wikilink">平凡的英雄</a>》 E01-E02</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/平凡的英雄" title="wikilink">平凡的英雄</a>》 E01-E02</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年8月26日</p></td>
@@ -653,7 +653,7 @@ click me click, click me」。與其說是歌手，Zion. T
 </tr>
 <tr class="odd">
 <td><center>
-<p>第30屆韓國<a href="../Page/金唱片獎.md" title="wikilink">金唱片獎</a></p></td>
+<p>第30屆韓國<a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
 <td><p>本賞（音源部門）</p></td>
 <td></td>
 <td></td>
@@ -685,16 +685,16 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>2月14日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td><p>正好（與Crush）</p></td>
 <td><p>1位</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>12月17日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>Snow</p></td>
 <td><p>1位</p></td>
 </tr>

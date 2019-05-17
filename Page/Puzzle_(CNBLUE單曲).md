@@ -1,4 +1,4 @@
-《**Puzzle**》是[韓國搖滾樂團](../Page/韓國.md "wikilink")[CNBLUE的第十三張單曲](../Page/CNBLUE.md "wikilink")，第十張出道單曲，由韓承勳（）、[鄭容和](../Page/鄭容和.md "wikilink")、[高進永](../Page/高進永.md "wikilink")（）作曲；長谷川作詞，並在2016年5月11日以四個不同版本推出，由[日本華納唱片發行](../Page/日本華納音樂.md "wikilink")\[1\]。
+《**Puzzle**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第十三張單曲](../Page/CNBLUE.md "wikilink")，第十張出道單曲，由韓承勳（）、[鄭容和](../Page/鄭容和.md "wikilink")、[高進永](https://zh.wikipedia.org/wiki/高進永 "wikilink")（）作曲；長谷川作詞，並在2016年5月11日以四個不同版本推出，由[日本華納唱片發行](../Page/日本華納音樂.md "wikilink")\[1\]。
 
 ## 背景
 
@@ -18,7 +18,7 @@ LIVE 2016 ～We’re like a puzzle～》演唱會\[5\]。
 
   - 初回限定盤B（編號：WPZL-31177/8）：這版本包括了一片收錄了《Be my love》的純音樂版本的單曲CD、一片收錄《2015
     ARENA TOUR \~Be a Supernova\~ @[OSAKA-JO
-    HALL](../Page/大阪城音樂廳.md "wikilink")》音樂會片段的DVD\[7\]。
+    HALL](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")》音樂會片段的DVD\[7\]。
 
 <!-- end list -->
 
@@ -45,10 +45,10 @@ LIVE 2016 ～We’re like a puzzle～》演唱會\[5\]。
 
 ## 發行歷史
 
-| 地區                             | 日期         | 格式                                                                        | 廠牌                                             |
-| ------------------------------ | ---------- | ------------------------------------------------------------------------- | ---------------------------------------------- |
-| [日本](../Page/日本.md "wikilink") | 2016年5月11日 | [CD](../Page/CD.md "wikilink")\[11\]、[數位下載](../Page/數位音樂下載.md "wikilink") | [華納音樂 (日本)](../Page/日本華納音樂.md "wikilink")      |
-| [台灣](../Page/台灣.md "wikilink") | 2016年6月3日  | CD+DVD\[12\]                                                              | [華納音樂 (台灣)](../Page/華納音樂_\(台灣\).md "wikilink") |
+| 地區                                                | 日期         | 格式                                                                        | 廠牌                                             |
+| ------------------------------------------------- | ---------- | ------------------------------------------------------------------------- | ---------------------------------------------- |
+| [日本](../Page/日本.md "wikilink")                    | 2016年5月11日 | [CD](../Page/CD.md "wikilink")\[11\]、[數位下載](../Page/數位音樂下載.md "wikilink") | [華納音樂 (日本)](../Page/日本華納音樂.md "wikilink")      |
+| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") | 2016年6月3日  | CD+DVD\[12\]                                                              | [華納音樂 (台灣)](../Page/華納音樂_\(台灣\).md "wikilink") |
 
 ## 參考資料
 

@@ -1,5 +1,6 @@
-《**NATURAL BORN TEEN TOP**》是[韓國的男子組合](../Page/韓國.md "wikilink")[TEEN
-TOP第](../Page/TEEN_TOP.md "wikilink")6枚迷你韓語專輯，於2015年6月22日發行，主打歌曲為《從早上到早上》（）\[1\]。
+《**NATURAL BORN TEEN
+TOP**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN
+TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")6枚迷你韓語專輯，於2015年6月22日發行，主打歌曲為《從早上到早上》（）\[1\]。
 
 ## 背景
 
@@ -16,7 +17,7 @@ TOP》將在6月22日推出，同時釋放專輯團體概念照片及L.Joe、天
 MUSIC獨家公開另一組個人概念照\[6\]；次日（6月13日），新一套稱為「DREAM」版本的團體造型照在官方Facebook發布\[7\]。
 
 6月14日，TEEN
-TOP成員利用自拍在[SNS透露了主打歌曲名稱是](../Page/SNS.md "wikilink")《從早上到早上》\[8\]，後於6月15日公開完整專輯曲目名單和發行版本（PASSION版、DREAM版）\[9\]；而主打歌曲的預告影片則分別於6月16日及6月19日（當天亦提供曲目試聽）在官方[YouTube頻道推出](../Page/YouTube.md "wikilink")\[10\]\[11\]、6月22日隨專輯音源公開完整音樂錄影帶\[12\]。
+TOP成員利用自拍在[SNS透露了主打歌曲名稱是](https://zh.wikipedia.org/wiki/SNS "wikilink")《從早上到早上》\[8\]，後於6月15日公開完整專輯曲目名單和發行版本（PASSION版、DREAM版）\[9\]；而主打歌曲的預告影片則分別於6月16日及6月19日（當天亦提供曲目試聽）在官方[YouTube頻道推出](../Page/YouTube.md "wikilink")\[10\]\[11\]、6月22日隨專輯音源公開完整音樂錄影帶\[12\]。
 
 6月26日，為紀念TEEN TOP出道五周年，官方宣布舉行《NATURAL BORN TEEN
 TOP》發行四場紀念特別簽名會以感謝歌迷支持\[13\]。
@@ -41,7 +42,7 @@ TOP》發行四場紀念特別簽名會以感謝歌迷支持\[13\]。
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年6月21日－6月27日</p></td>
 <td><p>#14</p></td>
@@ -139,7 +140,7 @@ TOP》發行四場紀念特別簽名會以感謝歌迷支持\[13\]。
 <td><p>2015年6月22日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/TOP媒體.md" title="wikilink">TOP媒體</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年6月23日[16]</p></td>

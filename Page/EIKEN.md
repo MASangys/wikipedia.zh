@@ -1,22 +1,22 @@
-**株式會社EIKEN**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[荒川區](../Page/荒川區.md "wikilink")\[1\]的[動畫製作公司](../Page/動畫.md "wikilink")。成立於1969年。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")。
+**株式會社EIKEN**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[荒川區](../Page/荒川區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1969年。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")。
 
 ## 概要、沿革
 
-EIKEN的前身是一家專門從事[電視機進口與銷售的一般企業](../Page/電視機.md "wikilink")。1952年，配合電視草創時期的節目播出，[梁瀨次郎成立](../Page/梁瀨次郎.md "wikilink")（Television
+EIKEN的前身是一家專門從事[電視機進口與銷售的一般企業](https://zh.wikipedia.org/wiki/電視機 "wikilink")。1952年，配合電視草創時期的節目播出，[梁瀨次郎成立](https://zh.wikipedia.org/wiki/梁瀨次郎 "wikilink")（Television
 Corporation of
 Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950年代TCJ開始投入生產製作[電視廣告為副業之後](../Page/電視廣告.md "wikilink")，不久成為該公司的正業，也成為EIKEN成立的契機。
 
-1963年，受到首部電視動畫《[原子小金剛](../Page/鐵臂阿童木.md "wikilink")》的播出掀起動畫熱潮的影響，動畫廣告的製作團隊以獨立分離的形式，和在TCJ電影部門發掘下。由他們自製首部作品《》在電視上播出之後，接著受到另一部電視動畫《[鐵人28號](../Page/鐵人28號.md "wikilink")》的播出獲得廣大的迴響，正式步上軌道。
+1963年，受到首部電視動畫《[原子小金剛](https://zh.wikipedia.org/wiki/鐵臂阿童木 "wikilink")》的播出掀起動畫熱潮的影響，動畫廣告的製作團隊以獨立分離的形式，和在TCJ電影部門發掘下。由他們自製首部作品《》在電視上播出之後，接著受到另一部電視動畫《[鐵人28號](../Page/鐵人28號.md "wikilink")》的播出獲得廣大的迴響，正式步上軌道。
 
-1969年4月，TCJ改名為株式會社TCJ（<small></small>）之際，TCJ動畫部門從TCJ獨立，公司登記名稱為「株式會社TCJ動畫中心（<small></small>）」\[3\]。一方面，到目前為止以從事動畫製作為中心的高橋茂人則是成立（《[嚕嚕米](../Page/姆明.md "wikilink")》和《[阿爾卑斯山的少女](../Page/阿爾卑斯山的少女.md "wikilink")》的製作公司）。
+1969年4月，TCJ改名為株式會社TCJ（<small></small>）之際，TCJ動畫部門從TCJ獨立，公司登記名稱為「株式會社TCJ動畫中心（<small></small>）」\[3\]。一方面，到目前為止以從事動畫製作為中心的高橋茂人則是成立（《[嚕嚕米](../Page/姆明.md "wikilink")》和《[阿爾卑斯山的少女](https://zh.wikipedia.org/wiki/阿爾卑斯山的少女 "wikilink")》的製作公司）。
 
-1973年5月，TCJ將所有股權讓渡，改名為現在的「**株式會社EIKEN**」\[4\]。而「EIKEN」命名來自以前TCJ時期和EIKEN的首任社長[村田英憲的名字](../Page/村田英憲.md "wikilink")「英憲」的[音讀念法](../Page/音讀.md "wikilink")\[5\]。
+1973年5月，TCJ將所有股權讓渡，改名為現在的「**株式會社EIKEN**」\[4\]。而「EIKEN」命名來自以前TCJ時期和EIKEN的首任社長[村田英憲的名字](https://zh.wikipedia.org/wiki/村田英憲 "wikilink")「英憲」的[音讀念法](../Page/音讀.md "wikilink")\[5\]。
 
-2002年7月，大型廣告代理商[旭通廣告](../Page/旭通廣告.md "wikilink")（ADK）取得EIKEN的70%股權之後，與[富士電視台連結成為關係企業](../Page/富士電視台.md "wikilink")，剩餘10%則由富士電視台繼續保有。而TCJ因為完全成為旗下子公司，與EIKEN的關係逐漸淡化。
+2002年7月，大型廣告代理商[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")（ADK）取得EIKEN的70%股權之後，與[富士電視台連結成為關係企業](../Page/富士電視台.md "wikilink")，剩餘10%則由富士電視台繼續保有。而TCJ因為完全成為旗下子公司，與EIKEN的關係逐漸淡化。
 
 2007年，村田從代表董事社長升任代表董事會長，代表董事社長的職位由副社長毛內節夫接任；翌年，村田榮獲2008年第4回[東京國際動畫博覽會功勞奬](../Page/東京國際動畫博覽會.md "wikilink")。
 
-2013年10月6日，EIKEN的代表長壽電視動畫《[海螺小姐](../Page/海螺小姐.md "wikilink")》製作全面[數位化](../Page/數位化.md "wikilink")，作為日本最後使用[賽璐珞作品正式走入歷史](../Page/賽璐珞.md "wikilink")\[6\]。
+2013年10月6日，EIKEN的代表長壽電視動畫《[海螺小姐](../Page/海螺小姐.md "wikilink")》製作全面[數位化](https://zh.wikipedia.org/wiki/數位化 "wikilink")，作為日本最後使用[賽璐珞作品正式走入歷史](../Page/賽璐珞.md "wikilink")\[6\]。
 
 2017年8月31日，村田辭去代表董事，轉任名譽會長\[7\]。
 
@@ -96,7 +96,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 </tr>
 <tr class="even">
 <td><p>1967年</p></td>
-<td><p><a href="../Page/海蒂_(小說).md" title="wikilink">阿爾卑斯山的少女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海蒂_(小說)" title="wikilink">阿爾卑斯山的少女</a></p></td>
 <td></td>
 <td></td>
 <td><p>試播動畫短片。與後來1974年播出的電視動畫版兩部是不同作品。</p></td>
@@ -119,7 +119,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/飛天五虎將.md" title="wikilink">飛天五虎將</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飛天五虎將" title="wikilink">飛天五虎將</a></p></td>
 <td></td>
 <td><p>TBS</p></td>
 <td></td>
@@ -249,7 +249,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 </tr>
 <tr class="odd">
 <td><p>1977年</p></td>
-<td><p><a href="../Page/UFO戰士阿波羅.md" title="wikilink">UFO戰士阿波羅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UFO戰士阿波羅" title="wikilink">UFO戰士阿波羅</a></p></td>
 <td></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京12頻道</a></p></td>
 <td></td>
@@ -273,7 +273,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 </tr>
 <tr class="even">
 <td><p>1984年</p></td>
-<td><p><a href="../Page/玻璃假面.md" title="wikilink">玻璃假面 (1984年版)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玻璃假面" title="wikilink">玻璃假面 (1984年版)</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -283,7 +283,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 <td></td>
 <td></td>
 <td><p>富士電視台</p></td>
-<td><p>與<a href="../Page/法國.md" title="wikilink">法國動畫公司</a>共同製作。</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/法國" title="wikilink">法國動畫公司</a>共同製作。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -377,7 +377,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 </tr>
 <tr class="odd">
 <td><p>1998年</p></td>
-<td><p><a href="../Page/男人真命苦.md" title="wikilink">動畫版 男人真命苦 ～寅次郎勿忘我～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/男人真命苦" title="wikilink">動畫版 男人真命苦 ～寅次郎勿忘我～</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -421,7 +421,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 <td></td>
 <td></td>
 <td><p>富士電視台</p></td>
-<td><p>系列製作協力（作畫工程）的工作由<a href="../Page/TYO動畫.md" title="wikilink">TYO Animation負責</a>。</p></td>
+<td><p>系列製作協力（作畫工程）的工作由<a href="https://zh.wikipedia.org/wiki/TYO動畫" title="wikilink">TYO Animation負責</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
@@ -465,8 +465,8 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
   - （前宣弘社所屬製作人）
 
-  - [松下洋子](../Page/松下洋子.md "wikilink")（[Kitty
-    film](../Page/Kitty_film.md "wikilink")→[ADK出身](../Page/旭通DK.md "wikilink")）
+  - [松下洋子](https://zh.wikipedia.org/wiki/松下洋子 "wikilink")（[Kitty
+    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")→[ADK出身](../Page/旭通DK.md "wikilink")）
 
 ### 動畫師、演出家
 
@@ -475,7 +475,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
   - 鳥居宥之
 
   -
-  - [蘆田豐雄](../Page/蘆田豐雄.md "wikilink")
+  - [蘆田豐雄](https://zh.wikipedia.org/wiki/蘆田豐雄 "wikilink")
 
   -
   - 福田皖
@@ -538,7 +538,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
   - 大濱誠（編劇、前文藝擔當）
 
-  - 中座洋次（背景工作室[草薙代表董事](../Page/草薙_\(動畫工作室\).md "wikilink")、前美術擔當）
+  - 中座洋次（背景工作室[草薙代表董事](https://zh.wikipedia.org/wiki/草薙_\(動畫工作室\) "wikilink")、前美術擔當）
 
   - 藤田勉（Studio WHO代表、前美術擔當）
 

@@ -3,8 +3,8 @@
 ## 历史
 
 该公司自成立以来，已经开发并发行的游戏超过100部，覆盖的游戏平台包括的[Xbox Live
-Arcade](../Page/Xbox_Live_Arcade.md "wikilink")、任天堂DS、[WiiWare游戏](../Page/WiiWare.md "wikilink")、[PlayStation
-Portable游戏机](../Page/PlayStation_Portable.md "wikilink")、[iPhone](../Page/iPhone.md "wikilink")、[Macintosh电脑](../Page/Macintosh.md "wikilink")、[Windows](../Page/Windows.md "wikilink")、网页和移动电话。
+Arcade](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、任天堂DS、[WiiWare游戏](../Page/WiiWare.md "wikilink")、[PlayStation
+Portable游戏机](../Page/PlayStation_Portable.md "wikilink")、[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[Macintosh电脑](https://zh.wikipedia.org/wiki/Macintosh "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、网页和移动电话。
 
 2011年11月该公司被育碧收购。\[1\]
 

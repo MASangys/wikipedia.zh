@@ -1,4 +1,4 @@
-《**PRIMAL×HEARTS**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2014年3月28日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年10月30日發售續作《[PRIMAL×HEARTS2](../Page/PRIMAL×HEARTS2.md "wikilink")》\[3\]，初回限定版的特典是本作Fan
+《**PRIMAL×HEARTS**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年10月30日發售續作《[PRIMAL×HEARTS2](../Page/PRIMAL×HEARTS2.md "wikilink")》\[3\]，初回限定版的特典是本作Fan
 Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフター）。\[4\]
 
 ## 故事
@@ -11,7 +11,7 @@ Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフタ�
 
   - 帯刀和馬
     本作男主角，2年級學生。
-  - 倉賀野聖良（[CV](../Page/配音員.md "wikilink")：[遥空](../Page/遥空.md "wikilink")）
+  - 倉賀野聖良（[CV](../Page/配音員.md "wikilink")：[遥空](https://zh.wikipedia.org/wiki/遥空 "wikilink")）
     生日：11月22日　血型：A型　身高：160cm　三圍：B87（E）/W57/H88
     2-F的學生，月華會的會長。
   - 天神平陽姫（CV：鈴藤ここあ）
@@ -42,7 +42,7 @@ Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフタ�
   - 倉賀野聖良ED『primal story』
     作詞：天ヶ咲麗　作曲/編曲：橋咲透　歌：[茶太](../Page/茶太.md "wikilink")
   - 駒形ゆづきED『trusty』
-    作詞：天ヶ咲麗　作曲/編曲：iyuna　歌：[霜月はるか](../Page/霜月はるか.md "wikilink")
+    作詞：天ヶ咲麗　作曲/編曲：iyuna　歌：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")
   - 天神平陽姬ED『Dear』
     作詞；天ヶ咲麗　作曲/編曲：伊吹ユキヒロ　歌：[片霧烈火](../Page/片霧烈火.md "wikilink")
   - 神流歌奈ED『コーティングチョコ』
@@ -92,10 +92,10 @@ PRIMAL×HEARTS獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink
 5.  [プライマルハーツ
     PRIMAL×HEARTS](http://erogetrailers.com/soft/11879)ErogeTrailers
 6.  [PRIMAL×HEARTS
-    キャラクターソング&サウンドアルバム](http://www.amazon.co.jp/luminouscore-PRIMAL%C3%97HEARTS-%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/dp/B00MTJDYSA)[amazon.com](../Page/amazon.com.md "wikilink")
+    キャラクターソング&サウンドアルバム](http://www.amazon.co.jp/luminouscore-PRIMAL%C3%97HEARTS-%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/dp/B00MTJDYSA)[amazon.com](https://zh.wikipedia.org/wiki/amazon.com "wikilink")
 7.  [PRIMAL×HEARTS
     キャラクターソング＆サウンドアルバム](http://www.getchu.com/soft.phtml?id=815320)Getchu.com
-8.  [金賞・エロス系作品賞PINK](http://moe-gameaward.com/prize/2014/pink.html#p02)[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")
+8.  [金賞・エロス系作品賞PINK](http://moe-gameaward.com/prize/2014/pink.html#p02)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")
 9.  [2014年間ランキング](http://moe-gameaward.com/annual/2014.html)萌えゲーアワード
 10. [美少女ゲーム大賞2014
     －総合部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/)Getchu.com

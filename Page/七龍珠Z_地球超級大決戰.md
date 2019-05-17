@@ -1,6 +1,6 @@
 《**七龙珠Z 地球超級大決戰**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: The
 Decisive Battle for the Entire
-Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上映的第6部劇場版動畫。\[1\]故事时间在打败拉帝兹之后、[贝吉塔与拿帕来到地球之前](../Page/贝吉塔.md "wikilink")。
+Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上映的第6部劇場版動畫。\[1\]故事时间在打败拉帝兹之后、[贝吉塔与拿帕来到地球之前](https://zh.wikipedia.org/wiki/贝吉塔 "wikilink")。
 
 本套也是所有劇場版里最多英语配音版本的劇場版。Ocean
 1997年英语配音版本曾经把本套被分为三集特别篇在美国的电视机中播放。（在Ocean版本的弗利萨篇第45话与第46话之间）\[2\]\[3\]
@@ -51,7 +51,7 @@ Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上�
 </tr>
 <tr class="odd">
 <td><p><strong>乐平</strong></p></td>
-<td style="text-align: center;"><p><a href="../Page/古谷彻.md" title="wikilink">古谷彻</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/古谷彻" title="wikilink">古谷彻</a></p></td>
 </tr>
 <tr class="even">
 <td><p>乌龙</p></td>
@@ -67,15 +67,15 @@ Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上�
 </tr>
 <tr class="odd">
 <td><p>龟仙人</p></td>
-<td style="text-align: center;"><p><a href="../Page/宫内幸平.md" title="wikilink">宫内幸平</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宫内幸平" title="wikilink">宫内幸平</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/布尔玛.md" title="wikilink">布尔玛</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/鹤弘美.md" title="wikilink">鹤弘美</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鹤弘美" title="wikilink">鹤弘美</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/琪琪.md" title="wikilink">琪琪</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/渡边菜生子.md" title="wikilink">渡边菜生子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琪琪" title="wikilink">琪琪</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/渡边菜生子" title="wikilink">渡边菜生子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>乌儿</p></td>
@@ -83,7 +83,7 @@ Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上�
 </tr>
 <tr class="odd">
 <td><p>神龙</p></td>
-<td style="text-align: center;"><p><a href="../Page/内海賢二.md" title="wikilink">内海賢二</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/内海賢二" title="wikilink">内海賢二</a></p></td>
 </tr>
 <tr class="even">
 <td><p>レズン</p></td>
@@ -99,11 +99,11 @@ Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上�
 </tr>
 <tr class="odd">
 <td><p>カカオ</p></td>
-<td style="text-align: center;"><p><a href="../Page/里内信夫.md" title="wikilink">里内信夫</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/里内信夫" title="wikilink">里内信夫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アモンド</p></td>
-<td style="text-align: center;"><p><a href="../Page/銀河万丈.md" title="wikilink">銀河万丈</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/銀河万丈" title="wikilink">銀河万丈</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>界王</p></td>
@@ -136,30 +136,30 @@ Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上�
 
 ## 制作人员
 
-  - 製作總指揮：[今田智憲](../Page/今田智憲.md "wikilink")、小島民雄
+  - 製作總指揮：[今田智憲](https://zh.wikipedia.org/wiki/今田智憲 "wikilink")、小島民雄
   - 原作：[鳥山明](../Page/鳥山明.md "wikilink")
-  - 企画：[森下孝三](../Page/森下孝三.md "wikilink")、[清水賢治](../Page/清水賢治.md "wikilink")、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
+  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](https://zh.wikipedia.org/wiki/清水賢治 "wikilink")、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
   - 製作担当：岸本松司、堀川和政
-  - 劇本：[小山高生](../Page/小山高生.md "wikilink")
+  - 劇本：[小山高生](https://zh.wikipedia.org/wiki/小山高生 "wikilink")
   - 音樂：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督：池上元秋
   - 編輯：福光伸一
   - 録音：二宮健治
   - 美術監督：池田祐二
-  - 作画監修：[前田実](../Page/前田実.md "wikilink")
-  - 作画監督：[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、佐藤正樹
-  - 監督：[西尾大介](../Page/西尾大介.md "wikilink")
-  - 分鏡：西尾大介、[山内重保](../Page/山内重保.md "wikilink")、上田芳裕、[橋本光夫](../Page/橋本光夫.md "wikilink")、折目達也
+  - 作画監修：[前田実](https://zh.wikipedia.org/wiki/前田実 "wikilink")
+  - 作画監督：[中鶴勝祥](https://zh.wikipedia.org/wiki/中鶴勝祥 "wikilink")、佐藤正樹
+  - 監督：[西尾大介](https://zh.wikipedia.org/wiki/西尾大介 "wikilink")
+  - 分鏡：西尾大介、[山内重保](https://zh.wikipedia.org/wiki/山内重保 "wikilink")、上田芳裕、[橋本光夫](../Page/橋本光夫.md "wikilink")、折目達也
   - 作画監督補佐：中鶴勝祥、佐藤正樹
-  - 原画：[須田正己](../Page/須田正己.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](../Page/江口寿志.md "wikilink")、[佐藤正樹](../Page/佐藤正樹.md "wikilink")
+  - 原画：[須田正己](https://zh.wikipedia.org/wiki/須田正己 "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](https://zh.wikipedia.org/wiki/江口寿志 "wikilink")、[佐藤正樹](https://zh.wikipedia.org/wiki/佐藤正樹 "wikilink")
     他
   - 美術：高田茂祝、長崎斉
-  - 宣伝協力：[フジテレビ](../Page/フジテレビジョン.md "wikilink")
+  - 宣伝協力：[フジテレビ](https://zh.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 主題曲
 
   - 片頭曲「CHA-LA HEAD-CHA-LA」
-    作詞：森雪之丞、作曲：清岡千穂、編曲：[山本健司](../Page/山本健司.md "wikilink")、歌：[影山浩宣](../Page/影山浩宣.md "wikilink")
+    作詞：森雪之丞、作曲：清岡千穂、編曲：[山本健司](https://zh.wikipedia.org/wiki/山本健司 "wikilink")、歌：[影山浩宣](../Page/影山浩宣.md "wikilink")
   - 片尾曲「」
     作詞：佐藤大、作曲：清岡千穂、編曲：山本健司、歌：影山浩宣、Ammy
 
@@ -213,9 +213,10 @@ Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上�
 
 1.  [Dragon Ball Z: Tree of Might
     (movie 3)](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=994)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [Tree Of Might TV
     Version](http://www.kanzenshuu.com/forum/viewtopic.php?f=8&t=1248)
 3.  [Dragon Ball Z: The Tree of Might (TV
-    Mini-Series 1997)](http://www.imdb.com/title/tt4663062/)[IMDb](../Page/IMDb.md "wikilink")
-4.  [七龍珠Z09](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2019470510320)[金石堂網路書店](../Page/金石堂.md "wikilink")
+    Mini-Series 1997)](http://www.imdb.com/title/tt4663062/)[IMDb](https://zh.wikipedia.org/wiki/IMDb "wikilink")
+4.  [七龍珠Z09](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2019470510320)[金石堂網路書店](https://zh.wikipedia.org/wiki/金石堂 "wikilink")

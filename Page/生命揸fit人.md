@@ -1,4 +1,4 @@
-是一部於1999年出品的香港福音電影，由[潘亨利擔任導演](../Page/潘亨利.md "wikilink")，[袁文輝監製](../Page/袁文輝.md "wikilink")，以及由[黃貫中](../Page/黃貫中.md "wikilink")、[朱茵](../Page/朱茵.md "wikilink")、[王喜](../Page/王喜.md "wikilink")、[黃美芬](../Page/黃美芬.md "wikilink")、[陳恩明和](../Page/陳恩明.md "wikilink")[林以諾擔任演出](../Page/林以諾.md "wikilink")。本片榮獲第36屆[金馬獎最佳女主角提名及第五屆](../Page/金馬獎.md "wikilink")[香港電影金紫荊獎最佳男配角提名](../Page/香港電影金紫荊獎.md "wikilink")。
+是一部於1999年出品的香港福音電影，由[潘亨利擔任導演](https://zh.wikipedia.org/wiki/潘亨利 "wikilink")，[袁文輝監製](https://zh.wikipedia.org/wiki/袁文輝 "wikilink")，以及由[黃貫中](../Page/黃貫中.md "wikilink")、[朱茵](../Page/朱茵.md "wikilink")、[王喜](https://zh.wikipedia.org/wiki/王喜 "wikilink")、[黃美芬](../Page/黃美芬.md "wikilink")、[陳恩明和](https://zh.wikipedia.org/wiki/陳恩明 "wikilink")[林以諾擔任演出](../Page/林以諾.md "wikilink")。本片榮獲第36屆[金馬獎最佳女主角提名及第五屆](../Page/金馬獎.md "wikilink")[香港電影金紫荊獎最佳男配角提名](../Page/香港電影金紫荊獎.md "wikilink")。
 
 ## 故事簡介
 
@@ -21,7 +21,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1999</p></td>
-<td><p><a href="../Page/第36屆金馬獎.md" title="wikilink">第36屆金馬獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第36屆金馬獎" title="wikilink">第36屆金馬獎</a></p></td>
 <td><p>最佳女主角</p></td>
 <td><p><a href="../Page/朱茵.md" title="wikilink">朱茵</a></p></td>
 <td></td>
@@ -37,7 +37,7 @@
 <td><p>2000</p></td>
 <td><p><a href="../Page/第5屆香港電影金紫荊獎.md" title="wikilink">第5屆香港電影金紫荊獎</a></p></td>
 <td><p>最佳男配角</p></td>
-<td><p><a href="../Page/王喜.md" title="wikilink">王喜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王喜</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

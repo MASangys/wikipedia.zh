@@ -11,7 +11,7 @@ CD出道并成功舉行首次演唱會后，11月11日在日本武道館舉行�
 
 ## 成員
 
-**[井上芳雄](../Page/井上芳雄.md "wikilink")（隊長）**
+**[井上芳雄](https://zh.wikipedia.org/wiki/井上芳雄 "wikilink")（隊長）**
 
 **[浦井健治](../Page/浦井健治.md "wikilink")**
 

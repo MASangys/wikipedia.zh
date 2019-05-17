@@ -1,4 +1,4 @@
-本列表列出了韩国女子组合[AOA获得的奖项与提名](../Page/AOA_\(韓國\).md "wikilink")。2014年2月9日，AOA凭歌曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》在韩国音乐节目《[SBS人气歌谣](../Page/SBS人气歌谣.md "wikilink")》获得了该组合的首个一位。
+本列表列出了韩国女子组合[AOA获得的奖项与提名](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")。2014年2月9日，AOA凭歌曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》在韩国音乐节目《[SBS人气歌谣](https://zh.wikipedia.org/wiki/SBS人气歌谣 "wikilink")》获得了该组合的首个一位。
 
 ## 奖项与提名
 
@@ -10,12 +10,13 @@
 
 |- | 2015 | 年度火热表演奖\[2\] | AOA |  |- | 2016 | 世界新人奖\[3\] | AOA |  |}
 
-### [金唱片奖](../Page/金唱片獎.md "wikilink")
+### [金唱片奖](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")
 
 |- | rowspan="1"|2015 | 音源本赏\[4\] | 《短裙》 |  |- | rowspan="4"|2016 |
-数字唱片本赏 | 《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》 |
-|- | 数字单曲本赏 | rowspan="2"|《怦然心动》 |  |- | 音源本赏\[5\] |  |- | 人气奖 | AOA |
-|- |}
+数字唱片本赏 |
+《[怦然心动](https://zh.wikipedia.org/wiki/怦然心动_\(AOA迷你专辑\) "wikilink")》
+|  |- | 数字单曲本赏 | rowspan="2"|《怦然心动》 |  |- | 音源本赏\[5\] |  |- | 人气奖 | AOA
+|  |- |}
 
 ### MBC Music [Show Champion奖](../Page/Show_Champion.md "wikilink")
 
@@ -37,7 +38,7 @@ rowspan="2"|《怦然心动》 |  |- | 银联年度歌曲\[14\] |  |- | rowspan=
 最佳舞蹈表演-女子组合 | rowspan="2"|《Good Luck》 |  |- | HotelsCombined
 年度歌曲 |  |- | 2018 | 最佳舞蹈表演-女子组合 | 《Bingle Bangle》 |  |}
 
-### [SBS歌谣大战](../Page/SBS歌谣大战.md "wikilink")
+### [SBS歌谣大战](https://zh.wikipedia.org/wiki/SBS歌谣大战 "wikilink")
 
 |- | 2015 | 最佳心动奖 | AOA |  |}
 
@@ -49,11 +50,11 @@ rowspan="2"|《怦然心动》 |  |- | 银联年度歌曲\[14\] |  |- | rowspan=
 
 |- | 2014 | 最佳新星奖 | AOA |  |}
 
-### [SBS PopAsia](../Page/SBS_PopAsia.md "wikilink")
+### [SBS PopAsia](https://zh.wikipedia.org/wiki/SBS_PopAsia "wikilink")
 
 |- | 2014 | 最佳女子组合 | AOA |  |}
 
-### [首尔音乐奖](../Page/首尔音乐奖.md "wikilink")
+### [首尔音乐奖](https://zh.wikipedia.org/wiki/首尔音乐奖 "wikilink")
 
 |- | rowspan="2"| 2012 | 新人赏\[16\] | rowspan="2"| AOA |  |- | 人气赏\[17\]
 |  |- | 2015 | 本赏\[18\] | 《短裙》 |  |- | rowspan="2"| 2016 | 本赏 |
@@ -69,7 +70,7 @@ rowspan="2"| AOA |  |- | 人气赏 |  |}
 
 ## 音乐节目
 
-### [SBS人气歌谣](../Page/SBS人气歌谣.md "wikilink")
+### [SBS人气歌谣](https://zh.wikipedia.org/wiki/SBS人气歌谣 "wikilink")
 
 |- | rowspan=1|2014 | 2月9日 |《短裙》\[19\] |}
 
@@ -79,7 +80,7 @@ rowspan="2"| AOA |  |- | 人气赏 |  |}
 《Good Luck》\[20\] |- | rowspan=2|2017 | 1月18日 | rowspan=2|《Excuse Me》 |-
 | 1月25日 |}
 
-### [Show\! 音乐中心](../Page/Show!_音乐中心.md "wikilink")
+### [Show\! 音乐中心](https://zh.wikipedia.org/wiki/Show!_音乐中心 "wikilink")
 
 |- | 2015 | 7月4日 |《怦然心动》\[21\] |}
 
@@ -87,7 +88,7 @@ rowspan="2"| AOA |  |- | 人气赏 |  |}
 
 |- | 2015 | 7月7日 |《怦然心动》\[22\] |- | 2016 | 5月24日 | 《Good Luck》\[23\] |}
 
-### [M Countdown](../Page/M_Countdown.md "wikilink")
+### [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")
 
 |- | 2017 | 2月2日 |《Excuse Me》 |}
 

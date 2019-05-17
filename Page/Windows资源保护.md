@@ -1,10 +1,10 @@
 **Windows资源保护**（）是[Windows
-Vista的新功能](../Page/Windows_Vista.md "wikilink")，它取代了[Windows文件保护](../Page/Windows文件保护.md "wikilink")，会保护[注册表键值](../Page/注册表.md "wikilink")、文件夹和关键系统文件。它保护资源的方式与Windows文件保护完全不同。<span class="cx-segment" data-segmentid="26"></span>
+Vista的新功能](../Page/Windows_Vista.md "wikilink")，它取代了[Windows文件保护](https://zh.wikipedia.org/wiki/Windows文件保护 "wikilink")，会保护[注册表键值](../Page/注册表.md "wikilink")、文件夹和关键系统文件。它保护资源的方式与Windows文件保护完全不同。<span class="cx-segment" data-segmentid="26"></span>
 
 ## 概述
 
 Windows文件保护基于在[Winlogon中注册文件更改通知](../Page/Winlogon.md "wikilink")。如果检测到任何对受保护系统文件的修改，修改的文件会被恢复为位于压缩文件夹`%WinDir%\System32\dllcache`
-的缓存副本。Windows资源保护（WRP）基于对预定义的受保护资源设置自主访问控制列表（DACL）和[访问控制列表](../Page/访问控制列表.md "wikilink")（ACL）工作。完全访问和修改WRP保护的资源被限制到使用Windows模块安装服务（`TrustedInstaller.exe`）的进程。管理员不再拥有对系统文件的完全访问权，他们必须使用SetupAPI，或者获取资源的所有权并添加适当的访问控制条目（ACE）才能修改或替换它。“Trusted
+的缓存副本。Windows资源保护（WRP）基于对预定义的受保护资源设置自主访问控制列表（DACL）和[访问控制列表](https://zh.wikipedia.org/wiki/访问控制列表 "wikilink")（ACL）工作。完全访问和修改WRP保护的资源被限制到使用Windows模块安装服务（`TrustedInstaller.exe`）的进程。管理员不再拥有对系统文件的完全访问权，他们必须使用SetupAPI，或者获取资源的所有权并添加适当的访问控制条目（ACE）才能修改或替换它。“Trusted
 Installer”帐户用于保护核心操作系统文件和[注册表键值](../Page/注册表.md "wikilink")。
 
 ## 受保护资源
@@ -40,10 +40,10 @@ Vista上，sfc.exe可以检查特定文件夹路径，包括Windows文件夹和�
 
 ## 参见
 
-  - [Windows文件保护](../Page/Windows文件保护.md "wikilink")
+  - [Windows文件保护](https://zh.wikipedia.org/wiki/Windows文件保护 "wikilink")
   - [系統文件檢查器](../Page/系統文件檢查器.md "wikilink")
-  - [存取控制串列](../Page/存取控制串列.md "wikilink")
-  - [安全标识符](../Page/安全标识符.md "wikilink")
+  - [存取控制串列](https://zh.wikipedia.org/wiki/存取控制串列 "wikilink")
+  - [安全标识符](https://zh.wikipedia.org/wiki/安全标识符 "wikilink")
 
 ## 外部链接
 

@@ -1,9 +1,9 @@
-《**Zelos**》是[韓國男子組合](../Page/韓國.md "wikilink")[VIXX的第六張韓語實體](../Page/VIXX.md "wikilink")[單曲](../Page/單曲.md "wikilink")（不計算特別單曲則為第五張），以[Simon
-Janlov](../Page/Simon_Janlov.md "wikilink")、、[MELODESIGN作曲](../Page/MELODESIGN.md "wikilink")、[Misfit與](../Page/Misfit.md "wikilink")[RAVI作詞的](../Page/金元植.md "wikilink")《炸藥》（，直譯為｢Dynamite｣）主打曲，並在2016年4月19日推出\[1\]。
+《**Zelos**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第六張韓語實體](../Page/VIXX.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（不計算特別單曲則為第五張），以[Simon
+Janlov](https://zh.wikipedia.org/wiki/Simon_Janlov "wikilink")、、[MELODESIGN作曲](https://zh.wikipedia.org/wiki/MELODESIGN "wikilink")、[Misfit與](https://zh.wikipedia.org/wiki/Misfit "wikilink")[RAVI作詞的](https://zh.wikipedia.org/wiki/金元植 "wikilink")《炸藥》（，直譯為｢Dynamite｣）主打曲，並在2016年4月19日推出\[1\]。
 
 ## 背景
 
-2016年3月16日，[Jellyfish娛樂公布VIXX將於](../Page/Jellyfish娛樂.md "wikilink")4月19日發行新單曲\[2\]。其後在3月28日於官方[Youtube頻道發佈回歸概念影片](../Page/Youtube.md "wikilink")\[3\]。
+2016年3月16日，[Jellyfish娛樂公布VIXX將於](../Page/Jellyfish娛樂.md "wikilink")4月19日發行新單曲\[2\]。其後在3月28日於官方[Youtube頻道發佈回歸概念影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[3\]。
 
 4月12日，官方推出團體回歸照片，選用鮮明對比背景以吸引注目\[4\]；到4月16日，Jellyfish娛樂在官方[Instagram和](../Page/Instagram.md "wikilink")[Facebook公開曲目名單與試聽](../Page/Facebook.md "wikilink")\[5\]。
 
@@ -27,7 +27,7 @@ Janlov](../Page/Simon_Janlov.md "wikilink")、、[MELODESIGN作曲](../Page/MELO
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年4月17日－4月23日</p></td>
 <td><p>#14</p></td>
@@ -72,9 +72,9 @@ Janlov](../Page/Simon_Janlov.md "wikilink")、、[MELODESIGN作曲](../Page/MELO
 
 ### 其他歌曲成績
 
-| 歌曲   | 榜單                                       | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
-| ---- | ---------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
-| 手的離別 | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年4月17日－4月23日 | \#84 | \[8\] |
+| 歌曲   | 榜單                                                          | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
+| ---- | ----------------------------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
+| 手的離別 | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年4月17日－4月23日 | \#84 | \[8\] |
 
 ### 音樂節目榜單排名
 
@@ -121,7 +121,7 @@ Janlov](../Page/Simon_Janlov.md "wikilink")、、[MELODESIGN作曲](../Page/MELO
 <td><p>2016年4月19日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a>、<a href="../Page/CD.md" title="wikilink">CD</a></p></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a><br />
-<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>

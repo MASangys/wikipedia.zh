@@ -1,4 +1,4 @@
-**Thrift**是一种[接口描述语言和二进制通讯协议](../Page/接口描述语言.md "wikilink")，\[1\]它被用来定义和创建跨语言的服务。\[2\]它被当作一个[远程过程调用](../Page/远程过程调用.md "wikilink")（RPC）框架来使用，是由[Facebook为](../Page/Facebook.md "wikilink")“大规模跨语言服务开发”而开发的。它通过一个代码生成引擎联合了一个软件栈，来创建不同程度的、无缝的[跨平台高效服务](../Page/跨平台.md "wikilink")，可以使用[C\#](../Page/C♯.md "wikilink")、[C++](../Page/C++.md "wikilink")（基于[POSIX兼容系统](../Page/POSIX.md "wikilink")\[3\]）、Cappuccino、\[4\][Cocoa](../Page/Cocoa.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、[Erlang](../Page/Erlang.md "wikilink")、[Go](../Page/Go.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Node.js](../Page/Node.js.md "wikilink")、[OCaml](../Page/OCaml.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby和](../Page/Ruby.md "wikilink")[Smalltalk](../Page/Smalltalk.md "wikilink")。\[5\]虽然它以前是由Facebook开发的，但它现在是[Apache软件基金会的](../Page/Apache软件基金会.md "wikilink")[开源项目了](../Page/开源.md "wikilink")。该实现被描述在2007年4月的一篇由Facebook发表的技术论文中，该论文现由Apache掌管。\[6\]
+**Thrift**是一种[接口描述语言和二进制通讯协议](../Page/接口描述语言.md "wikilink")，\[1\]它被用来定义和创建跨语言的服务。\[2\]它被当作一个[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")（RPC）框架来使用，是由[Facebook为](../Page/Facebook.md "wikilink")“大规模跨语言服务开发”而开发的。它通过一个代码生成引擎联合了一个软件栈，来创建不同程度的、无缝的[跨平台高效服务](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以使用[C\#](../Page/C♯.md "wikilink")、[C++](../Page/C++.md "wikilink")（基于[POSIX兼容系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")\[3\]）、Cappuccino、\[4\][Cocoa](../Page/Cocoa.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、[Erlang](../Page/Erlang.md "wikilink")、[Go](../Page/Go.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Node.js](../Page/Node.js.md "wikilink")、[OCaml](../Page/OCaml.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby和](../Page/Ruby.md "wikilink")[Smalltalk](../Page/Smalltalk.md "wikilink")。\[5\]虽然它以前是由Facebook开发的，但它现在是[Apache软件基金会的](../Page/Apache软件基金会.md "wikilink")[开源项目了](https://zh.wikipedia.org/wiki/开源 "wikilink")。该实现被描述在2007年4月的一篇由Facebook发表的技术论文中，该论文现由Apache掌管。\[6\]
 
 ## 架构
 
@@ -9,7 +9,7 @@ Thrift包含一套完整的栈来创建客户端和服务端程序。\[7\]顶层
 Thrift支持众多通讯协议：\[8\]
 
   - TBinaryProtocol –
-    一种简单的二进制格式，简单，但没有为空间效率而优化。比文本协议处理起来更快，但更难于[调试](../Page/调试.md "wikilink")。
+    一种简单的二进制格式，简单，但没有为空间效率而优化。比文本协议处理起来更快，但更难于[调试](https://zh.wikipedia.org/wiki/调试 "wikilink")。
   - TCompactProtocol – 更紧凑的二进制格式，处理起来通常同样高效。
   - TDebugProtocol – 一种人类可读的文本格式，用来协助调试。
   - TDenseProtocol – 与TCompactProtocol类似，将传输数据的元信息剥离。
@@ -25,12 +25,12 @@ Thrift支持众多通讯协议：\[8\]
     使用[存储器映射输入输出](../Page/存储器映射输入输出.md "wikilink")。（Java的实现使用了一个简单的。）
   - TSocket – 使用阻塞的套接字I/O来传输。
   - TZlibTransport –
-    用[zlib执行压缩](../Page/zlib.md "wikilink")。用于连接另一个传输协议。
+    用[zlib执行压缩](https://zh.wikipedia.org/wiki/zlib "wikilink")。用于连接另一个传输协议。
 
 Thrift还提供众多的服务器，包括：
 
   - TNonblockingServer –
-    一个多线程服务器，它使用非阻塞I/O（Java的实现使用了[NIO通道](../Page/Java_NIO.md "wikilink")）。TFramedTransport必须跟这个服务器配套使用。
+    一个多线程服务器，它使用非阻塞I/O（Java的实现使用了[NIO通道](https://zh.wikipedia.org/wiki/Java_NIO "wikilink")）。TFramedTransport必须跟这个服务器配套使用。
   - TSimpleServer – 一个单线程服务器，它使用标准的阻塞I/O。测试时很有用。
   - TThreadPoolServer – 一个多线程服务器，它使用标准的阻塞I/O。
 
@@ -38,13 +38,13 @@ Thrift还提供众多的服务器，包括：
 
 Thrift一些已经明确的优点包括：
 
-  - 跟一些替代选择，比如[SOAP相比](../Page/SOAP.md "wikilink")，跨语言序列化的代价更低，因为它使用二进制格式。
+  - 跟一些替代选择，比如[SOAP相比](https://zh.wikipedia.org/wiki/SOAP "wikilink")，跨语言序列化的代价更低，因为它使用二进制格式。
   - 它有一个又瘦又干净的库，没有编码框架，没有[XML配置文件](../Page/XML.md "wikilink")。
-  - [绑定感觉很自然](../Page/绑定.md "wikilink")。例如，[Java使用](../Page/Java.md "wikilink")`java.util.ArrayList`<String>；[C++使用](../Page/C++.md "wikilink")`std::vector`<std::string>。
+  - [绑定感觉很自然](https://zh.wikipedia.org/wiki/绑定 "wikilink")。例如，[Java使用](../Page/Java.md "wikilink")`java.util.ArrayList`<String>；[C++使用](../Page/C++.md "wikilink")`std::vector`<std::string>。
   - 应用层通讯格式与序列化层通讯格式是完全分离的。它们都可以独立修改。
   - 预定义的序列化格式包括：二进制格式、对HTTP友好的格式，以及紧凑的二进制格式。
   - 兼作跨语言文件[序列化](../Page/序列化.md "wikilink")。
-  - 协议使用软版本号机制。Thrift不要求一个中心化的和显式的版本号机制，例如[主版本号/次版本号](../Page/软件版本号.md "wikilink")。松耦合的团队可以轻松地控制RPC调用的演进。
+  - 协议使用软版本号机制。Thrift不要求一个中心化的和显式的版本号机制，例如[主版本号/次版本号](https://zh.wikipedia.org/wiki/软件版本号 "wikilink")。松耦合的团队可以轻松地控制RPC调用的演进。
   - 没有构建依赖也不含非标准化的软件。不存在不兼容的软件许可证混用的情况。
 
 ## 创建一个Thrift服务
@@ -78,7 +78,7 @@ Thrift将由这个描述信息生成独立的代码。例如，在Java里，`Pho
   - Caucho的{{ link-en | Hessian | Hessian (Web service protocol) }}
   - [Google的](../Page/Google.md "wikilink")[Protocol
     Buffers](../Page/Protocol_Buffers.md "wikilink")
-  - [外部数据表示法](../Page/外部数据表示法.md "wikilink")
+  - [外部数据表示法](https://zh.wikipedia.org/wiki/外部数据表示法 "wikilink")
   - {{ link-en | ZeroC | ZeroC
     }}的[ICE](../Page/ICE_\(中间件\).md "wikilink")
   - {{ link-en | SDXF | SDXF }}（结构化数据交换格式）

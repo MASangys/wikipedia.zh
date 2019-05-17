@@ -1,4 +1,4 @@
-《**NoNoNo**》是[韓國](../Page/韓國.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[Apink的代表歌曲](../Page/Apink.md "wikilink")，於2013年7月4日發行，收錄於第三張迷你專輯《[Secret
+《**NoNoNo**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink的代表歌曲](../Page/Apink.md "wikilink")，於2013年7月4日發行，收錄於第三張迷你專輯《[Secret
 Garden](../Page/Secret_Garden_\(Apink迷你專輯\).md "wikilink")》中。唱片公司為[A
 Cube娛樂](../Page/Plan_A娛樂.md "wikilink")。
 

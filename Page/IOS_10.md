@@ -1,7 +1,7 @@
 **iOS
-10**是[苹果公司的](../Page/苹果公司.md "wikilink")[iOS第十个主要版本](../Page/iOS.md "wikilink")，于旧金山当地时间2016年6月13日召开的[WWDC](../Page/WWDC.md "wikilink")2016首日公布，是[iOS
-9的后继版本](../Page/iOS_9.md "wikilink")。iOS
-10的新特性主要是提供了新的-{zh-tw:鎖定螢幕;zh-hans:锁屏}-交互模式，新的控制中心，增强的[iMessage等等](../Page/iMessage.md "wikilink")，正式版已于2016年9月14日发布。
+10**是[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS第十个主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，于旧金山当地时间2016年6月13日召开的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2016首日公布，是[iOS
+9的后继版本](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")。iOS
+10的新特性主要是提供了新的-{zh-tw:鎖定螢幕;zh-hans:锁屏}-交互模式，新的控制中心，增强的[iMessage等等](https://zh.wikipedia.org/wiki/iMessage "wikilink")，正式版已于2016年9月14日发布。
 
 iOS 10 僅對採用 [Apple
 A6](../Page/Apple_A6.md "wikilink")/[A6X](../Page/Apple_A6X.md "wikilink")
@@ -12,7 +12,7 @@ A5](../Page/Apple_A5.md "wikilink")/[A5X](../Page/Apple_A5X.md "wikilink")
 
 ## 历史
 
-  - 2016年6月13日，在[苹果公司的](../Page/苹果公司.md "wikilink")[WWDC](../Page/WWDC.md "wikilink")2016上首次公布，并在当日提供开发者测试版供注册开发者下载。\[1\]
+  - 2016年6月13日，在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2016上首次公布，并在当日提供开发者测试版供注册开发者下载。\[1\]
   - 2016年7月5日，发布了测试版iOS 10 beta 2。
   - 2016年7月9日，發布了公開測試版iOS 10 public beta。
   - 2016年7月19日，發布了測試版iOS 10 beta 3。
@@ -142,9 +142,9 @@ iOS 10.3.1 包含錯誤修正，並改進了 iPhone 或 iPad 的安全性。
 
 ## 參見
 
-  - [iOS](../Page/iOS.md "wikilink")
-  - [watchOS](../Page/watchOS.md "wikilink")
-  - [iOS 11](../Page/iOS_11.md "wikilink")
+  - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
+  - [watchOS](https://zh.wikipedia.org/wiki/watchOS "wikilink")
+  - [iOS 11](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")
 
 {{-}}
 

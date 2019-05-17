@@ -1,12 +1,12 @@
 **SCREEN
-mode**（）是由歌手[林勇與作曲家](../Page/林勇.md "wikilink")[太田雅友所組成的](../Page/太田雅友.md "wikilink")[日本樂團](../Page/日本.md "wikilink")。所屬唱片公司為**[Lantis](../Page/Lantis.md "wikilink")**。
+mode**（）是由歌手[林勇與作曲家](../Page/林勇.md "wikilink")[太田雅友所組成的](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")[日本樂團](../Page/日本.md "wikilink")。所屬唱片公司為**[Lantis](../Page/Lantis.md "wikilink")**。
 
 ## 成员
 
   - 勇-YOU-（）
-    担任[主唱](../Page/主唱.md "wikilink")。1983年4月2日生于[神奈川县](../Page/神奈川县.md "wikilink")。本名林勇。[贤Production旗下声优](../Page/贤Production.md "wikilink")。
+    担任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")。1983年4月2日生于[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")。本名林勇。[贤Production旗下声优](https://zh.wikipedia.org/wiki/贤Production "wikilink")。
   - 雅友（）
-    担任吉他手。生于[爱知县](../Page/爱知县.md "wikilink")。本名太田雅友。
+    担任吉他手。生于[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")。本名太田雅友。
 
 ## 作品
 

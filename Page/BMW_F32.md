@@ -1,49 +1,49 @@
-****是[德国汽车制造商](../Page/德国.md "wikilink")[BMW为其所生产的一款](../Page/BMW.md "wikilink")[中型车所指定的企业内部标识](../Page/中型车.md "wikilink")。作为[BMW
-4系列的第一代车型](../Page/BMW_4系列.md "wikilink")，它的前身是3系列的。[轿跑款的F](../Page/轿跑车.md "wikilink")32于2012年12月在[慕尼黑首次向公众发布](../Page/慕尼黑.md "wikilink")，并在次年1月的[底特律车展率先亮相](../Page/底特律车展.md "wikilink")。其后配备有硬顶折叠敞篷的[敞篷版](../Page/敞篷车.md "wikilink")（F33）和融合了敞篷和轿跑元素的（F36）也相继于2014年推出市场。
+****是[德国汽车制造商](../Page/德国.md "wikilink")[BMW为其所生产的一款](../Page/BMW.md "wikilink")[中型车所指定的企业内部标识](https://zh.wikipedia.org/wiki/中型车 "wikilink")。作为[BMW
+4系列的第一代车型](../Page/BMW_4系列.md "wikilink")，它的前身是3系列的。[轿跑款的F](https://zh.wikipedia.org/wiki/轿跑车 "wikilink")32于2012年12月在[慕尼黑首次向公众发布](../Page/慕尼黑.md "wikilink")，并在次年1月的[底特律车展率先亮相](https://zh.wikipedia.org/wiki/底特律车展 "wikilink")。其后配备有硬顶折叠敞篷的[敞篷版](../Page/敞篷车.md "wikilink")（F33）和融合了敞篷和轿跑元素的（F36）也相继于2014年推出市场。
 
 ## 4系轿跑概念车（2013）
 
-相较于原有的[3系轿跑车](../Page/BMW_3系列.md "wikilink")，4系轿跑概念车的轴距（2810毫米）增加了50毫米，前轮距（1545毫米）增加了45毫米，后轮距（1593毫米）增加了80毫米。宽度方面，该车也比前作车型增加了44毫米，而车顶线则降低了16毫米（1362毫米）并有所加长（4641毫米）。其它特点还包括六角形设计的全[LED双大灯](../Page/LED.md "wikilink")、侧窗下部的两条并行特征线条组成的双腰线（来自3系）、前轮鲨鱼腮侧通风口、三维多幅样式的20寸轻质铝合金轮圈、L形尾灯、双色调的真皮内饰、皮质包裹杯架和[直列六缸发动机等](../Page/直列六缸发动机.md "wikilink")\[1\]。
+相较于原有的[3系轿跑车](../Page/BMW_3系列.md "wikilink")，4系轿跑概念车的轴距（2810毫米）增加了50毫米，前轮距（1545毫米）增加了45毫米，后轮距（1593毫米）增加了80毫米。宽度方面，该车也比前作车型增加了44毫米，而车顶线则降低了16毫米（1362毫米）并有所加长（4641毫米）。其它特点还包括六角形设计的全[LED双大灯](https://zh.wikipedia.org/wiki/LED "wikilink")、侧窗下部的两条并行特征线条组成的双腰线（来自3系）、前轮鲨鱼腮侧通风口、三维多幅样式的20寸轻质铝合金轮圈、L形尾灯、双色调的真皮内饰、皮质包裹杯架和[直列六缸发动机等](../Page/直列六缸发动机.md "wikilink")\[1\]。
 
-该车是在2013年的[底特律车展首次亮相](../Page/底特律车展.md "wikilink")\[2\]。
+该车是在2013年的[底特律车展首次亮相](https://zh.wikipedia.org/wiki/底特律车展 "wikilink")\[2\]。
 
 ## 款式
 
 ### 双门轿跑车（F32，2012–）
 
 [BMW_4er_Coupé.JPG](https://zh.wikipedia.org/wiki/File:BMW_4er_Coupé.JPG "fig:BMW_4er_Coupé.JPG")
-双门轿跑车F32由原来的3系轿跑车衍生而来，它最早是在2013年的[法兰克福车展首次亮相](../Page/法兰克福车展.md "wikilink")\[3\]。新车在3系轿跑的基础上加长了26毫米。高度降低的前后悬架令全新4系双门轿跑拥有当时BMW在售车型中最低的重心，甚至比[M3的重心还低](../Page/BMW_M3.md "wikilink")，整个重心高度为500mm。在宽度上，F32增加了43毫米（达1825毫米），全新远近光LED随动控制大灯使其外观显得更加运动。在车身轻量化方面，新车除了使用最先进的复合材料外，发动机和底盘结构中更多地采用[铝合金部件也减轻了相应总成的重量](../Page/铝合金.md "wikilink")。尽管车身尺寸有所增加，但它的质量比上一代车型减少了45公斤\[4\]。
+双门轿跑车F32由原来的3系轿跑车衍生而来，它最早是在2013年的[法兰克福车展首次亮相](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")\[3\]。新车在3系轿跑的基础上加长了26毫米。高度降低的前后悬架令全新4系双门轿跑拥有当时BMW在售车型中最低的重心，甚至比[M3的重心还低](../Page/BMW_M3.md "wikilink")，整个重心高度为500mm。在宽度上，F32增加了43毫米（达1825毫米），全新远近光LED随动控制大灯使其外观显得更加运动。在车身轻量化方面，新车除了使用最先进的复合材料外，发动机和底盘结构中更多地采用[铝合金部件也减轻了相应总成的重量](https://zh.wikipedia.org/wiki/铝合金 "wikilink")。尽管车身尺寸有所增加，但它的质量比上一代车型减少了45公斤\[4\]。
 
 初期推出的动力版本包括有428i（245马力）、435i（306马力）和420d\[5\]。420i、420i xDrive、420d
 xDrive、430d和435d
 xDrive则是在2013年11月上市。美规版本是在2013年夏季作为2014年度车型开始销售。初期推出的型号包括428i（244马力）、435i（304马力）、428i
 xDrive（244马力）和435i
-xDrive（304马力）。它主要的同级竞争对手有[奥迪A5轿跑](../Page/奥迪A5.md "wikilink")、[英菲尼迪Q60轿跑和](../Page/英菲尼迪G.md "wikilink")[凱迪拉克CTS轿跑](../Page/凱迪拉克CTS.md "wikilink")\[6\]。
+xDrive（304马力）。它主要的同级竞争对手有[奥迪A5轿跑](https://zh.wikipedia.org/wiki/奥迪A5 "wikilink")、[英菲尼迪Q60轿跑和](../Page/英菲尼迪G.md "wikilink")[凱迪拉克CTS轿跑](https://zh.wikipedia.org/wiki/凱迪拉克CTS "wikilink")\[6\]。
 
 ### 敞篷轿跑车（F33，2013–）
 
 [BMW_435i_Cabriolet_M_Sport_F33_(14321046911).jpg](https://zh.wikipedia.org/wiki/File:BMW_435i_Cabriolet_M_Sport_F33_\(14321046911\).jpg "fig:BMW_435i_Cabriolet_M_Sport_F33_(14321046911).jpg")
-新的4系[敞篷轿跑车将取代原](../Page/敞篷车.md "wikilink")3系的敞篷款。其宽度、轮距和轴距均较E93有了显著提升。它最先是在2013年的[东京车展首次亮相](../Page/东京车展.md "wikilink")\[7\]，随后又在同年的[洛杉矶车展展出](../Page/洛杉矶国际车展.md "wikilink")\[8\]。与普通硬顶版F32相比，F33的前脸没有太多改动，均是采用3系[F30的家族式外观设计](../Page/BMW_F30.md "wikilink")，硬顶折叠敞篷是其最显著的特点。F33的三片式电动硬顶在车速低于18公里/小时的情况下，开闭合工作可在20秒时间内完成。车体尾部与F32的设计造型也基本一致，略有差别之处在于F33的行李箱上缘边条处集成了长条型的刹车灯。此外，由于要收纳硬顶敞篷，行李箱的空间也相应减少，仅为220升，然而在敞篷打开状态时则仍可增至370升的容积\[9\]。
+新的4系[敞篷轿跑车将取代原](../Page/敞篷车.md "wikilink")3系的敞篷款。其宽度、轮距和轴距均较E93有了显著提升。它最先是在2013年的[东京车展首次亮相](https://zh.wikipedia.org/wiki/东京车展 "wikilink")\[7\]，随后又在同年的[洛杉矶车展展出](../Page/洛杉矶国际车展.md "wikilink")\[8\]。与普通硬顶版F32相比，F33的前脸没有太多改动，均是采用3系[F30的家族式外观设计](../Page/BMW_F30.md "wikilink")，硬顶折叠敞篷是其最显著的特点。F33的三片式电动硬顶在车速低于18公里/小时的情况下，开闭合工作可在20秒时间内完成。车体尾部与F32的设计造型也基本一致，略有差别之处在于F33的行李箱上缘边条处集成了长条型的刹车灯。此外，由于要收纳硬顶敞篷，行李箱的空间也相应减少，仅为220升，然而在敞篷打开状态时则仍可增至370升的容积\[9\]。
 
 初期推出的版本包括428i（245马力）、435i（306马力）和420d，428i
 xDrive则可在2014年春季起预定\[10\]。美规版本作为2014年度车型，于2014年第一季度抵达[美国展厅](../Page/美国.md "wikilink")。初期型号包括428i（244马力）、428i
-xDrive（244马力）和435i（304马力）。它主要的同级竞争对手有[奥迪A5敞篷轿跑](../Page/奥迪A5.md "wikilink")、[英菲尼迪Q60敞篷轿跑和](../Page/英菲尼迪G.md "wikilink")[奔驰E级敞篷轿跑](../Page/梅赛德斯-奔驰E级.md "wikilink")。
+xDrive（244马力）和435i（304马力）。它主要的同级竞争对手有[奥迪A5敞篷轿跑](https://zh.wikipedia.org/wiki/奥迪A5 "wikilink")、[英菲尼迪Q60敞篷轿跑和](../Page/英菲尼迪G.md "wikilink")[奔驰E级敞篷轿跑](../Page/梅赛德斯-奔驰E级.md "wikilink")。
 
 ### 四门轿跑车（F36，2014–）
 
 [BMW_4-Series_F36_Gran_Coupé_01_Avignon_Motor_Festival_2014-03-23.jpg](https://zh.wikipedia.org/wiki/File:BMW_4-Series_F36_Gran_Coupé_01_Avignon_Motor_Festival_2014-03-23.jpg "fig:BMW_4-Series_F36_Gran_Coupé_01_Avignon_Motor_Festival_2014-03-23.jpg")
-融合了轿跑和敞篷元素的4系（）是BMW生产的第二款高级轿跑车型。如同第一款[6系高级轿跑车F06](../Page/BMW_F12.md "wikilink")，它是一辆具备四门的轿跑车，因此也被称为[掀背车](../Page/掀背车.md "wikilink")。然而与F06不同的是，其支柱更倾向于的四柱式结构，即A柱、B柱、C柱和D柱，使得整个车顶弧线的收缩更加靠后。与此类似的还有[奥迪A7和](../Page/奥迪A7.md "wikilink")[奥迪A5](../Page/奥迪A5.md "wikilink")
+融合了轿跑和敞篷元素的4系（）是BMW生产的第二款高级轿跑车型。如同第一款[6系高级轿跑车F06](https://zh.wikipedia.org/wiki/BMW_F12 "wikilink")，它是一辆具备四门的轿跑车，因此也被称为[掀背车](../Page/掀背车.md "wikilink")。然而与F06不同的是，其支柱更倾向于的四柱式结构，即A柱、B柱、C柱和D柱，使得整个车顶弧线的收缩更加靠后。与此类似的还有[奥迪A7和](https://zh.wikipedia.org/wiki/奥迪A7 "wikilink")[奥迪A5](https://zh.wikipedia.org/wiki/奥迪A5 "wikilink")
 Sportback\[11\]。
 
 总体而言，四门轿跑车保持了双门轿跑（F32）的设计风格，在前脸、尾部和内饰方面几乎没有差别。不同的是，F36的车身高度要比F32高出12毫米，为1400毫米。通过侧窗下部的双腰线和巧妙设计的采光边缘，平滑舒展的车顶线条与后侧围板和后行李厢盖流畅地融合，让侧面外观显得更为修长。F36还在后门增加了一个三角窗，这一类似于3系GT的设计也使得车内拥有更加充裕的后座空间以及后备箱空间（480升，在翻倒后排座椅后可以扩充至1300升）。其它特点则还包括掀背式尾门和无框车窗设计。\[12\]
 
-F36首先是在2014年的[日内瓦车展亮相](../Page/日内瓦车展.md "wikilink")\[13\]，随后在同年的[纽约车展](../Page/纽约车展.md "wikilink")\[14\]和[北京车展也有展出](../Page/北京车展.md "wikilink")\[15\]。初期提供的动力版本包括420i（184马力）、428i（245马力）、428i
+F36首先是在2014年的[日内瓦车展亮相](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")\[13\]，随后在同年的[纽约车展](https://zh.wikipedia.org/wiki/纽约车展 "wikilink")\[14\]和[北京车展也有展出](https://zh.wikipedia.org/wiki/北京车展 "wikilink")\[15\]。初期提供的动力版本包括420i（184马力）、428i（245马力）、428i
 xDrive（245马力）、435i（306马力）、418d（143马力）、420d（184马力）420d
 xDrive（184马力）\[16\]。
 
 ## 技术参数
 
-在量产初期，BMW计划为第一代4系配备的分别是功率为180千瓦（245马力）的428i和225千瓦（306马力）的435i两款[汽油发动机](../Page/汽油发动机.md "wikilink")，以及功率为135千瓦（184马力）的420d[柴油发动机](../Page/柴油发动机.md "wikilink")。自2013年11月起，又提供了另外一款可用于420i的135千瓦（184马力）汽油发动机，以及可分别用于430d的190千瓦（258马力）和435d的230千瓦（313马力）两款柴油发动机\[17\]。这些发动机也被应用于第六代3系的F30车型中\[18\]。
+在量产初期，BMW计划为第一代4系配备的分别是功率为180千瓦（245马力）的428i和225千瓦（306马力）的435i两款[汽油发动机](https://zh.wikipedia.org/wiki/汽油发动机 "wikilink")，以及功率为135千瓦（184马力）的420d[柴油发动机](https://zh.wikipedia.org/wiki/柴油发动机 "wikilink")。自2013年11月起，又提供了另外一款可用于420i的135千瓦（184马力）汽油发动机，以及可分别用于430d的190千瓦（258马力）和435d的230千瓦（313马力）两款柴油发动机\[17\]。这些发动机也被应用于第六代3系的F30车型中\[18\]。
 
 ### 汽油版
 
@@ -68,7 +68,7 @@ xDrive（184马力）\[16\]。
 </tr>
 <tr class="even">
 <td><p>发动机</p></td>
-<td><p><a href="../Page/汽油发动机.md" title="wikilink">汽油发动机</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/汽油发动机" title="wikilink">汽油发动机</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -85,7 +85,7 @@ xDrive（184马力）\[16\]。
 <tr class="even">
 <td><p>发动机型号</p></td>
 <td></td>
-<td><p><a href="../Page/BMW_N55.md" title="wikilink">N55B30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_N55" title="wikilink">N55B30</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -111,7 +111,7 @@ xDrive（184马力）\[16\]。
 </tr>
 <tr class="even">
 <td><p>变速箱（标配）</p></td>
-<td><p><a href="../Page/手动变速器.md" title="wikilink">6速手动变速箱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/手动变速器" title="wikilink">6速手动变速箱</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -129,7 +129,7 @@ xDrive（184马力）\[16\]。
 </tr>
 <tr class="odd">
 <td><p>驱动方式（选配）</p></td>
-<td><p><a href="../Page/全轮驱动.md" title="wikilink">全轮驱动</a> (xDrive)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全轮驱动" title="wikilink">全轮驱动</a> (xDrive)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -216,7 +216,7 @@ xDrive（184马力）\[16\]。
 </tr>
 <tr class="even">
 <td><p>发动机</p></td>
-<td><p><a href="../Page/柴油发动机.md" title="wikilink">柴油发动机</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柴油发动机" title="wikilink">柴油发动机</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -288,7 +288,7 @@ xDrive（184马力）\[16\]。
 </tr>
 <tr class="even">
 <td><p>变速箱（标配）</p></td>
-<td><p><a href="../Page/手动变速器.md" title="wikilink">6速手动变速箱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/手动变速器" title="wikilink">6速手动变速箱</a></p></td>
 <td><p><a href="../Page/自动变速器.md" title="wikilink">8速手自一体变速箱</a></p></td>
 <td></td>
 <td></td>
@@ -316,7 +316,7 @@ xDrive（184马力）\[16\]。
 <tr class="odd">
 <td><p>驱动方式（标配）</p></td>
 <td><p><a href="../Page/后轮驱动.md" title="wikilink">后轮驱动</a></p></td>
-<td><p><a href="../Page/全轮驱动.md" title="wikilink">全轮驱动</a> (xDrive)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全轮驱动" title="wikilink">全轮驱动</a> (xDrive)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -325,9 +325,9 @@ xDrive（184马力）\[16\]。
 <tr class="even">
 <td><p>驱动方式（选配）</p></td>
 <td><p>–</p></td>
-<td><p><a href="../Page/全轮驱动.md" title="wikilink">全轮驱动</a> (xDrive)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全轮驱动" title="wikilink">全轮驱动</a> (xDrive)</p></td>
 <td><p>–</p></td>
-<td><p><a href="../Page/全轮驱动.md" title="wikilink">全轮驱动</a> (xDrive)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全轮驱动" title="wikilink">全轮驱动</a> (xDrive)</p></td>
 <td><p>–</p></td>
 <td></td>
 </tr>

@@ -1,5 +1,5 @@
 《**Fight For
-Love**》是[台灣歌手](../Page/台灣.md "wikilink")[袁詠琳發行第三張國語專輯](../Page/袁詠琳.md "wikilink")\[1\]。
+Love**》是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[袁詠琳發行第三張國語專輯](../Page/袁詠琳.md "wikilink")\[1\]。
 
 ## 簡介
 

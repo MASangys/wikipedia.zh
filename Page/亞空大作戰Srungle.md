@@ -1,4 +1,4 @@
-『**亞空大作戰**』（原題：）是[日本](../Page/日本.md "wikilink")[國際映畫社制作的](../Page/國際映畫社.md "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")。由[朝日電視台在](../Page/朝日電視台.md "wikilink")1983年1月21日至1984年1月27日播放，全53話（本編52話＋總集編1話）。
+『**亞空大作戰**』（原題：）是[日本](../Page/日本.md "wikilink")[國際映畫社制作的](https://zh.wikipedia.org/wiki/國際映畫社 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")。由[朝日電視台在](../Page/朝日電視台.md "wikilink")1983年1月21日至1984年1月27日播放，全53話（本編52話＋總集編1話）。
 
 ## 各話一覽
 
@@ -20,7 +20,7 @@
 <td><p><strong>1983年</strong><br />
 1月21日</p></td>
 <td><p>その名はゴリラ PART1</p></td>
-<td><p><a href="../Page/山本優.md" title="wikilink">山本優</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山本優" title="wikilink">山本優</a></p></td>
 <td><p>宮崎一哉</p></td>
 <td><p>高橋朝雄</p></td>
 <td></td>
@@ -104,7 +104,7 @@
 <td><p>青木浩一</p></td>
 <td><p>小鹿英吉</p></td>
 <td><p>内田祐司</p></td>
-<td><p><a href="../Page/土器手司.md" title="wikilink">土器手司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/土器手司" title="wikilink">土器手司</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -157,7 +157,7 @@
 <td><p>黒鷲の秘密</p></td>
 <td><p>八田朗</p></td>
 <td><p>宮崎一哉</p></td>
-<td><p><a href="../Page/須永司.md" title="wikilink">須永司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/須永司" title="wikilink">須永司</a></p></td>
 <td><p>土器手司</p></td>
 </tr>
 <tr class="odd">
@@ -272,7 +272,7 @@
 <td><p>29</p></td>
 <td><p>8月5日</p></td>
 <td><p>魔のミュータント部隊</p></td>
-<td><p><a href="../Page/会川昇.md" title="wikilink">会川昇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/会川昇" title="wikilink">会川昇</a></p></td>
 <td><p>栗山美秀</p></td>
 <td><p>小泉謙三</p></td>
 <td></td>

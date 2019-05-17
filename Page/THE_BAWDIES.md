@@ -1,7 +1,7 @@
 **THE
-BAWDIES**（ザ・ボゥディーズ）是日本的知名搖滾樂團，由ROY、TAXMAN、JIM、MARCY四位成員組成。樂團風格受到[小理查德](../Page/小理查德.md "wikilink")、[雷·查爾斯等所代表的](../Page/雷·查爾斯.md "wikilink")[節奏藍調和](../Page/節奏藍調.md "wikilink")[Rock
+BAWDIES**（ザ・ボゥディーズ）是日本的知名搖滾樂團，由ROY、TAXMAN、JIM、MARCY四位成員組成。樂團風格受到[小理查德](../Page/小理查德.md "wikilink")、[雷·查爾斯等所代表的](https://zh.wikipedia.org/wiki/雷·查爾斯 "wikilink")[節奏藍調和](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[Rock
 and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得全部以英文填詞的方式發表。
-2014年1月18日，主唱ROY在自己的[推特發表了和日本模特兒](../Page/推特.md "wikilink")/歌手組合中的入籍結婚的消息。\[1\]
+2014年1月18日，主唱ROY在自己的[推特發表了和日本模特兒](https://zh.wikipedia.org/wiki/推特 "wikilink")/歌手組合中的入籍結婚的消息。\[1\]
 
 ## 成員
 
@@ -45,7 +45,7 @@ and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得�
 
 ## 概要
 
-  - 音樂風格主要受到、[雷·查爾斯和](../Page/雷·查爾斯.md "wikilink")[小理查德等黑人音樂的影響](../Page/小理查德.md "wikilink")，曾受邀擔任英國歌手的演唱會暖場嘉賓，並獲得很高的評價和讚賞。\[8\]
+  - 音樂風格主要受到、[雷·查爾斯和](https://zh.wikipedia.org/wiki/雷·查爾斯 "wikilink")[小理查德等黑人音樂的影響](../Page/小理查德.md "wikilink")，曾受邀擔任英國歌手的演唱會暖場嘉賓，並獲得很高的評價和讚賞。\[8\]
   - 曾和、the brixton academy、QUATTRO、PILLS
     EMPIRE等共同演出，也多次參加由知名日本音樂評論家所舉辦的CLUB
     SNOOZER活動。因為希望觀眾能像西方的搖滾演唱會一樣，演奏一開始就能隨心所欲的跟著節奏舞動，所以把演唱會稱為派對（PARTY）。
@@ -178,7 +178,7 @@ and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得�
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="../Page/JUST_BE_COOL.md" title="wikilink">JUST BE COOL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JUST_BE_COOL" title="wikilink">JUST BE COOL</a></p></td>
 <td><p>2010年9月15日</p></td>
 <td><p>通常盤(CD) [VICL-36610]<br />
 初回限定盤(CD＋DVD) [VIZL-399]</p></td>
@@ -231,7 +231,7 @@ and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得�
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p><a href="../Page/SUNSHINE.md" title="wikilink">SUNSHINE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUNSHINE" title="wikilink">SUNSHINE</a></p></td>
 <td><p>2015年10月28日</p></td>
 <td><p>通常盤(CD) [VICL-37118]<br />
 初回限定盤(CD+DVD) [VIZL-896]</p></td>
@@ -555,7 +555,7 @@ DVD[VIBL-704]</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="../Page/性手槍.md" title="wikilink">Sex Pistols紀念專輯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/性手槍" title="wikilink">Sex Pistols紀念專輯</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年4月22日</p></td>
@@ -599,7 +599,7 @@ DVD[VIBL-704]</p></td>
 <ol>
 <li>「ドラゴンクエスト VIII」より「序曲」 / すぎやまこういち指揮　東京都交響楽団</li>
 <li>あいさつ / DJやついいちろう</li>
-<li>ワンダーフォーゲル / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
+<li>ワンダーフォーゲル / <a href="https://zh.wikipedia.org/wiki/くるり" title="wikilink">くるり</a></li>
 <li>透明ガール / NONA REEVES</li>
 <li>風吹けば恋 / チャットモンチー</li>
 <li>BABY BABY / 銀杏BOYZ</li>
@@ -610,8 +610,8 @@ DVD[VIBL-704]</p></td>
 <li>FUNKYウーロン茶 / SUPER BUTTER DOG</li>
 <li>夏祭り / ジッタリン・ジン</li>
 <li>summer time POP! / ホフディラン</li>
-<li>1,2,3 / <a href="../Page/中村一義.md" title="wikilink">中村一義</a></li>
-<li>You / <a href="../Page/木村カエラ.md" title="wikilink">木村カエラ</a></li>
+<li>1,2,3 / <a href="https://zh.wikipedia.org/wiki/中村一義" title="wikilink">中村一義</a></li>
+<li>You / <a href="https://zh.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
 <li>グラフティー / GOING UNDER GROUND</li>
 <li>ボニー&amp;クライド / 髭（HiGE）</li>
 <li>RINJIN / LA-PPISCH</li>
@@ -629,7 +629,7 @@ DVD[VIBL-704]</p></td>
 <li>君にジュースを買ってあげる / グループ魂</li>
 <li>TEENAGER / フジファブリック</li>
 <li>AIMS / SPECIAL OTHERS</li>
-<li>YAH YAH YAH / <a href="../Page/CHAGE_and_ASKA.md" title="wikilink">CHAGE and ASKA</a></li>
+<li>YAH YAH YAH / <a href="https://zh.wikipedia.org/wiki/CHAGE_and_ASKA" title="wikilink">CHAGE and ASKA</a></li>
 <li>survival dAnce ～no no cry more～ / <a href="../Page/TRF.md" title="wikilink">TRF</a>
 </div>
 </div></li>
@@ -666,14 +666,14 @@ DVD[VIBL-704]</p></td>
 <li>デイドリームネイション / monobright</li>
 <li>New Music Machine / cornelius</li>
 <li>BE MY WIFE / BEAT CRUSADERS</li>
-<li>human / <a href="../Page/サカナクション.md" title="wikilink">サカナクション</a></li>
+<li>human / <a href="https://zh.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a></li>
 <li>THE WORLD IS MINE / Northern19</li>
-<li>インスタント ミュージック/ <a href="../Page/the_pillows.md" title="wikilink">the pillows</a></li>
+<li>インスタント ミュージック/ <a href="https://zh.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a></li>
 <li>すごい速さ / andymori</li>
 <li>Stay Cool! Stay Hip! Stay Youg! / THE COLLECTORS</li>
 <li>悲しい気持ち(JUST A MAN IN LOVE) / 松本素生&amp;THE COLLECTORS</li>
 <li>サングラスマン / THE PEPPERMINT JAM</li>
-<li>ばらの花 / <a href="../Page/くるり.md" title="wikilink">くるり</a>
+<li>ばらの花 / <a href="https://zh.wikipedia.org/wiki/くるり" title="wikilink">くるり</a>
 </div>
 </div></li>
 </ol></td>
@@ -757,7 +757,7 @@ DVD[VIBL-704]</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>The Beginning / 岩代太郎</li>
-<li>恋のメガラバ / <a href="../Page/マキシマムザホルモン.md" title="wikilink">マキシマムザホルモン</a></li>
+<li>恋のメガラバ / <a href="https://zh.wikipedia.org/wiki/マキシマムザホルモン" title="wikilink">マキシマムザホルモン</a></li>
 <li>Black Market Blue / 9mm Parabellum Bullet</li>
 <li>B.A.N.D. / YOUR SONG IS GOOD</li>
 <li><strong>IT'S TOO LATE / THE BAWDIES</strong></li>
@@ -766,7 +766,7 @@ DVD[VIBL-704]</p></td>
 <li>大迷惑 / UNICORN</li>
 <li>おしゃべり!おしゃべり! / 小島麻由美</li>
 <li>くちばしにチェリー / EGO-WRAPPIN'</li>
-<li>魂のゆくえ / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
+<li>魂のゆくえ / <a href="https://zh.wikipedia.org/wiki/くるり" title="wikilink">くるり</a></li>
 <li>DOWN BEAT STOMP / 東京スカパラダイスオーケストラ</li>
 <li>GOLDFINGER'99 / <a href="../Page/乡裕美.md" title="wikilink">郷ひろみ</a></li>
 <li>今夜はブギーバッグ smooth rap / スチャダラパー feat. 小沢健二</li>
@@ -775,13 +775,13 @@ DVD[VIBL-704]</p></td>
 <li>ロックンロールは鳴り止まないっ / 神聖かまってちゃん</li>
 <li>いいコになんかなるなよ / Theピーズ</li>
 <li>真冬の盆踊り / フラワーカンパニーズ</li>
-<li>群青日和 / <a href="../Page/東京事変.md" title="wikilink">東京事変</a></li>
+<li>群青日和 / <a href="https://zh.wikipedia.org/wiki/東京事変" title="wikilink">東京事変</a></li>
 <li>メモリーズ / <a href="../Page/SPITZ.md" title="wikilink">スピッツ</a></li>
 <li>GOLDEN KING / □□□</li>
 <li>胸いっぱい / サニーデイ・サービス</li>
 <li>Shangri-La / 電気グルーヴ</li>
 <li>残酷な天使のテーゼ / <a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></li>
-<li>ネイティブ・ダンサー / <a href="../Page/サカナクション.md" title="wikilink">サカナクション</a></li>
+<li>ネイティブ・ダンサー / <a href="https://zh.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a></li>
 <li>LOVEずっきゅん / 相対性理論</li>
 <li>Love&amp;DISCO / the telephones</li>
 <li>シャナナ☆ / MINMI</li>
@@ -809,7 +809,7 @@ DVD[VIBL-704]</p></td>
 <li>I'm all in love / 菅野よう子 × Nello Angelluchi</li>
 <li>Maybe Someday / 菅野よう子 × 秀人（<a href="../Page/綾野剛.md" title="wikilink">綾野剛</a>）</li>
 <li>幸せならクラップユアハンズ/ 菅野よう子 × 近藤房之助</li>
-<li>SURELY SOMEDAY / 菅野よう子 × 巧（<a href="../Page/小出恵介.md" title="wikilink">小出恵介</a>）&amp;Unsung Heroes</li>
+<li>SURELY SOMEDAY / 菅野よう子 × 巧（<a href="https://zh.wikipedia.org/wiki/小出恵介" title="wikilink">小出恵介</a>）&amp;Unsung Heroes</li>
 <li>Because / 菅野よう子 × <a href="../Page/手嶌葵.md" title="wikilink">手嶌葵</a></li>
 <li>SURELY SOMEDAY (demo version) / トータス松本 (ボーナストラック)
 </div>
@@ -917,14 +917,14 @@ DVD[VIBL-704]</p></td>
 <li>ジェットにんぢん 2010 / GO!GO!7188</li>
 <li>ミンガスファンクラブ / SOIL&amp;"PIMP"SESSIONS</li>
 <li>オトナノススメ / 怒髪天</li>
-<li>アフターダーク / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>青い空 / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
+<li>アフターダーク / <a href="https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>青い空 / <a href="https://zh.wikipedia.org/wiki/くるり" title="wikilink">くるり</a></li>
 <li>orange sunshine distortion / The Flickers</li>
 <li>Electric Surfin' Go Go / POLYSICS</li>
 <li>Delight Slight Lightspeed / avengers in sci-fi</li>
 <li>回想する / 木箱</li>
 <li>STROBOLIGHTS / スーパーカー</li>
-<li>アルクアラウンド / <a href="../Page/サカナクション.md" title="wikilink">サカナクション</a>
+<li>アルクアラウンド / <a href="https://zh.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a>
 </div>
 </div></li>
 </ol></td>
@@ -939,13 +939,13 @@ DVD[VIBL-704]</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>GOOD LUCK CHARM / <a href="../Page/SUGAR_SPECTOR.md" title="wikilink">SUGAR SPECTOR</a></li>
-<li>HOUND DOG / <a href="../Page/THE_MINNESOTA_VOODOOMEN.md" title="wikilink">THE MINNESOTA VOODOOMEN</a></li>
-<li>TROUBLE / <a href="../Page/KOZZY_IWAKAWA.md" title="wikilink">KOZZY IWAKAWA</a> and <a href="../Page/BLOODEST_SAXOPHONE.md" title="wikilink">BLOODEST SAXOPHONE</a></li>
-<li>BURNING LOVE / SUGAR SPECTOR feat. <a href="../Page/SHIGERU_SUZUKI.md" title="wikilink">SHIGERU SUZUKI</a></li>
+<li>GOOD LUCK CHARM / <a href="https://zh.wikipedia.org/wiki/SUGAR_SPECTOR" title="wikilink">SUGAR SPECTOR</a></li>
+<li>HOUND DOG / <a href="https://zh.wikipedia.org/wiki/THE_MINNESOTA_VOODOOMEN" title="wikilink">THE MINNESOTA VOODOOMEN</a></li>
+<li>TROUBLE / <a href="https://zh.wikipedia.org/wiki/KOZZY_IWAKAWA" title="wikilink">KOZZY IWAKAWA</a> and <a href="https://zh.wikipedia.org/wiki/BLOODEST_SAXOPHONE" title="wikilink">BLOODEST SAXOPHONE</a></li>
+<li>BURNING LOVE / SUGAR SPECTOR feat. <a href="https://zh.wikipedia.org/wiki/SHIGERU_SUZUKI" title="wikilink">SHIGERU SUZUKI</a></li>
 <li><strong>LONG TALL SALLY / ROY</strong></li>
 <li>I NEED YOUR LOVE TONIGHT / </li>
-<li>LITTLE SISTER / SUGAR SPECTOR feat. <a href="../Page/BIG_JAY_McNEELY.md" title="wikilink">BIG JAY McNEELY</a></li>
+<li>LITTLE SISTER / SUGAR SPECTOR feat. <a href="https://zh.wikipedia.org/wiki/BIG_JAY_McNEELY" title="wikilink">BIG JAY McNEELY</a></li>
 <li>BLUE　MOON / KOZZY IWAKAWA</li>
 <li>A BIG HUNK O' LOVE / THE NEATBEATS</li>
 <li>YOU DON'T HAVE TO SAY YOU LOVE ME / SUGAR SPECTOR feat. BLOODEST SAXOPHONE</li>
@@ -971,15 +971,15 @@ DVD[VIBL-704]</p></td>
 <li>Love &amp; DISCO / <a href="../Page/J.md" title="wikilink">J</a></li>
 <li>Monkey Discooooooo / </li>
 <li>A.B.C.DISCO / </li>
-<li>kiss me, love me, kiss me / <a href="../Page/Koji_Nakamura.md" title="wikilink">Koji Nakamura</a></li>
+<li>kiss me, love me, kiss me / <a href="https://zh.wikipedia.org/wiki/Koji_Nakamura" title="wikilink">Koji Nakamura</a></li>
 </ol>
 <p># I Hate DISCOOOOOOO</p></td>
 <td><p>! / </p>
 <ol>
 <li>Just One Victory / </li>
-<li>Odoru～朝が来ても～ / <a href="../Page/Yogee_New_Waves.md" title="wikilink">Yogee New Waves</a></li>
+<li>Odoru～朝が来ても～ / <a href="https://zh.wikipedia.org/wiki/Yogee_New_Waves" title="wikilink">Yogee New Waves</a></li>
 <li>Fire, Fire, Fire / [</li>
-<li>Say DISCO / <a href="../Page/Fragment.md" title="wikilink">Fragment</a>×<a href="../Page/DOTAMA.md" title="wikilink">DOTAMA</a>
+<li>Say DISCO / <a href="https://zh.wikipedia.org/wiki/Fragment" title="wikilink">Fragment</a>×<a href="https://zh.wikipedia.org/wiki/DOTAMA" title="wikilink">DOTAMA</a>
 </div>
 </div></li>
 </ol></td>
@@ -1113,8 +1113,9 @@ DVD[VIBL-704]</p></td>
   - 2014年 - ROCKIN' THIS JOINT TONIGHT
   - 2014年 - ～The 10th Anniversary～ Like a Rockin' Rollin' Stone Tour
       -
-        w/[［Alexandros］](../Page/［Alexandros］.md "wikilink")/9mm
-        Parabellum Bullet//////[東京斯卡樂園管絃樂團](../Page/東京斯卡.md "wikilink")
+        w/[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")/9mm
+        Parabellum
+        Bullet//////[東京斯卡樂園管絃樂團](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")
   - 2014年〜2015年 - 「Boys\!」TOUR 2014-2015
   - 2015年 - 第一次Hall公演「Shake\! Shout\! & Soul\!」
   - 2015年 - 歐洲巡迴演唱會（德國、法國、英國）
@@ -1129,7 +1130,8 @@ DVD[VIBL-704]</p></td>
   - 2009年7月18日 -  '09 ～夏の魔物～
   - 2009年7月26日 - '09
   - 2009年8月1日 - [ROCK IN JAPAN
-    FESTIVAL](../Page/ROCK_IN_JAPAN_FESTIVAL.md "wikilink") 2009
+    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
+    2009
   - 2009年8月7日 - [SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2009
   - 2009年8月15日 -  2009 in EZO
   - 2009年8月29日 - SPACE SHOWER  2009
@@ -1235,7 +1237,8 @@ DVD[VIBL-704]</p></td>
   - 2015年7月4日 -
   - 2015年7月19日 - KESEN ROCK FESTIVAL’15
   - 2015年08年01日 - [ROCK IN JAPAN
-    FESTIVAL](../Page/ROCK_IN_JAPAN_FESTIVAL.md "wikilink") 2015
+    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
+    2015
   - 2015年8月8日 - SOUND MARINA'15
   - 2015年8月14日 - RISING SUN ROCK FESTIVAL 2015 in EZO, FRIDAY NIGHT
     SESSION (※ROY only)
@@ -1246,7 +1249,7 @@ DVD[VIBL-704]</p></td>
   - 2015年9月5日 - BAYCAMP 2015
   - 2015年9月6日 - RADIO BERRY ベリテンライブ2015 Special
   - 2015年10月2日 - [THE BACK
-    HORN](../Page/THE_BACK_HORN.md "wikilink")「KYO-MEI対バンツアー」～命を叫ぶ夜～
+    HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink")「KYO-MEI対バンツアー」～命を叫ぶ夜～
   - 2015年10月3日 - スペースシャワー列伝15周年記念公演 特別編"大大大宴会"～西の宴～
   - 2015年11月3日 - the telephones presents "Last Party～We are
     DISCO\!\!\!～"

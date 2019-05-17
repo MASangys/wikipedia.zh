@@ -110,7 +110,7 @@ TV開播，已經播出了4季(台灣將前2季合併為第一季,後2季合併�
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/EBS_TV.md" title="wikilink">EBS TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EBS_TV" title="wikilink">EBS TV</a></p></td>
 <td><p>2011年2月28日</p></td>
 </tr>
 <tr class="even">
@@ -125,7 +125,7 @@ TV開播，已經播出了4季(台灣將前2季合併為第一季,後2季合併�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/CH9.md" title="wikilink">CH9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CH9" title="wikilink">CH9</a></p></td>
 <td><p>2013年8月2日</p></td>
 </tr>
 <tr class="odd">

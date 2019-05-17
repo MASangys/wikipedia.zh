@@ -9,10 +9,13 @@ of Developers成为[2K Games的品牌](../Page/2K_Games.md "wikilink")。
 
   - [Ritual Entertainment](../Page/Ritual_Entertainment.md "wikilink")
   - [Epic Games](../Page/Epic_Games.md "wikilink")
-  - [3D Realms](../Page/3D_Realms.md "wikilink")
-  - [PopTop Software](../Page/PopTop_Software.md "wikilink")
-  - [Terminal Reality](../Page/Terminal_Reality.md "wikilink")
-  - [Edge of Reality](../Page/Edge_of_Reality.md "wikilink")
+  - [3D Realms](https://zh.wikipedia.org/wiki/3D_Realms "wikilink")
+  - [PopTop
+    Software](https://zh.wikipedia.org/wiki/PopTop_Software "wikilink")
+  - [Terminal
+    Reality](https://zh.wikipedia.org/wiki/Terminal_Reality "wikilink")
+  - [Edge of
+    Reality](https://zh.wikipedia.org/wiki/Edge_of_Reality "wikilink")
 
 ## 个人
 
@@ -40,87 +43,87 @@ of Developers成为[2K Games的品牌](../Page/2K_Games.md "wikilink")。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em><a href="../Page/Jazz_Jackrabbit_2.md" title="wikilink">Jazz Jackrabbit 2</a></em></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Jazz_Jackrabbit_2" title="wikilink">Jazz Jackrabbit 2</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
 <td><p><a href="../Page/Epic_Games.md" title="wikilink">Epic Games</a></p></td>
 <td><p>[1]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac</a></p></td>
 <td></td>
-<td><p><a href="../Page/PopTop_Software.md" title="wikilink">PopTop Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PopTop_Software" title="wikilink">PopTop Software</a></p></td>
 <td><p>[2]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td><p>[3]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/Fly!.md" title="wikilink">Fly!</a></em></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fly!" title="wikilink">Fly!</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
-<td><p><a href="../Page/Terminal_Reality.md" title="wikilink">Terminal Reality</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Terminal_Reality" title="wikilink">Terminal Reality</a></p></td>
 <td><p>[4]</p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="../Page/Darkstone:_Evil_Reigns.md" title="wikilink">Darkstone: Evil Reigns</a></em></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Darkstone:_Evil_Reigns" title="wikilink">Darkstone: Evil Reigns</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
-<td><p><a href="../Page/Delphine_Software_International.md" title="wikilink">Delphine Software International</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Delphine_Software_International" title="wikilink">Delphine Software International</a></p></td>
 <td><p>[5]</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/Age_of_Wonders.md" title="wikilink">Age of Wonders</a></em></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Age_of_Wonders" title="wikilink">Age of Wonders</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
-<td><p><a href="../Page/Triumph_Studios.md" title="wikilink">Triumph Studios</a> / <a href="../Page/Epic_Games.md" title="wikilink">Epic Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Triumph_Studios" title="wikilink">Triumph Studios</a> / <a href="../Page/Epic_Games.md" title="wikilink">Epic Games</a></p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="../Page/Nocturne_(video_game).md" title="wikilink">Nocturne</a></em></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Nocturne_(video_game)" title="wikilink">Nocturne</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
-<td><p><a href="../Page/Terminal_Reality.md" title="wikilink">Terminal Reality</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Terminal_Reality" title="wikilink">Terminal Reality</a></p></td>
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/Dreamcast.md" title="wikilink">Dreamcast</a></p></td>
 <td></td>
-<td><p><a href="../Page/PopTop_Software.md" title="wikilink">PopTop Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PopTop_Software" title="wikilink">PopTop Software</a></p></td>
 <td><p>[8]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/PlayStation_(console).md" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_(console)" title="wikilink">PlayStation</a></p></td>
 <td></td>
 <td><p>[9]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/Fly!.md" title="wikilink">Fly!</a></em></p></td>
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fly!" title="wikilink">Fly!</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac</a></p></td>
 <td></td>
-<td><p><a href="../Page/Terminal_Reality.md" title="wikilink">Terminal Reality</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Terminal_Reality" title="wikilink">Terminal Reality</a></p></td>
 <td><p>[10]</p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="../Page/Fly!.md" title="wikilink">Fly! 2K</a></em></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fly!" title="wikilink">Fly! 2K</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
-<td><p><a href="../Page/Terminal_Reality.md" title="wikilink">Terminal Reality</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Terminal_Reality" title="wikilink">Terminal Reality</a></p></td>
 <td><p>[11]</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/Age_of_Wonders:_Shadow_Magic.md" title="wikilink">Age of Wonders: Shadow Magic</a></em></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Microsoft Windows</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Age_of_Wonders:_Shadow_Magic" title="wikilink">Age of Wonders: Shadow Magic</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
-<td><p><a href="../Page/Triumph_Studios.md" title="wikilink">Triumph Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Triumph_Studios" title="wikilink">Triumph Studios</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -136,7 +139,7 @@ of Developers成为[2K Games的品牌](../Page/2K_Games.md "wikilink")。
     Interactive](../Page/Take-Two_Interactive.md "wikilink")
   - [*Gathering of
     Developers*](http://www.mobygames.com/company/gathering) profile on
-    [MobyGames](../Page/MobyGames.md "wikilink")
+    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
 [Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink")
 [Category:2004年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年結業電子遊戲公司 "wikilink")

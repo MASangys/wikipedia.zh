@@ -1,7 +1,7 @@
 **Mission
-Studios**，是一个电脑游戏开发商，最出名的是[战斗飞行模拟器JetFighter系列](../Page/空战模拟游戏.md "wikilink")。它还开发Bobby
+Studios**，是一个电脑游戏开发商，最出名的是[战斗飞行模拟器JetFighter系列](https://zh.wikipedia.org/wiki/空战模拟游戏 "wikilink")。它还开发Bobby
 Fischer Teaches
-Chess\[1\]。1996年，该公司于被[Take-Two收购](../Page/Take-Two.md "wikilink")。\[2\]该公司据称在2001年解散。\[3\]
+Chess\[1\]。1996年，该公司于被[Take-Two收购](https://zh.wikipedia.org/wiki/Take-Two "wikilink")。\[2\]该公司据称在2001年解散。\[3\]
 
 ## 参考资料
 

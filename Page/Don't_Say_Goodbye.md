@@ -7,7 +7,8 @@ Goodbye**》是由製作的歌曲，收錄在瑞克·艾斯特利在1987年發�
 
 <!-- end list -->
 
-1.  "Don't Say Goodbye"（Latin Rascal [重混](../Page/重混.md "wikilink")）
+1.  "Don't Say Goodbye"（Latin Rascal
+    [重混](https://zh.wikipedia.org/wiki/重混 "wikilink")）
 2.  "[My Arms Keep Missing
     You](../Page/My_Arms_Keep_Missing_You.md "wikilink")"（[浩室音乐混音](../Page/浩室音乐.md "wikilink")）
 3.  "Rick Astley [浩室音乐](../Page/浩室音乐.md "wikilink") "

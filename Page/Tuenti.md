@@ -6,7 +6,7 @@
 
 2008年，根据[Google的全球年终总结](../Page/Google.md "wikilink")，Tuenti的排名位居第四位。\[2\]
 
-根据Google2009年的报告，Tuenti在全球的搜索量的增长速度已经位居第三名。根据Google2008年的报告，Tuenti在2008年的排名位居第四名，\[3\]根据[Alexa数据排名](../Page/Alexa.md "wikilink")，Tuenti在西班牙受欢迎的程度位居18名。\[4\]
+根据Google2009年的报告，Tuenti在全球的搜索量的增长速度已经位居第三名。根据Google2008年的报告，Tuenti在2008年的排名位居第四名，\[3\]根据[Alexa数据排名](https://zh.wikipedia.org/wiki/Alexa "wikilink")，Tuenti在西班牙受欢迎的程度位居18名。\[4\]
 
 2010年，Tuenti已拥有1000万用户。\[5\]
 

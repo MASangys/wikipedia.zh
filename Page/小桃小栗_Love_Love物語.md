@@ -1,5 +1,5 @@
 《**小桃小栗 Love
-Love物语**》（）是由創作並在漫画网站[comico上连载的](../Page/comico.md "wikilink")[網路漫画](../Page/網路漫画.md "wikilink")，[單行本全](../Page/單行本.md "wikilink")8卷。2015年改編為[網路動畫與其他衍生作品](../Page/網路動畫.md "wikilink")。
+Love物语**》（）是由創作並在漫画网站[comico上连载的](https://zh.wikipedia.org/wiki/comico "wikilink")[網路漫画](https://zh.wikipedia.org/wiki/網路漫画 "wikilink")，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")8卷。2015年改編為[網路動畫與其他衍生作品](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")。
 
 ## 故事內容
 
@@ -56,7 +56,7 @@ Love物语**》（）是由創作並在漫画网站[comico上连载的](../Page/
 ## 单行本
 
 由[EARTH STAR
-Entertainment发行](../Page/EARTH_STAR_Entertainment.md "wikilink")。
+Entertainment发行](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")。
 
 | 卷数 | 发售日期            | ISBN                   |
 | -- | --------------- | ---------------------- |
@@ -77,7 +77,7 @@ Entertainment发行](../Page/EARTH_STAR_Entertainment.md "wikilink")。
 
   - 原作：（comico）
   - 监督、系列构成：[平池芳正](../Page/平池芳正.md "wikilink")
-  - 角色设计、总作画监督：[大岛美和](../Page/大岛美和.md "wikilink")
+  - 角色设计、总作画监督：[大岛美和](https://zh.wikipedia.org/wiki/大岛美和 "wikilink")
   - 脚本：平池芳正、望月真理子、筱冢智子
   - 美术设定、美术监督：田尻健一
   - 色彩设计：铃木依里
@@ -93,10 +93,10 @@ Entertainment发行](../Page/EARTH_STAR_Entertainment.md "wikilink")。
   - 片尾曲「」
     作詞、作曲：松井洋平，編曲：AstroNoteS，主唱：栗原雪（[加隈亞衣](../Page/加隈亞衣.md "wikilink")）
   - 电视动画片头曲「」
-    作詞、作曲、编曲：[前山田健一](../Page/前山田健一.md "wikilink")，主唱：栗原雪（加隈亞衣）、桃月心也（[岡本信彦](../Page/岡本信彦.md "wikilink")）
+    作詞、作曲、编曲：[前山田健一](../Page/前山田健一.md "wikilink")，主唱：栗原雪（加隈亞衣）、桃月心也（[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")）
   - 电视动画片尾曲「」
     作詞：[結城愛良](../Page/結城愛良.md "wikilink")，作曲、编曲：Kon-K，主唱：[Mia
-    REGINA](../Page/Mia_REGINA.md "wikilink")
+    REGINA](https://zh.wikipedia.org/wiki/Mia_REGINA "wikilink")
 
 ### 各話列表
 
@@ -118,8 +118,8 @@ Entertainment发行](../Page/EARTH_STAR_Entertainment.md "wikilink")。
 <td></td>
 <td><p>告白...桃月與栗原</p></td>
 <td><p><a href="../Page/平池芳正.md" title="wikilink">平池芳正</a></p></td>
-<td><p><a href="../Page/高岛大辅.md" title="wikilink">高島大輔</a></p></td>
-<td><p><a href="../Page/古澤貴文.md" title="wikilink">古澤貴文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高岛大辅" title="wikilink">高島大輔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古澤貴文" title="wikilink">古澤貴文</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

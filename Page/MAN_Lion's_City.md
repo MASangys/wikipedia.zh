@@ -1,4 +1,4 @@
-[MVG_015_Schloss_Broich.jpg](https://zh.wikipedia.org/wiki/File:MVG_015_Schloss_Broich.jpg "fig:MVG_015_Schloss_Broich.jpg")[魯爾河畔米爾海姆行駛的A](../Page/魯爾河畔米爾海姆.md "wikilink")23單層掛接巴士\]\]
+[MVG_015_Schloss_Broich.jpg](https://zh.wikipedia.org/wiki/File:MVG_015_Schloss_Broich.jpg "fig:MVG_015_Schloss_Broich.jpg")[魯爾河畔米爾海姆行駛的A](https://zh.wikipedia.org/wiki/魯爾河畔米爾海姆 "wikilink")23單層掛接巴士\]\]
 [Sporveisbussene_18jun2005.jpg](https://zh.wikipedia.org/wiki/File:Sporveisbussene_18jun2005.jpg "fig:Sporveisbussene_18jun2005.jpg")的A21單層巴士\]\]
 [MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg](https://zh.wikipedia.org/wiki/File:MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg "fig:MAN_Lion's_City_-_MZK_Toruń_nr_539.jpg")的Lion’s
 City單層巴士\]\]
@@ -10,8 +10,10 @@ City G\]\]
 [NEOMAN_A39_2007-03-15.jpg](https://zh.wikipedia.org/wiki/File:NEOMAN_A39_2007-03-15.jpg "fig:NEOMAN_A39_2007-03-15.jpg")服務的Lion's
 City DD，採用A39底盤。\]\]
 [KMB_TP1095_AMNE1_TinShui.jpg](https://zh.wikipedia.org/wiki/File:KMB_TP1095_AMNE1_TinShui.jpg "fig:KMB_TP1095_AMNE1_TinShui.jpg")[九巴與](../Page/九龍巴士.md "wikilink")[新巴](../Page/新世界第一巴士.md "wikilink")[猛獅A95之Lion](../Page/猛獅A95.md "wikilink")'s
-City DD車身由馬來西亞[順豐客車生產](../Page/彭順國際.md "wikilink")\]\] **MAN Lion's
-City**，是[德國](../Page/德國.md "wikilink")[猛獅車廠設計製造的](../Page/猛獅車廠.md "wikilink")[巴士車系](../Page/巴士.md "wikilink")。
+City
+DD車身由馬來西亞[順豐客車生產](https://zh.wikipedia.org/wiki/彭順國際 "wikilink")\]\]
+**MAN Lion's
+City**，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[猛獅車廠設計製造的](https://zh.wikipedia.org/wiki/猛獅車廠 "wikilink")[巴士車系](https://zh.wikipedia.org/wiki/巴士 "wikilink")。
 
 ## 概要
 
@@ -186,7 +188,7 @@ Lion's City GXL掛接巴士：
 
 ## 參見
 
-  - [猛獅NL263](../Page/猛獅NL263.md "wikilink")
+  - [猛獅NL263](https://zh.wikipedia.org/wiki/猛獅NL263 "wikilink")
   - [猛獅A95](../Page/猛獅A95.md "wikilink")
   - [Neoplan Centroliner](../Page/Neoplan_Centroliner.md "wikilink")
 

@@ -4,7 +4,7 @@ Bleue目前已与用途更广泛的[CB](../Page/CB_\(行际网\).md "wikilink")�
 bancaire）合并。所有的Carte Bleue卡都是CB卡，但不是所有的CB卡都是Carte Bleue。
 
 Carte Bleue是法国的，Carte Bleue单标卡在法国之外无法使用。不过，司空见惯的Carte Bleue
-[维萨双标卡可以在法国之外使用](../Page/维萨.md "wikilink")。从技术角度来看，Carte
+[维萨双标卡可以在法国之外使用](https://zh.wikipedia.org/wiki/维萨 "wikilink")。从技术角度来看，Carte
 Bleue WAS可以算作Visa在法国的一个分支结构。
 
 Carte
@@ -12,8 +12,8 @@ Bleue创始于1967年，初创时联合了法国6家银行：[法國巴黎銀行
 Bleue Internationale的名义开始发行，1976年更名为Carte Bleue Visa。\[1\]
 
 从1992年起，所有的Cartes Bleues /
-CB卡均为[智能卡](../Page/智能卡.md "wikilink")。在法国的商户使用Cartes
-Bleues卡进行交易时必须输入密码，智能卡上的芯片用于对卡片的验证和交易的受权。只有非常有限的几种交易，例如高速公路通行费或停车费，支付时可以不输入密码。由于[自动取款机也核验密码](../Page/自动取款机.md "wikilink")，这一措施大大降低偷盗Cartes
+CB卡均为[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。在法国的商户使用Cartes
+Bleues卡进行交易时必须输入密码，智能卡上的芯片用于对卡片的验证和交易的受权。只有非常有限的几种交易，例如高速公路通行费或停车费，支付时可以不输入密码。由于[自动取款机也核验密码](https://zh.wikipedia.org/wiki/自动取款机 "wikilink")，这一措施大大降低偷盗Cartes
 Bleues的动力，因为卡没有密码根本无效（尽管有人可能会尝试使用卡号邮购或电子零售）。如果商户愿意受理，没有芯片的境外卡仍然可以在法国的商户使用，与常规的刷卡步骤一致，刷磁条、在签购单上签名。
 
 2003年，为了方便在境外受理，Cartes Bleues /

@@ -1,5 +1,5 @@
 《**Regalia
-三聖星**》是[永谷敬之擔任製作人](../Page/永谷敬之.md "wikilink")，[QP:flapper擔當角色原案](../Page/QP:flapper.md "wikilink")，[Actas製作的原創動畫](../Page/Actas.md "wikilink")，電視動畫於2016年7月7日開始播出\[1\]。
+三聖星**》是[永谷敬之擔任製作人](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")，[QP:flapper擔當角色原案](https://zh.wikipedia.org/wiki/QP:flapper "wikilink")，[Actas製作的原創動畫](https://zh.wikipedia.org/wiki/Actas "wikilink")，電視動畫於2016年7月7日開始播出\[1\]。
 
 在第3話播出後，官方宣佈由於已經播出的動畫品質沒有達到預期要求，因此第4話之後動畫將停止播出。據官方推特表示，因製作趕不上放映時間而被迫延期，動畫在9月1日開始從第1集重新播放。影碟（藍光和DVD）也將延期一個月發售\[2\]\[3\]。
 
@@ -16,14 +16,14 @@
   -
     本作品的主人公。暱稱 「**羽依**」，艾納斯特利亞皇國的女皇。
     性格溫厚、親切，任誰都喜歡。擅長各種家務事。父母已經去世，與蕾娜一起生活著。
-    在記者會透露[三圍尺寸是](../Page/三圍.md "wikilink")「B88、W58、H85」（34.5、23、33.5）\[4\]。
+    在記者會透露[三圍尺寸是](https://zh.wikipedia.org/wiki/三圍 "wikilink")「B88、W58、H85」（34.5、23、33.5）\[4\]。
 
 <!-- end list -->
 
   -
     與羽依一起生活的少女。
     即使逞强也想要照顧羽依，卻經常得不到允許而鬧彆扭。沒有血緣關係，以「姐姐」自稱。
-    真正身份是雷加利亞[亞雷庫托的核心](../Page/阿莱克托.md "wikilink")「**瑪古娜·亞雷庫托**」（）。
+    真正身份是雷加利亞[亞雷庫托的核心](https://zh.wikipedia.org/wiki/阿莱克托 "wikilink")「**瑪古娜·亞雷庫托**」（）。
 
 ### 雷加利亞的契約者
 
@@ -34,7 +34,7 @@
 
   -
     莎拉的妹妹。是個與外表不相配的大胃王，非常喜愛美味的食物。第一次與羽依見面時稱她是「胸部女皇」。
-    真正身份是雷加利亞[提西斯的核心](../Page/提西福涅.md "wikilink")。
+    真正身份是雷加利亞[提西斯的核心](https://zh.wikipedia.org/wiki/提西福涅 "wikilink")。
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 <!-- end list -->
 
   -
-    身著白色蘿莉塔服裝的少女，本身是雷加利亞[墨蓋拉的核心](../Page/墨蓋拉.md "wikilink")，與蕾娜相識。
+    身著白色蘿莉塔服裝的少女，本身是雷加利亞[墨蓋拉的核心](https://zh.wikipedia.org/wiki/墨蓋拉 "wikilink")，與蕾娜相識。
     在「利姆加爾德王國事件」後遭約翰操控而與蕾娜和媞亞敵對。
 
 ### 英格麗德的關係者
@@ -120,14 +120,15 @@
 
 ## 登場機體
 
-本作主要三個機體名字取自希臘神話中三位[復仇女神](../Page/復仇女神.md "wikilink")（亞雷庫托、提西斯、墨蓋拉）。
+本作主要三個機體名字取自希臘神話中三位[復仇女神](https://zh.wikipedia.org/wiki/復仇女神 "wikilink")（亞雷庫托、提西斯、墨蓋拉）。
 
 ## 製作團隊
 
   - 原作 - Delegation of Enastoria
   - 監督 - 登坂晋
   - 構成、腳本 - 小柳啓伍
-  - 人物原案 - [QP:flapper](../Page/QP:flapper.md "wikilink")
+  - 人物原案 -
+    [QP:flapper](https://zh.wikipedia.org/wiki/QP:flapper "wikilink")
   - 人物設計 -
   - 副人物設計 - 常盤健太郎
   - 機械設計、機械總作畫監督 - 鈴木勘太
@@ -143,8 +144,8 @@
   - 製作人 - 川村仁、百武弘二、岡村武真、山崎史紀、金庭こず惠、中島保裕、土橋哲也、大橋智之、若林由美（第2話 -
     ）、伊藤幸弘、青木絵理子、兼光一博（復活放送第3話 - ）
   - 動畫製作人 - 丸山俊平
-  - 監製 - [永谷敬之](../Page/永谷敬之.md "wikilink")
-  - 動畫製作 - [Actas](../Page/Actas.md "wikilink")
+  - 監製 - [永谷敬之](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")
+  - 動畫製作 - [Actas](https://zh.wikipedia.org/wiki/Actas "wikilink")
   - 製作 - Regalia Project
 
 ## 主題曲
@@ -156,7 +157,7 @@
   - 片尾曲「Patria」（第2－13話）
     作詞、主唱：[Minami](../Page/Minami.md "wikilink") /
     作曲：[俊龍](../Page/俊龍.md "wikilink") /
-    編曲：[菊田大介](../Page/菊田大介.md "wikilink")
+    編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")
 
 ## 各話列表
 

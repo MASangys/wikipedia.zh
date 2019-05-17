@@ -1,4 +1,4 @@
-**中日韩统一表意文字扩展区E**（）是一个[Unicode标准](../Page/Unicode.md "wikilink")，在2015年6月17日发布的Unicode
+**中日韩统一表意文字扩展区E**（）是一个[Unicode标准](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在2015年6月17日发布的Unicode
 8.0中被引入。
 
 扩展E区共收录5762个汉字，编码范围为 U+2B820-U+2CEAF。
@@ -30,7 +30,7 @@
       - MAC：澳门信息系统字集48字
   - 台湾：
       - TC：[CNS
-        11643-1992第](../Page/國家標準中文交換碼.md "wikilink")12字面（台湾人名用字）323字
+        11643-1992第](https://zh.wikipedia.org/wiki/國家標準中文交換碼 "wikilink")12字面（台湾人名用字）323字
       - TD：CNS 11643-1992第13字面（台湾人名用字）595字
       - TE：CNS 11643-1992第14字面（台湾人名用字）339字
   - 美国：
@@ -43,7 +43,7 @@
 
 ## 参见
 
-  - [中日韩越统一表意文字](../Page/中日韩越统一表意文字.md "wikilink")
+  - [中日韩越统一表意文字](https://zh.wikipedia.org/wiki/中日韩越统一表意文字 "wikilink")
 
 ## 參考文獻
 

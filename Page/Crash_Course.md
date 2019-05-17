@@ -1,11 +1,11 @@
 **Crash
-Course**是一個由[葛林兄弟的](../Page/葛林兄弟.md "wikilink")[約翰·葛林和](../Page/約翰·葛林.md "wikilink")成立的[YouTube教育頻道](../Page/YouTube.md "wikilink")\[1\]\[2\]\[3\]。在初期，約翰和漢克分別為頻道上[人文和](../Page/人文.md "wikilink")[科學系列的主持人](../Page/科學.md "wikilink")\[4\]，但在頻道發展後加入了其他的主持人。
+Course**是一個由[葛林兄弟的](../Page/葛林兄弟.md "wikilink")[約翰·葛林和](../Page/約翰·葛林.md "wikilink")成立的[YouTube教育頻道](../Page/YouTube.md "wikilink")\[1\]\[2\]\[3\]。在初期，約翰和漢克分別為頻道上[人文和](https://zh.wikipedia.org/wiki/人文 "wikilink")[科學系列的主持人](https://zh.wikipedia.org/wiki/科學 "wikilink")\[4\]，但在頻道發展後加入了其他的主持人。
 
 Crash
 Course是YouTube一億美元原創頻道計劃所創造的頻道之一，在2011年12月2日試映。2014年11月，漢克·葛林宣佈從2015年1月開始與合作，以製作更多影片。，該頻道有9,070,000名訂閱者，共有超過10億點擊率\[5\]。
 
 現時Crash
-Course有28個系列，[約翰·葛林和](../Page/約翰·葛林.md "wikilink")各主持其中6個。與[公共電視網合作的有由](../Page/公共電視網_\(美國\).md "wikilink")主持的「Crash
+Course有28個系列，[約翰·葛林和](../Page/約翰·葛林.md "wikilink")各主持其中6個。與[公共電視網合作的有由](https://zh.wikipedia.org/wiki/公共電視網_\(美國\) "wikilink")主持的「Crash
 Course天文學」和由主持的「Crash Course美國政府及政治」。
 
 ## 主要系列

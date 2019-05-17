@@ -1,12 +1,12 @@
 **TG1**（，全称为“**TeleGiornale
 1**”，直译为“一台电视新闻”），是[意大利广播电视公司](../Page/意大利广播电视公司.md "wikilink")（RAI）旗下频道[Rai
-1的新闻节目](../Page/Rai_1.md "wikilink")，每天播出多次。节目也通过RAI的对外频道向海外播出。
+1的新闻节目](https://zh.wikipedia.org/wiki/Rai_1 "wikilink")，每天播出多次。节目也通过RAI的对外频道向海外播出。
 
 ## 历史
 
 1952年9月10日，《TG1》的前身《TeleGiornale》（电视新闻）开播。1961年，意大利广播电视公司第二频道（，今[Rai
 2](../Page/Rai_2.md "wikilink")）开播，《TeleGiornale》除了在全国频道（，今[Rai
-1](../Page/Rai_1.md "wikilink")）播出外，亦开始在第二频道播出。
+1](https://zh.wikipedia.org/wiki/Rai_1 "wikilink")）播出外，亦开始在第二频道播出。
 
 1975年，RAI进行改革之后，全国廣播和第二频道分别改名为“第一電視網”（）和“第二電視網”（），兩台的新闻节目分拆為《TG1》和《TG2》。
 

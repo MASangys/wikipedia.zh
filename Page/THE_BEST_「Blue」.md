@@ -1,5 +1,5 @@
 《**THE BEST
-「Blue」**》是[Kalafina的第](../Page/Kalafina.md "wikilink")2張[精選專輯](../Page/精選專輯.md "wikilink")。於2014年7月16日由[SME
+「Blue」**》是[Kalafina的第](../Page/Kalafina.md "wikilink")2張[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")。於2014年7月16日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。與《[THE BEST
 「Red」](../Page/THE_BEST_「Red」.md "wikilink")》同時發售。\[1\]
 初回限定盤捆绑60頁寫真集和藍光錄影帶，收錄了於2014年1月26日在[日本武道館舉辦的](../Page/日本武道館.md "wikilink")「**Lisani\!

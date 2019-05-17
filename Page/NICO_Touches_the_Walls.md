@@ -7,10 +7,10 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
 <!-- end list -->
 
-  - 樂團主唱和吉他手，幾乎所有歌曲都由光村作詞作曲。[血型為](../Page/血型.md "wikilink")[AB型](../Page/ABO血型系统.md "wikilink")。暱稱是『みっちゃん』。出身地為[千葉縣](../Page/千葉縣.md "wikilink")[浦安市](../Page/浦安市.md "wikilink")。家裡有父母和妹妹。高中時參加過熱音社。
+  - 樂團主唱和吉他手，幾乎所有歌曲都由光村作詞作曲。[血型為](https://zh.wikipedia.org/wiki/血型 "wikilink")[AB型](../Page/ABO血型系统.md "wikilink")。暱稱是『みっちゃん』。出身地為[千葉縣](../Page/千葉縣.md "wikilink")[浦安市](../Page/浦安市.md "wikilink")。家裡有父母和妹妹。高中時參加過熱音社。
   - 因為崇拜[SPITZ的關係](../Page/SPITZ.md "wikilink")，從小學三年級就開始作曲。另外也曾經公開表示是[南方之星的粉絲](../Page/南方之星.md "wikilink")。
   - 發行過的歌曲中有許多中學時期獨自或和樂團一起製作的歌曲（「病気」、「雨のブルース」、「雲空の悪魔」、「」等等）。
-  - 使用的器材為[芬達的](../Page/芬達樂器公司.md "wikilink")[Telecaster](../Page/Telecaster.md "wikilink")、、[Stratocaster](../Page/Fender_Stratocaster.md "wikilink")、等等。在2013年的11月25日（イイニコ(iinico)之日）的演唱會中主要使用了[吉普森結他公司的復刻版吉他和Gibson](../Page/吉普森結他公司.md "wikilink")
+  - 使用的器材為[芬達的](../Page/芬達樂器公司.md "wikilink")[Telecaster](https://zh.wikipedia.org/wiki/Telecaster "wikilink")、、[Stratocaster](../Page/Fender_Stratocaster.md "wikilink")、等等。在2013年的11月25日（イイニコ(iinico)之日）的演唱會中主要使用了[吉普森結他公司的復刻版吉他和Gibson](https://zh.wikipedia.org/wiki/吉普森結他公司 "wikilink")
     ES325（因為是在[栃木縣買的紅色吉他所以取了](../Page/栃木縣.md "wikilink")「とちおとめ」的暱稱）。
 
 <!-- end list -->
@@ -244,7 +244,7 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
 <!-- end list -->
 
-  - 1月，在東京、名古屋和大阪舉辦對BAND巡迴演唱會『ニコ　タッチズ　ザ　ウォールズ　ノ　フェスト』。對BAND樂團在大阪公演為[BIGMAMA](../Page/BIGMAMA.md "wikilink")、在愛知為[［Alexandros］](../Page/［Alexandros］.md "wikilink")、在東京為。
+  - 1月，在東京、名古屋和大阪舉辦對BAND巡迴演唱會『ニコ　タッチズ　ザ　ウォールズ　ノ　フェスト』。對BAND樂團在大阪公演為[BIGMAMA](../Page/BIGMAMA.md "wikilink")、在愛知為[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")、在東京為。
   - 2月
       - 1日，在東京都涉谷區神宮前的畫廊改裝成的Live House「カベニミミ」舉辦為期一個月、共計20場的籠城型演唱會『』を開催。
       - 5日，發行第一張精選輯『ニコ　タッチズ　ザ　ウォールズ　ノ　ベスト』。在Oricon最高得到第五名。
@@ -940,17 +940,17 @@ KSBL-6172（DVD）</p></td>
 <li>人鳥哀歌 / </li>
 <li>希望 / </li>
 <li>赤黄色の金木犀 / </li>
-<li>セブンスター / <a href="../Page/中村一義.md" title="wikilink">中村一義</a></li>
+<li>セブンスター / <a href="https://zh.wikipedia.org/wiki/中村一義" title="wikilink">中村一義</a></li>
 <li>Lucky / スーパーカー</li>
 <li>そらに / concentrate on popping</li>
-<li>染まるよ / <a href="../Page/Chatmonchy.md" title="wikilink">Chatmonchy</a></li>
+<li>染まるよ / <a href="https://zh.wikipedia.org/wiki/Chatmonchy" title="wikilink">Chatmonchy</a></li>
 <li>dolphin / <a href="../Page/木村KAELA.md" title="wikilink">木村KAELA</a></li>
 <li><p>/ <a href="../Page/YUKI_(歌手).md" title="wikilink">YUKI</a></p></li>
 <li>風待ち / </li>
 <li>君の好きな歌 / <a href="../Page/DOES.md" title="wikilink">DOES</a></li>
 <li><strong>波 / NICO Touches the Walls</strong></li>
 <li>ブルーのこころ / </li>
-<li>ベイビー優しい夜が来て / <a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a></li>
+<li>ベイビー優しい夜が来て / <a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a></li>
 <li>アオイソラ /
 </div>
 </div></li>
@@ -967,7 +967,7 @@ KSBL-6172（DVD）</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><a href="../Page/青鳥_(生物股長單曲).md" title="wikilink">ブルーバード</a> / <a href="../Page/生物股長.md" title="wikilink">いきものがかり</a></li>
+<li><a href="../Page/青鳥_(生物股長單曲).md" title="wikilink">ブルーバード</a> / <a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">いきものがかり</a></li>
 <li>素直な虹 / surface</li>
 <li><strong>Broken Youth / NICO Touches the Walls</strong></li>
 <li><p>/ </p></li>
@@ -993,7 +993,7 @@ KSBL-6172（DVD）</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><a href="../Page/Again_(YUI單曲).md" title="wikilink">again</a> / <a href="../Page/YUI.md" title="wikilink">YUI</a></li>
-<li><a href="../Page/謊言_(SID).md" title="wikilink">嘘</a> / <a href="../Page/SID_(樂團).md" title="wikilink">シド</a></li>
+<li><a href="../Page/謊言_(SID).md" title="wikilink">嘘</a> / <a href="https://zh.wikipedia.org/wiki/SID_(樂團)" title="wikilink">シド</a></li>
 <li><strong>ホログラム / NICO Touches the Walls</strong></li>
 <li><p>/ <a href="../Page/福原美穗.md" title="wikilink">福原美穗</a></p></li>
 <li><p>/ <a href="../Page/無限開關.md" title="wikilink">無限開關</a></p></li>
@@ -1065,21 +1065,21 @@ KSBL-6172（DVD）</p></td>
 <li>アダムとイヴがそっと / </li>
 <li>愛する or die (Raw Ver.) / </li>
 <li>琵琶湖とメガネと君 / </li>
-<li>テキーラ!テキーラ! / <a href="../Page/髭.md" title="wikilink">髭</a></li>
+<li>テキーラ!テキーラ! / <a href="https://zh.wikipedia.org/wiki/髭" title="wikilink">髭</a></li>
 <li>WAY / </li>
 <li><strong>君だけ / NICO Touches the Walls</strong></li>
 <li>光の雨が降る夜に / </li>
-<li>時速160公里的吉他、貝斯和鼓 / <a href="../Page/透明雑誌.md" title="wikilink">透明雑誌</a></li>
+<li>時速160公里的吉他、貝斯和鼓 / <a href="https://zh.wikipedia.org/wiki/透明雑誌" title="wikilink">透明雑誌</a></li>
 <li>命の更新 / </li>
 <li>GOOD TIME MUSIC / </li>
-<li>You're So Sweet &amp; I Love You / <a href="../Page/［Alexandros］.md" title="wikilink">［Alexandros］</a></li>
-<li>Standing There ～いま、そこに行くよ～ / <a href="../Page/bonobos.md" title="wikilink">bonobos</a></li>
+<li>You're So Sweet &amp; I Love You / <a href="https://zh.wikipedia.org/wiki/［Alexandros］" title="wikilink">［Alexandros］</a></li>
+<li>Standing There ～いま、そこに行くよ～ / <a href="https://zh.wikipedia.org/wiki/bonobos" title="wikilink">bonobos</a></li>
 </ol></td>
 <td><p>Oricon最高排名296名</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年2月29日</p></td>
-<td><p><a href="../Page/鋼之鍊金術師.md" title="wikilink">鋼之鍊金術師</a> THE BEST</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鋼之鍊金術師" title="wikilink">鋼之鍊金術師</a> THE BEST</p></td>
 <td><p>SVWC-7818/9</p></td>
 <td><div class="NavFrame collapsed" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:cebter;">
@@ -1102,7 +1102,7 @@ KSBL-6172（DVD）</p></td>
 <p>DISC 2</p>
 <ol>
 <li><a href="../Page/Again_(YUI單曲).md" title="wikilink">again</a> / <a href="../Page/YUI.md" title="wikilink">YUI</a></li>
-<li><a href="../Page/謊言_(SID).md" title="wikilink">嘘</a> / <a href="../Page/SID_(樂團).md" title="wikilink">シド</a></li>
+<li><a href="../Page/謊言_(SID).md" title="wikilink">嘘</a> / <a href="https://zh.wikipedia.org/wiki/SID_(樂團)" title="wikilink">シド</a></li>
 <li><strong>ホログラム / NICO Touches the Walls</strong></li>
 <li><p>/ <a href="../Page/福原美穗.md" title="wikilink">福原美穗</a></p></li>
 <li><p>/ <a href="../Page/無限開關.md" title="wikilink">無限開關</a></p></li>
@@ -1112,7 +1112,7 @@ KSBL-6172（DVD）</p></td>
 <li><a href="../Page/Rain_(SID單曲).md" title="wikilink">レイン</a> / シド</li>
 <li><p>/ <a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></p></li>
 <li><p>/ シド</p></li>
-<li>Chasing hearts / <a href="../Page/miwa.md" title="wikilink">miwa</a></li>
+<li>Chasing hearts / <a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a></li>
 <li>GOOD LUCK MY WAY / L'Arc〜en〜Ciel
 </div>
 </div></li>
@@ -1135,11 +1135,11 @@ KSBL-6172（DVD）</p></td>
 <li>瞬間センチメンタル / <a href="../Page/SCANDAL_(日本音樂團體).md" title="wikilink">SCANDAL</a></li>
 <li><strong>ホログラム / NICO Touches the Walls</strong></li>
 <li>徒然モノクローム / </li>
-<li>シャングリラ / <a href="../Page/Chatmonchy.md" title="wikilink">Chatmonchy</a></li>
+<li>シャングリラ / <a href="https://zh.wikipedia.org/wiki/Chatmonchy" title="wikilink">Chatmonchy</a></li>
 <li>Place to Try / </li>
 <li>カロン / </li>
 <li>桜音 / ピコ</li>
-<li>レインボー / <a href="../Page/Dr.DOWNER.md" title="wikilink">Dr.DOWNER</a></li>
+<li>レインボー / <a href="https://zh.wikipedia.org/wiki/Dr.DOWNER" title="wikilink">Dr.DOWNER</a></li>
 <li>DAYS / <a href="../Page/FLOW_(樂團).md" title="wikilink">FLOW</a></li>
 </ol>
 <p>DISC2</p>
@@ -1172,18 +1172,18 @@ KSBL-6172（DVD）</p></td>
 <ol>
 <li><a href="../Page/無數次.md" title="wikilink">何度でも</a> / <a href="../Page/May_J..md" title="wikilink">May J.</a></li>
 <li><p>/ <a href="../Page/西內瑪麗亞.md" title="wikilink">西內瑪麗亞</a></p></li>
-<li><p>/ <a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></li>
+<li><p>/ <a href="https://zh.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></p></li>
 <li><p>/ <a href="../Page/LiSA.md" title="wikilink">LiSA</a></p></li>
-<li>The signs of LOVE / <a href="../Page/李俊昊.md" title="wikilink">JUNHO</a> (From <a href="../Page/2PM.md" title="wikilink">2PM</a>)</li>
+<li>The signs of LOVE / <a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">JUNHO</a> (From <a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)</li>
 <li>眼鏡越しの空 / </li>
 <li><p>/ <a href="../Page/基斯·哈特.md" title="wikilink">基斯·哈特</a></p></li>
-<li><strong><a href="../Page/決戰星期五/太陽在看.md" title="wikilink">決戦は金曜日</a> / NICO Touches the Walls</strong></li>
+<li><strong><a href="https://zh.wikipedia.org/wiki/決戰星期五/太陽在看" title="wikilink">決戦は金曜日</a> / NICO Touches the Walls</strong></li>
 <li><a href="../Page/Thank_you..md" title="wikilink">サンキュ.</a> / </li>
 <li><p>/ <a href="../Page/Little_Glee_Monster.md" title="wikilink">Little Glee Monster</a></p></li>
 <li><p>/ </p></li>
 <li><p>/ <a href="../Page/JUJU.md" title="wikilink">JUJU</a></p></li>
 <li><p>/ <a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a></p></li>
-<li><a href="../Page/LOVE_LOVE_LOVE/暴風雨來襲.md" title="wikilink">LOVE LOVE LOVE</a> / <a href="../Page/德永英明.md" title="wikilink">德永英明</a>
+<li><a href="https://zh.wikipedia.org/wiki/LOVE_LOVE_LOVE/暴風雨來襲" title="wikilink">LOVE LOVE LOVE</a> / <a href="../Page/德永英明.md" title="wikilink">德永英明</a>
 </div>
 </div></li>
 </ol></td>
@@ -1454,7 +1454,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="odd">
 <td><p>2009年</p></td>
 <td></td>
-<td><p><a href="../Page/毎日放送.md" title="wikilink">毎日放送</a>・<a href="../Page/TBS電視台.md" title="wikilink">TBS電視台系列動畫</a>「<a href="../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md" title="wikilink">鋼之鍊金術師 FULLMETAL ALCHEMIST</a>」第2期片頭曲、第64回(最終回)片尾曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/毎日放送" title="wikilink">毎日放送</a>・<a href="../Page/TBS電視台.md" title="wikilink">TBS電視台系列動畫</a>「<a href="../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md" title="wikilink">鋼之鍊金術師 FULLMETAL ALCHEMIST</a>」第2期片頭曲、第64回(最終回)片尾曲</p></td>
 <td><p>｢ホログラム｣<br />
 『』<br />
 『ニコ タッチズ ザ ウォールズ ノ ベスト』</p></td>
@@ -1548,7 +1548,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="even">
 <td><p>2014年</p></td>
 <td></td>
-<td><p>毎日放送・TBS系列動畫『<a href="../Page/排球少年！！.md" title="wikilink">排球少年！！</a>』片尾曲</p></td>
+<td><p>毎日放送・TBS系列動畫『<a href="https://zh.wikipedia.org/wiki/排球少年！！" title="wikilink">排球少年！！</a>』片尾曲</p></td>
 <td><p>｢天地ガエシ｣</p></td>
 </tr>
 <tr class="odd">
@@ -1566,7 +1566,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td></td>
-<td><p>外國影集『<a href="../Page/地球百子.md" title="wikilink">地球百子</a>』(第一季)宣傳曲[3]</p></td>
+<td><p>外國影集『<a href="https://zh.wikipedia.org/wiki/地球百子" title="wikilink">地球百子</a>』(第一季)宣傳曲[3]</p></td>
 <td><p>｢まっすぐなうた｣</p></td>
 </tr>
 <tr class="even">
@@ -1578,7 +1578,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="odd">
 <td><p>2016年</p></td>
 <td></td>
-<td><p><a href="../Page/九州朝日放送.md" title="wikilink">九州朝日放送</a>「V3」3月份片尾曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a>「V3」3月份片尾曲</p></td>
 <td><p>「勇気も愛もないなんて」</p></td>
 </tr>
 </tbody>
@@ -1605,14 +1605,14 @@ UPJH-9016(黑膠盤)</p></td>
   - 2013年 : TOUR "Shout to the Walls\!"
   - 2013年11月25日 : 1125(イイニコ)之日演唱會
   - 2014年 : ニコ タッチズ ザ ウォールズ ノ フェスト
-    w/[BIGMAMA](../Page/BIGMAMA.md "wikilink")、[［Alexandros］](../Page/［Alexandros］.md "wikilink")、
+    w/[BIGMAMA](../Page/BIGMAMA.md "wikilink")、[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")、
   - 2014年 : ニコ タッチズ ザ ウォールズ ノ ヒミツキチ「」
   - 2014年 : TOUR "ニコ タッチズ ザ ウォールズ ノ ゼップ"
   - 2014年 : 日本武道館公演 "ニコ タッチズ ザ ウォールズ ノ ブドウカン"
   - 2014年11月25日 : 1125/2014
   - 2015年 : Howdy\!\! We are ACO Touches the Walls
   - 2015年 : ニコ タッチズ ザ ウォールズ ノ フェスト w/、[UNISON SQUARE
-    GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")、［Alexandros］
+    GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")、［Alexandros］
   - 2015年5月～7月 : NICO Touches the Walls TOUR 2015 "まっすぐなツアー"
   - 2015年9月3日 : 「渦と渦」發行紀念特別演唱會「UZU-TO-UZU-TO-UZU-TO-UZU」
   - 2015年10月17日 ： NICO Touches the Walls "Walls Is Auroras" Special
@@ -1626,7 +1626,8 @@ UPJH-9016(黑膠盤)</p></td>
 ### 參加演出
 
   - 2006年8月6日 - [ROCK IN JAPAN
-    FESTIVAL](../Page/ROCK_IN_JAPAN_FESTIVAL.md "wikilink") 2006
+    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
+    2006
   - 2006年8月12日 - [SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2006
   - 2007年1月1日 -  06/07
   - 2007年8月11日・12日 - SUMMER SONIC 2007
@@ -1703,8 +1704,8 @@ UPJH-9016(黑膠盤)</p></td>
   - 2014年8月3日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年8月31日 - SPACE SHOWER SWEET LOVE SHOWER 2014
   - 2014年9月6日 - TREASURE05X 2014 ～galaxy of liberty～
-  - 2014年10月13日 - [攝南大學](../Page/攝南大學.md "wikilink") SETSUDAISAI 40th
-    anniversary special live
+  - 2014年10月13日 - [攝南大學](https://zh.wikipedia.org/wiki/攝南大學 "wikilink")
+    SETSUDAISAI 40th anniversary special live
   - 2014年10月26日 - [東北福祉大學](../Page/東北福祉大學.md "wikilink") 国見祭
   - 2014年10月29日 - スペースシャワー列伝 100巻記念公演 第111巻 音質明媚の宴
   - 2014年11月3日 - [德島大學蔵本キャンパス](../Page/德島大學.md "wikilink") 第30回蔵本祭

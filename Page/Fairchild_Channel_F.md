@@ -1,7 +1,7 @@
 **Fairchild Channel
-F**是一款由[快捷半導體公司于](../Page/快捷半導體公司.md "wikilink")1976年发行的[家用游戏机](../Page/家用游戏机.md "wikilink")。\[1\]
+F**是一款由[快捷半導體公司于](https://zh.wikipedia.org/wiki/快捷半導體公司 "wikilink")1976年发行的[家用游戏机](../Page/家用游戏机.md "wikilink")。\[1\]
 它是第一款具有可编程ROM特征的家用游戏机，同时也是第一款使用微处理器的平台。本游戏机推出时称为**Video Entertainment
-System**或者**VES**。在雅达利在第二年发行他们的[VCS](../Page/雅达利2600.md "wikilink"),
+System**或者**VES**。在雅达利在第二年发行他们的[VCS](https://zh.wikipedia.org/wiki/雅达利2600 "wikilink"),
 快捷半導體重新命名了游戏机。至1977年，快捷半導體公司共售出2万5千台游戏机。
 
 Channel F是由Jerry Lawson设计，并使用了Fairchild

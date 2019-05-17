@@ -1,6 +1,6 @@
 **Samsung Galaxy
 A5**是由[三星電子製造的一款Android智能手機](../Page/三星電子.md "wikilink")，在2014年10月連同[Galaxy
-A3發佈](../Page/Samsung_Galaxy_A3.md "wikilink")。
+A3發佈](https://zh.wikipedia.org/wiki/Samsung_Galaxy_A3 "wikilink")。
 
 ## 技術規格
 
@@ -8,7 +8,7 @@ A3發佈](../Page/Samsung_Galaxy_A3.md "wikilink")。
   - 前攝像頭：500萬像素
   - 系统芯片：Qualcomm Snapdragon 410（四核1.2 GHz，ARM Cortex-A53 64位CPU）
   - 圖形處理器：Adreno 306
-  - 內存：2 GB [RAM](../Page/RAM.md "wikilink")
+  - 內存：2 GB [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")
   - 存儲：16 GB
   - 電池：2300 mAh
   - 屏幕尺寸：5英寸

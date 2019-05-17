@@ -38,7 +38,7 @@ works在2015年4月24日發售的[成人遊戲](../Page/日本成人遊戲.md "w
 ## 主題曲
 
   - OP「ハツコイ///ストライプ」\[3\]
-    作詞：[桃井はるこ](../Page/桃井はるこ.md "wikilink")　作曲：桃井はるこ　編曲：上野浩司　歌手：アフィリア･サーガ
+    作詞：[桃井はるこ](https://zh.wikipedia.org/wiki/桃井はるこ "wikilink")　作曲：桃井はるこ　編曲：上野浩司　歌手：アフィリア･サーガ
   - 姫川穂波ED「虹色のワンシーン」
     作詞/作曲/編曲：西坂恭平　歌：姫川穂波（藤森ゆき奈）
   - 芦屋鈴鹿ED「Sweet Kiss」
@@ -144,13 +144,13 @@ works在2015年4月24日發售的[成人遊戲](../Page/日本成人遊戲.md "w
 
 ## 評價
 
-PRETTY×CATION2在2015年由Getchu.com舉辦的美少女遊戲大賞2015中獲得系統部門第6名。\[7\]另外在由[萌えゲーアワード舉辦的](../Page/萌えゲーアワード.md "wikilink")2015年間排名中獲得第47名\[8\]和2015年4月的月間賞第4名。\[9\]
+PRETTY×CATION2在2015年由Getchu.com舉辦的美少女遊戲大賞2015中獲得系統部門第6名。\[7\]另外在由[萌えゲーアワード舉辦的](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2015年間排名中獲得第47名\[8\]和2015年4月的月間賞第4名。\[9\]
 
 ## 相關條目
 
   - [LOVELY×CATION](../Page/LOVELY×CATION.md "wikilink")
   - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
-  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
+  - [新妻LOVELY×CATION](https://zh.wikipedia.org/wiki/新妻LOVELY×CATION "wikilink")
 
 ## 參考來源
 
@@ -180,5 +180,5 @@ PRETTY×CATION2在2015年由Getchu.com舉辦的美少女遊戲大賞2015中獲�
     ＃1「二人の休日」](http://www.getchu.com/soft.phtml?id=924006)Getchu.com
 7.  [美少女ゲーム大賞2015
     －システム部門投票・結果発表－](http://www.getchu.com/pc/2015_g_ranking/system.html)Getchu.com
-8.  [2015年間ランキング](http://moe-gameaward.com/annual/2015.html)[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")
+8.  [2015年間ランキング](http://moe-gameaward.com/annual/2015.html)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")
 9.  [2015年4月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2015&month_id=10)萌えゲーアワード

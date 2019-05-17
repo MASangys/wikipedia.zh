@@ -1,21 +1,22 @@
 **Apache
-Spark**是一個[開源叢集運算框架](../Page/開源.md "wikilink")，最初是由加州大學柏克萊分校AMPLab所開發。相對於[Hadoop的](../Page/Apache_Hadoop.md "wikilink")[MapReduce會在執行完工作後將中介資料存放到磁碟中](../Page/MapReduce.md "wikilink")，Spark使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。Spark在記憶體內執行程式的運算速度能做到比Hadoop
-MapReduce的運算速度快上100倍，即便是執行程式於硬碟時，Spark也能快上10倍速度。\[1\]Spark允許用戶將資料加載至叢集記憶體，並多次對其進行查詢，非常適合用於[機器學習演算法](../Page/機器學習.md "wikilink")。\[2\]
+Spark**是一個[開源叢集運算框架](https://zh.wikipedia.org/wiki/開源 "wikilink")，最初是由加州大學柏克萊分校AMPLab所開發。相對於[Hadoop的](../Page/Apache_Hadoop.md "wikilink")[MapReduce會在執行完工作後將中介資料存放到磁碟中](../Page/MapReduce.md "wikilink")，Spark使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。Spark在記憶體內執行程式的運算速度能做到比Hadoop
+MapReduce的運算速度快上100倍，即便是執行程式於硬碟時，Spark也能快上10倍速度。\[1\]Spark允許用戶將資料加載至叢集記憶體，並多次對其進行查詢，非常適合用於[機器學習演算法](https://zh.wikipedia.org/wiki/機器學習 "wikilink")。\[2\]
 
 使用Spark需要搭配叢集管理員和分散式儲存系統。Spark支援獨立模式（本地Spark叢集）、[Hadoop
 YARN或](../Page/Apache_Hadoop.md "wikilink")[Apache
-Mesos的叢集管理](../Page/Apache_Mesos.md "wikilink")。\[3\]
+Mesos的叢集管理](https://zh.wikipedia.org/wiki/Apache_Mesos "wikilink")。\[3\]
 在分散式儲存方面，Spark可以和[HDFS](../Page/Apache_Hadoop.md "wikilink")\[4\]、
-[Cassandra](../Page/Apache_Cassandra.md "wikilink")\[5\] 、[OpenStack
-Swift和](../Page/OpenStack#Object_Storage_\(Swift\).md "wikilink")[Amazon
+[Cassandra](https://zh.wikipedia.org/wiki/Apache_Cassandra "wikilink")\[5\]
+、[OpenStack
+Swift和](https://zh.wikipedia.org/wiki/OpenStack#Object_Storage_\(Swift\) "wikilink")[Amazon
 S3等介面搭載](../Page/Amazon_S3.md "wikilink")。
 Spark也支援偽分散式（pseudo-distributed）本地模式，不過通常只用於開發或測試時以本機檔案系統取代分散式儲存系統。在這樣的情況下，Spark僅在一台機器上使用每個CPU核心執行程序。
 
-在2014年有超過465位貢獻家投入Spark開發\[6\]，讓其成為[Apache軟體基金會以及](../Page/Apache軟體基金會.md "wikilink")[巨量資料眾多開源專案中最為活躍的專案](../Page/巨量資料.md "wikilink")。
+在2014年有超過465位貢獻家投入Spark開發\[6\]，讓其成為[Apache軟體基金會以及](https://zh.wikipedia.org/wiki/Apache軟體基金會 "wikilink")[巨量資料眾多開源專案中最為活躍的專案](https://zh.wikipedia.org/wiki/巨量資料 "wikilink")。
 
 ## 歷史
 
-Spark在2009年由在[加州大學柏克萊分校AMPLab開創](../Page/加州大學柏克萊分校.md "wikilink")，2010年透過[BSD授權條款開源釋出](../Page/BSD授權條款.md "wikilink")。2013年，該專案被捐贈給[Apache軟體基金會並切換授權條款至Apache](../Page/Apache軟體基金會.md "wikilink")2.0。\[7\]。2014年2月，Spark成為Apache的頂級專案。2014年11月，Databricks團隊使用Spark
+Spark在2009年由在[加州大學柏克萊分校AMPLab開創](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，2010年透過[BSD授權條款開源釋出](https://zh.wikipedia.org/wiki/BSD授權條款 "wikilink")。2013年，該專案被捐贈給[Apache軟體基金會並切換授權條款至Apache](https://zh.wikipedia.org/wiki/Apache軟體基金會 "wikilink")2.0。\[7\]。2014年2月，Spark成為Apache的頂級專案。2014年11月，Databricks團隊使用Spark
 刷新資料排序世界記錄。\[8\]
 
 ## 專案構成要素
@@ -46,14 +47,14 @@ Streaming充分利用Spark核心的快速排程能力來執行串流分析。它
 ### MLlib
 
 MLlib是Spark上分散式機器學習框架。Spark分散式記憶體式的架構比Hadoop磁碟式的[Apache
-Mahout快上](../Page/Apache_Mahout.md "wikilink")10倍，擴充性甚至比要好。\[9\]
+Mahout快上](https://zh.wikipedia.org/wiki/Apache_Mahout "wikilink")10倍，擴充性甚至比要好。\[9\]
 MLlib可使用許多常見的機器學習和統計演算法，簡化大規模機器學習時間，其中包括：
 
   - 匯總統計、相關性、分層抽樣、假設檢定、隨機數據生成
-  - 分類與回歸：[支持向量機](../Page/支持向量機.md "wikilink")、[回歸](../Page/回歸.md "wikilink")、[線性回歸](../Page/線性回歸.md "wikilink")、[邏輯回歸](../Page/邏輯回歸.md "wikilink")、[決策樹](../Page/決策樹.md "wikilink")、[樸素貝葉斯](../Page/樸素貝葉斯分類器.md "wikilink")
+  - 分類與回歸：[支持向量機](https://zh.wikipedia.org/wiki/支持向量機 "wikilink")、[回歸](https://zh.wikipedia.org/wiki/回歸 "wikilink")、[線性回歸](../Page/線性回歸.md "wikilink")、[邏輯回歸](https://zh.wikipedia.org/wiki/邏輯回歸 "wikilink")、[決策樹](https://zh.wikipedia.org/wiki/決策樹 "wikilink")、[樸素貝葉斯](https://zh.wikipedia.org/wiki/樸素貝葉斯分類器 "wikilink")
   - [協同過濾](../Page/協同過濾.md "wikilink")：ALS
   - 分群：[k-平均演算法](../Page/K-平均算法.md "wikilink")
-  - 維度约减：[奇異值分解](../Page/奇異值分解.md "wikilink")（SVD），[主成分分析](../Page/主成分分析.md "wikilink")（PCA）
+  - 維度约减：[奇異值分解](https://zh.wikipedia.org/wiki/奇異值分解 "wikilink")（SVD），[主成分分析](../Page/主成分分析.md "wikilink")（PCA）
   - 特徵提取和轉換：TF-IDF、Word2Vec、StandardScaler
   - 最优化：隨機梯度下降法（SGD）、L-BFGS
 
@@ -61,7 +62,7 @@ MLlib可使用許多常見的機器學習和統計演算法，簡化大規模機
 
 GraphX是Spark上的分散式圖形處理框架。它提供了一組API，可用於表達圖表計算並可以模擬Pregel抽象化。GraphX還對這種抽象化提供了優化運行。
 
-GraphX最初為[加州大學柏克萊分校AMPLab和Databricks的研究專案](../Page/加州大學柏克萊分校.md "wikilink")，後來捐贈給Spark專案。\[10\]
+GraphX最初為[加州大學柏克萊分校AMPLab和Databricks的研究專案](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，後來捐贈給Spark專案。\[10\]
 
 ## 特色
 

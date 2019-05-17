@@ -1,8 +1,8 @@
-**乔治·麦考莱·特里维廉**，[OM](../Page/功績勳章_\(英國\).md "wikilink")，[CBE](../Page/英帝國司令勳章.md "wikilink")，[FRS](../Page/皇家學會院士.md "wikilink")，[FBA](../Page/英國國家學術院院士.md "wikilink")（，），[英国](../Page/英国人.md "wikilink")[历史学家](../Page/历史学家.md "wikilink")。他是[第二代准男爵乔治·奥托·特里维廉第三子以及](../Page/第二代准男爵乔治·奥托·特里维廉.md "wikilink")[辉格党史学家](../Page/辉格党.md "wikilink")[麦考莱男爵的甥孙](../Page/第一代麦考利男爵托马斯·巴宾顿·麦考利.md "wikilink")。
+**乔治·麦考莱·特里维廉**，[OM](../Page/功績勳章_\(英國\).md "wikilink")，[CBE](https://zh.wikipedia.org/wiki/英帝國司令勳章 "wikilink")，[FRS](https://zh.wikipedia.org/wiki/皇家學會院士 "wikilink")，[FBA](https://zh.wikipedia.org/wiki/英國國家學術院院士 "wikilink")（，），[英国](../Page/英国人.md "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。他是[第二代准男爵乔治·奥托·特里维廉第三子以及](https://zh.wikipedia.org/wiki/第二代准男爵乔治·奥托·特里维廉 "wikilink")[辉格党史学家](https://zh.wikipedia.org/wiki/辉格党 "wikilink")[麦考莱男爵的甥孙](https://zh.wikipedia.org/wiki/第一代麦考利男爵托马斯·巴宾顿·麦考利 "wikilink")。
 
 ## 生平
 
-特里维廉自幼家境优越，早年曾进入[剑桥大学三一学院学习](../Page/剑桥大学三一学院.md "wikilink")。日后在教育事业上有所成就，曾做过数场不列颠史演讲，在1940年担任剑桥大学三一学院，更在1950年担任[杜伦大学校长](../Page/杜伦大学.md "wikilink")，直至1958年退休。[特里维廉学院即以他的姓氏命名](../Page/特里维廉学院.md "wikilink")。
+特里维廉自幼家境优越，早年曾进入[剑桥大学三一学院学习](../Page/剑桥大学三一学院.md "wikilink")。日后在教育事业上有所成就，曾做过数场不列颠史演讲，在1940年担任剑桥大学三一学院，更在1950年担任[杜伦大学校长](../Page/杜伦大学.md "wikilink")，直至1958年退休。[特里维廉学院即以他的姓氏命名](https://zh.wikipedia.org/wiki/特里维廉学院 "wikilink")。
 
 ## 著作
 

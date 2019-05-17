@@ -1,5 +1,5 @@
 **Facebook
-Messenger**是一個提供文字和語音服務的即時通訊軟件／應用程式，於2011年8月9日發表，用戶可以透過網站或移動裝置向其他用戶傳送文字、圖片、[動畫](../Page/動畫.md "wikilink")、[語音和](../Page/語音.md "wikilink")[短片等](../Page/短片.md "wikilink")[多媒体訊息](../Page/多媒体.md "wikilink")（甚至進行[語音通話](../Page/語音.md "wikilink")），而無需額外付費。於2014年11月，[Facebook表示](../Page/Facebook.md "wikilink")，Facebook
+Messenger**是一個提供文字和語音服務的即時通訊軟件／應用程式，於2011年8月9日發表，用戶可以透過網站或移動裝置向其他用戶傳送文字、圖片、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[語音和](../Page/語音.md "wikilink")[短片等](https://zh.wikipedia.org/wiki/短片 "wikilink")[多媒体訊息](../Page/多媒体.md "wikilink")（甚至進行[語音通話](../Page/語音.md "wikilink")），而無需額外付費。於2014年11月，[Facebook表示](../Page/Facebook.md "wikilink")，Facebook
 Messenger已有約12億用户。\[1\]\[2\]
 
 ## 歷史

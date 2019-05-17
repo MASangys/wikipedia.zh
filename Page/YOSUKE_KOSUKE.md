@@ -5,9 +5,9 @@ MY WORLD』。
 ## 成員
 
   - YOSUKE(ヨースケ) - 坂上庸介（サカノウエヨースケ、1981年3月16日 -
-    、[兵庫縣出身](../Page/兵庫縣.md "wikilink")）
+    、[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")）
   - KOSUKE(コースケ) - [米原幸佑](../Page/米原幸佑.md "wikilink")（1986年3月13日 -
-    、[大阪府出身](../Page/大阪府.md "wikilink")）
+    、[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")）
 
 ## 作品
 

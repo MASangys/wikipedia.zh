@@ -1,4 +1,5 @@
-**Surge**是基于[iOS 9新增的](../Page/iOS_9.md "wikilink")“网络扩展”（Network
+**Surge**是基于[iOS
+9新增的](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")“网络扩展”（Network
 Extension）API\[1\]开发的一款网络调试工具。作为首个借用此软件可使用[Shadowsocks的iOS](../Page/Shadowsocks.md "wikilink")
 9应用，中国大陆网友将其广泛运用于[突破网络审查](../Page/突破网络审查.md "wikilink")。
 
@@ -8,7 +9,7 @@ Extension）API\[1\]开发的一款网络调试工具。作为首个借用此软
 
 ## 下架
 
-2017年7月底，[苹果公司在中国区](../Page/苹果公司.md "wikilink")[App
+2017年7月底，[苹果公司在中国区](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[App
 Store中下架了Surge](../Page/App_Store_\(iOS\).md "wikilink")\[2\]。
 
 ## 参见

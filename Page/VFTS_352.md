@@ -2,12 +2,12 @@
 [The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg](https://zh.wikipedia.org/wiki/File:The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg "fig:The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg")
 
 **VFTS
-352**是一個位於[大麥哲倫星系](../Page/大麥哲倫星系.md "wikilink")[蜘蛛星雲內的](../Page/蜘蛛星雲.md "wikilink")[密接聯星](../Page/密接聯星.md "wikilink")，距離地球約\[2\]。該聯星系是至今質量最大，並且光譜型是最早期型的密接聯星\[3\]。
+352**是一個位於[大麥哲倫星系](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")[蜘蛛星雲內的](https://zh.wikipedia.org/wiki/蜘蛛星雲 "wikilink")[密接聯星](../Page/密接聯星.md "wikilink")，距離地球約\[2\]。該聯星系是至今質量最大，並且光譜型是最早期型的密接聯星\[3\]。
 
 ## 概要
 
 由兩顆O型恆星組成的VFTS
-352聯星系統是由[欧洲南方天文台的](../Page/欧洲南方天文台.md "wikilink")[甚大望远镜發現的](../Page/甚大望远镜.md "wikilink")\[4\]，並且相關文章於2015年10月13日發表\[5\]。VFTS
+352聯星系統是由[欧洲南方天文台的](https://zh.wikipedia.org/wiki/欧洲南方天文台 "wikilink")[甚大望远镜發現的](../Page/甚大望远镜.md "wikilink")\[4\]，並且相關文章於2015年10月13日發表\[5\]。VFTS
 352是由兩顆體積相當，並且表面溫度達到 40,000°C
 的高溫明亮巨星組成。兩顆恆星互相環繞的軌道週期稍長於一日，並且因為極為靠近，兩顆恆星的表面已經相互連接\[6\]。如同VFTS
 352這樣極端狀況的恆星被認為內部核融合反應主要產物為氧等元素\[7\]。

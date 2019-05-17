@@ -1,6 +1,6 @@
-《**不愛之恩**》英文名称：Bu-Ai-Zhi-En，是[香港女子團體](../Page/香港.md "wikilink")[Twins暌違一年的全新粵語作品](../Page/Twins.md "wikilink")，亦是固定班底[伍樂城](../Page/伍樂城.md "wikilink")（作曲）、[黃偉文](../Page/黃偉文.md "wikilink")（填詞）聯手主打歌。MV由台灣知名音樂錄影帶導演[陳映之執導](../Page/陳映之.md "wikilink")。歌曲於2016年7月14日[iTunes](../Page/iTunes.md "wikilink")、[KKBOX](../Page/KKBOX.md "wikilink")、[JOOX](../Page/JOOX.md "wikilink")、[QQ音樂](../Page/QQ音樂.md "wikilink")、[MOOV](../Page/MOOV.md "wikilink")、[Soliton](../Page/Soliton.md "wikilink")、[Spotify](../Page/Spotify.md "wikilink")、[3HK正式推出](../Page/3_\(電訊\).md "wikilink")。\[1\]
-MV亦於同日[音悅台](../Page/音悅台.md "wikilink")、[騰訊視頻](../Page/騰訊視頻.md "wikilink")、[Youtube同步推出](../Page/Youtube.md "wikilink")。音樂錄影帶男主角則由Jeremy
-Wong [黃俊豪擔綱](../Page/黃俊豪.md "wikilink")。
+《**不愛之恩**》英文名称：Bu-Ai-Zhi-En，是[香港女子團體](../Page/香港.md "wikilink")[Twins暌違一年的全新粵語作品](https://zh.wikipedia.org/wiki/Twins "wikilink")，亦是固定班底[伍樂城](../Page/伍樂城.md "wikilink")（作曲）、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")（填詞）聯手主打歌。MV由台灣知名音樂錄影帶導演[陳映之執導](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。歌曲於2016年7月14日[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[KKBOX](../Page/KKBOX.md "wikilink")、[JOOX](https://zh.wikipedia.org/wiki/JOOX "wikilink")、[QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink")、[MOOV](../Page/MOOV.md "wikilink")、[Soliton](https://zh.wikipedia.org/wiki/Soliton "wikilink")、[Spotify](../Page/Spotify.md "wikilink")、[3HK正式推出](../Page/3_\(電訊\).md "wikilink")。\[1\]
+MV亦於同日[音悅台](https://zh.wikipedia.org/wiki/音悅台 "wikilink")、[騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")、[Youtube同步推出](https://zh.wikipedia.org/wiki/Youtube "wikilink")。音樂錄影帶男主角則由Jeremy
+Wong [黃俊豪擔綱](https://zh.wikipedia.org/wiki/黃俊豪 "wikilink")。
 
 ## 單曲介紹
 
@@ -31,11 +31,11 @@ Sa與Gill從來沒想到會面對這樣的一個狀況，看似平凡無奇的�
 <td><p>1.</p></td>
 <td><p>不愛之恩</p></td>
 <td><p><a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
-<td><p><a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
-<td><p><a href="../Page/陳映之.md" title="wikilink">陳映之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳映之" title="wikilink">陳映之</a></p></td>
 <td><p>2016年7月14日</p></td>
-<td><p><a href="../Page/騰訊視頻.md" title="wikilink">騰訊視頻</a><br />
-<a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a><br />
+<a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 </tr>
 </tbody>
 </table>

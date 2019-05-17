@@ -11,106 +11,140 @@ Built，并没有公开任何理由。\[4\]
 
 ## 旗下游戏
 
-  - *[10 Great Games 3](../Page/10_Great_Games_3.md "wikilink")*
-  - *[10th Frame](../Page/10th_Frame.md "wikilink")* (1986)
+  - *[10 Great Games
+    3](https://zh.wikipedia.org/wiki/10_Great_Games_3 "wikilink")*
+  - *[10th Frame](https://zh.wikipedia.org/wiki/10th_Frame "wikilink")*
+    (1986)
   - *[Amazon: Guardians of
-    Eden](../Page/Amazon:_Guardians_of_Eden.md "wikilink")* (1992)
-  - *[Amiga Gold Hits 1](../Page/Amiga_Gold_Hits_1.md "wikilink")*
-  - *[Amped 2](../Page/Amped_2.md "wikilink")* (2003, Xbox)
-  - *[Amped 3](../Page/Amped_3.md "wikilink")* (2005, [Xbox
-    360](../Page/Xbox_360.md "wikilink"))
+    Eden](https://zh.wikipedia.org/wiki/Amazon:_Guardians_of_Eden "wikilink")*
+    (1992)
+  - *[Amiga Gold Hits
+    1](https://zh.wikipedia.org/wiki/Amiga_Gold_Hits_1 "wikilink")*
+  - *[Amped 2](https://zh.wikipedia.org/wiki/Amped_2 "wikilink")* (2003,
+    Xbox)
+  - *[Amped 3](https://zh.wikipedia.org/wiki/Amped_3 "wikilink")* (2005,
+    [Xbox 360](../Page/Xbox_360.md "wikilink"))
   - *[Amped: Freestyle
-    Snowboarding](../Page/Amped:_Freestyle_Snowboarding.md "wikilink")*
-  - *[Beach Head](../Page/Beach_Head_\(video_game\).md "wikilink")*
+    Snowboarding](https://zh.wikipedia.org/wiki/Amped:_Freestyle_Snowboarding "wikilink")*
+  - *[Beach
+    Head](https://zh.wikipedia.org/wiki/Beach_Head_\(video_game\) "wikilink")*
     (1983, Atari, C64)
   - *[Beach Head II: The Dictator Strikes
-    Back](../Page/Beach_Head_II:_The_Dictator_Strikes_Back.md "wikilink")*
+    Back](https://zh.wikipedia.org/wiki/Beach_Head_II:_The_Dictator_Strikes_Back "wikilink")*
     (1985)
-  - *[Countdown](../Page/Countdown_\(video_game\).md "wikilink")* (1990)
-  - *[Crime Wave](../Page/Crime_Wave_\(video_game\).md "wikilink")*
+  - *[Countdown](https://zh.wikipedia.org/wiki/Countdown_\(video_game\) "wikilink")*
     (1990)
-  - *[Echelon](../Page/Echelon_\(1987_video_game\).md "wikilink")*
+  - *[Crime
+    Wave](https://zh.wikipedia.org/wiki/Crime_Wave_\(video_game\) "wikilink")*
+    (1990)
+  - *[Echelon](https://zh.wikipedia.org/wiki/Echelon_\(1987_video_game\) "wikilink")*
     (1987)
   - *[Famous Courses of the World: Vol.
-    II](../Page/Famous_Courses_of_the_World:_Vol._II.md "wikilink")*
+    II](https://zh.wikipedia.org/wiki/Famous_Courses_of_the_World:_Vol._II "wikilink")*
   - *[The Gold Collection
-    II](../Page/The_Gold_Collection_II.md "wikilink")*
+    II](https://zh.wikipedia.org/wiki/The_Gold_Collection_II "wikilink")*
   - *[Help\! Charity
-    Compilation](../Page/Help!_Charity_Compilation.md "wikilink")*
-  - *[Leader Board](../Page/Leader_Board.md "wikilink")*
-  - *[Leader Board Par 4](../Page/Leader_Board_Par_4.md "wikilink")*
-  - *[Links 2001](../Page/Links_2001.md "wikilink")*
-  - *[Links 386 CD](../Page/Links_386_CD.md "wikilink")*
-  - *[Links 386 Pro](../Page/Links_386_Pro.md "wikilink")*
-  - *[Links Expansion Pack](../Page/Links_Expansion_Pack.md "wikilink")*
-  - *[Links Extreme](../Page/Links_Extreme.md "wikilink")*
-  - *[Links LS 1997](../Page/Links_LS_1997.md "wikilink")*
+    Compilation](https://zh.wikipedia.org/wiki/Help!_Charity_Compilation "wikilink")*
+  - *[Leader
+    Board](https://zh.wikipedia.org/wiki/Leader_Board "wikilink")*
+  - *[Leader Board Par
+    4](https://zh.wikipedia.org/wiki/Leader_Board_Par_4 "wikilink")*
+  - *[Links 2001](https://zh.wikipedia.org/wiki/Links_2001 "wikilink")*
+  - *[Links 386
+    CD](https://zh.wikipedia.org/wiki/Links_386_CD "wikilink")*
+  - *[Links 386
+    Pro](https://zh.wikipedia.org/wiki/Links_386_Pro "wikilink")*
+  - *[Links Expansion
+    Pack](https://zh.wikipedia.org/wiki/Links_Expansion_Pack "wikilink")*
+  - *[Links
+    Extreme](https://zh.wikipedia.org/wiki/Links_Extreme "wikilink")*
+  - *[Links LS
+    1997](https://zh.wikipedia.org/wiki/Links_LS_1997 "wikilink")*
   - *[Links LS 1998
-    Edition](../Page/Links_LS_1998_Edition.md "wikilink")*
-  - *[Links LS 1999](../Page/Links_LS_1999.md "wikilink")*
-  - *[Links LS 2000](../Page/Links_LS_2000.md "wikilink")*
+    Edition](https://zh.wikipedia.org/wiki/Links_LS_1998_Edition "wikilink")*
+  - *[Links LS
+    1999](https://zh.wikipedia.org/wiki/Links_LS_1999 "wikilink")*
+  - *[Links LS
+    2000](https://zh.wikipedia.org/wiki/Links_LS_2000 "wikilink")*
   - *[Links LS 2000 10 Course
-    Pack](../Page/Links_LS_2000_10_Course_Pack.md "wikilink")*
-  - *[Links 2003](../Page/Links_2003.md "wikilink")* (2002)
-  - *[Links 2004](../Page/Links_2004.md "wikilink")* (2003)
+    Pack](https://zh.wikipedia.org/wiki/Links_LS_2000_10_Course_Pack "wikilink")*
+  - *[Links 2003](https://zh.wikipedia.org/wiki/Links_2003 "wikilink")*
+    (2002)
+  - *[Links 2004](https://zh.wikipedia.org/wiki/Links_2004 "wikilink")*
+    (2003)
   - *[Links: Championship Course: Banff
-    Springs](../Page/Links:_Championship_Course.md "wikilink")*
+    Springs](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Barton
-    Creek](../Page/Links:_Championship_Course.md "wikilink")*
+    Creek](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Bay Hill Club &
-    Lodge](../Page/Links:_Championship_Course.md "wikilink")*
+    Lodge](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course:
-    Bighorn](../Page/Links:_Championship_Course.md "wikilink")*
+    Bighorn](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Bountiful Golf
-    Course](../Page/Links:_Championship_Course.md "wikilink")*
+    Course](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course:
-    Castlepines](../Page/Links:_Championship_Course.md "wikilink")*
+    Castlepines](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Firestone Country
-    Club](../Page/Links:_Championship_Course.md "wikilink")*
+    Club](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Hyatt Dorado Beach
-    Resort](../Page/Links:_Championship_Course.md "wikilink")*
+    Resort](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Innisbrook -
-    Copperhead](../Page/Links:_Championship_Course.md "wikilink")*
+    Copperhead](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Mauna
-    Kea](../Page/Links:_Championship_Course.md "wikilink")*
+    Kea](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Pebble
-    Beach](../Page/Links:_Championship_Course.md "wikilink")*
+    Beach](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Pinehurst Country
-    Club](../Page/Links:_Championship_Course.md "wikilink")*
+    Club](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Championship Course: Troon
-    North](../Page/Links:_Championship_Course.md "wikilink")*
+    North](https://zh.wikipedia.org/wiki/Links:_Championship_Course "wikilink")*
   - *[Links: Fantasy Course: Devils
-    Island](../Page/Links:_Fantasy_Course.md "wikilink")*
+    Island](https://zh.wikipedia.org/wiki/Links:_Fantasy_Course "wikilink")*
   - *[Links: The Challenge of
-    Golf](../Page/Links:_The_Challenge_of_Golf.md "wikilink")*
-  - *[Mach5, Mach128](../Page/Mach5,_Mach128.md "wikilink")* (C64/C128)
-  - *[Martian Memorandum](../Page/Martian_Memorandum.md "wikilink")*
-  - *[Mean Streets](../Page/Mean_Streets_\(video_game\).md "wikilink")*
+    Golf](https://zh.wikipedia.org/wiki/Links:_The_Challenge_of_Golf "wikilink")*
+  - *[Mach5,
+    Mach128](https://zh.wikipedia.org/wiki/Mach5,_Mach128 "wikilink")*
+    (C64/C128)
+  - *[Martian
+    Memorandum](https://zh.wikipedia.org/wiki/Martian_Memorandum "wikilink")*
+  - *[Mean
+    Streets](https://zh.wikipedia.org/wiki/Mean_Streets_\(video_game\) "wikilink")*
     (1989)
-  - *[Microsoft Golf](../Page/Microsoft_Golf.md "wikilink")*
-  - *[Microsoft Golf 2.0](../Page/Microsoft_Golf_2.0.md "wikilink")*
-  - *[Microsoft Golf 3.0](../Page/Microsoft_Golf_3.0.md "wikilink")*
+  - *[Microsoft
+    Golf](https://zh.wikipedia.org/wiki/Microsoft_Golf "wikilink")*
+  - *[Microsoft Golf
+    2.0](https://zh.wikipedia.org/wiki/Microsoft_Golf_2.0 "wikilink")*
+  - *[Microsoft Golf
+    3.0](https://zh.wikipedia.org/wiki/Microsoft_Golf_3.0 "wikilink")*
   - *[Microsoft Golf 2001
-    Edition](../Page/Microsoft_Golf_2001_Edition.md "wikilink")*
-  - *[Ollies Follies](../Page/Ollies_Follies.md "wikilink")*
+    Edition](https://zh.wikipedia.org/wiki/Microsoft_Golf_2001_Edition "wikilink")*
+  - *[Ollies
+    Follies](https://zh.wikipedia.org/wiki/Ollies_Follies "wikilink")*
   - *[The Pandora
-    Directive](../Page/The_Pandora_Directive.md "wikilink")*
-  - *[Raid over Moscow](../Page/Raid_over_Moscow.md "wikilink")* (1985,
-    C64/Atari)
-  - *[Robotic Workshop](../Page/Robotic_Workshop.md "wikilink")* (1987,
-    C64/C128/Amiga)
+    Directive](https://zh.wikipedia.org/wiki/The_Pandora_Directive "wikilink")*
+  - *[Raid over
+    Moscow](https://zh.wikipedia.org/wiki/Raid_over_Moscow "wikilink")*
+    (1985, C64/Atari)
+  - *[Robotic
+    Workshop](https://zh.wikipedia.org/wiki/Robotic_Workshop "wikilink")*
+    (1987, C64/C128/Amiga)
   - *[The Scrolls of
-    Abadon](../Page/The_Scrolls_of_Abadon.md "wikilink")*
+    Abadon](https://zh.wikipedia.org/wiki/The_Scrolls_of_Abadon "wikilink")*
   - *[Solid
-    Gold](../Page/Solid_Gold_\(game_compilation\).md "wikilink")*
-  - *[Tex Murphy: Overseer](../Page/Tex_Murphy:_Overseer.md "wikilink")*
-  - *[Top Spin](../Page/Top_Spin_\(video_game\).md "wikilink")* (2003)
-  - *[Top Spin 2](../Page/Top_Spin_2.md "wikilink")* (2006)
+    Gold](https://zh.wikipedia.org/wiki/Solid_Gold_\(game_compilation\) "wikilink")*
+  - *[Tex Murphy:
+    Overseer](https://zh.wikipedia.org/wiki/Tex_Murphy:_Overseer "wikilink")*
+  - *[Top
+    Spin](https://zh.wikipedia.org/wiki/Top_Spin_\(video_game\) "wikilink")*
+    (2003)
+  - *[Top Spin 2](https://zh.wikipedia.org/wiki/Top_Spin_2 "wikilink")*
+    (2006)
   - *[Total
-    Sports](../Page/Total_Sports_\(game_compilation\).md "wikilink")*
-  - *[Under a Killing Moon](../Page/Under_a_Killing_Moon.md "wikilink")*
+    Sports](https://zh.wikipedia.org/wiki/Total_Sports_\(game_compilation\) "wikilink")*
+  - *[Under a Killing
+    Moon](https://zh.wikipedia.org/wiki/Under_a_Killing_Moon "wikilink")*
   - *[World Class Leader
-    Board](../Page/World_Class_Leader_Board.md "wikilink")*
+    Board](https://zh.wikipedia.org/wiki/World_Class_Leader_Board "wikilink")*
 
 ## 参考资料
 
@@ -131,7 +165,8 @@ Built，并没有公开任何理由。\[4\]
 
 1.  [Obituary: Access Software Founder Bruce
     Carver](http://www.gamasutra.com/php-bin/news_index.php?story=7692)
-    from *[Gamasutra](../Page/Gamasutra.md "wikilink")*
+    from
+    *[Gamasutra](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")*
 2.  IGN.com, April 19, 1999: [Microsoft Buys
     Access](http://pc.ign.com/articles/067/067751p1.html)
 3.  IGN.com, December 17, 2004: [Take-Two Picks Up Amped

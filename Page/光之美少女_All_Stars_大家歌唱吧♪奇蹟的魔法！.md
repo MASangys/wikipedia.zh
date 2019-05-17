@@ -17,7 +17,7 @@
 
   -
 
-### [GO\! 光之美少女公主](../Page/Go！Princess_光之美少女.md "wikilink")
+### [GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")
 
   -
 
@@ -77,7 +77,7 @@
 
   -
 
-### [光之美少女 Splash Star](../Page/光之美少女_Splash_Star.md "wikilink")
+### [光之美少女 Splash Star](https://zh.wikipedia.org/wiki/光之美少女_Splash_Star "wikilink")
 
   -
 
@@ -123,10 +123,10 @@
 
   -
     於《[光之美少女](../Page/光之美少女.md "wikilink")》及《[光之美少女 Max
-    Heart](../Page/光之美少女_Max_Heart.md "wikilink")》登場，本作中以最終型態登場。
+    Heart](https://zh.wikipedia.org/wiki/光之美少女_Max_Heart "wikilink")》登場，本作中以最終型態登場。
     在[GO\!
-    光之美少女公主打倒葛亞與皮耶羅後](../Page/Go！Princess_光之美少女.md "wikilink")，和深紅一同現身並自爆，使[GO\!
-    光之美少女公主及回聲天使無法繼續戰鬥](../Page/Go！Princess_光之美少女.md "wikilink")。
+    光之美少女公主打倒葛亞與皮耶羅後](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，和深紅一同現身並自爆，使[GO\!
+    光之美少女公主及回聲天使無法繼續戰鬥](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
 
 <!-- end list -->
 
@@ -134,15 +134,15 @@
     於《[光之美少女Splash
     Star](../Page/光之美少女Splash_Star.md "wikilink")》登場，本作中以最終型態登場。
     在魔法天使與[GO\!
-    光之美少女公主](../Page/Go！Princess_光之美少女.md "wikilink")、回聲天使重逢後，與皮耶羅一同現身，和皮耶羅聯手交戰[GO\!
-    光之美少女公主](../Page/Go！Princess_光之美少女.md "wikilink")、回聲天使及魔法天使，最後被**光之美少女
+    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使重逢後，與皮耶羅一同現身，和皮耶羅聯手交戰[GO\!
+    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使及魔法天使，最後被**光之美少女
     宏偉春天（Precure Grand Printemps）**打敗。
 
 <!-- end list -->
 
   -
     於《[Yes\! 光之美少女5
-    GoGo\!](../Page/Yes!_光之美少女5_GoGo!.md "wikilink")》登場，本作中以戰鬥型態登場。
+    GoGo\!](https://zh.wikipedia.org/wiki/Yes!_光之美少女5_GoGo! "wikilink")》登場，本作中以戰鬥型態登場。
     和自私始祖聯手交戰桃天使、花蕾天使、旋律天使、快樂天使及奇蹟天使，最後被打敗。
 
 <!-- end list -->
@@ -162,16 +162,16 @@
   -
     於《[光之美少女：美樂天使](../Page/Suite_光之美少女♪.md "wikilink")》登場，本作中以最終型態登場。
     與[填充幸福
-    光之美少女！及奇蹟天使戰鬥](../Page/Happiness_Charge_光之美少女.md "wikilink")，之後自爆，使[填充幸福
-    光之美少女！無法繼續戰鬥](../Page/Happiness_Charge_光之美少女.md "wikilink")。
+    光之美少女！及奇蹟天使戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")，之後自爆，使[填充幸福
+    光之美少女！無法繼續戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")。
 
 <!-- end list -->
 
   -
     於《[Smile 光之美少女！](../Page/Smile_光之美少女！.md "wikilink")》登場，本作中以完全型態登場。
     在魔法天使與[GO\!
-    光之美少女公主](../Page/Go！Princess_光之美少女.md "wikilink")、回聲天使重逢後，與葛亞一同現身，和葛亞聯手交戰[GO\!
-    光之美少女公主](../Page/Go！Princess_光之美少女.md "wikilink")、回聲天使及魔法天使，最後被**光之美少女
+    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使重逢後，與葛亞一同現身，和葛亞聯手交戰[GO\!
+    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使及魔法天使，最後被**光之美少女
     宏偉春天（Precure Grand Printemps）**打敗。
 
 <!-- end list -->
@@ -187,15 +187,16 @@
     於《[填充幸福
     光之美少女！](../Page/Happiness_Charge_光之美少女！.md "wikilink")》登場，本作中以一般型態登場。
     在[GO\!
-    光之美少女公主打倒葛亞與皮耶羅後](../Page/Go！Princess_光之美少女.md "wikilink")，和賈酷王一同現身並自爆，使[GO\!
-    光之美少女公主及回聲天使無法繼續戰鬥](../Page/Go！Princess_光之美少女.md "wikilink")。
+    光之美少女公主打倒葛亞與皮耶羅後](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")，和賈酷王一同現身並自爆，使[GO\!
+    光之美少女公主及回聲天使無法繼續戰鬥](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
 
 <!-- end list -->
 
   -
     於《[GO\!
-    光之美少女公主](../Page/Go！Princess_光之美少女.md "wikilink")》登場，本作中以一般型態登場。
-    第一次登場與[GO\! 光之美少女公主及](../Page/Go！Princess_光之美少女.md "wikilink")[魔法使
+    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》登場，本作中以一般型態登場。
+    第一次登場與[GO\!
+    光之美少女公主及](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")[魔法使
     光之美少女！交戰](../Page/魔法使_光之美少女！.md "wikilink")，第二次登場與[DokiDoki\!
     光之美少女及魔法天使交戰](../Page/DokiDoki!_光之美少女.md "wikilink")，之後自爆，使[DokiDoki\!
     光之美少女無法繼續戰鬥](../Page/DokiDoki!_光之美少女.md "wikilink")。
@@ -210,7 +211,7 @@
 ### 插曲
 
   - 「」
-    作詞：森雪之丞，作曲：，編曲：高木洋，主唱：朝日奈未來（[高橋李依](../Page/高橋李依.md "wikilink")）、理子（[堀江由衣](../Page/堀江由衣.md "wikilink")）、莫夫倫（[齋藤彩夏](../Page/齋藤彩夏.md "wikilink")）、春野遙（[嶋村侑](../Page/嶋村侑.md "wikilink")）、海藤南（[淺野真澄](../Page/淺野真澄.md "wikilink")）、天之川綺羅（[山村響](../Page/山村響.md "wikilink")）、紅城永久（[澤城美雪](../Page/澤城美雪.md "wikilink")）、泡芙（[東山奈央](../Page/東山奈央.md "wikilink")）、阿羅瑪（[古城門志帆](../Page/古城門志帆.md "wikilink")）
+    作詞：森雪之丞，作曲：，編曲：高木洋，主唱：朝日奈未來（[高橋李依](../Page/高橋李依.md "wikilink")）、理子（[堀江由衣](../Page/堀江由衣.md "wikilink")）、莫夫倫（[齋藤彩夏](../Page/齋藤彩夏.md "wikilink")）、春野遙（[嶋村侑](../Page/嶋村侑.md "wikilink")）、海藤南（[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")）、天之川綺羅（[山村響](../Page/山村響.md "wikilink")）、紅城永久（[澤城美雪](../Page/澤城美雪.md "wikilink")）、泡芙（[東山奈央](../Page/東山奈央.md "wikilink")）、阿羅瑪（[古城門志帆](../Page/古城門志帆.md "wikilink")）
 
 <!-- end list -->
 
@@ -241,7 +242,8 @@
 
   - 「」
     作詞：大森祥子，作曲：渡邊亮希，編曲：渡邊亮希、池田大介，主唱：磯部花凜
-    本曲為《[GO\! 光之美少女公主](../Page/Go！Princess_光之美少女.md "wikilink")》片頭曲。
+    本曲為《[GO\!
+    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》片頭曲。
 
 <!-- end list -->
 
@@ -256,16 +258,16 @@
   - 音樂：高木洋
   - 原作編舞：前田健、MIKIKO
   - 編舞：西田一生
-  - 原作角色設計：[稻上晃](../Page/稻上晃.md "wikilink")、香川久、[馬越嘉彥](../Page/馬越嘉彥.md "wikilink")、川村敏江、高橋晃、佐藤雅將、中谷友紀子、宮本繪美子
+  - 原作角色設計：[稻上晃](../Page/稻上晃.md "wikilink")、香川久、[馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")、川村敏江、高橋晃、佐藤雅將、中谷友紀子、宮本繪美子
   - 角色設計、作畫監督：青山充
   - 美術監督：渡邊佳人
   - CG監督：中西信棋、小林真理
   - 色彩設計：澤田豐二
   - 攝影監督：高橋賢司
   - 製作擔當：大町義則
-  - 動畫製作：[東映動畫](../Page/東映動畫.md "wikilink")
+  - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - 製作：[電影光之美少女All Stars
-    STMM製作委員會](../Page/製作委員會方式.md "wikilink")（東映動畫、東映、[Bandai](../Page/Bandai.md "wikilink")、[旭通廣告](../Page/旭通廣告.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
+    STMM製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
   - 發行：[東映](../Page/東映.md "wikilink")
 
 ## 參考資料

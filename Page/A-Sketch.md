@@ -1,10 +1,10 @@
 *'
-A-Sketch*'（；）是[日本一間以從事](../Page/日本.md "wikilink")[唱片事業](../Page/唱片.md "wikilink")[公司](../Page/公司.md "wikilink")，是[Amuse集團唱片公司和藝人管理公司](../Page/Amuse.md "wikilink")，一旦該公司的視頻和音樂軟件子公司Amuse軟娛樂是負責銷售提成來的。
+A-Sketch*'（；）是[日本一間以從事](../Page/日本.md "wikilink")[唱片事業](https://zh.wikipedia.org/wiki/唱片 "wikilink")[公司](../Page/公司.md "wikilink")，是[Amuse集團唱片公司和藝人管理公司](../Page/Amuse.md "wikilink")，一旦該公司的視頻和音樂軟件子公司Amuse軟娛樂是負責銷售提成來的。
 
 ## 沿革
 
   - 2013年8月，動漫mv「**Astro
-    Voice**」上傳，首次發行[mimimemeMIMI的單曲](../Page/mimimemeMIMI.md "wikilink")《》發行\[1\]。
+    Voice**」上傳，首次發行[mimimemeMIMI的單曲](https://zh.wikipedia.org/wiki/mimimemeMIMI "wikilink")《》發行\[1\]。
 
 ## 參考資料
 

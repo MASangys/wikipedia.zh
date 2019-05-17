@@ -1,5 +1,5 @@
 **Kids
-Alive**，[日本](../Page/日本.md "wikilink")[搖滾](../Page/搖滾樂.md "wikilink")[樂團](../Page/樂團.md "wikilink")。通常以「**KIDS
+Alive**，[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。通常以「**KIDS
 ALIVE**」表示。
 
 ## 概要
@@ -11,7 +11,7 @@ ALIVE**」表示。
     Alive的所有成員都是高中在校生，並將活動地點野從北海道轉移至東京。後同名單曲被選為[富士電視台的音樂節目](../Page/富士電視台.md "wikilink")《[HEY！HEY！HEY！MUSIC
     CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")》使用。
   - 2001年11月，Kids
-    Alive的第4張單曲《[我們的冒險](../Page/我們的冒險.md "wikilink")（）》由於發售之後獲得熱烈迴響，因此創下Oricon攀登第30名的最高排名紀錄，而且被[東京電視網](../Page/東京電視網.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")《**[棋魂](../Page/棋魂.md "wikilink")**》當片尾主題曲使用而廣為人知。
+    Alive的第4張單曲《[我們的冒險](https://zh.wikipedia.org/wiki/我們的冒險 "wikilink")（）》由於發售之後獲得熱烈迴響，因此創下Oricon攀登第30名的最高排名紀錄，而且被[東京電視網](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《**[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")**》當片尾主題曲使用而廣為人知。
   - 2002年，Kids Alive的唯一專輯《3 Colors Infinity》發行。
   - 2003年，Kids Alive的最後一張單曲《二人的季節 ～North Point～（）》發售之後，從此休止音樂活動。
 
@@ -22,17 +22,17 @@ ALIVE**」表示。
       -
         **Yuta**
         本名：相原 憂太
-        1984年5月25日出生。喜歡的樂團是[年輕歲月](../Page/綠日樂團.md "wikilink")。他在樂團休止音樂活動之後轉任公關，並以公關身分和「Yuga」名義另組成音樂團體「」，2007年首次亮相。
-    **[貝斯](../Page/貝斯.md "wikilink")**
+        1984年5月25日出生。喜歡的樂團是[年輕歲月](https://zh.wikipedia.org/wiki/綠日樂團 "wikilink")。他在樂團休止音樂活動之後轉任公關，並以公關身分和「Yuga」名義另組成音樂團體「」，2007年首次亮相。
+    **[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")**
       -
         **Akihiro**
         本名：山村 明弘
-        1983年8月22日出生。喜歡的樂團是[模糊樂團](../Page/布勒.md "wikilink")、和等。
+        1983年8月22日出生。喜歡的樂團是[模糊樂團](https://zh.wikipedia.org/wiki/布勒 "wikilink")、和等。
     **[吉他](../Page/吉他.md "wikilink")**
       -
         **Keiji**
         本名：管野 浩司
-        1983年7月7日出生。喜歡的樂團是[披頭四](../Page/披頭四.md "wikilink")。以本名名義提供樂曲給club
+        1983年7月7日出生。喜歡的樂團是[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")。以本名名義提供樂曲給club
         Prince。
 
 ## 作品列表
@@ -111,14 +111,14 @@ ALIVE**」表示。
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="../Page/我們的冒險.md" title="wikilink">我們的冒險</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/我們的冒險" title="wikilink">我們的冒險</a><br />
 （）</p></td>
 <td><p>2001年11月14日</p></td>
 <td><ol>
 <li><p>［3:56］<br />
 （作詞：Keiji／作曲：Keiji、朝三“sammy”憲一／編曲：Kids Alive、朝三“sammy”憲一）</p>
 <ul>
-<li><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a><a href="../Page/電視動畫.md" title="wikilink">電視動畫</a>《<a href="../Page/棋魂.md" title="wikilink">棋魂</a>》片尾主題曲、音樂節目《》片頭主題曲</li>
+<li><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a>《<a href="https://zh.wikipedia.org/wiki/棋魂" title="wikilink">棋魂</a>》片尾主題曲、音樂節目《》片頭主題曲</li>
 </ul></li>
 <li>Reign Heart［4:09］（作詞：Keiji、Jam／作曲：Keiji／編曲：Kids Alive、朝三“sammy”憲一）</li>
 <li><p>(TV MIX)［3:56］</p></li>
@@ -165,7 +165,7 @@ ALIVE**」表示。
 <td><ol>
 <li><p>～North Point～［5:14］（作詞、作曲：Keiji／編曲：Kids Alive、五十嵐淳一）</p>
 <ul>
-<li><a href="../Page/北海道文化放送.md" title="wikilink">UNB電視劇</a>《》主題曲</li>
+<li><a href="https://zh.wikipedia.org/wiki/北海道文化放送" title="wikilink">UNB電視劇</a>《》主題曲</li>
 </ul></li>
 <li>away［4:52］（作詞、作曲：Keiji／編曲：Kids Alive）</li>
 <li><p>～North Point～ (TV MIX)［5:14］</p></li>
@@ -236,7 +236,7 @@ ALIVE**」表示。
 ## 獎項
 
   - 由Keiji作曲的動畫《[踢出我天地](../Page/HUNGRY_HEART_野驁射手.md "wikilink")》香港版主題曲由[周國賢主唱的](../Page/周國賢.md "wikilink")《黃金入球》曾於《2004[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")》內奪得「十大兒歌金曲」獎。
-  - 由Keiji作曲的動畫《踢出我天地》香港版主題曲由周國賢主唱的《黃金入球》曾於2005年度「[新城勁爆兒歌頒獎禮](../Page/新城勁爆兒歌頒獎禮.md "wikilink")」內奪得「新城勁爆兒歌」獎。
+  - 由Keiji作曲的動畫《踢出我天地》香港版主題曲由周國賢主唱的《黃金入球》曾於2005年度「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")」內奪得「新城勁爆兒歌」獎。
 
 ## 參考資料
 

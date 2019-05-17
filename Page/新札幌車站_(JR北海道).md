@@ -4,16 +4,16 @@
 
 ## 概要
 
-札幌市厚別區的中心車站\[1\]。經過的客運列車（除臨時臥鋪特急[仙后座號列車以外](../Page/仙后座號列車.md "wikilink")）全部停靠本站。此站同時是北海道使用人數僅次於[札幌站](../Page/札幌站.md "wikilink")，[新千歲機場站和](../Page/新千歲機場站.md "wikilink")[手稻車站的第四大车站](../Page/手稻車站.md "wikilink")。周圍設置眾多商業設施，由於位處札幌和新千歲機場中間，交通便利，有很多觀光客下榻附近旅館。
+札幌市厚別區的中心車站\[1\]。經過的客運列車（除臨時臥鋪特急[仙后座號列車以外](https://zh.wikipedia.org/wiki/仙后座號列車 "wikilink")）全部停靠本站。此站同時是北海道使用人數僅次於[札幌站](../Page/札幌站.md "wikilink")，[新千歲機場站和](../Page/新千歲機場站.md "wikilink")[手稻車站的第四大车站](../Page/手稻車站.md "wikilink")。周圍設置眾多商業設施，由於位處札幌和新千歲機場中間，交通便利，有很多觀光客下榻附近旅館。
 
-本站和[札幌市營地下鐵](../Page/札幌市營地下鐵.md "wikilink")[東西線的](../Page/東西線_\(札幌市營地下鐵\).md "wikilink")[新札幌站連接](../Page/新札幌車站_\(札幌市營地下鐵\).md "wikilink")，是北海道除[札幌車站外唯一JR和地下鐵有接續的車站](../Page/札幌車站.md "wikilink")，故同為代替運營指定車站。本站往東為丘陵和高地，向西則地勢平坦，是[石狩平原的東部門戶](../Page/石狩平原.md "wikilink")，地理位置重要。
+本站和[札幌市營地下鐵](../Page/札幌市營地下鐵.md "wikilink")[東西線的](../Page/東西線_\(札幌市營地下鐵\).md "wikilink")[新札幌站連接](../Page/新札幌車站_\(札幌市營地下鐵\).md "wikilink")，是北海道除[札幌車站外唯一JR和地下鐵有接續的車站](https://zh.wikipedia.org/wiki/札幌車站 "wikilink")，故同為代替運營指定車站。本站往東為丘陵和高地，向西則地勢平坦，是[石狩平原的東部門戶](https://zh.wikipedia.org/wiki/石狩平原 "wikilink")，地理位置重要。
 
 ### 停靠列車
 
-  - [特急](../Page/特別急行列車.md "wikilink")「[北斗](../Page/北斗號列車.md "wikilink")」及「[超級北斗](../Page/北斗號列車.md "wikilink")」
+  - [特急](../Page/特別急行列車.md "wikilink")「[北斗](https://zh.wikipedia.org/wiki/北斗號列車 "wikilink")」及「[超級北斗](https://zh.wikipedia.org/wiki/北斗號列車 "wikilink")」
   - 特急「[鈴蘭](../Page/鈴蘭號列車.md "wikilink")」（）
   - 特急「[超級大空](../Page/超級大空號列車.md "wikilink")」（）
-  - 特急「[超級十勝](../Page/超級十勝號列車.md "wikilink")」（）
+  - 特急「[超級十勝](https://zh.wikipedia.org/wiki/超級十勝號列車 "wikilink")」（）
   - 快速「Airport」（）
 
 ## 歷史
@@ -24,7 +24,7 @@
 
 ## 車站結構
 
-[對向式月台](../Page/對向式月台.md "wikilink")2面2線的[高架車站](../Page/高架車站.md "wikilink")。
+[對向式月台](https://zh.wikipedia.org/wiki/對向式月台 "wikilink")2面2線的[高架車站](../Page/高架車站.md "wikilink")。
 
 ### 月台配置
 
@@ -42,12 +42,12 @@
 <td><p>1</p></td>
 <td><p>千歲線</p></td>
 <td><p>上行</p></td>
-<td><p>、<a href="../Page/新千歲機場站.md" title="wikilink">新千歲機場</a>、<a href="../Page/苫小牧站.md" title="wikilink">苫小牧</a>、<a href="../Page/東室蘭站.md" title="wikilink">東室蘭</a>、<a href="../Page/函館站.md" title="wikilink">函館</a>、<a href="../Page/帶廣站.md" title="wikilink">帶廣</a>、<a href="../Page/釧路站.md" title="wikilink">釧路方向</a></p></td>
+<td><p>、<a href="../Page/新千歲機場站.md" title="wikilink">新千歲機場</a>、<a href="https://zh.wikipedia.org/wiki/苫小牧站" title="wikilink">苫小牧</a>、<a href="https://zh.wikipedia.org/wiki/東室蘭站" title="wikilink">東室蘭</a>、<a href="https://zh.wikipedia.org/wiki/函館站" title="wikilink">函館</a>、<a href="https://zh.wikipedia.org/wiki/帶廣站" title="wikilink">帶廣</a>、<a href="https://zh.wikipedia.org/wiki/釧路站" title="wikilink">釧路方向</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>下行</p></td>
-<td><p><a href="../Page/札幌站.md" title="wikilink">札幌</a>、<a href="../Page/手稻站.md" title="wikilink">手稻</a>、<a href="../Page/小樽站.md" title="wikilink">小樽方向</a></p></td>
+<td><p><a href="../Page/札幌站.md" title="wikilink">札幌</a>、<a href="https://zh.wikipedia.org/wiki/手稻站" title="wikilink">手稻</a>、<a href="../Page/小樽站.md" title="wikilink">小樽方向</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -92,7 +92,7 @@
 
           -
 
-            （H07）－**新札幌（H05）**－（一部分停靠[白石站](../Page/白石站_\(JR北海道\).md "wikilink")（H03））－[札幌](../Page/札幌站.md "wikilink")（01）
+            （H07）－**新札幌（H05）**－（一部分停靠[白石站](https://zh.wikipedia.org/wiki/白石站_\(JR北海道\) "wikilink")（H03））－[札幌](../Page/札幌站.md "wikilink")（01）
 
         普通
 
@@ -111,5 +111,5 @@
 [Category:厚別區鐵路車站](https://zh.wikipedia.org/wiki/Category:厚別區鐵路車站 "wikilink")
 
 1.  “札幌市副都心部的新門戶，国鐵千歲線「新札幌站」。昭和48年9月9日開業”。
-    [北海道新聞](../Page/北海道新聞.md "wikilink") (北海道新聞社).
-    (1982年7月25日)
+    [北海道新聞](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink")
+    (北海道新聞社). (1982年7月25日)

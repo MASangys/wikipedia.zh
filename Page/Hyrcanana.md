@@ -1,16 +1,19 @@
-***Hyrcanana***是[灰蝶科](../Page/灰蝶科.md "wikilink")[灰蝶亞科](../Page/灰蝶亞科.md "wikilink")[灰蝶族裡的一個](../Page/灰蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分佈於中亞。基於雄蝶的外生殖器構造獨特，Bozano
+***Hyrcanana***是[灰蝶科](../Page/灰蝶科.md "wikilink")[灰蝶亞科](../Page/灰蝶亞科.md "wikilink")[灰蝶族裡的一個](../Page/灰蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於中亞。基於雄蝶的外生殖器構造獨特，Bozano
 & Weidenhoffer (2001) 把此屬從[灰蝶屬分離出來](../Page/灰蝶屬.md "wikilink")\[1\]。
 
 ## 物種
 
-  - [卡斯灰蝶](../Page/卡斯灰蝶.md "wikilink") *Hyrcanana caspia* = *Lycaena
-    caspius*
-  - [埃文斯灰蝶](../Page/埃文斯灰蝶.md "wikilink") *Hyrcanana evansii* = 印度罕萊灰蝶
+  - [卡斯灰蝶](https://zh.wikipedia.org/wiki/卡斯灰蝶 "wikilink") *Hyrcanana
+    caspia* = *Lycaena caspius*
+  - [埃文斯灰蝶](https://zh.wikipedia.org/wiki/埃文斯灰蝶 "wikilink") *Hyrcanana
+    evansii* = 印度罕萊灰蝶
   - *Hyrcanana pamira*
-  - [灑橙灰蝶](../Page/灑橙灰蝶.md "wikilink") *Hyrcanana sartha* = *Lycaena
-    sarthus*
-  - [蘇爾坦灰蝶](../Page/蘇爾坦灰蝶.md "wikilink") *Hyrcanana sultan* = 蘇紫罕萊灰蝶
-  - [特蘭辛灰蝶](../Page/特蘭辛灰蝶.md "wikilink") *Hyrcanana transiens*
+  - [灑橙灰蝶](https://zh.wikipedia.org/wiki/灑橙灰蝶 "wikilink") *Hyrcanana
+    sartha* = *Lycaena sarthus*
+  - [蘇爾坦灰蝶](https://zh.wikipedia.org/wiki/蘇爾坦灰蝶 "wikilink") *Hyrcanana
+    sultan* = 蘇紫罕萊灰蝶
+  - [特蘭辛灰蝶](https://zh.wikipedia.org/wiki/特蘭辛灰蝶 "wikilink") *Hyrcanana
+    transiens*
 
 ## 參考文獻
 

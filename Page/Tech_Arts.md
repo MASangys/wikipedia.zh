@@ -1,5 +1,5 @@
 **Tech
-Arts**（テックアーツ）是[日本](../Page/日本.md "wikilink")[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，位在[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")，成立於1996年10月。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\][北海道色情遊戲組合](../Page/北海道色情遊戲組合.md "wikilink")（北海道えろげー組合）的加盟公司之一。\[7\]
+Arts**（テックアーツ）是[日本](../Page/日本.md "wikilink")[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，位在[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")，成立於1996年10月。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\][北海道色情遊戲組合](https://zh.wikipedia.org/wiki/北海道色情遊戲組合 "wikilink")（北海道えろげー組合）的加盟公司之一。\[7\]
 
 ## 作品列表
 
@@ -146,7 +146,8 @@ Arts**（テックアーツ）是[日本](../Page/日本.md "wikilink")[成人�
   - 2005年9月22日 炎の孕ませ転校生
   - 2006年4月21日 炎の孕ませ人生 〜あの頃に戻って孕ませナイト〜
   - 2006年11月17日 瑞本つかさ先生の【エッチ】を覚える大人の性教育レッスン！！
-  - 2007年9月21日 [炎の孕ませ同級生](../Page/炎孕同級生.md "wikilink")
+  - 2007年9月21日
+    [炎の孕ませ同級生](https://zh.wikipedia.org/wiki/炎孕同級生 "wikilink")
   - 2007年12月21日 おしえて！唯子先生 【エッチ】を覚える大人の性教育レッスン！！
   - 2008年8月29日 どっぷり中出し学園戦争
   - 2009年3月19日 もしもこんなショッピングモールがあったら！？いきます☆
@@ -193,8 +194,10 @@ Arts**（テックアーツ）是[日本](../Page/日本.md "wikilink")[成人�
 
 ### Tech Arts3D
 
-  - 2008年6月13日 [3Dカスタム少女](../Page/3D定製少女.md "wikilink")
-  - 2008年12月24日 [3Dカスタム少女XP](../Page/3D定製少女.md "wikilink")
+  - 2008年6月13日
+    [3Dカスタム少女](https://zh.wikipedia.org/wiki/3D定製少女 "wikilink")
+  - 2008年12月24日
+    [3Dカスタム少女XP](https://zh.wikipedia.org/wiki/3D定製少女 "wikilink")
   - 2009年8月11日 MADRISM
 
 ### Bullet
@@ -220,7 +223,8 @@ Arts**（テックアーツ）是[日本](../Page/日本.md "wikilink")[成人�
 
 ### PotatoSoftware / Giza10
 
-  - 2012年2月23日 [オレは少女漫画家](../Page/我是少女漫畫家.md "wikilink")
+  - 2012年2月23日
+    [オレは少女漫画家](https://zh.wikipedia.org/wiki/我是少女漫畫家 "wikilink")
   - 2012年10月5日 Project U-Ta-Hi-Me
   - 2013年3月29日 オレは少女漫画家R
 

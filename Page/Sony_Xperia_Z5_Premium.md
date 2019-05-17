@@ -1,16 +1,18 @@
 **Sony Xperia Z5 Premium**(国行名为：Xperia
 Z5尊享版，通称Z5P)，是[索尼於](../Page/索尼.md "wikilink")2015年9月2日在柏林發表的旗艦手機，也是[Xperia系列中首部Premium机型](../Page/Xperia.md "wikilink")。搭載5.5吋螢幕、[高通](../Page/高通.md "wikilink")
-[Snapdragon 810](../Page/Snapdragon.md "wikilink") MSM8994 2.0GHz +
-1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68
+[Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
+MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm
+G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68
 防水、防塵功能，配有指紋傳感器。\[1\]
 
 Xperia Z5 Premium為安卓作業系統的旗艦級高階智慧型手機。同期的主要競爭對手有[Samsung Galaxy Note
-5](../Page/Samsung_Galaxy_Note_5.md "wikilink")、[Samsung Galaxy Galaxy
-S6 edge+](../Page/Samsung_Galaxy_Galaxy_S6_edge+.md "wikilink")、[LG
-V10](../Page/LG_V10.md "wikilink")、[HTC One
+5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")、[Samsung
+Galaxy Galaxy S6
+edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Galaxy_S6_edge+ "wikilink")、[LG
+V10](https://zh.wikipedia.org/wiki/LG_V10 "wikilink")、[HTC One
 M9+](../Page/HTC_One_M9+.md "wikilink")、[Microsoft Lumia 950
-XL](../Page/Microsoft_Lumia_950_XL.md "wikilink")、[Apple iPhone 6s
-Plus](../Page/iPhone_6S.md "wikilink")。
+XL](https://zh.wikipedia.org/wiki/Microsoft_Lumia_950_XL "wikilink")、[Apple
+iPhone 6s Plus](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")。
 
 Xperia Z5 Premium亦為Sony Xperia Z系列旗艦機中最後一部手機。
 
@@ -47,12 +49,12 @@ Premium是全球首部搭载4K分辨率的智慧型手機，ppi高達806。但�
 <tbody>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="../Page/Android歷史版本.md" title="wikilink">5.1</a>（版本代號「lollipop」）</p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="https://zh.wikipedia.org/wiki/Android歷史版本" title="wikilink">5.1</a>（版本代號「lollipop」）</p></td>
 </tr>
 <tr class="even">
 <td><p>通訊協定<br />
 2G</p></td>
-<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
+<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
 </tr>
 <tr class="odd">
 <td><p>協定<br />
@@ -66,14 +68,14 @@ LTE</p></td>
 </tr>
 <tr class="odd">
 <td><p>螢幕</p></td>
-<td><p>5.5吋、3840×2160<a href="../Page/解析度.md" title="wikilink">解析度</a></p></td>
+<td><p>5.5吋、3840×2160<a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/CPU.md" title="wikilink">CPU</a></p></td>
-<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="../Page/Snapdragon.md" title="wikilink">Snapdragon</a> 810 2.0GHz八核心</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CPU" title="wikilink">CPU</a></p></td>
+<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="https://zh.wikipedia.org/wiki/Snapdragon" title="wikilink">Snapdragon</a> 810 2.0GHz八核心</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/GPU.md" title="wikilink">GPU</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPU" title="wikilink">GPU</a></p></td>
 <td><p><a href="../Page/Adreno.md" title="wikilink">Adreno</a> 430</p></td>
 </tr>
 <tr class="even">
@@ -81,7 +83,7 @@ LTE</p></td>
 <td><p>3 GB <a href="../Page/DDR4_SDRAM.md" title="wikilink">LPDDR4</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ROM.md" title="wikilink">ROM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ROM" title="wikilink">ROM</a></p></td>
 <td><p>32 GB</p></td>
 </tr>
 <tr class="even">
@@ -110,15 +112,15 @@ LTE</p></td>
 </tr>
 <tr class="even">
 <td><p>感應</p></td>
-<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="../Page/重力感應器.md" title="wikilink">重力感應器</a>、<a href="../Page/趨近感應器.md" title="wikilink">趨近感應器</a>、<a href="../Page/照度感測器.md" title="wikilink">環境光線感應器</a>、<a href="../Page/數位羅盤.md" title="wikilink">數位羅盤</a>、<a href="../Page/氣壓感測器.md" title="wikilink">氣壓感測器</a></p></td>
+<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="https://zh.wikipedia.org/wiki/重力感應器" title="wikilink">重力感應器</a>、<a href="https://zh.wikipedia.org/wiki/趨近感應器" title="wikilink">趨近感應器</a>、<a href="https://zh.wikipedia.org/wiki/照度感測器" title="wikilink">環境光線感應器</a>、<a href="https://zh.wikipedia.org/wiki/數位羅盤" title="wikilink">數位羅盤</a>、<a href="https://zh.wikipedia.org/wiki/氣壓感測器" title="wikilink">氣壓感測器</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>衛星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/GLONASS.md" title="wikilink">GLONASS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a></p></td>
 </tr>
 <tr class="even">
 <td><p>傳輸</p></td>
-<td><p><a href="../Page/microUSB.md" title="wikilink">microUSB</a> 2.0（含 <a href="../Page/MHL.md" title="wikilink">MHL</a> 輸出）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/microUSB" title="wikilink">microUSB</a> 2.0（含 <a href="https://zh.wikipedia.org/wiki/MHL" title="wikilink">MHL</a> 輸出）<br />
 <a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1<br />
 <a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
 </tr>
@@ -133,12 +135,12 @@ LTE</p></td>
 
 顏色包括：
 
-| 顏色 | 名稱                                                          | 英語     | 備註         |
-| -- | ----------------------------------------------------------- | ------ | ---------- |
-|    | [<font color="#00000">黑色</font>](../Page/黑色.md "wikilink")  | Black  |            |
-|    | [<font color=silver>鉻色</font>](../Page/鉻色.md "wikilink")    | Chrome | 是純鏡面的銀色    |
-|    | [<font color="#EAC100">金色</font>](../Page/金色.md "wikilink") | Gold   | SO-03H無此顏色 |
-|    | <font color=#FF79BC>粉紅色</font>                              | Pink   | SO-03H無此顏色 |
+| 顏色 | 名稱                                                                             | 英語     | 備註         |
+| -- | ------------------------------------------------------------------------------ | ------ | ---------- |
+|    | [<font color="#00000">黑色</font>](../Page/黑色.md "wikilink")                     | Black  |            |
+|    | [<font color=silver>鉻色</font>](https://zh.wikipedia.org/wiki/鉻色 "wikilink")    | Chrome | 是純鏡面的銀色    |
+|    | [<font color="#EAC100">金色</font>](https://zh.wikipedia.org/wiki/金色 "wikilink") | Gold   | SO-03H無此顏色 |
+|    | <font color=#FF79BC>粉紅色</font>                                                 | Pink   | SO-03H無此顏色 |
 
 ## 參考資料
 

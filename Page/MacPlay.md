@@ -1,4 +1,4 @@
-**MacPlay**，是两个美国出版商用于发布[Macintosh计算机游戏的名称](../Page/Macintosh.md "wikilink")。
+**MacPlay**，是两个美国出版商用于发布[Macintosh计算机游戏的名称](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。
 
 ## 历史
 

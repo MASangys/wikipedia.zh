@@ -1,16 +1,16 @@
 《**Apink 1ST CONCERT "PINK
-PARADISE"**》是[韓國](../Page/大韓民國.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[Apink的首次韓國暨亞洲巡回](../Page/Apink.md "wikilink")[演唱会](../Page/演唱会.md "wikilink")。\[1\]
+PARADISE"**》是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink的首次韓國暨亞洲巡回](../Page/Apink.md "wikilink")[演唱会](https://zh.wikipedia.org/wiki/演唱会 "wikilink")。\[1\]
 
 ## 概述
 
 2014年12月，Apink憑迷你5輯《[Pink
-LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節目悉數共15次音樂榜單的1位\[2\]，打榜期間共計17次1位，為答謝歌迷，決定在韓國舉辦首次單獨演唱會。12月23日，演唱會門票在及[InterPark網站開賣](../Page/InterPark.md "wikilink")，共7,200張門票於2分鐘內售罄。\[3\]
+LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節目悉數共15次音樂榜單的1位\[2\]，打榜期間共計17次1位，為答謝歌迷，決定在韓國舉辦首次單獨演唱會。12月23日，演唱會門票在及[InterPark網站開賣](https://zh.wikipedia.org/wiki/InterPark "wikilink")，共7,200張門票於2分鐘內售罄。\[3\]
 
 2015年1月30及31日，演唱會於[奧林匹克公園奧林匹克館內舉行](../Page/奧林匹克公園_\(首爾\).md "wikilink")。\[4\]其後亞洲巡演相繼展開。
 
 3月22日，演唱會新加坡站於The MAX Pavilion內舉行。\[5\]
 
-5月30日，演唱會上海站於[上海體育館內舉行](../Page/上海體育館.md "wikilink")。\[6\]
+5月30日，演唱會上海站於[上海體育館內舉行](https://zh.wikipedia.org/wiki/上海體育館 "wikilink")。\[6\]
 
 ## 演出日程
 
@@ -26,8 +26,8 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 <tbody>
 <tr class="odd">
 <td><p>2015年1月30日</p></td>
-<td><p><a href="../Page/首尔.md" title="wikilink">首尔</a></p></td>
-<td><p><a href="../Page/奥林匹克公园_(首尔).md" title="wikilink">奥林匹克公园奥林匹克馆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首尔" title="wikilink">首尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥林匹克公园_(首尔)" title="wikilink">奥林匹克公园奥林匹克馆</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -44,8 +44,8 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 </tr>
 <tr class="even">
 <td><p>2015年5月30日</p></td>
-<td><p><a href="../Page/上海.md" title="wikilink">上海</a></p></td>
-<td><p><a href="../Page/上海體育館.md" title="wikilink">上海體育館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海體育館" title="wikilink">上海體育館</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -74,7 +74,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
   - [因為從有到無](../Page/因為從有到無.md "wikilink")
     ()－孫娜恩、吳夏榮（原唱：[SISTAR19](../Page/SISTAR19.md "wikilink")）
 
-  - [Dirrty](../Page/裸_\(克莉絲汀·阿奎萊拉專輯\).md "wikilink")－金南珠（原唱：[-{zh-hans:克里斯蒂娜·阿奎莱拉;zh-hant:克莉絲汀·阿奎萊拉}-](../Page/克莉絲汀·阿奎萊拉.md "wikilink")）
+  - [Dirrty](https://zh.wikipedia.org/wiki/裸_\(克莉絲汀·阿奎萊拉專輯\) "wikilink")－金南珠（原唱：[-{zh-hans:克里斯蒂娜·阿奎莱拉;zh-hant:克莉絲汀·阿奎萊拉}-](../Page/克莉絲汀·阿奎萊拉.md "wikilink")）
 
 \- VCR \#3 -
 
@@ -86,9 +86,9 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 \- Ment -
 \- VCR \#4 -
 
-  - [Problem](../Page/我的全部_\(亞莉安娜·格蘭德專輯\).md "wikilink")－尹普美（原唱：[-{zh-hans:爱莉安娜;zh-hant:亞莉安娜}-·格蘭德](../Page/爱莉安娜·格兰德.md "wikilink")、[-{zh-hans:伊基·阿塞莉娅;zh-hant:伊姬·阿潔莉亞}-](../Page/伊基·阿塞莉娅.md "wikilink")）
+  - [Problem](https://zh.wikipedia.org/wiki/我的全部_\(亞莉安娜·格蘭德專輯\) "wikilink")－尹普美（原唱：[-{zh-hans:爱莉安娜;zh-hant:亞莉安娜}-·格蘭德](../Page/爱莉安娜·格兰德.md "wikilink")、[-{zh-hans:伊基·阿塞莉娅;zh-hant:伊姬·阿潔莉亞}-](../Page/伊基·阿塞莉娅.md "wikilink")）
 
-  - －鄭恩地（原唱：[碧昂絲·-{zh-hans:诺斯;zh-hant:諾利斯}-](../Page/碧昂絲·諾利斯.md "wikilink")）
+  - －鄭恩地（原唱：[碧昂絲·-{zh-hans:诺斯;zh-hant:諾利斯}-](https://zh.wikipedia.org/wiki/碧昂絲·諾利斯 "wikilink")）
 
 \- VCR \#5 -
 
@@ -139,7 +139,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 
 <!-- end list -->
 
-  - 票務：、[InterPark](../Page/InterPark.md "wikilink")
+  - 票務：、[InterPark](https://zh.wikipedia.org/wiki/InterPark "wikilink")
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
     Ltd.](http://www.threeanglesproduction.com)
   - 冠名贊助：Mediatech
   - 票務：[SISTIC Singapore](http://www.sistic.com.sg)
-  - 宣傳媒體：[SET ONE](../Page/ONE_TV_ASIA.md "wikilink")
+  - 宣傳媒體：[SET ONE](https://zh.wikipedia.org/wiki/ONE_TV_ASIA "wikilink")
 
 <!-- end list -->
 

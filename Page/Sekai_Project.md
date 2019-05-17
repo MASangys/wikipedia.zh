@@ -1,24 +1,24 @@
 **Sekai
-Project**是一家[美国的](../Page/美国.md "wikilink")[电子游戏发行商](../Page/电子游戏.md "wikilink")，主要将日本的[视觉小说翻译为英语并在日本外发售](../Page/视觉小说.md "wikilink")。此外，也在日本外发行原创英语视觉小说、[漫画](../Page/漫画.md "wikilink")、以及非视觉小说类的电子游戏等。
+Project**是一家[美国的](../Page/美国.md "wikilink")[电子游戏发行商](../Page/电子游戏.md "wikilink")，主要将日本的[视觉小说翻译为英语并在日本外发售](../Page/视觉小说.md "wikilink")。此外，也在日本外发行原创英语视觉小说、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、以及非视觉小说类的电子游戏等。
 
 ## 历史
 
 Sekai Project创建于2007年，当时Sekai
-Project是其中一個翻译[十八禁游戏](../Page/十八禁游戏.md "wikilink")《[School
+Project是其中一個翻译[十八禁游戏](https://zh.wikipedia.org/wiki/十八禁游戏 "wikilink")《[School
 Days](../Page/School_Days.md "wikilink")》的非官方翻译组，\[1\]之后其与发行商[JAST
-USA合作](../Page/JAST_USA.md "wikilink")，从而从民间翻译组转型为官方翻译机构。\[2\]从2014年起，Sekai
-Project开始在[Steam平台发售游戏](../Page/Steam.md "wikilink")，首作为[支仓冻砂的](../Page/支仓冻砂.md "wikilink")《[World
+USA合作](https://zh.wikipedia.org/wiki/JAST_USA "wikilink")，从而从民间翻译组转型为官方翻译机构。\[2\]从2014年起，Sekai
+Project开始在[Steam平台发售游戏](../Page/Steam.md "wikilink")，首作为[支仓冻砂的](https://zh.wikipedia.org/wiki/支仓冻砂 "wikilink")《[World
 End Economica
-episode.01](../Page/World_End_Economica.md "wikilink")》，于当年6月发行。Sekai
-Project在[公众集资平台](../Page/公众集资.md "wikilink")[Kickstarter筹集过很多作品的款项](../Page/Kickstarter.md "wikilink")。2014年11月，公司在Kickstarter上上載了视觉小说《[Clannad](../Page/Clannad.md "wikilink")》的英语版本筹资项目，并将目标定为140,000美元，而最后筹集到了逾500,000美元。\[3\]2015年7月，Sekai
-Project宣称除电子游戏外，还将发行[漫画的翻译作品](../Page/漫画.md "wikilink")，首部漫画作品为《[GATE
-奇幻自卫队](../Page/GATE_奇幻自卫队.md "wikilink")》。\[4\]
+episode.01](https://zh.wikipedia.org/wiki/World_End_Economica "wikilink")》，于当年6月发行。Sekai
+Project在[公众集资平台](https://zh.wikipedia.org/wiki/公众集资 "wikilink")[Kickstarter筹集过很多作品的款项](../Page/Kickstarter.md "wikilink")。2014年11月，公司在Kickstarter上上載了视觉小说《[Clannad](https://zh.wikipedia.org/wiki/Clannad "wikilink")》的英语版本筹资项目，并将目标定为140,000美元，而最后筹集到了逾500,000美元。\[3\]2015年7月，Sekai
+Project宣称除电子游戏外，还将发行[漫画的翻译作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")，首部漫画作品为《[GATE
+奇幻自卫队](https://zh.wikipedia.org/wiki/GATE_奇幻自卫队 "wikilink")》。\[4\]
 
 Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言。曾参与翻译許多部视觉小说的德国翻译家馬塞爾·韋耶斯（Marcel
 Weyers）称对翻译Sekai Project的作品有兴趣，据称双方正对此进行协商。\[5\]
 
-由于[Steam一般不允许](../Page/Steam.md "wikilink")[十八禁游戏在平台发售](../Page/十八禁游戏.md "wikilink")，\[6\]因此Sekai
-Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的果实](../Page/灰色的果实.md "wikilink")》为例，其全年龄版本在Steam上出售，而成人版本在Denpasoft上出售。\[7\]
+由于[Steam一般不允许](../Page/Steam.md "wikilink")[十八禁游戏在平台发售](https://zh.wikipedia.org/wiki/十八禁游戏 "wikilink")，\[6\]因此Sekai
+Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的果实](https://zh.wikipedia.org/wiki/灰色的果实 "wikilink")》为例，其全年龄版本在Steam上出售，而成人版本在Denpasoft上出售。\[7\]
 
 ## 作品
 
@@ -35,7 +35,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/World_End_Economica.md" title="wikilink">World End Economica episode.01</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/World_End_Economica" title="wikilink">World End Economica episode.01</a></p></td>
 <td><p>Spicy Tails</p></td>
 <td></td>
 <td><p>[8]</p></td>
@@ -47,14 +47,14 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[9]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Sakura_Spirit.md" title="wikilink">Sakura Spirit</a></p></td>
-<td><p><a href="../Page/Winged_Cloud.md" title="wikilink">Winged Cloud</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sakura_Spirit" title="wikilink">Sakura Spirit</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Winged_Cloud" title="wikilink">Winged Cloud</a></p></td>
 <td></td>
 <td><p>[10]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/星之梦.md" title="wikilink">星之梦</a></p></td>
-<td><p><a href="../Page/Key_(游戏品牌).md" title="wikilink">Key</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星之梦" title="wikilink">星之梦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(游戏品牌)" title="wikilink">Key</a></p></td>
 <td></td>
 <td><p>[11]</p></td>
 </tr>
@@ -71,19 +71,19 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[13]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Fault_Milestone_One.md" title="wikilink">Fault Milestone One</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fault_Milestone_One" title="wikilink">Fault Milestone One</a></p></td>
 <td><p>Alice in Dissonance</p></td>
 <td></td>
 <td><p>[14]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NEKOPARA.md" title="wikilink">NEKOPARA Vol. 1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEKOPARA" title="wikilink">NEKOPARA Vol. 1</a></p></td>
 <td><p>Neko Works</p></td>
 <td></td>
 <td><p>[15]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Sakura_Angels.md" title="wikilink">Sakura Angels</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sakura_Angels" title="wikilink">Sakura Angels</a></p></td>
 <td><p>Winged Cloud</p></td>
 <td></td>
 <td><p>[16]</p></td>
@@ -125,13 +125,13 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[22]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Sakura_Fantasy.md" title="wikilink">Sakura Fantasy Chapter 1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sakura_Fantasy" title="wikilink">Sakura Fantasy Chapter 1</a></p></td>
 <td><p>Winged Cloud</p></td>
 <td></td>
 <td><p>[23]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/灰色的果实.md" title="wikilink">灰色的果实</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灰色的果实" title="wikilink">灰色的果实</a></p></td>
 <td><p><a href="../Page/FrontWing.md" title="wikilink">FrontWing</a></p></td>
 <td></td>
 <td><p>[24]</p></td>
@@ -149,7 +149,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[26]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/World_End_Economica.md" title="wikilink">World End Economica episode.02</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/World_End_Economica" title="wikilink">World End Economica episode.02</a></p></td>
 <td><p>Spicy Tails</p></td>
 <td></td>
 <td><p>[27]</p></td>
@@ -161,13 +161,13 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[28]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/灰色的果实.md" title="wikilink">Idol Magical Girl Chiru Chiru Michiru Part 1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灰色的果实" title="wikilink">Idol Magical Girl Chiru Chiru Michiru Part 1</a></p></td>
 <td><p>FrontWing</p></td>
 <td></td>
 <td><p>[29]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/灰色的果实.md" title="wikilink">Idol Magical Girl Chiru Chiru Michiru Part 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灰色的果实" title="wikilink">Idol Magical Girl Chiru Chiru Michiru Part 2</a></p></td>
 <td><p>FrontWing</p></td>
 <td></td>
 <td><p>[30]</p></td>
@@ -191,7 +191,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[33]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NEKOPARA.md" title="wikilink">NEKOPARA Vol. 0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEKOPARA" title="wikilink">NEKOPARA Vol. 0</a></p></td>
 <td><p>Neko Works</p></td>
 <td></td>
 <td><p>[34]</p></td>
@@ -216,7 +216,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/G弦上的魔王.md" title="wikilink">G弦上的魔王</a></p></td>
-<td><p><a href="../Page/Akabeisoft2.md" title="wikilink">Akabeisoft2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Akabeisoft2" title="wikilink">Akabeisoft2</a></p></td>
 <td></td>
 <td><p>[38]</p></td>
 </tr>
@@ -240,7 +240,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/CLANNAD.md" title="wikilink">CLANNAD</a></p></td>
-<td><p><a href="../Page/Key_(游戏品牌).md" title="wikilink">Key</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(游戏品牌)" title="wikilink">Key</a></p></td>
 <td></td>
 <td><p>[42]</p></td>
 </tr>
@@ -287,13 +287,13 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[50]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Rabi-Ribi.md" title="wikilink">Rabi-Ribi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rabi-Ribi" title="wikilink">Rabi-Ribi</a></p></td>
 <td><p>CreSpirit</p></td>
 <td></td>
 <td><p>[51]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NEKOPARA.md" title="wikilink">NEKOPARA Vol. 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEKOPARA" title="wikilink">NEKOPARA Vol. 2</a></p></td>
 <td><p>Neko Works</p></td>
 <td></td>
 <td><p>[52]</p></td>
@@ -329,8 +329,8 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[56]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Root_Double:_Before_Crime_*_After_Days.md" title="wikilink">Root Double: Before Crime * After Days</a></p></td>
-<td><p><a href="../Page/Regista.md" title="wikilink">Regista</a>, <a href="../Page/Yeti_(company).md" title="wikilink">Yeti</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Root_Double:_Before_Crime_*_After_Days" title="wikilink">Root Double: Before Crime * After Days</a></p></td>
+<td><p><a href="../Page/Regista.md" title="wikilink">Regista</a>, <a href="https://zh.wikipedia.org/wiki/Yeti_(company)" title="wikilink">Yeti</a></p></td>
 <td></td>
 <td><p>[57]</p></td>
 </tr>
@@ -347,13 +347,13 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[59]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NEKOPARA.md" title="wikilink">NEKOPALIVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEKOPARA" title="wikilink">NEKOPALIVE</a></p></td>
 <td><p>NEKO WORKs</p></td>
 <td></td>
 <td><p>[60]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/CLANNAD#在被光守护的坡道上.md" title="wikilink">CLANNAD 外传</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CLANNAD#在被光守护的坡道上" title="wikilink">CLANNAD 外传</a></p></td>
 <td><p>Key</p></td>
 <td></td>
 <td><p>[61]</p></td>
@@ -365,7 +365,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[62]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Cherry_Tree_High_Comedy_Club.md" title="wikilink">Cherry Tree High Girls' Fight</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cherry_Tree_High_Comedy_Club" title="wikilink">Cherry Tree High Girls' Fight</a></p></td>
 <td><p>773</p></td>
 <td></td>
 <td><p>[63]</p></td>
@@ -389,13 +389,13 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[66]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/灰色的迷宫.md" title="wikilink">灰色的迷宫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灰色的迷宫" title="wikilink">灰色的迷宫</a></p></td>
 <td><p>Front Wing</p></td>
 <td></td>
 <td><p>[67]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KARAKARA.md" title="wikilink">KARAKARA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARAKARA" title="wikilink">KARAKARA</a></p></td>
 <td><p>calme</p></td>
 <td></td>
 <td><p>[68]</p></td>
@@ -479,13 +479,13 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[81]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/World_End_Economica.md" title="wikilink">World End Economica episode.03</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/World_End_Economica" title="wikilink">World End Economica episode.03</a></p></td>
 <td><p>Spicy Tails</p></td>
 <td></td>
 <td><p>[82]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Chrono_Clock.md" title="wikilink">Chrono Clock</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Chrono_Clock" title="wikilink">Chrono Clock</a></p></td>
 <td><p><a href="../Page/Purple_software.md" title="wikilink">Purple software</a></p></td>
 <td><p>2017年2月28日</p></td>
 <td><p>[83]</p></td>
@@ -503,7 +503,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心</a></p></td>
 <td><p><a href="../Page/Whirlpool.md" title="wikilink">Whirlpool</a></p></td>
 <td><p>2017年4月21日</p></td>
 <td></td>
@@ -515,7 +515,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NEKOPARA.md" title="wikilink">NEKOPARA Vol. 3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEKOPARA" title="wikilink">NEKOPARA Vol. 3</a></p></td>
 <td><p>Neko Works</p></td>
 <td><p>2017年5月26日</p></td>
 <td><p>[85]</p></td>
@@ -539,19 +539,19 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心+PLUS 奈知篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心+PLUS 奈知篇</a></p></td>
 <td><p><a href="../Page/Whirlpool.md" title="wikilink">Whirlpool</a></p></td>
 <td><p>2017年11月2日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/KARAKARA.md" title="wikilink">KARAKARA2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARAKARA" title="wikilink">KARAKARA2</a></p></td>
 <td><p>calme</p></td>
 <td><p>2017年11月10日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心+PLUS 彩羽篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心+PLUS 彩羽篇</a></p></td>
 <td><p>Whirlpool</p></td>
 <td><p>2017年11月17日</p></td>
 <td></td>
@@ -563,19 +563,19 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心2</a></p></td>
 <td><p>Whirlpool</p></td>
 <td><p>2018年4月27日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/夜光_(遊戲).md" title="wikilink">夜光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夜光_(遊戲)" title="wikilink">夜光</a></p></td>
 <td><p>Narrator,Storia,Crespirit</p></td>
 <td><p>2018年6月15日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/愛上火車.md" title="wikilink">愛上火車</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛上火車" title="wikilink">愛上火車</a></p></td>
 <td><p>Lose</p></td>
 <td><p>2018年6月29日</p></td>
 <td></td>
@@ -603,32 +603,32 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 
 ### 未发售游戏
 
-| 名称                                                                            | 出版商                                        | 状态  | 注释      |
-| ----------------------------------------------------------------------------- | ------------------------------------------ | --- | ------- |
-| Dizzy Hearts                                                                  | Lupiesoft                                  | TBA | \[86\]  |
-| Fault Milestone Two Side:Below                                                | Alice in Dissonance                        | TBA | \[87\]  |
-| Fault - Silence the Pedant                                                    | Alice in Dissonance                        | TBA | \[88\]  |
-| Highway Blossoms                                                              | Alienworks                                 | TBA |         |
-| Koenchu\! The Tale of the Voice Actress                                       | Zero Zigen                                 | TBA | \[89\]  |
-| Kokonoe Kokoro                                                                | Nostalgia                                  | TBA | \[90\]  |
-| Memory's Dogma                                                                | LizArts                                    | TBA | \[91\]  |
-| Moonshot                                                                      | Fastermind Games                           | TBA | \[92\]  |
-| Ne No Kami: The Two Princess Knights of Kyoto                                 | Kuro Irodoru Yomiji                        | TBA | \[93\]  |
-| November Boy                                                                  | Team ANAGO                                 | TBA | \[94\]  |
-| PacaPlus                                                                      | PacoProject                                | TBA | \[95\]  |
-| Rising Angels: Fates                                                          | IDHAS Studios                              | TBA | \[96\]  |
-| Sacrament Sheep                                                               | Fenrirvier                                 | TBA | \[97\]  |
-| Shizuku no Oto                                                                | aiueoKompany                               | TBA | \[98\]  |
-| Sierra Ops                                                                    | InnoMen Productions                        | TBA | \[99\]  |
-| [天神乱漫 -LUCKY or UNLUCKY\!?-](../Page/天神乱漫_-LUCKY_or_UNLUCKY!?-.md "wikilink") | [YUZUSOFT](../Page/YUZUSOFT.md "wikilink") | TBA | \[100\] |
-| [The Eden of Grisaia](../Page/灰色的果实.md "wikilink")                            | FrontWing                                  | TBA | \[101\] |
-| The Human Reignition Project                                                  | Alienworks                                 | TBA | \[102\] |
-| [The Labyrinth of Grisaia](../Page/灰色的果实.md "wikilink")                       | FrontWing                                  | TBA | \[103\] |
-| The Reject Demon: Toko Chapter 1                                              | Lupiesoft                                  | TBA | \[104\] |
-| Witch Boy Magical Piece                                                       | Rosemary House                             | TBA | \[105\] |
-| [BALDR SKY](../Page/BALDR_SKY.md "wikilink")                                  | [戲畫](../Page/戲畫_\(遊戲品牌\).md "wikilink")    | TBA |         |
-| 魔女こいにっき                                                                       | Qoobrand                                   | TBA |         |
-| はるまで、くるる。                                                                     | すみっこソフト                                    | TBA |         |
+| 名称                                                                                               | 出版商                                        | 状态  | 注释      |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------ | --- | ------- |
+| Dizzy Hearts                                                                                     | Lupiesoft                                  | TBA | \[86\]  |
+| Fault Milestone Two Side:Below                                                                   | Alice in Dissonance                        | TBA | \[87\]  |
+| Fault - Silence the Pedant                                                                       | Alice in Dissonance                        | TBA | \[88\]  |
+| Highway Blossoms                                                                                 | Alienworks                                 | TBA |         |
+| Koenchu\! The Tale of the Voice Actress                                                          | Zero Zigen                                 | TBA | \[89\]  |
+| Kokonoe Kokoro                                                                                   | Nostalgia                                  | TBA | \[90\]  |
+| Memory's Dogma                                                                                   | LizArts                                    | TBA | \[91\]  |
+| Moonshot                                                                                         | Fastermind Games                           | TBA | \[92\]  |
+| Ne No Kami: The Two Princess Knights of Kyoto                                                    | Kuro Irodoru Yomiji                        | TBA | \[93\]  |
+| November Boy                                                                                     | Team ANAGO                                 | TBA | \[94\]  |
+| PacaPlus                                                                                         | PacoProject                                | TBA | \[95\]  |
+| Rising Angels: Fates                                                                             | IDHAS Studios                              | TBA | \[96\]  |
+| Sacrament Sheep                                                                                  | Fenrirvier                                 | TBA | \[97\]  |
+| Shizuku no Oto                                                                                   | aiueoKompany                               | TBA | \[98\]  |
+| Sierra Ops                                                                                       | InnoMen Productions                        | TBA | \[99\]  |
+| [天神乱漫 -LUCKY or UNLUCKY\!?-](https://zh.wikipedia.org/wiki/天神乱漫_-LUCKY_or_UNLUCKY!?- "wikilink") | [YUZUSOFT](../Page/YUZUSOFT.md "wikilink") | TBA | \[100\] |
+| [The Eden of Grisaia](https://zh.wikipedia.org/wiki/灰色的果实 "wikilink")                            | FrontWing                                  | TBA | \[101\] |
+| The Human Reignition Project                                                                     | Alienworks                                 | TBA | \[102\] |
+| [The Labyrinth of Grisaia](https://zh.wikipedia.org/wiki/灰色的果实 "wikilink")                       | FrontWing                                  | TBA | \[103\] |
+| The Reject Demon: Toko Chapter 1                                                                 | Lupiesoft                                  | TBA | \[104\] |
+| Witch Boy Magical Piece                                                                          | Rosemary House                             | TBA | \[105\] |
+| [BALDR SKY](../Page/BALDR_SKY.md "wikilink")                                                     | [戲畫](../Page/戲畫_\(遊戲品牌\).md "wikilink")    | TBA |         |
+| 魔女こいにっき                                                                                          | Qoobrand                                   | TBA |         |
+| はるまで、くるる。                                                                                        | すみっこソフト                                    | TBA |         |
 
 ### 其他作品
 
@@ -652,13 +652,13 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 </tr>
 <tr class="even">
 <td><p>Clannad Anthology</p></td>
-<td><p><a href="../Page/漫画.md" title="wikilink">漫画</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/漫画" title="wikilink">漫画</a></p></td>
 <td></td>
 <td><p>TBA</p></td>
 <td><p>[107]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/GATE_奇幻自卫队.md" title="wikilink">GATE 奇幻自卫队</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GATE_奇幻自卫队" title="wikilink">GATE 奇幻自卫队</a></p></td>
 <td><p>漫画</p></td>
 <td><p>Takumi Yanai</p></td>
 <td><p>TBA</p></td>
@@ -666,7 +666,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MikuMikuDance.md" title="wikilink">MikuMikuDance</a></p></td>
-<td><p><a href="../Page/免费软件.md" title="wikilink">免费软件</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/免费软件" title="wikilink">免费软件</a></p></td>
 <td><p>Yu Higuchi</p></td>
 <td><p>TBA</p></td>
 <td><p>[109]</p></td>

@@ -1,4 +1,4 @@
-**有島Moyu**\[1\]（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")。出身於[福島縣](../Page/福島縣.md "wikilink")[白河市](../Page/白河市.md "wikilink")\[2\]\[3\]。[身高](../Page/身高.md "wikilink")152cm\[4\]。B型[血](../Page/血型.md "wikilink")\[5\]\[6\]。
+**有島Moyu**\[1\]（，），[日本女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")。出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[白河市](../Page/白河市.md "wikilink")\[2\]\[3\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")152cm\[4\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[5\]\[6\]。
 
 ## 人物簡介
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
   - [麵包超人](../Page/麵包超人.md "wikilink")（小孩、、）
-  - [櫻桃小丸子 (第2期)](../Page/櫻桃小丸子.md "wikilink") （）
+  - [櫻桃小丸子 (第2期)](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink") （）
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [沉默的未知](../Page/沉默的未知.md "wikilink")（愛、機組人員）
+  - [沉默的未知](https://zh.wikipedia.org/wiki/沉默的未知 "wikilink")（愛、機組人員）
 
   - [銀河冒險戰記](../Page/銀河冒險戰記.md "wikilink")（D）
 
@@ -129,7 +129,8 @@
 
 <!-- end list -->
 
-  - [劇場版 CLANNAD](../Page/CLANNAD_\(遊戲\).md "wikilink")（場内播報員）
+  - [劇場版
+    CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD_\(遊戲\) "wikilink")（場内播報員）
 
 ### 網路動畫
 
@@ -159,7 +160,7 @@
 
 <!-- end list -->
 
-  - [青澀之戀2](../Page/青澀之戀.md "wikilink")（安達妙子\[15\]）
+  - [青澀之戀2](https://zh.wikipedia.org/wiki/青澀之戀 "wikilink")（安達妙子\[15\]）
 
 <!-- end list -->
 
@@ -221,7 +222,8 @@
 
   - （三郎太）
 
-  - [Simple角色2000系列](../Page/Simple系列.md "wikilink") Vol.92 （佐緒里的同僚）
+  - [Simple角色2000系列](https://zh.wikipedia.org/wiki/Simple系列 "wikilink")
+    Vol.92 （佐緒里的同僚）
 
   - （凱洛）
 
@@ -313,13 +315,13 @@
 
 ### 廣播節目
 
-  - [太紀與Moyu的這裡是大江戶神樂](../Page/松野太紀.md "wikilink")-{坂}-（1999年－2000年，[關西電台](../Page/關西電台.md "wikilink")）
+  - [太紀與Moyu的這裡是大江戶神樂](../Page/松野太紀.md "wikilink")-{坂}-（1999年－2000年，[關西電台](https://zh.wikipedia.org/wiki/關西電台 "wikilink")）
 
   - （2000年－2003年，）
 
   - （2003年－2004年，[文化放送](../Page/文化放送_\(日本\).md "wikilink")→）
 
-  - 信紙與郵件／Mail（[JFN](../Page/JFN.md "wikilink")）
+  - 信紙與郵件／Mail（[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")）
 
 ### 舞台
 
@@ -339,7 +341,7 @@
 
   - （海外人士的日語配音）
 
-  - [NGT48的新潟朋友！](../Page/NGT48的新潟朋友！.md "wikilink")（2017年1月17日－，[新潟電視台](../Page/新潟電視台.md "wikilink")，旁白）
+  - [NGT48的新潟朋友！](../Page/NGT48的新潟朋友！.md "wikilink")（2017年1月17日－，[新潟電視台](https://zh.wikipedia.org/wiki/新潟電視台 "wikilink")，旁白）
 
 ## 音樂作品
 
@@ -466,6 +468,6 @@
 
 18.
 
-19. [金月真美](../Page/金月真美.md "wikilink")、[豐嶋真千子](../Page/豐嶋真千子.md "wikilink")、[野田順子](../Page/野田順子.md "wikilink")、**有島**、[牧島有希](../Page/牧島有希.md "wikilink")、[水樹奈奈](../Page/水樹奈奈.md "wikilink")、
+19. [金月真美](../Page/金月真美.md "wikilink")、[豐嶋真千子](../Page/豐嶋真千子.md "wikilink")、[野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink")、**有島**、[牧島有希](../Page/牧島有希.md "wikilink")、[水樹奈奈](../Page/水樹奈奈.md "wikilink")、
 
 20. **有島**、[佐藤朱](../Page/佐藤朱.md "wikilink")、、[池邊久美子](../Page/池邊久美子.md "wikilink")、藤澤泰葉

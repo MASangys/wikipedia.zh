@@ -1,15 +1,19 @@
-***Yramea***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[釉蛺蝶亞科](../Page/釉蛺蝶亞科.md "wikilink")[彩蛺蝶族裡的一個](../Page/彩蛺蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。只分佈於[安第斯山脈高海拔地區及南美洲南部的溫帶區](../Page/安第斯山脈.md "wikilink")\[1\]。Simonsen
+***Yramea***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[釉蛺蝶亞科](../Page/釉蛺蝶亞科.md "wikilink")[彩蛺蝶族裡的一個](../Page/彩蛺蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。只分佈於[安第斯山脈高海拔地區及南美洲南部的溫帶區](https://zh.wikipedia.org/wiki/安第斯山脈 "wikilink")\[1\]。Simonsen
 et al.
 (2006)指出此屬為[豹蛺蝶族中各屬的](../Page/豹蛺蝶族.md "wikilink")[旁系群](../Page/旁系群.md "wikilink")（除了[翮蛺蝶屬](../Page/翮蛺蝶屬.md "wikilink")），因此從[珠蛺蝶屬分裂出](../Page/珠蛺蝶屬.md "wikilink")。
 
 ## 物種
 
-  - [褐珠蛺蝶](../Page/褐珠蛺蝶.md "wikilink") *Yramea cytheris*
-  - [雲珠蛺蝶](../Page/雲珠蛺蝶.md "wikilink") *Yramea inca*
-  - *[Yramea lathonioides](../Page/Yramea_lathonioides.md "wikilink")*
-  - [豹珠蛺蝶](../Page/豹珠蛺蝶.md "wikilink") *Yramea modesta*
-  - *[Yramea sobrina](../Page/Yramea_sobrina.md "wikilink")*
-  - [黃翮蛺蝶](../Page/黃翮蛺蝶.md "wikilink") *Yramea lynx*
+  - [褐珠蛺蝶](https://zh.wikipedia.org/wiki/褐珠蛺蝶 "wikilink") *Yramea
+    cytheris*
+  - [雲珠蛺蝶](https://zh.wikipedia.org/wiki/雲珠蛺蝶 "wikilink") *Yramea inca*
+  - *[Yramea
+    lathonioides](https://zh.wikipedia.org/wiki/Yramea_lathonioides "wikilink")*
+  - [豹珠蛺蝶](https://zh.wikipedia.org/wiki/豹珠蛺蝶 "wikilink") *Yramea
+    modesta*
+  - *[Yramea
+    sobrina](https://zh.wikipedia.org/wiki/Yramea_sobrina "wikilink")*
+  - [黃翮蛺蝶](https://zh.wikipedia.org/wiki/黃翮蛺蝶 "wikilink") *Yramea lynx*
 
 ## 參考文獻
 

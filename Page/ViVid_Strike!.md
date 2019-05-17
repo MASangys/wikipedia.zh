@@ -1,11 +1,11 @@
 《**ViVid
 Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink")[魔法少女奈葉系列完全原创作品](../Page/魔法少女奈葉系列.md "wikilink")，沿用[魔法少女奈葉ViVid的部分角色与制作班底](../Page/魔法少女奈葉ViVid.md "wikilink")，故事时间设定在ViVid时间线一年后。
 
-[电视动画於](../Page/电视动画.md "wikilink")2016年10月開始播出\[1\]。
+[电视动画於](https://zh.wikipedia.org/wiki/电视动画 "wikilink")2016年10月開始播出\[1\]。
 
 ## 故事
 
-風香與凜音從小在[孤兒院一起長大](../Page/孤兒院.md "wikilink")，既是[青梅竹馬又有著如同姐妹般的關係](../Page/青梅竹馬.md "wikilink")，即使生活貧困依然嚮往著光明的未來。長大後，風香先離開孤兒院，一個人租屋、努力打工過生活──這是她們的第一次離別。
+風香與凜音從小在[孤兒院一起長大](https://zh.wikipedia.org/wiki/孤兒院 "wikilink")，既是[青梅竹馬又有著如同姐妹般的關係](../Page/青梅竹馬.md "wikilink")，即使生活貧困依然嚮往著光明的未來。長大後，風香先離開孤兒院，一個人租屋、努力打工過生活──這是她們的第一次離別。
 
 風香在外謀生，性格變得比較陽剛，但她的心中仍然惦記著嬌小的凜音，並希望未來有一天能夠重逢。可惜事與願違，造訪了風香與凜音的「二次離別」，改變了兩人的命運。
 
@@ -118,7 +118,7 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
   - 音響製作：Glovision Inc.
   - 音樂：吉川洋一郎
   - 動畫製作：[Seven Arcs
-    Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
+    Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")
   - 製作：ViVid Strike PROJECT（[King
     Records](../Page/國王唱片.md "wikilink")、[Seven
     Arcs](../Page/Seven_Arcs.md "wikilink")、、）
@@ -127,12 +127,13 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
 
   - 片頭曲 「Future Strike」
     作詞：服部祐希 / 作曲：[俊龍](../Page/俊龍.md "wikilink") /
-    编曲：[小高光太郎](../Page/小高光太郎.md "wikilink") /
-    主唱：[小倉唯](../Page/小倉唯.md "wikilink")
+    编曲：[小高光太郎](https://zh.wikipedia.org/wiki/小高光太郎 "wikilink")
+    / 主唱：[小倉唯](../Page/小倉唯.md "wikilink")
 
 <!-- end list -->
 
-  - 片尾曲 「[Starry Wish](../Page/Starry_Wish.md "wikilink")」
+  - 片尾曲 「[Starry
+    Wish](https://zh.wikipedia.org/wiki/Starry_Wish "wikilink")」
     作詞：nozomi / 作曲：KOUGA、nozomi / 编曲：KOUGA /
     主唱：[水瀨祈](../Page/水瀨祈.md "wikilink")
 
@@ -164,7 +165,7 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
 <td><p>#02</p></td>
 <td></td>
 <td><p>中島隊</p></td>
-<td><p><a href="../Page/飯野誠.md" title="wikilink">飯野誠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飯野誠" title="wikilink">飯野誠</a></p></td>
 <td><p>皆春羊二</p></td>
 <td><p>宮地聰子、岡田豐廣<br />
 金子俊太朗</p></td>
@@ -193,7 +194,7 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
 <td><p>#05</p></td>
 <td></td>
 <td><p>颶風</p></td>
-<td><p><a href="../Page/松井仁之.md" title="wikilink">松井仁之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松井仁之" title="wikilink">松井仁之</a></p></td>
 <td><p>淺見松雄</p></td>
 <td><p>輿石明、佐野陽子<br />
 福島豐明</p></td>
@@ -345,14 +346,14 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
 
 [獨立UHF局](../Page/全國獨立放送協議會.md "wikilink")／其他電視台的播放時間：\[9\]
 
-| 播放地區                                 | 播放電視台                                     | 播放日期              | 播放時間                                       | 所屬聯播網                                     | 備註  |
-| ------------------------------------ | ----------------------------------------- | ----------------- | ------------------------------------------ | ----------------------------------------- | --- |
-| [東京都](../Page/東京都.md "wikilink")     | [TOKYO MX](../Page/東京都會電視台.md "wikilink") | 2016年10月1日－12月16日 | 星期六 12時30分－01時00分                          | [獨立UHF局](../Page/全國獨立放送協議會.md "wikilink") | －   |
-| [栃木縣](../Page/栃木縣.md "wikilink")     | [栃木電視台](../Page/栃木電視台.md "wikilink")      |                   |                                            |                                           |     |
-| [群馬電視台](../Page/群馬電視台.md "wikilink") | [群馬縣](../Page/群馬縣.md "wikilink")          |                   |                                            |                                           |     |
-| [BS11](../Page/日本BS放送.md "wikilink") | 日本全國                                      | 衛星電視              | 『[ANIME+](../Page/ANIME+.md "wikilink")』時段 |                                           |     |
-| [MBS](../Page/毎日放送.md "wikilink")    | [近畿廣域圈](../Page/近畿廣域圈.md "wikilink")      | 星期六 02時28分－02時58分 | [TBS電視網](../Page/TBS電視網.md "wikilink")     | 『Anime Shower』第2部                         |     |
-| [AT-X](../Page/AT-X.md "wikilink")   | 日本全國                                      | 2016年10月5日－12月20日 | 星期三 12時30分－01時00分                          | 衛星電視                                      | 有重播 |
+| 播放地區                                                    | 播放電視台                                                   | 播放日期              | 播放時間                                                      | 所屬聯播網                                     | 備註  |
+| ------------------------------------------------------- | ------------------------------------------------------- | ----------------- | --------------------------------------------------------- | ----------------------------------------- | --- |
+| [東京都](../Page/東京都.md "wikilink")                        | [TOKYO MX](../Page/東京都會電視台.md "wikilink")               | 2016年10月1日－12月16日 | 星期六 12時30分－01時00分                                         | [獨立UHF局](../Page/全國獨立放送協議會.md "wikilink") | －   |
+| [栃木縣](../Page/栃木縣.md "wikilink")                        | [栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink") |                   |                                                           |                                           |     |
+| [群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink") | [群馬縣](../Page/群馬縣.md "wikilink")                        |                   |                                                           |                                           |     |
+| [BS11](../Page/日本BS放送.md "wikilink")                    | 日本全國                                                    | 衛星電視              | 『[ANIME+](../Page/ANIME+.md "wikilink")』時段                |                                           |     |
+| [MBS](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")    | [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink") | 星期六 02時28分－02時58分 | [TBS電視網](https://zh.wikipedia.org/wiki/TBS電視網 "wikilink") | 『Anime Shower』第2部                         |     |
+| [AT-X](../Page/AT-X.md "wikilink")                      | 日本全國                                                    | 2016年10月5日－12月20日 | 星期三 12時30分－01時00分                                         | 衛星電視                                      | 有重播 |
 
 ## BD／DVD
 

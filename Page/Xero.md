@@ -1,16 +1,16 @@
-**Xero**是一所主要研发[云计算](../Page/雲端運算.md "wikilink")[會計系統的软件公司](../Page/會計系統.md "wikilink")，主要服务对象是中小型企业。Xero的总部位于新西兰[惠灵顿](../Page/惠灵顿.md "wikilink")，并在澳大利亚、英国\[1\]和美国设有分公司。\[2\]Xero同时在新西兰交易所\[3\]和澳大利亚证券交易所上市。\[4\]
+**Xero**是一所主要研发[云计算](../Page/雲端運算.md "wikilink")[會計系統的软件公司](https://zh.wikipedia.org/wiki/會計系統 "wikilink")，主要服务对象是中小型企业。Xero的总部位于新西兰[惠灵顿](../Page/惠灵顿.md "wikilink")，并在澳大利亚、英国\[1\]和美国设有分公司。\[2\]Xero同时在新西兰交易所\[3\]和澳大利亚证券交易所上市。\[4\]
 
 Xero的产品以[软件即服务](../Page/软件即服务.md "wikilink")（SaaS）为基础框架。\[5\]
 
 ## 发展历史
 
 Xero是由Rod
-Drury和一部分会计师创立的，Xero认为传统的[应用软件已经过时并决定建立一个现代化的云计算产品](../Page/应用软件.md "wikilink")。\[6\]2006年，Xero
+Drury和一部分会计师创立的，Xero认为传统的[应用软件已经过时并决定建立一个现代化的云计算产品](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。\[6\]2006年，Xero
 在新西兰[惠灵顿正式成立](../Page/惠灵顿.md "wikilink")。\[7\]2011年，Xero进军[澳大利亚市场](../Page/澳大利亚.md "wikilink")，\[8\]2012年，Xero进军英国市场\[9\]和美国市场。\[10\]
 
 ### 资金状况
 
-2007年6月5日，Xero在[新西兰证券交易所](../Page/新西兰证券交易所.md "wikilink")1500万美元（[NZD](../Page/紐西蘭元.md "wikilink")）[首次公开募股并在其首个交易日获得](../Page/首次公开募股.md "wikilink")15％的股份。\[11\]为了防止上市后Xero会迫于压力被出售给竞争对手，Xero不在美国[硅谷上市](../Page/硅谷.md "wikilink")。\[12\]2012年11月8日，Xero在[澳洲證券交易所上市](../Page/澳洲證券交易所.md "wikilink")。\[13\]
+2007年6月5日，Xero在[新西兰证券交易所](../Page/新西兰证券交易所.md "wikilink")1500万美元（[NZD](../Page/紐西蘭元.md "wikilink")）[首次公开募股并在其首个交易日获得](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")15％的股份。\[11\]为了防止上市后Xero会迫于压力被出售给竞争对手，Xero不在美国[硅谷上市](../Page/硅谷.md "wikilink")。\[12\]2012年11月8日，Xero在[澳洲證券交易所上市](../Page/澳洲證券交易所.md "wikilink")。\[13\]
 
 ### 收购记录
 
@@ -34,7 +34,7 @@ Liddell成为了董事会的新任主席。\[21\]
 Karpas便被迫离职。\[23\]
 
 2015年2月24日，[Adobe
-Systems和](../Page/Adobe_Systems.md "wikilink")[Dell前任营销主管Russell](../Page/戴爾.md "wikilink")
+Systems和](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[Dell前任营销主管Russell](../Page/戴爾.md "wikilink")
 Fujiokawas成为Xero北美部的总裁.\[24\]
 
 ## 主要竞争对手

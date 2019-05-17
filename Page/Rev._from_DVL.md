@@ -1,7 +1,7 @@
 **Rev. from
-DVL**，有時會簡稱為**Rev.**，是一個以[日本](../Page/日本.md "wikilink")[福岡地區為主要活動據點的](../Page/福岡市.md "wikilink")[在地](../Page/在地偶像.md "wikilink")[偶像團體](../Page/日本偶像.md "wikilink")，是福岡當地的藝能製作與經紀公司（，ActiveHakata）旗下的藝人與團體之一。成立於2011年的Rev.
+DVL**，有時會簡稱為**Rev.**，是一個以[日本](../Page/日本.md "wikilink")[福岡地區為主要活動據點的](../Page/福岡市.md "wikilink")[在地](../Page/在地偶像.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，是福岡當地的藝能製作與經紀公司（，ActiveHakata）旗下的藝人與團體之一。成立於2011年的Rev.
 from
-DVL，在2013年底時因核心成員[橋本環奈一張活動現場照在](../Page/橋本環奈.md "wikilink")[社群媒體上的廣泛傳閱而知名度大開](../Page/社群媒體.md "wikilink")，並在隔年4月16日在[吉本興業旗下的](../Page/吉本興業.md "wikilink")[吉本R\&C支持下推出第一張單曲唱片](../Page/吉本R&C.md "wikilink")《》，且順利進入[Oricon單曲榜內](../Page/Oricon.md "wikilink")。
+DVL，在2013年底時因核心成員[橋本環奈一張活動現場照在](../Page/橋本環奈.md "wikilink")[社群媒體上的廣泛傳閱而知名度大開](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")，並在隔年4月16日在[吉本興業旗下的](../Page/吉本興業.md "wikilink")[吉本R\&C支持下推出第一張單曲唱片](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")《》，且順利進入[Oricon單曲榜內](../Page/Oricon.md "wikilink")。
 
 ## 歷史
 
@@ -60,15 +60,15 @@ Rev. from DVL共有9名現役成員，其中有部分成員是在DVL時代就已
 <!-- end list -->
 
   - 《[Kawaiian
-    Clubee\!](../Page/Kawaiian_Clubee!.md "wikilink")》（，，2014年12月4日開播）：《Kawaiian
-    Clubee\!》是日本偶像節目專業[衛星電視台Kawaiian](../Page/衛星電視.md "wikilink")
-    TV的主要綜藝節目之一，由（）、[NMB48](../Page/NMB48.md "wikilink")、、Rev.
-    from DVL與五個女性偶像團體輪流演出，其中Rev. from DVL負責的是每週四的「Rev. from
+    Clubee\!](https://zh.wikipedia.org/wiki/Kawaiian_Clubee! "wikilink")》（，，2014年12月4日開播）：《Kawaiian
+    Clubee\!》是日本偶像節目專業[衛星電視台Kawaiian](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")
+    TV的主要綜藝節目之一，由（）、[NMB48](../Page/NMB48.md "wikilink")、、Rev. from
+    DVL與五個女性偶像團體輪流演出，其中Rev. from DVL負責的是每週四的「Rev. from
     DVL的Clubee\!」（）。
   - 《[Rev. from
-    DVL的下課後](../Page/Rev._from_DVL的下課後.md "wikilink")》（，[RKB每日放送](../Page/RKB每日放送.md "wikilink")，2015年4月6日
+    DVL的下課後](https://zh.wikipedia.org/wiki/Rev._from_DVL的下課後 "wikilink")》（，[RKB每日放送](../Page/RKB每日放送.md "wikilink")，2015年4月6日
     - 2015年6月）：Rev. from
-    DVL第一個在[無線電視頻道上播放的冠名節目](../Page/無線電視.md "wikilink")。除了RKB每日放送外，該節目也有透過網路收視（）與衛星電視（Kawaiian
+    DVL第一個在[無線電視頻道上播放的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")。除了RKB每日放送外，該節目也有透過網路收視（）與衛星電視（Kawaiian
     TV）方式提供觀眾收視。
 
 ## 參考資料

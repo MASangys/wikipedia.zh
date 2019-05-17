@@ -1,7 +1,7 @@
 **變形金剛**漫畫為IDW根據孩之寶的變形金剛人物和玩具系列而出版的漫畫系列。
 
 繼Dreamwave在2005年破產，[IDW公司拿了版權](../Page/IDW公司.md "wikilink")，並聘請長期變形金剛作家[Simon
-Furman製作一個重新啟動第一代故事](../Page/Simon_Furman.md "wikilink")。\[1\]。故事的前導版出版於2005年10月，而正式系列開始於2006年1月。
+Furman製作一個重新啟動第一代故事](https://zh.wikipedia.org/wiki/Simon_Furman "wikilink")。\[1\]。故事的前導版出版於2005年10月，而正式系列開始於2006年1月。
 
 在前四年該系列銷售各種限量系列的每個故事，發表順序為「變形金剛：滲透行動(The Transformers:
 Infiltration)」、「暴風行動(Stormbringer)」、「升級行動(Escalation)」、「麥加登本紀(
@@ -15,7 +15,7 @@ Eye)」。
 ## 發展
 
 Dreamwave於2005年1月4日宣布關閉並停止所有漫畫出版，留下了變形金剛G1和一個不完整的變形金剛內戰前傳故事.\[2\]，讓IDW出版社總編輯[Chris
-Ryall拿到](../Page/Chris_Ryall.md "wikilink")。
+Ryall拿到](https://zh.wikipedia.org/wiki/Chris_Ryall "wikilink")。
 
 2005年5月19日，孩之寶公司正式宣布於2005年10月把變形金剛出版許可頒發給IDW公司，而在「滲透行動( The
 Transformers: Infiltration)」製作開始前，Chris
@@ -160,8 +160,8 @@ Disguise)」故事為主。
 <!-- end list -->
 
   -
-    變形金剛本來沒性別，直到變形金剛的瘋狂科學家JHIAXUS研究下將一名變形金剛強行改造，才創造出第一位女性變形金剛[艾茜（Arcee）](../Page/雅希.md "wikilink")。
-    後期在賽博坦殖民地中不斷出現像[風刃的其他女性變形金剛](../Page/風刃.md "wikilink")，其誔生原因未知。
+    變形金剛本來沒性別，直到變形金剛的瘋狂科學家JHIAXUS研究下將一名變形金剛強行改造，才創造出第一位女性變形金剛[艾茜（Arcee）](https://zh.wikipedia.org/wiki/雅希 "wikilink")。
+    後期在賽博坦殖民地中不斷出現像[風刃的其他女性變形金剛](https://zh.wikipedia.org/wiki/風刃 "wikilink")，其誔生原因未知。
 
 ### 物品
 
@@ -633,16 +633,16 @@ Disguise)」故事為主。
 
 <!-- end list -->
 
-  - **[二重金刚](../Page/二重金刚.md "wikilink")**（Duobot）
+  - **[二重金刚](https://zh.wikipedia.org/wiki/二重金刚 "wikilink")**（Duobot）
 
 <!-- end list -->
 
   -
-    [电击](../Page/电击.md "wikilink")（Shock）、[矿石](../Page/矿石.md "wikilink")（Ore）
+    [电击](https://zh.wikipedia.org/wiki/电击 "wikilink")（Shock）、[矿石](https://zh.wikipedia.org/wiki/矿石 "wikilink")（Ore）
 
 <!-- end list -->
 
-  - **[雄魂](../Page/雄魂.md "wikilink")**（Animus）
+  - **[雄魂](https://zh.wikipedia.org/wiki/雄魂 "wikilink")**（Animus）
 
 <!-- end list -->
 
@@ -651,7 +651,7 @@ Disguise)」故事為主。
 
 <!-- end list -->
 
-  - **[救护员](../Page/救护员.md "wikilink")**（Ambulon）
+  - **[救护员](https://zh.wikipedia.org/wiki/救护员 "wikilink")**（Ambulon）
 
 <!-- end list -->
 
@@ -660,7 +660,7 @@ Disguise)」故事為主。
 
 <!-- end list -->
 
-  - **[赌棍](../Page/赌棍.md "wikilink")**（Jackpot）
+  - **[赌棍](https://zh.wikipedia.org/wiki/赌棍 "wikilink")**（Jackpot）
 
 <!-- end list -->
 
@@ -669,12 +669,12 @@ Disguise)」故事為主。
 
 <!-- end list -->
 
-  - '''[板机战士](../Page/板机战士.md "wikilink")（Triggerbot）
+  - '''[板机战士](https://zh.wikipedia.org/wiki/板机战士 "wikilink")（Triggerbot）
 
 <!-- end list -->
 
   -
-    [激斗](../Page/激斗.md "wikilink")（Dogfight）
+    [激斗](https://zh.wikipedia.org/wiki/激斗 "wikilink")（Dogfight）
 
 ### 強拆小隊
 

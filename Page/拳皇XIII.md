@@ -1,14 +1,14 @@
 是[SNK
-Playmore](../Page/SNK_Playmore.md "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](../Page/格斗游戏.md "wikilink")，最初在2010年于日本登陆街机平台，并从2011年至2013年先后移植至[PlayStation
+Playmore](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，最初在2010年于日本登陆街机平台，并从2011年至2013年先后移植至[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
-360](../Page/Xbox_360.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Android和](../Page/Android.md "wikilink")[Microsoft
-Windows平台](../Page/Microsoft_Windows.md "wikilink")，並在包含日本和欧美在内的全球各地发行。
+360](../Page/Xbox_360.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android和](../Page/Android.md "wikilink")[Microsoft
+Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，並在包含日本和欧美在内的全球各地发行。
 
 事隔5年正式推出艾森篇新章，情節連接《[拳皇XI](../Page/拳皇XI.md "wikilink")》，大部份遊戲設定參考《[拳皇XII](../Page/拳皇XII.md "wikilink")》並修改，繼承《拳皇XII》一對一回合制度。除了已於《拳皇XII》登場的角色外，其他的人物全部重繪。《拳皇XII》所出現的問題全部均有作出修正。相比之前数作，本作获得媒体和玩家一致好评。
 
 ## 玩法
 
-本作品有31名人物選擇，總共10支隊伍+1名專用角色。首次增加人物色配選擇系統，每名人物有10種不同的衣服顏色配置，玩家可根據自己喜好選擇自己喜愛的配置。有玩家認為部份顏色配置是在惡搞其他作品，當中有[動漫人物](../Page/動漫.md "wikilink")、其他格鬥作品以及拳皇系列人物，此設定均受到玩家熱烈歡迎。另外亦為每隊加入了隊伍專用的[BGM](../Page/BGM.md "wikilink")，連同專用人物及頭目共有13首隊伍專用BGM，在對戰時會採用隊伍專用的BGM，玩家均對這有不錯的評價。另外於一些小設定，回歸了如94、95時期的被打敗後爆衣的情境。
+本作品有31名人物選擇，總共10支隊伍+1名專用角色。首次增加人物色配選擇系統，每名人物有10種不同的衣服顏色配置，玩家可根據自己喜好選擇自己喜愛的配置。有玩家認為部份顏色配置是在惡搞其他作品，當中有[動漫人物](../Page/動漫.md "wikilink")、其他格鬥作品以及拳皇系列人物，此設定均受到玩家熱烈歡迎。另外亦為每隊加入了隊伍專用的[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")，連同專用人物及頭目共有13首隊伍專用BGM，在對戰時會採用隊伍專用的BGM，玩家均對這有不錯的評價。另外於一些小設定，回歸了如94、95時期的被打敗後爆衣的情境。
 
 ## 剧情
 

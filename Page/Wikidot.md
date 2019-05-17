@@ -1,14 +1,14 @@
-**Wikidot**是一家面向每个人的免费托管[wiki的服务商](../Page/wiki.md "wikilink")。可以用来发布内容，共享文档，与朋友或同事合作，创造属于自己的[社群](../Page/社群.md "wikilink")。每个月wikidot流量都超过二百万。[scp基金会就是建立于wikidot](../Page/scp基金会.md "wikilink")。目前在wikidot上有超过二千五百万个页面。\[1\]通过wikidot的工具，创建自己的wiki轻松简单，诸多巨大活跃的门户网站也建立在wikidot上。
+**Wikidot**是一家面向每个人的免费托管[wiki的服务商](https://zh.wikipedia.org/wiki/wiki "wikilink")。可以用来发布内容，共享文档，与朋友或同事合作，创造属于自己的[社群](https://zh.wikipedia.org/wiki/社群 "wikilink")。每个月wikidot流量都超过二百万。[scp基金会就是建立于wikidot](https://zh.wikipedia.org/wiki/scp基金会 "wikilink")。目前在wikidot上有超过二千五百万个页面。\[1\]通过wikidot的工具，创建自己的wiki轻松简单，诸多巨大活跃的门户网站也建立在wikidot上。
 
 ## wikidot历史
 
-在2007年，在一些私人投资者的协助下，米哈尔在美国[特拉华州注册了wikidot](../Page/特拉华州.md "wikilink")。在2008年1月，wikidot正式宣布[开源](../Page/开源.md "wikilink")。wikidot的收入来源于广告及技术支持，以及许可证；其公司的办事处设在波兰托伦。\[2\]
+在2007年，在一些私人投资者的协助下，米哈尔在美国[特拉华州注册了wikidot](../Page/特拉华州.md "wikilink")。在2008年1月，wikidot正式宣布[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")。wikidot的收入来源于广告及技术支持，以及许可证；其公司的办事处设在波兰托伦。\[2\]
 米哈尔·弗兰克及彼得·延斯波兰（运营办公室总经理）是最初的二名职员。
 彼得·延斯波兰同时还是iMatix公司的总裁兼首席执行官，并自1991年以来一直活跃在免费和开源软件领域；米哈尔·弗兰克是前天体物理学家，认证的软件开发人员以及Wikidot自2006年以来的架构师和首席开发人员。\[3\]在2010年2月26日，彼得离开CEO的位置，继续在iMatix公司工作。\[4\]
 
-自2008年开始，wikidot一直处于[alexaTOP](../Page/alexa.md "wikilink")10000中，目前的排名是第3721名。\[5\]
+自2008年开始，wikidot一直处于[alexaTOP](https://zh.wikipedia.org/wiki/alexa "wikilink")10000中，目前的排名是第3721名。\[5\]
 
-2008年3月，Wikidot开始提供专业版的[beta测试](../Page/beta.md "wikilink")，并于12月17日，Wikidot正式推出了这项功能。\[6\]
+2008年3月，Wikidot开始提供专业版的[beta测试](https://zh.wikipedia.org/wiki/beta "wikilink")，并于12月17日，Wikidot正式推出了这项功能。\[6\]
 
 自2011年1月开始，Wikidot开始实验项目“翻译Wikidot”，邀请来自世界各地的用户将最常用的命令，帮助文本等从英语翻译为“每一个希望”的语言。一个星期后，有些语言，如德语，法语和塞尔维亚语率先由翻译完成，西班牙文，中文，俄语，芬兰文，意大利文紧接着翻译完成。wikidot的多语言化都是基于志愿者的翻译。
 
@@ -16,7 +16,7 @@
 
 Wikidot.com支持无限​​的网页及用户。\[7\]站长可以将wiki设为SSL加密，将wiki映射到现有域（比其他wikidot.com），自定义隐私设置，分配权限，在特定的页面互动。站长可以很轻松地加入Flickr，YouTube和其他网站的嵌入功能。\[8\]
 
-在2012年8月30日，Wikidot宣布，计划开始将内容从传统的数据中心转移到[Amazon云](../Page/Amazon.md "wikilink").在2012年9月4日完成后，访问速度显着增加。\[9\]
+在2012年8月30日，Wikidot宣布，计划开始将内容从传统的数据中心转移到[Amazon云](https://zh.wikipedia.org/wiki/Amazon "wikilink").在2012年9月4日完成后，访问速度显着增加。\[9\]
 从9月12日起，Wikidot开始在Amazon云中存储​​用户上传的文件。并定期备份，以保证用户数据的安全。\[10\]
 
 Wikidot引擎基于开源的Text_Wiki。每个站点上可以得到一个.wikidot.com域名（如mywiki.wikidot.com）。站长也可以托管自己的域名（如设定mywiki.com
@@ -41,7 +41,7 @@ files, tags, pages 以及users.\[16\]
   - 可以选择适用于公共和私人维基灵活的许可制度
   - 可定制的主题，支持自定义的外观
   - 支持众多小部件
-  - 允许通过[AdSense获取收入](../Page/AdSense.md "wikilink")\[17\]
+  - 允许通过[AdSense获取收入](https://zh.wikipedia.org/wiki/AdSense "wikilink")\[17\]
   - 大量的支援文档和一个活跃的社群
 
 ### 优势
@@ -66,7 +66,7 @@ Wikidot的专家用户在社区为他人解答疑难，Wikidot社群致力于为
 
 ## 另请参阅
 
-  - [wiki](../Page/wiki.md "wikilink")
+  - [wiki](https://zh.wikipedia.org/wiki/wiki "wikilink")
 
 ## 参考文献
 

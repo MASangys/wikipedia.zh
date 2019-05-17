@@ -3,19 +3,19 @@
 [TOWER_535_Lobby_201703.jpg](https://zh.wikipedia.org/wiki/File:TOWER_535_Lobby_201703.jpg "fig:TOWER_535_Lobby_201703.jpg")
 [TOWER_535_Seafood_Room_Interior_201605.jpg](https://zh.wikipedia.org/wiki/File:TOWER_535_Seafood_Room_Interior_201605.jpg "fig:TOWER_535_Seafood_Room_Interior_201605.jpg")
 **TOWER
-535**是由甲級寫字樓及零售組成的建築，位於[香港](../Page/香港.md "wikilink")[香港島](../Page/香港島.md "wikilink")[銅鑼灣](../Page/銅鑼灣.md "wikilink")[謝斐道](../Page/謝斐道.md "wikilink")535號。大廈共25層，原址前身為[總統商場及中央樓](../Page/總統商場.md "wikilink")，由私募基金[豐泰地產投資約](../Page/豐泰地產.md "wikilink")40億元，於2012年至2015年發展，到2016年5月8日正式開幕。大廈於2015年8月獲韓國韓國基金洽購5成業權，估計涉資約35億[港元](../Page/港元.md "wikilink")。\[1\]
+535**是由甲級寫字樓及零售組成的建築，位於[香港](../Page/香港.md "wikilink")[香港島](../Page/香港島.md "wikilink")[銅鑼灣](../Page/銅鑼灣.md "wikilink")[謝斐道](../Page/謝斐道.md "wikilink")535號。大廈共25層，原址前身為[總統商場及中央樓](https://zh.wikipedia.org/wiki/總統商場 "wikilink")，由私募基金[豐泰地產投資約](../Page/豐泰地產.md "wikilink")40億元，於2012年至2015年發展，到2016年5月8日正式開幕。大廈於2015年8月獲韓國韓國基金洽購5成業權，估計涉資約35億[港元](../Page/港元.md "wikilink")。\[1\]
 
 ## 設計
 
-大廈由[SOM建築設計事務所及](../Page/SOM.md "wikilink")[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")，並採用「無柱式」設計，以增加空間感。3樓大堂外設庭園。\[2\]\[3\]
+大廈由[SOM建築設計事務所及](https://zh.wikipedia.org/wiki/SOM "wikilink")[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")，並採用「無柱式」設計，以增加空間感。3樓大堂外設庭園。\[2\]\[3\]
 
 ## 租戶
 
-大廈樓高25層，總建築樓面面積為270,473方呎，地庫至3樓提供四層零售樓面，租戶包括全球[航拍品牌](../Page/航拍.md "wikilink")[大疆創新](../Page/大疆創新.md "wikilink")，租用面積約10,000平方呎的3層地舖作為香港首家旗艦店，於2016年第3季開業。\[4\]到2019年1月，日本人氣班戟店gram以月租30萬元承租面積2787方呎樓面。而新晉餐飲品牌THE
+大廈樓高25層，總建築樓面面積為270,473方呎，地庫至3樓提供四層零售樓面，租戶包括全球[航拍品牌](../Page/航拍.md "wikilink")[大疆創新](https://zh.wikipedia.org/wiki/大疆創新 "wikilink")，租用面積約10,000平方呎的3層地舖作為香港首家旗艦店，於2016年第3季開業。\[4\]到2019年1月，日本人氣班戟店gram以月租30萬元承租面積2787方呎樓面。而新晉餐飲品牌THE
 FOOD Story以月租約30萬承租地庫面積5011方呎樓面。\[5\]
 
-辦公室樓層有16層，主要預留予美容及健康生活等租客，呎租約50至60[港元](../Page/港元.md "wikilink")。\[6\]最大租戶為跨國虛擬辦公室公司[WeWork承租項目](../Page/WeWork.md "wikilink")8層寫字樓，涉及9萬平方呎。\[7\]而7樓及8樓全層約2.3萬平方呎樓面獲健身中心[Fitness
-First承租](../Page/Fitness_First.md "wikilink")，呎租約60元，於2016年6月13日開業。25樓設阿一海景飯店及酒吧炊公館。26樓頂層為Bulldozer
+辦公室樓層有16層，主要預留予美容及健康生活等租客，呎租約50至60[港元](../Page/港元.md "wikilink")。\[6\]最大租戶為跨國虛擬辦公室公司[WeWork承租項目](https://zh.wikipedia.org/wiki/WeWork "wikilink")8層寫字樓，涉及9萬平方呎。\[7\]而7樓及8樓全層約2.3萬平方呎樓面獲健身中心[Fitness
+First承租](https://zh.wikipedia.org/wiki/Fitness_First "wikilink")，呎租約60元，於2016年6月13日開業。25樓設阿一海景飯店及酒吧炊公館。26樓頂層為Bulldozer
 Group's 首間於香港開設的餐廳Seafood Room，佔他8,000呎樓面連2,000呎天台。
 
 ## 交通
@@ -56,7 +56,7 @@ August 2015.jpg|2015年8月，基座
 
 ## 相關
 
-  - [總統商場](../Page/總統商場.md "wikilink")
+  - [總統商場](https://zh.wikipedia.org/wiki/總統商場 "wikilink")
 
 ## 參考資料
 

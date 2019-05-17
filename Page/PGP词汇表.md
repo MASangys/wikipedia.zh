@@ -1,4 +1,4 @@
-**PGP词汇表**（即“**[良好隱私密碼法词汇表](../Page/良好隱私密碼法.md "wikilink")**”，又称**[生物识别词汇表](../Page/生物识别.md "wikilink")**），是一个通过声音频道传输[字节时使用的词汇表](../Page/字节.md "wikilink")，目的是清晰表达内容。1995年由计算机语言学家和[PGP的创造者](../Page/良好隱私密碼法.md "wikilink")[菲爾·齊默爾曼发明](../Page/菲爾·齊默爾曼.md "wikilink")。\[1\]\[2\]PGP词汇表与飞行员使用的[北约音标字母类似](../Page/北约音标字母.md "wikilink")，但此表中的每一个词的值都与256个字节数值一一对应。
+**PGP词汇表**（即“**[良好隱私密碼法词汇表](https://zh.wikipedia.org/wiki/良好隱私密碼法 "wikilink")**”，又称**[生物识别词汇表](https://zh.wikipedia.org/wiki/生物识别 "wikilink")**），是一个通过声音频道传输[字节时使用的词汇表](../Page/字节.md "wikilink")，目的是清晰表达内容。1995年由计算机语言学家和[PGP的创造者](https://zh.wikipedia.org/wiki/良好隱私密碼法 "wikilink")[菲爾·齊默爾曼发明](../Page/菲爾·齊默爾曼.md "wikilink")。\[1\]\[2\]PGP词汇表与飞行员使用的[北约音标字母类似](../Page/北约音标字母.md "wikilink")，但此表中的每一个词的值都与256个字节数值一一对应。
 
 ## 构造
 

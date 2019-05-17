@@ -1,8 +1,8 @@
-《**NA.NA.NA.淚**》（）是[韓國男子組合](../Page/韓國.md "wikilink")[NU'EST的第二張日語單曲](../Page/NU'EST.md "wikilink")\[1\]，由Bruce和Mason作曲；NICE73作詞，並在2015年5月20日以三個不同版本推出\[2\]。
+《**NA.NA.NA.淚**》（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST的第二張日語單曲](../Page/NU'EST.md "wikilink")\[1\]，由Bruce和Mason作曲；NICE73作詞，並在2015年5月20日以三個不同版本推出\[2\]。
 
 ## 背景
 
-2015年3月2日，韓國公司[Pledis娛樂在NU](../Page/Pledis娛樂.md "wikilink")'EST的日本官方網站公布了這單曲的發行消息\[3\]\[4\]；並在同日發放《NA.NA.NA.淚》的音樂預告片及預購會詳情\[5\]，一星期後（3月9日）官方網站提供了單曲的詳細資訊，包括兩個初回限定盤以及一個通常盤，同時在官方日本[Youtube頻道上載了第二套單曲預告片](../Page/Youtube.md "wikilink")\[6\]。其後，Youtube頻道分別在3月16日、3月23日與3月30日推出了第三、第四及第五套單曲預告片\[7\]\[8\]\[9\]。
+2015年3月2日，韓國公司[Pledis娛樂在NU](../Page/Pledis娛樂.md "wikilink")'EST的日本官方網站公布了這單曲的發行消息\[3\]\[4\]；並在同日發放《NA.NA.NA.淚》的音樂預告片及預購會詳情\[5\]，一星期後（3月9日）官方網站提供了單曲的詳細資訊，包括兩個初回限定盤以及一個通常盤，同時在官方日本[Youtube頻道上載了第二套單曲預告片](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[6\]。其後，Youtube頻道分別在3月16日、3月23日與3月30日推出了第三、第四及第五套單曲預告片\[7\]\[8\]\[9\]。
 
 至4月4日，他們在東京舉行的第四場日本巡迴演唱會《NU'EST JAPAN TOUR
 2015-SHOWTIME3-》首次公開演唱單曲收錄曲目\[10\]。
@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
 <td><p>2015年5月20日</p></td>
-<td><p><a href="../Page/CD.md" title="wikilink">CD</a>[15]、CD+<a href="../Page/DVD.md" title="wikilink">DVD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
+<td><p><a href="../Page/CD.md" title="wikilink">CD</a>[15]、CD+<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td></td>
 </tr>
 </tbody>

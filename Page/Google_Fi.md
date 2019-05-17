@@ -2,14 +2,14 @@
 是[Google旗下的](../Page/Google.md "wikilink")[移动虚拟运营商](../Page/移动虚拟运营商.md "wikilink")（MVNO），通过
 [T-Mobile](../Page/T-Mobile.md "wikilink") 和
 [Sprint](../Page/Sprint.md "wikilink")
-的Wi-Fi和[蜂窩行動網路向美国以及超过](../Page/蜂窩行動網路.md "wikilink")120个国家的漫游用户提供语音及数据服务\[1\]\[2\]\[3\]。
+的Wi-Fi和[蜂窩行動網路向美国以及超过](https://zh.wikipedia.org/wiki/蜂窩行動網路 "wikilink")120个国家的漫游用户提供语音及数据服务\[1\]\[2\]\[3\]。
 
 Google Fi 的原名是 Project Fi。Google 于 2018 年 11 月 28 日将 Project Fi 更名为现在的
 Google Fi。
 
 ## 特色
 
-服务会根据信号的强度和速度在网络之间自动切换。会自动连接到符合标准的Wi-Fi热点，并通过自动的[虚拟专用网络加密传输数据](../Page/虚拟专用网络.md "wikilink")。当用户通过Wi-Fi进行通话时，网络会在覆盖不佳时无缝切换到[蜂窩行動網路下继续通话](../Page/蜂窩行動網路.md "wikilink")\[4\]\[5\]\[6\]。
+服务会根据信号的强度和速度在网络之间自动切换。会自动连接到符合标准的Wi-Fi热点，并通过自动的[虚拟专用网络加密传输数据](https://zh.wikipedia.org/wiki/虚拟专用网络 "wikilink")。当用户通过Wi-Fi进行通话时，网络会在覆盖不佳时无缝切换到[蜂窩行動網路下继续通话](https://zh.wikipedia.org/wiki/蜂窩行動網路 "wikilink")\[4\]\[5\]\[6\]。
 
 ## 套餐计划
 

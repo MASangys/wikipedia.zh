@@ -1,12 +1,11 @@
-[OS X](../Page/OS_X.md "wikilink") 是苹果公司 Mac OS
-操作系统替代品的产物。 在多次失败的尝试之后，苹果于1994年启动了
-Pink 项目（后来和 IBM
-进行了合作），这就是 Taligent 和 [Copland](../Page/Copland_操作系统.md "wikilink") ，两年后这一项目取消。
+[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink") 是苹果公司 Mac OS
+操作系统替代品的产物。 在多次失败的尝试之后，苹果于1994年启动了 Pink 项目（后来和 IBM
+进行了合作），这就是 Taligent 和 [Copland](https://zh.wikipedia.org/wiki/Copland_操作系统 "wikilink") ，两年后这一项目取消。
 通过收购获得了 [NeXT](../Page/NeXT.md "wikilink") 和其
 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink") 操作系统之后，苹果公司开始着手开发他们最新的操作系统
-([Mac OS X](../Page/Mac_OS_X.md "wikilink"))  OS X 首次出现是1999年的 OS X
-Server 1.0，第一个正式的 OS X 桌面版本发布于2001年3月24日。 从10.5版本开始，OS X 通过了 Open group
-Unix O3 单一 Unix 规范认证。
+([Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"))  OS X
+首次出现是1999年的 OS X Server 1.0，第一个正式的 OS X 桌面版本发布于2001年3月24日。
+从10.5版本开始，OS X 通过了 Open group Unix O3 单一 Unix 规范认证。
 
 2016年6月，苹果公司宣布OS X更名为macOS，以便与苹果其他操作系统如iOS、watchOS和tvOS保持统一的命名风格。
 
@@ -21,20 +20,21 @@ Mac OS X 包含两个主要的部分：以FreeBSD源代码和Mach微核心为基
 
 NeXTSTEP 使用基于卡内基梅隆大学开发的 [Mach](../Page/Mach.md "wikilink") 2.5 微内核
 [BSD](../Page/BSD.md "wikilink") 4.3 子系统开发的混合内核。 NeXTSTEP
-还推出了基于 [DPS](../Page/Display_PostScript.md "wikilink") 的窗口系统，通过在显示器和打印机上使用同一种语言以达到更好的所见即所得效果。 NeXT
+还推出了基于 [DPS](https://zh.wikipedia.org/wiki/Display_PostScript "wikilink") 的窗口系统，通过在显示器和打印机上使用同一种语言以达到更好的所见即所得效果。 NeXT
 还包含他们从 StepStone 的收购的面向对象的 Objective-C 的语言和一系列旨在加快软件开发的框架（工具包）。
 
 NeXTSTEP
-最初设计运行在跑摩托罗拉68K处理器上，但后来被移植到英特尔的x86，惠普的[PA-RISC和升阳电脑的](../Page/PA-RISC.md "wikilink")[SPARC处理器](../Page/SPARC.md "wikilink")。后来，开发工具和框架以OpenStep形式发布，作为一个开发平台，它可以其他操作系统上运行。
+最初设计运行在跑摩托罗拉68K处理器上，但后来被移植到英特尔的x86，惠普的[PA-RISC和升阳电脑的](https://zh.wikipedia.org/wiki/PA-RISC "wikilink")[SPARC处理器](../Page/SPARC.md "wikilink")。后来，开发工具和框架以OpenStep形式发布，作为一个开发平台，它可以其他操作系统上运行。
 
 ### Rhapsody
 
 1997年2月4日，苹果公司收购了NeXT，并着手开发 [Rhapsody](../Page/Rhapsody.md "wikilink")
 操作系统。Rhapsody 基于 NeXTSTEP
-构建，并将核心系统[移植到了](../Page/移植_\(軟體\).md "wikilink")
+构建，并将核心系统[移植到了](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")
 [PowerPC](../Page/PowerPC.md "wikilink") 架构上并添加了一个重新设计的用户接口。允许旧 Mac OS
 的程序运行在独立的 JAVA 平台上的模拟层称为 Blue Box，而 Objective-C 开发工具和框架被称为 Yellow
-Box，Yellow Box 将为 [Windows](../Page/Windows.md "wikilink") 独立提供。
+Box，Yellow Box
+将为 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 独立提供。
 
 Rhapsody 项目的最终结果，以 [OS X Server
 1.0](../Page/Mac_OS_X_Server_1.0.md "wikilink") 的形式于1999年发布。
@@ -58,9 +58,11 @@ Rhapsody 项目的最终结果，以 [OS X Server
 Kit的新驱动层，用于替代 NeXTSTEP 中的 Driver Kit，针对 Driver Kit
 缺少电源管理和热交换特性、自动配置功能匮乏等问题作出了改进。\[3\]
 
-在1999年的 WWDC 上，苹果公司发布了 [Quartz](../Page/Quartz.md "wikilink")，一个基于
-[便携式文档格式](../Page/便携式文档格式.md "wikilink") 的窗口系统以避免产生（先前
-NeXTSTEP 中 DPS 系统中遇到过的）和 Adobe 的版权纠纷和相关费用。
+在1999年的 WWDC
+上，苹果公司发布了 [Quartz](https://zh.wikipedia.org/wiki/Quartz "wikilink")，一个基于
+[便携式文档格式](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")
+的窗口系统以避免产生（先前 NeXTSTEP 中 DPS 系统中遇到过的）和 Adobe
+的版权纠纷和相关费用。
 
 苹果还宣布，Yellow Box 被更名为 [Cocoa](../Page/Cocoa.md "wikilink") 并撤回了 Yellow
 Box 将在 Windows 系统上提供的承诺。此次 WWDC 苹果还首次演示了将 Mac OS X
@@ -81,7 +83,7 @@ BSD 4.3 的混合，随着 OS X 的发布，Mach 版本升级到3，BSD 部分�
   - Mach：
 
 Mach
-是一个由卡内基梅隆大学开发的计算机操作系统[微内核](../Page/微内核.md "wikilink")，是最早实现微核心操作系统的例子之一，也是许多其它相似的项目的标准。
+是一个由卡内基梅隆大学开发的计算机操作系统[微内核](https://zh.wikipedia.org/wiki/微内核 "wikilink")，是最早实现微核心操作系统的例子之一，也是许多其它相似的项目的标准。
 同UNIX一样，Mach系统也包含了一组丰富的实用工具，并保留了 Unix 中驱动程序的概念用以硬件交互。 在 OS X 中，Mach
 内核为系统提供了64位内核和主要驱动支持。
 
@@ -90,11 +92,14 @@ Mach
 伯克利软件套件（英语：Berkeley Software Distribution，缩写为 BSD），也被称为伯克利Unix（Berkeley
 Unix），是一个操作系统的名称，现在 BSD 也被用于称呼其衍生的各种套件。 BSD
 开创了现代计算机的潮流，由于BSD设计出众，代码编写清晰，包括它的文档，BSD
-是最早添加库以支持 IP 协议栈和[伯克利套接字的](../Page/伯克利套接字.md "wikilink") Unix
-系统，套接字系统的发明使得计算机系统的网络通信和本地读写一样方便，BSD
+是最早添加库以支持 IP
+协议栈和[伯克利套接字的](https://zh.wikipedia.org/wiki/伯克利套接字 "wikilink")
+Unix 系统，套接字系统的发明使得计算机系统的网络通信和本地读写一样方便，BSD
 。时至今日，BSD仍在学术机构，乃至许多商业或自由产品的高科技实验中，继续被用作试验平台，甚至在嵌入式设备中。
 最初的 OS X 的内核 XNU 所使用的是 4.3BSD ，该版本发布于1986年6月。时至今日，OS X 中的许多命令行工具还是来源于
-BSD。在 OS X 中，文件系统、网络栈、[IPC](../Page/进程间通信.md "wikilink")、通知机制的支持也来自 BSD。
+BSD。在 OS X
+中，文件系统、网络栈、[IPC](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")、通知机制的支持也来自
+BSD。
 
 ### 核心系统层（Core OS）
 
@@ -116,19 +121,20 @@ BSD。在 OS X 中，文件系统、网络栈、[IPC](../Page/进程间通信.md
   - Time Machine 支持：OS X 的系统备份功能。
   - [Bonjour](../Page/Bonjour.md "wikilink")：局域网下的设备发现服务，是打印机服务和局域网文件共享服务的基础。
   - XML 和 SQLite 支持：系统和 APP 的配置文件使用 XML 格式进行存储，数据使用 SQLite 格式进行保存。
-  - [Webkit](../Page/Webkit.md "wikilink"): 允许 APP 进行网页渲染，具有 Web Core 和
-    JavaScript Core 两个部分。
+  - [Webkit](https://zh.wikipedia.org/wiki/Webkit "wikilink"): 允许 APP
+    进行网页渲染，具有 Web Core 和 JavaScript Core 两个部分。
   - 快速预览：包括在 spotlight 中预览和空格键预览。
   - Store Kit: 为 Mac Appstore 和 iTunes 提供支持，处理相关请求。
   - Core Services Umbrella Framework：包括管理文件打开方式、MIME
     支持、文件元数据管理、SearchKit 搜索支持、词典服务等。
-      - [Carbon](../Page/Carbon_\(API\).md "wikilink"): Carbon 也是 OS X
-        上的原生 API，也是 Core Services Umbrella Framework 的子集\[5\]，和
-        Cocoa 不同的是，Carbon是面向过程（Procedural）的编程语言API，也更加接近系统底层，可以使用包括 C 和
-        C++ 在内的多种编程语言进行开发，类似 Windows 的 win32 API。Carbon API
-        提供了良好的向下兼容性，为开发者快速将旧 MacOS 上的程序移植到 OS
-        X 提供了便利，但是 Carbon 本身已经处于被苹果不建议使用的状态，也没有64位支持，在 OS X 10.8 后苹果没有对
-        Carbon 提供后续更新。
+      - [Carbon](https://zh.wikipedia.org/wiki/Carbon_\(API\) "wikilink"):
+        Carbon 也是 OS X 上的原生 API，也是 Core Services Umbrella Framework
+        的子集\[5\]，和 Cocoa
+        不同的是，Carbon是面向过程（Procedural）的编程语言API，也更加接近系统底层，可以使用包括
+        C 和 C++ 在内的多种编程语言进行开发，类似 Windows 的 win32 API。Carbon API
+        提供了良好的向下兼容性，为开发者快速将旧 MacOS 上的程序移植到 OS X
+        提供了便利，但是 Carbon 本身已经处于被苹果不建议使用的状态，也没有64位支持，在 OS X
+        10.8 后苹果没有对 Carbon 提供后续更新。
 
 ### 媒体层
 
@@ -142,9 +148,10 @@ BSD。在 OS X 中，文件系统、网络栈、[IPC](../Page/进程间通信.md
     Windows上[Direct3D
     12和跨平台的](../Page/Direct3D.md "wikilink")[Vulkan相似的功能和特性](../Page/Vulkan_\(API\).md "wikilink")。
     从10.11开始在 OS X 上提供支持。
-  - [Quartz](../Page/Quartz.md "wikilink")：Quartz 是 OS X 上的 UI 绘图层，由
-    Quartz Compositor（合成视窗系统，管理和合成幕后视窗视频来创建Mac OS X用户界面） 和 Quartz
-    2D（以PDF规范为基础的图形库，用来绘制二维文字和图形，现在被称为 Core Graphics）组成。
+  - [Quartz](https://zh.wikipedia.org/wiki/Quartz "wikilink")：Quartz 是
+    OS X 上的 UI 绘图层，由 Quartz Compositor（合成视窗系统，管理和合成幕后视窗视频来创建Mac OS
+    X用户界面） 和 Quartz 2D（以PDF规范为基础的图形库，用来绘制二维文字和图形，现在被称为 Core
+    Graphics）组成。
   - 颜色管理
   - 音视频文件解析：包括QuickTime Kit、Core Media 、Core Video等一系列多媒体处理框架。
   - 字体渲染系统：包括 Cocoa Text 系统和Core Text。
@@ -155,7 +162,7 @@ BSD。在 OS X 中，文件系统、网络栈、[IPC](../Page/进程间通信.md
 
   - Aqua：Aqua 是承载于 Quartz 上的 GUI 系统和视觉主题，首次发布于2000年。
   - X11（XQuartz）: XQuartz 是 OS X 上
-    [X窗口系统的一个实现](../Page/X窗口系统.md "wikilink")，最初和
+    [X窗口系统的一个实现](https://zh.wikipedia.org/wiki/X窗口系统 "wikilink")，最初和
     OS X 10.2 公开预览版一起提供，从 OS X 10.8 开始不随系统提供。
   - Spotlight：OS X 下的搜索工具。
   - [Cocoa](../Page/Cocoa.md "wikilink"): Cocoa是 Mac OS X

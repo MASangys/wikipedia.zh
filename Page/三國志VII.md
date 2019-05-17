@@ -1,4 +1,4 @@
-是一款由[光榮公司製作的](../Page/光榮.md "wikilink")[歷史策略遊戲](../Page/歷史策略遊戲.md "wikilink")。本遊戲為[三國志系列的第七代作品](../Page/三國志系列.md "wikilink")。本遊戲於2000年8月31日在[PlayStation
+是一款由[光榮公司製作的](https://zh.wikipedia.org/wiki/光榮 "wikilink")[歷史策略遊戲](https://zh.wikipedia.org/wiki/歷史策略遊戲 "wikilink")。本遊戲為[三國志系列的第七代作品](../Page/三國志系列.md "wikilink")。本遊戲於2000年8月31日在[PlayStation
 2日本地區發行](../Page/PlayStation_2.md "wikilink")，於2002年6月25日在PlayStation
 2北美地區發行。\[1\]
 

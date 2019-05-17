@@ -1,10 +1,10 @@
 《**Platinum
-End**》（）是一部[日本](../Page/日本.md "wikilink")[少年漫画](../Page/少年漫画.md "wikilink")，由[大场鸫原作](../Page/大场鸫.md "wikilink")、[小畑健作画](../Page/小畑健.md "wikilink")，于《[Jump
-Square](../Page/Jump_Square.md "wikilink")》2015年12月号正式开始连载\[1\]，该号杂志的正式发售日期是2015年11月4日。香港版及台灣版都將此作品歸類為[18禁](../Page/18禁.md "wikilink")。
+End**》（）是一部[日本](../Page/日本.md "wikilink")[少年漫画](../Page/少年漫画.md "wikilink")，由[大场鸫原作](https://zh.wikipedia.org/wiki/大场鸫 "wikilink")、[小畑健作画](../Page/小畑健.md "wikilink")，于《[Jump
+Square](../Page/Jump_Square.md "wikilink")》2015年12月号正式开始连载\[1\]，该号杂志的正式发售日期是2015年11月4日。香港版及台灣版都將此作品歸類為[18禁](https://zh.wikipedia.org/wiki/18禁 "wikilink")。
 
 ## 概要
 
-本漫画是[大场鸫和](../Page/大场鸫.md "wikilink")[小畑健继](../Page/小畑健.md "wikilink")《[死亡笔记](../Page/死亡笔记.md "wikilink")》及《[爆漫王。](../Page/爆漫王。.md "wikilink")》后又一次合作的作品，在连载之前提供9页试读\[2\]，但这次并不在过往曾经合作的[漫画杂志](../Page/漫画杂志.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中连载，而是在[集英社的另外一部月刊漫画](../Page/集英社.md "wikilink")《[Jump
+本漫画是[大场鸫和](https://zh.wikipedia.org/wiki/大场鸫 "wikilink")[小畑健继](../Page/小畑健.md "wikilink")《[死亡笔记](../Page/死亡笔记.md "wikilink")》及《[爆漫王。](https://zh.wikipedia.org/wiki/爆漫王。 "wikilink")》后又一次合作的作品，在连载之前提供9页试读\[2\]，但这次并不在过往曾经合作的[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中连载，而是在[集英社的另外一部月刊漫画](../Page/集英社.md "wikilink")《[Jump
 Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 
 ## 故事简介
@@ -98,9 +98,9 @@ Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -170,8 +170,8 @@ Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 <td><p>10</p></td>
 <td><p>2019年2月4日[12]</p></td>
 <td><p>ISBN 978-4-08-881729-3</p></td>
-<td></td>
-<td></td>
+<td><p>2019年5月3日</p></td>
+<td><p>ISBN 978-988-8510-78-8</p></td>
 </tr>
 <tr class="even">
 <td></td>

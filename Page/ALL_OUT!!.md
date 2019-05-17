@@ -1,13 +1,13 @@
 《**ALL
-OUT\!\!**》（）是[雨瀨栞的](../Page/雨瀨栞.md "wikilink")[橄欖球題材](../Page/橄欖球.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")。
+OUT\!\!**》（）是[雨瀨栞的](https://zh.wikipedia.org/wiki/雨瀨栞 "wikilink")[橄欖球題材](../Page/橄欖球.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 概要
 
-2013年開始在[講談社的旗下青年漫畫雜誌](../Page/講談社.md "wikilink")《》1號連載。在雜誌上連載時用「\#-」表示。
+2013年開始在[講談社的旗下青年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》1號連載。在雜誌上連載時用「\#-」表示。
 
 作品描寫主角祇園健次為初學者，加入縣立神奈川高校（簡稱「神高」）[橄欖球社之後面臨各式各樣的挑戰](../Page/橄欖球.md "wikilink")。
 
-2015年9月宣佈改編成[電視動畫](../Page/電視動畫.md "wikilink")，2016年10月起首播\[1\]。
+2015年9月宣佈改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2016年10月起首播\[1\]。
 
 ## 故事簡介
 
@@ -188,22 +188,22 @@ OUT\!\!**》（）是[雨瀨栞的](../Page/雨瀨栞.md "wikilink")[橄欖球�
 
 ### 單行本
 
-  - [雨瀨栞](../Page/雨瀨栞.md "wikilink")《ALL
-    OUT\!\!》，[日本](../Page/日本.md "wikilink")[講談社](../Page/講談社.md "wikilink")〈KC
+  - [雨瀨栞](https://zh.wikipedia.org/wiki/雨瀨栞 "wikilink")《ALL
+    OUT\!\!》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈KC
     Morning〉發行，截至2019年1月，已經發行15冊。另外2016年2月發行的特裝版第1冊與第8冊有附贈廣播劇CD。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/青文出版社.md" title="wikilink">青文出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發行日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發行日期</p></td>
 </tr>
 <tr class="even">
@@ -307,11 +307,11 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 
 ### 製作人員
 
-  - 原作：[雨瀨栞](../Page/雨瀨栞.md "wikilink")
-  - 導演：[清水健一](../Page/清水健一.md "wikilink")
+  - 原作：[雨瀨栞](https://zh.wikipedia.org/wiki/雨瀨栞 "wikilink")
+  - 導演：[清水健一](https://zh.wikipedia.org/wiki/清水健一 "wikilink")
   - 副導演：牛嶋新一郎
   - 劇本統籌：[橫谷昌宏](../Page/橫谷昌宏.md "wikilink")
-  - 劇本：橫谷昌宏、[入江信吾](../Page/入江信吾.md "wikilink")
+  - 劇本：橫谷昌宏、[入江信吾](https://zh.wikipedia.org/wiki/入江信吾 "wikilink")
   - 人物設定：筱雅律
   - 動作作畫監督：菅野芳弘
   - 美術監督：西倉力
@@ -347,7 +347,8 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 
   - 片尾曲
 
-:; 「 produced by [奧田民生](../Page/奧田民生.md "wikilink")」（第1話－第12話、第25話）
+:; 「 produced by
+[奧田民生](https://zh.wikipedia.org/wiki/奧田民生 "wikilink")」（第1話－第12話、第25話）
 
 :: 作詞、作曲：、，編曲：奧田民生，主唱：[無限開關](../Page/無限開關.md "wikilink")
 
@@ -378,7 +379,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td></td>
 <td><p>今年的一年生很有趣</p></td>
 <td><p><a href="../Page/橫谷昌宏.md" title="wikilink">橫谷昌宏</a></p></td>
-<td><p><a href="../Page/清水健一.md" title="wikilink">清水健一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清水健一" title="wikilink">清水健一</a></p></td>
 <td><p>牛嶋新一郎</p></td>
 <td><p>翁長久美子</p></td>
 </tr>
@@ -386,7 +387,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td><p>第2話</p></td>
 <td></td>
 <td><p>我想擒抱</p></td>
-<td><p><a href="../Page/入江信吾.md" title="wikilink">入江信吾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/入江信吾" title="wikilink">入江信吾</a></p></td>
 <td><p>牛嶋新一郎</p></td>
 <td><p>關大</p></td>
 <td><p>Chang Young Sik、Lee Juhyeon<br />
@@ -406,7 +407,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td><p>第4話</p></td>
 <td></td>
 <td><p>到底我應該幹什麼?</p></td>
-<td><p><a href="../Page/澤井幸次.md" title="wikilink">澤井幸次</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澤井幸次" title="wikilink">澤井幸次</a></p></td>
 <td><p>中尾高之、針場裕子</p></td>
 <td></td>
 <td></td>
@@ -417,7 +418,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td><p>不足之處</p></td>
 <td><p>入江信吾</p></td>
 <td></td>
-<td><p><a href="../Page/又野弘道.md" title="wikilink">又野弘道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/又野弘道" title="wikilink">又野弘道</a></p></td>
 <td><p>小山知洋</p></td>
 </tr>
 <tr class="even">
@@ -630,7 +631,7 @@ Jeon Hyongiun</p></td>
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC+9.md" title="wikilink">UTC+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">UTC+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -638,33 +639,33 @@ Jeon Hyongiun</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2016年10月6日－2017年3月30日</p></td>
 <td><p>星期四 24時00分－24時30分</p></td>
 <td><p><a href="../Page/全國獨立放送協議會.md" title="wikilink">獨立局</a></p></td>
 <td><p>－</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a></p></td>
 <td><p>2016年10月7日－2017年3月31日</p></td>
 <td><p>星期五 27時10分－27時40分</p></td>
-<td><p><a href="../Page/TBS電視網.md" title="wikilink">TBS電視網</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TBS電視網" title="wikilink">TBS電視網</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/BS11.md" title="wikilink">BS11</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>2016年10月8日－2017年4月1日</p></td>
 <td><p>星期六 25時00分－25時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>『<a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>』時段</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Animax.md" title="wikilink">Animax</a></p></td>
 <td><p>2017年1月29日－5月7日</p></td>
 <td><p>星期日 19時00分－20時00分</p></td>
-<td><p><a href="../Page/電視資訊.md" title="wikilink">字幕播出</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/電視資訊" title="wikilink">字幕播出</a><br />
 每週日連播2集<br />
 有重播</p></td>
 <td></td>
@@ -707,7 +708,7 @@ Jeon Hyongiun</p></td>
 
   - －同作品的登場角色後來被採用在的宣傳海報裡，另外也在體育精華節目中出場。
 
-  - －[BS朝日播出的橄欖球節目報導](../Page/BS朝日.md "wikilink")，同作品的登場角色後被採用在節目的開頭影片及作為現場棚內的背景插圖。
+  - －[BS朝日播出的橄欖球節目報導](https://zh.wikipedia.org/wiki/BS朝日 "wikilink")，同作品的登場角色後被採用在節目的開頭影片及作為現場棚內的背景插圖。
 
 ## 外部連結
 

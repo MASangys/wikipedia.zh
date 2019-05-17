@@ -1,19 +1,19 @@
 魅族
 魅蓝note2是[魅族科技于](../Page/魅族科技.md "wikilink")2015年6月2日发行的魅蓝系列手机。该手机有蓝、白、粉、灰\[1\]四种颜色外观，可更换多种颜色背壳。产品搭载基于[Android](../Page/Android.md "wikilink")5.1的[Flyme
-OS](../Page/Flyme_OS.md "wikilink")4.5系统。
+OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")4.5系统。
 
 ## 手机制式
 
 魅族 魅蓝note2包含公开版、移动、电信、联通定制版共4种通讯制式机型。
 
-| 公开版（16GB/32GB)                           | 移动定制版（16GB/32GB）\[2\] | 电信定制版（16GB）\[3\]                                    | 联通定制版（16GB/32GB） |
-| ---------------------------------------- | --------------------- | --------------------------------------------------- | ---------------- |
-| [移动](../Page/移动.md "wikilink")4G（TD-LTE） | 移动4G（TD-LTE）          | 电信4G（TD/FDD-LTE）                                    | 联通4G（FDD-LTE）    |
-| 联通4G（TD/FDD-LTE）                         | 移动3G（TD-SCDMA）        | 电信3G（EVDO）                                          | 联通3G（WCDMA）      |
-| 移动3G（TD-SCDMA）                           | 移动/联通2G（GSM）          | 移动/联通2G（GSM） [电信](../Page/电信.md "wikilink")2G（CDMA） | 移动/联通2G（GSM）     |
-| 联通3G（WCDMA）                              | \-                    | \-                                                  | \-               |
-| 移动2G（GSM）                                | \-                    | \-                                                  | \-               |
-| [联通](../Page/联通.md "wikilink")2G（GSM）    | \-                    | \-                                                  | \-               |
+| 公开版（16GB/32GB)                                              | 移动定制版（16GB/32GB）\[2\] | 电信定制版（16GB）\[3\]                                    | 联通定制版（16GB/32GB） |
+| ----------------------------------------------------------- | --------------------- | --------------------------------------------------- | ---------------- |
+| [移动](https://zh.wikipedia.org/wiki/移动 "wikilink")4G（TD-LTE） | 移动4G（TD-LTE）          | 电信4G（TD/FDD-LTE）                                    | 联通4G（FDD-LTE）    |
+| 联通4G（TD/FDD-LTE）                                            | 移动3G（TD-SCDMA）        | 电信3G（EVDO）                                          | 联通3G（WCDMA）      |
+| 移动3G（TD-SCDMA）                                              | 移动/联通2G（GSM）          | 移动/联通2G（GSM） [电信](../Page/电信.md "wikilink")2G（CDMA） | 移动/联通2G（GSM）     |
+| 联通3G（WCDMA）                                                 | \-                    | \-                                                  | \-               |
+| 移动2G（GSM）                                                   | \-                    | \-                                                  | \-               |
+| [联通](https://zh.wikipedia.org/wiki/联通 "wikilink")2G（GSM）    | \-                    | \-                                                  | \-               |
 
 ### 港台制式
 
@@ -30,7 +30,7 @@ FDD-LTE / TD-LTE / TD-SCDMA / WCDMA / GSM\[5\]
 ### 手机系统
 
 基于[Android](../Page/Android.md "wikilink") 5.1内核Flyme
-4.5系列，搭载[mBack返回键](../Page/mBack.md "wikilink")。
+4.5系列，搭载[mBack返回键](https://zh.wikipedia.org/wiki/mBack "wikilink")。
 
 ### 传感系统
 

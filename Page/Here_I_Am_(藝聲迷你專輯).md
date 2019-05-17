@@ -4,7 +4,7 @@ Junior成員](../Page/Super_Junior.md "wikilink")[藝聲的首張個人迷你專
 ## 發行與宣傳
 
 2016年4月12日，官方公布專輯發行的消息\[1\]，並在4月21日起於《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》開始宣傳專輯\[2\]。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》開始宣傳專輯\[2\]。
 
 ## 錄製與音樂
 
@@ -34,7 +34,7 @@ Am》講述了一對情侶在離別後的思念之情，最後男生為愛再次
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td></td>
 <td><p>#43</p></td>

@@ -1,10 +1,11 @@
 《**One
 Light**》，為[Kalafina的第十八張單曲](../Page/Kalafina.md "wikilink")。由[梶浦由記作詞](../Page/梶浦由記.md "wikilink")、作曲。距離上一張單曲《[ring
-your bell](../Page/ring_your_bell.md "wikilink")》發售約三个月，於2015年8月12日發行。
+your
+bell](https://zh.wikipedia.org/wiki/ring_your_bell "wikilink")》發售約三个月，於2015年8月12日發行。
 
 ## 概要
 
-本曲為[電視動畫](../Page/電視動畫.md "wikilink")《[亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")》第二期的片尾曲，從第13.5集開始使用。
+本曲為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")》第二期的片尾曲，從第13.5集開始使用。
 
 ## 單曲版本
 

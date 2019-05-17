@@ -1,11 +1,11 @@
-**アルスマグナ**(ARSMAGNA)是活躍在[niconico動畫上的](../Page/niconico動畫.md "wikilink")[Cosplay](../Page/Cosplay.md "wikilink")
+**アルスマグナ**(ARSMAGNA)是活躍在[niconico動畫上的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")[Cosplay](../Page/Cosplay.md "wikilink")
 2.5次元5人舞蹈團體，由九瓏ノ主學園的學生4人、老師1人、與玩偶一隻所組成。
 
-於2011年8月26日組成，2015年2月18日於[環球音樂日本正式出道](../Page/環球音樂.md "wikilink")。
+於2011年8月26日組成，2015年2月18日於[環球音樂日本正式出道](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
-ARSMAGNA於2013年2月15日在[niconico動畫上投稿以](../Page/niconico動畫.md "wikilink")『ギガンティックO.T.N』一曲為底的自創舞蹈影片而出名，因其賣點為前所未見的高速舞蹈與成員五人120%的同步率而在當時造成不小轟動。此影片截至目前為止在[niconico動畫上已經有超過](../Page/niconico動畫.md "wikilink")200萬的點閱率。
+ARSMAGNA於2013年2月15日在[niconico動畫上投稿以](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")『ギガンティックO.T.N』一曲為底的自創舞蹈影片而出名，因其賣點為前所未見的高速舞蹈與成員五人120%的同步率而在當時造成不小轟動。此影片截至目前為止在[niconico動畫上已經有超過](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")200萬的點閱率。
 
-舞蹈風格通常以讓人會心一笑的舞蹈動作為主。ARSMAGNA於[niconico動畫上所投稿的](../Page/niconico動畫.md "wikilink")『踊ってみた』(試著跳跳看了)的影片中的舞蹈大致上由成員之一的九瓏ケント老師所編製、並由老師自己編輯影片而作成；而發行的單曲MV中的舞蹈大致上由其他的舞蹈師與成員們一起討論編製而成。
+舞蹈風格通常以讓人會心一笑的舞蹈動作為主。ARSMAGNA於[niconico動畫上所投稿的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")『踊ってみた』(試著跳跳看了)的影片中的舞蹈大致上由成員之一的九瓏ケント老師所編製、並由老師自己編輯影片而作成；而發行的單曲MV中的舞蹈大致上由其他的舞蹈師與成員們一起討論編製而成。
 
 然而不單單是舞蹈，其成員五人各自的獨特外貌與深厚堅定的背景設定、成員各自的個性與成員間的互動也是引人注目的原因之一。
 
@@ -113,7 +113,7 @@ ARSMAGNA於2013年2月15日在[niconico動畫上投稿以](../Page/niconico動�
 
 因ARSMAGNA組成時需要一位社團顧問，剛好燐和奏在被偉土和樹詢問要不要加入舞蹈社時經過，經詢問後很爽快的答應接下顧問一職。
 
-ARSMAGNA在[niconico動畫上投稿的動畫大致上由老師編舞與影片製作](../Page/niconico動畫.md "wikilink")。
+ARSMAGNA在[niconico動畫上投稿的動畫大致上由老師編舞與影片製作](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。
 
 喜歡在沒人的化學準備室抽上一根菸，在工作後喝上一小杯，大人的餘裕與成熟感也是老師受歡迎的原因之一。
 

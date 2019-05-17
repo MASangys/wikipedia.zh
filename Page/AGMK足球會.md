@@ -1,5 +1,5 @@
 **AGMK足球會**（**FC
-AGMK**）是一支位於[烏茲別克](../Page/烏茲別克.md "wikilink")[阿爾馬雷克的職業足球會](../Page/阿爾馬雷克.md "wikilink")，目前於[烏茲別克職業足球聯賽角逐](../Page/烏茲別克職業足球聯賽.md "wikilink")。
+AGMK**）是一支位於[烏茲別克](https://zh.wikipedia.org/wiki/烏茲別克 "wikilink")[阿爾馬雷克的職業足球會](https://zh.wikipedia.org/wiki/阿爾馬雷克 "wikilink")，目前於[烏茲別克職業足球聯賽角逐](https://zh.wikipedia.org/wiki/烏茲別克職業足球聯賽 "wikilink")。
 
 ## 陣容
 

@@ -1,4 +1,4 @@
-**NEXTON**（ネクストン）是[日本](../Page/日本.md "wikilink")[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，位在[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")，成立於1993年2月24日。\[1\]\[2\]最早是以Nexton的品牌製作發售數款彈珠機遊戲，後來創立其他新品牌並改為製作發售成人遊戲為主。NEXTON社長鈴木昭彦同時也擔任[電腦軟體倫理機構的理事長](../Page/電腦軟體倫理機構.md "wikilink")。\[3\]
+**NEXTON**（ネクストン）是[日本](../Page/日本.md "wikilink")[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，位在[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，成立於1993年2月24日。\[1\]\[2\]最早是以Nexton的品牌製作發售數款彈珠機遊戲，後來創立其他新品牌並改為製作發售成人遊戲為主。NEXTON社長鈴木昭彦同時也擔任[電腦軟體倫理機構的理事長](https://zh.wikipedia.org/wiki/電腦軟體倫理機構 "wikilink")。\[3\]
 
 ## 作品列表
 
@@ -25,14 +25,15 @@
 
 ### Tactics
 
-1998年[麻枝准](../Page/麻枝准.md "wikilink")、[樋上いたる](../Page/樋上いたる.md "wikilink")、[折戶伸治等員工退社並進入](../Page/折戶伸治.md "wikilink")[Visual
+1998年[麻枝准](../Page/麻枝准.md "wikilink")、[樋上いたる](https://zh.wikipedia.org/wiki/樋上いたる "wikilink")、[折戶伸治等員工退社並進入](../Page/折戶伸治.md "wikilink")[Visual
 Art's公司成立](../Page/Visual_Art's.md "wikilink")[Key](../Page/Key_\(遊戲品牌\).md "wikilink")，\[4\]這些員工參與製作的**[同棲](../Page/同棲.md "wikilink")**、**[MOON.](../Page/MOON..md "wikilink")**、**[ONE
-〜輝く季節へ〜](../Page/ONE～光輝的季節～.md "wikilink")**則被轉移到NEXTON。\[5\]\[6\]Tactics的附屬品牌Tactics\*Latte和Tactics
+〜輝く季節へ〜](https://zh.wikipedia.org/wiki/ONE～光輝的季節～ "wikilink")**則被轉移到NEXTON。\[5\]\[6\]Tactics的附屬品牌Tactics\*Latte和Tactics
 Luxury在發售第2作時各自更名為**Latte**和**Luxury**。
 
   - 1997年5月23日 [同棲](../Page/同棲.md "wikilink")
   - 1997年11月21日 [MOON.](../Page/MOON..md "wikilink")
-  - 1998年6月26日 [ONE 〜輝く季節へ〜](../Page/ONE～光輝的季節～.md "wikilink")
+  - 1998年6月26日 [ONE
+    〜輝く季節へ〜](https://zh.wikipedia.org/wiki/ONE～光輝的季節～ "wikilink")
   - 1998年8月21日 [MOON. RENEWAL](../Page/MOON..md "wikilink")
   - 1999年5月28日 鈴がうたう日
   - 2000年1月14日 夕焼け 〜November〜
@@ -278,10 +279,11 @@ Light的作品請參閱[BaseSon](../Page/BaseSon.md "wikilink")。
 
 ### あざらしそふと
 
-  - 2014年12月19日 [アマカノ](../Page/甜蜜女友.md "wikilink")\[7\]
+  - 2014年12月19日
+    [アマカノ](https://zh.wikipedia.org/wiki/甜蜜女友 "wikilink")\[7\]
   - 2015年10月30日 ロイヤルガーデン ～乙女に恋する皇子の戯曲～
   - 2015年12月25日 アマカノ ～Second Season～\[8\]
-  - 2016年12月22日 [アマカノ＋](../Page/甜蜜女友.md "wikilink")
+  - 2016年12月22日 [アマカノ＋](https://zh.wikipedia.org/wiki/甜蜜女友 "wikilink")
   - 2017年1月27日 アイカギ
   - 2017年12月22日 アマカノ ～Second Season～＋
   - 2018年1月26日 アイカギ ～アフターデイズ～

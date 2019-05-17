@@ -1,13 +1,13 @@
-**Homebrew**是一款[自由及](../Page/自由软件.md "wikilink")[开放源代码的](../Page/开源软件.md "wikilink")[软件包管理系统](../Page/软件包管理系统.md "wikilink")，用以简化[macOS系统上的软件安装过程](../Page/macOS.md "wikilink")，最初由马克斯·霍威尔（Max
-Howell）写成。因其[可扩展性得到了一致好评](../Page/可扩展性.md "wikilink")\[1\]，而在[Ruby on
-Rails社区广为人知](../Page/Ruby_on_Rails.md "wikilink")。
+**Homebrew**是一款[自由及](../Page/自由软件.md "wikilink")[开放源代码的](../Page/开源软件.md "wikilink")[软件包管理系统](../Page/软件包管理系统.md "wikilink")，用以简化[macOS系统上的软件安装过程](https://zh.wikipedia.org/wiki/macOS "wikilink")，最初由马克斯·霍威尔（Max
+Howell）写成。因其[可扩展性得到了一致好评](https://zh.wikipedia.org/wiki/可扩展性 "wikilink")\[1\]，而在[Ruby
+on Rails社区广为人知](../Page/Ruby_on_Rails.md "wikilink")。
 
 Homebrew使用[GitHub](../Page/GitHub.md "wikilink")，通过用户的贡献扩大对软件包的支持。2012年，Homebrew是GitHub上拥有最多新贡献者的项目\[2\]。2013年，Homebrew同时成为GitHub上最多贡献者及最多已关闭问题的项目\[3\]。
 
 ## 机制
 
 Homebrew以[Ruby语言写成](../Page/Ruby.md "wikilink")，针对于Mac OS
-X操作系统自带Ruby的版本。默认安装在`/usr/local`，由一个核心[git版本库构成](../Page/git.md "wikilink")，以使用户能更新Homebrew。包管理器使用一种称为“公式”（formula）的[DSL脚本来管理依赖](../Page/领域特定语言.md "wikilink")、下载源代码及配置和编译软件，从源代码中构建软件。称为“瓶”（bottle）的二进制包是用默认选项预编译好的公式。
+X操作系统自带Ruby的版本。默认安装在`/usr/local`，由一个核心[git版本库构成](https://zh.wikipedia.org/wiki/git "wikilink")，以使用户能更新Homebrew。包管理器使用一种称为“公式”（formula）的[DSL脚本来管理依赖](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")、下载源代码及配置和编译软件，从源代码中构建软件。称为“瓶”（bottle）的二进制包是用默认选项预编译好的公式。
 
 ## 逸事
 
@@ -20,10 +20,10 @@ off.*（Google：我们90%的工程师都在用你的软件（Homebrew），但�
 
 ## 参见
 
-  - [Fink](../Page/Fink.md "wikilink")
-  - [Gentoo/Alt](../Page/Gentoo/Alt.md "wikilink")
+  - [Fink](https://zh.wikipedia.org/wiki/Fink "wikilink")
+  - [Gentoo/Alt](https://zh.wikipedia.org/wiki/Gentoo/Alt "wikilink")
   - [MacPorts](../Page/MacPorts.md "wikilink")
-  - [Pkgsrc](../Page/Pkgsrc.md "wikilink")
+  - [Pkgsrc](https://zh.wikipedia.org/wiki/Pkgsrc "wikilink")
 
 ## 参考
 

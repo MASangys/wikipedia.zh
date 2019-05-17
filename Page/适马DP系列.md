@@ -1,8 +1,9 @@
 [Sigma_DP1_02.jpg](https://zh.wikipedia.org/wiki/File:Sigma_DP1_02.jpg "fig:Sigma_DP1_02.jpg")
-**适马DP**是由适马公司推出的不可换镜头数码相机产品系列。其特点在于配置了[APS-C规格的](../Page/APS-C.md "wikilink")[Foveon
-X3感光元件](../Page/Foveon_X3感光元件.md "wikilink")，且镜头都为[定焦设计](../Page/定焦镜头.md "wikilink")，使用[镜间快门](../Page/镜间快门.md "wikilink")，体积相对紧凑。
+**适马DP**是由适马公司推出的不可换镜头数码相机产品系列。其特点在于配置了[APS-C规格的](https://zh.wikipedia.org/wiki/APS-C "wikilink")[Foveon
+X3感光元件](../Page/Foveon_X3感光元件.md "wikilink")，且镜头都为[定焦设计](../Page/定焦镜头.md "wikilink")，使用[镜间快门](https://zh.wikipedia.org/wiki/镜间快门 "wikilink")，体积相对紧凑。
 
-目前DP系列已拥有，涵盖从[超广角](../Page/超广角镜头.md "wikilink")（21mm,DP0 Quattro）到中焦的范围。
+目前DP系列已拥有，涵盖从[超广角](https://zh.wikipedia.org/wiki/超广角镜头 "wikilink")（21mm,DP0
+Quattro）到中焦的范围。
 
 ## 概述
 
@@ -37,14 +38,14 @@ DP系列产品的编号与其他厂家的相机产品有所差异，数字编号
 ### 影响
 
 随着适马DP的诞生，也带动了消费群体对于便携高画质相机的追求，
- 一方面随后诞生的以[微4/3系统为代表的](../Page/微4/3系统.md "wikilink")[可换镜头数码无反相机](../Page/可换镜头数码无反相机.md "wikilink")，保持紧凑体积的同时，提供了接近原本数码单反上才有的大传感器尺寸；
+ 一方面随后诞生的以[微4/3系统为代表的](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")[可换镜头数码无反相机](https://zh.wikipedia.org/wiki/可换镜头数码无反相机 "wikilink")，保持紧凑体积的同时，提供了接近原本数码单反上才有的大传感器尺寸；
  另外一方面，紧凑型数码相机重新成为热点，随后出现的松下LX3、佳能S90和奥林巴斯XZ-1都成为这股浪潮中的代表，而索尼的RX100系列机型将高画质的紧凑型通用机型的竞赛推向了高潮。
 
 ## 历代产品
 
 ### 第一代DP机型
 
-[thumb](../Page/file:Sigma_dp1_front.jpg.md "wikilink")
+[thumb](https://zh.wikipedia.org/wiki/file:Sigma_dp1_front.jpg "wikilink")
 第一款DP1机型于2006年宣布，但是之后因为各种生产原因而延期，直到2008年春季才正式登场\[2\]。
 
 DP1具备等效28mm镜头（实际焦距16.6mm），全开放F4光圈，5群6枚构成。适用于日常题材拍摄。dp1使用20.7×13.8mm尺寸的X3传感器，具备2652×1768×3像素指标，相比通常规格的APS-C较小，但因为特殊的构造，可以抑制伪色的产生。
@@ -61,20 +62,20 @@ DP1的续作产品，DP1s于2009年第4季度登场\[5\]，而等效标准镜头
 
 ### X世代
 
-[thumb](../Page/file:Sigma_DP1x_01.jpg.md "wikilink")
+[thumb](https://zh.wikipedia.org/wiki/file:Sigma_DP1x_01.jpg "wikilink")
 X世代一样具备两台机型：DP1x与DP2x，前者于2010年第4季度登场。
 
 这代机型加入了AFE (Analog Front End)功能。
 
 ### Merrill世代
 
-Merrill世代是进化较大的一代产品，也是新社长[山木和人接手后的第一代新DP产品](../Page/山木和人.md "wikilink")。
+Merrill世代是进化较大的一代产品，也是新社长[山木和人接手后的第一代新DP产品](https://zh.wikipedia.org/wiki/山木和人 "wikilink")。
 
 该世代传感器使用的是与单反产品SD1相同的产品，规格尺寸从原本的20.7×13.8mm([焦距转换率约](../Page/焦距转换率.md "wikilink")1.7x)\[6\]，提升到23.5×15.7mm（焦距转换率约1.5x）\[7\]。像素方面，也从2652×1768×3提升到4800×3200×3。
 
 因为需要保持等效28mm和约40mm的镜头焦距，为了对应扩大化的传感器尺寸，适马也为新DP设计了两枚新镜头，规格分别是19mm
 F2.8与30mm
-F2.8。这两枚镜头也作为独立产品，以[索尼E接环和](../Page/索尼E接环.md "wikilink")[微4/3系统的界面进行发售](../Page/微4/3系统.md "wikilink")，区别在于配置于DP的版本因为内置镜间快门所以稍大，滤镜尺寸为49mm，独立版本滤镜尺寸为46mm。
+F2.8。这两枚镜头也作为独立产品，以[索尼E接环和](../Page/索尼E接环.md "wikilink")[微4/3系统的界面进行发售](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，区别在于配置于DP的版本因为内置镜间快门所以稍大，滤镜尺寸为49mm，独立版本滤镜尺寸为46mm。
 
 这代机型还在2013年追加推出了 DP3 Merrill ，具备50mm焦距，等效为75mm。
 
@@ -207,12 +208,13 @@ DP系列机器设计制造安装EFM-2.0固定镜头的电子组件？》
 
 ## 相关条目
 
-  - [适马](../Page/适马.md "wikilink")
+  - [适马](https://zh.wikipedia.org/wiki/适马 "wikilink")
 
       - 适马SD单反系列 —— 适马的可换镜头单反产品
       - **适马DP系列**
 
-  - [Foveon X3](../Page/Foveon_X3.md "wikilink") —— 俗称的X3传感器
+  - [Foveon X3](https://zh.wikipedia.org/wiki/Foveon_X3 "wikilink") ——
+    俗称的X3传感器
 
   - ——所谓的马赛克阵列传感器
 

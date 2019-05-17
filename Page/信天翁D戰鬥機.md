@@ -1,6 +1,6 @@
-**信天翁D戰鬥機**是由信天翁飛機公司以[信天翁C偵察機的基礎和參考了法國](../Page/信天翁C偵察機.md "wikilink")[紐波特11戰鬥機而研製的雙翼戰鬥機](../Page/紐波特11戰鬥機.md "wikilink")，在[第一次世界大戰期間是繼](../Page/第一次世界大戰.md "wikilink")[福克E單翼戰鬥機後德國空軍的主力戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")。
+**信天翁D戰鬥機**是由信天翁飛機公司以[信天翁C偵察機的基礎和參考了法國](../Page/信天翁C偵察機.md "wikilink")[紐波特11戰鬥機而研製的雙翼戰鬥機](../Page/紐波特11戰鬥機.md "wikilink")，在[第一次世界大戰期間是繼](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[福克E單翼戰鬥機後德國空軍的主力戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")。
 
-不同於[福克飛機公司是由荷蘭人安東尼](../Page/福克飛機公司.md "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林約亨尼斯塔爾區](../Page/柏林.md "wikilink")。
+不同於[福克飛機公司是由荷蘭人安東尼](https://zh.wikipedia.org/wiki/福克飛機公司 "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林約亨尼斯塔爾區](../Page/柏林.md "wikilink")。
 
 ## 基本資料(信天翁D-Va戰鬥機)
 
@@ -21,32 +21,32 @@
 
 [Albatros_D.I.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.I.jpg "fig:Albatros_D.I.jpg")
 
-信天翁D戰鬥機是由[信天翁C偵察機發展出來的](../Page/信天翁C偵察機.md "wikilink")，機身是合乎[流體力學的水滴形而且是整個都是木製的](../Page/流體力學.md "wikilink")，這要比其他木製骨架外覆帆布的飛機要堅固，早期型沿用[信天翁C偵察機的機翼設計](../Page/信天翁C偵察機.md "wikilink")，從D-III開始參考了法國[紐波特11戰鬥機的機翼設計而採用上機翼比下機翼闊](../Page/紐波特11戰鬥機.md "wikilink")，上下機翼以V形支柱連接，這樣的設計兼備了雙翼機的轉彎靈活性和單翼機的高速度，但信天翁D戰鬥機和紐波特11戰鬥機一樣機翼結構脆弱尤其是下機翼，在實戰期間曾發生多次機翼斷裂事故，這個問題一直至D-Va都未能徹底解決，對此唯有告誡飛行員不要做角度過大或時間太久的俯衝。
+信天翁D戰鬥機是由[信天翁C偵察機發展出來的](../Page/信天翁C偵察機.md "wikilink")，機身是合乎[流體力學的水滴形而且是整個都是木製的](https://zh.wikipedia.org/wiki/流體力學 "wikilink")，這要比其他木製骨架外覆帆布的飛機要堅固，早期型沿用[信天翁C偵察機的機翼設計](../Page/信天翁C偵察機.md "wikilink")，從D-III開始參考了法國[紐波特11戰鬥機的機翼設計而採用上機翼比下機翼闊](../Page/紐波特11戰鬥機.md "wikilink")，上下機翼以V形支柱連接，這樣的設計兼備了雙翼機的轉彎靈活性和單翼機的高速度，但信天翁D戰鬥機和紐波特11戰鬥機一樣機翼結構脆弱尤其是下機翼，在實戰期間曾發生多次機翼斷裂事故，這個問題一直至D-Va都未能徹底解決，對此唯有告誡飛行員不要做角度過大或時間太久的俯衝。
 
-延續了[福克E單翼戰鬥機的機槍在機頭而瞄準容易而準確](../Page/福克E單翼戰鬥機.md "wikilink")，信天翁D戰鬥機的機槍也在機頭並以[同步射擊系統穿過螺旋槳開火](../Page/射击断续器.md "wikilink")，而且信天翁D戰鬥機有兩挺機槍而同期的[協約國戰機祇有一挺](../Page/協約國.md "wikilink")，信天翁D戰鬥機比它們要準確和強悍。
+延續了[福克E單翼戰鬥機的機槍在機頭而瞄準容易而準確](../Page/福克E單翼戰鬥機.md "wikilink")，信天翁D戰鬥機的機槍也在機頭並以[同步射擊系統穿過螺旋槳開火](https://zh.wikipedia.org/wiki/射击断续器 "wikilink")，而且信天翁D戰鬥機有兩挺機槍而同期的[協約國戰機祇有一挺](../Page/協約國.md "wikilink")，信天翁D戰鬥機比它們要準確和強悍。
 
 ## 主要型號
 
 [Albatros_D.II.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.II.jpg "fig:Albatros_D.II.jpg")
 [Albatros_D.V_3_vues,_not_D.iii.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.V_3_vues,_not_D.iii.jpg "fig:Albatros_D.V_3_vues,_not_D.iii.jpg")
 
-  - [信天翁D-I戰鬥機](../Page/信天翁D-I戰鬥機.md "wikilink")
+  - [信天翁D-I戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-I戰鬥機 "wikilink")
 
 早期型，可視為[信天翁C偵察機的單座戰鬥機型](../Page/信天翁C偵察機.md "wikilink")，沿用信天翁C偵察機的機翼設計，採用160匹馬力戴姆勒D-III發動機
 
-  - [信天翁D-II戰鬥機](../Page/信天翁D-II戰鬥機.md "wikilink")
+  - [信天翁D-II戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-II戰鬥機 "wikilink")
 
 把上機翼略為向下移以改善上方視野
 
-  - [信天翁D-III戰鬥機](../Page/信天翁D-III戰鬥機.md "wikilink")
+  - [信天翁D-III戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-III戰鬥機 "wikilink")
 
 參考了法國[紐波特11戰鬥機的機翼設計而採用上機翼比下機翼闊](../Page/紐波特11戰鬥機.md "wikilink")，採用170匹馬力戴姆勒D-IIIa發動機
 
-  - [信天翁D-V戰鬥機](../Page/信天翁D-V戰鬥機.md "wikilink")
+  - [信天翁D-V戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-V戰鬥機 "wikilink")
 
 在信天翁D-III的基礎上搞的輕量版(減重32公斤)，兩者外表幾乎無分別
 
-  - [信天翁D-Va戰鬥機](../Page/信天翁D-Va戰鬥機.md "wikilink")
+  - [信天翁D-Va戰鬥機](https://zh.wikipedia.org/wiki/信天翁D-Va戰鬥機 "wikilink")
 
 針對信天翁D-III/D-V戰鬥機因機體結構脆弱而接二連三發生機翼斷裂事故而推出的結構加強版，重量因此比D-V增加55公斤，採用200匹馬力戴姆勒D-IIIaü發動機，但仍未能徹底根除機翼斷裂問題
 
@@ -54,11 +54,11 @@
 
 [Albatros_D.III_(Oef)_253.01.jpg](https://zh.wikipedia.org/wiki/File:Albatros_D.III_\(Oef\)_253.01.jpg "fig:Albatros_D.III_(Oef)_253.01.jpg")
 
-在[第一次世界大戰期間](../Page/第一次世界大戰.md "wikilink")[奧匈帝國獲得受權生產信天翁D](../Page/奧匈帝國.md "wikilink")-III戰鬥機，但奧匈並非簡單的仿製而是針對其機翼脆弱的缺點重新設計內部結構，其內部骨架比德國原廠粗壯一倍，在機翼和機身連接位置也有金屬零件接合，故此由奧匈生產的信天翁D-III戰鬥機從未發生機翼斷裂事故。
+在[第一次世界大戰期間](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[奧匈帝國獲得受權生產信天翁D](https://zh.wikipedia.org/wiki/奧匈帝國 "wikilink")-III戰鬥機，但奧匈並非簡單的仿製而是針對其機翼脆弱的缺點重新設計內部結構，其內部骨架比德國原廠粗壯一倍，在機翼和機身連接位置也有金屬零件接合，故此由奧匈生產的信天翁D-III戰鬥機從未發生機翼斷裂事故。
 
 奧匈飛行員普遍認為信天翁D-III戰鬥機:爬升率、穏定性和靈活性方面皆勝過敵機。
 
-奧匈帝國的信天翁D-III戰鬥機主要拿來對付已改投[協約國陣營的意大利](../Page/協約國.md "wikilink")，而隨著一戰後奧匈帝國解體，奧匈帝國的信天翁D-III戰鬥機都流落到[南斯拉夫和](../Page/南斯拉夫.md "wikilink")[捷克斯洛伐克等國家](../Page/捷克斯洛伐克.md "wikilink")。
+奧匈帝國的信天翁D-III戰鬥機主要拿來對付已改投[協約國陣營的意大利](../Page/協約國.md "wikilink")，而隨著一戰後奧匈帝國解體，奧匈帝國的信天翁D-III戰鬥機都流落到[南斯拉夫和](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")[捷克斯洛伐克等國家](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")。
 
 ## 實戰
 
@@ -70,7 +70,7 @@
 
 1917年初，信天翁D-III戰鬥機開始配發，和舊式的信天翁D-II戰鬥機相比在速度和爬升率方面又進一步領先敵機，最先獲得此機的是第24狩獵中隊和第5狩獵中隊，而隨著信天翁D-III戰鬥機的到來，德國空軍在該年1月總共擊落了31架敵機，2月進一步增至65架，3月更達到150架，但這些戰果和4月相比根本不算什麼，因為在1917年4月在西線上空有245架協約國戰機被擊落和108人被俘，其中大多是英軍，而德軍祇損失66架飛機，這就是「血腥四月」。
 
-在波爾克死後，德國空軍出現了新皇牌飛行員，他就是由波爾克親自提拔的曼弗雷德·冯·里希特霍芬，儘管他以駕駛[福克Dr.I三翼戰鬥機而成名但其實大多數空戰勝利皆是駕駛信天翁D戰鬥機](../Page/福克Dr.I战斗机.md "wikilink")(擊落63架敵機)，當時他已把作為座機的信天翁D-V戰鬥機塗成紅色，這就是他的綽號「紅男爵」的由來，而作為其拍檔的和拿．窩斯也同樣是有名的皇牌飛行員，他駕駛信天翁D-III戰鬥機擊落了33架敵機，另一個駕駛信天翁D戰鬥機的名人就是後來在[第二次世界大戰當中的德國空軍元帥](../Page/第二次世界大戰.md "wikilink")[赫尔曼·戈林](../Page/赫尔曼·戈林.md "wikilink")，戈林駕駛一架黑色機身和白色機尾的信天翁D-V戰鬥機並擊落了10架敵機。
+在波爾克死後，德國空軍出現了新皇牌飛行員，他就是由波爾克親自提拔的曼弗雷德·冯·里希特霍芬，儘管他以駕駛[福克Dr.I三翼戰鬥機而成名但其實大多數空戰勝利皆是駕駛信天翁D戰鬥機](../Page/福克Dr.I战斗机.md "wikilink")(擊落63架敵機)，當時他已把作為座機的信天翁D-V戰鬥機塗成紅色，這就是他的綽號「紅男爵」的由來，而作為其拍檔的和拿．窩斯也同樣是有名的皇牌飛行員，他駕駛信天翁D-III戰鬥機擊落了33架敵機，另一個駕駛信天翁D戰鬥機的名人就是後來在[第二次世界大戰當中的德國空軍元帥](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[赫尔曼·戈林](../Page/赫尔曼·戈林.md "wikilink")，戈林駕駛一架黑色機身和白色機尾的信天翁D-V戰鬥機並擊落了10架敵機。
 
 到了1917年8月，由信天翁D-I至D-Va皆一起在德意志帝國空軍各狩獵中隊使用，從而令德國空軍一度是「信天翁皇朝」，但在此時協約國也推出了各種新式戰鬥機，信天翁D戰鬥機已開始落伍，再加上其機翼折斷隱患，故很多皇牌飛行員之後都改為駕駛其他戰鬥機，不過信天翁D戰鬥機仍然戰鬥至第一次世界大戰的最後一刻。
 
@@ -109,15 +109,15 @@ Kiss)，他在1918年5月24日陣亡以前曾駛信天翁D-III戰鬥機擊落了
 [Albatros_Manfred_von_Richthofen.jpg](https://zh.wikipedia.org/wiki/File:Albatros_Manfred_von_Richthofen.jpg "fig:Albatros_Manfred_von_Richthofen.jpg")
 
   - [奧斯華·波爾克](../Page/奧斯華·波爾克.md "wikilink")
-  - [曼弗雷德·馮·里希特霍芬](../Page/曼弗雷德·馮·里希特霍芬.md "wikilink")
-  - [赫爾曼·戈林](../Page/赫爾曼·戈林.md "wikilink")
-  - [和拿·窩斯](../Page/和拿·窩斯.md "wikilink")
-  - [戈德溫·布魯莫夫斯基](../Page/戈德溫·布魯莫夫斯基.md "wikilink")
+  - [曼弗雷德·馮·里希特霍芬](https://zh.wikipedia.org/wiki/曼弗雷德·馮·里希特霍芬 "wikilink")
+  - [赫爾曼·戈林](https://zh.wikipedia.org/wiki/赫爾曼·戈林 "wikilink")
+  - [和拿·窩斯](https://zh.wikipedia.org/wiki/和拿·窩斯 "wikilink")
+  - [戈德溫·布魯莫夫斯基](https://zh.wikipedia.org/wiki/戈德溫·布魯莫夫斯基 "wikilink")
 
 ## 相關條目
 
   - [福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")
-  - [福克Dr.I戰鬥機](../Page/福克Dr.I戰鬥機.md "wikilink")
+  - [福克Dr.I戰鬥機](https://zh.wikipedia.org/wiki/福克Dr.I戰鬥機 "wikilink")
   - [福克D-VII戰鬥機](../Page/福克D-VII戰鬥機.md "wikilink")
   - [鴿式單翼機](../Page/鴿式單翼機.md "wikilink")
   - [信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")
@@ -125,7 +125,7 @@ Kiss)，他在1918年5月24日陣亡以前曾駛信天翁D-III戰鬥機擊落了
 
 ## 流行文化
 
-  - 在2008年有部以里希特霍芬的事跡做主題的電影\<\<[紅男爵](../Page/紅男爵_\(電影\).md "wikilink")\>\>上映，當中也有信天翁D戰鬥機出場。
+  - 在2008年有部以里希特霍芬的事跡做主題的電影\<\<[紅男爵](https://zh.wikipedia.org/wiki/紅男爵_\(電影\) "wikilink")\>\>上映，當中也有信天翁D戰鬥機出場。
 
 ## 參考書目
 

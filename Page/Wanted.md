@@ -1,4 +1,4 @@
-《**Wanted**》（）為[韓國](../Page/韓國.md "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年6月22日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[49天](../Page/49天.md "wikilink")》、《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》[朴容順導演與新人編劇韓智完攜手合作](../Page/朴容順.md "wikilink")，講述了一名韓國知名女演員為了尋找被綁架的兒子而出演真人秀，根據嫌犯的要求完成任務，孤軍奮戰的故事。
+《**Wanted**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年6月22日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[49天](../Page/49天.md "wikilink")》、《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》[朴容順導演與新人編劇韓智完攜手合作](../Page/朴容順.md "wikilink")，講述了一名韓國知名女演員為了尋找被綁架的兒子而出演真人秀，根據嫌犯的要求完成任務，孤軍奮戰的故事。
 
 ## 演員陣容
 
@@ -14,35 +14,35 @@
 
 ### 電視台相周邊人物
 
-|                                  |        |                                  |                    |
-| -------------------------------- | ------ | -------------------------------- | ------------------ |
-| **演員**                           | **角色** | **粵語配音**                         | **介紹**             |
-| [朴海俊](../Page/朴海俊.md "wikilink") | 宋正浩    | [麥皓豐](../Page/麥皓豐.md "wikilink") | UCN電視台社長，鄭惠仁的現任丈夫。 |
-| [朴孝珠](../Page/朴孝珠.md "wikilink") | 延雨信    | [謝潔貞](../Page/謝潔貞.md "wikilink") | 電視台編劇。             |
-| [全烋星](../Page/全烋星.md "wikilink") | 朴寶妍    | [廖杏茵](../Page/廖杏茵.md "wikilink") | 前職為駭客，現為助理導演(AD)。  |
-| [李文植](../Page/李文植.md "wikilink") | 崔俊九    | [李錦綸](../Page/李錦綸.md "wikilink") | UCN電視台局長。          |
+|                                  |        |                                                     |                    |
+| -------------------------------- | ------ | --------------------------------------------------- | ------------------ |
+| **演員**                           | **角色** | **粵語配音**                                            | **介紹**             |
+| [朴海俊](../Page/朴海俊.md "wikilink") | 宋正浩    | [麥皓豐](../Page/麥皓豐.md "wikilink")                    | UCN電視台社長，鄭惠仁的現任丈夫。 |
+| [朴孝珠](../Page/朴孝珠.md "wikilink") | 延雨信    | [謝潔貞](../Page/謝潔貞.md "wikilink")                    | 電視台編劇。             |
+| [全烋星](../Page/全烋星.md "wikilink") | 朴寶妍    | [廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink") | 前職為駭客，現為助理導演(AD)。  |
+| [李文植](../Page/李文植.md "wikilink") | 崔俊九    | [李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink") | UCN電視台局長。          |
 
 ### 搜查組
 
-|                                  |        |                                                                 |                   |
-| -------------------------------- | ------ | --------------------------------------------------------------- | ----------------- |
-| **演員**                           | **角色** | **粵語配音**                                                        | **介紹**            |
-| [金善映](../Page/金善映.md "wikilink") | 吳美玉    | [朱妙蘭](../Page/朱妙蘭.md "wikilink")→[許盈](../Page/許盈.md "wikilink") |                   |
-| [申載夏](../Page/申載夏.md "wikilink") | 李英觀    | [鄧港文](../Page/鄧港文.md "wikilink")                                | 江南警察局的警察，崇拜車勝仁前輩。 |
-| [金秉玉](../Page/金秉玉.md "wikilink") | 鄭正基    | [張炳強](../Page/張炳強.md "wikilink")                                | 江南警察局的搜查組組長。      |
-| [池賢俊](../Page/池賢俊.md "wikilink") | 朴英植    |                                                                 | 江南警察局的警察。         |
-| [趙敏俊](../Page/趙敏俊.md "wikilink") | 劉東俊    |                                                                 | 江南警察局的警察。         |
+|                                                     |        |                                                                 |                   |
+| --------------------------------------------------- | ------ | --------------------------------------------------------------- | ----------------- |
+| **演員**                                              | **角色** | **粵語配音**                                                        | **介紹**            |
+| [金善映](https://zh.wikipedia.org/wiki/金善映 "wikilink") | 吳美玉    | [朱妙蘭](../Page/朱妙蘭.md "wikilink")→[許盈](../Page/許盈.md "wikilink") |                   |
+| [申載夏](../Page/申載夏.md "wikilink")                    | 李英觀    | [鄧港文](../Page/鄧港文.md "wikilink")                                | 江南警察局的警察，崇拜車勝仁前輩。 |
+| [金秉玉](https://zh.wikipedia.org/wiki/金秉玉 "wikilink") | 鄭正基    | [張炳強](../Page/張炳強.md "wikilink")                                | 江南警察局的搜查組組長。      |
+| [池賢俊](https://zh.wikipedia.org/wiki/池賢俊 "wikilink") | 朴英植    |                                                                 | 江南警察局的警察。         |
+| [趙敏俊](https://zh.wikipedia.org/wiki/趙敏俊 "wikilink") | 劉東俊    |                                                                 | 江南警察局的警察。         |
 
 ### 惠仁周邊人物
 
-|                                  |        |                                  |            |
-| -------------------------------- | ------ | -------------------------------- | ---------- |
-| **演員**                           | **角色** | **粵語配音**                         | **介紹**     |
-| [李承俊](../Page/李承俊.md "wikilink") | 張鎮雄    | [陳卓智](../Page/陳卓智.md "wikilink") | 娛樂記者。      |
-| [朴民洙](../Page/朴民洙.md "wikilink") | 宋賢宇    |                                  | 鄭惠仁的兒子。    |
-| [裴侑藍](../Page/裴侑藍.md "wikilink") | 權景勳    | [劉奕希](../Page/劉奕希.md "wikilink") | 鄭惠仁的經紀人。   |
-| [李在宇](../Page/李在宇.md "wikilink") | 咸泰英    |                                  | 鄭惠仁已去世的前夫。 |
-| [朴浩山](../Page/朴浩山.md "wikilink") | 咸泰燮    |                                  | 鄭惠仁的大伯。    |
+|                                                     |        |                                  |            |
+| --------------------------------------------------- | ------ | -------------------------------- | ---------- |
+| **演員**                                              | **角色** | **粵語配音**                         | **介紹**     |
+| [李承俊](../Page/李承俊.md "wikilink")                    | 張鎮雄    | [陳卓智](../Page/陳卓智.md "wikilink") | 娛樂記者。      |
+| [朴民洙](https://zh.wikipedia.org/wiki/朴民洙 "wikilink") | 宋賢宇    |                                  | 鄭惠仁的兒子。    |
+| [裴侑藍](https://zh.wikipedia.org/wiki/裴侑藍 "wikilink") | 權景勳    | [劉奕希](../Page/劉奕希.md "wikilink") | 鄭惠仁的經紀人。   |
+| [李在宇](https://zh.wikipedia.org/wiki/李在宇 "wikilink") | 咸泰英    |                                  | 鄭惠仁已去世的前夫。 |
+| [朴浩山](https://zh.wikipedia.org/wiki/朴浩山 "wikilink") | 咸泰燮    |                                  | 鄭惠仁的大伯。    |
 
 ### 事件相關人物
 
@@ -61,7 +61,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈恩宇.md" title="wikilink">沈恩宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈恩宇" title="wikilink">沈恩宇</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -73,7 +73,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金藝浚.md" title="wikilink">金藝浚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金藝浚" title="wikilink">金藝浚</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -85,7 +85,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/韓玟.md" title="wikilink">韓玟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓玟" title="wikilink">韓玟</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -97,7 +97,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/安秀彬.md" title="wikilink">安秀彬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安秀彬" title="wikilink">安秀彬</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,25 +109,25 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李在均.md" title="wikilink">李在均</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李在均" title="wikilink">李在均</a></p></td>
 <td><p>羅秀炫</p></td>
 <td><p><a href="../Page/鍾見麟.md" title="wikilink">鍾見麟</a></p></td>
 <td><p>咖啡店工讀生，為主要共犯之一</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朴成根.md" title="wikilink">朴成根</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴成根" title="wikilink">朴成根</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/崔宏一.md" title="wikilink">崔宏一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔宏一" title="wikilink">崔宏一</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/韓佳琳.md" title="wikilink">韓佳琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓佳琳" title="wikilink">韓佳琳</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,18 +143,18 @@
 
 ### 其他人物
 
-|                                       |        |                                  |         |
-| ------------------------------------- | ------ | -------------------------------- | ------- |
-| **演員**                                | **角色** | **粵語配音**                         | **介紹**  |
-| [利旻](../Page/利旻.md "wikilink")        |        |                                  |         |
-| [鄭炫錫](../Page/鄭炫錫.md "wikilink")      |        |                                  | 放送局PD   |
-| [李昌](../Page/李昌_\(演員\).md "wikilink") |        | [潘文柏](../Page/潘文柏.md "wikilink") | 脫口秀節目PD |
-| [金成慶](../Page/金成慶.md "wikilink")      |        | [曾佩儀](../Page/曾佩儀.md "wikilink") | 脫口秀節目MC |
-| [朱宇宰](../Page/朱宇宰.md "wikilink")      |        |                                  |         |
-| [黃英熙](../Page/黃英熙.md "wikilink")      |        | [袁淑珍](../Page/袁淑珍.md "wikilink") |         |
-| [福如雲](../Page/福如雲.md "wikilink")      |        |                                  |         |
-| [高仁範](../Page/高仁範.md "wikilink")      |        |                                  |         |
-| [申英真](../Page/申英真.md "wikilink")      |        |                                  |         |
+|                                                          |        |                                                     |         |
+| -------------------------------------------------------- | ------ | --------------------------------------------------- | ------- |
+| **演員**                                                   | **角色** | **粵語配音**                                            | **介紹**  |
+| [利旻](https://zh.wikipedia.org/wiki/利旻 "wikilink")        |        |                                                     |         |
+| [鄭炫錫](https://zh.wikipedia.org/wiki/鄭炫錫 "wikilink")      |        |                                                     | 放送局PD   |
+| [李昌](https://zh.wikipedia.org/wiki/李昌_\(演員\) "wikilink") |        | [潘文柏](../Page/潘文柏.md "wikilink")                    | 脫口秀節目PD |
+| [金成慶](https://zh.wikipedia.org/wiki/金成慶 "wikilink")      |        | [曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink") | 脫口秀節目MC |
+| [朱宇宰](https://zh.wikipedia.org/wiki/朱宇宰 "wikilink")      |        |                                                     |         |
+| [黃英熙](../Page/黃英熙.md "wikilink")                         |        | [袁淑珍](../Page/袁淑珍.md "wikilink")                    |         |
+| [福如雲](https://zh.wikipedia.org/wiki/福如雲 "wikilink")      |        |                                                     |         |
+| [高仁範](../Page/高仁範.md "wikilink")                         |        |                                                     |         |
+| [申英真](https://zh.wikipedia.org/wiki/申英真 "wikilink")      |        |                                                     |         |
 
 ## 原聲帶
 
@@ -180,7 +180,7 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>TNmS 收視率[1]</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 收視率[2]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 收視率[2]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -301,7 +301,7 @@
 
   - [KBS](../Page/韓國放送公社.md "wikilink")
     ：《[Master－麵條之神](../Page/Master－麵條之神.md "wikilink")》、《[任意依戀](../Page/任意依戀.md "wikilink")》
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[好運羅曼史](../Page/好運羅曼史.md "wikilink")》、《[W](../Page/W_\(電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[好運羅曼史](../Page/好運羅曼史.md "wikilink")》、《[W](https://zh.wikipedia.org/wiki/W_\(電視劇\) "wikilink")》
 
 ## 獎項
 
@@ -324,7 +324,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2016_SBS演技大賞.md" title="wikilink">SBS演技大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2016_SBS演技大賞" title="wikilink">SBS演技大賞</a></p></td>
 <td><p>體裁類電視劇 女子優秀演技賞</p></td>
 <td><p><a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a></p></td>
 <td></td>

@@ -1,6 +1,6 @@
-《**SE7EN**》是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[真人騷節目](../Page/真人騷.md "wikilink")，2016年4月10日至6月5日逢[星期日](../Page/星期日.md "wikilink")21:30-22:30於[ViuTV播放第一季](../Page/ViuTV.md "wikilink")，第二季於2017年1月7日至3月25日逢[星期六](../Page/星期六.md "wikilink")21:30-22:30播放。
+《**SE7EN**》是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年4月10日至6月5日逢[星期日](../Page/星期日.md "wikilink")21:30-22:30於[ViuTV播放第一季](../Page/ViuTV.md "wikilink")，第二季於2017年1月7日至3月25日逢[星期六](../Page/星期六.md "wikilink")21:30-22:30播放。
 
-節目由七位年青人擔任[主持](../Page/主持.md "wikilink")，一起挑戰一些狂想，透過合力實現兒時夢想的過程，讓大家重拾夢想，重拾童年時心底的熱血和對世界的好奇。\[1\]
+節目由七位年青人擔任[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")，一起挑戰一些狂想，透過合力實現兒時夢想的過程，讓大家重拾夢想，重拾童年時心底的熱血和對世界的好奇。\[1\]
 
 第二季七位主持主要是挑戰一些大型賽事及團體活動，從而發揮各主持之間的團隊合作精神。\[2\]
 
@@ -53,7 +53,7 @@
 <td><p>少爺仔</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td><p>Bonde</p></td>
 <td><p>24</p></td>
 <td><p>1-2</p></td>
@@ -67,7 +67,7 @@
 <td><p>朱仔</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a></p></td>
 <td><p>Renci</p></td>
 <td><p>23</p></td>
 <td><p>1-2</p></td>
@@ -101,10 +101,10 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>4月10日</p></td>
-<td><p><a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
 <td><p>紙船過大海</p></td>
 <td><p>用紙製船渡海</p></td>
-<td><p><a href="../Page/西貢.md" title="wikilink">西貢內海</a><a href="../Page/鹽田梓.md" title="wikilink">鹽田梓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西貢" title="wikilink">西貢內海</a><a href="../Page/鹽田梓.md" title="wikilink">鹽田梓</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -130,14 +130,14 @@
 <td><p>5月1日</p></td>
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>一飛沖天</p></td>
-<td><p>載人<a href="../Page/水火箭.md" title="wikilink">水火箭升空</a></p></td>
+<td><p>載人<a href="https://zh.wikipedia.org/wiki/水火箭" title="wikilink">水火箭升空</a></p></td>
 <td><p><a href="../Page/榕樹澳.md" title="wikilink">榕樹澳魚排</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>香港179登島之旅(1)</p></td>
-<td><p>八日內登上香港179個<a href="../Page/離島.md" title="wikilink">離島</a></p></td>
+<td><p>八日內登上香港179個<a href="https://zh.wikipedia.org/wiki/離島" title="wikilink">離島</a></p></td>
 <td><p><a href="../Page/香港島嶼.md" title="wikilink">香港島嶼</a>（<a href="../Page/沙頭角.md" title="wikilink">沙頭角</a>）</p></td>
 <td></td>
 <td></td>
@@ -156,7 +156,7 @@
 <td><p><a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td><p>小巴狂奔</p></td>
 <td><p>跑得比火車快<br />
-（熱身任務：跑得比<a href="../Page/小巴.md" title="wikilink">小巴快</a>）</p></td>
+（熱身任務：跑得比<a href="https://zh.wikipedia.org/wiki/小巴" title="wikilink">小巴快</a>）</p></td>
 <td><p><a href="../Page/竹園北邨.md" title="wikilink">竹園北邨至</a><a href="../Page/黃大仙站.md" title="wikilink">黃大仙站</a><br />
 （<a href="../Page/九龍區專線小巴38M線.md" title="wikilink">九龍區專線小巴38M線</a>）</p></td>
 <td></td>
@@ -168,10 +168,10 @@
 <td><p>5月15日</p></td>
 <td><p>駱振偉</p></td>
 <td><p>挑戰火車速度</p></td>
-<td><p>跑得比<a href="../Page/火車.md" title="wikilink">火車快</a><br />
+<td><p>跑得比<a href="https://zh.wikipedia.org/wiki/火車" title="wikilink">火車快</a><br />
 與火車進行100米賽跑</p></td>
 <td><p><a href="../Page/大學站_(香港).md" title="wikilink">大學站</a><br />
-（<a href="../Page/東鐵線.md" title="wikilink">東鐵線往</a><a href="../Page/紅磡站.md" title="wikilink">紅磡方向</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/東鐵線" title="wikilink">東鐵線往</a><a href="../Page/紅磡站.md" title="wikilink">紅磡方向</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -196,7 +196,7 @@
 <td><p>黃奕晨</p></td>
 <td><p>香港179登島之旅(4)</p></td>
 <td><p>八日內登上香港179個離島</p></td>
-<td><p>香港島嶼（<a href="../Page/西貢區.md" title="wikilink">西貢區</a>、<a href="../Page/香港地質公園.md" title="wikilink">香港地質公園</a>、<a href="../Page/吐露港.md" title="wikilink">吐露港等</a>）</p></td>
+<td><p>香港島嶼（<a href="../Page/西貢區.md" title="wikilink">西貢區</a>、<a href="https://zh.wikipedia.org/wiki/香港地質公園" title="wikilink">香港地質公園</a>、<a href="../Page/吐露港.md" title="wikilink">吐露港等</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -207,17 +207,17 @@
 <td><p>黃奕晨</p></td>
 <td><p>登陸全港179個島嶼最終戰</p></td>
 <td><p>八日內登上香港179個離島</p></td>
-<td><p>香港島嶼（<a href="../Page/青衣島.md" title="wikilink">青衣島</a>、<a href="../Page/赤鱲角.md" title="wikilink">赤鱲角</a>、<a href="../Page/大嶼山.md" title="wikilink">大嶼山</a>、<a href="../Page/屯門.md" title="wikilink">屯門</a>、<a href="../Page/香港南區.md" title="wikilink">香港南區等</a>）</p></td>
+<td><p>香港島嶼（<a href="../Page/青衣島.md" title="wikilink">青衣島</a>、<a href="../Page/赤鱲角.md" title="wikilink">赤鱲角</a>、<a href="../Page/大嶼山.md" title="wikilink">大嶼山</a>、<a href="../Page/屯門.md" title="wikilink">屯門</a>、<a href="https://zh.wikipedia.org/wiki/香港南區" title="wikilink">香港南區等</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>6月5日</p></td>
-<td><p><a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a></p></td>
 <td><p>挑戰垃圾灣<br />
 清走數以噸計垃圾</p></td>
 <td><p>清走垃圾灣上所有垃圾</p></td>
-<td><p><a href="../Page/白沙洲.md" title="wikilink">白沙洲</a>、<a href="../Page/鶴咀.md" title="wikilink">鶴咀</a>、<a href="../Page/石澳.md" title="wikilink">石澳</a><a href="../Page/垃圾灣.md" title="wikilink">垃圾灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白沙洲" title="wikilink">白沙洲</a>、<a href="https://zh.wikipedia.org/wiki/鶴咀" title="wikilink">鶴咀</a>、<a href="../Page/石澳.md" title="wikilink">石澳</a><a href="https://zh.wikipedia.org/wiki/垃圾灣" title="wikilink">垃圾灣</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -288,15 +288,15 @@
 <td><p>2月11日</p></td>
 <td><p>SE7EN全體</p></td>
 <td><p>SE7EN挑戰拉動數十噸民航機</p></td>
-<td><p>SE7EN全體連同嘉賓、香港拔河代表隊隊員、<a href="../Page/香港航空.md" title="wikilink">香港航空代表及</a><a href="../Page/世界宣明會.md" title="wikilink">宣明會代表合共</a>40人挑戰拉動A320飛機[6]<br />
-（嘉賓：<a href="../Page/梁梓禧.md" title="wikilink">梁梓禧</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<a href="../Page/項明生.md" title="wikilink">項明生</a>、<a href="../Page/仇多明.md" title="wikilink">仇多明</a>、<a href="../Page/Jerry.C.md" title="wikilink">Jerry.C</a>）</p></td>
-<td><p><a href="../Page/香港飛機工程公司.md" title="wikilink">HAECO飛機維修廠房</a></p></td>
+<td><p>SE7EN全體連同嘉賓、香港拔河代表隊隊員、<a href="../Page/香港航空.md" title="wikilink">香港航空代表及</a><a href="https://zh.wikipedia.org/wiki/世界宣明會" title="wikilink">宣明會代表合共</a>40人挑戰拉動A320飛機[6]<br />
+（嘉賓：<a href="../Page/梁梓禧.md" title="wikilink">梁梓禧</a>、<a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a>、<a href="../Page/項明生.md" title="wikilink">項明生</a>、<a href="https://zh.wikipedia.org/wiki/仇多明" title="wikilink">仇多明</a>、<a href="https://zh.wikipedia.org/wiki/Jerry.C" title="wikilink">Jerry.C</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港飛機工程公司" title="wikilink">HAECO飛機維修廠房</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2月18日</p></td>
-<td><p>駱振偉、黃奕晨、余曉彤、<a href="../Page/梁諾妍.md" title="wikilink">梁諾妍</a></p></td>
+<td><p>駱振偉、黃奕晨、余曉彤、<a href="https://zh.wikipedia.org/wiki/梁諾妍" title="wikilink">梁諾妍</a></p></td>
 <td><p>SE7EN毅行者挑戰（2）</p></td>
 <td><p><a href="../Page/毅行者.md" title="wikilink">毅行者</a>100公里山路比賽<br />
 （嘉賓：）</p></td>
@@ -342,7 +342,7 @@
 <tr class="odd">
 <td><p>黃奕晨、余曉彤</p></td>
 <td><p><a href="../Page/維港渡海泳.md" title="wikilink">維港渡海泳正式比賽</a></p></td>
-<td><p><a href="../Page/維多利亞港.md" title="wikilink">維多利亞港</a>（由<a href="../Page/鯉魚門.md" title="wikilink">鯉魚門</a><a href="../Page/三家村碼頭.md" title="wikilink">三家村碼頭游到</a><a href="../Page/鰂魚涌公園.md" title="wikilink">鰂魚涌公園</a>）</p></td>
+<td><p><a href="../Page/維多利亞港.md" title="wikilink">維多利亞港</a>（由<a href="../Page/鯉魚門.md" title="wikilink">鯉魚門</a><a href="https://zh.wikipedia.org/wiki/三家村碼頭" title="wikilink">三家村碼頭游到</a><a href="../Page/鰂魚涌公園.md" title="wikilink">鰂魚涌公園</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>

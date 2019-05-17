@@ -1,4 +1,4 @@
-《**REM**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")5首音樂下載限定[單曲](../Page/單曲.md "wikilink")。
+《**REM**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")5首音樂下載限定[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介
 

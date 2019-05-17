@@ -1,13 +1,13 @@
 《**Active
 Raid－機動強襲室第八係－**》是[谷口悟朗擔任總監督](../Page/谷口悟朗.md "wikilink")，[Production
-IMS製作的原創動畫](../Page/Production_IMS.md "wikilink")，電視動畫第1期於2016年1月8日至3月24日播出。第2期《Active
+IMS製作的原創動畫](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")，電視動畫第1期於2016年1月8日至3月24日播出。第2期《Active
 Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 
 ## 故事簡介
 
-東京發生「第三次流沙現象」使得一部分沉入泥濘之中。企業為快速重建復興，以一種高輸出力、外骨骼強化的發明「Willware」進行施工；與此同時利用Willware進行的[犯罪行為日益增加](../Page/犯罪行為.md "wikilink")，為了有效遏止之，警察廳警備局在吉祥寺分室新設了第五特別公安課第三機動強襲室第八係——通稱「第八」。「第八」是一群在層層的法律制約及各種障礙下，以智慧、勇氣及口才向兇惡事件發起挑戰的年輕人。
+東京發生「第三次流沙現象」使得一部分沉入泥濘之中。企業為快速重建復興，以一種高輸出力、外骨骼強化的發明「Willware」進行施工；與此同時利用Willware進行的[犯罪行為日益增加](https://zh.wikipedia.org/wiki/犯罪行為 "wikilink")，為了有效遏止之，警察廳警備局在吉祥寺分室新設了第五特別公安課第三機動強襲室第八係——通稱「第八」。「第八」是一群在層層的法律制約及各種障礙下，以智慧、勇氣及口才向兇惡事件發起挑戰的年輕人。
 
-由於本作的總監督曾經製作《[反逆的魯路修](../Page/反逆的魯路修.md "wikilink")》，本作有一些[致敬鏡頭](../Page/致敬.md "wikilink")。例如第七話的犯人使用了樞木朱雀招牌的跳躍連續踩臉，以及神話與伯德的[全知全能都相當接近魯路修和修奈傑爾的設定](../Page/全知全能.md "wikilink")。
+由於本作的總監督曾經製作《[反逆的魯路修](https://zh.wikipedia.org/wiki/反逆的魯路修 "wikilink")》，本作有一些[致敬鏡頭](../Page/致敬.md "wikilink")。例如第七話的犯人使用了樞木朱雀招牌的跳躍連續踩臉，以及神話與伯德的[全知全能都相當接近魯路修和修奈傑爾的設定](https://zh.wikipedia.org/wiki/全知全能 "wikilink")。
 
 此片諷刺了警察與腐敗官僚之間的黑暗面。
 
@@ -76,7 +76,7 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
   -
 
       -
-        詳見[第八係](../Page/#第八係.md "wikilink")。
+        詳見[第八係](https://zh.wikipedia.org/wiki/#第八係 "wikilink")。
 
   -
 
@@ -206,8 +206,8 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
   - 機械設計：森木靖泰、谷裕司、鈴木勘太
   - 概念設計：寺岡賢司
   - 設計工作：森前和也
-  - 總作畫監督：[渡邊浩二](../Page/渡邊浩二.md "wikilink")、甲田正行、小林真平
-  - 主動畫師：[神戶洋行](../Page/神戶洋行.md "wikilink")
+  - 總作畫監督：[渡邊浩二](https://zh.wikipedia.org/wiki/渡邊浩二 "wikilink")、甲田正行、小林真平
+  - 主動畫師：[神戶洋行](https://zh.wikipedia.org/wiki/神戶洋行 "wikilink")
   - 動作動畫師：石本英治
   - 美術設定：池田繁美、丸山由紀子
   - 美術監督：池田繁美、大久保修一、友野加世子
@@ -218,13 +218,15 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
   - 編集：武村英紀
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂：[中川幸太郎](../Page/中川幸太郎.md "wikilink")
-  - 音樂製作：[飛犬](../Page/飛犬.md "wikilink")
+  - 音樂製作：[飛犬](https://zh.wikipedia.org/wiki/飛犬 "wikilink")
   - 音樂製作人：石川吉元、福士洋介
   - 執行製片人：難波秀行、清水憲忠、小松茂明
   - 製片人：梅田和沙、澤田朋久、尾留川宏之
   - 動畫製作人：黃樹貳悠
-  - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
-  - 製作：ACTIVERAID PARTNERS（[創通](../Page/創通.md "wikilink")、Fields、飛犬）
+  - 動畫製作：[Production
+    IMS](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")
+  - 製作：ACTIVERAID
+    PARTNERS（[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、Fields、飛犬）
 
 ### 主題曲
 
@@ -234,11 +236,12 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 
 ::
 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲、編曲：鴇澤直，主唱：[AKINO](../Page/AKINO.md "wikilink")
-with [bless4](../Page/bless4.md "wikilink")
+with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 片尾曲「透明的夜空（）」
 
-:: 作詞：，作曲、編曲：鴇澤直，主唱：[相坂優歌](../Page/相坂優歌.md "wikilink")
+::
+作詞：，作曲、編曲：鴇澤直，主唱：[相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")
 
 :; 劇中歌「」（第3話）
 
@@ -258,7 +261,7 @@ with [bless4](../Page/bless4.md "wikilink")
 :; 片尾曲「」
 
 ::
-作詞：山本メーコ，作曲、編曲：[IKUO](../Page/IKUO.md "wikilink")，主唱：Liko（[黑澤朋世](../Page/黑澤朋世.md "wikilink")）
+作詞：山本メーコ，作曲、編曲：[IKUO](https://zh.wikipedia.org/wiki/IKUO "wikilink")，主唱：Liko（[黑澤朋世](../Page/黑澤朋世.md "wikilink")）
 
 :; 劇中歌「」（第1話、第3話）
 
@@ -275,7 +278,7 @@ with [bless4](../Page/bless4.md "wikilink")
   -
 
       -
-        作詞：荒川稔久，作曲、編曲：中野定博，主唱：美羽（[内田真礼](../Page/内田真礼.md "wikilink")）
+        作詞：荒川稔久，作曲、編曲：中野定博，主唱：美羽（[内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")）
 
 ### 各話列表
 
@@ -461,16 +464,16 @@ with [bless4](../Page/bless4.md "wikilink")
 <td><p>File 4</p></td>
 <td></td>
 <td><p>神話再臨</p></td>
-<td><p><a href="../Page/千葉克彦.md" title="wikilink">千葉克彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉克彦" title="wikilink">千葉克彦</a></p></td>
 <td></td>
-<td><p><a href="../Page/畠山茂樹.md" title="wikilink">畠山茂樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/畠山茂樹" title="wikilink">畠山茂樹</a></p></td>
 <td><p>津熊武徳、仁井宏隆</p></td>
 </tr>
 <tr class="odd">
 <td><p>File 5</p></td>
 <td></td>
 <td><p>誰才是受益者</p></td>
-<td><p><a href="../Page/大西信介.md" title="wikilink">大西信介</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大西信介" title="wikilink">大西信介</a></p></td>
 <td><p>大石康之</p></td>
 <td><p>森下勇輝、久松沙紀<br />
 山崎展義、藤井裕子<br />
@@ -575,15 +578,15 @@ with [bless4](../Page/bless4.md "wikilink")
 
 ### 播放電視台
 
-| 播放地區                             | 播放電視台                                      | 播放日期              | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播局                                  | 備註 |
-| -------------------------------- | ------------------------------------------ | ----------------- | ----------------------------------------------------------------------- | -------------------------------------- | -- |
-| 第1期                              |                                            |                   |                                                                         |                                        |    |
-| [東京都](../Page/東京都.md "wikilink") | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 2016年1月7日－3月24日   | 星期四 22時00分－22時30分                                                       | [獨立局](../Page/全國獨立放送協議會.md "wikilink") |    |
-| [兵庫縣](../Page/兵庫縣.md "wikilink") | [SUN電視台](../Page/SUN電視台.md "wikilink")     | 星期四 24時30分－25時00分 |                                                                         |                                        |    |
-| [京都府](../Page/京都府.md "wikilink") | [KBS京都](../Page/京都放送.md "wikilink")        | 星期四 25時00分－25時30分 |                                                                         |                                        |    |
-| [愛知縣](../Page/愛知縣.md "wikilink") | [愛知電視台](../Page/愛知電視台.md "wikilink")       | 星期四 26時35分－27時05分 | [東京電視網](../Page/東京電視網.md "wikilink")                                    |                                        |    |
-| 日本全國                             | [BS日視](../Page/BS日視.md "wikilink")         | 2016年1月10日－3月27日  | 星期日 24時30分－25時00分                                                       | [衛星電視](../Page/衛星電視.md "wikilink")     |    |
-|                                  |                                            |                   |                                                                         |                                        |    |
+| 播放地區                                                | 播放電視台                                                         | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播局                                                 | 備註 |
+| --------------------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -- |
+| 第1期                                                 |                                                               |                   |                                                                                                               |                                                       |    |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2016年1月7日－3月24日   | 星期四 22時00分－22時30分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                |    |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期四 24時30分－25時00分 |                                                                                                               |                                                       |    |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](../Page/京都放送.md "wikilink")                           | 星期四 25時00分－25時30分 |                                                                                                               |                                                       |    |
+| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 星期四 26時35分－27時05分 | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                       |    |
+| 日本全國                                                | [BS日視](https://zh.wikipedia.org/wiki/BS日視 "wikilink")         | 2016年1月10日－3月27日  | 星期日 24時30分－25時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") |    |
+|                                                     |                                                               |                   |                                                                                                               |                                                       |    |
 
 ## 參考資料
 
@@ -593,9 +596,9 @@ with [bless4](../Page/bless4.md "wikilink")
 
   -
 
-[分類:日本原創電視動畫](../Page/分類:日本原創電視動畫.md "wikilink")
-[分類:2016年日本電視動畫](../Page/分類:2016年日本電視動畫.md "wikilink")
-[分類:2016年UHF動畫](../Page/分類:2016年UHF動畫.md "wikilink")
-[分類:動力服題材動畫](../Page/分類:動力服題材動畫.md "wikilink")
-[分類:變身英雄](../Page/分類:變身英雄.md "wikilink")
-[分類:少年Jump+](../Page/分類:少年Jump+.md "wikilink")
+[分類:日本原創電視動畫](https://zh.wikipedia.org/wiki/分類:日本原創電視動畫 "wikilink")
+[分類:2016年日本電視動畫](https://zh.wikipedia.org/wiki/分類:2016年日本電視動畫 "wikilink")
+[分類:2016年UHF動畫](https://zh.wikipedia.org/wiki/分類:2016年UHF動畫 "wikilink")
+[分類:動力服題材動畫](https://zh.wikipedia.org/wiki/分類:動力服題材動畫 "wikilink")
+[分類:變身英雄](https://zh.wikipedia.org/wiki/分類:變身英雄 "wikilink")
+[分類:少年Jump+](https://zh.wikipedia.org/wiki/分類:少年Jump+ "wikilink")

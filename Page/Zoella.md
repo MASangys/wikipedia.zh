@@ -1,32 +1,32 @@
-**柔伊·伊莉莎白·薩格**（，），或簡稱**柔伊·薩格**（）\[1\]，是一位[英國時尚美妝](../Page/英國.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")、[Vlogger與](../Page/VLOG.md "wikilink")[作家](../Page/作家.md "wikilink")。她以其[YouTube頻道名稱](../Page/YouTube.md "wikilink")**Zoella**最為人們熟知。她的處女作小說《》於2014年11月出版，並打破自1998年以來諸多紀錄，成為新人作家最高單週銷售量之紀錄保持人。
+**柔伊·伊莉莎白·薩格**（，），或簡稱**柔伊·薩格**（）\[1\]，是一位[英國時尚美妝](https://zh.wikipedia.org/wiki/英國 "wikilink")[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")、[Vlogger與](https://zh.wikipedia.org/wiki/VLOG "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")。她以其[YouTube頻道名稱](../Page/YouTube.md "wikilink")**Zoella**最為人們熟知。她的處女作小說《》於2014年11月出版，並打破自1998年以來諸多紀錄，成為新人作家最高單週銷售量之紀錄保持人。
 
 ## 個人生活
 
-Zoella有一位弟弟[喬·薩格](../Page/喬·薩格.md "wikilink")，他同時也是一位英國知名YouTuber，在Youtube上的名稱為ThatcherJoe\[2\]。她在[威爾特郡](../Page/威爾特郡.md "wikilink")[奇彭勒姆的](../Page/奇彭勒姆.md "wikilink")出生並長大，曾就讀與其附屬中學，目前則定居於[布萊頓](../Page/布萊頓.md "wikilink")\[3\]\[4\]\[5\]\[6\]。
+Zoella有一位弟弟[喬·薩格](https://zh.wikipedia.org/wiki/喬·薩格 "wikilink")，他同時也是一位英國知名YouTuber，在Youtube上的名稱為ThatcherJoe\[2\]。她在[威爾特郡](../Page/威爾特郡.md "wikilink")[奇彭勒姆的](../Page/奇彭勒姆.md "wikilink")出生並長大，曾就讀與其附屬中學，目前則定居於[布萊頓](https://zh.wikipedia.org/wiki/布萊頓 "wikilink")\[3\]\[4\]\[5\]\[6\]。
 
 Zoella目前與同為英國知名的YouTuber交往中，他的YouTube頻道名稱為PointlessBlog\[7\]\[8\]\[9\]。
 
 ## 事業生涯
 
-Zoella於2009年2月時創立她的[博客](../Page/博客.md "wikilink")，當時她在一家[室內設計公司當學徒](../Page/室內設計.md "wikilink")\[10\]\[11\]。在該年年底，博客已有一千多個追隨者，2015年9月，總訪問次數達5億4000萬\[12\]\[13\]\[14\]。
+Zoella於2009年2月時創立她的[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，當時她在一家[室內設計公司當學徒](https://zh.wikipedia.org/wiki/室內設計 "wikilink")\[10\]\[11\]。在該年年底，博客已有一千多個追隨者，2015年9月，總訪問次數達5億4000萬\[12\]\[13\]\[14\]。
 
 2013，Zoella被任命為的大使，為計劃宣傳新推出的青少年社會服務\[15\]\[16\]。次年她被任命為的首位「數碼大使」\[17\]\[18\]。
 
 ### YouTube
 
-Zoella的YouTube主帳號「Zoella」（前名zoella280390）於2007年2月2日創立，主要為時尚與化妝品開箱影片\[19\]\[20\]。其頻道於2009年開始集中於時尚、美容和生活方式方面，當時Zoella在一家英國服裝零售商裡工作\[21\]\[22\]。其次要頻道為「MoreZoella」，創建於2012年9月4日，主要為[Vlog](../Page/影像網誌.md "wikilink")\[23\]。Zoella同時亦是[多頻道聯播網](../Page/多频道网络.md "wikilink")的成員與Gleam
+Zoella的YouTube主帳號「Zoella」（前名zoella280390）於2007年2月2日創立，主要為時尚與化妝品開箱影片\[19\]\[20\]。其頻道於2009年開始集中於時尚、美容和生活方式方面，當時Zoella在一家英國服裝零售商裡工作\[21\]\[22\]。其次要頻道為「MoreZoella」，創建於2012年9月4日，主要為[Vlog](https://zh.wikipedia.org/wiki/影像網誌 "wikilink")\[23\]。Zoella同時亦是[多頻道聯播網](https://zh.wikipedia.org/wiki/多频道网络 "wikilink")的成員與Gleam
 Futures的[代表之一](../Page/人才中介.md "wikilink")\[24\]\[25\]\[26\]\[27\]，因此Zoella偶爾會與其他YouTuber出現於Gleam
 Futures的管理者的YouTube頻道中\[28\]。與她合作的YouTuber包括、、、[泰勒·奧克利](../Page/泰勒·奧克利.md "wikilink")、[特洛伊·希文和](../Page/特洛伊·希文.md "wikilink")[格雷斯·赫爾比希等](../Page/格雷斯·赫爾比希.md "wikilink")。
 
-Zoella在[社群媒體有一定影響力](../Page/社群媒體.md "wikilink")，《[每日電訊報](../Page/每日電訊報.md "wikilink")》於2013年稱他為「英國最具影響力的Tweeters」之一\[29\]\[30\]。，Zoella的主頻道已有1,048萬訂閱者與7億2000萬觀看次數，次要頻道「MoreZoella」也有399萬訂閱者與4億300萬的觀看次數\[31\]\[32\]\[33\]\[34\]。[Twitter與](../Page/Twitter.md "wikilink")[Instagram方面則分別有](../Page/Instagram.md "wikilink")467萬和790萬的追隨者\[35\]\[36\]\[37\]。
+Zoella在[社群媒體有一定影響力](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")，《[每日電訊報](https://zh.wikipedia.org/wiki/每日電訊報 "wikilink")》於2013年稱他為「英國最具影響力的Tweeters」之一\[29\]\[30\]。，Zoella的主頻道已有1,048萬訂閱者與7億2000萬觀看次數，次要頻道「MoreZoella」也有399萬訂閱者與4億300萬的觀看次數\[31\]\[32\]\[33\]\[34\]。[Twitter與](../Page/Twitter.md "wikilink")[Instagram方面則分別有](../Page/Instagram.md "wikilink")467萬和790萬的追隨者\[35\]\[36\]\[37\]。
 
 ### 音樂
 
-Zoella是的成員之一，參與演唱為[2014年西非伊波拉病毒疫情籌款的](../Page/2014年西非伊波拉病毒疫情.md "wikilink")《[他們知道現在是聖誕節嗎？](../Page/他們知道現在是聖誕節嗎？.md "wikilink")》2014年版本\[38\]\[39\]\[40\]。
+Zoella是的成員之一，參與演唱為[2014年西非伊波拉病毒疫情籌款的](https://zh.wikipedia.org/wiki/2014年西非伊波拉病毒疫情 "wikilink")《[他們知道現在是聖誕節嗎？](https://zh.wikipedia.org/wiki/他們知道現在是聖誕節嗎？ "wikilink")》2014年版本\[38\]\[39\]\[40\]。
 
 ### 電視出演
 
-2014年7月，Zoella在英國[獨立電視台的](../Page/獨立電視台_\(頻道\).md "wikilink")[清談節目](../Page/清談節目.md "wikilink")《》中登場\[41\]\[42\]。之後她也在娛樂節目《》出現，時間跟電視台和《放盪女性》一樣都是2014年7月與獨立電視台\[43\]\[44\]。2015年，Zoella獲邀請參加[BBC的](../Page/BBC.md "wikilink")《[大搞笑烤焗大賽](../Page/大英烤焗大賽.md "wikilink")》\[45\]\[46\]。
+2014年7月，Zoella在英國[獨立電視台的](https://zh.wikipedia.org/wiki/獨立電視台_\(頻道\) "wikilink")[清談節目](https://zh.wikipedia.org/wiki/清談節目 "wikilink")《》中登場\[41\]\[42\]。之後她也在娛樂節目《》出現，時間跟電視台和《放盪女性》一樣都是2014年7月與獨立電視台\[43\]\[44\]。2015年，Zoella獲邀請參加[BBC的](https://zh.wikipedia.org/wiki/BBC "wikilink")《[大搞笑烤焗大賽](https://zh.wikipedia.org/wiki/大英烤焗大賽 "wikilink")》\[45\]\[46\]。
 
 Zoella曾與和[Vice新聞合作拍廣告](../Page/Vice新聞.md "wikilink")，並於2014年9月25日開始在電視、印刷品和[看板上刊登或播放](../Page/看板.md "wikilink")\[47\]\[48\]\[49\]。其中電視廣告會在英國3家電視台的黃金時段內播放\[50\]\[51\]\[52\]。
 
@@ -86,14 +86,14 @@ Beauty」，開始推出多種美容用品\[53\]\[54\]\[55\]\[56\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兒童票選獎.md" title="wikilink">兒童票選獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兒童票選獎" title="wikilink">兒童票選獎</a></p></td>
 <td><p>英國最受歡迎Vlogger</p></td>
 <td></td>
 <td><p>[64]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/青少年選擇獎.md" title="wikilink">青少年選擇獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青少年選擇獎" title="wikilink">青少年選擇獎</a></p></td>
 <td><p>最佳網路明星－時尚美妝類</p></td>
 <td></td>
 <td><p>[65][66]</p></td>

@@ -13,48 +13,48 @@ Studios**），是美国的游戏开发商。曾经是内华达娱乐的一部�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Playstation_2.md" title="wikilink">PS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Playstation_2" title="wikilink">PS2</a></p></td>
 <td><p><a href="../Page/PlayStation_3.md" title="wikilink">PS3</a></p></td>
 <td><p><a href="../Page/PlayStation_4.md" title="wikilink">PS4</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><em><a href="../Page/Darkwatch.md" title="wikilink">Darkwatch</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Darkwatch" title="wikilink">Darkwatch</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><em><a href="../Page/Robert_Ludlum&#39;s_The_Bourne_Conspiracy.md" title="wikilink">Robert Ludlum's The Bourne Conspiracy</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Robert_Ludlum&#39;s_The_Bourne_Conspiracy" title="wikilink">Robert Ludlum's The Bourne Conspiracy</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><em><a href="../Page/Transformers:_War_for_Cybertron.md" title="wikilink">Transformers: War for Cybertron</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Transformers:_War_for_Cybertron" title="wikilink">Transformers: War for Cybertron</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><em><a href="../Page/Transformers:_Dark_of_the_Moon_(video_game).md" title="wikilink">Transformers: Dark of the Moon</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon_(video_game)" title="wikilink">Transformers: Dark of the Moon</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><em><a href="../Page/Transformers:_Fall_of_Cybertron.md" title="wikilink">Transformers: Fall of Cybertron</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Transformers:_Fall_of_Cybertron" title="wikilink">Transformers: Fall of Cybertron</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><em><a href="../Page/Deadpool_(video_game).md" title="wikilink">Deadpool</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Deadpool_(video_game)" title="wikilink">Deadpool</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><em><a href="../Page/Call_of_Duty:_Advanced_Warfare.md" title="wikilink">Call of Duty: Advanced Warfare</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare" title="wikilink">Call of Duty: Advanced Warfare</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><em><a href="../Page/Destiny_(video_game).md" title="wikilink">Destiny</a></em>[3]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Destiny_(video_game)" title="wikilink">Destiny</a></em>[3]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -67,7 +67,8 @@ Studios**），是美国的游戏开发商。曾经是内华达娱乐的一部�
   -
   - [*High Moon
     Studios*](http://www.mobygames.com/company/high-moon-studios-inc)
-    profile on [MobyGames](../Page/MobyGames.md "wikilink")
+    profile on
+    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
 [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
 [Category:2001年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2001年開業電子遊戲公司 "wikilink")

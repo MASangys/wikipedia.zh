@@ -27,11 +27,11 @@ Storm](../Page/J_Storm.md "wikilink")。
 3.  **想念你**（君への想い）
       -
         作詞：wonder note・Macoto56、Rap詞：櫻井翔、作曲：wonder
-        note、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
+        note、編曲：[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")
 4.  **Don't you love me?**
     : 作詞：wonder note・paddy、作曲：takarot・wonder note、編曲：石塚知生
       -
-        [松本潤獨唱](../Page/松本潤.md "wikilink")
+        [松本潤獨唱](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
 5.  **Miyabi-night**
     : 作詞：Makoto56、AKJ & ASIL、作曲：AKJ & ASIL、編曲：A.K.Janeway
 6.  **三日月**
@@ -42,9 +42,10 @@ Storm](../Page/J_Storm.md "wikilink")。
     : 作詞：youth case、Rap詞：Shigeo、作曲：Ricky Hanley、Daniel
     Sherman、編曲：metropolitan digital clique
       -
-        [相葉雅紀獨唱](../Page/相葉雅紀.md "wikilink")
+        [相葉雅紀獨唱](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")
 9.  **曉**
-    : 作詞：s-Tnk、作曲・編曲：[三留一純](../Page/三留一純.md "wikilink")
+    :
+    作詞：s-Tnk、作曲・編曲：[三留一純](https://zh.wikipedia.org/wiki/三留一純 "wikilink")
       -
         [大野智獨唱](../Page/大野智.md "wikilink")
 10. **[青空下，和你一起](../Page/青空下，和你一起.md "wikilink")**（青空の下、キミのとなり）
@@ -60,10 +61,10 @@ Storm](../Page/J_Storm.md "wikilink")。
     : 作詞：小川貴史、Rap詞：櫻井翔、作曲・編曲：Jeremy Hammond
 13. **Masquerade**（マスカレード）
     :
-    作詞・作曲：[HYDRANT](../Page/HYDRANT.md "wikilink")、編曲：[船山基紀](../Page/船山基紀.md "wikilink")
+    作詞・作曲：[HYDRANT](https://zh.wikipedia.org/wiki/HYDRANT "wikilink")、編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
 14. **MUSIC**
     :
-    作詞：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")、作曲：[古川貴浩](../Page/古川貴浩.md "wikilink")、編曲：[吉岡たく](../Page/吉岡たく.md "wikilink")
+    作詞：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")、作曲：[古川貴浩](https://zh.wikipedia.org/wiki/古川貴浩 "wikilink")、編曲：[吉岡たく](https://zh.wikipedia.org/wiki/吉岡たく "wikilink")
       -
         [二宮和也獨唱](../Page/二宮和也.md "wikilink")
 15. **想告訴你的**（伝えたいこと）
@@ -71,7 +72,7 @@ Storm](../Page/J_Storm.md "wikilink")。
     Kawaguchi、編曲：pieni tonttu
 16. **Japonesque**
     :
-    作詞：MiNE、R.P.P、作曲：sk-etch、MiNE、編曲：[ha-j](../Page/ha-j.md "wikilink")、sk-etch
+    作詞：MiNE、R.P.P、作曲：sk-etch、MiNE、編曲：[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink")、sk-etch
 
 <!-- end list -->
 
@@ -112,7 +113,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 
 1.  **日本Yoitoko摩訶不思議**（日本よいとこ摩訶不思議）
     :
-    作詞・作曲：[野村義男](../Page/野村義男.md "wikilink")、編曲：[佐々木博史](../Page/佐々木博史.md "wikilink")
+    作詞・作曲：[野村義男](https://zh.wikipedia.org/wiki/野村義男 "wikilink")、編曲：[佐々木博史](https://zh.wikipedia.org/wiki/佐々木博史 "wikilink")
 
 ### 通常盤
 
@@ -147,7 +148,7 @@ Storm](../Page/J_Storm.md "wikilink")。
     : 作詞：SQUAREF、John World、作曲：Pippi Svensson、Josef Melin、編曲：BJ Khan
 2.  **the Deep End**
     : 作詞：100+、作曲：STEVEN LEE、[Drew Ryan
-    Scott](../Page/アフター・ロミオ.md "wikilink")、Andreas
+    Scott](https://zh.wikipedia.org/wiki/アフター・ロミオ "wikilink")、Andreas
     Oberg、編曲：A.K.Janeway
 3.  **Make a wish**
     : 作詞：いなむらさちこ、作曲：sk-etch、Shu Kanematsu、BEAT、ROLF、編曲：佐々木博史

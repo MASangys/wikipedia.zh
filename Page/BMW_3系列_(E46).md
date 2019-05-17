@@ -1,7 +1,7 @@
-**BMW E46**是德國[寶馬公司](../Page/寶馬.md "wikilink")[BMW
-3系列車型第四代](../Page/BMW_3系列.md "wikilink")，是[E36的換代產品](../Page/BMW_E36.md "wikilink")。
+**BMW E46**是德國[寶馬公司](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[BMW
+3系列車型第四代](../Page/BMW_3系列.md "wikilink")，是[E36的換代產品](https://zh.wikipedia.org/wiki/BMW_E36 "wikilink")。
 
-1998年5月E46[四門轎車版首次公佈](../Page/四門轎車.md "wikilink")。次年，雙門轎跑和旅行車上市。2000年，[敞篷車和](../Page/敞篷車.md "wikilink")[掀背車型也開始發售](../Page/掀背車.md "wikilink")。掀背車型僅供應歐洲，南非，澳大利亞和新西蘭市場。E46推出市場後廣受好評，其駕駛性能是同級別車輛中的佼佼者。\[1\]2002年E46銷量達到頂峰，當年全球各型號共賣出了561,249台。.\[2\]市場主要的競爭者為[阿尔法·罗密欧](../Page/阿尔法·罗密欧.md "wikilink")[156](../Page/阿尔法·罗密欧156.md "wikilink")，[奧迪A4](../Page/奧迪A4.md "wikilink")，[凌志IS](../Page/凌志IS.md "wikilink")，[梅赛德斯-奔驰C级](../Page/梅赛德斯-奔驰C级.md "wikilink")，[紳寶9-3和](../Page/紳寶9-3.md "wikilink")[富豪](../Page/富豪汽車.md "wikilink")[S60](../Page/沃爾沃S60.md "wikilink")。
+1998年5月E46[四門轎車版首次公佈](https://zh.wikipedia.org/wiki/四門轎車 "wikilink")。次年，雙門轎跑和旅行車上市。2000年，[敞篷車和](https://zh.wikipedia.org/wiki/敞篷車 "wikilink")[掀背車型也開始發售](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。掀背車型僅供應歐洲，南非，澳大利亞和新西蘭市場。E46推出市場後廣受好評，其駕駛性能是同級別車輛中的佼佼者。\[1\]2002年E46銷量達到頂峰，當年全球各型號共賣出了561,249台。.\[2\]市場主要的競爭者為[阿尔法·罗密欧](../Page/阿尔法·罗密欧.md "wikilink")[156](https://zh.wikipedia.org/wiki/阿尔法·罗密欧156 "wikilink")，[奧迪A4](../Page/奧迪A4.md "wikilink")，[凌志IS](../Page/凌志IS.md "wikilink")，[梅赛德斯-奔驰C级](../Page/梅赛德斯-奔驰C级.md "wikilink")，[紳寶9-3和](../Page/紳寶9-3.md "wikilink")[富豪](../Page/富豪汽車.md "wikilink")[S60](https://zh.wikipedia.org/wiki/沃爾沃S60 "wikilink")。
 
 [BMW
 M公司在E](../Page/BMW_M公司.md "wikilink")46的車體上開發了高性能版本[M3](../Page/BMW_M3.md "wikilink")，和基型E46相比裝備了大功率引擎，[限滑差速器](../Page/限滑差速器.md "wikilink")，運動減震裝置和空氣動力學套件。E46版M3與2001年上市，僅有雙門硬頂和雙門敞篷兩個版本，並有6速手動變速器和或電控手動變速器可供選擇。
@@ -10,10 +10,10 @@ M公司在E](../Page/BMW_M公司.md "wikilink")46的車體上開發了高性能�
 
 ### 外型特徵
 
-E46型在外型特徵上和前代E36有著革命性的變化。1991年寶馬控股美國外觀[工業設計公司DesignWorksUSA後不久](../Page/工業設計.md "wikilink")，即開始新一代BMW
+E46型在外型特徵上和前代E36有著革命性的變化。1991年寶馬控股美國外觀[工業設計公司DesignWorksUSA後不久](https://zh.wikipedia.org/wiki/工業設計 "wikilink")，即開始新一代BMW
 3系列設計工作。1995年，Erik
 Goplen設計了E46的初稿，並由DesignWorksUSA和BMW的工程師協作完善。1996年1月，Chris
-Bangle受命對外觀設計進行完善。2月，設計正式被採納。外觀設計從E36出發，設計組重點提升了車輛的[空氣動力學性能和增加外觀的侵略性](../Page/空氣動力學.md "wikilink")。新設計與1997年7月16日和1998年2月16日分別在德國和美國申請[專利](../Page/專利.md "wikilink")。由於前代E39深得市場認可，因此新代車外型在起初並未獲得公眾及汽車媒體廣泛讚美。新車部分設計顯得和寶馬傳統“離經叛道”，如圓角化外型，側面看傾斜的車頂曲線，招致部分寶馬資深擁躉的不滿。1996年1月至1998年1月，進行生產籌備。雙門版也由Erik
+Bangle受命對外觀設計進行完善。2月，設計正式被採納。外觀設計從E36出發，設計組重點提升了車輛的[空氣動力學性能和增加外觀的侵略性](https://zh.wikipedia.org/wiki/空氣動力學 "wikilink")。新設計與1997年7月16日和1998年2月16日分別在德國和美國申請[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")。由於前代E39深得市場認可，因此新代車外型在起初並未獲得公眾及汽車媒體廣泛讚美。新車部分設計顯得和寶馬傳統“離經叛道”，如圓角化外型，側面看傾斜的車頂曲線，招致部分寶馬資深擁躉的不滿。1996年1月至1998年1月，進行生產籌備。雙門版也由Erik
 Goplen設計，大約在1996-1997年間完成。
 
 ### 內飾設計
@@ -22,8 +22,8 @@ Goplen設計，大約在1996-1997年間完成。
 
 ### 動力裝置
 
-E46動力裝置的設計重點在於減少[簧下質量和增加車體](../Page/簧下質量.md "wikilink")[剛性以適應大馬力發動機和劇烈操作](../Page/剛性.md "wikilink")。1998年上市首批E46中，發動機最大的328i僅僅比前E36
-328i增加了3馬力，但車體堅固程度卻增加了70%（BMW廠方聲明）。\[3\]為減輕簧下質量，大量懸掛裝置部件改為鈦合金製造。\[4\]E46有[前置後驅和](../Page/前置後驅.md "wikilink")[四輪驅動](../Page/四輪驅動.md "wikilink")（xi）兩個版本。根據傳統BMW將車總重分配前後軸各佔50%，\[5\]</ref>\[6\]\[7\]使得兩種方式下都能獲得極好的操縱性能。
+E46動力裝置的設計重點在於減少[簧下質量和增加車體](https://zh.wikipedia.org/wiki/簧下質量 "wikilink")[剛性以適應大馬力發動機和劇烈操作](https://zh.wikipedia.org/wiki/剛性 "wikilink")。1998年上市首批E46中，發動機最大的328i僅僅比前E36
+328i增加了3馬力，但車體堅固程度卻增加了70%（BMW廠方聲明）。\[3\]為減輕簧下質量，大量懸掛裝置部件改為鈦合金製造。\[4\]E46有[前置後驅和](https://zh.wikipedia.org/wiki/前置後驅 "wikilink")[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")（xi）兩個版本。根據傳統BMW將車總重分配前後軸各佔50%，\[5\]</ref>\[6\]\[7\]使得兩種方式下都能獲得極好的操縱性能。
 
 #### 各型號
 
@@ -43,260 +43,260 @@ E46動力裝置的設計重點在於減少[簧下質量和增加車體](../Page/
 <tbody>
 <tr class="odd">
 <td><p>316[9]</p></td>
-<td><p><a href="../Page/BMW_M43#M43B19.md" title="wikilink">M43B19</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M43#M43B19" title="wikilink">M43B19</a></p></td>
 <td><p>1999–2001</p></td>
 <td></td>
-<td><p><a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 8v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 8v</p></td>
 <td></td>
 <td></td>
 <td><p>10.3 s</p></td>
 </tr>
 <tr class="even">
 <td><p>316[10]</p></td>
-<td><p><a href="../Page/BMW_N42#N42B18.md" title="wikilink">N42B18</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_N42#N42B18" title="wikilink">N42B18</a></p></td>
 <td><p>2001–2005</p></td>
 <td></td>
-<td><p><a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td></td>
 <td></td>
 <td><p>10.0 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>318[11]</p></td>
-<td><p><a href="../Page/BMW_M43#M43B19.md" title="wikilink">M43B19</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M43#M43B19" title="wikilink">M43B19</a></p></td>
 <td><p>1998–2001</p></td>
 <td></td>
-<td><p><a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 8v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 8v</p></td>
 <td></td>
 <td></td>
 <td><p>9.7 s</p></td>
 </tr>
 <tr class="even">
 <td><p>318[12]</p></td>
-<td><p><a href="../Page/BMW_N42#N42B20.md" title="wikilink">N42B20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_N42#N42B20" title="wikilink">N42B20</a></p></td>
 <td><p>2001–2005</p></td>
 <td></td>
-<td><p><a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td></td>
 <td></td>
 <td><p>9.3 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>318Ci[13]</p></td>
-<td><p><a href="../Page/BMW_N46#N46B20.md" title="wikilink">N46B20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_N46#N46B20" title="wikilink">N46B20</a></p></td>
 <td><p>2003–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td></td>
 <td></td>
 <td><p>9.3 s</p></td>
 </tr>
 <tr class="even">
 <td><p>318d[14]</p></td>
-<td><p><a href="../Page/BMW_M47#M47D20.md" title="wikilink">M47D20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M47#M47D20" title="wikilink">M47D20</a></p></td>
 <td><p>1999–2001</p></td>
 <td></td>
-<td><p>|<a href="../Page/Turbodiesel.md" title="wikilink">Turbodiesel</a> <a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/Turbodiesel" title="wikilink">Turbodiesel</a> <a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td><p>|</p></td>
 <td></td>
 <td><p>200.1 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>318d[15]</p></td>
-<td><p><a href="../Page/BMW_M47#M47TUD20.md" title="wikilink">M47TUD20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M47#M47TUD20" title="wikilink">M47TUD20</a></p></td>
 <td><p>2001–2005</p></td>
 <td></td>
-<td><p>|<a href="../Page/Turbodiesel.md" title="wikilink">Turbodiesel</a> <a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/Turbodiesel" title="wikilink">Turbodiesel</a> <a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td><p>|</p></td>
 <td></td>
 <td><p>100.8 s</p></td>
 </tr>
 <tr class="even">
 <td><p>320[16]</p></td>
-<td><p><a href="../Page/BMW_M52#M52TUB20.md" title="wikilink">M52TUB20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M52#M52TUB20" title="wikilink">M52TUB20</a></p></td>
 <td><p>1998–2000</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>5.8 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>320[17]</p></td>
-<td><p><a href="../Page/BMW_M54#M54B22.md" title="wikilink">M54B22</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M54#M54B22" title="wikilink">M54B22</a></p></td>
 <td><p>2000–2001</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>7.0 s</p></td>
 </tr>
 <tr class="even">
 <td><p>320[18][19]</p></td>
-<td><p><a href="../Page/BMW_M54#M54B22.md" title="wikilink">M54B22</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M54#M54B22" title="wikilink">M54B22</a></p></td>
 <td><p>2001–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>6.9 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>320d[20]</p></td>
-<td><p><a href="../Page/BMW_M47#M47D20.md" title="wikilink">M47D20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M47#M47D20" title="wikilink">M47D20</a></p></td>
 <td><p>1998–2001</p></td>
 <td></td>
-<td><p><a href="../Page/Turbodiesel.md" title="wikilink">Turbodiesel</a> <a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Turbodiesel" title="wikilink">Turbodiesel</a> <a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td></td>
 <td></td>
 <td><p>9.9 s</p></td>
 </tr>
 <tr class="even">
 <td><p>320d[21]</p></td>
-<td><p><a href="../Page/BMW_M47#M47TUD20.md" title="wikilink">M47TUD20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M47#M47TUD20" title="wikilink">M47TUD20</a></p></td>
 <td><p>2001–2003</p></td>
 <td></td>
-<td><p><a href="../Page/Turbodiesel.md" title="wikilink">Turbodiesel</a> <a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Turbodiesel" title="wikilink">Turbodiesel</a> <a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td></td>
 <td></td>
 <td><p>8.8 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>320d[22][23]</p></td>
-<td><p><a href="../Page/BMW_M47#M47TUD20.md" title="wikilink">M47TUD20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M47#M47TUD20" title="wikilink">M47TUD20</a></p></td>
 <td><p>2003–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Turbodiesel.md" title="wikilink">Turbodiesel</a> <a href="../Page/Inline-four_engine.md" title="wikilink">I4</a>, 16v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Turbodiesel" title="wikilink">Turbodiesel</a> <a href="https://zh.wikipedia.org/wiki/Inline-four_engine" title="wikilink">I4</a>, 16v</p></td>
 <td></td>
 <td></td>
 <td><p>8.7 s</p></td>
 </tr>
 <tr class="even">
 <td><p>323[24]</p></td>
-<td><p><a href="../Page/BMW_M52#M52TUB25.md" title="wikilink">M52TUB25</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M52#M52TUB25" title="wikilink">M52TUB25</a></p></td>
 <td><p>1998–2000</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>7.9 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>325 (EU)[25][26]</p></td>
-<td><p><a href="../Page/BMW_M54#M54B25.md" title="wikilink">M54B25</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M54#M54B25" title="wikilink">M54B25</a></p></td>
 <td><p>2001–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>8.0 s</p></td>
 </tr>
 <tr class="even">
 <td><p>325 (US)[27][28]</p></td>
-<td><p><a href="../Page/BMW_M54#M54B25.md" title="wikilink">M54B25</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M54#M54B25" title="wikilink">M54B25</a></p></td>
 <td><p>2001–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>8.4 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>328[29]</p></td>
-<td><p><a href="../Page/BMW_M52#M52TUB28.md" title="wikilink">M52TUB28</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M52#M52TUB28" title="wikilink">M52TUB28</a></p></td>
 <td><p>1998–2000</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>7.1 s</p></td>
 </tr>
 <tr class="even">
 <td><p>330[30][31][32]</p></td>
-<td><p><a href="../Page/BMW_M54#M54B30.md" title="wikilink">M54B30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M54#M54B30" title="wikilink">M54B30</a></p></td>
 <td><p>2000–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>| 6.6 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>330 (US)[33][34]</p></td>
-<td><p><a href="../Page/BMW_M54#M54B30.md" title="wikilink">M54B30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M54#M54B30" title="wikilink">M54B30</a></p></td>
 <td><p>2003–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>| 12.8 s</p></td>
 </tr>
 <tr class="even">
 <td><p>330d[35][36]</p></td>
-<td><p><a href="../Page/BMW_M57#M57D30.md" title="wikilink">M57D30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M57#M57D30" title="wikilink">M57D30</a></p></td>
 <td><p>1999–2002</p></td>
 <td></td>
-<td><p><a href="../Page/Turbodiesel.md" title="wikilink">Turbodiesel</a> <a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Turbodiesel" title="wikilink">Turbodiesel</a> <a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>11.1 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>330d[37]</p></td>
-<td><p><a href="../Page/BMW_M57#M57TUD30.md" title="wikilink">M57TUD30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M57#M57TUD30" title="wikilink">M57TUD30</a></p></td>
 <td><p>2003–2005</p></td>
 <td></td>
-<td><p><a href="../Page/Turbodiesel.md" title="wikilink">Turbodiesel</a> <a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Turbodiesel" title="wikilink">Turbodiesel</a> <a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>7.1 s</p></td>
 </tr>
 <tr class="even">
 <td><p>330 ZHP[38]</p></td>
-<td><p><a href="../Page/BMW_M54#M54B30.md" title="wikilink">M54B30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_M54#M54B30" title="wikilink">M54B30</a></p></td>
 <td><p>2003–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>6.1 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>M3 (EU)[39]</p></td>
-<td><p><a href="../Page/BMW_S54B32.md" title="wikilink">S54B32</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_S54B32" title="wikilink">S54B32</a></p></td>
 <td><p>2000–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>8.7 s</p></td>
 </tr>
 <tr class="even">
 <td><p>M3 (US)[40]</p></td>
-<td><p><a href="../Page/BMW_S54B32.md" title="wikilink">S54B32</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_S54B32" title="wikilink">S54B32</a></p></td>
 <td><p>2000–2006</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>3.0 s</p></td>
 </tr>
 <tr class="odd">
 <td><p>M3 CSL[41]</p></td>
-<td><p><a href="../Page/BMW_S54B32.md" title="wikilink">S54B32</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_S54B32" title="wikilink">S54B32</a></p></td>
 <td><p>2003–2004</p></td>
 <td></td>
-<td><p><a href="../Page/Straight-six_engine.md" title="wikilink">I6</a>, 24v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Straight-six_engine" title="wikilink">I6</a>, 24v</p></td>
 <td></td>
 <td></td>
 <td><p>2.3 s</p></td>
 </tr>
 <tr class="even">
 <td><p>M3 GTR Strassenversion[42]</p></td>
-<td><p><a href="../Page/BMW_P60B40.md" title="wikilink">P60B40</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_P60B40" title="wikilink">P60B40</a></p></td>
 <td><p>2002</p></td>
 <td></td>
-<td><p><a href="../Page/V12_engine.md" title="wikilink">V12</a>, 48v</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/V12_engine" title="wikilink">V12</a>, 48v</p></td>
 <td></td>
 <td></td>
 <td><p>1.3 s</p></td>
@@ -307,8 +307,8 @@ E46動力裝置的設計重點在於減少[簧下質量和增加車體](../Page/
 ### 運動套件
 
 BMW針對E46 330i/Ci推出了改造套件，稱為ZHP改裝套件並在北美上市。2003-2005 330i，以及2004-2006
-330Ci均可加裝。改造件包括外觀套件以獲得更出色的空氣動力學性能。其發動機亦有小改進，[凸輪軸外型加以改進以改善氣門開閉狀態](../Page/凸輪軸.md "wikilink")，行車電腦發動機模塊（DME）的代碼也進行改動，使得發動機功率從上升到。\[43\]
-車體懸掛系統也進行較多改進：彈簧和減震器更加堅硬，加裝大型防側傾撐桿，以及更強的前控制臂球窩軸承。車輛比普通版更加低矮，轉彎時輪胎亦有更大的[外傾角](../Page/外傾角.md "wikilink")。此番改進後車輛運動性在原有基礎上有很大提升，[汽車和駕駛員雜誌在賽道上親測該車](../Page/汽車和駕駛員.md "wikilink")，結果是0-60mph加速僅需5.6秒，完成1/4英里只需14.3秒，亦接近普通版M3的性能。
+330Ci均可加裝。改造件包括外觀套件以獲得更出色的空氣動力學性能。其發動機亦有小改進，[凸輪軸外型加以改進以改善氣門開閉狀態](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")，行車電腦發動機模塊（DME）的代碼也進行改動，使得發動機功率從上升到。\[43\]
+車體懸掛系統也進行較多改進：彈簧和減震器更加堅硬，加裝大型防側傾撐桿，以及更強的前控制臂球窩軸承。車輛比普通版更加低矮，轉彎時輪胎亦有更大的[外傾角](https://zh.wikipedia.org/wiki/外傾角 "wikilink")。此番改進後車輛運動性在原有基礎上有很大提升，[汽車和駕駛員雜誌在賽道上親測該車](https://zh.wikipedia.org/wiki/汽車和駕駛員 "wikilink")，結果是0-60mph加速僅需5.6秒，完成1/4英里只需14.3秒，亦接近普通版M3的性能。
 
 ## SULEV
 

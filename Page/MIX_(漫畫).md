@@ -1,4 +1,4 @@
-《**MIX**》是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[安達充繪畫的](../Page/安達充.md "wikilink")[少年漫畫作品](../Page/少年漫畫.md "wikilink")，於《[月刊少年Sunday](../Page/月刊少年Sunday.md "wikilink")》2012年6月號開始連載\[1\]。此作品亦是《[棒球英豪](../Page/棒球英豪.md "wikilink")》的[精神續作](../Page/精神續作.md "wikilink")。
+《**MIX**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[安達充繪畫的](https://zh.wikipedia.org/wiki/安達充 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，於《[月刊少年Sunday](../Page/月刊少年Sunday.md "wikilink")》2012年6月號開始連載\[1\]。此作品亦是《[棒球英豪](../Page/棒球英豪.md "wikilink")》的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")。
 
 ## 概要
 
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   -
-    音美從朋友家帶回來養的小狗，外貌與《[棒球英豪](../Page/棒球英豪.md "wikilink")》或《[H2－好逑雙物語](../Page/H2－好逑雙物語.md "wikilink")》的寵物狗相似，命名來自音美夢中的人物（安達充）。
+    音美從朋友家帶回來養的小狗，外貌與《[棒球英豪](../Page/棒球英豪.md "wikilink")》或《[H2－好逑雙物語](https://zh.wikipedia.org/wiki/H2－好逑雙物語 "wikilink")》的寵物狗相似，命名來自音美夢中的人物（安達充）。
 
 <!-- end list -->
 
@@ -95,9 +95,9 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -192,7 +192,7 @@
 
 ### 製作人員
 
-  - 原作：[安達充](../Page/安達充.md "wikilink")
+  - 原作：[安達充](https://zh.wikipedia.org/wiki/安達充 "wikilink")
   - 監督：渡部穩寬
   - 系列構成：富岡淳廣
   - 人物設定：牧孝雄
@@ -214,7 +214,7 @@
 ### 主題曲
 
   - 片頭曲「」
-    作詞、作曲：片岡健太，主唱：[sumika](../Page/sumika.md "wikilink")
+    作詞、作曲：片岡健太，主唱：[sumika](https://zh.wikipedia.org/wiki/sumika "wikilink")
 
 <!-- end list -->
 
@@ -265,11 +265,21 @@
 <td><p>福岛幸典</p></td>
 <td><p>柴田匠</p></td>
 <td><p>广冈岁仁、繁田亨、新村杏子、太田慎之介</p></td>
-<td><p>鸟宏明 &lt;!--|-</p></td>
-<td><p>第4話</p></td>
+<td><p>鸟宏明</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>第4話</p></td>
+<td></td>
+<td><p>好想交换啊</p></td>
+<td><p>山田健一</p></td>
+<td><p>山中祥平</p></td>
+<td><p>角谷知美、井戸田あかね、菅原美幸</p></td>
+<td><p>髙田晴仁 |-&lt;!--</p></td>
 <td><p>第5話</p></td>
+</tr>
+<tr class="odd">
+<td><p>第6話</p></td>
 <td></td>
 <td></td>
 <td></td>

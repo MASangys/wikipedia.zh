@@ -1,13 +1,13 @@
 **`dir`**
-（directory，目錄）是一個條列[檔案及](../Page/電腦檔案.md "wikilink")[目錄的](../Page/目录_\(文件系统\).md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")[指令](../Page/指令_\(電腦\).md "wikilink")，在[CP/M](../Page/CP/M.md "wikilink")、[VMS](../Page/OpenVMS.md "wikilink")、[DOS](../Page/DOS.md "wikilink")、[OS/2](../Page/OS/2.md "wikilink")、[Singularity及](../Page/Singularity.md "wikilink")[Microsoft
-Windows等](../Page/Microsoft_Windows.md "wikilink")[作業系統中都有此指令](../Page/作業系統.md "wikilink")。
+（directory，目錄）是一個條列[檔案及](../Page/電腦檔案.md "wikilink")[目錄的](../Page/目录_\(文件系统\).md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")[指令](https://zh.wikipedia.org/wiki/指令_\(電腦\) "wikilink")，在[CP/M](https://zh.wikipedia.org/wiki/CP/M "wikilink")、[VMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、[DOS](../Page/DOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[Singularity及](../Page/Singularity.md "wikilink")[Microsoft
+Windows等](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統中都有此指令](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
-`dir`指令基本上會會列出目录中的檔案及子目录的名稱，也可以列出其檔案大小，建立時間等相關資訊，並且列出所在的[磁碟機](../Page/磁碟機.md "wikilink")、可用空間等資訊。`dir`指令也可以尋找其[檔案名稱符合特定條件的檔案](../Page/檔案名稱.md "wikilink")。
+`dir`指令基本上會會列出目录中的檔案及子目录的名稱，也可以列出其檔案大小，建立時間等相關資訊，並且列出所在的[磁碟機](https://zh.wikipedia.org/wiki/磁碟機 "wikilink")、可用空間等資訊。`dir`指令也可以尋找其[檔案名稱符合特定條件的檔案](../Page/檔案名稱.md "wikilink")。
 
 ## 用法範例
 
 以下的範例是在[Windows
-7中給](../Page/Windows_7.md "wikilink")`dir`指令，沒有指令列引數時的輸出：
+7中給](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")`dir`指令，沒有指令列引數時的輸出：
 
 ``` doscon
  C:\Users\Public\Pictures\Sample Pictures>dir
@@ -46,7 +46,7 @@ Windows等](../Page/Microsoft_Windows.md "wikilink")[作業系統中都有此指
 ## 選項及指令列引數
 
 以下是[Microsoft
-Windows下](../Page/Microsoft_Windows.md "wikilink")，`dir`指令的選項及指令列引數
+Windows下](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，`dir`指令的選項及指令列引數
 
 ``` doscon
  DIR [drive:][path][filename] [/A[[:]attributes|:]attributes]] [/B] [/C] [/D] [/L] [/N]
@@ -84,12 +84,12 @@ Windows下](../Page/Microsoft_Windows.md "wikilink")，`dir`指令的選項及�
   /4          Displays four-digit years.
 ```
 
-選項可以放在DIRCMD[環境變數中](../Page/環境變數.md "wikilink")，若要關閉現有的設定，可以在選項前加上-，例如/-W。
+選項可以放在DIRCMD[環境變數中](https://zh.wikipedia.org/wiki/環境變數 "wikilink")，若要關閉現有的設定，可以在選項前加上-，例如/-W。
 \[1\]
 
 ## Unix
 
-`dir`不是[Unix指令](../Page/Unix.md "wikilink")，Unix有類似的指令[`ls`](../Page/ls.md "wikilink")，不過[GNU/Linux作業系統中有](../Page/GNU/Linux.md "wikilink")`dir`指令，等效於`ls -C -b`\[2\]。
+`dir`不是[Unix指令](https://zh.wikipedia.org/wiki/Unix "wikilink")，Unix有類似的指令[`ls`](https://zh.wikipedia.org/wiki/ls "wikilink")，不過[GNU/Linux作業系統中有](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")`dir`指令，等效於`ls -C -b`\[2\]。
 
 ## 相關條目
 

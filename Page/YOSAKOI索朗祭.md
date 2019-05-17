@@ -4,12 +4,12 @@
 [2010_YOSAKOI_Soran_Festival_10.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_10.jpg "fig:2010_YOSAKOI_Soran_Festival_10.jpg")
 [2010_YOSAKOI_Soran_Festival_01.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_01.jpg "fig:2010_YOSAKOI_Soran_Festival_01.jpg")
 
-**YOSAKOI索朗祭**（[日文](../Page/日文.md "wikilink")：**）**是每年六月上旬在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市舉辦的](../Page/札幌市.md "wikilink")[YOSAKOI祭典](../Page/YOSAKOI.md "wikilink")。由
+**YOSAKOI索朗祭**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：**）**是每年六月上旬在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市舉辦的](../Page/札幌市.md "wikilink")[YOSAKOI祭典](../Page/YOSAKOI.md "wikilink")。由
 YOSAKO索朗祭組織委員會（）主辦。
 
 ## 歴史
 
-1991年時，[北海道大學學生](../Page/北海道大學.md "wikilink")（現為[日本參議院議員](../Page/日本參議院.md "wikilink")）在[高知縣探病時正好遇到了](../Page/高知縣.md "wikilink")的活動，體驗到現場的氣氛後，決定在北海道也舉辦具有相同氣氛的活動\[1\]，同年12月，由五位學生參考高知縣的「夜來祭」及北海道的「」組成了「YOSAKOI索朗祭實行委員會」\[2\]\[3\]，希望辦出一個融合兩者活動的「YOSAKOI索朗祭
+1991年時，[北海道大學學生](../Page/北海道大學.md "wikilink")（現為[日本參議院議員](https://zh.wikipedia.org/wiki/日本參議院 "wikilink")）在[高知縣探病時正好遇到了](https://zh.wikipedia.org/wiki/高知縣 "wikilink")的活動，體驗到現場的氣氛後，決定在北海道也舉辦具有相同氣氛的活動\[1\]，同年12月，由五位學生參考高知縣的「夜來祭」及北海道的「」組成了「YOSAKOI索朗祭實行委員會」\[2\]\[3\]，希望辦出一個融合兩者活動的「YOSAKOI索朗祭
 」。\[4\]
 
 1992年6月，從北海道內16所大學召集了150名工作人員舉辦了第一屆的「YOSAKOI索朗祭
@@ -99,7 +99,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 <td><p>1992年</p></td>
 <td><p>初</p></td>
 <td><p>セントラルグループよさこい踊り子隊</p></td>
-<td><p><a href="../Page/高知縣.md" title="wikilink">高知縣高知市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高知縣" title="wikilink">高知縣高知市</a></p></td>
 <td><p>1回</p></td>
 <td></td>
 <td><p><small>STVどさんこワイド＆道短</small></p></td>
@@ -148,7 +148,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 <td><p>第6回</p></td>
 <td><p>1997年</p></td>
 <td><p>初</p></td>
-<td><p>a la collette!?<a href="../Page/4丁目プラザ.md" title="wikilink">4プラ</a></p></td>
+<td><p>a la collette!?<a href="https://zh.wikipedia.org/wiki/4丁目プラザ" title="wikilink">4プラ</a></p></td>
 <td><p>札幌市</p></td>
 <td><p>2回</p></td>
 <td></td>
@@ -188,7 +188,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 <td><p>第10回</p></td>
 <td><p>2001年</p></td>
 <td><p>初</p></td>
-<td><p>パスキー&amp;<a href="../Page/北海道醫療大學.md" title="wikilink">北海道醫療大學</a></p></td>
+<td><p>パスキー&amp;<a href="https://zh.wikipedia.org/wiki/北海道醫療大學" title="wikilink">北海道醫療大學</a></p></td>
 <td><p><a href="../Page/當別町.md" title="wikilink">當別町</a></p></td>
 <td><p>7回</p></td>
 <td></td>
@@ -218,7 +218,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 <td><p>第13回</p></td>
 <td><p>2004年</p></td>
 <td><p>初</p></td>
-<td><p><a href="../Page/新琴似天舞龍神.md" title="wikilink">新琴似天舞龍神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新琴似天舞龍神" title="wikilink">新琴似天舞龍神</a></p></td>
 <td><p>札幌市</p></td>
 <td><p>9回</p></td>
 <td></td>
@@ -250,7 +250,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 <td><p>4</p></td>
 <td><p>12回</p></td>
 <td></td>
-<td><p><small>平岸天神、<a href="../Page/VOGUE038.md" title="wikilink">VOGUE038</a></small></p></td>
+<td><p><small>平岸天神、<a href="https://zh.wikipedia.org/wiki/VOGUE038" title="wikilink">VOGUE038</a></small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -278,7 +278,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 <td><p>第19回</p></td>
 <td><p>2010年</p></td>
 <td><p>初</p></td>
-<td><p><a href="../Page/夢想漣えさし.md" title="wikilink">夢想漣えさし</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢想漣えさし" title="wikilink">夢想漣えさし</a></p></td>
 <td><p><a href="../Page/枝幸町.md" title="wikilink">枝幸町</a></p></td>
 <td><p>14回</p></td>
 <td></td>
@@ -302,7 +302,7 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 <td><p>札幌市</p></td>
 <td><p>20回</p></td>
 <td></td>
-<td><p><small><a href="../Page/江別市.md" title="wikilink">江別まっことえぇ</a>＆<a href="../Page/北海道情報大学.md" title="wikilink">北海道情報大学</a>、夢想漣えさし</small></p></td>
+<td><p><small><a href="../Page/江別市.md" title="wikilink">江別まっことえぇ</a>＆<a href="https://zh.wikipedia.org/wiki/北海道情報大学" title="wikilink">北海道情報大学</a>、夢想漣えさし</small></p></td>
 </tr>
 <tr class="even">
 <td><p>第22回</p></td>
@@ -371,9 +371,9 @@ Festival 05.jpg|進行型演出時配合使用音響車輛
 
 ## 相關條目
 
-  - ：每年8月8日至8月12日期間於[高知縣舉辦的表演祭典](../Page/高知縣.md "wikilink")。
+  - ：每年8月8日至8月12日期間於[高知縣舉辦的表演祭典](https://zh.wikipedia.org/wiki/高知縣 "wikilink")。
 
-  - [YOSAKOI](../Page/YOSAKOI.md "wikilink")：由夜來祭展出，於[盂蘭盆節期間在日本全國各地舉行的一種祭典形態](../Page/盂蘭盆節.md "wikilink")。
+  - [YOSAKOI](../Page/YOSAKOI.md "wikilink")：由夜來祭展出，於[盂蘭盆節期間在日本全國各地舉行的一種祭典形態](https://zh.wikipedia.org/wiki/盂蘭盆節 "wikilink")。
 
   - ：源自北海道靠日本海沿岸地區的民謠。
 

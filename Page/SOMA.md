@@ -1,9 +1,9 @@
 是一款由[瑞典遊戲製作團隊](../Page/瑞典.md "wikilink")[Frictional
-Games獨立開發的](../Page/Frictional_Games.md "wikilink")[科幻](../Page/科幻.md "wikilink")[生存恐怖遊戲](../Page/生存恐怖遊戲.md "wikilink")。該遊戲於2015年9月22日發行。\[1\]\[2\]遊戲主要背景設定在2104年位於[大西洋海底的帕索斯二號研究中心](../Page/大西洋.md "wikilink")（PATHOS-II），一座充滿未知的海底廢墟。\[3\]\[4\]
+Games獨立開發的](../Page/Frictional_Games.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[生存恐怖遊戲](https://zh.wikipedia.org/wiki/生存恐怖遊戲 "wikilink")。該遊戲於2015年9月22日發行。\[1\]\[2\]遊戲主要背景設定在2104年位於[大西洋海底的帕索斯二號研究中心](../Page/大西洋.md "wikilink")（PATHOS-II），一座充滿未知的海底廢墟。\[3\]\[4\]
 
 ## 遊戲情節設計
 
-《SOMA》是一款以[第一人稱視角呈現的科幻恐怖遊戲](../Page/第一人稱視角.md "wikilink")。\[5\]Frictional
+《SOMA》是一款以[第一人稱視角呈現的科幻恐怖遊戲](https://zh.wikipedia.org/wiki/第一人稱視角 "wikilink")。\[5\]Frictional
 Games團隊的共同創辦人兼創意總監湯馬士·格力普（Thomas
 Grip）表示玩家們會“遇到許多怪物，而每個怪物都是遊戲主題其中一部分的具體呈現”\[6\]。
 
@@ -21,21 +21,21 @@ Games的共同創辦人延斯·尼爾森 ( Jens Nilsson ) "靈機一動"
 《SOMA》發行後不到十天 ( 截止至2015年10十月1日 ) 銷售量已經達到了92,000份。\[9\] Frictional
 Games原本的目標只是在第一個月內銷售100,000份。總銷售量達近300,000份即可回本。\[10\]
 
-《SOMA》受到近乎讚譽的評價。遊戲評論匯總網站[GameRankings和](../Page/GameRankings.md "wikilink")[Metacritic分別基於](../Page/Metacritic.md "wikilink")32個及49個各大遊戲網站評論給予PC版84.78%及85/100的評價
+《SOMA》受到近乎讚譽的評價。遊戲評論匯總網站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic分別基於](../Page/Metacritic.md "wikilink")32個及49個各大遊戲網站評論給予PC版84.78%及85/100的評價
 \[11\]\[12\]和PS4版基於12個及20個網站評論給予78.33% 及79/100的評價。\[13\]\[14\]
 
 遊戲網站[GameSpot的理查德](../Page/GameSpot.md "wikilink")·維克林（）給了《SOMA》9/10的高分，稱讚該遊戲“迷人且令人思考”的故事、“令人印象深刻”的配音和劇本以及遊戲音效設計和氣氛，並認為這些元素結合在一起時給了該遊戲“恐怖，令人發毛且使人一直坐在椅子邊緣”的感覺。但維克林不喜歡有一段在海底漫步的情節，並認為遇見怪物的情節有點“千篇一律”。\[15\]
 
 遊戲網站[Polygon的菲立普](../Page/Polygon.md "wikilink")·柯拉 ( Philip Kollar )
-也給予了該遊戲9/10的高評價，並寫道：“我不知道《SOMA》有沒有像*[失憶症](../Page/失憶症：黑暗後裔.md "wikilink")*
+也給予了該遊戲9/10的高評價，並寫道：“我不知道《SOMA》有沒有像*[失憶症](https://zh.wikipedia.org/wiki/失憶症：黑暗後裔 "wikilink")*
 那麼恐怖，但毫無疑問地《SOMA》是一款比失憶症更強勁、遊戲步調更協調、遊戲劇本更巧妙且有著更強勁遊戲題材的遊戲。這不是一款要困惑玩家的遊戲；遊戲情節並沒有嚇人地[大逆轉](../Page/大逆轉.md "wikilink")。相反地，這是款要玩家體驗‘面對現實恐懼的過程’的遊戲”。\[16\]
 
 ## 參見
 
   - [Frictional Games](../Page/Frictional_Games.md "wikilink")
-  - [失憶症：黑暗後裔](../Page/失憶症：黑暗後裔.md "wikilink")
-  - [生存恐怖遊戲](../Page/生存恐怖遊戲.md "wikilink")
-  - [生化奇兵](../Page/生化奇兵.md "wikilink")
+  - [失憶症：黑暗後裔](https://zh.wikipedia.org/wiki/失憶症：黑暗後裔 "wikilink")
+  - [生存恐怖遊戲](https://zh.wikipedia.org/wiki/生存恐怖遊戲 "wikilink")
+  - [生化奇兵](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")
   - [絕命精神病院](../Page/絕命精神病院.md "wikilink")
 
 ## 参考文献

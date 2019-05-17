@@ -3,14 +3,14 @@
 ## 節目主持
 
   - [劉在錫](../Page/劉在錫.md "wikilink")
-  - [池錫辰](../Page/池錫辰.md "wikilink")
-  - [金鐘國](../Page/金鐘國.md "wikilink")
+  - [池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")
+  - [金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")
   - [Gary](../Page/Gary_\(韓國歌手\).md "wikilink")
   - [哈哈](../Page/Haha.md "wikilink")
   - [宋智孝](../Page/宋智孝.md "wikilink")（缺席第61、63-64集）
   - [李光洙](../Page/李光洙_\(演員\).md "wikilink")
   - [宋仲基](../Page/宋仲基.md "wikilink")（任期至第41集／5月1日）
-  - [Lizzy](../Page/朴修映.md "wikilink")（任期至第25集／1月9日）
+  - [Lizzy](https://zh.wikipedia.org/wiki/朴修映 "wikilink")（任期至第25集／1月9日）
 
 ## 節目
 
@@ -77,7 +77,7 @@ Gary、宋智孝、宋恩伊<br />
 <td><p>1月9日<br />
 <small>(<em>2010年<br />
 12月27日</em>)</small></p></td>
-<td><p><a href="../Page/朴寶英.md" title="wikilink">朴寶英</a>[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴寶英" title="wikilink">朴寶英</a>[2]</p></td>
 <td><p><a href="http://comicsmuseum.org/">韓國漫畫博物館</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/富川市.md" title="wikilink">富川市</a><br />
 )</small></p></td>
@@ -94,8 +94,8 @@ Gary、哈哈、宋智孝<br />
 <span style=color:#964B00><strong>追擊隊</strong></span><br />
 金鐘國、Gary、哈哈</p></td>
 <td><p>劉在錫、池錫辰、金鐘國、Gary、哈哈、宋仲基、朴寶英<strong>勝出</strong><br />
-宋智孝、李光洙、Lizzy穿紅色內衣成為<a href="../Page/諷刺畫.md" title="wikilink">諷刺畫模特兒</a><br />
-<em><strong>註：</strong>本集為<a href="../Page/朴修映.md" title="wikilink">Lizzy最後一次以成員身份參與錄影</a>。</em></p></td>
+宋智孝、李光洙、Lizzy穿紅色內衣成為<a href="https://zh.wikipedia.org/wiki/諷刺畫" title="wikilink">諷刺畫模特兒</a><br />
+<em><strong>註：</strong>本集為<a href="https://zh.wikipedia.org/wiki/朴修映" title="wikilink">Lizzy最後一次以成員身份參與錄影</a>。</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>024</p></td>
@@ -105,8 +105,8 @@ Gary、哈哈、宋智孝<br />
 <small>(<em>1月3日</em>)</small></p></td>
 <td><p><a href="../Page/鄭進永.md" title="wikilink">鄭進永</a>、<a href="../Page/李文植.md" title="wikilink">李文植</a></p></td>
 <td><p>樂園樂器商街<br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/鍾路區.md" title="wikilink">鍾路區</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/鍾路區" title="wikilink">鍾路區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>尋找嘉賓</strong></span><br />
 <strong>嘉賓隊</strong><br />
 鄭進永、李文植<br />
@@ -143,8 +143,8 @@ Gary、宋智孝、宋仲基<br />
 <td><p><a href="../Page/鄭允浩.md" title="wikilink">瑜鹵允浩</a>、<a href="../Page/沈昌珉.md" title="wikilink">最強昌珉</a><br />
 (<a href="../Page/東方神起.md" title="wikilink">東方神起</a>)</p></td>
 <td><p><a href="../Page/藝術殿堂.md" title="wikilink">藝術殿堂</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/瑞草區.md" title="wikilink">瑞草區</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/瑞草區" title="wikilink">瑞草區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>尋找嘉賓</strong></span><br />
 <strong>嘉賓隊</strong><br />
 瑜鹵允浩、最強昌珉<br />
@@ -166,7 +166,7 @@ Gary、宋智孝、宋仲基<br />
 <td><p><a href="../Page/金炳萬.md" title="wikilink">金炳萬</a></p></td>
 <td><p><a href="http://naturalresort.co.kr/skin_combi1/health01.php">安城自然度假村<br />
 健康之國</a><br />
-<small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/安城市_(京畿道).md" title="wikilink">安城市</a><br />
+<small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="https://zh.wikipedia.org/wiki/安城市_(京畿道)" title="wikilink">安城市</a><br />
 )</small></p></td>
 <td><p><span style=font-size:110%><strong>尋找嘉賓</strong></span><br />
 <strong>嘉賓</strong><br />
@@ -191,7 +191,7 @@ Gary、宋智孝、宋仲基<br />
 <small>(<em>1月24日</em>)</small></p></td>
 <td><p>無嘉賓</p></td>
 <td><p><a href="../Page/COEX商場.md" title="wikilink">COEX水族館</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/江南區_(首爾).md" title="wikilink">江南區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>新年企劃 － 召集隊員</strong></span><br />
 <span style=color:#0000FF><strong>在錫隊</strong></span><br />
@@ -207,10 +207,10 @@ Gary、宋智孝、宋仲基<br />
 <small>(162)</small></p></td>
 <td><p>2月13日<br />
 <small>(<em>1月31日</em>)</small></p></td>
-<td><p><a href="../Page/勝利_(歌手).md" title="wikilink">勝利</a>(<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG</a>)</p></td>
-<td><p><a href="../Page/韓國國立國樂院.md" title="wikilink">國立國樂院</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/瑞草區.md" title="wikilink">瑞草區</a>)</small></p></td>
+<td><p><a href="../Page/勝利_(歌手).md" title="wikilink">勝利</a>(<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國國立國樂院" title="wikilink">國立國樂院</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/瑞草區" title="wikilink">瑞草區</a>)</small></p></td>
 <td><p><strong>尋找嘉賓</strong><br />
 <strong>嘉賓</strong><br />
 勝利<br />
@@ -225,11 +225,11 @@ Gary、宋智孝、宋仲基<br />
 <small>(163)</small></p></td>
 <td><p>2月20日<br />
 <small>(<em>2月9日</em>)</small></p></td>
-<td><p><a href="../Page/玄英.md" title="wikilink">玄英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玄英" title="wikilink">玄英</a></p></td>
 <td><p><a href="https://web.archive.org/web/20150610203729/http://www.alpensiaresort.co.kr/Ocean700Intro.gdc">Alpensia<br />
 海洋700水上樂園</a><br />
-<small>(<a href="../Page/江原道_(韓國).md" title="wikilink">江原道</a><a href="../Page/平昌郡.md" title="wikilink">平昌郡</a><br />
-<a href="../Page/龍山里.md" title="wikilink">龍山里</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/江原道_(韓國)" title="wikilink">江原道</a><a href="../Page/平昌郡.md" title="wikilink">平昌郡</a><br />
+<a href="https://zh.wikipedia.org/wiki/龍山里" title="wikilink">龍山里</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>尋找嘉賓</strong></span><br />
 <strong>嘉賓</strong><br />
 玄英<br />
@@ -248,7 +248,7 @@ Gary、宋智孝、宋仲基<br />
 <small>(164)</small></p></td>
 <td><p>2月27日<br />
 <small>(<em>2月14日</em>)</small></p></td>
-<td><p><a href="../Page/安勝浩.md" title="wikilink">Tony安</a>、<a href="../Page/金光奎.md" title="wikilink">金光奎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安勝浩" title="wikilink">Tony安</a>、<a href="../Page/金光奎.md" title="wikilink">金光奎</a></p></td>
 <td><p><a href="http://www.wjthinkbig.com/">熊津-{ThinkBig}-總部</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/坡州市.md" title="wikilink">坡州市</a><br />
 )</small></p></td>
@@ -263,7 +263,7 @@ Tony安、金光奎<br />
 <span style=color:#FF0000><strong>營業二隊</strong></span><br />
 金鐘國、池錫辰、Gary、哈哈、李光洙</p></td>
 <td><p>金鐘國、Gary、宋智孝、李光洙、Tony安、金光奎<strong>勝出</strong><br />
-劉在錫、池錫辰、哈哈、宋仲基穿紅色內衣被遺棄於<a href="../Page/潛水橋_(韓國).md" title="wikilink">潛水橋中央</a>、並要在無工作人員的情況下走到南端</p></td>
+劉在錫、池錫辰、哈哈、宋仲基穿紅色內衣被遺棄於<a href="https://zh.wikipedia.org/wiki/潛水橋_(韓國)" title="wikilink">潛水橋中央</a>、並要在無工作人員的情況下走到南端</p></td>
 </tr>
 <tr class="even">
 <td><p>031</p></td>
@@ -274,7 +274,7 @@ Tony安、金光奎<br />
 <td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a><br />
 <small>(<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
-<a href="../Page/中區_(仁川).md" title="wikilink">中區</a>)</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/中區_(仁川)" title="wikilink">中區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>都市追擊戰</strong></span><br />
 <strong>嘉賓</strong><br />
 吳智昊<br />
@@ -299,9 +299,9 @@ Running二隊穿紅色內衣被遺棄於乙旺-{里}-海水浴場、並要用海
 <td><p>3月13日<br />
 <small>(<em>2月28日</em>)</small></p></td>
 <td><p><a href="../Page/朴俊奎.md" title="wikilink">朴俊奎</a>、<br />
-<a href="../Page/金幽珍.md" title="wikilink">U-ie</a>(<a href="../Page/After_School.md" title="wikilink">After School</a>)</p></td>
+<a href="https://zh.wikipedia.org/wiki/金幽珍" title="wikilink">U-ie</a>(<a href="../Page/After_School.md" title="wikilink">After School</a>)</p></td>
 <td><p><a href="https://web.archive.org/web/20160707052238/http://www.sangsangmadang.com/">想像庭院</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>弘大20大美食店</strong></span><br />
 <strong>嘉賓隊</strong><br />
@@ -319,7 +319,7 @@ Running二隊穿紅色內衣被遺棄於乙旺-{里}-海水浴場、並要用海
 <td><p>國內派<strong>勝出</strong><br />
 海外派穿紅色內衣成為素描模特兒<br />
 <em><strong>註：</strong><a href="../Page/沈泰允.md" title="wikilink">沈泰允</a>、特別出演<br />
-<a href="../Page/林珍兒.md" title="wikilink">Nana</a>、<a href="../Page/吳慧琳.md" title="wikilink">Raina</a>(<a href="../Page/After_School.md" title="wikilink">After School</a>)驚喜出演</em></p></td>
+<a href="https://zh.wikipedia.org/wiki/林珍兒" title="wikilink">Nana</a>、<a href="https://zh.wikipedia.org/wiki/吳慧琳" title="wikilink">Raina</a>(<a href="../Page/After_School.md" title="wikilink">After School</a>)驚喜出演</em></p></td>
 </tr>
 <tr class="even">
 <td><p>033</p></td>
@@ -327,10 +327,10 @@ Running二隊穿紅色內衣被遺棄於乙旺-{里}-海水浴場、並要用海
 <small>(167)</small></p></td>
 <td><p>3月20日<br />
 <small>(<em>3月7日</em>)</small></p></td>
-<td><p><a href="../Page/姜大聲.md" title="wikilink">大聲</a>(<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG</a>)、<br />
+<td><p><a href="../Page/姜大聲.md" title="wikilink">大聲</a>(<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>)、<br />
 <a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>(<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a>)</p></td>
 <td><p><a href="http://www.nanjicamping.co.kr/">蘭芝露營場</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>露營特輯</strong></span><br />
 <strong>嘉賓隊</strong><br />
@@ -391,8 +391,8 @@ Running二隊穿紅色內衣被遺棄於乙旺-{里}-海水浴場、並要用海
 <small>(<em>3月21日</em>)</small></p></td>
 <td><p>無嘉賓</p></td>
 <td><p><a href="https://web.archive.org/web/20160304080350/http://www.seoulmc.or.kr/chinese/page/vision.asp">首爾醫療院</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/中浪區.md" title="wikilink">中浪區</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/中浪區" title="wikilink">中浪區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>非常嫌疑犯</strong></span><br />
 <strong>劉姆斯龐德</strong><br />
 劉在錫<br />
@@ -412,10 +412,10 @@ Running二隊穿紅色內衣被遺棄於乙旺-{里}-海水浴場、並要用海
 <small>(171)</small></p></td>
 <td><p>4月17日<br />
 <small>(<em>4月4日</em>)</small></p></td>
-<td><p><a href="../Page/李純揆.md" title="wikilink">Sunny</a>、<a href="../Page/林潤妸.md" title="wikilink">潤娥</a><br />
-(<a href="../Page/少女時代.md" title="wikilink">少女時代</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">Sunny</a>、<a href="https://zh.wikipedia.org/wiki/林潤妸" title="wikilink">潤娥</a><br />
+(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
 <td><p><a href="http://www.seoulfolkfleamarket.com/">首爾風物市場</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/東大門區.md" title="wikilink">東大門區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>暗黑少時</strong></span><br />
 <strong>嘉賓隊</strong><br />
@@ -438,8 +438,8 @@ Sunny、池錫辰、李光洙、宋仲基<br />
 <small>(172)</small></p></td>
 <td><p>4月24日<br />
 <small>(<em>4月11日</em>)</small></p></td>
-<td><p><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>、<a href="../Page/玉澤演.md" title="wikilink">澤演</a><br />
-(<a href="../Page/2PM.md" title="wikilink">2PM</a>)</p></td>
+<td><p><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>、<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">澤演</a><br />
+(<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)</p></td>
 <td><p><a href="http://www.pfcamp.com/">小法國文化村</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/加平郡.md" title="wikilink">加平郡</a><br />
 )</small></p></td>
@@ -463,9 +463,9 @@ Nichkhun、澤演<br />
 <td><p>5月1日<br />
 <small>(<em>4月18日</em>)</small></p></td>
 <td><p><a href="../Page/朴重勳.md" title="wikilink">-{朴}-重勳</a>、<a href="../Page/李善均.md" title="wikilink">李善均</a></p></td>
-<td><p><a href="../Page/韓國國立中央圖書館.md" title="wikilink">國立中央圖書館</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/瑞草區.md" title="wikilink">瑞草區</a>)</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國國立中央圖書館" title="wikilink">國立中央圖書館</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/瑞草區" title="wikilink">瑞草區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>-{朴}-重勳 VS 李善均</strong></span><br />
 <strong>追擊隊</strong><br />
 -{朴}-重勳、李善均<br />
@@ -487,7 +487,7 @@ Nichkhun、澤演<br />
 <td><p>無嘉賓</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a> <a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="../Page/一山西區.md" title="wikilink">一山西區</a>)</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>最強者戰</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
@@ -503,10 +503,10 @@ Nichkhun、澤演<br />
 <small>(175)</small></p></td>
 <td><p>5月15日<br />
 <small>(<em>5月2日</em>)</small></p></td>
-<td><p><a href="../Page/申奉仙.md" title="wikilink">申奉仙</a>、<a href="../Page/IU_(歌手).md" title="wikilink">IU</a></p></td>
+<td><p><a href="../Page/申奉仙.md" title="wikilink">申奉仙</a>、<a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a></p></td>
 <td><p><a href="../Page/大邱體育場.md" title="wikilink">大邱體育場</a><br />
 <small>(<a href="../Page/大邱廣域市.md" title="wikilink">大邱廣域市</a><br />
-<a href="../Page/壽城區.md" title="wikilink">壽城區</a>)</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/壽城區" title="wikilink">壽城區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>橫斷競賽<br />
 尋找嘉賓</strong></span><br />
 <strong>嘉賓隊</strong><br />
@@ -533,8 +533,8 @@ Nichkhun、澤演<br />
 <small>(<em>5月9日</em>)</small></p></td>
 <td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a></p></td>
 <td><p><a href="http://www.cheil.co.kr/">第一企劃總部</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="../Page/漢南洞.md" title="wikilink">漢南洞</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="https://zh.wikipedia.org/wiki/漢南洞" title="wikilink">漢南洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>48小時競賽<br />
 尋找嘉賓</strong></span><br />
 <strong>嘉賓</strong><br />
@@ -567,9 +567,9 @@ Nichkhun、澤演<br />
 <td><p>6月5日<br />
 <small>(<em>5月23日</em>)</small></p></td>
 <td><p><a href="../Page/金賢重.md" title="wikilink">金賢重</a>(<a href="../Page/SS501.md" title="wikilink">SS501</a>)</p></td>
-<td><p><a href="../Page/教保文庫.md" title="wikilink">教保文庫總部</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/鍾路區.md" title="wikilink">鍾路區</a><a href="../Page/內需洞.md" title="wikilink">內需洞</a>)</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/教保文庫" title="wikilink">教保文庫總部</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/鍾路區" title="wikilink">鍾路區</a><a href="https://zh.wikipedia.org/wiki/內需洞" title="wikilink">內需洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>內部之敵</strong></span><br />
 <strong>嘉賓｜間-{}-諜</strong><br />
 金賢重｜哈哈<br />
@@ -582,7 +582,7 @@ Nichkhun、澤演<br />
 金鐘國、Gary、宋智孝、李光洙</p></td>
 <td><p>在錫隊<strong>勝出</strong><br />
 在錫隊支持者獲得社長發放特別獎金<br />
-<em><strong>註：</strong>、、、<a href="../Page/張允珠.md" title="wikilink">張允柱</a>、<a href="../Page/趙惠蓮.md" title="wikilink">趙惠蓮</a>、金玉貞特別出演</em></p></td>
+<em><strong>註：</strong>、、、<a href="https://zh.wikipedia.org/wiki/張允珠" title="wikilink">張允柱</a>、<a href="../Page/趙惠蓮.md" title="wikilink">趙惠蓮</a>、金玉貞特別出演</em></p></td>
 </tr>
 <tr class="even">
 <td><p>047<br />
@@ -603,8 +603,8 @@ Nichkhun、澤演<br />
 <td><p>6月19日<br />
 <small>(<em>6月6日</em>)</small></p></td>
 <td><p>無嘉賓</p></td>
-<td><p><a href="../Page/韓國國立中央博物館.md" title="wikilink">國立中央博物館</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國國立中央博物館" title="wikilink">國立中央博物館</a><br />
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="../Page/龍山洞_(首爾).md" title="wikilink">龍山洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>實戰篇 － 儀軌的秘密</strong></span><br />
 <strong>個人戰</strong><br />
@@ -619,10 +619,10 @@ Nichkhun、澤演<br />
 <small>(181)</small></p></td>
 <td><p>6月26日<br />
 <small>(<em>6月7日</em>)</small></p></td>
-<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、<a href="../Page/具荷拉.md" title="wikilink">具荷拉</a>(<a href="../Page/Kara.md" title="wikilink">Kara</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a>、<a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">具荷拉</a>(<a href="../Page/Kara.md" title="wikilink">Kara</a>)</p></td>
 <td><p><a href="https://web.archive.org/web/20160502025932/http://dreamforest.seoul.go.kr/">北首爾夢之林</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/江北區_(首爾).md" title="wikilink">江北區</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/江北區_(首爾)" title="wikilink">江北區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>女王蜂競賽</strong></span><br />
 <span style=color:#FFBF00><strong>士燕女王隊</strong></span>：盧士燕、劉在錫、Gary<br />
 <span style=color:#FF1493><strong>荷拉女王隊</strong></span>：具荷拉、金鐘國、哈哈<br />
@@ -637,9 +637,9 @@ Nichkhun、澤演<br />
 <td><p>7月3日<br />
 <small>(<em>6月19日</em>)</small></p></td>
 <td><p><a href="../Page/金玟廷.md" title="wikilink">金玟廷</a>、<br />
-<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>(<a href="../Page/2PM.md" title="wikilink">2PM</a>)</p></td>
+<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>(<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)</p></td>
 <td><p><a href="http://www.chatrium.com/chatrium_hotel/">彩麗殿曼谷河畔酒店</a><br />
-<small>(<a href="../Page/泰國.md" title="wikilink">泰國</a><a href="../Page/曼谷.md" title="wikilink">曼谷</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a><a href="../Page/曼谷.md" title="wikilink">曼谷</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>泰國特輯(上) － 曼谷競賽</strong></span><br />
 <span style=color:#808080><strong>玟廷隊</strong></span>：金玟廷、劉在錫、金鐘國<br />
 <span style=color:#0000FF><strong>Nichkhun隊</strong></span>：Nichkhun、池錫辰、李光洙<br />
@@ -654,7 +654,7 @@ Nichkhun、澤演<br />
 <td><p>7月10日<br />
 <small>(<em>6月20日</em>)</small></p></td>
 <td><p><a href="http://www.pattayafloatingmarket.com/">芭堤雅水上市場</a><br />
-<small>(<a href="../Page/泰國.md" title="wikilink">泰國</a><a href="../Page/芭堤雅.md" title="wikilink">芭堤雅</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a><a href="https://zh.wikipedia.org/wiki/芭堤雅" title="wikilink">芭堤雅</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>泰國特輯(下) － 芭堤雅競賽</strong></span><br />
 <strong>犯人</strong><br />
 金鐘國<br />
@@ -675,8 +675,8 @@ Nichkhun、澤演<br />
 <td><p><a href="../Page/崔民秀.md" title="wikilink">崔民秀</a>、<a href="../Page/尹素怡.md" title="wikilink">尹素怡</a><br />
 [3]</p></td>
 <td><p><a href="http://www.gjw.co.kr/">慶州世界</a><br />
-<small>(<a href="../Page/慶尚北道.md" title="wikilink">慶尚北道</a><a href="../Page/慶州市.md" title="wikilink">慶州市</a><br />
-<a href="../Page/普德洞.md" title="wikilink">普德洞</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/慶尚北道" title="wikilink">慶尚北道</a><a href="../Page/慶州市.md" title="wikilink">慶州市</a><br />
+<a href="https://zh.wikipedia.org/wiki/普德洞" title="wikilink">普德洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>「一週年」慶州特輯(上) － Running Man獵人</strong></span><br />
 <strong>獵人</strong><br />
 崔民秀<br />
@@ -695,8 +695,8 @@ Nichkhun、澤演<br />
 <small>(<em>7月5日</em>)</small></p></td>
 <td><p><a href="https://web.archive.org/web/20141019064209/http://www.blueone.com/waterpark/intro.jsp">BlueOne度假村<br />
 水上樂園</a><br />
-<small>(<a href="../Page/慶尚北道.md" title="wikilink">慶尚北道</a><a href="../Page/慶州市.md" title="wikilink">慶州市</a><br />
-<a href="../Page/普德洞.md" title="wikilink">普德洞</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/慶尚北道" title="wikilink">慶尚北道</a><a href="../Page/慶州市.md" title="wikilink">慶州市</a><br />
+<a href="https://zh.wikipedia.org/wiki/普德洞" title="wikilink">普德洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>慶州特輯(下) － 慶州競賽</strong></span><br />
 <span style=color:#9400D3><strong>紫隊</strong></span>：劉在錫、Gary、尹素怡<br />
 <span style=color:#0000FF><strong>藍隊</strong></span>：哈哈、李光洙、崔民秀<br />
@@ -715,15 +715,15 @@ Nichkhun、澤演<br />
 <small>(<em>7月18日</em>)</small></p></td>
 <td><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/崔江姬.md" title="wikilink">崔江姬</a></p></td>
 <td><p><a href="../Page/63大廈.md" title="wikilink">63大廈</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/永登浦區.md" title="wikilink">永登浦區</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>守護老闆</strong></span><br />
 <strong>光洙隊</strong>：李光洙、劉在錫、池晟<br />
 <span style=color:#0000FF><strong>Gary隊</strong></span>：Gary、池錫辰、宋智孝<br />
 <span style=color:#FF0000><strong>江姬隊</strong></span>：崔江姬、金鐘國、哈哈</p></td>
 <td><p>江姬隊<strong>勝出</strong><br />
 獲得Running Man金戒指<br />
-<em><strong>註：</strong>宣傳<a href="../Page/SBS水木迷你連續劇.md" title="wikilink">SBS水木劇</a>《<a href="../Page/守護老闆.md" title="wikilink">守護老闆</a>》</em></p></td>
+<em><strong>註：</strong>宣傳<a href="https://zh.wikipedia.org/wiki/SBS水木迷你連續劇" title="wikilink">SBS水木劇</a>《<a href="../Page/守護老闆.md" title="wikilink">守護老闆</a>》</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -732,9 +732,9 @@ Nichkhun、澤演<br />
 <small>(187)</small></p></td>
 <td><p>8月7日<br />
 <small>(<em>8月1日</em>)</small></p></td>
-<td><p><a href="../Page/朴智妍.md" title="wikilink">智妍</a>(<a href="../Page/T-ara.md" title="wikilink">T-ara</a>)、<br />
-<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<a href="../Page/崔真理.md" title="wikilink">Sulli</a>(<a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a>)、<br />
-<a href="../Page/裴秀智.md" title="wikilink">秀智</a>(<a href="../Page/Miss_A.md" title="wikilink">Miss A</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴智妍" title="wikilink">智妍</a>(<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>)、<br />
+<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<a href="../Page/崔真理.md" title="wikilink">Sulli</a>(<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>)、<br />
+<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">秀智</a>(<a href="../Page/Miss_A.md" title="wikilink">Miss A</a>)</p></td>
 <td><p><a href="http://www.wootdali.or.kr/">웃다리文化村</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/平澤市.md" title="wikilink">平澤市</a><br />
 )</small></p></td>
@@ -785,7 +785,7 @@ Gary<br />
 <small>(189)</small></p></td>
 <td><p>8月21日<br />
 <small>(<em>8月15日</em>)</small></p></td>
-<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/申世景.md" title="wikilink">申世景</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/申世景.md" title="wikilink">申世景</a></p></td>
 <td><p><a href="http://www.iccjeju.co.kr/ZH/Main">濟州國際會議中心</a><br />
 <small>(<a href="../Page/濟州特別自治道.md" title="wikilink">濟州特別自治道</a><br />
 <a href="../Page/西歸浦市.md" title="wikilink">西歸浦市</a>)</small></p></td>
@@ -827,8 +827,8 @@ Gary<br />
 (<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>)</p></td>
 <td><p><a href="https://web.archive.org/web/20160708073108/http://www.seoul284.org/">文化站首爾284<br />
 (舊首爾站)</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/中區_(首爾).md" title="wikilink">中區</a><a href="../Page/蓬萊洞.md" title="wikilink">蓬萊洞</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="../Page/中區_(首爾).md" title="wikilink">中區</a><a href="https://zh.wikipedia.org/wiki/蓬萊洞" title="wikilink">蓬萊洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>嘻哈競賽</strong></span><br />
 <strong>黑隊</strong><br />
 劉在錫、李光洙、Tiger JK、尹未來<br />
@@ -851,8 +851,8 @@ Gary<br />
 <small>(<em>8月29日</em>)</small></p></td>
 <td><p>無嘉賓</p></td>
 <td><p><a href="https://web.archive.org/web/20131202230647/http://www.dcubecity.com/opot/CHMain.onch?goTo=chMain">D-Cube City</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/九老區.md" title="wikilink">九老區</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/九老區" title="wikilink">九老區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>Gary的真人秀</strong></span><br />
 <strong>「間-{}-諜」</strong><br />
 Gary<br />
@@ -868,11 +868,11 @@ Gary<br />
 <small>(193)</small></p></td>
 <td><p>9月18日<br />
 <small>(<em>9月4日</em>)</small></p></td>
-<td><p><a href="../Page/金柱赫.md" title="wikilink"><code>金柱赫</code></a>、<a href="../Page/李沇熹.md" title="wikilink">李沇熹</a>、<br />
-<a href="../Page/姜知英.md" title="wikilink">姜知英</a>(<a href="../Page/Kara.md" title="wikilink">Kara</a>)[4]</p></td>
+<td><p><a href="../Page/金柱赫.md" title="wikilink"><code>金柱赫</code></a>、<a href="https://zh.wikipedia.org/wiki/李沇熹" title="wikilink">李沇熹</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/姜知英" title="wikilink">姜知英</a>(<a href="../Page/Kara.md" title="wikilink">Kara</a>)[4]</p></td>
 <td><p><a href="../Page/慕田峪长城.md" title="wikilink">慕田峪长城</a><br />
 <small>(<a href="../Page/北京市.md" title="wikilink">北京市</a><a href="../Page/怀柔区.md" title="wikilink">怀柔区</a>)</small><br />
-<a href="../Page/什刹海.md" title="wikilink">什刹海</a>、<a href="../Page/北海公園_(北京).md" title="wikilink">北海公園</a><br />
+<a href="../Page/什刹海.md" title="wikilink">什刹海</a>、<a href="https://zh.wikipedia.org/wiki/北海公園_(北京)" title="wikilink">北海公園</a><br />
 <small>(<a href="../Page/北京市.md" title="wikilink">北京市</a><a href="../Page/西城区.md" title="wikilink">西城区</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>北京特輯(上) － 北京競賽</strong></span><br />
 <span style=color:#808080><strong>柱赫隊</strong></span>：金柱赫、金鐘國、哈哈<br />
@@ -880,7 +880,7 @@ Gary<br />
 <span style=color:#9400D3><strong>知英隊</strong></span>：姜知英、池錫辰、李光洙</p></td>
 <td><p>最快到達終點</p></td>
 <td><p>柱赫隊<strong>勝出</strong><br />
-獲得8000<a href="../Page/人民幣.md" title="wikilink">人民幣獎金</a>、沇熹隊及知英隊獎金則被沒收</p></td>
+獲得8000<a href="https://zh.wikipedia.org/wiki/人民幣" title="wikilink">人民幣獎金</a>、沇熹隊及知英隊獎金則被沒收</p></td>
 </tr>
 <tr class="odd">
 <td><p>062<br />
@@ -906,12 +906,12 @@ Gary<br />
 <small>(195)</small></p></td>
 <td><p>10月2日<br />
 <small>(<em>9月19日</em>)</small></p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/鄭秀妍.md" title="wikilink">Jessica</a>、<a href="../Page/金孝淵.md" title="wikilink">孝淵</a>、<br />
-<a href="../Page/權俞利.md" title="wikilink">俞利</a>、<a href="../Page/林潤妸.md" title="wikilink">潤娥</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a><br />
-(<a href="../Page/少女時代.md" title="wikilink">少女時代</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica</a>、<a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="https://zh.wikipedia.org/wiki/林潤妸" title="wikilink">潤娥</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a><br />
+(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
 <td><p><a href="http://gym.gys.or.kr/">高陽體育館</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a> <a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="../Page/一山西區.md" title="wikilink">一山西區</a>)</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>夥伴特輯(二)(上)－ 雙雙競賽</strong></span><br />
 <span style=color:#008000><strong>綠隊</strong></span>：劉在錫、潤娥 及 李光洙、俞利<br />
 <span style=color:#FF1493><strong>粉隊</strong></span>：池錫辰、孝淵 及 Gary、Jessica<br />
@@ -988,8 +988,8 @@ Gary、潤娥<br />
 <td><p>10月30日<br />
 <small>(<em>10月4日</em>)</small></p></td>
 <td><p><a href="http://hangang.seoul.go.kr/park_yoido/index.html">汝矣島漢江公園</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/永登浦區.md" title="wikilink">永登浦區</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島洞</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>全國巡迴競賽</strong></span><br />
 <span style=color:#0000FF><strong>藍隊</strong></span>：劉在錫、池錫辰、Gary<br />
 <span style=color:#FF0000><strong>紅隊</strong></span>：金鐘國、哈哈、金宣兒<br />
@@ -1047,7 +1047,7 @@ Gary、潤娥<br />
 <td><p><a href="../Page/崔民秀.md" title="wikilink">崔民秀</a></p></td>
 <td><p><a href="https://web.archive.org/web/20160715170848/http://art.incheon.go.kr/">仁川綜合文化藝術會館</a><br />
 <small>(<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
-<a href="../Page/南洞區.md" title="wikilink">南洞區</a>)</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/南洞區" title="wikilink">南洞區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>Running Man獵人(二) － 狩獵蚱蜢</strong></span><br />
 <strong>獵人｜蚱蜢</strong><br />
 崔民秀｜劉在錫<br />
@@ -1065,9 +1065,9 @@ Gary、潤娥<br />
 <small>(202)</small></p></td>
 <td><p>11月27日<br />
 <small>(<em>11月14日</em>)</small></p></td>
-<td><p><a href="../Page/孫藝珍.md" title="wikilink">孫藝珍</a>、<a href="../Page/朴哲民.md" title="wikilink">朴哲民</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a>、<a href="https://zh.wikipedia.org/wiki/朴哲民" title="wikilink">朴哲民</a>、<br />
 <a href="../Page/李民基.md" title="wikilink">李民基</a></p></td>
-<td><p><a href="../Page/韓國通信.md" title="wikilink">KT總部</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國通信" title="wikilink">KT總部</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/城南市.md" title="wikilink">城南市</a><br />
 <a href="../Page/盆唐區.md" title="wikilink">盆唐區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>電話競賽</strong></span><br />
@@ -1094,8 +1094,8 @@ Gary、宋智孝、朴哲民<br />
 <small>(<em>11月15日</em>)</small></p></td>
 <td><p><a href="../Page/吳娟受.md" title="wikilink">吳娟受</a>、<a href="../Page/趙惠蓮.md" title="wikilink">趙惠蓮</a></p></td>
 <td><p><a href="../Page/慶熙宮.md" title="wikilink">慶熙宮</a><br />
-<small>(<a href="../Page/首爾特別市.md" title="wikilink">首爾特別市</a><br />
-<a href="../Page/鍾路區.md" title="wikilink">鍾路區</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/鍾路區" title="wikilink">鍾路區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>王妃競賽</strong></span><br />
 <span style=color:#008000><strong>娟受王妃隊</strong></span>：吳娟受、劉在錫、Gary<br />
 <span style=color:#0000FF><strong>惠蓮王妃隊</strong></span>：趙惠蓮、金鐘國、哈哈<br />
@@ -1124,7 +1124,7 @@ Gary、宋智孝、朴哲民<br />
 綠隊第二名及紅隊第三名<br />
 三隊分別獲得韓語、英語、粵語的任務指令<br />
 <em><strong>註：</strong><a href="../Page/成龍.md" title="wikilink">成龍傳達任務</a><br />
-<a href="../Page/林莉_(藝人).md" title="wikilink">林莉特別出演</a></em></p></td>
+<a href="https://zh.wikipedia.org/wiki/林莉_(藝人)" title="wikilink">林莉特別出演</a></em></p></td>
 </tr>
 <tr class="odd">
 <td><p>073<br />
@@ -1151,7 +1151,7 @@ Gary、宋智孝、朴哲民<br />
 <td><p>無嘉賓</p></td>
 <td><p><a href="http://www.kintex.com/client/_chi/index.jsp">KINTEX</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a> <a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="../Page/一山西區.md" title="wikilink">一山西區</a>)</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>第二代最強者戰 － 超能力者</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>

@@ -1,13 +1,13 @@
 《**Mother
-Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），2015年4月14日至6月16日於[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")[週二劇場時段](../Page/TBS週二連續劇.md "wikilink")（毎週二晚間10:00－10:54）播出的連續劇\[1\]\[2\]，此劇亦為[木村文乃首部擔任主演的戲劇作品](../Page/木村文乃.md "wikilink")。
+Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），2015年4月14日至6月16日於[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")[週二劇場時段](../Page/TBS週二連續劇.md "wikilink")（毎週二晚間10:00－10:54）播出的連續劇\[1\]\[2\]，此劇亦為[木村文乃首部擔任主演的戲劇作品](../Page/木村文乃.md "wikilink")。
 
 ## 劇情概要
 
-離婚的[單親媽媽蒲原希子](../Page/單親.md "wikilink")（木村文乃
+離婚的[單親媽媽蒲原希子](https://zh.wikipedia.org/wiki/單親 "wikilink")（木村文乃
 飾），住在祖父徹治的家中，每天除了忙於便當店的工作，沒出息的前夫三不五時會出現在希子面前，希望與希子復合外，還得為5歲的兒子陽斗就學問題傷腦筋。好不容易終於讓兒子進入當地的幼兒園，這才發現兒子就讀的是一間名門幼兒園。
 
-希子的「媽媽好友」之中，高中時代的同學也是[軟式網球社的搭檔神谷由紀](../Page/軟式網球.md "wikilink")（[貫地谷栞](../Page/貫地谷栞.md "wikilink")
-飾），表面上是名門貴婦，其實她與丈夫都只是普通的上班族，她沉迷於[賭博而無法自拔](../Page/賭博.md "wikilink")，欠下大筆債務；丈夫擔任執業[醫生的矢野聰子](../Page/醫生.md "wikilink")（[長谷川京子](../Page/長谷川京子.md "wikilink")
+希子的「媽媽好友」之中，高中時代的同學也是[軟式網球社的搭檔神谷由紀](https://zh.wikipedia.org/wiki/軟式網球 "wikilink")（[貫地谷栞](../Page/貫地谷栞.md "wikilink")
+飾），表面上是名門貴婦，其實她與丈夫都只是普通的上班族，她沉迷於[賭博而無法自拔](https://zh.wikipedia.org/wiki/賭博 "wikilink")，欠下大筆債務；丈夫擔任執業[醫生的矢野聰子](https://zh.wikipedia.org/wiki/醫生 "wikilink")（[長谷川京子](https://zh.wikipedia.org/wiki/長谷川京子 "wikilink")
 飾），不斷受到婆婆的精神虐待；曾在大型廣告公司擔任企劃，事業有成的後藤綠（[安達祐實](../Page/安達祐實.md "wikilink")
 飾），有個作風強勢的丈夫，之後又發現丈夫與公司女同事有外遇關係，心灰意冷的後藤，與女兒學校裡的足球教練發生外遇關係；所有媽媽的絕對領導者－房地產公司「帝王」繼承人小田寺球繪（[檀麗](../Page/檀麗.md "wikilink")
 飾），實際上也有不為人知的家庭祕密。大兒子因為表現無法讓家族成員滿意，被整個家族當成空氣……。
@@ -19,7 +19,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 ### 主要人物
 
   - 蒲原希子：[木村文乃](../Page/木村文乃.md "wikilink")（香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
-  - 矢野聰子：[長谷川京子](../Page/長谷川京子.md "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
+  - 矢野聰子：[長谷川京子](https://zh.wikipedia.org/wiki/長谷川京子 "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
   - 神谷由紀：[貫地谷栞](../Page/貫地谷栞.md "wikilink")（香港配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
   - 後藤綠：[安達祐實](../Page/安達祐實.md "wikilink")（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
   - 小田寺毬繪：[檀麗](../Page/檀麗.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
@@ -35,7 +35,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 蒲原陽斗：（香港配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
+  - 蒲原陽斗：（香港配音：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")）
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 矢野-{怜}-奈：（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
+  - 矢野-{怜}-奈：（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 矢野衿奈：[渡邊令羅](../Page/渡邊令羅.md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+  - 矢野衿奈：[渡邊令羅](https://zh.wikipedia.org/wiki/渡邊令羅 "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 矢野優輝：[大江優成](../Page/大江優成.md "wikilink")（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
+  - 矢野優輝：[大江優成](https://zh.wikipedia.org/wiki/大江優成 "wikilink")（香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 ### 神谷家
 
-  - 神谷恭二：（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
+  - 神谷恭二：（香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
 
 <!-- end list -->
 
@@ -98,7 +98,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 神谷櫻子：[後藤由依良](../Page/後藤由依良.md "wikilink")（香港配音：[何晶晶](../Page/何晶晶.md "wikilink")）
+  - 神谷櫻子：[後藤由依良](https://zh.wikipedia.org/wiki/後藤由依良 "wikilink")（香港配音：[何晶晶](../Page/何晶晶.md "wikilink")）
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 ### 後藤家
 
-  - 後藤修平：（香港配音：[黃啟昌](../Page/黃啟昌.md "wikilink")）
+  - 後藤修平：（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 小田寺彬：（香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
+  - 小田寺彬：[望月步](../Page/望月步.md "wikilink")（香港配音：[陳灝瑋](../Page/陳灝瑋.md "wikilink")）
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 奈良岡文：[室井滋](../Page/室井滋.md "wikilink")（香港配音：[林丹鳳](../Page/林丹鳳.md "wikilink")）
+  - 奈良岡文：[室井滋](../Page/室井滋.md "wikilink")（香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
 
 <!-- end list -->
 
@@ -188,7 +188,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 奈良岡舟：室井滋（分飾）（香港配音：[林丹鳳](../Page/林丹鳳.md "wikilink")）
+  - 奈良岡舟：室井滋（分飾）（香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
 
 <!-- end list -->
 
@@ -206,7 +206,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 柏木薫平：（香港配音：[馮錦堂](../Page/馮錦堂.md "wikilink")）
+  - 柏木薫平：（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
 <!-- end list -->
 
-  - 樫山秀德：[岡田義徳](../Page/岡田義徳.md "wikilink")（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - 樫山秀德：[岡田義徳](https://zh.wikipedia.org/wiki/岡田義徳 "wikilink")（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -241,7 +241,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 
   - 劇本：、武田有起、千壽實里
   - 音樂：
-  - 主題曲：〈[Beautiful](../Page/WHITE_\(Superfly專輯\).md "wikilink")〉[Superfly](../Page/Superfly.md "wikilink")（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
+  - 主題曲：〈[Beautiful](https://zh.wikipedia.org/wiki/WHITE_\(Superfly專輯\) "wikilink")〉[Superfly](../Page/Superfly.md "wikilink")（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
   - 製作人：新井順子
   - 導演：[塚原亞由子](../Page/塚原亞由子.md "wikilink")、竹村謙太郎、福田亮介、村尾嘉昭
   - 製作：DREAMAX、TBS
@@ -351,7 +351,7 @@ Game～她們的階級～**》（[日語](../Page/日語.md "wikilink")：），
 <td><p><span style="color:red">10.5%</span>[4]</p></td>
 </tr>
 <tr class="odd">
-<td><p>平均收視率8.79%（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="../Page/關東地區.md" title="wikilink">關東地區統計</a>）</p></td>
+<td><p>平均收視率8.79%（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區統計</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>

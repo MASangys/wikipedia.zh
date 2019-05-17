@@ -1,12 +1,12 @@
 **WM娛樂**（，）為韓國中小型的經紀公司，成立於2008年7月21日\[1\]，現任理事為，旗下知名藝人有[B1A4](../Page/B1A4.md "wikilink")、[Oh
 My
-Girl以及](../Page/Oh_My_Girl.md "wikilink")[ONF](../Page/ONF.md "wikilink")。成立初期，公司位於[首爾市](../Page/首爾市.md "wikilink")[瑞草區方背洞的一處大樓三樓](../Page/瑞草區.md "wikilink")，2014年於首爾市[麻浦區](../Page/麻浦區.md "wikilink")買下一棟新建獨立的大樓，並於2015年遷至此處。\[2\]\[3\]新公司的牆上寫著「原石有著各自不同的特色和個性，這裡是為了發現他們並打造成寶石而存在的地方」，突顯其欲發掘有才能、有才藝並打造成明星的覺悟。WM
+Girl以及](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")。成立初期，公司位於[首爾市](https://zh.wikipedia.org/wiki/首爾市 "wikilink")[瑞草區方背洞的一處大樓三樓](https://zh.wikipedia.org/wiki/瑞草區 "wikilink")，2014年於首爾市[麻浦區](../Page/麻浦區.md "wikilink")買下一棟新建獨立的大樓，並於2015年遷至此處。\[2\]\[3\]新公司的牆上寫著「原石有著各自不同的特色和個性，這裡是為了發現他們並打造成寶石而存在的地方」，突顯其欲發掘有才能、有才藝並打造成明星的覺悟。WM
 Entertainment的公司哲學便是將偶像當成普通人而不是商品，並將經紀公司本身定位成保護罩，透過不斷的溝通彼此互相信任，並適時給予偶像支持與加油。此外，嚴格實施三項素質教育，包括「遵守約定時間」、「真心打招呼」和「不說謊」，旗下練習生即便遲到五分鐘也必須寫悔過書。同時，WM
 Entertainment也鼓勵旗下藝人培養自我責任感與目標意識，鼓勵多嘗試製作歌曲\[4\]、演戲、主持等各種領域。透過培育藝人的作曲能力，使專輯的歌曲更有自己獨特的風格。\[5\]
 
 其所推出的第一個團體[B1A4在出道第三年](../Page/B1A4.md "wikilink")，以《[這是怎麼回事](../Page/這是怎麼回事.md "wikilink")》一曲拿下第一次的音樂節目一位，並奠定了之後每次新作品時常拿一位的人氣基礎。於2015年，推出八人女子團體[Oh
 My
-Girl](../Page/Oh_My_Girl.md "wikilink")，該團體在第二張迷你專輯主打歌中呈現星座的編舞，成功創造了話題。\[6\]而繼推出兩組團體後，也持續的招募新練習生，固定每月舉行一次複試的試鏡活動。\[7\]
+Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，該團體在第二張迷你專輯主打歌中呈現星座的編舞，成功創造了話題。\[6\]而繼推出兩組團體後，也持續的招募新練習生，固定每月舉行一次複試的試鏡活動。\[7\]
 
 ## 經歷
 
@@ -31,7 +31,7 @@ Girl](../Page/Oh_My_Girl.md "wikilink")，該團體在第二張迷你專輯主�
 
   - 2013年8月，曾有消息指出WM
     Entertainment有可能繼[Woollim娛樂之後](../Page/Woollim娛樂.md "wikilink")，被[SM娛樂併購至旗下子公司](../Page/SM娛樂.md "wikilink")[SM
-    C\&C](../Page/SM_C&C.md "wikilink")。\[10\]
+    C\&C](https://zh.wikipedia.org/wiki/SM_C&C "wikilink")。\[10\]
 
 <!-- end list -->
 
@@ -52,7 +52,8 @@ Girl](../Page/Oh_My_Girl.md "wikilink")，該團體在第二張迷你專輯主�
 
 <!-- end list -->
 
-  - 2015年4月，推出女子團體**[Oh My Girl](../Page/Oh_My_Girl.md "wikilink")**。
+  - 2015年4月，推出女子團體**[Oh My
+    Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")**。
 
 <!-- end list -->
 
@@ -67,7 +68,7 @@ Girl](../Page/Oh_My_Girl.md "wikilink")，該團體在第二張迷你專輯主�
 
   - 2015年下半年起，積極打入中國市場，不僅於[新浪微博分別開設B](../Page/新浪微博.md "wikilink")1A4成員們的個人官方帳號，同時在微博創建[最佳男友B1A4](http://www.weibo.com/p/1008088e91a25fc67a682801c8b552a41ac831?k=%25E6%259C%2580%25E4%25BD%25B3%25E7%2594%25B7%25E5%258F%258BB1A4&from=601&_from_=huati_topic)的話題，並促使[B1A4和](../Page/B1A4.md "wikilink")[Oh
     My
-    Girl參與中國節目與各項活動](../Page/Oh_My_Girl.md "wikilink")。\[16\]\[17\]\[18\]
+    Girl參與中國節目與各項活動](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")。\[16\]\[17\]\[18\]
 
 ### 2016年至今
 
@@ -94,13 +95,14 @@ Girl](../Page/Oh_My_Girl.md "wikilink")，該團體在第二張迷你專輯主�
 
 <!-- end list -->
 
-  - 2017年7月13日，公開新男團**[ONF](../Page/ONF.md "wikilink")**各SNS官方帳號，並於7月24日起陸續發布的內容中，標籤一組數字170802，7月26日正式公告ONF將於8月2日出道。
+  - 2017年7月13日，公開新男團**[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")**各SNS官方帳號，並於7月24日起陸續發布的內容中，標籤一組數字170802，7月26日正式公告ONF將於8月2日出道。
 
 <!-- end list -->
 
   - 2017年10月30日，旗下女子團體[OH MY
-    GIRL成員](../Page/OH_MY_GIRL.md "wikilink")[JinE因健康問題和公司解約並退出團體](../Page/JinE.md "wikilink")。往後[OH
-    MY GIRL將以七人體制活動](../Page/OH_MY_GIRL.md "wikilink")。
+    GIRL成員](https://zh.wikipedia.org/wiki/OH_MY_GIRL "wikilink")[JinE因健康問題和公司解約並退出團體](https://zh.wikipedia.org/wiki/JinE "wikilink")。往後[OH
+    MY
+    GIRL將以七人體制活動](https://zh.wikipedia.org/wiki/OH_MY_GIRL "wikilink")。
 
 <!-- end list -->
 
@@ -133,16 +135,16 @@ Girl](../Page/Oh_My_Girl.md "wikilink")，該團體在第二張迷你專輯主�
 </tr>
 <tr class="even">
 <td><p>2015年4月20日</p></td>
-<td><p><a href="../Page/Oh_My_Girl.md" title="wikilink">Oh My Girl</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a></p></td>
 <td><p>女</p></td>
 <td><p>孝定{{·}}Mimi{{·}}YooA{{·}}勝熙<br />
 祉呼{{·}}Binnie{{·}}Arin</p></td>
-<td><p><a href="../Page/孝定.md" title="wikilink">孝定</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孝定" title="wikilink">孝定</a></p></td>
 <td><p>Miracle</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年8月2日</p></td>
-<td><p><a href="../Page/ONF.md" title="wikilink">ONF</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONF" title="wikilink">ONF</a></p></td>
 <td><p>男</p></td>
 <td><p>Hyojin{{·}}E-TION{{·}}J-US{{·}}Wyatt<br />
 MK{{·}}U{{·}}Laun</p></td>
@@ -155,17 +157,19 @@ OFF：J-US</p></td>
 
 ### 外签艺人
 
-  - [李彩讌](../Page/李彩讌.md "wikilink")(이채연) -
-    [IZ\*ONE成员](../Page/IZ*ONE.md "wikilink")；前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink")，曾參加[Mnet選秀節目](../Page/Mnet.md "wikilink")《[SIXTEEN](../Page/SIXTEEN.md "wikilink")》、[PRODUCE
-    48](../Page/PRODUCE_48.md "wikilink")
+  - [李彩讌](https://zh.wikipedia.org/wiki/李彩讌 "wikilink")(이채연) -
+    [IZ\*ONE成员](../Page/IZ*ONE.md "wikilink")；前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink")，曾參加[Mnet選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》、[PRODUCE
+    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
 
 ### 練習生
 
 *<small>漢字名字為音譯，若有正名再行更正</small>*
 
   - 金延秀(김연수)
-  - 趙榮印(조영인)-[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")
-  - 李承炫(이승현)-[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")
+  - 趙榮印(조영인)-[PRODUCE
+    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
+  - 李承炫(이승현)-[PRODUCE
+    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
   - 黃彩元(황채원)
   - 丁賢瑞(정현서)
   - 金珠元(김주원)
@@ -193,7 +197,7 @@ OFF：J-US</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2001年</p></td>
-<td><p><a href="../Page/安珍慶.md" title="wikilink">安珍慶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安珍慶" title="wikilink">安珍慶</a></p></td>
 <td><p>女</p></td>
 <td><p>1983</p></td>
 <td><p>Second Wing</p></td>
@@ -233,7 +237,7 @@ OFF：J-US</p></td>
 <td><p>—</p></td>
 <td><p>2015年</p></td>
 <td><p>2017年</p></td>
-<td><p><a href="../Page/Oh_My_Girl.md" title="wikilink">Oh My Girl</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
@@ -259,7 +263,7 @@ OFF：J-US</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/I_(아이).md" title="wikilink">I</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I_(아이)" title="wikilink">I</a></p></td>
 <td><p>女</p></td>
 <td><p>1996</p></td>
 <td><p>Dream</p></td>
@@ -274,8 +278,8 @@ OFF：J-US</p></td>
 ### 已離開練習生
 
   - 池秀娟(지수연) - [CJ
-    E\&M練習生出身](../Page/CJ_E&M.md "wikilink")，轉投[Fantagio成為](../Page/Fantagio.md "wikilink")[Weki
-    Meki成員](../Page/Weki_Meki.md "wikilink")
+    E\&M練習生出身](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")，轉投[Fantagio成為](../Page/Fantagio.md "wikilink")[Weki
+    Meki成員](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")
 
 ## 參考資料
 

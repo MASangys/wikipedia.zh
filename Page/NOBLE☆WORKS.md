@@ -50,13 +50,13 @@ WORKS」並加上「☆」的「」作為標題名稱\[3\]。
     作詞：[榊原由依](../Page/榊原由依.md "wikilink")　作曲：Famishin　編曲：NGTA (Angel
     Note)　歌：榊原由依
   - ED「光差す未来」
-    作詞：[霜月はるか](../Page/霜月はるか.md "wikilink")　作曲：Famishin　編曲：井ノ原智 (Angel
-    Note)　歌：霜月はるか
+    作詞：[霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")　作曲：Famishin　編曲：井ノ原智
+    (Angel Note)　歌：霜月はるか
 
 ## 工作人員
 
   - 企劃/原案：天宮りつ\[5\]
-  - 人物設定：[こぶいち](../Page/こぶいち.md "wikilink")、[むりりん](../Page/むりりん.md "wikilink")
+  - 人物設定：[こぶいち](https://zh.wikipedia.org/wiki/こぶいち "wikilink")、[むりりん](https://zh.wikipedia.org/wiki/むりりん "wikilink")
   - 劇本：天宮りつ、北川晴、J・さいろー
   - 音樂：Famishin、Angel Note
   - 監製/音響：Famishin

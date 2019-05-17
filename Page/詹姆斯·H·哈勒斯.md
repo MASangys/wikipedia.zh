@@ -11,7 +11,8 @@ Harless**，1919年10月14日—2014年1月1日）是美國煤炭和木材經營
 
   - Buck: A Life Sketch of James H. Harless by Ruel E. Foster (Author),
     Robert B. Conner (Author), ISBN 978-0-937058-30-5, Publisher: [West
-    Virginia University](../Page/West_Virginia_University.md "wikilink")
+    Virginia
+    University](https://zh.wikipedia.org/wiki/West_Virginia_University "wikilink")
     Press - 1992-06, 166 Pages.
 
 ## 外部連結

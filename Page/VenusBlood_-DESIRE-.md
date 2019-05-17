@@ -1,6 +1,6 @@
 《**VenusBlood
 -DESIRE-**》是日本スタジオ九尾公司的旗下品牌dualtail在2009年11月27日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2010年11月19日由WHITE
-BEAR發售[DVDPG](../Page/DVDPG.md "wikilink")。\[3\]VenusBlood系列的第三作，不同於前兩作的育成模擬遊戲，本作和之後的續作都變更為地域壓制型模擬遊戲。
+BEAR發售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]VenusBlood系列的第三作，不同於前兩作的育成模擬遊戲，本作和之後的續作都變更為地域壓制型模擬遊戲。
 
 ## 遊戲系統
 
@@ -57,7 +57,7 @@ BEAR發售[DVDPG](../Page/DVDPG.md "wikilink")。\[3\]VenusBlood系列的第三�
   -
     原本觀念保守在惡墮之後轉變為開放並且取得ダンテス的信任取回神具而重獲自由。
 
-  - ペルセイラ（CV：[水純菜菜步](../Page/水純菜菜步.md "wikilink")）
+  - ペルセイラ（CV：[水純菜菜步](https://zh.wikipedia.org/wiki/水純菜菜步 "wikilink")）
 
 <!-- end list -->
 
@@ -203,9 +203,9 @@ BEAR發售[DVDPG](../Page/DVDPG.md "wikilink")。\[3\]VenusBlood系列的第三�
 
 ## 相關條目
 
-  - [VenusBlood](../Page/VenusBlood.md "wikilink")：VenusBlood系列的第一部作品。
+  - [VenusBlood](https://zh.wikipedia.org/wiki/VenusBlood "wikilink")：VenusBlood系列的第一部作品。
   - [VenusBlood
-    -FRONTIER-](../Page/VenusBlood_-FRONTIER-.md "wikilink")：VenusBlood系列的第五部作品。
+    -FRONTIER-](https://zh.wikipedia.org/wiki/VenusBlood_-FRONTIER- "wikilink")：VenusBlood系列的第五部作品。
 
 ## 參考來源
 

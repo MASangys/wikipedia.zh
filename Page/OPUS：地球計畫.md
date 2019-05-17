@@ -1,17 +1,17 @@
-《**OPUS：地球計畫**》（）是款以探索世界、體驗劇情為主的冒險遊戲，由台灣的[SIGONO](../Page/SIGONO.md "wikilink")（原[Team
-Signal](../Page/Team_Signal.md "wikilink")）開發。
+《**OPUS：地球計畫**》（）是款以探索世界、體驗劇情為主的冒險遊戲，由台灣的[SIGONO](https://zh.wikipedia.org/wiki/SIGONO "wikilink")（原[Team
+Signal](https://zh.wikipedia.org/wiki/Team_Signal "wikilink")）開發。
 
-《OPUS：地球計畫》的[故事是發生在數百萬年後](../Page/故事.md "wikilink")，[人類因為](../Page/人類.md "wikilink")[科技進步而開始進行](../Page/科技.md "wikilink")[基因改造](../Page/基因改造.md "wikilink")，但長久下來也造成基因上的缺陷，因為缺乏人類原始基因的記錄，因此決定尋找已經成為[神話的](../Page/神話.md "wikilink")[地球](../Page/地球.md "wikilink")，希望找到彌補基因缺陷的方法。《OPUS
-地球計畫》主要透過遊戲中的[望遠鏡來探測太空](../Page/望遠鏡.md "wikilink")，找尋可能是地球的[行星](../Page/行星.md "wikilink")，同時也會隨著劇情發展解答遊戲中的謎團。
+《OPUS：地球計畫》的[故事是發生在數百萬年後](https://zh.wikipedia.org/wiki/故事 "wikilink")，[人類因為](../Page/人類.md "wikilink")[科技進步而開始進行](https://zh.wikipedia.org/wiki/科技 "wikilink")[基因改造](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，但長久下來也造成基因上的缺陷，因為缺乏人類原始基因的記錄，因此決定尋找已經成為[神話的](https://zh.wikipedia.org/wiki/神話 "wikilink")[地球](../Page/地球.md "wikilink")，希望找到彌補基因缺陷的方法。《OPUS
+地球計畫》主要透過遊戲中的[望遠鏡來探測太空](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")，找尋可能是地球的[行星](../Page/行星.md "wikilink")，同時也會隨著劇情發展解答遊戲中的謎團。
 
-遊戲最初於2015年10月22日在[iOS以及](../Page/iOS.md "wikilink")[Android](../Page/Android.md "wikilink")\[1\]上發售，並在2016年4月22日在[Steam上推出](../Page/Steam.md "wikilink")[Mac與](../Page/Mac.md "wikilink")[Windows版本](../Page/Microsoft_Windows.md "wikilink")\[2\]。2017年11月30日游戏在[任天堂Switch上发行](../Page/任天堂Switch.md "wikilink")。
+遊戲最初於2015年10月22日在[iOS以及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")\[1\]上發售，並在2016年4月22日在[Steam上推出](../Page/Steam.md "wikilink")[Mac與](https://zh.wikipedia.org/wiki/Mac "wikilink")[Windows版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[2\]。2017年11月30日游戏在[任天堂Switch上发行](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。
 
 《OPUS：地球計畫》於2016年1月1日獲選為Google
 Play編輯精選\[3\]，於2016年入圍第12屆國際行動遊戲大獎的「最富意義遊戲」提名\[4\]，並獲得IMGA
 SEA國際行動大獎的「最佳敘事獎」，以及 Indieplay 中國獨立遊戲大賽「最佳行動遊戲」獎，與「最佳音樂音效」提名，和
 2017台北電玩展「最佳故事獎」。\[5\]
 
-其續作為2017年推出之[OPUS：靈魂之橋](../Page/OPUS：靈魂之橋.md "wikilink")\[6\]。
+其續作為2017年推出之[OPUS：靈魂之橋](https://zh.wikipedia.org/wiki/OPUS：靈魂之橋 "wikilink")\[6\]。
 
 ## 背景
 
@@ -27,11 +27,11 @@ SEA國際行動大獎的「最佳敘事獎」，以及 Indieplay 中國獨立遊
 
 #### 麗莎（人工智慧）
 
-泛用輔助[人工智慧第三型](../Page/人工智慧.md "wikilink")，被植入了麗莎・亞當斯的人格，因此代號為麗莎。在奧伯斯恢復供電後重新啟動而與艾姆相遇。其誕生的目標就是實現艾姆的願望，能與太空望遠鏡連接，並用行星掃描[演算法來幫助艾姆尋找地球](../Page/演算法.md "wikilink")。雖然外型和人格都和麗莎博士一樣，卻無法得到艾姆的承認。
+泛用輔助[人工智慧第三型](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")，被植入了麗莎・亞當斯的人格，因此代號為麗莎。在奧伯斯恢復供電後重新啟動而與艾姆相遇。其誕生的目標就是實現艾姆的願望，能與太空望遠鏡連接，並用行星掃描[演算法來幫助艾姆尋找地球](https://zh.wikipedia.org/wiki/演算法 "wikilink")。雖然外型和人格都和麗莎博士一樣，卻無法得到艾姆的承認。
 
 #### 麗莎・亞當斯
 
-奧伯斯的兩位[宇航員之一](../Page/宇航員.md "wikilink")，始終相信著地球的存在，即使遍尋了二十多個星系仍未找到地球，也沒有絲毫放棄的念頭。她為艾姆的啟動做了設定和校正，也教會艾姆操作太空望遠鏡，並賦予了艾姆尋找地球的目標。和竹內真誠因為理念不合經常吵架。
+奧伯斯的兩位[宇航員之一](https://zh.wikipedia.org/wiki/宇航員 "wikilink")，始終相信著地球的存在，即使遍尋了二十多個星系仍未找到地球，也沒有絲毫放棄的念頭。她為艾姆的啟動做了設定和校正，也教會艾姆操作太空望遠鏡，並賦予了艾姆尋找地球的目標。和竹內真誠因為理念不合經常吵架。
 
 #### 竹內真誠
 
@@ -53,7 +53,7 @@ SEA國際行動大獎的「最佳敘事獎」，以及 Indieplay 中國獨立遊
 
 #### 麗莎演算法
 
-由麗莎博士發明的[演算法](../Page/演算法.md "wikilink")，也稱為行星掃描演算法，在博士啟動人工智慧麗莎時，將演算法植入了它的記憶體中，以幫助艾姆完成任務。
+由麗莎博士發明的[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")，也稱為行星掃描演算法，在博士啟動人工智慧麗莎時，將演算法植入了它的記憶體中，以幫助艾姆完成任務。
 
 ## 遊戲方式
 
@@ -83,8 +83,8 @@ OPUS：地球計畫是以探索為主軸，藉由探索過程逐步地揭開故�
 
 《OPUS：地球計畫》原聲帶先於2015年10月21日發售\[7\]，後於Steam上架作為遊戲的可下載內容推出。收錄了遊戲中使用的17首曲目，以及4首特別收錄曲。
 
-曲風包含了[氛圍電子](../Page/氛圍電子.md "wikilink")，[超微量後搖](../Page/超微量後搖.md "wikilink")，[實驗音樂與](../Page/實驗音樂.md "wikilink")[Chill
-Out等](../Page/Chill_Out.md "wikilink")，由台灣音樂家Triodust作曲。
+曲風包含了[氛圍電子](https://zh.wikipedia.org/wiki/氛圍電子 "wikilink")，[超微量後搖](https://zh.wikipedia.org/wiki/超微量後搖 "wikilink")，[實驗音樂與](../Page/實驗音樂.md "wikilink")[Chill
+Out等](https://zh.wikipedia.org/wiki/Chill_Out "wikilink")，由台灣音樂家Triodust作曲。
 
 | 曲名                     | 音樂家      |
 | ---------------------- | -------- |
@@ -113,7 +113,7 @@ Out等](../Page/Chill_Out.md "wikilink")，由台灣音樂家Triodust作曲。
 ## Steam版本
 
 《OPUS：地球計畫》的Steam版本於2016年3月12日通過[Steam
-Greenlight投票](../Page/Steam_Greenlight.md "wikilink")\[8\]，並於4月22日在Steam平台上架，數位版原聲帶同步發售。
+Greenlight投票](https://zh.wikipedia.org/wiki/Steam_Greenlight "wikilink")\[8\]，並於4月22日在Steam平台上架，數位版原聲帶同步發售。
 
 遊戲內容與行動平台版本大致相同，添加了全程過場動畫，並且為了從手機轉換到電腦平台做出大量細節修正，包含操作方式從觸控改為鍵盤/滑鼠操作，以及介面、美術素材的重製、高畫質化等。
 

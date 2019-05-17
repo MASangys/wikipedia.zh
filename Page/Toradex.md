@@ -13,7 +13,7 @@
 公司的产品用于广泛的嵌入式设备。
 
 韬睿的业务网络包括
-[飞思卡尔](../Page/飞思卡尔.md "wikilink")\[4\]\[5\]、ARM\[6\]、[NVIDIA](../Page/英伟达.md "wikilink")、[Altium](../Page/Altium公司.md "wikilink")、[MARVELL](../Page/美满电子科技公司.md "wikilink")、Microsoft
+[飞思卡尔](../Page/飞思卡尔.md "wikilink")\[4\]\[5\]、ARM\[6\]、[NVIDIA](../Page/英伟达.md "wikilink")、[Altium](https://zh.wikipedia.org/wiki/Altium公司 "wikilink")、[MARVELL](https://zh.wikipedia.org/wiki/美满电子科技公司 "wikilink")、Microsoft
 Windows Embedded\[7\]、Qt\[8\] 公司 等。公司的合作伙伴包括硬件和软件服务公司，例如
 Ginsbury\[9\]、Antmicro Ltd.\[10\] 等
 

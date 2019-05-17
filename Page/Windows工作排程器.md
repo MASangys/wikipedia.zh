@@ -1,9 +1,9 @@
 **任务计划程序**（），也称**计划任务**。这是[Microsoft
-Windows中的一个组件](../Page/Microsoft_Windows.md "wikilink")，可以预先计划在特定时间或指定时间后启动程序或脚本。它在[Windows
+Windows中的一个组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，可以预先计划在特定时间或指定时间后启动程序或脚本。它在[Windows
 95的](../Page/Windows_95.md "wikilink")[Microsoft
-Plus\!中以](../Page/Microsoft_Plus!.md "wikilink")“系统代理”（System
+Plus\!中以](https://zh.wikipedia.org/wiki/Microsoft_Plus! "wikilink")“系统代理”（System
 Agent）首次引入，随后在[Windows
-98中被更名为任务计划程序](../Page/Windows_98.md "wikilink")。任务计划程序启动前，[Windows事件记录服务必须已在运行](../Page/Windows事件记录.md "wikilink")。
+98中被更名为任务计划程序](../Page/Windows_98.md "wikilink")。任务计划程序启动前，[Windows事件记录服务必须已在运行](https://zh.wikipedia.org/wiki/Windows事件记录 "wikilink")。
 
 此服务不应与[计算机调度混淆](../Page/调度_\(计算机\).md "wikilink")，那是分配[CPU资源到内存中的进程](../Page/中央处理器.md "wikilink")。
 
@@ -13,7 +13,7 @@ Agent）首次引入，随后在[Windows
 
 任务计划程序1.0搭载于[Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows
 XP和](../Page/Windows_XP.md "wikilink")[Windows Server
-2003](../Page/Windows_Server_2003.md "wikilink")。\[1\]它运行为一个[Windows服务](../Page/Windows服务.md "wikilink")，任务定义和计划存储于[二进制的](../Page/二进制文件.md "wikilink")`.job`文件，操作各任务就是直接操作各`.job`文件，每个任务对应一个操作。在[Windows
+2003](../Page/Windows_Server_2003.md "wikilink")。\[1\]它运行为一个[Windows服务](../Page/Windows服务.md "wikilink")，任务定义和计划存储于[二进制的](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")`.job`文件，操作各任务就是直接操作各`.job`文件，每个任务对应一个操作。在[Windows
 95](../Page/Windows_95.md "wikilink")、[Windows
 98和](../Page/Windows_98.md "wikilink")[Windows
 Me中](../Page/Windows_Me.md "wikilink")，任务计划程序使用一个普通的`mstask.exe`程序运行。在Windows
@@ -44,12 +44,12 @@ Vista使用任务计划程序2.0运行各种系统级任务；\[11\]因此，任
 
 任务计划程序按各项受管理的任务运作。任务会在特定条件下以执行操作响应。<span class="cx-segment" data-segmentid="228"></span>定义一个任务可以关联一系列操作，其中可以包括启动应用程序或采取其他自定义操作，to
 a set of triggers, which can
-either基于时间或基于事件。此外，一个任务也可以包含定义如何执行操作的元数据，例如任务将在哪个安全上下文运行。任务被序列化为`.job`文件并存储在名为“任务文件夹”的[特殊文件夹中](../Page/特殊文件夹.md "wikilink")。在编程角度，任务文件夹可以使用`ITaskFolder`接口或`TaskFolder`脚本对象访问，单个任务可以使用`IRegisteredTask`接口或`RegisteredTask`对象访问。\[15\]
+either基于时间或基于事件。此外，一个任务也可以包含定义如何执行操作的元数据，例如任务将在哪个安全上下文运行。任务被序列化为`.job`文件并存储在名为“任务文件夹”的[特殊文件夹中](https://zh.wikipedia.org/wiki/特殊文件夹 "wikilink")。在编程角度，任务文件夹可以使用`ITaskFolder`接口或`TaskFolder`脚本对象访问，单个任务可以使用`IRegisteredTask`接口或`RegisteredTask`对象访问。\[15\]
 
 ## 软件缺陷
 
 在Windows 2000和Windows
-XP中，分配为使用SYSTEM权限运行的任务在计算机准备使用[`sysprep`](../Page/sysprep.md "wikilink")的磁盘映像时不会生效。Sysprep会更改[安全标识符](../Page/安全标识符.md "wikilink")（SID）以避免重复，但不会更新计划任务为使用新的SID。因此，所有SYSTEM的计划任务在映像的计算机上都会运行失败。没有适用于此问题的解决方案，但重新计划该任务可以暂时缓解问题。\[16\]
+XP中，分配为使用SYSTEM权限运行的任务在计算机准备使用[`sysprep`](https://zh.wikipedia.org/wiki/sysprep "wikilink")的磁盘映像时不会生效。Sysprep会更改[安全标识符](https://zh.wikipedia.org/wiki/安全标识符 "wikilink")（SID）以避免重复，但不会更新计划任务为使用新的SID。因此，所有SYSTEM的计划任务在映像的计算机上都会运行失败。没有适用于此问题的解决方案，但重新计划该任务可以暂时缓解问题。\[16\]
 
 在Windows Vista和Windows Server 2008上，如果未安装Service Pack
 2，任务计划程序中的“下次运行时间”可能显示错误。\[17\]
@@ -61,7 +61,7 @@ R2上：微软管理控制台在您实际运行“任务计划程序2.0”时会
 ## 参见
 
   -
-  - [cron](../Page/cron.md "wikilink")
+  - [cron](https://zh.wikipedia.org/wiki/cron "wikilink")
 
   -
   - [Windows任务管理器](../Page/任务管理器_\(Windows元件\).md "wikilink")

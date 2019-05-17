@@ -1,4 +1,4 @@
-《**Vibeology**》是美國女歌手[寶拉·阿巴杜在](../Page/寶拉·阿巴杜.md "wikilink")1992年1月發行的單曲，這首單曲在[告示牌單曲榜獲得第](../Page/Billboard_Hot_100.md "wikilink")16名\[1\]。
+《**Vibeology**》是美國女歌手[寶拉·阿巴杜在](../Page/寶拉·阿巴杜.md "wikilink")1992年1月發行的單曲，這首單曲在[告示牌單曲榜獲得第](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")16名\[1\]。
 
 ## 資料
 
@@ -8,7 +8,7 @@
 Rush](../Page/Rush_Rush.md "wikilink")》（五週冠軍）、《[The Promise of a New
 Day](../Page/The_Promise_of_a_New_Day.md "wikilink")》（一週冠軍）和《[Blowing
 Kisses in the
-Wind](../Page/Blowing_Kisses_in_the_Wind.md "wikilink")》（第6名）。《Vibeology》是一首融合[浩室和](../Page/浩室.md "wikilink")[放克味道的流行舞曲](../Page/放克.md "wikilink")，節奏強勁段落分明，只是這首後現代風格強烈的舞曲過於前衛，並非當時市場主流，且寶拉·阿巴杜在歌曲中恣意鬼吼鬼叫的呈現方式，並不討歌迷喜愛\[2\]\[3\]。
+Wind](../Page/Blowing_Kisses_in_the_Wind.md "wikilink")》（第6名）。《Vibeology》是一首融合[浩室和](https://zh.wikipedia.org/wiki/浩室 "wikilink")[放克味道的流行舞曲](../Page/放克.md "wikilink")，節奏強勁段落分明，只是這首後現代風格強烈的舞曲過於前衛，並非當時市場主流，且寶拉·阿巴杜在歌曲中恣意鬼吼鬼叫的呈現方式，並不討歌迷喜愛\[2\]\[3\]。
 
 ### 商業成績
 

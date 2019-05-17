@@ -1,7 +1,7 @@
 **Windows HPC Server 2008**,
-由[Microsoft公司于](../Page/Microsoft.md "wikilink")2008年9月22日发行,
+由[Microsoft公司于](https://zh.wikipedia.org/wiki/Microsoft "wikilink")2008年9月22日发行,
 是[Windows Compute Cluster Server
-2003的后续版本](../Page/Windows_Server_2003#Windows_Compute_Cluster_Server.md "wikilink")，就像WCCS一样,
+2003的后续版本](https://zh.wikipedia.org/wiki/Windows_Server_2003#Windows_Compute_Cluster_Server "wikilink")，就像WCCS一样,
 Windows HPC Server 2008是设计于需要高性能计算集群的高端应用。\[1\]
 此服务器软件声称能有效扩展到数以千计的内核。针对于超算机的工作负荷，它存在很多的特点：比如高速的NetworkDirect
 RDMA接口，高效率且具有可扩展性的群集管理工具（Cluster Management
@@ -12,13 +12,13 @@ Forum，OGF）标准特性来实现集群互通性\[3\]。
 
 2008年6月，[美国国家超级电脑应用中心](../Page/国家超级电脑应用中心.md "wikilink")（National Center
 for Supercomputing
-Applications，NCSA）和[微软进行的一个系统构筑合作计划超算在](../Page/微软.md "wikilink")[TOP500上排名第](../Page/TOP500.md "wikilink")23位，其成绩为[每秒68.5兆次的浮点运算](../Page/每秒浮点运算次数.md "wikilink")（68.5
+Applications，NCSA）和[微软进行的一个系统构筑合作计划超算在](../Page/微软.md "wikilink")[TOP500上排名第](../Page/TOP500.md "wikilink")23位，其成绩为[每秒68.5兆次的浮点运算](https://zh.wikipedia.org/wiki/每秒浮点运算次数 "wikilink")（68.5
 TFLOPS）。NCSA的超算机使用的就是Windows Server HPC和[Red Hat Enterprise
 Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") 4这两种操作系统。\[4\]之后在
 2011年11月，这台超算系统的排名降到了第253位\[5\]。
 
 在2008年11月发布的[TOP500排行榜上](../Page/TOP500.md "wikilink")，由[上海超级计算中心建立的一个基于Windows](../Page/上海超级计算中心.md "wikilink")
-HPC操作系统的超算机凭借峰值计算[每秒180.6兆次的浮点运算排名第](../Page/每秒浮点运算次数.md "wikilink")11位\[6\]。2011年11月，全球性能最强的500台超级计算机中，有0.2%（1台）的电脑使用Windows
+HPC操作系统的超算机凭借峰值计算[每秒180.6兆次的浮点运算排名第](https://zh.wikipedia.org/wiki/每秒浮点运算次数 "wikilink")11位\[6\]。2011年11月，全球性能最强的500台超级计算机中，有0.2%（1台）的电脑使用Windows
 HPC，Linux则占据了91.4%，Unix居于第二位，占据了6%\[7\]。
 
 ## Windows HPC Server 2008 R2

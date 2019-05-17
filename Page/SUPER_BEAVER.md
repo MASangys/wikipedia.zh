@@ -49,7 +49,7 @@
   -
     舉辦超過100場LIVE活動。
     離開原屬事務所[EPIC Records
-    Japan](../Page/EPIC_Records_Japan.md "wikilink")。
+    Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。
 
 2012年
 

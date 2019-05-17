@@ -1,5 +1,6 @@
-《**Cobalt**》是由Oxeye游戏工作室制作，由[Mojang发行的](../Page/Mojang.md "wikilink")[横向卷轴游戏](../Page/横向卷轴游戏.md "wikilink")。该游戏正在开发alpha版本，该游戏的[Windows和](../Page/Windows.md "wikilink")[Mac
-OS X版本也正在开发](../Page/Mac_OS_X.md "wikilink")，而Linux版计划公测。除了计算机版本，[Xbox
+《**Cobalt**》是由Oxeye游戏工作室制作，由[Mojang发行的](../Page/Mojang.md "wikilink")[横向卷轴游戏](https://zh.wikipedia.org/wiki/横向卷轴游戏 "wikilink")。该游戏正在开发alpha版本，该游戏的[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
+OS
+X版本也正在开发](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，而Linux版计划公测。除了计算机版本，[Xbox
 360和](../Page/Xbox_360.md "wikilink")[Xbox
 One版本也在开发中](../Page/Xbox_One.md "wikilink")。
 

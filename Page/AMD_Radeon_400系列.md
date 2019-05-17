@@ -1,9 +1,9 @@
 **AMD Radeon
-400系列**顯示核心，是[AMD所推出的](../Page/AMD.md "wikilink")[圖形處理器系列](../Page/圖形處理器.md "wikilink")，開發代號為「Polaris」，以三星14nm
-[FinFET製程](../Page/多閘極電晶體.md "wikilink")（由[格羅方德代工](../Page/格羅方德.md "wikilink")）\[1\]，仍基於[GCN架構改造而來](../Page/GCN架構.md "wikilink")，仍繼續採用[GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")。AMD已於2016年中的台北國際電腦展上發表核心代號為「Polaris
+400系列**顯示核心，是[AMD所推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[圖形處理器系列](../Page/圖形處理器.md "wikilink")，開發代號為「Polaris」，以三星14nm
+[FinFET製程](../Page/多閘極電晶體.md "wikilink")（由[格羅方德代工](https://zh.wikipedia.org/wiki/格羅方德 "wikilink")）\[1\]，仍基於[GCN架構改造而來](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")，仍繼續採用[GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")。AMD已於2016年中的台北國際電腦展上發表核心代號為「Polaris
 10」的首款顯卡 Radeon RX 480，作為主流級應用，這是AMD自[Radeon HD
-4000系列以來再次首先發布中高階級別的GPU](../Page/Radeon_HD_4000.md "wikilink")。競爭對手為NVIDIA的[GeForce
-10系列](../Page/GeForce_10系列.md "wikilink")。開發代號為「Vega」的GPU預估將搭載HBM2顯示記憶體，並以Radeon
+4000系列以來再次首先發布中高階級別的GPU](https://zh.wikipedia.org/wiki/Radeon_HD_4000 "wikilink")。競爭對手為NVIDIA的[GeForce
+10系列](https://zh.wikipedia.org/wiki/GeForce_10系列 "wikilink")。開發代號為「Vega」的GPU預估將搭載HBM2顯示記憶體，並以Radeon
 500系列之頂級型號面市。\[2\]
 
 ## 命名
@@ -15,10 +15,11 @@ xyz(X)」（此處的v代表2\~9，代表效能級別；x代表產品世代；y�
 
 不過這次命名調整上，對y和z的具體定義與上代有區別：\[4\]
 
-  - y數值達到9，代表擁有至少 30FPS @ [4K](../Page/4K.md "wikilink")
-    的遊戲顯示能力，具備大於256位元的[顯示記憶體匯流排寬度](../Page/顯示記憶體.md "wikilink")
+  - y數值達到9，代表擁有至少 30FPS @
+    [4K](https://zh.wikipedia.org/wiki/4K "wikilink")
+    的遊戲顯示能力，具備大於256位元的[顯示記憶體匯流排寬度](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")
   - y數值達到7、8，代表擁有至少 30FPS @ 1440p/2K
-    的遊戲顯示能力，具備256位元的顯示記憶體[匯流排寬度](../Page/匯流排.md "wikilink")
+    的遊戲顯示能力，具備256位元的顯示記憶體[匯流排寬度](https://zh.wikipedia.org/wiki/匯流排 "wikilink")
   - y數值達到5、6，並附帶「RX」前綴的，代表擁有至少 60FPS @
     [1080p](../Page/1080p.md "wikilink") 的遊戲顯示能力，具備128位元的顯示記憶體匯流排寬度
   - y數值達到5、6，不帶「RX」前綴的，代表擁有至少 30FPS @ 1080p
@@ -30,7 +31,7 @@ xyz(X)」（此處的v代表2\~9，代表效能級別；x代表產品世代；y�
 
 本代是GCN顯示核心架構的第4個版本。本次架構修訂中，更換了新的硬體排程器、改進CU的執行效率、顯示信號輸出單元（支援[DisplayPort](../Page/DisplayPort.md "wikilink")
 1.4 HBR、[HDMI
-2.0b](../Page/HDMI#Version_2.0.md "wikilink")、[HDR10色域](../Page/HDR10.md "wikilink")）、新版UVD等等。其中新版UVD的加入使本系列GPU擁有[HEVC影片硬體加速能力](../Page/HEVC.md "wikilink")，最高支援到
+2.0b](https://zh.wikipedia.org/wiki/HDMI#Version_2.0 "wikilink")、[HDR10色域](https://zh.wikipedia.org/wiki/HDR10 "wikilink")）、新版UVD等等。其中新版UVD的加入使本系列GPU擁有[HEVC影片硬體加速能力](https://zh.wikipedia.org/wiki/HEVC "wikilink")，最高支援到
 60FPS @
 4K解析度並且每個顏色通道擁有10位元的顏色深度。\[5\]\[6\]早期的資料顯示這個UVD也可對VP9格式進行硬體加速，不過在驅動程式中並沒有該功能的介面可供使用。\[7\]而在2016年12月中，AMD發表了16.12.1版驅動程式，由此GCN架構的GPU全部開放[4K解析度的](../Page/4K解析度.md "wikilink")[VP9解碼硬體加速](../Page/VP9.md "wikilink")（支援杜比系統、HDR
 10），此外，還新增了Relive遊戲內視訊編碼功能，支援遊戲直播以及遊戲視訊錄製。\[8\]\[9\]在17版深紅驅動程式以後，支援[雙聯結DVI-D和DVI-I輸出最高](../Page/DVI.md "wikilink")
@@ -39,18 +40,18 @@ xyz(X)」（此處的v代表2\~9，代表效能級別；x代表產品世代；y�
 ## 產品
 
 Radeon
-400系列的首發產品，是為M400系列，為移動型顯示卡\[10\]，已確認為舊有產品的重新命名。真正為新版晶片的產品，是2016年6月1日，在[台北国际电脑展览会發表該顯示核心的首款產品](../Page/台北国际电脑展览会.md "wikilink")
+400系列的首發產品，是為M400系列，為移動型顯示卡\[10\]，已確認為舊有產品的重新命名。真正為新版晶片的產品，是2016年6月1日，在[台北国际电脑展览会發表該顯示核心的首款產品](https://zh.wikipedia.org/wiki/台北国际电脑展览会 "wikilink")
 Radeon RX 480 以及隨後發表的 Radeon RX 470/470D/460，470D僅在中國大陸市場發售。緊接著 RX 480
 首發的是採用舊有命名規則的OEM產品，均為舊版本顯示核心。
 
 ### 「Polaris 10」系列
 
 首發的「Polaris 10」用來取代 Radeon R9 300系列的「Tonga」核心，其完整規格擁有 2,304
-個ALU/流處理器，共36組CU，每組CU均經過改進設計，單一CU的效能同時脈下比上一代的更高。\[11\]\[12\]\[13\]支援256位元[匯流排寬度的](../Page/匯流排.md "wikilink")[GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")，容量最高可達8GiB。[熱設計功耗在](../Page/熱設計功耗.md "wikilink")100～150W之間。\[14\]Radeon
+個ALU/流處理器，共36組CU，每組CU均經過改進設計，單一CU的效能同時脈下比上一代的更高。\[11\]\[12\]\[13\]支援256位元[匯流排寬度的](https://zh.wikipedia.org/wiki/匯流排 "wikilink")[GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")，容量最高可達8GiB。[熱設計功耗在](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")100～150W之間。\[14\]Radeon
 RX 480有4 GiB和8
 GiB兩種顯示記憶體容量規格，均定位中高階遊戲市場（以1440p的解析度、60fps的刷新率運行當時當時最新的DirectX
 12遊戲），競爭對手是NVIDIA的[GTX 1060
-6G/3G](../Page/GeForce_10系列.md "wikilink")。\[15\]除了桌上型電腦以外，一些遊戲筆電也會安裝桌機規格（時脈除外）的Radeon
+6G/3G](https://zh.wikipedia.org/wiki/GeForce_10系列 "wikilink")。\[15\]除了桌上型電腦以外，一些遊戲筆電也會安裝桌機規格（時脈除外）的Radeon
 RX 480/470。\[16\]
 
 不過，公版Radeon RX
@@ -89,7 +90,7 @@ Radeon Pro 460/455/450/WX 4100，是基於「Polaris 11」核心的專業繪圖�
 &amp;<br />
 版本代號</p></th>
 <th><p>製程<br />
-(<a href="../Page/奈米.md" title="wikilink">奈米</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/奈米" title="wikilink">奈米</a>)</p></th>
 <th><p>電晶體數<br />
 &amp;<br />
 晶粒面積</p></th>
@@ -100,10 +101,10 @@ Radeon Pro 460/455/450/WX 4100，是基於「Polaris 11」核心的專業繪圖�
 <th><p>時脈配置</p></th>
 <th><p>填充率</p></th>
 <th><p>顯示記憶體配置</p></th>
-<th><p><a href="../Page/應用程式介面.md" title="wikilink">API支援</a>（版本）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支援</a>（版本）</p></th>
 <th><p>運算效能<br />
 （GFLOPS）</p></th>
-<th><p><a href="../Page/熱設計功耗.md" title="wikilink">TDP</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
 (W)</p></th>
 <th><p>發售價格<br />
 </p></th>
@@ -112,29 +113,29 @@ Radeon Pro 460/455/450/WX 4100，是基於「Polaris 11」核心的專業繪圖�
 <tbody>
 <tr class="odd">
 <td><p>預設<br />
-(<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
 <td><p>加速<br />
-(<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
 <td><p>記憶體<br />
-(<a href="../Page/Transfer_(computing).md" title="wikilink">MT/s</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
 <td><p>像素<br />
-(<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>材質<br />
-(<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
 <td><p>容量<br />
-(<a href="../Page/MiB.md" title="wikilink">MiB</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/MiB" title="wikilink">MiB</a>)</p></td>
 <td><p>匯流排<br />
 類型</p></td>
 <td><p>匯流排<br />
 寬度<br />
 (<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
 <td><p>頻寬<br />
-(<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
-<td><p><a href="../Page/半精度浮點數.md" title="wikilink">半精度<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/半精度浮點數" title="wikilink">半精度<br />
 浮點數</a></p></td>
 </tr>
 <tr class="even">
@@ -143,7 +144,7 @@ Radeon Pro 460/455/450/WX 4100，是基於「Polaris 11」核心的專業繪圖�
 <td><p>Oland Pro</p></td>
 <td><p>28</p></td>
 <td><p>10.4億<br />
-90 <a href="../Page/平方毫米.md" title="wikilink">mm<sup>2</sup></a></p></td>
+90 <a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a></p></td>
 <td><p>PCIe 3.0<br />
 ×8</p></td>
 <td><p>384:24:8</p></td>
@@ -338,35 +339,35 @@ Ellesmere XT</p></td>
 <th><p>型號</p></th>
 <th><p>推出日期</p></th>
 <th><p>製程<br />
-(<a href="../Page/奈米.md" title="wikilink">奈米</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/奈米" title="wikilink">奈米</a>)</p></th>
 <th><p>核心配置<br />
 <sup>SPs:TMUs:ROPs</sup></p></th>
 <th><p>時脈配置</p></th>
 <th><p>填充率</p></th>
 <th><p>顯示記憶體配置</p></th>
-<th><p>運算效能 (<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
-<th><p><a href="../Page/熱設計功耗.md" title="wikilink">TDP</a><br />
-(<a href="../Page/Watt.md" title="wikilink">W</a>，僅GPU)</p></th>
-<th><p><a href="../Page/應用程式介面.md" title="wikilink">API支援</a>（版本）</p></th>
+<th><p>運算效能 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
+(<a href="https://zh.wikipedia.org/wiki/Watt" title="wikilink">W</a>，僅GPU)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支援</a>（版本）</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>核心時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)<br />
+<td><p>核心時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)<br />
 (加速)</p></td>
-<td><p>記憶體 (<a href="../Page/Transfer_(computing).md" title="wikilink">MT/s</a>)</p></td>
-<td><p>材質 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)<br />
+<td><p>記憶體 (<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
+<td><p>材質 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)<br />
 (Boost)</p></td>
-<td><p>像素 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)<br />
+<td><p>像素 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)<br />
 (Boost)</p></td>
-<td><p>容量 (<a href="../Page/Gibibyte.md" title="wikilink">GiB</a>)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/Gibibyte" title="wikilink">GiB</a>)</p></td>
 <td><p>匯流排<br />
 類型</p></td>
 <td><p>匯流排<br />
 寬度<br />
 (<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
 <td><p>頻寬<br />
-(<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a><br />
 <a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>

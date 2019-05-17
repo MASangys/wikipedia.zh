@@ -1,4 +1,4 @@
-是一款由[万代公司制作的](../Page/万代.md "wikilink")[电子角色扮演游戏](../Page/电子角色扮演游戏.md "wikilink")。本游戏是[七龙珠Z系列在FC的第二作](../Page/七龙珠Z.md "wikilink")，于1991年8月10日在[FC游戏机发行](../Page/FC游戏机.md "wikilink")。\[1\]
+是一款由[万代公司制作的](https://zh.wikipedia.org/wiki/万代 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。本游戏是[七龙珠Z系列在FC的第二作](https://zh.wikipedia.org/wiki/七龙珠Z "wikilink")，于1991年8月10日在[FC游戏机发行](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")。\[1\]
 
 本游戏的玩法与前作没有太多区别。游戏添加多种自动攻击，随着故事推进，游戏的进度变得更为容易。游戏内容为那美克星的故事。
 

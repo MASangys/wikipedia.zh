@@ -1,5 +1,5 @@
 《**After The
-Rain**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[李彩華的首張粵語新曲加精選專輯](../Page/李彩華.md "wikilink")，於2002年10月21日推出。
+Rain**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[李彩華的首張粵語新曲加精選專輯](https://zh.wikipedia.org/wiki/李彩華 "wikilink")，於2002年10月21日推出。
 
 ## 曲目
 

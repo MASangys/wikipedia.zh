@@ -7,11 +7,11 @@ LOVERS-**」，後於2012年4月26日又將本篇與Fan Disc彙總成一部遊�
 Portable平台](../Page/PlayStation_Portable.md "wikilink")「**Scared Rider
 Xechs Ⅰ+ FD Portable**」，後又於2015年11月19日推出了PlayStation Vita移植版「**Scared
 Rider Xechs
-Rev.**」。\[2\][Android](../Page/Android.md "wikilink")、[iOS平台音樂節奏遊戲](../Page/iOS.md "wikilink")「**Scared
+Rev.**」。\[2\][Android](../Page/Android.md "wikilink")、[iOS平台音樂節奏遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")「**Scared
 Rider Xechs 青與紅的狂詩曲**」也將在2016年8月上線運營。
 
 於2016年4月3日聲優見面會上宣佈電視動畫化。作為 Scared Rider Xechs
-系列的分支之一、五週年紀念的第三彈，動畫的監督將由擔任過《[流浪神差](../Page/流浪神差.md "wikilink")》的作畫監督的小森秀人擔任，角色原案由[pako擔任](../Page/pako.md "wikilink")，人設則交由羽田浩二，動畫製作交給了[SATELIGHT擔當](../Page/SATELIGHT.md "wikilink")。動畫將於2016年7月5日開始播放。\[3\]
+系列的分支之一、五週年紀念的第三彈，動畫的監督將由擔任過《[流浪神差](../Page/流浪神差.md "wikilink")》的作畫監督的小森秀人擔任，角色原案由[pako擔任](https://zh.wikipedia.org/wiki/pako "wikilink")，人設則交由羽田浩二，動畫製作交給了[SATELIGHT擔當](../Page/SATELIGHT.md "wikilink")。動畫將於2016年7月5日開始播放。\[3\]
 
 ## 中文譯名
 
@@ -249,7 +249,7 @@ s」。也因此誕生了諸多風格各異的角色歌。
 <td></td>
 <td><p>計劃6 頻道5</p></td>
 <td><p>福島直浩</p></td>
-<td><p><a href="../Page/永居慎平.md" title="wikilink">永居慎平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永居慎平" title="wikilink">永居慎平</a></p></td>
 <td><p>鯉川慎平、長坂寛治<br />
 宮西多麻子、Park Jae Ik</p></td>
 <td></td>
@@ -341,7 +341,7 @@ Hwang Yeongsik</p></td>
 <tr class="header">
 <th><p>配信網站</p></th>
 <th><p>更新日期</p></th>
-<th><p>更新時間（<a href="../Page/UTC+9.md" title="wikilink">UTC+9</a>）</p></th>
+<th><p>更新時間（<a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">UTC+9</a>）</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -369,7 +369,7 @@ Hwang Yeongsik</p></td>
 <tr class="header">
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC+9.md" title="wikilink">UTC+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">UTC+9</a>）</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -420,7 +420,7 @@ Hwang Yeongsik</p></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2017年2月15日 - 2月22日</p></td>
 <td><p>星期一至五 18:30 - 19:30</p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">UTC+8</a>，有重播</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>，有重播</p></td>
 </tr>
 <tr class="odd">
 <td><p>Animax</p></td>
@@ -497,15 +497,15 @@ Hwang Yeongsik</p></td>
 
 ### Blu-ray＆DVD
 
-| 卷數    | 發售日期        | 收錄話         | [規格編號](../Page/規格編號.md "wikilink") |
-| ----- | ----------- | ----------- | ---------------------------------- |
-| BD限定版 | DVD限定版      | DVD通常版      |                                    |
-| 1     | 2016年9月21日  | 第1話 - 第2話   | 1ANM-1800                          |
-| 2     | 2016年10月19日 | 第3話 - 第4話   | 1ANM-1805                          |
-| 3     | 2016年11月16日 | 第5話 - 第6話   | 1ANM-1810                          |
-| 4     | 2016年12月21日 | 第7話 - 第8話   | 1ANM-1815                          |
-| 5     | 2017年1月18日  | 第9話 - 第10話  | 1ANM-1820                          |
-| 6     | 2017年2月15日  | 第11話 - 第12話 | 1ANM-1825                          |
+| 卷數    | 發售日期        | 收錄話         | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") |
+| ----- | ----------- | ----------- | ----------------------------------------------------- |
+| BD限定版 | DVD限定版      | DVD通常版      |                                                       |
+| 1     | 2016年9月21日  | 第1話 - 第2話   | 1ANM-1800                                             |
+| 2     | 2016年10月19日 | 第3話 - 第4話   | 1ANM-1805                                             |
+| 3     | 2016年11月16日 | 第5話 - 第6話   | 1ANM-1810                                             |
+| 4     | 2016年12月21日 | 第7話 - 第8話   | 1ANM-1815                                             |
+| 5     | 2017年1月18日  | 第9話 - 第10話  | 1ANM-1820                                             |
+| 6     | 2017年2月15日  | 第11話 - 第12話 | 1ANM-1825                                             |
 
 ## CD製品
 

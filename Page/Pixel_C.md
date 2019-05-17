@@ -1,7 +1,7 @@
 **Pixel
-C**是[Google研發的](../Page/Google.md "wikilink")[Android](../Page/Android.md "wikilink")[平板电脑](../Page/平板电脑.md "wikilink")，於2015年9月29日发布。\[1\]同期主要競爭對手有[iPad
-Pro](../Page/iPad_Pro.md "wikilink")、[Surface Pro
-4](../Page/Surface_Pro_4.md "wikilink")。
+C**是[Google研發的](../Page/Google.md "wikilink")[Android](../Page/Android.md "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，於2015年9月29日发布。\[1\]同期主要競爭對手有[iPad
+Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")、[Surface Pro
+4](https://zh.wikipedia.org/wiki/Surface_Pro_4 "wikilink")。
 
 Google將Pixel C和Chromebook Pixel歸類為 Pixel系列，兩者同為Google自主生產。
 
@@ -10,13 +10,13 @@ Google將Pixel C和Chromebook Pixel歸類為 Pixel系列，兩者同為Google自
 ### 設計
 
 Pixel C和[Chromebook
-Pixel的外型設計相似](../Page/Chromebook.md "wikilink")，同樣採用金屬機身，背面有一條燈光條，平常使用會顯示代表[Chrome的藍紅黃綠四色燈](../Page/Chrome.md "wikilink")，亦可以顯示電量。
+Pixel的外型設計相似](../Page/Chromebook.md "wikilink")，同樣採用金屬機身，背面有一條燈光條，平常使用會顯示代表[Chrome的藍紅黃綠四色燈](https://zh.wikipedia.org/wiki/Chrome "wikilink")，亦可以顯示電量。
 
 ### 性能
 
 Pixel C採用[NVIDIA Tegra
-X1處理器](../Page/Nvidia_Tegra.md "wikilink")，CPU採用[ARM的](../Page/ARM.md "wikilink")4個A57+4個A53組成八核心處理器，並配有256核心GPU，另外再加上3GB
-LPDDR4 [RAM](../Page/RAM.md "wikilink")，性能強勁。
+X1處理器](https://zh.wikipedia.org/wiki/Nvidia_Tegra "wikilink")，CPU採用[ARM的](https://zh.wikipedia.org/wiki/ARM "wikilink")4個A57+4個A53組成八核心處理器，並配有256核心GPU，另外再加上3GB
+LPDDR4 [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")，性能強勁。
 
 ### 鍵盤
 

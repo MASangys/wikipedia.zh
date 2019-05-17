@@ -4,21 +4,29 @@ Blue Byte](../Page/Ubisoft_Blue_Byte.md "wikilink")。\[3\]
 
 ## 旗下游戏
 
-  - *[America](../Page/America_\(video_game\).md "wikilink")* - 2000
+  - *[America](https://zh.wikipedia.org/wiki/America_\(video_game\) "wikilink")*
+    - 2000
       - *America Add On* - 2001
   - *[No Man's
-    Land](../Page/No_Man's_Land_\(video_game\).md "wikilink")* - 2003
-  - *[Castle Strike](../Page/Castle_Strike.md "wikilink")* - 2003
-  - *[1701 A.D.](../Page/Anno_1701.md "wikilink")* - 2006
+    Land](https://zh.wikipedia.org/wiki/No_Man's_Land_\(video_game\) "wikilink")*
+    - 2003
+  - *[Castle
+    Strike](https://zh.wikipedia.org/wiki/Castle_Strike "wikilink")* -
+    2003
+  - *[1701 A.D.](https://zh.wikipedia.org/wiki/Anno_1701 "wikilink")* -
+    2006
       - *[Anno 1701: The Sunken
-        Dragon](../Page/Anno_1701#The_Sunken_Dragon.md "wikilink")* -
-        2008
-  - *[Anno 1404](../Page/Anno_1404.md "wikilink")* - 2009
+        Dragon](https://zh.wikipedia.org/wiki/Anno_1701#The_Sunken_Dragon "wikilink")*
+        - 2008
+  - *[Anno 1404](https://zh.wikipedia.org/wiki/Anno_1404 "wikilink")* -
+    2009
       - *Anno 1404: Venice* - 2010
-  - *[Anno 2070](../Page/Anno_2070.md "wikilink")* - 2011
+  - *[Anno 2070](https://zh.wikipedia.org/wiki/Anno_2070 "wikilink")* -
+    2011
       - *Anno 2070: Deep Ocean* - 2012
   - *Might & Magic Heroes Online* - 2014
-  - *[Anno 2205](../Page/Anno_2205.md "wikilink")* - 2015
+  - *[Anno 2205](https://zh.wikipedia.org/wiki/Anno_2205 "wikilink")* -
+    2015
 
 ## 参考资料
 

@@ -1,5 +1,5 @@
 **HTTP 303 See Other** ，自 RFC 2616 (HTTP 1.1)起，用于在收到[HTTP
-POST请求之后](../Page/HTTP_POST.md "wikilink")，进行[URL重定向的操作](../Page/URL重定向.md "wikilink")。\[1\]
+POST请求之后](https://zh.wikipedia.org/wiki/HTTP_POST "wikilink")，进行[URL重定向的操作](https://zh.wikipedia.org/wiki/URL重定向 "wikilink")。\[1\]
 
 ## 引入
 
@@ -36,12 +36,12 @@ Location: http://www.example.org/view-comment.asp
 
 ## 参见
 
-  - [HTTP](../Page/HTTP.md "wikilink")
-  - [HTTP狀態碼](../Page/HTTP狀態碼.md "wikilink")
+  - [HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")
+  - [HTTP狀態碼](https://zh.wikipedia.org/wiki/HTTP狀態碼 "wikilink")
   - [URL重寫](../Page/URL重寫.md "wikilink")
   - [HTTP 301](../Page/HTTP_301.md "wikilink")
   - [HTTP 302](../Page/HTTP_302.md "wikilink")
-  - [HTTP 307](../Page/HTTP_307.md "wikilink")
+  - [HTTP 307](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")
 
 ## 参考文献
 

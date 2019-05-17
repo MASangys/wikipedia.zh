@@ -2,9 +2,12 @@
 
 ## 物種
 
-  - [黑頂端粉蝶](../Page/黑頂端粉蝶.md "wikilink") *Elphinstonia tomyris*
-  - [中亞端粉蝶](../Page/中亞端粉蝶.md "wikilink") *Elphinstonia transcaspica*
-  - [黑邊端粉蝶](../Page/黑邊端粉蝶.md "wikilink") *Elphinstonia charlonia*
+  - [黑頂端粉蝶](https://zh.wikipedia.org/wiki/黑頂端粉蝶 "wikilink")
+    *Elphinstonia tomyris*
+  - [中亞端粉蝶](https://zh.wikipedia.org/wiki/中亞端粉蝶 "wikilink")
+    *Elphinstonia transcaspica*
+  - [黑邊端粉蝶](https://zh.wikipedia.org/wiki/黑邊端粉蝶 "wikilink")
+    *Elphinstonia charlonia*
 
 ## 腳註
 

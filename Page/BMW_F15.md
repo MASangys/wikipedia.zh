@@ -1,28 +1,28 @@
 ****是[德国汽车制造商](../Page/德国.md "wikilink")[BMW所生产的一款跨界](../Page/BMW.md "wikilink")[运动型多用途车](../Page/运动型多用途车.md "wikilink")。作为[BMW
-X5的第三代车型](../Page/BMW_X5.md "wikilink")，它与前作车型使用相同的[平台](../Page/汽车平台.md "wikilink")，但有着更全面的改款，其中包括内部及外部的表面变化。该型号于2013年5月30日首次向公众发布，并在同年的[法兰克福车展率先亮相](../Page/法兰克福车展.md "wikilink")。
+X5的第三代车型](../Page/BMW_X5.md "wikilink")，它与前作车型使用相同的[平台](../Page/汽车平台.md "wikilink")，但有着更全面的改款，其中包括内部及外部的表面变化。该型号于2013年5月30日首次向公众发布，并在同年的[法兰克福车展率先亮相](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")。
 
 ## 发布
 
-F15最早在2013年的[法兰克福车展揭幕](../Page/法兰克福车展.md "wikilink")\[1\]。初期提供的的X5版本包括有xDrive50i、xDrive30d和M50d，xDrive40d、xDrive35i、xDrive25d以及sDrive25d则在2013年12月加入\[2\]。而X5的美规版本是在2013年第四季度进驻[美国展厅](../Page/美国.md "wikilink")，初期的版本包括sDrive35i、xDrive35i、xDrive50i，以及随后于2014年初发布的xDrive35d\[3\]\[4\]。
+F15最早在2013年的[法兰克福车展揭幕](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")\[1\]。初期提供的的X5版本包括有xDrive50i、xDrive30d和M50d，xDrive40d、xDrive35i、xDrive25d以及sDrive25d则在2013年12月加入\[2\]。而X5的美规版本是在2013年第四季度进驻[美国展厅](../Page/美国.md "wikilink")，初期的版本包括sDrive35i、xDrive35i、xDrive50i，以及随后于2014年初发布的xDrive35d\[3\]\[4\]。
 
 ## 设计
 
 型号为F15的第三代[BMW
-X5与前作车型](../Page/BMW_X5.md "wikilink")相比，其长度增加了5毫米、宽度增加了26毫米、高度则降低了14毫米，但轴距仍维持2933毫米。F15的前部的设计元素取自[3系列的](../Page/BMW_3系列.md "wikilink")[F30](../Page/BMW_F30.md "wikilink")，后者则与当时其它[X系列的车型类似](../Page/BMW_X系列.md "wikilink")。其外观是由BMW设计师马克·约翰逊（）所设计，它是在2010年获得批准，并于2011年敲定量产\[5\]。
+X5与前作车型](../Page/BMW_X5.md "wikilink")相比，其长度增加了5毫米、宽度增加了26毫米、高度则降低了14毫米，但轴距仍维持2933毫米。F15的前部的设计元素取自[3系列的](../Page/BMW_3系列.md "wikilink")[F30](../Page/BMW_F30.md "wikilink")，后者则与当时其它[X系列的车型类似](https://zh.wikipedia.org/wiki/BMW_X系列 "wikilink")。其外观是由BMW设计师马克·约翰逊（）所设计，它是在2010年获得批准，并于2011年敲定量产\[5\]。
 
-BMW声称，第三代X5的车身采用超高强度钢、[热塑性塑料侧板](../Page/热塑性塑料.md "wikilink")、[铝制发动机罩和](../Page/铝.md "wikilink")[镁材仪表板](../Page/镁.md "wikilink")，多个细节的累加使其成为同级车中较轻的车型。根据版本的差异，第三代X5比上一代采用同等配置的相应车型所减轻的重量最高可达90公斤\[6\]。
+BMW声称，第三代X5的车身采用超高强度钢、[热塑性塑料侧板](https://zh.wikipedia.org/wiki/热塑性塑料 "wikilink")、[铝制发动机罩和](../Page/铝.md "wikilink")[镁材仪表板](../Page/镁.md "wikilink")，多个细节的累加使其成为同级车中较轻的车型。根据版本的差异，第三代X5比上一代采用同等配置的相应车型所减轻的重量最高可达90公斤\[6\]。
 
 F15配备了BMW的驾驶者辅助系统。车内的多媒体显示器达到10.25英寸，并被独立安置在中部位置。其系统进行了修改，同时还支持手势控制功能。通过所谓的驾驶体验按钮，驾驶者可以选择不同的驾驶模式，它们尤其可对燃油供给、换挡和转向施加影响。而选配的舒适型自适应悬架组件，则可令减震器通过驾驶体验按钮控制\[7\]。
 
 ## 内饰
 
-自2013年12月起，特定型号的BMW个性化配置已被加入选配包，可供所有全系车型选配。这些选项包括深色细线纹纯木纹理高级木饰（对比色的缝线和滚边以及座椅表面的装饰性穿孔）、高光炫晶灰色美国橡木高级木饰、20英寸的轻量[铝合金双幅轮圈搭配混合轮胎](../Page/铝合金.md "wikilink")，以及更多的车身颜色（矿石银、冰川银及帝王蓝金属漆，宝石青及星光棕定制漆）\[8\]。
+自2013年12月起，特定型号的BMW个性化配置已被加入选配包，可供所有全系车型选配。这些选项包括深色细线纹纯木纹理高级木饰（对比色的缝线和滚边以及座椅表面的装饰性穿孔）、高光炫晶灰色美国橡木高级木饰、20英寸的轻量[铝合金双幅轮圈搭配混合轮胎](https://zh.wikipedia.org/wiki/铝合金 "wikilink")，以及更多的车身颜色（矿石银、冰川银及帝王蓝金属漆，宝石青及星光棕定制漆）\[8\]。
 
 [增强型驾驶辅助的交通堵塞辅助选项和经过改良的](../Page/汽車防撞系統.md "wikilink")（油门、刹车踏板、换挡控制）均被标配在自2013年12月起生产的F15上\[9\]。
 
 ## 生产
 
-F15如同它的前作车型E70一样，都是由设于[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[格里尔的](../Page/格里尔_\(南卡罗来纳州\).md "wikilink")所生产。该车型有约30%的份额都在[北美市场销售](../Page/北美.md "wikilink")，其余70%则出口至全球140余个不同国家。除[X5外](../Page/BMW_X5.md "wikilink")，还有[X3](../Page/BMW_X3.md "wikilink")、[X4和](../Page/BMW_X4.md "wikilink")[X6也在当地生产](../Page/BMW_X6.md "wikilink")。\[10\]
+F15如同它的前作车型E70一样，都是由设于[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[格里尔的](https://zh.wikipedia.org/wiki/格里尔_\(南卡罗来纳州\) "wikilink")所生产。该车型有约30%的份额都在[北美市场销售](https://zh.wikipedia.org/wiki/北美 "wikilink")，其余70%则出口至全球140余个不同国家。除[X5外](../Page/BMW_X5.md "wikilink")，还有[X3](../Page/BMW_X3.md "wikilink")、[X4和](../Page/BMW_X4.md "wikilink")[X6也在当地生产](../Page/BMW_X6.md "wikilink")。\[10\]
 
 ## 技术参数
 
@@ -62,7 +62,7 @@ F15拥有自身的汽油或柴油发动机。所有款式都提供全轮驱动�
 </tr>
 <tr class="even">
 <td><p><strong>发动机型号</strong></p></td>
-<td><p><a href="../Page/BMW_N55.md" title="wikilink">N55B30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMW_N55" title="wikilink">N55B30</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -72,18 +72,18 @@ F15拥有自身的汽油或柴油发动机。所有款式都提供全轮驱动�
 </tr>
 <tr class="odd">
 <td><p><strong>发动机类别</strong></p></td>
-<td><p>R6-<a href="../Page/汽油发动机.md" title="wikilink">汽油发动机</a></p></td>
-<td><p>V8-<a href="../Page/汽油发动机.md" title="wikilink">汽油发动机</a></p></td>
-<td><p>R4-<a href="../Page/柴油发动机.md" title="wikilink">柴油发动机</a></p></td>
-<td><p>R6-<a href="../Page/柴油发动机.md" title="wikilink">柴油发动机</a></p></td>
+<td><p>R6-<a href="https://zh.wikipedia.org/wiki/汽油发动机" title="wikilink">汽油发动机</a></p></td>
+<td><p>V8-<a href="https://zh.wikipedia.org/wiki/汽油发动机" title="wikilink">汽油发动机</a></p></td>
+<td><p>R4-<a href="https://zh.wikipedia.org/wiki/柴油发动机" title="wikilink">柴油发动机</a></p></td>
+<td><p>R6-<a href="https://zh.wikipedia.org/wiki/柴油发动机" title="wikilink">柴油发动机</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>混合气处理</strong></p></td>
-<td><p><a href="../Page/燃料喷射装置.md" title="wikilink">燃油直喷</a></p></td>
-<td><p><a href="../Page/高压共轨直喷.md" title="wikilink">高压共轨直喷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/燃料喷射装置" title="wikilink">燃油直喷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高压共轨直喷" title="wikilink">高压共轨直喷</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -92,7 +92,7 @@ F15拥有自身的汽油或柴油发动机。所有款式都提供全轮驱动�
 </tr>
 <tr class="odd">
 <td><p><strong>发动机增压</strong></p></td>
-<td><p><a href="../Page/涡轮增压器.md" title="wikilink">涡轮增压器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/涡轮增压器" title="wikilink">涡轮增压器</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -142,9 +142,9 @@ F15拥有自身的汽油或柴油发动机。所有款式都提供全轮驱动�
 </tr>
 <tr class="even">
 <td><p><strong>驱动方式</strong></p></td>
-<td><p><a href="../Page/全轮驱动.md" title="wikilink">全轮驱动</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全轮驱动" title="wikilink">全轮驱动</a></p></td>
 <td><p><a href="../Page/后轮驱动.md" title="wikilink">后轮驱动</a></p></td>
-<td><p><a href="../Page/全轮驱动.md" title="wikilink">全轮驱动</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全轮驱动" title="wikilink">全轮驱动</a></p></td>
 <td></td>
 <td></td>
 <td></td>

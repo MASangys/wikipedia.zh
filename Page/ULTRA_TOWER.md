@@ -16,8 +16,8 @@
   - 2007年7月
     還是中學生的大濱、寺内、平柿，組成樂團。之後大濱的住所附近的竹内加入，成為4人樂團。
   - 2007年10月
-    參加[山葉贊助的](../Page/山葉_\(公司\).md "wikilink")「The 1st Music
-    Revolution」，進入大阪決賽。
+    參加[山葉贊助的](https://zh.wikipedia.org/wiki/山葉_\(公司\) "wikilink")「The
+    1st Music Revolution」，進入大阪決賽。
   - 2008年10月
     參加「The 2nd Music Revolution OSAKA FINAL」（關西地區）大獎獲得，11月進入「JAPAN
     FINAL」決賽。
@@ -45,7 +45,7 @@
 ## 音樂作品
 
   - 「希望の唄」
-    2015年TV版動畫[食戟之靈的片頭曲](../Page/食戟之靈.md "wikilink")\[1\]
+    2015年TV版動畫[食戟之靈的片頭曲](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")\[1\]
 
 ## 參考資料
 

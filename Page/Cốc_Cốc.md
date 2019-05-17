@@ -1,14 +1,14 @@
 **Cốc Cốc浏览器**（，，原名**Cờ
-Rôm+**）是[越南的一款](../Page/越南.md "wikilink")[免费](../Page/免费软件.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，主要面向越南市场，由越南基于[Chromium的开放源代码而研发出来的](../Page/Chromium.md "wikilink")，\[1\]同[Google
-Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](../Page/Opera.md "wikilink")[Comodo
+Rôm+**）是[越南的一款](https://zh.wikipedia.org/wiki/越南 "wikilink")[免费](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，主要面向越南市场，由越南基于[Chromium的开放源代码而研发出来的](../Page/Chromium.md "wikilink")，\[1\]同[Google
+Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Comodo
 Dragon使用同一种平台](../Page/科摩多龙安全浏览器.md "wikilink")。Cốc
-Cốc浏览器支持[Windows和](../Page/Windows.md "wikilink")[OS
-X两种操作系统](../Page/OS_X.md "wikilink")，\[2\]\[3\]以及英语和越南语两种语言。\[4\]
+Cốc浏览器支持[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[OS
+X两种操作系统](https://zh.wikipedia.org/wiki/OS_X "wikilink")，\[2\]\[3\]以及英语和越南语两种语言。\[4\]
 
 ## 參見
 
-  - [網頁瀏覽器列表](../Page/網頁瀏覽器列表.md "wikilink")
-  - [網頁瀏覽器比較](../Page/網頁瀏覽器比較.md "wikilink")
+  - [網頁瀏覽器列表](https://zh.wikipedia.org/wiki/網頁瀏覽器列表 "wikilink")
+  - [網頁瀏覽器比較](https://zh.wikipedia.org/wiki/網頁瀏覽器比較 "wikilink")
 
 ## 参考资料
 

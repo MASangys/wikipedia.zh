@@ -22,23 +22,23 @@ Marin将继续掌控生化奇兵系列。肯·莱文将不会参与未来的生�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac</a></p></td>
 <td><p><a href="../Page/PlayStation_3.md" title="wikilink">PS3</a></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Win</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Win</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><em><a href="../Page/BioShock.md" title="wikilink">BioShock</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock" title="wikilink">BioShock</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><em><a href="../Page/BioShock_2.md" title="wikilink">BioShock 2</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock_2" title="wikilink">BioShock 2</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><em><a href="../Page/The_Bureau:_XCOM_Declassified.md" title="wikilink">The Bureau: XCOM Declassified</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Bureau:_XCOM_Declassified" title="wikilink">The Bureau: XCOM Declassified</a></em></p></td>
 <td></td>
 </tr>
 </tbody>

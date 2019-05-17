@@ -1,5 +1,5 @@
 《**TSUBASA翼
-夢幻之島篇**》（），是由漫畫團隊[CLAMP所創作的少年漫畫作品](../Page/CLAMP.md "wikilink")，為《[TSUBASA翼](../Page/TSUBASA翼.md "wikilink")》的續作，於講談社月刊雜誌《[Magazine
+夢幻之島篇**》（），是由漫畫團隊[CLAMP所創作的少年漫畫作品](../Page/CLAMP.md "wikilink")，為《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》的續作，於講談社月刊雜誌《[Magazine
 SPECIAL](../Page/Magazine_SPECIAL.md "wikilink")》連載，故事劇情銜接《[×××HOLiC·戻](../Page/×××HOLiC.md "wikilink")》。
 
 ## 故事簡介
@@ -40,14 +40,14 @@ SPECIAL](../Page/Magazine_SPECIAL.md "wikilink")》連載，故事劇情銜接�
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

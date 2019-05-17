@@ -9,7 +9,7 @@ STATION**」為[SM娛樂跳脫傳統專輯發行方式](../Page/SM娛樂.md "wik
 
 [SM_Station.png](https://zh.wikipedia.org/wiki/File:SM_Station.png "fig:SM_Station.png")
 
-  - 第一季发行的歌曲中，只有第一周的《[Rain](../Page/Rain_\(太妍单曲\).md "wikilink")》有相搭配的B面曲。第13周的《Wave》同时公开了Xavi\&Gi
+  - 第一季发行的歌曲中，只有第一周的《[Rain](https://zh.wikipedia.org/wiki/Rain_\(太妍单曲\) "wikilink")》有相搭配的B面曲。第13周的《Wave》同时公开了Xavi\&Gi
     Ver.，第34周的《Heartbeat》同时公开了韩英两版本，第35周的《Years》同时公开了韩中两版本，另外第51周的《当我的寂寞呼唤你时》也同时公开了用作片尾曲的短版与完整版。
   - 收录有所有第一季53首歌曲（计不同版本共57曲）的合辑《S.M. STATION
     Season1》于2017年4月6日发行，专辑附赠的写真书收录了各曲目制作过程中的花絮内容\[2\]\[3\]。
@@ -176,6 +176,7 @@ STATION**」為[SM娛樂跳脫傳統專輯發行方式](../Page/SM娛樂.md "wik
 | 8     |
 | 9     |
 | 10    |
+| 11    |
 
 ## 演唱会
 
@@ -255,7 +256,7 @@ STATION自2018年7月起每月于SMTOWN THEATRE举办演唱会，除了带来歌
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><a href="../Page/金唱片獎.md" title="wikilink">金唱片獎 (Golden Disc Awards)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎 (Golden Disc Awards)</a></p></td>
 <td><p>數位音源本賞</p></td>
 <td><p>太妍</p></td>
 <td><p>Rain</p></td>
@@ -286,7 +287,7 @@ STATION自2018年7月起每月于SMTOWN THEATRE举办演唱会，除了带来歌
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/首爾音樂獎.md" title="wikilink">首爾歌謠大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾歌謠大賞</a></p></td>
 <td><p>本賞</p></td>
 <td><p>太妍</p></td>
 <td><p>Rain</p></td>

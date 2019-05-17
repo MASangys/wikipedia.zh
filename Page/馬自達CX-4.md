@@ -1,4 +1,4 @@
-**馬自達CX-4**（）乃2016年由[日本](../Page/日本.md "wikilink")[馬自達開發](../Page/馬自達.md "wikilink")、[中國](../Page/中國.md "wikilink")[一汽馬自達組裝製造的五人座緊湊型](../Page/中国第一汽车集团.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，目前只限定中國市場販售。雖然車身尺碼與[馬自達CX-5接近](../Page/馬自達CX-5.md "wikilink")，但降低車高後外觀更接近[轎跑](../Page/轎跑車.md "wikilink")[休旅車](../Page/运动型多用途车.md "wikilink")。
+**馬自達CX-4**（）乃2016年由[日本](../Page/日本.md "wikilink")[馬自達開發](https://zh.wikipedia.org/wiki/馬自達 "wikilink")、[中國](../Page/中國.md "wikilink")[一汽馬自達組裝製造的五人座緊湊型](../Page/中国第一汽车集团.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，目前只限定中國市場販售。雖然車身尺碼與[馬自達CX-5接近](../Page/馬自達CX-5.md "wikilink")，但降低車高後外觀更接近[轎跑](../Page/轎跑車.md "wikilink")[休旅車](../Page/运动型多用途车.md "wikilink")。
 
 ## 概要
 
@@ -6,7 +6,7 @@
 馬自達在2015年[法蘭克福車展上公開名為](../Page/法蘭克福車展.md "wikilink")「越
 KOERU」的[概念車](../Page/概念車.md "wikilink")\[1\]\[2\]，大角度傾斜的A柱與D柱設計具有[轎跑車式風格](../Page/轎跑車.md "wikilink")；接著2016年[北京車展上原廠隨即公開全新量產車型](../Page/北京国际汽车展览会.md "wikilink")「CX-4」\[3\]。
 
-關於車名的由來，「CX」取自crossover\[4\]，「4」則為近年來[馬自達公司命名車種的方式](../Page/馬自達.md "wikilink")，原則上數字越大表示越高階或車身越大的車款。從[引擎](../Page/发动机.md "wikilink")、[底盤](../Page/底盤.md "wikilink")、[傳動系統](../Page/變速器.md "wikilink")、乃至於車身結構，皆採用該公司近年來力推的[創馳藍天技術](../Page/創馳藍天技術.md "wikilink")。
+關於車名的由來，「CX」取自crossover\[4\]，「4」則為近年來[馬自達公司命名車種的方式](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，原則上數字越大表示越高階或車身越大的車款。從[引擎](../Page/发动机.md "wikilink")、[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")、[傳動系統](https://zh.wikipedia.org/wiki/變速器 "wikilink")、乃至於車身結構，皆採用該公司近年來力推的[創馳藍天技術](../Page/創馳藍天技術.md "wikilink")。
 {{-}}
 
 ## 歷史
@@ -14,11 +14,11 @@ KOERU」的[概念車](../Page/概念車.md "wikilink")\[1\]\[2\]，大角度傾
 ### 第一代（2016年迄今）
 
 2016年 -
-4月25日北京車展公開量產車型「CX-4」，延續[概念車](../Page/概念車.md "wikilink")「馬自達越」的設計語彙，以現有CX-5相同的[底盤平台融入](../Page/底盤.md "wikilink")「魂動」理念與[創馳藍天技術打造而成](../Page/創馳藍天技術.md "wikilink")。[軸距和CX](../Page/軸距.md "wikilink")-5同為2,700mm，但車身樣貌則更為修長、更為扁平。內裝配備包含三輻式多功能方向盤、Push
+4月25日北京車展公開量產車型「CX-4」，延續[概念車](../Page/概念車.md "wikilink")「馬自達越」的設計語彙，以現有CX-5相同的[底盤平台融入](https://zh.wikipedia.org/wiki/底盤 "wikilink")「魂動」理念與[創馳藍天技術打造而成](../Page/創馳藍天技術.md "wikilink")。[軸距和CX](https://zh.wikipedia.org/wiki/軸距 "wikilink")-5同為2,700mm，但車身樣貌則更為修長、更為扁平。內裝配備包含三輻式多功能方向盤、Push
 Start引擎啟閉按鍵、HUD抬頭顯示器、7吋觸控式螢幕與MZD多媒體系統、分區恆溫空調與後座出風口、電子手煞車系統等；由於D柱比CX-5更傾斜，後座頭部空間亦更為縮減。動力心臟有兩種選擇：2.0L直列四缸DOHC
-[PE-VPS型](../Page/馬自達P族引擎#2.0L（PE-VPS型）.md "wikilink")，或者2.5L直列四缸DOHC
-[PY-VPR型引擎](../Page/馬自達P族引擎#2.5L（PY-VPR型）.md "wikilink")。前者可輸出158hp /
-6,400rpm的最大馬力、20.6kg·m / 4,000rpm的最大扭力，後者則有192hp / 6,100rpm、25.7kg·m /
+[PE-VPS型](https://zh.wikipedia.org/wiki/馬自達P族引擎#2.0L（PE-VPS型） "wikilink")，或者2.5L直列四缸DOHC
+[PY-VPR型引擎](https://zh.wikipedia.org/wiki/馬自達P族引擎#2.5L（PY-VPR型） "wikilink")。前者可輸出158hp
+/ 6,400rpm的最大馬力、20.6kg·m / 4,000rpm的最大扭力，後者則有192hp / 6,100rpm、25.7kg·m /
 3,250rpm的表現。前者搭配六速手動排檔變速箱，後者則是六速手自排變速系統，且高階車型提供AWD適時四輪驅動的選擇。
 
 2017年 - 3月1日推出限量1,800台的「CX-4探索版」特别版車型\[5\]，新增MZD
@@ -29,7 +29,7 @@ Departure Warning System）車道偏移警示、HBC（High Beam Control）遠近
 
 9月9日[C-NCAP公布CX](../Page/中国新车评价规程.md "wikilink")-4之測試結果\[6\]，其中完全正面碰撞試驗獲得15.44分、40%正面偏置碰撞試驗獲得15.08分、側面碰撞試驗獲得18.00分、鞭打試驗獲得3.66分。該車款以總體得分54.2分，獲得5顆星之評價。
 
-在2018年8月31日开幕的2018[成都车展上](../Page/成都市.md "wikilink")，CX-4蓝天品位升级版正式上市。此次上市的新车共有1款，官方售价16.98万元。新车基本延续了老款车型的设计，但对部分配置进行了升级。外观配置方面，标配[LED流星眼大灯](../Page/發光二極管.md "wikilink")、新增[智能钥匙](../Page/鑰匙.md "wikilink")、外后视镜电动折叠、加热、胎压监测、四门车窗一触式升降、钥匙遥控车窗、车顶旅行架、熏黑轮圈。
+在2018年8月31日开幕的2018[成都车展上](../Page/成都市.md "wikilink")，CX-4蓝天品位升级版正式上市。此次上市的新车共有1款，官方售价16.98万元。新车基本延续了老款车型的设计，但对部分配置进行了升级。外观配置方面，标配[LED流星眼大灯](../Page/發光二極管.md "wikilink")、新增[智能钥匙](https://zh.wikipedia.org/wiki/鑰匙 "wikilink")、外后视镜电动折叠、加热、胎压监测、四门车窗一触式升降、钥匙遥控车窗、车顶旅行架、熏黑轮圈。
 
 #### 安全性召回
 

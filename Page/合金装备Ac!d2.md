@@ -1,7 +1,7 @@
-，是[科乐美在](../Page/科乐美.md "wikilink")2005年发行在psp运行的回合制卡牌游戏。该游戏的Java
+，是[科乐美在](https://zh.wikipedia.org/wiki/科乐美 "wikilink")2005年发行在psp运行的回合制卡牌游戏。该游戏的Java
 ME版本Glu公司发行。\[1\]
 
-该游戏时间发生在《[潜龙谍影Ac\!d](../Page/潜龙谍影Ac!d.md "wikilink")》之后。与《潜龙谍影Ac\!d》一样,它的剧情独立于[合金装备系列的主线](../Page/合金装备系列.md "wikilink")。新主角Snake代替了Solid
+该游戏时间发生在《[潜龙谍影Ac\!d](https://zh.wikipedia.org/wiki/潜龙谍影Ac!d "wikilink")》之后。与《潜龙谍影Ac\!d》一样,它的剧情独立于[合金装备系列的主线](https://zh.wikipedia.org/wiki/合金装备系列 "wikilink")。新主角Snake代替了Solid
 Snake，和他的搭档也变成了Venus，代替原来的Teliko Friedman。
 
 游戏使用一个全新的图形渲染技术引擎，取代了原来黑暗的画面，改进了原来的游戏系统。该游戏带有一个名为Solid

@@ -1,20 +1,23 @@
 **Sony Xperia
 Z5**，是[索尼於](../Page/索尼.md "wikilink")2015年9月2日在柏林發表的旗艦手機，搭載5.2吋螢幕、[高通](../Page/高通.md "wikilink")
-[Snapdragon 810](../Page/Snapdragon.md "wikilink") MSM8994 2.0GHz +
-1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68
+[Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
+MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm
+G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68
 防水、防塵功能，配有指紋傳感器。\[1\]同时发布还有同为Z系列的[Xperia Z5
 Compact和](../Page/Sony_Xperia_Z5_Compact.md "wikilink")[Xperia Z5
 Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")。
 
 Xperia Z5為安卓作業系統的旗艦級高階智慧型手機，作為它的前一代[Sony Xperia
 Z3+的繼承機型](../Page/Sony_Xperia_Z3+.md "wikilink")。同期的主要競爭對手有[Samsung
-Galaxy S6 edge+](../Page/Samsung_Galaxy_S6_edge+.md "wikilink")、[Samsung
-Galaxy Note 5](../Page/Samsung_Galaxy_Note_5.md "wikilink")、[iPhone
-6S](../Page/iPhone_6S.md "wikilink")、[LG
-G4](../Page/LG_G4.md "wikilink")、[HTC One
+Galaxy S6
+edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6_edge+ "wikilink")、[Samsung
+Galaxy Note
+5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")、[iPhone
+6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[LG
+G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[HTC One
 M9](../Page/HTC_One_M9.md "wikilink")、[HTC Butterfly
 3](../Page/HTC_Butterfly_3.md "wikilink")、[Huawei
-P8](../Page/Huawei_Ascend_P8.md "wikilink")。
+P8](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8 "wikilink")。
 
 Sony Xperia Z5系列亦为Xperia Z系列之最後一代。
 
@@ -49,12 +52,12 @@ Sony Xperia Z5系列亦为Xperia Z系列之最後一代。
 <tbody>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="../Page/Android歷史版本.md" title="wikilink">5.1</a>（版本代號「lollipop」）</p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="https://zh.wikipedia.org/wiki/Android歷史版本" title="wikilink">5.1</a>（版本代號「lollipop」）</p></td>
 </tr>
 <tr class="even">
 <td><p>通訊協定<br />
 2G</p></td>
-<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
+<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
 </tr>
 <tr class="odd">
 <td><p>協定<br />
@@ -68,14 +71,14 @@ LTE</p></td>
 </tr>
 <tr class="odd">
 <td><p>螢幕</p></td>
-<td><p>5.2吋、1920×1080<a href="../Page/解析度.md" title="wikilink">解析度</a>（<a href="../Page/1080p.md" title="wikilink">FULL HD 1080p</a>）</p></td>
+<td><p>5.2吋、1920×1080<a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a>（<a href="../Page/1080p.md" title="wikilink">FULL HD 1080p</a>）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/CPU.md" title="wikilink">CPU</a></p></td>
-<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="../Page/Snapdragon.md" title="wikilink">Snapdragon</a> 810 2.0GHz八核心</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CPU" title="wikilink">CPU</a></p></td>
+<td><p><a href="../Page/高通.md" title="wikilink">高通</a> <a href="https://zh.wikipedia.org/wiki/Snapdragon" title="wikilink">Snapdragon</a> 810 2.0GHz八核心</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/GPU.md" title="wikilink">GPU</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPU" title="wikilink">GPU</a></p></td>
 <td><p><a href="../Page/Adreno.md" title="wikilink">Adreno</a> 430</p></td>
 </tr>
 <tr class="even">
@@ -83,7 +86,7 @@ LTE</p></td>
 <td><p>3 GB <a href="../Page/DDR4_SDRAM.md" title="wikilink">LPDDR4</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ROM.md" title="wikilink">ROM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ROM" title="wikilink">ROM</a></p></td>
 <td><p>32/64 GB</p></td>
 </tr>
 <tr class="even">
@@ -116,15 +119,15 @@ LTE</p></td>
 </tr>
 <tr class="odd">
 <td><p>感應</p></td>
-<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="../Page/重力感應器.md" title="wikilink">重力感應器</a>、<a href="../Page/趨近感應器.md" title="wikilink">趨近感應器</a>、<a href="../Page/照度感測器.md" title="wikilink">環境光線感應器</a>、<a href="../Page/數位羅盤.md" title="wikilink">數位羅盤</a>、<a href="../Page/氣壓感測器.md" title="wikilink">氣壓感測器</a></p></td>
+<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="https://zh.wikipedia.org/wiki/重力感應器" title="wikilink">重力感應器</a>、<a href="https://zh.wikipedia.org/wiki/趨近感應器" title="wikilink">趨近感應器</a>、<a href="https://zh.wikipedia.org/wiki/照度感測器" title="wikilink">環境光線感應器</a>、<a href="https://zh.wikipedia.org/wiki/數位羅盤" title="wikilink">數位羅盤</a>、<a href="https://zh.wikipedia.org/wiki/氣壓感測器" title="wikilink">氣壓感測器</a></p></td>
 </tr>
 <tr class="even">
 <td><p>衛星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/GLONASS.md" title="wikilink">GLONASS</a>、<a href="../Page/北斗卫星导航系统.md" title="wikilink">BeiDou</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a>、<a href="../Page/北斗卫星导航系统.md" title="wikilink">BeiDou</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>傳輸</p></td>
-<td><p><a href="../Page/microUSB.md" title="wikilink">microUSB</a> 2.0（含 <a href="../Page/MHL.md" title="wikilink">MHL</a> 輸出）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/microUSB" title="wikilink">microUSB</a> 2.0（含 <a href="https://zh.wikipedia.org/wiki/MHL" title="wikilink">MHL</a> 輸出）<br />
 <a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
 </tr>
 <tr class="even">

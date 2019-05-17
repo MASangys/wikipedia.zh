@@ -1,11 +1,11 @@
-**《Butter-Fly》**是[日本歌手](../Page/日本.md "wikilink")[和田光司的第一首单曲](../Page/和田光司.md "wikilink")，也是电视动画《[数码宝贝大冒险](../Page/数码宝贝大冒险.md "wikilink")》的片头曲。1999年4月23日首发，2004年8月1日再次发行。该首歌曲也收录于和田光司的专辑《》和《》中。
+**《Butter-Fly》**是[日本歌手](../Page/日本.md "wikilink")[和田光司的第一首单曲](../Page/和田光司.md "wikilink")，也是电视动画《[数码宝贝大冒险](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》的片头曲。1999年4月23日首发，2004年8月1日再次发行。该首歌曲也收录于和田光司的专辑《》和《》中。
 
 《Butter-Fly》版本众多，仅以单曲形式发行的便有三个版本，即原版、《Butter-Fly \~Strong
-Version\~》和《Butter-Fly～tri.Version～》，这三个版本均为和田光司演唱，编曲有所不同。其中《Butter-Fly～tri.Version～》被用作2015年-2018年的OVA《[数码宝贝大冒险tri.](../Page/数码宝贝大冒险tri..md "wikilink")》全六章片头曲。
+Version\~》和《Butter-Fly～tri.Version～》，这三个版本均为和田光司演唱，编曲有所不同。其中《Butter-Fly～tri.Version～》被用作2015年-2018年的OVA《[数码宝贝大冒险tri.](https://zh.wikipedia.org/wiki/数码宝贝大冒险tri. "wikilink")》全六章片头曲。
 
 ## 概要
 
-《Butter-Fly》为[富士电视台电视动画](../Page/富士电视台.md "wikilink")《数码宝贝大冒险》主题歌。1999年4月，和田光司凭借这首歌曲正式出道。这也是原本演唱民谣歌曲的和田第一次演唱摇滚风格的歌曲\[1\]。该曲在当年[Oricon公信榜最高排名](../Page/Oricon公信榜.md "wikilink")47位，成为了和田的代表作。以此为契机，和田在[数码宝贝系列中连续](../Page/数码宝贝系列.md "wikilink")4年担任了主题歌的演唱。此后也多次参与数码宝贝系列的歌曲演唱。
+《Butter-Fly》为[富士电视台电视动画](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《数码宝贝大冒险》主题歌。1999年4月，和田光司凭借这首歌曲正式出道。这也是原本演唱民谣歌曲的和田第一次演唱摇滚风格的歌曲\[1\]。该曲在当年[Oricon公信榜最高排名](../Page/Oricon公信榜.md "wikilink")47位，成为了和田的代表作。以此为契机，和田在[数码宝贝系列中连续](https://zh.wikipedia.org/wiki/数码宝贝系列 "wikilink")4年担任了主题歌的演唱。此后也多次参与数码宝贝系列的歌曲演唱。
 
 1999年首次发行时，该首歌曲是以80毫米[CD为载体发行的](../Page/CD.md "wikilink")；而2004年再次发行时，发行载体改为120毫米标准CD。
 
@@ -40,7 +40,7 @@ Version\~》于2009年4月22日发行，这也是和田光司的第10首单曲�
 
 ### 《Butter-Fly～tri.Version～》
 
-《Butter-Fly～tri.Version～》于2015年11月25日发行。该首歌曲为和田光司的第14首单曲，由DREAMUSIC发行。该首歌曲也是为纪念数码宝贝大冒险系列15周年而推出的OVA《[数码宝贝大冒险tri.](../Page/数码宝贝大冒险tri..md "wikilink")》全六章的主题曲\[3\]\[4\]。该单曲也是和田光司生前最后一首本人亲自参与的录音作品（由于身体原因，和田生前发行的最后一首单曲《Seven～tri.Version～》并非全新录制，而是从之前录制的《Seven
+《Butter-Fly～tri.Version～》于2015年11月25日发行。该首歌曲为和田光司的第14首单曲，由DREAMUSIC发行。该首歌曲也是为纪念数码宝贝大冒险系列15周年而推出的OVA《[数码宝贝大冒险tri.](https://zh.wikipedia.org/wiki/数码宝贝大冒险tri. "wikilink")》全六章的主题曲\[3\]\[4\]。该单曲也是和田光司生前最后一首本人亲自参与的录音作品（由于身体原因，和田生前发行的最后一首单曲《Seven～tri.Version～》并非全新录制，而是从之前录制的《Seven
 \~ 10th MEMORIAL Version\~》中提取和田本人的声音重新混编制作）。
 
 #### 收录曲目
@@ -54,12 +54,12 @@ Version\~》于2009年4月22日发行，这也是和田光司的第10首单曲�
 
 ### 粤语版本
 
-[香港](../Page/香港.md "wikilink")[TVB](../Page/TVB.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")2000年引入动画时，将原片头曲《Butter-Fly》进行改编，名为《自动胜利Let's
-Fight》，由[陈心遥填上中文歌词](../Page/陈心遥.md "wikilink")，[郑伊健演唱](../Page/郑伊健.md "wikilink")。郑伊健本人凭此歌成为[2000年度儿歌金曲颁奖典礼中的最受欢迎儿歌男歌手](../Page/2000年度兒歌金曲頒獎典禮得獎名單.md "wikilink")。\[5\]
+[香港](../Page/香港.md "wikilink")[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")2000年引入动画时，将原片头曲《Butter-Fly》进行改编，名为《自动胜利Let's
+Fight》，由[陈心遥填上中文歌词](https://zh.wikipedia.org/wiki/陈心遥 "wikilink")，[郑伊健演唱](https://zh.wikipedia.org/wiki/郑伊健 "wikilink")。郑伊健本人凭此歌成为[2000年度儿歌金曲颁奖典礼中的最受欢迎儿歌男歌手](https://zh.wikipedia.org/wiki/2000年度兒歌金曲頒獎典禮得獎名單 "wikilink")。\[5\]
 
 ### 国语版本
 
-[台湾](../Page/台湾.md "wikilink")[台视播出的版本名为](../Page/台视.md "wikilink")《振翅高飞》，由歌男填上中文歌词，财部有辉演唱。台视直到第31集时才换回原本的日文主题曲，[卫视中文台版本并没有使用这首歌](../Page/卫视中文台.md "wikilink")。而[东森幼幼台播出时前面几集都使用日文主题曲](../Page/东森幼幼台.md "wikilink")，之后则改为该台自制的儿童节目《[YoYo点点名](../Page/YoYo点点名.md "wikilink")》的歌曲《天空游乐场》，播映时另取歌名“YOYO火箭号”。
+[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[台视播出的版本名为](https://zh.wikipedia.org/wiki/台视 "wikilink")《振翅高飞》，由歌男填上中文歌词，财部有辉演唱。台视直到第31集时才换回原本的日文主题曲，[卫视中文台版本并没有使用这首歌](https://zh.wikipedia.org/wiki/卫视中文台 "wikilink")。而[东森幼幼台播出时前面几集都使用日文主题曲](https://zh.wikipedia.org/wiki/东森幼幼台 "wikilink")，之后则改为该台自制的儿童节目《[YoYo点点名](https://zh.wikipedia.org/wiki/YoYo点点名 "wikilink")》的歌曲《天空游乐场》，播映时另取歌名“YOYO火箭号”。
 
 ## 参考文献
 

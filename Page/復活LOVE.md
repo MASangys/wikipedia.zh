@@ -1,4 +1,4 @@
-《**復活LOVE**》（復活LOVE）是[嵐的第](../Page/嵐.md "wikilink")48張[單曲](../Page/單曲.md "wikilink")，於2016年2月24日在[日本發行](../Page/日本.md "wikilink")，唱片公司為[J
+《**復活LOVE**》（復活LOVE）是[嵐的第](../Page/嵐.md "wikilink")48張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2016年2月24日在[日本發行](../Page/日本.md "wikilink")，唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

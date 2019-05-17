@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - **日影**（[奥井雅美](../Page/奥井雅美.md "wikilink") 飾）
+  - **日影**（[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -127,13 +127,13 @@
 
 <!-- end list -->
 
-  - **尤娜**（[小島梨里杏](../Page/小島梨里杏.md "wikilink") 飾）
+  - **尤娜**（[小島梨里杏](https://zh.wikipedia.org/wiki/小島梨里杏 "wikilink") 飾）
 
 <!-- end list -->
 
   -
     《[絶狼〈ZERO〉-Black
-    Blood-](../Page/絶狼〈ZERO〉-Black_Blood-.md "wikilink")》登場的魔戒法師少女，第5話的主角。
+    Blood-](https://zh.wikipedia.org/wiki/絶狼〈ZERO〉-Black_Blood- "wikilink")》登場的魔戒法師少女，第5話的主角。
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@
 
 <!-- end list -->
 
-  - **布道雷歐**（[中村織央](../Page/中村織央.md "wikilink") 飾）
+  - **布道雷歐**（[中村織央](https://zh.wikipedia.org/wiki/中村織央 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 
 <!-- end list -->
 
-  - **春奈**（[小松もか](../Page/小松もか.md "wikilink") 飾）
+  - **春奈**（[小松もか](https://zh.wikipedia.org/wiki/小松もか "wikilink") 飾）
 
 <!-- end list -->
 
@@ -174,7 +174,7 @@
 
 <!-- end list -->
 
-  - **秋月大吾**（[脇崎智史](../Page/脇崎智史.md "wikilink") 飾）
+  - **秋月大吾**（[脇崎智史](https://zh.wikipedia.org/wiki/脇崎智史 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -183,7 +183,7 @@
 
 <!-- end list -->
 
-  - **庫洛**（[水石亜飛夢](../Page/水石亜飛夢.md "wikilink") 飾）
+  - **庫洛**（[水石亜飛夢](https://zh.wikipedia.org/wiki/水石亜飛夢 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -192,7 +192,7 @@
 
 <!-- end list -->
 
-  - **毒島榮治**（[哀川翔](../Page/哀川翔.md "wikilink") 飾）
+  - **毒島榮治**（[哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -201,7 +201,7 @@
 
 <!-- end list -->
 
-  - **明里**（[吉井憐](../Page/吉井憐.md "wikilink") 飾）
+  - **明里**（[吉井憐](https://zh.wikipedia.org/wiki/吉井憐 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -215,11 +215,11 @@
 <!-- end list -->
 
   -
-    《[媚空](../Page/媚空.md "wikilink")》登場的以成為暗斬師為目標的見習魔戒法師，第9話的主角。
+    《[媚空](https://zh.wikipedia.org/wiki/媚空 "wikilink")》登場的以成為暗斬師為目標的見習魔戒法師，第9話的主角。
 
 <!-- end list -->
 
-  - **冴島雷牙**（[中山麻聖](../Page/中山麻聖.md "wikilink") 飾）
+  - **冴島雷牙**（[中山麻聖](https://zh.wikipedia.org/wiki/中山麻聖 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -238,7 +238,8 @@
 <!-- end list -->
 
   - **D・蘋果**（青年：[石田卓也](../Page/石田卓也.md "wikilink")
-    老年：[泉谷茂](../Page/泉谷茂.md "wikilink") 飾）
+    老年：[泉谷茂](https://zh.wikipedia.org/wiki/泉谷茂 "wikilink")
+    飾）
 
 <!-- end list -->
 
@@ -248,7 +249,7 @@
 
 <!-- end list -->
 
-  - **銀次**（[高良亘](../Page/高良亘.md "wikilink") 飾）
+  - **銀次**（[高良亘](https://zh.wikipedia.org/wiki/高良亘 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -257,16 +258,16 @@
 
 <!-- end list -->
 
-  - **山刀翼**（[山本匠馬](../Page/山本匠馬.md "wikilink") 飾）
+  - **山刀翼**（[山本匠馬](https://zh.wikipedia.org/wiki/山本匠馬 "wikilink") 飾）
 
 <!-- end list -->
 
   -
-    《[牙狼〈GARO〉～白夜魔獸～](../Page/牙狼〈GARO〉～白夜魔獸～.md "wikilink")》登場的魔戒騎士。白夜騎士打無稱號繼承者。第11話的主角。
+    《[牙狼〈GARO〉～白夜魔獸～](https://zh.wikipedia.org/wiki/牙狼〈GARO〉～白夜魔獸～ "wikilink")》登場的魔戒騎士。白夜騎士打無稱號繼承者。第11話的主角。
 
 <!-- end list -->
 
-  - **邪美**（[佐藤康惠](../Page/佐藤康惠.md "wikilink") 飾）
+  - **邪美**（[佐藤康惠](https://zh.wikipedia.org/wiki/佐藤康惠 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -284,7 +285,7 @@
 
 <!-- end list -->
 
-  - **雪姬**（[黑木桃子](../Page/黑木桃子.md "wikilink") 飾）
+  - **雪姬**（[黑木桃子](https://zh.wikipedia.org/wiki/黑木桃子 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -306,7 +307,7 @@
 
 <!-- end list -->
 
-  - **キサラ**（[江口弘美](../Page/江口弘美.md "wikilink") 飾）
+  - **キサラ**（[江口弘美](https://zh.wikipedia.org/wiki/江口弘美 "wikilink") 飾）
   - **ズーナ**（ 飾）
   - **ユメカ**（ 飾）
 
@@ -334,7 +335,7 @@
 
 <!-- end list -->
 
-  - **エリカ**（[桃瀬美咲](../Page/桃瀬美咲.md "wikilink") 飾）
+  - **エリカ**（[桃瀬美咲](https://zh.wikipedia.org/wiki/桃瀬美咲 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -377,7 +378,7 @@
 
 <!-- end list -->
 
-  - **カズマ**（[小島よしお](../Page/小島よしお.md "wikilink") 飾）
+  - **カズマ**（[小島よしお](https://zh.wikipedia.org/wiki/小島よしお "wikilink") 飾）
 
 ## 各集資料
 
@@ -405,7 +406,7 @@
 <!-- end list -->
 
   -
-    作詞、編曲︰[栗山義親](../Page/栗山義親.md "wikilink")、[寺田志保](../Page/寺田志保.md "wikilink")
+    作詞、編曲︰[栗山義親](https://zh.wikipedia.org/wiki/栗山義親 "wikilink")、[寺田志保](https://zh.wikipedia.org/wiki/寺田志保 "wikilink")
 
 ### 片尾曲
 
@@ -425,13 +426,13 @@
 
 ### 登場人物
 
-  - **ゴウキ**（[棚橋弘至](../Page/棚橋弘至.md "wikilink") 飾）
-  - **レン**（[安田聖愛](../Page/安田聖愛.md "wikilink") 飾）
-  - **シン**（[吉澤太陽](../Page/吉澤太陽.md "wikilink") 飾）
-  - **タク**（[若林瑠海](../Page/若林瑠海.md "wikilink") 飾）
+  - **ゴウキ**（[棚橋弘至](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink") 飾）
+  - **レン**（[安田聖愛](https://zh.wikipedia.org/wiki/安田聖愛 "wikilink") 飾）
+  - **シン**（[吉澤太陽](https://zh.wikipedia.org/wiki/吉澤太陽 "wikilink") 飾）
+  - **タク**（[若林瑠海](https://zh.wikipedia.org/wiki/若林瑠海 "wikilink") 飾）
   - **冴島薰**（[肘井美佳](../Page/肘井美佳.md "wikilink") 飾）
-  - **雷牙(少年)**（[杉園啟仁](../Page/杉園啟仁.md "wikilink") 飾）
-  - **ザルギン**（[真壁刀義](../Page/真壁刀義.md "wikilink") 飾）
+  - **雷牙(少年)**（[杉園啟仁](https://zh.wikipedia.org/wiki/杉園啟仁 "wikilink") 飾）
+  - **ザルギン**（[真壁刀義](https://zh.wikipedia.org/wiki/真壁刀義 "wikilink") 飾）
 
 ## 外部連結
 

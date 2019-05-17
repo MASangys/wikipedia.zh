@@ -1,5 +1,5 @@
 《**有乜好過去camping -
-德國篇**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共5集，由[唐詩詠](../Page/唐詩詠.md "wikilink")、[馬國明](../Page/馬國明.md "wikilink")、[梁烈唯擔任主持](../Page/梁烈唯.md "wikilink")。本節目於2016年4月18日起[香港時間逢一至五晚上](../Page/香港時間.md "wikilink")22:30-23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）\[1\]\[2\]。
+德國篇**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共5集，由[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[梁烈唯擔任主持](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")。本節目於2016年4月18日起[香港時間逢一至五晚上](../Page/香港時間.md "wikilink")22:30-23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）\[1\]\[2\]。
 
 ## 每集內容
 
@@ -14,7 +14,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
 
 | 週次 | 集數    | 日期               | 平均收視 |
 | -- | ----- | ---------------- | ---- |

@@ -1,6 +1,6 @@
-[菲律宾被列为全世界对同性恋最友好的国家之一和全](../Page/菲律宾.md "wikilink")[亚洲对LGBT最友好的国家之一](../Page/亚洲.md "wikilink")。\[1\]在一个涵盖了39个国家的全球性调查中菲律宾在17个多数接受[同性恋的国家中排名第](../Page/同性恋.md "wikilink")10。[皮尤研究中心题为](../Page/皮尤研究中心.md "wikilink")“对同性恋的全球鸿沟”的调查显示，73％的成年菲律宾人同意“同性恋应该被社会所接受”，比2002年的64%上升了9个百分点。\[2\]
+**菲律宾LGBT权益**是[菲律賓對於](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[同志族群的相關保障](https://zh.wikipedia.org/wiki/同志 "wikilink")。根據2014年調查，菲律宾被列为全世界对同性恋最友好的国家之一和全[亚洲对LGBT最友好的国家之一](../Page/亚洲.md "wikilink")。\[1\]在一个涵盖了39个国家的全球性调查中菲律宾在17个多数接受[同性恋的国家中排名第](https://zh.wikipedia.org/wiki/同性恋 "wikilink")10。[皮尤研究中心题为](../Page/皮尤研究中心.md "wikilink")“对同性恋的全球鸿沟”的调查显示，73％的成年菲律宾人同意“同性恋应该被社会所接受”，比2002年的64%上升了9个百分点。\[2\]
 
-话虽如此，LGBT人群仍然是该国的少数派之一。女同性恋者，男同性恋者，双性恋者和跨性别往往面临工作中的歧视，没有结婚的权利。这导致了[LGBT权利的兴起](../Page/各地LGBT權利.md "wikilink")，这种权利被定义为[平等和不受歧视的权利](../Page/法律之前人人平等.md "wikilink")。\[3\]作为[联合国的成员](../Page/联合国.md "wikilink")，菲律宾签署了促进[人权的各种国际公约](../Page/人权.md "wikilink")。\[4\]
+话虽如此，LGBT人群仍然是该国的少数派之一。女同性恋者，男同性恋者，双性恋者和跨性别往往面临工作中的歧视，没有结婚的权利。这导致了[LGBT权利的兴起](../Page/各地LGBT權利.md "wikilink")，这种权利被定义为[平等和不受歧视的权利](../Page/法律之前人人平等.md "wikilink")。\[3\]作为[联合国的成员](https://zh.wikipedia.org/wiki/联合国 "wikilink")，菲律宾签署了促进[人权的各种国际公约](../Page/人权.md "wikilink")。\[4\]
 
 ## 宗教
 
@@ -8,15 +8,15 @@
 
 ### 罗马天主教
 
-菲律宾是一个以天主教为主的国家，约有82.9％的菲律宾人自称是罗马天主教徒。\[5\]罗马天主教会一直是该国反对同性恋社群最活跃的宗教组织之一。\[6\]菲律宾天主教主教会议坚定地指出，婚姻应该只在一个[男性和一个](../Page/男性.md "wikilink")[女性之间存在](../Page/女性.md "wikilink")。\[7\]此外，他们还呼吁个人和政界人士积极反对[同性婚姻](../Page/同性婚姻.md "wikilink")。\[8\]他们认为个人应拒绝参加同性伴侣关系的庆祝仪式，政治人物应该抵制同性伴侣结婚合法化。\[9\]他们还指出，“同性恋结合不是，也永远不会被理解为所谓的婚姻。”\[10\]不过，他们也表示，“作为一个同性恋不是一种罪过。这是一个人的状态。”\[11\]天主教欢迎LGBT社群的成员，但是，如前所述，同性恋者应该受到“尊重和敏感”的欢迎。\[12\]
+菲律宾是一个以天主教为主的国家，约有82.9％的菲律宾人自称是罗马天主教徒。\[5\]罗马天主教会一直是该国反对同性恋社群最活跃的宗教组织之一。\[6\]菲律宾天主教主教会议坚定地指出，婚姻应该只在一个[男性和一个](../Page/男性.md "wikilink")[女性之间存在](../Page/女性.md "wikilink")。\[7\]此外，他们还呼吁个人和政界人士积极反对[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。\[8\]他们认为个人应拒绝参加同性伴侣关系的庆祝仪式，政治人物应该抵制同性伴侣结婚合法化。\[9\]他们还指出，“同性恋结合不是，也永远不会被理解为所谓的婚姻。”\[10\]不过，他们也表示，“作为一个同性恋不是一种罪过。这是一个人的状态。”\[11\]天主教欢迎LGBT社群的成员，但是，如前所述，同性恋者应该受到“尊重和敏感”的欢迎。\[12\]
 
 ### 基督堂教会
 
-基督堂教会不是谴责同性恋的事实本身，而是坚持以[圣经为教导](../Page/圣经.md "wikilink")，谴责那些同性恋行为，因为这些行为被视为不道德和[邪恶](../Page/惡.md "wikilink")。\[13\]这些行为包括：发生同性性行为，与同性建立伴侣关系，[異裝以及同性婚姻](../Page/異裝.md "wikilink")。\[14\]此外，在基督堂教会，男人不准留长发，因为长发被看作是[女性化的象征](../Page/女性化.md "wikilink")，应该专属女人。\[15\]由于教会的信仰建立在圣经上，当有成员被发现是同性恋后，将因为不符合信仰而被要求离开教会。
+基督堂教会不是谴责同性恋的事实本身，而是坚持以[圣经为教导](https://zh.wikipedia.org/wiki/圣经 "wikilink")，谴责那些同性恋行为，因为这些行为被视为不道德和[邪恶](../Page/惡.md "wikilink")。\[13\]这些行为包括：发生同性性行为，与同性建立伴侣关系，[異裝以及同性婚姻](https://zh.wikipedia.org/wiki/異裝 "wikilink")。\[14\]此外，在基督堂教会，男人不准留长发，因为长发被看作是[女性化的象征](https://zh.wikipedia.org/wiki/女性化 "wikilink")，应该专属女人。\[15\]由于教会的信仰建立在圣经上，当有成员被发现是同性恋后，将因为不符合信仰而被要求离开教会。
 
 ### 伊斯兰教
 
-穆斯林也像所有其他宗教团体一样面临[多元化的挑战](../Page/文化差異.md "wikilink")。\[16\]然而，对于多数穆斯林来说，涉及同性恋或变性的问题是[罪恶和](../Page/罪_\(宗教\).md "wikilink")[異端](../Page/異端.md "wikilink")，不是差异性和多样性的问题。\[17\]菲律宾的伊斯兰社会对同性恋持负面态度。与他人的同性关系被视为大罪。穆斯林认为同性恋者道德混乱。\[18\]对于伊斯兰教社会来说，同性恋是一种罪，应予严惩。\[19\]
+穆斯林也像所有其他宗教团体一样面临[多元化的挑战](https://zh.wikipedia.org/wiki/文化差異 "wikilink")。\[16\]然而，对于多数穆斯林来说，涉及同性恋或变性的问题是[罪恶和](../Page/罪_\(宗教\).md "wikilink")[異端](../Page/異端.md "wikilink")，不是差异性和多样性的问题。\[17\]菲律宾的伊斯兰社会对同性恋持负面态度。与他人的同性关系被视为大罪。穆斯林认为同性恋者道德混乱。\[18\]对于伊斯兰教社会来说，同性恋是一种罪，应予严惩。\[19\]
 
 ## 政治
 
@@ -39,21 +39,13 @@ Santiago是菲律宾同性婚姻的最强烈反对者。他们在2006年向参�
 
 ## 婚姻和家庭
 
-菲律宾法律不承认[同性婚姻](../Page/同性婚姻.md "wikilink")，[民事结合或合作伴侣](../Page/民事结合.md "wikilink")。
+菲律宾法律不承认[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，[民事结合或合作伴侣](https://zh.wikipedia.org/wiki/民事结合 "wikilink")。
 
-1998年，参议员Marcelo B. Fernan和Miriam Defensor
-Santiago提出一系列四项法案，即禁止认可涉及跨性别者的婚姻，禁止认可菲律宾以及国外注册的两个相同的生物学性别的人之间的婚姻关系。
-
-自2006年以来，反同性婚姻的法案已经递交，参议院和国会仍在审议中。在2011年初，众议员提交条例草案修订菲律宾家庭法第26条规定。具体而言，此举旨在禁止菲律宾承认其他国家注册的同性婚姻。该法案仍在委员会中。\[29\]\[30\]\[31\]
-
-2014年12月总统府发言人Herminio Coloma
-Jr评论同性婚姻说：“我们必须尊重个人进入这样伴侣关系的权利，这是人权的一部分，我们只需要等待国会的提案。”\[32\]
-
-2015年5月[爱尔兰通过民众投票合法化同性婚姻](../Page/爱尔兰.md "wikilink")，菲律宾也开始有一个合法化这项法律的请愿书。\[33\]菲律宾天主教主教会议反对这个想法，尽管他们声称支持“人人平等”。甚至在一定程度上认为“同性婚姻”和“爱上了同性是错误的”。\[34\]
+菲律賓現任總統杜特蒂曾在 2017 年 12 月公開支持同性婚姻\[29\]，並邀請菲律賓的同志社團推選代表，加入政府的修法團隊。
 
 ## 社群
 
-20世纪90年代LGBT社群开始有组织代表其人权。贫困和在菲律宾的政治局势，尤其是独裁，可能使得LGBT社区组织发展困难。第一个公开[出柜的同性恋是导演Lino](../Page/出柜.md "wikilink")
+20世纪90年代LGBT社群开始有组织代表其人权。贫困和在菲律宾的政治局势，尤其是独裁，可能使得LGBT社区组织发展困难。第一个公开[出柜的同性恋是导演Lino](https://zh.wikipedia.org/wiki/出柜 "wikilink")
 Brocka。
 
 1994年6月26日菲律宾ProGay在奎松纪念圆环组织了亚洲同时也是菲律宾第一次男同性恋，女同性恋，双性恋和跨性别的骄傲游行。数百人参加骄傲活动，恰逢反对政府增值税的游行。
@@ -62,7 +54,7 @@ Brocka。
 
   - [UP
     Babaylan](http://angupbabaylan.blogspot.com/)成立于1992年，是菲律宾历史最悠久，规模最大的LGBT学生组织
-  - Progay-Philippines成立于1993年，在1994年领导了亚洲第一个同性恋三月游行\[35\]
+  - Progay-Philippines成立于1993年，在1994年领导了亚洲第一个同性恋三月游行\[30\]
   - Lesbian and Gay Legislative Advocacy
     Network（LAGABLAB，男女同性恋立法倡导网络），成立于1999年
   - Society of Transsexual WOMEN of the
@@ -70,26 +62,26 @@ Brocka。
 
 ## 概况
 
-|                                                         |                                                                                                                                                                               |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 同性性行为合法                                                 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") （除Marawi市穆斯林外）                                                                         |
-| 同意年龄平等                                                  | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（除Marawi市穆斯林外）                                                                          |
-| 反就业歧视法律                                                 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") / [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（非全国范围） |
-| 提供商品和服务的反歧视法律                                           | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") / [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（非全国范围） |
-| 在所有其他领域的反歧视法律（包括间接歧视，仇恨言论）                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
-| 同性婚姻                                                    | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（待定）                                                                                             |
-| 同性伴侣关系                                                  | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（待定）                                                                                             |
-| 同性伴侣收养继子女                                               | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                                                                                        |
-| 同性伴侣联合收养                                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
-| 同性恋军人允许公开服役                                             | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2009年）                                                                                |
-| 有权改变法律性别                                                | [_Emblem-question.svg](https://zh.wikipedia.org/wiki/File:_Emblem-question.svg "fig:_Emblem-question.svg")\[36\]                                                             |
-| 男同性恋情侣商业代孕                                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
-| 女同性恋试管婴儿                                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
-| [男男性接触人群](../Page/男男性接触人群.md "wikilink")（MSM）允许献血\[37\] | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
+|                                                                            |                                                                                                                                                                               |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 同性性行为合法                                                                    | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") （除Marawi市穆斯林外）                                                                         |
+| 同意年龄平等                                                                     | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（除Marawi市穆斯林外）                                                                          |
+| 反就业歧视法律                                                                    | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") / [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（非全国范围） |
+| 提供商品和服务的反歧视法律                                                              | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") / [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（非全国范围） |
+| 在所有其他领域的反歧视法律（包括间接歧视，仇恨言论）                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
+| 同性婚姻                                                                       | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（待定）                                                                                             |
+| 同性伴侣关系                                                                     | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（待定）                                                                                             |
+| 同性伴侣收养继子女                                                                  | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                                                                                        |
+| 同性伴侣联合收养                                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
+| 同性恋军人允许公开服役                                                                | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2009年）                                                                                |
+| 有权改变法律性别                                                                   | [_Emblem-question.svg](https://zh.wikipedia.org/wiki/File:_Emblem-question.svg "fig:_Emblem-question.svg")\[31\]                                                             |
+| 男同性恋情侣商业代孕                                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
+| 女同性恋试管婴儿                                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
+| [男男性接触人群](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")（MSM）允许献血\[32\] | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                 |
 
 ## 参见
 
-  - [菲律宾LGBT文化](../Page/菲律宾LGBT文化.md "wikilink")
+  - [菲律宾LGBT文化](https://zh.wikipedia.org/wiki/菲律宾LGBT文化 "wikilink")
 
 ## 参考资料
 
@@ -171,22 +163,11 @@ Brocka。
 
 28.
 
-29.
+29. [「如果那能讓你幸福」　菲律賓狂人杜特蒂聲明支持同婚](https://www.upmedia.mg/news_info.php?SerialNo=31441)。2017.12.18
+    上報
 
-30.
+30. Tokyo Lesbian Gay Parade, TLGP in 1994.
 
 31.
 
-32. [Philippines presidential palace 'respects' same-sex
-    marriage](http://www.gaystarnews.com/article/philippines-presidential-palace-respects-same-sex-marriage221214)
-
-33. [SC asked: Allow same-sex marriage in
-    PH](http://www.rappler.com/nation/94266-same-sex-marriage-petition-supreme-court)
-
-34. [‘Same sex marriage’](http://www.cbcpnews.com/cbcpnews/?p=13036)
-
-35. Tokyo Lesbian Gay Parade, TLGP in 1994.
-
-36.
-
-37.
+32.

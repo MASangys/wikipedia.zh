@@ -1,11 +1,11 @@
-**Salsa20**是一种[流加密算法](../Page/流加密.md "wikilink")，由提交到。它建立在基于add-rotate-xor（ARX）操作的[伪随机函数之上](../Page/伪随机.md "wikilink")——32位模加、[异或](../Page/异或.md "wikilink")（XOR）和[循环移位操作](../Page/位操作.md "wikilink")。Salsa20映射一个256[位密钥](../Page/位元.md "wikilink")、一个64位[nonce以及一个](../Page/nonce.md "wikilink")64位流位置到一个512位的输出（也存在一个128位密钥的版本）。这使Salsa20具有了不同寻常的优势，用户可以在恒定时间内寻求输出流中的任何位置。它可以在现代[x86处理器中提供约每](../Page/x86.md "wikilink")4–14次循环周期一字节的速度\[1\]，并具有合理的硬件性能。它没有注册专利，并且Bernstein还撰写了几篇对常见[架构优化的](../Page/架构.md "wikilink")[公有领域实现](../Page/公有领域.md "wikilink")。\[2\]
+**Salsa20**是一种[流加密算法](https://zh.wikipedia.org/wiki/流加密 "wikilink")，由提交到。它建立在基于add-rotate-xor（ARX）操作的[伪随机函数之上](https://zh.wikipedia.org/wiki/伪随机 "wikilink")——32位模加、[异或](https://zh.wikipedia.org/wiki/异或 "wikilink")（XOR）和[循环移位操作](../Page/位操作.md "wikilink")。Salsa20映射一个256[位密钥](../Page/位元.md "wikilink")、一个64位[nonce以及一个](https://zh.wikipedia.org/wiki/nonce "wikilink")64位流位置到一个512位的输出（也存在一个128位密钥的版本）。这使Salsa20具有了不同寻常的优势，用户可以在恒定时间内寻求输出流中的任何位置。它可以在现代[x86处理器中提供约每](https://zh.wikipedia.org/wiki/x86 "wikilink")4–14次循环周期一字节的速度\[1\]，并具有合理的硬件性能。它没有注册专利，并且Bernstein还撰写了几篇对常见[架构优化的](https://zh.wikipedia.org/wiki/架构 "wikilink")[公有领域实现](../Page/公有领域.md "wikilink")。\[2\]
 
-一个相关的[密码算法](../Page/密碼_\(密碼學\).md "wikilink")**ChaCha**，具有类似的特点，但有不同的循环移位函数，已在2008年由Bernstein发布。
+一个相关的[密码算法](https://zh.wikipedia.org/wiki/密碼_\(密碼學\) "wikilink")**ChaCha**，具有类似的特点，但有不同的循环移位函数，已在2008年由Bernstein发布。
 
 ## 结构
 
 在其内部，该算法采用模加⊕（[逻辑异或](../Page/逻辑异或.md "wikilink")），32位模加2<sup>32</sup>
-⊞，和在一个内部十六个32位word的state上进行恒定距离循环移位操作（\<\<\<）。只使用[add-rotate-xor操作避免了软件实现中](../Page/分组密码.md "wikilink")[计时攻击的可能性](../Page/计时攻击.md "wikilink")。基本的Salsa20循环函数
+⊞，和在一个内部十六个32位word的state上进行恒定距离循环移位操作（\<\<\<）。只使用[add-rotate-xor操作避免了软件实现中](../Page/分组密码.md "wikilink")[计时攻击的可能性](https://zh.wikipedia.org/wiki/计时攻击 "wikilink")。基本的Salsa20循环函数
 `R(a,b,c,k)`是
 
 `b ⊕= (a ⊞ c) <<< k;`
@@ -50,11 +50,11 @@ Salsa20已被选择作为eSTREAM项目“Profile 1”（软件）的第三阶段
 截至2015年，没有已知的对Salsa20/12或完整Salsa20/20的攻击被发布；已知的最佳攻击\[7\]是打破12轮或20轮循环中的8轮。
 
 在2005年，Paul
-Crowley报告了一个对Salsa20/5的攻击，预计时间复杂度2<sup>165</sup>，并赢得Bernstein的1000[美金](../Page/美金.md "wikilink")
-“最有趣Salsa20密码分析”奖励。\[8\]此次攻击及所有后续的攻击都是基于[截断差分分析](../Page/截断差分分析.md "wikilink")。<span class="cx-segment" data-segmentid="128"></span>在2006年，Fischer、Meier、Berbain、Biasse和Robshaw报告了一个对Salsa20/6的攻击，预计时间复杂度2<sup>177</sup>，以及一个对Salsa20/7的相关密钥攻击，预计时间复杂度2<sup>217</sup>。\[9\]
+Crowley报告了一个对Salsa20/5的攻击，预计时间复杂度2<sup>165</sup>，并赢得Bernstein的1000[美金](https://zh.wikipedia.org/wiki/美金 "wikilink")
+“最有趣Salsa20密码分析”奖励。\[8\]此次攻击及所有后续的攻击都是基于[截断差分分析](https://zh.wikipedia.org/wiki/截断差分分析 "wikilink")。<span class="cx-segment" data-segmentid="128"></span>在2006年，Fischer、Meier、Berbain、Biasse和Robshaw报告了一个对Salsa20/6的攻击，预计时间复杂度2<sup>177</sup>，以及一个对Salsa20/7的相关密钥攻击，预计时间复杂度2<sup>217</sup>。\[9\]
 
 在2007年，Tsunoo
-等人公布了一个Salsa20的密码分析，在2<sup>255</sup>次操作中，使用2<sup>11.37</sup>对密钥流，打破8/20轮来恢复256位的私钥。\[10\]但是，这种攻击似乎没有比[蛮力攻击更好](../Page/暴力破解法.md "wikilink")。<span class="cx-segment" data-segmentid="133"></span>
+等人公布了一个Salsa20的密码分析，在2<sup>255</sup>次操作中，使用2<sup>11.37</sup>对密钥流，打破8/20轮来恢复256位的私钥。\[10\]但是，这种攻击似乎没有比[蛮力攻击更好](https://zh.wikipedia.org/wiki/暴力破解法 "wikilink")。<span class="cx-segment" data-segmentid="133"></span>
 
 在2008年，Aumasson、Fischer、Khazaei、Meier和Rechberger报告了一个追对Salsa20/7的密码分析攻击，时间复杂度2<sup>153</sup>，并且他们报告了首个对Salsa20/8用预计时间复杂度2<sup>251</sup>的攻击。此攻击使用了对中性密钥位进行截断差分概率检测的新概念。此攻击可以打破使用128位密钥的Salsa20/7。\[11\]
 
@@ -86,7 +86,7 @@ ChaCha替换了基本的Salsa20循环函数`R(a,b,c,k)`
 `a ⊞= b; d ⊕= a; d <<<= 8;`
 `c ⊞= d; b ⊕= c; b <<<= 7;`
 
-这除了使其在双[操作数](../Page/操作数.md "wikilink")[指令集](../Page/指令集.md "wikilink")（如[x86](../Page/x86.md "wikilink")）上更有效率，也使其在每次quarter-round中更新每个word两次。
+这除了使其在双[操作数](https://zh.wikipedia.org/wiki/操作数 "wikilink")[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")（如[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")）上更有效率，也使其在每次quarter-round中更新每个word两次。
 
 在事实上，8轮的两次循环允许一些优化。\[16\]此外，输入格式可以被重新布置，以支持高效的[SSE实现优化](../Page/SSE.md "wikilink")，这对Salsa20已被发现。相比逐行、逐列下移[置换](../Page/置換.md "wikilink")，还可以沿对角线进行。\[17\]这样ChaCha中的两轮循环是：
 
@@ -105,8 +105,8 @@ ChaCha是BLAKE哈希算法的基础，NIST哈希算法竞争的一个入围者�
 
 ### ChaCha20
 
-[Google选择了](../Page/Google.md "wikilink")设计的，带[Poly1305](../Page/Poly1305.md "wikilink")[訊息鑑別碼的ChaCha](../Page/訊息鑑別碼.md "wikilink")20作为[OpenSSL中](../Page/OpenSSL.md "wikilink")[RC4的替代品](../Page/RC4.md "wikilink")，用以完成互联网的安全通信。\[19\]Google最初实现了[https](../Page/超文本传输安全协议.md "wikilink")
-([TLS/SSL](../Page/傳輸層安全協議.md "wikilink"))流量在[Chrome浏览器](../Page/Chrome浏览器.md "wikilink")（[Android手机版](../Page/Android.md "wikilink")）与Google网站之间的通信。\[20\]
+[Google选择了](../Page/Google.md "wikilink")设计的，带[Poly1305](../Page/Poly1305.md "wikilink")[訊息鑑別碼的ChaCha](https://zh.wikipedia.org/wiki/訊息鑑別碼 "wikilink")20作为[OpenSSL中](../Page/OpenSSL.md "wikilink")[RC4的替代品](../Page/RC4.md "wikilink")，用以完成互联网的安全通信。\[19\]Google最初实现了[https](../Page/超文本传输安全协议.md "wikilink")
+([TLS/SSL](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink"))流量在[Chrome浏览器](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")（[Android手机版](../Page/Android.md "wikilink")）与Google网站之间的通信。\[20\]
 
 不久之后，Google在TLS中采用它，ChaCha20和[Poly1305算法也以](../Page/Poly1305.md "wikilink")
 `chacha20-poly1305@openssh.com`
@@ -115,7 +115,7 @@ ChaCha是BLAKE哈希算法的基础，NIST哈希算法竞争的一个入围者�
 ChaCha20也被用在[OpenBSD](../Page/OpenBSD.md "wikilink")\[24\]和[NetBSD](../Page/NetBSD.md "wikilink")\[25\]操作系统中的arc4random随机数生成器，取代已经脆弱的[RC4](../Page/RC4.md "wikilink")，在[DragonFly
 BSD](../Page/DragonFly_BSD.md "wikilink")\[26\]中内核的[CSPRNG子程序中也是如此](../Page/密码学安全伪随机数生成器.md "wikilink")。\[27\]\[28\]
 
-ChaCha20已经在中标准化。它在[IKE和](../Page/網際網路金鑰交換.md "wikilink")[IPsec中的使用已在](../Page/IPsec.md "wikilink")中标准化。在中，Chacha20-Poly1305已经被加入[TLS扩展标准](../Page/TLS.md "wikilink")。
+ChaCha20已经在中标准化。它在[IKE和](../Page/網際網路金鑰交換.md "wikilink")[IPsec中的使用已在](../Page/IPsec.md "wikilink")中标准化。在中，Chacha20-Poly1305已经被加入[TLS扩展标准](https://zh.wikipedia.org/wiki/TLS "wikilink")。
 
 ## 另见
 
@@ -128,9 +128,9 @@ ChaCha20已经在中标准化。它在[IKE和](../Page/網際網路金鑰交換.
 
   - [Salsa20 首页](https://cr.yp.to/snuffle.html)
   - [Specification](https://cr.yp.to/snuffle/spec.pdf)
-    ([PDF](../Page/便携式文档格式.md "wikilink"))
+    ([PDF](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink"))
   - [Salsa20/8 and Salsa20/12](https://cr.yp.to/snuffle/812.pdf)
-    ([PDF](../Page/便携式文档格式.md "wikilink"))
+    ([PDF](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink"))
   - [eStream page on
     Salsa20](http://www.ecrypt.eu.org/stream/salsa20pf.html)
   - [The ChaCha family of stream ciphers](https://cr.yp.to/chacha.html)

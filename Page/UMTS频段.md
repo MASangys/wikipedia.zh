@@ -1,5 +1,5 @@
 **UMTS频段**（）是[通用移动通讯系统](../Page/通用移动通讯系统.md "wikilink")（）所使用的无线频率范围。
-UMTS频段最早是在[国际电信联盟的](../Page/国际电信联盟.md "wikilink")在1992年的会议（WARC-92）中分配的\[1\]。在212号决议中，为未来公众陆地移动电信系统（FPLMTS），即[IMT-2000的前身分配了频段](../Page/IMT-2000.md "wikilink")\[2\]。在[世界无线电通信大会](../Page/世界无线电通信大会.md "wikilink")1997年的会议中更新了第212号决议的WRC-97版本，分配1885-2025MHz和2110-2200MHz的频段给IMT-2000\[3\]。但是为了适应各和各国家对频段的实际分配情况，IMT-2000的频段经过多次修改，得到了扩展。\[4\]
+UMTS频段最早是在[国际电信联盟的](../Page/国际电信联盟.md "wikilink")在1992年的会议（WARC-92）中分配的\[1\]。在212号决议中，为未来公众陆地移动电信系统（FPLMTS），即[IMT-2000的前身分配了频段](https://zh.wikipedia.org/wiki/IMT-2000 "wikilink")\[2\]。在[世界无线电通信大会](../Page/世界无线电通信大会.md "wikilink")1997年的会议中更新了第212号决议的WRC-97版本，分配1885-2025MHz和2110-2200MHz的频段给IMT-2000\[3\]。但是为了适应各和各国家对频段的实际分配情况，IMT-2000的频段经过多次修改，得到了扩展。\[4\]
 
 ## UMTS-FDD
 
@@ -38,7 +38,7 @@ UMTS-FDD的频段定义于3GPP的技术规范文档TS 25.101（用户设备侧�
 <tr class="even">
 <td><p>2</p></td>
 <td><p>1900</p></td>
-<td><p><a href="../Page/Personal_Communications_Service.md" title="wikilink">PCS</a> A-F</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Personal_Communications_Service" title="wikilink">PCS</a> A-F</p></td>
 <td><p>1850 – 1910</p></td>
 <td><p>1930 – 1990</p></td>
 <td><p>9262 – 9538，附加信道 12, 37, 62, 87, 112, 137, 162, 187, 212, 237, 262, 287</p></td>
@@ -64,7 +64,7 @@ UMTS-FDD的频段定义于3GPP的技术规范文档TS 25.101（用户设备侧�
 <tr class="even">
 <td><p>4</p></td>
 <td><p>1700</p></td>
-<td><p><a href="../Page/Advanced_Wireless_Services.md" title="wikilink">AWS</a> A-F</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Advanced_Wireless_Services" title="wikilink">AWS</a> A-F</p></td>
 <td><p>1710 – 1755</p></td>
 <td><p>2110 – 2155</p></td>
 <td><p>1312 – 1513，附加信道 1662, 1687, 1712, 1737, 1762, 1787, 1812, 1837, 1862</p></td>

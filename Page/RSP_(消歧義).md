@@ -21,8 +21,8 @@
 
 ## 金融經濟
 
-  - [建議售價](../Page/建議售價.md "wikilink")（Recommended Selling
-    Price），廠商推薦零售商的對該廠商的產品之定價
+  - [建議售價](https://zh.wikipedia.org/wiki/建議售價 "wikilink")（Recommended
+    Selling Price），廠商推薦零售商的對該廠商的產品之定價
 
   - （Retirement Savings Plan或Registered Retirement Savings Plan）
 
@@ -34,14 +34,15 @@
 
 ## 其他
 
-  - [可吸入懸浮粒子](../Page/可吸入懸浮粒子.md "wikilink")（Respirable suspended
-    particle）
+  - [可吸入懸浮粒子](https://zh.wikipedia.org/wiki/可吸入懸浮粒子 "wikilink")（Respirable
+    suspended particle）
 
   - （Respiratory syncytial virus）
 
   - （Retail Service Provider）
 
-  - [革命社會黨](../Page/革命社會黨.md "wikilink")（Revolutionary Socialist Party）
+  - [革命社會黨](https://zh.wikipedia.org/wiki/革命社會黨 "wikilink")（Revolutionary
+    Socialist Party）
 
   - （Riverfront State Prison）
 

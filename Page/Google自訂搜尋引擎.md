@@ -12,11 +12,12 @@ Google于2006年10月23日推出该服务。\[2\]
 
 ## 相关条目
 
-  - [Alphabet Inc.](../Page/Alphabet_Inc..md "wikilink")
+  - [Alphabet
+    Inc.](https://zh.wikipedia.org/wiki/Alphabet_Inc. "wikilink")
   - [谷-{}-歌中国](../Page/谷歌中国.md "wikilink")
   - [Google 搜索](../Page/Google搜索.md "wikilink")
   - [Google 产品列表](../Page/Google产品列表.md "wikilink")
-  - [Google 公司收购列表](../Page/Google公司收购列表.md "wikilink")
+  - [Google 公司收购列表](https://zh.wikipedia.org/wiki/Google公司收购列表 "wikilink")
 
 [Category:Google搜尋](https://zh.wikipedia.org/wiki/Category:Google搜尋 "wikilink")
 

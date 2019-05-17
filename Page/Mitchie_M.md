@@ -6,7 +6,7 @@ M**（）\[1\]是[日本的](../Page/日本.md "wikilink")[音樂製作人](../P
 6歲就開始學習鋼琴，在學生時代曾進行樂隊活動，同時對感興趣，繼而開始學習音樂製作。畢業後則進行各種音樂相關的活動，包括作曲、編曲及聲音製作。\[3\]自言受到[巴西音樂家](../Page/巴西.md "wikilink")[安東尼奧·卡洛斯·裘賓的不少影響](../Page/安東尼奧·卡洛斯·裘賓.md "wikilink")。\[4\]\[5\]
 
 2011年7月31日把歌曲「FREELY
-TOMORROW」上傳至[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")，並刷新[VOCALOID曲分類中達成十萬再生的最新紀錄](../Page/VOCALOID.md "wikilink")（10小時40分鐘），後來亦刷新了達成百萬再生的最新紀錄（20日6小時4分鐘）。\[6\]\[7\]\[8\]
+TOMORROW」上傳至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，並刷新[VOCALOID曲分類中達成十萬再生的最新紀錄](../Page/VOCALOID.md "wikilink")（10小時40分鐘），後來亦刷新了達成百萬再生的最新紀錄（20日6小時4分鐘）。\[6\]\[7\]\[8\]
 
 ## 名字由來
 
@@ -66,17 +66,17 @@ Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**M
 
   - Fairy Story（南里侑香、結城愛良）──Fairytale
   - Baguette Bardot──『Best Of Baguette Bardot』（FGL Music France）
-  - [合輯](../Page/合輯.md "wikilink")「空想活劇」
+  - [合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")「空想活劇」
   - [Daisy×Daisy](../Page/Daisy×Daisy.md "wikilink")「Daisy×Daisy」收錄「Lovers
     Game feat. Mitchie M」（2011年11月16日）
   - [中川翔子](../Page/中川翔子.md "wikilink")「」收錄「[snow
-    tears](../Page/snow_tears.md "wikilink") -Mitchie M
-    Remix-」（2012年1月11日）
+    tears](https://zh.wikipedia.org/wiki/snow_tears "wikilink") -Mitchie
+    M Remix-」（2012年1月11日）
   - 合輯「Dream Vocalist」收錄「」（2012年3月21日）
   - B Who I Want 2 B feat. HATSUNE MIKU
     ([安室奈美惠](../Page/安室奈美惠.md "wikilink"))
-    收錄「[_genic](../Page/_genic.md "wikilink")」
-    \[與[SOPHIE擔任填詞](../Page/SOPHIE.md "wikilink")\]
+    收錄「[_genic](https://zh.wikipedia.org/wiki/_genic "wikilink")」
+    \[與[SOPHIE擔任填詞](https://zh.wikipedia.org/wiki/SOPHIE "wikilink")\]
     (2015年6月10日)
 
 ### 商業搭配
@@ -118,7 +118,7 @@ Mitchiell**的名義活動，但後來覺得這名字太長，於是簡化成**M
 <tr class="odd">
 <td><p>神奇的魔術師</p></td>
 <td></td>
-<td><p><a href="../Page/Colopl.md" title="wikilink">Colopl</a><a href="../Page/手機遊戲.md" title="wikilink">手機遊戲</a>《<a href="../Page/問答RPG_魔法使與黑貓維茲.md" title="wikilink">クイズRPG 魔法使いと黒猫のウィズ</a>》合作曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Colopl" title="wikilink">Colopl</a><a href="https://zh.wikipedia.org/wiki/手機遊戲" title="wikilink">手機遊戲</a>《<a href="../Page/問答RPG_魔法使與黑貓維茲.md" title="wikilink">クイズRPG 魔法使いと黒猫のウィズ</a>》合作曲</p></td>
 <td><p>2015年(收錄於《39D》專輯)</p></td>
 </tr>
 </tbody>

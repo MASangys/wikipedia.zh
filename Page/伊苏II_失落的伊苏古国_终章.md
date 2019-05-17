@@ -1,4 +1,4 @@
-是[日本Falcom于](../Page/日本Falcom.md "wikilink")1988年在日本个人电脑[PC-8801出品的](../Page/PC-8801.md "wikilink")[动作角色扮演游戏](../Page/动作角色扮演游戏.md "wikilink")。游戏是[伊苏系列的第二作](../Page/伊苏系列.md "wikilink")，情节紧接前作《[伊苏
+是[日本Falcom于](../Page/日本Falcom.md "wikilink")1988年在日本个人电脑[PC-8801出品的](https://zh.wikipedia.org/wiki/PC-8801 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏是[伊苏系列的第二作](../Page/伊苏系列.md "wikilink")，情节紧接前作《[伊苏
 失落的伊苏古国
 序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》，讲述主人公亚特鲁集齐六本伊苏之书后，被传送到伊苏国的故事。游戏后来移植到多个平台，并常与前作捆绑销售。
 
@@ -8,7 +8,7 @@
 
 ## 情节
 
-《伊苏II》的情节紧接前作《伊苏》。在前作《伊苏》中，红发少年剑士亚特鲁·克里斯汀为消灭岛国艾斯塔里亚出现的魔物，在达姆之塔击败[头目达尔克](../Page/头目_\(角色类型\).md "wikilink")·法克特，集齐了封印六神官力量的六本伊苏之书。在本作的片头动画中，亚特鲁因为伊苏之书的力量，传送到浮空的伊苏国。朗斯村的少女莉莉娅发现了受伤的亚特鲁，将他带回家养伤。伤好后，亚特鲁得知莉莉娅患有重病，而唯一能治疗的弗雷亚医生在采药时，困在了废矿中。长老批准了亚特鲁的营救行动，并告知亚特鲁，将伊苏之书放回对应神官的石像前，就能得到神官的指引。在救出弗雷亚，并按他要求找到治疗莉莉娅的珍稀药材后，弗雷亚调配出了药水。
+《伊苏II》的情节紧接前作《伊苏》。在前作《伊苏》中，红发少年剑士亚特鲁·克里斯汀为消灭岛国艾斯塔里亚出现的魔物，在达姆之塔击败[头目达尔克](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")·法克特，集齐了封印六神官力量的六本伊苏之书。在本作的片头动画中，亚特鲁因为伊苏之书的力量，传送到浮空的伊苏国。朗斯村的少女莉莉娅发现了受伤的亚特鲁，将他带回家养伤。伤好后，亚特鲁得知莉莉娅患有重病，而唯一能治疗的弗雷亚医生在采药时，困在了废矿中。长老批准了亚特鲁的营救行动，并告知亚特鲁，将伊苏之书放回对应神官的石像前，就能得到神官的指引。在救出弗雷亚，并按他要求找到治疗莉莉娅的珍稀药材后，弗雷亚调配出了药水。
 
 在将伊苏之书送还给神官石像时，神官石像用精神力量告诉亚特鲁伊苏国的背景。在700年前，某种力量让魔法和魔族一同诞生，古伊苏国为了避难，借助这种力量升上了天空；然而现在恶魔的力量与日俱增，神官和女神的力量却已无法压制。神官请亚特鲁消灭邪恶的源头，并说明各地的女神像会给他指引。同时亚特鲁得知，六神官各流传了一种魔法，只有将他们都学会，才能到达魔族据点。
 
@@ -130,9 +130,9 @@
 
 ## 版本
 
-《伊苏II》于1988年4月22日在个人电脑[PC8801mkIISR发行](../Page/PC-8801.md "wikilink")，同年在[PC-9801](../Page/PC-9801.md "wikilink")、[X1-turbo](../Page/X1-turbo.md "wikilink")、[FM-77AV](../Page/FM-77AV.md "wikilink")、[MSX2等个人电脑上](../Page/MSX2.md "wikilink")。1989年，Vector发行[红白机版游戏](../Page/红白机.md "wikilink")。同年，Hudson
+《伊苏II》于1988年4月22日在个人电脑[PC8801mkIISR发行](https://zh.wikipedia.org/wiki/PC-8801 "wikilink")，同年在[PC-9801](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")、[X1-turbo](https://zh.wikipedia.org/wiki/X1-turbo "wikilink")、[FM-77AV](https://zh.wikipedia.org/wiki/FM-77AV "wikilink")、[MSX2等个人电脑上](https://zh.wikipedia.org/wiki/MSX2 "wikilink")。1989年，Vector发行[红白机版游戏](../Page/红白机.md "wikilink")。同年，Hudson
 Soft发行[PC
-Engine版游戏](../Page/PC_Engine.md "wikilink")，这也是游戏唯一在西方发行的版本。1998年，Vector在[世嘉土星上发行PC](../Page/世嘉土星.md "wikilink")
+Engine版游戏](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")，这也是游戏唯一在西方发行的版本。1998年，Vector在[世嘉土星上发行PC](../Page/世嘉土星.md "wikilink")
 Engine的移植版。2000年，收录游戏的Windows合辑《Falcom
 Classics》发行；2001年，收录游戏和前作的Windows游戏《伊苏I·II完全版》发行。2003年，[DigiCube推出](../Page/DigiCube.md "wikilink")《伊苏I·II完全版》的PlayStation
 2移植版《永远的伊苏I·II》。2008年任天堂DS版《伊苏II

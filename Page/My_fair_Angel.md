@@ -1,9 +1,9 @@
 《**My fair Angel**》是日本[Studio
-e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛模擬類型](../Page/戀愛模擬.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年3月31日發售DVD版。\[2\]
+e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛模擬類型](https://zh.wikipedia.org/wiki/戀愛模擬 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年3月31日發售DVD版。\[2\]
 
 ## 故事
 
-身為錬金術士的テオ，有天從師父シーラ接到創造[霍爾蒙克斯並且將她養育成人來做為畢業前的最後試煉](../Page/霍爾蒙克斯.md "wikilink")。在經過一星期的努力後透過鍊金術成功創造出一名女孩，テオ將她取名為メイヴ並且在シーラ和エリン的協助下開始展開兩人的共同生活。
+身為錬金術士的テオ，有天從師父シーラ接到創造[霍爾蒙克斯並且將她養育成人來做為畢業前的最後試煉](https://zh.wikipedia.org/wiki/霍爾蒙克斯 "wikilink")。在經過一星期的努力後透過鍊金術成功創造出一名女孩，テオ將她取名為メイヴ並且在シーラ和エリン的協助下開始展開兩人的共同生活。
 
 ## 角色
 
@@ -21,7 +21,7 @@ e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛�
 ### 其他角色
 
   - ハンナ（CV：森本れおな）
-    雜貨店的[看板娘](../Page/看板娘.md "wikilink")。
+    雜貨店的[看板娘](https://zh.wikipedia.org/wiki/看板娘 "wikilink")。
 
   - クー（CV：富樫ケイ）
 
@@ -44,7 +44,7 @@ e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛�
 <!-- end list -->
 
   -
-    發售日：2001年7月19日　出版社：[enterbrain](../Page/enterbrain.md "wikilink")　ISBN
+    發售日：2001年7月19日　出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　ISBN
     4-7577-0551-4
 
 <!-- end list -->
@@ -61,7 +61,7 @@ e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛�
 ## 外部連結
 
   - [Studio
-    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](../Page/網際網路檔案館.md "wikilink")
+    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
   - [Studio e･go\!](http://www.studio-ego.jp/)
   - [官方網站](http://www.studio-ego.jp/game/mfa/index.html)
 
@@ -79,6 +79,6 @@ e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛�
 4.  [マイ・フェア・エンジェル](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=1515)ErogameScape
     -エロゲー批評空間-
 5.  [マイ フェア エンジェル
-    プレリュード](https://www.enterbrain.co.jp/product/mook/mook_tech_gian/212_tg_super_prelude/01243101)[enterbrain](../Page/enterbrain.md "wikilink")
+    プレリュード](https://www.enterbrain.co.jp/product/mook/mook_tech_gian/212_tg_super_prelude/01243101)[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")
 6.  [My fair Angel
     ビジュアルファンブック](https://www.enterbrain.co.jp/product/mook/mook_entame/214_magi_cu/01197101.html)enterbrain

@@ -1,13 +1,14 @@
 **Product
-Hunt**是一個供用戶分享和發現[產品的網站](../Page/產品.md "wikilink")。網站於2013年由瑞安·胡佛（）創立，之後加入了[Y
+Hunt**是一個供用戶分享和發現[產品的網站](https://zh.wikipedia.org/wiki/產品 "wikilink")。網站於2013年由瑞安·胡佛（）創立，之後加入了[Y
 Combinator](../Page/Y_Combinator_\(公司\).md "wikilink")。用戶可以以每天線性格式發送不同產品貼文到該網站上，網站亦有類似[Hacker
 News或](../Page/Hacker_News.md "wikilink")[Reddit的留言系統](../Page/Reddit.md "wikilink")。在一天中取得最高票的產品在當天的列表中排序最高。
 
-產品分成三個種類：科技（[網絡應用程式](../Page/網絡應用程式.md "wikilink")、[流動應用程式](../Page/流動應用程式.md "wikilink")、[硬件產品等](../Page/硬件.md "wikilink")）、[遊戲](../Page/遊戲.md "wikilink")（電腦、網上、流動）和[書籍](../Page/書籍.md "wikilink")。所有用戶都可發送產品，只需提供產品名稱、網址和宣傳標語。但是，只有一群被其他可留言用戶選擇的用戶可在產品貼文上留言。
+產品分成三個種類：科技（[網絡應用程式](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")、[流動應用程式](../Page/流動應用程式.md "wikilink")、[硬件產品等](../Page/硬件.md "wikilink")）、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")（電腦、網上、流動）和[書籍](https://zh.wikipedia.org/wiki/書籍 "wikilink")。所有用戶都可發送產品，只需提供產品名稱、網址和宣傳標語。但是，只有一群被其他可留言用戶選擇的用戶可在產品貼文上留言。
 
 網站亦有一個每日電子郵件列表，發送關於每天最高票數的數個產品和產品精選集的資訊。遊戲和書籍亦有它們相應的電子郵件列表。
 
-Product Hunt亦有[iOS應用程式及](../Page/iOS.md "wikilink")[Google
+Product
+Hunt亦有[iOS應用程式及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google
 Chrome擴展插件](../Page/Google_Chrome.md "wikilink")，以及正在開發[Android應用程式](../Page/Android.md "wikilink")\[1\]。
 
 ## 歷史

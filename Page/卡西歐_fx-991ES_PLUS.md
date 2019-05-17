@@ -3,12 +3,12 @@
 ## 外形
 
 此型號高 12.2 毫米，寬 80 毫米，長 161
-毫米，連電池約重105克。表面以[銀色為主](../Page/銀色.md "wikilink")，背面則以[黑色為主](../Page/黑色.md "wikilink")。計數機附有一個硬盒滑蓋，當不需使用計數機時，可把計數機用滑蓋蓋著，以作保護。
+毫米，連電池約重105克。表面以[銀色為主](https://zh.wikipedia.org/wiki/銀色 "wikilink")，背面則以[黑色為主](../Page/黑色.md "wikilink")。計數機附有一個硬盒滑蓋，當不需使用計數機時，可把計數機用滑蓋蓋著，以作保護。
 
 ## 電源
 
 卡西歐 fx-991ES
-PLUS提供[太陽能及](../Page/太陽能.md "wikilink")[電池雙重供電](../Page/電池.md "wikilink")，以平均每天使用
+PLUS提供[太陽能及](https://zh.wikipedia.org/wiki/太陽能 "wikilink")[電池雙重供電](https://zh.wikipedia.org/wiki/電池 "wikilink")，以平均每天使用
 1 小時計算，電池可用達 3 年。
 
 ## 功能

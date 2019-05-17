@@ -1,6 +1,6 @@
-是日本LiLiM在2009年8月28日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，電腦CLUB（電脳CLUB）在2011年1月27日發售[DVDPG版](../Page/DVDPG.md "wikilink")。\[3\]\[4\]2015年4月24發售的合集《LiLiM
+是日本LiLiM在2009年8月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，電腦CLUB（電脳CLUB）在2011年1月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]\[4\]2015年4月24發售的合集《LiLiM
 Premium BOX
--美龍昇天-》收錄短篇故事。\[5\]2010年PoRO開始發售[OVA版](../Page/OVA.md "wikilink")。\[6\]
+-美龍昇天-》收錄短篇故事。\[5\]2010年PoRO開始發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[6\]
 
 ## 故事
 
@@ -21,7 +21,7 @@ Premium BOX
 
 ### 其他角色
 
-  - クプー（聲優：[青葉りんご](../Page/青葉りんご.md "wikilink")）
+  - クプー（聲優：[青葉りんご](https://zh.wikipedia.org/wiki/青葉りんご "wikilink")）
     美夕的使魔，正式名稱是クリストファー・ランデール・プロビデルIV世，來至魔法國ドリームキャッスル。
   - ホーリー（聲優：上田朱音）
     レイナ的使魔，正式名稱是フォーカス・リンドバーグ・ホルディバインIX世，和クプー同樣也是來至魔法國ドリームキャッスル。
@@ -29,7 +29,7 @@ Premium BOX
     演藝事務所「TFA芸能プロダクション」的社長兼經紀人，丈夫在12年前過世了。
   - 寺田幸二（聲優：胸肩腎）
     電視台的製作人，一直都有[陪睡的傳聞](../Page/陪睡.md "wikilink")。
-  - 根岸甚蔵（聲優：[ルネッサンス山田](../Page/ルネッサンス山田.md "wikilink")）
+  - 根岸甚蔵（聲優：[ルネッサンス山田](https://zh.wikipedia.org/wiki/ルネッサンス山田 "wikilink")）
     演藝記者。
   - 山下悠斗（聲優：ルネッサンス山田）
     有名的人氣偶像。
@@ -47,11 +47,11 @@ Premium BOX
   - 插入曲「」
     作詞：宮沢ゆあな　作曲：薬師るり　編曲：土谷知幸　歌：Cheerful+Colorful
   - 片尾曲「」
-    作詞：宮沢ゆあな　作曲：薬師るり　編曲：松美夜孤雨兵　歌：[青葉りんご](../Page/青葉りんご.md "wikilink")
+    作詞：宮沢ゆあな　作曲：薬師るり　編曲：松美夜孤雨兵　歌：[青葉りんご](https://zh.wikipedia.org/wiki/青葉りんご "wikilink")
 
 ## OVA
 
-[OVA版是PoRO在](../Page/OVA.md "wikilink")2010年6月25日開始發售的[成人動畫](../Page/成人動畫.md "wikilink")。原本最初只有發售兩卷，後來在2015年4月24日發售第三卷。
+[OVA版是PoRO在](https://zh.wikipedia.org/wiki/OVA "wikilink")2010年6月25日開始發售的[成人動畫](../Page/成人動畫.md "wikilink")。原本最初只有發售兩卷，後來在2015年4月24日發售第三卷。
 
 ### 各話列表
 

@@ -1,4 +1,4 @@
-**KAYAC公司**（**、**，），在1998年8月3日，由貝畑政徳、（首席執行官）、久場智喜，於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")（總部）成立前身為「有趣法人KAYAC」（面白法人カヤック），2005年1月21日更名為「KAYAC公司」\[1\]。
+**KAYAC公司**（**、**，），在1998年8月3日，由貝畑政徳、（首席執行官）、久場智喜，於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[鎌倉市](https://zh.wikipedia.org/wiki/鎌倉市 "wikilink")（總部）成立前身為「有趣法人KAYAC」（面白法人カヤック），2005年1月21日更名為「KAYAC公司」\[1\]。
 
 業務在全球經營應用創作有趣法人\[2\]\[3\]，而當時經營飲行業DONBURI CAFE DINING
 bowls，則在2013年12月31日改由UPTOWNGUILD經營\[4\]。

@@ -1,19 +1,19 @@
-**查爾斯·哥頓·史超域·麥基**（，），[英國](../Page/英國.md "wikilink")[遠東](../Page/遠東.md "wikilink")[商人和](../Page/商人.md "wikilink")[政治家](../Page/政治家.md "wikilink")，1927年至1935年任[仁記洋行](../Page/仁記洋行.md "wikilink")[香港](../Page/香港.md "wikilink")[董事總經理](../Page/董事總經理.md "wikilink")。
+**查爾斯·哥頓·史超域·麥基**（，），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[遠東](../Page/遠東.md "wikilink")[商人和](../Page/商人.md "wikilink")[政治家](../Page/政治家.md "wikilink")，1927年至1935年任[仁記洋行](../Page/仁記洋行.md "wikilink")[香港](../Page/香港.md "wikilink")[董事總經理](https://zh.wikipedia.org/wiki/董事總經理 "wikilink")。
 
-麥基1901年由[蘇格蘭前往香港](../Page/蘇格蘭.md "wikilink")，加入仁記洋行任職助理。1912年，他升任司理，並長駐[上海](../Page/上海.md "wikilink")，及後進一步成為仁記的上海董事總經理。仁記洋行是遠東當時主要的貿易公司之一，除了從事一般商品貿易和船運，也負責代理和代辦多家公司的在華業務。透過在仁記的工作，麥基得以兼任多家公司的董事職務，1927年從上海調返香港以後，他還兼任[香港電燈公司主席一職](../Page/香港電燈公司.md "wikilink")，並兩度當選[香港上海匯豐銀行主席](../Page/香港上海匯豐銀行.md "wikilink")。此外，仁記與[鐵行火船公司在](../Page/鐵行火船公司.md "wikilink")1923年開展合作關係後，麥基也獲委任為鐵行在香港和上海的合夥人。
+麥基1901年由[蘇格蘭前往香港](../Page/蘇格蘭.md "wikilink")，加入仁記洋行任職助理。1912年，他升任司理，並長駐[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，及後進一步成為仁記的上海董事總經理。仁記洋行是遠東當時主要的貿易公司之一，除了從事一般商品貿易和船運，也負責代理和代辦多家公司的在華業務。透過在仁記的工作，麥基得以兼任多家公司的董事職務，1927年從上海調返香港以後，他還兼任[香港電燈公司主席一職](https://zh.wikipedia.org/wiki/香港電燈公司 "wikilink")，並兩度當選[香港上海匯豐銀行主席](https://zh.wikipedia.org/wiki/香港上海匯豐銀行 "wikilink")。此外，仁記與[鐵行火船公司在](https://zh.wikipedia.org/wiki/鐵行火船公司 "wikilink")1923年開展合作關係後，麥基也獲委任為鐵行在香港和上海的合夥人。
 
-在商業活動以外，麥基在香港和上海也參與不少與商界和政治有關的公職。派駐上海期間，他於1914年至1917年出任[上海工部局董事](../Page/上海工部局.md "wikilink")、1920年至1921年出任[上海外商總會主席](../Page/上海外商總會.md "wikilink")，也曾任上海英商公會會董。1927年調返香港後，他兩度擔任[香港西商會主席](../Page/香港西商會.md "wikilink")（1930年－1931年、1933年－1935年）和[定例局非官守議員](../Page/香港立法局.md "wikilink")（1928年、1930年－1935年），期間多次暫任[議政局非官守議員](../Page/香港行政局.md "wikilink")。熱愛[賽馬運動的他也曾於](../Page/賽馬.md "wikilink")1929年至1935年出任[香港賽馬會主席](../Page/香港賽馬會.md "wikilink")。
+在商業活動以外，麥基在香港和上海也參與不少與商界和政治有關的公職。派駐上海期間，他於1914年至1917年出任[上海工部局董事](https://zh.wikipedia.org/wiki/上海工部局 "wikilink")、1920年至1921年出任[上海外商總會主席](https://zh.wikipedia.org/wiki/上海外商總會 "wikilink")，也曾任上海英商公會會董。1927年調返香港後，他兩度擔任[香港西商會主席](https://zh.wikipedia.org/wiki/香港西商會 "wikilink")（1930年－1931年、1933年－1935年）和[定例局非官守議員](https://zh.wikipedia.org/wiki/香港立法局 "wikilink")（1928年、1930年－1935年），期間多次暫任[議政局非官守議員](https://zh.wikipedia.org/wiki/香港行政局 "wikilink")。熱愛[賽馬運動的他也曾於](../Page/賽馬.md "wikilink")1929年至1935年出任[香港賽馬會主席](../Page/香港賽馬會.md "wikilink")。
 
-麥基於1935年卸下所有工商職務，退休返英，1966年在蘇格蘭家鄉逝世，終年86歲。他生前於1935年獲英廷頒授[英皇喬治五世銀禧獎章](../Page/英皇喬治五世銀禧獎章.md "wikilink")，對其在港擔任公職的表現予以肯定。
+麥基於1935年卸下所有工商職務，退休返英，1966年在蘇格蘭家鄉逝世，終年86歲。他生前於1935年獲英廷頒授[英皇喬治五世銀禧獎章](https://zh.wikipedia.org/wiki/英皇喬治五世銀禧獎章 "wikilink")，對其在港擔任公職的表現予以肯定。
 
 ## 生平
 
 ### 早年生涯
 
-麥基1880年1月9日生於[英國](../Page/英國.md "wikilink")[蘇格蘭東部](../Page/蘇格蘭.md "wikilink")[安格斯的](../Page/安格斯_\(蘇格蘭\).md "wikilink")[布里金](../Page/布里金.md "wikilink")（Brechin），是家中幼子。\[1\]\[2\]他的父親和祖父同樣名叫約翰·麥基醫生（Dr.
+麥基1880年1月9日生於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇格蘭東部](../Page/蘇格蘭.md "wikilink")[安格斯的](https://zh.wikipedia.org/wiki/安格斯_\(蘇格蘭\) "wikilink")[布里金](https://zh.wikipedia.org/wiki/布里金 "wikilink")（Brechin），是家中幼子。\[1\]\[2\]他的父親和祖父同樣名叫約翰·麥基醫生（Dr.
 John Mackie），都是當地名醫；\[3\]\[4\]母親是布里金市學校（Brechin Burgh
 School）校長大衛·普蘭（David
-Prain）的女兒。\[5\]1895年，他的父親懷疑因病厭世，在家中服食毒藥[氫氰酸](../Page/氫氰酸.md "wikilink")[自殺身亡](../Page/自殺.md "wikilink")，終年53歲。\[6\]麥基早年在布里金生活，並受教於當地的布里金高校（Brechin
+Prain）的女兒。\[5\]1895年，他的父親懷疑因病厭世，在家中服食毒藥[氫氰酸](https://zh.wikipedia.org/wiki/氫氰酸 "wikilink")[自殺身亡](../Page/自殺.md "wikilink")，終年53歲。\[6\]麥基早年在布里金生活，並受教於當地的布里金高校（Brechin
 High School）。\[7\]
 
 ### 遠東生涯
@@ -22,75 +22,75 @@ High School）。\[7\]
 
 1901年，時年21歲的麥基前往[遠東發展](../Page/遠東.md "wikilink")，加入[香港的](../Page/香港.md "wikilink")[仁記洋行](../Page/仁記洋行.md "wikilink")（Gibb,
 Livingston &
-Co.，又稱喼行或劫行），最初於[中環](../Page/中環.md "wikilink")[皇后行辦工](../Page/皇后行.md "wikilink")，由助理做起。\[8\]\[9\]仁記洋行是遠東當時主要的貿易公司之一，除了從事一般商品貿易和船運，也負責代理和代辦多家公司的在華業務。\[10\]在香港和[上海](../Page/上海.md "wikilink")，委託仁記代理或代辦業務的公司包括英商[業廣有限公司](../Page/業廣有限公司.md "wikilink")、[倫敦](../Page/倫敦.md "wikilink")[勞合社](../Page/勞合社.md "wikilink")、[中華火燭保險行](../Page/中華火燭保險行.md "wikilink")、[英國永隆水險公司](../Page/英國永隆水險公司.md "wikilink")、[巴勒保險公司](../Page/巴勒保險公司.md "wikilink")、[德國](../Page/德國.md "wikilink")[安聯保險](../Page/安聯.md "wikilink")、[東方澳洲輪船公司](../Page/東方澳洲輪船公司.md "wikilink")、[會德豐駁船行](../Page/會德豐駁船行.md "wikilink")、[上海煤氣公司和](../Page/上海煤氣公司.md "wikilink")[香港電燈公司等](../Page/香港電燈公司.md "wikilink")，可見業務相當廣泛。\[11\]
+Co.，又稱喼行或劫行），最初於[中環](../Page/中環.md "wikilink")[皇后行辦工](../Page/皇后行.md "wikilink")，由助理做起。\[8\]\[9\]仁記洋行是遠東當時主要的貿易公司之一，除了從事一般商品貿易和船運，也負責代理和代辦多家公司的在華業務。\[10\]在香港和[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，委託仁記代理或代辦業務的公司包括英商[業廣有限公司](https://zh.wikipedia.org/wiki/業廣有限公司 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[勞合社](https://zh.wikipedia.org/wiki/勞合社 "wikilink")、[中華火燭保險行](https://zh.wikipedia.org/wiki/中華火燭保險行 "wikilink")、[英國永隆水險公司](https://zh.wikipedia.org/wiki/英國永隆水險公司 "wikilink")、[巴勒保險公司](https://zh.wikipedia.org/wiki/巴勒保險公司 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[安聯保險](https://zh.wikipedia.org/wiki/安聯 "wikilink")、[東方澳洲輪船公司](https://zh.wikipedia.org/wiki/東方澳洲輪船公司 "wikilink")、[會德豐駁船行](https://zh.wikipedia.org/wiki/會德豐駁船行 "wikilink")、[上海煤氣公司和](https://zh.wikipedia.org/wiki/上海煤氣公司 "wikilink")[香港電燈公司等](https://zh.wikipedia.org/wiki/香港電燈公司 "wikilink")，可見業務相當廣泛。\[11\]
 
 [Gibb,_Livingstone_&_Co_(Shanghai).jpg](https://zh.wikipedia.org/wiki/File:Gibb,_Livingstone_&_Co_\(Shanghai\).jpg "fig:Gibb,_Livingstone_&_Co_(Shanghai).jpg")的[仁記洋行大樓](../Page/仁記洋行.md "wikilink")\]\]
-1908年，麥基獲授權代表司理在公司文件簽字，\[12\]其後於1912年升任為仁記洋行司理，\[13\]\[14\]並長駐於上海視事，數年後更進一步擢升為該行在上海的[董事總經理](../Page/董事總經理.md "wikilink")。\[15\]\[16\]\[17\]任內，仁記洋行於1920年註冊成為公司，\[18\]並於1923年與[鐵行火船公司](../Page/鐵行火船公司.md "wikilink")（Mackinnon,
+1908年，麥基獲授權代表司理在公司文件簽字，\[12\]其後於1912年升任為仁記洋行司理，\[13\]\[14\]並長駐於上海視事，數年後更進一步擢升為該行在上海的[董事總經理](https://zh.wikipedia.org/wiki/董事總經理 "wikilink")。\[15\]\[16\]\[17\]任內，仁記洋行於1920年註冊成為公司，\[18\]並於1923年與[鐵行火船公司](https://zh.wikipedia.org/wiki/鐵行火船公司 "wikilink")（Mackinnon,
 Mackenzie &
-Co.）開展合作關係，麥基也因此獲委任為鐵行在香港和上海的合夥人。\[19\]1927年，麥基由上海返回香港長駐，接替告別香港的[A·O·冷](../Page/A·O·冷.md "wikilink")（A.
+Co.）開展合作關係，麥基也因此獲委任為鐵行在香港和上海的合夥人。\[19\]1927年，麥基由上海返回香港長駐，接替告別香港的[A·O·冷](https://zh.wikipedia.org/wiki/A·O·冷 "wikilink")（A.
 O. Lang，即冷君）出任仁記洋行香港董事總經理。\[20\]\[21\]
 
-麥基在任仁記洋行期間身兼多家公司的董事職務，當中包括上海的[永福人壽保險公司和](../Page/永福人壽保險公司.md "wikilink")[上洋自來水公司](../Page/上洋自來水公司.md "wikilink")、\[22\]以及香港的中華火燭保險行、\[23\][九龍倉](../Page/九龍倉碼頭.md "wikilink")、\[24\][中外眾國保險公司](../Page/中外眾國保險公司.md "wikilink")、\[25\][堪富利士資產有限公司](../Page/堪富利士資產有限公司.md "wikilink")、\[26\][德忌利士輪船公司和](../Page/德忌利士輪船公司.md "wikilink")[天星小輪等](../Page/天星小輪.md "wikilink")，\[27\]另外又曾任[省港澳輪船公司主席](../Page/省港澳輪船公司.md "wikilink")。\[28\]1914年，他獲邀兼任[於仁保險公司上海委員會委員](../Page/於仁保險公司.md "wikilink")，其後於1924年出任於仁保險公司董事，至1935年卸任。\[29\]此外，仁記洋行代理香港電燈公司業務多年，歷來多位仁記[大班也曾任港燈董事或主席](../Page/大班.md "wikilink")。\[30\]麥基本人早於1909年至1912年出任港燈董事，\[31\]從上海調回香港後也曾於1927年至1935年出任港燈主席。\[32\]
+麥基在任仁記洋行期間身兼多家公司的董事職務，當中包括上海的[永福人壽保險公司和](https://zh.wikipedia.org/wiki/永福人壽保險公司 "wikilink")[上洋自來水公司](https://zh.wikipedia.org/wiki/上洋自來水公司 "wikilink")、\[22\]以及香港的中華火燭保險行、\[23\][九龍倉](https://zh.wikipedia.org/wiki/九龍倉碼頭 "wikilink")、\[24\][中外眾國保險公司](https://zh.wikipedia.org/wiki/中外眾國保險公司 "wikilink")、\[25\][堪富利士資產有限公司](https://zh.wikipedia.org/wiki/堪富利士資產有限公司 "wikilink")、\[26\][德忌利士輪船公司和](https://zh.wikipedia.org/wiki/德忌利士輪船公司 "wikilink")[天星小輪等](../Page/天星小輪.md "wikilink")，\[27\]另外又曾任[省港澳輪船公司主席](https://zh.wikipedia.org/wiki/省港澳輪船公司 "wikilink")。\[28\]1914年，他獲邀兼任[於仁保險公司上海委員會委員](https://zh.wikipedia.org/wiki/於仁保險公司 "wikilink")，其後於1924年出任於仁保險公司董事，至1935年卸任。\[29\]此外，仁記洋行代理香港電燈公司業務多年，歷來多位仁記[大班也曾任港燈董事或主席](../Page/大班.md "wikilink")。\[30\]麥基本人早於1909年至1912年出任港燈董事，\[31\]從上海調回香港後也曾於1927年至1935年出任港燈主席。\[32\]
 
-在港燈主席任內，麥基有意把港燈業務由[香港島擴展到](../Page/香港島.md "wikilink")[九龍半島](../Page/九龍半島.md "wikilink")，他於1929年向九龍半島的[中華電力公司主席](../Page/中華電力公司.md "wikilink")[蘇雲](../Page/蘇雲.md "wikilink")（Robert
-Shewan）作價以一股港燈股份換取六股中電的條件收購中電，但遭蘇雲斷然拒絕。\[33\]麥基其後曾向[香港政府提出把港燈電網擴展到九龍](../Page/香港政府.md "wikilink")，與中電作直接競爭，惟建議未獲時任[輔政司](../Page/香港輔政司.md "wikilink")[史美接納](../Page/史美.md "wikilink")，最終使計劃作罷。\[34\]麥基任內也主持港燈[北角發電廠的擴建計劃](../Page/北角發電廠.md "wikilink")，為電廠增建以他命名的[麥基碼頭](../Page/麥基碼頭.md "wikilink")（Mackie's
-Wharf）。\[35\]麥基碼頭於1935年落成，當時是[太古船塢以外香港島唯一可讓](../Page/太古船塢.md "wikilink")[遠洋輪船直接靠岸的港口設施](../Page/輪船.md "wikilink")。\[36\]自此以後，北角電廠可讓遠洋輪船直接把發電所用的[煤炭運送上岸](../Page/煤炭.md "wikilink")，省卻由[帆船轉運所耗用的時間和金錢](../Page/帆船.md "wikilink")。\[37\]
+在港燈主席任內，麥基有意把港燈業務由[香港島擴展到](../Page/香港島.md "wikilink")[九龍半島](https://zh.wikipedia.org/wiki/九龍半島 "wikilink")，他於1929年向九龍半島的[中華電力公司主席](https://zh.wikipedia.org/wiki/中華電力公司 "wikilink")[蘇雲](https://zh.wikipedia.org/wiki/蘇雲 "wikilink")（Robert
+Shewan）作價以一股港燈股份換取六股中電的條件收購中電，但遭蘇雲斷然拒絕。\[33\]麥基其後曾向[香港政府提出把港燈電網擴展到九龍](https://zh.wikipedia.org/wiki/香港政府 "wikilink")，與中電作直接競爭，惟建議未獲時任[輔政司](https://zh.wikipedia.org/wiki/香港輔政司 "wikilink")[史美接納](../Page/史美.md "wikilink")，最終使計劃作罷。\[34\]麥基任內也主持港燈[北角發電廠的擴建計劃](../Page/北角發電廠.md "wikilink")，為電廠增建以他命名的[麥基碼頭](https://zh.wikipedia.org/wiki/麥基碼頭 "wikilink")（Mackie's
+Wharf）。\[35\]麥基碼頭於1935年落成，當時是[太古船塢以外香港島唯一可讓](https://zh.wikipedia.org/wiki/太古船塢 "wikilink")[遠洋輪船直接靠岸的港口設施](../Page/輪船.md "wikilink")。\[36\]自此以後，北角電廠可讓遠洋輪船直接把發電所用的[煤炭運送上岸](https://zh.wikipedia.org/wiki/煤炭 "wikilink")，省卻由[帆船轉運所耗用的時間和金錢](../Page/帆船.md "wikilink")。\[37\]
 
-[HSBC_Foundation_Stone_1934.jpg](https://zh.wikipedia.org/wiki/File:HSBC_Foundation_Stone_1934.jpg "fig:HSBC_Foundation_Stone_1934.jpg")於1934年10月17日由[港督](../Page/港督.md "wikilink")[貝璐爵士](../Page/貝璐.md "wikilink")（台上正中站立者）主持奠基，台上還有匯豐主席麥基（左前排左四）、匯豐總司理[祁禮賓](../Page/祁禮賓.md "wikilink")（左前排左二）、[輔政司](../Page/香港輔政司.md "wikilink")[修頓爵士](../Page/修頓.md "wikilink")（左後排左一）和[駐港英軍司令](../Page/駐港英軍.md "wikilink")[波老中將](../Page/波老.md "wikilink")（右前排白衣者）\]\]
-與[香港上海匯豐銀行關係密切的麥基](../Page/香港上海匯豐銀行.md "wikilink")，也曾於1931年至1932年和1934年至1935年兩度兼任匯豐銀行主席。\[38\]\[39\]當時香港受[1929年華爾街股災和環球](../Page/1929年華爾街股災.md "wikilink")[大蕭條影響](../Page/大蕭條.md "wikilink")，經濟前景並不明朗，但麥基仍支持擴展銀行業務，並見證位於中環的[滙豐總行大廈開展重建工程](../Page/香港滙豐總行大廈.md "wikilink")，於1934年10月17日邀得時任[香港總督](../Page/香港總督.md "wikilink")[貝璐爵士主持新總行大廈的奠基儀式](../Page/貝璐.md "wikilink")。\[40\]新總行大廈由香港[巴馬丹拿公司](../Page/巴馬丹拿公司.md "wikilink")（又稱公和洋行）旗下的建築師[G·L·威爾遜](../Page/G·L·威爾遜.md "wikilink")（G.
+[HSBC_Foundation_Stone_1934.jpg](https://zh.wikipedia.org/wiki/File:HSBC_Foundation_Stone_1934.jpg "fig:HSBC_Foundation_Stone_1934.jpg")於1934年10月17日由[港督](https://zh.wikipedia.org/wiki/港督 "wikilink")[貝璐爵士](../Page/貝璐.md "wikilink")（台上正中站立者）主持奠基，台上還有匯豐主席麥基（左前排左四）、匯豐總司理[祁禮賓](../Page/祁禮賓.md "wikilink")（左前排左二）、[輔政司](https://zh.wikipedia.org/wiki/香港輔政司 "wikilink")[修頓爵士](../Page/修頓.md "wikilink")（左後排左一）和[駐港英軍司令](../Page/駐港英軍.md "wikilink")[波老中將](https://zh.wikipedia.org/wiki/波老 "wikilink")（右前排白衣者）\]\]
+與[香港上海匯豐銀行關係密切的麥基](https://zh.wikipedia.org/wiki/香港上海匯豐銀行 "wikilink")，也曾於1931年至1932年和1934年至1935年兩度兼任匯豐銀行主席。\[38\]\[39\]當時香港受[1929年華爾街股災和環球](../Page/1929年華爾街股災.md "wikilink")[大蕭條影響](https://zh.wikipedia.org/wiki/大蕭條 "wikilink")，經濟前景並不明朗，但麥基仍支持擴展銀行業務，並見證位於中環的[滙豐總行大廈開展重建工程](https://zh.wikipedia.org/wiki/香港滙豐總行大廈 "wikilink")，於1934年10月17日邀得時任[香港總督](../Page/香港總督.md "wikilink")[貝璐爵士主持新總行大廈的奠基儀式](../Page/貝璐.md "wikilink")。\[40\]新總行大廈由香港[巴馬丹拿公司](https://zh.wikipedia.org/wiki/巴馬丹拿公司 "wikilink")（又稱公和洋行）旗下的建築師[G·L·威爾遜](https://zh.wikipedia.org/wiki/G·L·威爾遜 "wikilink")（G.
 L.
-Wilson）負責設計和營建。\[41\]樓高70米、共13層的新總行大廈於1935年10月10日落成啟用，屬當時流行的[裝飾藝術風格](../Page/裝飾藝術運動.md "wikilink")，大樓[立面的](../Page/立面.md "wikilink")[花崗石外牆也是香港當時的嶄新設計](../Page/花崗石.md "wikilink")。\[42\]\[43\]這座新大樓除了是滙豐創立以來的第三代總行大廈，落成之時是遠東規模最大的商業大廈，也是香港首座安裝中央[冷氣系統的建築物](../Page/冷氣.md "wikilink")。\[44\]
+Wilson）負責設計和營建。\[41\]樓高70米、共13層的新總行大廈於1935年10月10日落成啟用，屬當時流行的[裝飾藝術風格](https://zh.wikipedia.org/wiki/裝飾藝術運動 "wikilink")，大樓[立面的](https://zh.wikipedia.org/wiki/立面 "wikilink")[花崗石外牆也是香港當時的嶄新設計](https://zh.wikipedia.org/wiki/花崗石 "wikilink")。\[42\]\[43\]這座新大樓除了是滙豐創立以來的第三代總行大廈，落成之時是遠東規模最大的商業大廈，也是香港首座安裝中央[冷氣系統的建築物](https://zh.wikipedia.org/wiki/冷氣 "wikilink")。\[44\]
 
 #### 參與公職
 
-在商業活動以外，麥基在香港和上海也參與不少與商界和政治有關的公職。\[45\]在滬工作期間，他於1914年至1917年獲委任為[上海工部局董事](../Page/上海工部局.md "wikilink")，\[46\]1920年至1921年出任[上海外商總會主席](../Page/上海外商總會.md "wikilink")，也曾任[上海英商公會會董](../Page/上海英商公會.md "wikilink")。\[47\]\[48\][第一次世界大戰期間](../Page/第一次世界大戰.md "wikilink")，他曾以[少尉身份參與](../Page/少尉.md "wikilink")[華工兵團](../Page/華工兵團.md "wikilink")（Chinese
+在商業活動以外，麥基在香港和上海也參與不少與商界和政治有關的公職。\[45\]在滬工作期間，他於1914年至1917年獲委任為[上海工部局董事](https://zh.wikipedia.org/wiki/上海工部局 "wikilink")，\[46\]1920年至1921年出任[上海外商總會主席](https://zh.wikipedia.org/wiki/上海外商總會 "wikilink")，也曾任[上海英商公會會董](https://zh.wikipedia.org/wiki/上海英商公會 "wikilink")。\[47\]\[48\][第一次世界大戰期間](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，他曾以[少尉身份參與](../Page/少尉.md "wikilink")[華工兵團](https://zh.wikipedia.org/wiki/華工兵團 "wikilink")（Chinese
 Labour
-Corps），其後獲得擢升，負責安排4,000名華工從[中國大陸前赴](../Page/中國大陸.md "wikilink")[加拿大從事後勤工作](../Page/加拿大.md "wikilink")，獲得當局[傳令褒獎](../Page/傳令褒獎.md "wikilink")。\[49\]\[50\]
+Corps），其後獲得擢升，負責安排4,000名華工從[中國大陸前赴](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[加拿大從事後勤工作](../Page/加拿大.md "wikilink")，獲得當局[傳令褒獎](https://zh.wikipedia.org/wiki/傳令褒獎 "wikilink")。\[49\]\[50\]
 
-1927年返回香港後，麥基旋以仁記洋行代表身份，於1928年至1929年當選[香港西商會](../Page/香港西商會.md "wikilink")（即香港總商會）副主席，其後於1931年至1932年以鐵行代表身份當選主席，1933年再度當選，並連任一屆，至1935年卸任。\[51\]此外，麥基早於1909年獲港府奉委非官守[太平紳士](../Page/太平紳士.md "wikilink")，\[52\]雖然他後來因為長駐上海而被註銷有關身份，但他回港後，港府於1928年1月恢復其太平紳士身份。\[53\]1928年6月至10月，麥基首度獲推選以非官守太平紳士代表的身份暫代[普樂爵士出任](../Page/普樂.md "wikilink")[定例局](../Page/香港立法局.md "wikilink")（即立法局）非官守議員；\[54\]1930年6月，他第二度獲太平紳士推選暫代普樂，\[55\]但於1931年5月改獲西商會提名填補[J·奧雲·曉士辭職後遺下的定例局非官守議席](../Page/J·奧雲·曉士.md "wikilink")，直到1935年3月卸任為止。\[56\]\[57\]除了定例局，麥基也曾分別於1930年6月、\[58\]同年9月、\[59\]1931年4月、\[60\]同年7月、\[61\]1933年4月和1934年5月奉委暫任[議政局](../Page/香港行政局.md "wikilink")（即行政局）非官守議員，\[62\]\[63\]任職時間總計約兩年半。\[64\]
+1927年返回香港後，麥基旋以仁記洋行代表身份，於1928年至1929年當選[香港西商會](https://zh.wikipedia.org/wiki/香港西商會 "wikilink")（即香港總商會）副主席，其後於1931年至1932年以鐵行代表身份當選主席，1933年再度當選，並連任一屆，至1935年卸任。\[51\]此外，麥基早於1909年獲港府奉委非官守[太平紳士](../Page/太平紳士.md "wikilink")，\[52\]雖然他後來因為長駐上海而被註銷有關身份，但他回港後，港府於1928年1月恢復其太平紳士身份。\[53\]1928年6月至10月，麥基首度獲推選以非官守太平紳士代表的身份暫代[普樂爵士出任](../Page/普樂.md "wikilink")[定例局](https://zh.wikipedia.org/wiki/香港立法局 "wikilink")（即立法局）非官守議員；\[54\]1930年6月，他第二度獲太平紳士推選暫代普樂，\[55\]但於1931年5月改獲西商會提名填補[J·奧雲·曉士辭職後遺下的定例局非官守議席](https://zh.wikipedia.org/wiki/J·奧雲·曉士 "wikilink")，直到1935年3月卸任為止。\[56\]\[57\]除了定例局，麥基也曾分別於1930年6月、\[58\]同年9月、\[59\]1931年4月、\[60\]同年7月、\[61\]1933年4月和1934年5月奉委暫任[議政局](https://zh.wikipedia.org/wiki/香港行政局 "wikilink")（即行政局）非官守議員，\[62\]\[63\]任職時間總計約兩年半。\[64\]
 
-在西商會主席和兩局議員任內，麥基比較關注[海港](../Page/海港.md "wikilink")、船運、[航空](../Page/航空.md "wikilink")、交通和商貿等議題，\[65\]他曾經在定例局內反對港府計劃向船運業界開徵新稅，\[66\]\[67\]以及支持港府在環球[大蕭條期間增建](../Page/大蕭條.md "wikilink")[基礎設施以創造就業](../Page/基礎設施.md "wikilink")，例如促請港府儘早開展[灣仔街市的重建工程等](../Page/舊灣仔街市.md "wikilink")。\[68\]另一方面，麥基也曾於1930年和1934年分別獲港府委任到一個幣制委員會和經濟委員會供職，參與就香港的經濟和幣制問題作出分析。\[69\]\[70\]有關的經濟委員會後來於1935年2月發表報告書，認為港府不宜放棄[港元的](../Page/港元.md "wikilink")[銀本位制度](../Page/銀本位.md "wikilink")；\[71\]惟後來因為局勢逆轉，中國大陸的[國民政府因銀根短缺問題惡化](../Page/國民政府.md "wikilink")，於1935年11月宣佈放棄銀本位，港府擔心港元進一步受衝擊升值，於是在同年11月召開定例局特別會議，通過《貨幣條例》決議港元跟隨放棄奉行已久的銀本位制度。\[72\]\[73\]
+在西商會主席和兩局議員任內，麥基比較關注[海港](https://zh.wikipedia.org/wiki/海港 "wikilink")、船運、[航空](../Page/航空.md "wikilink")、交通和商貿等議題，\[65\]他曾經在定例局內反對港府計劃向船運業界開徵新稅，\[66\]\[67\]以及支持港府在環球[大蕭條期間增建](https://zh.wikipedia.org/wiki/大蕭條 "wikilink")[基礎設施以創造就業](https://zh.wikipedia.org/wiki/基礎設施 "wikilink")，例如促請港府儘早開展[灣仔街市的重建工程等](../Page/舊灣仔街市.md "wikilink")。\[68\]另一方面，麥基也曾於1930年和1934年分別獲港府委任到一個幣制委員會和經濟委員會供職，參與就香港的經濟和幣制問題作出分析。\[69\]\[70\]有關的經濟委員會後來於1935年2月發表報告書，認為港府不宜放棄[港元的](../Page/港元.md "wikilink")[銀本位制度](https://zh.wikipedia.org/wiki/銀本位 "wikilink")；\[71\]惟後來因為局勢逆轉，中國大陸的[國民政府因銀根短缺問題惡化](../Page/國民政府.md "wikilink")，於1935年11月宣佈放棄銀本位，港府擔心港元進一步受衝擊升值，於是在同年11月召開定例局特別會議，通過《貨幣條例》決議港元跟隨放棄奉行已久的銀本位制度。\[72\]\[73\]
 
-除了兩局的工作，麥基也獲港府委以其他公職，當中包括在1928年出任[香港義勇防衛軍顧問委員會委員](../Page/香港義勇防衛軍.md "wikilink")、\[74\]\[75\]1930年在西商會提名下出任[香港海員俱樂部信託人](../Page/香港海員俱樂部.md "wikilink")、\[76\]以及在1931年分別獲西商會提名出任港口顧問委員會委員和認可建築師諮詢委員會委員等。\[77\]\[78\]\[79\]作為西商會主席，麥基也曾會見1930年至1931年訪華的[英國遠東經濟考察團團長](../Page/英國遠東經濟考察團.md "wikilink")[歐內斯特·湯姆生爵士](../Page/歐內斯特·湯姆生.md "wikilink")（Sir
+除了兩局的工作，麥基也獲港府委以其他公職，當中包括在1928年出任[香港義勇防衛軍顧問委員會委員](https://zh.wikipedia.org/wiki/香港義勇防衛軍 "wikilink")、\[74\]\[75\]1930年在西商會提名下出任[香港海員俱樂部信託人](https://zh.wikipedia.org/wiki/香港海員俱樂部 "wikilink")、\[76\]以及在1931年分別獲西商會提名出任港口顧問委員會委員和認可建築師諮詢委員會委員等。\[77\]\[78\]\[79\]作為西商會主席，麥基也曾會見1930年至1931年訪華的[英國遠東經濟考察團團長](https://zh.wikipedia.org/wiki/英國遠東經濟考察團 "wikilink")[歐內斯特·湯姆生爵士](https://zh.wikipedia.org/wiki/歐內斯特·湯姆生 "wikilink")（Sir
 Ernest
-Thompson）一行；\[80\]1934年，他又獲港府委任到一個委員會負責研究推廣香港的旅遊業，該委員會後來於1935年向港府提交報告，促成港府於同年成立[香港旅遊會](../Page/香港旅遊會.md "wikilink")（Hong
+Thompson）一行；\[80\]1934年，他又獲港府委任到一個委員會負責研究推廣香港的旅遊業，該委員會後來於1935年向港府提交報告，促成港府於同年成立[香港旅遊會](https://zh.wikipedia.org/wiki/香港旅遊會 "wikilink")（Hong
 Kong Travel Association）。\[81\]
 
 ### 晚年生涯
 
-在遠東生活多年的麥基在1935年決定卸下所有工商職務，退休返英，\[82\]而仁記洋行董事總經理和鐵行合夥人的職務則由[M·T·尊臣](../Page/M·T·尊臣.md "wikilink")（M.
+在遠東生活多年的麥基在1935年決定卸下所有工商職務，退休返英，\[82\]而仁記洋行董事總經理和鐵行合夥人的職務則由[M·T·尊臣](https://zh.wikipedia.org/wiki/M·T·尊臣 "wikilink")（M.
 T.
-Johnson）接替。\[83\]離港前夕最後一次出席定例局會議時，他獲時任港督[貝璐爵士致謝](../Page/貝璐.md "wikilink")。\[84\]麥基多年來也結交不少華商友好，例如[周壽臣爵士](../Page/周壽臣.md "wikilink")、[羅旭龢和](../Page/羅旭龢.md "wikilink")[羅文錦等](../Page/羅文錦.md "wikilink")，因此他在正式退休前夕，也獲得華商設宴歡讌。\[85\]同年，他更獲英廷頒授[英皇喬治五世銀禧獎章](../Page/英皇喬治五世銀禧獎章.md "wikilink")，對其在港擔任公職的表現予以肯定。\[86\]
+Johnson）接替。\[83\]離港前夕最後一次出席定例局會議時，他獲時任港督[貝璐爵士致謝](../Page/貝璐.md "wikilink")。\[84\]麥基多年來也結交不少華商友好，例如[周壽臣爵士](../Page/周壽臣.md "wikilink")、[羅旭龢和](../Page/羅旭龢.md "wikilink")[羅文錦等](../Page/羅文錦.md "wikilink")，因此他在正式退休前夕，也獲得華商設宴歡讌。\[85\]同年，他更獲英廷頒授[英皇喬治五世銀禧獎章](https://zh.wikipedia.org/wiki/英皇喬治五世銀禧獎章 "wikilink")，對其在港擔任公職的表現予以肯定。\[86\]
 
-麥基返回英國後定居於家鄉[蘇格蘭](../Page/蘇格蘭.md "wikilink")[安格斯的](../Page/安格斯_\(蘇格蘭\).md "wikilink")[布里金](../Page/布里金.md "wikilink")，1936年曾經重臨香港渡假。\[87\][第二次世界大戰結束後](../Page/第二次世界大戰.md "wikilink")，他於1945年獲亡父曾任職的布里金醫院（Brechin
+麥基返回英國後定居於家鄉[蘇格蘭](../Page/蘇格蘭.md "wikilink")[安格斯的](https://zh.wikipedia.org/wiki/安格斯_\(蘇格蘭\) "wikilink")[布里金](https://zh.wikipedia.org/wiki/布里金 "wikilink")，1936年曾經重臨香港渡假。\[87\][第二次世界大戰結束後](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，他於1945年獲亡父曾任職的布里金醫院（Brechin
 Infirmary）委任為該院董事。\[88\]1966年3月17日，麥基於布里金逝世，終年86歲。\[89\]
 
 ## 個人生活
 
-麥基1908年11月30日於[錫蘭](../Page/錫蘭.md "wikilink")[可倫坡的基督教堂](../Page/可倫坡.md "wikilink")（Christ
+麥基1908年11月30日於[錫蘭](https://zh.wikipedia.org/wiki/錫蘭 "wikilink")[可倫坡的基督教堂](../Page/可倫坡.md "wikilink")（Christ
 Church）迎娶格特魯德·歐文·格思里（Gertrude Irvine
-Guthrie，1877年－1946年）為妻。\[90\]\[91\]格特魯德來自[蘇格蘭](../Page/蘇格蘭.md "wikilink")[鄧迪](../Page/鄧迪.md "wikilink")[布魯提碼頭](../Page/布魯提碼頭.md "wikilink")（Broughty
+Guthrie，1877年－1946年）為妻。\[90\]\[91\]格特魯德來自[蘇格蘭](../Page/蘇格蘭.md "wikilink")[鄧迪](https://zh.wikipedia.org/wiki/鄧迪 "wikilink")[布魯提碼頭](https://zh.wikipedia.org/wiki/布魯提碼頭 "wikilink")（Broughty
 Ferry）的霍普莊園（Hope Park），是詹姆士·格思里（James Guthrie）的幼女。\[92\]麥基夫婦育有子女各一，分別是：
 
   - 桑·格特魯德·哥頓·麥基（Jean Gertrude Gordon
-    Mackie）：1909年10月14日生於香港，\[93\]身為[香港飛行會會員和秘書的她在](../Page/香港飛行總會.md "wikilink")1934年考獲香港的「A類」飛行執照，是香港首位女性和該會首位會員考獲有關執照。\[94\]\[95\]「A類」飛行執照是一種私人飛行執照，持證人可駕駛除了運載郵件、貨物和乘客以外的任何類型[飛機](../Page/飛機.md "wikilink")。\[96\]她後來於[第二次世界大戰期間服役於](../Page/第二次世界大戰.md "wikilink")[皇家婦女海軍](../Page/皇家婦女海軍.md "wikilink")，並在敵軍一次空襲當中因傑出表現，於1941年獲英廷嘉許。\[97\]戰後，她於1945年4月30日嫁給[英國施懷雅父子有限公司董事](../Page/太古集團.md "wikilink")[約翰·馬遜爵士](../Page/約翰·馬遜爵士.md "wikilink")（Sir
+    Mackie）：1909年10月14日生於香港，\[93\]身為[香港飛行會會員和秘書的她在](../Page/香港飛行總會.md "wikilink")1934年考獲香港的「A類」飛行執照，是香港首位女性和該會首位會員考獲有關執照。\[94\]\[95\]「A類」飛行執照是一種私人飛行執照，持證人可駕駛除了運載郵件、貨物和乘客以外的任何類型[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")。\[96\]她後來於[第二次世界大戰期間服役於](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[皇家婦女海軍](https://zh.wikipedia.org/wiki/皇家婦女海軍 "wikilink")，並在敵軍一次空襲當中因傑出表現，於1941年獲英廷嘉許。\[97\]戰後，她於1945年4月30日嫁給[英國施懷雅父子有限公司董事](../Page/太古集團.md "wikilink")[約翰·馬遜爵士](https://zh.wikipedia.org/wiki/約翰·馬遜爵士 "wikilink")（Sir
     John Masson，1898年－1965年），成為馬遜爵士夫人（Lady
-    Masson）。\[98\]\[99\]她於1972年11月25日在英格蘭[白金漢郡逝世](../Page/白金漢郡.md "wikilink")，終年63歲。\[100\]
+    Masson）。\[98\]\[99\]她於1972年11月25日在英格蘭[白金漢郡逝世](https://zh.wikipedia.org/wiki/白金漢郡 "wikilink")，終年63歲。\[100\]
   - 查爾斯·哥頓·麥基（Charles Gordon
-    Mackie）：1916年3月19日生於[上海](../Page/上海.md "wikilink")，\[101\]1945年5月5日迎娶瑪嘉烈·喬治娜·「佩姬」·克貝爾（Margaret
+    Mackie）：1916年3月19日生於[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，\[101\]1945年5月5日迎娶瑪嘉烈·喬治娜·「佩姬」·克貝爾（Margaret
     Georgina (Peggy)
-    Koebel）為妻。\[102\]他曾任[斯圖爾特勞埃公司](../Page/斯圖爾特勞埃公司.md "wikilink")（Stewarts
+    Koebel）為妻。\[102\]他曾任[斯圖爾特勞埃公司](https://zh.wikipedia.org/wiki/斯圖爾特勞埃公司 "wikilink")（Stewarts
     and
-    Lloyds）董事，\[103\]2005年9月2日卒於英格蘭[諾定咸郡](../Page/諾定咸郡.md "wikilink")，終年89歲。\[104\]
+    Lloyds）董事，\[103\]2005年9月2日卒於英格蘭[諾定咸郡](https://zh.wikipedia.org/wiki/諾定咸郡 "wikilink")，終年89歲。\[104\]
 
-在遠東生活期間，麥基是上海[鄉下總會](../Page/鄉下總會.md "wikilink")、[上海總會和](../Page/上海總會大樓.md "wikilink")[香港會等多家](../Page/香港會.md "wikilink")[紳士會所會員](../Page/紳士會所.md "wikilink")；\[105\]每逢假期，他多會返回蘇格蘭的家鄉[布里金或鄰近的](../Page/布里金.md "wikilink")[埃澤爾](../Page/埃澤爾.md "wikilink")（Edzell）休息。\[106\]1920年至1921年以及1928年至1929年期間，他還分別擔任上海聖安德魯學會和香港聖安德魯學會兩個[蘇格蘭人](../Page/蘇格蘭人.md "wikilink")[聯誼會的會長](../Page/聯誼會.md "wikilink")。\[107\]\[108\]另一方面，從早年來港生活開始，麥基一直以[賽馬運動為樂](../Page/賽馬.md "wikilink")。\[109\]他自1911年至1935年擔任[香港賽馬會董事](../Page/香港賽馬會.md "wikilink")，期間更於1929年至1935年出任馬會主席。\[110\]任內他於1930年把屬於業餘性質的馬會註冊成為公司，\[111\]並於同年為馬會的[跑馬地馬場建成全新的永久看台](../Page/跑馬地馬場.md "wikilink")。\[112\]1935年卸任馬會主席的時候，他獲港督[貝璐爵士代表馬會致贈銀質托盤一隻](../Page/貝璐.md "wikilink")，以肯定他在馬會多年來的服務。\[113\]
+在遠東生活期間，麥基是上海[鄉下總會](https://zh.wikipedia.org/wiki/鄉下總會 "wikilink")、[上海總會和](https://zh.wikipedia.org/wiki/上海總會大樓 "wikilink")[香港會等多家](../Page/香港會.md "wikilink")[紳士會所會員](https://zh.wikipedia.org/wiki/紳士會所 "wikilink")；\[105\]每逢假期，他多會返回蘇格蘭的家鄉[布里金或鄰近的](https://zh.wikipedia.org/wiki/布里金 "wikilink")[埃澤爾](https://zh.wikipedia.org/wiki/埃澤爾 "wikilink")（Edzell）休息。\[106\]1920年至1921年以及1928年至1929年期間，他還分別擔任上海聖安德魯學會和香港聖安德魯學會兩個[蘇格蘭人](../Page/蘇格蘭人.md "wikilink")[聯誼會的會長](https://zh.wikipedia.org/wiki/聯誼會 "wikilink")。\[107\]\[108\]另一方面，從早年來港生活開始，麥基一直以[賽馬運動為樂](../Page/賽馬.md "wikilink")。\[109\]他自1911年至1935年擔任[香港賽馬會董事](../Page/香港賽馬會.md "wikilink")，期間更於1929年至1935年出任馬會主席。\[110\]任內他於1930年把屬於業餘性質的馬會註冊成為公司，\[111\]並於同年為馬會的[跑馬地馬場建成全新的永久看台](../Page/跑馬地馬場.md "wikilink")。\[112\]1935年卸任馬會主席的時候，他獲港督[貝璐爵士代表馬會致贈銀質托盤一隻](../Page/貝璐.md "wikilink")，以肯定他在馬會多年來的服務。\[113\]
 
-1932年3月12日，麥基夫婦從香港乘搭[中興輪](../Page/中興輪.md "wikilink")（*Venezia*）前往[澳門](../Page/澳門.md "wikilink")，準備參與翌日由[澳門賽馬會舉辦的春季賽事](../Page/澳門賽馬會.md "wikilink")，該船還載有定例局議員[威廉·山頓](../Page/威廉·山頓.md "wikilink")（William
-Shenton）等逾500名乘客。\[114\]當日下午約3時47分，中興號駛至[大嶼山以西對開海域的時候](../Page/大嶼山.md "wikilink")，在大霧中與另一艘由澳門駛返香港的[瑞泰輪](../Page/瑞泰輪.md "wikilink")（*Sui
-Tai*）相撞。\[115\]\[116\]雖然瑞泰輪只有輕微損毀，但中興輪的船頭損毀嚴重，船身局部下沉，意外更造成船上兩名乘客身亡、兩名船員失蹤，另有數人受傷。\[117\]麥基夫婦與船上其他乘客，事後由正好途經意外現場、同樣由香港開往澳門的[泉州輪](../Page/泉州輪.md "wikilink")（*Chuen
+1932年3月12日，麥基夫婦從香港乘搭[中興輪](https://zh.wikipedia.org/wiki/中興輪 "wikilink")（*Venezia*）前往[澳門](../Page/澳門.md "wikilink")，準備參與翌日由[澳門賽馬會舉辦的春季賽事](../Page/澳門賽馬會.md "wikilink")，該船還載有定例局議員[威廉·山頓](https://zh.wikipedia.org/wiki/威廉·山頓 "wikilink")（William
+Shenton）等逾500名乘客。\[114\]當日下午約3時47分，中興號駛至[大嶼山以西對開海域的時候](../Page/大嶼山.md "wikilink")，在大霧中與另一艘由澳門駛返香港的[瑞泰輪](https://zh.wikipedia.org/wiki/瑞泰輪 "wikilink")（*Sui
+Tai*）相撞。\[115\]\[116\]雖然瑞泰輪只有輕微損毀，但中興輪的船頭損毀嚴重，船身局部下沉，意外更造成船上兩名乘客身亡、兩名船員失蹤，另有數人受傷。\[117\]麥基夫婦與船上其他乘客，事後由正好途經意外現場、同樣由香港開往澳門的[泉州輪](https://zh.wikipedia.org/wiki/泉州輪 "wikilink")（*Chuen
 Chow*）接走，最終於晚上七時抵達澳門，比原訂時間遲大約一小時到達。\[118\]
 
-身兼不同公職的麥基，事實上作風低調，也很少出席公開活動。\[119\]1995年，旅港英國[藝術家和歷史愛好者](../Page/藝術家.md "wikilink")[許敬雅受到馬會委託](../Page/許敬雅.md "wikilink")，除了負責整理馬會歷史，又主持收集歷任馬會主席的肖像照片；\[120\]惟礙於文獻散佚，當時他始終未能找到麥基和另一前主席[嗲士打](../Page/嗲士打.md "wikilink")（Percy
+身兼不同公職的麥基，事實上作風低調，也很少出席公開活動。\[119\]1995年，旅港英國[藝術家和歷史愛好者](https://zh.wikipedia.org/wiki/藝術家 "wikilink")[許敬雅受到馬會委託](../Page/許敬雅.md "wikilink")，除了負責整理馬會歷史，又主持收集歷任馬會主席的肖像照片；\[120\]惟礙於文獻散佚，當時他始終未能找到麥基和另一前主席[嗲士打](https://zh.wikipedia.org/wiki/嗲士打 "wikilink")（Percy
 Tester）的肖像。\[121\]
 
 ## 榮譽
@@ -99,22 +99,23 @@ Tester）的肖像。\[121\]
 
   - 非官守[太平紳士](../Page/太平紳士.md "wikilink")（J.P.）
     （1908年委任；\[122\]1912年註銷；\[123\]1928年恢復；\[124\]1935年再註銷\[125\]）
-  - [英皇喬治五世銀禧獎章](../Page/英皇喬治五世銀禧獎章.md "wikilink") （1935年5月6日\[126\]）
+  - [英皇喬治五世銀禧獎章](https://zh.wikipedia.org/wiki/英皇喬治五世銀禧獎章 "wikilink")
+    （1935年5月6日\[126\]）
 
 ### 以他命名的事物
 
-  - [麥基碼頭](../Page/麥基碼頭.md "wikilink")（Mackie's
+  - [麥基碼頭](https://zh.wikipedia.org/wiki/麥基碼頭 "wikilink")（Mackie's
     Wharf）：位於[北角發電廠](../Page/北角發電廠.md "wikilink")，1935年啟用，已不存在。\[127\]
 
 ## 相關條目
 
   - [仁記洋行](../Page/仁記洋行.md "wikilink")
-  - [香港電燈公司](../Page/香港電燈公司.md "wikilink")
+  - [香港電燈公司](https://zh.wikipedia.org/wiki/香港電燈公司 "wikilink")
   - [香港賽馬會](../Page/香港賽馬會.md "wikilink")
-  - [A·O·冷](../Page/A·O·冷.md "wikilink")
+  - [A·O·冷](https://zh.wikipedia.org/wiki/A·O·冷 "wikilink")
   - [貝璐](../Page/貝璐.md "wikilink")
   - [羅旭龢](../Page/羅旭龢.md "wikilink")
-  - [裘槎](../Page/裘槎.md "wikilink")
+  - [裘槎](https://zh.wikipedia.org/wiki/裘槎 "wikilink")
   - [嘉薛地](../Page/嘉薛地.md "wikilink")
 
 ## 附註

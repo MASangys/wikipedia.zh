@@ -1,5 +1,5 @@
 《**Yaman
-TV**》（），是韓國[Mnet電視台在](../Page/Mnet.md "wikilink")2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](../Page/HAHA.md "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇共同主持](../Page/徐章煇.md "wikilink")。播出時間為韓國時間每周一下午6：00-6：50。
+TV**》（），是韓國[Mnet電視台在](https://zh.wikipedia.org/wiki/Mnet "wikilink")2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](https://zh.wikipedia.org/wiki/HAHA "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇共同主持](https://zh.wikipedia.org/wiki/徐章煇 "wikilink")。播出時間為韓國時間每周一下午6：00-6：50。
 
 ## 節目主旨
 
@@ -33,28 +33,28 @@ TIME）等。彩球內放有分數，最終以確認彩球內分數總和較多�
 <tr class="odd">
 <td><p>試播</p></td>
 <td><p>01月5日</p></td>
-<td><p><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>；<a href="../Page/Laboum.md" title="wikilink">Laboum</a>；손민수（諧星）；쌍두마차（Hiphop組合）；<a href="../Page/少年共和國.md" title="wikilink">少年共和國</a></p></td>
+<td><p><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>；<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a>；손민수（諧星）；쌍두마차（Hiphop組合）；<a href="https://zh.wikipedia.org/wiki/少年共和國" title="wikilink">少年共和國</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>01月26日</p></td>
-<td><p><a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>；<a href="../Page/MAMAMOO.md" title="wikilink">MAMAMOO</a><br />
-本周自由出演：<a href="../Page/Laboum.md" title="wikilink">Laboum</a></p></td>
+<td><p><a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>；<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a><br />
+本周自由出演：<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>02月2日</p></td>
-<td><p><a href="../Page/EXID.md" title="wikilink">EXID</a>；<a href="../Page/Bigflo.md" title="wikilink">Bigflo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>；<a href="../Page/Bigflo.md" title="wikilink">Bigflo</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>02月9日</p></td>
-<td><p><a href="../Page/Nine_Muses.md" title="wikilink">Nine Muses</a> ；<a href="../Page/滑川康男.md" title="wikilink">康男</a>、<a href="../Page/4TEN.md" title="wikilink">4TEN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nine_Muses" title="wikilink">Nine Muses</a> ；<a href="../Page/滑川康男.md" title="wikilink">康男</a>、<a href="https://zh.wikipedia.org/wiki/4TEN" title="wikilink">4TEN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>02月16日</p></td>
-<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>；<a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>&amp;<a href="../Page/Crush.md" title="wikilink">Crush</a><br />
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>；<a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>&amp;<a href="https://zh.wikipedia.org/wiki/Crush" title="wikilink">Crush</a><br />
 本周自由出演：Alice、夏天、Lime（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）</p></td>
 </tr>
 <tr class="even">
@@ -65,8 +65,8 @@ TIME）等。彩球內放有分數，最終以確認彩球內分數總和較多�
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>03月2日</p></td>
-<td><p>Phantom、Rhymer、Verbal jint。本周自由出演：海仁、率濱、律喜（<a href="../Page/Laboum.md" title="wikilink">Laboum</a>）<br />
-<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>&amp;Rubber Soul。本周自由出演：Hani、正花（<a href="../Page/EXID.md" title="wikilink">EXID</a>）</p></td>
+<td><p>Phantom、Rhymer、Verbal jint。本周自由出演：海仁、率濱、律喜（<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a>）<br />
+<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>&amp;Rubber Soul。本周自由出演：Hani、正花（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -76,13 +76,13 @@ TIME）等。彩球內放有分數，最終以確認彩球內分數總和較多�
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>03月16日</p></td>
-<td><p><a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>（<a href="../Page/g.o.d.md" title="wikilink">g.o.d</a>）、KIXS（키스）<br />
-<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</a>。本周自由出演：海仁、率濱、律喜（<a href="../Page/Laboum.md" title="wikilink">Laboum</a>）</p></td>
+<td><p><a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、KIXS（키스）<br />
+<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</a>。本周自由出演：海仁、率濱、律喜（<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>03月23日</p></td>
-<td><p><a href="../Page/Boyfriend_(男子團體).md" title="wikilink">Boyfriend</a>、<a href="../Page/Nine_Muses.md" title="wikilink">Nine Muses</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Boyfriend_(男子團體)" title="wikilink">Boyfriend</a>、<a href="https://zh.wikipedia.org/wiki/Nine_Muses" title="wikilink">Nine Muses</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -104,7 +104,7 @@ Cheetah、LilCham、Tymee（Unpretty Rap Star）</p></td>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>04月20日</p></td>
-<td><p><a href="../Page/Lovelyz.md" title="wikilink">Lovelyz</a>、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -114,7 +114,7 @@ Cheetah、LilCham、Tymee（Unpretty Rap Star）</p></td>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>05月4日</p></td>
-<td><p><a href="../Page/CLC.md" title="wikilink">CLC</a>、<a href="../Page/MADTOWN.md" title="wikilink">MADTOWN</a></p></td>
+<td><p><a href="../Page/CLC.md" title="wikilink">CLC</a>、<a href="https://zh.wikipedia.org/wiki/MADTOWN" title="wikilink">MADTOWN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -130,22 +130,22 @@ Cheetah、LilCham、Tymee（Unpretty Rap Star）</p></td>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>05月25日</p></td>
-<td><p>孝琳、昭宥（<a href="../Page/Sistar.md" title="wikilink">Sistar</a>）、<a href="../Page/Monsta_X.md" title="wikilink">Monsta X</a></p></td>
+<td><p>孝琳、昭宥（<a href="https://zh.wikipedia.org/wiki/Sistar" title="wikilink">Sistar</a>）、<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
 <td><p>06月1日</p></td>
-<td><p>草娥、澯美（<a href="../Page/AOA_(韓國).md" title="wikilink">AOA</a>）、美珠、藝仁（<a href="../Page/Lovelyz.md" title="wikilink">Lovelyz</a>）、齡智（<a href="../Page/Kara.md" title="wikilink">Kara</a>）、Lime、夏天（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）、HaNa、枝恩（<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a>）、Raina（<a href="../Page/After_school.md" title="wikilink">After school</a>）</p></td>
+<td><p>草娥、澯美（<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>）、美珠、藝仁（<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>）、齡智（<a href="../Page/Kara.md" title="wikilink">Kara</a>）、Lime、夏天（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）、HaNa、枝恩（<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a>）、Raina（<a href="https://zh.wikipedia.org/wiki/After_school" title="wikilink">After school</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>06月8日</p></td>
-<td><p>草娥、澯美（<a href="../Page/AOA_(韓國).md" title="wikilink">AOA</a>）、美珠、藝仁（<a href="../Page/Lovelyz.md" title="wikilink">Lovelyz</a>）、齡智（<a href="../Page/Kara.md" title="wikilink">Kara</a>）、Lime、夏天（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）、HaNa、枝恩（<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a>）、Raina（<a href="../Page/After_school.md" title="wikilink">After school</a>）</p></td>
+<td><p>草娥、澯美（<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>）、美珠、藝仁（<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>）、齡智（<a href="../Page/Kara.md" title="wikilink">Kara</a>）、Lime、夏天（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）、HaNa、枝恩（<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a>）、Raina（<a href="https://zh.wikipedia.org/wiki/After_school" title="wikilink">After school</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td><p>06月15日</p></td>
-<td><p><a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>、<a href="../Page/Blady.md" title="wikilink">Blady</a></p></td>
+<td><p><a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>、<a href="https://zh.wikipedia.org/wiki/Blady" title="wikilink">Blady</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>

@@ -2,9 +2,9 @@
 
 ## 历史
 
-在1974年以前，澳大利亚只有储值卡、[大莱卡和](../Page/大莱卡.md "wikilink")[美国运通卡](../Page/美国运通卡.md "wikilink")，这些卡要么局限性强，要么只针对富人。\[1\]\[2\]在其推出后的第一个十年，Bankcard在澳大利亚信用卡市场中占据主导地位，1984年达到巅峰，拥有超过500万持卡人。\[3\]
+在1974年以前，澳大利亚只有储值卡、[大莱卡和](https://zh.wikipedia.org/wiki/大莱卡 "wikilink")[美国运通卡](https://zh.wikipedia.org/wiki/美国运通卡 "wikilink")，这些卡要么局限性强，要么只针对富人。\[1\]\[2\]在其推出后的第一个十年，Bankcard在澳大利亚信用卡市场中占据主导地位，1984年达到巅峰，拥有超过500万持卡人。\[3\]
 
-由于[Visa与](../Page/Visa.md "wikilink")[万事达卡等国际信用卡的广泛受理与发展](../Page/万事达卡.md "wikilink")，Bankcard持卡人人数持续萎缩，交易量持续减少，市场份额持续下降，2006年Bankcard退出市场。\[4\]
+由于[Visa与](https://zh.wikipedia.org/wiki/Visa "wikilink")[万事达卡等国际信用卡的广泛受理与发展](../Page/万事达卡.md "wikilink")，Bankcard持卡人人数持续萎缩，交易量持续减少，市场份额持续下降，2006年Bankcard退出市场。\[4\]
 
 ## 参考文献
 

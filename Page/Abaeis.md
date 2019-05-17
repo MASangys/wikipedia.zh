@@ -1,9 +1,11 @@
-***Abaeis***是[粉蝶科](../Page/粉蝶科.md "wikilink")[黃粉蝶亞科裡的一個屬](../Page/黃粉蝶亞科.md "wikilink")，尚無正式中文學名命名。共有2個物種，分佈於美國南部及[伊斯帕尼奧拉島](../Page/伊斯帕尼奧拉島.md "wikilink")，是體型稍大的橙色黃粉蝶\[1\]。
+***Abaeis***是[粉蝶科](../Page/粉蝶科.md "wikilink")[黃粉蝶亞科裡的一個屬](../Page/黃粉蝶亞科.md "wikilink")，尚無正式中文學名命名。共有2個物種，分佈於美國南部及[伊斯帕尼奧拉島](https://zh.wikipedia.org/wiki/伊斯帕尼奧拉島 "wikilink")，是體型稍大的橙色黃粉蝶\[1\]。
 
 ## 物種
 
-  - [橙翅小黃粉蝶](../Page/橙翅小黃粉蝶.md "wikilink") *Abaeis nicippe*
-  - [擬橙翅小黃粉蝶](../Page/擬橙翅小黃粉蝶.md "wikilink") *Abaeis nicippiformis*
+  - [橙翅小黃粉蝶](https://zh.wikipedia.org/wiki/橙翅小黃粉蝶 "wikilink") *Abaeis
+    nicippe*
+  - [擬橙翅小黃粉蝶](https://zh.wikipedia.org/wiki/擬橙翅小黃粉蝶 "wikilink") *Abaeis
+    nicippiformis*
 
 ## 腳註
 

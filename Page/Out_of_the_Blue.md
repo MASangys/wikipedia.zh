@@ -5,11 +5,11 @@ Blue**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wi
 
 ## 音樂錄像
 
-| 歌名    | 首播日期       | 首播平台                                     | 連結                                                         |
-| ----- | ---------- | ---------------------------------------- | ---------------------------------------------------------- |
-| Ah Oh | 2016年5月26日 | [Youtube](../Page/Youtube.md "wikilink") | [Youtube官方連結](https://www.youtube.com/watch?v=v2rKthp7bZo) |
-| 少女時代  | 2016年5月26日 | [Youtube](../Page/Youtube.md "wikilink") | [Youtube官方連結](https://www.youtube.com/watch?v=W0NfZEgzdTQ) |
-| 二見不合  | 2016年5月26日 | [Youtube](../Page/Youtube.md "wikilink") | [Youtube官方連結](https://www.youtube.com/watch?v=g8oYUpgfHEI) |
+| 歌名    | 首播日期       | 首播平台                                                        | 連結                                                         |
+| ----- | ---------- | ----------------------------------------------------------- | ---------------------------------------------------------- |
+| Ah Oh | 2016年5月26日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube官方連結](https://www.youtube.com/watch?v=v2rKthp7bZo) |
+| 少女時代  | 2016年5月26日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube官方連結](https://www.youtube.com/watch?v=W0NfZEgzdTQ) |
+| 二見不合  | 2016年5月26日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube官方連結](https://www.youtube.com/watch?v=g8oYUpgfHEI) |
 
 ## 派台歌曲成績
 

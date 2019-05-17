@@ -1,4 +1,4 @@
-**勒克勒佐TGV站**（），全名为勒克勒佐-蒙沙南-蒙梭矿站（），是法国的一个高速铁路车站，位于法国[索恩-卢瓦尔省](../Page/索恩-卢瓦尔省.md "wikilink")市镇范围内，因靠近[勒克勒佐而得名](../Page/勒克勒佐.md "wikilink")。
+**勒克勒佐TGV站**（），全名为勒克勒佐-蒙沙南-蒙梭矿站（），是法国的一个高速铁路车站，位于法国[索恩-卢瓦尔省](https://zh.wikipedia.org/wiki/索恩-卢瓦尔省 "wikilink")市镇范围内，因靠近[勒克勒佐而得名](../Page/勒克勒佐.md "wikilink")。
 
 ## 位置
 
@@ -12,11 +12,11 @@ Montchanin），相距大约1.5公里，步行大约20分钟即可到达，也�
 
 ## 车站历史
 
-勒克勒佐TGV站是法国最早的高速铁路车站之一，与[法国高速铁路东南线及相邻的](../Page/法国高速铁路东南线.md "wikilink")[马孔-洛谢TGV站一道于](../Page/马孔-洛谢TGV站.md "wikilink")1981年投入使用。其服务对象主要为
+勒克勒佐TGV站是法国最早的高速铁路车站之一，与[法国高速铁路东南线及相邻的](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")[马孔-洛谢TGV站一道于](../Page/马孔-洛谢TGV站.md "wikilink")1981年投入使用。其服务对象主要为
 
 2000年以前，SNCF同时经营由勒克勒佐TGV站前往附近城市的大巴车线路，但因客流量稀少，大部分线路都被取消了，仅保留了勒克勒佐TGV站—[罗阿讷线路并运营至今](../Page/罗阿讷.md "wikilink")。
 
-2010年，[索恩-卢瓦尔省政府下属的](../Page/索恩-卢瓦尔省.md "wikilink")公司决定重新开辟前往[欧坦](../Page/欧坦.md "wikilink")、[索恩河畔沙隆等地的大巴车](../Page/索恩河畔沙隆.md "wikilink")。受此影响，勒克勒佐TGV站第二年（2011年）的客流量比上一年增长超过了20%。
+2010年，[索恩-卢瓦尔省政府下属的](https://zh.wikipedia.org/wiki/索恩-卢瓦尔省 "wikilink")公司决定重新开辟前往[欧坦](https://zh.wikipedia.org/wiki/欧坦 "wikilink")、[索恩河畔沙隆等地的大巴车](../Page/索恩河畔沙隆.md "wikilink")。受此影响，勒克勒佐TGV站第二年（2011年）的客流量比上一年增长超过了20%。
 
 ## 停靠线路
 
@@ -31,10 +31,10 @@ Montchanin），相距大约1.5公里，步行大约20分钟即可到达，也�
 <td style="text-align: center;"><p>线路</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/巴黎里昂站.md" title="wikilink">巴黎</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="../Page/里尔欧洲站.md" title="wikilink">里尔</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"></td>
@@ -106,8 +106,8 @@ Car TER</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><div style="display:inline-block; text-align:right; vertical-align:middle;">
-<p><a href="../Page/马恩拉瓦莱-谢西站.md" title="wikilink">马恩拉瓦莱-谢西站</a><span style="font-size:small"> ←289.1km（<a href="../Page/法国高速铁路互联东线.md" title="wikilink">互联东线</a>）</span>↖<br />
-<a href="../Page/巴黎-里昂火车站.md" title="wikilink">巴黎-里昂火车站</a><span style="font-size:small"> ←299.6km（正线）</span>↙</p>
+<p><a href="https://zh.wikipedia.org/wiki/马恩拉瓦莱-谢西站" title="wikilink">马恩拉瓦莱-谢西站</a><span style="font-size:small"> ←289.1km（<a href="https://zh.wikipedia.org/wiki/法国高速铁路互联东线" title="wikilink">互联东线</a>）</span>↖<br />
+<a href="https://zh.wikipedia.org/wiki/巴黎-里昂火车站" title="wikilink">巴黎-里昂火车站</a><span style="font-size:small"> ←299.6km（正线）</span>↙</p>
 </div></td>
 </tr>
 <tr class="odd">
@@ -120,7 +120,7 @@ Car TER</p></td>
 
 ## 参见
 
-  - [法国铁路车站列表](../Page/法国铁路车站列表.md "wikilink")
+  - [法国铁路车站列表](https://zh.wikipedia.org/wiki/法国铁路车站列表 "wikilink")
 
 ## 参考文献
 

@@ -1,25 +1,25 @@
 **BitTorrent,
 Inc.**，总部位于[美国](../Page/美国.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")，是一家私人持有的[美国公司](../Page/美国.md "wikilink")。公司由[Bram
 Cohen和Ashwin](../Page/布莱姆·科亨.md "wikilink")
-Navin成立于2004年9月22日。公司持续开发[BitTorrent点对点协议](../Page/BitTorrent_\(协议\).md "wikilink")，以及使用该协议的[µTorrent和BitTorrent等软件](../Page/µTorrent.md "wikilink")。
+Navin成立于2004年9月22日。公司持续开发[BitTorrent点对点协议](../Page/BitTorrent_\(协议\).md "wikilink")，以及使用该协议的[µTorrent和BitTorrent等软件](https://zh.wikipedia.org/wiki/µTorrent "wikilink")。
 
 截至今日，使用[BitTorrent协议传输文件已在互联网整体流量中占据显著部分](../Page/BitTorrent_\(协议\).md "wikilink")。\[1\]
 
 ## 产品
 
 **BitTorrent**是一款[布莱姆·科亨与BitTorrent开发的](../Page/布莱姆·科亨.md "wikilink")[点对点](../Page/對等網路.md "wikilink")
-计算机程序。它被用来通过[BitTorrent协议上传和下载文件](../Page/BitTorrent_\(协议\).md "wikilink")。BitTorrent的首个[客户端就是为该协议编写](../Page/客户端.md "wikilink")。开发者常将其称为**Mainline**，表示这是官方的主线版本。从6.0版本开始，BitTorrent客户端已经是[µTorrent的一个更名版本](../Page/µTorrent.md "wikilink")。因此而言，它不再是[开源软件并且可用于](../Page/开源软件.md "wikilink")[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[Mac OS
-X](../Page/OS_X.md "wikilink")。
+计算机程序。它被用来通过[BitTorrent协议上传和下载文件](../Page/BitTorrent_\(协议\).md "wikilink")。BitTorrent的首个[客户端就是为该协议编写](https://zh.wikipedia.org/wiki/客户端 "wikilink")。开发者常将其称为**Mainline**，表示这是官方的主线版本。从6.0版本开始，BitTorrent客户端已经是[µTorrent的一个更名版本](https://zh.wikipedia.org/wiki/µTorrent "wikilink")。因此而言，它不再是[开源软件并且可用于](../Page/开源软件.md "wikilink")[Microsoft
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
+OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")。
 
 ### µTorrent
 
 **µTorrent**（或称**uTorrent**；常被缩写为"**µT**"或"**uT**"）是一款[免费](../Page/免費軟體.md "wikilink")、
-[闭源的](../Page/专有软件.md "wikilink")[BitTorrent客户端](../Page/BitTorrent客户端.md "wikilink")，由BitTorrent公司所有。它是在除中国以外使用最广泛的BitTorrent客户端。
+[闭源的](../Page/专有软件.md "wikilink")[BitTorrent客户端](https://zh.wikipedia.org/wiki/BitTorrent客户端 "wikilink")，由BitTorrent公司所有。它是在除中国以外使用最广泛的BitTorrent客户端。
 
 它可在[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[Android和](../Page/Android.md "wikilink")[Mac
-OS X上使用](../Page/OS_X.md "wikilink")。**µTorrent
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Android和](../Page/Android.md "wikilink")[Mac
+OS X上使用](https://zh.wikipedia.org/wiki/OS_X "wikilink")。**µTorrent
 Server**可在[Linux上使用](../Page/Linux.md "wikilink")。所有版本使用[C++撰写](../Page/C++.md "wikilink")。\[2\]
 
 2006年12月7日，µTorrent被BitTorrent公司收购，在其官方论坛上宣布此事。\[3\]
@@ -49,7 +49,7 @@ Sync API的测试版本。\[11\]
 
 该公司已发布艺人如[Linkin
 Park](../Page/聯合公園.md "wikilink")、[Pixies](../Page/小妖精乐队.md "wikilink")、[Public
-Enemy和](../Page/全民公敵組合.md "wikilink")[Madonna的套装包](../Page/麥當娜.md "wikilink")（Bundles）。题为*secretprojectrevolution*的[麦当娜套装包已于](../Page/麦当娜.md "wikilink")2013年9月24日发布，其中包括17分钟的同名影片、影片剧照，并为捐赠用户提供一个提交其电子邮件的选项；它还包括影片的HD和2K版本、一段VICE采访，以及一条麦当娜的留言。\[12\]
+Enemy和](../Page/全民公敵組合.md "wikilink")[Madonna的套装包](../Page/麥當娜.md "wikilink")（Bundles）。题为*secretprojectrevolution*的[麦当娜套装包已于](https://zh.wikipedia.org/wiki/麦当娜 "wikilink")2013年9月24日发布，其中包括17分钟的同名影片、影片剧照，并为捐赠用户提供一个提交其电子邮件的选项；它还包括影片的HD和2K版本、一段VICE采访，以及一条麦当娜的留言。\[12\]
 
 2013年9月17日，该公司推出了“面向发布者的BitTorrent套装包”，一个允许内容发布者使用BitTorrent客户端创建任何大小和文件类型的套装包和分发的测试计划。\[13\]
 
@@ -61,12 +61,13 @@ Boxes*为首个付费套装包，价格6美元。\[14\]2014年10月3日，该项
 #### BitTorrent DNA
 
 BitTorrent公司还提供[BitTorrent
-DNA](../Page/BitTorrent_DNA.md "wikilink")（Delivery Network
-Accelerator）\[16\]，一款基于BitTorrent协议的免费的[内容交付服务](../Page/内容交付服务.md "wikilink")，它允许内容提供者借助用户的带宽分发内容。
+DNA](https://zh.wikipedia.org/wiki/BitTorrent_DNA "wikilink")（Delivery
+Network
+Accelerator）\[16\]，一款基于BitTorrent协议的免费的[内容交付服务](https://zh.wikipedia.org/wiki/内容交付服务 "wikilink")，它允许内容提供者借助用户的带宽分发内容。
 
 #### SoShare (beta)
 
-2012年1月5日，SoShare作为预览版发布为μTorrent客户端中的“分享”、一个独立的桌面客户端，以及一个基于Web客户端的插件。\[17\]2013年2月15日，SoShare测试版推出，重新定位为一个用户友好的Web应用程序，使用BitTorrent协议，专为创意行业的专业人士使用该应用的电子邮件系统或公开链接分享高画质照片、文件和视频而设计。\[18\]从官网的服务信息来看，注册用户每次发送可以发送包含最多1[TB文件的文件包](../Page/TB.md "wikilink")，并且完全免费。\[19\]
+2012年1月5日，SoShare作为预览版发布为μTorrent客户端中的“分享”、一个独立的桌面客户端，以及一个基于Web客户端的插件。\[17\]2013年2月15日，SoShare测试版推出，重新定位为一个用户友好的Web应用程序，使用BitTorrent协议，专为创意行业的专业人士使用该应用的电子邮件系统或公开链接分享高画质照片、文件和视频而设计。\[18\]从官网的服务信息来看，注册用户每次发送可以发送包含最多1[TB文件的文件包](https://zh.wikipedia.org/wiki/TB "wikilink")，并且完全免费。\[19\]
 
 #### BitTorrent Live (beta)
 
@@ -83,7 +84,7 @@ Bleep\[24\]是一款多平台、点对点、无服务器的聊天客户端，可
 #### Project Maelstrom (beta)
 
 2014年12月10日，BitTorrent宣布Project
-Maelstrom\[26\]，这是一个基于[Chromium浏览器项目的软件](../Page/Chromium.md "wikilink")，能够利用BitTorrent和[DHT协议制作](../Page/DHT.md "wikilink")[分布式的抗](../Page/分布式计算.md "wikilink")[审查](../Page/审查制度.md "wikilink")[网络发布平台](../Page/網站.md "wikilink")。\[27\]项目初期运行为一个封闭的内部测试，但目前已有测试版，可以在Windows上使用。\[28\]
+Maelstrom\[26\]，这是一个基于[Chromium浏览器项目的软件](../Page/Chromium.md "wikilink")，能够利用BitTorrent和[DHT协议制作](https://zh.wikipedia.org/wiki/DHT "wikilink")[分布式的抗](../Page/分布式计算.md "wikilink")[审查](../Page/审查制度.md "wikilink")[网络发布平台](../Page/網站.md "wikilink")。\[27\]项目初期运行为一个封闭的内部测试，但目前已有测试版，可以在Windows上使用。\[28\]
 
 ## 授权
 
@@ -112,20 +113,21 @@ BitTorrent公司也研究及开发和开放标准促进了BitTorrent协议的开
 
 根据其公司网站介绍，BitTorrent公司已宣布与多家公司进行合作，包括风险投资之Accel Partners和DCM，技术伙伴ESA
 Flash
-Components、NTL:Telewest、[Opera软件](../Page/Opera软件.md "wikilink")，以及设备伙伴Buffalo
+Components、NTL:Telewest、[Opera软件](https://zh.wikipedia.org/wiki/Opera软件 "wikilink")，以及设备伙伴Buffalo
 Technology、[D-Link](../Page/友訊科技.md "wikilink")、[I-O
-Data](../Page/I-O_數據設備.md "wikilink")、[Marvell
-Semiconductors](../Page/美满电子科技公司.md "wikilink")、[Netgear](../Page/网件.md "wikilink")、Planex
+Data](https://zh.wikipedia.org/wiki/I-O_數據設備 "wikilink")、[Marvell
+Semiconductors](https://zh.wikipedia.org/wiki/美满电子科技公司 "wikilink")、[Netgear](../Page/网件.md "wikilink")、Planex
 Communications公司及QNAP系统公司。\[36\]\[37\]
 
 ## 参见
 
-  - [点对点网络托管](../Page/点对点网络托管.md "wikilink")
-  - [BitTorrent](../Page/BitTorrent_\(协议\).md "wikilink")，一个[点对点文件分享协议](../Page/對等網路檔案分享.md "wikilink")
-  - [μTorrent](../Page/μTorrent.md "wikilink")，BitTorrent公司开发的一个免费、闭源的BitTorrent客户端
+  - [点对点网络托管](https://zh.wikipedia.org/wiki/点对点网络托管 "wikilink")
+  - [BitTorrent](../Page/BitTorrent_\(协议\).md "wikilink")，一个[点对点文件分享协议](https://zh.wikipedia.org/wiki/對等網路檔案分享 "wikilink")
+  - [μTorrent](https://zh.wikipedia.org/wiki/μTorrent "wikilink")，BitTorrent公司开发的一个免费、闭源的BitTorrent客户端
   - [BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")，BitTorrent公司开发的一个免费、闭源的BitTorrent客户端
-  - [BitTorrent DNA](../Page/BitTorrent_DNA.md "wikilink")，一个“交付网络加速器”
-  - [BitTorrent客户端的比较](../Page/BitTorrent客户端.md "wikilink")
+  - [BitTorrent
+    DNA](https://zh.wikipedia.org/wiki/BitTorrent_DNA "wikilink")，一个“交付网络加速器”
+  - [BitTorrent客户端的比较](https://zh.wikipedia.org/wiki/BitTorrent客户端 "wikilink")
 
 ## 参考资料
 

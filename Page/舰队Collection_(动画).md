@@ -1,4 +1,4 @@
-《**舰队Collection**》（），是由[日本Diomedéa基于角川游戏的同名游戏所制作](../Page/日本.md "wikilink")2015年[电视动画](../Page/电视动画.md "wikilink")，2013年9月公布，\[1\]共12集，该动画先在东京MX和KBS于2015年1月8日和2015年3月26日播放，后在其他电视台播放\[2\]\[3\]\[4\]后公布将有一部续集\[5\]，除此之外在2016年动画电影上映\[6\]。
+《**舰队Collection**》（），是由[日本Diomedéa基于角川游戏的同名游戏所制作](../Page/日本.md "wikilink")2015年[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，2013年9月公布，\[1\]共12集，该动画先在东京MX和KBS于2015年1月8日和2015年3月26日播放，后在其他电视台播放\[2\]\[3\]\[4\]后公布将有一部续集\[5\]，除此之外在2016年动画电影上映\[6\]。
 2019年一月於武道館公開第二季PV
 
 ## 故事简介
@@ -21,7 +21,7 @@
 <tr class="odd">
 <td><p><a href="../Page/吹雪型驅逐艦.md" title="wikilink">吹雪</a></p></td>
 <td><p><a href="../Page/上坂堇.md" title="wikilink">上坂堇</a></p></td>
-<td><p><a href="../Page/驅逐艦.md" title="wikilink">驅逐艦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/驅逐艦" title="wikilink">驅逐艦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>鎮守府的新驱逐舰，分配到第三水雷戰隊，该动画的主角，温顺且胆小。因为在之前的鎮守府没有作战经验，所以体能方面不佳。劇情最初便對赤城充滿敬愛，並有着成為赤城的護衛艦的夢想。在南西地區作戰中被臨時編入金剛型戰艦的高速艦隊，之后被转移到第五遊擊舰队。赢得同辈的尊敬，她成为队伍的旗舰，令赤城深深叹服。最後她梦想成真成为赤城的护卫舰。最终进行第二次改造。</p></td>
@@ -49,7 +49,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/如月號驅逐艦.md" title="wikilink">如月</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/如月號驅逐艦" title="wikilink">如月</a></p></td>
 <td><p>日高里菜</p></td>
 <td><p>驅逐艦</p></td>
 </tr>
@@ -59,7 +59,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/睦月型驅逐艦#同型艦.md" title="wikilink">彌生</a>、<a href="../Page/睦月型驅逐艦#同型艦.md" title="wikilink">望月</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/睦月型驅逐艦#同型艦" title="wikilink">彌生</a>、<a href="https://zh.wikipedia.org/wiki/睦月型驅逐艦#同型艦" title="wikilink">望月</a></p></td>
 <td><p>日高里菜</p></td>
 <td><p>驅逐艦</p></td>
 </tr>
@@ -79,7 +79,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曉號驅逐艦_(吹雪型).md" title="wikilink">曉</a>、<a href="../Page/響號驅逐艦.md" title="wikilink">響</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曉號驅逐艦_(吹雪型)" title="wikilink">曉</a>、<a href="https://zh.wikipedia.org/wiki/響號驅逐艦" title="wikilink">響</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
 <td><p><a href="../Page/洲崎綾.md" title="wikilink">洲崎綾</a></p></td>
 <td><p>驅逐艦</p></td>
 </tr>
@@ -91,7 +91,7 @@
 <tr class="odd">
 <td><p><a href="../Page/赤城号航空母舰.md" title="wikilink">赤城</a></p></td>
 <td><p><a href="../Page/藤田咲.md" title="wikilink">藤田咲</a></p></td>
-<td><p><a href="../Page/航空母艦.md" title="wikilink">航空母艦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/航空母艦" title="wikilink">航空母艦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>隸屬一航戰，也是吹雪崇拜的對象；和遊戲一樣食量很大也非常貪吃[10]。在中途島之前因為吹雪的努力而正式收她為護衛艦，後來險被擊沉，所幸吹雪及時搶救，順利完成任務返回鎮守府。</p></td>
@@ -99,7 +99,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/加賀.md" title="wikilink">加賀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加賀" title="wikilink">加賀</a></p></td>
 <td><p><a href="../Page/井口裕香.md" title="wikilink">井口裕香</a></p></td>
 <td><p>航空母艦</p></td>
 </tr>
@@ -129,8 +129,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/长门级战列舰.md" title="wikilink">長門</a>、<a href="../Page/陸奥號戰艦.md" title="wikilink">陸奥</a></p></td>
-<td><p><a href="../Page/佐倉綾音.md" title="wikilink">佐倉綾音</a></p></td>
+<td><p><a href="../Page/长门级战列舰.md" title="wikilink">長門</a>、<a href="https://zh.wikipedia.org/wiki/陸奥號戰艦" title="wikilink">陸奥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐倉綾音" title="wikilink">佐倉綾音</a></p></td>
 <td><p><a href="../Page/戰艦.md" title="wikilink">戰艦</a></p></td>
 </tr>
 <tr class="even">
@@ -139,7 +139,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>、<a href="../Page/大井號輕巡洋艦.md" title="wikilink">大井</a></p></td>
+<td><p><a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>、<a href="https://zh.wikipedia.org/wiki/大井號輕巡洋艦" title="wikilink">大井</a></p></td>
 <td><p><a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a></p></td>
 <td><p>重雷裝巡洋艦</p></td>
 </tr>
@@ -213,7 +213,7 @@
 
 ## 动画
 
-该动画是由草川启造执导，花田十辉编剧，\[11\]配音阵容与游戏相同。\[12\]\[13\]2014年12月27日，该节目在新宿皮卡迪利进行首映，\[14\]该作品于2015年1月8日至2015年3月26日在日本播出。\[15\]\[16\]该系列产品是由狂人娱乐在澳大利亚进行代理。\[17\]蓝光和DVD的版本的第一卷在2015年3月27日发售。该动画的主题曲是《[海色](../Page/海色.md "wikilink")》，片尾曲是《[吹雪](../Page/吹雪.md "wikilink")》。\[18\]续作在第12集尾宣布，但是日期还未确定。
+该动画是由草川启造执导，花田十辉编剧，\[11\]配音阵容与游戏相同。\[12\]\[13\]2014年12月27日，该节目在新宿皮卡迪利进行首映，\[14\]该作品于2015年1月8日至2015年3月26日在日本播出。\[15\]\[16\]该系列产品是由狂人娱乐在澳大利亚进行代理。\[17\]蓝光和DVD的版本的第一卷在2015年3月27日发售。该动画的主题曲是《[海色](https://zh.wikipedia.org/wiki/海色 "wikilink")》，片尾曲是《[吹雪](../Page/吹雪.md "wikilink")》。\[18\]续作在第12集尾宣布，但是日期还未确定。
 
 ### 製作人員
 
@@ -239,11 +239,11 @@
 </tr>
 <tr class="even">
 <td><p>導演</p></td>
-<td><p><a href="../Page/草川启造.md" title="wikilink">草川启造</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草川启造" title="wikilink">草川启造</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>劇本構成</p></td>
-<td><p><a href="../Page/花田十輝.md" title="wikilink">花田十輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
 </tr>
 <tr class="even">
 <td><p>角色設計・總作畫監督</p></td>
@@ -251,7 +251,7 @@
 </tr>
 <tr class="odd">
 <td><p>角色設計協助</p></td>
-<td><p><a href="../Page/しずまよしのり.md" title="wikilink">しずまよしのり</a>、しばふ、コニシ</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/しずまよしのり" title="wikilink">しずまよしのり</a>、しばふ、コニシ</p></td>
 </tr>
 <tr class="even">
 <td><p>機械設計</p></td>
@@ -283,7 +283,7 @@
 </tr>
 <tr class="odd">
 <td><p>CG制作</p></td>
-<td><p><a href="../Page/Orange.md" title="wikilink">Orange</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Orange" title="wikilink">Orange</a></p></td>
 </tr>
 <tr class="even">
 <td><p>撮影監督</p></td>
@@ -307,7 +307,7 @@
 </tr>
 <tr class="odd">
 <td><p>音樂制作</p></td>
-<td><p><a href="../Page/flying_DOG.md" title="wikilink">flying DOG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/flying_DOG" title="wikilink">flying DOG</a></p></td>
 </tr>
 <tr class="even">
 <td><p>動畫制作</p></td>
@@ -322,10 +322,10 @@
 
 ### 音樂
 
-  - 片頭曲「[海色](../Page/海色.md "wikilink")」（第2話－第12話）
-    填詞：minatoku（[田中謙介](../Page/田中謙介.md "wikilink")），作曲、編曲：WEST
+  - 片頭曲「[海色](https://zh.wikipedia.org/wiki/海色 "wikilink")」（第2話－第12話）
+    填詞：minatoku（[田中謙介](https://zh.wikipedia.org/wiki/田中謙介 "wikilink")），作曲、編曲：WEST
     GROUND，主唱：[AKINO from
-    bless4](../Page/AKINO_from_bless4.md "wikilink")
+    bless4](https://zh.wikipedia.org/wiki/AKINO_from_bless4 "wikilink")
 
     第1話當作片尾曲使用。
 
@@ -368,7 +368,7 @@ GROUND、齋藤悠彌，主唱：[西澤幸奏](../Page/西澤幸奏.md "wikilin
 <td><p>#01</p></td>
 <td></td>
 <td><p>初次見面！司令官！</p></td>
-<td><p><a href="../Page/花田十輝.md" title="wikilink">花田十輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
 <td><p><a href="../Page/草川啟造.md" title="wikilink">草川啟造</a><br />
 宮澤努</p></td>
 <td><p>本多美乃</p></td>
@@ -496,7 +496,7 @@ Kim Jeong Eun</p></td>
 
 ### 播放
 
-電視動畫自2015年1月7日起於[獨立UHF局](../Page/獨立UHF局.md "wikilink")、[日本電視網](../Page/NNS.md "wikilink")、[TBS電視網](../Page/TBS電視台.md "wikilink")、[東京電視網](../Page/東京電視網.md "wikilink")、[全日本新聞網](../Page/全日本新聞網.md "wikilink")、[富士電視網底下多家電視台及](../Page/富士電視網.md "wikilink")[BS11頻道播放](../Page/BS11.md "wikilink")。
+電視動畫自2015年1月7日起於[獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")、[日本電視網](https://zh.wikipedia.org/wiki/NNS "wikilink")、[TBS電視網](../Page/TBS電視台.md "wikilink")、[東京電視網](../Page/東京電視網.md "wikilink")、[全日本新聞網](../Page/全日本新聞網.md "wikilink")、[富士電視網底下多家電視台及](../Page/富士電視網.md "wikilink")[BS11頻道播放](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
 
 ## 參考資料
 
@@ -517,7 +517,8 @@ Kim Jeong Eun</p></td>
 5.
 6.
 7.  2013-12-10. *[Newtype](../Page/Newtype.md "wikilink")*, January 2014
-    issue. [Kadokawa Shoten](../Page/Kadokawa_Shoten.md "wikilink").
+    issue. [Kadokawa
+    Shoten](https://zh.wikipedia.org/wiki/Kadokawa_Shoten "wikilink").
     ASIN B00GUP6QU2.
 8.
 9.

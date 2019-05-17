@@ -10,7 +10,7 @@
   - 本作額外收錄歌曲《[A MIRACLE FOR YOU
     \<2011\>](../Page/Dear_\(中島美嘉單曲\).md "wikilink")》的錄音片段以及演唱會「[MIKA
     NAKASHIMA CONCERT TOUR 2011 THE ONLY
-    STAR](../Page/MIKA_NAKASHIMA_CONCERT_TOUR_2011_THE_ONLY_STAR.md "wikilink")」的綵排片段。
+    STAR](https://zh.wikipedia.org/wiki/MIKA_NAKASHIMA_CONCERT_TOUR_2011_THE_ONLY_STAR "wikilink")」的綵排片段。
 
 ## 收錄曲
 

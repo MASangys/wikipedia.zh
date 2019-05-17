@@ -1,6 +1,6 @@
-**AKB48選拔總選舉**（\[1\]；英語譯名：）是日本女子偶像團體[AKB48所舉辦](../Page/AKB48.md "wikilink")，以類似政治[選舉的方式](../Page/選舉.md "wikilink")，由[歌迷從團內成員中](../Page/歌迷.md "wikilink")[投票決定](../Page/投票.md "wikilink")[單曲作品演唱者](../Page/AKB48歌曲列表.md "wikilink")（即「選拔成員」）的活動，起始於2009年，每年以一張單曲為對象舉行一次。各屆的正式名稱是「**AKB48第○○張單曲選拔總選舉**\[2\]」（通常會有副標題），通稱「**第○○屆AKB48選拔總選舉**」。
+**AKB48選拔總選舉**（\[1\]；英語譯名：）是日本女子偶像團體[AKB48所舉辦](../Page/AKB48.md "wikilink")，以類似政治[選舉的方式](../Page/選舉.md "wikilink")，由[歌迷從團內成員中](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[投票決定](../Page/投票.md "wikilink")[單曲作品演唱者](../Page/AKB48歌曲列表.md "wikilink")（即「選拔成員」）的活動，起始於2009年，每年以一張單曲為對象舉行一次。各屆的正式名稱是「**AKB48第○○張單曲選拔總選舉**\[2\]」（通常會有副標題），通稱「**第○○屆AKB48選拔總選舉**」。
 
-AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本國內旗下各團之所有成員](../Page/AKB48集團.md "wikilink")，與「」這個名字相呼應。開辦初期為強制參選，之後導入「[報名制](../Page/#報名制.md "wikilink")」，讓成員們自由決定是否參選。由於活動規模日漸盛大，已成為AKB48最具代表性的活動之一\[3\]。
+AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本國內旗下各團之所有成員](../Page/AKB48集團.md "wikilink")，與「」這個名字相呼應。開辦初期為強制參選，之後導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」，讓成員們自由決定是否參選。由於活動規模日漸盛大，已成為AKB48最具代表性的活動之一\[3\]。
 
 ## 概要
 
@@ -29,17 +29,17 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 <td><p><a href="../Page/赤坂BLITZ.md" title="wikilink">赤坂BLITZ</a><br />
 （<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/港區_(東京都).md" title="wikilink">港區</a>）</p></td>
 <td><p><a href="../Page/戶賀崎智信.md" title="wikilink">戶賀崎智信</a><br />
-<a href="../Page/茅野忍.md" title="wikilink">茅野忍</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/茅野忍" title="wikilink">茅野忍</a></p></td>
 <td><p><a href="../Page/前田敦子.md" title="wikilink">前田敦子</a><br />
 （1／3,489票）</p></td>
 <td><p><a href="../Page/Maybe是藉口.md" title="wikilink">Maybe是藉口</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第2屆</p></td>
-<td><p><a href="../Page/2010年.md" title="wikilink">2010年</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td><p><a href="../Page/AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」.md" title="wikilink">AKB48第17張單曲選拔總選舉<br />
 「向母親發誓，這是真的」</a></p></td>
-<td><p><a href="../Page/MEETS_PORT#東京巨蛋城表演廳.md" title="wikilink">JCB HALL</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/MEETS_PORT#東京巨蛋城表演廳" title="wikilink">JCB HALL</a><br />
 （東京都<a href="../Page/文京區.md" title="wikilink">文京區</a>）</p></td>
 <td><p><a href="../Page/德光和夫.md" title="wikilink">德光和夫</a><br />
 </p></td>
@@ -74,10 +74,10 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 <tr class="odd">
 <td><p>第5屆</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
-<td><p><a href="../Page/AKB48第32張單曲選拔總選舉.md" title="wikilink">AKB48第32張單曲選拔總選舉<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉" title="wikilink">AKB48第32張單曲選拔總選舉<br />
 ～一個人是看不見夢想的～</a></p></td>
 <td><p><a href="../Page/橫濱國際綜合競技場.md" title="wikilink">日產體育場</a><br />
-（<a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="../Page/橫濱市.md" title="wikilink">橫濱市</a><a href="../Page/港北區_(日本).md" title="wikilink">港北區</a>）</p></td>
+（<a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="https://zh.wikipedia.org/wiki/橫濱市" title="wikilink">橫濱市</a><a href="../Page/港北區_(日本).md" title="wikilink">港北區</a>）</p></td>
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a><br />
 （1／150,570票）</p></td>
 <td><p><a href="../Page/戀愛的幸運餅乾.md" title="wikilink">戀愛的幸運餅乾</a></p></td>
@@ -86,22 +86,22 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 <tr class="even">
 <td><p>第6屆</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
-<td><p><a href="../Page/AKB48第37張單曲選拔總選舉.md" title="wikilink">AKB48第37張單曲選拔總選舉<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉" title="wikilink">AKB48第37張單曲選拔總選舉<br />
 夢的現在地～對手在哪裡？～</a></p></td>
 <td><p><a href="../Page/東京體育場.md" title="wikilink">味之素體育場</a><br />
 （東京都<a href="../Page/調布市.md" title="wikilink">調布市</a>）</p></td>
 <td><p><a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a><br />
 （1／159,854票）</p></td>
-<td><p><a href="../Page/心意告示牌.md" title="wikilink">心意告示牌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/心意告示牌" title="wikilink">心意告示牌</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第7屆</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
-<td><p><a href="../Page/AKB48第41張單曲選拔總選舉.md" title="wikilink">AKB48第41張單曲選拔總選舉<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第41張單曲選拔總選舉" title="wikilink">AKB48第41張單曲選拔總選舉<br />
 ～無法預測順位，大波瀾的一夜～</a></p></td>
 <td><p><a href="../Page/福岡巨蛋.md" title="wikilink">福岡Yahuoku!巨蛋</a><br />
-（<a href="../Page/福岡縣.md" title="wikilink">福岡縣</a><a href="../Page/福岡市.md" title="wikilink">福岡市</a><a href="../Page/中央區_(福岡市).md" title="wikilink">中央區</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a><a href="../Page/福岡市.md" title="wikilink">福岡市</a><a href="../Page/中央區_(福岡市).md" title="wikilink">中央區</a>）</p></td>
 <td><p>指原莉乃<br />
 （2／194,049票）</p></td>
 <td><p><a href="../Page/Halloween_Night.md" title="wikilink">Halloween Night</a></p></td>
@@ -110,34 +110,34 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 <tr class="even">
 <td><p>第8屆</p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
-<td><p><a href="../Page/AKB48第45張單曲選拔總選舉.md" title="wikilink">AKB48第45張單曲選拔總選舉<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第45張單曲選拔總選舉" title="wikilink">AKB48第45張單曲選拔總選舉<br />
 ～我們該跟隨著誰前進？～</a></p></td>
 <td><p><br />
-（<a href="../Page/新潟縣.md" title="wikilink">新潟縣</a><a href="../Page/新潟市.md" title="wikilink">新潟市</a><a href="../Page/中央區_(新潟市).md" title="wikilink">中央區</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><a href="../Page/新潟市.md" title="wikilink">新潟市</a><a href="https://zh.wikipedia.org/wiki/中央區_(新潟市)" title="wikilink">中央區</a>）</p></td>
 <td><p>指原莉乃<br />
 （3／243,011票）</p></td>
-<td><p><a href="../Page/LOVE_TRIP/分享幸福.md" title="wikilink">LOVE TRIP/分享幸福</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福" title="wikilink">LOVE TRIP/分享幸福</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第9屆</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
-<td><p><a href="../Page/AKB48第49張單曲選拔總選舉.md" title="wikilink">AKB48第49張單曲選拔總選舉<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第49張單曲選拔總選舉" title="wikilink">AKB48第49張單曲選拔總選舉<br />
 ～先來戰鬥吧！故事由此開始～</a></p></td>
 <td><p>豐見城市立中央公民館[4]<br />
 （<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣</a><a href="../Page/豐見城市.md" title="wikilink">豐見城市</a>）</p></td>
 <td><p>指原莉乃<br />
 （4／246,376票）</p></td>
-<td><p><a href="../Page/＃就是喜歡你.md" title="wikilink">#就是喜歡你</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/＃就是喜歡你" title="wikilink">#就是喜歡你</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第10屆</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
-<td><p><a href="../Page/AKB48第53張單曲世界選拔總選舉.md" title="wikilink">AKB48第53張單曲世界選拔總選舉<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第53張單曲世界選拔總選舉" title="wikilink">AKB48第53張單曲世界選拔總選舉<br />
 ～誰是世界的Center?～</a></p></td>
 <td><p><a href="../Page/名古屋巨蛋.md" title="wikilink">名古屋巨蛋</a><br />
-（<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a><a href="../Page/東區_(名古屋市).md" title="wikilink">東區</a>）</p></td>
+（<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a><a href="https://zh.wikipedia.org/wiki/東區_(名古屋市)" title="wikilink">東區</a>）</p></td>
 <td><p><a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a><br />
 （1／194,453票）</p></td>
 <td><p><a href="../Page/感傷列車.md" title="wikilink">感傷列車</a></p></td>
@@ -168,9 +168,10 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 
 :\*\* 第8屆：[不需要翅膀](../Page/不需要翅膀.md "wikilink")
 
-:\*\* 第9屆：[空有願望](../Page/空有願望.md "wikilink")
+:\*\* 第9屆：[空有願望](https://zh.wikipedia.org/wiki/空有願望 "wikilink")
 
-:\*\* 第10屆：[Teacher Teacher](../Page/Teacher_Teacher.md "wikilink")
+:\*\* 第10屆：[Teacher
+Teacher](https://zh.wikipedia.org/wiki/Teacher_Teacher "wikilink")
 
 ::
 此外，第1－2屆限制僅購入普通盤、第3－4屆限制僅購入普通盤與初回限定盤的CD版本才可投票。第5屆起則為單曲CD所有版本的購入者均可投票。而在第10届，由于选举冠以“世界”名号，往年并无投票权的单曲台压盘也首度给与投票资格\[5\]。
@@ -232,9 +233,9 @@ zh-tw:吃到飽;}-制服務會員
 
 ## 有候選資格者
 
-原則上，**[SDN48以外的日本國內](../Page/SDN48.md "wikilink")[AKB48集團全部成員](../Page/AKB48集團.md "wikilink")**均具有被選舉權。第4屆以前排除已預定[畢業之成員的參選資格](../Page/畢業_\(演藝界\).md "wikilink")，第5屆起導入「[報名制](../Page/#報名制.md "wikilink")」之後，允許已預定畢業者報名參選（第6屆除外\[6\]），沒有宣布畢業的成員也可選擇不參選。通常有報名參選資格的成員，為該屆總選舉公告日時在籍者，但有兩屆將總選舉公告日之後才加入的成員以特例允許參選，分別為第6屆的[AKB48
+原則上，**[SDN48以外的日本國內](../Page/SDN48.md "wikilink")[AKB48集團全部成員](../Page/AKB48集團.md "wikilink")**均具有被選舉權。第4屆以前排除已預定[畢業之成員的參選資格](../Page/畢業_\(演藝界\).md "wikilink")，第5屆起導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」之後，允許已預定畢業者報名參選（第6屆除外\[6\]），沒有宣布畢業的成員也可選擇不參選。通常有報名參選資格的成員，為該屆總選舉公告日時在籍者，但有兩屆將總選舉公告日之後才加入的成員以特例允許參選，分別為第6屆的[AKB48
 Team
-8](../Page/AKB48_Team_8.md "wikilink")、以及第9屆的[STU48一期生](../Page/STU48.md "wikilink")\[7\]\[8\]。另外，第5屆特別允許有4年以上在籍經驗的畢業成員報名參選\[9\]。
+8](https://zh.wikipedia.org/wiki/AKB48_Team_8 "wikilink")、以及第9屆的[STU48一期生](https://zh.wikipedia.org/wiki/STU48 "wikilink")\[7\]\[8\]。另外，第5屆特別允許有4年以上在籍經驗的畢業成員報名參選\[9\]。
 
 關於AKB48集團海外（日本以外）各團成員的參選狀況，第9屆以前僅允許從AKB48移籍海外各團的成員報名參選，第10屆則首度開放海外各團的所有成員報名參選\[10\]\[11\]。
 
@@ -287,42 +288,42 @@ Team
 <td><p>○</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/AKB48第32張單曲選拔總選舉.md" title="wikilink">5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉" title="wikilink">5</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/AKB48第37張單曲選拔總選舉.md" title="wikilink">6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉" title="wikilink">6</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/AKB48第41張單曲選拔總選舉.md" title="wikilink">7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第41張單曲選拔總選舉" title="wikilink">7</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/AKB48第45張單曲選拔總選舉.md" title="wikilink">8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第45張單曲選拔總選舉" title="wikilink">8</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/AKB48第49張單曲選拔總選舉.md" title="wikilink">9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第49張單曲選拔總選舉" title="wikilink">9</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/AKB48第53張單曲世界選拔總選舉.md" title="wikilink">10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AKB48第53張單曲世界選拔總選舉" title="wikilink">10</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -341,7 +342,7 @@ AKB48選拔總選舉自第5屆（2013年）起實施「報名制」（日文稱�
 
 ## 當選名額
 
-第1－3屆的得票前21名、第4屆起的得票前16名，可以做為選拔成員演唱AKB48的單曲（[標題曲](../Page/A面與B面.md "wikilink")），其中第1名即為該單曲的[Center](../Page/AKB48組合構成#中心位置.md "wikilink")（中心成員）。沒有成為選拔成員、但有進入當選名單的成員，則會組成「Under
+第1－3屆的得票前21名、第4屆起的得票前16名，可以做為選拔成員演唱AKB48的單曲（[標題曲](../Page/A面與B面.md "wikilink")），其中第1名即為該單曲的[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）。沒有成為選拔成員、但有進入當選名單的成員，則會組成「Under
 Girls」等數個組別，各組擁有各自的專屬歌曲（總選舉選拔單曲之[收錄曲](../Page/A面與B面.md "wikilink")）、並由名次最高者擔任Center。進入當選名單者稱為「圈內」（），反之落選者則稱為「圈外」（）。
 
 目前AKB48選拔總選舉的當選名單，分為演唱單曲的**選拔成員**／**選拔組**，以及演唱單曲收錄曲的**Under
@@ -439,7 +440,7 @@ Girls</p></td>
 
 第4屆時將該屆的圈外173人稱為「**Waiting
 Girls**」（），並同時實施在34家出版社的34本雜誌登載個人平面寫真的特別企劃\[25\]，也擁有專屬歌曲（總選舉選拔單曲之收錄曲）。「Waiting
-Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikilink")》為每屆的選舉結果特別出版的《泳裝驚喜發表》（）寫真[Mook沿用](../Page/雜誌書.md "wikilink")，仍然做為圈外成員的總稱。第8屆起，又在開票活動後舉行的選後演唱會上，以「**延長戰**」（）的名義公布圈外成員中得票第81
+Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikilink")》為每屆的選舉結果特別出版的《泳裝驚喜發表》（）寫真[Mook沿用](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，仍然做為圈外成員的總稱。第8屆起，又在開票活動後舉行的選後演唱會上，以「**延長戰**」（）的名義公布圈外成員中得票第81
 - 100名之名單\[26\]。
 
 ## 选举活动
@@ -455,12 +456,12 @@ Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikili
 <th><p><a href="../Page/AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」.md" title="wikilink">2</a></p></th>
 <th><p><a href="../Page/AKB48第22張單曲選拔總選舉.md" title="wikilink">3</a></p></th>
 <th><p><a href="../Page/AKB48第27張單曲選拔總選舉.md" title="wikilink">4</a></p></th>
-<th><p><a href="../Page/AKB48第32張單曲選拔總選舉.md" title="wikilink">5</a></p></th>
-<th><p><a href="../Page/AKB48第37張單曲選拔總選舉.md" title="wikilink">6</a></p></th>
-<th><p><a href="../Page/AKB48第41張單曲選拔總選舉.md" title="wikilink">7</a></p></th>
-<th><p><a href="../Page/AKB48第45張單曲選拔總選舉.md" title="wikilink">8</a></p></th>
-<th><p><a href="../Page/AKB48第49張單曲選拔總選舉.md" title="wikilink">9</a></p></th>
-<th><p><a href="../Page/AKB48第53張單曲世界選拔總選舉.md" title="wikilink">10</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉" title="wikilink">5</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉" title="wikilink">6</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AKB48第41張單曲選拔總選舉" title="wikilink">7</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AKB48第45張單曲選拔總選舉" title="wikilink">8</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AKB48第49張單曲選拔總選舉" title="wikilink">9</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AKB48第53張單曲世界選拔總選舉" title="wikilink">10</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -640,7 +641,7 @@ Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikili
     第3屆
       - **[山本彩](../Page/山本彩.md "wikilink")**（第28名）、[市川美織](../Page/市川美織.md "wikilink")（第39名）
     第4屆
-      - [田野優花](../Page/田野優花.md "wikilink")（第45名）、**[宮脇咲良](../Page/宮脇咲良.md "wikilink")**（第47名）、**[武藤十夢](../Page/武藤十夢.md "wikilink")**（第49名）
+      - [田野優花](../Page/田野優花.md "wikilink")（第45名）、**[宮脇咲良](../Page/宮脇咲良.md "wikilink")**（第47名）、**[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")**（第49名）
     第5屆
       - **[田島芽瑠](../Page/田島芽瑠.md "wikilink")**（第55名）、**[朝長美櫻](../Page/朝長美櫻.md "wikilink")**（第59名）
     第6屆
@@ -667,14 +668,14 @@ Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikili
 
 ## 開票活動轉播
 
-AKB48選拔總選舉的開票活動，曾透過[電影院](../Page/電影院.md "wikilink")、[地面電視](../Page/地面電視.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）、[衛星電視](../Page/衛星電視.md "wikilink")（）、[網路串流等](../Page/網路直播.md "wikilink")4種媒體平台進行[現場直播](../Page/現場直播.md "wikilink")。
+AKB48選拔總選舉的開票活動，曾透過[電影院](../Page/電影院.md "wikilink")、[地面電視](../Page/地面電視.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）、[衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")（）、[網路串流等](https://zh.wikipedia.org/wiki/網路直播 "wikilink")4種媒體平台進行[現場直播](../Page/現場直播.md "wikilink")。
 
 第2届与第3届时，于电影院进行了银幕直播。自2012年的第4届起由富士电视台以《**AKB48（選拔）總選舉
-直播特別節目**》（）为题製播，并于[其联播网内播出](../Page/富士电视网.md "wikilink")。BS
+直播特別節目**》（）为题製播，并于[其联播网内播出](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")。BS
 Sky
-PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以后则直播到地面电视直播开始后就结束播出（也有稍延时的情况）。具体直播日期请参考上述「[过程](../Page/#過程.md "wikilink")」章節。
+PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以后则直播到地面电视直播开始后就结束播出（也有稍延时的情况）。具体直播日期请参考上述「[过程](https://zh.wikipedia.org/wiki/#過程 "wikilink")」章節。
 
-本章節提及之時間均以[日本標準時間](../Page/日本標準時間.md "wikilink")（[UTC+9](../Page/UTC+9.md "wikilink")）為單位。
+本章節提及之時間均以[日本標準時間](../Page/日本標準時間.md "wikilink")（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）為單位。
 
 <table>
 <caption>银幕直播</caption>
@@ -726,7 +727,7 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>（中国）<a href="../Page/花椒直播.md" title="wikilink">花椒直播</a></p></td>
+<td><p>（中国）<a href="https://zh.wikipedia.org/wiki/花椒直播" title="wikilink">花椒直播</a></p></td>
 <td><p>[46]</p></td>
 </tr>
 <tr class="odd">
@@ -770,8 +771,8 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 <td><p>19:00 - 21:09</p></td>
 <td><p>AKB48 第4届选拔总选举直播特別节目<br />
 （）</p></td>
-<td><p>主持人：、<a href="../Page/山﨑夕贵.md" title="wikilink">山﨑夕贵</a><br />
-嘉宾：<a href="../Page/前田敦子.md" title="wikilink">前田敦子</a>、<a href="../Page/關根勤.md" title="wikilink">關根勤</a>、<a href="../Page/山里亮太.md" title="wikilink">山里亮太</a>、<a href="../Page/茂木健一郎.md" title="wikilink">茂木健一郎</a><br />
+<td><p>主持人：、<a href="https://zh.wikipedia.org/wiki/山﨑夕贵" title="wikilink">山﨑夕贵</a><br />
+嘉宾：<a href="../Page/前田敦子.md" title="wikilink">前田敦子</a>、<a href="https://zh.wikipedia.org/wiki/關根勤" title="wikilink">關根勤</a>、<a href="../Page/山里亮太.md" title="wikilink">山里亮太</a>、<a href="../Page/茂木健一郎.md" title="wikilink">茂木健一郎</a><br />
 武道館现场主播：</p></td>
 <td><p>18.7%</p></td>
 <td><p>28.0%[51]</p></td>
@@ -794,7 +795,7 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 <td><p>AKB48第6届选拔总选举 直播特別节目<br />
 （）</p></td>
 <td><p>主持人：宮根誠司、加藤綾子<br />
-嘉宾：<a href="../Page/大島優子.md" title="wikilink">大島優子</a>、關根勤、<a href="../Page/莉莉·弗兰奇.md" title="wikilink">莉莉·弗兰奇</a>、<a href="../Page/大久保佳代子.md" title="wikilink">大久保佳代子</a><br />
+嘉宾：<a href="../Page/大島優子.md" title="wikilink">大島優子</a>、關根勤、<a href="https://zh.wikipedia.org/wiki/莉莉·弗兰奇" title="wikilink">莉莉·弗兰奇</a>、<a href="../Page/大久保佳代子.md" title="wikilink">大久保佳代子</a><br />
 记者：渡辺和洋、佐野瑞樹、</p></td>
 <td><p>16.2% (2)</p></td>
 <td><p>28.7%[53]</p></td>
@@ -805,7 +806,7 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 <td><p>AKB48总选举特別节目2015<br />
 （）</p></td>
 <td><p>主持人：宮根誠司、加藤綾子<br />
-嘉宾：<a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜</a>、、、、Terry伊藤、<a href="../Page/後藤輝基.md" title="wikilink">後藤輝基</a>、<a href="../Page/陣内智則.md" title="wikilink">陣内智則</a>、<a href="../Page/岩本輝雄.md" title="wikilink">岩本輝雄</a><br />
+嘉宾：<a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜</a>、、、、Terry伊藤、<a href="../Page/後藤輝基.md" title="wikilink">後藤輝基</a>、<a href="https://zh.wikipedia.org/wiki/陣内智則" title="wikilink">陣内智則</a>、<a href="../Page/岩本輝雄.md" title="wikilink">岩本輝雄</a><br />
 记者：渡辺和洋</p></td>
 <td><p>18.8% (3)</p></td>
 <td><p>23.4%[54]</p></td>
@@ -816,7 +817,7 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 <td><p>第8届AKB48总选举特別节目<br />
 （）</p></td>
 <td><p>主持人：宮根誠司、<a href="../Page/三田友梨佳.md" title="wikilink">三田友梨佳</a><br />
-嘉宾：<a href="../Page/小林幸子.md" title="wikilink">小林幸子</a>、<a href="../Page/高橋南.md" title="wikilink">高橋南</a>、<a href="../Page/武井壮.md" title="wikilink">武井壮</a>、<a href="../Page/足球时间.md" title="wikilink">足球时间</a>、</p></td>
+嘉宾：<a href="../Page/小林幸子.md" title="wikilink">小林幸子</a>、<a href="../Page/高橋南.md" title="wikilink">高橋南</a>、<a href="https://zh.wikipedia.org/wiki/武井壮" title="wikilink">武井壮</a>、<a href="https://zh.wikipedia.org/wiki/足球时间" title="wikilink">足球时间</a>、</p></td>
 <td><p>17.6% (3)</p></td>
 <td><p>19.9%[55]</p></td>
 </tr>
@@ -837,7 +838,7 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 <td><p>第10届AKB48世界选拔总选举2018<br />
 （）</p></td>
 <td><p>主持人：宮根誠司、三田友梨佳<br />
-嘉宾：指原莉乃（同時負責副聲道解說）、Mitz Mangrove、<a href="../Page/長嶋一茂.md" title="wikilink">長嶋一茂</a></p></td>
+嘉宾：指原莉乃（同時負責副聲道解說）、Mitz Mangrove、<a href="https://zh.wikipedia.org/wiki/長嶋一茂" title="wikilink">長嶋一茂</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -964,8 +965,8 @@ AKB48選拔總選舉博物館（）是一项与AKB48選拔總選舉相关的展�
 ## 関連項目
 
   -
-  - [第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink") -
-    該節目舉行仿效AKB48選拔總選舉的「AKB48 夢之紅白選拔」企劃活動。
+  - [第67回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰 "wikilink")
+    - 該節目舉行仿效AKB48選拔總選舉的「AKB48 夢之紅白選拔」企劃活動。
 
   - [AKB48公演列表](../Page/AKB48公演列表.md "wikilink") -
     收錄有AKB48「樂曲總選舉」之稱的「重溫時間」（）歌曲票選活動。

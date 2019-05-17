@@ -1,5 +1,5 @@
 《**Goodbye Mr.
-Black**》（），為[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/文化廣播_\(韓國\).md "wikilink")2016年3月16日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[文彩元](../Page/文彩元.md "wikilink")、[金剛-{于}-](../Page/金剛于.md "wikilink")、[宋再臨及](../Page/宋再臨.md "wikilink")-{[柳仁英](../Page/柳仁英.md "wikilink")}-主演。此劇改編自同名網路漫畫，概念来自《[基度山恩仇記](../Page/基度山恩仇記.md "wikilink")》，由《[想你](../Page/想你.md "wikilink")》、《[能聽見我的心嗎？](../Page/能聽見我的心嗎？.md "wikilink")》、《[心情好的日子](../Page/心情好的日子.md "wikilink")》的[文熙貞作家執筆和曾執導](../Page/文熙貞.md "wikilink")《[Dr.
+Black**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月16日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[文彩元](../Page/文彩元.md "wikilink")、[金剛-{于}-](../Page/金剛于.md "wikilink")、[宋再臨及](../Page/宋再臨.md "wikilink")-{[柳仁英](../Page/柳仁英.md "wikilink")}-主演。此劇改編自同名網路漫畫，概念来自《[基度山恩仇記](../Page/基度山恩仇記.md "wikilink")》，由《[想你](../Page/想你.md "wikilink")》、《[能聽見我的心嗎？](../Page/能聽見我的心嗎？.md "wikilink")》、《[心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")》的[文熙貞作家執筆和曾執導](https://zh.wikipedia.org/wiki/文熙貞 "wikilink")《[Dr.
 JIN](../Page/Dr._JIN.md "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》的[韓熙導演合作](../Page/韓熙.md "wikilink")。
 
 [Viu獲得香港地區播映版權](../Page/Viu.md "wikilink")，並於韓國播放完畢後4小時內放送繁體中文字幕版。而[LINE
@@ -31,7 +31,7 @@ TV](https://tv.line.me/goodbyemrblack)獲得台灣地區播映版權，並於3�
 <td><p><a href="../Page/李陣郁.md" title="wikilink">李陣郁</a></p></td>
 <td><p>車智源／<br />
 Black</p></td>
-<td><p><a href="../Page/楊智聰.md" title="wikilink">楊智聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊智聰" title="wikilink">楊智聰</a></p></td>
 <td><p><strong>前海軍特種部隊軍官，現為MRB亞洲區總經理</strong><br />
 海軍特種部隊UDT長官，原本十分稱極向上、正向、待人真誠。在遭到知心好友閔善宰背叛後，成為一心只想復仇的人，為了報仇而幾度與死亡邊缘擦身而過。舉手投足間有調皮的孩子氣，積極應對每件事，任何時候都能游刃有餘。他是個敢於針對少尉的榆木疙瘩，不過沒人討厭這個瘋狂的傢伙。同時他也是一個隱藏自己人情味，默默在背後悉心照顧隊友的領隊。時而可愛，時而溫柔，卻又不失男子漢氣概的純爺們儿。</p></td>
 </tr>
@@ -55,7 +55,7 @@ Swan</p></td>
 <tr class="odd">
 <td><p><a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
 <td><p>徐宇振</p></td>
-<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
 <td><p><strong>電子媒體PENDA代表、出版社的代表兼總編</strong><br />
 擁有完美人設的天之驕子。韓國最好法學大學的首席入學者，期間除了法學外還兼修了新聞放送學，是非常出色的才子，他相信舆論的力量是比法律更加有力的武器，非常信任群眾的力量。以首席身份進入韓國最好的法律大學，主修新聞放送專業和復仇，是個可怕的秀才。比起法律，他更相信輿論的力量，或者說是大眾的力量。然而他的知識水平跟他的舉動相比，沒眼色造就了他這個戀愛絕緣體。這個“母胎單身”對女人沒什麼興趣。</p></td>
 </tr>
@@ -71,12 +71,12 @@ Swan</p></td>
 
 ### 智源周邊人物
 
-|                                  |        |                                  |                                                          |
-| -------------------------------- | ------ | -------------------------------- | -------------------------------------------------------- |
-| **演員**                           | **角色** | **粵語配音**                         | **介紹**                                                   |
-| [鄭東煥](../Page/鄭東煥.md "wikilink") | 車載完    | [羅偉亮](../Page/羅偉亮.md "wikilink") | 車智源的爸爸、善宇集團會長，受人尊敬的企業家也是仁慈的父親，後被殺。                       |
-| [林世美](../Page/林世美.md "wikilink") | 車智秀    | [何凱怡](../Page/何凱怡.md "wikilink") | 車智源的妹妹、單戀閔善宰，在知曉善宰秘密後意外墜樓、下落不明，第8集再度出現，雙眼失明, 最後進行手術回復視力。 |
-| [李原種](../Page/李原種.md "wikilink") | 高晟敏/木藤 | [羅偉亮](../Page/羅偉亮.md "wikilink") | 原本在泰國用不正當手法賺錢的騙子，後因為車智源而洗心革面。                            |
+|                                  |        |                                                     |                                                          |
+| -------------------------------- | ------ | --------------------------------------------------- | -------------------------------------------------------- |
+| **演員**                           | **角色** | **粵語配音**                                            | **介紹**                                                   |
+| [鄭東煥](../Page/鄭東煥.md "wikilink") | 車載完    | [羅偉亮](../Page/羅偉亮.md "wikilink")                    | 車智源的爸爸、善宇集團會長，受人尊敬的企業家也是仁慈的父親，後被殺。                       |
+| [林世美](../Page/林世美.md "wikilink") | 車智秀    | [何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink") | 車智源的妹妹、單戀閔善宰，在知曉善宰秘密後意外墜樓、下落不明，第8集再度出現，雙眼失明, 最後進行手術回復視力。 |
+| [李原種](../Page/李原種.md "wikilink") | 高晟敏/木藤 | [羅偉亮](../Page/羅偉亮.md "wikilink")                    | 原本在泰國用不正當手法賺錢的騙子，後因為車智源而洗心革面。                            |
 
 ### 斯婉周邊人物
 
@@ -88,15 +88,15 @@ Swan</p></td>
 
 ### 善宰周邊人物
 
-|                                  |         |                                  |                                                  |
-| -------------------------------- | ------- | -------------------------------- | ------------------------------------------------ |
-| **演員**                           | **角色**  | **粵語配音**                         | **介紹**                                           |
-| [全國煥](../Page/全國煥.md "wikilink") | 白恩道/曹成培 |                                  | 善宇集團物流子公司社長，殺了金思婉的親生父母後，把自己過去隱埋掉成為了白恩道。          |
-| [徐範植](../Page/徐範植.md "wikilink") | 朴秘書     |                                  | 白恩道秘書、無名殺手，第七集入獄，獄中仍聽從白恩道指使, 後來在獄中被殺。            |
-| [李對淵](../Page/李對淵.md "wikilink") | 閔勇宰     |                                  | 閔善宰的爸爸、計程車司機。                                    |
-| [李在勇](../Page/李在勇.md "wikilink") | 尹在民     | [蘇裕邦](../Page/蘇裕邦.md "wikilink") | 海軍作戰司令官，車智源於海軍特種部隊時的上司；尹瑪莉的爸爸，閔善宰於海軍特種部隊時的上司兼岳父。 |
-| [崔政宇](../Page/崔政宇.md "wikilink") | 徐振卓     |                                  | 徐宇振的爸爸、善宇集團子公司善宇建設副社長。                           |
-|                                  |         |                                  |                                                  |
+|                                                     |         |                                  |                                                  |
+| --------------------------------------------------- | ------- | -------------------------------- | ------------------------------------------------ |
+| **演員**                                              | **角色**  | **粵語配音**                         | **介紹**                                           |
+| [全國煥](../Page/全國煥.md "wikilink")                    | 白恩道/曹成培 |                                  | 善宇集團物流子公司社長，殺了金思婉的親生父母後，把自己過去隱埋掉成為了白恩道。          |
+| [徐範植](https://zh.wikipedia.org/wiki/徐範植 "wikilink") | 朴秘書     |                                  | 白恩道秘書、無名殺手，第七集入獄，獄中仍聽從白恩道指使, 後來在獄中被殺。            |
+| [李對淵](../Page/李對淵.md "wikilink")                    | 閔勇宰     |                                  | 閔善宰的爸爸、計程車司機。                                    |
+| [李在勇](../Page/李在勇.md "wikilink")                    | 尹在民     | [蘇裕邦](../Page/蘇裕邦.md "wikilink") | 海軍作戰司令官，車智源於海軍特種部隊時的上司；尹瑪莉的爸爸，閔善宰於海軍特種部隊時的上司兼岳父。 |
+| [崔政宇](../Page/崔政宇.md "wikilink")                    | 徐振卓     |                                  | 徐宇振的爸爸、善宇集團子公司善宇建設副社長。                           |
+|                                                     |         |                                  |                                                  |
 
 ### 其他人物
 
@@ -115,20 +115,20 @@ Swan</p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
 <td><p>高敏荷／<br />
 May</p></td>
 <td><p><a href="../Page/王慧珠.md" title="wikilink">王慧珠</a></p></td>
 <td><p>Hedge Fund MRB National首席經紀人，高晟敏之女，於父親因為智源改過自新後返回韓國協助智源復仇。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/裴侑藍.md" title="wikilink">裴侑藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裴侑藍" title="wikilink">裴侑藍</a></p></td>
 <td><p>安啟東</p></td>
 <td></td>
 <td><p>車智源在軍隊時的下屬，現為車智源復仇團隊成員之一。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吉海妍.md" title="wikilink">吉海妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉海妍" title="wikilink">吉海妍</a></p></td>
 <td><p>洪仁子</p></td>
 <td><p><a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
 <td><p>閔善宰家的保姆，實為高晟敏及車智源的暗線，負責觀察善宰的一舉一動並找尋錄音筆，在第16集離開、轉為高晟敏一家服務。</p></td>
@@ -140,37 +140,37 @@ May</p></td>
 <td><p>明實業社長</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金明國_(演員).md" title="wikilink">金明國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金明國_(演員)" title="wikilink">金明國</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尹藝熙.md" title="wikilink">尹藝熙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹藝熙" title="wikilink">尹藝熙</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙允浩.md" title="wikilink">趙允浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙允浩" title="wikilink">趙允浩</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李載宇.md" title="wikilink">李載宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李載宇" title="wikilink">李載宇</a></p></td>
 <td></td>
 <td></td>
 <td><p>PENDA雜誌社員工，斯婉同事。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/仁尚浩.md" title="wikilink">仁尚浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/仁尚浩" title="wikilink">仁尚浩</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/崔賢_(演員).md" title="wikilink">崔賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔賢_(演員)" title="wikilink">崔賢</a></p></td>
 <td><p>崔室長</p></td>
 <td></td>
 <td></td>
@@ -182,43 +182,43 @@ May</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/河秀豪.md" title="wikilink">河秀豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/河秀豪" title="wikilink">河秀豪</a></p></td>
 <td><p>河秘書</p></td>
 <td></td>
 <td><p>白恩道的第二任秘書。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/孔正煥.md" title="wikilink">孔正煥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孔正煥" title="wikilink">孔正煥</a></p></td>
 <td><p>檢察官</p></td>
 <td></td>
 <td><p>車智源泰國殺人事件與閔善宰遇襲案的擔當檢察官，與善宰勾結陷害智源。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高瑞熙.md" title="wikilink">高瑞熙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高瑞熙" title="wikilink">高瑞熙</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/魏楊浩.md" title="wikilink">魏楊浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魏楊浩" title="wikilink">魏楊浩</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭東奎.md" title="wikilink">鄭東奎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭東奎" title="wikilink">鄭東奎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金光鉉.md" title="wikilink">金光鉉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金光鉉" title="wikilink">金光鉉</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/奇世亨.md" title="wikilink">奇世亨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奇世亨" title="wikilink">奇世亨</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -250,7 +250,7 @@ May</p></td>
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p>TNmS 收視率[2]</p></th>
-<th><p><a href="../Page/AGB尼爾森.md" title="wikilink">AGB</a> 收視率[3]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB</a> 收視率[3]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -398,7 +398,7 @@ May</p></td>
 
 ## 記事
 
-  - 此劇原定2015年12月於[SBS水木劇播出](../Page/SBS株式會社.md "wikilink")。2015年9月26日，SBS電視台與本劇劇組宣佈因製作方向不同而取消製作。其後[MBC於](../Page/文化廣播_\(韓國\).md "wikilink")10月13日宣佈接手此劇並作為水木劇播出。\[5\]
+  - 此劇原定2015年12月於[SBS水木劇播出](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")。2015年9月26日，SBS電視台與本劇劇組宣佈因製作方向不同而取消製作。其後[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")10月13日宣佈接手此劇並作為水木劇播出。\[5\]
   - 此劇因觀眾反應良好而增加4集至總共20集。\[6\]
 
 ## 腳註

@@ -1,11 +1,11 @@
 **EARTHBOUND
 PAPAS**（アースバウンド・パパス）是一个日本[摇滚组合](../Page/摇滚.md "wikilink")。由[Square
-Enix的原](../Page/Square_Enix.md "wikilink")（现）社员组成。以植松伸夫为领队的The
+Enix的原](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")（现）社员组成。以植松伸夫为领队的The
 Blackmages（[黑魔导士](../Page/黑魔导士.md "wikilink")）后继组合。通称为EBP。目前在日本国内以及国际舞台上频繁活跃中。并曾于2014年赴香港演出，2015年赴北京、上海演出。\[1\]
 
 ## 概要
 
-该组合是2010年[黑魔导士组合解散后由](../Page/黑魔导士.md "wikilink")[植松伸夫组成的后继摇滚组合](../Page/植松伸夫.md "wikilink")。演奏所用曲目与黑魔导士大致相同，以领队植松伸夫之前所作的[最终幻想系列的战斗曲和主题旋律的摇滚版为主](../Page/最终幻想系列.md "wikilink")。也会演奏一些原创曲目以及由植松伸夫创作的非最终幻想曲目。
+该组合是2010年[黑魔导士组合解散后由](../Page/黑魔导士.md "wikilink")[植松伸夫组成的后继摇滚组合](../Page/植松伸夫.md "wikilink")。演奏所用曲目与黑魔导士大致相同，以领队植松伸夫之前所作的[最终幻想系列的战斗曲和主题旋律的摇滚版为主](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。也会演奏一些原创曲目以及由植松伸夫创作的非最终幻想曲目。
 
 ## 成员
 
@@ -14,7 +14,7 @@ Blackmages（[黑魔导士](../Page/黑魔导士.md "wikilink")）后继组合�
 
     SMILEPLEASE・株式会社DOG EAR RECORDS代表。
 
-  - [岡宮道生](../Page/岡宮道生.md "wikilink")
+  - [岡宮道生](https://zh.wikipedia.org/wiki/岡宮道生 "wikilink")
     吉他手
 
   - 成田勤

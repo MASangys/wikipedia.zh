@@ -1,12 +1,12 @@
 **HK
-VP9**是一款在2014年由[黑克勒-科赫所設計和生產的](../Page/黑克勒&科赫.md "wikilink")[高分子](../Page/高分子.md "wikilink")[底把](../Page/机匣.md "wikilink")、[擊針擊發式](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是以[HK
+VP9**是一款在2014年由[黑克勒-科赫所設計和生產的](../Page/黑克勒&科赫.md "wikilink")[高分子](../Page/高分子.md "wikilink")[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")、[擊針擊發式](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是以[HK
 P30為基礎加以研發的改進型](../Page/HK_P30手槍.md "wikilink")。先後推出[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
-S\&W](../Page/.40_S&W.md "wikilink")[子弹這兩種](../Page/子弹.md "wikilink")[口徑](../Page/口徑.md "wikilink")，9毫米口徑的[钢製可拆卸式雙排](../Page/钢.md "wikilink")[彈匣的容量為](../Page/彈匣.md "wikilink")15發，而.40
+S\&W](../Page/.40_S&W.md "wikilink")[子弹這兩種](https://zh.wikipedia.org/wiki/子弹 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，9毫米口徑的[钢製可拆卸式雙排](../Page/钢.md "wikilink")[彈匣的容量為](../Page/彈匣.md "wikilink")15發，而.40
 S\&W口徑則為13發。
 
 VP9亦有使用獨特的改進設計，更符合[人體工程學的特點](../Page/人因工程学.md "wikilink")；它所具有的特點是，減少了操作時所造成的壓力，改進擊針擊發式的擊針簧可靠性和擊針的打擊力，並同時增加使用者操作和射擊的時侯的舒適度。已知它在歐洲又被命名為**SFP9**。
 
-槍名中的「VP」意為****（[人民手槍](../Page/人民手槍.md "wikilink")），亦意味著其繼承了該公司所研製的、世界上第一把純雙動操作與聚合物底把的手槍[HK
+槍名中的「VP」意為****（[人民手槍](https://zh.wikipedia.org/wiki/人民手槍 "wikilink")），亦意味著其繼承了該公司所研製的、世界上第一把純雙動操作與聚合物底把的手槍[HK
 VP70的地位](../Page/HK_VP70手槍.md "wikilink")。
 
 ## 歷史
@@ -16,42 +16,42 @@ VP70的地位](../Page/HK_VP70手槍.md "wikilink")。
 VP9是[黑克勒-科赫](../Page/黑克勒&科赫.md "wikilink")2014年推出的新產品。該槍取消了[USP系列手槍的迴轉式](../Page/HK_USP手槍.md "wikilink")設計，改為使用與[格洛克手槍相似的平移擊針擊發式設計](../Page/格洛克.md "wikilink")，因而連擊錘也移除了。
 
 VP9標誌著德國VP70的擊針擊發技術的回歸，並且成為同類型的[第四代格洛克17](../Page/格洛克17.md "wikilink")、[瓦爾特PPQ和](../Page/瓦爾特PPQ手槍.md "wikilink")[SIG
-P320的競爭對手](../Page/SIG_P320手槍.md "wikilink")。在同類型的手槍競爭當中，特別要注意的是賦予給握把在形狀和塗層上的處理。
+P320的競爭對手](https://zh.wikipedia.org/wiki/SIG_P320手槍 "wikilink")。在同類型的手槍競爭當中，特別要注意的是賦予給握把在形狀和塗層上的處理。
 
 ## 設計細節
 
-和過去的P2000、P30與HK45一樣，VP9是一把[短後座行程作用操作](../Page/後座作用.md "wikilink")、[閉膛待擊](../Page/閉膛待擊.md "wikilink")[半自動](../Page/半自動手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")，它使用了改良[-{zh:白朗寧;
+和過去的P2000、P30與HK45一樣，VP9是一把[短後座行程作用操作](../Page/後座作用.md "wikilink")、[閉膛待擊](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")[半自動](../Page/半自動手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")，它使用了改良[-{zh:白朗寧;
 zh-hans:白朗宁; zh-hant:白朗寧;
-zh-cn:勃朗宁;}-式無閉鎖凸耳的](../Page/約翰·白朗寧.md "wikilink")[槍機](../Page/槍機.md "wikilink")，而垂直傾斜[槍管的設計亦是來自](../Page/槍管.md "wikilink")[HK
+zh-cn:勃朗宁;}-式無閉鎖凸耳的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")，而垂直傾斜[槍管的設計亦是來自](../Page/槍管.md "wikilink")[HK
 USP系列自動裝填手槍](../Page/HK_USP手槍.md "wikilink")，以及最現代化的無閉鎖凸耳半自動射擊系統。鋼製套筒左側刻有HK
-VP9及其[口徑銘文](../Page/口徑.md "wikilink")，套筒座則是由[聚合物材料製作](../Page/聚合物.md "wikilink")，使得全槍質量較輕。
+VP9及其[口徑銘文](https://zh.wikipedia.org/wiki/口徑 "wikilink")，套筒座則是由[聚合物材料製作](../Page/聚合物.md "wikilink")，使得全槍質量較輕。
 
-技術上，與VP9最接近的是P30。P30手槍是[黑克勒-科赫在](../Page/黑克勒&科赫.md "wikilink")2006年推出的一款成功之作。VP9的歐洲版分為兩種版本，分別命名為SFP9-SF和SFP9-TR。後者還設有一個加重[扳機扣力和延長扳機復位行程的扳機](../Page/扳機扣力.md "wikilink")，以符合德國警用手槍的法例。\[2\]
+技術上，與VP9最接近的是P30。P30手槍是[黑克勒-科赫在](../Page/黑克勒&科赫.md "wikilink")2006年推出的一款成功之作。VP9的歐洲版分為兩種版本，分別命名為SFP9-SF和SFP9-TR。後者還設有一個加重[扳機扣力和延長扳機復位行程的扳機](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")，以符合德國警用手槍的法例。\[2\]
 
-VP9裝有非常靈巧的控制部件，藉由安裝在扳機護圈附近兩側的雙槳式[彈匣釋放卡筍](../Page/彈匣釋放卡筍.md "wikilink")，和裝在槍身右側的延長型[空槍掛機桿釋放桿](../Page/手槍套筒.md "wikilink")，除了右手，左手控制槍械也能實現靈活操作；而兩手皆可讓[拇指舒服地操作](../Page/拇指.md "wikilink")，進而快速識別彈盡和更換彈匣。
+VP9裝有非常靈巧的控制部件，藉由安裝在扳機護圈附近兩側的雙槳式[彈匣釋放卡筍](https://zh.wikipedia.org/wiki/彈匣釋放卡筍 "wikilink")，和裝在槍身右側的延長型[空槍掛機桿釋放桿](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，除了右手，左手控制槍械也能實現靈活操作；而兩手皆可讓[拇指舒服地操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，進而快速識別彈盡和更換彈匣。
 
 所有的P30手槍都具有自動保險和擊針保險。
 
-VP9手槍採用[黑克勒-科赫常用的](../Page/黑克勒&科赫.md "wikilink")槍管，以[钢材](../Page/钢.md "wikilink")、[冷鍛法和鍍](../Page/膛線#錘鍛（Hammer_forge）.md "wikilink")[铬工藝製造出來的槍管具有多邊形的輪廓](../Page/铬.md "wikilink")，槍管內製6條右旋膛線，[膛線](../Page/膛線.md "wikilink")[纏距為](../Page/膛線纏距.md "wikilink")1：9.8。該槍管與P30手槍槍管一樣採用火砲級別的鋼材冷鍛製造，足以確保使用壽命。而且測試證明，P30槍管壽命超過90,000發子彈，推斷新槍的使用壽命不低於90,000發。[套筒則是由硝酸滲碳所製成的鋼材所製成](../Page/手槍套筒.md "wikilink")，十分堅硬。VP9亦跟隨著最近的現代手槍設計趨勢，大量地採用耐高溫、耐磨損的[聚合物及鋼材混合材料以減輕全槍重量和生產成本](../Page/聚合物.md "wikilink")。
+VP9手槍採用[黑克勒-科赫常用的](../Page/黑克勒&科赫.md "wikilink")槍管，以[钢材](../Page/钢.md "wikilink")、[冷鍛法和鍍](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[铬工藝製造出來的槍管具有多邊形的輪廓](../Page/铬.md "wikilink")，槍管內製6條右旋膛線，[膛線](../Page/膛線.md "wikilink")[纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：9.8。該槍管與P30手槍槍管一樣採用火砲級別的鋼材冷鍛製造，足以確保使用壽命。而且測試證明，P30槍管壽命超過90,000發子彈，推斷新槍的使用壽命不低於90,000發。[套筒則是由硝酸滲碳所製成的鋼材所製成](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，十分堅硬。VP9亦跟隨著最近的現代手槍設計趨勢，大量地採用耐高溫、耐磨損的[聚合物及鋼材混合材料以減輕全槍重量和生產成本](../Page/聚合物.md "wikilink")。
 
-主要金屬成分，比如鋼製[套筒都經過](../Page/手槍套筒.md "wikilink")。黑克勒-科赫指出這種表面的“HE”（Hostile
-Environment，惡劣環境）處理，[硝基氣體滲碳](../Page/鐵素體氮碳共滲.md "wikilink")，產生的黑色氧化膜，是極其堅硬的。它能夠使這手槍抗磨損和[腐蚀](../Page/腐蚀.md "wikilink")，包括避免接觸[海水](../Page/海水.md "wikilink")，這種處理使得它特別適合作為個人的手槍，而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。
+主要金屬成分，比如鋼製[套筒都經過](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。黑克勒-科赫指出這種表面的“HE”（Hostile
+Environment，惡劣環境）處理，[硝基氣體滲碳](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")，產生的黑色氧化膜，是極其堅硬的。它能夠使這手槍抗磨損和[腐蚀](../Page/腐蚀.md "wikilink")，包括避免接觸[海水](../Page/海水.md "wikilink")，這種處理使得它特別適合作為個人的手槍，而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。
 
 在套筒尾部、照門下方兩側另設有帶防滑紋的聚合物製小突起，在拉動套筒的過程中，既方便手指操作，也可使操作中槍身更好地保持平衡，以便快速推彈上膛，這可是一般手槍上所沒有的。
 
-由於移除了擊鎚，故此VP9的扳機扣力很輕，輕扣扳機即可實現擊發。其扳機扣力也由P30的51[牛頓](../Page/牛頓_\(單位\).md "wikilink")（11.47[磅力](../Page/磅力.md "wikilink")，雙動操作）降為24[牛頓](../Page/牛頓_\(單位\).md "wikilink")（5.4[磅力](../Page/磅力.md "wikilink")）；雖然扳機行程延長至61毫米（2.4英吋），但扳機復位迅速。
+由於移除了擊鎚，故此VP9的扳機扣力很輕，輕扣扳機即可實現擊發。其扳機扣力也由P30的51[牛頓](../Page/牛頓_\(單位\).md "wikilink")（11.47[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")，雙動操作）降為24[牛頓](../Page/牛頓_\(單位\).md "wikilink")（5.4[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）；雖然扳機行程延長至61毫米（2.4英吋），但扳機復位迅速。
 
 VP9的[後座力亦很小](../Page/後座力.md "wikilink")，復進簧的設計既提高了持槍人對手槍的控制力，也減小了對手槍部件的損耗，有助於提高機構部件的使用壽命。
 
 VP9亦跟隨著最近的現代手槍設計趨勢，大量地採用耐高溫、耐磨損的[聚合物及](../Page/聚合物.md "wikilink")[钢材混合材料以減輕全槍重量和生產成本](../Page/钢.md "wikilink")。與其他手槍設計不同的是，VP9的握把使用了延續至P30的模塊化可調節型握把設計，以適應個別需要。握把可以換裝3種可更換式後方握把片和3種側面握把片，兩者皆有小型、中型和大型這3種尺寸。不論是後方握把片和側面握把片的組裝都可以完全地隨機選擇換裝的，包括對稱和不對稱，總共有27種不同握把片配置。這樣就令使用者可以因應其手掌大小而自由調節握把的[形狀和尺寸](../Page/形狀.md "wikilink")，更適合至幾乎可以適應任何的手形。其調整更換相當簡單，只需幾分鐘便可完成。加上握把上亦具有手指凹槽的設計，以及可更換握把護板的表面防滑處理，因此射擊時比較穩定和準確的，在雨天射擊也可保證手槍的穩定性與準確性。即使是女性也可以舒適地握緊和射擊。
 
-VP9的[機械瞄具包括後方的方形缺口式](../Page/機械瞄具.md "wikilink")[照門及前方的片狀](../Page/照門.md "wikilink")[準星](../Page/照準器.md "wikilink")，[瞄準基線長為](../Page/瞄準基線.md "wikilink")162毫米（6.38英吋）。三點式準星上已經塗上了非[放射性](../Page/放射性.md "wikilink")[光致发光的](../Page/光致发光.md "wikilink")[超級夜光塗料](../Page/超級夜光.md "wikilink")，可以在照明條件不利以下透過[增強對比協助瞄準以及射擊](../Page/機械瞄具#增強對比.md "wikilink")。在使用方面，VP9外表面沒有尖銳棱角，拔槍動作完全可以達到流暢順利的等級。
+VP9的[機械瞄具包括後方的方形缺口式](../Page/機械瞄具.md "wikilink")[照門及前方的片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")，[瞄準基線長為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")162毫米（6.38英吋）。三點式準星上已經塗上了非[放射性](../Page/放射性.md "wikilink")[光致发光的](https://zh.wikipedia.org/wiki/光致发光 "wikilink")[超級夜光塗料](https://zh.wikipedia.org/wiki/超級夜光 "wikilink")，可以在照明條件不利以下透過[增強對比協助瞄準以及射擊](https://zh.wikipedia.org/wiki/機械瞄具#增強對比 "wikilink")。在使用方面，VP9外表面沒有尖銳棱角，拔槍動作完全可以達到流暢順利的等級。
 
-VP9還在[套筒下](../Page/手槍套筒.md "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](../Page/扳機護環.md "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](../Page/雷射瞄準器.md "wikilink")，最大載重可達159g而不影響正常射擊。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
+VP9還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，最大載重可達159g而不影響正常射擊。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
 
 VP9的[彈匣在沒有上子彈時的重量為](../Page/彈匣.md "wikilink")93克（3.28盎司，0.21磅）。
 [SFP9-SF.jpg](https://zh.wikipedia.org/wiki/File:SFP9-SF.jpg "fig:SFP9-SF.jpg")
-清潔VP9的時候，可以在不需要任何工具以下就將VP9不完全分解成各個組件。分解手槍的時候，握槍手不需要離開握把就可以分解[套筒](../Page/手槍套筒.md "wikilink")，即使動手能力不強的人也可輕鬆拆解。先拆下彈匣，前後拉動套筒（若膛室為上膛中，此時拋殼挺會將彈拋出），然後使套筒復位。在膛室無彈的情況以下再後拉套筒，並順時針旋動扳機上方的分解手柄，即可取下套筒、復進簧、槍管組件。使用擦槍布擦拭膛室及槍管、復進簧、套筒以後，便可作重新組裝，組裝的順序與分解順序相反。組裝完成以後，在安裝彈匣之前，應前後拉動套筒數次，以確保套筒、復進簧動作順暢。整個拆裝、擦拭過程應當不超過5分鐘。若果使用噴霧清潔槍械的話還可縮短時間。
+清潔VP9的時候，可以在不需要任何工具以下就將VP9不完全分解成各個組件。分解手槍的時候，握槍手不需要離開握把就可以分解[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，即使動手能力不強的人也可輕鬆拆解。先拆下彈匣，前後拉動套筒（若膛室為上膛中，此時拋殼挺會將彈拋出），然後使套筒復位。在膛室無彈的情況以下再後拉套筒，並順時針旋動扳機上方的分解手柄，即可取下套筒、復進簧、槍管組件。使用擦槍布擦拭膛室及槍管、復進簧、套筒以後，便可作重新組裝，組裝的順序與分解順序相反。組裝完成以後，在安裝彈匣之前，應前後拉動套筒數次，以確保套筒、復進簧動作順暢。整個拆裝、擦拭過程應當不超過5分鐘。若果使用噴霧清潔槍械的話還可縮短時間。
 
 VP9預設上已將抽殼鉤兼作，抽殼鉤前部上方塗有紅色標記，當[膛室已經處於狀態之時](../Page/膛室.md "wikilink")，抽殼鉤前部向外突出於套筒表面；其非常醒目的上方紅色標記，可提醒使用者注意有一發子彈在[膛室內](../Page/膛室.md "wikilink")。同樣地，擊針尾部也塗有紅點，擊針的位置可以藉由套筒後方的孔所看見，擊針處於待擊位置時，其尾部突出於套筒後部，射手一眼便能看見，可作為的擊針是否準備待擊與否的指示器。VP9亦設有扳機保險、擊針保險裝置，可以預防非主動扣動扳機情形下的走火。
 
@@ -72,7 +72,7 @@ SFP9-SF的扳機行程大約是6毫米（0.2英寸），扳機復位相對的短
 
 #### SFP9-TR
 
-根據德國警察技術規格（TR；，意為：9×19毫米口徑手槍的技術規格指引；最新修訂版：[2008年1月](../Page/2008年1月.md "wikilink")），獲得德國警用任務型手槍認證的手槍的首發扳機扣力需要大於或等於30牛頓（6.74磅力），[扳機行程大於或等於](../Page/扳機行程.md "wikilink")10毫米（0.39英寸），而[扳機復位行程則大於或等於](../Page/扳機復位行程.md "wikilink")4毫米（0.16英寸）。\[4\]
+根據德國警察技術規格（TR；，意為：9×19毫米口徑手槍的技術規格指引；最新修訂版：[2008年1月](../Page/2008年1月.md "wikilink")），獲得德國警用任務型手槍認證的手槍的首發扳機扣力需要大於或等於30牛頓（6.74磅力），[扳機行程大於或等於](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")10毫米（0.39英寸），而[扳機復位行程則大於或等於](https://zh.wikipedia.org/wiki/扳機復位行程 "wikilink")4毫米（0.16英寸）。\[4\]
 
 SFP9-TR的扳機行程大約是11毫米（0.4英寸），扳機復位相對的短至5毫米（0.2英寸），而扳機扣力大約是30—35[牛頓](../Page/牛頓_\(單位\).md "wikilink")（6.7—7.9磅力），以遷就德國法律所規定的警用任務型手槍。\[5\]
 
@@ -116,15 +116,15 @@ SFP9-TR的扳機行程大約是11毫米（0.4英寸），扳機復位相對的�
 
   - ：
 
-      - [薩克森州警察](../Page/薩克森州警察.md "wikilink")—2015年訂購11,000多把SFP9手槍（將於2016年至2018年交付）\[6\]
+      - [薩克森州警察](https://zh.wikipedia.org/wiki/薩克森州警察 "wikilink")—2015年訂購11,000多把SFP9手槍（將於2016年至2018年交付）\[6\]
 
-      - [梅克倫堡-西波美拉尼亞的](../Page/梅克倫堡-西波美拉尼亞.md "wikilink")—訂購5,700把手槍\[7\]
+      - [梅克倫堡-西波美拉尼亞的](https://zh.wikipedia.org/wiki/梅克倫堡-西波美拉尼亞 "wikilink")—訂購5,700把手槍\[7\]
 
       - [下萨克森的](../Page/下萨克森.md "wikilink")—大約22,000把手槍將會連續地取代以前的[HK
         P2000手槍](../Page/HK_P2000手槍.md "wikilink")。\[8\]
 
       -
-      - [勃蘭登堡州警察](../Page/勃蘭登堡州.md "wikilink")
+      - [勃蘭登堡州警察](https://zh.wikipedia.org/wiki/勃蘭登堡州 "wikilink")
 
       - [德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")
 
@@ -138,7 +138,7 @@ SFP9-TR的扳機行程大約是11毫米（0.4英寸），扳機復位相對的�
 ### [电影](../Page/电影.md "wikilink")
 
   - 2015年—《[-{zh-cn:007：幽灵党; zh-tw:007：惡魔四伏;
-    zh-hk:007：鬼影帝國;}-](../Page/007：惡魔四伏.md "wikilink")》：被全球犯罪組織[魔鬼黨所使用](../Page/魔鬼黨.md "wikilink")，其中一把被[-{zh-cn:詹姆斯·邦德;zh-hk:占士·邦;zh-tw:詹姆士·龐德;}-](../Page/占士·邦.md "wikilink")（James
+    zh-hk:007：鬼影帝國;}-](../Page/007：惡魔四伏.md "wikilink")》：被全球犯罪組織[魔鬼黨所使用](../Page/魔鬼黨.md "wikilink")，其中一把被[-{zh-cn:詹姆斯·邦德;zh-hk:占士·邦;zh-tw:詹姆士·龐德;}-](https://zh.wikipedia.org/wiki/占士·邦 "wikilink")（James
     Bond，[丹尼尔·克雷格飾演](../Page/丹尼尔·克雷格.md "wikilink")）奪取。
 
 ## 參見
@@ -154,9 +154,9 @@ SFP9-TR的扳機行程大約是11毫米（0.4英寸），扳機復位相對的�
   - [HK P2000 SK手槍](../Page/HK_P2000_SK手槍.md "wikilink")
   - [HK P30手槍](../Page/HK_P30手槍.md "wikilink")
   - [HK45手槍](../Page/HK45手槍.md "wikilink")—[.45
-    ACP](../Page/.45_ACP.md "wikilink")[口徑版本](../Page/口徑.md "wikilink")，它使用了和HK
+    ACP](../Page/.45_ACP.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")，它使用了和HK
     P30相同的設計風格。
-  - [人民手槍](../Page/人民手槍.md "wikilink")—名字來源
+  - [人民手槍](https://zh.wikipedia.org/wiki/人民手槍 "wikilink")—名字來源
 
 ## 資料來源
 

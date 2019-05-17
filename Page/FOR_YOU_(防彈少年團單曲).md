@@ -1,6 +1,6 @@
 《**FOR
-YOU**》是[韓國男子組合](../Page/韓國.md "wikilink")[防彈少年團的第四張及首張原創日語單曲](../Page/防彈少年團.md "wikilink")，由[UTA](../Page/UTA.md "wikilink")、[HIRO](../Page/HIRO.md "wikilink")、[Rap
-Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope作曲](../Page/鄭號錫.md "wikilink")、作詞，並在2015年6月17日以三個不同版本推出（1st
+YOU**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團的第四張及首張原創日語單曲](../Page/防彈少年團.md "wikilink")，由[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink")、[HIRO](https://zh.wikipedia.org/wiki/HIRO "wikilink")、[Rap
+Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope作曲](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")、作詞，並在2015年6月17日以三個不同版本推出（1st
 Anniversary盤則在5月30日－6月21日期間限量發售）\[1\]。
 
 ## 背景
@@ -9,7 +9,7 @@ Anniversary盤則在5月30日－6月21日期間限量發售）\[1\]。
 Hit娛樂在防彈少年團的日本官方網站公布了這單曲的發行消息\[2\]\[3\]；並在當天提供了單曲的詳細資訊，包括三個初回限定盤及一個通常盤，它們的封面則在5月14日公開\[4\]。
 
 到6月5日，《FOR
-YOU》的音樂錄影帶在日本官方[Youtube頻道裡公開](../Page/Youtube.md "wikilink")\[5\]。
+YOU》的音樂錄影帶在日本官方[Youtube頻道裡公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[5\]。
 
 ### 發行版本
 
@@ -48,9 +48,9 @@ YOU》的音樂錄影帶在日本官方[Youtube頻道裡公開](../Page/Youtube.
 
 ## 發行歷史
 
-| 國家                             | 日期         | 格式                                                                        | 廠牌                                 |
-| ------------------------------ | ---------- | ------------------------------------------------------------------------- | ---------------------------------- |
-| [日本](../Page/日本.md "wikilink") | 2015年6月17日 | [CD](../Page/CD.md "wikilink")\[12\]、[數位下載](../Page/數位音樂下載.md "wikilink") | [波麗佳音](../Page/波麗佳音.md "wikilink") |
+| 國家                             | 日期         | 格式                                                                        | 廠牌                                                    |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [日本](../Page/日本.md "wikilink") | 2015年6月17日 | [CD](../Page/CD.md "wikilink")\[12\]、[數位下載](../Page/數位音樂下載.md "wikilink") | [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") |
 
 ## 參考資料
 

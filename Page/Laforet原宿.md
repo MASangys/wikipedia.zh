@@ -1,5 +1,5 @@
 **Laforet原宿**（，La Foret
-Harajuku）是東京[表參道](../Page/表參道.md "wikilink")（澀谷區[神宮前一丁目](../Page/神宮前_\(澀谷區\).md "wikilink")）的[購物中心](../Page/購物中心.md "wikilink")、[時裝大樓](../Page/時裝大樓.md "wikilink")。
+Harajuku）是東京[表參道](../Page/表參道.md "wikilink")（澀谷區[神宮前一丁目](../Page/神宮前_\(澀谷區\).md "wikilink")）的[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")、[時裝大樓](https://zh.wikipedia.org/wiki/時裝大樓 "wikilink")。
 
 由[森大廈的相關企業森大廈流通系統株式會社](../Page/森大廈.md "wikilink")（森ビル流通システム）營運。
 
@@ -9,7 +9,8 @@ Harajuku）是東京[表參道](../Page/表參道.md "wikilink")（澀谷區[神
 
 完成後的Laforet成為此地區的地標，也是流行時尚的基地，培養出許多年輕時尚創作者與創業家\[2\]。Laforet也因獨特的活動企劃與具有影響力的廣告活動成為話題\[3\]。
 
-「La Foret」是[法語中](../Page/法語.md "wikilink")「森林」（The Forest）的意思，來自營運公司森大廈。
+「La Foret」是[法語中](https://zh.wikipedia.org/wiki/法語 "wikilink")「森林」（The
+Forest）的意思，來自營運公司森大廈。
 
 建物樓板面積有15,672平方公尺，建地面積為2,776平方公尺\[4\]。
 
@@ -25,7 +26,7 @@ Museum六本木則是在六本木第一大廈竣工的1993年（平成5年）開
 
 ### 松山
 
-第一間分店。1983年（昭和58年）12月於[愛媛縣](../Page/愛媛縣.md "wikilink")[松山市](../Page/松山市.md "wikilink")開幕，後因建物老化等理由於2008年（平成20年）1月27日關閉。
+第一間分店。1983年（昭和58年）12月於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[松山市](../Page/松山市.md "wikilink")開幕，後因建物老化等理由於2008年（平成20年）1月27日關閉。
 
 ### 小倉
 

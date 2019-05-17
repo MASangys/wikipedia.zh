@@ -1,12 +1,12 @@
-**Deeplearning4j**是为[Java和](../Page/Java.md "wikilink")[Java虚拟机](../Page/Java虚拟机.md "wikilink")\[1\]\[2\]编写的[开源](../Page/开源.md "wikilink")[深度学习库](../Page/深度学习.md "wikilink")，是广泛支持各种深度学习算法的[运算框架](../Page/运算.md "wikilink")\[3\]。Deeplearning4j可以实施的技术包括[受限玻尔兹曼机](../Page/受限玻尔兹曼机.md "wikilink")、[深度置信网络](../Page/深度置信网络.md "wikilink")、深度自动编码器、堆叠式降噪自动编码器、[循环神经张量网络](../Page/循环神经张量网络.md "wikilink")，以及[word2vec](../Page/word2vec.md "wikilink")、doc2vec和GloVe。这些算法全部包括[分布式](../Page/分布式.md "wikilink")[并行版本](../Page/并行.md "wikilink")，与[Hadoop和](../Page/Hadoop.md "wikilink")[Spark集成](../Page/Apache_Spark.md "wikilink")。\[4\][Skymind是Deeplearning](../Page/Skymind.md "wikilink")4j的商业支持机构。
+**Deeplearning4j**是为[Java和](../Page/Java.md "wikilink")[Java虚拟机](../Page/Java虚拟机.md "wikilink")\[1\]\[2\]编写的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[深度学习库](https://zh.wikipedia.org/wiki/深度学习 "wikilink")，是广泛支持各种深度学习算法的[运算框架](https://zh.wikipedia.org/wiki/运算 "wikilink")\[3\]。Deeplearning4j可以实施的技术包括[受限玻尔兹曼机](https://zh.wikipedia.org/wiki/受限玻尔兹曼机 "wikilink")、[深度置信网络](https://zh.wikipedia.org/wiki/深度置信网络 "wikilink")、深度自动编码器、堆叠式降噪自动编码器、[循环神经张量网络](https://zh.wikipedia.org/wiki/循环神经张量网络 "wikilink")，以及[word2vec](https://zh.wikipedia.org/wiki/word2vec "wikilink")、doc2vec和GloVe。这些算法全部包括[分布式](https://zh.wikipedia.org/wiki/分布式 "wikilink")[并行版本](https://zh.wikipedia.org/wiki/并行 "wikilink")，与[Hadoop和](https://zh.wikipedia.org/wiki/Hadoop "wikilink")[Spark集成](../Page/Apache_Spark.md "wikilink")。\[4\][Skymind是Deeplearning](https://zh.wikipedia.org/wiki/Skymind "wikilink")4j的商业支持机构。
 
 ## 简介
 
-Deeplearning4j基于广泛使用的编程语言Java——但同时也兼容[Clojure](../Page/Clojure.md "wikilink")，并且包括[Scala的API](../Page/Scala.md "wikilink")。它由自有的开源数值计算库[ND4J驱动](../Page/ND4J.md "wikilink")，可使用CPU或GPU运行。\[5\]\[6\]
-Deeplearning4j是[开源项目](../Page/开源.md "wikilink")\[7\]，主要由位于旧金山的一支[机器学习团队开发](../Page/机器学习.md "wikilink")，团队由Adam
+Deeplearning4j基于广泛使用的编程语言Java——但同时也兼容[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")，并且包括[Scala的API](../Page/Scala.md "wikilink")。它由自有的开源数值计算库[ND4J驱动](https://zh.wikipedia.org/wiki/ND4J "wikilink")，可使用CPU或GPU运行。\[5\]\[6\]
+Deeplearning4j是[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")\[7\]，主要由位于旧金山的一支[机器学习团队开发](../Page/机器学习.md "wikilink")，团队由Adam
 Gibson领导。\[8\]\[9\]Deeplearning4j是谷歌Word2vec页面上列出的唯一一个在Java环境下实施Word2vec的开源项目。\[10\]
 
-Deeplearning4j已经用于多项商业和科研应用。其代码由[GitHub](../Page/GitHub.md "wikilink")\[11\]托管，并在[谷歌小组](../Page/Google_groups.md "wikilink")\[12\]上设有支持论坛。 
+Deeplearning4j已经用于多项商业和科研应用。其代码由[GitHub](../Page/GitHub.md "wikilink")\[11\]托管，并在[谷歌小组](https://zh.wikipedia.org/wiki/Google_groups "wikilink")\[12\]上设有支持论坛。 
 
 这一框架是可组合的，即受限玻尔兹曼机、卷积网络、自动编码器、递归网络等浅层神经网络可以相互叠加，组合成不同类型的深度网络。
 
@@ -16,7 +16,7 @@ Deeplearning4j的定型以集群进行。神经网络通过迭代化简平行定
 
 ## Java虚拟机中的科学计算
 
-Deeplearning4j包括使用ND4J的N维数组类，可在Java和Scala中进行科学计算，类似于[Numpy为](../Page/Numpy.md "wikilink")[Python提供的功能](../Page/Python.md "wikilink")。其基础是线性代数库，可有效支持生产环境中的矩阵操作。
+Deeplearning4j包括使用ND4J的N维数组类，可在Java和Scala中进行科学计算，类似于[Numpy为](https://zh.wikipedia.org/wiki/Numpy "wikilink")[Python提供的功能](../Page/Python.md "wikilink")。其基础是线性代数库，可有效支持生产环境中的矩阵操作。
 
 ## 用于机器学习的Canova向量化库
 
@@ -35,17 +35,17 @@ Deeplearning4j的实际应用情景包括金融行业\[15\]的欺诈侦测、制
 
 ## 相关库
 
-  - [OpenNN](../Page/OpenNN.md "wikilink")，一个用C++语言编写的深度学习开源神经网络库。
-  - [Torch](../Page/Torch_\(机器学习框架\).md "wikilink")，一个用Lua语言编写的 开源框架，广泛支持各类机器学习算法。
-  - [Theano](../Page/Theano.md "wikilink")，一个为Python开发的开源深度学习库。
-  - [Neuroph](../Page/Neuroph.md "wikilink")
+  - [OpenNN](https://zh.wikipedia.org/wiki/OpenNN "wikilink")，一个用C++语言编写的深度学习开源神经网络库。
+  - [Torch](https://zh.wikipedia.org/wiki/Torch_\(机器学习框架\) "wikilink")，一个用Lua语言编写的 开源框架，广泛支持各类机器学习算法。
+  - [Theano](https://zh.wikipedia.org/wiki/Theano "wikilink")，一个为Python开发的开源深度学习库。
+  - [Neuroph](https://zh.wikipedia.org/wiki/Neuroph "wikilink")
 
 ## 参见
 
-  - [深度学习框架比较](../Page/深度学习框架比较.md "wikilink")
+  - [深度学习框架比较](https://zh.wikipedia.org/wiki/深度学习框架比较 "wikilink")
   - [人工智能](../Page/人工智能.md "wikilink")
   - [机器学习](../Page/机器学习.md "wikilink")
-  - [深度学习](../Page/深度学习.md "wikilink")
+  - [深度学习](https://zh.wikipedia.org/wiki/深度学习 "wikilink")
 
 ## 参考文献
 

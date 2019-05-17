@@ -1,6 +1,6 @@
 《**七龍珠Z 復活的融合\!\!悟空和贝吉塔**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball
 Z: The Rebirth of Fusion\!\! Goku and
-Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上映的第15部劇場版動畫。\[1\]故事时间在在[魔人布欧事件之后](../Page/魔人布欧.md "wikilink")。
+Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上映的第15部劇場版動畫。\[1\]故事时间在在[魔人布欧事件之后](https://zh.wikipedia.org/wiki/魔人布欧 "wikilink")。
 
 ## 配音員
 
@@ -17,15 +17,15 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 <td style="text-align: center;"><p>台灣</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/孫悟空.md" title="wikilink">孫悟空</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/孫悟空" title="wikilink">孫悟空</a></strong></p></td>
 <td style="text-align: center;"><p><a href="../Page/野澤雅子.md" title="wikilink">野澤雅子</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/孫悟飯.md" title="wikilink">孫悟飯</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/孫悟飯" title="wikilink">孫悟飯</a></strong></p></td>
 <td style="text-align: center;"><p><a href="../Page/于正昌.md" title="wikilink">于正昌</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/孫悟天.md" title="wikilink">孫悟天</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/孫悟天" title="wikilink">孫悟天</a></strong></p></td>
 <td style="text-align: center;"><p><a href="../Page/李宛鳳.md" title="wikilink">李宛鳳</a></p></td>
 </tr>
 <tr class="odd">
@@ -42,7 +42,7 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 </tr>
 <tr class="even">
 <td><p><strong>拜高安</strong></p></td>
-<td style="text-align: center;"><p><a href="../Page/緑川光.md" title="wikilink">緑川光</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/緑川光" title="wikilink">緑川光</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>独裁者</strong></p></td>
@@ -64,11 +64,11 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 </tr>
 <tr class="odd">
 <td><p>东界王</p></td>
-<td style="text-align: center;"><p><a href="../Page/山本圭子.md" title="wikilink">山本圭子</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/山本圭子" title="wikilink">山本圭子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>南界王</p></td>
-<td style="text-align: center;"><p><a href="../Page/西尾徳.md" title="wikilink">西尾徳</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/西尾徳" title="wikilink">西尾徳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>西界王</p></td>
@@ -80,7 +80,7 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 </tr>
 <tr class="odd">
 <td><p>阎罗王</p></td>
-<td style="text-align: center;"><p><a href="../Page/郷里大輔.md" title="wikilink">郷里大輔</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/郷里大輔" title="wikilink">郷里大輔</a></p></td>
 </tr>
 <tr class="even">
 <td><p>异界武道会主持人</p></td>
@@ -91,32 +91,32 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 <td style="text-align: center;"><p><a href="../Page/中尾隆聖.md" title="wikilink">中尾隆聖</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/比迪丽.md" title="wikilink">比迪丽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比迪丽" title="wikilink">比迪丽</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/皆口裕子.md" title="wikilink">皆口裕子</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/琪琪.md" title="wikilink">琪琪</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/渡边菜生子.md" title="wikilink">渡边菜生子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琪琪" title="wikilink">琪琪</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/渡边菜生子" title="wikilink">渡边菜生子</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/布瑪.md" title="wikilink">布瑪</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/鹤弘美.md" title="wikilink">鹤弘美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布瑪" title="wikilink">布瑪</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鹤弘美" title="wikilink">鹤弘美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/撒旦先生.md" title="wikilink">撒旦先生</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/郷里大辅.md" title="wikilink">郷里大辅</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/郷里大辅" title="wikilink">郷里大辅</a></p></td>
 </tr>
 <tr class="even">
 <td><p>蓝鬼</p></td>
-<td style="text-align: center;"><p><a href="../Page/安西正弘.md" title="wikilink">安西正弘</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/安西正弘" title="wikilink">安西正弘</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>吸血鬼</p></td>
-<td style="text-align: center;"><p><a href="../Page/安西正弘.md" title="wikilink">安西正弘</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/安西正弘" title="wikilink">安西正弘</a></p></td>
 </tr>
 <tr class="even">
 <td><p>男子A</p></td>
-<td style="text-align: center;"><p><a href="../Page/宮尾秀幸.md" title="wikilink">宮尾秀幸</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宮尾秀幸" title="wikilink">宮尾秀幸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>男子B</p></td>
@@ -217,5 +217,6 @@ Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上
 
 1.  [Dragon Ball Z: Fusion Reborn
     (movie 12)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=990)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [彩色七龍珠Z17：悟空與達爾合體復活！](https://findbook.tw/book/9789573452478/basic)Findbook

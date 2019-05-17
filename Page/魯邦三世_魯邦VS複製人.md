@@ -1,5 +1,5 @@
 《**魯邦三世
-魯邦VS複製人**》（）是1978年12月16日上映的《[魯邦三世](../Page/魯邦三世.md "wikilink")》系列首部[動畫電影作品](../Page/動畫電影.md "wikilink")。
+魯邦VS複製人**》（）是1978年12月16日上映的《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》系列首部[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。
 
 原本的電影標題為「**ルパン三世**」，後來日本發行家用影音產品時多加了「**ルパンVS複製人間**」的副標題。
 
@@ -9,14 +9,14 @@
 
 ## 配音
 
-  - 魯邦三世：[山田康雄](../Page/山田康雄.md "wikilink")
-  - 次元大介：[小林清志](../Page/小林清志.md "wikilink")
-  - 峰不二子：[增山江威子](../Page/增山江威子.md "wikilink")
+  - 魯邦三世：[山田康雄](https://zh.wikipedia.org/wiki/山田康雄 "wikilink")
+  - 次元大介：[小林清志](https://zh.wikipedia.org/wiki/小林清志 "wikilink")
+  - 峰不二子：[增山江威子](https://zh.wikipedia.org/wiki/增山江威子 "wikilink")
   - 石川五右衛門：[井上真樹夫](../Page/井上真樹夫.md "wikilink")
-  - 錢形幸一：[納谷悟朗](../Page/納谷悟朗.md "wikilink")
-  - 馬摩：[西村晃](../Page/西村晃.md "wikilink")
+  - 錢形幸一：[納谷悟朗](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")
+  - 馬摩：[西村晃](https://zh.wikipedia.org/wiki/西村晃 "wikilink")
   - 警察總長：[富田耕生](../Page/富田耕生.md "wikilink")
-  - 史塔基：[大平透](../Page/大平透.md "wikilink")
+  - 史塔基：[大平透](https://zh.wikipedia.org/wiki/大平透 "wikilink")
   - 高登：[柴田秀勝](../Page/柴田秀勝.md "wikilink")
   - 埃及警察局長：[三波春夫](../Page/三波春夫.md "wikilink")
   - 總統：[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")
@@ -25,17 +25,18 @@
 ## 製作團隊
 
   - 製作：藤岡豊
-  - 原作：[Monkey Punch](../Page/Monkey_Punch.md "wikilink")（双葉社刊）
-  - 導演・演出・分鏡：[吉川惣司](../Page/吉川惣司.md "wikilink")
+  - 原作：[Monkey
+    Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")（双葉社刊）
+  - 導演・演出・分鏡：[吉川惣司](https://zh.wikipedia.org/wiki/吉川惣司 "wikilink")
   - 編劇：大和屋竺、吉川惣司
   - 監製：大塚康生
-  - 人物設計：[芝山努](../Page/芝山努.md "wikilink")
+  - 人物設計：[芝山努](https://zh.wikipedia.org/wiki/芝山努 "wikilink")
   - 作畫監督：椛島義夫、青木悠三
   - 美術：阿部行夫
   - 攝影監督：黑木敬七
   - 剪輯：相原義彰
   - 錄音監督：加藤敏
-  - 音樂：[大野雄二](../Page/大野雄二.md "wikilink")
+  - 音樂：[大野雄二](https://zh.wikipedia.org/wiki/大野雄二 "wikilink")
   - 選曲：鈴木清司
   - 製作補：鄉田三朗、片山哲生
   - 現像：東京現像所
@@ -44,7 +45,7 @@
   - 製作宣傳：P\&M
   - 製作協力：東北新社
   - 連載誌：週刊漫畫action、パワァ・コミックス（雙葉社刊）
-  - 配給：[東寶株式會社](../Page/東寶株式會社.md "wikilink")
+  - 配給：[東寶株式會社](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")
   - 製作：東京ムービー新社
 
 ## 插入歌

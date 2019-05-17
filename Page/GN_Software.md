@@ -1,5 +1,5 @@
 **GN
-Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "wikilink")（グッドナビゲイト）公司和PIACCI公司的遊戲品牌。\[1\]主要製作發售從PC[成人遊戲移植到](../Page/日本成人遊戲.md "wikilink")[家用遊戲機和](../Page/家用遊戲機.md "wikilink")[掌上遊戲機的](../Page/掌上遊戲機.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。\[2\]
+Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "wikilink")（グッドナビゲイト）公司和PIACCI公司的遊戲品牌。\[1\]主要製作發售從PC[成人遊戲移植到](../Page/日本成人遊戲.md "wikilink")[家用遊戲機和](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[掌上遊戲機的](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。\[2\]
 
 ## 作品列表
 
@@ -26,7 +26,7 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <tr class="even">
 <td><p>木漏れ日の並木道 〜移り変わる季節の中で〜</p></td>
 <td><p>木漏れ日の並木道</p></td>
-<td><p><a href="../Page/PS2.md" title="wikilink">PS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PS2" title="wikilink">PS2</a></p></td>
 <td><p><a href="../Page/F&amp;C.md" title="wikilink">F&amp;C FC01</a></p></td>
 <td><p>2004年7月29日</p></td>
 </tr>
@@ -48,7 +48,7 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p><a href="../Page/Like_Life.md" title="wikilink">Like Life an hour</a></p></td>
 <td><p><a href="../Page/Like_Life.md" title="wikilink">Like Life</a></p></td>
 <td><p>PS2</p></td>
-<td><p><a href="../Page/HOOK.md" title="wikilink">HOOK</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HOOK" title="wikilink">HOOK</a></p></td>
 <td><p>2005年4月28日</p></td>
 </tr>
 <tr class="even">
@@ -73,8 +73,8 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p>2006年4月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Underbar_Summer.md" title="wikilink">_summer##</a></p></td>
-<td><p><a href="../Page/Underbar_Summer.md" title="wikilink">_summer</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Underbar_Summer" title="wikilink">_summer##</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Underbar_Summer" title="wikilink">_summer</a></p></td>
 <td><p>PS2</p></td>
 <td><p>HOOK</p></td>
 <td><p>2006年8月24日</p></td>
@@ -87,8 +87,8 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p>2007年6月28日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/新聖魔大戰.md" title="wikilink">キャッスルファンタジア アリハト戦記</a></p></td>
-<td><p><a href="../Page/新聖魔大戰.md" title="wikilink">キャッスルファンタジア〜聖魔大戦〜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新聖魔大戰" title="wikilink">キャッスルファンタジア アリハト戦記</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新聖魔大戰" title="wikilink">キャッスルファンタジア〜聖魔大戦〜</a></p></td>
 <td><p>PS2</p></td>
 <td><p>Studio e.go!</p></td>
 <td><p>2007年8月9日</p></td>
@@ -101,16 +101,16 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p>2008年1月31日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/夕陽染紅的坡道.md" title="wikilink">あかね色に染まる坂 ぱられる</a></p></td>
-<td><p><a href="../Page/あかね色に染まる坂.md" title="wikilink">あかね色に染まる坂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夕陽染紅的坡道" title="wikilink">あかね色に染まる坂 ぱられる</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/あかね色に染まる坂" title="wikilink">あかね色に染まる坂</a></p></td>
 <td><p>PS2</p></td>
-<td><p><a href="../Page/feng.md" title="wikilink">feng</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/feng" title="wikilink">feng</a></p></td>
 <td><p>2008年8月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>水月 〜Portable〜</p></td>
 <td><p>水月</p></td>
-<td><p><a href="../Page/PSP.md" title="wikilink">PSP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PSP" title="wikilink">PSP</a></p></td>
 <td><p>F&amp;C FC01</p></td>
 <td><p>2008年10月30日</p></td>
 </tr>
@@ -173,8 +173,8 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p>2009年10月1日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/夕陽染紅的坡道.md" title="wikilink">あかね色に染まる坂 ぽーたぶる</a></p></td>
-<td><p><a href="../Page/あかね色に染まる坂.md" title="wikilink">あかね色に染まる坂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夕陽染紅的坡道" title="wikilink">あかね色に染まる坂 ぽーたぶる</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/あかね色に染まる坂" title="wikilink">あかね色に染まる坂</a></p></td>
 <td><p>PSP</p></td>
 <td><p>feng</p></td>
 <td><p>2009年12月17日</p></td>
@@ -226,7 +226,7 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p>4 〜夏の恋活〜}}</p></td>
 <td><p>Piaキャロットへようこそ</p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/Xbox360.md" title="wikilink">Xbox360</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Xbox360" title="wikilink">Xbox360</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/久遠之絆.md" title="wikilink">久遠の絆 再臨詔 -Portable-</a></p></td>
@@ -245,7 +245,7 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <tr class="even">
 <td><p>涼風のメルト -days in the sanctuary-</p></td>
 <td><p>涼風のメルト -Where wishes are drawn to each other-</p></td>
-<td><p><a href="../Page/PS3.md" title="wikilink">PS3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PS3" title="wikilink">PS3</a></p></td>
 <td><p>Whirlpool</p></td>
 <td><p>2011年12月15日</p></td>
 </tr>
@@ -309,7 +309,7 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p><a href="../Page/現在就想告訴哥哥，我是妹妹！.md" title="wikilink">いますぐお兄ちゃんに妹だっていいたい!</a></p></td>
 <td><p><a href="../Page/現在就想告訴哥哥，我是妹妹！.md" title="wikilink">いますぐお兄ちゃんに妹だっていいたい!</a></p></td>
 <td><p>PSV</p></td>
-<td><p><a href="../Page/fairys.md" title="wikilink">fairys</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/fairys" title="wikilink">fairys</a></p></td>
 <td><p>2014年4月24日</p></td>
 </tr>
 <tr class="even">
@@ -355,14 +355,14 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p>2017年7月20日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Amenity&#39;s_Life.md" title="wikilink">Amenity's Life</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Amenity&#39;s_Life" title="wikilink">Amenity's Life</a></p></td>
 <td><p>Amenity's Life</p></td>
 <td><p>PSV</p></td>
 <td><p>HOOKSOFT</p></td>
 <td><p>2017年11月22日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/女友＊步驟.md" title="wikilink">カノジョ＊ステップ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/女友＊步驟" title="wikilink">カノジョ＊ステップ</a></p></td>
 <td><p>カノジョ＊ステップ</p></td>
 <td><p>PSV</p></td>
 <td><p>HOOKSOFT</p></td>
@@ -371,7 +371,7 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <tr class="even">
 <td><p>初情スプリンクル</p></td>
 <td><p>初情スプリンクル</p></td>
-<td><p>PSV、<a href="../Page/PS4.md" title="wikilink">PS4</a></p></td>
+<td><p>PSV、<a href="https://zh.wikipedia.org/wiki/PS4" title="wikilink">PS4</a></p></td>
 <td><p>Whirlpool</p></td>
 <td><p>2018年11月28日</p></td>
 </tr>

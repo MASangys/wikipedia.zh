@@ -1,6 +1,6 @@
 **《ONE PIECE FILM
-GOLD》**（）是改编自[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[尾田榮一郎的著名漫畫](../Page/尾田榮一郎.md "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](../Page/劇場版.md "wikilink")13部作品，由作者[尾田榮一郎擔任製作總指揮](../Page/尾田榮一郎.md "wikilink")，日本於2016年7月23日上映。
+GOLD》**（）是改编自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎的著名漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
+PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wikipedia.org/wiki/劇場版 "wikilink")13部作品，由作者[尾田榮一郎擔任製作總指揮](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，日本於2016年7月23日上映。
 
 ## 本作特色
 
@@ -10,7 +10,7 @@ PIECE FILM GOLD》，作者尾田榮一郎親自參與製作，以「那是、�
 
 本作舞台是被稱為世界政府無法干預的絕對聖域，世界最大娛樂城市，其掌門人是吃了黃金果實的黃金大帝基爾德·泰佐羅，他無窮的野心即將撼動新世界的勢力版圖。
 
-本作[聲優嘉賓也相當豪華如同片名般](../Page/聲優.md "wikilink")，網羅了知名[演員](../Page/演員.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[藝人](../Page/藝人.md "wikilink")、[模特兒等](../Page/模特兒.md "wikilink")。
+本作[聲優嘉賓也相當豪華如同片名般](../Page/聲優.md "wikilink")，網羅了知名[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[模特兒等](../Page/模特兒.md "wikilink")。
 
 ## 劇情
 
@@ -53,7 +53,7 @@ PIECE FILM GOLD》，作者尾田榮一郎親自參與製作，以「那是、�
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">賓什莫克·香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 </tr>
 <tr class="odd">
@@ -70,7 +70,7 @@ PIECE FILM GOLD》，作者尾田榮一郎親自參與製作，以「那是、�
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">布魯克</a></p></td>
-<td><p><a href="../Page/長_(日本配音員).md" title="wikilink">長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -92,22 +92,22 @@ PIECE FILM GOLD》，作者尾田榮一郎親自參與製作，以「那是、�
 <td><p>香港</p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/革命軍_(ONE_PIECE)#參謀總長.md" title="wikilink">薩波</a><ref name="opcom160516">{{Cite web |date=2016-05-16 |url=<a href="https://one-piece.com/news/detail/20160516_3773%7Ctitle=電影「ONE">https://one-piece.com/news/detail/20160516_3773|title=電影「ONE</a> PIECE FILM GOLD」羅布·路基、斯帕達姆、薩波、可亞拉參演</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#參謀總長" title="wikilink">薩波</a><ref name="opcom160516">{{Cite web |date=2016-05-16 |url=<a href="https://one-piece.com/news/detail/20160516_3773%7Ctitle=電影「ONE">https://one-piece.com/news/detail/20160516_3773|title=電影「ONE</a> PIECE FILM GOLD」羅布·路基、斯帕達姆、薩波、可亞拉參演</p></td>
 <td><p>! 角色設定畫公開</p></td>
 <td><p>|publisher=ONE PIECE.com|accessdate=2016-05-17}}</ref></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/革命軍_(ONE_PIECE)#可亞拉.md" title="wikilink">可亞拉</a>[1]</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#可亞拉" title="wikilink">可亞拉</a>[1]</p></td>
 <td><p><a href="../Page/雪野五月.md" title="wikilink">雪野五月</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/世界政府直屬秘密間諜機關#羅布·路基.md" title="wikilink">羅布·路基</a>[2]</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#羅布·路基" title="wikilink">羅布·路基</a>[2]</p></td>
 <td><p><a href="../Page/關智一.md" title="wikilink">關智一</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/世界政府直屬秘密間諜機關#斯帕達姆.md" title="wikilink">斯帕達姆</a>[3]</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#斯帕達姆" title="wikilink">斯帕達姆</a>[3]</p></td>
 <td><p><a href="../Page/小野坂昌也.md" title="wikilink">小野坂昌也</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
@@ -126,7 +126,7 @@ PIECE FILM GOLD》，作者尾田榮一郎親自參與製作，以「那是、�
 ##### 領導層
 
   -
-    聲優：[山路和弘](../Page/山路和弘.md "wikilink")\[4\]、[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")〈青年〉\[5\]（日本）；[孫中台](../Page/孫中台.md "wikilink")、[詹雅菁](../Page/詹雅菁.md "wikilink")〈幼年〉（台灣）；[李家傑](../Page/李家傑_\(配音員\).md "wikilink")、[周恩恩](../Page/周恩恩.md "wikilink")〈幼年〉（香港）；[張震](../Page/張震.md "wikilink")（中國大陸）
+    聲優：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")\[4\]、[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")〈青年〉\[5\]（日本）；[孫中台](../Page/孫中台.md "wikilink")、[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")〈幼年〉（台灣）；[李家傑](../Page/李家傑_\(配音員\).md "wikilink")、[周恩恩](../Page/周恩恩.md "wikilink")〈幼年〉（香港）；[張震](https://zh.wikipedia.org/wiki/張震 "wikilink")（中國大陸）
     年齡41歲，生日1月24日。世界最大娛樂城市「Gran
     Tesoro」掌門人、一流藝人，人稱「**黃金大帝**」、「**新世界的怪物**」，擁有全世界20%的貝里，君臨於賭場的賭場之王，甚至有能動用世界政府的力量。曾說過「沒有錢的傢伙只會一事無成，只有被支配的份」。
     特徵是灰綠色頭髮向後梳，平時穿著粉色衣服和褲子，紫色墨鏡。其背上有一個巨大的五角星狀傷疤，掩蓋曾是天龍人奴隸的印記。接待客人時，泰佐洛會穿的十分豪華，全身都是金飾。
@@ -161,36 +161,38 @@ Stella Show”。表示才是要成為這個世界的神的人。
   -
 
       -
-        也曾在**[銀礦島篇](../Page/#銀礦島篇.md "wikilink")**、**[特別篇
-        ～黃金之心～](../Page/#特別篇～黃金之心～.md "wikilink")**中登場客串。
+        也曾在**[銀礦島篇](https://zh.wikipedia.org/wiki/#銀礦島篇 "wikilink")**、**[特別篇
+        ～黃金之心～](https://zh.wikipedia.org/wiki/#特別篇～黃金之心～ "wikilink")**中登場客串。
 
 <!-- end list -->
 
   -
-    聲優：[滿島光](../Page/滿島光.md "wikilink")【特別演出】\[6\]\[7\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[楊婉潼](../Page/楊婉潼.md "wikilink")（香港）；[黎筱濛](../Page/黎筱濛.md "wikilink")（中國大陸）
+    聲優：[滿島光](../Page/滿島光.md "wikilink")【特別演出】\[6\]\[7\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[楊婉潼](../Page/楊婉潼.md "wikilink")（香港）；[黎筱濛](https://zh.wikipedia.org/wiki/黎筱濛 "wikilink")（中國大陸）
     19歳。世界最大娛樂城市「Gran Tesoro」的歌姬。是個人氣非常高且貌美的歌姬，擁有美麗的歌喉。是一個神秘的歌姬（）。
     雖然和娜美面熟，並有過爭吵，但不知是敵是友。以前也是小偷，外號『**女狐**』（），特徵是紫色長髮（平常是留著包頭），帶著狐狸造型耳環，愛騙人。獨特笑聲是"嗚嘻嘻嘻"。
     跟娜美是舊識，曾經因為竊取了一個海賊團的寶物而被瘋狂的財寶獵人馬德·托雷加所抓住，卡麗娜為了獲救說要將偷來寶物以及自己所有的財產來當兩個人贖金，娜美被卡莉娜當作了抵押，卡莉娜一個人去取贖金，但是卡莉娜出去之後再也沒回來，出賣了娜美，但其實是為了救娜美所做的障眼法。
     在娛樂船上與娜美相認。表明待在泰佐羅的身邊是為了竊取「泰佐羅錢幣」，與娜美和魯夫約談合作，並為了救出索隆。結果到最後娜美發現到卡莉娜背叛、騙了他們，根本沒有要偷的東西，正當大家絕望時，索隆要被處刑的瞬間，突然湧出大量海水，被海水淋到的人們都解除了泰佐羅的控制，原來卡莉娜根本沒有背叛，一切都是卡莉娜與娜美的計謀。
     戰鬥結束後，因為泰佐羅啟動了自爆狀態，卡莉娜自告奮勇要留下來解除自爆狀態，要讓娜美跟船上所有人趕快離開，結果最後根本沒有爆炸，只放了煙火，偷走整艘「Gran
     Tesoro」，又再一次騙了所有人，成為本部作品最大的贏家。最後留給娜美的紙條上寫「女孩必靠智慧求生存」。
-    也在**[特別篇 ～黃金之心～](../Page/#特別篇～黃金之心～.md "wikilink")**中客串。
+    也在**[特別篇
+    ～黃金之心～](https://zh.wikipedia.org/wiki/#特別篇～黃金之心～ "wikilink")**中客串。
 
 <!-- end list -->
 
   -
-    聲優：[濱田岳](../Page/濱田岳.md "wikilink")【特別演出】\[8\]\[9\]（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）；[盧恒宇](../Page/盧恒宇.md "wikilink")（中國大陸）
+    聲優：[濱田岳](../Page/濱田岳.md "wikilink")【特別演出】\[8\]\[9\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）；[盧恒宇](https://zh.wikipedia.org/wiki/盧恒宇 "wikilink")（中國大陸）
     世界最大娛樂城市「Gran
     Tesoro」的警備主任。頭比身體還大的二頭身男子，9年前加入，他是泰佐羅最初的部下，同時也是他的心腹大將，負責工作為交予世界政府天龍金、將整個「Gran
     Tesoro」內部發生的狀況全部匯報給泰佐羅等等各項重大任務。獨特笑聲是"噓嚕嚕嚕嚕"，武器是一把手槍，戰鬥時會配合能力使用。
     **「[穿越果實](../Page/惡魔果實.md "wikilink")」**（暫譯，）能力者。擁有可以讓一切物體脫落自由穿越無機物的能力。
     劇中最後決戰與香吉士、羅賓等人交戰，故意支開香吉士並拿槍脅持羅賓，卻反被花花果實能力趁隙抓住，最終被憤怒的香吉士給擊敗。
-    也在**銀礦島篇**、**[特別篇 ～黃金之心～](../Page/#特別篇～黃金之心～.md "wikilink")**中登場客串。
+    也在**銀礦島篇**、**[特別篇
+    ～黃金之心～](https://zh.wikipedia.org/wiki/#特別篇～黃金之心～ "wikilink")**中登場客串。
 
 <!-- end list -->
 
   -
-    聲優：[菜菜緒](../Page/菜菜緒.md "wikilink")【特別演出】\[10\]\[11\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）；[張碧玉](../Page/張碧玉.md "wikilink")（中國大陸）
+    聲優：[菜菜緒](../Page/菜菜緒.md "wikilink")【特別演出】\[10\]\[11\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）；[張碧玉](https://zh.wikipedia.org/wiki/張碧玉 "wikilink")（中國大陸）
     世界最大娛樂城市「Gran
     Tesoro」的接待員，泰佐羅一夥中唯一的女性幹部（不包含卡莉娜在內的話），特徵是褐色肌膚和紅色長髮，腿部有著蛇及星星的刺青，說話會帶著英語腔調，負責工作為接待世界各地的名媛權貴，她的幸運能力對泰佐羅貢獻良多，也讓泰佐羅在不費吹灰之力的情況下得到許多奴隸，有著很好的記憶力，能夠輕易記下著名海賊的臉孔與其懸賞金，5年前加入泰佐羅一夥，對泰佐羅有好感。
     **「[幸運果實](../Page/惡魔果實.md "wikilink")」**（暫譯，）能力者，被她碰觸到身體的人運勢會發生改變，平時戴著手套避免觸發能力。
@@ -200,22 +202,22 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[小林劍道](../Page/小林劍道.md "wikilink")【特別演出】\[12\]（日本）；[孟慶府](../Page/孟慶府.md "wikilink")（台灣）；[張聞天](../Page/張聞天.md "wikilink")（中國大陸）
+    聲優：[小林劍道](../Page/小林劍道.md "wikilink")【特別演出】\[12\]（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）；[張聞天](https://zh.wikipedia.org/wiki/張聞天 "wikilink")（中國大陸）
     世界最大娛樂城市「Gran
     Tesoro」的莊家。留著金色短髮（平常包著頭巾）和大鬍子的壯漢，8年前原本是地下世界無人能敵的死亡角力手，後來被泰佐羅看上，讓他在VIP貴賓級的賭場擔任擲骰子的工作。武器是一把斧頭，配合擊破骰盅看賭注結果，但因為他本人比較喜歡用頭去擊破骰盅，所以斧頭根本沒意義。
-    全身有著發達的筋肉，身上的護手和服裝有骰子的1到6點數字。他有著特殊的力量和防禦力，會使用**「[武裝色霸氣](../Page/霸氣_\(ONE_PIECE\).md "wikilink")」**。是個受虐狂，會自虐，被他人攻擊會感到很舒服。
+    全身有著發達的筋肉，身上的護手和服裝有骰子的1到6點數字。他有著特殊的力量和防禦力，會使用**「[武裝色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")」**。是個受虐狂，會自虐，被他人攻擊會感到很舒服。
     劇中最後決戰與索隆交戰落敗，落敗後舒服到講不出話來。
 
 ##### 員工
 
   -
-    聲優：[坂本千夏](../Page/坂本千夏.md "wikilink")\[13\]（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）；[曹旭鵬](../Page/曹旭鵬.md "wikilink")（中國大陸）
+    聲優：[坂本千夏](../Page/坂本千夏.md "wikilink")\[13\]（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）；[曹旭鵬](https://zh.wikipedia.org/wiki/曹旭鵬 "wikilink")（中國大陸）
     為了替父母還債而在世界最大娛樂城市工作的少年，迪波的哥哥。
 
 <!-- end list -->
 
   -
-    聲優：[渡邊菜生子](../Page/渡邊菜生子.md "wikilink")\[14\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[佟心竹](../Page/佟心竹.md "wikilink")（中國大陸）
+    聲優：[渡邊菜生子](../Page/渡邊菜生子.md "wikilink")\[14\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[佟心竹](https://zh.wikipedia.org/wiki/佟心竹 "wikilink")（中國大陸）
     為了替父母還債而在世界最大娛樂城市工作的少女，利卡的妹妹。
 
 <!-- end list -->
@@ -227,7 +229,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[西野七瀨](../Page/西野七瀨.md "wikilink")【特別演出】\[16\]（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[西野七瀨](../Page/西野七瀨.md "wikilink")【特別演出】\[16\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     高爾夫球場的球童。
 
 <!-- end list -->
@@ -239,7 +241,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[武田玲奈](../Page/武田玲奈.md "wikilink")【特別演出】\[18\]（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[武田玲奈](../Page/武田玲奈.md "wikilink")【特別演出】\[18\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     「龜車大賽」開始前揮動旗幟的兔女郎。
 
 #### 「龜車大賽」選手
@@ -257,7 +259,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[古田新太](../Page/古田新太.md "wikilink")【特別演出】\[21\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[古田新太](https://zh.wikipedia.org/wiki/古田新太 "wikilink")【特別演出】\[21\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     「龜車大賽」編號1號賽車手，自稱"南方藍畜牧王"。龜車大賽中與魯夫駕駛的6號車、達米斯伯爵駕駛的2號車一路奔向終點，後來被魯夫超車導致無緣奪冠。
 
 <!-- end list -->
@@ -275,13 +277,13 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[成田凌](../Page/成田凌.md "wikilink")【特別演出】\[24\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[成田凌](https://zh.wikipedia.org/wiki/成田凌 "wikilink")【特別演出】\[24\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     與「龜車大賽」編號3號賽車手斯特萊特軍曹的搭檔的海軍。
 
 <!-- end list -->
 
   -
-    聲優：[間宮康弘](../Page/間宮康弘.md "wikilink")（日本）；[孟慶府](../Page/孟慶府.md "wikilink")（台灣）
+    聲優：[間宮康弘](https://zh.wikipedia.org/wiki/間宮康弘 "wikilink")（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）
     海軍軍曹。「龜車大賽」編號3號賽車手。打赤膊身形肥胖的鬍子男，右腹有著被灰熊攻擊留下的爪痕，有著喜歡直線前進的固執性格，自稱自己的字典沒有"轉彎"這兩個字。也因此在第一個彎道就淘汰出局。
 
 <!-- end list -->
@@ -299,7 +301,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 #### 長長海賊團
 
   -
-    聲優：[高木涉](../Page/高木涉.md "wikilink")\[26\]（日本）；[孟慶府](../Page/孟慶府.md "wikilink")（台灣）
+    聲優：[高木涉](../Page/高木涉.md "wikilink")\[26\]（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）
     長長海賊團船長，原本在「Gran Tesoro」輸得精光，想回來Gran
     Tesoro復仇，然後劇中一開始遇到草帽海賊團並打算襲擊他們，向魯夫襲擊反被打倒。
 
@@ -312,7 +314,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[乃村健次](../Page/乃村健次.md "wikilink")（日本）；[孟慶府](../Page/孟慶府.md "wikilink")（台灣）
+    聲優：[乃村健次](../Page/乃村健次.md "wikilink")（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）
     長長海賊團一員，長腳族。劇中一開始隨同船長襲擊草帽海賊團，向香吉士襲擊反被打倒。
 
 <!-- end list -->
@@ -324,20 +326,21 @@ Stella Show”。表示才是要成為這個世界的神的人。
 #### 其他人物
 
   -
-    聲優：[北大路欣也](../Page/北大路欣也.md "wikilink")【特別演出】\[29\]\[30\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[張遙函](../Page/張遙函.md "wikilink")（中國大陸）
+    聲優：[北大路欣也](../Page/北大路欣也.md "wikilink")【特別演出】\[29\]\[30\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[張遙函](https://zh.wikipedia.org/wiki/張遙函 "wikilink")（中國大陸）
     傳說中的賭徒，佛朗基表示雷茲曾是他小時候的偶像。在地下與魯夫相遇。他的真實身份其實是革命軍的重要人物，目的正是衝著「黃金大帝」泰佐羅來的。
 
 <!-- end list -->
 
   -
-    聲優：[小栗旬](../Page/小栗旬.md "wikilink")【特別演出】（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")〔電視版〕、[孟慶府](../Page/孟慶府.md "wikilink")〔劇場版〕（台灣）
+    聲優：[小栗旬](../Page/小栗旬.md "wikilink")【特別演出】（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")〔電視版〕、[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")〔劇場版〕（台灣）
     史上最凶殘最瘋狂的財寶獵人，曾經抓過娜美與卡莉娜。
-    於娜美的回憶中登場。也在**[特別篇 ～黃金之心～](../Page/#特別篇～黃金之心～.md "wikilink")**中登場。
+    於娜美的回憶中登場。也在**[特別篇
+    ～黃金之心～](https://zh.wikipedia.org/wiki/#特別篇～黃金之心～ "wikilink")**中登場。
 
 <!-- end list -->
 
   -
-    聲優：[三村勝和](../Page/三村勝和.md "wikilink")【友情出演】\[31\]（日本）；[孟慶府](../Page/孟慶府.md "wikilink")（台灣）
+    聲優：[三村勝和](https://zh.wikipedia.org/wiki/三村勝和 "wikilink")【友情出演】\[31\]（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）
     天龍人，有著藍色長鼻子，没事總喜歡搖頭晃腦的，說話常常帶著“咦喲喲”的尾音，前往「Gran Tesoro」向泰佐羅收取天上金。
 
 <!-- end list -->
@@ -370,10 +373,11 @@ Stella Show”。表示才是要成為這個世界的神的人。
 
 ### 工作人員
 
-  - 原作：[尾田榮一郎](../Page/尾田榮一郎.md "wikilink")（集英社 週刊「少年Jump」連載）
+  - 原作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")（集英社
+    週刊「少年Jump」連載）
   - 監督：宮元宏彰（電視動畫「ONE PIECE」三代目總監督）
   - 劇本：黑岩勉
-  - 音樂：[林友樹](../Page/林友樹.md "wikilink")
+  - 音樂：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")
   - 劇中曲：小島麻由美
   - 人物設計・總作画監督：[佐藤雅將](../Page/佐藤雅將.md "wikilink")
   - 美術監督：小倉一男
@@ -383,7 +387,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
   - 撮影監督：和田尚之
   - 製作担当：稲垣哲雄
   - 制作協力：[東映](../Page/東映.md "wikilink")
-  - 制作：[東映動畫](../Page/東映動畫.md "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")
+  - 制作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")
 
 ### 配音
 
@@ -416,7 +420,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/賓什莫克·香吉士.md" title="wikilink">香吉士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 </tr>
 <tr class="odd">
@@ -433,11 +437,11 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">布魯克</a></p></td>
-<td><p><a href="../Page/長_(日本配音員).md" title="wikilink">長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>基爾德·泰佐羅</p></td>
-<td><p><a href="../Page/山路和弘.md" title="wikilink">山路和弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山路和弘" title="wikilink">山路和弘</a></p></td>
 </tr>
 <tr class="even">
 <td><p>卡莉娜</p></td>
@@ -460,24 +464,24 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <td><p><a href="../Page/北大路欣也.md" title="wikilink">北大路欣也</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/革命軍_(ONE_PIECE)#參謀總長.md" title="wikilink">薩波</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#參謀總長" title="wikilink">薩波</a></p></td>
 <td><p><a href="../Page/古谷徹.md" title="wikilink">古谷徹</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/革命軍_(ONE_PIECE)#可亞拉.md" title="wikilink">可亞拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#可亞拉" title="wikilink">可亞拉</a></p></td>
 <td><p><a href="../Page/雪野五月.md" title="wikilink">雪野五月</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/世界政府直屬秘密間諜機關#羅布·路基.md" title="wikilink">路基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#羅布·路基" title="wikilink">路基</a></p></td>
 <td><p><a href="../Page/關智一.md" title="wikilink">關智一</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/世界政府直屬秘密間諜機關#斯帕達姆.md" title="wikilink">斯帕達姆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#斯帕達姆" title="wikilink">斯帕達姆</a></p></td>
 <td><p><a href="../Page/小野坂昌也.md" title="wikilink">小野坂昌也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/盃_(ONE_PIECE).md" title="wikilink">赤犬</a></p></td>
-<td><p><a href="../Page/立木文彥.md" title="wikilink">立木文彥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/立木文彥" title="wikilink">立木文彥</a></p></td>
 </tr>
 <tr class="even">
 <td><p>泰佐羅（童年）</p></td>
@@ -513,7 +517,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p>斯特萊特中士</p></td>
-<td><p><a href="../Page/間宮康弘.md" title="wikilink">間宮康弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/間宮康弘" title="wikilink">間宮康弘</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>瓦傑</p></td>
@@ -537,7 +541,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p>肯特比夫二世</p></td>
-<td><p><a href="../Page/古田新太.md" title="wikilink">古田新太</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古田新太" title="wikilink">古田新太</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>老鷹</p></td>
@@ -553,7 +557,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p>卡布</p></td>
-<td><p><a href="../Page/成田凌.md" title="wikilink">成田凌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成田凌" title="wikilink">成田凌</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>齊露可</p></td>
@@ -585,7 +589,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p>卡邁爾聖</p></td>
-<td><p><a href="../Page/三村勝和.md" title="wikilink">三村勝和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三村勝和" title="wikilink">三村勝和</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>馬德·托雷傑</p></td>
@@ -597,10 +601,11 @@ Stella Show”。表示才是要成為這個世界的神的人。
 ## 音樂
 
   - 主題曲「」
-    作詞&作曲：、主唱：[GLIM SPANKY](../Page/GLIM_SPANKY.md "wikilink")
+    作詞&作曲：、主唱：[GLIM
+    SPANKY](https://zh.wikipedia.org/wiki/GLIM_SPANKY "wikilink")
     原作者・尾田栄一郎的推薦主題曲。
   - 劇中曲「」
-    作詞&作曲：[小島麻由美](../Page/小島麻由美.md "wikilink")、主唱：[山路和弘](../Page/山路和弘.md "wikilink")（泰佐羅）
+    作詞&作曲：[小島麻由美](https://zh.wikipedia.org/wiki/小島麻由美 "wikilink")、主唱：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")（泰佐羅）
     & [滿島光](../Page/滿島光.md "wikilink")（卡莉娜）
 
 <!-- end list -->
@@ -687,13 +692,13 @@ Mine）在新世界繼續冒險旅程的草帽海賊團，乘著巴特洛馬的�
 ### 黃金之心
 
 **《ONE PIECE 特別篇 ～黃金之心～》**（）是電視動畫《[ONE
-PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》的特別節目，於2016年7月16日在日本[富士電視台播出](../Page/富士電視台.md "wikilink")。
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2016年7月16日在日本[富士電視台播出](../Page/富士電視台.md "wikilink")。
 
 該2小時特別節目為為電影版《[ONE PIECE FILM
 GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》公開記念特別企畫，為電影版故事的前傳。為「週六PREMIUM」時段播出的《[ONE
-PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第八彈。
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第八彈。
 
-本作主題曲為「Destiny」，由同樣擔任電視動畫版第二首片尾曲的[大槻真希所擔任作詞](../Page/大槻真希.md "wikilink")、作曲及演唱，編曲為大槻隆。插入曲為「」由飾演本作新角色的奧爾嘉聲優[濱邊美波演唱](../Page/濱邊美波.md "wikilink")。特別來賓邀請到知名[俳優的](../Page/俳優.md "wikilink")[小栗旬出演](../Page/小栗旬.md "wikilink")，飾演本作反派史上最凶殘最瘋狂的尋寶獵人。
+本作主題曲為「Destiny」，由同樣擔任電視動畫版第二首片尾曲的[大槻真希所擔任作詞](../Page/大槻真希.md "wikilink")、作曲及演唱，編曲為大槻隆。插入曲為「」由飾演本作新角色的奧爾嘉聲優[濱邊美波演唱](../Page/濱邊美波.md "wikilink")。特別來賓邀請到知名[俳優的](https://zh.wikipedia.org/wiki/俳優 "wikilink")[小栗旬出演](../Page/小栗旬.md "wikilink")，飾演本作反派史上最凶殘最瘋狂的尋寶獵人。
 
 故事圍繞一個神秘寶藏展開，講述了傳聞知道尋寶方法的少女奧爾加以及追蹤少女的尋寶獵人瑪德·托雷加和草帽海賊團的寶藏爭奪戰。相傳「純金」是足以買下整個世界的神秘寶藏。在失落的傳說中的島嶼阿爾凱米出生的少女米斯基納·歐爾嘉因為知道獲得純金的方法，而被CP0抓了起來，準備以軍艦將她押送到馬力喬亞。就在這時受雇於基爾德·泰佐羅的寶藏獵人馬德·托雷傑突然對軍艦發動攻擊。趁亂逃出的歐爾嘉遇見了草帽海賊團行人，並答應帶他們前往純金的所在地。
 
@@ -701,13 +706,13 @@ PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》電視特別篇第八彈。
     聲優：[小栗旬](../Page/小栗旬.md "wikilink")\[37\]（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")（台灣）
     托雷傑海賊團的領袖。寶藏獵人，史上最凶殘最瘋狂的尋寶者。有著張揚的紅髮和纏滿全身的鎖鏈的特徵。笑聲很有特點，「沙拉拉拉拉」～（jarararara）。
     實力超群，**超人系「[鎖鍊果實](../Page/惡魔果實.md "wikilink")」**（
-    ）的能力者\[38\]。體內可以自由伸出鎖鏈的「[鎖鏈人](../Page/鎖.md "wikilink")」。也在《[ONE
+    ）的能力者\[38\]。體內可以自由伸出鎖鏈的「[鎖鏈人](https://zh.wikipedia.org/wiki/鎖 "wikilink")」。也在《[ONE
     PIECE FILM
     GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》中登場，曾經抓過娜美與卡莉娜。
     為得到寶藏「PURE
     GOLD」而追捕著知道方法與地點的少女奧爾加。被泰佐羅僱傭來尋找**「純金」**，曾對田中先生表示自己相當喜歡尋寶時過程的刺激，本身對寶藏沒什麼興趣。在本劇中，與魯夫在燈籠大人體內的「阿爾凱米」展開激戰，戰鬥中認為夥伴只不就是利用了就丟的東西，同時引起魯夫的憤怒被三檔象槍擊敗。最後與夥伴生存在燈籠大神的體內。
   -
-    聲優：[水原希子](../Page/水原希子.md "wikilink")\[39\]（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[水原希子](../Page/水原希子.md "wikilink")\[39\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     托雷傑海賊團幹部。馬德·托雷傑的部下。酒鬼，喜愛珠寶，習慣首飾佩戴在身上，是個神射手。武器是能夠配置了小型「原動石」，是傳說中能與古代兵器匹敵的礦物，曾在劇場版Z當中登場的特殊弓箭。
     在本劇中，最後在「阿爾凱米」與索隆對戰，後被索隆擊敗。最後與夥伴生存在燈籠大神的體內。
 

@@ -3,11 +3,12 @@
 ## 個人經歷
 
 San
-E出生於仁川廣域市。中學時期移居到美國喬治亞州亞特蘭大。現就讀於[佐治亞大學](../Page/佐治亞大學.md "wikilink")(休學)（UGA）。
+E出生於仁川廣域市。中學時期移居到美國喬治亞州亞特蘭大。現就讀於[佐治亞大學](https://zh.wikipedia.org/wiki/佐治亞大學 "wikilink")(休學)（UGA）。
 
 ### 2008年
 
-於[Verbal Jint](../Page/Verbal_Jint.md "wikilink")《污名》feat
+於[Verbal
+Jint](https://zh.wikipedia.org/wiki/Verbal_Jint "wikilink")《污名》feat
 一曲出道，2010年6月與[JYP娱乐簽約成為旗下一員](../Page/JYP娛樂.md "wikilink")。
 
 ### 2013年：離開公司、加入新公司
@@ -15,15 +16,17 @@ E出生於仁川廣域市。中學時期移居到美國喬治亞州亞特蘭大�
 San
 E希望能成就個人的風格而離開[JYP娱乐](../Page/JYP娛樂.md "wikilink")，[JYP娱乐也讓他無條件離開公司](../Page/JYP娛樂.md "wikilink")。San
 E並在同年與[Brand New
-Music簽約成為旗下藝員](../Page/Brand_New_Music.md "wikilink")，而該合同則從2013年維持至2018年12月6日。
+Music簽約成為旗下藝員](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")，而該合同則從2013年維持至2018年12月6日。
 
 ### 2018年：離開公司
 
 2018年， San E因歧視女權、公然爆粗口等爭議與Brand New Music 解約。 經紀公司 [Brand New
-Music](../Page/Brand_New_Music.md "wikilink") 於2018年12月6日發表官方聲明宣布與 San E
-解約。 [Brand New Music](../Page/Brand_New_Music.md "wikilink")
+Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")
+於2018年12月6日發表官方聲明宣布與 San E 解約。 [Brand New
+Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")
 6日發表官方聲明表示：「本公司已與旗下藝人 San E 正式解約，我們在與 San E
-經過討論之後，雙方決定中止合約，在此感謝這段期間陪伴一起走過的 San E 以及各位粉絲們。」
+經過討論之後，雙方決定中止合約，在此感謝這段期間陪伴一起走過的 San E
+以及各位粉絲們。」
 
 ## 音樂作品
 
@@ -55,7 +58,8 @@ Music](../Page/Brand_New_Music.md "wikilink") 於2018年12月6日發表官方聲
     night)*
   - 2014年1月14日 - Digital Single *Brand New Year Vol.2*
   - 2014年6月12日 - Digital Single *San E,
-    [Raina](../Page/吳慧潾.md "wikilink") Project single 〈한여름밤의 꿀〉*
+    [Raina](https://zh.wikipedia.org/wiki/吳慧潾 "wikilink") Project single
+    〈한여름밤의 꿀〉*
   - 2014年8月4日 - Digital Single *Body Language*
   - 2014年12月5日 - Digital Single *Brand New Music Project Single 'Brand
     New Year Vol.3 - Brand New Day*
@@ -67,53 +71,56 @@ Music](../Page/Brand_New_Music.md "wikilink") 於2018年12月6日發表官方聲
   - 2016年5月18日 - Digital Single *被滿足的愛 (feat.
     [衛詩](../Page/衛詩.md "wikilink")) (Being Told)*
   - 2017年5月23日 - Digital Single *모해 (feat.
-    [臉紅的思春期](../Page/臉紅的思春期.md "wikilink"))
+    [臉紅的思春期](https://zh.wikipedia.org/wiki/臉紅的思春期 "wikilink"))
     (MoHae)*\[4\]
 
 ## 影视作品
 
 ### 電視劇
 
-  - 2016年：[tvN](../Page/tvN.md "wikilink")《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》飾演
+  - 2016年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》飾演
     San E
 
 ### 電影
 
   - 2018年:《[Live Again, Love
-    Again](../Page/Live_Again,_Love_Again\(韓國電影\).md "wikilink")》\[5\]
+    Again](https://zh.wikipedia.org/wiki/Live_Again,_Love_Again\(韓國電影\) "wikilink")》\[5\]
 
 ## 主持
 
   - Mnet《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》
   - Mnet《Unpretty Rap star2》
-  - JTBC《[嘻哈民族](../Page/嘻哈民族.md "wikilink")》
+  - JTBC《[嘻哈民族](https://zh.wikipedia.org/wiki/嘻哈民族 "wikilink")》
 
 ## 參演節目
 
   - 2014年7月2日 MBC《[黃金漁場 Radio
-    Star](../Page/黃金漁場_Radio_Star.md "wikilink")》
+    Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》
   - 2014年7月7日
     KBS《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》(與[Raina](../Page/Raina.md "wikilink"))
-  - 2014年8月2日 KBS《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》
+  - 2014年8月2日
+    KBS《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - 2014年8月7日 Mnet《音談悖論》
-  - 2014年11月14日 KBS《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》
+  - 2014年11月14日
+    KBS《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - Mnet《[Show Me The Money
-    3](../Page/Show_Me_The_Money_3.md "wikilink")》(與 Swings 屬同一制作人組)
+    3](https://zh.wikipedia.org/wiki/Show_Me_The_Money_3 "wikilink")》(與
+    Swings 屬同一制作人組)
   - Mnet《[Show Me The Money
-    4](../Page/Show_Me_The_Money_4.md "wikilink")》(與 VerbalJint 組成
-    Brandnew Music 制作組)\[6\]
-  - 2015年4月14日 Mnet《[四種秀](../Page/四種秀.md "wikilink")》
+    4](https://zh.wikipedia.org/wiki/Show_Me_The_Money_4 "wikilink")》(與
+    VerbalJint 組成 Brandnew Music 制作組)\[6\]
+  - 2015年4月14日 Mnet《[四種秀](https://zh.wikipedia.org/wiki/四種秀 "wikilink")》
   - 2015年5月9日,2015年5月16日 MBC《[My Little
-    Television](../Page/My_Little_Television.md "wikilink")》
+    Television](https://zh.wikipedia.org/wiki/My_Little_Television "wikilink")》
   - 2015年5月12日,2015年5月19日,2015年6月2日
-    JTBC《[我去上學啦](../Page/我去上學啦.md "wikilink")》
+    JTBC《[我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦 "wikilink")》
   - 2015年5月26日 JTBC《魔女狩獵》
   - 2015年6月21日 SBS《[Running Man](../Page/Running_Man.md "wikilink")》
   - 2015年7月25日 SBS《[同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")》
   - 2015年9月28日 MBC《偉大的遺產》
   - 2016年1月25日 MBC《Rap Star的誕生》
   - 2017年10月28日－2018年2月10日 KBS《[The
-    Unit](../Page/The_Unit.md "wikilink")》\[7\]
+    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》\[7\]
   - 2018年2月21日 MBC《[黄金渔场 Radio
     Star](../Page/黄金渔场_Radio_Star.md "wikilink")》\[8\]
 

@@ -62,12 +62,12 @@ About.com\[37\], and NYC & Company\[38\]。
 
 1.  Yu, Samantha. ["Better Than the Yule Log? The World's Holiday
     Windows At You Fingertips"](http://www.refinery29.com/windowswear),
-    "[Refinery29](../Page/Refinery29.md "wikilink")", 10 December 2012.
-    Retrieved 4 June 2013.
+    "[Refinery29](https://zh.wikipedia.org/wiki/Refinery29 "wikilink")",
+    10 December 2012. Retrieved 4 June 2013.
 2.  Young, Vicki.
     [1](http://wwd.com/retail-news/retail-features/lord-taylor-christmas-windows-a-look-over-the-years-10298592/),
-    "[WWD](../Page/WWD.md "wikilink")", 23 December 2015. Retrieved 9
-    February 2016.
+    "[WWD](https://zh.wikipedia.org/wiki/WWD "wikilink")", 23 December
+    2015. Retrieved 9 February 2016.
 3.  Talwar, Pia.["WindowsWear Receives a Friends and Family Round of
     Financing During Their One-Year
     Anniversary"](http://www.fashinvest.com/windowswear-receives-friends-family-financing-one-year-anniversary/)
@@ -97,14 +97,15 @@ About.com\[37\], and NYC & Company\[38\]。
 16. Université du Québec à Montréal, Bibliomode
 17. Young, Vicki.
     [7](http://wwd.com/fashion-news/fashion-features/award-winners-top-window-displays-2015-10340389/),
-    "[WWD](../Page/WWD.md "wikilink")", 5 February 2016. Retrieved on 9
-    February 2016.
+    "[WWD](https://zh.wikipedia.org/wiki/WWD "wikilink")", 5 February
+    2016. Retrieved on 9 February 2016.
 18.
 19. Levinson, Lauren. [“Exclusive: New WindowsWear Site Showcases
     Fashion Windows in
     Real-Time”](http://www.elle.com/news/fashion-style/windowswear-website-launch-holiday-windows?click=news),
-    “[Elle (magazine)](../Page/Elle_\(magazine\).md "wikilink")”, 19
-    November 2012. Retrieved 3 June 2013.
+    “[Elle
+    (magazine)](https://zh.wikipedia.org/wiki/Elle_\(magazine\) "wikilink")”,
+    19 November 2012. Retrieved 3 June 2013.
 20. “Un tour hecho a la medida para los amantes de la moda en NY”,2014.
     Retrieved 15 July 2015
 21. Julie Steinberg
@@ -138,12 +139,14 @@ About.com\[37\], and NYC & Company\[38\]。
     Retrieved on 15 July 2015
 29. Denise, Cheryl.
     [“WindowsWear”](http://contributors.luckymag.com/post/windowswear),
-    “[Lucky (magazine)](../Page/Lucky_\(magazine\).md "wikilink")”, 02
-    April 2013. Retrieved 15 July 2015
+    “[Lucky
+    (magazine)](https://zh.wikipedia.org/wiki/Lucky_\(magazine\) "wikilink")”,
+    02 April 2013. Retrieved 15 July 2015
 30. Young, Vicki M. ["Holiday Selling Gets an Early
     Start"](http://www.wwd.com/retail-news/marketing-consumer-behavior/holiday-selling-has-begun-7261670?src=search_links),
-    "[Women's Wear Daily](../Page/Women's_Wear_Daily.md "wikilink")", 05
-    November 2013. Retrieved 15 July 2015.
+    "[Women's Wear
+    Daily](https://zh.wikipedia.org/wiki/Women's_Wear_Daily "wikilink")",
+    05 November 2013. Retrieved 15 July 2015.
 31. Daswani, Davita ["Tech-savvy brands stay one step ahead of the
     e-tail
     trend"](http://www.scmp.com/magazines/style/article/1435671/tech-savvy-brands-stay-one-step-ahead-e-tail-trend?src=search_links).
@@ -152,20 +155,22 @@ About.com\[37\], and NYC & Company\[38\]。
 33. Mamiaora. [9](http://lohas.onlylady.com/2015/0130/3635085.shtml) 25
     Febuaray 2015. Retrieved on 15 July 2015
 34. ["WindowsWear"](http://www.timeout.com/newyork/things-to-do/windowswear)
-    "[Time Out New York](../Page/Time_Out_New_York.md "wikilink")", 05
-    March 2014. Retrieved 31 March 2014.
+    "[Time Out New
+    York](https://zh.wikipedia.org/wiki/Time_Out_New_York "wikilink")",
+    05 March 2014. Retrieved 31 March 2014.
 35. ["The Secret to Telling Your Brand's Story With Immersive Retail
     Design"](http://www.shopify.com/blog/12629437-the-secret-to-telling-your-brands-story-with-immersive-retail-design#axzz2xSr7rDun)
-    "[Shopify](../Page/Shopify.md "wikilink")" 30 September 2013.
-    Retrieved 5 January 2013
+    "[Shopify](https://zh.wikipedia.org/wiki/Shopify "wikilink")" 30
+    September 2013. Retrieved 5 January 2013
 36. ["WindowsWear"](http://www.lovethiscity.com/us/new-york/friends/fashion-window-walking-tour)
-    , "[MasterCard](../Page/MasterCard.md "wikilink")", 6 March 2014.
-    Retrieved 15 March 2014
+    ,
+    "[MasterCard](https://zh.wikipedia.org/wiki/MasterCard "wikilink")",
+    6 March 2014. Retrieved 15 March 2014
 37. ["WindowsWear Walking Tour: Explore New York City's beautiful store
     windows on this fast-paced
     tour"](http://gonyc.about.com/od/shopping/fl/WindowsWear-Walking-Tour.htm),
-    "[About.com](../Page/About.com.md "wikilink")", 11 April 2014.
-    Retrieved 11 April 2014
+    "[About.com](https://zh.wikipedia.org/wiki/About.com "wikilink")",
+    11 April 2014. Retrieved 11 April 2014
 38. ["WindowsWear"](http://www.nycgo.com/venues/windowswear) , "[NYC &
-    Company](../Page/NYC_&_Company.md "wikilink")", 1 February 2014.
-    Retrieved 21 March 2014
+    Company](https://zh.wikipedia.org/wiki/NYC_&_Company "wikilink")", 1
+    February 2014. Retrieved 21 March 2014

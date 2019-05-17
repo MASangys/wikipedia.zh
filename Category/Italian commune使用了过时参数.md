@@ -1,5 +1,5 @@
 此分类来自[Template:Infobox Italian
-comune](../Page/Template:Infobox_Italian_comune.md "wikilink")，当使用过时参数时会被添加。It
+comune](https://zh.wikipedia.org/wiki/Template:Infobox_Italian_comune "wikilink")，当使用过时参数时会被添加。It
 can be populated at any time by reversion to older articles, cut and
 paste move from history and similar events, by the deprecation of
 parameters, or by the importation of untranslated infoboxes from the

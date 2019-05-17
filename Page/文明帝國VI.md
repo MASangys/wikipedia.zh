@@ -1,7 +1,8 @@
 是由[Firaxis
-Games开发的](../Page/Firaxis_Games.md "wikilink")[回合策略游戏](../Page/回合策略游戏.md "wikilink")，是[文明系列的最新作品](../Page/文明系列.md "wikilink")，同时是庆祝该系列25周年的作品\[1\]。游戏对应[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[Mac OS
-X及](../Page/Mac_OS_X.md "wikilink")[Linux平台](../Page/Linux.md "wikilink")，于2016年10月21日在全球发行。2017年12月21日登陆iOS平台（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\]。
+Games开发的](../Page/Firaxis_Games.md "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")，是[文明系列的最新作品](../Page/文明系列.md "wikilink")，同时是庆祝该系列25周年的作品\[1\]。游戏对应[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
+OS
+X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux平台](../Page/Linux.md "wikilink")，于2016年10月21日在全球发行。2017年12月21日登陆iOS平台（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")\[2\]。
 
 ## 游戏概况
 
@@ -35,34 +36,34 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/中国.md" title="wikilink">中国</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a></p></td>
 <td><p><a href="../Page/秦始皇.md" title="wikilink">秦始皇</a></p></td>
 <td><p>始皇帝</p></td>
-<td><p><a href="../Page/中国朝代#%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E6%9C%9D%E4%BB%A3%E5%88%97%E8%A1%A8.md" title="wikilink">改朝换代</a></p></td>
-<td><p><a href="../Page/虎蹲炮.md" title="wikilink">虎蹲炮</a></p></td>
-<td><p><a href="../Page/万里长城.md" title="wikilink">长城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中国朝代#%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E6%9C%9D%E4%BB%A3%E5%88%97%E8%A1%A8" title="wikilink">改朝换代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虎蹲炮" title="wikilink">虎蹲炮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/万里长城" title="wikilink">长城</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/美国.md" title="wikilink">美国</a></p></td>
 <td><p><a href="../Page/西奥多·罗斯福.md" title="wikilink">狄奥多·罗斯福</a></p></td>
 <td></td>
 <td><p><a href="../Page/美国开国元勋.md" title="wikilink">开国元勋</a></p></td>
-<td><p><a href="../Page/P-51.md" title="wikilink">野马战机</a></p></td>
-<td><p><a href="../Page/电影工作室.md" title="wikilink">电影工作室</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/P-51" title="wikilink">野马战机</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/电影工作室" title="wikilink">电影工作室</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/英国.md" title="wikilink">英国</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/英国" title="wikilink">英国</a></p></td>
 <td><p><a href="../Page/维多利亚_(英国君主).md" title="wikilink">维多利亚</a></p></td>
-<td><p><a href="../Page/不列顛治世.md" title="wikilink">英國強權下的和平</a></p></td>
-<td><p><a href="../Page/工業革命.md" title="wikilink">世界的工坊</a></p></td>
-<td><p><a href="../Page/海盗.md" title="wikilink">海狗</a>、<a href="../Page/红衫军.md" title="wikilink">红衫军</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不列顛治世" title="wikilink">英國強權下的和平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/工業革命" title="wikilink">世界的工坊</a></p></td>
+<td><p><a href="../Page/海盗.md" title="wikilink">海狗</a>、<a href="https://zh.wikipedia.org/wiki/红衫军" title="wikilink">红衫军</a></p></td>
 <td><p><a href="../Page/英國皇家海軍.md" title="wikilink">皇家海军船坞</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/法国.md" title="wikilink">法国</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法国" title="wikilink">法国</a></p></td>
 <td><p><a href="../Page/凯瑟琳·德·美第奇.md" title="wikilink">凯萨琳·德·美第奇</a></p></td>
 <td><p>凯瑟琳的機動艦隊</p></td>
-<td><p><a href="../Page/巡游.md" title="wikilink">壮游</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巡游" title="wikilink">壮游</a></p></td>
 <td><p><a href="../Page/老近卫军.md" title="wikilink">皇帝近卫队</a></p></td>
 <td><p><a href="../Page/法式城堡.md" title="wikilink">法国城堡</a></p></td>
 </tr>
@@ -70,36 +71,36 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p><a href="../Page/巴西.md" title="wikilink">巴西</a></p></td>
 <td><p><a href="../Page/佩德罗二世_(巴西).md" title="wikilink">佩德罗二世</a></p></td>
 <td><p>宽宏大量</p></td>
-<td><p><a href="../Page/亞馬遜.md" title="wikilink">亞馬遜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞馬遜" title="wikilink">亞馬遜</a></p></td>
 <td><p><a href="../Page/米勒斯吉拿斯號航空母艦.md" title="wikilink">米纳斯吉拉斯級戰艦</a></p></td>
-<td><p><a href="../Page/狂欢节.md" title="wikilink">狂欢节区</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/狂欢节" title="wikilink">狂欢节区</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/埃及.md" title="wikilink">埃及</a></p></td>
-<td><p><a href="../Page/克里奥帕特拉七世.md" title="wikilink">克里奥帕特拉七世</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克里奥帕特拉七世" title="wikilink">克里奥帕特拉七世</a></p></td>
 <td><p>地中海新娘</p></td>
-<td><p><a href="../Page/尼羅河.md" title="wikilink">古尼羅河</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尼羅河" title="wikilink">古尼羅河</a></p></td>
 <td></td>
-<td><p><a href="../Page/狮身人面像.md" title="wikilink">狮身人面像</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/狮身人面像" title="wikilink">狮身人面像</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/阿兹特克.md" title="wikilink">阿兹特克</a></p></td>
-<td><p><a href="../Page/蒙特祖马一世.md" title="wikilink">蒙特祖马一世</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿兹特克" title="wikilink">阿兹特克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒙特祖马一世" title="wikilink">蒙特祖马一世</a></p></td>
 <td><p>四方献礼</p></td>
 <td><p><a href="../Page/阿茲特克太陽曆.md" title="wikilink">阿兹特克太阳纪</a></p></td>
-<td><p><a href="../Page/鵰戰士.md" title="wikilink">雄鹰战士</a></p></td>
-<td><p><a href="../Page/蹴球场.md" title="wikilink">蹴球场</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鵰戰士" title="wikilink">雄鹰战士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蹴球场" title="wikilink">蹴球场</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
-<td><p><a href="../Page/北條時宗.md" title="wikilink">北条时宗</a></p></td>
-<td><p><a href="../Page/神风_(台风).md" title="wikilink">神风</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北條時宗" title="wikilink">北条时宗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神风_(台风)" title="wikilink">神风</a></p></td>
 <td><p><a href="../Page/明治维新.md" title="wikilink">明治维新</a></p></td>
-<td><p><a href="../Page/日本武士.md" title="wikilink">日本武士</a></p></td>
-<td><p><a href="../Page/電子專業製造服務.md" title="wikilink">电子製造厂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本武士" title="wikilink">日本武士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電子專業製造服務" title="wikilink">电子製造厂</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/斯基泰.md" title="wikilink">斯基泰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斯基泰" title="wikilink">斯基泰</a></p></td>
 <td></td>
 <td><p>居鲁士的终结者</p></td>
 <td><p>大草原上的人</p></td>
@@ -107,7 +108,7 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p>坟墩</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/德意志人.md" title="wikilink">德国</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德意志人" title="wikilink">德国</a></p></td>
 <td><p><a href="../Page/腓特烈一世_(神圣罗马帝国).md" title="wikilink">腓特烈一世</a></p></td>
 <td><p>神圣罗马帝国皇帝</p></td>
 <td><p><a href="../Page/帝国自由城市.md" title="wikilink">帝国自由城市</a></p></td>
@@ -124,11 +125,11 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 </tr>
 <tr class="even">
 <td><p><a href="../Page/希腊.md" title="wikilink">希腊</a></p></td>
-<td><p><a href="../Page/伯里克里斯.md" title="wikilink">伯里克里斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伯里克里斯" title="wikilink">伯里克里斯</a></p></td>
 <td><p>被荣耀包围</p></td>
 <td><p><a href="../Page/理想国.md" title="wikilink">柏拉图的理想国</a></p></td>
 <td><p><a href="../Page/希臘重裝步兵.md" title="wikilink">希臘重裝步兵</a></p></td>
-<td><p><a href="../Page/衛城.md" title="wikilink">卫城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛城" title="wikilink">卫城</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -155,7 +156,7 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p>传教团</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/阿拉伯.md" title="wikilink">阿拉伯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿拉伯" title="wikilink">阿拉伯</a></p></td>
 <td><p><a href="../Page/萨拉丁.md" title="wikilink">萨拉丁</a></p></td>
 <td><p>正义的信仰</p></td>
 <td><p>最后的预言家</p></td>
@@ -167,12 +168,12 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p><a href="../Page/无情者哈拉尔.md" title="wikilink">无情者哈拉尔</a></p></td>
 <td><p>北海惊雷</p></td>
 <td><p>北欧单桅商船</p></td>
-<td><p><a href="../Page/维京长船.md" title="wikilink">长船</a>、<a href="../Page/狂戰士.md" title="wikilink">狂暴武士</a></p></td>
+<td><p><a href="../Page/维京长船.md" title="wikilink">长船</a>、<a href="https://zh.wikipedia.org/wiki/狂戰士" title="wikilink">狂暴武士</a></p></td>
 <td><p>木条教堂</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/罗马.md" title="wikilink">罗马</a></p></td>
-<td><p><a href="../Page/图拉真.md" title="wikilink">图拉真</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/图拉真" title="wikilink">图拉真</a></p></td>
 <td><p>图拉真圆柱</p></td>
 <td><p>条条大路通罗马</p></td>
 <td><p><a href="../Page/罗马军团.md" title="wikilink">军团</a></p></td>
@@ -180,30 +181,30 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/印度.md" title="wikilink">印度</a></p></td>
-<td><p><a href="../Page/甘地.md" title="wikilink">甘地</a></p></td>
-<td><p><a href="../Page/非暴力不合作运动.md" title="wikilink">非暴力不合作</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甘地" title="wikilink">甘地</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/非暴力不合作运动" title="wikilink">非暴力不合作</a></p></td>
 <td><p><a href="../Page/菩提达摩.md" title="wikilink">达摩</a></p></td>
 <td><p><a href="../Page/戰象.md" title="wikilink">战象</a></p></td>
 <td><p>梯井</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/苏美尔.md" title="wikilink">苏美尔</a></p></td>
-<td><p><a href="../Page/吉尔伽美什.md" title="wikilink">吉尔伽美什</a></p></td>
-<td><p><a href="../Page/恩奇杜.md" title="wikilink">恩奇都奇遇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉尔伽美什" title="wikilink">吉尔伽美什</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/恩奇杜" title="wikilink">恩奇都奇遇</a></p></td>
 <td><p>史前任务</p></td>
 <td><p>战车</p></td>
 <td><p>金字形神塔</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/波兰.md" title="wikilink">波兰</a></p></td>
-<td><p><a href="../Page/雅德维加.md" title="wikilink">雅德维加</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波兰" title="wikilink">波兰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雅德维加" title="wikilink">雅德维加</a></p></td>
 <td><p>立陶宛邦联</p></td>
 <td><p>贵族民主制</p></td>
 <td></td>
 <td><p>纺织会馆</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/澳洲.md" title="wikilink">澳洲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澳洲" title="wikilink">澳洲</a></p></td>
 <td><p><a href="../Page/約翰·柯廷.md" title="wikilink">约翰·科廷</a></p></td>
 <td><p>文明之城邦</p></td>
 <td><p>遥远的南方大陆</p></td>
@@ -212,7 +213,7 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/波斯.md" title="wikilink">波斯</a></p></td>
-<td><p><a href="../Page/居鲁士一世.md" title="wikilink">居鲁士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/居鲁士一世" title="wikilink">居鲁士</a></p></td>
 <td><p>巴比伦的陷落</p></td>
 <td><p>行省总督</p></td>
 <td><p><a href="../Page/长生军_(波斯帝国).md" title="wikilink">长生军</a></p></td>
@@ -240,10 +241,10 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p>王室寺院</p></td>
 <td><p>人工大湖</p></td>
 <td><p>高棉战象</p></td>
-<td><p><a href="../Page/十二塔庙.md" title="wikilink">高棉佛堂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/十二塔庙" title="wikilink">高棉佛堂</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/印尼.md" title="wikilink">印尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a></p></td>
 <td></td>
 <td><p>三界的崇高女神</p></td>
 <td><p>伟大的马来世界</p></td>
@@ -268,24 +269,24 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/克里族.md" title="wikilink">克里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克里族" title="wikilink">克里</a></p></td>
 <td></td>
-<td><p><a href="../Page/最惠國待遇.md" title="wikilink">最惠條款</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最惠國待遇" title="wikilink">最惠條款</a></p></td>
 <td></td>
 <td><p>奧克蒂奇</p></td>
 <td><p>棚屋</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/荷蘭.md" title="wikilink">荷蘭</a></p></td>
-<td><p><a href="../Page/威廉明娜_(荷蘭).md" title="wikilink">威廉明娜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荷蘭" title="wikilink">荷蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/威廉明娜_(荷蘭)" title="wikilink">威廉明娜</a></p></td>
 <td><p>橘色電台</p></td>
 <td><p>巨河地帶</p></td>
 <td><p><a href="../Page/七省號戰艦.md" title="wikilink">七省號戰艦</a></p></td>
-<td><p><a href="../Page/围垦.md" title="wikilink">圍墾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/围垦" title="wikilink">圍墾</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/喬治亞.md" title="wikilink">喬治亞</a></p></td>
-<td><p><a href="../Page/塔瑪麗.md" title="wikilink">塔瑪麗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喬治亞" title="wikilink">喬治亞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塔瑪麗" title="wikilink">塔瑪麗</a></p></td>
 <td><p>世界、王國與信仰之榮光</p></td>
 <td><p><a href="../Page/團結就是力量_(格言).md" title="wikilink">團結就是力量</a></p></td>
 <td><p><a href="../Page/赫雷蘇維季.md" title="wikilink">赫雷蘇維季戰士</a></p></td>
@@ -294,29 +295,29 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <tr class="even">
 <td><p><a href="../Page/印度.md" title="wikilink">印度</a></p></td>
 <td><p><a href="../Page/旃陀罗笈多_(孔雀王朝).md" title="wikilink">旃陀羅笈多</a></p></td>
-<td><p><a href="../Page/政事论.md" title="wikilink">政事論</a></p></td>
-<td><p><a href="../Page/达摩.md" title="wikilink">达摩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/政事论" title="wikilink">政事論</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/达摩" title="wikilink">达摩</a></p></td>
 <td><p><a href="../Page/戰象.md" title="wikilink">战象</a></p></td>
 <td><p>梯井</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/韓國.md" title="wikilink">韓國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a></p></td>
 <td><p><a href="../Page/善德女王.md" title="wikilink">善德女王</a></p></td>
 <td><p><a href="../Page/花郎.md" title="wikilink">花郎</a></p></td>
 <td><p><a href="../Page/朝鲜三国时代.md" title="wikilink">三国时代</a></p></td>
-<td><p><a href="../Page/火车_(武器).md" title="wikilink">火车</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/火车_(武器)" title="wikilink">火车</a></p></td>
 <td><p>書院</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/马普切人.md" title="wikilink">马普切</a></p></td>
-<td><p><a href="../Page/萊夫扎茹.md" title="wikilink">萊夫扎茹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊夫扎茹" title="wikilink">萊夫扎茹</a></p></td>
 <td><p>迅鷹</p></td>
 <td></td>
 <td><p><a href="../Page/马普切人的突袭.md" title="wikilink">突襲兵</a></p></td>
 <td><p>馬普切木雕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蒙古.md" title="wikilink">蒙古</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒙古" title="wikilink">蒙古</a></p></td>
 <td><p><a href="../Page/成吉思汗.md" title="wikilink">成吉思汗</a></p></td>
 <td><p><a href="../Page/蒙古帝国.md" title="wikilink">蒙古汗國</a></p></td>
 <td><p><a href="../Page/驛站.md" title="wikilink">驛站</a></p></td>
@@ -329,10 +330,10 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p><a href="../Page/班诺克本战役.md" title="wikilink">班諾克本</a></p></td>
 <td><p><a href="../Page/苏格兰启蒙运动.md" title="wikilink">苏格兰启蒙运动</a></p></td>
 <td><p>高地戰士</p></td>
-<td><p><a href="../Page/高爾夫球場.md" title="wikilink">高爾夫球場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高爾夫球場" title="wikilink">高爾夫球場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/祖魯.md" title="wikilink">祖魯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/祖魯" title="wikilink">祖魯</a></p></td>
 <td><p><a href="../Page/恰卡.md" title="wikilink">恰卡</a></p></td>
 <td><p>伊布索</p></td>
 <td></td>
@@ -350,19 +351,19 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 </tbody>
 </table>
 
-| 文明                               | 领袖                                             | 领袖特性                                 | 文明特性                                | 特色单位                                                                      | 特色建筑                                      |
-| -------------------------------- | ---------------------------------------------- | ------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------- |
-| [匈牙利](../Page/匈牙利.md "wikilink") | [馬加什一世](../Page/馬加什一世.md "wikilink")           | 黑鴉王                                  | [多瑙河明珠](../Page/布達佩斯.md "wikilink") | [驃騎兵](../Page/驃騎兵.md "wikilink")、[黑軍](../Page/匈牙利黑軍.md "wikilink")        | 溫泉浴場                                      |
-| [毛利](../Page/毛利人.md "wikilink")  | [庫佩](../Page/庫佩.md "wikilink")                 | 庫佩的遠行                                | 瑪那                                  | 托阿戰士                                                                      | 毛利會堂、帕堡                                   |
-| [加拿大](../Page/加拿大.md "wikilink") | [威爾弗里德·勞雷爾](../Page/威爾弗里德·勞雷爾.md "wikilink")   | 最後的西方寶地                              | 和平的四個面貌                             | [騎警](../Page/皇家加拿大騎警.md "wikilink")                                       | [冰球場](../Page/冰球.md "wikilink")           |
-| [印加](../Page/印加.md "wikilink")   | [帕查庫特克](../Page/帕查庫特克.md "wikilink")           | [印加路網](../Page/印加路網.md "wikilink")   | 米塔                                  | 瓦拉卡戰士                                                                     | [梯田](../Page/梯田.md "wikilink")            |
-| [馬利](../Page/馬利.md "wikilink")   | [曼薩·穆薩](../Page/曼薩·穆薩.md "wikilink")           | [薩赫爾商人](../Page/萨赫勒.md "wikilink")   | 史官之歌                                | 曼德騎兵                                                                      | 蘇古巴市場                                     |
-| [瑞典](../Page/瑞典.md "wikilink")   | [克里斯蒂娜](../Page/克里斯蒂娜女王.md "wikilink")         | 愛書成癡                                 | [諾貝爾獎](../Page/諾貝爾獎.md "wikilink")  | 凱洛琳陸軍                                                                     | 生態博物館、女王圖書館                               |
-| [鄂圖曼](../Page/鄂圖曼.md "wikilink") | [蘇萊曼一世](../Page/蘇萊曼一世.md "wikilink")           | [大維齊爾](../Page/大維齊爾.md "wikilink")   | 達達尼爾巨砲                              | [巴巴里海盜](../Page/巴巴里海盜.md "wikilink")、[土耳其禁衛軍](../Page/耶尼切里.md "wikilink") | [大巴札](../Page/大巴扎_\(伊斯坦堡\).md "wikilink") |
-| [腓尼基](../Page/腓尼基.md "wikilink") | [狄多](../Page/狄多.md "wikilink")                 | [迦太基的建立者](../Page/迦太基.md "wikilink") | 地中海殖民地                              | [雙層槳座戰船](../Page/雙層槳座戰船.md "wikilink")                                    | [衛港](../Page/衛城.md "wikilink")            |
-| [法國](../Page/法國.md "wikilink")   | [亞奎丹的艾莉諾](../Page/亞奎丹的艾莉諾.md "wikilink")       | 愛情法庭                                 | [壮游](../Page/巡游.md "wikilink")      | [皇帝近卫队](../Page/老近卫军.md "wikilink")                                       | [法国城堡](../Page/法式城堡.md "wikilink")        |
-| [英國](../Page/英國.md "wikilink")   | [亞奎丹的艾莉諾](../Page/亞奎丹的艾莉諾.md "wikilink")\[13\] | 愛情法庭                                 | [世界的工坊](../Page/工業革命.md "wikilink") | [海狗](../Page/海盗.md "wikilink")、红衫军                                        | [皇家海军船坞](../Page/英國皇家海軍.md "wikilink")    |
-|                                  |                                                |                                      |                                     |                                                                           |                                           |
+| 文明                                                  | 领袖                                                                | 领袖特性                                                  | 文明特性                                                   | 特色单位                                                                                         | 特色建筑                                                         |
+| --------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [匈牙利](../Page/匈牙利.md "wikilink")                    | [馬加什一世](https://zh.wikipedia.org/wiki/馬加什一世 "wikilink")           | 黑鴉王                                                   | [多瑙河明珠](https://zh.wikipedia.org/wiki/布達佩斯 "wikilink") | [驃騎兵](https://zh.wikipedia.org/wiki/驃騎兵 "wikilink")、[黑軍](../Page/匈牙利黑軍.md "wikilink")        | 溫泉浴場                                                         |
+| [毛利](../Page/毛利人.md "wikilink")                     | [庫佩](https://zh.wikipedia.org/wiki/庫佩 "wikilink")                 | 庫佩的遠行                                                 | 瑪那                                                     | 托阿戰士                                                                                         | 毛利會堂、帕堡                                                      |
+| [加拿大](../Page/加拿大.md "wikilink")                    | [威爾弗里德·勞雷爾](https://zh.wikipedia.org/wiki/威爾弗里德·勞雷爾 "wikilink")   | 最後的西方寶地                                               | 和平的四個面貌                                                | [騎警](../Page/皇家加拿大騎警.md "wikilink")                                                          | [冰球場](../Page/冰球.md "wikilink")                              |
+| [印加](https://zh.wikipedia.org/wiki/印加 "wikilink")   | [帕查庫特克](../Page/帕查庫特克.md "wikilink")                              | [印加路網](https://zh.wikipedia.org/wiki/印加路網 "wikilink") | 米塔                                                     | 瓦拉卡戰士                                                                                        | [梯田](../Page/梯田.md "wikilink")                               |
+| [馬利](https://zh.wikipedia.org/wiki/馬利 "wikilink")   | [曼薩·穆薩](https://zh.wikipedia.org/wiki/曼薩·穆薩 "wikilink")           | [薩赫爾商人](../Page/萨赫勒.md "wikilink")                    | 史官之歌                                                   | 曼德騎兵                                                                                         | 蘇古巴市場                                                        |
+| [瑞典](../Page/瑞典.md "wikilink")                      | [克里斯蒂娜](../Page/克里斯蒂娜女王.md "wikilink")                            | 愛書成癡                                                  | [諾貝爾獎](https://zh.wikipedia.org/wiki/諾貝爾獎 "wikilink")  | 凱洛琳陸軍                                                                                        | 生態博物館、女王圖書館                                                  |
+| [鄂圖曼](https://zh.wikipedia.org/wiki/鄂圖曼 "wikilink") | [蘇萊曼一世](https://zh.wikipedia.org/wiki/蘇萊曼一世 "wikilink")           | [大維齊爾](../Page/大維齊爾.md "wikilink")                    | 達達尼爾巨砲                                                 | [巴巴里海盜](https://zh.wikipedia.org/wiki/巴巴里海盜 "wikilink")、[土耳其禁衛軍](../Page/耶尼切里.md "wikilink") | [大巴札](https://zh.wikipedia.org/wiki/大巴扎_\(伊斯坦堡\) "wikilink") |
+| [腓尼基](../Page/腓尼基.md "wikilink")                    | [狄多](../Page/狄多.md "wikilink")                                    | [迦太基的建立者](../Page/迦太基.md "wikilink")                  | 地中海殖民地                                                 | [雙層槳座戰船](https://zh.wikipedia.org/wiki/雙層槳座戰船 "wikilink")                                    | [衛港](https://zh.wikipedia.org/wiki/衛城 "wikilink")            |
+| [法國](https://zh.wikipedia.org/wiki/法國 "wikilink")   | [亞奎丹的艾莉諾](https://zh.wikipedia.org/wiki/亞奎丹的艾莉諾 "wikilink")       | 愛情法庭                                                  | [壮游](https://zh.wikipedia.org/wiki/巡游 "wikilink")      | [皇帝近卫队](../Page/老近卫军.md "wikilink")                                                          | [法国城堡](../Page/法式城堡.md "wikilink")                           |
+| [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")   | [亞奎丹的艾莉諾](https://zh.wikipedia.org/wiki/亞奎丹的艾莉諾 "wikilink")\[13\] | 愛情法庭                                                  | [世界的工坊](https://zh.wikipedia.org/wiki/工業革命 "wikilink") | [海狗](../Page/海盗.md "wikilink")、红衫军                                                           | [皇家海军船坞](../Page/英國皇家海軍.md "wikilink")                       |
+|                                                     |                                                                   |                                                       |                                                        |                                                                                              |                                                              |
 
 資料片:風雲際會 新增領袖
 

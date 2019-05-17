@@ -1,19 +1,19 @@
-**CJ1型电力动车组**，是[中華人民共和國鐵道部为營運新建的](../Page/中华人民共和国铁道部.md "wikilink")[高速城际铁路及客运专线](../Page/中國高速鐵路.md "wikilink")，而向[中国北车集团](../Page/中国北车集团.md "wikilink")[长春轨道客车股份有限公司及](../Page/长春轨道客车股份有限公司.md "wikilink")[唐山轨道客车有限責任公司订购的](../Page/唐山軌道客車.md "wikilink")[CRH系列高速](../Page/CRH.md "wikilink")[动车组](../Page/动车组.md "wikilink")。中国鐵道部将所有引进国外技术、联合设计生产的[中国铁路高速](../Page/中国铁路高速.md "wikilink")（CRH）車輛均命名為「**[和谐号](../Page/和谐号.md "wikilink")**」。
+**CJ1型电力动车组**，是[中華人民共和國鐵道部为營運新建的](../Page/中华人民共和国铁道部.md "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，而向[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[长春轨道客车股份有限公司及](https://zh.wikipedia.org/wiki/长春轨道客车股份有限公司 "wikilink")[唐山轨道客车有限責任公司订购的](https://zh.wikipedia.org/wiki/唐山軌道客車 "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/CRH "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")。中国鐵道部将所有引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）車輛均命名為「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
 
 ## 概要
 
-CJ1型列车的原型为衍生自[CRH380B平台](../Page/和谐号CRH380B型电力动车组.md "wikilink")，由中国北车主导，中国北车所属长客股份公司设计生产，并于2013年6月8日在长客亮相。CJ1型动车组以CRH380BL技术平台为基础，借鉴了CRH380BL、[CRH380CL](../Page/CRH380CL.md "wikilink")、[CRH380B](../Page/和谐号CRH380B型电力动车组.md "wikilink")、[CRH5型动车组的优点](../Page/和谐号CRH5型电力动车组.md "wikilink")，研制开发的自主知识产权动车组。
+CJ1型列车的原型为衍生自[CRH380B平台](../Page/和谐号CRH380B型电力动车组.md "wikilink")，由中国北车主导，中国北车所属长客股份公司设计生产，并于2013年6月8日在长客亮相。CJ1型动车组以CRH380BL技术平台为基础，借鉴了CRH380BL、[CRH380CL](https://zh.wikipedia.org/wiki/CRH380CL "wikilink")、[CRH380B](../Page/和谐号CRH380B型电力动车组.md "wikilink")、[CRH5型动车组的优点](../Page/和谐号CRH5型电力动车组.md "wikilink")，研制开发的自主知识产权动车组。
 CJ1型动车组可根据不同运营线路的需求，分别以时速160公里、时速200公里、时速250公里三个速度等级运行，是目前国内唯一既适合时速200～250公里之间客运专线、又适合时速160～250公里之间城际铁路运行的动车组。相对于此前国内运行的这一速度等级的动车组，该型动车组还有较强的成本优势和售后维护优势。\[1\]
 
 ## 配属概况
 
-直至2015年12月24日，2列CJ1型列车已出厂，CJ1型实验列车曾配属[沈阳铁路局用于科研目的](../Page/沈阳铁路局.md "wikilink")。而由2018年2月18日起，此等動車組正式配屬瀋陽南動車所\[2\]，並於同年3月起擔當[瀋丹大動車組列車的本務車輛](../Page/瀋丹大動車組列車.md "wikilink")\[3\]。
+直至2015年12月24日，2列CJ1型列车已出厂，CJ1型实验列车曾配属[沈阳铁路局用于科研目的](https://zh.wikipedia.org/wiki/沈阳铁路局 "wikilink")。而由2018年2月18日起，此等動車組正式配屬瀋陽南動車所\[2\]，並於同年3月起擔當[瀋丹大動車組列車的本務車輛](https://zh.wikipedia.org/wiki/瀋丹大動車組列車 "wikilink")\[3\]。
 
-| **配属**                               | **数量** | **动车组编号** | **運用所** | **运用线路**                                                                                                                                                           | **备注**              |
-| ------------------------------------ | ------ | --------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| <font color="white">**CJ1**</font>   |        |           |         |                                                                                                                                                                    |                     |
-| [沈阳铁路局](../Page/沈阳铁路局.md "wikilink") | 1      | 0502      | 瀋陽南     | [哈大客運專線](../Page/哈大客運專線.md "wikilink")、[沈丹客运专线及](../Page/沈丹客运专线.md "wikilink")[丹大快速铁路](../Page/丹大快速铁路.md "wikilink")                                               | 已完成相应实验任务，曾配屬皇姑屯動車所 |
-| [沈阳铁路局](../Page/沈阳铁路局.md "wikilink") | 1      | 0302      | 瀋陽南     | 曾於[大西客专使用](../Page/大西客运专线.md "wikilink")，目前於[哈大客運專線](../Page/哈大客運專線.md "wikilink")、[沈丹客运专线及](../Page/沈丹客运专线.md "wikilink")[丹大快速铁路使用](../Page/丹大快速铁路.md "wikilink") | 已完成相应实验任务，曾配屬太原南動車所 |
+| **配属**                                                  | **数量** | **动车组编号** | **運用所** | **运用线路**                                                                                                                                                                                                 | **备注**              |
+| ------------------------------------------------------- | ------ | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| <font color="white">**CJ1**</font>                      |        |           |         |                                                                                                                                                                                                          |                     |
+| [沈阳铁路局](https://zh.wikipedia.org/wiki/沈阳铁路局 "wikilink") | 1      | 0502      | 瀋陽南     | [哈大客運專線](https://zh.wikipedia.org/wiki/哈大客運專線 "wikilink")、[沈丹客运专线及](../Page/沈丹客运专线.md "wikilink")[丹大快速铁路](https://zh.wikipedia.org/wiki/丹大快速铁路 "wikilink")                                               | 已完成相应实验任务，曾配屬皇姑屯動車所 |
+| [沈阳铁路局](https://zh.wikipedia.org/wiki/沈阳铁路局 "wikilink") | 1      | 0302      | 瀋陽南     | 曾於[大西客专使用](../Page/大西客运专线.md "wikilink")，目前於[哈大客運專線](https://zh.wikipedia.org/wiki/哈大客運專線 "wikilink")、[沈丹客运专线及](../Page/沈丹客运专线.md "wikilink")[丹大快速铁路使用](https://zh.wikipedia.org/wiki/丹大快速铁路 "wikilink") | 已完成相应实验任务，曾配屬太原南動車所 |
 
 ## 列車編組
 
@@ -104,12 +104,12 @@ ZE xxxx00</p></td>
 
 ## 關連項目
 
-  - [和谐号CRH3A型电力动车组](../Page/和谐号CRH3A型电力动车组.md "wikilink")
+  - [和谐号CRH3A型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH3A型电力动车组 "wikilink")
   - [和谐号CRH5型电力动车组](../Page/和谐号CRH5型电力动车组.md "wikilink")
   - [和谐号CRH380B型电力动车组](../Page/和谐号CRH380B型电力动车组.md "wikilink")
   - [和谐号CRH380C型电力动车组](../Page/和谐号CRH380C型电力动车组.md "wikilink")
-  - [和谐号CJ2型电力动车组](../Page/和谐号CJ2型电力动车组.md "wikilink")
-  - [長白山號](../Page/長白山號.md "wikilink")
+  - [和谐号CJ2型电力动车组](https://zh.wikipedia.org/wiki/和谐号CJ2型电力动车组 "wikilink")
+  - [長白山號](https://zh.wikipedia.org/wiki/長白山號 "wikilink")
 
 ## 參考資料
 

@@ -1,19 +1,19 @@
-**雅士頓馬田DB5**（，簡稱DB5），是[英國](../Page/英國.md "wikilink")[跑車品牌](../Page/跑車.md "wikilink")[雅士頓·馬田製造](../Page/雅士頓·馬田.md "wikilink")，由[意大利著名設計工作室Carrozzeria](../Page/意大利.md "wikilink")
+**雅士頓馬田DB5**（，簡稱DB5），是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[跑車品牌](https://zh.wikipedia.org/wiki/跑車 "wikilink")[雅士頓·馬田製造](https://zh.wikipedia.org/wiki/雅士頓·馬田 "wikilink")，由[意大利著名設計工作室Carrozzeria](../Page/意大利.md "wikilink")
 Touring
-Superleggera所設計的[豪華旅行車](../Page/豪華旅行車.md "wikilink")。DB5於1963年推出市場，共生產了1,023輛，取代原有的，DB為當時公司東主（）的簡稱。DB5曾經亮相於1964年占士邦電影《[鐵金剛大戰金手指](../Page/鐵金剛大戰金手指.md "wikilink")》，是較為知名的[007的座駕](../Page/007的座駕.md "wikilink")\[1\]。
+Superleggera所設計的[豪華旅行車](../Page/豪華旅行車.md "wikilink")。DB5於1963年推出市場，共生產了1,023輛，取代原有的，DB為當時公司東主（）的簡稱。DB5曾經亮相於1964年占士邦電影《[鐵金剛大戰金手指](../Page/鐵金剛大戰金手指.md "wikilink")》，是較為知名的[007的座駕](https://zh.wikipedia.org/wiki/007的座駕 "wikilink")\[1\]。
 
 ## 占士邦電影
 
-DB5曾出現於多部[占士·邦系列電影中](../Page/占士·邦系列電影.md "wikilink")，包括《[鐵金剛大戰金手指](../Page/鐵金剛大戰金手指.md "wikilink")》（1964年）、《[鐵金剛勇戰魔鬼黨](../Page/鐵金剛勇戰魔鬼黨.md "wikilink")》（1965年）、《[新鐵金剛之金眼睛](../Page/新鐵金剛之金眼睛.md "wikilink")》（1995年）、《[新鐵金剛之明日帝國](../Page/新鐵金剛之明日帝國.md "wikilink")》（1997年）、《[新鐵金剛之黑日危機](../Page/新鐵金剛之黑日危機.md "wikilink")》（1999年）、《[新鐵金剛智破皇家賭場](../Page/新鐵金剛智破皇家賭場.md "wikilink")》（2006年、）《[新鐵金剛：智破天凶城](../Page/新鐵金剛：智破天凶城.md "wikilink")》（2012年）及《[007：鬼影帝國](../Page/007：鬼影帝國.md "wikilink")》（2015年）。
+DB5曾出現於多部[占士·邦系列電影中](https://zh.wikipedia.org/wiki/占士·邦系列電影 "wikilink")，包括《[鐵金剛大戰金手指](../Page/鐵金剛大戰金手指.md "wikilink")》（1964年）、《[鐵金剛勇戰魔鬼黨](../Page/鐵金剛勇戰魔鬼黨.md "wikilink")》（1965年）、《[新鐵金剛之金眼睛](../Page/新鐵金剛之金眼睛.md "wikilink")》（1995年）、《[新鐵金剛之明日帝國](../Page/新鐵金剛之明日帝國.md "wikilink")》（1997年）、《[新鐵金剛之黑日危機](../Page/新鐵金剛之黑日危機.md "wikilink")》（1999年）、《[新鐵金剛智破皇家賭場](https://zh.wikipedia.org/wiki/新鐵金剛智破皇家賭場 "wikilink")》（2006年、）《[新鐵金剛：智破天凶城](https://zh.wikipedia.org/wiki/新鐵金剛：智破天凶城 "wikilink")》（2012年）及《[007：鬼影帝國](https://zh.wikipedia.org/wiki/007：鬼影帝國 "wikilink")》（2015年）。
 
 ## 圖片集
 
 AM DB5 rear.jpg|車尾 Aston Martin DB5 engine.jpg|引擎 Aston Martin DB5
 Vantage.jpg|雅士頓馬田DB5 Vantage
-AMDB5VC.jpg|雅士頓馬田DB5[開篷車](../Page/開篷車.md "wikilink")
+AMDB5VC.jpg|雅士頓馬田DB5[開篷車](https://zh.wikipedia.org/wiki/開篷車 "wikilink")
 Aston Martin DB5 Shooting
-Brake.jpg|雅士頓馬田DB5[獵裝車](../Page/獵裝車.md "wikilink")
-DB5-2.jpg|[占士·邦系列電影中的DB](../Page/占士·邦系列電影.md "wikilink")5－車牌號碼「JBZ6007」
+Brake.jpg|雅士頓馬田DB5[獵裝車](https://zh.wikipedia.org/wiki/獵裝車 "wikilink")
+DB5-2.jpg|[占士·邦系列電影中的DB](https://zh.wikipedia.org/wiki/占士·邦系列電影 "wikilink")5－車牌號碼「JBZ6007」
 
 ## 參考
 

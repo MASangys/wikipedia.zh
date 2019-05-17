@@ -18,36 +18,36 @@ Studios**，是总部设在英国伯明翰的软件开发公司，由特雷弗·
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/PlayStation_2.md" title="wikilink">PS2</a></p></td>
-<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Win</a></p></td>
-<td><p><a href="../Page/OS_X.md" title="wikilink">OS X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Win</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OS_X" title="wikilink">OS X</a></p></td>
 <td><p><a href="../Page/Xbox_360.md" title="wikilink">X360</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><em><a href="../Page/World_Championship_Rugby.md" title="wikilink">World Championship Rugby</a></em></p></td>
-<td><p><a href="../Page/Acclaim_Entertainment.md" title="wikilink">Acclaim Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/World_Championship_Rugby" title="wikilink">World Championship Rugby</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Acclaim_Entertainment" title="wikilink">Acclaim Entertainment</a></p></td>
 <td><p>运动</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2005</p></td>
-<td><p><em><a href="../Page/Brian_Lara_International_Cricket_2005.md" title="wikilink">Brian Lara International Cricket 2005</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Brian_Lara_International_Cricket_2005" title="wikilink">Brian Lara International Cricket 2005</a></em></p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td><p>运动</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><em><a href="../Page/Cold_Winter.md" title="wikilink">Cold Winter</a></em></p></td>
-<td><p><a href="../Page/Vivendi_Games.md" title="wikilink">Vivendi Universal Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cold_Winter" title="wikilink">Cold Winter</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vivendi_Games" title="wikilink">Vivendi Universal Games</a></p></td>
 <td><p>第一人称射击游戏</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><em><a href="../Page/50_Cent:_Blood_on_the_Sand.md" title="wikilink">50 Cent: Blood on the Sand</a></em></p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/50_Cent:_Blood_on_the_Sand" title="wikilink">50 Cent: Blood on the Sand</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td><p>第三人称射击游戏</p></td>
 <td></td>
 </tr>

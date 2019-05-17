@@ -1,4 +1,4 @@
-《**Puck！**》（）為[韓國](../Page/韓國.md "wikilink")[SBS於](../Page/SBS株式會社.md "wikilink")2016年1月1日播出的[特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")，由[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[孫秀賢及](../Page/孫秀賢.md "wikilink")[郭東延主演](../Page/郭東延.md "wikilink")，[李光英導演執導](../Page/李光英.md "wikilink")，[尹賢浩編劇執筆](../Page/尹賢浩.md "wikilink")。\[1\]。此劇是[李光洙時隔兩年回歸小螢幕](../Page/李光洙_\(演員\).md "wikilink")\[2\]
+《**Puck！**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年1月1日播出的[特輯電視劇](https://zh.wikipedia.org/wiki/SBS特輯電視劇 "wikilink")，由[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[孫秀賢及](../Page/孫秀賢.md "wikilink")[郭東延主演](../Page/郭東延.md "wikilink")，[李光英導演執導](https://zh.wikipedia.org/wiki/李光英 "wikilink")，[尹賢浩編劇執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。\[1\]。此劇是[李光洙時隔兩年回歸小螢幕](../Page/李光洙_\(演員\).md "wikilink")\[2\]
 
 ## 劇情
 
@@ -38,7 +38,7 @@
 <td><p>父親欠債而對一切都絕望的少年，一心尋死的少年被俊萬開導</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙潤宇.md" title="wikilink">趙潤宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙潤宇" title="wikilink">趙潤宇</a></p></td>
 <td><p>鄭八峰</p></td>
 <td><p>原被敵隊收買，後覺醒決定回歸</p></td>
 </tr>
@@ -53,12 +53,12 @@
 <td><p>丈夫欠高利貸，被丈夫家暴</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭海均.md" title="wikilink">鄭海均</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭海均" title="wikilink">鄭海均</a></p></td>
 <td><p>河明根</p></td>
 <td><p>韓國大學冰上曲棍球隊教練，為妻子住院費借錢，接受學校的支持和新生們的錢還債，怕雪上加霜的冰球隊解散，而戰戰兢兢。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李康敏_(演員).md" title="wikilink">李康敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李康敏_(演員)" title="wikilink">李康敏</a></p></td>
 <td><p>崔煥書</p></td>
 <td><p>韓國大學冰上曲棍球隊隊員</p></td>
 </tr>
@@ -88,7 +88,7 @@
 <td><p>韓國大學冰上曲棍球隊團長</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金秉玉.md" title="wikilink">金秉玉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金秉玉" title="wikilink">金秉玉</a></p></td>
 <td><p>桂相洙</p></td>
 <td><p>高利貸老闆</p></td>
 </tr>
@@ -98,7 +98,7 @@
 <td><p>黃江畢父親</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/吉海妍.md" title="wikilink">吉海妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉海妍" title="wikilink">吉海妍</a></p></td>
 <td></td>
 <td><p>黃江畢母親</p></td>
 </tr>
@@ -107,11 +107,11 @@
 
 ## 收視率
 
-| 集數                                  | 放送日期      | 收視率  |
-| ----------------------------------- | --------- | ---- |
-| [AGB](../Page/AGB尼爾森.md "wikilink") | TNmS      |      |
-| 1部                                  | 2016年1月1日 | 7.1% |
-| 2部                                  | 5.4%      | 4.7% |
+| 集數                                                     | 放送日期      | 收視率  |
+| ------------------------------------------------------ | --------- | ---- |
+| [AGB](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink") | TNmS      |      |
+| 1部                                                     | 2016年1月1日 | 7.1% |
+| 2部                                                     | 5.4%      | 4.7% |
 
 ## 腳註
 

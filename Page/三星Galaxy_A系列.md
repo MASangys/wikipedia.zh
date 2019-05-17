@@ -1,11 +1,12 @@
 **三星Galaxy
-A系列**是由[三星Galaxy系列分拆出的中高端](../Page/三星Galaxy系列.md "wikilink")[智能手機系列](../Page/智能手機.md "wikilink")。
+A系列**是由[三星Galaxy系列分拆出的中高端](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")[智能手機系列](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
 
 ## 旗下產品
 
 ### 2014年
 
-  - [三星Galaxy Alpha](../Page/三星Galaxy_Alpha.md "wikilink")\[1\]
+  - [三星Galaxy
+    Alpha](https://zh.wikipedia.org/wiki/三星Galaxy_Alpha "wikilink")\[1\]
   - [三星Galaxy A3](../Page/三星Galaxy_A3.md "wikilink")\[2\]
   - [三星Galaxy A5](../Page/三星Galaxy_A5.md "wikilink")\[3\]
 
@@ -17,50 +18,59 @@ A系列**是由[三星Galaxy系列分拆出的中高端](../Page/三星Galaxy系
 ### 2016年
 
   - [三星Galaxy A3
-    (2016)](../Page/三星Galaxy_A3_\(2016\).md "wikilink")\[5\]
+    (2016)](https://zh.wikipedia.org/wiki/三星Galaxy_A3_\(2016\) "wikilink")\[5\]
   - [三星Galaxy A5
-    (2016)](../Page/三星Galaxy_A5_\(2016\).md "wikilink")\[6\]
+    (2016)](https://zh.wikipedia.org/wiki/三星Galaxy_A5_\(2016\) "wikilink")\[6\]
   - [三星Galaxy A7
-    (2016)](../Page/三星Galaxy_A7_\(2016\).md "wikilink")\[7\]
-  - [三星Galaxy A8 (2016)](../Page/三星Galaxy_A8_\(2016\).md "wikilink")
+    (2016)](https://zh.wikipedia.org/wiki/三星Galaxy_A7_\(2016\) "wikilink")\[7\]
+  - [三星Galaxy A8
+    (2016)](https://zh.wikipedia.org/wiki/三星Galaxy_A8_\(2016\) "wikilink")
   - [三星Galaxy A9](../Page/三星Galaxy_A9.md "wikilink")\[8\]
-  - [三星Galaxy A9 Pro](../Page/三星Galaxy_A9_Pro.md "wikilink")\[9\]
+  - [三星Galaxy A9
+    Pro](https://zh.wikipedia.org/wiki/三星Galaxy_A9_Pro "wikilink")\[9\]
 
 ### 2017年
 
   - [三星Galaxy A3
-    (2017)](../Page/三星Galaxy_A3_\(2017\).md "wikilink")\[10\]
+    (2017)](https://zh.wikipedia.org/wiki/三星Galaxy_A3_\(2017\) "wikilink")\[10\]
   - [三星Galaxy A5
-    (2017)](../Page/三星Galaxy_A5_\(2017\).md "wikilink")\[11\]
+    (2017)](https://zh.wikipedia.org/wiki/三星Galaxy_A5_\(2017\) "wikilink")\[11\]
   - [三星Galaxy A7
-    (2017)](../Page/三星Galaxy_A7_\(2017\).md "wikilink")\[12\]
+    (2017)](https://zh.wikipedia.org/wiki/三星Galaxy_A7_\(2017\) "wikilink")\[12\]
 
 ### 2018年
 
   - [三星Galaxy A6
-    (2018)](../Page/三星Galaxy_A6_\(2018\).md "wikilink")\[13\]
+    (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A6_\(2018\) "wikilink")\[13\]
   - [三星Galaxy A6+
-    (2018)](../Page/三星Galaxy_A6_\(2018\).md "wikilink")\[14\]
+    (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A6_\(2018\) "wikilink")\[14\]
   - 三星Galaxy A6s(中國版）
   - [三星Galaxy A7
     (2018)](../Page/三星Galaxy_A7_\(2018\).md "wikilink")\[15\]
   - [三星Galaxy A8
-    (2018)](../Page/三星Galaxy_A8_\(2018\).md "wikilink")\[16\]
+    (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A8_\(2018\) "wikilink")\[16\]
   - [三星Galaxy A8+
-    (2018)](../Page/三星Galaxy_A8_\(2018\).md "wikilink")\[17\]
-  - [三星Galaxy A8 Star](../Page/三星Galaxy_A8_Star.md "wikilink")\[18\]
+    (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A8_\(2018\) "wikilink")\[17\]
+  - [三星Galaxy A8
+    Star](https://zh.wikipedia.org/wiki/三星Galaxy_A8_Star "wikilink")\[18\]
   - [三星Galaxy A9
-    (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")\[19\]
-  - 三是Galaxy A9s (中國版A9)
-  - [三星Galaxy A9 Star Lite](../Page/三星Galaxy_A9_Star_Lite.md "wikilink")
+    2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")\[19\]
+  - 三星Galaxy A9s (中國版A9)
+  - [三星Galaxy A9 Star
+    Lite](https://zh.wikipedia.org/wiki/三星Galaxy_A9_Star_Lite "wikilink")
     (中國版A6+)
-  - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink") (中國版)
-  - [三星Galaxy A9 Star](../Page/三星Galaxy_A9_Star.md "wikilink")\[20\]
+  - [三星Galaxy
+    A8s](https://zh.wikipedia.org/wiki/三星Galaxy_A8s "wikilink")
+    (中國版)
+  - [三星Galaxy A9
+    Star](https://zh.wikipedia.org/wiki/三星Galaxy_A9_Star "wikilink")\[20\]
     (台灣版A8 Star)
 
 ### 2019年
 
-  - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink") (香港版)
+  - [三星Galaxy
+    A8s](https://zh.wikipedia.org/wiki/三星Galaxy_A8s "wikilink")
+    (香港版)
   - 三星Galaxy A10
   - 三星Galaxy A20
   - 三星Galaxy A30

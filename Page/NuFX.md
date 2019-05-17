@@ -1,7 +1,7 @@
 **NuFX**，是美国的游戏开发商，总部设在伊利诺伊州。
-NuFX是著名的游戏为[NBA街头篮球游戏系列](../Page/NBA街头篮球.md "wikilink")。2004年2月13日被[艺电收购并改名为](../Page/艺电.md "wikilink")**EA芝加哥**，在此之前两家公司曾合作开发游戏NCAA
+NuFX是著名的游戏为[NBA街头篮球游戏系列](https://zh.wikipedia.org/wiki/NBA街头篮球 "wikilink")。2004年2月13日被[艺电收购并改名为](../Page/艺电.md "wikilink")**EA芝加哥**，在此之前两家公司曾合作开发游戏NCAA
 March Madness，[NBA
-LIVE和](../Page/NBA_LIVE.md "wikilink")[FIFA足球系列](../Page/FIFA足球.md "wikilink")。\[1\]2007年11月6日，由于该公司未能达到盈利目标而被关闭。\[2\]
+LIVE和](https://zh.wikipedia.org/wiki/NBA_LIVE "wikilink")[FIFA足球系列](https://zh.wikipedia.org/wiki/FIFA足球 "wikilink")。\[1\]2007年11月6日，由于该公司未能达到盈利目标而被关闭。\[2\]
 
 ## 游戏
 

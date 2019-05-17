@@ -1,8 +1,8 @@
-《**MY**》是[韓國男子組合](../Page/韓國.md "wikilink")[BEAST成員](../Page/BEAST.md "wikilink")[張賢勝的首張韓語迷你專輯](../Page/張賢勝.md "wikilink")，於2015年5月8日線上發行\[1\]，主打曲為《你是我的第一次》（）。
+《**MY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[張賢勝的首張韓語迷你專輯](../Page/張賢勝.md "wikilink")，於2015年5月8日線上發行\[1\]，主打曲為《你是我的第一次》（）。
 
 ## 背景
 
-2015年4月20日，[Cube娛樂在](../Page/Cube娛樂.md "wikilink")[BEAST的官方](../Page/BEAST.md "wikilink")[Facebook發布了賢勝的預告照片](../Page/Facebook.md "wikilink")，表示賢勝正準備個人首張專輯\[2\]，到4月27日，官方以另外一張預告照片確定張賢勝的個人迷你專輯將在5月8日線上發行，以《你是我的第一次》作主打\[3\]，並於4月28日公開專輯名稱——《MY》與其收錄曲目的詳情\[4\]。
+2015年4月20日，[Cube娛樂在](../Page/Cube娛樂.md "wikilink")[BEAST的官方](https://zh.wikipedia.org/wiki/BEAST "wikilink")[Facebook發布了賢勝的預告照片](../Page/Facebook.md "wikilink")，表示賢勝正準備個人首張專輯\[2\]，到4月27日，官方以另外一張預告照片確定張賢勝的個人迷你專輯將在5月8日線上發行，以《你是我的第一次》作主打\[3\]，並於4月28日公開專輯名稱——《MY》與其收錄曲目的詳情\[4\]。
 
 ## 曲目
 
@@ -24,7 +24,7 @@
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年5月10日－5月16日</p></td>
 <td><p>#19</p></td>
@@ -69,10 +69,10 @@
 
 ### 其他歌曲成績
 
-| 歌曲    | 榜單                                       | 類型                                              | 停留時間           | 最高位置 | 參考資料  |
-| ----- | ---------------------------------------- | ----------------------------------------------- | -------------- | ---- | ----- |
-| 跟他分手吧 | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年5月3日－5月9日 | \#70 | \[7\] |
-| 黃色笑話  | \#100                                    |                                                 |                |      |       |
+| 歌曲    | 榜單                                                          | 類型                                              | 停留時間           | 最高位置 | 參考資料  |
+| ----- | ----------------------------------------------------------- | ----------------------------------------------- | -------------- | ---- | ----- |
+| 跟他分手吧 | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年5月3日－5月9日 | \#70 | \[7\] |
+| 黃色笑話  | \#100                                                       |                                                 |                |      |       |
 
 ### 音樂節目榜單排名
 
@@ -119,7 +119,7 @@
 <td><p>2015年5月8日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂</a><br />
-<a href="../Page/環球唱片.md" title="wikilink">環球唱片</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/環球唱片" title="wikilink">環球唱片</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年5月12日</p></td>

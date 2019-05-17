@@ -3,7 +3,7 @@ Lake**，是美国犹他州盐湖城的一个游戏开发商。该工作室为[�
 
 1992年，EA Salt Lake由该工作室的总裁Vance Cook创立，\[1\]当时名为Headgate Studios。Vance
 Cook曾是Access
-Software旗下高尔夫模拟游戏的程序员，因此他有足够的知识和经验知道如何制作高尔夫游戏。\[2\]Headgate的第一个产品是PentaCalc，该软件是[Windows系统的科学计算器](../Page/Windows系统.md "wikilink")。\[3\]
+Software旗下高尔夫模拟游戏的程序员，因此他有足够的知识和经验知道如何制作高尔夫游戏。\[2\]Headgate的第一个产品是PentaCalc，该软件是[Windows系统的科学计算器](https://zh.wikipedia.org/wiki/Windows系统 "wikilink")。\[3\]
 
 1996年到1999年，Headgate开发高尔夫游戏并在Sierra Entertainment的Sierra's Front Page
 Sports brand中发行。\[4\]1996年4月该工作室被Sierra
@@ -32,7 +32,7 @@ Lake。该工作室的开发工作焦点为[任天堂的新主机Wii](../Page/�
 
 1.  [Headgate Studios
     profile](http://www.mobygames.com/company/headgate-studios-inc) at
-    [MobyGames](../Page/MobyGames.md "wikilink")
+    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
 2.
 
@@ -72,7 +72,8 @@ Lake。该工作室的开发工作焦点为[任天堂的新主机Wii](../Page/�
 
 14. [*Tiger Woods PGA TOUR 2005*
     review](http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=438951)
-     from [Game Rankings](../Page/Game_Rankings.md "wikilink")
+     from [Game
+    Rankings](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")
 
 15. [*Tiger Woods PGA
     Tour 2005*](http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=428275)
@@ -85,4 +86,4 @@ Lake。该工作室的开发工作焦点为[任天堂的新主机Wii](../Page/�
 17. ["Electronic Arts opens Salt Lake City
     office"](http://www.sltrib.com/sltrib/money/49968208-79/electronic-lake-salt-game.html.csp)
     from [The Salt Lake
-    Tribune](../Page/The_Salt_Lake_Tribune.md "wikilink")
+    Tribune](https://zh.wikipedia.org/wiki/The_Salt_Lake_Tribune "wikilink")

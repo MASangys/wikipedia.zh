@@ -14,8 +14,8 @@
       - [正體中文網站](http://happyroy.myweb.hinet.net/nusutto/)
   - [Ib](../Page/Ib_\(遊戲\).md "wikilink")，作者：kouri
       - [正體中文網站](http://stkib.web.fc2.com/index.html)
-  - [Ruina 廃都の物語](../Page/廢都物語.md "wikilink")，作者：枯草章吉
-  - [野比大雄的生化危機](../Page/野比大雄的生化危機.md "wikilink")，作者：aaa
+  - [Ruina 廃都の物語](https://zh.wikipedia.org/wiki/廢都物語 "wikilink")，作者：枯草章吉
+  - [野比大雄的生化危機](https://zh.wikipedia.org/wiki/野比大雄的生化危機 "wikilink")，作者：aaa
   - [月夜に響くノクターン](http://members.jcom.home.ne.jp/cogwheel/game/nocturne/)，作者：ショウ
   - [大海原と大海原](http://funamusea.com/story/wadanohara/)，作者：[海底囚人](http://funamusea.com/)
       - [簡體中文網頁](http://sycrealastudio.lofter.com/post/1c580c_10344a8)
@@ -119,7 +119,7 @@
 #### 原創遊戲作品
 
   - [月夜に響くノクターンRebirth](https://archive.is/20121219055716/http://members.jcom.home.ne.jp/cogwheel/game/rebirth/)
-  - [青鬼/Aooni](../Page/青鬼.md "wikilink")
+  - [青鬼/Aooni](https://zh.wikipedia.org/wiki/青鬼 "wikilink")
 
 ### 中文遊戲
 
@@ -234,7 +234,7 @@
   - (2015) [諸羅佚聞錄](https://sites.google.com/site/jhuluogame/home)
     ，作者：Ghost Idea
 
-## [RPG Maker VX Ace](../Page/RPG_Maker_VX_Ace.md "wikilink")
+## [RPG Maker VX Ace](https://zh.wikipedia.org/wiki/RPG_Maker_VX_Ace "wikilink")
 
 ### 日文遊戲
 
@@ -248,7 +248,7 @@
 
 #### 商業遊戲作品
 
-  - [殺戮的天使](../Page/殺戮的天使.md "wikilink")，作者：[星屑KRNKRN
+  - [殺戮的天使](https://zh.wikipedia.org/wiki/殺戮的天使 "wikilink")，作者：[星屑KRNKRN
     (真田まこと)](http://nanos.jp/hskzkrnkrn/)
       - [正體中文網站](https://gamemaga.denfaminicogamer.jp/satsuriku/zh/)
   - [為美好的世界獻上祝福！in the
@@ -257,7 +257,8 @@
 
 #### 原創遊戲作品
 
-  - [霧雨飄零之森](../Page/霧雨飄零之森.md "wikilink")，作者：星屑KRNKRN (真田まこと)
+  - [霧雨飄零之森](https://zh.wikipedia.org/wiki/霧雨飄零之森 "wikilink")，作者：星屑KRNKRN
+    (真田まこと)
   - ぼくらの大革命！，作者：[木星ペンギン](http://woodpenguin.blog.fc2.com/)
   - [Mogeko
     Castle](http://funamusea.com/story/mogeko_castle/)，作者：[海底囚人](http://funamusea.com/)
@@ -279,7 +280,8 @@
     rabbit
   - (2014) [永恆的賽妮亞](http://senia.ftp.cc/)，作者：聖堂祭司
   - (2016) 私塾，作者：貓咪學園
-  - (2017) [幻想的交響曲](../Page/幻想的交響曲.md "wikilink")，作者：Z\&S
+  - (2017)
+    [幻想的交響曲](https://zh.wikipedia.org/wiki/幻想的交響曲 "wikilink")，作者：Z\&S
 
 ## [RPG Maker MV](../Page/RPG_Maker_MV.md "wikilink")
 

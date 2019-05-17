@@ -1,8 +1,8 @@
-是日本âge在2003年2月28日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年9月22日發售全年齡版。\[2\]Muv-Luv最初在2000年10月的成人遊戲雜誌[TECH
+是日本âge在2003年2月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年9月22日發售全年齡版。\[2\]Muv-Luv最初在2000年10月的成人遊戲雜誌[TECH
 GIAN預告](../Page/TECH_GIAN.md "wikilink")2001年秋發售，經過2次延期後才決定在2003年2月28日發售遊戲。\[3\]遊戲機版都是由[5pb.發售](../Page/5pb..md "wikilink")，[Xbox
 360版在](../Page/Xbox_360.md "wikilink")2011年10月27日發售\[4\]，[PlayStation
 3版在](../Page/PlayStation_3.md "wikilink")2012年10月25日發售\[5\]，[PlayStation
-Vita版在](../Page/PlayStation_Vita.md "wikilink")2016年1月21日發售。\[6\]2004年12月17日發售[Fandisc](../Page/Fandisc.md "wikilink")《Muv-Luv
+Vita版在](../Page/PlayStation_Vita.md "wikilink")2016年1月21日發售。\[6\]2004年12月17日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Muv-Luv
 SUPPLEMENT》（マブラヴ サプリメント）。\[7\]除了遊戲外也還發售漫畫、小說、CD等相關作品。
 
 ## 遊戲系統
@@ -155,7 +155,7 @@ Fighter）指的是對抗BETA用的巨大人型兵器，全名是「戰術步行
   -
 
       -
-        作詞/作曲：奥井雅美　編曲：IPPEI　歌：[奥井雅美](../Page/奥井雅美.md "wikilink")
+        作詞/作曲：奥井雅美　編曲：IPPEI　歌：[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")
 
   - Xbox 360版
 
@@ -440,7 +440,7 @@ Muv-Luv的廣播節目是在**君のぞらじお**網站發佈下載收聽。
 
   -
     出版社：[ASCII MEDIA
-    WORKS](../Page/ASCII_MEDIA_WORKS.md "wikilink")　發售日：2010年1月27日　ISBN
+    WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")　發售日：2010年1月27日　ISBN
     978-4-04-867035-7
 
 <!-- end list -->
@@ -459,12 +459,12 @@ Muv-Luv的廣播節目是在**君のぞらじお**網站發佈下載收聽。
 <!-- end list -->
 
   -
-    [RumblingAngel是由âge](../Page/RumblingAngel.md "wikilink")、[Nitroplus](../Page/Nitroplus.md "wikilink")、[Overflow共同製作的](../Page/Overflow.md "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")，由Silver
+    [RumblingAngel是由âge](../Page/RumblingAngel.md "wikilink")、[Nitroplus](https://zh.wikipedia.org/wiki/Nitroplus "wikilink")、[Overflow共同製作的](https://zh.wikipedia.org/wiki/Overflow "wikilink")[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")，由Silver
     Blitz發售卡包。
 
 ## 評價
 
-Muv-Luv在Getchu.com舉辦的2003年你選美少女遊戲排名中獲得綜合部門第1名\[15\]、最佳角色部門**御剣冥夜**第4名和**鑑純夏**第5名\[16\]、劇本部門第5名\[17\]、配音部門**鑑純夏**第5名和**御剣冥夜**第9名\[18\]、音樂部門第4名\[19\]、標題部門第11名。\[20\]另外[metacritic給予](../Page/metacritic.md "wikilink")76分評價。\[21\]
+Muv-Luv在Getchu.com舉辦的2003年你選美少女遊戲排名中獲得綜合部門第1名\[15\]、最佳角色部門**御剣冥夜**第4名和**鑑純夏**第5名\[16\]、劇本部門第5名\[17\]、配音部門**鑑純夏**第5名和**御剣冥夜**第9名\[18\]、音樂部門第4名\[19\]、標題部門第11名。\[20\]另外[metacritic給予](https://zh.wikipedia.org/wiki/metacritic "wikilink")76分評價。\[21\]
 
 ## 相關條目
 
@@ -502,7 +502,7 @@ Muv-Luv在Getchu.com舉辦的2003年你選美少女遊戲排名中獲得綜合�
 [Category:虚拟现实游戏](https://zh.wikipedia.org/wiki/Category:虚拟现实游戏 "wikilink")
 
 1.  [Muv-Luv](https://vndb.org/v93)The Visual Novel Database
-2.  [マブラヴ](http://www.4gamer.net/games/032/G003242/)[4Gamer.net](../Page/4Gamer.net.md "wikilink")
+2.  [マブラヴ](http://www.4gamer.net/games/032/G003242/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 3.  [age、マブラヴ
     オルタネイティヴのマスターアップ告知！](http://temple-knights.com/archives/2006/01/age.html)テンプルナイツ
 4.  [マブラヴ](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=20520)ファミ通.com

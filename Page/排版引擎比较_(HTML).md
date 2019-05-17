@@ -6,7 +6,7 @@
 
 如给出了版本号，则说明自该版本起完全支持该特性（基于HTML 4.01）。专有扩展不包括在内。
 
-[W3C不再推荐使用的标签](../Page/W3C.md "wikilink")、属性和专有标签在[排版引擎比较
+[W3C不再推荐使用的标签](https://zh.wikipedia.org/wiki/W3C "wikilink")、属性和专有标签在[排版引擎比较
 (非标准HTML)中进行了比较](../Page/排版引擎比较_\(非标准HTML\).md "wikilink")。
 
 ## 全局结构元素
@@ -21,7 +21,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -210,7 +210,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -469,7 +469,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -568,7 +568,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -707,11 +707,11 @@
 
 ## 链接元素
 
-|        | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](../Page/iCab.md "wikilink") |
-| ------ | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- |
-| `a`    | rowspan="3"                                       | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                        |
-| `link` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
-| `base` |                                                   |                                        |                                      |                                        |                                      |                                        |                                    |
+|        | [Trident](../Page/Trident_\(排版引擎\).md "wikilink") | [Tasman](../Page/Tasman.md "wikilink") | [Gecko](../Page/Gecko.md "wikilink") | [WebKit](../Page/WebKit.md "wikilink") | [KHTML](../Page/KHTML.md "wikilink") | [Presto](../Page/Presto.md "wikilink") | [iCab](https://zh.wikipedia.org/wiki/iCab "wikilink") |
+| ------ | ------------------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------------------- |
+| `a`    | rowspan="3"                                       | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                          | rowspan="3"                            | rowspan="3"                                           |
+| `link` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
+| `base` |                                                   |                                        |                                      |                                        |                                      |                                        |                                                       |
 
 ## 多媒体元素
 
@@ -725,7 +725,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -827,7 +827,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -906,7 +906,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1057,7 +1057,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1156,7 +1156,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1199,7 +1199,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1238,7 +1238,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1267,7 +1267,7 @@
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/iCab.md" title="wikilink">iCab</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iCab" title="wikilink">iCab</a></p></th>
 </tr>
 </thead>
 <tbody>

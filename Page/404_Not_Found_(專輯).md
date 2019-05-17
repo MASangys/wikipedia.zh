@@ -33,9 +33,9 @@ Found**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
     人氣歌曲](https://hk.video.yahoo.com/hkbuzzaward)
     《[你是你本身的傳奇](https://www.youtube.com/watch?v=cN2ZIUB-39A)》
   - 2016年 香港新城電台
-    新城勁爆頒獎禮[《勁爆十二樂勢力》](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink")
+    新城勁爆頒獎禮[《勁爆十二樂勢力》](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")
   - 2016年 香港商業電台
-    [2016年度叱咤樂壇流行榜頒獎典禮](../Page/2016年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")
+    [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     叱咤樂壇唱作人銀獎
 
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

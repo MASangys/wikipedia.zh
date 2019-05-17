@@ -1,4 +1,4 @@
-《**植物大战僵尸Online**》是由[Popcap开发](../Page/Popcap.md "wikilink")、[腾讯代理的一款兼具](../Page/腾讯.md "wikilink")[卡牌和](../Page/卡片遊戲.md "wikilink")[塔防两种类型的](../Page/塔防.md "wikilink")[网页游戏](../Page/网页游戏.md "wikilink")。游戏使用[QQ号来登录](../Page/騰訊QQ.md "wikilink")，同一个帐号可以登录不同的服务器，但不同的服务器之间的游戏数据不互通。目前，游戏内共有[植物](../Page/植物.md "wikilink")63种，[僵尸](../Page/僵尸.md "wikilink")32种。\[1\]塔防模式关卡共5章，分别是秦始皇陵、埃及沙漠、海盗湾、未来世界和东海龙宫，每一章包含主线和支线关卡。
+《**植物大战僵尸Online**》是由[Popcap开发](https://zh.wikipedia.org/wiki/Popcap "wikilink")、[腾讯代理的一款兼具](../Page/腾讯.md "wikilink")[卡牌和](../Page/卡片遊戲.md "wikilink")[塔防两种类型的](https://zh.wikipedia.org/wiki/塔防 "wikilink")[网页游戏](../Page/网页游戏.md "wikilink")。游戏使用[QQ号来登录](https://zh.wikipedia.org/wiki/騰訊QQ "wikilink")，同一个帐号可以登录不同的服务器，但不同的服务器之间的游戏数据不互通。目前，游戏内共有[植物](../Page/植物.md "wikilink")63种，[僵尸](https://zh.wikipedia.org/wiki/僵尸 "wikilink")32种。\[1\]塔防模式关卡共5章，分别是秦始皇陵、埃及沙漠、海盗湾、未来世界和东海龙宫，每一章包含主线和支线关卡。
 
 ## 玩法
 

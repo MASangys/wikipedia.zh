@@ -1,7 +1,7 @@
-**Jinusean**（）是[韓國](../Page/韓國.md "wikilink")[YG
-Entertainment推出的嘻哈團體](../Page/YG_Entertainment.md "wikilink")，成員包括Jinu、sean。
+**Jinusean**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG
+Entertainment推出的嘻哈團體](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，成員包括Jinu、sean。
 用當時非主流的嘻哈音樂打動當時韓國粉絲的心而造成轟動，應援顏色為紅色，現在為[YG
-Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
+Entertainment理事](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")。
 
 ## 成員資料
 
@@ -29,7 +29,7 @@ Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
 <td><p>首張正規專輯《<strong>Jinusean</strong>》</p>
 <ul>
 <li>發行日期：1997年3月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>
 <td></td>
@@ -39,7 +39,7 @@ Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
 <td><p>第1.5張正規專輯《<strong>The Real</strong>》</p>
 <ul>
 <li>發行日期：1998年1月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>
 <td></td>
@@ -49,7 +49,7 @@ Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
 <td><p>第二張正規專輯《<strong>TAEKWON V</strong>》</p>
 <ul>
 <li>發行日期：1999年3月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>
 <td></td>
@@ -59,7 +59,7 @@ Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
 <td><p>第三張正規專輯《<strong>The Reign</strong>》</p>
 <ul>
 <li>發行日期：2001年2月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>
 <td></td>
@@ -69,7 +69,7 @@ Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
 <td><p>第四張正規專輯《<strong>Track List</strong>》</p>
 <ul>
 <li>發行日期：2001年2月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>
 <td></td>
@@ -96,7 +96,7 @@ Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
 <td><p>首張單曲《<strong>Tell Me One More Time</strong>》</p>
 <ul>
 <li>發行日期：2015年4月15日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>Tell Me One More Time (feat. Jang Hanna)</li>
@@ -138,18 +138,18 @@ Entertainment理事](../Page/YG_Entertainment.md "wikilink")。
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                              | 節目名稱                               | 獲獎歌曲    | 排名 |
-| ----- | ------ | -------------------------------- | ---------------------------------- | ------- | -- |
-| 1997年 | 10月12日 | [SBS](../Page/SBS.md "wikilink") | 電視歌謠20                             | Tell Me | 1位 |
-| 1997年 | 10月19日 | [SBS](../Page/SBS.md "wikilink") | 電視歌謠20                             | Tell Me | 1位 |
-| 1997年 | 10月26日 | [SBS](../Page/SBS.md "wikilink") | 電視歌謠20                             | Tell Me | 1位 |
-| 1997年 | 11月1日  | [MBC](../Page/MBC.md "wikilink") | Top Music                          | Tell Me | 1位 |
-| 1997年 | 11月8日  | [MBC](../Page/MBC.md "wikilink") | Top Music                          | Tell Me | 1位 |
-| 1997年 | 11月12日 | [KBS](../Page/KBS.md "wikilink") | Music Camp                         | Tell Me | 1位 |
-| 1997年 | 11月15日 | [MBC](../Page/MBC.md "wikilink") | Top Music                          | Tell Me | 1位 |
-| 1997年 | 11月19日 | [KBS](../Page/KBS.md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink") | Tell Me | 1位 |
-| 1997年 | 11月26日 | [KBS](../Page/KBS.md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink") | Tell Me | 1位 |
-| 2001年 | 2月8日   | [SBS](../Page/SBS.md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink") | A-Yo    | 1位 |
+| 年份    | 日期     | 電視台                                                 | 節目名稱                                                  | 獲獎歌曲    | 排名 |
+| ----- | ------ | --------------------------------------------------- | ----------------------------------------------------- | ------- | -- |
+| 1997年 | 10月12日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 電視歌謠20                                                | Tell Me | 1位 |
+| 1997年 | 10月19日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 電視歌謠20                                                | Tell Me | 1位 |
+| 1997年 | 10月26日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 電視歌謠20                                                | Tell Me | 1位 |
+| 1997年 | 11月1日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | Top Music                                             | Tell Me | 1位 |
+| 1997年 | 11月8日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | Top Music                                             | Tell Me | 1位 |
+| 1997年 | 11月12日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Music Camp                                            | Tell Me | 1位 |
+| 1997年 | 11月15日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | Top Music                                             | Tell Me | 1位 |
+| 1997年 | 11月19日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink") | Tell Me | 1位 |
+| 1997年 | 11月26日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink") | Tell Me | 1位 |
+| 2001年 | 2月8日   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink") | A-Yo    | 1位 |
 
 ## 外部連結
 

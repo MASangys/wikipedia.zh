@@ -1,5 +1,5 @@
 **J.葛特**（**Jay-Roy
-Grot**，）是[荷蘭的職業足球運動員](../Page/荷蘭.md "wikilink")，司職[前鋒](../Page/前鋒.md "wikilink")，現時被[英冠](../Page/英格蘭足球冠軍聯賽.md "wikilink")[列斯聯外借至](../Page/列斯聯足球會.md "wikilink")[荷甲](../Page/荷甲.md "wikilink")[芬洛](../Page/VVV-芬洛.md "wikilink")。
+Grot**，）是[荷蘭的職業足球運動員](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，司職[前鋒](https://zh.wikipedia.org/wiki/前鋒 "wikilink")，現時被[英冠](../Page/英格蘭足球冠軍聯賽.md "wikilink")[列斯聯外借至](https://zh.wikipedia.org/wiki/列斯聯足球會 "wikilink")[荷甲](https://zh.wikipedia.org/wiki/荷甲 "wikilink")[芬洛](../Page/VVV-芬洛.md "wikilink")。
 
 ## 參考
 

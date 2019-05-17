@@ -1,18 +1,19 @@
-**馬克斯集團**（，），是日本的[AV事務所](../Page/AV事務所.md "wikilink")、旗下公司也負責[成人影片的生產](../Page/成人影片.md "wikilink")。馬克斯集團依其所屬[女優的工作條件](../Page/AV女優.md "wikilink")，
-根據適應年齡分成[MARKS JAPAN](../Page/MARKS_JAPAN.md "wikilink")、[Five
-Promotion](../Page/Five_Promotion.md "wikilink")、[BARDOT旗下三個公司管理](../Page/BARDOT.md "wikilink")\[1\]。
+**馬克斯集團**（，），是日本的[AV事務所](https://zh.wikipedia.org/wiki/AV事務所 "wikilink")、旗下公司也負責[成人影片的生產](https://zh.wikipedia.org/wiki/成人影片 "wikilink")。馬克斯集團依其所屬[女優的工作條件](../Page/AV女優.md "wikilink")，
+根據適應年齡分成[MARKS
+JAPAN](https://zh.wikipedia.org/wiki/MARKS_JAPAN "wikilink")、[Five
+Promotion](https://zh.wikipedia.org/wiki/Five_Promotion "wikilink")、[BARDOT旗下三個公司管理](https://zh.wikipedia.org/wiki/BARDOT "wikilink")\[1\]。
 
 ## 概要
 
-雖然公司剛成立的時候，是規劃系統經紀公司，但是目前單體女優、寫真偶像超過500名以上是所屬於馬克斯集團生產。公司服務項目除了[成人影片以外](../Page/成人影片.md "wikilink")，還從事包括人才培養、圖畫影像、攝影會、談話活動、裸體[模特兒](../Page/模特兒.md "wikilink")、行動網站模特兒、網路模特兒等各種類型的業務範圍。此外也有DMM即時聊天、天使直播、同行聊天等。
+雖然公司剛成立的時候，是規劃系統經紀公司，但是目前單體女優、寫真偶像超過500名以上是所屬於馬克斯集團生產。公司服務項目除了[成人影片以外](https://zh.wikipedia.org/wiki/成人影片 "wikilink")，還從事包括人才培養、圖畫影像、攝影會、談話活動、裸體[模特兒](../Page/模特兒.md "wikilink")、行動網站模特兒、網路模特兒等各種類型的業務範圍。此外也有DMM即時聊天、天使直播、同行聊天等。
 
 集團旗下的BARDOT株式会社（senzai.tv）更經營主導[Office Old
-Crew](../Page/Office_Old_Crew.md "wikilink")、[Coco
-Promotion](../Page/Coco_Promotion.md "wikilink")、[EVEREST
-models](../Page/EVEREST_models.md "wikilink")、[Dolce
-promotion](../Page/Dolce_promotion.md "wikilink")、[Bambi
-Promotion](../Page/Bambi_Promotion.md "wikilink")、[VENES
-Promotion等](../Page/VENES_Promotion.md "wikilink")7家成人經紀公司\[2\]。
+Crew](https://zh.wikipedia.org/wiki/Office_Old_Crew "wikilink")、[Coco
+Promotion](https://zh.wikipedia.org/wiki/Coco_Promotion "wikilink")、[EVEREST
+models](https://zh.wikipedia.org/wiki/EVEREST_models "wikilink")、[Dolce
+promotion](https://zh.wikipedia.org/wiki/Dolce_promotion "wikilink")、[Bambi
+Promotion](https://zh.wikipedia.org/wiki/Bambi_Promotion "wikilink")、[VENES
+Promotion等](https://zh.wikipedia.org/wiki/VENES_Promotion "wikilink")7家成人經紀公司\[2\]。
 
 ## 違法拍片事件
 
@@ -24,8 +25,8 @@ JAPAN在2009年簽約的寫真模特兒，年齡大約在20歲左右的女性。
 
 ## 相關條目
 
-  - [AV女優列表](../Page/AV女優列表.md "wikilink")
-  - [日本色情業](../Page/日本色情業.md "wikilink")
+  - [AV女優列表](https://zh.wikipedia.org/wiki/AV女優列表 "wikilink")
+  - [日本色情業](https://zh.wikipedia.org/wiki/日本色情業 "wikilink")
 
 ## 外部連結
 

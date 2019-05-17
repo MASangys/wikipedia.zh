@@ -22,47 +22,47 @@ Australia分开。\[1\]
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/Linux.md" title="wikilink">Linux</a></p></td>
-<td><p><a href="../Page/Mac_OS.md" title="wikilink">Mac</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac</a></p></td>
 <td><p><a href="../Page/PlayStation_3.md" title="wikilink">PS3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
-<td><p><em><a href="../Page/Freedom_Force_(2002_video_game).md" title="wikilink">Freedom Force</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Freedom_Force_(2002_video_game)" title="wikilink">Freedom Force</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><em><a href="../Page/Tribes:_Vengeance.md" title="wikilink">Tribes: Vengeance</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tribes:_Vengeance" title="wikilink">Tribes: Vengeance</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><em><a href="../Page/SWAT_4.md" title="wikilink">SWAT 4</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SWAT_4" title="wikilink">SWAT 4</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p><em><a href="../Page/BioShock.md" title="wikilink">BioShock</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock" title="wikilink">BioShock</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><em><a href="../Page/BioShock_2.md" title="wikilink">BioShock 2</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock_2" title="wikilink">BioShock 2</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><em><a href="../Page/BioShock_Infinite.md" title="wikilink">BioShock Infinite</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BioShock_Infinite" title="wikilink">BioShock Infinite</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><em><a href="../Page/The_Bureau:_XCOM_Declassified.md" title="wikilink">The Bureau: XCOM Declassified</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Bureau:_XCOM_Declassified" title="wikilink">The Bureau: XCOM Declassified</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><em><a href="../Page/Borderlands:_The_Pre-Sequel!.md" title="wikilink">Borderlands: The Pre-Sequel!</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Borderlands:_The_Pre-Sequel!" title="wikilink">Borderlands: The Pre-Sequel!</a></em></p></td>
 <td></td>
 </tr>
 </tbody>

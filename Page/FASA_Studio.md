@@ -9,27 +9,35 @@ FASA于2007年9月12日被正式关闭。\[1\]
 
 ## 旗下游戏
 
-  - *[MechCommander](../Page/MechCommander.md "wikilink")* –
-    [PC](../Page/Personal_computer.md "wikilink") (1998)
+  - *[MechCommander](https://zh.wikipedia.org/wiki/MechCommander "wikilink")*
+    – [PC](https://zh.wikipedia.org/wiki/Personal_computer "wikilink")
+    (1998)
   - *[MechWarrior 4:
-    Vengeance](../Page/MechWarrior_4:_Vengeance.md "wikilink")* –
-    [PC](../Page/Personal_computer.md "wikilink") (2000)
-  - *[MechCommander 2](../Page/MechCommander_2.md "wikilink")* –
-    [PC](../Page/Personal_computer.md "wikilink") (2001)
+    Vengeance](https://zh.wikipedia.org/wiki/MechWarrior_4:_Vengeance "wikilink")*
+    – [PC](https://zh.wikipedia.org/wiki/Personal_computer "wikilink")
+    (2000)
+  - *[MechCommander
+    2](https://zh.wikipedia.org/wiki/MechCommander_2 "wikilink")* –
+    [PC](https://zh.wikipedia.org/wiki/Personal_computer "wikilink")
+    (2001)
   - *[MechWarrior 4:
-    Mercenaries](../Page/MechWarrior_4:_Mercenaries.md "wikilink")* –
-    [PC](../Page/Personal_computer.md "wikilink") (2002)
-  - *[Mechassault](../Page/Mechassault.md "wikilink")* –
-    [Xbox](../Page/Xbox_\(console\).md "wikilink") (2002)
+    Mercenaries](https://zh.wikipedia.org/wiki/MechWarrior_4:_Mercenaries "wikilink")*
+    – [PC](https://zh.wikipedia.org/wiki/Personal_computer "wikilink")
+    (2002)
+  - *[Mechassault](https://zh.wikipedia.org/wiki/Mechassault "wikilink")*
+    – [Xbox](https://zh.wikipedia.org/wiki/Xbox_\(console\) "wikilink")
+    (2002)
   - *[Crimson Skies: High Road to
-    Revenge](../Page/Crimson_Skies:_High_Road_to_Revenge.md "wikilink")*
-    – [Xbox](../Page/Xbox_\(console\).md "wikilink") (2003)
+    Revenge](https://zh.wikipedia.org/wiki/Crimson_Skies:_High_Road_to_Revenge "wikilink")*
+    – [Xbox](https://zh.wikipedia.org/wiki/Xbox_\(console\) "wikilink")
+    (2003)
   - *[Mechassault 2: Lone
-    Wolf](../Page/Mechassault_2:_Lone_Wolf.md "wikilink")* –
-    [Xbox](../Page/Xbox_\(console\).md "wikilink") (2004)
-  - *[Shadowrun](../Page/Shadowrun_\(2007_video_game\).md "wikilink")* –
-    [PC](../Page/Personal_computer.md "wikilink"), [Xbox
-    360](../Page/Xbox_360.md "wikilink") (2007)
+    Wolf](https://zh.wikipedia.org/wiki/Mechassault_2:_Lone_Wolf "wikilink")*
+    – [Xbox](https://zh.wikipedia.org/wiki/Xbox_\(console\) "wikilink")
+    (2004)
+  - *[Shadowrun](https://zh.wikipedia.org/wiki/Shadowrun_\(2007_video_game\) "wikilink")*
+    – [PC](https://zh.wikipedia.org/wiki/Personal_computer "wikilink"),
+    [Xbox 360](../Page/Xbox_360.md "wikilink") (2007)
 
 ## 参考资料
 

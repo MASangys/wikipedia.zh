@@ -1,7 +1,7 @@
 「**IGNITION**」是[EXILE
 SHOKICHI於](../Page/SHOKICHI.md "wikilink")2015年10月28日發行的第4張單曲。分別有CD+DVD及CD
 ONLY共2種形態發行。另外還有FC及MOBILE限定的ONE COIN CD發售。
-音樂錄影帶有[EXILE的世界所率領的舞蹈組合](../Page/EXILE.md "wikilink")「XXIV
+音樂錄影帶有[EXILE的世界所率領的舞蹈組合](https://zh.wikipedia.org/wiki/EXILE "wikilink")「XXIV
 CLAN」參與演出。
 
 ## 収録曲

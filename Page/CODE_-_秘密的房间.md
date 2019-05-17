@@ -66,7 +66,7 @@ Code」環節中，最後未逃出的玩家為該集淘汰者。
 <td><p>歌手，組合（）成員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳賢旻.md" title="wikilink">吳賢旻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳賢旻" title="wikilink">吳賢旻</a></p></td>
 <td><p>大學生、藝人</p></td>
 </tr>
 <tr class="odd">
@@ -154,7 +154,7 @@ Code」環節中，最後未逃出的玩家為該集淘汰者。
 </ul>
 <p>剩餘四位嘉賓在各自的房間中，按順序使用手槍朝想淘汰者所在房間開槍，被開槍次數最多者淘汰。每人有兩發子彈。</p></td>
 <td><p>密碼：C9H8O4<br />
-（<a href="../Page/阿斯匹靈.md" title="wikilink">阿斯匹靈的化學式</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/阿斯匹靈" title="wikilink">阿斯匹靈的化學式</a>）<br />
 第一位逃脫者：吳賢旻<br />
 淘汰者：徐宥利</p></td>
 </tr>
@@ -276,7 +276,7 @@ Code」環節中，最後未逃出的玩家為該集淘汰者。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/吳賢旻.md" title="wikilink">吳賢旻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳賢旻" title="wikilink">吳賢旻</a></p></td>
 <td><p>大學生、藝人</p></td>
 </tr>
 <tr class="even">
@@ -304,7 +304,7 @@ Code」環節中，最後未逃出的玩家為該集淘汰者。
 <td><p>演員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/艾迪·金.md" title="wikilink">Eddy Kim</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾迪·金" title="wikilink">Eddy Kim</a></p></td>
 <td><p>歌手</p></td>
 </tr>
 <tr class="odd">
@@ -316,7 +316,7 @@ Code」環節中，最後未逃出的玩家為該集淘汰者。
 <td><p>歌手、藝人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張成圭.md" title="wikilink">張成圭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張成圭" title="wikilink">張成圭</a></p></td>
 <td><p>主播</p></td>
 </tr>
 <tr class="even">

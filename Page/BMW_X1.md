@@ -1,5 +1,5 @@
 **BMW
-X1**是[德國汽車公司](../Page/德國.md "wikilink")[BMW生產的一款緊湊型](../Page/BMW.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，於2009年上市。現在BMW
+X1**是[德國汽車公司](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW生產的一款緊湊型](../Page/BMW.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，於2009年上市。現在BMW
 X1已經發售了兩代產品。BMW
 X1的概念車在2008年[巴黎車展上首次亮相](../Page/巴黎車展.md "wikilink")\[1\]。2009年，BMW
 X1開始在BMW萊比錫工廠生產。自上市以來至2013年9月，BMW X1已經在全世界銷售約50萬台\[2\]。 {{-}}

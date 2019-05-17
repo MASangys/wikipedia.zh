@@ -21,15 +21,15 @@
 <thead>
 <tr class="header">
 <th></th>
-<th><p><a href="../Page/雲豹裝甲車.md" title="wikilink">雲豹裝甲車</a> </p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/雲豹裝甲車" title="wikilink">雲豹裝甲車</a> </p></th>
 <th><p><a href="../Page/BTR-80.md" title="wikilink">BTR-80</a> </p></th>
 <th><p><a href="../Page/VBCI裝步戰車.md" title="wikilink">VBCI裝步戰車</a> </p></th>
-<th><p><a href="../Page/拳獅裝甲車.md" title="wikilink">拳獅裝甲車</a> </p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/拳獅裝甲車" title="wikilink">拳獅裝甲車</a> </p></th>
 <th><p><a href="../Page/史崔克裝甲車.md" title="wikilink">史崔克裝甲車</a> </p></th>
-<th><p><a href="../Page/柏迪亞裝甲車.md" title="wikilink">柏迪亞裝甲車</a> </p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/柏迪亞裝甲車" title="wikilink">柏迪亞裝甲車</a> </p></th>
 <th><p><a href="../Page/潘德2型裝甲車.md" title="wikilink">潘德2型裝甲車</a> </p></th>
 <th><p><a href="../Page/96式裝甲運兵車.md" title="wikilink">96式裝甲運兵車</a> </p></th>
-<th><p><a href="../Page/AV-81裝甲車.md" title="wikilink">AV-81裝甲車</a> </p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AV-81裝甲車" title="wikilink">AV-81裝甲車</a> </p></th>
 <th><p><a href="../Page/BTR-3.md" title="wikilink">BTR-3</a> </p></th>
 <th><p><a href="../Page/BTR-4.md" title="wikilink">BTR-4</a> </p></th>
 </tr>
@@ -147,9 +147,9 @@
 <tr class="even">
 <td><p>武装</p></td>
 <td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242鏈炮</a><br />
-<a href="../Page/T-74排用機槍.md" title="wikilink">T-74排用機槍</a>×2</small><br />
+<a href="https://zh.wikipedia.org/wiki/T-74排用機槍" title="wikilink">T-74排用機槍</a>×2</small><br />
 <small>T90重機槍</small></p></td>
-<td><p><small><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">30mm 2A72機炮</a><br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">30mm 2A72機炮</a><br />
 或<a href="../Page/KPV重機槍.md" title="wikilink">14.5 mm KPVT重機槍</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">7.62 mm PKT機槍</a></small></p></td>
 <td><p><small>25 mm M811機砲<br />
@@ -216,8 +216,8 @@ KT-7.62mm同轴机枪<br />
 
 ## 参见
 
-  - [乌克兰军事](../Page/乌克兰军事.md "wikilink")
-  - [乌克兰陆军](../Page/乌克兰陆军.md "wikilink")
+  - [乌克兰军事](https://zh.wikipedia.org/wiki/乌克兰军事 "wikilink")
+  - [乌克兰陆军](https://zh.wikipedia.org/wiki/乌克兰陆军 "wikilink")
   - [BTR-4](../Page/BTR-4.md "wikilink")
   - [BTR-80](../Page/BTR-80.md "wikilink")
 

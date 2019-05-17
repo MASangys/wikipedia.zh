@@ -1,9 +1,10 @@
 《**Thunderbolt Fantasy
-東離劍遊紀**》是一部由[臺灣和](../Page/臺灣.md "wikilink")[日本雙方合作的](../Page/日本.md "wikilink")[奇幻](../Page/奇幻.md "wikilink")[武俠](../Page/武俠.md "wikilink")[布袋戲偶電視劇集作品](../Page/布袋戲.md "wikilink")。劇本由日本編劇[虛淵玄撰寫](../Page/虛淵玄.md "wikilink")，布袋戲劇由臺灣[霹靂布袋戲製作](../Page/霹靂布袋戲.md "wikilink")，劇名由霹靂的黃強華董事長命名。\[1\]本作是[布袋戲此一傳統藝術首次進行臺灣及日本跨界合作的作品](../Page/布袋戲.md "wikilink")。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](../Page/愛奇藝.md "wikilink")、[哔哩哔哩及](../Page/哔哩哔哩.md "wikilink")[Crunchyroll進行三地聯播](../Page/Crunchyroll.md "wikilink")。
+東離劍遊紀**》是一部由[臺灣和](../Page/臺灣.md "wikilink")[日本雙方合作的](../Page/日本.md "wikilink")[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲偶電視劇集作品](../Page/布袋戲.md "wikilink")。劇本由日本編劇[虛淵玄撰寫](../Page/虛淵玄.md "wikilink")，布袋戲劇由臺灣[霹靂布袋戲製作](../Page/霹靂布袋戲.md "wikilink")，劇名由霹靂的黃強華董事長命名。\[1\]本作是[布袋戲此一傳統藝術首次進行臺灣及日本跨界合作的作品](../Page/布袋戲.md "wikilink")。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[哔哩哔哩及](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")[Crunchyroll進行三地聯播](../Page/Crunchyroll.md "wikilink")。
 
 2017年上映外傳電影《[Thunderbolt Fantasy
-生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》。2018年10月1日開播第二季《[Thunderbolt
-Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》。
+生死一劍](https://zh.wikipedia.org/wiki/Thunderbolt_Fantasy_生死一劍 "wikilink")》。2018年10月1日開播第二季《[Thunderbolt
+Fantasy
+東離劍遊紀2](https://zh.wikipedia.org/wiki/Thunderbolt_Fantasy_東離劍遊紀2 "wikilink")》。
 
 ## 製作
 
@@ -17,23 +18,23 @@ Fantasy作品企劃就此誕生。
   - 原作、製作：Thunderbolt Fantasy Project
   - 總導演：[黃強華](../Page/黃強華.md "wikilink")
   - 導演：王嘉祥
-  - 副導演：[鄭保品](../Page/鄭保品.md "wikilink")
+  - 副導演：[鄭保品](https://zh.wikipedia.org/wiki/鄭保品 "wikilink")
   - 原案、編劇、總監修：[虛淵玄](../Page/虛淵玄.md "wikilink")
   - 操演、攝影：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")
   - 操偶師：廖嘉升、洪嘉章、吳聖恩\[3\]、蕭儀村、曾瑞榮 \[4\]、丁振清\[5\]、劉招星、李易修、邱仲文、吳宜謙\[6\]
-  - 美術監督：[林芷蔚](../Page/林芷蔚.md "wikilink")
+  - 美術監督：[林芷蔚](https://zh.wikipedia.org/wiki/林芷蔚 "wikilink")
   - 角色設計：[Nitro+](../Page/Nitro+.md "wikilink")（三杜シノヴ、源覺、Niθ、中央東口）
   - 人偶雕刻師：洪裕傑\[7\]、洪劍山\[8\]、劉夢凡&黃偉晉\[9\]\[10\]
   - 人偶服裝造型師：樊仕清、陳有豐 \[11\]
   - 人偶造型顧問：[Good Smile
     Company](../Page/Good_Smile_Company.md "wikilink")
   - 武器設計：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、石渡マコト
-  - CG製作：[大畫電影文化](../Page/大畫電影文化.md "wikilink")
-  - 音樂：[澤野弘之](../Page/澤野弘之.md "wikilink")
+  - CG製作：[大畫電影文化](https://zh.wikipedia.org/wiki/大畫電影文化 "wikilink")
+  - 音樂：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
   - 音響監督：[岩浪美和](../Page/岩浪美和.md "wikilink")
   - 製片人：陳義方、西本有里、北岡功、中原広絵、山田香穂
   - 助理製作人：宇佐義大、沢野麻由美
-  - 執行製片人：[黃亮勛](../Page/黃亮勛.md "wikilink")、でじたろう、安藝貴範
+  - 執行製片人：[黃亮勛](https://zh.wikipedia.org/wiki/黃亮勛 "wikilink")、でじたろう、安藝貴範
   - 出品：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、Nitro+、Good Smile
     Company
 
@@ -55,7 +56,7 @@ Fantasy作品企劃就此誕生。
 
   -
     操偶師：吳聖恩
-    ；[聲](../Page/配音員.md "wikilink")：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（日語）／[黃滙峰](../Page/黃滙峰.md "wikilink")（臺語）
+    ；[聲](../Page/配音員.md "wikilink")：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（日語）／[黃滙峰](https://zh.wikipedia.org/wiki/黃滙峰 "wikilink")（臺語）
     詩號：「幽夜匿形不謂隱　明光伏影是迷觀　虛實由來如一紙　誰識幻中吾真顏」
     稱號「」，又自稱「」。
     渾身散發著翩翩風度、氣質神秘的美男子，知識淵博，善於計謀，舉手投足永遠優雅從容。攜有易容用頭巾，手中常持煙管「煙月」，所吐之煙能使人產生幻覺，亦可變成破鎖工具或劍。據本人自述，自己專竊桀傲不遜之人的狂傲，意即竊取他人自尊。
@@ -80,7 +81,7 @@ Fantasy作品企劃就此誕生。
 
   -
     操偶師：廖嘉昇
-    ；聲：[中原麻衣](../Page/中原麻衣.md "wikilink")（日語）／[鄧瑋德](../Page/鄧瑋德.md "wikilink")（臺語）
+    ；聲：[中原麻衣](../Page/中原麻衣.md "wikilink")（日語）／[鄧瑋德](https://zh.wikipedia.org/wiki/鄧瑋德 "wikilink")（臺語）
     詩號：「膺懷丹心承天命　身負恩仇江湖行　裂棄柔絲綺羅絹　付盡情夢仗寒兵」
     稱號「聖輝丹心」
     代代相傳的護印師一族後裔，負責看守祀奉著聖劍「天刑劍」的「鍛劍祠」，以及天刑劍的劍鍔。兵器為「翠輝劍」。
@@ -166,7 +167,7 @@ Fantasy作品企劃就此誕生。
 <!-- end list -->
 
   -
-    聲：[山路和弘](../Page/山路和弘.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")（日語）／黃滙峰（臺語）
     兩鬢飛霜的老者。因持有攻克迷宮所需的「迴靈笛」而受凜雪鴉請託，但半途卻遇上殺無生並被他殺害，身上的「迴靈笛」也被取走。
 
 <!-- end list -->
@@ -263,7 +264,7 @@ Fantasy作品企劃就此誕生。
 ## 主題曲
 
   - 「RAIMEI（雷鳴）」
-    作詞：，作曲、編曲：[淺倉大介](../Page/淺倉大介.md "wikilink")，主唱：[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
+    作詞：，作曲、編曲：[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")，主唱：[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
 
 ## 各話標題
 
@@ -396,14 +397,14 @@ Fantasy作品企劃就此誕生。
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
-<th><p><a href="../Page/原動力文化.md" title="wikilink">原動力文化</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/原動力文化" title="wikilink">原動力文化</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -490,7 +491,7 @@ Thunderbolt Fantasy 東離劍遊紀 創作合輯ANTHOLOGY</p></td>
 <thead>
 <tr class="header">
 <th><p>標題</p></th>
-<th><p><a href="../Page/Nitroplus.md" title="wikilink">Nitroplus</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Nitroplus" title="wikilink">Nitroplus</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -513,7 +514,7 @@ Thunderbolt Fantasy 東離劍遊紀 創作合輯ANTHOLOGY</p></td>
 <thead>
 <tr class="header">
 <th><p>標題</p></th>
-<th><p><a href="../Page/Nitroplus.md" title="wikilink">Nitroplus</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Nitroplus" title="wikilink">Nitroplus</a></p></th>
 <th><p>大霹靂國際整合行銷<br />
 （青文出版社）</p></th>
 </tr>
@@ -544,7 +545,7 @@ Thunderbolt Fantasy 東離劍遊紀 創作合輯ANTHOLOGY</p></td>
 <tr class="header">
 <th><p>冊數</p></th>
 <th><p>標題</p></th>
-<th><p><a href="../Page/Nitroplus.md" title="wikilink">Nitroplus Books</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Nitroplus" title="wikilink">Nitroplus Books</a></p></th>
 <th><p>台灣角川</p></th>
 </tr>
 </thead>

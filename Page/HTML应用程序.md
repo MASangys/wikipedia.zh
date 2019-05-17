@@ -5,14 +5,15 @@
 {{ Infobox file format | name = HTML Application (HTA) | icon = | logo =
 | screenshot = | caption = | extension = `.hta` | mime = application/hta
 | typecode = | uniform type = | magic = `%hta` | owner =
-[Microsoft](../Page/Microsoft.md "wikilink") | released =  | latest
-release version = | latest release date = | genre = | container for = |
-contained by = | extended from = | extended to = | standard = | free = |
-url = <https://msdn.microsoft.com/en-us/library/ms536471(VS.85>).aspx }}
+[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") |
+released =  | latest release version = | latest release date = | genre =
+| container for = | contained by = | extended from = | extended to = |
+standard = | free = | url =
+<https://msdn.microsoft.com/en-us/library/ms536471(VS.85>).aspx }}
 
 **HTML應用程式**（，缩写：**HTA**）是一个使用[HTML和动态](../Page/HTML.md "wikilink")
 HTML的[Microsoft
-Windows应用程式](../Page/Microsoft_Windows.md "wikilink")，它由[Internet
+Windows应用程式](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，它由[Internet
 Explorer支持](../Page/Internet_Explorer.md "wikilink")，并且支援的其他脚本语言，像是[VBS和](../Page/VBScript.md "wikilink")[JScript](../Page/JScript.md "wikilink")。HTML用来创建用户介面，脚本语言則用来建構-{zh-hans:程序;zh-cn:程序;zh-hant:程式;zh-tw:程式}-主体。HTA执行当中没有互联网浏览器的安全模型的限制；实际上，它就像是一个被"完全信任"的-{zh-hans:应用;zh-cn:应用;zh-hant:應用程式;zh-tw:應用程式}-。
 
 大部分HTA執行檔的-{zh-hans:后缀;zh-cn:后缀;zh-hant:副檔名;zh-tw:副檔名}-为 `.hta`。
@@ -66,7 +67,8 @@ Explorer域的错误信息.
 ## 开发
 
 要定制一个HTA的特定外观, 一个可选的标签 `hta:application` 在 `HEAD` 中被加入. 这个标签公开了一组属性,
-可以控制程序外观, 程序图标等, 并且提供对参数 ([命令行](../Page/命令行.md "wikilink"))
+可以控制程序外观, 程序图标等, 并且提供对参数
+([命令行](https://zh.wikipedia.org/wiki/命令行 "wikilink"))
 的控制来启动HTA.\[6\] 除此以外, HTA
 和一个[HTML页面的格式是相同的](../Page/HTML.md "wikilink").
 
@@ -99,7 +101,7 @@ Explorer域的错误信息.
   - Active Scripting
   - Chromium Embedded Framework
   - Google Chrome extension
-  - [Intranet](../Page/内部网.md "wikilink")
+  - [Intranet](https://zh.wikipedia.org/wiki/内部网 "wikilink")
   - [Firefox OS](../Page/Firefox_OS.md "wikilink")
   - [XUL](../Page/XUL.md "wikilink") 和 XULRunner - 一个Mozilla的跨平台应用程序,
     它的语言和环境与HTML应用程序的机制相类似。

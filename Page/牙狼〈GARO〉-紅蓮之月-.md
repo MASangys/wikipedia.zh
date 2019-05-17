@@ -1,6 +1,6 @@
 《**牙狼－紅蓮之月－**》（）是《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》系列的第二部動畫作品。於2015年8月公佈《牙狼》新系列動畫啟動\[1\]，並於2015年10月9日開始在[東京電視網等頻道播放](../Page/東京電視網.md "wikilink")。
 
-故事以日本[平安時代作為舞台](../Page/平安時代.md "wikilink")，此次黃金騎士所活躍的舞台是「平安之都」。
+故事以日本[平安時代作為舞台](https://zh.wikipedia.org/wiki/平安時代 "wikilink")，此次黃金騎士所活躍的舞台是「平安之都」。
 
 ## 故事概要
 
@@ -69,7 +69,7 @@
   - 企劃監製：久保亨
   - 監製：鷹木純一
   - 特別協力：Sansei R\&D
-  - 動畫製作：[MAPPA](../Page/MAPPA.md "wikilink")、東北新社
+  - 動畫製作：[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")、東北新社
   - 製作：東北新社
 
 ### 主題曲
@@ -207,7 +207,7 @@ Hwang Mi Jeong</p></td>
 <td></td>
 <td><p>兄弟</p></td>
 <td><p>會川昇<br />
-<a href="../Page/猪爪慎一.md" title="wikilink">猪爪慎一</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/猪爪慎一" title="wikilink">猪爪慎一</a></p></td>
 <td><p>下田正美</p></td>
 <td><p>波多正美</p></td>
 <td><p>Yang Jeong Hui<br />
@@ -411,22 +411,22 @@ Lee Min Bae</p></td>
 
 ### 播放電視台
 
-| 播放地區                                                              | 播放電視台                                    | 播放日期                               | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播局                                | 備註  |
-| ----------------------------------------------------------------- | ---------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ | --- |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink")                              | [東京電視台](../Page/東京電視台.md "wikilink")     | 2015年10月9日－2016年4月1日               | 星期五 25時23分－25時53分                                                       | [東京電視網](../Page/東京電視網.md "wikilink") |     |
-| [北海道](../Page/北海道.md "wikilink")                                  | [TV北海道](../Page/TV北海道.md "wikilink")     |                                    |                                                                         |                                      |     |
-| [岡山縣](../Page/岡山縣.md "wikilink")、[香川縣](../Page/香川縣.md "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")   | 星期五 25時53分－26時23分                  |                                                                         |                                      |     |
-| [愛知縣](../Page/愛知縣.md "wikilink")                                  | [愛知電視台](../Page/愛知電視台.md "wikilink")     | 星期五 26時05分－26時35分                  |                                                                         |                                      |     |
-| [大阪府](../Page/大阪府.md "wikilink")                                  | [大阪電視台](../Page/大阪電視台.md "wikilink")     | 星期五 26時10分－26時40分                  |                                                                         |                                      |     |
-| [福岡縣](../Page/福岡縣.md "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink") | 2015年10月10日－2016年4月2日              | 星期六 25時55分－26時25分                                                       |                                      |     |
-| [福井縣](../Page/福井縣.md "wikilink")                                  | [福井電視台](../Page/福井電視台.md "wikilink")     | 2015年10月15日－                       | 星期四 25時45分－26時15分                                                       | [富士新聞網](../Page/富士新聞網.md "wikilink") |     |
-| 日本全國                                                              | STAR Channel                             | 2015年10月16日－                       | 星期五 20時15分－20時45分                                                       | [衛星電視](../Page/衛星電視.md "wikilink")   | 有重播 |
-| [NICONICO直播](../Page/NICONICO直播.md "wikilink")                    | 星期五 24時00分－24時30分                        | [網絡電視](../Page/網絡電視.md "wikilink") |                                                                         |                                      |     |
-| [NICONICO頻道](../Page/NICONICO頻道.md "wikilink")                    | 星期五 24時30分 更新                            |                                    |                                                                         |                                      |     |
-| [萬代頻道](../Page/萬代頻道.md "wikilink")                                | 2015年10月17日－                             | 星期六 12時00分 更新                      |                                                                         |                                      |     |
-| 家庭劇場                                                              | 2015年10月24日－                             | 星期六 20時25分－21時00分                  | [衛星電視](../Page/衛星電視.md "wikilink")                                      | 有重播                                  |     |
-| [青森縣](../Page/青森縣.md "wikilink")                                  | [青森朝日放送](../Page/青森朝日放送.md "wikilink")   | 2015年11月1日－                        | 星期日 25時25分－25時55分                                                       | [朝日電視網](../Page/朝日電視網.md "wikilink") |     |
-|                                                                   |                                          |                                    |                                                                         |                                      |     |
+| 播放地區                                                                                 | 播放電視台                                                     | 播放日期                                                  | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播局                                                   | 備註  |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --- |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")                              | [東京電視台](../Page/東京電視台.md "wikilink")                      | 2015年10月9日－2016年4月1日                                  | 星期五 25時23分－25時53分                                                                                             | [東京電視網](../Page/東京電視網.md "wikilink")                    |     |
+| [北海道](../Page/北海道.md "wikilink")                                                     | [TV北海道](../Page/TV北海道.md "wikilink")                      |                                                       |                                                                                                               |                                                         |     |
+| [岡山縣](../Page/岡山縣.md "wikilink")、[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")                    | 星期五 25時53分－26時23分                                     |                                                                                                               |                                                         |     |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                                     | [愛知電視台](../Page/愛知電視台.md "wikilink")                      | 星期五 26時05分－26時35分                                     |                                                                                                               |                                                         |     |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")                                  | [大阪電視台](../Page/大阪電視台.md "wikilink")                      | 星期五 26時10分－26時40分                                     |                                                                                                               |                                                         |     |
+| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  | 2015年10月10日－2016年4月2日                                 | 星期六 25時55分－26時25分                                                                                             |                                                         |     |
+| [福井縣](../Page/福井縣.md "wikilink")                                                     | [福井電視台](https://zh.wikipedia.org/wiki/福井電視台 "wikilink")   | 2015年10月15日－                                          | 星期四 25時45分－26時15分                                                                                             | [富士新聞網](../Page/富士新聞網.md "wikilink")                    |     |
+| 日本全國                                                                                 | STAR Channel                                              | 2015年10月16日－                                          | 星期五 20時15分－20時45分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")   | 有重播 |
+| [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO直播 "wikilink")                    | 星期五 24時00分－24時30分                                         | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |                                                                                                               |                                                         |     |
+| [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink")                    | 星期五 24時30分 更新                                             |                                                       |                                                                                                               |                                                         |     |
+| [萬代頻道](../Page/萬代頻道.md "wikilink")                                                   | 2015年10月17日－                                              | 星期六 12時00分 更新                                         |                                                                                                               |                                                         |     |
+| 家庭劇場                                                                                 | 2015年10月24日－                                              | 星期六 20時25分－21時00分                                     | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | 有重播                                                     |     |
+| [青森縣](../Page/青森縣.md "wikilink")                                                     | [青森朝日放送](https://zh.wikipedia.org/wiki/青森朝日放送 "wikilink") | 2015年11月1日－                                           | 星期日 25時25分－25時55分                                                                                             | [朝日電視網](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink") |     |
+|                                                                                      |                                                           |                                                       |                                                                                                               |                                                         |     |
 
 ## 參考資料
 

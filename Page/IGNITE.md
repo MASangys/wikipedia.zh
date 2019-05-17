@@ -3,23 +3,23 @@ Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
-IGNITE為繼2014年的《[虹之音](../Page/虹之音.md "wikilink")》後，藍井艾露的第7張單曲，是[電視動畫](../Page/電視動畫.md "wikilink")《[刀劍神域II](../Page/刀劍神域.md "wikilink")》GGO篇的主題曲。
+IGNITE為繼2014年的《[虹之音](../Page/虹之音.md "wikilink")》後，藍井艾露的第7張單曲，是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[刀劍神域II](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》GGO篇的主題曲。
 
 IGNITE的主題是「勇氣」與「再生」，以受精神創傷帶來的恐怖感困擾的人為歌唱主題
 。另一方面IGNITE在英文上有著「點燃」、「使燃燒」的意思，亦反映出動畫中的世界觀。
 
 於歌詞中出現的顏色均代表一個於作中出現登場人物，「藍色」（詩乃）代表「火」，「紅色」（桐人）代表「果敢的淚水」。而在IGNITE中擔當作詞與曲的小川智之表示其初作曲時表現不到以上想帶出的情感。另外為了更好的表現聲調與主人公心情的變化，歌曲採用了藍井艾露的建議，分別在歌曲中使用自己平常的聲音、[假聲和](../Page/假聲.md "wikilink")。
 
-[PV的主題與歌曲的主題](../Page/音樂影片.md "wikilink")「再生」一樣。講述藍井艾露因為在過去對煙火有精神創傷而猶豫著是否點燃發煙筒，而背景中有激光射著她。
+[PV的主題與歌曲的主題](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")「再生」一樣。講述藍井艾露因為在過去對煙火有精神創傷而猶豫著是否點燃發煙筒，而背景中有激光射著她。
 
 ### 單曲發行
 
-《IGNITE》的發售日是2014年8月20日，與[春奈露娜主唱的](../Page/春奈露娜.md "wikilink")《刀劍神域II》GGO篇[片尾曲](../Page/片尾曲.md "wikilink")《[Startear](../Page/Startear.md "wikilink")》的發售日相同\[1\]。
+《IGNITE》的發售日是2014年8月20日，與[春奈露娜主唱的](../Page/春奈露娜.md "wikilink")《刀劍神域II》GGO篇[片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")《[Startear](../Page/Startear.md "wikilink")》的發售日相同\[1\]。
 
 販買形式分別為初回限定盤（SECL-1552/3）、通常盤（SECL-1554）與期間限定盤（SECL-1555/6）3種。初回限定盤收錄了IGNITE的PV、花絮、於2014年4月18日假[澀谷公會堂舉行的](../Page/澀谷公會堂.md "wikilink")「」演唱會的影片與於《》播映的《藍井艾露×[春奈露娜特集](../Page/春奈露娜.md "wikilink")/巨大迷宮編》的影片\[2\]。期間限定盤則收錄了《刀劍神域II》的無工作人員名單片頭影片。另外期間限定盤的封面則是《刀劍神域II》主角桐人於作中登場的VRMMORPG《Gun
 Gale Online（GGO）》中的模樣\[3\]。
 
-專輯第二首歌為《Brainwash》、藍井艾露稱其為「小調版的搖滾」。另外此曲的作曲安田貴廣透露，《Brainwash》的標題是參考藍井艾露自己的[戰歌中的歌詞所作的](../Page/戰歌.md "wikilink")。專輯第三首歌則名叫《泡沫》，是一首帶民謠風格的流行歌曲，有著波浪與泡沫的音效，而標題是藍井艾露讀了《[人魚公主](../Page/人魚公主.md "wikilink")》一書後所想的。
+專輯第二首歌為《Brainwash》、藍井艾露稱其為「小調版的搖滾」。另外此曲的作曲安田貴廣透露，《Brainwash》的標題是參考藍井艾露自己的[戰歌中的歌詞所作的](https://zh.wikipedia.org/wiki/戰歌 "wikilink")。專輯第三首歌則名叫《泡沫》，是一首帶民謠風格的流行歌曲，有著波浪與泡沫的音效，而標題是藍井艾露讀了《[人魚公主](https://zh.wikipedia.org/wiki/人魚公主 "wikilink")》一書後所想的。
 
 ## 收錄曲
 
@@ -42,7 +42,7 @@ Gale Online（GGO）》中的模樣\[3\]。
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Billboard_JAPAN.md" title="wikilink">Billboard JAPAN</a> Hot 100[5]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Billboard_JAPAN" title="wikilink">Billboard JAPAN</a> Hot 100[5]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -62,11 +62,11 @@ Gale Online（GGO）》中的模樣\[3\]。
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Mora.md" title="wikilink">Mora一般</a>/日本音樂/動畫[10]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mora" title="wikilink">Mora一般</a>/日本音樂/動畫[10]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iTunes.md" title="wikilink">iTunes綜合歌曲</a>/動畫歌曲[11]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes綜合歌曲</a>/動畫歌曲[11]</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

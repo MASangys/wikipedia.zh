@@ -9,7 +9,7 @@ Explorer](../Page/Internet_Explorer.md "wikilink")
 9之前的版本几乎不支持HTML5元素和其它HTML5特性。\[1\]
 HTML5Shiv允许[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")
-9之前的版本识别[HTML5标记](../Page/HTML5.md "wikilink")，并允许他们使用[CSS样式](../Page/CSS.md "wikilink")。
+9之前的版本识别[HTML5标记](../Page/HTML5.md "wikilink")，并允许他们使用[CSS样式](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 ## 使用示例
 

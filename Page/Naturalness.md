@@ -6,7 +6,7 @@ Dal★Shabet 的魅力。
 
 ## 外部連結
 
-[分類:2016年迷你專輯](../Page/分類:2016年迷你專輯.md "wikilink")
+[分類:2016年迷你專輯](https://zh.wikipedia.org/wiki/分類:2016年迷你專輯 "wikilink")
 
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 [Category:Dal★Shabet专辑](https://zh.wikipedia.org/wiki/Category:Dal★Shabet专辑 "wikilink")

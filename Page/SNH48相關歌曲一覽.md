@@ -1,4 +1,4 @@
-**SNH48相關歌曲一覽**是[SNH48相關歌曲的一覽表](../Page/SNH48.md "wikilink")。
+**SNH48相關歌曲一覽**是[SNH48相關歌曲的一覽表](https://zh.wikipedia.org/wiki/SNH48 "wikilink")。
 
 為便於查閱，劇場公演中出現的歌曲與發行唱片中收錄的歌曲若有相同者，會在列表中重複記載。而專輯中只列出該專輯發行的新歌。
 
@@ -603,7 +603,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2014年3月12日</p></td>
-<td><p>《<strong><a href="../Page/心電感應_(SNH48_EP).md" title="wikilink">心電感應</a></strong>》</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/心電感應_(SNH48_EP)" title="wikilink">心電感應</a></strong>》</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -615,7 +615,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2015年1月15日</p></td>
-<td><p>《<strong><a href="../Page/青春的约定.md" title="wikilink">青春的约定</a></strong>》</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/青春的约定" title="wikilink">青春的约定</a></strong>》</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -650,7 +650,7 @@
 ## 专辑
 
   -
-    **1.[一心向前](../Page/勇往直前.md "wikilink")**
+    **1.[一心向前](https://zh.wikipedia.org/wiki/勇往直前 "wikilink")**
       - 一心向前
       - [遙遠的彼岸](../Page/So_long!.md "wikilink")
       - [櫻花書籤](../Page/櫻花印記.md "wikilink")

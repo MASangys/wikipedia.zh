@@ -1,8 +1,8 @@
-**ERIHIRO**，[日本演唱組合](../Page/日本.md "wikilink")，由知名的[女子團體](../Page/女子團體.md "wikilink")「[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")」成員[今井繪理子和](../Page/今井繪理子.md "wikilink")[島袋寬子所組成](../Page/島袋寬子.md "wikilink")。團名取自兩人的姓名。
+**ERIHIRO**，[日本演唱組合](../Page/日本.md "wikilink")，由知名的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")「[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")」成員[今井繪理子和](../Page/今井繪理子.md "wikilink")[島袋寬子所組成](../Page/島袋寬子.md "wikilink")。團名取自兩人的姓名。
 
 ## 概要
 
-[今井繪理子和](../Page/今井繪理子.md "wikilink")[島袋寬子於](../Page/島袋寬子.md "wikilink")《UTAGE\!》等音樂節目共演時，表示「想以兩人形式做出與其他30世代不同的音樂」，加上原母團[SPEED實際上已進入停止活動的狀態](../Page/SPEED_\(日本音樂團體\).md "wikilink")，因此兩人決定以新團體之姿再度出發\[1\]\[2\]。專輯由[BABYMETAL的製作人操刀](../Page/BABYMETAL.md "wikilink")，以[J-POP和DJ音樂為主](../Page/J-POP.md "wikilink")\[3\]\[4\]。
+[今井繪理子和](../Page/今井繪理子.md "wikilink")[島袋寬子於](../Page/島袋寬子.md "wikilink")《UTAGE\!》等音樂節目共演時，表示「想以兩人形式做出與其他30世代不同的音樂」，加上原母團[SPEED實際上已進入停止活動的狀態](../Page/SPEED_\(日本音樂團體\).md "wikilink")，因此兩人決定以新團體之姿再度出發\[1\]\[2\]。專輯由[BABYMETAL的製作人操刀](../Page/BABYMETAL.md "wikilink")，以[J-POP和DJ音樂為主](https://zh.wikipedia.org/wiki/J-POP "wikilink")\[3\]\[4\]。
 
 ## 團員
 

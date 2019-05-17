@@ -1,6 +1,6 @@
 《**Battle Spirits Double
 Drive**》（），是日本第八部改編自[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")「[Battle
-Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](../Page/電視動畫.md "wikilink")。於2016年4月6日開始在[東京電視台等逢星期三](../Page/東京電視台.md "wikilink")17:55－18:25播出。
+Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。於2016年4月6日開始在[東京電視台等逢星期三](../Page/東京電視台.md "wikilink")17:55－18:25播出。
 
 ## 概要
 
@@ -92,7 +92,7 @@ Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](../Page
 ### 製作人員
 
   - 企劃：BN Pictures
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 導演：杉島邦久
   - 系列構成：長谷川勝己
   - 角色原案：岩本直輝
@@ -247,16 +247,16 @@ Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](../Page
 
 ### 播放電視台
 
-| 播放地區                                                              | 播放電視台                                      | 播放日期                 | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播網                                | 備註      |
-| ----------------------------------------------------------------- | ------------------------------------------ | -------------------- | ----------------------------------------------------------------------- | ------------------------------------ | ------- |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink")                              | [東京電視台](../Page/東京電視台.md "wikilink")       | 2016年4月6日－2017年3月29日 | 星期三 17時55分－18時25分                                                       | [東京電視網](../Page/東京電視網.md "wikilink") | **製作局** |
-| [北海道](../Page/北海道.md "wikilink")                                  | [TV北海道](../Page/TV北海道.md "wikilink")       |                      |                                                                         |                                      |         |
-| [愛知縣](../Page/愛知縣.md "wikilink")                                  | [愛知電視台](../Page/愛知電視台.md "wikilink")       |                      |                                                                         |                                      |         |
-| [大阪府](../Page/大阪府.md "wikilink")                                  | [大阪電視台](../Page/大阪電視台.md "wikilink")       |                      |                                                                         |                                      |         |
-| [岡山縣](../Page/岡山縣.md "wikilink")、[香川縣](../Page/香川縣.md "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")     |                      |                                                                         |                                      |         |
-| [福岡縣](../Page/福岡縣.md "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")   |                      |                                                                         |                                      |         |
-| 日本全國                                                              | [BS JAPAN](../Page/BS_JAPAN.md "wikilink") | 2016年4月13日－2017年4月5日 | 星期三 17時29分－17時58分                                                       | [衛星電視](../Page/衛星電視.md "wikilink")   |         |
-|                                                                   |                                            |                      |                                                                         |                                      |         |
+| 播放地區                                                                                 | 播放電視台                                                         | 播放日期                 | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                 | 備註      |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------- |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")                              | [東京電視台](../Page/東京電視台.md "wikilink")                          | 2016年4月6日－2017年3月29日 | 星期三 17時55分－18時25分                                                                                             | [東京電視網](../Page/東京電視網.md "wikilink")                  | **製作局** |
+| [北海道](../Page/北海道.md "wikilink")                                                     | [TV北海道](../Page/TV北海道.md "wikilink")                          |                      |                                                                                                               |                                                       |         |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                                     | [愛知電視台](../Page/愛知電視台.md "wikilink")                          |                      |                                                                                                               |                                                       |         |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")                                  | [大阪電視台](../Page/大阪電視台.md "wikilink")                          |                      |                                                                                                               |                                                       |         |
+| [岡山縣](../Page/岡山縣.md "wikilink")、[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")                        |                      |                                                                                                               |                                                       |         |
+| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                      |                      |                                                                                                               |                                                       |         |
+| 日本全國                                                                                 | [BS JAPAN](https://zh.wikipedia.org/wiki/BS_JAPAN "wikilink") | 2016年4月13日－2017年4月5日 | 星期三 17時29分－17時58分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") |         |
+|                                                                                      |                                                               |                      |                                                                                                               |                                                       |         |
 
 ## 參考資料
 

@@ -1,5 +1,5 @@
 **奥林巴斯 Air
-A01**是一款于2015年2月推出的可更换镜头[数码相机产品](../Page/数码相机.md "wikilink")\[1\]，属于[微4/3系统](../Page/微4/3系统.md "wikilink")，可以兼容该系统中的交换用镜头。
+A01**是一款于2015年2月推出的可更换镜头[数码相机产品](../Page/数码相机.md "wikilink")\[1\]，属于[微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，可以兼容该系统中的交换用镜头。
 
 其设计与传统数码相机有很大不同，属于分离设计，需要使用者搭配智能设备（如手机、平板）与其连接后取景拍摄。其与索尼公司的[ILCE-QX1相像](../Page/索尼ILCE-QX1.md "wikilink")，但奥林巴斯采用开放平台方式（OPC）\[2\]，鼓励用户对该产品进行软件开发。
 
@@ -7,7 +7,7 @@ A01**是一款于2015年2月推出的可更换镜头[数码相机产品](../Page
 
 [Olympus_Air_A01,mounted_lens_and_phone.jpg](https://zh.wikipedia.org/wiki/File:Olympus_Air_A01,mounted_lens_and_phone.jpg "fig:Olympus_Air_A01,mounted_lens_and_phone.jpg")
 
-在2012年左右，数码相机纷纷装配上了[WiFi](../Page/WiFi.md "wikilink")，并且提供了智能设备控制相机取景拍摄的APP；在2013年，[索尼推出的QX](../Page/索尼.md "wikilink")100与QX10产品，精简了显示屏与大部分操控按钮，机身尺寸大幅度缩减，而成为一个完整相机的部分模块，需要与智能设备配套使用以完成原本完整的拍摄过程。
+在2012年左右，数码相机纷纷装配上了[WiFi](https://zh.wikipedia.org/wiki/WiFi "wikilink")，并且提供了智能设备控制相机取景拍摄的APP；在2013年，[索尼推出的QX](../Page/索尼.md "wikilink")100与QX10产品，精简了显示屏与大部分操控按钮，机身尺寸大幅度缩减，而成为一个完整相机的部分模块，需要与智能设备配套使用以完成原本完整的拍摄过程。
 
 索尼公司在接下来的2014年夏，推出了[ILCE-QX1](../Page/索尼ILCE-QX1.md "wikilink")，将这类相机推进到可换镜头领域，使用自己无反系统上的E卡口，可以适配所有E卡口兼容镜头。
 
@@ -65,7 +65,7 @@ OPC相关app
 <tr class="odd">
 <td><p>Ver.1.2</p></td>
 <td><p>2016-01-28</p></td>
-<td><p>* 兼容<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a><br />
+<td><p>* 兼容<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a><br />
 * 增加兼容带镜头防抖功能的奥林巴斯镜头</p></td>
 </tr>
 <tr class="even">
@@ -82,8 +82,8 @@ Air A01 with Lumix 25mm F1.7.jpg| Olympus Air A01 with cat.jpg|
 
 ## 参见
 
-  - [奥林巴斯](../Page/奥林巴斯.md "wikilink")
-  - [微4/3系统](../Page/微4/3系统.md "wikilink")
+  - [奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")
+  - [微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
 
 <!-- end list -->
 

@@ -1,5 +1,5 @@
 《**Our Memories
-Are...**》是[香港](../Page/香港.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")[Yellow\!的第一張個人專輯](../Page/Yellow!.md "wikilink")，於2013年11月13日發行。
+Are...**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[Yellow\!的第一張個人專輯](https://zh.wikipedia.org/wiki/Yellow! "wikilink")，於2013年11月13日發行。
 
 ## 曲目
 

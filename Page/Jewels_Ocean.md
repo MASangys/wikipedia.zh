@@ -1,4 +1,4 @@
-是日本[Escu:de在](../Page/Escu:de.md "wikilink")2004年3月19日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2006年2月23日由Pionesoft發售[PlayStation
+是日本[Escu:de在](../Page/Escu:de.md "wikilink")2004年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2006年2月23日由Pionesoft發售[PlayStation
 2版](../Page/PlayStation_2.md "wikilink")《**Jewels Ocean** Star of Sierra
 Leone》（ジュエルスオーシャン Star of Sierra Leone）。\[3\]除了遊戲外也發售CD、小說等相關作品。
 
@@ -12,12 +12,12 @@ Leone》（ジュエルスオーシャン Star of Sierra Leone）。\[3\]除了�
 
   - 葦原武流（[CV](../Page/配音員.md "wikilink")：赤木強）
     本作男主角，東堂館學園三年級學生，真實身份是名叫金剛的召喚師。過去和八尋對決時戰敗導致失去右腕，目前使用義肢來代替右腕。
-  - 花月洸（CV：[涼森ちさと](../Page/涼森ちさと.md "wikilink")）
+  - 花月洸（CV：[涼森ちさと](https://zh.wikipedia.org/wiki/涼森ちさと "wikilink")）
     身高：165cm　體重：48kg　血型：A型　三圍：87（D）/56/88
     花月家的獨生女，東堂館學園二年級學生。
   - 天原須勢理（天原すせり　CV：天天）
     年齡：21歲　身高：145cm　體重：38kg　血型：AB型　三圍：71（A）/53/75
-    武流的義妹，東堂館學園小學部六年級學生，真實身份是名叫貓眼的召喚師。平常對武流以外的人都是毒舌[腹黑的態度](../Page/腹黑.md "wikilink")。
+    武流的義妹，東堂館學園小學部六年級學生，真實身份是名叫貓眼的召喚師。平常對武流以外的人都是毒舌[腹黑的態度](https://zh.wikipedia.org/wiki/腹黑 "wikilink")。
   - 草壁真珠（CV：[理多](../Page/理多.md "wikilink")）
     身高：155cm　體重：47kg　血型：B型　三圍：76（B）/56/80
     東堂館學園二年級學生，洸的朋友。暗戀武流但沒有勇氣向他告白，因此很在意武流和洸的同居生活。
@@ -93,15 +93,15 @@ Leone》（ジュエルスオーシャン Star of Sierra Leone）。\[3\]除了�
 <th><p>日文副標題</p></th>
 <th><p>中文副標題</p></th>
 <th><p><a href="../Page/HARVEST出版.md" title="wikilink">HARVEST出版</a></p></th>
-<th><p><a href="../Page/龍成出版社.md" title="wikilink">龍成出版社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/龍成出版社" title="wikilink">龍成出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

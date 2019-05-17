@@ -12,19 +12,19 @@ Zerbino和在英国开发了Velvet。\[3\]
 Velvet可以通过化简和压缩来快速操纵德布鲁因图，而不丢失图的信息，把不相交的路径聚成单个节点。它通过首先使用合并序列的错误校正算法消除了错误消除错误，并解决重读。
 
 将read和read
-pair组合让Velvet解决小的重复并产生合理长度的。Velvet的应用对双端（测序的）[原核生物数据和](../Page/原核生物.md "wikilink")[哺乳动物区域可以产生](../Page/哺乳动物.md "wikilink")[N50长度](../Page/N50_statistic.md "wikilink")
+pair组合让Velvet解决小的重复并产生合理长度的。Velvet的应用对双端（测序的）[原核生物数据和](../Page/原核生物.md "wikilink")[哺乳动物区域可以产生](../Page/哺乳动物.md "wikilink")[N50长度](https://zh.wikipedia.org/wiki/N50_statistic "wikilink")
 50 kb 的重叠序列。
 
 ## 算法
 
 正如前文所述，Velvet使用德布鲁因图（de
-Bruijn图）来组装短的读长序列。更具体地讲，Velvet将从读长序列得到的每个不同的[k-mer表示为图上的一个唯一的节点](../Page/k-mer.md "wikilink")。如果两个节点的k-mer有
+Bruijn图）来组装短的读长序列。更具体地讲，Velvet将从读长序列得到的每个不同的[k-mer表示为图上的一个唯一的节点](https://zh.wikipedia.org/wiki/k-mer "wikilink")。如果两个节点的k-mer有
 k-1 个碱基重叠，则两个节点是相连的。换句话说，只有在节点A的k-mer的后 k-1 个碱基与节点B的k-mer的前 k-1
 个碱基相同时，节点A和B之间才会有一条弧连接在一起。下图显示了Velvet生成的一个德布鲁因图：
 
 [Example_1seq.pdf](https://zh.wikipedia.org/wiki/File:Example_1seq.pdf "fig:Example_1seq.pdf")
 
-相同的过程也同时作用于所有k-mer的[反向互补序列用来考虑相对的链上读长序列重叠的情况](../Page/Complementarity_\(molecular_biology\).md "wikilink")。可以对图进行一些优化，包括化简以及消除错误。
+相同的过程也同时作用于所有k-mer的[反向互补序列用来考虑相对的链上读长序列重叠的情况](https://zh.wikipedia.org/wiki/Complementarity_\(molecular_biology\) "wikilink")。可以对图进行一些优化，包括化简以及消除错误。
 
 ### 化简
 

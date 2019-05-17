@@ -1,4 +1,4 @@
-《**Ordinary**》是[韓國的男子組合](../Page/韓國.md "wikilink")[Highlight的第](../Page/Highlight_\(韓國組合\).md "wikilink")8枚[韓語](../Page/韓語.md "wikilink")[迷你專輯](../Page/迷你專輯.md "wikilink")，於2015年7月27日發行\[1\]，先行歌曲為《我必須要去工作》（）；主打歌曲則為《YeY》。
+《**Ordinary**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")8枚[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年7月27日發行\[1\]，先行歌曲為《我必須要去工作》（）；主打歌曲則為《YeY》。
 
 ## 背景
 
@@ -8,7 +8,7 @@
 
 7月14日，組合在官方[Facebook公開新專輯名稱](../Page/Facebook.md "wikilink")——《Ordinary》與發行日期——7月27日，同時發放第一張概念照片\[6\]；兩天後（7月16日）宣布先行歌曲《我必須要去工作》會在7月20日搶先發行\[7\]。《我必須要去工作》在發行後不久即取得多個音源榜冠軍位置\[8\]。
 
-《我必須要去工作》發行同日，Cube娛樂發布一批專輯新版概念照，也公開了專輯主打曲名是《YeY》\[9\]；次日（7月21日）曲目完整名單也出爐\[10\]；主打曲的[音樂錄影帶在專輯線上發行時同時公開](../Page/音樂錄影帶.md "wikilink")\[11\]。同樣的，《YeY》在發行後壓倒了因出席《[無限挑戰](../Page/無限挑戰.md "wikilink")》的[Hyukoh而走紅之歌曲](../Page/Hyukoh.md "wikilink")《[來了又走](../Page/22_\(Hyukoh迷你專輯\).md "wikilink")》（），取得了Melon、[Mnet等](../Page/Mnet.md "wikilink")7個音源榜的第一名\[12\]。
+《我必須要去工作》發行同日，Cube娛樂發布一批專輯新版概念照，也公開了專輯主打曲名是《YeY》\[9\]；次日（7月21日）曲目完整名單也出爐\[10\]；主打曲的[音樂錄影帶在專輯線上發行時同時公開](../Page/音樂錄影帶.md "wikilink")\[11\]。同樣的，《YeY》在發行後壓倒了因出席《[無限挑戰](../Page/無限挑戰.md "wikilink")》的[Hyukoh而走紅之歌曲](../Page/Hyukoh.md "wikilink")《[來了又走](https://zh.wikipedia.org/wiki/22_\(Hyukoh迷你專輯\) "wikilink")》（），取得了Melon、[Mnet等](https://zh.wikipedia.org/wiki/Mnet "wikilink")7個音源榜的第一名\[12\]。
 
 ## 曲目
 
@@ -30,7 +30,7 @@
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年7月26日－8月1日</p></td>
 <td><p>#3</p></td>
@@ -75,14 +75,14 @@
 
 ### 其他歌曲成績
 
-| 歌曲                                              | 榜單                                       | 類型                                              | 停留時間             | 最高位置 | 參考資料   |
-| ----------------------------------------------- | ---------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ------ |
-| 我必須要去工作                                         | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月19日－7月25日 | \#5  | \[15\] |
-| [單曲月榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月                                  | \#23                                            |                  |      |        |
-| 在那個地方                                           | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月19日－7月25日 | \#36 |        |
-| Suite Room                                      | \#38                                     |                                                 |                  |      |        |
-| 拿去吧                                             | \#44                                     |                                                 |                  |      |        |
-| Oh Honey                                        | \#48                                     |                                                 |                  |      |        |
+| 歌曲                                              | 榜單                                                          | 類型                                              | 停留時間             | 最高位置 | 參考資料   |
+| ----------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ------ |
+| 我必須要去工作                                         | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月19日－7月25日 | \#5  | \[15\] |
+| [單曲月榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月                                                     | \#23                                            |                  |      |        |
+| 在那個地方                                           | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2015年Gaon單曲冠軍作品列表.md "wikilink") | 2015年7月19日－7月25日 | \#36 |        |
+| Suite Room                                      | \#38                                                        |                                                 |                  |      |        |
+| 拿去吧                                             | \#44                                                        |                                                 |                  |      |        |
+| Oh Honey                                        | \#48                                                        |                                                 |                  |      |        |
 
 ### Oricon公信榜
 
@@ -138,7 +138,7 @@
 <td><p>2015年7月27日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂</a><br />
-<a href="../Page/環球唱片.md" title="wikilink">環球唱片</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/環球唱片" title="wikilink">環球唱片</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年7月28日</p></td>
@@ -156,7 +156,7 @@
 <td><p>日本</p></td>
 <td><p>2015年10月28日</p></td>
 <td><p>CD[17]</p></td>
-<td><p><a href="../Page/日本環球音樂.md" title="wikilink">環球音樂 （日本）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本環球音樂" title="wikilink">環球音樂 （日本）</a></p></td>
 </tr>
 </tbody>
 </table>

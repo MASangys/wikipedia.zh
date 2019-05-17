@@ -14,14 +14,14 @@ Collection則不受影響。\[3\]
   -
     圖簽是遊戲中的球員卡片，玩家可透過不同渠道獲得圖簽，例如比賽、扭蛋。蒐集球員圖簽，以組成玩家專屬球隊。
     圖簽收錄了各大聯賽的球員，並以實名出現，當中的主要聯賽包括：
-      - [英格蘭超級足球聯賽](../Page/英格蘭超級足球聯賽.md "wikilink")
-        <small>(因版權問題，當中的球隊會以其他名字出現，例如[阿仙奴轉成](../Page/阿仙奴.md "wikilink")「North
+      - [英格蘭超級足球聯賽](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")
+        <small>(因版權問題，當中的球隊會以其他名字出現，例如[阿仙奴轉成](https://zh.wikipedia.org/wiki/阿仙奴 "wikilink")「North
         London」，但球員的名字則不變)</small>
-      - [法國甲組足球聯賽](../Page/法國甲組足球聯賽.md "wikilink")
-      - [德國甲組足球聯賽](../Page/德國甲組足球聯賽.md "wikilink")
-      - [意大利甲組足球聯賽](../Page/意大利甲組足球聯賽.md "wikilink")
-      - [荷蘭甲組足球聯賽](../Page/荷蘭甲組足球聯賽.md "wikilink")
-      - [西班牙甲組足球聯賽](../Page/西班牙甲組足球聯賽.md "wikilink")
+      - [法國甲組足球聯賽](https://zh.wikipedia.org/wiki/法國甲組足球聯賽 "wikilink")
+      - [德國甲組足球聯賽](https://zh.wikipedia.org/wiki/德國甲組足球聯賽 "wikilink")
+      - [意大利甲組足球聯賽](https://zh.wikipedia.org/wiki/意大利甲組足球聯賽 "wikilink")
+      - [荷蘭甲組足球聯賽](https://zh.wikipedia.org/wiki/荷蘭甲組足球聯賽 "wikilink")
+      - [西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")
 
 ### 球隊陣容
 

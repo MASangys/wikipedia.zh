@@ -1,16 +1,16 @@
 **SIG
-P238**是一系列由[西格-紹爾所研製及生產的袖珍型單動式](../Page/西格&紹爾.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，並且在2009年（美國著名槍展）上首度展出，發射[手槍](../Page/手槍.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+P238**是一系列由[西格-紹爾所研製及生產的袖珍型單動式](../Page/西格&紹爾.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，並且在2009年（美國著名槍展）上首度展出，發射[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-這是[柯爾特野馬手槍的西格](../Page/柯爾特野馬手槍.md "wikilink")-紹爾生產型版本，\[1\]\[2\]並採用了西格-紹爾經典的倾斜式鋸齒狀突起防滑紋型[滑套和](../Page/手枪套筒.md "wikilink")[扳機護圈下方的手指凹槽](../Page/扳機護環.md "wikilink")。握把側板是由凹槽型[聚合物所製造](../Page/聚合物.md "wikilink")，使這把全金屬製[底把槍械可以與同口徑類別的塑料底把手槍](../Page/机匣.md "wikilink")，如[儒格LCP和](../Page/儒格LCP手槍.md "wikilink")[Kel-Tec
-P-3AT競爭](../Page/Kel-Tec_P-3AT手槍.md "wikilink")。\[3\]
+這是[柯爾特野馬手槍的西格](https://zh.wikipedia.org/wiki/柯爾特野馬手槍 "wikilink")-紹爾生產型版本，\[1\]\[2\]並採用了西格-紹爾經典的倾斜式鋸齒狀突起防滑紋型[滑套和](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")[扳機護圈下方的手指凹槽](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。握把側板是由凹槽型[聚合物所製造](../Page/聚合物.md "wikilink")，使這把全金屬製[底把槍械可以與同口徑類別的塑料底把手槍](https://zh.wikipedia.org/wiki/机匣 "wikilink")，如[儒格LCP和](https://zh.wikipedia.org/wiki/儒格LCP手槍 "wikilink")[Kel-Tec
+P-3AT競爭](https://zh.wikipedia.org/wiki/Kel-Tec_P-3AT手槍 "wikilink")。\[3\]
 
 ## 概述
 
-P238配有[铝製](../Page/铝.md "wikilink")[底把和](../Page/机匣.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[滑套](../Page/手槍套筒.md "wikilink")。最初的P238手槍分為標準[瞄準具](../Page/瞄準具.md "wikilink")，以及作為選擇更昂貴的夜間瞄準具。然而，目前生產的所有型號都將夜間瞄準具視作標準配備。從2012年開始，許多衍生型具有標準或是作為選擇的靈巧拇指保險。
+P238配有[铝製](../Page/铝.md "wikilink")[底把和](https://zh.wikipedia.org/wiki/机匣 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[滑套](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。最初的P238手槍分為標準[瞄準具](https://zh.wikipedia.org/wiki/瞄準具 "wikilink")，以及作為選擇更昂貴的夜間瞄準具。然而，目前生產的所有型號都將夜間瞄準具視作標準配備。從2012年開始，許多衍生型具有標準或是作為選擇的靈巧拇指保險。
 
 ## 衍生型
 
-2009年推出市場的P238為啞光黑色表面處理，並且採用了磨砂[銀色](../Page/銀色.md "wikilink")[滑套和黑色底把的雙色調表面處理](../Page/手槍套筒.md "wikilink")。從那時起，SIG紹爾已經產生若干的衍生型，其中包括一些短期紀念型版本。當中的一些衍生型為使用各種表面處理的版本，使用不銹鋼底把和不同的握把和裝飾。
+2009年推出市場的P238為啞光黑色[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，並且採用了磨砂[銀色](https://zh.wikipedia.org/wiki/銀色 "wikilink")[滑套和黑色底把的雙色調表面處理](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。從那時起，SIG紹爾已經產生若干的衍生型，其中包括一些短期紀念型版本。當中的一些衍生型為使用各種表面處理的版本，使用不銹鋼底把和不同的握把和裝飾。
 
 ## 召回
 
@@ -20,22 +20,23 @@ P238配有[铝製](../Page/铝.md "wikilink")[底把和](../Page/机匣.md "wiki
 
 ## 參見
 
-  - [AMT備用手槍](../Page/AMT備用手槍.md "wikilink")
+  - [AMT備用手槍](https://zh.wikipedia.org/wiki/AMT備用手槍 "wikilink")
 
   - [貝瑞塔M1934手槍](../Page/貝瑞塔M1934手槍.md "wikilink")
 
   - [貝瑞塔Pico手槍](../Page/貝瑞塔Pico手槍.md "wikilink")
 
-  - [柯爾特野馬手槍](../Page/柯爾特野馬手槍.md "wikilink")
+  - [柯爾特野馬手槍](https://zh.wikipedia.org/wiki/柯爾特野馬手槍 "wikilink")
 
   - [Kevin ZP98手槍](../Page/Kevin_ZP98手槍.md "wikilink")
 
   - [格洛克42](../Page/格洛克42.md "wikilink")
 
-  - [Kel-Tec P-3AT手槍](../Page/Kel-Tec_P-3AT手槍.md "wikilink")
+  - [Kel-Tec
+    P-3AT手槍](https://zh.wikipedia.org/wiki/Kel-Tec_P-3AT手槍 "wikilink")
 
   -
-  - [儒格LCP手槍](../Page/儒格LCP手槍.md "wikilink")
+  - [儒格LCP手槍](https://zh.wikipedia.org/wiki/儒格LCP手槍 "wikilink")
 
   - [SIG P230手槍](../Page/SIG_P230手槍.md "wikilink")
 

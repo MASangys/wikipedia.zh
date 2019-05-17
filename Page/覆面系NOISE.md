@@ -1,4 +1,4 @@
-《**覆面系NOISE**》（）是日本漫画家[福山辽子连载的](../Page/福山辽子.md "wikilink")[漫画作品](../Page/漫画.md "wikilink")。于2013年5月5日开始在杂志《[花与梦](../Page/花与梦.md "wikilink")》连载。2016年4月發表改編[電視動畫](../Page/電視動畫.md "wikilink")\[1\]，10月發表改編真人電影之消息\[2\]。
+《**覆面系NOISE**》（）是日本漫画家[福山辽子连载的](https://zh.wikipedia.org/wiki/福山辽子 "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。于2013年5月5日开始在杂志《[花与梦](https://zh.wikipedia.org/wiki/花与梦 "wikilink")》连载。2016年4月發表改編[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]，10月發表改編真人電影之消息\[2\]。
 
 ## 故事簡介
 
@@ -80,7 +80,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -180,7 +180,7 @@
 
 ### 製作人員
 
-  - 原作：[福山遼子](../Page/福山遼子.md "wikilink")
+  - 原作：[福山遼子](https://zh.wikipedia.org/wiki/福山遼子 "wikilink")
   - 導演：高橋秀彌
   - 劇本統籌：[赤尾凸](../Page/三重野瞳.md "wikilink")
   - 人物設定：伊藤真理子
@@ -389,7 +389,7 @@
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -399,7 +399,7 @@
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2017年12月11日－12月26日</p></td>
 <td><p>星期一至二 20時00分－21時00分</p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">UTC+8</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a><br />
 有重播</p></td>
 </tr>
 <tr class="even">
@@ -418,7 +418,7 @@
 
 ### 製作
 
-  - 監督：[三木康一郎](../Page/三木康一郎.md "wikilink")\[4\]
+  - 監督：[三木康一郎](https://zh.wikipedia.org/wiki/三木康一郎 "wikilink")\[4\]
   - 劇本：横田理恵
 
 ## 参考资料

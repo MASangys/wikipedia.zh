@@ -1,14 +1,14 @@
-[C++程序设计语言中](../Page/C++程序设计语言.md "wikilink")，**`unordered_map`**、**`unordered_multimap`**、**`unordered_set`**、**`unordered_multiset`**是[标准模板库](../Page/标准模板库.md "wikilink")（STL）提供的一类**无序关联容器**（unordered
+[C++程序设计语言中](https://zh.wikipedia.org/wiki/C++程序设计语言 "wikilink")，**`unordered_map`**、**`unordered_multimap`**、**`unordered_set`**、**`unordered_multiset`**是[标准模板库](../Page/标准模板库.md "wikilink")（STL）提供的一类**无序关联容器**（unordered
 associative
-containers）。是通过[哈希表实现的](../Page/哈希表.md "wikilink")[数据结构](../Page/数据结构.md "wikilink")。无序是指元素的名字（或者键值）的存储是无序的；这与用[平衡二叉树实现的元素名字是有序存储的](../Page/平衡二叉树.md "wikilink")“[关联容器](../Page/关联数组.md "wikilink")”是相对概念。
+containers）。是通过[哈希表实现的](../Page/哈希表.md "wikilink")[数据结构](../Page/数据结构.md "wikilink")。无序是指元素的名字（或者键值）的存储是无序的；这与用[平衡二叉树实现的元素名字是有序存储的](https://zh.wikipedia.org/wiki/平衡二叉树 "wikilink")“[关联容器](../Page/关联数组.md "wikilink")”是相对概念。
 
 ## 历史
 
-[SGI的](../Page/Silicon_Graphics.md "wikilink")[STL提供了](../Page/标准模板库.md "wikilink")`hash_map`,
+[SGI的](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink")[STL提供了](../Page/标准模板库.md "wikilink")`hash_map`,
 `hash_set`, `hash_multimap`,
-`hash_multiset`等类模板。\[1\]由于其有用性，很快其它的C++编译器也支持了这一特性，如[GCC](../Page/GNU_Compiler_Collection.md "wikilink")、
-[libstdc++](../Page/libstdc++.md "wikilink")\[2\]
-以及[MSVC](../Page/Visual_C++.md "wikilink")
+`hash_multiset`等类模板。\[1\]由于其有用性，很快其它的C++编译器也支持了这一特性，如[GCC](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")、
+[libstdc++](https://zh.wikipedia.org/wiki/libstdc++ "wikilink")\[2\]
+以及[MSVC](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")
 （在stdext[命名空间](../Page/命名空间.md "wikilink")）。
 
 [C++
@@ -18,7 +18,7 @@ Libraries也提供了一种实现](../Page/Boost_C++_Libraries.md "wikilink")。
 
 ## 类成员函数
 
-头文件<unordered_map>中定义了类模板`unordered_map`。并满足[容器](http://www.sgi.com/tech/stl/Container.html)[概念](../Page/concept_\(generic_programming\).md "wikilink")，这意味着它支持`begin()`、`end()`、`size()`、`max_size()`、`empty()`、
+头文件<unordered_map>中定义了类模板`unordered_map`。并满足[容器](http://www.sgi.com/tech/stl/Container.html)[概念](https://zh.wikipedia.org/wiki/concept_\(generic_programming\) "wikilink")，这意味着它支持`begin()`、`end()`、`size()`、`max_size()`、`empty()`、
 `swap()`等方法。
 
 <table>

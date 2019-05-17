@@ -1,16 +1,16 @@
-《**DAYS**》是[安田剛士的](../Page/安田剛士.md "wikilink")[日本](../Page/日本.md "wikilink")[足球](../Page/足球.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")。2013年開始在[講談社的旗下少年漫畫雜誌](../Page/講談社.md "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》第21、22合併號連載。[電視動畫於](../Page/電視動畫.md "wikilink")2016年7月至12月首播。
+《**DAYS**》是[安田剛士的](../Page/安田剛士.md "wikilink")[日本](../Page/日本.md "wikilink")[足球](../Page/足球.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2013年開始在[講談社的旗下少年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》第21、22合併號連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年7月至12月首播。
 
 ## 概要
 
-本作品以足球作主題，是有[公路自行車賽及](../Page/公路自行車賽.md "wikilink")[田徑為題材的連載經驗的](../Page/田徑.md "wikilink")[安田剛士第](../Page/安田剛士.md "wikilink")4次在[講談社的旗下少年雜誌Magazine連載的少年漫畫](../Page/講談社.md "wikilink")。
+本作品以足球作主題，是有[公路自行車賽及](https://zh.wikipedia.org/wiki/公路自行車賽 "wikilink")[田徑為題材的連載經驗的](https://zh.wikipedia.org/wiki/田徑 "wikilink")[安田剛士第](../Page/安田剛士.md "wikilink")4次在[講談社的旗下少年雜誌Magazine連載的少年漫畫](https://zh.wikipedia.org/wiki/講談社 "wikilink")。
 
 作品描寫主角柄本盡為初學者，進入了足球名校聖蹟高校之後與隊友們產生情誼、共同成長，還得到了隊友的讚賞\[1\]。
 
-在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球漫畫](../Page/棒球.md "wikilink")《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》作者[寺嶋裕二的推薦文](../Page/寺嶋裕二.md "wikilink")，第2冊則收錄了[籃球漫畫](../Page/籃球.md "wikilink")《[籃球少年王](../Page/籃球少年王.md "wikilink")》作者[日向武史的推薦文](../Page/日向武史.md "wikilink")。
+在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球漫畫](../Page/棒球.md "wikilink")《[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")》作者[寺嶋裕二的推薦文](../Page/寺嶋裕二.md "wikilink")，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](https://zh.wikipedia.org/wiki/籃球少年王 "wikilink")》作者[日向武史的推薦文](../Page/日向武史.md "wikilink")。
 
-2015年入圍第39回[講談社漫畫賞少年部門的推薦作品](../Page/講談社漫畫賞.md "wikilink")\[2\]。
+2015年入圍第39回[講談社漫畫賞少年部門的推薦作品](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")\[2\]。
 
-2016年1月宣佈改編成[電視動畫](../Page/電視動畫.md "wikilink")\[3\]。
+2016年1月宣佈改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[3\]。
 
 另外該作品的世界觀與前作《永不回頭的你》相同，但時間設定是在2年後。
 
@@ -24,13 +24,13 @@
 
   -
     身高：156cm。血型：A型。生日：12月28日。[東京都出身](../Page/東京都.md "wikilink")。愛好：[牛奶](../Page/牛奶.md "wikilink")。拿手技巧：能把[布丁完整的倒出來](../Page/布丁.md "wikilink")。不擅長的東西：人群。喜歡的格言：整理整頓。女朋友：如果能給未來的她帶來幸福就很高興。
-    聖蹟高中1年級。守備位置為[前鋒](../Page/前鋒_\(足球\).md "wikilink")。背號17號。足球新手、運動資質不佳卻擁有足球名門的隊友們都驚詫的忍耐力和上進心。凡事皆全力以赴，並帶動影響了隊友。因風間提出的[室內五人制足球比賽邀請](../Page/室內五人制足球.md "wikilink")，往後的人生產生重大的改變。隊長水樹對他的奮戰精神有很高的評價，並認為他兩年後會是新任的足球隊隊長。
+    聖蹟高中1年級。守備位置為[前鋒](../Page/前鋒_\(足球\).md "wikilink")。背號17號。足球新手、運動資質不佳卻擁有足球名門的隊友們都驚詫的忍耐力和上進心。凡事皆全力以赴，並帶動影響了隊友。因風間提出的[室內五人制足球比賽邀請](https://zh.wikipedia.org/wiki/室內五人制足球 "wikilink")，往後的人生產生重大的改變。隊長水樹對他的奮戰精神有很高的評價，並認為他兩年後會是新任的足球隊隊長。
     幼年失怙，由倚仗輪椅活動的母親撫育長大，故異常孝順，曾為此欲放棄加入足球隊，最後是母親在身後推了一把，擅長觀察周圍，預測即將掉球的隊友並前去搶第二落點，聖蹟波狀進攻的源頭，擁有任何選手都無法比擬的武器,放棄身為前鋒的攻擊意識為了隊伍勝利的『究極的獻身』。
 
 <!-- end list -->
 
   -
-    身高：172cm。血型：B型。生日：9月20日。[神奈川縣出身](../Page/神奈川縣.md "wikilink")。愛好：[巨乳](../Page/巨乳.md "wikilink")。拿手技巧：[劍玉](../Page/劍玉.md "wikilink")。不擅長的東西：[貧乳](../Page/貧乳.md "wikilink")（類似生方那種的）。喜歡的格言：[無碼](../Page/無碼.md "wikilink")。女朋友：從來沒為這種事犯愁過。
+    身高：172cm。血型：B型。生日：9月20日。[神奈川縣出身](../Page/神奈川縣.md "wikilink")。愛好：[巨乳](../Page/巨乳.md "wikilink")。拿手技巧：[劍玉](../Page/劍玉.md "wikilink")。不擅長的東西：[貧乳](https://zh.wikipedia.org/wiki/貧乳 "wikilink")（類似生方那種的）。喜歡的格言：[無碼](https://zh.wikipedia.org/wiki/無碼 "wikilink")。女朋友：從來沒為這種事犯愁過。
     聖蹟高中1年級。守備位置為右翼前鋒。背號9號。非常敬佩柄本永不放棄努力不懈的精神。只要一關係到柄本就容易生氣。教練花了兩年時間遊說的天才選手。來自破碎家庭，小學時期，母親隨弟離他而去（動畫裡為妹妹），所以直到進入聖蹟高中才對校隊產生歸屬感。
 
 ### 聖蹟高校
@@ -49,7 +49,7 @@
   -
     身高：173cm。血型：AB型。4月16日出生。東京都出身。愛好：单轨电车。
     拿手技巧：分解质因数。不擅長的東西：套娃。女朋友：不感兴趣！
-    2年級。守備位置為[\#進攻中場](../Page/中場.md "wikilink")，為[球隊的核心](../Page/組織核心.md "wikilink")。背號10號。
+    2年級。守備位置為[\#進攻中場](https://zh.wikipedia.org/wiki/中場 "wikilink")，為[球隊的核心](../Page/組織核心.md "wikilink")。背號10號。
     家裡從事經營運動用品專賣店。特技是素因數的分解，故在學年的成績排名在最頂端。右撇子，但可以用左腳開角球，也是隊中角球和罰球射手。
 
 <!-- end list -->
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   -
-    身高：159cm。體重：55kg。10月13日出生。[山梨縣出身](../Page/山梨縣.md "wikilink")。愛好：大部分东西都喜欢。拿手技巧：Romero
+    身高：159cm。體重：55kg。10月13日出生。[山梨縣出身](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")。愛好：大部分东西都喜欢。拿手技巧：Romero
     Special、Emerald
     flowsion（摔跤技能）。不擅長的東西：除臭剂的气味。喜歡的格言：动如雷霆、发如风雨。女朋友：互相通信件中！
     3年級。守備位置為右後衛。背號2號。擁有豐富的運動量。與女友相隔兩地書信往來中。
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   -
-    身高：170cm。體重：61kg。血型：B型。生日：2月23日。[大分縣出身](../Page/大分縣.md "wikilink")。愛好：[納豆](../Page/納豆.md "wikilink")。拿手技巧：繞口令。不擅長的東西：[電腦](../Page/電腦.md "wikilink")。喜歡的格言：少年啊，胸懷大志吧！
+    身高：170cm。體重：61kg。血型：B型。生日：2月23日。[大分縣出身](https://zh.wikipedia.org/wiki/大分縣 "wikilink")。愛好：[納豆](../Page/納豆.md "wikilink")。拿手技巧：繞口令。不擅長的東西：[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")。喜歡的格言：少年啊，胸懷大志吧！
     1年級。期望參加聖蹟能夠踢華麗的足球，因柄本的影響反而踢出樸素的足球。背號15號。
 
 <!-- end list -->
@@ -96,7 +96,7 @@
 <!-- end list -->
 
   -
-    身高：170cm。體重：60kg。血型：O型。生日：5月28日。出身地[東京](../Page/東京.md "wikilink")。愛好：[小子難纏](../Page/小子難纏.md "wikilink")。拿手技巧：空翻。不擅長的東西：[烏鴉](../Page/烏鴉.md "wikilink")。喜歡的格言：光憑眼睛是看不到真相的！
+    身高：170cm。體重：60kg。血型：O型。生日：5月28日。出身地[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。愛好：[小子難纏](../Page/小子難纏.md "wikilink")。拿手技巧：空翻。不擅長的東西：[烏鴉](https://zh.wikipedia.org/wiki/烏鴉 "wikilink")。喜歡的格言：光憑眼睛是看不到真相的！
     1年級，背號16號
 
 <!-- end list -->
@@ -122,7 +122,7 @@
 <!-- end list -->
 
   -
-    3年級。左撇子的高速盤球手。守備位置為[左翼鋒](../Page/左翼鋒.md "wikilink")，背號8號。
+    3年級。左撇子的高速盤球手。守備位置為[左翼鋒](https://zh.wikipedia.org/wiki/左翼鋒 "wikilink")，背號8號。
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 
   -
     3年級。守備位置為前鋒。背號10號。
-    剛進入高中時因為先天性[哮喘的關係無法在足球場上充分發揮](../Page/哮喘.md "wikilink")，擁有變化多端的盤帶與飛快的速度，往往一瞬間突破禁區撕裂防線，被人稱為『死神』，風間評價為比犬童還可怕。
+    剛進入高中時因為先天性[哮喘的關係無法在足球場上充分發揮](https://zh.wikipedia.org/wiki/哮喘 "wikilink")，擁有變化多端的盤帶與飛快的速度，往往一瞬間突破禁區撕裂防線，被人稱為『死神』，風間評價為比犬童還可怕。
     雖擁有與『十傑』批敵的實力，但因為本人未來想往海外發展，故不算在『十傑』當中。
     與犬童同是作者前作漫畫《永不回頭的你》的主角之一。
 
@@ -226,24 +226,24 @@
 
   -
     風間的母親。喜歡松尾芭蕉詩句。九年前不知名的原因帶著陣的妹妹離開。
-    [鹿兒島縣暑假短期合宿練習賽時前來觀賽](../Page/鹿兒島縣.md "wikilink")，風間賽中因此過度激動致傷並企圖隱瞞，幸得柄本向大家警示而無不可逆的大礙。賽後與她和解并介紹摯友柄本且致謝母親讓他們今生得以相遇。風間還主動邀她冬季時前來觀賽。
+    [鹿兒島縣暑假短期合宿練習賽時前來觀賽](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")，風間賽中因此過度激動致傷並企圖隱瞞，幸得柄本向大家警示而無不可逆的大礙。賽後與她和解并介紹摯友柄本且致謝母親讓他們今生得以相遇。風間還主動邀她冬季時前來觀賽。
 
 ## 出版書籍
 
-  - [安田剛士](../Page/安田剛士.md "wikilink")《DAYS》，[日本](../Page/日本.md "wikilink")[講談社](../Page/講談社.md "wikilink")〈講談社Comics〉，目前出版31冊（2019年2月）。台灣由[東立出版社發行](../Page/東立出版社.md "wikilink")。
+  - [安田剛士](../Page/安田剛士.md "wikilink")《DAYS》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈講談社Comics〉，目前出版31冊（2019年2月）。台灣由[東立出版社發行](../Page/東立出版社.md "wikilink")。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -423,7 +423,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送
 ### 製作人員
 
   - 原作－[安田剛士](../Page/安田剛士.md "wikilink")
-  - 導演、劇本統籌－[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")
+  - 導演、劇本統籌－[宇田鋼之介](https://zh.wikipedia.org/wiki/宇田鋼之介 "wikilink")
   - 副導演－[境宗久](../Page/境宗久.md "wikilink")
   - 人物設定－[中澤一登](../Page/中澤一登.md "wikilink")
   - 總作畫監督－新沼大祐、西村理惠
@@ -433,54 +433,54 @@ MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送
   - CG監督－川田和賜
   - 攝影監督－KIM BOO CHEOL、藤田智史
   - 剪輯－奧田浩史
-  - 音響監督－[三間雅文](../Page/三間雅文.md "wikilink")、[中嶋聰彥](../Page/中嶋聰彥.md "wikilink")
+  - 音響監督－[三間雅文](../Page/三間雅文.md "wikilink")、[中嶋聰彥](https://zh.wikipedia.org/wiki/中嶋聰彥 "wikilink")
   - 音響製作－
-  - 音樂－[池賴廣](../Page/池賴廣.md "wikilink")
-  - 音樂製作－[Pony Canyon](../Page/波麗佳音.md "wikilink")
+  - 音樂－[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
+  - 音樂製作－[Pony Canyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
   - 音樂製作人－三輪靖史、橫尾勇亮
   - 製作人－坪井亮祐、立石謙介、川添千世、遠藤哲哉、龜井博司、北澤史隆、成毛克憲、大和田智之、田中葉子、相島豪太
   - 動畫製作人－大塚學
-  - 動畫製作－[MAPPA](../Page/MAPPA.md "wikilink")
-  - 製作－[「DAYS」製作委員會](../Page/製作委員會方式.md "wikilink")（Pony
-    Canyon、講談社、電通、每日放送、TOKYO MX、BS11、[Animax
-    Broadcast Japan](../Page/Animax.md "wikilink")、、）
+  - 動畫製作－[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")
+  - 製作－[「DAYS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（Pony
+    Canyon、講談社、電通、每日放送、TOKYO MX、BS11、[Animax Broadcast
+    Japan](../Page/Animax.md "wikilink")、、）
 
 ### 主題曲
 
   - 片頭曲
 
-:; 「Wake We Up」（第1話－第12話）
+:; 「Wake We Up」（第1－12話、OAD1）
 
   -
 
       -
-        作詞、作曲－竹繩航太／編曲－HOWL BE QUIET、橫山裕章／主唱－
+        作詞、作曲：竹繩航太，編曲：HOWL BE QUIET、橫山裕章，主唱：
 
-:; 「Higher Climber」（第13話－第24話）
+:; 「Higher Climber」（第13－24話、OAD2－5）
 
   -
 
       -
-        作詞、作曲－竹繩航太／編曲－HOWL BE QUIET、Jeff Miyahara／主唱－HOWL BE QUIET
+        作詞、作曲：竹繩航太，編曲：HOWL BE QUIET、Jeff Miyahara，主唱：HOWL BE QUIET
 
 <!-- end list -->
 
   - 片尾曲
 
-:; 「EVERLASTING DAYS」（第1話－第12話、第24話）
+:; 「EVERLASTING DAYS」（第1－12、24話、OAD1）
 
   -
 
       -
-        作詞－eNu／作曲、編曲－宮崎誠
-        主唱－聖蹟高校足球部［柄本盡（[吉永拓斗](../Page/吉永拓斗.md "wikilink")）、風間陣（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）、水樹壽人（[浪川大輔](../Page/浪川大輔.md "wikilink")）、君下敦（[小野大輔](../Page/小野大輔.md "wikilink")）、大柴喜一（[宮野真守](../Page/宮野真守.md "wikilink")）］
+        作詞：eNu，作曲、編曲：宮崎誠
+        主唱：聖蹟高校足球部［柄本盡（[吉永拓斗](../Page/吉永拓斗.md "wikilink")）、風間陣（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）、水樹壽人（[浪川大輔](../Page/浪川大輔.md "wikilink")）、君下敦（[小野大輔](../Page/小野大輔.md "wikilink")）、大柴喜一（[宮野真守](../Page/宮野真守.md "wikilink")）］
 
-:; 「DAYS」（第13話－第23話）
+:; 「DAYS」（第13－23話、OAD2－5）
 
   -
 
       -
-        作詞、作曲－山內彰馬／編曲－Shout it Out、柳澤亮太／主唱－Shout it Out
+        作詞、作曲：山內彰馬，編曲：Shout it Out、柳澤亮太，主唱：Shout it Out
 
 ### 各話列表
 
@@ -527,9 +527,9 @@ MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送
 <td></td>
 <td><p>和你踢足球太有趣了 豈有此理</p></td>
 <td><p>跟你一起踢球真是開心得一塌糊塗啊混蛋</p></td>
-<td><p><a href="../Page/高屋敷英夫.md" title="wikilink">高屋敷英夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高屋敷英夫" title="wikilink">高屋敷英夫</a></p></td>
 <td><p>二瓶勇一</p></td>
-<td><p><a href="../Page/遠藤徹哉.md" title="wikilink">遠藤徹哉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遠藤徹哉" title="wikilink">遠藤徹哉</a></p></td>
 <td><p>北村友幸</p></td>
 <td></td>
 </tr>
@@ -636,7 +636,7 @@ Ha Yeun Jung</p></td>
 <td><p>不會再讓任何人低下頭</p></td>
 <td><p>再也不想讓任何人失望</p></td>
 <td><p>村越繁</p></td>
-<td><p><a href="../Page/宇田鋼之介.md" title="wikilink">宇田鋼之介</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇田鋼之介" title="wikilink">宇田鋼之介</a></p></td>
 <td><p>山口飛鳥</p></td>
 <td><p>高澤美佳</p></td>
 <td></td>
@@ -822,30 +822,67 @@ Ha Yeun Jung</p></td>
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>劇本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>OAD1</p></td>
 <td></td>
+<td><p>熱夏的沙灘足球篇</p></td>
+<td><p>水上清資</p></td>
+<td><p>宇田鋼之介</p></td>
+<td><p>本田敬一、北村友幸、新沼大祐</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>OAD2</p></td>
+<td></td>
+<td><p>秘密擲骰子聊天篇</p></td>
+<td><p>村越繁</p></td>
+<td><p>本田敬一、北村友幸</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>OAD3</p></td>
 <td></td>
+<td><p>選手權都大會決勝戰 前篇</p></td>
+<td><p>加藤祐子、青木里枝</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>OAD4</p></td>
+<td></td>
+<td><p>選手權都大會決勝戰 中篇</p></td>
+<td><p>清水久敏</p></td>
+<td><p>後藤康德</p></td>
+<td><p>加藤祐子、和田伸一、濱中朋子<br />
+柴田志朗、高澤美佳、青木里枝</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>OAD5</p></td>
 <td></td>
+<td><p>選手權都大會決勝戰 後篇</p></td>
+<td><p>宇田鋼之介</p></td>
+<td><p>青木里枝、柴田志朗、加藤祐子<br />
+榆木哲郎、服部憲知、山口飛鳥</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -854,12 +891,12 @@ Ha Yeun Jung</p></td>
 
 ### 播放電視台
 
-| 播放地區                                   | 播放電視台                                      | 播放日期              | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播網                                    | 備註 |
-| -------------------------------------- | ------------------------------------------ | ----------------- | ----------------------------------------------------------------------- | ---------------------------------------- | -- |
-| [近畿地方](../Page/近畿地方.md "wikilink")     | [每日放送](../Page/每日放送.md "wikilink")         | 2016年7月2日－12月17日  | 星期六 26時58分－27時28分                                                       | [TBS電視網](../Page/TBS電視網.md "wikilink")   |    |
-| [東京都](../Page/東京都.md "wikilink")       | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 2016年7月3日－12月18日  | 星期日 23時00分－23時30分                                                       | [獨立局](../Page/全國獨立放送協議會.md "wikilink")   |    |
-| 日本全國                                   | [BS11](../Page/BS11.md "wikilink")         | 星期日 25時00分－25時30分 | [衛星電視](../Page/衛星電視.md "wikilink")                                      | [ANIME+節目](../Page/ANIME+.md "wikilink") |    |
-| [Animax](../Page/Animax.md "wikilink") | 2016年8月4日－2017年1月28日                       | 星期四 19時00分－19時30分 | 有重播                                                                     |                                          |    |
+| 播放地區                                   | 播放電視台                                                         | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                     | 備註 |
+| -------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -- |
+| [近畿地方](../Page/近畿地方.md "wikilink")     | [每日放送](../Page/每日放送.md "wikilink")                            | 2016年7月2日－12月17日  | 星期六 26時58分－27時28分                                                                                             | [TBS電視網](https://zh.wikipedia.org/wiki/TBS電視網 "wikilink") |    |
+| [東京都](../Page/東京都.md "wikilink")       | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2016年7月3日－12月18日  | 星期日 23時00分－23時30分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                    |    |
+| 日本全國                                   | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期日 25時00分－25時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |    |
+| [Animax](../Page/Animax.md "wikilink") | 2016年8月4日－2017年1月28日                                          | 星期四 19時00分－19時30分 | 有重播                                                                                                           |                                                           |    |
 
 ### BD／DVD
 

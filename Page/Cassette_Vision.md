@@ -1,25 +1,25 @@
-是一款[Epoch於](../Page/Epoch.md "wikilink")1981年7月30日在[日本發售的](../Page/日本.md "wikilink")[第二世代](../Page/遊戲機歷史_\(第二世代\).md "wikilink")[家用遊戲機](../Page/家用遊戲機.md "wikilink")。售價為13,500[日元](../Page/日元.md "wikilink")\[1\]。
+是一款[Epoch於](https://zh.wikipedia.org/wiki/Epoch "wikilink")1981年7月30日在[日本發售的](../Page/日本.md "wikilink")[第二世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第二世代\) "wikilink")[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。售價為13,500[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")\[1\]。
 
-在[FC遊戲機](../Page/FC遊戲機.md "wikilink")（紅白機）於1983年發售前的2年之間，Cassette
+在[FC遊戲機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")（紅白機）於1983年發售前的2年之間，Cassette
 Vision是日本當時銷量及評價最好的家用遊戲機\[2\]。估計銷量約在400,000\[3\]\[4\]至450,000\[5\]\[6\]之間。
 
-1983年7月19日，[Epoch推出Cassette](../Page/Epoch.md "wikilink")
-Vision的廉價版，，售價為5,000[日元](../Page/日元.md "wikilink")\[7\]\[8\]。而Cassette
+1983年7月19日，[Epoch推出Cassette](https://zh.wikipedia.org/wiki/Epoch "wikilink")
+Vision的廉價版，，售價為5,000[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")\[7\]\[8\]。而Cassette
 Vision的後繼機種為[Super Cassette
-Vision](../Page/Super_Cassette_Vision.md "wikilink")。
+Vision](https://zh.wikipedia.org/wiki/Super_Cassette_Vision "wikilink")。
 
 ## 簡介
 
 Cassette
-Vision採用比較特別的設計，遊戲機本體只設置電源及控制器，而[CPU](../Page/中央處理器.md "wikilink")、[RAM及影像處理器都設置在卡帶內](../Page/隨機存取存儲器.md "wikilink")。而後來家用遊戲機的設計都是將CPU設置在遊戲機本體上，只有[ROM設置在卡帶內](../Page/唯讀記憶體.md "wikilink")，這是因為發現後者的設計能夠令遊戲機穩定地運作，進行遊戲時亦較少出現錯誤\[9\]。
+Vision採用比較特別的設計，遊戲機本體只設置電源及控制器，而[CPU](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")、[RAM及影像處理器都設置在卡帶內](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")。而後來家用遊戲機的設計都是將CPU設置在遊戲機本體上，只有[ROM設置在卡帶內](../Page/唯讀記憶體.md "wikilink")，這是因為發現後者的設計能夠令遊戲機穩定地運作，進行遊戲時亦較少出現錯誤\[9\]。
 
 Cassette Vision推出前，日本的遊戲機市場並沒有價格低於20,000日元的卡帶式家用遊戲機\[10\]。而當時Cassette
-Vision的對手的是由外國輸入的卡帶式家用遊戲機，包括[雅達利2600](../Page/雅達利2600.md "wikilink")（日本稱為雅達利VCS，由[Epoch負責銷售](../Page/Epoch.md "wikilink")，售價57,300日元）\[11\]及[Intellivision](../Page/Intellivision.md "wikilink")（由[萬代負責銷售](../Page/萬代.md "wikilink")，售價49,800日元）。因此，當Cassette
+Vision的對手的是由外國輸入的卡帶式家用遊戲機，包括[雅達利2600](../Page/雅達利2600.md "wikilink")（日本稱為雅達利VCS，由[Epoch負責銷售](https://zh.wikipedia.org/wiki/Epoch "wikilink")，售價57,300日元）\[11\]及[Intellivision](../Page/Intellivision.md "wikilink")（由[萬代負責銷售](../Page/萬代.md "wikilink")，售價49,800日元）。因此，當Cassette
 Vision於1981年推出時，迅速成為當時最受歡迎的卡帶式家用遊戲機，並於1981年至1983年期間佔據日本的家用遊戲機市場。
 
 1983年，雅達利推出針對日本市場重新設計的雅達利2800（售價24,800日元），而日本其他廠房亦紛紛推出價格介乎10,000至20,000日元的卡帶式家用遊戲機，而這些遊戲機的性能都比Cassette
 Vision優勝\[12\]。Epoch的應對方法是推出更便宜的Cassette Vision廉價版，Cassette Vision
-Jr.。不過，數個月後推出的[任天堂](../Page/任天堂.md "wikilink")[FC遊戲機](../Page/FC遊戲機.md "wikilink")，以其優秀的性能及低價格在極短時間支配當時日本的遊戲機市場。
+Jr.。不過，數個月後推出的[任天堂](../Page/任天堂.md "wikilink")[FC遊戲機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")，以其優秀的性能及低價格在極短時間支配當時日本的遊戲機市場。
 
 Cassette Vision的性能比當時同時期發售的家用遊戲機都遜色。無論在色彩深度（8色）、音源（單音）及顯示解像度（256 x
 128）等都比較早發售（1977年）的雅達利VCS差\[13\]。
@@ -61,9 +61,9 @@ Cassette Vision共發售11款遊戲，其中3款並不支援Cassette Vision Jr.\
   - 怪獸方塊（*Monster
     Block*、）：1984年發售的解謎動作遊戲，玩法類似[企鵝推冰](../Page/企鵝推冰.md "wikilink")。\[24\]\[25\]
   - 怪獸大宅（*Monster
-    Mansion*、）：1982年發售的動作遊戲，玩法類似[大金剛](../Page/大金剛_\(遊戲\).md "wikilink")\[26\]\[27\]
+    Mansion*、）：1982年發售的動作遊戲，玩法類似[大金剛](https://zh.wikipedia.org/wiki/大金剛_\(遊戲\) "wikilink")\[26\]\[27\]
   - 吃吃怪獸（*PakPak
-    Monster*、）：1982年發售的動作遊戲，玩法類似[食鬼](../Page/食鬼.md "wikilink")\[28\]\[29\]
+    Monster*、）：1982年發售的動作遊戲，玩法類似[食鬼](https://zh.wikipedia.org/wiki/食鬼 "wikilink")\[28\]\[29\]
 
 ### 不支援Cassette Vision Jr.的遊戲
 
@@ -80,7 +80,8 @@ Cassette Vision共發售11款遊戲，其中3款並不支援Cassette Vision Jr.\
 ## 參見
 
   - [TV Tennis](../Page/TV_Tennis.md "wikilink")
-  - [Super Cassette Vision](../Page/Super_Cassette_Vision.md "wikilink")
+  - [Super Cassette
+    Vision](https://zh.wikipedia.org/wiki/Super_Cassette_Vision "wikilink")
 
 ## 参考资料
 

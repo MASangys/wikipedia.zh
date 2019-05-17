@@ -1,6 +1,6 @@
 《**Qualidea Code**》（）為原創動畫，是由[Super
 Dash文庫](../Page/Super_Dash文庫.md "wikilink")、[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")、[MF文庫J](../Page/MF文庫J.md "wikilink")、[GAGAGA文庫與](../Page/GAGAGA文庫.md "wikilink")[Jump
-SQ等出版社以及](../Page/Jump_SQ.md "wikilink")[渡航](../Page/渡航.md "wikilink")、[橘公司](../Page/橘公司.md "wikilink")、[相樂總三位輕小說作家組成的創作團體](../Page/相樂總.md "wikilink")**Speakeasy**推出的媒體聯合計畫**Project
+SQ等出版社以及](https://zh.wikipedia.org/wiki/Jump_SQ "wikilink")[渡航](../Page/渡航.md "wikilink")、[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")、[相樂總三位輕小說作家組成的創作團體](https://zh.wikipedia.org/wiki/相樂總 "wikilink")**Speakeasy**推出的媒體聯合計畫**Project
 QUALIDEA**（）的一部分。\[1\]
 
 ## 故事簡介
@@ -9,7 +9,7 @@ QUALIDEA**（）的一部分。\[1\]
 
 由於「Unknown」擁有壓倒性的力量，人類慘被蹂躪，世界亦慘遭破壞。此時，人類出動全部力量抵抗，幾經辛苦下才獲得勝利。雖然戰爭結束，但人類仍不時遭受「Unknown」的零星攻擊。
 
-為了對抗這種永無止境的威脅，[東京](../Page/東京.md "wikilink")、[神奈川及](../Page/神奈川.md "wikilink")[千葉這三個都市便組織起來](../Page/千葉.md "wikilink")，成立「南關東防衛機構」。居於這三個都市的少年少女擁有一種名為〈世界〉的特殊能力，具有與「Unknown」對戰的能力。他們不僅要背負世界的命運，還要在一個名為排行榜的制度中為了貢獻度與他人競爭，經常守著人類領域的最前線。\[2\]
+為了對抗這種永無止境的威脅，[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[神奈川及](https://zh.wikipedia.org/wiki/神奈川 "wikilink")[千葉這三個都市便組織起來](https://zh.wikipedia.org/wiki/千葉 "wikilink")，成立「南關東防衛機構」。居於這三個都市的少年少女擁有一種名為〈世界〉的特殊能力，具有與「Unknown」對戰的能力。他們不僅要背負世界的命運，還要在一個名為排行榜的制度中為了貢獻度與他人競爭，經常守著人類領域的最前線。\[2\]
 
 ## 登場人物
 
@@ -148,7 +148,7 @@ QUALIDEA**（）的一部分。\[1\]
   -
     千葉都市次席。
     『我只是沾了妹妹的光罷了。順位什麼的沒有關係。』
-    愛諷刺人的現實主義者。會有意暴露自己的缺點，只有妹妹明日葉能理解他。是一位重度妹控。武器是[狙擊步槍](../Page/狙擊步槍.md "wikilink")。固有世界是使用回聲定位與敏銳聽覺進行搜索的能力，被朱雀壹彌取名為支配夜晚的Vampire
+    愛諷刺人的現實主義者。會有意暴露自己的缺點，只有妹妹明日葉能理解他。是一位重度妹控。武器是[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。固有世界是使用回聲定位與敏銳聽覺進行搜索的能力，被朱雀壹彌取名為支配夜晚的Vampire
     Bat。排名第100位→第207位→目前第213位。
     是輕小說《這樣的世界，怎樣都好》中的男主角。
   -
@@ -190,7 +190,7 @@ QUALIDEA**（）的一部分。\[1\]
 
   -
     在《**為了拯救世界的那一天**》及《**那樣的世界毀掉算了**》中、於29年前出現的第一種災害指定異來生物，其真正身份及目的皆不明。21年前人類曾於對抗「Unknown」的戰事中獲取勝利，但實際上是由於「Unknown」的攻勢突然減弱，人類才取得短暫的勝利。在「Unknown」的攻擊下，人類蒙受了巨大的損害，單在日本國內便有大約有3,200萬人因對抗「Unknown」而受傷或死亡，故人類便將兒童們進行冷凍睡眠以保安全。
-    「Unknown」大致可分為[巨魔級](../Page/巨魔.md "wikilink")、[克拉肯級及](../Page/克拉肯.md "wikilink")[特里同級](../Page/特里同.md "wikilink")。
+    「Unknown」大致可分為[巨魔級](https://zh.wikipedia.org/wiki/巨魔 "wikilink")、[克拉肯級及](https://zh.wikipedia.org/wiki/克拉肯 "wikilink")[特里同級](../Page/特里同.md "wikilink")。
 
 <!-- end list -->
 
@@ -302,7 +302,7 @@ QUALIDEA**（）的一部分。\[1\]
 
 ### 製作人員
 
-  - 原作：Speakeasy（[相樂總](../Page/相樂總.md "wikilink")×[橘公司](../Page/橘公司.md "wikilink")×[渡航](../Page/渡航.md "wikilink")）、[Marvelous](../Page/Marvelous.md "wikilink")
+  - 原作：Speakeasy（[相樂總](https://zh.wikipedia.org/wiki/相樂總 "wikilink")×[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")×[渡航](../Page/渡航.md "wikilink")）、[Marvelous](../Page/Marvelous.md "wikilink")
   - 監督：川村賢一
   - 腳本：Speakeasy
   - 人物原案：
@@ -342,7 +342,7 @@ QUALIDEA**（）的一部分。\[1\]
 <!-- end list -->
 
   - 2nd片尾曲「約束 -Promise code-」\[7\]（第5－7話）
-    作詞：[メイリア](../Page/水橋舞.md "wikilink")，作曲、編曲：[toku](../Page/阿部尚德.md "wikilink")，主唱：[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
+    作詞：[メイリア](../Page/水橋舞.md "wikilink")，作曲、編曲：[toku](../Page/阿部尚德.md "wikilink")，主唱：[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
 
 <!-- end list -->
 
@@ -352,12 +352,12 @@ QUALIDEA**（）的一部分。\[1\]
 <!-- end list -->
 
   - 1st ost 「Time To Go」
-    作曲、編曲：[:岩崎琢](../Page/:岩崎琢.md "wikilink")，主唱：
+    作曲、編曲：[:岩崎琢](https://zh.wikipedia.org/wiki/:岩崎琢 "wikilink")，主唱：
     [石川由依](../Page/石川由依.md "wikilink")
   - Ost 「I can't find U」
-    作曲、編曲：[:岩崎琢](../Page/:岩崎琢.md "wikilink")
+    作曲、編曲：[:岩崎琢](https://zh.wikipedia.org/wiki/:岩崎琢 "wikilink")
   - Ost 「Take」
-    作曲、編曲：[:岩崎琢](../Page/:岩崎琢.md "wikilink")
+    作曲、編曲：[:岩崎琢](https://zh.wikipedia.org/wiki/:岩崎琢 "wikilink")
 
 ### 各話列表
 
@@ -380,7 +380,7 @@ QUALIDEA**（）的一部分。\[1\]
 <td><p>#01</p></td>
 <td></td>
 <td><p>殘存世界的榮耀</p></td>
-<td><p><a href="../Page/相樂總.md" title="wikilink">相樂總</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/相樂總" title="wikilink">相樂總</a></p></td>
 <td><p>川村賢一</p></td>
 <td><p>柴田彰久</p></td>
 <td><p>日向正樹、武本大介<br />
@@ -426,7 +426,7 @@ QUALIDEA**（）的一部分。\[1\]
 <td><p>#05</p></td>
 <td></td>
 <td><p>小公主的Regalia</p></td>
-<td><p><a href="../Page/橘公司.md" title="wikilink">橘公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘公司" title="wikilink">橘公司</a></p></td>
 <td><p>柴田彰久<br />
 石井俊匡<br />
 川越崇弘</p></td>
@@ -526,16 +526,16 @@ QUALIDEA**（）的一部分。\[1\]
 
 ### 播放電視台
 
-| 播放地區                                | 播放電視台                                     | 播放日期            | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播網                                  | 備註 |
-| ----------------------------------- | ----------------------------------------- | --------------- | ----------------------------------------------------------------------- | -------------------------------------- | -- |
-| [東京都](../Page/東京都.md "wikilink")    | [TOKYO MX](../Page/東京都會電視台.md "wikilink") | 2016年7月10日－     | 星期日 0時00分－0時30分                                                         | [獨立協](../Page/全國獨立放送協議會.md "wikilink") |    |
-| [栃木縣](../Page/栃木縣.md "wikilink")    | [栃木電視台](../Page/栃木電視台.md "wikilink")      |                 |                                                                         |                                        |    |
-| [群馬縣](../Page/群馬縣.md "wikilink")    | [群馬電視台](../Page/群馬電視台.md "wikilink")      |                 |                                                                         |                                        |    |
-| 日本全國                                | [BS11](../Page/日本BS放送.md "wikilink")      | 衛星電視            | BS放送／『[ANIME+](../Page/ANIME+.md "wikilink")』節目                         |                                        |    |
-| [千葉縣](../Page/千葉縣.md "wikilink")    | [千葉電視台](../Page/千葉電視台.md "wikilink")      | 星期日 0時30分－1時00分 | 獨立協                                                                     |                                        |    |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")    |                 |                                                                         |                                        |    |
-| [近畿廣域圈](../Page/近畿地方.md "wikilink") | [朝日放送](../Page/朝日放送.md "wikilink")        | 2016年7月14日－     | 星期四 2時44分－3時11分                                                         | [朝日電視網](../Page/朝日電視網.md "wikilink")   |    |
-|                                     |                                           |                 |                                                                         |                                        |    |
+| 播放地區                                | 播放電視台                                                   | 播放日期            | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                   | 備註 |
+| ----------------------------------- | ------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -- |
+| [東京都](../Page/東京都.md "wikilink")    | [TOKYO MX](../Page/東京都會電視台.md "wikilink")               | 2016年7月10日－     | 星期日 0時00分－0時30分                                                                                               | [獨立協](../Page/全國獨立放送協議會.md "wikilink")                  |    |
+| [栃木縣](../Page/栃木縣.md "wikilink")    | [栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink") |                 |                                                                                                               |                                                         |    |
+| [群馬縣](../Page/群馬縣.md "wikilink")    | [群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink") |                 |                                                                                                               |                                                         |    |
+| 日本全國                                | [BS11](../Page/日本BS放送.md "wikilink")                    | 衛星電視            | BS放送／『[ANIME+](../Page/ANIME+.md "wikilink")』節目                                                               |                                                         |    |
+| [千葉縣](../Page/千葉縣.md "wikilink")    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink") | 星期日 0時30分－1時00分 | 獨立協                                                                                                           |                                                         |    |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                  |                 |                                                                                                               |                                                         |    |
+| [近畿廣域圈](../Page/近畿地方.md "wikilink") | [朝日放送](../Page/朝日放送.md "wikilink")                      | 2016年7月14日－     | 星期四 2時44分－3時11分                                                                                               | [朝日電視網](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink") |    |
+|                                     |                                                         |                 |                                                                                                               |                                                         |    |
 
 ## 註釋
 

@@ -1,9 +1,11 @@
-***Mesotaenia***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[苾蛺蝶亞科](../Page/苾蛺蝶亞科.md "wikilink")[圖蛺蝶族裡的一個](../Page/圖蛺蝶族.md "wikilink")[屬](../Page/屬.md "wikilink")，尚無正式中文學名命名。物種分布於[墨西哥及](../Page/墨西哥.md "wikilink")[玻利維亞一帶](../Page/玻利維亞.md "wikilink")\[1\]。
+***Mesotaenia***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[苾蛺蝶亞科](../Page/苾蛺蝶亞科.md "wikilink")[圖蛺蝶族裡的一個](../Page/圖蛺蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於[墨西哥及](../Page/墨西哥.md "wikilink")[玻利維亞一帶](../Page/玻利維亞.md "wikilink")\[1\]。
 
 ## 物種
 
-  - [基紅美蛺蝶](../Page/基紅美蛺蝶.md "wikilink") *Mesotaenia barnesi*
-  - [六點美蛺蝶](../Page/六點美蛺蝶.md "wikilink") *Mesotaenia vaninka*
+  - [基紅美蛺蝶](https://zh.wikipedia.org/wiki/基紅美蛺蝶 "wikilink") *Mesotaenia
+    barnesi*
+  - [六點美蛺蝶](https://zh.wikipedia.org/wiki/六點美蛺蝶 "wikilink") *Mesotaenia
+    vaninka*
 
 ## 參考文獻
 

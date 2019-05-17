@@ -1,13 +1,13 @@
-是[史克威爾艾尼克斯开发并发行在](../Page/史克威爾艾尼克斯.md "wikilink")[PlayStation
-4](../Page/PlayStation_4.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[Windows和](../Page/Windows.md "wikilink")[任天堂Switch平台上的](../Page/任天堂Switch.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]。遊戲是[勇者鬥惡龍系列第](../Page/勇者鬥惡龍系列.md "wikilink")11部編號作品，也是系列诞生30周年的纪念作品。游戏于2015年正式公布，2017年7月在日本发售[PlayStation
-4和](../Page/PlayStation_4.md "wikilink")[任天堂3DS版本](../Page/任天堂3DS.md "wikilink")，2017年11月11日在臺灣與香港發行PS4平台中文版；2018年9月4日發售[Windows版](../Page/Windows.md "wikilink")、同時在欧美地區发售[PlayStation
+是[史克威爾艾尼克斯开发并发行在](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[PlayStation
+4](../Page/PlayStation_4.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[任天堂Switch平台上的](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]。遊戲是[勇者鬥惡龍系列第](../Page/勇者鬥惡龍系列.md "wikilink")11部編號作品，也是系列诞生30周年的纪念作品。游戏于2015年正式公布，2017年7月在日本发售[PlayStation
+4和](../Page/PlayStation_4.md "wikilink")[任天堂3DS版本](../Page/任天堂3DS.md "wikilink")，2017年11月11日在臺灣與香港發行PS4平台中文版；2018年9月4日發售[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")、同時在欧美地區发售[PlayStation
 4版](../Page/PlayStation_4.md "wikilink")；\[2\]而任天堂Switch版本几经延期后计划于2019年内发售，该版本游戏視為加強版並確内置繁简中文。\[3\]
 
 ## 開發
 
 《勇者斗恶龙XI》在2013年企划伊始之时原定为PS4独占，后因担心遊戲平台普及率或許將導致盈利问题(當時PS4和Switch皆尚未發售)，決定增加了3DS版。\[4\]游戏在开发过程中根据平台分为两组人马，3DS版的团队由横田贤人负责，PS4版的团队由冈本北斗负责。\[5\]
 
-遊戲於2015年7月28日的「勇者鬥惡龍新作發表會」上正式公布。系列以往編號作品只對[任天堂或](../Page/任天堂.md "wikilink")[索尼電腦娛樂單廠商獨佔](../Page/索尼電腦娛樂.md "wikilink")，這是系列首次跨雙廠商平台。前作《[勇者鬥惡龍X](../Page/勇者鬥惡龍X.md "wikilink")》為大型多人線上角色扮演遊戲，本作再度回歸《I》至《IX》的單機RPG（角色扮演）。PlayStation
+遊戲於2015年7月28日的「勇者鬥惡龍新作發表會」上正式公布。系列以往編號作品只對[任天堂或](../Page/任天堂.md "wikilink")[索尼電腦娛樂單廠商獨佔](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")，這是系列首次跨雙廠商平台。前作《[勇者鬥惡龍X](https://zh.wikipedia.org/wiki/勇者鬥惡龍X "wikilink")》為大型多人線上角色扮演遊戲，本作再度回歸《I》至《IX》的單機RPG（角色扮演）。PlayStation
 4與Switch版本采用[虚幻引擎4开发](../Page/虚幻引擎.md "wikilink")。\[6\]此外本作也是在Switch尚未上市時，首个确定将会登上該平台的游戏。\[7\]
 
 游戏于2017年11月11日在PlayStation 4平台上发售繁体中文版。\[8\]
@@ -19,7 +19,7 @@ XI
 ## 评价
 
 《勇者斗恶龙XI》的PlayStation
-4和任天堂3DS版本都获得了日本知名游戏杂志《[FAMI通](../Page/FAMI通.md "wikilink")》的40分满分评价\[11\]。
+4和任天堂3DS版本都获得了日本知名游戏杂志《[FAMI通](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")》的40分满分评价\[11\]。
 
 日版游戏发售前两日售出208万套，其中任天堂3DS版113万，PlayStation
 4版95万\[12\]。2017年8月7日，日本國內雙平台合計的出货量与下载版加總達300万套\[13\]。截至2017年結束，本作雙平台合計在日本賣出了308萬套。\[14\]
@@ -56,7 +56,7 @@ XI
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="../Page/日本遊戲大賞.md" title="wikilink">日本遊戲大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本遊戲大賞" title="wikilink">日本遊戲大賞</a></p></td>
 <td><p>優秀賞</p></td>
 <td><p>《勇者鬥惡龍 XI 尋覓逝去的時光》</p></td>
 <td></td>

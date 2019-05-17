@@ -1,30 +1,32 @@
-是由[东日本旅客铁道自](../Page/东日本旅客铁道.md "wikilink")2007年1月起运用的一款柴油动车组。\[1\]\[2\]
+是由[东日本旅客铁道自](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")2007年1月起运用的一款柴油动车组。\[1\]\[2\]
 
 ## 运用情况
 
-  - KiHa E130型0番台：共13列1辆编组，自2007年1月起运用于[水郡线](../Page/水郡线.md "wikilink")；
+  - KiHa
+    E130型0番台：共13列1辆编组，自2007年1月起运用于[水郡线](https://zh.wikipedia.org/wiki/水郡线 "wikilink")；
   - KiHa E131型+KiHa E132型：共13列2辆编组，自2007年1月起运用于水郡线；
   - KiHa
-    E130型100番台：共10列1辆编组，自2012年12月1日起运用于[久留里线](../Page/久留里线.md "wikilink")。
+    E130型100番台：共10列1辆编组，自2012年12月1日起运用于[久留里线](https://zh.wikipedia.org/wiki/久留里线 "wikilink")。
   - KiHa
-    E130型500番台：6列2輛編組及6列1輛編組，共18輛，自2017年12月2日起运用于[八戶线](../Page/八戶线.md "wikilink")。
+    E130型500番台：6列2輛編組及6列1輛編組，共18輛，自2017年12月2日起运用于[八戶线](https://zh.wikipedia.org/wiki/八戶线 "wikilink")。
 
 ### 水郡线
 
 在水郡线运用的KiHa E130系列车，以水郡车辆中心（常陆大子）为基地，包括13列KiHa E130型1辆编组和13列KiHa
-E131/E132型联结而成的2辆编组，共计39辆；服务于[茨城县](../Page/茨城县.md "wikilink")[水户站和](../Page/水户站.md "wikilink")[福岛县](../Page/福岛县.md "wikilink")[郡山站之间](../Page/郡山站.md "wikilink")。列车于2007年1月开始入役，在当年9月完全取代了此前运用于此线路的[KiHa
-100系柴油动车组](../Page/JR东日本Kiha100系柴油动车组.md "wikilink")。 \[3\]
+E131/E132型联结而成的2辆编组，共计39辆；服务于[茨城县](https://zh.wikipedia.org/wiki/茨城县 "wikilink")[水户站和](https://zh.wikipedia.org/wiki/水户站 "wikilink")[福岛县](../Page/福岛县.md "wikilink")[郡山站之间](https://zh.wikipedia.org/wiki/郡山站 "wikilink")。列车于2007年1月开始入役，在当年9月完全取代了此前运用于此线路的[KiHa
+100系柴油动车组](https://zh.wikipedia.org/wiki/JR东日本Kiha100系柴油动车组 "wikilink")。
+\[3\]
 
 ### 久留里线
 
 2012年12月1日，10辆KiHa
-E130系新车投入[千叶县境内的](../Page/千叶县.md "wikilink")[久留里线服务](../Page/久留里线.md "wikilink")，替代此前运用于此的老化的KiHa
+E130系新车投入[千叶县境内的](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[久留里线服务](https://zh.wikipedia.org/wiki/久留里线 "wikilink")，替代此前运用于此的老化的KiHa
 30、KiHa 37及KiHa 38柴油动车组。\[4\]
 
 久留里线的KiHa E130系100番台列车使用DT74A动力转向架和TR259A无动力转向架。\[5\]
 
 <File:JR> East E130 Kururi Line.jpg|久留里线的KiHa
-E130系104号列车在[木更津站](../Page/木更津站.md "wikilink")，2012年10月
+E130系104号列车在[木更津站](https://zh.wikipedia.org/wiki/木更津站 "wikilink")，2012年10月
 
 ### 八戶线
 
@@ -46,7 +48,7 @@ E132联结）侧面则为蓝绿色。两种编组列车的车门和驾驶室端�
 ## 内部
 
 车厢中部为1+2布局的横列座位，两端则为沿车厢侧面纵向布置的长椅。KiHa E130型和KiHa
-E131系设有采用[通用设计的洗手间](../Page/通用设计.md "wikilink")。\[9\]
+E131系设有采用[通用设计的洗手间](https://zh.wikipedia.org/wiki/通用设计 "wikilink")。\[9\]
 
 久留里线使用的KiHa E130系100番台仅设置纵向座椅，且不设洗手间。\[10\]
 
@@ -123,11 +125,11 @@ E132-2在水户站，2007年9月
 ## 历史
 
 第一列单辆编组KiHa
-E130系列车于2006年12月由[新潟运输系统交付](../Page/新潟运输系统.md "wikilink")，至2007年1月末为止又交付了12列。KiHa
-E130型13号车于2007年8月交付。2辆编组列车的交付始于2007年2月，当年8月交付了最后一列。除第8和第9编组由[东急车辆制造生产外](../Page/东急车辆制造.md "wikilink")，所有2辆编组的KiHa
+E130系列车于2006年12月由[新潟运输系统交付](https://zh.wikipedia.org/wiki/新潟运输系统 "wikilink")，至2007年1月末为止又交付了12列。KiHa
+E130型13号车于2007年8月交付。2辆编组列车的交付始于2007年2月，当年8月交付了最后一列。除第8和第9编组由[东急车辆制造生产外](https://zh.wikipedia.org/wiki/东急车辆制造 "wikilink")，所有2辆编组的KiHa
 E130系都由新潟运输系统制造。\[12\]
 
-预定运用于[久留里线的首](../Page/久留里线.md "wikilink")3列KiHa
+预定运用于[久留里线的首](https://zh.wikipedia.org/wiki/久留里线 "wikilink")3列KiHa
 E130系100番台列车（101-103号编组），2012年8月自新潟运输系统交付；\[13\]
 余下7组列车（104-110号编组）则于当年10月付运。\[14\]这批列车预定从2012年12月1日起投入正式运营。\[15\]
 

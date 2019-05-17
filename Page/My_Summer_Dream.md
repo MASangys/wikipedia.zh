@@ -1,5 +1,5 @@
 《**My Summer
-Dream**》是[台灣](../Page/台灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[吳奇隆的第七張大碟](../Page/吳奇隆.md "wikilink")，第二張粵語大碟，於1994年7月推出\[1\]\[2\]。
+Dream**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳奇隆的第七張大碟](../Page/吳奇隆.md "wikilink")，第二張粵語大碟，於1994年7月推出\[1\]\[2\]。
 
 ## 曲目
 

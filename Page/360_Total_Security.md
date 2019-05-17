@@ -1,22 +1,22 @@
 360 Total
-Security是[360安全中心](../Page/奇虎.md "wikilink")\[1\]推出的一款面向海外地区的[Windows](../Page/Windows.md "wikilink")、[Mac
-OS](../Page/Mac_OS.md "wikilink")[操作系统下的](../Page/操作系统.md "wikilink")[计算机安全辅助软件](../Page/计算机.md "wikilink")。功能主要有清除[恶意软件](../Page/恶意软件.md "wikilink")、扫描[木马](../Page/特洛伊木马_\(电脑\).md "wikilink")、修补系统漏洞、清理系统垃圾、清理使用痕迹、优化等功能。
+Security是[360安全中心](https://zh.wikipedia.org/wiki/奇虎 "wikilink")\[1\]推出的一款面向海外地区的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
+OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[操作系统下的](../Page/操作系统.md "wikilink")[计算机安全辅助软件](https://zh.wikipedia.org/wiki/计算机 "wikilink")。功能主要有清除[恶意软件](../Page/恶意软件.md "wikilink")、扫描[木马](../Page/特洛伊木马_\(电脑\).md "wikilink")、修补系统漏洞、清理系统垃圾、清理使用痕迹、优化等功能。
 
 ## 歷史與發展
 
 ### 2014年
 
-  - 2014年1月，[奇虎360公司授权台湾的代理商](../Page/奇虎360.md "wikilink")**希悦资讯**发行[台湾繁体中文版本](../Page/台湾.md "wikilink")。
+  - 2014年1月，[奇虎360公司授权台湾的代理商](https://zh.wikipedia.org/wiki/奇虎360 "wikilink")**希悦资讯**发行[台湾繁体中文版本](https://zh.wikipedia.org/wiki/台湾 "wikilink")。
 
 <!-- end list -->
 
-  - 2014年2月25日，[奇虎360公司发布](../Page/奇虎360.md "wikilink")360 Total
-    Security。
+  - 2014年2月25日，[奇虎360公司发布](https://zh.wikipedia.org/wiki/奇虎360 "wikilink")360
+    Total Security。
 
 ## 基本功能
 
   - 電腦體檢：檢查電腦的各項安全或電腦的故障等修復。
-  - 病毒掃描：找出您电脑中疑似木马的程序，提供360云查杀引擎、系统修复引擎、QVMII人工智能引擎，[Avira引擎](../Page/Avira.md "wikilink")，[BitDefender引擎](../Page/BitDefender.md "wikilink")。
+  - 病毒掃描：找出您电脑中疑似木马的程序，提供360云查杀引擎、系统修复引擎、QVMII人工智能引擎，[Avira引擎](https://zh.wikipedia.org/wiki/Avira "wikilink")，[BitDefender引擎](https://zh.wikipedia.org/wiki/BitDefender "wikilink")。
   - 优化加速：检查系统是否需要优化,增加电脑速度。提供一键加速（启动项、计划任务、应用软件服务、系统关键服务、网络性能优化）。
   - 電腦清理：提供電腦清理，上網痕跡，電腦插件，註冊表等五項清理。
 

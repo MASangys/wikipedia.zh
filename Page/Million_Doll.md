@@ -1,5 +1,5 @@
 **Million
-Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](../Page/藍_\(漫畫家\).md "wikilink")[網路漫畫](../Page/網路漫畫.md "wikilink")。2013年12月至2016年11月連載於免費[APP](../Page/APP.md "wikilink")《GANMA！》上。由[旭Production製作的](../Page/旭Production.md "wikilink")[電視動畫於](../Page/電視動畫.md "wikilink")2015年7月至9月首播。
+Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](../Page/藍_\(漫畫家\).md "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。2013年12月至2016年11月連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上。由[旭Production製作的](https://zh.wikipedia.org/wiki/旭Production "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月至9月首播。
 
 ## 登場人物
 
@@ -51,13 +51,13 @@ Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](..
 
 ## 漫畫
 
-2013年12月12日起連載於免費[APP](../Page/APP.md "wikilink")《GANMA！》上\[1\]，2015年9月起因作者健康不佳而停止連載。2本[單行本於](../Page/單行本.md "wikilink")2015年6月26日由[EARTH
+2013年12月12日起連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上\[1\]，2015年9月起因作者健康不佳而停止連載。2本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2015年6月26日由[EARTH
 STAR
-Entertainment發售](../Page/EARTH_STAR_Entertainment.md "wikilink")。\[2\]\[3\]
+Entertainment發售](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")。\[2\]\[3\]
 
 ## 動畫
 
-2015年3月號於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》雜誌發表將由旭Production製作[電視動畫並於](../Page/電視動畫.md "wikilink")2015年7月首播的消息\[4\]\[5\]。2015年7月6日至9月21日播放。由[川口敬一郎擔任導演](../Page/川口敬一郎.md "wikilink")、村上桃子擔任劇本寫作\[6\]\[7\]。
+2015年3月號於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》雜誌發表將由旭Production製作[電視動畫並於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月首播的消息\[4\]\[5\]。2015年7月6日至9月21日播放。由[川口敬一郎擔任導演](../Page/川口敬一郎.md "wikilink")、村上桃子擔任劇本寫作\[6\]\[7\]。
 
 ### 製作人員
 
@@ -72,7 +72,7 @@ Entertainment發售](../Page/EARTH_STAR_Entertainment.md "wikilink")。\[2\]\[3\
   - 音樂製作人：深井康介、
   - 音樂製作：F.M.F
   - 動畫製作人：下村敬治
-  - 動畫製作：[旭Production](../Page/旭Production.md "wikilink")
+  - 動畫製作：[旭Production](https://zh.wikipedia.org/wiki/旭Production "wikilink")
   - 製作：「Million Doll」製作委員會
 
 ### 主題曲
@@ -91,7 +91,7 @@ Entertainment發售](../Page/EARTH_STAR_Entertainment.md "wikilink")。\[2\]\[3\
   -
 
       -
-        作詞：[やしきん](../Page/やしきん.md "wikilink")，作曲、編曲：eba，主唱：麻理子（[伊藤美來](../Page/伊藤美來.md "wikilink")）
+        作詞：[やしきん](https://zh.wikipedia.org/wiki/やしきん "wikilink")，作曲、編曲：eba，主唱：麻理子（[伊藤美來](../Page/伊藤美來.md "wikilink")）
 
   - 片尾曲
 
@@ -106,7 +106,8 @@ Entertainment發售](../Page/EARTH_STAR_Entertainment.md "wikilink")。\[2\]\[3\
 
 :; 「TA・BE・GO・RO@ガール！」（第2、4話）
 
-:: 作詞、編曲：，作曲：田代智一，主唱：鎌倉日奈美（[内田彩](../Page/内田彩.md "wikilink")）
+::
+作詞、編曲：，作曲：田代智一，主唱：鎌倉日奈美（[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")）
 
 :; 「Take you to My PARTY\!\!」（第6話）
 
@@ -218,7 +219,7 @@ Entertainment發售](../Page/EARTH_STAR_Entertainment.md "wikilink")。\[2\]\[3\
 <td><p>第11話</p></td>
 <td></td>
 <td><p>目標，偶像出道！</p></td>
-<td><p><a href="../Page/辻初樹.md" title="wikilink">辻初樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/辻初樹" title="wikilink">辻初樹</a></p></td>
 <td><p>菊永智英、小笠原憂</p></td>
 <td></td>
 </tr>

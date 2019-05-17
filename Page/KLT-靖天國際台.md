@@ -1,5 +1,5 @@
-**KLT-靖天國際台**是[嘉麗台第二條頻道](../Page/嘉麗台.md "wikilink")，2016年2月1日開播、取代[家娛國際台](../Page/家娛國際台.md "wikilink")。該頻道由[媒體智庫有限公司與](../Page/媒體智庫有限公司.md "wikilink")[靖天傳播合作開設](../Page/靖天傳播.md "wikilink")，主要播出[馬來西亞](../Page/馬來西亞.md "wikilink")[Astro
-TV的節目](../Page/Astro频道.md "wikilink")。
+**KLT-靖天國際台**是[嘉麗台第二條頻道](../Page/嘉麗台.md "wikilink")，2016年2月1日開播、取代[家娛國際台](https://zh.wikipedia.org/wiki/家娛國際台 "wikilink")。該頻道由[媒體智庫有限公司與](https://zh.wikipedia.org/wiki/媒體智庫有限公司 "wikilink")[靖天傳播合作開設](../Page/靖天傳播.md "wikilink")，主要播出[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro
+TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 
 ## 節目列表
 
@@ -54,7 +54,7 @@ TV的節目](../Page/Astro频道.md "wikilink")。
   - 遨遊天地
   - 星級會客室2016
   - [玩轉姻「玄」路](../Page/玩轉姻玄路.md "wikilink")
-  - [四個轆．日本周圍Look](../Page/四個轆.日本周圍Look.md "wikilink")
+  - [四個轆．日本周圍Look](https://zh.wikipedia.org/wiki/四個轆.日本周圍Look "wikilink")
   - [峰生水起精讀班 - 掌相](../Page/「峰」生水起精讀班.md "wikilink")
   - 肥媽私房菜 - 藥膳補臟（肥媽藥膳補臟）
   - 陳啟泰．吳綺莉 不老的傳說
@@ -104,7 +104,7 @@ TV的節目](../Page/Astro频道.md "wikilink")。
   - [香港空間大改造](../Page/空間大改造.md "wikilink")
   - 香港空間大改造2016
   - 食德好．潮食男女
-  - [美食法庭](../Page/美食法庭.md "wikilink")
+  - [美食法庭](https://zh.wikipedia.org/wiki/美食法庭 "wikilink")
   - 歐洲四部曲：紅．巴塞隆拿
   - 我是香港人2014
   - 設計王
@@ -112,7 +112,7 @@ TV的節目](../Page/Astro频道.md "wikilink")。
   - 寵物ER- 3
   - 蔣怡前4后6狂想曲
   - 日本東北的12夜
-  - [活得很滋味](../Page/活得很滋味.md "wikilink")
+  - [活得很滋味](https://zh.wikipedia.org/wiki/活得很滋味 "wikilink")
   - 帶阿B去旅行
   - 金牌飯局Let's高
   - 千年一嘆．東京樂章
@@ -177,7 +177,7 @@ TV的節目](../Page/Astro频道.md "wikilink")。
   - 帶亞媽去旅行 2017（帶阿媽去旅行 2017）
   - 身. 醫. 管
   - 香港有寶證
-  - [杜文澤食住上](../Page/杜汶澤食住上.md "wikilink")（杜汶澤食住上）
+  - [杜文澤食住上](https://zh.wikipedia.org/wiki/杜汶澤食住上 "wikilink")（杜汶澤食住上）
   - Learning男
   - 無恐不入（無「恐」不入）
   - 朝拜傲媽

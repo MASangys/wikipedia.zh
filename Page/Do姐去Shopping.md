@@ -1,4 +1,4 @@
-《**Do姐去Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共15集，由[鄭裕玲擔任主持](../Page/鄭裕玲.md "wikilink")。本節目於2015年11月9日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。本節目由[六福珠寶特約](../Page/六福珠寶.md "wikilink")，並為無綫電視48週年「[台慶獻禮](../Page/無綫電視台慶相關活動.md "wikilink")」之一。節目於《[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")》中獲得「最佳綜藝及特備節目」。
+《**Do姐去Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的旅遊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共15集，由[鄭裕玲擔任主持](../Page/鄭裕玲.md "wikilink")。本節目於2015年11月9日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。本節目由[六福珠寶特約](https://zh.wikipedia.org/wiki/六福珠寶 "wikilink")，並為無綫電視48週年「[台慶獻禮](../Page/無綫電視台慶相關活動.md "wikilink")」之一。節目於《[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")》中獲得「最佳綜藝及特備節目」。
 
 ## 每集主題
 
@@ -45,7 +45,7 @@
 <td><p>「購」別巴黎</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/塔斯曼尼亞.md" title="wikilink">塔斯曼尼亞及</a><a href="../Page/墨爾本.md" title="wikilink">墨爾本</a>（嘉賓主持：<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塔斯曼尼亞" title="wikilink">塔斯曼尼亞及</a><a href="https://zh.wikipedia.org/wiki/墨爾本" title="wikilink">墨爾本</a>（嘉賓主持：<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -75,7 +75,7 @@
 <td><p>親親大自然</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/倫敦.md" title="wikilink">倫敦</a>（嘉賓主持：<a href="../Page/馬國明.md" title="wikilink">馬國明</a>、<a href="../Page/梁烈唯.md" title="wikilink">梁烈唯</a>、<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a>（嘉賓主持：<a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a>、<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -109,7 +109,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
 
 | 週次 | 集數    | 日期                 | 平均收視 |
 | -- | ----- | ------------------ | ---- |

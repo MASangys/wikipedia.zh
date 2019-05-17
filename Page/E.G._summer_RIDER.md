@@ -1,6 +1,6 @@
 《**E.G. summer
-RIDER**》是[日本](../Page/日本.md "wikilink")[女子組合](../Page/女子組合.md "wikilink")[E-girls的第](../Page/E-girls.md "wikilink")16张[单曲](../Page/单曲.md "wikilink")，於2016年7月20日由[rhythm
-zone发售](../Page/rhythm_zone.md "wikilink")。
+RIDER**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")16张[单曲](../Page/单曲.md "wikilink")，於2016年7月20日由[rhythm
+zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -8,7 +8,7 @@ zone发售](../Page/rhythm_zone.md "wikilink")。
     SINGLE的第一作，並以『E.G. POP』為概念。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《E.G. summer RIDER》的Music
     Video。
-  - 在8月1日於[公信榜单曲週排行榜取得第](../Page/公信榜.md "wikilink")2位。
+  - 在8月1日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")2位。
 
 ## 選抜成员
 
@@ -16,18 +16,18 @@ zone发售](../Page/rhythm_zone.md "wikilink")。
 
   - 字為主唱
 
-      - [Dream](../Page/Dream.md "wikilink")：、、
-      - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](../Page/SAYAKA.md "wikilink")、[楓](../Page/土橋楓.md "wikilink")、、[MIYUU](../Page/有磯實結.md "wikilink")、[YURINO](../Page/鈴木結莉乃.md "wikilink")、、[須田安娜](../Page/須田安娜.md "wikilink")
-      - [Flower](../Page/Flower.md "wikilink")：[藤井萩花](../Page/藤井萩花.md "wikilink")、[重留真波](../Page/重留真波.md "wikilink")、[中島美央](../Page/中島美央.md "wikilink")、、[坂東希](../Page/坂東希.md "wikilink")、[佐藤晴美](../Page/佐藤晴美.md "wikilink")
+      - [Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")：、、
+      - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](https://zh.wikipedia.org/wiki/SAYAKA "wikilink")、[楓](https://zh.wikipedia.org/wiki/土橋楓 "wikilink")、、[MIYUU](https://zh.wikipedia.org/wiki/有磯實結 "wikilink")、[YURINO](https://zh.wikipedia.org/wiki/鈴木結莉乃 "wikilink")、、[須田安娜](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")
+      - [Flower](https://zh.wikipedia.org/wiki/Flower "wikilink")：[藤井萩花](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")、[重留真波](https://zh.wikipedia.org/wiki/重留真波 "wikilink")、[中島美央](https://zh.wikipedia.org/wiki/中島美央 "wikilink")、、[坂東希](https://zh.wikipedia.org/wiki/坂東希 "wikilink")、[佐藤晴美](https://zh.wikipedia.org/wiki/佐藤晴美 "wikilink")
       - Rabbit：
-      - EGD：[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](../Page/山口乃乃華.md "wikilink")
+      - EGD：[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](https://zh.wikipedia.org/wiki/山口乃乃華 "wikilink")
 
 <!-- end list -->
 
   - 上一首單曲《[Merry × Merry
-    Xmas★](../Page/Merry_×_Merry_Xmas★.md "wikilink")》的選拔成員全部入選了本次的選拔成員。[武部柚那繼](../Page/武部柚那.md "wikilink")《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後重回選拔組。
+    Xmas★](../Page/Merry_×_Merry_Xmas★.md "wikilink")》的選拔成員全部入選了本次的選拔成員。[武部柚那繼](https://zh.wikipedia.org/wiki/武部柚那 "wikilink")《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後重回選拔組。
   - 武部柚那繼《[Highschool♡love](../Page/Highschool♡love.md "wikilink")》後再選拔為主唱
-  - [Erie因已引退E](../Page/阿部繪里惠.md "wikilink")-girls主唱及表演者的身份而沒有在選拔名單上。
+  - [Erie因已引退E](https://zh.wikipedia.org/wiki/阿部繪里惠 "wikilink")-girls主唱及表演者的身份而沒有在選拔名單上。
 
 ### 發條裝置Bye\! Bye\!
 
@@ -41,10 +41,10 @@ zone发售](../Page/rhythm_zone.md "wikilink")。
 
   - 字為主唱
 
-      - [Dream](../Page/Dream.md "wikilink")：、、
-      - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](../Page/SAYAKA.md "wikilink")、[楓](../Page/土橋楓.md "wikilink")、、[MIYUU](../Page/有磯實結.md "wikilink")、[YURINO](../Page/鈴木結莉乃.md "wikilink")、、[須田安娜](../Page/須田安娜.md "wikilink")
-      - [Flower](../Page/Flower.md "wikilink")：[藤井萩花](../Page/藤井萩花.md "wikilink")、[重留真波](../Page/重留真波.md "wikilink")、[中島美央](../Page/中島美央.md "wikilink")、、[坂東希](../Page/坂東希.md "wikilink")、[佐藤晴美](../Page/佐藤晴美.md "wikilink")
-      - EGD：[武部柚那](../Page/武部柚那.md "wikilink")、[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](../Page/山口乃乃華.md "wikilink")
+      - [Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")：、、
+      - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](https://zh.wikipedia.org/wiki/SAYAKA "wikilink")、[楓](https://zh.wikipedia.org/wiki/土橋楓 "wikilink")、、[MIYUU](https://zh.wikipedia.org/wiki/有磯實結 "wikilink")、[YURINO](https://zh.wikipedia.org/wiki/鈴木結莉乃 "wikilink")、、[須田安娜](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")
+      - [Flower](https://zh.wikipedia.org/wiki/Flower "wikilink")：[藤井萩花](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")、[重留真波](https://zh.wikipedia.org/wiki/重留真波 "wikilink")、[中島美央](https://zh.wikipedia.org/wiki/中島美央 "wikilink")、、[坂東希](https://zh.wikipedia.org/wiki/坂東希 "wikilink")、[佐藤晴美](https://zh.wikipedia.org/wiki/佐藤晴美 "wikilink")
+      - EGD：[武部柚那](https://zh.wikipedia.org/wiki/武部柚那 "wikilink")、[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](https://zh.wikipedia.org/wiki/山口乃乃華 "wikilink")
 
 ## 收錄内容
 

@@ -1,5 +1,5 @@
 《**The
-Day**》是[韓國樂團](../Page/韓國.md "wikilink")[DAY6於](../Page/DAY6.md "wikilink")2015年9月7日發行的首張迷你專輯，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")、[KT音樂發行](../Page/KT音樂.md "wikilink")，主打歌為〈Congratulations〉。專輯發行後即登上泰國、柬埔寨等國家的iTunes專輯排行榜首位，並在美國[Billboard世界專輯榜取得第二名的佳績](../Page/Billboard.md "wikilink")。\[1\]
+Day**》是[韓國樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6於](../Page/DAY6.md "wikilink")2015年9月7日發行的首張迷你專輯，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")、[KT音樂發行](https://zh.wikipedia.org/wiki/KT音樂 "wikilink")，主打歌為〈Congratulations〉。專輯發行後即登上泰國、柬埔寨等國家的iTunes專輯排行榜首位，並在美國[Billboard世界專輯榜取得第二名的佳績](https://zh.wikipedia.org/wiki/Billboard "wikilink")。\[1\]
 
 ## 背景
 
@@ -8,17 +8,17 @@ Day**》是[韓國樂團](../Page/韓國.md "wikilink")[DAY6於](../Page/DAY6.md
 ## 歌曲與歌詞
 
 《The
-Day》的歌曲類型包含[流行搖滾](../Page/流行搖滾.md "wikilink")、[流行電音](../Page/流行電音.md "wikilink")、[電子音樂](../Page/電子音樂.md "wikilink")。主打歌曲〈Congratulations〉描述愛人移情別戀後，用諷刺的話語來表達心裡的感受。\[2\]
+Day》的歌曲類型包含[流行搖滾](../Page/流行搖滾.md "wikilink")、[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[電子音樂](../Page/電子音樂.md "wikilink")。主打歌曲〈Congratulations〉描述愛人移情別戀後，用諷刺的話語來表達心裡的感受。\[2\]
 
 ## 現場演出
 
-[JYP娛樂為了讓](../Page/JYP娛樂.md "wikilink")[DAY6累積經驗](../Page/DAY6.md "wikilink")，從7月份開始就讓DAY6進行多場表演。2015年7月24日在Sugarbowl於[弘大Club](../Page/弘大_\(首爾\).md "wikilink")
+[JYP娛樂為了讓](../Page/JYP娛樂.md "wikilink")[DAY6累積經驗](../Page/DAY6.md "wikilink")，從7月份開始就讓DAY6進行多場表演。2015年7月24日在Sugarbowl於[弘大Club](https://zh.wikipedia.org/wiki/弘大_\(首爾\) "wikilink")
 Freebird2舉行的演唱會上擔任開場演出，7月31日參與在弘大Club FF的「LIVE CLUB
-DAY」演唱會\[3\]，8月8日參加「2015釜山搖滾節」，8月20日參與[光山PODCAST演唱會](../Page/光山區.md "wikilink")，8月27日出席JYP娛樂的練習生Showcase，在演出中成員們透露他們即將出道。
+DAY」演唱會\[3\]，8月8日參加「2015釜山搖滾節」，8月20日參與[光山PODCAST演唱會](https://zh.wikipedia.org/wiki/光山區 "wikilink")，8月27日出席JYP娛樂的練習生Showcase，在演出中成員們透露他們即將出道。
 
-官方正式發布出道消息後，9月5日參與在[首爾蘭芝漢江公園舉辦的](../Page/首爾.md "wikilink")「Someday
+官方正式發布出道消息後，9月5日參與在[首爾蘭芝漢江公園舉辦的](https://zh.wikipedia.org/wiki/首爾 "wikilink")「Someday
 Festival 2015」。9月6日舉行首張迷你專輯Showcase，除了表演專輯內收錄的〈Freely〉、〈Out Of My
-Mind〉、〈Congratulations〉和〈Habits〉，還有演唱自創曲〈You〉以及改編[2PM的](../Page/2PM.md "wikilink")〈[我們家](../Page/No.5_\(2PM專輯\).md "wikilink")〉。9月11日與其它樂團在Rolling
+Mind〉、〈Congratulations〉和〈Habits〉，還有演唱自創曲〈You〉以及改編[2PM的](https://zh.wikipedia.org/wiki/2PM "wikilink")〈[我們家](../Page/No.5_\(2PM專輯\).md "wikilink")〉。9月11日與其它樂團在Rolling
 Hall舉行小型演唱會「Bright Right」。
 
 ## 曲目
@@ -39,7 +39,7 @@ Hall舉行小型演唱會「Bright Right」。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>韓國<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a></p></td>
+<td><p>韓國<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a></p></td>
 <td></td>
 <td><p>週榜</p></td>
 <td><p>#6</p></td>
@@ -55,7 +55,7 @@ Hall舉行小型演唱會「Bright Right」。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/數位單曲榜.md" title="wikilink">數位單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/數位單曲榜" title="wikilink">數位單曲榜</a></p></td>
 <td><p>週榜</p></td>
 <td><p>#58</p></td>
 <td><p>rowspan=3 </p></td>

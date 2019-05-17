@@ -1,4 +1,4 @@
-\[1\]是[CIRCUS在](../Page/CIRCUS_\(遊戲品牌\).md "wikilink")2008年5月29日由角川書店代理發售的PS2遊戲，為PC遊戲《[初音島II](../Page/初音島II.md "wikilink")》的遊戲機版。2009年6月25日發售PS2廉價版《**初音島II
+\[1\]是[CIRCUS在](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")2008年5月29日由角川書店代理發售的PS2遊戲，為PC遊戲《[初音島II](../Page/初音島II.md "wikilink")》的遊戲機版。2009年6月25日發售PS2廉價版《**初音島II
 Plus Situation** KADOKAWA THE
 BEST》CIRCUS\[2\]。2008年12月26日發售18禁PC版《D.C.P.C.II
 〜ダ・カーポII〜 プラスコミュニケーション》\[3\]。2010年10月28日發售PSP版《D.C.I\&II
@@ -25,16 +25,16 @@ Stone發售數位下載版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラ�
 
   - ダ・カーポII 〜あさきゆめみし君と〜
 
-作詞/作曲：[tororo](../Page/tororo.md "wikilink")、編曲：Angel
-Note、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
+作詞/作曲：[tororo](https://zh.wikipedia.org/wiki/tororo "wikilink")、編曲：Angel
+Note、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
 
   - beautiful flower
 
-作詞/作曲/編曲：宇佐美宏、歌：[美郷あき](../Page/美郷あき.md "wikilink")
+作詞/作曲/編曲：宇佐美宏、歌：[美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")
 
   - Especially
 
-作詞：くみはし佑、作曲/編曲：宇佐美宏、歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")
+作詞：くみはし佑、作曲/編曲：宇佐美宏、歌：[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")
 
 ### 插入曲
 
@@ -44,11 +44,11 @@ Note、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
 
   - Cloudy
 
-作詞：rino、作曲/編曲：末廣健一郎、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
+作詞：rino、作曲/編曲：末廣健一郎、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
 
   - Tomorrow's Way 〜アツイナミダ〜
 
-作詞/作曲：rino、編曲：虹音、歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")
+作詞/作曲：rino、編曲：虹音、歌：[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")
 
 ### 片尾曲
 
@@ -58,7 +58,8 @@ Note、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
 
   - まぶしくてみえない
 
-作詞/作曲：BABY FACE、編曲：鈴木マサキ、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
+作詞/作曲：BABY
+FACE、編曲：鈴木マサキ、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
 
   - Little Distance
 
@@ -66,7 +67,7 @@ Note、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
 
   - If... 〜I wish〜
 
-作詞：RUCCA、作曲/編曲：宇佐美宏、歌：[美郷あき](../Page/美郷あき.md "wikilink")
+作詞：RUCCA、作曲/編曲：宇佐美宏、歌：[美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")
 
   - 仰げば尊し
 

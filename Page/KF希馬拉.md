@@ -1,4 +1,4 @@
-**KF希馬拉**是一支位於[阿爾巴尼亞](../Page/阿爾巴尼亞.md "wikilink")[希馬拉的職業足球會](../Page/希馬拉.md "wikilink")，目前於[阿爾巴尼亞甲組足球聯賽角逐](../Page/阿爾巴尼亞甲組足球聯賽.md "wikilink")。
+**KF希馬拉**是一支位於[阿爾巴尼亞](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")[希馬拉的職業足球會](https://zh.wikipedia.org/wiki/希馬拉 "wikilink")，目前於[阿爾巴尼亞甲組足球聯賽角逐](../Page/阿爾巴尼亞甲組足球聯賽.md "wikilink")。
 
 ## 陣容
 

@@ -1,12 +1,16 @@
-***Brevioleria***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](../Page/屬_\(生物\).md "wikilink")，尚無正式中文學名命名。物種分佈於南美。
+***Brevioleria***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，尚無正式中文學名命名。物種分佈於南美。
 
 ## 物種
 
-  - *[Brevioleria aelia](../Page/Brevioleria_aelia.md "wikilink")*
+  - *[Brevioleria
+    aelia](https://zh.wikipedia.org/wiki/Brevioleria_aelia "wikilink")*
       - 奧羅亮綃蝶 *B. a. orolina* = 瘤亮綃蝶 *H. oncidia*
-  - *[Brevioleria arzalia](../Page/Brevioleria_arzalia.md "wikilink")*
-  - [普通亮綃蝶](../Page/普通亮綃蝶.md "wikilink") *Brevioleria coenina*
-  - [曬瑩綃蝶](../Page/曬瑩綃蝶.md "wikilink") *Brevioleria seba*
+  - *[Brevioleria
+    arzalia](https://zh.wikipedia.org/wiki/Brevioleria_arzalia "wikilink")*
+  - [普通亮綃蝶](https://zh.wikipedia.org/wiki/普通亮綃蝶 "wikilink") *Brevioleria
+    coenina*
+  - [曬瑩綃蝶](https://zh.wikipedia.org/wiki/曬瑩綃蝶 "wikilink") *Brevioleria
+    seba*
   - *Brevioleria \[n. sp.\]*
 
 ## 參考文獻

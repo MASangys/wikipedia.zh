@@ -2,14 +2,14 @@
 2000及之后版本中的NTFS](../Page/Windows_2000.md "wikilink")
 v3.0及以上版本中可用。重解析点提供一种扩展NTFS文件系统的方法。一个重解析点包含一个重解析标签和数据，文件系统过滤器（file
 system
-filter）可以按标签解读它。微软提供了几个默认标签，包括[NTFS符号链接](../Page/NTFS符号链接.md "wikilink")、和[NTFS卷挂载点](../Page/NTFS卷挂载点.md "wikilink")。另外，重解析点在Windows
+filter）可以按标签解读它。微软提供了几个默认标签，包括[NTFS符号链接](../Page/NTFS符号链接.md "wikilink")、和[NTFS卷挂载点](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")。另外，重解析点在Windows
 2000的中作为已移动文件的占位符。它还可以作为硬链接，并且不限于同分卷的文件：可以指向任何本地分卷中的目录。\[2\]
 
 ## 设计
 
 一般情况：
 
-  - 硬链接：链接到一个文件（[MFT记录](../Page/MFT.md "wikilink")）。数据会保持可用，只要有至少一个指向它的链接存在。
+  - 硬链接：链接到一个文件（[MFT记录](https://zh.wikipedia.org/wiki/MFT "wikilink")）。数据会保持可用，只要有至少一个指向它的链接存在。
   - 软链接：链接到文件名（文件路径）。
 
 ### 软链接
@@ -28,15 +28,15 @@ Vista及更高版本的Windows操作系统。
     (Windows 2000/XP/2003)。 `del my_junction`
     命令不应该使用，因为它会删除目标目录中的所有文件。在Windows
     Vista及更高版本中，使用junction删除是安全的。
-  - [卷装载点](../Page/NTFS卷挂载点.md "wikilink")（Volume Mount
-    Points）：卷装载点和前2者类似，只是更进一层：它能创建对整个卷的链接。
+  - [卷装载点](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")（Volume
+    Mount Points）：卷装载点和前2者类似，只是更进一层：它能创建对整个卷的链接。
   - 远程存储服务器（Microsoft Remote Storage Server）：Windows
     2000的这个特性能利用一些规则来移除NTFS卷上不常用的文件，放到存档介质里（比如CD-RW或磁带）。当它把文件移出到“线下”或“半线下”的存储介质上时，RSS自动创建指向这个存档文件的重解析点，以备日后使用。
 
 ### 硬链接
 
   - NTFS ：从[Windows NT
-    4开始](../Page/Windows_NT_4.md "wikilink")：同一驱动器上的文件，有多个路径指向它。从Windows
+    4开始](https://zh.wikipedia.org/wiki/Windows_NT_4 "wikilink")：同一驱动器上的文件，有多个路径指向它。从Windows
     2000开始，Windows API包括一个 `CreateHardLink()` 函数来创建硬链接，并且 DeleteFile()
     可以移除它们。所有Windows NT版本都可以使用 `GetFileInformationByHandle()`
     来确定一个文件已关联的硬链接数量。硬链接需要NTFS分区。运行在Windows上的类Unix仿真或软件[兼容层](../Page/兼容层.md "wikilink")（如[Cygwin和基于UNIX应用程序的子系统](../Page/Cygwin.md "wikilink")）允许在Windows上使用POSIX接口。大多数现代操作系统不允许硬链接目录以避免无限递归目录；而且，硬链接目录可能导致父目录的条目不一致；通常使用符号链接和达到此目的。硬链接只能对同一文件系统上的文件创建。如果需要创建到另一文件系统的链接，应该使用符号链接。硬链接可以使用`mklink
@@ -48,7 +48,7 @@ Vista及更高版本的Windows操作系统。
 
 ### 卷挂载点
 
-[NTFS卷挂载点类似](../Page/NTFS卷挂载点.md "wikilink")[Unix挂载点](../Page/UNIX.md "wikilink")，将另一个文件系统的根附加到一个目录。在NTFS中，这允许额外的文件系统不逐一占用驱动器号（如
+[NTFS卷挂载点类似](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")[Unix挂载点](../Page/UNIX.md "wikilink")，将另一个文件系统的根附加到一个目录。在NTFS中，这允许额外的文件系统不逐一占用驱动器号（如
 `C:`、`D:`）并挂载。
 
 如果一个卷被挂在到另一个卷的现有目录上，该目录以前列出的内容将被隐藏，已挂载卷的根目录将取代它。已挂载卷仍然有自己单独分配的驱动器号。文件系统不允许卷被手动互相挂载。卷挂载点可以持久或非持久存在，两者区别是系统重启后是否会自动重新挂载。
@@ -91,7 +91,7 @@ v3分卷时，对象ID也将被复制。因此跟踪服务最终能找到目标�
 
 ### 单实例存储（SIS）
 
-当多个目录有不同但类似的文件时，这些文件可能有着相同的内容。单实例存储允许相同的文件被合并为一个文件，并创建一个到合并后文件的引用。SIS包括：一个文件系统筛选器，它管理复制、修改和合并文件；一个用户空间服务（或称*groveler*），它搜索相同并需要合并的文件。SIS的主要设计目的是远程安装的服务器，其存在的多个安装镜像可能包含许多相同的文件，SISK可以合并这些。不同于硬链接，每个文件仍然是不同的；对一个副本的更改不会改变其他的副本。这类似于[写时复制](../Page/寫入時複製.md "wikilink")，但那个技术是内存复制并未真正完成，直至副本被修改。\[7\]
+当多个目录有不同但类似的文件时，这些文件可能有着相同的内容。单实例存储允许相同的文件被合并为一个文件，并创建一个到合并后文件的引用。SIS包括：一个文件系统筛选器，它管理复制、修改和合并文件；一个用户空间服务（或称*groveler*），它搜索相同并需要合并的文件。SIS的主要设计目的是远程安装的服务器，其存在的多个安装镜像可能包含许多相同的文件，SISK可以合并这些。不同于硬链接，每个文件仍然是不同的；对一个副本的更改不会改变其他的副本。这类似于[写时复制](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")，但那个技术是内存复制并未真正完成，直至副本被修改。\[7\]
 
 ### 分层存储管理（HSM）
 
@@ -147,8 +147,9 @@ CreateFile函数带着FILE_FLAG_OPEN_REPARSE_POINT，可以打开一个重解析
 ## 参见
 
   - [NTFS符号链接](../Page/NTFS符号链接.md "wikilink")
-  - [NTFS junction点](../Page/NTFS_junction点.md "wikilink")
-  - [NTFS卷挂载点](../Page/NTFS卷挂载点.md "wikilink")
+  - [NTFS
+    junction点](https://zh.wikipedia.org/wiki/NTFS_junction点 "wikilink")
+  - [NTFS卷挂载点](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")
   - [符号链接](../Page/符号链接.md "wikilink")
 
 ## 参考资料

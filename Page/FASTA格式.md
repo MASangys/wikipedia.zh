@@ -1,4 +1,4 @@
-在[生物信息学中](../Page/生物信息学.md "wikilink")，**FASTA格式**是一种用于记录[核酸序列或](../Page/核酸序列.md "wikilink")[肽序列的文本](../Page/肽序列.md "wikilink")[格式](../Page/檔案格式.md "wikilink")，其中的核酸或[氨基酸均以单个字母编码呈现](../Page/氨基酸.md "wikilink")。该格式同时还允许在序列之前定义名称和编写注释。这一格式最初由软件包定义，但现今已是[生物信息学领域的一项标准](../Page/生物信息学.md "wikilink")。
+在[生物信息学中](../Page/生物信息学.md "wikilink")，**FASTA格式**是一种用于记录[核酸序列或](../Page/核酸序列.md "wikilink")[肽序列的文本](https://zh.wikipedia.org/wiki/肽序列 "wikilink")[格式](../Page/檔案格式.md "wikilink")，其中的核酸或[氨基酸均以单个字母编码呈现](../Page/氨基酸.md "wikilink")。该格式同时还允许在序列之前定义名称和编写注释。这一格式最初由软件包定义，但现今已是[生物信息学领域的一项标准](../Page/生物信息学.md "wikilink")。
 
 FASTA简明的格式降低了序列操纵和分析的难度，令序列可被文本处理工具和诸如[Python](../Page/Python.md "wikilink")、[Ruby和](../Page/Ruby.md "wikilink")[Perl等](../Page/Perl.md "wikilink")[脚本语言处理](../Page/脚本语言.md "wikilink")。
 
@@ -16,7 +16,7 @@ IRRRLQLNPTQAFFLLVNQHSMVSVSTPIADIYEQEKDEDGFLYMVYASQETFGFIRENE
 
 ## 历史
 
-原版FASTA/Pearson格式定义出现在[FASTA程序包的文档中](../Page/FASTA.md "wikilink")。可随FASTA的任一免费版本下载（见fasta20.doc、fastaVN.doc或fastaVN.me，其中VN代表版本号）。
+原版FASTA/Pearson格式定义出现在[FASTA程序包的文档中](https://zh.wikipedia.org/wiki/FASTA "wikilink")。可随FASTA的任一免费版本下载（见fasta20.doc、fastaVN.doc或fastaVN.me，其中VN代表版本号）。
 
 FASTA格式中的一条序列由多行文本组成，每一行的字符数均不能超过120字符，通常不推荐超过80字符。这一限制可能与软件为单行显示预分配固定大小内存有关：当时大部分的用户都使用DEC
 VT（或其兼容）终端，而这一终端单行支持显示的字符数上限在80到132个之间。大部分人会将他们的终端配置为字号较大的80字符模式，因此在FASTA中每行只包含80字符或更少（通常为70字符）成为了推荐的做法。此外，标准打印页的一行宽度也在70到80字符之间（取决于字体）。
@@ -96,7 +96,7 @@ ATIGENLVVRRFATLKAGANGVVNGYIHTNGRVGVVIAAACDSAEVASKSRDLLRQICMH
 <tr class="odd">
 <td><p>G</p></td>
 <td><p>G</p></td>
-<td><p><a href="../Page/鸟嘌呤.md" title="wikilink">鸟嘌呤</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鸟嘌呤" title="wikilink">鸟嘌呤</a>（）</p></td>
 </tr>
 <tr class="even">
 <td><p>T</p></td>
@@ -126,7 +126,7 @@ ATIGENLVVRRFATLKAGANGVVNGYIHTNGRVGVVIAAACDSAEVASKSRDLLRQICMH
 <tr class="odd">
 <td><p>M</p></td>
 <td><p>A、C</p></td>
-<td><p><a href="../Page/氨基.md" title="wikilink">氨基</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/氨基" title="wikilink">氨基</a>（）</p></td>
 </tr>
 <tr class="even">
 <td><p>S</p></td>
@@ -173,36 +173,36 @@ ATIGENLVVRRFATLKAGANGVVNGYIHTNGRVGVVIAAACDSAEVASKSRDLLRQICMH
 
 支持的蛋白质序列编码（25条氨基酸和3条特殊编码）如下：
 
-| 氨基酸编码 | 含义                                                                            |
-| ----- | ----------------------------------------------------------------------------- |
-| A     | [丙氨酸](../Page/丙氨酸.md "wikilink")（）                                            |
-| B     | [天冬氨酸](../Page/天冬氨酸.md "wikilink")（，D）或[天冬酰胺](../Page/天冬酰胺.md "wikilink")（，N） |
-| C     | [半胱氨酸](../Page/半胱氨酸.md "wikilink")（）                                          |
-| D     | [天冬氨酸](../Page/天冬氨酸.md "wikilink")（）                                          |
-| E     | [谷氨酸](../Page/穀氨酸.md "wikilink")（）                                            |
-| F     | [苯丙氨酸](../Page/苯丙氨酸.md "wikilink")（）                                          |
-| G     | [甘氨酸](../Page/甘氨酸.md "wikilink")（）                                            |
-| H     | [组氨酸](../Page/組氨酸.md "wikilink")（）                                            |
-| I     | [异亮氨酸](../Page/異亮氨酸.md "wikilink")（）                                          |
-| J     | [亮氨酸](../Page/亮氨酸.md "wikilink")（，L）或[异亮氨酸](../Page/異亮氨酸.md "wikilink")（，I）   |
-| K     | [赖氨酸](../Page/離胺酸.md "wikilink")（）                                            |
-| L     | [亮氨酸](../Page/亮氨酸.md "wikilink")（）                                            |
-| M     | [甲硫氨酸](../Page/甲硫氨酸.md "wikilink")（）                                          |
-| N     | [天冬酰胺](../Page/天冬酰胺.md "wikilink")（）                                          |
-| O     | [吡咯赖氨酸](../Page/吡咯赖氨酸.md "wikilink")（）                                        |
-| P     | [脯氨酸](../Page/脯氨酸.md "wikilink")（）                                            |
-| Q     | [谷氨酰胺](../Page/穀氨醯胺.md "wikilink")（）                                          |
-| R     | [精氨酸](../Page/精氨酸.md "wikilink")（）                                            |
-| S     | [丝氨酸](../Page/絲氨酸.md "wikilink")（）                                            |
-| T     | [苏氨酸](../Page/蘇氨酸.md "wikilink")（）                                            |
-| U     | [硒半胱氨酸](../Page/硒半胱氨酸.md "wikilink")（）                                        |
-| V     | [缬氨酸](../Page/缬氨酸.md "wikilink")（）                                            |
-| W     | [色氨酸](../Page/色氨酸.md "wikilink")（）                                            |
-| Y     | [酪氨酸](../Page/酪氨酸.md "wikilink")（）                                            |
-| Z     | [谷氨酸](../Page/穀氨酸.md "wikilink")（，E）或[谷氨酰胺](../Page/穀氨醯胺.md "wikilink")（，Q）   |
-| X     | 任意                                                                            |
-| \*    | 翻译终止                                                                          |
-| \-    | 不定长度空白占位符                                                                     |
+| 氨基酸编码 | 含义                                                                                                                |
+| ----- | ----------------------------------------------------------------------------------------------------------------- |
+| A     | [丙氨酸](../Page/丙氨酸.md "wikilink")（）                                                                                |
+| B     | [天冬氨酸](../Page/天冬氨酸.md "wikilink")（，D）或[天冬酰胺](../Page/天冬酰胺.md "wikilink")（，N）                                     |
+| C     | [半胱氨酸](../Page/半胱氨酸.md "wikilink")（）                                                                              |
+| D     | [天冬氨酸](../Page/天冬氨酸.md "wikilink")（）                                                                              |
+| E     | [谷氨酸](https://zh.wikipedia.org/wiki/穀氨酸 "wikilink")（）                                                             |
+| F     | [苯丙氨酸](../Page/苯丙氨酸.md "wikilink")（）                                                                              |
+| G     | [甘氨酸](../Page/甘氨酸.md "wikilink")（）                                                                                |
+| H     | [组氨酸](../Page/組氨酸.md "wikilink")（）                                                                                |
+| I     | [异亮氨酸](../Page/異亮氨酸.md "wikilink")（）                                                                              |
+| J     | [亮氨酸](../Page/亮氨酸.md "wikilink")（，L）或[异亮氨酸](../Page/異亮氨酸.md "wikilink")（，I）                                       |
+| K     | [赖氨酸](../Page/離胺酸.md "wikilink")（）                                                                                |
+| L     | [亮氨酸](../Page/亮氨酸.md "wikilink")（）                                                                                |
+| M     | [甲硫氨酸](../Page/甲硫氨酸.md "wikilink")（）                                                                              |
+| N     | [天冬酰胺](../Page/天冬酰胺.md "wikilink")（）                                                                              |
+| O     | [吡咯赖氨酸](../Page/吡咯赖氨酸.md "wikilink")（）                                                                            |
+| P     | [脯氨酸](../Page/脯氨酸.md "wikilink")（）                                                                                |
+| Q     | [谷氨酰胺](https://zh.wikipedia.org/wiki/穀氨醯胺 "wikilink")（）                                                           |
+| R     | [精氨酸](../Page/精氨酸.md "wikilink")（）                                                                                |
+| S     | [丝氨酸](../Page/絲氨酸.md "wikilink")（）                                                                                |
+| T     | [苏氨酸](../Page/蘇氨酸.md "wikilink")（）                                                                                |
+| U     | [硒半胱氨酸](../Page/硒半胱氨酸.md "wikilink")（）                                                                            |
+| V     | [缬氨酸](../Page/缬氨酸.md "wikilink")（）                                                                                |
+| W     | [色氨酸](../Page/色氨酸.md "wikilink")（）                                                                                |
+| Y     | [酪氨酸](../Page/酪氨酸.md "wikilink")（）                                                                                |
+| Z     | [谷氨酸](https://zh.wikipedia.org/wiki/穀氨酸 "wikilink")（，E）或[谷氨酰胺](https://zh.wikipedia.org/wiki/穀氨醯胺 "wikilink")（，Q） |
+| X     | 任意                                                                                                                |
+| \*    | 翻译终止                                                                                                              |
+| \-    | 不定长度空白占位符                                                                                                         |
 
 ## 序列标识符
 
@@ -246,7 +246,7 @@ FASTA文件的压缩需要特制的压缩工具来处理文件里所包含的两
 
 ## 参见
 
-  - [FASTA搜索](../Page/FASTA.md "wikilink")
+  - [FASTA搜索](https://zh.wikipedia.org/wiki/FASTA "wikilink")
 
   - [FASTQ格式](../Page/FASTQ格式.md "wikilink")
 

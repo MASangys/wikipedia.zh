@@ -1,4 +1,4 @@
-[Facebook是一家](../Page/Facebook.md "wikilink")[社群網路公司](../Page/社群網路服務.md "wikilink")，收購了包括[WhatsApp在內的](../Page/WhatsApp.md "wikilink")50多家公司。WhatsApp以驚人的190億美元被收購；平台每位使用者估值超過40美元。Facebook還在[庭外和解中收購了已停業的ConnectU公司](../Page/庭外和解.md "wikilink")，並獲得了競爭對手[Friendster以前持有的專利](../Page/Friendster.md "wikilink")。Facebook收購的大部分公司都設在美國，而這些公司中的大部分都位於[舊金山灣區或其周圍](../Page/舊金山灣區.md "wikilink")。
+[Facebook是一家](../Page/Facebook.md "wikilink")[社群網路公司](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，收購了包括[WhatsApp在內的](../Page/WhatsApp.md "wikilink")50多家公司。WhatsApp以驚人的190億美元被收購；平台每位使用者估值超過40美元。Facebook還在[庭外和解中收購了已停業的ConnectU公司](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")，並獲得了競爭對手[Friendster以前持有的專利](../Page/Friendster.md "wikilink")。Facebook收購的大部分公司都設在美國，而這些公司中的大部分都位於[舊金山灣區或其周圍](../Page/舊金山灣區.md "wikilink")。
 
 ## 收購案
 
@@ -31,7 +31,7 @@
 <td><p>2</p></td>
 <td></td>
 <td><p><a href="../Page/Parakey.md" title="wikilink">Parakey</a></p></td>
-<td><p><a href="../Page/應用程式.md" title="wikilink">離線應用程式</a>／網路作業系統</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/應用程式" title="wikilink">離線應用程式</a>／網路作業系統</p></td>
 <td></td>
 <td></td>
 <td><p>Facebook Mobile</p></td>
@@ -41,7 +41,7 @@
 <td><p>3</p></td>
 <td></td>
 <td><p>ConnectU</p></td>
-<td><p><a href="../Page/社群網路服務.md" title="wikilink">社群網路服務</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/社群網路服務" title="wikilink">社群網路服務</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,7 +81,7 @@
 <td><p>7</p></td>
 <td></td>
 <td><p><a href="../Page/Friendster.md" title="wikilink">Friendster專利</a></p></td>
-<td><p><a href="../Page/智慧財產權.md" title="wikilink">智慧財產權</a>／<a href="../Page/專利.md" title="wikilink">專利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/智慧財產權" title="wikilink">智慧財產權</a>／<a href="https://zh.wikipedia.org/wiki/專利" title="wikilink">專利</a></p></td>
 <td><p><br />
 </p></td>
 <td></td>
@@ -92,7 +92,7 @@
 <td><p>8</p></td>
 <td></td>
 <td><p>ShareGrove</p></td>
-<td><p><a href="../Page/網路論壇.md" title="wikilink">網路論壇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路論壇" title="wikilink">網路論壇</a></p></td>
 <td></td>
 <td></td>
 <td><p>Facebook Groups</p></td>
@@ -102,7 +102,7 @@
 <td><p>9</p></td>
 <td></td>
 <td><p>Nextstop</p></td>
-<td><p><a href="../Page/旅遊指南.md" title="wikilink">旅遊指南</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/旅遊指南" title="wikilink">旅遊指南</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -112,7 +112,7 @@
 <td><p>10</p></td>
 <td></td>
 <td><p>Chai Labs</p></td>
-<td><p><a href="../Page/軟體即服務.md" title="wikilink">網路應用程式</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/軟體即服務" title="wikilink">網路應用程式</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -122,7 +122,7 @@
 <td><p>11</p></td>
 <td></td>
 <td><p>Hot Potato</p></td>
-<td><p><a href="../Page/微網誌.md" title="wikilink">微網誌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/微網誌" title="wikilink">微網誌</a></p></td>
 <td></td>
 <td></td>
 <td><p>Facebook Places</p></td>
@@ -132,7 +132,7 @@
 <td><p>12</p></td>
 <td></td>
 <td><p>Drop.io</p></td>
-<td><p><a href="../Page/網路硬碟.md" title="wikilink">網路硬碟和</a><a href="../Page/檔案分享.md" title="wikilink">檔案分享</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路硬碟" title="wikilink">網路硬碟和</a><a href="../Page/檔案分享.md" title="wikilink">檔案分享</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -192,8 +192,8 @@
 <td><p>18</p></td>
 <td></td>
 <td><p>DayTum</p></td>
-<td><p><a href="../Page/資訊圖表.md" title="wikilink">資訊圖表</a></p></td>
-<td><p><a href="../Page/紐約.md" title="wikilink">紐約</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/資訊圖表" title="wikilink">資訊圖表</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
 <td></td>
 <td></td>
 <td><p>[20]</p></td>
@@ -202,7 +202,7 @@
 <td><p>19</p></td>
 <td></td>
 <td><p>Sofa</p></td>
-<td><p><a href="../Page/軟體設計.md" title="wikilink">軟體設計</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/軟體設計" title="wikilink">軟體設計</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -272,7 +272,7 @@
 <td><p>26</p></td>
 <td></td>
 <td><p>Tagtile</p></td>
-<td><p><a href="../Page/忠誠度管理.md" title="wikilink">忠誠度管理應用程式</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/忠誠度管理" title="wikilink">忠誠度管理應用程式</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -471,8 +471,8 @@
 <tr class="even">
 <td><p>46</p></td>
 <td></td>
-<td><p><a href="../Page/Oculus_VR.md" title="wikilink">Oculus VR</a></p></td>
-<td><p><a href="../Page/虛擬實境.md" title="wikilink">虛擬實境技術</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oculus_VR" title="wikilink">Oculus VR</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虛擬實境" title="wikilink">虛擬實境技術</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -482,7 +482,7 @@
 <td><p>47</p></td>
 <td></td>
 <td><p>Ascenta</p></td>
-<td><p><a href="../Page/無人飛行載具.md" title="wikilink">無人飛行載具</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無人飛行載具" title="wikilink">無人飛行載具</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -532,7 +532,7 @@
 <td><p>52</p></td>
 <td></td>
 <td><p>Wit.ai</p></td>
-<td><p><a href="../Page/語音識別.md" title="wikilink">語音識別</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/語音識別" title="wikilink">語音識別</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -552,7 +552,7 @@
 <td><p>54</p></td>
 <td></td>
 <td><p>TheFind</p></td>
-<td><p><a href="../Page/電子商務.md" title="wikilink">電子商務</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電子商務" title="wikilink">電子商務</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -562,7 +562,7 @@
 <td><p>55</p></td>
 <td></td>
 <td><p>Surreal Vision</p></td>
-<td><p><a href="../Page/電腦視覺.md" title="wikilink">電腦視覺</a>、<a href="../Page/擴增實境.md" title="wikilink">擴增實境</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電腦視覺" title="wikilink">電腦視覺</a>、<a href="../Page/擴增實境.md" title="wikilink">擴增實境</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -572,7 +572,7 @@
 <td><p>56</p></td>
 <td></td>
 <td><p>Pebbles</p></td>
-<td><p><a href="../Page/電腦視覺.md" title="wikilink">電腦視覺</a>、<a href="../Page/擴增實境.md" title="wikilink">擴增實境</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電腦視覺" title="wikilink">電腦視覺</a>、<a href="../Page/擴增實境.md" title="wikilink">擴增實境</a></p></td>
 <td></td>
 <td></td>
 <td></td>

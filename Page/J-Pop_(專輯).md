@@ -1,20 +1,20 @@
-《**J-POP**》是香港女歌手[容祖兒的第三十五張個人唱片](../Page/容祖兒.md "wikilink")，實體版於2016年6月23日推出，數碼版則於同年6月16日率先在網上平台發表，即日登上
+《**J-POP**》是香港女歌手[容祖兒的第三十五張個人唱片](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，實體版於2016年6月23日推出，數碼版則於同年6月16日率先在網上平台發表，即日登上
 iTunes 專輯榜第一位。
 
 容祖兒憑此專輯首次獲得**「叱咤樂壇至尊唱片大獎」**\[1\]。
 
 ## 專輯介紹
 
-自2013年推出粵語大碟《[小日子](../Page/小日子.md "wikilink")》及兩張新曲加精選《[Hopelessly
+自2013年推出粵語大碟《[小日子](https://zh.wikipedia.org/wiki/小日子 "wikilink")》及兩張新曲加精選《[Hopelessly
 Romantic Collection
-慢歌精選](../Page/Hopelessly_Romantic_Collection_慢歌精選.md "wikilink")》和《[All
+慢歌精選](https://zh.wikipedia.org/wiki/Hopelessly_Romantic_Collection_慢歌精選 "wikilink")》和《[All
 Delicious Collection
-快歌精選](../Page/All_Delicious_Collection_快歌精選.md "wikilink")》後，容祖兒只推出了一張粵語EP《[me,
-re-do](../Page/me,_re-do.md "wikilink")》及一張國語新曲加精選《[一百個我](../Page/一百個我.md "wikilink")》。《J-POP》為容祖兒事隔三年首張粵語大碟，首支主打《[黃昏點唱機](../Page/黃昏點唱機.md "wikilink")》在2015年派台，並得到[2015年度叱咤樂壇流行榜頒獎典禮專業推介](../Page/2015年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")·叱咤十大第八位。
+快歌精選](https://zh.wikipedia.org/wiki/All_Delicious_Collection_快歌精選 "wikilink")》後，容祖兒只推出了一張粵語EP《[me,
+re-do](https://zh.wikipedia.org/wiki/me,_re-do "wikilink")》及一張國語新曲加精選《[一百個我](https://zh.wikipedia.org/wiki/一百個我 "wikilink")》。《J-POP》為容祖兒事隔三年首張粵語大碟，首支主打《[黃昏點唱機](../Page/黃昏點唱機.md "wikilink")》在2015年派台，並得到[2015年度叱咤樂壇流行榜頒獎典禮專業推介](../Page/2015年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")·叱咤十大第八位。
 
-專輯名稱「J-POP」意思是容祖兒（Joey）的[流行音樂](../Page/流行音樂.md "wikilink")（Pop）\[2\]。專輯以快歌為主，比以往的專輯少了慢歌，希望能帶出容祖兒的個性，並為聽眾帶來輕鬆感覺\[3\]。容祖兒繼《小日子》再次交由[馮翰銘擔任專輯監製](../Page/馮翰銘.md "wikilink")，並加入四段純音樂，以圓滿呈現概念\[4\]。
+專輯名稱「J-POP」意思是容祖兒（Joey）的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")（Pop）\[2\]。專輯以快歌為主，比以往的專輯少了慢歌，希望能帶出容祖兒的個性，並為聽眾帶來輕鬆感覺\[3\]。容祖兒繼《小日子》再次交由[馮翰銘擔任專輯監製](../Page/馮翰銘.md "wikilink")，並加入四段純音樂，以圓滿呈現概念\[4\]。
 
-專輯封面由[朱祖兒設計](../Page/朱祖兒.md "wikilink")，內附有容祖兒公仔貼紙，營造到處遊歷的效果\[5\]\[6\]。
+專輯封面由[朱祖兒設計](https://zh.wikipedia.org/wiki/朱祖兒 "wikilink")，內附有容祖兒公仔貼紙，營造到處遊歷的效果\[5\]\[6\]。
 
 ## 曲目
 
@@ -47,13 +47,13 @@ re-do](../Page/me,_re-do.md "wikilink")》及一張國語新曲加精選《[一�
 
 ### 2016年
 
-  - [2016年度叱咤樂壇流行榜頒獎典禮](../Page/2016年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")——專業推介·叱咤十大
+  - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")——專業推介·叱咤十大
     第八位《無人知道雙子座》
-  - [2016年度叱咤樂壇流行榜頒獎典禮](../Page/2016年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")——叱咤樂壇至尊唱片大獎《J-POP》
-  - [第39屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink")——十大中文金曲《無人知道雙子座》
-  - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink")——勁歌金曲獎《無人知道雙子座》
-  - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink")——勁歌金曲獎《我好得閒》
-  - [IFPI香港唱片銷量大獎頒獎禮2016](../Page/IFPI香港唱片銷量大獎頒獎禮2016.md "wikilink")——十大銷量廣東唱片\[12\]
+  - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")——叱咤樂壇至尊唱片大獎《J-POP》
+  - [第39屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十九屆十大中文金曲得獎名單 "wikilink")——十大中文金曲《無人知道雙子座》
+  - [2016年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2016年度勁歌金曲得獎名單 "wikilink")——勁歌金曲獎《無人知道雙子座》
+  - [2016年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2016年度勁歌金曲得獎名單 "wikilink")——勁歌金曲獎《我好得閒》
+  - [IFPI香港唱片銷量大獎頒獎禮2016](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2016 "wikilink")——十大銷量廣東唱片\[12\]
 
 ## 參考資料
 

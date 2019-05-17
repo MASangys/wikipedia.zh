@@ -1,4 +1,4 @@
-《**colors**》是[韓國搖滾樂團](../Page/韓國.md "wikilink")[CNBLUE的第六張日語](../Page/CNBLUE.md "wikilink")[專輯](../Page/專輯.md "wikilink")，第四張正規日語專輯，在2015年9月30日以四個版本：通常盤、初回限定盤A、初回限定盤B及Boice盤推出\[1\]。打入Oricon單曲週榜前五名的單曲《WHITE》在專輯推出前預先發行。
+《**colors**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第六張日語](../Page/CNBLUE.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，第四張正規日語專輯，在2015年9月30日以四個版本：通常盤、初回限定盤A、初回限定盤B及Boice盤推出\[1\]。打入Oricon單曲週榜前五名的單曲《WHITE》在專輯推出前預先發行。
 
 ## 曲目
 

@@ -1,12 +1,12 @@
 **Samsung Galaxy
-J7**是由[三星電子製造的一款](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](../Page/智慧型手機.md "wikilink")，在2015年發佈\[1\]\[2\]\[3\]。
+J7**是由[三星電子製造的一款](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，在2015年發佈\[1\]\[2\]\[3\]。
 
 ## 技術規格
 
   - 後置攝像頭：1300萬像素
   - 前置攝像頭：500萬像素
-  - 內存：1.5[GB](../Page/GB.md "wikilink")
-    [RAM](../Page/RAM.md "wikilink")
+  - 內存：1.5[GB](https://zh.wikipedia.org/wiki/GB "wikilink")
+    [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")
   - 存儲：16 GB
   - 電池：3000 mAh
   - 尺寸：5.5寸

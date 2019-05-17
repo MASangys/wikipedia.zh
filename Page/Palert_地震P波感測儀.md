@@ -1,5 +1,5 @@
 **Palert
-地震P波感測儀**是[三聯科技股份有限公司開發的地震警報器](../Page/三聯科技.md "wikilink")，此警報器藉由偵測[地震的](../Page/地震.md "wikilink")[P波來判斷振動程度](../Page/P波.md "wikilink")，並在[S波到達前發出警報](../Page/S波.md "wikilink")，以達到[地震預警的效果](../Page/地震預警.md "wikilink")。\[1\]
+地震P波感測儀**是[三聯科技股份有限公司開發的地震警報器](../Page/三聯科技.md "wikilink")，此警報器藉由偵測[地震的](../Page/地震.md "wikilink")[P波來判斷振動程度](../Page/P波.md "wikilink")，並在[S波到達前發出警報](../Page/S波.md "wikilink")，以達到[地震預警的效果](https://zh.wikipedia.org/wiki/地震預警 "wikilink")。\[1\]
 
 ## 原理
 
@@ -8,7 +8,7 @@ Palert
 
 ## 歷史
 
-在[921地震後](../Page/921地震.md "wikilink")，三聯科技公司開始地震預警系統的研發與測試，\[4\]2008年三聯科技公司開始與[國立臺灣大學地質科學系教授吳逸民合作研發Palert](../Page/國立臺灣大學.md "wikilink")
+在[921地震後](https://zh.wikipedia.org/wiki/921地震 "wikilink")，三聯科技公司開始地震預警系統的研發與測試，\[4\]2008年三聯科技公司開始與[國立臺灣大學地質科學系教授吳逸民合作研發Palert](../Page/國立臺灣大學.md "wikilink")
 地震P波感測儀，在2010年投入量產與設置，\[5\]截至2015年12月，臺灣已設置581個測站。\[6\]
 
 ## 成效

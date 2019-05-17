@@ -1,17 +1,17 @@
-《**No.5**》是韓國男子偶像團體[2PM第](../Page/2PM.md "wikilink")5張正規韓語專輯（連同日語專輯計算則為第9張），在2015年6月15日以實體專輯與數位下載共同發行\[1\]。
+《**No.5**》是韓國男子偶像團體[2PM第](https://zh.wikipedia.org/wiki/2PM "wikilink")5張正規韓語專輯（連同日語專輯計算則為第9張），在2015年6月15日以實體專輯與數位下載共同發行\[1\]。
 
 ## 背景
 
-2015年5月6日，[JYP娛樂透露](../Page/JYP娛樂.md "wikilink")2PM即將推出新專輯\[2\]，並於5月8日在2PM官方[Facebook公布新專輯在](../Page/Facebook.md "wikilink")6月1日發行；6月27日－28日在[首爾奧林匹克體操競技場舉行演唱會](../Page/首爾奧林匹克體操競技場.md "wikilink")\[3\]。
+2015年5月6日，[JYP娛樂透露](../Page/JYP娛樂.md "wikilink")2PM即將推出新專輯\[2\]，並於5月8日在2PM官方[Facebook公布新專輯在](../Page/Facebook.md "wikilink")6月1日發行；6月27日－28日在[首爾奧林匹克體操競技場舉行演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")\[3\]。
 
 5月11日，JYP娛樂發表公告，指為2PM拍攝新專輯[音樂錄影帶的導演韓師旼](../Page/音樂錄影帶.md "wikilink")（音譯，）逕自宣布因為與其相關的藝人推出新歌曲而中止製作2PM音樂錄影帶（同時還有負責[GOT7歌曲音樂錄影帶的導演金智庸](../Page/GOT7.md "wikilink")（音譯，）也用同樣理由中止製作），決定控告其所屬公司Production
 DEXTERLAB，亦因此2PM新專輯需延期發行\[4\]。兩天後（5月13日），韓國傳媒報導JYP娛樂改與Naive Creative
 Production合作，為2PM拍攝新歌的音樂錄影帶，也會加快步伐處理新專輯事宜\[5\]。
 
-5月18日，成員[俊昊在為他主演的電影](../Page/李俊昊.md "wikilink")《[二十](../Page/二十_\(電影\).md "wikilink")》和[金宇彬在電台節目](../Page/金宇彬.md "wikilink")《》（）宣傳時，透露了2PM將改於6月中旬發表新作品，公司方面則指出確實時間尚未決定\[6\]。
+5月18日，成員[俊昊在為他主演的電影](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")《[二十](https://zh.wikipedia.org/wiki/二十_\(電影\) "wikilink")》和[金宇彬在電台節目](../Page/金宇彬.md "wikilink")《》（）宣傳時，透露了2PM將改於6月中旬發表新作品，公司方面則指出確實時間尚未決定\[6\]。
 
 到6月5日，JYP娛樂公開多張新專輯預告照片，公布了他們的回歸日期——6月15日及新專輯名稱——《No.5》\[7\]，主打歌曲是由[Jun.
-K創作的](../Page/Jun._K.md "wikilink")《我們家》（）\[8\]。
+K創作的](https://zh.wikipedia.org/wiki/Jun._K "wikilink")《我們家》（）\[8\]。
 
 6月10日，JYP娛樂公開完整專輯曲目名單\[9\]；而首支回歸預告片則於6月12日在其官方Youtube頻道上傳\[10\]。
 
@@ -35,7 +35,7 @@ K創作的](../Page/Jun._K.md "wikilink")《我們家》（）\[8\]。
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2015年6月14日－6月20日</p></td>
 <td><p>#7</p></td>
@@ -129,7 +129,7 @@ K創作的](../Page/Jun._K.md "wikilink")《我們家》（）\[8\]。
 <td><p>2015年6月15日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a>、CD</p></td>
 <td><p><a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a><br />
-<a href="../Page/KT_Music.md" title="wikilink">KT Music</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/KT_Music" title="wikilink">KT Music</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>

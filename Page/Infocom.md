@@ -11,7 +11,7 @@
 
   - [Infocom company
     profile](http://www.mobygames.com/company/infocom-inc/) from
-    [MobyGames](../Page/MobyGames.md "wikilink")
+    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
   - [*Milliways: Infocom's Unreleased Sequel to Hitchhiker's Guide to
     the
     Galaxy*](http://waxy.org/2008/04/milliways_infocoms_unreleased_sequel_to_hitchhikers_guide_to_the_galax/)
@@ -32,7 +32,7 @@
   - [*Down From the Top of Its Game: The Story of Infocom,
     Inc.*](http://web.mit.edu/6.933/www/Fall2000/infocom/infocom-paper.pdf)—A
     report from
-    [MIT](../Page/Massachusetts_Institute_of_Technology.md "wikilink")
+    [MIT](https://zh.wikipedia.org/wiki/Massachusetts_Institute_of_Technology "wikilink")
     which offers a very detailed examination of Infocom's creative
     successes and marketing failures.
 

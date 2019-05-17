@@ -1,16 +1,18 @@
-**NUU Mobile** 是一個[智能手機品牌](../Page/智能手機.md "wikilink")，由新基德科技（香港）有限公司製造。
+**NUU Mobile**
+是一個[智能手機品牌](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，由新基德科技（香港）有限公司製造。
 
 ## 歷史
 
-新基德科技（香港）有限公司成立於2010年，總部位於[香港](../Page/香港.md "wikilink")，是[新基德实业有限公司下屬的子公司](../Page/新基德实业有限公司.md "wikilink")，[新基德实业有限公司成立于](../Page/新基德实业有限公司.md "wikilink")1979年。\[1\]
+新基德科技（香港）有限公司成立於2010年，總部位於[香港](../Page/香港.md "wikilink")，是[新基德实业有限公司下屬的子公司](https://zh.wikipedia.org/wiki/新基德实业有限公司 "wikilink")，[新基德实业有限公司成立于](https://zh.wikipedia.org/wiki/新基德实业有限公司 "wikilink")1979年。\[1\]
 NUU Mobile于2012年起向全球發售，并于北美和南美迅速成長、發展、壯大。NUU Mobile致力於設計、生產、銷售高質素智能手機。
 
-2015年6月，NUU Mobile智能手機于美國[Target](../Page/Target.md "wikilink")、[Best
-Buy](../Page/Best_Buy.md "wikilink")、[Meijer以及](../Page/Meijer.md "wikilink")[亞馬遜等零售平台有售](../Page/亞馬遜公司.md "wikilink")。
+2015年6月，NUU
+Mobile智能手機于美國[Target](https://zh.wikipedia.org/wiki/Target "wikilink")、[Best
+Buy](https://zh.wikipedia.org/wiki/Best_Buy "wikilink")、[Meijer以及](https://zh.wikipedia.org/wiki/Meijer "wikilink")[亞馬遜等零售平台有售](../Page/亞馬遜公司.md "wikilink")。
 
 ## 手機型號
 
-  - [NUU NU1](../Page/NUU_NU1.md "wikilink")\[2\]
+  - [NUU NU1](https://zh.wikipedia.org/wiki/NUU_NU1 "wikilink")\[2\]
   - NUU NU2
   - NUU NU3
   - NUU NU2S

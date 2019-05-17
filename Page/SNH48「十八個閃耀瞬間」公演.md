@@ -1,14 +1,14 @@
-**SNH48「十八個閃耀瞬間」公演**是[SNH48於](../Page/SNH48.md "wikilink")2016年舉行的剧场公演，亦是SNH48的首個「紀念公演季」。\[1\]
+**SNH48「十八個閃耀瞬間」公演**是[SNH48於](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2016年舉行的剧场公演，亦是SNH48的首個「紀念公演季」。\[1\]
 
 ## 概要
 
-与之前SNH48所演出的完整翻唱[AKB48公演曲目的公演不同](../Page/AKB48.md "wikilink")，「十八個閃耀瞬間」公演作為各隊新公演推出之前的過渡公演，與AKB48的[「Waiting」公演和](../Page/AKB48「Waiting」公演.md "wikilink")[HKT48的](../Page/HKT48.md "wikilink")[“博多传奇”公演類似](../Page/Team_H“博多传奇”.md "wikilink")，亦作為SNH48出道三年以來的回顧。公演曲目是由各隊成员亲自选出的，有的是所屬隊伍的公演曲目，有的则是收錄在EP內的歌曲。每場公演演唱的歌曲有18首(不計算《overture》及不設安可曲)，比一般公演的16首歌曲多。
+与之前SNH48所演出的完整翻唱[AKB48公演曲目的公演不同](../Page/AKB48.md "wikilink")，「十八個閃耀瞬間」公演作為各隊新公演推出之前的過渡公演，與AKB48的[「Waiting」公演和](../Page/AKB48「Waiting」公演.md "wikilink")[HKT48的](../Page/HKT48.md "wikilink")[“博多传奇”公演類似](https://zh.wikipedia.org/wiki/Team_H“博多传奇” "wikilink")，亦作為SNH48出道三年以來的回顧。公演曲目是由各隊成员亲自选出的，有的是所屬隊伍的公演曲目，有的则是收錄在EP內的歌曲。每場公演演唱的歌曲有18首(不計算《overture》及不設安可曲)，比一般公演的16首歌曲多。
 
 ## SNH48 Team SII「十八個閃耀瞬間」公演
 
   - 公演期間：2016年2月26日－2016年5月14日\[2\]
   - 出演成员
-      - 初日演出：陳觀慧、陳思、[戴萌](../Page/戴萌.md "wikilink")、蔣芸、孔肖吟、刘力玮、李宇琪、[莫寒](../Page/莫寒.md "wikilink")、錢蓓婷、[孙芮](../Page/孙芮.md "wikilink")、申月姣、沈之琳、温晶婕、徐子軒、袁丹妮、袁雨楨、赵晔、[张语格](../Page/张语格.md "wikilink")
+      - 初日演出：陳觀慧、陳思、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、蔣芸、孔肖吟、刘力玮、李宇琪、[莫寒](https://zh.wikipedia.org/wiki/莫寒 "wikilink")、錢蓓婷、[孙芮](../Page/孙芮.md "wikilink")、申月姣、沈之琳、温晶婕、徐子軒、袁丹妮、袁雨楨、赵晔、[张语格](../Page/张语格.md "wikilink")
       - 代役演出：馮曉菲（Team X）、張韻雯（Team X）
   - 公演曲目：
 
@@ -39,8 +39,8 @@
   - 公演期間：2016年1月15日－2016年7月16日
   - 出演成员
       - 初日演出：陈佳莹、陈问言、陈雨琪（Team XII）、段艺璇（Team
-        XII）、[冯薪朵](../Page/冯薪朵.md "wikilink")、龚诗淇、何晓玉、罗兰、林思意、[李艺彤](../Page/李艺彤.md "wikilink")、孙歆文（Team
-        X）、孟玥、唐安琪、易嘉爱、[曾艷芬](../Page/曾艷芬.md "wikilink")
+        XII）、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、龚诗淇、何晓玉、罗兰、林思意、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、孙歆文（Team
+        X）、孟玥、唐安琪、易嘉爱、[曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink")
       - 代役演出：孫歆文（Team X）、王曉佳（Team X）、楊冰怡（Team X）、陈雨琪（Team XII）、段艺璇（Team
         XII）、劉增艷（Team XII）
   - 公演曲目：

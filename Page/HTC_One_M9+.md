@@ -1,12 +1,13 @@
 **HTC One
-M9+**是[台灣手機公司](../Page/台湾.md "wikilink")[宏達電](../Page/宏达电.md "wikilink")2015年所開發的新一代[智慧型手機](../Page/智慧型手机.md "wikilink")，属於[HTC
+M9+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2015年所開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，属於[HTC
 One
-系列中的高階旗艦機型](../Page/HTC_One_\(系列\).md "wikilink")，運行最新的[Android](../Page/Android.md "wikilink")[5.0
-Lollipop操作系统](../Page/Android_Lollipop.md "wikilink")，競爭對手為[Samsung
-Galaxy S6 edge+](../Page/Samsung_Galaxy_S6_edge+.md "wikilink")、[LG
-V10](../Page/LG_V10.md "wikilink")、[Sony Xperia Z5
+系列中的高階旗艦機型](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，運行最新的[Android](../Page/Android.md "wikilink")[5.0
+Lollipop操作系统](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")，競爭對手為[Samsung
+Galaxy S6
+edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6_edge+ "wikilink")、[LG
+V10](https://zh.wikipedia.org/wiki/LG_V10 "wikilink")、[Sony Xperia Z5
 Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")、[Apple iPhone 6s
-Plus](../Page/iPhone_6s.md "wikilink")。
+Plus](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")。
 
 ## 簡介
 
@@ -28,7 +29,7 @@ Plus](../Page/iPhone_6s.md "wikilink")。
 <!-- end list -->
 
   - 將雙鏡頭相機改為單鏡頭，原本的景深鏡頭位置改為雷射對焦，為首個使用「對比式對焦」、「相位對焦」、「雷射對焦」三種對焦方式的機種。
-  - 加入了[光學防手震的功能來提升拍照的品質](../Page/光學防手震.md "wikilink")。
+  - 加入了[光學防手震的功能來提升拍照的品質](https://zh.wikipedia.org/wiki/光學防手震 "wikilink")。
 
 ## 詳細規格
 
@@ -53,7 +54,7 @@ Plus](../Page/iPhone_6s.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="../Page/Android歷史版本.md" title="wikilink">5.0(lollipop)</a></p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> <a href="https://zh.wikipedia.org/wiki/Android歷史版本" title="wikilink">5.0(lollipop)</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -69,7 +70,7 @@ Plus](../Page/iPhone_6s.md "wikilink")。
 <tr class="even">
 <td><p>通訊協定<br />
 2G</p></td>
-<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
+<td><p>2G：<a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a> 850/900/1800/1900 MHz</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -94,13 +95,13 @@ LTE Cat.4</p></td>
 </tr>
 <tr class="even">
 <td><p>螢幕</p></td>
-<td><p>SLCD4 5.2 吋、2560×1440<a href="../Page/解析度.md" title="wikilink">解析度</a>（2K）、565<a href="../Page/每英寸點數.md" title="wikilink">ppi</a>、1600 萬色<br />
+<td><p>SLCD4 5.2 吋、2560×1440<a href="https://zh.wikipedia.org/wiki/解析度" title="wikilink">解析度</a>（2K）、565<a href="https://zh.wikipedia.org/wiki/每英寸點數" title="wikilink">ppi</a>、1600 萬色<br />
 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>CPU</p></td>
-<td><p><a href="../Page/聯發科.md" title="wikilink">聯發科</a> Helio X10 MT6795T八核心，64位元，2.2Ghz (與 <a href="../Page/HTC_One_M9(s).md" title="wikilink">HTC One M9(s)</a> 相同)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聯發科" title="wikilink">聯發科</a> Helio X10 MT6795T八核心，64位元，2.2Ghz (與 <a href="https://zh.wikipedia.org/wiki/HTC_One_M9(s)" title="wikilink">HTC One M9(s)</a> 相同)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -137,14 +138,14 @@ LTE Cat.4</p></td>
 <td><p>相機</p></td>
 <td><p>主相機：2000萬畫素、<a href="http://en.wikipedia.org/wiki/Backside_illumination">BSI</a> 感測器（東芝 T4KA4）、感測器尺寸 1/2.4 吋、<br />
 雙色溫LED 智慧閃光燈（自動調節亮度）、等效焦距 27.8mm 超廣角鏡頭<br />
-、4K錄影、慢動作錄影、<a href="../Page/HDR.md" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿<br />
+、4K錄影、慢動作錄影、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿<br />
 魔法幻境、影像配對功能的相片集<br />
 藍寶石水晶鏡頭護蓋</p></td>
 <td><p>主相機：2100萬畫素、<a href="http://en.wikipedia.org/wiki/Backside_illumination">BSI</a> 感測器（SONY IMX230）、感測器尺寸 1/2.3 吋、<br />
 雙色溫LED 智慧閃光燈（自動調節亮度）、等效焦距 26.7mm 超廣角鏡頭<br />
-、4K錄影、慢動作錄影、<a href="../Page/HDR.md" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿<br />
+、4K錄影、慢動作錄影、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR錄影</a>、HTC Zoe™實境相簿<br />
 魔法幻境、影像配對功能的相片集<br />
-光學防手震、<a href="../Page/相位對焦.md" title="wikilink">相位對焦</a>、雷射自動對焦<br />
+光學防手震、<a href="https://zh.wikipedia.org/wiki/相位對焦" title="wikilink">相位對焦</a>、雷射自動對焦<br />
 藍寶石水晶鏡頭護蓋</p></td>
 </tr>
 <tr class="odd">
@@ -165,20 +166,20 @@ F2.0 大光圈、等效焦距 26.8mm 超廣角鏡頭、具備 HDR 功能、1080p
 </tr>
 <tr class="even">
 <td><p>感應</p></td>
-<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="../Page/重力感應器.md" title="wikilink">重力感應器</a>、<a href="../Page/趨近感應器.md" title="wikilink">趨近感應器</a>、<a href="../Page/照度感測器.md" title="wikilink">環境光線感應器</a>、<a href="../Page/數位羅盤.md" title="wikilink">數位羅盤</a>、加速度感測器、Sensor Hub、<a href="../Page/指紋辨識器.md" title="wikilink">指紋辨識器</a></p></td>
+<td><p><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a>、<a href="https://zh.wikipedia.org/wiki/重力感應器" title="wikilink">重力感應器</a>、<a href="https://zh.wikipedia.org/wiki/趨近感應器" title="wikilink">趨近感應器</a>、<a href="https://zh.wikipedia.org/wiki/照度感測器" title="wikilink">環境光線感應器</a>、<a href="https://zh.wikipedia.org/wiki/數位羅盤" title="wikilink">數位羅盤</a>、加速度感測器、Sensor Hub、<a href="https://zh.wikipedia.org/wiki/指紋辨識器" title="wikilink">指紋辨識器</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>衛星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/GLONASS.md" title="wikilink">GLONASS</a></p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/GLONASS.md" title="wikilink">GLONASS</a>、<a href="../Page/北斗衛星.md" title="wikilink">北斗衛星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a>、<a href="https://zh.wikipedia.org/wiki/北斗衛星" title="wikilink">北斗衛星</a></p></td>
 </tr>
 <tr class="even">
 <td><p>傳輸</p></td>
-<td><p><a href="../Page/microUSB.md" title="wikilink">microUSB</a> 2.0（含 <a href="../Page/MHL.md" title="wikilink">MHL</a>3.0 輸出）<br />
-<a href="../Page/NFC.md" title="wikilink">NFC</a>、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="../Page/A2DP.md" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n、CIR紅外線遙控器</p></td>
-<td><p><a href="../Page/microUSB.md" title="wikilink">microUSB</a> 2.0（含 <a href="../Page/MHL.md" title="wikilink">MHL</a>3.0 輸出）<br />
-<a href="../Page/NFC.md" title="wikilink">NFC</a>、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="../Page/A2DP.md" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/microUSB" title="wikilink">microUSB</a> 2.0（含 <a href="https://zh.wikipedia.org/wiki/MHL" title="wikilink">MHL</a>3.0 輸出）<br />
+<a href="https://zh.wikipedia.org/wiki/NFC" title="wikilink">NFC</a>、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="https://zh.wikipedia.org/wiki/A2DP" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n、CIR紅外線遙控器</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/microUSB" title="wikilink">microUSB</a> 2.0（含 <a href="https://zh.wikipedia.org/wiki/MHL" title="wikilink">MHL</a>3.0 輸出）<br />
+<a href="https://zh.wikipedia.org/wiki/NFC" title="wikilink">NFC</a>、<a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.1 with <a href="https://zh.wikipedia.org/wiki/A2DP" title="wikilink">A2DP</a>、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -190,16 +191,16 @@ F2.0 大光圈、等效焦距 26.8mm 超廣角鏡頭、具備 HDR 功能、1080p
 
 ## 零件供應商
 
-  - RAM：[三星](../Page/三星電子.md "wikilink")、[海力士](../Page/海力士.md "wikilink")
-  - 螢幕：[JDI](../Page/JDI.md "wikilink")
-  - 處理器：[聯發科](../Page/聯發科.md "wikilink")
+  - RAM：[三星](../Page/三星電子.md "wikilink")、[海力士](https://zh.wikipedia.org/wiki/海力士 "wikilink")
+  - 螢幕：[JDI](https://zh.wikipedia.org/wiki/JDI "wikilink")
+  - 處理器：[聯發科](https://zh.wikipedia.org/wiki/聯發科 "wikilink")
   - 電池：新能源科技
   - 快閃記憶體：三星
   - 觸控面板控制 IC：[Synaptics](../Page/Synaptics.md "wikilink")
-  - 後鏡頭感光元件：[東芝](../Page/東芝.md "wikilink")（M9+）、[SONY](../Page/SONY.md "wikilink")（M9+光學防手震極速對焦）
-  - 前鏡頭感光元件：[OmniVision](../Page/OmniVision.md "wikilink")
-  - NFC：[NXP](../Page/NXP.md "wikilink")
-  - 藍芽、WiFi模組：[博通](../Page/博通.md "wikilink")
+  - 後鏡頭感光元件：[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")（M9+）、[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")（M9+光學防手震極速對焦）
+  - 前鏡頭感光元件：[OmniVision](https://zh.wikipedia.org/wiki/OmniVision "wikilink")
+  - NFC：[NXP](https://zh.wikipedia.org/wiki/NXP "wikilink")
+  - 藍芽、WiFi模組：[博通](https://zh.wikipedia.org/wiki/博通 "wikilink")
 
 ## 發售資訊
 
@@ -228,8 +229,9 @@ F2.0 大光圈、等效焦距 26.8mm 超廣角鏡頭、具備 HDR 功能、1080p
 ## 参见
 
   - [HTC One M9](../Page/HTC_One_M9.md "wikilink") ·
-  - [HTC One 系列](../Page/HTC_One_\(系列\).md "wikilink")
-  - [宏達國際電子手機列表](../Page/宏达国际电子手机列表.md "wikilink")
+  - [HTC One
+    系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
+  - [宏達國際電子手機列表](https://zh.wikipedia.org/wiki/宏达国际电子手机列表 "wikilink")
 
 ## 参考资料
 

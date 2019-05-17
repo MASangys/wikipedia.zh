@@ -2,7 +2,7 @@
 2的变种，而Eric5则针对Python 3。但自从Eric6发布以后，两者均由同一份代码所支持。\[1\]
 
 从设计上来看，它作为数个程序的前端，例如[QScintilla编辑器小工具](../Page/Scintilla.md "wikilink")、Python语言解释器、[代码重构工具](../Page/代码重构.md "wikilink")、用来进行[性能分析的](../Page/性能分析.md "wikilink")[Python
-Profiler](../Page/Python_Profiler.md "wikilink")，等等。它使用[PyQt这个](../Page/PyQt.md "wikilink")[Qt](../Page/Qt.md "wikilink")
+Profiler](https://zh.wikipedia.org/wiki/Python_Profiler "wikilink")，等等。它使用[PyQt这个](../Page/PyQt.md "wikilink")[Qt](../Page/Qt.md "wikilink")
 [部件工具箱的Python绑定](../Page/部件工具箱.md "wikilink")。程序的功能也可以经由插件机制进行扩展。Eric插件仓库提供了不同类型的扩展，可以在IDE中直接使用。
 
 ## 特色
@@ -16,7 +16,7 @@ Profiler](../Page/Python_Profiler.md "wikilink")，等等。它使用[PyQt这个
 
 ## 下载与安装
 
-用户可以在[SourceForge上下载最新的](../Page/SourceForge.md "wikilink")[ZIP或tar](../Page/ZIP.md "wikilink").gz安装包，并按照说明进行安装。大部分Linux发行版已经将eric加入了软件源。Windows用户需要事先安装合适的Python和PyQt。
+用户可以在[SourceForge上下载最新的](../Page/SourceForge.md "wikilink")[ZIP或tar](https://zh.wikipedia.org/wiki/ZIP "wikilink").gz安装包，并按照说明进行安装。大部分Linux发行版已经将eric加入了软件源。Windows用户需要事先安装合适的Python和PyQt。
 
 ## 本地化支持
 

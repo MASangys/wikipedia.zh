@@ -1,12 +1,12 @@
 《**MYNAME the 4th
-single**》是[韓國男子組合](../Page/韓國.md "wikilink")[MYNAME的第四張韓語實體](../Page/MYNAME.md "wikilink")[單曲](../Page/單曲.md "wikilink")，由[金建宇](../Page/金建宇.md "wikilink")（）與[220VOLT創作](../Page/220VOLT.md "wikilink")，並在2015年5月13日推出\[1\]。
+single**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME的第四張韓語實體](../Page/MYNAME.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[金建宇](https://zh.wikipedia.org/wiki/金建宇 "wikilink")（）與[220VOLT創作](https://zh.wikipedia.org/wiki/220VOLT "wikilink")，並在2015年5月13日推出\[1\]。
 
 ## 背景
 
 2015年5月4日，MYNAME的韓國經紀公司[H2
-Media在其官方](../Page/H2_Media.md "wikilink")[Facebook發布了一張宣傳照片](../Page/Facebook.md "wikilink")，表示MYNAME將於5月13日發行新單曲\[2\]。
+Media在其官方](https://zh.wikipedia.org/wiki/H2_Media "wikilink")[Facebook發布了一張宣傳照片](../Page/Facebook.md "wikilink")，表示MYNAME將於5月13日發行新單曲\[2\]。
 
-次日（5月5日），MYNAME官方發布了專輯曲目名單，並指出主打歌為《直說吧》\[3\]，並於5月6日在[Youtube公開](../Page/Youtube.md "wikilink")《直說吧》[音樂錄影帶的預告片段](../Page/音樂錄影帶.md "wikilink")\[4\]；到5月8日，H2
+次日（5月5日），MYNAME官方發布了專輯曲目名單，並指出主打歌為《直說吧》\[3\]，並於5月6日在[Youtube公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")《直說吧》[音樂錄影帶的預告片段](../Page/音樂錄影帶.md "wikilink")\[4\]；到5月8日，H2
 Media宣布MYNAME將在5月24日於（）開辦演唱會——《MYNAME Concert 2015 The Greatest
 Stories－「第三次的約定」》（）以作宣傳\[5\]。
 
@@ -101,8 +101,8 @@ Stories－「第三次的約定」》（）以作宣傳\[5\]。
 <td><p>韓國</p></td>
 <td><p>2015年5月13日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="../Page/H2_Media.md" title="wikilink">H2 Media</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/H2_Media" title="wikilink">H2 Media</a><br />
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 </tbody>
 </table>

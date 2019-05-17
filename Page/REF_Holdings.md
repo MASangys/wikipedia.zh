@@ -30,11 +30,11 @@ Financial Press Limited）。
 3.  [REF Holdings
     Limited招股通告](http://www.refholdings.com.hk/pdf/20150917100410C.pdf)
 4.  [REF
-    Holdings(08177.HK)擬配售方式上市](http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.692666/1)[阿斯達克財經網](../Page/阿斯達克財經網.md "wikilink")
+    Holdings(08177.HK)擬配售方式上市](http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.692666/1)[阿斯達克財經網](https://zh.wikipedia.org/wiki/阿斯達克財經網 "wikilink")
     2015年9月17日
 5.  [亞勢備份配售上創板（內容有關REF
-    Holdings）](http://paper.wenweipo.com/2015/09/26/FI1509260021.htm)[文匯報](../Page/文匯報.md "wikilink")
+    Holdings）](http://paper.wenweipo.com/2015/09/26/FI1509260021.htm)[文匯報](https://zh.wikipedia.org/wiki/文匯報 "wikilink")
     2015年9月26日
 6.  [REF
-    Holdings轉主板獲批](http://hk.on.cc/hk/bkn/cnt/finance/20170612/bkn-20170612193612657-0612_00842_001.html?eventsection=hk_finance&eventid=4028810746381ccb014647de13ad6139)[ON.CC](../Page/ON.CC.md "wikilink")，2017年6月12日
+    Holdings轉主板獲批](http://hk.on.cc/hk/bkn/cnt/finance/20170612/bkn-20170612193612657-0612_00842_001.html?eventsection=hk_finance&eventid=4028810746381ccb014647de13ad6139)[ON.CC](https://zh.wikipedia.org/wiki/ON.CC "wikilink")，2017年6月12日
 7.  [由香港聯合交易所有限公司創業板轉往主板上市公告](http://www.refholdings.com.hk/pdf/20170612192128C.pdf)

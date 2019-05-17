@@ -82,7 +82,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -169,7 +169,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
   - 音響監督：[岩浪美和](../Page/岩浪美和.md "wikilink")
   - 音響制作：MAGIC CAPSULE
   - 音樂：SuperSweep co.,ltd.、細江慎治
-  - 動畫製作：[J.C.STAFF](../Page/J.C.STAFF.md "wikilink")
+  - 動畫製作：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
   - 製作：TABOO TATTOO製作委員會
 
 ### 主題曲
@@ -204,7 +204,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 <td></td>
 <td><p>咒紋</p></td>
 <td><p>大武正光</p></td>
-<td><p><a href="../Page/岩崎良明.md" title="wikilink">岩崎良明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩崎良明" title="wikilink">岩崎良明</a></p></td>
 <td><p><a href="../Page/藤井昌宏.md" title="wikilink">藤井昌宏</a>、前田百合子</p></td>
 <td><p>藤井昌宏<br />
 長谷川真也</p></td>
@@ -249,7 +249,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 <td></td>
 <td><p>奪還</p></td>
 <td><p>大武正光</p></td>
-<td><p><a href="../Page/渡部高志.md" title="wikilink">渡部高志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡部高志" title="wikilink">渡部高志</a></p></td>
 <td><p>高島大輔</p></td>
 <td><p>木本茂樹、坂本哲也<br />
 芝田千紗、齊藤美香<br />
@@ -273,7 +273,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 <td></td>
 <td><p>暴風雨</p></td>
 <td><p>大武正光</p></td>
-<td><p><a href="../Page/五月女浩一朗.md" title="wikilink">五月女浩一朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/五月女浩一朗" title="wikilink">五月女浩一朗</a></p></td>
 <td><p>橋本敏一</p></td>
 <td><p>上田峰子、冷水由紀繪<br />
 小淵陽介、藤部生馬<br />
@@ -364,11 +364,11 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 
 ### 播放電視台
 
-| 播放地區                                       | 播放電視台                                | 播放日期              | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播網                                | 備註                   |
-| ------------------------------------------ | ------------------------------------ | ----------------- | ----------------------------------------------------------------------- | ------------------------------------ | -------------------- |
-| [關東地方](../Page/關東地方.md "wikilink")         | [東京電視台](../Page/東京電視台.md "wikilink") | 2016年7月4日－        | 星期一 26時05分－26時35分                                                       | [東京電視網](../Page/東京電視網.md "wikilink") | **製作委員會參加**          |
-| 日本全國                                       | [AT-X](../Page/AT-X.md "wikilink")   | 2016年7月6日－        | 星期三 24時30分－25時00分                                                       | [衛星電視](../Page/衛星電視.md "wikilink")   | CS放送／有重播／**製作委員會參加** |
-| [BS JAPAN](../Page/BS_JAPAN.md "wikilink") | 2016年7月9日－                           | 星期六 24時00分－24時30分 | BS放送／**製作委員會參加**                                                        |                                      |                      |
+| 播放地區                                                          | 播放電視台                                | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                 | 備註                   |
+| ------------------------------------------------------------- | ------------------------------------ | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------- |
+| [關東地方](../Page/關東地方.md "wikilink")                            | [東京電視台](../Page/東京電視台.md "wikilink") | 2016年7月4日－        | 星期一 26時05分－26時35分                                                                                             | [東京電視網](../Page/東京電視網.md "wikilink")                  | **製作委員會參加**          |
+| 日本全國                                                          | [AT-X](../Page/AT-X.md "wikilink")   | 2016年7月6日－        | 星期三 24時30分－25時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | CS放送／有重播／**製作委員會參加** |
+| [BS JAPAN](https://zh.wikipedia.org/wiki/BS_JAPAN "wikilink") | 2016年7月9日－                           | 星期六 24時00分－24時30分 | BS放送／**製作委員會參加**                                                                                              |                                                       |                      |
 
 ## 參考資料
 

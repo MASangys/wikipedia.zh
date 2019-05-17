@@ -4,7 +4,7 @@ Boy制作和发行的动作冒险类游戏。本作是银河战士系列的第�
 银河战士II是一款动作冒险类游戏，\[1\]玩家需要控制在虚幻星球SR388上的萨姆斯。在这个横向卷轴游戏中，玩家需要通过萨姆斯的武器来消灭Metroid而前进。
 
 游戏在[任天堂3DS上先后发售了](../Page/任天堂3DS.md "wikilink")[Virtual
-Console版本和完全重制版本](../Page/Virtual_Console.md "wikilink")《[银河战士：萨姆斯归来](../Page/银河战士：萨姆斯归来.md "wikilink")》（）。
+Console版本和完全重制版本](../Page/Virtual_Console.md "wikilink")《[银河战士：萨姆斯归来](https://zh.wikipedia.org/wiki/银河战士：萨姆斯归来 "wikilink")》（）。
 
 ## 参考资料
 

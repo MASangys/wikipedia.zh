@@ -1,5 +1,5 @@
 《**Blowing Kisses in the
-Wind**》是美國女歌手[寶拉·阿巴杜在](../Page/寶拉·阿巴杜.md "wikilink")1991年10月發行的單曲，這首單曲在[告示牌單曲榜獲得第](../Page/Billboard_Hot_100.md "wikilink")6名，它也是寶拉·阿巴杜第八首TOP
+Wind**》是美國女歌手[寶拉·阿巴杜在](../Page/寶拉·阿巴杜.md "wikilink")1991年10月發行的單曲，這首單曲在[告示牌單曲榜獲得第](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")6名，它也是寶拉·阿巴杜第八首TOP
 10單曲\[1\]。
 
 ## 資料

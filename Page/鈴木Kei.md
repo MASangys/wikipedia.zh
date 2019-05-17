@@ -1,30 +1,30 @@
-**鈴木Kei**（）是1998年至2009年間由[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](../Page/鈴木公司.md "wikilink")[輕型](../Page/輕型車.md "wikilink")[運動型多用途車](../Page/運動型多用途車.md "wikilink")，除了在[日本國內市場銷售外](../Page/日本.md "wikilink")，亦曾引進[香港](../Page/香港.md "wikilink")\[1\]。其雙生車款為[馬自達Laputa](../Page/馬自達Laputa.md "wikilink")，關於車名「Kei」在[日語中音同](../Page/日語.md "wikilink")「輕」，乃是原廠希望此車款能樹立輕型車的標準\[2\]。
+**鈴木Kei**（）是1998年至2009年間由[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型](../Page/輕型車.md "wikilink")[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，除了在[日本國內市場銷售外](../Page/日本.md "wikilink")，亦曾引進[香港](../Page/香港.md "wikilink")\[1\]。其雙生車款為[馬自達Laputa](../Page/馬自達Laputa.md "wikilink")，關於車名「Kei」在[日語中音同](https://zh.wikipedia.org/wiki/日語 "wikilink")「輕」，乃是原廠希望此車款能樹立輕型車的標準\[2\]。
 
 ## 歷史與概要
 
 1998年 -
-10月7日鈴木Kei正式問世（1型），全車系皆為三門設定，區分成搭載[自然進氣的](../Page/自然进气发动机.md "wikilink")658c.c.直列三缸DOHC
-[K6A型引擎的](../Page/鈴木K族引擎#K6A型.md "wikilink")「C」入門款、搭載657c.c.直列三缸SOHC
-[F6A型](../Page/鈴木F族引擎#F6A型（SOHC渦輪增壓附中冷器）.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）的「G」和「X」車型、搭載658c.c.直列三缸DOHC
-[K6A型](../Page/鈴木K族引擎#K6A型.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）的「S」車型（配合四速自排變速箱，其餘自排車為三速設定）。除了「C」車型外，其他車型皆有全時[四輪驅動設定](../Page/四輪驅動.md "wikilink")；至於「X」、「S」則將煞車輔助系統與ABS[防鎖死煞車系統列為標準配備](../Page/防鎖死煞車系統.md "wikilink")。
+10月7日鈴木Kei正式問世（1型），全車系皆為三門設定，區分成搭載[自然進氣的](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")658c.c.直列三缸DOHC
+[K6A型引擎的](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")「C」入門款、搭載657c.c.直列三缸SOHC
+[F6A型](https://zh.wikipedia.org/wiki/鈴木F族引擎#F6A型（SOHC渦輪增壓附中冷器） "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）的「G」和「X」車型、搭載658c.c.直列三缸DOHC
+[K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）的「S」車型（配合四速自排變速箱，其餘自排車為三速設定）。除了「C」車型外，其他車型皆有全時[四輪驅動設定](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")；至於「X」、「S」則將煞車輔助系統與ABS[防鎖死煞車系統列為標準配備](../Page/防鎖死煞車系統.md "wikilink")。
 
 1999年 - 2月4日推出以「X」車型為基準的特仕車「Kei
-Limted」，新增音響設備、助手席SRS[安全氣囊等配備](../Page/安全氣囊.md "wikilink")。同年3月10日追加五門車型，包含「G」、「X」的自排變速箱皆為四速設定，且全部皆為[4WD](../Page/四輪驅動.md "wikilink")。同年3月24日鈴木[OEM代工的兄弟車款](../Page/換牌工程.md "wikilink")[馬自達Laputa正式發售](../Page/馬自達Laputa.md "wikilink")，兩者不論外觀或內裝完全一樣，差別只在廠徽銘牌而已。5月24日推出「Kei
-Special」特仕車，具有運動化套件。10月7日部分改良（2型），手排車增設離合起步安全功能，自排車改成四速自排變速箱，助手席增加SRS[安全氣囊](../Page/安全氣囊.md "wikilink")，五門車型新設「E」車型。12月18日推出特仕車「X
+Limted」，新增音響設備、助手席SRS[安全氣囊等配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。同年3月10日追加五門車型，包含「G」、「X」的自排變速箱皆為四速設定，且全部皆為[4WD](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。同年3月24日鈴木[OEM代工的兄弟車款](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")[馬自達Laputa正式發售](../Page/馬自達Laputa.md "wikilink")，兩者不論外觀或內裝完全一樣，差別只在廠徽銘牌而已。5月24日推出「Kei
+Special」特仕車，具有運動化套件。10月7日部分改良（2型），手排車增設離合起步安全功能，自排車改成四速自排變速箱，助手席增加SRS[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，五門車型新設「E」車型。12月18日推出特仕車「X
 Limited」，以「X」為基礎新增[CD播放機](../Page/CD.md "wikilink")、鋁合金輪框等配備。
 
 2000年 -
-原廠為了紀念創設80週年，5月18日發行特仕車「80週年紀念車EX」\[3\]，以五門「E」車型額外增加[收音機](../Page/收音機.md "wikilink")、免鑰匙感應門鎖系統（keyless
+原廠為了紀念創設80週年，5月18日發行特仕車「80週年紀念車EX」\[3\]，以五門「E」車型額外增加[收音機](https://zh.wikipedia.org/wiki/收音機 "wikilink")、免鑰匙感應門鎖系統（keyless
 entry
-system）、專用座椅表皮、4WD車型配置自動收折後視鏡等配備。10月12日再度部分改良（3型），變更進氣壩造型，廢除三門車型，「E」之[前置前驅車型改成](../Page/前置前驅.md "wikilink")658c.c.直列三缸DOHC
+system）、專用座椅表皮、4WD車型配置自動收折後視鏡等配備。10月12日再度部分改良（3型），變更進氣壩造型，廢除三門車型，「E」之[前置前驅車型改成](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")658c.c.直列三缸DOHC
 VVT
-[K6A型引擎](../Page/鈴木K族引擎#K6A型.md "wikilink")；「E」之4WD車型則搭載658c.c.直列三缸DOHC
-[K6A型](../Page/鈴木K族引擎#K6A型.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）。另外，新增具備空力套件的「Kei
+[K6A型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")；「E」之4WD車型則搭載658c.c.直列三缸DOHC
+[K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）。另外，新增具備空力套件的「Kei
 Sport」車型。
 
 同年11月15日配合[國際滑雪聯合會在日本舉辦自由花式滑雪賽而推出](../Page/國際滑雪聯合會.md "wikilink")「FIS
 Freestyle World Cup
-Limited」特仕車\[4\]，具備[MD](../Page/MD.md "wikilink")、[CD播放功能的收音機](../Page/CD.md "wikilink")、免鑰匙感應門鎖系統等配備。接下來陸續分別在2002年1月21日、2002年11月18日也發售同樣的特仕車。12月15日發售「Kei
+Limited」特仕車\[4\]，具備[MD](https://zh.wikipedia.org/wiki/MD "wikilink")、[CD播放功能的收音機](../Page/CD.md "wikilink")、免鑰匙感應門鎖系統等配備。接下來陸續分別在2002年1月21日、2002年11月18日也發售同樣的特仕車。12月15日發售「Kei
 21世紀紀念Special EX」\[5\]，是為頂級車款。
 
 2001年 -
@@ -32,21 +32,21 @@ Limited」特仕車\[4\]，具備[MD](../Page/MD.md "wikilink")、[CD播放功�
 Sport」車型可加價選購VST[車身動態穩定系統](../Page/电子稳定程序.md "wikilink")。4月26日發售「Sport
 R」入門車型，乃以「Kei Sport」的2WD五速手排車為基礎，去除電動窗、保留空調系統，並將車身加以輕量化。
 
-同年11月14日實施部分改良（5型）\[6\]，入門經濟款的「E」車型將雙前座[安全氣囊列入標準配備](../Page/安全氣囊.md "wikilink")，新增「N-1」車型，搭載強調中低速域馬力輸出的658c.c.直列三缸DOHC
-[K6A型M](../Page/鈴木K族引擎#K6A型.md "wikilink")-[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）。此外，著名[時裝設計師](../Page/時裝設計.md "wikilink")擔綱設計的「up
+同年11月14日實施部分改良（5型）\[6\]，入門經濟款的「E」車型將雙前座[安全氣囊列入標準配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，新增「N-1」車型，搭載強調中低速域馬力輸出的658c.c.直列三缸DOHC
+[K6A型M](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")-[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）。此外，著名[時裝設計師](https://zh.wikipedia.org/wiki/時裝設計 "wikilink")擔綱設計的「up
 to you KANSAI」特仕車具有專用前保桿、進氣壩、鋁合金輪圈、側裙與尾翼、內裝座椅等。
 
 2002年 - 5月22日推出「E
 Limited」特仕車，以「E」車型外加隔熱紙車窗、電動收折後視鏡等配備。11月12日再度部分改良（6型）\[7\]，水箱罩與保險桿重新設計，車室內增列後座頭枕，後座椅背除了可分離折疊外，更可獨立調整椅背傾斜角度。原隱藏在後行李廂底板內的格狀收納空間，改成可組合為野餐桌的多功能收納廂蓋，且整個置物格可拆卸清洗。此外新增運動化車款「Kei
 Works」，除搭載658c.c.直列三缸DOHC
-[K6A型](../Page/鈴木K族引擎#K6A型.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）外，另有四輪碟煞、LSD[限滑差速器](../Page/限滑差速器.md "wikilink")（2WD五速手排車）、新設計15吋鋁合金輪圈、雙前座賽車桶椅、專用水箱罩與前保桿、專用尾翼、專用霧燈等配備。
+[K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）外，另有四輪碟煞、LSD[限滑差速器](../Page/限滑差速器.md "wikilink")（2WD五速手排車）、新設計15吋鋁合金輪圈、雙前座賽車桶椅、專用水箱罩與前保桿、專用尾翼、專用霧燈等配備。
 
 2003年 - 9月12日復部分改良（7型），整理車型為：搭載VVT K6A型引擎的「A」車型及K6A型M渦輪增壓引擎的「B Turbo」車型。
 
 2004年 - 4月部分改良（8型），「A」車型符合平成17年汽車廢氣排放標準。
 
 2005年 - 5月9日推出特仕車「B Turbo
-Special」，增加電動收折後視鏡、[MD](../Page/MD.md "wikilink")/[CD播放功能的收音機](../Page/CD.md "wikilink")、鋁合金輪框等配備。同年12月停止供應給馬自達，雙生車款[馬自達Laputa停產](../Page/馬自達Laputa.md "wikilink")。
+Special」，增加電動收折後視鏡、[MD](https://zh.wikipedia.org/wiki/MD "wikilink")/[CD播放功能的收音機](../Page/CD.md "wikilink")、鋁合金輪框等配備。同年12月停止供應給馬自達，雙生車款[馬自達Laputa停產](../Page/馬自達Laputa.md "wikilink")。
 
 2006年 - 4月11日再次部分改良（9型），全車系新增大燈投射角度調節裝置、助手席椅背置物袋。「A」和「B
 Turbo」二種車型的水箱罩與保險桿重新設計，並將電動收折後視鏡納入標準配備。變更CD音響的外型，「Kei

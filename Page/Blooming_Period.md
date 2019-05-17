@@ -1,10 +1,11 @@
-《**Blooming Period**》是[韓國的男子組合](../Page/韓國.md "wikilink")[Block
+《**Blooming
+Period**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block
 B第五張韓語迷你專輯](../Page/Block_B.md "wikilink")，於2016年4月11日發行，主打歌曲為《Toy》\[1\]。
 
 ## 背景
 
 2016年2月，曾經有消息指出Block B將在3月回歸舞台，但經紀公司[Seven
-Seasons很快否認此傳聞](../Page/Seven_Seasons.md "wikilink")\[2\]，唯一星期後官方發布回歸行程表，指出會在3月推出先行曲、4月發行迷你專輯\[3\]。
+Seasons很快否認此傳聞](https://zh.wikipedia.org/wiki/Seven_Seasons "wikilink")\[2\]，唯一星期後官方發布回歸行程表，指出會在3月推出先行曲、4月發行迷你專輯\[3\]。
 
 3月21日，Seven Seasons公布Block
 B新專輯的先行曲在28日發行\[4\]，同日起分批公開成員個人概念照片，官方透露新作品有別於以前「惡童」風格，音樂概念將有新變化\[5\]。到4月3日，Seven
@@ -30,7 +31,7 @@ Seasons將他們的新專輯發行日期定於4月11日\[6\]，音樂錄影帶�
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2016年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年4月10日－4月16日</p></td>
 <td><p>#2</p></td>
@@ -83,15 +84,15 @@ Seasons將他們的新專輯發行日期定於4月11日\[6\]，音樂錄影帶�
 
 ### 其他歌曲成績
 
-| 歌曲                                              | 榜單                                       | 類型                                              | 停留時間            | 最高位置 | 參考資料   |
-| ----------------------------------------------- | ---------------------------------------- | ----------------------------------------------- | --------------- | ---- | ------ |
-| 幾年後                                             | [Gaon單曲榜](../Page/Gaon單曲榜.md "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年3月27日－4月2日 | \#3  | \[10\] |
-| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年4月                                  | \#22                                            |                 |      |        |
-| Walkin' In The Rain                             | 單曲週榜                                     | 2016年4月10日－4月16日                                | \#16            |      |        |
-| 單曲月榜                                            | 2016年4月                                  | \#51                                            |                 |      |        |
-| 它曾是愛                                            | 單曲週榜                                     | 2016年4月10日－4月16日                                | \#17            |      |        |
-| 單曲月榜                                            | 2016年4月                                  | \#58                                            |                 |      |        |
-| 轉啊轉啊                                            | 單曲週榜                                     | 2016年4月10日－4月16日                                | \#52            |      |        |
+| 歌曲                                              | 榜單                                                          | 類型                                              | 停留時間            | 最高位置 | 參考資料   |
+| ----------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | --------------- | ---- | ------ |
+| 幾年後                                             | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年3月27日－4月2日 | \#3  | \[10\] |
+| [單曲月榜](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink") | 2016年4月                                                     | \#22                                            |                 |      |        |
+| Walkin' In The Rain                             | 單曲週榜                                                        | 2016年4月10日－4月16日                                | \#16            |      |        |
+| 單曲月榜                                            | 2016年4月                                                     | \#51                                            |                 |      |        |
+| 它曾是愛                                            | 單曲週榜                                                        | 2016年4月10日－4月16日                                | \#17            |      |        |
+| 單曲月榜                                            | 2016年4月                                                     | \#58                                            |                 |      |        |
+| 轉啊轉啊                                            | 單曲週榜                                                        | 2016年4月10日－4月16日                                | \#52            |      |        |
 
 ### 音樂節目榜單排名
 
@@ -140,8 +141,8 @@ Seasons將他們的新專輯發行日期定於4月11日\[6\]，音樂錄影帶�
 <td><p>韓國</p></td>
 <td><p>2016年4月11日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="../Page/Seven_Seasons.md" title="wikilink">Seven Seasons</a><br />
-<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Seven_Seasons" title="wikilink">Seven Seasons</a><br />
+<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -1,30 +1,33 @@
 {{ infobox file system | developer =
-[Microsoft](../Page/Microsoft.md "wikilink") | full_name = Resilient
-File System | introduction_date = \[1\] | introduction_os = [Windows
-Server 2012](../Page/Windows_Server_2012.md "wikilink") | partition_id
-= | directory_struct = | file_struct = | file_types = |
+[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") |
+full_name = Resilient File System | introduction_date = \[1\] |
+introduction_os = [Windows Server
+2012](../Page/Windows_Server_2012.md "wikilink") | partition_id = |
+directory_struct = | file_struct = | file_types = |
 bad_blocks_struct = | bootable = | min_volume_size = |
-max_volume_size = 1 [yottabyte](../Page/yottabyte.md "wikilink") |
-max_file_size = 16 [exabyte](../Page/exabyte.md "wikilink") |
+max_volume_size = 1
+[yottabyte](https://zh.wikipedia.org/wiki/yottabyte "wikilink") |
+max_file_size = 16
+[exabyte](https://zh.wikipedia.org/wiki/exabyte "wikilink") |
 file_size_granularity = | max_files_no = | max_filename_size = |
 max_dirname_size = | max_directory_depth = |
 filename_character_set = | dates_recorded = | date_range = |
 date_resolution = | forks_streams = | attributes = 是 |
 file_system_permissions = | compression = 否 | encryption = |
 data_deduplication = | copy_on_write = 是 | OS = [Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink") | website = [Resilient
-File System
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") |
+website = [Resilient File System
 Overview](http://technet.microsoft.com/library/hh831724.aspx) }}
 **弹性文件系统**（，简称**ReFS**）\[2\]，代号“Protogon”\[3\]。这是一个[微软在](../Page/微软.md "wikilink")[Windows
 Server
-2012中引入的](../Page/Windows_Server_2012.md "wikilink")[专有](../Page/专有.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")，目的是成为[NTFS之后的](../Page/NTFS.md "wikilink")“下一代”文件系统。
+2012中引入的](../Page/Windows_Server_2012.md "wikilink")[专有](https://zh.wikipedia.org/wiki/专有 "wikilink")[文件系统](../Page/文件系统.md "wikilink")，目的是成为[NTFS之后的](../Page/NTFS.md "wikilink")“下一代”文件系统。
 
-ReFS旨在克服NTFS被构想以来出现的重要问题，面向已改变的数据存储需求。ReFS的关键设计优势包括自动和[数据清理](../Page/数据清理.md "wikilink")、避免需要运行[chkdsk](../Page/CHKDSK.md "wikilink")、防止、内置和的处理、集成[RAID功能](../Page/RAID.md "wikilink")、数据和元数据更新切换到[写时复制/分配](../Page/寫入時複製.md "wikilink")、[超长路径和文件名的处理](../Page/长文件名.md "wikilink")，以及[存储虚拟化和存储池](../Page/儲存虛擬化.md "wikilink")、包括几乎任意大小的[逻辑卷](../Page/邏輯捲軸管理.md "wikilink")（与所用驱动器的物理大小无关）。
+ReFS旨在克服NTFS被构想以来出现的重要问题，面向已改变的数据存储需求。ReFS的关键设计优势包括自动和[数据清理](https://zh.wikipedia.org/wiki/数据清理 "wikilink")、避免需要运行[chkdsk](../Page/CHKDSK.md "wikilink")、防止、内置和的处理、集成[RAID功能](../Page/RAID.md "wikilink")、数据和元数据更新切换到[写时复制/分配](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")、[超长路径和文件名的处理](https://zh.wikipedia.org/wiki/长文件名 "wikilink")，以及[存储虚拟化和存储池](https://zh.wikipedia.org/wiki/儲存虛擬化 "wikilink")、包括几乎任意大小的[逻辑卷](https://zh.wikipedia.org/wiki/邏輯捲軸管理 "wikilink")（与所用驱动器的物理大小无关）。
 
-存储系统和使用情况的需求已发生改变——存储设备的大小（大容量或TB级存储阵列正日益常见）和[持续可靠性需求](../Page/24/7.md "wikilink")。因此，该文件系统需要根据物理磁盘和逻辑卷之间的[抽象层或虚拟化完成自我修复](../Page/抽象層.md "wikilink")，避免介入缓慢或必须中断的磁盘检查）。
+存储系统和使用情况的需求已发生改变——存储设备的大小（大容量或TB级存储阵列正日益常见）和[持续可靠性需求](https://zh.wikipedia.org/wiki/24/7 "wikilink")。因此，该文件系统需要根据物理磁盘和逻辑卷之间的[抽象层或虚拟化完成自我修复](https://zh.wikipedia.org/wiki/抽象層 "wikilink")，避免介入缓慢或必须中断的磁盘检查）。
 
 ReFS最初只被添加到[Windows Server
-2012](../Page/Windows_Server_2012.md "wikilink")，目标是逐步迁移到未来版本的消费者系统中（很快就有爱好者以方式解锁这点）。最初的版本中移除了一些NTFS功能，例如、[备用数据流和](../Page/备用数据流.md "wikilink")[扩展属性](../Page/扩展文件属性.md "wikilink")，因此引发了一定关注。以上部分功能已在更高版本的ReFS中重新实现。
+2012](../Page/Windows_Server_2012.md "wikilink")，目标是逐步迁移到未来版本的消费者系统中（很快就有爱好者以方式解锁这点）。最初的版本中移除了一些NTFS功能，例如、[备用数据流和](https://zh.wikipedia.org/wiki/备用数据流 "wikilink")[扩展属性](../Page/扩展文件属性.md "wikilink")，因此引发了一定关注。以上部分功能已在更高版本的ReFS中重新实现。
 
 在ReFS的早期版本（2012年-2013年）中，它在测试中类似或略高于NTFS的水平\[4\]，但在完整性检查时远慢于NTFS，这是因为ReFS新采用了奇偶效验。\[5\]\[6\]也有用户在预发布版本中提到了到[存储空间](../Page/Windows_8新功能.md "wikilink")，该存储系统旨在支撑ReFS，但据称它可能会导致ReFS自动恢复失败。\[7\]\[8\]\[9\]
 
@@ -41,23 +44,24 @@ ReFS最初只被添加到[Windows Server
 <!-- end list -->
 
   - 内置复原
-    ReFS对元数据采用[allocation-on-write更新策略](../Page/寫入時複製.md "wikilink")\[12\]，每次更新时分配新块并采用批次[IO](../Page/I/O.md "wikilink")。所有ReFS元数据都采用独立存储的64位校验和。文件数据可以单独拥有可选的“完整性流”校验和，那种情况下文件更新策略也实现写时复制；新的“完整性”属性可应用到文件和目录。如果文件数据或元数据损坏，文件可以直接删除而无需脱机维护整个卷，并且文件可以从备份恢复。因为内置弹性设计，管理员不需要对ReFS定期运行错误检查工具，例如[CHKDSK](../Page/CHKDSK.md "wikilink")。
+    ReFS对元数据采用[allocation-on-write更新策略](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")\[12\]，每次更新时分配新块并采用批次[IO](https://zh.wikipedia.org/wiki/I/O "wikilink")。所有ReFS元数据都采用独立存储的64位校验和。文件数据可以单独拥有可选的“完整性流”校验和，那种情况下文件更新策略也实现写时复制；新的“完整性”属性可应用到文件和目录。如果文件数据或元数据损坏，文件可以直接删除而无需脱机维护整个卷，并且文件可以从备份恢复。因为内置弹性设计，管理员不需要对ReFS定期运行错误检查工具，例如[CHKDSK](../Page/CHKDSK.md "wikilink")。
 
 <!-- end list -->
 
   - 与现有API和技术兼容
     ReFS支持NTFS特性的一个子集，并且仅“广泛使用”的Win32
-    API支持它；但它不需要新的系统API，并且大多数文件系统筛选器可在ReFS卷工作。\[13\]ReFS支持许多现有的Windows和NTFS特性，例如[BitLocker](../Page/BitLocker驱动器加密.md "wikilink")
-    加密、[访问控制列表](../Page/存取控制串列.md "wikilink")、[USN日志](../Page/USN日志.md "wikilink")、变更通知\[14\]、[符号链接](../Page/NTFS符号链接.md "wikilink")、、[挂载点](../Page/挂载点.md "wikilink")、[重解析点](../Page/NTFS重解析点.md "wikilink")、[卷快照](../Page/磁碟區陰影複製服務.md "wikilink")、[文件ID和](../Page/NTFS.md "wikilink")[操作锁定](../Page/NTFS.md "wikilink")。ReFS与[存储空间无缝集成](../Page/Windows_8新功能.md "wikilink")\[15\]，[存储虚拟化层允许数据被镜像或条带化](../Page/儲存虛擬化.md "wikilink")，以及作为机器之间的共享存储池。\[16\]ReFS的可恢复功能增强了存储空间提供的镜像功能，可以使用[数据清理流程检测是否有任何文件的镜像副本已经损坏](../Page/数据清理.md "wikilink")（可选启用）
+    API支持它；但它不需要新的系统API，并且大多数文件系统筛选器可在ReFS卷工作。\[13\]ReFS支持许多现有的Windows和NTFS特性，例如[BitLocker](https://zh.wikipedia.org/wiki/BitLocker驱动器加密 "wikilink")
+    加密、[访问控制列表](https://zh.wikipedia.org/wiki/存取控制串列 "wikilink")、[USN日志](https://zh.wikipedia.org/wiki/USN日志 "wikilink")、变更通知\[14\]、[符号链接](../Page/NTFS符号链接.md "wikilink")、、[挂载点](https://zh.wikipedia.org/wiki/挂载点 "wikilink")、[重解析点](../Page/NTFS重解析点.md "wikilink")、[卷快照](../Page/磁碟區陰影複製服務.md "wikilink")、[文件ID和](../Page/NTFS.md "wikilink")[操作锁定](../Page/NTFS.md "wikilink")。ReFS与[存储空间无缝集成](../Page/Windows_8新功能.md "wikilink")\[15\]，[存储虚拟化层允许数据被镜像或条带化](https://zh.wikipedia.org/wiki/儲存虛擬化 "wikilink")，以及作为机器之间的共享存储池。\[16\]ReFS的可恢复功能增强了存储空间提供的镜像功能，可以使用[数据清理流程检测是否有任何文件的镜像副本已经损坏](https://zh.wikipedia.org/wiki/数据清理 "wikilink")（可选启用）
     \[17\]，它会定期读取所有副本并验证它们的校验和，然后使用良好副本替换损坏副本。
 
 ### 已移除功能
 
-某些NTFS功能在ReFS的初始版本中已移除或不支持。这包括[备用数据流](../Page/备用数据流.md "wikilink")、[对象ID](../Page/NTFS重解析点.md "wikilink")、[8.3文件名](../Page/8.3.md "wikilink")、[NTFS压缩](../Page/NTFS.md "wikilink")、[加密文件系统](../Page/加密文件系统.md "wikilink")（EFS）、、、[扩展属性和](../Page/扩展文件属性.md "wikilink")。\[18\]\[19\]\[20\]ReFS最初不提供[重复数据删除](../Page/重复数据删除.md "wikilink")，\[21\]在随后的v3.2版本中实现。此外，Windows目前不能从ReFS卷引导启动。\[22\]镜像或条带化卷的动态磁盘已被“存储空间”提供的镜像或条带化存储池取代；自动纠错仅在镜像空间支持。<span class="cx-segment" data-segmentid="185"></span>
+某些NTFS功能在ReFS的初始版本中已移除或不支持。这包括[备用数据流](https://zh.wikipedia.org/wiki/备用数据流 "wikilink")、[对象ID](../Page/NTFS重解析点.md "wikilink")、[8.3文件名](https://zh.wikipedia.org/wiki/8.3 "wikilink")、[NTFS压缩](../Page/NTFS.md "wikilink")、[加密文件系统](https://zh.wikipedia.org/wiki/加密文件系统 "wikilink")（EFS）、、、[扩展属性和](../Page/扩展文件属性.md "wikilink")。\[18\]\[19\]\[20\]ReFS最初不提供[重复数据删除](../Page/重复数据删除.md "wikilink")，\[21\]在随后的v3.2版本中实现。此外，Windows目前不能从ReFS卷引导启动。\[22\]镜像或条带化卷的动态磁盘已被“存储空间”提供的镜像或条带化存储池取代；自动纠错仅在镜像空间支持。<span class="cx-segment" data-segmentid="185"></span>
 
 在后续实现的Windows 8.1 64位和Server 2012
 R2的ReFS中，文件系统开始支持备用数据流，最大长度128K，以及完整性流在奇偶效验空间上自动纠正损坏数据。\[23\]ReFS在缺乏备用数据流的支持时不适合[Microsoft
-SQL Server实例分配](../Page/Microsoft_SQL_Server.md "wikilink")。\[24\]
+SQL
+Server实例分配](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。\[24\]
 
 ## 稳定性和已知问题
 
@@ -74,9 +78,9 @@ SQL Server实例分配](../Page/Microsoft_SQL_Server.md "wikilink")。\[24\]
 
 ## 与竞争对手的性能比较
 
-2014年，一篇对ReFS的评论与准备在生产中使用的评估显示，ReFS在与它的两个主要竞争对手（[文件系统](../Page/文件系统.md "wikilink")）的比较中具有关键优势。[ZFS](../Page/ZFS.md "wikilink")（在[Solaris和](../Page/Solaris.md "wikilink")[FreeBSD中使用](../Page/FreeBSD.md "wikilink")）被广泛批评为使用数GB的[内存用于联机重复数据消除](../Page/内存.md "wikilink")，这影响了它在大量中小型系统上的使用。但是，在关闭ZFS的联机重复数据消除后（因为ReFS不支持此功能），ZFS只占用几百兆内存，与另外两个系统相对持平。等方案使用[专有方法](../Page/专有软件.md "wikilink")，这意味着如果故障且厂商也无法解决，没有其他解决方案。\[30\]
+2014年，一篇对ReFS的评论与准备在生产中使用的评估显示，ReFS在与它的两个主要竞争对手（[文件系统](../Page/文件系统.md "wikilink")）的比较中具有关键优势。[ZFS](../Page/ZFS.md "wikilink")（在[Solaris和](../Page/Solaris.md "wikilink")[FreeBSD中使用](../Page/FreeBSD.md "wikilink")）被广泛批评为使用数GB的[内存用于联机重复数据消除](https://zh.wikipedia.org/wiki/内存 "wikilink")，这影响了它在大量中小型系统上的使用。但是，在关闭ZFS的联机重复数据消除后（因为ReFS不支持此功能），ZFS只占用几百兆内存，与另外两个系统相对持平。等方案使用[专有方法](../Page/专有软件.md "wikilink")，这意味着如果故障且厂商也无法解决，没有其他解决方案。\[30\]
 
-2012年，[Phoronix撰写了一篇](../Page/Phoronix.md "wikilink")\[31\]ReFS对战[Btrfs的分析](../Page/Btrfs.md "wikilink")（Btrfs是适用于Linux的一个[写时复制文件系统](../Page/寫入時複製.md "wikilink")）。两者具有类似的特性，都支持校验和、类[RAID使用多块磁盘](../Page/RAID.md "wikilink")，以及错误检测与纠正。但是，ReFS缺乏[重复数据删除](../Page/重复数据删除.md "wikilink")、写时快照和压缩，而Btrfs和ZFS支持上述技术。
+2012年，[Phoronix撰写了一篇](../Page/Phoronix.md "wikilink")\[31\]ReFS对战[Btrfs的分析](../Page/Btrfs.md "wikilink")（Btrfs是适用于Linux的一个[写时复制文件系统](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")）。两者具有类似的特性，都支持校验和、类[RAID使用多块磁盘](../Page/RAID.md "wikilink")，以及错误检测与纠正。但是，ReFS缺乏[重复数据删除](../Page/重复数据删除.md "wikilink")、写时快照和压缩，而Btrfs和ZFS支持上述技术。
 
 ## 参见
 

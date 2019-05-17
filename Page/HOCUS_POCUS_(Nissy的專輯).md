@@ -1,22 +1,25 @@
 『**HOCUS POCUS**』是2016年3月24日，由[avex
-trax發售的](../Page/avex_trax.md "wikilink")[Nissy的首張專輯](../Page/西島隆弘.md "wikilink")。Nissy盤（CD＋DVD3）、「CD＋DVD」盤、通常盤3種形態。通常盤以外皆為限定發售。4月20日開始全國的租賃店發售租賃盤。
+trax發售的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[Nissy的首張專輯](../Page/西島隆弘.md "wikilink")。Nissy盤（CD＋DVD3）、「CD＋DVD」盤、通常盤3種形態。通常盤以外皆為限定發售。4月20日開始全國的租賃店發售租賃盤。
 
 ## 収録曲
 
 ### Disc1（CD：全種類皆同）
 
-1.  **[Playing With Fire](../Page/Playing_With_Fire.md "wikilink")**
+1.  **[Playing With
+    Fire](https://zh.wikipedia.org/wiki/Playing_With_Fire "wikilink")**
       -
-        作詞：[宏実](../Page/宏実.md "wikilink")、作曲：[T-SK](../Page/T-SK.md "wikilink")・MoonChild・SIRIUS
+        作詞：[宏実](https://zh.wikipedia.org/wiki/宏実 "wikilink")、作曲：[T-SK](https://zh.wikipedia.org/wiki/T-SK "wikilink")・MoonChild・SIRIUS
 2.  **[我該怎麼做？](../Page/我該怎麼做？.md "wikilink")**
       -
-        作詞、作曲：[SHIROSE from WHITE JAM](../Page/WHITE_JAM.md "wikilink")
-3.  **[Never Stop](../Page/Never_Stop.md "wikilink")**
+        作詞、作曲：[SHIROSE from WHITE
+        JAM](https://zh.wikipedia.org/wiki/WHITE_JAM "wikilink")
+3.  **[Never
+    Stop](https://zh.wikipedia.org/wiki/Never_Stop "wikilink")**
       -
         作詞：[Takahiro Nishijima](../Page/西島隆弘.md "wikilink")・SHIROSE from
         WHITE JAM・[LIDBOM ERIK
-        GUSTAF](../Page/エリック・リボム.md "wikilink")・宏実、作曲：[HENRIK
-        Nordenback](../Page/ヘンリック・ノーデンバック.md "wikilink")・Christian
+        GUSTAF](https://zh.wikipedia.org/wiki/エリック・リボム "wikilink")・宏実、作曲：[HENRIK
+        Nordenback](https://zh.wikipedia.org/wiki/ヘンリック・ノーデンバック "wikilink")・Christian
         Fast・Didrik Thott
 4.  **SHADOWS**
       -
@@ -40,7 +43,8 @@ trax發售的](../Page/avex_trax.md "wikilink")[Nissy的首張專輯](../Page/�
       -
         作詞：宏実、作曲：FLORES RYUICHI・HOUSMAN JASON ARNER・HOLYFIELD
         CHRIS・HOLYFIELD ANDREW JOHN
-10. **[DANCE DANCE DANCE](../Page/DANCE_DANCE_DANCE.md "wikilink")**
+10. **[DANCE DANCE
+    DANCE](https://zh.wikipedia.org/wiki/DANCE_DANCE_DANCE "wikilink")**
       -
         作詞、作曲：SHIROSE from WHITE JAM
 11. **My Luv**

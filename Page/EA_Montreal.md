@@ -1,5 +1,5 @@
 **EA
-Montreal**，是[加拿大的游戏开发工作室](../Page/加拿大.md "wikilink")。该工作室设在魁北克[蒙特利尔](../Page/蒙特利尔.md "wikilink")，2004年3月17日由[美国艺电创立](../Page/美国艺电.md "wikilink")\[1\]。
+Montreal**，是[加拿大的游戏开发工作室](../Page/加拿大.md "wikilink")。该工作室设在魁北克[蒙特利尔](../Page/蒙特利尔.md "wikilink")，2004年3月17日由[美国艺电创立](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")\[1\]。
 
 该工作室由前育碧员工Alain Tascan和BAM\!
 Entertainment总经理成立，该工作室是少数由EA创立的工作室。2006年该工作室收购JAMDAT，JAMDAT在蒙特利尔的办事处搬到了EA

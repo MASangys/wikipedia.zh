@@ -1,12 +1,15 @@
-***Ollantaya***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](../Page/屬_\(生物\).md "wikilink")，尚無正式中文學名命名。Silva
+***Ollantaya***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，尚無正式中文學名命名。Silva
 et al.
 (2010)指出此屬從[油綃蝶屬分出並成為其](../Page/油綃蝶屬.md "wikilink")[旁系群](../Page/旁系群.md "wikilink")\[1\]。
 
 ## 物種
 
-  - *[Ollantaya aegineta](../Page/Ollantaya_aegineta.md "wikilink")*
-  - *[Ollantaya olerioides](../Page/Ollantaya_olerioides.md "wikilink")*
-  - [卡神綃蝶](../Page/卡神綃蝶.md "wikilink") *Ollantaya canilla*
+  - *[Ollantaya
+    aegineta](https://zh.wikipedia.org/wiki/Ollantaya_aegineta "wikilink")*
+  - *[Ollantaya
+    olerioides](https://zh.wikipedia.org/wiki/Ollantaya_olerioides "wikilink")*
+  - [卡神綃蝶](https://zh.wikipedia.org/wiki/卡神綃蝶 "wikilink") *Ollantaya
+    canilla*
 
 ## 參考文獻
 

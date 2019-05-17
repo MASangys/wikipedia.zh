@@ -7,7 +7,7 @@ Windows，其简体中文名称为**“-{zh;zh-hans;zh-hant;|映象}-”**；包
 Windows，其简体中文名称为**“-{zh;zh-hans;zh-hant;|图像处理}-”**，二者的繁体中文名称皆为**“-{zh;zh-hans;zh-hant;|影像}-”**。Global360
 Imaging for Windows是该软件的升级版。自[Windows
 XP开始](../Page/Windows_XP.md "wikilink")，微软已将该软件从Windows系统组件中移除\[1\]。其图像查看、编辑和扫描功能在Windows
-XP中已被[Windows图片和传真查看器与](../Page/Windows圖片及傳真檢視器.md "wikilink")[画图工具取代](../Page/画图.md "wikilink")，二者皆基于[GDI+开发](../Page/GDI+.md "wikilink")，但多页TIFF文档编辑与批注功能也随着Imaging
+XP中已被[Windows图片和传真查看器与](https://zh.wikipedia.org/wiki/Windows圖片及傳真檢視器 "wikilink")[画图工具取代](../Page/画图.md "wikilink")，二者皆基于[GDI+开发](../Page/GDI+.md "wikilink")，但多页TIFF文档编辑与批注功能也随着Imaging
 for Windows的消失而在Windows中消失。
 
 Imaging for Windows最初由开发（在Windows 95/NT
@@ -17,7 +17,7 @@ Software，在Windows 98/Me/2000中），然后成为eiStream公司（后来被�
 4.0由OpenText提供技术支持\[2\]。
 
 通过Imaging for
-Windows，用户可查看、编辑、批注和打印[TIFF](../Page/TIFF.md "wikilink")、[BMP与Microsoft传真的AWD格式图像文档](../Page/BMP.md "wikilink")，用户亦可打开和打印[JPEG与](../Page/JPEG.md "wikilink")[PCX](../Page/PCX.md "wikilink")/[-{DCX}-图像文件](../Page/位图.md "wikilink")。
+Windows，用户可查看、编辑、批注和打印[TIFF](../Page/TIFF.md "wikilink")、[BMP与Microsoft传真的AWD格式图像文档](https://zh.wikipedia.org/wiki/BMP "wikilink")，用户亦可打开和打印[JPEG与](../Page/JPEG.md "wikilink")[PCX](../Page/PCX.md "wikilink")/[-{DCX}-图像文件](../Page/位图.md "wikilink")。
 
 Imaging for
 Windows也提供了利用[ActiveX控件设计软件的功能](../Page/ActiveX.md "wikilink")，每一份Imaging

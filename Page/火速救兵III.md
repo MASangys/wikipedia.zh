@@ -1,4 +1,4 @@
-《**火速救兵III**》（）是[香港電台電視部與](../Page/香港電台.md "wikilink")[香港消防處合作拍攝的](../Page/香港消防處.md "wikilink")[單元劇](../Page/單元劇.md "wikilink")，全劇共5集，此劇為《[火速救兵](../Page/火速救兵.md "wikilink")》及《[火速救兵II](../Page/火速救兵II.md "wikilink")》的延續。
+《**火速救兵III**》（）是[香港電台電視部與](../Page/香港電台.md "wikilink")[香港消防處合作拍攝的](../Page/香港消防處.md "wikilink")[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共5集，此劇為《[火速救兵](../Page/火速救兵.md "wikilink")》及《[火速救兵II](../Page/火速救兵II.md "wikilink")》的延續。
 
 ## 每集主題
 
@@ -18,10 +18,10 @@
 <td><p>2015年10月3日</p></td>
 <td><p>rowspan ="2"| 《失蹤》</p></td>
 <td><p>rowspan ="2"|海上撞船意外</p></td>
-<td><p>rowspan ="2"|<a href="../Page/黎敏儀.md" title="wikilink">黎敏儀</a></p></td>
-<td><p>rowspan ="2"|<a href="../Page/魏嘉珩.md" title="wikilink">魏嘉珩</a></p></td>
-<td><p>rowspan ="2"|<a href="../Page/黎敏儀.md" title="wikilink">黎敏儀</a><br />
-<a href="../Page/駱子康.md" title="wikilink">駱子康</a></p></td>
+<td><p>rowspan ="2"|<a href="https://zh.wikipedia.org/wiki/黎敏儀" title="wikilink">黎敏儀</a></p></td>
+<td><p>rowspan ="2"|<a href="https://zh.wikipedia.org/wiki/魏嘉珩" title="wikilink">魏嘉珩</a></p></td>
+<td><p>rowspan ="2"|<a href="https://zh.wikipedia.org/wiki/黎敏儀" title="wikilink">黎敏儀</a><br />
+<a href="https://zh.wikipedia.org/wiki/駱子康" title="wikilink">駱子康</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>02</p></td>
@@ -38,20 +38,20 @@
 <td><p>《A186》</p></td>
 <td><p>旅遊巴意外<br />
 精神病患者挾持救護員</p></td>
-<td><p><a href="../Page/謝國信.md" title="wikilink">謝國信</a></p></td>
-<td><p>rowspan ="3"|<a href="../Page/莫允鏊.md" title="wikilink">莫允鏊</a><br />
-<a href="../Page/魏嘉珩.md" title="wikilink">魏嘉珩</a></p></td>
-<td><p><a href="../Page/范因明.md" title="wikilink">范因明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝國信" title="wikilink">謝國信</a></p></td>
+<td><p>rowspan ="3"|<a href="https://zh.wikipedia.org/wiki/莫允鏊" title="wikilink">莫允鏊</a><br />
+<a href="https://zh.wikipedia.org/wiki/魏嘉珩" title="wikilink">魏嘉珩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/范因明" title="wikilink">范因明</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
 <td><p>2015年10月24日</p></td>
 <td><p>rowspan ="2"| 《幸福的聲音》</p></td>
-<td><p>rowspan ="2"|<a href="../Page/劏房.md" title="wikilink">劏房火警</a><br />
+<td><p>rowspan ="2"|<a href="https://zh.wikipedia.org/wiki/劏房" title="wikilink">劏房火警</a><br />
 走火通道阻塞問題<br />
-<a href="../Page/消防義工隊.md" title="wikilink">消防義工隊高空拯救专队</a></p></td>
-<td><p>rowspan ="2"| <a href="../Page/黃佩珊.md" title="wikilink">黃佩珊</a></p></td>
-<td><p>rowspan ="2"| <a href="../Page/陳偉棠.md" title="wikilink">陳偉棠</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/消防義工隊" title="wikilink">消防義工隊高空拯救专队</a></p></td>
+<td><p>rowspan ="2"| <a href="https://zh.wikipedia.org/wiki/黃佩珊" title="wikilink">黃佩珊</a></p></td>
+<td><p>rowspan ="2"| <a href="https://zh.wikipedia.org/wiki/陳偉棠" title="wikilink">陳偉棠</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -113,19 +113,19 @@ Jackie</p></td>
 <td><p>鷹哥</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張雷.md" title="wikilink">張　雷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張雷" title="wikilink">張　雷</a></p></td>
 <td><p>張　堅</p></td>
 <td><p>北角消防局消防總隊目</p></td>
 <td><p>堅哥</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李逸朗.md" title="wikilink">李逸朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李逸朗" title="wikilink">李逸朗</a></p></td>
 <td><p>賈英雄</p></td>
 <td><p>rowspan ="2"|北角消防局消防員</p></td>
 <td><p>英雄</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁嘉銘.md" title="wikilink">梁嘉銘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁嘉銘" title="wikilink">梁嘉銘</a></p></td>
 <td><p>陳力宏</p></td>
 <td><p>Nicky</p></td>
 <td></td>
@@ -137,7 +137,7 @@ Jackie</p></td>
 <td><p>方丈</p></td>
 </tr>
 <tr class="even">
-<td><p>-{<a href="../Page/方志駒.md" title="wikilink">方志駒</a>}-</p></td>
+<td><p>-{<a href="https://zh.wikipedia.org/wiki/方志駒" title="wikilink">方志駒</a>}-</p></td>
 <td><p>-{方志駒}-</p></td>
 <td><p>北角消防局高級消防隊長<br />
 屯門消防局消防隊長（三年前）</p></td>
@@ -163,14 +163,14 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃寶漳.md" title="wikilink">黃寶漳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃寶漳" title="wikilink">黃寶漳</a></p></td>
 <td><p>鄭志勤</p></td>
 <td><p>阿昌仇敵<br />
 因阿昌女兒不幸遇害最終被報復放炸彈炸死</p></td>
 <td><p>阿Dee</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡明芳.md" title="wikilink">蔡明芳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡明芳" title="wikilink">蔡明芳</a></p></td>
 <td><p>Eva</p></td>
 <td><p>人氣女歌星<br />
 石子康女友</p></td>
@@ -184,13 +184,13 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/歐曼玉.md" title="wikilink">歐曼玉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐曼玉" title="wikilink">歐曼玉</a></p></td>
 <td><p>Carrie</p></td>
 <td><p>Elaine助手</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/徐淑賢.md" title="wikilink">徐淑賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐淑賢" title="wikilink">徐淑賢</a></p></td>
 <td><p>Kitty</p></td>
 <td><p>阿昌女兒</p></td>
 <td></td>
@@ -202,13 +202,13 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃焯言.md" title="wikilink">黃焯言</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃焯言" title="wikilink">黃焯言</a></p></td>
 <td><p>謙　謙</p></td>
 <td><p>等待消防員去車的小孩</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林零原.md" title="wikilink">林零原</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林零原" title="wikilink">林零原</a></p></td>
 <td></td>
 <td><p>海上撞船意外傷者</p></td>
 <td><p>爸爸</p></td>
@@ -263,7 +263,7 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/余世騰.md" title="wikilink">余世騰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余世騰" title="wikilink">余世騰</a></p></td>
 <td><p>歐志華</p></td>
 <td><p>長沙灣救護站高級救護主任</p></td>
 <td><p>歐Sir</p></td>
@@ -275,79 +275,79 @@ Jackie</p></td>
 <td><p>晴晴</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/麥洛新.md" title="wikilink">麥洛新</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥洛新" title="wikilink">麥洛新</a></p></td>
 <td><p>忠　伯</p></td>
 <td><p>患有糖尿病的獨居老人</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/藍源瑋.md" title="wikilink">藍源瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藍源瑋" title="wikilink">藍源瑋</a></p></td>
 <td><p>華　仔</p></td>
 <td><p>忠伯兒子</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭珮嵐.md" title="wikilink">彭珮嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭珮嵐" title="wikilink">彭珮嵐</a></p></td>
 <td></td>
 <td><p>哮喘女孩母親</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/余卓穎.md" title="wikilink">余卓穎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余卓穎" title="wikilink">余卓穎</a></p></td>
 <td><p>哮喘女孩</p></td>
 <td><p>患有哮喘</p></td>
 <td><p>姐姐</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/范希言.md" title="wikilink">范希言</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/范希言" title="wikilink">范希言</a></p></td>
 <td></td>
 <td><p>哮喘女孩妹妹</p></td>
 <td><p>妹妹</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/容羡媛.md" title="wikilink">容羡媛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">容羡媛</a></p></td>
 <td></td>
 <td><p>rowspan ="2"|孕婦</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何美賢.md" title="wikilink">何美賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何美賢" title="wikilink">何美賢</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/詹植芝.md" title="wikilink">詹植芝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹植芝" title="wikilink">詹植芝</a></p></td>
 <td></td>
 <td><p>過路母親</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧穎彤.md" title="wikilink">鄧穎彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧穎彤" title="wikilink">鄧穎彤</a></p></td>
 <td></td>
 <td><p>李晴就讀的中學同學</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/余鎮淇.md" title="wikilink">余鎮淇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余鎮淇" title="wikilink">余鎮淇</a></p></td>
 <td></td>
 <td><p>rowspan ="2"|圖書館情侶</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳倩芝.md" title="wikilink">陳倩芝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳倩芝" title="wikilink">陳倩芝</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉運強.md" title="wikilink">葉運強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉運強" title="wikilink">葉運強</a></p></td>
 <td><p>劈　頭</p></td>
 <td><p>神經怒漢</p></td>
 <td><p>細B</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/丁家湘.md" title="wikilink">丁家湘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丁家湘" title="wikilink">丁家湘</a></p></td>
 <td></td>
 <td><p>劈頭父親</p></td>
 <td></td>
@@ -365,15 +365,15 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王喜.md" title="wikilink">王　喜</a><br />
-<a href="../Page/陳鎮東.md" title="wikilink">陳鎮東</a>（青年）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a><br />
+<a href="https://zh.wikipedia.org/wiki/陳鎮東" title="wikilink">陳鎮東</a>（青年）</p></td>
 <td><p>鍾向華</p></td>
 <td><p>啟德消防局消防隊長</p></td>
 <td><p>阿華、鍾Sir</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宣萱.md" title="wikilink">宣　萱</a><br />
-<a href="../Page/王慕怡.md" title="wikilink">王慕怡</a>（童年）</p></td>
+<a href="https://zh.wikipedia.org/wiki/王慕怡" title="wikilink">王慕怡</a>（童年）</p></td>
 <td><p>邱麗芳</p></td>
 <td><p>啟德救護站救護隊目<br />
 莊敏女兒<br />
@@ -382,7 +382,7 @@ Jackie</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳國邦.md" title="wikilink">陳國邦</a><br />
-<a href="../Page/彭展鏗.md" title="wikilink">彭展鏗</a>（青年）</p></td>
+<a href="https://zh.wikipedia.org/wiki/彭展鏗" title="wikilink">彭展鏗</a>（青年）</p></td>
 <td><p>宋日軒</p></td>
 <td><p>啟德消防局消防隊目</p></td>
 <td><p>阿軒、宋Sir</p></td>
@@ -427,13 +427,13 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Bitto.md" title="wikilink">Bitto</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bitto" title="wikilink">Bitto</a></p></td>
 <td><p>Bitto</p></td>
 <td><p>劏房住客</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/利沙華.md" title="wikilink">利沙華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/利沙華" title="wikilink">利沙華</a></p></td>
 <td><p>高先生</p></td>
 <td><p>劏房業主</p></td>
 <td></td>

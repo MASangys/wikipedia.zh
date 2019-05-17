@@ -4,9 +4,10 @@ Core](../Page/.NET_Core.md "wikilink") 的成熟，以及 ASP.NET 5 的命名會
 ASP.NET 的升級版，但它其實是新一代從頭開始打造的 ASP.NET 核心功能，因此微軟宣佈將它改為與 .NET Core
 同步的名稱\[1\]，即 ASP.NET Core。
 
-ASP.NET Core 可運行於 [Windows](../Page/Windows.md "wikilink") 平台以及非 Windows
-平台，如 [Mac OSX](../Page/Mac_OSX.md "wikilink") 以及
-[Ubuntu](../Page/Ubuntu.md "wikilink") Linux 作業系統，是 Microsoft
+ASP.NET Core 可運行於
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 平台以及非
+Windows 平台，如 [Mac OSX](https://zh.wikipedia.org/wiki/Mac_OSX "wikilink")
+以及 [Ubuntu](../Page/Ubuntu.md "wikilink") Linux 作業系統，是 Microsoft
 第一個具有跨平台能力的 Web 開發框架。
 
 微軟在一開始開發時就將 ASP.NET Core 開源，因此它也是開源專案的一員，由 [.NET
@@ -20,8 +21,8 @@ K 來命名，其名稱為 KRE (K Runtime Environment) 如：
   - KLR (K Language Runtime): Project K 的執行期平台。
   - KVM (K Version Manager): Project K 的版本管理員。
   - KPM (K Package Manager): Project K 的套件管理員，類似於
-    [node.js](../Page/node.js.md "wikilink") 的 npm (Node.js Package
-    Manager)。
+    [node.js](https://zh.wikipedia.org/wiki/node.js "wikilink") 的 npm
+    (Node.js Package Manager)。
   - K (K Loader): Project K 的程式啟動器。
 
 KRE 在 2014 年度時曾經一度在版本戳記上出現 RC 的字眼，但隨後 ASP.NET Core 開發團隊發出了一份新的
@@ -96,12 +97,13 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### 內建的相依注入
 
-ASP.NET Core 核心內建了基本的[相依注入](../Page/依賴注入.md "wikilink") (Dependency
-Injection) 能力，這意味著 ASP.NET Core 應用程式具有更強的擴充能力，連帶的如 ASP.NET Core MVC
-(ASP.NET Core 的 Web 開發框架) 也受惠於 ASP.NET Core 的相依注入功能，可在 Controller
-內直接注入介面物件。ASP.NET Core 內提供了兩種相依注入功能，一種是管線式相依注入 (ASP.NET
-Core 稱它為 Framework-Provided Services)，另一種是由系統註冊的相依注入，由開發人員利用 ASP.NET
-Core 提供的 IServiceCollection 介面內的方法註冊需要的介面與服務，再由程式中取用。
+ASP.NET Core
+核心內建了基本的[相依注入](https://zh.wikipedia.org/wiki/依賴注入 "wikilink")
+(Dependency Injection) 能力，這意味著 ASP.NET Core 應用程式具有更強的擴充能力，連帶的如 ASP.NET
+Core MVC (ASP.NET Core 的 Web 開發框架) 也受惠於 ASP.NET Core 的相依注入功能，可在
+Controller 內直接注入介面物件。ASP.NET Core 內提供了兩種相依注入功能，一種是管線式相依注入 (ASP.NET Core
+稱它為 Framework-Provided Services)，另一種是由系統註冊的相依注入，由開發人員利用 ASP.NET Core
+提供的 IServiceCollection 介面內的方法註冊需要的介面與服務，再由程式中取用。
 
 IServiceCollection 支援四種類型的服務相依注入\[6\]：
 
@@ -111,7 +113,7 @@ IServiceCollection 支援四種類型的服務相依注入\[6\]：
 4.  Instance: 在應用程式的生命週期內只會提供一個物件的執行個體，但生成是由開發人員負責。
 
 ASP.NET Core 也不限只能用 ASP.NET Core 本身的相依注入功能，若是有喜歡或慣用的相依注入元件 (如
-[Autofac](../Page/Autofac.md "wikilink")、[StructureMap](../Page/StructureMap.md "wikilink")
+[Autofac](https://zh.wikipedia.org/wiki/Autofac "wikilink")、[StructureMap](https://zh.wikipedia.org/wiki/StructureMap "wikilink")
 等)，也可以用它們取代內建的相依注入功能\[7\]。
 
 ### 代管 (Hosting) 方式
@@ -355,14 +357,16 @@ ASP.NET Core 以 .NET Core 的基礎發展，其目前規劃的功能有：
     (Long-Time Polling) 訊息通訊基礎建設，計畫在 ASP.NET Core 1.0.0 釋出後才會繼續進行開發。
 3.  [Entity Framework
     Core](../Page/Entity_Framework_Core.md "wikilink"): 下一代的 [ADO.NET
-    Entity Framework](../Page/ADO.NET_Entity_Framework.md "wikilink")，採用
+    Entity
+    Framework](https://zh.wikipedia.org/wiki/ADO.NET_Entity_Framework "wikilink")，採用
     .NET Core 並重新設計，為欽定的 ORM 資料存取技術。
 
 ASP.NET Core 的可用開發工具則有：
 
-  - [Visual Studio](../Page/Visual_Studio.md "wikilink")，內建有 ASP.NET
-    Core 的專案範本，也能夠使用 IDE 的功能建造與部署應用程式 (例如 Azure Web App 或是 ASP.NET
-    Docker Image on Azure 等)。
+  - [Visual
+    Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")，內建有
+    ASP.NET Core 的專案範本，也能夠使用 IDE 的功能建造與部署應用程式 (例如 Azure Web App 或是
+    ASP.NET Docker Image on Azure 等)。
 
   - [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")，跨平台的
     Visual Studio 編輯器。

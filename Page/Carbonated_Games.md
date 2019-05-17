@@ -2,52 +2,62 @@
 
 ## 旗下游戏
 
-  - *[Fable II Pub Games](../Page/Fable_II_Pub_Games.md "wikilink")* –
-    [Xbox 360](../Page/Xbox_360.md "wikilink") (2008); the last game
+  - *[Fable II Pub
+    Games](https://zh.wikipedia.org/wiki/Fable_II_Pub_Games "wikilink")*
+    – [Xbox 360](../Page/Xbox_360.md "wikilink") (2008); the last game
     created by the Carbonated studio
   - *Flowerz* – [MSN Games](../Page/MSN_Games.md "wikilink") (2008); the
     last game released under the Carbonated logo
   - *Jigsaw Too* – [MSN Games](../Page/MSN_Games.md "wikilink") (2008)
-  - *[Hexic 2](../Page/Hexic_2.md "wikilink")* – [Xbox
-    360](../Page/Xbox_360.md "wikilink") (2007)
-  - *[Aegis Wing](../Page/Aegis_Wing.md "wikilink")* – [Xbox
-    360](../Page/Xbox_360.md "wikilink") (2007)
+  - *[Hexic 2](https://zh.wikipedia.org/wiki/Hexic_2 "wikilink")* –
+    [Xbox 360](../Page/Xbox_360.md "wikilink") (2007)
+  - *[Aegis Wing](https://zh.wikipedia.org/wiki/Aegis_Wing "wikilink")*
+    – [Xbox 360](../Page/Xbox_360.md "wikilink") (2007)
   - *Rock, Paper, Scissors* – [MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink") (2007)
-  - *Tic Tac Toe* – [MSN Messenger](../Page/MSN_Messenger.md "wikilink")
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
+    (2007)
+  - *Tic Tac Toe* – [MSN
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
     (2007)
   - *Firefly* – [Microsoft
     Surface](../Page/Microsoft_Surface.md "wikilink") (2007)
   - *Hop It\!* – [MSN Games](../Page/MSN_Games.md "wikilink") (2007)
   - *Solitaire In Motion* – [MSN Games](../Page/MSN_Games.md "wikilink")
     (2007)
-  - *GoPets* – [MSN Messenger](../Page/MSN_Messenger.md "wikilink")
+  - *GoPets* – [MSN
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
     (2007)
-  - *Jigsaw* – [MSN Messenger](../Page/MSN_Messenger.md "wikilink")
+  - *Jigsaw* – [MSN
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
     (2007)
   - *Sudoku Too* – [MSN Games](../Page/MSN_Games.md "wikilink") (2007)
-  - *Sudoku* – [MSN Messenger](../Page/MSN_Messenger.md "wikilink")
+  - *Sudoku* – [MSN
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
     (2006)
   - *Solitaire Showdown* – [MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink") (2006)
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
+    (2006)
   - *Minesweeper Flags* – [MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink") (2006)
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
+    (2006)
   - *Texas Hold 'Em Poker* – [MSN
     Games](../Page/MSN_Games.md "wikilink") (2006)
-  - *[Uno](../Page/Uno_\(video_game\).md "wikilink")* – [Xbox
+  - *[Uno](https://zh.wikipedia.org/wiki/Uno_\(video_game\) "wikilink")*
+    – [Xbox 360](../Page/Xbox_360.md "wikilink"), [MSN
+    Games](../Page/MSN_Games.md "wikilink"), [MSN
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
+    (2006)
+  - *[Hexic](https://zh.wikipedia.org/wiki/Hexic "wikilink")* – [Xbox
     360](../Page/Xbox_360.md "wikilink"), [MSN
     Games](../Page/MSN_Games.md "wikilink"), [MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink") (2006)
-  - *[Hexic](../Page/Hexic.md "wikilink")* – [Xbox
-    360](../Page/Xbox_360.md "wikilink"), [MSN
-    Games](../Page/MSN_Games.md "wikilink"), [MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink") (2005)
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
+    (2005)
   - *Catan: The Computer Game* – [MSN
     Games](../Page/MSN_Games.md "wikilink") (2005)
   - *You Know It\! Trivia* – [MSN
     Games](../Page/MSN_Games.md "wikilink") (2005)
   - *7 Hand Poker* – [MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink")
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
   - *Mozaki Blocks* – [MSN Games](../Page/MSN_Games.md "wikilink")
 
 ## 外部链接

@@ -1,8 +1,8 @@
 **NBC體育**（NBC
-Sports）是[美國](../Page/美國.md "wikilink")[電視網](../Page/電視.md "wikilink")[NBC播出的](../Page/全國廣播公司.md "wikilink")[體育節目的總稱](../Page/體育.md "wikilink")。NBC擁有轉播權的主要體育賽事包括[奧運會](../Page/奧運會.md "wikilink")、[NFL](../Page/NFL.md "wikilink")、[NASCAR](../Page/全國運動汽車競賽協會.md "wikilink")、[NHL](../Page/NHL.md "wikilink")、[Notre
+Sports）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電視網](https://zh.wikipedia.org/wiki/電視 "wikilink")[NBC播出的](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")[體育節目的總稱](https://zh.wikipedia.org/wiki/體育 "wikilink")。NBC擁有轉播權的主要體育賽事包括[奧運會](https://zh.wikipedia.org/wiki/奧運會 "wikilink")、[NFL](https://zh.wikipedia.org/wiki/NFL "wikilink")、[NASCAR](../Page/全國運動汽車競賽協會.md "wikilink")、[NHL](https://zh.wikipedia.org/wiki/NHL "wikilink")、[Notre
 Dame
-football](../Page/Notre_Dame_football.md "wikilink")、[PGA巡迴賽](../Page/PGA巡迴賽.md "wikilink")、[IndyCar
-Series](../Page/IndyCar_Series.md "wikilink")、[英超聯賽和](../Page/英超聯賽.md "wikilink")[三冠馬術](../Page/United_States_Triple_Crown_of_Thoroughbred_Racing.md "wikilink")。2011年，Comcast併購了[NBC環球](../Page/NBC環球.md "wikilink")，旗下的體育品牌也進行了整合\[1\]\[2\]。NBC體育還運營有自己的體育頻道[NBCSN和](../Page/NBCSN.md "wikilink")[高爾夫台](../Page/高爾夫台.md "wikilink")。
+football](https://zh.wikipedia.org/wiki/Notre_Dame_football "wikilink")、[PGA巡迴賽](https://zh.wikipedia.org/wiki/PGA巡迴賽 "wikilink")、[IndyCar
+Series](https://zh.wikipedia.org/wiki/IndyCar_Series "wikilink")、[英超聯賽和](https://zh.wikipedia.org/wiki/英超聯賽 "wikilink")[三冠馬術](https://zh.wikipedia.org/wiki/United_States_Triple_Crown_of_Thoroughbred_Racing "wikilink")。2011年，Comcast併購了[NBC環球](../Page/NBC環球.md "wikilink")，旗下的體育品牌也進行了整合\[1\]\[2\]。NBC體育還運營有自己的體育頻道[NBCSN和](../Page/NBCSN.md "wikilink")[高爾夫台](../Page/高爾夫台.md "wikilink")。
 
 ## 參考資料
 

@@ -1,10 +1,10 @@
-《**I**》是[韓國](../Page/韓國.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")（[韓國](../Page/韓國.md "wikilink")[女子組合](../Page/女子組合.md "wikilink")[少女時代](../Page/少女時代.md "wikilink")）[太妍的首張迷你專輯](../Page/金泰耎.md "wikilink")，由[SM
-Entertainment於](../Page/SM_Entertainment.md "wikilink")2015年10月8日發行。
+《**I**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）[太妍的首張迷你專輯](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")，由[SM
+Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2015年10月8日發行。
 
 ## 發行
 
 2015年中，[SM
-Entertainment宣布](../Page/SM_Entertainment.md "wikilink")，太妍將在今年發行她的首張個人專輯。9月30日，SM
+Entertainment宣布](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，太妍將在今年發行她的首張個人專輯。9月30日，SM
 Entertainment表示她的首張SOLO專輯《I》將於10月7日公開全曲音源。將自己最真實的感情、對未來的決心等等寫了進去，嘻哈歌手Verbal
 Jint參與說唱。
 
@@ -12,11 +12,11 @@ Jint參與說唱。
 
 ## 發行歷史
 
-|      |            |                                                                     |                                                            |          |
-| ---- | ---------- | ------------------------------------------------------------------- | ---------------------------------------------------------- | -------- |
-| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司                                                       | 發行公司     |
-| 全球   | 2015年10月8日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [SM Entertainment](../Page/SM_Entertainment.md "wikilink") | KT Music |
-|      |            |                                                                     |                                                            |          |
+|      |            |                                                                     |                                                                               |          |
+| ---- | ---------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------- |
+| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司                                                                          | 發行公司     |
+| 全球   | 2015年10月8日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink") | KT Music |
+|      |            |                                                                     |                                                                               |          |
 
 ## 音樂節目獎項
 
@@ -45,80 +45,80 @@ Jint參與說唱。
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>10月15日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>10月16日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>10月18日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>10月22日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>10月23日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>10月24日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>10月25日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>10月29日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>10月30日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>11月22日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 </tr>

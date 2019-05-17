@@ -1,18 +1,18 @@
 《**White
-Light**》是日本樂團[Superfly的歌曲](../Page/Superfly.md "wikilink")。樂曲是[万代南梦宫遊戲](../Page/万代南梦宫游戏.md "wikilink")《[熱情傳奇](../Page/熱情傳奇.md "wikilink")》的主題曲，2015年1月21日作为單曲數位發行，也是Superfly第五張錄音室專輯《[White](../Page/White_\(Superfly專輯\).md "wikilink")》的主打歌曲\[1\]。
+Light**》是日本樂團[Superfly的歌曲](../Page/Superfly.md "wikilink")。樂曲是[万代南梦宫遊戲](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")《[熱情傳奇](../Page/熱情傳奇.md "wikilink")》的主題曲，2015年1月21日作为單曲數位發行，也是Superfly第五張錄音室專輯《[White](https://zh.wikipedia.org/wiki/White_\(Superfly專輯\) "wikilink")》的主打歌曲\[1\]。
 
 ## 背景與製作
 
-2014年Superfly發行了兩張單曲《Live》和《[讓愛遍布全身](../Page/讓愛遍布全身.md "wikilink")》。前者是電影《[黑金丑島君](../Page/黑金丑島君.md "wikilink")》的主題曲，後者為電視劇《[Doctor-X](../Page/Doctor-X.md "wikilink")》第三季的主題曲\[2\]\[3\]。
+2014年Superfly發行了兩張單曲《Live》和《[讓愛遍布全身](https://zh.wikipedia.org/wiki/讓愛遍布全身 "wikilink")》。前者是電影《[黑金丑島君](../Page/黑金丑島君.md "wikilink")》的主題曲，後者為電視劇《[Doctor-X](https://zh.wikipedia.org/wiki/Doctor-X "wikilink")》第三季的主題曲\[2\]\[3\]。
 
 Superfly之前只有《Eyes on
-Me》一首遊戲歌曲，用於[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")2010年遊戲《[第三次生日](../Page/第三次生日.md "wikilink")》。Superfly主唱越智志帆看過《熱情傳奇》劇本后開始創作遊戲歌詞，她聯想到同其他音樂家的合作創作，稱對「戰鬥中互相尊重對方的感情」很有同感。她稱樂曲創作主題為，白色不會去染任何顏色，但會被任何顏色染上\[4\]。
+Me》一首遊戲歌曲，用於[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")2010年遊戲《[第三次生日](../Page/第三次生日.md "wikilink")》。Superfly主唱越智志帆看過《熱情傳奇》劇本后開始創作遊戲歌詞，她聯想到同其他音樂家的合作創作，稱對「戰鬥中互相尊重對方的感情」很有同感。她稱樂曲創作主題為，白色不會去染任何顏色，但會被任何顏色染上\[4\]。
 
 ## 宣傳與推出
 
 2014年9月，歌曲以《熱情傳奇》主題曲身分公佈，並用於遊戲宣傳\[5\]。歌曲在遊戲發行前一日，以單曲形式在日本數位銷售\[6\]。Superfly在1月23日的「[Music
-Station](../Page/Music_Station.md "wikilink")」節目現場演出歌曲，後於2月1日的「[Music
-Japan](../Page/Music_Japan.md "wikilink")」中再次演出\[7\]\[8\]。
+Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」節目現場演出歌曲，後於2月1日的「[Music
+Japan](https://zh.wikipedia.org/wiki/Music_Japan "wikilink")」中再次演出\[7\]\[8\]。
 
 ## 音樂影片
 
@@ -22,10 +22,10 @@ Japan](../Page/Music_Japan.md "wikilink")」中再次演出\[7\]\[8\]。
 
 ## 榜單
 
-| 榜單（2015）                                                                            | 最高排名 |
-| ----------------------------------------------------------------------------------- | ---- |
-| Japan [Billboard](../Page/Billboard.md "wikilink") Adult Contemporary Airplay\[11\] | 19   |
-| [日本熱門100金曲榜](../Page/日本熱門100金曲榜.md "wikilink")\[12\]                                | 25   |
+| 榜單（2015）                                                                                               | 最高排名 |
+| ------------------------------------------------------------------------------------------------------ | ---- |
+| Japan [Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink") Adult Contemporary Airplay\[11\] | 19   |
+| [日本熱門100金曲榜](https://zh.wikipedia.org/wiki/日本熱門100金曲榜 "wikilink")\[12\]                                | 25   |
 
 ## 發行歷史
 

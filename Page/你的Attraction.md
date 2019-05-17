@@ -1,5 +1,5 @@
 **名為妳的遊樂設施**（****），是日本男子演唱團體[Hey\! Say\!
-JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")15張[單曲](../Page/單曲.md "wikilink")。於2015年10月21日由[J
+JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2015年10月21日由[J
 Storm發售](../Page/J_Storm.md "wikilink")。
 
 ## 概要

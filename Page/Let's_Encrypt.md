@@ -1,10 +1,10 @@
 **Let's
-Encrypt**是一个于2015年三季度推出的[数字证书认证机构](../Page/数字证书认证机构.md "wikilink")，旨在以自动化流程消除手动创建和安装证书的复杂流程，並推廣使[萬維網服務器的加密連接無所不在](../Page/萬維網.md "wikilink")，为安全网站提供免费的[SSL](../Page/SSL.md "wikilink")/[TLS证书](../Page/TLS.md "wikilink")。\[1\]\[2\]
+Encrypt**是一个于2015年三季度推出的[数字证书认证机构](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")，旨在以自动化流程消除手动创建和安装证书的复杂流程，並推廣使[萬維網服務器的加密連接無所不在](https://zh.wikipedia.org/wiki/萬維網 "wikilink")，为安全网站提供免费的[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")/[TLS证书](https://zh.wikipedia.org/wiki/TLS "wikilink")。\[1\]\[2\]
 
 ## 介紹
 
 Let's
-Encrypt由（缩写ISRG）提供服务。主要赞助商包括[电子前哨基金会](../Page/电子前哨基金会.md "wikilink")、[Mozilla基金会](../Page/Mozilla基金会.md "wikilink")、[Akamai以及](../Page/Akamai.md "wikilink")[思科](../Page/思科.md "wikilink")。2015年4月9日，ISRG与[Linux基金會宣布合作](../Page/Linux基金會.md "wikilink")。\[3\]
+Encrypt由（缩写ISRG）提供服务。主要赞助商包括[电子前哨基金会](../Page/电子前哨基金会.md "wikilink")、[Mozilla基金会](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")、[Akamai以及](https://zh.wikipedia.org/wiki/Akamai "wikilink")[思科](https://zh.wikipedia.org/wiki/思科 "wikilink")。2015年4月9日，ISRG与[Linux基金會宣布合作](../Page/Linux基金會.md "wikilink")。\[3\]
 
 用以实现新的数字证书认证机构的协议被称为自动证书管理环境（ACME）。\[4\][GitHub上有这一规范的草案](../Page/GitHub.md "wikilink")，\[5\]\[6\]且提案的一个版本已作为一个[Internet草案发布](../Page/RFC.md "wikilink")。\[7\]
 
@@ -25,13 +25,13 @@ Let's Encrypt宣称这一过程将十分简单、自动化并且免费。\[8\]
 ## 技术
 
 2015年6月，Let's
-Encrypt得到了一个存储在[硬件安全模块中的离线的](../Page/硬件安全模块.md "wikilink")[RSA根证书](../Page/RSA加密演算法.md "wikilink")。这个由IdenTrust证书签发机构交叉签名的根证书，被用于签署两个证书。其中一个就是用于签发请求的证书，另一个则是保存在本地的证书，这个证书用于在上一个证书出问题时作备份证书之用。因为IdenTrust的CA根证书目前已被预置于主流浏览器中，所以Let's
+Encrypt得到了一个存储在[硬件安全模块中的离线的](https://zh.wikipedia.org/wiki/硬件安全模块 "wikilink")[RSA根证书](../Page/RSA加密演算法.md "wikilink")。这个由IdenTrust证书签发机构交叉签名的根证书，被用于签署两个证书。其中一个就是用于签发请求的证书，另一个则是保存在本地的证书，这个证书用于在上一个证书出问题时作备份证书之用。因为IdenTrust的CA根证书目前已被预置于主流浏览器中，所以Let's
 Encrypt签发的证书可以从项目开始时就被识别并接受，甚至在用户的浏览器中没有信任ISRG的根证书时也没问题\[15\]。为了解决对[Windows
 XP的兼容性](../Page/Windows_XP.md "wikilink")，目前Let's
 Encrypt已经获取了另外两个根证书，原来的证书作为备用。\[16\]
 
 Let's
-Encrypt的开发者们本计划在2015年年末推出签发[ECDSA根证书的服务](../Page/ECDSA.md "wikilink")，但该计划已经经历三次推迟，目前定于2018年3月前完成。\[17\]
+Encrypt的开发者们本计划在2015年年末推出签发[ECDSA根证书的服务](https://zh.wikipedia.org/wiki/ECDSA "wikilink")，但该计划已经经历三次推迟，目前定于2018年3月前完成。\[17\]
 
 2017年6月，Let's Encrypt宣布将于2018年1月启用ACME v2 API。\[18\]
 

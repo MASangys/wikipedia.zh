@@ -3,7 +3,7 @@ JavaScript 函式庫，以及CartoCSS地圖格式化語言與語法分析器等�
 
 ## 資料來源與技術
 
-該公司的資料同時從開放與專有的來源取得，開放的資料來源如[開放街圖以及](../Page/開放街圖.md "wikilink")[NASA等](../Page/美国国家航空航天局.md "wikilink")，而專有的資料來源則包含了[DigitalGlobe](../Page/DigitalGlobe.md "wikilink")\[3\]\[4\]。其技術奠基於[Node.js](../Page/Node.js.md "wikilink")\[5\]、[CouchDB](../Page/CouchDB.md "wikilink")、[Mapnik](../Page/Mapnik.md "wikilink")、與Leafletjs。
+該公司的資料同時從開放與專有的來源取得，開放的資料來源如[開放街圖以及](../Page/開放街圖.md "wikilink")[NASA等](../Page/美国国家航空航天局.md "wikilink")，而專有的資料來源則包含了[DigitalGlobe](https://zh.wikipedia.org/wiki/DigitalGlobe "wikilink")\[3\]\[4\]。其技術奠基於[Node.js](../Page/Node.js.md "wikilink")\[5\]、[CouchDB](https://zh.wikipedia.org/wiki/CouchDB "wikilink")、[Mapnik](https://zh.wikipedia.org/wiki/Mapnik "wikilink")、與Leafletjs。
 
 Mapbox從其使用者所使用的客戶端（包含了Strava及RunKeeper等）擷取GPS軌跡，來自動辨識在[開放街圖中遺失的資料](../Page/開放街圖.md "wikilink")，然後手動套用修復或是回報問題給OSM貢獻者\[6\]\[7\]。
 

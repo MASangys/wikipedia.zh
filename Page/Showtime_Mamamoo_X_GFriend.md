@@ -1,5 +1,5 @@
 《**SHOWTIME MAMAMOO X
-GFRIEND**》（）是[韓國](../Page/大韓民國.md "wikilink")的[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](../Page/女子音樂組合.md "wikilink")[MAMAMOO和](../Page/MAMAMOO.md "wikilink")[GFRIEND成員共同拍攝](../Page/GFRIEND.md "wikilink")\[1\]，2016年7月7日起逢星期四[韓國時間](../Page/韓國標準時.md "wikilink")18:00至19:00播出。
+GFRIEND**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")的[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO和](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[GFRIEND成員共同拍攝](../Page/GFRIEND.md "wikilink")\[1\]，2016年7月7日起逢星期四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18:00至19:00播出。
 
 ## 節目介紹
 
@@ -7,14 +7,14 @@ SHOWTIME初次的合作真人-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-，2016年歌�
 
 ## 演出成員
 
-  - [MAMAMOO](../Page/MAMAMOO.md "wikilink")
+  - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")
 
 <!-- end list -->
 
-  - [頌樂](../Page/頌樂.md "wikilink")
-  - [玟星](../Page/玟星.md "wikilink")
-  - [輝人](../Page/輝人.md "wikilink")
-  - [華莎](../Page/安惠真.md "wikilink")
+  - [頌樂](https://zh.wikipedia.org/wiki/頌樂 "wikilink")
+  - [玟星](https://zh.wikipedia.org/wiki/玟星 "wikilink")
+  - [輝人](https://zh.wikipedia.org/wiki/輝人 "wikilink")
+  - [華莎](https://zh.wikipedia.org/wiki/安惠真 "wikilink")
 
 <!-- end list -->
 
@@ -23,11 +23,11 @@ SHOWTIME初次的合作真人-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-，2016年歌�
 <!-- end list -->
 
   - [Sowon](../Page/Sowon.md "wikilink")
-  - [Yerin](../Page/鄭睿隣.md "wikilink")
-  - [Eunha](../Page/丁恩妃.md "wikilink")
+  - [Yerin](https://zh.wikipedia.org/wiki/鄭睿隣 "wikilink")
+  - [Eunha](https://zh.wikipedia.org/wiki/丁恩妃 "wikilink")
   - [Yuju](../Page/Yuju.md "wikilink")
   - [SinB](../Page/SinB.md "wikilink")
-  - [Umji](../Page/金藝源.md "wikilink")
+  - [Umji](https://zh.wikipedia.org/wiki/金藝源 "wikilink")
 
 ## 每集列表
 
@@ -122,11 +122,13 @@ Umji因為試造型時受傷而缺席MV錄影。</p></td>
 
 1.  《[EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")》（2013－2014年）
 2.  《[SHOWTIME - Burning the
-    BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")》（2014年）
-3.  《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》（2014年）
+    BEAST](https://zh.wikipedia.org/wiki/SHOWTIME_-_Burning_the_BEAST "wikilink")》（2014年）
+3.  《[Apink's
+    SHOWTIME](https://zh.wikipedia.org/wiki/Apink's_SHOWTIME "wikilink")》（2014年）
 4.  《[Sistar's
-    SHOWTIME](../Page/Sistar's_SHOWTIME.md "wikilink")》（2015年）
-5.  《[EXID's SHOWTIME](../Page/EXID's_SHOWTIME.md "wikilink")》（2015年）
+    SHOWTIME](https://zh.wikipedia.org/wiki/Sistar's_SHOWTIME "wikilink")》（2015年）
+5.  《[EXID's
+    SHOWTIME](https://zh.wikipedia.org/wiki/EXID's_SHOWTIME "wikilink")》（2015年）
 6.  《[SHOWTIME
     Infinite](../Page/SHOWTIME_Infinite.md "wikilink")》（2015－2016年）
 7.  《**Showtime Mamamoo X GFriend**》（2016年）

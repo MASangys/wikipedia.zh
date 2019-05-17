@@ -26,8 +26,8 @@ Creations。\[1\]\[2\]
 <tr class="odd">
 <td><p><em></em></p></td>
 <td><p>1990年</p></td>
-<td><p><a href="../Page/动作游戏.md" title="wikilink">动作</a><a href="../Page/射击游戏.md" title="wikilink">射击</a></p></td>
-<td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a>、<a href="../Page/雅達利ST.md" title="wikilink">雅達利ST</a>、<a href="../Page/Mega_Drive.md" title="wikilink">Mega Drive</a></p></td>
+<td><p><a href="../Page/动作游戏.md" title="wikilink">动作</a><a href="https://zh.wikipedia.org/wiki/射击游戏" title="wikilink">射击</a></p></td>
+<td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a>、<a href="https://zh.wikipedia.org/wiki/雅達利ST" title="wikilink">雅達利ST</a>、<a href="../Page/Mega_Drive.md" title="wikilink">Mega Drive</a></p></td>
 <td><p>、<a href="../Page/艺电.md" title="wikilink">艺电</a></p></td>
 <td><p>以《Fatal Rewind》之名由艺电在<a href="../Page/Mega_Drive.md" title="wikilink">Mega Drive上重新发售</a></p></td>
 </tr>
@@ -60,8 +60,8 @@ Creations。\[1\]\[2\]
 <td><p>一级方程-{}-式<br />
 <em></em></p></td>
 <td><p>1996年</p></td>
-<td><p><a href="../Page/竞速游戏.md" title="wikilink">竞速</a></p></td>
-<td><p><a href="../Page/PlayStation_(遊戲機).md" title="wikilink">PlayStation</a>、<a href="../Page/Windows.md" title="wikilink">Windows</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竞速游戏" title="wikilink">竞速</a></p></td>
+<td><p><a href="../Page/PlayStation_(遊戲機).md" title="wikilink">PlayStation</a>、<a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a></p></td>
 <td><p>Psygnosis</p></td>
 <td></td>
 </tr>
@@ -87,8 +87,8 @@ Creations。\[1\]\[2\]
 <td><p>玩具战士<br />
 <em></em></p></td>
 <td><p>2000年</p></td>
-<td><p><a href="../Page/第三人称射击游戏.md" title="wikilink">第三人称射击</a></p></td>
-<td><p>Dreamcast、<a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a>、Windows、<a href="../Page/iPad.md" title="wikilink">iPad</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第三人称射击游戏" title="wikilink">第三人称射击</a></p></td>
+<td><p>Dreamcast、<a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a>、Windows、<a href="https://zh.wikipedia.org/wiki/iPad" title="wikilink">iPad</a></p></td>
 <td></td>
 <td><p>2012年在iPad上由原Bizarre Creations成员推出了复刻版游戏[3]</p></td>
 </tr>
@@ -98,7 +98,7 @@ Creations。\[1\]\[2\]
 <td><p>2001年</p></td>
 <td><p>竞速</p></td>
 <td><p><a href="../Page/Xbox_(遊戲機).md" title="wikilink">Xbox</a></p></td>
-<td><p><a href="../Page/微软游戏工作室.md" title="wikilink">微软游戏工作室</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/微软游戏工作室" title="wikilink">微软游戏工作室</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -107,7 +107,7 @@ Treasure Planet</p></td>
 <td><p>2002年</p></td>
 <td><p>平台</p></td>
 <td><p>PlayStation、PlayStation 2、<a href="../Page/Game_Boy_Advance.md" title="wikilink">Game Boy Advance</a></p></td>
-<td><p><a href="../Page/索尼电脑娱乐.md" title="wikilink">索尼电脑娱乐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼电脑娱乐" title="wikilink">索尼电脑娱乐</a></p></td>
 <td><p>迪士尼同名电影改编游戏</p></td>
 </tr>
 <tr class="odd">
@@ -132,7 +132,7 @@ Treasure Planet</p></td>
 <td><p>几何战争 复古进化<br />
 <em></em></p></td>
 <td><p>2005年</p></td>
-<td><p><a href="../Page/清版射击游戏.md" title="wikilink">清版射击</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清版射击游戏" title="wikilink">清版射击</a></p></td>
 <td><p>Xbox 360 Live Arcade</p></td>
 <td><p>微软游戏工作室</p></td>
 <td><p>原作是《哥谭赛车计划2》中的一个小游戏</p></td>
@@ -187,7 +187,7 @@ Treasure Planet</p></td>
 <em></em></p></td>
 <td><p>2010年</p></td>
 <td><p>清版射击</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
 <td><p><a href="../Page/动视.md" title="wikilink">动视</a></p></td>
 <td></td>
 </tr>

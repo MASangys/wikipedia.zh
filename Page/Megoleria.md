@@ -1,9 +1,11 @@
-***Megoleria***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](../Page/屬_\(生物\).md "wikilink")，尚無正式中文學名命名。幼蟲取食[苦苣苔科植物](../Page/苦苣苔科.md "wikilink")\[1\]。
+***Megoleria***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族中的一個](../Page/綃蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，尚無正式中文學名命名。幼蟲取食[苦苣苔科植物](../Page/苦苣苔科.md "wikilink")\[1\]。
 
 ## 物種
 
-  - [山民油綃蝶](../Page/山民油綃蝶.md "wikilink") *Megoleria orestilla*
-  - [蘇西油綃蝶](../Page/蘇西油綃蝶.md "wikilink") *Megoleria susiana*
+  - [山民油綃蝶](https://zh.wikipedia.org/wiki/山民油綃蝶 "wikilink") *Megoleria
+    orestilla*
+  - [蘇西油綃蝶](https://zh.wikipedia.org/wiki/蘇西油綃蝶 "wikilink") *Megoleria
+    susiana*
 
 ## 參考文獻
 

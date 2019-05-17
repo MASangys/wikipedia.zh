@@ -4,21 +4,21 @@ caption = | collapsible = | developer =
 status = 活跃 | latest release version = 1.8.2 | latest release date =  |
 latest preview version = | latest preview date = | operating_system = |
 programming language = | genre =
-[远程过程调用框架](../Page/远程过程调用.md "wikilink") |
-license = [Apache许可证](../Page/Apache许可证.md "wikilink") 2.0 | website =
+[远程过程调用框架](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")
+| license = [Apache许可证](../Page/Apache许可证.md "wikilink") 2.0 | website =
 <http://avro.apache.org/> }}
 
-**Avro**是一种[远程过程调用和数据](../Page/远程过程调用.md "wikilink")[序列化框架](../Page/序列化.md "wikilink")，是在[Apache的](../Page/Apache.md "wikilink")[Hadoop项目之内开发的](../Page/Hadoop.md "wikilink")。它使用[JSON来定义数据类型和](../Page/JSON.md "wikilink")[通讯协议](../Page/通讯协议.md "wikilink")，使用压缩二进制格式来序列化数据。它主要用于Hadoop，它可以为持久化数据提供一种序列化格式，并为Hadoop节点间及从客户端程序到Hadoop服务的通讯提供一种电报格式。
+**Avro**是一种[远程过程调用和数据](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")[序列化框架](../Page/序列化.md "wikilink")，是在[Apache的](https://zh.wikipedia.org/wiki/Apache "wikilink")[Hadoop项目之内开发的](https://zh.wikipedia.org/wiki/Hadoop "wikilink")。它使用[JSON来定义数据类型和](../Page/JSON.md "wikilink")[通讯协议](https://zh.wikipedia.org/wiki/通讯协议 "wikilink")，使用压缩二进制格式来序列化数据。它主要用于Hadoop，它可以为持久化数据提供一种序列化格式，并为Hadoop节点间及从客户端程序到Hadoop服务的通讯提供一种电报格式。
 
 它类似于[Thrift](../Page/Thrift.md "wikilink")，但当{{ link-en | 数据库模式 |
 Database schema
-}}改变时，它不要求运行代码生成程序，除非是对[静态类型的语言](../Page/静态类型.md "wikilink")。
+}}改变时，它不要求运行代码生成程序，除非是对[静态类型的语言](https://zh.wikipedia.org/wiki/静态类型 "wikilink")。
 
 ## 已有API的语言
 
 虽然理论上任何语言都可以使用Avro，但是以下语言有专门为其编写的API：\[1\]\[2\]
 
-  - [C](../Page/C语言.md "wikilink")
+  - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
   - [C++](../Page/C++.md "wikilink")
   - [C\#](../Page/C♯.md "wikilink")\[3\]\[4\]\[5\]
   - [Go](../Page/Go.md "wikilink")
@@ -40,10 +40,11 @@ Buffers等的格式](../Page/Protocol_Buffers.md "wikilink")，以吸引那些�
 {{ Portal | Free software }}
 
   - {{ link-en | 数据序列化格式比较 | Comparison of data serialization formats }}
-  - [Apache Thrift](../Page/Apache_Thrift.md "wikilink")
+  - [Apache
+    Thrift](https://zh.wikipedia.org/wiki/Apache_Thrift "wikilink")
   - [Google的Protocol](../Page/Google.md "wikilink") Buffers
-  - [Cisco的](../Page/Cisco.md "wikilink"){{ link-en | Etch | Etch
-    (protocol) }}
+  - [Cisco的](https://zh.wikipedia.org/wiki/Cisco "wikilink"){{ link-en |
+    Etch | Etch (protocol) }}
   - {{ link-en | ZeroC | ZeroC
     }}的[ICE](../Page/ICE_\(中间件\).md "wikilink")
   - {{ link-en | MessagePack | MessagePack }}

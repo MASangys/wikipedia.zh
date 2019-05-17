@@ -1,4 +1,4 @@
-《**Highlight**》是[韓國男子組合](../Page/韓國.md "wikilink")[Highlight的第三張正規專輯](../Page/Highlight_\(韓國組合\).md "wikilink")，本作亦是成員[張賢勝退出組合後](../Page/張賢勝.md "wikilink")，首次以五人之姿發行的作品。由[Cube娛樂企劃](../Page/Cube娛樂.md "wikilink")，2016年6月27日公開先行曲〈Butterfly〉，專輯則於隊長[尹斗俊生日](../Page/尹斗俊.md "wikilink")7月4日由[環球音樂發行](../Page/環球音樂.md "wikilink")\[1\]，主打曲為〈Ribbon〉（）。
+《**Highlight**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第三張正規專輯](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")，本作亦是成員[張賢勝退出組合後](../Page/張賢勝.md "wikilink")，首次以五人之姿發行的作品。由[Cube娛樂企劃](../Page/Cube娛樂.md "wikilink")，2016年6月27日公開先行曲〈Butterfly〉，專輯則於隊長[尹斗俊生日](../Page/尹斗俊.md "wikilink")7月4日由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")\[1\]，主打曲為〈Ribbon〉（）。
 
 ## 概要
 
@@ -31,7 +31,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>韓國<a href="../Page/Gaon_Chart.md" title="wikilink">Gaon Chart</a></p></td>
+<td><p>韓國<a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon Chart</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -199,11 +199,11 @@
 
 ### 專輯榜
 
-| 排行榜（2016年）                                    | 最高名次 | 銷售        | 引用資料  |
-| --------------------------------------------- | ---- | --------- | ----- |
-| 週榜                                            | 月榜   | 年榜        |       |
-| 韓國[gaon專輯榜](../Page/Gaon_Chart.md "wikilink") | 1    | 2         | 37    |
-| 臺灣5大唱片                                        | 2    | colspan=2 | 9.99% |
+| 排行榜（2016年）                                                       | 最高名次 | 銷售        | 引用資料  |
+| ---------------------------------------------------------------- | ---- | --------- | ----- |
+| 週榜                                                               | 月榜   | 年榜        |       |
+| 韓國[gaon專輯榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") | 1    | 2         | 37    |
+| 臺灣5大唱片                                                           | 2    | colspan=2 | 9.99% |
 
 ### 韓國音源榜
 
@@ -223,9 +223,9 @@
 
 ## 發行歷史
 
-| 地區 | 日期        | 廠牌                                                                        | 形式                                                                    |
-| -- | --------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 韓國 | 2016年7月4日 | [Cube娛樂](../Page/Cube娛樂.md "wikilink")、[環球音樂](../Page/環球音樂.md "wikilink") | [CD](../Page/CD.md "wikilink")、[數位音樂下載](../Page/數位音樂下載.md "wikilink") |
+| 地區 | 日期        | 廠牌                                                                                           | 形式                                                                    |
+| -- | --------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 韓國 | 2016年7月4日 | [Cube娛樂](../Page/Cube娛樂.md "wikilink")、[環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink") | [CD](../Page/CD.md "wikilink")、[數位音樂下載](../Page/數位音樂下載.md "wikilink") |
 
 ## 註釋
 

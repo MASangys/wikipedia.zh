@@ -1,13 +1,14 @@
 {{ Infobox Calculator | name = HP 9g | image = HP 9g graphing
 calculator.jpg | caption = 一台HP 9g | type =
 [图形计算器](../Page/图形计算器.md "wikilink") | entry =
-[Algebraic](../Page/Algebraic.md "wikilink") | introduced = | cost =
-$39-$45 | manufacturer =
-[Hewlett-Packard](../Page/Hewlett-Packard.md "wikilink") | precision =
-至24位数\[1\] | display_type =
-[LCD](../Page/Liquid_crystal_display.md "wikilink") | display_size = |
-processor = | memory_data = 400 bytes [RAM](../Page/RAM.md "wikilink")
-| memory_step = | supply = 1x [CR2025](../Page/CR2025.md "wikilink") |
+[Algebraic](https://zh.wikipedia.org/wiki/Algebraic "wikilink") |
+introduced = | cost = $39-$45 | manufacturer =
+[Hewlett-Packard](https://zh.wikipedia.org/wiki/Hewlett-Packard "wikilink")
+| precision = 至24位数\[1\] | display_type =
+[LCD](https://zh.wikipedia.org/wiki/Liquid_crystal_display "wikilink") |
+display_size = | processor = | memory_data = 400 bytes
+[RAM](https://zh.wikipedia.org/wiki/RAM "wikilink") | memory_step = |
+supply = 1x [CR2025](https://zh.wikipedia.org/wiki/CR2025 "wikilink") |
 power = 6mW | weight = 3.99oz (124g) | dimensions = 155x 81 x 13.7 }}
 
 **HP 9g**
@@ -17,17 +18,18 @@ power = 6mW | weight = 3.99oz (124g) | dimensions = 155x 81 x 13.7 }}
 
 ## 硬件规格
 
-  - [CPU](../Page/CPU.md "wikilink") -
-    [Sunplus](../Page/Sunplus.md "wikilink")
-    [SPLB30A](../Page/Sunplus_SPLB30A.md "wikilink") （aka
-    [Generalplus](../Page/Generalplus.md "wikilink")
-    [GPLB30A](../Page/Generalplus_GPLB30A.md "wikilink")）
-  - [内存寄存器](../Page/内存.md "wikilink") - 26
+  - [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink") -
+    [Sunplus](https://zh.wikipedia.org/wiki/Sunplus "wikilink")
+    [SPLB30A](https://zh.wikipedia.org/wiki/Sunplus_SPLB30A "wikilink")
+    （aka
+    [Generalplus](https://zh.wikipedia.org/wiki/Generalplus "wikilink")
+    [GPLB30A](https://zh.wikipedia.org/wiki/Generalplus_GPLB30A "wikilink")）
+  - [内存寄存器](https://zh.wikipedia.org/wiki/内存 "wikilink") - 26
 
 ## 参考
 
   - [惠普图形计算器对比](../Page/惠普图形计算器对比.md "wikilink")
-  - [HP 39/40系列](../Page/HP_39/40系列.md "wikilink")
+  - [HP 39/40系列](https://zh.wikipedia.org/wiki/HP_39/40系列 "wikilink")
 
 ## 脚注
 

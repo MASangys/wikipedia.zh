@@ -1,8 +1,8 @@
 **Microsoft Word Viewer**是一個可以在[Microsoft
-Windows執行的](../Page/Microsoft_Windows.md "wikilink")[免費軟體](../Page/免費軟體.md "wikilink")，並且可以檢視和列印[Microsoft
-Word的文件](../Page/Microsoft_Word.md "wikilink")。 這個軟體可以從[Microsoft網站上免費下載](../Page/Microsoft.md "wikilink")。\[1\]
+Windows執行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[免費軟體](../Page/免費軟體.md "wikilink")，並且可以檢視和列印[Microsoft
+Word的文件](../Page/Microsoft_Word.md "wikilink")。 這個軟體可以從[Microsoft網站上免費下載](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。\[1\]
 Word
-Viewer可以從被開啟的Word文件中複製其內容，然後在[Word文件內貼上](../Page/Word.md "wikilink")。\[2\]
+Viewer可以從被開啟的Word文件中複製其內容，然後在[Word文件內貼上](https://zh.wikipedia.org/wiki/Word "wikilink")。\[2\]
 
 ## 支援的格式
 
@@ -16,7 +16,7 @@ Microsoft Word Viewer支援下列的格式：
   - [HTML](../Page/HTML.md "wikilink") (.htm, .html) and
     [MHTML](../Page/MHTML.md "wikilink") (.mht, .mhtml)
   - [Word
-    XML格式](../Page/Microsoft_Office_XML_formats.md "wikilink")(.xml)
+    XML格式](https://zh.wikipedia.org/wiki/Microsoft_Office_XML_formats "wikilink")(.xml)
   - [WordPerfect](../Page/WordPerfect.md "wikilink") v5.x 和 v6.x 檔案
     (.wpd)
   - [Microsoft Works](../Page/Microsoft_Works.md "wikilink") 文件 (.wps)
@@ -41,7 +41,8 @@ Online或](../Page/Office_Online.md "wikilink")[WordPad](../Page/WordPad.md "wik
 7或更高版本中可以建立、查看和編輯Office Open
 XML文件（.DOCX），而且還支援RTF格式（.rtf）和文本文件格式（.txt）。\[7\]\[8\]
 
-Word Viewer沒有可在[Windows系統執行以外的版本](../Page/Windows.md "wikilink")。
+Word
+Viewer沒有可在[Windows系統執行以外的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 參見
 
@@ -49,7 +50,7 @@ Word Viewer沒有可在[Windows系統執行以外的版本](../Page/Windows.md "
   - [Microsoft PowerPoint
     Viewer](../Page/Microsoft_PowerPoint.md "wikilink")
   - [文字處理器列表](../Page/文字處理器列表.md "wikilink")
-  - [文字處理器比較](../Page/文字處理器比較.md "wikilink")
+  - [文字處理器比較](https://zh.wikipedia.org/wiki/文字處理器比較 "wikilink")
 
 ## 參考資料
 

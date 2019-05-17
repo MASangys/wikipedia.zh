@@ -1,4 +1,4 @@
-在[固体物理中](../Page/固体物理.md "wikilink")，**K·p微扰论**或**K·p微扰法**，是一种用来计算固体[能带结构和光学性质的](../Page/能带结构.md "wikilink")[微扰方法](../Page/微扰论.md "wikilink")，因微扰[哈密顿算符中出现了正比于简约波矢](../Page/哈密顿算符.md "wikilink")（k）与动量算符（p）[内积的项而得名](../Page/内积.md "wikilink")。通过这种方法可以估计[半导体中的电子在](../Page/半导体.md "wikilink")[导带底](../Page/导带.md "wikilink")（或[空穴在价带顶](../Page/空穴.md "wikilink")）的[有效质量](../Page/有效质量.md "wikilink")。\[1\]\[2\]
+在[固体物理中](https://zh.wikipedia.org/wiki/固体物理 "wikilink")，**K·p微扰论**或**K·p微扰法**，是一种用来计算固体[能带结构和光学性质的](../Page/能带结构.md "wikilink")[微扰方法](https://zh.wikipedia.org/wiki/微扰论 "wikilink")，因微扰[哈密顿算符中出现了正比于简约波矢](../Page/哈密顿算符.md "wikilink")（k）与动量算符（p）[内积的项而得名](https://zh.wikipedia.org/wiki/内积 "wikilink")。通过这种方法可以估计[半导体中的电子在](../Page/半导体.md "wikilink")[导带底](https://zh.wikipedia.org/wiki/导带 "wikilink")（或[空穴在价带顶](https://zh.wikipedia.org/wiki/空穴 "wikilink")）的[有效质量](https://zh.wikipedia.org/wiki/有效质量 "wikilink")。\[1\]\[2\]
 
 ## 推导
 
@@ -20,7 +20,7 @@
 
 \[H_{\mathbf{k}}=H_0+H_{\mathbf{k}}', \;\; H_0 = \frac{p^2}{2m}+V, \;\; H_{\mathbf{k}}' = \frac{\hbar^2 k^2}{2m} + \frac{\hbar \mathbf{k}\cdot\mathbf{p}}{m}\]
 
-利用[微扰方法可以用所有](../Page/微扰论.md "wikilink")\(u_{n,\mathbf{0}}\)的线性组合表达某个能带的\(u_{n,\mathbf{k}}\)，进而给出能量\(E_{n,\mathbf{k}}\)与简约波矢\(\mathbf{k}\)的近似关系。如果\(u_{n,\mathbf{0}}\)是不简并的，考虑到一级修正后\(u_{n,\mathbf{k}}\)的表达式为：\[7\]
+利用[微扰方法可以用所有](https://zh.wikipedia.org/wiki/微扰论 "wikilink")\(u_{n,\mathbf{0}}\)的线性组合表达某个能带的\(u_{n,\mathbf{k}}\)，进而给出能量\(E_{n,\mathbf{k}}\)与简约波矢\(\mathbf{k}\)的近似关系。如果\(u_{n,\mathbf{0}}\)是不简并的，考虑到一级修正后\(u_{n,\mathbf{k}}\)的表达式为：\[7\]
 
 \[u_{n,\mathbf{k}} = u_{n,0}+\frac{\hbar}{m}\sum_{n' \neq n}\frac{\langle u_{n,0} | \mathbf{k}\cdot\mathbf{p} | u_{n',0} \rangle}{E_{n,0}-E_{n',0}} u_{n',0}\]
 
@@ -28,7 +28,7 @@
 
 \[E_{n,\mathbf{k}} = E_{n,0}+\frac{\hbar^2 k^2}{2m} + \frac{\hbar^2}{m^2} \sum_{n'\neq n} \frac{|\langle u_{n,0} | \mathbf{k}\cdot\mathbf{p} | u_{n',0} \rangle |^2}{E_{n,0}-E_{n',0}}=E_{n,0}+\frac{\hbar^2 k^2}{2m} + \frac{\hbar^2}{m^2} \sum_{n'\neq n} \sum_{i,j} \frac{|\langle u_{n,0} | p_{i} | u_{n',0} \rangle ||\langle u_{n,0} | p_{j} | u_{n',0} \rangle |}{E_{n,0}-E_{n',0}}k_{i}k_{j}\]
 
-根据倒[有效质量张量的定义](../Page/有效质量.md "wikilink")，电子的倒有效质量张量近似为：\[9\]
+根据倒[有效质量张量的定义](https://zh.wikipedia.org/wiki/有效质量 "wikilink")，电子的倒有效质量张量近似为：\[9\]
 
 \[(\frac{1}{m^{\star}})_{ij}=\frac{1}{m}\delta_{ij}+\frac{2}{m^{2}}\sum_{n'\neq n}\frac{|\langle u_{n,0} | p_{i} | u_{n',0} \rangle ||\langle u_{n,0} | p_{j} | u_{n',0} \rangle |}{E_{n,0}-E_{n',0}}\]
 
@@ -36,7 +36,7 @@
 
 \[(\frac{1}{m^{\star}})_{ij}=\frac{1}{m}\delta_{ij}+\frac{2}{m^{2}}\frac{|\langle u_{n,0} | p_{i} | u_{n_{min},0} \rangle ||\langle u_{n,0} | p_{j} | u_{n_{min},0} \rangle |}{\Delta E_{min}}\]
 
-在[直接带隙半导体中导带底部的电子或价带顶部空穴对应的简约波矢都为零](../Page/直接带隙半导体.md "wikilink")，因而上式可以给出它们的有效质量。离导带底电子态能量最近的态通常为价带顶电子态，反之亦然，两者的能量差为[带隙](../Page/带隙.md "wikilink")\(E_{g}\)。如果导带底（价带顶）是旋转对称的，倒有效质量张量可以用一个标量代替：\[11\]
+在[直接带隙半导体中导带底部的电子或价带顶部空穴对应的简约波矢都为零](https://zh.wikipedia.org/wiki/直接带隙半导体 "wikilink")，因而上式可以给出它们的有效质量。离导带底电子态能量最近的态通常为价带顶电子态，反之亦然，两者的能量差为[带隙](https://zh.wikipedia.org/wiki/带隙 "wikilink")\(E_{g}\)。如果导带底（价带顶）是旋转对称的，倒有效质量张量可以用一个标量代替：\[11\]
 
 \[\frac{1}{m^{\star}}=\frac{1}{m}+\frac{2}{m^{2}}\sum_{i}\frac{|\langle u_{n,0} | p_{i} | u_{n_{min},0} \rangle ||\langle u_{n,0} | p_{i} | u_{n_{min},0} \rangle |}{E_{g}}\]
 
@@ -46,15 +46,15 @@
 
 该公式给出的有效质量近似值与绝大多数IV族、III-V族、II-VI族直接带隙半导体电子有效质量测量值的误差在15%以内。\[13\]
 
-如果考虑[自旋-轨道作用](../Page/自旋-轨道作用.md "wikilink")，仍然可以用类似方法处理。此时“哈密顿算符”应写为：\[14\]
+如果考虑[自旋-轨道作用](https://zh.wikipedia.org/wiki/自旋-轨道作用 "wikilink")，仍然可以用类似方法处理。此时“哈密顿算符”应写为：\[14\]
 
 \[H_{\mathbf{k}} = \frac{p^2}{2m} + \frac{\hbar}{m}\mathbf{k}\cdot\mathbf{p} + \frac{\hbar^2 k^2}{2m}  + V + \frac{\hbar}{4 m^2 c^2} (\nabla V \times (\mathbf{p}+\hbar\mathbf{k}))\cdot \vec \sigma\]
 
-如果\(u_{n,\mathbf{0}}\)有简并，需要使用[简并微扰理论](../Page/简并微扰.md "wikilink")。\[15\]可以处理这类问题。\[16\]
+如果\(u_{n,\mathbf{0}}\)有简并，需要使用[简并微扰理论](https://zh.wikipedia.org/wiki/简并微扰 "wikilink")。\[15\]可以处理这类问题。\[16\]
 
 ## 参见
 
-  - [布洛赫定理](../Page/布洛赫定理.md "wikilink")
+  - [布洛赫定理](https://zh.wikipedia.org/wiki/布洛赫定理 "wikilink")
 
 ## 参考文献
 

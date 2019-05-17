@@ -1,4 +1,4 @@
-**A.cian**（韓語：**에이션**），[韓國](../Page/韓國.md "wikilink")[男子音樂組合](../Page/男子音樂組合.md "wikilink")，2012年9月27日，公開道曲《STUCK》MV，2012年9月28日，《音樂銀行》表演出道舞台。\[1\]\[2\]出道時5位成員為Seul
+**A.cian**（韓語：**에이션**），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，2012年9月27日，公開道曲《STUCK》MV，2012年9月28日，《音樂銀行》表演出道舞台。\[1\]\[2\]出道時5位成員為Seul
 Gi、Crooge、Se Hee、Chan Hee、Sang Hyeon，現時4位成員為Jung Sang、Hyuk Jin、Sang
 Hyeon、Jin.O。\[3\] \[4\]\[5\] \[6\] \[7\] \[8\] \[9\] \[10\]
 
@@ -70,7 +70,7 @@ PlotData =
 <td><p>首張單曲《<strong>첫눈에 반했어 ( Love At First Sight )</strong>》</p>
 <ul>
 <li>發行日期：2013年11月29日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>첫눈에 반했어 ( Love At First Sight )</li>
@@ -81,7 +81,7 @@ PlotData =
 <td><p>第二張單曲《<strong>우리 둘이 ( So Happy Together )</strong>》</p>
 <ul>
 <li>發行日期：2014年10月23日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>우리 둘이 ( So Happy Together )</li>
@@ -92,7 +92,7 @@ PlotData =
 <td><p>第三張單曲《<strong>Somebody To Love</strong>》</p>
 <ul>
 <li>發行日期：2015年1月2日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>Somebody To Love</li>
@@ -106,7 +106,7 @@ PlotData =
 <td><p>第四張單曲《<strong>마녀시대 ( Magic Girl )</strong>》</p>
 <ul>
 <li>發行日期：2015年3月2日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>마녀시대 ( Magic Girl )</li>
@@ -119,7 +119,7 @@ PlotData =
 <td><p>第五張單曲《<strong>손이가요</strong>》</p>
 <ul>
 <li>發行日期：2016年3月24日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>손이가요</li>
@@ -143,7 +143,7 @@ PlotData =
 <td><p>首張迷你專輯《<strong>STUCK</strong>》</p>
 <ul>
 <li>發行日期：2012年10月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><p>{{hidden|曲目|</p>
 <ol>
@@ -158,7 +158,7 @@ PlotData =
 <td><p>第二張迷你專輯《<strong>아우치 Ouch</strong>》</p>
 <ul>
 <li>發行日期：2014年10月31日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -167,7 +167,7 @@ PlotData =
 <td><p>第三張迷你專輯《<strong>Driving</strong>》</p>
 <ul>
 <li>發行日期：2015年4月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -185,10 +185,10 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>改版迷你專輯《<strong><a href="../Page/HIT.md" title="wikilink">HIT</a></strong>》</p>
+<td><p>改版迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/HIT" title="wikilink">HIT</a></strong>》</p>
 <ul>
 <li>發行日期：2012年11月23日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -209,7 +209,7 @@ PlotData =
 <td><p>夏日特別歌曲《<strong>여름아 부탁해</strong>》</p>
 <ul>
 <li>發行日期：2016年6月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>여름아 부탁해 ( Feat. 이수빈 , 하이틴 )</li>
@@ -221,11 +221,11 @@ PlotData =
 
 ### 其他歌曲
 
-|             |                     |                                            |                 |    |
-| ----------- | ------------------- | ------------------------------------------ | --------------- | -- |
-| 日期          | 專輯 / 歌曲             | 歌手 / 企劃                                    | 參與成員            | 備註 |
-| 2017年10月13日 | THE UNI+ - My turn  | [The Unit](../Page/The_Unit.md "wikilink") | JungSang, Jin.O |    |
-| 2017年10月20日 | THE UNI+ - Last One | [The Unit](../Page/The_Unit.md "wikilink") | JungSang, Jin.O |    |
+|             |                     |                                                               |                 |    |
+| ----------- | ------------------- | ------------------------------------------------------------- | --------------- | -- |
+| 日期          | 專輯 / 歌曲             | 歌手 / 企劃                                                       | 參與成員            | 備註 |
+| 2017年10月13日 | THE UNI+ - My turn  | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | JungSang, Jin.O |    |
+| 2017年10月20日 | THE UNI+ - Last One | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | JungSang, Jin.O |    |
 
 ## 音樂錄影帶
 
@@ -267,12 +267,12 @@ PlotData =
 
 ### 其他音樂錄影帶
 
-|        |                                            |                                            |                 |                 |              |
-| ------ | ------------------------------------------ | ------------------------------------------ | --------------- | --------------- | ------------ |
-| 年份     | 發布日期                                       | 歌手/企劃                                      | 歌曲名稱            | 參與成員            | 連結/備註        |
-| 2017年  | 10月16日                                     | [The Unit](../Page/The_Unit.md "wikilink") | My Turn         | JungSang, Jin.O | \[40\]\[41\] |
-| 10月23日 | [The Unit](../Page/The_Unit.md "wikilink") | Last One                                   | JungSang, Jin.O | \[42\]\[43\]    |              |
-| 11月18日 | [The Unit](../Page/The_Unit.md "wikilink") | My Turn (Edition version)                  | JungSang, Jin.O | \[44\]          |              |
+|        |                                                               |                                                               |                 |                 |              |
+| ------ | ------------------------------------------------------------- | ------------------------------------------------------------- | --------------- | --------------- | ------------ |
+| 年份     | 發布日期                                                          | 歌手/企劃                                                         | 歌曲名稱            | 參與成員            | 連結/備註        |
+| 2017年  | 10月16日                                                        | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn         | JungSang, Jin.O | \[40\]\[41\] |
+| 10月23日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Last One                                                      | JungSang, Jin.O | \[42\]\[43\]    |              |
+| 11月18日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn (Edition version)                                     | JungSang, Jin.O | \[44\]          |              |
 
 ## 綜藝節目
 
@@ -301,7 +301,7 @@ PlotData =
 | 2016年9月7日              | [Hello Korea 2](http://m.tvcast.naver.com/v/1098999?spi_ref=m_tvcast_twitter) | 全體                         | \[헬로코리아2 14회\]\[예고\] 에이션의 여름아 부탁해♥                                                              |
 | 2016年9月8日              | [Hello Korea 2](http://tvcast.naver.com/v/1110445)                            | 全體                         | \[풀버전\] 헬로코리아 시즌 2 14회-'여름아 노동을 부탁해'_에이션(A.cian)                                               |
 | 2016年9月22日             | [A.cian直播](http://www.meipai.com/media/586361809)                             | 全體                         |                                                                                                 |
-| 2017年10月28日－2018年2月10日 | [The Unit](../Page/The_Unit.md "wikilink")                                    | 全體                         | JungSang, Jin.O                                                                                 |
+| 2017年10月28日－2018年2月10日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")                 | 全體                         | JungSang, Jin.O                                                                                 |
 
 ## 參考資料
 

@@ -1,10 +1,10 @@
-《**Riders：抓住明日**》（），為[韓國自](../Page/韓國.md "wikilink")2015年11月8日起於與同步首播的電視劇。由《[失業救助羅曼史](../Page/失業救助羅曼史.md "wikilink")》崔道勳導演與《[大風水](../Page/大風水.md "wikilink")》朴尚熙編劇攜手打造。崔汝珍與尹仲勳時隔2年繼《[急診男女](../Page/急診男女.md "wikilink")》後再度合作。
+《**Riders：抓住明日**》（），為[韓國自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2015年11月8日起於與同步首播的電視劇。由《[失業救助羅曼史](https://zh.wikipedia.org/wiki/失業救助羅曼史 "wikilink")》崔道勳導演與《[大風水](../Page/大風水.md "wikilink")》朴尚熙編劇攜手打造。崔汝珍與尹仲勳時隔2年繼《[急診男女](../Page/急診男女.md "wikilink")》後再度合作。
 
 ## 演員陣容
 
 ### 主要人物
 
-  - [金東昱](../Page/金東昱.md "wikilink") 飾演 車基俊
+  - [金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink") 飾演 車基俊
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 ### 其他人物
 
-  - [趙炳奎](../Page/趙炳奎.md "wikilink") 飾演 金旼鐘
+  - [趙炳奎](https://zh.wikipedia.org/wiki/趙炳奎 "wikilink") 飾演 金旼鐘
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - [吉海妍](../Page/吉海妍.md "wikilink") 飾演 裴美善
+  - [吉海妍](https://zh.wikipedia.org/wiki/吉海妍 "wikilink") 飾演 裴美善
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - [張浩日](../Page/張浩日.md "wikilink") 飾演 裴亨善
+  - [張浩日](https://zh.wikipedia.org/wiki/張浩日 "wikilink") 飾演 裴亨善
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@
 
 <!-- end list -->
 
-  - [鄭怡朗](../Page/鄭怡朗.md "wikilink") 飾演 白珍珠
+  - [鄭怡朗](https://zh.wikipedia.org/wiki/鄭怡朗 "wikilink") 飾演 白珍珠
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
 <!-- end list -->
 
-  - [美嵐](../Page/美嵐.md "wikilink") 飾演 徐恩珠
+  - [美嵐](https://zh.wikipedia.org/wiki/美嵐 "wikilink") 飾演 徐恩珠
 
 <!-- end list -->
 

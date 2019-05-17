@@ -1,9 +1,9 @@
-**鈴木Landy**（）乃是2007年至2016年間由[日本](../Page/日本.md "wikilink")[日產汽車OEM代工](../Page/日產汽車.md "wikilink")、[鈴木公司銷售的](../Page/鈴木公司.md "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，僅限日本當地發售的此車款乃[鈴木Every
+**鈴木Landy**（）乃是2007年至2016年間由[日本](../Page/日本.md "wikilink")[日產汽車OEM代工](../Page/日產汽車.md "wikilink")、[鈴木公司銷售的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，僅限日本當地發售的此車款乃[鈴木Every
 Landy之後繼車](../Page/鈴木Every_Landy.md "wikilink")。這款車以為基礎而發展，是鈴木在日本市場僅次於[鈴木Kizashi](../Page/鈴木Kizashi.md "wikilink")（2013年宣佈停產）的高價車系。
 
 ## 概要
 
-2006年6月間鈴木與日產達成協議，雙方以OEM代工方式、於海內外相互供應自家車款，以補充各自產品線之不足\[1\]\[2\]。基於這層合作關係，2007年1月22日雙方各自發表鈴木Landy（原型車為）、（原型車為[鈴木Alto](../Page/鈴木Alto.md "wikilink")，另有兄弟車[第五代馬自達Carol](../Page/馬自達Carol#第五代（HB24型_2004年-2009年）.md "wikilink")）的上市消息。
+2006年6月間鈴木與日產達成協議，雙方以OEM代工方式、於海內外相互供應自家車款，以補充各自產品線之不足\[1\]\[2\]。基於這層合作關係，2007年1月22日雙方各自發表鈴木Landy（原型車為）、（原型車為[鈴木Alto](../Page/鈴木Alto.md "wikilink")，另有兄弟車[第五代馬自達Carol](https://zh.wikipedia.org/wiki/馬自達Carol#第五代（HB24型_2004年-2009年） "wikilink")）的上市消息。
 
 ## 歷史
 
@@ -30,10 +30,10 @@ Suzuki Landy 2.0G interior.jpg|後期型內裝
 2010年 -
 12月21日全新第二代鈴木Landy上市\[6\]，仍以日產Serena為藍本而開發。動力心臟雖仍為日產MR20型直列四缸DOHC[汽油引擎](../Page/汽油引擎.md "wikilink")，經重新調校後改成缸內直噴，最大馬力為147hp
 / 5,600rpm，峰值扭力為21.4kg·m /
-4,400rpm，搭配CVT無段變速自排系統後的平均油耗可達到15.4km/L的水準（2WD車型）。「2.0G」及「2.0S」二種車型可加價選購附[交流發電機的](../Page/交流發電機.md "wikilink")[動能回收系統及](../Page/動能回收系統.md "wikilink")[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")，油耗表現更勝一籌。車身外觀與日產Serena相去不遠，但進氣壩改成橫柵式設計。
+4,400rpm，搭配CVT無段變速自排系統後的平均油耗可達到15.4km/L的水準（2WD車型）。「2.0G」及「2.0S」二種車型可加價選購附[交流發電機的](../Page/交流發電機.md "wikilink")[動能回收系統及](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")，油耗表現更勝一籌。車身外觀與日產Serena相去不遠，但進氣壩改成橫柵式設計。
 
 2012年 - 8月9日部分改良（2型）\[7\]，新增「Smart Simple
-Hybrid；S-HYBRID（）」車型，具備SM23型[交流馬達及充電電池](../Page/交流电动机.md "wikilink")、合併式LED尾燈組和高背燈、全自動雙空調系統及預熱式側後照鏡等配備。全車系之第二、三排座椅改為三點式[安全帶](../Page/座位安全帶.md "wikilink")，第二排座椅左右增設ISOFIX[兒童安全座椅扣環](../Page/兒童安全座椅.md "wikilink")。
+Hybrid；S-HYBRID（）」車型，具備SM23型[交流馬達及充電電池](https://zh.wikipedia.org/wiki/交流电动机 "wikilink")、合併式LED尾燈組和高背燈、全自動雙空調系統及預熱式側後照鏡等配備。全車系之第二、三排座椅改為三點式[安全帶](../Page/座位安全帶.md "wikilink")，第二排座椅左右增設ISOFIX[兒童安全座椅扣環](../Page/兒童安全座椅.md "wikilink")。
 
 2014年 -
 1月21日實施小改款（3型）\[8\]，「2.0X」、「2.0G」等二種車型新設緊急煞車系統、LDW[車道偏離警示系統](../Page/車道偏離警示.md "wikilink")（Lane
@@ -59,7 +59,7 @@ Rear.jpg
 ### 第三代（SC27系 2016年迄今）
 
 2016年 -
-12月13日正式宣佈大改款的第三代Landy將於同月20日上市\[10\]，同樣委託日產汽車以第五代[換牌OEM而成](../Page/换牌工程.md "wikilink")。車身尺寸、軸距和Serena相同，但為了減少駕駛人視線死角，A柱變得比較細。LED頭燈為分離式設計，尾燈則為長條形，加上二段式啟閉尾門、感應式電動側滑門等配備。車室配色具有[黑色](../Page/黑色.md "wikilink")、象牙白與[灰色等三種色調](../Page/灰色.md "wikilink")，懸浮式儀表板、9吋大型液晶螢幕、[Panasonic九吋](../Page/松下電器.md "wikilink")[藍光光碟衛星導航系統等皆為標配](../Page/藍光光碟.md "wikilink")。
+12月13日正式宣佈大改款的第三代Landy將於同月20日上市\[10\]，同樣委託日產汽車以第五代[換牌OEM而成](../Page/换牌工程.md "wikilink")。車身尺寸、軸距和Serena相同，但為了減少駕駛人視線死角，A柱變得比較細。LED頭燈為分離式設計，尾燈則為長條形，加上二段式啟閉尾門、感應式電動側滑門等配備。車室配色具有[黑色](../Page/黑色.md "wikilink")、象牙白與[灰色等三種色調](https://zh.wikipedia.org/wiki/灰色 "wikilink")，懸浮式儀表板、9吋大型液晶螢幕、[Panasonic九吋](../Page/松下電器.md "wikilink")[藍光光碟衛星導航系統等皆為標配](../Page/藍光光碟.md "wikilink")。
 
 動力心臟採用日產2.0L直列四缸DOHC MR20DD型缸內直噴汽油引擎與S-Hybrid二種動力配置，前者最大馬力150ps /
 6,000rpm、峰值扭力20.4kg·m /

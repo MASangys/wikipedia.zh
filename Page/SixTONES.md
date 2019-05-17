@@ -1,39 +1,39 @@
-**SixTONES**是由[傑尼斯事務所的](../Page/傑尼斯事務所.md "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](../Page/田中樹.md "wikilink")[高地優吾六人組成](../Page/高地優吾.md "wikilink")。
+**SixTONES**是由[傑尼斯事務所的](../Page/傑尼斯事務所.md "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](https://zh.wikipedia.org/wiki/田中樹 "wikilink")[高地優吾六人組成](../Page/高地優吾.md "wikilink")。
 
 SixTONES的意思是解作六個不同的音階，代表著六人每人也有各自屬於自己的音調。
 
 ### 成員
 
-| 成員名                                  | 平/片假名      | 生日         | 血型 | 出身                                 | 代表色 |
-| ------------------------------------ | ---------- | ---------- | -- | ---------------------------------- | --- |
-| [高地優吾](../Page/高地優吾.md "wikilink")   | こうち ゆうご    | 1994年3月8日  | A  | [神奈川縣](../Page/神奈川縣.md "wikilink") | 黃   |
-| [京本大我](../Page/京本大我.md "wikilink")   | きょうもと たいが  | 1994年12月3日 | B  | [東京都](../Page/東京都.md "wikilink")   | 桃   |
-| [田中樹](../Page/田中樹.md "wikilink")     | たなか じゅり    | 1995年6月15日 | B  | [千葉縣](../Page/千葉縣.md "wikilink")   | 藍   |
-| [松村北斗](../Page/松村北斗.md "wikilink")   | まつむら ほくと   | 1995年6月18日 | B  | [静岡縣](../Page/静岡縣.md "wikilink")   | 黑   |
-| [傑西](../Page/傑西.md "wikilink")       | ジェシー       | 1996年6月11日 | O  | [東京都](../Page/東京都.md "wikilink")   | 紅   |
-| [森本慎太郎](../Page/森本慎太郎.md "wikilink") | もりもと しんたろう | 1997年7月15日 | A  | [神奈川縣](../Page/神奈川縣.md "wikilink") | 綠   |
-|                                      |            |            |    |                                    |     |
+| 成員名                                                   | 平/片假名      | 生日         | 血型 | 出身                                                  | 代表色 |
+| ----------------------------------------------------- | ---------- | ---------- | -- | --------------------------------------------------- | --- |
+| [高地優吾](../Page/高地優吾.md "wikilink")                    | こうち ゆうご    | 1994年3月8日  | A  | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | 黃   |
+| [京本大我](../Page/京本大我.md "wikilink")                    | きょうもと たいが  | 1994年12月3日 | B  | [東京都](../Page/東京都.md "wikilink")                    | 桃   |
+| [田中樹](https://zh.wikipedia.org/wiki/田中樹 "wikilink")   | たなか じゅり    | 1995年6月15日 | B  | [千葉縣](../Page/千葉縣.md "wikilink")                    | 藍   |
+| [松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink") | まつむら ほくと   | 1995年6月18日 | B  | [静岡縣](https://zh.wikipedia.org/wiki/静岡縣 "wikilink") | 黑   |
+| [傑西](../Page/傑西.md "wikilink")                        | ジェシー       | 1996年6月11日 | O  | [東京都](../Page/東京都.md "wikilink")                    | 紅   |
+| [森本慎太郎](../Page/森本慎太郎.md "wikilink")                  | もりもと しんたろう | 1997年7月15日 | A  | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | 綠   |
+|                                                       |            |            |    |                                                     |     |
 
 ## 組合過程
 
-在2012年4月在[日本電視台深夜劇](../Page/日本電視台.md "wikilink")[私立馬鹿蘭高校開演後](../Page/私立馬鹿蘭高校.md "wikilink")，[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](../Page/田中樹.md "wikilink")[高地優吾便經常以六人姿態上少年俱樂部](../Page/高地優吾.md "wikilink")、傑尼斯其他公演及接受各種雜誌訪問，由於當時並沒有組合名字而被通稱為「馬鹿蘭組」（バカレア組）。
+在2012年4月在[日本電視台深夜劇](../Page/日本電視台.md "wikilink")[私立馬鹿蘭高校開演後](../Page/私立馬鹿蘭高校.md "wikilink")，[傑西](../Page/傑西.md "wikilink")、[松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](https://zh.wikipedia.org/wiki/田中樹 "wikilink")[高地優吾便經常以六人姿態上少年俱樂部](../Page/高地優吾.md "wikilink")、傑尼斯其他公演及接受各種雜誌訪問，由於當時並沒有組合名字而被通稱為「馬鹿蘭組」（バカレア組）。
 
 因為他們走的表演風格跟[KAT-TUN初出道時的](../Page/KAT-TUN.md "wikilink")「惡羅惡羅系」（オラオラ系）很接近從而抓住了不少支持者的心\[1\]，據「週刊女性PRIME」在2015年4月非正式調查「喜歡的Johnny
-Jr」裡，[松村北斗](../Page/松村北斗.md "wikilink")、[京本大我及](../Page/京本大我.md "wikilink")[傑西分別排第三](../Page/傑西.md "wikilink")、第五及第七名。\[2\]
+Jr」裡，[松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")、[京本大我及](../Page/京本大我.md "wikilink")[傑西分別排第三](../Page/傑西.md "wikilink")、第五及第七名。\[2\]
 
-但是隨著[傑西及](../Page/傑西.md "wikilink")[松村北斗的個人活動增加](../Page/松村北斗.md "wikilink")，「馬鹿蘭組」的曝光度開始減低，甚至出現解散危機。
+但是隨著[傑西及](../Page/傑西.md "wikilink")[松村北斗的個人活動增加](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")，「馬鹿蘭組」的曝光度開始減低，甚至出現解散危機。
 
 在2014年5月舉行的「ガムシャラ J’s Party\!\!
-Vol.4」上，「馬鹿蘭組」久違地重新集結，[京本大我及](../Page/京本大我.md "wikilink")[松村北斗在雜誌對談當中也分別作出了](../Page/松村北斗.md "wikilink")「以這個公演為契機，放下對『馬鹿蘭組』的依戀」及「明明是站在同一個台上，但總是覺得有點格格不入…」的發言。\[3\]
+Vol.4」上，「馬鹿蘭組」久違地重新集結，[京本大我及](../Page/京本大我.md "wikilink")[松村北斗在雜誌對談當中也分別作出了](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")「以這個公演為契機，放下對『馬鹿蘭組』的依戀」及「明明是站在同一個台上，但總是覺得有點格格不入…」的發言。\[3\]
 
-直到2015年5月1日，雖然[京本大我因為要排練舞台劇](../Page/京本大我.md "wikilink")「[伊麗莎白](../Page/伊麗莎白.md "wikilink")」而不參與表演，也特地出現到「傑尼斯銀座2015」舞台劇，由六人一起宣佈正式組成新組合「SixTONES」。\[4\]
+直到2015年5月1日，雖然[京本大我因為要排練舞台劇](../Page/京本大我.md "wikilink")「[伊麗莎白](https://zh.wikipedia.org/wiki/伊麗莎白 "wikilink")」而不參與表演，也特地出現到「傑尼斯銀座2015」舞台劇，由六人一起宣佈正式組成新組合「SixTONES」。\[4\]
 
 由於是口頭報告，雖然表明組合名字代表「六個音階」，不過當時還不知道名字是寫「6 Tones」還是「Six Tones」。
 
 在2015年5月15日，[傑尼斯事務所的公式動畫網站](../Page/傑尼斯事務所.md "wikilink")「滝CHANnel」公開了5月1日的「傑尼斯銀座2015」的公演影像記錄及公佈「SixTONES」的正式組合名。
 
 2018年3月21日起每週五
-SixTONES負責主持官方YouTube頻道『[小傑尼斯頻道](../Page/小傑尼斯頻道.md "wikilink")』；
+SixTONES負責主持官方YouTube頻道『[小傑尼斯頻道](https://zh.wikipedia.org/wiki/小傑尼斯頻道 "wikilink")』；
 4月14日、在Johnny's Web上開始『すとーんずのぶろぐ』的定期連載。
 
 同年10月29日，在東京JR線的品川站内揭載了六人的海報「ジャニーズをデジタルに放つ新世代。」 並宣布參與世界各地展開的「YouTube
@@ -127,6 +127,24 @@ Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.m
   -
     作詞：Komei Kobayashi、作曲：KAIROS/LEE JOSEPH J.
 
+### 2019年
+
+  - "Laugh" In the LIFE <JASRAC作品244-4071-0>
+
+<!-- end list -->
+
+  -
+    作詞：GAKU、作曲：GAKU
+
+<!-- end list -->
+
+  - MR. ズドン <JASRAC作品244-7682-0>
+
+<!-- end list -->
+
+  -
+    作詞：Mr. ズドン、作曲：Mr. ズドン
+
 ## 演出
 
 （單獨演出作品請參照個人頁面）
@@ -141,7 +159,7 @@ Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.m
   - Johnny's 銀座2015（2015年5月1日・3日・4日、Theatre Creation）\[5\]
   - Johnny's 銀座2016（2016年5月27日 - 5月31日、Theatre Creation）
   - Summer Stage Johnny's King （2016年8月17日 - 25日、EX六本木劇場）
-  - Johnny's Jr.祭り（2017年3月24日 - 26日、横浜體育館 / 4月8日・9日、埼玉超级竞技场 /
+  - Johnny's Jr.祭り（2017年3月24日 - 26日、横浜體育館 / 4月8日・9日、埼玉超级競技場 /
     5月3日、大阪城Hall
   - Summer Stage 〜你们是〜KING'S TREASURE（2017年8月1日 - 3日〔單獨公演〕、8月11日 -
     13日〔和[Snow
@@ -150,6 +168,8 @@ Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.m
   - Johnny's Jr.祭り 2018（2018年2月23日 - 25日、大阪城Hall /
     3月24日・27日〔合同公演〕・26日〔單獨公演〕、横浜體育館）
   - Summer Paradise 2018（2018年7月28日 - 8月4日、28日、29日、東京ドームシティホール)
+  - SixTONES CHANGE the ERA 201ix（2019年3月21－23日橫濱體育館 / 4月20日宮城 /
+    5月1-2日大阪城Hall）
 
 ### 舞台劇
 
@@ -169,7 +189,11 @@ Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.m
 
 ### 活動
 
-  - [傑尼斯大運動会](../Page/傑尼斯大運動会.md "wikilink")（2017年4月16日、東京巨蛋）
+  - [傑尼斯大運動会](https://zh.wikipedia.org/wiki/傑尼斯大運動会 "wikilink")（2017年4月16日、東京巨蛋）
+
+### 電影
+
+  - 少年們（2019年3月29日-）
 
 <!-- end list -->
 

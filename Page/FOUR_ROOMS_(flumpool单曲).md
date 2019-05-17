@@ -1,28 +1,29 @@
-《**FOUR ROOMS**》是日本樂團[flumpool的Comcept](../Page/flumpool.md "wikilink")
-Disc\[1\]，2015年8月5日發行，台灣方面則由[相信音樂製作](../Page/相信音樂.md "wikilink")、[台灣索尼音樂娛樂股份有限公司發行](../Page/台灣索尼音樂娛樂.md "wikilink")\[2\]。
+《**FOUR
+ROOMS**》是日本樂團[flumpool的Comcept](https://zh.wikipedia.org/wiki/flumpool "wikilink")
+Disc\[1\]，2015年8月5日發行，台灣方面則由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[台灣索尼音樂娛樂股份有限公司發行](../Page/台灣索尼音樂娛樂.md "wikilink")\[2\]。
 
 ## 收錄歌曲
 
 1.  **某個開始的情景～Bookstore on the hill～**（）
       -
-        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](../Page/阪井一生.md "wikilink")、編曲：[百田留衣](../Page/百田留衣.md "wikilink")
+        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
 2.  **歡喜的Fiddle**（）
       -
-        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](../Page/阪井一生.md "wikilink")、編曲：[板井直樹](../Page/板井直樹.md "wikilink")
+        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[板井直樹](https://zh.wikipedia.org/wiki/板井直樹 "wikilink")
 3.  **MY HOME TOWN**
       -
-        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](../Page/阪井一生.md "wikilink")、編曲：[板井直樹](../Page/板井直樹.md "wikilink")
+        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[板井直樹](https://zh.wikipedia.org/wiki/板井直樹 "wikilink")
 4.  **最喜歡你**（）
       -
-        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](../Page/阪井一生.md "wikilink")、編曲：[龜田誠治](../Page/龜田誠治.md "wikilink")
+        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[龜田誠治](../Page/龜田誠治.md "wikilink")
         通常盤收錄。
 
 ## 音樂錄影帶MV
 
-| 歌名                                                                              | 執導 | 首播時間       | 首播媒介                                                  |
-| ------------------------------------------------------------------------------- | -- | ---------- | ----------------------------------------------------- |
-| [とある始まりの情景〜Bookstore on the hill〜](https://www.youtube.com/watch?v=yczU4T8XNSo) |    | 2015年4月27日 | [Youtube](../Page/Youtube.md "wikilink") flumpool官方频道 |
-| [大好きだった](https://www.youtube.com/watch?v=vbL7ArIM4M0)                           |    | 2015年2月27日 | [Youtube](../Page/Youtube.md "wikilink") flumpool官方频道 |
+| 歌名                                                                              | 執導 | 首播時間       | 首播媒介                                                                     |
+| ------------------------------------------------------------------------------- | -- | ---------- | ------------------------------------------------------------------------ |
+| [とある始まりの情景〜Bookstore on the hill〜](https://www.youtube.com/watch?v=yczU4T8XNSo) |    | 2015年4月27日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") flumpool官方频道 |
+| [大好きだった](https://www.youtube.com/watch?v=vbL7ArIM4M0)                           |    | 2015年2月27日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") flumpool官方频道 |
 
 ## 參考資料
 

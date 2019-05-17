@@ -1,15 +1,15 @@
 **奥林巴斯 PEN
-E-P5**是一台[微4/3系统可换镜头数码无反机型](../Page/微4/3系统.md "wikilink")，由奥林巴斯公司于2013年5月10日发布\[1\]。
+E-P5**是一台[微4/3系统可换镜头数码无反机型](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，由奥林巴斯公司于2013年5月10日发布\[1\]。
 
-其是2011年发布之[E-P3后续机种](../Page/奥林巴斯_PEN_E-P3.md "wikilink")，因为忌讳数字4，编号上跳过而命名为**E-P5**。EP5具备三种样式：纯黑、银黑配色与白色\[2\]。采用了升级的16MP传感器，以及配置了与之前[E-M5机型一致的五轴防抖机构](../Page/奥林巴斯_OM-D_E-M5.md "wikilink")。
+其是2011年发布之[E-P3后续机种](https://zh.wikipedia.org/wiki/奥林巴斯_PEN_E-P3 "wikilink")，因为忌讳数字4，编号上跳过而命名为**E-P5**。EP5具备三种样式：纯黑、银黑配色与白色\[2\]。采用了升级的16MP传感器，以及配置了与之前[E-M5机型一致的五轴防抖机构](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5 "wikilink")。
 
-2016年，奥林巴斯推出了PEN系列新的旗舰——[PEN-F](../Page/奥林巴斯_PEN-F.md "wikilink")。
+2016年，奥林巴斯推出了PEN系列新的旗舰——[PEN-F](https://zh.wikipedia.org/wiki/奥林巴斯_PEN-F "wikilink")。
 
 ## 概述
 
-奥林巴斯与松下公司于2008年推出[微4/3系统而成为首个](../Page/微4/3系统.md "wikilink")[无反光镜可换镜头相机系统](../Page/无反光镜可换镜头相机.md "wikilink")，之后无反概念逐渐深化，三星、索尼、富士以及佳能等制造商纷纷投入无反相机研发。奥林巴斯自身机型也不断打磨进化，其2012年机型[奥林巴斯
+奥林巴斯与松下公司于2008年推出[微4/3系统而成为首个](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")[无反光镜可换镜头相机系统](https://zh.wikipedia.org/wiki/无反光镜可换镜头相机 "wikilink")，之后无反概念逐渐深化，三星、索尼、富士以及佳能等制造商纷纷投入无反相机研发。奥林巴斯自身机型也不断打磨进化，其2012年机型[奥林巴斯
 OM-D
-E-M5更是推出了](../Page/奥林巴斯_OM-D_E-M5.md "wikilink")[五轴防抖而令业界瞩目](../Page/五轴防抖.md "wikilink")；同时，E-M5机型也使用了来自索尼的IMX109传感器\[3\]，使得画质表现相比前代机型有较大提升，同年发布的入门机型E-PL5亦装配该传感器，而作为PEN系列的主流机型却没有一同更新。直到2013年年中，E-P5才姗姗来迟，甚至与入门机型的E-PL6一同发布。
+E-M5更是推出了](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5 "wikilink")[五轴防抖而令业界瞩目](https://zh.wikipedia.org/wiki/五轴防抖 "wikilink")；同时，E-M5机型也使用了来自索尼的IMX109传感器\[3\]，使得画质表现相比前代机型有较大提升，同年发布的入门机型E-PL5亦装配该传感器，而作为PEN系列的主流机型却没有一同更新。直到2013年年中，E-P5才姗姗来迟，甚至与入门机型的E-PL6一同发布。
 
 新登场的E-P5主要规格与之前发布的E-M5相近，部分规格甚至更高。5轴机身防抖\[4\]、1/8000秒快门、『FAST
 AF』(Frequency Acceleration Sensor
@@ -30,13 +30,14 @@ Olympus PEN E-P5 with 20mm F1.7 and VF2.jpg Olympus PEN E-P5 Front 1.jpg
 
 主要规格与之前发布的E-M5相近，部分规格甚至高于E-M5：
 
-  - 16MP [Live MOS](../Page/Live_MOS.md "wikilink") 传感器
+  - 16MP [Live MOS](https://zh.wikipedia.org/wiki/Live_MOS "wikilink")
+    传感器
   - 1/8000秒～B门可选，
   - 5轴防抖
   - ISO100 – 25600
   - 连拍最快可达9张/秒(每张连续自动对焦则为5张/秒)
-  - [峰值对焦辅助](../Page/峰值对焦.md "wikilink")
-  - 定时曝光(Intervalometer)与[延时摄影](../Page/延时摄影.md "wikilink")(Time
+  - [峰值对焦辅助](https://zh.wikipedia.org/wiki/峰值对焦 "wikilink")
+  - 定时曝光(Intervalometer)与[延时摄影](https://zh.wikipedia.org/wiki/延时摄影 "wikilink")(Time
     Lapse)支持(最高99张)
   - 3英寸LCD，触摸屏，可翻转
   - 内置WiFi功能，可以通过智能手机app『OLYMPUS Image Share』实现遥控拍摄，远程传输文件及添加地理信息
@@ -49,11 +50,11 @@ Watch)认为2x2双拨盘控制(2×2ダイヤルコントロール)即为方便�
 
 ## 参见
 
-  - [奥林巴斯](../Page/奥林巴斯.md "wikilink")
-  - [微4/3系统](../Page/微4/3系统.md "wikilink")
+  - [奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")
+  - [微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
       - [奥林巴斯PEN数码系列](../Page/奥林巴斯PEN数码系列.md "wikilink")
-          - [E-P3](../Page/奥林巴斯_PEN_E-P3.md "wikilink")
-          - [PEN-F](../Page/PEN-F.md "wikilink")
+          - [E-P3](https://zh.wikipedia.org/wiki/奥林巴斯_PEN_E-P3 "wikilink")
+          - [PEN-F](https://zh.wikipedia.org/wiki/PEN-F "wikilink")
             奥林巴斯公司于2016年推出的旗舰PEN系产品，但定位较E-P5更高
 
 ## 参考与引用

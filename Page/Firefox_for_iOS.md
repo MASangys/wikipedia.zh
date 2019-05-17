@@ -1,13 +1,13 @@
-****是Mozilla為[iPhone](../Page/iPhone.md "wikilink")、[iPad和](../Page/iPad.md "wikilink")[iPod
-touch裝置推出的](../Page/iPod_touch.md "wikilink")[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")\[1\]。Firefox
+****是Mozilla為[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod
+touch裝置推出的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]。Firefox
 for
-iOS是首次使用非[Gecko](../Page/Gecko.md "wikilink")[排版引擎的Firefox](../Page/排版引擎.md "wikilink")。由於[蘋果公司的申請審核政策](../Page/蘋果.md "wikilink")，Firefox必須使用[iOS內建的基於](../Page/iOS.md "wikilink")[WebKit的排版框架取代Gecko](../Page/WebKit.md "wikilink")\[2\]。Firefox
+iOS是首次使用非[Gecko](../Page/Gecko.md "wikilink")[排版引擎的Firefox](../Page/排版引擎.md "wikilink")。由於[蘋果公司的申請審核政策](https://zh.wikipedia.org/wiki/蘋果 "wikilink")，Firefox必須使用[iOS內建的基於](https://zh.wikipedia.org/wiki/iOS "wikilink")[WebKit的排版框架取代Gecko](../Page/WebKit.md "wikilink")\[2\]。Firefox
 for
-iOS支援[Firefox同步](../Page/Firefox同步.md "wikilink")，可同步其他平台之Firefox的瀏覽記錄、書籤和分頁等。
+iOS支援[Firefox同步](https://zh.wikipedia.org/wiki/Firefox同步 "wikilink")，可同步其他平台之Firefox的瀏覽記錄、書籤和分頁等。
 
 ## 歷史
 
-2014年12月，Mozilla宣布正在為Firefox設計一個iOS版本\[3\]。2015年9月，Mozilla發布僅在[紐西蘭的iOS應用程式商店推出限定預覽版本](../Page/紐西蘭.md "wikilink")\[4\]。2016年11月，Mozilla在Apple應用程式商店推出[Firefox
+2014年12月，Mozilla宣布正在為Firefox設計一個iOS版本\[3\]。2015年9月，Mozilla發布僅在[紐西蘭的iOS應用程式商店推出限定預覽版本](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")\[4\]。2016年11月，Mozilla在Apple應用程式商店推出[Firefox
 Focus](../Page/Firefox_Focus.md "wikilink")，Focus是精簡的瀏覽器，但是更注重於隱私方面的功能\[5\]。
 
 ### Firefox Home

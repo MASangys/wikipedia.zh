@@ -1,8 +1,8 @@
-**新堂L**（），[美國漫畫家](../Page/美國.md "wikilink")，[紐約出身](../Page/紐約.md "wikilink")，現居住[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。主要繪製成人漫畫。
+**新堂L**（），[美國漫畫家](https://zh.wikipedia.org/wiki/美國 "wikilink")，[紐約出身](https://zh.wikipedia.org/wiki/紐約 "wikilink")，現居住[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。主要繪製成人漫畫。
 
 ## 經歷
 
-新堂L的父親是日本人，母親是美國人，有美國國籍，在紐約出生並接受教育，由於喜歡看漫畫，自大學期間就參與[同人活動](../Page/同人.md "wikilink")、並立志成為漫畫家。由於新堂認為美國情色產業的不自由而前往日本發展，2008年被出版社相中，在BURSTER
+新堂L的父親是日本人，母親是美國人，有美國國籍，在紐約出生並接受教育，由於喜歡看漫畫，自大學期間就參與[同人活動](https://zh.wikipedia.org/wiki/同人 "wikilink")、並立志成為漫畫家。由於新堂認為美國情色產業的不自由而前往日本發展，2008年被出版社相中，在BURSTER
 COMIC出道。\[1\]
 
 ## 作品

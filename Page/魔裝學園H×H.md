@@ -1,4 +1,4 @@
-是[久慈政宗所作的](../Page/久慈政宗.md "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由](../Page/插圖.md "wikilink")[Hisasi繪畫](../Page/Hisasi.md "wikilink")，[黑銀負責機械設定](../Page/黑銀.md "wikilink")，並有漫畫、廣播劇CD等衍生作品。2016年1月宣佈改編為電視動畫\[1\]，同年夏季開始播放。
+是[久慈政宗所作的](https://zh.wikipedia.org/wiki/久慈政宗 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Hisasi繪畫](../Page/Hisasi.md "wikilink")，[黑銀負責機械設定](https://zh.wikipedia.org/wiki/黑銀 "wikilink")，並有漫畫、廣播劇CD等衍生作品。2016年1月宣佈改編為電視動畫\[1\]，同年夏季開始播放。
 
 ## 故事簡介
 
@@ -37,7 +37,7 @@
 
   -
     生日：8月8日，17歲，身高：168cm，三围：B105-W62-H98
-    拥有金色长发和[爆乳](../Page/爆乳.md "wikilink")、傲人身材，魔導裝甲「十字（克洛斯）」的操縱者，擁有壓倒性的攻擊力，擅长远距离攻击。“天地穹女神”成员之一，来自美国的王牌。
+    拥有金色长发和[爆乳](https://zh.wikipedia.org/wiki/爆乳 "wikilink")、傲人身材，魔導裝甲「十字（克洛斯）」的操縱者，擁有壓倒性的攻擊力，擅长远距离攻击。“天地穹女神”成员之一，来自美国的王牌。
     美國心靈混合裝置戰隊「馬斯達茲（MASTERS）」的前王牌，被稱頌為世界最強。擊墜三百架以上的魔導兵器，亦持續更新紀錄的世界第一。喜欢伤无。
 
 <!-- end list -->
@@ -116,7 +116,7 @@
   -
     巴特蘭提斯帝國的現任皇帝。愛音的妹妹。魔導裝甲「可羅斯」的操縱者。
   -
-    詳見[天地穹女神](../Page/魔裝學園H×H#天地穹女神.md "wikilink")
+    詳見[天地穹女神](https://zh.wikipedia.org/wiki/魔裝學園H×H#天地穹女神 "wikilink")
 
 #### 親衛隊
 
@@ -277,7 +277,7 @@ OS系列是特殊的心靈混合裝置，基本性能極高，搭載着其他心
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -365,7 +365,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -412,8 +412,10 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
   - 色彩設定：村上朋輝
   - 音響監督：大室正勝
   - 音響製作：DAX
-  - 音樂製作：[flying DOG](../Page/flying_DOG.md "wikilink")
-  - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
+  - 音樂製作：[flying
+    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
+  - 動畫製作：[Production
+    IMS](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")
   - 製作：魔裝學園製作委員會
 
 ### 主題曲
@@ -497,7 +499,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <td><p>絕頂改裝-CLIMAX HYBRID-</p></td>
 <td><p>高田誠</p></td>
 <td></td>
-<td><p><a href="../Page/伊魔崎齋.md" title="wikilink">伊魔崎齋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊魔崎齋" title="wikilink">伊魔崎齋</a></p></td>
 <td><p>伊藤陽祐、吉田尚人</p></td>
 <td><p>津熊健德</p></td>
 <td></td>
@@ -519,7 +521,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <td><p>第六話</p></td>
 <td></td>
 <td><p>絕世破斷-GLADIUS-</p></td>
-<td><p><a href="../Page/久慈政宗.md" title="wikilink">久慈政宗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久慈政宗" title="wikilink">久慈政宗</a></p></td>
 <td><p>吉田英俊</p></td>
 <td><p>山本貴之</p></td>
 <td><p>大野勉</p></td>
@@ -531,7 +533,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <td><p>第七話</p></td>
 <td></td>
 <td><p>帝國英雄-古拉貝爾-</p></td>
-<td><p><a href="../Page/植竹須美男.md" title="wikilink">植竹須美男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/植竹須美男" title="wikilink">植竹須美男</a></p></td>
 <td><p>小川優樹</p></td>
 <td><p>池田智美</p></td>
 <td><p>今田茜</p></td>
@@ -571,7 +573,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <td></td>
 <td><p>決戰前夜-INSTALL-</p></td>
 <td><p>山田靖智</p></td>
-<td><p><a href="../Page/影山楙倫.md" title="wikilink">影山楙倫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影山楙倫" title="wikilink">影山楙倫</a></p></td>
 <td><p>池田智美</p></td>
 <td><p>今田茜</p></td>
 <td><p>高橋健</p></td>

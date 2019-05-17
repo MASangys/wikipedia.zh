@@ -1,7 +1,7 @@
 [HTC_Vive_(16).jpg](https://zh.wikipedia.org/wiki/File:HTC_Vive_\(16\).jpg "fig:HTC_Vive_(16).jpg")
 
 **HTC
-Vive**是一款[虚拟现实](../Page/虚拟现实.md "wikilink")[头戴式显示器](../Page/头戴式显示器.md "wikilink")，由[宏达国际电子](../Page/宏达国际电子.md "wikilink")（HTC）和[維爾福公司](../Page/維爾福.md "wikilink")（Valve
+Vive**是一款[虚拟现实](../Page/虚拟现实.md "wikilink")[头戴式显示器](https://zh.wikipedia.org/wiki/头戴式显示器 "wikilink")，由[宏达国际电子](https://zh.wikipedia.org/wiki/宏达国际电子 "wikilink")（HTC）和[維爾福公司](https://zh.wikipedia.org/wiki/維爾福 "wikilink")（Valve
 Corporation）共同开发，发布于2016年4月5日。
 它也是維爾福公司的SteamVR项目的一部分。这款头戴式显示器的设计利用“房间规模”的技术，通过传感器把一个房间变成三维空间，在虚拟世界中允许用户自然地导航，能四处走动，并使用运动跟踪的手持控制器来生动地操纵物体的能力，有精密的互动，交流和沉浸式环境的体验\[1\]。
 
@@ -14,20 +14,22 @@ Vive”已经被授予了2016年[CES上的](../Page/消費電子展.md "wikilink
 Vive開發者裝置套件提供開發者使用\[2\]。
 
 2016年2月22日，宏達電於世界行動通信大會上宣布，HTC
-Vive的售價為799美元，預定將於[美國東部時間](../Page/美國東部時間.md "wikilink")2月29日上午10點開放預購。宏達電強調，於非美金交易的國家，售價可能有所差異；售價不含稅與運費。最快發貨時間是4月初。首發地有24個地區：台灣、中國大陸、日本、美國、加拿大、英國、德國、法國、奧地利、比利時、捷克、丹麥、芬蘭、冰島、義大利、荷蘭、挪威、波蘭、西班牙、瑞士、愛爾蘭、瑞典、澳洲與紐西蘭\[3\]。
+Vive的售價為799美元，預定將於[美國東部時間](https://zh.wikipedia.org/wiki/美國東部時間 "wikilink")2月29日上午10點開放預購。宏達電強調，於非美金交易的國家，售價可能有所差異；售價不含稅與運費。最快發貨時間是4月初。首發地有24個地區：台灣、中國大陸、日本、美國、加拿大、英國、德國、法國、奧地利、比利時、捷克、丹麥、芬蘭、冰島、義大利、荷蘭、挪威、波蘭、西班牙、瑞士、愛爾蘭、瑞典、澳洲與紐西蘭\[3\]。
 
 ## 技术规格
 
 “HTC
-Vive”具有90赫兹的[刷新速率](../Page/刷新速率.md "wikilink")。该设备使用两个屏幕，每眼一个屏幕，每个屏幕具有1080×1200分辨率\[4\]。
+Vive”具有90赫兹的[刷新速率](https://zh.wikipedia.org/wiki/刷新速率 "wikilink")。该设备使用两个屏幕，每眼一个屏幕，每个屏幕具有1080×1200分辨率\[4\]。
 
 ### 最低系统要求
 
   - GPU: NVIDIA GeForce [GTX
-    970](../Page/NVIDIA_GeForce_900.md "wikilink") / AMD Radeon [R9
-    290](../Page/AMD_Radeon_Rx_200.md "wikilink") 同等或更高的版本
+    970](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_900 "wikilink") /
+    AMD Radeon [R9 290](../Page/AMD_Radeon_Rx_200.md "wikilink")
+    同等或更高的版本
   - CPU: [Intel i5-4590](../Page/Haswell微架構.md "wikilink") / AMD
-    [FX-8350](../Page/AMD_FX處理器列表.md "wikilink") 同等或更高的版本
+    [FX-8350](https://zh.wikipedia.org/wiki/AMD_FX處理器列表 "wikilink")
+    同等或更高的版本
   - RAM: 4GB+
   - Video Output: HDMI 1.4 或 DisplayPort 1.2 或更高版本
   - USB Port: 1x USB 2.0 或更高版本
@@ -39,14 +41,28 @@ Vive”具有90赫兹的[刷新速率](../Page/刷新速率.md "wikilink")。该
 
 ## Vive Pro
 
-HTC於2018一月的美國消費者電子展(CES)公布了 Vive 的昇級版Vive Pro，解析度從原本的 2160 x 1200 提高到
+HTC於2018年1月的美國消費者電子展(CES)公布了 Vive 的昇級版Vive Pro，解析度從原本的 2160 x 1200 提高到
 2880 x 1600，約增加了78%。台灣建議售價新台幣 24,988 元，同年4月5日起全球陸續出貨。此外， Vive
 台灣售價調降到16,800元。
+
+### VR 培訓戰機飛行員
+
+[美國空軍自](https://zh.wikipedia.org/wiki/美國空軍 "wikilink") 2018 年起就開始採用 HTC
+VIVE Pro 裝置，透過 VR 與 AI
+系統來培訓新的飛行員。現在2019年，[英國皇家空軍也將加入採用](../Page/英國皇家空軍.md "wikilink")
+VR 培訓戰機飛行員的計畫。
+
+美國空軍在去年4月在德州奧斯丁空軍部隊預備中心（Armed Forces Reserve
+Center）首次發表的次世代飛行員培訓計畫（Pilot Training
+Next ）課程，此計畫採用先進生物識別、人工智慧及虛擬實境系統來優化空軍訓練新飛行員的方式。
+
+學員透過 VIVE Pro
+頭戴式顯示器、基地台、控制器、閥門及其他設備來模擬駕駛艙及練習演習狀況；該系統採用人工智慧來對飛行員的生物識別進行追蹤，例如壓力指數等，藉以調整模擬器中的環境，以達到最佳的訓練效果\[7\]。
 
 ## Vive Pro Eye
 
 2019年1月，在CES 2019年，HTC推出了一款名為Vive Pro Eye的HTC Vive Pro升級版。
-新設備內置眼球追蹤功能，可讓使用者看到更銳利、更擬真的畫面，也能有效減少能耗，懂得針對性地只在使用者看著的地方優化。同時這新的使用體驗更可以簡化操作體驗，像是功能表上的導覽之類\[7\]。
+新設備內置眼球追蹤功能，可讓使用者看到更銳利、更擬真的畫面，也能有效減少能耗，懂得針對性地只在使用者看著的地方優化。同時這新的使用體驗更可以簡化操作體驗，像是功能表上的導覽之類\[8\]。
 
 ## 参阅
 
@@ -85,3 +101,4 @@ HTC於2018一月的美國消費者電子展(CES)公布了 Vive 的昇級版Vive 
 5.
 6.
 7.
+8.

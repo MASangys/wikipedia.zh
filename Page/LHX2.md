@@ -1,11 +1,11 @@
 **LIM同源框蛋白質
-LHX2**是[蛋白質的一種](../Page/蛋白質.md "wikilink")，在人類內由「LHX2」[基因所編碼](../Page/基因.md "wikilink")。\[1\]\[2\]\[3\]
+LHX2**是[蛋白質的一種](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")，在人類內由「LHX2」[基因所編碼](../Page/基因.md "wikilink")。\[1\]\[2\]\[3\]
 
-LHX2包含[LIM結構域](../Page/LIM結構域.md "wikilink")，这是一種帶有許多[半胱氨酸](../Page/半胱氨酸.md "wikilink")，具[鋅指結構的](../Page/鋅指.md "wikilink")[結構域](../Page/結構域.md "wikilink")。該蛋白質的作用為[轉錄調控](../Page/轉錄調控.md "wikilink")。該蛋白質在[果蠅體內](../Page/果蠅屬.md "wikilink")，可用來回復由其他蛋白質引起的[表型](../Page/表型.md "wikilink")，推測是在演化時留下的功能\[4\]。
+LHX2包含[LIM結構域](https://zh.wikipedia.org/wiki/LIM結構域 "wikilink")，这是一種帶有許多[半胱氨酸](../Page/半胱氨酸.md "wikilink")，具[鋅指結構的](https://zh.wikipedia.org/wiki/鋅指 "wikilink")[結構域](https://zh.wikipedia.org/wiki/結構域 "wikilink")。該蛋白質的作用為[轉錄調控](https://zh.wikipedia.org/wiki/轉錄調控 "wikilink")。該蛋白質在[果蠅體內](https://zh.wikipedia.org/wiki/果蠅屬 "wikilink")，可用來回復由其他蛋白質引起的[表型](https://zh.wikipedia.org/wiki/表型 "wikilink")，推測是在演化時留下的功能\[4\]。
 
 ## 交互作用
 
-LHX2已證實會與[CITED2](../Page/CITED2.md "wikilink")[交互作用](../Page/蛋白質交互作用.md "wikilink")。\[5\]
+LHX2已證實會與[CITED2](https://zh.wikipedia.org/wiki/CITED2 "wikilink")[交互作用](../Page/蛋白質交互作用.md "wikilink")。\[5\]
 
 ## 參考資料
 

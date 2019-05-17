@@ -1,10 +1,10 @@
 **The Nest Coffee
-Shop**是[香港一家](../Page/香港.md "wikilink")[社會企業咖啡店](../Page/社會企業.md "wikilink")，位於[中環](../Page/中環.md "wikilink")[花園道](../Page/花園道.md "wikilink")
+Shop**是[香港一家](../Page/香港.md "wikilink")[社會企業咖啡店](https://zh.wikipedia.org/wiki/社會企業 "wikilink")，位於[中環](../Page/中環.md "wikilink")[花園道](../Page/花園道.md "wikilink")
 4-8 號[聖約翰座堂](../Page/聖約翰座堂_\(香港\).md "wikilink")。
 
 ## 成立背景
 
-[慈善組織](../Page/慈善組織.md "wikilink")[思拔中心為了協助有](../Page/思拔中心.md "wikilink")[學習障礙的殘疾人士就業](../Page/學習障礙.md "wikilink")，聯同中環聖約翰座堂經過4年努力，在超過164年歷史的座堂旁，興建一所可隨時拆卸的積木屋，成立一間專為特殊需要人士提供在職培訓的社會企業咖啡店
+[慈善組織](https://zh.wikipedia.org/wiki/慈善組織 "wikilink")[思拔中心為了協助有](https://zh.wikipedia.org/wiki/思拔中心 "wikilink")[學習障礙的殘疾人士就業](../Page/學習障礙.md "wikilink")，聯同中環聖約翰座堂經過4年努力，在超過164年歷史的座堂旁，興建一所可隨時拆卸的積木屋，成立一間專為特殊需要人士提供在職培訓的社會企業咖啡店
 The Nest Coffee Shop，於2013年11月開幕\[1\]。
 
 「The Nest」意思是解作雀巢，思拔中心希望受訓者能學會與人相處及工作技巧，並盡快離巢，展翅高飛。
@@ -20,7 +20,7 @@ The Nest Coffee Shop，於2013年11月開幕\[1\]。
 ## 參見
 
   - [龍耳](../Page/龍耳.md "wikilink")
-  - [社會企業](../Page/社會企業.md "wikilink")
+  - [社會企業](https://zh.wikipedia.org/wiki/社會企業 "wikilink")
 
 ## 參考資料
 

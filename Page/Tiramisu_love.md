@@ -1,5 +1,5 @@
 《**Tiramisu
-love**》是[韓國男子組合](../Page/韓國.md "wikilink")[超新星成員](../Page/超新星_\(韓國組合\).md "wikilink")[尹成模之首張日語](../Page/尹成模.md "wikilink")[迷你專輯](../Page/迷你專輯.md "wikilink")，在2015年8月4日以兩個版本：通常盤、初回盤
+love**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星成員](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")[尹成模之首張日語](https://zh.wikipedia.org/wiki/尹成模 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2015年8月4日以兩個版本：通常盤、初回盤
 Type-A及初回盤 Type-B推出\[1\]，主打曲目為《Butterfly》。
 
 ## 背景

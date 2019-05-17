@@ -1,7 +1,7 @@
 **Windows Server 2016**\[1\]（前称**Windows Server
 vNext**）是[微软推出的第七个](../Page/微软.md "wikilink")[Windows
 Server系列](../Page/Windows_Server.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，它是[Windows
-10的服务器版本](../Page/Windows_10.md "wikilink")。它的第一个早期预览版本（技术预览版）连同System
+10的服务器版本](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。它的第一个早期预览版本（技术预览版）连同System
 Center的第一个技术预览版于2014年10月1日推出\[2\]。正式版于2016年9月26日推出\[3\]，并于同年10月12日正式发售\[4\]。Server
 2016没有和Windows 10同时发布，对此官方解释称这是为了在正式版发布前推出更多的技术预览版以便改善系统的稳定性。
 
@@ -9,25 +9,25 @@ Center的第一个技术预览版于2014年10月1日推出\[2\]。正式版于20
 
 Windows Server 2016具有多种新功能，其中包括：
 
-  - ：可以配置活动目录联合服务来验证用户存储在非[活动目录的身份](../Page/活动目录.md "wikilink")，例如[X.500兼容的](../Page/X.500.md "wikilink")[轻量级目录访问协议](../Page/轻量级目录访问协议.md "wikilink")（LDAP）目录和[SQL数据库](../Page/SQL.md "wikilink")。\[5\]
+  - ：可以配置活动目录联合服务来验证用户存储在非[活动目录的身份](https://zh.wikipedia.org/wiki/活动目录 "wikilink")，例如[X.500兼容的](https://zh.wikipedia.org/wiki/X.500 "wikilink")[轻量级目录访问协议](https://zh.wikipedia.org/wiki/轻量级目录访问协议 "wikilink")（LDAP）目录和[SQL数据库](../Page/SQL.md "wikilink")。\[5\]
 
   - [Windows Defender](../Page/Windows_Defender.md "wikilink")：Windows
     Server反恶意软件已經安装并默认启用（无GUI），这是一个可安装的Windows功能。\[6\]
 
   - [Remote Desktop
-    Services](../Page/Remote_Desktop_Services.md "wikilink")：支持[OpenGL](../Page/OpenGL.md "wikilink")
+    Services](https://zh.wikipedia.org/wiki/Remote_Desktop_Services "wikilink")：支持[OpenGL](../Page/OpenGL.md "wikilink")
     4.4和[OpenCL](../Page/OpenCL.md "wikilink") 1.1，性能和稳定性改进；MultiPoint
     Services角色（见[Windows MultiPoint
-    Server](../Page/Windows_MultiPoint_Server.md "wikilink")）\[7\]
+    Server](https://zh.wikipedia.org/wiki/Windows_MultiPoint_Server "wikilink")）\[7\]
 
-  - ：中心化存储QoS策略；（使用[SMB3在服务器间提供存储无关](../Page/伺服器訊息區塊.md "wikilink")、块级别、基于卷、同步和异步复制的[灾难恢复](../Page/灾难恢复.md "wikilink")）。\[8\]存储副本复制块而非文件；文件可以正在使用。它不是多主，不是一对多和不可传递。它定期复制快照，并可更改复制方向。
+  - ：中心化存储QoS策略；（使用[SMB3在服务器间提供存储无关](../Page/伺服器訊息區塊.md "wikilink")、块级别、基于卷、同步和异步复制的[灾难恢复](https://zh.wikipedia.org/wiki/灾难恢复 "wikilink")）。\[8\]存储副本复制块而非文件；文件可以正在使用。它不是多主，不是一对多和不可传递。它定期复制快照，并可更改复制方向。
 
   - ：群集操作系统滚动升级、存储副本\[9\]
 
   - ：为[HTTP基本认证应用程序提供预身份验证](../Page/HTTP基本认证.md "wikilink")，通配符发布应用程序，HTTP到HTTPS重定向，客户端IP地址传播到后端应用程序\[10\]
 
   - [IIS
-    10](../Page/網際網路資訊服務.md "wikilink")：支持[HTTP/2](../Page/HTTP/2.md "wikilink")
+    10](../Page/網際網路資訊服務.md "wikilink")：支持[HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")
 
   - Windows Server Containers
 
@@ -38,7 +38,7 @@ Windows Server 2016具有多种新功能，其中包括：
 
 ### 网络功能
 
-  - [动态主机设置协议](../Page/动态主机设置协议.md "wikilink")：因为[網路存取保護技術在Windows](../Page/網路存取保護技術.md "wikilink")
+  - [动态主机设置协议](../Page/动态主机设置协议.md "wikilink")：因为[網路存取保護技術在Windows](https://zh.wikipedia.org/wiki/網路存取保護技術 "wikilink")
     Server 2012 R2中已弃用，在Windows Server 2016中DHCP角色不再支持NAP\[13\]
 
   - [DNS](../Page/域名系统.md "wikilink")：
@@ -51,7 +51,7 @@ Windows Server 2016具有多种新功能，其中包括：
 
   - （IPAM）：支持/31、/32和/128子网；基于文件的发现，加入域的DNS服务器；新的DNS功能；更好的DNS、DHCP和IP地址（DDI）集成管理\[17\]
 
-  - [网络控制器](../Page/网络控制器.md "wikilink")，一个新的服务器角色来配置、管理、监控和故障排除数据中心中虚拟和物理的网络设备与服务。\[18\]
+  - [网络控制器](https://zh.wikipedia.org/wiki/网络控制器 "wikilink")，一个新的服务器角色来配置、管理、监控和故障排除数据中心中虚拟和物理的网络设备与服务。\[18\]
 
   - Hyper-V：可编程Hyper-V切换（微软[軟體定義網路解决方案的新构建块](../Page/軟體定義網路.md "wikilink")）；[VXLAN封装支持](../Page/虛擬局域網擴展.md "wikilink")。微软软件负载平衡器互操作性；更好的兼容IEEE以太网标准。\[19\]
 
@@ -85,15 +85,15 @@ Windows Server 2016具有多种新功能，其中包括：
 
 微软宣布了新的安装选项：Nano Server。这是Windows
 Server的最小足迹安装选项。它不包括图形用户界面、[WoW64](../Page/WoW64.md "wikilink")（用于支持32位软件）和[Windows
-Installer](../Page/Windows_Installer.md "wikilink")，不支持控制台登录和本地或[远程桌面连接的登录](../Page/远程桌面连接.md "wikilink")。所有管理均通过[Windows
+Installer](../Page/Windows_Installer.md "wikilink")，不支持控制台登录和本地或[远程桌面连接的登录](https://zh.wikipedia.org/wiki/远程桌面连接 "wikilink")。所有管理均通过[Windows
 Management
-Instrumentation](../Page/Windows_Management_Instrumentation.md "wikilink")（WMI）和PowerShell远程执行。微软工程师Jeffrey
+Instrumentation](https://zh.wikipedia.org/wiki/Windows_Management_Instrumentation "wikilink")（WMI）和PowerShell远程执行。微软工程师Jeffrey
 Snover称，Nano Server降低93%大小，92%关键安全通告，并比Windows
 Server减少80%重新启动。\[22\]\[23\]
 
 ## 开发
 
-自[萨蒂亚·纳德拉担任微软首席执行官后](../Page/萨蒂亚·纳德拉.md "wikilink")，Windows
+自[萨蒂亚·纳德拉担任微软首席执行官后](https://zh.wikipedia.org/wiki/萨蒂亚·纳德拉 "wikilink")，Windows
 Server和System
 Center的开发团队合二为一（以前Server团队Windows客户端团队的合作更加紧密）。另外，[Azure团队也同样和Windows](../Page/Microsoft_Azure.md "wikilink")
 Server团队紧密地合作着。\[24\]
@@ -113,9 +113,10 @@ Server 2016的第三个预览版本发布\[27\]。2015年11月19日，Windows Se
 Windows Server
 2016于2016年9月26日正式推出\[30\]\[31\]，于同年10月12日正式发售\[32\]。与前代不同的是，Windows
 Server
-2016是根据[处理器的核心数而非](../Page/多核心处理器.md "wikilink")[处理器的数量进行授权](../Page/CPU插座.md "wikilink")，在此之前，[BizTalk
-Server 2013以及](../Page/BizTalk.md "wikilink")[SQL Server
-2014等就曾采用过这种授权方式](../Page/Microsoft_SQL_Server.md "wikilink")\[33\]。
+2016是根据[处理器的核心数而非](https://zh.wikipedia.org/wiki/多核心处理器 "wikilink")[处理器的数量进行授权](../Page/CPU插座.md "wikilink")，在此之前，[BizTalk
+Server 2013以及](https://zh.wikipedia.org/wiki/BizTalk "wikilink")[SQL
+Server
+2014等就曾采用过这种授权方式](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")\[33\]。
 
 ### 版本历史
 
@@ -161,7 +162,7 @@ Technical Preview 5<br />
 </tr>
 <tr class="odd">
 <td><p>10.0.14393<br />
-<a href="../Page/軟件版本週期#RTM.md" title="wikilink">RTM</a><br />
+<a href="https://zh.wikipedia.org/wiki/軟件版本週期#RTM" title="wikilink">RTM</a><br />
 </p></td>
 </tr>
 <tr class="even">

@@ -16,13 +16,15 @@ Bouvier。\[4\]\[5\]
 \[6\]
 
 成立了 Natural Le Coultre
-公司并建立了与[日内瓦自由港](../Page/日内瓦自由港.md "wikilink")（）联系后，Bouvier
+公司并建立了与[日内瓦自由港](https://zh.wikipedia.org/wiki/日内瓦自由港 "wikilink")（）联系后，Bouvier
 于2010年设立了第一家新加坡自由港，这是一个靠近机场、占地 30000 平方米的设施。 \[7\]
 
 不过在 2012 年，他卷入了一起与名为 Lorette Shefner 的加拿大收藏家有关的法律案件。Shefner
 的家人声称她是一起复杂欺诈案的受害者。她被说服以远低于市场价的价格出售了一幅
 [Soutine](../Page/柴姆·苏丁.md "wikilink") 的画，随后却发现该画在华盛顿特区的国家艺术画廊（[National
-Gallery of Art](../Page/國家藝廊.md "wikilink")）以远高得多的价格被售出。 \[8\]\[9\]
+Gallery of
+Art](https://zh.wikipedia.org/wiki/國家藝廊 "wikilink")）以远高得多的价格被售出。
+\[8\]\[9\]
 
 此外，de la Béraudière 还被牵连进了臭名昭著的  案件。Wolfgang Beltracchi 是一位德国造假大师，于 2011
 年因骗取多位收藏家高达数百万美元而被判有罪，受害者包括了 。 \[10\]
@@ -58,8 +60,9 @@ Bouvier 及共同被告 Tania Rappo 试图于 2015 年 11 月驳回对其指控�
 Rybolovlev 作为一名显赫的摩纳哥公民，可能不正当地行使了其影响力。 \[19\]
 
 不过法官驳回了他们的说法，两人都将于 2016 年在[摩纳哥面临审判](../Page/摩纳哥.md "wikilink")。在 2016
-年的晚些时候，Bouvier 还将在[法国面临](../Page/法国.md "wikilink") Hutin-Blay
-一案的审判。 \[20\]
+年的晚些时候，Bouvier
+还将在[法国面临](https://zh.wikipedia.org/wiki/法国 "wikilink")
+Hutin-Blay 一案的审判。 \[20\]
 
 2015 年末，作为 Max Ernst 作品伪造案件中的一个实例，Bouvier
 还因在[列支敦士登](../Page/列支敦斯登.md "wikilink")[洗钱嫌疑而受到当局调查](../Page/洗錢.md "wikilink")，该作品被指控由

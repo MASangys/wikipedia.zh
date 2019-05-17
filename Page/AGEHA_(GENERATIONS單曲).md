@@ -1,5 +1,5 @@
-《**AGEHA**》（鳳蝶）是[日本](../Page/日本.md "wikilink")[音樂團體](../Page/音樂團體.md "wikilink")[GENERATIONS的第](../Page/GENERATIONS_from_EXILE_TRIBE.md "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2016年1月27日由[rhythm
-zone发售](../Page/rhythm_zone.md "wikilink")。
+《**AGEHA**》（鳳蝶）是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2016年1月27日由[rhythm
+zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 

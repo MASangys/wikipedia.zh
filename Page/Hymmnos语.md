@@ -1,9 +1,9 @@
-**Hymmnos语**（）又称作塔语、AT语，因为“hymmnos”词义为“诗歌”，故又称做诗语。是在[株式会社万普和](../Page/株式会社万普.md "wikilink")[Gust的原创作品](../Page/Gust.md "wikilink")“[魔塔大陸系列](../Page/魔塔大陸系列.md "wikilink")”（[PS2和](../Page/PS2.md "wikilink")[PS3上的游戏软件](../Page/PS3.md "wikilink")）中以及其衍生作品和关联作品中出现的一种[架空语言](../Page/藝術語言.md "wikilink")。并且，在作品外也单指没有使用Hymmnos文字（而是拉丁字母）写作的Hymmnos歌曲，但其本意和Hymmnos语没有区别（类似于俄语的[西里尔字母写法和](../Page/西里尔字母.md "wikilink")[拉丁字母写法](../Page/拉丁字母.md "wikilink")）。由于该语言存在基本的语法和[词典](http://hymmnoserver.uguu.ca/browse.php)，现实世界也存在少量再利用该语言的人群。但同时，因为词汇量比较少，再加上官方给出的词典并没有涵盖所有的单词。所以基本只能用来写诗或歌曲，而难以用来日常交流。
+**Hymmnos语**（）又称作塔语、AT语，因为“hymmnos”词义为“诗歌”，故又称做诗语。是在[株式会社万普和](https://zh.wikipedia.org/wiki/株式会社万普 "wikilink")[Gust的原创作品](../Page/Gust.md "wikilink")“[魔塔大陸系列](../Page/魔塔大陸系列.md "wikilink")”（[PS2和](https://zh.wikipedia.org/wiki/PS2 "wikilink")[PS3上的游戏软件](https://zh.wikipedia.org/wiki/PS3 "wikilink")）中以及其衍生作品和关联作品中出现的一种[架空语言](../Page/藝術語言.md "wikilink")。并且，在作品外也单指没有使用Hymmnos文字（而是拉丁字母）写作的Hymmnos歌曲，但其本意和Hymmnos语没有区别（类似于俄语的[西里尔字母写法和](../Page/西里尔字母.md "wikilink")[拉丁字母写法](../Page/拉丁字母.md "wikilink")）。由于该语言存在基本的语法和[词典](http://hymmnoserver.uguu.ca/browse.php)，现实世界也存在少量再利用该语言的人群。但同时，因为词汇量比较少，再加上官方给出的词典并没有涵盖所有的单词。所以基本只能用来写诗或歌曲，而难以用来日常交流。
 
 ## 概要
 
 “魔塔大陆（Ar
-Tonelico）系列”是以来自过去的人们的灾害而使得文明的一部分被毁坏、残存下来的科技的一部分被以“魔法”所描述的世界为舞台的[SF](../Page/科学幻想.md "wikilink")[奇幻作品](../Page/奇幻作品.md "wikilink")（详情参照[魔塔大陆系列](../Page/魔塔大陆系列.md "wikilink")）。Hymmnos语不但作为魔法咏唱的语言，还在游戏全系列包括剧中歌、背景图像等位置大量出现。作为一门游戏内原创的[人工语言](../Page/人工语言.md "wikilink")，单词的含义和语法都是有详实的意义的。游戏内并没有包含Hymmnos语的大多数解释，也没有解析其中的含义，不过来自官方的公式网站\[1\]为许多场合提供了便利，比如希望翻译它们的媒体或想要了解剧中歌的秘密与登场人物的心情和文字后面隐藏的含义的玩家。\[2\]。
+Tonelico）系列”是以来自过去的人们的灾害而使得文明的一部分被毁坏、残存下来的科技的一部分被以“魔法”所描述的世界为舞台的[SF](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")[奇幻作品](../Page/奇幻作品.md "wikilink")（详情参照[魔塔大陆系列](https://zh.wikipedia.org/wiki/魔塔大陆系列 "wikilink")）。Hymmnos语不但作为魔法咏唱的语言，还在游戏全系列包括剧中歌、背景图像等位置大量出现。作为一门游戏内原创的[人工语言](https://zh.wikipedia.org/wiki/人工语言 "wikilink")，单词的含义和语法都是有详实的意义的。游戏内并没有包含Hymmnos语的大多数解释，也没有解析其中的含义，不过来自官方的公式网站\[1\]为许多场合提供了便利，比如希望翻译它们的媒体或想要了解剧中歌的秘密与登场人物的心情和文字后面隐藏的含义的玩家。\[2\]。
 
 游戏中该语言常被称作**想音语言**或**感情语言**，不过一般还是叫做「」（Hymmnos）。不过，在Ar
 Tonelico系列中，Hymmnos同时具备着“诗”的含义，两者的含义不能混用。游戏中的日常生活使用的是叫做Shell的其他语言，Hymmnos对一般人来说则是古代语，也很少被诗魔法少女（）以外的人使用，例如咒文、隔壁操作、塔的管理等。
@@ -122,7 +122,8 @@ Hymmnos语在各种各样的场景和故事中以各种各样的派生形态存�
 Ar Ciela是由整个游戏系列的主舞台——星球（Ar
 Ciel）纺织的语言，并不是为了让人类使用而创造的语言。律史前月读的原型就是星语，星语也和Hymmnos语不同，并不是使用Hymmnos文字而是使用别的文字来记录。星语的频率远超人类的可听区域，要准确把握每个音的含义并汲取出来是不可能的。在游戏的世界观设定中，Arkia研究所（アルキア研究所）经过研究后总算把握住了其中一部分音表面上的含义。
 
-有关星语的其他信息请参照词条[Ar Ciela](../Page/Ar_Ciela.md "wikilink")。
+有关星语的其他信息请参照词条[Ar
+Ciela](https://zh.wikipedia.org/wiki/Ar_Ciela "wikilink")。
 
 #### 律史前月读（Carmena Foreluna）
 
@@ -779,12 +780,14 @@ Extract的下载和隔离墙\[7\]认证等处。
 
 ## 扩展阅读
 
-  - [魔塔大陆系列](../Page/魔塔大陆系列.md "wikilink")
-      - [魔塔大陆 在世界终结续咏诗篇的少女](../Page/魔塔大陆_在世界终结续咏诗篇的少女.md "wikilink")
-      - [魔塔大陆2 少女们于世界中回响的创造诗](../Page/魔塔大陆2_少女们于世界中回响的创造诗.md "wikilink")
-      - [魔塔大陆3～世界终焉的引线是少女弹奏之诗～](../Page/魔塔大陆3～世界终焉的引线是少女弹奏之诗～.md "wikilink")
-  - [人工语言](../Page/人工语言.md "wikilink")
-  - [艺术语言](../Page/艺术语言.md "wikilink")
+  - [魔塔大陆系列](https://zh.wikipedia.org/wiki/魔塔大陆系列 "wikilink")
+      - [魔塔大陆
+        在世界终结续咏诗篇的少女](https://zh.wikipedia.org/wiki/魔塔大陆_在世界终结续咏诗篇的少女 "wikilink")
+      - [魔塔大陆2
+        少女们于世界中回响的创造诗](https://zh.wikipedia.org/wiki/魔塔大陆2_少女们于世界中回响的创造诗 "wikilink")
+      - [魔塔大陆3～世界终焉的引线是少女弹奏之诗～](https://zh.wikipedia.org/wiki/魔塔大陆3～世界终焉的引线是少女弹奏之诗～ "wikilink")
+  - [人工语言](https://zh.wikipedia.org/wiki/人工语言 "wikilink")
+  - [艺术语言](https://zh.wikipedia.org/wiki/艺术语言 "wikilink")
 
 ## 外部链接
 

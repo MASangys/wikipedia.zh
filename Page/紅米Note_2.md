@@ -1,14 +1,15 @@
 **紅米Note
-2**是[小米科技於](../Page/小米科技.md "wikilink")2015年8月13日所推出的中階[智慧型手機](../Page/智慧型手機.md "wikilink")，為[紅米手機千元旗艦系列中的第二款產品](../Page/紅米手機.md "wikilink")，搭載[Android](../Page/Android.md "wikilink")
-[5.0](../Page/Android歷史版本.md "wikilink")、5.5吋[Full
-HD螢幕](../Page/Full_HD.md "wikilink")、[MediaTek](../Page/MediaTek.md "wikilink")
-[Helio](../Page/Helio_系列.md "wikilink")™ X10 64位元處理器 、2GB記憶體、16GB / 32GB
-儲存空間，共有三種版本。
+2**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年8月13日所推出的中階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為[紅米手機千元旗艦系列中的第二款產品](https://zh.wikipedia.org/wiki/紅米手機 "wikilink")，搭載[Android](../Page/Android.md "wikilink")
+[5.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.5吋[Full
+HD螢幕](../Page/Full_HD.md "wikilink")、[MediaTek](https://zh.wikipedia.org/wiki/MediaTek "wikilink")
+[Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X10 64位元處理器
+、2GB記憶體、16GB / 32GB 儲存空間，共有三種版本。
 
 ## 历史
 
-2015年8月13日，小米公司发布[红米Note2](../Page/红米Note2.md "wikilink")\[1\]，处理器使用联发科
-[Heilo](../Page/Heilo.md "wikilink") X10八核心处理器，搭配2GB RAM、5.5英寸 1080P
+2015年8月13日，小米公司发布[红米Note2](https://zh.wikipedia.org/wiki/红米Note2 "wikilink")\[1\]，处理器使用联发科
+[Heilo](https://zh.wikipedia.org/wiki/Heilo "wikilink") X10八核心处理器，搭配2GB
+RAM、5.5英寸 1080P
 IPS屏幕，网络制式分为移动版/双网通版，移动版支持移动4G+GSM双卡双待、双网通版支持移动/联通4G+GSM双卡双待。双网通版配置分为标准版/增强版，标准版CPU频率为2.0GHz、搭配16GB
 ROM，增强版CPU频率为2.2GHz、搭配32GB
 ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双网通版售价为899/999元人民幣。
@@ -57,8 +58,8 @@ ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双�
 </tr>
 <tr class="odd">
 <td><p>CPU</p></td>
-<td><p><a href="../Page/联发科.md" title="wikilink">联发科</a> Helio X10 MT6795 八核心 2.0GHz ARM Cortex-A53</p></td>
-<td><p><a href="../Page/联发科.md" title="wikilink">联发科</a> Helio X10 MT6795T 八核心 2.2GHz ARM Cortex-A53</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/联发科" title="wikilink">联发科</a> Helio X10 MT6795 八核心 2.0GHz ARM Cortex-A53</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/联发科" title="wikilink">联发科</a> Helio X10 MT6795T 八核心 2.2GHz ARM Cortex-A53</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -69,7 +70,7 @@ ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双�
 </tr>
 <tr class="odd">
 <td><p>RAM</p></td>
-<td><p>2GB <a href="../Page/LPDDR.md" title="wikilink">LPDDR</a>3</p></td>
+<td><p>2GB <a href="https://zh.wikipedia.org/wiki/LPDDR" title="wikilink">LPDDR</a>3</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -118,13 +119,13 @@ ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双�
 </tr>
 <tr class="odd">
 <td><p>卫星定位</p></td>
-<td><p><a href="../Page/GPS.md" title="wikilink">GPS</a>、<a href="../Page/A-GPS.md" title="wikilink">A-GPS</a>、<a href="../Page/GLONASS.md" title="wikilink">GLONASS</a>、<a href="../Page/北斗卫星导航系统.md" title="wikilink">北斗卫星导航系统</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a>、<a href="https://zh.wikipedia.org/wiki/GLONASS" title="wikilink">GLONASS</a>、<a href="../Page/北斗卫星导航系统.md" title="wikilink">北斗卫星导航系统</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>传输技术</p></td>
-<td><p><a href="../Page/MicroUSB.md" title="wikilink">MicroUSB</a> 2.0、双频<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> a/b/g/n/ac (2.4/5GHz) 、<a href="../Page/蓝牙.md" title="wikilink">蓝牙</a>4.0、WiFi Display、WiFi Direct</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MicroUSB" title="wikilink">MicroUSB</a> 2.0、双频<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> a/b/g/n/ac (2.4/5GHz) 、<a href="https://zh.wikipedia.org/wiki/蓝牙" title="wikilink">蓝牙</a>4.0、WiFi Display、WiFi Direct</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -141,7 +142,7 @@ ROM，移动版配置仅有标准版。移动版售价为799元人民幣，双�
 
 ### 偷工减料
 
-红米Note2发售初期，在中国大陆的B2C商城，例如[京东](../Page/京东.md "wikilink")、[苏宁等产品介绍中](../Page/苏宁.md "wikilink")，曾提及其使用的是夏普/友达屏幕，而网友拿到手之后，发现其实际配置的是廉价的国产天马屏，并且官方宣称的三星摄像头也被更换成了欧光菲摄像头，从而产生争议。目前亦有其他网友使用官方宣传图，历史页面，宣传视频等其他方式反驳官方并没有承诺过其使用的是夏普/友达屏幕。\[3\]目前小米官方并没有对此事件作出回应。
+红米Note2发售初期，在中国大陆的B2C商城，例如[京东](https://zh.wikipedia.org/wiki/京东 "wikilink")、[苏宁等产品介绍中](https://zh.wikipedia.org/wiki/苏宁 "wikilink")，曾提及其使用的是夏普/友达屏幕，而网友拿到手之后，发现其实际配置的是廉价的国产天马屏，并且官方宣称的三星摄像头也被更换成了欧光菲摄像头，从而产生争议。目前亦有其他网友使用官方宣传图，历史页面，宣传视频等其他方式反驳官方并没有承诺过其使用的是夏普/友达屏幕。\[3\]目前小米官方并没有对此事件作出回应。
 
 而与此同时也有关于保险条例的修改，从原先“换新”改为“维修”，引起网友不满。
 

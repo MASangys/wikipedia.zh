@@ -1,5 +1,5 @@
 **覺醒音樂祭**（Wake Up Festival）又稱Wake
-up音樂祭，樂迷暱稱威卡，是台灣[嘉義市的國際音樂祭](../Page/嘉義市.md "wikilink")，其前身名為「起來音樂祭」的地方小型樂團成果發表會。最早期於2009年由[嘉義的一群來自不同各校的熱音社高中生創辦](../Page/嘉義.md "wikilink")，經過多年的演進已經成為台灣大型國際音樂節。而後其除音樂祭外，也因為音樂祭的逐步成長，衍生出許多系列活動與品牌，例如“日初音樂節”、“搖滾本事”、“Grow
+up音樂祭，樂迷暱稱威卡，是台灣[嘉義市的國際音樂祭](../Page/嘉義市.md "wikilink")，其前身名為「起來音樂祭」的地方小型樂團成果發表會。最早期於2009年由[嘉義的一群來自不同各校的熱音社高中生創辦](https://zh.wikipedia.org/wiki/嘉義 "wikilink")，經過多年的演進已經成為台灣大型國際音樂節。而後其除音樂祭外，也因為音樂祭的逐步成長，衍生出許多系列活動與品牌，例如“日初音樂節”、“搖滾本事”、“Grow
 Up搖滾營”等，帶動了嘉義地區的獨立音樂創作與展演風氣。也藉由協力的方式，影響地方的觀光與後來的跨年晚會、管樂節、各大古蹟與園區的開發等等的公共政策與方向。2016年Wake
 Up團隊（即覺醒藝術策展有限公司）開設嘉義第一家Live House“傲頭厝展演空間Our Town Live
 House”而終於在創辦音樂祭的七年多後解決了嘉義沒有表演場地的問題。
@@ -21,21 +21,21 @@ Up音樂祭，並在與當年成員的奔走下（大多數為嘉義高商學生
 ## 第二屆
 
 [LAZY
-LADY](../Page/LAZY_LADY.md "wikilink")、[漂浮者](../Page/漂浮者.md "wikilink")、[冰霜之淚](../Page/冰霜之淚.md "wikilink")、[林得](../Page/林得\(樂團\).md "wikilink")、[太空輪](../Page/太空輪.md "wikilink")...等等10餘組樂團參演，當時團隊受到搞怪團體[CIRCUS節目某集取笑](../Page/CIRCUS.md "wikilink")[嘉義是鄉下的刺激](../Page/嘉義.md "wikilink")，為擺脫落後的都市形象，並且期許活動走向國際化格局，正式正名為Wake
+LADY](https://zh.wikipedia.org/wiki/LAZY_LADY "wikilink")、[漂浮者](https://zh.wikipedia.org/wiki/漂浮者 "wikilink")、[冰霜之淚](https://zh.wikipedia.org/wiki/冰霜之淚 "wikilink")、[林得](https://zh.wikipedia.org/wiki/林得\(樂團\) "wikilink")、[太空輪](https://zh.wikipedia.org/wiki/太空輪 "wikilink")...等等10餘組樂團參演，當時團隊受到搞怪團體[CIRCUS節目某集取笑](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")[嘉義是鄉下的刺激](https://zh.wikipedia.org/wiki/嘉義 "wikilink")，為擺脫落後的都市形象，並且期許活動走向國際化格局，正式正名為Wake
 Up音樂祭，Wake
-Up音樂祭自此創辦，與起來音樂祭不同之處，除了因原班人團隊與起來音樂祭成員幾乎完全不同外，團隊開始思考「音樂祭」的定義而開放當時的獨立樂團報名徵選，並且以組織化的方式管理成員，款項的籌集也從向路邊的商家募款，改變為與企業、非營利組織進行贊助交換的談判，最終由地方廟宇[嘉義文財殿贊助當年度所有經費](../Page/嘉義文財殿.md "wikilink")10萬元經費而成功舉辦，除此之外瑪格KTV楊老闆（主辦人顏廷憲同班同學的父親）以及嘉義聞人綠豆嘉義人與PTT嘉義版版主陳力七之私人贊助少許經費跟物資，正式進入獨立音樂祭的世界。
+Up音樂祭自此創辦，與起來音樂祭不同之處，除了因原班人團隊與起來音樂祭成員幾乎完全不同外，團隊開始思考「音樂祭」的定義而開放當時的獨立樂團報名徵選，並且以組織化的方式管理成員，款項的籌集也從向路邊的商家募款，改變為與企業、非營利組織進行贊助交換的談判，最終由地方廟宇[嘉義文財殿贊助當年度所有經費](https://zh.wikipedia.org/wiki/嘉義文財殿 "wikilink")10萬元經費而成功舉辦，除此之外瑪格KTV楊老闆（主辦人顏廷憲同班同學的父親）以及嘉義聞人綠豆嘉義人與PTT嘉義版版主陳力七之私人贊助少許經費跟物資，正式進入獨立音樂祭的世界。
 
 ## 第三屆
 
-[恕](../Page/恕_\(樂團.md "wikilink")、[白目樂隊](../Page/白目樂隊.md "wikilink")、[血肉果汁機](../Page/血肉果汁機.md "wikilink")、[激膚](../Page/激膚.md "wikilink")、[非人物種](../Page/非人物種.md "wikilink")、[謝和弦與](../Page/謝和弦.md "wikilink")[海平面樂團等](../Page/海平面樂團.md "wikilink")20幾組知名樂團參演。活動擴大為兩天，[BEYOND
-CURE與](../Page/BEYOND_CURE.md "wikilink")[滅火器部分成員也來到音樂祭現場遊玩並與主辦團隊結識並促成往後多年的合作關係](../Page/滅火器樂團.md "wikilink")，第三屆發生[謝和弦呼麻暴走負面新聞登上全國版面](../Page/謝和弦.md "wikilink")、[嘉义市政府方與學生團隊溝通不良而衝突](../Page/嘉义市政府.md "wikilink")、當地居民不滿音量過大等衝上舞台攻擊樂手，盆地型場地因下雨淹成湖等等經典事件，自此開始聲名大噪，並被嘉義市政府短暫封殺租借場地一年，而一年間Wake
+[恕](https://zh.wikipedia.org/wiki/恕_\(樂團 "wikilink")、[白目樂隊](https://zh.wikipedia.org/wiki/白目樂隊 "wikilink")、[血肉果汁機](../Page/血肉果汁機.md "wikilink")、[激膚](https://zh.wikipedia.org/wiki/激膚 "wikilink")、[非人物種](https://zh.wikipedia.org/wiki/非人物種 "wikilink")、[謝和弦與](../Page/謝和弦.md "wikilink")[海平面樂團等](https://zh.wikipedia.org/wiki/海平面樂團 "wikilink")20幾組知名樂團參演。活動擴大為兩天，[BEYOND
+CURE與](https://zh.wikipedia.org/wiki/BEYOND_CURE "wikilink")[滅火器部分成員也來到音樂祭現場遊玩並與主辦團隊結識並促成往後多年的合作關係](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")，第三屆發生[謝和弦呼麻暴走負面新聞登上全國版面](../Page/謝和弦.md "wikilink")、[嘉义市政府方與學生團隊溝通不良而衝突](https://zh.wikipedia.org/wiki/嘉义市政府 "wikilink")、當地居民不滿音量過大等衝上舞台攻擊樂手，盆地型場地因下雨淹成湖等等經典事件，自此開始聲名大噪，並被嘉義市政府短暫封殺租借場地一年，而一年間Wake
 Up團隊面臨分裂而空轉半年，而因為主辦人顏廷憲與副召集人蕭達謙回歸場地後四處奔走之下，並以蕭達謙之人頭名義掛名租借場地，才得以成功舉辦後來的第四屆音樂祭。
 
 ## 第四屆
 
-開始有國外樂團參演音樂祭，由南部知名樂團恕樂團貝斯手[小睿牽線給主辦團隊的](../Page/小睿.md "wikilink")[EACH OF
-THE
-DAYS加入演出陣容](../Page/EACH_OF_THE_DAYS.md "wikilink")，此次為第一次有國外樂團參演音樂祭。另外因第三屆結束後，團隊因理念不合發生分裂事件，創辦人顏廷憲與其派系被趕出團隊（但仍握有覺醒音樂祭之商標權，僅因為在兩派協議之下協議讓另一派嘗試舉辦第四屆活動）而在分裂期間，與其派系組織[臺南](../Page/臺南.md "wikilink")、[高雄等南部地區所有大學音樂社團準備籌辦以流浪動物為主題的](../Page/高雄.md "wikilink")《流浪音樂節》，最後因當時的Wake
+開始有國外樂團參演音樂祭，由南部知名樂團恕樂團貝斯手[小睿牽線給主辦團隊的](https://zh.wikipedia.org/wiki/小睿 "wikilink")[EACH
+OF THE
+DAYS加入演出陣容](https://zh.wikipedia.org/wiki/EACH_OF_THE_DAYS "wikilink")，此次為第一次有國外樂團參演音樂祭。另外因第三屆結束後，團隊因理念不合發生分裂事件，創辦人顏廷憲與其派系被趕出團隊（但仍握有覺醒音樂祭之商標權，僅因為在兩派協議之下協議讓另一派嘗試舉辦第四屆活動）而在分裂期間，與其派系組織[臺南](https://zh.wikipedia.org/wiki/臺南 "wikilink")、[高雄等南部地區所有大學音樂社團準備籌辦以流浪動物為主題的](https://zh.wikipedia.org/wiki/高雄 "wikilink")《流浪音樂節》，最後因當時的Wake
 Up音樂祭新團隊缺乏經驗，導致空轉半年而面臨無法籌辦的局面，三月，顏與其派系帶領《流浪音樂節》重要幹部重新回到Wake
 Up團隊，反對派在回歸團隊一週間陸續自行退出組織，這年因開始與政府由敵對轉為行政合作關係（無領取補助金）於是並未遭遇噪音的問題，籌辦開始趨於平順，並奠定穩固的群眾基礎，位於市中心的Wake
 Up音樂祭超過三萬累計流動人次以上在兩天內穿梭於會場以及其週邊地區，此時已掌握籌備演唱會的技術，並開始承攬除了音樂祭以外的其他演唱會或音樂活動，並開始為許多藝人與演唱會生產代工產品。
@@ -43,21 +43,21 @@ Up音樂祭超過三萬累計流動人次以上在兩天內穿梭於會場以及
 ## 第五屆
 
 Wake
-Up音樂祭的售票化開始，轉移會場至近於廢墟般雜亂的[嘉義文化創意產業園區（嘉義舊酒廠）舉辦](../Page/嘉義文化創意產業園區.md "wikilink")，但在確定轉移場地之前，其實Wake
+Up音樂祭的售票化開始，轉移會場至近於廢墟般雜亂的[嘉義文化創意產業園區（嘉義舊酒廠）舉辦](https://zh.wikipedia.org/wiki/嘉義文化創意產業園區 "wikilink")，但在確定轉移場地之前，其實Wake
 Up團隊自2009年便已開始在舊酒廠場地勘察，並與許多地方音樂人在此處活動，練團等，並以暫時借用的方式擁有自己的辦公室，而從2014年開始，Wake
-Up音樂祭擴增為四個舞台，分別為射日、煙囪、澄波、鬼武等四大舞台，除了[日本外](../Page/日本.md "wikilink")，[以色列](../Page/以色列.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[英國等地樂團也開始前來報名參加音樂祭](../Page/英國.md "wikilink")，使Wake
-Up音樂祭成為[嘉義有史以來第一個售票演唱會與音樂祭](../Page/嘉義.md "wikilink")。
+Up音樂祭擴增為四個舞台，分別為射日、煙囪、澄波、鬼武等四大舞台，除了[日本外](../Page/日本.md "wikilink")，[以色列](../Page/以色列.md "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[英國等地樂團也開始前來報名參加音樂祭](https://zh.wikipedia.org/wiki/英國 "wikilink")，使Wake
+Up音樂祭成為[嘉義有史以來第一個售票演唱會與音樂祭](https://zh.wikipedia.org/wiki/嘉義 "wikilink")。
 
-射日舞台-[臺灣原住民射日傳說為發想的活動主舞台](../Page/臺灣原住民.md "wikilink")。
-煙囪舞台-[嘉義舊酒廠之煙囪古蹟為背景之舞台](../Page/嘉義文化創意產業園區.md "wikilink")。
+射日舞台-[臺灣原住民射日傳說為發想的活動主舞台](https://zh.wikipedia.org/wiki/臺灣原住民 "wikilink")。
+煙囪舞台-[嘉義舊酒廠之煙囪古蹟為背景之舞台](https://zh.wikipedia.org/wiki/嘉義文化創意產業園區 "wikilink")。
 澄波舞台-[臺灣歷史上最有名之嘉義畫家](../Page/臺灣歷史.md "wikilink")[陳澄波為主之舞台](../Page/陳澄波.md "wikilink")，並舉辦澄波大賞供新銳樂團競技。
-鬼武舞台-嘉義最知名鬼屋「[民雄鬼屋](../Page/民雄鬼屋.md "wikilink")」為發想之主題，當時唯一售票舞台，引申意為如鬼神般強大的樂團演出。
+鬼武舞台-嘉義最知名鬼屋「[民雄鬼屋](https://zh.wikipedia.org/wiki/民雄鬼屋 "wikilink")」為發想之主題，當時唯一售票舞台，引申意為如鬼神般強大的樂團演出。
 
 ## 第六屆
 
 Wake
 Up音樂祭經過六年努力，終於成功邀請到出道滿二十五週年的[伍佰老師帶領其樂團伍佰](../Page/伍佰.md "wikilink")&[China
-Blue回到嘉義演出](../Page/China_Blue.md "wikilink")，這也是伍佰第一次在嘉義參與售票型的演出，創造100萬以上人次的網路廣告效益，並登上《[聯合報](../Page/聯合報.md "wikilink")》與其他報紙的全國版面，許多新聞台也有報導，同年共九個國家150組樂團共同參演，其中包含[滅火器](../Page/滅火器.md "wikilink")、[四分衛](../Page/四分衛樂團.md "wikilink")、[夾子電動大樂隊等知名樂團演出](../Page/夾子電動大樂隊.md "wikilink")。
+Blue回到嘉義演出](https://zh.wikipedia.org/wiki/China_Blue "wikilink")，這也是伍佰第一次在嘉義參與售票型的演出，創造100萬以上人次的網路廣告效益，並登上《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》與其他報紙的全國版面，許多新聞台也有報導，同年共九個國家150組樂團共同參演，其中包含[滅火器](https://zh.wikipedia.org/wiki/滅火器 "wikilink")、[四分衛](../Page/四分衛樂團.md "wikilink")、[夾子電動大樂隊等知名樂團演出](https://zh.wikipedia.org/wiki/夾子電動大樂隊 "wikilink")。
 
 ## 第七屆
 
@@ -78,9 +78,9 @@ CARE》修正許多第七屆的問題，傲頭厝的經營從前半年人事不�
 
 ## 相關條目
 
-  - [國立嘉義高級商業職業學校](../Page/國立嘉義高級商業職業學校.md "wikilink")
+  - [國立嘉義高級商業職業學校](https://zh.wikipedia.org/wiki/國立嘉義高級商業職業學校 "wikilink")
   - [嘉義市國際管樂節](../Page/嘉義市國際管樂節.md "wikilink")
-  - [嘉義車站](../Page/嘉義車站.md "wikilink")
+  - [嘉義車站](https://zh.wikipedia.org/wiki/嘉義車站 "wikilink")
 
 [Category:台灣音樂節](https://zh.wikipedia.org/wiki/Category:台灣音樂節 "wikilink")
 [Category:嘉義縣市文化](https://zh.wikipedia.org/wiki/Category:嘉義縣市文化 "wikilink")

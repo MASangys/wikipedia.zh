@@ -2,7 +2,7 @@
 Hop](../Page/嘻哈.md "wikilink"),
 Pop創作组合，前身為清晨樂團。成立於2015年並正式投入公開活動。清晨樂團時期主要成員為
 Reg(rapper/DJ) 及 DJ Bunny。 MELO
-MELON的音樂風格以[EDM](../Page/EDM.md "wikilink")、[HipHop](../Page/HipHop.md "wikilink")、[Pop為主](../Page/Pop.md "wikilink")，並活躍於各大商場，社區活動演出。
+MELON的音樂風格以[EDM](https://zh.wikipedia.org/wiki/EDM "wikilink")、[HipHop](https://zh.wikipedia.org/wiki/HipHop "wikilink")、[Pop為主](https://zh.wikipedia.org/wiki/Pop "wikilink")，並活躍於各大商場，社區活動演出。
 
 2015年(清晨樂團時期)於香港動漫電玩節創天綜合同人祭演出, 同年推出首張派台digital single《回頭說愛你》。
 

@@ -1,6 +1,6 @@
-是一款由[Dimps制作](../Page/Dimps.md "wikilink")、[SNK发行的](../Page/SNK.md "wikilink")[格斗类游戏](../Page/格斗类游戏.md "wikilink")。\[1\]本游戏于1999年11月30日在日本地区[Neo
+是一款由[Dimps制作](../Page/Dimps.md "wikilink")、[SNK发行的](../Page/SNK.md "wikilink")[格斗类游戏](https://zh.wikipedia.org/wiki/格斗类游戏 "wikilink")。\[1\]本游戏于1999年11月30日在日本地区[Neo
 Geo Pocket
-Color平台发行](../Page/Neo_Geo_Pocket_Color.md "wikilink")。\[2\]本游戏共包括28位来自SNK和卡普空的角色，其中有8位是隐藏角色。游戏选项包括2人附属队伍和3人队伍，当然还有一对一模式。玩家可以选择卡普空式的级别评价标准，或为SNK式的分数评价标准，或者为“中间式”的增强大招模式。
+Color平台发行](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")。\[2\]本游戏共包括28位来自SNK和卡普空的角色，其中有8位是隐藏角色。游戏选项包括2人附属队伍和3人队伍，当然还有一对一模式。玩家可以选择卡普空式的级别评价标准，或为SNK式的分数评价标准，或者为“中间式”的增强大招模式。
 
 每位角色都有一位对应的对手，他们会在第四关进行对决。最后两关要与吉斯（Geese）和拜森（Bison）的组合进行对决，之后需要进行对决的是与玩家选择的角色有关：大蛇八神（Orochi
 Iori）或者杀意隆（Evil Ryu）。
@@ -18,7 +18,8 @@ Iori）或者杀意隆（Evil Ryu）。
 
 1.  [*snk vs
     capcom*](http://www.mobygames.com/game/neo-geo-pocket-color/snk-vs-capcom-the-match-of-the-millennium)
-    game overview at [MobyGames](../Page/MobyGames.md "wikilink")
+    game overview at
+    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 2.
 3.  *ネオジオポケット - 頂上決戦最強ファイターズ SNK VS. CAPCOM*. Weekly Famitsu. No.915
     Pt.2. Pg.4. 30 June 2006.

@@ -1,4 +1,4 @@
-《**GANGSTA.**》（）是[日本漫畫家](../Page/日本漫畫家.md "wikilink")的[日本漫畫](../Page/日本漫畫.md "wikilink")[作品](../Page/作品.md "wikilink")。於[新潮社漫畫雜誌](../Page/新潮社.md "wikilink")《[月刊Comic@BUNCH](../Page/月刊Comic@BUNCH.md "wikilink")》2011年3月號（創刊號）開始連載至今
+《**GANGSTA.**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[作品](../Page/作品.md "wikilink")。於[新潮社漫畫雜誌](https://zh.wikipedia.org/wiki/新潮社 "wikilink")《[月刊Comic@BUNCH](https://zh.wikipedia.org/wiki/月刊Comic@BUNCH "wikilink")》2011年3月號（創刊號）開始連載至今
 
 故事描述在一条由黑帮支配的街区，盘踞着各式各樣的人們，在一位看似性格温柔的枪手沃里克和一位双耳失聪但有着锐利双眼的刀客尼古拉斯所经营的「便利屋」之下，作者为我们描绘了一个他们不论哪方势力、何人委托帮人处理各种「脏事」的故事。
 
@@ -13,8 +13,7 @@
 ### 便利屋（HANDY MAN）
 
   -
-    左眼失明的大叔。原本是阿爾坎杰羅家的二兒子，母親是个妓女，由於長相像他母親，小時候經常受到父親的毆打。其父導致他左眼失明，那天父亲及其全家被尼克殺杀，據報紙報導懷疑是尼克將沃里克挾持为人質出逃
-    。牛郎生涯22年，自稱雖然是大叔了也“很受歡迎”。後背有和尼克一樣的紋身。患有Hyperthymesia，記憶力超群，被茶渡先生稱為“儲存器「storage」”、用泰奥的說法是“超記憶症候群”（[超憶症](../Page/超憶症.md "wikilink")），分析能力也很强，也因為這項能力，便利屋才不屬於任何組織保持中立。槍法似乎也很了得。老煙槍。在便利屋中負責接電話辦業務和做飯，便利屋二樓牆上貼有兩張沃里克秘藏巨乳肥臀杰西卡色情海報（其中一張在沃里克的寢室，另一張在客廳）。熱愛閱讀，有著中立的立場。是尼克拉斯·布朗的契約主人。
+    左眼失明的大叔。原本是阿爾坎杰羅家的二兒子，母親是个妓女，由於長相像他母親，小時候經常受到父親的毆打。其父導致他左眼失明，那天父亲及其全家被尼克杀，據報紙報導懷疑是尼克將沃里克挾持为人質出逃。牛郎生涯22年，自稱雖然是大叔了也“很受歡迎”。後背有和尼克一樣的紋身。患有Hyperthymesia，記憶力超群，被茶渡先生稱為“儲存器「storage」”、用泰奥的說法是“超記憶症候群”（[超憶症](https://zh.wikipedia.org/wiki/超憶症 "wikilink")），分析能力也很强，也因為這項能力，便利屋才不屬於任何組織保持中立。槍法似乎也很了得。老煙槍。在便利屋中負責接電話辦業務和做飯，便利屋二樓牆上貼有兩張沃里克秘藏巨乳肥臀杰西卡色情海報（其中一張在沃里克的寢室，另一張在客廳）。熱愛閱讀，有著中立的立場。是尼克拉斯·布朗的契約主人。
     在動畫結尾，被斯特瑞克刺傷並丟出窗外。
 
 <!-- end list -->
@@ -222,14 +221,14 @@
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/新潮社.md" title="wikilink">新潮社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/新潮社" title="wikilink">新潮社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -346,7 +345,7 @@
   -
     著者：河端ジュン一
     原創故事小說。講述漫畫本篇以前的故事。
-    [新潮社](../Page/新潮社.md "wikilink")〈[新潮文庫nex](../Page/新潮文庫nex.md "wikilink")〉2015年8月1日發售、ISBN
+    [新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")〈[新潮文庫nex](https://zh.wikipedia.org/wiki/新潮文庫nex "wikilink")〉2015年8月1日發售、ISBN
     978-4-10-180039-4
 
 ## 广播剧CD
@@ -366,7 +365,7 @@ Works发售](../Page/Frontier_Works.md "wikilink")，共计五卷。起初预计
 ## 電視動畫
 
 该作品于2014年7月正式宣布电视动画化的决定\[1\]，并于2015年7月（夏季档）开始，于[朝日放送](../Page/朝日放送.md "wikilink")、[TOKYO
-MX](../Page/TOKYO_MX.md "wikilink")、[爱知電視台](../Page/爱知電視台.md "wikilink")、[BS11开始放送](../Page/BS11.md "wikilink")。
+MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[爱知電視台](https://zh.wikipedia.org/wiki/爱知電視台 "wikilink")、[BS11开始放送](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
 
 ### 製作人員
 
@@ -388,9 +387,9 @@ MX](../Page/TOKYO_MX.md "wikilink")、[爱知電視台](../Page/爱知電視台.
   - 製片人：遠藤直子、小岐須泰世、堀隼人、大久保隆一、森菜摘、白石容子、鹽谷佳之、西出將之
   - 動畫製作人：河內山隆、石田健二郎
   - 動畫製作：[Manglobe](../Page/Manglobe.md "wikilink")
-  - 製作：GANGSTA.製作委員會（[萬代影視](../Page/萬代影視.md "wikilink")、[博報堂DY媒體合作夥伴](../Page/博報堂.md "wikilink")、[新潮社](../Page/新潮社.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[Frontier
+  - 製作：GANGSTA.製作委員會（[萬代影視](../Page/萬代影視.md "wikilink")、[博報堂DY媒體合作夥伴](../Page/博報堂.md "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[Frontier
     Works](../Page/Frontier_Works.md "wikilink")、DAX國際、[TOKYO
-    MX](../Page/TOKYO_MX.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")）
+    MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")）
 
 ### 主題曲
 
@@ -400,7 +399,7 @@ MX](../Page/TOKYO_MX.md "wikilink")、[爱知電視台](../Page/爱知電視台.
 <!-- end list -->
 
   - 片尾曲「」
-    作詞、歌：[Annabel](../Page/Annabel.md "wikilink")，作曲、編曲：R・O・N\[2\]
+    作詞、歌：[Annabel](https://zh.wikipedia.org/wiki/Annabel "wikilink")，作曲、編曲：R・O・N\[2\]
 
 <!-- end list -->
 
@@ -477,7 +476,7 @@ MX](../Page/TOKYO_MX.md "wikilink")、[爱知電視台](../Page/爱知電視台.
 <td><p>Act.07</p></td>
 <td><p>BIRTH</p></td>
 <td><p>猪爪慎一</p></td>
-<td><p><a href="../Page/芦野芳晴.md" title="wikilink">芦野芳晴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/芦野芳晴" title="wikilink">芦野芳晴</a></p></td>
 <td><p>福冈大生</p></td>
 <td><p>荒尾英幸、北村晋哉、北山修一<br />
 宫西多麻子、冈崎洋美</p></td>
@@ -495,7 +494,7 @@ MX](../Page/TOKYO_MX.md "wikilink")、[爱知電視台](../Page/爱知電視台.
 <td><p>Act.09</p></td>
 <td><p>SIBLINGS</p></td>
 <td><p>高木圣子</p></td>
-<td><p><a href="../Page/大桥誉志光.md" title="wikilink">大桥誉志光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大桥誉志光" title="wikilink">大桥誉志光</a></p></td>
 <td><p>小野田雄亮</p></td>
 <td><p>饭岛弘也、小园菜穂、田寄雅郁<br />
 沓泽洋子、山村俊了</p></td>
@@ -536,7 +535,7 @@ Park Hyeran、冈崎洋美</p></td>
 </tbody>
 </table>
 
-  - 在Act.09播出后的下一周（2015年9月7日）播出特别篇《9.5》，该集的旁白配音为[桥诘知久](../Page/桥诘知久.md "wikilink")。
+  - 在Act.09播出后的下一周（2015年9月7日）播出特别篇《9.5》，该集的旁白配音为[桥诘知久](https://zh.wikipedia.org/wiki/桥诘知久 "wikilink")。
 
 ### 播放電視台
 
@@ -553,18 +552,18 @@ Park Hyeran、冈崎洋美</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/朝日放送.md" title="wikilink">朝日放送</a></p></td>
 <td><p>2015年7月1日－9月23日</p></td>
 <td><p>星期三 26時44分－27時14分</p></td>
-<td><p><a href="../Page/朝日電視網.md" title="wikilink">朝日電視網</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝日電視網" title="wikilink">朝日電視網</a></p></td>
 <td><p><strong>製作委員會參加</strong><br />
 「星期三動畫《水Mon》」第2部<br />
 沒有播映「9.5」</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2015年7月5日－9月27日</p></td>
 <td><p>星期日 23時00分－23時30分</p></td>
 <td><p><a href="../Page/全國獨立放送協議會.md" title="wikilink">獨立局</a></p></td>
@@ -580,17 +579,17 @@ Park Hyeran、冈崎洋美</p></td>
 </tr>
 <tr class="even">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/BS11.md" title="wikilink">BS11</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>2015年7月8日－9月30日</p></td>
 <td><p>星期三 24分30分－25時00分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>「<a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>」節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NICONICO直播.md" title="wikilink">NICONICO直播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO直播" title="wikilink">NICONICO直播</a></p></td>
 <td><p>2015年7月9日－10月1日</p></td>
 <td><p>星期四 23時30分－24時00分</p></td>
-<td><p><a href="../Page/網絡電視.md" title="wikilink">網絡電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
 <td><p>支持時移</p></td>
 <td></td>
 </tr>
@@ -614,7 +613,7 @@ Park Hyeran、冈崎洋美</p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2015年10月6日－</p></td>
 <td><p>星期二 20時00分－20時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>有重播</p></td>
 <td></td>
 </tr>

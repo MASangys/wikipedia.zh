@@ -1,14 +1,14 @@
-**eFUSE**是[IBM發明的一種技術](../Page/IBM.md "wikilink")，可以動態實時的重新修改[積體電路中的程式](../Page/積體電路.md "wikilink")。簡單來說，積體電路中的程式在工廠生產時就已蝕刻在積體電路中，在積體電路中出廠後無法再修改。但透過eFUSE的技術，積體電路生產商可以在其運作時再調整積體電路中的電路。
+**eFUSE**是[IBM發明的一種技術](../Page/IBM.md "wikilink")，可以動態實時的重新修改[積體電路中的程式](https://zh.wikipedia.org/wiki/積體電路 "wikilink")。簡單來說，積體電路中的程式在工廠生產時就已蝕刻在積體電路中，在積體電路中出廠後無法再修改。但透過eFUSE的技術，積體電路生產商可以在其運作時再調整積體電路中的電路。
 
 此技術主要的應用是在晶片上的性能調校。若有某個子系統不動作、回應時間太長，或是消耗的電過大，可以熔斷eFUSE來調整其性能。
 
 另一個用途是防止降級設備固件行為，[任天堂的](../Page/任天堂.md "wikilink")[Nintendo
-Switch和](../Page/Nintendo_Switch.md "wikilink")[微軟的](../Page/微軟.md "wikilink")[Xbox
+Switch和](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox
 360在安裝新固件之前就會燒毀一定數量的保險絲](../Page/Xbox_360.md "wikilink")，預計燒毀的保險絲數量取決於現有安裝硬體的型號和固件版本。如果有太多的保險絲燒毀（這意味著安裝固件比現有固件更舊），引導程式將死機，防止繼續安裝。在成功陞級固件版本之後，系統將燒毀所需保險絲，以匹配預期的數量。
 
 ## 實現
 
-  - IBM的[POWER5及](../Page/POWER5.md "wikilink")[POWER6高端](../Page/POWER6.md "wikilink")[RISC處理器](../Page/RISC.md "wikilink")。
+  - IBM的[POWER5及](https://zh.wikipedia.org/wiki/POWER5 "wikilink")[POWER6高端](https://zh.wikipedia.org/wiki/POWER6 "wikilink")[RISC處理器](https://zh.wikipedia.org/wiki/RISC "wikilink")。
 
   - 及[大型计算机處理器](../Page/大型计算机.md "wikilink")。
 
@@ -24,7 +24,7 @@ Switch和](../Page/Nintendo_Switch.md "wikilink")[微軟的](../Page/微軟.md "
 
 ## 相關條目
 
-  - [可程式邏輯裝置](../Page/可程式邏輯裝置.md "wikilink")（PLC）
+  - [可程式邏輯裝置](https://zh.wikipedia.org/wiki/可程式邏輯裝置 "wikilink")（PLC）
 
   - [现场可编程逻辑门阵列](../Page/现场可编程逻辑门阵列.md "wikilink")（FPGA）
 

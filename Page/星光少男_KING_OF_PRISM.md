@@ -3,7 +3,7 @@ PrettyRhythm**」和「**星光少男 KING OF PRISM PRIDE the HERO**」\[1\]。
 
 ## 概要
 
-此作是2013年播放的[電視動畫](../Page/電視動畫.md "wikilink")《[星光少女
+此作是2013年播放的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[星光少女
 彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")》延續世界觀三年後的外傳作品，亦為裡面三位男角（神濱幸司、速水廣、仁科一月）的延伸故事。青葉讓(菱田正和)劇本，人物設計和原案皆由《[星光少女
 彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")》人物設計師擔任，CG監督為乙部善弘。
 
@@ -16,7 +16,7 @@ DISC』發售紀念活動中，當場發表製作預告。2016年1月9日起在�
 9上映\[2\]。
 
 香港把此作譯為「星光少男
-彩虹舞台」，於8月24日於[MCL德福戲院上映](../Page/MCL德福戲院.md "wikilink")。台湾把此作譯為「星光美男
+彩虹舞台」，於8月24日於[MCL德福戲院上映](https://zh.wikipedia.org/wiki/MCL德福戲院 "wikilink")。台湾把此作譯為「星光美男
 彩虹舞台」，由[木棉花國際代理](../Page/木棉花國際.md "wikilink")，於9月1日在威秀影城上映4DX版本。
 
 該作的手機遊戲「KING OF PRISM プリズムラッシュ！LIVE」屬音樂節奏遊戲，支援IOS及Android
@@ -84,13 +84,13 @@ Rose」存亡危機。
 
   -
     本作的主人公。應援色赤色。明星系。
-    168CM，2月29日生，[雙魚座](../Page/雙魚座.md "wikilink")，與如月路易同天，國三，O型，出生地神奈川縣川崎市。
+    168CM，2月29日生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，與如月路易同天，國三，O型，出生地神奈川縣川崎市。
     本作登場新生之一。憧憬Over The Rainbow。
     很想成為像Over The Rainbow這樣的星光舞者，受到冰室聖的邀请而入讀「薔薇學園」。
     總是開朗樂觀，具有天生的光輝、單純，很容易與人打成一片。幸司因此而特别為他作個人歌曲，也獲得一眾同伴的推廌，代表學園參賽星光天王杯。
     座右銘:『世界はいつも輝いている！』
     於4/1『KING OF PRINCESS』女裝計畫扮演荊凜音。
-    一條新與如月路易，在第一部時，於7/7第一次相遇，他們生日同天，而他們的聲優寺島惇太與蒼井翔太生日也同為8/11，官方表示聲優生日同天純屬巧合。新的後頸位置有一個月亮胎記，疑為與如月路易在前世折斷其夢幻羽翼有關。
+    一條新與如月路易，在第一部時，於7/7第一次相遇，他們生日同天，而他們的聲優寺島惇太與蒼井翔太生日也同為8/11，官方表示聲優生日同天純屬巧合。新的後頸位置有一個月亮胎記，疑為與如月路易在前世折斷其夢幻羽翼的封印有關。
 
 <!-- end list -->
 
@@ -193,7 +193,7 @@ Rose」存亡危機。
 <!-- end list -->
 
   -
-    出生日期2月29日，與一條新同天。[雙魚座](../Page/雙魚座.md "wikilink")。
+    出生日期2月29日，與一條新同天。[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")。
     172CM，血型?，出生地?，應援色白色。
     謎之美少年。引導一條新的「Prism Show」，疑為星光世界的使者，知道純音的身份，估計以少年冰室聖的形象來改變外表，來到仁的身邊。
     入住「Schwartz Rose」的大廈最上層，常在大浴池洗澡時跟仁的對話。
@@ -209,7 +209,8 @@ Rose」存亡危機。
     「Prism Show」的破壞者，街頭暴君。是仁對付一月的秘密武器，認為一月不再適合當街頭派的領導者。
     憧憬黑川冷。
     應援色紫色。左撇子。
-    190CM，6月6日生 [雙子座](../Page/雙子座.md "wikilink") ，B型，出生地神奈川県横須賀市。
+    190CM，6月6日生 [雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")
+    ，B型，出生地神奈川県横須賀市。
     座右銘:『唯我独尊 I am No.1！』
     歌曲: 與仁科一月合唱及獨唱《EZ DO DANCE -K.O.P. REMIX-》
 
@@ -218,8 +219,9 @@ Rose」存亡危機。
   -
     第二部《PRIDE the HERO》登場角色，「Schwartz Rose」內「The
     shuffle\!」的成員，當中最強的偶像兼隊長。
-    175CM ，9月15日生 ( [高田馬場站開業的日子](../Page/高田馬場站.md "wikilink") )
-    (也和前作星光少女彩虹舞台角色，小鳥遊音羽同天。)
+    175CM ，9月15日生 (
+    [高田馬場站開業的日子](https://zh.wikipedia.org/wiki/高田馬場站 "wikilink")
+    ) (也和前作星光少女彩虹舞台角色，小鳥遊音羽同天。)
     高一生，O型，甜蜜系。
     出生岡山縣岡山市，應援色黃色。
     座右銘:『君を天国にイカせてあげる⤴』
@@ -254,17 +256,18 @@ Rose」存亡危機。
 ## 工作人員
 
   - 原作：Tomy Arts、Shin Sofia
-  - 導演：[菱田正和](../Page/菱田正和.md "wikilink")
+  - 導演：[菱田正和](https://zh.wikipedia.org/wiki/菱田正和 "wikilink")
   - 編劇：青葉譲(菱田正和)
   - 人物原型與設計：松浦麻衣
   - CG總監：乙部善弘
   - 星光舞台演出︰京極尚彥
-  - 動畫製作：[龍之子](../Page/龍之子.md "wikilink")
+  - 動畫製作：[龍之子](https://zh.wikipedia.org/wiki/龍之子 "wikilink")
   - 音樂︰ 石塚玲依
   - 音樂監督︰ 長崎行男
-  - 音樂製作：[Avex Pictures](../Page/Avex.md "wikilink")
+  - 音樂製作：[Avex Pictures](https://zh.wikipedia.org/wiki/Avex "wikilink")
   - 音響製作︰ HALF H・P STUDIO
-  - 製作：[KING OF PRISM製作委員會](../Page/製作委員会方式.md "wikilink")
+  - 製作：[KING OF
+    PRISM製作委員會](https://zh.wikipedia.org/wiki/製作委員会方式 "wikilink")
 
 ## 電視動畫
 
@@ -273,8 +276,8 @@ Rose」存亡危機。
 ### 工作人員
 
   - 原作：Tomy Arts、Shin Sofia
-  - 導演：[菱田正和](../Page/菱田正和.md "wikilink")
-  - 副導演：[渡邊 葉](../Page/渡邊_葉.md "wikilink")
+  - 導演：[菱田正和](https://zh.wikipedia.org/wiki/菱田正和 "wikilink")
+  - 副導演：[渡邊 葉](https://zh.wikipedia.org/wiki/渡邊_葉 "wikilink")
   - 編劇：青葉譲(菱田正和)
   - 角色原型：松浦麻衣
   - 角色設計：原 將治
@@ -286,13 +289,14 @@ Rose」存亡危機。
   - 美術導演：Scott MacDonald
   - 美術設定：高橋麻穗
   - 攝影導演：神木正士
-  - 動畫製作：[龍之子](../Page/龍之子.md "wikilink")
+  - 動畫製作：[龍之子](https://zh.wikipedia.org/wiki/龍之子 "wikilink")
   - 編輯：坂本雅紀（森田編輯室）
   - 音樂︰ 石塚玲依
   - 音樂監督︰ 長崎行男
-  - 音樂製作：[Avex Pictures](../Page/Avex.md "wikilink")
+  - 音樂製作：[Avex Pictures](https://zh.wikipedia.org/wiki/Avex "wikilink")
   - 音響製作︰ HALF H・P STUDIO
-  - 製作：[KING OF PRISM製作委員會](../Page/製作委員会方式.md "wikilink")
+  - 製作：[KING OF
+    PRISM製作委員會](https://zh.wikipedia.org/wiki/製作委員会方式 "wikilink")
 
 ### 播放電視台
 
@@ -326,7 +330,7 @@ Rose」存亡危機。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td><p>週一 2時05分－2時35分</p></td>
 <td></td>
@@ -335,10 +339,10 @@ Rose」存亡危機。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/日本.md" title="wikilink">日本全國</a></p></td>
-<td><p><a href="../Page/BS東視.md" title="wikilink">BS東視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS東視" title="wikilink">BS東視</a></p></td>
 <td><p>2019年4月10日－</p></td>
 <td><p>週三 0時30分－1時00分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>4K超高清畫質播出</p></td>
 </tr>
 </tbody>
@@ -364,6 +368,10 @@ Rose」存亡危機。
 [Category:星光少女](https://zh.wikipedia.org/wiki/Category:星光少女 "wikilink")
 [Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink")
 [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")
+[Category:2019年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2019年東京電視網動畫 "wikilink")
+[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
+[Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink")
+[Category:動畫衍生作品](https://zh.wikipedia.org/wiki/Category:動畫衍生作品 "wikilink")
 
 1.
 2.
